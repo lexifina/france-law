@@ -4,1560 +4,954 @@ FORMAT CSV
 
 Généralités
 
-FORMAT
+RÈGLES DE GESTION LIÉES AU FICHIER CSV |
 
-|
+Format : UTF-8 |
 
-DESCRIPTION
+Séparateur : Pipe (c'est-à-dire |) |
 
-|
+En-tête de colonne sur la première ligne : oui (obligatoire) |
 
-EXEMPLE DE VALEUR
+Nom du fichier : identifiant # AAAAMMJJ # HHmmss # declaration. csv |
 
-|
+Avec identifiant = = identifiant de connexion du compte déclarant obtenu lors de l'inscription au site unique |
 
-TEXTE
+Exemple : 12345678 # 20130905 # 205612 # declaration. csv |
 
-|
+RÈGLES DE GESTION LIÉES AU FORMAT |
 
-Alphanumérique en majuscules sans accent et de longueur au plus égale à 256 caractères
+Un champ obligatoire non rempli génère une erreur (donc la ligne de déclaration n'est pas importée) |
 
-|
+Un champ de type LISTE dont la valeur n'appartient pas à la liste des valeurs possibles génère une erreur |
 
-MEDECIN
+Un champ dont la valeur ne correspond à à son format génère une erreur |
 
-|
+AUTRES RÈGLES DE GESTION |
 
-IDENTIFIANT
+Une valeur non renseignée correspond à aucun caractère (et non un caractère espace par exemple) |
 
-|
+Exemple en 3e position : [A] | 21/09/2013 | | Manifestation |
 
-[0-9][A-Z] - Caractères tiret et underscore autorisés - Longueur au plus égale à 128 caractères
-
-|
-
-1234-67
-
-|
-
-MONTANT
-
-|
-
-Montant : entier arrondi à l'euro supérieur au plus égal à 1 000 000 (à valider)
-
-|
-
-159
-
-|
-
-CODEPOSTAL
-
-|
-
-Code postal : alphanumérique sur 10 caractères
-
-|
-
-75008
-
-|
-
-DATE
-
-|
-
-Date : JJ/MM/AAAA sur 10 caractères
-
-|
-
-05/09/2013
-
-|
-
-LISTE
-
-|
-
-Valeur parmi une liste de valeurs possibles - Entre crochets
-
-|
-
-[RPPS]
-
-|
-
-.
-
-RÈGLES DE GESTION LIÉES AU FICHIER CSV
-
-|
-
-Format : UTF-8
-
-|
-
-Séparateur : Pipe (c'est-à-dire |)
-
-|
-
-En-tête de colonne sur la première ligne : oui (obligatoire)
-
-|
-
-Nom du fichier : identifiant#AAAAMMJJ#HHmmss#declaration.csv
-
-|
-
-Avec identifiant = identifiant de connexion du compte déclarant obtenu lors de l'inscription au site unique
-
-|
-
-Exemple : 12345678#20130905#205612#declaration.csv
-
-|
-
-.
-
-RÈGLES DE GESTION LIÉES AU FORMAT
-
-|
-
-Un champ obligatoire non rempli génère une erreur (donc la ligne de déclaration n'est pas importée)
-
-|
-
-Un champ de type LISTE dont la valeur n'appartient pas à la liste des valeurs possibles génère une erreur
-
-|
-
-Un champ dont la valeur ne correspond pas à son format génère une erreur
-
-|
-
-.
-
-AUTRES RÈGLES DE GESTION
-
-|
-
-Une valeur non renseignée ne correspond à aucun caractère (et non un caractère espace par exemple)
-
-|
-
-Exemple en 3e position : [A]|21/09/2013||Manifestation
-
-|
-
-Aucune valeur ne peut contenir le caractère pipe (|)
-
-|
+Aucune valeur ne peut contenir le caractère pipe (|) |
 
 Déclaration
 
-NOM
+NOM DU CHAMP |
 
-du champ
+OBLIGATOIRE |
 
-|
-
-OBLIGATOIRE
-
-|
-
-UNICITÉ
-
-|
+UNICITÉ |
 
 DESCRIPTIF
 
-du champ
+du champ |
 
-|
-
-FORMAT
-
-|
-
-LISTE
-
-de valeurs/
-
-commentaire
-
-|
-
-RÈGLE
-
-de gestion
-
-alerte
-
-|
-
-RÈGLE
-
-de gestion
-
-erreur
-
-|
-
-ENTREPRISE_IDENTIFIANT
-
-|
-
-Oui
-
-|
-
-Le couple (ENTREPRISE
-
-IDENTIFIANT, LIGNE_IDENTIFIANT) est unique
-
-|
-
-Identifiant unique de l'entreprise ayant signé cette convention ou versé cet avantage
-
-|
-
-IDENTIFIANT
-
-|
-
-Cette valeur permet d'attacher cette ligne de déclaration à l'entreprise (mandant) concernée si une entreprise (mandataire) transmet cette ligne de déclaration. Cette colonne permet de gérer le cas d'une entreprise qui déclare pour d'autres entreprises lui ayant donné mandat. Sinon l'entreprise déclarante indique son propre identifiant récupéré lors de son inscription sur le site unique.
-
-|
-
-|
-
-Si la valeur ENTREPRISE_IDENTIFIANt#LIGNE
-
-_IDENTIFIANT existe déjà dans le système et que la valeur LIGNE_ACTION est égale à [C] ;
-
-Si la valeur ENTREPRISE_IDENTIFIANt#LIGNE_
-
-IDENTIFIANT n'existe pas dans le système et que la valeur LIGNE_ACTION est égale à [M] ou [V] ;
-
-Si la valeur ENTREPRISE_IDENTIFIANT n'existe pas dans le système ;
-
-Si la valeur ENTREPRISE_IDENTIFIANT n'est pas un compte (ou un sous-compte) géré par le compte de l'utilisateur qui importe le fichier ou appelle le service web (gestion des habilitations).
-
-|
-
-LIGNE_IDENTIFIANT
-
-|
-
-Oui
-
-|
-
-Identifiant unique de la ligne de déclaration (convention ou avantage) dans le système de l'entreprise déclarante
-
-|
-
-IDENTIFIANT
-
-|
-
-Cette valeur joue le rôle de clé pour identifier de manière unique cette ligne de déclaration (avantage ou convention). Elle est fournie en entrée par l'entreprise pour pouvoir par exemple procéder à une correction ultérieure.
-
-|
-
-|
-
-|
-
-LIGNE_ACTION
-
-|
-
-Oui
-
-|
-
-Non
-
-|
-
-Code action
-
-|
-
-LISTE
-
-|
-
-[C] pour Création ;
-
-[M] pour Modification ;
-
-[S] pour Suppression ;
-
-[V] pour Validation (cas d'un retour suite à alerte).
-
-Important : lorsque le champ LIGNE_ACTION est égal à [V], aucun contrôle de type ALERTE n'est réalisé puisque l'entreprise valide les données de cette ligne de déclaration. En revanche les contrôles de type ERREUR sont toujours exécutés.
-
-|
-
-|
-
-|
-
-LIGNE_DEMANDE_
-
-RECTIFICATION
-
-|
-
-Oui
-
-|
-
-Non
-
-|
-
-Ligne corrige une demande de rectification d'un bénéficiaire.
-
-|
-
-LISTE
-
-|
-
-[O] Oui ;
-
-[N] Non.
-
-Si [O], suppression du marqueur de demande de rectification du bénéficiaire sur le site grand public.
-
-|
-
-|
-
-|
-
-BENEF_CATEGORIE
-
-|
-
-Oui
-
-|
-
-Non
-
-|
-
-Catégorie du bénéficiaire
-
-|
-
-LISTE
-
-|
-
-[PRS] Les professionnels de santé relevant de la quatrième partie du présent code ;
-
-[APS] Les associations de professionnels de santé ;
-
-[ETU] Les étudiants se destinant aux professions relevant de la quatrième partie du présent code ainsi que les associations et groupements les représentant ;
-
-[AUS] Les associations d'usagers du système de santé ;
-
-[ETA] Les établissements de santé relevant de la sixième partie du présent code ;
-
-[FON] Les fondations, les sociétés savantes et les sociétés ou organismes de conseil intervenant dans le secteur des produits ou prestations mentionnés au premier alinéa ;
-
-[PRE] Les entreprises éditrices de presse, les éditeurs de services de radio ou de télévision et les éditeurs de services de communication au public en ligne ;
-
-[LOG] Les éditeurs de logiciels d'aide à la prescription et à la délivrance ;
-
-[PMO] Les personnes morales assurant la formation initiale des professionnels de santé mentionnés au 1° ou participant à cette formation.
-
-|
-
-|
-
-|
-
-BENEF_NOM
-
-|
-
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [ETU] ;
-
-Non sinon.
-
-|
-
-Non
-
-|
-
-Nom du bénéficiaire
-
-|
-
-TEXTE
-
-|
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] et [ETU].
-
-|
-
-|
-
-BENEF_PRENOM
-
-|
-
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [ETU] ;
-
-Non sinon.
-
-|
-
-Non
-
-|
-
-Prénom du bénéficiaire
-
-|
-
-TEXTE
-
-|
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] et [ETU].
-
-|
-
-|
-
-BENEF_QUALITE
-
-|
-
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ;
-
-Non sinon.
-
-|
-
-Non
-
-|
-
-Qualité/profession du bénéficiaire
-
-|
-
-LISTE
-
-|
-
-[10] Médecin ;
-
-[40] Chirurgien-dentiste ;
-
-[50] Sage-femme ;
-
-[21] Pharmacien ;
-
-[01] Préparateur en pharmacie et préparateur en pharmacie hospitalière ;
-
-[60] Infirmier ;
-
-[70] Masseur-kinésithérapeute ;
-
-[80] Pédicure-podologue ;
-
-[94] Ergothérapeute ;
-
-[96] Psychomotricien ;
-
-[91] Orthophoniste ;
-
-[92] Orthoptiste ;
-
-[98] Manipulateur d'électroradiologie médicale ;
-
-[86] Technicien de laboratoire médical ;
-
-[05] Audioprothésiste ;
-
-[28] Opticien-lunetier ;
-
-[82] Prothésiste et orthésiste pour l'appareillage des personnes handicapées ;
-
-[95] Diététicien ;
-
-[02] Aide-soignant ;
-
-[03] Auxiliaire de puériculture ;
-
-[04] Ambulancier.
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS].
-
-|
-
-|
-
-BENEF_ADRESSE1
-
-|
-
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
-
-Non sinon.
-
-|
-
-Non
-
-|
-
-Adresse du bénéficiaire
-
-|
-
-TEXTE
-
-|
-
-Adresse professionnelle si la valeur du champ BENEF_CATEGORIE est égale à [PRS] ;
-
-Adresse siège social ou équivalent si la valeur du champ BENEF_CATEGORIE est égale à [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
-
-|
-
-|
-
-BENEF_ADRESSE2
-
-|
-
-Non
-
-|
-
-Non
-
-|
-
-Complément 1 de l'adresse du bénéficiaire
-
-|
+FORMAT |
 
-TEXTE
+LISTE DE VALEURS/
 
-|
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
-
-|
-
-|
-
-BENEF_ADRESSE3
-
-|
-
-Non
-
-|
-
-Non
-
-|
-
-Complément 2 de l'adresse du bénéficiaire
-
-|
-
-TEXTE
-
-|
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
-
-|
-
-|
-
-BENEF_ADRESSE4
-
-|
-
-Non
-
-|
-
-Non
-
-|
-
-Complément 3 de l'adresse du bénéficiaire
-
-|
-
-TEXTE
-
-|
-
-|
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+commentaire |
 
-|
-
-|
-
-BENEF_CODEPOSTAL
-
-|
-
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
-
-Non sinon.
-
-|
-
-Non
-
-|
-
-Code postal du bénéficiaire
-
-|
+ENTREPRISE _ IDENTIFIANT |
 
-CODEPOSTAL
+Oui |
 
-|
+Le couple
 
-|
+(ENTREPRISE _ IDENTIFIANT,
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+LIGNE _ IDENTIFIANT) est unique |
 
-|
+Identifiant unique de l'entreprise ayant signé cette convention ou versé cet avantage |
 
-|
+IDENTIFIANT |
 
-BENEF_VILLE
+Cette valeur permet d'attacher cette ligne de déclaration à l'entreprise (mandant) concernée si une entreprise (mandataire) transmet cette ligne de déclaration. Cette colonne permet de gérer le cas d'une entreprise qui déclare pour d'autres entreprises lui ayant donné mandat. Sinon l'entreprise déclarante indique son propre identifiant récupéré lors de son inscription sur le site unique. |
 
-|
+LIGNE _ IDENTIFIANT |
 
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
+Oui |
 
-Non sinon.
+Identifiant unique de la ligne de déclaration (convention ou avantage) dans le système de l'entreprise déclarante |
 
-|
+IDENTIFIANT |
 
-Non
+Cette valeur joue le rôle de clé pour identifier de manière unique cette ligne de déclaration (avantage, rémunération ou convention). Elle est fournie en entrée par l'entreprise pour pouvoir par exemple procéder à une correction ultérieure. |
 
-|
+LIGNE _ ACTION |
 
-Ville du bénéficiaire
+Oui |
 
-|
+Non |
 
-LISTE
+Code action |
 
-|
+LISTE |
 
-|
+-[C] pour Création
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+-[M] pour Modification
 
-|
+-[S] pour Suppression
 
-|
+-[V] pour Validation (cas d'un retour suite à alerte) Important : lorsque le champ LIGNE _ ACTION est égal à [V], aucun contrôle de type ALERTE n'est réalisé puisque l'entreprise valide les données de cette ligne de déclaration. Par contre les contrôle de type ERREUR sont toujours exécutés. |
 
-BENEF_PAYS
+LIGNE _ DEMANDE _ RECTIFICATION |
 
-|
+Oui |
 
-Oui si le champ BENEF_CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
+Non |
 
-Non sinon.
+Ligne corrige une demande de rectification d'un bénéficiaire. |
 
-|
+LISTE |
 
-Non
+-[O] Oui
 
-|
+-[N] Non
 
-Pays du bénéficiaire
+Si [O], suppression du marqueur de demande de rectification du bénéficiaire sur le site grand public |
 
-|
+BENEF _ CATEGORIE |
 
-LISTE
+Oui |
 
-|
+Non |
 
-Norme ISO 3166-1 alpha-2 (entre crochets).
+Catégorie
 
-Exemple : [FR] pour France.
+du bénéficiaire |
 
-|
+LISTE |
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+-[PRS] Les professionnels de santé relevant de la quatrième partie du présent code
 
-|
+-[APS] Les associations de professionnels de santé
 
-|
+-[ETU] Les étudiants se destinant aux professions relevant de la quatrième partie du présent code ainsi que les associations et groupements les représentant
 
-BENEF_TITRE
+-[AUS] Les associations d'usagers du système de santé
 
-|
+-[ETA] Les établissements de santé relevant de la sixième partie du présent code
 
-Non
+-[FON] Les académies, fondations, les sociétés savantes et les sociétés ou organismes de conseil intervenant dans le secteur des produits ou prestations mentionnés au premier alinéa
 
-|
+-[PRE] Les entreprises éditrices de presse, les éditeurs de services de radio ou de télévision et les éditeurs de services de communication au public en ligne
 
-Non
+-[LOG] Les éditeurs de logiciels d'aide à la prescription et à la délivrance
 
-|
+-[PMO] Les personnes morales assurant la formation initiale ou continue des professionnels de santé mentionnés au 1° ou participant à cette formation
 
-Titre du bénéficiaire
+-[ADU] Les associations d
 
-|
+'étudiants
 
-LISTE
+-[VET] Les vétérinaires
 
-|
+-[SAN] Les groupements de défense sanitaire
 
-[PR] Professeur ;
+-[AGR] Les groupements reconnus de producteurs, les groupements professionnels agricoles |
 
-[MG] Médecin général ;
+BENEF _ NOM |
 
-[PG] Pharmacien général ;
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [ETU] ou [VET]
 
-[PC] Pharmacien-chef ;
+-Non sinon |
 
-[MC] Médecin-chef ;
+Non |
 
-[DR] Docteur ;
+Nom du bénéficiaire |
 
-[AUTRE] Autre.
+TEXTE |
 
 |
-
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS].
 
-|
+BENEF _ PRENOM |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [ETU] ou [VET]
 
-BENEF_SPECIALITE
+-Non sinon |
 
-|
+Non |
 
-Non
+Prénom
 
-|
+du bénéficiaire |
 
-Non
+TEXTE |
 
 |
 
-Spécialité (ou discipline) du bénéficiaire
+BENEF _ QUALITE |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS]
 
-LISTE
+-Non sinon |
 
-|
+Non |
 
-[SCD01] Orthopédie dento-faciale ;
+Qualité/ profession
 
-[SCD02] Chirurgie orale ;
+du bénéficiaire |
 
-[SCD03] Médecine bucco-dentaire ;
+LISTE |
 
-[SM01] Anatomie et cytologie pathologiques ;
+-[10] Médecin
 
-[SM02] Anesthésie-réanimation ;
+-[40] Chirurgien-dentiste
 
-[SM03] Biologie médicale ;
+-[50] Sage-femme
 
-[SM04] Cardiologie et maladies vasculaires ;
+-[21] Pharmacien
 
-[SM05] Chirurgie générale ;
+-[01] Préparateur en pharmacie et préparateur en pharmacie hospitalière
 
-[SM06] Chirurgie maxillo-faciale ;
+-[60] Infirmier
 
-[SM07] Chirurgie maxillo-faciale et stomatologie ;
+-[70] Masseur-kinésithérapeute
 
-[SM08] Chirurgie orthopédique et traumatologie ;
+-[80] Pédicure-podologue
 
-[SM09] Chirurgie infantile ;
+-[94] Ergothérapeute
 
-|
+-[96] Psychomotricien
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS].
+-[91] Orthophoniste
 
-|
+-[92] Orthoptiste
 
-|
+-[98] Manipulateur d'électroradiologie médicale
 
-[SM10] Chirurgie plastique reconstructrice et esthétique ;
+-[86] Technicien de laboratoire médical
 
-[SM11] Chirurgie thoracique et cardio-vasculaire ;
+-[05] Audioprothésiste
 
-[SM12] Chirurgie urologique ;
+-[28] Opticien-lunetier
 
-[SM13] Chirurgie vasculaire ;
+-[82] Prothésiste et orthésiste pour l'appareillage des personnes handicapées
 
-[SM14] Chirurgie viscérale et digestive ;
+-[95] Diététicien
 
-[SM15] Dermatologie et vénéréologie ;
+-[02] Aide soignant
 
-[SM16] Endocrinologie et métabolisme ;
+-[03] Auxiliaire de puériculture
 
-[SM17] Génétique médicale ;
+-[04] Ambulancier
 
-[SM18] Gériatrie ;
+-[ADE] Assistant dentaire |
 
-[SM19] Gynécologie médicale ;
+BENEF _ ADRESSE1 |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
 
-[SM20] Gynécologie-obstétrique ;
+-Non sinon |
 
-[SM21] Hématologie ;
+Non |
 
-[SM22] Hématologie (option maladie du sang) ;
+Adresse
 
-[SM23] Hématologie (option onco-hématologie) ;
+du bénéficiaire |
 
-[SM24] Gastro-entérologie et hépatologie ;
+TEXTE |
 
-[SM25] Médecine du travail ;
+-Adresse professionnelle si la valeur du champ BENEF _ CATEGORIE est égale à [PRS] ou [VET]
 
-[SM26] Qualifié en médecine générale ;
+-Adresse siège social ou équivalent si la valeur du champ BENEF _ CATEGORIE est égale à
 
-[SM27] Médecine interne ;
+[APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] |
 
-[SM28] Médecine nucléaire ;
+BENEF _ ADRESSE2 |
 
-[SM29] Médecine physique et réadaptation ;
+Non |
 
-[SM30] Néphrologie ;
+Non |
 
-[SM31] Neuro-chirurgie ;
+Complément 1
 
-[SM32] Neurologie ;
+de l'adresse
 
-[SM33] Neuro-psychiatrie ;
+du bénéficiaire |
 
-[SM34] ORL et chirurgie cervico-faciale ;
+TEXTE |
 
-[SM35] Oncologie (option onco-hématologie) ;
+BENEF _ ADRESSE3 |
 
-|
+Non |
 
-[SM36] Oncologie (option médicale) ;
+Non |
 
-[SM37] Oncologie (option radiothérapie) ;
+Complément 2
 
-[SM38] Ophtalmologie ;
+de l'adresse
 
-[SM39] Oto-rhino-laryngologie ;
+du bénéficiaire |
 
-[SM40] Pédiatrie ;
+TEXTE |
 
-[SM41] Pneumologie ;
+BENEF _ ADRESSE4 |
 
-[SM42] Psychiatrie ;
+Non |
 
-[SM43] Psychiatrie (option enfant et adolescent) ;
+Non |
 
-[SM44] Radiodiagnostic ;
+Complément 3
 
-[SM45] Radiothérapie ;
+de l'adresse
 
-[SM46] Réanimation médicale ;
+du bénéficiaire |
 
-[SM47] Recherche médicale ;
+TEXTE |
 
-[SM48] Rhumatologie ;
+BENEF _ CODEPOSTAL |
 
-[SM49] Santé publique et médecine sociale ;
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
 
-[SM50] Stomatologie ;
+-Non sinon |
 
-[SM51] Gynéco-obstétrique et gynécologie médicale option ;
+Non |
 
-|
+Code postal
 
-[SM52] Gynéco-obstétrique et gynécologie médicale option ;
+du bénéficiaire |
 
-[SM53] Spécialiste en médecine générale ;
+CODEPOSTAL |
 
-[SM54] Médecine générale ;
+BENEF _ VILLE |
 
-[SM55] Radiodiagnostic et radio-thérapie ;
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [AGR] ou [SAN] ou [VET]
 
-[SM99] ORL et ophtalmologie ;
+-Non sinon |
 
-[SP01] Radiopharmacie ;
+Non |
 
-[SP02] Hygiène ;
+Ville du bénéficiaire |
 
-[SP03] Pharmacovigilance ;
+TEXTE |
 
-[SP04] Hémovigilance ;
+BENEF _ PAYS |
 
-[AUTRE] Autre.
+-Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
 
-|
+-Non sinon |
 
-BENEF_QUALIFICATION
+Non |
 
-|
+Pays du bénéficiaire |
 
-Non
+LISTE |
 
-|
+-Norme ISO 3166-1 alpha-2 (entre crochet) Exemple : [FR] pour France |
 
-Non
+BENEF _ TITRE |
 
-|
+Non |
 
-Qualification du bénéficiaire
+Non |
 
-|
+Titre du bénéficiaire |
 
-TEXTE
+LISTE |
 
-|
+-[PR] Professeur
 
-Champ volontairement libre
+-[MG] Médecin Général
 
-|
+-[PG] Pharmacien Général
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [PRS].
+-[PC] Pharmacien Chef
 
-|
+-[MC] Médecin chef
 
-|
+-[DR] Docteur
 
-BENEF_IDENTIFIANT_TYPE
+-[AUTRE] Autre |
 
-|
+BENEF _ SPECIALITE |
 
-Oui
+Non |
 
-|
+Non |
 
-Non
+Spécialité (ou discipline) du bénéficiaire |
 
-|
+LISTE |
 
-Type d'identifiant utilisé pour identifier le bénéficiaire
+-[SCD01] Orthopédie dento-faciale
 
-|
+-[SCD02] Chirurgie Orale
 
-LISTE
+-[SCD03] Médecine Bucco-Dentaire
 
-|
+-[SM01] Anatomie et cytologie pathologiques
 
-[RPPS] pour l'identifiant personnel du bénéficiaire dans le répertoire partagé des professionnels de santé ;
+-[SM02] Anesthesie-réanimation
 
-[ORDRE] pour le numéro d'inscription à l'ordre ;
+-[SM03] Biologie médicale
 
-[AUTRE] pour les autres cas.
+-[SM04] Cardiologie et maladies vasculaires
 
-|
+-[SM05] Chirurgie générale
 
-|
+-[SM06] Chirurgie maxillo-faciale
 
-|
+-[SM07] Chirurgie maxillo-faciale et stomatologie
 
-BENEF_IDENTIFIANT_VALEUR
+-[SM08] Chirurgie orthopédique et traumatologie
 
-|
+-[SM09] Chirurgie infantile
 
-Oui
+-[SM10] Chirurgie plastique reconstructrice et esthétique
 
-|
+-[SM11] Chirurgie thoracique et cardio-vasculaire
 
-Non
+-[SM12] Chirurgie urologique
 
-|
+-[SM13] Chirurgie vasculaire
 
-Valeur de l'identifiant du bénéficiaire
+-[SM14] Chirurgie viscérale et digestive
 
-|
+-[SM15] Dermatologie et vénéréologie
 
-TEXTE
+-[SM16] Endocrinologie et métabolisme
 
-|
+-[SM17] Génétique médicale
 
-Si le champ BENEF_IDENTIFIANT_TYPE égal à [RPPS], identifiant personnel du bénéficiaire dans le répertoire partagé des professionnels de santé ;
+-[SM18] Gériatrie
 
-Si le champ BENEF_IDENTIFIANT_TYPE égal à [ORDRE], numéro d'inscription à l'ordre ;
+-[SM19] Gynécologie médicale
 
-[SO] si le champ BENEF_IDENTIFIANT_TYPE égal à [AUTRE] et la valeur est non renseignée ;
+-[SM20] Gynécologie-obstétrique
 
-Valeur libre si le champ BENEF_IDENTIFIANT_TYPE égal à [AUTRE] et la valeur est renseignée.
+-[SM21] Hématologie
 
-|
+-[SM22] Hématologie (option Maladie du sang)
 
-|
+-[SM23] Hématologie (option Onco-hématologie)
 
-|
+-[SM24] Gastro-entérologie et hépatologie
 
-BENEF_ETABLISSEMENT
+-[SM25] Médecine du travail
 
-|
+-[SM26] Qualifié en Médecine Générale
 
-Oui si le champ BENEF_CATEGORIE a la valeur [ETU] ;
+-[SM27] Médecine interne
 
-Non sinon.
+-[SM28] Médecine nucléaire
 
-|
+-[SM29] Médecine physique et réadaptation
 
-Non
+-[SM30] Néphrologie
 
-|
+-[SM31] Neuro-chirurgie
 
-Nom de l'établissement d'enseignement
+-[SM32] Neurologie
 
-|
+-[SM33] Neuro-psychiatrie
 
-TEXTE
+-[SM34] ORL et chirurgie cervico faciale
 
-|
+-[SM35] Oncologie (option onco-hématologie)
 
-|
+-[SM36] Oncologie option médicale
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [ETU].
+-[SM37] Oncologie option radiothérapie
 
-|
+-[SM38] Ophtalmologie
 
-|
+-[SM39] Oto-rhino-laryngologie
 
-BENEF_ETABLISSEMENT_
+-[SM40] Pédiatrie
 
-CODEPOSTAL
+-[SM41] Pneumologie-
 
-|
+[SM42] Psychiatrie
 
-Oui si le champ BENEF_CATEGORIE a la valeur [ETU] ;
+-[SM43] Psychiatrie option enfant & adolescent-[SM44] Radio-diagnostic
 
-Non sinon.
+-[SM45] Radio-thérapie
 
-|
+-[SM46] Réanimation médicale
 
-Non
+-[SM47] Recherche médicale
 
-|
+-[SM48] Rhumatologie
 
-Code postal de l'établissement d'enseignement
+-[SM49] Santé publique et médecine sociale
 
-|
+-[SM50] Stomatologie
 
-CODEPOSTAL
+-[SM51] Gynéco-obstétrique et gynécologie médicale option 1
 
-|
+-[SM52] Gynéco-obstétrique et gynécologie médicale option 2
 
-|
+-[SM53] Spécialiste en Médecine Générale
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [ETU].
+-[SM54] Médecine Générale
 
-|
+-[SM55] Radio-diagnostic et Radio-Thérapie
 
-|
+-[SM99] ORL et ophtalmologie
 
-BENEF_ETABLISSEMENT_VILLE
+-[SP01] Radio-pharmacie
 
-|
+-[SP02] Hygiène
 
-Oui si le champ BENEF_CATEGORIE a la valeur [ETU] ;
+-[SP03] Pharmacovigilance
 
-Non sinon.
+-[SP04] Hémovigilance
 
-|
+-[AUTRE] Autre |
 
-Non
+BENEF _ IDENTIFIANT _ TYPE |
 
-|
+Oui |
 
-Ville de l'établissement d'enseignement
+Non |
 
-|
+Type d'identifiant utilisé pour identifier le bénéficiaire |
 
-TEXTE
+LISTE |
 
-|
+-Si le champ BENEF _ CATEGORIE est égale à [PRS], les valeurs autorisées sont :'[RPPS] pour l'identifiant personnel du bénéficiaire dans le Répertoire Partagé des Professionnel de Santé, [ORDRE] pour le numéro d'inscription à l'ordre, [AUTRE] pour les autres cas
 
-|
+-Si le champ BENEF _ CATEGORIE est égale à [VET], les valeurs autorisées sont :'[ORDRE] pour le numéro d'inscription à l'ordre
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [ETU].
+-Si le champ BENEF _ CATEGORIE est égale à [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [SAN] ou [AGR], les valeurs autorisées sont :'[SIREN] pour le numéro SIREN, [FINESS] pour le numéro FINESS, [AUTRE] pour les autres cas
 
-|
+-Si le champ BENEF _ CATEGORIE est égale à [ETU], les valeurs autorisées sont : [RPPS], [AUTRE] |
 
-|
+BENEF _ IDENTIFIANT _ VALEUR |
 
-BENEF_DENOMINATIONSOCIALE
+-Oui si BENEF _ IDENTIFIANT _ TYPE différent de [AUTRE]
 
-|
+-Non sinon |
 
-Oui si le champ BENEF_CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
+Non |
 
-Non sinon.
+Valeur
 
-|
+de l'identifiant
 
-Non
+du bénéficiaire |
 
-|
+TEXTE |
 
-Dénomination sociale du bénéficiaire
+-Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [RPPS], identifiant personnel du bénéficiaire dans le Répertoire Partagé des Professionnel de Santé
 
-|
+-Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [ORDRE], numéro d'inscription à l'ordre
 
-TEXTE
+-Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [SIREN], le numéro siren
 
-|
+-Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [FINESS], le numéro finess.
 
-|
+-Valeur libre si le champ BENEF _ IDENTIFIANT _ TYPE égal à [AUTRE] et la valeur est renseignée. Ne rien mettre si inconnu. |
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+BENEF _ ETABLISSEMENT |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
 
-|
+-Non sinon |
 
-BENEF_OBJETSOCIAL
+Non |
 
-|
+Nom
 
-Oui si le champ BENEF_CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ;
+de l'établissement d'enseignement |
 
-Non sinon.
+TEXTE |
 
 |
 
-Non
+BENEF _ ETABLISSEMENT _ CODEPOSTAL |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
 
-Objet social du bénéficiaire
+-Non sinon |
 
-|
+Non |
 
-TEXTE
+Code postal
 
-|
+de l'établissement
 
-|
+d'enseignement |
 
-Valeur renseignée alors que la valeur du champ BENEF_CATEGORIE est différente de [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO].
+CODEPOSTAL |
 
 |
 
-|
+BENEF _ ETABLISSEMENT _ VILLE |
 
-LIGNE_TYPE
+-Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
 
-|
+-Non sinon |
 
-Oui
+Non |
 
-|
+Ville
 
-Non
+de l'établissement
 
-|
+d'enseignement |
 
-Avantage ou convention
+TEXTE |
 
 |
 
-LISTE
+BENEF _ DENOMINATIONSOCIALE |
 
-|
+-Oui si le champ BENEF _ CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN]
 
-[A] pour Avantage ;
+-Non sinon |
 
-[C] pour Convention.
+Non |
 
-|
+Dénomination
 
-|
+sociale
 
-|
+du bénéficiaire |
 
-CONV_DATE_SIGNATURE
+TEXTE |
 
 |
 
-Oui si le champ LIGNE_TYPE est égal à [C] ;
+BENEF _ OBJETSOCIAL |
 
-Non sinon (dans ce cas les lignes sont ignorées).
+-Oui si le champ BENEF _ CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN]
 
-|
-
-Non
+-Non sinon |
 
-|
+Non |
 
-Date de signature de la convention
+Objet social
 
-|
+du bénéficiaire |
 
-DATE
+TEXTE |
 
 |
 
-Format JJ/MM/AAAA
+LIGNE _ TYPE |
 
-|
-
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+Oui |
 
-|
+Non |
 
-|
+Avantage ou convention ou rémunération |
 
-CONV_OBJET
+LISTE |
 
-|
+-[A] pour Avantage
 
-|
+-[C] pour Convention
 
-Non
+-[R] pour Rémunération |
 
-|
+CONV _ DATE _ SIGNATURE |
 
-Objet de la convention
+-Oui si le champ LIGNE _ TYPE est égal à [C]
 
-|
+-Non sinon (dans ce cas les lignes sont ignorées) |
 
-TEXTE
+Non |
 
-|
+Date de signature de la convention |
 
-|
+DATE |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+Format JJ/ MM/ AAAA |
 
-|
+CONV _ OBJET |
 
 |
-
-CONV_DATE_DEBUT
 
-|
+Non |
 
-|
+Objet
 
-Non
+de la convention |
 
-|
+LISTE |
 
-Date de début de couverture de la convention
+-[A] Autre (PRECISER DANS LA COLONNE CONV _ OBJET _ AUTRE)
 
-|
+-[ADS] Achat de documentation scientifique
 
-DATE
+-[AECES] Achat/ location d'espaces dans le cadre d'événements scientifiques
 
-|
+-[AEP] Achat/ location d'espace publicitaire
 
-Format JJ/MM/AAAA
+-[APS] Autres prestations de services
 
-|
+-[CDLE] Cession de droits/ licence d'exploitation
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+-[CEAS] Contrat/ expertise autre que scientifique
 
-|
+-[CES] Contrat d'expert scientifique, contrat dans le cadre d'une recherche, contrat de consultant
 
-|
+-[CI] Contrat d'interview
 
-CONV_DATE_FIN
+-[CIM] Contrat d'intervenant à une manifestation/ orateur
 
-|
+-[DON] Don/ Mécénat
 
-Non
+-[ED] Edition
 
-|
+-[EEE] Enquête/ Etude/ Etude de marché (hors recherche)
 
-Non
+-[EPC] Evaluation produit cosmétique
 
-|
+-[FOR] Formation
 
-Date de fin de couverture de la convention
+-[HOS] Hospitalité
 
-|
+-[IC] Inscription congrès
 
-DATE
+-[PARR] Parrainage
 
-|
+-[PART] Partenariat
 
-Format JJ/MM/AAAA
+-[PM] Prêt de matériel
 
-|
+-[RB] Remise d'une bourse
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+-[RP] Remise de prix
 
-|
+-[RS] Recherche scientifique
 
-|
+-[VPC] Vigilance produit cosmétique |
 
-CONV_EVENEMENT_DATE
+CONV _ OBJET _ AUTRE |
 
 |
 
-Non
+Non |
 
-|
+Précision de l'objet de la convention |
 
-Non
+TEXTE |
 
 |
 
-Date de l'événement lié à la convention
+CONV _ DATE _ DEBUT |
 
 |
 
-DATE
+Non |
 
-|
+Date de début
 
-Format JJ/MM/AAAA
+de couverture
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF)
+de la convention |
 
-|
+DATE |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+Format JJ/ MM/ AAAA |
 
-|
+CONV _ DATE _ FIN |
 
-|
+Non |
 
-CONV_EVENEMENT_NOM
+Non |
 
-|
+Date de fin
 
-Non
+de couverture
 
-|
+de la convention |
 
-Non
+DATE |
 
-|
+Format JJ/ MM/ AAAA |
 
-Nom de l'événement lié à la convention
+CONV _ MONTANT |
 
-|
+Non |
 
-TEXTE
+Non |
 
-|
+Somme versée
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF)
+au titre
 
-|
+de la convention (Montant) |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+MONTANT |
 
 |
 
-|
+CONV _ EVENEMENT _ DATE |
 
-CONV_EVENEMENT_LIEU
+Non |
 
-|
+Non |
 
-Non
+Date
 
-|
+de l'événement
 
-Non
+lié à la convention |
 
-|
+DATE |
 
-Lieu de l'événement lié à la convention
+Format JJ/ MM/ AAAA A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
 
-|
+CONV _ EVENEMENT _ NOM |
 
-TEXTE
+Non |
 
-|
+Non |
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF)
+Nom
 
-|
+de l'événement
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [C].
+lié à la convention |
 
-|
+TEXTE |
 
-|
+A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
 
-AVANT_DATE
+CONV _ EVENEMENT _ LIEU |
 
-|
+Non |
 
-Oui si le champ LIGNE_TYPE est égal à [A] ;
+Non |
 
-Non sinon (dans ce cas les lignes sont ignorées).
+Lieu
 
-|
+de l'événement
 
-Non
+lié à la convention |
 
-|
+TEXTE |
 
-Date où l'avantage a été accordé
+A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
 
-|
+CONV _ EVENEMENT _ ORGANISATEUR |
 
-DATE
+Non |
 
-|
+Non |
 
-Format JJ/MM/AAAA
+Organisateur
 
-|
+de l'événement
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [A].
+lié à la convention |
 
-|
+TEXTE |
 
-|
+A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
 
-AVANT_MONTANT_TTC
+AVANT _ DATE |
 
-|
+-Oui si le champ LIGNE _ TYPE est égal à [A]
 
-Non
+-Non sinon (dans ce cas les lignes sont ignorées) |
 
-|
+Non |
 
-Montant TTC arrondi à l'euro le plus proche
+Date
 
-|
+où l'avantage
 
-MONTANT
+a été accordé |
 
-|
+DATE |
 
-|
+Format JJ/ MM/ AAAA |
 
-> 15 000 €
+AVANT _ MONTANT |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [A]
+Non |
 
-|
+Montant arrondi
 
-< 10 €
+à l'euro
 
-|
+le plus proche |
 
-AVANT_NATURE
+MONTANT |
 
 |
 
-|
+AVANT _ NATURE |
 
-Non
+Non |
 
-|
+Nature
 
-Nature de l'avantage accordé
+de l'avantage
 
-|
+accordé |
 
-TEXTE
+TEXTE |
 
 |
 
-|
+AVANT _ CONVENTION _ LIE |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [A].
+Non |
 
-|
+Non |
 
-|
+Identifiant
 
-AVANT_CONVENTION_LIE
+de la convention
 
-|
+éventuellement liée à cet avantage |
 
-Non
+TEXTE |
 
 |
 
-Non
+REMU _ DATE |
 
-|
+-Oui si le champ LIGNE _ TYPE est égal à [R]
 
-Intitulé ou référence de la convention éventuellement liée à cet avantage (pas de lien informatique avec la convention)
+-Non sinon (dans ce cas les lignes sont ignorées) |
 
-|
+Non |
 
-TEXTE
+Date
 
-|
+où la rémunération
 
-|
+a été versée |
 
-Valeur renseignée alors que la valeur du champ LIGNE_TYPE est différente de [A].
+DATE |
 
-|
+Format JJ/ MM/ AAAA |
 
-|
+REMU _ MONTANT |
 
-Pièce jointe
+Non |
 
-Nom de la pièce jointe
+Montant
 
-|
+arrondi
 
-ENTREPRISE_IDENTIFIANT#LIGNE_IDENTIFIANT (doit correspondre aux deux premières colonnes du fichier CSV)
+à l'euro
 
-|
+le plus proche |
 
-Extension
+MONTANT |
 
 |
 
-pdf
+REMU _ CONVENTION _ LIEE |
 
-|
+Non |
 
-Longueur du nom
+Identifiant
 
-|
+de la convention
 
-inférieure à 256 caractères
+active liée
 
-|
+à cette rémunération |
 
-Règles de gestion liées à la pièce jointe : si le fichier existe déjà, il est écrasé sans alerte ni erreur.
+TEXTE |
