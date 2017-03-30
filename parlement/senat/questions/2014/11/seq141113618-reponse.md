@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113618
+
+- Question : [SEQ141113618](seq141113618.md) — Calendrier relatif au plan local d'urbanisme
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-03-30, page 1313*
+
+L'article L. 174-3 du code de l'urbanisme, qui codifie l'article 135 de la loi pour l'accès au logement et un urbanisme rénové (ALUR), prévoit que lorsqu'une procédure de révision du plan d'occupation des sols (POS) est engagée avant le 31 décembre 2015, elle peut être menée à terme en application des articles L. 123-1 et suivants dans leur rédaction en vigueur au lendemain de la publication de la loi ALUR, à condition d'être achevée au plus tard trois ans après la publication de cette loi, soit avant le 27 mars 2017. Les dispositions du POS restent alors en vigueur jusqu'à l'approbation du PLU. Si celle-ci n'intervient pas avant le 27 mars 2017, soit trois ans après la publication de la loi ALUR, le POS devient caduc et le règlement national d'urbanisme (RNU) s'applique. Les procédures d'élaboration de PLU qui ne seraient pas abouties à la date du 27 mars 2017 pourront néanmoins se poursuivre évitant ainsi aux collectivités qui n'auraient pas achevé leur procédure de révision de leur POS en PLU de réengager de nouvelles études, procédures et concertations. Après le 27 mars 2017, le RNU s'appliquera jusqu'à l'approbation du PLU et le respect des formalités le rendant exécutoire. L'article 13 de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises et portant diverses dispositions de simplification et de clarification du droit et des procédures administratives a par ailleurs offert une possibilité de report de l'échéance de caducité des POS du 27 mars 2017 au 31 décembre 2019 pour les communes appartenant à des établissements publics de coopération intercommunale (EPCI) ayant engagé une procédure d'élaboration d'un plan local d'urbanisme intercommunal (PLUI) avant le 31 décembre 2015.
