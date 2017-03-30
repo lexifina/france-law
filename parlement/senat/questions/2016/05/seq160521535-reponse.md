@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160521535
+
+- Question : [SEQ160521535](seq160521535.md) — Statistiques de construction des maisons neuves
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-03-30, page 1323*
+
+Chaque fin de mois, les chiffres de la construction neuve sont publiés selon un calendrier établi à l'avance, en application des normes internationales en vigueur pour la publication des indicateurs conjoncturels. Les résultats sont ventilés entre maisons individuelles en diffus, maisons individuelles en groupé, logements collectifs ou en résidence. En février 2015, les publications concernant les autorisations d'urbanisme et les mises en chantier associées ont été améliorées pour rendre compte au plus près de la réalité de la conjoncture nationale vécue par les professionnels. La fédération française du bâtiment a salué à l'époque les nouveaux indicateurs. La mise en place des nouveaux indicateurs n'a pas remis en cause le travail de fond avec les communes et les intercommunalités pour assurer l'exhaustivité et la rapidité des remontées d'information sur les autorisations d'urbanisme. La critique formulée repose sur la comparaison de ces chiffres avec un indicateur construit à partir des données d'un échantillon de constructeurs de maisons individuelles. Or celui-ci est basé sur un volume de ventes qui ne se concrétisent que plusieurs mois plus tard par des autorisations puis des mises en chantier. De plus, les constructeurs de maison individuelle ne couvrent pas l'exhaustivité du marché mais une part de celui-ci évaluée à environ 57 % (source EPTB, enquête sur le prix des terrains à bâtir). Un travail d'expertise a été initié pour réconcilier les données des constructeurs de maisons individuelles avec les autorisations, qui ne remet pas en cause à ce stade la qualité des statistiques de la construction neuve.
