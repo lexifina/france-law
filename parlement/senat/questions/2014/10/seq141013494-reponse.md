@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013494
+
+- Question : [SEQ141013494](seq141013494.md) — Conséquences de la loi du 24 mars 2014 en matière de caducité des plans d'occupation des sols
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-03-30, page 1313*
+
+La loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises et portant diverses dispositions de simplification et de clarification du droit et des procédures administratives a reporté le délai de caducité des plans d'occupation des sols (POS) tel que prévu depuis 2000 pour les établissements publics de coopération intercommunale (EPCI) lancés dans une élaboration d'un plan local d'urbanisme intercommunal (PLUi) avant le 31 décembre 2015. Ainsi, selon les termes de l'article 13 de la loi : « Lorsqu'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou de document d'urbanisme en tenant lieu engage une procédure d'élaboration d'un plan local d'urbanisme intercommunal avant le 31 décembre 2015, les dates et délais prévus au troisième alinéa du V de l'article 19 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, aux deuxième et avant-dernier alinéas du IV de l'article L. 111-1-1 du code de l'urbanisme et aux deux derniers alinéas de l'article L. 123-19 du même code ne s'appliquent pas aux plans locaux d'urbanisme ou aux documents en tenant lieu applicables sur son territoire, à condition que le débat sur les orientations générales du projet d'aménagement et de développement durable du territoire ait lieu au sein de l'organe délibérant de l'établissement public de coopération intercommunale avant le 27 mars 2017 et que ce plan local d'urbanisme intercommunal soit approuvé au plus tard le 31 décembre 2019. »
