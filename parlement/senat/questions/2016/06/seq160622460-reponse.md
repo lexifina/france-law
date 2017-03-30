@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622460
+
+- Question : [SEQ160622460](seq160622460.md) — Taux de taxe sur la valeur ajoutée applicable à l'assainissement
+
+## Réponse
+
+*Budget et comptes publics, JO du 2017-03-30, page 1283*
+
+Le taux de TVA applicable aux livraisons d'eau est le taux réduit de 5,5 %, en application des dispositions de l'article 278-0 bis du code général des impôts (CGI). En revanche, les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants des services de distribution d'eau ou d'assainissement ainsi que les taxes, surtaxes et redevances perçues sur les usagers des réseaux d'assainissement sont soumis au taux réduit de 10 % en application des dispositions du b de l'article 279 du CGI. Sont ainsi visées les prestations qui concourent au bon fonctionnement des réseaux de distribution d'eau et d'assainissement non collectif appartenant aux communes, dès lors qu'elles sont effectuées pour les besoins de la gestion du service public et fournies par l'exploitant du service ou en exécution d'un contrat conclu avec l'exploitant de ce service et qui sont relatives à l'eau ou aux installations, dans les conditions précisées dans l'instruction fiscale publiée au Bulletin officiel des finances publiques - impôts (BOFIP-I) dans le document référencé BOI-TVA-LIQ-30-20-30. Une différenciation des taux applicables à l'eau, d'une part, et aux prestations d'assainissement, d'autre part, se justifie donc dès lors que l'objet en est différent. En outre, une baisse du taux de TVA applicable aux prestations d'assainissement de l'eau, qui constitue un service public indépendant de la distribution, irait à contre-courant de l'objectif poursuivi par le Gouvernement de redressement des comptes publics. À cet égard, s'agissant de la recommandation formulée dans le rapport, le Gouvernement n'entend pas revenir sur les modifications de taux qui ont été adoptées.
