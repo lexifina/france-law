@@ -1,255 +1,195 @@
 # Article Annexe
 
-I.-Le commandement des forces terrestres :
-
-DÉSIGNATION DU COMMANDEMENT
+I.-LE COMMANDEMENT DE FORCE.
 
 |
 
-SIÈGE DE L'ÉTAT-MAJOR
+DÉSIGNATION |
 
-|
+SIÈGE DE L'ÉTAT-MAJOR |
 
-AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
+AUTORITÉ DÉSIGNÉE
 
-|
+pour exercer le commandement |
 
-Commandement des forces terrestres.
+Commandement des forces terrestres |
 
-|
+Lille |
 
-Lille.
+Général commandant les forces terrestres |
 
-|
+Etat-major de force, subordonné au commandement des forces terrestres |
 
-Général commandant les forces terrestres.
+Etat-major du corps de réaction rapide-France |
 
-|
+Lille |
 
-Ce commandement est directement subordonné au chef d'état-major de l'armée de terre.
+Général commandant le corps de réaction rapide-France |
 
-II.-Les états-majors de force :
+II.-LES COMMANDEMENTS DE NIVEAU DIVISIONNAIRE. |
 
-DÉSIGNATION DE L'ÉTAT-MAJOR DE FORCE
+DÉSIGNATION |
 
-|
+SIÈGE DE L'ÉTAT-MAJOR |
 
-SIÈGE DE L'ÉTAT-MAJOR
+AUTORITÉ DÉSIGNÉE
 
-|
+pour exercer le commandement |
 
-AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
+Commandement terre pour le territoire national |
 
-|
+Paris |
 
-Etat-major de force n° 1.
+Général commandant terre pour le territoire national |
 
-|
+Commandement des forces spéciales terre |
 
-Besançon.
+Pau |
 
-|
+Général commandant les forces spéciales terre |
 
-Général commandant l'état-major de force n° 1.
+Commandement de l'aviation légère de l'armée de terre |
 
-|
+Villacoublay |
 
-Etat-major de force n° 3.
+Général commandant l'aviation légère de l'armée de terre |
 
-|
+Commandement des écoles du combat interarmes |
 
-Marseille.
+Saumur |
 
-|
+Général commandant les écoles du combat interarmes |
 
-Général commandant l'état-major de force n° 3.
+Commandement des centres de préparation des forces terrestres |
 
-|
+Mailly |
 
-Quartier général de corps de réaction rapide.
+Général commandant les centres de préparation des forces terrestres |
 
-|
+Commandement de la 1re division |
 
-Lille.
+Besançon |
 
-|
+Général commandant la 1re division |
 
-Général commandant le quartier général de corps de réaction rapide.
+Commandement de la 3e division |
 
-|
+Marseille |
 
-Les états-majors de force sont subordonnés au commandement des forces terrestres.
+Général commandant la 3e division |
 
-III. -Les brigades subordonnées au commandement des forces terrestres :
+Commandement du renseignement des forces terrestres |
 
-3.1. Les brigades interarmes.
+Strasbourg |
 
-DÉSIGNATION DES BRIGADES
+Général commandant le renseignement des forces terrestres |
 
-|
+Commandement des systèmes d'information et de communication des forces terrestres |
 
-SIÈGE DE L'ÉTAT-MAJOR
+Cesson-Cévigné |
 
-|
+Général commandant les systèmes d'information et de communication des forces terrestres |
 
-AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
+Commandement de la logistique des forces terrestres |
 
-|
+Lille |
 
-2e brigade blindée.
+Général commandant la logistique des forces terrestres |
 
-|
+Commandement de la maintenance des forces terrestres |
 
-Illkirch-Graffenstaden.
+Lille |
 
-|
+Général commandant la maintenance des forces terrestres |
 
-Général commandant la 2e brigade blindée.
+III.-LES BRIGADES. |
 
-|
+3.1. Brigade subordonnée au commandement de l'aviation légère de l'armée de terre. |
 
-7e brigade blindée.
+DÉSIGNATION |
 
-|
+SIÈGE DE L'ÉTAT-MAJOR |
 
-Besançon.
+AUTORITÉ DÉSIGNÉE
 
-|
+pour exercer le commandement |
 
-Général commandant la 7e brigade blindée.
+4e brigade d'aérocombat |
 
-|
+Clermont-Ferrand |
 
-1re brigade mécanisée.
+Général commandant la 4e brigade d'aérocombat |
 
-|
+3.2. Brigades subordonnées au commandement de la 1re division. |
 
-Châlons-en-Champagne.
+3.2.1. Brigades interarmes. |
 
-|
+DÉSIGNATION |
 
-Général commandant la 1re brigade mécanisée.
+SIÈGE DE L'ÉTAT-MAJOR |
 
-|
+AUTORITÉ DÉSIGNÉE
 
-3e brigade légère blindée.
+pour exercer le commandement |
 
-|
+7e brigade blindée |
 
-Clermont-Ferrand.
+Besançon |
 
-|
+Général commandant la 7e brigade blindée |
 
-Général commandant la 3e brigade légère blindée.
+9e brigade d'infanterie de marine |
 
-|
+Poitiers |
 
-6e brigade légère blindée.
+Général commandant la 9e brigade d'infanterie de marine |
 
-|
+27e brigade d'infanterie de montagne |
 
-Nîmes.
+Varces |
 
-|
+Général commandant la 27e brigade d'infanterie de montagne |
 
-Général commandant la 6e brigade légère blindée.
+3.2.2. Brigade franco-allemande (éléments nationaux). |
 
-|
+DÉSIGNATION |
 
-9e brigade d'infanterie de marine.
+SIÈGE DE L'ÉTAT-MAJOR |
 
-|
+AUTORITÉ DÉSIGNÉE
 
-Poitiers.
+pour exercer le commandement |
 
-|
+Brigade franco-allemande |
 
-Général commandant la 9e brigade d'infanterie de marine.
+Müllheim |
 
-|
+Général commandant la brigade franco-allemande |
 
-11e brigade parachutiste.
+3.3. Brigades interarmes subordonnées au commandement de la 3e division. |
 
-|
+DÉSIGNATION |
 
-Toulouse.
+SIÈGE DE L'ÉTAT-MAJOR |
 
-|
+AUTORITÉ DÉSIGNÉE
 
-Général commandant la 11e brigade parachutiste.
+pour exercer le commandement |
 
-|
+2e brigade blindée |
 
-27e brigade d'infanterie de montagne.
+Illkirch-Graffenstaden |
 
-|
+Général commandant la 2e brigade blindée |
 
-Varces.
+6e brigade légère blindée |
 
-|
+Nîmes |
 
-Général commandant la 27e brigade d'infanterie de montagne.
+Général commandant la 6e brigade légère blindée |
 
-|
+11e brigade parachutiste |
 
-3.2. Les brigades spécialisées.
+Balma |
 
-DÉSIGNATION DES BRIGADES
-
-|
-
-SIÈGE DE L'ÉTAT-MAJOR
-
-|
-
-AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
-
-|
-
-Brigade de transmissions et d'appui au commandement.
-
-|
-
-Douai.
-
-|
-
-Général commandant la brigade de transmissions et d'appui au commandement.
-
-|
-
-Brigade de renseignement.
-
-|
-
-Haguenau.
-
-|
-
-Général commandant la brigade de renseignement.
-
-|
-
-Brigade des forces spéciales terre.
-
-|
-
-Pau.
-
-|
-
-Général commandant la brigade des forces spéciales terre.
-
-|
-
-1re brigade logistique.
-
-|
-
-Montlhéry.
-
-|
-
-Général commandant la 1re brigade logistique.
-
-|
+Général commandant la 11e brigade parachutiste |
