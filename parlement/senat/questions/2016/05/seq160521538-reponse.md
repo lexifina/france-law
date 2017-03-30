@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160521538
+
+- Question : [SEQ160521538](seq160521538.md) — Recouvrement des factures d'eau par les syndicats intercommunaux
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2017-03-30, page 1269*
+
+L'article L. 115-3 du code de l'action sociale et des familles, dans sa rédaction issue de la loi n° 2013-312 du 15 mars 2013, interdit les coupures d'eau potable en cas de non-paiement des factures, à toute période de l'année et quelles que soient les ressources des usagers. Le juge constitutionnel a eu l'occasion de confirmer la conformité de ces dispositions à la Constitution (décision n° 2015-470 QPC du 29 mai 2015). La réduction de débit d'eau potable en cas d'impayés n'est pas davantage autorisée. En effet, si le troisième alinéa de l'article L. 115-3 du code de l'action sociale et des familles permet aux fournisseurs d'électricité, de chaleur et de gaz de procéder à une réduction de puissance en cas de non-paiement des factures, il n'organise pas cette possibilité pour les fournisseurs d'eau potable (voir page exemple, tribunal d'instance de Limoges, 6 janvier 2016, fondation France Libertés et association Coordination Eau-Ile-de-France c/ société SAUR, RG n° 15-001264). Pour autant, l'interdiction de coupure ou de réduction du débit d'eau potable n'emporte pas annulation de la dette. Les factures impayées restent, en tout état de cause, dues par les abonnés. Le Gouvernement est conscient des difficultés que le cadre législatif peut engendrer pour la gestion des services. Le bilan des expérimentations prévues par la loi n° 2013-312 du 15 avril 2013 pourra servir de fondement pour faire évoluer le cadre actuel dans le sens de la durabilité des services publics d'eau et d'assainissement et du respect des droits fondamentaux d'accès à l'eau et à l'assainissement.
