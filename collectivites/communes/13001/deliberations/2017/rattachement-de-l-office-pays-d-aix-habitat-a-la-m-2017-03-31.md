@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — RATTACHEMENT DE L'OFFICE PAYS D'AIX HABITAT A LA METROPOLE D'AIX-MARSEILLE-PROVENCE. CHANGEMENT DE DENOMINATION SOCIALE - DESIGNATION DES REPRESENTANTS DE LA VILLE D'AIX EN PROVENCE AU CONSEIL D'ADMINISTRATION
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-03-31
+- Séance : Conseil Municipal 1CA
+- Objet : RATTACHEMENT DE L'OFFICE PAYS D'AIX HABITAT A LA METROPOLE D'AIX-MARSEILLE-PROVENCE. CHANGEMENT DE DENOMINATION SOCIALE - DESIGNATION DES REPRESENTANTS DE LA VILLE D'AIX EN PROVENCE AU CONSEIL D'ADMINISTRATION
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8372-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
