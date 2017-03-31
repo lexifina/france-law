@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ADHESION A L'ASSOCIATION ADBGV (ASSOCIATION DES DIRECTRICES ET DIRECTEURS DE BIBLIOTHEQUES MUNICIPALES ET DE GROUPEMENTS INTERCOMMUNAUX DES VILLES DE FRANCE) - PAIEMENT DE LA COTISATION 2017
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-03-31
+- Séance : Conseil Municipal 1CA
+- Objet : ADHESION A L'ASSOCIATION ADBGV (ASSOCIATION DES DIRECTRICES ET DIRECTEURS DE BIBLIOTHEQUES MUNICIPALES ET DE GROUPEMENTS INTERCOMMUNAUX DES VILLES DE FRANCE) - PAIEMENT DE LA COTISATION 2017
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8401-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
