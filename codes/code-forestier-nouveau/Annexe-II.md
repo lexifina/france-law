@@ -14,17 +14,27 @@ RÉGIONS REPRÉSENTÉES
 
 |
 
-NOMBRE DE SIÈGES RÉSERVÉS
-
-dans la commission aux représentants de chaque centre régional
+NOMBRE DE SIÈGES
 
 |
 
-Aquitaine
+Nouvelle-Aquitaine
 
 |
 
-Aquitaine
+Nouvelle-Aquitaine
+
+|
+
+5
+
+|
+
+Auvergne-Rhône-Alpes
+
+|
+
+Auvergne-Rhône-Alpes
 
 |
 
@@ -32,23 +42,23 @@ Aquitaine
 
 |
 
-Auvergne
+Bourgogne-Franche-Comté
 
 |
 
-Auvergne
+Bourgogne-Franche-Comté
 
 |
 
-1
+3
 
 |
 
-Bourgogne
+Bretagne-Pays de la Loire
 
 |
 
-Bourgogne
+Bretagne et Pays de la Loire
 
 |
 
@@ -56,27 +66,15 @@ Bourgogne
 
 |
 
-Bretagne
+Grand-Est
 
 |
 
-Bretagne
+Grand-Est
 
 |
 
-1
-
-|
-
-Champagne-Ardenne
-
-|
-
-Champagne-Ardenne
-
-|
-
-1
+2
 
 |
 
@@ -92,23 +90,13 @@ Corse
 
 |
 
-Franche-Comté
+Ile-de-France-Centre-Val de Loire
 
 |
 
-Franche-Comté
+Ile-de-France
 
-|
-
-1
-
-|
-
-Ile-de-France-Centre
-
-|
-
-Ile-de-France-Centre
+et Centre-Val de Loire
 
 |
 
@@ -116,59 +104,23 @@ Ile-de-France-Centre
 
 |
 
-Languedoc-Roussillon
+Occitanie
 
 |
 
-Languedoc-Roussillon
+Occitanie
 
 |
 
-1
+3
 
 |
 
-Limousin
+Hauts-de-France
 
 |
 
-Limousin
-
-|
-
-1
-
-|
-
-Lorraine-Alsace
-
-|
-
-Lorraine-Alsace
-
-|
-
-1
-
-|
-
-Midi-Pyrénées
-
-|
-
-Midi-Pyrénées
-
-|
-
-2
-
-|
-
-Nord-Pas-de-Calais-Picardie
-
-|
-
-Nord-Pas-de-Calais-Picardie
+Hauts-de-France
 
 |
 
@@ -180,31 +132,7 @@ Normandie
 
 |
 
-Haute-Normandie, Basse-Normandie
-
-|
-
-1
-
-|
-
-Pays de la Loire
-
-|
-
-Pays de la Loire
-
-|
-
-1
-
-|
-
-Poitou-Charentes
-
-|
-
-Poitou-Charentes
+Normandie
 
 |
 
@@ -217,18 +145,6 @@ Provence-Alpes-Côte d'Azur
 |
 
 Provence-Alpes-Côte d'Azur
-
-|
-
-2
-
-|
-
-Rhône-Alpes
-
-|
-
-Rhône-Alpes
 
 |
 
@@ -240,8 +156,10 @@ Total
 
 |
 
-|
-
 25
 
 |
+
+NOTA :
+
+Conformément à l'article 1er de l'arrêté du 30 novembre 2016 ces dispositions entrent en vigueur à la date de la première réunion des conseillers régionaux élus en 2017 et au plus tard le 1er avril 2017.
