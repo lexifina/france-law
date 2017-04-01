@@ -1,0 +1,85 @@
+# Article Annexe 1
+
+CONTENU DU LIVRET DE CLIMATISATION
+
+1. Informations générales sur le bâtiment concerné et documents relatifs aux systèmes (simples et complexes)
+
+- Adresse et localisation du bâtiment et du système qui assure la climatisation du bâtiment ;
+
+- Nom et adresse de l'utilisateur ;
+
+- Personne responsable de la réalisation de l'inspection (le commanditaire) ;
+
+- Type de bâtiment/de zone (espace, bureau, hôtel, usine, local technique,…) ;
+
+- Plans du bâtiment ;
+
+- Situation géographique et zone d'ensoleillement ;
+
+- Description du bâti et des zones climatisées ;
+
+- Date de construction et des éventuels changements significatifs sur l'enveloppe et les systèmes du bâtiment.
+
+2. Documents généraux relatifs à tous les systèmes en place (simples et complexes)
+
+- Plans des installations ;
+
+- Liste détaillée des systèmes installés, avec une puissance frigorifique nominale utile de plus de 12 kilowatts, localisation des machines frigorifiques dans le bâtiment, usages des systèmes, emplacements des composants intérieurs et extérieurs de chaque système ;
+
+- Documentation technique de justification des puissances installées : calculs des besoins en froid, calculs des charges internes ;
+
+- Documentation technique pour chaque système installé ;
+
+- Certificats de qualité des équipements ou de l'installation, le cas échéant, lorsqu'ils permettent d'évaluer l'efficacité du système ;
+
+- Niveau de puissance acoustique en fonctionnement nominal exprimé en dB (A) fourni par le fabricant des unités extérieures, et référence de la norme ou de la méthode de mesure de puissance acoustique utilisée ;
+
+- Description des zones de régulation des systèmes, le cas échéant ;
+
+- Description des modes de régulation de la température et des modes de régulation des périodes de fonctionnement ;
+
+- Fiches d'intervention sur les équipements de climatisation, y compris le nettoyage des échangeurs de chaleur, les contrôles d'étanchéité, les réparations des composants de réfrigération ou la recharge en fluide frigorigène ;
+
+- Registre(s) d'entretien des systèmes d'alimentation d'air, y compris le nettoyage et le remplacement des filtres, ainsi que le nettoyage des échangeurs de chaleur ;
+
+- Enregistrements des opérations de maintenance effectuées sur le système, ses organes de commande, de régulation et de programmation ;
+
+- Compteur(s) d'énergie, le cas échéant : localisation, valeurs cibles, et mesures comparées avec les valeurs cibles pour la consommation ;
+
+- Si un système de gestion technique du bâtiment (GTB) est utilisé, il convient de fournir un état sommaire des fonctions du système de GTB, de l'installation qu'il commande, des points de réglage de la température, de la fréquence d'entretien du système de GTB, de la date de la dernière inspection et du dernier entretien, ainsi que les enregistrements disponibles de la GTB ;
+
+- Si un poste de surveillance ou une fonction de télésurveillance est utilisé(e) pour observer en permanence la performance de l'équipement, il convient de fournir un état des paramètres surveillés et un état de l'efficacité de l'équipement ;
+
+- Les rapports d'inspection des systèmes des dix dernières années ;
+
+- Les rapports d'entretien réalisés chaque année, le cas échéant ;
+
+- Référence du contrat de performance énergétique, le cas échéant.
+
+3. Eléments complémentaires nécessaires à l'inspection pour les systèmes simples (liés au confort des occupants)
+
+- Réglementations thermiques applicables au moment de la construction et lors des changements significatifs du bâtiment, notes de calculs associées (notamment la note de calcul du dimensionnement initial si celui-ci reste inchangé) ;
+
+- Description des parois opaques (composition des parois, et résistance thermique des isolants utilisés) ;
+
+- Usages et périodes d'occupation des zones climatisées ;
+
+- Nombre d'occupants ;
+
+- Registre des plaintes des occupants du bâtiment liées à l'inconfort (thermique et acoustique notamment), le cas échéant ;
+
+- Volume d'air conditionné ;
+
+- Taux de renouvellement d'air ;
+
+- Service requis : humidification et/ou déshumidification et/ou refroidissement et/ou chauffage ;
+
+- Valeurs requises : température de l'air intérieur et humidité intérieure ;
+
+- Estimation de la part de la surface de vitrage par rapport à la surface de mur extérieur ;
+
+- Type de vitre et son coefficient de transmission thermique ;
+
+- Caractéristiques techniques des stores ou de protections solaires, le cas échéant ;
+
+- Système de ventilation de la zone climatisée.
