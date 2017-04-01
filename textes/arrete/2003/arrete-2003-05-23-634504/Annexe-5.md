@@ -1,145 +1,107 @@
 # Article Annexe 5
 
-1. Objet du règlement de sécurité de l'exploitation
+1. Objet du règlement de sécurité de l'exploitation.
 
 1.1. Identification de l'exploitant.
 
-1.2. Description des missions confiées à l'exploitant par l'autorité organisatrice des transports.
+1.2. Description des missions confiées à l'exploitant par l'autorité organisatrice.
 
-1.3. Rappel des caractéristiques générales du système de transport :
+1.3. Rappel des caractéristiques générales du système de transport.
 
-1.3.1. Ligne.
+2. Description de l'organisation de l'exploitant.
 
-1.3.2. Matériel roulant.
+2.1. Description de l'organisation de l'exploitation, de la maintenance, de la formation et du contrôle interne.
 
-1.3.3. Energie.
+2.2. Identification et gestion des documents opérationnels de sécurité ainsi que des entités chargées de leur élaboration, de leur visa et de leur mise à jour.
 
-1.3.4. Conditions commerciales d'exploitation.
+3. Description des conditions d'exploitation du système.
 
-2. Description de l'organisation de l'exploitant
+3.1. Principes, règles de conduite et de circulation.
 
-2.1. Description des services (organigramme, effectifs, catégories de personnels, moyens à disposition) assurant les activités ci-après :
+3.2. Véhicules.
 
-2.1.1. Conduite des véhicules.
+3.3. Signalisation.
 
-2.1.2. Formation, maintien des compétences et habilitation aux tâches de sécurité des personnels.
+3.4. Voie.
 
-2.1.3. Gestion de la circulation des véhicules.
+3.5. Alimentation en énergie électrique de traction.
 
-2.1.4. Gestion des équipements de sécurité.
+3.6 Moyens de commande et de contrôle des circulations
 
-2.1.5. Intervention en cas d'incidents graves et relations opérationnelles avec les autorités.
+3.7 Service des voyageurs en stations.
 
-2.1.6. Maintenance.
+3.8 Dispositifs de contrôle de la conduite des trains (le cas échéant).
 
-2.1.7. Information des usagers et prévention de la fraude et des actes de malveillance.
+3.9. Gestion des communications.
 
-2.1.8. Qualité.
+3.10. Gestion des événements déclenchant le PIS.
 
-2.1.9. Contrôle et évaluation du niveau de sécurité.
+3.11. Conditions de reprise de l'exploitation après une interruption importante du service.
 
-2.2. Identification des sous-traitants selon les activités.
+3.12. Configuration temporaire et exceptionnelle du système de transport différente de celle définie dans le dossier de sécurité et/ ou le RSE et susceptible d'induire des risques pour les personnes transportées ou les tiers.
 
-3. Description des conditions normales d'exploitation
+4. Moyens d'information des usagers en matière de sécurité.
 
-3.1. Véhicules :
+5. Moyens de lutte contre les actes de malveillance pouvant affecter la sécurité.
 
-3.1.1. Principes et règles de conduite.
+5.1. Maîtrise des espaces.
 
-3.1.2. Test du fonctionnement.
+5.2. Actions de prévention.
 
-3.1.3. Principes et règles de circulation.
+6. Politique de maintenance.
 
-3.1.4. Circulation des véhicules de service.
+6.1. Généralités.
 
-3.2. Equipements de sécurité :
+6.2. Principes de la maintenance préventive.
 
-3.2.1. Identification et rôle.
+6.3. Principes de la maintenance corrective.
 
-3.2.2. Règles d'exploitation.
+6.4. Programme de maintenance préventive.
 
-3.2.3. Test de bon fonctionnement.
+7. Formation du personnel.
 
-3.3. Principes, règles et moyens d'information des usagers en matière de sécurité.
+A. Exploitation.
 
-3.4. Principes, règles et moyens de prévention des actes de malveillance pouvant affecter la sécurité.
-
-3.5. Identification des documents précisant les consignes ainsi que des entités chargées de leur élaboration, de leur visa et de leur mise à jour.
-
-4. Description des conditions
-
-d'exploitation en situation particulière
-
-Pour chaque situation particulière identifiée :
-
-4.1. Identification et description de la situation.
-
-4.2. Conditions particulières d'exploitation par rapport aux dispositions décrites au 3.
-
-5. Description des conditions
-
-d'exploitation en situations dégradées
-
-Pour chaque situation dégradée identifiée :
-
-5.1. Durée maximale du fonctionnement admissible.
-
-5.2. Modalités de détection de l'événement.
-
-5.3. Conditions particulières d'exploitation par rapport aux dispositions décrites au 3.
-
-5.4. Conditions de retour en situation normale.
-
-6. Politique de maintenance
-
-6.1. Programme de maintenance préventive conforme aux dispositions identifiées au 4.3.4 du dossier de sécurité :
-
-6.1.1. Liste des équipements de sécurité et des éléments de sécurité faisant l'objet d'une maintenance préventive.
-
-6.1.2. Identification des documents descriptifs détaillés précisant la nature, la périodicité et l'entité responsable des opérations de maintenance ainsi que les modalités de mise à jour desdits documents.
-
-6.2. Principes de la maintenance destinée à prévenir l'exploitation du système de transport en situations dégradées.
-
-6.3. Principes de la maintenance curative.
-
-7. Formation du personnel
-
-7.1. Identification et description des tâches de sécurité.
+7.1. Identification des tâches de sécurité.
 
 7.2. Description des formations initiales des personnes affectées aux tâches de sécurité.
 
 7.3. Description des modalités d'habilitation initiale des personnes pour les tâches de sécurité.
 
-7.4. Description des entraînements périodiques et de la formation continue.
+7.4. Formation continue des agents.
 
-7.5. Description des modalités de suivi des compétences et de détection des situations dans lesquelles des entraînements ou des formations complémentaires sont dispensés.
+7.5. Suivi des compétences des agents.
 
-8. Qualité
+B. Maintenance.
+
+7.6. Description des formations initiales des personnes affectées aux tâches de maintenance.
+
+7.8. Formation continue.
+
+7.9. Suivi de compétences.
+
+8. Eléments relatifs à la Qualité.
 
 8.1. Identification des normes en matière de qualité ainsi que des documents décrivant les modalités de respect de ces normes.
 
-8.2. Identification de la documentation technique du système de transport issue du dossier de sécurité.
+8.2. Description de la gestion documentaire.
 
-8.3. Description de la gestion documentaire.
+8.3. Description des modalités de surveillance des sous-traitants.
 
-8.4. Description des modalités de surveillance des sous-traitants.
+8.4. Description du processus de gestion interne des modifications du système aux plans structurel et opérationnel.
 
-8.5. Description des modalités de conception et de réalisation des modifications apportées au système de transport et de l'évaluation de leur caractère substantiel éventuel au sens de l'article 3 du décret relatif à la sécurité des transports publics guidés susvisé.
+9. Dispositif permanent de contrôle et d'évaluation du niveau de sécurité.
 
-9. Dispositif permanent de contrôle
+9.1. Modalités de contrôle du respect de la réglementation, du règlement de sécurité de l'exploitation et des consignes.
 
-et d'évaluation du niveau de sécurité
+9.2. Modalités de détection, d'analyse des événements pouvant avoir un impact sur la sécurité.
 
-9.1. Description des modalités de contrôle du respect de la réglementation, du règlement de sécurité de l'exploitation et des consignes.
+9.3. Modalités d'évaluation du niveau de sécurité.
 
-9.2. Modalités de détection, d'analyse et de correction des événements notables liés à la sécurité.
+10. Relations avec le service en charge du contrôle à l'occasion d'accidents et d'incidents d'exploitation.
 
-9.3. Description des modalités d'évaluation du niveau de sécurité.
+10.1. Typologie d'événement.
 
-9.4. Indicateurs du niveau de sécurité :
+10.2. Traitement des évènements définis au 10.1.
 
-9.4.1. Indicateurs de suivi des objectifs de sécurité quantifiés.
-
-9.4.2. Autres indicateurs de suivi du niveau de sécurité.
-
-10. Récapitulatif des documents de référence
+10.3. Visites des agents du service de contrôle.

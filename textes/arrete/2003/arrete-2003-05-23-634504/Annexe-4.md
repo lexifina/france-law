@@ -14,8 +14,10 @@ Le présent dossier contient les renseignements et justificatifs ci-après :
 
 6. Extraits pertinents du dossier préliminaire de sécurité comportant l'analyse des risques encourus, le cas échéant complétée par les éléments de démonstration de sécurité apportés postérieurement à ce dossier.
 
-7. Description et justification des précautions prises.
+7. Présentation de l'organisation des essais.
 
-8. Evaluation, par l'EOQA, des précautions prises.
+8. Description et justification des précautions prises.
 
-9. Nom, qualité et signature du demandeur.
+9. Evaluation, par l'OQA, des précautions prises.
+
+10. Nom, qualité et signature du demandeur.
