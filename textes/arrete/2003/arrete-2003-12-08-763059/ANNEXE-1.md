@@ -1,6 +1,6 @@
 # Article ANNEXE 1
 
-Note de présentation générale du projet
+Note de présentation générale du projet.
 
 Note relative à l'objet de la demande.
 
@@ -12,58 +12,62 @@ Date prévue pour le début des travaux.
 
 Date prévue pour la mise en service.
 
-Organisation
+Organisation des intervenants sur le projet.
 
 Nom, qualité du pétitionnaire.
 
-Nom, qualité et références du maître d'ouvrage.
+Nom, qualité et références du maître d'ouvrage ou détenteur de l'infrastructure.
 
-Nom, qualité et références du maître d'oeuvre.
-
-Nom, qualité et références du propriétaire de la plate-forme, de la voie et des terrains.
+Nom, qualité et références du maître d'œuvre.
 
 Nom, qualité et références de l'exploitant lorsque celui-ci est connu.
 
-Désignation de l'expert ou organisme qualifié agréé chargé du diagnostic de sécurité du système global. Contenu et portée de sa mission.
+Désignation de l'organisme qualifié agréé ou accrédité chargé d'établir le rapport sur la sécurité du système. Contenu et portée de sa mission.
 
-Caractéristiques techniques du système
+Organisation pour la sécurité du projet.
+
+Liste des référentiels appliqués ; écarts par rapport aux référentiels choisis.
+
+Analyse des risques générés par l'environnement du système prenant notamment en compte les risques naturels ou technologiques.
+
+Caractéristiques techniques du système.
 
 Dans le cas de travaux de modification substantielle apportée à un système en exploitation, seules les parties modifiées sont à communiquer.
 
 Infrastructures :
 
-- longueur du réseau ;
+Longueur du réseau ;
 
-- plan de situation de la ligne (échelle 1/25 000) ;
+Plan de situation de la ligne (échelle 1/25 000) ;
 
-- rayon minimal des courbes et déclivité maximale prévus ;
+Rayon minimal des courbes et déclivité maximale prévus ou existant ;
 
-- écartement de la voie et armement prévu ;
+Ecartement de la voie et armement prévu ou existant ;
 
-- nombre, nature et longueur des ouvrages d'art ;
+Nombre, nature et ouverture des ouvrages d'art ;
 
-- évaluation de l'état des ouvrages d'art existants en vue de leur réutilisation ;
+Descriptif de l'état initial des infrastructures et des travaux à y effectuer en vue de leur réutilisation.
 
-- descriptif des travaux à effectuer sur les infrastructures.
+Gestion des travaux en interface avec l'exploitation ferroviaire, les passages à niveau ou les tiers.
 
-Matériel roulant :
+Véhicule (lorsque celui-ci est déjà connu) :
 
-- caractéristiques des véhicules (motrices, automotrices et voitures) dont la circulation est envisagée sur la ligne (gabarit, masse, dimensions, type de freinage) ;
+Caractéristiques des véhicules moteurs et remorqués dont la circulation est envisagée sur la ligne (gabarit, dimensions, masse et charge à l'essieu (valeurs réelles ou estimées), type de freinage) ;
 
-- nature des travaux à effectuer sur les véhicules, dont ceux destinés à assurer la prévention des accidents de voyageurs.
+Nature des travaux à effectuer sur les véhicules, dont ceux destinés à assurer la prévention des accidents de voyageurs.
 
-Signalisation :
+Signalisation ferroviaire :
 
-- signalisation envisagée.
+Signalisation envisagée.
 
 Passages à niveau :
 
-- propositions de classement et d'équipement des passages à niveau.
+Classement et équipement des passages à niveau envisagés.
 
 Energie électrique de traction (le cas échéant) :
 
-- nature des modifications prévues sur les équipements permettant d'alimenter les matériels roulants en énergie électrique de traction.
+Nature des modifications prévues sur les équipements permettant d'alimenter les matériels roulants en énergie électrique de traction.
 
 Personnes à mobilité réduite :
 
-- description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.
+Description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.

@@ -1,24 +1,26 @@
 # Article ANNEXE 5
 
-Objet de l'exploitation
+Objet de l'exploitation.
 
 Identification et localisation du réseau.
 
-Sécurité de l'exploitation
+Sécurité de l'exploitation.
 
 Nature des événements redoutés inhérents à la circulation des trains, au déplacement et au comportement des personnes et à l'environnement extérieur au système ferroviaire et à ses emprises.
 
-Organisation et personnel
+Organisation et personnel.
+
+Position et missions confiées au référent sécurité du système.
 
 Description des fonctions précises des membres du personnel exerçant une activité impliquant la sécurité.
 
 Moyens d'identification de ces personnels par les voyageurs.
 
-Formation et habilitation de ces personnels.
+Formation, habilitation et suivi de ces personnels.
 
 Documentation relative à la sécurité mise à leur disposition.
 
-Circulation des trains
+Circulation des trains.
 
 Préparation des trains :
 
@@ -30,7 +32,9 @@ Consignes générales de circulation.
 
 Régimes de circulation.
 
-Composition et désignation des trains.
+Composition maximale des trains en tonnage et en freinage.
+
+Règles de composition des trains ;
 
 Modalités de transmission des services.
 
@@ -44,9 +48,7 @@ Gares et points d'arrêt en ligne.
 
 Anomalies en circulation :
 
-Comportement en mode de circulation dégradé (description,
-
-fonctionnement, précautions à prendre).
+Comportement en mode de circulation dégradé (description, fonctionnement, précautions à prendre).
 
 Circulations particulières :
 
@@ -54,11 +56,13 @@ Circulations en convoi.
 
 Circulations exceptionnelles.
 
-Circulations sur une même ligne de trains et de cyclo-draisines (le cas échéant).
+Circulations sur une même ligne de trains touristiques et de trains de fret (gestion des interfaces le cas échéant).
+
+Circulations sur une même ligne de trains touristiques et de cyclo-draisines (gestion des interfaces le cas échéant).
 
 Circulations de service.
 
-Traitement des accidents ou incidents graves en ligne
+Traitement des accidents ou incidents graves en ligne.
 
 Principes :
 
@@ -76,11 +80,11 @@ Consignation des mesures prises.
 
 Signalisation et appareils de voie
 
-Signaux sur le matériel roulant et sur la ligne.
+Signaux sur le véhicule et sur la ligne.
 
 Fonctionnement des appareils de voie.
 
-Manoeuvre des appareils de voie.
+Manœuvre des appareils de voie.
 
 Consignes de franchissement des appareils de voie.
 
@@ -92,11 +96,11 @@ Description de la signalisation et des consignes de franchissement afférentes �
 
 Consignes en cas de dysfonctionnement.
 
-Manoeuvres
+Manœuvres.
 
-Lieux permettant les manoeuvres.
+Lieux permettant les manœuvres.
 
-Consignes de réalisation des manoeuvres.
+Consignes de réalisation des manœuvres.
 
 Travaux
 
@@ -106,14 +110,14 @@ Circulation des trains de travaux.
 
 Consignes de franchissement d'une zone de travaux.
 
-Entretien et maintenance
+Maintenance.
 
-Nature, contenu et périodicité des opérations d'entretien et de maintenance du matériel roulant.
+Nature, contenu et périodicité des opérations d'entretien et de maintenance du véhicule.
 
-Registres de maintenance du matériel roulant.
+Registres de maintenance du véhicule.
 
-Registre de surveillance des ouvrages, des passages à niveau et des zones à risques.
+Registre de surveillance des ouvrages, des passages à niveau et des zones à risques. Plan de maintenance pour les PN automatiques
 
-Suivi de l'exploitation
+Suivi de l'exploitation.
 
 Registres d'exploitation tenus par l'exploitant.

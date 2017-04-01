@@ -1,127 +1,123 @@
 # Article ANNEXE 4
 
-Demande d'autorisation de mise en exploitation émise par le pétitionnaire
+Demande d'autorisation de mise en service émise par le pétitionnaire.
 
-Organisation
+Organisation des intervenants sur le projet.
 
 Nom, qualité du pétitionnaire.
 
-Nom, qualité et références du maître d'ouvrage.
+Nom, qualité et références du maître d'ouvrage ou du détenteur de l'infrastructure.
 
-Nom, qualité et références du maître d'oeuvre.
+En cas de mixité CFT/ fret, désignation du chef de file.
 
-Nom, qualité et références de l'exploitant.
+Nom, qualité et références du maître d'œuvre.
 
-Nom, qualité et références du propriétaire de la plate-forme, de la voie et des terrains.
+Nom, qualité et références de l'exploitant
 
-Nom, qualité et références du propriétaire du matériel roulant.
+Désignation de l'organisme qualifié agréé ou accrédité chargé d'établir le rapport sur la sécurité du système. Contenu et portée de sa mission.
 
-Organigramme fonctionnel de l'exploitant.
+Organigramme de l'exploitant intégrant les fonctions de sécurité.
 
-Entretien et maintenance du système
+Maintenance du système.
 
-Nom, qualité et références de l'entité chargée de l'entretien patrimonial.
+Nom, qualité et références de l'entité chargée de la maintenance de l'infrastructure.
 
-Nom, qualité et références de l'entité chargée de l'entretien courant.
+Nom, qualité et références de l'entité chargée de la maintenance courante du véhicule.
 
-Nom, qualité et références de l'entité chargée de la restauration du matériel roulant.
+Nom, qualité et références de l'entité chargée de la restauration du véhicule.
 
-Caractéristiques techniques et fonctionnelles du système
+Organisation pour la sécurité du système.
+
+Liste des référentiels appliqués ; écarts par rapport aux référentiels choisis.
+
+Démonstration que l'ensemble des obligations et prescriptions mentionnées dans le dossier préliminaire de sécurité, le cas échéant complétées des prescriptions apportées par le préfet, sont satisfaites.
+
+Caractéristiques techniques et fonctionnelles du système.
 
 Données générales :
 
-- longueur de la ligne ;
+Longueur de la ligne ;
 
-- type de voie (normale, métrique, autre à préciser) ;
+Type de voie (normale, métrique, submétrique) ;
 
-- nombre de voies (double voie, voie unique, alternance) ;
+Nombre de voies (double voie, voie unique, alternance) ;
 
-- nombre de passages à niveau ;
+Nombre de passages à niveau ;
 
-- nombre, nature et longueur des ouvrages d'art ;
+Nombre, nature et longueur des ouvrages d'art ;
 
-- nombre de gares ou de points d'arrêt ;
+Nombre de gares ou de points d'arrêt ;
 
-- période de circulation. Nombre maximal de circulations par jour ;
+Période de circulation. Nombre maximal de circulations par jour prévues ;
 
-- plan d'ensemble de la ligne (échelle 1/25 000 environ).
+Plan d'ensemble de la ligne (échelle 1/25 000 environ).
 
-Matériel roulant :
+Véhicule :
 
-- type, modèle et nombre de motrices, automotrices et voitures (constructeur, référence du matériel, année de première mise en circulation) ;
+Type, modèle et nombre de véhicules moteurs et remorqués dont la mise en service est prévue (constructeur, référence du matériel, année de première mise en circulation) ;
 
-- caractéristiques géométriques et mécaniques des motrices, automotrices et voitures (dimension, masse, motorisation,
+Caractéristiques géométriques et mécaniques des véhicules (dimensions, masse et charge à l'essieu (valeurs réelles ou estimées), motorisation, alimentation en énergie, poids adhérents), lorsqu'elles sont disponibles ;
 
-alimentation en énergie, poids adhérents), lorsqu'elles sont disponibles ;
+Type et description générale des systèmes de freinage des trains ;
 
-- composition maximale des trains en tonnage et en freinage. Règles éventuelles de composition des trains ;
+capacité maximale des différents types de voitures voyageurs :
 
-- type et description générale des systèmes de freinage des trains ;
+Plans d'ensemble, notices descriptives, fiches techniques (lorsque ceux-ci sont disponibles) ;
 
-- capacité maximale des différents types de voitures voyageurs :
+Eventuellement, schémas fonctionnels des organes de sécurité ;
 
-- plans d'ensemble ;
-
-- notices descriptives ;
-
-- éventuellement, fiches techniques ;
-
-- éventuellement, schémas fonctionnels des organes de sécurité ;
-
-- dispositifs de sécurité indiquant les voitures accessibles aux voyageurs (garde-corps, affichage des consignes...).
+Dispositifs de sécurité équipant les voitures accessibles aux voyageurs (systèmes d'alarmes, systèmes de fermeture, extincteurs, garde-corps, affichage des consignes, …).
 
 Infrastructure et voie :
 
-- type et caractéristiques des ouvrages d'art situés sur la ligne (plans, gabarit, longueur, profil en long, coupe type, lorsque ces documents sont disponibles) ;
+Type et caractéristiques des ouvrages d'art situés sur la ligne (plans, gabarit, longueur, profil en long, coupe type, lorsque ces documents sont disponibles) ;
 
-- caractéristiques géométriques de la voie (écartement, pente et rampe maximales, rayon minimal des courbes, entre-axes minimaux constatés de deux voies contiguës) ;
+Description des dispositifs de sécurité équipant les ouvrages d'art (garde-corps, éclairage, refuges, galeries d'accès) lorsqu'il en existe.
 
-- armement de la voie ;
+Caractéristiques géométriques de la voie (écartement, pente et rampe maximales, rayon minimal des courbes, entre-axes minimaux constatés de deux voies contiguës)
 
-- type des appareils de voie (talonnable ou non, à aiguille libre ou verrouillée) ;
+Armement de la voie (travelage, rail, attaches, éclissage) ;
 
-- schéma d'implantation des appareils de voie sur la ligne ;
+Type des appareils de voie (talonnable ou non, renversable ou non, à aiguille libre ou verrouillée) ;
 
-- tracé en plan de la ligne avec localisation des gares et dépôts, plan du profil en long lorsque ce document existe ;
+Schéma d'implantation des appareils de voie sur la ligne ;
 
-- description des dispositifs de sécurité équipant les ouvrages d'art (garde-corps, éclairage, désenfumage, refuges, galeries d'accès) lorsqu'il en existe.
+Tracé en plan de la ligne avec localisation des gares et dépôts, plan du profil en long lorsque ce document existe ;
 
 Signalisation ferroviaire :
 
-- implantation et description de la signalisation ferroviaire ;
-
-- plan d'implantation de la signalisation verticale et horizontale.
+Implantation et description de la signalisation ferroviaire ;
 
 Alimentation en énergie électrique de traction (le cas échéant) :
 
-- nombre et implantation des sous-stations ;
+Nombre et implantation des sous-stations ;
 
-- tension d'alimentation ;
+Tension d'alimentation ;
 
-- implantation et caractéristiques des supports de distribution de l'énergie ;
+Implantation et caractéristiques des supports de distribution de l'énergie ;
 
-- éventuellement, plan d'ensemble du réseau d'alimentation en énergie électrique de traction (sous-stations, implantation des supports caténaires) ;
+Eventuellement, plan d'ensemble du réseau d'alimentation en énergie électrique de traction (sous-stations, implantation des supports caténaires) ;
 
-- hauteur des fils caténaires.
+Hauteur des fils caténaires.
 
 Passages à niveau :
 
-- classement des passages à niveau et type (gardé, non gardé, automatique) ;
+Classement des passages à niveau et type (gardé, non gardé, automatique) ;
 
-- description des équipements des passages à niveau ;
+Description des équipements des passages à niveau ;
 
-- plan général de la ligne avec localisation des passages à niveau.
+Plan général de la ligne avec localisation des passages à niveau.
 
 Environnement extérieur :
 
-- identification et localisation des installations classées situées à proximité de la voie ;
+Identification et localisation des installations classées situées à proximité de la voie ;
 
-- liste des risques naturels et industriels répertoriés le long du parcours.
+Liste des risques naturels et industriels répertoriés le long du parcours.
 
 Personnes à mobilité réduite :
 
-- description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.
+Description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.
 
-Assurance
+Assurance.
 
 Attestation ou engagement d'assurance en responsabilité civile de l'exploitant.

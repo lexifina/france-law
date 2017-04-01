@@ -14,4 +14,4 @@ Règles à respecter durant le trajet.
 
 Autres règles destinées aux voyageurs.
 
-Modalités d'affichage du règlement de police de l'exploitation.
+Modalités d'affichage.
