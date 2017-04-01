@@ -28,7 +28,7 @@ b. Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de co
 
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés :
 
-a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales.
+a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C.
 
 Cette exonération ne s'applique pas aux produits mentionnés au 1 destinés à être utilisés dans les installations visées à l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code ;
 
@@ -106,4 +106,4 @@ Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un ra
 
 NOTA :
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article 266 quinquies tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de ladite loi.

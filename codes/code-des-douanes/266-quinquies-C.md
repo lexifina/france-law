@@ -36,7 +36,7 @@ Le montant de la taxe dû par les fournisseurs apparaît distinctement, en addit
 
 3° Produite à bord des bateaux ;
 
-4° Produite par de petits producteurs d'électricité qui la consomment pour les besoins de leur activité. Sont considérées comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la production annuelle n'excède pas 240 millions de kilowattheures par site de production ;
+4° Produite par de petits producteurs d'électricité qui la consomment pour les besoins de leur activité. Sont considérées comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la production annuelle n'excède pas 240 millions de kilowattheures par site de production. Cette disposition s'applique également à la part, consommée sur le site, de l'électricité produite par les producteurs d'électricité pour lesquels la puissance de production installée sur le site est inférieure à 1 000 kilowatts. Pour les installations de production d'électricité utilisant l'énergie solaire photovoltaïque, la puissance installée s'entend de la puissance crête installée ;
 
 5° (Abrogé).
 
@@ -164,4 +164,4 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article 266 quinquies C tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de ladite loi.
