@@ -1,351 +1,183 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2016
+AU 1ER AVRIL 2017
 
-PAYS DE RÉSIDENCE (RYTHME SUD)
-
-|
+PAYS DE RÉSIDENCE (RYTHME SUD) |
 
 ENFANTS
 
-de moins
-
-de 10 ans
-
-|
+de moins de 10 ans |
 
 ENFANTS
 
-de 10 à 15 ans
-
-|
+de 10 à 15 ans |
 
 ENFANTS
 
-de plus de 15 ans
+de plus de 15 ans |
 
-|
+ARGENTINE |
 
-ARGENTINE
+a) Montant mensuel |
 
-|
+658 |
 
-a) Montant mensuel
+691 |
 
-|
+755 |
 
-604
+b) Droits de première inscription |
 
-|
+1 294 |
 
-629
+1 294 |
 
-|
+1 294 |
 
-684
+BOLIVIE |
 
-|
+a) Montant mensuel |
 
-b) Droits de première inscription
+462 |
 
-|
+473 |
 
-1 247
+483 |
 
-|
+b) Droits de première inscription |
 
-1 247
+1 449 |
 
-|
+1 485 |
 
-1 247
+1 522 |
 
-|
+BRESIL
 
-BOLIVIE
+(Rio) |
 
-|
+a) Montant mensuel |
 
-a) Montant mensuel
+933 |
 
-|
+966 |
 
-437
+966 |
 
-|
+b) Droits de première inscription |
 
-446
+0 |
 
-|
+0 |
 
-456
+0 |
 
-|
+BRESIL
 
-b) Droits de première inscription
+(Sao Paulo) |
 
-|
+a) Montant mensuel |
 
-1 356
+892 |
 
-|
+972 |
 
-1 390
+972 |
 
-|
+b) Droits de première inscription |
 
-1 425
+0 |
 
-|
+0 |
 
-BRÉSIL (Rio)
+0 |
 
-|
+CHILI |
 
-a) Montant mensuel
+a) Montant mensuel |
 
-|
+579 |
 
-639
+579 |
 
-|
+579 |
 
-639
+b) Droits de première inscription |
 
-|
+3 472 |
 
-639
+3 472 |
 
-|
+3 472 |
 
-b) Droits de première inscription
+COSTA RICA |
 
-|
+a) Montant mensuel |
 
-0
+437 |
 
-|
+437 |
 
-0
+437 |
 
-|
+b) Droits de première inscription |
 
-0
+0 |
 
-|
+0 |
 
-BRÉSIL (Sao Paulo)
+0 |
 
-|
+PEROU |
 
-a) Montant mensuel
+a) Montant mensuel |
 
-|
+524 |
 
-619
+524 |
 
-|
+524 |
 
-671
+b) Droits de première inscription |
 
-|
+981 |
 
-695
+720 |
 
-|
+451 |
 
-b) Droits de première inscription
+URUGUAY |
 
-|
+a) Montant mensuel |
 
-0
+708 |
 
-|
+802 |
 
-0
+843 |
 
-|
+b) Droits de première inscription |
 
-0
+259 |
 
-|
+452 |
 
-CHILI
+452 |
 
-|
+VANUATU |
 
-a) Montant mensuel
+a) Montant mensuel |
 
-|
+408 |
 
-508
+463 |
 
-|
+512 |
 
-508
+b) Droits de première inscription |
 
-|
+759 |
 
-508
+759 |
 
-|
-
-b) Droits de première inscription
-
-|
-
-1 458
-
-|
-
-1 458
-
-|
-
-1 458
-
-|
-
-COSTA RICA
-
-|
-
-a) Montant mensuel
-
-|
-
-438
-
-|
-
-438
-
-|
-
-438
-
-|
-
-b) Droits de première inscription
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-PÉROU
-
-|
-
-a) Montant mensuel
-
-|
-
-491
-
-|
-
-491
-
-|
-
-491
-
-|
-
-b) Droits de première inscription
-
-|
-
-930
-
-|
-
-682
-
-|
-
-428
-
-|
-
-URUGUAY
-
-|
-
-a) Montant mensuel
-
-|
-
-592
-
-|
-
-687
-
-|
-
-728
-
-|
-
-b) Droits de première inscription
-
-|
-
-216
-
-|
-
-377
-
-|
-
-377
-
-|
-
-VANUATU
-
-|
-
-a) Montant mensuel
-
-|
-
-381
-
-|
-
-433
-
-|
-
-478
-
-|
-
-b) Droits de première inscription
-
-|
-
-719
-
-|
-
-719
-
-|
-
-719
-
-|
+759 |
