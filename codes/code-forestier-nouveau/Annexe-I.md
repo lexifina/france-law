@@ -4,13 +4,11 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 321-42
 
 Répartition des centres régionaux de la propriété forestière
 
-RÉGIONS
-
-de compétence
+RÉGIONS DE COMPÉTENCE
 
 |
 
-RÉGION DU SIÈGE
+RÉGION DU SIÈGE DU CRPF
 
 |
 
@@ -18,19 +16,17 @@ DÉPARTEMENTS
 
 |
 
-Nord-Pas-de-Calais
+Hauts-de-France
 
 |
 
-Picardie
+Hauts-de-France
 
 |
 
 Nord
 
 |
-
-Picardie
 
 |
 
@@ -64,19 +60,17 @@ Somme
 
 |
 
-Basse-Normandie
+Normandie
 
 |
 
-Haute-Normandie
+Normandie
 
 |
 
 Eure
 
 |
-
-Haute-Normandie
 
 |
 
@@ -110,11 +104,11 @@ Orne
 
 |
 
-Champagne-Ardenne
+Grand Est
 
 |
 
-Champagne-Ardenne
+Grand Est
 
 |
 
@@ -146,19 +140,13 @@ Haute-Marne
 
 |
 
-Lorraine
-
 |
-
-Lorraine
 
 |
 
 Meurthe-et-Moselle
 
 |
-
-Alsace
 
 |
 
@@ -188,7 +176,7 @@ Vosges
 
 |
 
-Rhin (Bas-)
+Bas-Rhin
 
 |
 
@@ -196,15 +184,15 @@ Rhin (Bas-)
 
 |
 
-Rhin (Haut-)
+Haut-Rhin
 
 |
 
-Bretagne
+Bretagne et Pays de la Loire
 
 |
 
-Bretagne
+Pays de la Loire
 
 |
 
@@ -236,11 +224,7 @@ Morbihan
 
 |
 
-Pays de la Loire
-
 |
-
-Pays de la Loire
 
 |
 
@@ -280,19 +264,17 @@ Vendée
 
 |
 
-Ile-de-France
+Ile-de-France et Centre-Val de Loire
 
 |
 
-Centre
+Centre-Val de Loire
 
 |
 
 Seine-et-Marne
 
 |
-
-Centre
 
 |
 
@@ -390,11 +372,11 @@ Loiret
 
 |
 
-Bourgogne
+Bourgogne-Franche-Comté
 
 |
 
-Bourgogne
+Bourgogne-Franche-Comté
 
 |
 
@@ -426,11 +408,7 @@ Yonne
 
 |
 
-Franche-Comté
-
 |
-
-Franche-Comté
 
 |
 
@@ -450,7 +428,7 @@ Jura
 
 |
 
-Saône (Haute-)
+Haute-Saône
 
 |
 
@@ -462,11 +440,11 @@ Territoire de Belfort
 
 |
 
-Poitou-Charentes
+Nouvelle-Aquitaine
 
 |
 
-Poitou-Charentes
+Nouvelle-Aquitaine
 
 |
 
@@ -498,11 +476,7 @@ Vienne
 
 |
 
-Limousin
-
 |
-
-Limousin
 
 |
 
@@ -526,11 +500,51 @@ Haute-Vienne
 
 |
 
-Auvergne
+|
 
 |
 
-Auvergne
+Dordogne
+
+|
+
+|
+
+|
+
+Gironde
+
+|
+
+|
+
+|
+
+Landes
+
+|
+
+|
+
+|
+
+Lot-et-Garonne
+
+|
+
+|
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+Auvergne-Rhône-Alpes
+
+|
+
+Auvergne-Rhône-Alpes
 
 |
 
@@ -562,11 +576,7 @@ Puy-de-Dôme
 
 |
 
-Rhône-Alpes
-
 |
-
-Rhône-Alpes
 
 |
 
@@ -630,55 +640,11 @@ Haute-Savoie
 
 |
 
-Aquitaine
+Occitanie
 
 |
 
-Aquitaine
-
-|
-
-Dordogne
-
-|
-
-|
-
-|
-
-Gironde
-
-|
-
-|
-
-|
-
-Landes
-
-|
-
-|
-
-|
-
-Lot-et-Garonne
-
-|
-
-|
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-Midi-Pyrénées
-
-|
-
-Midi-Pyrénées
+Occitanie
 
 |
 
@@ -742,11 +708,7 @@ Tarn-et-Garonne
 
 |
 
-Languedoc-Roussillon
-
 |
-
-Languedoc-Roussillon
 
 |
 
@@ -846,12 +808,18 @@ Corse
 
 |
 
+Haute-Corse
+
+|
+
+|
+
+|
+
 Corse-du-Sud
 
 |
 
-|
+NOTA :
 
-|
-
-Haute-Corse |
+Conformément à l'article 2 du décret n° 2016-1513 du 8 novembre 2016, ces dispositions entrent en vigueur à compter du prochain renouvellement des conseillers des centres régionaux de la propriété forestière et au plus tard le 1er avril 2017.
