@@ -1,12 +1,8 @@
 # Article Annexe I
 
-NOM DE LA COMMISSION
+NOM DE LA COMMISSION |
 
-|
-
-TEXTE INSTITUTIF
-
-|
+TEXTE INSTITUTIF |
 
 Conseil national de l'inventaire général du patrimoine culturel
 
@@ -55,14 +51,6 @@ Commission nationale culture-handicap
 |
 
 Arrêté du 1er février 2001 portant création de la Commission nationale culture-handicap
-
-|
-
-Commission nationale des centres culturels de rencontre
-
-|
-
-Arrêté du 5 juillet 1996 portant création d'une Commission nationale des centres culturels de rencontre
 
 |
 
