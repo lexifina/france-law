@@ -2,9 +2,7 @@
 
 LISTE DES CIRCONSCRIPTIONS DE SÉCURITÉ PUBLIQUE HORS ÎLE-DE-FRANCE CLASSÉES EN SECTEUR DIFFICILE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ DE FIDÉLISATION
 
-Bouches-du-Rhône
-
-|
+Bouches-du-Rhône |
 
 Marseille
 
@@ -12,29 +10,21 @@ Vitrolles
 
 |
 
-Eure-et-Loir
+Eure-et-Loir |
 
-|
-
-Dreux
-
-|
+Dreux |
 
 Nord
 
 |
 
-Lille
+Lille Agglomération
 
-Roubaix
-
-Tourcoing
+Dunkerque
 
 |
 
-Oise
-
-|
+Oise |
 
 Beauvais
 
@@ -42,9 +32,15 @@ Creil
 
 |
 
-Rhône
+Pas-de-Calais
 
 |
+
+Calais
+
+|
+
+Rhône |
 
 Lyon
 
@@ -52,9 +48,7 @@ Givors
 
 |
 
-Seine-Maritime
-
-|
+Seine-Maritime |
 
 Le Havre
 
@@ -62,10 +56,6 @@ Rouen
 
 |
 
-Somme
+Somme |
 
-|
-
-Amiens
-
-|
+Amiens |
