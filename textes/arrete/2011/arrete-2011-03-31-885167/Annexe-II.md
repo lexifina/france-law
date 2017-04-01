@@ -74,9 +74,9 @@ Zones piégées.
 
 III. - Etat sanitaire du peuplement
 
-Chablis massifs.
+Chablis et arbres encroués à risques spécifiques.
 
-Proportion d'arbres morts, dépérissant...
+Proportion d'arbres morts, dépérissant.
 
 Arbres atteints d'affections susceptibles de présenter un danger pour les travailleurs (suie de l'érable, etc.).
 
