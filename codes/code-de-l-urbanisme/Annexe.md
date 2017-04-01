@@ -4,9 +4,9 @@ Liste des servitudes d'utilité publique mentionnées aux articles R. 151-51 et 
 
 Liste des servitudes d'utilité publique affectant l'utilisation du sol :
 
-I.-Servitudes relatives à la conservation du patrimoine.
+I. – Servitudes relatives à la conservation du patrimoine.
 
-A.-Patrimoine naturel.
+A. – Patrimoine naturel.
 
 a) Forêts.
 
@@ -40,37 +40,33 @@ Zones agricoles protégées délimitées et classées en application de l'articl
 
 Zone de protection naturelle, agricole et forestière non urbanisable du plateau de Saclay délimitée par le décret n° 2013-1298 du 27 décembre 2013 pris en application de l'article L. 123-31 du code de l'urbanisme.
 
-B.-Patrimoine culturel.
+B. – Patrimoine culturel.
 
-a) Monuments historiques.
+a) Monuments historiques et sites patrimoniaux remarquables :
 
 Immeubles classés et inscrits au titre des monuments historiques en application des articles L. 621-1 et suivants du code du patrimoine ;
 
-Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 conformément à l'article L. 642-9 du code du patrimoine ;
+Abords des monuments historiques définis à l'article L. 621-30 du même code ;
 
-Périmètres de protection des monuments historiques classés ou inscrits en application des articles L. 621-30 à L. 621-32 du code du patrimoine.
+Sites patrimoniaux remarquables classés en application de l'article L. 631-1 du même code ;
 
-b) Monuments naturels et sites.
+Plans de valorisation de l'architecture et du patrimoine approuvés en application de l'article L. 631-4 du même code ;
+
+Règlements des zones de protection du patrimoine architectural, urbain et paysager et des aires de mise en valeur de l'architecture et du patrimoine.
+
+b) Monuments naturels et sites :
 
 Sites inscrits en application de l'article L. 341-1 du code de l'environnement ;
 
-Sites classés en application de l'article L. 341-2 du code de l'environnement ;
+Sites classés en application de l'article L. 341-2 du code de l'environnement.
 
-Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 conformément à l'article L. 642-9 du code du patrimoine.
-
-c) Patrimoine architectural et urbain.
-
-Aires de mise en valeur de l'architecture et du patrimoine créées en application des articles L. 642-1 et suivants du code du patrimoine ;
-
-Zones de protection du patrimoine architectural, urbain et paysager en application de l'article L. 642-8 du code du patrimoine.
-
-C.-Patrimoine sportif.
+C. – Patrimoine sportif.
 
 Terrains de sport dont le changement d'affectation est soumis à autorisation en application de l'article L. 312-3 du code du sport.
 
-II.-Servitudes relatives à l'utilisation de certaines ressources et équipements.
+II. – Servitudes relatives à l'utilisation de certaines ressources et équipements.
 
-A.-Energie.
+A. – Energie.
 
 Servitudes applicables aux canalisations de transport de gaz, d'hydrocarbures et de produits chimiques en application de la section IV du chapitre V du titre V du livre V du code de l'environnement.
 
@@ -90,13 +86,13 @@ d) Réseaux de chaleur et de froid.
 
 Servitudes relatives aux canalisations de transport et de distribution de chaleur et de froid instituées en application des articles L. 721-1 et suivants du code de l'énergie.
 
-B.-Mines et carrières.
+B. – Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles L. 153-3 à L. 153-8, L. 153-14 et L. 153-15 du code minier ;
 
 Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle prévues à l'article L. 264-1 du code minier.
 
-C.-Canalisations.
+C. – Canalisations.
 
 a) Transport de gaz, d'hydrocarbures et de produits chimiques.
 
@@ -112,7 +108,7 @@ Servitudes de passage des engins mécaniques et de dépôt pour l'entretien des 
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en application des articles L. 152-20 à L. 152-23 du code rural et de la pêche maritime.
 
-D.-Communications.
+D. – Communications.
 
 a) Cours d'eau.
 
@@ -164,7 +160,7 @@ h) Transport par câble en milieu urbain.
 
 Servitudes instituées en application des articles L. 1251-3 à L. 1251-8 du code des transports.
 
-E.-Communications électroniques.
+E. – Communications électroniques.
 
 Servitudes de protection des centres radio-électriques d'émission et de réception contre les obstacles instituées en application des articles L. 54 à L. 56-1 et R. 21 à R. 26 du code des postes et des communications électroniques ;
 
@@ -172,7 +168,7 @@ Servitudes de protection des centres de réception radio-électriques contre les
 
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-9 et L. 48 du code des postes et des communications électroniques.
 
-III.-Servitudes relatives à la défense nationale.
+III. – Servitudes relatives à la défense nationale.
 
 Servitudes relatives aux ouvrages de défense des côtes ou de sécurité maritime instituées en application de l'article L. 5112-1 du code de la défense ;
 
@@ -184,9 +180,9 @@ Servitudes relatives à certaines installations de défense instituées en appli
 
 Servitudes pour l'exécution des exercices de tirs, marches, manœuvres ou opérations d'ensemble créées en application de l'article L. 2161-1 du code de la défense.
 
-IV.-Servitudes relatives à la salubrité et à la sécurité publiques
+IV. – Servitudes relatives à la salubrité et à la sécurité publiques
 
-A.-Salubrité publique.
+A. – Salubrité publique.
 
 a) Cimetières.
 
@@ -196,7 +192,7 @@ b) Etablissements conchylicoles.
 
 Périmètres de protection installés autour des établissements de conchyliculture et d'aquaculture et des gisements coquilliers en application de l'article 2 du décret-loi du 30 octobre 1935 sur la protection des eaux potables et les établissements ostréicoles.
 
-B.-Sécurité publique.
+B. – Sécurité publique.
 
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement, ou plans de prévention des risques miniers établis en application de l'article L. 174-5 du code minier ;
 

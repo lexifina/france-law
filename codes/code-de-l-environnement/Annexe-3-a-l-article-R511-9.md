@@ -3534,7 +3534,7 @@ D
 
 |
 
-- à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
+- à la restauration des monuments historiques classés ou inscrits ou des immeubles situés dans le périmètre d'un site patrimonial remarquable.
 
 |
 
