@@ -354,25 +354,9 @@ Observations
 
 |
 
-4 - Centre national et centres régionaux des œuvres universitaires et scolaires
+4 -Centre national et centres régionaux des œuvres universitaires et scolaires
 
 |
-
-|
-
-|
-
-Directeur de centre régional des œuvres universitaires et scolaires
-
-1er groupe
-
-2e groupe
-
-|
-
-801 - HEA
-
-801 - 1015
 
 |
 
@@ -388,83 +372,11 @@ HEC - HEE
 
 |
 
-Directeur adjoint du Centre national
-
-|
-
-841 - HEB
+5 -Établissements publics d'enseignement supérieur
 
 |
 
 |
-
-Sous-directeur du Centre national
-
-|
-
-801 - HEA
-
-|
-
-A compter du 1er janvier 2000
-
-|
-
-Agent comptable de centre régional des œuvres universitaires et scolaires
-
-|
-
-642 - 966
-
-|
-
-|
-
-5 - Établissements publics d'enseignement supérieur
-
-|
-
-|
-
-|
-
-Secrétaire général d'établissement public d'enseignement supérieur
-
-groupe I
-
-groupe II
-
-|
-
-801 - HEA
-
-801 - 1015
-
-|
-
-A compter du 1er janvier 1999
-
-A compter du 1er janvier 1999
-
-|
-
-Agent comptable d'établissement public à caractère scientifique, culturel et professionnel
-
-groupe I
-
-groupe II
-
-|
-
-642 - 985
-
-642 - 966
-
-|
-
-A compter du 1er août 1996
-
-A compter du 1er août 1995
 
 |
 
@@ -486,7 +398,7 @@ Chef d'études documentaires
 
 |
 
-7 - Institut national de recherches pédagogiques (INRP)
+7 -Institut national de recherches pédagogiques (INRP)
 
 |
 
