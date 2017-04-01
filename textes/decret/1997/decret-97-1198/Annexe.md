@@ -968,19 +968,13 @@ Article 10
 
 Code des transports :
 
-1
+1 |
 
-|
-
-Refus d'inscription ou de renouvellement d'inscription des voitures de transports avec chauffeur
-
-|
+Refus d'inscription ou de renouvellement d'inscription des voitures de transports avec chauffeur |
 
 Article R. 3122-2 |
 
-2
-
-|
+2 |
 
 Décision d'interdiction ou de limitation des services librement organisés assurant une liaison de 100 kilomètres ou moins et portant atteinte à l'équilibre économique de services publics réguliers de transport de personnes organisés par l'Etat. |
 
@@ -1094,9 +1088,7 @@ R. 184, 1er et 2e alinéa ; R. 200.
 
 |
 
-3
-
-|
+3 |
 
 Agrément d'un réseau national de contrôle technique des véhicules. |
 
@@ -1462,33 +1454,23 @@ Article 42-2.
 
 Habilitation des organismes chargés de délivrer les approbations de structures |
 
-Article 42-2
+Article 42-2 |
 
-|
-
-11
-
-|
+11 |
 
 Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires
 
 |
 
-Article 42-2
+Article 42-2 |
 
-|
-
-12
-
-|
+12 |
 
 Habilitation des organismes chargés de procéder au mesurage du bruit
 
 |
 
-Article 42-2
-
-|
+Article 42-2 |
 
 Décret n° 92-1166 du 21 octobre 1992 relatif à la conduite en mer des navires de plaisance à moteur
 
@@ -1520,6 +1502,26 @@ Article 14 bis
 
 |
 
+Décret n° 2017-441 du 30 mars 2017.
+
+1 |
+
+Mise en demeure de l'armateur ou l'employeur d'un gens de mer de justifier des mesures qu'il entend prendre pour s'acquitter de ses obligations en matière de rapatriement |
+
+Article 2 |
+
+2 |
+
+Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports |
+
+Article 2 |
+
+3 |
+
+Mise en œuvre de la saisie conservatoire du navire dans les conditions du I de l'article L. 5542-33-2 du code des transports |
+
+Article 2 |
+
 Mesures prises par le ministre chargé de la marine marchande
 
 Code des douanes
@@ -1542,65 +1544,37 @@ et article 258,
 
 Décret n° 2006-142 du 10 février 2006 relatif à la création du guichet unique prévu par la loi n° 2005-412 du 3 mai 2005 relative à la création du registre international français
 
-1
+1 |
 
-|
+La délivrance des certificats d'immatriculation et de radiation des navires au registre international français. |
 
-La délivrance des certificats d'immatriculation et de radiation des navires au registre international français.
+Article 2, alinéas 2 et 3 |
 
-|
+2 |
 
-Article 2, alinéas 2 et 3
+La délivrance des titres de navigation maritime des navires immatriculés au registre international français. |
 
-|
+Article 2, alinéa 4 |
 
-2
+3 |
 
-|
+La délivrance de la fiche d'effectif minimal et le visa des décisions d'effectif des navires immatriculés au registre international français. |
 
-La délivrance des titres de navigation maritime des navires immatriculés au registre international français.
+Article 2, alinéa 5 |
 
-|
+4 |
 
-Article 2, alinéa 4
-
-|
-
-3
-
-|
-
-La délivrance de la fiche d'effectif minimal et le visa des décisions d'effectif des navires immatriculés au registre international français.
-
-|
-
-Article 2, alinéa 5
-
-|
-
-4
-
-|
-
-La délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports.
-
-|
+La délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
 
 Article 2, alinéa 6 |
 
 Décret n° 2014-497 du 16 mai 2014 relatif à la délégation des certificats d'assurance ou autre garantie financière des navires
 
-1
+1 |
 
-|
+Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires. |
 
-Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires.
-
-|
-
-Article 2
-
-|
+Article 2 |
 
 Mesures prises par le ministre chargé des ports maritimes
 
@@ -1888,13 +1862,9 @@ Chapitre Ier du titre II, du livre IV
 
 |
 
-Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux
+Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux |
 
-|
-
-Article R. 410-12 du code de l'aviation civile
-
-|
+Article R. 410-12 du code de l'aviation civile |
 
 Décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail ou de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
 
@@ -2250,17 +2220,11 @@ Mesure prise par le ministre chargé de l'urbanisme
 
 Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomètre expert et code des devoirs professionnels
 
-1
+1 |
 
-|
+Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen |
 
-Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
-
-|
-
-Article 11, premier et deuxième alinéa
-
-|
+Article 11, premier et deuxième alinéa |
 
 C.-Autres décisions
 
@@ -2326,149 +2290,77 @@ TITRE III : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHAR
 
 Décret n° 2013-46 du 14 janvier 2013 relatif aux aides pour l'électrification rurale.
 
-1
+1 |
 
-|
+Décisions de répartition en sous-programmes du programme principal et du programme spécial d'aides |
 
-Décisions de répartition en sous-programmes du programme principal et du programme spécial d'aides
+Article 1er |
 
-|
+2 |
 
-Article 1er
+Décision de répartition entre sous-programmes des droits à subventions du programme principal |
 
-|
+Article 6, (II), 1er alinéa |
 
-2
+3 |
 
-|
+Décision de répartition entre autorités organisatrices de la distribution des droits à subventions de chaque sous-programme du programme principal ou, le cas échéant, décision globale d'attribution de ces droits, selon le cas à l'établissement public de coopération départemental ou au département |
 
-Décision de répartition entre sous-programmes des droits à subventions du programme principal
+Article 6, (II), 2e et 3e alinéa |
 
-|
+4 |
 
-Article 6, (II), 1er alinéa
+Décision d'attribution d'une subvention d'un sous-programme du programme principal, fixant, le cas échéant, un taux réduit |
 
-|
+Articles 8 et 3 |
 
-3
+5 |
 
-|
+Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention |
 
-Décision de répartition entre autorités organisatrices de la distribution des droits à subventions de chaque sous-programme du programme principal ou, le cas échéant, décision globale d'attribution de ces droits, selon le cas à l'établissement public de coopération départemental ou au département
+Articles 9 (I et II) et 10 |
 
-|
+6 |
 
-Article 6, (II), 2e et 3e alinéa
+Décisions constatant la caducité de la subvention et prorogeant le délai de deux ans |
 
-|
+Article 11 |
 
-4
+7 |
 
-|
+Décisions demandant le reversement d'une subvention et prolongeant le délai d'exécution des travaux |
 
-Décision d'attribution d'une subvention d'un sous-programme du programme principal, fixant, le cas échéant, un taux réduit
+Article 12 |
 
-|
+8 |
 
-Articles 8 et 3
+Décision d'attribution ou de refus d'une subvention du programme spécial |
 
-|
+Articles 13 et 15 |
 
-5
+9 |
 
-|
+Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention |
 
-Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention
+Articles 16 (I et II) et 17 |
 
-|
+10 |
 
-Articles 9 (I et II) et 10
+Décision constatant la caducité de la subvention et prorogeant le délai de deux ans |
 
-|
+Article 18 |
 
-6
+11 |
 
-|
+Décision demandant le reversement d'une subvention et prolongeant le délai d'exécution |
 
-Décisions constatant la caducité de la subvention et prorogeant le délai de deux ans
+Article 19 |
 
-|
+12 |
 
-Article 11
+Décision habilitant les agents chargés du contrôle |
 
-|
-
-7
-
-|
-
-Décisions demandant le reversement d'une subvention et prolongeant le délai d'exécution des travaux
-
-|
-
-Article 12
-
-|
-
-8
-
-|
-
-Décision d'attribution ou de refus d'une subvention du programme spécial
-
-|
-
-Articles 13 et 15
-
-|
-
-9
-
-|
-
-Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention
-
-|
-
-Articles 16 (I et II) et 17
-
-|
-
-10
-
-|
-
-Décision constatant la caducité de la subvention et prorogeant le délai de deux ans
-
-|
-
-Article 18
-
-|
-
-11
-
-|
-
-Décision demandant le reversement d'une subvention et prolongeant le délai d'exécution
-
-|
-
-Article 19
-
-|
-
-12
-
-|
-
-Décision habilitant les agents chargés du contrôle
-
-|
-
-Article 21
-
-|
+Article 21 |
 
 13
 
