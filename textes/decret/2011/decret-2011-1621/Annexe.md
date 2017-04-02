@@ -1,3 +1,3 @@
 # Article Annexe
 
-Le cahier des charges de l'appellation d'origine contrôlée "Gaillac" est publié au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et peut être consulté à l'adresse suivante : http://agriculture.gouv.fr/bulletin-officiel.
+Le lien http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-af84bf9e-92d6-421c-8128-ad27a2f41969 permet de consulter le cahier des charges publié au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt.
