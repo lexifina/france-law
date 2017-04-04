@@ -1,0 +1,9 @@
+# Réponse à la question n° 101106
+
+- Question : [101106](101106.md) — Question n° 101106 — agents de surveillance de la voie publique; filière sécurité; intégration; perspective
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Les agents de surveillance de la voie publique (ASVP) ne sont pas inclus dans un cadre d'emplois spécifique de la fonction publique territoriale, contrairement aux agents de police municipale ou aux gardes champêtres. Agents titulaires d'un cadre d'emplois administratif ou technique de la fonction publique territoriale, ou agents non titulaires, les ASVP interviennent sur la voie publique aux côtés des agents de police municipale après agrément par le procureur de la République et assermentation par le tribunal de police. Les missions des ASVP sont différentes de celles des policiers municipaux. Leur compétence de verbalisation est limitée notamment aux domaines du stationnement hors stationnement gênant, de la propreté des voies et espaces publics, de la lutte contre le bruit. L'intégration des ASVP dans la filière sécurité, qui impliquerait la création d'un cadre d'emplois pour les ASVP, ne semble pas pertinente dans la mesure où la mission de ces agents serait restreinte à ces missions. Or, la vocation d'un cadre d'emplois de la fonction publique territoriale est, par nature, de couvrir un ensemble de fonctions et d'emplois. Par ailleurs, les missions confiées aux ASVP ainsi que leur origine professionnelle demeurent très variables d'une collectivité territoriale à l'autre. Par conséquent, le Gouvernement n'envisage pas de créer un cadre d'emplois des agents de surveillance de la voie publique. Afin toutefois de donner un débouché dans la filière sécurité aux ASVP qui le souhaitent, un projet de décret leur prévoit un concours interne d'accès au cadre d'emplois des agents de police municipale.
