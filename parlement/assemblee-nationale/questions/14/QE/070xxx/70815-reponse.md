@@ -1,0 +1,9 @@
+# Réponse à la question n° 70815
+
+- Question : [70815](70815.md) — Question n° 70815 — Français à l'étranger; exonération
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Conformément au 1° du II de l'article 1605 du code général des impôts (CGI), la contribution à l'audiovisuel public (CAP) est due par toutes les personnes physiques imposables à la taxe d'habitation au titre d'un local meublé affecté à l'habitation, à la condition de détenir au 1er janvier de l'année au cours de laquelle la CAP est due un appareil récepteur de télévision ou un dispositif assimilé permettant la réception de la télévision pour l'usage privatif du foyer. Ainsi, la détention d'un poste de télévision ou d'un appareil assimilé dans une résidence située sur le territoire national entraîne l'imposition à la CAP, quelles que soient les conditions dans lesquelles sont reçus ou regardés les programmes de télévision. La circonstance selon laquelle certaines personnes, françaises ou d'autres nationalités, établies hors de France s'acquitteraient d'une contribution destinée au financement de l'audiovisuel public dans le pays de résidence ne saurait les dispenser de contribuer au financement de l'audiovisuel public français dès lors qu'ils disposent bien en France d'une résidence secondaire équipée d'un téléviseur. Il en va de même de résidents de France redevables de la CAP qui, du fait de la jouissance d'une résidence secondaire dans un pays étranger, y seraient également redevables d'une telle contribution. Ainsi, exonérer de CAP les personnes non-résidentes établies dans un autre pays de l'Espace économique européen disposant dans leur résidence secondaire d'un poste de télévision ne serait pas justifié au regard de l'objet de la CAP et serait en outre inéquitable à l'égard des autres redevables. Enfin, aucune exonération ne saurait être fondée sur un critère de nationalité.
