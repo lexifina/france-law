@@ -1,0 +1,9 @@
+# Réponse à la question n° 35794
+
+- Question : [35794](35794.md) — Question n° 35794 — construction; financement; recommandations
+
+## Réponse
+
+*JO du 2017-04-04*
+
+L'aide personnalisée au logement (APL) est versée au locataire qui s'acquitte de la part de dépense de logement qui reste à sa charge, qu'il s'agisse du loyer principal ou des charges locatives. En cas d'impayés de loyers, il existe des dispositions pour maintenir l'aide et prévenir les expulsions, à condition que le locataire paie son loyer courant. Le dispositif des APL offre ainsi aujourd'hui la possibilité au locataire de surmonter les difficultés auxquelles il est confronté, tout en le responsabilisant quant au paiement de ses charges de logement. Par le maintien de l'aide, il offre également une certaine garantie au bailleur qui accepte de s'engager dans une démarche de résolution amiable de la dette. Cette démarche qui peut durer six mois est destinée à l'élaboration d'un plan d'apurement entre le bailleur et le locataire. Lorsque la situation financière de l'allocataire ne permet pas d'élaborer un tel plan, le fonds de solidarité logement peut être sollicité. L'article 27 de la loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR) a renforcé les dispositions précédemment en vigueur et prévoit notamment que, lorsque l'allocataire ne règle pas la part de dépense de logement qui reste à sa charge, le bailleur qui reçoit les versements d'aide en tiers payant est tenu de saisir l'organisme payeur qui décide du maintien du versement de l'aide. Pour les allocataires de bonne foi, la décision de maintien est réputée désormais favorable. Dans ce cadre, le décret no 2016-748 du 6 juin 2016 relatif aux aides personnelles au logement, venant préciser les modalités du maintien des aides personnelles au logement lorsque l'allocataire est de bonne foi, est entré en vigueur le 1er septembre 2016.
