@@ -1,0 +1,9 @@
+# Réponse à la question n° 86950
+
+- Question : [86950](86950.md) — Question n° 86950 — organismes faisant appel à la générosité publique; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Le compte d'emploi des ressources des organismes faisant appel public à la générosité est une annexe réglementaire des comptes annuels qui détaille l'utilisation des ressources collectées auprès du public. Dans son référé rendu public le 21 juillet 2015, la Cour des comptes a constaté que le compte d'emploi des ressources demeurait peu compréhensible pour un donateur non averti, et que la communication financière sur ces informations était parfois contestable. Elle a en conséquence appelé à une plus grande rigueur sur la présentation de ces informations, et a formulé certaines recommandations. La Cour des comptes a notamment estimé souhaitable que les documents de synthèse destinés à la communication des organismes bénéficiaires de la générosité publique soient visés par le commissaire aux comptes, afin de garantir la conformité des données qu'ils contiennent avec le compte d'emploi des ressources. Les organismes faisant appel public à la générosité font d'ores et déjà l'objet de procédures de contrôle renforcées, dont le coût est significatif. Le compte d'emploi des ressources qui est compris dans l'annexe des comptes annuels est soumis aux règles de publication légale et de certification par un commissaire aux comptes. Celui-ci doit mettre en place des diligences spécifiques destinées à s'assurer de la régularité et la sincérité des informations figurant dans ce document. Le ministère de la justice a accueilli avec beaucoup d'intérêt les recommandations faites par la Cour des comptes. Celles-ci doivent être étudiées en concertation avec les autres ministères intéressés et avec le secteur associatif, dans le souci de ne pas imposer aux structures concernées des obligations qui pourraient apparaître trop lourdes.
