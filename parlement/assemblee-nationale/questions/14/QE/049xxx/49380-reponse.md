@@ -1,0 +1,9 @@
+# Réponse à la question n° 49380
+
+- Question : [49380](49380.md) — Question n° 49380 — dividendes d'actions
+
+## Réponse
+
+*JO du 2017-04-04*
+
+S'agissant des dividendes et de la suppression de l'option pour le prélèvement forfaitaire libératoire, il convient de rappeler que l'article 9 de la loi de finances pour 2013 fait partie des mesures de rapprochement de la fiscalité des revenus du capital de celle des revenus du travail. La suppression de l'option pour le prélèvement forfaitaire libératoire conduit à renforcer l'équité fiscale. Le mécanisme mis en place est un mécanisme équilibré qui a permis de renforcer la progressivité de l'impôt sur le revenu tout en tenant compte de la réalité des capacités contributives des contribuables. D'ailleurs, saisi le 20 décembre 2012 notamment de la conformité à la Constitution de l'article 9 de la loi de finances pour 2013, le Conseil constitutionnel n'a pas remis en cause le principe de la réforme (DC no 2012-662 du 29 décembre 2012). Le prélèvement forfaitaire non libératoire de l'impôt sur le revenu constitue bien un acompte, imputable sur le montant d'impôt sur le revenu et, le cas échéant, restituable. La différence de base entre le montant de dividendes soumis à ce prélèvement et le montant de ces mêmes dividendes imposés au barème progressif de l'impôt sur le revenu après application de l'abattement forfaitaire de 40 % n'est pas de nature à remettre en cause le caractère d'acompte de ce prélèvement. En effet le mécanisme de restitution permet d'éviter toute double imposition. Enfin, les établissements payeurs sont tenus d'appliquer ce prélèvement forfaitaire non libératoire sur les dividendes, mais ils ne peuvent pas prendre en charge ce prélèvement. Dès lors, ce prélèvement ne constitue pas une charge pour l'établissement payeur, mais bien un acompte d'impôt sur le revenu, à la charge du seul contribuable personne physique.
