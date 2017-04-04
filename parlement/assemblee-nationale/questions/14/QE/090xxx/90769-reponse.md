@@ -1,0 +1,9 @@
+# Réponse à la question n° 90769
+
+- Question : [90769](90769.md) — Question n° 90769 — délai de prescription; allongement; champ d'application
+
+## Réponse
+
+*JO du 2017-04-04*
+
+La procédure judiciaire d'enquête fiscale prévue à l'article L. 228 du livre des procédures fiscales (LPF) renforce les moyens dont dispose l'administration fiscale en matière de répression pénale de la fraude fiscale en permettant de mettre à jour, avec des prérogatives de police judiciaire, les fraudes les plus difficiles à appréhender. Elle autorise, à cet effet, le dépôt d'une plainte avant même le début des opérations de contrôle fiscal et des prérogatives judiciaires sont conférées à des agents de l'administration fiscale afin d'enquêter sur les agissements visés par cette plainte. En outre, la mise en œuvre de la procédure judiciaire d'enquête fiscale permet de réparer les omissions ou insuffisances d'imposition afférentes à la période couverte par le délai initial de reprise. Conformément à l'article L. 188 B du LPF, ces omissions ou insuffisances peuvent être réparées, même si ce délai de reprise est expiré, jusqu'à la fin de l'année qui suit la décision qui met fin à la procédure et au plus tard jusqu'à la fin de la dixième année qui suit celle au titre de laquelle l'imposition est due. La rédaction de cet article ne limite pas la prorogation du délai de reprise qu'il institue aux impôts et taxes visés par la procédure judiciaire. Sont susceptibles de bénéficier du délai spécial de prescription toutes les impositions comprises dans le délai initial de reprise non expiré à la date du dépôt de la plainte par l'administration fiscale. Tous les impôts et taxes dus au titre de la période visée par le dépôt de plainte, quelle que soit leur nature (impôt sur le revenu, TVA, droit d'enregistrement…), entrent donc dans le champ de la prescription prorogée prévue à l'article L. 188 B du LPF.
