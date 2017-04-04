@@ -1,0 +1,9 @@
+# Réponse à la question n° 79463
+
+- Question : [79463](79463.md) — Question n° 79463 — pièces justificatives; perspectives
+
+## Réponse
+
+*JO du 2017-04-04*
+
+La loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (Alur) a pour objectif de sécuriser les relations entre bailleurs et locataires en mettant fin à des pratiques excessives dans la fourniture des pièces justificatives d'identité et de solvabilité lors de la mise en location d'un logement. L'article 22-2 de la loi du 6 juillet 1989 précitée et son décret d'application (décret no 2015-1437 du 5 novembre 2015) vient inverser la logique en prévoyant une liste limitative de pièces pouvant être demandées au candidat locataire et à sa caution préalablement à la conclusion du contrat de location. S'agissant des manquements relatifs aux pièces justificatives, l'article 22-2 de la loi du 6 juillet 1989 précitée prévoit le prononcé d'une amende administrative pouvant aller suivant la gravité des faits jusqu'à 15 000 euros pour une personne morale. Les professionnels sont également soumis aux dispositions de droit commun relatives aux pratiques commerciales trompeuses telles que prévues par le code de la consommation, notamment à son article L. 121-1. L'article L. 121-6 du même code, peut interdire pendant 10 ans l'exercice des activités d'agent immobilier, en application de l'article 9 II 17° de la loi du 2 janvier 1970 précitée. Enfin, s'agissant des professionnels de l'immobilier soumis à la loi du 2 janvier 1970 précitée, des règles déontologiques leur sont désormais applicables, lesquelles sont définies par le décret no 2015-1090 du 28 août 2015 fixant les règles constituant le code de déontologie applicable à certaines personnes exerçant les activités de transaction et de gestion des immeubles et des fonds de commerce.
