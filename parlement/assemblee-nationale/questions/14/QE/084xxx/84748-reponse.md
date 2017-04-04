@@ -1,0 +1,9 @@
+# Réponse à la question n° 84748
+
+- Question : [84748](84748.md) — Question n° 84748 — locaux professionnels; valeur locative; calcul; réforme
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Afin de répondre aux critiques que soulèvent régulièrement les modalités actuelles d'évaluation, un processus de révision des valeurs locatives des locaux professionnels est actuellement conduit. S'appuyant sur un consensus fort quant à la nécessité de procéder à une révision, cette démarche a été engagée par le Gouvernement en 2010, retranscrit par les dispositions de l'article 34 de la loi no 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010. Après une campagne déclarative en 2013 durant laquelle les propriétaires de locaux professionnels ont été sollicités pour décrire leurs biens, les travaux de fixation des nouveaux paramètres départementaux d'évaluation des locaux professionnels ont été initiés en 2014 dans l'ensemble des départements. Ils sont aujourd'hui achevés sur l'ensemble du territoire. Une simulation macro-économique a, par ailleurs, été réalisée à l'été 2015 par l'administration fiscale afin de mieux identifier les impacts de la réforme. A cette occasion, les impacts de la révision sur les grandes surfaces commerciales et les petits commerces situés en centre-ville ont bien entendu été analysés. Il en ressort notamment que les commerces de proximité de centre-ville augmentent de 6 % au niveau national, et non de 80 %. Le rapport sur les travaux de simulation de l'été 2015 a été transmis aux commissions des finances de l'Assemblée nationale et du Sénat et a permis d'éclairer utilement la discussion parlementaire qui a abouti à l'adoption de l'article 48 de la loi no 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 qui met en place différents mécanismes visant à rendre soutenables les effets de la réforme, qui se met en place à partir de 2017.
