@@ -1,0 +1,9 @@
+# Réponse à la question n° 69887
+
+- Question : [69887](69887.md) — Question n° 69887 — aide à l'accession; primo-accédants; conditions d'attribution
+
+## Réponse
+
+*JO du 2017-04-04*
+
+L'article 93 de la loi no 2014-1654 du 29 décembre 2014 de finances pour 2015 prévoyait l'ouverture du droit aux aides personnelles au logement (APL) pour les prêts ou les contrats de location-accession signés à compter du 1er janvier 2016, que si le montant total des ressources perçues par le ménage était inférieur de plus de 30 % au montant des ressources du ménage évaluées à la date de signature. L'objectif de la mesure était de recentrer le dispositif accession sur une fonction de sécurisation des ménages, en prévoyant l'attribution de l'aide en cas de chute de plus de 30 % des ressources par rapport au moment où le prêt immobilier a été signé. Par ailleurs, cet article visait une réorientation des dispositifs d'accession à la propriété, de manière à cibler leurs effets sur l'acquisition de logements neufs. Toutefois, compte tenu des conclusions du groupe de travail d'initiative parlementaire qui s'est penché sur les aides personnelles au logement, l'article 140 de la loi de finances no 2015-1785 pour 2016 est venu abroger les dispositions prévues par l'article 93 de la loi no 2014-1654 du 29 décembre 2014 de finances pour 2015. En effet, le Gouvernement a souhaité opter pour des mesures ciblées d'économies afin de suivre les préconisations du groupe de travail parlementaire. La suppression de la réforme des aides au logement en accession permet ainsi de conserver un dispositif d'aide à l'accession à la propriété, sans conditionner le versement de l'aide à la chute de revenus. Par ailleurs, le cumul possible du versement d'aides personnelles au logement en secteur accession et du dispositif de prêt à taux zéro, révisé en 2016, contribue à encourager l'accession à la propriété des ménages modestes.
