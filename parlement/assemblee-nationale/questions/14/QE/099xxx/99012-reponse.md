@@ -1,0 +1,9 @@
+# Réponse à la question n° 99012
+
+- Question : [99012](99012.md) — Question n° 99012 — PPCR; mise en oeuvre
+
+## Réponse
+
+*JO du 2017-04-04*
+
+L'un des objectifs du protocole sur les parcours professionnels, les carrières et les rémunérations est d'améliorer la rémunération des fonctionnaires afin de renforcer l'attractivité des carrières et de mieux reconnaître les niveaux de qualification requis. Sa mise en œuvre conduit d'une part, à un transfert « primes/points » qui prévoit concomitamment un abattement de la rémunération indemnitaire et un relèvement du traitement indiciaire et, d'autre part, à une revalorisation des grilles indiciaires. Les contractuels ne sont pas dans le champ de cette réforme. La note d'information du 10 juin 2016 sur la mesure dite de « transfert primes/points » rappelle que ce mécanisme prévu par l'article 148 de la loi du 29 décembre 2015 de finances pour 2016 et le décret no 2016-588 du 11 mai 2016 ne s'applique pas aux contractuels. S'agissant des revalorisations indiciaires, elles n'ont donc pas vocation à s'appliquer aux contractuels. C'est à la collectivité de fixer le montant de leur rémunération, le cas échéant par référence à un indice, et de décider de sa réévaluation qui ne peut intervenir qu'au vu des résultats des entretiens professionnels ou de l'évolution des fonctions. Si les collectivités peuvent choisir de fixer la rémunération des contractuels par référence à un indice de traitement, ces agents ne sont pas classés dans des échelles indiciaires. Celles-ci concernent les cadres d‘emplois, auxquels, par définition, n'appartiennent pas les agents contractuels qui ne sont pas titulaires d'un grade. Par conséquent, les contractuels ne bénéficient pas de la revalorisation des grilles indiciaires des fonctionnaires et, dès lors, ne peuvent pas non plus se voir appliquer l'abattement de primes correspondant au transfert primes/points.
