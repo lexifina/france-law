@@ -1,0 +1,9 @@
+# Réponse à la question n° 84931
+
+- Question : [84931](84931.md) — Question n° 84931 — majoration; conséquences
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Le principe de la majoration de la valeur locative des terrains constructibles a été institué en 1980 sous une forme facultative, puis rendue obligatoire par la première loi de finances rectificative pour 2012 dans les zones tendues. Plus récemment, la loi de finances rectificative pour 2015 a corrigé ses effets excessifs tout en préservant son efficacité. Au titre de 2015 et de 2016, les effets de la majoration de plein droit ont été en partie suspendus. En effet, pour les impositions dues au titre de ces deux années, seule la majoration de 25 % de la valeur locative a été maintenue. La majoration forfaitaire de cinq euros par mètre carré est supprimée. Pour la taxe foncière sur les propriétés non bâties due au titre de 2015, cette suppression a pris la forme d'un dégrèvement accordé à tous les contribuables. Pour la taxe foncière sur les propriétés non bâties due au titre de 2016, afin d'exonérer de la majoration les plus petits terrains qui ne se prêtent pas à des projets de construction d'envergure, la surface des terrains est prise en compte après un abattement de 200 mètres carrés. A compter de 2017, les aménagements apportés au dispositif permettront de mieux tenir compte des situations locales. Pour les impositions dues au titre de 2017 et des années suivantes, la majoration de 25 % est supprimée et le tarif de la majoration de plein droit fixé à trois euros par mètre carré. Toutefois, afin de tenir compte du contexte local, les communes et établissements publics de coopération intercommunale (EPCI) pourront le moduler pour le fixer entre un et cinq euros. Ils pourront également supprimer l'abattement de 200 mètres carrés, pour la majoration de plein droit comme pour la majoration sur délibération.
