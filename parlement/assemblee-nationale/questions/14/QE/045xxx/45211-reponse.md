@@ -1,0 +1,9 @@
+# Réponse à la question n° 45211
+
+- Question : [45211](45211.md) — Question n° 45211 — assainissement collectif; réglementation; loi littoral
+
+## Réponse
+
+*JO du 2017-04-04*
+
+La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, a été alertée sur les difficultés que pourraient rencontrer les communes littorales pour respecter la loi no 2013-312 lorsqu'elles veulent construire de nouvelles stations de traitement des eaux usées. L'article L. 121-8 du code de l'urbanisme prévoit que l'extension de l'urbanisation se réalise soit, en continuité avec les agglomérations et villages existants soit, en hameaux nouveaux intégrés à l'environnement. L'article L. 121-5 de ce même code prévoit qu'une dérogation est possible, à titre exceptionnel, pour les stations de traitement des eaux usées lorsque celles-ci ne sont pas liées à une opération d'urbanisation nouvelle. L'arrêté du 21 juillet 2015 relatif à la collecte et au traitement des eaux usées prévoit que les stations de traitement des eaux usées (STEU) soient implantées à plus de cent mètres des habitations et des bâtiments recevant du public. Toutefois, si le maître d'ouvrage de la STEU démontre que celle-ci n'engendrera pas de nuisances sonores ou olfactives et ne présente pas de risque sanitaire pour les riverains, le préfet peut déroger à cette disposition et donc autoriser son implantation à moins de 100 mètres. Ces différentes dispositions visent à préserver d'une part, l'environnement en zone littorale et d'autre part, le cadre de vie et la santé des personnes riveraines de stations de traitement des eaux usées. Le cadre dérogatoire qui accompagne chacune d'entre elles permet de prendre en compte les contraintes ou spécificités de certaines situations, sans pour autant remettre en cause le fondement de ces dispositions.
