@@ -1,0 +1,9 @@
+# Réponse à la question n° 93460
+
+- Question : [93460](93460.md) — Question n° 93460 — performance énergétique; diagnostics; réforme
+
+## Réponse
+
+*JO du 2017-04-04*
+
+L'article L. 134-4-1 du code de la construction et de l'habitation précise qu'un diagnostic de performance énergétique devait être réalisé avant le 1er janvier 2017 pour les bâtiments équipé d'une installation collective de chauffage ou de refroidissement. Toutefois, pour les bâtiments à usage principal d'habitation en copropriété de cinquante lots ou plus et dont la date de demande de permis de construire est antérieure au 1er juin 2001, le diagnostic de performance énergétique était remplacé par un audit énergétique. Les modalités de réalisation de cet audit sont précisées dans les articles R. 134-14 à R. 134-18 du code de la construction et de l'habitation. L'article R. 134-14 précise notamment que l'audit est réalisé « dans la ou les bâtiments à usages principal d'habitation (…) de cinquante lots ou plus, quelle que soit l'affectation des lots (…) ». L'article R. 134-14 apporte une précision par rapport à l'article L. 134-4-1, et n'est pas contradictoire avec ce dernier. Une copropriété comprenant cinquante lots ou plus, dont la répartition ferait apparaître moins de cinquante lots à destination de logements serait tout de même soumise à l'obligation de réalisation d'un audit énergétique, sauf si la somme des surfaces habitables des zones à usage d'habitation est inférieure à 10 % de la surface totale, habitable et utile du bâtiment. Dans ce dernier cas, le bâtiment n'est pas à usage principal d'habitation. Il n'est donc pas soumis à l'obligation de réalisation d'un audit énergétique. Il doit toutefois être soumis à l'obligation de réalisation d'un diagnostic de performance énergétique avant le 1er janvier 2017 comme le prévoyait le premier alinéa de l'article L. 134-4-1 du code de la construction et de l'habitation.
