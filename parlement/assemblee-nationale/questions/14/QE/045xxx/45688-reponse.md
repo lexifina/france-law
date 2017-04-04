@@ -1,0 +1,9 @@
+# Réponse à la question n° 45688
+
+- Question : [45688](45688.md) — Question n° 45688 — textes d'application; publication
+
+## Réponse
+
+*JO du 2017-04-04*
+
+A ce jour, le ministre de la justice, garde des sceaux peut indiquer que, parmi les lois portées par le ministère, promulguées depuis plus d'un an, une seule est encore en attente d'une mesure d'application. Il s'agit de la loi no 2015-177 du 16 février 2015 relative à la modernisation et la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures. Cette loi renvoyait à un décret en Conseil d'Etat la détermination des conditions de désignation et des attributions du commissaire du Gouvernement de la Polynésie française au sein du tribunal foncier. Cette mesure a nécessité la mise en place d'un groupe de travail en lien avec le gouvernement de Polynésie. Toutefois, la loi no 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique a supprimé la participation du commissaire du gouvernement dans la procédure du tribunal foncier. La mesure d'application de la loi du 16 février 2015 est donc devenue sans objet. Le ministère de la justice prépare toutefois un décret pour déterminer l'organisation et les conditions de fonctionnement du tribunal foncier. S'agissant des lois portées par d'autres ministères, promulguées depuis plus d'un an, le ministère de la justice doit encore prendre une mesure d'application de la loi no 2015-1776 du 28 décembre 2015 relative à l'adaptation de la société au vieillissement. Elle concerne les règles relatives aux modalités et à l'accès du registre spécial, prévu à l'article 477-1 du code civil, sur lequel est inscrit le mandat de protection future. Le projet de décret est en cours d'examen à la Commission nationale de l'informatique et des libertés (CNIL) en vue de sa publication prochaine.
