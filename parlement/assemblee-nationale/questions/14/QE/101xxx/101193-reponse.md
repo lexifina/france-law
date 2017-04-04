@@ -1,0 +1,9 @@
+# Réponse à la question n° 101193
+
+- Question : [101193](101193.md) — Question n° 101193 — prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Le loup est une espèce « strictement protégée » en France depuis 1994. Au niveau international, le loup est une espèce protégée au sens de la Convention de Berne et au sens de la directive 92/43/CEE dite « Habitat, Faune, Flore » où il est classé « prioritaire d'intérêt communautaire » en annexe II (espèces animales et végétales d'intérêt communautaire dont la conservation nécessite la désignation des zones spéciales de conservation) et IV (espèces animales et végétales présentant un intérêt communautaire et nécessitant une protection stricte). L'objectif de bon état de conservation visé par la directive pré-citée doit prendre en compte plusieurs données telles que l'aire de répartition de l'espèce, la persistance d'un habitat suffisamment étendu et viable, la présence d'un effectif minimum de spécimens ainsi que la connexion entre les populations de l'espèce, qu'elles soient ou non sur le territoire national. En France, l'évolution de la population de loup est suivie par l'Office national de la chasse et de la faune sauvage (ONCFS). Le nombre maximum de spécimens de loup pouvant être détruits est fixé chaque année en fonction de l'estimation de la population de loup fournie par l'ONCFS et de son évolution, afin de ne pas nuire au respect de l'état de conservation favorable exigé par la directive pré-citée. Les commissions locales norvégiennes ont autorisé la chasse de 47 loups sur une population de 65 à 68 bêtes à l'automne 2016. La Finlande et la Suède avaient aussi autorisé dans les années 2007 et 2011 des quotas de tirs importants qui ont fait depuis l'objet d'une condamnation par la Cour de justice de l'Union européenne.
