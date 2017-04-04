@@ -1,0 +1,9 @@
+# Réponse à la question n° 96649
+
+- Question : [96649](96649.md) — Question n° 96649 — état de catastrophe naturelle; perspectives
+
+## Réponse
+
+*JO du 2017-04-04*
+
+L'année 2016 a été marquée par de nombreux épisodes pluvieux intenses notamment fin mai et courant juin. Ces événements ont entraîné des inondations en raison des crues de grande ampleur de nombreux cours d'eau et des sols déjà saturés par les épisodes pluvieux du printemps, certes moindres mais continus. La Corse a également subi ce même phénomène d'importance à la fin du mois de novembre 2016 et les dossiers consécutifs à cet événement ont été traités lors de la commission accélérée du 13 décembre 2016. Deux commissions accélérées ont été mises en place les 7 et 13 juin 2016 au cours desquelles 1 357 dossiers de demande de reconnaissance de l'état de catastrophe naturelle ont été traités. La commission du 21 juin 2016 a pour sa part étudié 521 dossiers, et la commission du 13 décembre a analysé 79 dossiers. Ce qui représente 1 436 communes qui ont bénéficié dans des délais très courts de la reconnaissance de l'état de catastrophe naturelle, permettant ainsi aux sinistrés de bénéficier rapidement de la couverture assurantielle catastrophe naturelle auprès de leur compagnie d'assurance. Sur la totalité de l'année 2016 la commission interministérielle a examiné : - 3 285 dossiers au titre des inondations dont 2812 depuis le 7 juin 2016 ; - 49 dossiers au titre des inondations par remontée de nappe naturelle dont 32 depuis le 7 juin 2016 ; - 13 dossiers au titre des submersions marines dont 1 dossier lié aux évènements des mois de mai et juin ; - 169 dossiers au titre des mouvements de terrain dont 82 depuis le 7 juin 2016 (à ce titre le département du Loiret a été particulièrement touché). Enfin 2 027 dossiers sécheresse et 124 dossiers séismes ont également été analysés par la commission interministérielle en 2016.
