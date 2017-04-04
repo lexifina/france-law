@@ -1,0 +1,9 @@
+# Réponse à la question n° 70606
+
+- Question : [70606](70606.md) — Question n° 70606 — réglementation
+
+## Réponse
+
+*JO du 2017-04-04*
+
+En application des règles d'urbanisme relatives aux zones agricoles, ce type d'activités n'est permis que dans le cadre d'un secteur de taille et de capacité d'accueil limitée (STECAL) expressément délimité par le plan local d'urbanisme (PLU) et à condition que le règlement de ce STECAL le permette. Par ailleurs, et toujours dans les limites de ce que permet le règlement du STECAL, lorsque la construction est destinée à être périodiquement démontée et réinstallée, celle-ci relève du champ des constructions dites saisonnières. Le permis saisonnier étant soumis au même régime que le permis de construire, la demande devra comprendre l'ensemble des documents exigés par le code de l'urbanisme pour son instruction. L'autorisation délivrée comportera la date à laquelle la construction devra être démontée, celle-ci ne pouvant aller au-delà de cinq ans. Un nouveau permis ne sera pas exigé lors de chaque réinstallation. Enfin, il est également possible de recourir au permis de construire précaire prévu par l'article L. 433-1 du code de l'urbanisme, si un permis est nécessaire et si l'installation ne rentre pas dans le champ de l'article L. 421-5b. En effet, ce type de permis n'est pas soumis aux règles d'urbanisme. Des constructions soumises en temps normal à déclaration préalable peuvent également être autorisées à titre précaire par permis. Toutefois, le permis de construire précaire ne pouvant être utilisé qu'à titre exceptionnel, ces chapiteaux ne pourront être mis en place qu'une fois et non sur toutes les périodes estivales. En zone agricole, il est obligatoire pour l'arrêté délivrant le permis de construire précaire de fixer un délai à l'expiration duquel le pétitionnaire doit enlever la construction autorisée.
