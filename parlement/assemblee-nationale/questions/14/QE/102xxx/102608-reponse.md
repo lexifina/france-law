@@ -1,0 +1,9 @@
+# Réponse à la question n° 102608
+
+- Question : [102608](102608.md) — Question n° 102608 — ingénieurs de l'État; perspectives
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Les projets de décrets relatifs aux ingénieurs de l'Etat mettent en œuvre l'engagement pris par le gouvernement d'appliquer aux corps d'ingénieurs de l'Etat dit « A type technique » le protocole « parcours professionnels, carrières et rémunérations » (PPCR) à l'ensemble des corps et cadres d'emplois des trois versants de la fonction publique, sans altérer les spécificités et les particularités de ces corps. La rémunération des six corps d'ingénieurs sera revalorisée chaque année à partir du 1er janvier 2017, sur une période de 3 ans, avec dans un premier temps la transformation de primes en points d'indice qui se traduira par une assiette du calcul des droits à pension plus importante. La revalorisation des grilles des corps d'ingénieurs maintient, par ailleurs, le dynamisme indiciaire dont leurs membres bénéficient actuellement en début de carrière. Ainsi, l'attractivité de ces corps est conservée. Enfin, leur rémunération est également améliorée par la création, à compter de 2020, d'un échelon atteignant l'indice brut 1015 dans le deuxième grade ainsi que par la création, dès 2017, d'un grade à accès fonctionnel culminant en hors échelle lettre A. Les parcours de carrière et la mobilité des agents seront facilités grâce à l'harmonisation des dispositions statutaires régissant ces corps, et au-delà, de l'ensemble des corps d'ingénieurs des trois versants de la fonction publique. Ces projets, qui ont fait l'objet d'un vote favorable lors du Conseil supérieur de la fonction publique de l'Etat qui s'est tenu le 26 septembre 2016, ont été concertés avec l'ensemble des organisations syndicales représentatives de la fonction publique de l'Etat.
