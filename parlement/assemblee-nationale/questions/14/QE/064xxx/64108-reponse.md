@@ -1,0 +1,9 @@
+# Réponse à la question n° 64108
+
+- Question : [64108](64108.md) — Question n° 64108 — libertés fondamentales; rapport; propositions
+
+## Réponse
+
+*JO du 2017-04-04*
+
+Dans son étude consacrée au numérique et aux droits fondamentaux, le Conseil d'État propose notamment de subordonner la reconnaissance par l'Union européenne du caractère adéquat de la protection dans des États tiers à une condition de réciprocité (proposition no 46). L'article 25, paragraphe 6, de la directive 95/46/CE, actuellement en vigueur, permet à la Commission européenne de constater selon une "décision d'adéquation", qu'un pays tiers assure un niveau de protection adéquat en raison de sa législation interne ou de ses engagements internationaux en vue de la protection de la vie privée et des libertés et droits fondamentaux des personnes. Si tel est le cas, des transferts de données à caractère personnel peuvent avoir lieu vers ce pays tiers. Or l'article 45 du règlement (UE) 2016/679 du 27 avril 2016, relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, qui sera applicable au 25 mai 2018, maintient ce dispositif dit des « décisions d'adéquation ». Ainsi que l'indique le rapport du Conseil d'État, la réciprocité n'est pas exigée en matière de transferts de données vers un État tiers. La Commission européenne doit seulement s'assurer du caractère adéquat de la protection des données à caractère personnel dans l'État tiers vers lequel sont transférées les données. En pratique, les États tiers ayant sollicité une décision d'adéquation jusqu'ici ne conditionnent pas nécessairement le transfert de données à caractère personnel vers l'Union européenne à une décision d'adéquation réciproque. En tout état de cause, ainsi que l'indique l'étude du Conseil d'État, il s'agit d'une proposition qui ne pourrait, le cas échéant, qu'être mise en œuvre par une action de la Commission européenne.
