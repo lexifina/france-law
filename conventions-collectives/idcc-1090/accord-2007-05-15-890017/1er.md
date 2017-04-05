@@ -1,13 +1,7 @@
 # Article 1er
 
-Toute demande de modification du RNQSA (création, modification ou suppression d'une ou plusieurs fiches de qualification) doit être déposée par l'organisation professionnelle ou syndicale de salariés intéressée auprès du secrétariat de la commission paritaire nationale (CPN), au cours du 4e trimestre.
+Toute demande de modification du RNQSA (création, modification ou suppression d'une ou plusieurs fiches de qualification) doit être déposée par l'organisation professionnelle ou syndicale de salariés intéressée auprès du secrétariat de la commission paritaire nationale (CPN).
 
-Cette demande comporte obligatoirement :
+Cette demande comporte dans tous les cas un argumentaire et, lorsqu'elle concerne des fiches de qualification déjà existantes, un exposé des modifications souhaitées.
 
-― un argumentaire justifiant la demande ;
-
-― lorsqu'il s'agit d'une demande de modification, la fiche de qualification concernée comportant les modifications souhaitées ;
-
-― lorsqu'il s'agit d'une demande de création, les indications relatives aux points 1 (dénomination), 3 (objet), 4 (contenu) et 6 (classement) de la qualification envisagée.
-
-Il est accusé réception de chaque dossier déposé au secrétariat de la CPN, l'avis indiquant si ce dossier est complet en vue de sa réception telle que visée à l'article 2.
+Un point de l'ordre du jour de la dernière CPN de chaque semestre est réservé à l'exposé des demandes recueillies au cours du semestre.
