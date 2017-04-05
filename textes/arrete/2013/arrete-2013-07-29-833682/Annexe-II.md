@@ -92,7 +92,7 @@ France |
 
 Préfet |
 
-Frelon asiatique (*)
+Frelon asiatique
 
 |
 
@@ -208,11 +208,25 @@ Herpes-virus bovin BoHV-1
 
 |
 
-Bovins |
+Bovinés |
 
 France |
 
+Préfet
+
 |
+
+Salmonellose aviaire |
+
+Salmonella enterica subsp. enterica (tous sérotypes confondus) |
+
+Oiseaux des espèces Gallus gallus et Meleagris gallopavo
+
+|
+
+France |
+
+Préfet |
 
 Trichinellose
 
@@ -246,7 +260,7 @@ France |
 
 Préfet |
 
-Varroose (*)
+Varroose
 
 |
 
@@ -273,10 +287,6 @@ Virus du Visna-Maëdi
 Ovins |
 
 France |
-
-|
-
-(*) Dangers sanitaires antérieurement maladies à déclaration obligatoire ou classées en danger sanitaire de deuxième catégorie n'ayant pas encore fait l'objet d'un avis de l'ANSES.
 
 |
 

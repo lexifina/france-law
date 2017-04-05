@@ -2,650 +2,328 @@
 
 DANGERS SANITAIRES DE PREMIÈRE CATÉGORIE POUR LES ESPÈCES ANIMALES
 
-DÉNOMINATION
+DÉNOMINATION |
 
-|
+DANGER SANITAIRE VISÉ |
 
-DANGER SANITAIRE VISÉ
+ESPÈCES VISÉES |
 
-|
+Anémie infectieuse des équidés |
 
-ESPÈCES VISÉES
+Virus de l'anémie infectieuse des équidés (Retroviridae Lentivirus) |
 
-|
+Equidés |
 
-Anémie infectieuse des équidés
+Anémie infectieuse des Salmonidés |
 
-|
+Infection par le génotype délété dans la RHP du virus du genre Isavirus (ISAV) |
 
-Virus de l'anémie infectieuse des équidés (Retroviridae Lentivirus)
+Saumon atlantique (Salmo salar), truite arc-en-ciel (Oncorhynchus mykiss), truite fario (Salmo trutta) |
 
-|
+Botulisme |
 
-Equidés
+Clostridium botulinum |
 
-|
+Toutes espèces sensibles |
 
-Anémie infectieuse du saumon
+Brucellose |
 
-|
+Toute Brucella autre que Brucella ovis et Brucella suis sérovar 2 |
 
-Virus de l'anémie infectieuse du saumon (Orthomyxoviridae, Isavirus)
+Toutes espèces de mammifères |
 
-|
+Clavelée |
 
-Saumon atlantique (Salmo salar), truite arc-en-ciel (Oncorhynchus mykiss), truite fario (Salmo trutta)
+Virus de la clavelée (Poxviridae, Capripoxvirus) |
 
-|
+Ovins |
 
-Botulisme
+Dermatose nodulaire contagieuse |
 
-|
+Virus de la dermatose nodulaire contagieuse (Poxviridae, Capripoxvirus) |
 
-Clostridium botulinum
+Bovins |
 
-|
+Encéphalite à virus Nipah |
 
-Toutes espèces sensibles
+Virus Nipah Paramyxoviridés Henipavirus |
 
-|
+Porcins, félins, canins |
 
-Brucellose
+Encéphalite japonaise |
 
-|
+Virus de l'encéphalite japonaise (Flaviviridae, Flavivirus) |
 
-Toute Brucella autre que Brucella ovis et Brucella suis sérovar 2
+Equidés, porcins, volailles |
 
-|
+Encéphalites virales de type Est et Ouest |
 
-Toutes espèces de mammifères
+Virus de l'encéphalomyélite virale de l'Est et de l'Ouest (Togaviridae, Alphavirus) |
 
-|
+Equidés |
 
-Clavelée
+Encéphalite virale de type Venezuela |
 
-|
+Virus de l'encéphalomyélite virale du Venezuela (Togaviridae, Alphavirus) |
 
-Virus de la clavelée (Poxviridae, Capripoxvirus)
+Equidés |
 
-|
+Encéphalite West-Nile |
 
-Ovins
+Virus West-Nile (Flaviviridae, Flavivirus) |
 
-|
+Equidés et oiseaux |
 
-Dermatose nodulaire contagieuse
+Encéphalopathie spongiforme bovine (ESB) |
 
-|
+Prion ou agent de l'encéphalopathie spongiforme bovine |
 
-Virus de la dermatose nodulaire contagieuse (Poxviridae, Capripoxvirus)
+Bovins, ovins, caprins |
 
-|
+Encéphalopathies spongiformes transmissibles |
 
-Bovins
+Prions ou agents des encéphalopathies spongiformes transmissibles |
 
-|
+Toutes espèces sensibles |
 
-Encéphalite à virus Nipah
+Fièvre aphteuse |
 
-|
+Virus de la fièvre aphteuse (Picornaviridae, Aphtovirus) |
 
-Virus Nipah Paramyxoviridés Henipavirus
+Toutes espèces animales sensibles |
 
-|
+Fièvre Catarrhale ovine |
 
-Porcins, félins, canins
+Virus de la fièvre catarrhale du mouton (Reoviridae, Orbivirus) Tous sérotypes |
 
-|
+Ruminants et camélidés |
 
-Encéphalite japonaise
+Fièvre charbonneuse |
 
-|
+Bacillus anthracis |
 
-Virus de l'encéphalite japonaise (Flaviviridae, Flavivirus)
+Toutes espèces de mammifères |
 
-|
+Fièvre de la vallée du Rift |
 
-Equidés, porcins, volailles
+Virus de la fièvre de la vallée du Rift (Bunyaviridae, Phlebovirus) |
 
-|
+Ruminants et camélidés |
 
-Encéphalites virales de type Est et Ouest
+Herpèsvirose de la carpe |
 
-|
+Virus de l'herpèsvirose de la carpe (Herpesviridae, Herpesvirus) |
 
-Virus de l'encéphalomyélite virale de l'Est et de l'Ouest (Togaviridae, Alphavirus)
+Carpes (Cyprinus carpio) |
 
-|
+Infection à Bonamia exitiosa |
 
-Equidés
+Bonamia exitiosa |
 
-|
+Huîtres plates (australienne et du Chili) |
 
-Encéphalite virale de type Venezuela
+Infection à Bonamia ostreae |
 
-|
+Bonamia ostreae |
 
-Virus de l'encéphalomyélite virale du Venezuela (Togaviridae, Alphavirus)
+Huîtres plates (européenne, australienne, du Chili, du Pacifique, asiatique et d'Argentine) |
 
-|
+Infection à Marteilia refringens |
 
-Equidés
+Marteilia refringens |
 
-|
+Huîtres plates (australienne, du Chili, européenne, d'Argentine) et moule (commune et méditerranéenne) |
 
-Encéphalite West-Nile
+Infection à Perkinsus marinus |
 
-|
+Perkinsus marinus |
 
-Virus West-Nile (Flaviviridae, Flavivirus)
+Huîtres japonaises et de l'Atlantique |
 
-|
+Infection à Microcytos mackini |
 
-Equidés et oiseaux
+Microcytos mackini |
 
-|
+Huîtres plates (européenne et du Pacifique), huîtres japonaises et de l'Atlantique |
 
-Encéphalopathie spongiforme bovine (ESB)
+Infestation due à Aethina tumida |
 
-|
+Aethina tumida |
 
-Prion ou agent de l'encéphalopathie spongiforme bovine
+Abeilles domestiques (Apis mellifera) |
 
-|
+Infestation due à Tropilaelaps |
 
-Bovins, ovins, caprins
+Tropilaelaps Spp. |
 
-|
+Abeilles domestiques (Apis mellifera) |
 
-Encéphalopathies spongiformes transmissibles
+Influenza aviaire faiblement pathogène |
 
-|
+Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A.) de sous-type H5, H7 faiblement pathogène |
 
-Prions ou agents des encéphalopathies spongiformes transmissibles
+Toutes espèces d'oiseaux de la catégorie volailles et oiseaux captifs |
 
-|
+Influenza aviaire hautement pathogène |
 
-Toutes espèces sensibles
+Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A) hautement pathogène |
 
-|
+Toutes espèces d'oiseaux |
 
-Fièvre aphteuse
+Loque américaine |
 
-|
+Paenibacillus larvae |
 
-Virus de la fièvre aphteuse (Picornaviridae, Aphtovirus)
+Abeilles domestiques (Apis mellifera) |
 
-|
+Maladie d'Aujeszky |
 
-Toutes espèces animales sensibles
+Herpès virus du porc (Herpesviridae, Varicellovirus) |
 
-|
+Toutes espèces de mammifères |
 
-Fièvre Catarrhale ovine
+Maladie de la tête jaune |
 
-|
+Virus de la maladie de la tête jaune (Roniviridae, Okavirus) |
 
-Virus de la fièvre catarrhale du mouton (Reoviridae, Orbivirus) Tous sérotypes
+Crevette brune (Penaeus aztecus), crevette rose (Penaeus duorarum), crevette kuruma (Penaeus japonicus), crevette tigrée brune (Penaeus monodon), crevette ligubam du Nord (Penaeus setiferus), crevette bleue (Penaeus stylirostris), crevette à pattes blanches du Pacifique (Penaeus vannamei) |
 
-|
+Maladie de Newcastle |
 
-Ruminants et camélidés
+Virus de la maladie de Newcastle (Paramyxoviridae, Avulavirus) |
 
-|
+Toutes espèces d'oiseaux de la catégorie volailles |
 
-Fièvre charbonneuse
+Maladie des points blancs |
 
-|
+Virus de la maladie des points blancs (Nimaviridae, Whispovirus) |
 
-Bacillus anthracis
+Crustacés décapodes |
 
-|
+Maladie de Teschen |
 
-Toutes espèces de mammifères
+Enterovirus porcin (Picornaviridae, Teschovirus) |
 
-|
+Porcins |
 
-Fièvre de la vallée du Rift
+Maladie hémorragique épizootique des cervidés |
 
-|
+Virus de la maladie épizootique des cervidés (Reoviridae, Orbivirus) |
 
-Virus de la fièvre de la vallée du Rift (Bunyaviridae, Phlebovirus)
+Ruminants |
 
-|
+Maladie vésiculeuse du porc |
 
-Ruminants et camélidés
+Virus de la maladie vésiculeuse du porc (Picornaviridae, Enterovirus) |
 
-|
+Suidés |
 
-Herpèsvirose de la carpe (*)
+Nécrose hématopoïétique infectieuse |
 
-|
+Virus de la nécrose hématopoïétique infectieuse (Rhabdoviridae, Novirhabdovirus) |
 
-Virus de l'herpèsvirose de la carpe (Herpesviridae, Herpesvirus)
+Saumons : atlantique (S. salar), keta (O. keta), argenté (O. kisutch), japonais (O. masou), sockeye (O. nerka), chinook (O. tshawytscha), truite biwamasou (O. rhodurus) et truite arc-en-ciel (O. mykiss) |
 
-|
+Nécrose hématopoïétique épizootique |
 
-Carpes (Cyprinus carpio)
+Virus de la nécrose hématopoïétique épizootique (Iridoviridae, Ranavirus) |
 
-|
+Truites arc-en-ciel (O. mykiss) et perche commune (Perca fluviatilis) |
 
-Infection à Bonamia exitiosa (*)
+Nosémose des abeilles |
 
-|
+Nosema apis |
 
-Bonamia exitiosa
+Abeilles domestiques (Apis mellifera) |
 
-|
+Péripneumonie contagieuse bovine |
 
-Huîtres plates (australienne et du Chili)
+Mycoplasma mycoides subspecies mycodies |
 
-|
+Bovinés |
 
-Infection à Bonamia ostreae (*)
+Peste bovine |
 
-|
+Virus de la peste bovine (Paramyxoviridae, Morbillivirus) |
 
-Bonamia ostreae
+Ruminants et suidés |
 
-|
+Peste des petits ruminants |
 
-Huîtres plates (européenne, australienne, du Chili, du Pacifique, asiatique et d'Argentine)
+Virus de la peste des petits ruminants (Paramyxoviridae, Morbillivirus) |
 
-|
+Ovins et caprins |
 
-Infection à Marteilia refringens (*)
+Peste équine |
 
-|
+Virus de la peste équine (Reoviridae, Orbivirus) |
 
-Marteilia refringens
+Equidés |
 
-|
+Peste porcine africaine |
 
-Huîtres plates (australienne, du Chili, européenne, d'Argentine) et moule (commune et méditerranéenne)
+Virus de la peste porcine africaine (Asfarviridae, Asfivirus) |
 
-|
+Suidés |
 
-Infection à Perkinsus marinus (*)
+Peste porcine classique |
 
-|
+Virus de la peste porcine classique (Flaviviridae, Pestivirus) |
 
-Perkinsus marinus
+Suidés |
 
-|
+Rage |
 
-Huîtres japonaises et de l'Atlantique
+Virus de la rage (Rhabdoviridae, Lyssavirus) |
 
-|
+Toutes espèces de mammifères |
 
-Infection à Microcytos mackini (*)
+Salmonellose aviaire |
 
-|
+Salmonella Enteritidis, Salmonella Typhimurium,
 
-Microcytos mackini
+Salmonella Hadar, Salmonella Infantis,
 
-|
-
-Huîtres plates (européenne et du Pacifique), huîtres japonaises et de l'Atlantique
-
-|
-
-Infestation due à Aethina tumida (*)
-
-|
-
-Aethina tumida
-
-|
-
-Abeilles domestiques (Apis mellifera)
-
-|
-
-Infestation due à Tropilaelaps (*)
-
-|
-
-Tropilaelaps clareae
-
-|
-
-Abeilles domestiques (Apis mellifera)
-
-|
-
-Influenza aviaire faiblement pathogène
-
-|
-
-Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A.) de sous-type H5, H7 faiblement pathogène
-
-|
-
-Toutes espèces d'oiseaux de la catégorie volailles et oiseaux captifs
-
-|
-
-Influenza aviaire hautement pathogène
-
-|
-
-Virus de l'influenza aviaire (Orthomyxoviridae, Influenza A) hautement pathogène
-
-|
-
-Toutes espèces d'oiseaux
-
-|
-
-Loque américaine (*)
-
-|
-
-Paenibacillus larvae
-
-|
-
-Abeilles domestiques (Apis mellifera)
-
-|
-
-Maladie d'Aujeszky
-
-|
-
-Herpès virus du porc (Herpesviridae, Varicellovirus)
-
-|
-
-Toutes espèces de mammifères
-
-|
-
-Maladie de la tête jaune (*)
-
-|
-
-Virus de la maladie de la tête jaune (Roniviridae, Okavirus)
-
-|
-
-Crevette brune (Penaeus aztecus), crevette rose (Penaeus duorarum), crevette kuruma (Penaeus japonicus), crevette tigrée brune (Penaeus monodon), crevette ligubam du Nord (Penaeus setiferus), crevette bleue (Penaeus stylirostris), crevette à pattes blanches du Pacifique (Penaeus vannamei)
-
-|
-
-Maladie de Newcastle
-
-|
-
-Virus de la maladie de Newcastle (Paramyxoviridae, Avulavirus)
-
-|
-
-Toutes espèces d'oiseaux de la catégorie volailles
-
-|
-
-Maladie des points blancs (*)
-
-|
-
-Virus de la maladie des points blancs (Nimaviridae, Whispovirus)
-
-|
-
-Crustacés décapodes
-
-|
-
-Maladie de Teschen
-
-|
-
-Enterovirus porcin (Picornaviridae, Teschovirus)
-
-|
-
-Porcins
-
-|
-
-Maladie hémorragique épizootique des cervidés
-
-|
-
-Virus de la maladie épizootique des cervidés (Reoviridae, Orbivirus)
-
-|
-
-Ruminants
-
-|
-
-Maladie vésiculeuse du porc
-
-|
-
-Virus de la maladie vésiculeuse du porc (Picornaviridae, Enterovirus)
-
-|
-
-Suidés
-
-|
-
-Nécrose hématopoïétique infectieuse (*)
-
-|
-
-Virus de la nécrose hématopoïétique infectieuse (Rhabdoviridae, Novirhabdovirus)
-
-|
-
-Saumons : atlantique (S. salar), keta (O. keta), argenté (O. kisutch), japonais (O. masou), sockeye (O. nerka), chinook (O. tshawytscha), truite biwamasou (O. rhodurus) et truite arc-en-ciel (O. mykiss)
-
-|
-
-Nécrose hématopoïétique épizootique (*)
-
-|
-
-Virus de la nécrose hématopoïétique épizootique (Iridoviridae, Ranavirus)
-
-|
-
-Truites arc-en-ciel (O. mykiss) et perche commune (Perca fluviatilis)
-
-|
-
-Nosémose des abeilles (*)
-
-|
-
-Nosema apis
-
-|
-
-Abeilles domestiques (Apis mellifera)
-
-|
-
-Péripneumonie contagieuse bovine
-
-|
-
-Mycoplasma mycoides subspecies mycodies
-
-|
-
-Bovinés
-
-|
-
-Peste bovine
-
-|
-
-Virus de la peste bovine (Paramyxoviridae, Morbillivirus)
-
-|
-
-Ruminants et suidés
-
-|
-
-Peste des petits ruminants
-
-|
-
-Virus de la peste des petits ruminants (Paramyxoviridae, Morbillivirus)
-
-|
-
-Ovins et caprins
-
-|
-
-Peste équine
-
-|
-
-Virus de la peste équine (Reoviridae, Orbivirus)
-
-|
-
-Equidés
-
-|
-
-Peste porcine africaine
-
-|
-
-Virus de la peste porcine africaine (Asfarviridae, Asfivirus)
-
-|
-
-Suidés
-
-|
-
-Peste porcine classique
-
-|
-
-Virus de la peste porcine classique (Flaviviridae, Pestivirus)
-
-|
-
-Suidés
-
-|
-
-Rage
-
-|
-
-Virus de la rage (Rhabdoviridae, Lyssavirus)
-
-|
-
-Toutes espèces de mammifères
-
-|
-
-Salmonellose aviaire
-
-|
-
-Salmonella Enteritidis, Salmonella Hadar,
-
-Salmonella Infantis,
-
-Salmonella Typhimurium,
-
-Salmonella Virchow
-
-|
+Salmonella Virchow |
 
 Oiseaux des espèces Gallus gallus et Meleagris gallopavo
 
-|
+Oiseaux des espèces Gallus gallus uniquement pour les troupeaux reproducteurs et futurs reproducteurs |
 
-Septicémie hémorragique virale (*)
+Septicémie hémorragique virale |
 
-|
-
-Virus de la septicémie hémorragique virale (Rhabdoviridae, Novirhabdovirus)
-
-|
+Virus de la septicémie hémorragique virale (Rhabdoviridae, Novirhabdovirus) |
 
 Saumons du Pacifique, truites arc-en-ciel et fario, brochets, corégones, ombres communs, turbots, morues de l'Atlantique et du Pacifique, harengs, aiglefins et sprats.
 
-Motelle (Onos motellus) Cardeau hirame (Paralichthys olivaceus)
+Motelle (Onos motellus) Cardeau hirame (Paralichthys olivaceus) |
 
-|
+Stomatite vésiculeuse |
 
-Stomatite vésiculeuse
+Virus de la stomatite vésiculeuse (Rhabdoviridae, Vesiculovirus) |
 
-|
+Bovins, équidés et suidés |
 
-Virus de la stomatite vésiculeuse (Rhabdoviridae, Vesiculovirus)
+Syndrome de Taura |
 
-|
+Virus du syndrome de Taura (Dicistroviridae) |
 
-Bovins, équidés et suidés
+Crevette ligubam du Nord (Penaeus setiferus), crevette bleue (Peneus stylirotris) crevette à pattes blanches du Pacifique (Peneus vannamei) |
 
-|
+Syndrome ulcéreux épizootique |
 
-Syndrome de Taura (*)
+Aphanomyces invadans |
 
-|
+Poissons exotiques des genres : Catla, Channa, Labeo, Mastacembelus, Mugil, Puntius et Trichogaster |
 
-Virus du syndrome de Taura (Dicistroviridae)
+Tuberculose |
 
-|
+Mycobacterium bovis, Mycobacterium caprae Mycobacterium tuberculosis |
 
-Crevette ligubam du Nord (Penaeus setiferus), crevette bleue (Peneus stylirotris) crevette à pattes blanches du Pacifique (Peneus vannamei)
+Toutes espèces de mammifères |
 
-|
+Variole caprine |
 
-Syndrome ulcéreux épizootique (*)
+Virus de la variole caprine (Poxviridae, Capripoxvirus) |
 
-|
-
-Aphanomyces invadans
-
-|
-
-Poissons exotiques des genres : Catla, Channa, Labeo, Mastacembelus, Mugil, Puntius et Trichogaster
-
-|
-
-Tuberculose
-
-|
-
-Mycobacterium bovis, Mycobacterium caprae Mycobacterium tuberculosis
-
-|
-
-Toutes espèces de mammifères
-
-|
-
-Variole caprine
-
-|
-
-Virus de la variole caprine (Poxviridae, Capripoxvirus)
-
-|
-
-Caprins
-
-|
-
-(*) Dangers sanitaires antérieurement maladies réputées contagieuses n'ayant pas encore fait l'objet d'un avis de l'ANSES.
-
-|
+Caprins |
