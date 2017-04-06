@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160722939
+
+- Question : [SEQ160722939](seq160722939.md) — Réglementation applicable aux planeurs ultra-légers motorisés dits trois axes
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2017-04-06, page 1377*
+
+Les ultra léger motorisé (ULM) bénéficient effectivement d'une réglementation moins contraignante que celle applicable aux aéronefs certifiés. Celle-ci est basée sur la responsabilisation des utilisateurs plus que sur la contrainte. Cette réglementation concerne des aéronefs légers, de conception simple, mono ou biplace. Elle respecte le principe de proportionnalité des règles au risque constaté. Sur les dix dernières années, les statistiques d'accidentologie montrent en effet la validité de ce principe. Comme évoqué, l'indicatif radio est parfois inscrit sur l'aéronef, toutefois ce n'est pas un moyen d'identifier un ULM. À l'inverse, si effectivement les ULM ne sont pas immatriculés, ils sont porteurs d'une marque d'identification. Les marques d'identification comprennent le numéro du département du lieu d'attache choisi par le postulant suivi de deux ou trois lettres. Ces marques d'identification sont attribuées à titre définitif à l'ULM. Elles sont, sans ornement et d'une hauteur minimale de cinquante centimètres, facilement lisibles. Ces identifications sont inscrites dans une base de données nationale tenue à jour permettant le suivi individuel de tous les ULM. Néanmoins, l'année 2015 a connu un nombre d'accidents très élevé. Le Gouvernement demeure particulièrement attentif à cet enjeu et travaille à maintenir l'équilibre entre développement de l'activité ULM et sécurité. Ainsi, les services de l'État s'attachent à toujours s'impliquer plus fortement auprès de l'ensemble des acteurs et notamment de la Fédération française de planeur ultra-léger motorisé (FFPLUM), à lancer des actions de sensibilisation auprès des pilotes et à promouvoir la mise en œuvre de système de gestion de la sécurité.
