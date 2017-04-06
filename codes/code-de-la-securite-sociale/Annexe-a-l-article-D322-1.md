@@ -6,11 +6,7 @@ CRITÈRES MÉDICAUX UTILISÉS POUR LA DÉFINITION DES AFFECTIONS DE LONGUE DURÉ
 
 Relève de l'exonération du ticket modérateur l'accident vasculaire cérébral (AVC) en présence de troubles neurologiques persistants au-delà de vingt-quatre heures nécessitant une prise en charge médicale lourde, des soins de maintenance puis de rééducation active.
 
-L'exonération initiale est accordée pour une période de deux ans, renouvelable pour une durée variable selon l'évolution de l'affection :
-
-Cinq ans, renouvelable, dans les cas où persiste un important déficit neurologique entraînant une invalidité évidente ;
-
-Deux ans, renouvelable, dans les cas où persistent des séquelles moins importantes mais justifiant une rééducation prolongée.
+L'exonération initiale est accordée pour une période de trois ans, renouvelable par période de dix ans, en cas de déficit neurologique entraînant une incapacité justifiant une rééducation prolongée.
 
 2. Critères médicaux utilisés pour la définition de l'affection de longue durée insuffisances médullaires et autres cytopénies chroniques
 
@@ -22,7 +18,7 @@ Relèvent de l'exonération du ticket modérateur :
 
 Ce sont des insuffisances quantitatives de la production médullaire touchant les trois lignées, avec moelle osseuse hypocellulaire, en relation avec une réduction du nombre de cellules-souches hématopoïétiques primitives. Une AM globale peut être acquise ou, beaucoup plus rarement, constitutionnelle.
 
-Ces affections relèvent de l'exonération du ticket modérateur pour une durée de cinq ans, renouvelable.
+Ces affections relèvent de l'exonération du ticket modérateur pour une durée de dix ans, renouvelable.
 
 2.1.1. a) Aplasies médullaires globales acquises :
 
@@ -38,7 +34,7 @@ La moins rare est la maladie de Fanconi de transmission héréditaire autosomiqu
 
 Le défaut de production ne concerne qu'une lignée. Sont concernées les érythroblastopénies chroniques constitutionnelles ou acquises, les agranulocytoses chroniques constitutionnelles et les amégacaryocytoses chroniques constitutionnelles.
 
-Ces affections relèvent de l'exonération du ticket modérateur pour une durée de cinq ans, renouvelable.
+Ces affections relèvent de l'exonération du ticket modérateur pour une durée de dix ans, renouvelable.
 
 Toute récidive ou apparition d'une séquelle tardive grave dont le lien de causalité avec le traitement est établi conduit à la reprise de l'exonération du ticket modérateur.
 
@@ -46,7 +42,7 @@ Toute récidive ou apparition d'une séquelle tardive grave dont le lien de caus
 
 Entrent dans le cadre des SMD : les cytopénies réfractaires simples, les anémies réfractaires sidéroblastiques, les anémies réfractaires avec excès de blastes et la leucémie myélomonocytaire chronique.
 
-Ces affections relèvent de l'exonération du ticket modérateur pour une durée de cinq ans, renouvelable.
+Ces affections relèvent de l'exonération du ticket modérateur pour une durée de dix ans, renouvelable.
 
 2.3. Autres cytopénies chroniques ou à rechutes :
 
@@ -54,7 +50,7 @@ Les plus fréquentes résultent d'une destruction de mécanisme immunologique. C
 
 Sont notamment concernées les anémies hémolytiques auto-immunes chroniques, les purpuras thrombopéniques auto-immuns chroniques, les neutropénies chroniques sévères. Ces dernières comportent le syndrome de Felty et des variétés idiopathiques. Il convient d'exclure de ce cadre les pseudo-neutropénies par excès de margination des polynucléaires habituellement moins prononcées et dénuées de risque infectieux.
 
-Ces affections relèvent de l'exonération du ticket modérateur pour une durée de cinq ans, renouvelable.
+Ces affections relèvent de l'exonération du ticket modérateur pour une durée de dix ans, renouvelable.
 
 3. Critères médicaux utilisés pour la définition de l'affection de longue durée artériopathies chroniques avec manifestations ischémiques
 
@@ -66,7 +62,7 @@ Relèvent de l'exonération du ticket modérateur :
 
 Les atteintes pariétales (lésions ulcéro-végétantes, anévrismes ou dissections) de l'aorte thoracique ou abdominale objectivement documentées, sont également exonérées au titre de cette affection.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable par période de dix ans.
 
 4. Critères médicaux utilisés pour la définition de l'affection de longue durée bilharziose compliquée
 
@@ -76,7 +72,7 @@ L'exonération du ticket modérateur concerne les bilharzioses compliquées :
 
 - complications évolutives spécifiques à chaque espèce de schistosome : hypertension portale, pathologies obstructives de l'arbre urinaire et insuffisance rénale, stérilité, complications encéphalique et médullaire, hypertension artérielle pulmonaire (HTAP), carcinome vésical, bilharziomes compressifs ou hémorragiques.
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable.
+L'exonération initiale est accordée pour une durée de trois ans, renouvelable.
 
 5. Critères médicaux utilisés pour la définition de l'affection de longue durée insuffisance cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves ; cardiopathies congénitales graves
 
@@ -84,7 +80,7 @@ Relèvent de l'exonération du ticket modérateur :
 
 5.1.L'insuffisance cardiaque systolique (ICS) symptomatique chronique associant des symptômes de l'IC (au repos ou à l'effort) présents ou retrouvés dans les antécédents et une preuve objective d'une dysfonction cardiaque systolique au repos, avec une fraction d'éjection (FE) FE ¸ 40 %.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 5.2.L'insuffisance cardiaque à fonction systolique préservée (ICFSP) symptomatique chronique associant :
 
@@ -96,7 +92,7 @@ L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 L'insuffisance cardiaque est irréversible en l'absence de cause curable.
 
-L'exonération initiale est accordée pour une période de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une période de dix ans, renouvelable.
 
 5.3. Les troubles du rythme supraventriculaires graves :
 
@@ -108,7 +104,7 @@ Sont concernées :
 
 - la FA permanente (cardioversion inefficace ou non envisagée).
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable, étant précisé que la poursuite d'un traitement anticoagulant ne constitue pas, en elle-même, une condition suffisante de renouvellement systématique de l'exonération.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable, étant précisé que la poursuite d'un traitement anticoagulant ne constitue pas, en elle-même, une condition suffisante de renouvellement systématique de l'exonération.
 
 5.4. Les troubles du rythme ventriculaire graves :
 
@@ -126,7 +122,7 @@ Sont concernés :
 
 - les troubles du rythme ventriculaire potentiellement graves : toute extrasystolie ventriculaire n'ayant pas les caractéristiques de la bénignité c'est-à-dire avec extrasystoles ventriculaires monomorphes non répétitives, survenant à distance du sommet de l'onde T, sur cœur sain.
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable si la poursuite d'un traitement (médicaments et/ ou implantation d'un défibrillateur) s'avère nécessaire.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable si la poursuite d'un traitement (médicaments et/ ou implantation d'un défibrillateur) s'avère nécessaire.
 
 5.5. Les cardiopathies valvulaires et congénitales graves :
 
@@ -136,7 +132,7 @@ Sont concernées :
 
 - les patients atteints de cardiopathies valvulaires opérés (prothèses valvulaires cardiaques, tubes) ou de cardiopathies congénitales complexes ayant subi une intervention cardiaque et dont la réparation est incomplète.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 6. Critères médicaux utilisés pour la définition de l'affection de longue durée maladies chroniques actives du foie et cirrhoses
 
@@ -148,7 +144,7 @@ Relèvent d'une exonération du ticket modérateur :
 
 - la nécessité d'un traitement antiviral ou d'un suivi prolongé.
 
-L'exonération est accordée pour une durée initiale de deux ans, renouvelable si le patient reçoit le traitement antiviral.
+L'exonération est accordée pour une durée initiale de cinq ans, renouvelable par période de dix ans si le patient reçoit le traitement antiviral.
 
 L'apparition de séquelles graves dont le lien de causalité avec le traitement est établi conduit à la reprise de l'exonération du ticket modérateur.
 
@@ -158,7 +154,7 @@ L'apparition de séquelles graves dont le lien de causalité avec le traitement 
 
 - la nécessité d'un traitement antiviral ou d'un suivi prolongé.
 
-L'exonération est accordée pour une durée initiale de deux ans, renouvelable si le patient reçoit le traitement antiviral.
+L'exonération est accordée pour une durée initiale de cinq ans, renouvelable par période de dix ans si le patient reçoit le traitement antiviral.
 
 L'apparition de séquelles graves dont le lien de causalité avec le traitement est établi conduit à la reprise de l'exonération du ticket modérateur.
 
@@ -166,7 +162,7 @@ L'apparition de séquelles graves dont le lien de causalité avec le traitement 
 
 L'exonération du ticket modérateur peut être accordée en l'absence de confirmation (par ponction biopsie hépatique (PBH) ou autre moyen non invasif) si les arguments épidémiologiques, cliniques et biologiques, voire les éléments obtenus fortuitement par imagerie ou endoscopie, sont concordants.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 7. Critères médicaux utilisés pour la définition de l'affection de longue durée déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immuno-déficience humaine
 
@@ -192,21 +188,21 @@ Sont notamment concernés :
 
 - les cas de déficits primitifs du complément comportant des manifestations graves à répétition (infections sévères, syndrome lupique, vascularite importante, œdème angioneurotique héréditaire).
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable lorsqu'un traitement important et coûteux ou des examens biologiques onéreux doivent être répétés avec une grande fréquence.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable lorsqu'un traitement important et coûteux ou des examens biologiques onéreux doivent être répétés avec une grande fréquence.
 
 7.2. Infection par le virus de l'immuno-déficience humaine :
 
 Sont concernés :
 
-- l'infection par le VIH affirmée par les résultats concordants de deux prélèvements distincts et par un test de confirmation (Western-Blot ou un immuno-Blot) sur l'un des prélèvements ; l'exonération initiale est accordée pour une durée de cinq ans, renouvelable ;
+- l'infection par le VIH affirmée par les résultats concordants de deux prélèvements distincts et par un test de confirmation (Western-Blot ou un immuno-Blot) sur l'un des prélèvements ; l'exonération initiale est accordée pour une durée de dix ans, renouvelable ;
 
-- le nouveau-né de mère séropositive dans les deux ans suivant sa naissance.
+- le nouveau-né de mère séropositive dans les trois ans suivant sa naissance.
 
 8. Critères médicaux utilisés pour la définition de l'affection de longue durée diabète de type 1 et diabète de type 2
 
 Relève de l'exonération du ticket modérateur le diabète, de type 1 et de type 2, défini par la constatation à deux reprises au moins d'une glycémie à jeun supérieure ou égale à 7 mmol/ l (1,26 g/ l) dans le plasma veineux.
 
-L'exonération initiale est accordée pour une durée de 5 ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 9. Critères médicaux utilisés pour la définition de l'affection de longue durée formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave
 
@@ -230,17 +226,17 @@ La liste des affections citées n'est pas limitative. De nombreux syndromes neur
 
 L'exonération doit être accordée dès l'indication du bilan initial à visée diagnostique comportant de multiples investigations, ou ultérieurement devant l'aggravation de l'état du malade ou en raison de nécessités thérapeutiques (orthopédie, rééducation, kinésithérapie etc.)
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 9.2.L'épilepsie grave :
 
 Sont concernées :
 
-- l'épilepsie qui s'intègre dans le contexte d'une pathologie à l'origine de déficits neurologiques ou neuropsychologiques permanents.L'exonération initiale est accordée pour une durée de cinq ans renouvelable ;
+- l'épilepsie qui s'intègre dans le contexte d'une pathologie à l'origine de déficits neurologiques ou neuropsychologiques permanents.
 
 - l'épilepsie non associée à des déficits permanents, en présence d'au moins un des critères de gravité suivants : fréquence des crises élevée ; nature des crises (pouvant être à l'origine de chutes ou entraîner une rupture du contact avec l'entourage, sévérité allant jusqu'à l'état de mal épileptique) ; pharmaco-résistance.
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 10. Critères médicaux utilisés pour la définition de l'affection de longue durée hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises sévères
 
@@ -254,7 +250,7 @@ Relèvent de l'exonération du ticket modérateur :
 
 - hémoglobinopathies rares de transmission dominante générant soit une anémie chronique (Hb instables) soit une polyglobulie congénitale (Hb hyperaffines).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 10.2. Les hémolyses génétiques et acquises chroniques ou évoluant par poussées parmi lesquelles on peut en particulier citer :
 
@@ -266,7 +262,7 @@ L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 - la micro-angiopathie thrombotique thrombocytopénique.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 Ne relèvent pas de l'exonération du ticket modérateur les formes mineures des hémoglobinopathies (thalassémique ou, drépanocytaire, HbC ou HbE...) qui sont en règle générale asymptomatiques et bien supportées. Leur prise en charge médicale est restreinte à l'établissement du diagnostic.
 
@@ -278,17 +274,17 @@ Relèvent de l'exonération du ticket modérateur les affections qui suivent :
 
 L'exonération du ticket modérateur est justifiée dès lors que des hospitalisations répétées ou des substitutions par des fractions coagulantes sont nécessaires en particulier lors de chaque procédure invasive même minime (extraction dentaire par exemple).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 11.2. Les autres maladies constitutionnelles graves de l'hémostase caractérisées par l'absence ou l'anomalie d'un constituant plasmatique ou plaquettaire indispensable à une hémostase normale : maladie de Willebrand ; déficits en facteurs plasmatiques I (afibrinogénémies), II, V, VII, X, XI, XIII, thrombopathies constitutionnelles :
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 11.3. Les rares et graves formes acquises d'hémophilie (auto-anticorps antifacteur VIII) et de syndrome de Willebrand acquis :
 
 Ces cas relèvent de l'exonération du ticket modérateur tant que leur prise en charge thérapeutique est nécessaire.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 12. (Paragraphe supprimé)
 
@@ -296,7 +292,7 @@ L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 Toute ischémie myocardique objectivement documentée (ECG, épreuve d'effort, scintigraphie de perfusion, échographie de stress, échographie d'effort, holter ECG, coronarographie) relève de l'exonération du ticket modérateur.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 14. Critères médicaux utilisés pour la définition de l'affection de longue durée insuffisance respiratoire chronique grave
 
@@ -310,7 +306,7 @@ Sont concernés :
 
 - les BPCO lorsque le volume expiratoire maximum seconde (VEMS), mesuré dans de bonnes conditions techniques, est inférieur à 50 % des valeurs théoriques normales.
 
-L'exonération initiale est accordée pour une durée de 5 ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 14.2. Maladie asthmatique :
 
@@ -332,7 +328,7 @@ Dans le cas de la maladie asthmatique, les seuls critères gazométriques ou spi
 
 - chez l'enfant : patient nécessitant de hautes doses de corticostéroides inhalés (µ 1 000 g/ j équivalent béclométhasone) associés à un bêta-2 agoniste de durée d'action prolongée (B2LA) chez l'enfant de plus de 4 ans ou à un antagoniste des récepteurs aux cystéinyl-leucotriènes ou à la théophilline (et ses dérivés).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 14.3. Insuffisance respiratoire chronique d'autre origine :
 
@@ -344,19 +340,19 @@ Sont concernés :
 
 - les malades dont la SaO2 chute au-dessous de 90 % pendant un test de marche de six minutes.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 15. Critères médicaux utilisés pour la définition de l'affection de longue durée maladie d'Alzheimer et autres démences
 
 Relèvent de l'exonération du ticket modérateur la maladie d'Alzheimer et les démences correspondant à la définition suivante : syndrome dû à une affection cérébrale habituellement chronique et progressive et caractérisé par une perturbation durable de nombreuses fonctions corticales supérieures, telles que la mémoire, l'idéation, l'orientation, la compréhension, le calcul, la capacité d'apprendre, le langage et le jugement. Les perturbations cognitives s'accompagnent habituellement (et sont parfois précédées) d'une détérioration du contrôle émotionnel, du comportement social ou de la motivation. Elles ont un retentissement sur la vie quotidienne ou sur la vie professionnelle. Le syndrome survient dans la maladie d'Alzheimer, dans les maladies vasculaires cérébrales et dans d'autres affections, qui touchent le cerveau primitivement ou secondairement (par exemple : VIH, traumatisme crânien, maladie de Huntington, dégénérescences lobaires fronto-temporales, démence à corps de Lewy, maladie de Creutzfeldt-Jakob, maladie de Parkinson, intoxications chroniques à des substances psychotropes, etc.).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 16. Critères médicaux utilisés pour la définition de l'affection de longue durée maladie de Parkinson
 
 Relève de l'exonération du ticket modérateur toute affection comportant un syndrome parkinsonien non réversible (maladie de Parkinson et syndromes parkinsoniens atypiques) nécessitant l'administration d'au moins un traitement anti parkinsonien pendant au moins six mois.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 17. Critères médicaux utilisés pour la définition de l'affection de longue durée maladies métaboliques héréditaires nécessitant un traitement prolongé spécialisé
 
@@ -382,7 +378,7 @@ L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
 
 Relève de l'exonération du ticket modérateur toute mucoviscidose dès que le diagnostic est objectivement documenté.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 19. Critères médicaux utilisés pour la définition de l'affection de longue durée néphropathie chronique grave et syndrome néphrotique primitif ou idiopathique
 
@@ -402,13 +398,13 @@ Sont concernées les atteintes glomérulaires, interstitielles, vasculaires, tub
 
 - une uropathie nécessitant des soins et une surveillance continus.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 19.2. Syndrome néphrotique primitif ou idiopathique :
 
 Sont concernées les formes de syndrome néphrotique primitif ou idiopathique (le syndrome néphrotique est défini par l'association d'une protéinurie abondante ¹ 3 g/ j chez l'adulte ou ¹ 50 mg/ kg/ jr chez l'enfant et d'une hypoalbuminémie ¸ 30 g/ l) nécessitant une surveillance médicale, des examens biologiques de contrôle et un traitement médicamenteux au long cours.
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable.
+L'exonération initiale est accordée pour une durée de trois ans, renouvelable.
 
 Toute récidive ou apparition d'une séquelle tardive grave dont le lien de causalité avec le traitement est établi conduit à la reprise de l'exonération du ticket modérateur.
 
@@ -416,7 +412,7 @@ Toute récidive ou apparition d'une séquelle tardive grave dont le lien de caus
 
 Relèvent de l'exonération du ticket modérateur les lésions médullaires avec déficit moteur de la partie inférieure du corps, quelle qu'en soit l'étiologie (notamment traumatique ou compressive, vasculaire, dégénérative), dès lors que le traitement nécessite des soins lourds et ou fréquents.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 Il est précisé que les atteintes non traumatiques du neurone périphérique sont comprises dans le champ de l'ALD formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave .
 
@@ -430,7 +426,7 @@ Sont concernées les vascularites comportant des manifestations ou symptômes ex
 
 En raison des difficultés diagnostiques de ces affections, la preuve histologique n'est pas exigée, certains malades étant traités sur un faisceau convergent d'arguments cliniques, biologiques ou radiologiques.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 21.2. Lupus érythémateux systémique (LES) :
 
@@ -438,13 +434,13 @@ Sont concernés :
 
 - le lupus érythémateux systémique (lupus érythémateux disséminé), quelle qu'en soit la forme, la gravité, et associé ou non au syndrome des anticorps anti-phospholipides (SAPL).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 Ne relèvent pas de l'exonération du ticket modérateur les cas de lupus discoïde chronique isolé.
 
 - les lupus induits (lupus iatrogènes).
 
-L'exonération du ticket modérateur est accordée pour une durée initiale de deux ans, renouvelable si ce délai n'a pas permis la disparition des anomalies cliniques et biologiques après le retrait du traitement inducteur.
+L'exonération du ticket modérateur est accordée pour une durée initiale de dix ans, renouvelable si ce délai n'a pas permis la disparition des anomalies cliniques et biologiques après le retrait du traitement inducteur.
 
 21.3. Sclérodermie systémique :
 
@@ -456,7 +452,7 @@ Sont concernées :
 
 - les sclérodermies systémiques limitées sans sclérose cutanée (sclérodermie systémique sine scleroderma).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 22. Critères médicaux utilisés pour la définition de l'affection de longue durée polyarthrite rhumatoïde évolutive
 
@@ -466,7 +462,7 @@ On entend par polyarthrite inflammatoire la polyarthrite rhumatoïde ou polyarth
 
 Il est précisé que si les traitements de fond, bien que justifiés, ne sont pas possibles, les formes de polyarthrite rhumatoïde évolutive se traduisant par un handicap lourd relèvent d'une exonération du ticket modérateur.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 23. Critères médicaux utilisés pour la définition de l'affection de longue durée affections psychiatriques de longue durée
 
@@ -526,13 +522,13 @@ Relèvent de l'exonération du ticket modérateur les affections dont l'ancienne
 
 Les affections relevant de l'exonération du ticket modérateur sont celles ayant des conséquences fonctionnelles majeures et en relation directe avec cette affection. Il s'agit de décrire le handicap créé par l'affection dans la vie quotidienne du patient puisque, en psychiatrie, la sévérité du diagnostic n'est pas toujours corrélée à la sévérité du handicap qui en découle.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de cinq ans, renouvelable pour les a, b et d et pour une durée de dix ans renouvelable pour le c.
 
 24. Critères médicaux utilisés pour la définition de l'affection de longue durée rectocolite hémorragique et maladie de Crohn évolutives
 
 Relève de l'exonération du ticket modérateur toute maladie inflammatoire chronique intestinale (MICI) dont le diagnostic est établi sur un ensemble de données cliniques, morphologiques et histologiques.
 
-L'exonération initiale est accordée pour une durée de deux ans, renouvelable.
+L'exonération initiale est accordée pour une durée de trois ans, renouvelable.
 
 Toutefois le renouvellement n'est pas accordé pour :
 
@@ -548,7 +544,7 @@ Relève de l'exonération du ticket modérateur la sclérose en plaques :
 
 - dès qu'il existe un handicap permanent (parfois seulement constitué d'une asthénie ou de troubles cognitifs) nécessitant un traitement symptomatique et justifiant une prise en charge au long cours.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 26. Critères médicaux utilisés pour la définition de l'affection de longue durée scoliose idiopathique structurale évolutive
 
@@ -568,15 +564,15 @@ Relèvent de l'exonération du ticket modérateur les spondylarthrites graves d'
 
 Il est précisé que si les traitements de fond, bien que justifiés, ne sont pas possibles, les formes de spondylarthrite grave se traduisant par un handicap lourd relèvent d'une exonération du ticket modérateur.
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
 28. Critères médicaux utilisés pour la définition de l'affection de longue durée suite de transplantation d'organe
 
 Relèvent d'une exonération du ticket modérateur les suites de transplantation (rénale, cardiaque, hépatique, pulmonaire, pancréatique, intestinale, etc. ; ou de greffe de moelle osseuse).
 
-L'exonération initiale est accordée pour une durée de cinq ans, renouvelable.
+L'exonération initiale est accordée pour une durée de dix ans, renouvelable.
 
-En revanche, les suites de la greffe de cornée ne relèvent pas de l'exonération du ticket modérateur, sauf dans les cas exceptionnels où un traitement corticoïde ou immunosuppresseur par voie générale est nécessaire.L'exonération est alors accordée pour une durée de deux ans, renouvelable.
+En revanche, les suites de la greffe de cornée ne relèvent pas de l'exonération du ticket modérateur, sauf dans les cas exceptionnels où un traitement corticoïde ou immunosuppresseur par voie générale est nécessaire.L'exonération est alors accordée pour une durée de trois ans, renouvelable.
 
 29. Critères médicaux utilisés pour la définition de l'affection de longue durée tuberculose maladie, lèpre
 
@@ -590,7 +586,7 @@ Relèvent d'une exonération du ticket modérateur :
 
 La durée de la thérapeutique antituberculeuse est le plus souvent de six mois (jusqu'à douze mois dans certaines formes de la maladie). La guérison est confirmée à dix-huit mois après le début du traitement par un examen clinique et radiographique.
 
-La durée d'exonération est de deux ans.
+La durée d'exonération est de trois ans.
 
 29.2. Lèpre :
 
