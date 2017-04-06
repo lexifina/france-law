@@ -1824,7 +1824,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 - renforcement musculaire ;
 
-- techniques douces :
+- techniques douces ;
 
 - activités d'expression.
 
@@ -1832,11 +1832,7 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 Sans recours à des appareils de musculation.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-|
+A l'exclusion des cours individuels. |
 
 CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition". |
 
@@ -1846,19 +1842,13 @@ Encadrement en autonomie par la découverte et l'animation des jeux sportifs et 
 
 - jeux de raquettes ;
 
-- jeux de ballons, petits et grands terrains.
-
-|
+- jeux de ballons, petits et grands terrains. |
 
 A l'exclusion des pratiques compétitives.
 
 A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-A l'exclusion des cours individuels.
-
-Sous réserve de la présentation de l'attestation de suivi du stage quinquennal de recyclage.
-
-|
+A l'exclusion des cours individuels. |
 
 CQP "assistant moniteur de tennis". |
 
