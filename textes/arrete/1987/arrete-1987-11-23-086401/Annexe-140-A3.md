@@ -8,13 +8,9 @@ LISTE DES ORGANISMES HABILITÉS ET DE LEURS COMPÉTENCES RESPECTIVES
 
 ORGANISMES HABILITÉS |
 
-ÉQUIPEMENTS
+ÉQUIPEMENTS |
 
-|
-
-Bureau Veritas Marine & Offshore SAS
-
-|
+Bureau Veritas Marine & Offshore SAS |
 
 -A. 1/1 Engins de sauvetage à l'exclusion des items A. 1/1.3, A. 1/1.8, A. 1/1.9, A. 1/1.10 ; A. 1/1.11 ;
 
@@ -46,9 +42,7 @@ Bureau Veritas Marine & Offshore SAS
 
 |
 
-A.2/1 Engins de sauvetage
-
-|
+A.2/1 Engins de sauvetage |
 
 A.2/2 Prévention de la pollution marine
 
@@ -112,9 +106,7 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 - le groupement des associations de propriétaires d'appareils à vapeur et électriques ;
 
-- L'Association des Contrôleurs Indépendants ;
-
-- le Lloyd's Register EMEA.
+- L'Association des Contrôleurs Indépendants.
 
 5. Organismes habilités pour délivrer les approbations de structure prévues à l'article 42-6 du décret susmentionné :
 
@@ -146,4 +138,6 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 - le DNV-GL AS ;
 
-- le RINA Services s.p.a.
+- le RINA Services s.p.a. ;
+
+- le Lloyd's Register EMEA.

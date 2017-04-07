@@ -14,7 +14,7 @@ NAVIRES EFFECTUANT DE LA NAVIGATION INTERNATIONALE, CERTIFICATS SPÉCIFIQUES ET 
 
 Nota. - Le visa de plusieurs documents du tableau n'est pas formellement requis par la réglementation internationale mais requis par la présente annexe.
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
+A) Dispositions applicables pour tout navire dont les titres et certificats sont délivrés par l’administration au titre du paragraphe III de l’article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
 
 DOCUMENTS
 
@@ -32,325 +32,217 @@ Rapport de pesée quinquennale navires à passagers
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Rapport de pesée décennale navires de pêche
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Dossier de stabilité
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel d'exploitation pour la sécurité incendie
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Plan de lutte incendie et plan de sauvetage
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel d'assujettissement
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel d'exploitation IGC
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel d'exploitation IBC
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel d'accès à la structure du navire
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel d'exploitation ODME
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Plan SOPEP ou SMPEP
 
 |
 
-CSN
+CSN |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel de lavage au pétrole brut
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel sur les méthodes et dispositifs de rejets
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Dossier grain
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel de chargement-déchargement
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuel détecteurs de niveau d'eau
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Plan de gestion des ordures
 
 |
 
-CSN
+CSN |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel d'instruction du dispositif à gaz inerte
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Manuels HSC : manuel d'exploitation, de formation, d'entretien
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel HSC : manuel de route
 
 |
 
-CSN (2)
+CSN (2) |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Manuel de formation et aides à la formation à bord
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN (1)
-
-|
+CSN (1) |
 
 Plan d'opérations STS
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Registre des substances qui appauvrissent la couche d'ozone
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Plan de gestion des COV
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Documentation relative aux autres conceptions et dispositifs (SOLAS II-1/55)
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Documentation relative aux autres conceptions et dispositifs (SOLAS II-2/17)
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Documentation relative aux autres conceptions et dispositifs (SOLAS III/38)
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Dispositif de comptage des passagers (division 170 du règlement annexé) |
 
@@ -370,7 +262,7 @@ CSN (1) |
 
 |
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
+B) Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l’administration au titre du paragraphe III de l’article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
 
 CERTIFICATS SPÉCIFIQUES
 
@@ -388,51 +280,35 @@ Document de conformité au transport de marchandises dangereuses
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Transport de substances liquides nocives et potentiellement dangereuses en vrac et en quantités limitées à bord de navires de servitude au large
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Limites d'exploitation
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Transport de cargaisons INF
 
 |
 
-CCS/ CRS
+CCS/ CRS |
 
-|
+CSN |
 
-CSN
-
-|
-
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par une société de classification habilitée :
+C) Disposition applicable pour tout navire dont les titres et certificats sont délivrés par une société de classification habilitée :
 
 CERTIFICATS D'EXEMPTION DES NAVIRES DONT LA DÉLIVRANCE
 
@@ -470,7 +346,7 @@ SCH |
 
 SCH |
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
+D) Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l’administration au titre du paragraphe III de l’article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
 
 CERTIFICATS D'EXEMPTIONS DES NAVIRES DONT LA DÉLIVRANCE
 
@@ -490,61 +366,41 @@ Certificats d'exemption initiaux (durée de validité supérieure à six mois)
 
 |
 
-CCS
+CCS |
 
-|
-
-SM (1)
-
-|
+SM (1) |
 
 Certificats d'exemption initiaux (durée de validité inférieure à six mois)
 
 |
 
-CCS
+CCS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Certificats d'exemption initiaux (durée de validité supérieure à six mois)
 
 |
 
-CRS
+CRS |
 
-|
-
-SM (1)
-
-|
+SM (1) |
 
 Certificats d'exemption initiaux (durée de validité inférieure à six mois)
 
 |
 
-CRS
+CRS |
 
-|
-
-CSN
-
-|
+CSN |
 
 Renouvellement des certificats d'exemption
 
 |
 
-CSN
+CSN |
 
-|
-
-CSN (2)
-
-|
+CSN (2) |
 
 (1) Sous-direction de la sécurité maritime de la direction des affaires maritimes.
 

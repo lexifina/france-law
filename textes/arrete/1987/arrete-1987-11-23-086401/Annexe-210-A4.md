@@ -1,8 +1,8 @@
 # Article Annexe 210.A.4
 
-Document préparatoire à la délivrance d'un certificat national de jaugeage des navires
+Déclaration de jauge
 
-(A remplir par le propriétaire, le constructeur ou leur représentant)
+(A remplir par le propriétaire ou son mandataire)
 
 Je soussigné
 
@@ -12,21 +12,13 @@ Agissant en tant que
 
 Du navire
 
-Nom du navire
+Nom du navire |
 
-|
+N° ou lettres signalétiques (1) |
 
-N° ou lettres signalétiques (1)
+Port d'immatriculation |
 
-|
-
-Port d'immatriculation
-
-|
-
-Date (2)
-
-|
+Date (2) |
 
 (1) Le cas échéant.
 
@@ -58,7 +50,7 @@ Notice explicative
 
 Pour les navires considérés comme non-pontés, le creux sur quille est la distance verticale mesurée du dessus de la quille à une ligne de prolongement du point le plus haut du bordé ou le cas échéant du plat-bord, telle qu'elle délimite un pont fictif (art. 210.17 de l'arrêté du 23 novembre 1987).
 
-4. La jauge brute (GT) des navires d'une longueur hors tout inférieure à 15 mètres est calculée selon la formule suivante :
+4. La jauge brute (GT) des navires de pêche d'une longueur hors tout inférieure à 15 mètres et de tout autre navire de longueur de référence inférieure à 24 mètres est calculée selon la formule suivante :
 
 GT = K1.V,
 
