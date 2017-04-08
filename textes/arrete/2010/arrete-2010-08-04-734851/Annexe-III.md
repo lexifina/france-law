@@ -176,33 +176,35 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 3. Branches communes aux deux subdivisions d'arme.
 
-BRANCHES ET SPÉCIALITÉS |
+BRANCHES |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission titulaire |
+titulaire |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant |
+suppléant |
 
 MEMBRES |
 
-Personnel servant outre-mer, en assistance militaire technique, en prévôté. |
+Personnel servant outre-mer, en assistance militaire technique. |
 
 Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
-L'officier supérieur le plus ancien de l'état-major du commandement de la gendarmerie outre-mer. |
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement de la gendarmerie outre-mer. |
 
 Les commandants territoriaux de la gendarmerie outre-mer ou les officiers supérieurs les représentant désignés par le général, commandant la gendarmerie outre-mer.
 
-Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer. |
+Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer.
+
+|
 
 Personnel servant en ambassade. |
 
 Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
-L'officier supérieur le plus ancien de l'état-major du commandement de la gendarmerie outre-mer. |
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement de la gendarmerie outre-mer. |
 
 Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer. |
 
@@ -210,41 +212,51 @@ Ecoles de la gendarmerie nationale. |
 
 Le chef d'état-major du commandement des écoles de la gendarmerie nationale. |
 
-L'officier supérieur le plus ancien de l'état-major du commandement des écoles de la gendarmerie nationale. |
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des écoles de la gendarmerie nationale. |
 
 Les commandants des écoles de la gendarmerie nationale et centres d'instruction ou les officiers supérieurs les représentant désignés par le commandant des écoles de la gendarmerie nationale. |
 
-Organismes centraux, branche administrative. |
+Organismes centraux, branche administrative et technique. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur général de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur général de la gendarmerie nationale. |
+Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
 
-Deux officiers supérieurs désignés par le commandant de l'établissement central de l'administration et du soutien de la gendarmerie nationale. |
+Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Organismes centraux, branche technique. |
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie).
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur général de la gendarmerie nationale. |
+Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur général de la gendarmerie nationale. |
-
-Deux officiers supérieurs désignés par le commandant du centre technique de la gendarmerie nationale. |
+|
 
 Organismes centraux, branche secrétariat. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+Le sous-directeur de la gestion du personnel. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Deux officiers supérieurs de la direction générale de la gendarmerie nationale désignés par le directeur général de la gendarmerie nationale. |
+Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
+
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, mission du pilotage et de la performance, service de l'achat, des équipements et de la logistique de la sécurité intérieure).
+
+Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
+
+Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
+
+|
 
 Organismes centraux, branche formations extérieures. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+Le sous-directeur de la gestion du personnel. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-Un officier supérieur par formation concernée désigné par le directeur général de la gendarmerie nationale. |
+Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
+
+Un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
+
+|
 
 Personnel servant au sein du groupe d'intervention de la gendarmerie nationale. |
 
@@ -252,15 +264,25 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
-Les chefs d'états-majors, les chefs des forces et le chef de détachement gendarmerie. |
+Les chefs d'état-major, les chefs des forces et le chef du détachement gendarmerie du groupe de sécurité de la présidence de la République. |
 
-Par spécialité. |
+Personnel servant au sein du pôle judiciaire de la gendarmerie nationale. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale. |
 
-Un officier général ou colonel de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale. |
+L'officier supérieur le plus ancien dans le grade le plus élevé du pôle judiciaire de la gendarmerie nationale (1). |
 
-Un officier supérieur de la direction générale de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée par le directeur général de la gendarmerie nationale. |
+Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ou le directeur adjoint de l'institut de recherche criminelle de la gendarmerie nationale par suppléance.
+
+Le commandant du service central de renseignement criminel de la gendarmerie nationale ou l'adjoint au commandant du service central de renseignement criminel de la gendarmerie nationale par suppléance.
+
+Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale.
+
+|
 
 4. Spécialités
 
