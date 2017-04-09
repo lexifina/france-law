@@ -1,10 +1,8 @@
 # Article Annexe III
 
-ANNEXE III
+Les structures d'espace aérien suivantes sont utilisées pour permettre la ségrégation d'activité mentionnée au 4° et 6° de l'article 3, au 2° de l'article 8 et au 2° de l'article 9 :
 
-Les structures d'espace aérien suivantes sont utilisées pour permettre la ségrégation d'activité mentionnée au 2° de l'article 8 et au 2° de l'article 9 :
-
-- zones réglementées, à l'exclusion des zones dites à « pénétration après contact radio » ;
+- zones réglementées, à l'exclusion des zones dites à "pénétration après contact radio" ;
 
 - zones de ségrégation temporaire (TSA) ;
 

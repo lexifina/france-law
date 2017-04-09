@@ -10,13 +10,13 @@ Cette information est disponible au format numérique sur le site de la directio
 
 3° Espaces aériens contrôlés visés au 5° de l'article 5, au 2° de l'article 7 et au 3° de l'article 9 :
 
+CTR AVORD.
+
 CTR BRICY.
 
 CTR CHÂTEAUDUN.
 
 CTR COGNAC.
-
-CTR CREIL.
 
 CTR ÉTAIN.
 
@@ -35,6 +35,8 @@ CTR LANVÉOC.
 CTR LORIENT.
 
 CTR LUXEUIL.
+
+CTR MARSAN.
 
 CTR OCHEY.
 
