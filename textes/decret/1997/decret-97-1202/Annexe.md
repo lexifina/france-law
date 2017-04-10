@@ -116,29 +116,17 @@ Articles R. 258-6, R. 258-8 et R. 258-9 du code rural et de la pêche maritime.
 
 |
 
-Reconnaissance des organismes à vocation sanitaire prévue à l'article L. 201-9 du code rural et de la pêche maritime.
+Reconnaissance des organismes à vocation sanitaire prévue à l'article L. 201-9 du code rural et de la pêche maritime. |
 
-|
+Article R. 201-12 du code rural et de la pêche maritime. |
 
-Article R. 201-12 du code rural et de la pêche maritime.
+Reconnaissance des organisations vétérinaires à vocation technique prévue à l'article L. 201-9 du code rural et de la pêche maritime. |
 
-|
+Article R. 201-18 du code rural et de la pêche maritime. |
 
-Reconnaissance des organisations vétérinaires à vocation technique prévue à l'article L. 201-9 du code rural et de la pêche maritime.
+Reconnaissance des associations sanitaires régionales prévue à l'article L. 201-11 du code rural et de la pêche maritime. |
 
-|
-
-Article R. 201-18 du code rural et de la pêche maritime.
-
-|
-
-Reconnaissance des associations sanitaires régionales prévue à l'article L. 201-11 du code rural et de la pêche maritime.
-
-|
-
-Article R. 201-24 du code rural et de la pêche maritime.
-
-|
+Article R. 201-24 du code rural et de la pêche maritime. |
 
 Organismes professionnels agricoles
 
@@ -317,6 +305,14 @@ Agrément des matériels d'identification des animaux des espèces bovine, ovine
 Article R. 212-72 du code rural et de la pêche maritime.
 
 |
+
+Habilitation à réaliser l'identification de chiens et chats prévue à l'article L. 212-10 du code rural et de la pêche maritime |
+
+I de l'article R. 212-65 du code rural et de la pêche maritime |
+
+Habilitation à procéder à l'examen des qualifications professionnelles des ressortissants d'Etats membres de l'Union européenne ou d'autres Etats partie à l'accord sur l'Espace économique européen pour la profession d'identificateur de chiens et chats dans le cadre de la libre prestation de service et de la liberté d'établissement |
+
+V et VI de l'article R. 212-65 du code rural et de la pêche maritime |
 
 Organismes professionnels agricoles
 
@@ -616,10 +612,6 @@ Article R. 617-28 du code rural et de la pêche maritime.
 
 |
 
-Acceptation des demandes de confidentialité des données relatives aux substances actives, aux phytoprotecteurs et aux synergistes.
+Acceptation des demandes de confidentialité des données relatives aux substances actives, aux phytoprotecteurs et aux synergistes. |
 
-|
-
-Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime.
-
-|
+Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime. |

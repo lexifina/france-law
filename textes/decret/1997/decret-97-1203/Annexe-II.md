@@ -38,9 +38,7 @@ Décret n° 88-922 du 14 septembre 1988 pris pour application de la loi n° 84-1
 
 |
 
-Délivrance des certificats individuels prévus aux articles L. 254-3 et L. 254-4 du code rural et de la pêche maritime
-
-|
+Délivrance du certificat individuel et de l'agrément prévus aux articles L. 254-2 et L. 254-3 du code rural et de la pêche maritime |
 
 Article R. 254-11 du code rural et de la pêche maritime |
 
@@ -58,13 +56,25 @@ Article R. 254-28 du code rural et de la pêche maritime
 
 |
 
-Opposition à l'introduction à titre personnel de produits bénéficiant d'un permis de commerce parallèle
+Opposition à l'introduction à titre personnel de produits bénéficiant d'un permis de commerce parallèle |
 
-|
+Décisions mentionnées à l'article R. 253-27 du code rural et de la pêche maritime. |
 
-Décisions mentionnées à l'article R. 253-27 du code rural et de la pêche maritime.
+Attestation de connaissances et de compétences pour la délivrance du certificat de capacité prévu à l'article L. 211-17 du code rural et de la pêche maritime |
 
-|
+3° du I de l'article R. 211-9 du code rural et de la pêche maritime |
+
+Attestation de connaissances et de compétences délivrée aux ressortissants d'Etats membres de l'Union européenne ou d'autres Etats partie à l'accord sur l'Espace économique européen pour la profession de dresseur de chiens au mordant dans le cadre de la libre prestation de service et de la liberté d'établissement |
+
+II et III et article R. 211-9 du code rural et de la pêche maritime |
+
+Pour la délivrance de l'attestation de connaissance prévue au 3° du I de l'article L. 214-6-1 du code rural et de la pêche maritime |
+
+Article R. 214-25 du code rural et de la pêche maritime |
+
+Pour la délivrance de l'attestation de connaissance et procéder à l'examen des qualifications professionnelles des ressortissants d'Etats membres de l'Union européenne ou d'autres Etats partie à l'accord sur l'Espace économique européen pour l'exercice des activités mentionnées au I de l'article L. 214-6-1 et aux articles L. 214-6-2 et L. 214-6-3 du code rural et de la pêche maritime dans le cadre de la libre prestation de service et de la liberté d'établissement |
+
+Articles R. 214-25-1 et R. 214-25-2 du code rural et de la pêche maritime |
 
 TITRE II
 
