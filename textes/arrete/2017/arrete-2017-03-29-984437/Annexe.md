@@ -8,8 +8,6 @@ Directeur de cabinet.
 
 Conseiller stratégie et prospective de la police nationale.
 
-Directeur de projet.
-
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -64,7 +62,11 @@ Directeur central adjoint des compagnies républicaines de sécurité.
 
 Chef du service de la protection.
 
-11. Préfecture de police :
+11. Service central de la police technique et scientifique :
+
+Chef du service central de la police technique et scientifique.
+
+12. Préfecture de police :
 
 Préfecture de police : Direction de l'ordre public et de la circulation :
 
@@ -86,11 +88,11 @@ Préfecture de police-Divers :
 
 Directeur adjoint des ressources humaines.
 
-12. Ecole nationale supérieure de la police :
+13. Ecole nationale supérieure de la police :
 
 Directeur de l'école nationale supérieure de la police.
 
-13. Divers :
+14. Divers :
 
 Directeur de l'institut national de police scientifique.
 
@@ -149,8 +151,6 @@ Directeur interrégional de police judiciaire, directeur du service régional à
 Directeur interrégional de police judiciaire, directeur du service régional à Strasbourg.
 
 Directeur interrégional de police judiciaire, directeur du service régional à Lyon.
-
-Sous-directeur de la police technique et scientifique à Ecully.
 
 Directeur régional de police judiciaire à Versailles.
 
@@ -238,7 +238,11 @@ Sous-directeur de la coopération de sécurité et de gouvernance.
 
 Chef adjoint du service de la protection.
 
-12. Préfecture de police :
+12. Service central de la police technique et scientifique :
+
+Adjoint au chef du service central de la police technique et scientifique.
+
+13. Préfecture de police :
 
 Préfecture de police-Direction de l'ordre public et de la circulation :
 
@@ -288,14 +292,14 @@ Préfecture de police-Divers :
 
 Conseiller technique chargé des affaires de police.
 
-13. Ecole nationale supérieure de la police :
+14. Ecole nationale supérieure de la police :
 
 Directeur adjoint de l'école nationale supérieure de la police-Directeur de la stratégie, des formations et de la recherche.
 
-14. Service des technologies et des systèmes d'information de la sécurité intérieure
+15. Service des technologies et des systèmes d'information de la sécurité intérieure
 
 Adjoint au chef du service des technologies et des systèmes d'information de la sécurité intérieure.
 
-15. Divers :
+16. Divers :
 
 Secrétaire général adjoint pour l'administration du ministère de l'intérieur à Marseille.
