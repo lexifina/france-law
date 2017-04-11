@@ -1,0 +1,9 @@
+# Réponse à la question n° 40950
+
+- Question : [40950](40950.md) — Question n° 40950 — périmètre; délai; Grand Rodez
+
+## Réponse
+
+*JO du 2017-04-11*
+
+A la date du 1er janvier 2014, le périmètre de la communauté d'agglomération (CA) du Grand Rodez a été étendu aux communes de Baraqueville, Manhac et Camboulazet, alors membres de la communauté de communes (CC) du Pays Baraquevillois, par arrêté du préfet de l'Aveyron en date du 22 avril 2013. Ces trois communes ont par la suite délibéré en faveur de leur retrait de la CA du Grand Rodez et ont été de nouveau intégrées, à leur demande, à la CC du Pays Baraquevillois, par arrêté préfectoral en date du 8 juin 2015, ayant pris effet le 1er janvier 2016. A l'occasion de la mise en œuvre des nouveaux schémas départementaux de coopération intercommunale (SDCI), dans le cadre de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe), le SDCI arrêté par le préfet de l'Aveyron le 24 mars 2016, a prévu la fusion des CC du Pays Baraquevillois et du Naucellois, avec extension aux communes de Calmont, Cassagnes-Bégonhes et Sainte-Juliette-sur-Viaur. C'est dans ce contexte de mise en œuvre du SDCI que le préfet a pris un arrêté de projet de fusion-extension en date du 7 avril 2016, conforme à son schéma. Les communes et établissements publics de coopération intercommunale (EPCI) concernés ont alors été consultés sur le projet de périmètre et ont disposé d'un délai de 75 jours pour rendre un avis. A l'issue de ce délai, les conditions de majorité fixées par la loi NOTRe ayant été obtenues, le préfet de l'Aveyron a alors pris un arrêté définitif de périmètre en date du 2 novembre 2016, portant création au 1er janvier 2017 de la CC « Pays Ségali », issue de la fusion de la CC du Pays Baraquevillois et de la CC du Naucellois, avec extension aux communes de Calmont, Cassagnes-Béghonhes et Sainte-Juliette-sur-Viaur.
