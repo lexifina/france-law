@@ -1,0 +1,9 @@
+# Réponse à la question n° 87307
+
+- Question : [87307](87307.md) — Question n° 87307 — rapport; propositions
+
+## Réponse
+
+*JO du 2017-04-11*
+
+La question de la gouvernance de l'Etat au service de l'innovation numérique a connu un traitement varié ces dernières années. Le ministère de l'économie assume traditionnellement la définition des politiques industrielles du numérique, notamment dans le secteur des communications électroniques (via la Direction générale des entreprises), de soutien à l'économie, et notamment aux entreprises innovantes, que ce soit par des aides directes (exemple : Bpifrance), le financement de projets collaboratifs (exemple : FUI et les pôles de compétitivité) ou encore les outils fiscaux (exemple : crédit impôt recherche). Ce pilotage a été renforcé avec la création de l'Agence du numérique, qui conduit des missions de développement du numérique : infrastructures (plan France Très Haut Débit), French Tech et accès de tous au numérique (programme Société numérique). Ces politiques publiques ont pu, par le passé, être attribuées à un ou une ministre rattaché au Premier ministre (période 2009-2010). Ce choix a semblé insuffisamment efficace et c'est pourquoi elles ont été attribuées à un ou une ministre rattaché aux ministères économiques financiers pour le quinquennat 2012-2017. En parallèle, la transformation de l'administration exige une politique cohérente du gouvernement, notamment en matière de transformation. C'est pourquoi le gouvernement a créé la DINSIC (Direction interministérielle du numérique et des systèmes d'information et de communication) en septembre 2015 pour mieux coordonner les projets de transformation numérique (ouverture des données publiques, grands projets informatiques, réseau interministériel de l'Etat). Il a semblé pertinent de maintenir ces politiques publiques auprès du Premier ministre pour en garantir l'efficacité.
