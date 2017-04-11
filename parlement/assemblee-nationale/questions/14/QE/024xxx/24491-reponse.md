@@ -1,0 +1,9 @@
+# Réponse à la question n° 24491
+
+- Question : [24491](24491.md) — Question n° 24491 — classement; modalités
+
+## Réponse
+
+*JO du 2017-04-11*
+
+La signature d'un contrat de ville sera proposée aux communautés de communes Lodévois et Larzac et Gangeoise et Suménoise pour accompagner les efforts de résolution des difficultés auxquelles sont confrontées les populations de deux quartiers de Lodève et Ganges. Pour celui de Lodève, un contrat de ruralité a été signé le 5 janvier 2017 par le Ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales. En revanche, il n'est pas envisagé de définir une autre géographie prioritaire, pour traiter spécifiquement les problèmes de pauvreté et de précarité de certains villages ou quartiers. En effet, les fragilités rencontrées par de nombreux territoires en déprise démographique ou économique nécessitent une intervention plus globale à l'échelle des territoires, a minima celui des intercommunalités à fiscalité propre. C'est l'échelle minimale susceptible de mobiliser une ingénierie et des capacités d'intervention à la hauteur des enjeux. Les collectivités concernées peuvent par ailleurs solliciter la signature avec l'Etat d'un contrat de ruralité, nouveau dispositif issu du Comité interministériel aux ruralités de mai 2016 et qui permet d'accompagner un pôle d'équilibre territorial et rural (PETR) ou un établissement public de coopération intercommunal (EPCI) dans la mise en oeuvre de son projet de territoire, y compris en mobilisant les crédits dédiés du fonds de soutien à l'investissement local qui se montent à 216 millions d'euros en 2017. Pour ce qui concerne le piémont du massif central, le schéma départemental d'amélioration de l'accessibilité des services au public a vocation à organiser la mise à niveau des services dans les secteurs à forte croissance démographique. C'est probablement un premier axe de travail pour les territoires évoqués dans votre saisine.
