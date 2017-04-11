@@ -1,0 +1,9 @@
+# Réponse à la question n° 60420
+
+- Question : [60420](60420.md) — Question n° 60420 — relance
+
+## Réponse
+
+*JO du 2017-04-11*
+
+L'industrie représente 12,6 % du produit intérieur brut de la France, 3 millions d'emplois, 70 % des exportations et 74 % de la recherche et développement (R&D) privée. Conscient de son caractère structurant, le Gouvernement a mis en place un programme d'actions complet en sa faveur. Ainsi, l'industrie est fortement bénéficiaire : - du crédit d'impôt pour la compétitivité et l'emploi (22 % des sommes versées) ; - du suramortissement pour soutenir l'investissement productif des entreprises (prolongé jusqu'à avril 2017) ; - des efforts en faveur des industries fortement consommatrices d'électricité (400 M€) ; - des outils d'accompagnement à l'innovation et à la R&D (crédit impôt recherche). Par ailleurs, la politique de la Nouvelle France industrielle a permis d'accompagner, depuis 2013, plus de 1 000 projets grâce au programme d‘investissements d'avenir (à hauteur de 2 Mds€). Avec le programme industrie du futur, le Gouvernement a également mobilisé des moyens financiers conséquents pour moderniser l'outil productif (2,1 Mds€ de prêts de Bpifrance) et 2 000 petites et moyennes entreprises et entreprises de taille intermédiaire ont reçu un accompagnement personnalisé (avec un objectif à 4 300 fin 2017). Pour accompagner les situations les plus délicates, les commissaires au redressement productif ont accompagné, rien que pour l'année 2016, 2 295 entreprises, représentant près de 250 000 emplois. Cette politique volontariste en faveur de l'industrie a porté ses fruits : elle a permis aux entreprises d'améliorer leur taux de marge à 35,5 % fin 2015, soit un niveau supérieur à celui d'avant-crise. L'investissement des entreprises manufacturières est reparti : il est redevenu positif et a progressé de + 1,9 % en 2014 et + 3,5 % en 2015.
