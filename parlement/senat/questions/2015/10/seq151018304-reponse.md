@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018304
+
+- Question : [SEQ151018304](seq151018304.md) — Nombre exact des taxes en France
+
+## Réponse
+
+*Budget et comptes publics, JO du 2017-04-13, page 1434*
+
+Il n'existe pas de dénombrement centralisé et exhaustif de l'ensemble des impôts et taxes prévus par la législation française actuellement en vigueur. Les documents budgétaires, notamment l'annexe budgétaire des « voies et moyens », qui accompagnent les projets de lois de finances agrègent, dans certains cas, des impôts « autres » ou « divers » relevant de différents ministères et dont il faut obtenir le détail. Plus généralement, le Gouvernement a conscience que certaines taxes complexes et parfois obsolètes sont susceptibles de rendre la législation fiscale peu lisible et de nuire à la compétitivité des entreprises. C'est la raison pour laquelle plusieurs taxes ont été abrogées dans le cadre de la loi de finances pour 2015 : peuvent être cités la taxe « Grenelle II », la cotisation de solidarité sur les graines oléagineuses, la taxe sur les appareils automatiques, la redevance due par les titulaires de concessions de stockage souterrain d'hydrocarbures, la taxe sur les trottoirs, la taxe pour la gestion des eaux pluviales urbaines, les droits d'enregistrement sur les mutations à titre onéreux de meubles corporels et, enfin, l'impôt sur les spectacles. La loi de finances pour 2016 a poursuivi cette démarche de simplification de notre droit et de lisibilité fiscale en supprimant certaines impositions dont le rendement était particulièrement faible et qui présentaient des coûts de gestion élevés : ont donc été abrogées la taxe sur les premières ventes de produits cosmétiques ainsi que la taxe administrative pesant sur les opérateurs de communications électroniques. Ces éléments vont dans le sens des préoccupations exprimées.
