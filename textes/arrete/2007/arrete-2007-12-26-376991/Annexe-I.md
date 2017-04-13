@@ -18,17 +18,11 @@ Fonctions |
 
 Points NBI |
 
-Cabinet du ministre.
+Cabinet du ministre. |
 
-|
+Chef du bureau des cabinets. |
 
-Chef du bureau des cabinets.
-
-|
-
-60
-
-|
+60 |
 
 Secrétariat général.
 
@@ -68,47 +62,27 @@ Chargé de mission modernisation de l'action publique. |
 
 |
 
-Direction des libertés publiques et des affaires juridiques.
+Direction des libertés publiques et des affaires juridiques. |
 
-|
+Chef du bureau des titres d'identité et de voyage. |
 
-Chef du bureau des titres d'identité et de voyage.
+60 |
 
-|
+Chef du bureau du contentieux des étrangers. |
 
-60
-
-|
-
-Chef du bureau du contentieux des étrangers.
-
-|
-
-50
-
-|
+50 |
 
 Chef de la mission du pilotage et de l'appui juridique aux territoires. |
 
-30
+30 |
 
-|
+Chef du bureau du droit et des procédures d'expulsion. |
 
-Chef du bureau du droit et des procédures d'expulsion.
+30 |
 
-|
+Adjoint au chef du bureau des polices administratives. |
 
-30
-
-|
-
-Adjoint au chef du bureau des polices administratives.
-
-|
-
-30
-
-|
+30 |
 
 Chef du bureau des établissements de jeux.
 
@@ -118,159 +92,85 @@ Chef du bureau des établissements de jeux.
 
 |
 
-Direction générale de la sécurité civile et de la gestion des crises.
+Direction générale de la sécurité civile et de la gestion des crises. |
 
-|
+Chef du bureau du soutien logistique et juridique |
 
-Chef du bureau des affaires financières et juridiques.
+50 |
 
-|
+Chef du bureau des sapeurs-pompiers professionnels. |
 
-50
+30 |
 
-|
+Chef de la base de sécurité civile. |
 
-Chef du bureau des statuts et du management.
+30 |
 
-|
+Chef du groupement d'avions de la sécurité civile. |
 
-30
+30 |
 
-|
+Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics. |
 
-Adjoint au chef du groupement d'hélicoptères.
+30 |
 
-|
+Direction des systèmes d'information et de communication. |
 
-30
+Chef du bureau des affaires juridiques. |
 
-|
+50 |
 
-Chef de la base avions de la sécurité civile.
+Chef du bureau du budget et de la programmation financière. |
 
-|
+30 |
 
-30
+Chef du bureau du personnel et des compétences. |
 
-|
+30 |
 
-Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics.
+Chef de la coordination fonctionnelle. |
 
-|
-
-30
-
-|
-
-Direction des systèmes d'information et de communication.
-
-|
-
-Chef du bureau des affaires juridiques.
-
-|
-
-50
-
-|
-
-Chef du bureau du budget et de la programmation financière.
-
-|
-
-30
-
-|
-
-Chef du bureau du personnel et des compétences.
-
-|
-
-30
-
-|
-
-Chef de la coordination fonctionnelle.
-
-|
-
-30
-
-|
+30 |
 
 Direction de l'évaluation de la performance et des affaires financières et immobilières. |
 
-Chef du bureau de la gestion des sites de l'administration centrale.
+Chef du bureau de la gestion des sites de l'administration centrale. |
 
-|
+60 |
 
-60
+Chef du bureau de la commande publique et de la performance des achats. |
 
-|
+50 |
 
-Chef du bureau de la commande publique et de la performance des achats.
+Adjoint au chef du centre des prestations financières. |
 
-|
-
-50
-
-|
-
-Adjoint au chef du centre des prestations financières.
-
-|
-
-30
-
-|
+30 |
 
 Chef du bureau des ressources mutualisées. |
 
-30
+30 |
 
-|
+Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie. |
 
-Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie.
+30 |
 
-|
-
-30
-
-|
-
-Direction des ressources humaines.
-
-|
+Direction des ressources humaines. |
 
 Chef du bureau du centre national de la formation. |
 
-50
+50 |
 
-|
+Chef du bureau des affaires financières et de l'évaluation de la dépense. |
 
-Chef du bureau des affaires financières et de l'évaluation de la dépense.
+30 |
 
-|
+Adjoint au chef du bureau des personnels administratifs. |
 
-30
+30 |
 
-|
+Adjoint au chef du bureau des personnels techniques et spécialisés. |
 
-Adjoint au chef du bureau des personnels administratifs.
-
-|
-
-30
-
-|
-
-Adjoint au chef du bureau des personnels techniques et spécialisés.
-
-|
-
-30
-
-|
+30 |
 
 Adjoint au chef du bureau des affaires générales, des études et des statuts.
 
@@ -288,107 +188,59 @@ Chef de la mission de pilotage de la fonction ressources humaines ministérielle
 
 |
 
-Chef de la mission projets professionnels.
+Chef de la mission projets professionnels. |
 
-|
+30 |
 
-30
+Chef de projet SINOPE. |
 
-|
+30 |
 
-Chef de projet SINOPE.
+Direction générale des collectivités locales. |
 
-|
+Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. |
 
-30
+30 |
 
-|
+Chef du bureau de l'emploi territorial et de la protection sociale. |
 
-Direction générale des collectivités locales.
+30 |
 
-|
+Chef de cabinet. |
 
-Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat.
+30 |
 
-|
+Direction générale de la police nationale. |
 
-30
+Chef du bureau des affaires disciplinaires. |
 
-|
+60 |
 
-Chef du bureau de l'emploi territorial et de la protection sociale.
+Chef du bureau des personnels administratifs, techniques et scientifiques. |
 
-|
-
-30
-
-|
-
-Chef de cabinet.
-
-|
-
-30
-
-|
-
-Direction générale de la police nationale.
-
-|
-
-Chef du bureau des affaires disciplinaires.
-
-|
-
-60
-
-|
-
-Chef du bureau des personnels administratifs, techniques et scientifiques.
-
-|
-
-50
-
-|
+50 |
 
 Chef du bureau des adjoints de sécurité. |
 
-50
+50 |
 
-|
+Adjoint au sous-directeur des ressources et des moyens. |
 
-Chef du département de la coordination des établissements.
+50 |
 
-|
+Chef de cabinet du directeur général de la police nationale. |
 
-50
-
-|
-
-Chef de cabinet du directeur général de la police nationale.
-
-|
-
-30
-
-|
+30 |
 
 Chef de la division de l'organisation des concours et examens professionnels.
 
 |
 
-50
+50 |
 
-|
+Chef de cabinet du directeur des ressources et des compétences de la police nationale. |
 
-Chef de cabinet du directeur des ressources et des compétences de la police nationale.
-
-|
-
-30
-
-|
+30 |
 
 Chef du bureau du pilotage des structures de soutien. |
 
@@ -396,119 +248,67 @@ Chef du bureau du pilotage des structures de soutien. |
 
 |
 
-Chef de la division de la programmation.
+Chef de la division de la programmation. |
 
-|
+50 |
 
-50
+Chef de la division de la formation des personnels administratifs, techniques et scientifiques. |
 
-|
+50 |
 
-Chef de la division de la formation des personnels administratifs, techniques et scientifiques.
+Adjoint au chef du bureau des affaires juridiques et statutaires. |
 
-|
+30 |
 
-50
+Chef du bureau des politiques sociales. |
 
-|
-
-Adjoint au chef du bureau des affaires juridiques et statutaires.
-
-|
-
-30
-
-|
-
-Chef du bureau des politiques sociales.
-
-|
-
-30
-
-|
+30 |
 
 Direction générale des outre-mer. |
 
-Chef du bureau des ressources et de la coordination.
+Chef du bureau des ressources et de la coordination. |
 
-|
-
-30
-
-|
+30 |
 
 Adjoint au chef du bureau du droit public et des affaires institutionnelles.
 
 |
 
-30
+30 |
 
-|
+Chef du bureau de la dépense de l'Etat. |
 
-Chef du bureau de la dépense de l'Etat.
+30 |
 
-|
+Direction générale des étrangers en France. |
 
-30
+Chef du bureau de la circulation transfrontalière. |
 
-|
+30 |
 
-Direction générale des étrangers en France.
+Chef du département de l'asile à la frontière et de l'admission au séjour. |
 
-|
+30 |
 
-Chef du bureau de la circulation transfrontalière.
+Agence nationale des titres sécurisés. |
 
-|
+Responsable du centre d'appels, de l'acheminement et de la gestion des sites web. |
 
-30
+30 |
 
-|
+Direction générale de la gendarmerie nationale. |
 
-Chef du département de l'asile à la frontière et de l'admission au séjour.
+Chef du bureau du personnel civil. |
 
-|
+30 |
 
-30
-
-|
-
-Agence nationale des titres sécurisés.
-
-|
-
-Responsable du centre d'appels, de l'acheminement et de la gestion des sites web.
-
-|
-
-30
-
-|
-
-Direction générale de la gendarmerie nationale.
-
-|
-
-Chef du bureau du personnel civil.
-
-|
-
-30
-
-|
-
-Délégation à la sécurité et à la circulation routières.
-
-|
+Délégation à la sécurité et à la circulation routières. |
 
 Chef du bureau du permis de conduire.
 
 |
 
-30
-
-|
+30 |
 
 Chef du bureau des usagers de la route et de la réglementation des véhicules.
 
@@ -518,13 +318,9 @@ Chef du bureau des usagers de la route et de la réglementation des véhicules.
 
 |
 
-Chef du service du fichier national des permis de conduire.
+Chef du service du fichier national des permis de conduire. |
 
-|
-
-50
-
-|
+50 |
 
 Chef du bureau de la législation et de la réglementation.
 

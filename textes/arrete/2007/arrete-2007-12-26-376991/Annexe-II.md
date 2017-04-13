@@ -648,7 +648,7 @@ Nombre de points NBI
 
 |
 
-3
+4
 
 |
 
@@ -756,7 +756,7 @@ Nombre de points NBI
 
 |
 
-7
+6
 
 |
 
@@ -1226,7 +1226,7 @@ du contentieux de l'éloignement
 
 |
 
-2
+3
 
 |
 
@@ -1250,9 +1250,7 @@ du contentieux de l'éloignement
 
 1 |
 
-20
-
-|
+20 |
 
 86 Vienne
 
@@ -1512,9 +1510,7 @@ du contentieux de l'éloignement
 
 2 |
 
-30
-
-|
+30 |
 
 988 Nouvelle-Calédonie
 

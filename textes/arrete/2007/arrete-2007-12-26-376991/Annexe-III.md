@@ -16,255 +16,131 @@ Fonctions |
 
 Points NBI |
 
-Service du cabinet.
+Service du cabinet. |
 
-|
+Chef du bureau des expulsions locatives et de la voie publique. |
 
-Chef du bureau des expulsions locatives et de la voie publique.
+50 |
 
-|
+Service des affaires juridiques et du contentieux. |
 
-50
+Chef du bureau de la protection juridique et de l'assurance. |
 
-|
+50 |
 
-Service des affaires juridiques et du contentieux.
+Direction des finances, de la commande publique et de la performance. |
 
-|
+Chargé de mission pour la mise en place du centre de services partagés Chorus. |
 
-Chef du bureau de la protection juridique et de l'assurance.
+60 |
 
-|
+Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation. |
 
-50
+30 |
 
-|
+Direction des ressources humaines. |
 
-Direction des finances, de la commande publique et de la performance.
+Chargé de mission pour la mise en place du pôle d'expertise et de services (PESE). |
 
-|
+60 |
 
-Chargé de mission pour la mise en place du centre de services partagés Chorus.
+Chef du service de la modernisation et de la performance. |
 
-|
+50 |
 
-60
+Adjoint au chef du service de gestion des personnels de la police nationale. |
 
-|
-
-Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation.
-
-|
-
-30
-
-|
-
-Direction des ressources humaines.
-
-|
-
-Chargé de mission pour la mise en place du pôle d'expertise et de services (PESE).
-
-|
-
-60
-
-|
-
-Chef du service de la modernisation et de la performance.
-
-|
-
-50
-
-|
-
-Adjoint au chef du service de gestion des personnels de la police nationale.
-
-|
-
-50
-
-|
+50 |
 
 Chef du service de gestion des personnels administratifs, techniques et scientifiques. |
 
-50
+50 |
 
-|
+Service des affaires immobilières. |
 
-Service des affaires immobilières.
+Chef du département juridique et budgétaire |
 
-|
+50 |
 
-Adjoint au chef du département stratégie immobilière et budgétaire, chef du bureau de synthèse budgétaire.
+Direction de la police générale. |
 
-|
+Chef du 2e bureau. |
 
-50
+60 |
 
-|
+Chef du 3e bureau. |
 
-Direction de la police générale.
+50 |
 
-|
+Chef du 4e bureau. |
 
-Chef du 2e bureau.
+50 |
 
-|
+Chef du 5e bureau. |
 
-60
+50 |
 
-|
+Chef du 6e bureau. |
 
-Chef du 3e bureau.
+50 |
 
-|
+Chef du 7e bureau. |
 
-50
+50 |
 
-|
+Chef du 8e bureau. |
 
-Chef du 4e bureau.
+60 |
 
-|
+Chef du 9e bureau. |
 
-50
+50 |
 
-|
+Chef du 10e bureau. |
 
-Chef du 5e bureau.
+50 |
 
-|
+Direction des transports et de la protection du public. |
 
-50
+Chef du bureau des taxis et des transports publics. |
 
-|
+50 |
 
-Chef du 6e bureau.
+Chef du bureau des objets trouvés et des fourrières. |
 
-|
+50 |
 
-50
+Chef du bureau des actions contre les nuisances. |
 
-|
+50 |
 
-Chef du 7e bureau.
+Chef du bureau des actions de santé mentale. |
 
-|
+50 |
 
-50
+Chef du bureau des établissements recevant du public. |
 
-|
+50 |
 
-Chef du 8e bureau.
+Chef du bureau de la sécurité de l'habitat. |
 
-|
+50 |
 
-60
+Direction de la sécurité de proximité de l'agglomération parisienne. |
 
-|
+Chef du service de gestion opérationnelle des personnels et des équipements. |
 
-Chef du 9e bureau.
+60 |
 
-|
+Direction opérationnelle des services techniques et logistiques. |
 
-50
+Chef du service des finances, de l'achat et du contrôle de gestion. |
 
-|
+60 |
 
-Chef du 10e bureau.
+Direction de l'ordre public et de la circulation. |
 
-|
-
-50
-
-|
-
-Direction des transports et de la protection du public.
-
-|
-
-Chef du bureau des taxis et des transports publics.
-
-|
-
-50
-
-|
-
-Chef du bureau des objets trouvés et des fourrières.
-
-|
-
-50
-
-|
-
-Chef du bureau des actions contre les nuisances.
-
-|
-
-50
-
-|
-
-Chef du bureau des actions de santé mentale.
-
-|
-
-50
-
-|
-
-Chef du bureau des établissements recevant du public.
-
-|
-
-50
-
-|
-
-Chef du bureau de la sécurité de l'habitat.
-
-|
-
-50
-
-|
-
-Direction de la sécurité de proximité de l'agglomération parisienne.
-
-|
-
-Chef du service de gestion opérationnelle des personnels et des équipements.
-
-|
-
-60
-
-|
-
-Direction opérationnelle des services techniques et logistiques.
-
-|
-
-Chef du service des finances, de l'achat et du contrôle de gestion.
-
-|
-
-60
-
-|
-
-Direction de l'ordre public et de la circulation.
-
-|
-
-Chef de cabinet.
-
-|
+Chef de cabinet. |
 
 50 |
 
