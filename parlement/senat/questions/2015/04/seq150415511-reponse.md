@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415511
+
+- Question : [SEQ150415511](seq150415511.md) — Implantation des centres des finances publiques en zone rurale
+
+## Réponse
+
+*Budget et comptes publics, JO du 2017-04-13, page 1432*
+
+Le réseau territorial et les moyens alloués à la direction générale des finances publiques (DGFiP) évoluent en permanence. Cette dernière se doit à la fois d'être présente localement et d'assurer des prestations de qualité. L'amélioration du service à l'usager et de l'efficacité de l'action publique sur l'ensemble du territoire national, est l'une de ses priorités. La DGFiP veille aussi toujours à adapter ses implantations à l'évolution des flux de populations et des attentes des usagers, ainsi qu'à l'évolution des structures territoriales : prise en compte de la loi portant nouvelle organisation territoriale de la République (NOTRe), développement de l'intercommunalité, évolution de la carte hospitalière. Ainsi, s'il apparaît que l'implantation d'une structure ne répond plus aux attentes des différents publics, le regroupement de celle-ci sur une unité voisine peut être mis à l'étude. La méthode appliquée par la DGFiP est fondée sur le dialogue et sur l'appréciation des besoins au plus proche du terrain. Les opérations de réorganisation sont réalisées avec l'accord du préfet et à l'issue d'une concertation approfondie avec les élus concernés, les personnels et les organisations syndicales. Cette démarche, qui peut aboutir à la fermeture des structures les moins adaptées, est déconcentrée au plan départemental, sous le contrôle de la direction générale, qui veille à la cohérence des restructurations sur l'ensemble du territoire. Chaque opération de fermeture est ensuite proposée pour validation. Dans cette démarche, la DGFiP s'attache toujours à maintenir et à renforcer sur l'ensemble du territoire national la qualité des missions qu'elle exerce au bénéfice des élus, des contribuables et des partenaires du secteur local.
