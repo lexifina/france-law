@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018103
+
+- Question : [SEQ151018103](seq151018103.md) — Développement du phénomène d'absorption des petites et moyennes entreprises par les grands groupes
+
+## Réponse
+
+*Économie et finances, JO du 2017-04-13, page 1450*
+
+Le droit français prévoit déjà des mesures permettant d'assurer la protection de la société et de ses actionnaires minoritaires. C'est ainsi que l'action en responsabilité fondée sur les dispositions de l'article 1240 du code civil sanctionne l'abus de majorité lorsque la décision des majoritaires a été prise contrairement à l'intérêt général et dans l'unique dessein de favoriser les membres de la majorité au détriment de ceux de la minorité. Introduire un nouveau mécanisme de protection qui s'ajouterait à la procédure fondée sur l'article 1240 du code civil serait source de complexité et pourrait favoriser une multiplication des contentieux, nuisant ainsi à la compétitivité des entreprises et à l'attractivité de la France. En revanche, et c'est le sens de l'action menée jusqu'ici par la médiation des entreprises et dans le cadre de l'Alliance pour l'innovation ouverte, les entreprises peuvent être encouragées à développer des relations placées sous le signe de la collaboration. Cela vaut pour l'ensemble des relations contractuelles entre grands groupes et PME, y compris les relations capitalistiques. Les travaux engagés dans le cadre de l'Alliance pour l'innovation ouverte ont ainsi conduit au recensement de bonnes pratiques qui visent précisément à définir le cadre d'une collaboration réussie, à même de permettre aux PME de « croître en symbiose avec les grands groupes ». La diffusion de ces travaux, en ligne sur http://www.entreprises.gouv.fr/innovation-ouverte, peut utilement contribuer à une prise de conscience des avantages d'une relation équilibrée lorsque des entités de culture très différente se rapprochent.
