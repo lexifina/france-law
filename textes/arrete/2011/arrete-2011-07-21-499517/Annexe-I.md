@@ -142,6 +142,26 @@ Certificat de patron de navire aux cultures marines, niveau 1.
 
 Certificat de patron de navire aux cultures marines, niveau 2
 
+Diplôme de capitaine 200 ;
+
+Diplôme de capitaine 500 ;
+
+Diplôme d'officier chef de quart passerelle ;
+
+Diplôme de capitaine 3000 ;
+
+Diplôme de capitaine ;
+
+Brevet d'études professionnelles maritimes cultures marines ;
+
+Brevet de technicien supérieur maritime spécialité pêche et gestion de l'environnement marin ;
+
+Brevet d'officier chef de quart de navire de mer ;
+
+Certificat d'aptitude au commandement à la petite pêche ;
+
+Brevet de capitaine 200 pêche.
+
 Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
 Certificat d'aptitude professionnelle maritime d'électricien ou de mécanicien de bord.
@@ -163,6 +183,8 @@ Certificat de formation nautique mention machine
 Officier électronicien et systèmes de la marine marchande.
 
 Certificat de marin-ouvrier aux cultures marines, niveau 2.
+
+Brevet d'officier électronicien et systèmes de la marine marchande.
 
 Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
@@ -228,4 +250,22 @@ Diplôme d'officier chef de quart machine de la filière professionnelle machine
 
 Baccalauréat professionnel spécialité électronicien marine.
 
-Certificat de marin-ouvrier aux cultures marines, niveau 1
+Certificat de marin-ouvrier aux cultures marines, niveau 1.
+
+Certificat de matelot pont ;
+
+Certificat de matelot de quart passerelle ;
+
+Certificat de marin qualifié pont ;
+
+Certificat de marin qualifié machine ;
+
+Brevet d'officier chef de quart machine limité à 200 milles des côtes ;
+
+Brevet d'officier chef de quart machine ;
+
+Brevet de second mécanicien 3000 kw limité à 200 milles des côtes ;
+
+Brevet de chef mécanicien 3000 Kw limité à 200 milles des côtes ;
+
+Brevet d'officier électronicien.
