@@ -1146,6 +1146,80 @@ AN 16 en partie, AN 17, AN 18
 
 |
 
+|
+
+Campus - bâtiments de formation,
+
+restauration et hébergement |
+
+Velaine-en-Haye |
+
+AI 66 |
+
+|
+
+Campus - bâtiments d'hébergement et bureaux
+
+|
+
+Velaine-en-Haye |
+
+AI 68 |
+
+|
+
+Campus - pavillons Balency
+
+|
+
+Velaine-en-Haye |
+
+AI 69 |
+
+|
+
+Campus - loge du gardien
+
+|
+
+Velaine-en-Haye |
+
+AI 70 |
+
+|
+
+Campus - château d'eau
+
+|
+
+Velaine-en-Haye |
+
+AI 71 |
+
+|
+
+Campus - voiries |
+
+Velaine-en-Haye |
+
+AI 75,
+
+AI 76,
+
+AI 77,
+
+et AI 82 |
+
+|
+
+Campus - parkings
+
+|
+
+Velaine-en-Haye |
+
+AI 79 |
+
 Meuse (55)
 
 |
@@ -2836,7 +2910,7 @@ Ville d'Avray
 
 |
 
-AL 173 en partie
+AL 276
 
 |
 
