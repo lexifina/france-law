@@ -82,9 +82,7 @@ Directions régionales de l'alimentation, de l'agriculture et de la forêt
 
 |
 
-Directions régionales des affaires culturelles
-
-|
+Directions régionales des affaires culturelles |
 
 - fusion des directions régionales des affaires culturelles d'Alsace, de Champagne-Ardenne et de Lorraine ;
 
@@ -98,9 +96,7 @@ Directions régionales des affaires culturelles
 
 - fusion des directions régionales des affaires culturelles de Languedoc-Roussillon et de Midi-Pyrénées ;
 
-- fusion des directions régionales des affaires culturelles de Nord-Pas-de-Calais et de Picardie.
-
-|
+- fusion des directions régionales des affaires culturelles de Nord-Pas-de-Calais et de Picardie. |
 
 Directions régionales des finances publiques
 
@@ -231,3 +227,15 @@ Directions territoriales :
 - Arc méditerranéen, site de Rodez.
 
 |
+
+Directions territoriales de l'Office national des forêts |
+
+-fusion de la direction territoriale Rhône-Alpes et d'une partie de la direction territoriale Centre-Ouest Limousin ;
+
+-fusion de la direction territoriale Bourgogne-Champagne-Ardennes et d'une partie de la direction territoriale Franche-Comté ;
+
+-fusion d'une partie de la direction territoriale Centre-Ouest-Auvergne-Limousin et d'une partie de la direction-territoriale Sud-Ouest ;
+
+-fusion de la direction territoriale Alsace, de la direction territoriale Lorraine et d'une partie de la direction territoriale Bourgogne-Champagne-Ardennes ;
+
+-fusion d'une partie de la direction territoriale Sud-Ouest et de la direction territoriale Méditerranée. |
