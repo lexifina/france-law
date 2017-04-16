@@ -1,8 +1,8 @@
-# Article LEGIARTI000032400247
+# Article Annexe 1
 
-PROGRAMME PAR SPÉCIALITÉ DES ÉPREUVES DES CONCOURS POUR LE RECRUTEMENT DES TECHNICIENS DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION DE CLASSE NORMALE DU MINISTÈRE DE L'INTÉRIEUR
+PROGRAMME PAR OPTIONS DES ÉPREUVES DES CONCOURS POUR LE RECRUTEMENT DES TECHNICIENS DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION DE CLASSE NORMALE DU MINISTÈRE DE L'INTÉRIEUR
 
-Spécialité "infrastructures et réseaux"
+Option infrastructures et réseaux
 
 1. Matériels et infrastructures :
 
@@ -54,7 +54,7 @@ Equipements d'interconnexion de réseaux :
 
 5. Précâblage, câblage, normalisation :
 
-- supports physiques - paires torsadées : caractérisation et classification (cat 5, 5e, 6…) ;
+- supports physiques, - paires torsadées : caractérisation et classification (cat 5, 5e, 6…) ;
 
 - coaxial ;
 
@@ -118,7 +118,7 @@ Equipements d'interconnexion de réseaux :
 
 - réalisation d'un compte rendu.
 
-Spécialité "solutions logicielles et systèmes d'information"
+Option solutions logicielles et systèmes d'information
 
 1. Matériels et systèmes d'exploitation :
 
@@ -198,7 +198,7 @@ Spécialité "solutions logicielles et systèmes d'information"
 
 - connaissance des principaux langages de programmation et de leurs usages ;
 
-- tests d'un programme (tests unitaires, intégration, fonctionnels…), suivi des bugs et corrections ;
+- tests d'un programme (tests unitaires, intégration, fonctionnels …), suivi des bugs et corrections ;
 
 - documentation d'un programme.
 
@@ -218,4 +218,4 @@ Spécialité "solutions logicielles et systèmes d'information"
 
 - planification des tâches ;
 
-- réalisation d'un compte rendu.
+- réalisation d'un compte-rendu.
