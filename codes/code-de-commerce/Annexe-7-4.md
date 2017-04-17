@@ -26,10 +26,6 @@ Cour d'appel de Colmar
 
 |
 
-|
-
-|
-
 Bas-Rhin
 
 |
@@ -39,8 +35,6 @@ Saverne
 |
 
 8
-
-|
 
 |
 
@@ -64,8 +58,6 @@ Colmar
 
 |
 
-|
-
 Mulhouse
 
 |
@@ -75,10 +67,6 @@ Mulhouse
 |
 
 Cour d'appel de Metz
-
-|
-
-|
 
 |
 
@@ -94,15 +82,11 @@ Metz
 
 |
 
-|
-
 Sarreguemines
 
 |
 
 12
-
-|
 
 |
 
@@ -136,10 +120,6 @@ Cour d'appel de Basse-Terre
 
 |
 
-|
-
-|
-
 Guadeloupe
 
 |
@@ -152,21 +132,15 @@ Basse-Terre
 
 |
 
-|
-
 Pointe-à-Pitre
 
 |
 
-6
+9
 
 |
 
 Cour d'appel de Cayenne
-
-|
-
-|
 
 |
 
@@ -176,15 +150,11 @@ Cayenne
 
 |
 
-5
+8
 
 |
 
 Cour d'appel de Fort-de-France
-
-|
-
-|
 
 |
 
@@ -201,10 +171,6 @@ Fort-de-France
 |
 
 Cour d'appel de Saint-Denis de La Réunion
-
-|
-
-|
 
 |
 
@@ -229,8 +195,6 @@ Saint-Denis
 |
 
 8
-
-|
 
 |
 
