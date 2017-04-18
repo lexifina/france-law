@@ -1,0 +1,9 @@
+# Réponse à la question n° 67719
+
+- Question : [67719](67719.md) — Question n° 67719 — prévention; ERP et IGH; rapport; recommandations
+
+## Réponse
+
+*JO du 2017-04-18*
+
+La proposition du rapport relatif à la politique de prévention du risque incendie dans les établissements recevant du public et les immeubles de grande hauteur remis en juin 2014 par l'inspection générale de l'administration et l'inspection générale des affaires sociales vise à vérifier dans l'ensemble du règlement de sécurité la pertinence des renvois à la norme et préciser systématiquement la version de la norme applicable. A l'époque de l'écriture du règlement, la majorité des références ou des renvois aux normes concernaient des normes françaises. Ces référentiels étaient censés refléter "l'état de l'art" et faisaient consensus au niveau des acteurs de l'acte de construire. Aujourd'hui, en application du règlement européen relatif aux produits de construction, les dispositions des normes européennes dites harmonisées supplantent celles des normes françaises correspondantes. Cette obligation découlant du droit supérieur est prévue par le règlement de sécurité incendie dans son article GN 14. Pour les normes ne relevant pas du droit supérieur, la référence demeure française. Les enjeux majeurs en termes industriels, comme la complexité de l'articulation entre ce qui relève de la réglementation et de la normalisation, rendent inappropriée la suppression de la référence à toutes ces normes françaises comme unique réponse à cette problématique. La réflexion menée au sein des missions thématiques destinées à moderniser la réglementation incendie, doit permettre une évolution progressive de ce cadre. Ainsi, pourront être mesurées très précisément les conséquences pour la sécurité et les acteurs qui utilisent les normes, au premier rang desquels les industriels concernés.
