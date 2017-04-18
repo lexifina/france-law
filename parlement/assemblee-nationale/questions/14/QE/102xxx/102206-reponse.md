@@ -1,0 +1,9 @@
+# Réponse à la question n° 102206
+
+- Question : [102206](102206.md) — Question n° 102206 — compétence; assainissement; transfert
+
+## Réponse
+
+*JO du 2017-04-18*
+
+Les modalités de tarification du service public de l'eau potable sont prévues par les articles L. 2224-12-1 et suivants du code général des collectivités territoriales et précisées par l'article R. 2224-20 du même code. Conformément au principe d'égalité devant le service public, qui consiste à considérer que tous les usagers qui sont placés dans une situation équivalente doivent être traités de façon équivalente, notamment quant à la tarification de ce service, la jurisprudence (CE, 10 mai 1974, Denoyez et Chorques, no 88032-88148) admet des différenciations dans trois situations limitatives : lorsqu'il s'agit de la conséquence d'une loi, s'il existe des différences de situation appréciables entre les usagers, c'est-à-dire des situations objectivement différentes au regard du service lui-même, et s'il existe une nécessité d'intérêt général en rapport avec les conditions d'exploitation du service. Ainsi, la tarification de l'eau potable au sein d'un syndicat intercommunal ou d'un syndicat mixte doit être identique pour les usagers d'une même catégorie utilisant le service dans les mêmes conditions. Une différenciation tarifaire, au sein d'un syndicat intercommunal ou d'un syndicat mixte, pour une partie de ses communes membres, ne pourrait être admise que si ces dernières n'étaient desservies que par leurs propres réseaux d'eau potable comportant chacun des contraintes techniques particulières. L'existence de plusieurs réseaux distincts sur le territoire d'un syndicat entraînerait alors une différence de situation liée aux conditions d'exploitation du service, qui permettrait de justifier un prix de l'eau différent (CE, 26 juillet 1996,Association Narbonne Libertés, no 130363).
