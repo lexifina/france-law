@@ -1,0 +1,9 @@
+# Réponse à la question n° 102308
+
+- Question : [102308](102308.md) — Question n° 102308 — effectifs; perspectives
+
+## Réponse
+
+*JO du 2017-04-18*
+
+Les effectifs de sapeurs-pompiers postés et en astreinte, constituant le potentiel opérationnel journalier (POJ), au sein des centres d'incendie et de secours (CIS) résultent des objectifs de couverture des risques du département définis par le schéma départemental d'analyse et de couverture des risques (SDACR). L'article L. 1424-7 du code général des collectivités territoriales (CGCT) relatif au SDACR prévoit que celui-ci est arrêté par le préfet après avis conforme du conseil d'administration du service départemental d'incendie et de secours (CASDIS), composé d'élus des collectivités locales, financeurs principaux des SDIS. Le niveau de couverture opérationnelle correspondant aux délais d'acheminement des secours sur le lieu d'un sinistre est fonction du maillage territorial des CIS ainsi que des moyens humains et matériels qui leurs sont rattachés. Au nom du principe de libre administration des collectivités territoriales, il appartient au CASDIS de fixer les aspects quantitatifs et qualitatifs de cette couverture, incluant les effectifs de garde et d'astreinte. Si le maintien ou l'augmentation des effectifs de sapeurs-pompiers professionnels (SPP) relève exclusivement d'une décision du CASDIS, la politique d'engagement et de fidélisation du volontariat est le fruit d'actions partagées entre l'échelon local et l'État qui se positionne comme animateur de réseaux. La préservation de notre modèle de sécurité civile, reposant majoritairement sur les sapeurs-pompiers volontaires (SPV), est en effet au cœur des considérations du Gouvernement. Il revient cependant in fine aux SDIS de décliner localement ces directives pour assurer une complémentarité des SPP et SPV en vue d'une optimisation des effectifs.
