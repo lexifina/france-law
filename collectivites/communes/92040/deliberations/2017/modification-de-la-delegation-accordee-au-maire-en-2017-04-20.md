@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification de la délégation accordée au Maire en application de l’article L. 2122-22 du Code général des collectivités territoriales
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : ADMINISTRATION GENERALE
+- Objet : Modification de la délégation accordée au Maire en application de l’article L. 2122-22 du Code général des collectivités territoriales
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMTUsInB1ciI6ImJsb2JfaWQifX0=--37238ed7ce5513c70875c7a24adc17227da78378/200417_1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
