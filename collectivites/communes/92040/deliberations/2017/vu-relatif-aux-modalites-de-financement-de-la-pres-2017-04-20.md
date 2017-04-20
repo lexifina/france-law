@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Vœu relatif aux modalités de financement de la Prestation de Service Unique et à la qualité de l’accueil dans les structures de la petite enfance
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : PETITE ENFANCE
+- Objet : Vœu relatif aux modalités de financement de la Prestation de Service Unique et à la qualité de l’accueil dans les structures de la petite enfance
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4ODMsInB1ciI6ImJsb2JfaWQifX0=--bd0944fd0dd5017ae8713ad111314483d51b473b/200417_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
