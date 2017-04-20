@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Avis sur le taux mensuel de base de l’Indemnité Représentative de Logement allouée aux instituteurs non logés pour l’année 2016
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : RESSOURCES HUMAINES
+- Objet : Avis sur le taux mensuel de base de l’Indemnité Représentative de Logement allouée aux instituteurs non logés pour l’année 2016
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3OTQsInB1ciI6ImJsb2JfaWQifX0=--7edc6197e3313bd337d22fc1deb8455267fcd399/200417_3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
