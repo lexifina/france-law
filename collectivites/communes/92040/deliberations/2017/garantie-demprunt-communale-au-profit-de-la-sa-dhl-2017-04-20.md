@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Garantie d’emprunt communale au profit de la SA d’HLM NOVIGERE pour la réhabilitation de 168 logements sis 17 rue du Capitaine Ferber à Issy-les-Moulineaux – Renégociation du contrat de prêt
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : FINANCES
+- Objet : Garantie d’emprunt communale au profit de la SA d’HLM NOVIGERE pour la réhabilitation de 168 logements sis 17 rue du Capitaine Ferber à Issy-les-Moulineaux – Renégociation du contrat de prêt
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4ODEsInB1ciI6ImJsb2JfaWQifX0=--be78ddd2639dfa04f5a7dd3c2bb1711f04cbf6ba/200417_8.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
