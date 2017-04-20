@@ -1,0 +1,115 @@
+# CIRCULAIRE  du Premier ministre relative aux parcs nationaux et aux parcs naturels régionaux.
+
+- État : abrogée (au 2017-04-20)
+- NOR : BODEF25839
+- Numéro : BODEF25839
+- Date de signature : 1979-09-12
+- Mise en ligne : 2009-04-30
+- Signataire : Raymond BARRE.  Raymond BARRE.  Raymond BARRE.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Services immobiliers et travaux.Environnement. Urbanisme. Aménagement du territoire.TITRE PREMIER. ENVIRONNEMENT.NiveauTitre
+- Publication JO / BO : BOC, 1980, p. 2602.
+- Annexes : 0
+- Identifiant : 13431 (PDF officiel : pdf/2009/04/cir_13431.pdf)
+
+## Résumé
+
+Les nouvelles dispositions de reclassement ne visent pas les agents intégrés au titre des mesures spéciales fixées par le  décret 71-342 du 29 avril 1971  (6) pour lesquels des dispositions ont été prises par ailleurs.  Les nouvelles dispositions de reclassement ne visent pas les agents intégrés au titre des mesures spéciales fixées par le  décret 71-342 du 29 avril 1971  (6) pour lesquels des dispositions ont été prises par ailleurs.  Les nouvelles dispositions de reclassement ne visent pas les agents intégrés au titre des mesures spéciales fixées par le   décret 71-342 du 29 avril 1971    décret 71-342 du 29 avril 1971     (6)  (6)   pour lesquels des dispositions ont été prises par ailleurs.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+CIRCULAIRE
+du Premier ministre relative aux parcs nationaux et aux parcs naturels régionaux.
+Du 12 septembre 1979
+
+CIRCULAIRE du Premier ministre relative aux parcs nationaux et aux parcs naturels régionaux.
+Du 12 septembre 1979
+Classement dans l'édition méthodique : BOEM 503.1.2.
+Référence de publication : BOC, 1980, p. 2602.
+LE PREMIER MINISTRE,
+à MM. et Mmes les ministres et secrétaires d'État.
+Les parcs nationaux et les parcs naturels régionaux sont les moyens privilégiés d'une politique d'aménagement
+du territoire national qui recherche la préservation des espaces fragiles et leur insertion dans l'économie
+locale.
+Différents dans leur esprit, les deux types de parcs ont en commun certaines caractéristiques, au premier rang
+desquelles se trouve la nécessité pour l'État de mener dans chaque parc une action conforme aux objectifs qui
+ont été fixés, avec son accord, lors de sa création.
+Il s'agit en effet de zones dans lesquelles le patrimoine naturel présente un intérêt exceptionnel et l'attention
+particulière que leur porte l'État doit soutenir l'effort de préservation des collectivités locales et des
+responsables de parcs.
+Dans leur action quotidienne, les administrations de l'État et les organismes publics comme Électricité de
+France sont donc tenus de respecter les contraintes qu'impose l'existence de ces parcs en matière de protection
+des sites et des paysages.
+Cette règle générale posée, il me paraît important de vous rappeler les principes essentiels de la politique des
+parcs nationaux et régionaux.
+I. LES PARCS NATIONAUX
+Ils ont pour objectif prioritaire la protection et la gestion de richesses naturelles exceptionnelles ainsi que
+l'initiation du public à la découverte et au respect du patrimoine naturel. Il convient de confirmer aujourd'hui
+les principales orientations d'une politique définie dès 1960 et dont le succès apparaît certain.
+Il me paraît indispensable que les services de l'État, sans exception, respectant, y compris dans leurs
+conséquences financières, les contraintes qui proviennent, sur le territoire des parcs, des règles édictées dans
+le cadre de leurs compétences par les établissements publics. Le caractère exemplaire de l'action entreprise par
+l'État dans les parcs doit être affirmé sans ambiguïté.
+Pour améliorer la cohérence de ces interventions, il est par ailleurs souhaitable que les responsables locaux
+des biens qui font partie du domaine de l'État maintiennent une liaison régulière avec les directeurs de parcs.
+Les établissements publics pourraient même se voir confier, par convention, la gestion technique de ces
+territoires.
+L'effort financier fait par l'État pour l'aménagement des zones périphériques est important. Aussi convient-il
+d'en améliorer l'efficacité et de mieux coordonner les actions de protection menées dans la zone centrale avec
+les actions de développement entreprises dans les zones périphériques. A cet égard il importe que la liaison
+avec le directeur du parc pour la préparation, comme le suivi du programme d'aménagement de la zone
+périphérique, soit étroitement assurée.
+
+L'État maintiendra son effort financier. Les programmes d'aménagement des zones périphériques pourront
+bénéficier du concours du fonds interministériel de développement et d'aménagement rural et de la
+participation du ministère de l'environnement et du cadre de vie lorsqu'ils s'inscrivent dans la politique de
+développement et d'aménagement des zones rurales fragiles.
+Enfin, la vocation scientifique des parcs nationaux français sera affirmée et renforcée. Une évaluation de la
+valeur patrimoniale des parcs nationaux sera entreprise parallèlement aux travaux d'évaluation de la valeur
+patrimoniale lancés dans d'autres domaines. Il est également souhaitable que les organismes de recherche et
+d'étude apportent leur concours aux travaux de leur compétence qui ont été engagés sur le territoire des parcs.
+II. LES PARCS NATURELS RÉGIONAUX
+Lancée en 1967, la politique des parcs naturels régionaux est entrée dans les faits. Vingt et un parcs
+recouvrent actuellement une superficie de 2 483 000 hectares, soit 4,5 % du territoire national pour une
+population de 846 000 habitants.
+Il s'agit sur un vaste territoire :
+- de préserver et de mettre en valeur un patrimoine naturel et culturel ;
+- de favoriser une activité économique et sociale suffisante pour que ses habitants puissent rester au
+pays ;
+- d'accueillir des visiteurs pour des activités de détente et d'initiation à la nature.
+L'État doit donc apporter son soutien aux parcs naturels régionaux en leur permettant de jouer pleinement leur
+rôle.
+A cet effet, il convient de donner un caractère prioritaire aux programmes d'action qui doivent être mis en
+œuvre dans les parcs, et notamment à ceux qui participent au maintien, à un niveau suffisant, des services
+publics et de l'équipement social ainsi qu'au soutien du développement économique. Le comité
+interministériel pour la qualité de la vie pourra, le cas échéant, être saisi par le ministre de l'environnement et
+du cadre de vie et arrêtera les moyens de parvenir aux objectifs fixés.
+Mais la réussite des parcs repose avant tout sur la cohérence de l'action des administrations dans l'application
+des chartes. Aussi, les administrations régionales et départementales s'attacheront :
+1. A consulter les autorités du parc sur tous les projets de travaux susceptibles de porter atteinte à
+l'environnement ;
+2. A les associer à l'élaboration des documents d'aménagement et d'urbanisme ainsi qu'à toutes les
+opérations touchant à la qualité du patrimoine architectural ou culturel ;
+3. A promouvoir les actions éducatives et pédagogiques qui permettent une meilleure connaissance du
+patrimoine ;
+4. A choisir, dans la mesure du possible, le territoire du parc pour la réalisation d'opérations
+exemplaires de développement, d'aménagement ou d'amélioration du cadre de vie lorsqu'elles
+comportent par leur caractère démonstratif des effets d'entraînement et quelle que soit leur source de
+financement (FIDAR ou budgets traditionnels des ministères).
+Les préfets de région rendront compte, chaque année, des actions menées dans les parcs ainsi que des
+difficultés que l'application des chartes ferait apparaître et qui ne peuvent être résolues au plan local. Le
+ministre chargé de l'environnement et du cadre de vie pourra soumettre ces questions à la commission
+interministérielle des parcs naturels régionaux qui sera chargée de rechercher, avec le concours des
+administrations concernées, les solutions appropriées.
+
+Je vous demande de préparer en concertation avec le ministre de l'environnement et du cadre de vie, chargé de
+la tutelle des parcs, toutes instructions utiles à vos services régionaux et départementaux pour assurer la mise
+en œuvre de ces directives.
+Je vous rappelle, enfin, que la programmation des crédits déconcentrés de l'État doit être faite sans tenir
+compte des moyens exceptionnels affectés aux zones des parcs.
+Raymond BARRE.
