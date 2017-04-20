@@ -2,9 +2,7 @@
 
 PRESCRIPTIONS APPLICABLES POUR LES RÉCEPTIONS NATIONALES PAR TYPE DE PETITES SÉRIES
 
-DOMAINE RÉGLEMENTÉ
-
-|
+DOMAINE RÉGLEMENTÉ |
 
 RÉFÉRENCE
 
@@ -12,211 +10,73 @@ réglementaire
 
 |
 
-APPLICABILITÉ
+APPLICABILITÉ |
 
-|
-
-M1
-
-|
-
-M2
-
-|
-
-M3
-
-|
-
-N1
-
-|
-
-N2
-
-|
-
-N3
-
-|
-
-O1
-
-|
-
-O2
-
-|
-
-O3
-
-|
-
-O4
-
-|
-
-1
-
-|
-
-Niveaux sonores
-
-|
-
-Arrêté du 13 avril 1972
-
-|
-
-A
-
-|
-
-A
-
-|
-
-A
-
-|
-
-A
-
-|
-
-A
-
-|
-
-A
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-Emissions
+M1 |
 
-|
-
-Arrêté du 2 juin 1999
-
-|
-
-A (5)
-
-|
-
-A (5)
-
-|
-
-A (5)
-
-|
-
-A (5)
-
-|
-
-A (5)
+M2 |
 
-|
-
-A (5)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2A
+M3 |
 
-|
-
-Emissions des véhicules utilitaires légers (Euro 5 et Euro 6), émissions de CO2, consommation de carburant et puissance
+N1 |
 
-|
+N2 |
 
-Règlement (CE) N° 715/2007 et règlement (CE) N° 692/2008
+N3 |
 
-|
+O1 |
 
-A (5)
+O2 |
 
-|
+O3 |
 
-A (5)
+O4 |
 
-|
+1 |
 
-|
+Niveaux sonores |
 
-A (5)
+Arrêté du 13 avril 1972 |
 
-|
+A |
 
-A (5)
+A |
 
-|
+A |
 
-|
+A |
 
-|
+A |
 
-|
+A |
 
 |
 
 |
 
-3A
-
 |
-
-Réservoirs de carburant hors GPL et GNV
 
 |
 
-Arrêté du 24 octobre 1994
+2A |
 
-|
+Emissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6), émissions de CO2, consommation de carburant et puissance |
 
-B (1)
+Règlement (CE) n° 715/2007 et règlement (CE) n° 692/2008 |
 
-|
+A (5) |
 
-X (1)
+A (5) |
 
 |
 
-X (1)
-
-|
+A (5) |
 
-B (1)
+A (5) |
 
 |
 
-X (1)
-
 |
-
-X (1)
 
 |
 
@@ -224,51 +84,45 @@ X (1)
 
 |
 
-|
+3A |
 
-|
+Réservoirs de carburant hors GPL et GNV |
 
-B (2)
+Arrêté du 24 octobre 1994 |
 
-|
+B (1) |
 
-A (2)
+X (1) |
 
-|
+X (1) |
 
-A (2)
+B (1) |
 
-|
+X (1) |
 
-B (2)
+X (1) |
 
 |
 
-A (2)
-
 |
-
-A (2)
 
 |
 
 |
 
-|
+B (2) |
 
-|
+A (2) |
 
-|
+A (2) |
 
-3B
+B (2) |
 
-|
+A (2) |
 
-Dispositifs de protection arrière
+A (2) |
 
 |
-
-Articles 10-1 à 10-3 ter de l'arrêté du 19 décembre 1958
 
 |
 
@@ -276,45 +130,39 @@ Articles 10-1 à 10-3 ter de l'arrêté du 19 décembre 1958
 
 |
 
-|
+3B |
 
-|
+Dispositifs de protection arrière |
 
-X (1)
+Articles 10-1 à 10-3 ter de l'arrêté du 19 décembre 1958 |
 
 |
 
-X (1)
-
 |
 
 |
 
 |
-
-X (1)
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
 |
-
-C (2)
 
 |
 
-B (2)
+X (1) |
 
-|
+X (1) |
 
-B (2)
+C (2) |
 
-|
+B (2) |
 
-C (2)
+B (2) |
 
-|
+C (2) |
 
 A ou B
 
@@ -328,85 +176,45 @@ A ou B
 
 |
 
-B (2)
+B (2) |
 
-|
+B (2) |
 
-B (2)
+A ou B (8) |
 
-|
+A ou B (8) |
 
-A ou B (8)
+4 |
 
-|
+Plaque d'immatriculation arrière |
 
-A ou B (8)
+Arrêté du 4 mai 2009 |
 
-|
+B |
 
-4
+B |
 
-|
+B |
 
-Plaque d'immatriculation arrière
+B |
 
-|
+B |
 
-Arrêté du 4 mai 2009
+B |
 
-|
+B |
 
-B
+B |
 
-|
+B |
 
-B
+B |
 
-|
+5 |
 
-B
+Dispositifs de direction |
 
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-5
-
-|
-
-Dispositifs de direction
-
-|
-
-Arrêté du 4 mai 2009
-
-|
+Arrêté du 4 mai 2009 |
 
 A ou B
 
@@ -414,13 +222,9 @@ A ou B
 
 |
 
-A
+A |
 
-|
-
-A
-
-|
+A |
 
 A ou B
 
@@ -428,139 +232,35 @@ A ou B
 
 |
 
-A
+A |
 
-|
-
-A
-
-|
-
-A (6)
-
-|
-
-A (6)
-
-|
-
-A (6)
-
-|
-
-A (6)
-
-|
-
-6
-
-|
-
-Poignées et charnières de porte
-
-|
-
-Article 17 de l'arrêté du 19 décembre 1958
-
-|
-
-C
-
-|
-
-|
-
-|
-
-C
-
-|
-
-C
-
-|
-
-C
-
-|
-
-|
-
-|
-
-|
-
-|
-
-6A
-
-|
-
-Accès au véhicule et manœuvrabilité (marches, marchepieds et poignées)
-
-|
-
-Article 17 de l'arrêté du 19 décembre 1958
-
-|
-
-D
-
-|
-
-|
-
-|
-
-D
-
-|
-
-D
-
-|
-
-D
-
-|
-
-|
+A |
 
-|
-
-|
-
-|
-
-6B
+A (6) |
 
-|
+A (6) |
 
-Serrures et organes de fixation des portes
-
-|
+A (6) |
 
-Article 17 de l'arrêté du 19 décembre 1958
+A (6) |
 
-|
+6 |
 
-C (19)
+Poignées et charnières de porte |
 
-|
+Article 17 de l'arrêté du 19 décembre 1958 |
 
-|
+C |
 
 |
 
-C (19)
-
 |
 
-|
+C |
 
-|
+C |
 
-|
+C |
 
 |
 
@@ -568,151 +268,123 @@ C (19)
 
 |
 
-7
-
 |
 
-Avertisseur acoustique
-
-|
+6A |
 
-Arrêté du 14 janvier 1958
+Accès au véhicule et manœuvrabilité (marches, marchepieds et poignées) |
 
-|
+Article 17 de l'arrêté du 19 décembre 1958 |
 
-X (1)
+D |
 
 |
-
-X (1)
 
 |
 
-X (1)
+D |
 
-|
+D |
 
-X (1)
+D |
 
 |
-
-X (1)
 
 |
 
-X (1)
-
 |
 
 |
 
-|
+6B |
 
-|
+Serrures et organes de fixation des portes |
 
-|
+Article 17 de l'arrêté du 19 décembre 1958 |
 
-B (2)
+C (19) |
 
 |
-
-B (2)
 
 |
 
-B (2)
+C (19) |
 
 |
 
-B (2)
-
 |
-
-B (2)
 
 |
 
-B (2)
-
 |
 
 |
 
 |
 
-|
+7 |
 
-|
+Avertisseur acoustique |
 
-8
+Arrêté du 14 janvier 1958 |
 
-|
+X (1) |
 
-Dispositifs de vision indirecte
+X (1) |
 
-|
+X (1) |
 
-Arrêté du 20 novembre 1969
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
 |
 
-X (1)
-
 |
-
-X (1)
 
 |
 
-X (1)
-
 |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-|
+B (2) |
 
-|
+B (2) |
 
 |
 
 |
-
-B (2)
 
 |
 
-A (2)
-
 |
 
-A (2)
+8 |
 
-|
+Dispositifs de vision indirecte |
 
-B (2)
+Arrêté du 20 novembre 1969 |
 
-|
+X (1) |
 
-A (2)
+X (1) |
 
-|
+X (1) |
 
-A (2)
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) |
 
 |
 
@@ -720,61 +392,53 @@ A (2)
 
 |
 
-9A
-
 |
 
-Freinage des véhicules et de leurs remorques
+B (2) |
 
-|
+A (2) |
 
-Arrêté du 18 août 1955
+A (2) |
 
-|
+B (2) |
 
-|
+A (2) |
 
-A
+A (2) |
 
 |
 
-A
-
 |
 
-A (10)
-
 |
-
-A
 
 |
 
-A
+9A |
 
-|
+Freinage des véhicules et de leurs remorques |
 
-A (1) (7)
+Arrêté du 18 août 1955 |
 
 |
 
-A (1) (7)
+A |
 
-|
+A |
 
-A
+A (10) |
 
-|
+A |
 
-A
+A |
 
-|
+A (1) (7) |
 
-|
+A (1) (7) |
 
-|
+A |
 
-|
+A |
 
 |
 
@@ -782,43 +446,33 @@ A
 
 |
 
-B (2) (11)
-
 |
-
-B (2) (11)
 
 |
 
 |
 
-|
+B (2) (11) |
 
-9B
+B (2) (11) |
 
 |
-
-Freinage des voitures particulières (R13-H)
 
 |
 
-Arrêté du 18 août 1955
+9B |
 
-|
+Freinage des voitures particulières (R13-H) |
 
-A (10)
-
-|
+Arrêté du 18 août 1955 |
 
-|
+A (10) |
 
 |
-
-A (10)
 
 |
 
-|
+A (10) |
 
 |
 
@@ -830,13 +484,11 @@ A (10)
 
 |
 
-10.1
-
 |
 
-Suppression des parasites radioélectriques
+10.1 |
 
-|
+Suppression des parasites radioélectriques |
 
 Arrêté du 4 mai 2009
 
@@ -844,154 +496,60 @@ Règlement (CE) n° 661/2009
 
 |
 
-X (1)
+X (1) |
 
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-B (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-B (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-12
+X (1) |
 
-|
-
-Aménagement intérieur
-
-|
-
-Articles 11 et 12 à 16 et 18 de l'arrêté du 19 décembre 1958
-
-|
+X (1) |
 
-C
+X (1) |
 
-|
-
-|
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) |
 
-|
+B (2) |
 
-|
+A (2) |
 
-|
+A (2) |
 
-13
+B (2) |
 
-|
+A (2) |
 
-Antivol
+A (2) |
 
-|
+A (2) |
 
-Arrêté du 4 mai 2009
+A (2) |
 
-|
+A (2) |
 
-X (1)
+A (2) |
 
-|
+12 |
 
-X (1) (15)
+Aménagement intérieur |
 
-|
+Articles 11 et 12 à 16 et 18 de l'arrêté du 19 décembre 1958 |
 
-X (1) (15)
+C |
 
 |
 
-X (1)
-
 |
-
-X (1) (15)
 
 |
 
-X (1) (15)
-
 |
 
 |
@@ -1001,28 +559,26 @@ X (1) (15)
 |
 
 |
-
-A (2)
 
 |
 
-A (2)
+13 |
 
-|
+Antivol |
 
-A (2)
+Arrêté du 4 mai 2009 |
 
-|
+X (1) |
 
-A (2)
+X (1) (15) |
 
-|
+X (1) (15) |
 
-A (2)
+X (1) |
 
-|
+X (1) (15) |
 
-A (2)
+X (1) (15) |
 
 |
 
@@ -1032,105 +588,85 @@ A (2)
 
 |
 
-|
+A (2) |
 
-14.
+A (2) |
 
-|
+A (2) |
 
-Comportement du dispositif de conduite en cas de choc
+A (2) |
 
-|
+A (2) |
 
-Arrêté du 5 février 1969
+A (2) |
 
 |
 
-C
-
 |
 
 |
 
 |
 
-C
+14. |
 
-|
+Comportement du dispositif de conduite en cas de choc |
 
-|
+Arrêté du 5 février 1969 |
 
-|
+C |
 
 |
 
 |
 
-|
+C |
 
 |
-
-15.
 
 |
 
-Résistance des sièges
-
 |
-
-Arrêté du 5 décembre 1996
 
 |
 
-B (19)
-
 |
-
-A
 
 |
 
-A
+15. |
 
-|
+Résistance des sièges |
 
-B (19)
-
-|
+Arrêté du 5 décembre 1996 |
 
-A
+B (19) |
 
-|
+A |
 
-A
+A |
 
-|
+B (19) |
 
-|
+A |
 
-|
+A |
 
 |
 
 |
 
-16.
-
 |
-
-Saillies extérieures
 
 |
 
-Article 10bis de l'arrêté du 19 décembre 1958
-
-|
+16. |
 
-B
+Saillies extérieures |
 
-|
+Article 10bis de l'arrêté du 19 décembre 1958 |
 
-|
+B |
 
 |
 
@@ -1148,13 +684,11 @@ B
 
 |
 
-17.1
-
 |
 
-Appareil indicateur de vitesse y compris son installation
+17.1 |
 
-|
+Appareil indicateur de vitesse y compris son installation |
 
 Règlement (CE) n° 661/2009
 
@@ -1162,787 +696,427 @@ règlement 39 de la CEE-ONU
 
 |
 
-B
+B |
 
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-|
-
-|
-
-|
-
-|
-
-17.2
-
-|
-
-Marche arrière
-
-|
-
-Article R. 316-5 du code de la route
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-|
-
-|
-
-|
-
-|
-
-18
-
-|
-
-Plaques réglementaires
-
-|
-
-Arrêté du 24 novembre 1978
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-19
-
-|
-
-Points d'ancrage des ceintures de sécurité
-
-|
-
-Arrêté du 5 décembre 1996
-
-|
-
-B (19)
-
-|
-
-A
-
-|
-
-A
-
-|
-
-B (19)
-
-|
-
-A
-
-|
-
-A
-
-|
-
-|
-
-|
-
-|
-
-|
-
-20
-
-|
-
-Installation des dispositifs d'éclairage/signalisation
-
-|
-
-Arrêté du 16 juillet 1954
-
-|
-
-B (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-B (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-A (3)
-
-|
-
-21
-
-|
-
-Catadioptres
-
-|
-
-Arrêté du 16 juillet 1954
-
-|
+B |
 
-X
+B |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-22
-
-|
-
-Feux d'encombrement, feux de position arrière / avant / latéraux, feux stop, feux d'éclairage de jour
-
-|
-
-Arrêté du 16 juillet 1954
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
+B |
 
-|
+B |
 
-X
+B |
 
 |
-
-X
 
 |
 
-X
-
 |
 
-23
-
 |
 
-Feux indicateurs de direction
+17.2 |
 
-|
+Marche arrière |
 
-Arrêté du 16 juillet 1954
+Article R. 316-5 du code de la route |
 
-|
+B |
 
-X
+B |
 
-|
+B |
 
-X
+B |
 
-|
+B |
 
-X
+B |
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+18 |
 
-|
-
-X
+Plaques réglementaires |
 
-|
+Arrêté du 24 novembre 1978 |
 
-X
+B |
 
-|
+B |
 
-X
+B |
 
-|
+B |
 
-24
+B |
 
-|
+B |
 
-Dispositifs d'éclairage de la plaque d'immatriculation
+B |
 
-|
+B |
 
-Arrêté du 16 juillet 1954
+B |
 
-|
+B |
 
-X
+19 |
 
-|
+Points d'ancrage des ceintures de sécurité |
 
-X
+Arrêté du 5 décembre 1996 |
 
-|
+B (19) |
 
-X
+A |
 
-|
+A |
 
-X
+B (19) |
 
-|
+A |
 
-X
+A |
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
 
-X
-
-|
+20 |
 
-X
+Installation des dispositifs d'éclairage/signalisation |
 
-|
+Arrêté du 16 juillet 1954 |
 
-25
+B |
 
-|
+A |
 
-Projecteurs (y compris lampes)
+A |
 
-|
+B |
 
-Arrêté du 16 juillet 1954
+A |
 
-|
+A |
 
-X
+A |
 
-|
+A |
 
-X
+A |
 
-|
+A |
 
-X
+21 |
 
-|
+Catadioptres |
 
-X
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-26
+X |
 
-|
+22 |
 
-Feux de brouillard (avant)
+Feux d'encombrement, feux de position arrière / avant / latéraux, feux stop, feux d'éclairage de jour |
 
-|
+Arrêté du 16 juillet 1954 |
 
-Arrêté du 16 juillet 1954
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+23 |
 
-|
+Feux indicateurs de direction |
 
-X
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-27
+X |
 
-|
+X |
 
-Dispositifs de remorquage
+X |
 
-|
+X |
 
-Arrêté du 4 mai 2009
+X |
 
-|
+24 |
 
-B
+Dispositifs d'éclairage de la plaque d'immatriculation |
 
-|
+Arrêté du 16 juillet 1954 |
 
-B
+X |
 
-|
+X |
 
-B
+X |
 
-|
+X |
 
-B
+X |
 
-|
+X |
 
-B
+X |
 
-|
+X |
 
-B
+X |
 
-|
+X |
 
-|
+25 |
 
-|
+Projecteurs (y compris lampes) |
 
-|
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-28
+X |
 
-|
+X |
 
-Feux de brouillard (arrière)
+X |
 
-|
+X |
 
-Arrêté du 16 juillet 1954
+X |
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+26 |
 
-|
+Feux de brouillard (avant) |
 
-X
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
 
-X
-
 |
-
-X
 
 |
 
-29
-
 |
 
-Feux de marche arrière
+27 |
 
-|
+Dispositifs de remorquage |
 
-Arrêté du 16 juillet 1954
+Arrêté du 4 mai 2009 |
 
-|
+B |
 
-X
+B |
 
-|
+B |
 
-X
+B |
 
-|
+B |
 
-X
+B |
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+28 |
 
-|
+Feux de brouillard (arrière) |
 
-X
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-30
+X |
 
-|
+X |
 
-Feux de stationnement
+X |
 
-|
+X |
 
-Arrêté du 16 juillet 1954
+X |
 
-|
+29 |
 
-X
+Feux de marche arrière |
 
-|
+Arrêté du 16 juillet 1954 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+30 |
 
-|
+Feux de stationnement |
 
-|
+Arrêté du 16 juillet 1954 |
 
-|
+X |
 
-31
+X |
 
-|
+X |
 
-Ceintures de sécurité
+X |
 
-|
+X |
 
-Arrêté du 5 décembre 1996
+X |
 
 |
-
-X (1) (19)
 
 |
 
-X (1)
-
 |
 
-X (1)
-
 |
 
-X (1) (19)
+31 |
 
-|
+Ceintures de sécurité |
 
-X (1)
+Arrêté du 5 décembre 1996 |
 
-|
+X (1) (19) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-|
+X (1) (19) |
 
-|
+X (1) |
 
-|
+X (1) |
 
 |
-
-B (2)
 
 |
 
-A (2)
-
 |
 
-A (2)
-
 |
-
-B (2)
 
-|
+B (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+B (2) |
 
-|
+A (2) |
 
-|
+A (2) |
 
 |
 
@@ -1950,13 +1124,11 @@ A (2)
 
 |
 
-32
-
 |
 
-Champ de vision avant
+32 |
 
-|
+Champ de vision avant |
 
 Article R. 316-1 du code de la route
 
@@ -1964,7 +1136,7 @@ Règlement (CE) n° 661/2009
 
 |
 
-A
+A |
 
 |
 
@@ -1984,41 +1156,23 @@ A
 
 |
 
-|
+33 |
 
-33
+Identification des commandes |
 
-|
+Article 18-5 de l'arrêté du 19 décembre 1958 |
 
-Identification des commandes
+B |
 
-|
+B |
 
-Article 18-5 de l'arrêté du 19 décembre 1958
+B |
 
-|
+B |
 
-B
+B |
 
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
+B |
 
 |
 
@@ -2028,15 +1182,9 @@ B
 
 |
 
-|
+34 |
 
-34
-
-|
-
-Dispositifs de dégivrage et de désembuage
-
-|
+Dispositifs de dégivrage et de désembuage |
 
 Article R. 316-1 du code de la route
 
@@ -2044,73 +1192,17 @@ Règlement n° 672/2010/UE
 
 |
 
-D (12)
+D (12) |
 
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-35
-
-|
-
-Essuie-glaces et lave-glaces
-
-|
-
-Article R. 316-4 du code de la route Règlement n° 1008/2010/UE
-
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
+D (12) |
 
-D (12)
+D (12) |
 
-|
-
-D (12)
-
-|
-
-D (12)
-
-|
+D (12) |
 
-D (12)
+D (12) |
 
-|
+D (12) |
 
 |
 
@@ -2120,112 +1212,96 @@ D (12)
 
 |
 
-36
+35 |
 
-|
+Essuie-glaces et lave-glaces |
 
-Chauffage de l'habitacle
+Article R. 316-4 du code de la route Règlement n° 1008/2010/UE |
 
-|
+D (12) |
 
-Article 11-1 de l'arrêté du 19 décembre 1958
+D (12) |
 
-|
+D (12) |
 
-X (1)
+D (12) |
 
-|
+D (12) |
 
-X (1)
+D (12) |
 
 |
 
-X (1)
-
 |
-
-X (1)
 
 |
 
-X (1)
-
 |
 
-X (1)
+36 |
 
-|
+Chauffage de l'habitacle |
 
-X (1)
+Article 11-1 de l'arrêté du 19 décembre 1958 |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-C (2)
+X (1) |
 
-|
+X (1) |
 
-A (2)
+X (1) |
 
-|
+C (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-C (2)
+C (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+37 |
 
-A (2)
+Recouvrement des roues |
 
-|
+Arrêté du 4 mai 2009 |
 
-A (2)
+B |
 
 |
 
-A (2)
-
 |
-
-37
 
 |
 
-Recouvrement des roues
-
 |
-
-Arrêté du 4 mai 2009
 
 |
 
-B
-
 |
 
 |
@@ -2234,31 +1310,23 @@ B
 
 |
 
-|
+38 |
 
-|
+Appuis-tête |
 
-|
+Règlement (CE) n° 661/2009 |
 
-|
+C |
 
 |
 
 |
 
-38
-
 |
-
-Appuis-tête
 
 |
 
-Règlement (CE) n° 661/2009
-
 |
-
-C
 
 |
 
@@ -2268,75 +1336,63 @@ C
 
 |
 
-|
+40 |
 
-|
+Puissance du moteur |
 
-|
+Arrêté du 30 juillet 1997 |
 
-|
+A (21) |
 
-|
+A (21) |
 
-|
+A |
 
-41
+A (21) |
 
-|
+A (21) |
 
-Emissions des véhicules utilitaires lourds (Euro VI)/puissance et accès aux informations
+A |
 
 |
 
-Règlement 595/2009/UE
-
 |
-
-A (5)
 
 |
 
-A (5)
-
 |
-
-A (5)
 
-|
+41 |
 
-A (5)
+Emissions des véhicules utilitaires lourds (Euro VI)/puissance et accès aux informations |
 
-|
+Règlement 595/2009/UE |
 
-A (5)
+A (5) |
 
-|
+A (5) |
 
-A (5)
+A (5) |
 
-|
+A (5) |
 
-|
+A (5) |
 
-|
+A (5) |
 
 |
 
 |
-
-42
 
 |
 
-Protection latérale
-
 |
 
-Articles 10-7 à 10-9 de l'arrêté du 19 décembre 1958
+42 |
 
-|
+Protection latérale |
 
-|
+Articles 10-7 à 10-9 de l'arrêté du 19 décembre 1958 |
 
 |
 
@@ -2344,25 +1400,19 @@ Articles 10-7 à 10-9 de l'arrêté du 19 décembre 1958
 
 |
 
-X (1)
-
 |
-
-X (1)
 
-|
+X (1) |
 
-|
+X (1) |
 
 |
 
-X (1)
-
 |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
 |
 
@@ -2400,15 +1450,11 @@ A ou B
 
 |
 
-43
+43 |
 
-|
+Systèmes antiprojections |
 
-Systèmes antiprojections
-
-|
-
-Arrêté du 18 septembre 1992
+Arrêté du 18 septembre 1992 |
 
 |
 
@@ -2418,25 +1464,17 @@ Arrêté du 18 septembre 1992
 
 |
 
-|
+X (1) (13) |
 
-X (1) (13)
-
-|
-
-X (1)
+X (1) |
 
 |
 
 |
 
-|
+X (1) |
 
-X (1)
-
-|
-
-X (1)
+X (1) |
 
 |
 
@@ -2444,43 +1482,23 @@ X (1)
 
 |
 
-|
+B (2) |
 
-B (2)
+B (2) |
 
-|
+B (2) |
 
-B (2)
+B (2) |
 
-|
+B (2) |
 
-B (2)
+B (2) |
 
-|
+B (2) |
 
-B (2)
+44 |
 
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-44
-
-|
-
-Masses et dimensions (voitures)
-
-|
+Masses et dimensions (voitures) |
 
 Articles R. 312-1 à R. 312-18 du code de la route
 
@@ -2488,7 +1506,7 @@ Règlement UE n° 1230/2012
 
 |
 
-B (4)
+B (4) |
 
 |
 
@@ -2508,107 +1526,55 @@ B (4)
 
 |
 
-|
+45 |
 
-45
+Vitrages de sécurité |
 
-|
+Arrête du 18 octobre 2016 |
 
-Vitrages de sécurité
+X (1) |
 
-|
+X (1) |
 
-Arrête du 20 juin 1983
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+B (2) |
 
-|
+B (2) |
 
-X (1)
+46 |
 
-|
-
-X (1)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-46
-
-|
-
-Pneumatiques
-
-|
+Pneumatiques |
 
 Arrêté du 24 octobre 1994
 
@@ -2616,115 +1582,81 @@ Règlement (CE) n° 661/2009
 
 |
 
-X (1)
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+X (1) |
+
+B (2) |
+
+B (2) |
+
+B (2) |
+
+B (2) (18) |
+
+B (2) (18) |
+
+B (2) (18) |
+
+B (2) |
+
+B (2) |
+
+B (2) |
+
+B (2) |
+
+46E |
+
+Equipement de secours à usage temporaire, pneumatique/ système pour roulage à plat et système de surveillance de la pression des pneumatiques |
+
+Règlement (CE) n° 661/2009
+
+Règlement UNECE n° 64
 
 |
 
 X (1)
 
-|
-
-X (1)
+(15) |
 
 |
 
-X (1)
+|
 
 |
 
-X (1)
+|
 
 |
 
-X (1)
+|
 
 |
 
-X (1)
-
 |
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
 
 |
 
 B (2)
 
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2) (18)
-
-|
-
-B (2) (18)
-
-|
-
-B (2) (18)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-B (2)
-
-|
-
-47
-
-|
-
-Limiteurs de vitesse
-
-|
-
-Arrêté du 25 février 2005
-
-|
-
-|
-
-A
-
-|
-
-A
-
-|
-
-|
-
-A
-
-|
-
-A
+(15) |
 
 |
 
@@ -2736,13 +1668,43 @@ A
 
 |
 
-48
+|
 
 |
 
-Masses et dimensions (autre que les véhicules du point 44)
+|
 
 |
+
+47 |
+
+Limiteurs de vitesse |
+
+Arrêté du 25 février 2005 |
+
+|
+
+A |
+
+A |
+
+|
+
+A |
+
+A |
+
+|
+
+|
+
+|
+
+|
+
+48 |
+
+Masses et dimensions (autre que les véhicules du point 44) |
 
 Articles R. 312-1 à R. 312-18 du code de la route Arrêté du 25 juin 1997 Arrêté du 20 novembre 1997
 
@@ -2752,226 +1714,114 @@ Règlement UE n° 1230/2012
 
 |
 
-B (4)
+B (4) |
 
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-B (4)
-
-|
-
-49
-
-|
-
-Saillies extérieures des cabines
-
-|
-
-Article 10 ter de l'arrêté du 19 décembre 1958
-
-|
-
-|
-
-|
-
-|
-
-B
-
-|
-
-B
-
-|
-
-B
-
-|
-
-|
-
-|
-
-|
-
-|
-
-50
-
-|
-
-Dispositifs d'attelage
-
-|
-
-Arrêté du 26 mars 1999
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
+B (4) |
 
-|
-
-X (1)
-
-|
+B (4) |
 
-X (1)
+B (4) |
 
-|
+B (4) |
 
-X (1)
+B (4) |
 
-|
+B (4) |
 
-X (1)
+B (4) |
 
-|
+B (4) |
 
-X (1)
+49 |
 
-|
+Saillies extérieures des cabines |
 
-X (1)
+Article 10 ter de l'arrêté du 19 décembre 1958 |
 
 |
-
-X (1)
 
 |
 
-B (2)
-
 |
 
-A (2)
+B |
 
-|
+B |
 
-A (2)
+B |
 
 |
 
-B (2)
-
 |
-
-A (2)
 
 |
 
-A (2)
-
 |
 
-B (2)
+50 |
 
-|
+Dispositifs d'attelage |
 
-B (2)
+Arrêté du 26 mars 1999 |
 
-|
+X (1) |
 
-B (2)
+X (1) |
 
-|
+X (1) |
 
-B (2)
+X (1) |
 
-|
+X (1) |
 
-51
+X (1) |
 
-|
+X (1) |
 
-Inflammabilité
+X (1) |
 
-|
+X (1) |
 
-Arrêté du 2 juillet 1982 modifié
+X (1) |
 
-|
+B (2) |
 
-|
+A (2) |
 
-|
+A (2) |
 
-A
+B (2) |
 
-|
+A (2) |
 
-|
+A (2) |
 
-|
+B (2) |
 
-|
+B (2) |
 
-|
+B (2) |
 
-|
+B (2) |
 
-|
+51 |
 
-|
+Inflammabilité |
 
-52
+Arrêté du 2 juillet 1982 modifié |
 
 |
 
-Autocar et autobus
-
 |
 
-Arrêté du 2 juillet 1982 modifié
+A |
 
 |
 
 |
-
-A
 
 |
 
-A
-
 |
 
 |
@@ -2980,33 +1830,25 @@ A
 
 |
 
-|
+52 |
 
-|
+Autocar et autobus |
 
-|
+Arrêté du 2 juillet 1982 modifié |
 
 |
-
-52B
 
-|
+A |
 
-Résistance mécanique de la superstructure des véhicules des catégories M2/M3
+A |
 
 |
-
-Arrêté du 2 juillet 1982 modifié
 
 |
 
 |
 
-A
-
 |
-
-A
 
 |
 
@@ -3014,26 +1856,22 @@ A
 
 |
 
-|
+52B |
 
-|
+Résistance mécanique de la superstructure des véhicules des catégories M2/M3 |
 
-|
+Arrêté du 2 juillet 1982 modifié |
 
 |
 
-|
+A |
 
-53
+A |
 
 |
-
-Collision frontale
 
 |
 
-Sans objet
-
 |
 
 |
@@ -3044,11 +1882,11 @@ Sans objet
 
 |
 
-|
+53 |
 
-|
+Collision frontale |
 
-|
+Sans objet |
 
 |
 
@@ -3056,15 +1894,9 @@ Sans objet
 
 |
 
-54
-
 |
 
-Collision latérale
-
 |
-
-Sans objet
 
 |
 
@@ -3076,27 +1908,21 @@ Sans objet
 
 |
 
-|
+54 |
 
-|
+Collision latérale |
 
-|
+Sans objet |
 
 |
 
 |
 
 |
-
-56
 
 |
 
-Véhicules destinés au transport de marchandises dangereuses
-
 |
-
-Arrêté du 29 mai 2009
 
 |
 
@@ -3106,47 +1932,39 @@ Arrêté du 29 mai 2009
 
 |
 
-A
-
 |
 
-A
+56 |
 
-|
+Véhicules destinés au transport de marchandises dangereuses (22) |
 
-A
+Arrêté du 29 mai 2009 |
 
 |
-
-A
 
 |
 
-A
-
 |
-
-A
 
-|
+A |
 
-A
+A |
 
-|
+A |
 
-57
+A |
 
-|
+A |
 
-Dispositifs de protection contre l'encastrement à l'avant
+A |
 
-|
+A |
 
-Article 10-10 de l'arrêté du 19 décembre 1958
+57 |
 
-|
+Dispositifs de protection contre l'encastrement à l'avant |
 
-|
+Article 10-10 de l'arrêté du 19 décembre 1958 |
 
 |
 
@@ -3154,13 +1972,11 @@ Article 10-10 de l'arrêté du 19 décembre 1958
 
 |
 
-X (1)
-
 |
 
-X (1)
+X (1) |
 
-|
+X (1) |
 
 |
 
@@ -3198,27 +2014,19 @@ A ou B
 
 |
 
-58
+58 |
 
-|
+Protection des piétons |
 
-Protection des piétons
+Règlement (CE) n° 78/2009 |
 
-|
-
-Règlement (CE) n° 78/2009
-
-|
-
-X (16)
+X (16) |
 
 |
 
 |
 
-|
-
-X (16)
+X (16) |
 
 |
 
@@ -3232,17 +2040,11 @@ X (16)
 
 |
 
-|
+59 |
 
-59
+Recyclage |
 
-|
-
-Recyclage
-
-|
-
-Sans objet
+Sans objet |
 
 |
 
@@ -3264,29 +2066,23 @@ Sans objet
 
 |
 
-|
+61 |
 
-61
+Systèmes de climatisation |
 
-|
+Arrêté du 21 décembre 2007
 
-Systèmes de climatisation
-
-|
-
-Arrêté du 21 décembre 2007 Règlement (CE) No 706/2007
+Règlement (CE) n° 706/2007
 
 |
 
-X (1)
+X (1) |
 
 |
 
 |
 
-|
-
-X (1)
+X (1) |
 
 |
 
@@ -3300,17 +2096,13 @@ X (1)
 
 |
 
-|
-
-A (2) (17)
+A (2) (17) |
 
 |
 
 |
 
-|
-
-A (2) (17)
+A (2) (17) |
 
 |
 
@@ -3324,43 +2116,25 @@ A (2) (17)
 
 |
 
-|
+62 |
 
-62
-
-|
-
-Système hydrogène
-
-|
-
-Arrêté du 4 mai 2009
+Système hydrogène |
 
 Règlement (CE) n° 79/2009
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
@@ -3370,93 +2144,49 @@ X
 
 |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+63 |
 
-A (2)
+Règlement général de sécurité |
 
-|
+Règlement (CE) n° 661/2009 |
 
-A (2)
+X (14) |
 
-|
+X (14) |
 
-A (2)
+X (14) |
 
-|
+X (14) |
 
-63
+X (14) |
 
-|
+X (14) |
 
-Règlement général de sécurité
+X (14) |
 
-|
+X (14) |
 
-Règlement (CE) n° 661/2009
+X (14) |
 
-|
+X (14) |
 
-X (14)
+64 |
 
-|
+Indicateur changement de vitesse (GSI) |
 
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-X (14)
-
-|
-
-64
-
-|
-
-Indicateur changement de vitesse (GSI)
-
-|
-
-sans objet
+sans objet |
 
 |
 
@@ -3478,29 +2208,17 @@ sans objet
 
 |
 
-|
+65 |
 
-65
+Système avancé de freinage d'urgence (AEBS) |
 
-|
-
-Système avancé de freinage d'urgence (AEBS)
+Règlement n° 347/2012/UE |
 
 |
 
-Règlement n° 347/2012/UE
+A (2) |
 
-|
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
+A (2) |
 
 |
 
@@ -3524,35 +2242,23 @@ A (2)
 
 |
 
-66
+66 |
+
+Système de détection de dérive de la trajectoire (LDWS) |
+
+Règlement n° 351/2012/UE |
 
 |
 
-Système de détection de dérive de la trajectoire (LDWS)
+A (2) |
+
+A (2) |
 
 |
 
-Règlement n° 351/2012/UE
+A (2) |
 
-|
-
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-|
-
-A (2)
-
-|
-
-A (2)
+A (2) |
 
 |
 
@@ -3562,41 +2268,23 @@ A (2)
 
 |
 
-|
+67 |
 
-67
+Organes spéciaux pour l'alimentation des moteurs GPL et leur installation |
 
-|
+Arrêté du 4 août 1999 |
 
-Organes spéciaux pour l'alimentation des moteurs GPL et leur installation
+X (1) |
 
-|
+X (1) |
 
-Arrêté du 4 août 1999
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
+X (1) |
 
 |
 
@@ -3606,53 +2294,31 @@ X (1)
 
 |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+68 |
 
-A (2)
+Système d'alarme pour véhicule |
 
-|
+Arrêté du 4 mai 2009 |
 
-A (2)
-
-|
-
-A (2)
-
-|
-
-68
-
-|
-
-Système d'alarme pour véhicule
-
-|
-
-Arrêté du 4 mai 2009
-
-|
-
-X (1) (15)
+X (1) (15) |
 
 |
 
 |
 
-|
-
-X (1) (15)
+X (1) (15) |
 
 |
 
@@ -3666,19 +2332,11 @@ X (1) (15)
 
 |
 
-|
+B (2) (15) |
 
-B (2) (15)
+B (2) (15) |
 
-|
-
-B (2) (15)
-
-|
-
-69
-
-|
+69 |
 
 Sécurité électrique
 
@@ -3686,31 +2344,21 @@ Sécurité électrique
 
 Règlement (CE) n° 661/2009
 
-Règlement 100 série 01
+Règlement UNECE n° 100
 
 |
 
-B
+B |
 
-|
+A |
 
-A
+A |
 
-|
+B |
 
-A
+A |
 
-|
-
-B
-
-|
-
-A
-
-|
-
-A
+A |
 
 |
 
@@ -3720,41 +2368,23 @@ A
 
 |
 
-|
+70 |
 
-70
+Organes spéciaux pour l'alimentation des moteurs GNC et leur installation |
 
-|
+Arrêté du 14 janvier 2004 |
 
-Organes spéciaux pour l'alimentation des moteurs GNC et leur installation
+X (1) |
 
-|
+X (1) |
 
-Arrêté du 14 janvier 2004
+X (1) |
 
-|
+X (1) |
 
-X (1)
+X (1) |
 
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
-
-|
-
-X (1)
+X (1) |
 
 |
 
@@ -3764,41 +2394,23 @@ X (1)
 
 |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+A (2) |
 
-A (2)
+A (2) |
 
-|
+71 |
 
-A (2)
+Résistance de la cabine |
 
-|
-
-A (2)
-
-|
-
-A (2)
-
-|
-
-71
-
-|
-
-Résistance de la cabine
-
-|
-
-Règlement (CE) n° 661/2009
+Règlement (CE) n° 661/2009 |
 
 |
 
@@ -3806,19 +2418,11 @@ Règlement (CE) n° 661/2009
 
 |
 
-|
+C |
 
-C
+A |
 
-|
-
-A
-
-|
-
-A
-
-|
+A |
 
 |
 
@@ -3834,15 +2438,15 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (2) Véhicule ou installation.
 
-(3) Niveau A pour les véhicules complets et incomplets réceptionnés selon les dispositions du règlement de Genève n° 48. Niveau B pour les véhicules complétés et complets et incomplets réceptionnés selon les dispositions de l'arrêté du 16 juillet 1954. En ce cas, toute transformation apportée sur ce thème sur un véhicule ayant initialement fait l'objet d'une réception partielle en vertu du règlement de Genève n° 48 sera également validée selon ce même règlement.
+(3) (Supprimé)
 
-(4) Niveau B sauf pour :
+(4) Niveau B sauf pour les trois exceptions suivantes qui requièrent un niveau A (justificatif d'un laboratoire notifié par un Etat membre).
 
-- les essieux relevables ou délestables (annexe IV du règlement 1230/2012/UE) ;
+- les essieux relevables ou délestables (annexe IV du règlement 1230/2012/ UE) ;
 
 - l'équivalence entre les suspensions pneumatiques et non pneumatiques des essieux moteurs des véhicules (annexe III du règlement 1230/2012/UE) ;
 
-- l'attribution du caractère hors route, pour les véhicules non conformes aux paragraphes 4.2a ou 4.3a de la partie A de l'annexe II de la directive 2007/46/CE modifiée pour lesquels un niveau A est requis (justificatif d'un laboratoire notifié par un Etat membre).
+- l'attribution du caractère hors route, pour les véhicules non conformes aux paragraphes 4. 2a ou 4. 3a de la partie A de l'annexe II de la directive 2007/46/CE.
 
 (5) A l'exception de la série complète de prescriptions relatives aux systèmes de diagnostic embarqué (OBD) et aux informations sur la réparation et l'entretien des véhicules
 
@@ -3862,7 +2466,7 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (13) Pour les véhicules de plus de 7,5 T.
 
-(14) A la demande du constructeur, une réception peut être accordée au titre de cette rubrique, en lieu et place de l'obtention de réceptions au titre des rubriques 3A, 4, 5, 6A, 6B, 7, 8, 9, 10.1, 13, 14, 15, 17.1, 17.2, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 ,52B, 56, 57 et 64 à 70.
+(14) Le respect du règlement (CE) n° 661/2009 est obligatoire mais une réception par type n'est pas prévue au titre de cette rubrique car elle recouvre une combinaison des rubriques individuelles 3A, 3B, 4,5, 6A, 6B, 7, 8, 9, 10.1, 13, 14, 15, 17.1, 17.2, 18 à 38, 42 à 52, 52B, 56, 57 et 65 à 71.
 
 (15) Si l'équipement est présent.
 
@@ -3876,7 +2480,11 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (20) La présence ou la fonctionnalité du dispositif n'est pas requise pour les véhicules des catégories N2 ou N3 équipés à l'avant de dispositifs spécifiques afin d'assurer une fonction particulière (par exemple lame de déneigement).
 
-X : la conformité totale à l'acte réglementaire est exigée ; la fiche de réception CE est délivrée ; la conformité de la production est assurée.
+(21) A l'exception des véhicules ayant une conformité à la ligne 2A.
+
+(22) La conformité du type de véhicule aux dispositions du règlement UNECE n° 105 ne couvre que les dispositions du chapitre 9-2 de l'annexe B de l'ADR. La conformité aux chapitres 9-3,9-7 et 9-8 nécessite une réception par type spécifique au titre du règlement ADR.
+
+X : la conformité totale à l'acte réglementaire est exigée ; la fiche de réception CE ou CEE-ONU est délivrée ; la conformité de la production est assurée.
 
 A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais doivent être établis par un service technique notifié par la France. Pour les points 15, 19 et 31, et uniquement dans le cas de réception de véhicules complétés, les rapports d'essais peuvent être établis par un service technique notifié dans un autre Etat membre.
 
