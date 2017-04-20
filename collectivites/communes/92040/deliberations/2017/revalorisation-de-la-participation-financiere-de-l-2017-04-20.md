@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Revalorisation de la participation financière de la Ville au dispositif de prévoyance maintien de salaire destiné aux agents
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : RESSOURCES HUMAINES
+- Objet : Revalorisation de la participation financière de la Ville au dispositif de prévoyance maintien de salaire destiné aux agents
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMTYsInB1ciI6ImJsb2JfaWQifX0=--c36bf604d6153c1551be8903e39e9dd21a5a61fa/200417_4.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
