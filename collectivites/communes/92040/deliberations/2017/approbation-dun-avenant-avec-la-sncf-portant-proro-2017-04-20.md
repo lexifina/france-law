@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant avec la SNCF portant prorogation de la convention d’occupation des arches sous le viaduc du boulevard Garibaldi et autorisant l’occupation des arches n°22 à 24 par la SGP dans le cadre des travaux du Grand Paris Express
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-04-20
+- Matière : AFFAIRES JURIDIQUES,PATRIMOINE
+- Objet : Approbation d’un avenant avec la SNCF portant prorogation de la convention d’occupation des arches sous le viaduc du boulevard Garibaldi et autorisant l’occupation des arches n°22 à 24 par la SGP dans le cadre des travaux du Grand Paris Express
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MDEsInB1ciI6ImJsb2JfaWQifX0=--134f6963bd52a9621fdb5492638821ac34f04482/200417_26.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
