@@ -1,8 +1,8 @@
-# Article LEGIARTI000029188206
+# Article Annexe
 
 RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE
 
-Examen professionnalisé réservé pour l'accès au grade d'infirmier civil de soins généraux de classe normale du ministère de la défense
+Concours réservé pour l'accès au premier grade du corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense
 
 Identification du candidat
 
@@ -10,7 +10,7 @@ Numéro de dossier d'inscription :
 
 Nom de famille/Nom d'usage :
 
-Prénom (s) :
+Prénom(s) :
 
 Votre situation actuelle
 
@@ -28,9 +28,9 @@ Direction/service/établissement :
 
 Votre expérience professionnelle
 
-Fonction actuelle :
+Fonction actuelle.
 
-Fonctions antérieures :
+Fonctions antérieures.
 
 Votre formation professionnelle et continue
 
@@ -38,10 +38,4 @@ Les actions de formation professionnelle et continue que vous jugez importantes 
 
 Les acquis de votre expérience professionnelle au regard du profil recherché
 
-Décrivez en quelques mots, les éléments qui constituent, selon vous, les acquis de votre expérience professionnelle et vos atouts au regard des connaissances, compétences et aptitudes recherchées, et précisez, le cas échéant, vos motivations pour exercer ces fonctions (1 à 2 page[s] dactylographiée[s] maximum).
-
-Annexes
-
-Accusé de réception.
-
-Déclaration sur l'honneur.
+Décrivez en quelques mots les éléments qui constituent, selon vous, les acquis de votre expérience professionnelle et vos atouts au regard des connaissances, compétences et aptitudes recherchées, et précisez, le cas échéant, vos motivations pour exercer ces fonctions (une page dactylographiée maximum).
