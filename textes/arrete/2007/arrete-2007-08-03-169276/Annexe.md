@@ -2,22 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 25 mars 2017 :
-
-Paris-Varadero (Cuba) ;
-
-Paris-Cayo Coco (Cuba) ;
-
-Paris-Santa-Clara (Cuba).
-
-Jusqu'au 27 avril 2017 :
-
-Paris-Cancun (Mexique).
-
-Jusqu'au 24 mai 2017 :
-
-Paris-San Francisco (Etats-Unis).
-
 Jusqu'au 29 juin 2017 :
 
 Paris-Dakar (Sénégal).
@@ -113,3 +97,9 @@ A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
 Paris-La Havane (Cuba), dans la limite d'une fréquence hebdomadaire ;
 
 Dans la limite de trois fréquences hebdomadaires au total sur les liaisons Paris-Cayo Coco (Cuba), Paris-Holguin (Cuba) et Paris-Varadero (Cuba).
+
+Jusqu'au 30 avril 2022 :
+
+Paris-Cancun (Mexique) ;
+
+Paris-San Francisco (Etats-Unis).
