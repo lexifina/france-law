@@ -56,7 +56,7 @@ Agents relevant d'un des établissements publics d'enseignement relevant du mini
 
 |
 
-Inspecteurs de la santé publique vétérinaire
+Inspecteurs de santé publique vétérinaire
 
 |
 
@@ -64,6 +64,6 @@ Concours réservé
 
 |
 
-Agents relevant du ministre chargé de l'agriculture ou du ministre chargé des affaires sociales ou d'un établissement public en relevant, pour le corps des inspecteurs de la santé publique vétérinaire
+Agents relevant du ministre chargé de l'agriculture ou du ministre chargé des affaires sociales ou d'un établissement public en relevant, pour le corps des inspecteurs de santé publique vétérinaire
 
 |

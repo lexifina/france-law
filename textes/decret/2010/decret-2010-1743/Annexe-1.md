@@ -2524,7 +2524,7 @@ CAP nationale compétente pour le corps des ingénieurs de recherche du ministè
 
 CAP nationale compétente pour le corps des ingénieurs d'études de formation et de recherche du ministère de l'agriculture et de la pêche
 
-CAP nationale compétente pour le corps des inspecteurs de la santé publique vétérinaire
+CAP nationale compétente pour le corps des inspecteurs de santé publique vétérinaire
 
 CAP nationale compétente pour le corps des inspecteurs généraux de l'agriculture
 
