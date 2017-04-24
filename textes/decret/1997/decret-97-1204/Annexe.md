@@ -34,29 +34,11 @@ Article R. 411-9
 
 |
 
-Autorisations d'introduction dans le milieu naturel d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application du I de l'article L. 411-3, lorsque cette introduction concerne des animaux ou des végétaux appartenant à des espèces qui, compte tenu de leur fort pouvoir de dissémination ou de colonisation, peuvent faire courir un risque particulièrement important au patrimoine naturel et à la diversité biologique. Décisions conjointes du ministre chargé de la protection de la nature et soit du ministre chargé de l'agriculture, soit, lorsqu'il s'agit d'espèces marines, du ministre chargé des pêches maritimes.
+Autorisations d'introduction dans le milieu naturel d'animaux ou végétaux appartenant à des espèces désignées en application de l'article L. 411-4, lorsque les espèces dont l'introduction dans la nature est demandée sont des agents utilisés dans la lutte biologique contre les organismes nuisibles, au sens de l'article L. 251-3 du code rural. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé de l'agriculture.
 
 |
 
-Article R. 411-36-I (2°, b)
-
-|
-
-|
-
-Autorisations d'introduction dans le milieu naturel d'animaux ou végétaux appartenant à des espèces figurant sur les listes établies en application du I de l'article L. 411-3, lorsque les espèces dont l'introduction dans la nature est demandée sont des agents utilisés dans la lutte biologique contre les organismes nuisibles, au sens de la deuxième phrase du premier alinéa de l'article L. 251-3 du code rural. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé de l'agriculture.
-
-|
-
-Article R. 411-36-I (3°)
-
-|
-
-|
-
-Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux. |
-
-Article R. 411-36-I (4°)
+Article R. 411-34 (2° du II)
 
 |
 
@@ -252,23 +234,15 @@ Articles R. 543-251, R. 543-252 et R. 543-253. |
 
 |
 
-Autorisation de mise à disposition sur le marché, de stockage en vue de mise à disposition sur le marché, d'installation, de mise en service, d'utilisation, d'importation ou de transfert de certains produits et équipements
+Autorisation de mise à disposition sur le marché, de stockage en vue de mise à disposition sur le marché, d'installation, de mise en service, d'utilisation, d'importation ou de transfert de certains produits et équipements |
+
+Article R. 557-1-2 |
 
 |
 
-Article R. 557-1-2
+Délivrance de l'habilitation aux organismes mentionnés à l'article L. 557-31 |
 
-|
-
-|
-
-Délivrance de l'habilitation aux organismes mentionnés à l'article L. 557-31
-
-|
-
-Article R. 557-4-1
-
-|
+Article R. 557-4-1 |
 
 II.-Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
@@ -492,7 +466,9 @@ Article R. 341-12
 
 Commissionnement des agents non publics des réserves naturelles |
 
-Article R. 332-68 |
+Article R. 332-68
+
+|
 
 Livre IV
 
@@ -512,9 +488,27 @@ Autorisations d'introduction dans le milieu naturel d'animaux appartenant à une
 
 |
 
-Article R. 411-36-I (1°)
+Article R. 411-34
+
+(1°, a du II)
 
 |
+
+|
+
+Autorisations d'introduction dans le milieu naturel d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application de l'article L. 411-4, lorsque l'opération est conduite par des personnes morales placées sous la tutelle ou le contrôle de l'Etat, dont les attributions ou les activités s'exercent au plan national. |
+
+Article R. 411-34
+
+(1°, b du II) |
+
+|
+
+Autorisations d'introduction sur le territoire national, de détention, de transport, d'utilisation ou d'échange d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application de l'article L. 411-6, lorsque la demande ne porte pas sur des travaux de recherche sur ces espèces, ni ne vise leur conservation hors du milieu naturel. |
+
+Article R. 411-40
+
+(2° du I) |
 
 |
 
@@ -808,43 +802,29 @@ Articles R. 258-6, R. 258-8 et R. 258-9
 
 VI.-Décret n° 2006-649 du 2 juin 2006 modifié relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains :
 
-1
+1 |
 
-|
+Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l'article L. 161-1 du code minier |
 
-Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l'article L. 161-1 du code minier
-
-|
-
-Article 22-8
-
-|
+Article 22-8 |
 
 VI.-Code de l'énergie :
 
-1
-
-|
+1 |
 
 Mises en demeure d'acquérir des certificats d'économies d'énergie.
 
 |
 
-Article L. 221-3
+Article L. 221-3 |
 
-|
-
-2
-
-|
+2 |
 
 Décisions relatives aux versements libératoires et aux pénalités.
 
 |
 
-Article L. 221-4
-
-|
+Article L. 221-4 |
 
 VII.-Décret n° 2014-1668 du 29 décembre 2014 :
 
