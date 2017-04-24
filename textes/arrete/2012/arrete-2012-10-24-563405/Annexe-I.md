@@ -734,6 +734,8 @@ Malaisie :
 
 Paris-Kuala Lumpur ;
 
+Paris-Penang ;
+
 Maldives :
 
 Paris-Malé ;
