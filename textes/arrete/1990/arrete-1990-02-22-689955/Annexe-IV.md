@@ -360,7 +360,7 @@ Ethylphénidate et ses sels
 
 Fenbutrazate et ses sels
 
-Kétamine et ses sels, à l'exception de leurs préparations injectables
+Kétamine et ses sels
 
 Khat (feuilles de Catha edulis, Celastracées)
 
