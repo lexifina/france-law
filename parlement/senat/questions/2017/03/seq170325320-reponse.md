@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170325320
+
+- Question : [SEQ170325320](seq170325320.md) — Reconnaissance du permis de conduire français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2017-04-27, page 1538*
+
+La France pratique aujourd'hui l'échange des permis avec plus de cent États et autorités étrangères, hors Union européenne. Les ressortissants français bénéficient à l'étranger de facilités notables pour conduire, grâce à ce dispositif d'échange, unique par son étendue. En effet, la plupart de nos partenaires européens ne pratiquent l'échange des permis, hors UE, qu'avec une quinzaine de pays. Les dispositifs d'échange de permis de conduire que la France met en œuvre, en dehors de l'espace économique européen, reposent sur des pratiques administratives antérieures, auxquelles elle veut mettre fin. Le ministère des affaires étrangères et du développement international en liaison avec la délégation à la sécurité et à la circulation routières du ministère de l'intérieur poursuit l'objectif de développer et de conclure des accords de reconnaissance et d'échange des permis de conduire avec des autorités qui partagent nos exigences en matière de sécurité routière, de formation des conducteurs et de sécurisation des titres. Dès que les conditions sont réunies, la France souhaite favoriser l'adoption de textes bilatéraux. Par ailleurs, la France reconnaît pendant un an tous les permis de conduire et souhaite favoriser la réciprocité en ce domaine, avant une éventuelle mise en œuvre de dispositifs d'échange. Par ailleurs, afin de faciliter davantage les déplacements de nos ressortissants hors de France, une nouvelle règlementation est entrée en vigueur au 1er juillet 2016 sur la reconnaissance et l'échange du permis de conduire français à l'étranger qui répond à certaines difficultés rencontrées en cas de perte ou de vol du permis et qui assouplit la procédure de rétablissement des droits à conduire lors de la réinstallation en France.
