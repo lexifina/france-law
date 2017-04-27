@@ -296,27 +296,25 @@ FR-new-05101795 |
 
 CHU AMIENS PICARDIE |
 
-CHU AMIENS POLE ENERGIE
+CHU AMIENS POLE ENERGIE |
 
-|
+- |
 
-/ |
+- |
 
-/ |
+4 584 |
 
-/ |
+4 012 |
 
-/ |
+3 458 |
 
-/ |
+2 922 |
 
-/ |
+2 404 |
 
-/ |
+1 904 |
 
-/ |
-
-/ |
+19 284 |
 
 FR-new-05102147
 
@@ -2218,23 +2216,23 @@ VALLOUREC BEARING TUBES
 
 |
 
-17 165
+8 583
 
 |
 
-16 830
+8 415
 
 |
 
-16 491
+8 246
 
 |
 
-16 151
+8 076
 
 |
 
-138 576
+105 259
 
 |
 
@@ -2266,23 +2264,23 @@ Coopérative agricole Terre d'alliances
 
 |
 
-663
+1 326
 
 |
 
-560
+1 119
 
 |
 
-460
+920
 
 |
 
-364
+728
 
 |
 
-8 781
+10 827
 
 |
 
@@ -2554,11 +2552,11 @@ FR-new-05516997
 
 |
 
-ALIOUEST
+CECABROONS
 
 |
 
-ALIOUEST
+CECABROONS
 
 |
 
@@ -2646,7 +2644,7 @@ Peugeot Citroën site de Dompierre-sur-Besbre
 
 |
 
-FR-new-05600302
+FR-new-05600203
 
 |
 
@@ -3084,41 +3082,23 @@ SIORAT NGE |
 
 SIORAT GTX NGE centrale d'enrobage temporaire ASTEC 11-110 |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
+/ |
 
 FR-new-05701177
 
@@ -5404,23 +5384,23 @@ Coopérative agricole Terre d'alliances
 
 |
 
-836
+1 672
 
 |
 
-706
+1 411
 
 |
 
-580
+1 160
 
 |
 
-459
+918
 
 |
 
-11 068
+13 648
 
 |
 
@@ -6540,19 +6520,19 @@ ADISSEO (Amont méthionine)
 
 |
 
-96 244
+49 221
 
 |
 
-94 374
+48 366
 
 |
 
-92 487
+47 500
 
 |
 
-90 593
+46 627
 
 |
 
@@ -6572,7 +6552,7 @@ ADISSEO (Amont méthionine)
 
 |
 
-716 916
+534 932
 
 |
 
@@ -6588,39 +6568,39 @@ ADISSEO
 
 |
 
-0
+47 023
 
 |
 
-0
+46 008
 
 |
 
-0
+44 987
 
 |
 
-0
+43 966
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+181 984
 
 |
 
@@ -6720,9 +6700,7 @@ RHODIA OPERATIONS ROUSSILLON
 
 |
 
-FR-new-06110073
-
-|
+FR-new-06110073 |
 
 MP Hygiène |
 
@@ -6992,23 +6970,37 @@ ANNECY BIO-CHALEUR |
 
 ANNECY BIO-CHALEUR |
 
-/ |
+- |
 
-/ |
+2 408
 
-/ |
+|
 
-/ |
+8 535
 
-/ |
+|
 
-/ |
+7 470
 
-/ |
+|
 
-/ |
+6 439
 
-/ |
+|
+
+5 442
+
+|
+
+4 476
+
+|
+
+3 545
+
+|
+
+38315 |
 
 FR-new-06200196
 
@@ -7588,6 +7580,30 @@ MONDELANGE INDUSTRIES
 
 |
 
+FR-new-06208613 |
+
+Hauconcourt enrobés |
+
+Hauconcourt enrobés |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-06208919
 
 |
@@ -7924,49 +7940,53 @@ KERVALIS
 
 |
 
+FR-new-06306623 |
+
+COLAS CENTRE OUEST |
+
+COLAS CENTRE OUEST-Centrale TSM 25 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-06308843 |
 
-ERENA
-
-|
+ERENA |
 
 Centrale Californie |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
+/ |
 
 FR-new-06400277
 
@@ -8063,6 +8083,30 @@ SINIAT - Usine de Carpentras
 223 213
 
 |
+
+FR-new-06400556 |
+
+Société Aéroport MARSEILLE PROVENCE |
+
+Aéroport Marseille Provence |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-06400928
 
@@ -8220,39 +8264,39 @@ KEM ONE
 
 |
 
-0
+69 189
 
 |
 
-0
+67 988
 
 |
 
-0
+66 771
 
 |
 
-0
+65 543
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+269 491
 
 |
 
@@ -8524,23 +8568,23 @@ IDL-LPG
 
 |
 
-114 175
+142 657
 
 |
 
-111 949
+139 876
 
 |
 
-109 695
+137 059
 
 |
 
-107 433
+134 233
 
 |
 
-1 012 106
+1 122 679
 
 |
 
@@ -8591,6 +8635,54 @@ INEOS CHEMICALS LAVERA
 178 081
 
 |
+
+FR-new-06410834 |
+
+JEAN LEFEBVRE FOS |
+
+JEAN LEFEBVRE MEDITERANNEE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06412599 |
+
+CENTRALE TEMPORAIRE COLAS-La Motte |
+
+COLAS MIDI MEDITERRANEE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-06500377
 
@@ -9480,9 +9572,7 @@ Usine Axens
 
 |
 
-FR-new-06604131
-
-|
+FR-new-06604131 |
 
 Centre Hospitalier Universitaire de Nîmes |
 
@@ -9626,27 +9716,27 @@ PUNCH POWERGLIDE STRASBOURG
 
 |
 
-51
+-
 
 |
 
-44
+-
 
 |
 
-38
+-
 
 |
 
-30
+-
 
 |
 
-23
+-
 
 |
 
-383
+197
 
 |
 
@@ -10520,41 +10610,23 @@ GUSTAVE MULLER SA |
 
 GUSTAVE MULLER SA |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
+/ |
 
-|
+/ |
 
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
+/ |
 
 FR-new-06802181
 
@@ -13107,6 +13179,30 @@ COLAS Centre-Ouest-centrale d'enrobage mobile RMS300
 0
 
 |
+
+FR-new-10010879 |
+
+EUROVIA GRANDS TRAVAUX |
+
+Centrale d'enrobage mobile RF 500 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-10011026
 

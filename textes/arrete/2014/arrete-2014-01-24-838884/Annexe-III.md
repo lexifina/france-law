@@ -2,13 +2,9 @@
 
 Extensions significatives de capacité
 
-IDENTIFIANT
+IDENTIFIANT |
 
-|
-
-NOM DE L'EXPLOITANT
-
-|
+NOM DE L'EXPLOITANT |
 
 NOM DE L'INSTALLATION |
 
@@ -512,6 +508,54 @@ BLUE PAPER SAS
 
 |
 
+FR000000000000947
+
+|
+
+WEPA FRANCE
+
+|
+
+WEPA FRANCE
+
+|
+
+0
+
+|
+
+0
+
+|
+
+3 448
+
+|
+
+10 131
+
+|
+
+9 945
+
+|
+
+9 759
+
+|
+
+9 573
+
+|
+
+9 387
+
+|
+
+52 243
+
+|
+
 FR000000000000979
 
 |
@@ -704,33 +748,35 @@ Solvay Electrolyse France
 
 |
 
-FR-new-06104438
-
-|
+FR-new-06104438 |
 
 FERROPEM |
 
 Société FERROPEM Usine de CHÂTEAU-FEUILLET |
 
-196 253 |
+39 291 |
 
-192 843 |
+38 607 |
 
-189 401 |
-
-185 931 |
-
-182 429 |
-
-178 902 |
-
-175 338 |
-
-171 764 |
-
-1 472 861
+37 924
 
 |
+
+37 240
+
+|
+
+36 556
+
+|
+
+35 873 |
+
+35 189 |
+
+34 505 |
+
+295 185 |
 
 FR-new-06203291
 

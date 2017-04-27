@@ -6,9 +6,7 @@ IDENTIFIANT |
 
 NOM DE L'EXPLOITANT |
 
-NOM DE L'INSTALLATION
-
-|
+NOM DE L'INSTALLATION |
 
 FR000000000000171
 
@@ -33,6 +31,16 @@ Electricité de France
 EDF TAC de Dirinon
 
 |
+
+FR000000000000270
+
+|
+
+EDF
+
+|
+
+EDF UNITÉ DE PRODUCTION THERMIQUE DU HAVRE |
 
 FR000000000000441
 
@@ -248,18 +256,6 @@ ENERGIES ANTILLES
 
 |
 
-FR000000000001113
-
-|
-
-EDF SEI
-
-|
-
-EDF - Saint-Martin 2
-
-|
-
 FR000000000001114
 
 |
@@ -380,17 +376,23 @@ FR000000000001166
 
 |
 
-Fr-new-05802143
-
-|
+FR-new-05803742 |
 
 EDF
 
 |
 
-EDF UNITÉ DE PRODUCTION THERMIQUE DU HAVRE
+EDF data center Val-de-Reuil |
+
+FR-new-05804966
 
 |
+
+ORANGE
+
+|
+
+ORANGE data center Val-de-Reuil |
 
 FR-new-06208313
 
@@ -403,6 +405,98 @@ TOUL POWER SAS
 TOUL POWER SAS, centrale électrique de Toul
 
 |
+
+FR-new-06511060 |
+
+SOCIÉTÉ GÉNÉRALE |
+
+SOCIÉTÉ GÉNÉRALE data center de Tigery
+
+|
+
+FR-new-06511103 |
+
+BNP PARIBAS
+
+|
+
+BNP PARIBAS data center de Bussy-Saint-Georges |
+
+FR-new-06512161
+
+|
+
+COLT TECHNOLOGY SERVICES
+
+|
+
+COLT TECHNOLOGY SERVICES data center des Ulis |
+
+FR-new-06512960
+
+|
+
+NATIXIS
+
+|
+
+NATIXIS data center de Bailly-Romainvilliers |
+
+FR-new-06512981 |
+
+BOUYGUES TELECOM |
+
+BOUYGUES TELECOM data center de Montigny-le-
+
+Bretonneux |
+
+FR-new-06513131 |
+
+TELEHOUSE EUROPE
+
+|
+
+TELEHOUSE Data center Magny-les-Hameaux |
+
+FR-new-06513144 |
+
+NATIXIS
+
+|
+
+NATIXIS data center de Lieusaint
+
+|
+
+FR-new-06514495 |
+
+BANQUE DE FRANCE
+
+|
+
+BANQUE DE FRANCE data center de Serris
+
+|
+
+FR-new-06514850
+
+|
+
+INTERXION France
+
+|
+
+INTERXION France PAR7 data center de La Courneuve |
+
+FR-new-06517753
+
+|
+
+LINKCITY
+
+|
+
+LINKCITY data center de Villetaneuse |
 
 FR-new-06900399
 
@@ -488,6 +582,34 @@ EDF PEI centrale de Haute-Corse
 
 |
 
+FR-new-07403939
+
+|
+
+ORANGE
+
+|
+
+ORANGE data center d'Aubervilliers |
+
+FR-new-07404148 |
+
+RATP |
+
+RATP-PHT René-Coty Paris 14
+
+|
+
+FR-new-07404199 |
+
+RATP
+
+|
+
+RATP-PHT Ney Paris 18
+
+|
+
 FR-new-07404411
 
 |
@@ -500,17 +622,57 @@ GLOBAL SWITCH
 
 |
 
-FR-new-40000003
+FR-new-07405589 |
+
+INTERXION France
 
 |
 
-Electricité de Mayotte
+INTERXION France PAR3 data center Saint-Denis |
+
+FR-new-07405683 |
+
+SOCIÉTÉ GÉNÉRALE
 
 |
 
-EDM Centrale de Badamiers
+SOCIÉTÉ GÉNÉRALE data center de Puteaux |
+
+FR-new-07407362
 
 |
+
+EQUINIX FRANCE ENTERPRISES SAS
+
+|
+
+EQUINIX PA2 et PA3 data centers de Saint-Denis |
+
+FR-new-07408417 |
+
+INTERXION France |
+
+INTERXION FRANCE PAR5 data center Saint-Denis
+
+|
+
+FR-new-07408791 |
+
+EQUINIX FRANCE ENTERPRISES SAS |
+
+EQUINIX PA6 data center d'Aubervilliers
+
+|
+
+FR-new-07409817
+
+|
+
+EQUINIX FRANCE ENTERPRISES SAS
+
+|
+
+EQUINIX PA4 data center Pantin |
 
 Fr-new-10009485
 
@@ -529,6 +691,16 @@ UNIBIENS (CREDIT AGRICOLE) |
 UNIBIENS Site de Mainvilliers
 
 |
+
+FR-new-40000003
+
+|
+
+Electricité de Mayotte
+
+|
+
+EDM Centrale de Badamiers |
 
 FR-new-40000024
 

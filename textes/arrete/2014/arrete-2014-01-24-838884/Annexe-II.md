@@ -248,11 +248,11 @@ FR000000000000009
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE - VAUXROT
+VERALLIA France
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE - VAUXROT
+VERALLIA France-Usine de Vauxrot
 
 |
 
@@ -1256,11 +1256,11 @@ FR000000000000038
 
 |
 
-Momentive Specialty Chemicals - établissement de Ribécourt
+HEXION France
 
 |
 
-Momentive Specialty Chemicals - établissement de Ribécourt
+HEXION France-Etablissement de Ribécourt
 
 |
 
@@ -2864,23 +2864,23 @@ DARBO SAS
 
 |
 
-22 141
+-
 
 |
 
-18 695
+-
 
 |
 
-15 362
+-
 
 |
 
-12 153
+-
 
 |
 
-215 271
+146 920
 
 |
 
@@ -4688,23 +4688,23 @@ SPTP
 
 |
 
-10 783
+-
 
 |
 
-10 572
+-
 
 |
 
-10 360
+-
 
 |
 
-10 146
+-
 
 |
 
-87 052
+45 191
 
 |
 
@@ -7036,7 +7036,7 @@ GOODYEAR DUNLOP TIRES FRANCE MONTLUCON
 
 |
 
-0
+14 281
 
 |
 
@@ -7056,7 +7056,7 @@ GOODYEAR DUNLOP TIRES FRANCE MONTLUCON
 
 |
 
-44 436
+58 717
 
 |
 
@@ -7592,11 +7592,11 @@ FR000000000000216
 
 |
 
-SARVAL SUD EST
+SECANIM SUD EST
 
 |
 
-SARVAL SUD EST site de Bayet
+SECANIM SUD EST
 
 |
 
@@ -12548,35 +12548,35 @@ Chaufferie centrale du Centre hospitalier universitaire de Limoges
 
 |
 
-9 123
+4 562
 
 |
 
-8 081
+2 020
 
 |
 
-7 070
+1 768
 
 |
 
-6 091
+1 523
 
 |
 
-5 143
+1 286
 
 |
 
-4 226
+1 057
 
 |
 
-3 343
+836
 
 |
 
-53 272
+23 247
 
 |
 
@@ -12776,7 +12776,7 @@ FR000000000000347
 
 |
 
-KEM ONE France
+SNC COGESTAR
 
 |
 

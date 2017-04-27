@@ -2000,23 +2000,23 @@ Chaufferie Urbaine DALKIA Pontoise
 
 |
 
-3 777
+-
 
 |
 
-3 184
+-
 
 |
 
-2 619
+-
 
 |
 
-2 074
+-
 
 |
 
-34 217
+22 563
 
 |
 
@@ -4928,23 +4928,23 @@ BOUYER LEROUX STRUCTURE Briquetterie site de Colomiers
 
 |
 
-46 871
+23 808
 
 |
 
-45 956
+23 343
 
 |
 
-45 030
+22 873
 
 |
 
-44 103
+22 402
 
 |
 
-378 399
+288 865
 
 |
 
@@ -5336,11 +5336,11 @@ FR000000000000884
 
 |
 
-DALKIA ATLANTIQUE SERVICES
+Rangueil Energie Services
 
 |
 
-CHANCELLERIE DES UNIVERSITES
+Chaufferie de Rangueil
 
 |
 
@@ -6200,11 +6200,11 @@ FR000000000000915
 
 |
 
-ARC INTERNATIONAL FRANCE
+ARC FRANCE
 
 |
 
-ARC International
+ARC Verrerie D'Arques
 
 |
 
@@ -7664,23 +7664,23 @@ CRODA CHOCQUES SAS
 
 |
 
-3 504
+-
 
 |
 
-2 959
+-
 
 |
 
-2 431
+-
 
 |
 
-1 923
+-
 
 |
 
-30 647
+19 830
 
 |
 
@@ -10376,11 +10376,11 @@ FR000000000001032
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE - SITE DE COGNAC
+VERALLIA France
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE - SITE DE COGNAC
+VERALLIA France-Usine de Cognac
 
 |
 
@@ -11698,23 +11698,23 @@ SODC
 
 |
 
-5 184
+2 592
 
 |
 
-4 380
+2 190
 
 |
 
-3 603
+1 802
 
 |
 
-2 854
+1 427
 
 |
 
-68 618
+60 608
 
 |
 
@@ -12586,11 +12586,11 @@ FR000000000001104
 
 |
 
-MESSIER-BUGATTI-DOWTY
+SAFRAN LANDING SYSTEMS
 
 |
 
-MESSIER-BUGATTI-DOWTY
+SAFRAN LANDING SYSTEMS
 
 |
 
