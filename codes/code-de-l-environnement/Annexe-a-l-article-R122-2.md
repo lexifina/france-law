@@ -24,29 +24,27 @@ Installations classées pour la protection de l'environnement (ICPE)
 
 |
 
-1. Installations classées pour la protection de l'environnement (dans les conditions et formes prévues au titre Ier du livre V du code de l'environnement). |
+1. Installations classées pour la protection de l'environnement |
 
-a) Installations mentionnées à l' article L. 515-28 du code de l'environnement . |
+a) Installations mentionnées à l'article L. 515-28 du code de l'environnement. |
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
 b) Autres installations classées pour la protection de l'environnement soumises à enregistrement (pour ces installations, l'examen au cas par cas est réalisé dans les conditions et formes prévues à l'article L. 512-7-2 du code de l'environnement).
 
+c) Extensions inférieures à 25 ha des carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des ICPE
+
 |
 
 b) Installations mentionnées à l'article L. 515-32 du code de l'environnement. |
 
-c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des installations classées pour la protection de l'environnement. |
+c) Carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des installations classées pour la protection de l'environnement et leurs extensions supérieures ou égales à 25 ha. |
 
 d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la nomenclature des installations classées pour la protection de l'environnement. |
 
-e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement.
+e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement. |
 
-f) Stockage de pétrole, de produits pétrochimiques ou de produits chimiques soumis à autorisation mentionnées par les rubriques 4000 à 4999 de la nomenclature des installations classées pour la protection de l'environnement et d'une capacité de 200 000 tonnes ou plus.
-
-|
-
-g) Stockage géologique de CO2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
+f) Stockage géologique de CO2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
 
 Installations nucléaires de base (INB)
 
@@ -67,6 +65,8 @@ Installations nucléaires de base secrètes (INBS)
 Installations soumises à une autorisation de création ou une autorisation de poursuite d'exploitation de création. |
 
 |
+
+Stockage de déchets radioactifs |
 
 4. Forages nécessaires au stockage de déchets radioactifs. |
 
@@ -272,7 +272,7 @@ c) Réservoirs de stockage d'eau "sur tour" (château d'eau) d'une capacité ég
 
 d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique ou à l'écoulement des crues, entraînant une différence de niveau supérieure ou égale à 50 cm pour le débit moyen annuel de la ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.
 
-e) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les systèmes d'endiguement au sens de l' article R. 562-13 du code de l'environnement .
+e) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les systèmes d'endiguement au sens de l'article R. 562-13 du code de l'environnement.
 
 f) Ouvrages construits ou aménagés en vue de prévenir les inondations et les submersions tels que les aménagements hydrauliques au sens de l'article R. 562-18 du code de l'environnement.
 
@@ -326,7 +326,7 @@ ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km 
 
 -dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m3.
 
-b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l' article L. 215-14 du code de l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
+b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'article L. 215-14 du code de l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
 
 -supérieure à 2 000 m3 ;
 
@@ -364,9 +364,9 @@ a) Forages pour l'approvisionnement en eau d'une profondeur supérieure ou égal
 
 b) Ouverture de travaux d'exploration de mines par forages de moins de 100 mètres de profondeur sous forme de campagne de forages.
 
-c) Ouverture de travaux de puits de contrôle.
+c) Ouverture de travaux de puits de contrôle pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux, de produits chimiques à destination industrielle.
 
-d) Autres forages en profondeur.
+d) Autres forages en profondeur de plus de 100 m.
 
 |
 
@@ -506,7 +506,7 @@ b) Aires naturelles de camping et de caravanage permettant l'accueil de 7 à 30 
 
 a) Création de remontées mécaniques ou téléphériques transportant plus de 1 500 passagers par heure. |
 
-a) Remontées mécaniques ou téléphériques transportant moins de 1 500 passagers par heure à l'exclusion des remontées mécaniques démontables et transportables et des tapis roulants mentionnés à l' article L. 342-17-1 du code du tourisme . |
+a) Remontées mécaniques ou téléphériques transportant moins de 1 500 passagers par heure à l'exclusion des remontées mécaniques démontables et transportables et des tapis roulants mentionnés à l'article L. 342-17-1 du code du tourisme. |
 
 b) Pistes de ski (y compris les pistes dédiées à la luge lorsque celles-ci ne comportent pas d'installation fixes d'exploitation permanente) d'une superficie supérieure ou égale à 2 hectares en site vierge ou d'une superficie supérieure ou égale à 4 hectares hors site vierge. |
 
@@ -518,13 +518,13 @@ c) Installations et aménagements associés permettant d'enneiger une superficie
 
 |
 
-Pour la rubrique 44, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief. |
+Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques ou du fait de la difficulté du relief. |
 
 44. Equipements sportifs, culturels ou de loisirs et aménagements associés. |
 
 |
 
-a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés d'une emprise supérieure ou égale à 4 hectares. (1)
+a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés.
 
 b) Parcs d'attractions à thème et attractions fixes.
 
@@ -584,9 +584,7 @@ Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n°
 
 - aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "
 
-(1) Conseil d’Etat, décision n°
-
-404391
+(1) Conseil d’Etat, décision n° 404391
 
 du 8 décembre 2017 (
 

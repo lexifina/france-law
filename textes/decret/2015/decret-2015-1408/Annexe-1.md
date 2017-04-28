@@ -376,6 +376,12 @@ Demande de permis de mise en exploitation d'un navire de pêche professionnelle-
 
 Code rural et de la pêche maritime-Article L. 921-7 et R. 921-7 à R. 921-14 |
 
+Exercice du droit d'initiative auprès du préfet territorialement compétent |
+
+Code de l'environnement :
+
+Articles L. 121-19, R. 121-26 et R. 121-28 |
+
 NOTA :
 
 Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.
