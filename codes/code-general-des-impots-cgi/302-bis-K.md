@@ -1,6 +1,6 @@
 # Article 302 bis K
 
-I. - 1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation aériens " est due par les entreprises de transport aérien public.
+I.-1. A compter du 1er janvier 2006, une taxe de l'aviation civile au profit du budget annexe " Contrôle et exploitation aériens " est due par les entreprises de transport aérien public.
 
 La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués en France, quelles que soient les conditions tarifaires accordées par le transporteur, à l'exception :
 
@@ -30,7 +30,9 @@ c) L'aéroport de destination finale est distinct de celui de provenance initial
 
 Pour l'application du a, un décret précise les aéroports faisant partie d'un même système aéroportuaire.
 
-II. - 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
+4. Par dérogation au 1, les entreprises de transport aérien public qui effectuent des vols au départ de la France non soumis, en vertu d'un accord international conclu avec un Etat dont le territoire est contigu au territoire national, à l'autorisation préalable prévue à l'article L. 6412-3 du code des transports sont exonérées, à raison de ces vols, de la taxe de l'aviation civile (1).
+
+II.-1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
 4,44 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
@@ -50,9 +52,9 @@ Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'
 
 3. Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par virement bancaire.
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - 1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A cette fin, les agents assermentés peuvent examiner sur place les documents utiles.
+IV.-1.-Les déclarations mentionnées au II sont contrôlées par les services de la direction générale de l'aviation civile. A cette fin, les agents assermentés peuvent examiner sur place les documents utiles.
 
 Préalablement, un avis de vérification est adressé à l'entreprise afin qu'elle puisse se faire assister d'un conseil.
 
@@ -88,11 +90,11 @@ Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de
 
 4. Le droit de reprise par les services de la direction générale de l'aviation civile, tant en ce qui concerne le contrôle des redevables défaillants déclaratifs que le contrôle des insuffisances déclaratives ou de paiement, s'exerce dans les mêmes conditions que celles prévues à l'article L. 176 du livre des procédures fiscales.
 
-V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget annexe " contrôle et exploitation aériens " selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le chiffre d'affaires.
+V.-Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget annexe " contrôle et exploitation aériens " selon les procédures, sûretés, garanties et sanctions applicables en matière de taxes sur le chiffre d'affaires.
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.
 
-VI. - 1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle, dénommée taxe de solidarité sur les billets d'avion, perçue, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le développement créé par l'article 22 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005.
+VI.-1. Les montants mentionnés aux deuxième et troisième alinéas du II font l'objet d'une contribution additionnelle, dénommée taxe de solidarité sur les billets d'avion, perçue, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 de finances pour 2012, par le fonds de solidarité pour le développement créé par l'article 22 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005.
 
 Le produit annuel excédant le plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée est reversé au budget annexe “ Contrôle et exploitation aériens ”.
 
@@ -120,6 +122,20 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy et de Saint-Martin.
 
+VII.-1. Les entreprises de transport aérien exonérées de la taxe de l'aviation civile en application du 4 du I sont assujetties à une contribution destinée à couvrir les coûts des missions d'intérêt général assurées par l'administration française de l'aviation civile à l'occasion de l'utilisation de l'aérodrome où ces entreprises effectuent les vols mentionnés au même 4.
+
+2. La contribution est assise sur le nombre de passagers embarqués sur un vol commercial, au sens du 2 du I, remplissant les conditions mentionnées au 4 du I, à l'exception des passagers mentionnés aux a à d du 1 du I.
+
+3. Le tarif de la contribution est égal au rapport entre le montant des coûts mentionnés au 1 du présent VII et le nombre total de passagers mentionnés au 2.
+
+Il est fixé par arrêté des ministres chargés du budget et de l'aviation civile, après avis de l'organe délibérant compétent de la personne morale gestionnaire de l'aérodrome. Il ne peut excéder le tarif de la taxe de l'aviation civile applicable, en application du 1 du II, pour les passagers à destination de la France, d'un autre Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
+
+4. Les coûts des missions d'intérêt général mentionnées au 1 se rattachent aux activités de régulation technique et économique, à la réglementation de la circulation aérienne, au respect des règles de sécurité et de protection de l'environnement des installations aéroportuaires et des aéronefs, à la surveillance du service de lutte contre l'incendie et contre le péril animalier dans l'enceinte de l'aéroport et incluent les coûts de structure associés à ces missions. Un arrêté des ministres chargés du budget et de l'aviation civile, pris après concertation avec les autorités compétentes de l'autre Etat partie à l'accord international mentionné au 4 du I, fixe la liste des coûts pris en considération pour le calcul du tarif de la contribution ainsi que les règles de leur actualisation.
+
+5. Le produit de la contribution est recouvré par le comptable public territorialement compétent qui le reverse aux comptables publics du budget annexe " Contrôle et exploitation aériens ". La contribution est établie, recouvrée et contrôlée selon les procédures et sous les mêmes sanctions, garanties et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes (1).
+
 NOTA :
 
-Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009
+(1) Conformément à l'article 49 II de la loi n° 2015-1785 du 29 décembre 2015, les dispositions de l'article 302 bis K résultant du I du même article (I. 4, VII), entrent en vigueur à une date fixée par décret qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif comme conforme au droit de l'Union européenne en matière d'aides d'Etat. Le décret n° 2017-640 du 26 avril 2017 fixe la date d'entrée en vigueur au 29 avril 2017.
+
+Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.
