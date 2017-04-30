@@ -2,13 +2,9 @@
 
 BRIGADES DES CHEMINS DE FER À COMPÉTENCE ZONALE
 
-SERVICE DÉCONCENTRÉ DE RATTACHEMENT
+SERVICE DÉCONCENTRÉ DE RATTACHEMENT |
 
-|
-
-LIEU D'IMPLANTATION DE LA BRIGADE DES CHEMINS DE FER
-
-|
+LIEU D'IMPLANTATION DE LA BRIGADE DES CHEMINS DE FER |
 
 Direction zonale de la police aux frontières du Nord
 
@@ -22,7 +18,7 @@ Direction zonale de la police aux frontières du Sud
 
 |
 
-Nice (06), Marseille (13), Perpignan (66), Montpellier (34)
+Nice (06), Marseille (13), Perpignan (66), Montpellier (34), Toulouse (31)
 
 |
 

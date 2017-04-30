@@ -2,13 +2,9 @@
 
 BRIGADES DE POLICE AÉRONAUTIQUE À COMPÉTENCE ZONALE
 
-SERVICE DÉCONCENTRÉ DE RATTACHEMENT
+SERVICE DÉCONCENTRÉ DE RATTACHEMENT |
 
-|
-
-LIEU D'IMPLANTATION DE LA BRIGADE DE POLICE AÉRONAUTIQUE
-
-|
+LIEU D'IMPLANTATION DE LA BRIGADE DE POLICE AÉRONAUTIQUE |
 
 Direction zonale de la police aux frontières du Nord
 
@@ -22,7 +18,7 @@ Direction zonale de la police aux frontières du Sud
 
 |
 
-Aix-en-Provence (13), Toulouse (31), Montpellier (34)
+Aix-en-Provence (13), Toulouse (31)
 
 |
 
@@ -38,7 +34,7 @@ Direction zonale de la police aux frontières de l'Ouest
 
 |
 
-Rennes (35), Tours (37)
+Rennes (35)
 
 |
 
