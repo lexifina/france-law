@@ -6,4 +6,4 @@ Admissibilité au concours d'entrée de l'un des conservatoires nationaux supér
 
 Admissibilité au concours d'entrée de l'un des établissements d'enseignement supérieur habilités à délivrer le diplôme national supérieur professionnel de musicien.
 
-Médaille d'or ou premier prix ou diplôme d'études musicales délivré par un conservatoire à rayonnement régional ou à rayonnement départemental. Diplôme national d'orientation professionnelle en musique.
+Médaille d'or ou premier prix délivré par un conservatoire à rayonnement régional ou à rayonnement départemental avant le 31 décembre 2008. Diplôme d'études musicales délivré par un conservatoire à rayonnement régional ou à rayonnement départemental. Diplôme national d'orientation professionnelle en musique.
