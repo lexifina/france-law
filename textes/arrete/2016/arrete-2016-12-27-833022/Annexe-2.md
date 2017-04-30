@@ -1,8 +1,6 @@
 # Article Annexe 2
 
-ANNEXE 2
-
-LISTE DES CORPS ET EMPLOIS MENTIONNÉS AU 1O DU III DE L'ARTICLE 7 DU DÉCRET DU 20 MAI 2014
+LISTE DES CORPS ET EMPLOIS MENTIONNÉS AU 1° DU III DE L'ARTICLE 7 DU DÉCRET DU 20 MAI 2014
 
 CORPS ET EMPLOIS |
 
@@ -347,6 +345,18 @@ Décret n° 2012-1064 du 18 septembre 2012 portant statut particulier du corps d
 1er janvier 2018 |
 
 Ministère chargé de l'intérieur |
+
+Corps des préfets |
+
+Décret n° 64-805 fixant les dispositions réglementaires applicables aux préfets |
+
+1er janvier 2018 |
+
+Corps des sous-préfets |
+
+Décret n° 64-260 du 14 mars 1964 portant statut des sous-préfets |
+
+1er janvier 2018 |
 
 Corps de l'inspection générale de l'administration |
 
