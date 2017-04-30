@@ -298,7 +298,7 @@ Période de calcul : avril à décembre de l’année en cours pour couvrir la c
 
 Seuil minimum : 10 patients MT de 65 ans et plus
 
-Fréquence de mise à jour des données : mensuelle durant la période de campagne vaccinale
+Fréquence de mise à jour des données : trimestrielle durant la période de campagne vaccinale
 
 Définitions : Vaccin anti-grippal : tous les médicaments inclus dans les codes ATC J07BB01 et J07BB02 + tetagrip, à l’exclusion des vaccins H1N1 (Focetria® et Panenza®). Pour la campagne de vaccination 2015 de l’hémisphère sud 2 vaccins ont été pris en compte Vaxigrip HS et Fluarix HS
 
@@ -312,7 +312,7 @@ Période de calcul : avril à décembre de l’année en cours pour couvrir la c
 
 Seuil minimum : 10 patients MT de 16 à 64 ans en ALD ou présentant une maladie respiratoire chronique
 
-Fréquence de mise à jour des données : mensuelle durant la période de campagne vaccinale
+Fréquence de mise à jour des données : trimestrielle durant la période de campagne vaccinale
 
 Définitions : Patients présentant une maladie respiratoire chronique : au moins 4 délivrances à des dates distinctes de médicaments ciblés dans la classe ATC R03 " Médicaments pour les maladies obstructives des voies respiratoires "
 
