@@ -1,30 +1,24 @@
 # Article Annexe 4
 
-RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 7 DE L'ARRÊTÉ DU 23 DÉCEMBRE 2009 ENTRE LES SERVICES LOCAUX DU CONTENTIEUX
+RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 7 ENTRE LES SERVICES LOCAUX DU CONTENTIEUX
 
 Critère de répartition des compétences en matière de protection juridique
 
-Principe : pour l'ensemble des agents militaires et civils des armées, de la direction générale de l'armement et des services communs.
+Principe : pour l'ensemble des agents militaires
 
-|
+et civils du ministère de la défense. |
 
-Lieu d'affectation [rattachement à une base de défense (BdD)] de l'agent de l'Etat impliqué.
+Lieu d'affectation [rattachement à une base de défense (BdD)]
 
-|
+de l'agent de l'Etat impliqué. |
 
-Sphère de compétence
+SPHÈRE DE COMPÉTENCE
 
-SERVICE LOCAL DU CONTENTIEUX
+SERVICE LOCAL DU CONTENTIEUX |
 
-|
+BDD DE RATTACHEMENT OU ZONE GÉOGRAPHIQUE DE LA BDD |
 
-BDD DE RATTACHEMENT OU ZONE GÉOGRAPHIQUE DE LA BDD
-
-|
-
-Bordeaux
-
-|
+Bordeaux |
 
 Bordeaux-Mérignac
 
@@ -46,13 +40,9 @@ Rochefort-Cognac
 
 Angoulême
 
-Clermont-Ferrand
+Clermont-Ferrand |
 
-|
-
-Metz
-
-|
+Metz |
 
 Besançon
 
@@ -82,13 +72,9 @@ Dijon
 
 Lille
 
-Creil
+Creil |
 
-|
-
-Rennes
-
-|
+Rennes |
 
 Rennes
 
@@ -96,9 +82,11 @@ Brest-Lorient
 
 Vannes-Coëtquidan
 
-Angers-Le Mans-Saumur-Cherbourg
+Angers-Le Mans-Saumur
 
-Orléans
+Cherbourg
+
+Orléans-Bricy
 
 Bourges-Avord
 
@@ -108,17 +96,13 @@ Evreux
 
 Montlhéry
 
-Paris-Ile-de-France
+Ile-de-France (GSBDD Paris-Ecole militaire, Saint-Germain-en-Laye, Versailles, Villacoublay et Vincennes) |
 
-|
-
-Toulon
-
-|
+Toulon |
 
 Calvi
 
-Solenzara
+Ventiseri-Solenzara
 
 Toulon
 
@@ -134,7 +118,7 @@ Marseille-Aubagne
 
 Carcassonne
 
-Lyon-Mont-Verdun
+Lyon-Mont Verdun
 
 Valence
 
@@ -142,6 +126,4 @@ La Valbonne
 
 Grenoble-Annecy-Chambéry
 
-Gap
-
-|
+Gap |

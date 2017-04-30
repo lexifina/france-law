@@ -2,78 +2,30 @@
 
 LIMITES DE COMPÉTENCES RELATIVES AU RÈGLEMENT AMIABLE DES DOMMAGES
 
-DÉCISION D'ALLOCATION
+OFFRE D'INDEMNISATION DÉFINITIVE (1) |
 
-d'une indemnité définitive (1)
+DÉCISION D'ALLOCATION D'UNE INDEMNITÉ PROVISIONNELLE |
 
-|
+DÉCISION DE REJET (3) |
 
-DÉCISION D'ALLOCATION
+DÉCISION DE MISE À CHARGE |
 
-d'une indemnité provisionnelle
+A l'égard des tiers |
 
-|
+A l'égard du personnel du ministère de la défense |
 
-DÉCISION DE REJET
+100 000 euros (2) |
 
-(sauf en matière d'opposition
+30 000 euros (2) |
 
-de la prescription prévue
+Illimité |
 
-par la loi n° 68-1250
+Illimité |
 
-du 31 décembre 1968)
-
-|
-
-DÉCISION DE MISE À CHARGE
-
-|
-
-A l'égard
-
-des tiers
-
-|
-
-A l'égard
-
-du personnel
-
-militaire
-
-ou civil
-
-de la défense
-
-|
-
-100 000 € (3) (4)
-
-|
-
-30 000 € (4)
-
-|
-
-Illimité (2)
-
-|
-
-Illimité (2)
-
-|
-
-Illimité €
-
-|
+Illimité |
 
 (1) Si, à l'occasion d'un même dommage, il y a plusieurs victimes, c'est l'indemnité la plus élevée susceptible d'être accordée qui doit être prise en considération pour déterminer la compétence au titre de l'ensemble de l'affaire.
 
-(2) Le montant des décisions de rejet et des décisions de mise à charge à l'égard des tiers est limité à 54 000 € en ce qui concerne les dommages spécifiquement maritimes.
+(2) Les offres d'indemnisation définitive et les décisions d'allocation d'une indemnité provisionnelle prises par les directions du commissariat en opération extérieure ne concernent que la réparation amiable des dommages causés aux tiers par les forces françaises. Les dommages subis par les militaires français en opération extérieure sont indemnisés par le centre d'expertise du soutien juridique (blessures, dommages matériels) ou la direction des affaires juridiques (décès).
 
-(3) Sauf en ce qui concerne les indemnités destinées à réparer les dommages causés par les déflagrations résultant des vols supersoniques pour lesquels le montant de la délégation est fixé à 18 000 €.
-
-(4) Les décisions d'allocation (indemnités provisionnelles ou définitives) prises par les directions du commissariat en opération extérieure ne concernent que la réparation amiable des dommages causés aux tiers par les forces françaises. Les dommages subis par les militaires français en opération extérieure sont indemnisés par le service local du contentieux de Villacoublay (blessures, dommages matériels) ou la direction des affaires juridiques (décès).
-
-|
+(3) En matière d'opposition de la prescription prévue par la loi du 31 décembre 1968 susvisée, le centre d'expertise du soutien juridique, les services locaux du contentieux et les directions du commissariat d'outre-mer rédigent un rapport juridique et préparent le projet de décision d'opposition de la prescription quadriennale avant envoi à l'autorité compétente. |

@@ -1,94 +1,52 @@
 # Article Annexe 2
 
-RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1er DE L'ARRÊTÉ DU 23 DÉCEMBRE 2009 ENTRE LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT D'OUTRE-MER ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
+RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1ER, ENTRE LE CENTRE D'EXPERTISE DU SOUTIEN JURIDIQUE, LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT D'OUTRE-MER ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
 
-Critère de répartition des compétences en matière de règlement des dommages
+SPHÈRE DE COMPÉTENCE |
 
-Principe : pour l'ensemble des dommages causés ou subis par les armées, la direction générale de l'armement et les services communs.
+Centre d'expertise du soutien juridique (1) |
 
-|
+Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense. |
 
-Lieu d'affectation (rattachement à une base de défense (BdD) de l'agent de l'Etat ou du matériel (équipement) impliqué.
-
-|
-
-Exceptions :
-
-- gendarmerie ;
-
-- dommages aériens ;
-
-- dommages en OPEX ;
-
-- dommages causés ou subis par les agents du ministère affectés à l'étranger et non soutenus par une direction du commissariat ;
-
-- dommages causés aux tiers par les agents du ministère en mission en outre-mer et à l'étranger.
+Formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense, sauf gendarmerie maritime. |
 
 |
 
-Lieu de survenance du dommage.
+1. Cas général :
 
-|
+Règlement des :
 
-En cas de conflit de compétence entre plusieurs services, un seul aura la charge de l'ensemble du dossier.
+- dommages causés ou subis par les forces armées alliées dans le cadre des accords internationaux sur le territoire national et sur les territoires non soutenus par une direction du commissariat ;
 
-|
+- dommages subis par les militaires dans le cadre d'une mission opérationnelle sur le territoire national.
 
-Sphère de compétence
+2. Théâtres d'opérations :
 
-Centre d'expertise du soutien juridique (1)
+Règlement des :
 
-|
+- dommages corporels, hors décès, et dommages matériels subis par les militaires français ;
 
-Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
+- dommages causés aux tiers par les forces françaises survenus sur un théâtre non soutenu par une direction du commissariat.
 
-|
+3. Etranger :
 
-Gendarmerie (4)
+- affectations à l'étranger : règlement des dommages causés ou subis par les agents affectés à l'étranger sur un territoire non soutenu par une direction du commissariat ;
 
-|
+- missions à l'étranger : règlement des dommages causés aux tiers ou subis par les agents en mission sur un territoire non soutenu par une direction du commissariat et subis par les agents en mission sur un territoire soutenu par une direction du commissariat. |
 
-Territoire national :
+Règlement des dommages causés ou subis sur le territoire métropolitain par les formations spécialisées de la gendarmerie, à l'exception de la gendarmerie maritime. |
 
-- indemnisation des dommages causés ou subis par les forces armées alliées sur le territoire français, dans le cadre des conventions en vigueur ;
+Services locaux du contentieux |
 
-Théâtres d'opérations :
+Règlement des dommages causés ou subis sur le territoire métropolitain ne relevant pas de la compétence du centre d'expertise du soutien juridique |
 
-- indemnisation des dommages subis par les militaires français ;
+Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense (BdD dans le ressort de laquelle est affecté le personnel ou stationné le matériel impliqués (2) ou lieu de survenance en cas de dommage aérien). |
 
-- indemnisation des dommages causés aux tiers par les forces françaises survenus sur un théâtre non soutenu par une direction du commissariat ;
+Gendarmerie maritime. |
 
-- recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers, dans la limite des seuils fixés en annexe 1, pour les dommages survenus sur un théâtre non soutenu par une direction du commissariat.
+Bordeaux |
 
-Affectations à l'étranger : dommages causés ou subis par les agents du ministère affectés à l'étranger sur un territoire non soutenu par une direction du commissariat.
-
-Missions à l'étranger : dommages causés aux tiers par les agents du ministère en mission sur un territoire non soutenu par une direction du commissariat.
-
-|
-
-Faits survenus dans la région de gendarmerie : Île-de-France.
-
-Faits survenus sur l'ensemble du territoire métropolitain impliquant des gendarmes de l'air.
-
-|
-
-Service local du contentieux
-
-|
-
-Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
-
-|
-
-Gendarmerie (4)
-
-|
-
-Bordeaux
-
-|
-
-Bordeaux-Mérignac
+Bordeaux - Mérignac
 
 Cazaux
 
@@ -108,59 +66,11 @@ Rochefort - Cognac
 
 Angoulême
 
-Clermont-Ferrand (2)
+Clermont-Ferrand |
 
-|
+Sans objet. |
 
-Faits survenus dans les régions de gendarmerie :
-
-Aquitaine
-
-Limousin
-
-Midi-Pyrénées
-
-Poitou-Charentes.
-
-|
-
-Lyon (3)
-
-|
-
-Clermont-Ferrand
-
-Lyon - Mont-Verdun
-
-Valence
-
-La Valbonne
-
-Grenoble - Annecy - Chambéry
-
-Dijon
-
-Gap
-
-|
-
-Faits survenus dans les régions de gendarmerie :
-
-Auvergne
-
-Rhône-Alpes
-
-Corse- Languedoc-Roussillon
-
-Provence-Alpes-Côte d'Azur
-
-Faits survenus dans l'arrondissement maritime Méditerranée impliquant des gendarmes maritimes.
-
-|
-
-Metz
-
-|
+Metz |
 
 Besançon
 
@@ -178,43 +88,23 @@ Verdun
 
 Phalsbourg
 
-Strasbourg-Haguenau
+Strasbourg - Haguenau
 
-Chaumont - Saint-Dizier
+Saint-Dizier - Chaumont
 
 Charleville-Mézières
 
 Mourmelon - Mailly
 
-Dijon (2)
+Dijon
 
-Lille (2)
+Lille
 
-Creil (2)
+Creil |
 
-|
+Sans objet. |
 
-Faits survenus dans les régions de gendarmerie :
-
-Alsace
-
-Bourgogne
-
-Champagne-Ardenne
-
-Franche-Comté
-
-Lorraine
-
-Nord - Pas-de-Calais
-
-Picardie
-
-|
-
-Rennes
-
-|
+Rennes |
 
 Rennes
 
@@ -226,51 +116,25 @@ Angers - Le Mans - Saumur
 
 Cherbourg
 
-Orléans (2)
+Orléans - Bricy
 
-Bourges - Avord (2)
+Bourges - Avord
 
-Tours (2)
+Tours
 
-Evreux (2)
+Evreux
 
-Montlhéry (2)
+Montlhéry
 
-Paris Ecole Militaire (2)
+Ile-de-France (GSBdD Paris-Ecole militaire, Saint-Germain-en-Laye, Versailles, Villacoublay et Vincennes) |
 
-Villacoublay (2)
+Règlement des dommages survenus dans les arrondissements maritimes Atlantique et Manche-mer du Nord et dans le ressort territorial du commandement de la marine à Paris. |
 
-Vincennes (2)
-
-Saint-Germain en Laye (2)
-
-Versailles (2)
-
-|
-
-Faits survenus dans les régions de gendarmerie :
-
-Basse-Normandie
-
-Bretagne
-
-Centre
-
-Haute-Normandie
-
-Pays de la Loire
-
-Faits survenus dans les arrondissements maritimes Atlantique et Manche-mer du Nord impliquant des gendarmes maritimes.
-
-|
-
-Toulon
-
-|
+Toulon |
 
 Calvi
 
-Solenzara
+Ventiseri - Solenzara
 
 Toulon
 
@@ -282,168 +146,80 @@ Nîmes - Orange - Laudun
 
 Istres - Salon-de-Provence
 
-Marseille - Aubagne - Carcassonne
+Marseille - Aubagne
 
-Lyon - Mont-Verdun (2)
+Carcassonne
 
-Valence (2)
+Lyon-Mont Verdun
 
-La Valbonne (2)
+Valence
 
-Grenoble - Annecy - Chambéry (2)
+La Valbonne
 
-Gap (2)
+Grenoble - Annecy - Chambéry
 
-|
+Gap |
 
-Néant
+Règlement des dommages survenus dans l'arrondissement maritime Méditerranée. |
 
-|
+Directions du commissariat d'outre-mer. |
 
-Directions du commissariat d'outre-mer (5)
+Forces, services ou personnel mentionnés au I de l'article 1er, y compris les formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense. |
 
-|
+Fort-de-France |
 
-Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
+Règlement des dommages survenus en Martinique, en Guadeloupe, en Guyane, à Saint-Pierre-et-Miquelon, à Saint-Martin et à Saint Barthélemy (3). |
 
-|
+Saint-Denis |
 
-Gendarmerie (4)
+Règlement des dommages survenus à la Réunion, à Mayotte et dans les Terres australes et antarctiques françaises (3). |
 
-|
+Nouméa |
 
-Fort-de-France
+Règlement des dommages survenus en Nouvelle-Calédonie (3). |
 
-|
+Papeete |
 
-BdD Antilles
+Règlement des dommages survenus en Polynésie française (3). |
 
-BdD de Guyane
+Côte d'Ivoire |
 
-|
+Règlement des dommages survenus en Côte d'Ivoire (4). |
 
-Faits survenus sur les territoires de la Martinique, de la Guadeloupe, de la Guyane et de Saint-Pierre-et-Miquelon
+Djibouti |
 
-|
+Règlement des dommages survenus à Djibouti (4). |
 
-Saint-Denis
+Gabon |
 
-|
+Règlement des dommages survenus au Gabon (4). |
 
-BdD La Réunion - Mayotte
+Sénégal |
 
-|
+Règlement des dommages survenus au Sénégal (4). |
 
-Faits survenus dans la zone Sud de l'océan Indien
+Emirats Arabes Unis |
 
-|
+Règlement des dommages survenus aux Emirats Arabes Unis (4). |
 
-Nouméa
+Directions du commissariat en opération extérieure |
 
-|
+Pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus :
 
-BdD Nouvelle-Calédonie
+- dommages causés aux tiers par les forces françaises ;
 
-|
+- dommages causés ou subis par les forces armées alliées dans le cadre des accords internationaux ;
 
-Faits survenus en Nouvelle-Calédonie
+- dommages matériels subis par les forces françaises (5) ;
 
-|
+Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1. |
 
-Papeete
+(1) Le centre d'expertise du soutien juridique est également compétent pour le traitement des dossiers de règlement de dommages initiés par le service local du contentieux de Villacoublay avant sa dissolution.
 
-|
+(2) Y compris les bâtiments de la marine nationale et les membres de leur équipage. Le SLC compétent est celui correspondant à la BdD dans laquelle se situe le port-base du bâtiment.
 
-BdD Polynésie française
+(3) A l'exception du règlement des dommages subis par des agents à l'occasion d'une mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est celui correspondant au lieu d'affectation de l'agent impliqué.
 
-|
+(4) A l'exception du règlement des dommages subis par les agents en mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est le centre d'expertise du soutien juridique.
 
-Faits survenus en Polynésie française
-
-|
-
-Côte d'Ivoire
-
-|
-
-Forces françaises en Côte d'Ivoire
-
-|
-
-Faits survenus en Côte d'Ivoire
-
-|
-
-Djibouti
-
-|
-
-Base des forces françaises de à Djibouti
-
-|
-
-Faits survenus à Djibouti
-
-|
-
-Gabon
-
-|
-
-Base des forces françaises du au Gabon
-
-|
-
-Faits survenus au Gabon
-
-|
-
-Sénégal
-
-|
-
-Base des éléments français au Sénégal
-
-|
-
-Faits survenus au Sénégal
-
-|
-
-Émirats arabes unis
-
-|
-
-Base des forces françaises des aux Emirats arabes unis
-
-|
-
-Faits survenus aux Emirats arabes unis
-
-|
-
-Directions du commissariat en OPEX
-
-|
-
-Domaines de compétence
-
-|
-
-Indemnisation des dommages causés aux tiers par les forces françaises pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus.
-
-Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1
-
-|
-
-(1) Le centre d'expertise du soutien juridique est compétent pour les dommages relevant de la sphère de compétence du service local du contentieux de Villacoublay telle que définie avant l'intervention de l'arrêté du 22 juin 2015 modifiant l'arrêté du 23 décembre 2009 fixant les compétences du service du commissariat des armées en matière de règlement des dommages causés ou subis par le ministère de la défense, de défense de ce ministère devant les tribunaux administratifs et de protection juridique de ses agents militaires et civils.
-
-(2) A compter de la date d'entrée en vigueur de l'arrêté mentionné au (1) ci-dessus.
-
-(3) Jusqu'à sa dissolution, le service local du contentieux de Lyon assure le traitement des dossiers de dommages survenus dans sa sphère de compétence telle que définie avant l'intervention de l'arrêté mentionné au (1) ci-dessus. Le transfert de ces dossiers aux autres services locaux du contentieux sera réalisé selon les modalités définies par le chef du centre d'expertise du soutien juridiques.
-
-(4) Conformément à l'annexe 8 de la délégation de gestion conclue entre le ministère de la défense et le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales le 28 juillet 2008.
-
-(5) Les directions du commissariat d'outre-mer sont compétentes pour les dommages causés aux tiers par les agents en mission sur les territoires dont elles assurent le soutien.
-
-|
+(5) Les dommages subis à titre personnel par un militaire sont du ressort du centre d'expertise du soutien juridique. |
