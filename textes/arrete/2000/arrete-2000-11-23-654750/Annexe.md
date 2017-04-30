@@ -114,7 +114,7 @@ Directeur, adjoint au directeur général des collectivités locales
 
 140 |
 
-Délégué à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
+Délégué à la sécurité routière (à compter du 2 octobre 2013)
 
 |
 
@@ -296,7 +296,7 @@ Chef de service, adjoint au directeur général de la sécurité civile et de la
 
 |
 
-Chef de service, adjoint au délégué à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
+Chef de service, adjoint au délégué à la sécurité routière (à compter du 2 octobre 2013)
 
 |
 
@@ -476,15 +476,23 @@ par emploi
 
 |
 
-En charge d'une sous-direction relevant du secrétariat général
+En charge d'un service relevant du secrétariat général
 
 |
 
-Direction de la modernisation et de l'action territoriale
+Service central des armesChef |
+
+de service1100En |
 
 |
 
-Sous-directeur du corps préfectoral et des administrateurs civils
+|
+
+charge d'une sous-direction relevant du secrétariat généralDirection |
+
+de la modernisation et de l'action territorialeSous |
+
+-directeur du corps préfectoral et des administrateurs civils
 
 |
 
@@ -564,7 +572,29 @@ Sous-directeur de l'action sociale et de l'accompagnement des personnels
 
 |
 
-Direction de l'évaluation de la performance, des affaires financières et immobilières
+Direction générale de la sécurité intérieure
+
+|
+
+Chef de service, directeur technique adjoint1100Chef |
+
+|
+
+|
+
+du service de l'administration générale1100Sous |
+
+|
+
+|
+
+-directeur à la direction technique1100Direction |
+
+|
+
+|
+
+de l'évaluation de la performance, des affaires financières et immobilières
 
 |
 
@@ -696,7 +726,7 @@ Sous-directeur, délégué à l'information et à la communication
 
 |
 
-En charge d'une sous-direction relevant de la délégation à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
+En charge d'une sous-direction relevant de la délégation à la sécurité routière (à compter du 2 octobre 2013)
 
 |
 
@@ -844,11 +874,11 @@ Sous-directeur des libertés publiques
 
 |
 
-En charge d'une sous-direction relevant de la direction générale de la sécurité civile et de la gestion des crises
+Direction générale de la sécurité civile et de la gestion des crises
 
 |
 
-Sous-directeur de la planification et de la gestion des crises
+Chef du service de la planification et de la gestion des crises, chargé de la sous-direction de la préparation à la gestion des crises
 
 |
 
@@ -872,7 +902,7 @@ Sous-directeur des moyens nationaux
 
 |
 
-Sous-directeur des ressources, des compétences et de la doctrine d'emploi
+Sous-directeur de la doctrine et des ressources humaines
 
 |
 
@@ -896,7 +926,13 @@ Sous-directeur des services d'incendie et des acteurs de secours
 
 |
 
-En charge d'une sous-direction relevant de la direction générale des outre-mer
+Sous-directeur de la stratégie, des affaires internationales et des ressources180En |
+
+|
+
+|
+
+charge d'une sous-direction relevant de la direction générale des outre-mer
 
 |
 

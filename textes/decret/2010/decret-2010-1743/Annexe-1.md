@@ -108,7 +108,7 @@ Comité technique paritaire (CTP) spécial placé auprès de chaque responsable 
 
 ― direction générale de la prévention des risques,
 
-― délégation à la sécurité et à la circulation routières.
+― délégation à la sécurité routière.
 
 Comité technique paritaire (CTP) spécial placé auprès du Vice-président du Conseil général de l'environnement et du développement durable
 

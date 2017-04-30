@@ -2,7 +2,7 @@
 
 MINISTÈRE DE L'INTÉRIEUR
 
-DÉLÉGATION À LA SÉCURITÉ ET À LA CIRCULATION ROUTIÈRES
+DÉLÉGATION À LA SÉCURITÉ ROUTIÈRE
 
 SOUS-DIRECTION DE L'ÉDUCATION ROUTIÈRE ET DU PERMIS DE CONDUIRE
 
@@ -116,211 +116,111 @@ L'objet du présent agrément est l'organisation et la surveillance de l'épreuv
 
 2.1. Principaux sigles et abréviations
 
-MI
+MI |
 
-|
+Ministère de l'intérieur |
 
-Ministère de l'intérieur
+DSCR |
 
-|
+Délégation à la sécurité et à l'éducation routières |
 
-DSCR
+DSIC |
 
-|
+Direction des systèmes d'information et de communication |
 
-Délégation à la sécurité et à l'éducation routières
+ANSSI |
 
-|
+Agence nationale de la sécurité des systèmes d'information |
 
-DSIC
+SNPC |
 
-|
+Système national du permis de conduire |
 
-Direction des systèmes d'information et de communication
+OA |
 
-|
+Organisme agréé |
 
-ANSSI
+EECSR |
 
-|
+Etablissement d'enseignement de la conduite et de la sécurité routière |
 
-Agence nationale de la sécurité des systèmes d'information
+ETG |
 
-|
+Epreuve théorique générale |
 
-SNPC
-
-|
-
-Système national du permis de conduire
-
-|
-
-OA
-
-|
-
-Organisme agréé
-
-|
-
-EECSR
-
-|
-
-Etablissement d'enseignement de la conduite et de la sécurité routière
-
-|
-
-ETG
-
-|
-
-Epreuve théorique générale
-
-|
-
-RGS
-
-|
+RGS |
 
 Référentiel général de sécurité
 
-Disponible par voie électronique sur le site internet de l'Agence nationale de la sécurité des systèmes d'information ( www.ssi.gouv.fr/rgs) et sur le site internet du secrétariat général à la modernisation de l'action publique (www.references.modernisation.gouv.fr)
+Disponible par voie électronique sur le site internet de l'Agence nationale de la sécurité des systèmes d'information ( www.ssi.gouv.fr/rgs) et sur le site internet du secrétariat général à la modernisation de l'action publique (www.references.modernisation.gouv.fr) |
 
-|
+NEPH |
 
-NEPH
+Numéro d'enregistrement préfectoral harmonisé |
 
-|
+WS-ETG |
 
-Numéro d'enregistrement préfectoral harmonisé
+Web Service ETG : service web unifié de gestion des épreuves théoriques générales du permis de conduire |
 
-|
+CC |
 
-WS-ETG
+Cahier des charges |
 
-|
+SSI |
 
-Web Service ETG : service web unifié de gestion des épreuves théoriques générales du permis de conduire
+Sécurité des systèmes d'information |
 
-|
+SI OA |
 
-CC
+Systèmes d'information de l'organisme agréé |
 
-|
+LAN |
 
-Cahier des charges
+Local Area Network (réseau informatique local) |
 
-|
+RSSI |
 
-SSI
+Responsable sécurité des systèmes et réseaux d'information et de communication |
 
-|
+MCO |
 
-Sécurité des systèmes d'information
-
-|
-
-SI OA
-
-|
-
-Systèmes d'information de l'organisme agréé
-
-|
-
-LAN
-
-|
-
-Local Area Network (réseau informatique local)
-
-|
-
-RSSI
-
-|
-
-Responsable sécurité des systèmes et réseaux d'information et de communication
-
-|
-
-MCO
-
-|
-
-Maintien en condition opérationnelle
-
-|
+Maintien en condition opérationnelle |
 
 2.2. Glossaire
 
 Ce glossaire est contractuel, ce qui signifie qu'en cas de doute ou d'ambiguïté sur l'emploi d'un mot ou d'une expression, c'est la définition donnée ci-dessous qui prévaut, même si elle n'est pas conforme aux acceptions usuelles.
 
-MOT OU EXPRESSION
+MOT OU EXPRESSION |
 
-|
+DÉFINITION |
 
-DÉFINITION
+Examinateur |
 
-|
+Personne qui supervise l'ETG et présente les garanties mentionnées aux articles L. 221-8 et R. 221-3-10 du code de la route |
 
-Examinateur
+Organisme agréé (OA) |
 
-|
+Personne agréée qui organise l'ETG au sens de l'article L. 221-4. |
 
-Personne qui supervise l'ETG et présente les garanties mentionnées aux articles L. 221-8 et R. 221-3-10 du code de la route
+candidat |
 
-|
+Personne dont l'éligibilité au passage de l'ETG a été validée par le MI |
 
-Organisme agréé (OA)
+Session |
 
-|
+Période fractionnée d'une journée pendant laquelle des examens ETG ont lieu |
 
-Personne agréée qui organise l'ETG au sens de l'article L. 221-4.
+Site individuel |
 
-|
+Site d'examen conçu et prévu pour le passage d'un seul candidat par session |
 
-candidat
+Site collectif |
 
-|
+Site d'examen conçu et prévu pour le passage de plusieurs candidats par session |
 
-Personne dont l'éligibilité au passage de l'ETG a été validée par le MI
+Poste candidat |
 
-|
-
-Session
-
-|
-
-Période fractionnée d'une journée pendant laquelle des examens ETG ont lieu
-
-|
-
-Site individuel
-
-|
-
-Site d'examen conçu et prévu pour le passage d'un seul candidat par session
-
-|
-
-Site collectif
-
-|
-
-Site d'examen conçu et prévu pour le passage de plusieurs candidats par session
-
-|
-
-Poste candidat
-
-|
-
-Poste individuel d'examen du candidat (micro-ordinateurs, tablettes).
-
-|
+Poste individuel d'examen du candidat (micro-ordinateurs, tablettes). |
 
 2.3. Conventions
 

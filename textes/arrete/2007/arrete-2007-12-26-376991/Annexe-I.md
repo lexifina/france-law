@@ -302,7 +302,7 @@ Chef du bureau du personnel civil. |
 
 30 |
 
-Délégation à la sécurité et à la circulation routières. |
+Délégation à la sécurité routière. |
 
 Chef du bureau du permis de conduire.
 
