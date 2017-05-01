@@ -264,9 +264,7 @@ Agrément des sites naturels de compensation mentionnés à l'article L. 163-3 d
 
 |
 
-Article R. 163-2
-
-|
+Article R. 163-2 |
 
 Livre II
 
@@ -466,9 +464,7 @@ Article R. 341-12
 
 Commissionnement des agents non publics des réserves naturelles |
 
-Article R. 332-68
-
-|
+Article R. 332-68 |
 
 Livre IV
 
@@ -875,3 +871,9 @@ Annulation des certificats d'économies d'énergie en fin de période.
 Article 14 du décret n° 2014-1668 du 29 décembre 2014
 
 |
+
+VIII.-Décret n° 2017-673 du 28 avril 2017 relatif à l'utilisation du titre de paysagiste concepteur :
+
+Autorisation d'utiliser le titre de paysagiste concepteur mentionné à l'article 174 de la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages. |
+
+Article 2 |
