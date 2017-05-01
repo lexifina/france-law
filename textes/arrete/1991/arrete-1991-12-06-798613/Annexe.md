@@ -558,7 +558,7 @@ A
 
 |
 
-4. Personnels nommés dans l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche
+4. Personnels nommés dans les emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche, d'adjoint au secrétaire général d'académie, de secrétaire général de direction des services départementaux de l'éducation nationale et de secrétaire général de vice-rectorat
 
 |
 
