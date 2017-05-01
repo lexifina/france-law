@@ -40,29 +40,7 @@ ORGANISATION DES INSTALLATIONS DE CONTRÔLE
 
 1.5.L'ensemble des documents est présent dans chaque installation de contrôle.
 
-1.6. Le centre de contrôle établit tous les cinq ans un rapport d'activité quinquennal, qu'il transmet à la direction régionale visée à l'article 40 du présent arrêté. Ce rapport d'activité expose notamment, pour chaque année :
-
-1. Le volume d'activité par catégorie de véhicule (nombre de visites techniques périodiques et nombre de contre-visites, taux de refus).
-
-2. Le nombre de contrôleurs ayant travaillé sur l'installation et la liste des numéros d'agrément.
-
-3. Le nombre moyen de visites techniques périodiques et de contre-visites par contrôleur.
-
-4. Le bilan des formations et des actions correctives mises en place suite à une perte de qualification.
-
-5. La situation des matériels de contrôle en place (marque, modèle, situation vis-à-vis des étalonnages prévus au paragraphe 3.1 de l'annexe V du présent arrêté et de la dernière version du cahier des charges correspondant).
-
-6. Le cas échéant, copie des fiches d'écart et des fiches d'observation d'inspection sur site, émises lors de la dernière évaluation du réseau et qui concernent le centre.
-
-7. Le bilan du suivi du volume d'activités avec répartition par propriétaire (si > à 3 %).
-
-8. Le bilan des recours amiables émanant de la clientèle et des suites qui leur ont été données.
-
-9. La copie de l'accréditation en vigueur (décision et rapport de surveillance du COFRAC).
-
-10. La description de tout fait ou activité que le centre jugerait nécessaire pour éclairer son activité.
-
-Pour les installations exploitées par un réseau, ce bilan peut être intégré au bilan annuel prévu au point 1.7 de l'annexe VI du présent arrêté et les points 4, 6, 8 et 9 traités uniquement dans le cadre du bilan du réseau.
+1.6. (Supprimé)
 
 1.7. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 37 du présent arrêté, et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point 2 de l'annexe III et du protocole en vigueur, prévu au point b de l'article 38 du présent arrêté.
 
@@ -123,6 +101,8 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 6.1.6. Des statistiques d'activité au minimum mensuelle précisant par contrôleur le taux de refus comparés aux taux nationaux.
 
 6.1.7. Un document mentionnant la prise de connaissance par l'exploitant et les contrôleurs des indicateurs fournis par l'OTC.
+
+6.1.8. Un document (registre, fiches, etc.) mentionnant les conclusions des analyses des compteurs d'exception fournis par l'OTC.
 
 6.3. Tous ces documents sont archivés pendant au moins quatre ans, sans préjudice des autres réglementations en vigueur.
 
