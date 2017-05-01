@@ -744,7 +744,25 @@ Saint-Barthélemy |
 
 Saint-Barthélemy |
 
-Réservé aux compagnies de transport aérien et aux aéronefs et pilotes satisfaisant aux conditions de restriction publiées par la voie de l'information aéronautique. |
+L'aérodrome de Saint-Barthélemy est réservé aux aéronefs dont les pilotes satisfont au critère suivant :
+
+-s'agissant des avions, les pilotes justifient d'une aptitude reconnue préalablement à la desserte de l'aérodrome par un instructeur sur le type ou la classe d'avion envisagé, sauf si le vol s'inscrit dans le cadre d'une formation pratique en vol du pilote en vue de la reconnaissance de l'aptitude précitée ;
+
+-s'agissant des giravions, les pilotes justifient d'une aptitude reconnue, préalablement à la desserte de l'aérodrome, par un instructeur dans le cadre d'une formation théorique au sol.
+
+Les pilotes d'avions ayant desservi l'aérodrome dans les six mois précédant la date d'entrée en vigueur du présent arrêté sur le type ou la classe d'avion envisagé, ainsi que les pilotes de giravions ayant assuré cette desserte au cours de la même période, sont réputés satisfaire à cette exigence.
+
+Les exigences de formation théorique et pratique et les conditions du maintien de l'aptitude des pilotes sont publiées par la voie de l'information aéronautique.
+
+Sur cette base, le programme de formation des pilotes en vue d'une exploitation en transport public est défini par l'exploitant de l'aéronef. La formation pratique en vol en vue d'une exploitation en transport public est réalisée à l'occasion de vols d'entraînement en présence uniquement de l'équipage technique concerné par la formation, sans passager à bord.
+
+Les exigences du présent article ne sont pas applicables aux aéronefs ultralégers motorisés.
+
+Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des services aériens par avion de/vers l'aérodrome de Saint-Barthélemy soumettent au préalable à l'autorisation de la direction de la sécurité de l'aviation civile Antilles-Guyane un dossier de démonstration de performances à l'atterrissage, dans des conditions publiées par la voie de l'information aéronautique.
+
+Il peut être dérogé aux conditions d'utilisation prévues aux articles 1er et 2 par décision de la direction de la sécurité de l'aviation civile Antilles-Guyane.
+
+|
 
 Sainte-Léocadie |
 
