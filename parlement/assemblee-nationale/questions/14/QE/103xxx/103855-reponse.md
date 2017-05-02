@@ -1,0 +1,9 @@
+# Réponse à la question n° 103855
+
+- Question : [103855](103855.md) — Question n° 103855 — investissement; bilan
+
+## Réponse
+
+*JO du 2017-05-02*
+
+Le plan Juncker a pour objectif de soutenir la croissance par la relance de l'investissement dont le niveau a baissé en Europe à la suite de la crise financière de 2008. Le Fonds européen des investissements stratégiques (FEIS) vise à soutenir des investissements publics et privés via une garantie, à travers un effet de levier sur les financements privés et publics. Il intervient notamment dans des domaines clés tels que la recherche et l'innovation, les infrastructures, l'éducation et soutient les financements risqués que la BEI n'aurait pas pu soutenir sans les garanties du FEIS. Le FEIS devait permettre de mobiliser 315 milliards d'euros d'investissements sur une période de trois ans, allant de 2015 à 2017. Une proposition de modification des règlements (UE) N°1316/2013 et (UE) 2015/1017), présentée par la Commission européenne le 14 septembre 2016 vise à prolonger le plan Juncker jusqu'en 2020 et à l'étendre jusqu'à 500 milliards d'euros. Au 9 mars 2017,au sein de l'Union européenne, le montant total des financements EFSI atteint 32,8 milliards d'euros pour un montant d'investissements associés évalué à 177,7 milliards d'euros. En France, le montant total des financements EFSI atteint 4,3 milliards d'euros générant 20,6 milliards d'euros d'investissements associés sur l'ensemble du territoire à travers plus de 50 projets. Les projets sont financés dans des secteurs divers tels que la rénovation thermique, les énergies renouvelables ou encore l'investissement au sein de PME innovantes. On peut citer comme exemple le financement de projets d'énergie renouvelable par le fonds Capenergie 3, le déploiement du très haut débit en Alsace ou encore la dépollution de sites industriels avec le fonds gingko. La banque européenne d'investissement publie chaque année un bilan de ses activités en France.
