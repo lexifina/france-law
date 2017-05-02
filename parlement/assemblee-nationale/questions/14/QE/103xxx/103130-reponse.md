@@ -1,0 +1,9 @@
+# Réponse à la question n° 103130
+
+- Question : [103130](103130.md) — Question n° 103130 — rémunération; revalorisation
+
+## Réponse
+
+*JO du 2017-05-02*
+
+Les infirmiers anesthésistes qui travaillent au bloc opératoire sont les collaborateurs indispensables des médecins anesthésistes réanimateurs. Ces infirmiers expriment des attentes, puisque l'exercice de leur profession évolue. Un travail est engagé avec eux depuis 2012. Dans un premier temps, leur formation a été revue et il s'agit maintenant de réfléchir aux évolutions qui peuvent être apportées à l'exercice de leur profession. Fin 2015, le ministère de la santé a piloté un groupe de travail impliquant ces professionnels, les médecins anesthésistes réanimateurs et les médecins urgentistes afin de définir les domaines dans lesquels une évolution de l'exercice des infirmiers anesthésistes est justifiée. Ce travail a permis d'actualiser le décret définissant leur profession ; le projet de décret est actuellement à l'examen du Conseil d'Etat. Pour ce qui est de la rémunération, la grille statutaire des infirmiers anesthésistes a évolué à deux reprises, en 2012 et en 2015. Dans la continuité du travail engagé sur l'évolution de l'exercice du métier, qui constituait un préalable, des négociations devant conduire à des revalorisations salariales ont été engagées. Un certain nombre de propositions ont été adressées aux organisations syndicales, d'abord dans le cadre d'un long processus de négociation avec le ministère de la santé, puis dernièrement dans une approche interministérielle en association avec le ministère de la fonction publique. Ces propositions constituent un effort particulièrement important de la part du gouvernement et attestent l'attention spécifique accordée à la profession d'infirmier anesthésiste de bloc opératoire. Les négociations sont toujours en cours et leur aboutissement sera présenté au conseil supérieur de la fonction publique hospitalière du 16 mars 2017.
