@@ -1,0 +1,9 @@
+# Réponse à la question n° 75054
+
+- Question : [75054](75054.md) — Question n° 75054 — diplôme; conditions d'obtention; réforme
+
+## Réponse
+
+*JO du 2017-05-02*
+
+Le principe général d'éligibilité à une validation des acquis de l'expérience est posé par l'article L. 335-5 du code de l'éducation. La condition de cette éligibilité requiert du candidat la justification de l'exercice d'une activité en rapport direct avec la certification visée pendant une durée minimale de trois ans. Cette condition reste inchangée. Il convient de faire la distinction entre les conditions d'éligibilité à une validation des acquis de l'expérience et les conditions d'ouverture d'un droit à un congé pour validation des acquis de l'expérience. L'article L. 6422-2 du code du travail et les dispositions d'application au travers de l'article 1er du décret du 12 novembre 2014 (art. R. 6422-7-1 du code du travail) porte sur les conditions d'ancienneté d'activité pour bénéficier d'un congé pour validation des acquis de l'expérience (VAE) concernant les personnes en contrat à durée déterminée. La personne titulaire d'un tel contrat doit justifier de vingt-quatre mois d'activité salariée ou d'apprentissage, consécutifs ou non, quelle qu'ait été la nature des contrats successifs, au cours des cinq dernières années. Cette disposition vient supprimer la double condition prévue par les dispositions antérieures : - vingt-quatre mois, consécutifs ou non, en qualité de salarié au cours des cinq dernières années, - une durée de quatre mois, consécutifs ou non, sous contrat de travail à durée déterminée, au cours des douze derniers mois. La condition d'ouverture du droit à un congé VAE pour une personne titulaire d'un contrat à durée déterminée n'exclut pas, pour être éligible à la validation des acquis de l'expérience, de justifier de trois ans d'activité en lien avec la certification visée et calculée sur une période qui n'est pas limitée.
