@@ -1,0 +1,9 @@
+# Réponse à la question n° 101412
+
+- Question : [101412](101412.md) — Question n° 101412 — comptes annuels; astreintes; délais de prescription
+
+## Réponse
+
+*JO du 2017-05-02*
+
+Les articles L. 232-21 à L. 232-23 du code de commerce (c.com) prévoient l'obligation pour certaines sociétés en nom collectif, les sociétés à responsabilité et les sociétés par actions, de déposer leurs comptes annuels en annexe du registre du commerce et des sociétés (RCS), dans le mois suivant l'approbation des comptes par l'assemblée générale des actionnaires ou des associés. Le délai est porté à deux mois lorsque la transmission est effectuée par voie électronique. Des mécanismes de contrôle ou de sanction en cas de non-dépôt des comptes existent, au plan civil (art. L.123-5-1 c.com), au plan pénal (art. R. 247-3 c.com) ou en matière de prévention des entreprises en difficultés (art. L 611-2.II c.com). Dans cette dernière hypothèse, lorsque la société n'a pas déposé ses comptes dans les délais prévus par les textes applicables, le président du tribunal de commerce peut lui enjoindre de le faire dans un délai d'un mois à compter de la notification ou de la signification de l'ordonnance, sous peine d'astreinte. L'ordonnance fixe notamment le taux de l'astreinte (art. R. 611-13 c. com.). En cas d'inexécution de cette injonction de faire, le président du tribunal de commerce statue sur la liquidation de l'astreinte (art. R. 611-16 c. com.). Lorsque la décision statuant sur la liquidation de l'astreinte a force exécutoire, c'est-à-dire qu'elle est passée en force de chose jugée, et sous réserves des conditions énumérées aux articles 502 et suivants du code de procédure civile, son exécution peut être poursuivie pendant dix ans (art. L. 111-3 et L. 111-4 du code des procédures civiles d'exécution).
