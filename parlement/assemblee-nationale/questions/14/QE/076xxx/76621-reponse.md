@@ -1,0 +1,9 @@
+# Réponse à la question n° 76621
+
+- Question : [76621](76621.md) — Question n° 76621 — programme SelectUSA; bilan
+
+## Réponse
+
+*JO du 2017-05-02*
+
+SelectUSA est une initiative du Département du Commerce visant à promouvoir l'attractivité du territoire américain. Elle prend la forme d'une manifestation annuelle qui s'apparente à une "foire internationale" de l'investissement étranger. Selon les autorités américaines, le programme aurait déjà facilité l'investissement de 23 milliards de dollars et la création ou le maintien de dizaines de milliers d'emplois sur le sol américain. Cette manifestation permet à l'administration américaine de présenter différents programmes fédéraux (encouragement au développement / implantation de structures / entreprises "vertes" grâce à des financements particuliers, dons, partenariats, accès à un annuaire de spécialistes des questions juridiques, fiscales etc.) et locaux. Les Etats fédérés, mais également des experts sont présents et répondent aux interrogations des entreprises étrangères qui participent à la manifestation. Selon les statistiques établies par l'administration américaine, le stock cumulé des investissements directs français aux Etats-Unis représente en 2015 environ 251 Mds USD qui concourent à l'emploi de 574.000 personnes. Selon une enquête réalisée par la publication FDI Markets, les entreprises étrangères présentes ont annoncé dans les mois suivant la manifestation de 2016 des investissements à venir aux Etats-Unis pour l'équivalent de 2,6 Mds USD, investissements qui contribueraient à la création d'environ 5.400 emplois (soit légèrement moins que l'année dernière). Compte tenu de leur caractère purement déclaratif, il n'est pas possible de déterminer la part de ces annonces imputable à des entreprises françaises, ni la part des annonces résultant directement de la participation au "sommet". Il n'est pas non plus possible d'identifier les projets qui ont été effectivement mis en œuvre.
