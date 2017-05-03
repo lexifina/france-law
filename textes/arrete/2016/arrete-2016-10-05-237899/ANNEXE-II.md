@@ -1,8 +1,6 @@
 # Article ANNEXE II
 
-ANNEXE 2
-
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ, RELEVANT DE L'ARTICLE L.163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2016
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ, RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
 
 BASSIN
 
@@ -130,11 +128,11 @@ Montceau les Mines |
 
 Barrat Lucy/ Ruisseau des Marais |
 
-Saint Louis/La Bourbince |
+Saint Louis/ La Bourbince |
 
 Sanvignes les Mines |
 
-Les Fouthiaux/Ruisseau du Moulin Neuf |
+Les Fouthiaux/ Ruisseau du Moulin Neuf |
 
 Forages de décharge |
 
@@ -196,7 +194,7 @@ Galerie du Woigot |
 
 Forages de rabattement |
 
-Amodiation du Warndt -Allemagne |
+Amodiation du Warndt-Allemagne |
 
 Nassweiler |
 
@@ -228,6 +226,8 @@ F5 |
 
 F6 |
 
+Sarre et Moselle |
+
 Creutzwald |
 
 Croix |
@@ -237,10 +237,6 @@ CREU-Rabat1 |
 Poste |
 
 CREU-Rabat2 |
-
-Est |
-
-Forages de rabattement |
 
 Sarre et Moselle |
 
@@ -304,7 +300,7 @@ ROS ALL2 |
 
 ROS GTI 1 |
 
-Schœneck |
+Schoeneck |
 
 P50 |
 
@@ -340,6 +336,8 @@ Puits 4 |
 
 PZ SDEC 02 |
 
+LH 2017 07 |
+
 Sarre et Moselle |
 
 Betting les Saint Avold |
@@ -364,6 +362,8 @@ COCH GTI 1 |
 
 Creutzwald |
 
+(vide) |
+
 IPA 1 |
 
 Puits Barrois |
@@ -379,16 +379,6 @@ PZ SDEC 05 |
 CREU-GTi 2 |
 
 CREU-All 1 |
-
-Est |
-
-Piézomètres |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
 
 CREU-All 2 |
 
@@ -428,6 +418,18 @@ CREU-All 15 |
 
 CREU-All 16 |
 
+CREU-GTi 7 |
+
+CREU-GTi 8 |
+
+CREU-GTi 9 |
+
+CREU-GTi 10 |
+
+CREU-GTi 11 |
+
+CREU-ALL 4 |
+
 Freyming Merlebach |
 
 MERL ALL 1 |
@@ -449,6 +451,8 @@ HAM GTI |
 HAM ALL |
 
 Hombourg Haut |
+
+(vide) |
 
 HOM ALL 1 |
 
@@ -496,7 +500,7 @@ Puits Vouters |
 
 Stations de relevage des eaux |
 
-Amodiation du Warndt -Allemagne |
+Amodiation du Warndt-Allemagne |
 
 Grossrosseln |
 
@@ -552,8 +556,6 @@ Bruay |
 
 Bruay la Buissière |
 
-(vide) |
-
 Bruay |
 
 Piézomètres |
@@ -562,7 +564,7 @@ Auchy au Bois |
 
 Ligny lès Aire |
 
-Puits 2 - 2 bis |
+Puits 2-2 bis |
 
 PZC L bis |
 
@@ -594,7 +596,7 @@ Vimy Fresnoy |
 
 Vimy |
 
-Puits 1 - 1 bis |
+Puits 1-1 bis |
 
 PZC V |
 
@@ -636,7 +638,15 @@ Godion |
 
 Viviers de Sin |
 
+Nord |
+
+Stations de relevage des eaux |
+
+Aniche |
+
 Somain |
+
+(vide) |
 
 Boquet |
 
@@ -736,15 +746,9 @@ Pont de Divion |
 
 Rue des Ecoles |
 
-Nord |
-
-Stations de relevage des eaux |
-
 Meurchin |
 
 Wingles |
-
-(vide) |
 
 Chemin du Clair |
 
@@ -810,9 +814,13 @@ Plan incliné des Oules |
 
 fossé des Oules |
 
+Canalisations |
+
 C3 |
 
-Fuveau - Gréasque |
+Fuveau-Gréasque |
+
+(vide) |
 
 Madame d'André |
 
@@ -852,15 +860,13 @@ Graissessac |
 
 TB de Grand Champ |
 
-Portes &amp; Senechas |
+Portes & Senechas |
 
 La Vernarède |
 
 Galerie Burat |
 
-Robiac
-
-&amp; Meyrannes |
+Robiac & Meyrannes |
 
 Bessèges |
 
@@ -884,9 +890,7 @@ Galerie la Royale 2 |
 
 Galerie Saint Pierre |
 
-Saint Martin
-
-de Valgalgues |
+Saint Martin de Valgalgues |
 
 Galerie nationale |
 
@@ -896,9 +900,7 @@ Le Bousquet d'Orb |
 
 TB 250 |
 
-Trelys
-
-&amp; Palmesalade |
+Trelys & Palmesalade |
 
 Martinet |
 
@@ -940,19 +942,13 @@ Decazeville |
 
 Emergence de Fontvernhes |
 
-Sud |
-
-Emergences minières |
-
 Lavernhe |
 
 Aubin |
 
-(vide) |
-
 Emergence du Gua |
 
-Emergence du Crol Bas/Fournol |
+Emergence du Crol Bas/ Fournol |
 
 Cransac |
 
@@ -984,9 +980,9 @@ Peypin |
 
 Galerie la Doria |
 
-Hors concession - C4 - C5 |
+Hors concession-C4-C5 |
 
-Marseille - Mimet - Simiane |
+Marseille-Mimet-Simiane |
 
 Galerie de la Mer |
 
@@ -1008,13 +1004,13 @@ La Jonche |
 
 Saint Arey |
 
+(vide) |
+
 Galerie de Combe Neveuse |
 
 Galerie de la Beaume |
 
-La Motte
-
-d'Aveillans |
+La Motte d'Aveillans |
 
 La Motte d'Aveillans |
 
@@ -1040,9 +1036,7 @@ La Ricamarie |
 
 Fendue Lyon |
 
-Peychagnard
-
-Nouvelle |
+Peychagnard Nouvelle |
 
 Prunières |
 
@@ -1056,7 +1050,7 @@ Galerie du Peychagnard N10 |
 
 Galerie Fontveille 1 |
 
-Roche la Molière &amp; Firminy |
+Roche la Molière & Firminy |
 
 Firminy |
 
@@ -1082,7 +1076,13 @@ Charmes et Soyons |
 
 Soyons |
 
-Galerie G7, G8, G9, G10 |
+G7 |
+
+G8 |
+
+G9 |
+
+G10 |
 
 Forages de rabattement |
 
@@ -1120,9 +1120,11 @@ Cransac |
 
 Cransac |
 
-Puits 1 nouveau |
+Cantaranne 1 |
 
 Treille haute 1 |
+
+Puits 1 ancien |
 
 C2 |
 
@@ -1140,7 +1142,7 @@ Puits Gérard |
 
 Fontsante |
 
-Tanneron/Callian |
+Tanneron/ Callian |
 
 bassin Lenté |
 
@@ -1152,27 +1154,17 @@ PZ3 |
 
 PZ4 |
 
-Prélèvements d'eaux
+Prélèvements d'eaux de surface |
 
-de surface |
-
-confluent fossé
-
-ruisseau
-
-des Charretiers |
+confluent fossé ruisseau des Charretiers |
 
 P1 |
-
-Sud |
 
 Stations de pompage |
 
 Rochebelle |
 
-Saint Martin
-
-de Valgalgues |
+St Martin de Valgalgues |
 
 (vide) |
 
@@ -1190,11 +1182,7 @@ Mimet |
 
 Puits Gérard |
 
-Stations
-
-de relevage
-
-des eaux |
+Stations de relevage des eaux |
 
 C3 |
 
@@ -1206,15 +1194,13 @@ Stations de traitement des eaux |
 
 Rochebelle |
 
-Saint Martin
-
-de Valgalgues |
+St Martin de Valgalgues |
 
 Destival |
 
-Hors concession - C4 - C5 |
+Hors concession-C4-C5 |
 
-Marseille - Mimet - Simiane |
+Marseille-Mimet-Simiane |
 
 Galerie de la Mer complétée par 3 sondages en mer |
 

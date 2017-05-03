@@ -1,8 +1,6 @@
 # Article ANNEXE III
 
-ANNEXE 3
-
-INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L.174-1 ET L.174-2 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2016
+INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L.174-1 ET L.174-2 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
 
 BASSIN
 
@@ -54,6 +52,8 @@ Circuit Flanc Sud D15 |
 
 Sondage D20 bis |
 
+Sondage D43 |
+
 Fontenay le Marmion - May sur Orne |
 
 Circuit Flanc Sud Orne |
@@ -62,9 +62,9 @@ May sur Orne |
 
 Circuit Flanc Sud D10 |
 
-Sondage D03 |
-
 Sondage D13 |
+
+Sondage D03 bis |
 
 Saint André sur Orne |
 
@@ -122,9 +122,7 @@ BBT1 |
 
 BBT2 |
 
-Réseaux
-
-de nivellement |
+Réseaux de nivellement |
 
 Barbery |
 
@@ -162,9 +160,7 @@ Rocquancourt |
 
 Rocquancourt centre |
 
-May sur Orne -
-
-Garcelles |
+May sur Orne - Garcelles |
 
 Fontenay le Marmion - Rocquancourt |
 
@@ -172,23 +168,13 @@ Rocquancourt Est |
 
 May sur Orne - Saint André sur Orne |
 
-May sur Orne -
-
-Saint Martin de Fontenay |
+May sur Orne - Saint Martin de Fontenay |
 
 May sur Orne Est |
-
-Centre Ouest |
-
-Réseaux
-
-de nivellement |
 
 Soumont |
 
 Soumont Saint Quentin |
-
-(vide) |
 
 Aisy |
 
@@ -212,6 +198,8 @@ Blanzy Montceau |
 
 Montceau les Mines |
 
+(vide) |
+
 Bois du Verne 2 |
 
 Sanvignes les Mines |
@@ -224,9 +212,7 @@ Perrecy les Forges |
 
 Romagne |
 
-Têtes de puits
-
-non matérialisées |
+Têtes de puits non matérialisées |
 
 Blanzy Montceau |
 
@@ -288,9 +274,9 @@ Homécourt |
 
 Centre Pablo Picasso |
 
-Jœuf |
+Joeuf |
 
-Eglise de Jœuf |
+Eglise de Joeuf |
 
 Cavités |
 
@@ -299,8 +285,6 @@ De Wendel F |
 Hayange |
 
 Forage 190 Cité Bellevue |
-
-Grand Bois |
 
 Hayange Côte de Fesche |
 
@@ -342,9 +326,7 @@ Thil |
 
 SD3 Rue du Petit Bois |
 
-Godbrange -
-
-Hussigny |
+Godbrange - Hussigny |
 
 Hussigny Godbrange |
 
@@ -370,9 +352,7 @@ Forage S9H Rue Mouty |
 
 Forage S2H Rue des Sapins |
 
-Godbrange -
-
-Villerupt |
+Godbrange - Villerupt |
 
 Thil |
 
@@ -380,15 +360,9 @@ Thil Galerie des V1 |
 
 Thil Petit Bois |
 
-Est |
-
-Cavités |
-
 Hazotte |
 
 Liverdun |
-
-(vide) |
 
 Forage 521 bis |
 
@@ -401,6 +375,8 @@ Nondkeil R125B1 |
 Michelsberg |
 
 Thionville |
+
+(vide) |
 
 Galerie Charles |
 
@@ -452,13 +428,7 @@ Forage 239 rue Maryse Bastié |
 
 Forage 481 rue Mine Victor |
 
-Equipements
-
-de rétention
-
-d'effluents
-
-pétroliers |
+Equipements de rétention d'effluents pétroliers |
 
 Pechelbronn |
 
@@ -502,7 +472,7 @@ Forage 3517 |
 
 Preuschdorf |
 
-Déshuileur Clemenceau |
+Déshuileur Clémenceau |
 
 Soultz sous Forêts |
 
@@ -556,21 +526,17 @@ PCS puits Marienau |
 
 PCS SIMON 1 |
 
-PCS SIMON 2 |
-
-PCS SIMON 3 |
-
-PCS SIMON 5 |
-
-Est |
-
-Exutoires de gaz de mine |
-
 De Wendel H |
 
 Forbach |
 
 (vide) |
+
+PCS SIMON 2 |
+
+PCS SIMON 3 |
+
+PCS SIMON 5 |
 
 Puits Simon 1 |
 
@@ -644,7 +610,7 @@ Puits Wendel 3 |
 
 SDEC E 4 |
 
-Schœneck |
+Schoeneck |
 
 PCS E18 |
 
@@ -653,6 +619,12 @@ PCS E19 |
 PCS E20 |
 
 PCS E21 |
+
+De Wendel H |
+
+Schoeneck |
+
+(vide) |
 
 PCS E23 |
 
@@ -680,15 +652,7 @@ PCS PUITS MAX |
 
 Puits 8 (dit Max) |
 
-Est |
-
-Exutoire gaz de mine |
-
-Sarre et Moselle |
-
 Freyming Merlebach |
-
-(vide) |
 
 PCS C1 |
 
@@ -724,7 +688,7 @@ L'hopital |
 
 PCS L'HOPITAL 1-2 |
 
-Puits 1 et 2 |
+Puits L'HOPITAL 1 et 2 |
 
 Saint Avold |
 
@@ -740,17 +704,7 @@ Puits Saint Avold |
 
 Puits Sainte Fontaine |
 
-Ouvrages
-
-nécessaires
-
-à l'aérage
-
-de galeries
-
-(en vue de leur
-
-inspection) |
+Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
 
 Mont Rouge |
 
@@ -770,13 +724,9 @@ Audun le Tiche |
 
 Puits 2 de Saint Michel |
 
-Réseaux
+Réseaux de nivellement |
 
-de nivellement |
-
-Amermont
-
-Dommary |
+Amermont Dommary |
 
 Bouligny |
 
@@ -810,6 +760,8 @@ Auboué Moineville |
 
 Auboué |
 
+(vide) |
+
 Auboué Cité de Coinville |
 
 Auboué - Homécourt |
@@ -824,15 +776,11 @@ Moutiers haut Cité de Gorcy |
 
 Auboué Moineville - Batilly Jouaville |
 
-Auboué - Batilly -
-
-Moineville |
+Auboué - Batilly - Moineville |
 
 Batilly - Mine du Paradis |
 
-Auboué Moineville - Belleville -
-
-Giraumont |
+Auboué Moineville - Belleville - Giraumont |
 
 Moineville |
 
@@ -844,17 +792,9 @@ Homécourt |
 
 Homécourt |
 
-Est |
-
-Réseaux
-
-de nivellement |
-
 Auboué Moineville - Moutiers |
 
 Moutiers |
-
-(vide) |
 
 Moutiers bas |
 
@@ -880,9 +820,7 @@ Audun le Tiche |
 
 Audun le Tiche - Ferme de Hirps |
 
-Bassompierre -
-
-Bassompierre 1 |
+Bassompierre - Bassompierre 1 |
 
 Fontoy |
 
@@ -890,11 +828,7 @@ Fontoy D58 |
 
 Fontoy N52 |
 
-Bassompierre -
-
-Elisabeth -
-
-Haut Pont |
+Bassompierre - Elisabeth - Haut Pont |
 
 La Houve Bonnefeld |
 
@@ -904,9 +838,7 @@ Ville au Montois |
 
 Ville au Montois |
 
-Bouligny -
-
-La Mourière |
+Bouligny - La Mourière |
 
 Bouligny - Piennes |
 
@@ -936,7 +868,7 @@ Neufchef A30 |
 
 De Wendel H - Sarre et Moselle |
 
-Behren - Etzling - Folkling - Forbach - Morsbach - Oeting - Petite Rosselle - Schœneck - Spicheren - Stiring Wendel |
+Behren - Etzling - Folkling - Forbach - Morsbach - Oeting - Petite Rosselle - Schoeneck - Spicheren - Stiring Wendel |
 
 Réseau général Secteur Est |
 
@@ -950,6 +882,8 @@ Droitaumont |
 
 Jarny |
 
+(vide) |
+
 Jarny Cité de la Cartoucherie |
 
 Droitaumont - Jarny |
@@ -960,9 +894,7 @@ Droitaumont - Jarny - Labry |
 
 Jarny ville |
 
-Elisabeth -
-
-Bassompierre |
+Elisabeth - Bassompierre |
 
 Fontoy |
 
@@ -974,17 +906,13 @@ Aumetz - Crusnes |
 
 Crusnes ARBED |
 
-Errouville -
-
-Serrouville |
+Errouville - Serrouville |
 
 Errouville - Serrouville |
 
 Errouville ARBED |
 
-Ferdinand -
-
-Bassompierre |
+Ferdinand - Bassompierre |
 
 Boulange - Havange - Tressange |
 
@@ -1012,39 +940,23 @@ Giraumont - Jarny |
 
 Giraumont village |
 
-Est |
-
-Réseaux de
-
-nivellement |
-
-Gustave Wiesner Extension 1 -
-
-Gustave Wiesner -
-
-Nondkeil -
+Gustave Wiesner Extension 1 - Gustave Wiesner - Nondkeil - Tressange |
 
 Tressange |
-
-Tressange |
-
-(vide) |
 
 Bure ARBED |
 
-Hettange Grande - Gustave Wiesner - Mont Rouge -
-
-Nondkeil |
+Hettange Grande - Gustave Wiesner - Mont Rouge - Nondkeil |
 
 Ottange |
 
 Nondkeil 125A1 B1 C1 |
 
-Homécourt - Auboué Moineville - Jœuf - Rombas |
+Homécourt - Auboué Moineville - Joeuf - Rombas |
 
-Briey - Homécourt - Jœuf - Montois la Montagne |
+Briey - Homécourt - Joeuf - Montois la Montagne |
 
-Jœuf |
+Joeuf |
 
 Hussigny |
 
@@ -1058,9 +970,7 @@ Boulange |
 
 Boulange Mine Amélie |
 
-Ida Amélie -
-
-Tressange |
+Ida Amélie - Tressange |
 
 Aumetz |
 
@@ -1072,37 +982,29 @@ Jarny |
 
 Jarny Moulinelle |
 
-Jœuf |
+Joeuf |
 
 Briey |
 
 Briey Bouchetière |
 
+Réseaux de nivellement |
+
 Joudreville |
 
 Bouligny |
+
+(vide) |
 
 Bouligny Cité de Joudreville |
 
 La Houve - Berviller - Bisten 1 et 2 - Coume 1,2,3,4 et 5 - Dalem - Niedervisse 1,3 et 6 - Sarre et Moselle - Teterchen |
 
-Berviller - Bisten en Lorraine - Boucheporn -
-
-Château Rouge - Coume - Creutzwald - Dalem -
-
-Diesen - Falck - Guerting - Ham sous Varsberg -
-
-Hargarten aux Mines - Merten - Niedervisse - Obervisse - Porcelette - Rémering les Hargarten - Saint Avold - Tromborn - Varsberg -
-
-Villing |
+Berviller - Bisten en Lorraine - Boucheporn - Château Rouge - Coume - Creutzwald - Dalem - Diesen - Falck - Guerting - Ham sous Varsberg - Hargarten aux Mines - Merten - Niedervisse - Obervisse - Porcelette - Rémering les Hargarten - Saint Avold - Tromborn - Varsberg - Villing |
 
 Réseau général Secteur Ouest |
 
-Landres - Bertrameix - La Mourière -
-
-Murville -
-
-Piennes |
+Landres - Bertrameix - La Mourière - Murville - Piennes |
 
 Landres - Mont Bonvillers - Piennes |
 
@@ -1120,17 +1022,9 @@ Mont Saint Martin |
 
 Mont Saint Martin Le Plateau |
 
-Est |
-
-Réseaux
-
-de nivellement |
-
 Moutiers - Auboué Moineville |
 
 Briey - Moutiers |
-
-(vide) |
 
 Moutiers Woigot |
 
@@ -1168,9 +1062,7 @@ Bouligny - Joudreville - Mancieulles - Piennes |
 
 Joudreville Piennes |
 
-Rochonvillers -
-
-Hettange Grande |
+Rochonvillers - Hettange Grande |
 
 Ottange - Rochonvillers |
 
@@ -1188,9 +1080,7 @@ Roncourt |
 
 Roncourt village |
 
-Roncourt -
-
-Saint Privat |
+Roncourt - Saint Privat |
 
 Saint Privat la Montagne |
 
@@ -1204,15 +1094,15 @@ Audun le Tiche ARBED |
 
 Saint Pierremont |
 
-Bettainvillers -
-
-Mancieulles |
+Bettainvillers - Mancieulles |
 
 Mancieulles Haut de Biaumont |
 
 Saint Pierremont - Mance |
 
 Mancieulles |
+
+(vide) |
 
 Mancieulles |
 
@@ -1242,63 +1132,37 @@ Sancy |
 
 Sancy |
 
-Sarre et Moselle -
+Sarre et Moselle - De Wendel H - Allemagne |
 
-De Wendel H -
-
-Allemagne |
-
-Béning les Saint Avold - Betting les Saint Avold - Cocheren - Freyming
-
-Merlebach - Hombourg Haut - L'Hôpital - Morsbach - Rosbruck - Saint Avold - Sankt Nikolaus |
+Béning les Saint Avold - Betting les Saint Avold - Cocheren - Freyming Merlebach - Hombourg Haut - L'Hôpital - Morsbach - Rosbruck - Saint Avold - Sankt Nikolaus |
 
 Réseau général Secteur Centre |
-
-Est |
-
-Réseaux
-
-de nivellement |
 
 Tressange |
 
 Aumetz |
 
-(vide) |
-
 Aumetz ARBED |
 
-Tucquegnieux
-
-Bettainvillers - Anderny Chevillon |
+Tucquegnieux Bettainvillers - Anderny Chevillon |
 
 Tucquegnieux |
 
 Tucquegnieux cité 040B1 |
 
-Tucquegnieux
-
-Bettainvillers - Mairy - Saint Pierremont |
+Tucquegnieux Bettainvillers - Mairy - Saint Pierremont |
 
 Bettainvillers - Mairy Mainville - Tucquegnieux |
 
 Tucquegnieux village |
 
-Tucquegnieux
-
-Bettainvillers -
-
-Malavillers |
+Tucquegnieux Bettainvillers - Malavillers |
 
 Anderny |
 
 Anderny Nord |
 
-Tucquegnieux
-
-Bettainvillers -
-
-Saint Pierremont |
+Tucquegnieux Bettainvillers - Saint Pierremont |
 
 Bettainvillers |
 
@@ -1330,13 +1194,7 @@ Aumetz |
 
 Aumetz Devant le Bois |
 
-Réseaux
-
-de transport
-
-de gaz
-
-de mine |
+Réseaux de transport de gaz de mine |
 
 De Wendel H |
 
@@ -1346,17 +1204,11 @@ Wendel |
 
 Sarre et Moselle |
 
-Freyming Merlebach - Saint Avold |
+Freyming Merlebach - St Avold |
 
 Sarre et Moselle |
 
-Stations
-
-de captage et de
-
-compression
-
-de gaz de mine |
+Stations de captage et de compression de gaz de mine |
 
 De Wendel H |
 
@@ -1385,6 +1237,8 @@ Têtes de puits matérialisées |
 Pechelbronn |
 
 Gunstett |
+
+(vide) |
 
 Puits 3 |
 
@@ -1450,19 +1304,11 @@ Puits Alexandre Dreux 1 |
 
 Puits Alexandre Dreux 2 |
 
-Est |
-
-Zones
-
-surveillées
-
-par microsismique |
+Zones surveillées par microsismique |
 
 Angevillers |
 
 Angevillers |
-
-(vide) |
 
 Angevillers village |
 
@@ -1476,19 +1322,13 @@ Homécourt - Moutiers |
 
 Moutiers Gorcy |
 
-Moutiers |
-
-Moutiers Labbé |
-
 Auboué Moineville - Homécourt |
 
 Homécourt |
 
 Homécourt ville |
 
-Bassompierre-
-
-Bassompierre1 |
+Bassompierre - Bassompierre 1 |
 
 Fontoy |
 
@@ -1501,10 +1341,6 @@ Bréhain la Ville |
 Brehain village |
 
 De Wendel F |
-
-Hayange |
-
-Grands Bois |
 
 Neufchef |
 
@@ -1524,9 +1360,9 @@ Ottange Nondkeil |
 
 Homécourt |
 
-Briey - Jœuf |
+Briey - Joeuf |
 
-Jœuf usine |
+Joeuf usine |
 
 Homécourt |
 
@@ -1534,15 +1370,15 @@ Homécourt Tappes |
 
 Homécourt Carnot |
 
-Jœuf |
+Joeuf |
 
-Jœuf Orne Station Mangin |
+Joeuf Orne Station Mangin |
 
-Jœuf ville |
+Joeuf ville |
 
-Jœuf - Montois la Montagne |
+Joeuf - Montois la Montagne |
 
-Jœuf Arly |
+Joeuf Arly |
 
 Mont Rouge |
 
@@ -1562,21 +1398,9 @@ Ottange |
 
 Ottange Ferme Cholot |
 
-Ottange 2 -
-
-Ottange 3 |
-
-Ottange Moncontour |
-
 Ottange 3 |
 
 Ottange ville |
-
-Roncourt |
-
-Roncourt |
-
-Roncourt Mondon |
 
 Sainte Barbe N |
 
@@ -1600,15 +1424,13 @@ Terril Wendel |
 
 Nord |
 
-Exutoires
-
-de gaz
-
-de mine |
+Exutoires de gaz de mine |
 
 Aniche |
 
 Aniche |
+
+(vide) |
 
 S19 AN 01 |
 
@@ -1674,17 +1496,9 @@ Wallers |
 
 S17 AZ 05 |
 
-Nord |
-
-Exutoires
-
-de gaz de mine |
-
 Bruay |
 
-Bruay la Buissière |
-
-(vide) |
+Bruay La Buissière |
 
 S69 BR 03 |
 
@@ -1794,7 +1608,11 @@ Hulluch |
 
 S20 LS 01 |
 
+Lens |
+
 Liévin |
+
+(vide) |
 
 S55 LS 04 |
 
@@ -1834,7 +1652,7 @@ Wingles |
 
 S44 ME 01 |
 
-Nœux |
+Noeux |
 
 Barlin |
 
@@ -1850,7 +1668,7 @@ Labourse |
 
 S29 NX 02 |
 
-Nœux les Mines |
+Noeux les Mines |
 
 S53 NX 03 |
 
@@ -1892,19 +1710,11 @@ S12 RA 03 |
 
 S52 RA 05 |
 
-Nord |
-
-|
-
 Saint Saulve |
 
 Bruay sur Escaut |
 
-(vide) |
-
 S03 SS 01 |
-
-|
 
 Vicoigne |
 
@@ -1912,11 +1722,7 @@ Raismes |
 
 S05 VG 01 |
 
-|
-
 S34 VG 02 |
-
-|
 
 Vieux Condé |
 
@@ -1924,27 +1730,17 @@ Condé sur l'Escaut |
 
 S07 VC 02 |
 
-|
-
 Hergnies |
 
 S46 VC 04 |
-
-|
 
 Vieux Condé |
 
 S04 VC 01 |
 
-|
-
 S47 VC 05 |
 
-|
-
 S48 VC 06 |
-
-|
 
 S61 VC 07 |
 
@@ -1968,7 +1764,7 @@ Anhiers |
 
 PP 4 |
 
-Nœux |
+Noeux |
 
 Verquin |
 
@@ -1986,21 +1782,19 @@ Vieux Condé |
 
 PP 5 |
 
-Réseaux
-
-de nivellement |
+Réseaux de nivellement |
 
 Anzin - Hasnon |
 
-Hasnon - Hélesmes
+Hasnon - Hélesmes - Wallers |
 
-- Wallers |
+|
 
 Wallers Arenberg |
 
 Bruay - Beugin |
 
-Beugin - Bruay la Buissière - Houdain |
+Beugin - Bruay La Buissière - Houdain |
 
 Bruay |
 
@@ -2010,29 +1804,13 @@ Billy Montigny - Hénin Beaumont - Méricourt - Montigny en Gohelle - Sallaumine
 
 Billy Montigny |
 
-Carvin - Courrières
-
-- Estevelles - Oignies -
-
-Pont à Vendin |
+Carvin - Courrières - Estevelles - Oignies - Pont à Vendin |
 
 Estevelles |
 
 Lens - Liévin - Vimy Fresnoy |
 
-Annay sous Lens -
-
-Avion -
-
-Eleu dit Leauwette
-
-- Farbus - Lens -
-
-Loison sous Lens
-
-- Pont à Vendin -
-
-Vendin le Vieil - Vimy |
+Annay sous Lens - Avion - Eleu dit Leauwette - Farbus - Lens - Loison sous Lens - Pont à Vendin - Vendin le Vieil - Vimy |
 
 Lens |
 
@@ -2041,6 +1819,8 @@ Têtes de puits matérialisées |
 Aniche |
 
 Aniche |
+
+(vide) |
 
 Aoust |
 
@@ -2072,7 +1852,11 @@ Sainte Marie 1 |
 
 Sainte Marie 2 |
 
+Aniche |
+
 Dechy |
+
+(vide) |
 
 Dechy 1 |
 
@@ -2082,15 +1866,7 @@ Douai |
 
 Bernard |
 
-|
-
-|
-
-|
-
 Erchin |
-
-(vide) |
 
 Sébastopol |
 
@@ -2162,11 +1938,13 @@ Notre Dame 1 |
 
 Notre Dame 2 |
 
-Annœullin |
+Annoeullin |
 
-Annœullin |
+Annoeullin |
 
-Annœullin 1 |
+(vide) |
+
+Annoeullin 1 |
 
 Anzin |
 
@@ -2216,23 +1994,15 @@ Elise |
 
 Escaudain |
 
-Rœulx 1 |
+Roeulx 1 |
 
-Rœulx 2 |
+Roeulx 2 |
 
 Saint Mark 1 |
 
 Saint Mark 2 |
 
-Nord |
-
-Têtes de puits matérialisées |
-
-Anzin |
-
 Fenain |
-
-(vide) |
 
 Agache 1 |
 
@@ -2276,7 +2046,11 @@ Somain |
 
 Casimir Périer |
 
+Anzin |
+
 Valenciennes |
+
+(vide) |
 
 Dubois |
 
@@ -2332,7 +2106,7 @@ Saint Auguste |
 
 Aniche |
 
-Etrœungt |
+Etroeungt |
 
 Saint Edouard |
 
@@ -2350,7 +2124,7 @@ Saint Roch 1 |
 
 Bruay |
 
-Bruay la Buissière |
+Bruay La Buissière |
 
 1 - 1 |
 
@@ -2361,16 +2135,6 @@ Bruay la Buissière |
 3 - 3 |
 
 3 - 3 bis |
-
-|
-
-|
-
-|
-
-Bruay la Buissière |
-
-(vide) |
 
 3 - 3 ter |
 
@@ -2386,9 +2150,11 @@ Divion |
 
 5 - 5 bis |
 
-5 ter - 5 ter |
+Bruay |
 
 Haillicourt |
+
+(vide) |
 
 2 bis - 2 bis |
 
@@ -2436,9 +2202,9 @@ Cauchy à la Tour |
 
 7 - 7 ter |
 
-Courcelles lès Lens |
+Courcelles les Lens |
 
-Courcelles lès Lens |
+Courcelles les Lens |
 
 7 - 7 |
 
@@ -2468,7 +2234,7 @@ Estevelles |
 
 24 - 25 |
 
-Fouquières lès Lens |
+Fouquières les Lens |
 
 6 - 14 |
 
@@ -2512,10 +2278,6 @@ Sallaumines |
 
 5 - 5 |
 
-Nord |
-
-Têtes de puits matérialisées |
-
 Denain |
 
 Denain |
@@ -2554,7 +2316,7 @@ Saint Mathieu |
 
 Schneider Sainte Barbe |
 
-Rœulx |
+Roeulx |
 
 L'Eclaireur |
 
@@ -2658,13 +2420,15 @@ Flines les Raches |
 
 Anhiers |
 
+(vide) |
+
 Flines 2 |
 
 Flines les Raches |
 
 Flines 1 |
 
-|
+Fresnes |
 
 Escautpont |
 
@@ -2672,15 +2436,7 @@ Carniaux 1 |
 
 Carniaux 2 |
 
-|
-
-|
-
-Fresnes |
-
 Fresnes sur Escaut |
-
-(vide) |
 
 Bonne Part épuisement |
 
@@ -2778,7 +2534,11 @@ Sains en Gohelle |
 
 10 - 10 bis |
 
+Grenay |
+
 Vermelles |
+
+(vide) |
 
 3 - 3 |
 
@@ -2806,15 +2566,7 @@ Hulluch |
 
 18 - 18 bis |
 
-|
-
-|
-
 Lens |
-
-Lens |
-
-|
 
 1 - 1 |
 
@@ -2896,7 +2648,11 @@ Flers |
 
 3 - 3 |
 
+L'Escarpelle |
+
 Leforest |
+
+(vide) |
 
 10 - 10 |
 
@@ -2958,15 +2714,9 @@ Marchiennes |
 
 Marchiennes 2 |
 
-|
-
-|
-
 Marles |
 
 Auchel |
-
-(vide) |
 
 3 - 3 ter |
 
@@ -3022,13 +2772,17 @@ Meurchin |
 
 2 - 7 |
 
+Meurchin |
+
 Wingles |
+
+(vide) |
 
 3-4 - 3 |
 
 3-4 - 4 |
 
-Nœux |
+Noeux |
 
 Barlin |
 
@@ -3046,7 +2800,7 @@ Bouvigny Boyeffles |
 
 10 - 10 bis |
 
-Fouquières lès Béthune |
+Fouquières les Béthune |
 
 11 - 11 |
 
@@ -3074,7 +2828,7 @@ Labourse |
 
 6 - 6 bis |
 
-Nœux les Mines |
+Noeux les Mines |
 
 1 - 1 |
 
@@ -3126,15 +2880,9 @@ Alphonse Lecocq 7 bis |
 
 Charles Tilloy 6 |
 
-|
-
-|
-
 Raismes |
 
 Anzin |
-
-|
 
 Bleuse Borne |
 
@@ -3151,6 +2899,12 @@ Pavé Nord |
 Pavé Sud |
 
 Saint Jean |
+
+Raismes |
+
+Anzin |
+
+(vide) |
 
 Saint Louis |
 
@@ -3270,6 +3024,12 @@ Trois Arbres extraction |
 
 Trou Martin |
 
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
 Vieille Machine 1 |
 
 Vieille Machine 2 |
@@ -3278,15 +3038,11 @@ Vieux Condé 1 |
 
 Vieux Condé 2 |
 
-|
-
-|
+Têtes de puits non matérialisées |
 
 Anzin |
 
 Denain |
-
-|
 
 Bayard |
 
@@ -3384,6 +3140,14 @@ Gaspard |
 
 Gros Caillou |
 
+Têtes de puits non matérialisées |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
 Huvelle extraction |
 
 Marie Louise |
@@ -3406,7 +3170,7 @@ Haveluy |
 
 Bruay |
 
-Bruay la Buissière |
+Bruay La Buissière |
 
 10 |
 
@@ -3420,11 +3184,7 @@ Hénin Beaumont |
 
 205 |
 
-Dourges -
-
-Courrières
-
-Drocourt |
+Dourges - Courrières - Drocourt |
 
 Billy Montigny - Hénin Beaumont - Rouvroy |
 
@@ -3454,27 +3214,31 @@ Sud |
 
 Cavités |
 
-Mondalazac
+Mondalazac et Solsac |
 
-et Solsac |
-
-Muret-le-Château |
-
-(vide) |
+Muret-Le-Château |
 
 Quartier des Espeyrous |
 
-Les Camoins -
-
-Les Accates |
+Les Camoins - Les Accates |
 
 Marseille |
 
 Les Camoins |
 
+Mine de Gaude |
+
+Manosque |
+
+Gaude |
+
+galerie de la gare |
+
 Montgirod |
 
 Les Chapelles |
+
+(vide) |
 
 TB Saint-Jacques |
 
@@ -3486,9 +3250,7 @@ Couflens-Salau |
 
 Emergence galerie 1230 |
 
-Exutoires de gaz
-
-de mine |
+Exutoires de gaz de mine |
 
 Combes |
 
@@ -3512,6 +3274,8 @@ Cantaranne 2 |
 
 Place de la Mairie |
 
+Puits 1 nouveau |
+
 Puits 6 du Fraysse |
 
 Treille haute 1 |
@@ -3520,7 +3284,7 @@ Treille haute 2 |
 
 Treille haute nouveau |
 
-Puits 1 ancien et 1 nouveau |
+Puits 1 ancien |
 
 Lavernhe |
 
@@ -3562,8 +3326,6 @@ Forage Champisse |
 
 Forage Lecas |
 
-|
-
 Piézomètres |
 
 Hors concession |
@@ -3576,15 +3338,17 @@ Pz 14 |
 
 Pz 15 |
 
+Piézomètres |
+
+Hors concession |
+
 Salsigne |
 
 Montredon |
 
 Piézomètre central |
 
-Réseaux
-
-de nivellement |
+Réseaux de nivellement |
 
 Limousis |
 
@@ -3600,17 +3364,17 @@ Bassin de Montredon |
 
 C4 - C2 - C3 - C6 - C8 - C9 - C10 - C14 - EG |
 
-Aix en Provence - Allauch - Belcodène - Bouc Bel Air - Cadolive - Fuveau -
-
-Gardanne - Gréasque -
-
-Mimet - Peypin - Simiane -
-
-Saint Savournin |
+Aix en Provence - Allauch - Belcodène - Bouc Bel Air - Cadolive - Fuveau - Gardanne - Gréasque - Mimet - Peypin - Simiane - Saint Savournin |
 
 (vide) |
 
 Provence |
+
+La Serre |
+
+Simeyrols |
+
+Puits P1 |
 
 Zones affectées par un échauffement souterrain |
 
@@ -3626,9 +3390,7 @@ Saint Etienne |
 
 Colline des Rosiers |
 
-Zones surveillées par
-
-microsismique |
+Zones surveillées par microsismique |
 
 C10 |
 
@@ -3660,15 +3422,11 @@ Cadolive - Peypin |
 
 Peypin |
 
-|
-
 Dépôt de résidus |
 
 Fontsante |
 
 Tanneron /Callian |
-
-(vide) |
 
 bassin Lenté |
 
@@ -3722,11 +3480,9 @@ Dourdel Montsalson - Beaubrun |
 
 Couriot B |
 
-La Talaudière
+La Talaudière Chazotte |
 
-Chazotte |
-
-Saint Jean Bonnefonds |
+St Jean Bonnefonds |
 
 Le Fay |
 
@@ -3750,9 +3506,7 @@ Inclinomètre IC5 |
 
 Inclinomètre IC6 |
 
-Cellule
-
-de pression |
+Cellule de pression |
 
 Cellule de pression A |
 
@@ -3766,9 +3520,7 @@ Cellule de pression SC 01 |
 
 Cellule de pression SC 03 |
 
-EST
-
-Potassique |
+EST Potassique |
 
 Têtes de puits matérialisées |
 
@@ -3802,7 +3554,13 @@ Puits Anna Est |
 
 Puits Anna Ouest |
 
+Têtes de puits matérialisées |
+
 Anna1 |
+
+Wittenheim |
+
+(vide) |
 
 Puits Fernand Est |
 
@@ -3816,7 +3574,7 @@ Puits Marie |
 
 Wittenheim |
 
-Puits Schœnensteinbach |
+Puits Schoenensteinbach |
 
 Marie-Louise |
 

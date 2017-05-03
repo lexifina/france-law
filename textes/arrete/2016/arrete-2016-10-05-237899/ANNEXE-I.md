@@ -1,10 +1,6 @@
 # Article ANNEXE I
 
-ANNEXES
-
-ANNEXE 1
-
-INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2016
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
 
 BASSIN
 
@@ -46,47 +42,33 @@ Preuschdorf |
 
 Forage 323 |
 
-323-GS-PG _B |
+323-GS-PG _ B |
 
-323-GS-PG_A |
+323-GS-PG _ A |
+
+323-Aae-Grill |
 
 Puits II et V |
 
-PCS- 5-rue-W-Aai_1et |
+PCS-5-rue-W-Aai _ 1et |
 
-PCS- 5-rue-W-Aai_RDC |
+PCS-5-rue-W-Aai _ RDC |
 
 PCS-5-rue-W-AAI _ Cave |
 
 PCS-B-F-E-zone-V |
 
-II-GS-PG-A |
-
 PZ12 |
-
-V-GS-PG-A |
-
-V-GS-PG-B |
-
-V-GS-PG-C |
 
 PCS-3-rue-W-AAI _ Cave |
 
-PCS- 3-rue-W-Aai_rez-de-ch-séjour |
+PCS-3-rue-W-Aai _ rez-de-ch-séjour |
 
-PCS- 3-rue-W-Aai_1étage |
+PCS-3-rue-W-Aai _ 1étage |
 
-PCS- 3-rue-W-GS-CD-1 |
+PCS-3-rue-W-GS-CD-1 |
 
 PCS-5-rue-W-GS-CD-1 |
-
-PCS-5-rue-W-AAI - Cave-couloir |
-
-PCS- 5-rue-W-Aai_cave-bur |
-
-PCS- 5-rue-W-Aai_rez-de-ch-s-à-m |
-
-PCS-5-rue-W-Aai-2ème-ét-chambre |
 
 De Wendel H |
 
@@ -108,9 +90,7 @@ T EV 9 |
 
 Morsbach |
 
-Gazomètre
-
-de Marienau |
+Gazomètre de Marienau |
 
 Cheminée du gazomètre |
 
@@ -134,39 +114,31 @@ Durrenbach |
 
 (vide) |
 
-Forage Fuyard - 108 |
+Forage Fuyard-108 |
 
 Haguenau |
 
-Forage Fuyard - 1684 |
+Forage Fuyard-1684 |
 
 Kutzenhausen |
 
-Forage Fuyard - 2761 |
+Forage Fuyard-2761 |
 
-Forage Fuyard - 3059 |
+Forage Fuyard-3059 |
 
-Forage Fuyard - 3068 |
+Forage Fuyard-3068 |
 
-Forage Fuyard - 3969 |
+Forage Fuyard-3969 |
 
-Forage Fuyard - 3349 |
+Forage Fuyard-3349 |
 
-Merkwiller
+Merkwiller Pechelbronn |
 
-Pechelbronn |
-
-Forage Fuyard - 459 |
+Forage Fuyard-459 |
 
 Surbourg |
 
-Forage Fuyard - 2962 |
-
-Est |
-
-Forage
-
-de dépollution |
+Forage Fuyard-2962 |
 
 Sarre et Moselle |
 
@@ -198,7 +170,7 @@ PZ8 |
 
 Lobsann |
 
-AEP - Forage à Marienbronn |
+AEP-Forage à Marienbronn |
 
 Merkwiller Pechelbronn |
 
@@ -220,25 +192,23 @@ PZ1 |
 
 PZ12 |
 
-Soultz-sous-Forêt |
+Soultz-Sous-Forêt |
 
-AEP - Forage du Hochwald F1 |
+AEP-Forage du Hochwald F1 |
 
-AEP - Forage du Hochwald F2 |
+AEP-Forage du Hochwald F2 |
 
-AEP - Source des grandes fontaines |
+AEP-Source des grandes fontaines |
 
-AEP - Source des sept fontaines |
+AEP-Source des sept fontaines |
 
-Wœrth |
+Woerth |
 
-AEP - Forage de Mitschdorf 1961 |
+AEP-Forage de Mitschdorf 1961 |
 
-AEP - Forage de Mitschdorf 1973 |
+AEP-Forage de Mitschdorf 1973 |
 
-Amodiation du Warndt -
-
-Allemagne |
+Amodiation du Warndt-Allemagne |
 
 Emmersweiler |
 
@@ -272,9 +242,7 @@ T NP 7 |
 
 Morsbach |
 
-Gazomètre
-
-de Marienau |
+Gazomètre de Marienau |
 
 Forage du gazomètre |
 
@@ -316,9 +284,7 @@ CM SBW 5 amont |
 
 Prélèvements d'eaux de surface |
 
-Amodiation du Warndt -
-
-Allemagne |
+Amodiation du Warndt-Allemagne |
 
 Emmersweiler |
 
@@ -338,10 +304,6 @@ Morsbach |
 
 Rosselle amont |
 
-Est |
-
-Prélèvements d'eaux de surface |
-
 Sarre et Moselle |
 
 Freyming Merlebach |
@@ -350,7 +312,9 @@ Carrière de Merlebach |
 
 Bassin de décantation |
 
-Réseaux de nivellement |
+Réseaux
+
+de nivellement |
 
 (vide) |
 
@@ -362,9 +326,11 @@ Chemin des Douaniers |
 
 Stations
 
-de captage et
+de captage
 
-de compression
+et de
+
+compression
 
 de gaz de mine |
 
@@ -448,6 +414,8 @@ PZC2 |
 
 PZC3 |
 
+PZC5 |
+
 Courrières |
 
 Courrières |
@@ -484,6 +452,20 @@ Centrale électrique de Courrières |
 
 Forage 7/19 |
 
+Crespin |
+
+Quiévrechain |
+
+Cokerie de Quiévrechain |
+
+PZC1 |
+
+PZC2 |
+
+PZC3 |
+
+Piézomètres |
+
 Douchy |
 
 Lourches |
@@ -516,9 +498,7 @@ Dourges |
 
 Dourges |
 
-Friche Sainte
-
-Henriette |
+Friche Sainte Henriette |
 
 PZC1 |
 
@@ -537,12 +517,6 @@ PZC2 |
 PZC6 |
 
 PZS7 |
-
-Nord |
-
-Piézomètres |
-
-Dourges |
 
 Evin Malmaison |
 
@@ -600,9 +574,7 @@ Grenay |
 
 Grenay |
 
-Cokerie
-
-de Mazingarbe |
+Cokerie de Mazingarbe |
 
 PZC290 |
 
@@ -622,7 +594,13 @@ PZC49 |
 
 PZC75 |
 
+Piézomètres |
+
+Grenay |
+
 Vermelles |
+
+Cokerie de Mazingarbe |
 
 PZC287 |
 
@@ -632,9 +610,7 @@ PZC296 |
 
 PZC5 |
 
-Noyelles lès
-
-Vermelles |
+Noyelles lès Vermelles |
 
 Forage Fontaine de Bray |
 
@@ -672,7 +648,7 @@ Lens |
 
 Pont à Vendin |
 
-G. d'eau de Vendin le Vieil |
+Gare d'eau de Vendin le Vieil |
 
 PZC8 |
 
@@ -710,16 +686,6 @@ PZS11 |
 
 PZS4 |
 
-Nord |
-
-Piézomètres |
-
-L'Escarpelle |
-
-Auby |
-
-Cokerie d'Auby |
-
 PZS5 |
 
 PZS6 |
@@ -756,11 +722,13 @@ PZC3 |
 
 PZC4 |
 
-Nœux |
+Piézomètres |
+
+Noeux |
 
 Labourse |
 
-Cokerie de Nœux les Mines |
+Cokerie de Noeux les Mines |
 
 PZC1 |
 
@@ -770,7 +738,7 @@ PZC9 |
 
 PZC6bis |
 
-Nœux les Mines |
+Noeux les Mines |
 
 PZC5 |
 
@@ -886,8 +854,6 @@ Cokerie d'Auby |
 
 Vieille rivière aval |
 
-Nord |
-
 Confinement |
 
 Douchy |
@@ -900,6 +866,8 @@ Confinement Lourches zone 1 |
 
 Confinement Lourches zone 2 |
 
+Confinement |
+
 Dourges |
 
 Oignies |
@@ -910,15 +878,13 @@ Confinement zone Marais de Chaix Oignies |
 
 Confinement zones 2.1 et 2.2 Oignies |
 
-Confinement zones 5.1, 5.2, 5.3 Oignies |
+Confinement zones 5.1,5.2,5.3 Oignies |
 
 Grenay |
 
 Mazingarbe |
 
-Cokerie
-
-de Mazingarbe |
+Cokerie de Mazingarbe |
 
 Confinement Est Mazingarbe |
 
@@ -1052,8 +1018,6 @@ MCO |
 
 Cheminée Panneau Sud |
 
-Sud |
-
 Prélèvements d'eaux de surface |
 
 Hors concession |
@@ -1148,9 +1112,7 @@ Limousis |
 
 Station de traitement des eaux arseniées |
 
-Zones
-
-au sol pollué |
+Zones au sol pollué |
 
 Susville |
 
@@ -1180,7 +1142,9 @@ Sédiments Jonche aval |
 
 Pz Etang |
 
-Dépôt de résidus |
+Dépôt
+
+de résidus |
 
 Hors concession |
 
@@ -1228,7 +1192,7 @@ Joany |
 
 Joany |
 
-Roche la Molière &amp; Firminy |
+Roche la Molière & Firminy |
 
 Roche la Molière |
 
@@ -1236,39 +1200,17 @@ Cote Gravelle |
 
 Côte Gravelle |
 
-EST
-
-Potassique |
+EST Potassique |
 
 Canalisations |
 
-Battenheim III,
+Battenheim III, Zollhaus, Théodore et hors concessions |
 
-Zollhaus,
-
-Théodore
-
-et hors concessions |
-
-Ensisheim,
-
-Munchhouse,
-
-Roggenhouse,
-
-Rumersheim-le-Haut,
-
-Blodelsheim,
-
-Fessenheim |
+Ensisheim, Munchhouse, Roggenhouse, Rumersheim-le-Haut, Blodelsheim, Fessenheim |
 
 (vide) |
 
 Saumoduc |
-
-EST
-
-Potassique |
 
 Forage
 
@@ -1280,11 +1222,11 @@ Ungersheim |
 
 Alex-Rodolphe |
 
-04131X0389/F |
+04131X0389/ F |
 
-04131X0409/UNG/B |
+04131X0409/ UNG/ B |
 
-04132X0394/DEP |
+04132X0394/ DEP |
 
 Amélie |
 
@@ -1292,27 +1234,27 @@ Wittelsheim |
 
 Amélie |
 
-04131X0213/P1 |
+04131X0213/ P1 |
 
-04131X0214/P2 |
+04131X0214/ P2 |
 
-04131X0215/P3 |
+04131X0215/ P3 |
 
-04131X0216/P4 |
+04131X0216/ P4 |
 
-04131X0251/F1 |
+04131X0251/ F1 |
 
-04131X0416/VA1 |
+04131X0416/ VA1 |
 
-04131X0418/VA3 |
+04131X0418/ VA3 |
 
-04131X0509/VA6 |
+04131X0509/ VA6 |
 
-04131X0510/VA7 |
+04131X0510/ VA7 |
 
-04131X0511/VA8 |
+04131X0511/ VA8 |
 
-04131X0559/VA10 |
+04131X0559/ VA10 |
 
 Fernand |
 
@@ -1320,17 +1262,17 @@ Wittenheim |
 
 Fernand |
 
-04132X0291/F |
+04132X0291/ F |
 
-04132X0399/F |
+04132X0399/ F |
 
-04132X0419/DEP |
+04132X0419/ DEP |
 
 Théodore-Eugène |
 
 04132X0303/1002 |
 
-04132X0331/EUG/B2 |
+04132X0331/ EUG/ B2 |
 
 Marie-Louise |
 
@@ -1338,21 +1280,21 @@ Pulversheim |
 
 Marie-Louise |
 
-04131X0144/P4 |
+04131X0144/ P4 |
 
-04131X0514/ML3 |
+04131X0514/ ML3 |
 
 Staffelfelden |
 
-04131X0141/P1 |
+04131X0141/ P1 |
 
-04131X0142/P2 |
+04131X0142/ P2 |
 
-04131X0143/P3 |
+04131X0143/ P3 |
 
-04131X0512/ML1 |
+04131X0512/ ML1 |
 
-04131X0513/ML2 |
+04131X0513/ ML2 |
 
 Max |
 
@@ -1360,13 +1302,19 @@ Pfastatt |
 
 Joseph-Else |
 
-04135X0212/VJ1 |
+04135X0212/ VJ1 |
 
 Wittelsheim |
 
-04135X0213/VJ2 |
+04135X0213/ VJ2 |
 
-04135X0403/D |
+Rodolphe Est |
+
+Ensisheim |
+
+Théodore-Eugène |
+
+04132X0393/ P2 |
 
 Rodolphe Ouest |
 
@@ -1374,7 +1322,7 @@ Ungersheim |
 
 Alex-Rodolphe |
 
-04131X0444/P4 |
+04131X0444/ P4 |
 
 Ruelisheim |
 
@@ -1382,7 +1330,9 @@ Ruelisheim |
 
 Théodore-Eugène |
 
-04132X0075/F2VT |
+04132X0075/ F2VT |
+
+04132X0383/ DEP |
 
 Piézomètres |
 
@@ -1392,53 +1342,47 @@ Pulversheim |
 
 Marie-Louise |
 
-04131X0141/P1 |
+04131X0141/ P1 |
 
-04131X0266/PP4 |
+04131X0266/ PP4 |
 
-04131X0514/ML3 |
+04131X0514/ ML3 |
 
-04131X0531/VL2P |
+04131X0531/ VL2P |
 
-04131X0532/VL2S |
+04131X0532/ VL2S |
 
-04131X0533/VL3P |
+04131X0533/ VL3P |
 
-04131X0534/VL3S |
+04131X0534/ VL3S |
 
 Ungersheim |
 
 Alex-Rodolphe |
 
-04131X0389/F |
+04131X0389/ F |
 
-04131X0409/UNG/B |
+04131X0409/ UNG/ B |
 
-04131X0558/ROD6 |
+04131X0558/ ROD6 |
 
-04132X0228/P1 |
+04132X0228/ P1 |
 
-04132X0319/PMC |
+04132X0319/ PMC |
 
-04132X0384/PZ1FON |
+04132X0384/ PZ1FON |
 
-04132X0385/PZ2SUP |
+04132X0385/ PZ2SUP |
 
-04132X0394/DEP |
+04132X0394/ DEP |
 
 Hors secteurs |
 
-03786X0158/PZ |
+03786X0158/ PZ |
 
 Marie-Louise |
 
-04132X0185/S |
-
-EST
-
-Potassique |
-
-Piézomètres |
+04132X0185/ S |
 
 Amélie |
 
@@ -1446,187 +1390,179 @@ Wittelsheim |
 
 Amélie |
 
-04131X0213/P1 |
+04131X0213/ P1 |
 
-04131X0214/P2 |
+04131X0214/ P2 |
 
-04131X0215/P3 |
+04131X0215/ P3 |
 
-04131X0216/P4 |
+04131X0216/ P4 |
 
-04131X0246/F1 |
+04131X0246/ F1 |
 
-04131X0247/F2 |
+04131X0247/ F2 |
 
-04131X0251/F1 |
+04131X0251/ F1 |
 
-04131X0252/F2 |
+04131X0252/ F2 |
 
-04131X0253/F3 |
+04131X0253/ F3 |
 
-04131X0293/PMT2 |
+04131X0293/ PMT2 |
 
-04131X0416/VA1 |
+04131X0416/ VA1 |
 
-04131X0417/VA2 |
+04131X0417/ VA2 |
 
-04131X0418/VA3 |
+04131X0418/ VA3 |
 
-04131X0419/VA4 |
+04131X0419/ VA4 |
 
-04131X0420/VA5 |
+04131X0420/ VA5 |
 
-04131X0421/VA6 |
+04131X0443/ DEP5 |
 
-04131X0443/DEP5 |
+04131X0497/ PZ |
 
-04131X0497/PZ |
+04131X0509/ VA6 |
 
-04131X0509/VA6 |
+04131X0510/ VA7 |
 
-04131X0510/VA7 |
+04131X0511/ VA8 |
 
-04131X0511/VA8 |
+04131X0518/ P2 |
 
-04131X0518/P2 |
+04131X0544/ AM1P |
 
-04131X0544/AM1P |
+04131X0548/ AM3P |
 
-04131X0548/AM3P |
+04131X0549/ AM3S |
 
-04131X0549/AM3S |
+04131X0559/ VA10 |
 
-04131X0559/VA10 |
+04131X0560/ VA11 |
 
-04131X0560/VA11 |
+04131X0561/ VA09 |
 
-04131X0561/VA09 |
+04135X0227/ PZ1A |
 
-04135X0227/PZ1A |
+04135X0228/ PZ2A |
 
-04135X0228/PZ2A |
+04135X0229/ PZ3A |
 
-04135X0229/PZ3A |
-
-04135X0317/PZ2 |
+04135X0317/ PZ2 |
 
 04135X0340/1040 |
 
 04135X0341/1041 |
 
+Wittelsheim |
+
 Hors secteurs |
 
-04131X0181/P4 |
+04131X0181/ P4 |
 
-04131X0183/P10 |
+04131X0183/ P10 |
 
-04131X0189/P22 |
+04131X0189/ P22 |
 
 Wittenheim |
 
 Amélie |
 
-04131X0495/PZ |
+04131X0495/ PZ |
 
-04131X0496/PZ |
+04131X0496/ PZ |
 
-04131X0546/AM2P |
+04131X0546/ AM2P |
 
-04131X0547/AM2S |
+04131X0547/ AM2S |
 
-04131X0550/MAX1P |
+04131X0550/ MAX1P |
 
-04131X0551/MAX1M |
+04131X0551/ MAX1M |
 
-04131X0552/MAX1S |
+04131X0552/ MAX1S |
 
 Anna |
 
-Kingersheim |
+KingersheimI |
 
 Fernand-Anna |
 
-04132X0400/KN1 |
+04132X0400/ KN1 |
 
-04132X0402/KN3 |
+04132X0402/ KN3 |
 
-04132X0405/VN1P |
+04132X0405/ VN1P |
 
-04132X0406/VN1S |
+04132X0406/ VN1S |
 
-04132X0407/VN2P |
+04132X0407/ VN2P |
 
-04132X0408/VN2S |
+04132X0408/ VN2S |
 
-04132X0409/VN3P |
+04132X0409/ VN3P |
 
-04132X0410/VN3S |
+04132X0410/ VN3S |
 
 Hors secteurs |
 
-04136X0313/PZ |
+04136X0313/ PZ |
 
 Richwiller |
 
-04136X0539/S |
-
-EST
-
-Potassique |
-
-Piézomètres |
-
-Anna |
+04136X0539/ S |
 
 Wittenheim |
 
 Fernand-Anna |
 
-04132X0368/DECA1 |
+04132X0368/ DECA1 |
 
-04132X0369/DECA2 |
+04132X0369/ DECA2 |
 
-04132X0370/DECA3 |
+04132X0370/ DECA3 |
 
-04132X0371/DECA4 |
+04132X0371/ DECA4 |
 
-04132X0399/F |
+04132X0399/ F |
 
-04132X0411/VN4P |
+04132X0411/ VN4P |
 
-04132X0412/VN4S |
+04132X0412/ VN4S |
 
-04132X0413/VN5P |
+04132X0413/ VN5P |
 
-04132X0414/VN5S |
+04132X0414/ VN5S |
 
-04132X0417/VN8P |
+04132X0417/ VN8P |
 
-04132X0418/VN8S |
+04132X0418/ VN8S |
 
-04132X0419/DEP |
+04132X0419/ DEP |
 
 Anna I |
 
-04132X0291/F |
+04132X0291/ F |
 
-04132X0320/PMC |
+04132X0320/ PMC |
 
-04132X0378/P |
+04132X0378/ P |
 
-04132X0379/S |
+04132X0379/ S |
 
-04132X0380/P |
+04132X0380/ P |
 
-04132X0381/S |
+04132X0381/ S |
 
-04132X0110/F2 |
+04132X0110/ F2 |
 
 Fernand |
 
 Théodore-Eugène |
 
-04132X0330/THEOB1 |
+04132X0330/ THEOB1 |
 
 Hors concession |
 
@@ -1634,77 +1570,87 @@ Blodelsheim |
 
 Saumoduc |
 
-03788X0032/F |
+03788X0032/ F |
 
-04134X0184/F |
+04134X0184/ F |
 
-04134X0185/F |
+04134X0185/ F |
 
-04134X0186/S |
+04134X0186/ S |
+
+RG 204,995 |
+
+RG 205,503 |
+
+RG 206,025 |
+
+RG 206,510 |
+
+RG 207,060 |
+
+RG 207,570 |
+
+RG 208,080 |
+
+RG 208,570 |
+
+RG 209,160 |
 
 Cernay |
 
 Hors secteurs |
 
-04124X0154/F |
+04124X0154/ F |
 
 Ensisheim |
 
 Saumoduc |
 
-04133X1011/G |
+04133X1011/ G |
 
 Fessenheim |
 
 Hors secteurs |
 
-03795X0110/N3 |
-
-Merxheim |
-
-03786X0030/F |
+03795X0110/ N3 |
 
 Munchhouse |
 
 Saumoduc |
 
-04133X0060/F |
+04133X0060/ F |
 
-04133X0066/F |
+04133X0066/ F |
 
-04133X0067/F |
+04133X0067/ F |
 
-04134X0181/PZ1W |
+04134X0181/ PZ1W |
 
 Munwiller |
 
 Hors secteurs |
 
-03786X0087/PMT |
+03786X0087/ PMT |
 
 Reguisheim |
 
-03786X0080/PMT |
+03786X0080/ PMT |
 
 Saumoduc |
 
-04133X0010/F |
+04133X0010/ F |
 
 Roggenhouse |
 
-04134X0183/F |
+04134X0183/ F |
 
-Rumersheim-le-haut |
+Rumersheim-Le-Haut |
 
-04134X0187/S |
+04134X0187/ S |
 
-04134X0188/S |
+04134X0188/ S |
 
-Ungersheim |
-
-Hors secteurs |
-
-03786X0029/F6 |
+RG 204,480 |
 
 Marie |
 
@@ -1712,7 +1658,13 @@ Wittenheim |
 
 Amélie |
 
-04131X0294/PMT3 |
+04131X0294/ PMT3 |
+
+04132X1203/ PZ14M |
+
+04132X1202/ PZ22M |
+
+04132X1201/ PZ40M |
 
 Marie Louise |
 
@@ -1720,19 +1672,19 @@ Staffelfelden |
 
 Marie-Louise |
 
-04131X0142/P2 |
+04131X0142/ P2 |
 
-04131X0143/P3 |
+04131X0143/ P3 |
 
-04131X0144/P4 |
+04131X0144/ P4 |
 
-04131X0512/ML1 |
+04131X0512/ ML1 |
 
-04131X0513/ML2 |
+04131X0513/ ML2 |
 
-04131X0542/VLSP |
+04131X0542/ VLSP |
 
-04131X0543/VLSS |
+04131X0543/ VLSS |
 
 Max |
 
@@ -1740,75 +1692,69 @@ Pfastatt |
 
 Joseph-Else |
 
-04135X0212/VJ1 |
+04135X0212/ VJ1 |
 
-04135X0223/PZ6 |
+04135X0223/ PZ6 |
 
-04135X0224/PZ7 |
+04135X0224/ PZ7 |
 
-04135X0368/VJE11 |
+04135X0368/ VJE11 |
+
+Max |
 
 Richwiller |
 
 Hors secteurs |
 
-04135X0379/P |
+04135X0379/ P |
 
-04135X0440/PMT |
-
-EST
-
-Potassique |
-
-Piézomètres |
-
-Max |
+04135X0440/ PMT |
 
 Wittelsheim |
 
 Joseph-Else |
 
-04135X0208/PZ-J2 |
+04135X0208/ PZ-J2 |
 
-04135X0213/VJ2 |
+04135X0213/ VJ2 |
 
-04135X0214/S |
+04135X0214/ S |
 
-04135X0218/PZ2 |
+04135X0218/ PZ2 |
 
-04135X0345/VJ1S |
+04135X0345/ VJ1S |
 
-04135X0346/VJ1P |
+04135X0346/ VJ1P |
 
-04135X0347/VJ2S |
+04135X0347/ VJ2S |
 
-04135X0348/VJ2P |
+04135X0348/ VJ2P |
 
-04135X0349/VJ3S |
+04135X0349/ VJ3S |
 
-04135X0350/VJ3P |
+04135X0350/ VJ3P |
 
-04135X0351/VJ4S |
+04135X0351/ VJ4S |
 
-04135X0352/VJ4P |
+04135X0352/ VJ4P |
 
-04135X0353/VJ5S |
+04135X0353/ VJ5S |
 
-04135X0354/VJ5P |
+04135X0354/ VJ5P |
 
-04135X0369/VJE12 |
+04135X0369/ VJE12 |
 
-04135X0395/PROF |
+04135X0395/ PROF |
 
-04135X0396/SUP |
+04135X0396/ SUP |
 
-04135X0399/PROF |
+04135X0399/ PROF |
 
-04135X0401/PROF |
+04135X0401/ PROF |
 
-04135X0403/D |
+04135X0403/ D |
 
-04135X0404/D |
+04135X0404/ D |
 
 Prince Eugène |
 
@@ -1824,25 +1770,25 @@ Théodore-Eugène |
 
 04132X0303/1002 |
 
-04132X0331/EUG/B2 |
+04132X0331/ EUG/ B2 |
 
-04132X0428/PZ4 |
+04132X0428/ PZ4 |
 
-04132X0429/PZ5 |
+04132X0429/ PZ5 |
 
-04132X0430/PZ6 |
+04132X0430/ PZ6 |
 
-04132X0431/PZ7 |
+04132X0431/ PZ7 |
 
-04132X0432/PZ8 |
+04132X0432/ PZ8 |
 
 Prince Eugène I |
 
-04132X0224/S |
+04132X0224/ S |
 
-04132X0425/PZ1 |
+04132X0425/ PZ1 |
 
-04132X0426/PZ2 |
+04132X0426/ PZ2 |
 
 Rodolphe Est |
 
@@ -1850,33 +1796,39 @@ Ensisheim |
 
 Ensisheim |
 
-04132X0232/F3 |
+04132X0232/ F3 |
 
-04132X0266/P2 |
+04132X0266/ P2 |
 
-04132X0316/PMC |
+04132X0316/ PMC |
 
-04132X0338/PZ |
+04132X0338/ PZ |
 
-04132X0339/PZ |
+04132X0339/ PZ |
 
-04132X0340/PZ |
+04132X0340/ PZ |
 
-04132X0345/EN1 |
+04132X0345/ EN1 |
 
-04132X0346/EN2 |
+04132X0346/ EN2 |
 
-04132X0347/EN3 |
+Rodolphe Est |
 
-04132X0348/EO1 |
+Ensisheim |
 
-04132X0349/EO2 |
+Ensisheim |
 
-04132X0350/EO3 |
+04132X0347/ EN3 |
 
-04132X0376/EO4 |
+04132X0348/ EO1 |
 
-04132X0377/EO5 |
+04132X0349/ EO2 |
+
+04132X0350/ EO3 |
+
+04132X0376/ EO4 |
+
+04132X0377/ EO5 |
 
 Rodolphe Ouest |
 
@@ -1884,55 +1836,43 @@ Pulversheim |
 
 Marie-Louise |
 
-04131X0137/P1 |
+04131X0137/ P1 |
 
-04131X0138/P2 |
+04131X0138/ P2 |
 
-04131X0139/P3 |
+04131X0139/ P3 |
 
 04131X0476/1031 |
 
-04131X0493/P |
+04131X0535/ VL4P |
 
-04131X0494/S |
-
-04131X0535/VL4P |
-
-04131X0536/VL4S |
-
-EST
-
-Potassique |
-
-Piézomètres |
-
-Rodolphe Ouest |
+04131X0536/ VL4S |
 
 Ungersheim |
 
 Alex-Rodolphe |
 
-04131X0444/P2 |
+04131X0444/ P2 |
 
-04131X0554/ROD2 |
+04131X0554/ ROD2 |
 
-04131X0555/ROD3 |
+04131X0555/ ROD3 |
 
-04131X0556/ROD4 |
+04131X0556/ ROD4 |
 
-04131X0557/ROD5 |
+04131X0557/ ROD5 |
 
 Marie-Louise |
 
-04131X0140/P4 |
+04131X0140/ P4 |
 
 Rodolphe XI |
 
 Hors secteurs |
 
-03786X0116/PZ |
+03786X0116/ PZ |
 
-03786X0117/S |
+03786X0117/ S |
 
 Ruelisheim |
 
@@ -1940,53 +1880,53 @@ Ruelisheim |
 
 Théodore-Eugène |
 
-04132X0074/F1VT |
+04132X0074/ F1VT |
 
-04132X0075/F2VT |
+04132X0075/ F2VT |
 
-04132X0383/DEP |
+04132X0383/ DEP |
 
-04132X0404/ENS2 |
+04132X0404/ ENS2 |
 
 Théodore |
 
 Ensisheim |
 
-04132X0211/SUD |
+04132X0211/ SUD |
 
-04132X0213/S |
+04132X0213/ S |
 
-04132X0214/S |
+04132X0214/ S |
 
-04132X0357/P |
+04132X0357/ P |
 
-04132X0358/S |
+04132X0358/ S |
 
 Ruelisheim |
 
 04132X0302/1001 |
 
-04132X0351/P |
+04132X0351/ P |
 
-04132X0352/S |
+04132X0352/ S |
 
-04132X0355/P |
+04132X0355/ P |
 
-04132X0423/SUP |
+04132X0423/ SUP |
 
 Wittenheim |
 
-04132X0353/P |
+04132X0353/ P |
 
-04132X0354/S |
+04132X0354/ S |
 
-04132X0356/P |
+04132X0356/ P |
 
 Théodore I |
 
 Ruelisheim |
 
-04132X0422/PROF |
+04132X0422/ PROF |
 
 Thérèse VII |
 
@@ -1994,7 +1934,7 @@ Reguisheim |
 
 Hors secteurs |
 
-03787X0101/PMT |
+03787X0101/ PMT |
 
 Zollhaus |
 
@@ -2002,33 +1942,37 @@ Ensisheim |
 
 Ensisheim |
 
-04132X0230/F1 |
+04132X0230/ F1 |
 
-04132X0231/F2 |
+04132X0231/ F2 |
+
+Zollhaus |
+
+Ensisheim |
 
 Hors secteurs |
 
-04132X0191/PMT |
+04132X0191/ PMT |
 
-04132X0192/PMTRD |
+04132X0192/ PMTRD |
 
 Théodore-Eugène |
 
-04132X0118/F |
+04132X0118/ F |
 
-04132X0374/P1 |
+04132X0374/ P1 |
 
-04132X0375/P2 |
+04132X0375/ P2 |
 
-04132X0393/P2 |
+04132X0393/ P2 |
 
-04132X0395/P3 |
+04132X0395/ P3 |
 
-04132X0397/P4 |
+04132X0397/ P4 |
 
-04132X0398/P5 |
+04132X0398/ P5 |
 
-04132X0403/ENS1 |
+04132X0403/ ENS1 |
 
 Dépôt de minerai ou de résidus |
 
