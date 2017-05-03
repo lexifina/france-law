@@ -400,7 +400,7 @@ Capacité à coder les données médicales
 
 140€ en 2018
 
-3500€ en 2019
+350€ en 2019
 
 |
 

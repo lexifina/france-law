@@ -84,6 +84,42 @@ Consultation réalisée au domicile du patient atteint de maladie neurodégéné
 
 (3) |
 
+Avis ponctuel de consultant pour les médecins spécialistes en médecine générale (prévu à l'article 18 de la NGAP et aux articles 16.2 et 28.3.5 de la convention)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Avis ponctuel de consultant
+
+|
+
+46,00 |
+
+50,60 |
+
+55,20 |
+
+(3) |
+
+Avis ponctuel de consultant par un professeur des universités-praticien hospitalier
+
+|
+
+69,00 |
+
+75,90 |
+
+82,80 |
+
+(3) |
+
 Forfait pédiatrique enfant FPE du médecin généraliste pour les examens médicaux obligatoires donnant lieu à certificat
 
 (prévue à l’article 14-4-1 de la NGAP) |
@@ -730,9 +766,51 @@ Majoration de coordination généraliste : MCG (3)
 
 (1) Le parcours de soins ne s’applique pas à Mayotte.
 
+Article 4 Nouveau tarif applicable au 1er octobre 2017
+
+ACTES |
+
+MÉTROPOLE (1) |
+
+GUADELOUPE
+
+MARTINIQUE
+
+GUYANE
+
+RÉUNION |
+
+MAYOTTE |
+
+Avis ponctuel de consultant pour les médecins spécialistes en médecine générale (prévu à l'article 18 de la NGAP et aux articles 16.2 et 28.3.5 de la convention médicale) |
+
+|
+
+|
+
+|
+
+Avis ponctuel de consultant |
+
+48,00 |
+
+57,60 |
+
+(1) |
+
+Avis ponctuel de consultant par un professeur des universités-praticien hospitalier |
+
+69,00 |
+
+82,80 |
+
+(1) |
+
+(1) Le parcours de soins ne s'applique pas à Mayotte. |
+
 ANNEXE 4.
 
-Article 4 Nouveau tarif applicable au 1er novembre 2017
+Article 5 Nouveau tarif applicable au 1er novembre 2017
 
 ANNEXE 5.
 
@@ -782,7 +860,7 @@ ANNEXE 6.
 
 ANNEXE 7.
 
-Article 5 Nouveaux tarifs applicables au 1er janvier 2018
+Article 6 Nouveaux tarifs applicables au 1er janvier 2018
 
 Actes
 
@@ -843,6 +921,40 @@ Majoration médecin traitant régulation : MRT
 |
 
 (1) Le parcours de soins ne s’applique pas à Mayotte
+
+Article 7 Nouveau tarif applicable au 1er juin 2018
+
+ACTES |
+
+MÉTROPOLE (1) |
+
+GUADELOUPE
+
+MARTINIQUE
+
+GUYANE
+
+RÉUNION |
+
+MAYOTTE |
+
+Avis ponctuel de consultant pour les médecins spécialistes en médecine générale (prévu à l'article 18 de la NGAP et aux articles 16.2 et 28.3.5 de la convention médicale) |
+
+|
+
+|
+
+(1) |
+
+Avis ponctuel de consultant |
+
+50,00 |
+
+60,00 |
+
+(1) |
+
+(1) Le parcours de soins ne s'applique pas à Mayotte. |
 
 Sous-Titre 2.Tarifs des honoraires, rémunérations et frais accessoires des médecins spécialistes hors médecine générale
 
@@ -1606,19 +1718,19 @@ Consultation au cabinet : CS
 
 Consultation réalisée au cabinet par un psychiatre à la demande du médecin traitant dans les deux jours ouvrables
 
-(prévue à l’article 15.2.4 de la NGAP) |
+(prévue à l'article 15.2.4 de la NGAP) |
 
 1,5 CNPSY
 
-55,50 |
+58,50 |
 
 1,5 CNPSY
 
-66,60 |
+70,2 |
 
 1,5 CNPSY
 
-66,60 |
+70,2 |
 
 Consultation de dépistage du mélanome réalisée au cabinet par un médecin spécialiste en dermatologie : CDE
 

@@ -1,6 +1,6 @@
 # Article Annexe 2-33
 
-Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-9)
+Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-22)
 
 NOMBRE DE FILMS ART ET ESSAI MINIMUM (BASE 373 FILMS RECOMMANDÉS ART & ESSAI) |
 
@@ -305,3 +305,9 @@ Inéligible |
 179 |
 
 147 |
+
+NOTA :
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année 2017 à la semaine cinématographique 26 de l'année 2018.

@@ -170,7 +170,7 @@ Les soins réalisés par les médecins qui adhèrent à l’option bénéficient
 
 Article 2.2.3 Rémunération spécifique de l’activité à tarif opposable
 
-Afin de valoriser l’activité à tarif opposable réalisée par le médecin adhérant à l’option, est mise en place une rémunération spécifique au profit des médecins ayant respecté les engagements de leur option souscrite.
+Afin de valoriser l'activité à tarif opposable réalisée par les médecins adhérant à l'option, est mise en place une rémunération spécifique au profit des médecins du secteur à honoraires différents ayant respecté les engagements de leur option souscrite.
 
 Cette rémunération est calculée en appliquant un taux sur les honoraires réalisés à tarifs opposables correspondant au taux de cotisations moyen sur les trois risques : maladie, maternité, décès, allocations familiales et allocation supplémentaire vieillesse.
 

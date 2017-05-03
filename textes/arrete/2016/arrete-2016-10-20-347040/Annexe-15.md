@@ -4,7 +4,7 @@ REMUNERATION SUR OBJECTIFS DE SANTE PUBLIQUE
 
 Article 1 Modalités de calcul de la rémunération
 
-Le dispositif de rémunération sur objectifs de santé publique comporte 29 indicateurs pour les médecins traitants, 9 indicateurs pour les médecins spécialistes en cardiologie et maladies vasculaires et 8 indicateurs pour les médecins spécialistes en gastro-entérologie et hépatologie.
+Le dispositif de rémunération sur objectifs de santé publique comporte 29 indicateurs pour les médecins traitants des patients âgés de seize et plus, 10 indicateurs pour les médecins traitants des patients âgés de moins de seize ans, 9 indicateurs pour les médecins spécialistes en cardiologie et maladies vasculaires et 8 indicateurs pour les médecins spécialistes en gastro-entérologie et hépatologie.
 
 Les indicateurs s’appuient d’une part sur des données issues des bases de remboursement de l’Assurance maladie et, d’autre part sur des données de suivi clinique déclarées par les médecins.
 
@@ -56,17 +56,21 @@ Pour chaque indicateur, le nombre de points calculé est égal au nombre de poin
 
 Si l’objectif est décroissant le rapport est inversé.
 
-Pour le calcul de la rémunération, une pondération est effectuée sur la base de la patientèle médecin traitant déclarante de l’année. Elle correspond aux patients qui ont déclaré le médecin comme médecin traitant pour l’ensemble des régimes d’assurance maladie obligatoire.
+Pour le calcul de la rémunération, une pondération est effectuée sur la base de la patientèle médecin traitant déclarante ou correspondante de l’année. Pour les médecins traitants, elle correspond aux patients qui ont déclaré le médecin comme médecin traitant pour l’ensemble des régimes d’assurance maladie obligatoire.
 
 Le nombre de patients ainsi comptabilisé est arrêté au 31 décembre de l’année au titre de laquelle la rémunération sur objectifs de santé publique est calculée.
 
 La pondération par la patientèle permet de prendre en compte le volume de celle-ci et de valoriser différemment deux médecins qui, pour un même taux de réalisation, ont des patientèles de tailles différentes.
 
-Le nombre de points maximum de chaque indicateur est défini pour une patientèle moyenne de référence de 800 patients pour les médecins traitants et les médecins spécialistes en cardiologie et pathologies vasculaires et 1 100 patients pour les médecins spécialistes en gastro-entérologie et hépatologie. Ainsi, la rémunération est égale au nombre de points multiplié par le taux de réalisation pour l’indicateur, pondéré par le rapport entre la patientèle médecin traitant déclarante ou correspondante et la patientèle moyenne de référence et multiplié par la valeur du point.
+Le nombre de points maximum de chaque indicateur est défini pour une patientèle moyenne de référence de 800 patients pour les médecins traitants des patients de seize ans et plus, 600 patients pour les médecins traitants des patients âgés de moins de 16 ans. et ou 800 patients pour les médecins spécialistes en cardiologie et pathologies vasculaires et 1 100 patients pour les médecins spécialistes en gastro-entérologie et hépatologie. Ainsi, la rémunération est égale au nombre de points multiplié par le taux de réalisation pour l’indicateur, pondéré par le rapport entre la patientèle médecin traitant déclarante ou correspondante et la patientèle moyenne de référence et multiplié par la valeur du point.
 
-Pour les médecins traitants :
+Pour les médecins traitants des patients âgés de moins de seize ans :
 
-Rémunération calculée = nombre de points x taux de réalisation x x 7€
+Rémunération calculée = nombre de points × taux de réalisation × (patientèle déclarante/600) × 7€. .
+
+Pour les médecins traitants des patients âgés de seize ans et plus :
+
+Rémunération calculée = nombre de points × taux de réalisation × (patientèle déclarante/800) × 7€.
 
 Pour les médecins spécialistes en cardiologie et gastro-entérologie :
 
@@ -94,11 +98,19 @@ Chaque année, les médecins traitants nouveaux installés bénéficient du calc
 
 La rémunération est calculée selon la formule suivante :
 
-Rémunération calculée = nombre de points x taux de réalisation x x 7€ x majoration du point selon l’année d’installation
+Pour les médecins traitants des patients âgés de moins de seize ans :
+
+Rémunération calculée = nombre de points × taux de réalisation × (patientèle déclarante/600) × 7 € × majoration du point selon l'année d'installation.
+
+Pour les médecins traitants des patients âgés de seize ans et plus :
+
+Rémunération calculée = nombre de points × taux de réalisation × (patientèle déclarante/800) × 7 €× majoration du point selon l'année d'installation.
 
 Article 2 Méthodologie de construction des indicateurs
 
 Article 2.1 Les indicateurs pour les médecins traitants
+
+Article 2.1.1 Les indicateurs pour les médecins traitants des patients âgés de seize ans et plus.
 
 L'ensemble des codes correspondants aux actes techniques, aux actes de biologie ou aux médicaments cités dans ce texte correspondent à ceux en vigueur à la date de parution de la Convention. Ils font l'objet d'une maintenance régulière permettant d'introduire tout nouveau code qui ne modifie pas le sens de l'indicateur, par exemple lors de l'apparition d'un nouveau médicament appartenant à la même sous-classe ATC ou lors de la modification du code CCAM correspondant à un acte appartenant au champ de la requête.
 
@@ -190,7 +202,7 @@ Seuil minimum : 10 patients MT traités par antihypertenseurs
 
 Fréquence de mise à jour des données : trimestrielle
 
-Définition : sont pris en compte les codes NABM suivants :
+Définition : sont pris en compte les codes ATC des médicaments des classes C02, C03, C07, C08 et C09 ayant l'indication HTA, ainsi que le code ATC C10BX03 (atorvastatine +amlopidine), sont pris en compte les codes NABM suivants :
 
 - pour la recherche de protéinurie, le code 2004 (" UR : protéinurie, recherche et dosage") ;
 
@@ -216,7 +228,7 @@ Définitions : indicateur déclaratif
 
 Dénominateur : nombre de patients MT ayant eu un séjour en MCO pour maladie coronaire ou AOMI sur 5 ans ou étant en ALD pour ces motifs l’année précédente
 
-Numérateur : nombre de patients MT ayant eu un séjour en MCO pour maladie coronaire ou AOMI sur 5 ans ou étant en ALD l’année précédente pour ces causes et ayant été traités par bétabloquants + IEC ou ARA 2 sur 1 an (quel que soit le prescripteur)
+Numérateur : nombre de patients MT ayant eu un séjour en MCO pour maladie coronaire ou AOMI sur 5 ans ou étant en ALD l’année précédente pour ces causes et ayant été traités par statines et AAP + IEC ou ARA 2 sur 1 an (quel que soit le prescripteur)
 
 Période de calcul : 6 ans glissants
 
@@ -226,7 +238,7 @@ Fréquence de mise à jour des données : trimestrielle (sauf 1er trimestre : do
 
 Définitions :
 
-Statines : médicaments de la classe EPHMRA C10A1 (Statines, y compris Caduet® et Pravadual®) et de la classe ATC C10AA05 (association de simvastatine et d’ézétimibe : Inegy®). L’ézétimibe (Ezetrol®) n’est pas pris en compte (hypolémiant n’appartenant pas à la classe des statines).
+Statines : médicaments de la classe EPHMRA C10A1 (Statines, y compris Caduet® et Pravadual®) et de la classe ATC C10BA02 (association de simvastatine et d’ézétimibe : Inegy®) et de la classe ATC C10BA05 (association d'atorvastatine et ezetimibe). L’ézétimibe (Ezetrol®) n’est pas pris en compte (hypolémiant n’appartenant pas à la classe des statines).
 
 AAP : médicaments des classes ATC suivantes: B01AC04 (clopidogrel), B01AC06 (acetylsalicylique acide), B01AC07 (dipyridamole), B01AC05 (ticlopidine), C10BX02 (pravastatine et ACIDE acetylsalicylique), B01AC08 (carbasalate calcique), B01AC30 (associations), B01AC22 (prasugrel), B01AC24 (ticagrelor)
 
@@ -370,7 +382,7 @@ Définitions : Le code prestation pris en compte pour le dépistage du CCR est :
 
 ► Prévention des risques d’iatrogénie médicamenteuse
 
-• Indicateur : Part des patients MT > 75 ans ne bénéficiant pas d’une ALD pour troubles psychiatriques (ALD 23) ayant plus de 2 psychotropes prescrits
+• Indicateur : Part des patients MT > 75 ans ne bénéficiant pas d'une ALD pour troubles psychiatriques (ALD 23) ayant au moins 2 (≥ 2) psychotropes prescrits (hors anxiolytiques).
 
 Dénominateur : nombre de patients MT de plus de 75 ans hors patients en ALD 23
 
@@ -386,7 +398,7 @@ Définition : sont définis comme psychotropes toutes les molécules suivantes :
 
 - Dans la Classe N05 (psycholeptiques) :
 
-N05AA (carpipramine), N05AA01 (chlorpromazine), N05AA02 (levomepromazine), N05AA06 (cyamemazine), N05AB02 (fluphenazine), N05AB03 (perphenazine), N05AB06 (trifluoperazine), N05AB08 (thioproperazine), N05AC01 (periciazine), N05AC02 (thioridazine), N05AC04 (pipotiazine), N05AD01 (haloperidol), N05AD02 (trifluperidol), N05AD05 (pipamperone), N05AD08 (droperidol), N05AF01 (flupentixol), N05AF05 (zuclopenthixol), N05AG02 (pimozide), N05AG03 (penfluridol), N05AH01 (loxapine), N05AH02 (clozapine), N05AH03 (olanzapine), N05AH04 (quetiapine), N05AL01 (sulpiride), N05AL03 (tiapride), N05AL05 (amisulpride), N05AN01 (lithium), N05AX08 (risperidone), N05AX12 (aripiprazole), N05AX13 (paliperidone), N05BA01 (diazepam), N05BA04 (oxazepam), N05BA05 (clorazepate potassique), N05BA06 (lorazepam), N05BA08 (bromazepam), N05BA09 (clobazam), N05BA11 (prazepam), N05BA12 (alprazolam), N05BA16 (nordazepam), N05BA18 (ethyle loflazepate), N05BA21 (clotiazepam), N05BA23 (tofisopam), N05BB01 (hydroxyzine), N05BB02 (captodiame), N05BC01 (meprobamate), N05BC51 (meprobamate en association), N05BE01 (buspirone), N05BX03 (etifoxine), N05CD02 (nitrazepam), N05CD03 (flunitrazepam), N05CD04 (estazolam), N05CD05 (triazolam), N05CD06 (lormetazepam), N05CD07 (temazepam), N05CD11 (loprazolam), N05CF01 (zopiclone), N05CF02 (zolpidem), N05CX (clorazepate dipotassique + acepromazine),
+N05AA (carpipramine), N05AA01 (chlorpromazine), N05AA02 (levomepromazine), N05AA06 (cyamemazine), N05AB02 (fluphenazine), N05AB03 (perphenazine), N05AB06 (trifluoperazine), N05AB08 (thioproperazine), N05AC01 (periciazine), N05AC02 (thioridazine), N05AC04 (pipotiazine), N05AD01 (haloperidol), N05AD02 (trifluperidol), N05AD05 (pipamperone), N05AD08 (droperidol), N05AF01 (flupentixol), N05AF05 (zuclopenthixol), N05AG02 (pimozide), N05AG03 (penfluridol), N05AH01 (loxapine), N05AH02 (clozapine), N05AH03 (olanzapine), N05AH04 (quetiapine), N05AL01 (sulpiride), N05AL03 (tiapride), N05AL05 (amisulpride), N05AN01 (lithium), N05AX08 (risperidone), N05AX12 (aripiprazole), N05AX13 (paliperidone), N05CD02 (nitrazepam), N05CD03 (flunitrazepam), N05CD04 (estazolam), N05CD05 (triazolam), N05CD06 (lormetazepam), N05CD07 (temazepam), N05CD11 (loprazolam), N05CF01 (zopiclone), N05CF02 (zolpidem), N05CX (clorazepate dipotassique + acepromazine),
 
 - Dans la classe N06 (psychoanaleptiques) :
 
@@ -438,7 +450,7 @@ BZD anxiolytiques : médicaments de la classe ATC N05BA
 
 Dénominateur : nombre de patients MT de 16 à 65 ans et hors ALD
 
-Numérateur : nombre de boîtes d’antibiotiques prescrites par le MT et remboursées aux patients MT de 16 à 65 ans et hors ALD (x 100)
+Numérateur : nombre de prescriptions d’antibiotiques prescrites par le MT et remboursées aux patients MT de 16 à 65 ans et hors ALD (x 100)
 
 Période de calcul : 12 mois glissants
 
@@ -470,7 +482,7 @@ Pour le numérateur :
 
 - céphalosporine de 3è et 4è génération : médicaments des classes J01DD02 (ceftazidime), J01DD04 (ceftriaxone), J01DD08 (cefixime), J01DD13 (cefpodoxime), J01DE01 (cefepime)
 
-- fluoroquinolones : les médicaments des classes J01MA01 à J01MA12
+- fluoroquinolones : les médicaments des classes J01MA01 à J01MA12 et J01MA14.
 
 ► Conduites addictives
 
@@ -488,7 +500,7 @@ Fréquence de mise à jour des données : déclaration annuelle
 
 Définition : indicateur déclaratif
 
-• Indicateur : Part des patients MT alcooliques ayant fait l'objet d'une intervention brève telle que décrite par l’outil HAS et enregistrée dans le dossier du patient (déclaratif)
+• Indicateur : Part des patients MT consommateurs excessifs d'alcool ayant fait l'objet d'une intervention brève telle que décrite par l’outil HAS et enregistrée dans le dossier du patient (déclaratif)
 
 Dénominateur : nombre de patients MT alcooliques
 
@@ -496,7 +508,7 @@ Numérateur : nombre de patients MT alcooliques ayant fait l'objet d'une interve
 
 Période de calcul : 12 mois glissants
 
-Seuil minimum : 10 patients MT tabagiques
+Seuil minimum : 10 patients MT consommateurs excessifs d'alcool
 
 Fréquence de mise à jour des données : déclaration annuelle
 
@@ -526,9 +538,9 @@ Fréquence de mise à jour des données : trimestrielle
 
 Seuil minimum : 30 boîtes de statines prescrites par le MT à ses patients MT
 
-Définition : médicaments des classe ATC commençant par C10
+Définition : médicaments des classe ATC commençant par C10 hors autres agents modifiant les lipides (fibrates, acide nicotinique, résines, oméga 3…)
 
-• Indicateur : Part des boîtes d’antihypertenseurs prescrites dans le répertoire des génériques
+• Indicateur : médicaments des classes ATC C02 (sauf C02CA02), C03 (sauf C03DA04, C03XA01), C07 (sauf bétabloquant n'ayant pas l'indication HTA), C08 (sauf inhibiteurs calciques n'ayant pas l'indication HTA), C09 (sauf Enalapril® 2,5 mg n'ayant pas l'indication HTA). L'Esidrex® (hydrochlorothiazide) est inclus au numérateur de l'indicateur.
 
 Seuil minimum : 130 boîtes d’antihypertenseurs prescrites par le MT à ses patients MT
 
@@ -540,7 +552,7 @@ Seuil minimum : 20 boîtes de médicaments de l’incontinence urinaire prescrit
 
 Définition : médicaments de la classe EPH G04D4 " médicaments de l'incontinence urinaire ".
 
-• Indicateur : Part des boîtes de traitement de l’asthme prescrites dans le répertoire des génériques
+• Indicateur : médicaments de la classe EPH R03A3 sauf ATC R03AC18 et R03AC19 (ayant juste l'indication BPCO).
 
 Seuil minimum : 20 boîtes d’antiasthmatiques prescrites par le MT à ses patients MT
 
@@ -564,7 +576,7 @@ Seuil minimum : 20 boîtes d’insuline glargine prescrites par le MT à ses pat
 
 Fréquence de mise à jour des données : trimestrielle
 
-Définition : parmi les médicaments de la classe ATC A10AE (insulines et analogues pour injection d'action lente), ceux avec PHA_ATC_L07 = " insuline glargine "
+Définition : parmi les médicaments de la classe ATC A10AE04 (insulines et analogues pour injection d'action lente), ceux avec PHA_ATC_L07 = " insuline glargine "
 
 ► Efficience des prescriptions
 
@@ -586,7 +598,7 @@ Définition : Sont définis comme antiagrégants plaquettaires tous les médicam
 
 Dénominateur : nombre de patients MT diabétiques
 
-Numérateur : nombre de patients MT diabétiques traités par metformine (quel que soit le prescripteur)
+Numérateur : nombre de patients MT diabétiques de type 2 traités par metformine (quel que soit le prescripteur)
 
 Période de calcul : 12 mois glissants
 
@@ -594,11 +606,11 @@ Seuil minimum 10 patients MT diabétiques
 
 Fréquence de mise à jour des données : trimestrielle
 
-Définitions : Les classes incluses au dénominateurs sont : metformine, agoniste GLP-1, glinide, glitazone, inhibiteur DPP-4, inhibiteur alpha-glucosidases, insuline, sulfamide + les associations metformine et sulfamide, metformine et glitazone, metformine et inhibiteur DPP-4.
+Définitions : les classes incluses au dénominateur appartiennent aux classes Ephmra A10C9, A10H, A10J1, A10J2, A10K1, A10K3, A10L, A10M1, A10N1, A10N3, A10S.
 
 • Indicateur : Part des patients MT ayant bénéficié d’un dosage d'hormones thyroïdiennes dans l'année qui ont eu un dosage isolé de TSH
 
-Dénominateur : nombre de patients MT ayant un dosage de TSH, T3L ou T4L (quel que soit le prescripteur)
+Dénominateur : nombre de patients MT ayant un dosage de TSH, T3L ou T4L (prescripteur MT).
 
 Numérateur : ayant eu un dosage de TSH seul (quel que soit le prescripteur)
 
@@ -788,7 +800,7 @@ Part des patients MT de 50 à 74 ans pour lesquels un dépistage du cancer color
 
 Iatrogénie |
 
-Part des patients MT > 75 ans ne bénéficiant pas d’une ALD pour troubles psychiatriques (ALD 23) ayant plus de 2 psychotropes prescrits |
+Part des patients MT > 75 ans ne bénéficiant pas d'une ALD pour troubles psychiatriques (ALD 23) ayant au moins 2 (≥ 2) psychotropes prescrits (hors anxiolytiques) |
 
 4% |
 
@@ -852,7 +864,7 @@ Part des patients MT tabagiques ayant fait l'objet d'une intervention brève tel
 
 20 |
 
-Part des patients MT alcooliques ayant fait l'objet d'une intervention brève telle que décrite par l’outil HAS et enregistrée dans le dossier |
+Part des patients MT consommateurs excessifs d'alcool ayant fait l'objet d'une intervention brève telle que décrite par l'outil HAS et enregistrée dans le dossier |
 
 60% |
 
@@ -910,9 +922,13 @@ Part des boîtes de traitement de l'asthme prescrites dans le répertoire des g�
 
 30 |
 
-Indice global de prescription dans le reste du répertoire- |
+Indice global de prescription dans le reste du répertoire |
 
-A déterminer selon les règles définies à l’article 27.5. |
+51 % |
+
+≥ 55 % |
+
+200 boîtes |
 
 10 |
 
@@ -965,6 +981,390 @@ Part des patients MT ayant eu un dosage d'hormones thyroïdiennes dans l'année 
 Total |
 
 330 |
+
+Article 2.1.2 Les indicateurs pour les médecins traitants des patients âgés de moins de seize ans
+
+L'ensemble des codes correspondants aux actes techniques, aux actes de biologie ou aux médicaments cités dans ce texte correspondent à ceux en vigueur à la date de parution de la convention. Ils font l'objet d'une maintenance régulière permettant d'introduire tout nouveau code qui ne modifie pas le sens de l'indicateur, par exemple lors de l'apparition d'un nouveau médicament appartenant à la même sous-classe ATC ou lors de la modification du code CCAM correspondant à un acte appartenant au champ de la requête.
+
+Indicateurs de suivi des pathologies chroniques.
+
+Les prescriptions prises en compte pour ces indicateurs intègrent l'ensemble des prescriptions faites aux patients qui ont déclaré le médecin comme médecin traitant y compris celles réalisées par d'autres médecins.
+
+Suivi de l'asthme :
+
+- Indicateur : Part des patients MT de 1 à 15 ans inclus présentant un asthme persistant traités par corticoïdes inhalés et/ou anti leucotriènes :
+
+Dénominateur : nombre de patients MT de 1 à 15 ans inclus présentant un asthme persistant (défini par la délivrance d'au moins 5 boites de la classe ATC R03)
+
+Numérateur : nombre de patients MT de 1 à 15 ans inclus présentant un asthme persistant et ayant eu au moins 5 boîtes délivrées de corticoïdes inhalés (seuls ou associés) et/ou d'antileucotriènes
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de 1 à 15 ans inclus présentant un asthme persistant
+
+Fréquence de mise à disposition des données : semestrielle
+
+Définitions :
+
+- Asthme persistant : médicaments de la classe ATC R03 (≥ 5 boites)
+
+- Corticoïdes inhalés : médicaments des classes Ephmra R03D1 et R03F1
+
+- Anti leucotriènes : médicaments de la classe Ephmra R03J2
+
+- Indicateur : Part des patients MT de 6 à 15 ans inclus présentant un asthme persistant ayant eu au moins une EFR annuelle :
+
+Dénominateur : nombre de patients MT de 6 à 15 ans inclus présentant un asthme persistant
+
+Numérateur : nombre de patients MT de 6 à 15 ans inclus présentant un asthme persistant et ayant eu au moins une EFR
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de 6 à 15 ans inclus ans présentant un asthme persistant
+
+Fréquence de mise à disposition des données : semestrielle
+
+Définitions :
+
+- Asthme persistant : médicaments de la classe ATC R03
+
+- Codes CCAM EFR :
+
+- GLQP002 : mesure de la capacité vitale lente et de l'expiration forcée avec mesure des volumes pulmonaires mobilisables et non mobilisables par pléthysmographie
+
+- GLQP003 : mesure de l'expiration forcée (courbe débit-volume) avec enregistrement
+
+- GLQP008 (mesure de la capacité vitale lente et de l'expiration forcée avec gazométrie sanguine artérielle (Spirométrie standard avec gaz du sang)
+
+- GLQP011 : mesure des volumes pulmonaires mobilisables et non mobilisables par pléthysmographie
+
+- GLQP012 : mesure de la capacité vitale lente et de l'expiration forcée avec enregistrement (Spirométrie standard)
+
+- GLQP014 : mesure du débit expiratoire maximal par technique de compression
+
+- GLQP016 : mesure des résistances des voies aériennes ou de l'appareil respiratoire par interruption des débits ou des oscillations forcées
+
+Indicateurs de prévention.
+
+Les prescriptions prises en compte pour ces indicateurs intègrent l'ensemble des prescriptions faites aux patients qui ont déclaré le médecin comme médecin traitant y compris celles réalisées par d'autres médecins à l'exception des indicateurs sur l'antibiothérapie.
+
+Obésité :
+
+- Indicateur : Part des patients MT de moins de 16 ans dont la courbe de corpulence (réalisée à partir de l'IMC) est renseignée dans le dossier médical au moins une fois par an :
+
+Dénominateur : nombre de patients MT de moins de 16 ans
+
+Numérateur : nombre de patients MT de moins de 16 ans dont la courbe de corpulence est renseignée dans le dossier médical au moins une fois par an
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de moins de 16 ans
+
+Fréquence de mise à jour des données : déclaration annuelle
+
+Définition : indicateur déclaratif
+
+Vaccination :
+
+- Indicateur : Part des patients MT de moins de 2 ans ayant reçu deux doses de vaccin ROR
+
+Dénominateur : nombre de patients MT de 19-30 mois (au 31/12 de l'année N) ayant eu au moins une délivrance de DTP depuis leur naissance
+
+Numérateur : nombre de patients MT de 19-30 mois (au 31/12 de l'année N) ayant eu au moins deux délivrances de ROR et une délivrance de DTP depuis leur naissance
+
+Période de calcul : 2 ans et demi glissants
+
+Seuil minimum : 5 patients MT de 19-30 mois (au 31/12 de l'année N) ayant eu au moins une délivrance de DTP depuis leur naissance
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Vaccin ROR : médicaments de la classe ATC J07BD52
+
+- Vaccin DTP : médicaments des classes ATC J07CA01, J07CA02, J07CA06, J07CA09
+
+Remarque : on introduit au dénominateur les patients ayant eu au moins une délivrance de DTP pour cibler les patients qui réalisent leur vaccins en ville (et non en PMI).
+
+- Indicateur : Part des patients MT de moins de 18 mois ayant reçu une dose de vaccin anti méningocoque C
+
+Dénominateur : nombre de patients MT de 15-26 mois (au 31/12 de l'année N) ayant eu au moins une délivrance de DTP depuis leur naissance
+
+Numérateur : nombre de patients MT de 15-26 mois (au 31/12 de l'année N) ayant eu au moins une délivrance de vaccin anti méningocoque C et une délivrance de DTP depuis leur naissance
+
+Période de calcul : 2 ans et demi glissants
+
+Seuil minimum : 5 patients MT de 15-26 mois (au 31/12 de l'année N) ayant eu au moins une délivrance de DTP depuis leur naissance
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions : Indicateur calculé hors données des PMI
+
+- Vaccin anti méningocoque C : médicaments de la classe ATC J07AH07
+
+- Vaccin DTP : médicaments des classes ATC J07CA01, J07CA02, J07CA06, J07CA09
+
+Remarque : on introduit au dénominateur les patients ayant eu au moins une délivrance de DTP pour cibler les patients qui réalisent leur vaccins en ville (et non en PMI).
+
+Antibiothérapie :
+
+- Indicateur : Part des patients MT de moins de 4 ans traités par céphalosporine de 3e ou 4e génération parmi les patients MT de moins de 4 ans traités par antibiotiques
+
+Dénominateur : nombre de patients MT de moins de 4 ans ayant eu au moins une délivrance d'antibiotiques prescrits par le MT
+
+Numérateur : nombre de patients MT de moins de 4 ans ayant eu au moins une délivrance de céphalosporines de 3e ou 4e génération prescrites par le MT
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de moins de 4 ans avec délivrance d'antibiotiques prescrits par le MT
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Antibiotiques : médicaments de la classe ATC J01
+
+- Céphalosporine de 3e et 4e génération : médicaments des classes ATC J01DD02, J01DD04, J01DD08, J01DD13, J01DE01
+
+- Indicateur : Part des patients MT de 4 ans ou plus traités par céphalosporine de 3e ou 4e génération parmi les patients MT de 4 ans ou plus traités par antibiotiques
+
+Dénominateur : nombre de patients MT de 4 ans ou plus ayant eu au moins une délivrance d'antibiotiques prescrits par le MT
+
+Numérateur : nombre de patients MT de 4 ans ou plus ayant eu au moins une délivrance de céphalosporines de 3e ou 4e génération prescrites par le MT
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de 4 ans ou plus avec délivrance d'antibiotiques prescrits par le MT
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Antibiotiques : médicaments de la classe ATC J01
+
+- Céphalosporine de 3e et 4e génération : médicaments des classes ATC J01DD02, J01DD04, J01DD08, J01DD13, J01DE01
+
+Dépistage des troubles sensoriels :
+
+- Indicateur : Part des patients MT de moins d'un an ayant eu un dépistage clinique des troubles visuels et auditifs
+
+Dénominateur : nombre de patients MT de moins d'un an
+
+Numérateur : nombre de patients MT de moins d'un an ayant eu un dépistage clinique des troubles visuels et auditifs
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de moins d'un an
+
+Fréquence de mise à jour des données : déclaration annuelle
+
+Définition : indicateur déclaratif
+
+Dépistage des troubles des apprentissages :
+
+- Indicateur : Part des patients MT de 3 à 5 ans ayant eu un dépistage de troubles du langage au moyen d'un test adapté (ERTL4 ou autre)
+
+Dénominateur : nombre de patients MT de 3 à 5 ans
+
+Numérateur : nombre de patients MT de 3 à 5 ans ayant eu un dépistage de troubles du langage au moyen d'un test adapté (ERTL4 ou autre)
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients MT de 3 à 5 ans
+
+Fréquence de mise à jour des données : déclaration annuelle
+
+Définition : indicateur déclaratif
+
+Suivi bucco-dentaire :
+
+- Indicateur : Part des patients MT de moins de 16 ans visés par le programme MT dents ayant bénéficié d'au moins un examen bucco-dentaire
+
+Dénominateur : nombre de patients MT dans les tranches d'âge [6 ans ½ - 7 ans ½], [9 ans ½ - 10 ans ½], [12 ans ½ - 13 ans ½], [15 ans ½ - 16 ans ½] au 31/12/N
+
+Numérateur : nombre de patients MT dans les tranches d'âge [6 ans ½ - 7 ans ½], [9 ans ½ - 10 ans ½], [12 ans ½ - 13 ans ½], [15 ans ½ - 16 ans ½] au 31/12/N, ayant eu au moins un acte dentaire
+
+Période de calcul : 18 mois glissants
+
+Seuil minimum : 5 patients MT dans les tranches d'âge [6 ans ½ - 7 ans ½], [9 ans ½ - 10 ans ½], [12 ans ½ - 13 ans ½], [15 ans ½ - 16 ans ½] au 31/12/N
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions : Toutes prestations réalisées par les chirurgiens-dentistes suivants :
+
+Spécialité 18 : stomatologue
+
+Spécialité 19 : chirurgien dentaire
+
+Spécialité 36 : chirurgien dentaire spécialiste ODF
+
+Spécialité 44 : chirurgien maxillo faciale
+
+Spécialité 45 : chirurgien maxillo faciale et stomatologue
+
+Spécialité 53 : chirurgien dentaire CO (chirurgie orale)
+
+Spécialité 54 : chirurgien dentaire MBD (médecine bucco-dentaire)
+
+Spécialité 69 : chirurgie orale
+
+THÈME |
+
+SOUS-THÈME |
+
+INDICATEUR |
+
+OBJECTIF
+
+intermédiaire |
+
+OBJECTIF
+
+cible |
+
+SEUIL
+
+minimal |
+
+NOMBRE
+
+de points |
+
+Suivi des pathologies chroniques |
+
+Asthme |
+
+Part des patients MT de 1 à 16 ans présentant un asthme persistant traités par corticoïdes inhalés et/ou anti leucotriènes |
+
+63 % |
+
+≥ 80 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de 6 à 16 ans présentant un asthme persistant ayant eu au moins une EFR annuelle (*) |
+
+50 % |
+
+≥ 71 % |
+
+5 patients |
+
+35 |
+
+Prévention |
+
+Obésité |
+
+Part des patients MT de moins de 16 ans dont la courbe de corpulence (réalisée à partir de l'IMC) est renseignée dans le dossier médical au moins une fois par an (**) Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Vaccination |
+
+Part des patients MT de moins de 2 ans ayant reçu deux doses de vaccin ROR. |
+
+75 % |
+
+≥ 87 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de moins de 18 mois ayant reçu une dose de vaccin anti méningocoque C |
+
+77 % |
+
+≥ 90 % |
+
+5 patients |
+
+35 |
+
+Antibiorésistance |
+
+Part des patients MT de moins de 4 ans traités par céphalosporine de 3e ou 4e génération parmi les patients MT de moins de 4 ans traités par antibiotiques |
+
+18 % |
+
+≤ 3 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de 4 ans ou plus traités par céphalosporine de 3e ou 4e génération parmi les patients MT de 4 ans ou plus traités par antibiotiques |
+
+11 % |
+
+≤ 2 % |
+
+5 patients |
+
+35 |
+
+Dépistage des troubles sensoriels |
+
+Part des patients MT de moins d'un an ayant eu un dépistage clinique des troubles visuels et auditifs Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Dépistage des troubles des apprentissages |
+
+Part des patients MT de 3 à 5 ans qui ont eu un dépistage de troubles du langage au moyen d'un test adapté (ERTL4 ou autre). Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Suivi bucco-dentaire |
+
+Part des patients MT de moins de 16 ans visés par le programme MT dents ayant bénéficié d'au moins un examen bucco-dentaire. |
+
+80 % |
+
+≥ 86 % |
+
+5 patients |
+
+35 |
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+305 |
+
+(*) Afin de faciliter l'accès des patients de 6 à 16 ans présentant un asthme persistant à une exploration fonctionnelle respiratoire (EFR), l'assurance maladie s'engage à mettre en place un programme d'accompagnement des médecins traitants incluant la mise à disposition de spiromètres et dont le contenu scientifique et les modalités seront définis avec le Collège de médecine générale, la société de pneumologie de langue française et de l'association Française de pédiatrie ambulatoire (AFPA).
+
+(**) Une attention particulière sera portée aux enfants de moins de 6 ans, de manière à dépister un rebond précoce d'adiposité (courbe de corpulence pluriannuelle). . |
 
 Article 2.2 Indicateurs pour les médecins spécialistes en cardiologie et maladies vasculaires
 
@@ -1203,6 +1603,166 @@ EQRP002 Épreuve d'effort sur tapis roulant ou bicyclette ergométrique, avec é
 EQRP008 Épreuve d'inclinaison [Tilt test] avec étude des variations de la pression intraartérielle et de la fréquence cardiaque
 
 EBQM900 Échographie-doppler des artères cervicocéphaliques extracrâniennes, avec mesure de l'épaisseur de l'intima-média.
+
+Indicateurs de pratique clinique des médecins traitants des patients âgés de moins de seize ans
+
+THÈME |
+
+SOUS-THÈME |
+
+INDICATEUR |
+
+OBJECTIF
+
+intermédiaire |
+
+OBJECTIF
+
+cible |
+
+SEUIL
+
+minimal |
+
+NOMBRE
+
+de points |
+
+Suivi des pathologies chroniques |
+
+Asthme |
+
+Part des patients MT de 1 à 16 ans présentant un asthme persistant traité par corticoïdes inhalés et/ou anti leucotriènes |
+
+63 % |
+
+≥ 80 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de 6 à 16 ans présentant un asthme persistant ayant eu au moins une EFR annuelle (*) |
+
+50 % |
+
+≥ 71 % |
+
+5 patients |
+
+35 |
+
+Prévention |
+
+Obésité |
+
+Part des patients MT de moins de 16 ans dont la courbe de corpulence (réalisée à partir de l'IMC) est renseignée dans le dossier médical au moins une fois par an (**). Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Vaccination |
+
+Part des patients MT de moins de 2 ans ayant reçu deux doses de vaccin ROR. |
+
+75 % |
+
+≥ 87 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de moins de 18 mois ayant reçu une dose de vaccin anti méningocoque C |
+
+77 % |
+
+≥ 90 % |
+
+5 patients |
+
+35 |
+
+Antibiorésistance |
+
+Part des patients MT de moins de 4 ans traités par céphalosporine de 3e ou 4e génération parmi les patients MT de moins de 4 ans traités par antibiotiques |
+
+18 % |
+
+≤ 3 % |
+
+5 patients |
+
+35 |
+
+Part des patients MT de 4 ans ou plus traités par céphalosporine de 3e ou 4e génération parmi les patients MT de 4 ans ou plus traités par antibiotiques |
+
+11 % |
+
+≤ 2 % |
+
+5 patients |
+
+35 |
+
+Dépistage des troubles sensoriels |
+
+Part des patients MT de moins d'un an ayant eu un dépistage clinique des troubles visuels et auditifs Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Dépistage des troubles des apprentissages |
+
+Part des patients MT de 3 à 5 ans ayant eu un dépistage de troubles du langage au moyen d'un test adapté (ERTL4 ou autre). Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+5 patients |
+
+20 |
+
+Suivi bucco-dentaire |
+
+Part des patients MT de moins de 16 ans visés par le programme MT dents ayant bénéficié d'au moins un examen bucco-dentaire. |
+
+80 % |
+
+≥ 86 % |
+
+5 patients |
+
+35 |
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+305 |
+
+(*) Afin de faciliter l'accès des patients de 6 à 16 ans présentant un asthme persistant à une exploration fonctionnelle respiratoire (EFR), l'assurance maladie s'engage à mettre en place un programme d'accompagnement des médecins traitants incluant la mise à disposition de spiromètres et dont le contenu scientifique et les modalités seront définis avec le Collège de médecine générale, la société de pneumologie de langue française et l'Association française de pédiatrie ambulatoire (AFPA).
+
+(**) Une attention particulière sera portée aux enfants de moins de 6 ans, de manière à dépister un rebond précoce d'adiposité (courbe de corpulence pluriannuelle). . |
 
 Thème |
 
