@@ -168,6 +168,38 @@ L'épreuve prend appui sur un dossier composé d'un ou de plusieurs documents en
 
 Les choix des jurys doivent être effectués de telle sorte que tous les candidats inscrits dans une même langue vivante au titre d'une même session subissent les épreuves dans les mêmes conditions.
 
+Section langues de France
+
+Le concours comporte les options suivantes : basque, breton, catalan, corse, créole, occitan-langue d'oc, tahitien. Le choix de l'option par le candidat s'effectue au moment de l'inscription.
+
+Les candidats font l'objet d'un classement distinct selon l'option choisie.
+
+A.-Epreuves écrites d'admissibilité
+
+1° Composition en français sur un programme de civilisation portant sur des problématiques communes aux langues de France, relevant de la sociolinguistique et de l'Histoire.
+
+Au titre d'une même session, l'épreuve est commune à chacune des options ouvertes.
+
+Durée : sept heures ; coefficient 1.
+
+2° Composition dans la langue de l'option portant sur le programme de littérature ou de civilisation du concours.
+
+Durée : sept heures ; coefficient 1.
+
+3° Traduction : thème et version dans la langue de l'option assortis de l'explication en français de choix de traduction portant sur des segments préalablement identifiés par le jury dans l'un ou l'autre des textes ou dans les deux textes.
+
+Durée : cinq heures ; coefficient 1.
+
+B.-Epreuves d'admission
+
+1° Exposé en français de la préparation d'un cours suivi d'un entretien en français (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : quarante minutes maximum ; entretien : vingt minutes maximum] ; coefficient 2).
+
+L'épreuve prend appui sur un dossier composé d'un ou de plusieurs documents dans la langue de l'option (tels que textes, documents audiovisuels, iconographiques ou sonores) fourni au candidat.
+
+2° Explication dans la langue de l'option d'un texte ou d'un document iconographique ou audiovisuel extrait du programme, assortie d'un court thème oral improvisé et pouvant comporter l'explication de faits de langue. L'explication est suivie d'un entretien dans la langue de l'option avec le jury (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 2). Une partie de cet entretien peut être consacrée à l'écoute d'un court document authentique dans la langue de l'option, d'une durée de trois minutes maximum, dont le candidat doit rendre compte dans la même langue et qui donne lieu à une discussion dans cette langue avec le jury.
+
+A l'exception du programme de la première épreuve d'admissibilité qui est commun aux options ouvertes au titre d'une même session, le programme des autres épreuves d'admissibilité et d'admission est spécifique à chaque option. Ces programmes font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
 Section mathématiques
 
 A. - Epreuves écrites d'admissibilité
@@ -286,43 +318,79 @@ Section musique
 
 A. - Epreuves d'admissibilité
 
-1° Epreuve en deux parties :
+1° Epreuve de culture musicale et artistique.
 
-Commentaire de trois fragments d'œuvres enregistrées d'une durée n'excédant pas quatre minutes chacun.
+Cette épreuve permet d'apprécier les capacités du candidat à mobiliser ses connaissances sur la musique, les arts, les idées et les sociétés et à les mettre en lien avec les problématiques qui structurent l'enseignement de la musique au lycée.
 
-Seul le dernier des fragments peut être identifié par le sujet distribué au début de l'épreuve. Dans ce cas, le candidat dispose de brèves indications sur son auteur et sur les principales caractéristiques du langage musical utilisé.
+Un programme limitatif est publié sur le site internet du ministère de l'éducation nationale. Il précise un champ de questionnement étudié à travers des périodes historiques et des modes d'expression musicale différents.
 
-Il est procédé pour chaque fragment à trois écoutes successives séparées par un intervalle de trois minutes. Au terme de la troisième écoute de chacun deux premiers fragments, le candidat dispose de vingt minutes pour rédiger son commentaire. Au terme de la dernière écoute du dernier fragment, cette durée de vingt minutes est augmentée dans la limite de l'horaire global imparti à l'épreuve, permettant ainsi au candidat d'affiner son commentaire.
+Le sujet engage le candidat à formaliser sa réflexion en croisant la question au programme du concours avec une ou plusieurs problématiques qui structurent les enseignements musicaux au lycée et qui sont précisées par le sujet. Il est également invité à s'appuyer sur d'autres références musicales et artistiques pour nourrir et illustrer sa réflexion.
 
-Le candidat peut donner à son commentaire l'orientation de son choix pour chaque fragment non identifié. En revanche, lorsque le dernier des trois fragments est identifié, le candidat doit développer son commentaire en proposant une démarche pédagogique visant la connaissance par des élèves de collège et lycée de l'extrait entendu.
+Durée : six heures : coefficient 3.
 
-Le candidat est autorisé à prendre des notes pendant l'audition (durée : deux heures) ;
+2° Epreuve d'arrangement.
 
-Dissertation. Cette partie de l'épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des autres arts, des idées et des civilisations (durée : quatre heures).
+La partition d'une pièce vocale est distribuée avec le sujet. Elle est le support de la construction d'un projet musical dans une classe de lycée. Le sujet précise les ressources disponibles dans la classe concernée par ce projet musical.
 
-Un programme est publié sur le site internet du ministère chargé de l'éducation nationale. Il porte sur une notion ou composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
+Le candidat réalise un arrangement vocal et instrumental de la partition proposée par le sujet. Il tire parti des ressources instrumentales disponibles dans la classe en veillant à privilégier une écriture rendant possible l'interprétation de la pièce par les élèves ; il veille par ailleurs à arranger la partition pour permettre :
 
-Chaque partie de l'épreuve entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
+-à tous les élèves de développer leurs compétences à chanter en polyphonie ;
 
-2° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ seize mesures.
+-aux élèves non instrumentistes de tenir une partie harmonique ou rythmique sur tout ou partie de l'arrangement.
 
-Un programme limitatif renouvelé périodiquement est publié sur le site internet du ministère chargé de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+Le candidat rédige une brève note d'intention précisant notamment :
 
-Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
+-les choix artistiques sur lesquels repose l'arrangement effectué ;
+
+-les difficultés techniques des parties vocales et instrumentales qui nécessiteront un travail pédagogique particulier.
+
+L'arrangement est réalisé sur la partition préparée jointe au sujet.
+
+Durée : quatre heures et trente minutes ; coefficient 3.
+
+3° Epreuve de commentaire.
+
+L'épreuve comporte deux parties :
+
+-première partie : commentaire comparé de plusieurs brefs extraits enregistrés non identifiés et diffusés successivement à plusieurs reprises ;
+
+-seconde partie : commentaire d'un fragment d'œuvre enregistré et identifié, diffusé à plusieurs reprises. Le candidat en réalise un rapide commentaire, identifie en les justifiant des objectifs de formation au lycée qui peuvent être nourris par l'écoute de ce fragment et présente brièvement une ou plusieurs situations pédagogiques permettant de travailler les objectifs précédemment identifiés.
+
+Pour chacune des parties, le plan de diffusion est précisé par le sujet.
+
+Durée : trois heures et trente minutes ; chacune des parties ne peut excéder deux heures dans la limite de la durée totale impartie à l'épreuve ; coefficient 3.
 
 B. - Epreuves d'admission
 
-1° Leçon devant un jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de plusieurs documents identifiés de nature diverse, dont une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia. Le nombre total de documents ne peut être supérieur à cinq.
+1° Leçon.
 
-Le candidat expose et développe une problématique de son choix à partir des documents proposés. L'exposé est suivi d'un entretien avec le jury.
+L'épreuve comporte un exposé suivie d'un entretien avec le jury.
 
-Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés. Durant l'épreuve, le candidat dispose d'un appareil de diffusion et d'un piano (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes] ; coefficient 2).
+L'exposé comporte deux parties. La première repose sur l'analyse et la mise en relation de plusieurs documents identifiés et de natures diverses présentés par le sujet. La seconde identifie les connaissances et compétences qui, dans une classe de lycée, pourraient être portées par l'étude de ces documents.
 
-2° Direction de chœur :
+Le candidat est engagé à mobiliser largement ses connaissances sur la musique et les autres arts pour enrichir de références complémentaires chacune des parties de son exposé.
 
-Un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire interpréter intégralement ou en partie par un ensemble vocal.
+Le nombre total de documents ne peut être supérieur à cinq dont au moins une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia.
 
-Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 3).
+Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés. Durant l'épreuve, le candidat dispose d'un appareil de diffusion audio, d'un piano et du même matériel que durant la préparation.
+
+Durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes (première partie de l'exposé : vingt minutes au moins ; seconde partie de l'exposé : dix minutes au plus ; entretien : vingt minutes) ; coefficient 5.
+
+2° Direction de chœur.
+
+L'épreuve comporte l'apprentissage et l'interprétation par un chœur d'un texte polyphonique puis un entretien avec le jury.
+
+Un texte polyphonique à deux ou trois voix est proposé au candidat. Après une préparation, le candidat dispose de vingt minutes pour le faire interpréter au chœur mis à sa disposition.
+
+Le chœur ne dispose pas de la partition.
+
+Aux moments qu'il juge opportun, le candidat veille à accompagner l'interprétation du chœur à l'aide du piano mis à sa disposition ou à l'aide de l'instrument polyphonique qu'il aura apporté.
+
+L'entretien permet au jury d'interroger le candidat sur les aspects techniques, artistiques et pédagogiques du moment précédent.
+
+Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve.
+
+Durée de la préparation : une heure ; durée de l'épreuve : trente minutes (vingt minutes pour la première partie ; dix minutes pour l'entretien) ; coefficient 5.
 
 Section arts
 
@@ -340,29 +408,73 @@ Option A : arts plastiques
 
 A. - Epreuves d'admissibilité
 
-1° Epreuve de pédagogie des arts plastiques : épreuve écrite accompagnée de schémas et de croquis explicatifs. A partir d'une proposition pouvant comporter des documents, le candidat conduit une étude de cas et conçoit une séquence pédagogique destinée à des élèves du second cycle. Il en prévoit le dispositif et le développement ainsi qu'une évaluation et les prolongements éventuels (durée : six heures ; coefficient 1).
+1° Epreuve de pédagogie des arts plastiques.
 
-2° Epreuve de culture artistique : épreuve écrite accompagnée de schémas et de croquis explicatifs. A partir d'un dossier de documents visuels, le candidat répond à plusieurs questions portant sur des créateurs, des créations, des manifestations, des problématiques ou des techniques spécifiquement liées aux arts plastiques ainsi que sur des connaissances d'ordre historique et culturel (durée : cinq heures ; coefficient 1).
+L'épreuve prend appui sur un sujet à consignes précises assorti d'un ou plusieurs extraits des programmes du lycée. Le sujet peut comporter des documents iconiques et textuels.
 
-Cette épreuve s'inscrit dans le cadre d'un programme limitatif publié tous les trois ans.
+Le candidat conçoit, selon les consignes du sujet, une séquence d'enseignement destinée à des élèves du second cycle. Il prévoit le dispositif, le développement, l'évaluation de son projet d'enseignement, ainsi que les prolongements éventuels. A partir d'indications portées dans le sujet, il inclut également une étude de cas pouvant porter sur des dimensions spécifiques de la discipline (composante particulière du programme, compétence donnée, modalité pédagogique …).
+
+Durée : six heures ; coefficient 1.
+
+2° Epreuve de culture plastique et artistique.
+
+L'épreuve a pour but d'évaluer des compétences attendues d'un professeur d'arts plastiques pour la mise en œuvre des composantes culturelles et théoriques de la discipline : mobiliser la culture artistique et les savoirs plasticiens au service de la découverte, l'appréhension et la compréhension par les élèves des faits artistiques (œuvres, démarches, processus …), situer et mettre en relation des œuvres de différentes natures (genre, styles, moyens …) issues de périodes, aires culturelles, zones géographiques diverses, analyser et expliciter l'évolution des pratiques dans le champ des arts plastiques et dans ses liens avec des domaines très proches (photographie, architecture, design, arts numériques …) ou d'autres arts avec lesquels il dialogue.
+
+L'épreuve prend appui sur un sujet à consignes et une sélection de documents iconiques et textuels. Tirant parti de l'analyse de cet ensemble, le candidat développe et argumente une réflexion disciplinaire sur l'évolution des pratiques artistiques.
+
+Le programme de l'épreuve porte sur les problématiques, questions, questionnements plastiques et artistiques induits par les programmes d'arts plastiques du lycée. Six questionnements plus spécialisés issus de ces programmes orientent la réflexion à conduire ; ils sont publiés sur le site internet du ministère chargé de l'éducation nationale et sont périodiquement renouvelés.
+
+Durée : cinq heures ; coefficient 1.
 
 B. - Epreuves d'admission
 
-1° Epreuve de pratique et création plastiques : réalisation bi ou tridimensionnelle à partir d'une programmation précise fixée par le jury.
+1° Epreuve de pratique et création plastiques : réalisation d'un projet de type artistique.
 
-Cette épreuve a pour but de tester l'aptitude du candidat à fournir une réponse pertinente et personnelle à une question posée, à faire la démonstration de ses capacités d'invention et de création, à témoigner de ses savoir-faire en matière d'expression et de communication artistiques.
+L'épreuve se compose d'une pratique plastique à visée artistique, d'un exposé et d'un entretien.
+
+Elle permet d'apprécier la maîtrise d'un geste professionnel majeur de la part d'un professeur d'arts plastiques, fondé sur ses compétences et engagements artistiques : la conception, les modalités de réalisation et l'explicitation d'un projet de type artistique.
 
 Déroulement de l'épreuve :
 
-a) Réalisation : huit heures ;
+a) Projet et réalisation
 
-b) Présentation de son travail par le candidat et discussion avec le jury : trente minutes.
+A partir d'un sujet à consignes précises et pouvant s'accompagner de documents annexes, le candidat élabore et réalise un projet à visée artistique au moyen d'une pratique plastique. Il peut choisir entre différents modes d'expression, en deux ou en trois dimensions, avec des moyens traditionnels, actualisés ou numériques, ou croisant ces diverses possibilités. La réalisation de ce projet peut-être une production achevée ou, pour des projets de plus grande ampleur (par exemple in situ, interventions dans l'espace architectural ou le paysage, démarches incluant la performance …), une présentation visuelle soutenue par des moyens plastiques (esquisses, maquettes, images …). Cette partie de l'épreuve s'inscrit dans les contraintes matérielles du sujet et du lieu dans lequel elle se déroule. Les moyens de production (outils, matériels, matériaux, supports) sont à la charge du candidat.
+
+b) Exposé et entretien.
+
+En prenant appui sur la production achevée ou la présentation visuelle qu'il a produite, le candidat présente et explicite son projet (démarche et réalisation). Cet exposé est suivi d'un entretien avec le jury qui permet d'évaluer les capacités du candidat à soutenir la communication de son projet artistique, à savoir l'expliciter et à en permettre la compréhension.
+
+Durée de l'épreuve :
+
+-élaboration du projet et réalisation : huit heures ;
+
+-exposé (présentation par le candidat de son travail) : dix minutes ; entretien avec le jury : vingt minutes.
 
 Coefficient 2.
 
-2° Epreuve professionnelle orale : leçon à l'intention d'élèves du second cycle prenant en compte le volet artistique et culturel d'un projet d'établissement ainsi que le partenariat avec les institutions et professionnels des domaines artistiques et culturels.
+2° Epreuve professionnelle orale.
 
-Cette leçon, suivie d'un entretien avec le jury, peut faire appel à la présentation d'une expérience pédagogique vécue par le candidat (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 2).
+L'épreuve se compose d'un exposé du candidat suivi d'un entretien avec le jury.
+
+Le projet d'enseignement proposé est conçu à l'intention d'élèves du second cycle.
+
+L'épreuve prend appui sur un dossier présenté sous forme de documents écrits, photographiques et/ ou audiovisuels et sur un extrait des programmes du lycée.
+
+Le dossier comprend également un document permettant de poser une question portant sur les dimensions partenariales de l'enseignement, internes et externes à l'établissement scolaire, disciplinaires ou non disciplinaires, et pouvant être en lien avec l'éducation artistique et culturelle.
+
+Le projet d'enseignement et la dimension partenariale peuvent faire appel à la présentation d'une expérience pédagogique vécue par le candidat.
+
+L'exposé du candidat, au cours duquel il est conduit à justifier ses choix didactiques et pédagogiques, est conduit en deux temps immédiatement successifs :
+
+a) Projet d'enseignement (trente minutes maximum) : leçon conçue à l'intention d'élèves du second cycle. Le candidat expose et développe une séquence d'enseignement de son choix en s'appuyant sur le dossier documentaire et l'extrait de programme proposés.
+
+b) Dimensions partenariales de l'enseignement (dix minutes maximum) : le candidat répond à une question à partir d'un document inclus dans le dossier remis au début de l'épreuve, portant sur les dimensions partenariales de l'enseignement.
+
+Le projet d'enseignement peut faire appel à la présentation d'une expérience pédagogique vécue par le candidat
+
+L'exposé est suivi d'un entretien avec le jury (quarante minutes maximum).
+
+Durée de la préparation : quatre heures trente ; durée de l'épreuve : une heure et vingt minutes (exposé : quarante minutes ; entretien : quarante minutes) ; coefficient 2).
 
 Option B : arts appliqués
 
