@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170124740
+
+- Question : [SEQ170124740](seq170124740.md) — Obligation de formation continue s'imposant aux arboriculteurs conducteurs de véhicules poids lourds
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2017-05-04, page 1608*
+
+Les obligations de formation pour les conducteurs routiers de véhicules lourds découlent de la directive n° 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs. Cette directive a été d'abord transposée en droit français par le point 4 de l'article 1er de l'ordonnance n° 58-1310 du 23 décembre 1958 modifiée et par le décret n° 2007-1340 du 11 septembre 2007 modifié. Ces deux textes sont désormais codifiés dans la partie réglementaire du code des transports. Ces obligations de formation s'appliquent à tous les conducteurs qui effectuent sur des routes ouvertes au public des transports de voyageurs ou de marchandises au moyen de véhicules poids lourds requérant la détention de permis de catégories C1, C1E, C, CE, D1, D ou DE, quels que soient les secteurs d'activité. La directive n° 2003/59/CE précitée prévoit sept cas d'exemptions à ces obligations, repris à l'article R. 3314-15 du code des transports, mais aucune ne concerne le secteur de l'arboriculture. Cependant, cette directive fait actuellement l'objet d'une procédure de révision. Le projet de directive modificative, prévoit d'étendre le champ des exemptions aux transports assurés dans le cadre d'activités agricoles. La France est favorable à cette proposition qui va dans le sens d'une plus grande cohérence entre les exemptions prévues par le règlement n° 561/2006/CE du 15 mars 2006 sur les obligations en matière de temps de conduite et de pauses et repos des conducteurs routiers et celles prévues par la directive n° 2003/59/CE.
