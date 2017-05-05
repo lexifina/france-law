@@ -6,7 +6,7 @@ Une bande de guidage tactile au sol est un repère visuel et tactile continu. El
 
 Une bande de guidage tactile au sol présente les caractéristiques suivantes :
 
-- elle est constituée de nervures en relief positif détectables à la canne et permettant le guidage ;
+- elle est constituée de nervures en relief positif détectables à la canne blanche et permettant le guidage ;
 
 - elle présente une largeur permettant sa détectabilité et son repérage ;
 

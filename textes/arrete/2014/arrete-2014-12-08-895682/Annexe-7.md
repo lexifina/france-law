@@ -10,7 +10,7 @@ Une bande d'éveil à la vigilance présente les caractéristiques suivantes :
 
 - elle est constituée de plots régulièrement espacés ;
 
-- sa largeur est suffisante pour être détectée à la canne et pour ne pas être enjambée par le piéton ;
+- sa largeur est suffisante pour être détectée à la canne blanche et pour ne pas être enjambée par le piéton ;
 
 - elle est visuellement contrastée par rapport à son environnement immédiat ;
 
