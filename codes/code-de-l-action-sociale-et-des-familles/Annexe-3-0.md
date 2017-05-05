@@ -242,7 +242,7 @@ Le gestionnaire ou son représentant doit remplir les conditions de qualificatio
 
 5.4.2. La personne morale comportant le cas échéant plusieurs établissements adhère à la charte nationale qualité des services à la personne.
 
-5.4.3. Le gestionnaire procède au moins une fois par an à des contrôles internes portant sur l'application du cahier des charges national. Ces contrôles couvrent notamment la mise en œuvre de la charte nationale qualité.
+5.4.3. Par dérogation au point 5.4.2, l'adhésion à la charte nationale qualité est acquise lorsque les établissements ont fait procéder à une certification volontaire par des organismes mentionnés à l'article L. 433-4 du code de la consommation. Cette certification doit être fondée sur un référentiel ayant fait l'objet d'un arrêté de reconnaissance d'équivalence avec les annexes 3-0 et 3-10 du code de l'action sociale et des familles.
 
 5.4.4. Le gestionnaire fait procéder au moins une fois par an à une enquête auprès des personnes accompagnées sur leur perception de la qualité des interventions.
 
