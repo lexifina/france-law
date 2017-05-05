@@ -20,14 +20,6 @@ Arrêté du 5 mai 1995 portant création d'un Conseil national des villes et pay
 
 |
 
-Commission d'arbitrage relative à la perception de la taxe fiscale sur les spectacles
-
-|
-
-Décret n° 2004-117 du 4 février 2004 pris en application des articles 76 et 77 de la loi de finances rectificative pour 2003 définissant les catégories de spectacles et déterminant, pour l'Association pour le soutien du théâtre privé, les types d'aide et leurs critères d'attribution
-
-|
-
 Commission de classification des œuvres cinématographiques
 
 |
