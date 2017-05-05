@@ -2,7 +2,7 @@
 
 I. – Les communes membres d'un établissement public de coopération intercommunale soumis à l'article 1609 nonies C votent le taux des taxes foncières et de la taxe d'habitation, conformément aux dispositions applicables aux communes.
 
-Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui devient soumis aux dispositions de l'article 1609 nonies C et pour celles qui, membres d'un établissement public de coopération intercommunale à fiscalité additionnelle, intègrent un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C dans le cadre du dispositif prévu à l'article 60 de la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, et pour la première année d'application de ces dispositions, le dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsque le taux de taxe foncière sur les propriétés non bâties ou le taux de la taxe d'habitation, voté l'année précédente par les communes, est inférieur de plus d'un tiers au taux moyen constaté la même année au niveau national dans l'ensemble des collectivités territoriales de même nature au titre de l'une ou l'autre de ces taxes.
+Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui devient soumis aux dispositions de l'article 1609 nonies C et pour la première année d'application de ces dispositions, le dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsque le taux de taxe foncière sur les propriétés non bâties ou le taux de la taxe d'habitation, voté l'année précédente par les communes, est inférieur de plus d'un tiers au taux moyen constaté la même année au niveau national dans l'ensemble des collectivités territoriales de même nature au titre de l'une ou l'autre de ces taxes.
 
 II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
 
@@ -48,6 +48,6 @@ VII. – Pour l'application du II à la métropole du Grand Paris :
 
 NOTA :
 
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à compter des impositions dues au titre de 2015.
+Au second alinéa du I, les mots : et pour celles qui, membres d'un établissement public de coopération intercommunale à fiscalité additionnelle, intègrent un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C dans le cadre du dispositif prévu à l'article 60 de la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, deviennent sans objet.
 
-Pour l'application de ces dispositions à la métropole de Lyon en 2015, il convient de se référer à l'article 39 de l'ordonnance n° 2014-1335 du 6 novembre 2014 relative à l'adaptation et à l'entrée en vigueur de certaines dispositions du code général des collectivités territoriales, du code général des impôts et d'autres dispositions législatives applicables à la métropole de Lyon.
+Modifications effectuées en conséquence de l’article 35-VI de la loi n° 2015-991 du 7 août 215.

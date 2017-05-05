@@ -6,7 +6,7 @@ Il s'entend de l'excédent de ces plus-values sur les moins-values de même natu
 
 Ces dispositions ne sont pas applicables aux plus-values nettes à court terme réalisées par les entreprises soumises à l'impôt sur les sociétés au cours des exercices ouverts à compter du 1er janvier 1987.
 
-1 bis Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu aux articles 1465 et 1466 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure au dixième de ce montant.
+1 bis Par dérogation aux dispositions du 1, la réintégration aux bénéfices imposables du montant net des plus-values à court terme réalisées à l'occasion d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu à l'article 1465 peut être étalée sur dix ans, sans que la somme rattachée aux bénéfices de chaque année puisse être inférieure au dixième de ce montant.
 
 1 ter Par dérogation aux dispositions du 1, la plus-value nette à court terme afférente à des biens amortissables, réalisée à la suite de la perception d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie, par fractions égales, sur plusieurs exercices à compter de celui suivant la réalisation de la plus-value.
 
@@ -39,3 +39,7 @@ Sous réserve des dispositions du troisième alinéa du 1, les dispositions du p
 2 bis. La moins-value résultant de la cession, moins de deux ans après leur émission, de titres de participation acquis en contrepartie d'un apport réalisé et dont la valeur réelle à la date de leur émission est inférieure à leur valeur d'inscription en comptabilité n'est pas déductible, dans la limite du montant résultant de la différence entre la valeur d'inscription en comptabilité desdits titres et leur valeur réelle à la date de leur émission.
 
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours d'un exercice est déduit des bénéfices de cet exercice.
+
+NOTA :
+
+Modifications effectuées en conséquence de l’article 44-I et V-3° de la loi n° 2015-991 du 7 août 2015.

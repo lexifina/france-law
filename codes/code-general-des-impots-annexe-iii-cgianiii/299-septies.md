@@ -1,6 +1,6 @@
 # Article 299 septies
 
-I.-1. Lorsqu'un contribuable souscrit au capital d'une société dans les conditions prévues aux 1 et 1 bis ou au 2 du I de l'article 885-0 V bis du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne :
+I. – 1. Lorsqu'un contribuable souscrit au capital d'une société dans les conditions prévues aux 1 et 1 bis ou au 2 du I de l'article 885-0 V bis du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne :
 
 a. L'objet pour lequel il est établi : application de l'article 885-0 V bis du code précité ;
 
@@ -12,7 +12,7 @@ d. Le nombre des titres souscrits, le montant et la date de leur souscription ;
 
 e. La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de capital.
 
-Cet état doit préciser, pour chacune des conditions mentionnées au 1 bis du I de l'article 885-0 V bis du code précité si elles sont ou non satisfaites.
+Cet état doit préciser, pour chacune des conditions mentionnées au 1 bis du I de l'article 885-0 V bis du code général des impôts si elles sont ou non satisfaites.
 
 2. Les dispositions du 1 s'appliquent également en cas de souscription au capital d'une société mentionnée au premier alinéa du 3 du I de l'article 885-0 V bis du code précité et dont les titres ne sont pas admis aux négociations sur un marché d'instruments financiers français ou étranger.
 
@@ -26,13 +26,13 @@ c. La date et le montant des versements effectués au titre de la souscription a
 
 d. Le détail de la fraction mentionnée au deuxième alinéa du f du 3 du I de l'article 885-0 V bis du code précité.
 
-3. Afin de permettre au contribuable de bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au 1, au 2 et au 3 du I de l'article 885-0 V bis du code précité, la société au capital de laquelle il a souscrit et dont les titres sont admis, dans les conditions prévues au g du 1 bis du I de l'article 885-0 V bis du code précité, sur un système multilatéral de négociation s'engage, dans le prospectus prévu par la directive 2003/71/ CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon le cas, aux conditions prévues au 1 bis, au 2 ou au 3 du I de l'article 885-0 V bis du code précité. A défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1.
+3. Afin de permettre au contribuable de bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au 1, au 2 et au 3 du I de l'article 885-0 V bis du code précité, la société au capital de laquelle il a souscrit et dont les titres sont admis, dans les conditions prévues au g du 1 bis du I de l'article 885-0 V bis du code précité, sur un système multilatéral de négociation s'engage, dans le prospectus prévu par la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon le cas, aux conditions prévues au 1 bis, au 2 ou au 3 du I de l'article 885-0 V bis du code précité. A défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1.
 
 4. Lorsqu'un contribuable souscrit au capital d'une société satisfaisant aux conditions prévues au premier alinéa du 3 du I de l'article 885-0 V bis du code précité et dont les titres sont admis sur un système multilatéral de négociation mentionné au 3, il informe la société afin qu'elle lui délivre un état individuel.
 
 La société indique sur cet état, pour chacun des versements effectués au titre de ses souscriptions au capital de sociétés satisfaisant aux conditions prévues au 1 bis du I de l'article 885-0 V bis précité et correspondant aux capitaux qu'elle a reçus, au titre de la constitution de son capital initial ou de l'augmentation de son capital auquel le contribuable a souscrit, les mentions prévues au 2.
 
-II.-1. En cas de souscription au capital d'une société dont les titres ne sont pas admis sur un système multilatéral de négociation mentionné au 3 du I, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, l'état individuel qui lui est remis conformément au I.
+II. – 1. En cas de souscription au capital d'une société dont les titres ne sont pas admis sur un système multilatéral de négociation mentionné au 3 du I, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, l'état individuel qui lui est remis conformément au I.
 
 2. En cas de souscription au capital d'une société dont les titres sont admis sur un système multilatéral de négociation mentionné au 3 du I, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, les documents suivants :
 
@@ -46,7 +46,7 @@ Le contribuable précise par ailleurs le nombre de titres mentionnés sur l'avis
 
 Le contribuable justifie de l'éligibilité de son investissement à la réduction d'impôt de solidarité sur la fortune par la production, sur demande de l'administration fiscale, du prospectus prévu au 3 du I.
 
-III.-1. Le contribuable produit à l'administration fiscale, sur sa demande, tout document de nature à justifier :
+III. – 1. Le contribuable produit à l'administration fiscale, sur sa demande, tout document de nature à justifier :
 
 a. De la durée de détention des titres dont la souscription par celui-ci a ouvert droit à la réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité ;
 
@@ -65,3 +65,7 @@ Le contribuable joint également à sa déclaration d'impôt de solidarité sur 
 Lorsque le remploi intervient après la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune devant être souscrite au titre de l'année suivant la cession, l'attestation de la société est jointe à la déclaration d'impôt de solidarité sur la fortune devant être souscrite au titre de l'année suivant ce remploi.
 
 Le contribuable produit à l'administration fiscale, sur sa demande, tout document de nature à justifier de la durée de détention des titres souscrits en remploi du prix de cession des titres dont la souscription avait ouvert droit à la réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité.
+
+NOTA :
+
+Conformément à l’article 3 du décret n° 2018-404 du 29 mai 2018 : Pour l'application du C du IX de l'article 31 de la loi du 30 décembre 2017 susvisée, les articles 299-0 septies à 299 duodecies de l'annexe III au code général des impôts, dans leur rédaction applicable jusqu'à l'entrée en vigueur du présent décret, demeurent applicables aux dons et versements ouvrant droit aux avantages fiscaux prévus aux articles 885-0 V bis, 885-0 V bis A et 885-0 V bis B du code général des impôts, dans leur rédaction en vigueur au 31 décembre 2017, effectués jusqu'au 31 décembre 2017.

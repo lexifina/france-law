@@ -1,108 +1,64 @@
 # Article 1599 quater A
 
-I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique au matériel roulant utilisé sur le réseau ferré national pour des opérations de transport de voyageurs.
+I. – L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique au matériel roulant utilisé sur le réseau ferré national pour des opérations de transport de voyageurs.
 
-II. - L'imposition forfaitaire est due chaque année par l'entreprise de transport ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année précédente sur le réseau ferré national pour des opérations de transport de voyageurs.
+II. – L'imposition forfaitaire est due chaque année par l'entreprise de transport ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année précédente sur le réseau ferré national pour des opérations de transport de voyageurs.
 
-III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
+III. – Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
 
-CATÉGORIE DE MATÉRIELS ROULANTS
-
-|
+CATÉGORIE DE MATÉRIELS ROULANTS |
 
 TARIFS
 
-(en euros)
+(en euros) |
+
+Engins à moteur thermique |
 
 |
 
-Engins à moteur thermique
+Automoteur |
+
+31 764 |
+
+Locomotive diesel |
+
+31 764 |
+
+Engins à moteur électrique |
 
 |
 
-|
+Automotrice |
 
-Automoteur
+24 352 |
 
-|
+Locomotive électrique |
 
-31 512
+21 177 |
 
-|
+Motrice de matériel à grande vitesse |
 
-Locomotive Diesel
+37 059 |
 
-|
+Automotrice tram-train |
 
-31 512
+12 177 |
 
-|
-
-Engins à moteur électrique
+Engins remorqués |
 
 |
 
-|
+Remorque pour le transport de passagers |
 
-Automotrice
+5 082 |
 
-|
+Remorque pour le transport de passagers à grande vitesse |
 
-24 159
+10 588 |
 
-|
+Remorque tram-train |
 
-Locomotive électrique
-
-|
-
-21 009
-
-|
-
-Motrice de matériel à grande vitesse
-
-|
-
-36 765
-
-|
-
-Automotrice tram-train
-
-|
-
-12 080
-
-|
-
-Engins remorqués
-
-|
-
-|
-
-Remorque pour le transport de passagers
-
-|
-
-5 042
-
-|
-
-Remorque pour le transport de passagers à grande vitesse
-
-|
-
-10 504
-
-|
-
-Remorque tram-train
-
-|
-
-2 521 |
+2 541 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 
@@ -112,13 +68,13 @@ Ne sont pas retenus pour le calcul de l'imposition les matériels roulants desti
 
 Lorsque du matériel roulant est destiné à être utilisé à la fois sur le réseau ferré national et sur les lignes de transport en commun de voyageurs mentionnées aux articles L. 2142-1 et L. 2142-2 du code des transports, ce matériel est retenu pour le calcul de l'imposition s'il est destiné à être utilisé principalement sur le réseau ferré national.
 
-III bis. - Sans préjudice des dispositions du III :
+III bis. – Sans préjudice des dispositions du III :
 
 1° L'imposition forfaitaire n'est pas due par les entreprises de transport ferroviaire qui ont parcouru l'année précédant celle de l'imposition moins de 300 000 kilomètres sur le réseau ferré national pour des opérations de transport de voyageurs ;
 
 2° Pour les entreprises de transport ferroviaire qui ont parcouru l'année précédant celle de l'imposition entre 300 000 et 1 700 000 kilomètres sur le réseau ferré national pour des opérations de transport de voyageurs, le montant de l'imposition forfaitaire est égal au montant mentionné au III multiplié par un coefficient égal à : (nombre de kilomètres parcourus sur le réseau ferré national - 300 000)/1 400 000.
 
-IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie et le nombre de kilomètres parcourus l'année précédant celle de l'imposition sur le réseau ferré national pour des opérations de transport de voyageurs.
+IV. – Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie et le nombre de kilomètres parcourus l'année précédant celle de l'imposition sur le réseau ferré national pour des opérations de transport de voyageurs.
 
 La déclaration précise les matériels roulants, par catégorie, utilisés dans le cadre de services de voyageurs commandés par les autorités régionales.
 

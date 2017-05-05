@@ -2,7 +2,7 @@
 
 I.-L'engagement de conservation des titres prévu au premier alinéa du j du 1° du I de l'article 31 du code général des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut ou, si elle est postérieure, de l'année au cours de laquelle les parts ont été acquises.
 
-Pour l'application du dixième alinéa des g et h du 1° du I de l'article 31 du code précité et de l'article 199 septvicies du même code, l'engagement de conservation des titres est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de l'amortissement des dépenses de reconstruction et d'agrandissement, l'engagement de conservation des titres doit être joint à la déclaration des revenus de l'année d'achèvement des travaux.L'engagement de conservation des titres formulé par le conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
+Pour l'application du dixième alinéa du g et du neuvième alinéa du h du 1° du I de l'article 31 du code précité et de l'article 199 septvicies du même code, l'engagement de conservation des titres est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de l'amortissement des dépenses de reconstruction et d'agrandissement, l'engagement de conservation des titres doit être joint à la déclaration des revenus de l'année d'achèvement des travaux.L'engagement de conservation des titres formulé par le conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
 
 L'engagement de conservation des titres prévu au cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut.
 
@@ -12,4 +12,4 @@ III.-Les associés joignent à chacune de leurs déclarations des revenus y comp
 
 NOTA :
 
-Modification effectuée en conséquence de la loi n° 2014-366 du 24 mars 2014, art. 122-IV
+Modification effectuée en conséquence de l'article 46-I-1° b de loi n° 2016-1918 du 29 décembre 2016.

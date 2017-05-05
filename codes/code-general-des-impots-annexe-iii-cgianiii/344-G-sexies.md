@@ -1,6 +1,6 @@
 # Article 344 G sexies
 
-La déclaration mentionnée aux premier et cinquième alinéas de l'article 1649 AB du code général des impôts est déposée au service des impôts des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à l'article 792-0 bis du même code.
+La déclaration mentionnée aux premier et deuxième alinéas de l'article 1649 AB du code général des impôts est déposée au service des impôts des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à l'article 792-0 bis du même code.
 
 Cette déclaration est souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et comporte les indications suivantes :
 
@@ -23,3 +23,7 @@ Cette déclaration est souscrite en langue française sur un imprimé conforme �
 9° Pour chaque bien, droit ou produit transmis, attribué ou sorti du trust mentionné dans la déclaration conformément au 7°, les nom et prénom ou la raison sociale, l'adresse et, le cas échéant, les date et lieu de naissance des personnes auxquelles ce bien, droit ou produit est transmis, attribué ou sorti du trust concerné.
 
 Pour l'application du présent article, on entend par modification du trust tout changement dans ses termes, mode de fonctionnement, constituant, bénéficiaire réputé constituant, bénéficiaire, administrateur, tout décès de l'un d'entre eux, toute nouvelle mise en trust ou toute sortie du trust de biens ou droits, toute transmission ou attribution de biens, droits ou produits du trust et, plus généralement, toute modification de droit ou de fait susceptible d'affecter l'économie ou le fonctionnement du trust concerné.
+
+NOTA :
+
+Modification effectuée en conséquence des articles 1er et 2 de la décision du Conseil constitutionnel n° 2016-591 QPC du 21 octobre 2016 et de l'article 10 de l'ordonnance n° 2016-1635 du 1er décembre 2016.

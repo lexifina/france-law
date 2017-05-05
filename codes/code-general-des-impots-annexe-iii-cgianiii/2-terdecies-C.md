@@ -4,303 +4,171 @@ Pour l'application du l du 1° du I de l'article 31 du code général des impôt
 
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
--a de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements autres que ceux visés au b de ce même article ;
+-a de l'article 2 terdecies B, pour les baux conclus en 2017, s'agissant de logements autres que ceux visés au b de ce même article ;
 
--b de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements visés au b de ce même article.
+-b de l'article 2 terdecies B, pour les baux conclus en 2017, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,55 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,85 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2017, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,55 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,85 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants :
 
 (en euros)
 
-COMPOSITION DU FOYER LOCATAIRE
+COMPOSITION DU FOYER LOCATAIRE |
 
-|
-
-LIEU DE LOCATION
-
-|
+LIEU DE LOCATION |
 
 Zone A
 
-(en €)
-
-|
+(en €) |
 
 Zone B1
 
-(en €)
-
-|
+(en €) |
 
 Zone B2
 
-(en €)
-
-|
+(en €) |
 
 Zone C
 
-(en €)
+(en €) |
 
-|
+Personne seule |
 
-Personne seule
+47 004 |
 
-|
+34 915 |
 
-46 835
+32 005 |
 
-|
+31 789 |
 
-34 790
+Couple |
 
-|
+70 247 |
 
-31 890
+51 272 |
 
-|
+47 000 |
 
-31 675
+42 726 |
 
-|
+Personne seule ou couple ayant une personne à charge |
 
-Couple
+84 441 |
 
-|
+61 379 |
 
-69 995
+56 265 |
 
-|
+51 149 |
 
-51 088
+Personne seule ou couple ayant deux personnes à charge |
 
-|
+101 147 |
 
-46 831
+74 282 |
 
-|
+68 094 |
 
-42 573
+61 903 |
 
-|
+Personne seule ou couple ayant trois personnes à charge |
 
-Personne seule ou couple ayant une personne à charge
+119 741 |
 
-|
+87 185 |
 
-84 138
+79 922 |
 
-|
+72 653 |
 
-61 159
+Personne seule ou couple ayant quatre personnes à charge |
 
-|
+134 738 |
 
-56 063
+98 345 |
 
-|
+90 151 |
 
-50 966
+81 955 |
 
-|
+Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-Personne seule ou couple ayant deux personnes à charge
++ 15 019 |
 
-|
++ 11 171 |
 
-100 784
++ 10 241 |
 
-|
-
-74 016
-
-|
-
-67 850
-
-|
-
-61 681
-
-|
-
-Personne seule ou couple ayant trois personnes à charge
-
-|
-
-119 311
-
-|
-
-86 872
-
-|
-
-79 635
-
-|
-
-72 392
-
-|
-
-Personne seule ou couple ayant quatre personnes à charge ...
-
-|
-
-134 255
-
-|
-
-97 992
-
-|
-
-89 828
-
-|
-
-81 661
-
-|
-
-Majoration par personne à charge supplémentaire à partir de
-
-la cinquième
-
-|
-
-+ 14 965
-
-|
-
-+ 11 131
-
-|
-
-+ 10 204
-
-|
-
-+ 9 276 |
++ 9 309 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus en 2016, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2017, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 (en euros)
 
-COMPOSITION DU FOYER LOCATAIRE
-
-|
+COMPOSITION DU FOYER LOCATAIRE |
 
 DÉPARTEMENTS D'OUTRE-MER,
 
 Saint-Martin, Saint-Barthélémy
 
-(en €)
-
-|
+(en €) |
 
 POLYNÉSIE FRANÇAISE,
 
-Nouvelle-Calédonie,
+Nouvelle-calédonie, Saint-Pierre-et-
 
-Saint-Pierre-et-Miquelon,
+Miquelon, Îles Wallis-et-Futuna
 
-îles Wallis Et Futuna
+(en €) |
 
-(en €)
+Personne seule |
 
-|
+28 435 |
 
-Personne seule
+24 832 |
 
-|
+Couple |
 
-28 399
+37 972 |
 
-|
+45 922 |
 
-24 804
+Personne seule ou couple ayant une personne à charge |
 
-|
+45 664 |
 
-Couple
+48 577 |
 
-|
+Personne seule ou couple ayant deux personnes à charge |
 
-37 925
+55 120 |
 
-|
+51 233 |
 
-45 871
+Personne seule ou couple ayant trois personnes à charge |
 
-|
+64 847 |
 
-Personne seule ou couple ayant une personne à charge
+54 783 |
 
-|
+Personne seule ou couple ayant quatre personnes à charge |
 
-45 607
+73 081 |
 
-|
+58 333 |
 
-48 523
+Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-|
++ 8 156 |
 
-Personne seule ou couple ayant deux personnes à charge
-
-|
-
-55 052
-
-|
-
-51 176
-
-|
-
-Personne seule ou couple ayant trois personnes à charge
-
-|
-
-64 767
-
-|
-
-54 722
-
-|
-
-Personne seule ou couple ayant quatre personnes à charge ...
-
-|
-
-72 990
-
-|
-
-58 268
-
-|
-
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-|
-
-+ 8 145
-
-|
-
-+ 3 723
-
-|
++ 3 728 |
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 

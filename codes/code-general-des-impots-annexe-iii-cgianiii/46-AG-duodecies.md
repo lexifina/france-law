@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2016, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2017, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 170 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
+1° 171 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 211 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 212 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,117 +18,61 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants :
 
 (en euros)
 
-COMPOSITION DU FOYER DU LOCATAIRE
+COMPOSITION DU FOYER DU LOCATAIRE |
 
-|
+PLAFOND ANNUEL DE RESSOURCES
 
-PLAFOND ANNUEL DE RESSOURCES (EN €)
+(en €) |
 
-|
+Départements d'outre-mer, Saint-Barthélemy et Saint-Martin |
 
-Départements d'outre-mer,
+Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres australes et antarctiques françaises et Saint-Pierre-et-Miquelon |
 
-Saint-Barthélemy et Saint-Martin
+Personne seule |
 
-|
+31 824 |
 
-Polynésie française, Nouvelle-Calédonie,
+30 560 |
 
-îles Wallis et Futuna, Terres australes
+Couple |
 
-et antarctiques françaises
+58 855 |
 
-et Saint-Pierre-et-Miquelon
+56 519 |
 
-|
+Personne seule ou couple ayant une personne à charge |
 
-Personne seule
+62 259 |
 
-|
+59 786 |
 
-31 784
+Personne seule ou couple ayant deux personnes à charge |
 
-|
+65 663 |
 
-30 526
+63 057 |
 
-|
+Personne seule ou couple ayant trois personnes à charge |
 
-Couple
+70 211 |
 
-|
+67 424 |
 
-58 782
+Personne seule ou couple ayant quatre personnes à charge |
 
-|
+74 761 |
 
-56 456
+71 790 |
 
-|
+Majoration par personne à charge à partir de la cinquième |
 
-Personne seule ou couple ayant une personne à charge
++4 778 |
 
-|
-
-62 182
-
-|
-
-59 720
-
-|
-
-Personne seule ou couple ayant deux personnes à charge
-
-|
-
-65 582
-
-|
-
-62 987
-
-|
-
-Personne seule ou couple ayant trois personnes à charge
-
-|
-
-70 124
-
-|
-
-67 349
-
-|
-
-Personne seule ou couple ayant quatre personnes à charge
-
-|
-
-74 668
-
-|
-
-71 711
-
-|
-
-Majoration par personne à charge à partir de la cinquième
-
-|
-
-+ 4 772
-
-|
-
-+ 4 582
-
-|
++4 588 |
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 
