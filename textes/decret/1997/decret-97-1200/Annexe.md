@@ -889,3 +889,17 @@ Décision d’octroi du label "centre culturel de rencontre".
 Article 2.
 
 |
+
+Article R. 759-9 du code de l’éducation
+
+1
+
+|
+
+Arrêté agréant les établissements qui assurent une préparation à l’entrée dans les établissements supérieurs de la création artistique dans les domaines du spectacle vivant et des arts plastiques.
+
+|
+
+ArticlesR.759-9 et R. 759-10.
+
+|
