@@ -556,6 +556,14 @@ Les visites ont lieu aux jours et heures fixés par le chef d'établissement en 
 
 Ces derniers peuvent correspondre librement avec les personnes détenues dont ils s'occupent, sous pli ouvert et sans autorisation préalable.
 
+Article 33-1
+
+Conformément à l'article 727-1, aux fins de prévenir les évasions et d'assurer la sécurité et le bon ordre des établissements pénitentiaires ou des établissements de santé destinés à recevoir des personnes détenues, les agents individuellement désignés et habilités appartenant à l'administration pénitentiaire peuvent être autorisés à procéder à la mise en œuvre des techniques de recueil de renseignement lors de l'utilisation de matériels de communication électroniques ou de moyens informatiques par les détenus, en vue d'assurer le bon ordre et notamment d'en prévenir les usages illicites visées dans les conditions prévues aux articles R. 57-8-24 et suivants.
+
+Dans les conditions prévues à l'article R. 57-8-29, les détenus sont informés de la possibilité de la mise en œuvre de ces techniques sur les terminaux et systèmes dont l'utilisation est autorisée.
+
+Par une notification remise contre signature les informant également des voies de recours, les détenus sont informés de la possibilité de la mise en œuvre des mêmes techniques sur des matériels et moyens dont la détention est illicite ainsi que de leur destruction, à l'issue d'une durée de quatre-vingt-dix jours, sauf si l'exploitation de ces données conduit à l'ouverture d'une procédure judiciaire au dossier de laquelle ils sont alors versés.
+
 Chapitre VIII
 
 Les requêtes et plaintes formulées
