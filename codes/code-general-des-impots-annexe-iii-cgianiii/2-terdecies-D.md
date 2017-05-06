@@ -1,8 +1,8 @@
 # Article 2 terdecies D
 
-I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
+I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2016, à 16,83 € en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2017, à 16,83 € en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,15 +14,15 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2016, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2017, les plafonds annuels de ressources des locataires sont les suivants :
 
-COMPOSITION DU FOYER LOCATAIRE
+COMPOSITION
 
-|
-
-LIEU DE SITUATION DU LOGEMENT
+DU FOYER LOCATAIRE
 
 |
+
+LIEU DE SITUATION DU LOGEMENT |
 
 Zone A bis
 
@@ -30,9 +30,7 @@ Zone A bis
 
 |
 
-Reste
-
-de la zone A
+Reste de la zone A
 
 (en euros)
 
@@ -50,151 +48,119 @@ Zone B 2
 
 |
 
-Personne seule
+Zone C
+
+(en euros)
 
 |
 
-36 993
+Personne seule |
+
+37 126 |
+
+37 126 |
+
+30 260 |
+
+27 234 |
+
+27 234 |
+
+Couple |
+
+55 486 |
+
+55 486 |
+
+40 410 |
+
+36 368 |
+
+36 368 |
+
+Personne seule ou couple
+
+ayant une personne à charge
 
 |
 
-36 993
+72 737 |
+
+66 699 |
+
+48 596 |
+
+43 737 |
+
+43 737 |
+
+Personne seule ou couple
+
+ayant deux personnes à charge
 
 |
 
-30 151
+86 843 |
+
+79 893 |
+
+58 666 |
+
+52 800 |
+
+52 800 |
+
+Personne seule ou couple
+
+ayant trois personnes à charge
 
 |
 
-27 136
+103 326 |
+
+94 579 |
+
+69 014 |
+
+62 113 |
+
+62 113 |
+
+Personne seule ou couple
+
+ayant quatre personnes à charge
 
 |
 
-Couple
+116 268 |
 
-|
+106 431 |
 
-55 287
+77 778 |
 
-|
+70 000 |
 
-55 287
+70 000 |
 
-|
+Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-40 265
++ 12 954 |
 
-|
++ 11 859 |
 
-36 238
++ 8 677 |
 
-|
++ 7 808 |
 
-Personne seule ou couple ayant une personne à charge
-
-|
-
-72 476
-
-|
-
-66 460
-
-|
-
-48 422
-
-|
-
-43 580
-
-|
-
-Personne seule ou couple ayant deux personnes à charge
-
-|
-
-86 531
-
-|
-
-79 606
-
-|
-
-58 456
-
-|
-
-52 611
-
-|
-
-Personne seule ou couple ayant trois personnes à charge
-
-|
-
-102 955
-
-|
-
-94 240
-
-|
-
-68 766
-
-|
-
-61 890
-
-|
-
-Personne seule ou couple ayant quatre personnes à charge
-
-|
-
-115 851
-
-|
-
-106 049
-
-|
-
-77 499
-
-|
-
-69 749
-
-|
-
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-|
-
-+ 12 908
-
-|
-
-+ 11 816
-
-|
-
-+ 8 646
-
-|
-
-+ 7 780 |
++ 7 808 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
 
-II. ― Les zones A, A bis, B 1 et B 2 mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et de l'habitation.
+II. – Les zones A, A bis, B 1, B 2 et C mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et de l'habitation.
 
-III.-Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de loyer mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le parc privé, peuvent être réduits dans les conditions et selon les modalités suivantes :
+III. – Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de loyer mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le parc privé, peuvent être réduits dans les conditions et selon les modalités suivantes :
 
 1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes appartenant à une même zone, compris entre le niveau du loyer pratiqué pour les logements du parc locatif privé et les plafonds de loyer applicables aux logements financés dans les conditions prévues aux articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation. Le niveau du loyer pratiqué dans le parc locatif privé est apprécié par tous moyens, notamment à partir des informations recueillies dans les observatoires et bases de données disponibles ou figurant dans les programmes locaux de l'habitat prévus aux articles L. 302-1 et L. 302-4-1 du même code.
 
