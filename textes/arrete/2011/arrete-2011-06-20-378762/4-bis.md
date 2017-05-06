@@ -12,6 +12,8 @@ Les attributions des commissions administratives paritaires locales sont investi
 
 - disponibilité ;
 
+- refus du bénéfice du télétravail ;
+
 - refus d'autoriser un service à un temps partiel ;
 
 - refus du bénéfice d'un congé pour la formation professionnelle ;
