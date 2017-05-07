@@ -172,7 +172,7 @@ SNORI :
 
 SOCCOMA :
 
-- Le Beuzembec, 50340 Siouville-Hague, 92, rue Lebédier, 50100 Cherbourg : depuis 1985.
+- Le Beuzembec, 50340 Siouville-Hague, 92, rue Lebédier, 50100 Cherbourg : de 1985 à 2001.
 
 Société des chantiers navals français : zone industrielle du canal, 14550 Blainville-sur-Orne. De 1917 à 1954.
 
@@ -638,7 +638,7 @@ Leroux et Lotz Meunier/Meunier Leroux et Lotz/Socomele/Leroux et Lotz Meunier, A
 
 Les Ateliers de Kergroise Rue Emile-Marcesche, 56100 Lorient, puis 18, avenue de Kergroise, 56100 Lorient. Depuis 1967.
 
-L'Helgouac'h, François, 73, Grand-Rue, 29750 Loctudy, de sa création à l'année 1979, puis SOMECO, 73, Grand-Rue, 29750 Loctudy, de 1980 à 1992, puis Terre-plein du Port, 29750 Loctudy, de 1993 à 2007 SOMECO, Terre-plein du Port, 29100 Douarnenez, de 1989 à 2005
+L'Helgouac'h François, 73 Grand-Rue, 29750 LOCTUDY, de sa création à l'année 1979, puis, SOMECO, 73 Grand-Rue, 29750 LOCTUDY, de 1980 à 1992, puis Terre plein du Port, 29750 LOCTUDY, de 1992 à 2007 SOMECO, Terre plein du Port, 29100 DOUARNENEZ, de 1989 à 2005
 
 Lip Sudest, puis Lips France, ZI de Petite-Synthe, 59140 Dunkerque : de 1965 à 1991.
 
