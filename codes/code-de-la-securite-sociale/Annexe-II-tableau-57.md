@@ -66,9 +66,7 @@ ou
 
 Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*). |
 
-1 an (sous réserve d'une durée d'exposition d'un an)
-
-|
+1 an (sous réserve d'une durée d'exposition d'un an) |
 
 Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :
 
@@ -230,39 +228,7 @@ Genou
 
 |
 
-Syndrome de compression du nerf sciatique poplité externe.
-
-|
-
-7 jours
-
-|
-
-Travaux comportant de manière habituelle une position accroupie prolongée.
-
-|
-
-Hygromas :
-
-|
-
-|
-
-|
-
-- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou ;
-
-|
-
-7 jours
-
-|
-
-Travaux comportant de manière habituelle un appui prolongé sur le genou.
-
-|
-
-- hygroma chronique des bourses séreuses.
+Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) au col du péroné (fibula) objectivée par ENMG.
 
 |
 
@@ -270,31 +236,63 @@ Travaux comportant de manière habituelle un appui prolongé sur le genou.
 
 |
 
+Travaux comportant de manière habituelle une position prolongée en flexion forcée du genou, assis sur les talons ou accroupi.
+
+|
+
+Hygroma aigu du genou.
+
+|
+
+7 jours |
+
 Travaux comportant de manière habituelle un appui prolongé sur le genou.
 
 |
 
-Tendinite sous-quadricipitale ou rotulienne.
+Hygroma chronique du genou.
 
 |
 
-7 jours
+90 jours
 
 |
 
-Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+Tendinopathie sous quadricipitale objectivée par échographie
+
+Tendinopathie quadricipitale objectivée par échographie.
 
 |
 
-Tendinite de la patte d'oie.
+14 jours
 
 |
 
-7 jours
+Travaux comportant de manière habituelle des efforts en charge avec contractions répétées du quadriceps lors de la montée ou descente d'escalier, d'escabeau ou d'échelle.
 
 |
 
-Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+Tendinopathie de la patte d'oie objectivée par échographie.
+
+|
+
+14 jours
+
+|
+
+Travaux comportant de manière habituelle des mouvements répétés et rapides du genou en flexion contre résistance.
+
+|
+
+Syndrome de la bandelette ilio-tibiale objectivée par échographie.
+
+|
+
+14 jours
+
+|
+
+Travaux comportant de manière habituelle des mouvements rapides du genou en flexion et extension lors des déplacements du corps.
 
 |
 
@@ -314,14 +312,14 @@ Cheville et pied
 
 |
 
-Tendinite achiléenne.
+Tendinopathie d'Achille objectivée par échographie (*).
+
+(*) L'IRM le cas échéant.
 
 |
 
-7 jours
+14 jours
 
 |
 
-Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.
-
-|
+Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds. |
