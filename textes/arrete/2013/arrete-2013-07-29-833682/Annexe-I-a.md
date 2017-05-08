@@ -44,6 +44,12 @@ Virus de la dermatose nodulaire contagieuse (Poxviridae, Capripoxvirus) |
 
 Bovins |
 
+Diarrhée épidémique porcine hypervirulente |
+
+Infection par le virus de la DEP de génotype non InDel |
+
+Porcins |
+
 Encéphalite à virus Nipah |
 
 Virus Nipah Paramyxoviridés Henipavirus |

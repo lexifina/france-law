@@ -24,11 +24,11 @@ Mycoplasma agalactiae
 
 |
 
-Ovins et caprins
+Ovins et Caprins
 
 |
 
-Aquitaine
+France
 
 |
 
@@ -92,6 +92,16 @@ France |
 
 Préfet |
 
+Diarrhée épidémique porcine moyennement virulente |
+
+Infection par le virus de la DEP de génotype InDel |
+
+Porcins |
+
+France |
+
+Préfet |
+
 Frelon asiatique
 
 |
@@ -107,6 +117,16 @@ Abeilles domestiques (Apis mellifera)
 France |
 
 Préfet |
+
+Gale ovine |
+
+Psoroptes ovis |
+
+Ovins |
+
+France |
+
+|
 
 Hypodermose clinique
 
