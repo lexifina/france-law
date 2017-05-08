@@ -138,7 +138,7 @@ Chef de service, adjoint au directeur des affaires juridiques
 
 |
 
-Chef de service, adjoint au directeur du service national
+Chef de service, adjoint au directeur du service national et de la jeunesse
 
 |
 
@@ -682,7 +682,7 @@ Officier général délégué aux relations extérieures de l'état-major de l'a
 
 |
 
-Officier général "performance et synthèse" de l'état-major de la marine
+Officier général " performance et synthèse " de l'état-major de la marine
 
 |
 

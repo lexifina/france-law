@@ -78,7 +78,7 @@ Directeur des affaires juridiques
 
 |
 
-Directeur de la mémoire, du patrimoine et des archives
+Directeur des patrimoines, de la mémoire et des archives
 
 |
 
@@ -90,7 +90,7 @@ Directeur de la mémoire, du patrimoine et des archives
 
 |
 
-Directeur du service national
+Directeur du service national et de la jeunesse
 
 |
 

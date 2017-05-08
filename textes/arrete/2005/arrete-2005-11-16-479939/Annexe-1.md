@@ -34,7 +34,7 @@ Dans la limite de 5 400 euros.
 
 |
 
-Le directeur des affaires juridiques et le directeur du service national dont dispose le secrétaire général pour l'administration.
+Le directeur des affaires juridiques et le directeur du service national et de la jeunesse dont dispose le secrétaire général pour l'administration.
 
 |
 

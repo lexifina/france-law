@@ -250,7 +250,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
 
 -centre du service national de Nîmes
 
@@ -772,7 +772,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
 
 -centre du service national de Nîmes
 
@@ -1312,7 +1312,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
 
 -centre du service national de Nîmes
 
@@ -1738,7 +1738,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
 
 -centre du service national de Nîmes
 

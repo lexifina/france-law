@@ -1,6 +1,6 @@
 # Article Annexe I
 
-144. - ENVIRONNEMENT ET PROSPECTIVE DE LA POLITIQUE DE DÉFENSE
+144.-ENVIRONNEMENT ET PROSPECTIVE DE LA POLITIQUE DE DÉFENSE
 
 |
 
@@ -12,9 +12,9 @@ Autorités concernées
 
 |
 
-Direction générale des relations internationales et de la stratégie |
+Direction générale des relations internationales et de la stratégieDirecteur |
 
-Directeur de l'institut de la recherche stratégique de l'Ecole militaire
+de l'institut de la recherche stratégique de l'Ecole militaire
 
 |
 
@@ -26,7 +26,7 @@ Chef du service des recherches et technologies de défense et de sécurité
 
 |
 
-146. - ÉQUIPEMENT DES FORCES
+146.-ÉQUIPEMENT DES FORCES
 
 |
 
@@ -62,7 +62,7 @@ Directeur de l'unité de management opérations d'armement terrestres
 
 |
 
-178. - PRÉPARATION ET EMPLOI DES FORCES
+178.-PRÉPARATION ET EMPLOI DES FORCES
 
 |
 
@@ -128,7 +128,7 @@ Directeur du centre d'expertise de soutien général des armées
 
 |
 
-191. - RECHERCHE DUALE (civile et militaire)
+191.-RECHERCHE DUALE (civile et militaire)
 
 |
 
@@ -148,7 +148,7 @@ Chef du service des recherches et technologies de défense et de sécurité
 
 |
 
-212. - SOUTIEN DE LA POLITIQUE DE LA DÉFENSE
+212.-SOUTIEN DE LA POLITIQUE DE LA DÉFENSE
 
 |
 
@@ -168,7 +168,7 @@ Directeur de l'agence de reconversion de la défense
 
 |
 
-Direction de la mémoire, du patrimoine et des archives
+Direction des patrimoines, de la mémoire et des archives
 
 |
 

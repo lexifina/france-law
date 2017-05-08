@@ -1,77 +1,41 @@
 # Article Annexe 2
 
-ORGANISME
+ORGANISME |
 
-|
+PROGRAMME |
 
-PROGRAMME
+Direction générale de la sécurité extérieure |
 
-|
-
-Direction générale de la sécurité extérieure
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
+P. 144, P. 146, P. 178, P. 212 |
 
 Direction du renseignement et de la sécurité de la défense |
 
-P. 144, P. 178, P. 212
+P. 144, P. 178, P. 212 |
 
-|
+Direction du renseignement militaire |
 
-Direction du renseignement militaire
+P. 144, P. 178 |
 
-|
+Direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense |
 
-P. 144, P. 178
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-|
+Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels terrestres |
 
-Direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense
+P. 144, P. 146, P. 178, P. 212 |
 
-|
+Direction centrale du service industriel de l'aéronautique |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+P. 144, P. 902 |
 
-|
-
-Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels terrestres
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
-
-Direction centrale du service industriel de l'aéronautique
-
-|
-
-P. 144, P. 902
-
-|
-
-Direction des affaires financières
-
-|
+Direction des affaires financières |
 
 P. 144, P. 146, P. 167, P. 169, P. 178, P. 212 |
 
-Direction du service national
+Direction du service national et de la jeunesse |
 
-|
+P. 167, P. 212 |
 
-P. 167, P. 212
+Service parisien de soutien de l'administration centrale |
 
-|
-
-Service parisien de soutien de l'administration centrale
-
-|
-
-P. 144, P. 146, P. 167, P. 169, p. 178, P. 212
-
-|
+P. 144, P. 146, P. 167, P. 169, p. 178, P. 212 |

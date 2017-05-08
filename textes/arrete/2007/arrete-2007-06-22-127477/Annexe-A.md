@@ -1,494 +1,260 @@
 # Article Annexe A
 
-ORGANISMES OU AUTORITÉS
+ORGANISMES OU
 
-dont relèvent les personnes habilitées
+AUTORITÉSdont relèvent les personnes habilitées
 
 |
 
-PERSONNES HABILITÉES
+PERSONNES HABILITÉES |
 
-|
-
-MONTANT MAXIMUM DES MARCHÉS (1)
-
-|
-
-Directions et services relevant du chef d'état-major des armées
-
-|
-
-Direction centrale du service de santé des armées
-
-|
-
-Directeur des approvisionnements en produits de santé
-
-|
-
-Sans limitation
-
-|
-
-Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
-
-|
-
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information de Toulon et de Brest
-
-|
-
-Sans limitation
-
-|
-
-Direction centrale du service du commissariat des armées
-
-|
-
-Directeur du centre d'expertise de soutien général des armées
-
-|
-
-Sans limitation
-
-|
-
-Directeurs des plates-formes achats finances
-
-|
-
-Sans limitation
-
-|
-
-Directeur du centre d'expertise de la restauration et de l'hébergement interarmées
-
-|
-
-Sans limitation
-
-|
-
-Directeur du service spécialisé de la logistique et du transport
-
-|
-
-Sans limitation
-
-|
-
-Directeur de l'établissement logistique de Roanne
-
-|
-
-15 000 euros HT
-
-|
-
-Chefs des groupements de soutien de base de défense en métropole (2)
-
-|
-
-MAPA x 1
-
-|
-
-Commandant de l'école des fourriers
-
-|
-
-MAPA x 0,66
-
-|
-
-Direction centrale du service des essences des armées
-
-|
-
-Directeur de l'exploitation et de la logistique pétrolières interarmées
-
-|
-
-Sans limitation
-
-|
-
-Adjoint interarmées de soutien pétrolier
-
-|
-
-Sans limitation (3)
-
-|
-
-Chef du détachement de liaison du service des essences des armées, à l'étranger
-
-|
-
-Sans limitation (3)
-
-|
-
-Directeur du centre d'expertise pétrolière interarmées
-
-|
-
-MAPA x 20
-
-|
-
-Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine
-
-|
-
-MAPA x 7 (4)
-
-|
-
-Divers
-
-|
-
-Commandants des formations administratives (5)
-
-|
-
-MAPA x 1
-
-|
-
-Armée de terre
-
-|
-
-Etat-major de l'armée de terre
-
-|
+MONTANT MAXIMUM DES MARCHÉS (1) |
 
-Directeur du service de la maintenance industrielle terrestre
+Directions et services relevant du chef d'état-major des armées |
 
-|
-
-Sans limitation
-
-|
-
-Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre)
-
-|
-
-MAPA x 3
-
-|
-
-Chef du détachement de Moulins de la base de soutien du matériel de Clermont-Ferrand (service de la maintenance industrielle terrestre)
-
-|
-
-MAPA x 3
-
-|
-
-Divers
-
-|
-
-Commandants des formations administratives (5)
-
-|
-
-MAPA x 0,66
-
-|
-
-Marine
-
-|
-
-Direction centrale du service de soutien de la flotte
-
-|
-
-Directeur local du service du soutien de la flotte de Brest, directeur adjoint
-
-|
-
-MAPA x 70
-
-|
-
-Directeur local du service du soutien de la flotte de Toulon, directeur adjoint
-
-|
-
-MAPA x 70
-
-|
-
-Directeur d'antenne de soutien des Antilles
-
-|
-
-MAPA x 10
-
-|
-
-Directeur d'antenne de soutien de Nouvelle-Calédonie
-
-|
-
-MAPA x 10
-
-|
-
-Directeur d'antenne de soutien de Polynésie française
-
-|
-
-MAPA x 10
+Direction centrale du service de santé des armées |
 
-|
+Directeur des approvisionnements en produits de santé |
 
-Directeur d'antenne de soutien de La Réunion
+Sans limitation |
 
-|
+Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
-MAPA x 10
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information de Toulon et de Brest |
 
-|
+Sans limitation |
 
-Divers
+Direction centrale du service du commissariat des armées |
 
-|
+Directeur du centre d'expertise de soutien général des armées |
 
-Commandants des formations administratives (5)
+Sans limitation |
 
-|
+Directeurs des plates-formes achats finances |
 
-MAPA x 0,66
+Sans limitation |
 
-|
+Directeur du centre d'expertise de la restauration et de l'hébergement interarmées |
 
-Armée de l'air
+Sans limitation |
 
-|
+Directeur du service spécialisé de la logistique et du transport |
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
+Sans limitation |
 
-|
+Directeur de l'établissement logistique de Roanne |
 
-Chef du service des contrats et des finances
+15 000 euros HT |
 
-|
+Chefs des groupements de soutien de base de défense en métropole (2) |
 
-Sans limitation
+MAPA x 1 |
 
-|
+Commandant de l'école des fourriers |
 
-Adjoints au chef du service des contrats et des finances
+MAPA x 0,66 |
 
-|
+Direction centrale du service des essences des armées |
 
-MAPA x 100
+Directeur de l'exploitation et de la logistique pétrolières interarmées |
 
-|
+Sans limitation |
 
-Chef de la division des contrats du service des contrats et des finances et ses adjoints
+Adjoint interarmées de soutien pétrolier |
 
-|
+Sans limitation (3) |
 
-MAPA x 1
+Chef du détachement de liaison du service des essences des armées, à l'étranger |
 
-|
+Sans limitation (3) |
 
-Président de la commission des contrats et ses adjoints
+Directeur du centre d'expertise pétrolière interarmées |
 
-|
+MAPA x 20 |
 
-MAPA x 100
+Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
 
-|
+MAPA x 7 (4) |
 
-Directeurs des structures spécialisées d'achat et de mandatement de Bordeaux-Mérignac et de Bordeaux-Beauséjour
+Divers |
 
-|
+Commandants des formations administratives (5) |
 
-Sans limitation
+MAPA x 1 |
 
-|
+Armée de terre |
 
-Service industriel de l'aéronautique
+Etat-major de l'armée de terre |
 
-|
+Directeur du service de la maintenance industrielle terrestre |
 
-Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey
+Sans limitation |
 
-|
+Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre) |
 
-MAPA x 50
+MAPA x 3 |
 
-|
+Chef du détachement de Moulins de la base de soutien du matériel de Clermont-Ferrand (service de la maintenance industrielle terrestre) |
 
-Directeur de l'atelier industriel de l'aéronautique de Bordeaux
+MAPA x 3 |
 
-|
+Divers |
 
-MAPA x 50
+Commandants des formations administratives (5) |
 
-|
+MAPA x 0,66 |
 
-Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand
+Marine |
 
-|
+Direction centrale du service de soutien de la flotte |
 
-Sans limitation
+Directeur local du service du soutien de la flotte de Brest, directeur adjoint |
 
-|
+MAPA x 70 |
 
-Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu
+Directeur local du service du soutien de la flotte de Toulon, directeur adjoint |
 
-|
+MAPA x 70 |
 
-MAPA x 50
+Directeur d'antenne de soutien des Antilles |
 
-|
+MAPA x 10 |
 
-Directeur de l'atelier industriel de l'aéronautique de Bretagne
+Directeur d'antenne de soutien de Nouvelle-Calédonie |
 
-|
+MAPA x 10 |
 
-MAPA x 50
+Directeur d'antenne de soutien de Polynésie française |
 
-|
+MAPA x 10 |
 
-Divers
+Directeur d'antenne de soutien de La Réunion |
 
-|
+MAPA x 10 |
 
-Commandants des formations administratives (5)
+Divers |
 
-|
+Commandants des formations administratives (5) |
 
-MAPA x 0,66
+MAPA x 0,66 |
 
-|
+Armée de l'air |
 
-Direction générale de l'armement
+Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense |
 
-|
+Chef du service des contrats et des finances |
 
-Direction des opérations
+Sans limitation |
 
-|
+Adjoints au chef du service des contrats et des finances |
 
-Chef du service des achats d'armement
+MAPA x 100 |
 
-|
+Chef de la division des contrats du service des contrats et des finances et ses adjoints |
 
-Sans limitation
+MAPA x 1 |
 
-|
+Président de la commission des contrats et ses adjoints |
 
-Adjoints du chef du service des achats d'armement
+MAPA x 100 |
 
-|
+Directeurs des structures spécialisées d'achat et de mandatement de Bordeaux-Mérignac et de Bordeaux-Beauséjour |
 
-Sans limitation
+Sans limitation |
 
-|
+Service industriel de l'aéronautique |
 
-Autorités signataires de marchés |
+Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey |
 
-MAPA × 50 |
+MAPA x 50 |
 
-Direction de la stratégie
+Directeur de l'atelier industriel de l'aéronautique de Bordeaux |
 
-|
+MAPA x 50 |
 
-Directeur du centre d'analyse technico-opérationnelle de défense
+Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand |
 
-|
+Sans limitation |
 
-MAPA x 50
+Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
-|
+MAPA x 50 |
 
-Directeur de DGA intelligence technique et économique
+Directeur de l'atelier industriel de l'aéronautique de Bretagne |
 
-|
+MAPA x 50 |
 
-Sans limitation
+Divers |
 
-|
+Commandants des formations administratives (5) |
 
-Secrétariat général pour l'administration
+MAPA x 0,66 |
 
-|
+Direction générale de l'armement |
 
-Service d'infrastructure de la défense
+Direction des opérations |
 
-|
+Chef du service des achats d'armement |
 
-Directeur du centre d'expertise des techniques de l'infrastructure de la défense
+Sans limitation |
 
-|
+Adjoints du chef du service des achats d'armement |
 
-Sans limitation
+Sans limitationAutorités |
 
-|
+signataires de marchésMAPA |
 
-Directeurs des établissements du service d'infrastructure de la défense
+× 50 |
 
-|
+Direction de la stratégie |
 
-Sans limitation
+Directeur du centre d'analyse technico-opérationnelle de défense |
 
-|
+MAPA x 50 |
 
-Divers
+Directeur de DGA intelligence technique et économique |
 
-|
+Sans limitation |
 
-Ministère de l'écologie, du développement durable et de l'énergie
+Secrétariat général pour l'administration |
 
-|
+Service d'infrastructure de la défense |
 
-Directeur du service national d'ingénierie aéroportuaire (6)
+Directeur du centre d'expertise des techniques de l'infrastructure de la défense |
 
-|
+Sans limitation |
 
-Sans limitation (7) (8) (9)
+Directeurs des établissements du service d'infrastructure de la défense |
 
-|
+Sans limitation |
 
-Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (6)
+Divers |
 
-|
+Ministère de l'écologie, du développement durable et de l'énergie |
 
-Sans limitation (7) (8) (9)
+Directeur du service national et de la jeunesse d'ingénierie aéroportuaire (6) |
 
-|
+Sans limitation (7) (8) (9) |
 
-Directeur du service technique de l'aviation civile
+Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (6) |
 
-|
+Sans limitation (7) (8) (9) |
 
-Sans limitation (7) (8) (9)
+Directeur du service technique de l'aviation civile |
 
-|
+Sans limitation (7) (8) (9) |
 
-Quartier général du cabinet du ministre de la défense
+Quartier général du cabinet du ministre de la défense |
 
-|
+Chef du quartier général |
 
-Chef du quartier général
+MAPA x 1 (10) |
 
-|
+Service militaire volontaire-volontariat militaire d'insertionCommandement |
 
-MAPA x 1 (10)
+du service militaire volontaire-volontariat militaire d'insertionMAPA |
 
-|
+x 10 (11) |
 
 (1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
 
@@ -509,5 +275,7 @@ MAPA x 1 (10)
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
 (10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
+
+(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle.
 
 |

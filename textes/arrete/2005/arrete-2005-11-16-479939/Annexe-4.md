@@ -26,7 +26,7 @@ Dans la limite de 180 000 €.
 
 |
 
-Le directeur du service national dont dispose le secrétariat général pour l'administration.
+Le directeur du service national et de la jeunesse dont dispose le secrétariat général pour l'administration.
 
 |
 
