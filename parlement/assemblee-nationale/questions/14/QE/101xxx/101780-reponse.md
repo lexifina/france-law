@@ -1,0 +1,9 @@
+# Réponse à la question n° 101780
+
+- Question : [101780](101780.md) — Question n° 101780 — navigation intérieure; protection de l'environnement; perspectives
+
+## Réponse
+
+*JO du 2017-05-09*
+
+Le règlement général de police de la navigation intérieure (RGPNI) correspond aux articles R. 4241-1 à 65 du code des transports. Conformément à l'article R. 4241-2, il peut être complété par des règlements particuliers de police (RPP) pris par arrêté du ou des préfets de départements concernés. Le RGPNI et les RPP ne figurent pas dans la liste des plans, schémas et autres documents de planification devant faire l'objet d'une étude environnementale au titre du décret 2012-616 relatif à l'évaluation de certains plans et documents ayant une incidence sur l'environnement. En effet, il ne s'agit pas de plans, schémas ou plus globalement de documents de planification. Ces documents ne donnent pas de directives ou de stratégies à long terme sur le territoire. Seuls onze préfets de départements ont inscrit les RPP sur les listes locales des documents de planification, programmes, projets, manifestations et interventions soumis à l'évaluation des incidences Natura 2000 telles que prévues au paragraphe III.2° de l'article L. 414-4 du code de l'environnement. Il s'agit des départements de l'Ain, de l'Ardèche, de la Corrèze, de la Creuse, de la Drôme, de l'Isère, de la Loire, du Rhône, de la Savoie, de la Haute-Savoie et de la Haute-Vienne. L'ensemble des RPP pris par les préfets a fait l'objet d'une consultation locale auprès des usagers du plan d'eau ou de la voie d'eau concerné mais aussi auprès des différents services de l'État. Ces documents sont consultables auprès des services de l'État compétents et publiés au recueil des actes administratifs. Comme tout acte administratif pris par les préfets de département, les droits de recours des tiers ont été pleinement garantis.
