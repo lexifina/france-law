@@ -1,0 +1,9 @@
+# Réponse à la question n° 94119
+
+- Question : [94119](94119.md) — Question n° 94119 — rachat; gestion; pertinence
+
+## Réponse
+
+*JO du 2017-05-09*
+
+La création du Fonds national des aides à la pierre (FNAP), établissement public administratif à caractère national était prévue par l'article 144 de la loi no 2015-1785 du 29 décembre 2015 de finances pour 2016 pour sécuriser le financement des aides à la pierre par la mutualisation des ressources de l'État et des organismes HLM. Le montant prélevé sur les organismes HLM n'obère pas la capacité d'investissement du monde HLM. En effet, ce montant sera affecté au financement d'opérations de développement, d'amélioration et de démolition du parc de logements locatifs sociaux selon des modalités fixées par le conseil d'administration du fonds national des aides à la pierre, composé à parité de représentants de l'État et des bailleurs sociaux, ainsi que de représentants du Parlement et des collectivités territoriales. Le conseil d'administration du FNAP fixe annuellement le montant nécessaire au financement des aides à la pierre, tout en définissant par territoire et par catégorie de logement, la programmation des aides à la pierre en fonction des situations et des besoins. L'État, conformément aux engagement du Gouvernement lors de la discussion de la loi de finances, a doublé sa contribution au financement des aides à la pierre en la portant en 2016 à 250 millions d'euros de crédits de paiement, tout en prévoyant d'engager 500 millions d'euros en 2016 pour de nouvelles opérations. Ce sont ainsi 130 316 logements locatifs sociaux qui ont été financés en 2016, dont un tiers de logements très sociaux (PLAI). pour l'année 2017, le FNAP est doté d'un budget de 462 millions d'euros pour un objectif de programmation de plus de 140 000 logements répartis par région.
