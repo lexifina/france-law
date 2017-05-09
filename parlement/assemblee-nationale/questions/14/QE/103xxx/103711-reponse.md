@@ -1,0 +1,9 @@
+# Réponse à la question n° 103711
+
+- Question : [103711](103711.md) — Question n° 103711 — assujettissement; armée; réglementation
+
+## Réponse
+
+*JO du 2017-05-09*
+
+Aux termes des articles L. 2333-64 et L. 2531-2 et suivants du code général des collectivités territoriales, la contribution dite « versement transport » constitue la participation des personnes publiques ou privées employant au moins 11 salariés au financement des transports en commun. Elle est perçue par les organismes ou services chargés du recouvrement des cotisations de sécurité sociale et des allocations familiales pour être reversée aux autorités organisatrices de mobilité (AOM). Conformément à la réglementation en vigueur, les versements effectués à ce titre par le ministère de la défense ne sont pas calculés sur la base d'effectifs moyens, mais prennent en compte la réalité des rémunérations servies aux personnels employés sur le périmètre géographique des AOM, l'assiette du versement transport étant constituée par ces rémunérations. Le calcul des sommes versées aux URSAFF est automatisé et effectué par les calculateurs de solde sur la base des informations transmises par les systèmes d'information de ressources humaines. Dans l'hypothèse où des difficultés en la matière viendraient à être détectées, les services du ministère ne manqueraient pas de corriger les éventuels dysfonctionnements. Enfin, il est précisé que dans la perspective du prochain déploiement du calculateur de solde ministériel « Source Solde », le ministère de la défense a constitué un groupe de travail afin, notamment, d'expertiser les processus existants. Ces travaux, qui visent en particulier à vérifier la bonne prise en compte par le ministère des déductions légales concernant les personnels logés et transportés, devraient aboutir au cours de l'année 2017.
