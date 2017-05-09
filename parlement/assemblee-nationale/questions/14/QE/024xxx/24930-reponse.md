@@ -1,0 +1,9 @@
+# Réponse à la question n° 24930
+
+- Question : [24930](24930.md) — Question n° 24930 — Conseil économique, social et environnemental; rapport
+
+## Réponse
+
+*JO du 2017-05-09*
+
+Les comités interministériels à l'égalité et à la citoyenneté qui ont été réunis en mars et octobre 2015 par le Premier ministre ont permis de définir les chantiers prioritaires à mener afin de réduire les inégalités, notamment celles qui touchent la jeunesse. Ces travaux ont trouvé leur traduction dans la loi no 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, laquelle s'attache notamment à favoriser la mixité sociale et l'égalité des chances dans l'habitat, à l'échelle des immeubles, des quartiers et des bassins de vie. Par ailleurs, en ce qui concerne l'accès au logement, la loi relative à l'égalité et la citoyenneté vise particulièrement à faciliter l'accès des personnes défavorisées au logement social, notamment pour celles à qui les logements doivent être attribués prioritairement. Elle prévoit aussi de réorganiser les procédures d'attribution pour plus d'équité entre les demandeurs ainsi que de développer l'offre sur l'ensemble du territoire, en favorisant la mobilité dans le parc social. Dans la prolongation de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) qui a fait de la région le chef de file pour organiser les modalités de l'action commune des collectivités territoriales et de leurs établissements publics pour plusieurs compétences, la loi relative à l'égalité et à la citoyenneté, en son article 54, a confié à la région le chef de filât en matière de politique de la jeunesse. Cela permettra une meilleure coordination des différents acteurs locaux investis dans l'accompagnement des jeunes vers l'autonomie. La mise en œuvre de l'ensemble de ces mesures est assurée par la publication des décrets d'application dans les délais les plus brefs.
