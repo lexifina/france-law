@@ -1,0 +1,9 @@
+# Réponse à la question n° 24938
+
+- Question : [24938](24938.md) — Question n° 24938 — Conseil économique, social et environnemental; rapport
+
+## Réponse
+
+*JO du 2017-05-09*
+
+La loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové a renforcé les compétences des collectivités territoriales et de leurs groupements en matière d'urbanisme afin notamment de relancer la construction de logements et de lutter contre l'étalement urbain. Par ailleurs, le cadre juridique du droit de préemption a été consolidé afin de permettre la mise en œuvre d'une politique foncière plus volontaire et efficace et plusieurs outils d'aménagement opérationnel, tels les zones d'aménagement concerté, les associations foncières urbaines de projet ou les projets urbains partenariaux, ont été créés ou renforcés. Ultérieurement, les comités interministériels à l'égalité et à la citoyenneté qui ont été réunis en mars et octobre 2015 par le Premier ministre ont permis de définir les chantiers prioritaires à mener afin de réduire les inégalités, notamment celles qui touchent la jeunesse. Ces travaux ont trouvé leur traduction dans la loi no 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, laquelle s'attache notamment à favoriser la mixité sociale et l'égalité des chances dans l'habitat, à l'échelle des immeubles, des quartiers et des bassins de vie. De nombreuses dispositions modifient le code de la construction et de l'habitation afin de développer l'offre de logement social et les stratégies foncières, notamment en renforçant le dispositif qui impose aux communes de la construction de logements sociaux. De même, augmenter la mobilité dans le parc social et faciliter l'accès des personnes défavorisées au logement social constituent des objectifs prioritaires. La mise en œuvre de l'ensemble de ces mesures est assurée par la publication des décrets d'application dans les délais les plus brefs.
