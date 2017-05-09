@@ -1,0 +1,9 @@
+# Réponse à la question n° 90480
+
+- Question : [90480](90480.md) — Question n° 90480 — coquillages; dégustation; réglementation
+
+## Réponse
+
+*JO du 2017-05-09*
+
+L'activité de dégustation de coquillages constitue une piste de diversification tout à fait intéressante pour les conchyliculteurs. Cependant, comme pour toute activité nouvelle, il existe un besoin de connaissance et de clarification des modalités de mise en oeuvre de cette activité, notamment de l'ensemble du cadre réglementaire en termes de prévention des risques, de normes sanitaires, de fiscalité et plus généralement de responsabilité que les candidats à la diversification se doivent de connaître et de maîtriser préalablement. C'est pourquoi l'article 79 de la loi du 20 juin 2016 pour l'économie bleue prévoit que le Gouvernement remette au Parlement, un rapport portant sur les possibilités et les conditions, pour les pêcheurs et les aquaculteurs, d'une diversification de leur activité par le tourisme, notamment le pescatourisme et la commercialisation directe des produits de la mer, transformés ou non. C'est l'objet de la mission en cours sollicitée conjointement par la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat et le secrétaire d'État chargé des transports, de la mer et de la pêche auprès du Conseil général de l'environnement et du développement durable (CGEDD), de l'Inspection générale des affaires maritimes (IGAM) et du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux (CGAAER) aux fins d'établir un rapport sur la question posée. Les conclusions de ce rapport, qui sont attendues au cours du premier semestre 2017, devront permettre de faire des propositions pour clarifier la question spécifique de l'activité de dégustation.
