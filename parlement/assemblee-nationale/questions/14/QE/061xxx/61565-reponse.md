@@ -1,0 +1,9 @@
+# Réponse à la question n° 61565
+
+- Question : [61565](61565.md) — Question n° 61565 — infraction à la législation; France; bilan
+
+## Réponse
+
+*JO du 2017-05-09*
+
+L'article 258 du traité sur le fonctionnement de l'Union européenne dispose que la Commission, en tant que gardienne des traités, peut émettre un avis motivé à l'encontre d'un Etat membre s'il a manqué à une des obligations qui lui incombent en vertu des traités. La Commission peut ensuite saisir la Cour de justice de l'Union européenne si l'Etat concerné ne se conforme pas à l'avis motivé. Seule la Cour de justice peut juger si une infraction à la législation de l'UE a bien été commise. La Commission européenne a publié un tableau d'affichage en juillet 2014 qui donne une vue d'ensemble du nombre de procédures d'infraction en cours dans les Etats-membres. Ce tableau indique que la France est concernée par 56 procédures d'infraction à la législation européenne, en quatrième position des pays ayant le plus de procédures ouvertes à leur encontre. Ces procédures étaient particulièrement nombreuses dans les domaines de la fiscalité (directe et indirecte) et de la liberté de circulation des biens. Lors du dernier tableau d'affichage publié par la Commission européenne, datant de juillet 2016, le nombre de procédures d'infractions en cours a pu être ramené à 49. Selon la Commission cela vient conforter la tendance à la baisse observée depuis novembre 2013 (-17%) mais situe toujours la France dans les six pays les plus concernés par les procédures d'infractions. La fiscalité, directe et indirecte, représente 33% du total des procédures en cours. La France suit ces procédures avec attention afin de prendre les mesures qui lui semblent le plus adaptées. Une fois ces procédures achevées, il sera possible de revenir sur le détail de ces affaires. Il est impossible de le faire, tant que les procédures n'ont pas été clôturées ou que les jugements n'ont pas encore été rendus.
