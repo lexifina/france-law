@@ -1,0 +1,9 @@
+# Réponse à la question n° 102687
+
+- Question : [102687](102687.md) — Question n° 102687 — harkis; indemnité de reconnaissance; insaisissabilité
+
+## Réponse
+
+*JO du 2017-05-09*
+
+La loi no 2005-158 du 23 février 2005 portant reconnaissance de la Nation et contribution nationale en faveur des Français rapatriés a prévu d'accorder aux anciens membres des formations supplétives une allocation de reconnaissance avec la possibilité de choisir entre le versement d'une rente annuelle indexée sur le coût de la vie (3 515 euros depuis le 1er janvier 2017), une sortie en capital d'un montant de 30 000 euros ou une solution mixte associant la perception d'une rente annuelle portée à 2 422 euros à compter du 1er janvier 2017 au versement d'un capital d'un montant de 20 000 euros. Par ailleurs, l'article 133 de la loi no 2015-1785 du 29 décembre 2015 de finances pour 2016 a institué, en faveur des conjoints et ex-conjoints survivants non remariés d'anciens membres des formations supplétives n'ayant pu bénéficier de l'allocation de reconnaissance, en raison de la forclusion de ce dispositif fixée au 20 décembre 2014, une allocation viagère annuelle dont le montant atteint 3 515 euros depuis le 1er janvier 2017. L'article 6-II de la loi du 23 février 2005 précitée a établi également l'insaisissabilité des indemnités en capital versées aux anciens supplétifs et prévu que ces dernières ne présentaient pas le caractère de revenus pour l'assiette des impôts et taxes recouvrés au profit de l'État ou des collectivités publiques. Enfin, l'allocation versée sous la forme d'une rente et l'allocation viagère sont quant à elles, conformément aux b et c du 4° de l'article 81 du code général des impôts, exonérées de l'impôt sur le revenu et de la contribution sociale généralisée. Il n'est pas actuellement envisagé de faire évoluer cette réglementation.
