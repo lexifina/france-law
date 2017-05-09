@@ -1,0 +1,9 @@
+# Réponse à la question n° 103302
+
+- Question : [103302](103302.md) — Question n° 103302 — plan local d'urbanisme intercommunal; élaboration
+
+## Réponse
+
+*JO du 2017-05-09*
+
+La décentralisation conduite depuis 1982 a permis aux communes et aux intercommunalités de devenir pleinement compétentes et responsables en matière d'urbanisme. S'agissant de la délivrance des permis de construire et des autres autorisations du droit du sol (ADS), dans les communes qui sont dotées d'un plan local d'urbanisme, l'article L. 422-1 du code de l'urbanisme pose le principe selon lequel le maire est l'autorité compétente, au nom de la commune, d'un document d'urbanisme en tenant lieu ou d'une carte communale. Ce principe n'a pas été remis en cause par la publication des lois no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR) et no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). L'instruction des ADS constitue le préalable à leur délivrance. Elle conduit le service instructeur choisi à vérifier la conformité des projets avec la réglementation et la planification en vigueur sur le territoire comme à fournir des avis à l'autorité compétente au titre de l'aide à la décision. Si le Gouvernement ne peut qu'être favorable à l'intercommunalisation du service d'instruction, pour des raisons évidentes de bonne gestion des effectifs et d'amélioration de l'expertise technique des projets, cette intercommunalisation n'est pas une obligation. Il est possible de charger des actes d'instruction les services de la commune, d'une autre collectivité territoriale ou d'un groupement de collectivités. Au-delà, les services de l'Etat continuent d'apporter leur soutien aux petites communes ou intercommunalités de petite taille, comme le prévoit l'article L. 422-8 du code de l'urbanisme.
