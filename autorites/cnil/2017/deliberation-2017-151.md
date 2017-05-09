@@ -1,0 +1,173 @@
+# Délibération n° 2017-151 du 9 mai 2017 portant avis sur un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel relatif aux étrangers sollicitant la délivrance d’un visa, dénommé France Visas. (demande d’avis n° AV 17000255)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2017-151
+- Date : 2017-05-09
+- Publication : 2023-12-30
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000048725617
+
+Extrait du Journal officiel électronique authentifié PDF - 251,1 Ko
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel relatif aux étrangers sollicitant la délivrance d’un visa, dénommé France Visas ;
+
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le règlement (CE) n° 1987/2006 du Parlement européen et du Conseil du 20 décembre 2006 sur l'établissement, le fonctionnement et l'utilisation du système d'information Schengen de deuxième génération (SIS II) ;
+
+Vu le règlement (CE) n° 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d'information sur les visas (VIS) et l'échange de données entre les États membres sur les visas de court séjour (règlement VIS) ;
+
+Vu le règlement n° 810/2009 du parlement européen et du conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas) ;
+
+Vu le code de l'entrée et du séjour des étrangers et du droit d'asile, notamment ses articles L. 611-3 à L. 611-6, R. 611-1 à R. 611-7-4, R. 611-8 à R. 611-15 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 26-I-1° et 27-II-4° ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 2010-569 du 28 mai 2010 modifié relatif au fichier des personnes recherchées ;
+
+Vu l’arrêté du 22 août 2001 modifié portant création d'un traitement informatisé d'informations nominatives relatif à la délivrance des visas dans les postes diplomatiques et consulaires ;
+
+Vu l’arrêté du 1er septembre 2015 autorisant la mise en œuvre d'un traitement automatisé de données à caractère personnel dénommé "Études en France" ;
+
+Après avoir entendu M. Eric PERES, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+
+Émet l’avis suivant :
+
+La Commission a été saisie par le ministre de l’intérieur d’une demande d’avis portant sur un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel relatif aux étrangers sollicitant la délivrance d’un visa, dénommé France Visas.
+
+Le traitement France Visas, qui relève conjointement du ministère des affaires étrangères et du développement international (MAEDI) et du ministère de l’intérieur, a pour finalité principale de permettre l’instruction des demandes de visas et intéresse à ce titre la sécurité publique. Il comportera en outre des fonctionnalités de téléservice, permettant notamment aux demandeurs de visas de formuler et de suivre leur demande en ligne. Il y a donc lieu de faire application des dispositions des articles 26-I et 27-II-4° de la loi du 6 janvier 1978 modifiée et le traitement projeté doit dès lors être autorisé par arrêté ministériel pris après avis motivé et publié de la Commission.
+
+À titre liminaire, la Commission relève que le traitement France Visas a vocation à remplacer le traitement dénommé RMV 2, créé par l’arrêté du 22 août 2001 susvisé, sur lequel elle s’est prononcée à plusieurs reprises. Ce traitement, ancien, est notamment basé sur une architecture technique décentralisée et la conservation, par le MAEDI ainsi que par chaque poste diplomatique et consulaire, des données relatives aux personnes signalées aux fins de non-admission sur le territoire national.
+
+Or, l’existence de ces bases est, depuis la fin du mois de février 2017, contraire aux dispositions du règlement du 20 décembre 2006 susvisé et, par suite, aux règles de protection des données à caractère personnel applicables en la matière. En outre, cette architecture et les nombreux échanges d’informations qu’elle implique entraînent des difficultés de mise à jour des données.
+
+Comme la Commission a déjà eu l’occasion de le relever s’agissant du traitement RMV 2, ces traitements constituent, au regard des finalités poursuivies et des enjeux en matière de gestion et de sécurisation des frontières, des systèmes d’informations sensibles. Elle estime dès lors que le respect de la loi "Informatique et Libertés" et des règles européennes applicables en matière de protection des données personnelles, notamment concernant la qualité des données enregistrées dans ce traitement, constitue dans ce cadre une nécessité impérieuse, tant pour les personnes concernées que pour les ministères concernés.
+
+La Commission constate à cet égard que la mise en œuvre de ce nouveau traitement permettra aux ministères concernés de répondre aux difficultés précitées, tant légales qu’opérationnelles, liées à l’utilisation de multiples bases de données locales. Elle les invite dès lors à déployer France Visas dans les meilleurs délais afin que ces difficultés ne perdurent pas dans le temps.
+
+Dans ce contexte, le projet d’arrêté appelle les observations suivantes de la part de la Commission.
+
+Sur les finalités :
+
+L’article 1er du projet d’arrêté énumère les finalités assignées au traitement France Visas, lesquelles sont proches de celles poursuivies par le traitement RMV 2. Ce même article détaille en outre les diverses fonctionnalités offertes par le traitement, telles que la mise en place d’un portail internet et d’un téléservice, le suivi et le traitement des recours administratifs et contentieux se rapportant aux visas ou l’établissement de statistiques.
+
+En premier lieu, la Commission relève que la distinction ainsi établie par le projet d’arrêté entre les finalités assignées à France Visas, d’une part, et ce que "permet" ce traitement, d’autre part, n’est pas suffisamment claire, dans la mesure où certaines des fonctionnalités du traitement semblent en réalité constituer des finalités assignées à France Visas, comme par exemple le "suivi et le traitement des recours administratifs et contentieux se rapportant aux visas", expressément mentionné au titre des finalités dans l’arrêté relatif au traitement RMV 2.
+
+Elle invite dès lors le ministère à préciser l’articulation entre ces différentes dispositions de l’article 1er du projet d’arrêté.
+
+En deuxième lieu, s’agissant des trois finalités du traitement France Visas, il s’agit tout d’abord de permettre l’instruction des demandes de visas, en procédant notamment à l’échange d’informations, d’une part, avec les autorités nationales et, d’autre part, avec les autorités des États mettant en œuvre l’acquis Schengen au travers du système d’information sur les visas (VIS) pour les données se rapportant aux visas.
+
+Le code communautaire des visas prévoit, lors de l’examen d’une demande de visa, qu’il est procédé à une vérification des conditions d’entrée et une évaluation des risques, non seulement en matière de sécurité (menace pour la sécurité publique) mais aussi en matière de risque migratoire (risque de maintien illégal en France de la personne concernée à l’issue du séjour qui pourrait lui être accordé). Cette évaluation se matérialise notamment par la consultation automatique et systématique, lors du dépôt d’une demande, de plusieurs traitements nationaux, listés à l’article 2 du projet d’arrêté : le fichier des personnes recherchées (FPR), le système d'information Schengen de deuxième génération (SIS II), le Système d’Information sur les Visas (VIS) et le fichier des documents de voyage volés ou perdues d’Interpol, dénommé "SLTD" (Stolen and Lost Travel Documents).
+
+Les modalités de consultation du SIS II évoluent de manière importante par rapport au fonctionnellement actuel de RMV 2. Il est en effet désormais prévu une interrogation directe de ce fichier et non plus des copies partielles détenues localement par le MAEDI ou les postes diplomatiques et consulaires. La Commission estime que ce nouveau mode d’interrogation permettra aux personnels habilités d’avoir accès à des données complètes et à jour, améliorant l’efficacité des contrôles sécuritaires ainsi effectués.
+
+Par ailleurs, la Commission relève que de nouvelles mises en relation sont prévues par rapport au traitement RMV 2. D’une part, France Visas interrogera directement le fichier des personnes recherchées (FPR), dont les modalités de mise en œuvre sont prévues par le décret du 28 mai 2010, afin d’identifier si un demandeur est signalé ou recherché. Si une telle mise en relation n’est pas prévue par l’arrêté du 22 août 2001, des données issues du FPR sont toutefois traitées dans RMV 2 par l’intermédiaire du fichier central d'attention, de sorte que cette évolution technique n’appelle pas d’observation particulière de la part de la Commission.
+
+D’autre part, une interconnexion avec le traitement "SLTD" d’Interpol est prévue, afin d’identifier si un document de voyage présenté à l’appui d’une demande de visa correspond à un document répertorié. La Commission prend acte qu’en cas de concordance, une levée de doute sera effectuée par la direction des relations internationales de la direction centrale de la police judiciaire.
+
+L’article 1er du projet d’arrêté prévoit ensuite que France Visas aura pour finalité
+
+"d’améliorer les conditions de délivrance des visas".
+
+Les nouvelles fonctionnalités (dépôt et suivi en ligne de la demande de visa, dématérialisation du dossier, paiement en ligne, nouvelles modalités de consultation de certains traitements mis en œuvre par le ministère de l’intérieur, fonctionnalités de pilotage de l’activité) visent ainsi à faciliter le processus de demande de visa par les personnes concernées et le processus d’instruction de ces demandes, dans un contexte de demande croissante de visas.
+
+Enfin, le projet d’arrêté prévoit que France Visas aura pour finalité "de mieux garantir, dans le cadre de l’instruction des demandes de visas, le droit au séjour des personnes en situation régulière et de lutter contre l’entrée et le séjour irréguliers des étrangers en France, en prévenant les fraudes documentaires, les usurpations d’identité et les détournements de procédures".
+
+La Commission observe que cette formulation est identique à celle prévue dans plusieurs dispositions législatives et réglementaires du code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA) concernant une série de fichiers en matière d’immigration. Cette formulation générale est ainsi susceptible de recouvrir des finalités distinctes.
+
+Si la mention de la prévention de la fraude documentaire, des usurpations d’identité et des détournements de procédures permettent d’expliciter suffisamment la finalité de lutte contre l’entrée et le séjour irréguliers des étrangers, la Commission estime en revanche que la finalité visant à "mieux garantir le droit au séjour des personnes en situation régulière" devrait, conformément aux dispositions de l’article 6-2° de la loi du 6 janvier 1978 modifiée, être davantage explicite s’agissant du traitement France Visas.
+
+Sur les données collectées :
+
+L’article 3 du projet d’arrêté prévoit que les données collectées sont précisées dans une annexe à l’arrêté. Les données sont principalement issues des déclarations du demandeur, par l’intermédiaire des documents fournis lors du dépôt du dossier auprès du poste consulaire, et complétées par ce dernier au cours de l’instruction.
+
+Les données qui figurent dans le projet d’annexe sont très proches de celles mentionnées dans l’annexe à l’arrêté du 22 août 2001 et sont relatives au dossier de demande de visa, aux différents recours engagés, aux signalements, à l’authenticité des actes d’état civil, aux interventions et aux partenaires habilités. Des ajustements ont néanmoins été apportés par le ministère à certaines de ces catégories de données.
+
+En premier lieu, dans le cadre des nouvelles finalités et fonctionnalités du traitement, les images numérisées des pièces du dossier de demande de visa, les données relatives au compte utilisateur créé par la personne qui a formulé en ligne sa demande de visa ainsi que de nouvelles données relatives au paiement seront enregistrées dans France Visas, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée.
+
+La Commission rappelle que la photographie du demandeur de visa devra être traitée selon les mêmes modalités que dans le traitement RMV 2 et prend acte que les images et les minuties des empreintes digitales des dix doigts du demandeur de visa ne seront pas enregistrées dans le traitement France Visas.
+
+En troisième lieu, des données contenues dans les dossiers des "partenaires
+
+habilités" pourront être enregistrées dans le traitement projeté. France Visas permettra en effet de mettre à disposition d’organismes "partenaires" identifiés et habilités par l’administration (entreprises, exportateurs agréées par les douanes, chambres de commerce, institutions diverses, etc.) ou d’autres administrations un portail permettant de signaler de futures demandes de visa. Certaines données les concernant seront dès lors enregistrées, ce qui n’appelle pas d’observation particulière de la part de la Commission, d’autant que certaines données ne portent pas sur les personnes physiques.
+
+Les modalités de collecte des données sont fixées par les articles 4 et 5 du projet d’arrêté.
+
+La Commission relève que la liste prévue à l’article 4 est plus restreinte que celle prévue par l’article 3 de l’arrêté du 22 août 2001, le ministère des affaires étrangères, le ministère chargé de l'immigration et la commission de recours contre les refus de visa d'entrée en France n’étant plus mentionnés au titre des services habilités à recueillir directement les données.
+
+En revanche, il est désormais prévu que les points de passage aux frontières Schengen (PPF) soient désormais habilités à collecter les données, afin de leur permettre d’assurer les missions prévues à l’article 35 du code communautaire des visas en matière de délivrance de visas.
+
+L’article 5 du projet d’arrêté, relatif aux services ne relevant pas directement de l’administration française habilités à collecter les données, prévoit, comme cela est le cas dans l’arrêté du 22 août susvisé relatif au traitement RMV 2, que des prestataires agréés par les autorités chargées de la délivrance des visas puissent être chargés de cette collecte, sous la responsabilité de ces dernières. Si la Commission a déjà examiné les conditions de cette externalisation de la collecte des données alphanumériques des demandeurs de visas, elle rappelle que des mesures de sécurité particulièrement élevées doivent être mises en œuvre et adaptées régulièrement.
+
+Le projet d’arrêté prévoit enfin que les chancelleries consulaires et les consulats des autres États membres de l’Union européenne peuvent procéder à la collecte des données enregistrées dans le traitement France Visas. Interrogé à ce sujet, le ministère a toutefois précisé que seule la représentation dite "pleine" prévue par l’article 8 du code communautaire des visas et consistant, pour la France, à se faire représenter par un autre État membre en vue de l’examen et de la délivrance des visas pour son compte, est mise en œuvre. Il n’est dès lors pas nécessaire de prévoir que les services d’autres États membres pourront collecter les données et la Commission prend acte de l’engagement du ministère de l’intérieur de supprimer cette disposition.
+
+Sur les destinataires :
+
+L’article 6 du projet d’arrêté liste les personnels habilités à prendre connaissance des données enregistrées dans le traitement France Visas.
+
+S’agissant des personnels habilités à accéder directement aux données, le projet d’arrêté apporte peu de modifications par rapport aux destinataires actuellement prévus par l’arrêté du 22 août 2001 relatif au traitement RMV 2. Dans la mesure où les deux seuls ajouts concernent, d’une part, les agents des préfectures chargés de l’application de la réglementation relative à la délivrance des titres de séjour, au traitement des demandes d’asiles et aux mesures d’éloignement et, d’autre part, les agents de la police nationale, les militaires de la gendarmerie et les agents des douanes, chargés de l’instruction des demandes de délivrance des visas aux frontières et des vérifications aux frontières extérieures des documents de voyages des ressortissant des pays tiers, cette liste n’appelle pas d’observation particulière de la part de la Commission.
+
+Par ailleurs, elle prend acte de l’engagement du ministère de l’intérieur de mentionner, au titre des personnels habilités à accéder aux données, les agents de la Commission de recours contre les décisions de refus de visa d'entrée en France, comme cela est actuellement prévu dans l’arrêté du 22 août 2001 relatif au traitement RMV 2.
+
+Le II de l’article 6 du projet d’arrêté énumère les services habilités à recevoir communication des données enregistrées dans France Visas.
+
+Il s’agit de certains services de renseignement (direction générale de la sécurité intérieure (DGSI), direction du renseignement de la préfecture de police de Paris (DRPP), direction générale de la sécurité extérieure (DGSE), direction du renseignement militaire (DRM), direction du renseignement et de la sécurité de la défense (DRSD)), relevant du ministère de l’intérieur et de la défense, et de la direction centrale de la police aux frontières (DCPAF).
+
+Dans la mesure où le traitement France Visas intéresse la sécurité publique, la Commission estime que ces services ont un intérêt légitime à recevoir communication des données enregistrées dans ce traitement dans le cadre de leurs missions de prévention des atteintes à la sécurité publique.
+
+Sur les durées de conservation :
+
+L’article 7 du projet d’arrêté fixe les durées de conservation des données enregistrées dans le traitement France Visas.
+
+En premier lieu, les données à caractère personnel relatives aux demandes, à la délivrance et au refus de visas sont conservées pendant une durée maximale de cinq ans, identique à celle prévue dans RMV 2.
+
+Le traitement France Visas permettant de procéder à des démarches en ligne, le projet d’arrêté fixe en deuxième lieu une durée de conservation des données relatives aux comptes utilisateurs et aux partenaires habilités. Les données pourront ainsi être immédiatement effacées sur demande de l’utilisateur ou à l’initiative de l’administration en cas d’inactivité du compte prenant une durée ininterrompue d’un an. Les données enregistrées concernant des demandes en ligne incomplètes sont conservées pendant une durée de trois mois.
+
+La Commission estime que les durées de conservation fixées par le projet d’arrêté sont conformes aux dispositions de l’article 6-5° de la loi du 6 janvier 1978 modifiée.
+
+Sur les droits des personnes :
+
+Les articles 8 et 10 du projet d’arrêté fixent les modalités d’exercice des droits des personnes.
+
+Les personnes concernées seront informées du traitement de leurs données. L’ensemble des mentions prévues à l’article 32 de la loi du 6 janvier 1978 modifiée doivent être portées à la connaissance de la personne concernée. La Commission rappelle en outre que cette information doit être effective et demande qu’elle soit fournie en plusieurs langues sur le site permettant aux personnes de formuler une demande de visa. Elle rappelle en outre que le règlement (CE) n° 767/2008 relatif au VIS prévoit une information non seulement des demandeurs de visas, mais également des invitants.
+
+L’article 8 du projet d’arrêté prévoit que les droits d’accès et de rectification s’exercent de manière directe auprès de différents services, selon que la demande de visas est déposée hors du territoire français ou sur le territoire français. Conformément au règlement n° 767/2008 du 9 juillet 2008 concernant le VIS, il est prévu que les services saisis de demandes de rectification informent la personne concernée des éventuelles rectifications auxquels ils ont procédé.
+
+Le droit d’opposition ne s’applique pas au traitement projeté, ce qui n’appelle pas d’observation particulière de la part de la Commission.
+
+Sur l’architecture, les mesures de sécurité et de traçabilité :
+
+Le traitement France Visas est composé de différents modules accessibles depuis un navigateur internet.
+
+Concernant les modalités d’authentification, les personnes souhaitant formuler une demande de visa en ligne doivent créer un compte afin de s'authentifier, ce qui leur permettra de suivre l'avancement de leur demande. L’utilisateur crée lui-même son compte depuis le téléservice de demande de visa.
+
+S’agissant des acteurs professionnels prestataires, la Commission relève qu’un agent de l’administration (superviseur ou instructeur) doit créer un premier compte pour un responsable, à partir duquel ce dernier pourra à son tour créer d’autres comptes. La Commission note que leur activation est toutefois validée par un agent de l’administration (superviseur ou instructeur).
+
+La Commission prend acte que les mots de passe des comptes des personnes demandant un visa et des comptes des acteurs professionnels prestataires doivent comporter dix caractères minimum, avec a minima trois des quatre types de caractères suivants : lettres minuscules, lettres majuscules, chiffres et caractères spéciaux. Par ailleurs, les cinq derniers mots de passe sont conservés et ne peuvent être ressaisis et le compte de l’utilisateur est verrouillé pendant soixante minutes après trois tentatives infructueuses d’authentification.
+
+Les agents de l’État, à l’exception des agents du MAEDI, s’authentifient avec le compte personnel qui leur est attribué par leur administration. Les annuaires utilisés dans la gestion des identités et des accès sont ceux de leur propre administration et les modes d’authentification sont ainsi gérés par les administrations "sources".
+
+La Commission note que le mot de passe des agents du MAEDI doit contenir au moins dix caractères et respecter trois des quatre types de caractères suivants : au moins une majuscule, une minuscule, un chiffre, un caractère spécial.
+
+Pour les administrateurs techniques du MAEDI, l’authentification s’effectue par l’utilisation d’un certificat associé à un mot de passe.
+
+La Commission a élaboré une recommandation relative aux modalités techniques d'authentification par mot de passe. Elle invite dès lors les ministères concernés à en prendre connaissance et à procéder aux éventuelles modifications nécessaires afin de mettre leur politique des mots de passe en conformité avec cette recommandation, aussi bien sur la complexité demandée pour les mots de passe que sur leur modalité de stockage.
+
+L’article 2 du projet d’arrêté prévoit que le traitement France Visas sera mis en relation avec les traitements RMV 2, VISABIO, AGDREF 2 et le traitement dénommé "Études en France".
+
+La Commission relève que ces différents échanges de données, entre l’usager et l’application, entre les différents ministères impliqués et l’application, ainsi qu’entre les applications, sont réalisés via des canaux de communication chiffrés et assurant l’authentification de la source et de la destination.
+
+Le Commission prend acte qu’un dispositif de traçabilité est mis en œuvre. L’article 9 du projet d’arrêté prévoit ainsi que les créations, les mises à jour, les suppressions ainsi que les consultations sont tracées, ces traces étant conservées un an.
+
+Sous ces réserves, la Commission considère que les mesures prévues par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que le respect de cette exigence nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+La présidente
+
+I. FALQUE-PIERROTIN
