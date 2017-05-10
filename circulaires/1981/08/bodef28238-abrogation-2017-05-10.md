@@ -1,0 +1,167 @@
+# INSTRUCTION N° 2350/DEF/EMAA/3/OP relative à l'instruction aérienne des moniteurs dans les unités écoles du personnel navigant.
+
+- État : abrogée (au 2017-05-10)
+- NOR : BODEF28238
+- Numéro : BODEF28238
+- Date de signature : 1981-08-04
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation :Le général de corps aérien, major général de l'armée de l'air,P. HUGUET.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  Le général de corps aérien, major général de l'armée de l'air,  Le général de corps aérien, major général de l'armée de l'air,  Le général de corps aérien, major général de l'armée de l'air,   P. HUGUET.  P. HUGUET.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Administration et comptabilité intérieures des formations, unités, corps de troupe. Enseignement militaire : instruction, écoles, cours et stages, brevets et certificats.Écoles, cours, stages, brevets et certificats de spécialités.Spécialisation et perfectionnement.TITRE PREMIER. DISPOSITIONS COMMUNES AUX OFFICIERS ET AUX SOUS-OFFICIERS.NiveauTitreCHAPITRE II. PERSONNEL NAVIGANT.Chapitre
+- Publication JO / BO : BOC, p. 4307.
+- Annexes : 0
+- Identifiant : 11808 (PDF officiel : pdf/2009/04/cir_11808.pdf)
+
+## Résumé
+
+Figure 1. ACCUSÉ DE RÉCEPTION DE FOURNITURES.    Figure 1. ACCUSÉ DE RÉCEPTION DE FOURNITURES.  Figure 1. ACCUSÉ DE RÉCEPTION DE FOURNITURES.  Figure 1. ACCUSÉ DE RÉCEPTION DE FOURNITURES.  Figure 1. ACCUSÉ DE RÉCEPTION DE FOURNITURES.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de l'air
+INSTRUCTION N° 2350/DEF/EMAA/3/OP
+relative à l'instruction aérienne des moniteurs dans les unités écoles du personnel navigant.
+Du 4 août 1981
+
+ÉTAT-MAJOR DE L'ARMÉE DE L'AIR : 3e Bureau.
+INSTRUCTION N° 2350/DEF/EMAA/3/OP relative à l'instruction aérienne des moniteurs dans les
+unités écoles du personnel navigant.
+Du 4 août 1981
+Textes abrogés :
+Instruction n° 2350/DEF/EMAA/3/OP du 23 avril 1964 (édition 1972) (BOC/A, 1972,
+p. 689).
+Instruction n° 2350/DEF/EMAA/3/OP du 23 avril 1964 (édition 1978) (n.i. BO).
+Classement dans l'édition méthodique : BOEM 778.1.2.1.
+Référence de publication : BOC, p. 4307.
+PRÉAMBULE.
+La formation du personnel navigant est la mission principale et prioritaire des unités écoles du personnel
+navigant du commandement des écoles de l'armée de l'air (CEAA ).
+Ces unités pourront, en outre, se voir confier une mission de guerre définie dès le temps de paix :
+1. Liaison et appui renseignements pour les détachements aériens issus des écoles de début.
+2. Aérotransport et évacuation sanitaire pour les détachements aériens issus de l'école de
+spécialisation hélice.
+3. Appui conventionnel et occasionnellement couverture moyenne et basse altitude pour les unités
+Alphajet.
+L'exécution de ces missions nécessite un entraînement minimal particulier.
+L'instruction aérienne des moniteurs de pilotage correspondant à ces différentes missions fait l'objet
+de la présente instruction.
+I. INSTRUCTION AÉRIENNE DES MONITEURS.
+ I.1. But.
+L'instruction aérienne dispensée aux moniteurs dans les unités écoles vise à garantir :
+- la sécurité des équipages et du matériel ;
+- l'efficacité maximum dans l'instruction des élèves par une formation du moniteur, orientée
+principalement vers la pédagogie ;
+- la possibilité d'effectuer dans des conditions satisfaisantes la mission de guerre de l'unité.
+ I.2. Principes de la conduite de l'instruction.
+I.2.1. L'instruction aérienne du moniteur revêt deux formes complémentaires :
+
+- la formation pédagogique du moniteur qui repose essentiellement sur l'exécution de missions
+d'instruction du programme des élèves assortie de contrôles pédagogiques effectués à une cadence
+déterminée ;
+- la progression du pilote basée sur la répétition :
+- d'exercices de base (et éventuellement de tir) ;
+- de missions types (d'entraînement ou opérationnelles) adaptées à la qualification du pilote.
+I.2.2. Cette instruction est répartie en quatre phases, chacune sanctionnée par l'attribution d'une
+qualification.
+II. CYCLE D'INSTRUCTION.
+ II.1. Phase 1. Transformation sur avion et formation pédagogique du moniteur.
+Elle concerne tout pilote affecté quelles que soient sa provenance et sa qualification.
+En fin de phase, l'élève moniteur doit :
+- en tant qu'instructeur :
+- posséder les premiers éléments de la pédagogie du pilotage ;
+- être capable d'effectuer, en avion isolé, toutes les missions d'instruction des élèves de l'unité
+;
+- en tant que pilote :
+- posséder une connaissance suffisante de son matériel et de ses performances dans le cadre
+d'une utilisation normale et de secours ;
+- être capable d'exécuter correctement tous les exercices de la progression des élèves.
+La phase I se déroule au sein d'une unité d'instruction spécialisée. Elle est sanctionnée par l'attribution de la
+qualification de moniteur.
+ II.2. Phase 2. Formation du moniteur confirmé.
+Affecté à un escadron d'instruction en vol, le moniteur :
+- perfectionne ses connaissances du matériel, des méthodes et des procédures locales ;
+- est ensuite entraîné en vue d'acquérir la qualification de moniteur confirmé.
+Le moniteur confirmé doit être capable :
+- en tant qu'instructeur :
+- d'effectuer toutes les missions d'instruction des élèves de l'unité à l'exclusion des conduites
+de patrouille ;
+- en tant que pilote :
+- d'effectuer en avion isolé ou comme équipier les missions dévolues à l'unité ;
+
+- d'effectuer certains vols de contrôle technique dont le type est précisé par le grand
+commandement.
+ II.3. Phase 3. Formation du sous-chef moniteur.
+Au cours de cette phase, le moniteur confirmé est entraîné en vue d'acquérir la qualification de sous-chef
+moniteur.
+Le sous-chef moniteur doit être capable :
+- en tant qu'instructeur :
+- de faire passer les tests partiels aux élèves de l'unité ;
+- d'entraîner en vol les pilotes moins confirmés ;
+- en tant que pilote :
+- de conduire une patrouille légère et de tenir la place de no 3 d'une patrouille simple dans
+l'exécution des missions de l'unité ;
+- d'effectuer tous les vols de contrôle technique.
+ II.4. Phase 4. Formation du chef moniteur.
+L'objectif de cette phase est de développer l'autorité, l'expérience aéronautique et les qualités professionnelles
+du sous-chef moniteur afin de lui permettre :
+- de tenir le rôle d'instructeur dans toutes les missions de l'unité ;
+- de conduire plus de deux avions dans l'exécution de toutes les missions de l'unité.
+Son autorité, son expérience aéronautique et ses qualités professionnelles lui permettent :
+- de tenir des postes de responsabilité et d'exercer les commandements (officiers) ;
+- de seconder efficacement les titulaires de ces postes (sous-officiers).
+III. RESPONSABILITÉS.
+ III.1. L'état-major de l'armée de l'air.
+Fixe les missions des unités.
+Définit :
+- les phases de la progression des moniteurs ;
+- les conditions d'attribution des qualifications correspondantes (IM 2450).
+ III.2. Le commandement des écoles de l'armée de l'air.
+Définit :
+- le programme d'instruction des élèves moniteurs et en précise les modalités d'exécution ;
+
+- la liste des missions types (d'entraînement ou opérationnelles) qui doivent être effectuées à une
+fréquence définie afin de garantir l'aptitude de chaque pilote à exécuter, dans sa qualification, les
+missions de l'unité ;
+- la nature et la fréquence des exercices de base et éventuellement de tir.
+Détermine :
+- le nombre minimum et la nature des missions types (d'entraînement ou opérationnelles) de
+progression nécessaire à l'obtention des qualifications sanctionnant les phases 2, 3, 4 ;
+- les modalités du contrôle de la progression (contrôle pédagogique et missions de qualification).
+ III.3. Le commandement du groupement école
+est responsable de la conduite de l'instruction aérienne dans son unité et de l'application des directives du
+CEAA .
+Il doit veiller :
+- à l'homogénéité de l'instruction dispensée dans les escadrons ;
+- à l'amélioration des méthodes d'instruction dans un souci de rendement et d'efficacité.
+ III.4. Le commandant d'escadron d'instruction en vol
+est responsable de la conduite de l'instruction des moniteurs de son escadron.
+Il coordonne l'action des commandants d'escadrille dans ce domaine.
+ III.5. Le commandant d'escadrille.
+Ordonne l'exécution progressive des différentes missions.
+Veille à la stricte application des ordres de vol.
+Vérifie la préparation des missions et en contrôle l'exécution.
+Contrôle la progression de chacun de ses moniteurs.
+IV. CONTRÔLE DE L'INSTRUCTION.
+Le contrôle de l'instruction porte par unité et par phase de progression, sur les exercices de base et
+éventuellement les tirs, sur les missions types, dans les conditions suivantes :
+ IV.1. Un nombre limité d'exercices de base et éventuellement de tirs que chaque moniteur doit effectuer à
+une fréquence définie, selon sa qualification.
+ IV.2. Un nombre limité de missions types (d'entraînement ou opérationnelles) que chaque moniteur doit
+effectuer à une fréquence définie afin de :
+- maintenir et garantir son aptitude à exécuter la mission principale d'instruction et les missions du
+temps de guerre de son unité dans les conditions correspondant à sa qualification ;
+- progresser d'une phase à l'autre.
+
+V. DOCUMENTS DE CONDUITE ET DE CONTRÔLE DE L'INSTRUCTION.
+Les documents de conduite et de contrôle de l'instruction sont :
+- le tableau de contrôle de l'instruction ;
+- le cahier d'ordre et de travail aérien.
+Le tableau de contrôle de l'instruction est établi par le CEAA , conformément aux dispositions énoncées au
+paragraphe IV.
+Pour le ministre de la défense et par délégation :
+Le général de corps aérien, major général de l'armée de l'air,
+P. HUGUET.
