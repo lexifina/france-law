@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013491
+
+- Question : [SEQ141013491](seq141013491.md) — Danger terroriste suite à l'attaque du Parlement d'Ottawa
+
+## Réponse
+
+*Intérieur, JO du 2017-05-11, page 1817*
+
+À la suite des attentats commis en France en 2015 et 2016, la révision du plan Vigipirate, le 1er décembre 2016, a permis d'intégrer le fait que l'ensemble du territoire national est menacé par des attaques terroristes, et que les cibles multiples ne se limitent pas aux sites sensibles. La posture permanente de sécurité, élevée aujourd'hui au niveau sécurité renforcée-risque attentat, est appliquée sur l'ensemble du territoire. Des mesures supplémentaires de protection des bâtiments ont été insérées dans le catalogue 2016 des fiches mesures annexées au plan Vigipirate, notamment celles prévoyant des missions de surveillance et de protection de la population par les forces armées aux abords des bâtiments désignés, y compris les lieux de culte, en appui des forces de sécurité intérieure. Le Président de la République a décidé d'activer le contrat opérationnel de protection permettant, dans le cadre du dispositif « Sentinelle », le déploiement de 10 000 militaires sur le territoire national, répartis en deux catégories. 7 000 militaires sont déployés de manière permanente, tandis que 3 000 sont en réserve pour répondre à un cas de crise majeure. Ce recours aux armées à ce niveau d'engagement sur le territoire national s'inscrit dans la durée, compte tenu de la permanence et de l'intensité de la menace terroriste. Ce dispositif, évolutif selon l'analyse des menaces et des vulnérabilités, fait l'objet d'un dialogue constant au niveau central, zonal et départemental, entre les autorités civiles et les autorités militaires. Ainsi, en février 2017, près de 4 300 lieux de culte bénéficient de mesures de surveillance ou de protection assurées par l'armée, les polices nationale et municipale, et la gendarmerie nationale.
