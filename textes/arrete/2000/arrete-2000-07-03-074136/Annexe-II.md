@@ -724,6 +724,8 @@ L'Electro-réfractaire, puis Société européenne des produits réfractaires (S
 
 ELF Atochem, BP 3,13117 Lavera, de 1970 à 2001 ;
 
+Entreprise Francis CAZALS, 3, avenue des Ecureuils, 13012 Marseille puis, 26, avenue des Cigalons, 13013 Marseille : De 1974 à 1997 ;
+
 L'Européenne Soufres Industriels, 23, boulevard de la Station, Le Petit Canet, 13014 Marseille : de 1987 à 1993 ;
 
 France Joints, zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
