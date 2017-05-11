@@ -6,7 +6,7 @@ Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par 
 
 XX [Organisme d'habitations à loyer modéré, société d'économie mixte ou collectivité territoriale ou autre personne morale propriétaire du logement-foyer] représenté (e) par M....., dénommé (e) ci-après le propriétaire ;
 
-XX [Organisme agréé gestionnaire du logement-foyer, sauf dans le cas où le propriétaire est gestionnaire direct] représenté (e) par son président M......, autorisé à cet effet par délibération de son conseil d'administration, en date du......, dénommé ci-après le gestionnaire , et agissant à ce titre en application de la convention de location conclue avec le propriétaire ;
+XX [Organisme agréé gestionnaire du logement-foyer, sauf dans le cas où le propriétaire est gestionnaire direct] représenté (e) par son président M......, autorisé à cet effet par délibération de son conseil d'administration, en date du......, dénommé ci-après le gestionnaire, et agissant à ce titre en application de la convention de location conclue avec le propriétaire ;
 
 Vu l'objet de la résidence sociale tel que défini à l'annexe II ;
 
@@ -56,9 +56,7 @@ Ces modifications ne peuvent conduire à remettre en cause les engagements pris 
 
 Article 3
 
-Obligations respectives du propriétaire et du bailleur
-
-relatives à la maintenance et à l'entretien des locaux loués
+Obligations respectives du propriétaire et du bailleur relatives à la maintenance et à l'entretien des locaux loués
 
 Les locaux doivent être maintenus en bon état de fonctionnement au moyen d'une politique de provision pour le financement de travaux d'entretien et de grosses réparations.
 
@@ -70,9 +68,7 @@ Pour permettre le contrôle de l'exécution des obligations définies ci-dessus,
 
 Article 4
 
-Conditions d'attribution et d'occupation permanente
-
-de la résidence sociale
+Conditions d'attribution et d'occupation permanente de la résidence sociale
 
 Le gestionnaire s'engage à réserver la résidence sociale aux personnes seules ou en ménage dans l'établissement suivant :
 
@@ -98,9 +94,7 @@ L'annexe II précise ces engagements ainsi que l'ensemble des actions menées au
 
 Article 5
 
-Contrat d'occupation
-
-entre le résident et le gestionnaire
+Contrat d'occupation entre le résident et le gestionnaire
 
 Le gestionnaire s'engage à proposer aux résidents dans les lieux à la date d'entrée en vigueur de la convention ainsi qu'à tout nouvel entrant dans l'établissement un contrat d'occupation cosigné par lui et le résident, établi par écrit en application de l'article L. 633-2 du présent code et conformément aux stipulations de la convention ouvrant droit à l'aide personnalisée au logement. Un règlement intérieur, paraphé par ces mêmes personnes, lui est annexé.
 
@@ -112,21 +106,21 @@ Ce contrat est conclu pour une durée d'un mois renouvelable par tacite reconduc
 
 Il précise notamment, en application de l'article L. 633-2 du code de la construction et de l'habitation :
 
-- sa date de prise d'effet et sa durée ;
+-sa date de prise d'effet et sa durée ;
 
-- la désignation des locaux et, le cas échéant, des meubles et des équipements à usage privatif dont la personne logée a la jouissance ainsi que les espaces collectifs mis à sa disposition ;
+-la désignation des locaux et, le cas échéant, des meubles et des équipements à usage privatif dont la personne logée a la jouissance ainsi que les espaces collectifs mis à sa disposition ;
 
-- le montant de la redevance et des prestations telles que définies aux articles 12 et 13 de la présente convention, leurs modalités de calcul et de révision ;
+-le montant de la redevance et des prestations telles que définies aux articles 12 et 13 de la présente convention, leurs modalités de calcul et de révision ;
 
-- le cas échéant, le montant du dépôt de garantie tel que défini à l'article 8 de la présente convention ;
+-le cas échéant, le montant du dépôt de garantie tel que défini à l'article 8 de la présente convention ;
 
-- le rappel des conditions spécifiques d'admission de la résidence sociale prévues à l'article 4 de la présente convention et du projet social annexé à la présente convention ;
+-le rappel des conditions spécifiques d'admission de la résidence sociale prévues à l'article 4 de la présente convention et du projet social annexé à la présente convention ;
 
-- les obligations prévues à l'article 1728 du code civil (les locaux loués à usage privatif sont considérés comme le domicile du résident) ;
+-les obligations prévues à l'article 1728 du code civil (les locaux loués à usage privatif sont considérés comme le domicile du résident) ;
 
-- ses modalités et conditions de résiliation telles que définies à l'article 6 de la présente convention ;
+-ses modalités et conditions de résiliation telles que définies à l'article 6 de la présente convention ;
 
-- les obligations réciproques en cas d'absence prolongée.
+-les obligations réciproques en cas d'absence prolongée.
 
 La signature du contrat par la ou les personnes cocontractantes logées vaut acceptation par le résident du règlement intérieur de l'établissement. Le règlement intérieur est annexé au contrat et paraphé par ces mêmes personnes.
 
@@ -136,27 +130,23 @@ Au cours de chaque période mensuelle, le résident ou son représentant légal 
 
 Article 6
 
-Résiliation du contrat
-
-entre le résident et le gestionnaire
+Résiliation du contrat entre le résident et le gestionnaire
 
 La résiliation du contrat par le gestionnaire ou le propriétaire ne peut intervenir que dans les cas suivants :
 
-- inexécution par le résident de l'une des obligations lui incombant au regard du contrat d'occupation ou manquement grave ou répété au règlement intérieur. La résiliation du contrat ne prend effet qu'un mois après la date de notification par lettre recommandée avec avis de réception.
+-inexécution par le résident de l'une des obligations lui incombant au regard du contrat d'occupation ou manquement grave ou répété au règlement intérieur. La résiliation du contrat ne prend effet qu'un mois après la date de notification par lettre recommandée avec avis de réception.
 
 Lorsque la résiliation est motivée par un impayé de redevance, le délai de préavis ne débute que lorsque trois termes mensuels consécutifs, tel que prévu à l'article R. 633-3 du code de la construction et de l'habitation, du montant total à acquitter sont totalement impayés ou bien lorsqu'une somme au moins égale à deux fois le montant mensuel du montant à acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1342-4 alinéa 1er et 1343-5 s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
 
-- le résident cesse de remplir les conditions d'admission mentionnées à l'article 4. Le gestionnaire doit alors informer individuellement le résident concerné par lettre recommandée avec accusé de réception en respectant un préavis de trois mois francs ; à l'issue de ce délai, le contrat est résilié de plein droit lorsqu'une proposition de relogement correspondant aux besoins et aux possibilités du résident lui a été faite ; cette résiliation ne prend effet qu'un mois après la date de notification de la proposition de relogement par lettre recommandée avec avis de réception ;
+-le résident cesse de remplir les conditions d'admission mentionnées à l'article 4. Le gestionnaire doit alors informer individuellement le résident concerné par lettre recommandée avec accusé de réception en respectant un préavis de trois mois francs ; à l'issue de ce délai, le contrat est résilié de plein droit lorsqu'une proposition de relogement correspondant aux besoins et aux possibilités du résident lui a été faite ; cette résiliation ne prend effet qu'un mois après la date de notification de la proposition de relogement par lettre recommandée avec avis de réception ;
 
-- cessation totale de l'activité de l'établissement. Le gestionnaire ou, le cas échéant, le propriétaire, propose une solution de relogement correspondant aux besoins et aux capacités des résidents qui doivent être prévenus par lettre recommandée avec avis de réception au moins trois mois auparavant ; les conditions d'offre de ces relogements seront déterminées en accord avec le préfet ou son représentant.
+-cessation totale de l'activité de l'établissement. Le gestionnaire ou, le cas échéant, le propriétaire, propose une solution de relogement correspondant aux besoins et aux capacités des résidents qui doivent être prévenus par lettre recommandée avec avis de réception au moins trois mois auparavant ; les conditions d'offre de ces relogements seront déterminées en accord avec le préfet ou son représentant.
 
 En cas d'inoccupation temporaire de son logement du fait de son état de santé justifié par certificat médical, aucune résiliation pour ce motif ne peut intervenir.
 
 Article 7
 
-Dispositions spécifiques en cas d'impayés
-
-pour un bénéficiaire de l'aide personnalisée au logement (APL)
+Dispositions spécifiques en cas d'impayés pour un bénéficiaire de l'aide personnalisée au logement (APL)
 
 En application de l'article R. 351-64 du code de la construction et de l'habitation, lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à l'organisme mentionné à l'article L. 351-14 du code de la construction et de l'habitation et, le cas échéant, à la commission spécialisée de coordination des actions de prévention des expulsions locatives par le gestionnaire percevant l'APL pour son compte.
 
@@ -166,7 +156,7 @@ Article 8
 
 Dépôt de garantie
 
-Le gestionnaire peut demander au résident un dépôt de garantie qui ne peut être supérieur à un mois de la redevance. Au départ du résident, il est restitué dans un délai maximum de quinze jours à compter de la remise des clefs, déduction faite, le cas échéant, des sommes dues au gestionnaire sous réserve qu'elles soient dûment justifiées. Le montant du dépôt de garantie ne porte pas intérêt au bénéfice du résident. Il ne doit faire l'objet d'aucune révision.A défaut de restitution dans le délai prévu, le solde du dépôt de garantie restant dû au résident, après arrêté des comptes, produit intérêt au taux légal au profit du résident.
+Le gestionnaire peut demander au résident un dépôt de garantie qui ne peut être supérieur à un mois de la redevance. Au départ du résident, il est restitué dans un délai maximum de quinze jours à compter de la remise des clefs, déduction faite, le cas échéant, des sommes dues au gestionnaire sous réserve qu'elles soient dûment justifiées. Le montant du dépôt de garantie ne porte pas intérêt au bénéfice du résident. Il ne doit faire l'objet d'aucune révision. A défaut de restitution dans le délai prévu, le solde du dépôt de garantie restant dû au résident, après arrêté des comptes, produit intérêt au taux légal au profit du résident.
 
 En aucun cas, il ne peut être demandé une avance sur le paiement des redevances ou des prestations.
 
@@ -182,17 +172,15 @@ Le gestionnaire s'engage à tenir à la disposition des résidents ou des entran
 
 Article 10
 
-Maxima applicables à la part de la redevance
-
-assimilable au loyer et aux charges locatives récupérables
+Maxima applicables à la part de la redevance assimilable au loyer et aux charges locatives récupérables
 
 La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12 ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention.
 
-Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé, en application de l'article L. 353-9-2 du code de la construction et de l'habitation, au 1er janvier de chaque année en fonction de l'indice de référence des loyers (IRL) prévu au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 modifiée. La date de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
+Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé, en application de l'article L. 353-9-2 du code de la construction et de l'habitation, au 1er janvier de chaque année en fonction de l'indice de référence des loyers (IRL) prévu au I de l'article 17-1 de la loi n° 89-462 du 6 juillet 1989 modifiée. La date de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
 
 La redevance pratiquée peut, dans la limite de la redevance maximum et de l'IRL, être réactualisée au 1er janvier de chaque année, dans les conditions prévues à l'article L. 353-9-3 du code de la construction et de l'habitation.
 
-Cette redevance peut, en outre, dans la limite de la redevance maximum précitée, après que le gestionnaire aura recueilli l'avis du préfet, être réajustée chaque année le 1er janvier en cas d'amélioration notable du service rendu.
+Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'IRL, dans la limite de la redevance maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
 
 Article 11
 
@@ -200,31 +188,31 @@ Composition de la part de redevance assimilable au loyer et aux charges locative
 
 La part de redevance assimilable au loyer et aux charges locatives et seule prise en compte pour le calcul de l'aide personnalisée au logement est calculée sur la base de deux éléments, dont l'un est équivalent au loyer, et l'autre équivalent aux charges locatives récupérables.
 
-I. - En ce qui concerne l'équivalence du loyer, la participation du résident aux charges financières annuelles afférentes à l'immeuble recouvre :
+I.-En ce qui concerne l'équivalence du loyer, la participation du résident aux charges financières annuelles afférentes à l'immeuble recouvre :
 
 a) Le remboursement :
 
-- des charges afférentes à l'ensemble des dépenses effectuées pour la construction, l'amélioration ou l'acquisition-amélioration du logement-foyer ;
+-des charges afférentes à l'ensemble des dépenses effectuées pour la construction, l'amélioration ou l'acquisition-amélioration du logement-foyer ;
 
-- des frais généraux du propriétaire ;
+-des frais généraux du propriétaire ;
 
-- des charges de renouvellement des composants immobilisés ;
+-des charges de renouvellement des composants immobilisés ;
 
-- du montant de la prime d'assurance de l'immeuble ;
+-du montant de la prime d'assurance de l'immeuble ;
 
-- de la taxe foncière sur les propriétés bâties.
+-de la taxe foncière sur les propriétés bâties.
 
 b) Les frais de fonctionnement relatifs au foyer, à savoir :
 
-- les frais de siège du gestionnaire ;
+-les frais de siège du gestionnaire ;
 
-- les frais fixes de personnel administratif ;
+-les frais fixes de personnel administratif ;
 
-- toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code civil ;
+-toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code civil ;
 
-- les charges de gros entretien et frais de personnel et fournitures afférents à ces travaux.
+-les charges de gros entretien et frais de personnel et fournitures afférents à ces travaux.
 
-II. - L'élément équivalent aux charges locatives récupérables, sommes accessoires au loyer principal, et pris en compte forfaitairement, est exigible en contrepartie des charges dont la liste est énumérée par le décret n° 87-713 du 26 août 1987 pris en application de l'article 18 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière et fixant la liste des charges récupérables modifié.
+II.-L'élément équivalent aux charges locatives récupérables, sommes accessoires au loyer principal, et pris en compte forfaitairement, est exigible en contrepartie des charges dont la liste est énumérée par le décret n° 87-713 du 26 août 1987 pris en application de l'article 18 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière et fixant la liste des charges récupérables modifié.
 
 Lorsque les logements sont équipés de compteur individuel, eau chaude et eau froide, dont les consommations sont relevables de l'extérieur, les consommations d'eau peuvent n'être prises en charge forfaitairement au titre de l'élément équivalent aux charges locatives récupérables qu'à hauteur de 165 litres par jour et par personne. Au-delà de ce maximum, les consommations réelles supplémentaires sont facturées au résident au titre des prestations par facturation séparée, au prix pratiqué par le fournisseur.
 
@@ -272,7 +260,7 @@ Ces travaux doivent conduire à mettre la résidence sociale en conformité tota
 
 Le gestionnaire doit informer chaque occupant concerné par tout moyen d'information approprié, un mois au moins avant le début des travaux, de la nature du projet, de la nécessité éventuelle de relogements provisoires ou définitifs et des augmentations prévisionnelles de redevance et, le cas échéant, du montant des prestations.
 
-Lorsque ces travaux nécessitent l'évacuation temporaire ou définitive des résidents, le gestionnaire doit trouver des solutions de relogement. Les modalités de ces relogements seront déterminées en accord avec le préfet ou son représentant. Elles devront, en tout état de cause, être équivalentes à leurs conditions de logement avant travaux.A l'achèvement des travaux, le résident peut demander à réintégrer préférentiellement l'établissement amélioré.
+Lorsque ces travaux nécessitent l'évacuation temporaire ou définitive des résidents, le gestionnaire doit trouver des solutions de relogement. Les modalités de ces relogements seront déterminées en accord avec le préfet ou son représentant. Elles devront, en tout état de cause, être équivalentes à leurs conditions de logement avant travaux. A l'achèvement des travaux, le résident peut demander à réintégrer préférentiellement l'établissement amélioré.
 
 Un mois avant la date d'achèvement des travaux, le gestionnaire notifie, par lettre recommandée avec accusé de réception aux résidents dans les lieux ou ayant fait l'objet d'un relogement, le montant de la nouvelle redevance applicable de plein droit dès l'achèvement des travaux.
 
@@ -350,9 +338,9 @@ Annexe I à la convention n° 2 annexée au III de l'article R. 353-159 du code 
 
 Descriptif du programme
 
-I. - Nom et adresse de la résidence sociale :
+I.-Nom et adresse de la résidence sociale :
 
-II. - Nature du programme conventionné :
+II.-Nature du programme conventionné :
 
 [Rayer la mention inutile]
 
@@ -364,11 +352,11 @@ Description du programme des travaux :
 
 Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 351-56 du code de la construction et de l'habitation.
 
-III. - Composition du programme :
+III.-Composition du programme :
 
-A. - Surface habitable totale :
+A.-Surface habitable totale :
 
-B. - Locaux auxquels s'applique la présente convention :
+B.-Locaux auxquels s'applique la présente convention :
 
 1. Surface habitable totale : mètres carrés, dont :
 
@@ -494,7 +482,7 @@ NOMBRE |
 
 5. Garages et/ ou parking (nombre) :
 
-C. - Locaux auxquels ne s'applique pas la convention [exemple : logement de fonction, logement d'accueil temporaire...] :
+C.-Locaux auxquels ne s'applique pas la convention [exemple : logement de fonction, logement d'accueil temporaire...] :
 
 -
 
@@ -502,13 +490,13 @@ C. - Locaux auxquels ne s'applique pas la convention [exemple : logement de fonc
 
 -
 
-IV. - Renseignements administratifs :
+IV.-Renseignements administratifs :
 
-A. - Origine de propriété [établie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité] :
+A.-Origine de propriété [établie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité] :
 
-B. - Permis de construire ou déclaration préalable de construction [selon la nature des travaux] :
+B.-Permis de construire ou déclaration préalable de construction [selon la nature des travaux] :
 
-C. - Modalités de financement de l'opération [renseignements à compléter dès que les décisions de financements sont intervenues] :
+C.-Modalités de financement de l'opération [renseignements à compléter dès que les décisions de financements sont intervenues] :
 
 Financement principal :
 
