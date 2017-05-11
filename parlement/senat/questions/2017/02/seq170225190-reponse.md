@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170225190
+
+- Question : [SEQ170225190](seq170225190.md) — Participations de l'État dans les sociétés exploitantes des tunnels routiers du Mont-Blanc et du Fréjus
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-05-11, page 1809*
+
+Créé en 2002 et activé en 2012, le fonds pour le développement pour une politique intermodale des transports dans le massif alpin (FDPITMA), est un établissement public administratif dont l'objet est de « concourir à la mise en œuvre d'une politique intermodale de transports dans le massif alpin par le financement des différents modes de transport et les éventuelles prises de participation nécessaires à cet effet ». À ce titre, cet établissement est l'actionnaire majoritaire de la société française du tunnel routier du Fréjus (SFTRF) et de la société d'autoroutes et tunnel du Mont-Blanc (ATMB), exploitant respectivement les tunnels du Fréjus et ceux du Mont-Blanc, ainsi que les autoroutes A40 et A43 via des concessions distinctes. Il détient l'intégralité, moins une action, des parts auparavant détenues par l'État, soit 67,3 % d'ATMB et 99,9% de SFTRF. Après concertation avec les services du ministère de l'économie et des finances dont relève notamment la compétence de gestion des actifs détenus par l'État, on peut assurer que la cession des participations détenues par l'État, via le FDPITMA, au capital des sociétés ATMB et SFTRF, évoquée à la suite de la publication d'un article dans le quotidien « Les Échos » du 26 janvier 2017, n'est pas à l'ordre du jour. En outre, une telle cession devrait, en tout état de cause, être au préalable autorisée par la loi conformément au VI de l'article 22 de l'ordonnance du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique.
