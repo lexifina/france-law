@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160521843
+
+- Question : [SEQ160521843](seq160521843.md) — Absence d'information du contribuable en matière de permis de construire
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-05-11, page 1854*
+
+En l'état actuel du droit, s'agissant de la taxe d'aménagement, l'exigibilité des taxes d'urbanisme résulte de la délivrance de l'autorisation d'urbanisme. La répartition des compétences entre les collectivités territoriales, compétentes pour délivrer le permis de construire, et l'État, compétent pour liquider les taxes, ne permet pas d'en mentionner la nature et le montant lors de la délivrance de cette dernière. Suite à la délivrance des autorisations, les services de l'État procèdent au calcul des impositions et à leur vérification et établissent le montant de la taxe. Le bénéficiaire de l'autorisation est alors informé par lettre du montant des taxes à payer. Lorsque les collectivités territoriales sont compétentes pour délivrer les autorisations, l'article R. 331-10 du code de l'urbanisme dispose que ces collectivités fournissent aux services de l'État dans le département chargés d'établir les taxes d'urbanisme, dans le délai d'un mois suivant la délivrance de ces autorisations, tous les éléments nécessaires à leur taxation. La diligence des collectivités territoriales à transmettre ces données permet ainsi aux services de l'État de procéder au calcul des taxes et d'informer rapidement le bénéficiaire du permis, via la transmission de la lettre d'information. Afin d'anticiper le montant des taxes d'urbanisme de la construction projetée, et notamment celui de la taxe d'aménagement, un simulateur de calcul est disponible sur le site internet du ministère du logement et de l'habitat durable. Le montant indiqué par le simulateur donne une appréciation de la taxe à payer, au regard des éléments fournis ou bien renseignés par le futur pétitionnaire.
