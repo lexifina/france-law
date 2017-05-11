@@ -1,10 +1,10 @@
 # Article ANNEXE 1
 
-CRITÈRES TECHNIQUES DE LABELLISATION DES CENTRES D'ÉDUCATION DES CHIENS-GUIDES D'AVEUGLES OU D'ASSISTANCE
+CRITÈRES TECHNIQUES DE LABELLISATION DES CENTRES D'ÉDUCATION DES CHIENS-GUIDES D'AVEUGLES
 
 Chapitre 1er
 
-Dispositions communes aux centres d'éducation des chiens-guides d'aveugles et aux centres d'éducation des chiens d'assistance
+Moyens des centres d'éducation des chiens-guides d'aveugles
 
 I. - Principes généraux
 
@@ -22,7 +22,7 @@ Il peut percevoir des aides, des subventions publiques ou privées.
 
 Le chien reste la propriété du centre qui a assuré son éducation tant qu'il est en activité.
 
-Le maître doit s'acquitter d'une assurance responsabilité civile applicable aux chiens d'utilité. S'il y avait manquement à cette obligation, après une mise en demeure préalable du maître, non suivi d'effet, le centre peut retirer le chien provisoirement ou définitivement.
+Le maître doit s'acquitter d'une assurance responsabilité civile applicable aux chiens d'utilité. S'il y avait manquement à cette obligation, après une mise en demeure préalable du maître, non suivie d'effet, le centre peut retirer le chien provisoirement ou définitivement.
 
 Toute action de promotion avec la participation d'un demandeur ou d'un maître de chien ne peut se faire qu'avec son consentement écrit.
 
@@ -30,39 +30,39 @@ II. - Services techniques
 
 Le centre doit être en mesure d'accueillir simultanément au moins cinq chiens.
 
-Chaque chien doit disposer d'installations conformes aux règles sanitaires et de protection animale.
+Le centre doit disposer d'un local administratif comportant un secrétariat où sont archivés les dossiers des demandeurs ainsi qu'une salle de réunion.
+
+a Lorsque le projet du centre prévoit le séjour des chiens en établissement, chaque chien doit disposer d'installations conformes aux règles sanitaires et de protection animale. Pour les établissements existants, le dernier rapport d'inspection par la direction départementale en charge de la protection des populations doit dater de moins de deux ans, ne doit pas faire apparaître de non-conformité majeure et l'évaluation globale de l'établissement doit être en A ou B.
 
 Le centre doit disposer en outre d'un espace clos d'au moins 500 m2 ainsi que d'une pièce destinée à la préparation de la nourriture, au stockage des aliments et aux soins et toilettage des chiens.
 
-Le centre doit disposer d'un local administratif comportant un secrétariat où sont archivés les dossiers des demandeurs ainsi qu'une salle de réunion.
-
 Le centre d'éducation doit assurer la surveillance des chiens et le gardiennage de nuit.
+
+b Lorsque le projet du centre ne prévoit pas de séjour des chiens en établissement, le centre met en place un dispositif de suivi soutenu des chiens par les éducateurs, permettant d'assurer leur éducation avec l'objectif d'un même niveau de sécurité et de service rendu à la personne déficiente visuelle utilisatrice.
 
 III. - Personnel du centre
 
-Le centre d'éducation de chiens doit disposer d'une personne responsable du fonctionnement administratif du centre et de deux éducateurs remplissant les conditions définies aux articles 4 et 5 du présent arrêté dont l'un peut être en cours de formation.
+Le centre d'éducation de chiens doit disposer d'une personne responsable du fonctionnement administratif du centre et de deux éducateurs remplissant les conditions définies au 7° de l'article D. 245-24-2 du code de l'action sociale et des familles dont l'un peut être en cours de formation.
 
 Il doit disposer d'un directeur technique s'il emploie plus de cinq éducateurs.
+
+Le centre doit disposer d'au moins une personne, en contact avec les chiens, qui soit titulaire d'un des justificatifs de connaissance mentionnés au 3° du I de l'article L. 214-6-1 du code rural et de la pêche maritime.
+
+Cette personne doit notamment s'assurer que les chiens sont bien traités en familles d'accueil.
 
 IV. - Personnes apportant leur concours
 
 au fonctionnement d'un centre
 
-Le centre doit s'assurer le concours d'un vétérinaire et d'un médecin. Il peut, en tant que de besoin, s'assurer du concours d'un psychologue, d'un travailleur social et, pour les centres de chiens-guides, d'un instructeur en locomotion diplômé.
+Le centre doit s'assurer le concours d'un vétérinaire habilité et d'un médecin. Il peut, en tant que de besoin, s'assurer du concours d'un psychologue, d'un travailleur social et d'un instructeur en locomotion diplômé.
 
 V. - Matériel
 
-Le centre doit disposer du matériel indispensable à la préparation de la nourriture, à l'éducation, à l'entretien, aux soins et au transport des chiens.
-
-Il doit disposer de matériel de bureau et de communication et de matériel audiovisuel.
-
-Il doit disposer d'un moyen de communication d'urgence avec le gardien.
+Le centre doit disposer du matériel indispensable à la préparation de la nourriture, à l'éducation, à l'entretien, aux soins et au transport des chiens, pour les périodes où les chiens en éducation sont sous sa responsabilité.
 
 Chapitre 2
 
-Dispositions relatives aux centres d'éducation
-
-de chiens-guides d'aveugles
+Modalités d'éducation des chiens-guides d'aveugles
 
 Le but des centres d'éducation de chiens-guides d'aveugles est de remettre aux personnes handicapées visuelles des chiens-guides de la meilleure qualité possible, et qui correspondent le mieux aux besoins de chacune d'elle. La personne aveugle ou malvoyante doit pouvoir, avec son chien-guide, circuler facilement et en sécurité.
 
@@ -72,13 +72,13 @@ La formation de l'équipe " personne aveugle - chien-guide " s'organise en plusi
 
 - la prééducation du chiot en famille d'accueil, de 2 mois à 1 an ;
 
-- l'éducation du chien en centre, pour une durée de 6 mois ;
+- l'éducation du chien par le centre, pour une durée de 6 mois ;
 
 - la formation et le suivi de l'équipe " personne aveugle - chien-guide ", jusqu'à la mise en retraite du chien.
 
 Ces durées peuvent varier en fonction du chien à éduquer.
 
-Le centre doit proposer, à proximité immédiate de ses locaux, une solution d'hébergement aux stagiaires permettant une intervention rapide en cas de difficulté de ceux-ci. Lorsque le centre assure lui-même l'hébergement du stagiaire, celui-ci doit disposer d'une chambre équipée de sanitaires pouvant accueillir un couple et avoir accès à une salle commune.
+Durant les stages, le centre offre aux stagiaires une solution d'hébergement décent à proximité immédiate du lieu de stage, afin de permettre une intervention rapide en cas de difficultés.
 
 I. - Le chien-guide d'aveugles
 
@@ -166,9 +166,9 @@ II. - La famille d'accueil
 
 1. Définition de la famille d'accueil
 
-La famille d'accueil, dans son ensemble, s'engage bénévolement à socialiser, selon des données fournies par le centre d'éducation de chiens-guides d'aveugles, un chiot qui lui est confié de l'âge de 8 semaines à 12 mois et plus si nécessaire.
+La famille d'accueil, dans son ensemble, s'engage bénévolement à socialiser, selon des données fournies par le centre d'éducation de chiens-guides d'aveugles, un chiot qui lui est confié.
 
-Des chiens en éducation, de 12 à 18 mois environ, qui sont rentrés au centre d'éducation de chiens-guides d'aveugles pour leur formation peuvent également être confiés à sa famille d'accueil pour les week-ends et les vacances.
+Des chiens en séjours en centre d'éducation de chiens-guides d'aveugles pour leur formation peuvent également être confiés à leurs familles d'accueil pour les week-ends et les vacances.
 
 Il importe que la famille d'accueil assure au chiot stabilité et équilibre pour un bon développement psychologique.
 
@@ -180,7 +180,7 @@ Disponibilité et nécessité d'une présence constante les premiers mois.
 
 Situation géographique adéquate suivant la région, à une distance raisonnable permettant des contacts fréquents avec le centre d'éducation de chiens-guides d'aveugles.
 
-Facilité de déplacement du tuteur désigné dans la famille d'accueil, qui devra amener le chiot au centre d'éducation de chiens-guides d'aveugles pour des séjours.
+Facilité de déplacement du tuteur désigné dans la famille d'accueil.
 
 Sens du bénévolat, motivation et désir d'appliquer les consignes données par le centre d'éducation de chiens-guides.
 
@@ -218,7 +218,7 @@ Ce contrat rappelle :
 
 - les engagements du centre, propriétaire du chiot, quant à la prise en charge des frais d'alimentation et vétérinaires ;
 
-- les modalités de suivi du chiot : réunions, stages au centre ;
+- les modalités de suivi du chiot : réunions, stages ;
 
 - la liberté du centre quant à la reprise éventuelle du chiot ou sa réforme.
 
@@ -226,7 +226,7 @@ Ce contrat rappelle :
 
 Suivi mensuel de la famille d'accueil par son référent dans le centre, ce qui permet de noter l'évolution du chiot sur un carnet de suivi.
 
-A partir de l'âge de 5 mois, le chiot revient au centre quelques jours par mois, afin de l'adapter à la vie en chenil, de noter son comportement sur le terrain en fonction de son nouvel environnement, de commencer sa prééducation et enfin d'aider au détachement de la famille d'accueil.
+Lorsque le projet du centre prévoit le séjour des chiens en établissement, à partir de l'âge de 5 mois, le chiot revient au centre quelques jours par mois, afin de l'adapter à la vie en chenil, de noter son comportement sur le terrain en fonction de son nouvel environnement, de commencer sa prééducation et enfin d'aider au détachement de la famille d'accueil.
 
 8. Protocole vétérinaire
 
@@ -352,8 +352,6 @@ Avant ce stage aussi appelé " stage de remise ", un préstage de deux à trois 
 
 La durée du stage est en moyenne de deux à trois semaines, dont quinze jours consécutifs, réparties selon les aptitudes d'apprentissage du stagiaire. Le stage se décompose de la façon suivante :
 
-a) Au centre :
-
 Constitution de l'équipe personne handicapée visuelle - chien-guide.
 
 Initiation théorique et pratique à l'utilisation du chien-guide d'aveugles :
@@ -367,8 +365,6 @@ Initiation théorique et pratique à l'utilisation du chien-guide d'aveugles :
 - historique du chien-guide attribué ;
 
 - jeu, comportement et obéissance du chien.
-
-b) Au domicile de la personne handicapée visuelle :
 
 - intégration du chien-guide à l'environnement quotidien de la personne déficiente visuelle ;
 
