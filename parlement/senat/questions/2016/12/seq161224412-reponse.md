@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224412
+
+- Question : [SEQ161224412](seq161224412.md) — Aide aux maires bâtisseurs et communes éligibles
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-05-11, page 1853*
+
+Le dispositif d'aide aux communes participant à l'effort de construction de logements dit d'« aide aux maires bâtisseurs » a été reconduit en 2016, dans les mêmes conditions que celles de l'année précédente définies par le décret n° 2015-734 du 24 juin 2015, et complétées par l'arrêté du 23 septembre 2015. Conformément à l'article 1 du décret susvisé, les communes éligibles au titre de l'année 2016 sont celles qui, au 31 décembre 2015, remplissaient les trois critères suivants : être situées en zones A, Abis ou B1 au sens du zonage relatif au dispositif d'investissement locatif « Pinel », disposer d'un potentiel financier par habitant inférieur à 1 030 € et ne pas faire l'objet d'un arrêté de carence en matière de réalisation de logements de sociaux pris en vertu de l'article L. 302-9-1 du code de la construction et de l'habitation. Les communes couvertes par une opération d'intérêt national sur au moins 20 % de leur territoire ou celles signataires d'un contrat de développement territorial bénéficient d'une majoration du potentiel financier par habitant de référence à 7 000 € pour vérifier les conditions d'éligibilité. Parmi les 1 200 communes éligibles, 532 communes ont bénéficié d'une aide de 1 320 € en 2016 pour tout logement autorisé au cours du second semestre 2015 au-delà du seuil de construction fixé à 0,5 % du parc de logements existants. Les montants de l'aide accordée par commune pour 2016 ont été fixés par un arrêté pris en date du 7 septembre 2016 et publié au journal officiel le 14 septembre 2016. (https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033117819&fastPos=1&fastReqId=1141737868&categorieLien=id&oldAction=rechTexte).
