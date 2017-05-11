@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018299
+
+- Question : [SEQ151018299](seq151018299.md) — Problèmes de la distribution numérique de l'industrie touristique
+
+## Réponse
+
+*Affaires étrangères, JO du 2017-05-11, page 1698*
+
+Constamment à la recherche d'une concurrence saine et équitable entre tous les acteurs de l'hébergement touristique marchand, le MAEDI a soutenu les diverses avancées législatives visant à encadrer sans étouffer le développement les plateformes numériques proposant une offre alternative d'hébergement touristique : - la loi pour une République numérique promulguée le 7 octobre 2016 permet aux communes situées en « zones tendues » (soit 28 agglomérations de plus de 50 000 habitants) de mettre en place une procédure d'enregistrement du loueur par télé-déclaration. En outre, les plateformes sont tenues de veiller à ce que la résidence principale ne soit pas louée plus de 120 jours par an et devront informer les communes du nombre de nuits occupées ; - la loi de financement de la sécurité sociale promulguée le 23 décembre 2016 prévoit que la location régulière d'appartements ou de biens entre particuliers, au-delà d'un certain seuil, devient assimilable à des revenus d'activité assujettis aux prélèvements sociaux. Pour la location régulière d'un logement, le seuil est fixé à 23 000 euros de recettes annuelles. Pour la location de biens, comme la voiture, le seuil est de 3 860 euros ; - enfin, la loi de finances rectificative pour 2016 dispose qu'à compter de 2019, les plateformes en ligne se verront imposer une déclaration automatique au fisc des revenus de leurs utilisateurs. Non seulement, le MAEDI sera attentif à l'adoption des décrets d'application correspondants, mais continuera, pour toutes ses actions contenant un enjeu hébergement touristique, à promouvoir le dialogue et la négociation entre les parties.
