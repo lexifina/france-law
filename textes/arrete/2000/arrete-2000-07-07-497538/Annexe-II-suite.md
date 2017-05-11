@@ -684,7 +684,7 @@ Mac Gregor Comarain, porte 4, cap Janet, BP 3, 13314 Marseille Cedex 15 ; de 194
 
 Macor Marine/Macor Neptun :
 
-- 6, rue des Frères-Cubeddu, 13014 Marseille : depuis 1985.
+- 6, rue des Frères-Cubeddu, 13014 Marseille : De 1985 à 2004.
 
 Maintenance et applications techniques, ZI Les Paluds, 13400 Aubagne : de 1980 à 1983.
 
