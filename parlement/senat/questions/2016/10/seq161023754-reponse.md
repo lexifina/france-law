@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161023754
+
+- Question : [SEQ161023754](seq161023754.md) — Pouvoir d'un directeur de la publication d'un bulletin d'information d'une collectivité territoriale
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2017-05-11, page 1737*
+
+Dans son arrêt du 20 mai 2016, Commune de Chartres (n° 387144), le Conseil d'Etat a réaffirmé que si le maire n'avait pas, en principe, à contrôler la teneur des articles insérés par les conseillers d'opposition dans un bulletin d'information municipale, il pouvait, en tant que directeur de la publication, s'opposer à des articles présentant un caractère outrageant, diffamatoire ou injurieux. De même, les informations diffusées doivent rester dans les limites des attributions légales détenues par le responsable de l'information de la commune (CE, 11 mai 1987, Divier, n° 62459). Les articles insérés par l'opposition municipale dans ledit bulletin sont donc tenus de respecter ces limites au même titre que les autres articles. Toutefois, l'article L. 2121-27-1 du code général des collectivités territoriales (CGCT) renvoie au règlement intérieur le soin de fixer « les modalités d'application » de ces dispositions. Or, il s'agit d'une notion restrictive, qui limite le pouvoir de l'assemblée délibérante à déterminer les règles de procédure à suivre pour mettre en œuvre le droit d'insertion. Le règlement intérieur ne peut donc ni limiter le droit d'expression des élus, ni subordonner le contenu des insertions au respect de conditions particulières. Ainsi, l'arrêt Commune de Chartres précité a confirmé l'arrêt de la cour administrative d'appel en ce qu'il avait censuré le refus du maire de publier une tribune de l'opposition, qu'il avait motivé par le fait que celle-ci n'était pas en rapport avec les affaires de la commune, mais avait trait à un problème de politique nationale.
