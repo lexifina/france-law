@@ -348,7 +348,7 @@ et article 2, 2e alinéa.
 
 |
 
-Mesure prise par les ministres chargés de la marine marchande et de l'économie
+Mesure prise par le ministre chargé de la marine marchandeet par le ministre chargé des douanes et par le ministre chargé des douanes
 
 Code des douanes
 
@@ -356,11 +356,27 @@ Code des douanes
 
 |
 
-Francisation provisoire des navires de commerce.
+Agrément spécial accordant la francisation d'un navire de commerce ou de plaisance .
 
 |
 
-Article 219, paragraphe 1er (3°).
+3° du I de l'article 219.
+
+|
+
+Mesure prise par le ministre chargé de la pêche maritime
+
+Code des douanes
+
+1
+
+|
+
+Agrément spécial accordant la francisation d'un navire de pêche.
+
+|
+
+3° du I de l'article 219 bis du code des douanes.
 
 |
 
@@ -587,6 +603,22 @@ Désignation des organismes d'évaluation technique européenne des produits de 
 |
 
 Article 4
+
+|
+
+Mesure prise par les ministres chargés de la construction et de l'architecture
+
+Décret n° 2017-1044 du 10 mai 2017 portant expérimentation en matière de construction.
+
+1
+
+|
+
+Décisions permettant de déroger, à titre expérimental, à certaines règles de construction.
+
+|
+
+Articles 3 et 4.
 
 |
 
