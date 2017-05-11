@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224159
+
+- Question : [SEQ161224159](seq161224159.md) — Nuisances sonores liées au chantier de l'autoroute A4 dans la commune de Failly
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-05-11, page 1806*
+
+Le contrat de concession de l'autoroute A4 prévoit l'élargissement de la section entre la Croix de Hauconcourt (A4/A31) et l'échangeur A4/A315 dès lors que le trafic atteint 42 000 véhicules/jour. Ce seuil étant désormais atteint, avec des pics à 56 000 véhicules/jour, la mise à 2x3 voies doit être étudiée afin d'améliorer les conditions de circulation de cette section qui supporte non seulement le trafic de transit de l'A4, mais également les trafics d'échange entre l'A31 et l'A4 ainsi que le trafic local. Cette opération, qui s'inscrit dans le plan de relance autoroutier du 23 août 2015 conclu avec la Société des autoroutes du Nord et de l'Est de la France (Sanef), offre la possibilité de mettre aux nouvelles normes environnementales la section concernée, mise en service en 1971. Les dispositifs réglementaires actuels en matière de préservation de l'environnement et de développement durable permettent en effet de prendre en compte les nouvelles normes en faveur de la protection de la ressource en eau et de lutte contre le bruit. Le code de l'environnement prévoit, préalablement à la déclaration d'utilité publique, la réalisation d'une enquête publique dont l'objectif est d'informer le public et de recueillir ses avis et suggestions éventuelles. Le projet d'élargissement dont la Sanef assure la maîtrise d'ouvrage, est actuellement en phase d'études. La Sanef a déjà réalisé l'analyse des environnements acoustique et hydraulique. Elle envisage d'engager dès le premier trimestre 2017 une phase d'échanges au niveau local, précédant l'enquête publique qui devrait se tenir à la fin de l'année 2017, favorisant ainsi la concertation avec le public notamment avec la population de Failly.
