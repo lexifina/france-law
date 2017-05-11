@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161123991
+
+- Question : [SEQ161123991](seq161123991.md) — Conseil d'administration d'un centre communal d'action sociale
+
+## Réponse
+
+*Intérieur, JO du 2017-05-11, page 1826*
+
+Aux termes de l'article L. 123-6 du code de l'action sociale et des familles, le conseil d'administration d'un centre communal d'action sociale (CCAS) comprend des membres élus en son sein à la représentation proportionnelle par le conseil municipal ainsi que, en nombre égal, des membres nommés par le maire. L'article R. 123-7 du même code vient préciser cette composition : il prévoit que le conseil d'administration comprend en nombre égal au maximum huit membres élus et huit membres nommés. Le nombre de membres du conseil d'administration du CCAS est fixé par délibération du conseil municipal. Ainsi, bien que les membres du conseil d'administration soient élus ou nommés pour la durée du mandat du conseil municipal, comme le prévoit la loi, celui-ci peut, par délibération, modifier le nombre de membres du conseil d'administration du CCAS en cours de mandat. Les membres élus du conseil d'administration le sont au scrutin de liste, à la représentation proportionnelle au plus fort reste, sans panachage ni vote préférentiel (article R. 123-8 du code de l'action sociale et des familles). Afin de respecter cette règle de la représentation proportionnelle, et pour permettre l'expression pluraliste des élus municipaux, l'élection doit donc être effectuée sur la base de l'ensemble des sièges. Par conséquent, en cas d'augmentation du nombre de membres au sein du conseil d'administration du CCAS, il doit être procédé à une élection générale de l'ensemble des membres et non à une élection complémentaire pour les seuls nouveaux sièges créés. Par ailleurs, afin de respecter le paritarisme du conseil d'administration du CCAS, le maire devra aussi nommer de nouveaux membres en proportion égale à celle de l'augmentation du nombre de membres élus.
