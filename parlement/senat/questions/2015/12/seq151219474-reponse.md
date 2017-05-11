@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219474
+
+- Question : [SEQ151219474](seq151219474.md) — Travaux de mise aux normes pour l'accessibilité
+
+## Réponse
+
+*Logement et habitat durable, JO du 2017-05-11, page 1844*
+
+Les nouvelles mesures simplificatrices relatives à l'accessibilité des personnes handicapées aux établissements recevant du public (ERP), situés dans un cadre bâti existant et aux installations ouvertes au public existantes, sont entrées en vigueur avec le décret n° 2014-1326 du 5 novembre 2014 modifiant les dispositions du code de la construction et de l'habitation, complété par l'arrêté du 8 décembre 2014. Les mesures ainsi retenues faisaient suite à la concertation organisée avec l'ensemble des acteurs et coordonnée par la sénatrice Claire-Lise Campion. Au-delà de la publication des textes, il a été demandé aux services instructeurs d'utiliser toutes les marges de manœuvre autorisées par ces textes et d'en livrer une interprétation facilitatrice pour simplifier et accélérer la mise en œuvre des projets. Néanmoins, afin de permettre l'instruction d'une autorisation de travaux, certaines pièces justificatives sont nécessaires. En effet, la notice d'accessibilité explique notamment comment l'ERP répond aux exigences d'accessibilité. Accompagnée des plans, elle permet à l'instructeur de déterminer si l'ERP respecte ou non les objectifs fixés par la loi. De plus, les plans montrent les largeurs de passage, la présence d'escaliers, les espaces nécessaires à une personne en fauteuil roulant, éléments nécessaires à une bonne instruction du dossier. Un plan type indiquant la hauteur sous plafond peut suffire. Enfin, l'absence de pièces constitutives d'un dossier de demande d'autorisation de travaux, ne vaut pas son refus, mais entraîne une demande de complément du dossier qui, de fait, suspend son instruction. Un délai d'un mois est accordé au pétitionnaire afin qu'il puisse compléter son dossier.
