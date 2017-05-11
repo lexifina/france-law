@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622175
+
+- Question : [SEQ160622175](seq160622175.md) — Taux d'anomalies en matière de réglementation relative à l'étiquetage énergétique
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2017-05-11, page 1749*
+
+Les services de la concurrence, de la consommation et de la répression des fraudes procèdent chaque année à une enquête visant à contrôler l'application de la réglementation relative à l'étiquetage énergétique des produits liés à l'énergie auprès de distributeurs (réseaux traditionnels ou sites internet) et de fournisseurs d'équipements électriques et électroniques. Les résultats des investigations effectuées révèlent effectivement des insuffisances dans la mise en œuvre du décret n° 2011-1479 du 9 novembre 2011 relatif à l'étiquetage énergétique des produits ayant une incidence sur la consommation d'énergie et des règlements d'application de la directive n° 2010/30/UE du Parlement et du Conseil du 19 mai 2010. En 2015, les manquements constatés aux obligations réglementaires concernaient à la fois des produits dont le règlement délégué était récemment entré en application mais également des produits assujettis à cette réglementation depuis plusieurs années. Dans ces conditions, il a été décidé, d'une part, d'adresser un courrier aux principales fédérations de fournisseurs et de distributeurs de produits électriques et électroniques afin de rappeler les obligations qui s'imposent à leurs adhérents en la matière et de mener une enquête qui a eu lieu en 2016. Compte tenu des résultats une nouvelle enquête a été programmée pour 2017. La direction générale de la concurrence, de la consommation et de la répression des fraudes poursuivra ses contrôles tant que la réglementation ne sera pas correctement appliquée par les opérateurs dans ce domaine.
