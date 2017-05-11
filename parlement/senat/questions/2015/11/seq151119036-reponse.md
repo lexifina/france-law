@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151119036
+
+- Question : [SEQ151119036](seq151119036.md) — Contrôle de la frontière franco-belge
+
+## Réponse
+
+*Économie et finances, JO du 2017-05-11, page 1795*
+
+Les fiches « sûreté de l'État », dites fiches S sont consultables via le fichier des personnes recherchées (FPR). Le FPR est un fichier géré et alimenté par le ministère de l'intérieur. Dans le cadre de ses contrôles, la douane accède au FPR via le portail JUDIWEB mis à sa disposition par la gendarmerie nationale. Dans le cadre de la mission migratoire assurée par la direction générale des douanes et droits indirects (DGDDI) en complémentarité avec la direction centrale de la police aux frontières (DCPAF), l'administration des douanes a en charge actuellement le contrôle de 82 points de passage frontalier (PPF) et procède ainsi à la vérification des visas grâce à l'application VIS-VISABIO. À l'occasion de ces contrôles, la douane sera informée de l'existence d'une fiche S à l'encontre d'une personne via son passage au FPR. Dans le cadre de leurs contrôles à l'intérieur du territoire, les services douaniers de la surveillance peuvent être amenés, en cas de suspicion, à demander le passage d'un individu au FPR. Dans ce type de situation, ce sont les services en charge du soutien opérationnel et de la sécurité des unités sur le terrain (centres opérationnels douaniers terrestres ou centres de liaison inter-services) qui procèdent à la consultation du fichier au bénéfice des agents en contrôle ; ces derniers seront ainsi informés de l'existence d'une fiche S à l'encontre de l'individu qui fait l'objet du passage FPR. Les individus qui font l'objet d'une fiche S et intéressant les autorités des États signataires de la convention de Schengen sont repris au système d'information Schengen (SIS) auquel est relié le FPR. Par conséquent, les autorités belges chargées de la sécurité et des contrôles à la frontière française ont accès à ces données via le SIS.
