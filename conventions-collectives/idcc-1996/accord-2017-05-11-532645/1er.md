@@ -1,0 +1,9 @@
+# Article 1er
+
+Une procédure de mise en concurrence préalable à la recommandation d'un ou plusieurs organismes chargés d'assurer les régimes de prévoyance et de frais de soins de santé des salariés de la pharmacie d'officine sera organisée, au plus tard 6 mois après l'entrée en vigueur du présent accord, dans les conditions prévues aux articles D. 912-1 et suivants du code de la sécurité sociale.
+
+Dans le cadre de cette recommandation, les parties signataires institueront des garanties collectives présentant un degré élevé de solidarité telles que définies à l'article L. 912-1 du code de la sécurité sociale. Ces garanties seront financées de façon mutualisée pour l'ensemble des pharmacies d'officine dans le cadre d'un fonds dont la gestion sera confiée à un organisme choisi au terme d'une procédure de mise en concurrence organisée dans les conditions visées à l'alinéa premier du présent article.
+
+La mise en œuvre de la procédure de mise en concurrence, dont est chargée la commission paritaire nationale de la pharmacie d'officine conformément aux dispositions de l'article D. 912-1 du code de la sécurité sociale, sera déléguée à la sous-commission « Prévoyance » de la pharmacie d'officine. À cet effet, la sous-commission « Prévoyance » de la pharmacie d'officine sera assistée d'un cabinet d'actuariat ainsi que, le cas échéant, de tout autre expert désigné à raison de son expérience professionnelle.
+
+Conformément aux dispositions de l'article D. 912-2 du code de la sécurité sociale, toutes les réunions organisées dans le cadre de cette procédure de mise en concurrence feront l'objet d'un compte rendu soumis à l'approbation des membres de la sous-commission « Prévoyance » de la pharmacie d'officine, à la majorité du nombre d'organisations syndicales et professionnelles présentes, tous collèges confondus, sans qu'il soit tenu compte des abstentions éventuelles.
