@@ -58,6 +58,10 @@ Pour l'année 2016
 
 |
 
+Pour l'année 2017 |
+
+5,50 |
+
 Ce taux est également applicable au corps des professeurs des écoles du corps de l'Etat créé
 
 pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003.
@@ -220,10 +224,10 @@ des directeurs de centre d'information et d'orientation et conseillers d'orienta
 
 |
 
-Directeur de centre d'information et d'orientation
+Directeurs des centres d'information et d'orientation
 
 |
 
-2,40
+7,00
 
 |
