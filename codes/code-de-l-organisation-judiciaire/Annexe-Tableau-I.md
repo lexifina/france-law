@@ -406,7 +406,7 @@ Blanche, plissée. |
 
 Solennelle (et cérémonies publiques). |
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches. |
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : rouge, à grandes manches. |
 
 Comme ci-dessus. |
 
@@ -414,7 +414,7 @@ Comme ci-dessus. |
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. |
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or. |
 
 Comme ci-dessus. |
 
@@ -452,7 +452,9 @@ Blanche, plissée. |
 
 Solennelle (et cérémonies publiques). |
 
-Comme ci-dessus. |
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.
+
+|
 
 Comme ci-dessus. |
 
@@ -460,7 +462,9 @@ Comme ci-dessus. |
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Comme ci-dessus. |
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.
+
+|
 
 Comme ci-dessus. |
 
