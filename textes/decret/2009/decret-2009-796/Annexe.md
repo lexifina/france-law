@@ -88,7 +88,7 @@ I. ― Une télévision citoyenne
 
 Article 35. ― L'honnêteté et le pluralisme de l'information
 
-Article 35-1. - Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes
+Article 35-1. – Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes
 
 Article 36. ― La dignité de la personne humaine et la protection des mineurs
 
@@ -228,9 +228,7 @@ France 3 reflète la diversité de la vie économique, sociale et culturelle en 
 
 La programmation de France 3 assure une information nationale, régionale et locale. Elle s'attache à développer en particulier une information de proximité et rend compte des événements régionaux et locaux. Un bulletin d'information sur l'outre-mer est programmé en semaine sur l'antenne de France 3, à une heure d'écoute appropriée ;
 
-3° France 4 : chaîne de la jeunesse et des nouvelles générations, dont la vocation est d'attirer et de fidéliser les jeunes et les jeunes adultes en exposant les nouveaux talents des scènes actuelles (musique et spectacle). Ses programmes proposent aux nouvelles générations un espace de partage et de reconnaissance.
-
-France 4 renforce son engagement en faveur de l'innovation et de la création par la mise à l'antenne de nouveaux formats. France 4 a également vocation à prendre les risques nécessaires aux avancées éditoriales de la société ;
+3° France 4 : chaîne de la jeunesse et de la famille, dont la vocation est de s'adresser aux enfants, aux jeunes et à leurs parents en contribuant à renforcer le lien entre ces générations. La programmation de France 4 accorde une place privilégiée aux programmes français et particulièrement aux œuvres françaises d'animation. Ses programmes favorisent notamment l'éveil, la curiosité et l'apprentissage de la citoyenneté en conjuguant approche éducative et divertissement ;
 
 4° France 5 : chaîne du décryptage, du partage des savoirs et de la transmission des connaissances. Ses programmes contribuent à la découverte et à la compréhension du monde, en s'attachant tout particulièrement aux registres des sciences et techniques, des sciences humaines, de l'environnement et du développement durable ;
 
@@ -250,17 +248,15 @@ Elle veille à la qualité éditoriale et à la diversité du contenu de ses pro
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
-5° Réseau France outre-mer désigne un ensemble de services de télévision et de radio, diffusés en outre-mer et sur le territoire métropolitain.
+5° Outre-mer 1ère : services régionaux généralistes de télévision et de radio diffusés en outre-mer qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
 
-Réseau France outre-mer assure également la continuité territoriale des programmes des services de télévision et de radio édités par les sociétés nationales de programme ou leurs filiales répondant à des missions de service public, de la métropole vers l'outre-mer et de l'outre-mer vers la métropole.
+France Télévisions assure également la continuité territoriale des programmes des services de télévision et de radio édités par les sociétés nationales de programme ou leurs filiales répondant à des missions de service public, de la métropole vers l'outre-mer et de l'outre-mer vers la métropole.
 
-Les Télé Pays et Radio Pays sont des services régionaux généralistes qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
+La programmation quotidienne des Outre-mer 1ère comprend des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Ces services programment des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs spécificités économiques et sociales.
 
-Chaîne de la mixité et de la diversité culturelle, France Ô offre une vitrine de choix à toutes les composantes qui participent de l'identité de la communauté nationale, en particulier aux populations ultra-marines. L'accent est notamment porté sur les magazines, le débat citoyen et les spectacles vivants.
+La société veille à ce que les autres services de télévision qu'elle édite intègrent des programmes des Outre-mer 1ère à des heures d'écoute favorable et rendent compte de la vie économique, sociale et culturelle en outre-mer. Dans le même but, elle peut conclure avec la société Radio France une convention ;
 
-A travers la programmation de Réseau France outre-mer, France Télévisions diffuse quotidiennement sur les services destinés aux populations d'outre-mer des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Elle programme des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs caractéristiques économiques et sociales. Les sujets et émissions produits pour être diffusés sur ces services peuvent être diffusés sur les autres services qu'elle édite.
-
-La société veille à ce que les autres services de télévision qu'elle édite intègrent des programmes de Réseau France outre-mer à des heures d'écoute favorable et rendent compte de la vie économique, sociale et culturelle en outre-mer. Dans le même but, elle peut conclure avec la société Radio France une convention ;
+5° bis France Ô : chaîne des outre-mer qui contribue au partage et à la diffusion des identités, des cultures et de l'actualité des outre-mer, en s'appuyant notamment sur les services mentionnés au 5° et en développant des productions ultra-marines ;
 
 6° France Télévisions édite, directement ou à travers des filiales, des services de médias audiovisuels à la demande qui permettent une nouvelle mise à disposition auprès du public de ses programmes télévisés et qui, d'une manière plus générale, proposent une offre de contenus de complément.
 
@@ -306,11 +302,11 @@ France Télévisions diffuse régulièrement des émissions à caractère musica
 
 Dans ses programmes de variétés, la société donne une place majoritaire à la chanson d'expression française et développe une politique de grands événements, de nouvelles écritures télévisuelles et d'émissions régulières.
 
-Elle s'attache à présenter les nouveaux talents et leur permet d'interpréter leur propre répertoire, notamment dans leur expression régionale sur France 3 et RFO. Elle s'efforce de diversifier l'origine des œuvres étrangères diffusées.
+Elle s'attache à présenter les nouveaux talents et leur permet d'interpréter leur propre répertoire, notamment dans leur expression régionale sur France 3 et les Outre-mer 1ère. Elle s'efforce de diversifier l'origine des œuvres étrangères diffusées.
 
 En outre, la société diffuse chaque année des concerts de musique classique interprétés par des orchestres européens et français, nationaux et régionaux, parmi lesquels figurent ceux de Radio France dans des conditions conjointement définies entre les deux sociétés.
 
-Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France, notamment sur France 4, ou en région sur France 3 et sur RFO.
+Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France, notamment sur France 4, sur France Ô ou en région sur France 3 et sur les Outre-mer 1ère.
 
 Article 6
 
@@ -362,7 +358,7 @@ Article 8
 
 Les programmes sportifs
 
-France Télévisions s'efforce de conserver la diffusion en direct sur France 2, France 3, France 4 ou RFO des événements sportifs d'importance majeure ou qui font partie du patrimoine national (Tour de France, jeux Olympiques, Roland Garros, Tournoi des six nations, football, etc.) sans pour autant omettre de proposer un très large éventail de disciplines sportives.
+France Télévisions s'efforce de conserver la diffusion en direct sur France 2, France 3, France 4, France Ô ou les Outre-mer 1ère des événements sportifs d'importance majeure ou qui font partie du patrimoine national (Tour de France, jeux Olympiques, Roland Garros, Tournoi des six nations, football, etc.) sans pour autant omettre de proposer un très large éventail de disciplines sportives.
 
 Dans ses programmes régionaux, elle porte une attention particulière aux manifestations sportives locales et régionales.
 
@@ -418,7 +414,13 @@ Elle porte globalement sur le chiffre d'affaires réalisé par les services suiv
 
 A la condition que France Télévisions en informe le Conseil supérieur de l'audiovisuel avant le 1er juillet de chaque année, pourra également être pris en compte le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques.
 
-Pour la part de la contribution consacrée au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés.
+Pour la part de la contribution consacrée au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre en vertu du deuxième alinéa du 1° de l'article 15 du décret du 2 juillet 2010 précité, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
+
+-la négociation des mandats de commercialisation et des droits secondaires ;
+
+-l'acquisition des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution ;
+
+-l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
 
 Pour la part de la contribution qui n'est pas consacrée au développement de la production indépendante et qui est réalisée avec des entreprises de production indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010, la durée des droits de diffusion acquis à titre exclusif est limitée à quatre ans. Toutefois, pour les œuvres d'animation, la durée des droits de diffusion est celle figurant dans l'annexe relative à l'étendue des droits cédés. Les dépenses de France Télévisions en parts de producteur n'excèdent pas la moitié de son investissement total dans une œuvre et le droit à recettes attaché correspond à l'investissement en parts de producteur rapporté au coût définitif de l'œuvre. France Télévisions veille à respecter l'équilibre entre les différents genres qui résulte de son investissement dans le développement de la production audiovisuelle.
 
@@ -726,6 +728,8 @@ Lorsqu'une procédure judiciaire en cours est évoquée à l'antenne, la sociét
 
 La société conserve en toutes circonstances la maîtrise de son antenne conformément à son dispositif de contrôle interne.
 
+La société veille dans ses programmes à ne pas inciter à des pratiques ou comportements dangereux, délinquants ou inciviques.
+
 Article 35-1
 
 Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes.
@@ -768,7 +772,21 @@ Article 36
 
 La dignité de la personne humaine et la protection des mineurs
 
-France Télévisions veille au respect de la personne humaine et de sa dignité. Elle contribue, à travers ses programmes et son traitement de l'information et des problèmes de société, à la lutte contre les discriminations et les exclusions de toutes sortes.
+France Télévisions veille au respect de la personne humaine et de sa dignité.
+
+La société respecte les droits de la personne relatifs à sa vie privée, son image, son honneur et sa réputation tels qu'ils sont définis par la loi et la jurisprudence.
+
+La société veille en particulier :
+
+-à ce qu'il soit fait preuve de retenue dans la diffusion d'images ou de témoignages susceptibles d'humilier les personnes ;
+
+-à éviter la complaisance dans l'évocation de la souffrance humaine, ainsi que tout traitement avilissant ou rabaissant l'individu au rang d'objet ;
+
+-à ce que le témoignage de personnes sur des faits relevant de leur vie privée ne soit recueilli qu'avec leur consentement éclairé.
+
+Elle fait preuve de mesure lorsqu'elle diffuse des informations ou des images concernant une victime ou une personne en situation de péril ou de détresse.
+
+Elle contribue, à travers ses programmes et son traitement de l'information et des problèmes de société, à la lutte contre les discriminations et les exclusions de toutes sortes.
 
 La société s'abstient de diffuser des programmes susceptibles de nuire à l'épanouissement physique, mental ou moral des mineurs. A ce titre, la société s'abstient de diffuser des programmes comprenant des scènes de pornographie et de montrer, notamment dans les journaux télévisés, de la complaisance pour la violence.
 
@@ -1118,7 +1136,7 @@ La société adresse chaque année, avant le 30 avril, au ministre chargé de la
 
 La société communique au Conseil supérieur de l'audiovisuel toutes les informations que ce dernier juge nécessaires pour s'assurer qu'elle respecte ses obligations légales et réglementaires ainsi que celles résultant du présent cahier des charges. A cette fin, la société conserve trois mois au moins un enregistrement des émissions qu'elle diffuse ainsi que les conducteurs de programmes correspondants.
 
-Annexe : étendue des droits cédés par genre d'œuvre
+Annexe : Etendue des droits cédés par genre d'œuvre
 
 1. Œuvres de fiction :
 
@@ -1327,3 +1345,81 @@ Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en F
 (10) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
 
 |
+
+Annexe : Conditions d'acquisition des mandats de commercialisation et des droits secondaires d'une œuvre pour laquelle France Télévisions détient des parts de producteur dans la partie indépendante de sa contribution à la production audiovisuelle et conditions d'exploitation des droits de diffusion de cette œuvre à l'issue de la période initiale des droits de diffusion. – Mise en œuvre des b, c et d du 1° de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre
+
+Les conditions précisées ci-dessous prennent en compte les engagements réciproques souscrits par France Télévisions et les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles dans le cadre d'un accord conclu le 24 mai 2016.
+
+1. Négociation des mandats de commercialisation et des droits secondaires
+
+La négociation doit respecter les conditions équitables, transparentes et non discriminatoires suivantes.
+
+1.1. Engagements généraux
+
+L'acquisition des mandats de commercialisation et des droits secondaires fait l'objet d'une négociation et d'un contrat distincts du contrat de coproduction de l'œuvre.
+
+France Télévisions s'engage à ce qu'aucune clause relative à une attribution des mandats de commercialisation à ses filiales ne soit incluse dans les contrats de développement ou de coproduction.
+
+1.2. Mécanisme d'attribution des mandats de commercialisation et de cession des droits secondaires
+
+1.2.1. A compter de la réception par France Télévisions de la notification écrite du producteur délégué lui indiquant, ainsi qu'aux distributeurs tiers sollicités, le démarrage de la procédure d'attribution, la filiale de distribution de France Télévisions dispose d'un délai de quinze jours ouvrés pour émettre une offre. L'absence de réponse dans ce délai équivaut à une renonciation à se positionner. Le producteur peut abréger ce délai si tous les distributeurs sollicités, en ce compris la filiale de distribution de France Télévisions, ont remis leur offre avant son terme.
+
+Cette offre devra comporter au minimum les éléments suivants :
+
+– montant du ou des minima garantis, le cas échéant ;
+
+– périmètre des droits ;
+
+– liste des territoires concernés ;
+
+– durée du contrat ;
+
+– taux de commission/ taux de redevance/ frais éventuels.
+
+L'offre peut également comporter des éléments d'information sur la stratégie commerciale envisagée au service de la commercialisation de l'œuvre et sur l'historique de distribution du distributeur.
+
+1.2.2. Le délai fixé ci-dessus est prorogé d'autant quand il court durant la période allant du 1er août au 15 août et du 24 décembre au 1er janvier suivant.
+
+1.2.3. Le mécanisme tel que décrit ci-dessus s'applique pour la cession des différents droits secondaires de l'œuvre.
+
+1.2.4. Dans le cadre du mécanisme d'attribution des mandats de commercialisation, France Télévisions doit disposer, au moment du contrôle par le Conseil supérieur de l'audiovisuel (CSA) de la déclaration relative à ses dépenses au regard de son obligation de contribution au développement de la production audiovisuelle, des notifications démontrant que le producteur a sollicité au moins un distributeur tiers.
+
+1.2.5. En cas de vente des droits de diffusion de l'œuvre à l'une des chaînes du groupe France Télévisions, la filiale de distribution de celui-ci s'engage à faire valider le prix et les conditions de cession (durée, exclusivité, nombre de multidiffusions, etc.) préalablement par le producteur délégué.
+
+Le producteur délégué dispose d'un délai de 10 jours ouvrés pour répondre, l'absence de réponse pendant ce délai valant acceptation.
+
+En cas de refus de l'offre qui lui a été soumise par le producteur délégué dans ce délai, celui-ci peut prospecter le marché et doit obtenir une offre mieux-disante d'un autre diffuseur télévisuel dans un délai de 30 jours ouvrés suivant la notification du refus. A défaut d'obtenir une offre écrite mieux-disante d'un autre diffuseur télévisuel dans ce délai de 30 jours ouvrés, la filiale de distribution de France Télévisions peut conclure l'offre initiale.
+
+Si le producteur délégué obtient une offre mieux-disante dans le délai de 30 jours ouvrés, France Télévisions peut s'aligner sur cette offre ou, à défaut, la filiale de distribution de France Télévisions peut conclure l'offre mieux-disante avec le diffuseur télévisuel concerné.
+
+La filiale de distribution de France Télévisions ne peut précompter le droit à recettes attaché à la part de coproduction de celui-ci sur les sommes encaissées au titre de son mandat.
+
+2. Acquisition des mandats de commercialisation lorsque le producteur dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution
+
+2.1. Pour l'application des dispositions du 2.2, on entend par :
+
+2.1.1. Capacité de distribution interne : aptitude et faculté du producteur délégué à exploiter, conformément aux usages de la profession, via des moyens et ressources humaines disponibles au sein de son entreprise (salarié, gérant de société), les mandats de commercialisation ;
+
+2.1.2. Capacité de distribution par l'intermédiaire d'une filiale : aptitude et faculté du producteur délégué à exploiter, conformément aux usages de la profession, via des moyens et ressources humaines disponibles (salarié, gérant de société) au sein de toute société, en charge de la distribution ou de l'édition, contrôlée par le producteur ou par le groupe qui le contrôle, ou bien au sein d'une joint-venture de distribution ou d'édition détenue par le producteur délégué de l'œuvre et par un autre producteur avec lequel il en partage le contrôle, les mandats de commercialisation.
+
+2.1.3. Accord-cadre : contrat préexistant au contrat de coproduction, conclu entre un producteur audiovisuel et un distributeur de programmes audiovisuels, aux termes duquel le producteur s'engage à confier à titre exclusif au distributeur, en contrepartie le cas échéant du paiement par ce dernier d'une avance, pendant une durée déterminée, la commercialisation de l'ensemble de ses productions futures et le cas échéant par genre, par format, etc., dans une zone territoriale déterminée. Le distributeur, pour sa part, s'engage à distribuer toutes les œuvres du producteur relevant du périmètre visé.
+
+Les conditions de commercialisation de chaque œuvre en exécution de l'accord-cadre font l'objet d'un mandat de distribution spécifique.
+
+Ne constitue un accord-cadre, ni un accord ponctuel limité à un nombre prédéterminé d'œuvres, ni un droit d'option prioritaire sur tout ou partie des productions futures du producteur délégué.
+
+2.2. Dans le cadre du dispositif défini au 1.2 ci-dessus, France Télévisions peut détenir des mandats de commercialisation lorsque le producteur qui dispose pour cette œuvre d'une capacité de distribution, interne ou par l'intermédiaire d'une filiale, ou d'un accord-cadre conclu avec une entreprise de distribution choisit d'y renoncer dans les hypothèses suivantes :
+
+– si l'œuvre constitue la suite d'une série ou collection ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions avant l'entrée en vigueur du décret n° 2015-483 du 27 avril 2015 ;
+
+– si l'œuvre constitue la suite d'une série ou collection préachetée par France Télévisions entre l'entrée en vigueur du décret n° 2015-483 du 27 avril 2015 et le 24 mai 2016, ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions ;
+
+– si l'œuvre constitue la suite d'une série ou collection coproduite conformément au décret n° 2015-483 du 27 avril 2015 ayant fait l'objet d'un contrat de mandat conclu avec une filiale de France Télévisions ;
+
+– pour les œuvres coproduites à compter du 24 mai 2016, la renonciation du producteur délégué ne peut intervenir qu'après réception de la confirmation écrite de l'engagement chiffré de France Télévisions.
+
+Dans l'hypothèse où le producteur délégué décide de confier des mandats de distribution à la filiale de France Télévisions, cette dernière doit produire auprès du CSA la renonciation écrite et justifiée du producteur délégué dans le cadre de ses obligations de déclaration annuelle auprès du Conseil, en vue de permettre que l'œuvre concernée puisse être considérée comme relevant de la production indépendante.
+
+3. Exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés
+
+A l'exception des séries ou collections dont France Télévisions a acquis les droits de diffusion de nouveaux épisodes au plus tard à l'issue de la période initiale des droits de diffusion qui lui ont été cédés, France Télévisions s'engage à exploiter, dans un délai de dix-huit mois à compter de leur acquisition, les droits de diffusion de l'œuvre en France sur un service de télévision qu'il édite, s'il acquiert ces droits à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
