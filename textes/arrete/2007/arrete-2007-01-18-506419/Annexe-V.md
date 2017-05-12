@@ -14,18 +14,14 @@ L'épreuve de conversation en anglais, de 10 minutes, est destinée à vérifier
 
 Le jury donne son avis au préfet sur le ou les candidats présentés.
 
-II. - Modalités de la formation professionnelle
+II.-Modalités de la formation professionnelle
 
-Le responsable du SSLIA suit une formation professionnelle d'une durée minimale de trois semaines.
+Le responsable du SSLIA suit une formation professionnelle. Celle-ci est définie par l'exploitant ou l'organisme auquel il a confié le service. Le programme de cette formation est défini en liaison avec le responsable nouvellement agréé en fonction de ses besoins particuliers de perfectionnement pour l'exercice de sa mission dans les domaines suivants :
 
-Le programme de cette formation professionnelle est défini par l'exploitant ou l'organisme auquel il a confié le service, en liaison avec le responsable nouvellement agréé en fonction de ses besoins particuliers de perfectionnement pour l'exercice de sa mission dans les domaines suivants :
-
-- les missions dévolues au chef de manoeuvre au sein du service de sauvetage et de lutte contre l'incendie des aéronefs sur un aérodrome ;
+- les missions dévolues au chef de manœuvre au sein du SSLIA sur un aérodrome ;
 
 - la gestion des ressources humaines ;
 
 - les techniques aéronautiques et d'exploitation et l'économie des aéroports.
 
 Le plan de formation ainsi établi est transmis à la commission d'aptitude.
-
-L'Ecole nationale de l'aviation civile (ENAC) et les organismes de formation répondant aux exigences de l'article L. 920-4 du code du travail, sont assimilés à des organismes conventionnés pour assurer les formations en matière de gestion des ressources humaines, de techniques aéronautiques, d'exploitation et d'économie des aéroports.
