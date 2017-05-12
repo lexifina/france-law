@@ -903,3 +903,19 @@ Arrêté agréant les établissements qui assurent une préparation à l’entr�
 ArticlesR.759-9 et R. 759-10.
 
 |
+
+Mesure prise par les ministres chargés de l'architecture et de la construction
+
+Décret n° 2017-1044 du 10 mai 2017 portant expérimentation en matière de construction
+
+1
+
+|
+
+Décisions permettant de déroger, à titre expérimental, à certaines règles de construction.
+
+|
+
+Articles 3 et 4.
+
+|

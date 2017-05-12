@@ -348,7 +348,7 @@ et article 2, 2e alinéa.
 
 |
 
-Mesure prise par le ministre chargé de la marine marchandeet par le ministre chargé des douanes et par le ministre chargé des douanes
+Mesure prise par le ministre chargé de la marine marchande et par le ministre chargé des douanes
 
 Code des douanes
 
