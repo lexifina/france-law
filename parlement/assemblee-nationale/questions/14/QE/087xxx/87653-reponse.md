@@ -1,0 +1,9 @@
+# Réponse à la question n° 87653
+
+- Question : [87653](87653.md) — Question n° 87653 — indemnités; réglementation
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Bien que les fonctions électives soient par principe gratuites, les élus des établissements publics de coopération intercommunale peuvent percevoir des indemnités de fonction qui viennent compenser les dépenses et les sujétions qui résultent de l'exercice de leur charge publique. L'article 3 de la loi no 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat a autorisé les conseillers communautaires des communautés de communes de moins de 100 000 habitants à percevoir des indemnités de fonction en modifiant l'article L. 5214-8 du code général des collectivités territoriales. Ces indemnités de fonction sont fixées par délibération de l'organe délibérant selon un barème lié à la strate de population correspondant à l'établissement public de coopération intercommunale. Le législateur a ainsi considéré que, compte tenu de la charge de travail que représente l'exercice de mandat au sein de ces groupements, les conseillers communautaires des communautés de communes devaient pouvoir bénéficier d'indemnités de fonction. Le conseil de la communauté de communes peut, par délibération, décider d'accorder des indemnités de fonction à ses délégués sous réserve que leurs indemnités, plafonnées à 6% de l'indice brut terminal de la fonction publique, soient comprises dans l'enveloppe constituée des indemnités susceptibles d'être versées au président et aux vice-présidents (article L. 2123-24-1 du code général des collectivités territoriales). Cette indemnité n'étant pas liée à l'existence d'une délégation de fonction, il n'existe donc pas de critère objectif ne permettant d'indemniser que certains conseillers communautaires.
