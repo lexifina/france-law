@@ -1,0 +1,9 @@
+# Réponse à la question n° 36290
+
+- Question : [36290](36290.md) — Question n° 36290 — logements sociaux adaptés; accès
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Les conditions d'accès au logement social sont simples et s'appliquent à tout demandeur : avoir fait une demande de logement social, respecter les plafonds de ressource et être en situation régulière. Il n'est pas envisagé de modifier ces conditions. Pour autant, l'accès au logement social pour les personnes handicapées fait l'objet de mesures particulières : l'article L. 302-1, relatif au plan local de l'habitat (PLH), dispose que le PLH doit préciser les réponses apportées aux besoins particuliers des personnes en situation de perte d'autonomie liée à l'âge ou au handicap, par le développement d'une offre nouvelle et l'adaptation des logements existants, que ce soit dans le parc social ou dans le parc privé ; l'article L. 441-1 du code de la construction et de l'habitation fixe les conditions d'accès au logement social et liste notamment les publics prioritaires, parmi lesquels figurent les personnes en situation de handicap ou les familles ayant à leur charge une personne en situation de handicap ; depuis la loi relative à l'adaptation de la société au vieillissement, il est prévu que « pour les logements faisant l'objet d'une réservation par le représentant de l'État dans le département, celui-ci peut s'engager, en fonction de son appréciation des besoins locaux de logements adaptés à ce type de population, à proposer prioritairement les logements construits ou aménagés spécifiquement pour cet usage à des personnes en perte d'autonomie liée à l'âge ou au handicap. Ceci permet d'assurer une priorité des personnes ayant besoin d'un logement adapté à ces logements, qui sont de plus en plus nombreuses. Ainsi, le handicap est bien intégré à l'ensemble de la réflexion sur l'accès au logement social.
