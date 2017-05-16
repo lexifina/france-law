@@ -1,0 +1,9 @@
+# Réponse à la question n° 103513
+
+- Question : [103513](103513.md) — Question n° 103513 — situation humanitaire; attitude de la France
+
+## Réponse
+
+*JO du 2017-05-16*
+
+La France condamne la poursuite des violences au Yémen et rappelle que seule une solution politique permettra de mettre fin au conflit. Les groupes terroristes sont les premiers bénéficiaires de l'instabilité dans le pays. La France saisit toutes les occasions pour rappeler l'urgence d'un cessez-le-feu durable et la nécessité pour les parties de s'engager de bonne foi dans des négociations politiques sous l'égide de l'ONU. Elle soutient à ce titre les efforts de médiation de l'Envoyé spécial du Secrétaire général des Nations unies pour le Yémen, M. Ismaïl Ould Cheikh Ahmed qui a été reçu le 14 mars par le ministre des affaires étrangères et du développement international. La France condamne toutes les atteintes au droit international humanitaire commises par les parties à ce conflit. Elle appelle à l'arrêt des attaques contre les populations civiles et a condamné à plusieurs reprises les bombardements d'hôpitaux et de marchés au Yémen. Il est essentiel que les parties au conflit garantissent un accès humanitaire immédiat et sans entrave aux populations dans le besoin afin de permettre aux acteurs humanitaires d'acheminer les biens de première nécessité. Elle s'est mobilisée au côté de ses partenaires pour l'adoption de la résolution 2286 (2016) du Conseil de sécurité des Nations unies, qui appelle à la protection des personnels et des infrastructures médicaux et un accès sûr et sans entrave aux soins de santé. Enfin, la France a soutenu l'adoption d'une déclaration transrégionale portant sur la situation des droits de l'Homme au Yémen en lien avec ses partenaires européens dans le cadre de la 34ème session du Conseil des droits de l'Homme.
