@@ -1,0 +1,9 @@
+# Réponse à la question n° 76287
+
+- Question : [76287](76287.md) — Question n° 76287 — Canada; accords de pêche; détails
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Un accord relatif aux relations réciproques entre la France et le Canada en matière de pêche a été signé le 27 mars 1972, amendé le 5 mars 2014. Son procès-verbal d'application (PV), institue un Conseil consultatif, constitué de représentants des autorités compétentes. Cet accord établit les modalités de coopération des parties en matière de conservation et de gestion des stocks de poissons situés dans la division 3Ps, se trouvant à la fois dans les espaces maritimes français et canadiens. Il fixe une clé de répartition des Totaux admissibles de capture (TAC) des différentes espèces gérées conjointement : morue, en particulier, mais aussi sébaste, encornet, plie canadienne, plie grise et pétoncle d'Islande. Les parties coopèrent dans le domaine scientifique, notamment quant à l'évaluation des stocks. Le Conseil consultatif se réunit une fois par an, alternativement en France et au Canada, il recommande des niveaux de TAC et des mesures de conservation et de gestion sur les espèces précédemment listées. Le Conseil consultatif qui s'est tenu à Paris en 2016 a fixé, de façon consensuelle, les TAC des espèces qui sont l'objet du protocole franco-canadien. Une diminution du TAC de morue de 3 %, justifiée par des incertitudes quant à l'état du stock, a été décidée. Les études scientifiques montrent une fragilité de ce stock à moyen terme. Depuis la mise en œuvre de la révision de 2014, la partie canadienne a marqué son souhait d'étendre la gestion commune à des espèces non prévues dans cet accord, notamment le flétan blanc dont la pêche s'est récemment développée. Des discussions sont en cours entre l'administration canadienne et l'administration française dans le but définir un mode de gestion équilibré de ce stock.
