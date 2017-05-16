@@ -1,0 +1,9 @@
+# Réponse à la question n° 101867
+
+- Question : [101867](101867.md) — Question n° 101867 — indemnité d'administration et de technicité; police municipale; bénéficiaires
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Le régime indemnitaire du cadre d'emplois des chefs de service de police municipale est fixé par le décret no 2000-45 du 20 janvier 2000. Il comprend à titre principal, l'indemnité spéciale mensuelle de fonctions (ISF) avec laquelle peuvent se cumuler l'indemnité d'administration et de technicité (IAT) et l'indemnité horaire pour travaux supplémentaires (IHTS), accordée en cas d'heures supplémentaires réellement effectuées. Le décret no 2002-61 du 14 janvier 2002 réserve le bénéfice de l'IAT aux fonctionnaires de catégorie C et à ceux de catégorie B dont l'indice brut est au plus égal à 380. Aucune dérogation à cette condition n'a été prise par arrêté interministériel comme prévu par le décret du 14 janvier 2002 précité. Les agents du cadre d'emplois des chefs de service de police municipale qui disposent d'un régime indemnitaire peuvent percevoir une indemnité spéciale mensuelle de fonctions (ISF) dont le plafond du taux individuel varie en fonction du cumul ou non de l'ISF avec l'IAT. Ainsi, à ce jour, les chefs de service de police municipale peuvent voir appliquer, au montant mensuel du traitement soumis à retenue pour pension, un taux individuel fixé dans la limite de 22 % jusqu'à l'indice brut 380 et 30 % au-delà de cet indice. La mise en oeuvre du protocole sur les parcours professionnels, les carrières et les rémunérations, qui s'applique progressivement depuis le 1er janvier 2016 permet enfin aux fonctionnaires de catégorie B, et notamment, aux agents du cadre d'emplois des chefs de service de police municipale de bénéficier d'une revalorisation indiciaire. Le montant de l'ISF qu'ils perçoivent étant indexé sur le traitement, cette indemnité s'en trouve également augmentée.
