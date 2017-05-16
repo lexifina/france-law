@@ -1,0 +1,9 @@
+# Réponse à la question n° 99966
+
+- Question : [99966](99966.md) — Question n° 99966 — dispositif Pinel; perspectives
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Il convient tout d'abord de rappeler que le dispositif d'investissement locatif Pinel permet une réduction d'impôt aux investisseurs louant leur logement à un loyer encadré, dans les communes se caractérisant par un déséquilibre important entre l'offre et la demande de logements (zones A, A bis et B1) ou se caractérisant par des besoins particuliers en logement locatif et ayant fait l'objet d'un agrément du préfet de région après avis du comité régional de l'habitat et de l'hébergement (zones B2). L'efficience de cette réduction d'impôt nécessite que son périmètre d'application soit centré sur les territoires où l'offre de logements abordables fait défaut, ce qui n'est généralement pas le cas dans les communes situées en zone C. Cependant, suite aux sollicitations de nombreux élus, le Gouvernement a accepté, dans le cadre de la loi de finances 2017, une expérimentation visant à ouvrir ce dispositif en zone C. Cela doit permettre de tenir compte de la situation particulière de micro-territoires pouvant rencontrer de fortes tensions localisées sur le marché de l'immobilier alors même qu'ils sont situés en zones dites « détendues ». Ce type d'expérimentation doit être strictement encadré. C'est pourquoi les conditions d'application en zone C seront plus restrictives que pour les zones A, A bis, B1 et B2. Un décret en cours de parution précisera les modalités d'appréciation des critères retenus ainsi que les plafonds de loyers applicables. Enfin, il convient également de rappeler que la révision du zonage A/B/C doit intervenir en 2017. L'extension, sous conditions, du dispositif Pinel à la zone C contribuera aux réflexions engagées dans le cadre de cette révision et la question de ces micro-territoires devra également être traitée.
