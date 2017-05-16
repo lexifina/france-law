@@ -1,0 +1,9 @@
+# Réponse à la question n° 87569
+
+- Question : [87569](87569.md) — Question n° 87569 — développement; rapport; proposition
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Les 22 contrats de destination signés depuis décembre 2014 participent de cette démarche, ainsi que les cinq pôles d'excellence identifiés comme porteurs d'une forte demande à l'international (œnotourisme, Montagne, Tourisme durable et itinérance douce, Savoir-faire et métiers d'art, Tourisme de nuit), dont l'objectif est d'accroître la visibilité de l'offre sur ces thématiques. Ces contrats sont bâtis sur un cahier des charges reposant davantage sur la notion de marque de destination, de visibilité internationale et d'innovation. Ils visent à impliquer les acteurs touristiques publics et privés dans la mise en œuvre de stratégies de destination valorisant la diversité de l'offre touristique française pour conquérir de nouveaux visiteurs internationaux. 22 destinations phares ont ainsi été sélectionnées, réparties sur l'ensemble du territoire national et proposant une offre mieux structurée et plus visible à l'international. Ces destinations sont extrêmement variées, valorisant des territoires urbains ou ruraux, littoraux ou montagneux, richement dotés en patrimoine naturel, artistique ou architectural, en activités sportives ou de bien-être, en matière de gastronomie ou encore d'œnotourisme. Ces contrats de destinations sont en cours de mise en œuvre et suivis localement par les DIRECCTE et par Atout France (localement et nationalement), en lien avec la DGE et la Mission tourisme du MAEDI. Ces contrats de destinations sont complétés par la création de SPôTT (contrats de « structuration de pôles touristiques territoriaux ») qui ont pour objectif de sélectionner et valoriser des territoires touristiques d'excellence en les accompagnant dans la structuration d'une offre de proximité de qualité.
