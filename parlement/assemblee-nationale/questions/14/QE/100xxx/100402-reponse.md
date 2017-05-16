@@ -1,0 +1,9 @@
+# Réponse à la question n° 100402
+
+- Question : [100402](100402.md) — Question n° 100402 — revendications
+
+## Réponse
+
+*JO du 2017-05-16*
+
+L'Établissement national des invalides de la marine (Énim), en charge de la gestion du régime spécial de sécurité sociale des marins, est un établissement public à caractère administratif doté de la personnalité morale et de l'autonomie financière. De ce fait, il est administré par un conseil d'administration. Les assurés du régime spécial de sécurité sociale des marins ne sont pas directement représentés au sein de ce conseil. Toutefois, les instances représentant chacune un des quatre secteurs maritimes (commerce, pêche, cultures marines, plaisance professionnelle), dont les présidents sont membres du conseil d'administration de l'Énim, contribuent, dans l'intérêt du monde maritime, à la défense de tous les marins. Il faut par ailleurs rappeler que, suite à la disparition de l'ancien conseil de l'Énim, a été créé le Conseil supérieur des gens de mer (CSGM) qui regroupe l'ensemble de la communauté maritime et au sein duquel les représentants des gens de mer et des marins pensionnés ont une part active. L'article 46 de la loi no 2016-816 du 20 juin 2016 pour l'économie bleue prévoit un rapport portant sur les axes possibles d'adaptation du régime de protection sociale des marins dans l'objectif d'accroître tant l'attractivité du métier de marin que la compétitivité des entreprises à établir par le CSGM. Ce rapport doit prendre en compte l'évolution générale du système de protection sociale français et son financement, la situation actuelle du régime spécial de sécurité sociale des marins, les attentes et les besoins des gens de mer et les particularités des départements, régions et collectivités d'Outre-mer. Le travail relatif à l'élaboration de ce rapport a débuté au sein du CSGM.
