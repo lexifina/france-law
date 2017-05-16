@@ -1,0 +1,9 @@
+# Réponse à la question n° 102894
+
+- Question : [102894](102894.md) — Question n° 102894 — effectifs; Colmar; statistiques
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Fin mars 2017, la circonscription de sécurité publique (CSP) de Colmar compte, hors service départemental du renseignement territorial (SDRT), 142 agents dont 1 commissaire, 5 officiers, 100 agents du corps d'encadrement et d'application et 20 adjoints de sécurité (ADS). Au regard de ces données, cette circonscription de police figure dans la moyenne des circonscriptions équivalentes en matière de population et de délinquance. S'agissant des perspectives, il peut être indiqué que 9 fonctionnaires du corps d'encadrement et d'application quitteront leurs fonctions d'ici à fin septembre 2017, et qu'une arrivée sera enregistrée, ce qui portera le nombre de gradés et gardiens de la paix à 92 fin septembre 2017. Trois postes d'OPJ (officiers de police judiciaire) avaient en outre été ouverts dans le cadre du mouvement « profilé » 2017, mais un seul agent a finalement pu être retenu. Le nombre d'ADS en fonction au sein de cette circonscription diminuera d'une unité d'ici septembre. S'agissant des personnels administratifs, techniques et scientifiques, un agent administratif quittera ses fonctions d'ici fin août et sera remplacé dès le début du mois de juin. Une vacance du poste de chef du service local de police technique a en outre été diffusée dans la perspective de la prochaine réunion de la commission administrative paritaire des techniciens de police technique et scientifique, qui se tiendra le 9 mai 2017, et une candidature a été enregistrée pour ce poste. S'agissant, enfin, du corps de conception et de direction et du corps de commandement, aucun poste n'est à ce jour vacant au sein de la circonscription de sécurité publique de Colmar.
