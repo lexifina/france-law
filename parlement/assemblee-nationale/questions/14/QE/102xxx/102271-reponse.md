@@ -1,0 +1,9 @@
+# Réponse à la question n° 102271
+
+- Question : [102271](102271.md) — Question n° 102271 — revendications
+
+## Réponse
+
+*JO du 2017-05-16*
+
+L'article 13 du décret no 2010-329 du 22 mars 2010 portant disposition statutaires communes à divers cadres d'emplois de la catégorie B de la fonction publique territoriale, modifié par le décret no 2016-594 du 12 mai 2016, prévoit les conditions de reclassement des fonctionnaires de catégorie C qui accèdent à un cadre d'emplois de la catégorie B. Il prévoit que les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie C ou de même niveau qui détiennent un autre grade que ceux relevant des échelles C1, C2 et C3 sont classés à l'échelon comportant l'indice brut le plus proche de l'indice brut qu'ils détenaient avant leur nomination augmenté de 15 points d'indice brut. L'ancienneté acquise dans l'échelon d'origine est conservée, dans la limite de la durée pour un avancement à l'échelon supérieur dans le grade de recrutement, à la double condition que l'augmentation de traitement consécutive au classement soit inférieure ou égale à 15 points d'indice brut et que l'échelon de classement ne soit pas identique à celui dans lequel aurait été classé le titulaire d'un échelon supérieur dans le grade d'origine. Compte tenu de ces dispositions, les chefs de police municipale (grade de catégorie C en voie d'extinction ne relevant pas des échelles C1, C2 et C3) qui accèdent au cadre d'emplois des chefs de service de police municipale (catégorie B) ne peuvent pas être classés à un indice brut inférieur à celui qu'ils détenaient avant leur nomination dans le grade de chef de service de police municipale. Dans l'hypothèse la moins favorable, ils sont au dernier échelon de leur grade, dont l'indice est égal à celui du dernier échelon du grade de chef de service de police municipale et ils conservent donc leur indice.
