@@ -1,0 +1,9 @@
+# Réponse à la question n° 35820
+
+- Question : [35820](35820.md) — Question n° 35820 — construction; financement; recommandations
+
+## Réponse
+
+*JO du 2017-05-16*
+
+La création d'un nouveau bail de longue durée réservé à la production de logements a été définie par l'ordonnance no 2014-159 du 20 février 2014 relative au logement intermédiaire. Cette ordonnance, ratifiée par l'article 77 de la loi no 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, institue le bail réel immobilier, par lequel un propriétaire consent, pour une durée de 18 à 99 ans, à un preneur avec obligation de construire ou de réhabiliter des constructions existantes, des droits réels en vue de la location ou de l'accession temporaire à la propriété de logements. Ces logements sont destinés à être occupés à titre de résidence principale par des ménages dont les ressources n'excèdent pas les plafonds relatifs au logement intermédiaire. Les prix d'acquisition, ou les loyers en cas de location, sont également plafonnés. Le décret du 27 juin dernier relatif au bail réel immobilier, qui fixe notamment la méthode de calcul du plafond de la valeur des droits réels, rend pleinement opérationnel cet outil permettant le développement du logement intermédiaire. En outre, l'article 94 de la même loi du 6 août 2015 a habilité le Gouvernement à créer par ordonnance le bail réel solidaire, qui permet également une dissociation sur la très longue durée entre le foncier et le bâti, mais qui s'adresse uniquement aux ménages modestes, sous plafond de ressources. L'ordonnance du 20 juillet 2016 permet à ces ménages de louer du foncier, contre une redevance modique, à un organisme de foncier solidaire, pour y faire construire ou réhabiliter leur logement. Ces deux nouveaux baux participent au développement d'une offre de logements accessibles, au cœur des agglomérations, et hors du fonctionnement spéculatif des marchés immobiliers.
