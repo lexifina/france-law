@@ -1,0 +1,9 @@
+# Réponse à la question n° 8421
+
+- Question : [8421](8421.md) — Question n° 8421 — camions de l'avant; délais de fabrication; normes antipollution européennes; impacts
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Le règlement no 595-2009 du Parlement européen et du Conseil du 18 juin 2009 a instauré la norme « Euro VI », destinée à renforcer la lutte contre les émissions de gaz à effet de serre, applicable à compter du 1er janvier 2014 aux nouveaux véhicules de plus de 2,6 tonnes. Dans ce contexte, le 31 décembre 2010, le ministère de la défense a notifié à un groupement constitué de deux sociétés, un mandataire et un cotraitant, un marché relatif à l'acquisition de 34 véhicules articulés de transport de carburant, dits « camions de l'avant », de plus de 2,6 tonnes. A cette date, le groupement avait été informé de l'évolution programmée des normes européennes en matière de lutte contre la pollution, et disposait d'une organisation industrielle compatible à la fois avec cette évolution et les délais contractuels du marché. Il convient par ailleurs d'observer que le contrat correspondant à ce marché prévoyait l'application de la norme environnementale européenne en vigueur à la date de la mise en service des camions de l'avant. L'industriel conservait donc la possibilité, soit de faire réceptionner par la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) un véhicule non compatible avec la norme Euro VI avant la date limite contractuelle, soit de présenter aux opérations de vérification un véhicule compatible avec cette norme à la date limite du contrat. Le titulaire du contrat a ainsi choisi de produire les véhicules en avance pour être en mesure de les présenter à la DREAL avant la date butoir du 31 décembre 2013, afin qu'ils soient réceptionnés à la norme Euro V alors en vigueur.
