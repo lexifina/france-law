@@ -1,0 +1,9 @@
+# Réponse à la question n° 93354
+
+- Question : [93354](93354.md) — Question n° 93354 — Royaume-Uni; perspectives
+
+## Réponse
+
+*JO du 2017-05-16*
+
+En février 2016, à la demande du gouvernement britannique, un accord a été trouvé pour conforter la singularité de la place du Royaume-Uni dans l'Union et viser à y favoriser son maintien. La France, convaincue que la place du Royaume-Uni était au sein de l'Union, a participé à l'obtention de cet accord tout en veillant à défendre ses intérêts spécifiques en garantissant notamment la pleine autonomie de la zone euro et le respect des équilibres institutionnels fondamentaux de la construction européenne. Le peuple britannique a cependant pris la décision souveraine de quitter l'Union européenne. L'accord de février 2016 est donc désormais caduc. En mars 2017, la Première ministre a ainsi activé la procédure prévue à l'article 50 du Traité sur l'Union européenne qui aboutira au retrait effectif de son pays. La France regrette cette décision mais en a pris acte et souhaite désormais que le retrait britannique se fasse de manière ordonnée. Il conviendra pour cela de suivre les règles mises en place par l'article 50 TUE ainsi que les modalités d'organisation précisées par les chefs d'Etat ou de gouvernement des 27 Etats membres le 15 décembre 2016. Il faudra également respecter les principes définis par les 27 et les institutions au lendemain du référendum britannique, et qui structurent les orientations adoptées par le Conseil européen à la fin du mois d'avril 2017 : indivisibilité des quatre libertés fondatrices du marché intérieur, impossibilité d'un accès "à la carte" au marché intérieur, nécessité de trouver un accord équilibré en droits et en obligations. C'est dans ces conditions qu'un accord juste pourra être trouvé. Il permettra de défendre les intérêts et l'intégrité de l'Union européenne tout en donnant effet à la décision souveraine prise par le peuple britannique.
