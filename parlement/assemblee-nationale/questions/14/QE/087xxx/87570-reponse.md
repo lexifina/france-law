@@ -1,0 +1,9 @@
+# Réponse à la question n° 87570
+
+- Question : [87570](87570.md) — Question n° 87570 — développement; rapport; proposition
+
+## Réponse
+
+*JO du 2017-05-16*
+
+La connectivité est un levier de croissance indispensable pour renforcer l'attractivité économique et touristique française. Afin de faire face à la concurrence croissante d'autres destinations européennes et des hubs du Moyen-Orient, le gouvernement s'est déjà largement engagé en faveur d'une meilleure prise en compte des enjeux touristiques dans la négociation des droits de trafic aériens à destination de Paris et des aéroports régionaux. Cette stratégie a d'ores et déjà porté ses fruits : si l'année 2016 a été une année difficile pour les professionnels du tourisme, en grande partie à cause du contexte sécuritaire, l'amélioration de la connectivité aérienne a largement contribué à la résilience de la destination France. Par exemple, le positionnement de l'A380 par Air France entre Mexico et Paris et arrivée de la compagnie aérienne Norwegian avec des prix cassés entre Paris et les Etats-Unis expliquent des résultats encourageants observés sur les clientèles mexicaines et américaines. Des travaux sont également engagés pour renforcer la connectivité aérienne avec la Chine. Avec l'ouverture le 12 décembre 2015 d'une liaison Paris-Chengdu, Paris est la ville d'Europe la mieux connectée à la Chine. Des liaisons directes avec trois autres villes chinoises (Chongqing, Shenzen, Tianjin) sont prévues d'ici 3 ans. De nouvelles négociations ont été engagées à la demande de Jean-Marc Ayrault pour renforcer encore notre connectivité aérienne avec la Chine, notamment vers les régions françaises. De façon générale, les Ambassadeurs sont largement mobilisés pour renforcer la connectivité aérienne entre la France et les marchés touristiques les plus stratégiques. La mise en œuvre de cette stratégie devra être poursuivie.
