@@ -1,0 +1,9 @@
+# Réponse à la question n° 97647
+
+- Question : [97647](97647.md) — Question n° 97647 — recrutement; réglementation
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Compte tenu de la spécificité des missions des policiers municipaux, le législateur a entendu soumettre l'ensemble de ceux qui les exercent à un dispositif de formation initiale. Ainsi, les militaires de la gendarmerie nationale détachés en qualité d'agent de police municipale par la voie de l'article L. 4931-2 du code de la défense, de même que les fonctionnaires détachés tels que les policiers nationaux, doivent suivre une formation initiale de six mois, préalable à leur titularisation dans le cadre d'emplois des agents de police municipale, organisée par le Centre national de la fonction publique territoriale (CNFPT). En effet, il convient de veiller à ce que tous passent par un même creuset commun, y compris les anciens gendarmes ou policiers, car devenir policier municipal revient à apprendre un nouveau métier. La formation initiale est destinée, pour les agents disposant d'une première expérience en matière de sécurité, à les familiariser avec leur nouvel environnement professionnel. Il s'agit pour eux d'acquérir une connaissance du fonctionnement institutionnel de la police municipale, des pouvoirs de police du maire et des conditions spécifiques d'exercice des missions. Le programme de formation tient désormais compte de l'expérience professionnelle acquise par l'agent préalablement à son recrutement en application de l'article 2 du décret no 94-933 du 25 octobre 1994 relatif à l'organisation de la formation initiale d'application des agents de police municipale stagiaires, tel que modifié en 2014. En conséquence, il n'est pas envisagé de modifier la réglementation relative à la formation des policiers municipaux en introduisant un régime dérogatoire pour les fonctionnaires détachés ou anciens fonctionnaires issus de la gendarmerie ou de la police nationale.
