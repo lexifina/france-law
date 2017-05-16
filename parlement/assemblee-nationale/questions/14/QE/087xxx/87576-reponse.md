@@ -1,0 +1,9 @@
+# Réponse à la question n° 87576
+
+- Question : [87576](87576.md) — Question n° 87576 — développement; rapport; proposition
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Les exigences en matière de normes techniques, incendie, handicap, s'appliquent à tous les établissements, qu'ils soient classés ou non classés. Concernant la réglementation en matière de sécurité-incendie, le ministre chargé du tourisme a négocié en 2011 avec le Ministère de l'Intérieur des évolutions afin d'alléger les prescriptions pour les petits hôtels, tout en conservant un niveau d'exigence garantissant la sécurité des personnes. S'agissant de l'accessibilité, la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées avait défini des objectifs d'accessibilité ambitieux. Le rapport sur « l'accessibilité du cadre bâti » de Mme la sénatrice Claire-Lise Campion (mars 2013) a permis d'aménager cette loi. Une ordonnance du 26 septembre 2014 relative à la mise en accessibilité des établissements recevant du public permet, par des dispositions équilibrées, de répondre à l'objectif de rendre plus facilement accessible les petits hôtels (dit de 5ème catégorie, dont la capacité est inférieure à 100 chambres). Un décret du 5 novembre 2014 a défini le contenu du nouvel outil de programmation financière des travaux (l'Ad'AP) créé par cette ordonnance pour les établissements qui ne sont pas encore aux normes. Cet agenda d'accessibilité programmée constitue un engagement irréversible d'exécuter les travaux au-delà du 1er janvier 2015 (échéance prévue dans la loi de 2005). Il est complété par un décret du 11 mai 2016 sur les procédures de contrôle et de sanction. Dans certains cas, notamment lorsque les travaux sont susceptibles d'avoir des conséquences excessives sur l'activité de l'établissement, des dérogations sont possibles (arrêté du 27 avril 2015).
