@@ -1,0 +1,9 @@
+# Réponse à la question n° 78182
+
+- Question : [78182](78182.md) — Question n° 78182 — parcs aquatiques; conditions de captivité
+
+## Réponse
+
+*JO du 2017-05-16*
+
+En réponse aux interrogations et inquiétudes concernant les delphinariums en France et, plus particulièrement, l'origine des cétacés détenus et leurs conditions d'hébergement il convient de rappeler qu'en date du 3 juillet 2015, il a été demandé aux préfets de surseoir à toutes les procédures en cours d'instruction de projets concernant cette activité et de suspendre toute délivrance d'autorisation d'ouverture pour de telles installations. Simultanément a été engagé un travail technique très poussé, en concertation avec les responsables et titulaires du certificat de capacité des trois delphinariums français existants, le Muséum national d'histoire naturelle (MNHN), des experts en mammifères marins, les services de contrôle en charge des établissements existants, les différentes directions du ministère de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat, et le ministère chargé de l'agriculture, de l'agroalimentaire et la forêt, afin de travailler sur un projet d'arrêté ministériel, visant à mettre en place des règles de fonctionnement très strictes pour ces établissements, afin de garantir des conditions de détention et d'entretien de haut niveau pour les animaux détenus qui satisfassent leurs besoins biologiques, leur santé et l'expression optimale de leurs comportements naturels. Le projet de texte issu de ces travaux a été soumis à l'avis des parlementaires sensibilisés sur le sujet, ainsi qu'aux associations spécialisées en cétacés dans le courant du mois de mai 2016. À la suite de ces travaux, le projet d'arrêté ministériel sera soumis à une consultation du public avant publication.
