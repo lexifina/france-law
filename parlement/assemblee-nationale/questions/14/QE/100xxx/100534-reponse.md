@@ -1,0 +1,9 @@
+# Réponse à la question n° 100534
+
+- Question : [100534](100534.md) — Question n° 100534 — effectifs; moyens
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Les services départementaux d'incendie et de secours (SDIS) mettent en œuvre des moyens permettant, par des recrutements avec ou, parfois, sans concours, de maintenir les effectifs de sapeurs-pompiers professionnels (SPP) à un niveau satisfaisant. Plus globalement, 246 000 sapeurs-pompiers sont recensés (41 000 professionnels, 193 700 volontaires et 12 200 militaires) soit 358 pour 100 000 habitants. L'évaluation de la réponse opérationnelle réalisée par le ministère de l'intérieur montre la qualité d'exécution et de réalisation des missions : ainsi, 90 % des appels sont traités en moins de 3 minutes 4 secondes et, dans la même proportion, les secours arrivent sur zone en moins de 15 minutes 21 secondes. Dans un contexte de maîtrise des dépenses publiques, des efforts sont accomplis en faveur des SDIS. Ainsi, un fonds d'accompagnement des projets structurants de sécurité civile d'un montant de 20 millions d'euros permettra dès 2017 d'appuyer les efforts des SDIS les plus nécessiteux pour s'équiper. C'est à travers ce fonds que pourra être assurée l'égalité entre les territoires. La loi no 2016-1867 du 27 décembre 2016 relative aux sapeurs-pompiers professionnels et sapeurs-pompiers volontaires témoigne, dans son principe, d'un engagement en faveur des sapeurs-pompiers, avec une réforme concernant notamment l'encadrement supérieur des SDIS. Cette réforme, complétée par de nombreux textes réglementaires publiés fin 2016, devra permettre d'attirer des compétences et de promouvoir les cadres de qualité sur les emplois de direction desSDIS. Cette loi valorise également le volontariat qui participe aussi à la mise en œuvre de moyens pour répondre aux besoins des territoires.
