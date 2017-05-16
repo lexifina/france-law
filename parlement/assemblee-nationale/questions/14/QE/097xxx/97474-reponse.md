@@ -1,0 +1,9 @@
+# Réponse à la question n° 97474
+
+- Question : [97474](97474.md) — Question n° 97474 — réforme; petites entreprises; conséquences
+
+## Réponse
+
+*JO du 2017-05-16*
+
+La loi no 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat impose la détention d'une qualification pour exercer de nombreux métiers. Le projet de loi relatif à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique prévoyait de réformer cette obligation de qualification professionnelle afin, initialement, de recentrer l'obligation de qualification professionnelle sur les seules activités ou parties d'activités présentant un risque pour la santé et la sécurité des personnes. Dans le cadre de l'examen du projet de loi au Parlement, le dispositif a toutefois été largement réécrit. La loi no 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique (article 131) aménage désormais l'obligation de qualification professionnelle pour permettre aux personnes qui détiennent une qualification d'être réputées qualifiées pour réaliser des tâches qui relèvent d'un métier connexe et pour permettre à celles qui détiennent une qualification pour une partie d'activité d'accéder à cette partie d'activité. Ce dernier aménagement est rendu nécessaire par la directive no 2013/55/UE du 20 novembre 2013 modifiant la directive no 2005/36/CE relative à la reconnaissance des qualifications professionnelles et le règlement (UE) no 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur. La loi entend également faciliter la validation des acquis de l'expérience professionnelle dans le secteur de l'artisanat, notamment en termes d'encadrement des délais. Ces évolutions, d'une ampleur mesurée, permettront de faciliter l'accès aux activités artisanales sans déstabiliser le secteur.
