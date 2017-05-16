@@ -1,0 +1,9 @@
+# Réponse à la question n° 71722
+
+- Question : [71722](71722.md) — Question n° 71722 — plans locaux; financement; aides de minimis
+
+## Réponse
+
+*JO du 2017-05-16*
+
+La législation sur les aides d'Etat s'applique à des entreprises au sens européen, c'est-à-dire à toute entité exerçant une activité économique quel que soit son statut et son mode de financement. Une activité économique est définie comme toute activité consistant à offrir des biens et des services sur un marché donné. Le marché est lui-même caractérisé par la confrontation d'une offre et d'une demande. La question de savoir si une entité a été créée à des fins lucratives ou non ne conditionne pas, en tant que telle, l'application des règles en matière d'aides d'État. Selon la jurisprudence de la Cour de justice de l'Union européenne, des entités exerçant leur activité sans but lucratif peuvent également offrir des biens et des services sur un marché donné. A ce titre, les structures porteuses de plan local pour l'insertion et l'emploi (PLIE), en proposant des actions d'insertion, d'accompagnement vers l'emploi, ou de formation à des participants, sont soumises à la réglementation européenne sur les aides d'Etat. Une subvention accordée par une collectivité territoriale doit être soumise à l'examen des règles en la matière. Toutefois, il convient de souligner que lorsque les aides publiques servent à financer des services d'intérêt économique général (SIEG), le versement peut être autorisé sans plafonnement. Un tel financement implique certaines conditions, notamment celle de l'absence de surcompensation, qui consiste à vérifier que la compensation octroyée n'excède pas les coûts nets occasionnés par l'exécution du SIEG. La conformité du versement de subventions par une collectivité territoriale à une structure porteuse de PLIE avec la réglementation européenne en matière d'aides d'Etat relève de sa responsabilité.
