@@ -1,0 +1,9 @@
+# Réponse à la question n° 103442
+
+- Question : [103442](103442.md) — Question n° 103442 — Paris 12ème; construction d'un hôtel; avis des architectes des Bâtiments de France
+
+## Réponse
+
+*JO du 2017-05-16*
+
+Le projet de construction d'un hôtel, porté par la société Vinci Immobilier, est en cours de réalisation au 295, avenue Daumesnil dans le 12ème arrondissement de Paris. Cette opération prend place sur un terrain appartenant initialement à la Ville de Paris qui, dans le cadre du plan hôtelier parisien, a décidé en 2012 de céder le volume foncier à la société Vinci Immobilier en vue de la réalisation d'un hôtel. Cette dernière a récemment annoncé la signature de la vente en état futur d'achèvement à Foncière Régions et à la Caisse des Dépôts. Le projet se situe à proximité immédiate du Palais de la Porte Dorée, classé au titre des monuments historiques. Toute opération projetée aux abords d'un monument historique étant soumise à l'expertise de l'architecte des Bâtiments de France (ABF), ce dernier a été associé tout au long du projet. Suite au concours d'architecte organisé en 2013, un travail s'est engagé entre l'ABF, le maître d'ouvrage et le maître d'œuvre, afin notamment de limiter l'impact visuel de la future construction sur le Palais de la Porte Dorée. Le projet initial a donc évolué : diminution de la hauteur de l'hôtel, alignement du niveau du rez-de-chaussée à celui du monument historique, ou encore choix de matériaux qualitatifs. Dans le cadre du permis de construire déposé pour la construction de l'hôtel, l'ABF a donné son accord, en juillet 2015, assorti d'une série de prescriptions, notamment en ce qui concerne l'aspect des menuiseries et des gardes-corps. Préserver le Palais de la Porte Dorée et limiter l'impact visuel de la construction sur les abords étaient les objectifs recherchés par l'ABF en formulant ces prescriptions.
