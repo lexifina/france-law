@@ -1,0 +1,9 @@
+# Réponse à la question n° 88506
+
+- Question : [88506](88506.md) — Question n° 88506 — loi montagne; acte II; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2017-05-16*
+
+L'accessibilité des services au public sur l'ensemble du territoire est un enjeu majeur affirmé par le Président de la République et le Gouvernement. Elle correspond à une attente très forte des populations, totalement légitime, et soulève des questions de justice sociale et de cohésion territoriale qui se trouvent au cœur de la mission du ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales. Le dépassement de l'objectif des 1 000 Maisons de services au public au 1er janvier 2017 démontre tout l'intérêt porté par les élus et les opérateurs de services au public à ce dispositif qui bénéficie particulièrement aux territoires de montagne. En effet, près de 40 % des Maisons de service au public sont situées dans les zones de massifs, preuve de l'adéquation entre les besoins de ces territoires et ce dispositif de mutualisation de services. La reconnaissance des Maisons de services au public se poursuit. Elle est organisée par les préfets de département en lien avec l'élaboration des schémas départementaux d'amélioration de l'accessibilité des services au public. Il est donc possible d'amplifier les efforts pour améliorer le maillage des zones de massif. Au-delà de ce déploiement, la question de la qualité de l'offre de services délivrée dans ces lieux et de leur adéquation aux besoins des populations locales est fondamentale pour en permettre le succès. Aussi, l'article 46 de la loi no 2016-1888 de modernisation, de développement et de protection des territoires de montagne, prévoit que dans les massifs, "l'offre de maisons de services au public répond à la situation des travailleurs saisonniers et pluriactifs, et peut notamment intégrer des maisons des saisonniers".
