@@ -1,0 +1,131 @@
+# Modification de trois articles de la partie règlementaire du code forestier applicable aux aménagements des forêts et terrains à boiser non domaniaux soumis au régime forestier.
+
+- État : abrogée (au 2017-05-19)
+- NOR : DERFC983016
+- Numéro : DERF/SDF/C98-3016
+- Date de signature : 1998-06-30
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 10705 (PDF officiel : pdf/2009/04/cir_10705.pdf)
+
+## Texte
+
+PLAN DE DIFFUSION
+Pour exécution
+- Mmes et MM. les Préfets de région
+- Mmes et MM. les Préfets de département
+- Mmes et MM. les Directeurs régionaux de l’agriculture et de la forêt (Services régionaux de la
+forêt et du bois)
+- Mmes et MM. les Directeurs départementaux de l’agriculture et de la forêt
+- M. le Directeur Général de l’Office national des forêts
+REPUBLIQUE FRANCAISE
+ministère de l’agriculture et de la pêche
+Direction de l’Espace Rural et de la Forêt
+Sous-Direction de la Forêt
+Circulaire/DERF/SDF/C98-3016
+19, avenue du Maine
+75732 PARIS CEDEX 15
+Date : 30 juin 1998
+  01.49.55.52.70
+Télécopie  01.49.55.41.97
+Classement :
+Objet : Forêts et terrains à boiser non domaniaux soumis au régime forestier
+Procédures déconcentrées du décret n° 97.1163 du 17 décembre 1997 (JO du 21/12/1997).
+Références : Circulaire DGA/MCP/C98-1002 du 3 mars 1998.
+Instruction ministérielle sur l'aménagement forestier pour les forêts relevant du régime
+forestier du 2 novembre 1994.
+ Circulaire SF/SDAF/C.81/N° 3007 du 18 novembre 1981.
+Le décret n° 97.34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives
+individuelles de niveau régional conduit à modifier trois articles de la partie réglementaire du code
+forestier (livre I, titre quatrième, chapitre III) applicable aux aménagements des forêts et terrains à boiser
+non domaniaux soumis au régime forestier.
+La présente circulaire précise l'actualisation les textes administratifs en vigueur en conséquence des
+nouvelles mesures qui d'une façon générale confirment le rôle de l'Office national des forêts gestionnaire
+des forêts soumises au régime forestier et ses rapports avec les collectivités concernées.
+Il s'agit de considérer d'une part les articles R.143.1 et R.143.2 qui relèvent respectivement de
+l'approbation et de la modification des aménagements forestiers en cause et d'autre part l'article R.143.3
+relevant de la procédure d'approbation de l'assiette des coupes non réglées.
+Ces nouvelles dispositions sont applicables dès le 1er juillet 1998.
+1) Aménagement : approbation, modification.
+Les nouvelles dispositions de l'article R.143.1 confèrent aux préfets de région concernés le pouvoir de
+prendre les arrêtés d'aménagement des forêts et terrains à boiser non domaniaux soumis au régime
+forestier selon les dispositions de l'article L.143.1. L'Office national des forêts établit le projet
+d'aménagement forestier en concertation avec la collectivité ou la personne morale propriétaire et après
+avoir recueilli auprès des services concernés les données nécessaires à sa rédaction. Le dossier est,
+adressé au Directeur régional de l'agriculture et de la forêt qui saisira en toute opportunité et dans les
+délais les plus courts le service forestier de la Direction départementale de l'agriculture et de la forêt
+sur le projet d'arrêté. Cet avis est joint au dossier.
+Un projet de texte d'arrêté d'aménagement forestier prenant en compte les nouvelles dispositions est
+joint en annexe. (cas de série unique).
+
+2
+De la même façon les nouvelles dispositions de l'article R.143.2 donnent pouvoir de décision au préfet
+de région pour tout changement dans le mode d'exploitation ou l'aménagement forestier conformément
+au 1
+er paragraphe de l'article L.143.2 après consultation de l'Office national des forêts et avis de la
+collectivité ou personne morale propriétaire. L'avis du service forestier de la Direction départementale de
+l'agriculture et de la forêt est également requis et joint au dossier.
+Ces deux dispositions sont d'ores et déjà inscrites dans les paragraphes 3.2.2. et 4.2 de l'instruction
+ministérielle sur l'aménagement forestier pour les forêts relevant du régime forestier du 2 novembre
+1994 (parties concernant les forêts soumises non domaniales) qui entrent en application.
+2. Aménagement : assiette d'une coupe non réglée.
+Les nouvelles dispositions de l'article R.143.3 en application du deuxième alinéa de l'article L.143.2
+donnent au préfet de région la compétence pour délivrer les autorisations de coupes non réglées. Il est
+autorisé à déléguer aux ingénieurs en service à l'Office national des forêts ses pouvoirs en la matière.
+Par ailleurs le préfet de région détient désormais le pouvoir de statuer en cas de recours d'une
+collectivité ou personne morale propriétaire contre le refus opposé par l'Office national des forêts d'une
+coupe non réglée.
+Afin de tenir compte de l'évolution de l'organisation de l'Office national des forêts, la circulaire n° 3007 du
+18 novembre 1981 visée en objet est modifiée comme suit :
+a) premier alinéa du 1°, page 1, lire :
+1° "aux responsables des niveaux de gestion de l'Office national des forêts pour autoriser".
+b) premier alinéa du 2°, page 2, lire :
+2° " aux responsables des niveaux de direction de l'Office national des forêts pour autoriser".
+L'avant dernier paragraphe de l'instruction devient caduc. Ses dispositions sont remplacées par le
+deuxième paragraphe du nouvel article R.143.3 qui stipule : "En cas de recours d'une collectivité ou
+personne morale propriétaire contre le refus opposé par l'Office national des forêts à l'assiette d'une
+coupe non réglée, le préfet de région statue".
+Le reste de la circulaire est inchangé.
+A cet effet et pour assurer la continuité et l'homogénéité des procédures de l'ensemble des forêts
+soumises au régime forestier dont la gestion incombe à l'Office national des forêts, je vous invite donc à
+accorder pour les forêts et terrains à boiser non domaniaux en cause, les délégations prévues dans
+cette circulaire et à prendre toutes les dispositions utiles pour statuer sur les litiges survenant entre une
+collectivité ou personne morale propriétaire et l'Office national des forêts qui portent sur l'assiette d'une
+coupe non réglée et le cas échéant d'une coupe réglée.
+La circulaire DERF/SDF/C n° 3012 du 12 septembre 1988 est abrogée.
+Pièce jointe : 1
+Cyrille VAN EFFENTERRE
+
+3
+REPUBLIQUE FRANCAISE
+PREFECTURE DE LA REGION..............
+Département :
+Forêt communale de :
+DIRECTION REGIONALE DE L'AGRICULTURE ET DE LA FORET
+Contenance : (ha)
+- ARRETE D'AMENAGEMENT FORESTIER -
+Révision d'aménagement forestier
+ou
+Premier aménagement forestier
+199 - 20
+LE PREFET DE LA REGION..................Chevalier (ou Officier) de la Légion d'Honneur
+VU les articles L-143-1 et R-143-1 du Code Forestier,
+VU l'arrêté ministériel en date du.................. réglant l'aménagement de la
+forêt communale de................ ,
+VU la délibération du Conseil Municipal de la commune de en date du ,
+déposée à la Sous-Préfecture de................ le..............., donnant un avis
+favorable au projet d'aménagement forestier,
+SUR la proposition du Directeur Régional de l'Office National des Forêts.
+ - A R R E T E -
+ARTICLE 1er - La forêt communale de (), (département de)d'une contenance de ha, est affectée
+principalement à .................et (le cas échéant) secondairement ......
+ARTICLE 2 - Elle forme une série unique est divisée comme suit traitée en ............. de........(indication des
+proportions des essences à atteindre à la fin de la durée d'application de l'aménagement forestier).
+Pendant une durée de......(19.. - 20..) : (liste des actions prévues : surface à régénérer, coupes, travaux,
+mise en repos.
+ARTICLE 3 - Le Directeur Régional de l'Office National des Forêts est chargé de l'exécution du présent
+arrêté.
+Fait à ................., le
+Le Préfet de la Région.......
