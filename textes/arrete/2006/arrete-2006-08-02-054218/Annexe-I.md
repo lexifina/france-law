@@ -20,6 +20,66 @@ Lettre de motivation manuscrite.
 
 Lettre de préengagement du candidat en qualité d'apprenti, émanant de l'employeur.
 
+Périmètre de recrutement des centres de formation préparant au diplôme de préparateur en pharmacie hospitalière
+
+Bordeaux
+
+Nouvelle-Aquitaine.
+
+Lille
+
+Hauts-de-France.
+
+La Réunion.
+
+Mayotte.
+
+Lyon
+
+Auvergne-Rhône-Alpes.
+
+Guadeloupe.
+
+Saint-Martin.
+
+Saint-Barthélemy.
+
+Marseille
+
+Provence-Alpes-Côte d'Azur.
+
+Corse.
+
+Metz
+
+Grand Est.
+
+Bourgogne-Franche-Comté.
+
+Montpellier
+
+Occitanie.
+
+Martinique.
+
+Guyane.
+
+Paris
+
+Ile-de-France.
+
+Normandie.
+
+Tours
+
+Centre-Val de Loire.
+
+Pays de la Loire.
+
+Bretagne.
+
+Saint-Pierre-et-Miquelon.
+
 COMPOSITION DU DOSSIER D'AUTORISATION EN VUE DE LA CRÉATION OU DU RENOUVELLEMENT D'AUTORISATION DES CENTRES DE FORMATION
 
 PIÈCES
@@ -42,65 +102,49 @@ a) Dénomination sociale de l'organisme
 
 |
 
-A fournir
-
-|
+A fournir |
 
 b) Adresses du site principal et, le cas échéant, des sites annexes
 
 |
 
-A fournir
-
-|
+A fournir |
 
 c) Les plans détaillés précisant la répartition et l'affectation des locaux (dont l'accessibilité aux personnes handicapées, le service de restauration, l'internat, les espaces de convivialité, etc.)
 
 |
 
-A fournir
-
-|
+A fournir |
 
 d) Description des activités
 
 |
 
-A fournir
-
-|
+A fournir |
 
 e) Organigramme administratif et fonctionnel
 
 |
 
-A fournir
-
-|
+A fournir |
 
 f) Nom des personnes engageant la responsabilité de l'organisme
 
 |
 
-A fournir
-
-|
+A fournir |
 
 g) Attestation d'assurance en vigueur au titre de la responsabilité civile couvrant les activités de contrôle entrant dans le champ d'application de la demande d'autorisation
 
 |
 
-A fournir
-
-|
+A fournir |
 
 h) L'avis favorable de la commission départementale de sécurité et d'accessibilité (dernier en date)
 
 |
 
-A fournir
-
-|
+A fournir |
 
 2. Gouvernance du centre de formation
 
@@ -110,73 +154,55 @@ a) Les missions du directeur et de l'équipe de direction, le cas échéant
 
 |
 
-A fournir
-
-|
+A fournir |
 
 b) Le projet pédagogique du centre défini à l'annexe III
 
 |
 
-A fournir
-
-|
+A fournir |
 
 c) Les membres des instances représentatives
 
 |
 
-A fournir
-
-|
+A fournir |
 
 d) Rapport d'activité
 
 |
 
-A fournir
-
-|
+A fournir |
 
 e) Tableau de suivi des indicateurs du rapport d'activité sur les cinq dernières années
 
 |
 
-A fournir le cas échéant
-
-|
+A fournir le cas échéant |
 
 f) L'engagement dans une démarche qualité de dispositifs de formations professionnelles supérieures
 
 |
 
-A fournir
-
-|
+A fournir |
 
 g) Développement d'une stratégie de communication interne
 
 |
 
-A fournir
-
-|
+A fournir |
 
 h) La mise en place d'un dispositif d'évaluation à travers des indicateurs types
 
 |
 
-A fournir le cas échéant
-
-|
+A fournir le cas échéant |
 
 i) Les ressources financières : le compte de résultat prévisionnel annexe (art. R. 6145-12 du code de la santé publique) pour les établissements publics et l'état des prévisions des recettes et des dépenses ou les comptes certifiés par le commissaire aux comptes (art. L. 6161-3 et R. 6161-9 et suivants du code de la santé publique), les tableaux de suivi d'affectation des ressources ; la mise en place d'indicateurs de suivi
 
 |
 
-A fournir
-
-|
+A fournir |
 
 3. Ressources humaines et matérielles
 
@@ -186,25 +212,19 @@ a) Liste nominative des membres permanents de l'équipe pédagogique, technique 
 
 |
 
-A fournir
-
-|
+A fournir |
 
 b) Le centre de ressources multimédia et documentaire : ordinateurs, accès internet, appareils multimédia, matériels de travaux pratiques
 
 |
 
-A fournir
-
-|
+A fournir |
 
 c) Les matériels pédagogiques : ordinateurs, accès internet, appareils multimédia, matériels de travaux pratiques
 
 |
 
-A fournir
-
-|
+A fournir |
 
 4. La place du centre dans le schéma régional
 
@@ -216,22 +236,14 @@ a) Le positionnement du centre dans l'environnement territorial au regard des be
 
 |
 
-A fournir
-
-|
+A fournir |
 
 b) Le positionnement du centre dans l'environnement économique et social de la région
 
 |
 
-A fournir
+A fournir |
 
-|
+c) Le positionnement du centre dans les démarches de partenariat et de réseaux interprofessionnels |
 
-c) Le positionnement du centre dans les démarches de partenariat et de réseaux interprofessionnels
-
-|
-
-A fournir
-
-|
+A fournir |
