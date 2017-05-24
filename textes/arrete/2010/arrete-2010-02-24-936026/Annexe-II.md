@@ -122,11 +122,37 @@ Bisphénol A
 
 |
 
-80-05-7 |
+80-05-7
+
+|
 
 0,1 mg/l (limite de migration), conformément aux méthodes établies
 
 par les normes EN 71-10 : 2005 et EN 71-11 : 2005
+
+|
+
+Formamide
+
+|
+
+75-12-7
+
+|
+
+20 μ g/m³ (limite d'émission) après une période maximale de vingt-huit jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)
+
+|
+
+1,2-benzisothiazol-3 (2H)-one
+
+|
+
+2634-33-5
+
+|
+
+5 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10 : 2005 et EN 71-11 : 2005
 
 |
 
