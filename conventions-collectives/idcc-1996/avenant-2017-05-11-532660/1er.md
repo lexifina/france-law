@@ -1,0 +1,47 @@
+# Article 1er
+
+L'article 17 « Maternité, paternité et adoption » des dispositions générales de la convention collective nationale susvisée est remplacé par un article ainsi rédigé :
+
+« Article 17
+
+Maternité, paternité et adoption
+
+(1)
+
+1. Conditions de travail
+
+L'employeur tiendra compte de l'état des femmes enceintes en ce qui concerne les conditions de travail, notamment en mettant à disposition de chaque salariée, à son poste de travail ou à proximité de celui-ci, un siège approprié, conformément aux dispositions du code du travail.
+
+2. Autorisations d'absence pour examens médicaux
+
+La salariée bénéficie d'une autorisation d'absence pour se rendre aux examens médicaux obligatoires prévus par le code de la santé publique dans le cadre de la surveillance médicale de la grossesse et des suites de l'accouchement. Il en va de même pour les actes médicaux nécessaires à la mise en œuvre d'une assistance médicale à la procréation.
+
+Le salarié dont l'épouse, la personne liée à lui par un pacte civil de solidarité ou vivant maritalement avec lui, est enceinte ou bénéficie d'une assistance médicale à la procréation, a droit à une autorisation d'absence pour se rendre à trois de ces examens médicaux.
+
+Ces absences n'entraînent aucune diminution de la rémunération et sont assimilées à une période de travail effectif pour la détermination de la durée des congés payés et des droits relatifs à l'ancienneté.
+
+3. Congé de maternité, de paternité et d'accueil de l'enfant, congé d'adoption
+
+Les durées ainsi que les modalités d'exercice du congé de maternité, du congé de paternité et d'accueil de l'enfant ainsi que du congé d'adoption sont fixées par les dispositions du code du travail.
+
+4. Protection contre le licenciement
+
+Conformément aux dispositions des articles L. 1225-4 et suivants du code du travail, l'employeur ne peut pas rompre le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement constaté, pendant l'intégralité des périodes de suspension du contrat de travail auxquelles elle a droit au titre du congé de maternité ou d'adoption, qu'elle use ou non de ce droit, et au titre des congés payés pris immédiatement après le congé de maternité ou d'adoption ainsi que pendant les 10 semaines suivant l'expiration de ces périodes. Toutefois, l'employeur peut rompre le contrat s'il justifie d'une faute grave de l'intéressée, non liée à l'état de grossesse, ou de son impossibilité de maintenir ce contrat pour un motif étranger à la grossesse, à l'accouchement ou à l'arrivée d'un enfant confié en vue de son adoption. Dans ce cas, la rupture du contrat de travail ne peut prendre effet ou être notifiée pendant les périodes de suspension du contrat de travail au titre du congé de maternité ou d'adoption.
+
+L'employeur ne peut pas rompre le contrat de travail d'un salarié pendant les 10 semaines suivant la naissance de son enfant ou l'arrivée d'un enfant confié en vue de son adoption. Toutefois, il peut rompre le contrat s'il justifie d'une faute grave de l'intéressé ou de son impossibilité de maintenir ce contrat pour un motif étranger à la naissance ou à l'arrivée de l'enfant. Dans ce cas, la rupture du contrat de travail ne peut prendre effet ou être notifiée pendant la période de suspension du contrat de travail liée au congé de paternité ou au congé d'adoption.
+
+5. Démission
+
+En application de l'article L. 1225-34 du code du travail, les femmes en état de grossesse médicalement constaté peuvent rompre leur contrat de travail sans délai-congé et sans avoir, de ce fait, à payer une indemnité de rupture.
+
+Il en est de même, conformément aux articles L. 1225-66 et suivants du code du travail, et sous réserve d'en informer leur employeur par lettre recommandée avec accusé de réception ou remise contre récépissé au moins 15 jours à l'avance, des salariés qui, pour élever leur enfant, rompent leur contrat de travail à l'expiration du congé de maternité ou d'adoption ou, le cas échéant, 2 mois après la naissance ou l'arrivée au foyer de l'enfant. En pareil cas, ils peuvent, dans l'année suivant la rupture du contrat de travail, solliciter dans les mêmes formes leur réembauche. Ils bénéficient alors, pendant 1 an, d'une priorité de réembauche dans les emplois auxquels leur qualification leur permet de prétendre. En cas de réemploi, l'employeur leur accorde le bénéfice de tous les avantages qu'ils avaient acquis au moment de leur départ.
+
+6. Congé parental d'éducation
+
+Pendant la période qui suit l'expiration du congé de maternité ou d'adoption, tout salarié qui justifie d'une ancienneté minimale d'une année à la date de la naissance de son enfant, adopté ou confié en vue de son adoption, ou de l'arrivée au foyer d'un enfant qui n'a pas encore atteint l'âge de la fin de l'obligation scolaire peut, dans les conditions prévues par les dispositions légales en vigueur, soit bénéficier d'un congé parental d'éducation durant lequel le contrat de travail est suspendu, soit réduire sa durée de travail sans que cette activité à temps partiel puisse être inférieure à 16 heures hebdomadaires.
+
+La durée ainsi que les modalités d'exercice du congé parental d'éducation sont fixées par le code du travail. »
+
+(1) Article étendu sous réserve que l'étendue des titulaires du dispositif permettant de se rendre à trois des examens obligatoires de suivi de grossesse, comprennent à la fois la conjointe ou le conjoint de la salariée enceinte, conformément aux dispositions de l'article L. 1225-16 du code du travail.
+
+(Arrêté du 24 juillet 2018 - art. 1er)
