@@ -1,0 +1,11 @@
+# Article 4 ter
+
+La délivrance des CQP transversaux du secteur alimentaire par la voie de la VAE s'opère en 3 étapes :
+
+– la recevabilité de la demande par l'organisme évaluateur VAE ;
+
+– le dossier déclaratif, intégrant le livret d'activité (livret A) ;
+
+– la décision du jury.
+
+Les différents exemples d'outils relatifs à ces étapes sont annexés au présent accord.

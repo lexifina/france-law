@@ -1,0 +1,33 @@
+# Article 4 bis
+
+1. Découpage des CQP transversaux en blocs de compétences
+
+Chaque CQP transversal fait l'objet d'un découpage par blocs de compétences (7 blocs au maximum), étant précisé qu'un même bloc de compétences peut être commun à plusieurs CQP transversaux. Les blocs de compétences se rapportent aux domaines de compétences des CQP transversaux. Aussi, l'acquisition d'un bloc de compétences vaut pour tous les CQP où ce bloc est requis.
+
+À chaque bloc de compétences correspondent des unités de compétences (UC) au nombre de 47. Une même UC peut être commune à plusieurs blocs de compétences.
+
+Le découpage des CQP transversaux en blocs de compétences et des blocs de compétences en UC est annexé au présent accord.
+
+2. Évaluation des compétences pour l'acquisition et la délivrance d'un bloc de compétences
+
+L'acquisition d'un bloc de compétences peut être réalisée de façon autonome. Elle est conditionnée à une évaluation des compétences par l'organisme évaluateur. Cette évaluation est centrée sur les connaissances et, le cas échéant, sur certains savoir-faire techniques.
+
+Pour qu'un bloc de compétences soit acquis, il faut que le niveau d'obtention des résultats soit au moins égal à 70 % sans qu'il puisse être inférieur à 50 % par unité de compétences.
+
+Des exemples de grilles permettant l'évaluation des blocs de compétences sont annexés au présent accord.
+
+L'acquisition d'un bloc de compétences et des UC qui le composent, donne lieu à la délivrance d'une attestation. Cette attestation est valable sans limitation de durée.
+
+3. Délivrance d'un CQP transversal par blocs de compétences
+
+L'acquisition de l'ensemble des blocs de compétences correspondant à un CQP transversal ouvre la possibilité de l'acquisition du CQP correspondant. Afin de répondre aux mêmes exigences de compétences que celle requises pour la délivrance des CQP transversaux par la voie « classique », le candidat doit avoir satisfait aux évaluations suivantes pour pouvoir obtenir le CQP correspondant :
+
+– évaluation par l'entreprise (tuteur)   ;
+
+– évaluation par un professionnel évaluateur ou un jury.
+
+Ces évaluations s'opèrent dans les conditions applicables pour la délivrance des CQP transversaux du secteur alimentaire par la voie « classique ».
+
+4. CQP communs à plusieurs branches professionnelles
+
+Les dispositions du présent article peuvent s'appliquer aux CQP communs à plusieurs branches professionnelles.
