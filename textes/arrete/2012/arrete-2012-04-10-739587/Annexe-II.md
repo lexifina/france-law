@@ -32,7 +32,7 @@ de source d'énergie par kilomètre) (2)
 
 |
 
-Marchandises de densité inférieure ou égale à 249 kg/m³
+Marchandises de densité inférieure ou égale à 249 kg/ m ³
 
 |
 
@@ -44,7 +44,7 @@ Electricité
 
 |
 
-16,60 kWh/km
+16,60 kWh/ km
 
 |
 
@@ -52,21 +52,21 @@ Gazole non routier
 
 |
 
-3,85 kg/km
+3,85 kg/ km
 
 |
 
-Mixte : électricité/gasoil non routier
+Mixte : électricité/ gasoil non routier
 
 |
 
-Electricité : 14,94 kWh/km
+Electricité : 14,94 kWh/ km
 
-Gasoil non routier : 0,38 kg/km
+Gasoil non routier : 0,38 kg/ km
 
 |
 
-Marchandises de densité comprise entre 250 et 399 kg/m³
+Marchandises de densité comprise entre 250 et 399 kg/ m ³
 
 |
 
@@ -78,7 +78,7 @@ Electricité
 
 |
 
-16,74 kWh/km
+16,74 kWh/ km
 
 |
 
@@ -86,17 +86,17 @@ Gazole non routier
 
 |
 
-3,88 kg/km
+3,88 kg/ km
 
 |
 
-Mixte : électricité/gasoil non routier
+Mixte : électricité/ gasoil non routier
 
 |
 
-Electricité : 15,07 kWh/km
+Electricité : 15,07 kWh/ km
 
-Gasoil non routier : 0,39 kg/km
+Gasoil non routier : 0,39 kg/ km
 
 |
 
@@ -112,7 +112,7 @@ Electricité
 
 |
 
-16,68 kWh/km
+16,68 kWh/ km
 
 |
 
@@ -120,23 +120,23 @@ Gazole non routier
 
 |
 
-3,86 kg/km
+3,86 kg/ km
 
 |
 
-Mixte : électricité/gasoil non routier
+Mixte : électricité/ gasoil non routier
 
 |
 
-Electricité : 15,01 kWh/km
+Electricité : 15,01 kWh/ km
 
-Gasoil non routier : 0,39 kg/km
+Gasoil non routier : 0,39 kg/ km
 
 |
 
 (1) Le nombre d'unités transportées tient compte des trajets à vide.
 
-(2) Quand deux sources d'énergie sont indiquées, la masse de dioxyde de carbone émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
+(2) Quand deux sources d'énergie sont indiquées, la masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
 
 |
 
@@ -178,7 +178,7 @@ Gazole non routier
 
 |
 
-6,30 l/km
+6,30 l/ km
 
 |
 
@@ -192,7 +192,7 @@ Gazole non routier
 
 |
 
-7,30 l/km
+7,30 l/ km
 
 |
 
@@ -206,7 +206,7 @@ Gazole non routier
 
 |
 
-8,30 l/km
+8,30 l/ km
 
 |
 
@@ -220,7 +220,7 @@ Gazole non routier
 
 |
 
-12,20 l/km
+12,20 l/ km
 
 |
 
@@ -234,11 +234,11 @@ Gazole non routier
 
 |
 
-19,90 l/km
+19,90 l/ km
 
 |
 
-Pousseur avec barge(s) (2) de capacité inférieure à 590 kW
+Pousseur avec barge (s) (2) de capacité inférieure à 590 kW
 
 Gazole non routier
 
@@ -248,11 +248,11 @@ Gazole non routier
 
 |
 
-9,40 l/km
+9,40 l/ km
 
 |
 
-Pousseur avec barge(s) (2) de capacité comprise entre 590 et 879 kW
+Pousseur avec barge (s) (2) de capacité comprise entre 590 et 879 kW
 
 Gazole non routier
 
@@ -262,11 +262,11 @@ Gazole non routier
 
 |
 
-14,40 l/km
+14,40 l/ km
 
 |
 
-Pousseur avec barge(s) (2) de capacité égale ou supérieure à 880 kW (hors transport de conteneurs)
+Pousseur avec barge (s) (2) de capacité égale ou supérieure à 880 kW (hors transport de conteneurs)
 
 Gazole non routier
 
@@ -276,11 +276,11 @@ Gazole non routier
 
 |
 
-28,40 l/km
+28,40 l/ km
 
 |
 
-Pousseur avec barge(s) (2) de capacité égale ou supérieure à 880 kW (transport de conteneurs)
+Pousseur avec barge (s) (2) de capacité égale ou supérieure à 880 kW (transport de conteneurs)
 
 Gazole non routier
 
@@ -290,7 +290,7 @@ Gazole non routier
 
 |
 
-28,40 l/km
+28,40 l/ km
 
 |
 
@@ -334,7 +334,7 @@ De moins de 40 250 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 39,20 kg/km
+Heavy fuel oil : 39,20 kg/ km
 
 Marine diesel oil (3)
 
@@ -350,7 +350,7 @@ De 40 250 à 63 499 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 39,70 kg/km
+Heavy fuel oil : 39,70 kg/ km
 
 Marine diesel oil (3)
 
@@ -366,7 +366,7 @@ De 63 500 à 127 500 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 49,40 kg/km
+Heavy fuel oil : 49,40 kg/ km
 
 Marine diesel oil (3)
 
@@ -382,7 +382,7 @@ De plus de 127 500 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 79,80 kg/km
+Heavy fuel oil : 79,80 kg/ km
 
 Marine diesel oil (3)
 
@@ -398,9 +398,9 @@ De moins de 26 500 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 55,00 kg/km
+Heavy fuel oil : 55,00 kg/ km
 
-Marine diesel oil : 0,50 kg/km
+Marine diesel oil : 0,50 kg/ km
 
 |
 
@@ -414,9 +414,9 @@ De 26 500 à 68 499 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 76,00 kg/km
+Heavy fuel oil : 76,00 kg/ km
 
-Marine diesel oil : 3,40 kg/km
+Marine diesel oil : 3,40 kg/ km
 
 |
 
@@ -430,7 +430,7 @@ De 68 500 à 200 000 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 72,50 kg/km
+Heavy fuel oil : 72,50 kg/ km
 
 Marine diesel oil (3)
 
@@ -446,7 +446,7 @@ De plus de 200 000 tonnes de port en lourd
 
 |
 
-Heavy fuel oil : 133,00 kg/km
+Heavy fuel oil : 133,00 kg/ km
 
 Marine diesel oil (3)
 
@@ -460,7 +460,7 @@ Gazier petit GPL
 
 |
 
-Heavy fuel oil : 25,90 kg/km
+Heavy fuel oil : 25,90 kg/ km
 
 Marine diesel oil : 1,50 kilogramme
 
@@ -480,7 +480,7 @@ Marine diesel oil (3)
 
 |
 
-Petit vraquier/navire fluvio-maritime
+Petit vraquier/ navire fluvio-maritime
 
 |
 
@@ -490,7 +490,7 @@ Petit vraquier/navire fluvio-maritime
 
 Heavy fuel oil (3)
 
-Marine diesel oil : 12,80 kg/km
+Marine diesel oil : 12,80 kg/ km
 
 |
 
@@ -504,9 +504,9 @@ De moins de 1 200 EVP
 
 |
 
-Heavy fuel oil : 32,30 kg/km
+Heavy fuel oil : 32,30 kg/ km
 
-Marine diesel oil : 0,80 kg/km
+Marine diesel oil : 0,80 kg/ km
 
 |
 
@@ -520,7 +520,7 @@ De 1 200 à 1 899 EVP
 
 |
 
-Heavy fuel oil : 66,30 kg/km
+Heavy fuel oil : 66,30 kg/ km
 
 Marine diesel oil (3)
 
@@ -536,7 +536,7 @@ De 1 900 à 3 849 EVP
 
 |
 
-Heavy fuel oil : 103,70 kg/km
+Heavy fuel oil : 103,70 kg/ km
 
 Marine diesel oil (3)
 
@@ -552,7 +552,7 @@ De 3 850 à 7 499 EVP
 
 |
 
-Heavy fuel oil : 174,00 kg/km
+Heavy fuel oil : 174,00 kg/ km
 
 Marine diesel oil (3)
 
@@ -568,7 +568,7 @@ De plus de 7 500 EVP
 
 |
 
-Heavy fuel oil : 210,50 kg/km
+Heavy fuel oil : 210,50 kg/ km
 
 Marine diesel oil (3)
 
@@ -582,9 +582,9 @@ Ferry de nuit
 
 |
 
-Heavy fuel oil : 18,45 kg/km
+Heavy fuel oil : 18,45 kg/ km
 
-Marine diesel oil : 12,04 kg/km
+Marine diesel oil : 12,04 kg/ km
 
 |
 
@@ -596,9 +596,9 @@ Ferry de jour
 
 |
 
-Heavy fuel oil : 33,51 kg/km
+Heavy fuel oil : 33,51 kg/ km
 
-Marine diesel oil : 4,28 kg/km
+Marine diesel oil : 4,28 kg/ km
 
 |
 
@@ -610,7 +610,7 @@ Ro-Pax
 
 |
 
-Heavy fuel oil : 32,20 kg/km
+Heavy fuel oil : 32,20 kg/ km
 
 Marine diesel oil (3)
 
@@ -624,15 +624,15 @@ Ro-Ro
 
 |
 
-Heavy fuel oil : 54,30 kg/km
+Heavy fuel oil : 54,30 kg/ km
 
-Marine diesel oil : 1,40 kg/km
+Marine diesel oil : 1,40 kg/ km
 
 |
 
 (1) Le nombre d'unités transportées tient compte des trajets à vide.
 
-(2) Quand deux sources d'énergie sont indiquées et quelle(s) que soi(en)t celle(s) utilisée(s) pour une prestation donnée, la masse de dioxyde de carbone émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
+(2) Quand deux sources d'énergie sont indiquées et quelle (s) que soi (en) t celle (s) utilisée (s) pour une prestation donnée, la masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
 
 (3) Valeur faible non déterminée, à considérer comme une valeur nulle.
 
@@ -646,7 +646,7 @@ DESCRIPTION
 
 de transport effectué [1] avec indication
 
-de la [des] sources[s] d'énergie utilisée[s])
+de la [des] sources [s] d'énergie utilisée [s])
 
 |
 
@@ -678,7 +678,7 @@ Gazole routier
 
 |
 
-0,160 l/km
+0,160 l/ km
 
 |
 
@@ -694,7 +694,7 @@ Gazole routier
 
 |
 
-0,160 l/km
+0,160 l/ km
 
 |
 
@@ -710,7 +710,7 @@ Gazole routier
 
 |
 
-0,270 l/km
+0,270 l/ km
 
 |
 
@@ -726,7 +726,7 @@ Gazole routier
 
 |
 
-0,342 l/km
+0,342 l/ km
 
 |
 
@@ -742,7 +742,7 @@ Gazole routier
 
 |
 
-0,270 l/km
+0,270 l/ km
 
 |
 
@@ -750,7 +750,7 @@ Ensemble articulé 40 tonnes PTRA
 
 Messagerie (frigorifique)
 
-Gazole routier/gazole non routier
+Gazole routier/ gazole non routier
 
 |
 
@@ -758,9 +758,9 @@ Gazole routier/gazole non routier
 
 |
 
-Gasoil routier : 0,342 l/km
+Gasoil routier : 0,342 l/ km
 
-Gasoil non routier : 0,070 l/km
+Gasoil non routier : 0,070 l/ km
 
 |
 
@@ -768,7 +768,7 @@ Porteur 19 tonnes PTAC
 
 Messagerie (frigorifique)
 
-Gazole routier/Gazole non routier
+Gazole routier/ Gazole non routier
 
 |
 
@@ -776,9 +776,9 @@ Gazole routier/Gazole non routier
 
 |
 
-Gasoil routier : 0,270 l/km
+Gasoil routier : 0,270 l/ km
 
-Gasoil non routier : 0,055 l/km
+Gasoil non routier : 0,055 l/ km
 
 |
 
@@ -794,7 +794,7 @@ Gazole routier
 
 |
 
-0,220 l/km
+0,220 l/ km
 
 |
 
@@ -810,7 +810,7 @@ Gazole routier
 
 |
 
-0,240 l/km
+0,240 l/ km
 
 |
 
@@ -826,7 +826,7 @@ Gazole routier
 
 |
 
-0,305 l/km
+0,305 l/ km
 
 |
 
@@ -842,13 +842,13 @@ Gazole routier
 
 |
 
-0,370 l/km
+0,370 l/ km
 
 |
 
 Ensemble articulé 40 tonnes PTRA
 
-Marchandises diverses/longue distance
+Marchandises diverses/ longue distance
 
 Gazole routier
 
@@ -858,13 +858,13 @@ Gazole routier
 
 |
 
-0,342 l/km
+0,342 l/ km
 
 |
 
 Ensemble articulé 40 tonnes PTRA
 
-Marchandises diverses/régional
+Marchandises diverses/ régional
 
 Gazole routier
 
@@ -874,7 +874,7 @@ Gazole routier
 
 |
 
-0,338 l/km
+0,338 l/ km
 
 |
 
@@ -890,7 +890,7 @@ Gazole routier
 
 |
 
-0,379 l/km
+0,379 l/ km
 
 |
 
@@ -898,7 +898,7 @@ Ensemble articulé 40 tonnes PTRA
 
 Avec groupe froid
 
-Gazole routier/gazole non routier
+Gazole routier/ gazole non routier
 
 |
 
@@ -906,9 +906,9 @@ Gazole routier/gazole non routier
 
 |
 
-Gasoil routier : 0,332 l/km
+Gasoil routier : 0,332 l/ km
 
-Gasoil non routier : 0,070 l/km
+Gasoil non routier : 0,070 l/ km
 
 |
 
@@ -924,7 +924,7 @@ Gazole routier
 
 |
 
-0,427 l/km
+0,427 l/ km
 
 |
 
@@ -940,7 +940,7 @@ Gazole routier
 
 |
 
-0,405 l/km
+0,405 l/ km
 
 |
 
@@ -956,7 +956,7 @@ Gazole routier
 
 |
 
-0,373 l/km
+0,373 l/ km
 
 |
 
@@ -972,7 +972,7 @@ Gazole routier
 
 |
 
-0,353 l/km
+0,353 l/ km
 
 |
 
@@ -988,7 +988,7 @@ Gazole routier
 
 |
 
-0,160 l/km
+0,160 l/ km
 
 |
 
@@ -1004,7 +1004,7 @@ Gazole routier
 
 |
 
-0,270 l/km
+0,270 l/ km
 
 |
 
@@ -1020,7 +1020,7 @@ Gazole routier
 
 |
 
-0,342 l/km
+0,342 l/ km
 
 |
 
@@ -1028,7 +1028,7 @@ Gazole routier
 
 (2) Le nombre d'unités transportées tient compte des trajets à vide.
 
-(3) Quand deux sources d'énergie sont indiquées, la masse de dioxyde de carbone émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
+(3) Quand deux sources d'énergie sont indiquées, la masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
 
 |
 
@@ -1070,7 +1070,7 @@ Electricité
 
 |
 
-20,0 kWh/km
+20,0 kWh/ km
 
 |
 
@@ -1084,7 +1084,7 @@ Electricité
 
 |
 
-20,0 kWh/km
+20,0 kWh/ km
 
 |
 
@@ -1098,7 +1098,7 @@ Electricité
 
 |
 
-13,5 kWh/km
+13,5 kWh/ km
 
 |
 
@@ -1112,7 +1112,7 @@ Gazole non routier
 
 |
 
-1,7 l/km
+1,7 l/ km
 
 |
 
@@ -1152,7 +1152,7 @@ Gazole non routier
 
 |
 
-6,0 l/km
+6,0 l/ km
 
 |
 
@@ -1198,7 +1198,7 @@ Transport urbain et périurbain en agglomération de plus de 250 000 habitants
 
 |
 
-5,87 kWh/km
+5,87 kWh/ km
 
 |
 
@@ -1212,7 +1212,7 @@ Transport urbain et périurbain en agglomération de moins de 250 000 habitants
 
 |
 
-2,60 kWh/km
+2,60 kWh/ km
 
 |
 
@@ -1226,7 +1226,7 @@ Electricité
 
 |
 
-2,24 kWh/km
+2,24 kWh/ km
 
 |
 
@@ -1268,9 +1268,9 @@ Ferry de nuit (3)
 
 |
 
-Heavy fuel oil : 35,59 kg/km
+Heavy fuel oil : 35,59 kg/ km
 
-Marine diesel oil : 23,22 kg/km
+Marine diesel oil : 23,22 kg/ km
 
 |
 
@@ -1278,9 +1278,9 @@ Marine diesel oil : 23,22 kg/km
 
 |
 
-Heavy fuel oil : 11,86 kg/km
+Heavy fuel oil : 11,86 kg/ km
 
-Marine diesel oil : 7,74 kg/km
+Marine diesel oil : 7,74 kg/ km
 
 |
 
@@ -1292,9 +1292,9 @@ Ferry de jour (3)
 
 |
 
-Heavy fuel oil : 64,64 kg/km
+Heavy fuel oil : 64,64 kg/ km
 
-Marine diesel oil : 8,26 kg/km
+Marine diesel oil : 8,26 kg/ km
 
 |
 
@@ -1302,7 +1302,7 @@ Marine diesel oil : 8,26 kg/km
 
 |
 
-Heavy fuel oil : 21,55 kg/km
+Heavy fuel oil : 21,55 kg/ km
 
 Marine diesel oil : 2,76 kilogrammes
 
@@ -1316,7 +1316,7 @@ Ro-Pax (3)
 
 |
 
-Heavy fuel oil : 62,10 kg/km
+Heavy fuel oil : 62,10 kg/ km
 
 Marine diesel oil (4)
 
@@ -1326,7 +1326,7 @@ Marine diesel oil (4)
 
 |
 
-Heavy fuel oil : 20,70 kg/km
+Heavy fuel oil : 20,70 kg/ km
 
 Marine diesel oil (4)
 
@@ -1334,9 +1334,9 @@ Marine diesel oil (4)
 
 (1) Le nombre d'unités transportées tient compte des trajets à vide.
 
-(2) Quand deux sources d'énergie sont indiquées et quelle(s) que soi(en)t celle(s) utilisée(s) pour une prestation donnée, la masse de dioxyde de carbone émise par kilomètre est calculée en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi obtenus.
+(2) Quand deux sources d'énergie sont indiquées et quelle (s) que soi (en) t celle (s) utilisée (s) pour une prestation donnée, la masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise par kilomètre est calculée en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi obtenus.
 
-(3) La masse de dioxyde de carbone émise pour une prestation de transport de passagers avec voiture est obtenue en additionnant la valeur calculée pour les passagers et la valeur calculée pour la voiture.
+(3) La masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise pour une prestation de transport de passagers avec voiture est obtenue en additionnant la valeur calculée pour les passagers et la valeur calculée pour la voiture.
 
 (4) Valeur faible non déterminée, à considérer comme une valeur nulle.
 
@@ -1354,7 +1354,7 @@ DÉPLACEMENT OU DISTANCE
 
 (
 
-article 12, alinéa 4, du décret n° 2011-1336du 24 octobre 2011)
+article 12, alinéa 4, du décret n° 2011-1336 du 24 octobre 2011)
 
 |
 
@@ -1372,7 +1372,7 @@ Taxi, voiture de tourisme avec chauffeur, voiture de petite remise
 
 |
 
-La quantité de dioxyde de carbone émise pour la prestation de transport et rapportée au déplacement ou à la distance est obtenue en multipliant par 2 les valeurs de niveau 1 indiquées dans la colonne de droite pour tenir compte des trajets réalisés à vide.
+La quantité de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise pour la prestation de transport et rapportée au déplacement ou à la distance est obtenue en multipliant par 2 les valeurs de niveau 1 indiquées dans la colonne de droite pour tenir compte des trajets réalisés à vide.
 
 |
 
@@ -1380,23 +1380,23 @@ Voir II de l'article 3
 
 |
 
-Moto de cylindrée égale ou supérieure à 750 cm³
+Moto de cylindrée égale ou supérieure à 750 cm ³
 
 Essence automobile
 
 |
 
-0,070 l/km
+0,070 l/ km
 
 |
 
-Moto ou scooter de cylindrée inférieure à 750 cm³
+Moto ou scooter de cylindrée inférieure à 750 cm ³
 
 Essence automobile
 
 |
 
-0,060 l/km
+0,060 l/ km
 
 |
 
@@ -1434,7 +1434,7 @@ Transport urbain et périurbain en agglomération de plus de 250 000 habitants
 
 |
 
-Gazole routier : 0,460 l/kmGaz naturel comprimé pour véhicule routier : 0,081 l/km
+Gazole routier : 0,460 l/ kmGaz naturel comprimé pour véhicule routier : 0,081 l/ km
 
 |
 
@@ -1446,11 +1446,11 @@ Transport urbain et périurbain en agglomération de 100 000 à 250 000 habitant
 
 |
 
-Gazole routier : 0,465 l/kmGaz naturel comprimé pour véhicule routier : 0,054 l/km
+Gazole routier : 0,465 l/ kmGaz naturel comprimé pour véhicule routier : 0,054 l/ km
 
 |
 
-Transport urbain et périurbain en agglomération de moins de 100 000 habitants)/transport interurbain
+Transport urbain et périurbain en agglomération de moins de 100 000 habitants)/ transport interurbain
 
 |
 
@@ -1458,13 +1458,13 @@ Transport urbain et périurbain en agglomération de moins de 100 000 habitants)
 
 |
 
-Gazole routier : 0,432 l/kmGaz naturel comprimé pour véhicule routier : 0,021 l/km
+Gazole routier : 0,432 l/ kmGaz naturel comprimé pour véhicule routier : 0,021 l/ km
 
 |
 
 (1) Le nombre d'unités transportées tient compte des trajets à vide.
 
-(2) Quand deux sources d'énergie sont indiquées, la masse de dioxyde de carbone émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
+(2) Quand deux sources d'énergie sont indiquées, la masse de gaz à effet de serre (dioxyde de carbone équivalent ou CO2e) émise par kilomètre est obtenue en multipliant le taux de consommation de chacune des sources d'énergie par le facteur d'émission correspondant et en additionnant les deux nombres ainsi calculés.
 
 |
 

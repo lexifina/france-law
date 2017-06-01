@@ -1,591 +1,321 @@
 # Article Annexe I
 
-VALEURS DES FACTEURS D'ÉMISSION DES SOURCES D'ÉNERGIE UTILISÉES PAR LES MODES DE TRANSPORT
+VALEURS DES FACTEURS D'ÉMISSION DES SOURCES D'ÉNERGIE UTILISÉES PAR LES MOYENS DE TRANSPORT
 
-(Article 5 du décret n° 2011-1336 du 24 octobre 2011)
+(En kilogramme de dioxyde de carbone équivalent par unité de mesure de la quantité de source d'énergie)
 
-(En kilogramme de dioxyde de carbone par unité de mesure
-
-de la quantité de source d'énergie)
-
-NATURE
-
-de la source d'énergie
-
-|
-
-TYPE DÉTAILLÉ
-
-de la source d'énergie
-
-|
-
-UNITÉ DE MESURE
-
-de la quantité de source d'énergie
-
-|
-
-FACTEUR D'ÉMISSION
-
-|
-
-Phase amont
-
-|
-
-Phase
-
-de fonctionnement
-
-|
-
-Total
-
-|
-
-Electricité
-
-|
-
-Consommée en France métropolitaine (hors Corse)
-
-|
-
-Kilowatt-heure
-
-|
-
-0,053
-
-|
-
-0,000
-
-|
-
-0,053
-
-|
-
-Consommée en Corse
-
-|
-
-Kilowatt-heure
-
-|
-
-0,583
-
-|
-
-0,000
-
-|
-
-0,583
-
-|
-
-Consommée en Guadeloupe
-
-|
-
-Kilowatt-heure
-
-|
-
-0,688
-
-|
-
-0,000
-
-|
-
-0,688
-
-|
-
-Consommée en Guyane
-
-|
-
-Kilowatt-heure
-
-|
-
-0,350
-
-|
-
-0,000
-
-|
-
-0,350
-
-|
-
-Consommée en Martinique
-
-|
-
-Kilowatt-heure
-
-|
-
-0,825
-
-|
-
-0,000
-
-|
-
-0,825
-
-|
-
-Consommée à Mayotte
-
-|
-
-Kilowatt-heure
-
-|
-
-0,765
-
-|
-
-0,000
-
-|
-
-0,765
-
-|
-
-Consommée à La Réunion
-
-|
-
-Kilowatt-heure
-
-|
-
-0,764
-
-|
-
-0,000
-
-|
-
-0,764
-
-|
-
-Consommée en Europe (hors France)
-
-|
-
-Kilowatt-heure
-
-|
-
-0,420
-
-|
-
-0,000
-
-|
-
-0,420
-
-|
-
-Carburant aéronautique
-
-|
-
-Carburéacteur large coupe (jet B)
-
-|
-
-Litre
-
-|
-
-0,488
-
-|
-
-2,480
-
-|
-
-2,968
-
-|
-
-Essence aviation (AvGas)
-
-|
-
-Litre
-
 |
 
-0,488
-
-|
-
-2,480
-
-|
-
-2,968
-
-|
-
-Kérosène (Jet A1 ou Jet A)
-
-|
-
-Litre
-
-|
-
-0,480
-
-|
-
-2,520
-
-|
-
-3,000
-
-|
-
-Essence automobile
-
 |
-
-Essence à la pompe (SP 95-SP 98)
 
 |
 
-Litre
+FACTEUR D'ÉMISSION (1) |
 
-|
+Nature de la source d'énergie |
 
-0,47
+Type détaillé de la source d'énergie |
 
-|
+Unité de mesure de la quantité de source d'énergie |
 
-2,24
+Phase amont |
 
-|
+Phase de fonctionnement |
 
-2,71
+Total |
 
-|
+Electricité |
 
-E 10
+Consommée en France métropolitaine (hors Corse) |
 
-|
+kilowatt/ heure |
 
-Litre
+0,048 |
 
-|
+0,000 |
 
-0,49
+0,048 |
 
-|
+Consommée en Corse |
 
-2,18
+kilowatt/ heure |
 
-|
+0,59 |
 
-2,67
+0,00 |
 
-|
+0,59 |
 
-E 85
+Consommée en Guadeloupe |
 
-|
+kilowatt/ heure |
 
-Litre
+0,70 |
 
-|
+0,00 |
 
-0,87
+0,70 |
 
-|
+Consommée en Guyane |
 
-0,36
+kilowatt/ heure |
 
-|
+2,56 |
 
-1,23
+0,00 |
 
-|
+2,56 |
 
-Fioul
+Consommée en Martinique |
 
-|
+kilowatt/ heure |
 
-Light fuel oil ISO 8217 Classes RMA à RMD
+0,84 |
 
-|
+0,00 |
 
-Kilogramme
+0,84 |
 
-|
+Consommée à Mayotte |
 
-0,61
+kilowatt/ heure |
 
-|
+0,78 |
 
-3,15
+0,00 |
 
-|
+0,78 |
 
-3,76
+Consommée à La Réunion |
 
-|
+kilowatt/ heure |
 
-Heavy fuel oil ISO 8217 Classes RME à RMK
+0,78 |
 
-|
+0,00 |
 
-Kilogramme
+0,78 |
 
-|
+Consommée en Europe (hors France) |
 
-0,46
+kilowatt/ heure |
 
-|
+0,42 |
 
-3,12
+0,00 |
 
-|
+0,42 |
 
-3,58
+Carburant aéronautique |
 
-|
+Carburéacteur large coupe (Jet B) |
 
-Gazole
+litre |
 
-|
+0,53 |
 
-Gazole routier à la pompe
+2,48 |
 
-|
+3,01 |
 
-Litre
+Essence aviation (AvGas) |
 
-|
+litre |
 
-0,58
+0,53 |
 
-|
+2,48 |
 
-2,49
+3,01 |
 
-|
+Kérosène (Jet A1 ou Jet A) |
 
-3,07
+litre |
 
-|
+0,53 |
 
-Gazole non routier à la pompe
+2,52 |
 
-|
+3,05 |
 
-Litre
+Essence automobile |
 
-|
+Essence (SP 95-SP 98) |
 
-0,58
+litre |
 
-|
+0,53 |
 
-2,49
+2,26 |
 
-|
+2,79 |
 
-3,07
+E 10 |
 
-|
+litre |
 
-|
+0,55 |
 
-Kilogramme
+2,22 |
 
-|
+2,77 |
 
-0,68
+E 85 |
 
-|
+litre |
 
-2,95
+1,09 |
 
-|
+0,37 |
 
-3,63
+1,46 |
 
-|
+Fioul |
 
-B 30
+Light fuel oil ISO 8217
 
-|
+Classes RMA à RMD |
 
-Litre
+kilogramme |
 
-|
+0,68 |
 
-0,79
+3,17 |
 
-|
+3,85 |
 
-1,86
+Heavy fuel oil ISO 8217
 
-|
+Classes RME à RMK |
 
-2,65
+kilogramme |
 
-|
+0,50 |
 
-Marine diesel oil ISO 8217 Classes DMX à DMB
+3,14 |
 
-|
+3,64 |
 
-Kilogramme
+Gazole |
 
-|
+Gazole routier |
 
-0,61
+litre |
 
-|
+0,66 |
 
-3,15
+2,51 |
 
-|
+3,17 |
 
-3,76
+Gazole non routier |
 
-|
+litre |
 
-Gaz de pétrole liquéfié (GPL)
+0,66 |
 
-|
+2,51 |
 
-GPL pour véhicule routier
+3,17 |
 
-|
+kilogramme |
 
-Litre
+0,78 |
 
-|
+2,98 |
 
-0,19
+3,76 |
 
-|
+B 30 |
 
-1,58
+litre |
 
-|
+0,98 |
 
-1,77
+1,88 |
 
-|
+2,87 |
 
-Butane maritime
+Marine diesel oil ISO 8217
 
-|
+Classes DMX à DMB |
 
-Kilogramme
+kilogramme |
 
-|
+0,68 |
 
-0,35
+3,17 |
 
-|
+3,85 |
 
-2,92
+Gaz de pétrole liquéfié (GPL) |
 
-|
+GPL carburant (GPLc) |
 
-3,27
+litre |
 
-|
+0,26 |
 
-Propane maritime
+1,60 |
 
-|
+1,86 |
 
-Kilogramme
+Butane |
 
-|
+kilogramme |
 
-0,35
+0,49 |
 
-|
+2,95 |
 
-2,94
+3,44 |
 
-|
+Propane |
 
-3,29
+kilogramme |
 
-|
+0,49 |
 
-Gaz naturel
+2,98 |
 
-|
+3,47 |
 
-Gaz naturel comprimé pour véhicule routier (GNV)
+Gaz naturel |
 
-|
+Gaz naturel comprimé pour véhicule routier (GNC) |
 
-Litre
+m3 |
 
-|
+0,44 |
 
-0,32
+1,84 |
 
-|
+2,28 |
 
-1,81
+kilogramme |
 
-|
+0,67 |
 
-2,13
+2,81 |
 
-|
+3,48 |
 
-Gaz naturel liquéfié maritime (GNL)
+Gaz naturel liquéfié (GNL) |
 
-|
+m3 |
 
-Kilogramme
+0,46 |
 
-|
+1,84 |
 
-0,52
+2,30 |
 
-|
+kilogramme |
 
-2,77
+0,70 |
 
-|
+2,81 |
 
-3,29
+3,51 |
 
-|
+(1) Chaque colonne est un arrondi exact. Il en résulte que la colonne "Total" peut être différente de la somme des deux autres. |
