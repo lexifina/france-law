@@ -72,7 +72,7 @@ III.-Documentaire de création :
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts ;
+5° Le relevé complet des génériques créditant notamment les conseillers historiques, scientifiques ou artistiques ou les experts ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges afférentes à chacune de ces rémunérations ;
 
@@ -88,7 +88,21 @@ III.-Documentaire de création :
 
 11° Une copie vidéo de l'œuvre incluant les génériques. ;
 
-12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable.
+12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
+
+13° Le cas échéant, pour l'attribution des bonifications prévues au III de l'article 311-48 :
+
+a) Toute pièce justificative de l'obtention d'une aide à l'écriture ou au développement ;
+
+b) Toute convention d'écriture ou de développement ;
+
+c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
+
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée de la musique utilisée ;
+
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à l'étranger ;
+
+f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
@@ -122,4 +136,4 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 NOTA :
 
-Conformément à l'article 8 de la délibération n° 2015/CA/15 du 24 septembre 2015, les présentes dispositions s'appliquent aux demandes d'autorisation définitive adressées au Centre national du cinéma et de l'image animée à compter du premier jour du mois suivant celui de la date d'entrée en vigueur de la présente délibération.
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois suivant celui de la date d'entrée en vigueur de la présente délibération.

@@ -86,6 +86,8 @@ Articles
 
 2.05 Marques d'identification des ancres.
 
+2.06 Marque d'identification des bâtiments utilisant du gaz naturel liquéfié (GNL) comme combustible.
+
 CHAPITRE III
 
 Signalisation des bâtiments
@@ -372,7 +374,9 @@ Articles
 
 8.11 Sécurité à bord des bâtiments autorisés au transport de plus de 12 passagers.
 
-8.12 Utilisation des embarcadères pour les bateaux à passagers.
+8.12 Sécurité à bord des bâtiments utilisant du gaz naturel liquéfié (GNL) comme combustible.
+
+8.13 Utilisation des embarcadères pour les bateaux à passagers.
 
 CHAPITRE IX
 
@@ -418,9 +422,11 @@ Articles
 
 11.06 Obligation de vigilance lors de l'avitaillement.
 
-11.07 Collecte, dépôt et réception des déchets liés à la cargaison.
+11.07 Obligation de vigilance lors de l'avitaillement en gaz naturel liquéfié (GNL).
 
-11.08 Peinture et nettoyage externe des bateaux.
+11.08 Collecte, dépôt et réception des déchets liés à la cargaison.
+
+11.09 Peinture et nettoyage externe des bateaux.
 
 ANNEXES
 
@@ -446,4 +452,4 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-I-15-5.2-1-2 du 11 juin 2015, l'amendement entrera en vigueur le 1er janvier 2016.
+Conformément à la décision CM-I-16-5.3-1-3 du 9 juin 2016, l'amendement entre en vigueur le 1er juin 2017.

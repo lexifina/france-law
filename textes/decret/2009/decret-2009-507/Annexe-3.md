@@ -17,3 +17,5 @@ La présente annexe a été modifiée par la décision CM-I-11 du 21 juin 2011. 
 La présente annexe a été modifiée par la décision CM-I-13-4.4-1-1 du 13 juin 2013, avec une entrée en vigueur le 1er juin 2014. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=4RGCUQt-YyJuHR1u6Qw1qUmtqoLOiPab_gT-xvWbPuE=
 
 La présente annexe a été modifiée par la décision CM-I-13-4.3-1-1 du 13 juin 2013, avec une entrée en vigueur le 1er juin 2014. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=1ro2lQ6Gl5xLmwasW-SBCHEkAp4FIizANS-DxD8-Hjk=
+
+La présente annexe a été modifiée par la décision CM-I-16-5.3-1-3 du 9 juin 2016, avec une entrée en vigueur le 1er juin 2017. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=JS17zyAWXcVMYkvY4NKJZLrMV7Uy9NCeEIjvROjQfQ0=
