@@ -14,9 +14,7 @@ la décision est acquise
 
 |
 
-Code des assurances
-
-|
+Code des assurances |
 
 Autorisation préalable de modification du traité de réassurance par les sociétés d'assurance mutuelle (sam) adhérant à une union de sociétés d'assurance mutuelles. |
 
@@ -102,9 +100,7 @@ Articles R. 334-41 et R. 334-44 |
 
 3 mois |
 
-Code des douanes
-
-|
+Code des douanes |
 
 Statut d'entrepositaire agréé. |
 
@@ -127,6 +123,12 @@ Article 158 nonies |
 Statut d'expéditeur enregistré. |
 
 Article 158 decies |
+
+6 mois |
+
+Francisation des navires. |
+
+Article 227 |
 
 6 mois |
 
@@ -246,9 +248,7 @@ Article 265 B |
 
 6 mois |
 
-Code général des impôts
-
-|
+Code général des impôts |
 
 Exercice de la mission de tiers de confiance.
 
@@ -334,9 +334,7 @@ Article 523, articles 275 bis B à 275 bis L et 275 ter à 275 ter P de l'annexe
 
 6 mois |
 
-Code monétaire et financier
-
-|
+Code monétaire et financier |
 
 Autorisation d'exercer l'activité de changeurs manuels. |
 
@@ -400,9 +398,7 @@ Article R. 612-29-3 |
 
 3 mois |
 
-Code de la mutualité
-
-|
+Code de la mutualité |
 
 Affiliation, retrait ou exclusion d'une mutuelle ou d'une union à une union mutualiste de groupe (UMG) |
 
@@ -452,9 +448,7 @@ Article R. 213-2 |
 
 3 mois |
 
-Code des postes et des communications électroniques
-
-|
+Code des postes et des communications électroniques |
 
 Encadrement des tarifs des prestataires désignés pour la fourniture du service universel des communications électroniques |
 
@@ -468,9 +462,7 @@ Articles L. 36-7, L. 38-1 et D. 315 |
 
 3 semaines |
 
-Code général de la propriété des personnes publiques
-
-|
+Code général de la propriété des personnes publiques |
 
 Agrément de cession de titres d'occupation constitutifs de droits réels sur le domaine public de l'Etat. |
 
@@ -490,9 +482,7 @@ Article R. 2122-27 |
 
 4 mois |
 
-Code de la sécurité sociale
-
-|
+Code de la sécurité sociale |
 
 Autorisation préalable de transfert de portefeuilles des institutions de prévoyance et de leurs unions. |
 
@@ -530,29 +520,11 @@ Article R. 933-5 |
 
 3 mois |
 
-Code du travail
-
-|
+Code du travail |
 
 Agrément pour l'exercice d'une activité s'adressant à un public fragile dans le secteur des services à la personne. |
 
 Articles L. 7232-1 et R. 7232-4 |
-
-3 mois |
-
-Décret n° 97-558 du 29 mai 1997 relatif aux conditions d'accès à la profession de coiffeur |
-
-Autorisation, par un professionnel ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, à exercer, à titre permanent, le contrôle effectif et permanent de l'activité professionnelle de coiffure. |
-
-Article 7 |
-
-3 mois |
-
-Décret n° 98-246 du 2 avril 1998 relatif à la qualification professionnelle exigée pour l'exercice des activités prévues à l'article 16 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat |
-
-Attestation de qualification professionnelle à exercer, le contrôle effectif et permanent de l'une des activités mentionnées au I de l'article 16 de la loi du 5 juillet 1996. |
-
-Article 3-1 |
 
 3 mois |
 
