@@ -2,496 +2,234 @@
 
 ANNEXE I
 
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NIVEAU
 
 des responsabilités
 
-exercées
-
-|
+exercées |
 
 NOMBRE DE POINTS
 
-par emploi
+par emploi |
 
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-I.-Etablissements publics et administration centrale
-
-|
-
-|
-
-|
-
-|
-
-Responsables de l'accueil du public
-
-|
-
-|
-
-|
-
-|
-
-A l'administration centrale
-
-|
-
-C
-
-|
-
-15
-
-|
-
-2
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut
-
-national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut
-
-français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile
-
-(ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA)
-
-|
-
-C
-
-|
-
-15
-
-|
-
-12
-
-|
-
-Dans les centres de ressources, d'expertise et de performance sportives (CREPS)
-
-|
-
-C
-
-|
-
-15
-
-|
-
-50
-
-|
-
-Correspondant informatique interrégional responsable de la mise en œuvre
-
-des applications nationales dans les établissements nationaux de la
-
-jeunesse et des sports
-
-|
-
-A
-
-|
-
-21
-
-|
-
-2
-
-|
-
-Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité à
-
-l'INSEP, à l'INJEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS
-
-|
-
-B
-
-|
-
-20
-
-|
-
-27
-
-|
-
-Responsable du traitement de la paye à l'administration centrale
-
-|
-
-C
-
-|
-
-15
-
-|
-
-1
-
-|
-
-II.-Etablissements publics
-
-|
-
-|
-
-|
-
-|
-
-Responsable de la gestion
-
-|
-
-|
-
-|
-
-|
+NOMBRE D'EMPLOIS |
 
-A l'INSEP et à l'INJEP
+I.-Etablissements publics
 
-|
-
-A
-
-|
-
-47
-
-|
-
-2
-
-|
-
-Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE
-
-|
-
-A
-
-|
-
-40
-
-|
-
-26
-
-|
-
-Adjoints du responsable de la gestion
-
-|
-
-|
-
-|
-
-|
-
-A l'INSEP et à l'INJEP
-
-|
-
-A
-
-|
-
-18
-
-|
-
-4
-
-|
-
-Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE
-
-|
-
-A-B
-
-|
-
-15
-
-|
-
-29
-
-|
-
-Responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV, à
-
-l'ENSA et dans les CREPS
-
-|
+et services à compétence nationale |
 
-C
-
 |
 
-20
-
 |
-
-29
 
 |
 
-Adjoints du responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV,
+Responsables de l'accueil du public : |
 
-à l'ENSA et dans les CREPS
-
 |
-
-C
 
 |
 
-15
-
 |
-
-30
 
-|
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut français du cheval et de l'équitation (IFCE), à l'Ecole nationale de voile et des sports nautiques (ENVSN), à l'Ecole nationale de ski et d'alpinisme (ENSA) Dans les centres de ressources, d'expertise et de performance sportives (CREPS) |
 
-Responsables de la maintenance des locaux à l'INSEP, à l'INJEP, à l'ENV, à
+C |
 
-l'ENSA, à l'ENE et dans les CREPS
+15 |
 
-|
+40 |
 
-C
+Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité à l'INSEP, à l'IFCE à l'ENVSN, à l'ENSA et dans les CREPS |
 
-|
+B |
 
-15
+20 |
 
-|
+20 |
 
-32
+Responsable de la gestion financière : |
 
 |
-
-Responsables de la maintenance des équipements sportifs et du magasin à
 
-l'INSEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS
-
 |
-
-C
 
 |
 
-15
+Dans les CREPS, à l'ENVSN, à l'ENSA et à l'IFCE |
 
-|
+A |
 
-30
-
-|
+40 |
 
-Responsables des personnels de service à l'INSEP, à l'INJEP, à l'ENE, à
+17 |
 
-l'ENV, à l'ENSA et dans les CREPS
+Adjoints du responsable de la gestion financière : |
 
 |
 
-C
-
 |
-
-15
 
 |
 
-32
+Dans les CREPS, à l'ENV, à l'ENSA et à l'IFCE |
 
-|
+A-B |
 
-Responsables des espaces verts à l'INSEP, à INJEP et dans les CREPS
+15 |
 
-|
+19 |
 
-C
+Responsable de la restauration à l'INSEP, à l'ENVSN, à l'ENSA et dans les CREPS |
 
-|
+C |
 
-15
+20 |
 
-|
+7 |
 
-33
+Adjoints du responsable de la restauration à l'INSEP, à l'ENVSN, à l'ENSA et dans les CREPS |
 
-|
+C |
 
-Responsable de la maintenance audiovisuelle à INSEP, à l'INJEP, à ENE, à
+15 |
 
-ENV et à l'ENSA
+6 |
 
-|
+Responsables de la maintenance des locaux à l'INSEP, à l'ENVSN, à l'ENSA, à l'IFCE et dans les CREPS |
 
-C
+C |
 
-|
+15 |
 
-15
+19 |
 
-|
+Chef de pôle ou département dans les CREPS, à l'ENSM, l'ENVSN, et l'INSEP |
 
-5
+A |
 
-|
+30 |
 
-Assistante sociale à l'INSEP
+69 |
 
-|
+Gestionnaire de Ressources Humaines et de paye dans les CREPS, à l'ENSM, l'ENVSN, et l'INSEP |
 
-B
+B ou C |
 
-|
+15 |
 
-15
+25 |
 
-|
+Responsable des ressources humaines (RRH) dans les CREPS, à l'ENSM, l'ENVSN, et l'INSEP |
 
-1
+A |
 
-|
+40 |
 
-Responsables de la gymnastique médicale à l'INSEP
+20 |
 
-|
+Adjoint au RRH dans les CREPS, l'ENSM, l'ENVSN et l'INSEP |
 
-B
+A |
 
-|
+15 |
 
-15
+20 |
 
-|
+Responsable d'un pôle national de ressources et d'expertise dans les CREPS |
 
-32
+A |
 
-|
+40 |
 
-Responsables des soins infirmiers dans les établissements publics de la
+4 |
 
-jeunesse et des sports
+Coordonnateur du service de la formation initiale statutaire au CREPS de Poitiers |
 
-|
+A |
 
-B
+40 |
 
-|
+1 |
 
-15
+Responsables de la maintenance des équipements sportifs et du magasin à l'INSEP, à l'IFCE, à l'ENVSN, à l'ENSA et dans les CREPS |
 
-|
+C |
 
-32
+15 |
 
-|
+19 |
 
-Personnel technique et pédagogique chargé des fonctions de chef de
+Responsables des personnels de service à l'INSEP, à l'IFCE, à l'ENVSN, à l'ENSA et dans les CREPS |
 
-département dans les CREPS
+C |
 
-|
+15 |
 
-A
+19 |
 
-|
+Responsables des espaces verts à l'INSEP, et dans les CREPS |
 
-30
+C |
 
-|
+15 |
 
-12
+20 |
 
-|
+Responsable de la maintenance audiovisuelle à l'INSEP, à l'IFCE, à l'ENVSN et à l'ENSA |
 
-III.-Administration centrale
+C |
 
-|
+15 |
 
-|
+2 |
 
-|
+Responsables des soins infirmiers dans les établissements publics et services à compétence nationale de la jeunesse et des sports |
 
-|
+B |
 
-Responsable du parc automobile
+15 |
 
-|
+10 |
 
-C
+II.-Administration centrale |
 
 |
 
-15
-
 |
-
-1
 
 |
 
-Responsables de l'entretien du parc informatique
+Responsable de l'accueil du public |
 
-|
+C |
 
-C
+15 |
 
-|
+2 |
 
-15
+Responsable du traitement de la paye |
 
-|
+C |
 
-4
+15 |
 
-|
+1 |
 
-Chefs de bureau
+Responsable du parc automobile |
 
-|
+C |
 
-A
+15 |
 
-|
+1 |
 
-30
+Responsable de l'entretien du parc informatique |
 
-|
+A |
 
-8
+15 |
 
-|
+4 |
