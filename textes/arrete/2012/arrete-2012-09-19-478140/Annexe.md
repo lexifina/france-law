@@ -402,6 +402,14 @@ RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, comp
 
 |
 
+RG Consulting France, La Martinais, 22130 Corseul |
+
+Opérateur, animaux à fourrure-mise à mort |
+
+1er juin 2017 |
+
+31 mai 2022 |
+
 SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
 
 |
