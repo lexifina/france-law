@@ -362,26 +362,6 @@ N
 
 |
 
-0.4.3. PLAQUE DE TARE
-
-|
-
-|
-
-0.4.3.1. DIVERS
-
-|
-
-|
-
-0.4.3.1.1. Absence d'inscriptions
-
-|
-
-N
-
-|
-
 0.4.4. COMPTEUR KILOMETRIQUE
 
 |

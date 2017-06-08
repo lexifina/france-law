@@ -8,11 +8,13 @@ ORGANISATION DES RESEAUX DE CONTROLE
 
 1.2. Le réseau est responsable au regard du ministre chargé des transports des activités de contrôle effectuées par l'ensemble des installations de contrôle qui lui sont rattachées et par l'ensemble du personnel du réseau, sans distinction de la nature du rattachement desdites installations et de l'affiliation dudit personnel au réseau.
 
+Dans le cas où la qualité des contrôles réalisés dans un des centres de contrôle qui lui sont rattachés est insuffisante, le réseau met en œuvre la procédure mentionnée au point 5 du paragraphe I du chapitre V de l'annexe VII du présent arrêté.
+
 1.3. A cet effet, le réseau s'engage à transmettre régulièrement au ministre chargé des transports les informations que celui-ci lui demandera pour la surveillance des opérations de contrôle, et à faciliter toute action de surveillance exercée conformément à l'article R. 323-9 du code de la route.
 
 1.4. Le réseau établit pour chaque année civile, un rapport d'activité, qu'il transmet au ministre chargé des transports dans le courant du premier trimestre de l'année suivante. Ce rapport d'activité expose notamment :
 
-- Le bilan des visites techniques effectuées ;
+- Le bilan des contrôles techniques effectués ;
 
 - Le bilan des actions de surveillance exercées à l'égard des contrôleurs et des installations rattachés au réseau ;
 
@@ -32,7 +34,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.1. Le réseau doit disposer des ressources nécessaires à l'accomplissement des responsabilités relatives à la définition et à la mise à jour des procédures relatives au suivi des opérations de contrôle et aux opérations de contrôle effectuées par l'ensemble du réseau.
 
-2.2. Le réseau doit mettre en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions doit figurer dans le cahier des charges et doit être établi par référence aux normes de séries ISO 9001-2000 et NF EN ISO/CEI 17020 : 2005.
+2.2. Le réseau doit mettre en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions doit figurer dans le cahier des charges et doit être établi par référence aux normes de séries ISO 9001 : 2008 ou ISO 9001 : 2015 et NF EN ISO/CEI 17020 : 2012.
 
 2.3. Le réseau établit et tient à jour les procédures internes tenant compte des prescriptions réglementaires, des spécifications normatives et des règles complémentaires qu'il entend s'imposer et imposer aux installations de contrôle qui constituent le réseau dans le cadre de la relation contractuelle liant les parties entre elles et qu'il appartient au réseau de définir.
 
@@ -48,7 +50,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.5. Intégrité, sécurité et maintenance du système informatique
 
-2.4.6. Entretien et maintenance du matériel mécanique de contrôle.
+2.4.6. Gestion, entretien et maintenance du matériel de contrôle.
 
 2.4.7. Transmission des données relatives aux contrôles techniques effectués.
 
@@ -56,7 +58,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.9. Audit des installations de contrôle et des contrôleurs.
 
-2.4.10. Gestion des liasses et archivage des procès-verbaux de contrôle technique.
+2.4.10. Gestion et archivage des procès-verbaux de contrôle technique.
 
 2.4.11. Organisation et déroulement des contrôles techniques.
 
@@ -66,15 +68,15 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.14 Gestion de la base documentaire des textes réglementaires et de leurs évolutions
 
-2.4.15 Suivi des installations auxiliaires
+2.4.15 (Abrogé)
 
 2.4.16 Gestion de l'outillage spécifique gaz, pour les centres concernés
 
 2.5. Le réseau se tient informé de l'évolution de la technologie des véhicules et de celle des appareils de mesure et de contrôle. Il dispose notamment d'une base de données tenue à jour relative aux caractéristiques des véhicules et à leurs équipements.
 
-2.6. Le réseau définit une procédure concernant les voies de recours amiables offertes au public pour des défauts et non-conformités éventuels des opérations de contrôle, sans préjuger des voies de recours légales qui lui sont ouvertes par ailleurs.
+2.6. (Abrogé)
 
-2.7. Le réseau veille à ce qu'une procédure soit établie, relative à l'organisation et au contrôle de la qualification de l'ensemble des contrôleurs du réseau.
+2.7. (Abrogé)
 
 2.8. Le réseau archive pendant au moins quatre ans tous les documents relatifs à son action, sans préjudice des autres réglementations en vigueur.
 
@@ -92,10 +94,10 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 3.2.2. Il traite et dresse tous états relatifs, notamment :
 
-- Au nombre de contrôles effectués par installation de contrôle, par contrôleur, etc. en distinguant les visites et les contre-visites ;
+- Au nombre de contrôles effectués par installation de contrôle, par contrôleur, etc. en distinguant les contre-visites ;
 
 - Au type de véhicules contrôlés, à leur âge, leur kilométrage, etc.. ;
 
-- A la nature et à la gravité des défauts relevés, par type de véhicule, et/ou par contrôleur, et/ou par centre de contrôle, etc. ;
+- A la nature et à la gravité des défaillances constatées, par type de véhicule, et/ou par contrôleur, et/ou par centre de contrôle, etc. ;
 
 3.2.3. Il exploite ces états pour attirer 1'attention des responsables des installations de contrôle sur la nécessité de prévenir ou de rectifier certaines déviations, et pour éclairer et valoriser les audits des installations de contrôle.
