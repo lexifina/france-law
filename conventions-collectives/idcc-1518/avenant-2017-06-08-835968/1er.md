@@ -1,0 +1,51 @@
+# Article 1er
+
+L'article 1.6.1 de la convention collective nationale de l'animation, titré « 1.6.1. Commission nationale de conciliation, d'interprétation et de validation », est supprimé et remplacé par les dispositions suivantes :
+
+« 1.6.1. Commission paritaire permanente de négociation et d'interprétation
+
+La commission paritaire permanente de négociation et d'interprétation est composée de trois représentants par organisation syndicale de salariés reconnue représentative par l'arrêté du ministre du travail pris en application de l'article L. 2122-11 du code du travail, et d'un nombre égal de représentants des organisations professionnelles d'employeurs reconnues représentatives par l'arrêté du ministre du travail pris en application des articles L. 2151-1 et suivants du code du travail.
+
+Toute nouvelle organisation professionnelle d'employeurs qui souhaite siéger au sein de la commission nationale de négociation doit, soit obtenir l'accord unanime des membres de celle-ci, visés au premier alinéa du présent article, soit être reconnue représentative par le ministre en charge du travail. Toute nouvelle organisation syndicale de salariés doit être reconnue comme représentative par le ministre en charge du travail.
+
+La commission paritaire permanente de négociation et d'interprétation se réunit au moins trois fois par an soit en formation mixte, soit en formation paritaire.
+
+La commission paritaire permanente de négociation et d'interprétation a pour objet de compléter, adapter et réviser la présente convention collective nationale. Elle a également pour rôle de représenter la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics, et exerce un rôle de veille sur les conditions de travail et l'emploi.
+
+Les partenaires sociaux décident de créer au sein de la commission paritaire permanente de négociation et d'interprétation une sous-commission interprétation et négociation d'entreprise.
+
+1.6.1.1. Composition et fonctionnement de la sous-commission interprétation et négociation d'entreprise
+
+La sous-commission se réunira en formation paritaire. Elle est composée conformément au principe énoncé à l'article 1.6.1. Elle comporte deux représentants de chacune des organisations syndicales de salariés et un nombre égal de représentants des organisations professionnelles d'employeurs.
+
+La présidence de la commission sera assurée alternativement par un représentant salarié et par un représentant employeur.
+
+Pour ses modalités de fonctionnement, la sous-commission se dotera d'un règlement intérieur.
+
+1.6.1.2. Missions de la sous-commission interprétation et négociation d'entreprise
+
+La sous-commission est mise en place pour réaliser les missions suivantes dévolues par la loi à la commission paritaire permanente de négociation et d'interprétation : interprétation des dispositions de la convention collective nationale de l'animation   ; enregistrement des accords collectifs d'entreprise   ; établissement du rapport annuel d'activité.
+
+La sous-commission pourra se voir confier d'autres missions par décision de la commission paritaire permanente de négociation et d'interprétation lorsque les partenaires sociaux l'estimeront nécessaire.
+
+1.6.1.2.1. Interprétation de la convention collective nationale de l'animation
+
+La sous-commission est chargée de formuler un avis sur l'interprétation des dispositions de la présente convention collective nationale.
+
+Suivant qu'elles sont formulées par un employeur ou un salarié, les questions d'interprétation sont présentées par l'intermédiaire d'une organisation professionnelle d'employeurs ou d'une organisation syndicale de salariés représentative.
+
+Elle peut également rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire.
+
+En cas d'accord entre les parties, l'avis d'interprétation pourra faire l'objet d'un avenant à la présente convention, conclu en commission paritaire permanente de négociation et d'interprétation et soumis à extension.
+
+1.6.1.2.2. Enregistrement des accords collectifs d'entreprise de la branche
+
+En application de l'article L. 2232-9 du code du travail, la sous-commission enregistre les accords collectifs d'entreprise relatifs à la durée de travail et aux congés, transmis par les structures de la branche.
+
+1.6.1.2.3. Établissement du rapport annuel d'activité
+
+La sous-commission est chargée de réaliser le rapport annuel d'activité mis en place par l'article L. 2232-9 du code du travail.
+
+En application de cet article, le rapport comprend un bilan des accords collectifs d'entreprise transmis à la branche dans le cadre de l'article 1.6.1.2.2, en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche, et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées.
+
+Le rapport sera présenté pour validation à la commission paritaire permanente de négociation et d'interprétation. »
