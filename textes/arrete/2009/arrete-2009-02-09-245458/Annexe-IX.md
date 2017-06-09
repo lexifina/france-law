@@ -80,7 +80,7 @@ Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des ser
 
 - véhicule acheminé vers un lieu d'embarquement pour être exporté dans les conditions prévues au I de l'article 8 du présent arrêté.
 
-3.8. Pour circuler sous couvert d'un numéro W garage, les véhicules dont l'âge et le genre les soumettent au contrôle technique doivent être en règle sauf dans le cas des essais après réparation.
+3.8. Pour circuler sous couvert d'un numéro W garage, les véhicules dont l'âge, le genre et ou la catégorie les soumettent au contrôle technique doivent être en règle sauf dans le cas des essais après réparation.
 
 3.9. Les conditions de circulation, sous couvert d'un numéro W garage, des véhicules soumis à visite technique, en reprise, en dépôt-vente ou en réparation sont définies ci-après :
 

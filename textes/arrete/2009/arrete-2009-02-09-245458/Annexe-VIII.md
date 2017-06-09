@@ -44,13 +44,11 @@ certifie que le véhicule ci-après désigné :
 
 (S.1) Nombre de places assises, y compris celle du conducteur :
 
-a plus de trente ans et peut être immatriculé avec l'usage véhicule de collection .
+répond aux dispositions du 6.3 de l'article R. 311-1 du code de la route et peut être immatriculé avec l'usage véhicule de collection.
 
 La présente attestation est délivrée conformément à la procédure définie à l'article 4.E de l'arrêté du
 
 et au vu du dossier soumis par l'intéressé.
-
-Elle n'atteste en aucune façon que le véhicule est conforme au type tel que défini d'origine lors de sa réception en France ou à l'étranger.
 
 Fait à , le
 

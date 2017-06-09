@@ -80,9 +80,9 @@ d) Procès-verbal de contrôle de conformité initial :
 
 3.5. Autres justificatifs techniques
 
-a) Procès-verbal de contrôle technique : procès-verbal d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation ;
+a) Procès-verbal de contrôle technique : procès-verbal d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge, le genre et ou la catégorie les soumettent à cette obligation ;
 
-b) Preuve d'un contrôle technique : document prouvant un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation. Ce document peut être :
+b) Preuve d'un contrôle technique : document prouvant un contrôle technique en cours de validité pour les véhicules dont l'âge, le genre et ou la catégorie les soumettent à cette obligation. Ce document peut être :
 
 ― l'original du procès-verbal de contrôle technique ;
 

@@ -114,6 +114,14 @@ FL
 
 |
 
+Superéthanol-électricité (hybride non rechargeable)
+
+|
+
+FH
+
+|
+
 Gazole
 
 |
@@ -288,17 +296,13 @@ H2
 
 |
 
-Hydrogène-Electricité (hybride rechargeable)
-
-|
+Hydrogène-Electricité (hybride rechargeable) |
 
 HE
 
 |
 
-Hydrogène-Electricité (hybride non rechargeable)
-
-|
+Hydrogène-Electricité (hybride non rechargeable) |
 
 HH
 
