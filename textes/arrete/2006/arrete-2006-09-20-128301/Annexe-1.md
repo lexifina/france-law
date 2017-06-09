@@ -118,7 +118,7 @@ a) Pour les vignes-mères de catégorie certifiée, en l'absence de tests sanita
 
 b) L'inscription au contrôle de vignes-mères de greffons de catégorie standard est réservée aux variétés encore insuffisamment pourvues en matériel de sélection clonale ainsi qu'à la préservation de la diversité génétique.
 
-c) Une parcelle unitaire de greffons doit être séparée de toute autre vigne autre que vigne-mère par une distance minimale de cinq mètres. Deux parcelles unitaires de vignes-mères de greffons doivent être séparées par une distance minimale de cinq mètres si elles sont implantées sur un même rang.
+c) Une parcelle unitaire de greffons doit être séparée de toute autre vigne autre que vigne mère par une distance minimale de cinq mètres. Toutefois, il peut être dérogé à cette distance minimale dans les conditions et modalités fixées par une décision du directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer). Deux parcelles unitaires de vignes-mères de greffons doivent être séparées par une distance minimale de cinq mètres si elles sont implantées sur un même rang.
 
 IV. - Prescriptions générales relatives à la production des plants de vigne
 
@@ -287,5 +287,3 @@ g) Le matériel de multiplication utilisé pour la production de boutures greffa
 h) L'inspection visée aux points VI (a, b, c, d et f) de la présente annexe comporte au moins une inspection sur pied.
 
 Des inspections supplémentaires sur pied sont effectuées en cas de litiges pouvant être réglés sans préjudice de la qualité du matériel de multiplication.
-
-Vous pouvez consulter le tableau dans le JO n° 245 du 21/10/2006 texte numéro 22
