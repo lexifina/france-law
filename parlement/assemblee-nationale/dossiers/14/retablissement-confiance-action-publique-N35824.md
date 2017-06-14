@@ -1,0 +1,101 @@
+# Pouvoirs publics : confiance dans la vie politique
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N35824
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/retablissement_confiance_action_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-580.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-14 : 1er dépôt d'une initiative. (PRJLSNR5S279B0580)
+  - 2017-06-14 : Etude d'impact (ETDISNR5S279B0580)
+  - 2017-06-14 : Avis du Conseil d'Etat (AVCESNR5S279B0580)
+  - 2017-06-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-14 : Renvoi en commission au fond
+      - 2017-06-20 : Nomination de rapporteur
+      - 2017-07-04 : Dépôt de rapport (RAPPSNR5S279B0607)
+    - Travaux d'une commission saisie pour avis
+      - 2017-06-21 : Saisine pour avis d'une commission
+      - 2017-06-21 : Nomination de rapporteur
+      - 2017-07-04 : Dépôt de rapport (AVISSNR5S279B0602)
+  - Discussion en séance publique
+    - 2017-07-10 : Discussion en séance publique
+    - 2017-07-11 : Discussion en séance publique
+    - 2017-07-12 : Discussion en séance publique
+    - 2017-07-13 : Discussion en séance publique
+    - 2017-07-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-13 : Dépôt d'une initiative en navette (PRJLANR5L15B0099)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-13 : Renvoi en commission au fond
+      - 2017-07-05 : Nomination de rapporteur
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-24 : Réunion de commission
+      - 2017-07-20 : Dépôt de rapport (RAPPANR5L15B0105, PRJLANR5L15BTC0105)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-13 : Saisine pour avis d'une commission
+      - 2017-07-18 : Nomination de rapporteur
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-19 : Dépôt de rapport (AVISANR5L15B0103)
+  - Discussion en séance publique
+    - 2017-07-24 : Discussion en séance publique
+    - 2017-07-24 : Discussion en séance publique
+    - 2017-07-28 : Discussion en séance publique
+    - 2017-07-28 : Discussion en séance publique
+    - 2017-07-28 : Décision
+- deuxième lecture
+  - 2017-07-29 : Dépôt d'une initiative en navette (PRJLSNR5S279B0693)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-29 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2017-07-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-08-01 : Nomination de rapporteur
+    - 2017-08-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B0121)
+    - 2017-08-01 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0701)
+  - 2017-08-01 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-08-01 : Dépôt d'une initiative en navette (PRJLANR5L15B0122)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-08-01 : Renvoi en commission au fond
+      - 2017-08-02 : Réunion de commission
+      - 2017-08-03 : Réunion de commission
+      - 2017-08-02 : Dépôt de rapport (RAPPANR5L15B0124, PRJLANR5L15BTC0124)
+  - Discussion en séance publique
+    - 2017-08-03 : Discussion en séance publique
+    - 2017-08-03 : Discussion en séance publique
+    - 2017-08-03 : Décision
+- Nouvelle Lecture
+  - 2017-08-03 : Dépôt d'une initiative en navette (PRJLSNR5S279B0707)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-08-03 : Renvoi en commission au fond
+      - 2017-08-04 : Dépôt de rapport (RAPPSNR5S279B0708)
+  - Discussion en séance publique
+    - 2017-08-04 : Discussion en séance publique
+    - 2017-08-04 : Décision
+- Lecture définitive
+  - 2017-08-04 : Dépôt d'une initiative en navette (PRJLANR5L15B0126)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-08-04 : Renvoi en commission au fond
+      - 2017-08-09 : Réunion de commission
+      - 2017-08-09 : Dépôt de rapport (RAPPANR5L15B0145)
+  - Discussion en séance publique
+    - 2017-08-09 : Discussion en séance publique
+    - 2017-08-09 : Décision
+- Conseil constitutionnel
+  - 2017-08-10 : Saisine du conseil constitutionnel
+  - 2017-09-08 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-09-15 : Promulgation d'une loi
