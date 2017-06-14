@@ -1,0 +1,77 @@
+# Pouvoirs publics : confiance dans la vie publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35825
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/confiance_action_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-581.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-14 : 1er dépôt d'une initiative. (PRJLSNR5S279B0581)
+  - 2017-06-14 : Etude d'impact (ETDISNR5S279B0581)
+  - 2017-06-14 : Avis du Conseil d'Etat (AVCESNR5S279B0581)
+  - 2017-06-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-14 : Renvoi en commission au fond
+      - 2017-06-20 : Nomination de rapporteur
+      - 2017-07-04 : Dépôt de rapport (RAPPSNR5S279B0581)
+    - Travaux d'une commission saisie pour avis
+      - 2017-06-21 : Saisine pour avis d'une commission
+      - 2017-06-21 : Nomination de rapporteur
+      - 2017-07-04 : Dépôt de rapport (AVISSNR5S279B0581)
+  - Discussion en séance publique
+    - 2017-07-10 : Discussion en séance publique
+    - 2017-07-11 : Discussion en séance publique
+    - 2017-07-12 : Discussion en séance publique
+    - 2017-07-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-13 : Dépôt d'une initiative en navette (PRJLANR5L15B0098)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-13 : Renvoi en commission au fond
+      - 2017-07-05 : Nomination de rapporteur
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-20 : Dépôt de rapport (RAPPANR5L15B0106, PRJLANR5L15BTC0106)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-13 : Saisine pour avis d'une commission
+      - 2017-07-18 : Nomination de rapporteur
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-19 : Dépôt de rapport (AVISANR5L15B0102)
+  - Discussion en séance publique
+    - 2017-07-24 : Discussion en séance publique
+    - 2017-07-24 : Discussion en séance publique
+    - 2017-07-25 : Discussion en séance publique
+    - 2017-07-25 : Discussion en séance publique
+    - 2017-07-26 : Discussion en séance publique
+    - 2017-07-26 : Discussion en séance publique
+    - 2017-07-27 : Discussion en séance publique
+    - 2017-07-27 : Discussion en séance publique
+    - 2017-07-27 : Discussion en séance publique
+    - 2017-07-28 : Discussion en séance publique
+    - 2017-07-28 : Discussion en séance publique
+    - 2017-07-28 : Décision
+- Commission Mixte Paritaire
+  - 2017-07-29 : Dépôt d'un projet de loi (PRJLSNR5S279B0692)
+  - 2017-07-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-08-01 : Nomination de rapporteur
+    - 2017-08-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B0120)
+    - 2017-08-01 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0699)
+  - Discussion en séance publique
+    - 2017-08-02 : Discussion en séance publique
+    - 2017-08-02 : Décision
+  - Discussion en séance publique
+    - 2017-08-03 : Discussion en séance publique
+    - 2017-08-03 : Décision
+  - 2017-08-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2017-08-09 : Saisine du conseil constitutionnel
+  - 2017-09-08 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-09-15 : Promulgation d'une loi
