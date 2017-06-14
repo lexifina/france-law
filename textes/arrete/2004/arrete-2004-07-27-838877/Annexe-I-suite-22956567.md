@@ -12,7 +12,7 @@ Résultat
 
 |
 
-Véhi­cule
+Véhicule
 
 |
 
@@ -36,7 +36,7 @@ Véhi­cule
 
 |
 
-10.1.1. CARTE VIOLETTE OU ATTESTATION D'AMENAGEMENT
+10.1.1. ATTESTATION D'AMENAGEMENT
 
 |
 
@@ -128,7 +128,7 @@ M
 
 |
 
-10.1.2.4.1. Non concordance avec la carte violette ou l'attestation d'aménagement nécessitant une RTI
+10.1.2.4.1. Non concordance avec l'attestation d'aménagement nécessitant une RTI
 
 |
 
@@ -142,7 +142,7 @@ M
 
 |
 
-10.1.2.4.2. Non concordance avec la carte violette ou l'attestation d'aménagement
+10.1.2.4.2. Non concordance avec l'attestation d'aménagement
 
 |
 
@@ -3006,7 +3006,9 @@ M
 
 |
 
-10.4.14.4.3. Montage inadapté |
+10.4.14.4.3. Montage inadapté
+
+|
 
 |
 
@@ -3336,7 +3338,9 @@ M
 
 |
 
-10.5.5.1.1. Absence |
+10.5.5.1.1. Absence
+
+|
 
 |
 
@@ -3887,88 +3891,6 @@ M
 |
 
 |
-
-|
-
-10.8.1. DEMANDE D'ARRET (art 58)
-
-|
-
-|
-
-|
-
-|
-
-10.8.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-10.8.1.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-10.8.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-10.8.1.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-10.8.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-10.8.1.4.1. Absence (si compartiment séparé du conducteur)
-
-|
-
-|
-
-S
-
-|
-
-M
 
 |
 
@@ -5642,7 +5564,9 @@ M
 
 |
 
-14.1.1.1.1. Détérioration notable |
+14.1.1.1.1. Détérioration notable
+
+|
 
 236
 
@@ -5656,7 +5580,9 @@ M
 
 |
 
-14.1.1.1.2. Détérioration |
+14.1.1.1.2. Détérioration
+
+|
 
 236
 
@@ -5680,7 +5606,9 @@ M
 
 |
 
-14.1.1.3.1. Défaut notable de fixation |
+14.1.1.3.1. Défaut notable de fixation
+
+|
 
 236
 
@@ -5750,7 +5678,9 @@ M
 
 |
 
-14.1.3.4.1. Obstrué(s) |
+14.1.3.4.1. Obstrué(s)
+
+|
 
 236
 
@@ -5794,7 +5724,9 @@ M
 
 |
 
-14.2.1.1.1. Détérioration notable |
+14.2.1.1.1. Détérioration notable
+
+|
 
 236
 
@@ -5808,7 +5740,9 @@ M
 
 |
 
-14.2.1.1.2. Détérioration |
+14.2.1.1.2. Détérioration
+
+|
 
 236
 
@@ -5832,7 +5766,9 @@ M
 
 |
 
-14.2.1.3.1. Défaut notable de fixation |
+14.2.1.3.1. Défaut notable de fixation
+
+|
 
 236
 
@@ -5846,7 +5782,9 @@ M
 
 |
 
-14.2.1.3.2. Défaut de fixation |
+14.2.1.3.2. Défaut de fixation
+
+|
 
 236
 
@@ -5880,7 +5818,9 @@ M
 
 |
 
-14.2.2.1.1. Détérioration notable |
+14.2.2.1.1. Détérioration notable
+
+|
 
 |
 
@@ -5892,7 +5832,9 @@ M
 
 |
 
-14.2.2.1.2. Détérioration |
+14.2.2.1.2. Détérioration
+
+|
 
 |
 
@@ -5924,7 +5866,9 @@ M
 
 |
 
-14.2.3.4.1. Non conforme |
+14.2.3.4.1. Non conforme
+
+|
 
 |
 
@@ -5936,7 +5880,9 @@ M
 
 |
 
-14.2.3.4.2. Essai non réalisé |
+14.2.3.4.2. Essai non réalisé
+
+|
 
 |
 
@@ -5978,7 +5924,9 @@ M
 
 |
 
-14.3.1.1.1. Détérioration notable |
+14.3.1.1.1. Détérioration notable
+
+|
 
 |
 
@@ -5990,7 +5938,9 @@ M
 
 |
 
-14.3.1.1.2. Détérioration |
+14.3.1.1.2. Détérioration
+
+|
 
 |
 
@@ -6012,7 +5962,9 @@ M
 
 |
 
-14.3.1.3.1. Défaut notable de fixation |
+14.3.1.3.1. Défaut notable de fixation
+
+|
 
 |
 
@@ -6054,7 +6006,9 @@ M
 
 |
 
-14.4.1.2.1. Non fonctionnement |
+14.4.1.2.1. Non fonctionnement
+
+|
 
 |
 
@@ -6096,7 +6050,9 @@ M
 
 |
 
-14.5.1.1.1. Détérioration |
+14.5.1.1.1. Détérioration
+
+|
 
 3
 
@@ -6120,7 +6076,9 @@ M
 
 |
 
-14.5.1.4.1. Absence pour prise extérieure |
+14.5.1.4.1. Absence pour prise extérieure
+
+|
 
 3
 
@@ -6154,7 +6112,9 @@ M
 
 |
 
-14.5.2.1.1. Détérioration notable |
+14.5.2.1.1. Détérioration notable
+
+|
 
 3
 
@@ -6168,7 +6128,9 @@ M
 
 |
 
-14.5.2.1.2. Détérioration |
+14.5.2.1.2. Détérioration
+
+|
 
 3
 
@@ -6202,7 +6164,9 @@ M
 
 |
 
-14.5.3.1.1. Détérioration |
+14.5.3.1.1. Détérioration
+
+|
 
 |
 
@@ -6224,7 +6188,9 @@ M
 
 |
 
-14.5.3.4.1. Essai non réalisé |
+14.5.3.4.1. Essai non réalisé
+
+|
 
 |
 
@@ -6236,7 +6202,23 @@ M
 
 |
 
-15. CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
+15. CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES |
+
+|
+
+|
+
+|
+
+15.1. IDENTIFICATION |
+
+|
+
+|
+
+|
+
+15.1.1. CERTIFICAT D'AGRÉMENT (CA)
 
 |
 
@@ -6246,27 +6228,7 @@ M
 
 |
 
-15.1. IDENTIFICATION
-
-|
-
-|
-
-|
-
-|
-
-15.1.1. CERTIFICAT D'AGREMENT
-
-|
-
-|
-
-|
-
-|
-
-15.1.1.1. ETAT
+15.1.1.1. ÉTAT
 
 |
 
@@ -6300,7 +6262,7 @@ T
 
 |
 
-15.1.1.4.4. Citerne non ADR réformée (art 49-4 arrêté ADR) Retrait autorisation
+15.1.1.4.4. Date limite d'utilisation du véhicule ou de la citerne dépassée
 
 |
 
@@ -6320,7 +6282,7 @@ T
 
 |
 
-X
+R
 
 |
 
@@ -6328,27 +6290,13 @@ T
 
 |
 
-15.1.1.4.6. Absence de liste matières, si citerne non codé
+15.1.1.4.6. Absence de liste de matières (citerne TMD) ou citerne ADR non codée
 
 |
 
 |
 
-X
-
-|
-
-T
-
-|
-
-15.1.1.4.7. Non concordance avec le véhicule
-
-|
-
-|
-
-X
+S
 
 |
 
@@ -6356,7 +6304,7 @@ T
 
 |
 
-15.1.1.4.8. Non concordance avec la citerne
+15.1.1.4.7. Non-concordance avec le véhicule ou la citerne
 
 |
 
@@ -6384,20 +6332,6 @@ T
 
 |
 
-15.1.1.4.11. Certificat d'agrément périmé
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
 15.1.1 4.12. Certificat d'agrément en cours de restitution
 
 |
@@ -6412,7 +6346,7 @@ T
 
 |
 
-15.1.2. NOTICES DESCRIPTIVES TMD -CERTIFICATS DE CONFORMITE TMD
+15.1.2. NOTICES DESCRIPTIVES TMD-CERTIFICATS DE CONFORMITÉ (TMD-ADR)
 
 |
 
@@ -6422,7 +6356,7 @@ T
 
 |
 
-15.1.2.1. ETAT
+15.1.2.1. ÉTAT
 
 |
 
@@ -6456,7 +6390,7 @@ T
 
 |
 
-15.1.2.4.1. Absence
+15.1.2.4.1. Absence (véhicule complété)
 
 |
 
@@ -6470,7 +6404,7 @@ T
 
 |
 
-15.1.3. PRESENTATION DU VEHICULE
+15.1.3. PRÉSENTATION DU VÉHICULE
 
 |
 
@@ -6490,7 +6424,7 @@ T
 
 |
 
-15.1.3.4.1. RTI nécessaire au titre de l'ADR
+15.1.3.4.1. RTI nécessaire au titre de l'arrêté TMD
 
 |
 
@@ -6504,21 +6438,7 @@ T
 
 |
 
-15.1.3.4.2. Citerne ADR non codée
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.1.3.4.3. Dispositif de freinage anti-blocage non conforme
+15.1.3.4.3. Dispositif de freinage antiblocage non conforme
 
 |
 
@@ -6546,7 +6466,7 @@ M
 
 |
 
-15.4. EQUIPEMENTS ELECTRIQUES
+15.4. ÉQUIPEMENTS ÉLECTRIQUES
 
 |
 
@@ -6556,7 +6476,7 @@ M
 
 |
 
-15.4.1. INSTALLATIONS ELECTRIQUES
+15.4.4. CANALISATIONS (GAINES ET CÂBLES)
 
 |
 
@@ -6566,7 +6486,7 @@ M
 
 |
 
-15.4.1.1. ETAT
+15.4.4.1. ÉTAT
 
 |
 
@@ -6576,13 +6496,15 @@ M
 
 |
 
-15.4.1.1.1. Détérioration
+15.4.4.1.1. Détérioration notable
 
 |
 
+235
+
 |
 
-O
+S
 
 |
 
@@ -6590,127 +6512,11 @@ T
 
 |
 
-15.4.3. COFFRE A BATTERIES
-
-|
-
-|
-
-|
-
-|
-
-15.4.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.4.3.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-15.4.3.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.4.3 4.1. Non ventilé
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.3.4.2. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.4. CANALISATIONS (GAINES ET CABLES)
-
-|
-
-|
-
-|
-
-|
-
-15.4.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
 15.4.4.1.2. Détérioration
 
 |
 
-235
+237
 
 |
 
@@ -6732,9 +6538,27 @@ T
 
 |
 
-15.4.4.3.1. Défaut de fixation
+15.4.4.3.1. Défaut notable de fixation
 
 |
+
+237
+
+|
+
+S
+
+|
+
+T
+
+|
+
+15.4.4.3.2. Défaut de fixation
+
+|
+
+237
 
 |
 
@@ -6756,75 +6580,11 @@ T
 
 |
 
-15.4.4.4.1. Absence
-
-|
-
-235
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.4.4.4.5. Contrôle impossible
-
-|
-
-235
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.4.4.4.6. Protection détériorée
-
-|
-
-235
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.4.4.4.7. Protection électrique défectueuse
-
-|
-
-235
-
-|
-
-S
-
-|
-
-T
-
-|
-
 15.4.4.4.8. Raccordement défectueux
 
 |
 
-235
+2378
 
 |
 
@@ -6833,102 +6593,6 @@ S
 |
 
 T
-
-|
-
-15.4.5. BARRIERE DE SECURITE
-
-|
-
-|
-
-|
-
-|
-
-15.4.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.4.5.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.5.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-15.4.5.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.4.5.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-15.4.5.4.3. Contrôle impossible
-
-|
-
-|
-
-O
-
-|
-
-M
 
 |
 
@@ -6966,7 +6630,7 @@ M
 
 |
 
-15.5. COMMANDES DE SECURITE
+15.4.7. FEUX
 
 |
 
@@ -6976,7 +6640,7 @@ M
 
 |
 
-15.5.1. COMMANDE ANTI-EMBALLEMENT
+15.4.7.1. ÉTAT
 
 |
 
@@ -6986,7 +6650,23 @@ M
 
 |
 
-15.5.1.1. ETAT
+15.4.7.1.1. Détérioration notable
+
+|
+
+23467
+
+|
+
+S
+
+|
+
+T
+
+|
+
+15.4.7.3. FIXATION
 
 |
 
@@ -6996,45 +6676,23 @@ M
 
 |
 
-15.5.1.1.1. Détérioration
+15.4.7.3.1. Défaut notable de fixation
 
 |
 
-|
-
-O
+23467
 
 |
 
-M
+S
 
 |
 
-15.5.1.2. FONCTIONNEMENT
+T
 
 |
 
-|
-
-|
-
-|
-
-15.5.1.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-15.5.1.3. FIXATION
+15.5. COMMANDES DE SÉCURITÉ
 
 |
 
@@ -7044,21 +6702,7 @@ M
 
 |
 
-15.5.1.3.1. Défaut de positionnement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.5.1.4. DIVERS
+15.5.2. COUPE-BATTERIE
 
 |
 
@@ -7068,59 +6712,7 @@ M
 
 |
 
-15.5.1.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-15.5.1.4.2. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-15.5.1.4.3. Défaut de signalisation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.5.2. COUPE- BATTERIE
-
-|
-
-|
-
-|
-
-|
-
-15.5.2.1. ETAT
+15.5.2.1. ÉTAT
 
 |
 
@@ -7156,7 +6748,7 @@ M
 
 |
 
-15.5.2.2.1. Non fonctionnement
+15.5.2.2.1. Non-fonctionnement
 
 |
 
@@ -7182,7 +6774,7 @@ M
 
 |
 
-15.5.2.3.1. Défaut de positionnement
+15.5.2.3.1. Défaut notable de fixation
 
 |
 
@@ -7190,7 +6782,7 @@ M
 
 |
 
-O
+S
 
 |
 
@@ -7256,7 +6848,7 @@ M
 
 |
 
-15.5.3. COMMANDE DE SECURITE (Coup de poing)
+15.5.3. ANTI-EMBALLEMENT/ COUP DE POING
 
 |
 
@@ -7266,7 +6858,7 @@ M
 
 |
 
-15.5.3.1. ETAT
+15.5.3.1. ÉTAT
 
 |
 
@@ -7300,37 +6892,13 @@ M
 
 |
 
-15.5.3.2.1. Non fonctionnement
+15.5.3.2.1. Non-fonctionnement
 
 |
 
 |
 
 R
-
-|
-
-M
-
-|
-
-15.5.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-15 5.3.3.1. Défaut de positionnement
-
-|
-
-|
-
-O
 
 |
 
@@ -7362,20 +6930,6 @@ M
 
 |
 
-15.5.3.4.2. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
 15.5.3.4.3. Défaut de signalisation
 
 |
@@ -7390,61 +6944,13 @@ M
 
 |
 
-15.7. PREVENTION DES RISQUES D'INCENDIE
+15.7. PRÉVENTION DES RISQUES D'INCENDIE
 
 |
 
 |
 
 |
-
-|
-
-15.7.5. CHAUFFAGE AUTONOME CABINE
-
-|
-
-|
-
-|
-
-|
-
-15.7.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.7.5.4.4. Défaut d'attestation de montage
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-15.7.5.4.5. Défaut de signalisation
-
-|
-
-|
-
-O
-
-|
-
-M
 
 |
 
@@ -7496,7 +7002,7 @@ T
 
 |
 
-15.7.7. ECHAPPEMENT
+15.7.7. ÉCHAPPEMENT
 
 |
 
@@ -7568,7 +7074,7 @@ M
 
 |
 
-15.9. CITERNE -ELEMENTS VEH-BATTERIE
+15.7.8. PROTECTION THERMIQUE VÉHICULE OX
 
 |
 
@@ -7578,7 +7084,7 @@ M
 
 |
 
-15.9.1. ATTESTATION DE CONTROLE CITERNE -ELEMENTS VEH- BATTERIE
+15.7.8.4. DIVERS
 
 |
 
@@ -7588,7 +7094,43 @@ M
 
 |
 
-15.9.1.1. ETAT
+15.7.8.4.3. Protection thermique non conforme
+
+|
+
+2
+
+|
+
+S
+
+|
+
+M
+
+|
+
+15.9. CITERNE-ÉLEMENTS VEH-BATTERIE
+
+|
+
+|
+
+|
+
+|
+
+15.9.1. ATTESTATION DE CONTRÔLE ET ÉPREUVES DES CITERNES-ÉLÉMENTS VEH-BATTERIE
+
+|
+
+|
+
+|
+
+|
+
+15.9.1.1. ÉTAT
 
 |
 
@@ -7628,7 +7170,7 @@ T
 
 |
 
-X
+R
 
 |
 
@@ -7636,7 +7178,7 @@ T
 
 |
 
-15.9.1.4.2. Non concordance avec la citerne
+15.9.1.4.2. Non-concordance avec la citerne ou les éléments véhicule-batterie
 
 |
 
@@ -7664,21 +7206,7 @@ T
 
 |
 
-15.9.1.4.4. Conclusion défavorable de l'attestation de contrôle Retrait autorisé.
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.1.4.5. Epaisseur mesurée inf à épaisseur réglementaire Retrait autorisé.
+15.9.1.4.4. Conclusion défavorable de l'attestation de contrôle
 
 |
 
@@ -7692,7 +7220,7 @@ T
 
 |
 
-15.9.2. ATTESTATION D'EPREUVE HYDRAULIQUE CITERNE - ELEMENTS VEH-BATTERIE
+15.9.5. MARQUAGE CITERNE-ÉLÉMENTS VEH-BATTERIE
 
 |
 
@@ -7702,207 +7230,7 @@ T
 
 |
 
-15.9.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.2.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.9.2.4.1. Absence de justificatif de réépreuve
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.2.4.2. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.2.4.3. Non concordance avec la citerne
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.2.4.4. Non valide
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.3. ATTESTATION D'EPREUVE D'ETANCHEITE CITERNE - ELEMENTS VEH-BATTERIE
-
-|
-
-|
-
-|
-
-|
-
-15.9.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.3.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.9.3.4.1. Absence de justificatif de réépreuve
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.3.4.2. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.3.4.3. Non concordance avec la citerne
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.3.4.4. Non valide
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.5. MARQUAGE CITERNE -ELEMENTS VEH-BATTERIE
-
-|
-
-|
-
-|
-
-|
-
-15.9.5.1. ETAT
+15.9.5.1. ÉTAT
 
 |
 
@@ -8002,7 +7330,7 @@ M
 
 |
 
-15.9.6. PARTIE EXTERIEURE DE L'ENVELOPPE CITERNE -ELEMENTS VEH­ BATTERIE
+15.9.6. PARTIE EXTÉRIEURE DE L'ENVELOPPE CITERNE-ÉLÉMENTS VEH-BATTERIE
 
 |
 
@@ -8012,7 +7340,7 @@ M
 
 |
 
-15.9.6.1. ETAT
+15.9.6.1. ÉTAT
 
 |
 
@@ -8063,22 +7391,6 @@ T
 |
 
 O
-
-|
-
-T
-
-|
-
-15.9.6.1.4. Fuite
-
-|
-
-2346
-
-|
-
-R
 
 |
 
@@ -8154,7 +7466,7 @@ T
 
 |
 
-15.9.6.4.2. Réparation en l'absence de protocole approuvé org agr et epv
+15.9.6.4.2. Réparation en l'absence de protocole approuvé
 
 |
 
@@ -8162,7 +7474,7 @@ T
 
 |
 
-R
+S
 
 |
 
@@ -8180,7 +7492,7 @@ T
 
 |
 
-15.9.7.1. ETAT
+15.9.7.1. ÉTAT
 
 |
 
@@ -8222,7 +7534,7 @@ T
 
 |
 
-15.9.7.4. DIVERS
+15.9.8. ÉQUIPEMENTS DE SERVICE CITERNE-ÉLÉMENTS VEH-BATTERIE
 
 |
 
@@ -8232,47 +7544,7 @@ T
 
 |
 
-15.9.7.4.3. Absence totale
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.7.4.4. Absence partielle
-
-|
-
-2346
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.8. EQUIPEMENTS DE SERVICE CITERNE -ELEMENTS VEH-BATTERIE
-
-|
-
-|
-
-|
-
-|
-
-15.9.8.1. ETAT
+15.9.8.1. ÉTAT
 
 |
 
@@ -8285,8 +7557,6 @@ T
 15.9.8.1.1. Détérioration importante
 
 |
-
-2346
 
 |
 
@@ -8302,8 +7572,6 @@ T
 
 |
 
-2346
-
 |
 
 S
@@ -8318,27 +7586,9 @@ T
 
 |
 
-2346
-
 |
 
 O
-
-|
-
-T
-
-|
-
-15.9.8.1.4. Fuite
-
-|
-
-2346
-
-|
-
-R
 
 |
 
@@ -8360,8 +7610,6 @@ T
 
 |
 
-2346
-
 |
 
 R
@@ -8376,8 +7624,6 @@ T
 
 |
 
-2346
-
 |
 
 R
@@ -8388,27 +7634,7 @@ T
 
 |
 
-15.9.9. EQUIPEMENTS COV MENTIONNES SUR LE CERTIFICAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.9.1.2. Détérioration notable
+15.9.8.4.3. Equipement COV incomplet
 
 |
 
@@ -8424,7 +7650,7 @@ T
 
 |
 
-15.9.9.1.3. Détérioration
+15.9.8.4.4. Absence de plaque signalétique COV
 
 |
 
@@ -8440,7 +7666,7 @@ T
 
 |
 
-15.9.9.4. DIVERS
+15.9.10. PROTECTIONS CITERNE
 
 |
 
@@ -8450,63 +7676,7 @@ T
 
 |
 
-15.9.9.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.9.4.3. Incomplet
-
-|
-
-2346
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.9.4.4. Absence de plaque signalétique
-
-|
-
-2346
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.10. PROTECTIONS SUPERIEURES CITERNE
-
-|
-
-|
-
-|
-
-|
-
-15.9.10.1. ETAT
+15.9.10.1. ÉTAT
 
 |
 
@@ -8520,7 +7690,7 @@ T
 
 |
 
-237
+23467
 
 |
 
@@ -8536,7 +7706,7 @@ T
 
 |
 
-237
+23467
 
 |
 
@@ -8562,7 +7732,7 @@ T
 
 |
 
-237
+23467
 
 |
 
@@ -8574,7 +7744,7 @@ T
 
 |
 
-15.9.11. PROTECTIONS LATERALES CITERNE
+15.9.13. LIAISONS ÉQUIPOTENTIELLES
 
 |
 
@@ -8584,161 +7754,7 @@ T
 
 |
 
-15.9.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.11.1.1. Détérioration notable
-
-|
-
-36
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.11.1.2. Détérioration
-
-|
-
-36
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.11.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.9.11.4.1. Absence
-
-|
-
-36
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.12. PROTECTION ARRIERE CITERNE
-
-|
-
-|
-
-|
-
-|
-
-15.9.12.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.9.12.1.2. Détérioration notable
-
-|
-
-36
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.9.12.1.3. Détérioration
-
-|
-
-36
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.9.12.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.9.12.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-15.9.13. LIAISONS EQUIPOTENTIELLES
-
-|
-
-|
-
-|
-
-|
-
-15.9.13.1. ETAT
+15.9.13.1. ÉTAT
 
 |
 
@@ -8754,7 +7770,7 @@ T
 
 |
 
-O
+S
 
 |
 
@@ -8800,7 +7816,7 @@ T
 
 |
 
-15.9.14. FIXATIONS CITERNE -CONTENEUR CITERNE,VEH-BATTERIE
+15.9.14. FIXATIONS CITERNE-CONTENEUR CITERNE, VEH-BATTERIE
 
 |
 
@@ -8810,7 +7826,7 @@ T
 
 |
 
-15.9.14.1. ETAT
+15.9.14.1. ÉTAT
 
 |
 
@@ -8862,7 +7878,7 @@ T
 
 |
 
-15.9.14.4.2. Absence d'une
+15.9.14.4.2. Absence d'une fixation
 
 |
 
@@ -8878,7 +7894,7 @@ T
 
 |
 
-15.9.14.4.3. Absence de plusieurs
+15.9.14.4.3. Absence de plusieurs fixations
 
 |
 
@@ -8936,7 +7952,7 @@ T
 
 |
 
-15.9.15.1. ETAT
+15.9.15.1. ÉTAT
 
 |
 
@@ -8971,22 +7987,6 @@ T
 |
 
 S
-
-|
-
-T
-
-|
-
-15.9.15.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
 
 |
 
@@ -9046,7 +8046,7 @@ T
 
 |
 
-15.9.15.4.6. Non concordance du PV d'épreuve hydraulique avec le flexible
+15.9.15.4.6. Non-concordance du PV d'épreuve hydraulique avec le flexible
 
 |
 
@@ -9078,11 +8078,9 @@ T
 
 |
 
-23
-
 |
 
-O
+C
 
 |
 
@@ -9126,7 +8124,7 @@ T
 
 |
 
-15.10.2.1. ETAT
+15.10.2.1. ÉTAT
 
 |
 
@@ -9232,7 +8230,7 @@ T
 
 |
 
-15.10.3.1 ETAT
+15.10.3.1 ÉTAT
 
 |
 
@@ -9298,7 +8296,7 @@ T
 
 |
 
-15.10.4. ECLAIRAGE INTERIEUR
+15.10.4. ÉCLAIRAGE INTÉRIEUR
 
 |
 
@@ -9308,7 +8306,7 @@ T
 
 |
 
-15.10.4.1. ETAT
+15.10.4.1. ÉTAT
 
 |
 
@@ -9325,6 +8323,20 @@ T
 |
 
 O
+
+|
+
+T
+
+|
+
+15.10.4.1.3. Détérioration notable
+
+|
+
+|
+
+S
 
 |
 
@@ -9394,13 +8406,149 @@ T
 
 |
 
-15.10.4.4.2. Contrôle impossible
+15.10.5. EXTINCTEURS AUTOMATIQUES POUR LE COMPARTIMENT MOTEUR
+
+|
+
+|
+
+|
+
+|
+
+15.10.5.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+15.10.5.1.1. Détérioration notable
 
 |
 
 |
 
 S
+
+|
+
+M
+
+|
+
+15.10.5.1.2. Détérioration
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
+15.10.5.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+15.10.5.4.1. Absence
+
+|
+
+|
+
+R
+
+|
+
+M
+
+|
+
+15.10.6. PROTECTION DU CHARGEMENT CONTRE LES FEUX DE PNEUMATIQUES
+
+|
+
+|
+
+|
+
+|
+
+15.10.6.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+15.10.6.1.1. Détérioration notable
+
+|
+
+1237
+
+|
+
+S
+
+|
+
+T
+
+|
+
+15.10.6.1.2. Détérioration
+
+|
+
+1237
+
+|
+
+O
+
+|
+
+T
+
+|
+
+15.10.6.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+15.10.6.4.1. Absence
+
+|
+
+1237
+
+|
+
+R
 
 |
 
@@ -9415,156 +8563,6 @@ T
 |
 
 |
-
-|
-
-15.11.1. EXTINCTEURS AUTOMATIQUES POUR LE COMPARTIMENT MOTEUR
-
-|
-
-|
-
-|
-
-|
-
-15.11.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.11.1.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-15.11.1.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.11.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.11.1.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-15.11.2. PROTECTION DU CHARGEMENT CONTRE LES FEUX DE PNEUMATIQUES
-
-|
-
-|
-
-|
-
-|
-
-15.11.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.11.2.1.1. Détérioration notable
-
-|
-
-1237
-
-|
-
-S
-
-|
-
-T
-
-|
-
-15.11.2.1.2. Détérioration
-
-|
-
-1237
-
-|
-
-O
-
-|
-
-T
-
-|
-
-15.11.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.11.2.4.1. Absence
-
-|
-
-1237
-
-|
-
-R
-
-|
-
-T
 
 |
 
@@ -9770,335 +8768,211 @@ Dans le cas de la présentation d'un ensemble (tracteur-remorque) au contrôle t
 
 L'efficacité du frein de service mesurée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure aux valeurs fixées dans le tableau ci-dessous :
 
-CATÉGORIE DE VÉHICULE
-
-|
+CATÉGORIE DE VÉHICULE |
 
 DATE DE PREMIÈRE
 
-mise en circulation
+mise en circulation |
 
-|
+ESSAIS SUR BANC |
 
-ESSAIS SUR BANC
+ESSAIS SUR PISTE |
 
-|
+Véhicules de catégorie M1 |
 
-ESSAIS SUR PISTE
+A compter du 01/01/12 |
 
-|
+58 % |
 
-Véhicules de la catégorie M1
+5,8 m/s² |
 
-|
+Jusqu'au 31/12/11 |
 
-Toutes dates
+50 % |
 
-|
+5 m/s² |
 
-50 %
+Véhicules de transport en commun de personnes
 
-|
+(catégories M2 et M3) |
 
-5 m/s²
-
-|
-
-Véhicules de transport en commun de personnes (catégories M2 et M3)
-
-|
-
-Toutes dates
-
-|
+Toutes dates |
 
 50 %
 
-(48 % pour les véhicules
-
-non munis d'ABR)
-
-|
+(48 % pour les véhicules non munis d'ABR) |
 
 5 m/s²
 
-(4,8 m/s² pour les véhicules
+(4,8 m/ s² pour les véhicules non munis d'ABR) |
 
-non munis d'ABR)
+Véhicules à moteur de transport de marchandises
 
-|
+(catégorie N1) |
 
-Véhicules à moteur de transport de marchandises (catégorie N1)
+A compter du 30/09/89 |
 
-|
+50 % |
+
+5 m/s² |
+
+Jusqu'au 29/09/89 |
+
+45 % |
+
+4,5 m/s² |
+
+Véhicules à moteur de transport de marchandises
+
+(catégories N2 et N3) |
+
+A compter du 01/01/12 |
+
+50 % |
+
+5 m/s² |
 
 A compter du 30/09/89
 
-|
+jusqu'au 31/12/11 |
 
-50 %
+45 % |
 
-|
+4,5 m/s² |
 
-5 m/s²
+Jusqu'au 29/09/89 |
 
-|
+43 % |
 
-Jusqu'au 29/09/89
+4,3 m/s² |
 
-|
+Remorques
 
-45 %
+(catégories O3 et O4) |
 
-|
+A compter du 01/01/12 |
 
-4,5 m/s²
+50 % |
 
-|
+5 m/s² |
 
-Véhicules à moteur de transport de marchandises (catégories N2 et N3)
+A compter du 31/05/90
 
-|
+jusqu'au 31/12/11 |
 
-A compter du 01/01/12
+43 % |
 
-|
+4,3 m/s² |
 
-50 %
+Jusqu'au 30/05/90 |
 
-|
+40 % |
 
-5 m/s²
+4 m/s² |
 
-|
+Semi-remorques
 
-A compter du 30/09/89 jusqu'au 31/12/11
+(catégories O3 et O4) |
 
-|
+A compter du 01/01/12 |
 
-45 %
+45 % |
 
-|
+4,5 m/s² |
 
-4,5 m/s²
+A compter du 31/05/90
 
-|
+jusqu'au 31/12/11 |
 
-Jusqu'au 29/09/89
+43 % |
 
-|
+4,3 m/s² |
 
-43 %
+Jusqu'au 30/05/90 |
 
-|
+40 % |
 
-4,3 m/s²
+4 m/s² |
 
-|
-
-Remorques (catégories O3 et O4)
-
-|
-
-A compter du 01/01/12
-
-|
-
-50 %
-
-|
-
-5 m/s²
-
-|
-
-A compter du 31/05/90 jusqu'au 31/12/11
-
-|
-
-43 %
-
-|
-
-4,3 m/s²
-
-|
-
-Jusqu'au 30/05/90
-
-|
-
-40 %
-
-|
-
-4 m/s²
-
-|
-
-Semi-remorques (catégories O3 et O4)
-
-|
-
-A compter du 01/01/12
-
-|
-
-45 %
-
-|
-
-4,5 m/s²
-
-|
-
-A compter du 31/05/90 jusqu'au 31/12/11
-
-|
-
-43 %
-
-|
-
-4,3 m/s²
-
-|
-
-Jusqu'au 30/05/90
-
-|
-
-40 %
-
-|
-
-4 m/s²
-
-|
+et
 
 L'efficacité du frein de secours mesurée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure aux valeurs fixées dans le tableau ci-dessous :
 
-CATÉGORIE DE VÉHICULE
-
-|
+CATÉGORIE DE VÉHICULE |
 
 DATE DE PREMIÈRE
 
-mise en circulation
+mise en circulation |
 
-|
+ESSAIS SUR BANC |
 
-ESSAIS SUR BANC
+ESSAIS SUR PISTE |
 
-|
+Véhicules de catégorie M1 |
 
-ESSAIS SUR PISTE
+A compter du 01/01/12 |
 
-|
+29 % |
 
-Véhicules de la catégorie M1
+2,9 m/s² |
 
-|
+Jusqu'au 31/12/11 |
 
-Toutes dates
+25 % |
 
-|
+2,5 m/s² |
 
-25 %
+Véhicules de transport en commun de personnes
 
-|
+(catégories M2 et M3) |
 
-2,5 m/s²
+Toutes dates |
 
-|
+25 % |
 
-Véhicules de transport en commun de personnes (catégories M2 et M3)
+2,5 m/s² |
 
-|
+Véhicules à moteur de transport de marchandises
 
-Toutes dates
+(catégories N1, N2, N3) |
 
-|
+Toutes dates |
 
-25 %
+22 % |
 
-|
+2,2 m/s² |
 
-2,5 m/s²
+Remorques
 
-|
+(catégories O3 et O4) |
 
-Véhicules à moteur de transport de marchandises (catégories N1, N2, N3)
+A compter du 01/01/12 |
 
-|
+25 % |
 
-Toutes dates
+2,5 m/s² |
 
-|
+Jusqu'au 31/12/11 |
 
-22 %
+20 % |
 
-|
+2 m/s² |
 
-2,2 m/s²
+Semi-remorques
 
-|
+(catégories O3 et O4) |
 
-Remorques (catégories O3 et O4)
+A compter du 01/01/12 |
 
-|
+23 % |
 
-A compter du 01/01/12
+2,3 m/s² |
 
-|
+Jusqu'au 31/12/11 |
 
-25 %
+20 % |
 
-|
-
-2,5 m/s²
-
-|
-
-Jusqu'au 31/12/11
-
-|
-
-20 %
-
-|
-
-2 m/s²
-
-|
-
-Semi-remorques (catégories O3 et O4)
-
-|
-
-A compter du 01/01/12
-
-|
-
-23 %
-
-|
-
-2,3 m/s²
-
-|
-
-Jusqu'au 31/12/11
-
-|
-
-20 %
-
-|
-
-2 m/s²
-
-|
+2 m/s² |
 
 L'efficacité du frein de stationnement calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure à 18 %.
 
@@ -10173,6 +9047,8 @@ Tout véhicule pour lequel une contre-visite a été prescrite au titre des jant
 Pollution
 
 Les valeurs limites sont définies dans l'arrêté de 5 juillet 1994 susvisé.
+
+Tout véhicule pour lequel une contre-visite a été prescrite au titre du dispositif de diagnostic embarqué (OBD) fait l'objet, lors de la contre-visite, de l'ensemble des contrôles prévus pour le dispositif de diagnostic embarqué et pour l'opacité des fumées d'échappement.
 
 Véhicules-écoles
 
