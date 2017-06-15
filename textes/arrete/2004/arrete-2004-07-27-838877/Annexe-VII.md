@@ -98,9 +98,13 @@ I. - Composition du dossier
 
 3. Le cahier des charges visé au I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, y compris la liste des contrôleurs demandant le rattachement à ce centre, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
+a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 7 de la présente annexe ainsi que la liste des contrôleurs rattachés ;
 
-b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe, d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
+b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
+
+c) Un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et indiquant l'emplacement des matériels de contrôle ;
+
+d) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe.
 
 4. La copie de la notification d'agrément du réseau pour le contrôle technique des véhicules lourds.
 
@@ -152,19 +156,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête.
 
-2. Une justification de l'existence légale, de moins de trois mois, de la personne qui demande l'agrément de l'installation s'il s'agit d'une personne morale.
-
-S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en cours de validité, permettant de justifier de l'identité de la personne qui demande l'agrément des installations :
-
-- carte nationale d'identité française ou étrangère ;
-
-- passeport français ou étranger ;
-
-- permis de conduire français ou étranger ;
-
-- carte de combattant délivrée par les autorités françaises ;
-
-- carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de l'Union européenne ou de l'Espace économique européen.
+2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois.
 
 3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2012.
 
@@ -200,23 +192,31 @@ La décision relative à l'agrément de l'installation de contrôle est notifié
 
 IV. - Modifications du dossier d'agrément
 
-4.1. L'exploitant du centre de contrôle signale à la préfecture les modifications suivantes :
+4.1. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
 4.1.1. La cessation d'activité ;
 
-4.1.2. Le changement d'exploitant du centre.
+4.1.2. Le changement du titulaire de l'agrément du centre.
 
 Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre. Celle-ci est également prononcée sur demande du bénéficiaire de l'agrément ou lorsque le préfet constate que l'un des cas visés ci-dessus est manifestement rempli et que le bénéficiaire de l'agrément ne l'en a pas informé.
 
-La décision d'annulation d'agrément est notifiée simultanément à l'exploitant et à l'organisme technique central.
+La décision d'annulation d'agrément est notifiée simultanément au titulaire de l'agrément et à l'organisme technique central.
 
-4.2. L'exploitant du centre de contrôle signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui leur sont imposées.
+4.2. Le titulaire de l'agrément du centre de contrôle signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui leur sont imposées.
 
 Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 25 et 25-1.
 
-4.3. L'exploitant du centre de contrôle signale à la préfecture toute modification des installations par rapport au descriptif figurant dans le dossier d'agrément.
+4.3. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
-La modification ci-dessus affectant le plan de situation ou le plan de masse nécessite, en outre, la transmission du rapport d'audit favorable établi par un organisme agréé suite aux travaux effectués.
+4.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément, dans un délai maximal de deux mois après les modifications. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux travaux effectués. Si le préfet considère que les modifications apportées ne permettent plus de respecter les dispositions du présent arrêté, l'agrément du centre peut être suspendu ou retiré conformément aux dispositions de des articles 25 et 25-1 du présent arrêté.
+
+4.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés. Dans ce cas, le titulaire de l'agrément du centre transmet un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément la prise en compte de la modification d'agrément.
+
+4.3.3. Pour une personne morale, changement du représentant légal. Dans ce cas, le titulaire de l'agrément du centre transmet un justificatif d'existence légal à jour.
+
+4.3.4. Changement du système qualité ou du logiciel informatique. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux changements effectués.
+
+4.4. La description de l'organisation et des moyens matériels ainsi que la liste des contrôleurs rattachés prévues au a du 4 du I du présent chapitre sont tenues à jour et mises à disposition des services de l'Etat.
 
 Chapitre IV (Abrogé)
 
@@ -262,7 +262,7 @@ i) L'attestation de conformité de l'outil informatique délivrée par l'Organis
 
 5. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 32 attestant que le réseau a déposé, en vue de son accréditation, son système qualité complet établi en référence à la norme NF EN ISO/CEI 17020 : 2012.
 
-6. La procédure du réseau définissant, pour les installations de contrôle du réseau, les sanctions prévues au point 3.1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
+La procédure du réseau définissant, pour les installations de contrôle du réseau, les sanctions prévues au point 3.1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
 
 II. - Demande initiale d'agrément
 
@@ -492,7 +492,7 @@ Adresse :
 
 APPENDICE 5
 
-AGREMENT DES INSTALLATIONS DE CONTROLE DEVEHICULES LOURDS
+AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LOURDS
 
 ATTESTATION D'AUDIT FAVORABLE
 
@@ -510,407 +510,111 @@ Signature et cachet du réseau
 
 APPENDICE 6
 
-Agrément des installations de contrôle de véhicules lourds
+AGRÉMENT DES INSTALLATIONS DE CONTRÔLE DE VÉHICULES LOURDS
 
-Déclaration sur l'honneur
+DÉCLARATION SUR L'HONNEUR
 
-Je soussigné, (Nom et Prénom de la personne physique ou du représentant légal de la personne morale) ............................................................................................................
+Je soussigné, (nom et prénom de la personne physique ou du représentant légal de la personne morale)
 
-Représentant (le cas échéant) la société ...............................................
+Demandant l'agrément des installations de contrôle (adresse du centre)
 
-exploitant les installations de contrôle (adresse du centre) ..........................
+déclare sur l'honneur que les renseignements contenus dans le dossier de demande d'agrément pour les installations de contrôle situées à (localisation des installations)
 
-....................................................................................................................................................... déclare sur l'honneur que les renseignements contenus dans le dossier de demande d'agrément pour les installations de contrôle situées à (localisation des installations) ....................................................................................................................................................... sont conformes à la réalité.
+sont conformes à la réalité.
 
 Je m'engage :
 
-- (pour les installations exploitées par : un réseau) à informer dans les plus brefs délais, le préfet de toute modification significative des renseignements concernant les points visés au paragraphe 4 du chapitre II de l'annexe VII de l'arrêté relatif au contrôle technique des véhicules lourds
+- (pour les installations exploitées par un réseau) à informer dans les plus brefs délais, le préfet de toute modification significative des renseignements concernant les points visés au paragraphe IV du chapitre II de l'annexe VII de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
-- (pour les centres non rattachés à un réseau) à me conformer, en ce qui concerne les modifications apportées au dossier d'agrément, aux prescriptions définies au paragraphe 4 du chapitre III de l'annexe VII de l'arrêté relatif au contrôle technique des véhicules lourds ;
+- (pour les centres non rattachés à un réseau) à me conformer, en ce qui concerne les modifications apportées au dossier d'agrément, aux prescriptions définies au paragraphe 3 du chapitre IV de l'annexe VII de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
-- (pour les centres non rattachés à un réseau), à signer avec l'Organisme technique central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté relatif au contrôle technique des véhicules lourds ;
+- (pour les centres non rattachés à un réseau), à signer avec l'organisme technique central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
-- à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par : celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
+- à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
 
 Je déclare (pour les centres non rattachés à un réseau) :
 
-- que le centre de contrôle est conforme aux exigences spécifiées dans l'appendice 1 de l'annexe III de l'arrêté relatif au contrôle technique des véhicules lourds et à respecter l'ensemble des exigences qui y sont mentionnées ;
+- que le centre de contrôle est conforme aux exigences spécifiées à l'annexe III de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds et m'engage à respecter l'ensemble des exigences qui y sont mentionnées ;
 
-- avoir pris connaissance du protocole informatique établi avec l'Organisme technique central conformément au point b de l'article 38 de l'arrêté relatif au contrôle technique des véhicules lourds. Je m'engage à le mettre en œuvre et à suivre ses évolutions.
+- avoir pris connaissance du protocole informatique établi avec l'organisme technique central conformément au point b de l'article 38 de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds. Je m'engage à le mettre en œuvre et à suivre ses évolutions.
 
-A ..............................., le ..................................
+A, le
 
 Signature et cachet
 
-(pour les personnes morales
-
-qualité du signataire)
+(pour les personnes morales, qualité du signataire)
 
 APPENDICE 7
 
-AGREMENT D'UN CENTRE DE CONTROLE DES VEHICULES LOURDS
+AGRÉMENT D'UN CENTRE DE CONTRÔLE
 
-DESCRIPTION DE L'ORGANISATION ET DES MOYENS MATERIELS
+DESCRIPTION DE L'ORGANISATION ET DES MOYENS MATÉRIELS
 
 Renseignements généraux
 
-Nom ou raison sociale du demandeur de l'agrément : ................................................
+Nom ou raison sociale du demandeur de l'agrément :
 
-Enseigne commerciale : ...................................................................................
+Enseigne commerciale :
 
-Adresse : .....................................................................................................
+Adresse :
 
-..................................................................................................................
-
-Localisation de l'installation de contrôle : ..........................................................
+Localisation de l'installation de contrôle :
 
 Numéro de téléphone :
 
 Bâtiments
 
-Surface totale de l'emprise immobilière : .........................................................
+Surface des zones couvertes :
 
-Surface de l'emprise immobilière réservée à l'activité poids lourds : ................
+Surface des zones de contrôle :
 
-Accès à l'installation de contrôle et aux parkings :
+Surface de l'emprise immobilière réservée à l'activité poids lourds :
 
-- Hauteur :
+Surface des bureaux :
 
-- Longueur :
-
-- Largeur :
-
-Surface des zones de contrôle : .................................................
+Surface de la salle d'attente :
 
 Nombre de places pour le stationnement des véhicules légers :
 
-Nombre de places pour le stationnement des véhicules lourds :
+Nombre de places à l'entrée pour le stationnement des véhicules lourds :
 
-Nombre de lignes
+Nombre de places à la sortie pour le stationnement des véhicules lourds :
 
-|
+Accès à l'installation de contrôle et aux parkings :
 
-Nombre de places à l'entrée
+-Hauteur :
 
-|
+-Longueur :
 
-Nombre de places à la sortie
+-Largeur :
 
-|
+Equipements
 
-.
+Pour tous les équipements indiqués à l'annexe III de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds et présents dans le centre (y compris optionnels), indiquer la marque, le type, le cahier des charges auquel il est conforme, le numéro de série et la date d'installation.
 
-|
+Informatique
 
-|
+Matériels :
 
-|
+Logiciels :
 
-Surface des bureaux : .........................................................
-
-Surface de la salle d'attente : ................................................
-
-Surface du local d'archives
-
-Matériels
-
-|
-
-Ligne 1 |
-
-Ligne 2 |
-
-Ligne X |
-
-- fosse |
-
-|
-
-|
-
-|
-
-ou |
-
-|
-
-|
-
-|
-
-- appareil de levage (marque, type, date de mise en service) |
-
-|
-
-|
-
-|
-
-Freinomètre à rouleaux |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Plaques à jeux |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Opacimètre |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Contrôle du réglage des phares |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité. |
-
-Préciser pour chaque équipement mécanique, la marque, le modèle et/ou le type
-
-...............................................................................................................................
-
-Informatique - moyens de communication
-
-N° de la ligne téléphonique réservée à la transmission des données avec l'Organisme Technique Central (pour centre non-rattaché) :
-
-Logiciel de contrôle :
-
-Marque :
-
-Version .................................................
+Indiquer la marque et le type des principaux matériels et logiciels utilisés (saisie des informations, archivage et traitement local, transmission des informations).
 
 Personnel
 
-Liste des contrôleurs rattachés au centre ................................................
-
-.....................................................................................................
-
-.....................................................................................................
-
-.....................................................................................................
+Indiquer l'organisation générale du centre en précisant les fonctions et le nombre de personnes impliquées, (direction, contrôle, administration,) :
 
 Activité antérieure
 
-Si l'installation est déjà agréé pour le contrôle des véhicules légers, indiquer :
+Si l'installation était déjà en activité avant sa demande d'agrément, indiquer :
 
-- la date d'agrément :
+-la date de mise en service :
 
-- le numéro d'agrément obtenu :
+-le numéro et la date du dernier agrément obtenu :
 
-Si l'installation était déjà en activité pour le contrôle des véhicules lourds, indiquer :
+-le nombre de visites réalisées par an au cours des trois dernières années :
 
-- la date d'agrément :
-
-- le numéro d'agrément obtenu :
+Observations éventuelles
 
 Date, signature et cachet
 
