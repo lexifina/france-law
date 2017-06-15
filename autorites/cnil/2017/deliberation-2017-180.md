@@ -1,0 +1,152 @@
+# Délibération n° 2017-180 du 15 juin 2017 portant avis sur un projet de décret modifiant le traitement d'antécédents judiciaires (saisine n° AV 17006649)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2017-180
+- Date : 2017-06-15
+- Publication : 2017-08-31
+- NOR : CNIX1722336X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000035467104
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministre de l'intérieur d'une demande d'avis concernant un projet de décret modifiant le traitement d'antécédents judiciaires ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de la défense, notamment son article L. 4123-9-1 ;
+
+Vu le code monétaire et financier, notamment ses articles L. 561-23 et L. 561-27 ;
+
+Vu le code de procédure pénale, notamment ses articles 230-6 à 230-11, 803-1, R. 40-23 à R. 40-34 ;
+
+Vu le code de la sécurité intérieure, notamment ses articles L. 114-1, L. 114-2, L. 211-11-1, L. 234-2, R. 234-2, R. 234-3 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 26-II et 30 ;
+
+Vu la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale ;
+
+Vu l'ordonnance n° 2013-518 du 20 juin 2013 modifiant certaines dispositions du code de la sécurité intérieure et du code de la défense (parties législatives) relatives aux armes et munitions ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 2014-1486 du 10 décembre 2014 portant création d'un traitement automatisé de données à caractère personnel dénommé logiciel de rédaction des procédures de la douane judiciaire (LRPDJ) ;
+
+Vu le décret n° 2017-588 du 20 avril 2017 portant création d'un service à compétence nationale dénommé Commandement spécialisé pour la sécurité nucléaire ;
+
+Vu le décret n° 2017-668 du 27 avril 2017 portant création d'un service à compétence nationale dénommé service national des enquêtes administratives de sécurité ;
+
+Après avoir entendu M. Jean-François CARREZ, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+
+Emet l'avis suivant :
+
+La commission a été saisie par le ministre de l'intérieur d'une demande d'avis relative à un projet de décret modifiant les dispositions réglementaires du code de procédure pénale (CPP) relatives au traitement d'antécédents judiciaires (TAJ).
+
+Conformément aux dispositions de l'article 230-6 du CPP, le TAJ est un fichier d'antécédents judiciaires et a pour finalités de faciliter la constatation des infractions à la loi pénale, le rassemblement des preuves de ces infractions et la recherche de leurs auteurs. Il est consulté dans le cadre d'enquêtes judiciaires, mais également pour certaines enquêtes administratives. Ses conditions de mise en œuvre sont fixées aux articles R. 40-23 à R. 40-34 du CPP. Conformément aux dispositions des articles 230-11 du CPP et 26-II de la loi du 6 janvier 1978 modifiée, les modifications apportées à ces conditions de mises en œuvre doivent faire l'objet d'un décret en Conseil d'Etat pris après avis motivé et publié de la commission.
+
+Sur les modalités d'alimentation du TAJ :
+
+En application de l'article R. 40-25 du CPP, le TAJ porte uniquement sur les données recueillies dans le cadre des procédures judiciaires établies par les personnels de la police nationale et les militaires de la gendarmerie nationale, à savoir les enquêtes de police judiciaire menées sous le contrôle du procureur de la République (enquêtes préliminaires ou de flagrance, de recherche des causes de la mort, de blessures graves ou d'une disparition) et les investigations exécutées sur commission rogatoire d'un juge (instruction préparatoire, instruction pour recherche des causes de la mort ou d'une disparition). La collecte des données s'opère automatiquement par la mise en relation de TAJ avec les traitements de rédaction des procédures de la police et de la gendarmerie nationales.
+
+L'article R. 40-24 du CPP prévoit néanmoins que les données issues des procédures judiciaires établies par les agents des douanes habilités à exercer des missions de police judiciaire peuvent être enregistrées dans le TAJ lorsqu'un service de police ou une unité de gendarmerie est appelé à assurer la continuation ou la conduite commune d'une telle enquête.
+
+Dans ce cadre, l'article 1er du projet de décret vise à modifier l'article R. 40-24 du CPP, afin de permettre l'enregistrement dans le TAJ de l'ensemble des procédures judiciaires traitées par le service national de douane judiciaire (SNDJ), et non plus seulement des procédures qui ont fait l'objet d'une intervention des services de police ou de gendarmerie. En pratique, la collecte des données s'opèrera automatiquement par la mise en relation du TAJ avec le logiciel de rédaction des procédures des douanes judiciaires (LRPDJ), créé par le décret du 10 décembre 2014 susvisé, pris après avis motivé et publié de la commission.
+
+La commission prend acte de ces nouvelles modalités d'alimentation du TAJ et estime que l'enregistrement de ces nouvelles données est conforme aux finalités assignées au TAJ par l'article 230-6 du CPP. Elle rappelle néanmoins que seules les procédures respectant le cadre de collecte prévu par l'article R. 40-25 du CPP doivent être transmises du LRPDJ au TAJ. En outre, tout comme l'alimentation du TAJ par les logiciels de rédaction des procédures de la police et de la gendarmerie nationales, les données relatives aux personnes à l'encontre desquelles il existe des indices graves ou concordants de participation à une infraction ne doivent être transmises au TAJ que lors de la clôture, partielle ou définitive, de la procédure. Cette transmission différée permettra ainsi d'éviter que des personnes abusivement mises en cause voient leurs données enregistrées dans le TAJ alors que l'enquête aura montré qu'il n'existe pas d'indice grave ou concordant à leur encontre.
+
+Enfin, s'agissant de ces procédures judiciaires traitées par le SNDJ et donnant lieu à un enregistrement dans le TAJ, la commission estime nécessaire que le ministère précise selon quelles modalités le magistrat de la commission en charge du droit d'accès indirect pourra procéder aux vérifications au regard des dispositions de l'article 87-1 du décret du 20 octobre 2005 susvisé.
+
+Sur les durées de conservation applicables à certaines infractions :
+
+L'ordonnance susvisée du 20 juin 2013 a procédé à une modernisation du système de contrôle des armes, la nomenclature de classement des armes passant de huit à quatre catégories (A, B, C et D).
+
+L'article 3 du projet de décret vise ainsi à modifier certaines infractions listées dans le tableau 1 de l'article R. 40-27 du CPP, relatif aux infractions pour lesquelles les données relatives aux personnes mises en cause sont conservées, de manière dérogatoire, pendant quarante ans, afin de tenir compte de cette nouvelle nomenclature, ce qui n'appelle pas d'observation particulière de la part de la commission.
+
+Sur les nouvelles données collectées :
+
+L'article 2 du projet de décret vise à modifier l'article R. 40-26 du CPP relatif aux données collectées. Il s'agit plus précisément d'ajouter les adresses de messagerie électronique ainsi que les numéros de téléphone concernant les personnes mises en cause (personnes physiques et morales), les victimes (personnes physiques et morales) ainsi que les personnes faisant l'objet d'une enquête ou d'une instruction pour recherche des causes de la mort ou d'une disparition.
+
+Le dossier de saisine précise que ces modifications doivent permettre le recours à la notification par voie électronique au cours de la procédure pénale, telle que prévue par l'article 803-1 du CPP.
+
+Ces données sont enregistrées dans un premier temps dans les logiciels de rédaction des procédures de la police et de la gendarmerie nationales, qui les transmettent de manière automatique au TAJ et au traitement dénommé Cassiopée mis en œuvre par le ministère de la justice. Ce dernier permet alors l'information des victimes, par voie électronique, sur les suites de leur procédure.
+
+La commission estime qu'une contrainte technique ne saurait justifier à elle seule l'enregistrement de ces nouvelles données dans le TAJ, qui doivent être conformes, en application de l'article 6-3° de la loi du 6 janvier 1978 modifiée, aux finalités poursuivies par le TAJ.
+
+Elle relève néanmoins que, selon le ministère de l'intérieur, le traitement de ces nouvelles données répond en outre à un besoin opérationnel. Le TAJ comporte en effet une fonction de rapprochement permettant de croiser plusieurs données et l'enregistrement de ces nouvelles données doit permettre aux enquêteurs d'identifier des lignes téléphoniques ou des correspondants et d'associer des numéros de téléphone à des matériels (numéros IMSI et IMEI, boîtiers GSM), afin de faire ressortir des liens entre différentes fiches.
+
+Au regard de ces éléments, la commission considère que l'enregistrement dans le TAJ de ces nouvelles données est conforme aux dispositions précitées de l'article 6 de la loi du 6 janvier 1978 modifiée.
+
+Sur les destinataires :
+
+L'article 4 du projet de décret vise à modifier l'article R. 40-28 du CPP, relatif aux personnels habilités à accéder directement aux données enregistrées dans le TAJ.
+
+Il s'agit, en premier lieu, de permettre l'accès aux données enregistrées dans le TAJ au magistrat mentionné à l'article 230-9 du CPP ainsi qu'aux agents des services judiciaires, chargés de l'instruction des demandes de rectification et d'effacement.
+
+En application de l'article 230-9 du CPP, ce magistrat est chargé de suivre la mise en œuvre et la mise à jour du TAJ et dispose des mêmes pouvoirs d'effacement, de rectification ou de maintien des données personnelles dans le TAJ que le procureur de la République. Il est ainsi prévu qu'il dispose, pour l'exercice de ses fonctions, d'un accès direct à ces traitements automatisés . Sous réserve que des mesures de traçabilité soient mises en œuvre, cette modification n'appelle dès lors pas d'observation particulière de la part de la commission.
+
+En deuxième lieu, le projet de décret vise à ajouter certains agents de la police nationale pour les besoins de la collecte, de la vérification, de la mise à jour ou de l'effacement des données enregistrées dans le TAJ.
+
+Il s'agit tout d'abord des agents affectés dans les services régionaux de documentation criminelle, qui alimentent et mettent à jour les informations enregistrées dans le TAJ, ainsi que des personnels administratifs affectés dans les commissariats de sécurité publique chargés de la saisie dans le TAU des données figurant dans une procédure judiciaire et des gestionnaires locaux amenés à vérifier l'exactitude des données saisies. Il s'agit en outre des agents spécialisés de police technique et scientifique (ASPTS), dans le cadre de leurs missions de police technique et scientifique (signalisation des individus, développement et traitement de photographies des personnes mises en cause et des objets).
+
+L'accès de ces nouveaux personnels n'appelle pas d'observation particulière de la part de la commission.
+
+L'article 5 du projet de décret procède à une réécriture complète de l'article R. 40-29-I du CPP, relatif à la consultation du TAJ dans le cadre des enquêtes administratives.
+
+Sont ainsi ajoutés, au titre des personnels habilités à accéder au TAJ, les agents du SNEAS et le COSSEN, afin de permettre la consultation du TAJ dans le cadre des enquêtes administratives prévues aux articles L. 114-1, L. 114-2 et L. 211-11-1 du CSI.
+
+La nécessité de ces modifications résulte, d'une part, de l'adoption de nouveaux dispositifs législatifs imposant la réalisation d'enquêtes administratives conditionnant l'accès à certains emplois ou sites sensibles et, d'autre part, de l'évolution des modalités de réalisation des contrôles réalisés à l'occasion de ces enquêtes. Les enquêtes prévues à l'article L. 211-11-1 du CSI, issu de l'article 53 de la loi n° 2016-731 du 3 juin 2016 susvisée et relatif à la sécurité des grands évènements, ainsi que celles imposées par l'article L. 114-2 du CSI, dans sa rédaction issue de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique et qui concerne la sécurité des transports publics et le transport de marchandises dangereuses, s'ajoutent en effet aux possibilités d'enquêtes administratives déjà prévues par l'article L. 114-1 du CSI.
+
+La commission relève en outre qu'est envisagé, dans le cadre des enquêtes prévues aux articles L. 114-2 et L. 211-11-1 du CSI et pour certaines enquêtes prévues à l'article L. 114-1 du même code, un renforcement des contrôles effectués avec la consultation de multiples traitements de données à caractère personnel relevant de l'article 26 de la loi du 6 janvier 1978 modifiée. La commission s'est prononcée sur ce criblage de fichiers dans ses délibérations du 9 mars et du 18 mai 2017.
+
+Elle relève également qu'est envisagée la mise en œuvre d'un outil spécifique, le traitement de données à caractère personnel ACCRED, créé par un projet de décret sur lequel la commission s'est prononcée dans un avis en date du 18 mai dernier et qui doit permettre une consultation automatique et simultanée d'une partie des fichiers concernés, parmi lesquels figurent le TAJ.
+
+Ce dispositif de criblage sera mis en œuvre par deux nouveaux services à compétence nationale : le Service national des enquêtes administratives de sécurité (SNEAS), créé par le décret du 27 avril 2017 susvisé et rattaché à la direction générale de la police nationale (DGPN) et le Commandement spécialisé pour la sécurité nucléaire (CoSSeN), créé par le décret du 20 avril 2017 susvisé et rattaché à la direction générale de la gendarmerie nationale (DGGN).
+
+C'est dans ce contexte que le projet de décret soumis à la commission prévoit de compléter les dispositions relatives à la consultation du TAJ dans le cadre d'enquêtes administratives, l'article R. 40-29 du CPP ne mentionnant que celles prévues à l'article 17-1 de la loi de 1995 et aux articles L. 114-1, L. 234-1 et L. 234-2 du CSI.
+
+Ces modifications, qui découlent de l'évolution des dispositions législatives du CSI concernant les enquêtes administratives et du renforcement des contrôles réalisés à leur occasion, apparaissent justifiées à la commission.
+
+En outre, le projet de décret vise à tenir compte des apports de la loi n° 2016-731 du 3 juin 2016 précitée concernant la protection des données à caractère personnel relative aux militaires. Dans ce cadre, des enquêtes administratives, reposant notamment sur la consultation du TAJ, peuvent être réalisées. Le projet de décret vise ainsi à compléter les dispositions relatives aux motifs de consultation du TAJ dans le cadre d'enquêtes administratives, afin d'y mentionner celles prévues à l'article L. 4123-9-1 du code de la défense.
+
+Dans ce cadre, il prévoit également, au titre des personnels habilités à accéder au TAJ, les agents des services spécialisés de renseignement du ministère de la défense. A cet égard, la commission relève que les agents des services de renseignement du ministère de la défense (direction générale de la sécurité extérieure, direction du renseignement et sécurité de la défense et la direction du renseignement militaire) peuvent déjà accéder au TAJ, d'une part, dans le cadre des enquêtes administratives, conformément aux dispositions de l'article L. 234-2 du CSI et, d'autre part, à des fins de protection de la sécurité de leurs personnels, conformément aux dispositions de l'article L. 234-3 du CSI.
+
+Le projet de décret ajoute enfin, au titre des personnels du ministère de la défense habilités à accéder au TAJ, les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement dans le cadre de la réalisation des enquêtes administratives mentionnées à l'article L. 4123-9-1 du code de la défense. Interrogé sur le rôle de ces sections de recherches dans la réalisation de ces enquêtes administratives, le ministère de l'intérieur a finalement indiqué renoncer à cette disposition. La commission prend acte que seule la DRSD procédera à ces enquêtes et que le projet de décret sera dès lors modifié en ce sens.
+
+Sur la consultation du TAJ dans le cadre des missions de renseignement :
+
+Le projet de décret vise à ajouter un nouvel article R. 40-29-1 dans le CPP, relatif à la consultation du TAJ pour des finalités de renseignement.
+
+L'article L. 234-4 du CSI prévoit en effet que, pour les seuls besoins liés à la protection de certains intérêts mentionnés à l'article L. 811-3 de ce code (indépendance nationale, intégrité du territoire et défense nationale ; prévention du terrorisme ; prévention des atteintes à la forme républicaine des institutions, des actions tendant au maintien ou à la reconstitution de groupements dissous et des violences collectives de nature à porter gravement atteinte à la paix publique), les services spécialisés de renseignement et les services appartenant au second cercle du renseignement peuvent accéder au TAJ.
+
+Ces services sont listés à R. 234-3-I du CSI, le II de cet article prévoyant les modalités d'accès.
+
+Le projet de décret vise en premier lieu à abroger ce II de l'article R. 234-3 du CSI et à insérer cette disposition dans un nouvel article R. 40-29-1 du CPP. Si, sur le principe, cette modification n'appelle pas d'observation particulière de la part de la commission, cette dernière estime toutefois que toutes les garanties actuellement prévues au II de l'article R. 234-3 du CSI doivent être mises en oeuvre, notamment l'absence d'interconnexion entre le TAJ et les traitements mis en oeuvre par les services concernés, et mentionnées dans le projet de décret.
+
+En second lieu, l'article L. 561-27 du code monétaire et financier, tel que modifié par la loi du 3 juin 2016 susvisée, prévoit que la cellule de renseignement financier nationale, dénommée Tracfin, dispose, pour les besoins de l'accomplissement de sa mission, d'un droit d'accès direct aux traitements de données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale, y compris pour les données portant sur des procédures judiciaires en cours et à l'exclusion de celles relatives aux personnes enregistrées en qualité de victimes .
+
+Le projet de décret vise dès lors à prévoir expressément les agents de Tracfin au titre des personnels habilités à accéder au TAJ, à des fins de lutte contre le blanchiment de capitaux. La commission rappelle que cet accès doit être limité à la consultation et ne pas donner lieu à une interconnexion avec d'autres traitements.
+
+Les modalités d'accès des agents de Tracfin au TAJ sont encadrées par une convention conclue entre la DGGN et Tracfin, qui définit les garanties en matière d'authentification et de traçabilité des consultations.
+
+Les utilisateurs de Tracfin accèdent aux applications au moyen de leur poste de travail muni d'un navigateur, par des raccordements réseau entre Tracfin et la gendarmerie. Le TAJ sera accessible par le biais de navigateurs Web au moyen du protocole sécurisé HTTPS.
+
+Chaque agent, individuellement désigné et habilité par le directeur de ce service pour accéder au TAJ, sera muni d'une carte à puce contenant un certificat d'authentification conforme au Référentiel général de sécurité (RGS). Ce certificat permettra à l'agent de s'authentifier de façon forte sur un portail géré par Tracfin depuis son poste de travail. Cette authentification sera tracée et transmise aux infrastructures du ministère de l'intérieur pour confirmer l'identité de l'agent et ses habilitations au TAJ.
+
+Enfin, les traces générées par la consultation du TAJ seront conservées par le ministère de l'intérieur et transmises à Tracfin à des fins de contrôle interne.
+
+Au regard de ces éléments, l'ajout de ces nouveaux personnels habilités à accéder au TAJ n'appelle pas d'observation particulière de la commission.
+
+Sur les modalités d'exercice des droits d'effacement et de rectification :
+
+La loi du 3 juin 2016 précitée a modifié l'article 230-9 du CPP afin de prévoir que les décisions du procureur de la République et du magistrat référent en matière d'effacement ou de rectification des données à caractère personnel sont désormais susceptibles de recours devant, respectivement, le président de la chambre de l'instruction et le président de la chambre de l'instruction de la cour d'appel de Paris.
+
+Cette même loi a inséré dans le CPP l'article 802-1, généralisant le droit au recours en cas de défaut de réponse d'une autorité judiciaire à une demande, considéré comme une décision implicite de rejet.
+
+Les projets d'article R. 40-31 et R. 40-30-1 du CPP tels que prévus par le projet de décret visent dès lors à préciser cette procédure et n'appellent pas d'observation particulière de la part de la commission.
+
+La présidente,
+
+I. Falque-Pierrotin
