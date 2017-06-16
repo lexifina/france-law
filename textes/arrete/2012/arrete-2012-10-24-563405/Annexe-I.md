@@ -40,6 +40,10 @@ France métropolitaine ― Serbie.
 
 3.1. De/vers la France métropolitaine
 
+Algérie :
+
+Montpellier-Alger ;
+
 Afrique du Sud :
 
 Paris-Johannesbourg ;
