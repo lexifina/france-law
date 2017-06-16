@@ -624,15 +624,15 @@ Ressort du tribunal de grande instance de Coutances
 
 |
 
-Cherbourg-Octeville
+Cherbourg-en-Cotentin
 
 |
 
-Cherbourg-Octeville
+Cherbourg-en-Cotentin
 
 |
 
-Ressort du tribunal de grande instance de Cherbourg-Octeville
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin
 
 |
 
@@ -968,15 +968,17 @@ Ressort du tribunal de grande instance de Grenoble
 
 |
 
-Vienne
-
-|
+Bourgoin-Jallieu
 
 Vienne
 
 |
 
-Ressort des tribunaux de grande instance de Vienne et de Bourgoin-Jallieu
+Vienne
+
+|
+
+Ressort des tribunaux de grande instance de Bourgoin-Jallieu et de Vienne
 
 |
 
@@ -1908,13 +1910,15 @@ Allier
 
 Cusset
 
+Moulins
+
 |
 
 Cusset
 
 |
 
-Ressort du tribunal de grande instance de Cusset
+Ressort des tribunaux de grande instance de Cusset et de Moulins
 
 |
 

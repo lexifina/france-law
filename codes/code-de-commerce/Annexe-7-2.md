@@ -662,7 +662,7 @@ Manche
 
 |
 
-Cherbourg-Octeville
+Cherbourg-en-Cotentin
 
 |
 
@@ -1752,7 +1752,7 @@ Cour d'appel de Rennes
 
 |
 
-Côtes-du-Nord
+Côtes-d'Armor
 
 |
 

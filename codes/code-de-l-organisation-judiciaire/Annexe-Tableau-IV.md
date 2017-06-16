@@ -442,25 +442,11 @@ Laon
 
 |
 
-[Laon
+Laon
 
 |
 
-Cantons d'Anizy-le-Château, Chauny, Coucy-le-Château-Auffrique, Craonne, Crécy-sur-Serre, La Fère, Laon-Nord, Laon-Sud, Marle, Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sissonne et Tergnier. (3)]
-
-|
-
-[Laon
-
-|
-
-Cantons d'Anizy-le-Château, Aubenton, Chauny, Coucy-le-Château
-
-|
-
-|
-
-Auffrique, Craonne, Crécy-sur-Serre, Hirson, La Capelle, La Fère, Laon-Nord, Laon-Sud, Le Nouvion-en-Thiérache, Marle, Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sains-Richaumont, Sissonne, Tergnier et Vervins. (4)]
+Cantons d'Anizy-le-Château, Aubenton, Chauny, Coucy-le-Château-Auffrique, Craonne, Crécy-sur-Serre, Hirson, La Capelle, La Fère, Laon-Nord, Laon-Sud, Le Nouvion-en-Thiérache, Marle, Neufchâtel-sur-Aisne (à l'exception de la fraction de commune de Cormicy), Rozoy-sur-Serre, Sains-Richaumont, Sissonne, Tergnier et Vervins.
 
 |
 
@@ -664,7 +650,7 @@ Angers
 
 |
 
-Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord-Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir (à l'exception de la fraction de commune de Mazé-Milon), Thouarcé (à l'exception de la fraction de commune de Chemillé-en-Anjou) et Tiercé et communes d'Ingrandes-Le Fresne-sur-Loire et Loire-Authion.
+Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord-Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir (à l'exception de la fraction de commune de Mazé-Milon), Thouarcé (à l'exception de la fraction de commune de Chemillé-en-Anjou) et Tiercé et communes de Brissac Loire Aubance, Ingrandes-Le Fresne-sur-Loire, Loire-Authion et Terranjou.
 
 |
 
@@ -684,7 +670,7 @@ Saumur
 
 |
 
-Cantons d'Allonnes, Baugé, Beaufort-en-Vallée (à l'exception de la fraction de commune de Loire-Authion), Doué-la-Fontaine, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers (à l'exception de la fraction de commune de Chemillé-en-Anjou) et commune de Mazé-Milon.
+Cantons d'Allonnes, Baugé, Beaufort-en-Vallée (à l'exception de la fraction de commune de Loire-Authion), Doué-la-Fontaine (à l'exception de la fraction de commune de Terranjou), Gennes (à l'exception de la fraction de commune de Brissac Loire Aubance), Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers (à l'exception de la fraction de commune de Chemillé-en-Anjou) et commune de Mazé-Milon.
 
 |
 
@@ -924,19 +910,19 @@ Besançon
 
 |
 
-[Besançon
+Besançon
 
 |
 
-Cantons d'Amancey, Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-Doubs, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.
+Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-Doubs, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.
 
 |
 
-[Pontarlier
+Pontarlier
 
 |
 
-Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans, Vercel-Villedieu-le-Camp et commune d'Etalans.
+Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp et communes d'Etalans et Levier.
 
 |
 
@@ -1422,7 +1408,7 @@ Caen
 
 |
 
-[Bayeux
+Bayeux
 
 |
 
@@ -1430,31 +1416,15 @@ Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévi�
 
 |
 
-[Caen
+Caen
 
 |
 
-Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5e canton, Isigny-sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage. (4)]
+Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize (à l'exception de la fraction de commune de Mézidon Vallée d'Auge), Cabourg, Caen 1er Canton, Caen 2e Canton, Caen 3e Canton, Caen 4e Canton, Caen 7e Canton, Caen 8e Canton, Caen 9e Canton, Caen 10e Canton, Caen-Hérouville Caen 6e Canton, Caumont-l'Eventé, Creully, Douvres-la-Délivrande, Evrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5e Canton, Isigny-sur-Mer, Morteaux-Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage et communes des Monts d'Aunay et Val de Drôme.
 
 |
 
-[Caen
-
-|
-
-Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)]
-
-|
-
-[Caen
-
-|
-
-Cantons de Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5e canton, Morteaux-Couliboeuf, Ouistreham, Tilly-sur-Seulles, Troarn, Thury-Harcourt et Villers-Bocage. (12 et 3)]
-
-|
-
-[Falaise
+Falaise
 
 |
 
@@ -1466,7 +1436,7 @@ Vire
 
 |
 
-Cantons d'Aunay-sur-Odon, Condé-sur-Noireau, Le Bény-Bocage, Saint-Sever-Calvados, Vassy et Vire.
+Cantons d'Aunay-sur-Odon (à l'exception des fractions de communes des Monts d'Aunay et de Val de Drôme), Condé-sur-Noireau, Le Bény-Bocage, Saint-Sever-Calvados, Vassy et Vire.
 
 |
 
@@ -1474,19 +1444,11 @@ Lisieux
 
 |
 
-[Lisieux
+Lisieux
 
 |
 
-Cantons de Lisieux 1er canton, Lisieux 2e canton, Lisieux 3e canton, Livarot, Mézidon-Canon, Orbec et Saint-Pierre-sur-Dives. (3)]
-
-|
-
-[Lisieux
-
-|
-
-Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Lisieux 1er canton, Lisieux 2e canton, Lisieux 3e canton, Livarot, Mézidon-Canon, Orbec, Pont-l'Évêque, Saint-Pierre-sur-Dives et Trouville-sur-Mer. (4)]
+Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Lisieux 1er Canton, Lisieux 2e Canton, Lisieux 3e Canton, Livarot, Mézidon-Canon, Orbec, Pont-l'Evêque, Saint-Pierre-sur-Dives et Trouville-sur-Mer et commune de Mézidon Vallée d'Auge.
 
 |
 
@@ -4712,7 +4674,7 @@ Reims
 
 |
 
-Cantons d'Ay, Beine-Nauroy, Bourgogne, Châtillon-sur-Manie, Fismes, Reims 1er canton, Reims 2e canton, Reims 3e canton, Reims 4e canton, Reims 5e canton, Reims 6e canton, Reims 7e canton, Reims 8e canton, Reims 9e canton, Reims 10e canton, Verzy et Ville-en-Tardenois.
+Cantons d'Ay, Beine-Nauroy, Bourgogne, Châtillon-sur-Marne, Fismes, Reims 1er Canton, Reims 2e Canton, Reims 3e Canton, Reims 4e Canton, Reims 5e Canton, Reims 6e Canton, Reims 7e Canton, Reims 8e Canton, Reims 9e Canton, Reims 10e Canton, Verzy et Ville-en-Tardenois et commune de Cormicy.
 
 |
 
@@ -5955,14 +5917,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (13) applicable jusqu'au 30 juin 2009.
 
 (14) applicable à compter du 1er juillet 2009.
-
-(15) Applicable jusqu'au 30 juin 2010.
-
-(16) Applicable à compter du 1er juillet 2010.
-
-(17) Applicable jusqu'au 5 septembre 2010.
-
-(18) Applicable à compter du 6 septembre 2010.
 
 NOTA :
 

@@ -2158,13 +2158,9 @@ Ressort du tribunal d'instance de Dax.
 
 |
 
-[Mont-de-Marsan
+[Mont-de-Marsan |
 
-|
-
-Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]
-
-|
+Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)] |
 
 [Mont-de-Marsan
 
@@ -2454,27 +2450,11 @@ Ille-et-Vilaine
 
 |
 
-[Rennes
+Rennes
 
 |
 
-Ressort des tribunaux d'instance de Fougères, Montfort-sur-Meu, Redon, Rennes, Saint-Malo et Vitré. (3)]
-
-|
-
-[Rennes
-
-|
-
-Ressort des tribunaux d'instance de Redon, Rennes et Saint-Malo. (5)]
-
-|
-
-[Rennes
-
-|
-
-Ressort des tribunaux d'instance de Dinan, Redon, Rennes et Saint-Malo. (6)]
+Ressort des tribunaux d'instance de Dinan, Fougères, Redon, Rennes et Saint-Malo.
 
 |
 
