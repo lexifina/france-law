@@ -360,7 +360,7 @@ Ethylphénidate et ses sels
 
 Fenbutrazate et ses sels
 
-Kétamine et ses sels
+kétamine, ainsi que ses sels et ses stéréoisomères
 
 Khat (feuilles de Catha edulis, Celastracées)
 
