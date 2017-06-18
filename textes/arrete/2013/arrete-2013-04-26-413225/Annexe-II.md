@@ -10,7 +10,7 @@ Le dossier comprend les pièces suivantes :
 
 2. Deux photographies d'identité récentes, dont une agrafée à la demande d'inscription et comportant le nom du candidat au verso ;
 
-3. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski alpin datant de moins d'un an à la date de clôture de la première inscription ;
+3. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski nordique de fond et de ses activités dérivées datant de moins d'un an, à la date de clôture de la première inscription ;
 
 4. L'attestation de réussite au test technique datant de moins de trois ans à la date de clôture des inscriptions ;
 
@@ -48,7 +48,7 @@ Les modalités de l'examen sont les suivantes :
 
 Le candidat dispose d'un temps de préparation de dix minutes.
 
-2. Une épreuve écrite de connaissances (coefficient 1 ; notée sur 20) d'une durée d'une heure portant sur un ou plusieurs thèmes abordés au cours de la formation.
+2. Une épreuve écrite de connaissances (coefficient 1 ; notée sur 20) d'une durée d'une heure portant sur un ou plusieurs thèmes abordé au cours de la formation. Une ou plusieurs questions portent sur le biathlon.
 
 3. Une note de stage (coefficient 1 ; notée sur 20) attribuée par le responsable pédagogique, sur proposition écrite des formateurs du cycle préparatoire, (coefficient 1 ; noté sur 20).
 

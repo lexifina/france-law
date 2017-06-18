@@ -6,7 +6,7 @@ Annexe VII-1
 
 Unité de formation pratiques compétitives
 
-du ski nordique de fond et de ses activités dérivées
+du ski nordique de fond et de ses activités dérivées dont le biathlon
 
 Les modalités d'évaluation sont les suivantes :
 
@@ -20,17 +20,23 @@ Les candidats ayant obtenu une moyenne générale égale ou supérieure à 10 su
 
 Annexe VII-2
 
-Unité de formation maîtrise technique et pédagogique de l'enseignement du ski nordique de fond et de ses activités dérivées
+Unité de formation “ maîtrise technique et pédagogique de l'enseignement du ski nordique de fond et de ses activités dérivées, dont le biathlon ”
 
 Les modalités d'évaluation sont les suivantes :
 
-1. Une séance pratique d'enseignement (coefficient 5 ; notée sur 100) suivi d'un entretien avec la commission d'évaluation suite à la séance pratique pour expliquer les choix pris par le candidat (coefficient 1 ; noté sur 20) ;
+1. Une séance pratique d'enseignement (coefficient 5 ; notée sur 100) suivi d'un entretien avec la commission d'évaluation suite à la séance pratique pour expliquer les choix faits par le candidat (coefficient 1 ; noté sur 20) ;
 
 2. Un écrit d'enseignement contextualisé (coefficient 2 ; noté sur 40) ;
 
 3. La soutenance orale du dossier environnement professionnel. (coefficient 2 ; noté sur 40).
 
-Les candidats ayant obtenu un total général égal ou supérieur à 80 points sur 160 à l'ensemble des épreuves 1 et 2 avec au moins 60 points à l'épreuve 1 et un minimum de quarante points à la séance pratique d'enseignement et 8 points minimum à l'entretien et ayant obtenu au moins 100 points à l'ensemble des épreuves sont déclarés admis.
+4. Une séance pratique d'enseignement portant sur l'activité dérivée biathlon (acquis ou non acquis).
+
+Les candidats :
+
+-ayant obtenu un total général égal ou supérieur à 80 points sur 160 à l'ensemble des épreuves 1 et 2 avec au moins 60 points à l'épreuve 1 et un minimum de quarante points à la séance pratique d'enseignement et 8 points minimum à l'entretien ;
+
+-et ayant obtenu au moins 100 points à l'ensemble des épreuves, sont déclarés admis.
 
 Annexe VII-3
 

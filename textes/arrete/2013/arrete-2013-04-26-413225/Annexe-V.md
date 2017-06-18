@@ -16,11 +16,11 @@ Le dossier comprend les pièces suivantes :
 
 5. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski nordique de fond datant de moins d'un an à la date de clôture des inscriptions ;
 
-6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski nordique de fond ou le diplôme d'Etat de ski - moniteur national de ski alpin ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski alpin ;
+6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski-moniteur national de ski nordique de fond ou le diplôme d'Etat de ski-moniteur national de ski alpin ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski-moniteur national de ski alpin ;
 
 7. Une autorisation parentale pour les mineurs.
 
-Les convocations aux tests de capacité technique de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (tests se déroulant entre les mois de mars et avril).
+La convocation au test de capacité technique de la première période est accompagnée d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait au test, en vue d'une éventuelle inscription aux tests des périodes ultérieures déterminées par le délégué national du Pôle national des métiers de l'encadrement du ski et de l'alpinisme.
 
 II. ― Organisation et évaluation
 
