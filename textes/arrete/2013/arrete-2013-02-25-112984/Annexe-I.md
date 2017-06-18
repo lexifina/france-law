@@ -82,6 +82,16 @@ Sont éligibles les navires battant pavillon français ayant accès aux espèces
 
 L'autorisation mentionne les engins utilisés par le couple navire-armateur titulaire de l'autorisation. |
 
+Point 9 (1) (a) de le recommandation 2016/01 de l'Accord pour les pêcheries du sud de l'Océan Indien (APSOI) |
+
+La pêche des espèces non couvertes par la CTOI et la CCSBT, dans la zone de régulation de l'APSOI, est encadrée. L'effort annuel de l'ensemble des navires français est limité. |
+
+Au plus tard dix jours ouvrés avant l'entrée dans la zone APSOI en vue d'une pêche de fond. |
+
+Sont éligibles les navires sous pavillon français (registre communautaire) ayant déclaré des pêcheries démersales entre le 1er janvier et le 31 décembre 2013. |
+
+L'autorisation est limitée dans le temps, mentionne l'engin (seule la palangre et les lignes à main sont autorisées), les espèces ciblées par le couple navire-armateur et l'effort annuel autorisé pour l'ensemble des navires détenteurs d'une autorisation. |
+
 (*) Une prise active d'espadon en mer Méditerranée s'entend pour toute marée où les captures d'espadon représentent plus de 5 % en poids des captures totales du navire.
 
 (**) Longueur maxillaire inférieure-fourche.
