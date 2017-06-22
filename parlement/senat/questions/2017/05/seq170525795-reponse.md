@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170525795
+
+- Question : [SEQ170525795](seq170525795.md) — Épisode de gel dans les régions viticoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2017-06-22, page 2023*
+
+La profession agricole a connu ces dernières semaines plusieurs épisodes de gel qui ont touché de nombreuses régions de France et plus particulièrement les régions viticoles. Les préfectures ont été rapidement informées des dommages causés sur les vignes par ces phénomènes climatiques et ont constitué les premières missions d'enquête afin qu'il soit effectué dans les prochains jours des visites sur place ainsi qu'une estimation des dommages à partir d'un échantillon représentatif des exploitations. Si les pertes de récolte ne sont pas éligibles au régime d'indemnisation des calamités agricoles conformément à l'arrêté du 29 décembre 2010 fixant la liste des risques considérés comme assurables pour la gestion du fonds national de gestion des risques en agriculture, les pertes de fonds consécutives à une taille sévère ou à la mortalité des jeunes ceps peuvent être indemnisées. À réception des rapports produits par les missions d'enquête, les préfets réuniront les comités départementaux d'expertise pour que ces derniers rendent leur avis sur le caractère de calamité agricole des dommages. Si le caractère exceptionnel des variations de température est confirmé, les préfets concernés demanderont alors au ministre chargé de l'agriculture de reconnaître le caractère de calamité agricole. Par ailleurs, les demandes de dérogation au respect des obligations prévues par les mesures du programme national d'aides et notamment celles relatives à la mesure restructuration du vignoble sont actuellement expertisées par FranceAgriMer dans le respect des dispositions réglementaires européennes relatives aux cas de forces majeures.
