@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170425692
+
+- Question : [SEQ170425692](seq170425692.md) — Conditions de délivrance du diplôme et de la médaille des porte-drapeaux aux porte-drapeaux âgés de moins de 16 ans
+
+## Réponse
+
+*Armées, JO du 2017-06-22, page 2029*
+
+Les porte-drapeaux accomplissent, à l'occasion des manifestations patriotiques, une mission hautement symbolique en rendant hommage, au nom de la Nation française, aux combattants et aux disparus. Afin d'encourager les vocations, l'Office national des anciens combattants et victimes de guerre (ONAC-VG) organise chaque année, le 14 juillet, la venue et l'accueil à Paris d'une délégation de porte-drapeaux âgés de 16 à 25 ans, représentant chaque région française. Lors de cette journée, ces jeunes bénévoles assistent au défilé militaire sur les Champs-Élysées et participent au ravivage de la flamme sous l'Arc de Triomphe. Par ailleurs, depuis 1961, l'ONAC-VG délivre un diplôme d'honneur et un insigne de porte-drapeau en reconnaissance des services accomplis par les bénévoles âgés de plus de 16 ans lors des manifestations patriotiques. Depuis 2006, chaque porte-drapeau peut recevoir ce diplôme, ainsi que l'insigne correspondant, après trois, dix, vingt et trente années de service. Le choix et la désignation des porte-drapeaux relèvent de la seule compétence des associations concernées, aucun critère d'âge n'étant exigé pour l'exercice de cette fonction. En revanche, les récompenses ci-dessus énumérées ne peuvent être décernées qu'à des personnes mesurant pleinement le symbole, la mémoire et les valeurs incarnées par le drapeau tricolore qu'elles portent, et donc le sens de leur engagement. C'est la raison pour laquelle l'âge minimal de 16 ans est requis pour se voir délivrer le diplôme d'honneur et l'insigne de porte-drapeau ou pour participer aux cérémonies qui se déroulent à Paris le 14 juillet. La remise en cause de cette condition d'âge n'est pas actuellement envisagée.
