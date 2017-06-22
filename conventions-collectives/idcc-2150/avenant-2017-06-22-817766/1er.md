@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 3 de l'accord de méthode du 6 octobre 2016 relatif à la révision de la convention collective, intitulé « Calendrier et modalités de travail » est modifié ainsi :
+
+« Les parties s'accordent pour convenir que les travaux relatifs à la révision de la convention collective nationale seront menés en plusieurs étapes afin de permettre aux parties de disposer du temps nécessaire à la réflexion :
+
+–   une première étape consacrée à l'adaptation juridique de la convention collective, ayant abouti à la signature d'un avenant portant mise en conformité de la convention collective en date du 22 juin 2017 ;
+
+–   une deuxième étape consacrée à la modernisation de la convention collective, au cours de laquelle seront arrêtés les thèmes qui relèveront de l'ordre public conventionnel.
+
+Une réunion de la commission paritaire nationale aura lieu tous les mois, afin de laisser le temps aux parties de se consacrer, dans l'intervalle, à l'étude des textes proposés.
+
+Afin de faciliter le travail d'analyse de chacune des délégations, les échanges de documents devront respecter un délai de 15 jours avant chaque réunion. »
