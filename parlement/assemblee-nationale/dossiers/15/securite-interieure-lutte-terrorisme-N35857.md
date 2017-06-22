@@ -1,0 +1,71 @@
+# Sécurité intérieure et lutte contre le terrorisme
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35857
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/securite_interieure_lutte_terrorisme
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-587.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-22 : 1er dépôt d'une initiative. (PRJLSNR5S279B0587)
+  - 2017-06-22 : Etude d'impact (ETDISNR5S279B0587)
+  - 2017-06-22 : Avis du Conseil d'Etat (AVCESNR5S279B0587)
+  - 2017-06-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-07-12 : Dépôt de rapport (RAPPSNR5S279B0629, PRJLSNR5S279BTC0630)
+    - Travaux d'une commission saisie pour avis
+      - 2017-06-28 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2017-07-12 : Dépôt de rapport (AVISSNR5S279B0636)
+  - Discussion en séance publique
+    - 2017-07-18 : Discussion en séance publique
+    - 2017-07-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-19 : Dépôt d'une initiative en navette (PRJLANR5L15B0104)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-19 : Renvoi en commission au fond
+      - 2017-07-11 : Nomination de rapporteur
+      - 2017-09-12 : Réunion de commission
+      - 2017-09-13 : Réunion de commission
+      - 2017-09-13 : Réunion de commission
+      - 2017-09-13 : Réunion de commission
+      - 2017-09-14 : Dépôt de rapport (RAPPANR5L15B0164, PRJLANR5L15BTC0164)
+    - Travaux d'une commission saisie pour avis
+      - 2017-08-01 : Saisine pour avis d'une commission
+      - 2017-09-12 : Nomination de rapporteur
+      - 2017-09-12 : Réunion de commission
+      - 2017-09-12 : Réunion de commission
+      - 2017-09-14 : Dépôt de rapport (AVISANR5L15B0161)
+  - Discussion en séance publique
+    - 2017-09-25 : Discussion en séance publique
+    - 2017-09-25 : Discussion en séance publique
+    - 2017-09-26 : Discussion en séance publique
+    - 2017-09-26 : Discussion en séance publique
+    - 2017-09-27 : Discussion en séance publique
+    - 2017-09-27 : Discussion en séance publique
+    - 2017-09-28 : Discussion en séance publique
+    - 2017-09-28 : Discussion en séance publique
+    - 2017-10-03 : Discussion en séance publique
+    - 2017-10-03 : Décision
+- Commission Mixte Paritaire
+  - 2017-10-03 : Dépôt d'un projet de loi (PRJLSNR5S299B0004)
+  - 2017-10-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-10-09 : Nomination de rapporteur
+    - 2017-10-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B0265, PRJLANR5L15BTC0265)
+    - 2017-10-09 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0016, PRJLSNR5S299BTC0017)
+  - Discussion en séance publique
+    - 2017-10-11 : Discussion en séance publique
+    - 2017-10-11 : Décision
+  - Discussion en séance publique
+    - 2017-10-18 : Discussion en séance publique
+    - 2017-10-18 : Décision
+  - 2017-10-10 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-10-30 : Promulgation d'une loi
