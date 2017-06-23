@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONSERVATOIRE DARIUS MILHAUD - AUTORISATION DE MISE EN DEPOT A L'ASSOCIATION "VENTS D'AVANT" DE TROIS INSTRUMENTS ANCINES DE MUSIQUE APPARTENANT A LA VILLE D'AIX EN PROVENCE ET CONSERVES AU CONSERVATOIRE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-06-23
+- Séance : Conseil Municipal 1CA
+- Objet : CONSERVATOIRE DARIUS MILHAUD - AUTORISATION DE MISE EN DEPOT A L'ASSOCIATION "VENTS D'AVANT" DE TROIS INSTRUMENTS ANCINES DE MUSIQUE APPARTENANT A LA VILLE D'AIX EN PROVENCE ET CONSERVES AU CONSERVATOIRE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8563-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
