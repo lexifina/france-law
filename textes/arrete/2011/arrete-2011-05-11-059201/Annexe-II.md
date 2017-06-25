@@ -64,9 +64,9 @@ Les périodes de formation en milieu professionnel s'effectuent :
 
 Les lieux retenus doivent être complémentaires en termes de publics accueillis, de types de structures et d'activités à réaliser.
 
-Six semaines sont effectuées en classe de seconde : elles sont le support d'une partie de l'épreuve EP1 du BEP diplôme intermédiaire. Ces six semaines se déroulent en structures : structures sociales, médico-sociales, structures d'accueil de la petite enfance, écoles maternelles.
+Six semaines sont effectuées en classe de seconde. Ces six semaines se déroulent en structures : structures sociales, médico-sociales, structures d'accueil de la petite enfance, écoles maternelles.
 
-Seize semaines sont réparties en première et terminale dont huit semaines minimum en année terminale.
+Seize semaines sont réparties en classes de première et terminale dont huit semaines minimum en année terminale. Une période de la classe de première est le support d'une partie de l'épreuve EP1 du BEP diplôme intermédiaire.
 
 Dix semaines, au moins, se déroulent dans le secteur de l'aide et/ou du maintien à domicile et servent de support aux évaluations des épreuves E13 et E3 du baccalauréat professionnel.
 
@@ -156,9 +156,11 @@ Les périodes de formation en milieu professionnel s'effectuent :
 
 Les lieux retenus doivent être complémentaires en termes de publics accueillis, de types de structures et d'activités à réaliser.
 
-Six semaines sont effectuées en classe de seconde : elles sont le support d'une partie de l'épreuve EP1 du BEP diplôme intermédiaire. Ces six semaines se déroulent en structures sociales ou médico-sociales, en structures d'accueil collectif de la petite enfance ou en école maternelle.
+Six semaines sont effectuées en classe de seconde. Ces six semaines se déroulent en structures sociales ou médico-sociales, en structures d'accueil collectif de la petite enfance ou en école maternelle.
 
-Seize semaines sont réparties en classes de première et terminale dont huit semaines minimum en année terminale.
+Seize semaines sont réparties en première et terminale dont huit semaines minimum en année terminale.
+
+Une période de la classe de première est le support d'une partie de l'épreuve EP1 du BEP diplôme intermédiaire.
 
 Les douze dernières semaines, au moins, se déroulent en établissements de santé, en structures médico-sociales ou sociales, en structures d'accueil collectif de la petite enfance, en écoles maternelles et, selon le projet professionnel de l'élève, peuvent se dérouler en écoles élémentaires.
 
@@ -193,3 +195,7 @@ Les attestations de formation en milieu professionnel sont remplacées par un ou
 2.4 Candidat qui se présente au titre de trois années d'expérience professionnelle
 
 Le candidat doit justifier de trois années d'expériences professionnelles dans un emploi qualifié correspondant aux objectifs du baccalauréat professionnel pour lequel il s'inscrit. Le candidat produit ses certificats de travail pour l'inscription à l'examen.
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 2 février 2022, ces dispositions s’appliquent à l'issue de la dernière session d’examen qui aura lieu en 2024.
