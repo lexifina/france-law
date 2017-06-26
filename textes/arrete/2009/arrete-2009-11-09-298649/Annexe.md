@@ -1,21 +1,21 @@
 # Article Annexe
 
-LISTE DES ANTENNES INTERRÉGIONALES DE LA MISSION NATIONALE DE CONTRÔLE ET D'AUDIT DES ORGANISMES DE SÉCURITÉ SOCIALE
+LISTE DES ANTENNES DE LA MISSION NATIONALE DE CONTRÔLE ET D'AUDIT DES ORGANISMES DE SÉCURITÉ SOCIALE
 
-Paris (régions Ile-de-France et Centre).
+Paris : régions Ile-de-France et Centre-Val de Loire.
 
-Lille (régions Nord - Pas-de-Calais et Picardie).
+Lille : région Hauts-de-France.
 
-Rennes (régions Bretagne, Basse et Haute-Normandie et Pays de la Loire).
+Rennes : régions Bretagne, Normandie et Pays de la Loire.
 
-Bordeaux (régions Aquitaine, Limousin, Midi-Pyrénées et Poitou-Charentes).
+Bordeaux : régions Nouvelle-Aquitaine et, pour partie, Occitanie (départements : Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne)
 
-Marseille (régions Provence-Alpes-Côte d'Azur, Languedoc-Roussillon, Corse).
+Marseille : Provence-Alpes-Côte d'Azur, Corse et, pour partie Occitanie (départements : Aude, Gard, Hérault, Lozère, Pyrénées-Orientales).
 
-Lyon (régions Rhône-Alpes et Auvergne).
+Lyon : région Auvergne-Rhône-Alpes.
 
-Nancy (régions Lorraine, Alsace, Bourgogne, Champagne-Ardenne et Franche-Comté).
+Nancy : régions Grand Est et Bourgogne-Franche-Comté.
 
-Fort-de-France (Martinique, Guadeloupe et Saint-Martin/Saint-Barthélemy, Guyane).
+Fort-de-France : Martinique, Guadeloupe, Saint-Martin, Guyane.
 
-Saint-Denis de La Réunion (La Réunion et Mayotte).
+Saint-Denis de La Réunion : La Réunion et Mayotte.
