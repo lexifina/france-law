@@ -1,0 +1,53 @@
+# Article 1er
+
+Le chapitre III et l'article 6 sont supprimés et remplacés par les dispositions suivantes :
+
+« Chapitre III
+
+Commission d'interprétation et de conciliation
+
+Article 6
+
+Interprétation et conciliation
+
+Les organisations signataires s'engagent à constituer une commission paritaire d'interprétation et de conciliation nationale dont le siège est fixé à Paris.
+
+Cette commission comprendra un représentant de chacune des organisations syndicales de salariés signataires de la présente convention collective et un nombre égal de représentants d'employeurs désignés par les organisations syndicales d'employeurs signataires de la convention collective.
+
+La présidence dont la durée est limitée à 1 an est assurée alternativement par un représentant des organisations syndicales d'employeurs et par un représentant des organisations salariées, choisis parmi les signataires de la présente convention.
+
+Le secrétaire de séance sera désigné d'un commun accord au début de chaque séance.
+
+En aucun cas, la voix du président n'est prépondérante en cas de partage.
+
+Un représentant du ministre de l'agriculture sera invité et pourra assister à titre consultatif aux réunions de la commission paritaire.
+
+La commission paritaire se réunit à la demande de l'une des organisations d'employeurs ou de salariés adhérentes à la convention collective.
+
+Les modalités de fonctionnement de la commission sont déterminées d'un commun accord entre les parties.
+
+La commission paritaire nationale a pour but et rôle de tenter de concilier les parties en proposant toutes mesures utiles.
+
+Les solutions proposées doivent réunir la majorité des 3/5 des membres présents de la commission.
+
+Les conflits collectifs et individuels ne peuvent être portés qu'une seule fois devant la commission.
+
+Conflits collectifs d'interprétation
+
+Lorsqu'elle est saisie d'un conflit survenant dans les entreprises ou établissements ayant pour cause l'interprétation du contenu de la convention collective nationale, la commission se réunit dans un délai de 30 jours ouvrés et tente de concilier les parties.
+
+Dans le cas où le conflit n'est pas réglé, il peut être porté devant la commission d'interprétation et de conciliation légale.
+
+Conflits collectifs locaux
+
+Lorsqu'elle est saisie d'un conflit collectif local, la commission se réunit dans les 30 jours ouvrés.
+
+Si le désaccord persiste, le conflit peut être porté devant la section départementale agricole de conciliation du département du siège social de l'établissement concerné si elle existe, ou sinon, devant la commission régionale agricole de conciliation légale.
+
+Conflits individuels
+
+Lorsque les organisations signataires de la présente convention sont saisies d'un conflit individuel, elles peuvent, si les parties de ce conflit en sont d'accord, le soumettre à l'appréciation de la commission de conciliation. Celle-ci se réunit alors dans le délai de 30 jours ouvrés.
+
+Les parties doivent se présenter en personne.
+
+Les conflits individuels peuvent, en tout état de cause, être portés devant la juridiction civile compétente. »
