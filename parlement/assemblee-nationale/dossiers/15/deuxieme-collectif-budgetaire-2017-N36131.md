@@ -1,0 +1,84 @@
+# Loi de finances rectificative 2017 (2)
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 15
+- Identifiant : DLR5L15N36131
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/deuxieme_collectif_budgetaire_2017
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-155.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-15 : 1er dépôt d'une initiative. (PRJLANR5L15B0384)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-15 : Renvoi en commission au fond
+      - 2017-06-29 : Nomination de rapporteur
+      - 2017-11-15 : Réunion de commission
+      - 2017-11-29 : Réunion de commission
+      - 2017-11-29 : Réunion de commission
+      - 2017-12-04 : Réunion de commission
+      - 2017-11-30 : Dépôt de rapport (RAPPANR5L15B0432)
+  - Discussion en séance publique
+    - 2017-12-04 : Discussion en séance publique
+    - 2017-12-04 : Discussion en séance publique
+    - 2017-12-05 : Discussion en séance publique
+    - 2017-12-05 : Discussion en séance publique
+    - 2017-12-06 : Discussion en séance publique
+    - 2017-12-06 : Discussion en séance publique
+    - 2017-12-08 : Discussion en séance publique
+    - 2017-12-08 : Discussion en séance publique
+    - 2017-12-12 : Discussion en séance publique
+    - 2017-12-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-12-12 : Dépôt d'une initiative en navette (PRJLSNR5S299B0155)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-12-13 : Dépôt de rapport (RAPPSNR5S299B0158)
+  - Discussion en séance publique
+    - 2017-12-14 : Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Décision
+- Commission Mixte Paritaire
+  - 2017-12-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-18 : Nomination de rapporteur
+    - 2017-12-18 : Dépôt du rapport d'une CMP (RAPPANR5L15B0500)
+    - 2017-12-18 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0174, PRJLSNR5S299BTC0175)
+  - 2017-12-18 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-12-15 : Dépôt d'une initiative en navette (PRJLANR5L15B0499)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-15 : Renvoi en commission au fond
+      - 2017-12-18 : Réunion de commission
+      - 2017-12-19 : Réunion de commission
+      - 2017-12-18 : Dépôt de rapport (RAPPANR5L15B0501)
+  - Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Décision
+- Nouvelle Lecture
+  - 2017-12-20 : Dépôt d'une initiative en navette (PRJLSNR5S299B0191)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-20 : Renvoi en commission au fond
+      - 2017-12-20 : Dépôt de rapport (RAPPSNR5S299B0192)
+  - Discussion en séance publique
+    - 2017-12-20 : Discussion en séance publique
+    - 2017-12-20 : Décision
+- Lecture définitive
+  - 2017-12-20 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0063)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-20 : Renvoi en commission au fond
+      - 2017-12-21 : Dépôt de rapport (RAPPANR5L15B0535)
+  - Discussion en séance publique
+    - 2017-12-21 : Décision
+- Conseil constitutionnel
+  - 2017-12-22 : Saisine du conseil constitutionnel
+  - 2017-12-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-12-28 : Promulgation d'une loi
