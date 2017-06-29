@@ -1,0 +1,51 @@
+# Fonctionnement des ordres des professions de santé
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35847
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2017-644
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-546.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-29 : 1er dépôt d'une initiative. (PRJLANR5L15B0008)
+  - 2017-06-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-29 : Renvoi en commission au fond
+      - 2017-07-04 : Nomination de rapporteur
+      - 2017-07-04 : Réunion de commission
+      - 2017-07-12 : Réunion de commission
+      - 2017-07-12 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-12 : Dépôt de rapport (RAPPANR5L15B0092, PRJLANR5L15BTC0092)
+  - Discussion en séance publique
+    - 2017-07-19 : Discussion en séance publique
+    - 2017-07-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-20 : Dépôt d'une initiative en navette (PRJLSNR5S279B0671)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-10-05 : Dépôt de rapport (RAPPSNR5S299B0010, PRJLSNR5S299BTC0011)
+  - Discussion en séance publique
+    - 2017-10-11 : Discussion en séance publique
+    - 2017-10-11 : Décision
+- Commission Mixte Paritaire
+  - 2017-10-12 : Dépôt d'un projet de loi (PRJLANR5L15B0280)
+  - 2017-10-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-05 : Nomination de rapporteur
+    - 2017-12-05 : Dépôt du rapport d'une CMP (RAPPANR5L15B0445, PRJLANR5L15BTC0445)
+    - 2017-12-05 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0130, PRJLSNR5S299BTC0131)
+  - Discussion en séance publique
+    - 2017-12-18 : Discussion en séance publique
+    - 2017-12-18 : Décision
+  - Discussion en séance publique
+    - 2017-12-20 : Discussion en séance publique
+    - 2017-12-20 : Décision
+  - 2017-12-06 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-12-30 : Promulgation d'une loi
