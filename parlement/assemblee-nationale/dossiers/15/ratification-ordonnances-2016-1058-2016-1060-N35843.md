@@ -1,0 +1,51 @@
+# Evaluation environnementale des projets et information du public
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35843
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnances_2016-1058_2016_1060
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-537.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-29 : 1er dépôt d'une initiative. (PRJLANR5L15B0011)
+  - 2017-06-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-29 : Renvoi en commission au fond
+      - 2017-07-05 : Nomination de rapporteur
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-11 : Réunion de commission
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-11 : Dépôt de rapport (RAPPANR5L15B0091, PRJLANR5L15BTC0091)
+  - Discussion en séance publique
+    - 2017-07-18 : Discussion en séance publique
+    - 2017-07-18 : Discussion en séance publique
+    - 2017-07-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-19 : Dépôt d'une initiative en navette (PRJLSNR5S279B0666)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-10-05 : Dépôt de rapport (RAPPSNR5S299B0008, PRJLSNR5S299BTC0009)
+  - Discussion en séance publique
+    - 2017-10-10 : Discussion en séance publique
+    - 2017-10-10 : Décision
+- Commission Mixte Paritaire
+  - 2017-10-12 : Dépôt d'un projet de loi (PRJLANR5L15B0272)
+  - 2017-10-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-20 : Nomination de rapporteur
+    - 2017-12-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B0526, PRJLANR5L15BTC0526)
+    - 2017-12-20 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0198, PRJLSNR5S299BTC0199)
+  - Discussion en séance publique
+    - 2018-02-07 : Discussion en séance publique
+    - 2018-02-07 : Décision
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+  - 2017-12-21 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-03-02 : Promulgation d'une loi
