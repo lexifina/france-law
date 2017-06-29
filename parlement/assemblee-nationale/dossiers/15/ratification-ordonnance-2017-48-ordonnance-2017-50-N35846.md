@@ -1,0 +1,72 @@
+# Physicien médical
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35846
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2017-48_ordonnance_2017-50
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-489.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-29 : 1er dépôt d'une initiative. (PRJLANR5L15B0007)
+  - 2017-06-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-29 : Renvoi en commission au fond
+      - 2017-07-04 : Nomination de rapporteur
+      - 2017-07-04 : Réunion de commission
+      - 2017-07-12 : Réunion de commission
+      - 2017-07-12 : Réunion de commission
+      - 2017-07-18 : Réunion de commission
+      - 2017-07-19 : Réunion de commission
+      - 2017-07-12 : Dépôt de rapport (RAPPANR5L15B0094, PRJLANR5L15BTC0094)
+  - Discussion en séance publique
+    - 2017-07-19 : Discussion en séance publique
+    - 2017-07-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-20 : Dépôt d'une initiative en navette (PRJLSNR5S279B0669)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-10-05 : Dépôt de rapport (RAPPSNR5S299B0010, PRJLSNR5S299BTC0011)
+  - Discussion en séance publique
+    - 2017-10-11 : Discussion en séance publique
+    - 2017-10-11 : Décision
+- Commission Mixte Paritaire
+  - 2017-10-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-05 : Nomination de rapporteur
+    - 2017-12-05 : Dépôt du rapport d'une CMP (RAPPANR5L15B0444)
+    - 2017-12-05 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0128, PRJLSNR5S299BTC0129)
+  - 2017-12-06 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-10-12 : Dépôt d'une initiative en navette (PRJLANR5L15B0281)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-10-12 : Renvoi en commission au fond
+      - 2017-12-13 : Réunion de commission
+      - 2017-12-13 : Dépôt de rapport (RAPPANR5L15B0487, PRJLANR5L15BTC0487)
+  - Discussion en séance publique
+    - 2017-12-18 : Discussion en séance publique
+    - 2017-12-18 : Décision
+- Nouvelle Lecture
+  - 2017-12-19 : Dépôt d'une initiative en navette (PRJLSNR5S299B0183)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-19 : Renvoi en commission au fond
+      - 2018-01-17 : Dépôt de rapport (RAPPSNR5S299B0216, PRJLSNR5S299BTC0217)
+  - Discussion en séance publique
+    - 2018-01-25 : Discussion en séance publique
+    - 2018-01-25 : Décision
+- Lecture définitive
+  - 2018-02-12 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0060)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-12 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+- Promulgation de la loi
+  - 2018-02-26 : Promulgation d'une loi
