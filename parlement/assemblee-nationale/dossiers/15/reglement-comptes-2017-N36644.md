@@ -1,0 +1,55 @@
+# Règlement du budget 2017
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36644
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reglement_comptes_2017
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-595.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-05-23 : 1er dépôt d'une initiative. (PRJLANR5L15B0980)
+  - 2018-05-23 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-23 : Renvoi en commission au fond
+      - 2017-06-29 : Nomination de rapporteur
+      - 2018-05-30 : Réunion de commission
+      - 2018-05-30 : Réunion de commission
+      - 2018-05-31 : Réunion de commission
+      - 2018-05-31 : Réunion de commission
+      - 2018-05-31 : Réunion de commission
+      - 2018-05-31 : Réunion de commission
+      - 2018-06-04 : Réunion de commission
+      - 2018-06-04 : Réunion de commission
+      - 2018-06-04 : Réunion de commission
+      - 2018-06-05 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-06-12 : Réunion de commission
+      - 2018-06-12 : Réunion de commission
+      - 2018-06-13 : Dépôt de rapport (RAPPANR5L15B1055)
+  - Discussion en séance publique
+    - 2018-06-20 : Discussion en séance publique
+    - 2018-06-20 : Discussion en séance publique
+    - 2018-06-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-06-21 : Dépôt d'une initiative en navette (PRJLSNR5S299B0595)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-21 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-07-04 : Dépôt de rapport (RAPPSNR5S299B0628)
+  - Discussion en séance publique
+    - 2018-07-12 : Discussion en séance publique
+    - 2018-07-12 : Décision
+- Promulgation de la loi
+  - 2018-07-25 : Promulgation d'une loi
