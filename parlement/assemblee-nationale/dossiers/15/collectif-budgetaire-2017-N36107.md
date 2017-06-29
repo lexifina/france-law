@@ -1,0 +1,74 @@
+# Loi de finances rectificative 2017
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 15
+- Identifiant : DLR5L15N36107
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/collectif_budgetaire_2017
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-067.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-02 : 1er dépôt d'une initiative. (PRJLANR5L15B0363)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-02 : Renvoi en commission au fond
+      - 2017-06-29 : Nomination de rapporteur
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-03 : Dépôt de rapport (RAPPANR5L15B0365)
+  - Discussion en séance publique
+    - 2017-11-06 : Discussion en séance publique
+    - 2017-11-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-11-07 : Dépôt d'une initiative en navette (PRJLSNR5S299B0067)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-11-08 : Dépôt de rapport (RAPPSNR5S299B0076)
+  - Discussion en séance publique
+    - 2017-11-09 : Discussion en séance publique
+    - 2017-11-09 : Décision
+- Commission Mixte Paritaire
+  - 2017-11-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-11-10 : Nomination de rapporteur
+    - 2017-11-10 : Dépôt du rapport d'une CMP (RAPPANR5L15B0372)
+    - 2017-11-10 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0081, PRJLSNR5S299BTC0082)
+  - 2017-11-10 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-11-10 : Dépôt d'une initiative en navette (PRJLANR5L15B0371)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-10 : Renvoi en commission au fond
+      - 2017-11-10 : Réunion de commission
+      - 2017-11-10 : Dépôt de rapport (RAPPANR5L15B0376)
+  - Discussion en séance publique
+    - 2017-11-13 : Discussion en séance publique
+    - 2017-11-13 : Décision
+- Nouvelle Lecture
+  - 2017-11-13 : Dépôt d'une initiative en navette (PRJLSNR5S299B0084)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-13 : Renvoi en commission au fond
+      - 2017-11-14 : Dépôt de rapport (RAPPSNR5S299B0085)
+  - Discussion en séance publique
+    - 2017-11-14 : Discussion en séance publique
+    - 2017-11-14 : Décision
+- Lecture définitive
+  - 2017-11-14 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0031)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-14 : Renvoi en commission au fond
+      - 2017-11-15 : Dépôt de rapport (RAPPANR5L15B0380)
+  - Discussion en séance publique
+    - 2017-11-14 : Discussion en séance publique
+    - 2017-11-14 : Décision
+- Conseil constitutionnel
+  - 2017-11-15 : Saisine du conseil constitutionnel
+  - 2017-11-16 : Saisine du conseil constitutionnel
+  - 2017-11-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-12-01 : Promulgation d'une loi
