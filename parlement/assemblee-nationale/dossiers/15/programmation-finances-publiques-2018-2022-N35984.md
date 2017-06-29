@@ -1,0 +1,88 @@
+# Programmation des finances publiques 2018 - 2022
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35984
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_finances_publiques_2018-2022
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-040.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-09-27 : 1er dépôt d'une initiative. (PRJLANR5L15B0234)
+  - 2017-09-27 : Etude d'impact (ETDIANR5L15B0234)
+  - 2017-09-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-09-27 : Renvoi en commission au fond
+      - 2017-06-29 : Nomination de rapporteur
+      - 2017-09-27 : Réunion de commission
+      - 2017-10-10 : Réunion de commission
+      - 2017-10-17 : Réunion de commission
+      - 2017-10-11 : Dépôt de rapport (RAPPANR5L15B0268, PRJLANR5L15BTC0268)
+  - Discussion en séance publique
+    - 2017-10-17 : Discussion en séance publique
+    - 2017-10-17 : Discussion en séance publique
+    - 2017-10-18 : Discussion en séance publique
+    - 2017-10-18 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-24 : Discussion en séance publique
+    - 2017-10-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-10-24 : Dépôt d'une initiative en navette (PRJLSNR5S299B0040)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-10-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-10-31 : Dépôt de rapport (RAPPSNR5S299B0056, PRJLSNR5S299BTC0057)
+    - Travaux d'une commission saisie pour avis
+      - 2017-10-11 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2017-10-31 : Dépôt de rapport (AVISSNR5S299B0058)
+  - Discussion en séance publique
+    - 2017-11-09 : Discussion en séance publique
+    - 2017-11-09 : Décision
+- Commission Mixte Paritaire
+  - 2017-11-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-13 : Nomination de rapporteur
+    - 2017-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B0492)
+    - 2017-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0170, PRJLSNR5S299BTC0171)
+  - 2017-12-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-11-10 : Dépôt d'une initiative en navette (PRJLANR5L15B0378)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-10 : Renvoi en commission au fond
+      - 2017-12-15 : Réunion de commission
+      - 2017-12-14 : Dépôt de rapport (RAPPANR5L15B0495, PRJLANR5L15BTC0495)
+  - Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Décision
+- Nouvelle Lecture
+  - 2017-12-18 : Dépôt d'une initiative en navette (PRJLSNR5S299B0173)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-18 : Renvoi en commission au fond
+      - 2017-12-19 : Dépôt de rapport (RAPPSNR5S299B0177, PRJLSNR5S299BTC0178)
+  - Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Décision
+- Lecture définitive
+  - 2017-12-19 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0050)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-19 : Renvoi en commission au fond
+      - 2017-12-21 : Dépôt de rapport (RAPPANR5L15B0534)
+  - Discussion en séance publique
+    - 2017-12-21 : Discussion en séance publique
+    - 2017-12-21 : Décision
+- Conseil constitutionnel
+  - 2017-12-22 : Saisine du conseil constitutionnel
+  - 2018-01-18 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-01-22 : Promulgation d'une loi
