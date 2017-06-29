@@ -1,0 +1,79 @@
+# Mesures pour le renforcement du dialogue social
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35836
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/habilitation_ordonnances_dialogue_social
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-637.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-29 : 1er dépôt d'une initiative. (PRJLANR5L15B0004)
+  - 2017-06-29 : Etude d'impact (ETDIANR5L15B0004)
+  - 2017-06-29 : Avis du Conseil d'Etat (AVCEANR5L15B0004)
+  - 2017-06-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-29 : Renvoi en commission au fond
+      - 2017-07-04 : Nomination de rapporteur
+      - 2017-07-04 : Réunion de commission
+      - 2017-07-04 : Réunion de commission
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-06 : Réunion de commission
+      - 2017-07-10 : Réunion de commission
+      - 2017-07-06 : Dépôt de rapport (RAPPANR5L15B0019, PRJLANR5L15BTC0019)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-03 : Saisine pour avis d'une commission
+      - 2017-07-05 : Nomination de rapporteur
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-05 : Réunion de commission
+      - 2017-07-05 : Dépôt de rapport (AVISANR5L15B0018)
+  - Discussion en séance publique
+    - 2017-07-10 : Discussion en séance publique
+    - 2017-07-10 : Discussion en séance publique
+    - 2017-07-11 : Discussion en séance publique
+    - 2017-07-11 : Discussion en séance publique
+    - 2017-07-12 : Discussion en séance publique
+    - 2017-07-12 : Discussion en séance publique
+    - 2017-07-13 : Discussion en séance publique
+    - 2017-07-13 : Discussion en séance publique
+    - 2017-07-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-07-17 : Dépôt d'une initiative en navette (PRJLSNR5S279B0637)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-07-19 : Dépôt de rapport (RAPPSNR5S279B0663, PRJLSNR5S279BTC0664)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-04 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2017-07-18 : Dépôt de rapport (AVISSNR5S279B0642)
+  - Discussion en séance publique
+    - 2017-07-24 : Discussion en séance publique
+    - 2017-07-25 : Discussion en séance publique
+    - 2017-07-26 : Discussion en séance publique
+    - 2017-07-27 : Discussion en séance publique
+    - 2017-07-27 : Décision
+- Commission Mixte Paritaire
+  - 2017-07-28 : Dépôt d'un projet de loi (PRJLANR5L15B0118)
+  - 2017-07-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-07-31 : Nomination de rapporteur
+    - 2017-07-31 : Dépôt du rapport d'une CMP (RAPPANR5L15B0119, PRJLANR5L15BTC0119)
+    - 2017-07-31 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0697, PRJLSNR5S279BTC0698)
+  - Discussion en séance publique
+    - 2017-08-01 : Discussion en séance publique
+    - 2017-08-01 : Décision
+  - Discussion en séance publique
+    - 2017-08-02 : Discussion en séance publique
+    - 2017-08-02 : Décision
+  - 2017-08-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2017-08-09 : Saisine du conseil constitutionnel
+  - 2017-09-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-09-15 : Promulgation d'une loi
