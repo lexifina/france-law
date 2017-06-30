@@ -1,0 +1,294 @@
+# Loi de finances 2018
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 15
+- Identifiant : DLR5L15N35854
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_finances_2018
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2018.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-09-27 : 1er dépôt d'une initiative. (PRJLANR5L15B0235)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-09-27 : Renvoi en commission au fond
+      - 2017-06-30 : Nomination de rapporteur
+      - 2017-07-18 : Nomination de rapporteur budgétaire
+      - 2017-07-26 : Nomination de rapporteur budgétaire
+      - 2017-09-27 : Réunion de commission
+      - 2017-10-10 : Réunion de commission
+      - 2017-10-11 : Réunion de commission
+      - 2017-10-11 : Réunion de commission
+      - 2017-10-11 : Réunion de commission
+      - 2017-10-12 : Réunion de commission
+      - 2017-10-17 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-11-01 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-16 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (RAPPANR5L15B0273)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-08-02 : Nomination de rapporteur budgétaire
+      - 2017-10-31 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (AVISANR5L15B0276)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-07-26 : Nomination de rapporteur budgétaire
+      - 2017-07-26 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-03 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (AVISANR5L15B0274)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-07-26 : Nomination de rapporteur budgétaire
+      - 2017-07-26 : Réunion de commission
+      - 2017-10-09 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-10-09 : Dépôt de rapport (AVISANR5L15B0264)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-07-26 : Nomination de rapporteur budgétaire
+      - 2017-07-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-11-01 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (AVISANR5L15B0275)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-07-19 : Nomination de rapporteur budgétaire
+      - 2017-07-19 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (AVISANR5L15B0277)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-08-02 : Nomination de rapporteur budgétaire
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-25 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-26 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-10-30 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-02 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-10-12 : Dépôt de rapport (AVISANR5L15B0278)
+    - Travaux d'une commission saisie pour avis
+      - 2017-07-17 : Saisine pour avis d'une commission
+      - 2017-07-26 : Nomination de rapporteur budgétaire
+      - 2017-10-04 : Nomination de rapporteur budgétaire
+      - 2017-10-04 : Réunion de commission
+      - 2017-10-09 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-24 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-27 : Réunion de commission
+      - 2017-10-31 : Réunion de commission
+      - 2017-11-01 : Réunion de commission
+      - 2017-10-10 : Dépôt de rapport (AVISANR5L15B0266)
+  - Discussion en séance publique
+    - 2017-10-17 : Discussion en séance publique
+    - 2017-10-17 : Discussion en séance publique
+    - 2017-10-18 : Discussion en séance publique
+    - 2017-10-19 : Discussion en séance publique
+    - 2017-10-19 : Discussion en séance publique
+    - 2017-10-19 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-20 : Discussion en séance publique
+    - 2017-10-21 : Discussion en séance publique
+    - 2017-10-21 : Discussion en séance publique
+    - 2017-10-21 : Discussion en séance publique
+    - 2017-10-23 : Discussion en séance publique
+    - 2017-10-24 : Discussion en séance publique
+    - 2017-10-31 : Discussion en séance publique
+    - 2017-10-31 : Discussion en séance publique
+    - 2017-11-02 : Discussion en séance publique
+    - 2017-11-02 : Discussion en séance publique
+    - 2017-11-02 : Discussion en séance publique
+    - 2017-11-03 : Discussion en séance publique
+    - 2017-11-03 : Discussion en séance publique
+    - 2017-11-07 : Discussion en séance publique
+    - 2017-11-07 : Discussion en séance publique
+    - 2017-11-08 : Discussion en séance publique
+    - 2017-11-08 : Discussion en séance publique
+    - 2017-11-09 : Discussion en séance publique
+    - 2017-11-09 : Discussion en séance publique
+    - 2017-11-09 : Discussion en séance publique
+    - 2017-11-10 : Discussion en séance publique
+    - 2017-11-10 : Discussion en séance publique
+    - 2017-11-13 : Discussion en séance publique
+    - 2017-11-13 : Discussion en séance publique
+    - 2017-11-14 : Discussion en séance publique
+    - 2017-11-14 : Discussion en séance publique
+    - 2017-11-15 : Discussion en séance publique
+    - 2017-11-15 : Discussion en séance publique
+    - 2017-11-16 : Discussion en séance publique
+    - 2017-11-16 : Discussion en séance publique
+    - 2017-11-16 : Discussion en séance publique
+    - 2017-11-17 : Discussion en séance publique
+    - 2017-11-17 : Discussion en séance publique
+    - 2017-11-17 : Discussion en séance publique
+    - 2017-11-20 : Discussion en séance publique
+    - 2017-11-21 : Discussion en séance publique
+    - 2017-11-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-11-23 : Dépôt d'une initiative en navette (PRJLSNR5S299B0107)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-23 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-11-23 : Dépôt de rapport (RAPPSNR5S299B0108)
+  - Discussion en séance publique
+    - 2017-11-23 : Discussion en séance publique
+    - 2017-11-24 : Discussion en séance publique
+    - 2017-11-25 : Discussion en séance publique
+    - 2017-11-27 : Discussion en séance publique
+    - 2017-11-28 : Discussion en séance publique
+    - 2017-11-29 : Discussion en séance publique
+    - 2017-11-30 : Discussion en séance publique
+    - 2017-12-01 : Discussion en séance publique
+    - 2017-12-04 : Discussion en séance publique
+    - 2017-12-05 : Discussion en séance publique
+    - 2017-12-06 : Discussion en séance publique
+    - 2017-12-07 : Discussion en séance publique
+    - 2017-12-08 : Discussion en séance publique
+    - 2017-12-11 : Discussion en séance publique
+    - 2017-12-12 : Discussion en séance publique
+    - 2017-12-12 : Décision
+- Commission Mixte Paritaire
+  - 2017-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-12-13 : Nomination de rapporteur
+    - 2017-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B0493)
+    - 2017-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0168, PRJLSNR5S299BTC0169)
+  - 2017-12-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-12-12 : Dépôt d'une initiative en navette (PRJLANR5L15B0485)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-12 : Renvoi en commission au fond
+      - 2017-12-15 : Réunion de commission
+      - 2017-12-14 : Dépôt de rapport (RAPPANR5L15B0496)
+  - Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Discussion en séance publique
+    - 2017-12-15 : Décision
+- Nouvelle Lecture
+  - 2017-12-18 : Dépôt d'une initiative en navette (PRJLSNR5S299B0172)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-18 : Renvoi en commission au fond
+      - 2017-12-19 : Dépôt de rapport (RAPPSNR5S299B0176)
+  - Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Décision
+- Lecture définitive
+  - 2017-12-19 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0049)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-19 : Renvoi en commission au fond
+      - 2017-12-21 : Dépôt de rapport (RAPPANR5L15B0533)
+  - Discussion en séance publique
+    - 2017-12-21 : Discussion en séance publique
+    - 2017-12-21 : Décision
+- Conseil constitutionnel
+  - 2017-12-21 : Saisine du conseil constitutionnel
+  - 2017-12-22 : Saisine du conseil constitutionnel
+  - 2017-12-22 : Saisine du conseil constitutionnel
+  - 2017-12-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-12-30 : Promulgation d'une loi
