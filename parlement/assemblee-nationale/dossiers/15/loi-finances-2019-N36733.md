@@ -1,0 +1,226 @@
+# Loi de finances 2019
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 15
+- Identifiant : DLR5L15N36733
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_finances_2019
+- Sénat : https://www.senat.fr/dossier-legislatif/pjlf2019.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-09-24 : 1er dépôt d'une initiative. (PRJLANR5L15B1255)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-09-24 : Renvoi en commission au fond
+      - 2017-06-30 : Nomination de rapporteur
+      - 2018-07-04 : Nomination de rapporteur budgétaire
+      - 2018-07-04 : Réunion de commission
+      - 2018-10-09 : Réunion de commission
+      - 2018-10-09 : Réunion de commission
+      - 2018-10-10 : Réunion de commission
+      - 2018-10-10 : Réunion de commission
+      - 2018-10-10 : Réunion de commission
+      - 2018-10-10 : Réunion de commission
+      - 2018-10-10 : Réunion de commission
+      - 2018-10-11 : Réunion de commission
+      - 2018-10-15 : Réunion de commission
+      - 2018-10-23 : Réunion de commission
+      - 2018-10-23 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-25 : Réunion de commission
+      - 2018-10-25 : Réunion de commission
+      - 2018-10-26 : Réunion de commission
+      - 2018-10-29 : Réunion de commission
+      - 2018-10-29 : Réunion de commission
+      - 2018-10-30 : Réunion de commission
+      - 2018-10-30 : Réunion de commission
+      - 2018-10-31 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-08 : Réunion de commission
+      - 2018-11-15 : Réunion de commission
+      - 2018-12-14 : Réunion de commission
+      - 2018-12-17 : Réunion de commission
+      - 2018-12-20 : Réunion de commission
+      - 2018-10-11 : Dépôt de rapport (RAPPANR5L15B1302)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-06-27 : Nomination de rapporteur budgétaire
+      - 2018-10-30 : Réunion de commission
+      - 2018-10-31 : Réunion de commission
+      - 2018-11-06 : Réunion de commission
+      - 2018-10-12 : Dépôt de rapport (AVISANR5L15B1305)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-06-20 : Nomination de rapporteur budgétaire
+      - 2018-07-10 : Nomination de rapporteur budgétaire
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-11-06 : Réunion de commission
+      - 2018-11-06 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-10-12 : Dépôt de rapport (AVISANR5L15B1303)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-06-27 : Nomination de rapporteur budgétaire
+      - 2018-10-01 : Nomination de rapporteur budgétaire
+      - 2018-06-27 : Réunion de commission
+      - 2018-10-03 : Réunion de commission
+      - 2018-10-23 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-31 : Réunion de commission
+      - 2018-10-03 : Dépôt de rapport (AVISANR5L15B1288)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-07-04 : Nomination de rapporteur budgétaire
+      - 2018-07-04 : Réunion de commission
+      - 2018-10-03 : Réunion de commission
+      - 2018-10-17 : Réunion de commission
+      - 2018-10-23 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-12 : Dépôt de rapport (AVISANR5L15B1304)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-05-30 : Nomination de rapporteur budgétaire
+      - 2018-05-30 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-12 : Dépôt de rapport (AVISANR5L15B1306)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-06-27 : Nomination de rapporteur budgétaire
+      - 2018-06-27 : Réunion de commission
+      - 2018-10-12 : Dépôt de rapport (AVISANR5L15B1307)
+    - Travaux d'une commission saisie pour avis
+      - 2018-06-20 : Saisine pour avis d'une commission
+      - 2018-06-20 : Nomination de rapporteur budgétaire
+      - 2018-06-27 : Nomination de rapporteur budgétaire
+      - 2018-10-03 : Réunion de commission
+      - 2018-10-09 : Réunion de commission
+      - 2018-10-16 : Réunion de commission
+      - 2018-10-17 : Réunion de commission
+      - 2018-10-23 : Réunion de commission
+      - 2018-10-24 : Réunion de commission
+      - 2018-10-30 : Réunion de commission
+      - 2018-10-31 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-10-03 : Dépôt de rapport (AVISANR5L15B1285)
+  - Discussion en séance publique
+    - 2018-10-15 : Discussion en séance publique
+    - 2018-10-15 : Discussion en séance publique
+    - 2018-10-16 : Discussion en séance publique
+    - 2018-10-16 : Discussion en séance publique
+    - 2018-10-17 : Discussion en séance publique
+    - 2018-10-17 : Discussion en séance publique
+    - 2018-10-18 : Discussion en séance publique
+    - 2018-10-18 : Discussion en séance publique
+    - 2018-10-18 : Discussion en séance publique
+    - 2018-10-19 : Discussion en séance publique
+    - 2018-10-19 : Discussion en séance publique
+    - 2018-10-19 : Discussion en séance publique
+    - 2018-10-22 : Discussion en séance publique
+    - 2018-10-22 : Discussion en séance publique
+    - 2018-10-23 : Discussion en séance publique
+    - 2018-10-30 : Discussion en séance publique
+    - 2018-10-30 : Discussion en séance publique
+    - 2018-10-31 : Discussion en séance publique
+    - 2018-10-31 : Discussion en séance publique
+    - 2018-11-02 : Discussion en séance publique
+    - 2018-11-02 : Discussion en séance publique
+    - 2018-11-05 : Discussion en séance publique
+    - 2018-11-05 : Discussion en séance publique
+    - 2018-11-06 : Discussion en séance publique
+    - 2018-11-06 : Discussion en séance publique
+    - 2018-11-07 : Discussion en séance publique
+    - 2018-11-07 : Discussion en séance publique
+    - 2018-11-08 : Discussion en séance publique
+    - 2018-11-08 : Discussion en séance publique
+    - 2018-11-08 : Discussion en séance publique
+    - 2018-11-09 : Discussion en séance publique
+    - 2018-11-09 : Discussion en séance publique
+    - 2018-11-13 : Discussion en séance publique
+    - 2018-11-13 : Discussion en séance publique
+    - 2018-11-14 : Discussion en séance publique
+    - 2018-11-14 : Discussion en séance publique
+    - 2018-11-15 : Discussion en séance publique
+    - 2018-11-15 : Discussion en séance publique
+    - 2018-11-15 : Discussion en séance publique
+    - 2018-11-16 : Discussion en séance publique
+    - 2018-11-16 : Discussion en séance publique
+    - 2018-11-20 : Discussion en séance publique
+    - 2018-11-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-11-22 : Dépôt d'une initiative en navette (PRJLSNR5S319B0146)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-11-22 : Dépôt de rapport (RAPPSNR5S319B0147)
+  - Discussion en séance publique
+    - 2018-11-22 : Discussion en séance publique
+    - 2018-11-23 : Discussion en séance publique
+    - 2018-11-26 : Discussion en séance publique
+    - 2018-11-27 : Discussion en séance publique
+    - 2018-11-28 : Discussion en séance publique
+    - 2018-11-29 : Discussion en séance publique
+    - 2018-11-30 : Discussion en séance publique
+    - 2018-12-01 : Discussion en séance publique
+    - 2018-12-02 : Discussion en séance publique
+    - 2018-12-03 : Discussion en séance publique
+    - 2018-12-04 : Discussion en séance publique
+    - 2018-12-05 : Discussion en séance publique
+    - 2018-12-06 : Discussion en séance publique
+    - 2018-12-07 : Discussion en séance publique
+    - 2018-12-10 : Discussion en séance publique
+    - 2018-12-11 : Discussion en séance publique
+    - 2018-12-11 : Décision
+- Commission Mixte Paritaire
+  - 2018-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-12-12 : Nomination de rapporteur
+    - 2018-12-12 : Dépôt du rapport d'une CMP (RAPPANR5L15B1494)
+    - 2018-12-12 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0196, PRJLSNR5S319BTC0197)
+  - 2018-12-12 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-12-12 : Dépôt d'une initiative en navette (PRJLANR5L15B1490)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-12 : Renvoi en commission au fond
+      - 2018-12-14 : Dépôt de rapport (RAPPANR5L15B1504)
+  - Discussion en séance publique
+    - 2018-12-17 : Discussion en séance publique
+    - 2018-12-17 : Discussion en séance publique
+    - 2018-12-18 : Discussion en séance publique
+    - 2018-12-18 : Discussion en séance publique
+    - 2018-12-18 : Décision
+- Nouvelle Lecture
+  - 2018-12-19 : Dépôt d'une initiative en navette (PRJLSNR5S319B0218)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-19 : Renvoi en commission au fond
+      - 2018-12-19 : Dépôt de rapport (RAPPSNR5S319B0221)
+  - Discussion en séance publique
+    - 2018-12-19 : Discussion en séance publique
+    - 2018-12-19 : Décision
+- Lecture définitive
+  - 2018-12-19 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0211)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-19 : Renvoi en commission au fond
+      - 2018-12-20 : Dépôt de rapport (RAPPANR5L15B1550)
+  - Discussion en séance publique
+    - 2018-12-20 : Discussion en séance publique
+    - 2018-12-20 : Décision
+- Conseil constitutionnel
+  - 2018-12-21 : Saisine du conseil constitutionnel
+  - 2018-12-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-12-28 : Promulgation d'une loi
