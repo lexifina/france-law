@@ -64,63 +64,37 @@ Le titulaire du BPJEPS spécialité "éducateur sportif" mention "plongée subaq
 
 La possession du BPJEPS spécialité "éducateur sportif" mention "plongée subaquatique" confère à son titulaire les compétences attestées dans le référentiel de certification relatives aux compétences à :
 
-–
+– concevoir un projet pédagogique en direction de tout public ;
 
-concevoir un projet pédagogique en direction de tout public ;
+– organiser et encadrer des pratiques en randonnée subaquatique ;
 
-–
+– assurer la sécurité de la pratique dans tous les lieux de baignade d’accès public utilisés pour les activités subaquatiques ;
 
-organiser et encadrer des pratiques en randonnée subaquatique ;
+– assurer la sécurité des pratiquants dont il/elle a la charge ;
 
-–
+– gérer le matériel de secours et de communication permettant de donner l’alerte ;
 
-assurer la sécurité de la pratique dans tous les lieux de baignade d’accès public utilisés pour les activités subaquatiques ;
+– participer au fonctionnement de la structure organisatrice des activités ;
 
-–
-
-assurer la sécurité des pratiquants dont il/elle a la charge ;
-
-–
-
-gérer le matériel de secours et de communication permettant de donner l’alerte ;
-
-–
-
-participer au fonctionnement de la structure organisatrice des activités ;
-
-–
-
-participer à l’utilisation, l’entretien et à la maintenance des matériels et du navire support de plongée.
+– participer à l’utilisation, l’entretien et à la maintenance des matériels et du navire support de plongée.
 
 Conformément à l’article R. 322-41 du code du sport, le titulaire de la mention "plongée subaquatique" du brevet professionnel de la jeunesse, de l’éducation populaire et du sport, est réputé être titulaire au titre de la mention B, du certificat d’aptitude à l’hyperbarie mentionné aux I et II de l’article R. 4461-27 du code du travail, ce qui lui permet d’exercer avec le statut de salarié dans le respect du code du travail.
 
-1.2.2. Pour l’option "en scaphandre"
+1.2.2. Pour l’option A : en scaphandre
 
 La possession du BPJEPS spécialité "éducateur sportif" mention "plongée subaquatique" confère à son titulaire les compétences attestées dans le référentiel de certification relatives aux compétences à :
 
-–
+– conduire des actions d’encadrement et d’animation d’activités d’apprentissage, de découverte et d’enseignement jusqu’à 20 mètres en plongée subaquatique "en scaphandre" ;
 
-conduire des actions d’encadrement et d’animation d’activités d’apprentissage, de découverte et d’enseignement jusqu’à 20 mètres en plongée subaquatique
-
-"en scaphandre" ;
-
-–
-
-participer à l’organisation de la sécurité des activités de plongée subaquatique.
+– participer à l’organisation de la sécurité des activités de plongée subaquatique.
 
 Il exerce sous l’autorité d’un moniteur titulaire a minima :
 
-–
+– d’un brevet d’État d’éducateur sportif option plongée subaquatique ;
 
-d’un brevet d’État d’éducateur sportif option plongée subaquatique ;
+– d’un diplôme d’État de la jeunesse, de l’éducation populaire et du sport spécialité "perfectionnement" sportif mention plongée subaquatique ;
 
-–
-
-d’un diplôme d’État de la jeunesse, de l’éducation populaire et du sport spécialité "perfectionnement" sportif mention plongée subaquatique ;
-
-–
-
-ou d’un diplôme d’État supérieur de la jeunesse, de l’éducation populaire et du sport spécialité "performance sportive" mention plongée subaquatique,
+– ou d’un diplôme d’État supérieur de la jeunesse, de l’éducation populaire et du sport spécialité "performance sportive" mention plongée subaquatique,
 
 qui exerce les fonctions de directeur de plongée au sens du code du sport.
 
@@ -134,13 +108,9 @@ Pour ce qui est de la randonnée subaquatique, il peut travailler en complète a
 
 La possession du BPJEPS spécialité "éducateur sportif" mention "plongée subaquatique" confère à son titulaire les compétences attestées dans le référentiel de certification relatives aux compétences à :
 
-–
+– conduire en autonomie des actions d’encadrement et d’animation d’activités d’apprentissage, de découverte, d’enseignement et d’entraînement en plongée subaquatique "sans scaphandre" ;
 
-conduire en autonomie des actions d’encadrement et d’animation d’activités d’apprentissage, de découverte, d’enseignement et d’entraînement en plongée subaquatique "sans scaphandre" ;
-
-–
-
-assurer la sécurité des activités subaquatiques qu’il organise.
+– assurer la sécurité des activités subaquatiques qu’il organise.
 
 Le champ de ses interventions vise notamment les activités subaquatiques d’apnée, de pêche sous-marine, de nage avec palmes, de randonnée subaquatique, de nage en eaux vives, de hockey subaquatique, de tir sur cible et autres activités subaquatiques sans scaphandre en fonction du (ou des) support(s) technique(s) sur le(s)quel(s) il est spécialisé.
 
@@ -148,57 +118,33 @@ Le champ de ses interventions vise notamment les activités subaquatiques d’ap
 
 Les structures pourvoyeuses d’emploi et/ou activité, principalement concernées par les métiers de la filière professionnelle "plongée subaquatique" sont :
 
-–
+– les structures commerciales d’activités subaquatiques, d’eau vive ou multisports (SARl, EURl, travailleur indépendant, armateurs maritimes...), en France et à l’étranger, structures de pratique et/ou de formation ;
 
-les structures commerciales d’activités subaquatiques, d’eau vive ou multisports (SARl, EURl, travailleur indépendant, armateurs maritimes...), en France et à l’étranger, structures de pratique et/ou de formation ;
+– les magasins d’articles de plongée subaquatique partenaires d’un centre de plongée ;
 
-–
+– les clubs associatifs d’activités subaquatiques ;
 
-les magasins d’articles de plongée subaquatique partenaires d’un centre de plongée ;
+– les structures associatives départementales, régionales ou nationales d’activités subaquatiques ;
 
-–
+– les collectivités territoriales, les établissements publics ;
 
-les clubs associatifs d’activités subaquatiques ;
-
-–
-
-les structures associatives départementales, régionales ou nationales d’activités subaquatiques ;
-
-–
-
-les collectivités territoriales, les établissements publics ;
-
-–
-
-les accueils collectifs de mineurs et autres centres de vacances.
+– les accueils collectifs de mineurs et autres centres de vacances.
 
 1.4. Publics concernés
 
 Les publics et les structures sont principalement :
 
-–
+– des individus, des familles venant s’initier à la plongée en scaphandre, la randonnée subaquatique ou la plongée sans scaphandre et pratiquer l’une ou l’autre de ces activités ;
 
-des individus, des familles venant s’initier à la plongée en scaphandre, la randonnée subaquatique ou la plongée sans scaphandre et pratiquer l’une ou l’autre de ces activités ;
+– des clients venant acheter du matériel de plongée ou de palmage ;
 
-–
+– des structures associatives (clubs) ;
 
-des clients venant acheter du matériel de plongée ou de palmage ;
+– des accueils de loisirs, des séjours de vacances ou des établissements scolaires et des structures à vocation socio-éducative (classes découvertes...) ;
 
-–
+– des comités d’entreprise ;
 
-des structures associatives (clubs) ;
-
-–
-
-des accueils de loisirs, des séjours de vacances ou des établissements scolaires et des structures à vocation socio-éducative (classes découvertes...) ;
-
-–
-
-des comités d’entreprise ;
-
-–
-
-des particuliers, y compris des mineurs, des personnes en situation de handicap, des seniors.
+– des particuliers, y compris des mineurs, des personnes en situation de handicap, des seniors.
 
 1.5. Champs et nature des interventions
 
@@ -210,13 +156,9 @@ Le titulaire du BPJEPS spécialité "éducateur sportif" mention "plongée subaq
 
 3. Initier, entrainer, former et enseigner aux pratiques de plongée, pour l’option "en scaphandre" jusqu’à 20 mètres de profondeur et en toute situation pour la randonnée subaquatique et l’option "sans scaphandre" .
 
-4.
+4. Utiliser un navire support de plongée.
 
-Utiliser un navire support de plongée.
-
-5.
-
-Assurer la sécurité des pratiquants et, si nécessaire, mettre en œuvre les procédures de premiers secours appropriés.
+5. Assurer la sécurité des pratiquants et, si nécessaire, mettre en œuvre les procédures de premiers secours appropriés.
 
 6. Gérer et entretenir le matériel (selon le cas, maintenance, réparation, ou vente).
 
@@ -240,11 +182,7 @@ Les possibilités d’évolution professionnelle du titulaire du BPJEPS spécial
 
 Les activités du titulaire du BPJEPS spécialité "éducateur sportif" mention "plongée subaquatique" peuvent aussi évoluer dans d’autres secteurs de la plongée loisir, comme la vente de matériel dans des magasins spécialisés, la participation à l’élaboration et/ou la vente de produits touristiques, de loisir et de nature, auprès de voyagistes, la participation à des activités liées à la fabrication et ou la commercialisation de matériel de plongée subaquatique, voire d’autres activités de formation (secourisme, permis bateau...) sous réserve d’obtenir en complément les qualifica- tions qui s’avéreraient nécessaires.
 
-III.
-
-–
-
-FICHE DESCRIPTIVE D’ACTIVITÉS
+III. – FICHE DESCRIPTIVE D’ACTIVITÉS
 
 L’éducateur(trice) sportif(ve) conçoit un projet d’animation
 
@@ -576,7 +514,7 @@ Il/elle :
 
 – il/elle peut conseiller les pratiquants sur les caractéristiques du matériel en adéquation avec la sécurité ;
 
-– pour l’option en scaphandre , il/elle veille au bon usage de la station de gonflage.
+– pour l’option A : en scaphandre, il/elle veille au bon usage de la station de gonflage.
 
 5. L’éducateur(trice) sportif(ve) participe au fonctionnement de la structure
 
@@ -618,7 +556,7 @@ Il/elle :
 
 – peut être amené(e) à participer à la conception d’outils de communication ;
 
-– le (la) titulaire de l’option sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
+– le (la) titulaire de l’option B : sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
 
 5.3. Il/elle participe à la gestion administrative
 
@@ -636,7 +574,7 @@ Il/elle :
 
 – assure le suivi administratif des groupes dont il/elle a la charge ;
 
-– le (la) titulaire de l’option sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
+– le (la) titulaire de l’option B : sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
 
 5.4. Il/elle participe à l’organisation des activités de la structure
 
@@ -660,7 +598,7 @@ Il/elle :
 
 – il/elle peut être amené(e) à animer des activités physiques nécessaires au développement de l’enfant dans le cadre de la randonnée et des activités subaquatiques ;
 
-– le (la) titulaire de l’option sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
+– le (la) titulaire de l’option B : sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
 
 5.5. Il/elle gère le matériel nécessaire à la mise en œuvre des moyens technologiques
 
@@ -682,4 +620,4 @@ Il/elle :
 
 – peut participer à l’entretien et la maintenance de navire support de plongée ;
 
-– le (la) titulaire de l’option sans scaphandre peut réaliser toutes ces tâches en complète autonomie.
+– le (la) titulaire de l’option B : sans scaphandre peut réaliser toutes ces tâches en complète autonomie.

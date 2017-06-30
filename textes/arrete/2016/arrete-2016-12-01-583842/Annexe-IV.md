@@ -10,13 +10,13 @@ Le/la candidat(e) doit :
 
 1. Présenter :
 
-– l’attestation de premiers secours en équipe de niveau 1 (PSE1) ou son équivalent en cours de validité ;
+– l’attestation de premiers secours en équipe de niveau 1 (PSE1) ou son équivalent à jour de la formation continue ;
 
 – le permis de conduire des bateaux de plaisance en eaux maritimes, option côtière ou son équivalent ;
 
 – un certificat médical de non-contre-indication à la pratique et à l’enseignement de la plongée subaquatique avec ou sans scaphandre en fonction de l’option choisie datant de moins de trois mois.
 
-2. Justifier pour l’option "en scaphandre" :
+2. Justifier pour l’option A : en scaphandre :
 
 – d’un niveau technique d’aptitude PA-40 au sens de l’annexe lll-14 a du code du sport ;
 
@@ -24,11 +24,11 @@ Le/la candidat(e) doit :
 
 Le nombre de plongées est attesté par le directeur technique national de la Fédération française d’études et de sports sous-marins.
 
-3. Produire pour l’option "sans scaphandre", une qualification attestant d’une compétence à initier, enseigner ou entraîner une activité de plongée subaquatique "sans scaphandre" (hors randonnée subaquatique).
+3. Produire pour l’option B : sans scaphandre, une qualification attestant d’une compétence à initier, enseigner ou entraîner une activité de plongée subaquatique "sans scaphandre" (hors randonnée subaquatique).
 
 4. Produire l’attestation de réussite au test technique suivant :
 
-Test technique préalable à l’entrée en formation pour l’option "en scaphandre"
+Test technique préalable à l’entrée en formation pour l’option A : en scaphandre
 
 Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
 
@@ -48,9 +48,7 @@ Il est composé des épreuves suivantes réalisées en milieu naturel :
 
 Ce test est mis en œuvre par l’organisme de formation en lien avec la direction de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par la direction de la jeunesse, des sports et de la cohésion sociale (DJSCS). Sa réussite est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou par le directeur de la jeunesse, des sports et de la cohésion sociale.
 
-Le nombre de plongées est attesté par le directeur technique national de la Fédération française d’études et de sports sous-marins.
-
-Test technique préalable à l’entrée en formation pour l’option sans scaphandre
+Test technique préalable à l’entrée en formation pour l’option B : sans scaphandre
 
 Il vise à mettre en évidence les expériences, capacités et connaissances suivantes :
 

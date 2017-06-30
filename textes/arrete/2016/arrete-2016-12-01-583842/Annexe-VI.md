@@ -1,40 +1,32 @@
 # Article Annexe VI
 
-DISPENSES ET ÉQUIVAlENCES
+DISPENSES ET ÉQUIVALENCES
 
-La personne titulaire de l’une des certifications mentionnées dans la colonne de gauche des tableaux figurant ci-après est dispensée du test technique préalable à l’entrée en formation et/ou obtient les unités capitalisables (UC) correspondantes du BPJEPS spécialité éducateur sportif mention plongée subaquatique dans l’option suivante :
+La personne titulaire de l'une des certifications mentionnées dans la colonne de gauche des tableaux figurants ci-après est dispensée du test technique préalable à l'entrée en formation et/ ou obtient les unités capitalisables (UC) correspondantes du BPJEPS spécialité "éducateur sportif" mention "plongée subaquatique" dans l'option suivante :
 
-1. Option "en scaphandre"
-
-|
-
-TEST TECHNIQUE PRÉALABLE
-
-à l’entrée en formation
+1) Option A "en scaphandre" :
 
 |
 
-UC1
+TEST
 
-|
+technique préalable à l'entrée en formation |
 
-UC2
+UC1 |
 
-|
+UC2 |
 
 UC3
 
-|
+mention plongée subaquatique |
 
-UC4
+UC4 A
 
-|
+option a en scaphandre |
 
-Le plongeur titulaire d’un niveau 3 (P3) ou de niveau supérieur au sens de l’annexe III-14 b du code du sport et justifiant de 60 plongées au minimum en milieu naturel dont 15 au-delà de 30 m dans les 3 dernières années attestées au moyen du carnet de plongée.
+Le plongeur titulaire d'un niveau 3 (P3) ou de niveau supérieur au sens de l'annexe III-14b du code du sport et justifiant de 60 plongées au minimum en milieu naturel dont 15 au-delà de 30 m dans les 3 dernières années attestées au moyen du carnet de plongée. |
 
-|
-
-X
+x |
 
 |
 
@@ -44,158 +36,112 @@ X
 
 |
 
-|
+MF1 ou MF2 (FFESSM) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-MF1 ou MF2 (FFESSM) + nitrox confirmé + PSE1 en cours de validité
-
-|
-
-X
+x |
 
 |
 
-|
+x |
 
-X
+x |
 
-|
+x |
 
-X
+MF1 ou MF2 (FSGT) + permis bateau (*) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-|
-
-X
+x |
 
 |
 
-MF1 ou MF2 (FSGT) + permis bateau + nitrox confirmé + PSE1 en cours de validité
+x |
 
-|
+x |
 
-X
+x |
 
-|
+Initiateur FFESSM Plongeur GP-N4 + GC4 (ou l'UC fédérale UC10 de la FFESSM) + permis bateau (*) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-Initiateur (FFESSM ou FSGT) + Plongeur GP-N4
-
-+ GC4 + permis bateau + nitrox confirmé
-
-+ PSE1 en cours de validité
-
-|
-
-X
+x |
 
 |
 
 |
 
-|
+x |
 
-X
+x |
 
-|
+Aspirant FSGT + Plongeur GP-N4 + + permis bateau (*) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-X
-
-|
-
-Plongeur GP-N4 + permis bateau + nitrox confirmé + PSE1 en cours de validité
-
-|
-
-X
+x |
 
 |
 
 |
 
-|
+x |
 
-X
+x |
 
-|
+Plongeur GP-N4 + permis bateau (*) + nitrox confirmé + PSE1 à jour de la formation continue |
 
-|
-
-BEES 1er degré en plongée + nitrox confirmé
+x |
 
 |
 
-X
+|
+
+x |
 
 |
 
-X
+BEES 1er degré en plongée + nitrox confirmé |
+
+x |
+
+x |
+
+x |
+
+x |
+
+x |
+
+(*) Permis de conduire des bateaux de plaisance en eaux maritimes, option côtière ou son équivalent. |
+
+2) Option B sans scaphandre :
 
 |
 
-X
+TEST
 
-|
+technique préalable à l'entrée en formation |
 
-X
+UC1 |
 
-|
-
-X
-
-|
-
-2. Option sans scaphandre
-
-|
-
-UC1
-
-|
-
-UC2
-
-|
+UC2 |
 
 UC3
 
-|
+mention plongée subaquatique |
 
-UC4
+UC4B
 
-|
+option b sans scaphandre |
 
-MEF1 ou MEF2 de la FFESSM ou AE3 et AE4 de la FSGT (*)
+MEF1 ou MEF2 de la FFESSM ou EA3 et EA4 de la FSGT (*) + juge fédéral de niveau 1 |
 
-+ juge fédéral de niveau. 1
-
-|
+x |
 
 |
 
-X
+x |
 
 |
 
-|
+x |
 
-X
+(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires. |
 
-|
-
-* Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu’ils ont été délivrés dans des conditions similaires.
-
-|
-
-Rappel : les unités capitalisables 1 et 2 sont transversales aux deux spécialités et à toutes les mentions du BPJEPS. les unités capitalisables 3 et 4 (UC3 et UC4) sont obtenues uniquement au titre de la mention plongée subaquatique de l’option correspondante. Ces unités capitalisables sont acquises définitivement.
+Rappel : les unités capitalisables 1 et 2 sont transversales aux deux spécialités et à toutes les mentions du BPJEPS. L'unité capitalisable 3 (UC3) est obtenue au titre de la mention “ plongée subaquatique ” et l'unité capitalisable 4 (UC4) au titre de l'option correspondante. Ces unités capitalisables sont acquises définitivement.

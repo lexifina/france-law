@@ -4,7 +4,7 @@ EXIGENCES PRÉALABLES À LA MISE EN SITUATION PROFESSIONNELLE
 
 Les compétences professionnelles correspondant aux exigences préalables permettant la mise en situation professionnelle des personnes en cours de formation au brevet professionnel de la jeunesse, de l’éducation populaire et du sport (BPJEPS) spécialité "éducateur sportif" mention "plongée subaquatique" sont les suivantes.
 
-Pour l’option en scaphandre
+Pour l’option A : en scaphandre
 
 Les capacités professionnelles correspondant aux exigences préalables permettant la mise en situation pédagogique sont les suivantes :
 
@@ -36,11 +36,11 @@ L’organisme de formation s’attachera à s’assurer de l’actualisation des
 
 Épreuve 3 : mise en situation d’enseignement pratique 0-6 mètres
 
-Cette épreuve permettra de vérifier que le stagiaire met en place les conditions de sécurité nécessaire à la conduite d’une séance de pédagogie sur un thème correspondant à des actions de forma- tion dans l’espace 0-6 mètres.
+Cette épreuve permettra de vérifier que le stagiaire met en place les conditions de sécurité nécessaire à la conduite d’une séance de pédagogie sur un thème correspondant à des actions de formation dans l’espace 0-6 mètres.
 
 La mise en place des exigences préalables à la mise en situation professionnelle relève de l’organisme de formation. En cas d’échec l’organisme de formation propose un rattrapage avec si possible une action de formation entre les deux validations d’exigences préalables à la mise en situation pédagogique.
 
-Pour l’option sans scaphandre
+Pour l’option B : sans scaphandre
 
 Les capacités professionnelles correspondant aux exigences minimales permettant la mise en situation pédagogique sont les suivantes :
 
@@ -64,7 +64,7 @@ Modalités de la vérification des exigences préalables à la mise en situation
 
 Cette épreuve orale permettra au stagiaire d’expliciter ses choix pour la mise en œuvre d’une organisation de séance de plongée sans scaphandre en milieu naturel et/ou artificiel dans le cadre de sa spécialité.
 
-Après un temps de préparation, il/elle présentera les gestes professionnels qu’il/elle mettrait en œuvre vis-à-vis d’un scénario d’organisation tiré au sort de plongée sans scaphandre, puis partici- pera à un entretien.
+Après un temps de préparation, il/elle présentera les gestes professionnels qu’il/elle mettrait en œuvre vis-à-vis d’un scénario d’organisation tiré au sort de plongée sans scaphandre, puis participera à un entretien.
 
 Sa compréhension des phénomènes liés à la sécurité, et les attitudes attendues pour pallier les risques seront ainsi vérifiées.
 
