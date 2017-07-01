@@ -1554,6 +1554,14 @@ Mise en œuvre de la saisie conservatoire du navire dans les conditions du I de 
 
 Article 2 |
 
+Décret n° 2017-1119 du 29 juin 2017 relatif aux services privés de recrutement et de placement des gens de mer :
+
+1 |
+
+Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports |
+
+Articles 5 à 11 et 17 |
+
 Mesures prises par le ministre chargé de la marine marchande
 
 Code des douanes
