@@ -1,0 +1,323 @@
+# Article 1er
+
+Les dispositions de l'article 9 « Cotisations » sont abrogées et remplacées par les dispositions suivantes :
+
+Personnel relevant des articles 4 et 4 bis de la CCN de 1947
+
+Taux contractuel
+
+À compter du 1er juillet 2017, le taux de cotisation contractuel est fixé à 2,68 % de la base des cotisations définie à l'article 6 de l'annexe I de la convention collective nationale des personnels des cabinets médicaux.
+
+La cotisation est répartie comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Taux de cotisation global |
+
+Taux de cotisation employeur |
+
+Taux de cotisation salarié |
+
+Décès |
+
+0,40 |
+
+0,40 |
+
+– |
+
+Frais d'obsèques |
+
+0,05 |
+
+0,05 |
+
+– |
+
+Incapacité temporaire de travail |
+
+1,34 |
+
+0,72 |
+
+0,62 |
+
+Invalidité Permanente |
+
+0,48 |
+
+0,26 |
+
+0,22 |
+
+Rente éducation |
+
+0,08 |
+
+0,08 |
+
+– |
+
+Rente handicap |
+
+0,02 |
+
+0,02 |
+
+– |
+
+Rente de conjoint |
+
+0,31 |
+
+0,31 |
+
+– |
+
+Total |
+
+2,68 |
+
+1,84 |
+
+0,84 |
+
+Taux d'appel à 85 % (sauf garanties rentes éducation, de conjoint et handicap)
+
+Le taux de cotisation est fixé à :
+
+À compter du 1er juillet 2017 : le taux de cotisation est appelé à 2,34 % de la base des cotisations définie à l'article 6 de l'annexe I de la convention collective nationale des personnels des cabinets médicaux.
+
+La cotisation est répartie comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Taux de cotisation global |
+
+Taux de cotisation employeur |
+
+Taux de cotisation salarié |
+
+Décès |
+
+0,340 |
+
+0,340 |
+
+|
+
+Frais d'obsèques |
+
+0,043 |
+
+0,043 |
+
+|
+
+Incapacité temporaire de travail |
+
+1,139 |
+
+0,612 |
+
+0,527 |
+
+Invalidité Permanente |
+
+0,408 |
+
+0,221 |
+
+0,187 |
+
+Rente éducation |
+
+0,080 |
+
+0,080 |
+
+|
+
+Rente handicap |
+
+0,020 |
+
+0,020 |
+
+|
+
+Rente de conjoint |
+
+0,310 |
+
+0,310 |
+
+|
+
+Total |
+
+2,340 |
+
+1,626 |
+
+0,714 |
+
+Si les comptes annuels du régime de prévoyance du personnel relevant des articles 4 et 4 bis de la CCN de 1947, font apparaître un déficit technique (rapport charge globale sur cotisations nettes supérieur à 100), les cotisations seront appelées à hauteur de leur taux contractuel dès le 1er jour du trimestre civil qui suit la présentation des comptes à la commission de contrôle et de gestion.
+
+Personnel ne relevant pas des articles 4 et 4 bis de la CCN de 1947
+
+Taux contractuel :
+
+À compter du 1er juillet 2017, le taux de cotisation contractuel est fixé à 2,15 % de la base des cotisations définie à l'article 6 de l'annexe I de la convention collective nationale des personnels des cabinets médicaux.
+
+La cotisation est répartie comme suit :
+
+(En euros.)
+
+Garantie |
+
+Taux de cotisation global (*) |
+
+Taux de cotisation employeur |
+
+Taux de cotisation salarié |
+
+Décès |
+
+0,19 |
+
+0,12 |
+
+0,07 |
+
+Frais d'obsèques |
+
+0,05 |
+
+0,03 |
+
+0,02 |
+
+Incapacité temporaire de travail |
+
+1,33 |
+
+0,80 |
+
+0,53 |
+
+Invalidité permanente |
+
+0,48 |
+
+0,29 |
+
+0,19 |
+
+Rente éducation |
+
+0,08 |
+
+0,05 |
+
+0,03 |
+
+Rente handicap |
+
+0,02 |
+
+0,01 |
+
+0,01 |
+
+Total |
+
+2,15 |
+
+1,30 |
+
+0,85 |
+
+(*) Les cotisations sont financées à hauteur de 60 % par les employeurs et de 40 % par les salariés. |
+
+Taux d'appel à 85 % (sauf garanties rentes éducation et handicap)
+
+Le taux de cotisation est fixé à :
+
+À compter du 1er juillet 2017 : le taux de cotisation est appelé à 1,844 % de la base des cotisations définie à l'article 6 de l'annexe I de la convention collective nationale des personnels des cabinets médicaux.
+
+La cotisation est répartie comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Taux de cotisation global (*) |
+
+Taux de cotisation employeur |
+
+Taux de cotisation salarié |
+
+Décès |
+
+0,162 |
+
+0.102 |
+
+0,060 |
+
+Frais d'obsèques |
+
+0,043 |
+
+0,026 |
+
+0,017 |
+
+Incapacité temporaire de travail |
+
+1,131 |
+
+0,680 |
+
+0,451 |
+
+Invalidité permanente |
+
+0,408 |
+
+0,246 |
+
+0,162 |
+
+Rente éducation |
+
+0,080 |
+
+0,050 |
+
+0,030 |
+
+Rente handicap |
+
+0,020 |
+
+0,010 |
+
+0,010 |
+
+Total |
+
+1,844 |
+
+1,114 |
+
+0,730 |
+
+(*) Les cotisations sont financées à hauteur de 60 % par les employeurs et de 40 % par les salariés. |
+
+Si les comptes annuels du régime de prévoyance du personnel ne relevant pas des articles 4 et 4 bis de la CCN de 1947, font apparaître un déficit technique (rapport charge globale sur cotisations nettes supérieur à 100), les cotisations seront appelées à hauteur de leur taux contractuel dès le 1er jour du trimestre civil qui suit la présentation des comptes à la commission de contrôle et de gestion.
