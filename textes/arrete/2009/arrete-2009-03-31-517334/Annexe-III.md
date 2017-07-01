@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Direction régionale de la jeunesse, des sports et de la cohésion sociale de :
+Direction régionale de la jeunesse, des sports et de la cohésion sociale
 
 Service :
 
@@ -10,13 +10,11 @@ Coordonnées de la personne chargée du dossier :
 
 PROPOSITION DU DIRECTEUR RÉGIONAL
 
-RELATIVE À LA DEMANDE DE DÉLIVRANCE D'UNE ATTESTATION DE CAPACITÉ À EXERCER LA PROFESSION
+RELATIVE À LA DEMANDE DE DÉLIVRANCE D'UNE ATTESTATION DE CAPACITÉ À EXERCER LA PROFESSION D'ASSISTANT DE SERVICE SOCIAL EN FRANCE PRÉSENTÉES PAR UN TITULAIRE DE DIPLÔME EUROPÉEN DE SERVICE SOCIAL
 
-D'ASSISTANT DE SERVICE SOCIAL EN FRANCE PRÉSENTÉES PAR UN TITULAIRE DE DIPLÔME EUROPÉEN DE SERVICE SOCIAL
+IDENTIFICATION DU CANDIDAT :
 
-Identification du candidat :
-
-Nom patronyme : Nom marital :
+NOM Patronyme : NOM Marital :
 
 Prénom :
 
@@ -28,30 +26,24 @@ Date de notification du dossier complet :
 
 PROPOSITION :
 
-Délivrance de l'attestation de capacité à exercer
+□ DÉLIVRANCE DE L'ATTESTATION DE CAPACITÉ À EXERCER
 
-Stage d'adaptation ou épreuve d'aptitude :
+□ STAGE D'ADAPTATION OU ÉPREUVE D'APTITUDE :
 
-motifs :
+MOTIFS
 
-Différence importante sur les connaissances essentielles :
+□ Différences significatives sur les connaissances essentielles :
 
-Théorie et pratique de l'intervention en service social incluant l'éthique
+□ Politiques sociales
 
-Politiques sociales
+□ Législation et réglementation relatives à l'accès aux droits
 
-Législation et réglementation relatives à l'accès aux droits
+□ REFUS :
 
-Refus :
+MOTIF
 
-motifs :
+□ Ne possède pas de diplôme répondant aux conditions des 1°, 2° ou 3° de l'article L. 411-1 du code de l'action sociale et des familles
 
-N'a pas suivi avec succès un cycle d'études postsecondaires
-
-Ne possède pas de diplôme répondant aux conditions des 1°, 2° ou 3° de l'article L. 411-1 du code de l'action sociale et des familles
-
-Ne maîtrise pas la langue française
-
-Pour le préfet de région :
+Pour le préfet de région
 
 Cachet et signature :
