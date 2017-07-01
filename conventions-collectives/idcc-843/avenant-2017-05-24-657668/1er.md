@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 10 « Cessation des garanties » est modifié comme suit :
+
+« Article 10
+
+Cessation des garanties
+
+« Pour le salarié, la garantie cesse d'être accordée à l'expiration du mois au cours duquel prend fin le contrat de travail qui lie le salarié à l'entreprise ou, en cas de maintien des droits au titre de l'article 4 bis du présent régime, le dernier jour du mois au cours duquel le bénéficiaire cesse d'être garanti.
+
+A titre exceptionnel et à condition que la totalité des cotisations mensuelles afférentes à la période de couverture aient été acquittées, la garantie peut être maintenue jusqu'à la fin du trimestre au cours duquel prend fin le contrat de travail.
+
+Les anciens salariés bénéficiaires d'une rente d'incapacité ou d'invalidité, d'une pension de retraite ou, s'ils sont privés d'emploi, d'un revenu de remplacement, disposent d'un délai de 6 mois à compter de la cessation de leur contrat de travail ou le cas échéant, dans les 6 mois à compter de la fin de la période de portabilité visée par l'article 4 bis du présent régime pour demander à bénéficier du maintien de la garantie. La garantie prendra alors effet au plus tôt le lendemain de la cessation du contrat de travail ou le cas échéant, au plus tôt à l'issue de la période prise en charge au titre du dispositif de portabilité.
+
+La première année, la cotisation retenue est équivalente à celle de la cotisation des actifs prévue à l'article 5 du présent régime.
+
+Pour les années suivantes, afin de garantir un haut degré de solidarité du régime – et notamment de solidarité intergénérationnelle par le biais de la mutualisation des cotisations des anciens salariés avec celles des salariés actifs-, la cotisation est de 115 % de la cotisation des salariés actifs prévue à l'article 5 du présent régime. »
