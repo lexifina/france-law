@@ -124,23 +124,7 @@ DI Grand Est
 
 |
 
-Bourgogne-Franche-Comté
-
-Centre-Val de Loire
-
-Hauts-de-France
-
-Normandie
-
-Provence-Alpes-Côte d'Azur
-
-Corse
-
-Grand Est
-
-Occitanie
-
-Auvergne-Rhône-Alpes
+France métropolitaine
 
 |
 
