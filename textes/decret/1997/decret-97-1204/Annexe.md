@@ -264,7 +264,9 @@ Agrément des sites naturels de compensation mentionnés à l'article L. 163-3 d
 
 |
 
-Article R. 163-2 |
+Article R. 163-2
+
+|
 
 Livre II
 
@@ -464,7 +466,9 @@ Article R. 341-12
 
 Commissionnement des agents non publics des réserves naturelles |
 
-Article R. 332-68 |
+Article R. 332-68
+
+|
 
 Livre IV
 
@@ -496,7 +500,9 @@ Autorisations d'introduction dans le milieu naturel d'animaux ou de végétaux a
 
 Article R. 411-34
 
-(1°, b du II) |
+(1°, b du II)
+
+|
 
 |
 
@@ -504,7 +510,37 @@ Autorisations d'introduction sur le territoire national, de détention, de trans
 
 Article R. 411-40
 
-(2° du I) |
+(2° du I)
+
+|
+
+|
+
+Délivrance du récépissé de déclaration pour l'accès aux ressources génétiques en vue de leur utilisation |
+
+Articles R. 412-14 et R. 412-16
+
+|
+
+|
+
+Arrêtés d'autorisation pour l'accès aux ressources génétiques en vue de leur utilisation
+
+|
+
+Article R. 412-22
+
+|
+
+|
+
+Arrêtés d'autorisation pour l'utilisation de connaissances traditionnelles associées aux ressources génétiques
+
+|
+
+Article R. 412-33
+
+|
 
 |
 
@@ -812,7 +848,9 @@ Mises en demeure d'acquérir des certificats d'économies d'énergie.
 
 |
 
-Article L. 221-3 |
+Article L. 221-3
+
+|
 
 2 |
 
@@ -820,7 +858,9 @@ Décisions relatives aux versements libératoires et aux pénalités.
 
 |
 
-Article L. 221-4 |
+Article L. 221-4
+
+|
 
 VII.-Décret n° 2014-1668 du 29 décembre 2014 :
 
