@@ -452,9 +452,7 @@ Blanche, plissée. |
 
 Solennelle (et cérémonies publiques). |
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches.
-
-|
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : rouge, à grandes manches. |
 
 Comme ci-dessus. |
 
@@ -462,9 +460,7 @@ Comme ci-dessus. |
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.
-
-|
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent. |
 
 Comme ci-dessus. |
 
@@ -587,30 +583,6 @@ De soie bleu-clair, avec franges. |
 De laine noire, avec un galon d'argent. |
 
 Blanche, plissée. |
-
-Juridictions de proximité
-
-Juges de proximité
-
-AUDIENCE |
-
-BRONZE |
-
-AVERS |
-
-ATTACHE |
-
-RUBAN |
-
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache. |
-
-Doré. |
-
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite. |
-
-Largeur de 75 mm, portant un rameau d'olivier. |
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm. |
 
 Directeurs des services de greffe judiciaires et greffiers
 
