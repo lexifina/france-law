@@ -186,4 +186,8 @@ Soins de beauté dont le modelage esthétique de bien-être et de confort sans f
 
 Embaumement, soins mortuaires, thanatopraxie (inclus dans 96. 03).
 
-Toilettage d'animaux de compagnie (inclus dans 96. 09).
+Toilettage, éducation comportementaliste et pension pour animaux de compagnie (inclus dans 96. 09).
+
+NOTA :
+
+Conformément à l'article 40 II du décret n° 2017-861 du 9 mai 2017, les personnes qui, à la date d'entrée en vigueur du présent décret, exercent l'activité d'éducation comportementaliste ou de pension pour animaux de compagnie et sont tenues de s'immatriculer au répertoire des métiers en application de l'article 37 présentent leur demande d'immatriculation au plus tard le 1er octobre 2017 au centre de formalités des entreprises compétent en application des articles R. 123-3 et R. 123-4 du code de commerce.

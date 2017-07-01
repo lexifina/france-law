@@ -1,0 +1,23 @@
+# Article 5 ter
+
+I.-Les professionnels ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen peuvent se faire attribuer le titre de maître artisan par la commission régionale des qualifications prévue à l'article 4, s'ils justifient :
+
+1° Soit d'une expérience professionnelle d'au moins dix années effectives et de compétences reconnues équivalentes à celles prévues au troisième alinéa de l'article 3 ;
+
+2° Soit d'un diplôme ou titre obtenu dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, ainsi que d'une expérience et de compétences équivalentes à celles prévues aux premier et deuxième alinéas de l'article 3.
+
+Dans le cas prévu au 2°, il peut être demandé aux professionnels de se soumettre à une mesure de compensation lorsque la formation reçue porte sur des matières substantiellement différentes de celles couvertes par l'un des diplômes ou titres mentionnés à l'article 3 et si les connaissances, aptitudes et compétences acquises par le demandeur au cours de son expérience professionnelle ou de la formation tout au long de la vie ayant été validées par un organisme compétent dans un Etat membre de l'Union européenne ou partie à l'Espace économique européen ou dans un Etat tiers, ne sont pas de nature à couvrir, totalement ou partiellement, la différence substantielle en termes de contenu. La mesure de compensation consiste, au choix des professionnels, en un stage d'adaptation ou en une épreuve d'aptitude. Si les professionnels refusent de s'y soumettre, le titre de maître artisan ne peut leur être attribué.
+
+II.-Les demandes d'attribution du titre de maître artisan sont adressées au président de la chambre de métiers et de l'artisanat dont relève le candidat, accompagnées des informations et pièces dont la liste est fixée par arrêté du ministre chargé de l'artisanat.
+
+Le président de la chambre de métiers et de l'artisanat sollicite, le cas échéant, l'avis d'un organisme désigné par arrêté du ministre chargé de l'artisanat et du ministre de l'éducation nationale sur le niveau du diplôme, titre ou certificat étranger produit par un demandeur. Le même arrêté précise les modalités de cette consultation.
+
+En cas de doute sérieux, le président de la chambre procède auprès de l'autorité compétente de l'autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen aux vérifications prévues par le III de l'article 3-1 du décret n° 98-246 du 2 avril 1998 mentionné ci-dessus.
+
+Le président transmet à la commission régionale des qualifications les demandes, accompagnées de son avis, dans le délai de vingt jours suivant la réception de la demande complète.
+
+La commission statue dans un délai de soixante-cinq jours à compter de la réception du dossier. Elle attribue le titre de maître artisan, le refuse ou, dans le cas prévu au troisième alinéa du I du présent article, requiert la soumission à une mesure de compensation. Dans ce dernier cas, le demandeur en est informé et la mesure de compensation est mise en place dans les conditions prévues par l'article 3-2 du décret n° 98-246 du 2 avril 1998 mentionné ci-dessus.
+
+Les décisions de la commission sont motivées.
+
+En l'absence de notification de la décision dans un délai de trois mois à compter de la demande complète, le titre de maître artisan est réputé acquis.
