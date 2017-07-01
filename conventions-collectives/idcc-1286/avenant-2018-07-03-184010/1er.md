@@ -1,0 +1,17 @@
+# Article 1er
+
+Modification du tableau des prestations garanties par le régime de remboursement complémentaire de frais de soins de santé.
+
+Sont modifiés les postes suivants :
+
+– généralistes ;
+
+– actes de chirurgie (ADC), actes techniques médicaux (ATM).
+
+Sont couverts selon les conditions du régime conventionnel tous les actes et frais de soins de santé, ayant fait l'objet d'un remboursement et d'un décompte individuel sécurité sociale, relevant des postes de garanties détaillées ci-dessous.
+
+Pendant la période de garantie, les exclusions et les limitations de garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.
+
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0043/ boc _ 20180043 _ 0000 _ 0010. pdf
