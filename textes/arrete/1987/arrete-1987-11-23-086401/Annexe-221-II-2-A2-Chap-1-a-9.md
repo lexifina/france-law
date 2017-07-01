@@ -556,7 +556,7 @@ Les dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée 
 
 2.4. Dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers, aux locaux à véhicules et aux locaux de catégorie spéciale.
 
-Les dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers, aux locaux à véhicules et aux locaux de catégorie spéciale doivent être approuvés par l'Administration compte tenu des directives élaborées par l'OMI (6).
+Les dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers, aux locaux à véhicules et aux locaux de catégorie spéciale doivent être approuvés par l'Administration compte tenu des directives élaborées par l'OMI (8).
 
 CHAPITRE 8
 
@@ -578,7 +578,7 @@ Les dispositifs automatiques d'extinction par eau diffusée doivent être du typ
 
 2.1.2 Dispositifs d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4
 
-Les dispositifs automatiques d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (8)
+Les dispositifs automatiques d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (9)
 
 2.2 Sources d'alimentation en énergie
 
@@ -756,7 +756,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.1.4. Les détecteurs et avertisseurs à commande manuelle doivent être reliés à des sections spécifiques du dispositif de détection de l'incendie. D'autres fonctions de protection contre l'incendie, telles que signaux d'alarme des vannes des diffuseurs, peuvent être assurées si elles concernent d'autres sections.
 
-2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (8).
+2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (10).
 
 2.1.6. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie à détecteurs d'incendie individuellement identifiables doivent être disposés de telle sorte que :
 
@@ -798,7 +798,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.3.1.6. Tous les détecteurs doivent être d'un type tel que l'on puisse vérifier leur bon fonctionnement et les remettre en position normale de surveillance sans devoir en remplacer un élément.
 
-2.3.1.7. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'administration compte tenu des directives élaborées par l'organisation (9).
+2.3.1.7. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'administration compte tenu des directives élaborées par l'organisation (11).
 
 2.3.1.8. Les détecteurs installés dans les zones dangereuses doivent être mis à l'essai et approuvés à cette fin. Il n'est pas nécessaire que les détecteurs prescrits à la règle 221-II-2/20.4 et installés dans des espaces satisfaisant à la règle 221-II-2/20.3.2.2 de la présente division soient appropriés pour les zones dangereuses. Les détecteurs installés dans les espaces où sont transportées des marchandises dangereuses qui, d'après le tableau 19.3 de la règle 221-II-2/19, doivent satisfaire à la règle 221-II-2/19.3.2 de la présente division doivent être appropriés pour les zones dangereuses.
 
@@ -890,7 +890,7 @@ L'administration peut exiger ou accepter des espacements différents de ceux qui
 
 2.5. Prescriptions concernant le contrôle des dispositifs
 
-2.5.1. Signaux d'incendie visuels et sonores (10)
+2.5.1. Signaux d'incendie visuels et sonores (12)
 
 2.5.1.1. L'entrée en action d'un détecteur ou d'un avertisseur d'incendie à commande manuelle doit déclencher un signal d'alarme de détection de l'incendie visuel et sonore au tableau de commande et aux tableaux des indicateurs. Si, au bout de deux minutes, ce signal n'a pas été acquitté, une alarme d'incendie sonore doit se déclencher automatiquement dans tous les locaux d'habitation de l'équipage, les locaux de service, les postes de sécurité et les locaux de machines de la catégorie A. Cette alarme sonore n'a pas à faire partie intégrante du système de détection.
 
@@ -920,7 +920,7 @@ Un signal visuel et sonore, distinct du signal d'incendie, doit se déclencher a
 
 2.5.2. Mise à l'essai
 
-Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien. A bord des navires construits le 1er juillet 2014 ou après cette date, les détecteurs installés à l'intérieur d'espaces froids, tels que des chambres frigorifiques, doivent être mis à l'essai à l'aide de méthodes qui tiennent dûment compte de ces emplacements (7). Les détecteurs doivent être mis à l'essai périodiquement au moyen d'un matériel adapté aux types d'incendie auxquels ils sont censés réagir.
+Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien. A bord des navires construits le 1er juillet 2014 ou après cette date, les détecteurs installés à l'intérieur d'espaces froids, tels que des chambres frigorifiques, doivent être mis à l'essai à l'aide de méthodes qui tiennent dûment compte de ces emplacements (13). Les détecteurs doivent être mis à l'essai périodiquement au moyen d'un matériel adapté aux types d'incendie auxquels ils sont censés réagir.
 
 NOTA :
 
@@ -938,16 +938,20 @@ Acier doux, noir ou galvanisé 100
 
 Cuivre et alliages de cuivre 150 Acier inoxydable 150.
 
-(5) Se reporter aux directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à bas foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.582 et Corr.1).
+(5) Se reporter aux Directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à bas foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.582 et Corr.1).
 
-(6) Se reporter aux Directives révisées pour l'approbation des dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers et aux locaux de catégorie spéciale (MSC.1/Circ.1430).
+(6) Se reporter aux Directives révisées pour l'approbation des dispositifs d'extinction de l'incendie à base d'eau équivalents pour les locaux de machines et les chambres des pompes à cargaison (circulaire MSC/Circ.1165).
 
 (7) Se reporter aux Directives pour l'approbation des dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression et à base d'eau destinés aux balcons de cabine (circulaire MSC.1/Circ.1268).
 
-(8) Se reporter aux directives révisées pour l'approbation de dispositifs d'extinction par eau diffusée équivalents à ceux prévus à la règle II2/12, que l'Organisation a adoptées par la résolution A.800(19).
+(8) Se reporter aux Directives révisées pour l'approbation des dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers et aux locaux de catégorie spéciale (MSC.1/Circ.1430).
 
-(8) Se reporter aux prescriptions générales relatives à la compatibilité électromagnétique de tous les équipements électriques et électroniques des navires que l'organisation a adoptées par la résolution A. 813 (19).
+(9) Se reporter aux Directives révisées pour l'approbation de dispositifs d'extinction par eau diffusée équivalents à ceux prévus à la règle II-2 12, que l'organisation a adoptées par la résolution A.800(19).
 
-(9) Se reporter aux directives pour l'approbation des dispositifs fixes de détection et d'alarme d'incendie destinés aux balcons de cabine (circulaire MSC.1/Circ.1242).
+(10) Se reporter aux prescriptions générales relatives à la compatibilité électromagnétique de tous les équipements électriques et électroniques des navires que l'organisation a adoptées par la résolution A.813 (19).
 
-(10) Se reporter au recueil de règles relatives aux alarmes et aux indicateurs, 2009, que l'organisation a adopté par la résolution A.1021(26).
+(11) Se reporter aux Directives pour l'approbation des dispositifs fixes de détection et d'alarme d'incendie destinés aux balcons de cabine (circulaire MSC.1/Circ.1242).
+
+(12) Se reporter au recueil de règles relatives aux alarmes et aux indicateurs, 2009, que l'organisation a adopté par la résolution A.1021(26).
+
+(13) Se reporter aux recommandations de la Commission électrotechnique internationale, en particulier la publication 60068-2-1 de la CEI, Section 1 - Essai Ab, Essais d'environnement - Partie 2-1 : Essais - Essai A : Froid.

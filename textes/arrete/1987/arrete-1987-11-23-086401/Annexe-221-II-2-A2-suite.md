@@ -640,6 +640,96 @@ DISPOSITIFS FIXES DE DETECTION DES GAZ D'HYDROCARBURE
 
 2.2.3.4. Le matériel de détection des gaz doit être conçu de manière à pouvoir être aisément mis à l'essai et étalonné.
 
+CHAPITRE 17
+
+DISPOSITIFS DE LUTTE CONTRE L'INCENDIE À MOUSSE DESTINÉS AUX INSTALLATIONS POUR HÉLICOPTÈRES
+
+1 Application
+
+Le présent chapitre décrit en détail les spécifications applicables aux dispositifs de lutte contre l'incendie à mousse destinés à protéger les héliplates-formes et les aires d'appontage pour hélicoptères qui sont prescrits aux termes du chapitre 221-II-2.
+
+2 Définitions
+
+2.1 La valeur de D désigne la dimension maximale de l'hélicoptère, lorsque ses rotors tournent, qui est utilisée pour évaluer l'héliplate-forme. Elle détermine l'aire que doit couvrir la mousse projetée.
+
+2.2 Ajutages à mousse intégrés dans le pont désigne des ajutages à mousse encastrés dans l'héliplate-forme ou bien montés au bord de cette dernière.
+
+2.3 Lances à mousse désigne les ajutages d'aspiration d'air en forme de tube qui servent à produire et à projeter la mousse, en général uniquement en jet droit.
+
+2.4 Aire d'appontage pour hélicoptères a le sens défini à l'article 221-II-2/3.57 de la Convention SOLAS.
+
+2.5 Héliplate-forme a le sens défini à l'article 221-II-2/3.26 de la Convention SOLAS.
+
+2.6 Unité à mousse à dévidoir de manche est un dévidoir de manche équipé d'une lance à mousse et d'une manche semi-rigide, ainsi que d'un proportionneur fixe de mousse et d'un réservoir fixe d'émulseur qui sont montés sur un même cadre.
+
+2.7 Unité de canon à mousse désigne un canon à mousse, soit à éjection automatique, soit équipé d'un proportionneur de mousse fixe séparé et d'un réservoir de liquide émulseur fixe qui sont montés sur un même cadre.
+
+2.8 Zone dégagée d'obstacles désigne la zone d'approche et de décollage qui inclut toute l'aire d'atterrissage sûre et s'étend sur un secteur d'au moins 210° et dans laquelle seuls des obstacles spécifiés sont autorisés.
+
+2.9 Secteur de limitation d'obstacles désigne un secteur de 150° situé à l'extérieur de la zone d'approche et de décollage et s'étendant vers l'extérieur d'une héliplate-forme sur lequel des objets d'une hauteur limitée sont autorisés.
+
+3 Spécifications techniques applicables aux héliplates-formes et aux aires d'appontage pour hélicoptères
+
+3.1 Le dispositif doit pouvoir être déclenché manuellement et il peut être configuré de manière à se déclencher automatiquement.
+
+3.2 Dans le cas des héliplates-formes, le dispositif à mousse doit comprendre au moins deux canons à mousse fixes ou deux ajutages à mousse intégrés dans le pont. Il faut prévoir en outre au moins deux dévidoirs de manche équipés d'une lance à mousse et d'une manche semi-rigide permettant d'atteindre n'importe quelle partie de l'héliplate-forme. Il faut calculer le taux minimal de projection du dispositif à mousse en multipliant l'aire correspondant à la valeur de D par 6 l/min/m2. Dans le cas des dispositifs à ajutages à mousse intégrés dans le pont, il faut calculer le taux minimal de projection du dispositif à mousse en multipliant la surface totale de l'héliplate forme par 6 l/min/m2. Chaque canon doit être capable de fournir au moins 50 % du débit minimal de projection du dispositif à mousse, mais pas moins de 500 l/min. Le débit minimal de projection de chaque dévidoir de manche doit être d'au moins 400 l/min. La quantité d'émulseur doit être suffisante pour que tous les dispositifs de projection raccordés puissent fonctionner pendant au moins 5 minutes.
+
+3.3 Lorsque des canons à mousse sont installés, la distance entre le canon et l'extrémité la plus éloignée de la zone protégée ne doit pas dépasser 75 % de la portée de ce canon en air calme.
+
+3.4 Dans le cas des héliplates-formes, il faut prévoir au moins deux diffuseurs portatifs à mousse ou deux unités à mousse à dévidoir de manche, chacun étant capable de projeter la solution moussante au débit minimal indiqué dans le tableau ci-dessous :
+
+CATÉGORIE |
+
+LONGUEUR HORS TOUT DE L'HÉLICOPTÈRE
+
+(valeur de D) |
+
+DÉBIT MINIMAL DE PROJECTION
+
+de la solution moussante (l/ min) |
+
+H1 |
+
+inférieure à 15 m |
+
+250 |
+
+H2 |
+
+égale ou supérieure à 15 m mais inférieure à 24 m |
+
+500 |
+
+H3 |
+
+égale ou supérieure à 24 m mais inférieure à 35 m |
+
+800 |
+
+La quantité d'émulseur doit être suffisante pour que tous les dispositifs de projection raccordés puissent fonctionner pendant au moins 10 minutes. Dans le cas des navires-citernes pourvus d'un dispositif à mousse sur pont, l'Administration peut envisager d'autres dispositions, compte tenu du type d'émulseur utilisé.
+
+3.5 Des unités à déclenchement manuel capables de lancer les pompes nécessaires et d'ouvrir les vannes requises, y compris le collecteur principal d'incendie s'il sert à l'alimentation en eau, doivent être situées sur chaque canon et sur chaque dévidoir. En outre, il faut prévoir une unité centrale à déclenchement manuel dans un endroit protégé. Le dispositif à mousse doit être conçu de manière à projeter de la mousse au débit nominal et à la pression nominale depuis n'importe quel dispositif de projection raccordé dans les 30 secondes qui suivent sa mise en marche.
+
+3.6 La mise en marche de n'importe quelle unité à déclenchement manuel doit provoquer l'écoulement de la solution moussante vers tous les dévidoirs, canons et ajutages à mousse intégrés dans le pont qui y sont raccordés.
+
+3.7 Le dispositif et ses éléments doivent être conçus de manière à pouvoir résister aux variations de la température ambiante, aux vibrations, à l'humidité, aux impacts et à la corrosion qui se produisent normalement sur le pont découvert et ils devraient être fabriqués et mis à l'essai d'une manière jugée satisfaisante par l'Administration.
+
+3.8 Il faut prévoir une portée de l'ajutage d'au moins 15 mètres lorsque tous les dévidoirs à manche et tous les canons projettent de la mousse simultanément. La pression à la projection, le débit et la configuration de la projection des ajutages à mousse intégrés dans le pont doivent être jugés satisfaisants par l'Administration, à la lumière d'essais démontrant que l'ajutage est capable d'éteindre un incendie mettant en cause le plus grand hélicoptère pour lequel l'héliplate-forme est conçue.
+
+3.9 Les canons, lances à mousse, ajutages à mousse intégrés dans le pont et raccords de manche doivent être en laiton, bronze ou acier inoxydable. Les tuyautages, raccords et éléments connexes, à l'exception des joints, doivent être conçus de manière à résister à des températures allant jusqu'à 925° C.
+
+3.10 Il faut démontrer que l'émulseur est capable d'éteindre les incendies résultant d'une fuite de carburant aviation et l'émulseur doit satisfaire à des normes de performance qui ne soient pas inférieures à celles qui sont jugées acceptables par l'Organisation.(*) Lorsque le réservoir de stockage de la mousse se trouve sur le pont découvert, il faut utiliser des émulseurs protégés contre le gel, s'il y a lieu, pour la zone d'exploitation.
+
+3.11 Aucun matériel du dispositif à mousse installé dans la zone d'approche et de décollage dégagée d'obstacles ne doit avoir une hauteur supérieure à 0,25 mètre. Aucun matériel du dispositif à mousse installé dans le secteur de limitation d'obstacles ne doit avoir une hauteur supérieure à celle qui est autorisée pour les objets dans cette zone.
+
+3.12 Toutes les unités à déclenchement manuel, unités à mousse à canon, unités à mousse à dévidoir de manche et tous dévidoirs de manche et canons doivent comporter un moyen d'accès qui n'oblige pas à traverser l'héliplate-forme ou l'aire d'appontage pour hélicoptères.
+
+3.13 Les canons oscillants, s'ils sont employés, doivent être réglés de façon à projeter la mousse selon une configuration donnée et être pourvus d'un moyen permettant de débloquer leur mécanisme d'oscillation pour qu'ils passent rapidement en mode manuel.
+
+3.14 Si un canon à mousse dont le débit est inférieur ou égal à 1 000 l/min est installé, il doit être équipé d'un ajutage aspirant l'air. Si un dispositif d'ajutages intégrés dans le pont est installé, le dévidoir de manche supplémentaire installé doit être muni d'un ajutage aspirant l'air manœuvrable manuellement (lance à mousse).
+
+L'utilisation d'ajutages à mousse qui n'aspirent pas l'air (tant pour les canons que pour le dévidoir de manche supplémentaire) n'est autorisée que si des canons à mousse d'un débit supérieur à 1 000 l/min sont installés. Si seuls des diffuseurs portatifs à mousse ou des unités à dévidoir de manche sont prévus, ils doivent être équipés d'ajutages aspirant l'air manœuvrables manuellement (lances à mousse).
+
 NOTA :
 
 (1) Se reporter aux directives sur l'évaluation, la mise à l'épreuve et l'utilisation de l'éclairage à faible hauteur à bord des navires à passagers, que l'Organisation a adoptées par la résolution A.752(18).
@@ -661,3 +751,9 @@ NOTA :
 (8) Un espace à l'abri des gaz est un espace dans lequel l'admission de gaz d'hydrocarbures produirait des dangers en matière d'inflammabilité ou de toxicité.
 
 (9) Se reporter aux directives révisées sur les dispositifs à gaz inerte (MSC/Circ.353, telle que modifiée par MSC/Circ.387).
+
+(*) Se reporter :
+
+-au Manuel des services d'aéroport de l'Organisation de l'aviation civile internationale, première partie-Sauvetage et lutte contre l'incendie, chapitre 8-Caractéristiques des agents extincteurs, paragraphe 8.1.5-Spécifications relatives aux mousses, tableau 8.1, niveau B de performance, ou
+
+-aux Directives révisées relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC. 1/ Circ. 1312).
