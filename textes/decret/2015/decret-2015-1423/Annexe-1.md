@@ -14,51 +14,35 @@ Code de la défense
 
 Agréments relatifs aux articles explosifs (production, importation et exportation hors du territoire de l'Union européenne, transfert entre Etats membres de l'Union européenne, commerce, emploi, transport, conservation et destruction des produits explosifs) |
 
-Article L. 2352-1
-
-|
+Article L. 2352-1 |
 
 Autorisation d'acquisition de produits explosifs |
 
-Article R. 2352-74
-
-|
+Article R. 2352-74 |
 
 Autorisation de transport de produits explosifs |
 
-Article R. 2352-76
-
-|
+Article R. 2352-76 |
 
 Autorisation d'utilisation dès réception de produits explosifs |
 
-Article R. 2352-81
-
-|
+Article R. 2352-81 |
 
 Habilitation à l'emploi, à la garde, la mise en œuvre et au tir de produits explosifs |
 
-Article R. 2352-87
-
-|
+Article R. 2352-87 |
 
 Agrément technique des installations de produits explosifs |
 
-Article R. 2352-97
-
-|
+Article R. 2352-97 |
 
 Autorisation individuelle d'exploitation d'un dépôt de produits explosifs |
 
-Article R. 2352-110
-
-|
+Article R. 2352-110 |
 
 Agrément des salariés du titulaire d'une autorisation individuelle d'exploitation d'un dépôt de produits explosifs |
 
-Article R. 2352-118
-
-|
+Article R. 2352-118 |
 
 Code électoral
 
@@ -66,15 +50,11 @@ Code électoral
 
 Déclaration d'un mandataire financier |
 
-Articles L. 52-4, L. 52-5 et L. 52-6
-
-|
+Articles L. 52-4, L. 52-5 et L. 52-6 |
 
 Notification aux maires des assesseurs et délégués des candidats |
 
-Article R. 46 et R. 47
-
-|
+Article R. 46 et R. 47 |
 
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
@@ -96,17 +76,13 @@ Agrément en qualité d'organisme d'interprétariat et de traduction |
 
 Article L. 111-8
 
-Article R. 111-12-1
-
-|
+Article R. 111-12-1 |
 
 Obtention d'un délai de départ volontaire supérieur à 30 jours |
 
 Article L. 511-1-II,
 
-Article R. 512-1 et R. 512-1-1
-
-|
+Article R. 512-1 et R. 512-1-1 |
 
 Abrogation d'une mesure d'interdiction de retour sur le territoire français |
 
@@ -114,33 +90,23 @@ Article L. 511-1-III |
 
 Abrogation d'une mesure d'assignation à résidence d'un étranger faisant l'objet d'un arrêté préfectoral ou ministériel d'expulsion |
 
-Articles L. 523-3 à L. 523-5
-
-|
+Articles L. 523-3 à L. 523-5 |
 
 Assignation à résidence d'un étranger faisant l'objet d'un arrêté préfectoral ou ministériel d'expulsion |
 
-Articles L. 523-3 à L. 523-5
-
-|
+Articles L. 523-3 à L. 523-5 |
 
 Abrogation d'un arrêté préfectoral ou ministériel d'expulsion |
 
-Article L. 524-1
-
-|
+Article L. 524-1 |
 
 Abrogation d'une mesure d'assignation à résidence d'un étranger faisant l'objet d'une interdiction judiciaire du territoire français |
 
-Article L. 561-1
-
-|
+Article L. 561-1 |
 
 Assignation à résidence d'un étranger faisant l'objet d'une interdiction judiciaire du territoire français |
 
-Article L. 561-1
-
-|
+Article L. 561-1 |
 
 Agrément des représentants du Haut Commissariat des Nations unies pour les réfugiés en zone d'attente |
 
@@ -186,21 +152,15 @@ Article 100 du décret n° 2002-1219 du 27 septembre 2002 |
 
 Habilitation des associations dans les lieux de rétention |
 
-Article R. 553-14-5
-
-|
+Article R. 553-14-5 |
 
 Modification des modalités de l'assignation à résidence |
 
-Article R. 561-2
-
-|
+Article R. 561-2 |
 
 Autorisation de travail dans le cadre d'une assignation à résidence |
 
-Article R. 561-4
-
-|
+Article R. 561-4 |
 
 Code de procédure pénale
 
@@ -208,15 +168,11 @@ Code de procédure pénale
 
 Agrément de garde particulier |
 
-Articles 29-1, R. 15-33-27-1
-
-|
+Articles 29-1, R. 15-33-27-1 |
 
 Aptitude technique de garde particulier |
 
-Articles R. 15-33-25 et R. 15-33-26
-
-|
+Articles R. 15-33-25 et R. 15-33-26 |
 
 Code rural et de la pêche maritime
 
@@ -224,9 +180,7 @@ Code rural et de la pêche maritime
 
 Permis de détention d'un chien catégorisé |
 
-Articles L. 211-14, R. 211-5
-
-|
+Articles L. 211-14, R. 211-5 |
 
 Agrément des personnes habilitées à dispenser la formation et à délivrer l'attestation d'aptitude à la détention d'un chien catégorisé |
 
@@ -234,9 +188,7 @@ Article R. 211-5-5 et arrêté n° H-C 1928-DRCL du 22 décembre 2009 |
 
 Permis provisoire de détention d'un chien catégorisé |
 
-Article D. 211-5-2
-
-|
+Article D. 211-5-2 |
 
 Code de la sécurité intérieure |
 
@@ -244,9 +196,7 @@ Accès aux enregistrements de vidéoprotection |
 
 Article L. 253-5
 
-Article R. 253-3
-
-|
+Article R. 253-3 |
 
 Autorisation d'acquisition et de détention d'armes et de matériels |
 
@@ -262,147 +212,103 @@ Articles R. 313-1 et suivants |
 
 Autorisation d'ouverture d'un local de commerce d'armes au détail |
 
-Article L. 313-3
-
-|
+Article L. 313-3 |
 
 Autorisation d'ouverture de casino et autorisation de jeux dans le casino |
 
-Article L. 321-1 et L. 321-2
+Articles L. 321-1, L. 321-2 et L. 321-3
 
-Article R. 321-1 à R. 321-6
-
-|
+Articles R. 321-2 à R. 321-6 |
 
 Autorisation préalable d'investissement dans les casinos |
 
 Article L. 323-3
 
-Articles R. 323-1 à R. 323-3 et D. 323-4
-
-|
+Articles R. 323-1 à R. 323-3 et D. 323-4 |
 
 Agrément d'agent de police municipale |
 
-Article L. 511-2
-
-|
+Article L. 511-2 |
 
 Agrément des dirigeants ou entrepreneurs individuels pour les activités privées de surveillance et de gardiennage, de transports de fonds et de protection physique des personnes (activités privées de sécurité) |
 
 Articles L. 612-6 et L. 622-6
 
-Articles R. 612-1 à R. 612-4
-
-|
+Articles R. 612-1 à R. 612-4 |
 
 Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales exerçant des activités privées de sécurité |
 
 Articles L. 612-9 et L. 622-9
 
-Articles R. 612-5 à R. 612-11
-
-|
+Articles R. 612-5 à R. 612-11 |
 
 Carte professionnelle pour les salariés des activités privées de sécurité |
 
 Articles L. 612-20 et L. 622-19
 
-Articles R. 612-12 à R. 612-18-1
-
-|
+Articles R. 612-12 à R. 612-18-1 |
 
 Autorisation préalable pour accéder à une formation dans les activités privées de sécurité |
 
-Articles L. 612-22 et L. 622-21
-
-|
+Articles L. 612-22 et L. 622-21 |
 
 Autorisation provisoire d'exercer une fonction dans les activités privées de sécurité |
 
-Articles L. 612-23 et L. 622-22
-
-|
+Articles L. 612-23 et L. 622-22 |
 
 Autorisation donnée aux agents de surveillance et de gardiennage d'exercer une mission sur la voie publique |
 
-Article L. 613-1
-
-|
+Article L. 613-1 |
 
 Agrément pour les palpations en cas de circonstances particulières |
 
-Articles L. 613-2 et R. 613-6
-
-|
+Articles L. 613-2 et R. 613-6 |
 
 Agrément pour les palpations dans les manifestations sportives, récréatives ou culturelles |
 
 Article L. 613-3
 
-Articles R. 613-6 et R. 613-10
-
-|
+Articles R. 613-6 et R. 613-10 |
 
 Autorisation de port d'armes pour les agents de surveillance et gardiennage |
 
-Articles L. 613-5 et R. 613-3
-
-|
+Articles L. 613-5 et R. 613-3 |
 
 Autorisation de port d'armes pour les services de sécurité des bailleurs d'immeubles |
 
-Article L. 614-4
-
-|
+Article L. 614-4 |
 
 Autorisation d'exercer l'activité d'agent de recherche privé par les anciens fonctionnaires de police et de gendarmerie |
 
-Article L. 622-4
-
-|
+Article L. 622-4 |
 
 Récépissé de déclaration ou enregistrement d'armes de catégorie C et D |
 
-Articles R. 312-53 à R. 312-59
-
-|
+Articles R. 312-53 à R. 312-59 |
 
 Agrément des certificats de qualification professionnelle des armuriers |
 
-Article R. 313-4
-
-|
+Article R. 313-4 |
 
 Autorisation de port d'arme |
 
-Articles R. 315-5 et R. 315-6
-
-|
+Articles R. 315-5 et R. 315-6 |
 
 Accord préalable à l'acquisition d'une arme des catégories A1, B, C ou D dans un autre Etat pour les personnes résidant en France |
 
-Articles R. 316-5 ET R. 316-6
-
-|
+Articles R. 316-5 ET R. 316-6 |
 
 Demande de carte européenne d'armes à feu : première demande, renouvellement ou modification |
 
-Article R. 316-7
-
-|
+Article R. 316-7 |
 
 Renouvellement d'autorisation de jeux et de transfert |
 
-Article R. 321-3
-
-|
+Article R. 321-3 |
 
 Agrément des véhicules blindés |
 
-Article R. 613-37
-
-|
+Article R. 613-37 |
 
 Agrément des dispositifs de neutralisation des valeurs |
 
@@ -414,21 +320,17 @@ Articles R. 613-53 et suivants |
 
 Autorisation de port d'armes des convoyeurs |
 
-Article R. 613-42
-
-|
+Article R. 613-42 |
 
 Loi du 30 juin 1923 portant fixation du budget général de l'exercice 1923 |
 
 Autorisation de jeux pour les cercles de jeux |
 
-Article 47
-
-|
+Article 47 |
 
 Décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre
 
-Arrêté du 31 mai 2010 pris en application des articles 3,4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre |
+Arrêté du 31 mai 2010 pris en application des articles 3, 4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre |
 
 Agrément pour l'utilisation des artifices de divertissement lancés par mortiers |
 
@@ -468,7 +370,7 @@ Décret n° 93-1362 du 30 décembre 1993 relatif aux déclarations de nationalit
 
 Acquisition de la nationalité française à raison du mariage avec un conjoint français (en France et à l'étranger) |
 
-Articles 21-2,26 et 26-1
+Articles 21-2, 26 et 26-1
 
 Articles 14 à 15 du décret n° 93-1362 du 30 décembre 1993 |
 
@@ -496,9 +398,7 @@ Articles 35 à 52 du décret n° 93-1362 du 30 décembre 1993 |
 
 Acquisition de la nationalité française par l'enfant mineur, en conséquence de l'acquisition de la nationalité par un de ses parents |
 
-Article 22-1
-
-|
+Article 22-1 |
 
 Autorisation de perdre la nationalité française sur demande : libération des liens d'allégeance (en France et à l'étranger) |
 
@@ -520,15 +420,11 @@ Décret n° 78-21 du 9 janvier 1978 fixant les conditions de participation à la
 
 Vote par procuration |
 
-Articles L. 71 et R. 72
-
-|
+Articles L. 71 et R. 72 |
 
 Déclaration de candidature aux élections législatives |
 
-Articles L. 157 et R. 99
-
-|
+Articles L. 157 et R. 99 |
 
 Demande d'accès à la campagne audiovisuelle aux élections législatives |
 
@@ -538,33 +434,23 @@ Décret n° 78-21 du 9 janvier 1978 fixant les conditions de participation à la
 
 Déclaration de candidature aux élections départementales |
 
-Articles L. 210-1 et R. 109-1
-
-|
+Articles L. 210-1 et R. 109-1 |
 
 Déclaration de candidature aux élections municipales (communes de moins de 1 000 habitants) |
 
-Articles L. 255-3, L. 255-4, R. 127-2, R. 128 et R. 128-1
-
-|
+Articles L. 255-3, L. 255-4, R. 127-2, R. 128 et R. 128-1 |
 
 Déclaration de candidature aux élections municipales et communautaires (communes de 1 000 habitants et plus) |
 
-Articles L. 265 et R. 127-2 à R. 128-3
-
-|
+Articles L. 265 et R. 127-2 à R. 128-3 |
 
 Déclaration de candidature aux élections sénatoriales |
 
-Articles L. 301, R. 149 et R. 153
-
-|
+Articles L. 301, R. 149 et R. 153 |
 
 Déclaration de candidature aux élections régionales |
 
-Articles L. 347 et R. 183
-
-|
+Articles L. 347 et R. 183 |
 
 Règlement (CE) n° 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas)
 
@@ -624,9 +510,7 @@ Article 12 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 m
 
 Aide au retour |
 
-Articles L. 512-5 et R. 512-1-2
-
-|
+Articles L. 512-5 et R. 512-1-2 |
 
 Octroi du statut de réfugié ou de la protection subsidiaire |
 
@@ -634,41 +518,29 @@ Articles L. 711-1, L. 712-1, L. 713-1, L. 721-2, L. 723-2
 
 Articles L. 723-3, L. 723-15
 
-Articles R. 723-2, R. 723-3
-
-|
+Articles R. 723-2, R. 723-3 |
 
 Délivrance des pièces nécessaires à la vie civile des réfugiés et protégés subsidiaires |
 
-Articles L. 721-3
-
-|
+Articles L. 721-3 |
 
 Renonciation à la protection internationale |
 
-Article L. 723-12
-
-|
+Article L. 723-12 |
 
 Document de voyage pour réfugié, apatride et autres bénéficiaires de protection |
 
-Articles L. 753-1, L. 753-2, L. 753-3, L. 753-5 et L. 812-7
-
-|
+Articles L. 753-1, L. 753-2, L. 753-3, L.753-5 et L. 812-7 |
 
 Reconnaissance de la qualité d'apatride |
 
 Articles L. 812-1, L. 812-2,
 
-Article R. 723-2
-
-|
+Article R. 723-2 |
 
 Visa délivré par le préfet de Mayotte |
 
-Article L. 832-2
-
-|
+Article L. 832-2 |
 
 Validation du visa de long séjour valant titre de séjour |
 
@@ -678,17 +550,13 @@ Arrêté du 19 mai 2009 |
 
 Enregistrement de la demande d'asile et recours gracieux et hiérarchiques auprès de l'OFPRA |
 
-Article R. 723-1
-
-|
+Article R. 723-1 |
 
 Enregistrement des demandes d'asile et délivrance de l'attestation de demande d'asile |
 
 Articles L. 741-1, L. 743-1 à L. 743-4,
 
-Articles R. 741-2 à R. 741-6 et R. 743-1 et R. 743-2
-
-|
+Articles R. 741-2 à R. 741-6 et R. 743-1 et R. 743-2 |
 
 Carte de frontalier (Guyane) |
 
@@ -724,15 +592,11 @@ Articles R. 322-6 et 13 et 14 de l'arrêté du 9 février 2009 |
 
 Demandes de changement d'adresse du titulaire du certificat d'immatriculation (uniquement pour l'ancien format FNI) |
 
-Article R. 322-7
-
-|
+Article R. 322-7 |
 
 Demandes de transformation d'un véhicule immatriculé |
 
-Article R. 322-8
-
-|
+Article R. 322-8 |
 
 Demandes de duplicata de certificat d'immatriculation |
 
@@ -742,23 +606,17 @@ Code de la sécurité intérieure |
 
 Exclusion volontaire de jeux |
 
-Article R. 321-28
-
-|
+Article R. 321-28 |
 
 Code des transports |
 
 Demandes de carte professionnelle de conducteur de taxi |
 
-Articles L. 3121-10, R. 3120-6 et R. 3121-16
-
-|
+Articles L. 3121-10, R. 3120-6 et R. 3121-16 |
 
 Demandes de délivrance de la carte professionnelle de conducteur de transport de personnes à moto (TPM) |
 
-Articles L. 3123-2-1, R. 3120-6 et R. 3123-1
-
-|
+Articles L. 3123-2-1, R. 3120-6 et R. 3123-1 |
 
 Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen
 
@@ -794,7 +652,7 @@ Décret n° 2005-1726 du 30 décembre 2005 relatif aux passeports |
 
 Délivrance de passeport (en France et à l'étranger) |
 
-Articles 1er, 6-1,8 et 17-1 |
+Articles 1er, 6-1, 8 et 17-1 |
 
 Décret n° 2010-569 du 28 mai 2010 relatif au fichier des personnes recherchées
 
@@ -802,7 +660,7 @@ Circulaire du 20 novembre 2012 relative à la décision judiciaire d'interdictio
 
 Instruction du 5 mai 2014 relative à la mesure administrative d'opposition à la sortie du territoire d'un mineur sans titulaire de l'autorité parentale |
 
-Mesure conservatoire d'opposition à la sortie du territoire de mineur (s) (OST) (à la demande d'un représentant légal du mineur) |
+Mesure conservatoire d'opposition à la sortie du territoire de mineur(s) (OST) (à la demande d'un représentant légal du mineur) |
 
 Article 2-III (3°) du décret n° 2010-569 du 28 mai 2010
 
