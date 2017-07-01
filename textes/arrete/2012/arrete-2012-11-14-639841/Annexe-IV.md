@@ -6,7 +6,7 @@ INFORMATIONS SUR LA CHAÎNE ALIMENTAIRE (ICA) - MODALITÉS SPÉCIFIQUES APPLICAB
 
 La nature des ICA à transmettre ainsi que leur délai de transmission par le détenteur et les marques à porter sur les animaux sont définis si après :
 
-A. - Lot d'animaux issus d'un élevage "plein air trichine" : les modalités de transmission sont précisées par instruction du ministre chargé de l'agriculture.
+A. - Si l'exploitation n'est pas officiellement reconnue comme appliquant des conditions d'hébergement contrôlées en ce qui concerne la présence de Trichinella conformément à l'annexe IV, chapitre I, point A, du règlement (CE) n° 2015/1375 de la Commission. L'information doit être transmise au moins vingt-quatre heures avant l'arrivée des animaux à l'abattoir.
 
 B. - Au moins un animal est susceptible de porter une aiguille cassée à l'issue d'un traitement réalisé en élevage : information à renseigner sur le document d'accompagnement des porcs pour l'abattoir accompagnant le lot expédié à l'abattoir ou cédé à un intermédiaire ; les porcs concernés portent une boucle ronde rouge à chaque oreille et un tatouage XXXXX ou XXXXXX aux deux épaules.
 
@@ -16,9 +16,9 @@ D. - Au moins un animal présente au moins un abcès et/ou une boiterie : inform
 
 E. - Lot de porcs présentant un risque qui a été notifié par l'administration : il fait l'objet de mesures de gestion particulières définies par instruction du ministre en charge de l'agriculture ou du préfet territorialement compétent ; transmission de l'information au moins vingt-quatre heures avant l'arrivée des animaux à l'abattoir les porcs concernés portent une marque rouge sur la tête à moins que tout le lot ne soit concerné.
 
-F. - Lot de porcs présentant un risque qui a été identifié par le détenteur et nécessitant des mesures de gestion à caractère exceptionnel : transmission de l'information au moins vingt-quatre heures avant l'arrivée des animaux à l'abattoir ; les porcs concernés portent une marque rouge sur la tête à moins que tout le lot ne soit concerné.
+F. - Lot de porcs présentant un risque avéré qui a été identifié par le détenteur et nécessitant des mesures de gestion : transmission de l'information au moins vingt-quatre heures avant l'arrivée des animaux à l'abattoir ; les porcs concernés portent une marque rouge sur la tête à moins que tout le lot ne soit concerné.
 
-Les informations sur la chaîne alimentaire dans la filière porcine sont transmises par le document d'accompagnement des porcs pour l'abattoir ou disponibles dans des bases de données nationales reconnues gérées par les professionnels ou par l'autorité compétente et consultable au moins vingt-quatre heures avant l'arrivée des porcs à l'abattoir, en fonction de la nature de l'ICA.
+G. - Au moins un animal a subi récemment un traitement pour lequel le délai d'attente “ viandes ” n'est pas terminé. Tout envoi d'un animal en abattoir sous délai d'attente suite à la réalisation récente d'un traitement médicamenteux étant interdit, cette ICA est transmise en cas d'envoi d'au moins un animal sous délai d'attente suite à un traitement médicamenteux vers un autre élevage. Les porcs concernés portent une marque rouge sur la tête.
 
 2. Supports de l'information et modalités de remplissage
 
@@ -35,8 +35,6 @@ En cas d'utilisation d'un document de format libre distinct du document de circu
 3. Circulation des ICA
 
 Chaque lot de porcins quittant un site d'élevage à destination de l'abattoir doit disposer d'un document accompagnant les porcs dont la partie relative aux ICA a été complétée par le détenteur des animaux, sans surcharge ni rature, à partir du registre d'élevage. La durée de validité des ICA figurant sur un document accompagnant les porcs débute à la date de chargement et court jusqu'à l'arrivée à l'abattoir des porcs auxquels se rapporte ce document.
-
-Un exemplaire de chaque document accompagnant les porcs avec la partie relative aux ICA transmis doit être conservé cinq ans par le détenteur dans son registre d'élevage.
 
 Dans le cas où le détenteur cède à un intermédiaire ou à un autre détenteur un porc ou un lot de porcs concernés par des ICA susceptibles de persister sur ces animaux jusqu'à leur abattage, ces ICA doivent être jointes au document d'accompagnement pour les porcs (document de chargement et de déchargement) et les animaux concernés, identifiés. Ces ICA sont à enregistrer dans le registre d'élevage de l'élevage d'accueil et à transmettre à l'abattoir au moment de l'abattage des porcs concernés.
 

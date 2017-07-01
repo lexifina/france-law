@@ -1,14 +1,14 @@
 # Article Annexe I
 
-ORIGINE DES INFORMATIONS SUR LA CHAÎNE ALIMENTAIRE
+LES INFORMATIONS SUR LA CHAÎNE ALIMENTAIRE
 
 Conformément au point 3 de la section III de l'annexe II du règlement (CE) n° 853/2004 susvisé, en fonction de la nature de l'ICA, les informations nécessaires sont disponibles sur l'un ou plusieurs des documents ou supports informatiques suivants :
 
-1. Pour les données définies au a, "relatives au statut de l'exploitation d'origine ou au statut régional sur le plan de la santé des animaux" : l'ASDA pour les bovins, les certificats sanitaires pour les animaux originaires d'un autre Etat membre ou d'un pays tiers, les bases de données nationales reconnues, gérées par les professionnels ou par l'autorité compétente, ou sur tout document défini par arrêté ou instruction du ministre chargé de l'agriculture en fonction de la situation sanitaire.
+1. Pour les données définies au a, "relatives au statut de l'exploitation d'origine ou au statut régional sur le plan de la santé des animaux et si l'exploitation n'est pas officiellement reconnue comme appliquant des conditions d'hébergement contrôlées en ce qui concerne la présence de Trichinella conformément à l'annexe IV, chapitre I, point A, du règlement (CE) n° 2015/1375 de la Commission": l'ASDA pour les bovins, le document d'accompagnement pour les porcins, les certificats sanitaires pour les animaux originaires d'un autre Etat membre ou d'un pays tiers, les bases de données nationales reconnues, gérées par les professionnels ou par l'autorité compétente, ou sur tout document défini par arrêté ou instruction du ministre chargé de l'agriculture en fonction de la situation sanitaire.
 
 2. Pour les données définies au b, "relatives à l'état sanitaire des animaux" : le registre d'élevage.
 
-3. Pour les données définies au c, "relatives aux médicaments ou autres traitements administrés aux animaux au cours d'une période déterminée et dont le temps d'attente est supérieur à zéro, ainsi que les dates d'administration de ces traitements et les temps d'attente" : le registre d'élevage, le document d'identification des équidés.
+3. Pour les données définies au c, "relatives aux médicaments ou autres traitements administrés aux animaux au cours d'une période déterminée et dont le temps d'attente est supérieur à zéro, ainsi que les dates d'administration de ces traitements et les temps d'attente" : le registre d'élevage, le document d'identification des équidés. Un engagement de l'éleveur à ne pas envoyer ses animaux sous délai d'attente de traitement médicamenteux à l'abattoir est inscrit au niveau de la signature sur l'ensemble des documents ICA des filières bovines, ovines/caprines et porcines sous la forme de la mention " je m'engage à ne pas envoyer, à l'abattoir, des animaux sous délai d'attente de traitement médicamenteux."
 
 4. Pour les données définies au d, "relatives à la survenue de maladies pouvant influencer la sécurité des viandes" : le registre d'élevage, les bases de données nationales reconnues gérées par les professionnels ou par l'autorité compétente.
 
