@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 35 de la convention collective est modifié comme suit :
+
+« Article   35
+
+Congés exceptionnels pour événements familiaux
+
+Conformément à l'article L. 3142-1 du code du travail, à l'occasion des circonstances de famille ci-après indiquées, il est accordé aux salariés, sans condition d'ancienneté, des congés exceptionnels payés ne donnant pas lieu à récupération :
+
+– 4   jours pour son mariage ou pour la conclusion d'un Pacs ;
+
+– 3   jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption (rappelons que ces jours d'absence ne se cumulent pas avec les congés accordés pour ce même enfant dans le cadre du congé de maternité) ;
+
+– 5   jours pour le décès d'un enfant ;
+
+– 1   jour pour le mariage d'un enfant ;
+
+– 3   jours pour le décès du conjoint, du partenaire lié par un Pacs, du concubin, du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une sœur ;
+
+– 2   jours pour l'annonce de la survenance d'un handicap chez l'enfant. »
