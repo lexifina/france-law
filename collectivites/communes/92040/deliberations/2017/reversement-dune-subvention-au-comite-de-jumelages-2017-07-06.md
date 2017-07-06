@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Reversement d’une subvention au Comité de Jumelages et de Relations Internationales dans le cadre de la coopération décentralisée avec la Ville de Dapaong
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-07-06
+- Matière : RELATIONS INTERNATIONALES ET TOURISME
+- Objet : Reversement d’une subvention au Comité de Jumelages et de Relations Internationales dans le cadre de la coopération décentralisée avec la Ville de Dapaong
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4OTUsInB1ciI6ImJsb2JfaWQifX0=--958bbe3fcdf49c7d00c5dd9e38bb15a352b0fbb8/060717_26.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
