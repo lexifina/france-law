@@ -8,9 +8,7 @@ Cas des câbles porteurs non repositionnés :
 
 Pour les installations fonctionnant moins de 500 heures par an, la périodicité des contrôles des câbles nécessitant une reprise de tension peut être adaptée avec l'accord du service de contrôle.
 
-CÂBLE OU ATTACHE ET ZONE CONCERNÉE
-
-|
+CÂBLE OU ATTACHE ET ZONE CONCERNÉE |
 
 CONTRÔLE
 
@@ -18,369 +16,101 @@ visuel par l'exploitant
 
 |
 
-CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ
+CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ |
 
-|
-
-Fréquence : valeurs en années
-
-|
-
-0
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-Par la suite
-
-|
-
-Câble porteur en section courante
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-Tous les 5 ans
-
-|
-
-Câble porteur à l'emplacement des cavaliers
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-Tous les 5 ans (1)
-
-|
-
-Câble porteur sur sabots de ligne
-
-|
-
-Mensuel
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-Tous les 5 ans
-
-|
-
-Câble porteur sur sabots de gare
-
-|
-
-Avec déplacement (2)
-
-|
-
-Mensuel
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
+Fréquence : valeurs en années |
 
-X
+0 |
 
-|
-
-Tous les 5 ans
-
-|
-
-Sans déplacement
-
-|
-
-Mensuel
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Tous les 20 ans
-
-|
-
-Câble porteur sur tambours d'ancrage
-
-|
-
-Avec sécurisation
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Le contrôle non destructif est remplacé par un contrôle visuel, sans déroulage, par un vérificateur agréé, tous les 20 ans
-
-|
-
-Sans sécurisation
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Tous les 20 ans
-
-|
-
-Câble de sécurisation
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
+1 |
 
-|
-
-|
-
-Tous les 20 ans
-
-|
-
-Câble porteur sur appui mobile
+2 |
 
-|
-
-Avec sécurisation
+3 |
 
-|
+4 |
 
-Annuel
+5 |
 
-|
+Par la suite |
 
-X
+Câble porteur en section courante |
 
-|
+Annuel |
 
-|
+X |
 
 |
 
-|
+X |
 
 |
 
 |
 
-Tous les 10 ans
+X |
 
-|
+Tous les 5 ans |
 
-Sans sécurisation
+Câble porteur à l'emplacement des cavaliers |
 
-|
+Annuel |
 
-Mensuel
+X |
 
 |
 
-X
+X |
 
 |
 
 |
 
-X
+X |
 
-|
+Tous les 5 ans (1) |
 
-|
+Câble porteur sur sabots de ligne |
 
-|
+Mensuel |
 
-X
+X |
 
 |
 
-Tous les 5 ans
+X |
 
 |
-
-Câble de sécurisation
 
 |
 
-Annuel
+X |
 
-|
+Tous les 5 ans |
 
-X
+Câble porteur sur sabots de gare |
 
-|
+Avec déplacement (2) |
 
-|
+Mensuel |
 
-|
+X |
 
 |
 
-|
+X |
 
 |
-
-Tous les 5 ans
 
 |
 
-Câble porteur situé entre deux appuis fixes ou entre un appui fixe et un ancrage fixe, sur lequel aucun véhicule ne se déplace (y compris les zones de câble situées sous les mordaches)
+X |
 
-|
-
-|
+Tous les 5 ans |
 
-Annuel
+Sans déplacement |
 
-|
+Mensuel |
 
 X |
 
@@ -394,21 +124,145 @@ X |
 
 |
 
-Tous les 20 ans
+Tous les 20 ans |
+
+Câble porteur sur tambours d'ancrage |
+
+Avec sécurisation |
+
+Annuel |
+
+X |
 
 |
 
-Culot et zone du câble porteur située en sortie du culot
+|
 
 |
 
-Annuel
+|
 
 |
 
-Sans objet
+Le contrôle non destructif est remplacé par un contrôle visuel, sans déroulage, par un vérificateur agréé, tous les 20 ans |
+
+Sans sécurisation |
+
+Annuel |
+
+X |
 
 |
+
+|
+
+|
+
+|
+
+|
+
+Tous les 20 ans |
+
+Câble de sécurisation |
+
+Annuel |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tous les 20 ans |
+
+Câble porteur sur appui mobile |
+
+Avec sécurisation |
+
+Annuel |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tous les 10 ans |
+
+Sans sécurisation |
+
+Mensuel |
+
+X |
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+Tous les 5 ans |
+
+Câble de sécurisation |
+
+Annuel |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tous les 5 ans |
+
+Câble porteur situé entre deux appuis fixes ou entre un appui fixe et un ancrage fixe, sur lequel aucun véhicule ne se déplace (y compris les zones de câble situées sous les mordaches) |
+
+|
+
+Annuel |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tous les 20 ans |
+
+Culot et zone du câble porteur située en sortie du culot |
+
+Annuel |
+
+Sans objet |
 
 (1) Les zones du câble aux emplacements des cavaliers peuvent n'être contrôlées que tous les 10 ans si tous les 5 ans on procède au déplacement des cavaliers et au contrôle visuel du câble dans les conditions suivantes :
 
@@ -444,9 +298,7 @@ Pour les appareils dont la cessation définitive d'exploitation est programmée 
 
 II. - Câbles tracteurs et leurs culots
 
-ZONE DU CÂBLE OU DU COMPOSANT
-
-|
+ZONE DU CÂBLE OU DU COMPOSANT |
 
 CONTRÔLE VISUEL
 
@@ -454,283 +306,169 @@ par l'exploitant
 
 |
 
-CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ
+CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ |
 
-|
-
-Fréquence : valeurs en années
-
-|
-
-0
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-6
-
-|
-
-7
-
-|
-
-8
-
-|
-
-9
-
-|
-
-10
-
-|
-
-Par la suite
-
-|
-
-Câble tracteur en section courante
-
-|
-
-Hors zone située sur tambour ou sous attache fixe
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
+Fréquence : valeurs en années |
 
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
+0 |
 
-X
-
-|
+1 |
 
-Tous les ans
+2 |
 
-|
+3 |
 
-Câble tracteur sous attache fixe
+4 |
 
-|
+5 |
 
-Après déplacement de l'attache
+6 |
 
-|
+7 |
 
-X
+8 |
 
-|
+9 |
 
-X
+10 |
 
-|
+Par la suite |
 
-|
+Câble tracteur en section courante |
 
-|
+Hors zone située sur tambour ou sous attache fixe |
 
-X
+Annuel |
 
-|
+X |
 
-|
+X |
 
 |
 
-X
-
 |
 
-|
+X |
 
 |
 
-X
-
 |
 
-Tous les ans
+X |
 
 |
 
-Câble tracteur sur épissure
-
 |
 
-Mensuel
+X |
 
-|
+Tous les ans |
 
-X
+Câble tracteur sous attache fixe |
 
-|
+Après déplacement de l'attache |
 
-X
+X |
 
-|
+X |
 
 |
 
 |
 
-X
-
-|
+X |
 
 |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
+X |
 
-X
+Tous les ans |
 
-|
+Câble tracteur sur épissure |
 
-Tous les ans
+Mensuel |
 
-|
+X |
 
-Culot démontable
+X |
 
 |
 
-Culot et zone du câble en sortie du culot
-
 |
 
-Mensuel
+X |
 
 |
-
-Sans objet
 
 |
 
-Cône après extraction de sa douille et câble sur un pas de câblage
+X |
 
 |
 
-Annuel
-
 |
 
-Sans objet
+X |
 
-|
+Tous les ans |
 
-Culot non démontable
+Culot démontable |
 
-|
+Culot et zone du câble en sortie du culot |
 
-Culot et zone du câble en sortie du culot
+Mensuel |
 
-|
+Sans objet |
 
-Mensuel
+Cône après extraction de sa douille et câble sur un pas de câblage |
 
-|
+Annuel |
 
-Sans objet
+Sans objet |
 
-|
+Culot non démontable |
 
-Câble tracteur sur tambour d'ancrage
+Culot et zone du câble en sortie du culot |
 
-|
+Mensuel |
 
-A l'occasion de chaque inspection pluri -annuelle du chariot
+Sans objet |
 
-|
+Câble tracteur sur tambour d'ancrage |
 
-Annuel
+A l'occasion de chaque inspection pluri -annuelle du chariot |
 
-|
+Annuel |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
-
-X
-
-|
+X |
 
 |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
-
-X
-
-|
+X |
 
 |
 
@@ -748,15 +486,13 @@ Dans le cas des téléphériques bicâbles à va-et-vient monotracteur sans frei
 
 - avant remise en service après un arrêt d'exploitation de trois mois ou plus.
 
-En outre, le câble tracteur est soumis à un contrôle non destructif sur toute sa longueur une fois par an par un contrôleur ayant la qualification de niveau 2 de la norme NF EN12927.
+En outre, le câble tracteur est soumis à un contrôle non destructif sur toute sa longueur une fois par an par un vérificateur agréé au titre de contrôleur de câbles.
 
 Ces intervalles doivent être diminués si, lors des contrôles, l'endommagement constaté du câble atteint ou dépasse la moitié de l'endommagement admissible selon l'article 59.
 
 III. - Câbles porteurs-tracteurs
 
-ZONE DU CÂBLE OU DU COMPOSANT
-
-|
+ZONE DU CÂBLE OU DU COMPOSANT |
 
 CONTRÔLE VISUEL
 
@@ -764,141 +500,83 @@ par l'exploitant
 
 |
 
-CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ
+CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ |
+
+Fréquence : valeurs en années |
+
+0 |
+
+1 |
+
+2 |
+
+3 |
+
+4 |
+
+5 |
+
+6 |
+
+7 |
+
+8 |
+
+9 |
+
+Par la suite |
+
+Câble porteur - tracteur en section courante |
+
+Télésiège à attaches fixes |
+
+Après déplacement des attaches |
+
+X |
+
+X |
 
 |
 
-Fréquence : valeurs en années
-
-|
-
-0
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-6
-
-|
-
-7
-
-|
-
-8
-
-|
-
-9
-
-|
-
-Par la suite
-
-|
-
-Câble porteur - tracteur en section courante
-
-|
-
-Télésiège à attaches fixes
-
-|
-
-Après déplacement des attaches
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
+X |
 
-X
+Tous les 3 ans |
 
-|
+Autres téléphériques |
 
-|
+Annuel |
 
-|
+X |
 
-X
-
-|
-
-Tous les 3 ans
+X |
 
 |
 
-Autres téléphériques
-
-|
-
-Annuel
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
+X |
 
 Tous les 3 ans jusqu'à la
 
@@ -906,57 +584,39 @@ Tous les 3 ans jusqu'à la
 
 |
 
-Câble porteur - tracteur sur épissure
+Câble porteur - tracteur sur épissure |
+
+|
+
+Mensuel |
+
+X |
+
+X |
+
+|
+
+X |
 
 |
 
 |
 
-Mensuel
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
 |
 
-X
+X |
 
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-Tous les ans
-
-|
+Tous les ans |
 
 IV. - Câbles de tension, culots et câbles de sécurisation des câbles de tension
 
 Au sens du présent arrêté, un câble de tension est toujours sur appui mobile. A contrario, la substitution d'une partie d'un câble porteur à renvoi direct au contrepoids ne conduit pas à considérer la partie de câble substituée comme étant un câble de tension.
 
-TYPE DE CÂBLE OU ATTACHE ET ZONE CONCERNÉE
-
-|
+TYPE DE CÂBLE OU ATTACHE ET ZONE CONCERNÉE |
 
 CONTRÔLE VISUEL
 
@@ -964,131 +624,69 @@ par l'exploitant
 
 |
 
-CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ
+CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ |
 
-|
-
-Fréquence : valeurs en années
-
-|
-
-0
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-6
-
-|
-
-7
-
-|
-
-8
-
-|
-
-9
-
-|
-
-10
-
-|
-
-Par la suite
-
-|
-
-Câble clos
-
-|
+Fréquence : valeurs en années |
 
-Non sécurisé
+0 |
 
-|
+1 |
 
-Mensuel
+2 |
 
-|
+3 |
 
-X
+4 |
 
-|
+5 |
 
-|
+6 |
 
-X
+7 |
 
-|
+8 |
 
-|
+9 |
 
-|
+10 |
 
-X
+Par la suite |
 
-|
+Câble clos |
 
-|
+Non sécurisé |
 
-|
+Mensuel |
 
-|
+X |
 
 |
 
-X
+X |
 
 |
-
-Tous les 5 ans
 
 |
 
-Sécurisé
+X |
 
 |
 
-Annuel
-
 |
 
-X
-
 |
 
 |
 
-|
+X |
 
-|
+Tous les 5 ans |
 
-|
+Sécurisé |
 
-|
+Annuel |
 
-|
+X |
 
 |
 
@@ -1096,37 +694,27 @@ X
 
 |
 
-X
-
 |
-
-Tous les 10 ans
 
 |
 
-Câble de sécurisation
-
 |
-
-Annuel, avec contrôle de la tension (2)
 
 |
 
-X
-
 |
 
 |
 
-|
+X |
 
-|
+Tous les 10 ans |
 
-|
+Câble de sécurisation |
 
-X
+Annuel, avec contrôle de la tension (2) |
 
-|
+X |
 
 |
 
@@ -1136,69 +724,55 @@ X
 
 |
 
-X
+X |
 
 |
-
-Tous les 5 ans
 
 |
 
-Câble multi-torons
-
 |
 
-Non sécurisé
-
 |
 
-Mensuel
+X |
 
-|
+Tous les 5 ans |
 
-X
+Câble multi-torons |
 
-|
+Non sécurisé |
 
-|
+Mensuel |
 
-|
+X |
 
 |
 
 |
 
-X (1)
-
 |
 
 |
 
-|
+X (1) |
 
 |
 
 |
 
-X (1)
-
 |
 
-Tous les 5 ans
-
 |
-
-Sécurisé
 
-|
+X (1) |
 
-Annuel
+Tous les 5 ans |
 
-|
+Sécurisé |
 
-X
+Annuel |
 
-|
+X |
 
 |
 
@@ -1224,19 +798,13 @@ X
 
 |
 
-Tous les 10 ans
+Tous les 10 ans |
 
-|
+Câble de sécurisation |
 
-Câble de sécurisation
+Annuel, avec contrôle de la tension (2) |
 
-|
-
-Annuel, avec contrôle de la tension (2)
-
-|
-
-X
+X |
 
 |
 
@@ -1246,9 +814,7 @@ X
 
 |
 
-|
-
-X
+X |
 
 |
 
@@ -1258,43 +824,23 @@ X
 
 |
 
-|
+X |
 
-X
+Tous les 5 ans |
 
-|
+Culot d'un câble de tension d'un câble tracteur ou porteur, et zone du câble en sortie du culot |
 
-Tous les 5 ans
+Non sécurisé |
 
-|
+Mensuel |
 
-Culot d'un câble de tension d'un câble tracteur ou porteur, et zone du câble en sortie du culot
+Sans objet |
 
-|
+Sécurisé |
 
-Non sécurisé
+Annuel |
 
-|
-
-Mensuel
-
-|
-
-Sans objet
-
-|
-
-Sécurisé
-
-|
-
-Annuel
-
-|
-
-Sans objet
-
-|
+Sans objet |
 
 (1) Ce contrôle n'est pas requis pour les téléphériques monocâbles à mouvement unidirectionnel.
 
