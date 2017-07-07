@@ -2,28 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 29 juin 2017 :
-
-Paris-Dzaoudzi ;
-
-Paris-Dakar (Sénégal).
-
-Jusqu'au 31 juillet 2017 :
-
-Paris-Antananarivo (Madagascar) ;
-
-Paris-Nosy Bé (Madagascar) ;
-
-Paris-La Romana (République dominicaine) ;
-
-Paris-Puerto Plata (République dominicaine) ;
-
-Paris-Punta Cana (République dominicaine) ;
-
-Paris-Saint-Domingue (République dominicaine) ;
-
-Paris-Samana (République dominicaine).
-
 Jusqu'au 1er octobre 2017 :
 
 Paris-Cancún (Mexique) ;
@@ -129,3 +107,9 @@ A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
 - Paris-La Havane (Cuba), dans la limite de deux fréquences hebdomadaires ;
 
 - Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons Paris-Santiago de Cuba (Cuba), Paris-Santa Clara (Cuba) et Paris-Varadero (Cuba).
+
+Jusqu'au 31 mai 2022 :
+
+- Paris-Antananarivo (Madagascar) ;
+
+- Paris-Dakar (Sénégal).
