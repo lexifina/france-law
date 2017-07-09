@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord s'applique aux responsables de CRAF et aux conseillers jeunes et entreprises des associations gestionnaires de CFA du bâtiment et des travaux publics entrant dans le champ de l'accord collectif du 22 mars 1982 portant statut du personnel des associations chargées de la gestion des CFA du bâtiment relevant du CCCA-BTP, étendu par arrêté ministériel du 25 octobre 2004.
