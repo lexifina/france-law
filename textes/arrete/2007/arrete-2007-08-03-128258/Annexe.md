@@ -108,6 +108,10 @@ A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
 
 - Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons Paris-Santiago de Cuba (Cuba), Paris-Santa Clara (Cuba) et Paris-Varadero (Cuba).
 
+Jusqu'au 30 avril 2022, et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie française disposant des autorisations nécessaires :
+
+Paris-Beyrouth (Liban).
+
 Jusqu'au 31 mai 2022 :
 
 - Paris-Antananarivo (Madagascar) ;
