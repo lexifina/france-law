@@ -20,7 +20,9 @@ Points NBI |
 
 Cabinet du ministre. |
 
-Chef du bureau des cabinets. |
+Chef du bureau des cabinets.
+
+|
 
 60 |
 
@@ -102,11 +104,11 @@ Chef du bureau des sapeurs-pompiers professionnels. |
 
 30 |
 
-Chef de la base de sécurité civile. |
+Chef des services administratifs et du soutien au bureau des moyens aériens de la sous-direction des moyens nationaux. |
 
 30 |
 
-Chef du groupement d'avions de la sécurité civile. |
+Adjoint au chef du bureau des moyens aériens à la sous-direction des moyens nationaux. |
 
 30 |
 
@@ -232,7 +234,7 @@ Chef de cabinet du directeur général de la police nationale. |
 
 30 |
 
-Chef de la division de l'organisation des concours et examens professionnels.
+Chef de la division de l'organisation des concours et des dispositifs promotionnels à la sous-direction du recrutement et des dispositifs promotionnels de la direction centrale du recrutement et de la formation de la police nationale.
 
 |
 
@@ -248,11 +250,11 @@ Chef du bureau du pilotage des structures de soutien. |
 
 |
 
-Chef de la division de la programmation. |
+Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
 
 50 |
 
-Chef de la division de la formation des personnels administratifs, techniques et scientifiques. |
+Chef de la division de la formation aux fonctions administratives, techniques et scientifiques à la sous-direction du développement des compétences de la direction centrale du recrutement et de la formation de la police nationale. |
 
 50 |
 
@@ -261,6 +263,12 @@ Adjoint au chef du bureau des affaires juridiques et statutaires. |
 30 |
 
 Chef du bureau des politiques sociales. |
+
+30 |
+
+Chef du pôle administratif et technique à la sous-direction des méthodes et de l'appui de la direction centrale du recrutement et de la formation de la police nationale.
+
+|
 
 30 |
 
@@ -304,13 +312,13 @@ Chef du bureau du personnel civil. |
 
 Délégation à la sécurité routière. |
 
-Chef du bureau du permis de conduire.
+Chef du bureau de la réglementation du permis de conduire et de l'organisation des examens à la sous-direction de l'éducation routière et du permis de conduire.
 
 |
 
 30 |
 
-Chef du bureau des usagers de la route et de la réglementation des véhicules.
+Chef du bureau national de l'immatriculation des véhicules à la sous-direction de la protection des usagers de la route.
 
 |
 
@@ -318,11 +326,13 @@ Chef du bureau des usagers de la route et de la réglementation des véhicules.
 
 |
 
-Chef du service du fichier national des permis de conduire. |
+Chef du bureau national des droits à conduire à la sous-direction de l'éducation routière et du permis de conduire.
+
+|
 
 50 |
 
-Chef du bureau de la législation et de la réglementation.
+Chef du bureau de la législation et de la réglementation à la sous-direction de la protection des usagers de la route.
 
 |
 

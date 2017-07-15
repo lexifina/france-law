@@ -42,7 +42,7 @@ Directeur des ressources humaines.
 
 |
 
-Délégué régional (délégation régionale de Toulouse).
+Délégué territorial (délégation territoriale de Toulouse).
 
 |
 

@@ -228,6 +228,16 @@ Nord.
 
 |
 
+62 |
+
+Pas-de-Calais.
+
+|
+
+1 |
+
+30 |
+
 67
 
 |
@@ -260,6 +270,16 @@ Rhône.
 
 |
 
+76 |
+
+Seine-Maritime.
+
+|
+
+1 |
+
+30 |
+
 77
 
 |
@@ -291,6 +311,16 @@ Yvelines.
 30
 
 |
+
+91 |
+
+Essonne.
+
+|
+
+1 |
+
+30 |
 
 95
 
@@ -330,22 +360,6 @@ Points NBI
 
 |
 
-63
-
-|
-
-Institut national de la formation de Clermont-Ferrand.
-
-|
-
-Secrétaire général.
-
-|
-
-30
-
-|
-
 69
 
 |
@@ -370,7 +384,7 @@ Ecole nationale de police de Nîmes.
 
 |
 
-Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation interrégionale au recrutement et à la formation de la zone Sud.
+Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud.
 
 |
 
