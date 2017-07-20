@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — COMPTABILITE COMMUNALE - SERVICES DE L'EAU ET DE L'ASSAINISSEMENT - MODIFICATION DE L'AFFECTATION DES RESULTATS POUR L'EXERCICE 2016 (DELIBERATION DL.2017-255) - BUDGETS SUPPLEMENTAIRES POUR L'EXERCICE 2017
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-07-20
+- Séance : Conseil Municipal 1CA
+- Objet : COMPTABILITE COMMUNALE - SERVICES DE L'EAU ET DE L'ASSAINISSEMENT - MODIFICATION DE L'AFFECTATION DES RESULTATS POUR L'EXERCICE 2016 (DELIBERATION DL.2017-255) - BUDGETS SUPPLEMENTAIRES POUR L'EXERCICE 2017
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8605-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
