@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — TRAITEMENT, CONDITIONNEMENT, ENTRETIEN, CONSERVATION, TRANSPORT ET PRESTATIONS DE CONSERVATION-RESTAURATION DES COLLECTIONS DE TEXTILES, CUIRS ET DE LEURS ACCESSOIRES - SIGNATURE DU MARCHE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-07-20
+- Séance : Conseil Municipal 1CA
+- Objet : TRAITEMENT, CONDITIONNEMENT, ENTRETIEN, CONSERVATION, TRANSPORT ET PRESTATIONS DE CONSERVATION-RESTAURATION DES COLLECTIONS DE TEXTILES, CUIRS ET DE LEURS ACCESSOIRES - SIGNATURE DU MARCHE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8609-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
