@@ -4,7 +4,7 @@ a) Les modèles de registre d'armurerie introduits par l'arrêté du 14 août 19
 
 b) Les modèles de demande et de titre d'acquisition et de détention entrant en vigueur à compter du 6 septembre 2013 sont les suivants :
 
-1. Déclaration d'ouverture de commerce visée à l'article 74 du décret n° 2013-700 du 30 juillet 2013 modifié
+1. Déclaration d'ouverture de commerce mentionnée à l'article R. 313-27 du code de la sécurité intérieure
 
 2. Demande d'autorisation de fabrication ou de commerce ou d'intermédiation de matériels de guerre, armes et munitions (personne morale)
 
@@ -38,6 +38,20 @@ b) Les modèles de demande et de titre d'acquisition et de détention entrant en
 
 17. Attestation délivrée par la Fédération française de tir au tireur sportif pratiquant le tir sportif de vitesse
 
+c) Les modèles de demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B sont les suivants :
+
+1. Demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B (personne morale).
+
+2. Demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B (personne physique).
+
 Vous pouvez consulter les modèles dans le JO n° 206 du 05/09/2013 texte numéro 19 à l'adresse suivante :
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130905&numTexte=19&pageDebut=14989&pageFin=15019
+
+et dans le JO n° 169 du 21 juillet 2017, texte n° 4, à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000035250738
+
+NOTA :
+
+Aux termes du 2° de l'article 3 de l'arrêté du 13 juillet 2017, les 2 et 3 du b de l'annexe de l'arrêté du 14 août 1995 sont abrogés en tant qu'ils concernent les modèles de demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B.
