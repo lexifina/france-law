@@ -18,7 +18,7 @@ Corps des attachés d'administration hospitalière |
 
 Attaché principal |
 
-Non défini |
+9 % |
 
 Non défini |
 
@@ -64,7 +64,7 @@ Corps des adjoints administratifs |
 
 Adjoint administratif de 1re classe |
 
-Non défini |
+6 % |
 
 Non défini |
 
@@ -72,7 +72,7 @@ Non défini |
 
 Adjoint administratif principal de 2e classe |
 
-Non défini |
+9 % |
 
 Non défini |
 
@@ -80,7 +80,7 @@ Non défini |
 
 Adjoint administratif principal de 1re classe |
 
-Non défini |
+9 % |
 
 Non défini |
 
@@ -138,7 +138,7 @@ Corps des personnels ouvriers |
 
 Ouvrier professionnel qualifié |
 
-Non défini |
+6 % |
 
 Non défini |
 
@@ -146,7 +146,7 @@ Non défini |
 
 Maître ouvrier |
 
-Non défini |
+11 % |
 
 Non défini |
 
@@ -154,7 +154,7 @@ Non défini |
 
 Maître ouvrier principal |
 
-Non défini |
+15 % |
 
 Non défini |
 
@@ -164,7 +164,7 @@ Corps de la maîtrise ouvrière |
 
 Agent de maîtrise principal |
 
-Non défini |
+15 % |
 
 Non défini |
 
@@ -216,17 +216,17 @@ Aide-soignant de classe supérieure |
 
 10 % |
 
-10 % |
+Non défini |
 
-10 % |
+Non défini |
 
 Aide-soignant de classe exceptionnelle |
 
 15 % |
 
-15 % |
+Non défini |
 
-15 % |
+Non défini |
 
 Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988 |
 
