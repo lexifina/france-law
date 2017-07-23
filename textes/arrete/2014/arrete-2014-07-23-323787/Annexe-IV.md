@@ -2,79 +2,23 @@
 
 Epreuves du concours prévu au 1° de l'article 8 du décret susvisé (ouvert aux majors, aux adjudants-chefs et aux adjudants de gendarmerie inscrits au tableau d'avancement).
 
-I. - Epreuves d'admissibilité
+I.-Epreuve d'admissibilité :
 
-1° Epreuve de culture générale (durée : 4 heures ; coefficient 3) :
-
-Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
-
-Elle consiste à rédiger, avec ou sans l'aide d'une documentation, une dissertation sur une question d'intérêt général ou d'actualité.
-
-Les sujets portent sur des idées ou des faits dont la connaissance est indispensable à la compréhension du monde moderne.
-
-2° Epreuve de connaissances professionnelles (durée : 3 heures ; coefficient 2) :
+Epreuve de connaissances professionnelles (durée : 3 heures ; coefficient 2).
 
 Cette épreuve consiste à évaluer les connaissances du candidat sur le service, l'organisation et l'administration de la gendarmerie nationale et à déterminer son aptitude à formuler des réponses synthétiques, claires et objectives sur des questions professionnelles transverses nécessitant la connaissance d'un certain nombre de textes.
 
 L'épreuve porte sur cinq questions qui appellent des réponses ne dépassant pas une demi-page.
 
-II. - Epreuves d'admission
-
-1° Entretien oral avec le jury (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 4) :
-
-Cet entretien de 30 minutes se compose d'un exposé suivi d'un échange avec le jury.
-
-a) Exposé (durée : 10 minutes ; préparation : 20 minutes) :
-
-Il s'agit de présenter un sujet tiré au sort portant sur l'un des textes se rattachant aux thèmes suivants :
-
-i) Les principaux enjeux de sécurité intérieure ;
-
-ii) Le cadre constitutionnel, légal et réglementaire encadrant l'action, l'organisation et l'emploi des unités de la gendarmerie nationale :
-
-- les principes des libertés publiques : liberté d'aller et venir, respect de la vie privée, liberté de réunion ;
-
-- la législation et la réglementation relatives à l'ordre public ;
-
-- les principes législatifs et réglementaires régissant l'informatique, les fichiers et les libertés ;
-
-- les statuts particuliers des militaires de la gendarmerie nationale ;
-
-- la représentation et la participation au sein de la gendarmerie nationale ;
-
-- la notation des militaires de la gendarmerie nationale ;
-
-- la mission de renseignement de la gendarmerie nationale ;
-
-- les règles relatives à l'armement en gendarmerie ;
-
-- la logistique en gendarmerie ;
-
-- les dispositions relatives aux plans de secours ;
-
-iii) La connaissance des institutions et des partenaires de la gendarmerie nationale :
-
-- la connaissance des institutions de la Ve République ;
-
-- les institutions étatiques déconcentrées ;
-
-- les collectivités locales décentralisées (conseils régionaux, conseils généraux, communautés de communes) ;
-
-- le rôle des maires en matière de sécurité et d'ordre publics ;
-
-- les dispositifs territoriaux de sécurité et de coopération pour la prévention et la lutte contre la délinquance ;
-
-- le Défenseur des droits.
-
-Après l'exposé du sujet principal tiré au sort et préparé pendant 20 minutes, les candidats peuvent être également interrogés sur plusieurs autres sujets se rattachant aux thèmes énumérés ci-dessus de manière à ce que leurs connaissances d'ensemble soient objectivement évaluées.
-
 La liste précise des textes à connaître est diffusée annuellement.
 
-b) Echange avec le jury (durée : 20 minutes, sans préparation).
+II. - Epreuves d'admission
 
-Il a pour objectif d'évaluer la capacité du candidat à intégrer les exigences éthiques et comportementales propres à l'état d'officier, à juger de sa motivation, de son niveau d'expérience, de sa culture et de son ouverture d'esprit ainsi que son aptitude à occuper les emplois qui pourront lui être confiés.
+1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : 30 minutes, sans préparation ; coefficient 4).
 
-Pour cet échange, le président du jury et, le cas échéant, les groupes d'examinateurs disposent, à titre indicatif, du dossier du candidat.
+Cette épreuve consiste en un entretien avec le jury s'appuyant sur le dossier professionnel du candidat déclaré admissible.
+
+L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de sous-officier de gendarmerie. A partir du dossier professionnel du candidat, le jury a toute latitude pour élargir la discussion.
 
 2° Epreuve sportive : course de demi-fond (coefficient 1) :
 
@@ -100,494 +44,248 @@ FEMME
 
 |
 
-20
+20 |
 
-|
+12'30“ |
 
-12'30“
+15'30“ |
 
-|
+19,5 |
 
-15'30“
+12'35“ |
 
-|
+15'35“ |
 
-19,5
+19 |
 
-|
+12'43“ |
 
-12'35“
+15'43“ |
 
-|
+18,5 |
 
-15'35“
+12'51“ |
 
-|
+15'51“ |
 
-19
+18 |
 
-|
+13'00“ |
 
-12'43“
+16'00“ |
 
-|
+17,5 |
 
-15'43“
+13'10“ |
 
-|
+16'10“ |
 
-18,5
+17 |
 
-|
+13'20“ |
 
-12'51“
+16'20“ |
 
-|
+16,5 |
 
-15'51“
+13'35“ |
 
-|
+16'35“ |
 
-18
+16 |
 
-|
+13'50“ |
 
-13'00“
+16'50“ |
 
-|
+15,5 |
 
-16'00“
+14'05“ |
 
-|
+17'05“ |
 
-17,5
+15 |
 
-|
+14'20“ |
 
-13'10“
+17'20“ |
 
-|
+14,5 |
 
-16'10“
+14'35“ |
 
-|
+17'35“ |
 
-17
+14 |
 
-|
+14'50“ |
 
-13'20“
+17'50“ |
 
-|
+13,5 |
 
-16'20“
+15'05“ |
 
-|
+18'05“ |
 
-16,5
+13 |
 
-|
+15'20“ |
 
-13'35“
+18'20“ |
 
-|
+12,5 |
 
-16'35“
+15'35“ |
 
-|
+18'35“ |
 
-16
+12 |
 
-|
+15'50“ |
 
-13'50“
+18'50“ |
 
-|
+11,5 |
 
-16'50“
+16'05“ |
 
-|
+19'05“ |
 
-15,5
+11 |
 
-|
+16'20“ |
 
-14'05“
+19'20“ |
 
-|
+10,5 |
 
-17'05“
+16'35“ |
 
-|
+19'35“ |
 
-15
+10 |
 
-|
+16'50“ |
 
-14'20“
+19'50“ |
 
-|
+9,5 |
 
-17'20“
+17'05“ |
 
-|
+20'05“ |
 
-14,5
+9 |
 
-|
+17'20“ |
 
-14'35“
+20'20“ |
 
-|
+8,5 |
 
-17'35“
+17'40“ |
 
-|
+20'40“ |
 
-14
+8 |
 
-|
+18'00“ |
 
-14'50“
+21'00“ |
 
-|
+7,5 |
 
-17'50“
+18'20“ |
 
-|
+21'20“ |
 
-13,5
+7 |
 
-|
+18'40“ |
 
-15'05“
+21'40“ |
 
-|
+6,5 |
 
-18'05“
+19'00“ |
 
-|
+22'00“ |
 
-13
+6 |
 
-|
+19'20“ |
 
-15'20“
+22'20“ |
 
-|
+5,5 |
 
-18'20“
+19'40“ |
 
-|
+22'40“ |
 
-12,5
+5 |
 
-|
+20'00“ |
 
-15'35“
+23'00“ |
 
-|
+4,5 |
 
-18'35“
+20'20“ |
 
-|
+23'20“ |
 
-12
+4 |
 
-|
+20'40“ |
 
-15'50“
+23'40“ |
 
-|
+3,5 |
 
-18'50“
+21'00“ |
 
-|
+24'00“ |
 
-11,5
+3 |
 
-|
+21'20“ |
 
-16'05“
+24'20“ |
 
-|
+2,5 |
 
-19'05“
+21'40“ |
 
-|
+24'40“ |
 
-11
+2 |
 
-|
+22'00“ |
 
-16'20“
+25'00“ |
 
-|
+1,5 |
 
-19'20“
+22'20“ |
 
-|
+25'20“ |
 
-10,5
+1 |
 
-|
+22'40“ |
 
-16'35“
+25'40“ |
 
-|
+0,5 |
 
-19'35“
+23'00“ |
 
-|
+26'00“ |
 
-10
+0 |
 
-|
+> 23'00“ |
 
-16'50“
-
-|
-
-19'50“
-
-|
-
-9,5
-
-|
-
-17'05“
-
-|
-
-20'05“
-
-|
-
-9
-
-|
-
-17'20“
-
-|
-
-20'20“
-
-|
-
-8,5
-
-|
-
-17'40“
-
-|
-
-20'40“
-
-|
-
-8
-
-|
-
-18'00“
-
-|
-
-21'00“
-
-|
-
-7,5
-
-|
-
-18'20“
-
-|
-
-21'20“
-
-|
-
-7
-
-|
-
-18'40“
-
-|
-
-21'40“
-
-|
-
-6,5
-
-|
-
-19'00“
-
-|
-
-22'00“
-
-|
-
-6
-
-|
-
-19'20“
-
-|
-
-22'20“
-
-|
-
-5,5
-
-|
-
-19'40“
-
-|
-
-22'40“
-
-|
-
-5
-
-|
-
-20'00“
-
-|
-
-23'00“
-
-|
-
-4,5
-
-|
-
-20'20“
-
-|
-
-23'20“
-
-|
-
-4
-
-|
-
-20'40“
-
-|
-
-23'40“
-
-|
-
-3,5
-
-|
-
-21'00“
-
-|
-
-24'00“
-
-|
-
-3
-
-|
-
-21'20“
-
-|
-
-24'20“
-
-|
-
-2,5
-
-|
-
-21'40“
-
-|
-
-24'40“
-
-|
-
-2
-
-|
-
-22'00“
-
-|
-
-25'00“
-
-|
-
-1,5
-
-|
-
-22'20“
-
-|
-
-25'20“
-
-|
-
-1
-
-|
-
-22'40“
-
-|
-
-25'40“
-
-|
-
-0,5
-
-|
-
-23'00“
-
-|
-
-26'00“
-
-|
-
-0
-
-|
-
-> 23'00“
-
-|
-
-> 26'00“
-
-|
+> 26'00“ |

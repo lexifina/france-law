@@ -16,7 +16,9 @@ I. - Epreuve de natation
 
 Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné.
 
-Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreilles. Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible.
+Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreilles.
+
+Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible.
 
 II. - Epreuve de course de demi-fond
 
@@ -46,7 +48,7 @@ Il s'agit d'exercer des flexions simultanées des bras en pronation jusqu'à ce 
 
 b) Appuis faciaux :
 
-En appui facial, corps tendu, il s'agit de fléchir les bras de telle sorte que la poitrine touche une cale (de 10 centimètres de haut pour les hommes et de 20 centimètres de haut pour les femmes) et de revenir à la position en appui, membres complètement tendus, cela sans interruption.
+En appui facial, corps tendu, il s'agit de fléchir les bras de telle sorte que la poitrine touche une cale (de 10 centimètres de haut) et de revenir à la position en appui, membres complètement tendus, cela sans interruption.
 
 Seuls les mouvements exécutés correctement (corps rectiligne) sont comptés.
 
@@ -66,922 +68,472 @@ FEMME
 
 |
 
-Tractions
+Tractions |
 
-|
+Abdominaux |
 
-Abdominaux
-
-|
-
-Appuis faciaux
-
-|
+Appuis faciaux |
 
 Course
 
-3 000 m
-
-|
+3 000 m |
 
 Natation
 
-50 m
+50 m |
 
-|
+Tractions |
 
-Tractions
+Abdominaux |
 
-|
-
-Abdominaux
-
-|
-
-Appuis faciaux
-
-|
+Appuis faciaux |
 
 Course
 
-3 000 m
-
-|
+3 000 m |
 
 Natation
 
-50 m
+50 m |
 
-|
-
-20
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-10'29”
-
-|
-
-29”6
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-12'58”
-
-|
-
-36”2
-
-|
-
-19
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-10'41”
-
-|
-
-30”2
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-13'16”
-
-|
-
-37”2
-
-|
-
-18
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-10'53”
-
-|
-
-30”8
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-13'37”
-
-|
-
-38”4
-
-|
-
-17
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-11'06”
-
-|
-
-31”6
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-13'59”
-
-|
-
-39”7
-
-|
-
-16
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-11'21”
-
-|
-
-32”3
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-14'23”
-
-|
-
-41”1
-
-|
-
-15
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-11'36”
-
-|
-
-33”1
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-14'49”
-
-|
-
-42”7
-
-|
-
-14
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-11'53”
-
-|
-
-35”1
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-15'17”
-
-|
-
-44”5
-
-|
-
-13
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-12'10”
-
-|
-
-36”5
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-15'48”
-
-|
-
-46”5
-
-|
-
-12
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-12'29”
-
-|
-
-38”0
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
-
-16'21”
-
-|
-
-48”8
-
-|
-
-11
-
-|
-
-/
-
-|
-
-/
-
-|
-
-/
-
-|
+20 |
 
-12'50”
+/ |
 
-|
-
-39”7
-
-|
-
-/
-
-|
+/ |
 
-/
+/ |
 
-|
-
-/
-
-|
-
-16'58”
-
-|
+10'29” |
 
-51”3
+29”6 |
 
-|
+/ |
 
-10
+/ |
 
-|
+/ |
 
-12
+12'58” |
 
-|
+36”2 |
 
-55
+19 |
 
-|
+/ |
 
-60
+/ |
 
-|
+/ |
 
-13'12”
+10'41” |
 
-|
+30”2 |
 
-41”7
+/ |
 
-|
+/ |
 
-5
+/ |
 
-|
+13'16” |
 
-45
+37”2 |
 
-|
+18 |
 
-50
+/ |
 
-|
+/ |
 
-17'37”
+/ |
 
-|
+10'53” |
 
-54”1
+30”8 |
 
-|
+/ |
 
-9
+/ |
 
-|
+/ |
 
-10
+13'37” |
 
-|
+38”4 |
 
-50
+17 |
 
-|
+/ |
 
-56
+/ |
 
-|
+/ |
 
-13'36”
+11'06” |
 
-|
+31”6 |
 
-43”9
+/ |
 
-|
+/ |
 
-|
+/ |
 
-40
+13'59” |
 
-|
+39”7 |
 
-46
+16 |
 
-|
+/ |
 
-18'19”
+/ |
 
-|
+/ |
 
-57”2
+11'21” |
 
-|
+32”3 |
 
-8
+/ |
 
-|
+/ |
 
-9
+/ |
 
-|
+14'23” |
 
-45
+41”1 |
 
-|
+15 |
 
-52
+/ |
 
-|
+/ |
 
-14'02”
+/ |
 
-|
+11'36” |
 
-46”4
+33”1 |
 
-|
+/ |
 
-4
+/ |
 
-|
+/ |
 
-35
+14'49” |
 
-|
+42”7 |
 
-42
+14 |
 
-|
+/ |
 
-19'06”
+/ |
 
-|
+/ |
 
-1'00”8
+11'53” |
 
-|
+35”1 |
 
-7
+/ |
 
-|
+/ |
 
-8
+/ |
 
-|
+15'17” |
 
-40
+44”5 |
 
-|
+13 |
 
-48
+/ |
 
-|
+/ |
 
-14'29”
+/ |
 
-|
+12'10” |
 
-49”1
+36”5 |
 
-|
+/ |
 
-|
+/ |
 
-30
+/ |
 
-|
+15'48” |
 
-38
+46”5 |
 
-|
+12 |
 
-19'56”
+/ |
 
-|
+/ |
 
-1'04”7
+/ |
 
-|
+12'29” |
 
-6
+38”0 |
 
-|
+/ |
 
-7
+/ |
 
-|
+/ |
 
-35
+16'21” |
 
-|
+48”8 |
 
-44
+11 |
 
-|
+/ |
 
-14'59”
+/ |
 
-|
+/ |
 
-52”3
+12'50” |
 
-|
+39”7 |
 
-3
+/ |
 
-|
+/ |
 
-25
+/ |
 
-|
+16'58” |
 
-34
+51”3 |
 
-|
+10 |
 
-20'51”
+12 |
 
-|
+55 |
 
-1'09”1
+60 |
 
-|
+13'12” |
 
-5
+41”7 |
 
-|
+5 |
 
-6
+45 |
 
-|
+50 |
 
-30
+17'37” |
 
-|
+54”1 |
 
-40
+9 |
 
-|
+10 |
 
-15'30”
+50 |
 
-|
+56 |
 
-56”0
+13'36” |
 
-|
+43”9 |
 
 |
 
-20
+40 |
 
-|
+46 |
 
-30
+18'19” |
 
-|
+57”2 |
 
-21'40”
+8 |
 
-|
+9 |
 
-1'14”0
+45 |
 
-|
+52 |
 
-4
+14'02” |
 
-|
+46”4 |
 
-5
+4 |
 
-|
+35 |
 
-27
+42 |
 
-|
+19'06” |
 
-32
+1'00”8 |
 
-|
+7 |
 
-16'05”
+8 |
 
-|
+40 |
 
-59”8
+48 |
 
-|
+14'29” |
 
-2
+49”1 |
 
 |
 
-17
-
-|
+30 |
 
-24
+38 |
 
-|
+19'56” |
 
-22'54”
+1'04”7 |
 
-|
+6 |
 
-1'19”6
+7 |
 
-|
+35 |
 
-3
+44 |
 
-|
+14'59” |
 
-4
+52”3 |
 
-|
+3 |
 
-24
+25 |
 
-|
+34 |
 
-24
+20'51” |
 
-|
+1'09”1 |
 
-16'42”
+5 |
 
-|
+6 |
 
-1'04”2
+30 |
 
-|
+40 |
 
-|
+15'30” |
 
-15
+56”0 |
 
 |
 
-18
+20 |
 
-|
+30 |
 
-24'04”
+21'40” |
 
-|
+1'14”0 |
 
-1'25”8
+4 |
 
-|
+5 |
 
-2
+27 |
 
-|
+32 |
 
-3
+16'05” |
 
-|
+59”8 |
 
-21
+2 |
 
-|
+17 |
 
-16
+24 |
 
-|
+22'54” |
 
-17'22”
+1'19”6 |
 
-|
+3 |
 
-1'09”3
+4 |
 
-|
+24 |
 
-1
+24 |
 
-|
+16'42” |
 
-12
+1'04”2 |
 
 |
 
-12
+15 |
 
-|
+18 |
 
-25'19”
-
-|
+24'04” |
 
-1'32”7
+1'25”8 |
 
-|
+2 |
 
-1
+3 |
 
-|
+21 |
 
-2
+16 |
 
-|
+17'22” |
 
-18
+1'09”3 |
 
-|
+1 |
 
-10
+12 |
 
-|
+12 |
 
-18'05”
+25'19” |
 
-|
+1'32”7 |
 
-1'14”9
+1 |
 
-|
+2 |
 
-|
+18 |
 
-9
+10 |
 
-|
+18'05” |
 
-7
+1'14”9 |
 
 |
 
-26'42”
+9 |
 
-|
+7 |
 
-1'40”5
+26'42” |
 
-|
+1'40”5 |
 
 Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro. |

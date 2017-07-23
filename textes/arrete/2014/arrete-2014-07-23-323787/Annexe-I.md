@@ -12,7 +12,7 @@ I. - Epreuves d'admissibilité
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
-Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
+Elle consiste à rédiger un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
 
 2° Epreuve de synthèse de dossier (durée : 4 heures ; coefficient 5).
 
@@ -32,45 +32,25 @@ PÉNALITÉ CORRESPONDANTE
 
 |
 
-Rédaction de 530 à 539 mots ou de 661 à 670 mots
+Rédaction de 530 à 539 mots ou de 661 à 670 mots |
 
-|
+Moins 1 point |
 
-Moins 1 point
+Rédaction de 520 à 529 mots ou de 671 à 680 mots |
 
-|
+Moins 2 points |
 
-Rédaction de 520 à 529 mots ou de 671 à 680 mots
+Rédaction de 510 à 519 mots ou de 681 à 690 mots |
 
-|
+Moins 3 points |
 
-Moins 2 points
+Rédaction de 500 à 509 mots ou de 691 à 700 mots |
 
-|
+Moins 4 points |
 
-Rédaction de 510 à 519 mots ou de 681 à 690 mots
+Rédaction de moins de 500 mots ou de plus de 700 mots |
 
-|
-
-Moins 3 points
-
-|
-
-Rédaction de 500 à 509 mots ou de 691 à 700 mots
-
-|
-
-Moins 4 points
-
-|
-
-Rédaction de moins de 500 mots ou de plus de 700 mots
-
-|
-
-Attribution de la note zéro
-
-|
+Attribution de la note zéro |
 
 3° Epreuve à option (durée : 4 heures ; coefficient 5).
 
@@ -88,7 +68,19 @@ Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
 A. - Option droit pénal
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes de droit pénal général, de procédure pénale ou de droit pénal spécial figurant au programme défini ci-après.
+Cette épreuve consiste à rédiger une composition portant sur l'un des thèmes de droit pénal général, de procédure pénale ou de droit pénal spécial figurant au programme défini ci-après.
+
+Lors des épreuves, les candidats ne peuvent disposer que :
+
+-des codes (qui peuvent être annotés par l'éditeur, mais non commentés) ;
+
+-des impressions du Journal officiel (non commenté) ;
+
+Il est interdit aux candidats sous peine d'exclusion :
+
+-de détenir des documents imprimés ou manuscrits autres que ceux cités aux alinéas précédents ;
+
+-d'utiliser des codes ou impressions du Journal officiel surligné, soulignés, annotés ou comportant des onglets, mêmes vierges.
 
 I. - Droit pénal général
 

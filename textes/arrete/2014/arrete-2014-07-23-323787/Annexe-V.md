@@ -8,7 +8,7 @@ I. - Epreuves d'admissibilité
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
-Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir sur une question d'intérêt général ou d'actualité.
+Elle consiste à rédiger un devoir sur une question d'intérêt général ou d'actualité.
 
 Les sujets portent sur des idées ou des faits dont la connaissance est indispensable à la compréhension du monde moderne.
 
@@ -30,45 +30,25 @@ PÉNALITÉ CORRESPONDANTE
 
 |
 
-Rédaction de 530 à 539 mots ou de 661 à 670 mots
+Rédaction de 530 à 539 mots ou de 661 à 670 mots |
 
-|
+Moins 1 point |
 
-Moins 1 point
+Rédaction de 520 à 529 mots ou de 671 à 680 mots |
 
-|
+Moins 2 points |
 
-Rédaction de 520 à 529 mots ou de 671 à 680 mots
+Rédaction de 510 à 519 mots ou de 681 à 690 mots |
 
-|
+Moins 3 points |
 
-Moins 2 points
+Rédaction de 500 à 509 mots ou de 691 à 700 mots |
 
-|
+Moins 4 points |
 
-Rédaction de 510 à 519 mots ou de 681 à 690 mots
+Rédaction de moins de 500 mots ou de plus de 700 mots |
 
-|
-
-Moins 3 points
-
-|
-
-Rédaction de 500 à 509 mots ou de 691 à 700 mots
-
-|
-
-Moins 4 points
-
-|
-
-Rédaction de moins de 500 mots ou de plus de 700 mots
-
-|
-
-Attribution de la note zéro
-
-|
+Attribution de la note zéro |
 
 II. - Epreuves d'admission
 
