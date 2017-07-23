@@ -18,19 +18,19 @@ Chef de la délégation nationale de Libourne à la direction des interventions 
 
 Adjoint au chef de service contrôles et normalisation à la direction des interventions |
 
-Chef de l'unité grandes cultures à la direction marchés, études et prospective |
-
 Chef de l'unité structuration de données à la direction marchés, études et prospective |
 
 Chef de la mission sucre et délégué filière sucre à la direction marchés études et prospective |
 
 Services territoriaux de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) |
 
-Responsable du pôle FranceAgriMer Basse-Normandie |
+Inspecteur général des services d'appui aux régions |
+
+Chef du pôle territoire FranceAgriMer Normandie |
 
 Responsable du pôle FranceAgriMer Franche-Comté |
 
-Responsable du service FranceAgriMer Nord-Pas-de-Calais |
+Chef du service FranceAgriMer à la DRAAF d'Auvergne-Rhônes-Alpes |
 
 Chef du service régional FranceAgriMer Bourgogne |
 
@@ -58,19 +58,17 @@ Directeur régional de la délégation régionale Auvergne-Rhône-Alpes |
 
 Directeur régional de la délégation régionale Nord-Pas-de-Calais-Picardie |
 
-Directeur régional délégué du site de Chalons-en-Champagne |
+Directeur régional délégué du site de Châlons-en-Champagne |
 
-Directeur régional de la région Alsace-Champagne-Ardenne-Lorraine |
+Directeur régional de la région Grand-Est |
 
 Directeur régional de la délégation régionale Guadeloupe |
 
-Institut Français du Cheval (IFCE) |
+Institut français du cheval (IFCE) |
 
 Directeur du pilotage et de l'audit interne au haras de Arnac-Pompadour |
 
-Chargé de mission au pôle hippique du Lion d'Angers |
-
-Adjoint au directeur de délégation au haras de Rodez Directeur de l'appui à la filière et de la stratégie au haras |
+Adjoint au directeur de délégation au haras de Rodez, directeur de l'appui à la filière et de la stratégie au haras |
 
 Directeur de l'appui à la filière et de la stratégie à Saumur |
 
@@ -87,5 +85,3 @@ Responsable de l'unité gestion patrimoniale des infrastructures liées à l'eau
 Responsable de l'équipe épuration des eaux usées au groupement de Lyon-Villeurbanne |
 
 Responsable du laboratoire d'études et recherches sur les matériels d'irrigation à Montpellier |
-
-Responsable informatique scientifique et mutualisation informatique spatiale à la maison de la télédétection de Montpellier |

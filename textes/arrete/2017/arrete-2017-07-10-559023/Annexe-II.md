@@ -1,6 +1,6 @@
 # Article Annexe II
 
-LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DRAAF, DAAF, DSA, DDT, DDTM, DDPP, DDCSPP)
+LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DRAAF, DAAF, DSA, DDT, DDTM, DDCS, DDCSPP)
 
 I. - DIRECTIONS RÉGIONALES DE L'ALIMENTATION, DE L'AGRICULTURE ET DE LA FORÊT (DRAAF) |
 
@@ -8,35 +8,31 @@ Directions |
 
 Fonctions |
 
-DRAAF Alsace- Champagne-Ardenne- Lorraine |
+DRAAF Auvergne-Rhône-Alpes |
+
+Secrétaire général |
+
+Adjoint au chef du service régional de l'économie agricole |
+
+DRAAF Bourgogne-Franche-Comté |
+
+Chef du service régional de la formation et du développement |
+
+Adjoint au chef du service régional de l'alimentation |
+
+Chef du service régional de l'information statistique et économique |
+
+DRAAF Bretagne |
+
+Chef du service régional de l'agri-environnement de la forêt et du bois |
+
+DRAAF Grand-Est |
 
 Chef du pôle contrôles régionaux à la production et aux échanges |
 
 Chef du service régional de l'information statistique et économique |
 
-DRAAF Aquitaine- Limousin-Poitou-Charentes |
-
-Chef du pôle inter-régional santé des forêts Aquitaine Midi-Pyrénées |
-
-DRAAF Auvergne- Rhône-Alpes |
-
-Secrétaire général |
-
-DRAAF Bourgogne- Franche-Comté |
-
-Adjoint au chef du service régional de l'alimentation |
-
-Chef du service régional de la formation et du développement |
-
-DRAAF Languedoc- Roussillon Midi-Pyrénées |
-
-Chef du service régional forêt-bois |
-
-Inspecteur en hygiène et sécurité publique au travail |
-
-Chargé de mission régional assurance qualité au service régional de l'alimentation |
-
-DRAAF Nord-Pas-de-Calais-Picardie |
+DRAAF Hauts-de-France |
 
 Chef du service régional de l'information statistique et économique |
 
@@ -46,7 +42,21 @@ Secrétaire général |
 
 Chargé de mission politique des bassins, milieux marins, sols auprès de la direction |
 
-DRAAF Pays-de-la-Loire |
+DRAAF Nouvelle-Aquitaine |
+
+Chef du pôle interrégional santé des forêts Aquitaine Midi-Pyrénées |
+
+Chef du service régional de la forêt et du bois |
+
+Adjoint au chef du service régional de l'information statistique, économique et territoriale |
+
+DRAAF Occitanie |
+
+Inspecteur en hygiène et sécurité publique au travail |
+
+Chargé de mission régional assurance qualité au service régional de l'alimentation |
+
+DRAAF Pays de la Loire |
 
 Secrétaire général |
 
@@ -70,7 +80,7 @@ Chef du service régional de l'information statistique et économique |
 
 DAAF de Mayotte |
 
-Secrétaire général |
+Chef du service formation et développement |
 
 Chef du service développement des territoires ruraux |
 
@@ -88,13 +98,15 @@ DDT |
 
 Chef du service de l'environnement |
 
-03. - Allier |
+DDT |
+
+Chef du service de l'économie agricole |
+
+03 - Allier |
 
 DDT |
 
-Chef du service mission transversale observatoire des territoires
-
-|
+Chef du service mission transversale observatoire des territoires |
 
 04 - Alpes-de-Haute-Provence |
 
@@ -112,10 +124,6 @@ DDT |
 
 Chef du service de la connaissance et de l'appui aux territoires |
 
-DDT |
-
-Chef du service eau, environnement et forêt |
-
 06 - Alpes-Maritimes |
 
 DDTM |
@@ -128,23 +136,11 @@ DDT |
 
 Chef du service de l'économie agricole |
 
-10 - Aube |
-
-DDT |
-
-Chef du bureau politique de l'eau |
-
 11 - Aude |
 
 DDTM |
 
 Chef du service de l'économie agricole et du développement rural |
-
-12 - Aveyron |
-
-DDT |
-
-Chef du service de l'eau et de la biodiversité |
 
 15 - Cantal |
 
@@ -158,11 +154,13 @@ DDT |
 
 Chef du service de l'économie agricole et rurale |
 
+18 - Cher |
+
+DDT |
+
+Chef du service économie agricole et développement rural |
+
 22 - Côtes-d'Armor |
-
-DDTM |
-
-Chef du service environnement |
 
 DDTM |
 
@@ -174,10 +172,6 @@ DDT |
 
 Chef du service de l'économie agricole |
 
-DDT |
-
-Chef du service de l'espace rural |
-
 26 - Drôme |
 
 DDT |
@@ -188,11 +182,11 @@ DDT |
 
 Chef du service agricole |
 
-2B - Haute-Corse |
+27 - Eure |
 
 DDTM |
 
-Chef du service de l'eau, de la forêt et des risques |
+Adjoint aux directeurs |
 
 30 - Gard |
 
@@ -214,21 +208,9 @@ Chef du service de l'économie agriculture durable |
 
 DDTM |
 
-Chef de la mission management crise et coordination
-
-|
-
-37 - Indre-et-Loire |
-
-DDT |
-
-Chef du service de l'eau et des ressources naturelles |
+Chef de la mission management crise et coordination |
 
 40 - Landes |
-
-DDTM |
-
-Chef du service de la police de l'eau et milieux aquatiques |
 
 DDTM |
 
@@ -248,11 +230,9 @@ Chef du service de l'économie agricole |
 
 DDT |
 
-Chef du service de l'eau et de l'environnement
+Chef du service de l'eau et de l'environnement |
 
-|
-
-44 - Loire-Altantique |
+44 - Loire-Atlantique |
 
 DDTM |
 
@@ -264,10 +244,6 @@ DDT |
 
 Secrétaire général |
 
-DDT |
-
-Chef du service de l'eau, de l'environnement et de la forêt |
-
 46 - Lot |
 
 DDT |
@@ -278,15 +254,11 @@ Chef du service de l'eau, de la forêt et de l'environnement |
 
 DDT |
 
-Secrétaire général |
-
-DDT |
-
 Chef du service économie agricole |
 
 49 - Maine-et-Loire |
 
-DDTM |
+DDT |
 
 Chef du service de l'eau, de l'environnement et de la forêt |
 
@@ -295,10 +267,6 @@ DDT |
 Chef du service économie agricole |
 
 52 - Haute-Marne |
-
-DDT |
-
-Chef du service de la forêt et de l'environnement |
 
 DDT |
 
@@ -352,12 +320,6 @@ DDT |
 
 Chef du service de l'économie agricole |
 
-72 - Sarthe |
-
-DDT |
-
-Chef du service de l'économie agricole |
-
 74 - Haute-Savoie |
 
 DDT |
@@ -367,6 +329,18 @@ Chef du service de l'économie agricole et des industries agroalimentaires |
 DDT |
 
 Chef du service de l'eau et de l'environnement |
+
+78 - Yvelines |
+
+DDT |
+
+Chef du service de l'économie agricole |
+
+80 - Somme |
+
+DDTM |
+
+Chef du service de l'économie agricole |
 
 84 - Vaucluse |
 
@@ -388,11 +362,17 @@ Chef du service de l'économie agricole et du développement rural |
 
 DDT |
 
-Chef du service économie agricole et forestière |
+Chef du service de l'économie agricole et forestière |
 
-IV. - DIRECTIONS DÉPARTEMENTALES DE LA PROTECTION DES POPULATIONS (DDPP) ET DIRECTIONS DÉPARTEMENTALES DE LA COHÉSION SOCIALE
+95 - Val-d'Oise |
 
-ET DE LA PROTECTION DES POPULATIONS (DDCSPP) |
+DDT |
+
+Chef du service de l'agriculture, de la forêt et de l'environnement |
+
+IV. - DIRECTIONS DÉPARTEMENTALES DE LA PROTECTION DES POPULATIONS (DDPP) ET DIRECTIONS DÉPARTEMENTALES
+
+DE LA COHÉSION SOCIALE ET DE LA PROTECTION DES POPULATIONS (DDCSPP) |
 
 Département |
 
@@ -400,7 +380,7 @@ DDPP ou DDCSPP |
 
 Fonctions |
 
-04 - Alpes-de-Haute Provence |
+04 - Alpes-de-Haute-Provence |
 
 DDCSPP |
 
@@ -413,6 +393,12 @@ DDCSPP |
 Secrétaire général |
 
 21 - Côte-d'Or |
+
+DDPP |
+
+Secrétaire général |
+
+22 - Côte-d'Armor |
 
 DDPP |
 
@@ -440,19 +426,13 @@ Chef du service de la protection de l'environnement |
 
 DDPP |
 
+Chef du service environnement et prévention des risques |
+
+DDPP |
+
 Chef du service santé et protection animale |
 
-44 - Loire-Altantique |
-
-DDPP |
-
-Chef du service sécurité sanitaire des aliments |
-
 56 - Morbihan |
-
-DDPP |
-
-Chef du service de l'environnement |
 
 DDPP |
 
@@ -463,6 +443,18 @@ Secrétaire général |
 DDPP |
 
 Secrétaire général |
+
+85 - Vendée |
+
+DDPP |
+
+Secrétaire général |
+
+86 - Vienne |
+
+DDPP |
+
+Chef du service inspection abattoirs |
 
 88 - Vosges |
 

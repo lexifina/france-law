@@ -42,15 +42,13 @@ Directions |
 
 Fonctions |
 
-DREAL Alsace- Champagne-Ardenne- Lorraine |
+DREAL Grand-Est |
+
+Adjoint au chef du service eau, biodiversité, paysages |
 
 Adjoint au chef du service risques et sécurité et chef du pôle hydrologie-hydraulique |
 
-Adjoint au chef du service eau, biodiversité, paysages
-
-|
-
-DREAL Aquitaine- Limousin-Poitou-Charentes |
+DREAL Nouvelle-Aquitaine |
 
 Chef de la division milieux naturels et paysages |
 
@@ -74,13 +72,13 @@ Chargé de mission pour les affaires régionales |
 
 DREAL Provence-Alpes-Côte-d'Azur |
 
+Adjoint au chef du service énergie et logement |
+
 Chef du service de la connaissance, de l'aménagement durable et de l'évaluation |
 
 Adjoint au chef de service biodiversité eau paysage |
 
-Chef de l'unité évaluation environnementale du service connaissance aménagement durable et évaluation
-
-|
+Chef de l'unité évaluation environnementale du service connaissance aménagement durable et évaluation |
 
 III. - DIRECTIONS DE L'ENVIRONNEMENT, DE L'AMÉNAGEMENT ET DU LOGEMENT (DEAL) |
 
@@ -90,21 +88,15 @@ Fonctions |
 
 DEAL de Guadeloupe - Basse Terre |
 
-Chef du service prospective, aménagement et connaissance du territoire
+Chef du service prospective, aménagement et connaissance du territoire |
 
-|
+Chef de la mission développement durable et évaluation environnementale |
 
-Chef de la mission développement durable et évaluation environnementale
+DEAL de Guadeloupe - Antenne Saint-Martin |
 
-|
+Chef du service territoires, mer et développement durable à Saint-Martin - préfecture |
 
-DEAL de Guadeloupe - antenne Saint-Martin |
-
-Chef du service territoires, mer et développement durable à Saint-Martin - préfecture
-
-|
-
-DEAL de la Réunion |
+DEAL de La Réunion |
 
 Chef du service de la prévention des risques naturels et routiers |
 
@@ -130,7 +122,35 @@ Chef du service de l'expertise et de l'appui technique |
 
 DDT |
 
+Chef du service eau, environnement et forêt |
+
+DDT |
+
 Chef du service de l'aménagement soutenable |
+
+10 - Aube |
+
+DDT |
+
+Chef du bureau politique de l'eau |
+
+12 - Aveyron |
+
+DDT |
+
+Chef du service de l'eau et de la biodiversité |
+
+22 - Côtes-d'Armor |
+
+DDTM |
+
+Chef du service environnement |
+
+23 - Creuse |
+
+DDT |
+
+Chef du service de l'espace rural |
 
 25 - Doubs |
 
@@ -144,11 +164,27 @@ DDTM |
 
 Chef du service habitat et constructions |
 
+2B - Haute-Corse |
+
+DDTM |
+
+Chef du service de l'eau, de la forêt et des risques |
+
 37 - Indre-et-Loire |
 
 DDT |
 
-Chef de la mission transversale et territoriale |
+Chef du service de l'urbanisme et des démarches de territoires |
+
+DDT |
+
+Chef du service de l'eau et ressources naturelles |
+
+40 - Landes |
+
+DDTM |
+
+Chef du service de la police de l'eau et milieux aquatiques |
 
 43 - Haute-Loire |
 
@@ -156,11 +192,23 @@ DDT |
 
 Chef service environnement et forêt |
 
+45 - Loiret |
+
+DDT |
+
+Chef du service de l'eau, de l'environnement et de la forêt |
+
 49 - Maine-et-Loire |
 
 DDT |
 
 Chef du service sécurité routière, gestion de crise |
+
+52 - Haute-Marne |
+
+DDT |
+
+Chef du service de la forêt et de l'environnement |
 
 54 - Meurthe-et-Moselle |
 
@@ -184,12 +232,6 @@ DDTM |
 
 Chef du service environnement et aménagement durable |
 
-61 - Orne |
-
-DDT |
-
-Chef du service aménagement et environnement |
-
 67 - Bas-Rhin |
 
 DDT |
@@ -197,6 +239,10 @@ DDT |
 Chef du service de l'environnement et de la gestion des espaces |
 
 71 - Saône-et-Loire |
+
+DDT |
+
+Secrétaire général |
 
 DDT |
 
@@ -225,3 +271,19 @@ Chef du service de l'environnement |
 DDT |
 
 Secrétaire général |
+
+V. - DIRECTIONS DÉPARTEMENTALES DE LA PROTECTION DES POPULATIONS (DDPP) ET DIRECTIONS DÉPARTEMENTALES
+
+DE LA COHÉSION SOCIALE ET DE LA PROTECTION DES POPULATIONS (DDCSPP) |
+
+Département |
+
+DDPP ou DDCSPP |
+
+Fonctions |
+
+56 - Morbihan |
+
+DDPP |
+
+Chef du service de l'environnement |

@@ -8,30 +8,32 @@ EPLEFPA |
 
 FONCTIONS |
 
-03 - Allier |
-
-EPLEFPA
-
-du Bourbonnais |
-
-Directeur du centre de formation professionnelle et de promotion agricoles de Moulins- Neuville |
-
 30 - Gard |
 
 EPLEFPA Nîmes-Rodilhan |
 
 Secrétaire général |
 
+31 - Haute-Garonne |
+
+EPLEFPA Toulouse |
+
+Secrétaire général |
+
 32 - Gers |
 
-EPLEFPA
-
-Auch Beaulieu-Lavacant |
+EPLEFPA Auch Beaulieu-Lavacant |
 
 Responsable du site de Lavacant |
 
 33 - Gironde |
 
 EPLEFPA Bordeaux Gironde |
+
+Secrétaire général |
+
+37 - Indre-et-Loire |
+
+EPLEFPA Amboise |
 
 Secrétaire général |
