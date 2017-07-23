@@ -2,13 +2,13 @@
 
 Epreuves des concours prévus :
 
--au 1° de l'article 5 du décret susvisé (ouvert aux candidats titulaires de l'un des diplômes exigés des candidats au concours externe de l'Ecole nationale d'administration) ;
+– au 1° de l'article 5 du décret susvisé (ouvert aux candidats titulaires de l'un des diplômes exigés des candidats au concours externe de l'Ecole nationale d'administration) ;
 
--au 2° de l'article 5 du décret susvisé (ouvert aux militaires non officiers et aux fonctionnaires de catégorie B) ;
+– au 2° de l'article 5 du décret susvisé (ouvert aux militaires non officiers et aux fonctionnaires de catégorie B) ;
 
--au 4° de l'article 5 du décret susvisé (ouvert aux capitaines ou officiers de grade correspondant et aux fonctionnaires civils d'un corps de catégorie A ou assimilé).
+– au 4° de l'article 5 du décret susvisé (ouvert aux capitaines ou officiers de grade correspondant et aux fonctionnaires civils d'un corps de catégorie A ou assimilé).
 
-I.-Epreuves d'admissibilité
+I. – Epreuves d'admissibilité
 
 1° Epreuve de culture générale (durée : quatre heures ; coefficient 5)
 
@@ -16,15 +16,19 @@ L'épreuve de culture générale consiste en une dissertation sur un sujet d'ord
 
 Cette épreuve a pour but d'apprécier les connaissances générales, les idées personnelles et les qualités de style des candidats ainsi que leurs capacités d'analyse et de méthode.
 
-2° Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 5)
+2° Epreuve de synthèse de dossier (coefficient 5)
 
-Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier comprenant entre 30 et 40 pages et portant sur un sujet d'ordre général ou professionnel.
+Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier portant sur un sujet d'ordre général ou professionnel.
+
+Pour les concours prévus au 1° et au 4° de l'article 5 du décret susvisé, cette épreuve dure quatre heures et porte sur un dossier comprenant entre 30 et 40 pages.
+
+Pour le concours prévu au 2° de l'article 5 du décret susvisé, cette épreuve dure trois heures et porte sur un dossier comprenant entre 20 et 30 pages .
 
 La note de synthèse est construite selon un plan classique : introduction, développement, conclusion. Elle est entièrement rédigée. Seules les grandes parties peuvent éventuellement être précédées d'un titre. Elle doit être objective, dénuée d'appréciation personnelle.
 
-Le candidat doit rédiger en 600 mots (+ ou-10 %) une note de synthèse claire, précise et concise.
+Le candidat doit rédiger en 600 mots (+ ou – 10 %) une note de synthèse claire, précise et concise.
 
-Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
+Quel que soit le concours, le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
 
 NOMBRE DE MOTS ÉCRITS PAR LE CANDIDAT
 
@@ -74,7 +78,7 @@ Attribution de la note zéro
 
 |
 
-II.-Epreuves d'admission
+II. – Epreuves d'admission
 
 1° Epreuve d'aptitude générale (coefficient 6)
 
@@ -98,6 +102,6 @@ Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un 
 
 Ces épreuves sont définies :
 
--à l'annexe III du présent arrêté pour le concours prévu au 1° de l'article 5 du décret susvisé ;
+– à l'annexe III du présent arrêté pour le concours prévu au 1° de l'article 5 du décret susvisé ;
 
--à l'annexe IV du présent arrêté pour les concours prévus aux 2° et 4° de l'article 5 du décret susvisé.
+– à l'annexe IV du présent arrêté pour les concours prévus aux 2° et 4° de l'article 5 du décret susvisé.

@@ -2,17 +2,15 @@
 
 Epreuves des concours sur titres prévus :
 
--au 3° de l'article 5 du décret susvisé (ouvert aux candidats titulaires d'un diplôme d'ingénieur ou d'un diplôme conférant le grade de master) ;
+– au 3° de l'article 5 du décret susvisé (ouvert aux candidats titulaires d'un diplôme d'ingénieur ou d'un diplôme conférant le grade de master) ;
 
--au 1° de l'article 7 du décret susvisé (ouvert aux sous-officiers de carrière du corps de soutien technique et administratif de la gendarmerie nationale des grades de major, d'adjudant-chef et d'adjudant inscrits au tableau d'avancement) ;
+– au 2° de l'article 7 du décret susvisé (ouvert aux officiers sous contrat de la gendarmerie nationale des grades de commandant et de lieutenant-colonel).
 
--au 2° de l'article 7 du décret susvisé (ouvert aux officiers sous contrat de la gendarmerie nationale des grades de commandant et de lieutenant-colonel).
-
-I.-Epreuve d'admissibilité
+I. – Epreuve d'admissibilité
 
 L'épreuve d'admissibilité consiste en l'examen et l'évaluation du dossier du candidat.
 
-II.-Epreuves d'admission
+II. – Epreuves d'admission
 
 1° Epreuve d'aptitude générale (coefficient 5)
 
@@ -26,4 +24,4 @@ Pour le concours prévu au 3° de l'article 5 du décret susvisé, cette épreuv
 
 Pour le concours prévu au 3° de l'article 5 du décret susvisé, les épreuves sont définies à l'annexe III. La moyenne des quatre notes est affectée du coefficient 1.
 
-Pour les concours prévus à l'article 7 du décret susvisé, l'épreuve est définie à l'annexe V. La note de sport est affectée du coefficient 1.
+Pour le concours prévu au 2° de l'article 7 du décret susvisé, l'épreuve est définie à l'annexe V. La note de sport est affectée du coefficient 1.
