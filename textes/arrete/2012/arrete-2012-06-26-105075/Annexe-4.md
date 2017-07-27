@@ -6,9 +6,7 @@ PROGRAMME ET MODALITÉS D'ORGANISATION DE LA FORMATION CONTINUE À LA GESTION TE
 
 La formation continue à la gestion technique et administrative d'un établissement chargé d'organiser les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 du code de la route a pour but de permettre aux exploitants d'établissements et aux personnes chargées de l'encadrement des stages, de réactualiser leurs connaissances, de réfléchir et d'échanger sur leurs pratiques professionnelles d'encadrement de ces stages afin de répondre au mieux à l'ensemble des conditions administratives et pédagogiques fixées par la réglementation.
 
-Cette formation est assurée soit directement par l'INSERR, soit dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière par un formateur (exploitant ou personnes désignées). Dans ce dernier cas, ce formateur habilité devra au préalable, suivre une formation auprès de l'INSERR, durant une journée, pour dispenser ensuite la formation dont les objectifs sont décrits au point 4 de la présente annexe.
-
-Les modalités concernant les effectifs, les moyens, l'établissement des bilans sont identiques à celles fixées à l'annexe 3.
+Cette formation est assurée soit directement par l'INSERR, soit dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière par un formateur (exploitant ou personnes désignées) répondant aux obligations définies au point III de l'annexe 3.
 
 2. Durée de la formation
 

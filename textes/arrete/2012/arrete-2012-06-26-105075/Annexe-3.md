@@ -8,7 +8,7 @@ La formation initiale à la gestion technique et administrative d'un établissem
 
 Cette formation est assurée soit directement par l'INSERR, soit dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière par un formateur (exploitant ou personnes désignées). Dans ce dernier cas, ce formateur habilité devra préalablement avoir été formé par l'INSERR.
 
-1. La formation initiale des exploitants et personnes chargées de l'encadrement des stages dispensée directement par l'INSERR
+I. - La formation initiale des exploitants et personnes chargées de l'encadrement des stages dispensée directement par l'INSERR
 
 Durée de la formation.
 
@@ -168,7 +168,7 @@ Délivrance des attestations de suivi de formation.
 
 A l'issue de chaque formation, l'INSERR délivre à tout participant une attestation de formation conforme à l'annexe 1 du présent arrêté.
 
-2. La formation initiale dispensée dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière
+II. - La formation initiale dispensée dans le cadre d'un établissement agréé au titre des dispositions du présent arrêté pour l'organisation des stages de sensibilisation à la sécurité routière
 
 La durée, les effectifs et les objectifs de la formation dispensée sont identiques à ceux prévus au point 1 de la présente annexe.
 
@@ -200,8 +200,12 @@ Bilan de la formation.
 
 Le responsable de l'établissement adresse à l'Institut national de sécurité routière et de recherches, avant le 31 mars de chaque année, une copie du bilan quantitatif et qualitatif de la formation. L'Institut national de sécurité routière et de recherches en établit une synthèse destinée au ministère chargé de la sécurité routière pour présentation au comité de suivi des stages de formation des conducteurs infractionnistes en vue, si nécessaire, d'adaptations du programme et des modalités de la formation.
 
-3. La formation initiale des formateurs habilités
+III. - La formation des formateurs
 
-Cette formation dispensée par l'INSERR est d'une durée de trois jours.
+Les formateurs suivent une formation initiale qui leur permet de dispenser, pendant une période de cinq ans, la formation initiale à la gestion technique et administrative des stages prévue à la présente annexe et la formation continue à la gestion technique et administrative des stages prévue à l'annexe 4.
 
-En sus des cinq axes de travail évoqués ci-dessus, une journée est consacrée aux techniques pédagogiques permettant de dispenser la formation à la gestion technique et administrative.
+A l'issue de cette période de cinq ans, puis tous les cinq ans, les formateurs suivent une formation continue pour pouvoir poursuivre leur activité.
+
+Les formations initiales et continues des formateurs sont dispensées par l'INSERR.
+
+La formation initiale, d'une durée de trois jours, est consacrée aux objectifs définis par les cinq axes de travail mentionnés au point I et aux techniques pédagogiques permettant de dispenser la formation à la gestion technique et administrative des stages. La formation continue, d'une durée d'une journée, est consacrée au programme dont les objectifs sont définis au point 4 de l'annexe 4.
