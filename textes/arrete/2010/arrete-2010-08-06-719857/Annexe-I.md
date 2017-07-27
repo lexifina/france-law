@@ -6,11 +6,11 @@ L'aptitude médicale est constatée par un médecin inscrit au tableau de l'ordr
 
 A. - Pour être agréé, le médecin doit disposer des connaissances relatives au système ferroviaire. Il doit :
 
-- connaître l'environnement général du système ferroviaire et, en particulier, le rôle et les missions du conducteur en matière de sécurité ;
+- connaître l'environnement général du système ferroviaire et, en particulier, le rôle et les missions du conducteur et des personnels mentionnés à l' article L. 2221-7-1 du code des transports en matière de sécurité ;
 
-- connaître l'environnement législatif et réglementaire de l'exercice des fonctions de conducteur de train, les obligations des entreprises ferroviaires et des gestionnaires d'infrastructure qui les emploient, le rôle et les missions des médecins et psychologues chargés de délivrer les certificats d'aptitude prévus par la réglementation ;
+- connaître l'environnement législatif et réglementaire de l'exercice des fonctions de conducteur de train et des personnels mentionnés à l' article L. 2221-7-1 du code des transports , les obligations des entreprises ferroviaires et des gestionnaires d'infrastructure qui les emploient, le rôle et les missions des médecins et psychologues chargés de délivrer les certificats d'aptitude prévus par la réglementation ;
 
-- connaître les instances et les procédures de recours permettant d'instruire les demandes présentées par les conducteurs et les employeurs en matière d'aptitude physique ;
+- connaître les instances et les procédures de recours permettant d'instruire les demandes présentées par les conducteurs, les personnels mentionnés à l' article L. 2221-7-1 du code des transports et les employeurs en matière d'aptitude physique ;
 
 - être formé à la passation et à l'interprétation des tests et outils particuliers nécessaires.
 
@@ -48,11 +48,11 @@ Le bilan d'évaluation psychologique doit être réalisé par des personnes auto
 
 A. - Pour être agréé, le psychologue doit disposer des connaissances relatives au système ferroviaire. Il doit :
 
-- connaître l'environnement général du système ferroviaire et en particulier le rôle et les missions du conducteur en matière de sécurité ;
+- connaître l'environnement général du système ferroviaire et en particulier le rôle et les missions du conducteur et des personnels mentionnés à l' article L. 2221-7-1 du code des transports en matière de sécurité ;
 
-- connaître l'environnement législatif et réglementaire de l'exercice des fonctions de conducteur de train, les obligations des entreprises ferroviaires et des gestionnaires d'infrastructure qui les emploient, le rôle et les missions des médecins et psychologues chargés de délivrer les certificats d'aptitude prévus par la réglementation ;
+- connaître l'environnement législatif et réglementaire de l'exercice des fonctions de conducteur de train et des personnels mentionnés à l' article L. 2221-7-1 du code des transports , les obligations des entreprises ferroviaires et des gestionnaires d'infrastructure qui les emploient, le rôle et les missions des médecins et psychologues chargés de délivrer les certificats d'aptitude prévus par la réglementation ;
 
-- connaître les instances et les procédures de recours permettant d'instruire les demandes présentées par les conducteurs et les employeurs en matière d'aptitude psychologique ;
+- connaître les instances et les procédures de recours permettant d'instruire les demandes présentées par les conducteurs, les personnels mentionnés à l' article L. 2221-7-1 du code des transports et les employeurs en matière d'aptitude psychologique ;
 
 - être formé à la passation et à l'interprétation des tests et outils particuliers nécessaires.
 

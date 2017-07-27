@@ -102,7 +102,7 @@ Tâche F : Assurer la protection des circulations ferroviaires vis-à-vis des ci
 
 Tâche G : Assurer la sécurité d'un train, ou d'un convoi du gestionnaire de l'infrastructure (GI)
 
-1. Cconnaître les éléments constitutifs des dispositifs d'urgence d'un train ou d'un convoi du gestionnaire d'infrastructure (GI) et savoir les utiliser ;
+1. Connaître les éléments constitutifs des dispositifs d'urgence d'un train ou d'un convoi du gestionnaire d'infrastructure (GI) et savoir les utiliser ;
 
 2. Connaître les moyens d'immobilisation d'un train ou d'un convoi du GI ;
 

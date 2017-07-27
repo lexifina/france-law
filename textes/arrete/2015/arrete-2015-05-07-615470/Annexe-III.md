@@ -24,7 +24,7 @@ Périmètre d'habilitation :
 
 - procédures d'exploitation et règles de sécurité des trains dans des conditions normales, dégradées et d'urgence
 
-- environnement du poste (par exemple les entités en relation avec la personne habilitée)
+- environnement du poste (par exemple les entités en relation avec le personnel habilité)
 
 Date d'habilitation :
 

@@ -14,7 +14,7 @@ E : Réaliser des essais sur les installations de sécurité nouvelles ou modifi
 
 F : Assurer la protection des circulations ferroviaires vis-à-vis des circulations routières et réciproquement aux passages à niveau (PN)
 
-G : Assurer la sécurité d'un train, ou d'un convoi du gestionnaire d'infrastructure (GI)
+G : Assurer la sécurité d'un train, ou d'un convoi du gestionnaire d'infrastructure (GI). Cette tâche correspond à la tâche critique de sécurité liée à l'accompagnement des trains mentionnée dans la décision n° 2012/757/ UE susvisée
 
 H : Commander une manœuvre
 
