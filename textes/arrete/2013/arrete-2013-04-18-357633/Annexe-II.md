@@ -2,11 +2,9 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A.-Ministère des affaires étrangères et du développement international :
+A. – Ministère de l'Europe et des affaires étrangères :
 
-CATÉGORIE DE PERSONNEL
-
-|
+CATÉGORIE DE PERSONNEL |
 
 DIRECTION DES FINANCES PUBLIQUES
 
@@ -14,19 +12,13 @@ chargée de la paye sans ordonnancement préalable
 
 |
 
-Personnels en fonctions sur le territoire national
+Personnels en fonctions sur le territoire national |
 
-|
+Etranger |
 
-Etranger
+B. – Ministère de la culture :
 
-|
-
-B.-Ministère de la culture et de la communication :
-
-CATÉGORIE DE PERSONNEL
-
-|
+CATÉGORIE DE PERSONNEL |
 
 DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
@@ -34,27 +26,17 @@ de la paye sans ordonnancement préalable
 
 |
 
-Personnels affectés dans les directions régionales des affaires culturelles
+Personnels affectés dans les directions régionales des affaires culturelles |
 
-|
+Paris |
 
-Paris
+Personnels des écoles normales supérieures d'architecture |
 
-|
+Paris |
 
-Personnels des écoles normales supérieures d'architecture
+C. – Ministère de l'agriculture et de l'alimentation :
 
-|
-
-Paris
-
-|
-
-C.-Ministère de l'agriculture, de l'agroalimentaire et de la forêt :
-
-CATÉGORIE DE PERSONNELS
-
-|
+CATÉGORIE DE PERSONNELS |
 
 DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
@@ -62,43 +44,29 @@ de la paye sans ordonnancement préalable
 
 |
 
-Personnels des services centraux
+Personnels des services centraux |
 
-|
-
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Personnels des services déconcentrés de métropole
 
 |
 
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Personnels des services déconcentrés des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte
 
 |
 
-Hauts-de-Seine
+Hauts-de-Seine |
 
-|
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010
+Hauts-de-Seine |
 
-|
+D. – Ministère de l'éducation nationale et ministère de l'enseignement supérieur, de la recherche et de l'innovation :
 
-Hauts-de-Seine
-
-|
-
-D.-Services déconcentrés du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche :
-
-ACADÉMIE
-
-|
+ACADÉMIE |
 
 DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
@@ -110,23 +78,15 @@ Créteil (enseignement supérieur)
 
 |
 
-Seine-Saint-Denis
+Seine-Saint-Denis |
 
-|
+Paris (enseignement du 1er et du 2nd degré) |
 
-Paris (enseignement du 1er et du 2nd degré)
+E. – Ministère de l'action et de comptes publics et ministère de l'économie et des finances :
 
-|
+DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS |
 
-E.-Ministère des finances et des comptes publics et ministère de l'économie, de l'industrie et du numérique :
-
-DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
-
-|
-
-Service
-
-|
+Service |
 
 Direction des finances publiques
 
@@ -138,137 +98,103 @@ Direction nationale de recherches et d'enquêtes douanières
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction nationale de la statistique et du commerce extérieur
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects d'Antilles-Guyane
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Dijon
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de La Réunion
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Lille
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Lyon
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Marseille
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Metz
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Montpellier
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Paris
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Direction interrégionale des douanes et droits indirects de Roissy Aéroports
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Centre informatique des douanes d'Osny
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Ecole nationale des brigades des douanes de La Rochelle
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Ecole nationale des douanes de Rouen
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Ecole nationale des douanes de Tourcoing
 
 |
 
-Gironde
-
-|
+Gironde |
 
 SERVICES SPÉCIALISÉS DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES
 
 |
 
-Service
-
-|
+Service |
 
 Direction des finances publiques
 
@@ -280,73 +206,55 @@ Ecole nationale des finances publiques
 
 |
 
-Seine-Saint-Denis
-
-|
+Seine-Saint-Denis |
 
 Direction spécialisée des finances publiques pour l'Assistance publique-hôpitaux de Paris
 
 |
 
-Seine-Saint-Denis
-
-|
+Seine-Saint-Denis |
 
 Direction du contrôle fiscal Ile-de-France (La Plaine Saint-Denis)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction des grandes entreprises (Pantin)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction nationale d'enquêtes fiscales (Pantin)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction des vérifications nationales et internationales (Pantin)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction impôts services (Pantin, Lille, Nancy, Rouen)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction des résidents à l'étranger et des services généraux (Noisy-le-Grand)
 
 |
 
-Paris
-
-|
+Paris |
 
 Service national de documentation du cadastre (Saint-Germain-en-Laye)
 
 |
 
-Paris
-
-|
+Paris |
 
 Direction générale de la concurrence de la consommation et de la répression des fraudes
 
@@ -356,9 +264,7 @@ Services déconcentrés de métropole et des collectivités d'outre-mer régies 
 
 |
 
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Service commun des laboratoires des ministères économique et financier
 
@@ -368,23 +274,17 @@ Personnels issus de la direction générale de la concurrence, de la consommatio
 
 |
 
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Personnels issus de la direction générale des douanes et droits indirects
 
 |
 
-Hauts-de-Seine
+Hauts-de-Seine |
 
-|
+F. – Ministère de l'intérieur et ministère des outre-mer :
 
-F.-Ministère de l'intérieur :
-
-SERVICE OU CATÉGORIE DE PERSONNEL
-
-|
+SERVICE OU CATÉGORIE DE PERSONNEL |
 
 DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
 
@@ -604,373 +504,191 @@ Préfecture de l'Hérault
 
 |
 
-Bouches-du-Rhône
+Bouches-du-Rhône |
 
-|
+Préfecture d'Indre |
 
-Préfecture d'Indre
+Ille-et-Vilaine |
 
-|
+Préfecture d'Indre-et-Loire |
 
-Ille-et-Vilaine
+Ille-et-Vilaine |
 
-|
+Préfecture du Loir-et-Cher |
 
-Préfecture d'Indre-et-Loire
+Ille-et-Vilaine |
 
-|
+Préfecture de la Loire |
 
-Ille-et-Vilaine
+Isère |
 
-|
+Préfecture de Haute-Loire |
 
-Préfecture du Loir-et-Cher
+Isère |
 
-|
+Préfecture de Loire-Atlantique |
 
-Ille-et-Vilaine
+Ille-et-Vilaine |
 
-|
+Préfecture du Loiret |
 
-Préfecture de la Loire
+Ille-et-Vilaine |
 
-|
+Préfecture du Lot |
 
-Isère
+Bouches-du-Rhône à compter du 1er juillet 2017 |
 
-|
+Préfecture de Lozère |
 
-Préfecture de Haute-Loire
+Bouches-du-Rhône |
 
-|
+Préfecture de Maine-et-Loire |
 
-Isère
+Ille-et-Vilaine |
 
-|
+Préfecture de la Manche |
 
-Préfecture de Loire-Atlantique
+Ille-et-Vilaine |
 
-|
+Préfecture de la Marne |
 
-Ille-et-Vilaine
+Moselle |
 
-|
+Préfecture de la Haute-Marne |
 
-Préfecture du Loiret
+Moselle |
 
-|
+Préfecture de la Mayenne |
 
-Ille-et-Vilaine
+Ille-et-Vilaine |
 
-|
+Préfecture de la Nièvre |
 
-Préfecture du Lot
+Moselle |
 
-|
+Préfecture de l'Oise |
 
-Bouches-du-Rhône à compter du 1er juillet 2017
+Nord |
 
-|
+Préfecture de l'Orne |
 
-Préfecture de Lozère
+Ille-et-Vilaine |
 
-|
+Préfecture du Puy-de-Dôme |
 
-Bouches-du-Rhône
+Isère |
 
-|
+Préfecture des Hautes-Pyrénées |
 
-Préfecture de Maine-et-Loire
+Bouches-du-Rhône à compter du 1er juillet 2017 |
 
-|
+Préfecture des Pyrénées-Orientales |
 
-Ille-et-Vilaine
+Bouches-du-Rhône |
 
-|
+Préfecture du Bas-Rhin |
 
-Préfecture de la Manche
+Moselle |
 
-|
+Préfecture du Haut-Rhin |
 
-Ille-et-Vilaine
+Moselle |
 
-|
+Préfecture du Rhône |
 
-Préfecture de la Marne
+Isère |
 
-|
+Préfecture de Haute-Saône |
 
-Moselle
+Moselle |
 
-|
+Préfecture de Saône-et-Loire |
 
-Préfecture de la Haute-Marne
+Moselle |
 
-|
+Préfecture de la Sarthe |
 
-Moselle
+Ille-et-Vilaine |
 
-|
+Préfecture de Paris |
 
-Préfecture de la Mayenne
+Yvelines |
 
-|
+Préfecture de Seine-Maritime |
 
-Ille-et-Vilaine
+Ille-et-Vilaine |
 
-|
+Préfecture de Seine-et-Marne |
 
-Préfecture de la Nièvre
+Yvelines |
 
-|
+Préfecture des Deux-Sèvres |
 
-Moselle
+Gironde |
 
-|
+Préfecture de la Somme |
 
-Préfecture de l'Oise
+Nord |
 
-|
+Préfecture du Tarn |
 
-Nord
+Bouches-du-Rhône à compter du 1er juillet 2017 |
 
-|
+Préfecture du Tarn-et-Garonne |
 
-Préfecture de l'Orne
+Bouches-du-Rhône à compter du 1er juillet 2017 |
 
-|
+Préfecture du Var |
 
-Ille-et-Vilaine
+Bouches-du-Rhône |
 
-|
+Préfecture de Vendée |
 
-Préfecture du Puy-de-Dôme
+Ille-et-Vilaine |
 
-|
+Préfecture de la Vienne |
 
-Isère
+Gironde |
 
-|
+Préfecture de la Haute-Vienne |
 
-Préfecture des Hautes-Pyrénées
+Gironde |
 
-|
+Préfecture de l'Yonne |
 
-Bouches-du-Rhône à compter du 1er juillet 2017
+Moselle |
 
-|
+Préfecture du Territoire de Belfort |
 
-Préfecture des Pyrénées-Orientales
+Moselle |
 
-|
+Préfecture des Hauts-de-Seine |
 
-Bouches-du-Rhône
+Yvelines |
 
-|
+Préfecture de Seine-Saint-Denis |
 
-Préfecture du Bas-Rhin
+Yvelines |
 
-|
+Préfecture du Val-de-Marne |
 
-Moselle
+Yvelines |
 
-|
+Préfecture du Val-d'Oise |
 
-Préfecture du Haut-Rhin
+Yvelines |
 
-|
+Secrétariat général pour l'administration du ministère de l'intérieur de Lyon |
 
-Moselle
-
-|
-
-Préfecture du Rhône
-
-|
-
-Isère
-
-|
-
-Préfecture de Haute-Saône
-
-|
-
-Moselle
-
-|
-
-Préfecture de Saône-et-Loire
-
-|
-
-Moselle
-
-|
-
-Préfecture de la Sarthe
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Préfecture de Paris
-
-|
-
-Yvelines
-
-|
-
-Préfecture de Seine-Maritime
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Préfecture de Seine-et-Marne
-
-|
-
-Yvelines
-
-|
-
-Préfecture des Deux-Sèvres
-
-|
-
-Gironde
-
-|
-
-Préfecture de la Somme
-
-|
-
-Nord
-
-|
-
-Préfecture du Tarn
-
-|
-
-Bouches-du-Rhône à compter du 1er juillet 2017
-
-|
-
-Préfecture du Tarn-et-Garonne
-
-|
-
-Bouches-du-Rhône à compter du 1er juillet 2017
-
-|
-
-Préfecture du Var
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Préfecture de Vendée
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Préfecture de la Vienne
-
-|
-
-Gironde
-
-|
-
-Préfecture de la Haute-Vienne
-
-|
-
-Gironde
-
-|
-
-Préfecture de l'Yonne
-
-|
-
-Moselle
-
-|
-
-Préfecture du Territoire de Belfort
-
-|
-
-Moselle
-
-|
-
-Préfecture des Hauts-de-Seine
-
-|
-
-Yvelines
-
-|
-
-Préfecture de Seine-Saint-Denis
-
-|
-
-Yvelines
-
-|
-
-Préfecture du Val-de-Marne
-
-|
-
-Yvelines
-
-|
-
-Préfecture du Val-d'Oise
-
-|
-
-Yvelines
-
-|
-
-Secrétariat général pour l'administration du ministère de l'intérieur de Lyon
-
-|
-
-Isère
-
-|
+Isère |
 
 Secrétariat général pour l'administration du ministère de l'intérieur de Marseille
 
 |
 
-Personnels de la police nationale en poste dans le département de l'Ariège
+Personnels de la police nationale en poste dans le département de l'Ariège |
 
-|
-
-Bouches-du-Rhône à compter du 1er mars 2017
-
-|
+Bouches-du-Rhône à compter du 1er mars 2017 |
 
 Personnels de la police nationale en poste dans le département
 
@@ -978,103 +696,59 @@ de la Haute-Garonne
 
 |
 
-Bouches-du-Rhône à compter du 1er mai 2017
+Bouches-du-Rhône à compter du 1er mai 2017 |
 
-|
+Personnels de la police nationale en poste dans les départements de l'Aveyron, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne |
 
-Personnels de la police nationale en poste dans les départements de l'Aveyron, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne
+Bouches-du-Rhône à compter du 1er juillet 2017 |
 
-|
+Réservistes de la police nationale en poste dans les départements de l'Ariège, de l'Aveyron, de la Haute-Garonne, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne |
 
-Bouches-du-Rhône à compter du 1er juillet 2017
-
-|
-
-Réservistes de la police nationale en poste dans les départements de l'Ariège, de l'Aveyron, de la Haute-Garonne, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne
-
-|
-
-Bouches-du-Rhône à compter du 1er mars 2017
-
-|
+Bouches-du-Rhône à compter du 1er mars 2017 |
 
 Secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris
 
 |
 
-Personnels civils de la gendarmerie
+Personnels civils de la gendarmerie |
 
-|
+Yvelines |
 
-Yvelines
+Personnels scientifiques et techniques de la police nationale |
 
-|
+Yvelines |
 
-Personnels scientifiques et techniques de la police nationale
+Personnels du corps de commandement de la police nationale |
 
-|
+Paris |
 
-Yvelines
+Personnels du corps d'encadrement et d'application de la police nationale |
 
-|
+Paris |
 
-Personnels du corps de commandement de la police nationale
+Personnels administratifs de la police nationale |
 
-|
-
-Paris
-
-|
-
-Personnels du corps d'encadrement et d'application de la police nationale
-
-|
-
-Paris
-
-|
-
-Personnels administratifs de la police nationale
-
-|
-
-Yvelines
-
-|
+Yvelines |
 
 Autres services ou catégories de personnels
 
 |
 
-Bureau des cultes du Bas-Rhin et du Haut-Rhin
+Bureau des cultes du Bas-Rhin et du Haut-Rhin |
 
-|
+Moselle |
 
-Moselle
+Chefs de district en poste dans les Terres australes et antarctiques françaises (archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, terre Adélie, îles Eparses) |
 
-|
+La Réunion |
 
-Chefs de district en poste dans les Terres australes et antarctiques françaises (archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, terre Adélie, îles Eparses)
+Personnels de la sécurité routière |
 
-|
+Paris |
 
-La Réunion
+G. – Services du Premier ministre - Juridictions administratives et financières :
 
-|
-
-Personnels de la sécurité routière
-
-|
-
-Paris
-
-|
-
-G.-Services du Premier ministre-Juridictions administratives et financières :
-
-SERVICE OU CATÉGORIE DE PERSONNEL
-
-|
+SERVICE OU CATÉGORIE DE PERSONNEL |
 
 DIRECTION DES FINANCES PUBLIQUES
 
@@ -1082,35 +756,21 @@ chargée de la paye sans ordonnancement préalable
 
 |
 
-Magistrats des tribunaux administratifs et cours administratives d'appel
+Magistrats des tribunaux administratifs et cours administratives d'appel |
 
-|
+Paris |
 
-Paris
+Personnels administratifs des juridictions administratives |
 
-|
+Paris |
 
-Personnels administratifs des juridictions administratives
+Chambres régionales des comptes |
 
-|
+Paris |
 
-Paris
+H. – Ministère de la transition écologique et solidaire et ministère de la cohésion des territoires :
 
-|
-
-Chambres régionales des comptes
-
-|
-
-Paris
-
-|
-
-H.-Ministère de l'environnement, de l'énergie et de la mer et ministère du logement et de l'habitat durable :
-
-SERVICE OU CATÉGORIE DE PERSONNEL
-
-|
+SERVICE OU CATÉGORIE DE PERSONNEL |
 
 DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
 
@@ -1124,327 +784,169 @@ de l'hébergement et du logement d'Ile-de-France
 
 |
 
-Personnel en poste à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
+Personnel en poste à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne |
 
-|
+Val-de-Marne |
 
-Val-de-Marne
+Personnel en poste dans le département de Seine-et-Marne |
 
-|
+Val-de-Marne |
 
-Personnel en poste dans le département de Seine-et-Marne
+Personnel en poste dans les départements des Yvelines et de l'Essonne |
 
-|
+Yvelines |
 
-Val-de-Marne
+Personnel en poste dans le département du Val-d'Oise |
 
-|
-
-Personnel en poste dans les départements des Yvelines et de l'Essonne
-
-|
-
-Yvelines
-
-|
-
-Personnel en poste dans le département du Val-d'Oise
-
-|
-
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Autres services ou catégories de personnel
 
 |
 
-Personnels de catégorie A en poste dans les collectivités d'outre-mer régies par l'article 73 de la Constitution
+Personnels de catégorie A en poste dans les collectivités d'outre-mer régies par l'article 73 de la Constitution |
 
-|
+Paris |
 
-Paris
+Corps des attachés d'administration hors réseau scientifique |
 
-|
+Paris |
 
-Corps des attachés d'administration hors réseau scientifique
+Corps des ingénieurs des travaux publics de l'Etat hors réseau scientifique |
 
-|
+Val-de-Marne |
 
-Paris
+Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
 
-|
+Val-de-Marne |
 
-Corps des ingénieurs des travaux publics de l'Etat hors réseau scientifique
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction interrégionale de la mer Manche Est mer du Nord |
 
-|
+Calvados à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Val-de-Marne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de l'Ardèche, de la Drôme, de l'Isère de la Loire, du Rhône, de la Savoie et de la Haute-Savoie |
 
-|
+Puy-de-Dôme à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani )
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du Territoire de Belfort |
 
-|
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Val-de-Marne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin |
 
-|
+Moselle à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction interrégionale de la mer Manche Est mer du Nord
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais |
 
-|
+Somme |
 
-Calvados à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne |
 
-|
+Seine-Maritime à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de l'Ardèche, de la Drôme, de l'Isère de la Loire, du Rhône, de la Savoie et de la Haute-Savoie
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Maritime, de la Corrèze, de la Creuse, des Deux-Sèvres, de la Vienne et de la Haute-Vienne |
 
-|
+Gironde à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Puy-de-Dôme à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du Territoire de Belfort
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Allier |
 
-|
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Aude |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente |
 
-|
+Haute-Vienne |
 
-Moselle à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime |
 
-|
+Haute-Vienne |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Doubs |
 
-|
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Somme
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Gard |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Seine-Maritime à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Jura |
 
-|
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Maritime, de la Corrèze, de la Creuse, des Deux-Sèvres, de la Vienne et de la Haute-Vienne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire |
 
-|
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Gironde à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Lozère |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Nord |
 
-|
+Somme |
 
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Pas-de-Calais |
 
-|
+Somme |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Allier
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales |
 
-|
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône |
 
-|
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Aude
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres |
 
-|
+Haute-Vienne |
 
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Vienne |
 
-|
+Haute-Vienne |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Territoire de Belfort |
 
-|
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Haute-Vienne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution |
 
-|
+Calvados |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime
+Centre de valorisation des ressources humaines d'Arras |
 
-|
+Somme |
 
-Haute-Vienne
+Centre de valorisation des ressources humaines de Clermont-Ferrand |
 
-|
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017 |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Doubs
+Direction interdépartementale des routes Nord |
 
-|
+Somme |
 
-Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin |
 
-|
+Val-de-Marne |
 
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Gard
+Service technique des remontées mécaniques et des transports guidés de Grenoble |
 
-|
+Rhône |
 
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+I. – Ministère des solidarités et de la santé et ministère des sports :
 
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault
-
-|
-
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Jura
-
-|
-
-Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire
-
-|
-
-Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Lozère
-
-|
-
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Nord
-
-|
-
-Somme
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Pas-de-Calais
-
-|
-
-Somme
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales
-
-|
-
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône
-
-|
-
-Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres
-
-|
-
-Haute-Vienne
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Vienne
-
-|
-
-Haute-Vienne
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Territoire de Belfort
-
-|
-
-Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution
-
-|
-
-Calvados
-
-|
-
-Centre de valorisation des ressources humaines d'Arras
-
-|
-
-Somme
-
-|
-
-Centre de valorisation des ressources humaines de Clermont-Ferrand
-
-|
-
-Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Direction interdépartementale des routes Nord
-
-|
-
-Somme
-
-|
-
-Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin
-
-|
-
-Val-de-Marne
-
-|
-
-Service technique des remontées mécaniques et des transports guidés de Grenoble
-
-|
-
-Rhône
-
-|
-
-I.-Ministère des affaires sociales et de la santé :
-
-SERVICE
-
-|
+SERVICE |
 
 DIRECTION DES FINANCES PUBLIQUES
 
@@ -1452,27 +954,17 @@ chargée de la paye sans ordonnancement préalable
 
 |
 
-Directions régionales de la jeunesse, des sports et de la cohésion sociale de métropole hors Ile-de-France
+Directions régionales de la jeunesse, des sports et de la cohésion sociale de métropole hors Ile-de-France |
 
-|
+Seine-Saint-Denis |
 
-Seine-Saint-Denis
+Direction régionale de la jeunesse, des sports et de la cohésion sociale d'Ile-de-France |
 
-|
+Paris |
 
-Direction régionale de la jeunesse, des sports et de la cohésion sociale d'Ile-de-France
+J. – Ministère du travail :
 
-|
-
-Paris
-
-|
-
-J.-Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social :
-
-SERVICE
-
-|
+SERVICE |
 
 DIRECTION DES FINANCES PUBLIQUES
 
@@ -1480,16 +972,10 @@ chargée de la paye sans ordonnancement préalable
 
 |
 
-Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de métropole hors Ile-de-France
+Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de métropole hors Ile-de-France |
 
-|
+Seine-Saint-Denis |
 
-Seine-Saint-Denis
-
-|
-
-Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France
-
-|
+Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France |
 
 Paris |
