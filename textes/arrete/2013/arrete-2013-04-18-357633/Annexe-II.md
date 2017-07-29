@@ -244,7 +244,7 @@ Direction impôts services (Pantin, Lille, Nancy, Rouen)
 
 Paris |
 
-Direction des résidents à l'étranger et des services généraux (Noisy-le-Grand)
+Direction des impôts des non-résidents (Noisy-le-Grand)
 
 |
 
