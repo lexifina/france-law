@@ -42,7 +42,7 @@ Note de pratique professionnelle moyenne de toutes les notes de stage sur ce DC
 
 Coefficient 1
 
-Validation du DC : moyenne des 2 notes supérieure ou égale à 10
+Validation du DC : une note strictement supérieure à 5/20 à l'épreuve écrite de fin de formation du DC1 et la moyenne des 2 notes (épreuves écrites et note de pratique professionnelle) supérieure ou égale à 10
 
 |
 
