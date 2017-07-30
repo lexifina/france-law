@@ -1,6 +1,6 @@
 # Article Annexe 6-7
 
-Aide à l'utilisation des nouvelles technologies de l'image et du son (article 621-8)
+ALLOCATIONS DIRECTES À LA CRÉATION VISUELLE PAR L'UTILISATION DES TECHNOLOGIES NUMÉRIQUES DE L'IMAGE (ARTICLE 621-12)
 
 Liste des documents justificatifs :
 
@@ -14,22 +14,22 @@ Liste des documents justificatifs :
 
 5° Eventuellement, DVD ou lien sur la ou les œuvres précédentes du réalisateur ;
 
-6° Le devis complet de l'œuvre, et dans le cas d'un pilote, un devis prévisionnel de l'œuvre définitive ;
+6° Le devis complet de l'œuvre ;
 
-7° Le devis des prestataires spécialisés ;
+7° Le ou les devis complets détaillant les dépenses d'effets visuels, établis par le ou les prestataires spécialisés et visés par l'entreprise de production. Ce ou ces devis doivent être détaillés et formalisés plan par plan ;
 
-8° Un plan de financement prévisionnel complet, et dans le cas d'un pilote, un plan de financement prévisionnel de l'œuvre définitive ;
+8° Un plan de financement prévisionnel ;
 
-9° Le curriculum vitae du réalisateur et, le cas échéant, du stéréographe ;
+9° Un exemplaire du contrat conclu entre l'entreprise de production et le ou les prestataires spécialisés en matière d'effets visuels, établis en France, ou tout document préparatoire attestant de l'intention de l'entreprise de production française de contracter avec ce ou ces prestataires, établis en France, spécialisés en matière d'effets visuels. Ce document préparatoire doit être visé par les deux parties ;
 
-10° La liste de l'équipe technique (chefs de postes) ;
+10° Le curriculum vitae du réalisateur et, le cas échéant, du stéréographe ;
 
-11° Le curriculum vitae de l'entreprise de production et, éventuellement, des sociétés prestataires ;
+11° La liste de l'équipe technique (chefs de postes) ;
 
-12° Le scénario précédé du synopsis ;
+12° Le curriculum vitae de l'entreprise de production et, éventuellement, des prestataires ;
 
-13° Dans le cas d'un pilote, tous les éléments connus de l'œuvre définitive : continuité dialoguée, synopsis détaillé, version en cours du scénario, etc. ;
+13° Le scénario précédé du synopsis ;
 
-14° Le cas échéant, la lettre d'attribution ou les justificatifs de demande d'une première aide du CNC ;
+14° Le cas échéant, la lettre d'attribution ou les justificatifs de demande d'une première aide du Centre national du cinéma et de l'image animée ;
 
 15° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).

@@ -1,31 +1,35 @@
 # Article Annexe 6-8
 
-Aides à l'investissement dans des immobilisations (article 631-6)
+Aides à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (Article 621-24)
 
 Liste des documents justificatifs :
 
-I.-Dossier Entreprise (une seule fois par an) :
+1° Une note d'intention artistique ;
 
-1° Les liasses fiscales des trois derniers exercices clos ;
+2° Une note d'intention technique et/ ou, pour les œuvres ayant recours aux techniques stéréoscopiques, une note d'intention du stéréographe ;
 
-2° Eventuellement, des informations complémentaires sur l'entreprise ;
+3° Une bible graphique ou références visuelles, storyboard et/ ou animatique ;
 
-3° Eventuellement, un document unique de sécurité et de ses établissements secondaires ;
+4° Eventuellement, une vidéo d'intention artistique et technique ;
 
-4° Attestations fiscales et sociales :
+5° Eventuellement, DVD ou lien sur la ou les œuvres précédentes du réalisateur ;
 
-a) Soit l'imprimé 3666 (attestations fiscales), les attestations sociales (URSSAF, Audiens et Pôle emploi), ainsi que, le cas échéant, le certificat de congés payés ;
+6° Le devis complet de l'œuvre, et dans le cas d'un pilote, un devis prévisionnel de l'œuvre définitive ;
 
-b) Soit la page 3/3 de l'imprimé Etat annuel des certificats reçus, référencé DC7 (copie certifiée conforme par le représentant légal de l'entreprise) ;
+7° Le devis des prestataires spécialisés ;
 
-5° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).
+8° Un plan de financement prévisionnel complet, et dans le cas d'un pilote, un plan de financement prévisionnel de l'œuvre définitive ;
 
-II.-Dossier Projet :
+9° Le curriculum vitae du réalisateur et, le cas échéant, du stéréographe ;
 
-1° Une copie des devis des fournisseurs ou prestataires ;
+10° La liste de l'équipe technique (chefs de postes) ;
 
-2° Eventuellement, des informations complémentaires sur le projet ;
+11° Le curriculum vitae de l'entreprise de production et, éventuellement, des sociétés prestataires ;
 
-3° Eventuellement, des éléments visuels permettant de mieux apprécier le projet ;
+12° Le scénario précédé du synopsis ;
 
-4° Lorsque l'investissement s'accompagne de créations de postes, les fiches de postes correspondantes ainsi que le curriculum vitae de la personne qui a éventuellement déjà été recrutée.
+13° Dans le cas d'un pilote, tous les éléments connus de l'œuvre définitive : continuité dialoguée, synopsis détaillé, version en cours du scénario, etc. ;
+
+14° Le cas échéant, la lettre d'attribution ou les justificatifs de demande d'une première aide du CNC ;
+
+15° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).
