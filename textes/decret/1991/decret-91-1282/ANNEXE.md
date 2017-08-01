@@ -136,16 +136,12 @@ A compter du 1er août 1996
 
 18. Agent chargé du traitement juridique et comptable du contentieux administratif et judiciaire.
 
-19. Chef de bureau d'administration centrale.
+19. Responsables de la gestion des crédits de rémunérations principales et accessoires du secteur Travail, emploi et formation professionnelle.
 
-20. Adjoint au chef d'un bureau d'administration centrale dont l'effectif est supérieur ou égal à dix agents.
+20. Chargé (e) s de l'administration des soins et du suivi médical.
 
-21. Responsables de la gestion des crédits de rémunérations principales et accessoires du secteur Travail, emploi et formation professionnelle.
+21. Responsable d'une équipe logistique d'un site.
 
-22. Chargé (e) s de l'administration des soins et du suivi médical.
+22. Responsable sectoriel des enquêtes statistiques sur l'activité et les conditions d'emploi de la main-d'oeuvre.
 
-23. Responsable d'une équipe logistique d'un site.
-
-24. Responsable sectoriel des enquêtes statistiques sur l'activité et les conditions d'emploi de la main-d'oeuvre.
-
-25. Responsables des concours.
+23. Responsables des concours.
