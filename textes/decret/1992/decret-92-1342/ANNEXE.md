@@ -2,14 +2,12 @@
 
 Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Responsable de la maintenance bureautique ;
+– responsable de maintenance bureautique ;
 
-Responsable de la fonction bureautique P.A.O. (publication assistée par ordinateur) ;
+– responsable de la reprographie ;
 
-Responsable de la fonction P.A.O. (C.E.P.I.I.) ;
+– responsable du secteur audiovisuel (CGP) ;
 
-Responsable du secteur audiovisuel (C.G.P.) ;
+– agent chargé de la préparation du budget et de la gestion des effectifs et de la masse salariale ;
 
-Agent chargé de la gestion (calcul et transmission à la paierie) des rémunérations (CGP) ;
-
-Agent chargé de la réalisation des graphiques des publications (CEPII).
+– agent chargé de la réalisation des graphiques des publications (CEPII).
