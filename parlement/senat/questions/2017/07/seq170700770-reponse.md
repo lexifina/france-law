@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700770
+
+- Question : [SEQ170700770](seq170700770.md) — Préoccupations des chirurgiens dentistes
+
+## Réponse
+
+*Solidarités et santé, JO du 2017-08-03, page 2526*
+
+À la suite de l'arrêt des négociations sur la convention nationale des chirurgiens-dentistes, une procédure d'arbitrage a été mise en œuvre. Elle s'est concrétisée par l'arrêté du 29 mars 2017, publié au Journal officiel du 31 mars 2017, portant approbation du règlement arbitral organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie. Celui-ci doit rentrer en œuvre le 1er janvier 2018. Ce règlement arbitral cristallise les tensions des différents syndicats libéraux. L'impératif de la ministre des solidarités et de la santé est de répondre aux besoins légitimes des Français en matière de santé, de prévention et d'accès aux soins. En matière de santé et de prévention, les maladies bucco-dentaires peuvent favoriser l'apparition, la progression ou la gravité de certaines maladies générales, il est donc important que les chirurgiens-dentistes s'intègrent mieux dans le parcours de soins et les parcours de santé, en lien avec les autres professionnels de santé, et que les soins « conservateurs » soient revalorisés. En matière d'accès aux soins, la promesse du président de la République, sur le reste à charge zéro concernant les prothèses dentaires, doit être mise en œuvre. Cela ne pourra pas se faire sans un dialogue constructif avec les syndicats représentatifs des chirurgiens-dentistes libéraux. Le souhait de la ministre est de garantir un accès aux soins plus juste. En diminuant le reste à charge et en valorisant le travail de prévention primaire et secondaire des dentistes, les évolutions à venir modifieront durablement la pratique des soins dentaires en France dans l'intérêt des patients.
