@@ -136,7 +136,9 @@ A-0 |
 
 A-30 |
 
-Locaux de service (faible risque) |
+Locaux de service
+
+(faible risque) |
 
 (5) |
 
@@ -162,7 +164,9 @@ A-0 |
 
 A-0 |
 
-Locaux de machines de catégorie A |
+Locaux de machines
+
+de catégorie A |
 
 (6) |
 
@@ -240,7 +244,9 @@ A-0 |
 
 A-0 |
 
-Locaux de service (risque élevé) |
+Locaux de service
+
+(risque élevé) |
 
 (9) |
 
@@ -298,7 +304,7 @@ Ponts découverts |
 
 A-0 |
 
-Locaux de catégorie spéciale et espaces rouliers |
+Locaux de catégorie spéciale |
 
 (11) |
 

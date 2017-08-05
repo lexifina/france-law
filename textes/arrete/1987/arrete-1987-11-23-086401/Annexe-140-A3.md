@@ -72,7 +72,7 @@ Rina Services s.p.a |
 
 4. Organismes habilités pour contrôler ou agréer les conteneurs et les ACEP :
 
-- le Bureau Veritas Marine & Offshore SAS ;
+- le Bureau Veritas Services SAS ;
 
 - le Lloyd's Register of Shipping ;
 

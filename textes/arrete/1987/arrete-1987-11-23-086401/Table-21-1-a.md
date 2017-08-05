@@ -34,11 +34,11 @@ Postes de sécurité |
 
 (1) |
 
-A-0e |
+A-0c |
 
 A-0 |
 
-60 |
+A-60 |
 
 A-0 |
 
@@ -66,7 +66,7 @@ Ce |
 
 B-0e |
 
-A-0e
+A-0a
 
 B-0e |
 
@@ -74,9 +74,9 @@ B-0e |
 
 A-60 |
 
-A-15 |
+A-0 |
 
-A-60 |
+A-0 |
 
 A-15
 
@@ -96,7 +96,7 @@ Locaux d'habitation |
 
 Ce |
 
-A-0e
+A-0a
 
 B-0e |
 
@@ -128,11 +128,11 @@ Escaliers |
 
 |
 
-A-0e
+A-0a
 
 B-0e |
 
-A-0e
+A-0a
 
 B-0e |
 
@@ -306,7 +306,7 @@ Ponts découverts |
 
 A-0 |
 
-Locaux de catégorie spéciale et espaces rouliers |
+Locaux de catégorie spéciale |
 
 (11) |
 
