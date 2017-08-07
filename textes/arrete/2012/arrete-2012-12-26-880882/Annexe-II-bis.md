@@ -12,7 +12,9 @@ II. – Epreuves d'admission
 
 Cette épreuve consiste en un entretien avec le jury s'appuyant sur le dossier professionnel du candidat déclaré admissible.
 
-L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de sous-officier de gendarmerie. A partir du dossier professionnel du candidat, le jury a toute latitude pour élargir la discussion. ;
+L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de sous-officier de gendarmerie. A partir du dossier professionnel du candidat, le jury a toute latitude pour élargir la discussion.
+
+Ce dossier comprend un rapport établi au titre d'une des spécialités librement choisie à l'inscription et prévue par l'arrêté du 4 août 2010 modifié pris pour l'application dans la gendarmerie nationale des articles 5 et 18 du décret 2008-953 du 12 septembre 2008 portant statut particulier des corps de sous-officiers et officiers marinier de carrière des armées et du soutien technique et administratif de la gendarmerie nationale.
 
 2° Epreuve sportive :
 
