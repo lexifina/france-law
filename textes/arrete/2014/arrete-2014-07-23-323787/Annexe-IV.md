@@ -16,6 +16,8 @@ II. - Epreuves d'admission
 
 1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : 30 minutes, sans préparation ; coefficient 4).
 
+Ce dossier comprend un rapport établi au titre d'une des subdivisions d'arme ou spécialités librement choisie à l'inscription et prévue par l'arrêté du 5 avril 2012 modifié relatif à la répartition des sous-officiers de gendarmerie par subdivision d'arme, par branche ou par spécialité et fixant les branches et spécialités au sein desquelles l'avancement intervient de façon distincte.
+
 Cette épreuve consiste en un entretien avec le jury s'appuyant sur le dossier professionnel du candidat déclaré admissible.
 
 L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de sous-officier de gendarmerie. A partir du dossier professionnel du candidat, le jury a toute latitude pour élargir la discussion.
