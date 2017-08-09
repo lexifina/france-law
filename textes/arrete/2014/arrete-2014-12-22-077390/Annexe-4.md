@@ -10,6 +10,8 @@ Conformément à l’article 3 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
+- Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° IND-BA-113
+
 - Conduits de lumière naturelle / Fiche d’opération standardisée n° IND-BA-114
 
 - Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° IND-BA-115
@@ -70,7 +72,11 @@ Conformément à l’article 8 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311
 
 - Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
 
+- Moteur asynchrone de classe IE4 / Fiche d’opération standardisée n° IND-UT-132
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 08/08/2017, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgthOva_2h02AY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
 
@@ -92,4 +98,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 10 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A).
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A).

@@ -72,6 +72,8 @@ Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’op�
 
 Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
+Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
+
 Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
 Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
@@ -102,6 +104,8 @@ Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d
 
 Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
+Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
+
 Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° BAT-EQ-130
 
 Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-131
@@ -113,6 +117,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 08/08/2017, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgthOva_2h02AY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
 
@@ -136,4 +142,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 10 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A).
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A).
