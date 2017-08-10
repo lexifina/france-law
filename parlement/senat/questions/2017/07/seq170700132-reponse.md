@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700132
+
+- Question : [SEQ170700132](seq170700132.md) — Exonération de l'impôt sur le revenu en cas de cession de titres détenus dans plusieurs sociétés lors du départ à la retraite d'un dirigeant
+
+## Réponse
+
+*Économie et finances, JO du 2017-08-10, page 2578*
+
+L'article 151 septies A du code général des impôts (CGI) prévoit, sous certaines conditions, une exonération des plus-values réalisées, à l'occasion de la cession à titre onéreux de l'intégralité des droits ou parts d'une société soumise au régime d'imposition des sociétés de personnes, dans le cadre du départ à la retraite de l'associé ayant exercé son activité professionnelle pendant au moins cinq ans. Cette exonération s'applique aux seules cessions portant sur l'ensemble des éléments affectés à l'exploitation transmise, sans toutefois être limitée à la transmission d'une seule activité. Ainsi, la cession de parts de plusieurs entités distinctes dans lesquelles l'exploitant exerce son activité à titre professionnel peut bénéficier de l'exonération prévue à l'article 151 septies A du CGI, toutes conditions remplies. Il est précisé que la cession de l'intégralité des droits ou parts détenues dans les différentes entreprises doit être réalisée dans le délai de vingt-quatre mois précédant ou suivant la date de départ à la retraite ou de cessation de toute fonction dans ces sociétés par le cédant, conformément au 3° du I de l'article 151 septies A du CGI. Cela étant, il ne pourra être répondu plus précisément à la question posée que si, par l'indication des nom et adresse des personnes concernées et de l'ensemble des éléments s'y rapportant, l'administration était à même de procéder à un examen circonstancié du cas particulier évoqué. À cet égard, il est rappelé qu'en cas de doute sur l'application d'un dispositif fiscal particulier, les contribuables peuvent se renseigner auprès de leur centre des finances publiques.
