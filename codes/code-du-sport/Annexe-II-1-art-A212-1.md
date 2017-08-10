@@ -1254,7 +1254,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en
 
 BP JEPS, spécialité "éducateur sportif", mention "activités équestres", toutes options. |
 
-Animation et enseignement des activités équestres pout tout public, de tout niveau et dans tout établissement. |
+Animation et enseignement des activités équestres pour tout public, de tout niveau et dans tout établissement. |
 
 |
 
@@ -1340,9 +1340,9 @@ Pour la plongée subaquatique en scaphandre :
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. |
 
-BP JEPS spécialité "éducateur sportif", mention "plongée subaquatique", option "sans scaphandre" (option B). |
+BP JEPS spécialité "éducateur sportif" , mention "plongée subaquatique", option "sans scaphandre" (option B). |
 
-Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique sans scaphandre, y compris la randonnée aquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport. |
+Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport. |
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. |
 
