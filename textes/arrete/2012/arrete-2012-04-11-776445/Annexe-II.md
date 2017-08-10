@@ -2,7 +2,7 @@
 
 LE CYCLE PRÉPARATOIRE
 
-I. - Composition du dossier d'inscription
+I.-Composition du dossier d'inscription
 
 Le dossier comprend les pièces suivantes :
 
@@ -10,25 +10,27 @@ Le dossier comprend les pièces suivantes :
 
 2. Deux photographies d'identité récentes, dont une agrafée à la demande d'inscription et comportant le nom du candidat au verso ;
 
-3. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski alpin datant de moins d'un an à la date de clôture de la première inscription ;
+3. Un certificat médical de non contre-indication à la pratique et à l'enseignement du ski datant de moins d'un à la date de clôture de la première inscription ;
 
-4. l'attestation de réussite au test technique datant de moins de trois ans à la date de clôture des inscriptions ;
+4. L'attestation de réussite au test technique datant de moins de trois ans à la date de clôture des inscriptions ;
 
-5. la photocopie de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) ou son équivalent ;
+5. La photocopie de l'unité d'enseignement prévention et secours civiques de niveau 1 (PSC 1) ou son équivalent ;
 
-6. Trois enveloppes autocollantes de format 23× 16 cm, affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat et une enveloppe autocollante de format 21 × 29,7 cm affranchie au tarif en vigueur pour l'envoi d'un recommandé avec accusé de réception.
+6. Pour les candidats de nationalité française nés à partir de 1979 pour les hommes et à partir de 1983 pour les femmes, une photocopie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et citoyenneté ;
 
-II. - Qualification des formateurs, du responsable pédagogique et de son adjoint
+7. Trois enveloppes autocollantes de format 23 x 16 affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat et une enveloppe autocollante de format 21 × 29,7 affranchie au tarif en vigueur.
 
-Les formateurs du cycle préparatoire, le responsable pédagogique et son adjoint sont titulaires d'un des diplômes suivants :
+II.-Qualification des formateurs, du responsable pédagogique et de son adjoint et des techniciens qualifiés.
 
-- brevet d'Etat d'éducateur sportif du premier ou du deuxième degré, option ski alpin ;
+Les formateurs du cycle préparatoire, le responsable pédagogique et son adjoint et les techniciens qualifiés sont titulaires d'un des diplômes suivants :
 
-- brevet d'Etat de ski alpin du deuxième degré ;
+-brevet d'Etat d'éducateur sportif du premier ou du deuxième degré, option ski alpin ;
 
-- diplôme de moniteur de ski français ;
+-brevet d'Etat de ski alpin du deuxième degré ;
 
-- diplôme d'Etat de ski - moniteur national de ski alpin.
+-diplôme de moniteur du ski français ;
+
+-diplôme d'Etat de ski-moniteur national de ski alpin.
 
 III. - Modalités de l'examen
 
@@ -50,9 +52,7 @@ Toute note inférieure à 10 est éliminatoire.
 
 2° Autres épreuves :
 
-1. Un entretien oral d'une durée de 20 minutes portant sur l'acquisition générale des bases de l'enseignement des classes débutant et classe 1 définie dans le mémento de la méthode de l'enseignement du ski français, conduit par les formateurs (coefficient 1, noté sur 20).
-
-Toute note inférieure à 10 est éliminatoire.
+1. Une épreuve orale d'une durée de 20 minutes portant sur l'acquisition générale des bases de l'enseignement des classes débutant et classe 1 définie dans le mémento de la méthode de l'enseignement du ski français. L'épreuve est évaluée par les formateurs intervenant en binôme, le cas échéant, avec des experts titulaires d'un des diplômes visés au II et désignés par le responsable pédagogique. Toute note inférieure à 10 est éliminatoire.
 
 2. Une évaluation continue du cycle préparatoire attribuée par le responsable pédagogique, sur proposition écrite des formateurs (coefficient 1, noté sur 20).
 
