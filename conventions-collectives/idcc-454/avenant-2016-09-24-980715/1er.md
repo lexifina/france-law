@@ -1,0 +1,27 @@
+# Article 1er
+
+L'article 4.6 « Amélioration des conditions de travail et prévention de la pénibilité » de l'avenant n° 64 à la convention collective nationale des remontées mécaniques et domaines skiables est modifié comme suit.
+
+« Article 4.6
+
+Amélioration des conditions de travail et maintien dans l'emploi
+
+Conformément aux dispositions de l'avenant conventionnel n° 56, les entreprises s'engagent à œuvrer pour l'amélioration des conditions de travail de tous les postes de l'entreprise et à prévenir les situations de pénibilité, notamment vis-à-vis des seniors.
+
+En matière de sécurité du travail, des avancées intéressantes ont été permises ces dernières années grâce à l'implication des acteurs de la profession (groupes de travail sur la sécurité du travail, relations avec les CARSAT, conventions d'objectifs, etc.) et aux relations accrues avec les fabricants. Ces échanges ont porté leurs fruits. Ainsi, grâce à la R & D et aux évolutions technologiques, les appareils et matériels sont de mieux en mieux adaptés aux contraintes de nos activités et de plus en plus sécuritaires.
+
+Ces axes de progrès doivent être poursuivis.
+
+En outre, les parties signataires veilleront à l'implication des services de santé au travail autour de ces sujets. Les médecins du travail, dans le cadre de leur tiers-temps qui doit dûment être réalisé en entreprise, seront incités à participer aux réunions du CHSCT, participer aux réunions de travail et déterminer les postes nécessitant une amélioration des conditions de travail, voire la prévention des situations de pénibilité.
+
+Des formations adaptées (gestes et postures …) seront proposées aux salariés âgés de plus de 55 ans.
+
+L'ensemble des avis et propositions visant à favoriser les conditions de travail et la prévention de la pénibilité des salariés de 55 ans et plus seront débattus annuellement en CHSCT. Cet examen devra permettre de cibler les axes d'amélioration que l'entreprise s'engage à mettre en place, ou à défaut, d'expliquer les raisons qui s'y opposent. Le cas échéant, il pourra être fait appel à la pluridisciplinarité, en s'attachant notamment les services d'ergonomes chargés d'analyser les postes de travail. Une information spécifique relative au travail des seniors devra être incluse dans le rapport annuel du CHSCT lorsqu'il existe, présentant notamment les mesures engagées en faveur de l'amélioration des conditions de travail des seniors.
+
+En cas d'inaptitude médicale au poste de travail, toute possibilité sera étudiée afin de favoriser le maintien dans l'emploi, le reclassement interne ou externe des salariés.
+
+Par ailleurs, dans le cas de l'inaptitude consécutive à un accident du travail survenu dans l'entreprise, d'un salarié totalisant au moins 12 mois d'ancienneté au sens de l'article 22 de la convention collective, le reclassement interne qui nécessiterait un déclassement du salarié sera assorti des garanties suivantes :
+
+– en cas de reclassement au sein de la même catégorie socioprofessionnelle, le NR de base de son ancien emploi sera conservé ;
+
+– en cas de reclassement dans une catégorie socioprofessionnelle inférieure, le salarié bénéficiera du plus haut NR de base de cette catégorie (221 pour la catégorie ouvriers et employés ; 279 pour la catégorie techniciens et agents de maîtrise). »
