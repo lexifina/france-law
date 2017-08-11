@@ -132,7 +132,7 @@ Pour les candidats hors CCF :
 
 Il s'agit d'une épreuve ponctuelle terminale orale, adaptée au support de formation "polyculture élevage" ou "grandes cultures" s'appuyant sur un ensemble de documents constitué par le candidat, relatif aux activités qu'il a effectuées dans entreprise agricole dans laquelle il a été en stage dans le cadre de la période obligatoire de formation en milieu professionnel.
 
-Les examinateurs sont en fonction du support de formation :
+Les examinateurs sont un enseignant de sciences économiques, sociales et de gestion, et en fonction du support de formation :
 
 - un enseignant d'agronomie et un enseignant de zootechnie et un professionnel du secteur (*) pour le support "polyculture élevage" ;
 
