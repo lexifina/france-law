@@ -76,13 +76,13 @@ En cas de partage égal des voix, le président de séance a voix prépondérant
 
 Le président de séance de l'organe disciplinaire désigne soit un membre de celui-ci, soit une autre personne pour assurer les fonctions de secrétaire de séance.
 
-En cas d'empêchement définitif du président, la présidence de l'organe disciplinaire est assurée par le membre le plus âgé de l'organe disciplinaire.
+En cas d'absence ou d'empêchement définitif du président, la présidence de l'organe disciplinaire est assurée par le membre le plus âgé de l'organe disciplinaire.
 
 Article 6
 
 Les débats devant les organes disciplinaires sont publics.
 
-Toutefois, le président de séance peut, d'office ou à la demande de la personne poursuivie, le cas échéant de son représentant légal, de son conseil ou de son avocat, interdire au public l'accès de la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public ou de la sérénité des débats ou lorsque le respect de la vie privée ou du secret professionnel le justifie.
+Toutefois, le président de séance peut, d'office ou à la demande d'une des parties, le cas échéant de son représentant légal, de son conseil ou de son avocat, interdire au public l'accès de la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public ou de la sérénité des débats ou lorsque le respect de la vie privée ou du secret professionnel le justifie.
 
 Article 7
 
@@ -144,9 +144,9 @@ Ils peuvent demander que soient entendues les personnes de leur choix, dont ils 
 
 Le président de l'organe disciplinaire peut refuser, par décision motivée, les demandes d'audition manifestement abusives.
 
-Lors de la séance, la personne poursuivie peut être accompagnée de son représentant légal, de son conseil ou de son avocat et présenter ses observations écrites ou orales.
+Lors de la séance, la personne poursuivie peut être accompagnée par toute personne. Elle peut être représentée, le cas échéant, par son représentant légal, par son conseil ou son avocat. Des observations écrites ou orales peuvent être présentées par la personne poursuivie ou par les personnes qui l'assistent ou la représentent.
 
-Si elle ne parle pas ou ne comprend pas suffisamment la langue française, elle peut demander à être assistée d'un interprète de son choix à ses frais ou d'un interprète choisi par la fédération aux frais de celle-ci.
+Si elle ne parle pas ou ne comprend pas suffisamment la langue française, elle peut demander à être assistée d'un interprète de son choix à ses frais ou d'un interprète choisi par la fédération, ses organes déconcentrés ou, le cas échéant, la ligue professionnelle aux frais de ceux-ci.
 
 Le délai de sept jours mentionné au premier alinéa peut être réduit en cas d'urgence, de circonstances tenant au bon déroulement des compétitions sportives ou de circonstances exceptionnelles par décision du président de l'organe disciplinaire, à son initiative ou à la demande de la personne chargée de l'instruction ou de la personne poursuivie. En ce cas, la faculté de demander l'audition de personnes s'exerce sans condition de délai.
 
@@ -156,7 +156,7 @@ Article 14
 
 En cas d'urgence, de circonstances tenant au bon déroulement des compétitions sportives ou de circonstances exceptionnelles, et sauf cas de force majeure, le report de l'affaire ne peut être demandé.
 
-Dans les autres cas et sauf cas de force majeure, le report de l'affaire ne peut être demandé par la personne poursuivie ou, le cas échéant, son représentant légal, son conseil ou son avocat, qu'une seule fois, quarante-huit heures au plus tard avant la date de la séance, pour un motif sérieux.
+Dans les autres cas et sauf cas de force majeure, le report de l'affaire ne peut être demandé qu'une seule fois, quarante-huit heures au plus tard avant la date de la séance, pour un motif sérieux.
 
 Le président de l'organe disciplinaire accorde ou non le report. En cas de refus, sa décision doit être motivée.
 
@@ -168,7 +168,7 @@ Lorsque l'affaire est dispensée d'instruction, le président de séance de l'or
 
 Toute personne dont l'audition paraît utile peut être entendue par l'organe disciplinaire. Si une telle audition est décidée, le président en informe la personne poursuivie avant la séance.
 
-La personne poursuivie et, le cas échéant, son représentant légal ainsi que la ou les personnes qui l'assistent ou le représentent sont invités à prendre la parole en dernier.
+La personne poursuivie et, le cas échéant, son représentant légal ainsi que la ou les personnes qui l'assistent ou la représentent sont invités à prendre la parole en dernier.
 
 Article 16
 
@@ -206,7 +206,7 @@ Article 19
 
 La personne poursuivie et, le cas échéant, son représentant légal, son conseil ou son avocat ainsi que ..... (11) peuvent interjeter appel de la décision de l'organe disciplinaire de première instance auprès de celui d'appel selon les modalités prévues à l'article 9, dans un délai de sept jours.
 
-Ce délai est prolongé de cinq jours dans le cas où le domicile de l'intéressé est situé hors de la métropole, sauf si l'organe disciplinaire compétent est situé lui aussi hors métropole, ou au seul profit de la personne poursuivie en cas d'appel par la fédération dont il relève.
+Ce délai est prolongé de cinq jours dans le cas où le domicile de l'intéressé est situé hors de la métropole, sauf si l'organe disciplinaire compétent est situé lui aussi hors métropole, ou au profit de la personne poursuivie ainsi que des autres personnes pouvant interjeter appel en cas d'appel par la fédération dont elle relève.
 
 L'exercice du droit d'appel ne peut être subordonné au versement d'une somme d'argent à la fédération, ou limité par une décision d'un organe fédéral.
 
@@ -232,7 +232,7 @@ En cas de circonstances exceptionnelles, le délai de quatre mois peut être pro
 
 A défaut de décision dans ces délais, l'appelant peut saisir le Comité national olympique et sportif français aux fins de la conciliation prévue à l'article L. 141-4 du code du sport.
 
-Lorsque l'organe disciplinaire d'appel n'a été saisi que par l'intéressé, la sanction prononcée par l'organe disciplinaire de première instance ne peut être aggravée.
+Lorsque l'organe disciplinaire d'appel n'a été saisi que par l'intéressé ou par l'organisme à but lucratif, l'association ou la société sportive avec lequel il a un lien juridique, la sanction prononcée par l'organe disciplinaire de première instance ne peut être aggravée.
 
 La notification et, le cas échéant, la publication se font dans les conditions prévues à l'article 24.
 
@@ -262,9 +262,9 @@ Les sanctions applicables sont notamment (12) :
 
 9° Un huis clos total ou partiel pour une ou plusieurs rencontres sportives ;
 
-10° Une interdiction temporaire ou définitive de participer aux manifestations sportives organisées ou autorisées par une fédération ;
+10° Une interdiction temporaire ou définitive de participer aux manifestations sportives organisées ou autorisées par la fédération ;
 
-11° Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement des compétitions et manifestations sportives autorisées par une fédération délégataire ou organisées par une fédération agréée ;
+11° Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement des compétitions et manifestations sportives autorisées par la fédération délégataire ou organisées par une fédération agréée ;
 
 12° Une interdiction d'exercice de fonction ;
 
@@ -314,7 +314,7 @@ Toute nouvelle infraction sanctionnée pendant ce délai emporte révocation de 
 
 (2) Préciser l'organe de la fédération, de ses organes déconcentrés ou de la ligue professionnelle investi du pouvoir de désignation (assemblée générale, organe dirigeant, président...) et les modalités de celle-ci.
 
-(3) Préciser les modalités d'engagement des poursuites disciplinaires.
+(3) Préciser les modalités d'engagement des poursuites disciplinaires notamment la saisine des organes disciplinaires par le comité d'éthique, le cas échéant.
 
 (4) Déterminer les affaires qui doivent faire l'objet d'une instruction en fonction d'un certain quantum de sanctions encourues et/ou en fonction de la nature ou des circonstances des faits reprochés à la personne poursuivie.
 
@@ -322,7 +322,7 @@ Toute nouvelle infraction sanctionnée pendant ce délai emporte révocation de 
 
 (6) Préciser la (les) personnes ou les organes compétents pour prononcer une mesure provisoire.
 
-(7) Les mesures conservatoires qui peuvent être prononcées sont : une suspension provisoire de terrain ou de salle, un huis clos total ou partiel pour une ou plusieurs rencontres sportives, une interdiction provisoire de participer aux manifestations sportives organisées ou autorisées par une fédération, une interdiction provisoire de participer directement ou indirectement à l'organisation et au déroulement des compétitions et manifestations sportives autorisées par une fédération délégataire ou organisées par une fédération agréée et une suspension provisoire d'exercice de fonction.
+(7) Les mesures conservatoires qui peuvent être prononcées sont : une suspension provisoire de terrain ou de salle, un huis clos total ou partiel pour une ou plusieurs rencontres sportives, une interdiction provisoire de participer aux manifestations sportives organisées ou autorisées par la fédération, une interdiction provisoire de participer directement ou indirectement à l'organisation et au déroulement des compétitions et manifestations sportives autorisées par la fédération délégataire ou organisées par une fédération agréée et une suspension provisoire d'exercice de fonction.
 
 (8) Il convient de préciser les conditions dans lesquelles le rapport et l'intégralité du dossier peuvent être mis à disposition ou transmis à la personne poursuivie ainsi que, le cas échéant, à son représentant légal, son conseil ou son avocat.
 
@@ -334,7 +334,7 @@ Toute nouvelle infraction sanctionnée pendant ce délai emporte révocation de 
 
 (12) Les éventuelles sanctions complémentaires prévues par le règlement, dans le respect du principe de proportionnalité, doivent être énumérées en annexe.
 
-(13) Prévoir en annexe au présent règlement la liste des faits, comportements ou manquements pouvant faire l'objet de sanctions automatiques, parmi les sanctions suivantes : avertissement, blâme, amende, perte d'une ou plusieurs rencontres sportives, pénalité en temps ou en points, suspension de terrain ou de salle.
+(13) Prévoir en annexe au présent règlement la liste des faits, comportements ou manquements pouvant faire l'objet de sanctions automatiques, parmi les sanctions suivantes : avertissement, blâme, amende, perte d'une ou plusieurs rencontres sportives, pénalité en temps ou en points, suspension de terrain ou de salle, interdiction temporaire ou définitive de participer aux manifestations sportives organisées ou autorisées par la fédération, interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement des compétitions et manifestations sportives autorisées par la fédération délégataire ou organisées par une fédération agréée.
 
 (14) Les activités d'intérêt général correspondent à des activités d'organisation des compétitions, d'encadrement, d'arbitrage, d'initiation ou de prévention et de promotion des valeurs du sport au bénéfice des personnes visées à l'article 22.
 
