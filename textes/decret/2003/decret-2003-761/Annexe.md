@@ -18,7 +18,7 @@ Sous-groupe 1 : infirmier de bloc opératoire cadre supérieur de santé ; infir
 
 Sous-groupe 2 : psychologue hors classe ; psychologue de classe normale.
 
-Sous-groupe 3 : infirmier anesthésiste de classe supérieure ; infirmier de bloc opératoire de classe supérieure ; puéricultrice de classe supérieure ; infirmier anesthésiste de classe normale ; infirmier de bloc opératoire de classe normale, puéricultrice de classe normale, infirmier en soins généraux et spécialisés de quatrième grade, infirmier en soins généraux et spécialisés de troisième grade, infirmier en soins généraux et spécialisés de deuxième grade, infirmier en soins généraux et spécialisés de premier grade.
+Sous-groupe 3 : infirmier anesthésiste de classe supérieure (cadre d'extinction) ; infirmier de bloc opératoire de classe supérieure (cadre d'extinction) ; puéricultrice de classe supérieure (cadre d'extinction) ; infirmier anesthésiste de classe normale (cadre d'extinction) ; infirmier de bloc opératoire de classe normale (cadre d'extinction), puéricultrice de classe normale (cadre d'extinction), infirmier en soins généraux et spécialisés de quatrième grade ; ergothérapeute de classe supérieure ; ergothérapeute de classe normale ; manipulateurs d'électroradiologie médicale de classe supérieure ; manipulateurs d'électroradiologie médicale de classe normale ; pédicures-podologues de classe supérieure ; pédicures podologues de classe normale ; masseurs-kinésithérapeutes de classe supérieure ; masseurs-kinésithérapeutes de classe normale ; psychomotricien de classe supérieure ; psychomotricien de classe normale ; orthophonistes de classe supérieure ; orthophonistes de classe normale ; orthoptistes de classe supérieure ; orthoptistes de classe normale, infirmier en soins généraux et spécialisés de troisième grade, infirmier en soins généraux et spécialisés de deuxième grade, infirmier en soins généraux et spécialisés de premier grade.
 
 CAP n° 3 : personnels d'encadrement administratif
 
@@ -38,7 +38,7 @@ CAP n° 5 : personnels infirmiers
 
 Groupe unique
 
-Sous-groupe unique : infirmier de classe supérieure ; infirmier de classe normale.
+Sous-groupe unique : infirmier de classe supérieure (cadre d'extinction) ; infirmier de classe normale (cadre d'extinction).
 
 CAP n° 6 : personnels médico-techniques
 
@@ -50,7 +50,7 @@ CAP n° 7 : personnels de rééducation
 
 Groupe unique
 
-Sous-groupe unique : pédicure-podologue de classe supérieure ; masseur-kinésithérapeute de classe supérieure ; ergothérapeute de classe supérieure ; psychomotricien de classe supérieure ; orthophoniste de classe supérieure ; orthoptiste de classe supérieure ; diététicien de classe supérieure ; pédicure-podologue de classe normale ; masseur-kinésithérapeute de classe normale ; ergothérapeute de classe normale ; psychomotricien de classe normale ; orthophoniste de classe normale ; orthoptiste de classe normale ; diététicien de classe normale.
+Sous-groupe unique : pédicure-podologue de classe supérieure ; masseur-kinésithérapeute de classe supérieure ; ergothérapeute de classe supérieure (cadre d'extinction) ; psychomotricien de classe supérieure ; orthophoniste de classe supérieure ; orthoptiste de classe supérieure ; diététicien de classe supérieure ; pédicure-podologue de classe normale ; masseur-kinésithérapeute de classe normale ; ergothérapeute de classe normale (cadre d'extinction) ; psychomotricien de classe normale ; orthophoniste de classe normale ; orthoptiste de classe normale ; diététicien de classe normale.
 
 CAP n° 8 : personnels socio-éducatifs
 
@@ -58,7 +58,7 @@ Groupe unique
 
 Sous-groupe unique : assistant socio-éducatif principal ; éducateur de jeunes enfants de classe supérieure ; éducateur technique spécialisé de classe supérieure ; conseiller en économie sociale et familiale principal ; moniteur-éducateur principal ; animateur principal de 1re classe ; animateur principal de 2e classe ; assistant socio-éducatif ; conseiller en économie sociale et familiale ; éducateur de jeunes enfants de classe normale ; animateur ; moniteur-éducateur ; éducateur technique spécialisé de classe normale.
 
-CAP n° 9 : personnels d'encadrement administratif et des secrétariats médicaux (1)
+CAP n° 9 : personnels d'encadrement administratif et des assistants médico-administratifs
 
 Groupe unique
 
@@ -70,7 +70,7 @@ CAP n° 10 : personnels techniques et ouvriers
 
 Groupe unique
 
-Sous-groupe unique : agent de maîtrise principal ; agent technique spécialisé hors classe ; maître ouvrier principal ; conducteur ambulancier hors catégorie ; blanchisseur maître ouvrier principal ; agent de maîtrise ; maître ouvrier ; blanchisseur maître ouvrier ; conducteur ambulancier de 1re catégorie ; agent technique spécialisé de 1re classe ; conducteur ambulancier de 2e catégorie ; agent technique spécialisé de 2e classe ; ouvrier professionnel qualifié ; blanchisseur ouvrier professionnel qualifié ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (cadre d'extinction) ; chauffeur installateur de collecte (cadre d'extinction).
+Sous-groupe unique : agent de maîtrise principal ; agent technique spécialisé principal ; ouvrier principal de 1re classe ; conducteur ambulancier principal ; blanchisseur principal de 1re classe ; agent de maîtrise ; ouvrier principal de 2e classe ; blanchisseur principal de 2e classe ; conducteur ambulancier ; agent technique spécialisé ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (cadre d'extinction) ; chauffeur installateur de collecte (cadre d'extinction).
 
 CAP n° 11 : personnels des services de soins,
 
@@ -78,7 +78,7 @@ des services médico-techniques et des services sociaux
 
 Groupe unique
 
-Sous-groupe unique : aide-soignant de classe exceptionnelle ; auxiliaire de puériculture de classe exceptionnelle ; aide médico-psychologique de classe exceptionnelle ; aide-soignant de classe supérieure ; auxiliaire de puériculture de classe supérieure ; aide médico-psychologique de classe supérieure ; aide-soignant de classe normale ; auxiliaire de puériculture de classe normale ; aide médico-psychologique de classe normale ; aide-préparateur (cadre d'extinction) ; aide technique d'électroradiologie (cadre d'extinction) ; moniteur d'atelier (cadre d'extinction).
+Sous-groupe unique : aide-soignant principal ; auxiliaire de puériculture principal ; aide médico-psychologique principal ; aide-soignant ; auxiliaire de puériculture ; aide médico-psychologique ; aide-préparateur (cadre d'extinction) ; aide technique d'électroradiologie (cadre d'extinction) ; moniteur d'atelier (cadre d'extinction).
 
 CAP n° 12 : personnels des services de soins
 
@@ -86,20 +86,16 @@ et des services médico-techniques autres que ceux composant la CAP n° 11
 
 Groupe unique
 
-Sous-groupe unique : agent des services hospitaliers qualifié ; aide de pharmacie de classe supérieure (cadre d'extinction) ; aide de laboratoire de classe normale (cadre d'extinction) ; aide de laboratoire de classe supérieure (cadre d'extinction) ; préleveur (cadre d'extinction).
+Sous-groupe unique : agent des services hospitaliers qualifié de classe supérieure ; agent des services hospitaliers qualifié de classe normale ; aide de pharmacie de classe supérieure (cadre d'extinction) ; aide de laboratoire de classe normale (cadre d'extinction) ; aide de laboratoire de classe supérieure (cadre d'extinction) ; préleveur (cadre d'extinction).
 
 CAP n° 13 : personnels administratifs
 
 Groupe unique
 
-Sous-groupe unique : adjoint administratif principal de 1re classe ; adjoint administratif principal de 2e classe ; permanencier auxiliaire de régulation médicale chef (cadre d'extinction) ; adjoint administratif de 1re classe ; permanencier auxiliaire de régulation médicale principal (cadre d'extinction) ; adjoint administratif de 2e classe ; permanencier auxiliaire de régulation médicale (cadre d'extinction) ; inspecteur de service intérieur et du matériel de classe exceptionnelle de l'Assistance publique-hôpitaux de Paris (cadre d'extinction).
+Sous-groupe unique : adjoint administratif principal de 1re classe ; permanencier auxiliaire de régulation médicale de 1re classe (cadre d'extinction) ; adjoint administratif principal de 2e classe ; permanencier auxiliaire de régulation médicale de 2e classe (cadre d'extinction) ; adjoint administratif ; inspecteur de service intérieur et du matériel de classe exceptionnelle de l'Assistance publique-hôpitaux de Paris (cadre d'extinction).
 
 CAP n° 14 : Personnels sages-femmes
 
 Groupe unique
 
-Sous-groupe unique : directeur d'école préparant au certificat cadre sage-femme, directeur d'école préparant au diplôme d'Etat de sage-femme, sage-femme cadre supérieur ; sage-femme cadre ; sage-femme de classe supérieure ; sage-femme de classe normale.
-
-NOTA :
-
-(1) Les dispositions relatives à la CAP n° 9 telles quelles résultent de l'article 21 du décret n° 2011-583 du 26 mai 2011, entrent en vigueur à compter du 1er juin 2011.
+Sous-groupe unique : sage-femme des hôpitaux du 2e grade, sage-femme des hôpitaux du 1er grade.
