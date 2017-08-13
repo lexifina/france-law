@@ -2,62 +2,60 @@
 
 Sont regardés comme services statistiques ministériels :
 
-Dans les services relevant du ministre des affaires étrangères et du développement international et du ministre de l'intérieur :
+Dans les services relevant du ministre d'Etat, ministre de l'intérieur :
+
+Le service statistique ministériel de la sécurité intérieure placé auprès du directeur central de la police judiciaire.
 
 Le département des statistiques, des études et de la documentation de la direction générale des étrangers en France.
 
-Dans les services relevant de la ministre de l'écologie, du développement durable et de l'énergie :
+Dans les services relevant du ministre d'Etat, ministre de l'intérieur, et du ministre de la cohésion des territoires :
 
-Le service de l'observation et des statistiques du Commissariat général au développement durable.
+Le département des études et des statistiques locales de la direction générale des collectivités locales.
 
-Dans les services relevant de la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche :
+Dans les services relevant du ministre d'Etat, ministre de la transition écologique et solidaire :
 
-Le service statistique ministériel éducation , composé de la sous-direction des synthèses et du bureau des études statistiques sur l'enseignement scolaire, au sein de la direction de l'évaluation, de la prospective et de la performance.
+Le service de la donnée et des études statistiques du Commissariat général au développement durable.
 
-La sous-direction des systèmes d'information et des études statistiques de la direction générale de l'enseignement supérieur et de l'insertion professionnelle et de la direction générale de la recherche et de l'innovation.
-
-Dans les services relevant du garde des sceaux, ministre de la justice :
+Dans les services relevant de la garde des sceaux, ministre de la justice :
 
 La sous-direction de la statistique et des études du secrétariat général.
 
-Dans les services relevant du ministre des finances et des comptes publics :
+Dans les services relevant de la ministre des armées :
+
+L'observatoire économique de la défense de la direction des affaires financières.
+
+Dans les services relevant de la ministre de la santé et des solidarités, de la ministre du travail et du ministre de l'action et des comptes publics :
+
+La direction de la recherche, des études, de l'évaluation et des statistiques.
+
+Dans les services relevant de la ministre de la culture :
+
+Le département des études, de la prospective et des statistiques du service de la coordination des politiques culturelles et de l'innovation.
+
+Dans les services relevant de la ministre du travail :
+
+La direction de l'animation de la recherche, des études et des statistiques.
+
+Dans les services relevant du ministre de l'éducation nationale :
+
+La mission des études, de l'observation et des statistiques du service à compétence nationale dénommé Institut national de la jeunesse et de l'éducation populaire .
+
+Dans les services relevant du ministre de l'éducation nationale et de la ministre de l'enseignement supérieur, de la recherche et de l'innovation :
+
+La direction de l'évaluation, de la prospective et de la performance.
+
+Dans les services relevant du ministre de l'agriculture et de l'alimentation :
+
+Le service de la statistique et de la prospective du secrétariat général et les services à compétence spécialisée dans les activités statistiques des directions régionales de l'alimentation, de l'agriculture et de la forêt.
+
+Dans les services relevant du ministre de l'action et des comptes publics :
 
 Le département des statistiques et des études économiques de la direction générale des douanes et droits indirects.
 
 Le bureau des études statistiques en matière fiscale de la direction générale des finances publiques.
 
-Dans les services relevant du ministre des finances et des comptes publics, de la ministre des affaires sociales, de la santé et des droits des femmes et de la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social :
+Le département des études, des statistiques et des systèmes d'information de la direction générale de l'administration et de la fonction publique.
 
-La direction de la recherche, des études, de l'évaluation et des statistiques.
+Dans les services relevant de la ministre de l'enseignement supérieur, de la recherche et de l'innovation :
 
-Dans les services relevant du ministre de la défense :
-
-L'observatoire économique de la défense de la direction des affaires financières.
-
-Dans les services relevant du ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social :
-
-La direction de l'animation de la recherche, des études et des statistiques.
-
-Dans les services relevant du ministre de l'intérieur :
-
-Le service statistique ministériel de la sécurité intérieure placé auprès du directeur central de la police judiciaire.
-
-Dans les services relevant du ministre de l'intérieur et de la ministre de la décentralisation et de la fonction publique :
-
-Le département des études et des statistiques locales de la direction générale des collectivités locales.
-
-Dans les services relevant du ministre de l'agriculture, de l'agroalimentaire et de la forêt :
-
-Le service de la statistique et de la prospective du secrétariat général et les services à compétence spécialisée dans les activités statistiques des directions régionales de l'alimentation, de l'agriculture et de la forêt.
-
-Dans les services de la ministre de la décentralisation et de la fonction publique :
-
-Le département des études et des statistiques de la direction générale de l'administration et de la fonction publique ;
-
-Dans les services relevant de la ministre de la culture et de la communication :
-
-Le département des études, de la prospective et des statistiques du service de la coordination des politiques culturelles et de l'innovation ;
-
-Dans les services relevant du ministre de la ville, de la jeunesse et des sports :
-
-La mission des études, de l'observation et des statistiques du service à compétence nationale dénommé Institut national de la jeunesse et de l'éducation populaire.
+La sous-direction des systèmes d'information et des études statistiques de la direction générale de l'enseignement supérieur et de l'insertion professionnelle et de la direction générale de la recherche et de l'innovation.
