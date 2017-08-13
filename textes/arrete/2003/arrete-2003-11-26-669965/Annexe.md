@@ -22,11 +22,11 @@ Cabinet |
 
 Astreinte (chauffeur). |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin semaine.
+1 astreinte de fin semaine
 
-1 astreinte de jour férié isolé. |
+1 astreinte de jour férié isolé |
 
 Secrétariat général |
 
@@ -62,9 +62,13 @@ Astreinte de suivi de travaux. |
 
 Astreinte d'exploitation viabilité hivernale. |
 
-2 astreintes de semaine (entre le 15/11 et le 31/03). |
+2 astreintes de semaine
 
-Ecole nationale de l'aviation civile |
+(entre le 15/11 et le 31/03). |
+
+Ecole nationale
+
+de l'aviation civile |
 
 |
 
@@ -92,11 +96,9 @@ Astreinte enquêtes-accidents (niveau central). |
 
 1 astreinte de semaine
 
-et 2 astreintes de fin de semaine. |
+et 2 astreintes de fin de semaine |
 
-Direction des opérations de la direction des services
-
-de la navigation aérienne |
+Direction des opérations de la direction des services de la navigation aérienne |
 
 |
 
@@ -107,6 +109,12 @@ Echelon central |
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
+
+Echelon central (CDM) |
+
+Astreinte opérationnelle |
+
+1 astreinte de semaine |
 
 CESNAC |
 
@@ -174,10 +182,6 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
-Astreinte technique de maintenance CAUTRA. |
-
-1 astreinte de semaine. |
-
 Astreinte technique de centrale énergie. |
 
 1 astreinte de semaine. |
@@ -195,10 +199,6 @@ Astreinte opérationnelle. |
 1 astreinte de semaine. |
 
 Astreinte technique. |
-
-1 astreinte de semaine. |
-
-Astreinte technique de maintenance CAUTRA. |
 
 1 astreinte de semaine. |
 
@@ -277,12 +277,6 @@ Siège |
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
-
-Aérodrome de Nantes Atlantique |
-
-Astreinte technique de maintenance. |
-
-2 astreintes de semaine. |
 
 SNA Centre-Est |
 
@@ -397,8 +391,6 @@ Aérodrome de Cayenne-Félix Eboué |
 Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
-
-|
 
 Astreinte technique. |
 
@@ -584,7 +576,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val-de-Loire (Tours) |
+Région Centre-Val de Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
@@ -820,15 +812,15 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte " Direction de l'aviation civile
+Service mixte "Direction de l'aviation civile
 
-en Nouvelle-Calédonie " |
-
-|
+en Nouvelle-Calédonie" |
 
 |
 
-Service mixte " DAC/NC " |
+|
+
+Service mixte "DAC/ NC" |
 
 Astreinte de contrôle technique d'exploitation. |
 
@@ -838,7 +830,7 @@ de 18 semaines par an. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte DAC/NC ). |
+Astreinte de direction (Service mixte "DAC/ NC"). |
 
 1 astreinte de semaine. |
 
@@ -860,7 +852,7 @@ Astreinte technique de centrale énergie |
 
 1 astreinte de semaine. |
 
-SEAC des îles Wallis-et-Futuna |
+SEAC des îles Wallis et Futuna |
 
 |
 
