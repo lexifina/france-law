@@ -22,7 +22,15 @@ c) Justificatifs d'identité et d'adresse : pièces justificatives de l'identit�
 
 d) Justificatif de vente : certificat de cession ou une facture établie par le vendeur ;
 
-e) Attestation du service livrancier : attestation délivrée pour un véhicule précédemment immatriculé avec un usage véhicule administration civile de l'Etat , indiquant que le véhicule n'a pas fait l'objet d'une transformation notable et qu'il est conforme à un type ayant fait l'objet d'une réception nationale ou communautaire.
+e) Attestation du service livrancier : attestation délivrée pour un véhicule précédemment immatriculé avec un usage véhicule administration civile de l'Etat , indiquant que le véhicule n'a pas fait l'objet d'une transformation notable et qu'il est conforme à un type ayant fait l'objet d'une réception nationale ou communautaire ;
+
+f) Justificatifs de la qualité d'héritier :
+
+-soit, attestation du notaire chargé de la liquidation de la succession certifiant que M. Mme …, né (e) le … à …, est décédé (e) le … à … et que, dans la succession, se trouve un véhicule (avec indication de la marque, du numéro d'immatriculation et du numéro d'identification du véhicule) ;
+
+-soit, acte de notoriété établi par un notaire ;
+
+-soit, certificat de décès et attestation, signée de l'ensemble des héritiers certifiant qu'il n'existe pas de testament, ni d'autres héritiers du défunt qu'il n'existe pas de contrat de mariage et qu'il n'y a ni procès, ni contestation en cours concernant la qualité d'héritier ou la composition de la succession.
 
 2.2. Documents d'immatriculation
 
