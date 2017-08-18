@@ -34,7 +34,7 @@ Nombre par
 
 |
 
-A l'émergence et au cours de la commercialisation.
+A l'émergence (***) et au cours de la commercialisation.
 
 |
 
@@ -52,7 +52,7 @@ Nombre par
 
 |
 
-A l'émergence et au cours de la commercialisation.
+A l'émergence (***) et au cours de la commercialisation.
 
 |
 
@@ -70,7 +70,7 @@ Nombre par
 
 |
 
-A l'émergence et au cours de la commercialisation.
+A l'émergence (***) et au cours de la commercialisation.
 
 |
 
@@ -88,7 +88,7 @@ Nombre par
 
 |
 
-A l'émergence et au cours de la commercialisation.
+A l'émergence (***) et au cours de la commercialisation.
 
 Les analyses sont commencées au moins trois jours après le prélèvement au captage, le conditionnement et les échantillons conservés à température ambiante.
 
@@ -108,7 +108,7 @@ Nombre par
 
 |
 
-A l'émergence et au cours de la commercialisation.
+A l'émergence (***) et au cours de la commercialisation.
 
 |
 
@@ -126,7 +126,7 @@ par ml
 
 |
 
-A l'émergence.
+A l'émergence (***).
 
 |
 
@@ -158,7 +158,7 @@ par ml
 
 |
 
-A l'émergence.
+A l'émergence (***).
 
 |
 
@@ -190,13 +190,15 @@ volume filtré
 
 |
 
-A l'émergence et au cours de la commercialisation. Le volume filtré doit être celui préconisé dans la méthode normalisée lorsqu'elle existe.
+A l'émergence (***) et au cours de la commercialisation. Le volume filtré doit être celui préconisé dans la méthode normalisée lorsqu'elle existe.
 
 |
 
 (*) A rechercher en cas de suspicion de contamination.
 
 (**) Arrêté du 17 septembre 2003 relatif aux méthodes d'analyse des échantillons d'eau et à leurs caractéristiques de performance.
+
+(***) Ne s'applique pas aux eaux brutes utilisées pour la production d'eau rendue potable par traitements conditionnée.
 
 |
 
@@ -535,20 +537,6 @@ Arsenic.
 |
 
 µg/l
-
-|
-
-|
-
-Baryum.
-
-|
-
-0,7
-
-|
-
-mg/l
 
 |
 
@@ -965,6 +953,20 @@ Ammonium.
 |
 
 0,1
+
+|
+
+mg/l
+
+|
+
+|
+
+Baryum.
+
+|
+
+0,70
 
 |
 

@@ -78,13 +78,11 @@ mg/L
 
 |
 
-Taux de saturation en oxygène dissous pour les eaux superficielles (O2) (1).
+Taux de saturation en oxygène dissous pour les eaux superficielles (O2) (1) (4).
 
 |
 
-< 30
-
-|
+> 30 |
 
 %
 
@@ -367,5 +365,15 @@ Escherichia coli
 |
 
 /100 mL
+
+|
+
+(1) L'avis de l'Agence de sécurité sanitaire des aliments mentionné à l'article R. 1321-7 (III) n'est pas requis pour les paramètres notés (1). Toutefois, l'avis de l'Agence française de sécurité sanitaire des aliments est sollicité lorsque la ressource en eau utilisée est de l'eau de mer.
+
+(2) La limite de qualité pour le paramètre température ne s'applique pas dans les départements d'outre-mer.
+
+(3) Le plan de gestion des ressources en eau prévu à l'article R. 1321-42 n'est pas requis pour les paramètres notés (3).
+
+(4) Le taux de saturation en oxygène dissous pour les eaux superficielles (O2) doit être supérieur à la limite indiquée.
 
 |

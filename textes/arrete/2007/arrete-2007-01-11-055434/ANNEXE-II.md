@@ -22,19 +22,13 @@ DÉBIT
 
 |
 
-FRÉQUENCE ANNUELLE
+FRÉQUENCE ANNUELLE |
 
 |
 
-|
+RP |
 
-RP
-
-|
-
-RS
-
-|
+RS |
 
 RSadd |
 
@@ -42,13 +36,9 @@ Inférieur à 10
 
 |
 
-0, 2 (9)
+0, 2 (9) |
 
-|
-
-0, 5 (9)
-
-|
+0, 5 (9) |
 
 |
 
@@ -56,13 +46,9 @@ De 10 à 99
 
 |
 
-0, 2 (9)
+0, 2 (9) |
 
-|
-
-1
-
-|
+1 |
 
 |
 
@@ -70,65 +56,41 @@ De 100 à 1 999
 
 |
 
-0, 5 (9)
+0, 5 (9) |
 
-|
+2 |
 
-2
-
-|
-
-4 (10)
-
-|
+4 (10) |
 
 De 2 000 à 5 999
 
 |
 
-1
+1 |
 
-|
+3 |
 
-3
-
-|
-
-8 (10)
-
-|
+8 (10) |
 
 De 6 000 à 19 999
 
 |
 
-2
+2 |
 
-|
+6 |
 
-6
-
-|
-
-12 (10)
-
-|
+12 (10) |
 
 Supérieur ou égal à 20 000
 
 |
 
-4
+4 |
 
-|
+12 |
 
-12
-
-|
-
-12
-
-|
+12 |
 
 (9) 0, 2 et 0, 5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
 
@@ -160,9 +122,7 @@ Tableau 2
 
 Fréquences annuelles des prélèvements d'échantillons d'eau et d'analyses d'eau aux points de mise en distribution et d'utilisation
 
-POPULATION DESSERVIE
-
-|
+POPULATION DESSERVIE |
 
 DÉBIT
 
@@ -170,337 +130,197 @@ DÉBIT
 
 |
 
-FRÉQUENCE ANNUELLE
+FRÉQUENCE ANNUELLE |
 
-|
+P1 |
 
-P1
+P2 (11) |
 
-|
+D1 (12) |
 
-P2 (11)
-
-|
-
-D1 (12)
-
-|
-
-D2 (13)
-
-|
+D2 (13) |
 
 De 0 à 49 habitants
 
 |
 
-De 0 à 9
+De 0 à 9 |
 
-|
+1 |
 
-1
+Entre 0, 1 et 0, 2 |
 
-|
+Entre 2 et 4 |
 
-Entre 0, 1 et 0, 2
-
-|
-
-Entre 2 et 4
-
-|
-
-Entre 0, 1 et 0, 2
-
-|
+Entre 0, 1 et 0, 2 |
 
 De 50 à 499 habitants
 
 |
 
-De 10 à 99
+De 10 à 99 |
 
-|
+2 |
 
-2
+Entre 0, 2 et 0, 5 |
 
-|
+Entre 3 et 4 |
 
-Entre 0, 2 et 0, 5
-
-|
-
-Entre 3 et 4
-
-|
-
-Entre 0, 2 et 0, 5
-
-|
+Entre 0, 2 et 0, 5 |
 
 De 500 à 1 999 habitants
 
 |
 
-De 100 à 399
+De 100 à 399 |
 
-|
+2 |
 
-2
+1 |
 
-|
+6 |
 
-1
-
-|
-
-6
-
-|
-
-1
-
-|
+1 |
 
 De 2 000 à 4 999 habitants
 
 |
 
-De 400 à 999
+De 400 à 999 |
 
-|
+3 |
 
-3
+1 |
 
-|
+9 |
 
-1
-
-|
-
-9
-
-|
-
-1
-
-|
+1 |
 
 De 5 000 à 14 999 habitants
 
 |
 
-De 1 000 à 2 999
+De 1 000 à 2 999 |
 
-|
+5 |
 
-5
+2 |
 
-|
+12 |
 
-2
-
-|
-
-12
-
-|
-
-2
-
-|
+2 |
 
 De 15 000 à 29 999 habitants
 
 |
 
-De 3 000 à 5 999
+De 3 000 à 5 999 |
 
-|
+6 |
 
-6
+3 |
 
-|
+25 |
 
-3
-
-|
-
-25
-
-|
-
-3
-
-|
+3 |
 
 De 30 000 à 99 999 habitants
 
 |
 
-De 6 000 à 19 999
+De 6 000 à 19 999 |
 
-|
+12 |
 
-12
+4 |
 
-|
+61 |
 
-4
-
-|
-
-61
-
-|
-
-4
-
-|
+4 |
 
 De 100 000 à 149 999 habitants
 
 |
 
-De 20 000 à 29 999
+De 20 000 à 29 999 |
 
-|
+24 |
 
-24
+5 |
 
-|
+150 |
 
-5
-
-|
-
-150
-
-|
-
-5
-
-|
+5 |
 
 De 150 000 à 199 999 habitants
 
 |
 
-De 30 000 à 39 999
+De 30 000 à 39 999 |
 
-|
+36 |
 
-36
+6 |
 
-|
+210 |
 
-6
-
-|
-
-210
-
-|
-
-6
-
-|
+6 |
 
 De 200 000 à 299 999 habitants
 
 |
 
-De 40 000 à 59 999
+De 40 000 à 59 999 |
 
-|
+48 |
 
-48
+8 |
 
-|
+270 |
 
-8
-
-|
-
-270
-
-|
-
-8
-
-|
+8 |
 
 De 300 000 à 499 999 habitants
 
 |
 
-De 60 000 à 99 999
+De 60 000 à 99 999 |
 
-|
+72 |
 
-72
+12 |
 
-|
+390 |
 
-12
-
-|
-
-390
-
-|
-
-12
-
-|
+12 |
 
 De 500 000 à 624 999 habitants
 
 |
 
-De 100 000 à 124 999
+De 100 000 à 124 999 |
 
-|
+100 |
 
-100
+12 (14) |
 
-|
+630 |
 
-12
-
-|
-
-630
-
-|
-
-12
-
-|
+12 (14) |
 
 Supérieur ou égal à 625 000 habitants
 
 |
 
-Supérieur ou égal à 125 000
+Supérieur ou égal à 125 000 |
 
-|
+144 |
 
-144
+12 (14) |
 
-|
+800 (15) |
 
-12 (14)
-
-|
-
-800 (15)
-
-|
-
-12 (14)
-
-|
+12 (14) |
 
 (11) L'analyse de type P2 est à réaliser en complément d'une analyse de type P1.
 

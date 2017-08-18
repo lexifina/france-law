@@ -54,9 +54,11 @@ Présentation :
 
 - de l'identité des interlocuteurs de l'autorité sanitaire en situation courante et en situation d'urgence ou de crise.
 
-III. - Analyse et maîtrise des dangers mises en oeuvre
+III. - Analyse et maîtrise des dangers mises en œuvre
 
 par le responsable de la production ou de la distribution d'eau
+
+L'analyse des dangers se fonde sur les principes généraux définis dans les documents internationaux de référence. L'application des lignes directrices en matière de sécurité de l'alimentation en eau potable, pour la gestion des risques et des crises-Partie 2 : gestion des risques, précisées dans la norme NF EN 15975-2 : 2013, est réputée satisfaire aux principes généraux précités.
 
 III-1. Description de l'eau et des usages particuliers.
 
@@ -105,6 +107,10 @@ Fréquence et conditions de révision de l'analyse des dangers.
 III-8. Documentation.
 
 Présentation du fichier sanitaire prévu à l'article R. 1321-23 du code de la santé publique.
+
+III-9. Résumé.
+
+Résumé des points III-1 à III-8.
 
 IV. - Description de la surveillance proposée par le responsable de la production
 

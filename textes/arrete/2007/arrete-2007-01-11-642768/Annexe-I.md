@@ -106,20 +106,6 @@ Arsenic
 
 |
 
-Baryum
-
-|
-
-0,70
-
-|
-
-mg/L
-
-|
-
-|
-
 Benzène
 
 |
@@ -666,6 +652,20 @@ S’il est démontré que l’ammonium a une origine naturelle, la valeur à res
 
 |
 
+Baryum
+
+|
+
+0,70
+
+|
+
+mg/ L
+
+|
+
+|
+
 Carbone organique total (COT).
 
 Oxydabilité au permanganate de potassium mesurée après10 minutes en milieu acide
@@ -684,7 +684,9 @@ aucun changement anormal
 
 mg/L
 
-mg/L O2
+mg/L
+
+O2
 
 |
 
@@ -858,7 +860,9 @@ Saveur
 
 |
 
-Acceptable pour les consommateurs et aucun changement anormal, notamment pas de saveur détectée pour un taux de dilution de 3 à 25oC
+Acceptable pour les consommateurs et aucun changement anormal, notamment pas de saveur détectée pour un taux de dilution
+
+de 3 à 25oC
 
 |
 
@@ -904,7 +908,9 @@ Température
 
 |
 
-oC
+o
+
+C
 
 |
 
