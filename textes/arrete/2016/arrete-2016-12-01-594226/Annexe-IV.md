@@ -2,7 +2,7 @@
 
 QUALIFICATIONS DES TUTEURS
 
-Les qualifications des personnes en charge de la réalisation des actions de tutorat conduisant au certificat complémentaire plongée profonde et tutorat associé à la mention plongée subaqua- tique du diplôme d’État de la jeunesse, de l’éducation populaire et du sport spécialité "perfectionnement sportif" sont les suivantes :
+Les qualifications des personnes en charge de la réalisation des actions de tutorat conduisant au certificat complémentaire plongée profonde et tutorat associé à la mention “activités de plongée subaquatique” du diplôme d’État de la jeunesse, de l’éducation populaire et du sport spécialité "perfectionnement sportif" sont les suivantes :
 
 Le stagiaire en situation professionnelle a des prérogatives d’enseignement des activités de plongée subaquatique en scaphandre, correspondant à celles de son diplôme et au tutorat des stagiaires sous l’autorité d’un tuteur titulaire d’une des qualifications suivantes :
 
