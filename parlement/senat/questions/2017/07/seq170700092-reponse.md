@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700092
+
+- Question : [SEQ170700092](seq170700092.md) — Projet de fermeture de seize commissariats dans le département des Hauts-de-Seine
+
+## Réponse
+
+*Intérieur, JO du 2017-08-24, page 2724*
+
+La préfecture de police a engagé, il y a quelques mois, une réflexion technique sur l'évolution de l'organisation territoriale de la sécurité de proximité en petite couronne parisienne. La presse locale ayant fait état de ces travaux, certains élus s'en sont inquiétés. Le préfet de police a souhaité, dans sa lettre du 4 mai 2017 adressée à tous les maires des Hauts-de-Seine, de Seine-Saint-Denis et du Val-de-Marne, dissiper tout malentendu sur les objectifs et sur la méthode de ces travaux. Il a tenu, le 7 juillet 2017, une réunion avec l'ensemble des maires des Hauts-de-Seine, organisée par le préfet de département, comme il l'a fait en Seine-Saint-Denis et dans le Val-de-Marne la même semaine. Ce courrier et cette réunion ont permis de préciser la nature des réflexions qui doivent être conduites sur l'organisation de la sécurité de proximité. Aucune fermeture et aucun déclassement de commissariat ne sont en projet. En revanche, un travail de diagnostic précis doit être engagé afin d'identifier les évolutions organisationnelles qui permettraient de redéployer des ressources de la direction de la sécurité de proximité de l'agglomération parisienne (DSPAP) vers les missions de voie publique et d'investigation. Il pourra notamment s'agir de mutualiser, à l'échelon pertinent, certaines missions : fonctions de soutien, police-secours, unités d'appui, investigation, traitement des procédures judiciaires en temps réel et prise de plainte, etc. Ce travail sera conduit par les préfets de département qui veilleront au dialogue et à la concertation avec les élus.
