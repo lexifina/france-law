@@ -76,7 +76,9 @@ Conformément à l'article L. 221-4 du code du travail, chaque salarié bénéfi
 
 Cependant, dans l'hypothèse de circonstances nécessitant la réduction du repos quotidien, et dans le cadre du VI. 3. 1. 2 ci-dessus, le salarié pourra voir son repos hebdomadaire réduit de fait à 24 heures consécutives additionnées de 9 heures au lieu de 11 heures.
 
-Dans la mesure du possible, le repos hebdomadaire est pris le dimanche. Si, pour les nécessités de la production à laquelle il participe, un salarié est amené à travailler le dimanche, conformément aux articles L. 221-9 et L. 221-10 du code du travail, l'employeur veillera à ce que le salarié bénéficie du repos hebdomadaire et ne travaille jamais plus de 6 jours consécutifs, sauf dérogation accordée, du fait de circonstances particulières, par l'inspection du travail.
+Dans la mesure du possible, le repos hebdomadaire est pris le dimanche. Si, pour les nécessités de la production à laquelle il participe, un salarié est amené à travailler le dimanche, conformément aux articles L. 221-9 et
+
+L. 221-10 du code du travail, l'employeur veillera à ce que le salarié bénéficie du repos hebdomadaire et ne travaille jamais plus de 6 jours consécutifs, sauf dérogation accordée, du fait de circonstances particulières, par l'inspection du travail.
 
 Un même salarié ne pourra travailler, pour un même employeur, plus de 25 dimanches par an. Toutefois, dans le cas d'émissions en direct diffusées le dimanche, un accord collectif d'entreprise, conclu dans les conditions de l'article III. 5 de la présente convention collective, pourra déroger à cette limite.
 
@@ -92,7 +94,7 @@ Chaque segment est exécuté par des personnels spécifiques, de qualifications 
 
 Ce mode d'opération entraîne pour les salariés pourvoyant ces emplois, des périodes de disponibilité sans activité opérationnelle, celles-ci étant d'autant plus longues que l'amplitude de la journée de tournage est longue. Ces temps de disponibilité ne comportent pas de travail effectif, mais la présence du salarié sur le lieu de production légitime qu'ils soient rémunérés.
 
-Le recours au temps de disponibilité indemnisé est régi par les dispositions de l'article L. 212-4, 5e alinéa, du code du travail. Il est limité aux salariés occupant les emplois de niveau II à VI dans les filières A, B, C, E, F, H, I, L, M, et N, et, pour la filière O, les emplois de directeur technique, directeur informatique, responsable des sites web, responsable technique, informaticien, responsable d'exploitation et webmestre. Il n'est possible que dans les circonstances et sous les conditions ci-après.
+Le recours au temps de disponibilité indemnisé est régi par les dispositions des articles L. 3121-13 et suivants du code du travail. Il est limité aux salariés occupant les fonctions de niveau II à VI dans les filières A, B, C, D, F, G, H, I et, pour la filière O, les fonctions de : directeur technique, directeur informatique, responsable des sites web, responsable technique, informaticien, responsable d'exploitation et webmestre.
 
 a) Il est réservé aux périodes de répétitions et de tournage des émissions de variétés, divertissement et talk-show, enregistrées dans la continuité. Il peut être appliqué, de manière très exceptionnelle, à des tournages de fictions, documentaires ou jeux lorsque la continuité de l'activité est rendue indispensable par la disponibilité d'un lieu ou d'un décor naturel, ou encore la disponibilité d'un invité.
 
@@ -375,5 +377,3 @@ Pour les contrats d'une durée supérieure à 1 semaine, les heures supplémenta
 Le temps de disponibilité indemnisé sera mentionné en tant que tel sur les bulletins de salaire.
 
 En fonction de leur compétence, le comité d'entreprise, les délégués du personnel ou les délégués de branche seront informés de la mise en oeuvre du dispositif défini au présent article.
-
-Article étendu sous réserve de l'application des dispositions de l'article L. 212-4 du code du travail, aux termes desquelles, d'une part, la prise d'un décret doit être sollicitée afin que la mise en place du régime d'équivalence soit validée et, d'autre part, les emplois concernés par l'équivalence connaissent bien des temps d'inaction et ne concernent que les salariés à temps plein, dans le respect des durées maximales communautaires (arrêté du 24 juillet 2007, art. 1er).

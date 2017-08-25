@@ -82,7 +82,7 @@ Les emplois de catégorie A sont pourvus sous forme de contrat à durée indéte
 
 Pour les emplois de catégorie B et C, il est d'usage constant au sein de la branche de recourir à des contrats à durée déterminée (CDDU). Le titre V ci-après précise les circonstances dans lesquelles, sans remettre en cause cet usage, ces emplois seront pourvus par des contrats de droit commun. Les employeurs s'interdisent, pour ces emplois, de recourir au travail temporaire.
 
-L'emploi de réalisateur (HN), dans la filière M de la catégorie B, fait l'objet d'une annexe particulière à la présente convention collective.
+L'emploi de réalisateur (HN) dans la filière G de la catégorie B, fait l'objet d'une annexe particulière de la convention collective.
 
 FILIÈRE |
 
@@ -250,9 +250,7 @@ EMPLOIS DE CATÉGORIE B
 
 |
 
-Filière
-
-|
+Filière |
 
 Fonctions
 
@@ -1857,6 +1855,8 @@ Réalisateur
 HN
 
 |
+
+voir annexe I
 
 |
 

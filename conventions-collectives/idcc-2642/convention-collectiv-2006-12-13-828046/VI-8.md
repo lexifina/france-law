@@ -24,7 +24,7 @@ La rémunération des heures supplémentaires est majorée dans les conditions s
 
 ― 50 % à compter de la 9e heure supplémentaire ;
 
-― 100 % à compter de la 13e heure supplémentaire, pour les salariés des catégories III B à V des filières C et H de la catégorie B.
+– 100 % à compter de la 13e heure supplémentaire, pour les salariés des fonctions suivantes : dessinateur en décor, 2e assistant décorateur, régisseur d'extérieur, accessoiriste, chef d'équipe décor, constructeur de décor, menuisier-traceur-toupilleur de décor, staffeur de décor, peintre en lettre/ en faux bois de décor, maçon de décor, peintre de décor, métallier/ serrurier/ mécanicien de décor, tapissier de décor, électricien déco/ machiniste déco, rippeur, assistant décorateur adjoint, chef électricien, chef machiniste, conducteur de groupe, blocker/ rigger, électricien/ éclairagiste, machiniste.
 
 La majoration prévue par l'article L. 212-5-1 du code du travail pour les 8 premières heures supplémentaires peut prendre la forme d'un repos ou d'une majoration de salaire.
 
