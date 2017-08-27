@@ -12,7 +12,7 @@ TAUX DE LA PRIME FORFAITAIRE
 
 |
 
-Membre de l'inspection générale des services judiciaires.
+Membre de l'inspection générale de la justice.
 
 Directeur de l'Ecole nationale des greffes.
 
@@ -24,15 +24,25 @@ Magistrat placé auprès d'un premier président ou d'un procureur général.
 
 |
 
+Premier président de chambre et premier avocat général de cour d'appel.
+
 Président de chambre et avocat général de cour d'appel.
 
 Premier vice-président de tribunal de grande instance.
 
+Premier vice-président d'un tribunal de grande instance ou de première instance chargé des fonctions de juge des enfants.
+
+Premier vice-président d'un tribunal de grande instance ou de première instance chargé de l'application des peines.
+
+Premier vice-président d'un tribunal de grande instance ou de première instance chargé du service d'un tribunal d'instance.
+
 Premier vice-président adjoint de tribunal de grande instance.
 
-Magistrat chargé de l'instruction et magistrat du parquet de tribunal de grande instance ou de première instance.
+Magistrat chargé de l'instruction, magistrat chargé des fonctions de juge des libertés et de la détention et magistrat du parquet de tribunal de grande instance ou de première instance.
 
 Magistrat chargé d'un secrétariat général dans une cour d'appel ou dans un tribunal de grande instance.
+
+Vice-procureur de la République financier près le tribunal de grande instance de Paris chargé d'un secrétariat général.
 
 |
 
