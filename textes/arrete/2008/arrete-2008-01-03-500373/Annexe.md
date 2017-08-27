@@ -22,97 +22,65 @@ Premier président
 
 |
 
-1
+1 |
 
-|
-
-200
-
-|
+200 |
 
 Procureur général
 
 |
 
-1
+1 |
 
-|
-
-200
-
-|
+200 |
 
 Président de chambre
 
 |
 
-6
+6 |
 
-|
-
-180
-
-|
+180 |
 
 Premier avocat général
 
 |
 
-6
+6 |
 
-|
-
-180
-
-|
+180 |
 
 Président de chambre chargé de la direction du service de documentation et d'études
 
 |
 
-1
+1 |
 
-|
-
-150
-
-|
+150 |
 
 Doyen de chambre
 
 |
 
-6
+6 |
 
-|
-
-150
-
-|
+150 |
 
 Doyen de section
 
 |
 
-8
+8 |
 
-|
-
-120
-
-|
+120 |
 
 Magistrat chargé d'un secrétariat général
 
 |
 
-2
+2 |
 
-|
-
-80
-
-|
+80 |
 
 Cours d'appel
 
@@ -136,37 +104,25 @@ Premier président et procureur général : cour d'appel de Paris
 
 |
 
-2
+2 |
 
-|
-
-180
-
-|
+180 |
 
 Premier président et procureur général : cours d'appel d'Aix-en-Provence, Douai, Lyon, Rennes et Versailles
 
 |
 
-10
+10 |
 
-|
-
-160
-
-|
+160 |
 
 Premier président et procureur général : cours d'appel d'Amiens, Bordeaux, Colmar, Grenoble, Montpellier, Nîmes, Rouen et Toulouse
 
 |
 
-16
+16 |
 
-|
-
-150
-
-|
+150 |
 
 Premier président et procureur général : cours d'appel d'Agen, Angers, Basse-Terre, Bastia, Besançon, Bourges, Caen, Chambéry, Dijon,
 
@@ -174,25 +130,17 @@ Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete, Pau, Poitiers,
 
 |
 
-44
+44 |
 
-|
-
-140
-
-|
+140 |
 
 Magistrat chargé d'un secrétariat général : cours d'appel de Paris et Versailles
 
 |
 
-4
+4 |
 
-|
-
-80
-
-|
+80 |
 
 Tribunal supérieur d'appel
 
@@ -216,89 +164,59 @@ Président et procureur de la République : Saint-Pierre-et-Miquelon
 
 |
 
-2
+2 |
 
-|
-
-100
-
-|
+100 |
 
 Tribunaux de grande instance et tribunaux de première instance
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
+
+NOMBRE d'emplois |
+
+NOMBRE
+
+de points par emploi
 
 |
 
-NOMBRE D'EMPLOIS
+Président, procureur de la République et procureur de la République financier : tribunal de grande instance de Paris |
 
-|
-
-NOMBRE DE POINTS
-
-par emploi
-
-|
-
-Président, procureur de la République et procureur de la République financier : tribunal de grande instance de Paris
-
-|
-
-3
-
-|
+3 |
 
 160
 
 |
 
-Président et procureur de la République : tribunaux de grande instance de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, Nanterre, Pontoise, Toulouse et Versailles
+Président et procureur de la République : tribunaux de grande instance de Bobigny, Lyon, Marseille et Nanterre |
 
-|
+8 |
 
-22
+140 |
 
-|
+Président et procureur de la République : tribunaux de grande instance de Bordeaux, Créteil, Evry, Lille, Pontoise, Toulouse et Versailles |
 
-120
+14 |
 
-|
+120 |
 
-Président et procureur de la République : tribunaux de grande instance d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes
+Président et procureur de la République : tribunaux de grande instance d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Chartres, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Mamoudzou, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Reims, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes |
 
-|
+90 |
 
-84
+100 |
 
-|
+Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Épinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne |
 
-100
+110 |
 
-|
+80 |
 
-Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne
+Magistrat chargé d'un secrétariat général : tribunal de grande instance de Paris |
 
-|
+3 |
 
-114
-
-|
-
-80
-
-|
-
-Magistrat chargé d'un secrétariat général : tribunal de grande instance de Paris
-
-|
-
-2
-
-|
-
-80
-
-|
+80 |
 
 Ecole nationale des greffes
 
@@ -322,10 +240,28 @@ Directeur de l'Ecole nationale des greffes
 
 |
 
-1
+1 |
+
+110 |
+
+Inspection générale de la justice
+
+DÉSIGNATION DE L'EMPLOI |
+
+NOMBRE
+
+d'emplois
 
 |
 
-110
+NOMBRE
+
+de points par emploi
 
 |
+
+Inspecteur général, chef de l'inspection générale de la justice |
+
+1 |
+
+140 |

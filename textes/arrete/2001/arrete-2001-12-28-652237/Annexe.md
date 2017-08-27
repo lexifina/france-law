@@ -6,37 +6,7 @@ AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 A.-Fonctions exercées en administration centrale
 
-1. Chef du service de l'inspection générale des services judiciaires :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Inspecteur général des services judiciaires
-
-|
-
-1
-
-|
-
-140
-
-|
+1. (Supprimé)
 
 2. Directeur d'administration centrale :
 
@@ -610,43 +580,7 @@ Directeur de projet
 
 |
 
-7. Chef de l'inspection des services pénitentiaires et chef de l'inspection de la protection judiciaire de la jeunesse :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
-
-Chef de l'inspection des services pénitentiaires
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef de l'inspection de la protection judiciaire de la jeunesse
-
-|
-
-1
-
-|
-
-80
-
-|
+7. (Supprimé)
 
 8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire :
 
