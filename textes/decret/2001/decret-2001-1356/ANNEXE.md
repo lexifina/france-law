@@ -2,7 +2,7 @@
 
 A. - Fonctions exercées en administration centrale
 
-1. Chef du service de l'inspection générale des services judiciaires.
+1. (alinéa supprimé)
 
 2. Directeur d'administration centrale.
 
@@ -14,7 +14,7 @@ A. - Fonctions exercées en administration centrale
 
 6. Expert de haut niveau ou directeur de projet.
 
-7. Chef de l'inspection des services pénitentiaires et chef de l'inspection de la protection judiciaire de la jeunesse.
+7. (alinéa supprimé)
 
 8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
 

@@ -51,3 +51,7 @@ Tribunaux de première instance
 Ecole nationale des greffes
 
 Directeur de l'Ecole nationale des greffes.
+
+Inspection générale de la justice
+
+Inspecteur général, chef de l'inspection générale de la justice
