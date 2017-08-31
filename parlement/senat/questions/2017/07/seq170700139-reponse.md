@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700139
+
+- Question : [SEQ170700139](seq170700139.md) — Dispense de recherche d'emploi pour les chômeurs séniors
+
+## Réponse
+
+*Travail, JO du 2017-08-31, page 2769*
+
+La dispense de recherche d'emploi dont bénéficiaient certains demandeurs d'emploi âgés de 57 ans et plus a été supprimée le 1er janvier 2012 conformément à l'objectif de mettre un terme aux dispositifs participant à écarter les salariés « séniors » du marché du travail. Pour favoriser le retour à l'emploi des seniors, le gouvernement a notamment, à l'occasion de la grande conférence sociale de juillet 2014, lancé le plan senior, lancé à l'occasion de la grande conférence sociale de juillet 2014qui, vise en particulier à lutter contre les freins au recrutement et au maintien en emploi des seniors. Ces efforts ont permis une amélioration continue du taux d'emploi des seniors comme le souligne régulièrement les enquêtes de l'INSEE. Ainsi, entre la fin du deuxième trimestre 2014 et la fin du deuxième trimestre 2017, le taux d'emploi des 50-64 ans est passé de 58.6% à 61.6% et celui des 55-64 ans de 46.9% à 51.5%. Entre le premier trimestre 2017 et le second, ces taux ont progressé de 0.8 points pour les 50-64 ans et de 0.7 points pour les 55-64 ans. Le Gouvernement reste attentif à la situation des séniors : afin de prendre en compte la situation spécifique des demandeurs d'emploi âgés de 60 ans et plus, disposant de l'ensemble des trimestres de retraite requis au titre du régime d'assurance vieillesse sans pouvoir liquider leur pension de retraite, faute d'avoir atteint l'âge légal de départ, une prime transitoire de solidarité d'un montant de 300 € par mois a été créée par le décret du 15 juillet 2015. Elle leur sera versée jusqu'à la liquidation de la pension de retraite afin d'améliorer leurs conditions de revenus.
