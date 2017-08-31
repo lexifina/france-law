@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170800855
+
+- Question : [SEQ170800855](seq170800855.md) — Rôle des gestionnaires forestiers professionnels dans la gestion des forêts privées
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2017-08-31, page 2762*
+
+En l'état actuel des dispositions législatives et réglementaires du code forestier, les gestionnaires forestiers professionnels ne sont pas habilités à produire des règlements types de gestion (RTG). Un RTG détermine en effet, en se situant d'un point de vue régional, les modalités d'exploitation forestière adaptées aux grands types de peuplements forestiers identifiés dans cette aire régionale. Ce document ne peut être établi que par un ou plusieurs organismes de gestion en commun agréés (OGEC), un ou plusieurs experts forestiers agréés ou par l'office national des forêts (ONF). Tout RTG est soumis à l'approbation du centre régional de la propriété forestière. Les bois et forêts gérés conformément à un RTG sont considérés comme présentant des garanties de gestion durable. Cette garantie est notamment exigée aux propriétaires forestiers par l'administration pour demander des aides financières et dispositifs fiscaux spécifiques au domaine forestier. Le RTG est un document couvrant une aire large et demandant par l'analyse approfondie des enjeux forestiers que sa réalisation nécessite un investissement technique et administratif allant a priori au-delà des capacités d'un gestionnaire forestier professionnel individuel. C'est pourquoi pour bénéficier de la garantie rattachée au RTG, un propriétaire forestier doit être nécessairement adhérent à un organisme agréé comme OGEC, avoir recours aux conseils en gestion d'un expert forestier agréé (par contrat d'une durée d'au moins dix ans), ou à ceux de l'ONF pour les forêts gérées par celui-ci.
