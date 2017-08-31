@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170800833
+
+- Question : [SEQ170800833](seq170800833.md) — Conséquences des épisodes de grêle pour les agriculteurs du Pas-de-Calais
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2017-08-31, page 2761*
+
+Durant le mois de juillet 2017, le département du Pas-de-Calais a connu des épisodes de grêle de forte intensité affectant un grand nombre d'exploitations agricoles et différents types de productions. Afin de permettre aux agriculteurs de se refinancer, ces derniers bénéficient actuellement d'un dispositif de garantie des prêts de restructuration ou de renforcement du fonds de roulement en lien avec Bpifrance et la société de caution mutuelle pour les petites entreprises (SIAGI), complété d'une prise en charge par l'État du coût de cette garantie bancaire. Les exploitants peuvent articuler ce dispositif avec celui relatif à la prise en charge partielle par l'État des frais de restructuration de prêts professionnels, élargi récemment aux viticulteurs. Ces deux dispositifs ont été dernièrement prorogés jusqu'au 31 décembre 2017. S'agissant des pertes liées à la grêle, le régime des calamités agricoles indemnise les pertes de récolte sur prairie et les pertes de fonds sur cheptel vif ainsi que les outils de production. Enfin, face à la multiplication des intempéries, il est également indispensable que les exploitants agricoles puissent assurer plus largement leurs productions à travers le dispositif d'assurance récolte contre les risques climatiques, développé par l'État et qui inclut la grêle ou le gel. Ce soutien prend la forme d'une prise en charge partielle des primes ou cotisations d'assurance payées par les exploitants agricoles, pouvant aller jusqu'à 65 %. Les producteurs ont la possibilité de réduire le taux de franchise ou bien encore le seuil de déclenchement, afin de disposer d'un contrat d'assurance adapté à leurs besoins.
