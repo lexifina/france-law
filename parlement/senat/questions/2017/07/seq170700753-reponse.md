@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700753
+
+- Question : [SEQ170700753](seq170700753.md) — Accompagnement des exploitations agricoles en difficulté
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2017-08-31, page 2760*
+
+Dans le cadre du plan de soutien à l'élevage initié par le précédent Gouvernement à l'été 2015, de nombreuses mesures conjoncturelles ont été mises en place et prorogées pour aider les exploitants en difficulté. Par ailleurs, face à ce contexte économique dégradé, le ministère chargé de l'agriculture a engagé des travaux pour améliorer l'identification et l'accompagnement des agriculteurs en difficultés structurelles. Cette réflexion a notamment abouti à la nécessité d'améliorer l'audit d'exploitation mis en œuvre dans le cadre du dispositif « agriculteurs en difficulté » (Agridiff). Aussi, un nouveau cahier des charges a été défini permettant de disposer d'un audit global de l'exploitation intégrant notamment les aspects sociaux. Il s'agit de travailler à la mise en place d'un véritable outil d'orientation et de conseil aux exploitations en difficultés. S'agissant du pacte de consolidation et de refinancement des exploitations agricoles qui prévoit un dispositif de garantie des prêts de restructuration ou de renforcement du fonds de roulement en lien avec Bpifrance, banque publique d'investissement et la société interprofessionnelle artisanale de garantie d'investissements -SIAGI- (« volet B »), complété d'une prise en charge par l'État du coût de cette garantie bancaire, l'échéance de dépôt des demandes a été prolongée récemment jusqu'au 31 décembre 2017. Les exploitants peuvent articuler ce dispositif avec celui relatif à la prise en charge partielle par l'État des frais de restructuration de prêts professionnels (« volet C »), lui aussi prorogé jusqu'au 31 décembre 2017.
