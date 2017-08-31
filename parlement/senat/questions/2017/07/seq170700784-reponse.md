@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700784
+
+- Question : [SEQ170700784](seq170700784.md) — Versement des aides de la politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2017-08-31, page 2761*
+
+Le paiement des aides de la politique agricole commune (PAC) accuse un retard important et reste à juste titre une préoccupation partagée par tous. La réforme complète des aides en 2015 avec le changement de programmation, le plan d'action et la rénovation du registre parcellaire graphique en constituent les principales causes. Tout en ne sous-estimant pas les raisons qui ont conduit à ce retard, le ministre de l'agriculture et de l'alimentation entend corriger cette situation en prenant des engagements précis. À cette fin, le ministère de l'agriculture et de l'alimentation (MAA) a demandé à l'agence de services et de paiement (ASP) de renforcer sans délai les moyens humains mobilisés sur le chantier de l'instrumentation des aides PAC pour que l'ASP et son prestataire informatique renforcent leur capacité à traiter en parallèle les chantiers de paiement du premier et du deuxième pilier de la PAC. Les priorités fixées par le MAA à ses services et à l'ASP sont les suivantes : - initier les paiements en novembre 2017 pour les mesures agro-environnementales et climatiques (MAEC) et les aides à l'agriculture biologique pour la campagne 2015 ; - mettre simultanément en œuvre tous les moyens nécessaires pour que les paiements des MAEC et des aides à l'agriculture biologique 2016 aient lieu à partir de mars 2018. Le paiement des MAEC 2017 sera initié dès juillet 2018. Une attention particulière sera prêtée aux moyens humains des directions départementales des territoires et de la mer. Le MAA veillera ainsi à ce que les services d'économie agricole aient les moyens nécessaires pour traiter ces différents chantiers. Des demandes spécifiques ont été portées en ce sens au ministère chargé du budget.
