@@ -14,19 +14,19 @@ A. - Epreuves écrites d'admissibilité
 
 B. - Epreuves orales d'admission
 
-1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient 1,5).
+1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient 1,5).
 
 Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.
 
-2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient : 1,5).
+2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient : 1,5).
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
-3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1,5).
+3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5).
 
 Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
 
-4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1,5). Le programme est renouvelé chaque année.
+4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [traduction et explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5). Le programme est renouvelé chaque année.
 
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
@@ -536,7 +536,7 @@ B. - Epreuves orales d'admission
 
 2° Exposé oral en hébreu à partir de documents, hors programme, suivi d'un entretien en hébreu avec le jury. Dans son exposé, le candidat propose une lecture et un commentaire des documents qui lui ont été remis, mettant en évidence ce qui les relie et les éclaire mutuellement. L'exposé et l'entretien avec le jury doivent permettre d'évaluer les qualités d'analyse, d'argumentation, de synthèse et d'expression du candidat (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 3).
 
-3° Traduction et commentaire littéraire et linguistique en français de deux textes, l'un d'hébreu classique (Bible), l'autre d'araméen biblique ou talmudique.
+3° Traduction et commentaire littéraire, linguistique et historique en français de deux textes en hébreu, l'un tiré de la Bible, l'autre de la littérature rabbinique (époque talmudique).
 
 Les textes sont extraits du programme. Un entretien avec le jury a lieu après la traduction et le commentaire de chaque texte (durée totale de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure trente minutes maximum [traduction et commentaire : vingt minutes maximum pour chaque texte ; entretien : vingt-cinq minutes maximum pour chaque texte] ; coefficient 3).
 
@@ -566,19 +566,19 @@ B. - Epreuves orales d'admission
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
 
-2° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
+2° Leçon en langue française sur une question se rapportant au programme (durée de la préparation : cinq heures ; durée de la leçon : quarante-cinq minutes ; coefficient 6).
 
-- la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
+3° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
 
-- la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire grammatical laissé au choix du candidat et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+-la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
+
+-la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire d'un point de grammaire choisi par le jury et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
-3° Explication en langue italienne d'un texte italien moderne ou contemporain, inscrit au programme (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+4° Explication en langue italienne d'un texte italien moderne ou contemporain, extrait d'une œuvre au programme suivie d'un entretien en français avec le jury (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes ; entretien : quinze minutes] ; coefficient 4).
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
-
-4° Traduction improvisée (thème et version) (durée de l'épreuve : quarante-cinq minutes maximum : coefficient 4).
 
 5° A l'issue des épreuves orales, le jury attribue une note de maîtrise de la langue italienne et de la langue française, qui s'ajoute aux notes des épreuves d'admission (coefficient 3).
 
@@ -734,6 +734,46 @@ La maîtrise de la langue russe et de la langue française est prise en compte d
 
 Le programme des épreuves fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
+Section langues de France
+
+Le concours comporte les options suivantes : basque, breton, catalan, corse, créole, occitan-langue d'oc, tahitien. Le choix de l'option par le candidat s'effectue au moment de l'inscription.
+
+Les candidats font l'objet d'un classement distinct selon l'option choisie.
+
+A.-Epreuves d'admissibilité
+
+1° Composition en français sur un programme de civilisation portant sur des problématiques communes aux langues de France, relevant de la sociolinguistique et de l'Histoire.
+
+Au titre d'une même session, l'épreuve est commune à chacune des options ouvertes.
+
+Durée : sept heures ; coefficient 2.
+
+2° Commentaire dans la langue de l'option d'un texte littéraire inscrit au programme.
+
+Durée : sept heures ; coefficient 2.
+
+3° Epreuve de traduction.
+
+L'épreuve est constituée d'un thème et d'une version dans la langue de l'option.
+
+Les textes à traduire sont distribués simultanément aux candidats au début de l'épreuve. Ceux-ci consacrent à chacune des deux traductions le temps qui leur convient, dans les limites de l'horaire imparti à l'ensemble de l'épreuve de traduction. Les candidats rendent deux copies séparées et chaque traduction est comptabilisée pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 3).
+
+B.-Epreuves d'admission
+
+1° Leçon suivie d'un entretien sur une question de littérature ou de civilisation inscrite au programme. La leçon et l'entretien se déroulent dans la langue de l'option.
+
+Préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes [leçon : trente minutes ; entretien : quinze minutes] ; coefficient 4.
+
+2° Explication linguistique en français suivi d'un entretien en français à partir d'un texte hors programme écrit dans la langue de l'option.
+
+Préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes [explication : trente minutes ; entretien : quinze minutes] ; coefficient 4.
+
+3° Explication dans la langue de l'option d'un texte littéraire inscrit au programme, suivie d'un entretien dans la même langue.
+
+Préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes [explication : trente minutes ; entretien : quinze minutes] ; coefficient 2.
+
+A l'exception du programme de la première épreuve d'admissibilité qui est commun aux options ouvertes au titre d'une même session, le programme des autres épreuves d'admissibilité et d'admission est spécifique à chaque option. Ces programmes font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
 Section mathématiques
 
 A. - Epreuves écrites d'admissibilité
@@ -766,8 +806,6 @@ Option C : algèbre et calcul formel
 
 L'épreuve est commune aux options A, B et C.
 
-Deux sujets au choix sont proposés par le jury au candidat. Ce dernier dispose, pour la préparation, de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés. A l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Il est suivi du développement d'une question qui lui est liée. Au cours de l'entretien qui suit, le jury peut éventuellement proposer un ou plusieurs exercices.
-
 2° Epreuve d'analyse et probabilités (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
 
 L'épreuve est commune aux options A, B et C.
@@ -778,7 +816,7 @@ Pour chacune de ces épreuves :
 
 - pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-- à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+- à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté dix minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
 3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
@@ -796,8 +834,6 @@ Option D : informatique
 
 1° Epreuve de mathématiques (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : quinze minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 4).
 
-Deux sujets au choix sont proposés par le jury au candidat. Ce dernier dispose, pour la préparation, de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés. A l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Il est suivi du développement d'une question qui lui est liée. Au cours de l'entretien qui suit, le jury peut éventuellement proposer un ou plusieurs exercices.
-
 2° Epreuve d'informatique fondamentale (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
 
 Pour chacune de ces deux épreuves :
@@ -806,9 +842,9 @@ Pour chacune de ces deux épreuves :
 
 - pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-- à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+- à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant dix minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
-3° Epreuve d'analyse de système informatique (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
+3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
 Deux textes décrivant une classe de systèmes informatiques sont proposés au candidat.
 
@@ -934,57 +970,83 @@ Section musique
 
 A. - Epreuves d'admissibilité
 
-1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des arts, des idées et des sociétés (durée : six heures ; coefficient 1) :
+1° Dissertation.
 
-Un programme de trois questions est publié sur le site internet du ministère chargé de l'éducation nationale. L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
+L'épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des arts, des idées et des sociétés.
 
-Les deux autres sont centrées chacune sur une période historique, un courant esthétique, une forme, un genre ou un auteur.
+Un programme de trois questions est publié sur le site internet du ministère chargé de l'éducation nationale. L'une d'entre elles porte sur la musique et les arts à travers des périodes historiques et des modes d'expression musicale différents. Les deux autres sont centrées chacune sur une période historique, un courant esthétique, une forme, un genre ou un auteur.
 
-2° Epreuve technique : notation d'éléments musicaux à partir de corpus musicaux enregistrés.
+Durée : six heures ; coefficient 1.
 
-Pour chaque extrait, le sujet précise les éléments à noter, qu'ils soient de nature mélodique, rythmique, harmonique ou qu'ils relèvent d'autres paramètres remarquables.
+2° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ trente mesures.
 
-Le diapason mécanique est autorisé.
+Le style classique (Mozart, Haydn, Beethoven) est l'unique référence stylistique pour cette épreuve.
 
-L'épreuve prend fin à l'expiration d'un délai de dix minutes suivant la dernière audition du dernier fragment. La durée totale de l'épreuve ne peut excéder une heure quarante-cinq minutes (coefficient 1).
+La formation imposée par le sujet fait appel à un piano et à un ou deux instruments mélodiques. La ligne mélodique donnée par le sujet peut circuler entre les deux ou trois instruments.
 
-3° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ trente mesures
+Durée : six heures ; coefficient 1.
 
-Un programme limitatif renouvelé périodiquement est publié sur le site internet du ministère chargé de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+3° Epreuve technique : notation d'éléments musicaux à partir de corpus musicaux enregistrés.
 
-Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
+Pour chaque extrait, le sujet précise les éléments à noter, qu'ils soient de nature mélodique, rythmique, harmonique ou qu'ils relèvent d'autres paramètres remarquables. Le diapason mécanique est autorisé.
+
+L'épreuve prend fin à l'expiration d'un délai de dix minutes suivant la dernière audition du dernier fragment.
+
+Durée totale de l'épreuve : une heure et quarante-cinq minutes maximum ; coefficient 1.
 
 B. - Epreuves d'admission
 
-1° Leçon devant un jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de plusieurs documents identifiés de nature diverse, dont une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia. Le nombre total de documents ne peut être supérieur à cinq.
+1° Leçon devant un jury.
+
+L'épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de plusieurs documents identifiés de nature diverse, dont une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia. Le nombre total de documents ne peut être supérieur à cinq.
 
 Le candidat expose et développe une problématique de son choix à partir des documents proposés. L'exposé est suivi d'un entretien avec le jury.
 
 Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés.
 
-Durant l'épreuve, le candidat dispose d'un appareil de diffusion et d'un piano (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes] ; coefficient 2). .
+Durant l'épreuve, le candidat dispose d'un appareil de diffusion et d'un piano.
 
-2° Direction de chœur : un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire faire interpréter intégralement ou en partie par un ensemble vocal.
+Durée de préparation : six heures ; durée de l'épreuve : cinquante minutes (exposé : trente minutes ; entretien : vingt minutes) ; coefficient 1.
 
-Le candidat dispose d'un piano pendant la durée de la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 1).
+2° Direction de chœur.
 
-3° Epreuve de pratique instrumentale et vocale : une mélodie avec paroles est proposée au candidat. Il en réalise :
+L'épreuve comporte l'apprentissage et l'interprétation par un chœur d'un texte polyphonique puis un entretien avec le jury.
 
-- une interprétation vocale en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte ;
+Un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire interpréter au chœur mis à sa disposition.
 
-- une improvisation instrumentale et/ou vocale à partir du texte donné, l'instrument étant librement choisi et apporté par le candidat.
+Le chœur ne dispose pas de la partition.
 
-Cet ensemble est précédé d'une brève présentation de cinq minutes maximum des choix artistiques effectués pour l'interprétation et l'improvisation.
+Un entretien de dix minutes avec le jury permet à celui-ci d'interroger le candidat sur les aspects techniques, artistiques et pédagogiques du moment précédent.
 
-Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : une heure ; durée de l'épreuve : quinze minutes ; coefficient 2).
+Le candidat dispose d'un piano pendant la durée de la préparation et pendant la durée de l'épreuve.
+
+Durée de préparation : une heure ; durée de l'épreuve : trente minutes ; coefficient 1.
+
+3° Epreuve de pratique instrumentale et vocale.
+
+Une mélodie avec paroles est proposée au candidat. Il en réalise :
+
+-une interprétation vocale a cappella ;
+
+-une interprétation vocale en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte ;
+
+-des variations et/ ou improvisations instrumentales et/ ou vocales en s'appuyant sur certains éléments du texte donné, l'instrument étant librement choisi et apporté par le candidat. Il veillera tout d'abord à en conserver le style, puis pourra s'en détacher vers l'expression de sa propre culture.
+
+Cet ensemble est précédé d'une brève présentation de cinq minutes maximum des choix artistiques effectués. Il est suivi d'un entretien avec le jury portant sur les choix artistiques, techniques et stylistiques effectués par le candidat, ainsi que sur ses pratiques musicales, aussi bien instrumentales que vocales.
+
+Durant cet entretien, le jury peut être amené à demander au candidat d'illustrer vocalement et/ ou instrumentalement certains de ses propos. Ces échanges n'excèdent pas dix minutes.
+
+Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve.
+
+Durée de la préparation : une heure ; durée de l'épreuve : vingt minutes ; coefficient 1.
 
 4° Commentaire d'une œuvre musicale enregistrée non identifiée (ou d'un extrait) d'une durée n'excédant pas quatre minutes.
 
-Le candidat donne à son commentaire l'orientation de son choix. L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci.
+Le candidat donne à son commentaire l'orientation de son choix. L'épreuve débute par l'audition intégrale de l'extrait donné à commenter. L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci.
 
-Durant la préparation, le candidat dispose d'un appareil d'écoute qu'il peut utiliser autant qu'il le souhaite. L'enregistrement n'est pas accompagné de partition. Le diapason mécanique est autorisé.
+Durant la préparation, le candidat dispose d'un appareil d'écoute qu'il peut utiliser autant qu'il le souhaite et d'un piano. L'enregistrement n'est pas accompagné de partition. Le diapason mécanique est autorisé. Durant l'épreuve, le candidat dispose d'un appareil de diffusion qu'il peut utiliser durant son exposé initial et d'un piano.
 
-Durant l'épreuve, le candidat dispose d'un appareil de diffusion qu'il peut utiliser durant son exposé initial et d'un piano (durée de la préparation : vingt minutes ; durée de l'épreuve : vingt minutes ; coefficient 1).
+Durée de la préparation : trente minutes ; durée de l'épreuve : vingt-cinq minutes ; coefficient 1.
 
 Section arts
 
@@ -1000,41 +1062,85 @@ Option A : arts plastiques
 
 A. - Epreuves d'admissibilité
 
-1° Epreuve écrite d'esthétique et sciences de l'art : cette épreuve prend appui sur un document textuel assorti d'un sujet :
+1° Epreuve écrite d'esthétique et sciences de l'art.
 
-Le texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des écrits d'artistes, des textes critiques (durée : six heures ; coefficient 1,5).
+L'épreuve prend appui sur un document textuel assorti d'un sujet. Le texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des écrits d'artistes, des textes critiques. Cette bibliographie est publiée sur le site internet du ministère chargé de l'éducation nationale.
 
-2° Epreuve écrite d'histoire de l'art : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne les xxe et xxie siècles, l'autre, une période antérieure (durée : six heures ; coefficient 1,5).
+Durée : six heures ; coefficient 1,5.
 
-3° Epreuve de pratique plastique : réalisation bidimensionnelle mettant en œuvre des moyens strictement graphiques pour répondre à un sujet à consignes précises.
+2° Epreuve écrite d'histoire de l'art.
 
-Cette épreuve a pour but de tester l'engagement artistique du candidat, son aptitude à fournir une réponse pertinente et personnelle à une question posée, à faire la démonstration de ses capacités d'invention et de création, à témoigner de son savoir-faire en matière d'expression et de communication graphiques (durée : huit heures ; coefficient 3).
+Un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne la période du XXe siècle à nos jours, l'autre, une période antérieure. Le programme limitatif est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-Format du support de présentation : grand aigle.
+Durée : six heures ; coefficient 1,5.
+
+3° Epreuve de pratique plastique accompagnée d'une note d'intention.
+
+Cette épreuve a pour but de tester l'engagement artistique du candidat, son aptitude à fournir une réponse pertinente et personnelle à une question posée, à faire la démonstration de ses capacités d'invention et de création, à témoigner de son savoir-faire en matière d'expression avec des moyens plastiques bidimensionnels.
+
+L'épreuve prend appui sur un sujet à consignes précises et un dossier documentaire comprenant une sélection de documents iconiques et/ ou textuels. Le candidat répond aux consignes du sujet. Il réalise une production plastique bidimensionnelle (picturale, graphique, pouvant inclure le collage, associer diverses techniques, des moyens traditionnels et numériques), impérativement de format grand aigle.
+
+La production est accompagnée d'une note d'intention soumise à notation, de vingt à trente lignes, écrites au verso. La note d'intention a pour objet de faire justifier au candidat les choix et modalités de sa pratique plastique en réponse au sujet.
+
+15 points sont attribués à la production plastique et 5 points à la note d'intention.
+
+Durée : huit heures ; coefficient 3.
 
 B. - Epreuves d'admission
 
-1° Epreuve de pratique et création plastiques : réalisation artistique bi ou tridimensionnelle à partir d'un sujet à consignes précises assorti d'un dossier thématique comportant des documents visuels et textuels :
+1° Epreuve de pratique et création plastiques : réalisation d'un projet de type artistique.
 
-Les candidats ont le choix entre différents modes d'expression : dessin, gravure, sculpture, maquette, montage audiovisuel ou tout autre mode d'expression que le jury estime compatible avec la mise en œuvre de l'épreuve dans le cadre du concours.
+L'épreuve se compose d'une pratique plastique à visée artistique (projet et réalisation), d'un exposé et d'un entretien.
+
+Elle permet d'apprécier les compétences et engagements artistiques du candidat : conception d'un projet et réalisation plastique, capacité à expliciter sa démarche et sa production, à prendre du recul théorique.
 
 Déroulement de l'épreuve :
 
-A. - Projet (comportant ou non des indications écrites) mis sous scellés (durée : six heures) ;
+a) Projet.
 
-B. - Réalisation du projet en deux journées de huit heures ;
+A partir d'un sujet à consignes précises posé par le jury et pouvant s'accompagner de documents annexes, le candidat élabore et réalise un projet à visée artistique au moyen d'une pratique plastique. Ce projet (comportant ou non des indications écrites) est nécessairement soutenu par des moyens plastiques (esquisses, maquettes, images …).
 
-C. - Présentation par le candidat de son travail et discussion avec le jury (durée totale : trente minutes).
+b) Réalisation.
 
-Le gros matériel, tel que bacs d'acide et presse pour la gravure, agrandisseurs pour la photographie, est mis à la disposition des candidats. Les outils personnels sont laissés à leur charge.
+Le candidat peut choisir entre différents modes d'expression, en deux ou en trois dimensions, avec des moyens traditionnels, actualisés ou numériques, ou croisant ces possibilités. Cette partie de l'épreuve s'inscrit dans les contraintes matérielles du sujet et du lieu dans lequel elle se déroule. Les moyens de production (outils, matériels, matériaux, supports) sont à la charge du candidat.
+
+c) Exposé et entretien.
+
+En prenant appui sur sa réalisation, le candidat présente et explicite son projet (démarche et réalisation). Cet exposé est suivi d'un entretien avec le jury qui permet d'évaluer les capacités du candidat à soutenir la communication de son projet artistique, à savoir le justifier et à en permettre la compréhension.
+
+Durée de l'épreuve :
+
+-élaboration du projet (comportant ou non des indications écrites) mis sous scellés : six heures ;
+
+-réalisation du projet : deux journées de huit heures ;
+
+-exposé (présentation par le candidat de son travail) : dix minutes ; entretien avec le jury : vingt minutes (durée totale : trente minutes).
 
 Coefficient pour l'ensemble de l'épreuve : 3.
 
-2° Leçon : conçue à l'attention d'élèves du second cycle, elle inclut une réflexion sur les ressources offertes par un partenariat structuré avec les institutions et les professionnels des domaines artistiques et culturel.
+2° Epreuve de leçon.
 
-La leçon est suivie d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
+L'épreuve se compose d'un exposé du candidat suivi d'un entretien avec le jury.
 
-3° Entretien sans préparation avec le jury : entretien à partir de documents imposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines artistiques, autres que les arts plastiques, suivants : architecture, arts appliqués, cinéma-vidéo, photographie, théâtre (durée : trente minutes maximum ; coefficient 2).
+Le projet d'enseignement proposé est conçu à l'intention d'élèves du second cycle.
+
+L'épreuve prend appui sur un dossier présenté sous forme de documents écrits, photographiques et/ ou audiovisuels et sur un extrait des programmes du lycée. Le dossier comprend également un document permettant de poser une question portant sur les dimensions partenariales de l'enseignement, internes et externes à l'établissement scolaire, disciplinaires ou non disciplinaires, et pouvant être en lien avec l'éducation artistique et culturelle.
+
+L'exposé du candidat, au cours duquel il est conduit à justifier ses choix didactiques et pédagogiques, est conduit en deux temps immédiatement successifs :
+
+a) Projet d'enseignement (trente minutes maximum) : leçon conçue à l'intention d'élèves. Le candidat expose et développe une séquence d'enseignement de son choix en s'appuyant sur le dossier documentaire et l'extrait de programme proposés.
+
+b) Dimensions partenariales de l'enseignement (dix minutes maximum) : le candidat répond à une question à partir d'un document inclus dans le dossier remis au début de l'épreuve, portant sur les dimensions partenariales de l'enseignement.
+
+L'exposé est suivi d'un entretien avec le jury (quarante minutes maximum).
+
+Durée de la préparation : quatre heures trente ; durée de l'épreuve : une heure et vingt minutes (exposé : quarante minutes ; entretien : quarante minutes) ; coefficient 3.
+
+3° Entretien de cultures artistiques.
+
+Entretien sans préparation avec le jury, à partir de documents imposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des groupes de domaines artistiques suivants : architecture-paysage ; arts appliqués-design ; cinéma-art vidéo ; photographie ; danse ; théâtre ; arts numériques.
+
+Durée : trente minutes maximum ; coefficient 2.
 
 Option B : arts appliqués
 
@@ -1326,11 +1432,11 @@ A partir d'un dossier fourni par le jury et comportant notamment des documents r
 
 Durée de la préparation : quatre heures ; durée de l'épreuve : soixante-cinq minutes (exposé : vingt-cinq minutes ; entretien : quarante minutes) ; coefficient 3.
 
-2° Présentation d'une leçon d'éducation physique et sportive :
+2° Présentation d'une leçon d'éducation physique et sportive.
 
-A partir d'un dossier fourni par le jury, présentant notamment les caractéristiques des élèves d'une classe d'un établissement scolaire du second degré, le candidat présente une leçon ou des séquences de plusieurs leçons d'éducation physique et sportive s'adressant aux élèves de cette classe, dans le contexte singulier de l'EPLE et en référence à un programme limitatif d'activités physiques sportives et artistiques (APSA) supports de la leçon.
+A partir d'un dossier papier ou numérique accompagné d'un enregistrement vidéo, fourni par le jury et présentant notamment les caractéristiques des élèves d'une classe d'un établissement scolaire du second degré, le candidat présente une leçon et/ ou des situations d'apprentissage de plusieurs leçons d'éducation physique et sportive s'adressant aux élèves de cette classe, dans le contexte singulier de l'EPLE et en référence à un programme limitatif d'activités physiques sportives et artistiques (APSA) supports de la leçon.
 
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure et vingt minutes (exposé : trente minutes ; entretien : cinquante minutes) ; coefficient 4.
+Durée de la préparation : quatre heures ; durée de l'épreuve : une heure et dix minutes (exposé : trente minutes ; entretien : quarante minutes) ; coefficient 4.
 
 3° Pratique et analyse d'une activité physique sportive et artistique :
 
