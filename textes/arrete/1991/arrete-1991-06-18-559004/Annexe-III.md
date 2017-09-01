@@ -54,7 +54,7 @@ Les analyseurs utilisés pour le mesurage direct des concentrations des gaz d'é
 
 1. 6. 2. Dispositif de mesure de l'opacité des fumées.
 
-Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression doivent être conformes aux dispositions de l'arrêté du 22 novembre 1996, relatif à la construction, au contrôle et à l'utilisation des opacimètres, établies par le ministre en charge de l'industrie.
+Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression doivent être conformes aux dispositions de l'arrêté du 22 novembre 1996, relatif à la construction, au contrôle et à l'utilisation des opacimètres, établies par le ministre en charge de l'industrie ou à la norme NF R10-025-2 : 2016.
 
 1. 6. 3. Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule
 
@@ -243,7 +243,3 @@ L'outil informatique des installations de contrôle est composé de produits log
 3.5. Pour toute demande d'agrément déposée à compter du 1er octobre 2011, si une activité de contrôle technique de véhicules lourds est réalisée sur l'emprise de l'installation de contrôle de véhicules légers, les accès et les axes de circulation de chaque activité sont séparés.
 
 3.6. Sur la façade du bâtiment et à la partie la plus visible du public est portée l'identification du centre de contrôle qui ne produit aucune confusion avec des entreprises de commerce ou de réparation automobile voisines. Les zones de contrôle et d'accueil de la clientèle, les places de stationnement, les entrées et sorties des personnes et des véhicules dans le bâtiment sont physiquement séparées de toute activité de commerce ou de réparation automobile.
-
-NOTA :
-
-Arrêté du 15 janvier 2013 article 37 : Les présentes dispositions sont applicables au 10 janvier 2014.

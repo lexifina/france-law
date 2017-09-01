@@ -2538,13 +2538,17 @@ N
 
 |
 
-9.1.2.1.1. Excessive ou mesures instables (2)
+9.1.2.1.1. Opacité excessive ou dispersion importante des valeurs
 
 |
 
 O
 
 |
+
+9.1.2.1.2. Mesures instables |
+
+N |
 
 9.1.2.2. DIVERS
 
