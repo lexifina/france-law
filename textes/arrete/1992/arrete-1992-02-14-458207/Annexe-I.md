@@ -264,18 +264,6 @@ Education physique et sportive
 
 |
 
-Enseignement moral et civique (e) |
-
-|
-
-(0,5)
-
-|
-
-(0,5)
-
-|
-
 Total horaire hebdomadaire
 
 |
@@ -284,11 +272,11 @@ Total horaire hebdomadaire
 
 |
 
-34,5
+34
 
 |
 
-34,5
+34
 
 |
 
@@ -389,10 +377,6 @@ Terminale
 |
 
 (d) Les heures de vie de classe s'inscrivent dans l'emploi du temps des élèves en classes de seconde, de première et terminale, à compter de la rentrée de l'année scolaire 2001-2002.
-
-|
-
-(e) Enseignement dispensé en groupes à effectif réduit.
 
 |
 
