@@ -60,7 +60,7 @@ Les contrôles sont réalisés au moyen de plaques à jeux placées de façon à
 
 1.4. Dispositif de mesure de l'opacité des fumées
 
-Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression sont conformes aux dispositions de l'arrêté du 22 novembre 1996 relatif à la construction, au contrôle et à l'utilisation des opacimètres.
+Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées émises par les véhicules équipés de moteurs à allumage par compression sont conformes aux dispositions de l'arrêté du 22 novembre 1996 relatif à la construction, au contrôle et à l'utilisation des opacimètres ou à la norme NF R10-025-2 : 2016.
 
 1.5. Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule.
 
@@ -408,65 +408,35 @@ NOMBRE DE PLACES
 
 |
 
-1
+1 |
 
-|
+2 |
 
-2
+1 |
 
-|
+2 |
 
-1
+3 |
 
-|
+2 |
 
-2
+3 |
 
-|
+4 |
 
-3
+3 |
 
-|
+4 |
 
-2
+5 |
 
-|
+4 |
 
-3
+N |
 
-|
+N + 1 |
 
-4
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-4
-
-|
-
-N
-
-|
-
-N + 1
-
-|
-
-N
-
-|
+N |
 
 Les places des aires de stationnement ont des dimensions suffisantes pour recevoir des véhicules ayant les caractéristiques définies au paragraphe 1 du présent appendice.
 
