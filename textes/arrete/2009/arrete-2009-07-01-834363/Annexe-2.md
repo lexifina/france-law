@@ -2,84 +2,46 @@
 
 LISTE DES SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL RELEVANT DE CHAQUE CHAMP PROFESSIONNEL
 
-SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL
+SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONEL |
 
-|
+CHAMPS PROFESSIONNELS ET CLASSES DE SECONDE PROFESSIONNELLE |
 
-CHAMPS PROFESSIONNELS ET CLASSES DE SECONDE PROFESSIONNELLE
+Conduite et gestion de l'entreprise agricole |
 
-|
+Productions |
 
-Conduite et gestion de l'exploitation agricole
+Conduite et gestion de l'entreprise vitivinicole |
 
-|
+Conduite et gestion d'une entreprise du secteur canin et félin |
 
-Productions
+Productions aquacoles |
 
-|
+Conduite et gestion de l'entreprise hippique |
 
-Conduite et gestion d'une entreprise du secteur canin et félin
+Productions horticoles |
 
-|
+Agroéquipement |
 
-Productions aquacoles
+Aménagements paysagers |
 
-|
+Nature, jardin, paysage, forêt |
 
-Conduite et gestion de l'entreprise hippique
+Forêt |
 
-|
+Gestion des milieux naturels et de la faune |
 
-Productions horticoles
+Technicien conseil vente en animalerie |
 
-|
+Conseil-vente |
 
-Agroéquipement
+Technicien conseil vente en alimentation |
 
-|
+Technicien conseil vente en produits de jardin |
 
-Aménagements paysagers
+Bio-industries de transformation (*) |
 
-|
+Alimentation, bio-industrie, laboratoire |
 
-Nature ― Jardin ― Paysage ― Forêt
+Laboratoire contrôle qualité |
 
-|
-
-Forêt
-
-|
-
-Gestion des milieux naturels et de la faune
-
-|
-
-Technicien conseil vente en animalerie
-
-|
-
-Conseil vente
-
-|
-
-Technicien conseil vente en alimentation
-
-|
-
-Technicien conseil vente en produits de jardin
-
-|
-
-Bio-industries de transformation (*)
-
-|
-
-Alimentation-Bio-industries-Laboratoire
-
-|
-
-Laboratoire contrôle qualité
-
-|
-
-(*) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale. |
+(*) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre chargé de l'éducation nationale. |
