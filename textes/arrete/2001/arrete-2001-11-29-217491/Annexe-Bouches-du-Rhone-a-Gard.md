@@ -350,17 +350,11 @@ Chef du pôle politiques sociales du logement et de l'habitat (7)
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-30 points
-
-|
+30 points |
 
 Direction départementale de l'équipement de la Charente
 
@@ -616,63 +610,69 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Corse-du-Sud
+Direction départementale des territoires et de la mer de la Corse-du-Sud
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU DE
 
-NIVEAU
+QUALIFICATION
 
-de qualification
-
-de l'emploi
-
-|
+DE L'EMPLOI |
 
 NOMBRE
 
-d'emplois
+D'EMPLOIS |
 
-|
+NOMBRE DE POINTS (IM) PAR EMPLOI |
 
-NOMBRE DE POINTS (IM)
+Chef du service urbanisme, planification, habitat |
 
-par emploi
+A |
 
-|
+1 |
 
-Correspondant départemental "ville"
+50 |
 
-|
+Chef de l'unité habitat, rénovation urbaine |
 
-A
+A |
 
-|
+1 |
 
-3
+50 |
 
-|
+Secrétaire du service urbanisme, planification, habitat |
 
-50 points
+C |
 
-|
+1 |
 
-Chargé du suivi de la politique de la ville
+20 |
 
-|
+Direction départementale de la cohésion sociale et de la protection des populations de la Corse-du-Sud
 
-C
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU DE
 
-1
+QUALIFICATION
 
-|
+DE L'EMPLOI |
 
-20 points
+NOMBRE
 
-|
+D'EMPLOIS |
+
+NOMBRE DE POINTS (IM) PAR EMPLOI |
+
+Adjoint au chef du service logement et urgence sociale |
+
+A |
+
+1 |
+
+50 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de la Haute-Corse
 
@@ -746,49 +746,31 @@ Responsable du pôle Agence nationale pour la rénovation urbaine.
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-40 points
-
-|
+40 points |
 
 Assistant politique de la ville au pôle lutte contre les exclusions.
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-25 points
-
-|
+25 points |
 
 Instructeur au pôle Agence nationale pour la rénovation urbaine.
 
 |
 
-C
+C |
 
-|
+1 |
 
-1
-
-|
-
-10 points
-
-|
+10 points |
 
 Direction départementale de l'équipement et de l'agriculture (2) des Côtes-d'Armor
 
@@ -876,37 +858,21 @@ par emploi
 
 |
 
-Adjoint au chef de pôle développement de l'offre de logement, chargé des dossiers ANRU, service urbanisme habitat construction
+Adjoint au chef de pôle développement de l'offre de logement, chargé des dossiers ANRU, service urbanisme habitat construction |
 
-|
+A |
 
-A
+1 |
 
-|
+25 |
 
-1
+Responsable de la cellule documents stratégiques et ville durable, service urbanisme habitat construction |
 
-|
+A |
 
-25
+1 |
 
-|
-
-Responsable de la cellule documents stratégiques et ville durable, service urbanisme habitat construction
-
-|
-
-A
-
-|
-
-1
-
-|
-
-25
-
-|
+25 |
 
 Direction départementale des territoires du Doubs (8)
 
@@ -1032,17 +998,11 @@ Adjoint au responsable de l'unité lutte contre les exclusions et observation de
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Direction départementale de l'équipement de la Drôme
 

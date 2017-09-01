@@ -410,115 +410,69 @@ C
 
 Direction départementale des territoires des Yvelines
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre d'emplois |
 
-de qualification de l'emploi
+Nombre de points (IM) par emploi |
 
-|
+Chef d'unité rénovation urbaine - Service habitat et rénovation urbaine |
 
-NOMBRE
+A |
 
-d'emplois
+1 |
 
-|
+30 |
 
-NOMBRE DE POINTS (IM) par emploi
+Chef du service habitat et rénovation urbaine |
 
-|
+A |
 
-Chef de la mission politique de la ville et chef d'unité rénovation urbaine - Service habitat et rénovation urbaine
+1 |
 
-|
+15 |
 
-A
+Chef d'unité du Parc privé et résorption de l'habitat indigne - Service habitat et rénovation urbaine |
 
-|
+A |
 
-1
+1 |
 
-|
+15 |
 
-30
-
-|
-
-Chargé de mission politique de la ville, adjoint au chef d'unité rénovation urbaine - Service habitat et rénovation urbaine
-
-|
-
-A
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Chargé de mission développement urbain et social des quartiers - Service habitat et rénovation urbaine
-
-|
-
-A
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Chargé de mission politique de la ville - Service habitat et rénovation urbaine
-
-|
+Adjoint au chef d'unité rénovation urbaine - Service habitat et rénovation urbaine |
 
 B |
 
-2 |
+1 |
 
 20 |
 
-Comptable chargé des engagements des dossiers de travaux d'investissement et du contrôle de la réalisation des travaux - Service habitat et rénovation urbaine
+Chef de projet - Chargé de mission taxe foncière sur les propriétés bâties au sein de l'unité rénovation urbaine - Service habitat et rénovation urbaine |
 
-|
+B |
 
-C
+1 |
 
-|
+20 |
 
-1
+Assistant du chef de service chargé su secrétariat inter-unités - Service habitat et rénovation urbaine |
 
-|
+C |
 
-10
+1 |
 
-|
+10 |
 
-Assistant chargé d'instruction des dossiers rénovation urbaine - Service habitat et rénovation urbaine
+Assistant chargé d'instruction des dossiers rénovation urbaine au sein de l'unité rénovation urbaine - Service habitat et rénovation urbaine |
 
-|
+C |
 
-C
+1 |
 
-|
-
-1
-
-|
-
-10
-
-|
+10 |
 
 Direction départementale de l'équipement et de l'agriculture (1) des Deux-Sèvres
 

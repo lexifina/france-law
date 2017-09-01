@@ -1,6 +1,6 @@
 # Article Annexe II
 
-LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DRAAF, DAAF, DSA, DDT, DDTM, DDCS, DDCSPP)
+LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES SERVICES DECONCENTRES DU MINISTERE DE L'AGRICULTURE ET DE L'ALIMENTATION (DRAAF, DAAF, DSA, DDT, DDTM, DDCS, DDCSPP)
 
 I. - DIRECTIONS RÉGIONALES DE L'ALIMENTATION, DE L'AGRICULTURE ET DE LA FORÊT (DRAAF) |
 
@@ -13,6 +13,10 @@ DRAAF Auvergne-Rhône-Alpes |
 Secrétaire général |
 
 Adjoint au chef du service régional de l'économie agricole |
+
+Chef de service adjoint régional de l’information statistique, économique et territorial
+
+|
 
 DRAAF Bourgogne-Franche-Comté |
 
@@ -43,8 +47,6 @@ Secrétaire général |
 Chargé de mission politique des bassins, milieux marins, sols auprès de la direction |
 
 DRAAF Nouvelle-Aquitaine |
-
-Chef du pôle interrégional santé des forêts Aquitaine Midi-Pyrénées |
 
 Chef du service régional de la forêt et du bois |
 
@@ -113,10 +115,6 @@ Chef du service mission transversale observatoire des territoires |
 DDT |
 
 Chef du service de l'environnement et des risques |
-
-DDT |
-
-Chef du service de l'économie agricole |
 
 05 - Hautes-Alpes |
 
@@ -226,10 +224,6 @@ Chef du service de la connaissance des territoires et de la prospective |
 
 DDT |
 
-Chef du service de l'économie agricole |
-
-DDT |
-
 Chef du service de l'eau et de l'environnement |
 
 44 - Loire-Atlantique |
@@ -250,11 +244,19 @@ DDT |
 
 Chef du service de l'eau, de la forêt et de l'environnement |
 
-47 - Lot-et-Garonne |
+DDT |
+
+Chef du service de l’économie agricole et développement des territoires
+
+|
+
+48 - Lozère |
 
 DDT |
 
-Chef du service économie agricole |
+Chef du service économie agricole
+
+|
 
 49 - Maine-et-Loire |
 
@@ -272,18 +274,6 @@ DDT |
 
 Chef du service de l'économie agricole |
 
-55 - Meuse |
-
-DDT |
-
-Chef du service de l'économie agricole |
-
-58 - Nièvre |
-
-DDT |
-
-Chef du service de l'économie agricole |
-
 59 - Nord |
 
 DDTM |
@@ -296,17 +286,19 @@ DDTM |
 
 Chef du service de l'économie agricole |
 
-64 - Pyrénées-Atlantiques |
-
-DDTM |
-
-Chef du service productions et économie agricole |
-
 66 - Pyrénées-Orientales |
 
 DDTM |
 
 Chef du service de l'économie agricole |
+
+68 – Haut-Rhin |
+
+DDT |
+
+Chef du service agriculture et développement rural
+
+|
 
 70 - Haute-Saône |
 
@@ -342,16 +334,6 @@ DDTM |
 
 Chef du service de l'économie agricole |
 
-84 - Vaucluse |
-
-DDT |
-
-Chef du service de l'eau et des milieux naturels |
-
-DDT |
-
-Chef du service de la prospective des territoires et de l'aménagement durable |
-
 86 - Vienne |
 
 DDT |
@@ -386,12 +368,6 @@ DDCSPP |
 
 Chef du service de la consommation de la protection des populations |
 
-09 - Ariège |
-
-DDCSPP |
-
-Secrétaire général |
-
 21 - Côte-d'Or |
 
 DDPP |
@@ -416,12 +392,6 @@ DDPP |
 
 Secrétaire général |
 
-41 - Loir-et-Cher |
-
-DDCSPP |
-
-Chef du service de la protection de l'environnement |
-
 42 - Loire |
 
 DDPP |
@@ -433,12 +403,6 @@ DDPP |
 Chef du service santé et protection animale |
 
 56 - Morbihan |
-
-DDPP |
-
-Secrétaire général |
-
-76 - Seine-Maritime |
 
 DDPP |
 

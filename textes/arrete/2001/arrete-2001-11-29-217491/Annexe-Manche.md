@@ -1,57 +1,37 @@
 # Article Annexe Manche
 
-Direction départementale de l'équipement de la Manche
+Direction départementale des territoires et de la mer de la Manche
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU DE QUALIFICATION DE L'EMPLOI |
 
-NIVEAU
+NOMBRE D'EMPLOIS |
 
-de qualification de l'emploi
+NOMBRE DE POINTS (IM) PAR EMPLOI |
 
-|
+Responsable du service habitat constuction et ville |
 
-NOMBRE
+A |
 
-d'emplois
+1 |
 
-|
+30 |
 
-NOMBRE DE POINTS (IM)
+Direction départementale de la cohésion sociale de la Manche
 
-par emploi
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU DE QUALIFICATION DE L'EMPLOI |
 
-Correspondant du fonds interministériel pour la ville
+NOMBRE D'EMPLOIS |
 
-|
+NOMBRE DE POINTS (IM) PAR EMPLOI |
 
-A
+Responsable de l'unité politique de la ville |
 
-|
+A |
 
-1
+1 |
 
-|
-
-30 points
-
-|
-
-Correspondant "logement"
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
+30 |

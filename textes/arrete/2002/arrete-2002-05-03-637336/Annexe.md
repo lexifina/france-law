@@ -1,8 +1,6 @@
 # Article Annexe
 
-DÉSIGNATION DES EMPLOIS
-
-|
+DÉSIGNATION DES EMPLOIS |
 
 NIVEAU
 
@@ -12,9 +10,7 @@ exercée
 
 |
 
-POINTS ATTRIBUÉS
-
-|
+POINTS ATTRIBUÉS |
 
 NOMBRE
 
@@ -48,510 +44,290 @@ de la ville
 
 |
 
-Total
+Total |
+
+I.-Personnels chargés d'une mission directement liée à la mise en œuvre de la politique de la ville : |
+
+A-B |
 
 |
 
-I.-Personnels chargés d'une mission directement liée à la mise en œuvre de la politique de la ville :
+20 à 40 (dans la limite de 4 500 points) |
 
-|
+Dans la limite de 4 500 points |
 
-A-B
-
-|
-
-|
-
-20 à 40 (dans la limite de 4 500 points)
-
-|
-
-Dans la limite de 4 500 points
-
-|
-
-150
-
-|
+150 |
 
 II.-Fonctions exercées dans les établissements auxquels est rattachée au moins une classe relais ou dont la liste est fixée en application de l'
 
-article 3 du décret n° 93-55 du 15 janvier 1993 :
+article 3
 
-|
-
-a) Personnels administratifs, techniques, sociaux ou de santé (à l'exception des personnels mentionnés aux b, c, d, e, f, g, h) en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
-
-|
-
-A-B-C
-
-|
-
-|
-
-20
-
-|
-
-20
-
-|
-
-3 306
-
-|
-
-b) Médecins titulaires de l'éducation nationale ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
-
-|
-
-A
-
-|
-
-|
-
-20
-
-|
-
-20
-
-|
-
-40
-
-|
-
-c) Personnels de service social ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
-
-|
-
-A-B
-
-|
-
-|
-
-20
-
-|
-
-20
-
-|
-
-168
-
-|
-
-d) Personnels de service social en fonctions dans au moins une classe relais
-
-|
-
-A-B
-
-|
-
-|
-
-20
-
-|
-
-20
-
-|
-
-200
-
-|
-
-e) Personnels responsables de la gestion des établissements des catégories suivantes :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Collèges, lycées ou lycées professionnels figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
--de 1re catégorie
-
-|
-
-A-B
-
-|
-
-25
-
-|
+du décret n° 93-55 du 15 janvier 1993 :
 
-20
-
-|
-
-45
-
-|
-
-1
-
-|
-
--de 2e catégorie
-
-|
-
-A
-
-|
-
-30
-
-|
-
-20
-
-|
-
-50
-
-|
-
-7
-
-|
-
--de 3e catégorie
-
-|
-
-A
-
 |
-
-38
 
-|
+a) Personnels administratifs, techniques, sociaux ou de santé (à l'exception des personnels mentionnés aux b, c, d, e, f, g, h) en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-20
+A-B-C |
 
 |
 
-58
+20 |
 
-|
+20 |
 
-46
+3 306 |
 
-|
+b) Médecins titulaires de l'éducation nationale ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
--de 4e catégorie
+A |
 
 |
 
-A
+20 |
 
-|
+20 |
 
-45
+40 |
 
-|
+c) Personnels de service social ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-20
+A-B |
 
 |
 
-65
+20 |
 
-|
+20 |
 
-98
+168 |
 
-|
+d) Personnels de service social en fonctions dans au moins une classe relais |
 
-2. Personnels mentionnés au 1 exerçant les fonctions d'agent comptable responsable de services mutualisés
+A-B |
 
 |
 
-A-B
+20 |
 
-|
+20 |
 
-5
-
-|
+200 |
 
-|
+e) Personnels responsables de la gestion des établissements des catégories suivantes : |
 
 |
 
-120
-
 |
-
-f) Infirmières et infirmiers ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
 
 |
 
-A-B
-
 |
 
 |
 
-20
+1. Collèges, lycées ou lycées professionnels figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité : |
 
 |
 
-20
-
 |
-
-111
 
 |
 
-g) Infirmières d'internat et infirmiers d'internat en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
-
 |
-
-A-B
 
 |
 
-10
-
-|
+-de 1re catégorie |
 
-20
+A-B |
 
-|
+25 |
 
-30
+20 |
 
-|
+45 |
 
-22
+1 |
 
-|
+-de 2e catégorie |
 
-h) Personnels techniques exerçant dans les laboratoires des établissements d'enseignement visés au VI e de l'annexe I de l'arrêté du 6 décembre 1991 relatif aux conditions d'attribution de la nouvelle bonification indiciaire dans les services de l'éducation nationale en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
+A |
 
-|
+30 |
 
-B-C
+20 |
 
-|
+50 |
 
-20
+7 |
 
-|
+-de 3e catégorie |
 
-20
+A |
 
-|
+38 |
 
-40
+20 |
 
-|
+58 |
 
-21
+46 |
 
-|
+-de 4e catégorie |
 
-III.-Fonctions exercées par les personnels enseignants, d'éducation, d'orientation et de documentation :
+A |
 
-|
+45 |
 
-a) Personnels enseignants, d'éducation et de documentation (à l'exception des fonctions mentionnées au I et aux b, c, d, e et f ci-après) en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret n° 93-55 du 15 janvier 1993 précité
+20 |
 
-|
+65 |
 
-A
+98 |
 
-|
+2. Personnels mentionnés au 1 exerçant les fonctions d'agent comptable responsable de services mutualisés |
 
-|
+A-B |
 
-30
+5 |
 
 |
 
-30
-
 |
 
-10 760
+120 |
 
-|
+f) Infirmières et infirmiers ne faisant pas l'objet d'une affectation en établissement en fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-b) Conseillers d'orientation psychologues exerçant leurs fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
+A-B |
 
 |
 
-A
+20 |
 
-|
+20 |
 
-|
+111 |
 
-30
+g) Infirmières d'internat et infirmiers d'internat en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-|
+A-B |
 
-30
+10 |
 
-|
+20 |
 
-40
+30 |
 
-|
+22 |
 
-c) Chefs de travaux ou personnels faisant fonction de chef de travaux des lycées professionnels, des lycées techniques et des établissements régionaux d'enseignement adapté exerçant leurs fonctions dans des établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité
+h) Personnels techniques exerçant dans les laboratoires des établissements d'enseignement visés au VI e de l'annexe I de l'arrêté du 6 décembre 1991 relatif aux conditions d'attribution de la nouvelle bonification indiciaire dans les services de l'éducation nationale en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-|
+B-C |
 
-A
+20 |
 
-|
+20 |
 
-40
+40 |
 
-|
+21 |
 
-20
+III.-Fonctions exercées par les personnels enseignants, d'éducation, de documentation et les psychologues de l'éducation nationale de la spécialité “éducation, développement et conseil en orientation scolaire et professionnelle” : |
 
-|
+a) Personnels enseignants, d'éducation et de documentation (à l'exception des fonctions mentionnées au I et aux b, c, d, e et f ci-après) en fonctions dans les établissements figurant sur la liste prévue à l'article 3 du décret n° 93-55 du 15 janvier 1993 précité |
 
-60
+A |
 
 |
 
-51
-
-|
+30 |
 
-d) Coordonnateurs de réseau d'éducation prioritaire renforcé ou de réseau d'éducation prioritaire
+30 |
 
-|
+10 760 |
 
-A-B
+b) Psychologues de l'éducation nationale de la spécialité “éducation, développement et conseil en orientation scolaire et professionnelle” exerçant leurs fonctions dans au moins un établissement figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-|
+A |
 
 |
-
-30
 
-|
+30 |
 
-30
+30 |
 
-|
+40 |
 
-1 081
+c) Chefs de travaux ou personnels faisant fonction de chef de travaux des lycées professionnels, des lycées techniques et des établissements régionaux d'enseignement adapté exerçant leurs fonctions dans des établissements figurant sur la liste prévue à l'article 3 du décret du 15 janvier 1993 précité |
 
-|
+A |
 
-e) Personnels en fonctions dans les classes relais :
+40 |
 
-|
+20 |
 
-|
+60 |
 
-|
+51 |
 
-|
+d) Coordonnateurs de réseau d'éducation prioritaire renforcé ou de réseau d'éducation prioritaire |
 
-|
+A-B |
 
 |
 
-1. Enseignants effectuant en classes relais une part de leurs obligations de service supérieure ou égale à la part équivalant au mi-temps
+30 |
 
-|
+30 |
 
-A-B
+1 081 |
 
-|
+e) Personnels en fonctions dans les classes relais : |
 
 |
 
-30
-
 |
 
-30
-
 |
-
-400
 
 |
 
-2. Personnels chargés de la fonction de coordonnateur
-
 |
 
-A-B
+1. Enseignants effectuant en classes relais une part de leurs obligations de service supérieure ou égale à la part équivalant au mi-temps |
 
-|
+A-B |
 
 |
 
-40
+30 |
 
-|
+30 |
 
-40
+400 |
 
-|
+2. Personnels chargés de la fonction de coordonnateur |
 
-250
+A-B |
 
 |
 
-f) Fonctions d'enseignement dans des classes constituées d'enfants étrangers non francophones nouvellement arrivés en France exercées pour une part des obligations de service supérieure ou égale à la part équivalant au mi-temps
+40 |
 
-|
+40 |
 
-A-B
-
-|
+250 |
 
-|
+f) Fonctions d'enseignement dans des classes constituées d'enfants étrangers non francophones nouvellement arrivés en France exercées pour une part des obligations de service supérieure ou égale à la part équivalant au mi-temps |
 
-30
+A-B |
 
 |
-
-30
 
-|
+30 |
 
-1 200
+30 |
 
-|
+1 200 |
