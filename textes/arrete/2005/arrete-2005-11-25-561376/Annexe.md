@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 À L'ARRÊTÉ FIXANT LA NATURE ET LE PROGRAMME DES ÉPREUVES DES CONCOURS PAR SPÉCIALITÉ OUVERTS POUR LE RECRUTEMENT DE CONTRÔLEURS DES DOUANES ET DROITS INDIRECTS
 
 Programme
@@ -86,7 +84,7 @@ Description statistique d'une population ou d'un échantillon. Documents statist
 
 Espaces probabilisés finis [, P(), p]. Exemples (dés pipés ou non, cartes, urnes, etc.).
 
-Variable aléatoire numérique, événements liés à une aléatoire x (par exemple : x = a donné ; x &lt; a donné) ; densité discrète : fonction de répartition, croissance ; espérance mathématique (ou valeur moyenne) et variance d'une variable aléatoire.
+Variable aléatoire numérique, événements liés à une aléatoire x (par exemple : x = a donné ; x < a donné) ; densité discrète : fonction de répartition, croissance ; espérance mathématique (ou valeur moyenne) et variance d'une variable aléatoire.
 
 Loi binomiale.
 
@@ -1030,6 +1028,156 @@ Exercices physiques.
 
 Le programme et les barèmes de l'épreuve sont identiques à ceux de l'épreuve d'exercices physiques du concours de contrôleur stagiaire des douanes de la branche de la surveillance mentionnés à l'arrêté du 19 janvier 1996 fixant la nature et le programme des épreuves des concours pour le recrutement de contrôleurs des douanes et droits indirects.
 
-NOTA :
+SPÉCIALITÉ TRAITEMENT AUTOMATISÉ DE L'INFORMATION - PROGRAMMEUR
 
-Conformément à l'article 7 III. 2 de l'arrêté du 7 septembre 2015 : L'annexe en ce qui concerne l'épreuve d'exercices physiques est supprimée. Les présentes dispositions seront applicables à compter des concours ouverts au titre de l'année 2016.
+I. - CONCOURS EXTERNE
+
+Epreuves d'admissibilité
+
+Epreuve d'admissibilité n° 1 : résumé de texte : pas de programme
+
+Epreuve d'admissibilité n° 2 : algorithme : programme ci-après :
+
+I. - Connaissances de base
+
+L'information :
+
+Représentation de l'information :
+
+- notion de bit, caractère, mot ;
+
+- les systèmes de numération ;
+
+- les opérations élémentaires ;
+
+- la représentation alphanumérique ;
+
+- les codages.
+
+Les supports de l'information (caractéristiques, utilisation) :
+
+- les imprimés et leur conception ;
+
+- les cartes mémoires (SSD, par exemple) ;
+
+- les bandes magnétiques ;
+
+- les disques magnétiques et supports à mémoire flash.
+
+Autres supports.
+
+Le matériel :
+
+Les mémoires :
+
+- les différents types de mémoire ;
+
+- les principes de fonctionnement ;
+
+- les classifications.
+
+Les organes de traitement :
+
+- les circuits logiques ;
+
+- les organes de calcul ;
+
+- les organes de commande ;
+
+- les bus.
+
+Les unités périphériques :
+
+- les canaux ;
+
+- les unités d'entrée et de sortie ;
+
+- les unités de stockage d'information.
+
+Les différents types de machine :
+
+- les serveurs ;
+
+- les terminaux (PC fixes, portables, tablettes, minitablettes, smartphones…).
+
+Notions sur les réseaux de transmission de données.
+
+Logiciel (système d'exploitation) :
+
+- notions générales ;
+
+- mono et multiprogrammation ;
+
+- multitraitement ;
+
+- langage de commande.
+
+II. - Programmation
+
+Connaissance approfondie d'un langage évolué.
+
+Organisation des travaux de programmation :
+
+- méthodes. Programmation structurée. Programmation interactive ;
+
+- algorithmes. Modes de représentations. Pseudo-codes ;
+
+- compilation ;
+
+- essais. Mise au point ;
+
+- maintenance des programmes ;
+
+- bibliothèques de programmes ;
+
+- outils d'aide à la programmation, dictionnaire de données.
+
+Les structures de données, leurs destinations, les modes d'accès :
+
+- fichiers : séquentiels ; séquentiel indexé ;
+
+- tables ;
+
+- recherche séquentielle ;
+
+- dichotomie ;
+
+- bases de données.
+
+Les dossiers :
+
+- dossier de programmation ;
+
+- établissement ;
+
+- tenue à jour ;
+
+- dossier d'exploitation ;
+
+- principaux traitements : contrôles ; mises à jour ; états (avec rupture) ; tris (appel).
+
+III. - Notions générales sur le droit de l'informatique
+
+Epreuve d'admissibilité n° 3 : anglais informatique : pas de programme.
+
+Epreuves d'admission :
+
+Epreuve d'admission n° 1 : entretien avec le jury : pas de programme
+
+Epreuve d'admission n° 2 : informatique : programme identique à celui de l'épreuve d'admissibilité n° 2.
+
+II. - CONCOURS INTERNE
+
+Epreuves d'admissibilité
+
+Epreuve d'admissibilité n° 1 : dossier à caractère administratif : pas de programme.
+
+Epreuve d'admissibilité n° 2 : algorithme : programme identique à celui de l'épreuve d'admissibilité n° 2 du concours externe.
+
+Epreuve d'admissibilité n° 3 : anglais informatique : pas de programme.
+
+Epreuves d'admissibilité
+
+Epreuve d'admission n° 1 : épreuve de RAEP : pas de programme.
+
+Epreuve d'admission n° 2 : informatique : programme identique à celui de l'épreuve d'admissibilité n° 2 du concours externe. .
