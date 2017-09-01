@@ -2,30 +2,26 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE DU COMMISSARIAT DES ARMÉES
 
-INTITULÉ DE LA FORMATION
+INTITULÉ DE LA FORMATION |
 
-|
+DURÉE DU LIEN
 
-DURÉE DU LIEN AU SERVICE
+au service
 
-(années)
-
-|
+(années) |
 
 COEFFICIENT
 
-multiplicateur
+multiplicateur |
 
-|
+Suivi d'au moins trois modules de formation à l'Institut français de l'audit et du contrôle interne (IFACI). |
 
-Suivi d'au moins trois modules de formation à l'Institut français de l'audit et du contrôle interne (IFACI).
+4 |
 
-|
+3 |
 
-4
+Stage directeur d'établissement Hôpital plus (EHESP). |
 
-|
+4 |
 
-3
-
-|
+3 |
