@@ -1,0 +1,37 @@
+# Article 18 bis
+
+Formation, compétences et emploi
+
+Préambule
+
+Les partenaires sociaux de la branche 3D souhaitent créer les conditions d'une mobilisation en faveur de la formation tout au long de la vie professionnelle. Cette politique a pour objectif de permettre aux salariés et aux entreprises de faire face aux évolutions techniques et réglementaires de nos métiers, un renforcement de l'accès à la formation professionnelle de chaque salarié, et d'en favoriser l'évolution professionnelle.
+
+Ainsi, les partenaires sociaux partagent les ambitions de :
+
+– rendre le secteur plus attractif et de fidéliser les salariés ;
+
+– mieux qualifier les salariés et de favoriser leur évolution professionnelle ;
+
+– permettre à chaque salarié de devenir un acteur majeur de son évolution professionnelle en facilitant l'accès à de nouveaux dispositifs et responsabilités dans le champ de la formation ;
+
+– permettre aux entreprises de mobiliser la formation au service d'objectifs correspondants aux besoins des salariés et de la profession en s'appuyant, pour leur mise en œuvre, sur des opérateurs reconnus apportant l'expertise nécessaire et les effets de mutualisation utiles tels que l'OPCA désigné par la branche ;
+
+– disposer d'un système de certification professionnelle de branche adapté aux besoins spécifiques des salariés et des entreprises du secteur 3D réactif face aux évolutions technologiques, économiques, sociales, environnementales et réglementaires, favorisant la progression et l'évolution professionnelle des salariés, ouvert vers l'extérieur pour favoriser les mobilités professionnelles et l'employabilité, et enfin piloté par la branche pour en garantir la conformité à ses exigences.
+
+Les partenaires sociaux de la branche 3D souhaitent mener une politique de formation adaptée aux besoins des salariés de la branche, aussi bien en termes d'accès qu'en termes de modalités de formation. Cette politique devra également répondre aux besoins des entreprises du secteur 3D et de leur évolution, et accroître le volume des actions de formation dispensé au bénéfice des salariés.
+
+Les partenaires sociaux érigent l'égalité d'accès à la formation entre les hommes et les femmes en un principe fondamental qui est appliqué pour toutes les définitions de mise en œuvre des actions de formation prévues dans le présent article.
+
+Les partenaires sociaux de la branche souhaitent que cette politique puisse suivre les évolutions de la profession et être à même de répondre de façon réactive à de nouveaux besoins. Dans cette perspective les partenaires sociaux reconnaissent à la CPNEFP un rôle renforcé dans le cadre de cet article.
+
+Création de deux CQP de branche
+
+La branche propose de s'engager dans la création de 2 niveaux de CQP :
+
+CQP 1 : destiné aux entrants dans le métier ou aux salariés déjà en activité et titulaires ou non du Certibiocide.
+
+CQP 2 : CQP Technique et conseil, destiné aux détenteurs du CQP 1, et/ou justifiant au minimum de 2 années d'expérience dans le métier.
+
+L'obtention d'un CQP assure systématiquement le passage au niveau supérieur dans le groupe 1, le maximum accessible étant le niveau 4 au moment de l'obtention.
+
+Un salarié étant au niveau 4 et obtenant le CQP 2 bénéficiera d'une prime mensuelle liée à son CQP de 50 € brut.
