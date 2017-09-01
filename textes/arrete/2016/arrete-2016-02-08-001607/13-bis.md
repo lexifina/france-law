@@ -11,3 +11,5 @@ Par dérogation aux articles 2 à 10 et 14 et conformément aux règles sanitair
 -en cas de mortalité anormale, le détenteur contacte un vétérinaire pour une visite clinique de l'exploitation à ses frais, sans préjudice des règles de police sanitaire prévues en cas de suspicion d'influenza aviaire validée par le directeur départemental en charge de la protection des populations ;
 
 -les cadavres sont isolés et protégés avant leur enlèvement et, le cas échéant, avant présentation au vétérinaire.
+
+Les unités de production de volailles détenues par des animaleries sont soumises aux conditions décrites précédemment. Les procédures mises en œuvre pour répondre à ces obligations peuvent renvoyer aux éléments des cahiers des charges professionnels validés dans les conditions de l'article 2.
