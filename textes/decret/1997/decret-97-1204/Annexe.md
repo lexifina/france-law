@@ -790,6 +790,66 @@ Article R. 541-23
 
 |
 
+|
+
+Autorisation de transfert de déchets radioactifs ou de combustible nucléaire usé. |
+
+Article R. 542-38
+
+|
+
+|
+
+Consentement donné à l'importation de transfert de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat membre de l'Union européenne. |
+
+Article R. 542-41
+
+|
+
+|
+
+Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire usé à destination d'un Etat membre de l'Union européenne. |
+
+Article R. 542-45
+
+|
+
+|
+
+Autorisation d'importation de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat n'appartenant pas à l'Union européenne. |
+
+Article R. 542-50
+
+|
+
+|
+
+Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire usé à destination d'un Etat n'appartenant pas à l'Union européenne. |
+
+Article R. 542-54
+
+|
+
+|
+
+Autorisation de transit à l'occasion du transfert de déchets radioactifs ou de combustible nucléaire usé entre Etats membres de l'Union européenne. |
+
+Article R. 542-60
+
+|
+
+|
+
+Décision de ne pas mener à bien un transfert autorisé. |
+
+Article R. 542-65, al. 1er |
+
+|
+
+Autorisation de retour sur le territoire national des déchets radioactifs ou du combustible nucléaire usé dont le transfert n'a pu être mené à bien si le transfert avait pour objet l'exportation de ces substances. |
+
+Article R. 542-65, al. 3 |
+
 TITRE II
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
@@ -923,3 +983,11 @@ VIII.-Décret n° 2017-673 du 28 avril 2017 relatif à l'utilisation du titre de
 Autorisation d'utiliser le titre de paysagiste concepteur mentionné à l'article 174 de la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages. |
 
 Article 2 |
+
+IX.-Décret n° 2008-209 du 3 mars 2008 modifié relatif aux procédures applicables au traitement des combustibles usés et des déchets radioactifs provenant de l'étranger :
+
+1 |
+
+Dérogation aux conditions d'attribution des déchets radioactifs issus du traitement de combustibles usés ou de déchets radioactifs. |
+
+Article 2-1 |
