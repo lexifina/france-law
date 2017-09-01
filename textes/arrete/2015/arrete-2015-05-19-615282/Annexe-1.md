@@ -4,84 +4,46 @@ Niveau sixième (cycle 3)
 
 Volumes horaires des enseignements obligatoires applicables aux élèves du niveau sixième de collège
 
-ENSEIGNEMENTS
+ENSEIGNEMENTS |
 
-|
+HORAIRES HEBDOMADAIRES |
 
-HORAIRES
+Education physique et sportive |
 
-hebdomadaires
+4 heures |
 
-|
+Enseignements artistiques (*)
 
-Education physique et sportive
+(arts plastiques + éducation musicale) |
 
-|
+1 heure + 1 heure |
 
-4 heures
+Français |
 
-|
+4,5 heures |
 
-Enseignements artistiques (*) (arts plastiques + éducation musicale)
+Histoire - Géographie - Enseignement moral et civique |
 
-|
+3 heures |
 
-1 heure + 1 heure
+Langue vivante |
 
-|
+4 heures |
 
-Français
+Mathématiques |
 
-|
+4,5 heures |
 
-4,5 heures
+SVT, technologie,
 
-|
+physique-chimie |
 
-Histoire - Géographie - Enseignement moral et civique
+4 heures |
 
-|
+Total (* *) |
 
-3 heures
-
-|
-
-Langue vivante
-
-|
-
-4 heures
-
-|
-
-Mathématiques
-
-|
-
-4,5 heures
-
-|
-
-SVT, technologie, physique-chimie
-
-|
-
-4 heures
-
-|
-
-Total (**)
-
-|
-
-23 + 3 heures (***)
-
-|
+26 heures, dont 3 heures d'enseignements complémentaires |
 
 (*) Chacun de ces enseignements peut être organisé à raison de 2 heures hebdomadaires sur un semestre.
 
-(**) S'y ajoutent au moins 10 heures annuelles de vie de classe.
-
-(***) Ces 3 heures hebdomadaires sont consacrées aux enseignements complémentaires sous la forme d'accompagnement personnalisé.
-
-|
+(* *) S'y ajoutent au moins 10 heures annuelles de vie de classe. |
