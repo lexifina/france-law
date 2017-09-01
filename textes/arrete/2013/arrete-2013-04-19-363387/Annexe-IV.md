@@ -18,7 +18,7 @@ Section sciences industrielles de l'ingénieur
 
 A. - Epreuve d'admissibilité
 
-Seconde épreuve d'admissibilité du concours externe du CAPET de sciences industrielles de l'ingénieur (coefficient 1).
+Première épreuve écrite d'admissibilité du concours externe du CAPET de sciences industrielles de l'ingénieur (coefficient 1).
 
 B. - Epreuve d'admission
 

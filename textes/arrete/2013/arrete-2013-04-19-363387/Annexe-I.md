@@ -400,7 +400,7 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 1° Epreuve de mise en situation professionnelle.
 
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 4.
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 4.
 
 L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système pluritechnique et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements transversaux technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) du lycée ou aux sciences de l'ingénieur de la voie scientifique du lycée.
 
