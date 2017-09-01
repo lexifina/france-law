@@ -254,7 +254,7 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuve d'admission
 
-Epreuve professionnelle : analyse d'une situation d'enseignement à partir de l'exploitation pédagogique d'un sujet soumis au candidat par le jury et comportant des documents de nature professionnelle : extraits de manuels scolaires, d'annales d'examens, d'ouvrages divers de mathématiques, de travaux d'élèves, etc. Le dossier est en relation avec un niveau d'enseignement (collège ou lycée) choisi par le candidat au moment de l'inscription.
+Epreuve professionnelle : analyse d'une situation d'enseignement à partir de l'exploitation pédagogique d'un sujet soumis au candidat par le jury et comportant des documents de nature professionnelle : extraits de manuels scolaires, d'annales d'examens, d'ouvrages divers de mathématiques, de travaux d'élèves, etc.
 
 L'épreuve comporte un exposé suivi d'un entretien avec les membres du jury.
 

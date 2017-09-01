@@ -6,67 +6,71 @@ Section arts plastiques
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
-1° Composition écrite portant sur les fondements de la culture artistique et plastique.
+1° Epreuve de culture artistique et plastique.
 
-L'épreuve prend appui sur un sujet à consignes précises.
+Cette épreuve a pour but d'évaluer des compétences attendues d'un futur professeur d'arts plastiques pour la mise en œuvre des composantes culturelles et théoriques de la discipline : mobiliser la culture artistique et les savoirs plasticiens au service de la découverte, l'appréhension et la compréhension par les élèves des faits artistiques (œuvres, démarches, processus …), situer et mettre en relation des œuvres de différentes natures (genres, styles, moyens …) issues de périodes, aires culturelles, zones géographiques diverses, analyser et expliciter l'évolution des pratiques dans le champ des arts plastiques et dans ses liens avec des domaines très proches (photographie, architecture, design, arts numériques …) ou d'autres arts avec lesquels il dialogue.
 
-Le candidat opère un choix dans un dossier documentaire, iconique et textuel de quatre à cinq pages, pour construire une réflexion disciplinaire axée sur l'évolution des pratiques artistiques.
+L'épreuve prend appui sur un sujet à consignes précises et une sélection de documents iconiques et textuels. Tirant parti de l'analyse de cet ensemble, le candidat développe et argumente une réflexion disciplinaire axée sur l'évolution des pratiques artistiques.
 
-Le dossier documentaire s'inscrit dans le cadre d'un programme limitatif comportant deux questions en lien avec les contenus d'enseignement du second degré : l'une relative au xxe siècle jusqu'à nos jours, l'autre à une époque antérieure. Elles sont renouvelées tous les trois ans.
-
-Le programme limitatif est publié sur le site internet du ministère chargé de l'éducation nationale.
+Le programme de cette épreuve porte sur les problématiques, questions, questionnements plastiques et artistiques induits par les programmes d'arts plastiques des cycles 3 et 4 et du lycée.
 
 Durée : six heures ; coefficient 1.
 
 2° Epreuve de pratique plastique accompagnée d'une note d'intention.
 
-L'épreuve prend appui sur une problématique issue des programmes du collège ou du lycée.
+L'épreuve a pour but de tester l'engagement artistique du candidat, son aptitude à fournir une réponse pertinente et personnelle à une question posée, à faire la démonstration de ses capacités d'invention et de création, à témoigner de son savoir-faire en matière d'expression avec des moyens plastiques bidimentionnels.
 
-Le candidat doit respecter les consignes d'un sujet assorti d'un dossier documentaire comprenant une sélection de documents iconiques et/ou textuels.
+L'épreuve prend appui sur une problématique issue des programmes des cycles 3 ou 4 ou du lycée. Le candidat doit respecter les consignes d'un sujet assorti d'un dossier documentaire comprenant une sélection de documents iconiques et/ ou textuels. Il réalise une production plastique bidimensionnelle (picturale, graphique, pouvant inclure le collage, associer diverses techniques, des moyens traditionnels et numériques) impérativement de format grand aigle.
 
-Il réalise une production plastique bidimensionnelle impérativement de format grand aigle.
-
-Elle est accompagnée d'une note d'intention soumise à notation, de vingt à trente lignes, écrites au verso de la production.
-
-La note d'intention a pour objet, d'une part de faire justifier au candidat les choix et les modalités de sa pratique plastique en réponse au sujet, d'autre part qu'il établisse des liens entre les compétences plasticiennes visées par le sujet et celles des programmes du collège et du lycée.
+La production est accompagnée d'une note d'intention soumise à notation, de vingt à trente lignes, écrites au verso. La note d'intention a pour objet, d'une part, de faire justifier au candidat les choix et les modalités de sa pratique plastique en réponse au sujet, d'autre part, qu'il établisse des liens entre les compétences plasticiennes visées par le sujet et celles des programmes des cycles 3 et 4 et du lycée.
 
 15 points sont attribués à la production plastique et 5 points à la note d'intention.
 
 Durée : huit heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B.-Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
 1° Epreuve de mise en situation professionnelle.
 
-L'épreuve prend appui sur un dossier documentaire orienté en fonction du domaine choisi par le candidat lors de son inscription au concours (architecture, arts appliqués, cinéma, photographie, danse ou théâtre) et est constituée d'un exposé du candidat suivi d'un entretien avec le jury.
+L'épreuve se compose d'un exposé du candidat suivi d'un entretien avec le jury.
 
-Le dossier est constitué de documents divers (scientifiques, didactiques, pédagogiques, extraits de manuels ou travaux d'élèves), en rapport avec les problématiques et les contenus des programmes d'enseignement du collège et du lycée. Il comprend un document permettant de poser une question portant sur les dimensions partenariales de l'enseignement.
+Le projet d'enseignement proposé est conçu, selon les indications du sujet, à l'intention d'élèves des cycles 3 ou 4 ou du lycée.
+
+L'épreuve prend appui sur un dossier documentaire présenté sous forme de documents écrits, photographiques et/ ou audiovisuels, orienté en fonction du groupe de domaines choisi par le candidat lors de son inscription au concours (architecture-paysage ; arts appliqués-design ; cinéma-art vidéo ; photographie ; danse ; théâtre ; arts numériques) et sur un extrait des programmes des cycles 3 ou 4 ou du lycée.
+
+Ce dossier comprend également un document permettant de poser une question portant sur les dimensions partenariales de l'enseignement, internes et externes à l'établissement scolaire, disciplinaires ou non disciplinaires, et pouvant être en lien avec l'éducation artistique et culturelle.
 
 L'exposé du candidat, au cours duquel il est conduit à justifier ses choix didactiques et pédagogiques, est conduit en deux temps immédiatement successifs :
 
-1. Projet d'enseignement (vingt minutes maximum) : le candidat présente et analyse un projet d'enseignement qui prend appui sur le dossier documentaire présenté sous forme de documents écrits, photographiques et/ou audiovisuels. Il est assorti d'un extrait des programmes d'enseignement du collège ou du lycée.
+a) Projet d'enseignement (vingt minutes maximum) : le candidat présente et analyse un projet d'enseignement de son choix s'appuyant sur le dossier documentaire et les consignes du sujet.
 
-2. Dimensions partenariales de l'enseignement (dix minutes maximum) :
+b) Dimensions partenariales de l'enseignement (dix minutes maximum) : le candidat répond à une question à partir d'un document inclus dans le dossier remis au début de l'épreuve, portant sur les dimensions partenariales de l'enseignement.
 
-Le candidat répond à une question à partir d'un document inclus dans le dossier remis au début de l'épreuve, portant sur les dimensions partenariales de l'enseignement, internes et externes à l'établissement scolaire, disciplinaires ou non disciplinaires, et pouvant être en lien avec des dispositifs d'éducation artistique et culturelle.
+L'exposé est suivi d'un entretien avec le jury (trente minutes maximum).
 
 Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 2° Epreuve à partir d'un dossier : réalisation d'un projet de type artistique.
 
-L'épreuve est composée d'une pratique plastique à visée artistique, d'un exposé et d'un entretien. Elle permet d'apprécier la maîtrise d'un geste professionnel majeur de la part d'un futur professeur d'arts plastiques : maîtriser la conception, les modalités de réalisation et de présentation d'un projet de type artistique.
+L'épreuve se compose d'une pratique plastique à visée artistique, d'un exposé et d'un entretien. Elle permet d'apprécier la maîtrise d'un geste professionnel majeur de la part d'un futur professeur d'arts plastiques, fondé sur ses compétences et son engagement artistiques : la conception, les modalités de réalisation et l'explicitation d'un projet de type artistique.
 
-A partir d'un sujet à consignes précises posé par le jury et pouvant s'accompagner de documents annexes, le candidat produit un objet visuel, en deux ou en trois dimensions, avec des moyens traditionnels ou numériques, ou croisant ces possibilités. Cette partie de l'épreuve s'inscrit dans les contraintes matérielles du sujet et du lieu dans lequel elle se déroule.
+Déroulement de l'épreuve :
 
-En prenant appui sur l'objet visuel qu'il a produit, le candidat présente son projet.
+a) Préparation (réalisation d'un projet à visée artistique).
 
-Cet exposé est suivi d'un entretien avec le jury qui permet d'évaluer les capacités du candidat à soutenir la communication de son projet artistique avec des moyens plastiques, à savoir l'expliciter et à en permettre la compréhension. L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+A partir d'un sujet à consignes précises posé par le jury et pouvant s'accompagner de documents annexes, le candidat élabore et réalise un projet à visée artistique au moyen d'une pratique plastique. Il peut choisir entre différents modes d'expression, en deux ou en trois dimensions, avec des moyens traditionnels, actualisés ou numériques, ou croisant ces possibilités. La réalisation de ce projet peut-être une production achevée ou, pour des projets de plus grande ampleur (par exemple in situ, interventions dans l'espace architectural ou le paysage, démarches incluant la performance …), une présentation visuelle soutenue par des moyens plastiques (esquisses, maquettes, images …). Cette partie de l'épreuve s'inscrit dans les contraintes matérielles du sujet et du lieu dans lequel elle se déroule.
 
-Durée de la préparation : cinq heures ; durée totale de l'épreuve : quarante minutes (exposé : vingt minutes ; entretien : vingt minutes) ; coefficient 2.
+b) Exposé et entretien.
+
+En prenant appui sur la production achevée ou la présentation visuelle qu'il a produite, le candidat présente et explicite son projet. Cet exposé est suivi d'un entretien avec le jury qui permet d'évaluer les capacités du candidat à soutenir la communication de son projet artistique, à savoir le problématiser et à en permettre la compréhension.
+
+L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+
+Durée de la préparation (projet et réalisation) : cinq heures ; durée totale de l'épreuve : quarante minutes (exposé [présentation par le candidat de son travail] : vingt minutes ; entretien avec le jury : vingt minutes) ; coefficient 2.
 
 Section documentation
 
@@ -370,7 +374,7 @@ Option histoire et géographie : première épreuve écrite d'admissibilité du 
 
 Option anglais et option espagnol : première épreuve écrite d'admissibilité du CAPES externe de langues vivantes étrangères : anglais ou espagnol.
 
-Option mathématiques : première épreuve écrite d'admissibilité du CAPES externe de mathématiques.
+Option mathématiques : première épreuve écrite d'admissibilité du CAPES externe de mathématiques dans l'option mathématiques.
 
 L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
@@ -808,7 +812,7 @@ Le candidat élabore une séquence pédagogique à caractère expérimental sur 
 
 Il met en œuvre des expériences de manière authentique, dans le respect des conditions de sécurité, et en effectue une exploitation pédagogique pour les classes de collège et de lycée. Une au moins de ces expériences doit être quantitative et une au moins doit utiliser les technologies de l'information et de la communication. L'entretien avec le jury lui permet de justifier ses choix didactiques et pédagogiques.
 
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure (présentation : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (présentation : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
 
 2° Epreuve d'analyse d'une situation professionnelle.
 
