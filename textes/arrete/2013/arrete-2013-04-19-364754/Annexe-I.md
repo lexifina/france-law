@@ -422,11 +422,13 @@ L'ensemble des épreuves du concours vise à évaluer les capacités des candida
 
 A. ― Epreuves d'admissibilité
 
-1° Langue vivante : L'épreuve comporte :
+1° Langue vivante.
 
-― une composition en langue étrangère portant sur l'étude d'un dossier constitué de documents se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec les programmes ;
+L'épreuve comporte :
 
-― une traduction.
+-une composition en langue étrangère portant sur l'étude d'un dossier constitué de documents se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel ;
+
+-une traduction.
 
 Durée : cinq heures ; coefficient 2.
 
@@ -442,7 +444,7 @@ En lettres, le programme de l'épreuve écrite du concours est celui des objets 
 
 En langue vivante, le programme de l'épreuve écrite du concours a pour référence les objectifs du programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au CAP et au baccalauréat professionnel.
 
-B. ― Epreuves d'admission
+B.-Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du ou des champs disciplinaires du concours, notamment dans leur rapport avec les autres champs disciplinaires.
 
@@ -450,55 +452,63 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 Un tirage au sort détermine pour le candidat la valence sur laquelle porte l'épreuve.
 
-L'épreuve consiste :
-
-a) En langue, en la présentation d'une leçon portant sur les programmes des classes de lycée professionnel.
-
-L'épreuve prend appui sur un ou des documents proposés par le jury se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec les programmes.
-
-Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo.
-
-L'épreuve comporte deux parties :
-
-― une première partie en langue étrangère consistant en la présentation, l'étude et, le cas échéant, la mise en relation des documents, suivie d'un entretien en langue étrangère ;
-
-― une seconde partie en langue française consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales, phonologiques) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivie d'un entretien, au cours duquel le candidat est amené à justifier ses choix.
-
-Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
-
-b) En lettres, en l'étude d'un texte en vue de son inscription dans un objet d'étude du cycle de formation du baccalauréat professionnel ou dans une séquence de CAP, puis à partir du texte, en l'étude d'un point de langue (lexique, grammaire, orthographe) en vue d'un travail en lecture, en écriture ou en expression orale.
-
-Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
-
-2° Epreuve à partir d'un dossier (coefficient 4).
-
-L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission.
-
-Premier cas : langue vivante :
+Premier cas : langue vivante.
 
 L'épreuve porte :
 
-― d'une part, sur un document de compréhension fourni par le jury, document audio ou vidéo authentique en langue étrangère, se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec les programmes du lycée professionnel.
+-d'une part, sur un document de compréhension fourni par le jury, document audio ou vidéo authentique en langue étrangère, se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel ;
 
-― d'autre part, sur un dossier fourni par le jury portant sur les mêmes réalités et faits culturels. Ce dossier est composé de productions d'élèves (écrites et orales) et de documents relatifs aux contextes d'enseignement et au cadre institutionnel.
+-d'autre part, sur un dossier fourni par le jury portant sur les mêmes réalités et faits culturels.
+
+Ce dossier est composé de productions d'élèves (écrites et orales) et de documents relatifs aux contextes d'enseignement et au cadre institutionnel.
 
 La première partie de l'entretien se déroule en langue étrangère et permet de vérifier la compréhension du document authentique à partir de sa présentation et de l'analyse de son intérêt.
 
 La seconde partie de l'entretien se déroule en français et permet de vérifier, à partir d'une analyse des productions d'élèves (dans leurs dimensions linguistique, culturelle et pragmatique) ainsi que des documents complémentaires, la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
-Le document audio ou vidéo et l'enregistrement d'une production orale d'élève n'excéderont pas chacun trois minutes.
+La durée du document audio ou vidéo authentique n'excédera pas cinq minutes. Celle des productions orales d'élèves n'excédera pas trois minutes par enregistrement.
 
 La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure. Pour chaque partie : exposé : quinze minutes ; entretien : quinze minutes.
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure. Pour chaque partie : exposé : quinze minutes ; entretien : quinze minutes.
 
-Second cas : lettres :
+Second cas : lettres.
+
+L'épreuve consiste en l'étude d'un texte en vue de son inscription dans un objet d'étude du cycle de formation du baccalauréat professionnel ou dans une séquence de CAP, puis à partir du texte, en l'étude d'un point de langue (lexique, grammaire, orthographe) en vue d'un travail en lecture, en écriture ou en expression orale.
+
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
+
+2° Epreuve à partir d'un dossier (coefficient 4)
+
+L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission.
+
+Premier cas : langue vivante.
+
+L'épreuve consiste en la présentation d'une leçon, dans le cadre du programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
+
+L'épreuve prend appui sur un dossier proposé par le jury et constitué de documents se rapportant aux réalités et aux faits culturels du ou des pays dont on étudie la langue, en lien avec le programme.
+
+Ces documents peuvent être des textes, des documents iconographiques, des enregistrements audio ou vidéo.
+
+L'épreuve comporte deux parties :
+
+-une première partie en langue étrangère consistant en la présentation, l'étude et la mise en relation des documents du dossier, suivie d'un entretien en langue étrangère ;
+
+-une seconde partie en langue française consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales, phonologiques) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivie d'un entretien, au cours duquel le candidat est amené à justifier ses choix.
+
+Chaque partie compte pour moitié dans la notation. La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
+
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure.
+
+Pour chaque partie : exposé : quinze minutes ; entretien : quinze minutes.
+
+Second cas : lettres.
 
 Le candidat élabore une séquence d'enseignement qu'il expose au jury, à partir de documents en lien avec un des objets ou domaines d'étude au programme : textes littéraires, reproductions d'œuvres d'art, photogrammes, articles de presse ou écrits d'élèves.
 
 L'exposé se poursuit par un entretien avec le jury au cours duquel le candidat est amené à justifier ses choix didactiques et pédagogiques. Le jury vérifie, à l'occasion de cet échange, la capacité du candidat à se projeter dans son métier futur, sa connaissance réfléchie du contexte institutionnel et sa façon d'appréhender la variété des conditions effectives de l'exercice du métier.
 
-Durée de la préparation : deux heures trente ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
 
 Section lettres - histoire et géographie
 
@@ -586,17 +596,15 @@ Un tirage au sort détermine la discipline (mathématiques ou physique-chimie) s
 
 L'épreuve prend appui sur un dossier proposant une étude de cas pédagogique dans le cadre des programmes de mathématiques ou de physique-chimie des classes des lycées professionnels. Ce dossier est composé de documents divers : extraits de manuels scolaires, d'annales d'examens, d'ouvrages divers, travaux d'élèves... Si le sujet porte sur les mathématiques, la présentation comporte nécessairement l'utilisation des TICE et au moins une démonstration. Si le sujet porte sur la physique-chimie, la présentation comporte la réalisation et l'exploitation d'une ou de plusieurs expériences qualitatives ou quantitatives pouvant mettre en œuvre l'outil informatique.
 
-Durée de la préparation : trois heures ; durée de l'épreuve : une heure (exposé n'excédant pas trente minutes ; entretien : trente minutes maximum) ; coefficient 2.
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 2° Epreuve d'entretien à partir d'un dossier.
-
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure (exposé n'excédant pas trente minutes ; entretien : trente minutes maximum) ; coefficient 2.
 
 L'épreuve prend la forme d'un entretien à partir d'un dossier fourni au candidat. Ce dossier est appuyé sur les programmes du lycée professionnel et concerne la discipline (mathématiques ou physique-chimie) n'ayant pas fait l'objet de la première épreuve d'admission. A partir des situations fournies dans le dossier, le candidat doit montrer son aptitude au dialogue, à élaborer une réflexion pédagogique, à montrer une première approche épistémologique de la discipline et de ses enjeux et sa capacité à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Si le sujet porte sur les mathématiques, le candidat doit intégrer l'utilisation des TICE (logiciels ou calculatrices). Si le sujet porte sur la physique-chimie, le candidat doit intégrer au moins une expérimentation et son exploitation.
 
-Durée de la préparation : deux heures ; durée l'épreuve : une heure (exposé n'excédant pas trente minutes ; entretien : trente minutes maximum) ; coefficient 2.
+Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 Sections pour lesquelles il n'existe pas de diplômes de niveau supérieur
 
