@@ -2,34 +2,18 @@
 
 CORRESPONDANCES D'UNITÉS
 
-ANCIEN INTITULÉ
+ANCIEN INTITULÉ |
 
-|
+NOUVEL INTITULÉ |
 
-NOUVEL INTITULÉ
+Langue vivante |
 
-|
+Langue vivante 1 |
 
-Langue vivante
+Histoire-géographie |
 
-|
+Histoire-géographie et enseignement moral et civique |
 
-Langue vivante 1
+Education artistique - arts appliqués |
 
-|
-
-Histoire-géographie
-
-|
-
-Histoire-géographie et éducation civique
-
-|
-
-Education artistique - arts appliqués
-
-|
-
-Arts appliqués et cultures artistiques
-
-|
+Arts appliqués et cultures artistiques |
