@@ -56,6 +56,12 @@ a) Tous les frais, notamment les frais de déplacement et les frais exceptionnel
 
 b) Toute somme due à des tiers et payée par le notaire pour le compte de son client à l'occasion d'une prestation listée à l'article annexe 4-7.
 
+7° S'agissant des avocats, pour les prestations de postulation en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires :
+
+a) Tous les frais, notamment les frais de déplacement et les frais exceptionnels exposés à la demande expresse du client pour l'accomplissement des prestations mentionnées au tableau 6 de l'article annexe 4-7, à l'exception des frais accessoires, tels que frais de papeterie ou de bureau ;
+
+b) Toute somme due à des tiers et payée par l'avocat pour le compte de son client à l'occasion d'une prestation mentionnée au tableau 6 de l'article annexe 4-7.
+
 II.-Les indemnités prévues au e du 3° du I, s'agissant des conseillers municipaux, fonctionnaires municipaux, autorités de gendarmerie ou témoins, et au f du 3° du I, s'agissant des fonctionnaires de la police nationale, sont versées aux intéressés lorsqu'ils sont requis :
 
 1° Pour être présents à l'ouverture des portes et meubles fermant à clef ;
@@ -75,3 +81,9 @@ VI.-Les indemnités prévues aux b et c du 4° :
 1° Sont allouées aux intéressés s'ils le requièrent ;
 
 2° Sont respectivement fixées par un arrêté conjoint des ministres de la justice et de l'économie, s'agissant de l'indemnité prévue au b du 4°, et par le tarif en matière civile des experts des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, s'agissant de l'indemnité prévue au c du 4°.
+
+NOTA :
+
+Conformément aux dispositions de l'article 7 du décret n° 2017-862 du 9 mai 2017, ces dispositions entrent en vigueur à la date d'entrée en vigueur du premier arrêté portant fixation des tarifs réglementés de postulation en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires en application de l'article L. 444-3 du code de commerce.
+
+L'arrêté du 6 juillet 2017 fixant les tarifs réglementés de postulation des avocats en matière de saisie immobilière, de partage, de licitation et de sûretés judiciaires a été publié au JORF du 14 juillet 2017 et entre en vigueur, sous réserve des dérogations prévues par les dispositions de son article 3, le 1er septembre 2017.
