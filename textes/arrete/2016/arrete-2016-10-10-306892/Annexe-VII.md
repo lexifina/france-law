@@ -1,113 +1,71 @@
 # Article Annexe VII
 
-GROUPE VII : MÉTIERS DE L'INDUSTRIE
+GROUPE VII : MÉTIERS DE LA MÉTALLURGIE ET DE L'INDUSTRIE |
+
+CLASSES |
+
+OPTIONS |
+
+1 : Chaudronnerie |
 
 |
 
-CLASSES
+2 : Tôlerie |
 
 |
 
-OPTIONS
+3 : Réparateur-réparatrice carrosserie auto |
 
 |
 
-1 : Chaudronnerie
+4 : Soudage manuel des métaux |
 
 |
 
-|
-
-2 : Tôlerie
+5 : Outillage prototypage mécanique |
 
 |
 
-|
-
-3 Réparateur-réparatrice carrosserie auto
+6 : Métiers de l'électricité et de l'électrotechnique |
 
 |
 
-|
-
-4 : Soudage manuel des métaux
+7 : Métiers de la forge |
 
 |
 
-|
+8 : Maquettes industrielles |
 
-5 : Outillage prototypage mécanique
+1 : maquettiste |
 
-|
+8 : Maquettes industrielles |
 
-|
+2 : designer-maquettiste |
 
-6 : Métiers de l'électricité et de l'électrotechnique
-
-|
+9 : Art et technique des matériaux de synthèse |
 
 |
 
-7 : Métiers de la forge
+10 : Modelage-construction d'outillages |
 
 |
 
-|
-
-8 : Maquettes industrielles
+11 : Conception assistée par ordinateur de produits mécaniques industriels |
 
 |
 
-1 : maquettiste
+12 : Technologie automobile |
 
 |
 
-8 : Maquettes industrielles
+13 : Métiers du service à l'énergie |
 
 |
 
-2 : designer-maquettiste
+14 : Peinture automobile |
 
 |
 
-9 : Art et technique des matériaux de synthèse
-
-|
-
-|
-
-10 : Modelage-construction d'outillages
-
-|
-
-|
-
-11 : Conception assistée par ordinateur de produits mécaniques industriels
-
-|
-
-|
-
-12 : Technologie automobile
-
-|
-
-|
-
-13 : Métiers du service à l'énergie
-
-|
-
-|
-
-14 : Peinture automobile
-
-|
-
-|
-
-15 : Frigoriste
-
-|
+15 : Frigoriste |
 
 |
