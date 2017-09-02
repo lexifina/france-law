@@ -72,7 +72,7 @@ Gens de mer chargés de la conduite des engins à grande vitesse |
 
 Certificat de cuisinier de navire |
 
-Cuisiniers à bord des navires dont la liste d'équipage comprend au moins de dix personnes |
+Cuisiniers à bord des navires dont la liste d'équipage comprend au moins dix personnes |
 
 Certificat de formation de base pour les navires exploités dans les eaux polaires |
 

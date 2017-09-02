@@ -6,9 +6,7 @@ Nota.-Si les conditions de revalidation ne sont pas satisfaites, le titre ne peu
 
 Titres polyvalents ou monovalents permettant d'exercer des fonctions à bord des navires armés au commerce, à la plaisance ou à la pêche pour les titres permettant d'exercer des fonctions à la machine
 
-TITRE À REVALIDER
-
-|
+TITRE À REVALIDER |
 
 CONDITIONS
 
@@ -28,149 +26,77 @@ de revalidation
 
 |
 
-Colonne 1
+Colonne 1 |
 
-|
+Colonne 2 |
 
-Colonne 2
+Colonne 3 |
 
-|
+Colonne 4 |
 
-Colonne 3
+Brevet de patron de petite navigation |
 
-|
+Conditions de revalidation applicables au brevet de capitaine 200 en tenant compte des conditions mentionnées au (1) |
 
-Colonne 4
+Brevet de capitaine 200 |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet de patron de petite navigation
+Brevet de chef de quart passerelle |
 
-|
+Conditions de revalidation applicables au brevet d'officier chef de quart passerelle en tenant compte des conditions mentionnées au (1 bis) |
 
-Conditions de revalidation applicables au brevet de capitaine 200 en tenant compte des conditions mentionnées au (1)
+Brevet d'officier chef de quart passerelle |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet de capitaine 200
+Brevet de chef de quart de navire de mer |
 
-|
+Conditions de revalidation applicables au brevet d'officier chef de quart navire de mer |
 
-A la date d'échéance du brevet mentionné en colonne 1
+Brevet d'officier chef de quart navire de mer |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet de chef de quart passerelle
+Brevet de chef de quart machine 15 000 kW |
 
-|
+Conditions de revalidation applicables au brevet d'officier chef de quart machine |
 
-Conditions de revalidation applicables au brevet d'officier chef de quart passerelle en tenant compte des conditions mentionnées au (1 bis)
+Brevet d'officier chef de quart machine avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet d'officier chef de quart passerelle
+Brevet de chef de quart machine |
 
-|
+Conditions de revalidation applicables au brevet d'officier chef de quart machine |
 
-A la date d'échéance du brevet mentionné en colonne 1
+Brevet d'officier chef de quart machine |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet de chef de quart de navire de mer
+Brevet de second mécanicien limité à une puissance propulsive supérieure à 3 000 kW mais inférieure à 8 000 kW |
 
-|
+Conditions de revalidation applicables au brevet de second mécanicien 8 000 kW |
 
-Conditions de revalidation applicables au brevet d'officier chef de quart navire de mer
+Brevet de second mécanicien 8 000 kW |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet d'officier chef de quart navire de mer
+Brevet de chef mécanicien limité à une puissance propulsive supérieure à 3 000 kW mais inférieure à 8 000 kW |
 
-|
+Conditions de revalidation applicables au brevet de chef mécanicien 8 000 kW |
 
-A la date d'échéance du brevet mentionné en colonne 1
+Brevet de chef mécanicien 8 000 kW |
 
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-Brevet de chef de quart machine 15 000 kW
+Brevet de second mécanicien 15 000 kW |
 
-|
+Conditions de revalidation applicables au brevet de second mécanicien |
 
-Conditions de revalidation applicables au brevet d'officier chef de quart machine
+Brevet de second mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW |
 
-|
-
-Brevet d'officier chef de quart machine avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de chef de quart machine
-
-|
-
-Conditions de revalidation applicables au brevet d'officier chef de quart machine
-
-|
-
-Brevet d'officier chef de quart machine
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de second mécanicien limité à une puissance propulsive supérieure à 3 000 kW mais inférieure à 8 000 kW
-
-|
-
-Conditions de revalidation applicables au brevet de second mécanicien 8 000 kW
-
-|
-
-Brevet de second mécanicien 8 000 kW
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de chef mécanicien limité à une puissance propulsive supérieure à 3 000 kW mais inférieure à 8 000 kW
-
-|
-
-Conditions de revalidation applicables au brevet de chef mécanicien 8 000 kW
-
-|
-
-Brevet de chef mécanicien 8 000 kW
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de second mécanicien 15 000 kW
-
-|
-
-Conditions de revalidation applicables au brevet de second mécanicien
-
-|
-
-Brevet de second mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
+A la date d'échéance du brevet mentionné en colonne 1 |
 
 Brevet de chef mécanicien 15 000 kW |
 
@@ -182,13 +108,9 @@ A la date d'échéance du brevet mentionné en colonne 1 |
 
 Titres polyvalents ou monovalents permettant d'exercer à bord des navires armés à la plaisance uniquement
 
-TITRE À REVALIDER
+TITRE À REVALIDER |
 
-|
-
-CONDITIONS DE REVALIDATION
-
-|
+CONDITIONS DE REVALIDATION |
 
 BREVET DÉLIVRÉ
 
@@ -196,125 +118,67 @@ lors de la revalidation
 
 |
 
-DATE LIMITE DE REVALIDATION
+DATE LIMITE DE REVALIDATION |
 
-|
+Colonne 1 |
 
-Colonne 1
+Colonne 2 |
 
-|
+Colonne 3 |
 
-Colonne 2
+Colonne 4 |
 
-|
+Brevet de patron à la plaisance (voile) ou brevet de patron à la plaisance (voile) STCW-95 (BBPV-STCW-95) (2) |
 
-Colonne 3
+Conditions de revalidation applicables au brevet de capitaine 200 en tenant compte des conditions mentionnées au (1) |
 
-|
+Brevet de capitaine 200 voile |
 
-Colonne 4
+A la date d'échéance du brevet mentionné en colonne 1 et au plus tard le 1er septembre 2020 |
 
-|
+Brevet de capitaine yacht 200 |
 
-Brevet de patron à la plaisance (voile) ou brevet de patron à la plaisance (voile) STCW-95 (BBPV-STCW-95) (2)
+Conditions de revalidation applicables au brevet de capitaine 200 yacht |
 
-|
+Brevet de capitaine 200 yacht |
 
-Conditions de revalidation applicables au brevet de capitaine 200 en tenant compte des conditions mentionnées au (1)
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-|
+Brevet de chef de quart yacht 500 |
 
-Brevet de capitaine 200 voile
+Conditions de revalidation applicables au brevet de chef de quart 500 yacht en tenant compte des conditions mentionnées au (3) |
 
-|
+Brevet de chef de quart 500 yacht |
 
-A la date d'échéance du brevet mentionné en colonne 1 et au plus tard le 1er septembre 2020
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-|
+Brevet de capitaine yacht 500 |
 
-Brevet de capitaine yacht 200
+Conditions de revalidation applicables au brevet de capitaine 500 yacht en tenant compte des conditions mentionnées au (4) |
 
-|
+Brevet de capitaine 500 yacht |
 
-Conditions de revalidation applicables au brevet de capitaine 200 yacht
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-|
+Brevet de capitaine yacht 3 000 |
 
-Brevet de capitaine 200 yacht
+Conditions de revalidation applicables au brevet de capitaine 3 000 yacht |
 
-|
+Brevet de capitaine 3 000 yacht |
 
-A la date d'échéance du brevet mentionné en colonne 1
+A la date d'échéance du brevet mentionné en colonne 1 |
 
-|
+Brevet de chef mécanicien yacht 3 000 kW |
 
-Brevet de chef de quart yacht 500
+Conditions de revalidation applicables au brevet de chef mécanicien 3 000 kW en tenant compte des conditions mentionnées au (5) |
 
-|
-
-Conditions de revalidation applicables au brevet de chef de quart 500 yacht en tenant compte des conditions mentionnées au (3)
-
-|
-
-Brevet de chef de quart 500 yacht
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de capitaine yacht 500
-
-|
-
-Conditions de revalidation applicables au brevet de capitaine 500 yacht en tenant compte des conditions mentionnées au (4)
-
-|
-
-Brevet de capitaine 500 yacht
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de capitaine yacht 3 000
-
-|
-
-Conditions de revalidation applicables au brevet de capitaine 3 000 yacht
-
-|
-
-Brevet de capitaine 3 000 yacht
-
-|
-
-A la date d'échéance du brevet mentionné en colonne 1
-
-|
-
-Brevet de chef mécanicien yacht 3 000 kW
-
-|
-
-Conditions de revalidation applicables au brevet de chef mécanicien 3 000 kW en tenant compte des conditions mentionnées au (5)
-
-|
-
-Brevet de chef mécanicien 3 000 kW
-
-|
+Brevet de chef mécanicien 3 000 kW |
 
 A la date d'échéance du brevet mentionné en colonne 1 |
 
 Titres polyvalents ou monovalents permettant d'exercer à bord des navires armés à la pêche
 
-TITRE À REVALIDER
-
-|
+TITRE À REVALIDER |
 
 CONDITIONS
 
@@ -334,99 +198,57 @@ de revalidation
 
 |
 
-Colonne 1
+Colonne 1 |
 
-|
+Colonne 2 |
 
-Colonne 2
+Colonne 3 |
 
-|
+Colonne 4 |
 
-Colonne 3
+Certificat de capacité |
 
-|
+Conditions de revalidation applicables au brevet de capitaine 200 pêche en tenant compte des conditions mentionnées au (6) |
 
-Colonne 4
-
-|
-
-Certificat de capacité
-
-|
-
-Conditions de revalidation applicables au brevet de capitaine 200 pêche en tenant compte des conditions mentionnées au (6)
-
-|
-
-Brevet de capitaine 200 pêche
-
-|
-
-Avant le 1er septembre 2020
-
-|
-
-Brevet de second mécanicien 3 000 kW pêche |
-
-Conditions de revalidation applicables au brevet de second mécanicien 3 000 kW en tenant compte des conditions mentionnées aux (5) et (7)
-
-|
-
-Brevet de second mécanicien 3 000 kW
-
-|
+Brevet de capitaine 200 pêche |
 
 Avant le 1er septembre 2020 |
 
-Brevet de chef mécanicien 3 000 kW pêche
+Brevet de second mécanicien 3 000 kW pêche |
 
-|
+Conditions de revalidation applicables au brevet de second mécanicien 3 000 kW en tenant compte des conditions mentionnées aux (5) et (7) |
 
-Conditions de revalidation applicables au brevet de chef mécanicien 3 000 kW. en tenant compte des conditions mentionnées aux (5) et (7)
+Brevet de second mécanicien 3 000 kW |
 
-|
+Avant le 1er septembre 2020 |
 
-Brevet de chef mécanicien 3 000 kW
+Brevet de chef mécanicien 3 000 kW pêche |
 
-|
+Conditions de revalidation applicables au brevet de chef mécanicien 3 000 kW. en tenant compte des conditions mentionnées aux (5) et (7) |
 
-Avant le 1er septembre 2020
+Brevet de chef mécanicien 3 000 kW |
 
-|
+Avant le 1er septembre 2020 |
 
-Brevet de second mécanicien 15 000 kW pêche
+Brevet de second mécanicien 15 000 kW pêche |
 
-|
+Conditions de revalidation applicables au brevet de chef mécanicien (7) |
 
-Conditions de revalidation applicables au brevet de chef mécanicien (7)
+Brevet de second mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW |
 
-|
+Avant le 1er septembre 2020 |
 
-Brevet de second mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
+Brevet de chef mécanicien 15 000 kW pêche |
 
-|
+Conditions de revalidation applicables au brevet de chef mécanicien (7) |
 
-Avant le 1er septembre 2020
+Brevet de chef mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW |
 
-|
-
-Brevet de chef mécanicien 15 000 kW pêche
-
-|
-
-Conditions de revalidation applicables au brevet de chef mécanicien (7)
-
-|
-
-Brevet de chef mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
-
-|
-
-Avant le 1er septembre 2020
-
-|
+Avant le 1er septembre 2020 |
 
 (1) Les titulaires d'un brevet de patron de petite navigation sans compétence machine ou d'un brevet de patron à la plaisance (voile) ou brevet de patron à la plaisance (voile) STCW-95 (BBPV-STCW-95) doivent également être titulaires du diplôme, du brevet de mécanicien 250 kW ou de tout diplôme, attestation ou titre reconnu dans le tableau 1 de l'arrêté du 17 août 2015 susvisé pour la délivrance du brevet de mécanicien 250 kW.
+
+En l'absence d'une attestation de formation pour le personnel servant à bord des navires à passagers, la mention restrictive “ Navires ne transportant pas plus de douze passagers ” est inscrite sur le brevet de capitaine 200.
 
 (1 bis) Pour les titulaires d'un brevet de chef de quart passerelle restreint aux navires de jauge brute inférieure à 3 000, il convient :
 
