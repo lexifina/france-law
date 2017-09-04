@@ -1272,7 +1272,7 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 |
 
-DGFiP : direction régionale des finances publiques, direction spécialisée des finances publiques pour l'étranger, service des retraites de l'Etat, direction interrégionale du contrôle fiscal Ouest, direction des vérifications nationales et internationales, pour partie bureau "applications de la fiscalité des entreprises et du patrimoine" (SI 1C) et bureau "applications du recouvrement" (SI 1F), Ecole nationale des finances publiques ;
+DGFiP : direction régionale des finances publiques, direction spécialisée des finances publiques pour l'étranger, service des retraites de l'Etat, direction interrégionale du contrôle fiscal Ouest, direction des vérifications nationales et internationales, pour partie bureau " applications de la fiscalité des entreprises et du patrimoine " (SI 1C) et bureau " applications du recouvrement " (SI 1F), Ecole nationale des finances publiques ;
 
 DGDDI : direction interrégionale de Nantes, direction régionale des Pays de la Loire ;
 
@@ -2678,7 +2678,7 @@ Directeur départemental des finances publiques, directeur interrégional des do
 
 |
 
-DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Ile-de-France Est et Ouest, direction des grandes entreprises, direction des résidents à l'étranger et des services généraux, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Ile-de-France Est et Ouest, direction des grandes entreprises, direction des impôts des non-résidents, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
 
 DGDDI : direction interrégionale de Roissy
 
@@ -2692,7 +2692,7 @@ DGDDI : direction interrégionale de Roissy
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Seine-Saint-Denis et de la direction interrégionale du contrôle fiscal Ile-de-France Est et Ouest, comités techniques de service à compétence nationale direction des grandes entreprises, direction des résidents à l'étranger et des services généraux, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Seine-Saint-Denis et de la direction interrégionale du contrôle fiscal Ile-de-France Est et Ouest, comités techniques de service à compétence nationale direction des grandes entreprises, direction des impôts des non-résidents, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Roissy
 

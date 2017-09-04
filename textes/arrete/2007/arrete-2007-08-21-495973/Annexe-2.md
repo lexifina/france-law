@@ -40,13 +40,13 @@ Marseille
 
 |
 
-SIE Marseille 7e/9e/10e
+SIE Marseille 7e/ 9e/ 10e
 
 SIE Aubagne
 
 SIE Marseille 1erSIE Marseille 8e
 
-SIE Marseille 11e/12e
+SIE Marseille 11e/ 12e
 
 |
 
@@ -402,7 +402,7 @@ Seine-et-Marne
 
 SIE Lagny-sur-Marne
 
-SIE Noisiel - Marne-la-Vallée
+SIE Noisiel-Marne-la-Vallée
 
 SIE Roissy-en-Brie
 
@@ -514,7 +514,7 @@ Val-de-Marne
 
 |
 
-SIE L'Hay¨-les-Roses
+SIE L'Hay ¨-les-Roses
 
 SIE Saint-Maur-des-Fossés
 
@@ -540,7 +540,7 @@ Guadeloupe
 
 |
 
-SIE Basse-Terre Nord - Lamentin
+SIE Basse-Terre Nord-Lamentin
 
 |
 
@@ -552,7 +552,7 @@ SIE Saint-Pierre-de-la-Réunion
 
 |
 
-Direction des résidents à l'étranger et des services généraux (DRESG)
+Direction des impôts des non-résidents
 
 |
 

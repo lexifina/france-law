@@ -66,7 +66,7 @@ Aude
 
 |
 
-SIE Narbonne.(supprimé avec effet du 1er septembre 2007)
+SIE Narbonne. (supprimé avec effet du 1er septembre 2007)
 
 |
 
@@ -74,7 +74,7 @@ Marseille
 
 |
 
-SIE Marseille 7e/9e/10e.
+SIE Marseille 7e/ 9e/ 10e.
 
 |
 
@@ -98,7 +98,7 @@ SIE Marseille 8e.
 
 |
 
-SIE Marseille 11e/12e
+SIE Marseille 11e/ 12e
 
 |
 
@@ -138,7 +138,7 @@ Côtes-d'Armor
 
 |
 
-SIE Saint-Brieuc - Est.
+SIE Saint-Brieuc-Est.
 
 |
 
@@ -212,19 +212,19 @@ Haute-Garonne
 
 |
 
-SIE Toulouse - Sud-Est.
+SIE Toulouse-Sud-Est.
 
 |
 
 |
 
-SIE Toulouse - Nord-Ouest.
+SIE Toulouse-Nord-Ouest.
 
 |
 
 |
 
-SIE Toulouse - Sud-Ouest
+SIE Toulouse-Sud-Ouest
 
 |
 
@@ -292,13 +292,13 @@ Landes
 
 |
 
-SIE Dax - Nord-Ouest.
+SIE Dax-Nord-Ouest.
 
 |
 
 |
 
-SIE Dax - Sud-Est.
+SIE Dax-Sud-Est.
 
 |
 
@@ -306,7 +306,7 @@ Loire
 
 |
 
-SIE Roanne.(supprimé avec effet du 1er septembre 2007)
+SIE Roanne. (supprimé avec effet du 1er septembre 2007)
 
 |
 
@@ -314,13 +314,13 @@ Loire-Atlantique
 
 |
 
-SIE Saint-Nazaire - Sud-Est.
+SIE Saint-Nazaire-Sud-Est.
 
 |
 
 |
 
-SIE Saint-Nazaire - Nord-Ouest.
+SIE Saint-Nazaire-Nord-Ouest.
 
 |
 
@@ -328,7 +328,7 @@ Marne
 
 |
 
-SIE Reims-Est.(supprimé avec effet du4 juin 2007)
+SIE Reims-Est. (supprimé avec effet du4 juin 2007)
 
 |
 
@@ -592,7 +592,7 @@ SIE 8e Roule-Hoche.
 
 |
 
-SIE 18e Grandes-Carrières - Sud.
+SIE 18e Grandes-Carrières-Sud.
 
 |
 
@@ -664,7 +664,7 @@ SIE Lagny-sur-Marne.
 
 |
 
-SIE Noisiel - Marne-la-Vallée.
+SIE Noisiel-Marne-la-Vallée.
 
 |
 
@@ -696,7 +696,7 @@ SIE Versailles-Sud.
 
 |
 
-SIE Saint-Germain-en-Laye - Nord.
+SIE Saint-Germain-en-Laye-Nord.
 
 |
 
@@ -746,7 +746,7 @@ SIE Draguignan-Nord.
 
 |
 
-SIE Toulon - Nord-Est.
+SIE Toulon-Nord-Est.
 
 |
 
@@ -822,7 +822,7 @@ SIE Gennevilliers.
 
 |
 
-Hauts-de-Seine - Sud
+Hauts-de-Seine-Sud
 
 |
 
@@ -846,7 +846,7 @@ SIE Le Blanc-Mesnil.
 
 |
 
-SIE Saint-Denis - Ville.
+SIE Saint-Denis-Ville.
 
 |
 
@@ -870,7 +870,7 @@ SIE Neuilly-sur-Marne.
 
 |
 
-SIE Noisy-le-Sec - Ouest.
+SIE Noisy-le-Sec-Ouest.
 
 |
 
@@ -896,7 +896,7 @@ Val-de-Marne
 
 |
 
-SIE L'Hay· -les-Roses.
+SIE L'Hay ·-les-Roses.
 
 |
 
@@ -942,7 +942,7 @@ Guadeloupe
 
 |
 
-SIE Basse-Terre - Nord - Lamentin.
+SIE Basse-Terre-Nord-Lamentin.
 
 |
 
@@ -950,7 +950,7 @@ Martinique
 
 |
 
-SIE Fort-de-France - Extérieur. (supprimé avec effet du 6 juin 2007)
+SIE Fort-de-France-Extérieur. (supprimé avec effet du 6 juin 2007)
 
 |
 
@@ -962,7 +962,7 @@ SIE Saint-Pierre-de-la-Réunion.
 
 |
 
-Direction des résidents à l'étranger et des services généraux (DRESG)
+Direction des impôts des non-résidents
 
 |
 

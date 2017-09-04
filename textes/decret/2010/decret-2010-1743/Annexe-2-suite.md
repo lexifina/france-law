@@ -382,7 +382,7 @@ CTP spécial du service à compétence nationale de la direction nationale d'enq
 
 CTP spécial du service à compétence nationale de la direction nationale des vérifications de situations fiscales (DNVSF) placé auprès du directeur ;
 
-CTP spécial du service à compétence nationale de la direction des résidents à l'étranger et des services généraux (DRESG) placé auprès du directeur ;
+CTP spécial du service à compétence nationale de la direction des impôts des non-résidents (DRESG) placé auprès du directeur ;
 
 CTP spécial du service à compétence nationale de la documentation nationale du cadastre (SDNC) placé auprès du chef de service ;
 

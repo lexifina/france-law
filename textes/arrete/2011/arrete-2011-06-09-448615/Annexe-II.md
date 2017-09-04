@@ -418,7 +418,7 @@ A partir de 1 000 agents
 
 |
 
-Comités techniques de service à compétence nationale : direction impôts service, direction des vérifications nationales et internationales, direction des grandes entreprises, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles, direction des résidents à l'étranger et des services généraux, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction des services informatiques, direction nationale d'interventions domaniales, service des retraites de l'Etat
+Comités techniques de service à compétence nationale : direction impôts service, direction des vérifications nationales et internationales, direction des grandes entreprises, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles, direction des impôts des non-résidents, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction des services informatiques, direction nationale d'interventions domaniales, service des retraites de l'Etat
 
 |
 

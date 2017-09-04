@@ -358,7 +358,7 @@ COMPTABLE ASSIGNATAIRE
 
 |
 
-Centre de services partagés de la direction des résidents à l'étranger et des services généraux
+Centre de services partagés de la direction des impôts des non-résidents
 
 |
 
@@ -1148,7 +1148,7 @@ Direction régionale des finances publiques des Hauts-de-France et du départeme
 
 |
 
-Direction spécialisée de contrôle fiscal Rhône-Alpes - Bourgogne
+Direction spécialisée de contrôle fiscal Rhône-Alpes-Bourgogne
 
 |
 

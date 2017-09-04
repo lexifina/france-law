@@ -22,7 +22,7 @@ DÉNOMINATION DES POSTES
 
 |
 
-Direction des résidents à l'étranger et des services généraux (DRESG)
+Direction des impôts des non-résidents
 
 |
 
@@ -54,7 +54,7 @@ SIE-C Lyon 5e arrondissement.
 
 |
 
-Hauts-de-Seine - Nord.
+Hauts-de-Seine-Nord.
 
 |
 
@@ -150,7 +150,7 @@ Marseille.
 
 |
 
-SIE-C Marseille 2e/15e/16e.
+SIE-C Marseille 2e/ 15e/ 16e.
 
 |
 
@@ -188,7 +188,7 @@ Aix-en-Provence.
 
 |
 
-SIE-C Aix-en-Provence - Sud.
+SIE-C Aix-en-Provence-Sud.
 
 |
 
@@ -204,7 +204,7 @@ Loire-Atlantique.
 
 |
 
-SIE-C Nantes-Sud - Est.
+SIE-C Nantes-Sud-Est.
 
 |
 
@@ -220,7 +220,7 @@ Var.
 
 |
 
-SIE-C Toulon-Nord - Ouest.
+SIE-C Toulon-Nord-Ouest.
 
 |
 
@@ -236,7 +236,7 @@ Val-d'Oise.
 
 |
 
-SIE-C Cergy-Pontoise - Ouest.
+SIE-C Cergy-Pontoise-Ouest.
 
 |
 
@@ -248,11 +248,11 @@ SIE-C 11e Saint-Ambroise.
 
 |
 
-Hauts-de-Seine - Sud.
+Hauts-de-Seine-Sud.
 
 |
 
-Sud. SIE-C Boulogne-Billancourt - Nord.
+Sud. SIE-C Boulogne-Billancourt-Nord.
 
 |
 
