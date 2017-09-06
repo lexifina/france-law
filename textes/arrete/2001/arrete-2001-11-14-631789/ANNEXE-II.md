@@ -1,277 +1,139 @@
 # Article ANNEXE II
 
-TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE
+FRAIS DE FOURRIÈRE |
 
-FRAIS DE FOURRIÈRE
+CATÉGORIES DE VÉHICULES |
 
-|
+MONTANT
 
-CATÉGORIES DE VÉHICULES
+(en euros) |
 
-|
+Immobilisation matérielle |
 
-MONTANT (en euros)
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-|
+7,60 |
 
-Immobilisation
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-matérielle
+7,60 |
 
-|
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+7,60 |
 
-|
+Voitures particulières |
 
-7,60
+7,60 |
 
-|
+Autres véhicules immatriculés |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+7,60 |
 
-|
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-7,60
+7,60 |
 
-|
+Opérations préalables |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-|
+22,90 |
 
-7,60
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-|
+22,90 |
 
-Voitures particulières
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-|
+22,90 |
 
-7,60
+Voitures particulières |
 
-|
+15,20 |
 
-Autres véhicules immatriculés
+Autres véhicules immatriculés |
 
-|
+7,60 |
 
-7,60
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-|
+7,60 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
+Enlèvement |
 
-|
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-7,60
+274,40 |
 
-|
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Opérations préalables
+213,40 |
 
-|
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+122,00 |
 
-|
+Voitures particulières |
 
-22,90
+117,50 |
 
-|
+Autres véhicules immatriculés |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+45,70 |
 
-|
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-22,90
+45,70 |
 
-|
+Garde journalière |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-|
+9,20 |
 
-22,90
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-|
+9,20 |
 
-Voitures particulières
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-|
+9,20 |
 
-15,20
+Voitures particulières |
 
-|
+6,23 |
 
-Autres véhicules immatriculés
+Autres véhicules immatriculés |
 
-|
+3,00 |
 
-7,60
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-|
+3,00 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
+Expertise |
 
-|
+Véhicules PL 44 t ≥ PTAC > 19 t |
 
-7,60
+91,50 |
 
-|
+Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-Enlèvement
+91,50 |
 
-|
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-Véhicules PL 44 t ≥ PTAC > 19 t
+91,50 |
 
-|
+Voitures particulières |
 
-274,40
+61,00 |
 
-|
+Autres véhicules immatriculés |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t
+30,50 |
 
-|
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-213,40
-
-|
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
-
-|
-
-122,00
-
-|
-
-Voitures particulières
-
-|
-
-116,81
-
-|
-
-Autres véhicules immatriculés
-
-|
-
-45,70
-
-|
-
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
-
-|
-
-45,70
-
-|
-
-Garde journalière
-
-|
-
-Véhicules PL 44 t ≥ PTAC > 19 t
-
-|
-
-9,20
-
-|
-
-Véhicules PL 19 t ≥ PTAC > 7,5 t
-
-|
-
-9,20
-
-|
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
-
-|
-
-9,20
-
-|
-
-Voitures particulières
-
-|
-
-6,19
-
-|
-
-Autres véhicules immatriculés
-
-|
-
-3,00
-
-|
-
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
-
-|
-
-3,00
-
-|
-
-Expertise
-
-|
-
-Véhicules PL 44 t ≥ PTAC > 19 t
-
-|
-
-91,50
-
-|
-
-Véhicules PL 19 t ≥ PTAC > 7,5 t
-
-|
-
-91,50
-
-|
-
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t
-
-|
-
-91,50
-
-|
-
-Voitures particulières
-
-|
-
-61,00
-
-|
-
-Autres véhicules immatriculés
-
-|
-
-30,50
-
-|
-
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
-
-|
-
-30,50
-
-|
+30,50 |
