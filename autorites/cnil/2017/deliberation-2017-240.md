@@ -1,0 +1,133 @@
+# Délibération n° 2017-240 du 7 septembre 2017 autorisant le Conseil départemental de la Charente-Maritime à mettre en oeuvre un traitement de données à caractère personnel ayant pour finalité la gestion et le suivi des demandes des agréments relatifs à l’adoption >(demande d’autorisation n° 2042036)
+
+- Nature : Deliberation
+- Type : Autre autorisation
+- Numéro : 2017-240
+- Date : 2017-09-07
+- Publication : 2017-10-04
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000035677102
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le Conseil départemental de la Charente-Maritime d’une demande d’autorisation concernant un traitement de données à caractère personnel ayant pour finalité la gestion et le suivi des demandes des agréments relatifs à l’adoption ;
+
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de l’action sociale, notamment ses articles L. 225-1 et suivants, et R. 225-1 et suivants ;
+
+Vu le code de procédure pénale, notamment son article 776 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 9 et 25-I.-3° ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de Mme Marie-France MAZARS, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+
+Formule les observations suivantes :
+
+Responsable du traitement
+
+Le Conseil départemental de la Charente-Maritime.
+
+Sur la finalité
+
+Le traitement automatisé de données à caractère personnel a pour finalité :
+
+la gestion et le suivi des demandes des agréments relatifs à l’adoption ;
+
+le renouvellement des agréments relatifs à l’adoption.
+
+L’article R. 225-1 du code de l’action sociale et des familles prévoit que toute personne qui envisage l’adoption d’un enfant doit être titulaire d’un agrément qui est délivré par le Président du Conseil départemental de son département de résidence.
+
+L’agrément est accordé si les conditions d’accueil offertes par le demandeur sur les plans familial, éducatif et psychologique correspondent aux besoins et à l’intérêt d’un enfant adopté, conformément aux dispositions de l’article R. 225-4 du code susvisé.
+
+La Commission considère que les finalités poursuivies sont déterminées, explicites et légitimes, conformément aux dispositions de l’article 6-2° de la loi du 6 janvier 1978 modifiée en août 2004.
+
+Sur les données traitées
+
+Les données collectées auprès des demandeurs sont relatives aux éléments suivants :
+
+à l’état civil : nom, prénom, adresse, numéro de téléphone, adresse courriel, date et lieu de naissance ;
+
+à la vie personnelle : habitudes de vie et situation familiale, conformément aux dispositions de l’article R. 225-4 du code de l’action sociale et des familles ;
+
+à la vie professionnelle : situation professionnelle, scolarité, formation, distinction ;
+
+aux informations d’ordre économique et financier : revenus et situation financière, conformément aux dispositions de l’article R. 225-3 du code susvisé ;
+
+aux informations relatives au logement ;
+
+aux infractions, condamnations et mesures de sûreté : bulletin n° 2 du casier judiciaire, conformément aux dispositions de l’article 776 du code de procédure pénale, et bulletin n° 3 du casier judiciaire conformément aux dispositions de l’article R. 225-2 du code de l’action sociale et des familles ;
+
+à la santé : certificat médical, conformément aux dispositions de l’article R. 225-3 du code susvisé.
+
+à l’évaluation sociale et psychologique des candidats permettant d’évaluer les conditions d’accueil sur les plans social, matériel et affectif ainsi que le contexte psychologique dans lequel est formé le projet d’adoption, conformément aux dispositions de l’article R. 225-4 du code de l’action sociale et des familles.
+
+Peuvent aussi être collectées et traitées les données relatives aux opinions religieuses dans la mesure où dans le cadre d’adoptions internationales, certains pays demandent la religion des parents.
+
+Conformément à l’article 8-II-1° de la loi Informatique et Libertés du 6 janvier 1978 modifiée en août 2004, la personne concernée a donné son consentement exprès à la collecte des informations relatives à la santé, et aux opinions religieuses.
+
+La Commission estime que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités poursuivies, conformément aux dispositions de l’article 6-3° de la loi susvisée, dès lors qu’elles s’avèrent nécessaires et proportionnées dans le cadre du présent traitement.
+
+Compte tenu de la nature des données collectées, la Commission considère qu’il y a lieu de faire application des dispositions de l’article 9-1°, et de l’article 25-I-3° de la loi informatique et libertés, qui soumet à autorisation les traitements comportant des données relatives aux infractions.
+
+Sur les destinataires
+
+Les membres de la commission d’agrément du Conseil départemental de la Charente-Maritime mentionnés à l’article R. 225-9 du code de l’action sociale et des familles, ont accès à l’ensemble des informations mentionnées ci-dessus, à raison de leurs attributions respectives et dans la limite du besoin d’en connaître.
+
+La Commission estime que ces destinataires présentent un intérêt légitime à connaître de ces données.
+
+Sur l’information et le droit d’accès
+
+Les personnes sont informées, conformément aux dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée en août 2004 par des mentions légales figurant sur les formulaires de demande d’agrément, et qui sont complétés lors des demandes initiales et des renouvellements des agréments (« dossier de demande d’agrément en vue d’adoption »).
+
+La Commission considère que ces modalités d’information sont satisfaisantes.
+
+Les droits d’accès et de rectification prévus aux articles 39 et 40 de la loi susvisée s’exercent auprès du Correspondant informatique et libertés du Conseil départemental de la Charente-Maritime.
+
+Dans la mesure où le présent traitement répond à une obligation légale prévue aux articles L. 225-2 et suivants du code de l’action sociale et des familles, le droit d’opposition est écarté, conformément aux dispositions de l’article 38 de la loi du 6 janvier 1978 modifiée en août 2004.
+
+La Commission considère que ces modalités d’exercice des droits des personnes sont satisfaisantes.
+
+Sur la durée du traitement
+
+Les données sont conservées en base active le temps de la gestion des demandes et des renouvellements des agréments relatifs à l’adoption, à l’exception des données relatives aux infractions (bulletins n° 2 et n° 3 du casier judiciaire) qui sont conservées trois mois en base active, et sont ensuite supprimées de manière sécurisée.
+
+Elles font ensuite l’objet d’un archivage intermédiaire pour une durée de six ans à compter de la date de l’obtention de l’agrément ou à compter de la date de l’interruption de la procédure conformément aux dispositions de la circulaire AD 98-6 du 6 juillet 1998.
+
+A l’expiration de cette période, les données sont détruites de manière sécurisée.
+
+Certains dossiers sont conservés de manière définitive à des fins d’archivage patrimonial par la direction des archives départementales, conformément aux dispositions du code du patrimoine.
+
+Lorsqu’il existe un recours contre un tiers ou un contentieux, les données sont conservées jusqu’à l’intervention de la décision définitive.
+
+La Commission considère que ces durées de conservation sont pertinentes au regard des finalités poursuivies.
+
+Sur les mesures de sécurité
+
+La Commission prend acte que des mesures de protection physique et logique seront mises en œuvre pour préserver la sécurité du traitement et des informations, empêcher toute utilisation détournée ou frauduleuse, notamment par des tiers non autorisés, et préserver l’intégrité des données traitées.
+
+Des profils d’habilitation définissent les fonctions ou les types d’informations accessibles à un utilisateur. Ceux-ci ainsi que leurs droits respectifs sont spécifiés et documentés de manière détaillée, et prennent en compte les accès différenciés aux informations en fonction du besoin d’en connaître.
+
+La Commission rappelle qu’elle recommande que les permissions d’accès soient attribuées pour une durée déterminée, qu’elles soient supprimées pour tout utilisateur n’étant plus habilité, et qu’une revue globale des habilitations soit opérée régulièrement.
+
+L’authentification des utilisateurs du traitement est assurée par l’utilisation des mots de passe régulièrement renouvelés et constitués d’au moins huit caractères contenant des majuscules, des chiffres et des caractères spéciaux lorsque l’authentification prévoit une restriction de l’accès au compte, conformément à la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe.
+
+La Commission rappelle qu’elle recommande de réaliser un contrôle des traces de manière automatique, afin de détecter les comportements anormaux, et lever les alertes.
+
+Des sauvegardes régulières sont réalisées et stockées dans un endroit garantissant leur sécurité et leur disponibilité. La Commission tient à rappeler l’importance de tester régulièrement les sauvegardes.
+
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée en août 2004.
+
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+Autorise, conformément à la présente délibération, le Conseil départemental de la Charente-Maritime à mettre en œuvre le traitement susmentionné.
+
+Pour la Présidente Le Vice-Président délégué
+
+Marie-France MAZARS
