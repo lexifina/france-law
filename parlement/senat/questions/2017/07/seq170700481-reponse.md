@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700481
+
+- Question : [SEQ170700481](seq170700481.md) — Opportunité de rétablir une vérification d'identité à l'embarquement des passagers aériens au départ de France et d'Europe
+
+## Réponse
+
+*Intérieur, JO du 2017-09-07, page 2813*
+
+La vérification de concordance des passagers à l'embarquement est une mesure de sûreté mise en œuvre par les entreprises de transport aérien. Elle consiste à s'assurer que le nom figurant sur la carte d'embarquement est identique à celui figurant sur le document d'identité présenté par le passager. Elle ne doit pas être confondue avec le contrôle documentaire réalisé par la police aux frontières dans le cadre du contrôle transfrontière de sortie de l'espace Schengen. Lors de la présentation d'un passager à l'embarquement, l'entreprise de transport aérien procède ainsi à la vérification de la concordance entre l'identité mentionnée sur la carte d'embarquement valable et un des documents suivants attestant l'identité du passager : la carte nationale d'identité, le passeport, le titre de séjour ou le permis de conduire. Les mineurs de moins de treize ans accompagnés d'une personne majeure sont dispensés de l'obligation de vérification de concordance. La vérification de concordance était limitée depuis 2012 (en application du règlement européen 185/2010) aux seuls passagers remettant à l'enregistrement des bagages en soute. L'arrêté du 20 novembre 2015 portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile, qui prévoit diverses mesures d'urgence, a réintroduit cette mesure, applicable jusqu'au 29 février 2016, pour l'ensemble des passagers au départ d'un aéroport français, que leur destination soit dans l'espace Schengen ou hors de l'espace Schengen. Cette mesure a été prolongée pour la durée de l'état d'urgence par un arrêté interministériel en date du 26 février 2016.
