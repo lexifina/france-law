@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700451
+
+- Question : [SEQ170700451](seq170700451.md) — Accès des enfants aux corridas et courses de taureaux avec mise à mort
+
+## Réponse
+
+*Solidarités et santé, JO du 2017-09-07, page 2821*
+
+L'État français a pris connaissance des recommandations du comité des droits de l'enfant visant à interdire l'accès aux corridas, courses de taureau avec mise à mort, aux mineurs. Le principe d'une limitation de l'accès des mineurs à des manifestations pouvant heurter leur sensibilité en fonction de leur âge doit être posé de façon globale et ne pas seulement concerner la tauromachie. En effet, si ce principe devait être retenu, il devrait s'articuler avec les réglementations existantes qui limitent déjà l'accès aux mineurs à certains spectacles et à certains lieux (salles de cinéma, musées) et être traité avec l'ensemble des ministères et acteurs concernés (associations de défense des droits de l'enfant, de parents, de protection animale ainsi que les régions et les villes…). Les travaux de suivi de l'audition de la France par le Comité des droits de l'enfant en janvier 2016 du Haut conseil à l'enfance, la famille et à l'âge (HCFEA) qui doivent aboutir en fin 2017 pourraient être l'occasion d'entamer des échanges sur ces questions. Par ailleurs, des mesures autres que législatives peuvent être envisagées pour protéger les enfants de ces spectacles violents : ainsi des actions de sensibilisation des parents aux conséquences de ces manifestations sur leurs enfants, pourraient être conduites (spots audiovisuels, dépliants d'information et affiches sur les lieux de billetterie…) D'ores et déjà, à la télévision, le conseil supérieur de l'audiovisuel (CSA)exige que la diffusion de corrida soit accompagnée de la signalétique jeunesse (10 ou 12), qu'elle ne soit pas diffusée à une heure où des enfants peuvent être devant l'écran et que la mise à mort ne soit pas montrée.
