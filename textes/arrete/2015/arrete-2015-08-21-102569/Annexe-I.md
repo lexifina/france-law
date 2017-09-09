@@ -10,17 +10,13 @@ Les tableaux 2 et 3 ci-dessous précisent les diplômes, attestations ou brevets
 
 Tableau 1. - Diplômes ou titres reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de mécanicien 750 kW en application du 2° de l'article 5
 
-DIPLÔME, ATTESTATION OU TITRE DÉTENU (1)
-
-|
+DIPLÔME, ATTESTATION OU TITRE DÉTENU (1) |
 
 CONDITIONS COMPLÉMENTAIRES À SATISFAIRE PAR TOUT TITULAIRE
 
 du diplôme, de l'attestation ou du titre mentionné en colonne (1)
 
-pour être admis à suivre le cursus de formation (2)
-
-|
+pour être admis à suivre le cursus de formation (2) |
 
 1. Permis de conduire les moteurs marins (250 kW) conformément à l'arrêté du 31 décembre 2007 modifié relatif aux conditions de délivrance du permis de conduire les moteurs marins (250 kW)
 
@@ -90,17 +86,13 @@ Tableau 2. - Diplômes, attestations ou titres reconnus pour la délivrance du b
 
 DIPLÔME DÉTENU
 
-(1)
-
-|
+(1) |
 
 CONDITIONS COMPLÉMENTAIRES À SATISFAIRE PAR TOUT TITULAIRE
 
 du diplôme mentionné en colonne (1)
 
-pour la délivrance du brevet de mécanicien 750 kW (2)
-
-|
+pour la délivrance du brevet de mécanicien 750 kW (2) |
 
 1. Brevet d'études professionnelles maritimes spécialité "mécanicien" délivré conformément à l'arrêté du 22 décembre 2009 susvisé.
 
@@ -146,21 +138,21 @@ Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 11
 
 |
 
+11. Du diplôme d'officier chef de quart machine conformément à l'arrêté du 23 décembre 2015 relatif à la délivrance du brevet d'officier chef de quart machine.
+
+|
+
 Tableau 3. - Attestations reconnues en lieu et place du CFBS pour la délivrance du brevet de mécanicien 750 kW en application du 4.2 de l'article 11 et du 3.2.2 de l'article 14
 
 ATTESTATION RECONNUE
 
-(1)
-
-|
+(1) |
 
 CONDITIONS COMPLÉMENTAIRES À SATISFAIRE PAR TOUT TITULAIRE
 
 de l'attestation mentionnée en colonne (1) pour la délivrance
 
-du brevet de mécanicien 750 kW (2)
-
-|
+du brevet de mécanicien 750 kW (2) |
 
 1. Attestation de suivi de la formation à la sécurité dispensée avant le 1er janvier 2014 aux marins pêcheurs et approuvée par le ministre chargé de la mer (a)
 
@@ -187,3 +179,7 @@ Dans ces deux cas, la restriction suivante doit être apposée sur le brevet de 
 (a) Pour tout service en mer d'un titulaire d'un brevet de mécanicien 750 kW à bord d'un navire armé au commerce ou à la plaisance, un CFBS en cours de validité pour exercer des fonctions à bord de navires armés au commerce ou à la plaisance reste requis.
 
 |
+
+ANNEXES II,III et IV
+
+Les annexes II, III et IV peuvent être consultées sur le site internet de l'unité des concours et examens maritimes (UCEM) : www.ucem-nantes.fr.

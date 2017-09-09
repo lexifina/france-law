@@ -26,7 +26,7 @@ Brevet détenu
 
 Conditions complémentaires à satisfaire par tout titulaire d'un brevet mentionné en colonne (1) pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de capitaine 3 000 (2) |
 
-1. Brevet de chef de quart passerelle délivré conformément à l'arrêté du 29 juin 2009 relatif à la délivrance du brevet de chef de quart passerelle ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de chef de quart passerelle délivré conformément à l'arrêté du 29 juin 2009 relatif à la délivrance du brevet de chef de quart passerelle, ou dans les conditions réglementaires applicables avant l'entrée en vigueur de cet arrêté, ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
 
 Satisfaire aux conditions du 1° de l'article 5. |
 
@@ -58,7 +58,7 @@ Brevet détenu
 
 Conditions complémentaires à satisfaire par tout titulaire d'un brevet mentionné en colonne (1) pour la délivrance du brevet de second capitaine 3 000 (2) |
 
-1. Brevet de chef de quart passerelle délivré conformément à l'arrêté du 29 juin 2009 relatif à la délivrance du brevet de chef de quart passerelle ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de chef de quart passerelle délivré conformément à l'arrêté du 29 juin 2009 relatif à la délivrance du brevet de chef de quart passerelle, ou dans les conditions réglementaires applicables avant l'entrée en vigueur de cet arrêté, ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
 
 Satisfaire aux conditions du 1° à 2° et du 4° à 9° de l'article 11. |
 
@@ -92,7 +92,7 @@ Satisfaire aux conditions du 1° à 3° et du 5° à 9° de l'article 11 et êtr
 
 3. Diplôme d'élève officier de deuxième classe de la marine marchande délivré conformément aux dispositions de l'arrêté du 24 juillet 1998 modifié relatif à la formation des officiers de deuxième classe de la marine marchande. |
 
-4. Ensemble des attestations des modules « tronc commun » et « conduite du navire » de la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande conformément à l'arrêté du 8 juin 2009 relatif à l'admission en formation et à la délivrance du diplôme d'études supérieures de la marine marchande. |
+4. Ensemble des attestations des modules tronc commun et conduite du navire de la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande conformément à l'arrêté du 8 juin 2009 relatif à l'admission en formation et à la délivrance du diplôme d'études supérieures de la marine marchande. |
 
 5. Diplôme d'études de la marine marchande conformément à l'arrêté du 25 mars 2002 relatif à la formation conduisant à la délivrance du diplôme d'études de la marine marchande. |
 

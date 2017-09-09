@@ -1,5 +1,7 @@
 # Article Annexe I
 
+ANNEXE I
+
 DISPOSITIONS CONCERNANT LES DIPLÔMES, ATTESTATIONS ET BREVETS RECONNUS
 
 Le tableau 1 ci-dessous précise les brevets reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de chef mécanicien et les conditions complémentaires à satisfaire à cet effet.
@@ -112,7 +114,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 9° de l'article 10, 
 
 2. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté ; et
 
-3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR). |
+3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR). |
 
 2. Diplôme d'études supérieures de la marine marchande délivré conformément aux dispositions applicables avant l'entrée en vigueur de l'arrêté du 30 juin 2014 susvisé. |
 
@@ -122,7 +124,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 9° de l'article 10, 
 
 2. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté, et
 
-3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR). |
+3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR). |
 
 3. Ensemble des attestations des modules tronc commun et énergie-propulsion de la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande conformément à l'arrêté du 8 juin 2009 relatif à l'admission en formation et à la délivrance du diplôme d'études supérieures de la marine marchande ou acquisition du groupe I et du groupe II conformément à l'arrêté du 25 mars 2002 relatif à la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande. |
 
@@ -134,7 +136,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 8° de l'article 10, 
 
 2. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté,
 
-3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR), et
+3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR), et
 
 4. Avoir accompli un service en mer d'une durée de douze mois au moins, en qualité d'officier breveté à la machine à bord d'un navire d'une puissance propulsive supérieure ou égale à 8 000 kW dans les cinq dernières années. |
 
@@ -164,7 +166,7 @@ Satisfaire aux conditions fixées aux 1°, 2° et 4° à 8° de l'article 13, et
 
 2. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté ; et
 
-3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR). |
+3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR). |
 
 2. Brevet de second polyvalent délivré conformément à l'arrêté du 26 août 2005 relatif à la délivrance du brevet de second polyvalent et du brevet de capitaine de 1re classe de la navigation maritime. |
 
@@ -174,7 +176,7 @@ Satisfaire aux conditions fixées aux 1°, 2° et 4° à 8° de l'article 13, et
 
 2. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté ; et
 
-3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR). |
+3. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR). |
 
 3. Brevet de capitaine de 2e classe de la navigation maritime délivré conformément au décret n° 85-379 du 27 mars 1985 relatif à la délivrance des titres de formation professionnelle maritime ou au décret n° 91-1187 du 20 novembre 1991 relatif à la délivrance des titres de formation professionnelle maritime. |
 
@@ -186,6 +188,6 @@ Satisfaire aux conditions fixées aux 1° à 2° et 4° à 7° de l'article 13, 
 
 3. Etre en mesure d'attester de ses compétences de base dans les systèmes électriques haute tension conformément aux dispositions de l'arrêté du 12 avril 2016 susvisé. Si cette condition n'est pas remplie, une restriction est mentionnée sur le brevet conformément à ce même arrêté ;
 
-4. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B2 du Cadre européen commun de référence pour les langues (CECR) ; et
+4. Etre titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR) ; et
 
 5. Avoir accompli un service en mer d'une durée de soixante mois au moins, en qualité d'officier breveté à la machine à bord d'un navire d'une puissance propulsive supérieure ou égale à 8 000 kW, dont douze mois au niveau de direction dans les cinq dernières années. |
