@@ -529,3 +529,35 @@ Notamment :
 5-APB-NBOMe ou 1-(benzofuran-5-yl)-N-[(2-méthoxyphényl)méthyl]propan-2-amine).
 
 RH-34 ou 3-[2-(2-méthoxybenzylamino)éthyl]-1H-quinazoline-2,4-dione
+
+- 3-fluorofentanyl ;
+
+- 4-fluorobutyr (yl) fentanyl ;
+
+- 4-méthoxybutyr (yl) fentanyl ;
+
+- acryl (oyl) fentanyl ;
+
+- beta-hydroxythiofentanyl ;
+
+- carfentanil ou carfentanyl ;
+
+- despropionylfentanyl ;
+
+- despropionyl-2-fluorofentanyl ;
+
+- furanylfentanyl ;
+
+- isobutyr (yl) fentanyl ;
+
+- méthoxyacétylfentanyl ;
+
+- ocfentanil ou ocfentanyl ;
+
+- para-chloroisobutyrfentanyl ou 4-chloroisobutyrfentanyl ;
+
+- para-fluoroisobutyr (yl) fentanyl ou 4-fluoroisobutyr (yl) fentanyl ou 4F-iBF ;
+
+- tétrahydrofuranylfentanyl ou THF-F ;
+
+- valerylfentanyl .
