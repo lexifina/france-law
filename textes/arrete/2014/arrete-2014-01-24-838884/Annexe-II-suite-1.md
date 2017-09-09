@@ -212,13 +212,13 @@ GRTgaz station de compression d'Entre-Deux-Guiers
 
 23 |
 
-20 |
+- |
 
-16 |
+- |
 
-12 |
+- |
 
-202 |
+154 |
 
 FR000000000000378 |
 
@@ -6858,23 +6858,23 @@ Stockage Souterrain de BEYNES
 
 |
 
-6 218
+-
 
 |
 
-5 250
+-
 
 |
 
-4 314
+-
 
 |
 
-3 413
+-
 
 |
 
-80 810
+61 615
 
 |
 
@@ -7674,23 +7674,23 @@ Chaufferie Urbaine Fossés Trempés Franconville
 
 |
 
-742
+1 483
 
 |
 
-627
+1 254
 
 |
 
-515
+1 031
 
 |
 
-408
+817
 
 |
 
-14 515
+16 808
 
 |
 
@@ -7722,23 +7722,23 @@ Chaufferie urbaine Logis Verts Franconville
 
 |
 
-1 758
+3 517
 
 |
 
-1 486
+2 972
 
 |
 
-1 222
+2 444
 
 |
 
-968
+1 936
 
 |
 
-20 944
+26 379
 
 |
 

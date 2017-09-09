@@ -5960,11 +5960,11 @@ FR000000000000172
 
 |
 
-CARGILL France SAS
+BUNGE France SAS
 
 |
 
-Cargill Brest
+BUNGE France SAS Usine de Brest
 
 |
 
@@ -6680,11 +6680,11 @@ FR000000000000189
 
 |
 
-VALAB
+KERVALIS ARMOR
 
 |
 
-VALAB
+VALAB SAS
 
 |
 
@@ -8436,19 +8436,19 @@ SOFREC-SEM
 
 |
 
-3 928
+-
 
 |
 
-3 848
+-
 
 |
 
-3 769
+-
 
 |
 
-30 328
+18 783
 
 |
 
@@ -12680,11 +12680,11 @@ FR000000000000345
 
 |
 
-DALKIA
+SNC COGESTAR
 
 |
 
-DALKIA-ARKEMA BALAN
+Cogénération Arkéma
 
 |
 
@@ -12776,11 +12776,11 @@ FR000000000000347
 
 |
 
-SNC COGESTAR
+KEM ONE (balan 01)
 
 |
 
-KEM ONE Balan
+KEM ONE (balan 01)
 
 |
 

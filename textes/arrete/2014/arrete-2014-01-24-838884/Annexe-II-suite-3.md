@@ -364,6 +364,32 @@ SICA PULPE HAUTE-PICARDIE
 
 |
 
+FR-new-05102362
+
+|
+
+AJINOMOTO FOODS EUROPE |
+
+AJINOMOTO FOODS EUROPE NESLE |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-05102507
 
 |
@@ -2408,11 +2434,11 @@ FR-new-05501399
 
 |
 
-COOPEDOM
+DESHYOUEST
 
 |
 
-COOPEDOM
+DESHYOUEST
 
 |
 
@@ -6656,11 +6682,11 @@ FR-new-06108774
 
 |
 
-RHODIA OPERATIONS
+RHODIA ACETOW FRANCE
 
 |
 
-RHODIA OPERATIONS ROUSSILLON
+RHODIA ACETOW ROUSSILLON
 
 |
 
@@ -6920,7 +6946,7 @@ FR-new-06111616
 
 |
 
-GIE FERA69
+COLAS Rhône-Alpes Auvergne
 
 |
 
@@ -7150,13 +7176,11 @@ FR-new-06201019
 
 |
 
-GROUPE France
-
-CERAM
+Céramiques de Forbach
 
 |
 
-FORBACH CERAMICS
+Céramiques de Forbach
 
 |
 
@@ -7586,23 +7610,25 @@ Hauconcourt enrobés |
 
 Hauconcourt enrobés |
 
-/ |
+1 750 |
 
-/ |
+1 566 |
 
-/ |
+1 388 |
 
-/ |
+1 215 |
 
-/ |
+1 047
 
-/ |
+|
 
-/ |
+885 |
 
-/ |
+728 |
 
-/ |
+576 |
+
+9 155 |
 
 FR-new-06208919
 
@@ -8641,30 +8667,6 @@ FR-new-06410834 |
 JEAN LEFEBVRE FOS |
 
 JEAN LEFEBVRE MEDITERANNEE |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-FR-new-06412599 |
-
-CENTRALE TEMPORAIRE COLAS-La Motte |
-
-COLAS MIDI MEDITERRANEE |
 
 / |
 
@@ -12056,23 +12058,23 @@ Société européenne de véhicules légers du Nord
 
 |
 
-18 977
+33 863
 
 |
 
-18 607
+33 203
 
 |
 
-18 232
+32 534
 
 |
 
-17 856
+31 863
 
 |
 
-155 144
+212 935
 
 |
 

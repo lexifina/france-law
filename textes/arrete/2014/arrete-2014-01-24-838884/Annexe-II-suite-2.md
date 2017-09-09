@@ -152,7 +152,7 @@ FR000000000000727
 
 |
 
-COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
+CPCU
 
 |
 
@@ -176,23 +176,23 @@ CPCU-Bercy
 
 |
 
-12 337
+24 674
 
 |
 
-10 417
+20 834
 
 |
 
-8 559
+17 118
 
 |
 
-6 772
+13 543
 
 |
 
-149 911
+187 995
 
 |
 
@@ -296,7 +296,7 @@ FR000000000000730
 
 |
 
-COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
+CPCU
 
 |
 
@@ -316,27 +316,27 @@ CPCU-Grenelle
 
 |
 
-13 755
+27 510
 
 |
 
-11 850
+23 699
 
 |
 
-10 005
+20 010
 
 |
 
-8 221
+16 443
 
 |
 
-6 504
+13 008
 
 |
 
-141 221
+191 556
 
 |
 
@@ -3416,11 +3416,11 @@ FR000000000000826
 
 |
 
-ARLANXEO Performance Elastomers
+ARLANXEO Emulsion Rubber France SAS
 
 |
 
-ARLANXEO Performance Elastomers
+ARLANXEO Emulsion Rubber France SAS
 
 |
 
@@ -6128,23 +6128,23 @@ Société de la raffinerie de Dunkerque
 
 |
 
-244 820
+-
 
 |
 
-240 047
+-
 
 |
 
-235 213
+-
 
 |
 
-230 363
+-
 
 |
 
-1 976 505
+1 026 062
 
 |
 
@@ -8408,11 +8408,11 @@ FR000000000000978
 
 |
 
-CONTINENTALE NUTRITION
+C & D Foods France
 
 |
 
-Continentale Nutrition - site Montébello
+C & D Foods France, rue d'Isly
 
 |
 
@@ -13498,11 +13498,11 @@ FR000000000001137
 
 |
 
-Tereos Benp
+TEREOS STARCH & SWEETENERS LBN
 
 |
 
-Tereos Benp (ex-BENP Lillebonne)
+TEREOS STARCH & SWEETENERS LBN Lillebonne
 
 |
 
