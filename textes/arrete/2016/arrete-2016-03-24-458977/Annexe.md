@@ -1,3 +1,3 @@
 # Article Annexe
 
-Les annexes II b, II c et IV seront consultables en ligne au Bulletin officiel de l'éducation nationale en date du 12 mai 2016 sur le site http://www.education.gouv.fr. L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://eduscol.education.fr/diplomes-professionnels.
+Conformément à l'article 2 de l'arrêté du 28 juillet 2017, les annexes I a, I b, I c, II a, II b, II c, III et IV sont remplacées par les annexes I a, I b et I c, II a, II b, II c, III et IV dudit arrêté et sont consultables à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000035542942
