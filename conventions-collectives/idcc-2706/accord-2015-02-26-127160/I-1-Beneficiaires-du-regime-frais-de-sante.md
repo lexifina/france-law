@@ -1,8 +1,8 @@
 # Article I.1. Bénéficiaires du régime frais de santé
 
-Sont bénéficiaires du régime frais de santé obligatoire tous les salariés de la convention collective nationale de branche justifiant d'une ancienneté continue de 3 mois dans l'étude.
+Sont bénéficiaires du régime frais de santé obligatoire tous les salariés de la convention collective nationale de branche.
 
-Ainsi on entend par bénéficiaires tous les salariés inscrits à l'effectif de l'étude ayant plus de 3 mois d'ancienneté :
+Ainsi on entend par bénéficiaires tous les salariés inscrits à l'effectif de l'étude :
 
 – sans distinction du fait qu'ils travaillent à temps plein ou à temps partiel ;
 
