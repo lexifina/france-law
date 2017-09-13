@@ -1,0 +1,7 @@
+# Article 1er
+
+Le chapitre V « Dispositions générales » du régime de prévoyance de l'accord du 5 février 2009 est complété de la disposition suivante.
+
+« Depuis le 1er janvier 2016, la loi n° 2014-617 du 13 juin 2014 impose à l'organisme assureur la revalorisation post mortem des capitaux à compter du décès du participant assuré. Son décret d'application n° 2015-1092 du 28 août 2015 est venu notamment préciser le taux minimal de revalorisation post mortem applicable.
+
+En conséquence et afin de répondre à ces exigences réglementaires, le contrat d'assurance couvrant le présent régime de prévoyance devra aménager les obligations de l'organisme assureur auprès duquel le contrat est souscrit, aux conditions de couverture du régime. »
