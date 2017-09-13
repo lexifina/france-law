@@ -68,14 +68,6 @@ Centre hospitalier et universitaire de Créteil.
 
 |
 
-Aix-Marseille-II
-
-|
-
-Médecine.
-
-|
-
 Amiens
 
 |
@@ -101,14 +93,6 @@ Sciences médicales I.
 |
 
 Caen
-
-|
-
-Médecine.
-
-|
-
-Clermont-Ferrand
 
 |
 
@@ -165,14 +149,6 @@ Médecine Sainte-Eugénie.
 |
 
 Saint-Etienne
-
-|
-
-Médecine.
-
-|
-
-Montpellier-I
 
 |
 
@@ -261,14 +237,6 @@ Rouen
 |
 
 Médecine et pharmacie.
-
-|
-
-Strasbourg-I
-
-|
-
-Sciences médicales.
 
 |
 
