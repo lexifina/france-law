@@ -1,0 +1,3 @@
+# Article 5 bis
+
+Par dérogation aux dispositions de l'article R. 14-10-38-1 du code de l'action sociale et des familles , pour les années 2016 et 2017, si le montant de la seconde part du concours mentionnée au 2° du I de l'article L. 14-10-6 du même code, attribué à un département en application de la méthode de calcul définie au I de l'article R. 14-10-38-1 du même code, est inférieur à la somme de l'évolution de sa dépense d'allocation personnalisée d'autonomie à domicile entre 2015 et l'année au titre de laquelle le concours est attribué et de la part qui lui est attribuée au titre de l'avenant mentionné au 2° du I de l'article R. 14-10-38-1 du même code, le montant de la seconde part du concours qui lui est attribué est égal à cette somme.
