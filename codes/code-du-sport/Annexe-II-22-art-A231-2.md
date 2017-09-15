@@ -1,4 +1,4 @@
-# Article Annexe II-22(art. A231-1)
+# Article Annexe II-22(art. A231-2)
 
 Renouvellement de licence d'une fédération sportive
 
