@@ -112,7 +112,9 @@ b) Un plan de situation permettant d'identifier l'emprise immobilière et la zon
 
 c) Un plan de masse à l'échelle 1/100e faisant apparaître l'ensemble des surfaces couvertes et indiquant l'emplacement des matériels de contrôle ;
 
-d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe.
+d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présente annexe ;
+
+e) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
 
 6. L'engagement du demandeur à respecter le cahier des charges susvisé.
 
@@ -138,23 +140,19 @@ Dans le cas d'un changement de titulaire de l'agrément, tel que prévu au point
 
 Dans le cas d'un changement de réseau de rattachement, tel que prévu au point 3.1.3 ci-dessus, le centre doit déposer sa demande au minimum deux mois avant la date de changement de réseau de rattachement mentionnée sur la demande d'agrément.
 
+L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé l'exploitant du centre, dans le cadre de l'article 17-1 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du centre et qu'aucune suspension d'agrément n'a été notifiée.
+
 3.2. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui sont imposées.
 
 Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 17-1 et 17-2.
 
-3.3. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler à la préfecture les modifications suivantes :
+3.3. Le titulaire de l'agrément du centre de contrôle ou le réseau signalent à la préfecture les modifications suivantes :
 
-3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément ;
+3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément. Dans ce cas, le titulaire de l'agrément du centre ou le réseau transmettent également le rapport d'audit favorable du réseau suite aux travaux effectués dans un délai maximal de 2 mois après les modifications. Si le préfet considère que les modifications apportées ne permettent plus de respecter les dispositions du présent arrêté, l'agrément du centre peut être suspendu ou retiré conformément aux dispositions de l'article 17-1 du présent arrêté.
 
-3.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés.
+3.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés. Dans ce cas, le titulaire de l'agrément du centre ou le réseau transmettent également un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément et au réseau la prise en compte de la modification d'agrément.
 
-3.3.3. Pour une personne morale, changement du représentant légal.
-
-Dans le cas prévu au paragraphe 3.3.1 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre le rapport d'audit favorable du réseau suite aux travaux effectués dans un délai maximal de deux mois après les modifications. Si le préfet considère que les modifications apportées ne permettent plus de respecter les dispositions du présent arrêté, l'agrément du centre peut être suspendu ou retiré conformément aux dispositions de l'article 17-1 du présent arrêté.
-
-Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément et au réseau de rattachement la prise en compte de la modification d'agrément.
-
-Dans le cas prévu au paragraphe 3.3.3 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre un justificatif d'existence légal à jour.
+3.3.3. Pour une personne morale, changement du représentant légal. Dans ce cas, le titulaire de l'agrément du centre ou le réseau transmettent également un justificatif d'existence légal à jour.
 
 3.4. La description de l'organisation et des moyens matériels ainsi que la liste des contrôleurs rattachés prévues au a du 5 du I du présent chapitre sont tenues à jour et mises à disposition des services de l'Etat.
 
@@ -220,7 +218,9 @@ e) Les procédures internes du centre de contrôle permettant de s'assurer du re
 
 - Gestion de l'outillage spécifique gaz, pour les centres concernés.
 
-f) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté
+f) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté ;
+
+g) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
 
 II. - Demande d'agrément
 
@@ -238,19 +238,21 @@ III. - Modifications du dossier d'agrément
 
 3.1.3. Le changement de mode de rattachement.
 
-3.1.4. Changement de localisation de centre.
+3.1.4. (Abrogé).
 
-Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre à la date mentionnée sur la lettre d'information transmise par le titulaire de l'agrément. L'annulation est également prononcée sur demande du bénéficiaire ou lorsque le préfet constate que l'un des cas visés ci-dessus est manifestement rempli et que le bénéficiaire de l'agrément ne l'en a pas informé. La décision de notification de l'agrément est notifiée au centre de contrôle et à l'organisme technique central.
+Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre à la date mentionnée sur la lettre d'information transmise par le titulaire de l'agrément. L'annulation est également prononcée sur demande du bénéficiaire ou lorsque le préfet constate que l'un des cas visés ci-dessus est manifestement rempli et que le bénéficiaire de l'agrément ne l'en a pas informé. La décision d'annulation de l'agrément est notifiée au centre de contrôle et à l'organisme technique central.
 
 Dans le cas d'un changement de titulaire de l'agrément, tel que prévu au point 3.1.2 ci-dessus, le demandeur doit déposer sa demande au minimum deux mois avant la date de la reprise du centre mentionnée sur la demande d'agrément.
 
 Dans le cas où le centre de contrôle devient un centre rattaché à un réseau, tel que prévu au point 3.1.3 ci-dessus, le titulaire de l'agrément doit appliquer les dispositions du point 3.1.3 du paragraphe III du chapitre II de la présente annexe.
 
+L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé l'exploitant du centre, dans le cadre de l'article 17-1 de l'arrêté du 18 juin 1991 modifié relatif à la mise en place et à l'organisation du contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes qu'il envisage de suspendre ou de retirer l'agrément du centre et qu'aucune suspension d'agrément n'a été notifiée.
+
 3.2. Le titulaire de l'agrément du centre de contrôle doit signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui sont imposées.
 
 Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 17-1 et 17-2.
 
-3.3. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler à la préfecture les modifications suivantes :
+3.3. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
 3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément, dans un délai maximal de 2 mois après les modifications. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux travaux effectués. Si le préfet considère que les modifications apportées ne permettent plus de respecter les dispositions du présent arrêté, l'agrément du centre peut être suspendu ou retiré conformément aux dispositions de l'article 17-1 du présent arrêté.
 
@@ -390,7 +392,7 @@ Renseignements généraux
 
 Nom ou raison sociale du demandeur de l'agrément :
 
-Enseigne commerciale :
+Nom commercial :
 
 Adresse :
 
@@ -446,7 +448,7 @@ Date, signature et cachet ;
 
 APPENDICE 7 : AGREMENT D'UN CENTRE DE CONTROLE DES VEHICULES LEGERS NON-RATTACHE A UN RESEAU AVIS DE L'ORGANISME TECHNIQUE CENTRAL
 
-APPENDICE 8 : AGREMENT D'UNE INSTALLATION AUXILIAIRE POUR LE CONTROLE DES VEHICULES LEGERS AVIS DE L'ORGANISME TECHNIQUE CENTRAL
+APPENDICE 8 : (Abrogé).
 
 APPENDICE 9 : NOTIFICATION DE CHANGEMENT DE CENTRE DE RATTACHEMENT D'UN CONTROLEUR DE VÉHICULES LÉGERS
 
