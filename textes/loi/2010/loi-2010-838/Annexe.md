@@ -270,9 +270,7 @@ Commission compétente en matière de finances publiques |
 
 Présidence du collège du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur |
 
-Commission compétente en matière d'enseignement et de recherche
-
-|
+Commission compétente en matière d'enseignement et de recherche |
 
 Présidence du collège de la Haute Autorité de santé
 
@@ -321,6 +319,10 @@ Direction générale de l'institution nationale publique mentionnée à l'articl
 Commission compétente en matière d'emploi
 
 |
+
+Médiateur du crédit aux candidats et aux partis politiques |
+
+Commission compétente en matière de lois électorales |
 
 Présidence-direction générale de Météo-France
 
