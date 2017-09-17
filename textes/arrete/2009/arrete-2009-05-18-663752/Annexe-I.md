@@ -2,535 +2,315 @@
 
 POSTES D'INSPECTION FRONTALIERS
 
-NOM |
+Nom |
 
-CODE TRACES |
+Code Traces |
 
-TYPE |
+Type |
 
-CENTRE D'INSPECTION |
+Centre d'inspection |
 
-PRODUITS |
+Produits |
 
-ANIMAUX VIVANTS |
+Animaux vivants |
 
-Bordeaux
+Bordeaux |
 
-|
+FR BOD 4 |
 
-FR BOD 4
-
-|
-
-Aéroport
+Aéroport |
 
 |
 
-|
-
-HC-T (1), HC-NT, NHC
+HC-NT (1), HC-T (CH) (1), NHC-NT, NHC-T (CH) |
 
 |
 
-|
+Bordeaux |
 
-Bordeaux
+FR BOD 1 |
 
-|
-
-FR BOD 1
+Port |
 
 |
 
-Port
+HC-NT (f) |
 
 |
 
-|
+Brest |
 
-HC-NT
+FR BES 1 |
 
-|
-
-|
-
-Brest
+Port |
 
 |
 
-FR BES 1
+HC (1) (2), NHC |
 
 |
 
-Port
+Châteauroux-Déols (g) |
+
+FR CHR 4 |
+
+Aéroport |
 
 |
 
-|
-
-HC (1) (2), NHC
+HC-T (2) |
 
 |
 
-|
+Deauville |
 
-Châteauroux-Déols
+FR DOL 4 |
 
-|
-
-FR CHR 4
-
-|
-
-Aéroport
+Aéroport |
 
 |
 
 |
 
-HC-T (2)
+E |
 
-|
-
-|
-
-Deauville
-
-|
-
-FR DOL 4
-
-|
-
-Aéroport
-
-|
-
-|
-
-|
-
-E
-
-|
-
-Dunkerque
-
-|
+Dunkerque |
 
 FR DKK 1 |
 
 Port |
 
-Caraïbes
+Route des Amériques |
 
-|
-
-HC-T (1), HC-NT
-
-|
-
-|
-
-Maison Blanche
-
-|
-
-NHC-NT
-
-|
-
-|
-
-Le Havre
-
-|
-
-FR LEH 1
-
-|
-
-Port
-
-|
-
-Route des Marais
-
-|
-
-HC-T (1), HC-NT, NHC
-
-|
-
-|
-
-Dugrand
-
-|
-
-HC-T (FR) (1) (2)
-
-|
-
-|
-
-EFBS
-
-|
-
-HC-T (1) (2)
-
-|
-
-|
-
-Fécamp
-
-|
-
-HC-NT (6), NHC-NT (6)
-
-|
-
-|
-
-Lorient
-
-|
-
-FR LRT 1
-
-|
-
-Port
-
-|
-
-CCIM
-
-|
-
-NHC-NT (4)
-
-|
-
-|
-
-Lyon-Saint-Exupéry
-
-|
-
-FR LIO 4
-
-|
-
-Aéroport
-
-|
-
-|
-
-HC-T (1), HC-NT, NHC
-
-|
-
-|
-
-Marseille Port
-
-|
-
-FR MRS 1
+HC-T (1) (2), HC-NT (1) (2), NHC-T (1) (2), NHC-NT (1) (2) |
 
 |
 
-Port
-
-|
+Le Havre |
 
-Hangar 14
+FR LEH 1 |
 
-|
+Port |
 
-|
+Route des marais |
 
-E
+HC-T (1), HC-NT, NHC |
 
 |
 
-Hangar 23
+Dugrand |
 
-|
+HC-T (FR) (1) (2) |
 
-HC-T (1) (2), HC-NT (2)
-
 |
 
-|
+EFBS |
 
-Marseille-Fos-sur-Mer
+HC-T (FR) (1) (2) |
 
 |
 
-FR FOS 1
+Fécamp |
 
-|
-
-Port
+HC-NT (6), NHC-NT (6) |
 
 |
 
-|
+Lorient (g) |
 
-HC-T (1), HC-NT, NHC
+FR LRT 1 |
 
-|
+Port |
 
-|
+CCIM |
 
-Marseille aéroport
+NHC-NT (4) |
 
 |
 
-FR MRS 4
+Lyon-Saint-Exupéry |
 
-|
+FR LIO 4 |
 
-Aéroport
+Aéroport |
 
 |
 
-|
+HC-T (1), HC-NT, NHC |
 
-HC-T (1) (2), HC-NT
+E |
 
-|
+Marseille Port |
 
-O (e)
+FR MRS 1 |
 
-|
+Port |
 
-Nantes-Saint-Nazaire
+Hangar 14 |
 
 |
-
-FR NTE 1
 
-|
+E, U (h) |
 
-Port
+Hangar 23 |
 
-|
+HC-T (1) (2), HC-NT (2) |
 
 |
 
-HC-T (1), HC-NT, NHC-NT
+Marseille-Fos-sur-Mer |
 
-|
-
-|
+FR FOS 1 |
 
-Nice
+Port |
 
 |
 
-FR NCE 4
+HC-T (1), HC-NT, NHC |
 
 |
 
-Aéroport
-
-|
+Marseille aéroport |
 
-|
+FR MRS 4 |
 
-HC-T (CH) (1) (2), NHC-NT (2)
+Aéroport |
 
 |
 
-O (c)
+HC-T (1) (2), HC-NT |
 
-|
+O (e) |
 
-Orly
+Nantes-Saint-Nazaire |
 
-|
+FR NTE 1 |
 
-FR ORY 4
+Port |
 
 |
 
-Aéroport
+HC-T (1), HC-NT, NHC-NT |
 
 |
 
-SFS
+Nice |
 
-|
+FR NCE 4 |
 
-HC-T (1) (2), HC-NT (2), NHC-NT
+Aéroport |
 
 |
 
-|
+HC-T (CH) (1) (2), NHC-NT (2) |
 
-Réunion-Port Réunion
+O (c) |
 
-|
+Orly |
 
-FR LPT 1
+FR ORY 4 |
 
-|
+Aéroport |
 
-Port
+SFS |
 
-|
+HC-T (1) (2), HC-NT (2), NHC-NT |
 
 |
 
-HC (1) (2), NHC-T (FR) (2), NHC-NT
+Réunion-Port Réunion |
 
-|
-
-|
+FR LPT 1 |
 
-Réunion-Roland-Garros
+Port |
 
 |
 
-FR RUN 4
+HC (1) (2), NHC-T (FR) (2), NHC-NT |
 
 |
-
-Aéroport
 
-|
+Réunion-Roland-Garros |
 
-|
+FR RUN 4 |
 
-HC (1), NHC
+Aéroport |
 
 |
 
-O
+HC (1), NHC |
 
-|
+O |
 
-Roissy-Charles-de-Gaulle
-
-|
+Roissy-Charles-de-Gaulle |
 
 FR CDG 4 |
 
 Aéroport |
 
-Air France
+Air France Cargo |
+
+HC-T (1), HC-NT, NHC-NT |
 
 |
 
-HC-T (1), HC-NT, NHC-NT
+France Handling |
+
+HC-T (1), HC-NT, NHC |
 
 |
 
-|
-
-France Handling
-
-|
-
-HC-T (1), HC-NT, NHC
-
-|
-
-|
-
-Station animalière
-
-|
+Station animalière |
 
 |
 
 E, U, O (a) |
 
-Rouen
+Rouen |
+
+FR URO 1 |
+
+Port |
 
 |
 
-FR URO 1
+HC-T (1) (2), HC-NT (2), NHC |
 
 |
 
-Port
+Sète |
+
+FR SET 1 |
+
+Port |
 
 |
 
-|
-
-HC-T (1) (2), HC-NT (2), NHC
+HC (1) (2), NHC-NT |
 
 |
 
-|
+Toulouse-Blagnac |
 
-Sète
+FR TLS 4 |
 
-|
-
-FR SET 1
+Aéroport |
 
 |
 
-Port
+HC-T (1) (2), HC-NT (2), NHC (2) |
+
+O (d) |
+
+Vatry (g) |
+
+FR VRY 4 |
+
+Aéroport |
 
 |
 
-|
-
-HC (1) (2), NHC-NT
-
-|
-
-|
-
-Toulouse-Blagnac
-
-|
-
-FR TLS 4
-
-|
-
-Aéroport
-
-|
-
-|
-
-HC-T (1) (2), HC-NT (2), NHC (2)
-
-|
-
-O (d)
-
-|
-
-Vatry
-
-|
-
-FR VRY 4
-
-|
-
-Aéroport
-
-|
-
-|
-
-HC-T (CH) (1) (2), NHC-NT (2)
-
-|
+HC-T (CH) (1) (2) NHC-NT (2) |
 
 |
 
@@ -564,13 +344,19 @@ O = Autres animaux (y compris animaux de zoo).
 
 (a) Autres animaux, à l'exception des espèces animales venimeuses.
 
-b) (supprimé)
+(b) (supprimé)
 
-c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
+(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
 
-d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.
+(d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.
 
 (e) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, amphibiens et rongeurs, présentés en containers fermés.
+
+(f) Uniquement les produits conditionnés en fûts.
+
+(g) Poste frontalier à statut occasionnel dans lequel les contrôles ne peuvent être réalisés que par les agents cités à l'article L. 231-2 du Code rural et de la pêche maritime, intervenant dans un poste frontalier à activité permanente et compétents pour la réalisation de contrôles vétérinaires à l'importation.
+
+(h) restreint aux seuls équidés d'élevage et de rente.
 
 (*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
