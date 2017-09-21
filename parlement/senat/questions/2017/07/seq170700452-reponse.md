@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700452
+
+- Question : [SEQ170700452](seq170700452.md) — Droit de préemption sur les fonds de commerce
+
+## Réponse
+
+*Intérieur, JO du 2017-09-21, page 2921*
+
+L'article L. 2122-22 du code général des collectivités territoriales (CGCT) offre la possibilité au conseil municipal de confier l'exercice des droits de préemption au maire (15°) ou uniquement de lui confier le droit de préemption des fonds artisanaux, des fonds de commerce, des baux commerciaux et des terrains faisant l'objet de projets d'aménagement commercial (21°), ou de déléguer l'exercice de ces droits. Les articles L. 214-1 et suivants du code de l'urbanisme définissent et encadrent le droit de préemption des communes sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial. Ces articles font partie du titre Ier du livre II du code de l'urbanisme relatif aux droits de préemption. Dans la mesure où le 15° de l'article L. 2122-22 du CGCT permet au conseil municipal de confier au maire l'exercice des droits de préemption, cette possibilité doit être entendue au sens large, et comprenant tous les droits de préemption prévus par le titre Ier du livre II du code de l'urbanisme, sauf dispositions contraires. En conséquence, si une commune a délibéré pour confier au maire l'exercice des droits de préemption du titre Ier du livre II du code de l'urbanisme, il n'est pas nécessaire de prendre une nouvelle délibération spécifique à la délégation au maire de l'exercice du droit de préemption sur les fonds de commerce, à condition que la délibération initiale n'entendait pas exclure ce type de préemption. En tout état de cause, les dispositions spécifiques relatives au droit de préemption sur les fonds de commerce (L. 214-1 et suivants ainsi que R. 214-1 et suivants du code de l'urbanisme) devront toujours être respectées.
