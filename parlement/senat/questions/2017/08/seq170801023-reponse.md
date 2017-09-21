@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801023
+
+- Question : [SEQ170801023](seq170801023.md) — Marchés publics de prestations intellectuelles
+
+## Réponse
+
+*Intérieur, JO du 2017-09-21, page 2925*
+
+Aux termes de l'article 51-I de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics : « Les acheteurs ne peuvent imposer aux candidats que des conditions de participation à la procédure de passation propres à garantir qu'ils disposent de l'aptitude à exercer l'activité professionnelle, de la capacité économique et financière ou des capacités techniques et professionnelles nécessaires à l'exécution du marché public. Ces conditions sont liées et proportionnées à l'objet du marché public ou à ses conditions d'exécution. » De même, conformément à son article 52, les acheteurs choisissent le titulaire du marché « sur la base d'un ou plusieurs critères objectifs, précis et liés à l'objet du marché public ou à ses conditions d'exécution. » Il en ressort que, quel que soit le stade de la procédure auquel l'acheteur demande aux candidats de préciser leurs moyens matériels, cette précision doit être nécessairement liée à l'objet du marché et proportionnée. Dans ces conditions, il appartient à l'acheteur de démontrer, le cas échéant, la pertinence de demander à un candidat de préciser ses moyens matériels si le marché porte sur des prestations intellectuelles, sous réserve de l'appréciation souveraine du juge (CE, 22 décembre 2008, Ville de Marseille, n° 314244). Par ailleurs, même si une telle obligation figure dans le règlement de consultation, qui est obligatoire en tous ses éléments (CE, 23 novembre 2005, S. A. R. L. Axialogic, n° 267494), l'acheteur « peut s'affranchir des exigences du règlement de consultation quand la fourniture des éléments demandés ne présente pas d'utilité pour l'appréciation de l'offre » (CE, 22 décembre 2008, Ville de Marseille, précité).
