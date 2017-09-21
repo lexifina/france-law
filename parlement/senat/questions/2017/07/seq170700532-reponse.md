@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700532
+
+- Question : [SEQ170700532](seq170700532.md) — Projet de rationalisation du ministère des armées à Balard
+
+## Réponse
+
+*Armées, JO du 2017-09-21, page 2919*
+
+Le nouveau site du ministère des armées situé à Balard (Paris 15ème) a été inauguré par le président de la République le 5 novembre 2015. Accueillant plus de 9 000 personnes et abritant 3 000 bureaux sur une superficie totale de plus de 16 hectares, l'hexagone Balard regroupe désormais directions centrales et états-majors des armées. Cette opération immobilière d'envergure a permis d'améliorer substantiellement les conditions de travail des personnels, tout en rationalisant les moyens de fonctionnement. La densification de ce site se poursuit comme en atteste la livraison de deux nouveaux bâtiments prévue en 2018. Le regroupement des services sur le site de Balard a eu pour effet de libérer tout ou partie d'une douzaine d'emprises parisiennes. Plusieurs d'entre elles ont déjà été cédées comme celles de Penthemont-Bellechasse, de la Pépinière, de Saint-Thomas d'Aquin, de La Tour-Maubourg ou de Lourcine. Dans ce contexte, la cession d'une large fraction de l'Îlot Saint-Germain (Paris 7ème) constitue un objectif prioritaire pour le ministère. Cette cession est en cours concernant deux ensembles qui devraient être aliénés selon des modalités différentes compte tenu de l'accord conclu en 2016 entre l'État et la ville de Paris. Elle devrait notamment permettre la construction de logements sociaux et d'équipements publics. Seule sera conservée dans le patrimoine de l'État la partie de l'Îlot centrée sur l'Hôtel de Brienne. Cet édifice constitue en effet un lieu emblématique de la République où se sont succédé de nombreux hommes d'État et des militaires illustres et où des décisions majeures ont été prises pour préserver la liberté et l'indépendance nationale de la France.
