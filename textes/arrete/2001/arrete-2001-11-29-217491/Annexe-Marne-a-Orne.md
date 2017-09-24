@@ -210,6 +210,56 @@ C
 
 |
 
+Direction départementale des territoires de Meurthe-et-Moselle
+
+FONCTIONS EXERCÉES |
+
+NIVEAU
+
+de qualification
+
+de l'emploi |
+
+NOMBRE
+
+d'emplois |
+
+NOMBRE DE POINTS
+
+(IM) par emploi |
+
+Chef du service habitat et constructions durables |
+
+A |
+
+1 |
+
+30 points |
+
+Adjoint au chef du service habitat et constructions durables |
+
+A |
+
+1 |
+
+30 points |
+
+Adjoint au chef de l'unité parc logement social public |
+
+B |
+
+1 |
+
+30 points |
+
+Chargé de projet au sein de l'unité programme de rénovation urbaine |
+
+B |
+
+1 |
+
+30 points |
+
 Direction départementale de l'équipement et de l'agriculture (2) de Meurthe-et-Moselle
 
 FONCTIONS EXERCEES
@@ -987,3 +1037,5 @@ A
 NOTA :
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+
+Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1725827A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle entrent en vigueur le 1er octobre 2017.
