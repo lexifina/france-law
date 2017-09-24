@@ -326,7 +326,7 @@ Objet du contrôle :
 
 L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site. L'ensemble du site est maintenu en bon état de propreté (peinture, plantations, engazonnement, etc.).
 
-2.3.(*)
+2.3. (*)
 
 2.4. Comportement au feu des structures
 
@@ -466,7 +466,7 @@ Objet du contrôle :
 
 Toutes les installations électriques sont entretenues en bon état et sont contrôlées, après leur installation ou leur modification par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs auxdites vérifications sont fixés par l'arrêté du 10 octobre 2000 susvisé.
 
-3.7. (*)
+3.7.(*)
 
 4. Risques
 
@@ -746,9 +746,9 @@ Objet du contrôle pour les systèmes de détection de fuite :
 
 Objet du contrôle pour les réservoirs simple enveloppe :
 
-- présentation des certificats d'épreuves par un organisme agréé (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation des certificats d'épreuves par un organisme accrédité (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présentation des certificats de nettoyage/dégazage et contrôle visuel par un organisme habilité (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation des certificats de nettoyage/dégazage et contrôle visuel (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présentation de justificatifs attestant de la réalisation d'un premier contrôle d'étanchéité et démontrant le respect de la périodicité depuis le dernier contrôle réalisé (le non-respect de ce point relève d'une non-conformité majeure) ;
 
@@ -954,7 +954,7 @@ est également reconnu.
 
 6.1.2.6. Maintenance du système de récupération
 
-L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe III du présent arrêté jusqu'au 20 août 2016 inclus puis à la norme NF EN 16321-2 version de novembre 2013 à compter du 20 août 2016. Les résultats de ces mesures sont tenus à disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques pendant un délai d'au moins six ans.
+L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe III du présent arrêté jusqu'au 20 août 2016 inclus puis à la norme NF EN 16321-2 version de novembre 2013 à compter du 21 août 2016. Les résultats de ces mesures sont tenus à disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques pendant un délai d'au moins six ans.
 
 Objet du contrôle : présentation du dernier certificat de contrôle de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -1022,7 +1022,7 @@ Objet du contrôle :
 
 - présentation des registres de déclaration d'élimination des déchets et des bordereaux de suivi.
 
-7.3.(*)
+7.3. (*)
 
 7.4. (*)
 

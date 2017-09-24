@@ -2,7 +2,7 @@
 
 Contrôle d'étanchéité des canalisations
 
-1. Le contrôle d'étanchéité des canalisations enterrées doit être effectué par un organisme agréé par le ministère chargé des Installations classées pour la protection de l'environnement.
+1. Le contrôle d'étanchéité des canalisations enterrées doit être effectué par un organisme accrédité par le COFRAC ou par un organisme d'accréditation signataire de l'accord multilatéral de reconnaissance mutuelle pris dans le cadre de la coopération européenne des organismes d'accréditation (European Cooperation).
 
 2. Le contrôle d'étanchéité des canalisations enterrées est réalisé soit par une réépreuve hydraulique soit par une autre technique examinée et validée par le ministère chargé des Installations classées pour la protection de l'environnement.
 

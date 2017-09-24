@@ -2,11 +2,11 @@
 
 Nettoyage et contrôle d'étanchéité des réservoirs
 
-1. Le nettoyage et le contrôle d'étanchéité des réservoirs enterrés doivent être effectués par un ou plusieurs organismes agréés par le ministère chargé des Installations classées pour la protection de l'environnement.
+1. Le contrôle d'étanchéité des réservoirs enterrés doivent être effectués par un ou plusieurs organismes accrédités par le COFRAC ou par un organisme d'accréditation signataire de l'accord multilatéral de reconnaissance mutuelle pris dans le cadre de la coopération européenne des organismes d'accréditation (European Cooperation).
 
 2. Le contrôle d'étanchéité est réalisé soit par une réépreuve hydraulique soit par une autre technique examinée et validée par le ministère chargé des Installations classées pour la protection de l'environnement.
 
-3. Sans préjudice des dispositions du code du travail, les organismes chargés de réaliser le nettoyage et la réépreuve hydraulique des réservoirs enterrés doivent respecter les dispositions ci-après :
+3. Sans préjudice des dispositions du code du travail, les entreprises et les organismes chargés de réaliser le nettoyage et la réépreuve hydraulique des réservoirs enterrés doivent respecter les dispositions ci-après :
 
 1. Le personnel de l'équipe d'intervention
 

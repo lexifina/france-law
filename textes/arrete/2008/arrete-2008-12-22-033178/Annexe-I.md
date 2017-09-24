@@ -494,9 +494,9 @@ Objet du contrôle pour les systèmes de détection de fuite :
 
 Objet du contrôle pour les réservoirs simple enveloppe :
 
-- présentation des certificats d'épreuves par un organisme agréé (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation des certificats d'épreuves par un organisme accrédité (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présentation des certificats de nettoyage/dégazage et contrôle visuel par un organisme habilité (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation des certificats de nettoyage/dégazage et contrôle visuel (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présentation de justificatifs attestant de la réalisation d'un contrôle d'étanchéité datant de moins de cinq ans (le non-respect de ce point relève d'une non-conformité majeure) ;
 

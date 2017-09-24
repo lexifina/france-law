@@ -20,9 +20,9 @@ Tout passage de véhicules et tout stockage de matériaux divers au-dessus d’u
 
 Les réservoirs subissent, avant leur mise en service, sous la responsabilité du constructeur, une épreuve hydraulique à une pression conforme aux normes prévues par construction, ainsi qu’un contrôle diélectrique à la tension prévue dans les normes.
 
-En outre, le maître d’ouvrage s’assure de l’intégrité du revêtement par un contrôle visuel avant remblayage de la cavité. L’étanchéité de l’installation (cuve, raccords, joints tampons et tuyauteries) est vérifiée, par un organisme, agréé selon la procédure spécifiée par l’arrêté du 18 avril 2008 relatif aux conditions d’agrément des organismes de contrôle d’étanchéité des réservoirs enterrés et de leurs équipements annexes, avant la mise en service de l’installation.
+En outre, le maître d’ouvrage s’assure de l’intégrité du revêtement par un contrôle visuel avant remblayage de la cavité. L’étanchéité de l’installation (cuve, raccords, joints tampons et tuyauteries) est vérifiée, par un organisme, accrédité comme prévu à l'article 8, avant la mise en service de l'installation.
 
-Les tuyauteries dans lesquelles les produits circulent par refoulement sont soumises à une pression d’épreuve hydraulique de 3 bars par un organisme agréé selon la procédure spécifiée par l’arrêté du 18 avril 2008 relatif aux conditions d’agrément des organismes de contrôle d’étanchéité des réservoirs enterrés et de leurs équipements annexes.
+Les tuyauteries dans lesquelles les produits circulent par refoulement sont soumises à une pression d’épreuve hydraulique de 3 bars par un organisme accrédité pour le contrôle d'étanchéité des réservoirs enterrés et de leurs équipements annexes.
 
 3. Jaugeage et transfert de vapeurs
 
