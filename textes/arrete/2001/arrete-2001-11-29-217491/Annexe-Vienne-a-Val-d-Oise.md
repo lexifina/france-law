@@ -226,139 +226,77 @@ A
 
 Direction départementale des territoires de l'Essonne
 
-FONCTIONS EXERCEES
-
-|
+FONCTIONS EXERCÉES |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
 
-|
+de l'emploi |
 
 NOMBRE
 
-d'emplois
+d'emplois |
 
-|
+NOMBRE DE POINTS
 
-NOMBRE DE POINTS (IM)
+(IM) par emploi |
 
-par emploi
+Chef du service habitat et renouvellement urbain |
 
-|
+A |
 
-Adjoint au chef du service habitat et renouvellement urbain chargé de la rénovation urbaine
+1 |
 
-|
+30 points |
 
-A
+Adjoint au chef du service habitat et renouvellement urbain chargé de la rénovation urbaine |
 
-|
+A |
 
-1
+1 |
 
-|
+32 points |
 
-32 points
+Chargé de mission rénovation urbaine |
 
-|
+A |
 
-Chef du service habitat et renouvellement urbain
+2 |
 
-|
+20 points |
 
-A
+Chef du bureau du parc privé |
 
-|
+A |
 
-1
+1 |
 
-|
+28 points |
 
-30 points
+Adjoint au chef du bureau du parc public et rénovation urbaine |
 
-|
+B |
 
-Chargé de mission rénovation urbaine
+1 |
 
-|
+20 points |
 
-A
+Instructeur de dossier politique de la ville |
 
-|
+B |
 
-2
+1 |
 
-|
+15 points |
 
-20 points
+Instructeur de dossier logement social quartiers prioritaires |
 
-|
+B |
 
-Chef du bureau du logement
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-28 points
-
-|
-
-Adjoint au chef du bureau du parc social et de la rénovation urbaine
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Instructeur de dossier "politique de la ville"
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Instructeur de dossier logement social "quartiers prioritaires"
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Direction régionale et interdépartementale de l'hébergement
 
@@ -919,3 +857,5 @@ NOTA :
 Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er novembre 2011 pour le département du Territoire de Belfort.
 
 Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour la préfecture de la région Ile-de-France de la préfecture de Paris.
+
+Conformément à l'article 1er de l'arrêté du 28 juillet 2017 (TERK1722360A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur le 1er janvier 2017.
