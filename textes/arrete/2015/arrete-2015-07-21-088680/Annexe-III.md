@@ -1,18 +1,12 @@
 # Article Annexe III
 
-PERFORMANCES MINIMALES DES STATIONS DE TRAITEMENT DES EAUX USÉES DES AGGLOMÉRATIONS DEVANT TRAITER UNE CHARGE BRUTE DE POLLUTION ORGANIQUE SUPÉRIEURE OU ÉGALE À 1,2 KG/J DE DBO5
+PERFORMANCES MINIMALES DES STATIONS DE TRAITEMENT DES EAUX USÉES DES AGGLOMÉRATIONS D'ASSAINISSEMENT
 
 Tableau 6. Performances minimales de traitement attendues pour les paramètres DBO5, DCO et MES. La valeur de la concentration maximale à respecter ou le rendement minimum sont appliqués
 
 PARAMÈTRE |
 
-CHARGE BRUTE
-
-de pollution organique
-
-reçue par la station
-
-en kg/j de DBO5 |
+CHARGE BRUTE de pollution organique produite par l'agglomération d'assainissement en kg/ j de DBO5 |
 
 CONCENTRATION
 
@@ -104,13 +98,7 @@ REJET EN ZONE SENSIBLE
 
 PARAMÈTRE |
 
-CHARGE BRUTE
-
-de pollution organique
-
-reçue par la station
-
-en kg/j de DBO5 |
+CHARGE BRUTE de pollution organique produite par l'agglomération d'assainissement en kg/ j de DBO5 |
 
 CONCENTRATION
 

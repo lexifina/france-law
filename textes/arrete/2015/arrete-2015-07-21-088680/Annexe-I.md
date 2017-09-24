@@ -90,7 +90,7 @@ X (2) (3) |
 
 (2) La mesure des caractéristiques des eaux usées et l'estimation des charges polluantes sont effectuées sur la base des paramètres listés à l'annexe 2.
 
-(3) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés, isothermes (4° +/- 2) et asservi au débit.
+(3) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° C +/-3) et asservis au débit.
 
 Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station. |
 
@@ -106,13 +106,19 @@ CAPACITÉ NOMINALE DE LA STATION (KG/J DE DBO5) |
 
 ≥ 30 et
 
-< 120 |
+< 120
+
+|
 
 ≥ 120 et
 
-< 600 |
+< 600
 
-≥ 600 |
+|
+
+≥ 600
+
+|
 
 Estimation du débit en entrée ou en sortie |
 
@@ -160,7 +166,7 @@ X (4) |
 
 (3) Le recours à des préleveurs mobiles est autorisé.
 
-(4) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés, isothermes (4° +/- 2) et asservis au débit. Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station.
+(4) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° +/- 3) et asservis au débit. Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station.
 
 La mesure des caractéristiques des eaux usées est effectuée sur la base des paramètres listés à l'annexe 2.
 
