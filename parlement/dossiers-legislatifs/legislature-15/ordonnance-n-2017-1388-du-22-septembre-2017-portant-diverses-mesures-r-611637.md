@@ -1,0 +1,31 @@
+# Ordonnance n° 2017-1388 du 22 septembre 2017 portant diverses mesures relatives au cadre de la négociation collective
+
+- Type : ordonnance publiee
+- Législature : XVème législature
+- Ouvert le : 2017-09-25
+- Mis à jour le : 2018-06-28
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000035611637
+
+## Ordonnance n° 2017-1388 du 22 septembre 2017 portant diverses mesures relatives au cadre de la négociation collective
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035607456
+
+## Rapport au Président de la République relatif à l'ordonnance n° 2017-1388 du 22 septembre 2017 portant diverses mesures relatives au cadre de la négociation collective
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035607454
+
+## LOI n° 2018-217 du 29 mars 2018 ratifiant diverses ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036755446
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 22 septembre 2017](http://www.gouvernement.fr/conseil-des-ministres/2017-09-22/reforme-du-droit-du-travail) La ministre du travail a présenté des ordonnances relatives à la réforme du droit du travail : - une ordonnance relative au renforcement de la négociation collective ; - une ordonnance relative à la nouvelle organisation du dialogue social et économique dans l’entreprise et favorisant l’exercice et la valorisation des responsabilités syndicales ; - une ordonnance relative à la prévisibilité et la sécurisation des relations de travail ; - une ordonnance portant diverses mesures relatives au cadre de la négociation collective ; - une ordonnance relative à la prévention et à la prise en compte des effets de l’exposition à certains facteurs de risques professionnels et au compte professionnel de prévention. Prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social, ces ordonnances s’inscrivent dans le projet global de transformation du code du travail, destiné à libérer les énergies et offrir de véritables protections aux salariés, en renforçant la négociation avec les salariés et leurs représentants ainsi que la sécurité juridique attendue. Il s’agit de la première étape de rénovation de notre modèle social, qui se poursuivra avec la réforme de l’apprentissage, de la formation professionnelle et de l’assurance chômage. L’ensemble de ces réformes contribueront à favoriser le progrès social et économique pour la France et les Français, dans la droite ligne de notre héritage social, en conciliant fidélité au passé et adaptation aux enjeux de notre temps. La loi du 15 septembre 2017 d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social, votée à une large majorité après plusieurs semaines de débat, a fixé un cadre déterminant, qui a guidé les concertations nourries menées avec les organisations syndicales et patronales tout au long de l’été. Celles-ci, au terme de plus de 300 heures d’échanges approfondis, ont permis de faire émerger les mesures concrètes, pragmatiques et opérationnelles qui dessineront un nouveau droit social dans notre pays : à l’intérieur du cadre défini par la loi, c’est désormais la négociation qui fixera les règles de fonctionnement dans l’entreprise et dans la branche. Cette réforme fait ainsi le pari de la confiance et de l’intelligence collective des entreprises, des salariés et de leurs représentants, au premier rang desquels les organisations syndicales. Quatre axes clés structurent les cinq ordonnances qui ont été présentées : 1. Le premier axe de cette réforme vise à apporter des solutions pragmatiques pour les très petites entreprises et les petites et moyennes entreprises, en particulier grâce à un dialogue social rénové et un accès au droit simplifié ; 2. Le deuxième axe structurant est la confiance apportée aux entreprises et aux salariés en leur donnant la capacité d’anticiper et de s’adapter de façon simple, rapide et sécurisée, par des accords d’entreprise et de branche adaptés ; 3. Le troisième axe instaure de nouveaux droits et de nouvelles protections pour les salariés, notamment via l’instauration d’un droit au télétravail ; 4. Le quatrième axe apporte de nouvelles garanties pour les délégués syndicaux et les élus du personnel qui s’engagent dans le dialogue social. La déclinaison opérationnelle de ces mesures fera l’objet d’une mission confiée à M. Jean-Dominique SIMONPOLI, directeur général de l’association Dialogues, et M. Gilles GATEAU, directeur des ressources humaines du groupe Air France. De nombreuses mesures entreront en vigueur dès le lendemain de la publication des ordonnances. D’autres, comme le comité social et économique qui fusionnera les trois instances représentatives du personnel, nécessitent des décrets d’application qui seront publiés dans les prochaines semaines, et au plus tard au 31 décembre 2017, pour une mise en place progressive adaptée au calendrier des entreprises et des représentants des salariés. Le Gouvernement a souhaité confier l’évaluation de ces mesures à des praticiens, syndicaliste, représentant patronal, et économiste reconnus : M. Marcel GRIGNARD, M. Jean-François PILLIARD et Mme Sandrine CAZES. Ils pourront s’appuyer tout au long de leurs travaux sur les services de France Stratégie et sur ceux du ministère du travail, notamment la direction de l'animation de la recherche, des études et des statistiques, la direction générale du travail et la délégation générale à l’emploi et à la formation professionnelle.
+- Dossiers législatifs
+  - [Dossier législatif de la loi n° 2018-217 du 29 mars 2018 ratifiant l'ordonnance](https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000035653662&type=general&typeLoi=proj&legislature=15)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
