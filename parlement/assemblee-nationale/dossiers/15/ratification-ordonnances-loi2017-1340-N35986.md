@@ -1,0 +1,67 @@
+# Ordonnances prises sur le fondement de la loi sur le renforcement du dialogue social
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N35986
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnances_loi2017-1340
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-119.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-09-27 : 1er dépôt d'une initiative. (PRJLANR5L15B0237)
+  - 2017-09-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-09-27 : Renvoi en commission au fond
+      - 2017-09-26 : Nomination de rapporteur
+      - 2017-10-31 : Réunion de commission
+      - 2017-11-06 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-07 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-08 : Réunion de commission
+      - 2017-11-09 : Réunion de commission
+      - 2017-11-21 : Réunion de commission
+      - 2017-11-09 : Dépôt de rapport (RAPPANR5L15B0369, PRJLANR5L15BTC0369)
+  - Discussion en séance publique
+    - 2017-11-21 : Discussion en séance publique
+    - 2017-11-21 : Discussion en séance publique
+    - 2017-11-22 : Discussion en séance publique
+    - 2017-11-22 : Discussion en séance publique
+    - 2017-11-23 : Discussion en séance publique
+    - 2017-11-23 : Discussion en séance publique
+    - 2017-11-23 : Discussion en séance publique
+    - 2017-11-28 : Discussion en séance publique
+    - 2017-11-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-11-29 : Dépôt d'une initiative en navette (PRJLSNR5S299B0119)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-29 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-12-20 : Dépôt de rapport (RAPPSNR5S299B0194, PRJLSNR5S299BTC0195)
+  - Discussion en séance publique
+    - 2018-01-23 : Discussion en séance publique
+    - 2018-01-24 : Discussion en séance publique
+    - 2018-01-25 : Discussion en séance publique
+    - 2018-01-24 : Décision
+- Commission Mixte Paritaire
+  - 2018-01-25 : Dépôt d'un projet de loi (PRJLANR5L15B0602)
+  - 2018-01-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-01-31 : Nomination de rapporteur
+    - 2018-01-31 : Dépôt du rapport d'une CMP (RAPPANR5L15B0626, PRJLANR5L15BTC0626)
+    - 2018-01-31 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0264, PRJLSNR5S299BTC0265)
+  - Discussion en séance publique
+    - 2018-02-06 : Discussion en séance publique
+    - 2018-02-06 : Décision
+  - Discussion en séance publique
+    - 2018-02-14 : Discussion en séance publique
+    - 2018-02-14 : Décision
+  - 2018-02-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2018-02-21 : Saisine du conseil constitutionnel
+  - 2018-03-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-03-29 : Promulgation d'une loi
