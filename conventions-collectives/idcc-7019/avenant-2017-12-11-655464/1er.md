@@ -1,0 +1,19 @@
+# Article 1er
+
+« Article 23
+
+Indemnité de licenciement
+
+Tout salarié ayant au moins 8 mois d'ancienneté ininterrompus dans l'entreprise a droit en cas de licenciement à une indemnité calculée comme suit :
+
+– pour les 10 premières années d'ancienneté : 1/4 de mois de salaire par année d'ancienneté ;
+
+– pour chacune des années au-delà de 10 ans d'ancienneté : 1/3 de mois par année d'ancienneté.
+
+Le licenciement d'un salarié inapte à la suite d'une maladie professionnelle ou d'un accident du travail ouvre droit à une indemnité spéciale de licenciement qui est égale au double de l'indemnité légale de licenciement.
+
+La rémunération constituant la base de calcul de l'indemnité légale est, selon la formule la plus avantageuse pour le salarié :
+
+– soit la moyenne mensuelle des 12 derniers mois précédant le licenciement, ou lorsque la durée de service du salarié est inférieure à 12 mois, la moyenne mensuelle de la rémunération de l'ensemble des mois précédant le licenciement ;
+
+– soit le tiers des 3 derniers mois. Les primes ou gratifications de caractère annuel ou exceptionnel versées au salarié pendant cette période ne sont alors prises en compte que dans la limite du prorata. »
