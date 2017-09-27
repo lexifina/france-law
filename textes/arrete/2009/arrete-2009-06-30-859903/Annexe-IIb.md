@@ -2,212 +2,138 @@
 
 Règlement d'examen
 
-CERTIFICAT D'APTITUDE PROFESSIONNELLE Arts du Verre et du Cristal
+CERTIFICAT D'APTITUDE
 
-|
+PROFESSIONNELLE
 
-Scolaires
-
-(Établissements publics et privés sous contrat)
-
-Apprentis (CFA et section d'apprentissage habilités)
-
-Formation professionnelle continue (Établissements publics)
-
-|
+" Arts du Verre et du Cristal " |
 
 Scolaires
 
-(Établissements privés hors contrat)
+(Etablissements publics et privés
+
+sous contrat)
 
 Apprentis
 
-(CFA ou sections d'apprentissage non habilités)
+(CFA et section d'apprentissage
 
-Formation professionnelle continue (Établissements privés)
+habilités)
 
-Enseignement à distance Candidats individuels
+Formation professionnelle continue
 
-|
+(Etablissements publics) |
 
-ÉPREUVES
+Scolaires
 
-|
+(Etablissements privés hors contrat)
 
-Unités
+Apprentis
 
-|
+(CFA ou sections d'apprentissage
 
-Coeff.
+non habilités)
 
-|
+Formation professionnelle continue
 
-MODE
+(Etablissements privés)
 
-|
+Enseignement à distance
 
-MODE
+Candidats individuels |
 
-|
+ÉPREUVES |
 
-DURÉE
+Unités |
 
-|
+Coeff. |
 
-UNITÉS PROFESSIONNELLES
+MODE |
 
-|
+MODE |
 
-EP1 : Analyse d'une situation professionnelle
+DURÉE |
 
-|
+UNITÉS PROFESSIONNELLES |
 
-UP1
+EP1 : Analyse d'une situation professionnelle |
 
-|
+UP1 |
 
-7
+7 |
 
-|
+CCF |
 
-CCF
+Ponctuelle |
 
-|
+8 h |
 
-Ponctuelle
+EP2 : Analyse technique et réalisation |
 
-|
+UP2 |
 
-8 h
+14 (1) |
 
-|
+CCF |
 
-EP2 : Analyse technique et réalisation
+Ponctuelle |
 
-|
+11 h (2) |
 
-UP2
+UNITÉS GÉNÉRALES |
 
-|
+EG1- Français et Histoire-Géographie |
 
-13 (1)
+UG1 |
 
-|
+3 |
 
-CCF
+CCF |
 
-|
+Ponctuelle écrite et orale |
 
-Ponctuelle
+2 h 15 |
 
-|
+EG2 - Mathématiques - Sciences |
 
-11 h (2)
+UG2 |
 
-|
+2 |
 
-UNITÉS GÉNÉRALES
+CCF |
 
-|
+Ponctuelle écrite |
 
-EG1- Français et Histoire-Géographie
+2 h |
 
-|
+EG3 - Education physique et sportive |
 
-UG1
+UG3 |
 
-|
+1 |
 
-3
+CCF |
 
-|
+Ponctuelle |
 
-CCF
+EG4 - Langue vivante (3) |
 
-|
+UG4 |
 
-Ponctuelle écrite et orale
+1 |
 
-|
+CCF |
 
-2h15
+Ponctuelle orale |
 
-|
+20 mn |
 
-EG2 ­Mathématiques - Sciences
+(*) CCF : Contrôle en cours de formation.
 
-|
+(1) Dont coefficient 1 pour la Prévention, santé, environnement (PSE).
 
-UG2
+(2) Dont 1 heure pour la Prévention, santé, environnement soit 10 heures maximum pour la réalisation.
 
-|
-
-2
-
-|
-
-CCF
-
-|
-
-Ponctuelle écrite
-
-|
-
-2h
-
-|
-
-EG3 -Éducation physique et sportive
-
-|
-
-UG3
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-Ponctuelle
-
-|
-
-EG4 -Langue vivante (3)
-
-|
-
-UG4
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-Ponctuelle orale
-
-|
-
-20 mn
-
-|
-
-*CCF : Contrôle en cours de formation.
-
-(1) dont coefficient 1 pour la vie sociale et professionnelle.
-
-(2) dont 1 heure pour la vie sociale et professionnelle soit 10 heures maximum pour la réalisation.
-
-(3) Ne sont autorisées que les langues vivantes enseignées dans l'académie, sauf dérogation accordée parle recteur.
+(3) Ne sont autorisées que les langues vivantes enseignées dans l'académie, sauf dérogation accordée par le recteur.
 
 |
