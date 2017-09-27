@@ -1,6 +1,6 @@
 # Article 1er
 
-Les entreprises de 10 salariés et plus verseront, lors des collectes réalisées par OPCALIA en février 2016 (sur les rémunérations de 2015) et en février 2017 (sur les rémunérations de 2016), une contribution complémentaire de 0,2 % s'ajoutant au 1 % prévu à l'article 3 de l'accord du 10 décembre 2014.
+Les entreprises de 11 salariés et plus verseront lors des collectes réalisées par OPCALIA en février 2016 (sur les rémunérations de 2015), en février 2017 (sur les rémunérations de 2016) et en février 2018 (sur les rémunérations de 2017) une contribution complémentaire de 0,2 % s'ajoutant au 1 % prévu à l'article 3 de l'accord du 10 décembre 2014.
 
 Cette contribution spécifique de 0,2 % est destinée à financer :
 
