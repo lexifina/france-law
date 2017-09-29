@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION VILLE/SMED 13 - ARTICLE 8 - PROGRAMME 2017 - EFFACEMENT DES RESEAUX DE DISTRIBUTION PUBLIQUE D'ENERGIE ELECTRIQUE ET DE COMMUNICATIONS ELECTRONIQUES - RUE DE LA POUDRIERE (TRANCHE 2) ENTRE SCHUMANN ET PONCET
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-09-29
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION VILLE/SMED 13 - ARTICLE 8 - PROGRAMME 2017 - EFFACEMENT DES RESEAUX DE DISTRIBUTION PUBLIQUE D'ENERGIE ELECTRIQUE ET DE COMMUNICATIONS ELECTRONIQUES - RUE DE LA POUDRIERE (TRANCHE 2) ENTRE SCHUMANN ET PONCET
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8752-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
