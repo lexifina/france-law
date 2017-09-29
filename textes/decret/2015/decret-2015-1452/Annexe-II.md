@@ -1,18 +1,12 @@
 # Article Annexe II
 
-OBJET DE LA DEMANDE
+OBJET DE LA DEMANDE |
 
-|
-
-DISPOSITIONS APPLICABLES
-
-|
+DISPOSITIONS APPLICABLES |
 
 DÉLAI À L'EXPIRATION
 
-duquel la décision implicite d'acceptation est acquise
-
-|
+duquel la décision implicite d'acceptation est acquise |
 
 Code rural et de la pêche maritime
 
@@ -29,30 +23,6 @@ Articles 11, 19 et 22 du règlement (UE) n° 1380/2013 du Parlement européen et
 |
 
 4 mois
-
-|
-
-Habilitation délivrée par un organisme mentionné à l'article R. 642-53 reconnaissant l'aptitude d'un opérateur à satisfaire aux exigences du cahier des charges du signe d'identification de la qualité et de l'origine dont il revendique le bénéfice
-
-|
-
-Article R. 642-39
-
-|
-
-6 mois
-
-|
-
-Inscription sur la liste des experts fonciers et agricoles ou des experts forestiers
-
-|
-
-Article R. 171-9
-
-|
-
-3 mois
 
 |
 
