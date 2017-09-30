@@ -842,6 +842,60 @@ B |
 
 15 points |
 
+Direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale de la Nouvelle-Aquitaine
+
+FONCTIONS EXERCÉES |
+
+NIVEAU
+
+de qualification de l'emploi |
+
+NOMBRE
+
+d'emplois |
+
+NOMBRE DE POINTS (IM) par emploi |
+
+Chef du pôle hébergement/logement
+
+|
+
+A |
+
+1 |
+
+50 points |
+
+Chargé de l'animation du plan départemental d'actions pour le logement et l'hébergement des personnes défavorisées au sein du pôle hébergement/logement
+
+|
+
+B |
+
+1 |
+
+20 points |
+
+Chargé du volet prévention des expulsions du plan départemental d'actions pour le logement et l'hébergement des personnes défavorisées au sein du pôle hébergement/logement
+
+|
+
+B |
+
+1 |
+
+15 points |
+
+Instructeur DALO et Contingent prioritaire au sein du pôle hébergement/logement
+
+|
+
+C |
+
+3 |
+
+13 points |
+
 Direction départementale de l'équipement et de l'agriculture (2) de l'Oise
 
 FONCTIONS EXERCEES
@@ -1039,3 +1093,5 @@ NOTA :
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1725827A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle entrent en vigueur le 1er octobre 2017.
+
+Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1722358A), les dispositions dudit arrêté entrent en vigueur le 1er janvier 2016 pour ce qui concerne la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale de la Nouvelle-Aquitaine.

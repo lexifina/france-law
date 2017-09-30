@@ -40,9 +40,7 @@ A
 
 |
 
-Chef de l'unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
-
-|
+Chef de l'unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
 
 B
 
@@ -72,23 +70,15 @@ B
 
 |
 
-Assistant du chef de service logement et construction durables, en charge de la politique de la ville
-
-|
+Assistant du chef de service logement et construction durables, en charge de la politique de la ville |
 
 C |
 
-1
+1 |
 
-|
+10 points |
 
-10 points
-
-|
-
-Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
-
-|
+Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
 
 C
 
@@ -102,7 +92,7 @@ C
 
 |
 
-Direction départementale de l'équipement de la Gironde
+Direction départementale des territoires et de la mer de la Gironde
 
 FONCTIONS EXERCEES
 
@@ -126,7 +116,7 @@ par emploi
 
 |
 
-Directeur adjoint
+Chef du service habitat logement et construction durable
 
 |
 
@@ -138,11 +128,11 @@ A
 
 |
 
-50 points
+44 points
 
 |
 
-Chef du service de l'habitat, de la ville et des quartiers
+Adjoint au chef du service habitat logement et construction durable
 
 |
 
@@ -154,11 +144,11 @@ A
 
 |
 
-50 points
+33 points
 
 |
 
-Chargé de mission pour la ville et le logement social
+Chef de l'unité rénovation urbaine
 
 |
 
@@ -166,7 +156,7 @@ A
 
 |
 
-2
+1
 
 |
 
@@ -174,23 +164,7 @@ A
 
 |
 
-Chargé du plan départemental d'amélioration du logement des plus défavorisés et du fonds de solidarité pour le logement
-
-|
-
-B
-
-|
-
-3
-
-|
-
-20 points
-
-|
-
-Chargé du plan départemental d'amélioration du logement des plus défavorisés et du fonds de solidarité pour le logement
+Chargé de projets au sein de l'unité rénovation urbaine
 
 |
 
@@ -202,11 +176,27 @@ B
 
 |
 
-15 points
+20 points
 
 |
 
-Secrétariat du service de l'habitat, de la ville et des quartiers et du fonds de solidarité pour le logement
+Chef de l'unité logement social public
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Secrétaire du service habitat logement et construction durable
 
 |
 
@@ -214,7 +204,7 @@ C
 
 |
 
-4
+1
 
 |
 
@@ -382,133 +372,69 @@ par emploi
 
 |
 
-Chef du service logement et construction
+Chef du service logement et construction |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Référent pour le contrat ville de l'agglomération grenobloise-Bureau rénovation urbaine-Service logement et construction |
 
-|
+A |
 
-30
+1 |
 
-|
+30 |
 
-Référent pour le contrat ville de l'agglomération grenobloise-Bureau rénovation urbaine-Service logement et construction
+Chef du bureau politique de l'habitat-Service logement et construction |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Chef du bureau logement public-Service logement et construction |
 
-|
+A |
 
-30
+1 |
 
-|
+30 |
 
-Chef du bureau politique de l'habitat-Service logement et construction
+Référent parc privé et plans de sauvegarde-Bureau logement privé/ ANAH-Service logement et construction |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Instructreur dossier politique de la ville-Bureau rénovation urbaine-Service logement et construction |
 
-|
+B |
 
-30
+1 |
 
-|
+30 |
 
-Chef du bureau logement public-Service logement et construction
+Instructeur du suivi et de la contractualisation avec les organismes HLM-Bureau rénovation urbaine-Service logement et construction |
 
-|
+B |
 
-A
+1 |
 
-|
+30 |
 
-1
+Instructeur dossier politique de la ville-Bureau logement public-Service logement et construction |
 
-|
+C |
 
-30
+1 |
 
-|
-
-Référent parc privé et plans de sauvegarde-Bureau logement privé/ ANAH-Service logement et construction
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30
-
-|
-
-Instructreur dossier politique de la ville-Bureau rénovation urbaine-Service logement et construction
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30
-
-|
-
-Instructeur du suivi et de la contractualisation avec les organismes HLM-Bureau rénovation urbaine-Service logement et construction
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30
-
-|
-
-Instructeur dossier politique de la ville-Bureau logement public-Service logement et construction
-
-|
-
-C
-
-|
-
-1
-
-|
-
-30
-
-|
+30 |
 
 Direction départementale de la cohésion sociale de l'Isère
 
@@ -534,21 +460,13 @@ par emploi
 
 |
 
-Chargé de mission-gestion du contingent préfectoral de la métropole grenobloise-Bureau d'accès au logement des personnes défavorisées-Pôle hébergement et logement social
+Chargé de mission-gestion du contingent préfectoral de la métropole grenobloise-Bureau d'accès au logement des personnes défavorisées-Pôle hébergement et logement social |
 
-|
+B |
 
-B
+1 |
 
-|
-
-1
-
-|
-
-30
-
-|
+30 |
 
 Direction départementale des territoires du Jura
 
@@ -1053,3 +971,5 @@ NOTA :
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2012 pour le département du Jura.
+
+Arrêté du 29 août 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2016 pour la direction départementale des territoires et de la mer de la Gironde.
