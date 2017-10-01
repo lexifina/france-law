@@ -1,0 +1,27 @@
+# Article 1er
+
+Les dispositions de l'article 4 « Salariés bénéficiaires du régime frais de santé » de l'accord du 3 juillet 2012 sont annulées et remplacées comme suit :
+
+« Article 4
+
+Salariés bénéficiaires du régime frais de santé
+
+L'ensemble des salariés (y compris les mandataires sociaux ayant le statut de salarié) titulaires d'un contrat de travail non suspendu, à durée déterminée ou indéterminée, cadres et non-cadres résultant de l'utilisation des définitions issues des dispositions de la convention collective nationale du 14 mars 1947 (art. 4, 4 bis et 36), présents à l'effectif des entreprises entrant dans le champ d'application de l'accord de prévoyance de la convention collective nationale des fleuristes, vente et services des animaux familiers bénéficie du régime frais de santé.
+
+La notion de salariés présents à l'effectif comprend tous les salariés, au travail ou en arrêt pour cause de maladie ou d'accident au jour de l'entrée en vigueur du présent accord.
+
+Conformément aux dispositions légales en vigueur (art. L. 911-7 III, D. 911-2 et D. 911-3 du code de la sécurité sociale et art. 11 de la loi Evin), certains salariés, à leur initiative, peuvent demander de ne pas adhérer au régime frais de santé selon notamment les dispositions de l'article D. 911-5 du code de la sécurité sociale.
+
+De même, certains salariés peuvent demander à se prévaloir des dispenses suivantes :
+
+– les salariés et apprentis bénéficiaires d'un contrat d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+
+– les salariés et apprentis bénéficiaires d'un contrat d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;
+
+– les salariés à temps partiel et apprentis dont l'adhésion au régime les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute.
+
+Il appartient aux intéressés de formuler une demande par écrit.
+
+En tout état de cause, tout salarié sera tenu, en dehors des cas de dispenses d'ordre public, de cotiser au régime lorsqu'il cessera de justifier de sa situation. »
+
+(1) Rayer la mention inutile.
