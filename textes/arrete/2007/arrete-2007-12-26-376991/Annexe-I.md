@@ -190,11 +190,11 @@ Chef de la mission de pilotage de la fonction ressources humaines ministérielle
 
 |
 
-Chef de la mission projets professionnels. |
+Adjoint au chef du bureau de la paie et des régimes indemnitaires. |
 
 30 |
 
-Chef de projet SINOPE. |
+Adjoint au directeur de projet chargé de la modernisation du système d'information des ressources humaines. |
 
 30 |
 

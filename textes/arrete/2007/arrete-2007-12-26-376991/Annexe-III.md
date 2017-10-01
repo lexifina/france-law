@@ -56,6 +56,10 @@ Chef du service de gestion des personnels administratifs, techniques et scientif
 
 50 |
 
+Chargé de mission préfiguration du service de prospective et de pilotage au sein de la sous-direction des personnels |
+
+50 |
+
 Service des affaires immobilières. |
 
 Chef du département juridique et budgétaire |
@@ -119,10 +123,6 @@ Chef du bureau des actions de santé mentale. |
 50 |
 
 Chef du bureau des établissements recevant du public. |
-
-50 |
-
-Chef du bureau de la sécurité de l'habitat. |
 
 50 |
 
