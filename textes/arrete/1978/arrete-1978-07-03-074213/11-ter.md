@@ -2,68 +2,40 @@
 
 En application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
 
-DÉSIGNATION
+Désignation |
 
-|
+Toutes zones
 
-TOUTES ZONES
+(en euros) |
 
-(en euros)
+Bénéficiaire isolé ou couple sans personne à charge |
 
-|
+53,67 |
 
-Bénéficiaire isolé ou couple sans personne à charge
+Par personne supplémentaire à charge |
 
-|
-
-53,27
-
-|
-
-Par personne supplémentaire à charge
-
-|
-
-12,07
-
-|
+12,16 |
 
 Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux articles R. 351-17 (al. 6), R. 351-17-3 et R. 351-21-4, le montant forfaitaire des charges est fixé comme suit :
 
-DÉSIGNATION
+Désignation |
 
-|
+Toutes zones
 
-TOUTES ZONES
+(en euros) |
 
-(en euros)
+Bénéficiaire isolé |
 
-|
+26,83 |
 
-Bénéficiaire isolé
+Couple sans personne à charge |
 
-|
+53,67 |
 
-26,63
+Par personne supplémentaire à charge |
 
-|
-
-Couple sans personne à charge
-
-|
-
-53,27
-
-|
-
-Par personne supplémentaire à charge
-
-|
-
-12,07
-
-|
+12,16 |
 
 NOTA :
 
-Arrêté du 16 octobre 2015 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2015.
+Conformément à l'article 16 de l'arrêté du 28 septembre 2017, les présentes dispositions sont applicables pour les prestations dues à compter du 1er octobre 2017.

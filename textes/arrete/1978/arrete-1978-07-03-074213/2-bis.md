@@ -4,7 +4,7 @@ Pour l'application des articles R. 351-17-2 et R. 351-17-3 :
 
 I.-Le montant de l'aide personnalisée est calculée selon la formule :
 
-APL = L + C-PP
+APL = L + C - PP - Mfo
 
 dans laquelle :
 
@@ -16,35 +16,31 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
+Mfo représente un montant fixé forfaitairement défini au premier alinéa de l'article R. 351-17-2 dont le montant est fixé à l'article 2 sexies ci-après.
+
 II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 
-ZONE
+Zone |
 
-|
-
-PERSONNE SEULE
+Personne seule
 
 (en euros)
 
 |
 
-COUPLE
-
-sans personne à charge
+Couple sans personne à charge
 
 (en euros)
 
 |
 
-PERSONNE SEULE OU COUPLE
-
-ayant une personne à charge
+Personne seule ou couple ayant une personne à charge
 
 (en euros)
 
 |
 
-PAR PERSONNE À CHARGE
+Par personne à charge
 
 supplémentaire
 
@@ -52,72 +48,38 @@ supplémentaire
 
 |
 
-I
+I |
 
-|
+295,05 |
 
-292,85
+355,85 |
 
-|
+402,18 |
 
-353,20
+58,34 |
 
-|
+II |
 
-399,19
+257,14 |
 
-|
+314,74 |
 
-57,91
+354,17 |
 
-|
-
-II
-
-|
-
-255,23
-
-|
-
-312,40
-
-|
-
-351,53
-
-|
-
-51,16
-
-|
+51,54 |
 
 III
 
 |
 
-239,21
+241,00 |
 
-|
+292,16 |
 
-289,99
+327,59 |
 
-|
-
-325,15
-
-|
-
-46,60
-
-|
-
-Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 et au deuxième alinéa de l'article R. 351-17-3, les plafonds de loyer sont fixés à 75 % des plafonds de loyers mentionnés ci-dessus.
-
-Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
-
-Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.
+46,95 |
 
 NOTA :
 
-Arrêté du 16 octobre 2015 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2015.
+Conformément à l'article 16 de l'arrêté du 28 septembre 2017, les présentes dispositions sont applicables pour les prestations dues à compter du 1er octobre 2017.
