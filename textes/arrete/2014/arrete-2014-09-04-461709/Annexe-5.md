@@ -4,39 +4,39 @@ LISTE DES PIÈCES JUSTIFICATIVES RELATIVES AUX OPÉRATIONS D'ÉCONOMIES D'ÉNERG
 
 Les pièces justificatives relatives aux opérations d'économies d'énergie concernent :
 
-- l'identification du bénéficiaire de l'opération ;
+– l'identification du bénéficiaire de l'opération ;
 
-- la preuve de réalisation de l'opération ;
+– la preuve de réalisation de l'opération ;
 
-- la preuve du rôle actif et incitatif antérieur du demandeur ;
+– la preuve du rôle actif et incitatif antérieur du demandeur ;
 
-- la preuve des dates d'engagement et d'achèvement de l'opération ;
+– la preuve des dates d'engagement et d'achèvement de l'opération ;
 
-- les attestations sur l'honneur ;
+– les attestations sur l'honneur ;
 
-- le respect des critères énoncés dans les fiches d'opérations standardisées ; et
+– le respect des critères énoncés dans les fiches d'opérations standardisées ; et
 
-- le non-cumul avec d'autres dispositifs ; et
+– le non-cumul avec d'autres dispositifs ; et
 
-- le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie.
+– le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie.
 
 1. Identification du bénéficiaire de l'opération
 
 L'identification du bénéficiaire de l'opération est justifiée, selon le cas, par :
 
-- une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est le seul propriétaire de l'équipement installé ;
+– une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est le seul propriétaire de l'équipement installé ;
 
-- une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est le maître d'ouvrage de l'opération d'économies d'énergie et qu'il dispose de l'accord du propriétaire pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit du propriétaire pour désigner le maître d'ouvrage comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
+– une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est le maître d'ouvrage de l'opération d'économies d'énergie et qu'il dispose de l'accord du propriétaire pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit du propriétaire pour désigner le maître d'ouvrage comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
 
-- une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est l'un des propriétaires de l'équipement installé et qu'il dispose de l'accord de l'ensemble des propriétaires pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit des autres propriétaires pour désigner cet acteur comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
+– une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est l'un des propriétaires de l'équipement installé et qu'il dispose de l'accord de l'ensemble des propriétaires pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit des autres propriétaires pour désigner cet acteur comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
 
-- une attestation sur l'honneur de la collectivité bénéficiaire de l'opération indiquant qu'elle est l'affectataire des biens dans le cas d'un transfert de compétences entre collectivités territoriales et leurs groupements au sens de l'article L. 1321-2 du code général des collectivités territoriales. Cette attestation est complétée par la justification de ce transfert de compétence ;
+– une attestation sur l'honneur de la collectivité bénéficiaire de l'opération indiquant qu'elle est l'affectataire des biens dans le cas d'un transfert de compétences entre collectivités territoriales et leurs groupements au sens de l'article L. 1321-2 du code général des collectivités territoriales. Cette attestation est complétée par la justification de ce transfert de compétence ;
 
-- une attestation sur l'honneur du bénéficiaire indiquant qu'il est le locataire de l'équipement installé ;
+– une attestation sur l'honneur du bénéficiaire indiquant qu'il est le locataire de l'équipement installé ;
 
-- une attestation sur l'honneur du bénéficiaire indiquant qu'il est l'occupant du logement où prend place l'opération d'économies d'énergie et qu'il finance l'opération ;
+– une attestation sur l'honneur du bénéficiaire indiquant qu'il est l'occupant du logement où prend place l'opération d'économies d'énergie et qu'il finance l'opération ;
 
-- ou tout autre document prévu par la fiche d'opération standardisée relative à l'opération réalisée.
+– ou tout autre document prévu par la fiche d'opération standardisée relative à l'opération réalisée.
 
 Lorsque le bénéficiaire est une personne morale, la demande comporte son numéro SIREN. Par dérogation, lorsque le bénéficiaire ne dispose pas de numéro SIREN, il atteste sur l'honneur être dépourvu de ce numéro.
 
@@ -48,39 +48,39 @@ Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'a
 
 Si le bénéficiaire de l'opération est une personne physique, et sous réserve des dispositions prévues par la fiche d'opération standardisée, la preuve de réalisation de l'opération est apportée par la facture de l'opération. Cette facture comporte les mentions suivantes :
 
-- l'identité du bénéficiaire ;
+– l'identité du bénéficiaire ;
 
-- la date de délivrance ou d'émission de la facture ;
+– la date de délivrance ou d'émission de la facture ;
 
-- le lieu de réalisation des travaux ; et
+– le lieu de réalisation des travaux ; et
 
-- la description des travaux permettant l'identification sans équivoque de l'opération d'économies d'énergie réalisée ou dans le cas d'une opération standardisée, les mentions exigées par la fiche correspondante.
+– la description des travaux permettant l'identification sans équivoque de l'opération d'économies d'énergie réalisée ou dans le cas d'une opération standardisée, les mentions exigées par la fiche correspondante.
 
 2.2. Personne morale
 
 Si le bénéficiaire de l'opération est une personne morale, la preuve de la réalisation de l'opération est apportée :
 
-- par la facture de l'opération ; ou
+– par la facture de l'opération ; ou
 
-- lorsque les travaux sont mis en œuvre par les services techniques internes du bénéficiaire, par la facture d'achat du matériel par le bénéficiaire, complétée par une attestation d'installation par les services techniques du bénéficiaire précisant les marque et référence du matériel, la date d'installation, la qualité et l'identité du signataire du document, et faisant référence à la facture d'achat du matériel précitée. Cette attestation d'installation est établie par un document différent de l'attestation sur l'honneur définie à l'annexe 7 ; ou
+– lorsque les travaux sont mis en œuvre par les services techniques internes du bénéficiaire, par la facture d'achat du matériel par le bénéficiaire, complétée par une attestation d'installation par les services techniques du bénéficiaire précisant les marque et référence du matériel, la date d'installation, la qualité et l'identité du signataire du document, et faisant référence à la facture d'achat du matériel précitée. Cette attestation d'installation est établie par un document différent de l'attestation sur l'honneur définie à l'annexe 7 ; ou
 
-- par la décision de réception des travaux par le bénéficiaire, accompagnée du document de contractualisation de ces travaux signé par le bénéficiaire (ordre de service, bon de commande, devis, acte d'engagement) et permettant de faire le lien sans équivoque entre les travaux demandés et la décision de réception de ces travaux ; ou
+– par la décision de réception des travaux par le bénéficiaire, accompagnée du document de contractualisation de ces travaux signé par le bénéficiaire (ordre de service, bon de commande, devis, acte d'engagement) et permettant de faire le lien sans équivoque entre les travaux demandés et la décision de réception de ces travaux ; ou
 
-- dans le cas d'un marché public, par la remise du dossier de l'ouvrage exécuté au pouvoir adjudicateur ou le décompte général définitif signé par le représentant du pouvoir adjudicateur ; ou
+– dans le cas d'un marché public, par la remise du dossier de l'ouvrage exécuté au pouvoir adjudicateur ou le décompte général définitif signé par le représentant du pouvoir adjudicateur ; ou
 
-- dans le cas de la location d'un équipement, par le contrat de location spécifiant explicitement la durée de la location, les références de l'équipement et le caractère neuf de l'équipement loué ; ou
+– dans le cas de la location d'un équipement, par le contrat de location spécifiant explicitement la durée de la location, les références de l'équipement et le caractère neuf de l'équipement loué ; ou
 
-- lorsque la fiche d'opération standardisée relative à l'opération réalisée le prévoit spécifiquement, une autre pièce justificative de la réalisation de l'opération.
+– lorsque la fiche d'opération standardisée relative à l'opération réalisée le prévoit spécifiquement, une autre pièce justificative de la réalisation de l'opération.
 
 Les documents de preuve de réalisation de l'opération comportent :
 
-- l'identité du bénéficiaire ;
+– l'identité du bénéficiaire ;
 
-- la date de délivrance, d'émission ou de signature du document considéré ;
+– la date de délivrance, d'émission ou de signature du document considéré ;
 
-- le lieu de réalisation des travaux ; et
+– le lieu de réalisation des travaux ; et
 
-- la description des travaux permettant l'identification sans équivoque de l'opération d'économies d'énergie réalisée ou, dans le cas d'une opération standardisée, les mentions exigées par la fiche correspondante.
+– la description des travaux permettant l'identification sans équivoque de l'opération d'économies d'énergie réalisée ou, dans le cas d'une opération standardisée, les mentions exigées par la fiche correspondante.
 
 3. Preuve du rôle actif, incitatif et antérieur du demandeur
 
@@ -96,27 +96,27 @@ Le contrat de réalisation de l'opération est accepté et signé par le bénéf
 
 Par dérogation :
 
-- lorsqu'il s'agit d'un contrat manuscrit, la mention peut être reportée de façon manuscrite sur le contrat ;
+– lorsqu'il s'agit d'un contrat manuscrit, la mention peut être reportée de façon manuscrite sur le contrat ;
 
-- la mention peut être ajoutée sur le contrat dactylographié ou manuscrit par le biais d'un tampon ou d'un autocollant. La mention ajoutée sur le contrat est datée et signée par le bénéficiaire des travaux à côté de cette mention : un contrat comportant ce type de mention comporte donc deux signatures du bénéficiaire et deux indications de la date de signature du contrat par le bénéficiaire.
+– la mention peut être ajoutée sur le contrat dactylographié ou manuscrit par le biais d'un tampon ou d'un autocollant. La mention ajoutée sur le contrat est datée et signée par le bénéficiaire des travaux à côté de cette mention : un contrat comportant ce type de mention comporte donc deux signatures du bénéficiaire et deux indications de la date de signature du contrat par le bénéficiaire.
 
-En outre, dans le cas où la mention est portée sur un autocollant collé sur le contrat, la date de signature et la signature sont apposées sur l'autocollant ou sur le contrat à côté de l'autocollant. Par ailleurs, l'autocollant comporte une mention spécifique permettant de relier l'autocollant au contrat sur lequel il est apposé et de restreindre l'utilisation de l'autocollant à la date de signature du contrat. Cette mention est par exemple : "Cet autocollant n'est valide que s'il est apposé sur le devis n° … lors de la signature de ce devis."
+En outre, dans le cas où la mention est portée sur un autocollant collé sur le contrat, la date de signature et la signature sont apposées sur l'autocollant ou sur le contrat à côté de l'autocollant. Par ailleurs, l'autocollant comporte une mention spécifique permettant de relier l'autocollant au contrat sur lequel il est apposé et de restreindre l'utilisation de l'autocollant à la date de signature du contrat. Cette mention est par exemple : " Cet autocollant n'est valide que s'il est apposé sur le devis n° … lors de la signature de ce devis. "
 
 Lorsque l'entreprise contractualisant la réalisation des travaux avec le bénéficiaire n'est pas le demandeur, elle est liée par un contrat de partenariat au demandeur ou à son mandataire, le cas échéant par le biais de son propre mandataire.
 
 Le contrat de partenariat décrit :
 
-- les principes de la collaboration entre le demandeur et le partenaire, en faisant référence au dispositif des certificats d'économies d'énergie ;
+– les principes de la collaboration entre le demandeur et le partenaire, en faisant référence au dispositif des certificats d'économies d'énergie ;
 
-- les bénéficiaires concernés ;
+– les bénéficiaires concernés ;
 
-- le rôle incitatif mis en œuvre par le partenaire, au nom du demandeur, auprès du bénéficiaire ainsi que les obligations respectives du demandeur et de son partenaire dans le cadre du dispositif ;
+– le rôle incitatif mis en œuvre par le partenaire, au nom du demandeur, auprès du bénéficiaire ainsi que les obligations respectives du demandeur et de son partenaire dans le cadre du dispositif ;
 
-- les modalités d'attribution de la contribution et la détermination de son montant lorsqu'il s'agit d'une contribution financière ;
+– les modalités d'attribution de la contribution et la détermination de son montant lorsqu'il s'agit d'une contribution financière ;
 
-- les modalités particulières inhérentes à l'établissement de certaines pièces du dossier de demande de certificats d'économies d'énergie ou aux contrôles des opérations concernées ; et
+– les modalités particulières inhérentes à l'établissement de certaines pièces du dossier de demande de certificats d'économies d'énergie ou aux contrôles des opérations concernées ; et
 
-- la durée du contrat, les modalités de sa résiliation et de sa prolongation.
+– la durée du contrat, les modalités de sa résiliation et de sa prolongation.
 
 Le contrat de partenariat est daté et signé par les parties avant la contractualisation de l'opération entre le bénéficiaire et le partenaire.
 
@@ -128,21 +128,21 @@ Le demandeur archive l'ensemble des contrats liés à la réalisation de l'opér
 
 L'engagement écrit du demandeur, le cas échéant représenté par un mandataire, à apporter une contribution au bénéficiaire comporte :
 
-- le fait qu'il est pris dans le cadre du dispositif des certificats d'économies d'énergie ;
+– le fait qu'il est pris dans le cadre du dispositif des certificats d'économies d'énergie ;
 
-- l'identification des opérations d'économies d'énergie pour laquelle la contribution serait apportée ;
+– l'identification des opérations d'économies d'énergie pour laquelle la contribution serait apportée ;
 
-- la mention de la nature précise de cette contribution ;
+– la mention de la nature précise de cette contribution ;
 
-- l'identification du demandeur à l'origine de la contribution, via sa raison sociale ; et
+– l'identification du demandeur à l'origine de la contribution, via sa raison sociale ; et
 
-- l'identité du bénéficiaire de l'opération d'économies d'énergie.
+– l'identité du bénéficiaire de l'opération d'économies d'énergie.
 
 L'engagement est daté et signé par le demandeur. Il est envoyé au bénéficiaire avant la date d'engagement de l'opération. La preuve de l'envoi de l'engagement est apportée par :
 
-- la preuve de dépôt du courrier d'engagement prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux ; ou
+– la preuve de dépôt du courrier d'engagement prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux ; ou
 
-- un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
+– un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
 
 Par dérogation, un engagement horodaté électroniquement mais dont l'horodatage électronique n'est pas fiable au sens du décret n° 2011-434 du 20 avril 2011 susvisé peut être utilisé afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
 
@@ -152,17 +152,17 @@ L'engagement écrit du demandeur et la preuve d'envoi de cet engagement sont arc
 
 Un contrat établi entre le demandeur et le bénéficiaire, le cas échéant représentés par leurs mandataires respectifs, par lequel le demandeur s'engage à accompagner le bénéficiaire dans la réalisation d'opérations d'économies d'énergie en lui apportant une contribution dans le cadre du dispositif des certificats d'économies d'énergie comporte a minima :
 
-- l'identification du demandeur via sa raison sociale et son numéro SIREN ;
+– l'identification du demandeur via sa raison sociale et son numéro SIREN ;
 
-- l'identification du bénéficiaire, via ses nom et prénom s'il s'agit d'une personne physique, et via sa raison sociale et son numéro SIREN s'il s'agit d'une personne morale ;
+– l'identification du bénéficiaire, via ses nom et prénom s'il s'agit d'une personne physique, et via sa raison sociale et son numéro SIREN s'il s'agit d'une personne morale ;
 
-- une référence au dispositif des certificats d'économies d'énergie ;
+– une référence au dispositif des certificats d'économies d'énergie ;
 
-- l'engagement du demandeur à apporter sa contribution dont il précise la nature. Lorsqu'il s'agit d'une aide financière, le montant en est précisé ou à défaut les modalités de son calcul sont jointes au contrat. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
+– l'engagement du demandeur à apporter sa contribution dont il précise la nature. Lorsqu'il s'agit d'une aide financière, le montant en est précisé ou à défaut les modalités de son calcul sont jointes au contrat. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
 
-- la description des opérations d'économies d'énergie qui entrent dans le champ du contrat ; et
+– la description des opérations d'économies d'énergie qui entrent dans le champ du contrat ; et
 
-- la durée de validité du contrat. Cette durée de validité est au maximum de deux ans lorsque le bénéficiaire est une personne physique et au maximum de quatre ans lorsque le bénéficiaire est une personne morale.
+– la durée de validité du contrat. Cette durée de validité est au maximum de deux ans lorsque le bénéficiaire est une personne physique et au maximum de quatre ans lorsque le bénéficiaire est une personne morale.
 
 Le contrat peut être renouvelé au-delà de cette durée par un avenant, dont la durée est limitée selon les conditions ci-avant, ou par l'adoption d'un nouveau contrat.
 
@@ -170,19 +170,19 @@ Le contrat est signé et daté de la date de signature par les deux parties. Il 
 
 Le contrat peut être signé par un mandataire agissant en lieu et place du bénéficiaire ou du demandeur. Dans ce cas, le contrat de mandat précise :
 
-- pour le mandant : nom, adresse du siège social, numéro SIREN, nom et qualité de la personne qui donne le mandat ;
+– pour le mandant : nom, adresse du siège social, numéro SIREN, nom et qualité de la personne qui donne le mandat ;
 
-- pour le mandataire : nom, adresse du siège social, numéro SIREN, nom et qualité de la personne qui reçoit le mandat ;
+– pour le mandataire : nom, adresse du siège social, numéro SIREN, nom et qualité de la personne qui reçoit le mandat ;
 
-- sa durée ;
+– sa durée ;
 
-- son périmètre qui couvre la mission de délégation d'agir en lieu et place du mandant dans le cadre du dispositif des certificats d'économies d'énergie et du contenu du contrat.
+– son périmètre qui couvre la mission de délégation d'agir en lieu et place du mandant dans le cadre du dispositif des certificats d'économies d'énergie et du contenu du contrat.
 
 Le contrat de mandat est signé avant la date de signature de tout contrat par le mandataire au nom du mandant.
 
 Dans le cas où, en tant que personne morale, le bénéficiaire est représenté par sa société mère, le rôle actif et incitatif du demandeur est justifié par le contrat signé entre le demandeur et la société mère du bénéficiaire. La société mère signataire du contrat détient le contrôle de la société bénéficiaire, appelée ici filiale, au sens de l'article L. 233-3 du code de commerce. Outre les clauses prévues ci-dessus, le contrat prévoit les modalités d'information des filiales bénéficiaires sur la contribution du demandeur. La liste des filiales concernées par le contrat, précisant leur raison sociale et leur numéro SIREN, est annexée au contrat.
 
-Les contrats et documents exigés peuvent être signés électroniquement, sous réserve du respect des conditions prévues par le décret n° 2001-272 du 30 mars 2001 susvisé et des dispositions du décret n° 2011-434 du 20 avril 2011 susvisé, et des textes pris en application de ce décret.
+Les contrats et documents exigés peuvent être signés électroniquement, sous réserve du respect des conditions prévues par le décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique et des dispositions du décret n° 2011-434 du 20 avril 2011 susvisé, et des textes pris en application de ce décret.
 
 Par dérogation, les contrats établis électroniquement mais ne respectant pas les modalités prévues à l'alinéa précédent peuvent être utilisés afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
 
@@ -192,15 +192,15 @@ Tous les contrats permettant de faire le lien entre le demandeur et le bénéfic
 
 L'engagement écrit d'un partenaire du demandeur à avoir incité directement le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen d'une contribution du demandeur au titre du dispositif des certificats d'économies d'énergie comporte :
 
-- l'identification des opérations d'économies d'énergie pour laquelle la contribution est apportée, et notamment le lieu de réalisation et la nature de l'opération ;
+– l'identification des opérations d'économies d'énergie pour laquelle la contribution est apportée, et notamment le lieu de réalisation et la nature de l'opération ;
 
-- la mention de la nature de cette contribution, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
+– la mention de la nature de cette contribution, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
 
-- l'identification du demandeur à l'origine de la contribution, via sa raison sociale ;
+– l'identification du demandeur à l'origine de la contribution, via sa raison sociale ;
 
-- l'identité du partenaire, via sa raison sociale ; et
+– l'identité du partenaire, via sa raison sociale ; et
 
-- l'identité du bénéficiaire de l'opération d'économies d'énergie.
+– l'identité du bénéficiaire de l'opération d'économies d'énergie.
 
 L'engagement est daté et signé par le partenaire au plus tard à la date d'engagement de l'opération.
 
@@ -212,17 +212,17 @@ Le partenaire est lié par un contrat de partenariat au demandeur ou à son mand
 
 Le contrat de partenariat décrit :
 
-- les principes de la collaboration entre le demandeur et le partenaire, en faisant référence au dispositif des certificats d'économies d'énergie ;
+– les principes de la collaboration entre le demandeur et le partenaire, en faisant référence au dispositif des certificats d'économies d'énergie ;
 
-- les bénéficiaires concernés ;
+– les bénéficiaires concernés ;
 
-- le rôle actif et incitatif mis en œuvre par le partenaire, au nom du demandeur, auprès du bénéficiaire ainsi que les obligations respectives du demandeur et de son partenaire dans le cadre du dispositif ;
+– le rôle actif et incitatif mis en œuvre par le partenaire, au nom du demandeur, auprès du bénéficiaire ainsi que les obligations respectives du demandeur et de son partenaire dans le cadre du dispositif ;
 
-- les modalités d'attribution de la contribution et la détermination de son montant lorsqu'il s'agit d'une contribution financière ;
+– les modalités d'attribution de la contribution et la détermination de son montant lorsqu'il s'agit d'une contribution financière ;
 
-- les modalités particulières inhérentes à l'établissement de certaines pièces du dossier de demande de certificats d'économies d'énergie ou aux contrôles des opérations concernées ; et
+– les modalités particulières inhérentes à l'établissement de certaines pièces du dossier de demande de certificats d'économies d'énergie ou aux contrôles des opérations concernées ; et
 
-- la durée du contrat.
+– la durée du contrat.
 
 Le contrat de partenariat est daté et signé par les parties avant la date de l'engagement écrit du partenaire du demandeur.
 
@@ -234,9 +234,9 @@ L'engagement écrit du partenaire, la justification de la date de cet engagement
 
 Sauf dispositions particulières prévues par la fiche d'opération standardisée :
 
-- la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat. Elle est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
+– la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat. Elle est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
 
-- la date d'achèvement de l'opération est la date d'émission de la facture de l'opération par le professionnel ayant mis en œuvre l'opération. La date d'achèvement de l'opération est justifiée par l'archivage de la facture de l'opération.
+– la date d'achèvement de l'opération est la date d'émission de la facture de l'opération par le professionnel ayant mis en œuvre l'opération. La date d'achèvement de l'opération est justifiée par l'archivage de la facture de l'opération.
 
 4.2. Bénéficiaire en tant que personne morale
 
@@ -244,29 +244,29 @@ Sauf dispositions particulières prévues par la fiche d'opération standardisé
 
 1° La date d'engagement est :
 
-- la date de signature du contrat de travaux entre le maître d'ouvrage bénéficiaire et le professionnel réalisant les travaux ; ou
+– la date de signature du contrat de travaux entre le maître d'ouvrage bénéficiaire et le professionnel réalisant les travaux ; ou
 
-- la date d'acceptation du devis ou du bon de commande, daté et signé par le maître d'ouvrage bénéficiaire ; ou
+– la date d'acceptation du devis ou du bon de commande, daté et signé par le maître d'ouvrage bénéficiaire ; ou
 
-- la date de l'ordre de service signé par le maître d'ouvrage bénéficiaire ou le maître d'œuvre délégué auprès du titulaire du marché ; ou
+– la date de l'ordre de service signé par le maître d'ouvrage bénéficiaire ou le maître d'œuvre délégué auprès du titulaire du marché ; ou
 
-- la date de l'acte d'engagement signé par le maître d'ouvrage bénéficiaire.
+– la date de l'acte d'engagement signé par le maître d'ouvrage bénéficiaire.
 
 2° La date d'achèvement de l'opération est la date du document de preuve de réalisation de l'opération, c'est-à-dire selon les cas :
 
-- la date de la facture relative à l'opération ;
+– la date de la facture relative à l'opération ;
 
-- la date de la facture d'achat du matériel concerné par l'opération lorsque celui-ci est installé par le service technique du bénéficiaire ;
+– la date de la facture d'achat du matériel concerné par l'opération lorsque celui-ci est installé par le service technique du bénéficiaire ;
 
-- la date de la décision de réception des travaux ;
+– la date de la décision de réception des travaux ;
 
-- la date du décompte général définitif de travaux ;
+– la date du décompte général définitif de travaux ;
 
-- la date de remise au maître d'ouvrage bénéficiaire du dossier de l'ouvrage exécuté ;
+– la date de remise au maître d'ouvrage bénéficiaire du dossier de l'ouvrage exécuté ;
 
-- la date du contrat de location dans le cas de la location d'un équipement ; ou
+– la date du contrat de location dans le cas de la location d'un équipement ; ou
 
-- lorsque la fiche d'opération standardisée relative à l'opération réalisée le prévoit spécifiquement, la date de la pièce justificative de la réalisation de l'opération prévue par la fiche d'opération standardisée.
+– lorsque la fiche d'opération standardisée relative à l'opération réalisée le prévoit spécifiquement, la date de la pièce justificative de la réalisation de l'opération prévue par la fiche d'opération standardisée.
 
 Sauf dispositions particulières prévues par la fiche d'opération standardisée, la date d'engagement est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7. Le document permettant de justifier la date d'achèvement de l'opération est archivé.
 
@@ -282,9 +282,9 @@ Les informations indiquées sur l'attestation sur l'honneur doivent être cohér
 
 Les critères et conditions de délivrance prévus par les fiches d'opérations standardisées sont justifiés par :
 
-- les attestations sur l'honneur prévues au paragraphe précédent ; et
+– les attestations sur l'honneur prévues au paragraphe précédent ; et
 
-- les pièces justificatives prévues par la fiche d'opération standardisée concernée.
+– les pièces justificatives prévues par la fiche d'opération standardisée concernée.
 
 En complément, lorsque la fiche d'opération standardisée impose que l'opération soit mise en œuvre par un professionnel, la preuve de réalisation de l'opération comporte le numéro SIRET ou SIREN du professionnel ayant réalisé l'opération.
 
@@ -310,57 +310,57 @@ Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'a
 
 La situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie est justifiée par :
 
-- le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+– le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
-- le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+– le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
-- pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
+– pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
 
 La situation de grande précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie est justifiée par :
 
-- l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+– l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
-- le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+– le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
-- une facture d'électricité justifiant du bénéfice de la tarification de l'électricité comme produit de première nécessité prévue par l'article L. 337-3 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
+– une facture d'électricité justifiant du bénéfice de la tarification de l'électricité comme produit de première nécessité prévue par l'article L. 337-3 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
 
-- une facture de gaz naturel justifiant du bénéfice du tarif spécial de solidarité applicable à la fourniture de gaz naturel prévu par l'article L. 445-5 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
+– une facture de gaz naturel justifiant du bénéfice du tarif spécial de solidarité applicable à la fourniture de gaz naturel prévu par l'article L. 445-5 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
 
-- l'attestation du droit à la protection complémentaire en matière de santé prévue par l'article R. 861-16 du code de la sécurité sociale valide à la date de référence ; ou
+– l'attestation du droit à la protection complémentaire en matière de santé prévue par l'article R. 861-16 du code de la sécurité sociale valide à la date de référence ; ou
 
-- une copie de l'attestation de droit à l'aide au paiement d'une assurance complémentaire de santé prévue par l'article L. 863-3 du code de la sécurité sociale, datée de moins d'un an à la date de référence ; ou
+– une copie de l'attestation de droit à l'aide au paiement d'une assurance complémentaire de santé prévue par l'article L. 863-3 du code de la sécurité sociale, datée de moins d'un an à la date de référence ; ou
 
-- l'attestation accompagnant le chèque énergie prévu à l'article L.124-1 du code de l'énergie, dont l'échéance d'utilisation est postérieure à la date de référence ; ou
+– l'attestation accompagnant le chèque énergie prévu à l'article L. 124-1 du code de l'énergie, dont l'échéance d'utilisation est postérieure à la date de référence ; ou
 
-- pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer très social conclue entre le bailleur et l'Agence nationale de l'habitat en application de l'article L. 321-8 du Code de la construction et de l'habitat en vigueur à la date de référence pour le logement concerné.
+– pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer très social conclue entre le bailleur et l'Agence nationale de l'habitat en application de l'article L. 321-8 du Code de la construction et de l'habitat en vigueur à la date de référence pour le logement concerné.
 
 La date de référence est, au choix :
 
-- la date d'engagement de l'opération ; ou
+– la date d'engagement de l'opération ; ou
 
-- la date d'achèvement de l'opération ; ou
+– la date d'achèvement de l'opération ; ou
 
-- la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
+– la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
 
 8.2. Opérations concernant au moins un logement locatif social
 
 I. Le demandeur peut être exempté des documents justificatifs mentionnés au 8-1 pour les ménages occupant des logements faisant l'objet d'une convention définie à l'article L. 351-2 du code de la construction et de l'habitation, géré par :
 
-- un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du même code, ou
+– un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du même code, ou
 
-- un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code, ou
+– un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code, ou
 
-- une société d'économie mixte, ou
+– une société d'économie mixte, ou
 
-- un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
+– un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
 
 Dans ce cas, le gestionnaire des logements concernés atteste sur l'honneur :
 
-- qu'il appartient à l'un des organismes précités,
+– qu'il appartient à l'un des organismes précités,
 
-- le nombre total de ménages concernés par l'opération, et
+– le nombre total de ménages concernés par l'opération, et
 
-- le nombre de ménages, parmi ceux concernés par l'opération, logés dans des logements qu'il gère et faisant l'objet d'une convention selon les conditions précitées.
+– le nombre de ménages, parmi ceux concernés par l'opération, logés dans des logements qu'il gère et faisant l'objet d'une convention selon les conditions précitées.
 
 Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
@@ -372,20 +372,22 @@ Le bénéficiaire de l'opération établit la liste de ces ménages. Cette liste
 
 Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie, les pièces justificatives sont :
 
-- la convention d'opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du code de la construction et de l'habitat et à l'article 6 de la loi n° 90-449 du 31 mai 1990 ou d'un plan de sauvegarde prévu à l'article L. 615-1 du code de la construction et de l'habitation, en vigueur à la date de référence définie par le point 8-1 ;
+– la convention d'opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du code de la construction et de l'habitat et à l'article 6 de la loi n° 90-449 du 31 mai 1990 ou d'un plan de sauvegarde prévu à l'article L. 615-1 du code de la construction et de l'habitation, en vigueur à la date de référence définie par le point 8-1 ;
 
-- la décision de l'Agence nationale de l'habitat d'attribution d'une subvention au syndicat de copropriétaires ;
+– la décision de l'Agence nationale de l'habitat d'attribution d'une subvention au syndicat de copropriétaires ;
 
-- les résultats de l'enquête sociale, relative aux ressources des occupants de l'immeuble, faisant partie de l'étude pré-opérationnelle. Les résultats de l'enquête sociale mentionnent notamment le nombre total de logements de la copropriété, le nombre de logements enquêtés, et soit le nombre de répondants, soit le nombre de non-répondants, ainsi que le nombre de ménages en situation de précarité énergétique ou de grande précarité parmi les répondants ; et
+– les résultats de l'enquête sociale, relative aux ressources des occupants de l'immeuble, faisant partie de l'étude pré-opérationnelle. Les résultats de l'enquête sociale mentionnent notamment le nombre total de logements de la copropriété, le nombre de logements enquêtés, et soit le nombre de répondants, soit le nombre de non-répondants, ainsi que le nombre de ménages en situation de précarité énergétique ou de grande précarité parmi les répondants ; et
 
-- une attestation sur l'honneur du syndicat des copropriétaires bénéficiaire de l'opération, précisant que la copropriété respecte les conditions prévues au V de l'article 3-1 de l'arrêté du 29 décembre 2014 précité. Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+– une attestation sur l'honneur du syndicat des copropriétaires bénéficiaire de l'opération, précisant que la copropriété respecte les conditions prévues au V de l'article 3-1 de l'arrêté du 29 décembre 2014 précité. Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
 8.4. Autres opérations
 
-Pour les opérations n'entrant pas dans le cadre des points 8-1, 8-2 et 8-3 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
+Pour les opérations n'entrant pas dans le cadre des points 8-1,8-2 et 8-3 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
 
 Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
 NOTA :
 
 Conformément à l'article 2 de l'arrêté du 20 octobre 2016, ces dispositions sont applicables aux opérations d'économie d'énergie engagées à compter du 1er janvier 2017.
+
+Conformément au II de l'article 2 du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique, les références au décret n° 2001-272 du 30 mars 2001, contenues dans des dispositions de nature réglementaire, sont remplacées par les références à ce même décret n° 2017-1416 du 28 septembre 2017.
