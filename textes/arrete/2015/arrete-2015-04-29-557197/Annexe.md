@@ -36,53 +36,35 @@ Nom du prêteur, s'il est connu :
 
 Projet à financer : (cocher la case correspondante) □ résidence principale □ résidence secondaire □ travaux □ investissement locatif □ autre :
 
-PRÊT
+PRÊT |
 
-|
+MONTANT EN EUROS |
 
-MONTANT EN EUROS
-
-|
-
-TYPE DE PRÊT
-
-|
+TYPE DE PRÊT |
 
 DURÉE DU PRÊT
 
-en mois
-
-|
+en mois |
 
 TAUX D'INTÉRÊT
 
-nominal indicatif
+nominal indicatif |
+
+Prêt n° 1 |
 
 |
 
-Prêt n° 1
-
-|
-
-|
-
-[Amortissable/in fine/relais]
+[Amortissable/in fine/relais] |
 
 |
 
 |
 
-|
-
-Prêt n° 2
+Prêt n° 2 |
 
 |
 
-|
-
-[Amortissable/in fine/relais]
-
-|
+[Amortissable/in fine/relais] |
 
 |
 
@@ -100,85 +82,45 @@ Votre prêteur exige que vous souscriviez des garanties d'assurance minimales po
 
 |
 
-CRITÈRES SPÉCIFIQUES
+CRITÈRES SPÉCIFIQUES |
 
-|
+QUOTITÉ EXIGÉE |
 
-QUOTITÉ EXIGÉE
+Garantie décès, le cas échéant |
 
-|
+[à compléter] |
 
-Garantie décès, le cas échéant
+[à compléter] % |
 
-|
+Garantie PTIA, le cas échéant |
 
-[à compléter]
+[à compléter] |
 
-|
+[à compléter] % |
 
-[à compléter] %
+Garantie incapacité temporaire totale, le cas échéant |
 
-|
+[à compléter] |
 
-Garantie PTIA, le cas échéant
+[à compléter] % |
 
-|
+Garantie invalidité permanente totale, le cas échéant |
 
-[à compléter]
+[à compléter] |
 
-|
+[à compléter] % |
 
-[à compléter] %
+Garantie invalidité permanente partielle, le cas échéant |
 
-|
+[à compléter] |
 
-Garantie incapacité temporaire totale, le cas échéant
+[à compléter] % |
 
-|
+Garantie perte d'emploi, le cas échéant |
 
-[à compléter]
+[à compléter] |
 
-|
-
-[à compléter] %
-
-|
-
-Garantie invalidité permanente totale, le cas échéant
-
-|
-
-[à compléter]
-
-|
-
-[à compléter] %
-
-|
-
-Garantie invalidité permanente partielle, le cas échéant
-
-|
-
-[à compléter]
-
-|
-
-[à compléter] %
-
-|
-
-Garantie perte d'emploi, le cas échéant
-
-|
-
-[à compléter]
-
-|
-
-[à compléter] %
-
-|
+[à compléter] % |
 
 Les caractéristiques détaillées des garanties exigées doivent vous être communiquées par votre prêteur afin de vous permettre d'apprécier l'équivalence des niveaux de garanties entre les contrats.
 
@@ -360,9 +302,7 @@ assuré pour chaque type de garantie
 
 |
 
-Types de garanties
-
-|
+Types de garanties |
 
 COTISATION
 
@@ -390,9 +330,7 @@ Prêt 1
 
 |
 
-< quotité par type de garantie ; prêt 1 > %
-
-|
+< quotité par type de garantie ; prêt 1 > % |
 
 □ Décès
 
@@ -408,17 +346,11 @@ Prêt 1
 
 |
 
-< cotisation [s'il y a lieu, moyenne] (*) [compléter la période] prêt 1 >
+< cotisation [s'il y a lieu, moyenne] (*) [compléter la période] prêt 1 > |
 
-|
+< coût total ass prêt 1 > |
 
-< coût total ass prêt 1 >
-
-|
-
-< TAEA prêt 1 >
-
-|
+< TAEA prêt 1 > |
 
 Prêt 2
 
@@ -428,9 +360,7 @@ Prêt 2
 
 |
 
-< quotité par type de garantie prêt 2 > %
-
-|
+< quotité par type de garantie prêt 2 > % |
 
 □ Décès
 
@@ -446,17 +376,11 @@ Prêt 2
 
 |
 
-< cotisation [s'il y a lieu, moyenne]* [compléter la période] prêt 2 > euros
+< cotisation [s'il y a lieu, moyenne]* [compléter la période] prêt 2 > euros |
 
-|
+< coût total ass prêt 2 > |
 
-< coût total ass prêt 2 >
-
-|
-
-< TAEA prêt 2 >
-
-|
+< TAEA prêt 2 > |
 
 (*) Si la cotisation est variable, indiquer la cotisation périodique moyenne.
 
@@ -484,4 +408,8 @@ Les différentes garanties peuvent faire l'objet de contrats séparés.
 
 [à compléter avec les mentions légales applicables, telles que prévues à l'article 32 de la loi n° 78-17 du 6 janvier 1978 et aux articles R . 123-237 et suivants du code de commerce]
 
-Conformément à la loi, dès aujourd'hui et jusqu'à 12 mois après la signature de l'offre de prêt, voire au-delà si votre contrat de prêt le prévoit, vous pouvez souscrire une assurance auprès de l'assureur de votre choix et la proposer en garantie au prêteur. Celui-ci ne peut pas la refuser si elle présente un niveau de garantie équivalent au contrat d'assurance qu'il vous a proposé.
+Conformément à la loi, dès aujourd'hui et jusqu'à 12 mois après la signature de l'offre de prêt, vous pouvez souscrire une assurance auprès de l'assureur de votre choix et la proposer en garantie au prêteur. A compter du 1er janvier 2018, vous disposez également d'une faculté de substitution si vous exercez votre droit de résiliation annuel sur votre contrat d'assurance en cours, quelle que soit la date de signature du contrat, conformément à l'article 10 de la loi n° 2017-203 du 21 février 2017.
+
+Dès lors que ce contrat présente un niveau de garantie équivalent à votre contrat en cours ou celui qui vous est proposé par le prêteur, ce dernier ne peut le refuser.
+
+Depuis le 1er janvier 2017, les offres de prêts doivent préciser les documents que doit contenir la demande de substitution.
