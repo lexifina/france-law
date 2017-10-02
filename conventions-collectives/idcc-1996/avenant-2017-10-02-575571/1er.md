@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 23 « Prévoyance » des dispositions générales de la convention collective nationale susvisée est remplacé par un article ainsi rédigé :
+
+« Article 23
+
+Prévoyance
+
+Il est institué, pour les bénéficiaires de la présente convention collective, des régimes de prévoyance obligatoires couvrant les risques, décès, incapacité de travail, invalidité, maternité/paternité ainsi que des régimes de frais de soins de santé.
+
+Ces régimes sont rendus obligatoires pour toutes les officines de pharmacie.
+
+La nature et le niveau des prestations, le taux et la répartition des cotisations constituent un tout indivisible. Ils font l'objet de conditions particulières pour chacune des catégories dites non cadres, d'une part, et cadres et assimilés cadres, d'autre part, identifiées respectivement aux annexes IV.1 et IV.2 de la présente convention collective.
+
+La commission paritaire nationale de la pharmacie d'officine est chargée :
+
+– de fixer les cotisations et les prestations des régimes institués par le présent article ;
+
+– de veiller au bon fonctionnement desdits régimes et de proposer les améliorations ou les modifications qui pourraient leur être apportées, tant en ce qui concerne les prestations que le taux d'appel des cotisations ;
+
+– d'instituer des garanties collectives présentant un degré élevé de solidarité comprenant notamment un fonds de solidarité, garanties gérées par le ou les assureurs recommandés dans des conditions et selon des modalités fixées par un protocole d'accord conclu à cet effet. »
