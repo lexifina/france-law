@@ -253,9 +253,3 @@ Toulon - Saint-Mandrier |
 Var |
 
 Hélistation et hydrobase : procédure de fermeture de l'hydrobase en cours |
-
-Villacoublay-Vélizy |
-
-Yvelines |
-
-|

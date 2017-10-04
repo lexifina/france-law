@@ -996,6 +996,12 @@ Meurthe-et-Moselle |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
+Villacoublay-Vélizy |
+
+Yvelines |
+
+|
+
 Yvetot - Baons-le-Comte |
 
 Seine-Maritime |
