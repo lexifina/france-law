@@ -20,7 +20,7 @@ Le candidat accomplit six fois le parcours d'une longueur de 50 mètres en appli
 
 1. Partir du cône de départ, courir en direction du cône 1.
 
-2. Contourner le cône 1, traverser en diagonale en direction du cône 2. Avant d'atteindre ce cône, franchir d'un bond, sans le toucher, un obstacle (tapis de sol) de 1,80 m de long. A la réception, tourner à gauche autour du cône 2 et se diriger vers l'escalier.
+2. Contourner le cône 1, traverser en diagonale en direction du cône 2. Avant d'atteindre ce cône, franchir d'un bond, sans le toucher, un obstacle (tapis de sol) de 1,80 m de long pour les hommes, de 1,60 m de long pour les femmes. A la réception, tourner à gauche autour du cône 2 et se diriger vers l'escalier.
 
 3. Monter et descendre l'escalier en courant, en touchant au moins une marche en montant, la plate-forme supérieure et une marche en descendant.
 
@@ -34,13 +34,13 @@ Le candidat accomplit six fois le parcours d'une longueur de 50 mètres en appli
 
 Fautes relevées :
 
-- non-franchissement du tapis ;
+-non-franchissement du tapis ;
 
-- cône ou barre renversé ;
+-cône ou barre renversé ;
 
-- poutre touchée avec toute autre partie que les mains ou les pieds ;
+-poutre touchée avec toute autre partie que les mains ou les pieds ;
 
-- se relever en s'aidant de la poutre ou en roulant sur le côté.
+-se relever en s'aidant de la poutre ou en roulant sur le côté.
 
 Toute faute est immédiatement sanctionnée par l'obligation de tenter à nouveau le passage de l'obstacle jusqu'à y parvenir après avoir, le cas échéant, replacé l'élément tombé. Le non-franchissement du tapis répété six fois entraîne l'échec de l'épreuve.
 
@@ -96,257 +96,131 @@ Femmes
 
 |
 
-20
+20 |
 
-|
+2'55 |
 
-2'55
+3'05 |
 
-|
+19 |
 
-3'05
+3'00 |
 
-|
+3'10 |
 
-19
+18 |
 
-|
+3'05 |
 
-3'00
+3'15 |
 
-|
+17 |
 
-3'10
+3'10 |
 
-|
+3'20 |
 
-18
+16 |
 
-|
+3'15 |
 
-3'05
+3'25 |
 
-|
+15 |
 
-3'15
+3'20 |
 
-|
+3'30 |
 
-17
+14 |
 
-|
+3'25 |
 
-3'10
+3'35 |
 
-|
+13 |
 
-3'20
+3'30 |
 
-|
+3'40 |
 
-16
+12 |
 
-|
+3'35 |
 
-3'15
+3'45 |
 
-|
+11 |
 
-3'25
+3'40 |
 
-|
+3'50 |
 
-15
+10 |
 
-|
+3'45 |
 
-3'20
+3'55 |
 
-|
+9 |
 
-3'30
+3'50 |
 
-|
+4'00 |
 
-14
+8 |
 
-|
+3'55 |
 
-3'25
+4'05 |
 
-|
+7 |
 
-3'35
+4'00 |
 
-|
+4'10 |
 
-13
+6 |
 
-|
+4'11 |
 
-3'30
+4'21 |
 
-|
+5 |
 
-3'40
+4'20 |
 
-|
+4'30 |
 
-12
+4 |
 
-|
+4'25 |
 
-3'35
+4'35 |
 
-|
+3 |
 
-3'45
+4'30 |
 
-|
+4'40 |
 
-11
+2 |
 
-|
+4'35 |
 
-3'40
+4'45 |
 
-|
+1 |
 
-3'50
+4'40 |
 
-|
+4'50 |
 
-10
+0 |
 
-|
+> 4'40 et abandons/échecs |
 
-3'45
-
-|
-
-3'55
-
-|
-
-9
-
-|
-
-3'50
-
-|
-
-4'00
-
-|
-
-8
-
-|
-
-3'55
-
-|
-
-4'05
-
-|
-
-7
-
-|
-
-4'00
-
-|
-
-4'10
-
-|
-
-6
-
-|
-
-4'11
-
-|
-
-4'21
-
-|
-
-5
-
-|
-
-4'20
-
-|
-
-4'30
-
-|
-
-4
-
-|
-
-4'25
-
-|
-
-4'35
-
-|
-
-3
-
-|
-
-4'30
-
-|
-
-4'40
-
-|
-
-2
-
-|
-
-4'35
-
-|
-
-4'45
-
-|
-
-1
-
-|
-
-4'40
-
-|
-
-4'50
-
-|
-
-0
-
-|
-
-> 4'40 et abandons/échecs
-
-|
-
-> 4'50 et abandons/échecs
-
-|
+> 4'50 et abandons/échecs |
 
 En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
