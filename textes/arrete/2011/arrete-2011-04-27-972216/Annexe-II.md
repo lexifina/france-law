@@ -48,21 +48,23 @@ III.-Nature, forme et programmes des épreuves d'admission
 
 Les épreuves d'admission comprennent :
 
--une épreuve orale d'entretien avec le jury (durée : 10 minutes de préparation et 20 minutes d'entretien ; coefficient 7) ;
+-une épreuve orale d'entretien avec le jury (25 minutes d'entretien ; coefficient 7) ;
 
 -l'épreuve physique gendarmerie (coefficient 3).
 
 3.1. Epreuve d'entretien avec le jury
 
-Cette épreuve consiste en un entretien avec le jury sur un sujet d'ordre général portant principalement sur les grandes questions d'actualité ainsi que sur les motivations du candidat. Après le tirage au sort d'un sujet, le candidat bénéficie d'une préparation de 10 minutes avant une restitution de 20 minutes. Le jury a toute latitude pour élargir la discussion.
+Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel préalablement déposé ou transmis par voie postale (en lettre recommandée avec accusé de réception) par le candidat auprès du service organisateur du concours à une date fixée par l'arrêté d'ouverture du concours. Le dossier est transmis au jury par le service organisateur.
 
-Elle vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de sa personnalité, de sa motivation, de sa culture générale, de ses facultés d'expression et de raisonnement, de sa vivacité d'esprit et de son équilibre émotionnel.
+Le fait de ne pas respecter les formalités et délais de transmission du dossier professionnel entraîne l'élimination du candidat. Aucune pièce complémentaire transmise par le candidat hors délai ne sera prise en compte.
+
+Le jury a toute latitude pour élargir la discussion.
+
+Elle vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale.
+
+Le modèle de dossier est disponible sur le site internet de la gendarmerie nationale : www.lagendarmerierecrute.fr.
 
 Les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
-
-Le candidat devra se présenter à cette épreuve avec un curriculum vitae et une copie de sa dernière notation.
-
-Pour cet entretien, le jury dispose, à titre indicatif, du dossier du candidat.
 
 3.2. Epreuve physique gendarmerie
 
@@ -337,3 +339,7 @@ g) Aspects socioculturels contemporains de la délinquance.
 -les stupéfiants ;
 
 -l'immigration irrégulière.
+
+NOTA :
+
+L'arrêté du 15 mars 2017, publié au JORF du 18 mars 2017 (NOR : INTJ1708397A), a reporté la date d'entrée en vigueur de l'arrêté du 10 février 2017 au 4 octobre 2017.
