@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MISSION OPC URBAIN INTER CHANTIERS OPERATION "CAMPUS MIRABEAU" - MARCHE N°A15-097 - AVENANT N°1 PORTANT AUGMENTATION DU MONTANT MAXIMUM ANNUEL DE LA PARTIE DU MARCHE A BONS DE COMMANDE - AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-10-05
+- Séance : Conseil Municipal 1CA
+- Objet : MISSION OPC URBAIN INTER CHANTIERS OPERATION "CAMPUS MIRABEAU" - MARCHE N°A15-097 - AVENANT N°1 PORTANT AUGMENTATION DU MONTANT MAXIMUM ANNUEL DE LA PARTIE DU MARCHE A BONS DE COMMANDE - AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8448-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
