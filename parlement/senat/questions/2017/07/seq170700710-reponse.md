@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700710
+
+- Question : [SEQ170700710](seq170700710.md) — Obligation des pneus neige en période hivernale
+
+## Réponse
+
+*Intérieur, JO du 2017-10-05, page 3071*
+
+La loi n° 2016-1888 du 28 décembre 2016 de modernisation, de développement et de protection des territoires de montagne a créé un article L. 314-1 dans le code de la route. Celui-ci dispose que « Dans les massifs mentionnés à l'article 5 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne, le représentant de l'État détermine, après avis du comité de massif, les obligations d'équipement des véhicules en période hivernale ». Il prévoit également que le Gouvernement doit prendre un décret d'application afin de fixer « les modalités d'application du présent article, et notamment les dispositifs inamovibles et amovibles antidérapants requis, dans le respect du règlement (CE) n° 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l'homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés ». Le Gouvernement a entamé cet été le travail de rédaction du décret modifiant le code de la route. De nombreuses consultations, facultatives et obligatoires, sont menées. Les préfets des zones de montagne ont notamment pu faire part de leurs analyses et propositions sur les modalités temporelles, géographiques et catégorielles des futures obligations de détention ou de port d'équipements hivernaux. En outre, le projet de texte sera soumis très prochainement au conseil national de la montagne qui pourra faire part de ses observations. Selon les orientations qui seront validées, le Gouvernement procédera à la mise à jour des textes réglementaires relatifs à la signalisation routière et procédera à une large information des citoyens, des entreprises et des élus.
