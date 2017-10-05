@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801013
+
+- Question : [SEQ170801013](seq170801013.md) — Conséquences de l'incident du missile nord-coréen
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2017-10-05, page 3070*
+
+À la suite du tir de missile balistique nord-coréen qui s'est abattu le 28 juillet 2017 dans la zone économique exclusive du Japon, les autorités françaises ont rapidement réagi en concertation étroite avec les administrations concernées pour prendre toutes les précautions nécessaires afin d'assurer la sécurité des passagers. La France a pris la décision d'interdire l'entrée des aéronefs français dans la totalité de la FIR (Flight information region) nord-coréenne de Pyongyang, qui était déjà partiellement interdite depuis 2016. La compagnie Air France a également immédiatement adapté ses trajectoires. Ce tir, comme les précédents, n'avait pas fait l'objet de notification aux autorités de navigation aérienne (Notice to Airmen, ou NOTAM), et constitue une nouvelle démonstration du caractère irresponsable des agissements du régime nord-coréen. Les deux tirs de missile balistique de portée intercontinentale nord-coréens du 4 et du 28 juillet ont conduit les membres du Conseil de sécurité des Nations unies à adopter à l'unanimité, le 5 août 2017, la résolution 2371 qui renforce, pour la deuxième fois cette année, le régime de sanctions imposé à Pyongyang. L'interdiction totale des exportations de charbon, minerais de fer et plomb, et produits de la pêche qu'elle prévoit pourrait priver la Corée du Nord d'un milliard de dollars par an, soit un tiers de ses revenus d'exportation. La France s'attache à maintenir une position de fermeté et à renforcer la mise en œuvre des régimes de sanctions mis en place par les Nations unies et l'Union européenne, afin de créer les conditions d'un dialogue en vue, à terme, de l'abandon par la Corée du Nord de ses programmes nucléaire et balistique.
