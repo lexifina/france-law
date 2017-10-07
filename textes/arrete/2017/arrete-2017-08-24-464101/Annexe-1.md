@@ -206,9 +206,7 @@ Finess juridique |
 
 Finess géographiques |
 
-590000121
-
-620000232 |
+590000121 |
 
 Etablissement |
 
@@ -216,11 +214,11 @@ GROUPE HOSPITALIER SECLIN CARVIN |
 
 Code comptable |
 
-062066 |
+059042 |
 
 Ville du comptable |
 
-CARVIN |
+SECLIN |
 
 Code CPU |
 
