@@ -560,4 +560,10 @@ RH-34 ou 3-[2-(2-méthoxybenzylamino)éthyl]-1H-quinazoline-2,4-dione
 
 - tétrahydrofuranylfentanyl ou THF-F ;
 
-- valerylfentanyl .
+- valerylfentanyl ;
+
+- Diphénidine ou 1-(1,2-diphenylethyl) piperidine ou 1,2-DEP ou DPD ou DND ;
+
+- Ephénidine ou N-ethyl-1,2-diphenylethylamine ou NEDPA ou EPE ;
+
+- Méthoxphénidine ou méthoxyphénidine ou 1-[1-(2-methoxyphenyl)-2-phenylethyl] piperidine ou 2-MeO-diphénidine ou méthoxydiphénidine ou MXP.
