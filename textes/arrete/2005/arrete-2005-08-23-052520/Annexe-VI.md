@@ -92,7 +92,7 @@ du présent arrêté
 
 |
 
-4.10. Ravitaillement des réservoirs fixes
+4.10. Ravitaillement des réservoirs
 
 |
 

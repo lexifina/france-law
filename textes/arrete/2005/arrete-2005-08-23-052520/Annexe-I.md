@@ -2,6 +2,24 @@
 
 Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4718 de la nomenclature des installations classées
 
+Définitions :
+
+On entend par :
+
+Aire de stationnement : zone dédiée au stationnement des véhicules de transport de gaz inflammables, gaz toxiques ou GPL, hors présence humaine permanente.
+
+Aire de stockage : zone dédiée à l'implantation de récipients à pression transportables, hors présence humaine permanente.
+
+Aire de dépotage : zone où le véhicule ravitailleur effectue les opérations de remplissage d'un réservoir fixe.
+
+Récipient à pression transportable : récipient couvert par la section 11 du chapitre VII du titre V du livre V du code de l'environnement : bouteilles, tubes, fûts à pression, … Les camions citernes ne sont pas considérés comme des récipients à pression transportables au sens du présent arrêté.
+
+Réservoir : capacité fixe (aérienne ou enterrée) destinée au stockage de gaz inflammable ne répondant pas à la définition de récipients à pression transportable.
+
+Bouteille métallique : Récipient à pression transportable conçu en matériau métallique, pouvant avoir une partie d'autre matériau ne participant pas à la résistance à la pression, d'une capacité en eau ne dépassant pas 150 litres.
+
+Télésurveillance : dispositif permettant la surveillance à distance d'une installation (report de détection incendie ou vidéosurveillance par exemple).
+
 1. Dispositions générales
 
 1.1. Conformité de l'installation
@@ -18,7 +36,7 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+Le délai maximal pour la réalisation du premier contrôle est défini à l'article R 512-58 du code de l'environnement. L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -38,27 +56,31 @@ L'exploitant établi et tient à jour un dossier comportant les documents suivan
 
 -la durée de vie des installations et le programme de leur entretien et contrôles tenus à jour ;
 
--la preuve de dépôt de la déclaration et les prescriptions générales ;
+-le récépissé de déclaration, ou la preuve de dépôt, et les prescriptions générales,
 
 -les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
 -les résultats des dernières mesures sur les effluents et le bruit ;
 
--lorsque ces points s'appliquent à l'installation concernée, les documents prévus aux points 3.5,3.6,4.3,4.7,4.8,5.1,7.2 et 7.5 du présent arrêté.
+-lorsque ces points s'appliquent à l'installation concernée, les documents prévus aux points 3.5,3.6,4.3,4.7,4.8,5.1,7.2 et 7.5 du présent arrêté ;
+
+-les dispositions prévues en cas de sinistre.
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
 Objet du contrôle :
 
--présentation de la preuve de dépôt de la déclaration et des prescriptions générales ;
+-présence du récépissé de déclaration ou de la preuve de dépôt ;
 
--présentation des plans à jour d'éventuelles modifications (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence des prescriptions générales ;
 
--présentation des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
+-présence des plans à jour d'éventuelles modifications (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--vérification de la capacité totale du ou des réservoirs au regard de la capacité déclarée, en tenant compte du volume de remplissage maximal de chaque réservoir ;
+-présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
 
--vérification que la capacité totale du ou des réservoirs est inférieure à la valeur supérieure telle que définie à l'annexe de l'article R. 511-9 du code de l'environnement, en tenant compte du volume de remplissage maximal de chaque réservoir (le non-respect de ce point relève d'une non-conformité majeure).
+-vérification de la quantité présente sur site au regard de la quantité déclarée, en tenant compte du volume de remplissage maximal de chaque réservoir ou récipient à pression transportable ;
+
+-vérification que la capacité totale du ou des réservoirs est inférieure à la valeur supérieure telle que définie à l'annexe de l'article R. 511-9 du code de l'environnement, en tenant compte du volume de remplissage maximal de chaque réservoir ou récipient à pression transportable (le non-respect de ce point relève d'une non-conformité majeure).
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -70,47 +92,87 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 1.7. Cessation d'activité
 
-Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant en informe le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées.
+Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant en informe le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées conformément à l'article R. 512-66-1 du code de l'environnement.
 
 1.8 Autres réglementations
 
-Les réservoirs fixes et mobiles sont conformes aux dispositions de la réglementation des équipements sous pression en vigueur. De plus les réservoirs mobiles sont conformes aux dispositions de la réglementation relative au transport des matières dangereuses.
+Les réservoirs et les récipients à pression transportables sont conformes aux dispositions de la réglementation des équipements sous pression en vigueur. De plus les récipients à pression transportables sont conformes aux dispositions de la réglementation relative au transport des matières dangereuses.
 
 2. Implantation-Aménagement
 
 2.1. Règles d'implantation
 
-2.1.1. Stockage en réservoirs mobiles
+2.1.1. Stockage de récipients à pression transportables
 
-L'installation est implantée de telle façon qu'il existe une distance entre l'aire de stockage des réservoirs mobiles et les limites du site de 5 mètres si la capacité déclarée du stockage en réservoirs mobiles est au plus égale à 15 tonnes, et de 7,5 mètres si cette capacité dépasse 15 tonnes. À l'intérieur des limites du site, les distances minimales suivantes, mesurées horizontalement à partir de l'aire de stockage, sont également observées :
+I.-L'installation est implantée de telle façon qu'il existe une distance entre toute aire de stockage et les limites du site de 5 mètres si la capacité déclarée du stockage en récipients à pression transportables est au plus égale à 15 tonnes, et de 7,5 mètres si cette capacité dépasse 15 tonnes.
 
-5 mètres des parois des appareils de distribution de liquides ou de gaz inflammables ;
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées après le 1er janvier 2018, la distance entre toute aire de stockage et les limites du site est portée à au moins 15 mètres.
 
-5 mètres d'un établissement recevant du public de la 5e catégorie (magasin de vente...) ;
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018, la distance entre l'aire de stockage et les locaux d'habitations et les locaux des établissements recevant du public, situés en dehors du site, est portée à au moins 15 mètres, tout en respectant les distances du premier alinéa du présent point I.
 
-5 mètres de tout stockage de matières inflammables, combustibles ou comburantes ;
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, les distances précédentes peuvent être réduites à 1 mètre si un mur REI 120, dont la hauteur excède de 0,5 mètre celle du stockage, sans être inférieure à 2 mètres, est interposé entre l'aire de stockage et les limites du site ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
 
-5 mètres des issues ou ouvertures des locaux administratifs ou techniques de l'installation.
+II.-Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées après le 1er janvier 2018, les aires de stockage des bouteilles métalliques sont séparées des aires de stockage des autres récipients à pression transportables.
 
-Les distances précédentes peuvent être réduites à 1 mètre si entre ces emplacements et le stockage est interposé un mur en matériau de classe A1 (incombustible), REI 120 (coupe-feu de degré deux heures), dont la hauteur excède de 0,5 mètre celle du stockage, sans être inférieure à 2 mètres ; la longueur de ce mur est telle que les distances précédentes sont toujours respectées en le contournant.
+Les aires de stockage respectent les dimensions suivantes :
 
-L'installation n'est pas implantée en sous-sol.
+-la hauteur de stockage est au maximum égale à 5 mètres et la plus grande dimension horizontale n'est pas supérieure à 11 mètres pour les bouteilles métalliques ;
 
-Dans les stations-services ouvertes au public, le stockage des réservoirs mobiles vides ou pleins se fait sur une hauteur maximum inférieure à 3 mètres.
+-la hauteur de stockage est au maximum égale à 3 mètres et la plus grande dimension horizontale n'est pas supérieure à 11 mètres, pour les récipients à pression transportables autres que les bouteilles métalliques ;
+
+-la distance entre deux aires de stockage est au minimum égale à 10 mètres. Cette distance peut être réduite à 1 mètre si entre ces aires de stockage, est interposé un mur REI 120, dont la hauteur excède de 0,5 mètre celle du stockage, sans être inférieure à 2 mètres ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
+
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, les dimensions du présent point II sont applicables à partir du 1er septembre 2018.
+
+III.-A l'intérieur des limites du site, les distances minimales suivantes à partir de chacune des aires de stockage, sont également observées :
+
+-5 mètres des parois des appareils de distribution de liquides ou de gaz inflammables ;
+
+-5 mètres d'un établissement recevant du public de la 5e catégorie (magasin de vente …) ;
+
+-5 mètres de tout stockage de matières inflammables, combustibles ou comburantes ;
+
+-5 mètres des issues ou ouvertures des locaux administratifs ou techniques de l'installation.
+
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées après le 1er janvier 2018, à l'intérieur des limites du site, les distances minimales suivantes à partir de chacune des aires de stockage sont observées :
+
+-10 mètres des parois des appareils de distribution de liquides ou de gaz inflammables ;
+
+-5 mètres d'un établissement recevant du public de la 5e catégorie (magasin de vente …) ;
+
+-10 mètres de tout stockage ou implantation de matières inflammables, combustibles ou comburantes ;
+
+-5 mètres des issues ou ouvertures des locaux administratifs ou techniques de l'installation ;
+
+-10 mètres des aires de stationnement.
+
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, les alinéas 6 à 11 du point III sont applicables à partir du 1er septembre 2018.
+
+Les distances précédentes peuvent être réduites à 1 mètre si entre ces emplacements et les aires de stockage est interposé un mur REI 120, dont la hauteur excède de 0,5 mètre de l'aire du stockage ou de l'aire de stationnement, sans être inférieure à 2 mètres ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
+
+IV.-Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées après le 1er janvier 2018, la distance entre toute aire de stationnement et les limites du site est portée à au moins 10 mètres.
+
+Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018, la distance entre toute aire de stationnement et les locaux d'habitations et les locaux des établissements recevant du public est portée à au moins 10 mètres.
+
+Ces distances peuvent être réduites à 1 mètre si un mur REI 120 est interposé, dont la hauteur excède de 0,5 mètre celle des camions situés sur l'aire de stationnement, sans être inférieure à 3 mètres ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
+
+V.-Dans les stations-service ouvertes au public, le stockage des récipients à pression transportables se fait sur une hauteur maximum inférieure à 3 mètres.
 
 Objet du contrôle :
 
--respect des distances d'implantation (le non-respect de ce point relève d'une non-onformité majeure) ;
+-respect des dimensions des aires de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-vérification de la séparation des stockages des bouteilles métalliques des stockages des autres récipients à pression transportables (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-respect des distances d'implantation (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -respect de la hauteur du mur, lorsque les distances d'éloignement sont réduites (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -présentation d'un justificatif du fait que les caractéristiques du mur (matériaux et épaisseur) sont celles d'un mur coupe-feu, lorsque les distances d'éloignement sont réduites (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--l'installation n'est pas implantée en sous-sol (le non-respect de ce point relève d'une non-conformité majeure) ;
+-respect de la hauteur maximale de stockage des récipients à pression transportables dans les stations-service (le non-respect de ce point relève d'une non-conformité majeure).
 
--respect de la hauteur maximale de stockage des réservoirs mobiles dans les stations services (le non-respect de ce point relève d'une non-conformité majeure).
-
-2.1.2. Stockage en réservoirs fixes
+2.1.2. Réservoirs
 
 a) Une installation de stockage en réservoirs aériens de capacité déclarée au plus égale à 15 tonnes est implantée de telle façon qu'il existe une distance d'au moins 5 mètres entre les orifices d'évacuation à l'air libre des soupapes des réservoirs et les limites du site. Si la capacité déclarée du stockage dépasse 15 tonnes, cette distance est portée à 7,5 mètres.
 
@@ -246,7 +308,147 @@ Parois d'un réservoir enterré d'hydrocarbures liquides
 
 7 |
 
-Toutes ces distances peuvent être réduites au tiers de leur valeur dans le cas de réservoirs enterrés ou sous-talus, conformément aux dispositions du présent arrêté. Elles peuvent être réduites de moitié dans le cas de réservoirs aériens séparés des emplacements concernés par un mur plein en matériau de classe A1 (incombustible) et R 120 (stable au feu de degré deux heures), dont la hauteur excède de 0,5 mètre celle de la bouche d'emplissage et de l'orifice de la soupape et dont la longueur est telle que les distances du tableau soient respectées en le contournant.
+Pour les installations déclarées après le 1er janvier 2018, les distances minimales suivantes, mesurées horizontalement à partir des orifices d'évacuation à l'air libre des soupapes et des orifices de remplissage des réservoirs aériens, sont également observées à la date de déclaration en préfecture, selon la capacité déclarée de chaque réservoir.
+
+CAPACITÉ DÉCLARÉE (C) EN
+
+TONNES DE CHAQUE RÉSERVOIR |
+
+C ≤ 3.5 |
+
+3.5 < C ≤ 6 |
+
+6 < C ≤ 15 |
+
+15 < C ≤ 35 |
+
+35 < C < 50 |
+
+Limite la plus proche des voies de communication routières à grande circulation, des routes nationales non classées en route à grande circulation et des chemins départementaux, des voies urbaines situées à l'intérieur des agglomérations, des voies ferrées autres que celles de desserte de l'établissement et des voies navigables |
+
+3 |
+
+5 |
+
+6 |
+
+10 |
+
+20 |
+
+ERP 1re à 4e catégorie suivants : établissements hospitaliers ou de soins, établissements scolaires ou universitaires, crèches, colonies de vacances, établissements de culte, les musées et les immeubles de grande hauteur |
+
+7.5 |
+
+10 |
+
+15 |
+
+25 |
+
+75 |
+
+Autres ERP de 1re à 4e catégorie et ERP de 5e catégorie |
+
+5 |
+
+7.5 |
+
+10 |
+
+20 |
+
+60 |
+
+Ouvertures des locaux administratifs ou techniques de l'installation |
+
+3 |
+
+5 |
+
+5 |
+
+7,5 |
+
+10 |
+
+Appareils de distribution d'hydrocarbures liquides |
+
+4 |
+
+6 |
+
+7,5 |
+
+7,5 |
+
+10 |
+
+Appareils de distribution d'hydrocarbures liquéfiés |
+
+4 |
+
+6 |
+
+9 |
+
+9 |
+
+9 |
+
+Aires d'entreposage de matières inflammables, combustibles ou comburantes |
+
+3 |
+
+5 |
+
+10 |
+
+10 |
+
+10 |
+
+Bouches de remplissage et évents d'un réservoir aérien ou enterré d'hydrocarbures liquides |
+
+3 |
+
+5 |
+
+10 |
+
+10 |
+
+10 |
+
+Parois d'un réservoir aérien d'hydrocarbures liquides |
+
+3 |
+
+5 |
+
+10 |
+
+10 |
+
+20 |
+
+Parois d'un réservoir enterré d'hydrocarbures liquides |
+
+3 |
+
+3 |
+
+3 |
+
+3 |
+
+7 |
+
+c) Toutes ces distances peuvent être réduites au tiers de leur valeur dans le cas de réservoirs enterrés ou sous-talus, conformément aux dispositions du présent arrêté. Pour les installations déclarées avant le 1er janvier 2018, ces distances peuvent être réduites de moitié dans le cas de réservoirs aériens séparés des emplacements concernés par un mur plein en matériau de classe A1 (incombustible) et R120 (stable au feu de degré deux heures), dont la hauteur excède de 0,5 mètre celle de la bouche d'emplissage et de l'orifice de la soupape et dont la longueur est telle que les distances du tableau soient respectées en le contournant.
+
+Lorsque la capacité unitaire d'un réservoir est inférieure à 3,5 tonnes, et que la distance horizontale entre ses parois et celles d'autres réservoirs est supérieure à 20 mètres, la distance entre les orifices d'évacuation à l'air libre des soupapes des réservoirs et les limites du site doit être d'au moins 3 mètres. Les réservoirs enterrés doivent respecter les distances d'éloignement imposés pour les réservoirs aériens, diminuées de moitié.
+
+Pour les installations déclarées avant le 1er janvier 2018, cette distance de 3 mètres peut-être réduite à 1,5 mètre dans le cas d'un réservoir aérien séparé des limites du site par un mur plein en matériau de classe A1 (incombustible) et R 120 (stable au feu de degré deux heures), dont la hauteur excède de 0,5 mètre celle de la bouche d'emplissage et de l'orifice de la soupape et dont la longueur de 3 mètres soit respectée en le contournant.
 
 2.2. Intégration dans le paysage
 
@@ -256,9 +458,13 @@ L'ensemble du site est maintenu en bon état de propreté (peinture, plantations
 
 2.3. Interdiction de locaux habités ou occupés par des tiers au-dessus ou au-dessous du stockage
 
-Le stockage de réservoirs mobiles ou fixes ne surmonte pas et n'est pas surmonté de locaux habités ou occupés par des tiers.
+Le stockage de réservoirs ou de récipients à pression transportables ne surmonte pas et n'est pas surmonté de locaux habités ou occupés par des tiers.
+
+L'installation n'est pas implantée en sous-sol.
 
 Objet du contrôle :
+
+-l'installation n'est pas implantée en sous-sol (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -absence de locaux habités ou occupés par des tiers au-dessus ou au-dessous de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -270,13 +476,25 @@ Le stockage de gaz inflammable liquéfié est accessible pour permettre l'interv
 
 Une des façades est équipée d'ouvrant permettant le passage de sauveteurs équipés si le stockage est à l'intérieur d'un bâtiment.
 
+L'accès au site est conçu pour pouvoir être ouvert immédiatement sur demande des services d'incendie et de secours :
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées après le 1er janvier 2018 ;
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018.
+
+L'accès au site est conçu pour pouvoir être ouvert dans un délai de trente minutes maximum sur demande des services d'incendie et de secours ;
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en réservoirs déclarées après le 1er janvier 2018 ;
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en réservoirs déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018.
+
 Objet du contrôle :
 
 -accessibilité au stockage.
 
 2.6. Ventilation
 
-Dans le cas d'un stockage en local fermé, et sans préjudice des dispositions du code du travail, le local abritant les réservoirs mobiles ou fixes est convenablement ventilé pour éviter tout risque d'atmosphère explosive. Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur et à une hauteur suffisante compte tenu de la hauteur des bâtiments environnants afin de favoriser la dispersion des gaz rejetés et au minimum à 1 mètre au-dessus de faîtage.
+Dans le cas d'un stockage en local fermé, et sans préjudice des dispositions du code du travail, le local abritant des réservoirs ou des récipients à pression transportables est convenablement ventilé pour éviter tout risque d'atmosphère explosive. Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur et à une hauteur suffisante compte tenu de la hauteur des bâtiments environnants afin de favoriser la dispersion des gaz rejetés et au minimum à 1 mètre au-dessus de faîtage.
 
 La forme du conduit d'évacuation, notamment dans la partie la plus proche du débouché à l'atmosphère, est conçue de manière à favoriser au maximum l'ascension et la dispersion des gaz de combustion dans l'atmosphère (par exemple, l'utilisation de chapeaux est interdite).
 
@@ -288,7 +506,7 @@ Les installations électriques sont réalisées conformément aux règles en vig
 
 Les équipements métalliques (réservoirs, cuves, canalisations) sont mis à la terre, conformément aux règlements et aux normes applicables, compte tenu notamment de la nature explosive ou inflammable des produits.
 
-En particulier, les réservoirs fixes, à l'exception des réservoirs enterrés sous protection cathodique, sont mis à la terre par un conducteur dont la résistance est inférieure à 100 ohms. L'installation permet le branchement du câble de liaison équipotentielle du véhicule ravitailleur avec le réservoir fixe.
+En particulier, les réservoirs, à l'exception des réservoirs enterrés sous protection cathodique, sont mis à la terre par un conducteur dont la résistance est inférieure à 100 ohms. L'installation permet le branchement du câble de liaison équipotentielle du véhicule ravitailleur avec le réservoir.
 
 2.9 (*)
 
@@ -296,7 +514,7 @@ En particulier, les réservoirs fixes, à l'exception des réservoirs enterrés 
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site l'écoulement accidentel de gaz liquéfié. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
+Des dispositifs (vannes, obturateurs pneumatiques ou mécaniques …) permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site l'écoulement accidentel de gaz liquéfié. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Objet du contrôle :
 
@@ -306,11 +524,11 @@ Objet du contrôle :
 
 2.12. Aménagement des stockages
 
-A. Stockage en réservoirs mobiles
+A. Stockage en récipients à pression transportables
 
-Les réservoirs mobiles ne sont pas entreposés dans des conditions où la température du gaz risquerait de donner naissance à une tension de vapeur supérieure à celle qui a servi de base au calcul de remplissage.
+Les récipients à pression transportables ne sont pas entreposés dans des conditions où la température du gaz risquerait de donner naissance à une tension de vapeur supérieure à celle qui a servi de base au calcul de remplissage.
 
-L'aire de stockage est délimitée et matérialisée au sol.
+Les aires de stockage sont délimitées et matérialisées au sol.
 
 Tout autour, sauf sur justificatif d'absence de dangers ou mise en place d'un mur coupe-feu visé au paragraphe 2.1 ci-dessus pour la partie du périmètre de stockage concerné, un aménagement est conçu (déclinaison du sol, réseau d'évacuation...) de telle sorte que des produits tels que des liquides inflammables répandus accidentellement ne puissent approcher à moins de 2 mètres de l'aire de stockage.
 
@@ -320,23 +538,23 @@ Si le dépôt est situé dans un local fermé, celui-ci présente en outre les c
 
 -toiture en matériaux légers, difficilement inflammables et sans autre bois apparent que les pièces de charpente, qui sont ignifugées.
 
-Le sol de l'aire de stockage des réservoirs mobiles est horizontal, en matériaux de classe A1fl (incombustible) ou en revêtement bitumineux du type routier, et a un niveau égal ou supérieur à celui du sol environnant sur 25 % au moins de son périmètre afin d'éviter la stagnation du gaz dans une cuvette.
+Le sol de l'aire de stockage des récipients à pression transportables est horizontal, en matériaux de classe A1fl (incombustible) ou en revêtement bitumineux du type routier, et a un niveau égal ou supérieur à celui du sol environnant sur 25 % au moins de son périmètre afin d'éviter la stagnation du gaz dans une cuvette.
 
-La disposition des lieux permet l'évacuation rapide des bouteilles en cas d'incendie à proximité.
+Les aires de stationnement sont délimitées et matérialisées au sol. La disposition des lieux permet l'évacuation rapide des récipients à pression transportables et des véhicules en stationnement en cas d'incendie à proximité.
 
-Dans le cas de bouteilles, celles-ci sont stockées soit debout, soit couchées à l'horizontale.
+Dans le cas de récipients à pression transportables, ceux-ci sont stockés soit debout, soit couchés à l'horizontale.
 
-Si elles sont gerbées en position couchée, les bouteilles situées aux extrémités sont calées par des dispositifs spécialement adaptés à cet effet.
+Si ils sont gerbés en position couchée, les récipients à pression transportables situés aux extrémités sont calés par des dispositifs spécialement adaptés à cet effet.
 
 Objet du contrôle :
 
--présence d'une matérialisation et d'une délimitation au sol de l'aire de stockage ;
+-présence d'une matérialisation et d'une délimitation au sol des aires de stockage ;
 
 -si un dépôt de liquide inflammable existe dans l'établissement : présence d'un aménagement empêchant les liquides inflammables répandus accidentellement de s'approcher à moins de 2 mètres de l'aire de stockage, sauf sur justificatif d'absence de dangers ou mise en place d'un mur coupe-feu (le non-respect de ce point relève d'une non-conformité majeure).
 
-B. Stockage en réservoirs fixes aériens
+B. Stockage en réservoirs aériens
 
-Les réservoirs aériens fixes sont implantés au niveau du sol ou en superstructure.
+Les réservoirs aériens sont implantés au niveau du sol ou en superstructure.
 
 Toutefois, si leur implantation est faite sur un terrain en pente, l'emplacement du stockage est, sur 25 % au moins de son périmètre, à un niveau égal ou supérieur à celui du sol environnant.
 
@@ -346,7 +564,7 @@ Lorsqu'elles sont nécessaires, les charpentes métalliques supportant un réser
 
 L'enrobage est appliqué sur toute la hauteur. Il n'affecte cependant pas les soudures de liaison éventuelles entre le réservoir et la charpente qui le supporte.
 
-Un espace libre d'au moins 0,6 mètre de large en projection horizontale est réservé autour de tout réservoir fixe aérien raccordé.
+Un espace libre d'au moins 0,6 mètre de large en projection horizontale est réservé autour de tout réservoir aérien raccordé.
 
 Toutes les vannes sont aisément manœuvrables par le personnel.
 
@@ -358,7 +576,7 @@ Cette distance n'est pas être inférieure au demi-diamètre du plus grand des d
 
 Les réservoirs, ainsi que les tuyauteries et leurs supports sont efficacement protégés contre la corrosion.
 
-La tuyauterie de remplissage et la soupape sont en communication avec la phase gazeuse du réservoir.
+La tuyauterie de remplissage et la soupape sont en communication avec la phase gazeuse du réservoir. Pour le GNL, la tuyauterie de remplissage peut également être en contact avec la phase liquide. Dans ce cas, la tuyauterie est équipée de deux clapets anti-retour, et l'installation est munie d'un bouton d'arrêt d'urgence déclenchant une vanne d'isolement du stockage. Cette vanne d'isolement est également asservie à une détection gaz judicieusement disposée.
 
 Objet du contrôle :
 
@@ -366,7 +584,9 @@ Objet du contrôle :
 
 -les vannes sont aisément manœuvrables par le personnel (le non-respect de ce point relève d'une non-conformité majeure).
 
-C. Stockage en réservoirs fixes enterrés ou sous talus
+-présence des deux clapets anti retour sur la tuyauterie de remplissage des stockages de GNL, du bouton d'arrêt d'urgence à proximité des stockages de GNL, et d'une vanne d'isolement asservie à l'arrêt d'urgence et à la détection gaz (le non-respect de ce point relève d'une non-conformité majeure).
+
+C. Stockage en réservoirs enterrés ou sous talus
 
 Les réservoirs enterrés peuvent être simplement enfouis ou placés dans une fosse construite en béton ou maçonnerie. Les réservoirs enterrés (en fosse ou autres) ou sous-talus sont protégés et mis en place conformément à la réglementation en vigueur relative aux équipements sous pression de sorte à prévenir les agressions mécaniques et à éviter la présence d'espaces vides susceptibles de se transformer en poche de gaz. Le réservoir est entièrement recouvert. L'exploitant détient des justificatifs de la conformité de la mise en place et de la protection des réservoirs enterrés, sous-talus ou en fosse, et les conserve à disposition de l'inspection des installations classées.
 
@@ -406,13 +626,15 @@ A. Pompes
 
 Lorsque le groupe de pompage du gaz inflammable liquéfié entre le réservoir de stockage et les appareils d'utilisation n'est pas immergé ou n'est pas dans la configuration aérienne (à privilégier), il peut être en fosse, mais celle-ci est maçonnée et protégée contre les intempéries.
 
-De plus, une ventilation mécanique à laquelle est asservi le fonctionnement de la ou des pompes (ou tout autre procédé présentant les mêmes garanties) est installée pour éviter l'accumulation de vapeurs inflammables. En particulier la ventilation mécanique peut être remplacée par un ou plusieurs appareils de contrôle de la teneur en gaz, placés au point bas des fosses ou caniveaux, auxquels est asservi un dispositif d'arrêt des pompes dès que la teneur dépasse 25 % de la limite inférieure d'explosivité, et déclenchant dans ce cas une alarme.
+De plus, une ventilation mécanique à laquelle est asservi le fonctionnement de la ou des pompes (ou tout autre procédé présentant les mêmes garanties) est installée pour éviter l'accumulation de vapeurs inflammables. En particulier la ventilation mécanique peut être remplacée par un ou plusieurs détecteurs contrôlant la teneur en gaz, placés judicieusement en fonction des caractéristiques du gaz à détecter, auxquels est asservi un dispositif d'arrêt des pompes dès que la teneur dépasse 25 % de la limite inférieure d'explosivité, et déclenchant dans ce cas une alarme. Ces détecteurs sont maintenus en bon état et vérifiés une fois par an. Une consigne décrit les actions à mettre en œuvre en cas de déclenchement de la détection.
 
 L'accès au dispositif de pompage et à ses vannes de sectionnement est aisé pour le personnel d'exploitation.
 
 Objet du contrôle :
 
--présence d'une ventilation mécanique ou d'un ou plusieurs appareils de contrôle de la teneur en gaz placés au point bas des fosses ou caniveaux (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence d'une ventilation mécanique ou d'un ou plusieurs détecteurs contrôlant la teneur en gaz placés judicieusement en fonction des caractéristiques du gaz à détecter (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence des justificatifs de vérification annuelle du bon état des détecteurs, le cas échéant (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -accès aisé au dispositif de pompage et à ses vannes de sectionnement pour le personnel.
 
@@ -438,21 +660,71 @@ Objet du contrôle :
 
 3.1. Surveillance de l'exploitation
 
-L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
+I.-Pendant les heures d'ouverture, l'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
 
-3.2. Contrôle de l'accès
+II.-Les dispositions du présent point II sont applicables :
 
-Les personnes non habilitées par l'exploitant n'ont pas un accès libre au stockage. De plus, en l'absence de personnel habilité par l'exploitant, le stockage est rendu inaccessible (clôture de hauteur 2 mètres avec porte verrouillable ou casiers verrouillables).
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées après le 1er janvier 2018 ;
 
-Les organes accessibles de soutirage, de remplissage et les appareils de contrôle et de sécurité, à l'exception des soupapes, des réservoirs fixes sont protégés par une clôture ou placés sous capots maintenus verrouillés en dehors des nécessités du service.
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018.
 
-Dans la zone prévue à cet effet (cf. point 4.2), l'exploitant s'assure que le conducteur du camion avitailleur (camion-citerne ou camion porte-bouteilles) inspecte l'état de son camion à l'entrée du site avant de procéder aux opérations de chargement ou de déchargement de produit.
+En dehors des heures d'ouverture, l'exploitant met en œuvre une surveillance de l'installation par gardiennage ou télésurveillance adaptée, permettant la détection de tout départ de feu sur les aires de stationnement et les aires de stockage. En cas de panne de la télésurveillance, le cas échéant, la surveillance de l'installation est assurée par gardiennage.
+
+L'exploitant définit une procédure à mettre en œuvre en cas de départ de feu sur l'installation.
+
+Celle-ci contient notamment :
+
+-la ou les personnes compétentes chargées d'effectuer les opérations nécessaires à la mise en sécurité des installations ;
+
+-les modalités d'appel de ces personnes compétentes ;
+
+-les modalités d'appel et d'accueil des secours extérieurs au regard des informations disponibles et après levée de doute. Le service d'incendie et de secours peut, au regard des caractéristiques de l'installation (dimensions, configuration, dispositions constructives …) ainsi que des matières stockées (nature, quantités, mode de stockage …), être confronté à une impossibilité opérationnelle de limiter la propagation d'un incendie ;
+
+-les modalités de déclenchement d'un dispositif sonore permettant l'alerte du voisinage.
 
 Objet du contrôle :
 
--présence de dispositifs interdisant l'accès libre au stockage aux personnes non autorisées ;
+-présence de la procédure à mettre en œuvre en cas de départ de feu sur l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
--présence de clôture ou de capots verrouillés (le non-respect de ce point relève d'une non-conformité majeure).
+3.2. Contrôle de l'accès
+
+I.-Les personnes non habilitées par l'exploitant n'ont pas un accès libre au stockage. De plus, en l'absence de personnel habilité par l'exploitant, le stockage est rendu inaccessible (clôture de hauteur 2 mètres avec porte verrouillable ou dispositifs verrouillables).
+
+II.-Les dispositions du présent point II sont applicables :
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées après le 1er janvier 2018 ;
+
+-pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018.
+
+L'accès aux récipients à pression transportables est rendu inaccessible par :
+
+-une clôture grillagée d'au moins 1,80 mètre de hauteur, assortie d'un dispositif anti-intrusion de type concertina au sol, ou ;
+
+-par un mur d'au moins 2,30 mètres de hauteur accompagné d'un dispositif anti-intrusion sur son dessus (type pique).
+
+Les accès de la clôture ou du mur sont verrouillables et répondent à l'une des caractéristiques suivantes :
+
+-hauteur minimale de 1,80 mètre, assortie du dispositif anti-intrusion de type concertina au sol ;
+
+-hauteur minimale de 2,30 mètres, accompagnée sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) ;
+
+-hauteur minimale de 2,50 mètres sans dispositif de lutte contre l'intrusion.
+
+L'exploitant définit et met en œuvre une procédure d'inspection des véhicules de transport de matière dangereuse à l'entrée du site, lui permettant de s'assurer que les conducteurs inspectent l'état de leur véhicule avant d'accéder à l'installation. Elle précise, qu'en cas d'anomalie (par exemple détection de chauffe anormale des essieux sur les véhicules équipés de témoins de chauffe) l'accès à l'installation n'est autorisé qu'après mise en œuvre d'actions correctives et autorisation formalisée de l'exploitant. Le conducteur actionne le coupe-batterie de son véhicule, s'il en est équipé, durant son stationnement.
+
+III.-Les organes accessibles de soutirage, de remplissage et les appareils de contrôle et de sécurité, à l'exception des soupapes, des réservoirs sont protégés par une clôture ou placés sous capots maintenus verrouillés en dehors des nécessités du service.
+
+Objet du contrôle :
+
+-présence de dispositifs interdisant l'accès libre au stockage aux personnes non habilitées ;
+
+-présence, dimensions et bon état des moyens de contrôle d'accès (clôture grillagée, mur …) (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence de capots verrouillés le cas échéant (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence d'une procédure d'inspection des véhicules devant accéder à l'installation (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-vérification que les coupe-batteries sont actionnés sur les véhicules en stationnement, le cas échéant.
 
 3.3. Connaissance des produits-Etiquetage
 
@@ -462,17 +734,13 @@ Les fûts, réservoirs et autres emballages portent en caractères très lisible
 
 3.4. Propreté
 
-Les lieux sont maintenus propres et régulièrement nettoyés notamment de manière à éviter les amas de matières dangereuses ou polluantes, de poussières, et de matières combustibles. Le matériel de nettoyage est adapté aux risques présentés par les produits et poussières. Il est procédé aussi souvent que nécessaire au désherbage sous et à proximité de l'installation.
+Les lieux sont maintenus propres et régulièrement nettoyés notamment de manière à éviter les amas de matières dangereuses ou polluantes, de poussières, et de matières combustibles. Le matériel de nettoyage est adapté aux risques présentés par les produits et poussières. Il est procédé aussi souvent que nécessaire au désherbage et au débroussaillage sous et à proximité de l'installation.
 
-La remise en état de la protection extérieure (peinture ou revêtement) des réservoirs fixes est à effectuer lorsque son état l'exige. Elle est réalisée conformément aux dispositions du point 4.6.
+La remise en état de la protection extérieure (peinture ou revêtement) des réservoirs est à effectuer lorsque son état l'exige. Elle est réalisée conformément aux dispositions du point 4.6.
 
 Objet du contrôle :
 
--absence d'amas de matières combustibles sous et à proximité du réservoir ;
-
--absence d'amas de matières dangereuses et polluantes sous et à proximité du réservoir ;
-
--absence de végétaux sous et à proximité du réservoir.
+-absence d'amas de matières combustibles, de matières dangereuses et polluantes, et de végétaux, sous et à proximité des aires de stockages, des réservoirs, et des aires de stationnement.
 
 3.5. Etat des stocks de produits dangereux
 
@@ -494,53 +762,77 @@ Cette vérification périodique porte notamment sur les prescriptions de l'artic
 
 4. Risques
 
-4.1. Protection individuelle
-
-Sans préjudice des dispositions du code du travail, des matériels de protection individuelle, adaptés aux risques présentés par l'installation et permettant l'intervention en cas de sinistre, sont conservés à proximité du dépôt et du lieu d'utilisation. Ces matériels sont entretenus en bon état et vérifiés périodiquement. Le personnel est formé à l'emploi de ces matériels.
+4.1. (Supprimé)
 
 4.2. Moyens de lutte contre l'incendie
 
-A. L'installation est dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur pour chaque type d'installation
+A.
 
-Toute installation de stockage de gaz inflammables liquéfiés est dotée d'un moyen permettant d'alerter les services d'incendie et de secours.
+I.-L'installation est dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur pour chaque type d'installation, et est dotée d'un moyen permettant d'alerter les services d'incendie et de secours.
+
+II.-Les dispositions du présent point II sont applicables :
+
+-pour les installations déclarées après le 1er janvier 2018 ;
+
+-pour les installations déclarées avant le 1er janvier 2018, à partir du 1er septembre 2019
+
+Les aires de stationnement peuvent être munies de dispositifs permettant l'extinction d'un feu de nappe de liquide inflammable avec déclenchement automatique. Une commande manuelle permettant le déclenchement de dispositifs d'extinction est alors installée suffisamment éloignée des aires de stationnement, de manière à être facilement accessible et manœuvrable en toutes circonstances.
+
+Les installations équipées d'un tel dispositif sont dispensées de la mise en place de la télésurveillance ou du gardiennage des aires de stationnement définis au point 3.1.
 
 Objet du contrôle :
 
+-présence de dispositifs permettant l'extinction d'un feu de nappe avec déclenchement automatique complété d'une commande manuelle facilement accessible et manœuvrable en toutes circonstances, le cas échéant (le non-respect de ce point relève d'une non-conformité majeure).
+
 -présence d'un moyen permettant d'alerter les services d'incendie et de secours.
 
-B. Stockage extérieur en réservoirs mobiles
+B. Stockage en récipients à pression transportables
 
 Les moyens de secours sont au minimum constitués de :
 
--deux extincteurs à poudre, situés à moins de 20 mètres du stockage ;
+-deux extincteurs à poudre ABC d'une capacité minimale de 9 kg, situés à moins de 20 mètres du stockage ;
 
--pour les stockages de capacité déclarée contenue dans les réservoirs mobiles supérieure à 15 tonnes, d'un poste d'eau (bouches, poteaux...), public ou privé, implanté à moins de 200 mètres du stockage, ou de points d'eau (bassins, citernes, etc.), et d'une capacité en rapport avec le risque à défendre.
+-pour les stockages de capacité déclarée contenue dans les récipients à pression transportables supérieure à 15 tonnes, d'un poste d'eau (bouches, poteaux...), public ou privé, implanté à moins de 200 mètres du stockage, ou de points d'eau (bassins, citernes, etc.), et d'une capacité en rapport avec le risque à défendre. Cette capacité est appréciée pour l'ensemble du site, et les capacités extérieures peuvent être prises en compte dans la limite de la distance de 200 mètres fixée ci-avant.
+
+Pour les installations déclarées après le 1er janvier 2018, cette capacité est d'au minimum de 60 mètres cubes par heure pendant deux heures.
+
+Pour les installations déclarées avant le 1er janvier 2018, cette capacité est d'au minimum de 60 mètres cubes par heure pendant deux heures, à partir du 1er septembre 2019.
 
 Objet du contrôle :
 
 -présence des dispositifs d'extinction fixes et mobiles (le non-respect de ce point relève d'une non-conformité majeure).
 
-C. Stockage en réservoirs fixes aériens
+C. Stockage en réservoirs aériens
 
 Les moyens de secours sont au minimum constitués de :
 
--deux extincteurs à poudre ;
+-deux extincteurs à poudre ABC d'une capacité minimale de 9 kg et, pour les installations stockant plus de 35 tonnes en réservoirs aériens, d'un extincteur à poudre ABC sur roues d'une capacité de 50 kg ;
 
--d'un poste d'eau (bouches, poteaux...), public ou privé, implanté à moins de 200 mètres du stockage, ou de points d'eau (bassins, citernes, etc.), et d'une capacité en rapport avec le risque à défendre ;
+-d'un poste d'eau (bouches, poteaux...), public ou privé, implanté à moins de 200 mètres du stockage, ou de points d'eau (bassins, citernes, etc.), et d'une capacité en rapport avec le risque à défendre. Cette capacité est appréciée pour l'ensemble du site, et les capacités extérieures peuvent être prises en compte dans la limite de la distance de 200 mètres fixée ci-avant ;
+
+Pour les installations déclarées après le 1er janvier 2018, cette capacité est d'au minimum de 60 mètres cubes par heure pendant deux heures.
+
+Pour les installations déclarées avant le 1er janvier 2018, cette capacité est d'au minimum de 60 mètres cubes par heure pendant deux heures, à partir du 1er janvier 2021.
 
 -pour les réservoirs de capacité déclarée inférieure à 15 tonnes, d'un tuyau et d'une lance dont le robinet de commande est d'un accès facile en toute circonstance ;
 
 -pour les réservoirs de capacité déclarée supérieure à 15 tonnes, d'un système fixe d'arrosage raccordé ;
 
--pour les réservoirs aériens de capacité déclarée supérieure à 35 tonnes, d'un système fixe d'arrosage du réservoir avec un débit minimum de 6 l/ m 2/ min. Un film d'eau homogène sur l'intégralité de la surface du réservoir est obtenu. Ce système fixe d'arrosage est asservi à une détection gaz judicieusement implantée à proximité du réservoir. Ce système peut aussi être mis en route de manière manuelle à distance du réservoir.
+-pour les réservoirs aériens autres que ceux de GNL de capacité déclarée supérieure à 35 tonnes, d'un système fixe d'arrosage du réservoir avec un débit minimum de 6 l/ m 2/ min. Un film d'eau homogène sur l'intégralité de la surface du réservoir est obtenu. Ce système fixe d'arrosage est asservi à une détection gaz judicieusement implantée à proximité du réservoir. Ce système peut aussi être mis en route de manière manuelle à distance du réservoir.
+
+-pour les réservoirs aériens de GNL de capacité déclarée supérieure à 35 tonnes, d'une détection gaz, d'une détection incendie et d'un système fixe d'arrosage du réservoir avec un débit minimum de 6 L/ m2/ min permettant l'obtention d'un film d'eau homogène sur l'intégralité de la surface du réservoir. Ce système fixe d'arrosage est asservi à la détection incendie.
+
+Les quatre alinéas précédents ne s'appliquent pas aux réservoirs de GNL à double paroi isolée par la perlite et le vide lorsque l'épaisseur de perlite est supérieure ou égale à 20 cm. Les réservoirs de ce type de capacité supérieure à 35 tonnes sont équipés d'une détection gaz et d'une détection incendie.
 
 Objet du contrôle :
 
 -présence des dispositifs d'extinction fixes et mobiles (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--pour les réservoirs aériens de capacité déclarée supérieure à 35 tonnes : mise en route manuelle du système fixe d'arrosage, vérification de la présence d'un film sur toute la surface et de la présence d'un système de détection de gaz implanté à proximité du réservoir (le non-respect de ce point relève d'une non-conformité majeure).
+-pour les réservoirs aériens autres que GNL de capacité déclarée supérieure à 35 tonnes : après mise en route manuelle du système fixe d'arrosage, vérification de la présence d'un film sur toute la surface, de la présence d'un système de détection de gaz implanté à proximité du réservoir (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-D. Stockage en réservoirs fixes enterrés ou sous talus
+-pour les réservoirs aériens de GNL de capacité déclarée supérieure à 35 tonnes, à l'exception des réservoirs de GNL à double paroi isolée par la perlite et le vide lorsque l'épaisseur de perlite est supérieure ou égale à 20 cm : après mise en route manuelle du système fixe d'arrosage, vérification de la présence d'un film sur toute la surface, de la présence d'un système de détection de gaz et d'un système de détection incendie implantés à proximité du réservoir (le non-respect de ce point relève d'une non-conformité majeure).
+
+D. Stockage en réservoirs enterrés ou sous talus
 
 Les moyens de secours sont au minimum constitués de deux extincteurs à poudre.
 
@@ -648,9 +940,9 @@ Objet du contrôle :
 
 4.9. Dispositifs de sécurité
 
-Les réservoirs fixes composant l'installation sont conformes à la réglementation des équipements sous pression en vigueur. Ils sont munis d'équipements permettant de prévenir tout sur remplissage.
+Les réservoirs composant l'installation sont conformes à la réglementation des équipements sous pression en vigueur. Ils sont munis d'équipements permettant de prévenir tout sur remplissage.
 
-L'exploitant de l'installation dispose des éléments de démonstration attestant que les réservoirs fixes disposent des équipements adaptés pour prévenir tout sur remplissage à tout instant. Ces équipements peuvent être des systèmes de mesures de niveaux, de pression ou de température.
+L'exploitant de l'installation dispose des éléments de démonstration attestant que les réservoirs disposent des équipements adaptés pour prévenir tout sur remplissage à tout instant. Ces équipements peuvent être des systèmes de mesures de niveaux, de pression ou de température.
 
 Pour les installations déclarées postérieurement à la date de publication du présent arrêté au Journal officiel, augmentée de quatre mois, et dans le cas d'une utilisation de gaz à l'état liquéfié, un dispositif d'arrêt d'urgence permet de provoquer la mise en sécurité du réservoir et de couper l'alimentation des appareils d'utilisation du gaz inflammable qui y sont reliées.
 
@@ -660,7 +952,9 @@ Ces vannes sont notamment asservies au dispositif d'arrêt d'urgence prévu à l
 
 Les tuyauteries reliant un stockage constitué de plusieurs réservoirs sont équipées de vannes permettant d'isoler chaque réservoir.
 
-Les orifices d'échappement des soupapes des réservoirs sont munis d'un chapeau éjectable (ou d'un dispositif équivalent). Le jet d'échappement des soupapes s'effectue de bas en haut, sans rencontrer d'obstacle et notamment de saillie de toiture.
+Les orifices d'échappement des soupapes des réservoirs aériens non cryogéniques sont munis d'un chapeau éjectable (ou d'un dispositif équivalent). Le jet d'échappement des soupapes des réservoirs aériens non cryogéniques s'effectue de bas en haut, sans rencontrer d'obstacle et notamment de saillie de toiture.
+
+Les échappements des soupapes des réservoirs cryogéniques sont conçus de manière à éviter notamment le risque de brûlure cryogénique, à empêcher toute entrée de corps étrangers ou d'eau et à éviter toute perte de charge. Leur point de rejet se situe en partie supérieure du réservoir.
 
 Les bornes de remplissage déportées comportent un double clapet (ou tout autre dispositif offrant une sécurité équivalente) à son orifice d'entrée, ainsi qu'un dispositif de branchement du câble de liaison équipotentielle, du véhicule ravitailleur. Si elles sont en bordure de la voie publique, elles sont enfermées dans un coffret matériaux de classe A1 (incombustible) et verrouillé.
 
@@ -678,9 +972,11 @@ Objet du contrôle :
 
 d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--pour les bornes de remplissage déportées, présence d'un double clapet sur l'orifice d'entrée ainsi que d'un branchement pour le câble de liaison équipotentielle du véhicule ravitailleur et si la borne de remplissage est en bordure de la voie publique, présence d'un coffret en matériaux de classe A1 (justificatifs de conformité) verrouillé (le non-respect de ce point relève d'une non-conformité majeure).
+-pour les réservoirs aériens non cryogéniques, présence de chapeaux éjectables sur les orifices d'échappement des soupapes dont le jet d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-4.10. Ravitaillement des réservoirs fixes
+-pour les réservoirs cryogéniques, présence d'un évent dont le jet d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+4.10. Ravitaillement des réservoirs
 
 Les opérations de ravitaillement sont effectuées, conformément aux dispositions prévues par le règlement pour le transport des marchandises dangereuses. Le véhicule ravitailleur se trouve à au moins 3 mètres des réservoirs fixes de capacité strictement inférieure à 15 tonnes, et à au moins 5 mètres en cas de capacités supérieures. De plus les véhicules de transport sont conformes aux dispositions de la réglementation relative au transport des marchandises dangereuses.
 
@@ -690,7 +986,15 @@ Les flexibles utilisés pour le ravitaillement des réservoirs fixes sont conçu
 
 Un dispositif permet de garantir l'étanchéité du flexible et des organes du réservoir en dehors des opérations de ravitaillement.
 
-Le sol de l'aire de stationnement du véhicule ravitailleur est matériaux de classe A1 (incombustible) ou en revêtement bitumineux de type routier.
+Les sols des aires de dépotage sont en matériaux de classe A1 (incombustible) ou en revêtement bitumineux de type routier.
+
+4.11. Chargement et déchargement des récipients à pression transportables
+
+Les sols des aires dédiées au chargement et au déchargement des récipients à pression transportables sont en matériaux de classe A1 (incombustible) ou en revêtement bitumineux de type routier :
+
+-pour les installations déclarées après le 1er janvier 2018 ;
+
+-pour les installations déclarées avant le 1er janvier 2018, à partir du 1er septembre 2019.
 
 5. Eau
 
@@ -732,9 +1036,9 @@ Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accidents
 
 7. Déchets
 
-7.1. Récupération-Recyclage-Elimination
+7.1. Récupération-Recyclage-Valorisation
 
-L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
+L'exploitant gère les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette gestion sont régulièrement autorisées à cet effet.
 
 7.2. Contrôles des circuits
 
@@ -750,9 +1054,9 @@ La quantité de déchets stockés sur le site ne dépasse pas la capacité mensu
 
 7.5. Déchets dangereux
 
-Les déchets dangereux sont éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement.
+Les déchets dangereux sont gérés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement.
 
-Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour. L'exploitant doit émettre un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination. Les documents justificatifs sont conservés trois ans.
+Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour. L'exploitant doit émettre un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier leur gestion. Les documents justificatifs sont conservés trois ans.
 
 7.6. Brûlage
 
