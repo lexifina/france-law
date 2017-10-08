@@ -692,6 +692,112 @@ Dose techniquement inévitable.
 
 |
 
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100%) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol) |
+
+Antimousse. |
+
+Alcool éthylique d'origine agricole. |
+
+A la dose maximale de 160g de copolymères/hl de jus sucré |
+
+Teneur résiduelle ≤0,4 mg/l |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100%) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol), estérifiés par les acides gras alimentaires ou les acides gras du "tall oil " ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousse. |
+
+Alcool éthylique d'origine agricole. |
+
+A la dose maximale de 160g de copolymères/hl de jus sucré |
+
+Teneur résiduelle ≤0,4 mg/l |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100%) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol). |
+
+Antimousse. |
+
+Carcasse de porc |
+
+A la dose maximale de 370 ml de copolymères par m3
+
+d'eau dans les bacs d'échaudage et/ou d'épilage.
+
+Le traitement des carcasses est suivi d'un rinçage à l'eau potable |
+
+Teneur résiduelle ≤ 5 mg/kg |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol) |
+
+Antimousses. |
+
+Levures. |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. |
+
+100 mg/kg dans la matière sèche des levures. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousses. |
+
+Levures. |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. |
+
+100 mg/kg dans la matière sèche des levures. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol) |
+
+Antimousses. |
+
+Pommes de terre blanchies réfrigérées ou cuites sous vide.
+
+Frites réfrigérées ou surgelées.
+
+Chips.
+
+Flocons déshydratés. |
+
+A la dose maximale de 0,29 kg/t de pommes de terre blanchies, 0,125 kg/t de pommes de terre cuites sous vide, 0,1 kg/t de pommes de terre pour la fabrication de frites surgelées, 0,7 kg/t de pommes de terre pour la fabrication de chips, 0,36 kg/t de pommes de terre pour la fabrication de frites réfrigérées et de 0,05 kg/t de pommes de terre pour la fabrication de flocons déshydratés. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes de l'eau potable. |
+
+Teneur résiduelle techniquement inévitable |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousses. |
+
+Pommes de terre blanchies réfrigérées ou cuites sous vide.
+
+Frites réfrigérées ou surgelées.
+
+Chips.
+
+Flocons déshydratés. |
+
+A la dose maximale de 0,29 kg/t de pommes de terre blanchies, 0,125 kg/t de pommes de terre cuites sous vide, 0,1 kg/t de pommes de terre pour la fabrication de frites surgelées, 0,7 kg/t de pommes de terre pour la fabrication de chips, 0,36 kg/t de pommes de terre pour la fabrication de frites réfrigérées et de 0,05 kg/t de pommes de terre pour la fabrication de flocons déshydratés. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes de l'eau potable. |
+
+Teneur résiduelle techniquement inévitable |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol) |
+
+Antimousses. |
+
+Sucre (mi-) blanc cristallisé. |
+
+A la dose maximale de 80 g/t de cossettes pour la transformation de betteraves sucrières destinées à la production de sucre blanc cristallisé. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10000 g/mol), estérifiés par les acides gras alimentaires ou les acides gras du " tall oil " ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousses. |
+
+Sucre (mi-) blanc cristallisé. |
+
+A la dose maximale de 80 g/t de cossettes pour la transformation de betteraves sucrières destinées à la production de sucre blanc cristallisé. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Diatomite lavée.
 
 |
@@ -732,6 +838,16 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
+Diméthylpolysiloxane |
+
+Antimousse. |
+
+Alcool éthylique d'origine agricole. |
+
+A la dose maximale de 95g de copolymères/hl de jus sucré |
+
+Teneur résiduelle ≤0,4 mg/l |
+
 Diméthylpolysiloxane.
 
 |
@@ -751,6 +867,18 @@ Levain destiné à la fabrication de pains industriels.
 1 mg/kg de pain.
 
 |
+
+Diméthylpolysiloxane |
+
+Antimousse. |
+
+Carcasse de porc |
+
+A la dose maximale de 235 ml de substance active par m3 d'eau dans les bacs d'échaudage et/ou d'épilage.
+
+Le traitement des carcasses est suivi d'un rinçage à l'eau potable |
+
+Teneur résiduelle techniquement inévitable |
 
 Diméthylpolysiloxane.
 
@@ -1220,57 +1348,37 @@ Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogram
 
 |
 
-Mélange de copolymères monoester (CAS n° 9009-36-6) et diester (CAS n° 67167-17-3) d'acide oléique et d'acide oléique libre (5-10 %) dont le copolymère de base est identifié par le CAS n° 9003-11-6 (PM 1990-2250).
+|
 
 |
 
-Antimousses.
+|
 
 |
 
-Levurerie.
+.
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché.
+|
 
 |
 
-100 mg/kg dans la matière sèche des levures.
+|
 
 |
 
-Mélanges de copolymères d'oxyde d'éthylène et d'oxyde de propylène condensés sur glycérol (PM > 5 000 g/mol), condensés sur des acides gras du "tall oil", condensés sur l'huile de colza et les acides gras du "tall oil".
+|
 
 |
 
-Antimousse.
+|
 
 |
 
-Pommes de terre blanchies réfrigérées ou cuites sous vide. Frites réfrigérées ou surgelées. Chips.
-
-Flocons déshydratés.
-
 |
 
-A la dose maximale de 0.36 kg/T de pommes de terre pour la fabrication de frites et de 0.05 kg/T de pommes de terre pour la fabrication des flocons deshydratés. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.
-
 |
-
-Teneur résiduelle techniquement inévitable.
-
-|
-
-Mélanges de copolymères d'oxyde d'éthylène et d'oxyde de propylène condensés sur sorbitol, sur glycérol ou estérifiés ou condensés sur glycérol. |
-
-Antimousse |
-
-Sucre (mi-) blanc cristallisé. |
-
-A la dose maximale de 40 g/T de cossettes pour la transformation de betteraves sucrières destinées à la production de sucre blanc cristallisé. |
-
-Teneur résiduelle techniquement inévitable. |
 
 Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg.
 

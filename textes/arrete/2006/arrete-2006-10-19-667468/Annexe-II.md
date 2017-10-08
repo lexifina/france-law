@@ -124,9 +124,27 @@ Copolymères d'oxyde d'éthylène et d'oxyde de propylène.
 
 |
 
-Oxyde d'éthylène et oxyde de propylène libres : pas plus de 25 mg/kg.
+Oxyde d'éthylène et oxyde de propylène libres < 25 mg/kg ;
+
+triméthylolpropane libre < 1000 mg/kg ;
+
+éthylène glycol < 1000 mg/kg ;
+
+Poids moléculaire compris entre 300 et 10 000 g/mol.
 
 |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés |
+
+Oxyde d'éthylène et oxyde de propylène libres < 25 mg/kg ;
+
+triméthylolpropane libre < 1000 mg/kg ;
+
+éthylène glycol < 1000 mg/kg ;
+
+poids moléculaire compris entre 300 et 10 000 g/mol ;
+
+Acide gras du Tall oil contenant moins de 2% d'acides résiniques. |
 
 Copolymères de l'acide acrylique et de l'acrylate d'éthyle.
 
@@ -180,57 +198,15 @@ Huiles minérales.
 
 |
 
-Le terme hyukes minérales et huiles de paraffine et de vaseline est défini de la façon suivante : Ensemble des huiles minérales de bas poids moléculaire (BPM) et basse viscosité et des huiles minérales de haut poids moléculaire (HPM) et de viscosité élevée.
+Le terme huiles minérales et huiles de paraffine et de vaseline est défini de la façon suivante : ensemble des huiles minérales de haut poids moléculaire (HPM) et de viscosité élevée.
 
-Les huiles minérales BPM doivent répondre aux spécifications suivantes :
-
-- huiles paraffiniques traitées à l'hydrogène sous haute pression en présence d'un catalyseur et huiles naphténiques traitées à l'hydrogène sous haute pression en présence d'un catalyseur ou traitées à l'oléum ;
-
-- viscosité à 100 °C comprise entre 3,5 et 8,5 centiStokes (sSt) (ASTM D. 445) ;
-
-- point d'ébullition compris entre 300 et 400 °C, correspondant à la distillation de 5 % au plus de la masse totale du produit (ASTM D. 2887) ;
-
-- masse moléculaire moyenne comprise entre 350 et 480 (ASTM D. 2502) ;
-
-- point d'éclair compris entre 180 et 250 °C (ISO 2592) ;
-
-- contenu en soufre inférieur à 100 mg/kg (DIN 51400 T 7) ;
-
-- contenu en azote inférieur à 1 mg/kg.
-
-Contenu en métaux lourds totaux inférieurs à 1 mg/kg (méthode dite à plasma ).
-
-Dosage par chromatographie en phase gazeuse des hydrocarbures aromatiques polycycliques (HAP) suivants :
-
-Benzo(b) fluoranthène ; benzo(k) fluoranthène ; benzo (j) fluoranthène ; chrysène ; benzo (a) pyrène ; indéno(1,2,3-d-)pyrène ; 1,2 :5,6, dibenzo-(a, h) anthracène ; benzo (a) anthracène et fluoranthène. La somme des teneurs en HAP doit être la plus basse possible, le cas échéant, inférieur à 3 µ/kg en poids. Les teneurs en HAP doivent être exprimées à l'aide du facteur d'équivalence toxique (TEF) relatif au benzo(a)pyrène.
-
-On retiendra les valeurs de TEF suivants : 1 pour le benzo (a) pyrène et le 1,2 : 5,6, dibenzo-(a, h) anthracène ; 0,1 pour le benzo(a)anthracène, le benzo (b) fluoranthène, le benzo-(j) fluoranthène, le benzo (k) fluoranthène et l'indèno (1,2,3-c, d)-pyrène et 0,01 pour le chrysène et le fluoranthène.
-
-Les huiles minérales HPM doivent répondre aux spécifications suivantes :
-
-- huiles paraffiniques brutes et huiles paraffiniques traitées à l'hydrogène sous haute pression en présence d'un catalyseur ;
-
-- viscosité à 100 °C comprise entre 8,5 et 11 cSt (ASTM D. 445).
+Les huiles minérales HPM doivent répondre aux spécifications suivantes : - huiles paraffiniques brutes et huiles paraffiniques traitées à l'hydrogène sous haute pression en présence d'un catalyseur ; - viscosité à 100 °C comprise entre 8,5 et 11 cSt (ASTM D. 445).
 
 Point d'ébullition compris entre 400 et 430 °C, correspondant à la distillation de 5 % au plus de la masse totale du produit (ASTM D. 2887).
 
-Masse moléculaire moyenne comprise entre 480 et 510 °C, (ASTM D. 2502).
+Masse moléculaire moyenne comprise entre 480 et 510 °C, (ASTM D. 2502). Point d'éclair compris entre 250 et 265 °C (ISO 2592). Rapport carbone naphténique/carbone paraffinique, inférieur à 1/2 (ASTM D. 2140). Contenu en soufre inférieur à 2 mg/kg (DIN 51400 T7). Contenu en azote inférieur à 1 mg/kg. Contenu en métaux lourds totaux inférieur à 1 mg/kg (méthode à plasma). Exigences de pureté selon la Pharmacopée européenne.
 
-Point d'éclair compris entre 250 et 265 °C (ISO 2592).
-
-Rapport carbone naphténique/carbone paraffinique, inférieur à 1/2 (ASTM D. 2140).
-
-Contenu en soufre inférieur à 2 mg/kg (DIN 51400 T7).
-
-Contenu en azote inférieur à 1 mg/kg.
-
-Contenu en métaux lourds totaux inférieurs à 1 mg/kg (méthode à plasma ).
-
-Exigences de pureté selon la Pharmacopée européenne.
-
-Dosage par chromatographie en phase gazeuse des HAP suivants :
-
-benzo (b) fluoranthène ; benzo (k)fluoranthène ; benzo (j) fluoranthène ; chrysène ; benzo (a) pyrène ; indéno (1,2,3, -c, d-) pyrène ; 1,2 :5,6, didenzo-(a, h) anthracène ; benzo (a) anthracène et fluoranthène. La somme des teneurs en HAP doit être la plus basse possible, le cas échéant, inférieur à 3 µ/kg en poids. Les teneurs en HAP doivent être exprimées à l'aide des valeurs TEF relatifs au benzo(a)pyrène, tels que décrits précédemment pour le cas des huiles BPM.
+Dosage par chromatographie en phase gazeuse des Hydrocarbures Aromatiques Polycycliques suivants : benzo (b) fluoranthène ; benzo (k) fluoranthène ; benzo (j) fluoranthène ; chrysène ; benzo (a) pyrène ; indéno (1,2,3, -c, d-) pyrène ; 1,2 : 5,6, didenzo- (a, h) anthracène ; benzo (a) anthracène et fluoranthène. La somme des teneurs en Hydrocarbures Aromatiques Polycycliques doit être la plus basse possible, le cas échéant, inférieure à 3 µg/kg en poids. Les teneurs en Hydrocarbures Aromatiques Polycycliques doivent être exprimées à l'aide du facteur d'équivalence toxique (TEF) relatif au benzo (a) pyrène. On retiendra les valeurs de TEF suivantes : 1 pour le benzo (a) pyrène et le 1,2 : 5,6, dibenzo- (a, h) anthracène ; 0,1 pour le benzo (a) anthracène, le benzo (b) fluoranthène, le benzo- (j) fluoranthène, le benzo (k) fluoranthène et l'indèno (1,2,3-c, d) -pyrène et 0,01 pour le chrysène et le fluoranthène.
 
 |
 
