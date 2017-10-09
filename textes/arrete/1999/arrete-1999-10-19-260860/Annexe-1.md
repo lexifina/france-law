@@ -44,9 +44,7 @@ Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur 
 
 A compter de la saison aéronautique d'été 2017 :
 
-TERMINAL ET TRAFIC CONCERNÉ
-
-|
+TERMINAL ET TRAFIC CONCERNÉ |
 
 FLUX MAXIMAL DE PASSAGERS
 
@@ -54,37 +52,21 @@ par heure au départ
 
 |
 
-Orly Sud Global (1)
+Orly Sud Global (1) |
 
-|
+2 500 |
 
-2 500
+Orly Sud International (2) |
 
-|
+1 500 |
 
-Orly Sud International (2)
+Orly Ouest-Schengen (3) |
 
-|
+3 000 |
 
-1 500
+Orly Ouest-International (2) |
 
-|
-
-Orly Ouest-Schengen (3)
-
-|
-
-3 000
-
-|
-
-Orly Ouest-International (2)
-
-|
-
-530
-
-|
+530 |
 
 (1) Totalité du trafic du terminal Sud.
 
@@ -98,706 +80,372 @@ II. - Capacité de l'aéroport de Paris - Charles-de-Gaulle
 
 1. Capacité globale
 
-A compter de la saison aéronautique d'été 2017 :
+A compter de la saison aéronautique d'été 2018 :
 
-HEURES LOCALES
+HEURES
 
-|
-
-ARRIVÉES
-
-par 10 minutes
-
-|
+LOCALES |
 
 ARRIVÉES
 
-par heure
-
-|
+par 10 minutes |
 
 ARRIVÉES
 
-par tranche de 60 minutes glissantes par pas de 10 minutes
+par heure |
 
-|
+ARRIVÉES
+
+par tranche de 60 minutes
+
+glissantes par pas
+
+de 10 minutes |
 
 DÉPARTS
 
-par 10 minutes
-
-|
+par 10 minutes |
 
 DÉPARTS
 
-par heure
-
-|
+par heure |
 
 TOTAL
 
 arrivées + départs
 
-par heure
+par heure |
 
-|
+0 h à 0 h 59 |
 
-0 h à 0 h 59
+7 (6) |
 
-|
+30 |
 
-7 (6)
+73 |
 
-|
+7 (6) |
 
-30
+25 |
 
-|
+40 |
 
-73
+1 h à 1 h 59 |
 
-|
+7 (6) |
 
-7 (6)
+20 |
 
-|
+7 (6) |
 
-25
+25 |
 
-|
+40 |
 
-40
+2 h à 2 h 59 |
 
-|
+7 (6) |
 
-1 h à 1 h 59
+20 |
 
-|
+7 (6) |
 
-7 (6)
+20 |
 
-|
+32 |
 
-20
+3 h à 3 h 59 |
 
-|
+7 (6) |
 
-7 (6)
+20 |
 
-|
+7 (6) |
 
-25
+20 |
 
-|
+32 |
 
-40
+4 h à 4 h 59 |
 
-|
+7 (6) |
 
-2 h à 2 h 59
+20 |
 
-|
+7 (6) |
 
-7 (6)
+20 |
 
-|
+32 |
 
-20
+5 h à 5 h 59 |
 
-|
+7 (6) |
 
-7 (6)
+30 |
 
-|
+7 (6) |
 
-20
+25 |
 
-|
+40 |
 
-32
+6 h à 6 h 59 |
 
-|
+11 (1) |
 
-3 h à 3 h 59
+41 |
 
-|
+7 (6) |
 
-7 (6)
+38 |
 
-|
+67 |
 
-20
+7 h à 7 h 59 |
 
-|
+12 (3) |
 
-7 (6)
+50 |
 
-|
+13 (2) |
 
-20
+66 |
 
-|
+103 |
 
-32
+8 h à 8 h 59 |
 
-|
+13 (1) |
 
-4 h à 4 h 59
+62 |
 
-|
+12 (3) |
 
-7 (6)
+62 |
 
-|
+109 |
 
-20
+9 h à 9 h 59 |
 
-|
+12 (3) |
 
-7 (6)
+62 |
 
-|
+13 (2) |
 
-20
+64 |
 
-|
+120 |
 
-32
+10 h à 10 h 59 |
 
-|
+12 (3) |
 
-5 h à 5 h 59
+60 |
 
-|
+13 (1) |
 
-7 (6)
+67 |
 
-|
+111 |
 
-30
+11 h à 11 h 59 |
 
-|
+12 (3) |
 
-7 (6)
+61 |
 
-|
+13 (1) |
 
-25
+63 |
 
-|
+112 |
 
-40
+12 h à 12 h 59 |
 
-|
+12 (3) |
 
-6 h à 6 h 59
+54 |
 
-|
+13 (2) |
 
-11 (1)
+65 |
 
-|
+111 |
 
-41
+13 h à 13 h 59 |
 
-|
+12 (3) |
 
-7 (6)
+55 |
 
-|
+13 (3) |
 
-38
+70 |
 
-|
+110 |
 
-67
+14 h à 14 h 59 |
 
-|
+13 (3) |
 
-7 h à 7 h 59
+58 |
 
-|
+13 (1) |
 
-12 (3)
+63 |
 
-|
+105 |
 
-49
+15 h à 15 h 59 |
 
-|
+13 (1) |
 
-13 (2)
+56 |
 
-|
+13 (1) |
 
-66
+65 |
 
-|
+108 |
 
-103
+16 h à 16 h 59 |
 
-|
+11 (6) |
 
-8 h à 8 h 59
+56 |
 
-|
+13 (1) |
 
-13 (1)
+63 |
 
-|
+107 |
 
-62
+17 h à 17 h 59 |
 
-|
+13 (3) |
 
-12 (3)
+61 |
 
-|
+12 (3) |
 
-62
+62 |
 
-|
+107 |
 
-109
+18 h à 18 h 59 |
 
-|
+13 (1) |
 
-9 h à 9 h 59
+60 |
 
-|
+13 (2) |
 
-12 (3)
+62 |
 
-|
+111 |
 
-62
+19 h à 19 h 59 |
 
-|
+13 (3) |
 
-13 (2)
+63 |
 
-|
+12 (3) |
 
-64
+62 |
 
-|
+109 |
 
-120
+20 h à 20 h 59 |
 
-|
+13 (1) |
 
-10 h à 10 h 59
+56 |
 
-|
+14 (1) |
 
-12 (3)
+64 |
 
-|
+108 |
 
-60
+21 h à 21 h 59 |
 
-|
+12 (3) |
 
-13 (1)
+53 |
 
-|
+13 (1) |
 
-67
+53 |
 
-|
+97 |
 
-111
+22 h à 22 h 59 |
 
-|
+12 (2) |
 
-11 h à 11 h 59
+46 |
 
-|
+11 (6) |
 
-12 (3)
+41 |
 
-|
+80 |
 
-61
+23 h à 23 h 59 |
 
-|
+8 (6) |
 
-13 (1)
+40 |
 
-|
+10 (6) |
 
-63
+30 |
 
-|
-
-112
-
-|
-
-12 h à 12 h 59
-
-|
-
-12 (3)
-
-|
-
-54
-
-|
-
-13 (2)
-
-|
-
-65
-
-|
-
-111
-
-|
-
-13 h à 13 h 59
-
-|
-
-12 (3)
-
-|
-
-55
-
-|
-
-13 (3)
-
-|
-
-70
-
-|
-
-110
-
-|
-
-14 h à 14 h 59
-
-|
-
-13 (3)
-
-|
-
-58
-
-|
-
-13 (1)
-
-|
-
-63
-
-|
-
-105
-
-|
-
-15 h à 15 h 59
-
-|
-
-13 (1)
-
-|
-
-56
-
-|
-
-13 (1)
-
-|
-
-65
-
-|
-
-108
-
-|
-
-16 h à 16 h 59
-
-|
-
-11 (6)
-
-|
-
-56
-
-|
-
-13 (1)
-
-|
-
-63
-
-|
-
-107
-
-|
-
-17 h à 17 h 59
-
-|
-
-13 (3)
-
-|
-
-61
-
-|
-
-12 (3)
-
-|
-
-62
-
-|
-
-107
-
-|
-
-18 h à 18 h 59
-
-|
-
-13 (1)
-
-|
-
-60
-
-|
-
-13 (2)
-
-|
-
-62
-
-|
-
-111
-
-|
-
-19 h à 19 h 59
-
-|
-
-13 (3)
-
-|
-
-62
-
-|
-
-12 (3)
-
-|
-
-62
-
-|
-
-109
-
-|
-
-20 h à 20 h 59
-
-|
-
-13 (1)
-
-|
-
-56
-
-|
-
-13 (3)
-
-|
-
-64
-
-|
-
-108
-
-|
-
-21 h à 21 h 59
-
-|
-
-12 (3)
-
-|
-
-53
-
-|
-
-13 (1)
-
-|
-
-53
-
-|
-
-97
-
-|
-
-22 h à 22 h 59
-
-|
-
-11 (6)
-
-|
-
-46
-
-|
-
-11 (6)
-
-|
-
-41
-
-|
-
-80
-
-|
-
-23 h à 23 h 59
-
-|
-
-8 (6)
-
-|
-
-40
-
-|
-
-10 (6)
-
-|
-
-30
-
-|
-
-62
-
-|
+62 |
 
 Le sigle N (M) signifie que, au cours de la tranche horaire correspondante, au plus N mouvements peuvent être acceptés sur M périodes de 10 minutes, N-1 mouvements pendant les 6-M autres périodes de 10 minutes, sous réserve du respect des autres contraintes.
 
 2. Capacité des terminaux
 
-Pour l'utilisation des terminaux de l'aéroport de Paris-Charles-de-Gaulle, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux, qui correspond au flux maximal de passagers par heure au départ, dont la valeur est mentionnée par terminal dans le tableau ci-après. Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire en regard de cette capacité sur la base de l'appareil envisagé, d'un coefficient de remplissage moyen et de profils types de présentation des passagers en aérogare. Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement de ce flux maximal, le coordonnateur, en liaison avec Aéroports de Paris, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
+Pour l'utilisation des terminaux de l'aéroport de Paris-Charles-de-Gaulle, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux, qui correspond au flux maximal de passagers par heure au départ, dont la valeur est mentionnée par terminal dans le tableau ci-après. Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire en regard de cette capacité sur la base de l'appareil envisagé, d'un coefficient de remplissage moyen et de profils types de présentation des passagers en aérogare. Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement de ce flux maximal, le coordonnateur, en liaison avec Paris Aéroport, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-A compter de la saison aéronautique d'été 2016 :
+A compter de la saison aéronautique d'été 2018 :
 
-TERMINAL
+TERMINAL |
 
-|
+FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DÉPART |
 
-FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DÉPART
+1 |
 
-|
+2 100 |
 
-1
+2A |
 
-|
+1 000 |
 
-2 100
+2C |
 
-|
+800 |
 
-2A
+2D |
 
-|
+1 200 |
 
-1 100
+2E |
 
-|
+5 200 |
 
-2C
+2F |
 
-|
+2 800 |
 
-900
+2G |
 
-|
+700 |
 
-2D
+3 |
 
-|
-
-1 200
-
-|
-
-2E
-
-|
-
-5 400
-
-|
-
-2F
-
-|
-
-2 800
-
-|
-
-2G
-
-|
-
-700
-
-|
-
-3
-
-|
-
-1 000
-
-|
+1 000 |
