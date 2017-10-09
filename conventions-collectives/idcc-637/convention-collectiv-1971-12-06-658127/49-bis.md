@@ -88,7 +88,7 @@ Ancienneté dans l'entreprise |
 
 90 jours |
 
-Pour le calcul des indemnités dues au titre d'une période de paie, il sera tenu compte des indemnités déjà perçues par l'intéressé durant les 12 mois antérieurs de telle sorte que si plusieurs absences pour maladie ou accident ont été indemnisées au cours de ces 12 derniers mois, la durée totale de l'indemnisation ne dépasse pas celle fixée ci-dessus, au titre de la maladie, d'une part, de l'accident de travail ou de la maladie professionnelle, d'autre part.
+Pour le calcul des indemnités dues au titre d'une période de paye, il sera tenu compte des indemnités déjà perçues par l'intéressé durant les 12 mois antérieurs de telle sorte que si plusieurs absences pour maladie ou accident ont été indemnisées au cours de ces 12 derniers mois, la durée totale de l'indemnisation ne dépasse pas celle fixée ci-dessus, au titre de la maladie, de l'accident de travail et de la maladie professionnelle.
 
 La rémunération nette est évaluée sur la base :
 
