@@ -1,340 +1,230 @@
 # Article Annexe I
 
-CARACTÉRISTIQUES TECHNIQUES
+1. Propriétés
 
-PROPRIÉTÉS
+PROPRIÉTÉS |
 
-|
-
-UNITÉ
-
-|
-
-LIMITES
-
-|
-
-Min.
-
-|
-
-Max.
-
-|
-
-Indice de cétane mesuré |
-
-|
-
-51,0
-
-|
-
--
-
-|
-
-Indice de cétane calculé
-
-|
-
-|
-
-46,0
-
-|
-
--
-
-|
-
-Masse volumique (à 15 °C)
-
-|
-
-kg/m³
-
-|
-
-820,0
-
-|
-
-845,0
-
-|
-
-Hydrocarbures aromatiques polycycliques
-
-|
-
-% (m/m)
-
-|
-
--
-
-|
-
-8,0
-
-|
-
-Teneur en soufre
+UNITÉ |
 
-|
-
-mg/kg
-
-|
-
--
-
-|
-
-10,0
-
-|
-
-Teneur en manganèse
-
-|
-
-mg/l
+LIMITES |
 
 |
 
--
-
-|
-
-2,0
-
-|
-
-Point d'éclair
-
 |
 
-°C
+Minimum |
 
-|
-
-> 55,0
-
-|
+Maximum |
 
--
+Indice de cétane mesuré. |
 
 |
 
-Résidu de carbone (sur le résidu 10 % de distillation)
+51, 0 |
 
 |
 
-% (m/m)
+Indice de cétane calculé. |
 
 |
 
--
+46, 0 |
 
 |
 
-0,30
+Masse volumique (à 15° C). |
 
-|
-
-Teneur en cendre
-
-|
+kg / m ³ |
 
-% (m/m)
+820, 0 |
 
-|
+845, 0 |
 
--
+Hydrocarbures aromatiques polycycliques. |
 
-|
+% (m / m) |
 
-0,01
+- |
 
-|
+8, 0 |
 
-Teneur en eau
+Teneur en soufre. |
 
-|
+mg / kg |
 
-mg/kg
+- |
 
-|
+10, 0 |
 
--
+Point d'éclair. |
 
-|
+° C |
 
-200
+¹ 55 |
 
-|
+- |
 
-Contamination totale
+Résidu de carbone (sur le résidu 10 % de distillation). |
 
-|
+% (m / m) |
 
-mg/kg
+- |
 
-|
+0, 30 |
 
--
+Teneur en cendre. |
 
-|
+% (m / m) |
 
-24
+- |
 
-|
+0, 01 |
 
-Corrosion à la lame de cuivre (3 h à 50 °C)
+Teneur en eau. |
 
-|
+mg / kg |
 
-Cotation
+- |
 
-|
+200 |
 
-Classe 1
+Contamination totale. |
 
-|
+mg / kg |
 
-Stabilité à l'oxydation
+- |
 
-|
+24 |
 
-g/m³
+Corrosion à la lame de cuivre (3 h à 50° C). |
 
-|
+Cotation |
 
--
+Classe 1 |
 
 |
-
-25
 
-|
+Stabilité à l'oxydation 1. |
 
-h
+g / m ³ |
 
-|
+- |
 
-20 (1)
+25 |
 
 |
 
--
-
-|
+h |
 
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée
+20 (1) |
 
-(wsd 1,4) à 60 °C
+- |
 
-|
+Stabilité à l'oxydation 2 à 115° C
 
-µm
+Variation de l'indice d'acide (2).
 
 |
-
--
 
-|
+mg KOH / g |
 
-460
+- |
 
-|
+0, 30 |
 
-Viscosité à 40 °C
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C. |
 
-|
+µm |
 
-mm2/ s
+- |
 
-|
+460 |
 
-2,000
+Viscosité à 40° C. |
 
-|
+mm ² / s |
 
-4,500
+2, 00 |
 
-|
+4, 50 |
 
 Distillation :
 
-- % (v/v) récupéré à 250 °C ;
+% (v / v) évaporé à 250° C ;
 
 |
 
-% (v/v)
+% (v / v) |
+
+- |
+
+¸ 65 |
+
+% (v / v) évaporé à 350° C ; |
+
+% (v / v) |
+
+85 |
+
+- |
+
+point 95 % (V / V) condensé à : |
+
+° C |
+
+- |
+
+360 |
+
+Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 2010 relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
+
+% (V / V) |
+
+- |
+
+7, 0 |
+
+(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V / V). Cette spécification, en révision au CEN, est temporaire.
+
+(2) Cette spécification supplémentaire est optionnelle.
 
 |
 
--
+2. Caractéristiques de tenue au froid
+
+SAISON |
+
+DATE |
+
+CLASSE |
+
+TLF (C, max) |
+
+Eté |
+
+1er avril - 31 octobre |
+
+B |
+
+0° C |
+
+Hiver |
+
+1er novembre - 31 mars |
+
+E |
+
+- 15° C |
+
+Gazole grand froid |
 
 |
 
-< 65
+F |
 
-|
+- 20° C |
 
-- % (v/v) récupéré à 350 °C ;
-
-|
-
-% (v/ v)
-
-|
-
-85
-
-|
-
--
-
-|
-
-- 95 % (V/V) récupéré à :
-
-|
-
-°C
-
-|
-
--
-
-|
-
-360
-
-|
-
-Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
-
-|
-
-% (v/v)
-
-|
-
--
-
-|
-
-8,0
-
-|
-
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (v/v).
-
-|
+TLF : température limite de filtrabilité. |
 
 NOTA :
 
