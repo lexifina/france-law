@@ -556,7 +556,7 @@ Chlore gazeux.
 
 |
 
-Divers.
+Agent de décontamination des produits d'origine végétale.
 
 |
 
@@ -568,7 +568,7 @@ Concentration en chlore libre du bain de chloration : 80 ppm au maximum. Rinçag
 
 |
 
-Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX).
+Teneur en résidus organochlorés : inférieure à 200 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX).
 
 |
 
@@ -691,6 +691,26 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 Dose techniquement inévitable.
 
 |
+
+Copolymères d'acrylamide et d'acrylate de sodium (constitués de 20 % de motif acrylamide et de 80 % de motif acrylate). |
+
+Antitartre. |
+
+Sucre (mi-) blanc cristallisé. |
+
+≤ 10 g/m3 de jus sucré. |
+
+Teneur résiduelle ≤ 0,8 mg/kg de sucre. |
+
+Copolymères d'acrylamide et d'acrylate de sodium (constitués de 90 à 50 % de motif acrylamide et de 10 à 50 % de motif acrylate). |
+
+Floculant et coagulant. |
+
+Sucre (mi-) blanc cristallisé. |
+
+≤ 6 g/m3 de jus sucré. |
+
+Teneur résiduelle ≤ 0,8 mg/kg de sucre. |
 
 Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100%) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/mol) |
 
@@ -899,6 +919,16 @@ A la dose strictement nécessaire.
 2 mg/kg.
 
 |
+
+Emulsion aqueuse de graisses, de cires et de résines dures extraites de houblon (CAS 8060-28-4, EINECS 232-504-3, FEMA 2578). |
+
+Antimousse. |
+
+Brasserie |
+
+A la dose maximale de 100g d'émulsion/hL (soit < 8 g d'extraits du houblon/hL) |
+
+Teneur résiduelle techniquement inévitable. |
 
 Ethanol.
 
@@ -1344,7 +1374,7 @@ Rinçage obligatoire.
 
 |
 
-Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organohalogénés adsorbables AOX).
+Teneur en résidus organochlorés : inférieure à 200 microgrammes par kilogramme (exprimée sous la forme d'organohalogénés adsorbables AOX).
 
 |
 
@@ -1479,6 +1509,18 @@ Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de m
 ≤ 5 mg/kg, dans les huiles et graisses.
 
 |
+
+Monensine CAS n° 22 373-78-0 (sel sodique de polyéther de l'acide mono- carboxylique de formule C36H61O11Na) produit par Streptomyces cinnamonensis. |
+
+Agent de décontamination des produits d'origine végétale. |
+
+Alcool éthylique d'origine agricole. |
+
+A la dose maximale de 0,5 mg/L de jus de diffusion ou de sirop.
+
+Autorisé dans les fermentations destinées à la production d'alcool éthylique. L'utilisation ne doit être qu'intermittente et de courte durée, et doit se limiter aux cas où la flore bactérienne est > 106 germes/mL. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Monooléate de polyoxyéthylène sorbitane (polysorbate 80).
 
