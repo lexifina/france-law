@@ -62,6 +62,8 @@ Bezitramide
 
 Butyrate de dioxaphétyl
 
+Butyrfentanyl ou Butyrylfentanyl ou N-Phényl-N-[1-(2-phenylethyl)-4-pipéridinyl] butanamide
+
 Cannabis et résine de cannabis
 
 Cétobémidone
@@ -233,3 +235,5 @@ Thiofentanyl
 Tilidine
 
 Trimépéridine
+
+U-47700 ou 3,4-dichloro-N-[2-(dimethylamino) cyclohexyl]-N-methylbenzamide

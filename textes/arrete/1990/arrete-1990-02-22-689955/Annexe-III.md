@@ -12,9 +12,13 @@ Cette annexe comprend :
 
 2-CB ou 4-bromo-2,5 diméthoxyphénéthylamine
 
+4-MEC ou 4-méthylethcathinone ou 2-éthylamino-1-(4-méthylphényl)-1-propanone
+
 4-MTA ou ∀-méthyl-4-méthylthiophénéthylamine
 
 4,4'-DMAR ou 4,4'-diméthylaminorex ou para-méthyl-4-méthylaminorex, 4,5-dihydro-4-méthyl-5-(4-méthylphényl)-2-oxazolamine
+
+5F-APINACA ou 5F-AKB-48 ou N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide)
 
 α-PVP ou alpha-pyrrolidinovalérophénone ou 1-phényl-2-(1-pyrrolidinyl)-1-pentanone , méthoxétamine
 
@@ -42,6 +46,10 @@ Dexamfétamine
 
 *DOET ou dl-diméthoxy-2,5 éthyl-4-méthylphényléthylamine
 
+Ethylone ou bk-MDEA ou 3,4-methylenedioxy-N-ethylcathinone (MDEC) ou 2-éthylamino-1-(3,4-méthylènedioxyphényl) propan-1-one
+
+Ethylphénidate ou EPH
+
 *Eticyclidine ou PCE
 
 Etilamfétamine
@@ -60,6 +68,8 @@ Lévométhamphétamine
 
 *MDMA ou dl N, -diméthyl (méthylènedioxy)-3,4 phényléthylamine
 
+MDMB-CHMICA ou MMB-CHMINACA ou methyl (2S)-2-{ [1-(cyclohexylmethyl)-1H-indol-3-yl] formamido }-3,3-dimethylbutanoate
+
 Mécloqualone
 
 *Mescaline
@@ -72,6 +82,8 @@ Méthamphétamine et son racémate
 
 Méthaqualone
 
+Méthiopropamine ou MPA ou 1-(alpha-thiényl)-2-méthylaminopropane
+
 Méthylphénidate
 
 *Méthyl-4 aminorex
@@ -83,6 +95,8 @@ Méthylphénidate
 *Parahexyl
 
 Pentazocine
+
+Pentédrone ou alpha-méthylamino-valérophénone ou 2-(méthylamino)-1-phényl-1-pentan-1-one
 
 Phencyclidine
 
@@ -111,6 +125,8 @@ Sécobarbital
 *Ténocyclidine ou TCP
 
 *TMA ou dl-triméthoxy-3,4,5 -méthylphényléthylamine
+
+XLR-11 ou 5F-UR-144 ou (1-(5-fluoropentyl)-1H-indol-3-yl) (2,2,3,3-tetramethylcyclopropyl) methanone
 
 Zipéprol
 
