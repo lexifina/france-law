@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FOUILLE D'ARCHEOLOGIE PREVENTIVE - 1, AVENUE GEORGES BRASSENS - DECISION DE REALISATION DE L'OPERATION PAR LA DIRECTION ARCHEOLOGIE ET MUSEUM - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET LA SOCIETE EIFFAGE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-10-11
+- Séance : Conseil Municipal 1CA
+- Objet : FOUILLE D'ARCHEOLOGIE PREVENTIVE - 1, AVENUE GEORGES BRASSENS - DECISION DE REALISATION DE L'OPERATION PAR LA DIRECTION ARCHEOLOGIE ET MUSEUM - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET LA SOCIETE EIFFAGE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8834-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
