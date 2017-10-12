@@ -228,7 +228,7 @@ Note. - Voir la Note 1 qui suit 1.2.1.
 
 1.4.7. Les avertissements d'aérodrome, lorsqu'ils existent, sont disponibles pour les tours de contrôle d'aérodrome et les autres organismes appropriés.
 
-Note. - Les conditions météorologiques faisant l'objet d'avertissements d'aérodrome sont énumérées à l'Annexe 3 de l'OACI, Appendice 6, 5.1.3., applicable en vertu de l'arrêté du 21 septembre 2007 modifié portant règlement pour l'assistance météorologique à la navigation aérienne.
+Note. - Les conditions météorologiques faisant l'objet d'avertissements d'aérodrome sont énumérées à l'Annexe 3 de l'OACI, Appendice 6, 5.1.3., applicable en vertu de l'arrêté du 21 avril 2017 portant règlement pour l'assistance météorologique à la navigation aérienne.
 
 1.5. Stations de télécommunications
 
@@ -412,7 +412,7 @@ Note. - Lorsque deux aides de radionavigation fonctionnant dans des bandes diff�
 
 3. Indicatifs des points significatifs qui ne sont pas identifiés par l'emplacement d'une aide de radionavigation
 
-3.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une aide de radionavigation et que ce point est utilisé aux fins du contrôle de la circulation aérienne, il est désigné par un groupe "nom-indicatif codé" unique de 5 lettres qui soit prononçable. Ce "nom de code" sert alors de nom aussi bien que d'indicatif codé du point significatif.
+3.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une aide de radionavigation et que ce point est utilisé aux fins du contrôle de la circulation aérienne, il est désigné par un groupe nom-indicatif codé unique de 5 lettres qui soit prononçable. Ce nom de code sert alors de nom aussi bien que d'indicatif codé du point significatif.
 
 Note. - Les principes régissant l'utilisation de noms de code alphanumériques de points appuyant des procédures SID, STAR et d'approche aux instruments RNAV sont énoncés dans les PANS-OPS (Doc 8168).
 
