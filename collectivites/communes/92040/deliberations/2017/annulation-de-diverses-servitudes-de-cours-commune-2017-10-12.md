@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Annulation de diverses servitudes de cours communes
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-10-12
+- Matière : PATRIMOINE
+- Objet : Annulation de diverses servitudes de cours communes
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMzEsInB1ciI6ImJsb2JfaWQifX0=--23065a34e0fe82fd978bcc6b1a6045dbe5f644f4/121017_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
