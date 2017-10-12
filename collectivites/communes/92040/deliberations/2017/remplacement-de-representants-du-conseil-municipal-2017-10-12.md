@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Remplacement de représentants du Conseil municipal au sein de la Maison du Tourisme et des Loisirs d’Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-10-12
+- Matière : RELATIONS INTERNATIONALES ET TOURISME
+- Objet : Remplacement de représentants du Conseil municipal au sein de la Maison du Tourisme et des Loisirs d’Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1MjYsInB1ciI6ImJsb2JfaWQifX0=--b39af2ba85dcd23e8973d33d3eb40fe37864062d/121017_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
