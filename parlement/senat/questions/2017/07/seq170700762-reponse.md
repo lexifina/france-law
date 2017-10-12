@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700762
+
+- Question : [SEQ170700762](seq170700762.md) — Moyens du parquet de Thonon-les-Bains
+
+## Réponse
+
+*Justice, JO du 2017-10-12, page 3158*
+
+Depuis 2012, des moyens importants ont été mobilisés pour accompagner la mise en œuvre des différentes réformes et compenser les faibles recrutements des années précédentes et ce, malgré un contexte budgétaire contraint. Ainsi en 2017, 280 places ont été offertes au titre des trois concours d'accès à l'ENM, et 50 places l'ont été au titre du concours complémentaire du second grade. Ces perspectives de recrutement de magistrats dans le cadre du triennat 2015-2017, qui se poursuivent pour 2018 devraient permettre de maintenir un niveau de recrutement suffisant pour compenser les sorties du corps judiciaire, voire générer un solde positif. La direction des services judiciaires évalue par ailleurs chaque année l'activité des parquets pour identifier le nombre de magistrats nécessaires au bon fonctionnement de la juridiction. S'agissant du parquet de Thonon-les-Bains, la circulaire de localisation des emplois pour l'année 2017 fixe, depuis 2016, à six (deux vice-procureurs, trois substituts du procureur de la République, outre le procureur de la République) le nombre de magistrats nécessaires à ce parquet au regard de l'activité étudiée. Au 1er septembre 2017, tous les postes sont pourvus. Par ailleurs, pour faire face, le cas échéant, à des événements imprévus amenant une diminution des capacités de traitement du parquet de Thonon-les-Bains, le procureur général près la cour d'appel de Chambéry dispose de trois magistrats placés qu'il peut déléguer dans les différentes juridictions du ressort en cas de nécessité. C'est ainsi qu'un magistrat placé a été délégué au parquet de Thonon-les-Bains de mai à août 2017.
