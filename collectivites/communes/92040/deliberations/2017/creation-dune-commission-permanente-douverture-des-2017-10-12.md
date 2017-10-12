@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Création d’une commission permanente d’ouverture des plis chargée des concessions de service public du secteur des sports et désignation de ses membres
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-10-12
+- Matière : SPORTS
+- Objet : Création d’une commission permanente d’ouverture des plis chargée des concessions de service public du secteur des sports et désignation de ses membres
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1OTcsInB1ciI6ImJsb2JfaWQifX0=--16f8912beb2a43fd8f12ec97165accad85ee1e96/121017_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
