@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Remplacement de représentants du Conseil municipal au sein de l’Office Isséen Pour les Aînés
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-10-12
+- Matière : VIE SOCIALE
+- Objet : Remplacement de représentants du Conseil municipal au sein de l’Office Isséen Pour les Aînés
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MDMsInB1ciI6ImJsb2JfaWQifX0=--13194010a83bb822e390858d874881529cbe1389/121017_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
