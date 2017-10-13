@@ -528,6 +528,24 @@ Pour l'accueil prioritaire du trafic militaire.
 
 Pour l'accueil du trafic civil, dans la limite des disponibilités de leur capacité physique et dans les conditions fixées, pour chacun d'entre eux, par un protocole spécifique passé entre les représentants des affectataires ; ce protocole précisera notamment le type d'appareils, la nature et le nombre de vols accueillis, leur provenance et leur destination ainsi que les périodes et les modalités de leur accueil. |
 
+Luc-Le Cannet |
+
+Var |
+
+Cet aérodrome est réservé :
+
+1) prioritairement à l'accueil du trafic militaire et d'Etat ;
+
+2) aux activités particulières qui y sont autorisées ;
+
+3) aux aéronefs basés ou détachés ;
+
+4) aux aéronefs basés sur les aérodromes voisins dans un rayon de quarante milles nautiques.
+
+Les aéronefs bénéficiant d'une autorisation (ou convention) d'occupation relèvent du point n° 3.
+
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+
 Lurcy-Lévis |
 
 Allier |

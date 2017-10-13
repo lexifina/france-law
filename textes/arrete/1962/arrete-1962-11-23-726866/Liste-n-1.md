@@ -994,12 +994,6 @@ Seine-Maritime |
 
 |
 
-Le Luc-Le Cannet |
-
-Var |
-
-|
-
 Le Mans-Arnage |
 
 Sarthe |
