@@ -1,3 +1,0 @@
-# Article 1er
-
-A l'exception de ceux mentionnés à l'article L. 1233-21 du code du travail, les thèmes ouverts à ce type de négociation sont les mesures dont la mise en œuvre est subordonnée par la loi à un accord collectif.
