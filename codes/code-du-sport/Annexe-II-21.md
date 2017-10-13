@@ -144,6 +144,8 @@ L'établissement veille à une collaboration entre les formateurs et les tuteurs
 
 L'établissement recueille auprès de chaque tuteur un rapport rédigé de fin de formation.
 
+Les tuteurs disposent des qualifications exigées par l'arrêté du diplôme correspondant à la formation dispensée par l'établissement.
+
 Clause 7. - L'établissement participe au comité de coordination piloté par la direction des sports.
 
 Clause 8. - L'établissement met en pratique les principes validés par le comité de coordination afin d'assurer un service public de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mobilisées.
@@ -152,7 +154,7 @@ C. - Clauses particulières du canoë-kayak
 
 Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement dispose d'une équipe pédagogique.
 
-L'équipe pédagogique est constituée autour d'un coordonnateur pédagogique et technique qui a qualité de personnel technique et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant l'encadrement de la discipline canoë kayak en environnement spécifique.
+Le coordonnateur et l'équipe pédagogique disposent des qualifications prévues dans l'arrêté de diplôme. Dans le cas où l'arrêté de diplôme ne le précise pas l'équipe pédagogique est constituée autour d'un coordonnateur pédagogique et technique qui a qualité de personnel technique et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant l'encadrement de la discipline canoë kayak en environnement spécifique.
 
 A titre exceptionnel la fonction de coordination pourra être confiée à un professeur de sport titulaire d'un DESJEPS ou d'un BEES 2e degré dans la discipline.
 
@@ -196,7 +198,7 @@ L'établissement :
 
 - s'assure de la qualité du tutorat en mettant en place une formation à la fonction tutorale en début de formation sous la forme d'une journée d'information portant sur les attendus du stage en entreprise, de présentation du cursus de formation, d'échange entre les partenaires de retour d'expérience et d'harmonisation des certifications qui se déroulent en entreprise ;
 
-- vérifie que les tuteurs sont titulaires d'un DEJEPS, DESJEPS ou d'une qualification complémentaire en eaux vives assortie de l'ensemble des compétences attendues par rapport au diplôme préparé ;
+- vérifie que les tuteurs disposent de la qualification prévue dans l'arrêté de diplôme. Dans le cas où l'arrêté ne le précise pas l'établissement vérifie que les tuteurs sont titulaires d'un DEJEPS, DESJEPS ou d'une qualification complémentaire en eaux vives assortie de l'ensemble des compétences attendues par rapport au diplôme préparé ;
 
 - organise la collaboration entre les formateurs et les tuteurs afin de veiller à l'information des tuteurs et au partage des expériences dont ils sont porteurs, dans le but de rechercher une grande qualité dans les formations et un échange de pratique sur le plan national ;
 
@@ -558,13 +560,13 @@ H. - Clauses particulières de l'escalade
 
 Clause 1. - L'établissement dispose pour la mise en œuvre et le suivi des formations, sur le plan pédagogique et de la sécurité, d'une équipe pédagogique.
 
-L'équipe pédagogique est composée au minimum de deux agents de l'Etat, personnels techniques et pédagogiques, spécialistes de la discipline titulaires d'un BEES 2e degré, option escalade , d'un DEJEPS mention escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme ou à titre dérogatoire jusqu'au 31 janvier 2007 d'un agent de l'Etat titulaire du BEES 1er degré, option escalade .
+L'équipe pédagogique est composée au minimum de deux agents de l'Etat, personnels techniques et pédagogiques, spécialistes de la discipline titulaires du BEES 1er degré, option “ escalade ”, du BEES 2e degré, option escalade , d'un DEJEPS mention escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme.
 
 A titre dérogatoire, l'établissement doit obligatoirement disposer au minimum d'un personnel technique et pédagogique, de l'établissement agent de l'Etat spécialiste de la discipline et d'un personnel contractuel de catégorie A, permanent de l'établissement dont l'activité principale est l'organisation et le suivi des stagiaires dans l'établissement. Ces personnes doivent être titulaires d'un des quatre diplômes précités de la discipline.
 
 La coordination technique et pédagogique des formations escalade en environnement spécifique, ainsi que sa mise en œuvre est assurée par l'une ou l'autre de ces personnes qui peuvent être assistées d'un agent de l'établissement en charge du suivi administratif du stagiaire. Le coordonnateur technique et pédagogique est titulaire d'un diplôme de référence couvrant l'escalade en environnement spécifique.
 
-L'établissement peut recruter des intervenants dans le cadre de la formation habilitée. Ces intervenants doivent disposer pour les parties relevant de l'escalade en environnement spécifique de l'un des trois diplômes à jour des recyclages (attestation en cours de validité) : BEES 2e degré, option escalade , d'un DEJEPS mention escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme et à titre transitoire jusqu'au 31 janvier 2007 d'un BEES du 1er degré, option escalade . Ils peuvent être intégrés à l'équipe pédagogique et associés à l'ingénierie des formations.
+L'établissement peut recruter des intervenants dans le cadre de la formation habilitée. Ces intervenants doivent disposer pour les parties relevant de l'escalade en environnement spécifique de l'un des trois diplômes à jour des recyclages (attestation en cours de validité) : d'un BEES du 1er degré, option “ escalade ”, d'un BEES 2e degré, option escalade , d'un DEJEPS mention escalade en milieux naturels , du diplôme de guide haute montagne du brevet d'Etat d'alpinisme. Ils peuvent être intégrés à l'équipe pédagogique et associés à l'ingénierie des formations.
 
 Clause 2. - L'établissement respecte les taux d'encadrement des stagiaires ainsi déterminés :
 
@@ -658,11 +660,9 @@ L'établissement doit vérifier que le professionnel remplit les conditions pour
 
 - soit du brevet d'Etat d'éducateur sportif du 2e degré option escalade ; ou
 
-- à défaut mais de manière transitoire jusqu'au 31 janvier 2017 d'une des qualifications suivantes :
+- soit du brevet d'Etat d'éducateur sportif du 1er degré option escalade ;
 
-- du brevet d'Etat d'éducateur sportif du 1er degré option escalade ;
-
-- du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme.
+- soit du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme.
 
 L'établissement doit s'assurer que le tuteur exerce ses responsabilités :
 
@@ -867,3 +867,63 @@ L'établissement veille à la protection des stagiaires en matière de sécurit�
 Clause 6. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère chargé des sports.
 
 Clause 7. - L'établissement s'engage à mettre en pratique les principes validés par le comité de coordination afin d'assurer un service public de formation de qualité.
+
+K. - Clauses particulières de la voile au-delà de 200 miles nautiques d'un abri :
+
+Clause 1. - Pour la mise en œuvre et le suivi des formations sur le plan pédagogique et de la sécurité, l'établissement dispose d'une équipe pédagogique constituée autour d'un coordonnateur pédagogique et technique qui a qualité de personnel technique et pédagogique, appartenant à l'établissement et titulaire du diplôme permettant l'encadrement de la discipline voile en environnement spécifique.
+
+A titre exceptionnel, la fonction de coordination pourra être confiée à un professeur de sport titulaire d'un DEJEPS ou d'un BEES 2e degré dans la discipline.
+
+L'établissement recherche l'expertise dans la constitution et le fonctionnement de l'équipe pédagogique.
+
+L'établissement associe la direction technique nationale à l'ingénierie de formation.
+
+Clause 2. - L'établissement démontre que son inscription dans un bassin géographique se concrétise par :
+
+- un ancrage géographique de nature à permettre l'accès direct à une zone de navigation permettant la pratique de la navigation au-delà de 200 milles nautiques sans avoir à organiser un déplacement préalable de la formation ;
+
+- un milieu naturel adéquat et un contexte professionnel en lien avec les diplômes de l'environnement spécifique.
+
+Clause 3. - L'établissement doit respecter les taux d'encadrement des stagiaires ainsi déterminés.
+
+Ce taux d'encadrement varie selon les situations pédagogiques rencontrées mais, lors des temps de formation en navigation, il convient de différencier :
+
+- les temps de pratique n'excédant pas la journée où le taux d'encadrement est choisi par le coordonnateur de la formation dans les limites requises par les normes en vigueur ;
+
+- les temps à visée pédagogique en navigation au large où le taux d'encadrement sera de deux encadrants pour un maximum de six stagiaires.
+
+Clause 4. - L'établissement dispose du matériel technique nécessaire à la formation des stagiaires qui constitue un élément fondamental de culture de la sécurité en haute mer.
+
+L'établissement doit pouvoir disposer d'un support de navigation permettant l'évolution au-delà de 200 MN et adapté à l'embarquement des stagiaires en formation. L'établissement doit en outre être en capacité de présenter aux stagiaires une variété de matériels, pour les sensibiliser à leur utilisation, leur gestion et leur entretien, notamment en matière de sécurité, de liaison radio maritime et d'outils d'aide à la navigation.
+
+L'établissement dispose par ailleurs d'un fonds documentaire ouvert aux stagiaires afin de construire leur culture de l'activité tant du point de vue historique, technique, sportif et environnemental.
+
+Clause 5. - L'établissement puise sa légitimité dans sa capacité à offrir des formations dédiées à la sécurité en mer (stage survie, stage météorologie, stage médical, stage lié aux relations interpersonnelles à bord...).
+
+L'établissement puise en outre sa légitimité dans sa capacité à assurer des fonctions d'études ou de recherche dans le domaine de la sécurité des activités nautiques à la demande des autorités publiques en charges de ces questions et des acteurs du secours en mer.
+
+Clause 6. - L'établissement conclut des partenariats et conventions.
+
+L'établissement est responsable de l'ensemble de la formation habilitée et doit en conserver la totale maîtrise.
+
+L'établissement conclut des partenariats avec d'autres établissements publics avec la ou les fédérations, les organismes professionnels du secteur d'activité.
+
+Ces conventions de partenariats portent notamment sur le matériel, les compétences à rechercher.
+
+Clause 7. - L'établissement démontre sa connaissance des structures d'accueil des stagiaires en alternance.
+
+L'établissement démontre qu'il a une proximité avec les structures d'alternance en en constituant la liste et en ayant connaissance de leur capacité d'accueil ainsi que de la disponibilité des tuteurs.
+
+L'établissement organise les relations avec les tuteurs par :
+
+- la rédaction d'une charte de l'alternance fixant les modalités de collaboration entre l'établissement et les tuteurs ;
+
+- l'obligation pour les tuteurs d'effectuer a minima un bilan intermédiaire et un final avec le stagiaire en alternance. Au cours de la formation en entreprise et lors des bilans, les tuteurs doivent informer les centres de formation des problématiques rencontrées ;
+
+- l'obligation de les impliquer dans la certification ;
+
+- leur participation pour partie à la formation cadre des DEJEPS.
+
+Clause 8. - L'établissement s'engage à participer au comité de coordination piloté par la direction des sports du ministère chargé des sports.
+
+Clause 9. - L'établissement met en pratique les principes validés par le comité de coordination afin d'assurer un service public de qualité tels que l'harmonisation des différentes phases de formation, de la mise en œuvre pédagogique, des certifications, des techniques et pratiques enseignées, des technologies mobilisées.
