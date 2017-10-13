@@ -148,10 +148,6 @@ MFREO Frecul, route d'Allonne, 79130 Secondigny |
 
 chien , chat |
 
-EAPAC, 22, allées Montebello, 82200 Moissac |
-
-chien , chat |
-
 CFPPA Nature, allée des Druides, CS 70022, 85035 La Roche-sur-Yon Cedex |
 
 chien , chat , autres que chien et chat |
