@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/ CE du Parlement européen et du Conseil modifiée par la directive (UE) 2016/2309 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2016/2309 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -136,7 +136,7 @@ Toutefois, sont autorisés :
 
 - à l'occasion d'un tir public effectué selon les dispositions de l'arrêté du 31 mai 2010 pris en application des articles 3, 4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre, le déchargement sur la voie publique des artifices de divertissement de toutes catégories ;
 
-- le déchargement sur la voie publique d'explosifs industriels et accessoires de tir des n°s ONU 0081,0082,0083,0084,0241,0033,0060,0065,0289,0029,0030,0267,0455,0360,0361,0500,0042,0283,0105,0131,0454,0255 et 0456, dédiés aux déclenchements d'avalanche, pour la livraison d'un stockage situé en station de sports d'hiver relevant du régime de l'enregistrement ou de la déclaration de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement, inaccessible aux véhicules routiers. Cette autorisation s'applique toute l'année pour les stockages ayant été enregistrés avant le 30 juillet 2010 ou déclarés avant le 15 mai 2011 et du 1er novembre au 31 mai pour les stockages ayant été enregistrés ou déclarés après ces dates respectives. Quel que soit le régime, il est satisfait aux conditions de sécurité spécifiques de l'arrêté du 29 juillet 2010 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement. Un arrêté préfectoral fixe, le cas échéant, des conditions supplémentaires, destinées notamment à compléter les plans de sûreté établis par les opérateurs dans le cadre du chapitre 1.10 de l'ADR.
+- le déchargement sur la voie publique d'explosifs industriels et accessoires de tir des nos ONU 0081, 0082, 0083, 0084, 0241, 0033, 0060, 0065, 0289, 0029, 0030, 0267, 0455, 0360, 0361, 0500, 0042, 0283, 0105, 0131, 0454, 0255 et 0456, dédiés aux déclenchements d'avalanche, pour la livraison d'un stockage situé en station de sports d'hiver relevant du régime de l'enregistrement ou de la déclaration de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement, inaccessible aux véhicules routiers. Cette autorisation s'applique toute l'année pour les stockages ayant été enregistrés avant le 30 juillet 2010 ou déclarés avant le 15 mai 2011 et du 1er novembre au 31 mai pour les stockages ayant été enregistrés ou déclarés après ces dates respectives. Quel que soit le régime, il est satisfait aux conditions de sécurité spécifiques de l'arrêté du 29 juillet 2010 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement. Un arrêté préfectoral fixe, le cas échéant, des conditions supplémentaires, destinées notamment à compléter les plans de sûreté établis par les opérateurs dans le cadre du chapitre 1.10 de l'ADR.
 
 Dans les deux situations ci-dessus, la prise en charge de la responsabilité de la marchandise incombe à la personne ou à l'entreprise chargée de l'entreposage. Il est alors satisfait à toutes les précautions d'usage dans la profession.
 
@@ -200,7 +200,7 @@ Dans tous les cas, la citerne du véhicule et les flexibles doivent être effica
 
 2.3. Transport et stationnement.
 
-2.3.1. Modalités de stationnement des véhicules en dehors des établissements de chargement et de déchargement et des parcs de stationnement intérieurs aux entreprises de transport.
+2.3.1. Modalités de stationnement des véhicules en dehors des établissements de chargement, déchargement, remplissage ou vidange, et des parcs de stationnement intérieurs aux entreprises de transport.
 
 Sans préjudice des prescriptions des 8.4 et 8.5, les dispositions suivantes s'appliquent au stationnement des véhicules transportant des marchandises dangereuses.
 
@@ -216,7 +216,7 @@ Lorsque le conducteur quitte son véhicule en stationnement, il doit disposer à
 
 2.3.1.2. Précautions spécifiques.
 
-Lorsque le véhicule est soumis aux dispositions du 9.2.2.3, les circuits électriques doivent être coupés par une manœuvre du coupe-circuit de batteries pendant que le véhicule est en stationnement.
+Lorsque le véhicule est soumis aux dispositions du 9.2.2.8, les circuits électriques doivent être coupés par une manœuvre du coupe-circuit de batteries pendant que le véhicule est en stationnement.
 
 Dans le cas d'un transport en citerne, il y a lieu de s'assurer de la fermeture des vannes et autres dispositifs d'obturation, au début et à la fin du stationnement.
 
@@ -226,17 +226,225 @@ Les véhicules transportant des marchandises de la classe 1 autres que celles cl
 
 2.3.1.4. Stationnement d'une durée supérieure à 12 heures.
 
-Les véhicules transportant des marchandises de la classe 1 autres que celles classées en division 1.4, ou plus de 3 000 kg de marchandises de la division 1.4, ou des matières dangereuses en citernes d'une capacité totale de plus de 3 000 litres doivent stationner à plus de 50 m de toute habitation ou de tout établissement recevant du public ; en outre, en agglomération, le stationnement ne peut être effectué que dans un dépôt soumis à la réglementation des installations classées ou dans un parc surveillé.
+Les véhicules transportant des marchandises de la classe 1 autres que celles classées en division 1.4, ou plus de 3 000 kg de marchandises de la division 1.4, ou des matières dangereuses en citernes d'une capacité totale de plus de 3 000 litres stationnent dans les conditions de garde définies aux alinéas suivants.
 
-Une distance d'au moins 50 m doit être maintenue entre les véhicules transportant des matières ou objets de la classe 1 munis des plaques-étiquettes des modèles n° s 1 ou 1. 5.
+En agglomération, le stationnement d'une durée supérieure à 12 heures est interdit. Les véhicules stationnent alors dans les établissements visés au 2.3.1 ou dans des parcs de stationnement qui respectent les dispositions des trois premiers alinéas du 2.3.2.2.1, celles du second alinéa du 2.3.2.4.1 ainsi que celles du 2.3.2.4.2 ci-dessous.
 
-Les véhicules-citernes, les véhicules-batteries et les véhicules portant des citernes démontables, des conteneurs-citernes, des citernes mobiles ou des conteneurs à gaz à éléments multiples, lorsqu'ils sont munis de plaques-étiquettes des modèles n os 2.1 ou 3, ne doivent pas stationner à moins de 10 m d'un autre véhicule du même type portant une plaque-étiquette des modèles n os 2.1, 2.3, 3 ou 6.1 ou d'un autre véhicule muni d'une plaque-étiquette des modèles n os 1 ou 1.5, et réciproquement.
+Hors agglomération :
+
+- une distance de plus de 50 m de toute habitation ou de tout établissement recevant du public est maintenue ;
+
+- une distance d'au moins 50 m est maintenue entre les véhicules transportant des matières ou objets de la classe 1 munis des plaques-étiquettes des modèles nos 1 ou 1.5 ;
+
+- les véhicules-citernes, les véhicules-batteries et les véhicules portant des citernes démontables, des conteneurs-citernes, des citernes mobiles ou des conteneurs à gaz à éléments multiples, lorsqu'ils sont munis de plaques-étiquettes des modèles nos 2.1 ou 3, ne doivent pas stationner à moins de 10 m d'un autre véhicule du même type portant une plaque-étiquette des modèles nos 2.1, 2.3, 3 ou 6.1 ou d'un autre véhicule muni d'une plaque-étiquette des modèles nos 1 ou 1.5, et réciproquement.
 
 2.3.1.5. Stationnement sur les aires soumises à étude de dangers au titre de l'article L. 551-2 du code de l'environnement.
 
 Les véhicules stationnent selon les règles fixées au vu des résultats de l'étude de dangers, conformément à l'article L. 551-3 du code de l'environnement. Le cas échéant, celles-ci se substituent aux dispositions des 2.3.1.3. et 2.3.1.4. de la présente annexe I. Les dispositions des 2.3.1.1. et 2.3.1.2. ci-dessus s'appliquent dans tous les cas.
 
-2.3.2. (supprimé)
+2.3.2 Dispositions concernant la garde de certaines marchandises dangereuses à l'intérieur des établissements mentionnés au 2.3.1
+
+2.3.2.1 Champ d'application et définitions
+
+Sont concernés par les dispositions de la présente section :
+
+- les parcs de stationnement de véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1 ci-dessous, exploités par des entreprises de transport, y compris en compte propre, dont les véhicules y stationnent habituellement dans le cadre de leurs activités programmées,
+
+et
+
+- dont la capacité est supérieure à trente places de stationnement destinées aux véhicules transportant des marchandises dangereuses, au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1 ci-dessous, ou qui accueillent plus de cinq véhicules transportant des gaz inflammables ou du GPL au sens du tableau 2.3.2.1 ci-dessous.
+
+Ces prescriptions s'appliquent, avec les mêmes critères de seuil, aux zones de stationnement de véhicules transportant des marchandises dangereuses dans l'emprise des installations classées pour la protection de l'environnement, sauf règles particulières définies par arrêté ministériel ou fixées par arrêté préfectoral.
+
+Ne sont pas considérés comme stationnant habituellement dans un parc, les véhicules en transit susceptibles d'y stationner de façon exceptionnelle et non programmée pour une durée maximale permettant de satisfaire aux interdictions de circuler (week end, jours fériés …) ou de respecter les prescriptions relatives au temps de repos du conducteur. Ces véhicules, qui ne sont pas pris en compte dans les seuils définis plus haut, peuvent stationner dans les parcs, sans que s'appliquent les prescriptions de la présente section.
+
+Tableau 2.3.2.1 Liste des marchandises dangereuses
+
+Classe |
+
+Matière |
+
+Capacité ou quantité |
+
+Capacité de la citerne (l) |
+
+Colis masse nette (kg) |
+
+2 |
+
+Gaz inflammables (codes de classification comprenant unique-ment la lettre F, codes de danger 223, 23, 238, 239) |
+
+3 000 |
+
+Non concerné |
+
+GPL (N° ONU 1011, 1075, 1965, 1969, 1978) |
+
+3 000 |
+
+10 000 |
+
+Gaz toxiques (codes de classification comprenant les lettres T, TF, TC, TO, TFC ou TOC) |
+
+0 |
+
+Non concerné |
+
+3 |
+
+Liquides inflammables des groupes d'emballage I et II |
+
+3 000 |
+
+Non concerné |
+
+Pour l'application de la présente section, sont désignés par :
+
+- exploitant, toute entreprise de transport visée au présent point ci-dessus ou son représentant, chargé de la gestion du parc de stationnement ;
+
+- surveillant, tout préposé désigné par l'exploitant ou tout personnel non présent sur site (télésurveilleurs) en charge de la surveillance d'un parc de stationnement surveillé (voir le 2.3.2.5. ci dessous)
+
+2.3.2.2 Implantation
+
+2.3.2.2.1 Clôture
+
+Les personnes étrangères au parc de stationnement n'ont pas un accès libre à celui-ci. Cette interdiction est rappelée sur un ou plusieurs panneaux disposés au niveau du ou des accès au parc de stationnement.
+
+Les accès au parc de stationnement, notamment la barrière ou le portail de l'accès principal sont fermés durant toute plage d'arrêt de l'activité, notamment la nuit et le week-end, sur le parc de stationnement.
+
+Le parc de stationnement est entouré par une clôture ou un mur, d'une hauteur d'au moins 1,80 m. Cette clôture est maintenue en permanence en bon état d'entretien.
+
+La clôture est assortie d'un dispositif anti-intrusion de type haie ou concertina au sol. La présence d'un mur de hauteur au moins 2,30 m accompagné sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) dispense de cette disposition.
+
+Ce dispositif est mis en place autour du parc. Les accès de la clôture sont verrouillables et répondent à l'une des caractéristiques suivantes :
+
+- hauteur minimale de 1,80 m, assortie du dispositif anti-intrusion de type concertina en hauteur ;
+
+- hauteur minimale de 2,30 m, accompagnée sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) ;
+
+- hauteur minimale de 2,50 m sans dispositif de lutte contre l'intrusion.
+
+Lorsqu'une zone de stationnement accueillant la totalité des véhicules transportant des gaz inflammables ou toxiques ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau du 2.3.2.1 est identifiable au sein du parc, les dispositions des deux précédents alinéas peuvent être restreintes à cette zone.
+
+2.3.2.2.2 Distances d'éloignement
+
+Les véhicules transportant des gaz inflammables, du GPL au sens et en quantités ou capacités supérieures à celles indiquées dans le tableau 2.3.2.1 stationnent en respectant une distance d'éloignement d'au moins 10 m de la limite de propriété du parc de stationnement.
+
+Pour les parcs mis en service avant le 1er janvier 2018, les véhicules mentionnés au premier alinéa peuvent stationner, sans que soient appliquées les dispositions de cet alinéa, dès lors qu'ils stationnent à plus de 10 m de tout local d'habitation ou local d'établissement recevant du public.
+
+Ces distances d'éloignement peuvent être réduites à 1 m si entre l'aire de stationnement et la limite de propriété, est interposé un mur REI 120, dont la hauteur excède de 0,5 m celle des véhicules, sans être inférieure à 3 m ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
+
+Ces dispositions s'appliquent également aux véhicules de transport de liquides inflammables au sens et en quantités ou capacités supérieures à celles indiquées dans le tableau 2.3.2.1, à l'exception des citernes vides non nettoyées en aluminium ayant contenu ces liquides inflammables, pour les parcs de stationnement mis en service après le 1er janvier 2018.
+
+La date de mise en service du parc de stationnement pourra être prouvée par tout document daté tel que certificat de dépôt du permis de construire, acte de cession ou d'acquisition, contrat de location ou de bail, faisant expressément état de la destination du site comme parc de stationnement.
+
+2.3.2.2.3 Organisation du stationnement
+
+Le stationnement est organisé en zones. Ces zones correspondent a minima aux catégories suivantes :
+
+- zone de stationnement des véhicules transportant des liquides inflammables au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus ;
+
+- zone de stationnement des véhicules transportant des gaz inflammables ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus ;
+
+- zone de stationnement des véhicules transportant des gaz toxiques au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus ;
+
+L'implantation de ces zones est réalisée de façon à permettre le libre accès des véhicules de secours en cas d'intervention. Les zones sont séparées d'au moins une place de stationnement.
+
+Les autres véhicules transportant des marchandises dangereuses présents sur le parc de stationnement sont autorisés à stationner librement sur l'ensemble du parc, en fonction des places disponibles.
+
+2.3.2.2.4 Plan de stationnement
+
+L'exploitant établit un plan de stationnement, faisant apparaître les zones définies au 2.3.2.2.3 ainsi que les places où stationnent les autres véhicules transportant des marchandises dangereuses.
+
+Le plan mentionne les enjeux, en particulier immeubles occupés ou habités par les tiers (habitations, établissements recevant du public …) présents dans un rayon de 200 m autour du parc de stationnement. Le cas échéant, les zones sont implantées de façon à minimiser d'éventuels effets accidentels vis-à-vis de ces enjeux.
+
+Le plan fait apparaître les moyens de lutte contre l'incendie dont dispose le parc. Il mentionne également les coordonnées et le numéro d'urgence d'un responsable à appeler en cas de sinistre.
+
+2.3.2.3 Connaissance des marchandises dangereuses
+
+2.3.2.3.1 Dispositions générales
+
+L'exploitant ainsi que le ou les surveillants présents sur le site ont une connaissance du mode de fonctionnement du parc de stationnement. Ils sont en mesure de mettre à disposition des autorités compétentes les documents listés au 2.3.2.4.4 faisant l'objet du document synthétique d'information des services de secours, et le cas échéant l'estimation mentionnée au 2.3.2.3.3. l'exploitant s'assure de la mise à jour de ces documents en fonction des modifications de l'organisation du parc.
+
+2.3.2.3.2 Recensement des marchandises dangereuses susceptibles d'être présentes
+
+L'exploitant établit, sur la base de sa connaissance des transports effectués durant l'année écoulée, la liste des principales marchandises dangereuses susceptibles d'être présentes sur le site. Cette liste mentionne les numéros ONU correspondants et est organisée par classes de l'ADR. Cette liste est mise à disposition des services de secours incendie intervenant sur le site.
+
+2.3.2.3.3 Estimation des quantités présentes de marchandises dangereuses
+
+Dans le cas de parcs de stationnement surveillés par un préposé, l'exploitant s'assure qu'une estimation quotidienne des quantités des principales marchandises dangereuses présentes sur le parc de stationnement est établie. Cette estimation est faite sur la base des données approximatives de l'état de chargement des véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus qui stationnent dans le parc. Elle est arrêtée au moment de la fin d'activité journalière de l'exploitant pour le parc concerné. Cette estimation, organisée selon les catégories définies par les zones visées au 2.3.2.2.3 est mise à disposition des services de secours incendie intervenant sur le site.
+
+2.3.2.4 Lutte contre l'incendie-Prévention du risque de pollution
+
+2.3.2.4.1 Prévention de l'incendie se déclarant sur les véhicules à l'arrêt
+
+Une consigne établit les modalités d'inspection des véhicules avant leur stationnement.
+
+Les circuits électriques des véhicules en stationnement sont coupés par une manœuvre du coupe-circuit de batteries lorsque le véhicule en est équipé.
+
+Les véhicules transportant des gaz inflammables, du GPL ou des liquides inflammables au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus sont équipés de témoins indiquant une chauffe anormale des essieux. Ils ne stationnent en cas de chauffe anormale des essieux qu'après mise en œuvre d'actions correctives et autorisation de l'exploitant.
+
+2.3.2.4.2 Prévention du risque de pollutions causé par les véhicules à l'arrêt
+
+Avant de s'éloigner de son véhicule en stationnement, chaque conducteur de véhicule-citerne transportant des marchandises dangereuses veille à ce que les dispositifs de fermeture soient en position fermée et qu'il n'y a pas de fuites. Une consigne établie par l'exploitant détaille les mesures à mettre en œuvre dans le cas contraire.
+
+2.3.2.4.3 Moyens de lutte contre l'incendie
+
+Le parc de stationnement dispose de moyens de lutte contre l'incendie, destinés à éteindre ou contenir jusqu'à l'arrivée des secours, un début d'incendie ayant son origine à proximité ou sur les véhicules en stationnement, avant que le feu ne se propage au chargement présent dans ces véhicules. Outre les extincteurs présents sur les véhicules, les moyens de secours sont au minimum constitués de :
+
+- deux extincteurs à poudre de 50 kg,
+
+- d'un poste point d'eau incendie (bouches, poteaux), public ou privé, implanté à moins de 200 m du parc de stationnement et d'une capacité minimale de 60 m3/ h pendant 2 heures (ou réserve d'eau équivalente pendant 2 heures).
+
+2.3.2.4.4 Document synthétique d'information des services de secours
+
+L'exploitant transmet aux services de secours et d'incendie un document synthétique reprenant les données relatives :
+
+- au plan de stationnement visé au 2.3.2.2.4 ;
+
+- au recensement visé au 2.3.2.3.2 ;
+
+- aux moyens de lutte contre l'incendie visés au 2.3.2.4.3 ;
+
+- aux modalités permettant aux services de secours d'obtenir immédiatement l'accès au site.
+
+L'exploitant assure la mise à jour de ce document.
+
+2.3.2.5 Surveillance du parc et détection d'incendie
+
+Les parcs de stationnement accueillant des véhicules transportant des gaz inflammables ou toxiques ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau du 2.3.2.1 font l'objet d'une surveillance dont le but est d'alerter l'exploitant et les services de secours d'un début d'incendie.
+
+Afin d'assurer une surveillance permanente du parc de stationnement, l'exploitant adapte le mode de surveillance en fonction des périodes d'activité du parc (en période de fonctionnement, de jour, de nuit, fin de semaine …), en choisissant parmi les modalités suivantes :
+
+- surveillance effectuée par un ou plusieurs préposés nommément désignés par l'exploitant et présents sur site ;
+
+- surveillance effectuée, durant les phases de fonctionnement du parc de stationnement, par les conducteurs des véhicules se rendant ou quittant le parc de stationnement ;
+
+- surveillance confiée à un personnel extérieur au site (télésurveilleurs).
+
+Cette surveillance peut être limitée aux zones de stationnement, identifiables au sein du parc et accueillant la totalité des véhicules transportant des gaz inflammables des gaz toxiques ou du GPL, au sens et en quantités ou capacités supérieures à celles du tableau du 2.3.2.1.
+
+Ces zones disposent, en cas de télésurveillance, d'un système permettant en permanence la détection d'un début d'incendie survenant sur ou à proximité des véhicules en stationnement. Cette détection est réalisée par un dispositif technique (télédétection thermique ou infra-rouge en continu ou système d'efficacité équivalente …) dont le déclenchement alerte le ou les surveillants du parc de stationnement.
+
+2.3.2.6 Extinction automatique
+
+Le parc de stationnement ou la zone de stationnement des véhicules transportant des gaz inflammables, des gaz toxiques ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus peut être équipée d'un système de détection-extinction automatique du début d'incendie survenant sur ou à proximité des véhicules en stationnement, comprenant une commande manuelle permettant son déclenchement à distance. Le déclenchement de ce système alerte l'exploitant ou son préposé, qui se rendent sur site pour effectuer une levée de doute.
+
+Les sites équipés conformément l'alinéa précédent sont dispensés de l'application des prescriptions du 2.3.2.5.
+
+2.3.2.7 Fonctionnement en mode dégradé
+
+En cas de dysfonctionnement des dispositifs techniques visés au 2.3.2.5. et 2.3.2.6. l'exploitant prend les dispositions nécessaires pour mettre en place ou renforcer la surveillance du parc par des personnels présents sur site jusqu'à la remise en état du dispositif technique défaillant.
+
+2.3.2.8 Action à mener par les personnels de surveillance
+
+En cas de déclenchement des dispositifs techniques visés au 2.3.2.5. et 2.3.2.6., une levée de doute est effectuée par le ou les surveillants présents sur site, ou par l'exploitant ou un préposé qui est en mesure de le faire, qui sont alertés par les télésurveilleurs et qui se rendent sur site.
+
+En cas de début d'incendie sur le parc de stationnement, les surveillants présents sur le parc, le préposé de l'exploitant chargé de la levée de doute ou, le cas échéant, un conducteur, mettent en œuvre les moyens de lutte contre l'incendie visés au 2.3.2.4.3. Ils alertent l'exploitant ainsi que les services de lutte contre l'incendie.
+
+Ils actionnent un dispositif sonore qui permet l'alerte du voisinage.
+
+Les surveillants et préposés qui sont amenés à intervenir sur le site, ainsi que, le cas échéant, les conducteurs, bénéficient d'une formation adaptée dans le cadre du chapitre 1.3 de l'ADR. Celle-ci porte sur les procédures définissant la conduite à tenir (lever de doute, alerte de l'exploitant, déclenchement de l'alerte, modalité de mise en œuvre des moyens incendies, informations des services de lutte contre l'incendie incluant plan de stationnement et estimation des quantités de marchandises dangereuses visées au 2.3.2.4.3, modalités d'utilisation des moyens de lutte contre l'incendie …).
 
 2.3.3. Mesures à prendre en cas d'incident ou d'accident.
 
@@ -262,7 +470,7 @@ b) L'expéditeur.
 
 2.3.4.1. Les paragraphes 2.3.4.2 et 2.3.4.3 de la présente annexe I sont pris pour l'application des articles 64-3 et 64-4 de la quatrième partie du livre Ier de l'instruction interministérielle sur la signalisation routière approuvé par l'arrêté du 7 juin 1977 modifié relatif à la signalisation des routes et autoroutes.
 
-2.3.4.2. Sont soumis à l'interdiction d'accès signalée par le panneau B18a les véhicules astreints, selon les dispositions de la partie 5 relative au placardage des véhicules, à porter au moins une plaque-étiquette indiquant un danger d'explosion (n os 1, 1.4, 1.5 ou 1.6) ou au moins une plaque-étiquette comportant une flamme (n os 2.1, 3,4.1, 4.2, 4.3, 5.1 ou 5.2).
+2.3.4.2. Sont soumis à l'interdiction d'accès signalée par le panneau B18a les véhicules astreints, selon les dispositions de la partie 5 relative au placardage des véhicules, à porter au moins une plaque-étiquette indiquant un danger d'explosion (nos 1, 1.4, 1.5 ou 1.6) ou au moins une plaque-étiquette comportant une flamme (nos 2.1, 3,4.1, 4.2, 4.3, 5.1 ou 5.2).
 
 2.3.4.3. Sont soumis à l'interdiction d'accès signalée par le panneau B18 b les véhicules astreints, selon les dispositions du présent arrêté, à porter les panneaux orange définis au 5.3.2, sauf lorsque les seules matières dangereuses transportées appartiennent à la classe 1 ou à la classe 2.
 
