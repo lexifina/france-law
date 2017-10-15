@@ -1276,21 +1276,21 @@ Encadrement, initiation, préparation aux grades du 1er au 4e dan et conduite de
 
 |
 
-BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ épée". |
+BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/épée". |
 
-Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau de compétition fédérale. |
-
-|
-
-BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/ sabre". |
-
-Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau de compétition fédérale. |
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option, jusqu'au premier niveau de compétition fédérale. |
 
 |
 
-BP JEPS, spécialité "éducateur sportif", mention "escrime", option "sabre/ épée". |
+BP JEPS, spécialité "éducateur sportif", mention "escrime", option "fleuret/sabre". |
 
-Encadrement, initiation et conduite de cycles d'apprentissage en escrime, jusqu'au premier niveau de compétition fédérale. |
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option, jusqu'au premier niveau de compétition fédérale. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "escrime", option "sabre/épée". |
+
+Encadrement, initiation et conduite de cycles d'apprentissage dans les deux armes de l'option, jusqu'au premier niveau de compétition fédérale. |
 
 |
 
@@ -1345,6 +1345,36 @@ BP JEPS spécialité "éducateur sportif" , mention "plongée subaquatique", opt
 Enseignement et encadrement d'activités de découverte et d'apprentissage de la plongée subaquatique sans scaphandre, y compris la randonnée subaquatique, ou entraînement de leurs pratiquants, dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport. |
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. |
+
+BP JEPS, spécialité "éducateur sportif", mention "activités aquatiques et de la natation". |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages. Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. |
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en eau vive". |
+
+Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition fédérale en eau calme et en eau vive, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage. Encadrement et animation du stand up paddle.
+
+Encadrement du canyonisme jusqu'à la cotation V1, A 5 et E II incluse. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en eau vive jusqu'à la classe III, en eau calme et en mer jusqu'à 4 Beaufort". |
+
+Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition fédérale en eau vive jusqu'à la classe III incluse en eau calme et en mer par vent de force 4 Beaufort maximum sur le site d'évolution, des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage.
+
+Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du canoë-kayak et disciplines associées en mer". |
+
+Encadrement, animation et conduite de cycles d'apprentissage jusqu'au premier niveau de compétition fédérale en eau calme et en mer des activités du canoë-kayak et disciplines associées, sur tout support ou embarcation propulsée à la pagaie ou à la nage.
+
+Encadrement et animation du stand up paddle. A l'exclusion des activités dérivées du surf de mer. |
+
+|
 
 C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
 
