@@ -1,0 +1,9 @@
+# Grand Paris Sud : délibération — Fonctionnement des espaces naturels régionaux – Convention de participation financière à conclure avec l’Agence des Espaces Verts de la Région Ile-de-France
+
+- Collectivité : Grand Paris Sud
+- SIREN : 200059228
+- Date : 2017-10-17
+- Nature : Délibération
+- Objet : Fonctionnement des espaces naturels régionaux – Convention de participation financière à conclure avec l’Agence des Espaces Verts de la Région Ile-de-France
+- Acte publié : https://numerique.grandparissud.fr/actes/DEL_2017_404.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6a5188e1ed24ef0b8b7fa59a
