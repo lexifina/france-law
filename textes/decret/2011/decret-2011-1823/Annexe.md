@@ -1,3 +1,3 @@
 # Article Annexe
 
-Le cahier des charges est publié, dans sa rédaction issue de cette modification, au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt et peut être consulté à l'adresse suivante : http://agriculture.gouv.fr/bulletin-officiel.
+Le lien http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-a52d3841-dd74-4936-84b9-6c976784db13 permet de consulter le cahier des charges publié au Bulletin officiel du ministère de l'agriculture et de l'alimentation.
