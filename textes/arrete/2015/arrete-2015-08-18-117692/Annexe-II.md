@@ -1,34 +1,28 @@
 # Article Annexe II
 
-ACTE D'ENGAGEMENT À PREMIÈRE DEMANDE D'UNE PERSONNE MORALE, POSSÉDANT LES QUALITÉS DÉFINIES À L'ARTICLE R. 512-80-I (C) DU CODE DE L'ENVIRONNEMENT
+ACTE DE CAUTIONNEMENT SOLIDAIRE POUR LES GARANTIES FINANCIÈRES PRÉVUES AU I DE L'ARTICLE R. 512-80 (1°) DU CODE DE L'ENVIRONNEMENT
 
-La société (1),
+La société ... (1) dont le siège social est à ... ayant pour numéro unique d'identification ... (2) RCS ... (3), représentée par ... dûment habilité en vertu de ... (4),
 
-dont le siège social est à
+Après avoir rappelé qu'il a été porté à sa connaissance que : ... (5), ci-après dénommé(e) “le tiers demandeur”, auquel le préfet du département ... a prescrit par arrêté préfectoral en date du ... (6) les modalités de réhabilitation du site ... (7), correspondant à l'emprise des parcelles cadastrales ... (8),
 
-ayant pour numéro unique d'identification (2) RCS (3),
+a demandé à la société susmentionnée ci-après dénommée “la caution” de lui fournir son cautionnement solidaire en cas de défaillance de sa part au titre des dépenses liées aux travaux de réhabilitation du site conformément à l'arrêté préfectoral susmentionné étant précisé que la garantie ne couvre pas les indemnisations dues par le tiers demandeur aux tiers qui pourraient subir un préjudice par le fait de la réalisation des travaux, ni les engagements et obligations dus par le tiers demandeur au titre de la responsabilité environnementale, ni les surcoûts liés aux mesures constructives,
 
-représentée par ........................................................, ci-après dénommée " le garant ", dûment habilité le ........................................................ (4), après délibération, lorsque la forme juridique de celle-ci est une société anonyme, de son (5)
-
-déclare, en application de l'article L. 512-21 et des articles R. 512-76 et suivants du code de l'environnement, se porter, conformément aux dispositions de l'article 2321 du code civil, garant aux conditions et termes du présent acte de :
-
-la société ........................................................ (6) ci-après dénommé(e) " le tiers demandeur ", auquel le préfet du département de ........................................................ a prescrit par arrêté préfectoral en date du ........................................................(7) les modalités de réhabilitation du site (8), correspondant à l'emprise des parcelles cadastrales ........................................................ (9).
+déclare par les présentes, en application de l'article L. 512-21 et des articles R. 512-76 et suivants du code de l'environnement, se constituer caution solidaire en renonçant aux bénéfices de division et de discussion, d'ordre et pour le compte du cautionné dans les termes et sous les conditions ci-après :
 
 Article 1er
 
 Objet de la garantie
 
-Le garant s'engage à verser à la première demande du préfet la somme fixée à l'article 2 du présent acte en vue de lui garantir le paiement en cas de défaillance du tiers demandeur garanti des dépenses liées aux travaux de réhabilitation du site conformément à l'arrêté préfectoral susmentionné.
-
-La présente garantie ne couvre pas les indemnisations dues par le tiers demandeur aux tiers qui pourraient subir un préjudice par le fait de la réalisation des travaux, ni les engagements et obligations dus par le tiers demandeur au titre de la responsabilité environnementale, ni les surcoûts liés aux mesures constructives.
+La présente garantie constitue un engagement purement financier. Elle est exclusive de toute obligation de faire et elle est consentie dans la limite du montant maximum mentionné à l'article 2 du présent acte.
 
 Article 2
 
 Montant
 
-Le montant maximum de garantie est de € (10)
+Le montant maximum de cautionnement est de ... € (9).
 
-En cas de mise en jeu partielle, le montant du présent engagement se réduira à due concurrence de telle sorte qu'il ne pourra plus être demandé au garant qu'une somme égale à la différence entre l'encours de la garantie à cette date et les sommes réglées au titre des mises en jeu partielles.
+En cas de mise en jeu partielle, le montant du présent engagement se réduit à due concurrence de telle sorte qu'il ne peut plus être demandé à la caution qu'une somme égale à la différence entre l'encours du cautionnement à cette date et les sommes réglées au titre des mises en jeu partielles.
 
 Article 3
 
@@ -36,58 +30,38 @@ Durée et renouvellement
 
 3.1. Durée
 
-Le présent engagement de garantie à première demande prend effet à compter du ........................................................ (11), et expire le ........................................................ (12) à 18 heures, ou à compter de la notification prévue à l'article R. 512-81. Passé cette date ou après décision du préfet de lever l'exigence de garantie financière, il ne pourra plus y être fait appel.
+Le présent engagement de caution prend effet à compter du ... (10), et expire le ... (11) à 18 heures, ou à compter de la notification prévue à l'article R. 512-81 du code de l'environnement. Passé cette date ou après décision du préfet de lever l'exigence de garantie financière, il ne peut plus y être fait appel.
 
 3.2. Renouvellement
 
-Le présent engagement de garantie pourra être renouvelé dans les mêmes conditions que celles objets des présentes, sous réserve :
+Le cautionnement peut être renouvelé, sous réserve :
 
-- que le tiers demandeur en fasse la demande au moins (13) mois avant l'échéance ; et
+- que le tiers demandeur en fasse la demande au moins ... (12) mois avant l'échéance ; et
 
-- que le garant marque expressément son accord de renouvellement au bénéficiaire. Cet accord devra intervenir, conformément au II de l'article R. 512-80 du code de l'environnement, au moins trois mois avant l'échéance de la garantie.
+- que la caution marque expressément son accord de renouvellement au bénéficiaire. Cet accord intervient, conformément aux dispositions du II de l'article R. 512-80 du code de l'environnement, au moins trois mois avant l'échéance du cautionnement.
 
 3.3. Non-renouvellement
 
-En cas de non-renouvellement du présent engagement de garantie, le garant informera le préfet par lettre recommandée avec accusé de réception au moins trois mois avant l'échéance du présent engagement de garantie. Cette obligation est sans effet sur la durée de l'engagement de garantie.
+En cas de non-renouvellement du cautionnement, la caution informe le préfet par lettre recommandée avec accusé de réception au moins trois mois avant l'échéance du cautionnement. Cette obligation est sans effet sur la durée de l'engagement de caution.
 
 Article 4
 
-Conséquences de la garantie à l'égard des ayants droit du garant
-
-En cas de transmission universelle de patrimoine résultant d'une fusion, d'une scission ou d'un apport partiel d'actif, les personnes venant aux droits du garant seront tenues solidairement et indivisiblement de l'exécution de la garantie, dans les mêmes conditions que le garant.
-
-En conséquence, le préfet pourra demander à n'importe laquelle de ces personnes le paiement de la totalité des sommes qu'il aurait été en droit de demander au garant sans que puisse lui être imposée une division de ses recours entre lesdites personnes.
-
-Article 5
-
 Mise en jeu de la garantie
 
-En cas de non-exécution par le tiers demandeur d'une ou des obligations mises à sa charge et ci-dessus mentionnées, la présente garantie pourra être mise en jeu uniquement par le préfet par lettre recommandée avec demande d'avis de réception adressée au garant à l'adresse ci-dessus indiquée, dans l'un des cas suivants :
+La caution est mise en jeu, par le préfet, par lettre recommandée avec accusé de réception, adressée au siège social de la société identifiée à l'entête des présentes, dans les cas suivants :
 
-- soit après la mise en œuvre des mesures de prévues au I de l'article L. 171-8 du code de l'environnement et la non-exécution par le tiers demandeur des travaux prescrits dans le délai fixé par le préfet ;
+- soit après la mise en œuvre des mesures de consignations prévues au I de l'article L. 171-8 du code de l'environnement et la non-exécution par le tiers demandeur des travaux prescrits dans le délai fixé par le préfet ;
 
-- soit en cas d'ouverture ou de prononcé d'une procédure de liquidation judiciaire à l'encontre du tiers demandeur ;
+- soit en cas d'ouverture d'une procédure de liquidation judiciaire à l'encontre du tiers demandeur ;
 
 - soit en cas de disparition du tiers demandeur personne morale par suite de sa liquidation amiable ou judiciaire ou du décès du tiers demandeur personne physique.
 
-Dans tous les cas, aux fins de mettre en jeu la garantie, le préfet devra mentionner que les conditions précisées ci-dessus ont été remplies.
+Dans tous les cas, le courrier adressé par le préfet précise lequel de ces motifs précisés ci-dessus est à l'origine de la mise en œuvre de la garantie.
 
-Article 6
-
-Cessation de la garantie
-
-Le garant peut décider à tout moment de révoquer son engagement moyennant un préavis.
-
-Cette décision sera portée à la connaissance du préfet par lettre recommandée avec accusé de réception.
-
-La révocation prendra effet à l'expiration d'un délai de six mois à compter de la date de réception de la lettre, à condition que le tiers demandeur garantirait, à l'expiration d'un délai de trois mois à compter de la date de réception de la lettre, porté à la connaissance du préfet par lettre recommandée avec accusé de réception son changement de garant et lui ait transmis le nouveau document justifiant de la constitution de la garantie financière conformément à l'article R. 512-80 du code de l'environnement.
-
-Article 7
+Article 5
 
 Attribution de compétence
 
-La présente garantie est soumise au droit français avec compétence des tribunaux français.
+La présente garantie est soumise au droit français et tout litige à celle-ci relève de la compétence des tribunaux français.
 
-Fait à (14), le (15).
-
-(1) Dénomination, forme, capital, siège social. (2) Numéro SIREN. (3) Ville du tribunal de commerce. (4) Pouvoir ou habilitation avec mention de sa date. (5) Conseil d'administration, directoire... (6) Personne morale de droit privé ou public ou personne physique (désignation complète). (7) Date de l'arrêté préfectoral. (8) Dénomination de l'ancien site industriel. (9) Numéros des parcelles cadastrales faisant l'objet de la réhabilitation. (10) Montant en chiffres et en lettres. (11) Date d'effet de la garantie. (12) Date d'expiration de la garantie. Cette date est au moins égale à la durée prévisionnelle des travaux fournie par le tiers demandeur. (13) Délai de préavis. (14) Lieu d'émission. (15) Date.
+Fait à ... (13), le ... (14).
