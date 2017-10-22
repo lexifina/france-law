@@ -32,6 +32,8 @@ certifie que le véhicule ci-après désigné :
 
 (F.2) Masse en charge maximale admissible du véhicule en service dans l'Etat membre d'immatriculation (en kg) :
 
+(F. 3) Masse en charge maximale admissible de l'ensemble en service dans l'Etat membre d'immatriculation (en kg) (si disponible) :
+
 (G.1) Poids à vide national :
 
 (J.1) Genre national :
@@ -46,7 +48,7 @@ certifie que le véhicule ci-après désigné :
 
 répond aux dispositions du 6.3 de l'article R. 311-1 du code de la route et peut être immatriculé avec l'usage véhicule de collection.
 
-La présente attestation est délivrée conformément à la procédure définie à l'article 4.E de l'arrêté du
+La présente attestation est délivrée conformément à la procédure définie à l'article 4.E de l'arrêté du 9 février 2009
 
 et au vu du dossier soumis par l'intéressé.
 
@@ -56,4 +58,6 @@ Signature :Cachet :
 
 NOTA :
 
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
+Conformément à l'article 16 de l'arrêté du 13 octobre 2017, les dispositions sont applicables à titre expérimental à compter du lendemain de la publication du présent arrêté et jusqu'au 5 novembre 2017, dans les départements des Ardennes, de l'Aube, de la Côte-d'Or, du Doubs, du Jura, de la Marne, de la Haute-Marne, de Meurthe-et-Moselle, de la Meuse, de la Moselle, de la Nièvre, du Bas-Rhin, du Haut-Rhin, de la Haute-Saône, de Saône-et-Loire, de Seine-et-Marne, des Vosges, de l'Yonne, du Territoire-de-Belfort et du Val-de-Marne. Elles sont applicables à l'ensemble du territoire à compter du 6 novembre 2017.
+
+Un rapport d'évaluation est rendu avant la fin de cette période expérimentale.
