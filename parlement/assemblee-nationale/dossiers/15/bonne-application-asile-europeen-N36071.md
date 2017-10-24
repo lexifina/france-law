@@ -1,0 +1,51 @@
+# Bonne application du régime d’asile européen
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36071
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/bonne_application_asile_europeen
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-149.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-10-24 : 1er dépôt d'une initiative. (PIONANR5L15B0331)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-10-24 : Renvoi en commission au fond
+      - 2017-11-21 : Nomination de rapporteur
+      - 2017-11-21 : Réunion de commission
+      - 2017-11-29 : Réunion de commission
+      - 2017-12-07 : Réunion de commission
+      - 2017-11-29 : Dépôt de rapport (RAPPANR5L15B0427, PIONANR5L15BTC0427)
+  - Discussion en séance publique
+    - 2017-12-07 : Discussion en séance publique
+    - 2017-12-07 : Discussion en séance publique
+    - 2017-12-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-12-08 : Dépôt d'une initiative en navette (PIONSNR5S299B0149)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-08 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-01-17 : Dépôt de rapport (RAPPSNR5S299B0218, PIONSNR5S299BTC0219)
+  - Discussion en séance publique
+    - 2018-01-25 : Discussion en séance publique
+    - 2018-01-25 : Décision
+- deuxième lecture
+  - 2018-01-25 : Dépôt d'une initiative en navette (PIONANR5L15B0601)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-01-25 : Renvoi en commission au fond
+      - 2018-02-07 : Réunion de commission
+      - 2018-02-15 : Réunion de commission
+      - 2018-02-07 : Dépôt de rapport (RAPPANR5L15B0637, PIONANR5L15BTC0637)
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+- Conseil constitutionnel
+  - 2018-02-23 : Saisine du conseil constitutionnel
+  - 2018-03-15 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-03-20 : Promulgation d'une loi
