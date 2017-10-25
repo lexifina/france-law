@@ -1,0 +1,61 @@
+# Article 1er
+
+Les dispositions de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005, intitulé « Classification des emplois », sont modifiées comme suit :
+
+« 1. Objet de la classification
+
+La classification consiste à évaluer le strict contenu du travail et en aucun cas les titulaires des emplois.
+
+Pour classer les emplois réellement tenus dans les différents niveaux et catégories et déterminer ainsi le salaire minimum correspondant, il convient de ne tenir compte ni du titre ni du statut ni de l'ancienneté ni du niveau antérieurement attribué au salarié.
+
+2. Méthodologie de la classification
+
+Les critères classants retenus dans le cadre de cette classification sont aussi proches que possible de ceux utilisés dans les autres branches au sein du mouvement HLM et créent ainsi une homogénéité favorable à la mobilité professionnelle.
+
+La diversité des organisations présentes au sein des organisations professionnelles de l'habitat social ainsi que la diversité des contenus de leurs emplois ont conduit les partenaires sociaux à retenir pour la classification conventionnelle les principes suivants :
+
+– une méthodologie d'évaluation des emplois fondée sur des critères ? pour objectiver la hiérarchisation desdits emplois : la technicité, les connaissances, la communication, l'appui-management, l'autonomie et la responsabilité permettent de valoriser les emplois sous différents aspects en retenant le degré le plus approchant (cf. méthode d'évaluation),
+
+– pour chaque emploi, un degré (allant de 1 à 8) est attribué dans chaque critère. L'addition de ces degrés correspond au niveau de l'emploi.
+
+Exemple pour un emploi donné :
+
+Technicité = 2
+
+Connaissances = 3
+
+Communication = 4
+
+Appui-management = 1
+
+Autonomie = 3
+
+Responsabilité = 2
+
+Cet emploi correspond au niveau 15 ;
+
+– un regroupement des niveaux par 3 qui génère 14 catégories de classification, de C1 à C14, en sachant que ces catégories sont ordonnées par ordre croissant (cf. grille des minima salariaux applicable).
+
+Dans un souci de transparence, l'évaluation des emplois se fait par un groupe de travail paritaire associant l'employeur, les délégué(e)s syndicaux (les) et les représentant(e)s du personnel lorsqu'ils sont présent(e)s dans l'organisation. S'agissant des associations régionales (AR), « l'instance de concertation » existante réalisera ce travail en proposant les évaluations aux avis de réception, à charge pour elles, employeurs et/ ou salariés, de faire part d'amendements argumentés.
+
+3. Description des emplois
+
+Il revient aux organisations de la branche de décrire les emplois qui sont les leurs et d'actualiser les descriptifs en fonction des évolutions diverses, notamment des profils recrutés ou des choix d'organisation.
+
+Il est impératif d'analyser et de décrire les emplois réellement occupés : les descriptifs devront mentionner la mission générale de l'emploi ainsi que les activités exercées dans ce cadre.
+
+Les descriptifs d'emploi nécessitent la concertation entre les acteurs concernés : titulaire(s) de l'emploi, responsable hiérarchique, employeur.
+
+Cette démarche vise à améliorer la connaissance que chacune des parties intéressées a de la répartition des rôles au sein de l'organisation, tout autant qu'à rendre possible l'évaluation des différents emplois en particulier en vue de permettre la progression des salariés dans les catégories de classification.
+
+C'est de cette façon que la classification aura du sens pour chaque organisation tout en respectant la logique collective propre au secteur d'activité dans lequel elle s'inscrit.
+
+Les évolutions des emplois seront prises en compte à travers l'actualisation des descriptifs d'emploi, en fonction des évolutions pérennes des contenus de travail. Ces modifications seront susceptibles de réviser le niveau voire la catégorie de classification.
+
+4. Statuts
+
+Le statut cadre est accordé aux emplois à partir de la catégorie de classification 7.
+
+Les salariés qui bénéficient aujourd'hui du statut cadre conservent le bénéfice de ce statut quelle que soit la catégorie de classification de leur emploi.
+
+Ces dispositions annulent et remplacent les dispositions actuelles de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005. »
