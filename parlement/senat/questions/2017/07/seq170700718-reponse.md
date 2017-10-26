@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700718
+
+- Question : [SEQ170700718](seq170700718.md) — Audition des mineurs victimes d'agressions sexuelles
+
+## Réponse
+
+*Justice, JO du 2017-10-26, page 3337*
+
+L'article 706-52 du code de procédure pénale impose de procéder à l'enregistrement audiovisuel de l'audition du mineur victime des infractions listées à l'article 706-47 du même code, dans le but notamment de réduire le nombre d'auditions auxquelles le mineur est soumis. Le recours à ce procédé ne peut toutefois exclure une nouvelle audition du mineur si cette dernière est indispensable au bon déroulement de la procédure et que le visionnage de l'enregistrement n'est pas suffisant. Afin d'assurer effectivement une limitation des auditions du mineur victime lors de la procédure, le ministère de la justice a rappelé ces principes dans un guide relatif à la prise en charge des mineurs victimes, réactualisé en septembre 2015, et diffusé à l'ensemble des juridictions. Ce guide invite également les professionnels à recourir à l'enregistrement audiovisuel en dehors des infractions de l'article 706-47 du code de procédure pénale, notamment en cas de faits graves ou de victimes très jeunes, voire lorsqu'un mineur est témoin de faits particulièrement graves. Enfin, le ministère de la justice est pleinement investi dans le comité de suivi du plan interministériel de mobilisation et de lutte contre les violences faites aux enfants 2017-2019. La mesure 16 de ce plan est consacrée au développement des unités d'assistance à l'audition de l'enfant victime de violences, notamment sur le modèle des unités d'accueil médico judiciaire pédiatrique (UAMJP), qui permettent le recueil de la parole de l'enfant dans les meilleures conditions possibles, dans un lieu sécurisant et aménagé à cet effet, afin de concilier les nécessités de l'enquête pénale et la prise en compte de la souffrance de l'enfant. 58 UAMJP sont ouvertes à ce jour.
