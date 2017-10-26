@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700480
+
+- Question : [SEQ170700480](seq170700480.md) — Horaires d'ouverture des bureaux de vote dans les communes rurales
+
+## Réponse
+
+*Intérieur, JO du 2017-10-26, page 3334*
+
+Le législateur organique a souhaité modifier l'heure de clôture du scrutin présidentiel par l'article 8 de la loi organique n° 2016-506 du 25 avril 2016 de modernisation des règles applicables à l'élection présidentielle. Désormais, le scrutin ne peut être clos avant 19 heures. Cette loi organique résulte d'une proposition parlementaire et non d'un projet de loi organique du Gouvernement. Le choix de retarder l'heure de clôture du scrutin s'explique par la volonté de garantir la sincérité du scrutin en évitant la diffusion prématurée de résultats partiels ou d'estimations de résultats avant la fermeture des derniers bureaux de vote (qui ferment à 20 heures). Le Conseil constitutionnel, la Commission nationale de contrôle de la campagne en vue de l'élection présidentielle et la Commission des sondages ont alerté à de nombreuses reprises sur ce phénomène, de nature à perturber le bon déroulement du scrutin de l'élection présidentielle. C'est donc afin de réduire le risque de manipulation et de garantir la sincérité du scrutin qu'il a été proposé de fixer une heure de fermeture unique, à 19 heures, avec une possibilité de dérogation à 20 heures pour les grandes villes. Ainsi, les estimations, les sondages à la sortie des urnes ou les résultats des premiers dépouillements sont désormais connus seulement une dizaine de minutes avant 20 heures et ne perturbent plus que de manière marginale le scrutin des derniers électeurs. Par conséquent, tout maire doit attendre 19 heures afin de commencer le dépouillement, quand bien même tous les électeurs inscrits auraient voté. Compte tenu de ces éléments, le Gouvernement n'entend pas apporter une modification à la loi organique n° 2016-506 du 25 avril 2016.
