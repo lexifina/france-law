@@ -14,6 +14,8 @@ Elle exerce le contrôle parlementaire de l'action du Gouvernement en matière d
 
 5° Les observations que la Commission nationale de contrôle des techniques de renseignement adresse au Premier ministre en application de l'article L. 833-10 dudit code ainsi qu'une présentation, par technique et par finalité, des éléments statistiques figurant dans le rapport d'activité de la commission mentionné à l'article L. 833-9 du même code.
 
+6° Les observations que la Commission nationale de contrôle des techniques de renseignement adresse au Premier ministre en application de l'article L. 855-1 C du même code.
+
 La délégation peut saisir pour avis la Commission nationale de contrôle des techniques de renseignement en application de l'article L. 833-11 dudit code.
 
 En outre, la délégation peut solliciter du Premier ministre la communication de tout ou partie des rapports de l'inspection des services de renseignement ainsi que des rapports des services d'inspection générale des ministères portant sur les services de renseignement qui relèvent de leur compétence.
@@ -49,7 +51,3 @@ VII.-La délégation parlementaire au renseignement établit son règlement int�
 Les dépenses afférentes au fonctionnement de la délégation sont financées et exécutées comme dépenses des assemblées parlementaires dans les conditions fixées par l'article 7.
 
 VIII.-La délégation parlementaire au renseignement exerce les attributions de la commission de vérification prévue à l'article 154 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001).
-
-NOTA :
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
