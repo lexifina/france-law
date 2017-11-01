@@ -4,8 +4,6 @@ Communes visées à l'article 2 du décret
 
 Ablon-sur-Seine.
 
-Alfortville.
-
 Chevilly-Larue.
 
 Choisy-le-Roi.
