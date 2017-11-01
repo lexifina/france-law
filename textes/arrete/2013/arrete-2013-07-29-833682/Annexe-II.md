@@ -1,5 +1,7 @@
 # Article Annexe II
 
+Annexe II
+
 DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 
 DÉNOMINATION |
@@ -152,15 +154,7 @@ Virus de la leucose bovine enzootique (Retroviridae, Deltaretrovirus)
 
 Bovins |
 
-France métropolitaine,
-
-Guadeloupe,
-
-Guyane,
-
-Martinique et Mayotte
-
-|
+France |
 
 Préfet |
 
@@ -307,13 +301,3 @@ Virus du Visna-Maëdi
 Ovins |
 
 France |
-
-|
-
-NOTA :
-
-Conseil d'Etat, décision n° 395326,396025 du 20 mars 2017(ECLI:FR:CECHR:2017:395326.20170320) :
-
-Article 1 : L’arrêté du 4 septembre 2015 du ministre de l’agriculture, de l’agroalimentaire et de la forêt modifiant l’arrêté ministériel du 29 juillet 2013 relatif à la définition des dangers sanitaires de première et deuxième catégorie pour les espèces animales (NOR : AGRG1521149A) est annulé.
-
-Article 2 : Sous réserve des actions contentieuses engagées à la date 20 mars 2017 contre les actes pris sur leur fondement, l’annulation de ces dispositions prend effet à compter du 1er novembre 2017.
