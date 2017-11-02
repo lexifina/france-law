@@ -4,37 +4,37 @@ LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 1. Liaisons entre la France métropolitaine et les collectivités territoriales d'outre-mer associées à l'Union européenne
 
-France métropolitaine ― Mayotte ;
+France métropolitaine - Mayotte ;
 
-France métropolitaine ― Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
+France métropolitaine - Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
 
-France métropolitaine ― Polynésie française ;
+France métropolitaine - Polynésie française ;
 
-France métropolitaine-Saint-Barthélemy.
+France métropolitaine - Saint-Barthélemy.
 
 2. Liaisons entre la France métropolitaine et des pays de la politique européenne de voisinage faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés
 
-France métropolitaine ― Albanie.
+France métropolitaine - Albanie.
 
-France métropolitaine ― Bosnie-et-Herzégovine.
+France métropolitaine - Bosnie-et-Herzégovine.
 
-France métropolitaine ― Croatie.
+France métropolitaine - Croatie.
 
-France métropolitaine ― Géorgie.
+France métropolitaine - Géorgie.
 
-France métropolitaine ― Jordanie.
+France métropolitaine - Jordanie.
 
-France métropolitaine ― Kosovo.
+France métropolitaine - Kosovo.
 
-France métropolitaine ― Macédoine.
+France métropolitaine - Macédoine.
 
-France métropolitaine ― Maroc.
+France métropolitaine - Maroc.
 
-France métropolitaine ― Moldavie.
+France métropolitaine - Moldavie.
 
-France métropolitaine ― Monténégro.
+France métropolitaine - Monténégro.
 
-France métropolitaine ― Serbie.
+France métropolitaine - Serbie.
 
 3. Liaisons internationales extracommunautaires
 
@@ -1206,45 +1206,49 @@ Paris-N'Dola ;
 
 Zimbabwe :
 
-Paris-Hararé.
+Paris-Hararé ;
+
+Paris-Victoria Falls.
 
 3.2. De/vers les Antilles et la Guyane
 
 Barbade :
 
-Fort-de-France-Bridgetown ;
+Fort-de-France - Bridgetown ;
 
 Curaçao :
 
-Cayenne ― Curaçao ;
+Cayenne - Curaçao ;
 
-Fort-de-France-Curaçao ;
+Fort-de-France - Curaçao ;
 
-Pointe-à-Pitre-Curaçao ;
+Pointe-à-Pitre - Curaçao ;
 
 Dominique :
 
-Pointe-à-Pitre-Marigot ;
+Pointe-à-Pitre - Marigot ;
 
-Saint-Martin-Marigot ;
+Saint-Martin - Marigot ;
 
 Etats-Unis :
 
-Cayenne ― Miami ;
+Cayenne - Miami ;
 
-Fort-de-France-Miami ;
+Fort-de-France - Miami ;
 
-Fort-de-France-San Juan ;
+Fort-de-France - San Juan ;
 
-Pointe-à-Pitre-Miami ;
+Pointe-à-Pitre - Atlanta ;
 
-Pointe-à-Pitre-San Juan ;
+Pointe-à-Pitre - Miami ;
 
-Saint-Martin-San Juan ;
+Pointe-à-Pitre - San Juan ;
+
+Saint-Martin - San Juan ;
 
 Haïti :
 
-Cayenne ― Port-au-Prince ;
+Cayenne - Port-au-Prince ;
 
 Fort-de-France - Port-au-Prince ;
 
@@ -1252,7 +1256,7 @@ Pointe-à-Pitre - Port-au-Prince ;
 
 République dominicaine :
 
-Cayenne ― Saint-Domingue ;
+Cayenne - Saint-Domingue ;
 
 Fort-de-France - Saint-Domingue ;
 
@@ -1260,7 +1264,7 @@ Pointe-à-Pitre - Saint-Domingue ;
 
 Saint-Martin :
 
-Cayenne ― Phillipsburg ;
+Cayenne - Phillipsburg ;
 
 Fort-de-France - Phillipsburg ;
 
@@ -1268,9 +1272,9 @@ Pointe-à-Pitre - Phillipsburg ;
 
 Sainte-Lucie :
 
-Fort-de-France ― Castries ;
+Fort-de-France - Castries ;
 
-Pointe-à-Pitre-Castries.
+Pointe-à-Pitre - Castries.
 
 3.3. De/vers La Réunion
 
@@ -1280,4 +1284,4 @@ Saint-Denis de La Réunion - Antananarivo ;
 
 Maurice :
 
-Saint-Denis de la Réunion ― Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile) Saint-Pierre de La Réunion ― Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+Saint-Denis de la Réunion - Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile) Saint-Pierre de La Réunion - Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
