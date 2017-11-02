@@ -214,7 +214,7 @@ Aéroport |
 
 SFS |
 
-HC-T (1) (2), HC-NT (2), NHC-NT |
+HC-T (CH) (1) (2) |
 
 |
 
@@ -311,53 +311,5 @@ Aéroport |
 |
 
 HC-T (CH) (1) (2) NHC-NT (2) |
-
-|
-
-HC = Tous produits de consommation humaine.
-
-NHC = Autres produits.
-
-NT = Sans conditions de température.
-
-T = Produits congelés/ réfrigérés.
-
-T (FR) = Produits congelés.
-
-T (CH) = Produits réfrigérés.
-
-U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages.
-
-E = Equidés enregistrés au sens de la directive 90/426/CEE.
-
-O = Autres animaux (y compris animaux de zoo).
-
-(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil.
-
-(2) Produits emballés uniquement.
-
-(3) Produits de la pêche uniquement.
-
-(4) Uniquement protéines animales.
-
-(6) Graisses, huiles et huiles de poisson liquides uniquement.
-
-(a) Autres animaux, à l'exception des espèces animales venimeuses.
-
-(b) (supprimé)
-
-(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
-
-(d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.
-
-(e) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, amphibiens et rongeurs, présentés en containers fermés.
-
-(f) Uniquement les produits conditionnés en fûts.
-
-(g) Poste frontalier à statut occasionnel dans lequel les contrôles ne peuvent être réalisés que par les agents cités à l'article L. 231-2 du Code rural et de la pêche maritime, intervenant dans un poste frontalier à activité permanente et compétents pour la réalisation de contrôles vétérinaires à l'importation.
-
-(h) restreint aux seuls équidés d'élevage et de rente.
-
-(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
 |

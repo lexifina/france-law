@@ -40,7 +40,7 @@ Port |
 
 Bois |
 
-Châteauroux-Déols (a) |
+Châteauroux-Déois (a) |
 
 FRCHR4H |
 
@@ -78,7 +78,7 @@ Port |
 
 Caen |
 
-Tous végétaux |
+Bois |
 
 Honfleur |
 
@@ -90,7 +90,7 @@ Bois |
 
 Le Havre |
 
-Bois |
+Tous végétaux |
 
 Rouen |
 
@@ -142,7 +142,7 @@ Aéroport |
 
 |
 
-|
+Tous végétaux |
 
 Le Légué-Saint-Malo |
 
@@ -298,7 +298,7 @@ Tous végétaux
 
 Tous végétaux |
 
-Rochambeau |
+Cayenne-Félix Eboué |
 
 FRGUY3H |
 
@@ -421,5 +421,3 @@ Aéroport |
 |
 
 Tous végétaux |
-
-(a) Poste frontalier à statut occasionnel dans lequel les contrôles ne peuvent être réalisés que par les agents cités à l' article L. 250-2 du Code rural et de la pêche maritime , intervenant dans un poste frontalier à activité permanente et compétents pour la réalisation de contrôles phytosanitaires à l'importation. |
