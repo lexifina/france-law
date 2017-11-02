@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700376
+
+- Question : [SEQ170700376](seq170700376.md) — Stages en entreprises des élèves des classes de troisième
+
+## Réponse
+
+*Éducation nationale, JO du 2017-11-02, page 3424*
+
+Le ministre de l'éducation nationale porte une attention particulière à la découverte du monde économique et professionnel pour les élèves en classe de troisième et à la qualité de ces stages, très riches pour les élèves. La séquence d'observation de cinq jours en milieu professionnel est intégrée au parcours Avenir depuis la rentrée 2015 (arrêté du 1er juillet 2015 relatif au parcours Avenir - JO du 7 juillet 2015 et BOEN du 9 juillet 2015). En application des dispositions de l'article D. 332-14 du code de l'éducation, elle est obligatoire pour tous les élèves des classes de troisième, dans les entreprises, les associations, les administrations, les établissements publics ou les collectivités territoriales, aux conditions prévues par le code du travail (notamment l'article L. 4153-1 de ce code). Les périodes d'organisation d'une séquence d'observation en milieu professionnel relèvent ainsi de l'initiative des établissements scolaires. Cette séquence d'observation doit donc être prévue et insérée dans les emplois du temps de l'année scolaire pour tous les élèves. C'est au conseil d'administration, dans le cadre de l'autonomie des établissements scolaires (article R. 421-1 et suivants du code de l'éducation), sur proposition du chef d'établissement, de définir la date à laquelle se déroulera la séquence d'observation. Le ministère incite les autorités académiques à recommander aux chefs d'établissement d'étaler la période de la séquence d'observation afin de permettre aux élèves de trouver plus facilement une entreprise pour les accueillir. Ainsi cela fluidifie la possibilité de trouver une entreprise et permet aux élèves de moins de 14 ans de pouvoir effectuer leur séquence d'observation dans une entreprise régie par le droit privé.
