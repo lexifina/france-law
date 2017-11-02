@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700081
+
+- Question : [SEQ170700081](seq170700081.md) — Compensation du versement transport
+
+## Réponse
+
+*Transports, JO du 2017-11-02, page 3438*
+
+Avec près de 8 Md€ par an, le versement transport (VT) constitue la principale source de financement de l'investissement et du fonctionnement des transports collectifs dans les zones urbaines et en Île-de-France. L'article 15 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016 a relevé le seuil d'assujettissement des employeurs au versement transport (VT) de 9 à 11 salariés à compter du 1er janvier 2016. Cette mesure s'inscrit dans une logique de soutien aux très petites entreprises (TPE) et aux petites et moyennes entreprises (PME). La compensation de la baisse des recettes perçues par les autorités organisatrices de la mobilité (AOM) induite par ce relèvement est prévue par le même article 15. L'article 2 de la loi n° 2016-1918 de finances rectificatives pour 2016 est venue préciser les modalités d'application de la compensation afin d'en faciliter la mise en œuvre et de sécuriser la neutralisation de l'effet financier de la mesure pour les AOM. Cette clarification législative s'est fondée sur les travaux d'une mission confiée conjointement à l'inspection générale des affaires sociales (IGAS) et au conseil général de l'environnement et du développement durable (CGEDD), chargée d'évaluer précisément la compensation à verser aux AOM au titre du relèvement du seuil du VT. Cette mission, dont la méthode d'évaluation et le chiffrage détaillé des montants ont été concertés notamment avec le Groupement des autorités responsables de transport (GART), a estimé au total à 80 M€ le montant de la compensation en 2016. S'agissant plus particulièrement du territoire de Belfort, elle a estimé à 160 000 € le manque à gagner pour l'AOM et c'est donc sur cette base que le syndicat mixte a été indemnisé.
