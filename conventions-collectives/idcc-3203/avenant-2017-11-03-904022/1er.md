@@ -1,0 +1,17 @@
+# Article 1er
+
+La présente convention régit les rapports entre les employeurs et les salariés :
+
+– du syndicat national des structures associatives de pêche de loisir (SNSAPL) ;
+
+– de la fédération nationale de la pêche en France (FNPF) ;
+
+– des fédérations départementales et interdépartementales de la pêche ;
+
+– des groupements réciprocitaires ;
+
+– des associations migrateurs ;
+
+– des associations régionales ;
+
+– des unions de bassin.
