@@ -114,7 +114,7 @@ Chef du bureau des objets trouvés et des fourrières. |
 
 50 |
 
-Chef du bureau des actions contre les nuisances. |
+Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction de la protection sanitaire et de l'environnement. |
 
 50 |
 
