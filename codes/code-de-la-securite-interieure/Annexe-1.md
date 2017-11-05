@@ -86,7 +86,7 @@ Chapitre II : Modalités de la coordination
 
 Article 10
 
-Le responsable des forces de sécurité de l'Etat et le responsable de la police municipale, ou leurs représentants, se réunissent périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité publics dans la commune, en vue de l'organisation matérielle des missions prévues par la présente convention. L'ordre du jour de ces réunions est adressé au procureur de la République qui y participe ou s'y fait représenter s'il l'estime nécessaire.
+Le responsable des forces de sécurité de l'Etat et le responsable de la police municipale, ou leurs représentants, se réunissent périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité publics dans la commune, en vue de l'organisation matérielle des missions prévues par la présente convention. L'ordre du jour de ces réunions est adressé au procureur de la République qui y participe ou s'y fait représenter s'il l'estime nécessaire. Lors de ces réunions, il sera systématiquement fait un état des résultats enregistrés en matière de sécurité routière.
 
 Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres modalités, en particulier celles relatives à l'information ou à la participation du maire et du représentant de l'Etat) :
 
@@ -108,7 +108,7 @@ Dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative 
 
 Article 13
 
-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les articles L. 221-2,
+Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L. 221-2,
 
 L. 223-5,
 
@@ -134,7 +134,7 @@ En conséquence, les forces de sécurité de l'Etat et la police municipale ampl
 
 2° De l'information quotidienne et réciproque, par les moyens suivants (à préciser).
 
-Elles veilleront ainsi à la transmission réciproque des données ainsi que des éléments de contexte concourant à l'amélioration du service dans le strict respect de leurs prérogatives, de leurs missions propres et des règles qui encadrent la communication des données. Dans ce cadre, elles partageront les informations utiles, notamment dans les domaines suivants (à préciser) ;
+Elles veilleront ainsi à la transmission réciproque des données ainsi que des éléments de contexte concourant à l'amélioration du service dans le strict respect de leurs prérogatives, de leurs missions propres et des règles qui encadrent la communication des données. Dans ce cadre, elles partageront les informations utiles, notamment en matière d'accidentalité et de sécurité routière ainsi que dans les domaines suivants (à préciser) ;
 
 3° De la communication opérationnelle, par le prêt exceptionnel de matériel radio permettant l'accueil de la police municipale sur les réseaux Rubis ou Acropol afin d'échanger des informations opérationnelles au moyen d'une communication individuelle ou d'une conférence commune, par le partage d'un autre canal commun permettant également la transmission d'un appel d'urgence (ce dernier étant alors géré par les forces de sécurité de l'Etat), ou par une ligne téléphonique dédiée ou tout autre moyen technique (internet...). Le renforcement de la communication opérationnelle implique également la retransmission immédiate des sollicitations adressées à la police municipale dépassant ses prérogatives. De même, la participation de la police municipale à un poste de commandement commun en cas de crise ou de gestion de grand événement peut être envisagée par le préfet. Le prêt de matériel fait l'objet d'une mention expresse qui prévoit notamment les conditions et les modalités de contrôle de son utilisation (à préciser) ;
 
@@ -144,7 +144,9 @@ Elles veilleront ainsi à la transmission réciproque des données ainsi que des
 
 6° De la prévention des violences urbaines et de la coordination des actions en situation de crise ;
 
-7° De la sécurité routière, par l'élaboration conjointe d'une stratégie locale de contrôle s'inscrivant dans le respect des instructions du préfet et du procureur de la République ainsi que par la définition conjointe des besoins et des réponses apportées en matière de fourrière automobile (à préciser) ;
+7° De la sécurité routière, par l'élaboration conjointe d'actions de prévention en direction de publics considérés comme vulnérables et d'une stratégie locale de contrôle, dans le respect des instructions du préfet et du procureur de la République. Elles peuvent utilement s'appuyer sur les documents d'analyse de l'accidentalité routière enregistrée sur le territoire de la commune et transmis par les observatoires départementaux de sécurité routière. La stratégie de contrôle intègre pleinement les nouvelles capacités de contrôle offertes aux polices municipales par l'accès au système d'immatriculation des véhicules et au système national des permis de conduire ainsi que les évolutions législatives permettant une coopération renforcée dans le domaine de la lutte contre l'insécurité routière. Les dispositifs de vidéoprotection peuvent également participer à la lutte contre l'insécurité routière par la mise en œuvre des dispositions du 4° de l'article L. 251-2 du code de la sécurité intérieure et de ses textes d'application.
+
+Cette stratégie de contrôle s'attache également à définir de manière conjointe les besoins et les réponses à apporter en matière de fourrière automobile notamment au regard des dispositions du code de la route permettant le contrôle du permis de conduire et de l'attestation d'assurance des véhicules ainsi que leur immobilisation et mise en fourrière à la suite d'infractions pour lesquelles la peine complémentaire de confiscation ou de confiscation obligatoire du véhicule est encourue (à préciser) ;
 
 8° De la prévention, par la précision du rôle de chaque service dans les opérations destinées à assurer la tranquillité pendant les périodes de vacances, à lutter contre les hold-up, à protéger les personnes vulnérables, ou dans les relations avec les partenaires, notamment les bailleurs (à préciser) ;
 
