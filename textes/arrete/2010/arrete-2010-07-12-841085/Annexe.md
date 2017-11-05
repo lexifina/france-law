@@ -2,10 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 juillet 2017 :
-
-Saint-Denis de La Réunion - Perth (Australie).
-
 Jusqu'au 31 octobre 2018 :
 
 Saint-Pierre de La Réunion - Maurice.
@@ -57,3 +53,7 @@ Saint-Denis de La Réunion-Chennai (Inde) ainsi que les liaisons au-delà de Che
 Jusqu'au 31 octobre 2021 :
 
 Saint-Denis de La Réunion-Guangzhou (Chine).
+
+Jusqu'au 30 novembre 2022 :
+
+Saint-Denis de La Réunion - Perth (Australie).
