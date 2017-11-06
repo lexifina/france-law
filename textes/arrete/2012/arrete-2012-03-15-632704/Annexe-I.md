@@ -2,7 +2,7 @@
 
 CORPS ET EMPLOIS AUTRES QUE D'ADMINISTRATION CENTRALE GÉRÉS
 
-PAR LA DIRECTION DES RESSOURCES HUMAINES
+PAR LE SERVICE DES RESSOURCES HUMAINES
 
 Corps des administrateurs financiers de la Caisse nationale de crédit agricole.
 
