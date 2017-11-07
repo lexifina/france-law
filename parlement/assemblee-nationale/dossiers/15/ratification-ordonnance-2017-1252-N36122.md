@@ -1,0 +1,64 @@
+# Services de paiement dans le marché intérieur
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36122
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2017-1252
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-292.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-07 : 1er dépôt d'une initiative. (PRJLANR5L15B0368)
+  - 2018-01-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-07 : Renvoi en commission au fond
+      - 2018-01-24 : Nomination de rapporteur
+      - 2018-01-24 : Réunion de commission
+      - 2018-01-31 : Réunion de commission
+      - 2018-02-08 : Réunion de commission
+      - 2018-01-31 : Dépôt de rapport (RAPPANR5L15B0607, PRJLANR5L15BTC0607)
+  - Discussion en séance publique
+    - 2018-02-08 : Discussion en séance publique
+    - 2018-02-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-02-08 : Dépôt d'une initiative en navette (PRJLSNR5S299B0292)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-08 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-03-14 : Dépôt de rapport (RAPPSNR5S299B0348, PRJLSNR5S299BTC0349)
+  - Discussion en séance publique
+    - 2018-03-22 : Discussion en séance publique
+    - 2018-03-22 : Décision
+- Commission Mixte Paritaire
+  - 2018-03-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-04-19 : Nomination de rapporteur
+    - 2018-04-19 : Dépôt du rapport d'une CMP (RAPPANR5L15B0894)
+    - 2018-04-19 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0450, PRJLSNR5S299BTC0451)
+  - 2018-04-19 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-03-23 : Dépôt d'une initiative en navette (PRJLANR5L15B0812)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-23 : Renvoi en commission au fond
+      - 2018-06-27 : Réunion de commission
+      - 2018-06-27 : Dépôt de rapport (RAPPANR5L15B1105, PRJLANR5L15BTC1105)
+  - Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Décision
+- Nouvelle Lecture
+  - 2018-07-06 : Dépôt d'une initiative en navette (PRJLSNR5S299B0644)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-06 : Renvoi en commission au fond
+      - 2018-07-18 : Dépôt de rapport (RAPPSNR5S299B0671, PRJLSNR5S299BTC0672)
+  - Discussion en séance publique
+    - 2018-07-25 : Discussion en séance publique
+    - 2018-07-25 : Décision
+- Promulgation de la loi
+  - 2018-08-03 : Promulgation d'une loi
