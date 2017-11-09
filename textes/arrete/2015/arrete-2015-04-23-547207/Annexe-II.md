@@ -1,319 +1,161 @@
 # Article Annexe II
 
-AUTORITÉS
+AUTORITÉS |
 
-|
+PROGRAMMES |
 
-PROGRAMMES
+Directeur du centre interarmées d'administration des opérations |
 
-|
+P. 144, P. 146, P. 169, P. 178, P. 191, P. 212 |
 
-Directeur du centre d'expertise du soutien du combattant et des forces
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
-
-Directeur du centre interarmées d'administration des opérations
-
-|
-
-P. 144, P. 146, P. 169, P. 178, P. 191, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces françaises aux Emirats arabes unis (stationnée à Abou Dhabi)
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des éléments des forces françaises au Sénégal (stationnée à Dakar)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces françaises à Djibouti (stationnée à Djibouti)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces françaises au Gabon (stationnée à Libreville)
-
-|
-
-P. 144, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces armées en Guyane (stationnée à Cayenne)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces armées aux Antilles (stationnée à Fort-de-France)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces armées de la Nouvelle-Calédonie (stationnée à Nouméa)
-
-|
-
-P. 144, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces armées de la Polynésie française (stationnée à Papeete)
-
-|
-
-P. 144, P. 146, P. 167, P. 169, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces armées de la zone sud de l'océan Indien (stationnée à Saint-Denis de La Réunion)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la direction du commissariat d'outre-mer des forces françaises en Côte d'Ivoire (stationnée à Abidjan)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeurs des directions du commissariat en opération extérieure
-
-|
-
-P. 144, P. 178, P. 212
-
-|
-
-Directeur du centre d'administration ministériel des indemnités de déplacement
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Nord-Est (Metz)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Ile-de-France (Saint-Germain-en-Laye)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Ouest (Brest)
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Centre-Ouest (Rennes)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Centre-Est (Lyon)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Sud-Ouest (Bordeaux)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la plate-forme achats finances Sud-Est (Toulon)
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur du service exécutant de la solde unique
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur du service spécialisé de la logistique et du transport
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur du centre de service partagé recettes de l'hôpital d'instruction des armées Bégin
-
-|
-
-P. 178
-
-|
-
-Directeur du centre de service partagé dépenses de la direction des approvisionnements en produits de santé
-
-|
-
-P. 144, P. 146, P. 167, P. 178, P. 212
-
-|
-
-Directeur de l'exploitation et de la logistique pétrolière interarmées
-
-|
-
-P. 144, P. 167, P. 178, P. 212
-
-|
-
-Directeur de la section technique de l'armée de terre
-
-|
-
-P. 144, P. 146, P. 178
-
-|
-
-Directeur du service de soutien de la flotte à Brest
-
-|
-
-P. 144, P. 146, P. 178, P. 212
-
-|
-
-Chef du service contrats finances de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques de la défense
-
-|
+Directeur de la direction du commissariat d'outre-mer des forces françaises aux Emirats arabes unis (stationnée à Abou Dhabi) |
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu
+Directeur de la direction du commissariat d'outre-mer des éléments français au Sénégal (stationnée à Dakar) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 212, P. 902
+Directeur de la direction du commissariat d'outre-mer des forces françaises à Djibouti (stationnée à Djibouti) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur du service de l'exécution financière, de la gestion logistique des biens et des comptabilités
+Directeur de la direction du commissariat d'outre-mer des forces françaises au Gabon (stationnée à Libreville) |
 
-|
+P. 144, P. 178, P. 212 |
 
-P. 144, P. 146, P. 178, P. 191, P. 212
+Directeur de la direction du commissariat d'outre-mer des forces armées en Guyane (stationnée à Cayenne) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur du centre expert des ressources humaines du personnel civil
+Directeur de la direction du commissariat d'outre-mer des forces armées aux Antilles (stationnée à Fort-de-France) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 167, P. 178, P. 212
+Directeur de la direction du commissariat d'outre-mer des forces armées de la Nouvelle-Calédonie (stationnée à Nouméa) |
 
-|
+P. 144, P. 167, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux
+Directeur de la direction du commissariat d'outre-mer des forces armées de la Polynésie française (stationnée à Papeete) |
 
-|
+P. 144, P. 146, P. 167, P. 169, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur de la direction du commissariat d'outre-mer des forces armées de la zone sud de l'océan Indien (stationnée à Saint-Denis de La Réunion) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Brest
+Directeur de la direction du commissariat d'outre-mer des forces françaises en Côte d'Ivoire (stationnée à Abidjan) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeurs des directions du commissariat en opération extérieure |
 
-|
+P. 144, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense d'Ile-de-France
+Directeur du centre d'administration ministériel des indemnités de déplacement |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur de la plate-forme achats finances Nord-Est (Metz) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Lyon
+Directeur de la plate-forme achats finances Ile-de-France (Saint-Germain-en-Laye) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur de la plate-forme achats finances Ouest (Brest) |
 
-|
+P. 144, P. 146, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Metz
+Directeur de la plate-forme achats finances Centre-Ouest (Rennes) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur de la plate-forme achats finances Centre-Est (Lyon) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Rennes
+Directeur de la plate-forme achats finances Sud-Ouest (Bordeaux) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur de la plate-forme achats finances Sud-Est (Toulon) |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de l'établissement du service d'infrastructure de la défense de Toulon
+Directeur de la plate-forme achats finances Rambouillet |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-P. 144, P. 146, P. 167, P. 178, P. 212
+Directeur du service exécutant de la solde unique |
 
-|
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur du service spécialisé de la logistique et du transport |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur du centre de service partagé recettes de l'hôpital d'instruction des armées Bégin |
+
+P. 178 |
+
+Directeur du centre de service partagé dépenses de la direction des approvisionnements en produits de santé |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'exploitation et de la logistique pétrolière interarmées |
+
+P. 144, P. 167, P. 178, P. 212, P. 901 |
+
+Directeur de la section technique de l'armée de terre |
+
+P. 144, P. 146, P. 178 |
+
+Directeur du service de soutien de la flotte à Brest |
+
+P. 144, P. 146, P. 178, P. 212 |
+
+Chef du service contrats finances de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques de la défense |
+
+P. 144, P. 146, P. 178, P. 212 |
+
+Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
+
+P. 212, P. 902 |
+
+Directeur du service de l'exécution financière, de la gestion logistique des biens et des comptabilités |
+
+P. 144, P. 146, P. 178, P. 191, P. 212 |
+
+Directeur du centre expert des ressources humaines du personnel civil |
+
+P. 144, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Bordeaux |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Brest |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense d'Ile-de-France |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Lyon |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Metz |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Rennes |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur de l'établissement du service d'infrastructure de la défense de Toulon |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |

@@ -1,8 +1,6 @@
 # Article Annexe I
 
-144.-ENVIRONNEMENT ET PROSPECTIVE DE LA POLITIQUE DE DÉFENSE
-
-|
+144.-ENVIRONNEMENT ET PROSPECTIVE DE LA POLITIQUE DE DÉFENSE |
 
 Armées, direction ou service
 
@@ -26,9 +24,7 @@ Chef du service des recherches et technologies de défense et de sécurité
 
 |
 
-146.-ÉQUIPEMENT DES FORCES
-
-|
+146.-ÉQUIPEMENT DES FORCES |
 
 Armées, direction ou service
 
@@ -38,9 +34,7 @@ Autorités concernées
 
 |
 
-Direction générale de l'armement
-
-|
+Direction générale de l'armement |
 
 Directeur de l'unité de management nucléaire, biologique et chimique
 
@@ -62,9 +56,7 @@ Directeur de l'unité de management opérations d'armement terrestres
 
 |
 
-178.-PRÉPARATION ET EMPLOI DES FORCES
-
-|
+178.-PRÉPARATION ET EMPLOI DES FORCES |
 
 Armées, direction ou service
 
@@ -74,9 +66,7 @@ Autorités concernées
 
 |
 
-Etat-major des armées
-
-|
+Etat-major des armées |
 
 Commandants supérieurs dans les départements d'outre-mer, en Polynésie française et en Nouvelle-Calédonie
 
@@ -116,9 +106,7 @@ Directeur du service logistique de la marine
 
 |
 
-Service du commissariat des armées
-
-|
+Service du commissariat des armées |
 
 Directeur du centre interarmées d'administration des opérations
 
@@ -126,11 +114,15 @@ Directeurs du commissariat en opération extérieure
 
 Directeur du centre d'expertise de soutien général des armées
 
+Directeur du centre d'expertise du soutien du combattant et des forces
+
+Directeur du centre d'expertise de la restauration et de l'hébergement interarmées
+
+Directeur du centre d'analyse et de contrôle interne
+
 |
 
-191.-RECHERCHE DUALE (civile et militaire)
-
-|
+191.-RECHERCHE DUALE (civile et militaire) |
 
 Armées, direction ou service
 
@@ -148,9 +140,7 @@ Chef du service des recherches et technologies de défense et de sécurité
 
 |
 
-212.-SOUTIEN DE LA POLITIQUE DE LA DÉFENSE
-
-|
+212.-SOUTIEN DE LA POLITIQUE DE LA DÉFENSE |
 
 Armées, direction ou service
 
