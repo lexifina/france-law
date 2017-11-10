@@ -6,4 +6,4 @@ La liste de chaque CMCAS figurant en annexe I est fixée par le comité de coord
 
 Chaque conseil d'administration est composé de 18 membres pour les caisses regroupant moins de 500 agents statutaires (actifs et inactifs) et de 24 membres pour les caisses regroupant au moins 500 agents statutaires (actifs et inactifs).
 
-Les membres du conseil d'administration de chaque caisse sont élus pour 3 ans par les agents statutaires (actifs et inactifs) appartenant à la CMCAS concernée.
+Les membres du conseil d'administration de chaque caisse sont élus pour 4 ans par les agents statutaires (actifs et inactifs) appartenant à la CMCAS concernée.
