@@ -146,6 +146,8 @@ Ne sont pas inclus dans le périmètre de la facturation individuelle :
 
 - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE). |
 
+LISTE DES ÉTABLISSEMENTS DE SANTÉ CONCERNÉS PAR UN DÉMARRAGE DE LA FACTURATION INDIVIDUELLE LE 1ER FÉVRIER 2018
+
 Finess juridique |
 
 970211207 |
