@@ -18,1861 +18,933 @@ d'emplois
 
 |
 
-01
+01 |
 
-|
+Préfecture de l'Ain |
 
-Préfecture de l'Ain
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+02 |
 
-|
+Préfecture de l'Aisne |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-02
+06 |
 
-|
+Préfecture des Alpes-Maritimes |
 
-Préfecture de l'Aisne
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+06 |
 
-|
+Préfecture des Alpes-Maritimes |
 
-1
+Chef du garage |
 
-|
+1 |
 
-06
+06 |
 
-|
+Préfecture des Alpes-Maritimes |
 
-Préfecture des Alpes-Maritimes
+Chef de cuisine |
 
-|
+1 |
 
-Intendant de la résidence du préfet
+06 |
 
-|
+Préfecture des Alpes-Maritimes |
 
-1
+Chef de l'équipe logistique |
 
-|
+1 |
 
-06
+07 |
 
-|
+Préfecture de l'Ardèche |
 
-Préfecture des Alpes-Maritimes
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Chef du garage
+08 |
 
-|
+Préfecture des Ardennes |
 
-1
+Chef du garage |
 
-|
+1 |
 
-06
+09 |
 
-|
+Préfecture de l'Ariège |
 
-Préfecture des Alpes-Maritimes
+Gestionnaire bâtiments et travaux |
 
-|
+1 |
 
-Chef de cuisine
+10 |
 
-|
+Préfecture de l'Aube |
 
-1
+Chef de l'équipe logistique |
 
-|
+1 |
 
-06
+13 |
 
-|
+Préfecture des Bouches-du-Rhône |
 
-Préfecture des Alpes-Maritimes
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-Chef de l'équipe logistique
+13 |
 
-|
+Préfecture des Bouches-du-Rhône |
 
-1
+Chef de cuisine |
 
-|
+1 |
 
-07
+14 |
 
-|
+Préfecture du Calvados |
 
-Préfecture de l'Ardèche
+Chef de cuisine |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+14 |
 
-|
+Préfecture du Calvados |
 
-1
+Chef du garage |
 
-|
+1 |
 
-08
+15 |
 
-|
+Préfecture du Cantal |
 
-Préfecture des Ardennes
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+16 |
 
-|
+Préfecture de la Charente |
 
-1
+Chef du garage |
 
-|
+1 |
 
-09
+17 |
 
-|
+Préfecture de la Charente-Maritime |
 
-Préfecture de l'Ariège
+Chef du garage |
 
-|
+1 |
 
-Gestionnaire bâtiments et travaux
+17 |
 
-|
+Préfecture de la Charente-Maritime |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-10
+19 |
 
-|
+Préfecture de la Corrèze |
 
-Préfecture de l'Aube
+Chef du garage |
 
-|
+1 |
 
-Chef de l'équipe logistique
+2A |
 
-|
+Préfecture de la Corse-du-Sud |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-13
+23 |
 
-|
+Préfecture de la Creuse |
 
-Préfecture des Bouches-du-Rhône
+Chef du garage |
 
-|
+1 |
 
-Responsable de l'atelier reprographie
+24 |
 
-|
+Préfecture de la Dordogne |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-13
+24 |
 
-|
+Préfecture de la Dordogne |
 
-Préfecture des Bouches-du-Rhône
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Chef de cuisine
+25 |
 
-|
+Préfecture du Doubs |
 
-1
+Chef de cuisine |
 
-|
+1 |
 
-14
+25 |
 
-|
+Préfecture du Doubs |
 
-Préfecture du Calvados
+Chef du garage |
 
-|
+1 |
 
-Chef de cuisine
+25 |
 
-|
+Préfecture du Doubs |
 
-1
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-14
+26 |
 
-|
+Préfecture de la Drôme |
 
-Préfecture du Calvados
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-Chef du garage
+27 |
 
-|
+Préfecture de l'Eure |
 
-1
+Chef de garage |
 
-|
+1 |
 
-15
+28 |
 
-|
+Préfecture d'Eure-et-Loir |
 
-Préfecture du Cantal
+Chef de cuisine |
 
-|
+1 |
 
-Chef du garage
+29 |
 
-|
+Préfecture du Finistère |
 
-1
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-16
+29 |
 
-|
+Préfecture du Finistère |
 
-Préfecture de la Charente
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Chef du garage
+29 |
 
-|
+Préfecture du Finistère |
 
-1
+Chef du garage |
 
-|
+1 |
 
-17
+30 |
 
-|
+Préfecture du Gard |
 
-Préfecture de la Charente-Maritime
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+30 |
 
-|
+Préfecture du Gard |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-17
+31 |
 
-|
+Préfecture de la Haute-Garonne |
 
-Préfecture de la Charente-Maritime
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-Intendant de la résidence du préfet
+33 |
 
-|
+Préfecture de la Gironde |
 
-1
+Chef de l'équipe du service de sécurité incendie |
 
-|
+1 |
 
-19
+33 |
 
-|
+Préfecture de la Gironde |
 
-Préfecture de la Corrèze
+Agent de sécurité incendie et assistance aux personnes |
 
-|
+1 |
 
-Chef du garage
+34 |
 
-|
+Préfecture de l'Hérault |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-2A
+34 |
 
-|
+Préfecture de l'Hérault |
 
-Préfecture de la Corse-du-Sud
+Chef du garage |
 
-|
+1 |
 
-Intendant de la résidence du préfet
+35 |
 
-|
+Préfecture d'Ille-et-Vilaine |
 
-1
+Chef de la section courrier |
 
-|
+1 |
 
-23
+35 |
 
-|
+Préfecture d'Ille-et-Vilaine |
 
-Préfecture de la Creuse
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+36 |
 
-|
+Préfecture de l'Indre |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-24
+37 |
 
-|
+Préfecture d'Indre-et-Loire |
 
-Préfecture de la Dordogne
+Adjoint au chef du garage |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+38 |
 
-|
+Préfecture de l'Isère |
 
-1
+Chef du garage |
 
-|
+1 |
 
-24
+39 |
 
-|
+Préfecture du Jura |
 
-Préfecture de la Dordogne
+Chef du garage |
 
-|
+1 |
 
-Chef de l'équipe logistique
+40 |
 
-|
+Préfecture des Landes |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-25
+42 |
 
-|
+Préfecture de la Loire |
 
-Préfecture du Doubs
+Chef du garage |
 
-|
+1 |
 
-Chef de cuisine
+43 |
 
-|
+Préfecture de la Haute-Loire |
 
-1
+Chef du garage |
 
-|
+1 |
 
-25
+44 |
 
-|
+Préfecture de la Loire-Atlantique |
 
-Préfecture du Doubs
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+44 |
 
-|
+Préfecture de la Loire-Atlantique |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-25
+45 |
 
-|
+Préfecture du Loiret |
 
-Préfecture du Doubs
+Chef du garage |
 
-|
+1 |
 
-Responsable de l'atelier reprographie
+45 |
 
-|
+Préfecture du Loiret |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-26
+46 |
 
-|
+Préfecture du Lot |
 
-Préfecture de la Drôme
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-Chef de l'équipe du service intérieur
+47 |
 
-|
+Préfecture de Lot-et-Garonne |
 
-1
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-27
+49 |
 
-|
+Préfecture de Maine-et-Loire |
 
-Préfecture de l'Eure
+Chef de cuisine |
 
-|
+1 |
 
-Chef de garage
+50 |
 
-|
+Préfecture de la Manche |
 
-1
+Intendant de l'hôtel préfectoral |
 
-|
+1 |
 
-28
+51 |
 
-|
+Préfecture de la Marne |
 
-Préfecture d'Eure-et-Loir
+Chef du garage de la préfecture |
 
-|
+1 |
 
-Chef de cuisine
+52 |
 
-|
+Préfecture de la Haute-Marne |
 
-1
+Chef du garage |
 
-|
+1 |
 
-29
+54 |
 
-|
+Préfecture de Meurthe-et-Moselle |
 
-Préfecture du Finistère
+Chef du garage |
 
-|
+1 |
 
-Chef de l'équipe du service intérieur
+54 |
 
-|
+Préfecture de Meurthe-et-Moselle |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-29
+55 |
 
-|
+Préfecture de la Meuse |
 
-Préfecture du Finistère
+Chef du garage |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+56 |
 
-|
+Préfecture du Morbihan |
 
-1
+Chef du garage |
 
-|
+1 |
 
-29
+57 |
 
-|
+Préfecture de la Moselle |
 
-Préfecture du Finistère
+Chef de garage |
 
-|
+1 |
 
-Chef du garage
+57 |
 
-|
+Préfecture de la Moselle |
 
-1
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-30
+58 |
 
-|
+Préfecture de la Nièvre |
 
-Préfecture du Gard
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+59 |
 
-|
+Préfecture du Nord |
 
-1
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-30
+59 |
 
-|
+Préfecture du Nord |
 
-Préfecture du Gard
+Huissier |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+60 |
 
-|
+Préfecture de l'Oise |
 
-1
+Chef du garage |
 
-|
+1 |
 
-31
+60 |
 
-|
+Préfecture de l'Oise |
 
-Préfecture de la Haute-Garonne
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Chef de l'équipe du service intérieur
+61 |
 
-|
+Préfecture de l'Orne |
 
-1
+Chef du garage |
 
-|
+1 |
 
-33
+61 |
 
-|
+Préfecture de l'Orne |
 
-Préfecture de la Gironde
+Responsable de la section jardins |
 
-|
+1 |
 
-Chef de l'équipe du service de sécurité incendie
+62 |
 
-|
+Préfecture du Pas-de-Calais |
 
-1
+Chef du garage |
 
-|
+1 |
 
-33
+62 |
 
-|
+Préfecture du Pas-de-Calais |
 
-Préfecture de la Gironde
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Agent de sécurité incendie et assistance aux personnes
+63 |
 
-|
+Préfecture du Puy-de-Dôme |
 
-1
+Chef du garage |
 
-|
+1 |
 
-34
+65 |
 
-|
+Préfecture des Hautes-Pyrénées |
 
-Préfecture de l'Hérault
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-Intendant de la résidence du préfet
+68 |
 
-|
+Préfecture du Haut-Rhin |
 
-1
+Chef de cuisine |
 
-|
+1 |
 
-34
+68 |
 
-|
+Préfecture du Haut-Rhin |
 
-Préfecture de l'Hérault
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+69 |
 
-|
+Préfecture du Rhône |
 
-1
+Chef des huissiers |
 
-|
+1 |
 
-35
+69 |
 
-|
+Préfecture du Rhône |
 
-Préfecture d'Ille-et-Vilaine
+Adjoint au chef de l'équipe du service intérieur |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+70 |
 
-|
+Préfecture de la Haute-Saône |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-35
+71 |
 
-|
+Préfecture de Saône-et-Loire |
 
-Préfecture d'Ille-et-Vilaine
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Chef du garage
+72 |
 
-|
+Préfecture de la Sarthe |
 
-1
+Maître d'hôtel |
 
-|
+1 |
 
-36
+72 |
 
-|
+Préfecture de la Sarthe |
 
-Préfecture de l'Indre
+Chef du garage |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+73 |
 
-|
+Préfecture de la Savoie |
 
-1
+Intendant des résidences préfectorales |
 
-|
+1 |
 
-37
+75 |
 
-|
+Préfecture de l'Ile de France |
 
-Préfecture d'Indre-et-Loire
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Adjoint au chef du garage
+75 |
 
-|
+Préfecture de l'Ile-de-France |
 
-1
+Chargé de la maintenance, travaux et de l'exploitation |
 
-|
+1 |
 
-38
+76 |
 
-|
+Préfecture de la Seine-Maritime |
 
-Préfecture de l'Isère
+Chef de la logistique |
 
-|
+1 |
 
-Chef du garage
+76 |
 
-|
+Préfecture de la Seine-Maritime |
 
-1
+Chef de cuisine |
 
-|
+1 |
 
-39
+77 |
 
-|
+Préfecture de Seine-et-Marne |
 
-Préfecture du Jura
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+78 |
 
-|
+Préfecture des Yvelines |
 
-1
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-40
+78 |
 
-|
+Préfecture des Yvelines |
 
-Préfecture des Landes
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+79 |
 
-|
+Préfecture des Deux-Sèvres |
 
-1
+Chef du garage |
 
-|
+1 |
 
-42
+80 |
 
-|
+Préfecture de la Somme |
 
-Préfecture de la Loire
+Chef de l'équipe logistique |
 
-|
+1 |
 
-Chef du garage
+80 |
 
-|
+Préfecture de la Somme |
 
-1
+Intendant de la résidence du préfet |
 
-|
+1 |
 
-43
+81 |
 
-|
+Préfecture du Tarn |
 
-Préfecture de la Haute-Loire
+Chef de cuisine |
 
-|
+1 |
 
-Chef du garage
+83 |
 
-|
+Préfecture du Var |
 
-1
+Chef du garage |
 
-|
+1 |
 
-44
+84 |
 
-|
+Préfecture de Vaucluse |
 
-Préfecture de la Loire-Atlantique
+Maître d'hôtel |
 
-|
+1 |
 
-Chef du garage
+84 |
 
-|
+Préfecture de Vaucluse |
 
-1
+Chef du garage |
 
-|
+1 |
 
-44
+85 |
 
-|
+Préfecture de la Vendée |
 
-Préfecture de la Loire-Atlantique
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Maître d'hôtel de la résidence du préfet
+86 |
 
-|
+Préfecture de la Vienne |
 
-1
+Chef de cuisine |
 
-|
+1 |
 
-45
+86 |
 
-|
+Préfecture de la Vienne |
 
-Préfecture du Loiret
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+87 |
 
-|
+Préfecture de la Haute-Vienne |
 
-1
+Chef du garage |
 
-|
+1 |
 
-45
+87 |
 
-|
+Préfecture de la Haute-Vienne |
 
-Préfecture du Loiret
+Intendant des résidences préfectorales |
 
-|
+1 |
 
-Intendant de la résidence du préfet
+88 |
 
-|
+Préfecture des Vosges |
 
-1
+Chef du garage |
 
-|
+1 |
 
-46
+90 |
 
-|
+Préfecture du Territoire de Belfort |
 
-Préfecture du Lot
+Chef de cuisine |
 
-|
+1 |
 
-Chef de l'équipe du service intérieur
+91 |
 
-|
+Préfecture de l'Essonne |
 
-1
+Chef du garage |
 
-|
+1 |
 
-47
+91 |
 
-|
+Préfecture de l'Essonne |
 
-Préfecture de Lot-et-Garonne
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-Chef de l'équipe du service intérieur
+92 |
 
-|
+Préfecture des Hauts-de-Seine |
 
-1
+Chef du garage |
 
-|
+1 |
 
-49
+92 |
 
-|
+Préfecture des Hauts-de-Seine |
 
-Préfecture de Maine-et-Loire
+Maître d'hôtel de la résidence du préfet |
 
-|
+1 |
 
-Chef de cuisine
+92 |
 
-|
+Préfecture des Hauts-de-Seine |
 
-1
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-50
+92 |
 
-|
+Préfecture des Hauts-de-Seine |
 
-Préfecture de la Manche
+Chef d'atelier |
 
-|
+1 |
 
-Intendant de l'hôtel préfectoral
+93 |
 
-|
+Préfecture de la Seine-Saint-Denis |
 
-1
+Chef de l'atelier reprographie |
 
-|
+1 |
 
-51
+94 |
 
-|
+Préfecture du Val-de-Marne |
 
-Préfecture de la Marne
+Chef du garage |
 
-|
+1 |
 
-Chef du garage de la préfecture
+972 |
 
-|
+Préfecture de la Martinique |
 
-1
+Chef de l'équipe du service intérieur |
 
-|
+1 |
 
-52
+974 |
 
-|
+Préfecture de La Réunion |
 
-Préfecture de la Haute-Marne
+Chef du garage |
 
-|
+1 |
 
-Chef du garage
+975 |
 
-|
+Préfecture de Saint-Pierre-et-Miquelon |
 
-1
+Responsable de l'atelier reprographie |
 
-|
-
-54
-
-|
-
-Préfecture de Meurthe-et-Moselle
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-54
-
-|
-
-Préfecture de Meurthe-et-Moselle
-
-|
-
-Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-55
-
-|
-
-Préfecture de la Meuse
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-56
-
-|
-
-Préfecture du Morbihan
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-57
-
-|
-
-Préfecture de la Moselle
-
-|
-
-Chef de garage
-
-|
-
-1
-
-|
-
-57
-
-|
-
-Préfecture de la Moselle
-
-|
-
-Responsable de l'atelier reprographie
-
-|
-
-1
-
-|
-
-58
-
-|
-
-Préfecture de la Nièvre
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-59
-
-|
-
-Préfecture du Nord
-
-|
-
-Responsable de l'atelier reprographie
-
-|
-
-1
-
-|
-
-59
-
-|
-
-Préfecture du Nord
-
-|
-
-Huissier
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Préfecture de l'Oise
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Préfecture de l'Oise
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-61
-
-|
-
-Préfecture de l'Orne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-61
-
-|
-
-Préfecture de l'Orne
-
-|
-
-Responsable de la section jardins
-
-|
-
-1
-
-|
-
-62
-
-|
-
-Préfecture du Pas-de-Calais
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-62
-
-|
-
-Préfecture du Pas-de-Calais
-
-|
-
-Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-63
-
-|
-
-Préfecture du Puy-de-Dôme
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-65
-
-|
-
-Préfecture des Hautes-Pyrénées
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
-68
-
-|
-
-Préfecture du Haut-Rhin
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
-
-68
-
-|
-
-Préfecture du Haut-Rhin
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-69
-
-|
-
-Préfecture du Rhône
-
-|
-
-Chef des huissiers
-
-|
-
-1
-
-|
-
-69
-
-|
-
-Préfecture du Rhône
-
-|
-
-Adjoint au chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Préfecture de la Haute-Saône
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
-71
-
-|
-
-Préfecture de Saône-et-Loire
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-72
-
-|
-
-Préfecture de la Sarthe
-
-|
-
-Maître d'hôtel
-
-|
-
-1
-
-|
-
-72
-
-|
-
-Préfecture de la Sarthe
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-73
-
-|
-
-Préfecture de la Savoie
-
-|
-
-Intendant des résidences préfectorales
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Préfecture de l'Ile de France
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Préfecture de l'Ile-de-France
-
-|
-
-Chargé de la maintenance, travaux et de l'exploitation
-
-|
-
-1
-
-|
-
-76
-
-|
-
-Préfecture de la Seine-Maritime
-
-|
-
-Chef de la logistique
-
-|
-
-1
-
-|
-
-76
-
-|
-
-Préfecture de la Seine-Maritime
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
-
-77
-
-|
-
-Préfecture de Seine-et-Marne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Préfecture des Yvelines
-
-|
-
-Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Préfecture des Yvelines
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-79
-
-|
-
-Préfecture des Deux-Sèvres
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Préfecture de la Somme
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Préfecture de la Somme
-
-|
-
-Responsable de l'atelier reprographie
-
-|
-
-1
-
-|
-
-81
-
-|
-
-Préfecture du Tarn
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
-
-83
-
-|
-
-Préfecture du Var
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-84
-
-|
-
-Préfecture de Vaucluse
-
-|
-
-Maître d'hôtel
-
-|
-
-1
-
-|
-
-84
-
-|
-
-Préfecture de Vaucluse
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-85
-
-|
-
-Préfecture de la Vendée
-
-|
-
-Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-86
-
-|
-
-Préfecture de la Vienne
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
-
-86
-
-|
-
-Préfecture de la Vienne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Préfecture de la Haute-Vienne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Préfecture de la Haute-Vienne
-
-|
-
-Intendant des résidences préfectorales
-
-|
-
-1
-
-|
-
-88
-
-|
-
-Préfecture des Vosges
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Préfecture du Territoire de Belfort
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
-
-91
-
-|
-
-Préfecture de l'Essonne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-91
-
-|
-
-Préfecture de l'Essonne
-
-|
-
-Responsable de l'atelier reprographie
-
-|
-
-1
-
-|
-
-92
-
-|
-
-Préfecture des Hauts-de-Seine
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-92
-
-|
-
-Préfecture des Hauts-de-Seine
-
-|
-
-Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-92
-
-|
-
-Préfecture des Hauts-de-Seine
-
-|
-
-Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-92
-
-|
-
-Préfecture des Hauts-de-Seine
-
-|
-
-Chef d'atelier
-
-|
-
-1
-
-|
-
-93
-
-|
-
-Préfecture de la Seine-Saint-Denis
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
-94
-
-|
-
-Préfecture du Val-de-Marne
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-972
-
-|
-
-Préfecture de la Martinique
-
-|
-
-Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-974
-
-|
-
-Préfecture de La Réunion
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-975
-
-|
-
-Préfecture de Saint-Pierre-et-Miquelon
-
-|
-
-Responsable de l'atelier reprographie
-
-|
-
-1
-
-|
+1 |
 
 Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
@@ -1890,183 +962,95 @@ d'emplois
 
 |
 
-13
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/Marseille |
 
-SGAMI de la zone de défense et de sécurité Sud/Marseille
+Adjoint au chef de l'équipe logistique |
 
-|
+1 |
 
-Adjoint au chef de l'équipe logistique
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/Marseille |
 
-1
+Chef du garage |
 
-|
+1 |
 
-13
+31 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Colomiers |
 
-SGAMI de la zone de défense et de sécurité Sud/Marseille
+Responsable du service rapide |
 
-|
+1 |
 
-Chef du garage
+33 |
 
-|
-
-1
-
-|
-
-31
-
-|
-
-SGAMI de la zone de défense et de sécurité Sud-Ouest/Colomiers
-
-|
-
-Responsable du service rapide
-
-|
-
-1
-
-|
-
-33
-
-|
-
-SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BMM
-
-|
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BMM |
 
 Chef du secteur roulage |
 
-1
+1 |
 
-|
+33 |
 
-33
+SGAMI de la zone de défense et de sécurité Sud-Ouest |
 
-|
+Chef du secteur mécanique |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest
+1 |
 
-|
+33 |
 
-Chef du secteur mécanique
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BAE |
 
-|
+Responsable de l'atelier régional de l'armement |
 
-1
+1 |
 
-|
+87 |
 
-33
+SGAMI de la zone de défense et de sécurité Sud-Ouest /DR31 |
 
-|
+Adjoint au chef du pool chauffeur |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BAE
+1 |
 
-|
+21 |
 
-Responsable de l'atelier régional de l'armement
+SGAMI de la zone de défense et de sécurité Est/DR21 |
 
-|
+Responsable de l'équipe du service "immobilier" |
 
-1
+1 |
 
-|
+21 |
 
-87
+SGAMI de la zone de défense et de sécurité Est/DR21 |
 
-|
+Adjoint au chef d'antenne logistique |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest /DR31
+1 |
 
-|
+57 |
 
-Adjoint au chef du pool chauffeur
+SGAMI de la zone de défense et de sécurité Est/Metz |
 
-|
+Responsable réception à l'atelier auto |
 
-1
+1 |
 
-|
+57 |
 
-21
+SGAMI de la zone de défense et de sécurité Est/Metz |
 
-|
+Adjoint au chef du département transport |
 
-SGAMI de la zone de défense et de sécurité Est/DR21
+1 |
 
-|
-
-Responsable de l'équipe du service "immobilier"
-
-|
-
-1
-
-|
-
-21
-
-|
-
-SGAMI de la zone de défense et de sécurité Est/DR21
-
-|
-
-Adjoint au chef d'antenne logistique
-
-|
-
-1
-
-|
-
-57
-
-|
-
-SGAMI de la zone de défense et de sécurité Est/Metz
-
-|
-
-Responsable réception à l'atelier auto
-
-|
-
-1
-
-|
-
-57
-
-|
-
-SGAMI de la zone de défense et de sécurité Est/Metz
-
-|
-
-Adjoint au chef du département transport
-
-|
-
-1
-
-|
-
-35
-
-|
+35 |
 
 SGAMI de la zone de défense et de sécurité Ouest/
 
@@ -2074,219 +1058,113 @@ Rennes
 
 |
 
-Responsable du service roulage
+Responsable du service roulage |
 
-|
-
-1
-
-|
+1 |
 
 76 |
 
-SGAMI de la zone de défense et de sécurité Ouest/Oissel
+SGAMI de la zone de défense et de sécurité Ouest/Oissel |
 
-|
+Chef de la section carrosserie-atelier auto |
 
-Chef de la section carrosserie-atelier auto
+1 |
 
-|
+37 |
 
-1
+SGAMI de la zone de défense et de sécurité Ouest/DR Tours |
 
-|
+Responsable du roulage à l'atelier |
 
-37
+1 |
 
-|
+76 |
 
-SGAMI de la zone de défense et de sécurité Ouest/DR Tours
+SGAMI de la zone de défense et de sécurité Ouest/Oissel |
 
-|
+Responsable du magasin pièces détachées à l'atelier avancé |
 
-Responsable du roulage à l'atelier
+1 |
 
-|
+38 |
 
-1
+SGAMI de la zone de défense et de sécurité Sud-Est/Meylan |
 
-|
+Adjoint au chef de l'atelier automobile avancé |
 
-76
+1 |
 
-|
+69 |
 
-SGAMI de la zone de défense et de sécurité Ouest/Oissel
+SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
 
-|
+Chef d'équipe mécanique moto de l'atelier |
 
-Responsable du magasin pièces détachées à l'atelier avancé
+1 |
 
-|
+69 |
 
-1
+SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
 
-|
+Adjoint au chef d'équipe carrosserie de l'atelier |
 
-38
+1 |
 
-|
+69 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/Meylan
+SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
 
-|
+Adjoint au chef d'équipe mécanique auto n° 1 de l'atelier |
 
-Adjoint au chef de l'atelier automobile avancé
+1 |
 
-|
+59 |
 
-1
+SGAMI de la zone de défense et de sécurité Nord/Lille |
 
-|
+Adjoint au chef du pôle des transports |
 
-69
+1 |
 
-|
+78 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/Lyon
+Zone de défense et de sécurité IDF/atelier du Chesnay |
 
-|
+Adjoint au chef d'équipe mécanique carrosserie |
 
-Coordinateur technique "constructeurs automobiles"
+1 |
 
-|
+75 |
 
-1
+Zone de défense et de sécurité IDF/préfecture de police (75)/atelier central |
 
-|
+Adjoint au chef de la cellule précontentieux |
 
-69
+1 |
 
-|
+75 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/Lyon
+Zone de défense et de sécurité IDF/préfecture de police (75) |
 
-|
+Adjoint au responsable de l'armurerie |
 
-Chef de l'équipe logistique
+1 |
 
-|
+75 |
 
-1
+SGAMI de la zone de défense et de sécurité de Paris/ préfecture de police/ DOSTL/ parc Nord (75) |
 
-|
+Responsable du service mines-externalisations |
 
-63
+1 |
 
-|
+75 |
 
-SGAMI de la zone de défense et de sécurité Sud-Est/Cournon
+Zone de défense et de sécurité IDF/Préfecture de police/DOSTL/parc Sud (94) |
 
-|
+Adjoint au chef du service électricité automobile |
 
-Adjoint au chef de l'atelier automobile avancé
-
-|
-
-1
-
-|
-
-59
-
-|
-
-SGAMI de la zone de défense et de sécurité Nord/Lille
-
-|
-
-Adjoint au chef du pôle des transports
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Zone de défense et de sécurité IDF/atelier du Chesnay
-
-|
-
-Adjoint au chef d'équipe mécanique carrosserie
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/préfecture de police (75)/atelier central
-
-|
-
-Adjoint au chef de la cellule précontentieux
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/préfecture de police (75)
-
-|
-
-Adjoint au responsable de l'armurerie
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/préfecture de police/DOSTL/parc Sud (94)
-
-|
-
-Adjoint au chef du magasin automobile
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/Préfecture de police/DOSTL/parc Sud (94)
-
-|
-
-Adjoint au chef du service électricité automobile
-
-|
-
-1
-
-|
+1 |
 
 Périmètre gendarmerie nationale
 
@@ -2304,195 +1182,253 @@ d'emplois
 
 |
 
-75
+75 |
 
-|
+Garde républicaine/cercle mixte des Célestins |
 
-Garde républicaine/cercle mixte des Célestins
+Chef de cuisine |
 
-|
+1 |
 
-Chef de cuisine
+19 |
 
-|
+Ecole de gendarmerie Tulle |
 
-1
+Adjoint au chef de cuisine |
 
-|
+1 |
 
-19
+77 |
 
-|
+RZG IdF/EOGN Melun |
 
-Ecole de gendarmerie Tulle
+Chef du service central et responsable des espaces verts |
 
-|
+1 |
 
-Adjoint au chef de cuisine
+77 |
 
-|
+RZG IdF/EOGN Melun/BBSAI |
 
-1
+Chef de l'atelier menuiserie |
 
-|
+1 |
 
-77
+59 |
 
-|
+RZG NORD Nord-Pas-de-Calais/CM Villeneuve-d'Ascq |
 
-RZG IdF/EOGN Melun
+Chef de cuisine |
 
-|
-
-Chef du service central et responsable des espaces verts
-
-|
-
-1
-
-|
-
-77
-
-|
-
-RZG IdF/EOGN Melun/BBSAI
-
-|
-
-Chef de l'atelier menuiserie
-
-|
-
-1
-
-|
-
-59
-
-|
-
-RZG NORD Nord-Pas-de-Calais/CM Villeneuve-d'Ascq
-
-|
-
-Chef de cuisine
-
-|
-
-1
-
-|
+1 |
 
 21 |
 
-RZG METZ/RG Bourgogne/CM Dijon
+RZG METZ/RG Bourgogne/CM Dijon |
 
-|
+Chef de cuisine |
 
-Chef de cuisine
+1 |
 
-|
+80 |
 
-1
+RZG Picardie/cercle mixte/Amiens |
 
-|
+Chef de cuisine |
 
-80
+1 |
 
-|
+45 |
 
-RZG Picardie/cercle mixte/Amiens
+RZG Ouest Centre/EM/Section Commandement/ESG/Orléans |
 
-|
+Chef des services généraux |
 
-Chef de cuisine
+1 |
 
-|
+44 |
 
-1
+RZG Ouest Pays de la Loire/CM Nantes |
 
-|
+Chef de cuisine |
 
-45
+1 |
 
-|
+31 |
 
-RZG Ouest Centre/EM/Section Commandement/ESG/Orléans
+RZG AQUITAINE/RG Midi-Pyrénées/CM Toulouse |
 
-|
+Chef de cuisine |
 
-Chef des services généraux
+1 |
 
-|
+03 |
 
-1
+RZG Sud-Est Rhône-Alpes/EG Montluçon/CM |
 
-|
+Adjoint au chef de cuisine |
 
-44
+1 |
 
-|
+69 |
 
-RZG Ouest Pays de la Loire/CM Nantes
+RZG Sud-Est Rhône-Alpes/CM Sathonay-Camp |
 
-|
+Gérant d'activité bar/service |
 
-Chef de cuisine
+1 |
 
-|
+Périmètre police nationale
 
-1
+Compagnies républicaines de sécurité
 
-|
+LOCALISATION |
 
-31
+FONCTIONS |
 
-|
+NOMBRE
 
-RZG AQUITAINE/RG Midi-Pyrénées/CM Toulouse
+D'EMPLOIS |
 
-|
+Ile-de-France |
 
-Chef de cuisine
+Compagnies républicaines de sécurité |
 
-|
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
-1
+10 |
 
-|
+Zone Nord |
 
-03
+Compagnies républicaines de sécurité |
 
-|
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
-RZG Sud-Est Rhône-Alpes/EG Montluçon/CM
+6 |
 
-|
+Zone Ouest |
 
-Adjoint au chef de cuisine
+Compagnies républicaines de sécurité |
 
-|
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
-1
+11 |
 
-|
+Zone Sud-Ouest |
 
-69
+Compagnies républicaines de sécurité |
 
-|
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
-RZG Sud-Est Rhône-Alpes/CM Sathonay-Camp
+10 |
 
-|
+Zone Sud |
 
-Gérant d'activité bar/service
+Compagnies républicaines de sécurité |
 
-|
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
 
-1
+17 |
 
-|
+Zone Sud-Est |
+
+-Compagnies républicaines de sécurité
+
+-Centre national d'entraînement à l'alpinisme et au ski/ Chamonix |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+13 |
+
+Zone Est |
+
+-Compagnies républicaines de sécurité
+
+-Détachement unité motocycliste zonale |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+13 |
+
+Direction centrale du recrutement et de la formation
+
+LOCALISATION |
+
+FONCTIONS |
+
+NOMBRE
+
+D'EMPLOIS |
+
+Zone Nord |
+
+École Nationale de la Police |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+1 |
+
+Zone Ouest |
+
+École Nationale de la Police |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+2 |
+
+Zone Sud-Ouest |
+
+École Nationale de la Police |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+1 |
+
+Zone Sud |
+
+-Ecole Nationale de la Police
+
+-Ecole Nationale Supérieure d'application de la Police |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+2 |
+
+Zone Est |
+
+Ecoles Nationales de la Police |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+2 |
+
+Ecole nationale supérieure de la police
+
+LOCALISATION |
+
+FONCTIONS |
+
+NOMBRE
+
+D'EMPLOIS |
+
+Ile-de-France |
+
+École Nationale Supérieure de la Police/ Cannes Écluse |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+1 |
+
+Zone Sud-Est |
+
+École Nationale Supérieure de la Police/ St-Cyr-Mont-d'Or |
+
+Responsable de cuisine ou adjoint au responsable de cuisine/ Responsable de la gérance ou adjoint au responsable de la gérance de mess ou de foyer/ Responsable ou adjoint au responsable de services logistique ou de matériel |
+
+1 |
+
+.
 
 Périmètre sécurité civile
 
@@ -2510,37 +1446,21 @@ d'emplois
 
 |
 
-13
+13 |
 
-|
+ESOL Sud/Marseille-La Valentine |
 
-ESOL Sud/Marseille-La Valentine
+Adjoint au chef NRBC robotique |
 
-|
+1 |
 
-Adjoint au chef NRBC robotique
+95 |
 
-|
+ESOL Nord/Méry-sur-Oise |
 
-1
+Responsable de la conduite des inventaires du magasin |
 
-|
-
-95
-
-|
-
-ESOL Nord/Méry-sur-Oise
-
-|
-
-Responsable de la conduite des inventaires du magasin
-
-|
-
-1
-
-|
+1 |
 
 Périmètre de l'administration centrale
 
@@ -2558,50 +1478,26 @@ d'emplois
 
 |
 
-75
+75 |
 
-|
+SEOM/CAB MIN |
 
-SEOM/CAB MIN
+Chauffeur du ministre |
 
-|
+1 |
 
-Chauffeur du ministre
+87 |
 
-|
+Direction générale de la police nationale/ECLPN/Limoges |
 
-1
+Responsable des véhicules spéciaux |
 
-|
+1 |
 
-87
+77 |
 
-|
+Direction des systèmes d'information et de communication/Lognes |
 
-Direction générale de la police nationale/ECLPN/Limoges
+Responsable de la cellule "fabrication CNI" |
 
-|
-
-Responsable des véhicules spéciaux
-
-|
-
-1
-
-|
-
-77
-
-|
-
-Direction des systèmes d'information et de communication/Lognes
-
-|
-
-Responsable de la cellule "fabrication CNI"
-
-|
-
-1
-
-|
+1 |
