@@ -2,7 +2,7 @@
 
 MODALITÉS D'INSCRIPTION
 
-a) Par voie télématique sur le site internet du recrutement de la gendarmerie nationale http://www.lagendarmerierecrute.fr, rubriques : inscription en ligne , déposer un dossier , corps de soutien technique et administratif de la gendarmerie nationale , puis choisir la spécialité.
+a) Par voie télématique sur le site internet du recrutement de la gendarmerie nationale http://www.lagendarmerierecrute.fr, rubriques : " inscription en ligne ", " déposer un dossier ", " corps de soutien technique et administratif de la gendarmerie nationale ", puis choisir la spécialité.
 
 La procédure d'inscription par internet se déroule comme suit :
 
@@ -20,11 +20,9 @@ La procédure d'inscription par internet se déroule comme suit :
 
 - ces opérations doivent être effectuées avant la date de clôture des inscriptions ;
 
-- durant la période d'inscription, le candidat peut à tout moment supprimer sa candidature. Un candidat qui a supprimé une candidature à l'une des spécialités et souhaite à nouveau déposer un dossier pour la même spécialité devra le faire après téléchargement du dossier en application du processus présenté au c de cette annexe.
+- durant la période d'inscription, le candidat peut à tout moment supprimer sa candidature. Un candidat qui a supprimé une candidature à l'une des spécialités et souhaite à nouveau déposer un dossier pour la même spécialité devra le faire après téléchargement du dossier en application du processus présenté au b de cette annexe.
 
-b) Pour les militaires de la gendarmerie nationale candidats aux épreuves de sélection, par voie télématique sur le site intranet de la gendarmerie : portail Agorha ; rubriques : recrutement ; saisie d'une candidature ; candidature gendarmerie et suivre les instructions données.
-
-c) Dépôt d'un dossier de candidature :
+b Dépôt d'un dossier de candidature :
 
 Le dossier de candidature peut être soit téléchargé sur le site internet du recrutement de la gendarmerie http://www.lagendarmerierecrute.fr, soit retiré auprès d'une brigade de gendarmerie, d'un centre d'information et de recrutement ou d'un centre de recrutement, concours et sélection.
 
