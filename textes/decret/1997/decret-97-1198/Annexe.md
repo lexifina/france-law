@@ -888,6 +888,12 @@ Article R*. 423-88
 
 Mesures prises par le ministre chargé des transports
 
+Code général de la propriété des personnes publiques :
+
+1. Prise de position sur une demande de transfert de propriété de lignes ferroviaires |
+
+article R. 3114-5 |
+
 Code des ports maritimes :
 
 1
