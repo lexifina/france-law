@@ -1,0 +1,76 @@
+# Organisation des jeux Olympiques et Paralympiques 2024
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36130
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/jeux_olympiques_paralympiques_2024
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-203.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-15 : 1er dépôt d'une initiative. (PRJLANR5L15B0383)
+  - 2017-11-15 : Etude d'impact (ETDIANR5L15B0383)
+  - 2017-11-15 : Avis du Conseil d'Etat (AVCEANR5L15B0383)
+  - 2017-11-15 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-15 : Renvoi en commission au fond
+      - 2017-11-22 : Nomination de rapporteur
+      - 2017-11-22 : Réunion de commission
+      - 2017-12-11 : Réunion de commission
+      - 2017-12-12 : Réunion de commission
+      - 2017-12-20 : Réunion de commission
+      - 2017-12-12 : Dépôt de rapport (RAPPANR5L15B0484, PRJLANR5L15BTC0484)
+    - Travaux d'une commission saisie pour avis
+      - 2017-11-17 : Saisine pour avis d'une commission
+      - 2017-11-23 : Nomination de rapporteur
+      - 2017-12-05 : Réunion de commission
+      - 2017-12-05 : Dépôt de rapport (AVISANR5L15B0437)
+    - Travaux d'une commission saisie pour avis
+      - 2017-11-21 : Saisine pour avis d'une commission
+      - 2017-11-22 : Nomination de rapporteur
+      - 2017-12-06 : Réunion de commission
+      - 2017-12-06 : Dépôt de rapport (AVISANR5L15B0448)
+  - Discussion en séance publique
+    - 2017-12-20 : Discussion en séance publique
+    - 2017-12-20 : Discussion en séance publique
+    - 2017-12-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-12-21 : Dépôt d'une initiative en navette (PRJLSNR5S299B0203)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-21 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-01-31 : Dépôt de rapport (RAPPSNR5S299B0262, PRJLSNR5S299BTC0263)
+    - Travaux d'une commission saisie pour avis
+      - 2017-12-13 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-01-30 : Dépôt de rapport (AVISSNR5S299B0258)
+    - Travaux d'une commission saisie pour avis
+      - 2017-12-13 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-01-30 : Dépôt de rapport (AVISSNR5S299B0257)
+    - Travaux d'une commission saisie pour avis
+      - 2018-01-17 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-01-30 : Dépôt de rapport (AVISSNR5S299B0256)
+  - Discussion en séance publique
+    - 2018-02-06 : Discussion en séance publique
+    - 2018-02-06 : Décision
+- Commission Mixte Paritaire
+  - 2018-02-08 : Dépôt d'un projet de loi (PRJLANR5L15B0655)
+  - 2018-02-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-02-20 : Nomination de rapporteur
+    - 2018-02-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B0676, PRJLANR5L15BTC0676)
+    - 2018-02-20 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0312, PRJLSNR5S299BTC0313)
+  - Discussion en séance publique
+    - 2018-03-14 : Discussion en séance publique
+    - 2018-03-14 : Décision
+  - Discussion en séance publique
+    - 2018-03-15 : Discussion en séance publique
+    - 2018-03-15 : Décision
+  - 2018-02-20 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-03-26 : Promulgation d'une loi
