@@ -1,10 +1,6 @@
 # Article Annexe A
 
-ORGANISMES OU
-
-AUTORITÉSdont relèvent les personnes habilitées
-
-|
+ORGANISMES OU AUTORITÉS dont relèvent les personnes habilitées |
 
 PERSONNES HABILITÉES |
 
@@ -64,7 +60,7 @@ Adjoint interarmées de soutien pétrolier |
 
 Sans limitation (3) |
 
-Chef du détachement de liaison du service des essences des armées, à l'étranger |
+Directeurs des détachements du service des essences des armées auprès des commandements permanents interarmées hors du territoire métropolitain |
 
 Sans limitation (3) |
 
@@ -72,7 +68,7 @@ Directeur du centre d'expertise pétrolière interarmées |
 
 MAPA x 20 |
 
-Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
+Chef de détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
 
 MAPA x 7 (4) |
 
@@ -134,7 +130,7 @@ MAPA x 10 |
 
 Divers |
 
-Commandants des formations administratives (5) |
+Commandants des formations administratives autres que les éléments navals (5) |
 
 MAPA x 0,66 |
 
@@ -200,11 +196,11 @@ Sans limitation |
 
 Adjoints du chef du service des achats d'armement |
 
-Sans limitationAutorités |
+Sans limitation |
 
-signataires de marchésMAPA |
+Autorités signataires de marchés |
 
-× 50 |
+MAPA x 50 |
 
 Direction de la stratégie |
 
@@ -230,9 +226,9 @@ Sans limitation |
 
 Divers |
 
-Ministère de l'écologie, du développement durable et de l'énergie |
+Ministère de la transition écologique et solidaire |
 
-Directeur du service national et de la jeunesse d'ingénierie aéroportuaire (6) |
+Directeur du service national d'ingénierie aéroportuaire (6) |
 
 Sans limitation (7) (8) (9) |
 
@@ -250,13 +246,7 @@ Chef du quartier général |
 
 MAPA x 1 (10) |
 
-Service militaire volontaire-volontariat militaire d'insertionCommandement |
-
-du service militaire volontaire-volontariat militaire d'insertionMAPA |
-
-x 10 (11) |
-
-(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
+(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l'article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
@@ -274,8 +264,4 @@ x 10 (11) |
 
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
-
-(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle.
-
-|
+(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté. |
