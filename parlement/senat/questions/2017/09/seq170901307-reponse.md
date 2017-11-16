@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901307
+
+- Question : [SEQ170901307](seq170901307.md) — Cérémonie du souvenir du camp d'Aincourt
+
+## Réponse
+
+*Armées (Mme la SE auprès de la ministre), JO du 2017-11-16, page 3572*
+
+Le ministère des armées a notamment pour mission de préserver et d'entretenir la mémoire des conflits contemporains. À ce titre, il peut être amené à soutenir financièrement, sous la forme de subventions, les projets portés par des associations ou des collectivités ayant pour finalité la transmission de notre mémoire nationale. La cérémonie organisée chaque année par l'association « Mémoire d'Aincourt » au sein du Groupement hospitalier intercommunal (GHI) du Vexin, en souvenir des internés du camp d'Aincourt, s'inscrit dans ce cadre. Il peut donc être suggéré à cette association d'adresser une demande de subvention à la direction des patrimoines, de la mémoire et des archives (DPMA) du ministère des armées, qui étudiera avec attention cette requête. Par ailleurs, il est précisé que l'expression « lieu de mémoire » est utilisée pour qualifier à la fois des sites bâtis d'intérêt historique, ainsi que des éléments de patrimoine immatériels issus d'un passé commun tels que repères culturels, modes de vie ou langue. Cette appellation n'ayant pas été consacrée par la loi, elle n'emporte aucune protection juridique de l'élément de patrimoine qu'elle désigne. Il est néanmoins rappelé qu'en ce qui les concerne, les bâtiments de l'ancien sanatorium d'Aincourt ont fait l'objet d'une inscription au titre des monuments historiques en février 1999. Ils bénéficient d'ores et déjà de ce fait d'une mesure de protection de la part de l'État. Enfin, il est souligné que la valorisation mémorielle de cet ancien sanatorium pourrait être, en accord avec le propriétaire du site, directement prise en charge par des acteurs locaux intéressés (collectivités locales ou associations) susceptibles d'être accompagnés dans leur démarche par la DPMA.
