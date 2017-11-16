@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170800942
+
+- Question : [SEQ170800942](seq170800942.md) — Tiers payant généralisé
+
+## Réponse
+
+*Solidarités et santé, JO du 2017-11-16, page 3588*
+
+Le tiers payant, créé initialement en faveur des bénéficiaires de la couverture maladie universelle complémentaire et des personnes prises en charge au titre du régime des accidents du travail et maladies professionnelles, a été étendu, dans un objectif d'amélioration de l'accès aux soins, aux bénéficiaires de l'aide au paiement d'une assurance complémentaire de santé, puis aux personnes atteintes d'une affection de longue durée et à celles couvertes au titre de l'assurance maternité. Depuis le 1er janvier 2017, les professionnels de santé peuvent proposer, sur la base du volontariat, la dispense d'avance de frais à l'ensemble de la population et devraient, aux termes de la loi, l'appliquer systématiquement à compter du 30 novembre 2017. Des engagements ont été pris pour améliorer la facturation en ville, offrir aux professionnels une garantie de paiement claire et lisible et assurer le respect des délais de paiement par les organismes d'assurance obligatoire. Cependant, la mise en place du tiers payant soulève encore certaines difficultés pratiques pour les professionnels de santé dont il convient de prendre la pleine mesure. Aussi, la ministre des solidarités et de la santé a saisi l'inspection générale des affaires sociales le 5 juillet 2017 d'une mission sur l'évaluation de la généralisation du tiers payant, afin d'expertiser la simplicité, la rapidité et la fiabilité de la dispense d'avance de frais par les professionnels de santé. Les conclusions de la mission sont attendues prochainement et permettront d'en tirer les conséquences quant aux modalités appropriées de la généralisation du tiers payant, notamment son caractère obligatoire ou non.
