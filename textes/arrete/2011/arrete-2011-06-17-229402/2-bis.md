@@ -26,4 +26,6 @@ Ecole nationale supérieure de techniques avancées ;
 
 Ecole nationale supérieure de technique avancées Bretagne ;
 
-Etablissement de communication et de production audiovisuelle de la défense.
+Etablissement de communication et de production audiovisuelle de la défense ;
+
+Conseil national des communes “Compagnon de la Libération”.
