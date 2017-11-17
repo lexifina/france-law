@@ -1,257 +1,211 @@
 # Article Annexe 4
 
-LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE
+Liste des sociétés installatrices habilitées pour l'installation et le contrôle
 
-DE FONCTIONNEMENT DES APPAREILS AIS INTÉRIEUR
-
-|
-
-SOCIÉTÉ
+de fonctionnement des appareils AIS Intérieur
 
 |
 
-ADRESSE
+SOCIÉTÉ |
 
-|
+ADRESSE |
 
-TYPES D'APPAREILS AGRÉÉS (*)
+TYPES D'APPAREILS AGRÉÉS (*) |
 
-|
+1 |
 
-1
+AEMI |
 
-|
+56, avenue Pierre Berthelot-14000 Caen |
 
-AEMI
+Furuno, OceanSat |
 
-|
+2 |
 
-56, avenue Pierre-Berthelot-14000 Caen
+ALPHATRON MARINE FRANCE |
 
-|
+Route Industrielle, Centre Routier,
 
-Furuno, OceanSat
+ZI Portuaire,
 
-|
+76700 Gonfreville l'Orcher |
 
-2
+em-trak A100 Combined Class A/ Inland AIS Transceiver (R-4-308) |
 
-|
+3 |
 
-ATEYS
+ATEYS |
 
-|
+35, rue de Valmy-
 
-35, rue de Valmy-76600 Le Havre
-
-|
+76600 Le Havre |
 
 Nauticast, Furuno, Comnav,
 
-Sailor 6280-6281 AIS system
+Sailor 6280-6281 AIS system (classA/ Inland AIS) |
 
-(classA/inland AIS)
+4 |
 
-|
+BARILLEC SAS |
 
-3
+ZI du Moros-
 
-|
+29990 Concarneau |
 
-BARILLEC SAS
+OceanSat |
 
-|
+5 |
 
-ZI du Moros-29990 Concarneau
+CLAUDIN SERVICE |
 
-|
+41, avenue Henri Barbusse-
 
-OceanSat
+69250 Albigny-sur-Saône |
 
-|
+Orolia type Z 601, Mc Murdo Smartfind M5 Class A/ Inland AIS |
 
-4
+6 |
 
-|
+DISCOUNT MARINE |
 
-CLAUDIN SERVICE
+12, rue Liot-BP 114
 
-|
+92106 Boulogne Billancourt |
 
-41, avenue Henri-Barbusse-69250 Albigny-sur-Saône |
+em-trak A100 Combined Class A/ Inland AIS Transceiver (R-4-308) |
 
-Orolia type Z 601,
+7 |
 
-Mc Murdo Smartfind M5 Class A/inland AIS
+Établissement Max Guerdin et fils |
 
-|
+13, rue de Clermont-
 
-5
+60200 Compiègne |
 
-|
+OceanSat |
 
-Etablissement Max Guerdin et fils
+8 |
 
-|
+FLUVIAL ELEC |
 
-13, rue de Clermont-60200 Compiègne
+4, Quai Fernand Saguet-
 
-|
-
-OceanSat
-
-|
-
-6
-
-|
-
-ETNA
-
-|
-
-31, rue des Ponts-76620 Le Havre
-
-|
-
-JRC Japon
-
-|
-
-7
-
-|
-
-FLUVIAL ELEC
-
-|
-
-4, quai Fernand-Saguet-94700 Maisons Alfort
-
-|
+94700 Maisons Alfort |
 
 OceanSat
 
-|
+Em-track A 100 Combined Class
 
-8
+A/ inland AIS Transceiver |
 
-|
+9 |
 
-FLUVIATECH
+FLUVIATECH |
 
-|
+4, rue Jules Verne-
 
-4, rue Jules-Verne-Eurozone Forbach-57600 Forbach
+Eurozone Forbach-
 
-|
+57600 Forbach |
 
 Simrad V5035
 
-(class A/inland AIS)
+(class A/ Inland AIS) |
 
-|
+10 |
 
-9
+GH2E |
 
-|
+3, rue Sophie Germain-
 
-G2HE
+75014 Paris |
 
-|
+OceanSat |
 
-3, rue Sophie-Germain-75014 Paris
+11 |
 
-|
+LORRAINE NAUTISME |
 
-OceanSat
+2, rue des Alliés-57050 Metz |
 
-|
+Orolia type Z601,
 
-10
+Mc Murdo Smartfind M5
 
-|
+Class A/ Inland AIS |
 
-MAP Marine
+12 |
 
-|
+MAP Marine |
 
-1, quai de la Grande-Bigue-Bat B.-13002 Marseille
+1, Quai de la Grande Bigue-
 
-|
+Bat B.-
 
-Nauticast, Furuno, Transas, Comnav
+13002 Marseille |
 
-|
+Nauticast, Furuno, Transas, Comnav |
 
-11
+13 |
 
-|
+PROMAT SÉCURITÉ |
 
-PROMAT
+68, boulevard Jules Durand-
 
-|
+76056 Le Havre |
 
-68, boulevard Jules-Durand-76056 Le Havre
+Furuno ; OceanSat |
 
-|
+14 |
 
-Furuno, OceanSat
+RADIO HOLLAND FRANCE SAS
 
-|
+(ex ETNA) |
 
-12
+31, rue des ponts-
 
-|
+76620 Le Havre |
 
-SIECMI
+JRC Japon
 
-|
+A2 Inland AIS (Nauticast) transponder
 
-3, quai Est-29900 Concarneau
+R4 IAIS Transponder System |
 
-|
+15 |
 
-Saab R4 IAIS, CNS VDL6000, SRT Comnav Voyager X3
+SIECMI |
 
-|
+3, quai Est-
 
-13
+29900 Concarneau |
 
-|
+Saab R4 IAIS, CNS VDL6000, SRT Comnav Voyager X3 |
 
-Sud Communication
+16 |
 
-|
+Sud Communication |
 
-95, rue Rajol-espace Fréjorgues Est-34130 Mauguio
+95, rue Rajol-
 
-|
+Espace Fréjorgues Est-
 
-ICOM
+34130 Mauguio |
 
-|
+ICOM |
 
-14
+17 |
 
-|
+THEMYS |
 
-THEMYS
+Quartier de la chaume-
 
-|
+CD 45-Pont de l'Etoile-
 
-Quartier de la Chaume-CD 45-pont de l'Etoile-13360 Roquevaire
-
-|
+13360 Roquevaire |
 
 SAM Electronics, Saab R4 IAIS,
 
-Sailor 6280-6281 AIS system
+Sailor 6280-6281 AIS system (classA/ Inland AIS) |
 
-(classA/inland AIS)
-
-|
-
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin.
-
-|
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.

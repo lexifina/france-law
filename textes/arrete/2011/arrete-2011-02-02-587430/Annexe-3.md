@@ -1,157 +1,183 @@
 # Article Annexe 3
 
-LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE
+Liste des sociétés installatrices habilitées pour l'installation et le contrôle
 
-DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
+de fonctionnement des appareils radar et des indicateurs de vitesse de giration
 
 Conformément au modèle donné par la partie VI, lettre D, de l'annexe 3 de l'arrêté du 30 décembre 2008 susvisé, la liste des sociétés installatrices est définie comme suit :
 
 |
 
-SOCIÉTÉ
+SOCIÉTÉ |
 
-|
+ADRESSE |
 
-ADRESSE
+APPAREILS AGRÉÉS POUR LESQUELS l
 
-|
+a société reçoit l'habilitation |
 
-APPAREILS AGRÉÉS POUR LESQUELS
+1 |
 
-la société reçoit l'habilitation
+AEMI |
 
-|
+56, avenue Pierre Berthelot, 14000 Caen |
 
-1
+Appareils radar :
 
-|
+Furuno ; Simrad
 
-AEMI
+Indicateurs de vitesse de giration :
 
-|
+Simrad |
 
-56, avenue Pierre-Berthelot, 14000 Caen
+2 |
 
-|
+ALPHATRON MARINE FRANCE |
 
-Appareils radar : Furuno, Simrad
+Route Industrielle, Centre Routier, ZI Portuaire,
 
-Indicateur de vitesse de giration : Simrad
+76700 Gonfreville l'Orcher |
 
-|
+Appareils radar :
 
-2
+JRC JMA-610 6/7/9 (R-4-015)
 
-|
+Indicateurs de vitesse de giration :
 
-ATEYS
+EBF Kombipilot/ Alphatron-Basictriple (R-4-095) ;
 
-|
+EBF 01a/ Basicturn (R-4-094) ;
 
-35, rue de Valmy, 76600 Le Havre
+Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
 
-|
+Alphaturn 90° MC/ Alphaturn 300° MC (R-4-093) ;
 
-Appareils radar : Furuno, Radio Holland, Radio Zeeland, Swiss radar
+Alphaturn MF (R-4-092) |
 
-Indicateurs de vitesse de giration : Radio Zeeland
+3 |
 
-|
+ATEYS |
 
-3
+35, rue de Valmy,
 
-|
+76600 Le Havre |
 
-GH2E
+Appareils radar :
 
-|
+Furuno ; Radio Holland ; Radio Zeeland ; Swiss radar
 
-3, rue Sophie-Germain, 75014 Paris
+Indicateurs de vitesse de giration :
 
-|
+Radio Zeeland |
 
-Appareils radar : Periskal
+4 |
 
-|
+GH2E |
 
-4
+3, rue Sophie Germain,
 
-|
+75014 Paris |
 
-MAP Marine
+Appareils radar :
 
-|
+Periskal |
 
-1, quai de la Grande-Bigue, bât. B, 13002 Marseille
+5 |
 
-|
+MAP Marine |
 
-Appareils radar : Furuno, Radio Holland
+1, quai de la Grande Bigue, bât. B, 13002 Marseille |
 
-Indicateurs de vitesse de giration : Radio Zeeland
+Appareils radar :
 
-|
+Furuno ; Radio Holland
 
-5
+Indicateurs de vitesse de giration :
 
-|
+Radio Zeeland |
 
-PROMAT
+6 |
 
-|
+PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand, 76056 Le Havre
+68, boulevard Jules Durand, 76056 Le Havre |
 
-|
+Appareils radar :
 
-Appareils radar : Furuno
+JRC JMA-610-6/-7/-9 (Alphatron)
 
-|
+Indicateurs de vitesse de giration :
 
-6
+AlphaTurn River (Alphatron) |
 
-|
+7 |
 
-SIECMI
+RADIO HOLLAND FRANCE SAS |
 
-|
+31, rue des Ponts,
 
-3, quai Est, 29900 Concarneau
+76620 Le Havre |
 
-|
+Appareils radar :
 
-Appareils radar : Radio Holland, Radio Zeeland, Alphatron
+JRC JMA 610-6/-7/-9 (R-4-015) ;
 
-Indicateurs de vitesse de giration : Radio Holland, Radio Zeeland, Alphatron
+FALCON 7216/17/19 (R-4-016) ;
 
-|
+Sigma 7216/17/19 (R-4-017) ;
 
-7
+Furuno RHRS-2014 (R-4-021 ;
 
-|
+JFS-364/ JFS 364 C (R-4-002) ;
 
-Sud Communication
+Swiss Radar Precision Navigator II (R-4-018) ;
 
-|
+Furuno RHRS-2005 RC (R-4-008) ;
 
-95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
+JMA-609/7,/9 (R-4-011)
 
-|
+Indicateurs de vitesse de giration :
 
-Appareils radar : ICOM
+Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
 
-|
+Alpha Turn & Rudder MFC (R-4-091) ; |
 
-8
+8 |
 
-|
+SIECMI |
 
-THEMYS
+3, quai Est,
 
-|
+29900 Concarneau |
 
-Quartier de la chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+Appareils radar :
 
-|
+Radio Holland ; Radio Zeeland ; Alphatron
 
-Appareils radar : SAM Electronics |
+Indicateurs de vitesse de giration :
+
+Radio Holland ; Radio Zeeland ; Alphatron |
+
+9 |
+
+Sud Communication |
+
+95, rue Rajol, Espace Fréjorgues Est,
+
+34130 Mauguio |
+
+Appareils radar :
+
+ICOM |
+
+10 |
+
+THEMYS |
+
+Quartier de la chaume, CD 45, pont de l'Etoile,
+
+13360 Roquevaire |
+
+Appareils radar :
+
+SAM Electronics |
