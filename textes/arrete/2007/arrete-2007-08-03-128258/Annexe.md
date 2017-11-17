@@ -2,16 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 1er octobre 2017 :
-
-Paris-Cancún (Mexique) ;
-
-Paris-Mexico (Mexique).
-
-Jusqu'au 1er novembre 2017 :
-
-Paris-Abidjan (Côte d'Ivoire).
-
 Jusqu'au 31 mars 2018 :
 
 Paris-Agadir (Maroc) ;
@@ -117,3 +107,9 @@ Jusqu'au 31 mai 2022 :
 - Paris-Antananarivo (Madagascar) ;
 
 - Paris-Dakar (Sénégal).
+
+Jusqu'au 31 octobre 2022 :
+
+-Paris-Bamako (Mali) ;
+
+-Paris-Abidjan (Côte d'Ivoire).
