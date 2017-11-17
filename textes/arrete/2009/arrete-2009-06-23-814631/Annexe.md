@@ -220,11 +220,7 @@ Les biologistes médicaux chargés du calcul de risque transmettent à l'Agence 
 
 -s'il a été réalisé, le résultat du caryotype prénatal.
 
-Ces données sont recueillies tous les six mois et mises à la disposition :
-
--de la Fédération française des réseaux de santé en périnatalité ;
-
--des organismes agréés par la Haute Autorité de santé (HAS) pour l'accréditation de la qualité de la pratique professionnelle pour les spécialités concernées par le dépistage et le diagnostic prénatal de la trisomie 21.
+Ces données sont recueillies tous les six mois.
 
 Pour garantir la transmission de l'ensemble des données aux biologistes médicaux :
 
@@ -335,3 +331,7 @@ L'Agence de la biomédecine transmet au moins annuellement :
 7.5. A l'Association des biologistes agréés :
 
 -les résultats ci-dessus mentionnés au paragraphe 7.1.
+
+NOTA :
+
+Conformément à la décision du Conseil d'Etat n° 401212 du 17 novembre 2017 (ECLI:FR:CECHR:2017:401212.20171117), Art. 2 : L’arrêté du 11 mai 2016 modifiant l’arrêté du 23 juin 2009 fixant les règles de bonnes pratiques en matière de dépistage et de diagnostic prénatals avec utilisation des marqueurs sériques maternels de la trisomie 21 est annulé en tant qu’il comporte, au point 4.3 inséré à l’annexe de l’arrêté du 23 juin 2009, les mots " et mises à la disposition : / - de la Fédération française des réseaux de santé en périnatalité ; / - des organismes agréés par la Haute Autorité de santé (HAS) pour l’accréditation de la qualité de la pratique professionnelle pour les spécialités concernées par le dépistage et le diagnostic prénatal de la trisomie 21 ".
