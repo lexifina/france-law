@@ -1,0 +1,21 @@
+# Article 1er
+
+Les dispositions de l'article 26 sont abrogées et remplacées par les dispositions suivantes :
+
+Chaque semaine le salarié a droit à un jour de repos à prendre le dimanche.
+
+Le repos hebdomadaire est une disposition obligatoire pour tout salarié. Il doit être d'au moins 24 heures consécutives durant chaque période de 7 jours de travail. Il se cumule avec le repos quotidien de 11 heures minimum. Le repos hebdomadaire s'applique à tout salarié dès lors qu'il a travaillé plus de 6 jours consécutifs.
+
+Lorsque les nécessités de la profession l'imposent :
+
+–   le travail du dimanche peut être admis par roulement, les salariés concernés (lads, garçons de cour) devant prendre leur repos hebdomadaire le dimanche au moins un dimanche sur deux ;
+
+–   le repos hebdomadaire peut être pris un autre jour que le dimanche pour les salariés expressément volontaires pour emmener les chevaux aux courses, sur des périodes de 3 mois, sous réserve :
+
+–   que ce jour de repos tombe le dimanche au moins une fois sur quatre et sans que le nombre de dimanches travaillés puisse excéder 35 dimanches par an ;
+
+–   qu'un engagement des deux parties sur les dimanches travaillés, soit fixé par accord écrit 1 mois avant le début de chaque période successive de 3 mois.
+
+Dans ce cas, les salariés concernés (3 dimanches travaillés sur 4) bénéficieront toutes les 4 semaines de 1 demi-journée de repos complémentaire.
+
+Le refus de travailler le dimanche pour un salarié ne constitue pas une faute ou un motif de licenciement.
