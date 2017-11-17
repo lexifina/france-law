@@ -487,5 +487,3 @@ La phase pédagogique débute par un exposé du candidat portant sur le projet o
 Cet exposé, qui dure au maximum quinze minutes, est suivi d'un entretien qui doit permettre d'apprécier l'aptitude du candidat à réagir aux questions qui lui sont posées, la maîtrise de sa discipline et la qualité de sa réflexion pédagogique.
 
 Durée : cinq heures (phase de conception et d'organisation sous forme écrite : trente minutes ; phase de transformation et de réalisation : trois heures et trente minutes ; phase pédagogique : une heure) ; coefficient 2.
-
-Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
