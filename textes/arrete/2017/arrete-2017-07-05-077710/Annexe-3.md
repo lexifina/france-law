@@ -56,4 +56,28 @@ Arrêtés définissant les réseaux routiers départementaux " TE72 " :
 
 - arrêté préfectoral du 1er juin 2017 définissant les réseaux routiers " 120 tonnes ", " 94 tonnes " et " 72 tonnes " du département de la Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
 
+-arrêté n° 2017-14 du 8 juin 2017 définissant les réseaux routiers “ 120 tonnes ” et “ 72 tonnes ” du département de la Manche accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
 - arrêté préfectoral du 9 juin 2017 définissant les réseaux routiers " 120 tonnes ", " 94 tonnes " et " 72 tonnes " du département de l'Aisne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées.
+
+-arrêté NOR 2360-17-100 du 20 juin 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Orne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté du 10 juillet 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Doubs accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté du 21 juillet 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Jura accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté du 2 août 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” dans le département du Calvados accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté n° 2017-1-935 du 2 août 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Cher accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté n° 337/2017 du 22 août 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Vosges accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté du 23 août 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Seine-Maritime accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et gabarit maximales, et des prescriptions associées ;
+
+-arrêté préfectoral n° 71-2017-09-05-007 du 5 septembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” de Saône-et-Loire accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté n° 90-2017-09-14-007 du 11 septembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Territoire de Belfort accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté préfectoral n° 58-2017-09-18-003 du 18 septembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” de la Nièvre accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté du 20 septembre 2017 définissant les réseaux routiers du département du Morbihan accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées.
