@@ -2020,29 +2020,31 @@ Quelle que soit la capacité
 
 |
 
-Détergents et savons (fabrication de ou à base de) :
-
-1. Fabrication industrielle par transformation chimique
+Détergents et savons (fabrication de ou à base de) à l'exclusion des activités classées au titre de la rubrique 3410.
 
 |
 
-A
+|
 
 |
 
-3
+|
 
 |
 
-1. Quelle que soit la capacité
+La capacité de production étant :
 
 |
 
-6
+|
 
 |
 
-2. Autres fabrications industrielles
+|
+
+|
+
+a) Supérieure à 50 t/ j
 
 |
 
@@ -2054,23 +2056,15 @@ A
 
 |
 
-2. Quelle que soit la capacité
+|
 
 |
 
-2
-
 |
 
-3. Fabrications non industrielles
+b) Supérieure ou égale à 1 t/ j mais inférieure ou égale à 50 t/ j |
 
-La capacité de production étant supérieure ou égale à 1 t/j
-
-|
-
-D
-
-|
+D |
 
 |
 
@@ -3562,9 +3556,7 @@ Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visé
 
 La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes |
 
-E
-
-|
+E |
 
 |
 
@@ -3584,9 +3576,7 @@ E
 
 La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg |
 
-A
-
-|
+A |
 
 3 |
 
@@ -4360,9 +4350,7 @@ A
 
 |
 
-2
-
-|
+2 |
 
 |
 
@@ -4540,13 +4528,9 @@ c) Non soumis à la taxe
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
 
