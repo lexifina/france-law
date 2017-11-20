@@ -260,14 +260,6 @@ Articles R. 411-6 à R. 411-14 |
 
 4 mois |
 
-Autorisation pour les activités énumérées à l'article L. 412-1, à l'exception des demandes d'autorisation de détention dans une installation d'élevage d'agrément |
-
-Article L. 412-1
-
-Article R. 412-2 |
-
-|
-
 Certificat de capacité pour l'entretien des animaux d'espèces non domestiques |
 
 Article L. 413-2 |
