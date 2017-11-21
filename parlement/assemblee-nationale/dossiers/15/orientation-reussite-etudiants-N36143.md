@@ -1,0 +1,70 @@
+# Orientation et réussite des étudiants
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36143
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/orientation_reussite_etudiants
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-193.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-22 : 1er dépôt d'une initiative. (PRJLANR5L15B0391)
+  - 2017-11-22 : Etude d'impact (ETDIANR5L15B0391)
+  - 2017-11-22 : Avis du Conseil d'Etat (AVCEANR5L15B0391)
+  - 2017-11-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-22 : Renvoi en commission au fond
+      - 2017-11-22 : Nomination de rapporteur
+      - 2017-12-05 : Réunion de commission
+      - 2017-12-05 : Réunion de commission
+      - 2017-12-12 : Réunion de commission
+      - 2017-12-06 : Dépôt de rapport (RAPPANR5L15B0446, PRJLANR5L15BTC0446)
+    - Travaux d'une commission saisie pour avis
+      - 2017-11-23 : Saisine pour avis d'une commission
+      - 2017-11-21 : Nomination de rapporteur
+      - 2017-11-21 : Réunion de commission
+      - 2017-12-05 : Réunion de commission
+      - 2017-12-05 : Dépôt de rapport (AVISANR5L15B0436)
+  - Discussion en séance publique
+    - 2017-12-12 : Discussion en séance publique
+    - 2017-12-12 : Discussion en séance publique
+    - 2017-12-13 : Discussion en séance publique
+    - 2017-12-13 : Discussion en séance publique
+    - 2017-12-14 : Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-12-20 : Dépôt d'une initiative en navette (PRJLSNR5S299B0193)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-01-24 : Dépôt de rapport (RAPPSNR5S299B0241, PRJLSNR5S299BTC0242)
+    - Travaux d'une commission saisie pour avis
+      - 2017-12-06 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-01-23 : Dépôt de rapport (AVISSNR5S299B0233)
+  - Discussion en séance publique
+    - 2018-02-07 : Discussion en séance publique
+    - 2018-02-08 : Discussion en séance publique
+    - 2018-02-08 : Décision
+- Commission Mixte Paritaire
+  - 2018-02-09 : Dépôt d'un projet de loi (PRJLANR5L15B0660)
+  - 2018-02-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-02-13 : Nomination de rapporteur
+    - 2018-02-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B0663, PRJLANR5L15BTC0663)
+    - 2018-02-13 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0294, PRJLSNR5S299BTC0295)
+  - Discussion en séance publique
+    - 2018-02-15 : Décision
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+  - 2018-02-13 : Décision de la CMP
+- Conseil constitutionnel
+  - 2018-02-23 : Saisine du conseil constitutionnel
+  - 2018-03-08 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-03-08 : Promulgation d'une loi
