@@ -1,0 +1,51 @@
+# Adaptation au droit de l'UE dans le domaine de la sécurité
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36157
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/adaptation_droit_ue_securite
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-105.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-22 : 1er dépôt d'une initiative. (PRJLSNR5S299B0105)
+  - 2017-11-22 : Etude d'impact (ETDISNR5S299B0105)
+  - 2017-11-22 : Avis du Conseil d'Etat (AVCESNR5S299B0105)
+  - 2017-11-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2017-12-13 : Dépôt de rapport (RAPPSNR5S299B0161, PRJLSNR5S299BTC0162)
+  - Discussion en séance publique
+    - 2017-12-19 : Discussion en séance publique
+    - 2017-12-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-12-20 : Dépôt d'une initiative en navette (PRJLANR5L15B0530)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-20 : Renvoi en commission au fond
+      - 2017-12-13 : Nomination de rapporteur
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-17 : Dépôt de rapport (RAPPANR5L15B0554, PRJLANR5L15BTC0554)
+  - Discussion en séance publique
+    - 2018-01-31 : Discussion en séance publique
+    - 2018-01-31 : Discussion en séance publique
+    - 2018-01-31 : Décision
+- Commission Mixte Paritaire
+  - 2018-02-01 : Dépôt d'un projet de loi (PRJLSNR5S299B0270)
+  - 2018-02-01 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-02-05 : Nomination de rapporteur
+    - 2018-02-06 : Dépôt du rapport d'une CMP (RAPPANR5L15B0634, PRJLANR5L15BTC0634)
+    - 2018-02-06 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0274, PRJLSNR5S299BTC0275)
+  - Discussion en séance publique
+    - 2018-02-14 : Discussion en séance publique
+    - 2018-02-14 : Décision
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+  - 2018-02-06 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-02-26 : Promulgation d'une loi
