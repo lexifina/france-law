@@ -12,7 +12,7 @@ Lille (59), Beauvais (60), Calais (62) |
 
 Direction zonale de la police aux frontières du Sud |
 
-Montgenèvre (05), Nice (06), Port-la-Nouvelle (11), Marseille (13), Nîmes (30), Toulouse (31), Montpellier (34), Perpignan (66), Toulon (83), Avignon (84), Ajaccio (2A), Bastia (2B) |
+Montgenèvre (05), Nice (06), Marseille (13), Nîmes (30), Toulouse (31), Montpellier (34), Perpignan (66), Toulon (83), Avignon (84), Ajaccio (2A), Bastia (2B) |
 
 Direction zonale de la police aux frontières de l'Est |
 
