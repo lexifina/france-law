@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170800925
+
+- Question : [SEQ170800925](seq170800925.md) — Scooters des mers
+
+## Réponse
+
+*Transports, JO du 2017-11-23, page 3696*
+
+Les véhicules nautiques à moteur (VNM), engins de type « scooter de mer » ou « moto marine » sont, comme l'ensemble des bateaux de plaisance, soumis à de strictes exigences de conformité concernant notamment les émissions gazeuses et sonores, requises pour leur mise sur le marché dans l'Union européenne. Concernant leur location, deux cas peuvent se rencontrer : la location dans le cadre de l'initiation et la randonnée accompagnée : l'entreprise proposant cette prestation est agréée par le préfet de département après instruction des dossiers par les directions départementales des territoires et de la mer (DDTM). Ces initiations et randonnées s'effectuent sur des parcours validés par les services de l'État, et les stagiaires sont accompagnés de moniteurs spécialisés. En cas de manquement à la réglementation ou aux règles de sécurité, l'agrément peut être suspendu ou retiré ; la location destinée aux titulaires du permis de conduire les navires de plaisance : comme pour les locations de navires, ce type de location n'est pas soumis à agrément, mais le loueur a l'obligation de tenir à disposition de l'administration un registre spécial concernant les machines mises à la disposition du public. La navigation de ces VNM s'effectue comme ceux des particuliers, en respectant le balisage mis en place qui interdit la navigation dans les zones réservées à la baignade. Dans tous les cas, la vitesse dans la bande littorale des 300 mètres est limitée à 5 nœuds. Dans ces deux cas de location, c'est le maire de la commune qui décide ou non de l'opportunité d'accorder une autorisation d'occupation temporaire (AOT) du domaine public à une société de location sur le territoire relevant de son autorité.
