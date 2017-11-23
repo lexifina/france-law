@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700712
+
+- Question : [SEQ170700712](seq170700712.md) — Mariage de personnes de même sexe et loi personnelle
+
+## Réponse
+
+*Justice, JO du 2017-11-23, page 3687*
+
+L'article 202-1 du code civil, issu de la loi du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe, dispose que les conditions de fond du mariage sont régies, pour chacun des époux, par sa loi personnelle mais que deux personnes de même sexe ne peuvent contracter mariage que lorsque, pour au moins l'une d'elles, soit sa loi personnelle, soit la loi de l'État de résidence, l'autorise. La Cour de cassation a toutefois dû préciser la portée de cette règle dans l'hypothèse où l'un des membres du couple ressortit d'un pays étranger, lié à la France par une convention bilatérale dont les dispositions renvoient, en matière de mariage, à la seule loi personnelle de l'époux prohibant le mariage entre personnes de même sexe. Dans un arrêt du 28 janvier 2015, elle a ainsi écarté la loi marocaine, désignée comme applicable par la convention franco-marocaine, dont l'article 4 précise que la loi de l'un des deux États parties peut être écartée par les juridictions de l'autre, si elle est manifestement incompatible avec l'ordre public. Tel est le le cas dès lors que, pour au moins l'un des époux, la loi française permet le mariage entre personnes de même sexe. Afin que toutes les conséquences soient tirées de cette décision, une dépêche du garde des sceaux a été diffusée aux parquets généraux le 5 août 2016, invitant les parquets à ne plus s'opposer à ce type de mariage dès lors que les conditions de l'article 202-1 du code civil sont réunies, y compris lorsque l'un des époux est originaire de l'un des pays avec lesquels la France a passé des conventions bilatérales (Algérie, Cambodge, Kosovo, Laos, Macédoine, Maroc, Monténégro, Pologne, Serbie, Slovénie, Tunisie).
