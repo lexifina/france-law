@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001526
+
+- Question : [SEQ171001526](seq171001526.md) — Signalétique des centres des villes
+
+## Réponse
+
+*Intérieur, JO du 2017-11-23, page 3682*
+
+La signalisation implantée en France est définie dans une réglementation nationale (arrêté du 24 novembre 1967 relatif à la signalisation des routes et autoroutes et instruction interministérielle du 22 octobre 1963 sur la signalisation routière). Cette réglementation nationale s'inscrit dans les cadres internationaux, notamment la convention de Vienne et la convention de Genève relative à la signalisation routière. La signalisation des centres des villes en France peut être réalisée à partir de nombreux panneaux existants, tels les panneaux directionnels de type D ou encore les panneaux de signalisation d'information locale. De nombreux panneaux permettent notamment de signaler les principaux services à disposition des usagers (commerces, restaurants, hôtels, points d'information, distributeurs automatiques) ou des lieux à vocation économique ou touristique (jardins remarquables, monument historique, musée, terrain de camping, etc.). À ce jour, il n'est pas prévu de faire évoluer la réglementation pour ajouter un nouveau panneau dédié aux centres des villes grâce à un dessin comportant des cercles concentriques. Le ministre d'État, ministre de l'intérieur et la ministre des transports peuvent toutefois autoriser, suite à réception et instruction d'un dossier de demande élaboré et transmis par le gestionnaire de la voie, en concertation avec l'autorité détentrice du pouvoir de police de la circulation, une expérimentation de signalisation innovante. Cette signalisation fera l'objet d'un suivi et d'un bilan, à la charge du demandeur, pour fournir des éléments d'appréciation sur l'atteinte des objectifs de sécurité routière portés par l'expérimentation.
