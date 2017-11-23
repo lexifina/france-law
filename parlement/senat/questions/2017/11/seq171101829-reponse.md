@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101829
+
+- Question : [SEQ171101829](seq171101829.md) — Revalorisation des retraites agricoles
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2017-11-23, page 3691*
+
+La proposition de loi visant à assurer la revalorisation des pensions de retraites agricoles en France continentale et les outre-mer a été adoptée par l'Assemblée nationale à la fin de la XIVe législature. Elle vise notamment à porter la pension des chefs d'exploitation à carrière complète à 85 % du salaire minimum de croissance (SMIC) net à compter de 2018, donc au-delà de la mesure de 75 % du SMIC mise en œuvre dans sa totalité en 2017. Le Gouvernement estime que la soutenabilité financière d'une telle évolution des retraites agricoles au regard du régime dans sa globalité mériterait d'être précisément étudiée avant d'être mise en œuvre. Pour ce qui concerne le dispositif de revalorisation des pensions de retraite de l'ensemble des chefs d'exploitation en Outre-mer à hauteur de 75 % du SMIC net, sans conditions en termes de carrière ou de durée d'assurance, il remet clairement en question l'unicité du régime de retraite complémentaire obligatoire et conduirait à une rupture d'égalité entre les retraités. Du point de vue du Gouvernement, la nécessaire évolution des retraites agricoles ne peut s'inscrire que dans le cadre du projet de réforme des régimes de retraites annoncé à l'occasion des campagnes présidentielle et législatives. Pour ces raisons, M. le secrétaire d'État, auprès du Premier ministre, chargé des relations avec le Parlement, porte-parole du Gouvernement, indique à Mme la sénatrice que le Gouvernement n'envisage pas d'inscrire cette proposition de loi à l'ordre du jour prioritaire du Sénat, la Haute assemblée ayant la faculté de l'inscrire à l'ordre du jour d'une semaine réservée aux initiatives parlementaires si elle en décide ainsi.
