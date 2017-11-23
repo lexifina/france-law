@@ -8,7 +8,7 @@ Le rapport de contrôle interne mentionné à l'article 22 détaille :
 
 2° Les procédures permettant de vérifier que les activités de l'établissement sont conduites selon les orientations générales délibérées par le conseil d'administration et les procédures permettant de vérifier la conformité des actions mises en œuvre aux dispositions législatives et réglementaires ;
 
-3° Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui concerne l'évaluation de la qualité des actifs et de la gestion actif-passif, le suivi des opérations sur les instruments financiers à terme, pour lesquels le contrôle interne doit tenir compte des dispositions des articles R. 931-44 et R. 931-46 du code de la sécurité sociale, ainsi que l'appréciation des performances des entreprises d'investissement délégataires d'un mandat de gestion ;
+3° Les méthodes utilisées pour assurer la mesure, l'évaluation et le contrôle des placements, en particulier en ce qui concerne l'évaluation de la qualité des actifs et de la gestion actif-passif, le suivi des opérations sur les instruments financiers à terme, pour lesquels le contrôle interne doit tenir compte des dispositions des articles R. 336-2 et R. 336-4 du code des assurances, ainsi que l'appréciation des performances des entreprises d'investissement délégataires d'un mandat de gestion ;
 
 4° Le dispositif interne de contrôle de la gestion des placements, ce qui inclut notamment la répartition interne des responsabilités au sein du personnel, les règles déontologiques, les délégations de pouvoir, la diffusion de l'information, les procédures internes de contrôle ou d'audit ;
 
