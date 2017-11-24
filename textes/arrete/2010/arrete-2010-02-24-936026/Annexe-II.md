@@ -156,6 +156,40 @@ Formamide
 
 |
 
+Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin-3-one [n° ce 247-500-7] et de la 2-méthyl-2h-isothiazol-3-one [n° ce 220-239-6] (3:1)
+
+|
+
+55965-84-9
+
+|
+
+1 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets |
+
+5-Chloro-2-méthyl-isothiazolin-3 (2H)-one
+
+|
+
+26172-55-4
+
+|
+
+0,75 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets
+
+|
+
+2-Méthylisothiazolin-3 (2H)-one
+
+|
+
+2682-20-4
+
+|
+
+0,25 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets
+
+|
+
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
 1. Les jouets ne contiennent pas les substances parfumantes allergisantes suivantes :
