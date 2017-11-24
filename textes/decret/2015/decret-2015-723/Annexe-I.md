@@ -16,9 +16,9 @@ LISTE DES TITRES DE FORMATION PROFESSIONNELLE MARITIMES
 
 - certificat de marin-ouvrier aux cultures marines - Niveau 2
 
-- certificat de patron aux cultures marines - Niveau 1
+- certificat de patron de navire aux cultures marines - Niveau 1
 
-- certificat de patron aux cultures marines - Niveau 2
+- certificat de patron de navire aux cultures marines - Niveau 2
 
 - brevet de chef de quart 500
 
@@ -46,7 +46,7 @@ LISTE DES TITRES DE FORMATION PROFESSIONNELLE MARITIMES
 
 - brevet de capitaine de pêche
 
-2° Les certificats et brevets monovalent à la machine sur les navires armés au commerce, à la plaisance, à la pêche et aux cultures marines sont les suivants :
+2° Les certificats et brevets monovalents à la machine sur les navires armés au commerce, à la plaisance, à la pêche et aux cultures marines sont les suivants :
 
 - certificat de mécanicien
 
@@ -82,9 +82,9 @@ LISTE DES TITRES DE FORMATION PROFESSIONNELLE MARITIMES
 
 - brevet d'officier d'électrotechnicien
 
-- brevet d'officier électronicien et système de la marine marchande
+- brevet d'officier électronicien et systèmes de la marine marchande
 
-3° Les certificats et brevets polyvalents à la machine sur les navires armés au commerce, à la plaisance, à la pêche et aux cultures marines sont les suivants :
+3° Les certificats et brevets polyvalents sur les navires armés au commerce, à la plaisance, à la pêche et aux cultures marines sont les suivants :
 
 - certificat d'aptitude au commandement à la petite pêche
 
@@ -96,7 +96,7 @@ LISTE DES TITRES DE FORMATION PROFESSIONNELLE MARITIMES
 
 - brevet de capitaine 200 pêche
 
-- brevet d'officier chef de quart navire de mer
+- brevet d'officier chef de quart de navire de mer
 
 - brevet de second polyvalent
 

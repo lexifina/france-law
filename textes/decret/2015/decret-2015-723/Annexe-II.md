@@ -6,145 +6,57 @@ Tableau I. - Titres permettant d'exercer des fonctions au pont sur des navires a
 
 |
 
-NAVIRES DE JAUGE BRUTE INFÉRIEURE À 200, ALLANT AU PLUS À 20 MILLES DES CÔTES
+NAVIRES DE JAUGE BRUTE INFÉRIEURE À 200, ALLANT AU PLUS À 20 MILLES DES CÔTES |
 
-|
+NAVIRES DE JAUGE BRUTE INFÉRIEURE À 500, ALLANT AU PLUS À 200 MILLES DES CÔTES |
 
-NAVIRES DE JAUGE BRUTE INFÉRIEURE À 500, ALLANT AU PLUS À 200 MILLES DES CÔTES
-
-|
-
-NAVIRES DE JAUGE BRUTE INFÉRIEURE À 3000
-
-|
+NAVIRES DE JAUGE BRUTE INFÉRIEURE À 3000 |
 
 NAVIRES DE JAUGE BRUTE ÉGALE
 
-OU SUPÉRIEURE À 3000
+OU SUPÉRIEURE À 3000 |
 
-|
-
-Fonction
-
-|
+Fonction |
 
 Officier chargé
 
-du quart à la passerelle
+du quart à la passerelle |
 
-|
+Second capitaine |
 
-Second capitaine
+Capitaine |
 
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
+Officier chargé du quart à la passerelle |
 
 Second
 
-capitaine
+capitaine |
 
-|
+Capitaine |
 
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
+Officier chargé du quart à la passerelle |
 
 Second
 
-capitaine
+capitaine |
 
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Titres
-
-|
-
-Brevet de capitaine 200
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
+Capitaine |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+Officier chargé du quart à la passerelle |
 
-Brevet de chef de quart 500
+Second capitaine |
 
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
+Capitaine |
 
-|
+Titres |
 
-|
+Brevet de capitaine 200 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -152,51 +64,33 @@ X
 
 |
 
-Brevet de capitaine 500
-
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+Brevet de chef de quart 500 |
 
-|
-
-|
+X |
 
 |
 
 |
 
-|
+X |
 
 |
 
 |
 
-Brevet d'officier chef de quart passerelle
-
 |
-
-X
 
 |
 
@@ -204,361 +98,249 @@ X
 
 |
 
-X
-
 |
 
 |
 
-|
+Brevet de capitaine 500 |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
 |
 
 |
-
-Brevet d'officier chef de quart de navire de mer
 
 |
 
-X
-
 |
 
 |
 
 |
-
-X
 
-|
+Brevet d'officier chef de quart passerelle |
 
-|
+X |
 
 |
 
-X
-
 |
 
-|
+X |
 
 |
 
-X
-
 |
 
-|
+X |
 
 |
 
-Brevet de second capitaine 3000
-
 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+Brevet d'officier chef de quart de navire de mer |
 
-|
+X |
 
-X
-
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
-
-X
 
-|
+X |
 
 |
 
 |
 
-|
+X |
 
 |
 
-Brevet de capitaine 3000
-
 |
 
-X
+Brevet de second capitaine 3000 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+Brevet de capitaine 3000 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-Brevet de second capitaine
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
-|
+Brevet de second capitaine |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
 |
 
-X
+X |
 
-|
+X |
 
 |
 
 Brevet de second
 
-polyvalent
+polyvalent |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
 
 |
 
-X
+X |
+
+X |
 
 |
 
-X
+Brevet de capitaine |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-Brevet de capitaine
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 Brevet de capitaine
 
 de première classe
 
-de la navigation maritime
+de la navigation maritime |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 Tableau II. - Titres permettant d'exercer des fonctions au pont sur des navires armés à la plaisance
 
@@ -568,79 +350,45 @@ Tableau II.a. Titres permettant d'exercer des fonctions au pont sur des navires 
 
 NAVIRES DE JAUGE BRUTE INFÉRIEURE À 200,
 
-ALLANT À 60 MILLES DES CÔTES AU PLUS
+ALLANT À 60 MILLES DES CÔTES AU PLUS |
 
-|
+NAVIRES DE JAUGE BRUTE INFÉRIEURE À 500 |
 
-NAVIRES DE JAUGE BRUTE INFÉRIEURE À 500
+NAVIRES DE JAUGE BRUTE INFÉRIEURE À 3000 |
 
-|
+Fonction |
 
-NAVIRES DE JAUGE BRUTE INFÉRIEURE À 3000
-
-|
-
-Fonction
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
+Officier chargé du quart à la passerelle |
 
 Second
 
-capitaine
+capitaine |
 
-|
+Capitaine |
 
-Capitaine
+Officier chargé du quart à la passerelle |
 
-|
+Second capitaine |
 
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
+Capitaine |
 
 Officier chargé du quart
 
-à la passerelle
+à la passerelle |
 
-|
+Second capitaine |
 
-Second capitaine
+Capitaine |
 
-|
+Brevet |
 
-Capitaine
+Brevet de capitaine 200 yacht |
 
-|
+X |
 
-Brevet
+X |
 
-|
-
-Brevet de capitaine 200 yacht
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
@@ -654,21 +402,15 @@ X
 
 |
 
-|
+Brevet de chef de quart 500 yacht |
 
-Brevet de chef de quart 500 yacht
-
-|
-
-X
+X |
 
 |
 
 |
 
-|
-
-X
+X |
 
 |
 
@@ -680,33 +422,19 @@ X
 
 |
 
-|
+Brevet de capitaine 500 yacht |
 
-Brevet de capitaine 500 yacht
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
@@ -714,47 +442,25 @@ X
 
 |
 
-|
+Brevet de capitaine 3000 yacht |
 
-Brevet de capitaine 3000 yacht
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 Les brevets mentionnés dans le tableau I permettent également d'exercer des fonctions opérationnelles et de direction sur les navires armés à la plaisance à propulsion mécanique. Dans ce cas, les prérogatives des titulaires de ces titres sont celles fixées dans le tableau I de la présente annexe pour le brevet considéré.
 
@@ -762,63 +468,37 @@ Tableau II.b. - Titres permettant d'exercer des fonctions au pont sur des navire
 
 |
 
-NAVIRE DE JAUGE BRUTE INFÉRIEURE À 200
+NAVIRE DE JAUGE BRUTE INFÉRIEURE À 200 |
 
-|
+NAVIRE DE JAUGE BRUTE SUPÉRIEURE OU ÉGALE À 200 |
 
-NAVIRE DE JAUGE BRUTE SUPÉRIEURE OU ÉGALE À 200
-
-|
-
-Fonction
-
-|
+Fonction |
 
 Officier chargé du quart
 
-à la passerelle
+à la passerelle |
 
-|
+Second capitaine |
 
-Second capitaine
-
-|
-
-Capitaine
-
-|
+Capitaine |
 
 Officier chargé du quart
 
-à la passerelle
+à la passerelle |
 
-|
+Second capitaine |
 
-Second capitaine
+Capitaine |
 
-|
+Brevet |
 
-Capitaine
+Brevet de capitaine 200 voile |
 
-|
+X |
 
-Brevet
+X |
 
-|
-
-Brevet de capitaine 200 voile
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
+X |
 
 |
 
@@ -826,233 +506,103 @@ X
 
 |
 
-|
+Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions opérationnelles sur navires d'une jauge brute supérieure ou égale à 200 |
 
-Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions opérationnelles sur navires d'une jauge brute supérieure ou égale à 200
-
-|
-
-X2
+X1 |
 
 |
 
 |
 
-|
-
-X3
+X1 |
 
 |
 
 |
 
-|
+Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions de direction sur navires d'une jauge brute supérieure ou égale à 200 |
 
-Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions de direction sur navires d'une jauge brute supérieure ou égale à 200
+X1 |
 
-|
+X1 |
 
-X2
+X1 |
 
-|
+X1 |
 
-X2
+X1 |
 
-|
+X1 |
 
-X2
-
-|
-
-X3
-
-|
-
-X3
-
-|
-
-X3
-
-|
-
-1. Sous réserve de remplir les conditions de formation et de service en mer fixées par arrêté du ministre chargé de la mer.
+1 Sous réserve de remplir les conditions de formation et de service en mer fixées par arrêté du ministre chargé de la mer.
 
 Tableau III. - Titres permettant d'exercer des fonctions au pont sur des navires armés à la pêche
 
 |
 
-NAVIRES DE MOINS DE 9 MÈTRES ARMÉS À LA PETITE PÊCHE - EN 4E OU 5E CATÉGORIE DE NAVIGATION
+Navires de moins de 9 mètres armés à la petite pêche-en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes |
 
-|
-
-NAVIRES ARMÉS À LA PETITE PÊCHE ET NAVIRES ARMÉS À LA PÊCHE CÔTIÈRE OU À LA PÊCHE AU LARGE D'UNE LONGUEUR < À 24 MÈTRES ET ALLANT AU PLUS À 100 MILLES DES CÔTES
-
-|
-
-NAVIRES ARMÉS À LA PÊCHE CÔTIÈRE OU À LA PÊCHE AU LARGE ET :
-
-1. D'UNE LONGUEUR < À 24 MÈTRES ET NAVIGANT EN EAUX ILLIMITÉES ; OU
-
-2. D'UNE LONGUEUR > À 24 MÈTRES ET < À 45 MÈTRES ET ALLANT AU PLUS À 100 MILLES DES CÔTES
-
-|
-
-NAVIRES ARMÉS À LA PÊCHE CÔTIÈRE OU À LA PÊCHE AU LARGE
-
-|
-
-NAVIRES ARMÉS À LA GRANDE PÊCHE
-
-|
-
-Fonction
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Officier chargé du quart à la passerelle
-
-|
-
-Second capitaine
-
-|
-
-Capitaine
-
-|
-
-Titres
-
-|
-
-Certificat d'aptitude au commandement à la petite pêche
-
-|
-
-X
+Navires armés à la petite pêche et navires armés à la pêche côtière ou à la pêche au large d'une longueur < à 24 mètres et allant au plus à 100 milles des côtes |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
+Navires armés à la pêche côtière ou
 
-|
+à la pêche au large et :
 
-|
+1. D'une longueur < à
 
-|
+24 mètres et navigant en
 
-|
+eaux illimitées ; ou
 
-|
+2. D'une longueur
 
-|
+> à 24 mètres et < à 45 mètres et allant au plus à 100 milles des côtes |
 
-|
+Navires armés à la pêche côtière ou à la pêche au large |
 
-|
+Navires armés à la grande pêche |
 
-|
+Fonction |
 
-Brevet de capitaine 200 Pêche
+Officier chargé du quart à la passerelle |
 
-|
+Second capitaine |
 
-X
+Capitaine |
 
-|
+Officier chargé du quart à la passerelle |
 
-X
+Second capitaine |
 
-|
+Capitaine |
 
-X
+Officier chargé du quart à la passerelle |
 
-|
+Second capitaine |
 
-X
+Capitaine |
 
-|
+Officier chargé du quart à la passerelle |
 
-X
+Second capitaine |
 
-|
+Capitaine |
 
-X
+Officier chargé du quart à la passerelle |
 
-|
+Second capitaine |
 
-X
+Capitaine |
 
-|
+Titres |
 
-X
+Certificat d'aptitude au commandement à la petite pêche |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -1064,11 +614,7 @@ X
 
 |
 
-Brevet de lieutenant de pêche
-
 |
-
-X
 
 |
 
@@ -1076,163 +622,139 @@ X
 
 |
 
-X
-
 |
 
 |
 
 |
-
-X
 
-|
+Brevet de capitaine 200 Pêche |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
 |
 
 |
-
-Brevet de patron de pêche
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+Brevet de lieutenant de pêche |
 
-|
+X |
 
-X
-
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+X |
 
 |
 
 |
 
-Brevet de capitaine de pêche
+Brevet de patron de pêche |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
 
-X
+Brevet de capitaine de pêche |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
 Tableau IV. - Titres permettant d'exercer des fonctions à la machine à bord de tout navire
 
@@ -1242,301 +764,61 @@ NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 250 KW3
 
 |
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 750 KW
+NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 750 KW |
 
-|
-
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 3000 KW
-
-|
+NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 3000 KW |
 
 NAVIRES D'UNE PUISSANCE PROPULSIVE
 
-INFÉRIEURE À 8000 KW
-
-|
+INFÉRIEURE À 8000 KW |
 
 NAVIRES D'UNE PUISSANCE PROPULSIVE ÉGALE
 
-OU SUPÉRIEURE À 8000 KW
+OU SUPÉRIEURE À 8000 KW |
 
-|
-
-Fonctions
-
-|
-
-Officier chargé du quart à la machine
-
-|
-
-Second mécanicien
-
-|
-
-Chef mécanicien
-
-|
-
-Officier chargé du quart à la machine
-
-|
-
-Second mécanicien
-
-|
-
-Chef mécanicien
-
-|
-
-Officier chargé du quart à la machine
-
-|
-
-Second mécanicien
-
-|
-
-Chef mécanicien
-
-|
-
-Officier chargé du quart à la machine
-
-|
-
-Second mécanicien
-
-|
-
-Chef mécanicien
-
-|
-
-Officier chargé du quart à la machine
-
-|
-
-Second mécanicien
-
-|
-
-Chef mécanicien
-
-|
-
-Titre
-
-|
-
-Brevet de mécanicien 250 kW
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Brevet de capitaine 200 1
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Brevet de mécanicien 750 kW
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Brevet d'officier chef de quart machine limité à 200 milles des côtes
-
-|
-
-X2
-
-|
-
-|
-
-|
-
-X2
+Fonctions |
 
-|
-
-|
-
-|
-
-X2
-
-|
-
-|
-
-|
-
-X2
-
-|
-
-|
-
-|
-
-X2
-
-|
+Officier chargé du quart à la machine |
 
-|
+Second mécanicien |
 
-|
+Chef mécanicien |
 
-Brevet d'officier chef de quart machine
+Officier chargé du quart à la machine |
 
-|
+Second mécanicien |
 
-X
+Chef mécanicien |
 
-|
+Officier chargé du quart à la machine |
 
-|
+Second mécanicien |
 
-|
+Chef mécanicien |
 
-X
+Officier chargé du quart à la machine |
 
-|
+Second mécanicien |
 
-|
+Chef mécanicien |
 
-|
+Officier chargé du quart à la machine |
 
-X
+Second mécanicien |
 
-|
+Chef mécanicien |
 
-|
+Titre |
 
-|
+Brevet de mécanicien 250 kW |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
 |
-
-X
 
 |
 
@@ -1544,19 +826,13 @@ X
 
 |
 
-Brevet de chef de quart de navire de mer
-
 |
 
-X
-
 |
 
 |
 
 |
-
-X
 
 |
 
@@ -1564,23 +840,19 @@ X
 
 |
 
-X
-
 |
 
-|
+Brevet de capitaine 200 (1) |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
 |
 
 |
-
-X
 
 |
 
@@ -1588,47 +860,33 @@ X
 
 |
 
-Brevet de second mécanicien 3000 kW limité à 200 milles des côtes
-
 |
 
-X2
-
 |
-
-X2
 
 |
 
-X2
-
 |
 
-X2
-
 |
-
-X2
 
 |
 
-X2
-
 |
 
-X2
+Brevet de mécanicien 750 kW |
 
-|
+X |
 
-X2
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -1638,265 +896,201 @@ X2
 
 |
 
-Brevet de chef mécanicien 3000 kW limité à 200 milles des côtes
-
 |
-
-X2
 
 |
 
-X2
-
 |
 
-X2
-
 |
-
-X2
 
 |
 
-X2
+Brevet d'officier chef de quart machine limité à 200 milles des côtes |
 
-|
+X(2) |
 
-X2
-
 |
-
-X2
 
 |
 
-X2
+X(2) |
 
 |
 
-X2
-
 |
 
-|
+X(2) |
 
 |
 
 |
 
-|
+X(2) |
 
 |
 
 |
 
-Brevet de second mécanicien 3000 kW
+X(2) |
 
 |
 
-X
-
 |
-
-X
 
-|
+Brevet d'officier chef de quart machine |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-|
+X |
 
 |
 
 |
 
-|
+X |
 
 |
 
 |
 
-|
+Brevet de chef de quart de navire de mer |
 
-Brevet de chef mécanicien 3000 kW
+X |
 
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-|
+Brevet de second mécanicien 3000 kW limité à 200 milles des côtes |
 
-|
+X(2) |
 
-|
+X(2) |
 
-|
+X(2) |
 
-|
+X(2) |
 
-|
+X(2) |
 
-Brevet de second mécanicien 8000 kW
+X(2) |
 
-|
+X(2) |
 
-X
+X(2) |
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
 
-X
+Brevet de chef mécanicien 3000 kW limité à 200 milles des côtes |
 
-|
+X(2) |
 
-X
+X(2) |
 
-|
+X(2) |
 
-X
+X(2) |
 
-|
+X(2) |
 
-X
+X(2) |
 
-|
+X(2) |
 
-|
+X(2) |
 
-|
+X(2) |
 
 |
 
 |
-
-Brevet de chef mécanicien 8000 kW
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
-X
+Brevet de second mécanicien 3000 kW |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
 |
 
@@ -1904,345 +1098,279 @@ X
 
 |
 
-|
+Brevet de chef mécanicien 3000 kW |
 
-Brevet de second mécanicien
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
 
-X
-
 |
-
-X
 
-|
+Brevet de second mécanicien 8000 kW |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-Brevet de second polyvalent
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
-
 |
 
-X
-
 |
 
-X
+Brevet de chef mécanicien 8000 kW |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
 
 |
-
-X
 
 |
 
-X
+Brevet de second mécanicien |
 
-|
+X |
 
-|
+X |
 
-Brevet de chef mécanicien
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
 
-X
-
-|
+X |
 
-X
+X |
 
 |
 
-X
+Brevet de second polyvalent |
 
-|
+X |
 
-X
-
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
-|
+X |
 
-X
+X |
 
 |
 
-Brevet de capitaine de 1re classe de la navigation maritime
+Brevet de chef mécanicien |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+Brevet de capitaine de 1re classe de la navigation maritime |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-1 Valable également pour les brevets de capitaine voile 200, capitaine yacht 200 et capitaine 200 pêche.
+(1) Valable également pour les brevets de capitaine 200 voile, capitaine 200 yacht et capitaine 200 pêche.
 
-2 Jusqu'à 200 milles des côtes.
+(2) Jusqu'à 200 milles des côtes.
 
-3 Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de chef mécanicien à bord des navires d'une puissance propulsive inférieure à 160 kW.
+(3) Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de chef mécanicien à bord des navires d'une puissance propulsive inférieure à 160 kW.
 
 Tableau V. - Titres permettant d'exercer des fonctions opérationnelles ou d'appui en matière d'électronique et d'électrotechnique à bord de navires de plus de 750 kW
 
-TITRES
+TITRES |
 
-|
+FONCTIONS CORRESPONDANTES À BORD |
 
-FONCTIONS CORRESPONDANTES À BORD
+PRÉROGATIVES |
 
-|
+Brevet d'officier électronicien et système de la marine marchande |
 
-PRÉROGATIVES
+Officier électronicien |
 
-|
+Officier chargé d'assurer à bord d'un navire armé au commerce ou à la pêche, la maintenance de l'ensemble des matériels et équipements électroniques, télématiques, informatiques et des réseaux, ainsi que des installations relatives au SMDSM. |
 
-Brevet d'officier électronicien et système de la marine marchande
+Brevet d'électrotechnicien |
 
-|
+Officier électrotechnicien |
 
-Officier électronicien
+Officier servant à bord d'un navire armé au commerce et à la plaisance d'une puissance propulsive égale ou supérieure à 750 kW, ayant des responsabilités en matière électrotechnique, électronique, et système de commande, en matière d'entretien et de réparation du matériel à bord, ainsi qu'en matière de contrôle de l'exploitation du navire et d'assistance aux personnes à bord. |
 
-|
+Certificat de matelot électrotechnicien |
 
-Officier chargé d'assurer à bord d'un navire armé au commerce ou à la pêche, la maintenance de l'ensemble des matériels et équipements électroniques, télématiques, informatiques et des réseaux, ainsi que des installations relatives au SMDSM.
+Matelot électrotechnicien |
 
-|
-
-Brevet d'électrotechnicien
-
-|
-
-Officier électrotechnicien
-
-|
-
-Officier servant à bord d'un navire armé au commerce et à la plaisance d'une puissance propulsive égale ou supérieure à 750 kW, ayant des responsabilités en matière électrotechnique, électronique, et système de commande, en matière d'entretien et de réparation du matériel à bord, ainsi qu'en matière de contrôle de l'exploitation du navire et d'assistance aux personnes à bord.
-
-|
-
-Certificat de matelot électrotechnicien
-
-|
-
-Matelot électrotechnicien
-
-|
-
-Matelot servant à bord d'un navire armé au commerce et à la plaisance d'une puissance propulsive égale ou supérieure à 750 kW ayant des compétences en matière électrotechnique, électronique, et système de commande, en matière d'entretien et de réparation du matériel à bord, ainsi qu'en matière de contrôle de l'exploitation du navire et d'assistance aux personnes à bord.
-
-|
+Matelot servant à bord d'un navire armé au commerce et à la plaisance d'une puissance propulsive égale ou supérieure à 750 kW ayant des compétences en matière électrotechnique, électronique, et système de commande, en matière d'entretien et de réparation du matériel à bord, ainsi qu'en matière de contrôle de l'exploitation du navire et d'assistance aux personnes à bord. |
 
 Tableau VI. - Titres permettant d'exercer des fonctions d'opérateur des radiocommunications dans le cadre du SMDSM à bord des navires armés au commerce, à la plaisance et à la pêche
 
-TITRES
+TITRES |
 
-|
+FONCTIONS CORRESPONDANTES À BORD |
 
-FONCTIONS CORRESPONDANTES À BORD
+PRÉROGATIVES |
 
-|
+Certificat restreint de radiotéléphoniste du service mobile maritime (CRR) |
 
-PRÉROGATIVES
+Opérateur des radiocommunications. |
 
-|
+Définies par arrêté du ministre chargé de la mer |
 
-Certificat restreint de radiotéléphoniste du service mobile maritime (CRR)
+Certificat spécial d'opérateur (CSO) |
 
-|
-
-Opérateur des radiocommunications.
-
-|
-
-Définies par arrêté du ministre chargé de la mer
-
-|
-
-Certificat spécial d'opérateur (CSO)
-
-|
-
-Opérateur des radiocommunications.
-
-|
+Opérateur des radiocommunications. |
 
 Opérateur des radiocommunications exploitées dans le cadre du SMDSM dans toutes les zones océaniques à bord :
 
@@ -2252,273 +1380,163 @@ Opérateur des radiocommunications exploitées dans le cadre du SMDSM dans toute
 
 - des navires de charge de jauge brute inférieure à 300 ;
 
-- des navires de pêche neufs d'une longueur de référence inférieure à 24 mètres et existants d'une longueur de référence inférieure à 45 mètres.
+- des navires de pêche neufs d'une longueur de référence inférieure à 24 mètres et existants d'une longueur de référence inférieure à 45 mètres. |
 
-|
+Certificat restreint d'opérateur (CRO) |
 
-Certificat restreint d'opérateur (CRO)
+Opérateur des radiocommunications. |
 
-|
+Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans la zone océanique A 1 définie par le règlement annexé à l'arrêté du 23 novembre 1987 modifié. |
 
-Opérateur des radiocommunications.
+Certificat général d'opérateur (CGO) |
 
-|
+Opérateur des radiocommunications. |
 
-Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans la zone océanique A 1 définie par le règlement annexé à l'arrêté du 23 novembre 1987 modifié.
+Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans toutes les zones océaniques. |
 
-|
+Certificat de radioélectronicien de 1re classe du service mobile maritime et du service mobile maritime par satellite (CR1) |
 
-Certificat général d'opérateur (CGO)
+Opérateur des radiocommunications responsable de l'entretien des installations SMDSM. |
 
-|
-
-Opérateur des radiocommunications.
-
-|
-
-Opérateur des radiocommunications à bord d'un navire exploité dans le cadre du SMDSM dans toutes les zones océaniques.
-
-|
-
-Certificat de radioélectronicien de 1re classe du service mobile maritime et du service mobile maritime par satellite (CR1)
-
-|
-
-Opérateur des radiocommunications responsable de l'entretien des installations SMDSM.
-
-|
-
-Opérateur des radiocommunications responsable de l'entretien des installations SMDSM dans toutes les zones océaniques.
-
-|
+Opérateur des radiocommunications responsable de l'entretien des installations SMDSM dans toutes les zones océaniques. |
 
 Tableau VII. - Titres permettant d'exercer les fonctions d'appui à bord des navires armés au commerce, à la plaisance et à la pêche
 
-Tableau VII.a. Titres permettant d'exercer les fonctions de matelot
+Tableau VII.a. Titres permettant d'exercer des fonctions d'appui au pont
 
 |
 
-TOUS LES NAVIRES ARMÉS AU COMMERCE OU À LA PLAISANCE
+TOUS LES NAVIRES ARMÉS AU COMMERCE OU À LA PLAISANCE |
 
-|
+TOUS LES NAVIRES ARMÉS À LA PÊCHE |
 
-TOUS LES NAVIRES ARMÉS À LA PÊCHE
-
-|
-
-Fonction
-
-|
+Fonction |
 
 Fonction d'appui avec ou sans tâches spécialisées à bord de navires de jauge brute inférieure à 500
 
 ou
 
-Fonction d'appui sans tâche spécialisées à bord de navires de jauge brute égale ou supérieure à 500
+Fonction d'appui sans tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500(3) |
 
-|
+Fonction d'appui dans une équipe de quart à bord de navires de jauge brute égale ou supérieure à 500 |
 
-Fonction d'appui dans une équipe de quart à bord de navires de jauge brute égale ou supérieure à 500
+Fonction d'appui avec dans une équipe de quart avec des tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500 |
 
-|
+Fonction d'appui avec ou sans tâches spécialisées(3) |
 
-Fonction d'appui avec dans une équipe de quart avec des tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500
+Titres |
 
-|
+Certificat de matelot pont |
 
-Fonction d'appui avec ou sans tâches spécialisées
-
-|
-
-Titres
-
-|
-
-Certificat de matelot pont
-
-|
-
-X1
+X(1) |
 
 |
 
 |
 
-|
+X(2) |
 
-X2
+Certificat de matelot de quart passerelle |
 
-|
+X |
 
-Certificat de matelot de quart passerelle
-
-|
-
-X
+X |
 
 |
 
-X
+X |
+
+Certificat de marin qualifié pont |
+
+X |
+
+X |
+
+X |
+
+X |
+
+(1) Les brevets mentionnés dans les tableaux I et II permettent également d'exercer les prérogatives associées au certificat de matelot pont à bord des navires armés au commerce, à la plaisance et à la pêche.
+
+(2) Les brevets mentionnés dans le tableau III permettent également d'exercer les prérogatives associées au certificat de matelot pont à bord des navires armés à la pêche.
+
+(3) Les titres mentionnés dans les tableaux IV et VII. b permettent également d'exercer des fonctions d'appui au pont à bord des navires armés au commerce, à la plaisance et à la pêche.
+
+Tableau VII.b. Titres permettant d'exercer des fonctions d'appui à la machine
 
 |
 
-|
+TOUS LES NAVIRES ARMÉS AU COMMERCE OU À LA PLAISANCE |
 
-X
+TOUS LES NAVIRES ARMÉS À LA PÊCHE |
 
-|
-
-Certificat de marin qualifié pont
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1 Les brevets mentionnés dans les tableaux I et II permettent également d'exercer les prérogatives associées au certificat de matelot pont à bord des navires armés au commerce et à la pêche.
-
-2 Les brevets mentionnés dans le tableau III permettent également d'exercer les prérogatives associées au certificat de matelot pont à bord des navires armés à la pêche.
-
-Tableau VII.b. Titres permettant d'exercer les fonctions de mécanicien
-
-|
-
-TOUS LES NAVIRES ARMÉS AU COMMERCE OU À LA PLAISANCE
-
-|
-
-TOUS LES NAVIRES ARMÉS À LA PÊCHE
-
-|
-
-Fonction
-
-|
+Fonction |
 
 Fonction d'appui avec ou sans tâches spécialisées à bord de navires de puissance propulsive inférieure à 750 kW
 
 ou
 
-Fonction d'appui sans tâche spécialisées à bord de navires de puissance propulsive égale ou supérieure à 750 kW
+Fonction d'appui sans tâches spécialisées à bord de navires de puissance propulsive égale ou supérieure à 750 kW |
 
-|
+Fonction d'appui dans une équipe de quart à bord de navires d'une puissance propulsive égale ou supérieure à 750 kW |
 
-Fonction d'appui dans une équipe de quart à bord de navires d'une puissance propulsive égale ou supérieure à 750 kW
+Fonction d'appui avec dans une équipe de quart avec des tâches spécialisées à bord de navires d'une puissance propulsive égale ou supérieure à 750 kW |
 
-|
+Fonction d'appui avec ou sans tâches spécialisées |
 
-Fonction d'appui avec dans une équipe de quart avec des tâches spécialisées à bord de navires d'une puissance propulsive égale ou supérieure à 750 kW
+Titres |
 
-|
+Certificat de mécanicien |
 
-Fonction d'appui avec ou sans tâches spécialisées
-
-|
-
-Titres
-
-|
-
-Certificat de mécanicien
-
-|
-
-X3
+X4 |
 
 |
 
 |
 
-|
+X4 |
 
-X3
+Certificat de mécanicien de quart machine |
 
-|
+X |
 
-Certificat de mécanicien de quart machine
-
-|
-
-X
+X |
 
 |
 
-X
+X |
 
-|
+Certificat de marin qualifié machine |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-Certificat de marin qualifié machine
+X |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-3 Les brevets mentionnés dans le tableau IV permettent également d'exercer les prérogatives associées au certificat de mécanicien à bord des navires armés au commerce, à la plaisance et à la pêche.
+4 Les brevets mentionnés dans le tableau IV permettent également d'exercer les prérogatives associées au certificat de mécanicien à bord des navires armés au commerce, à la plaisance et à la pêche.
 
 Tableau VIII. - Titres permettant d'exercer des fonctions sur des navires armés aux cultures marines
 
-Fonctions
+Fonctions |
 
-|
+Matelot à bord des navires armés aux cultures marines |
 
-Matelot à bord des navires armés aux cultures marines
+Conduite des navires conchylicoles d'une jauge brute égale ou inférieure à 10 utilisés à des activités exclusivement conchylicoles |
 
-|
-
-Conduite des navires conchylicoles d'une jauge brute égale ou inférieure à 10 utilisés à des activités exclusivement conchylicoles
-
-|
-
-Conduite des navires de charge armés aux cultures marines n'effectuant qu'une navigation diurne en eaux abritées, de longueur inférieure à 24 mètres, de puissance motrice inférieure à 250 kW, la décision d'appareillage étant sous la responsabilité du chef d'exploitation
-
-|
+Conduite des navires de charge armés aux cultures marines n'effectuant qu'une navigation diurne en eaux abritées, de longueur inférieure à 24 mètres, de puissance motrice inférieure à 250 kW, la décision d'appareillage étant sous la responsabilité du chef d'exploitation |
 
 Patron à bord des navires armés aux cultures marines de longueur inférieure :
 
 - à 24 mètres pour les navires de charge ;
 
-- à 12 mètres pour les dragues
+- à 12 mètres pour les dragues |
 
-|
+Patron à bord des navires armés aux cultures marines de longueur inférieure à 24 mètres |
 
-Patron à bord des navires armés aux cultures marines de longueur inférieure à 24 mètres
-
-|
-
-Titres1
+Titres(1) |
 
 |
 
@@ -2530,15 +1548,9 @@ Titres1
 
 |
 
-|
+Certificat de matelot |
 
-Certificat de matelot
-
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2550,13 +1562,9 @@ X
 
 Certificat de matelot de quart
 
-passerelle
+passerelle |
 
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2568,13 +1576,9 @@ X
 
 Certificat de marin qualifié
 
-passerelle
+pont |
 
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2584,13 +1588,9 @@ X
 
 |
 
-Certificat de marin-ouvrier aux cultures marines - Niveau 1
+Certificat de marin-ouvrier aux cultures marines - Niveau 1 |
 
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2602,15 +1602,11 @@ X
 
 Certificat d'aptitude à la conduite des moteurs des navires
 
-conchylicoles.
+conchylicoles. |
 
-|
+X |
 
-X
-
-|
-
-X
+X |
 
 |
 
@@ -2618,23 +1614,13 @@ X
 
 |
 
-|
+Certificat de marin-ouvrier aux cultures marines - Niveau 2 |
 
-Certificat de marin-ouvrier aux cultures marines - Niveau 2
+X |
 
-|
+X |
 
-X
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2644,25 +1630,15 @@ Certificat de patron de navire
 
 aux cultures marines -
 
-Niveau 1
+Niveau 1 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 |
 
@@ -2670,76 +1646,40 @@ Certificat de patron de navire
 
 aux cultures marines -
 
-Niveau 2
+Niveau 2 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+Capitaine 200 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-Capitaine 200
+Capitaine 200 pêche |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-Capitaine 200 pêche
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1 Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de matelot à bord des navires armés aux cultures marines et des fonctions de patron à bord des navires de moins de 9 mètres armés aux cultures marines en 4e ou 5e catégorie de navigation.
+(1) Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de matelot à bord des navires armés aux cultures marines et des fonctions de patron à bord des navires de moins de 9 mètres armés aux cultures marines en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes.
