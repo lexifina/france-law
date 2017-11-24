@@ -28,8 +28,6 @@ VISITE MÉDICALE DE LA SIXIÈME ANNÉE
 
 - transmission aux parents des conclusions de ces examens et dépistages incluant, le cas échéant, des recommandations, des conseils ou des demandes d'investigations complémentaires ainsi que, en tant que de besoin, la remise d'un courrier à l'attention du médecin traitant. Le médecin qui l'effectue veille au respect de la confidentialité de cette transmission ;
 
-- mise à disposition des données issues de cette visite aux personnels de l'éducation nationale en charge du suivi de l'élève concerné, dans le respect du secret professionnel ;
-
 - rencontre avec l'enseignant de l'élève et le directeur d'école afin de faire le point sur le suivi et l'accompagnement pédagogique à mettre en place dans le cadre de la réussite scolaire.
 
 Cette liste n'est pas limitative. Chaque professionnel de santé, dans le cadre de ses compétences, poursuivra les examens en fonction des constatations qu'il aura effectuées.
@@ -37,3 +35,7 @@ Cette liste n'est pas limitative. Chaque professionnel de santé, dans le cadre 
 (1) Article L. 2112-5 du code de la santé publique susvisé et arrêté du 18 août 1997 pris pour son application relatif au modèle d'imprimé servant à établir le dossier médical de liaison entre le service départemental de protection maternelle et infantile et le service de promotion de la santé en faveur des élèves pour les enfants suivis en école maternelle.
 
 (2) Calendrier des vaccinations publié par le ministère chargé de la santé et consultable sur www.sante.gouv.fr.
+
+NOTA :
+
+Conformément à l'article 1er de la décision du Conseil d'Etat, n° 395858 du 24 novembre 2017, l'arrêté du 3 novembre 2015 est annulé en ce qu'il comporte à ses annexes I et II la disposition suivante : " -mise à disposition des données issues de cette visite aux personnels de l'éducation nationale en charge du suivi de l'élève concerné, dans le respect du secret professionnel ;".

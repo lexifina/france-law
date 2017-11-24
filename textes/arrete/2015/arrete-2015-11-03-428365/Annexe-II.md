@@ -24,10 +24,12 @@ VISITE DE DÉPISTAGE DE LA DOUZIÈME ANNÉE PAR L'INFIRMIER
 
 - transmission aux parents des conclusions de cet examen incluant, le cas échéant, des recommandations et des conseils. Un courrier à destination du médecin traitant peut être remis aux parents. Le professionnel de santé qui l'effectue veille au respect de la confidentialité de cette transmission ;
 
-- mise à disposition des données issues de cette visite aux personnels de l'éducation nationale en charge du suivi de l'élève concerné, dans le respect du secret professionnel ;
-
 - rencontre avec les enseignants de l'élève et l'équipe de direction afin de faire le point sur le suivi et l'accompagnement pédagogique à mettre en place dans le cadre de la réussite scolaire.
 
 Cette liste n'est pas limitative. Chaque professionnel de santé, dans le cadre de ses compétences, poursuivra les examens en fonction des constatations qu'il aura effectuées.
 
 (3) Calendrier des vaccinations publié par le ministère chargé de la santé et consultable sur www.sante.gouv.fr.
+
+NOTA :
+
+Conformément à l'article 1er de la décision du Conseil d'Etat, n° 395858 du 24 novembre 2017, l'arrêté du 3 novembre 2015 est annulé en ce qu'il comporte à ses annexes I et II la disposition suivante : " -mise à disposition des données issues de cette visite aux personnels de l'éducation nationale en charge du suivi de l'élève concerné, dans le respect du secret professionnel ;".
