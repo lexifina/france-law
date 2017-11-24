@@ -8,8 +8,6 @@ N°
 
 |
 
-|
-
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 |
@@ -39,8 +37,6 @@ Coef.
 |
 
 1630
-
-|
 
 |
 
@@ -118,8 +114,6 @@ D
 
 |
 
-|
-
 Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en œuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 Définitions :
@@ -139,8 +133,6 @@ Les termes " substance radioactive ", " activité ", " radioactivité ", " radio
 |
 
 1716
-
-|
 
 |
 
@@ -188,8 +180,6 @@ Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionn
 
 |
 
-|
-
 Substances radioactives (dépôt, entreposage ou stockage de) sous forme de résidus solides de minerai d'uranium, de thorium ou de radium, ainsi que leurs produits de traitement ne contenant pas d'uranium enrichi en isotope 235 et dont la quantité totale est supérieure à 1 tonne
 
 |
@@ -211,8 +201,6 @@ La quantité étant supérieure ou égale à 1 tonne
 |
 
 2101
-
-|
 
 |
 
@@ -392,8 +380,6 @@ D |
 
 |
 
-|
-
 Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées à d'autres rubriques :
 
 |
@@ -482,8 +468,6 @@ Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
 
 |
 
-|
-
 Lapins (activité d'élevage, transit, vente, etc., de).
 
 |
@@ -527,8 +511,6 @@ D
 |
 
 2111
-
-|
 
 |
 
@@ -604,8 +586,6 @@ Nota.-Pour le " 1. " et le " 2. ", les volailles et gibier à plumes sont compt�
 
 |
 
-|
-
 Couvoirs
 
 |
@@ -633,8 +613,6 @@ D
 |
 
 2113
-
-|
 
 |
 
@@ -681,8 +659,6 @@ D
 |
 
 2120
-
-|
 
 |
 
@@ -741,8 +717,6 @@ Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
 |
 
 2130
-
-|
 
 |
 
@@ -820,8 +794,6 @@ D
 
 |
 
-|
-
 Animaux d'espèces non domestiques (installations fixes et permanentes de présentation au public de), à l'exclusion des magasins de vente au détail et des installations présentant au public des animaux d'espèces non domestiques correspondant aux activités suivantes :
 
 -présentation de poissons et d'invertébrés aquatiques, les capacités cumulées des aquariums et des bassins présentés au public étant inférieures à 10 000 litres de volume total brut ;
@@ -860,17 +832,81 @@ Nota : sont visées les installations présentes sur un même site au moins 90 j
 
 |
 
-|
-
-Verminières (élevage de larves de mouches, asticots)
+Coléoptères, diptères, orthoptères (activité d'élevage de) à l'exclusion des activités de recherche et développement.
 
 |
 
-A
+|
 
 |
 
-3
+|
+
+|
+
+1. Lorsque le substrat utilisé pour l'élevage contient des sous-produits animaux, la quantité maximale d'insectes susceptible d'être produite étant : |
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 150 kg/j
+
+|
+
+A |
+
+3 |
+
+|
+
+|
+
+b) Supérieure à 1 kg/j et inférieure ou égale à 150 kg/j
+
+|
+
+DC |
+
+|
+
+|
+
+|
+
+2. Autres installations que celles visées au 1, la quantité maximale d'insectes susceptible d'être produite étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 15 t/j
+
+|
+
+A |
+
+3 |
+
+|
+
+|
+
+b) Supérieure à 100 kg/j et inférieure ou égale à 15 t/j
+
+|
+
+DC |
 
 |
 
@@ -879,8 +915,6 @@ A
 |
 
 2160
-
-|
 
 |
 
@@ -994,8 +1028,6 @@ Les critères caractérisant les termes silo, silo plat, tente et structure gonf
 
 |
 
-|
-
 Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques 2780 et 2781 :
 
 |
@@ -1042,8 +1074,6 @@ D
 
 |
 
-|
-
 Fumiers, engrais et supports de culture (dépôts de) renfermant des matières organiques et n'étant pas l'annexe d'une exploitation agricole
 
 |
@@ -1074,43 +1104,11 @@ D
 
 |
 
-|
-
-Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou égale à 3 000 l, lorsque la capacité totale est :
+Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou égale à 3 000 l, lorsque la capacité totale est supérieure à 100 m3
 
 |
 
-|
-
-|
-
-|
-
-|
-
-1. Supérieure ou égale à 500 m ³
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-2. Supérieure à 100 m ³ mais inférieure à 500 m ³
-
-|
-
-D
-
-|
+D |
 
 |
 
@@ -1119,8 +1117,6 @@ D
 |
 
 2180
-
-|
 
 |
 
@@ -1179,8 +1175,6 @@ D
 |
 
 2210
-
-|
 
 |
 
@@ -1276,41 +1270,23 @@ D
 
 |
 
-|
+Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion des activités classées par ailleurs et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes.
 
-Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du malt, des huiles, et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A. Installations dont les activités sont classées au titre de la rubrique 3642
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-B. Autres installations que celles visées au A, la quantité de produits entrant étant :
+La quantité de produits entrants étant :
 
 1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an :
 
-a) Supérieure à 20 t/ j
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 20 t/j
 
 |
 
@@ -1324,7 +1300,7 @@ E
 
 |
 
-b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
+b) Supérieure à 2 t/j, mais inférieure ou égale à 20 t/j
 
 |
 
@@ -1340,7 +1316,17 @@ D
 
 2. Autres installations :
 
-a) Supérieure à 10 t/ j
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 10 t/j
 
 |
 
@@ -1354,7 +1340,7 @@ E
 
 |
 
-b) Supérieure à 2 t/ j, mais inférieure ou égale à 10 t/ j
+b) Supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
 
 |
 
@@ -1372,37 +1358,9 @@ DC
 
 |
 
-|
+Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du lait et des corps gras et des activités classées par ailleurs.
 
-Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du lait et des corps gras, mais y compris les aliments pour les animaux de compagnie.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A.-Installations dont les activités sont classées au titre de la rubrique 3642
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-B.-Autres installations que celles visées au A, la quantité de produits entrant étant :
+La quantité de produits entrants étant :
 
 |
 
@@ -1414,7 +1372,7 @@ B.-Autres installations que celles visées au A, la quantité de produits entran
 
 |
 
--supérieure à 2 t/ j
+1. Supérieure à 4 t/j
 
 |
 
@@ -1428,121 +1386,15 @@ E
 
 |
 
--supérieure à 500 kg/ j, mais inférieure ou égale à 2 t/ j
+2. Supérieure à 500 kg/j, mais inférieure ou égale à 4 t/j
 
 |
 
-D
-
-|
-
-|
+DC |
 
 |
 
 |
-
-2225
-
-|
-
-|
-
-Sucreries, raffineries de sucre, malteries
-
-|
-
-A
-
-|
-
-1
-
-|
-
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 200 t/ j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-b) supérieure à 50 t/ j, mais inférieure ou égale à 200 t/ j
-
-|
-
-2
-
-|
-
-2226
-
-|
-
-|
-
-Amidonneries, féculeries, dextrineries
-
-|
-
-A
-
-|
-
-1
-
-|
-
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 200 t/ j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-b) supérieure à 50 t/ j, mais inférieure ou égale à 200 t/ j
-
-|
-
-2
 
 |
 
@@ -1550,11 +1402,9 @@ b) supérieure à 50 t/ j, mais inférieure ou égale à 200 t/ j
 
 |
 
-|
+Traitement et transformation du lait ou des produits issus du lait, à l'exclusion du seul conditionnement et des activités qui relèvent des rubriques 3642 ou 3643.
 
-Traitement et transformation du lait ou produits issus du lait, à l'exclusion du seul conditionnement.
-
-|
+La capacité journalière de traitement exprimée en litres de lait ou litres équivalent-lait étant :
 
 |
 
@@ -1564,17 +1414,11 @@ Traitement et transformation du lait ou produits issus du lait, à l'exclusion d
 
 |
 
-A) Installations dont les activités sont classées au titre des rubriques 3642 ou 3643 |
-
-A |
-
-3 |
-
 |
 
-|
+1. Supérieure à 70 000 l/j |
 
-B) Autres installations que celles visées en A, la capacité journalière de traitement exprimée en litre de lait ou équivalent-lait étant : |
+E |
 
 |
 
@@ -1582,35 +1426,9 @@ B) Autres installations que celles visées en A, la capacité journalière de tr
 
 |
 
-|
+2. Supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j |
 
-1. supérieure à 70 000 l/ j
-
-|
-
-E
-
-|
-
--
-
-|
-
-1. La capacité journalière de traitement de l'installation exprimée en litre de lait ou équivalent-lait étant supérieure à 250 000 l/ j
-
-|
-
-4
-
-|
-
-2. Supérieure à 7 000 l/ j, mais inférieure ou égale à 70 000 l/ j
-
-|
-
-DC
-
-|
+DC |
 
 |
 
@@ -1620,27 +1438,27 @@ DC
 
 Nota :
 
-1) Equivalences sur les produits entrant dans l'installation :
+1) " Traitement et transformation, à l'exclusion du seul conditionnement " inclut toute modification (thermique, mécanique, physico chimique,…) du lait ou des produits issus du lait.
+
+Ne sont pas considérées comme traitement et transformation les opérations suivantes :
+
+- le seul conditionnement et/ou la découpe sans autre opération (du type broyage, râpage, tamisage, filtration, etc.) en vue du transport ou de la commercialisation ;
+
+- le simple stockage ou transit sans autre opération que la réfrigération (les quantités d'équivalent-lait concernées sont à déduire du classement sous la rubrique 2230) ;
+
+- la simple maturation et/ou l'affinage du produit.
+
+2) Equivalences sur les produits entrant dans l'installation :
 
 1 litre de crème = 8 l équivalent-lait
 
-1 litre de lait écrémé, de sérum, de babeurre non concentrés = 1 l équivalent-lait
+1 litre de lait écrémé, de sérum, de babeurre, non concentrés = 1 l équivalent-lait
 
-1 litre de lait écrémé, de sérum, de babeurre préconcentrés = 6 l équivalent-lait
+1 litre de lait écrémé, de sérum, de babeurre, préconcentrés = 6 l équivalent-lait
 
 1 kg de fromage = 10 l équivalent-lait
 
-1 kg de poudre = 9 l équivalent-lait
-
-2) Traitement et transformation, à l'exclusion du seul conditionnement : Cette définition inclut toute modification (thermique, mécanique, physico chimique …) du lait ou produits issus du lait. Ne sont pas considérées comme traitement et transformation les opérations suivantes :
-
--le seul conditionnement et/ ou la découpe sans autre opération (du type broyage, râpage, tamisage, filtration, etc.) en vue du transport ou de la commercialisation ;
-
--le simple stockage ou transit sans autre opération que la réfrigération (les quantités d'équivalent-lait concernées sont à déduire du classement sous la rubrique 2230) ;
-
--la simple maturation et/ ou l'affinage du produit).
-
-|
+1 kg de poudre de lait = 9 l équivalent-lait |
 
 |
 
@@ -1654,9 +1472,7 @@ Nota :
 
 |
 
-|
-
-Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion de l'extraction des activités visées par les rubriques 2631 et 2791
+Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion des activités qui relèvent des rubriques 2631, 2791, 3410 ou 3642.
 
 |
 
@@ -1668,21 +1484,19 @@ Huiles et corps gras d'origine animale ou végétale (extraction ou traitement d
 
 |
 
-A) Installations dont les activités sont classées au titre des rubriques 3642 ou 3410 ou site de production industrielle réalisant l'extraction à l'aide de solvants inflammables :
+A) Installations de production industrielle réalisant l'extraction à l'aide de solvants inflammables
 
 |
 
 A |
 
-3 |
-
-1. La capacité de production étant :
+1 |
 
 |
 
 |
 
-B) Autres installations que celles visées au A, la capacité de production étant :
+B) Autres installations que celles visées au A, dont la capacité de production est :
 
 |
 
@@ -1690,29 +1504,21 @@ B) Autres installations que celles visées au A, la capacité de production éta
 
 |
 
-a) supérieure à 100 t/ j
+|
 
 |
 
-4
-
-|
-
-1-Lorsque l'installation fonctionne pendant une durée maximale de 90 jours par an (*) |
+1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours par an (*) : |
 
 |
 
 |
 
-b) supérieure à 10 t/ j, mais inférieure ou égale à 100 t/ j
+|
 
 |
 
-1
-
-|
-
-a) Supérieure à 20 t/ j |
+a) Supérieure à 20 t/j |
 
 E |
 
@@ -1722,9 +1528,9 @@ E |
 
 |
 
-b) Supérieure à 200 kg/ j, mais inférieure ou égale à 20 t/ j |
+b) Supérieure à 200 kg/j, mais inférieure ou égale à 20 t/j |
 
-DC |
+D |
 
 |
 
@@ -1733,8 +1539,6 @@ DC |
 |
 
 2-Autres installations
-
-|
 
 |
 
@@ -1756,9 +1560,9 @@ E |
 
 |
 
-|
+b) Supérieure à 200 kg/j, mais inférieure ou égale à 10 t/j
 
-b) Supérieure à 200 kg/ j, mais inférieure ou égale à 10 t/ j |
+(*) : Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle |
 
 DC |
 
@@ -1768,21 +1572,7 @@ DC |
 
 |
 
-|
-
-(*) Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle. |
-
-|
-
-|
-
-|
-
-|
-
 2250
-
-|
 
 |
 
@@ -1851,8 +1641,6 @@ Nota.-Pour les installations de distillation discontinue, le seuil, prévu aux p
 |
 
 2251
-
-|
 
 |
 
@@ -1928,8 +1716,6 @@ D
 
 |
 
-|
-
 Cidre (préparation, conditionnement de)
 
 |
@@ -1989,8 +1775,6 @@ D
 |
 
 2253
-
-|
 
 |
 
@@ -2056,9 +1840,7 @@ D
 
 |
 
-|
-
-Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour les animaux, mais à l'exclusion des activités visées par les rubriques 2220,2221,2225 et 2226.
+Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221 ou 3642.
 
 |
 
@@ -2070,57 +1852,7 @@ Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, tritura
 
 |
 
-1. traitement et transformation destinés à la fabrication de produits alimentaires d'une capacité de production de produits finis supérieure à 300 t/ j
-
-|
-
-A
-
-|
-
-3
-
-|
-
-1
-
-|
-
-6
-
-|
-
-2. Autres installations que celles visées au 1 :
-
-|
-
-|
-
-|
-
-2. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
-
-|
-
-|
-
-a) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 500 kW
-
-|
-
-A
-
-|
-
-2
-
-|
-
-a) Supérieure ou égale à 5 MW
-
-|
-
-3
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -2130,15 +1862,21 @@ a) Supérieure ou égale à 5 MW
 
 |
 
-b) Supérieure à 1 MW, mais inférieure à 5 MW
+|
+
+a) Supérieure à 500 kW
 
 |
 
-1
+A |
+
+2 |
 
 |
 
-b) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 100 kW mais inférieure ou égale à 500 kW
+|
+
+b) Supérieure à 100 kW mais inférieure ou égale à 500 kW
 
 |
 
@@ -2153,8 +1891,6 @@ D
 |
 
 2265
-
-|
 
 |
 
@@ -2212,43 +1948,13 @@ D
 
 |
 
-2270
-
-|
-
-|
-
-Acides butyrique, citrique, glutamique, lactique et autres acides organiques alimentaires (fabrication d')
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
 2275
 
 |
 
-|
+Levure et autres productions fongiques à vocation alimentaire (fabrication de) à l'exclusion des champignons de couche et des installations dont les activités sont classées au titre de la rubrique 3642.
 
-Levure (fabrication de)
-
-|
-
-A
-
-|
-
-1
+La capacité de production étant :
 
 |
 
@@ -2256,21 +1962,27 @@ A
 
 |
 
-2310
+|
+
+|
+
+1. Supérieure à 2 t/j
+
+|
+
+A |
+
+1 |
 
 |
 
 |
 
-Rouissage (hors rouissage à terre) ou teillage du lin, du chanvre et autres plantes textiles
+2. Supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
 
 |
 
-A
-
-|
-
-1
+DC |
 
 |
 
@@ -2279,8 +1991,6 @@ A
 |
 
 2311
-
-|
 
 |
 
@@ -2342,8 +2052,6 @@ D
 
 |
 
-|
-
 Fabrication de fibres végétales artificielles et produits manufacturés dérivés
 
 |
@@ -2376,9 +2084,7 @@ A
 
 |
 
-|
-
-Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécanique, cordages, cordes et ficelles
+Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécanique, cordages, cordes et ficelles.
 
 |
 
@@ -2390,7 +2096,7 @@ Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécaniq
 
 |
 
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
+La puissance maximum de l'ensemble des machines pouvant concourir simultanément au fonctionnement de l'installation étant supérieure à 40 kW
 
 |
 
@@ -2405,8 +2111,6 @@ D
 |
 
 2330
-
-|
 
 |
 
@@ -2488,8 +2192,6 @@ D
 
 |
 
-|
-
 Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345.
 
 La capacité de lavage de linge étant :
@@ -2533,8 +2235,6 @@ D
 |
 
 2345
-
-|
 
 |
 
@@ -2596,19 +2296,7 @@ DC
 
 |
 
-|
-
-Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux à l'exclusion des opérations de salage en annexe des abattoirs et de la teinture
-
-|
-
-A
-
-|
-
-1
-
-|
+Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux à l'exclusion des opérations de salage en annexe des abattoirs et de la teinture à l'exclusion des installations dont les activités sont classées au titre de la rubrique 3630.
 
 La capacité de production étant :
 
@@ -2622,31 +2310,27 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 5 t/ j
+a) Supérieure à 5t/j |
 
-|
+A |
 
-4
-
-|
-
-|
+1 |
 
 |
 
 |
 
-b) supérieure à 1 t/ j, mais inférieure ou égale à 5 t/ j
+b) Supérieure à 100 kg /j, mais inférieure ou égale à 5t/j |
+
+DC |
 
 |
 
-1
+|
 
 |
 
 2351
-
-|
 
 |
 
@@ -2724,31 +2408,7 @@ DC
 
 |
 
-2352
-
-|
-
-|
-
-Fabrication d'extraits tannants
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
 2355
-
-|
 
 |
 
@@ -2782,21 +2442,9 @@ D
 
 |
 
-|
+Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux.
 
-Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La puissance installée pour alimenter l'ensemble des machines étant :
+La puissance maximum de l'ensemble des machines pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -2842,19 +2490,7 @@ D
 
 |
 
-|
-
-Ateliers ou l'on travaille le bois ou matériaux combustibles analogues :
-
-A. Installations dont les activités sont classées au titre de la rubrique 3610
-
-|
-
-A
-
-|
-
-3
+Ateliers ou l'on travaille le bois ou matériaux combustibles analogues à l'exclusion des installations dont les activités sont classées au titre de la rubrique 3610.
 
 |
 
@@ -2862,15 +2498,27 @@ A
 
 |
 
-B. Autres installations que celles visées au A, la puissance de l'ensemble des machines présentes dans l'installation qui concourent au travail du bois ou matériaux combustibles analogues étant :
+|
+
+|
+
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
 
 1. Supérieure à 250 kW
 
 |
 
-E
-
-|
+E |
 
 |
 
@@ -2893,8 +2541,6 @@ D
 |
 
 2415
-
-|
 
 |
 
@@ -2945,8 +2591,6 @@ DC
 |
 
 2420
-
-|
 
 |
 
@@ -3024,165 +2668,7 @@ D
 
 |
 
-|
-
-Préparation de la pâte à papier
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Pâte chimique, la capacité de production étant :
-
-|
-
-|
-
-|
-
-1. La capacité de production étant :
-
-|
-
-|
-
-a) supérieure à 100 t/ j
-
-|
-
-A
-
-|
-
-5
-
-|
-
-a) supérieure à 500 t/ j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-3
-
-|
-
-supérieure à 100 t/ j, mais inférieure ou égale à 500 t/ j
-
-|
-
-3
-
-|
-
-b) inférieure ou égale à 100 t/ j
-
-|
-
-A
-
-|
-
-|
-
-b) supérieure à 20 t/ j, mais inférieure ou égale à 100 t/ j
-
-|
-
-1
-
-|
-
-2. Autres pâtes, y compris le désencrage des vieux papiers
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 500 t/ j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-b) supérieure à 100 t/ j, mais inférieure ou égale à 500 t/ j
-
-|
-
-3
-
-|
-
-|
-
-|
-
-|
-
-c) inférieure ou égale à 100 t/ j
-
-|
-
-1
-
-|
-
-2440
-
-|
-
-|
-
-Fabrication de papier, carton
-
-|
-
-A
-
-|
-
-1
-
-|
+Préparation de la pâte à papier à l'exclusion des activités classées au titre de la rubrique 3610.a.
 
 La capacité de production étant :
 
@@ -3196,27 +2682,23 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 500 t/ j
+a) Supérieure à 10 t/j
 
 |
 
-6
+A |
+
+1 |
 
 |
 
 |
 
-|
+b) Supérieure à 1 t/j et inférieure ou égale à 10 t/j
 
 |
 
-b) supérieure à 100 t/ j, mais inférieure ou égale à 500 t/ j
-
-|
-
-3
-
-|
+DC
 
 |
 
@@ -3224,17 +2706,27 @@ b) supérieure à 100 t/ j, mais inférieure ou égale à 500 t/ j
 
 |
 
-c) supérieure à 20 t/ j, mais inférieure ou égale à 100 t/ j
+|
+
+2440
 
 |
 
-1
+Fabrication de papier, carton à l'exclusion des installations dont les activités sont classées au titre de la rubrique 3610.b, la quantité étant supérieure à 2 t/j
+
+|
+
+DC
+
+|
+
+|
+
+|
 
 |
 
 2445
-
-|
 
 |
 
@@ -3296,9 +2788,7 @@ D
 
 |
 
-|
-
-Imprimeries ou ateliers de reproduction graphique sur tout support tel que métal, papier, carton, matières plastiques, textiles, etc. utilisant une forme imprimante
+Imprimeries ou ateliers de reproduction graphique sur tout support tel que métal, papier, carton, matières plastiques, textiles etc. utilisant une forme imprimante.
 
 |
 
@@ -3310,19 +2800,35 @@ Imprimeries ou ateliers de reproduction graphique sur tout support tel que méta
 
 |
 
-1. Offset utilisant des rotatives à séchage thermique
+A) Offset utilisant des rotatives à séchage thermique, héliogravure, flexographie et opérations connexes aux procédés d'impression quels qu'ils soient comme la fabrication de complexes par contrecollage ou le vernissage si la quantité totale de produits consommée pour revêtir le support est :
 
 |
 
-A
+|
 
 |
 
-2
+|
 
 |
 
-1. Non soumis à la taxe.
+a) Supérieure à 200 kg/j
+
+|
+
+A |
+
+2 |
+
+|
+
+|
+
+b) Supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j
+
+|
+
+D
 
 |
 
@@ -3330,37 +2836,11 @@ A
 
 |
 
-2. Héliogravure, flexographie et opérations connexes aux procédés d'impression quels qu'ils soient comme la fabrication de complexes par contrecollage ou le vernissage si la quantité totale de produits consommée pour revêtir le support est :
-
 |
 
 |
 
-|
-
-2. La quantité totale de produits consommée pour revêtir le support est :
-
-|
-
-|
-
-a) supérieure à 200 kg/ j
-
-|
-
-A
-
-|
-
-2
-
-|
-
-a) supérieure à 5 t/ j
-
-|
-
-4
+B) Autres procédés, y compris les techniques offset non visées en A/ si la quantité d'encres consommée est :
 
 |
 
@@ -3370,119 +2850,33 @@ a) supérieure à 5 t/ j
 
 |
 
-supérieure ou égale à 1 t/ j mais inférieure à 5 t/ j
+|
+
+a) Supérieure ou égale à 400 kg/j
 
 |
 
-2
+A |
 
-|
-
-|
-
-|
-
-|
-
-supérieure ou égale à 200 kg/ j mais inférieure à 1 t/ j
-
-|
-
-1
-
-|
-
-b) supérieure à 50 kg/ j mais inférieure ou égale à 200 kg/ j
-
-|
-
-D
+2 |
 
 |
 
 |
 
-|
+b) Supérieure à 100 kg/j mais inférieure ou égale à 400 kg/j
 
 |
 
-3. Autres procédés, y compris les techniques offset non visées en 1 si la quantité d'encres consommée est :
+D |
 
-|
-
-|
-
-|
-
-3. La quantité d'encres consommée est :
+- |
 
 |
 
 |
 
-a) supérieure ou égale à 400 kg/ j
-
-|
-
-A
-
-|
-
-2
-
-|
-
-a) supérieure à 5 t/ j
-
-|
-
-4
-
-|
-
-|
-
-|
-
-|
-
-supérieure ou égale à 1 t/ j, mais inférieure à 5 t/ j
-
-|
-
-2
-
-|
-
-|
-
-|
-
-|
-
-supérieure ou égale à 400 kg/ j, mais inférieure à 1 t/ j
-
-|
-
-1
-
-|
-
-b) supérieure à 100 kg/ j mais inférieure ou égale à 400 kg/ j
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-Nota : pour les produits qui contiennent moins de 10 % de solvants organiques au moment de leur emploi, la quantité à retenir pour établir le classement sous les paragraphes 2 et 3 correspond à la quantité consommée dans l'installation, divisée par deux.
+Nota : pour les produits qui contiennent moins de 10% de solvants organiques au moment de leur emploi, la quantité à retenir pour établir le classement correspond à la quantité consommée dans l'installation, divisée par deux.
 
 |
 
@@ -3498,9 +2892,7 @@ Nota : pour les produits qui contiennent moins de 10 % de solvants organiques au
 
 |
 
-|
-
-Carrières (exploitation de).
+Carrière ou autre extraction de matériaux (exploitation de).
 
 |
 

@@ -512,13 +512,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -528,9 +524,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -584,13 +578,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -600,9 +590,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -628,7 +616,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
 
 |
 
-Trioxyde d'arsenic, acide (III) arsénique et/ ou ses sels (numéro CAS 1327-53-3).
+Trioxyde d'arsenic, acide (III) arsénieux et/ ou ses sels (numéro CAS 1327-53-3).
 
 |
 
@@ -644,13 +632,9 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -700,13 +684,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-1
-
-|
+1 |
 
 |
 
@@ -716,9 +696,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -772,13 +750,9 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -788,9 +762,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -844,13 +816,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -860,9 +828,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -902,13 +868,9 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -960,13 +922,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-1
-
-|
+1 |
 
 |
 
@@ -976,9 +934,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1032,13 +988,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1048,9 +1000,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -1104,13 +1054,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1120,9 +1066,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1176,13 +1120,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1192,9 +1132,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1292,17 +1230,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 
 Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affiné, lorsqu'il a été traité conformément aux normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à celle du gaz naturel, y compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène).
 
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines (strates naturelles, aquifères, cavités salines et mines désaffectées) étant :
+La quantité totale susceptible d'être présente dans les installations (*) y compris dans les cavités souterraines (strates naturelles, aquifères, cavités salines et mines désaffectées, hors gaz naturellement présent avant exploitation de l'installation) étant :
 
 |
 
@@ -1314,15 +1242,7 @@ La quantité totale susceptible d'être présente dans les installations y compr
 
 |
 
-1. Supérieure ou égale à 50 t
-
-|
-
-A
-
-|
-
-1
+1. Pour le stockage en récipients à pression transportables :
 
 |
 
@@ -1330,7 +1250,23 @@ A
 
 |
 
-2. Supérieure ou égale à 6 t mais inférieure à 50 t
+|
+
+|
+
+a. Supérieure ou égale à 35 t
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+b. Supérieure ou égale à 6 t mais inférieure à 35 t
 
 |
 
@@ -1344,9 +1280,47 @@ DC
 
 |
 
-Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+2. Pour les autres installations :
 
-Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+|
+
+|
+
+|
+
+|
+
+|
+
+a. Supérieure ou égale à 50 t
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+b. Supérieure ou égale à 6 t mais inférieure à 50 t
+
+|
+
+DC |
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 (à l'exclusion des stations de compression connexes aux canalisations de transport) : 50 t
+
+Quantité seuil haut au sens de l'article R. 511-10 (à l'exclusion des stations de compression connexes aux canalisations de transport) : 200 t
+
+(*) Une station d'interconnexion d'un réseau de transport de gaz n'est pas considérée comme une installation classée au titre de la rubrique 4718
 
 |
 
@@ -1390,13 +1364,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1406,9 +1376,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1462,13 +1430,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1478,9 +1442,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1534,13 +1496,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1550,9 +1508,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1606,13 +1562,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1622,9 +1574,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1678,13 +1628,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1694,9 +1640,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1748,13 +1692,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1764,9 +1704,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1818,13 +1756,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -1834,9 +1768,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1890,13 +1822,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1906,9 +1834,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -1962,13 +1888,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -1978,9 +1900,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -2034,13 +1954,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2050,9 +1966,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -2106,13 +2020,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2122,9 +2032,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -2178,13 +2086,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -2194,9 +2098,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -2248,13 +2150,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2264,9 +2162,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -2492,9 +2388,7 @@ b) Supérieure ou égale à 1 000 t mais inférieure à 2 500 t
 
 |
 
-E
-
-|
+E |
 
 |
 
@@ -2624,13 +2518,9 @@ a) Supérieure ou égale à 1,5 t
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2640,9 +2530,7 @@ b) Supérieure ou égale à 150 kg mais inférieure à 1,5 t
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -2666,13 +2554,9 @@ a) Supérieure ou égale à 5 t
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2682,9 +2566,7 @@ b) Supérieure ou égale à 150 kg mais inférieure à 5 t
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -2754,9 +2636,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -2880,13 +2760,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2896,9 +2772,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -2952,13 +2826,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -2968,9 +2838,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -3024,13 +2892,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3040,9 +2904,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -3096,13 +2958,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-1
-
-|
+1 |
 
 |
 
@@ -3112,9 +2970,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -3168,13 +3024,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3184,9 +3036,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3240,13 +3090,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3256,9 +3102,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3312,13 +3156,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3328,9 +3168,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3384,13 +3222,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3400,9 +3234,7 @@ A
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -3456,13 +3288,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3472,9 +3300,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3528,13 +3354,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3544,9 +3366,7 @@ A
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3658,13 +3478,9 @@ La quantité susceptible d'être présente dans l'installation étant supérieur
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -3704,13 +3520,9 @@ Alcools de bouche d'origine agricole et leurs constituants (distillats, infusion
 
 |
 
-A
+A |
 
-|
-
-2
-
-|
+2 |
 
 |
 
@@ -3812,9 +3624,7 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 A |
 
-1
-
-|
+1 |
 
 |
 
@@ -3930,9 +3740,7 @@ b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3980,9 +3788,7 @@ b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -3994,9 +3800,7 @@ D
 
 |
 
-D
-
-|
+D |
 
 |
 

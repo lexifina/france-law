@@ -40,25 +40,13 @@ Coef.
 
 1. Installations de broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage, mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou artificiels ou de déchets non dangereux inertes, autres que celles visées par d'autres rubriques et par la sous-rubrique 2515-2.
 
-|
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
 |
 
 |
-
-|
-
-La puissance installée des installations, étant :
-
-|
-
-|
-
-|
-
-1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
 |
 
@@ -68,19 +56,11 @@ a) Supérieure à 550 kW
 
 |
 
-A
+A |
+
+2 |
 
 |
-
-2
-
-|
-
-a) Supérieure à 5 MW
-
-|
-
-3
 
 |
 
@@ -92,13 +72,11 @@ E
 
 |
 
-|
-
-b) Supérieure à 550 kW, mais inférieure ou égale à 5 MW
+-
 
 |
 
-1
+|
 
 |
 
@@ -110,7 +88,7 @@ D
 
 |
 
-|
+- |
 
 |
 
@@ -118,17 +96,7 @@ D
 
 2. Installations de broyage, concassage, criblage, mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou artificiels ou de déchets non dangereux inertes extraits ou produits sur le site de l'installation, fonctionnant sur une période unique d'une durée inférieure ou égale à six mois.
 
-|
-
-|
-
-|
-
-|
-
-|
-
-La puissance installée des installations, étant :
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -148,7 +116,7 @@ E
 
 |
 
-|
+- |
 
 |
 
@@ -162,7 +130,7 @@ D
 
 |
 
-|
+- |
 
 |
 
@@ -458,9 +426,9 @@ D
 
 |
 
-Installation de fabrication de produits en béton par procédé mécanique. La
+Installation de fabrication de produits en béton par procédé mécanique
 
-puissance installée du matériel de malaxage et de vibration, étant :
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -480,7 +448,7 @@ E
 
 |
 
-|
+- |
 
 |
 
@@ -494,7 +462,7 @@ D
 
 |
 
-|
+- |
 
 |
 
@@ -540,7 +508,7 @@ La capacité de production étant supérieure à 20 t/j
 
 |
 
-Minéraux naturels ou artificiels tels que le marbre, le granite, l'ardoise, le verre, etc. (Ateliers de taillage, sciage et polissage de)
+Minéraux naturels ou artificiels tels que le marbre, le granite, l'ardoise, le verre, etc. (Ateliers de taillage, sciage et polissage de).
 
 |
 
@@ -552,7 +520,7 @@ Minéraux naturels ou artificiels tels que le marbre, le granite, l'ardoise, le 
 
 |
 
-La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 400 kW
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant supérieure à 400 kW
 
 |
 
@@ -560,45 +528,9 @@ D
 
 |
 
-|
+- |
 
 |
-
-|
-
-2525
-
-|
-
-Fusion de matières minérales, y compris pour la production de fibres minérales
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La capacité de fusion étant supérieure à 20 t/j
-
-|
-
-A
-
-|
-
-1
-
-|
-
-La capacité de fusion étant supérieure à 20 t/j
-
-|
-
-6
 
 |
 
@@ -808,7 +740,7 @@ La capacité de traitement étant supérieure à 100 t/j
 
 |
 
-1. Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel, la capacité de production étant supérieure à 10 t/j
+Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel, la capacité de production étant supérieure à 10 t/j
 
 |
 
@@ -820,55 +752,7 @@ A
 
 |
 
-1. La capacité de production étant supérieure à 100 t/j
-
 |
-
-4
-
-|
-
-2. Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. La capacité de production étant supérieure à 100 t/j
-
-|
-
-6
-
-|
-
-2542
-
-|
-
-Coke (fabrication du)
-
-|
-
-A
-
-|
-
-3
-
-|
-
-Quelle que soit la capacité
-
-|
-
-10
 
 |
 
@@ -876,7 +760,7 @@ Quelle que soit la capacité
 
 |
 
-Acier, fer, fonte, ferro-alliages (fabrication d') à l'exclusion de la fabrication de ferro-alliages au four électrique lorsque la puissance installée du (des) four (s) est inférieure à 100 kW
+Acier, fer, fonte, ferro-alliages (fabrication d'), à l'exclusion de la fabrication de ferro-alliages au four électrique lorsque la puissance du (des) four (s) susceptibles de fonctionner simultanément est inférieure à 100 kW
 
 |
 
@@ -888,37 +772,7 @@ A
 
 |
 
-La capacité de production étant :
-
 |
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 500 t/j
-
-|
-
-10
-
-|
-
-|
-
-|
-
-|
-
-b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
-
-|
-
-4
 
 |
 
@@ -926,17 +780,7 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 
 |
 
-Traitement des minerais non ferreux, élaboration et affinage des métaux et alliages non ferreux (à l'échelle industrielle)
-
-|
-
-A
-
-|
-
-3
-
-|
+Traitement des minerais non ferreux, élaboration et affinage des métaux et alliages non ferreux (à l'échelle industrielle) à l'exclusion des activités classées au titre de la rubrique 3250.
 
 La capacité de production étant :
 
@@ -950,25 +794,23 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 500 t/j
+a) Supérieure à 2t/j |
 
-|
+A |
 
-10
-
-|
-
-|
+1 |
 
 |
 
 |
 
-b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
+b) Supérieure à 100 kg/j mais inférieure ou égale à 2t/j |
+
+DC |
 
 |
 
-4
+|
 
 |
 
@@ -976,7 +818,7 @@ b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
 
 |
 
-Silico-alliages ou carbure de silicium (fabrication de) au four électrique, lorsque la puissance installée du (des) four (s) dépasse 100 kW (à l'exclusion du ferro-silicium visé à la rubrique 2545)
+Silico-alliages ou carbure de silicium (fabrication de) au four électrique, lorsque la puissance du (des) four (s) susceptible (s) de fonctionner simultanément dépasse 100 kW (à l'exclusion du ferro-silicium mentionné à la rubrique 2545).
 
 |
 
@@ -1250,7 +1092,7 @@ DC
 
 |
 
-Travail mécanique des métaux et alliages
+Travail mécanique des métaux et alliages, à l'exclusion des activités classées au titre des rubriques 3230-a ou 3230-b.
 
 |
 
@@ -1262,15 +1104,7 @@ Travail mécanique des métaux et alliages
 
 |
 
-A. Installations dont les activités sont classées au titre des rubriques 3230-a ou 3230-b
-
-|
-
-A
-
-|
-
-3
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -1278,7 +1112,9 @@ A
 
 |
 
-B. Autres installations que celles visées au A, la puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
+|
+
+|
 
 1. Supérieure à 1 000 kW
 
@@ -1287,6 +1123,8 @@ B. Autres installations que celles visées au A, la puissance installée de l'en
 E
 
 |
+
+-
 
 |
 
@@ -1302,7 +1140,7 @@ DC
 
 |
 
-|
+- |
 
 |
 
@@ -1978,7 +1816,7 @@ Abrasives (emploi de matières) telles que sables, corindon, grenailles métalli
 
 |
 
-La puissance installée des machines fixes concourant au fonctionnement de l'installation étant supérieure à 20 kW
+La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant supérieure à 20 kW
 
 |
 
@@ -1986,33 +1824,9 @@ D
 
 |
 
-|
+- |
 
 |
-
-|
-
-2620
-
-|
-
-Sulfurés (ateliers de fabrication de composés organiques) : mercaptans, thiols, thioacides, thioesters, etc., à l'exception des substances inflammables ou toxiques
-
-|
-
-A
-
-|
-
-3
-
-|
-
-Quelle que soit la capacité
-
-|
-
-3
 
 |
 
@@ -2132,7 +1946,9 @@ A
 
 |
 
-Colorants et pigments organiques, minéraux et naturels (fabrication industrielle, emploi de) :
+Colorants et pigments organiques, minéraux et naturels (fabrication ou emploi de), à l'exclusion des activités classées au titre de la rubrique 3410.
+
+La quantité de matière fabriquée ou utilisée étant :
 
 |
 
@@ -2144,51 +1960,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
 
 |
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation
-
-|
-
-A
-
-|
-
-1
-
-|
-
-1. La quantité de matière produite étant supérieure ou égale à 2 t/j
-
-|
-
-6
-
-|
-
-2. Emploi
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité de matière utilisée étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 2 t/j
+a) Supérieure ou égale à 2 t/j
 
 |
 
@@ -2200,23 +1972,17 @@ A
 
 |
 
-2. La quantité de matière utilisée étant supérieure ou égale à 2 t/j
-
-|
-
-2
-
-|
-
-b) supérieure ou égale à 200 kg/j, mais inférieure à 2 t/j
-
-|
-
-D
-
 |
 
 |
+
+b) Supérieure ou égale à 200 kg/j, mais inférieure à 2 t/j
+
+|
+
+D |
+
+- |
 
 |
 
@@ -2226,13 +1992,7 @@ D
 
 |
 
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (fabrication industrielle ou régénération)
-
-|
-
-|
-
-|
+Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (fabrication ou régénération), à l'exclusion des activités classées au titre de la rubrique 3410.
 
 La capacité de production étant :
 
@@ -2242,6 +2002,12 @@ La capacité de production étant :
 
 |
 
+|
+
+|
+
+a) Supérieure à 10 t/j |
+
 A
 
 |
@@ -2250,25 +2016,17 @@ A
 
 |
 
-a) supérieure à 20 t/j
-
-|
-
-6
-
 |
 
 |
 
-|
+b) Supérieure à 1t/j, mais inférieure ou égale à 10 t/j |
+
+D |
+
+- |
 
 |
-
-b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
-
-|
-
-2
 
 |
 
@@ -4372,7 +4130,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 
 |
 
-Installation de collecte, transit, regroupement, tri ou autre traitement de déchets de produits explosifs (1) (hors des lieux de découverte).
+Installation de collecte, transit, regroupement, tri ou autre traitement de déchets de produits explosifs1 (hors des lieux de découverte).
 
 |
 
@@ -4384,31 +4142,19 @@ Installation de collecte, transit, regroupement, tri ou autre traitement de déc
 
 |
 
-1. Installation de collecte de déchets de produits explosifs (1) apportés par le producteur initial de ces déchets.
+1. Installation de collecte de déchets de produits explosifs apportés par le producteur initial de ces déchets.
+
+La quantité équivalente totale de matière active2 susceptible d'être présente dans l'installation étant :
 
 |
 
 |
 
 |
-
-1. Non soumis à la taxe
 
 |
 
 -
-
-|
-
-La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -4436,13 +4182,13 @@ DC
 
 |
 
-|
+- |
 
 |
 
 |
 
-c) Inférieure à 100 kg dans les autres cas
+c) Inférieure ou égale à 100 kg dans les autres cas
 
 |
 
@@ -4450,7 +4196,7 @@ DC
 
 |
 
-|
+- |
 
 |
 
@@ -4458,15 +4204,11 @@ DC
 
 2. Installation de transit, regroupement ou tri de déchets de produits explosifs.
 
-La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant :
+La quantité équivalente totale de matière active2 susceptible d'être présente dans l'installation étant : |
 
 |
 
 |
-
-|
-
-2. Installation de transit, regroupement ou tri de déchets de produits explosifs, la quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4484,11 +4226,7 @@ A
 
 |
 
-a) Supérieure à 10 t
-
 |
-
-6
 
 |
 
@@ -4500,13 +4238,7 @@ DC
 
 |
 
-|
-
-b) Supérieure à 100 kg mais inférieure ou égale à 10 t
-
-|
-
-2
+-
 
 |
 
@@ -4514,9 +4246,13 @@ b) Supérieure à 100 kg mais inférieure ou égale à 10 t
 
 |
 
+3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2). |
+
+D
+
 |
 
-c) Non soumis à la taxe
+- |
 
 |
 
@@ -4524,7 +4260,23 @@ c) Non soumis à la taxe
 
 |
 
-3. Autre installation de traitement de déchets de produits explosifs (1) (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
+a) Installation de destruction de munitions, mines, pièges, engins et explosifs relevant de la compétence des services et formations spécialisés visés à l'article R.733-1 du code de la sécurité intérieure, à l'exclusion de la destruction des munitions chimiques, lorsque la quantité de matière active2 mise en œuvre par opération est inférieure à 30 kg
+
+|
+
+D
+
+|
+
+-
+
+|
+
+|
+
+|
+
+b) Dans les autres cas.
 
 |
 
@@ -4532,27 +4284,21 @@ A |
 
 3 |
 
-3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
-
-La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
-
 |
 
 |
 
-Nota.-
+Nota :
 
-(1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté ministériel.
+(1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses, et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté du ministre chargé des installations classées.
 
 (2) La quantité équivalente totale de matière active est établie selon la formule :
 
 Quantité équivalente totale = A + B + C/3 + D/5 + E + F/3
 
-A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1.
+A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1 ;
 
-B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2,1.3,1.4,1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
-
-|
+B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport. |
 
 2795
 
@@ -5306,7 +5052,7 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
 
 Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois, plastique, cuir, papier, textile) à l'exclusion :
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,
+- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 4801,
 
 - des activités couvertes par les rubriques 2445 et 2450,
 
@@ -9975,7 +9721,3 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
-
-NOTA :
-
-Décret n° 2013-814 du 11 septembre 2013 art. 4 : La rubrique 2910 dans sa rédaction issue du présent décret entre en vigueur le lendemain de la publication de l'arrêté ministériel de prescription générale relatif aux installations relevant du régime de l'enregistrement mentionné à son B.
