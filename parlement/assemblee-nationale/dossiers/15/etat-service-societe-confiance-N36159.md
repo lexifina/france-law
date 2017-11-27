@@ -1,0 +1,93 @@
+# Etat au service d'une société de confiance (ESSOC)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36159
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/etat_service_societe_confiance
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-259.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-11-27 : 1er dépôt d'une initiative. (PRJLANR5L15B0424)
+  - 2017-11-27 : Etude d'impact (ETDIANR5L15B0424)
+  - 2017-11-27 : Avis du Conseil d'Etat (AVCEANR5L15B0424)
+  - 2017-11-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-11-27 : Renvoi en commission au fond
+      - 2017-12-06 : Nomination de rapporteur
+      - 2017-12-06 : Réunion de commission
+      - 2017-12-13 : Réunion de commission
+      - 2017-12-20 : Réunion de commission
+      - 2017-12-20 : Réunion de commission
+      - 2018-01-10 : Réunion de commission
+      - 2018-01-15 : Réunion de commission
+      - 2018-01-15 : Réunion de commission
+      - 2018-01-16 : Réunion de commission
+      - 2018-01-16 : Réunion de commission
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-23 : Réunion de commission
+      - 2018-01-18 : Dépôt de rapport (RAPPANR5L15B0575, PRJLANR5L15BTC0575)
+  - Discussion en séance publique
+    - 2018-01-23 : Discussion en séance publique
+    - 2018-01-23 : Discussion en séance publique
+    - 2018-01-24 : Discussion en séance publique
+    - 2018-01-24 : Discussion en séance publique
+    - 2018-01-25 : Discussion en séance publique
+    - 2018-01-25 : Discussion en séance publique
+    - 2018-01-30 : Discussion en séance publique
+    - 2018-01-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-01-31 : Dépôt d'une initiative en navette (PRJLSNR5S299B0259)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-01-31 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-02-22 : Dépôt de rapport (RAPPSNR5S299B0329, PRJLSNR5S299BTC0330)
+  - Discussion en séance publique
+    - 2018-03-13 : Discussion en séance publique
+    - 2018-03-14 : Discussion en séance publique
+    - 2018-03-20 : Discussion en séance publique
+    - 2018-03-20 : Décision
+- Commission Mixte Paritaire
+  - 2018-03-21 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-04-05 : Nomination de rapporteur
+    - 2018-04-05 : Dépôt du rapport d'une CMP (RAPPANR5L15B0853)
+    - 2018-04-05 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0401, PRJLSNR5S299BTC0402)
+  - 2018-04-05 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-03-21 : Dépôt d'une initiative en navette (PRJLANR5L15B0806)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-21 : Renvoi en commission au fond
+      - 2018-06-12 : Réunion de commission
+      - 2018-06-12 : Réunion de commission
+      - 2018-06-26 : Réunion de commission
+      - 2018-07-31 : Réunion de commission
+      - 2018-06-13 : Dépôt de rapport (RAPPANR5L15B1056, PRJLANR5L15BTC1056)
+  - Discussion en séance publique
+    - 2018-06-26 : Discussion en séance publique
+    - 2018-06-26 : Décision
+- Nouvelle Lecture
+  - 2018-06-27 : Dépôt d'une initiative en navette (PRJLSNR5S299B0613)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-27 : Renvoi en commission au fond
+      - 2018-07-11 : Dépôt de rapport (RAPPSNR5S299B0658, PRJLSNR5S299BTC0659)
+  - Discussion en séance publique
+    - 2018-07-25 : Discussion en séance publique
+    - 2018-07-25 : Décision
+- Lecture définitive
+  - 2018-07-26 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0143)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-26 : Renvoi en commission au fond
+      - 2018-07-31 : Dépôt de rapport (RAPPANR5L15B1222)
+  - Discussion en séance publique
+    - 2018-07-31 : Décision
+- Promulgation de la loi
+  - 2018-08-10 : Promulgation d'une loi
