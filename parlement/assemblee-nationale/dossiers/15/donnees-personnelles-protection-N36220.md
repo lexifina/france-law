@@ -1,0 +1,87 @@
+# Protection des données personnelles
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36220
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/donnees_personnelles_protection
+- Sénat : https://www.senat.fr/dossier-legislatif/pjl17-296.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-12-13 : 1er dépôt d'une initiative. (PRJLANR5L15B0490)
+  - 2017-12-13 : Etude d'impact (ETDIANR5L15B0490)
+  - 2017-12-13 : Avis du Conseil d'Etat (AVCEANR5L15B0490)
+  - 2017-12-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-13 : Renvoi en commission au fond
+      - 2017-11-29 : Nomination de rapporteur
+      - 2018-01-23 : Réunion de commission
+      - 2018-01-24 : Réunion de commission
+      - 2018-02-06 : Réunion de commission
+      - 2018-01-25 : Dépôt de rapport (RAPPANR5L15B0592, PRJLANR5L15BTC0592)
+    - Travaux d'une commission saisie pour avis
+      - 2017-12-28 : Saisine pour avis d'une commission
+      - 2018-01-10 : Nomination de rapporteur
+      - 2018-01-10 : Réunion de commission
+      - 2018-01-23 : Réunion de commission
+      - 2018-01-23 : Dépôt de rapport (AVISANR5L15B0579)
+  - Discussion en séance publique
+    - 2018-02-06 : Discussion en séance publique
+    - 2018-02-06 : Discussion en séance publique
+    - 2018-02-07 : Discussion en séance publique
+    - 2018-02-07 : Discussion en séance publique
+    - 2018-02-13 : Discussion en séance publique
+    - 2018-02-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-02-14 : Dépôt d'une initiative en navette (PRJLSNR5S299B0296)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-14 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-03-14 : Dépôt de rapport (RAPPSNR5S299B0350, PRJLSNR5S299BTC0351)
+  - Discussion en séance publique
+    - 2018-03-20 : Discussion en séance publique
+    - 2018-03-21 : Discussion en séance publique
+    - 2018-03-21 : Décision
+- Commission Mixte Paritaire
+  - 2018-03-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-04-06 : Nomination de rapporteur
+    - 2018-04-06 : Dépôt du rapport d'une CMP (RAPPANR5L15B0855)
+    - 2018-04-06 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0407, PRJLSNR5S299BTC0408)
+  - 2018-04-06 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-03-22 : Dépôt d'une initiative en navette (PRJLANR5L15B0809)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-22 : Renvoi en commission au fond
+      - 2018-04-10 : Réunion de commission
+      - 2018-04-10 : Réunion de commission
+      - 2018-04-10 : Dépôt de rapport (RAPPANR5L15B0860, PRJLANR5L15BTC0860)
+  - Discussion en séance publique
+    - 2018-04-12 : Discussion en séance publique
+    - 2018-04-12 : Décision
+- Nouvelle Lecture
+  - 2018-04-12 : Dépôt d'une initiative en navette (PRJLSNR5S299B0425)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-12 : Renvoi en commission au fond
+      - 2018-04-18 : Dépôt de rapport (RAPPSNR5S299B0441, PRJLSNR5S299BTC0442)
+  - Discussion en séance publique
+    - 2018-04-19 : Discussion en séance publique
+    - 2018-04-19 : Décision
+- Lecture définitive
+  - 2018-04-23 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0110)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-23 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-05-14 : Discussion en séance publique
+    - 2018-05-14 : Décision
+- Conseil constitutionnel
+  - 2018-05-16 : Saisine du conseil constitutionnel
+  - 2018-06-12 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-06-20 : Promulgation d'une loi
