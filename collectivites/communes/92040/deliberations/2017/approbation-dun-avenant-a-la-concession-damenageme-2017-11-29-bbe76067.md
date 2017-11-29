@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant à la concession d’aménagement de la ZAC Léon Blum
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-11-29
+- Matière : URBANISME
+- Objet : Approbation d’un avenant à la concession d’aménagement de la ZAC Léon Blum
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MDIsInB1ciI6ImJsb2JfaWQifX0=--0ec3076976f72dcdf21f44c6ad97aa5ddb53436c/29112017_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
