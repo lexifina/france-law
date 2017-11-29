@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification du programme des équipements publics et de la modification du dossier de réalisation de la ZAC Cœur de Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-11-29
+- Matière : URBANISME
+- Objet : Approbation de la modification du programme des équipements publics et de la modification du dossier de réalisation de la ZAC Cœur de Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MTQsInB1ciI6ImJsb2JfaWQifX0=--ef43a701938b5bff21f872cb7e98f42930c0d297/29112017_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
