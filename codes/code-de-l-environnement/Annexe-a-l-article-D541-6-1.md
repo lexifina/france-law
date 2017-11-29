@@ -146,7 +146,7 @@ XI. - Pour la formation de filière des déchets diffus spécifiques (DDS) ména
 
 - au titre des associations agréées de protection de l'environnement et des associations nationales de consommateurs et d'usagers : 4 représentants.
 
-XII. - Pour la formation de filière des déchets d'éléments d'ameublement (DEA) ménagers :
+XII. - Pour la formation de filière des déchets d'éléments d'ameublement (DEA) :
 
 - au titre de l'Etat : 1 représentant du ministre chargé de l'environnement, 1 représentant du ministre chargé de l'industrie et 1 représentant du ministre chargé des collectivités territoriales ;
 
@@ -156,19 +156,9 @@ XII. - Pour la formation de filière des déchets d'éléments d'ameublement (DE
 
 - au titre des opérateurs de la prévention et de la gestion des déchets, dont ceux de l'économie sociale et solidaire : 5 représentants ;
 
-- au titre des associations agréées de protection de l'environnement et des associations nationales de consommateurs et d'usagers : 4 représentants.
+- au titre des associations agréées de protection de l'environnement et des associations nationales de consommateurs et d'usagers et des détenteurs et utilisateurs professionnels : 4 représentants.
 
-XIII. - Pour la formation de filière des déchets d'éléments d'ameublement (DEA) professionnels :
-
-- au titre de l'Etat : 1 représentant du ministre chargé de l'environnement, 1 représentant du ministre chargé de l'industrie et 1 représentant du ministre chargé des collectivités territoriales ;
-
-- au titre des producteurs, importateurs et distributeurs : 8 représentants ;
-
-- au titre des élus locaux : 3 représentants ;
-
-- au titre des opérateurs de la prévention et de la gestion des déchets, dont ceux de l'économie sociale et solidaire : 5 représentants ;
-
-- au titre des associations agréées de protection de l'environnement et des détenteurs et utilisateurs professionnels : 4 représentants.
+XIII. - (Abrogé).
 
 XIV. - Pour la formation de filière des déchets d'équipements électriques et électroniques (DEEE) professionnels :
 
