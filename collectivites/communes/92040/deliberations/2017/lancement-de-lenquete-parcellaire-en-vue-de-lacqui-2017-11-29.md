@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement de l’enquête parcellaire en vue de l’acquisition des terrains de l’îlot B de la ZAC Léon Blum
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-11-29
+- Matière : URBANISME
+- Objet : Lancement de l’enquête parcellaire en vue de l’acquisition des terrains de l’îlot B de la ZAC Léon Blum
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMzUsInB1ciI6ImJsb2JfaWQifX0=--7e48192e81fde4378575662c47bff76e79e34108/29112017_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
