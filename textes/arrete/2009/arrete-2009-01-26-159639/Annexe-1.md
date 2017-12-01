@@ -40,23 +40,7 @@ Chargé de mission adjoint au secrétariat général du Gouvernement
 
 |
 
-7
-
-|
-
-Secrétaire général de la commission interministérielle de la politique immobilière de l'Etat
-
-|
-
-1
-
-|
-
-Chargé de mission coopération internationale au cabinet du secrétaire général du Gouvernement
-
-|
-
-1
+9
 
 |
 
@@ -64,13 +48,29 @@ Cabinet du Premier ministre
 
 |
 
-Chef du service des interventions
+Chef de la section des interventions
 
 |
 
 1
 
 |
+
+Secrétariat général de la défense et de la sécurité nationale |
+
+Chef du service technique du groupement interministériel de contrôle |
+
+1 |
+
+Chef du service de la gestion et du contrôle des techniques de renseignement et référent juridique du groupement interministériel de contrôle |
+
+1 |
+
+Commissariat général à l'égalité des territoires |
+
+Responsable du pôle pilotage, contrats de ville et coordination |
+
+1 |
 
 Direction des services administratifs et financiers
 
@@ -132,7 +132,7 @@ Responsable du département de l'information régalienne et économique
 
 |
 
-Responsable du département de l'édition
+Responsable du département de l'édition et du débat public
 
 |
 
@@ -172,7 +172,7 @@ Responsable du département de l'information administrative multicanal
 
 |
 
-Adjoint au responsable du département de l'édition
+Adjoint au responsable du département de l'édition et du débat public
 
 |
 
