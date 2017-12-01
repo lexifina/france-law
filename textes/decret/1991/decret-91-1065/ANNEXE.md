@@ -154,10 +154,6 @@ Au titre des compétences techniques :
 
 PERSONNELS DU CADRE NATIONAL DES PREFECTURES
 
-Fonction d'accueil
-
-Emplois de guichet et emplois d'encadrement dans les bureaux délivrant les cartes grises.
-
 Fonction d'encadrement
 
 Emplois de chefs de bureau des services interministériels des affaires civiles et économiques de défense et de protection civile (S. I. A. C. E. D. P. C.) et de chefs de bureau de l'habillement, des moyens de fonctionnement, des moyens mobiles et de l'armement dans les S. G. A. P.
@@ -216,11 +212,7 @@ PERSONNELS DES GREFFES DES TRIBUNAUX ADMINISTRATIFS ET DES COURS ADMINISTRATIVES
 
 Emplois afférents à la gestion du budget des juridictions.
 
-Personnels en poste dans les départements et collectivités territoriales d'outre-mer
-
-Fonction d'accueil
-
-Emplois de guichet et emplois d'encadrement dans les bureaux des cartes grises.
+PERSONNELS EN POSTE DANS LES DEPARTEMENTS ET LES COLLECTIVITES TERRITORIALES D'OUTRE-MER
 
 Fonction d'encadrement
 
@@ -275,8 +267,6 @@ PERSONNELS DU CADRE NATIONAL DES PREFECTURES
 Fonction d'accueil
 
 Emplois d'accueil spécialisé dans les domaines d'action de la politique de la ville, et notamment le logement social.
-
-Emplois de guichet et emplois d'encadrement dans les bureaux de circulation (cartes grises).
 
 Emplois de guichet dans les bureaux des étrangers.
 
@@ -347,8 +337,6 @@ Emplois de greffier en chef.
 PERSONNELS EN POSTE DANS LES DEPARTEMENTS ET COLLECTIVITES TERRITORIALES D'OUTRE-MER
 
 Fonction d'accueil
-
-Emplois de guichet et emplois d'encadrement dans les bureaux de circulation.
 
 Emplois de guichet et emplois d'encadrement dans les bureaux des étrangers.
 
