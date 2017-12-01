@@ -20,82 +20,6 @@ NOMBRE DE POINTS
 
 |
 
-|
-
-|
-
-A compter du 1er août 1992
-
-|
-
-A compter du 1er août 1992
-
-|
-
-Chefs de bureau Circulation (bureau délivrant les certificats d'immatriculation)
-
-|
-
-A ou B
-
-|
-
-14
-
-|
-
-20
-
-|
-
-Adjoints
-
-|
-
-A ou B
-
-|
-
-14
-
-|
-
-20
-
-|
-
-Chefs de section
-
-|
-
-B ou C
-
-|
-
-31
-
-|
-
-20
-
-|
-
-Guichets
-
-|
-
-B ou C
-
-|
-
-290
-
-|
-
-10
-
-|
-
 Chef du bureau du SIACEDPC
 
 |
@@ -265,54 +189,6 @@ A compter du 1er août 1992
 |
 
 A compter du 1er août 1992
-
-|
-
-Chefs de bureau Circulation (bureau délivrant les certificats d'immatriculation)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Encadrement
-
-|
-
-B ou C
-
-|
-
-2
-
-|
-
-15
-
-|
-
-Guichets
-
-|
-
-C
-
-|
-
-10
-
-|
-
-10
 
 |
 
