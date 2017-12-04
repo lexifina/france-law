@@ -1,363 +1,183 @@
 # Article Annexe 1
 
-NOM DE LA COMMISSION
+NOM DE LA COMMISSION |
 
-|
+TEXTE INSTITUTIF |
 
-TEXTE INSTITUTIF
+Conseil supérieur de la navigation de plaisance et des sports nautiques. |
 
-|
+Décret n° 67-315 du 31 mars 1967 portant création d'un Conseil supérieur de la navigation de plaisance et des sports nautiques. |
 
-Conseil supérieur de la navigation de plaisance et des sports nautiques.
+Comité consultatif des réseaux d'observations météorologiques. |
 
-|
+Arrêté du 10 février 2010 relatif au comité consultatif des réseaux d'observations météorologiques |
 
-Décret n° 67-315 du 31 mars 1967 portant création d'un Conseil supérieur de la navigation de plaisance et des sports nautiques.
+Commission nationale consultative pour la faune sauvage captive (deux formations). |
 
-|
+Article R. 413-2 du code de l'environnement. |
 
-Comité consultatif des réseaux d'observations météorologiques.
+Conseil de gestion du fonds de prévention des risques naturels majeurs. |
 
-|
+Article R. 561-10 et suivants du code de l'environnement. |
 
-Arrêté du 10 février 2010 relatif au comité consultatif des réseaux d'observations météorologiques
+Conseil national de l'air. |
 
-|
+Article D. 221-16 du code de l'environnement. |
 
-Commission nationale consultative pour la faune sauvage captive (deux formations).
+Conseil national des déchets. |
 
-|
+Article D. 541-1 et suivants du code de l'environnement. |
 
-Article R. 413-2 du code de l'environnement.
+Conseil supérieur de l'aviation civile. |
 
-|
+Articles D. 370-1 et suivants du code de l'aviation civile. |
 
-Conseil de gestion du fonds de prévention des risques naturels majeurs.
+Commission d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère. |
 
-|
+Arrêté du 11 mars 2010 relatif aux modalités d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère. |
 
-Article R. 561-10 et suivants du code de l'environnement.
+Comité de la prévention et de la précaution. |
 
-|
+Arrêté du 30 juillet 1996 portant création du comité de la prévention et de la précaution. |
 
-Conseil national de l'air.
+Comité de coordination industrielle pour les déchets radioactifs. |
 
-|
+Article R. 542-73 du code de l'environnement. |
 
-Article D. 221-16 du code de l'environnement.
+Conseil supérieur de la météorologie. |
 
-|
+Décret n° 91-1209 du 29 novembre 1991 portant réorganisation du Conseil supérieur de la météorologie. |
 
-Conseil national des déchets.
+Commission nationale de la négociation collective de la marine marchande. |
 
-|
+Article R. 742-5 du code du travail. |
 
-Article D. 541-1 et suivants du code de l'environnement.
+Comité de l'environnement polaire. |
 
-|
+Articles D. 133-31 et D. 133-34 du code de l'environnement. |
 
-Conseil supérieur de l'aviation civile.
+Commission administrative de l'aviation civile. |
 
-|
+Article R. 160-1 et suivants et R. 330-20 du code de l'aviation civile. |
 
-Articles D. 370-1 et suivants du code de l'aviation civile.
-
-|
-
-Commission d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère.
-
-|
-
-Arrêté du 11 mars 2010 relatif aux modalités d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère.
-
-|
-
-Comité de la prévention et de la précaution.
-
-|
-
-Arrêté du 30 juillet 1996 portant création du comité de la prévention et de la précaution.
-
-|
-
-Comité de coordination industrielle pour les déchets radioactifs.
-
-|
-
-Article R. 542-73 du code de l'environnement.
-
-|
-
-Conseil supérieur de la météorologie.
-
-|
-
-Décret n° 91-1209 du 29 novembre 1991 portant réorganisation du Conseil supérieur de la météorologie.
-
-|
-
-Commission nationale de la négociation collective de la marine marchande.
-
-|
-
-Article R. 742-5 du code du travail.
-
-|
-
-Comité de l'environnement polaire.
-
-|
-
-Articles D. 133-31 et D. 133-34 du code de l'environnement.
-
-|
-
-Commission administrative de l'aviation civile.
-
-|
-
-Article R. 160-1 et suivants et R. 330-20 du code de l'aviation civile.
-
-|
-
-Commission centrale des appareils à pression.
-
-|
+Commission centrale des appareils à pression. |
 
 Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression (art. 26).
 
-Arrêté du 31 juillet 2009 relatif à la composition de la Commission centrale des appareils à pression
+Arrêté du 31 juillet 2009 relatif à la composition de la Commission centrale des appareils à pression |
 
-|
+Comité de coordination des aéroports français. |
 
-Comité de coordination des aéroports français.
+Arrêté du 28 septembre 2004 créant le comité de coordination des aéroports français. |
 
-|
+Commission consultative du budget annexe contrôle et exploitation aériens. |
 
-Arrêté du 28 septembre 2004 créant le comité de coordination des aéroports français.
+Arrêté du 8 juin 2006 relatif à la commission consultative du budget annexe contrôle et exploitation aérien. |
 
-|
+Conseil de discipline du personnel navigant professionnel de l'aéronautique civile. |
 
-Commission consultative du budget annexe contrôle et exploitation aériens.
+Articles R. 425-4 du code de l'aviation civile. |
 
-|
+Commissions de discipline des personnels navigants non professionnels. |
 
-Arrêté du 8 juin 2006 relatif à la commission consultative du budget annexe contrôle et exploitation aérien.
+Articles D. 431-3 et suivants du code de l'aviation civile. |
 
-|
+Conseil du personnel navigant professionnel de l'aéronautique civile. |
 
-Conseil de discipline du personnel navigant professionnel de l'aéronautique civile.
+Articles R. 421-7 du code de l'aviation civile. |
 
-|
+Commissions des cultures marines. |
 
-Articles R. 425-4 du code de l'aviation civile.
+Décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines (art. 2 et 3). |
 
-|
+Comité local de sûreté portuaire. |
 
-Commissions de discipline des personnels navigants non professionnels.
+Articles R. 321-4 et R. 321-5 du code des ports maritimes. |
 
-|
+Commissions régionales de sécurité. |
 
-Articles D. 431-3 et suivants du code de l'aviation civile.
+Décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution (art. 20 à 22). |
 
-|
+Commission des phares et des autres aides à la navigation. |
 
-Conseil du personnel navigant professionnel de l'aéronautique civile.
+Décret n° 2017-1653 du 30 novembre 2017 relatif à la signalisation maritime. |
 
-|
+Commissions nautiques locales. |
 
-Articles R. 421-7 du code de l'aviation civile.
+Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques. |
 
-|
+Comité spécialisé de la formation professionnelle maritime. |
 
-Commissions des cultures marines.
+Article R. 342-6 du code de l'éducation. |
 
-|
+Commission consultative pour la délivrance de l'attestation de capacité professionnelle à l'exercice de la profession de transporteur public de marchandises par bateau de navigation intérieure. |
 
-Décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines (art. 2 et 3).
+Arrêté du 28 juillet 1992 fixant la liste des diplômes permettant à leur titulaire d'obtenir l'attestation de capacité à la profession de transporteur public de marchandises par bateau de navigation intérieure. |
 
-|
+Comité des usagers d'aéroports (assistance en escale). |
 
-Comité local de sûreté portuaire.
+Articles R. 216-8 et D. 216-1 du code de l'aviation civile. |
 
-|
+Comités consultatifs régionaux de l'aviation générale et de l'aviation légère et sportive. |
 
-Articles R. 321-4 et R. 321-5 du code des ports maritimes.
+Arrêté du 1er décembre 2005 relatif à la création des comités consultatifs régionaux de l'aviation générale et de l'aviation légère et sportive. |
 
-|
+Assemblée commerciale (pilotage dans les eaux maritimes). |
 
-Commissions régionales de sécurité.
+Décret n° 69-515 du 19 mai 1969 relatif au régime du pilotage dans les eaux maritimes (art. 15-I). |
 
-|
+Commission locale (pilotage dans les eaux maritimes). |
 
-Décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution (art. 20 à 22).
+Décret n° 69-515 du 19 mai 1969 relatif au régime du pilotage dans les eaux maritimes (art. 7 et 9). |
 
-|
+Commission des usagers du port pour le service du remorquage portuaire. |
 
-Commission des phares.
+Arrêté du ministre des transports du 14 avril 1981 relatif à la composition et au fonctionnement de la commission des usagers du port pour le service du remorquage portuaire. |
 
-|
+Comités consultatifs des réserves naturelles nationales. |
 
-Décret n° 82-419 du 18 mai 1982 fixant les attributions de la commission des phares.
+Articles R. 332-15 à R. 332-17 du code de l'environnement. |
 
-|
+Conseils scientifiques des réserves naturelles nationales. |
 
-Commissions nautiques locales.
+Article R. 332-18 du code de l'environnement. |
 
-|
+Conseil national de l'information géographique. |
 
-Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques.
+Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géographique. |
 
-|
+Comité technique de l'utilisation des produits pétroliers. |
 
-Comité spécialisé de la formation professionnelle maritime.
+Décret n° 62-1297 du 7 novembre 1962 portant règlement d'administration publique, en ce qui concerne les règles techniques d'utilisation et les caractéristiques des produits pétroliers. |
 
-|
+Commission mixte du statut de la RATP. |
 
-Article R. 342-6 du code de l'éducation.
+Décret n° 60-1362 du 19 décembre 1960 créant une commission mixte chargée d'élaborer le statut du personnel de la Régie autonome des transports parisiens (art. 1er). |
 
-|
+Commission mixte du statut de la SNCF. |
 
-Commission consultative pour la délivrance de l'attestation de capacité professionnelle à l'exercice de la profession de transporteur public de marchandises par bateau de navigation intérieure.
+Décret n° 50-637 du 1er juin 1950 modifiant les attributions du conseil d'administration de la Société nationale des chemins de fer français en matière de personnel (art. 1er). |
 
-|
+Commission nationale mixte de la SNCF. |
 
-Arrêté du 28 juillet 1992 fixant la liste des diplômes permettant à leur titulaire d'obtenir l'attestation de capacité à la profession de transporteur public de marchandises par bateau de navigation intérieure.
+Décret n° 99-1161 du 29 décembre 1999 relatif à la durée du travail du personnel de la Société nationale des chemins de fer français (art. 57) et arrêté du 12 décembre 2000 instituant une commission nationale mixte au sein de la SNCF (art. 2). |
 
-|
+Conseil portuaire (ports d'intérêt national relevant de la compétence de l'Etat). |
 
-Comité des usagers d'aéroports (assistance en escale).
+Articles R. 141-1 à R. 141-4 du code des ports maritimes. |
 
-|
+Grande commission nautique. |
 
-Articles R. 216-8 et D. 216-1 du code de l'aviation civile.
+Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques. |
 
-|
+Comité des usagers du réseau routier national. |
 
-Comités consultatifs régionaux de l'aviation générale et de l'aviation légère et sportive.
+Décret n° 2009-1102 du 8 septembre 2009 modifié par le décret n° 2013-1025 du 13 novembre 2013. |
 
-|
+Commission interministérielle du transport des matières dangereuses. |
 
-Arrêté du 1er décembre 2005 relatif à la création des comités consultatifs régionaux de l'aviation générale et de l'aviation légère et sportive.
+Articles D. 1252-1 à D. 1252-7 du code des transports (décret n° 2014-530 du 22 mai 2014 relatif à certaines dispositions de la partie réglementaire du code des transports). |
 
-|
+Conseil national de la protection de la nature. |
 
-Assemblée commerciale (pilotage dans les eaux maritimes).
-
-|
-
-Décret n° 69-515 du 19 mai 1969 relatif au régime du pilotage dans les eaux maritimes (art. 15-I).
-
-|
-
-Commission locale (pilotage dans les eaux maritimes).
-
-|
-
-Décret n° 69-515 du 19 mai 1969 relatif au régime du pilotage dans les eaux maritimes (art. 7 et 9).
-
-|
-
-Commission des usagers du port pour le service du remorquage portuaire.
-
-|
-
-Arrêté du ministre des transports du 14 avril 1981 relatif à la composition et au fonctionnement de la commission des usagers du port pour le service du remorquage portuaire.
-
-|
-
-Comités consultatifs des réserves naturelles nationales.
-
-|
-
-Articles R. 332-15 à R. 332-17 du code de l'environnement.
-
-|
-
-Conseils scientifiques des réserves naturelles nationales.
-
-|
-
-Article R. 332-18 du code de l'environnement.
-
-|
-
-Conseil national de l'information géographique.
-
-|
-
-Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géographique.
-
-|
-
-Comité technique de l'utilisation des produits pétroliers.
-
-|
-
-Décret n° 62-1297 du 7 novembre 1962 portant règlement d'administration publique, en ce qui concerne les règles techniques d'utilisation et les caractéristiques des produits pétroliers.
-
-|
-
-Commission mixte du statut de la RATP.
-
-|
-
-Décret n° 60-1362 du 19 décembre 1960 créant une commission mixte chargée d'élaborer le statut du personnel de la Régie autonome des transports parisiens (art. 1er).
-
-|
-
-Commission mixte du statut de la SNCF.
-
-|
-
-Décret n° 50-637 du 1er juin 1950 modifiant les attributions du conseil d'administration de la Société nationale des chemins de fer français en matière de personnel (art. 1er).
-
-|
-
-Commission nationale mixte de la SNCF.
-
-|
-
-Décret n° 99-1161 du 29 décembre 1999 relatif à la durée du travail du personnel de la Société nationale des chemins de fer français (art. 57) et arrêté du 12 décembre 2000 instituant une commission nationale mixte au sein de la SNCF (art. 2).
-
-|
-
-Conseil portuaire (ports d'intérêt national relevant de la compétence de l'Etat).
-
-|
-
-Articles R. 141-1 à R. 141-4 du code des ports maritimes.
-
-|
-
-Grande commission nautique.
-
-|
-
-Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques.
-
-|
-
-Comité des usagers du réseau routier national.
-
-|
-
-Décret n° 2009-1102 du 8 septembre 2009 modifié par le décret n° 2013-1025 du 13 novembre 2013.
-
-|
-
-Commission interministérielle du transport des matières dangereuses.
-
-|
-
-Articles D. 1252-1 à D. 1252-7 du code des transports (décret n° 2014-530 du 22 mai 2014 relatif à certaines dispositions de la partie réglementaire du code des transports).
-
-|
-
-Conseil national de la protection de la nature.
-
-|
-
-Articles R. 133-1 et suivants du code de l'environnement.
-
-|
+Articles R. 133-1 et suivants du code de l'environnement. |
