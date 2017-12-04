@@ -318,9 +318,13 @@ Chenôve.
 
 |
 
-Haute-Marne |
+Haute-Marne
 
-Chaumont |
+|
+
+Chaumont
+
+|
 
 Saint-Dizier. |
 
@@ -538,7 +542,9 @@ Forbach.
 
 |
 
-Thionville |
+Thionville
+
+|
 
 Hayange (Val de Fensch). |
 
@@ -573,6 +579,16 @@ Montpellier
 Lodève, Lunel, Montpellier (La Paillade).
 
 |
+
+Pyrénées-Orientales
+
+|
+
+Perpignan
+
+|
+
+Perpignan |
 
 Cour d'appel de Nancy
 
@@ -770,9 +786,13 @@ Nantes, Nantes-Rezé, Châteaubriant.
 
 |
 
-Morbihan |
+Morbihan
 
-Lorient |
+|
+
+Lorient
+
+|
 
 Pontivy. |
 
