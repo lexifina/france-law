@@ -1,6 +1,6 @@
 # Article Annexe XII
 
-ÉPREUVE D'APTITUDE SNOWBOARD
+Epreuve d'aptitude snowboard
 
 I. - Le test technique de sécurité
 
@@ -22,15 +22,17 @@ Le dénivelé et le nombre de portes du tracé sont déterminés à partir des n
 
 Les ouvreurs, au nombre minimal de deux et le traceur sont désignés par le directeur général de l'Ecole nationale des sports de montagne, directeur de l'Ecole nationale de ski et d'alpinisme (directeur de l'ENSA) parmi ceux figurant sur une liste qu'il établit annuellement, sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. Les ouvreurs sont étalonnés annuellement et doivent avoir un niveau de performance minimum équivalent à 120 points FIS correspondant aux disciplines du snowboard suivantes : slalom géant parallèle ou snowboardcross.
 
-Les ouvreurs et le traceur doivent être titulaires d'un des quatre diplômes suivants :
+Les ouvreurs et le traceur doivent être titulaires d'un des cinq diplômes suivants :
 
 - le diplôme de moniteur de ski français ;
 
-- le brevet d'Etat de ski, option “ski alpin” du deuxième degré ;
+- le brevet d'Etat de ski, option “ ski alpin ” du deuxième degré ;
 
-- le brevet d'Etat d'éducateur sportif du premier degré, option “ski alpin” ;
+- le brevet d'Etat d'éducateur sportif du premier degré, option “ ski alpin ” ;
 
-- le brevet d'Etat d'éducateur sportif du deuxième degré, option “ski alpin”.
+- le brevet d'Etat d'éducateur sportif du deuxième degré, option “ ski alpin ” ;
+
+- le diplôme d'Etat de ski-moniteur national de ski alpin.
 
 5. L'évaluation.
 
@@ -52,7 +54,7 @@ Ce coefficient est porté à la connaissance des candidats, avant le début de l
 
 Le temps de base est calculé à partir du meilleur temps compensé des ouvreurs selon la formule suivante :
 
-TB = [ (TR O début × CC O) + (TR O fin × CC O) ] /2
+TB = [(TR O début × CC O) + (TR O fin × CC O)]/2
 
 Le temps maximal d'admission est déterminé comme suit :
 
@@ -78,15 +80,15 @@ La commission de course, chargée de vérifier le déroulement du test et sa con
 
 II. - Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité
 
-Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité est organisé par l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme. Il peut se dérouler sur plusieurs jours.
+Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité est organisé par l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme.
 
-Le test se déroule en période hivernale et comprend trois épreuves permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à partir d'une mise en situation professionnelle sur le terrain :
+Ce test se déroule en période hivernale sur une durée de deux à cinq jours. Il comprend trois épreuves permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à partir d'une mise en situation professionnelle sur le terrain :
 
-1° d'effectuer une recherche multi-victimes en avalanche dans un temps limité ;
+1° D'effectuer une recherche multi-victimes en avalanche dans un temps limité ;
 
-2° d'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les conditions de sécurité pour progresser en snowboard sur pistes et hors des pistes et de gérer la situation en cas d'accident ;
+2° D'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les conditions de sécurité pour progresser en snowboard sur pistes et hors des pistes et de gérer la situation en cas d'accident ;
 
-3° d'assurer en snowboard la conduite d'un groupe de snowboarders en sécurité, en hors pistes.
+3° D'assurer en snowboard la conduite d'un groupe de snowboarders en sécurité, en hors-pistes, sur deux jours minimum.
 
 1. Première épreuve : recherche multi-victimes en avalanche.
 
@@ -100,9 +102,9 @@ Dans le cadre d'une mise en situation professionnelle, le candidat doit être en
 
 a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigés en français ;
 
-b) De se situer sur un plan des pistes de la station et sur une carte.
+b) De se situer sur un plan des pistes de la station et sur une carte topographique
 
-D'une durée de 20 mn, l'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en français l'analyse du bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les comparer avec les conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan des pistes de la station ainsi que d'une carte topographique IGN 1/250 000.
+L'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en français l'analyse du bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les comparer avec les conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan des pistes de la station ainsi que d'une carte topographique IGN 1/25 000.
 
 Cette capacité est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas l'une des deux situations a ou b, il est éliminé.
 
@@ -112,13 +114,11 @@ Le candidat doit être en capacité :
 
 a) De mettre en œuvre les conditions de sécurité pour progresser exclusivement en snowboard sur pistes et hors des pistes et de gérer le groupe en toute situation ;
 
-b) A partir d'un scénario d'accident :
+b) De gérer un accident : d'éviter le suraccident et de gérer le groupe ;
 
-- d'éviter le sur-accident et de gérer le groupe ;
+c) D'alerter les secours en émettant un message d'alerte en français.
 
-- d'alerter les secours en émettant un message d'alerte en français.
-
-L'épreuve, d'une durée de 30 mn, se déroule sur le domaine skiable en secteurs hors-pistes. Elle consiste, pour le candidat à conduire une séance pédagogique en évoluant à la descente, le dénivelé minimal étant de 400 m. La séance se déroule à partir du sommet d'une remontée mécanique et exclusivement en snowboard. Le jury détermine le secteur sur lequel le candidat évolue et ce dernier choisit son itinéraire sur ce secteur.
+L'épreuve, se déroule sur le domaine skiable en secteurs hors-pistes. Elle consiste, pour le candidat à conduire une séance pédagogique en évoluant à la descente. La séance se déroule à partir du sommet d'une remontée mécanique et exclusivement en snowboard. Le jury détermine le secteur sur lequel le candidat évolue et ce dernier choisit son itinéraire sur ce secteur.
 
 Le candidat doit démontrer au jury, en fonction de la situation rencontrée, qu'il est en capacité :
 
@@ -132,4 +132,6 @@ Le candidat doit démontrer au jury, en fonction de la situation rencontrée, qu
 
 Au cours de cette épreuve, le candidat doit émettre un message d'alerte en français ;
 
-Cette capacité est acquise ou non acquise.
+Dans le cas où le candidat ne valide pas l'une quelconque des trois capacités a, b ou c, il est éliminé.
+
+Le test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité doit être validé en totalité. En cas d'échec à l'une quelconque des trois épreuves qui le composent, le candidat repasse le test dans son intégralité.
