@@ -1,8 +1,6 @@
 # Article Annexe II-16-6 (art. A212-225)
 
-ÉPREUVE D'APTITUDE
-
-(art. A. 212-225)
+Epreuve d'aptitude
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité.
 
@@ -30,11 +28,11 @@ La capacité à concevoir un projet en alpinisme est évaluée de façon globale
 
 Ce test vise à vérifier la capacité du candidat à évoluer en sécurité dans un environnement de haute montagne en utilisant les techniques de l'alpinisme, soit :
 
-― à préparer l'excursion ou l'ascension ;
+-à préparer l'excursion ou l'ascension ;
 
-― à mettre en œuvre les techniques adaptées aux différents types de terrains ;
+-à mettre en œuvre les techniques adaptées aux différents types de terrains ;
 
-― à gérer en sécurité le public dont il assure l'encadrement.
+-à gérer en sécurité le public dont il assure l'encadrement.
 
 Il consiste à accompagner et à guider un public dans des excursions ou des ascensions en montagne, pendant une durée maximale de cinq jours.
 
