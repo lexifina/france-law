@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700440
+
+- Question : [SEQ170700440](seq170700440.md) — Dépenses d'entretien et de réparation des temples protestants
+
+## Réponse
+
+*Intérieur, JO du 2017-12-07, page 3882*
+
+Les frais d'entretien des bâtiments cultuels en Alsace-Moselle incombent à titre principal aux établissements publics du culte. Ce n'est qu'en cas d'insuffisance de ressources de ces établissements publics que les communes composant la circonscription cultuelle correspondante sont appelées, à titre subsidiaire, à participer à cette charge, en application de l'article L. 2543-3 du code général des collectivités territoriales. En ce qui concerne le culte catholique, les modalités de cette intervention communale sont précisées par l'article 4 de la loi du 14 février 1810, selon une clé de répartition « au marc le franc », c'est-à-dire au prorata des contributions directes locales de chacune des communes comprises dans le ressort paroissial. Cependant, aucune disposition équivalente ne s'appliquant aux autres confessions, en particulier aux cultes protestants pour lesquels les communes comprises dans le ressort paroissial n'ont par ailleurs pas été précisément désignées, il y a lieu de considérer que, sous réserve de l'appréciation souveraine des tribunaux, peut être appliquée par analogie la règle de répartition des charges selon le critère fiscal de la loi de 1810 précitée. Le cas échéant, il appartient aux autorités religieuses compétentes d'apporter aux communes susceptibles d'être appelées à participer à cette charge, toutes précisions utiles relatives au périmètre de la paroisse considérée, notamment sur la base du registre paroissial qui recense les électeurs appelés à désigner les membres laïques du conseil presbytéral chargé de l'administration de la paroisse en application de l'article 1er du décret du 26 mars 1852 modifié portant réorganisation des cultes protestants.
