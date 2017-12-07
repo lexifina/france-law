@@ -1,10 +1,10 @@
 # Article Annexe II-16-1 (art. A212-211)
 
-ÉPREUVE D'APTITUDE
+Epreuve d'aptitude
 
-A. - Mention "progression traditionnelle" (TRAD) (BPJEPS)
+A.-Option “ méthode traditionnelle ” (TRAD) de la mention “ parachutisme ” du BP JEPS
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention progression traditionnelle.
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ méthode traditionnelle ”.
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
@@ -26,7 +26,7 @@ c) Connaissances relatives à la manipulation des sangles à ouverture automatiq
 
 Cette partie du test consiste, pour le candidat, à démontrer qu'il possède les automatismes relatifs aux procédures d'accrochage des sangles à ouverture automatique.
 
-d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires ;
+d) Connaissances relatives à l'organisation du parachutisme en France et aux obligations réglementaires
 
 Chaque partie a, b et c du test est éliminatoire.
 
@@ -46,9 +46,9 @@ Il consiste dans le parachutage des deux évaluateurs incluant :
 
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.
 
-B. - Mention "progression accompagnée en chute (PAC)" (BPJEPS)
+B.-Option “ progression accompagnée en chute ” (PAC) de la mention “ parachutisme ” du BP JEPS
 
-L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention progression accompagnée en chute.
+L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans l'option “ progression accompagnée en chute ”.
 
 1. Test de vérification des connaissances théoriques et pratiques en matière de sécurité
 
@@ -82,9 +82,7 @@ Il se déroule en vol à une hauteur minimale de 3 500 mètres et vise à vérif
 
 - de déclencher de manière fictive, au moment opportun, l'ouverture du parachute de l'évaluateur.
 
-Chaque saut est expertisé par deux évaluateurs, l'un en vol, l'autre au sol.
-
-Il comporte trois sauts, qui se déroulent dans l'ordre chronologique suivant :
+Il comporte trois sauts, expertisés chacun par deux évaluateurs, l'un en vol, l'autre au sol. Ces sauts se déroulent dans l'ordre chronologique suivant :
 
 a) Saut 1 :
 
@@ -118,7 +116,7 @@ c) Saut 3 :
 
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de l'évaluateur, en utilisant les termes techniques appropriés.
 
-C. - Mention "parachute biplace (tandem)" (BPJEPS)
+C.-Option “ saut en tandem ” (TANDEM) de la mention “ parachutisme ” du BP JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité dans la mention tandem.
 
@@ -130,7 +128,7 @@ a) Connaissances relatives aux spécificités du parachute biplace et de son dé
 
 Cette partie du test consiste, pour le candidat, à effectuer un pliage et un contrôle des points de sécurité de l'équipement (parachute biplace et harnais passager).
 
-b) Connaissances relatives aux incidents, remèdes et procédures de secours en chute et sous voilure(s) ouverte(s).
+b) Connaissances relatives aux incidents, remèdes et procédures de secours en chute et sous voilure (s) ouverte (s).
 
 Cette partie du test consiste, pour le candidat :
 
@@ -158,9 +156,7 @@ Il vise à vérifier si le candidat :
 
 - dirige la voilure et effectue un atterrissage en sécurité.
 
-Il comporte deux sauts de difficulté croissante. Le candidat ne peut effectuer le deuxième saut que s'il réussit le premier saut.
-
-Chaque saut est expertisé par deux évaluateurs, l'un en vol, l'autre au sol.
+Il comporte deux sauts de difficulté croissante expertisé chacun par deux évaluateurs, l'un en vol, l'autre au sol. Le candidat ne peut effectuer le second saut que s'il réussit le premier saut.
 
 a) Saut 1 :
 
@@ -184,7 +180,7 @@ Exercices sous voilure :
 
 - mise en œuvre et contrôle de la voilure : l'évaluateur a les doubles commandes en main. Il est neutre, sauf cas d'urgence ;
 
-- pilotage : en fonction du vent, l'évaluateur peut demander une prise de terrain en "U" (PTU) ou une prise de terrain en "S" (PTS). Le périmètre d'atterrissage est de 50 mètres de diamètre ;
+- pilotage : en fonction du vent, l'évaluateur peut demander une prise de terrain en “ U ” (PTU) ou une prise de terrain en “ S ” (PTS). Le périmètre d'atterrissage est de 50 mètres de diamètre ;
 
 - approche jusqu'en finale avec 30 à 50 % de frein : courte finale bras hauts ;
 
@@ -198,9 +194,9 @@ Exercices en chute :
 
 - sortie d'avion, l'évaluateur provoque des perturbations sans RSE ;
 
-- le candidat doit assurer la stabilité tant que l'évaluateur maintient "ses mains dehors" ;
+- le candidat doit assurer la stabilité tant que l'évaluateur maintient “ ses mains dehors ” ;
 
-- le candidat lance le RSE dès que l'évaluateur met "ses mains au harnais" à 2 500 mètres minimum ;
+- le candidat lance le RSE dès que l'évaluateur met “ ses mains au harnais ” à 2 500 mètres minimum ;
 
 - le candidat effectue une simulation d'ouverture sur la commande d'ouverture de la voilure principale (CDO) ;
 
@@ -220,7 +216,7 @@ Exercices sous voilure :
 
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.
 
-D. - Mention "parachutisme" (DEJEPS)
+D.-Mention “ parachutisme ” du DE JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.
 
