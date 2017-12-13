@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHE DE TRAVAUX - REQUALIFICATION DES PLACES MADELEINE, VERDUN, PRECHEURS ET DES RUES ADJACENTES AU PALAIS MONCLAR ET DE LA RUE THIERS - AUTORISATION DE LANCEMENT DES PROCEDURES ET DE SIGNATURES DES LOTS 4 A 8 (ARTICLE 2122-21-1 du C.G.C.T)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : MARCHE DE TRAVAUX - REQUALIFICATION DES PLACES MADELEINE, VERDUN, PRECHEURS ET DES RUES ADJACENTES AU PALAIS MONCLAR ET DE LA RUE THIERS - AUTORISATION DE LANCEMENT DES PROCEDURES ET DE SIGNATURES DES LOTS 4 A 8 (ARTICLE 2122-21-1 du C.G.C.T)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-9051-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
