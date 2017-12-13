@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SAEM SACOGIVA - OPERATION VAL FLEURI - CONSTRUCTION DE 22 LOGEMENTS LOCATIFS SOCIAUX - DEUX EMPRUNTS PLS D'UN MONTANT TOTAL DE 2 899 246 EUROS A SOUSCRIRE AUPRES DE LA CAISSE D'EPARGNE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : SAEM SACOGIVA - OPERATION VAL FLEURI - CONSTRUCTION DE 22 LOGEMENTS LOCATIFS SOCIAUX - DEUX EMPRUNTS PLS D'UN MONTANT TOTAL DE 2 899 246 EUROS A SOUSCRIRE AUPRES DE LA CAISSE D'EPARGNE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8986-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
