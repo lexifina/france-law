@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un acte modificatif à la convention de concession de gestion du Palais des Arts et des Congrès d’Issy
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : CULTURE
+- Objet : Approbation d’un acte modificatif à la convention de concession de gestion du Palais des Arts et des Congrès d’Issy
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MTgsInB1ciI6ImJsb2JfaWQifX0=--5fda76388323b6d66c3f917da6e4508cf3869a48/14122017_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
