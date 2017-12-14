@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un acte modificatif au marché d’exploitation des installations de génie climatique des bâtiments communaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation d’un acte modificatif au marché d’exploitation des installations de génie climatique des bâtiments communaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MjAsInB1ciI6ImJsb2JfaWQifX0=--fd26c592c5740b59ac87ede8d56a2ec1d00ea9bb/14122017_28.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
