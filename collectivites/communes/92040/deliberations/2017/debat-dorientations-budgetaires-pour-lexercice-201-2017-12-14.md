@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Débat d’orientations budgétaires pour l’exercice 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : FINANCES
+- Objet : Débat d’orientations budgétaires pour l’exercice 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MTUsInB1ciI6ImJsb2JfaWQifX0=--d8a4950992f1831e084fd1603f1cdb335cf517aa/14122017_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
