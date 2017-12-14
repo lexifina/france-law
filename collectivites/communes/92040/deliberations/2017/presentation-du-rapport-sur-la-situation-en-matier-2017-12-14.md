@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport sur la situation en matière de développement durable à Issy-les-Moulineaux pour l’année 2017
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : DEVELOPPEMENT DURABLE,VIE DES FEMMES
+- Objet : Présentation du rapport sur la situation en matière de développement durable à Issy-les-Moulineaux pour l’année 2017
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MTksInB1ciI6ImJsb2JfaWQifX0=--2be9057d2084acced620b677fab6c0b922b8f2f2/14122017_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
