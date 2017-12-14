@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Versement d’avances à des organismes et associations pour l’exercice 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : FINANCES
+- Objet : Versement d’avances à des organismes et associations pour l’exercice 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MTIsInB1ciI6ImJsb2JfaWQifX0=--285ea830cc38fdd07b2d4b13f3d437bc3d74e7a8/14122017_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
