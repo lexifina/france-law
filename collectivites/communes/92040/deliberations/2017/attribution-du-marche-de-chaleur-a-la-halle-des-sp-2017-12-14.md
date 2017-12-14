@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution du marché de chaleur à la halle des Sports Christiane Guillaume
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Attribution du marché de chaleur à la halle des Sports Christiane Guillaume
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MTksInB1ciI6ImJsb2JfaWQifX0=--4eb97473321696d16bc6cced23df1af163058dd4/14122017_26.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
