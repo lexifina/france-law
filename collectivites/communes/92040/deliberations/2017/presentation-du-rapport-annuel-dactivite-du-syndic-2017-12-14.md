@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’activité du Syndicat Intercommunal de la Périphérie de Paris pour les Énergies et les Réseaux de Communication pour l’exercice 2016
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : ESPACES PUBLICS
+- Objet : Présentation du rapport annuel d’activité du Syndicat Intercommunal de la Périphérie de Paris pour les Énergies et les Réseaux de Communication pour l’exercice 2016
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MDUsInB1ciI6ImJsb2JfaWQifX0=--6cba75d780e050254f4d96fdfcf1b6cc30fc2a19/14122017_36.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
