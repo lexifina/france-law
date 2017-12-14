@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mise à disposition d’un agent de l’Établissement public territorial Grand Paris Seine Ouest auprès de la commune d’Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation d’une convention de mise à disposition d’un agent de l’Établissement public territorial Grand Paris Seine Ouest auprès de la commune d’Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1MzMsInB1ciI6ImJsb2JfaWQifX0=--35c489d208fa095593d4d683fb94f3616e1a9ac5/14122017_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
