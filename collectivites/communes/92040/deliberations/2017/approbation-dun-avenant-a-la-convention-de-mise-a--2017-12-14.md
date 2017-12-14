@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant à la convention de mise à disposition du parc de la Cour d’honneur au sein de l’hôpital Corentin Celton à conclure avec l’Assistance publique – Hôpitaux de Paris
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-12-14
+- Matière : PATRIMOINE
+- Objet : Approbation d’un avenant à la convention de mise à disposition du parc de la Cour d’honneur au sein de l’hôpital Corentin Celton à conclure avec l’Assistance publique – Hôpitaux de Paris
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNDIsInB1ciI6ImJsb2JfaWQifX0=--7b26e1931e775164ffb1eb5d9136a162ddff5166/14122017_33.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
