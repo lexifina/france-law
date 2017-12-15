@@ -2,9 +2,7 @@
 
 CONDITIONS PARTICULIÈRES EXIGÉES DES VÉHICULES DE TRANSPORTS SANITAIRES TERRESTRES DE LA CATÉGORIE D (VÉHICULES SANITAIRES LÉGERS)
 
-I. - Conditions minimales exigées
-
-pour les véhicules sanitaires légers
+I. - Conditions minimales exigées pour les véhicules sanitaires légers :
 
 Ces véhicules répondent aux conditions minimales suivantes :
 
@@ -22,9 +20,7 @@ AC : break (familiale) ;
 
 AF : véhicule à usage multiple.
 
-II. - Nécessaire de secourisme d'urgence
-
-pour les véhicules sanitaires légers
+II. - Nécessaire de secourisme d'urgence pour les véhicules sanitaires légers :
 
 1. Le nécessaire de secourisme d'urgence est composé des produits et matériels suivants :
 
@@ -34,7 +30,7 @@ a) Bande élastique type Velpeau : largeur 5 cm : 1 ; largeur 10 cm : 1 ;
 
 b) Compresse de gaze stérile de taille environ 7,5 × 7,5 cm : 20 ;
 
-c) Pansement stérile absorbant (dit américain ) de taille environ 20 × 40 cm : 2 ;
+c) Pansement stérile absorbant (dit américain) de taille environ 20 × 40 cm : 2 ;
 
 d) Rouleau de ruban adhésif parapharmaceutique, largeur 2 cm : 2 ;
 
@@ -66,9 +62,9 @@ f) Masque de poche pour insufflation à usage unique : 1 ;
 
 g) Sac vomitif type vomix : 5 ;
 
-h) Masque de type chirurgical à usage unique : 2 ;
+h) Masque chirurgical à usage unique : 2 ;
 
-i) Masque de type FFP2 à usage unique : 2.
+i) Masque de protection respiratoire de type FFP2 à usage unique : 2.
 
 2. Le nécessaire de secourisme d'urgence est rassemblé dans un contenant unique, portable, réservé à cet usage, et protégeant des projections et de la poussière.
 

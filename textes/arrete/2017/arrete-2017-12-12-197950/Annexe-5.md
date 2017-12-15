@@ -2,7 +2,7 @@
 
 CONDITIONS COMMUNES EXIGÉES DES VÉHICULES DE TRANSPORTS SANITAIRES TERRESTRES DES TYPES A, B ET C ET DE LA CATÉGORIE D
 
-I. - Mentions apposées sur les véhicules de types A, B, C à l'exception de ceux mis à disposition permanente des SMUR et de la catégorie D
+I. - Mentions apposées sur les véhicules de types A, B, C à l'exception de ceux mis à disposition permanente des SMUR et de la catégorie D :
 
 1. Insigne distinctif :
 
@@ -26,9 +26,7 @@ Elles doivent en particulier :
 
 - pour les emblèmes, logogrammes, être de dimensions inférieures à celles de l'insigne distinctif.
 
-II. - Mentions apposées sur les véhicules de type C
-
-mis à disposition permanente des SMUR
+II. - Mentions apposées sur les véhicules de type C mis à disposition permanente des SMUR :
 
 L'ensemble des mentions apposées sur ces véhicules est de couleur bleue et inamovible.
 
@@ -64,9 +62,7 @@ b) L'emblème ou le logogramme du centre hospitalier de rattachement du SMUR peu
 
 Aucune autre mention complémentaire ne peut être apposée.
 
-III. - Désinfection des véhicules
-
-de types A, B, C et de la catégorie D
+III. - Désinfection des véhicules de types A, B, C et de la catégorie D :
 
 Afin de limiter la propagation des germes et garantir un service de qualité, des procédures de nettoyage et de désinfection, validées par l'organisme notifié désigné par le ministre des transports, sont mises en œuvre et s'appuient obligatoirement sur les documents suivants :
 
