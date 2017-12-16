@@ -2,9 +2,9 @@
 
 FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS EN SERVICES CENTRAUX ET À LA PRÉFECTURE DE POLICE
 
-SERVICES CENTRAUX
+Services centraux
 
-1° Directeur des services actifs
+1° Directeur des services actifs :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -28,24 +28,6 @@ Directeur des services actifs, directeur central de la police aux frontières |
 
 140 |
 
-Directeur des services actifs, directeur général de la sécurité intérieure |
-
-1 |
-
-180 |
-
-Directeur des services actifs, directeur du renseignement et des opérations, adjoint au directeur général de la sécurité intérieure |
-
-1 |
-
-140 |
-
-Directeur des services actifs, directeur technique à la direction générale de la sécurité intérieure |
-
-1 |
-
-140 |
-
 Directeur des services actifs, directeur central des compagnies républicaines de sécurité |
 
 1 |
@@ -64,7 +46,13 @@ Directeur des services actifs, directeur central de la police judiciaire |
 
 140 |
 
-2° Chef de l'inspection générale de la police nationale
+Directeur des services actifs, directeur central du recrutement et de la formation |
+
+1 |
+
+140 |
+
+2° Chef de l'inspection générale de la police nationale :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -82,7 +70,7 @@ Directeur, chef de l'inspection générale de la police nationale (IGPN) |
 
 140 |
 
-3° Chef de service actif
+3° Chef de service actif :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -94,13 +82,19 @@ NOMBRE
 
 de points |
 
-Chef du service de la protection (SDLP) |
+Chef du service de la protection (SDLP |
 
 1 |
 
 130 |
 
-4° Adjoint à un directeur des services actifs
+Chef du service central de la police technique et scientifique (SCPTS) |
+
+1 |
+
+130 |
+
+4° Adjoint à un directeur des services actifs :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -160,7 +154,13 @@ Directeur adjoint de l'inspection générale de la police nationale (IGPN) |
 
 110 |
 
-5° Chef d'état-major et adjoint
+Directeur central adjoint du recrutement et de la formation (DCRFPN) |
+
+1 |
+
+110 |
+
+5° Chef d'état-major et adjoint :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -171,12 +171,6 @@ de bénéficiaires |
 NOMBRE
 
 de points |
-
-Chef d'état-major à la DGSI |
-
-1 |
-
-80 |
 
 Chef d'état-major à la DCPJ |
 
@@ -220,7 +214,13 @@ Chef d'état-major à la DCPAF |
 
 80 |
 
-6° Directeur de cabinet ; conseiller technique ; adjoint à un conseiller ; responsable opérationnel dans un cabinet
+Chef de l'état-major au SCPTS |
+
+1 |
+
+50 |
+
+6° Directeur de cabinet ; conseiller technique ; adjoint à un conseiller ; responsable opérationnel dans un cabinet :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -292,7 +292,7 @@ Chef de l'inspection technique à la DCCRS |
 
 50 |
 
-7° Chef d'un service opérationnel ou délégué à la direction générale de la police nationale (RAID, UCLAT)
+7° Chef d'un service opérationnel ou délégué à la direction générale de la police nationale (RAID, UCLAT) :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -322,7 +322,7 @@ Délégué aux industries de sécurité au ministère de l'intérieur |
 
 40 |
 
-8° Sous-directeur ; coordonnateur ; adjoint à un directeur ou à un chef de service actif ; chef de l'inspection générale de la sécurité intérieure et adjoint ; secrétaire général
+8° Sous-directeur ; coordonnateur ; adjoint à un directeur ou à un chef de service actif ; secrétaire général :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -333,24 +333,6 @@ de bénéficiaires |
 NOMBRE
 
 de points |
-
-Adjoint au directeur technique à la DGSI |
-
-1 |
-
-100 |
-
-Chef de l'inspection générale de la sécurité intérieure à la DGSI |
-
-1 |
-
-110 |
-
-Adjoint au chef de l'inspection générale de la sécurité intérieure à la DGSI |
-
-1 |
-
-100 |
 
 Sous-directeur des ressources, de l'évaluation et de la stratégie à la DCPJ |
 
@@ -376,91 +358,31 @@ Sous-directeur chargé de lutte contre la cybercriminalité à la DCPJ |
 
 80 |
 
-Sous-directeur de la police technique et scientifique à Ecully (DCPJ) |
+Adjoint au chef du service central de la police technique et scientifique |
 
 1 |
 
 100 |
 
-Coordonnateur opérationnel, adjoint au sous-directeur de la police technique et scientifique à Ecully (DCPJ) |
-
-1 |
-
-70 |
-
-Sous-directeur des relations internationales et de la stratégie à la DGSI |
+Sous-directeur du développement des compétences (DCRFPN) |
 
 1 |
 
 100 |
 
-Sous-directeur de la lutte contre le terrorisme et les extrémismes violents à la DGSI |
+Sous-directeur des méthodes et de l'appui (DCRFPN) |
 
 1 |
 
 100 |
 
-Sous-directeur du contre-espionnage, adjoint au directeur du renseignement et des opérations à la DGSI |
-
-1 |
-
-110 |
-
-Sous-directeur de la protection économique à la DGSI |
+Sous-directeur du recrutement et des dispositifs promotionnels (DCRFPN) |
 
 1 |
 
 100 |
 
-Sous-directeur des surveillances à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur du personnel et de la formation, adjoint au chef du service de l'administration générale à la DGSI |
-
-1 |
-
-100 |
-
-Sous-directeur de l'analyse et de la coordination à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur à la direction technique à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur à la direction technique à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur des affaires judiciaires à la DGSI |
-
-1 |
-
-100 |
-
-Sous-directeur à l'inspection générale de la sécurité intérieure à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur à l'inspection générale de la sécurité intérieure à la DGSI |
-
-1 |
-
-80 |
-
-Sous-directeur de la formation et du développement des compétences à la DRCPN |
+Sous-directeur des ressources et des moyens (DCRFPN) |
 
 1 |
 
@@ -556,7 +478,9 @@ Sous-directeur de la sûreté au SDLP |
 
 60 |
 
-Sous-directeur de la coopération de sécurité et de gouvernance à la DCI |
+Sous-directeur de la coopération de sécurité et de gouvernance à la DCI
+
+|
 
 1 |
 
@@ -592,7 +516,7 @@ Sous-directeur des supports opérationnels au Service des Technologies et des Sy
 
 80 |
 
-9° Adjoint à un sous-directeur ; chef de service et adjoint ; chef d'un office central ou d'une division nationale opérationnelle ; chef d'un cabinet à l'IGPN ; chef de division ou équivalent
+9° Adjoint à un sous-directeur ; chef de service et adjoint ; chef d'un office central ou d'une division nationale opérationnelle ; chef d'un cabinet à l'IGPN ; chef de division ou équivalent ; adjoint à un chef de division :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -604,97 +528,37 @@ NOMBRE
 
 de points |
 
-Adjoint au sous-directeur des relations internationales et de la stratégie à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint au sous-directeur de la lutte contre le terrorisme et les extrémismes violents à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint au sous-directeur du contre-espionnage à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint au sous-directeur de la protection économique à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint au sous-directeur des surveillances à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint au sous-directeur des affaires judiciaires à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint à un sous-directeur à la direction technique à la DGSI |
-
-1 |
-
-60 |
-
-Adjoint à un sous-directeur à la direction technique à la DGSI |
-
-1 |
-
-60 |
-
-Chef de division à la sous-direction de la lutte contre le terrorisme et les extrémismes violents à la DGSI |
-
-1 |
-
-50 |
-
-Chef de division à la sous-direction de la lutte contre le terrorisme et les extrémismes violents à la DGSI |
-
-1 |
-
-50 |
-
-Chef de division à la sous-direction du contre-espionnage à la DGSI |
-
-1 |
-
-50 |
-
-Chef de division du personnel à la sous-direction du personnel et de la formation à la DGSI |
-
-1 |
-
-50 |
-
-Adjoint au sous-directeur de la formation et du développement des compétences à la DRCPN |
-
-1 |
-
-80 |
-
-Chef du département des formations à la DRCPN |
+Adjoint au sous-directeur du développement des compétences (DCRFPN) |
 
 1 |
 
 70 |
 
-Chef du département du recrutement et de l'égalité des chances à la DRCPN |
+Adjoint au sous-directeur des méthodes et de l'appui (DCRFPN) |
+
+1 |
+
+70 |
+
+Adjoint au sous-directeur du recrutement et des dispositifs promotionnels (DRCFPN) |
+
+1 |
+
+70 |
+
+Chef de la division du pilotage et de la gouvernance (SCPTS) |
+
+1 |
+
+70 |
+
+Chef du pôle central d'identité judiciaire (SCPTS) |
 
 1 |
 
 50 |
 
-Chef du département de l'organisation, des méthodes et de l'évaluation de la formation à la DRCPN |
+Chef du pôle central d'analyse des traces technologiques (SCPTS) |
 
 1 |
 
@@ -826,13 +690,13 @@ Chef de l'office central de lutte contre la corruption et les infractions financ
 
 60 |
 
-Chef du service central de documentation criminelle (SCDC) à Ecully (DCPJ) |
+-Chef de la division nationale de la documentation criminelle et de la coordination de la police technique (DCPJ) |
 
 1 |
 
 50 |
 
-Chef du service central d'identité judiciaire (SCIJ) à Ecully (DCPJ) |
+-Adjoint au chef de la division nationale de la documentation criminelle et de la coordination de la police technique (DCPJ) |
 
 1 |
 
@@ -874,7 +738,7 @@ Adjoint au chef de la délégation de l'IGPN Paris |
 
 60 |
 
-10° Emploi de responsabilité de niveau 1 en administration centrale (hors direction active)
+10° Emploi de responsabilité de niveau 1 en administration centrale (hors direction active) :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -892,9 +756,9 @@ Chef du bureau des commissaires de police à la DRCPN |
 
 80 |
 
-PRÉFECTURE DE POLICE DE PARIS
+Préfecture de police de Paris
 
-1° Directeur
+1° Directeur :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -960,7 +824,7 @@ Directeur territorial de la sécurité de proximité du Val-de-Marne (DSPAP) |
 
 110 |
 
-2° Directeur adjoint
+2° Directeur adjoint :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -1026,7 +890,7 @@ Directeur territorial adjoint de la sécurité de proximité du Val-de-Marne à 
 
 80 |
 
-3° Sous-directeur
+3° Sous-directeur :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -1128,7 +992,7 @@ Sous-directeur des services territoriaux à la DPJ |
 
 100 |
 
-4° Adjoint à un sous-directeur ; chef d'état-major et adjoint ; conseiller technique ; responsable opérationnel
+4° Adjoint à un sous-directeur ; chef d'état-major et adjoint ; conseiller technique ; responsable opérationnel :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -1284,7 +1148,7 @@ Conseiller technique adjoint chargé des affaires de police |
 
 50 |
 
-5° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux de la préfecture de police de Paris
+5° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux de la préfecture de police de Paris :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -1530,19 +1394,19 @@ Chef adjoint du service de nuit d'agglomération à la DSPAP |
 
 40 |
 
-Chef du renseignement territorial des Hauts-de-Seine - Nanterre - (DRPP) |
+Chef du renseignement territorial des Hauts-de-Seine-Nanterre-(DRPP) |
 
 1 |
 
 50 |
 
-Chef du renseignement territorial de la Seine-Saint-Denis - Bobigny - (DRPP) |
+Chef du renseignement territorial de la Seine-Saint-Denis-Bobigny-(DRPP) |
 
 1 |
 
 50 |
 
-Chef du renseignement territorial du Val-de-Marne - Créteil - (DRPP) |
+Chef du renseignement territorial du Val-de-Marne-Créteil-(DRPP) |
 
 1 |
 
@@ -1650,19 +1514,19 @@ Chef du 3e district de police judiciaire à la DPJ |
 
 40 |
 
-Chef du service départemental de la police judiciaire des Hauts-de-Seine - Nanterre - (DPJ) |
+Chef du service départemental de la police judiciaire des Hauts-de-Seine-Nanterre-(DPJ) |
 
 1 |
 
 40 |
 
-Chef du service départemental de police judiciaire de la Seine-Saint-Denis - Bobigny - (DPJ) |
+Chef du service départemental de police judiciaire de la Seine-Saint-Denis-Bobigny-(DPJ) |
 
 1 |
 
 50 |
 
-Chef du service départemental de police judiciaire du Val-de-Marne - Créteil - (DPJ) |
+Chef du service départemental de police judiciaire du Val-de-Marne-Créteil-(DPJ) |
 
 1 |
 

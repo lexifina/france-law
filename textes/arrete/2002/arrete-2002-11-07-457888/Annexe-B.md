@@ -2,7 +2,7 @@
 
 FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
 
-1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal de la sécurité intérieure ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur régional de la sécurité intérieure ; chef de la délégation de l'IGPN
+1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; chef de la délégation de l'IGPN :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -76,55 +76,7 @@ Vélizy |
 
 80 |
 
-Directeur zonal de la sécurité intérieure Sud-Ouest |
-
-Bordeaux |
-
-1 |
-
-70 |
-
-Directeur zonal de la sécurité intérieure Nord |
-
-Lille |
-
-1 |
-
-70 |
-
-Directeur zonal de la sécurité intérieure Sud-Est |
-
-Lyon |
-
-1 |
-
-70 |
-
-Directeur zonal de la sécurité intérieure Sud |
-
-Marseille |
-
-1 |
-
-70 |
-
-Directeur zonal de la sécurité intérieure Est |
-
-Metz |
-
-1 |
-
-70 |
-
-Directeur zonal de la sécurité intérieure Ouest |
-
-Rennes |
-
-1 |
-
-70 |
-
-Directeur zonal de la police aux frontières - Zone Sud-Ouest |
+Directeur zonal de la police aux frontières-Zone Sud-Ouest |
 
 Bordeaux |
 
@@ -132,7 +84,7 @@ Bordeaux |
 
 60 |
 
-Directeur zonal de la police aux frontières - Zone Nord |
+Directeur zonal de la police aux frontières-Zone Nord |
 
 Lille |
 
@@ -140,7 +92,7 @@ Lille |
 
 80 |
 
-Directeur zonal de la police aux frontières - Zone Sud-Est |
+Directeur zonal de la police aux frontières-Zone Sud-Est |
 
 Lyon |
 
@@ -148,7 +100,7 @@ Lyon |
 
 80 |
 
-Directeur zonal de la police aux frontières - Zone Sud |
+Directeur zonal de la police aux frontières-Zone Sud |
 
 Marseille |
 
@@ -156,7 +108,7 @@ Marseille |
 
 80 |
 
-Directeur zonal de la police aux frontières - Zone Est |
+Directeur zonal de la police aux frontières-Zone Est |
 
 Metz |
 
@@ -164,7 +116,7 @@ Metz |
 
 60 |
 
-Directeur zonal de la police aux frontières - Zone Ouest |
+Directeur zonal de la police aux frontières-Zone Ouest |
 
 Rennes |
 
@@ -268,7 +220,9 @@ Lille |
 
 70 |
 
-Directeur interrégional adjoint de police judiciaire |
+Directeur interrégional
+
+adjoint de police judiciaire |
 
 Lyon |
 
@@ -412,14 +366,6 @@ Versailles |
 
 70 |
 
-Directeur régional de la sécurité intérieure Corse |
-
-Ajaccio |
-
-1 |
-
-60 |
-
 Chef de la délégation de l'IGPN Lyon |
 
 Lyon |
@@ -436,7 +382,7 @@ Marseille |
 
 60 |
 
-2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique commissaire central ; directeur départemental de la sécurité publique chef de district commissaire central ; directeur départemental de la sécurité publique chef de circonscription ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental ou interdépartemental de la sécurité intérieure ; directeur départemental de la police aux frontières
+2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique commissaire central ; directeur départemental de la sécurité publique chef de district commissaire central ; directeur départemental de la sécurité publique chef de circonscription ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental de la police aux frontières :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -548,7 +494,9 @@ Chartres |
 
 60 |
 
-Directeur départemental de la sécurité publique et commissaire central |
+Directeur départemental de la sécurité publique et commissaire central
+
+|
 
 Clermont-Ferrand |
 
@@ -828,7 +776,7 @@ Saint-Lô |
 
 60 |
 
-Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Sud-Ouest |
+Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Sud-Ouest |
 
 Bordeaux |
 
@@ -836,7 +784,7 @@ Bordeaux |
 
 80 |
 
-Directeur départemental de la sécurité publique - Lille DDSP - Coordonnateur zonal de la zone de défense Nord |
+Directeur départemental de la sécurité publique-Lille DDSP-Coordonnateur zonal de la zone de défense Nord |
 
 Lille |
 
@@ -844,7 +792,7 @@ Lille |
 
 110 |
 
-Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Sud-Est |
+Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Sud-Est |
 
 Lyon |
 
@@ -852,7 +800,7 @@ Lyon |
 
 110 |
 
-Directeur départemental de la sécurité publique - Coordonnateur zonal de la zone de défense Sud |
+Directeur départemental de la sécurité publique-Coordonnateur zonal de la zone de défense Sud |
 
 Marseille |
 
@@ -860,7 +808,7 @@ Marseille |
 
 110 |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central - Coordonnateur zonal de la zone de défense Est |
+Directeur départemental de la sécurité publique, chef de district et commissaire central-Coordonnateur zonal de la zone de défense Est |
 
 Metz |
 
@@ -868,7 +816,7 @@ Metz |
 
 100 |
 
-Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Ouest |
+Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Ouest |
 
 Rennes |
 
@@ -940,7 +888,7 @@ Evry |
 
 80 |
 
-Directeur départemental adjoint de la sécurité publique - Lille DDSP |
+Directeur départemental adjoint de la sécurité publique-Lille DDSP |
 
 Lille |
 
@@ -1148,30 +1096,6 @@ Pointe-à-Pitre |
 
 60 |
 
-Directeur départemental de la sécurité intérieure |
-
-Bastia |
-
-1 |
-
-60 |
-
-Directeur départemental de la sécurité intérieure |
-
-Bobigny |
-
-1 |
-
-60 |
-
-Directeur interdépartemental de la sécurité intérieure |
-
-Bayonne |
-
-1 |
-
-60 |
-
 Directeur départemental de la police aux frontières |
 
 Cayenne |
@@ -1180,7 +1104,7 @@ Cayenne |
 
 60 |
 
-3° Chef de district et commissaire central ; commissaire central ; chef de circonscription
+3° Chef de district et commissaire central ; commissaire central ; chef de circonscription :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -1246,7 +1170,7 @@ Le Port |
 
 Chef de circonscription |
 
-Louviers - Val de Reuil |
+Louviers-Val de Reuil |
 
 1 |
 
@@ -1420,7 +1344,7 @@ Calais |
 
 60 |
 
-Commissaire central - Conflans-Sainte-Honorine agglomération |
+Commissaire central-Conflans-Sainte-Honorine agglomération |
 
 Conflans-Sainte-Honorine |
 
@@ -1444,7 +1368,7 @@ Douai |
 
 60 |
 
-Commissaire central - Elancourt agglomération |
+Commissaire central-Elancourt agglomération |
 
 Elancourt |
 
@@ -1484,7 +1408,7 @@ Maubeuge |
 
 60 |
 
-Commissaire central - Saint-Germain-en-Laye agglomération |
+Commissaire central-Saint-Germain-en-Laye agglomération |
 
 Saint-Germain-en-Laye |
 
@@ -1492,7 +1416,7 @@ Saint-Germain-en-Laye |
 
 60 |
 
-Commissaire central - Sartrouville agglomération |
+Commissaire central-Sartrouville agglomération |
 
 Sartrouville |
 
@@ -1516,7 +1440,7 @@ Valenciennes |
 
 60 |
 
-Commissaire central - Versailles agglomération |
+Commissaire central-Versailles agglomération |
 
 Versailles |
 

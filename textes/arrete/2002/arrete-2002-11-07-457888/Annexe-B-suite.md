@@ -2,7 +2,7 @@
 
 FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
 
-4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service départemental du renseignement territorial (SDRT) ; chef de la sûreté départementale (SD) ; chef du service de l'ordre public (SOP) ; chef d'état-major
+4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service départemental du renseignement territorial (SDRT) ; chef de la sûreté départementale (SD) ; chef du service de l'ordre public (SOP) ; chef d'état-major :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -242,7 +242,7 @@ Lens |
 
 60 |
 
-Chef de la sûreté départementale - Lille DDSP |
+Chef de la sûreté départementale-Lille DDSP |
 
 Lille |
 
@@ -362,7 +362,7 @@ Versailles |
 
 60 |
 
-Chef de la sûreté urbaine - Elancourt agglomération |
+Chef de la sûreté urbaine-Elancourt agglomération |
 
 Elancourt |
 
@@ -378,7 +378,7 @@ Le Havre |
 
 60 |
 
-Chef de la sûreté urbaine - Lille agglomération |
+Chef de la sûreté urbaine-Lille agglomération |
 
 Lille |
 
@@ -426,7 +426,7 @@ Evry |
 
 60 |
 
-Chef d'état-major - Lille DDSP |
+Chef d'état-major-Lille DDSP |
 
 Lille |
 
@@ -474,7 +474,7 @@ Versailles |
 
 60 |
 
-5° Chef d'antenne spécialisée
+5° Chef d'antenne spécialisée :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -490,7 +490,7 @@ NOMBRE
 
 de points |
 
-Directeur de la police aux frontières de l'aéroport Roissy- Charles-de-Gaulle - Le Bourget |
+Directeur de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget |
 
 Roissy-en-France |
 
@@ -498,7 +498,7 @@ Roissy-en-France |
 
 100 |
 
-Directeur adjoint de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget |
+Directeur adjoint de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget |
 
 Roissy-en-France |
 
@@ -522,7 +522,7 @@ Bastia |
 
 50 |
 
-6° Chef de l'Institut national de formation de la police nationale (INFPN) ; délégué interrégional au recrutement et à la formation ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de la police (ENSP) ; adjoint à un directeur (ENSP) directeur de l'Institut national de police scientifique (INPS)
+6° Directeur zonal au recrutement et à la formation de la police nationale ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de la police (ENSP) ; adjoint à un directeur (ENSP) ; directeur de l'Institut national de police scientifique (INPS) :
 
 DÉSIGNATION DES EMPLOIS |
 
@@ -538,14 +538,6 @@ NOMBRE
 
 de points |
 
-Chef de l'Institut national de la formation de la police nationale (INFPN) |
-
-Clermont-Ferrand |
-
-1 |
-
-60 |
-
 Directeur de l'Ecole nationale supérieure de la police (ENSP) |
 
 Saint-Cyr-au-Mont-d'Or |
@@ -554,7 +546,9 @@ Saint-Cyr-au-Mont-d'Or |
 
 100 |
 
-Adjoint au directeur de la stratégie, des formations et de la recherche - chef du département des formations professionnelles des officiers de police - chef du site de Cannes-Ecluse |
+Adjoint au directeur de la stratégie, des formations et de la
+
+recherche-chef du département des formations professionnelles des officiers de police-chef du site de Cannes-Ecluse |
 
 Cannes-Ecluse |
 
@@ -562,7 +556,7 @@ Cannes-Ecluse |
 
 60 |
 
-Délégué interrégional au recrutement et à la formation de la police nationale Sud et directeur de l'Ecole nationale de police (ENP) |
+-Directeur zonal au recrutement et à la formation de la police nationale sud (DZRFPN) et directeur de l'Ecole nationale de police (ENP) |
 
 Nîmes |
 
@@ -578,7 +572,7 @@ Ecully |
 
 100 |
 
-7° Directeur de cabinet auprès du préfet délégué à la défense et à la sécurité ; conseiller ; coordonnateur
+7° Directeur de cabinet auprès du préfet délégué à la défense et à la sécurité ; conseiller ; coordonnateur :
 
 DÉSIGNATION DES EMPLOIS |
 
