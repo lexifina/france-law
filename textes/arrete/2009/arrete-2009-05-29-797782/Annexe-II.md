@@ -344,6 +344,70 @@ Passé ce délai, le transporteur ferroviaire est autorisé à faire l'enlèveme
 
 Les wagons à remettre sur embranchement particulier doivent être livrés de jour à la première desserte qui suit l'arrivée des wagons ou par desserte spéciale à une heure convenue avec le destinataire, si cette desserte permet d'éviter le stationnement des wagons en gare pendant la nuit.
 
+2.6. Dispositions spéciales relatives à la classe 2
+
+2.6.1. Dispositions spéciales, en vertu du 1.9.5 du RID, applicables au triage de wagons-citernes transportant certains gaz toxiques sur une installation de tri automatique à la bosse
+
+2.6.1.1. Marchandises concernées
+
+Sont concernés par les dispositions du présent paragraphe les matières dangereuses de la classe 2, ayant un code de classification TFC ou TOC au sens du 2.2.2.1.3 du RID (voir également la colonne 3 [b] du tableau A du chapitre 3.2 du RID), transportés en citernes portant l'étiquette de manœuvre n° 13 au sens du 5.3.4.2 du RID (voir également la colonne 5 du tableau A). Ces matières comprennent notamment les matières des n° ONU 1017,1067,1749,2189,2901 et 3057.
+
+2.6.1.2. Infrastructures concernées
+
+Sont concernées par les dispositions du présent paragraphe les infrastructures ferroviaires visées à l'article 2 de l'arrêté du 15 juin 2012 fixant la liste des ouvrages d'infrastructures routières, ferroviaires, portuaires ou de navigation intérieure et des installations multimodales soumis aux dispositions de la partie réglementaire du code de l'environnement portant application de l'article L. 551-2 du code de l'environnement, et qui disposent d'installations de triage par tir au but.
+
+2.6.1.3. Instruction particulière de manœuvre
+
+Les gestionnaires des infrastructures visées au 2.6.1.2 établissent une instruction opérationnelle particulière relative au triage des coupes de wagons comprenant au moins un wagon-citerne transportant des marchandises visées au 2.6.1.1.
+
+Cette instruction précise les précautions de manœuvres liés à l'apposition de l'étiquette n° 13 au sens du 5.3.4.2 du RID ("A manœuvrer avec précaution"), pour les cas visés au 2.6.1.1 et 2.6.1.2. Elle a pour but de diminuer le risque accidentel de perte de confinement lors de manœuvres des wagons-citernes concernés du fait de tamponnements ou accostages brutaux.
+
+Elle garantit en permanence le respect des consignes opérationnelles suivantes :
+
+- la coupe de wagons est arrêtée à la bosse ; l'opérateur de débranchement s'assure de la précision de l'arrêt en bosse à l'aide de dispositifs techniques appropriés (visualisation en bosse et télécommande de pousse) ;
+
+- avant redémarrage de la pousse d'une coupe de wagons en vue de son triage, l'opérateur de débranchement s'assure :
+
+- de la cohérence de l'affichage de la mesure d'occupation de la voie (MOV) calculée sur la voie de classement, qui est au moins équivalente à la longueur de la coupe et dans tous les cas supérieure ou égale à 50 m ; en cas d'incohérence, la coupe est débranchée sur une voie d'écart ;
+
+- du dégagement de la zone des freins de voie ; si nécessaire, un ou plusieurs appuis de voie sont réalisés pour garantir ce dégagement ;
+
+- la masse maximale des coupes est définie par le gestionnaire de l'infrastructure visée au 2.6.1.2 en fonction des paramètres opérationnels de l'installation de tri à la bosse, de façon à ce qu'elle permette en toute circonstance le fonctionnement optimal des dispositifs de freinage automatique de l'installation de tri ;
+
+- les dispositifs de freinage automatique ainsi que les aiguillages font l'objet d'une maintenance régulière de façon à rester opérationnels en permanence. En cas de leur dysfonctionnement, les voies concernés sont neutralisées jusqu'à réparation ces matériels et il n'est pas effectué de triage sur ces voies.
+
+Ces consignes s'appliquent également à la coupe de wagons suivant immédiatement une coupe de wagons transportant une marchandise visée au 2.6.1.1 ci-dessus.
+
+2.6.1.4. Connaissance des wagons présents sur l'infrastructure et traçabilité des opérations de triage
+
+Le responsable des débranchements a accès à tout moment aux informations concernant le nombre et la localisation des wagons transportant des marchandises visées au 2.1.6.1 présents sur les différents chantiers de l'infrastructure visée au 2.6.1.2 par interrogation du système de suivi des voies.
+
+L'entreprise ferroviaire qui utilise l'installation de tri automatique à la bosse met à disposition du gestionnaire d'infrastructure les données concernant les opérations de triage visant les marchandises dangereuses visées au 2.6.1.1. Les données ainsi tracées (date, nombre de wagons triés par numéro ONU), sont archivées et sont également tenues à disposition de l'EPSF ou des agents chargés du contrôle des transports terrestres, à leur demande.
+
+2.6.1.5. Incidents ou accidents
+
+Les incidents ou accidents survenus pendant les opérations de débranchements visés par cette instruction font l'objet de rapports particuliers détaillés comprenant :
+
+- une analyse des modalités de mise en œuvre de l'instruction particulière visée au 2.6.1.3 ;
+
+- une analyse des causes probables de défaillance ainsi que ;
+
+- la description de mesures correctives destinées à remédier à ces causes mises en œuvre sur l'infrastructure.
+
+Ces rapports sont joints au bilan annuel prévu au 2.3.3.7 ci dessus.
+
+2.6.1.6. Bilan de l'application de l'instruction particulière
+
+Lors des trois premières années d'application de l'instruction visée au 2.6.1.3, l'entreprise ferroviaire qui utilise l'installation de tri automatique à la bosse transmet au gestionnaire de l'infrastructure un bilan, que ce dernier adresse, au plus tard le 31 mars de l'année suivante, à la DGPR/ Mission "TMD". Ce bilan comprend, pour chaque infrastructure :
+
+- la mention du nombre de fois où l'instruction a été mise en œuvre,
+
+- le détail des difficultés rencontrées dans la mise en œuvre de l'instruction ainsi que
+
+- le cas échéant, les actions correctrices mise en œuvre au niveau local, se traduisant notamment par des modifications des consignes ou procédures de l'instruction locale ;
+
+- le cas échéant, des propositions de modification des dispositions du 2.6.1.3.
+
 3. Dispositions particulières applicables aux transports ferroviaires nationaux de marchandises dangereuses
 
 3.1. Transport de marchandises dangereuses dans les trains de voyageurs.
@@ -385,9 +449,3 @@ Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois 
 - pour les classes autres que la classe 2 : la plaque-étiquette correspondant à la classe ;
 
 - pour la classe 2 : des plaques-étiquettes correspondant à toutes les étiquettes figurant sur les colis de cette classe.
-
-NOTA :
-
-Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
-
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.
