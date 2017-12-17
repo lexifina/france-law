@@ -52,15 +52,17 @@ Le ou les titulaires du livret de famille sont tenus de faire procéder à la mi
 
 L'usage d'un livret de famille incomplet ou devenu inexact en raison des changements intervenus dans l'état des personnes considérées rend son ou ses titulaires passibles de poursuites pénales.
 
-4° Délivrance d'un second livret :
+4° Délivrance d'un second livret
 
 Il peut être délivré un second livret :
 
-― en cas de perte, vol ou destruction du premier ;
+-en cas de perte, vol ou destruction du premier ;
 
-― en cas de changement dans la filiation ou dans les noms et prénoms des personnes dont l'acte figure sur le livret, sous réserve de la restitution du premier livret ;
+-en cas de changement dans la filiation ou dans les noms et prénoms des personnes dont l'acte figure sur le livret, sous réserve de la restitution du premier livret ;
 
-― lorsque l'un des titulaires en est dépourvu, notamment en cas de divorce ou de séparation des titulaires justifiée par la production d'une décision judiciaire ou d'une convention homologuée.
+-en cas de changement de prénom prononcé à la suite d'une décision de changement de la mention du sexe à l'état civil ayant entraîné la modification de l'acte de mariage ainsi que des actes de naissance des enfants, sous réserve de la restitution du premier livret ;
+
+-lorsque l'un des titulaires en est dépourvu, notamment en cas de divorce ou de séparation des titulaires justifiée par la production d'une décision judiciaire, d'une convention judiciairement homologuée ou d'un acte de divorce par consentement mutuel sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire mais aussi toutes les fois que le demandeur invoque un intérêt à disposer d'un livret de famille : mésentente entre les époux, séparation de fait (etc.).
 
 Le demandeur doit s'adresser à l'officier de l'état civil du lieu de sa résidence.
 
@@ -150,11 +152,7 @@ Mentions marginales (7)
 
 (7) Inscrites sur l’acte postérieurement à l’établissement du présent extrait.
 
-(8) Compléter ainsi la formule : " qu’il n’a pas été fait de contrat de mariage " ou " qu’un contrat de mariage a été reçu le…… par M
-
-e
-
-……, notaire à……… ".
+(8) Compléter ainsi la formule : " qu’il n’a pas été fait de contrat de mariage " ou " qu’un contrat de mariage a été reçu le…… par Me……, notaire à……… ".
 
 |
 
@@ -202,39 +200,33 @@ Mentions marginales (3)
 
 |
 
-VI. ― Les treizième à vingtième pages sont établies en faisant figurer les rubriques suivantes relatives aux extraits des actes de naissance et de décès des enfants :
+VI. - Les treizième à vingtième pages sont établies en faisant figurer les rubriques suivantes relatives aux extraits des actes de naissance et de décès des enfants
 
-…enfant (1)……………………………………………………………………………………………………………………………………………………
+…enfant (1) |
 
-|
-
-Extrait de l’acte de naissance n°………………………………………………………………………………………………………………………………
+Extrait de l'acte de naissance n°
 
 Le…,
 
-A…………………………… heures……………………,
+à… heures,
 
-est né (e) (2)
+est né(e) (2)
 
-du sexe……………, à …………………………………………………………………………………………………………………………………………
+du sexe…, à
 
 (3)
 
-reconnu (e) (4)
+reconnu(e) (4)
 
 Délivré conforme aux registres le
 
-L’officier de l’état civil
+L'officier de l'état civil
 
-Sceau
+Sceau |
 
-|
+Mentions marginales (5) |
 
-Mentions marginales (5)
-
-|
-
-Extrait de l’acte de décès n°
+Extrait de l'acte de décès n° ...
 
 (6)
 
@@ -242,26 +234,24 @@ Extrait de l’acte de décès n°
 
 Délivré conforme aux registres le
 
-L’officier de l’état civil
+L'officier de l'état civil
 
-Sceau
+Sceau |
 
-|
+Mentions marginales (5) |
 
-Mentions marginales (5)
+(1) Indiquer la place de l'enfant dans la fratrie en tenant compte de sa date de naissance (premier, deuxième, troisième etc.
 
-|
+(2) Prénoms et NOM de famille tels qu'ils résultent de l'acte de naissance ; compléter, le cas échéant, l'indication du nom par : suivant déclaration conjointe en date du ... et/ou (1re partie : … 2nde partie : …) en cas de double nom de famille.
 
-(1) Indiquer la place de l’enfant dans la fratrie en tenant compte de sa date de naissance (premier, deuxième, troisième etc…).
+(3) Dans l'hypothèse où la page relative à la mère n'a pu être renseignée (acte de naissance ou de mariage non détenu par une autorité française), la filiation maternelle établie par la désignation de la mère dans l'acte de naissance de l'enfant est indiquée dans l'extrait par : de (Prénoms, NOM) née le … à … ).
 
-(2) Prénoms et NOM de famille tels qu’ils résultent de l’acte de naissance ; compléter, le cas échéant, l’indication du nom par : " suivant déclaration conjointe en date du...., " et/ou " (1re partie : … 2nde partie : …) " en cas de double nom de famille.
+(4) Préciser, s'il y a lieu, les date et lieu de la ou des reconnaissances et préciser, en cas de reconnaissance conjointe, par les parents ou en cas de reconnaissance séparée, par le père ou par la mère . Dans ces dernières hypothèses, préciser si nécessaire, par ... (Prénoms et NOM du parent ayant effectué la reconnaissance) .
 
-(3) Dans l’hypothèse où la page relative à la mère n’a pu être renseignée (acte de naissance ou de mariage non détenu par une autorité française), la filiation maternelle établie par la désignation de la mère dans l’acte de naissance de l’enfant est indiquée dans l’extrait par : " de (Prénoms, NOM) née le … à … ").
+(5) Inscrites sur l'acte postérieurement à l'établissement du présent extrait.
 
-(4) Préciser, s’il y a lieu, les date et lieu de la ou des reconnaissances et préciser, selon le cas : " par le père " , " par la mère" ou " par les père et mère ".
+(6) Indiquer selon la situation : Décédé(e) le ..., ou Prénom, enfant sans vie, date et lieu de l'accouchement . |
 
-(5) Inscrites sur l’acte postérieurement à l’établissement du présent extrait.
+NOTA :
 
-(6) Indiquer selon la situation : " Décédé (e) le…, " ou " Prénom, enfant sans vie, date et lieu de l’accouchement ".
-
-|
+Conformément à l'article 4 de l'arrêté du 14 décembre 2017, les officiers de l'état civil pourront continuer à délivrer les anciens modèles de livret de famille établis selon le modèle fixé par l'arrêté du 24 mai 2013 jusqu'à épuisement des stocks.
