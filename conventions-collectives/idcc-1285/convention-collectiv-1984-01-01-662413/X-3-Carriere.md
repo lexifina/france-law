@@ -10,7 +10,7 @@ Si le premier et/ ou le dernier mois civil est incomplet, le salaire de celui-ci
 
 Le montant de ces salaires minimaux figure à “ l'annexe salaires ” de la convention. La revalorisation de ces salaires est négociée chaque année lors de la NAO.
 
-X. 3. 1. Rémunération des artistes dramatiques
+X. 3.1. Rémunération des artistes dramatiques
 
 A. ― Artiste dramatique engagé en CDI
 
@@ -26,7 +26,7 @@ d'une durée inférieure à 4 mois
 
 Il perçoit une rémunération mensuelle brute d'un montant au moins égal à celle fixée lors de la NAO. Cette rémunération correspond à un temps de travail moyen de 35 heures par semaine.
 
-Lors de la création d'une oeuvre dramatique de durée normale (cf. art. XIII. 2. 2. b), soit 5 semaines minimum, la rémunération perçue par l'artiste sera au minimum de 5 semaines sur la base du minimum mensuel conventionnel.
+Lors de la création d'une oeuvre dramatique de durée normale (cf. art. XIII. 2.2. b), soit 5 semaines minimum, la rémunération perçue par l'artiste sera au minimum de 5 semaines sur la base du minimum mensuel conventionnel.
 
 En cas de fractionnement de la période de création :
 
@@ -38,9 +38,9 @@ C. ― Artiste dramatique engagé en CDD
 
 de moins de 1 mois
 
-Lorsqu'une journée est consacrée à des répétitions (selon les modalités prévues à l'article XIII. 2. 3), la rémunération est assurée par service, tout service commencé étant dû. Le montant de cette rémunération figure dans l'annexe Salaires.
+Lorsqu'une journée est consacrée à des répétitions (selon les modalités prévues à l'article XIII. 2.3), la rémunération est assurée par service, tout service commencé étant dû. Le montant de cette rémunération figure dans l'annexe Salaires.
 
-Lorsqu'une journée est consacrée à des représentations (et comporte éventuellement un temps de répétition dans les limites fixées à l'art. II. 2. 4), la rémunération est assurée au cachet forfaitaire.
+Lorsqu'une journée est consacrée à des représentations (et comporte éventuellement un temps de répétition dans les limites fixées à l'art. II. 2.4), la rémunération est assurée au cachet forfaitaire.
 
 Le montant du cachet brut est différent selon que le mois calendaire comporte le versement de 1 ou 2 cachets ou plus de 2 cachets :
 
@@ -48,7 +48,7 @@ Le montant du cachet brut est différent selon que le mois calendaire comporte l
 
 ― lorsque le mois calendaire comporte plus de 2 cachets, le montant de chacun d'entre eux doit être au minimum celui fixé à l'annexe Salaires et révisé lors de la NAO.
 
-X. 3. 2. Rémunération des artistes chorégraphiques
+X. 3.2. Rémunération des artistes chorégraphiques
 
 A. ― Artiste chorégraphique engagé en CDI
 
@@ -90,11 +90,11 @@ Le montant du cachet brut est différent selon que le mois calendaire comporte l
 
 ― lorsque le mois calendaire comporte plus de 2 cachets, le montant de chacun d'entre eux doit être au minimum celui fixé à l'annexe et révisé lors de la NAO.
 
-X. 3. 3. Rémunération des artistes musiciens
+X. 3.3. Rémunération des artistes musiciens
 
 La rémunération des artistes musiciens, s'ils ne sont pas mensualisés, donne lieu au versement d'un cachet pour chaque service de répétition, de représentation ou d'enregistrement.
 
-Dans le présent article sont aussi pris en compte les chanteurs et les répétiteurs qui ne rentrent pas dans la catégorie des chanteurs lyriques, objet de l'article X. 3. 4.
+Dans le présent article sont aussi pris en compte les chanteurs et les répétiteurs qui ne rentrent pas dans la catégorie des chanteurs lyriques, objet de l'article X. 3.4.
 
 A. ― Artistes musiciens appartenant aux ensembles musicaux à nomenclature
 
@@ -184,13 +184,13 @@ Le montant minimum du cachet forfaitaire journalier varie en fonction des condit
 
 ― représentation donnée dans une salle de capacité inférieure à 300 places ;
 
-― première partie d'une représentation (est appelée première partie toute prestation d'un groupe ou artiste dont la prestation est présentée au début de la représentation de l'artiste principal, et lorsque la durée totale de cette prestation n'excède pas 45 minutes. La première partie peut être composée par plusieurs groupes ou artistes différents. Dans ce cas, la durée totale de la prestation des premières parties peut être portée au maximum à 90 minutes.L'application du salaire minimum spécifique première partie doit être indiquée en clair dans le contrat d'engagement) ;
+― première partie d'une représentation (est appelée première partie toute prestation d'un groupe ou artiste dont la prestation est présentée au début de la représentation de l'artiste principal, et lorsque la durée totale de cette prestation n'excède pas 45 minutes. La première partie peut être composée par plusieurs groupes ou artistes différents. Dans ce cas, la durée totale de la prestation des premières parties peut être portée au maximum à 90 minutes. L'application du salaire minimum spécifique première partie doit être indiquée en clair dans le contrat d'engagement) ;
 
 ― participation à un " plateau découvertes ” (est appelé " plateau découvertes ” une succession de prestations d'artistes et de groupes) correspondant aux caractéristiques suivantes :
 
 ― unicité de temps et de lieu : même soirée et même scène ;
 
-― durée maximale de la prestation de chaque artiste limitée à 45 minutes.L'application du salaire minimum spécifique " plateau découvertes ” doit être indiquée en clair dans le contrat d'engagement.
+― durée maximale de la prestation de chaque artiste limitée à 45 minutes. L'application du salaire minimum spécifique " plateau découvertes ” doit être indiquée en clair dans le contrat d'engagement.
 
 D. ― Artistes musiciens engagés par des entreprises non concernées par les articles X. 3.3. A, B, C
 
@@ -198,11 +198,11 @@ Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée s
 
 Les artistes musiciens engagés en CDD d'une durée inférieure à 1 mois par ces entreprises sont rémunérés sur la base d'un cachet dont le montant correspond au cachet figurant dans l'annexe Salaires (tableau " Autres entreprises ”) engagés au sein d'autres entreprises, montant revalorisé lors de la NAO.
 
-X. 3. 4. Rémunération des artistes lyriques
+X. 3.4. Rémunération des artistes lyriques
 
 La rémunération des artistes lyriques, s'ils ne sont pas mensualisés, donne lieu au versement d'un cachet pour chaque service de répétition, de représentation ou d'enregistrement.
 
-X. 3. 4. 1. Artistes de choeur
+X. 3.4.1. Artistes de choeur
 
 A. ― Rémunération mensualisée
 
@@ -210,9 +210,9 @@ Les artistes, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure
 
 Le salaire minimum :
 
-- inclut les primes structurelles versées automatiquement chaque mois, indexées sur la progression des salaires ;
+-inclut les primes structurelles versées automatiquement chaque mois, indexées sur la progression des salaires ;
 
-- exclut des primes spécifiques liées aux productions.
+-exclut des primes spécifiques liées aux productions.
 
 B. ― Rémunération au cachet
 
@@ -244,7 +244,7 @@ La journée comporte un service de répétition d'un maximum de 3 heures et une 
 
 La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.
 
-X. 3. 4. 2. Artistes lyriques solistes
+X. 3.4.2. Artistes lyriques solistes
 
 A. ― Rémunération mensualisée
 
@@ -279,3 +279,43 @@ et une représentation
 La journée comporte un service de répétition d'un maximum de 3 heures et une représentation de durée normale. Le montant minimum de la rémunération correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
 
 La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.
+
+X. 3.5. Rémunération des artistes de cirque
+
+X. 3.5.1. Rémunération des répétitions. – Reprises de rôles
+
+Lorsqu'une journée de travail est consacrée à des répétitions (selon les modalités prévues à l'art. XII. 5.3), la rémunération est établie sous forme d'un cachet journalier dont le montant est précisé à l'annexe sur les salaires, ou éventuellement au montant mensuel précisé à l'annexe sur les salaires lorsque le contrat porte sur une durée minimale de 1 mois de date à date.
+
+Il est entendu que si la mensualisation est préférable pour un contrat supérieur à 1 mois de date à date, quelle que soit la durée du contrat, le paiement au cachet demeure possible.
+
+X. 3.5.2. Rémunération des représentations
+
+X. 3.5.2.1. Salaire
+
+L'artiste reçoit pour chaque jour de représentation, une rémunération qui ne saurait être inférieure au minimum porté à l'annexe ci-jointe.
+
+Pour les artistes engagés mensuellement, le nombre de jours de représentations ou journées de répétition ne peut excéder 26 par mois.
+
+Il est entendu que si la mensualisation est préférable pour un contrat supérieur à 1 mois de date à date, quelle que soit la durée du contrat, le paiement au cachet demeure possible.
+
+X. 3.5.2.2. Salaire 2e représentation dans la même journée
+
+Lorsqu'il y a plus d'une représentation de durée supérieure à 1 heure par jour, le cachet journalier minima est augmenté de 30 %.
+
+X. 3.5.3. Intéressement à la recette
+
+Un intéressement à la recette peut être contracté entre l'entreprise et l'artiste, en tant que supplément au cachet minimum conventionnel garanti à ce dernier. Cette rémunération supplémentaire a le caractère de salaire.
+
+X. 3.5.4. Date de paiement des salaires
+
+Les salaires doivent être payés au moins 1 fois par mois.
+
+(1)
+
+Pour les contrats à durée déterminée, le salaire est réglé à la fin du contrat ou, au plus tard, la 1re semaine du mois suivant la fin dudit contrat. (1)
+
+En cas de retard dans le paiement de ses salaires, l'artiste pourra, après mise en demeure par lettre recommandée avec accusé de réception à l'entreprise, saisir la juridiction compétente. Si ce retard excède 15 jours, l'artiste est en droit de considérer son engagement comme résilié. Dans ce cas, il reprend sa liberté et a droit, en sus des salaires dus, au complément de rémunération qui reste à courir sur son contrat.
+
+(1) Les deux premiers alinéas de l'article X-3.5.4 sont étendus sous réserve du respect de la périodicité des salaires prévue aux articles L. 3242-1 et L. 3242-3 du code du travail.
+
+(Arrêté du 23 décembre 2019 - art. 1)
