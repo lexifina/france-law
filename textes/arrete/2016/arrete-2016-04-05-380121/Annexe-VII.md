@@ -2,140 +2,72 @@
 
 DISPOSITIONS RELATIVES AUX MÉDICAMENTS DONT L'UTILISATION CHEZ UN CANDIDAT AU DON DE SANG ENTRAÎNE L'AJOURNEMENT
 
-MÉDICAMENT
+Médicament
 
-dénomination commune internationale
+Dénomination commune internationale |
 
-|
+Durée d'ajournement après la dernière prise |
 
-DURÉE D'AJOURNEMENT APRÈS LA DERNIÈRE PRISE
+Acitrétine |
 
-|
+3 ans |
 
-Misoprostol
+Alitrétinoïne |
 
-|
+1 mois |
 
-1 jour
+Carbamazépine |
 
-|
+1 semaine |
 
-Thalidomide
+Carbimazole |
 
-|
+1 semaine |
 
-3 jours
+Danazol |
 
-|
+1 semaine |
 
-Valproate de sodium/valpromide
+Dutastéride |
 
-|
+6 mois |
 
-7 jours
+Finastéride |
 
-|
+1 semaine |
 
-Raloxifène
+Isotrétinoïne |
 
-|
+1 mois |
 
-7 jours
+Lithium (sels de) |
 
-|
+1 semaine |
 
-Finastéride
+Méthimazole (Thiamazol) |
 
-|
+1 semaine |
 
-7 jours
+Méthotrexate |
 
-|
+1 semaine |
 
-Alitrétinoïne
+Raloxifène |
 
-|
+1 semaine |
 
-1 mois
+Testostérone |
 
-|
+6 mois |
 
-Isotrétinoïne
+Thalidomide |
 
-|
+1 semaine |
 
-1 mois
+Topiramate |
 
-|
+1 semaine |
 
-Dutastéride
+Valpromide/ divalproate de sodium/ valproate/ acide valproïque |
 
-|
-
-6 mois
-
-|
-
-Etrétinate
-
-|
-
-2 ans
-
-|
-
-Détrétinate ou acitrétine
-
-|
-
-2 ans
-
-|
-
-Vismodegib ou sonidegib
-
-|
-
-2 ans
-
-|
-
-Topiramate
-
-|
-
-7 jours
-
-|
-
-Danazol
-
-|
-
-1 jour
-
-|
-
-Carbimazole
-
-|
-
-7 jours
-
-|
-
-Méthotrexate
-
-|
-
-7 jours
-
-|
-
-Sels de lithium
-
-|
-
-7 jours
-
-|
+1 semaine |

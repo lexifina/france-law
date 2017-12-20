@@ -4,49 +4,51 @@ DISPOSITIONS RELATIVES AU COMITÉ DE SUIVI
 
 Le comité de suivi est présidé par le directeur général de la santé. Il comprend :
 
-1. Des représentants des opérateurs et agences, instances consultatives de l'Etat et autorités indépendantes concernés par le domaine du sang et des produits sanguins :
+1. Des représentants des opérateurs, agences et instances consultatives de l'Etat et autorités indépendantes concernés par le domaine du sang et des produits sanguins :
 
-Etablissement français du sang ;
+Agence de la biomédecine-ABM ;
 
-Agence nationale de sécurité des médicaments et des produits de santé ;
+Agence nationale de santé publique-ANSP ;
 
-centre de transfusion sanguine des armées ;
+Agence nationale de sécurité du médicament et des produits de santé-ANSM ;
 
-Laboratoire français du fractionnement et des biotechnologies ;
+Centre de transfusion sanguine des armées-CTSA ;
 
-Institut de veille sanitaire ;
+Comité consultatif national d'éthique-CCNE ;
 
-Agence de la biomédecine ;
+Conseil national du sida et des hépatites virales-CNS ;
 
-Conseil national du sida et des hépatites virales (CNS) ;
+Etablissement Français du Sang-EFS ;
 
-Comité consultatif national d'éthique.
+Laboratoire français du fractionnement et des biotechnologies-LFB.
+
+Centre national de référence Risques infectieux Transfusionnels-CNR
 
 2. Des représentants des usagers :
 
-Collectif homodonneur ;
+Act-Up Paris ;
 
-GayLib ;
+Association française des hémophiles-AFH ;
 
-Act Up-Paris ;
-
-Interassociative lesbienne, gay, bi et trans (Inter-LGBT) ;
-
-Fédération lesbiennes, gays, bi et trans (Fédération LGBT) ;
-
-SOS homophobie ;
-
-Association immunodéficience primitive, recherche, information, soutien (IRIS) ;
-
-Association française des hémophiles (AFH) ;
-
-Collectif interassociatif sur la santé (CISS) ;
+Association immunodéficience primitive, recherche, information, soutien-IRIS ;
 
 AIDES ;
 
-Fédération française pour le don de sang bénévole (FFDSB) ;
+Collectif HOMODONNEUR ;
 
-Union nationale des donneurs de sang de La Poste et Orange (UNDSPO).
+Comité inter associatif sur la santé-CISS ;
+
+Fédération française pour le don de sang bénévole-FFDSB ;
+
+Fédération lesbiennes, gays, bi et trans-Fédération LGBT ;
+
+GayLib ;
+
+Interassociative lesbienne, gay, bi et trans-Inter LGBT ;
+
+SOS Homophobie ;
+
+Union nationale des donneurs de sang de la Poste et Orange-UNDSPO.
 
 Le président du comité de suivi peut inviter toute personne utile aux travaux du groupe de suivi.
 
