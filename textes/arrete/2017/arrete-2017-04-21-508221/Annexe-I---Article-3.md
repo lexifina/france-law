@@ -1,49 +1,51 @@
 # Article Annexe I - Article 3
 
-La liste des formations spécialisées transversales qui peuvent être suivies dans le cadre des diplômes d’études spécialisées est fixée comme suit :
+La liste des formations spécialisées transversales qui peuvent être suivies dans le cadre des diplômes d'études spécialisées est fixée comme suit :
 
-- Addictologie ;
+- addictologie ;
 
-- Bio-informatique médicale ;
+- bio-informatique médicale ;
 
-- Cancérologie ;
+- cancérologie déclinaison hémato-cancérologie pédiatrique ;
 
-- Cardiologie pédiatrique et congénitale ;
+- cancérologie traitements médicaux des cancers, déclinaison cancérologie de l'adulte ;
 
-- Chirurgie de la main ;
+- cardiologie pédiatrique et congénitale ;
 
-- Chirurgie en situation de guerre ou de catastrophe ;
+- chirurgie de la main ;
 
-- Chirurgie orbito-palpébro-lacrymale ;
+- chirurgie en situation de guerre ou de catastrophe ;
 
-- Douleur ;
+- chirurgie orbito-palpébro-lacrymale ;
 
-- Expertise médicale-préjudice corporel ;
+- douleur ;
 
-- Fœtopathologie ;
+- expertise médicale-préjudice corporel ;
 
-- Génétique et médecine moléculaire bioclinique ;
+- fœtopathologie ;
 
-- Hématologie bioclinique ;
+- génétique et médecine moléculaire bioclinique ;
 
-- Hygiène-prévention de l’infection, résistances, vigilances ;
+- hématologie bioclinique ;
 
-- Maladies allergiques ;
+- hygiène-prévention de l'infection, résistances ;
 
-- Médecine scolaire ;
+- maladies allergiques ;
 
-- Médecine et biologie de la reproduction-andrologie ;
+- médecine scolaire ;
 
-- Médecine du sport ;
+- médecine et biologie de la reproduction-andrologie ;
 
-- Nutrition appliquée ;
+- médecine du sport ;
 
-- Pharmacologie médicale/thérapeutique ;
+- nutrition appliquée ;
 
-- Soins palliatifs ;
+- pharmacologie médicale/thérapeutique ;
 
-- Sommeil ;
+- soins palliatifs ;
 
-- Thérapie cellulaire ;
+- sommeil ;
 
-- Urgences pédiatriques.
+- thérapie cellulaire/transfusion ;
+
+- urgences pédiatriques.

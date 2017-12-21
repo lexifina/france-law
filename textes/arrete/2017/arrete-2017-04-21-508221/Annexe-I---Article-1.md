@@ -1,97 +1,97 @@
 # Article Annexe I - Article 1
 
-La liste des diplômes d’études spécialisées qui peuvent être acquis dans le cadre du troisième cycle des études de médecine est fixée comme suit :
+La liste des diplômes d'études spécialisées qui peuvent être acquis dans le cadre du troisième cycle des études de médecine est fixée comme suit :
 
-I .Diplômes d’études spécialisées de la discipline chirurgicale :
+I. - Diplômes d'études spécialisées de la discipline chirurgicale :
 
-- Chirurgie maxillo-faciale
+- chirurgie maxillo-faciale ;
 
-- Chirurgie orale ;
+- chirurgie orale ;
 
-- Chirurgie orthopédique et traumatologique ;
+- chirurgie orthopédique et traumatologique ;
 
-- Chirurgie pédiatrique ;
+- chirurgie pédiatrique ;
 
-- Chirurgie plastique, reconstructrice et esthétique ;
+- chirurgie plastique, reconstructrice et esthétique ;
 
-- Chirurgie thoracique et cardiovasculaire ;
+- chirurgie thoracique et cardiovasculaire ;
 
-- Chirurgie vasculaire ;
+- chirurgie vasculaire ;
 
-- Chirurgie viscérale et digestive ;
+- chirurgie viscérale et digestive ;
 
-- Gynécologie obstétrique ;
+- gynécologie obstétrique ;
 
-- Neurochirurgie ;
+- neurochirurgie ;
 
-- Ophtalmologie ;
+- ophtalmologie ;
 
-- Oto-rhino-laryngologie - chirurgie cervico-faciale ;
+- oto-rhino-laryngologie - chirurgie cervico-faciale ;
 
-- Urologie.
+- urologie.
 
-II .Diplômes d’études spécialisées de la discipline médicale :
+II. - Diplômes d'études spécialisées de la discipline médicale :
 
-- Allergologie (co-DES) ;
+- allergologie (co-DES) ;
 
-- Anatomie et cytologie pathologiques ;
+- anatomie et cytologie pathologiques ;
 
-- Anesthésie-réanimation (co-DES) ;
+- anesthésie-réanimation (co-DES) ;
 
-- Dermatologie et vénéréologie ;
+- dermatologie et vénéréologie ;
 
-- Endocrinologie-diabétologie-nutrition ;
+- endocrinologie-diabétologie-nutrition ;
 
-- Génétique médicale ;
+- génétique médicale ;
 
-- Gériatrie ;
+- gériatrie ;
 
-- Gynécologie médicale ;
+- gynécologie medicale ;
 
-- Hématologie ;
+- hématologie ;
 
-- Hépato-gastro-entérologie ;
+- hépato-gastro-enterologie ;
 
-- Maladies infectieuses et tropicales (co-DES) ;
+- maladies infectieuses et tropicales (co-DES) ;
 
-- Médecine cardiovasculaire (co-DES) ;
+- médecine cardiovasculaire (co-DES) ;
 
-- Médecine d’urgence ;
+- médecine d'urgence ;
 
-- Médecine et Santé au travail ;
+- médecine et santé au travail ;
 
-- Médecine générale ;
+- médecine générale ;
 
-- Médecine intensive-réanimation (co-DES) ;
+- médecine intensive-réanimation (co-DES) ;
 
-- Médecine interne et immunologie clinique (co-DES) ;
+- médecine interne et immunologie clinique (co-DES) ;
 
-- Médecine légale et expertises médicales ;
+- médecine légale et expertises médicales ;
 
-- Médecine nucléaire ;
+- médecine nucléaire ;
 
-- Médecine physique et de réadaptation ;
+- médecine physique et de réadaptation ;
 
-- Médecine vasculaire (co-DES) ;
+- médecine vasculaire (co-DES) ;
 
-- Néphrologie ;
+- néphrologie ;
 
-- Neurologie ;
+- neurologie ;
 
-- Oncologie ;
+- oncologie ;
 
-- Pédiatrie ;
+- pédiatrie ;
 
-- Pneumologie ;
+- pneumologie ;
 
-- Psychiatrie ;
+- psychiatrie ;
 
-- Radiologie et imagerie médicale ;
+- radiologie et imagerie médicale ;
 
-- Rhumatologie ;
+- rhumatologie ;
 
-- Santé publique.
+- santé publique.
 
-III. Diplôme d’études spécialisées de la discipline biologique
+III. - Diplôme d'études spécialisées de la discipline biologique :
 
-- Biologie médicale.
+- biologie médicale.

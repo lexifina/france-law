@@ -1,91 +1,93 @@
 # Article Annexe I - Article 2
 
-La liste des options qui peuvent être suivies dans le cadre des diplômes d’études spécialisées est fixée comme suit :
+La liste des options qui peuvent être suivies dans le cadre des diplômes d'études spécialisées est fixée comme suit :
 
-I. Options des diplômes d’études spécialisées de la discipline chirurgicale :
+I. - Options des diplômes d'études spécialisées de la discipline chirurgicale :
 
-• DES de chirurgie pédiatrique (options précoces au sens de l’article 6 de l’arrêté portant organisation du troisième cycle des études de médecine)
+DES de chirurgie pédiatrique (options précoces au sens de l'article 6 de l'arrêté portant organisation du troisième cycle des études de médecine) :
 
-- Chirurgie viscérale pédiatrique ;
+- chirurgie viscérale pédiatrique ;
 
-- Orthopédie pédiatrique
+- orthopédie pédiatrique.
 
-• DES chirurgie viscérale et digestive :
+DES chirurgie viscérale et digestive :
 
-- Endoscopie chirurgicale
+- endoscopie chirurgicale.
 
-• DES neurochirurgie :
+DES neurochirurgie :
 
-- Neurochirurgie pédiatrique
+- neurochirurgie pédiatrique.
 
-• DES ophtalmologie :
+DES ophtalmologie :
 
-- Chirurgie ophtalmopédiatrique et strabologique
+- chirurgie ophtalmopédiatrique et strabologique.
 
-• DES oto-rhino-laryngologie - chirurgie cervico-faciale :
+DES oto-rhino-laryngologie - chirurgie cervico-faciale :
 
-- Audiophonologie (audiologie et phoniatrie)
+- audiophonologie (audiologie et phoniatrie).
 
-II. Options des diplômes d’études spécialisées de la discipline médicale:
+II. - Options des diplômes d'études spécialisées de la discipline médicale :
 
-• Co-DES anesthésie-réanimation/médecine intensive-réanimation :
+Co-DES anesthésie-réanimation/médecine intensive-réanimation :
 
-- Réanimation pédiatrique
+- réanimation pédiatrique du DES AR ;
 
-• DES hépato-gastro-entérologie :
+- réanimation pédiatrique du DES MIR.
 
-- Endoscopie de niveau 2 ;
+DES hépato-gastro-entérologie :
 
-- Proctologie.
+- endoscopie de niveau 2 ;
 
-• DES médecine cardio-vasculaire :
+- proctologie.
 
-- Cardiologie interventionnelle de l’adulte ;
+DES médecine cardio-vasculaire :
 
-- Rythmologie interventionnelle et stimulation cardiaque ;
+- cardiologie interventionnelle de l'adulte ;
 
-- Imagerie cardiovasculaire d’expertise.
+- rythmologie interventionnelle et stimulation cardiaque ;
 
-• DES d’oncologie (options précoces au sens de l’article 6 de l’arrêté portant organisation du troisième cycle des études de médecine)
+- imagerie cardiovasculaire d'expertise.
 
-- Oncologie médicale ;
+DES d'oncologie (options précoces au sens de l'article 6 de l'arrêté portant organisation du troisième cycle des études de médecine) :
 
-- Oncologie radiothérapie.
+- oncologie médicale ;
 
-• DES pédiatrie :
+- oncologie radiothérapie.
 
-- Néonatologie ;
+DES pédiatrie :
 
-- Réanimation pédiatrique ;
+- néonatologie ;
 
-- Neuropédiatrie :
+- réanimation pédiatrique ;
 
-- Pneumopédiatrie.
+- neuropédiatrie ;
 
-• DES psychiatrie :
+- pneumopédiatrie.
 
-- Psychiatrie de l’enfant et de l’adolescent ;
+DES psychiatrie :
 
-- Psychiatrie de la personne âgée.
+- psychiatrie de l'enfant et de l'adolescent ;
 
-• DES radiologie et imagerie médicale :
+- psychiatrie de la personne âgée.
 
-- Radiologie interventionnelle avancée.
+DES radiologie et imagerie médicale :
 
-• DES santé publique :
+- radiologie interventionnelle avancée.
 
-- Administration de la santé.
+DES santé publique :
 
-III. Options du diplôme d’études spécialisées de la discipline biologique :
+- administration de la santé.
 
-• DES de biologie médicale (options précoces au sens de l’article 6 de l’arrêté portant organisation du troisième cycle des études de médecine):
+III. - Options du diplôme d'études spécialisées de la discipline biologique :
 
-- Biologie générale ;
+DES de biologie médicale (options précoces au sens de l'article 6 de l'arrêté portant organisation du troisième cycle des études de médecine) :
 
-- Médecine moléculaire, génétique et pharmacologie ;
+- biologie générale ;
 
-- Hématologie et immunologie ;
+- médecine moléculaire, génétique et pharmacologie ;
 
-- Agents infectieux ;
+- hématologie et immunologie ;
 
-- Biologie de la reproduction.
+- agents infectieux ;
+
+- biologie de la reproduction.
