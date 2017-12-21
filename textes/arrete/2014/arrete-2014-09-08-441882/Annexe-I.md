@@ -33,3 +33,11 @@ Liste des navires éligibles à l'AEP chalut et contingent d'AEP
 4. Le nombre maximal d'AEP chalut qui peut être attribué est de 73.
 
 Au sein de ce contingent, le nombre maximal d'AEP qui peuvent attribuées aux chalutiers armés en Méditerranée continentale est de 64 et le nombre maximal d'AEP qui peuvent être attribuées aux chalutiers armés en Corse est de 9. Aucun transfert d'AEP chalut ne peut être effectué depuis un navire armé en Méditerranée continentale vers un navire armé en Corse, et depuis un navire armé en Corse vers un navire armé en Méditerranée continentale.
+
+Article 3
+
+Autorité de délivrance
+
+1. La délivrance de l'AEP chalut peut être déléguée à l'organisation de producteurs à laquelle cet armateur adhère. L'AEP chalut est alors délivrée à un navire déterminé par l'organisation de producteurs à laquelle cet armateur adhère.
+
+2. Pour les armateurs n'adhérant pas à une organisation de producteurs ou pour les armateurs adhérant à une organisation de producteurs à laquelle la délivrance de l'AEP chalut n'a pas été déléguée, l'AEP est délivrée par le préfet de région dans les conditions fixées par l'article 3 du présent arrêté.
