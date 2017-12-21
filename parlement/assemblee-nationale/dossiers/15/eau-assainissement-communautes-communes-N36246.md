@@ -1,0 +1,70 @@
+# Transfert des compétences eau et assainissement aux communautés de communes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36246
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/eau_assainissement_communautes_communes
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-260.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-12-21 : 1er dépôt d'une initiative. (PIONANR5L15B0536)
+  - 2018-01-11 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-21 : Renvoi en commission au fond
+      - 2018-01-10 : Nomination de rapporteur
+      - 2018-01-24 : Réunion de commission
+      - 2018-01-24 : Réunion de commission
+      - 2018-01-24 : Dépôt de rapport (RAPPANR5L15B0581, PIONANR5L15BTC0581)
+  - Discussion en séance publique
+    - 2018-01-30 : Discussion en séance publique
+    - 2018-01-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-01-31 : Dépôt d'une initiative en navette (PIONSNR5S299B0260)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-01-31 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-04-11 : Dépôt de rapport (RAPPSNR5S299B0421, PIONSNR5S299BTC0422)
+  - Discussion en séance publique
+    - 2018-04-17 : Discussion en séance publique
+    - 2018-04-17 : Décision
+- Commission Mixte Paritaire
+  - 2018-04-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-05-17 : Nomination de rapporteur
+    - 2018-05-17 : Dépôt du rapport d'une CMP (RAPPANR5L15B0968)
+    - 2018-05-17 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0481, PIONSNR5S299BTC0482)
+  - 2018-05-18 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-04-18 : Dépôt d'une initiative en navette (PIONANR5L15B0882)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-18 : Renvoi en commission au fond
+      - 2018-06-13 : Réunion de commission
+      - 2018-06-13 : Dépôt de rapport (RAPPANR5L15B1082, PIONANR5L15BTC1082)
+  - Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Décision
+- Nouvelle Lecture
+  - 2018-07-06 : Dépôt d'une initiative en navette (PIONSNR5S299B0643)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-06 : Renvoi en commission au fond
+      - 2018-07-18 : Dépôt de rapport (RAPPSNR5S299B0675, PIONSNR5S299BTC0676)
+  - Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Décision
+- Lecture définitive
+  - 2018-07-27 : Dépôt d'une initiative en navette (PIONANR5L15BTA0158)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-27 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-07-31 : Décision
+- Promulgation de la loi
+  - 2018-08-03 : Promulgation d'une loi
