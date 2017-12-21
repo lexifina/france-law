@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801097
+
+- Question : [SEQ170801097](seq170801097.md) — Nuisances sonores causées par des deltaplanes, des ailes volantes à moteur ou des ULM
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2017-12-21, page 4625*
+
+Le survol des agglomérations par des aéronefs légers, motopropulsés ou non, est réglementé par un arrêté du 10 octobre 1957 relatif au survol des agglomérations et des rassemblements de personnes ou d'animaux. Cet arrêté prévoit que les aéronefs motopropulsés doivent survoler les agglomérations dont la largeur moyenne est inférieure à 1 200 mètres à une hauteur d'au moins 500 mètres pour les aéronefs équipés d'un moteur à pistons, et de 1 000 mètres pour les aéronefs équipés de plusieurs moteurs à pistons ou d'une ou plusieurs turbomachines. En ce qui concerne les villes dont la largeur moyenne est comprise entre 1 200 et 3 600 mètres, tous les aéronefs motopropulsés (sauf les hélicoptères) doivent les survoler à une hauteur d'au moins 1 000 mètres. En ce qui concerne les aéronefs non motorisés, comme les deltaplanes, ils ne doivent pas voler à une hauteur inférieure à 300 mètres au-dessus de l'obstacle le plus élevé situé dans un rayon de 600 mètres autour de l'aéronef. Toutes ces dispositions sont applicables sauf pour les besoins liés aux décollages, aux atterrissages et aux manœuvres qui s'y rattachent. Cette règlementation est destinée à assurer la tranquillité des riverains. Dans l'hypothèse où les règles prévues par l'arrêté du 10 octobre 1957 ne seraient pas respectées, des signalements peuvent être transmis auprès des services locaux de l'aviation civile ou de la gendarmerie des transports aériens. Les plaintes seront susceptibles d'être analysées sous réserve de renseignements suffisamment précis. Tout manquement avéré à la réglementation peut faire l'objet de sanctions.
