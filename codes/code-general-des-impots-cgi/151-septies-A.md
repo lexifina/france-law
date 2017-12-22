@@ -64,7 +64,7 @@ a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis a
 
 b) L'agent général d'assurances fait valoir ses droits à la retraite à la suite de la cessation du contrat ;
 
-c) L'activité est intégralement poursuivie par un nouvel agent général d'assurances exerçant à titre individuel et dans le délai d'un an.
+c) L'activité est intégralement poursuivie dans le délai d'un an.
 
 2. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur le revenu et sous les mêmes garanties et sanctions. Un décret détermine les modalités d'application du présent 2 et les obligations déclaratives incombant aux redevables et aux compagnies d'assurances.
 
