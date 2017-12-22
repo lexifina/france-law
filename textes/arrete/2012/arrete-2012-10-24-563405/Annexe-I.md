@@ -2,47 +2,45 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-1. Liaisons entre la France métropolitaine et les collectivités territoriales d'outre-mer associées à l'Union européenne
+1. Liaisons entre la France métropolitaine et les régions ultrapériphériques (RUP), d'une part, et les pays et territoires d'outre-mer associés à l'Union européenne, d'autre part :
 
-France métropolitaine - Mayotte ;
+France métropolitaine et RUP-Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
 
-France métropolitaine - Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
+France métropolitaine et RUP-Polynésie française ;
 
-France métropolitaine - Polynésie française ;
+France métropolitaine et RUP-Saint-Barthélemy.
 
-France métropolitaine - Saint-Barthélemy.
+2. Liaisons entre la France métropolitaine et des pays faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés :
 
-2. Liaisons entre la France métropolitaine et des pays de la politique européenne de voisinage faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés
+France métropolitaine-Albanie ;
 
-France métropolitaine - Albanie.
+France métropolitaine-Bosnie-et-Herzégovine ;
 
-France métropolitaine - Bosnie-et-Herzégovine.
+France métropolitaine-Canada ;
 
-France métropolitaine - Croatie.
+France métropolitaine-régions terrestres (continent et îles) se trouvant sous la souveraineté des États-Unis ;
 
-France métropolitaine - Géorgie.
+France métropolitaine-Géorgie ;
 
-France métropolitaine - Jordanie.
+France métropolitaine-Israël ;
 
-France métropolitaine - Kosovo.
+France métropolitaine-Jordanie ;
 
-France métropolitaine - Macédoine.
+France métropolitaine-Kosovo ;
 
-France métropolitaine - Maroc.
+France métropolitaine-Macédoine ;
 
-France métropolitaine - Moldavie.
+France métropolitaine-Maroc ;
 
-France métropolitaine - Monténégro.
+France métropolitaine-Moldavie ;
 
-France métropolitaine - Serbie.
+France métropolitaine-Monténégro ;
 
-3. Liaisons internationales extracommunautaires
+France métropolitaine-Serbie.
 
-3.1. De/vers la France métropolitaine
+3. Liaisons internationales extracommunautaires :
 
-Algérie :
-
-Montpellier-Alger ;
+3.1. De/ vers la France métropolitaine
 
 Afrique du Sud :
 
@@ -58,7 +56,11 @@ Paris-George ;
 
 Algérie :
 
-Marseille-Alger ;
+Lyon-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
+
+Montpellier-Alger ;
+
+Nantes-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
 Paris-Alger ;
 
@@ -78,8 +80,6 @@ Paris-Abha ;
 
 Paris-Dammam ;
 
-Paris-Dharan ;
-
 Paris-Djedda ;
 
 Paris-Hail ;
@@ -92,19 +92,9 @@ Argentine :
 
 Paris-Buenos Aires ;
 
-Paris-Córdoba ;
-
-Paris-Mendoza ;
-
-Paris-Rosario ;
-
-Paris-Ushuaïa.
+ainsi que toute liaison exploitée en partage de codes avec une compagnie argentine ou brésilienne entre un point du territoire français et un point du territoire d'Argentine situé au-delà du point du territoire argentin mentionné ci-dessus ou au-delà d'un des points du territoire brésilien mentionné au 3.1 de la présente annexe.
 
 Arménie :
-
-Lyon-Erevan ;
-
-Marseille-Erevan ;
 
 Paris-Erevan ;
 
@@ -113,8 +103,6 @@ Aruba :
 Paris-Oranjestad ;
 
 Australie :
-
-Paris-Adélaïde ;
 
 Paris-Brisbane ;
 
@@ -146,10 +134,6 @@ Bahreïn :
 
 Paris-Bahreïn ;
 
-Bangladesh :
-
-Paris-Dacca ;
-
 Bénin :
 
 Paris-Cotonou ;
@@ -176,69 +160,15 @@ Paris-Gaborone ;
 
 Brésil :
 
-Paris-Aracaju ;
-
-Paris-Belém ;
-
-Paris-Belo Horizonte ;
-
 Paris-Brasilia ;
 
-Paris-Campinas ;
+Paris-Fortaleza ;
 
-Paris-Campo Grande ;
-
-Paris-Cuiab ;
-
-Paris-Curitiba ;
-
-Paris-Florianopolis ;
-
-Paris-Fortalèza ;
-
-Paris-Fos de Iguazu ;
-
-Paris-Goiania ;
-
-Paris-Imperatriz ;
-
-Paris-Joao Pessoa ;
-
-Paris-Londrina ;
-
-Paris-Maceio ;
-
-Paris-Manaus ;
-
-Paris-Natal ;
-
-Paris-Navegantes ;
-
-Paris-Palmas ;
-
-Paris-Porto Alegre ;
-
-Paris-Porto Seguro ;
-
-Paris-Recife ;
-
-Paris-Rio Branco.
-
-Paris-Rio de Janeiro
-
-Paris-Salvador de Bahia ;
-
-Paris-Santarem ;
-
-Paris-São Luis ;
+Paris-Rio de Janeiro ;
 
 Paris-São Paulo ;
 
-Paris-Teresina ;
-
-Paris-Vitoria ;
-
-ainsi que toute liaison exploitée en partage de codes avec une compagnie brésilienne entre un point du territoire français et un point du territoire brésilien situé au-delà d'un des points du territoire brésilien mentionnés ci-dessus.
+ainsi que toute liaison exploitée en partage de codes avec une compagnie brésilienne ou argentine entre un point du territoire français et un point du territoire brésilien situé au-delà d'un des points du territoire brésilien mentionnés ci-dessus ou du point du territoire de l'Argentine mentionné au 3.1 de la présente annexe.
 
 Burkina :
 
@@ -260,28 +190,6 @@ Paris-Douala ;
 
 Paris-Yaoundé ;
 
-Canada :
-
-Paris-Calgary ;
-
-Paris-Edmonton ;
-
-Paris-Halifax ;
-
-Paris-Montréal ;
-
-Paris-Ottawa ;
-
-Paris-Québec ;
-
-Paris-Toronto ;
-
-Paris-Vancouver ;
-
-Paris-Winnipeg,
-
-ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire du Canada situé au-delà d'un des points du territoire canadien mentionnés ci-dessus ou d'un des points du territoire des Etats-Unis d'Amérique mentionnés au 3.1 de la présente annexe.
-
 Centrafrique :
 
 Paris-Bangui ;
@@ -292,111 +200,21 @@ Paris-Santiago ;
 
 Chine :
 
-Paris-Beihai ;
-
 Paris-Canton ;
-
-Paris-Changchun ;
-
-Paris-Changsha ;
 
 Paris-Chengdu ;
 
-Paris-Chongqing ;
-
-Paris-Dalian ;
-
-Paris-Daqing ;
-
-Paris-Dayong ;
-
-Paris-Fuzhou ;
-
-Paris-Guilin ;
-
-Paris-Guyiang ;
-
-Paris-Haikou ;
-
 Paris-Hangzhou ;
-
-Paris-Harbin ;
-
-Paris-Hefei ;
-
-Paris-Huaian ;
-
-Paris-Jinan ;
-
-Paris-Kunming ;
-
-Paris-Lanzhou ;
-
-Paris-Lianyungang ;
-
-Paris-Linyi ;
-
-Paris-Luoyang ;
-
-Paris-Macao ;
-
-Paris-Nanchang ;
-
-Paris-Nankin ;
-
-Paris-Nanning ;
-
-Paris-Ningbo ;
 
 Paris-Pékin ;
 
-Paris-Qingdao ;
-
-Paris-Sanya ;
-
 Paris-Shanghai ;
-
-Paris-Shantou ;
-
-Paris-Shenyang ;
-
-Paris-Shenzhen ;
-
-Paris-Taïpei
-
-Paris-Taiyuan ;
-
-Paris-Taiyang ;
-
-Paris-Urumqi ;
-
-Paris-Wenzhou ;
 
 Paris-Wuhan ;
 
-Paris-Wuxi ;
-
-Paris-Xi'an ;
-
 Paris-Xiamen ;
 
-Paris-Xining ;
-
-Paris-Yanji ;
-
-Paris-Yantai ;
-
-Paris-Yichang ;
-
-Paris-Yinchuan ;
-
-Paris-Yiwu ;
-
-Paris-Zhanjiang ;
-
-Paris-Zhengzhou ;
-
-Paris-Zhuhai ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie chinoise entre un point du territoire français et un point du territoire de Chine situé au-delà d'un des points du territoire chinois mentionnés ci-dessus.
 
 Colombie :
 
@@ -418,7 +236,7 @@ Paris-Daegu ;
 
 Paris-Pusan ;
 
-Paris-Séoul.
+Paris-Séoul ;
 
 Costa Rica :
 
@@ -444,7 +262,7 @@ Paris-Djibouti ;
 
 Dominique :
 
-Paris-Marigot.
+Paris-Marigot ;
 
 Paris-Roseau ;
 
@@ -452,7 +270,7 @@ Egypte :
 
 Paris-Le Caire ;
 
-Emirats Arabes Unis :
+Emirats arabes unis :
 
 Paris-Abou Dabi ;
 
@@ -465,86 +283,6 @@ Equateur :
 Paris-Guyaquil ;
 
 Paris-Quito ;
-
-Etats-Unis :
-
-Lyon-New York (New York) ;
-
-Nice-New York (New York) ;
-
-Nice-Atlanta (Géorgie) ;
-
-Paris-Anchorage (Alaska) ;
-
-Paris-Atlanta (Géorgie) ;
-
-Paris-Baltimore (Maryland) ;
-
-Paris-Boston (Massachusetts) ;
-
-Paris-Charlotte (Caroline du Nord) ;
-
-Paris-Chicago (Illinois) ;
-
-Paris-Cincinnati (Ohio) ;
-
-Paris-Cleveland (Ohio) ;
-
-Paris-Dallas (Texas) ;
-
-Paris-Denver (Colorado) ;
-
-Paris-Detroit (Michigan) ;
-
-Paris-Fort Lauderdale (Floride) ;
-
-Paris-Guam (Guam) ;
-
-Paris-Houston (Texas) ;
-
-Paris-Las Vegas (Nevada) ;
-
-Paris-Los Angeles (Californie) ;
-
-Paris-Memphis (Tennessee) ;
-
-Paris-Miami (Floride) ;
-
-Paris-Minneapolis (Minnesota) ;
-
-Paris-New Orleans (Louisiane) ;
-
-Paris-New York (New York) ;
-
-Paris-Orlando (Floride) ;
-
-Paris-Philadelphie (Pennsylvanie) ;
-
-Paris-Phoenix (Arizona) ;
-
-Paris-Pittsburgh (Pennsylvanie) ;
-
-Paris-Raleigh Durham (Caroline du Nord) ;
-
-Paris-Saipan (îles Mariannes du Nord) ;
-
-Paris-Saint-Louis (Missouri) ;
-
-Paris-Salt Lake City (Utah) ;
-
-Paris-San Diego (Californie) ;
-
-Paris-San Francisco (Californie) ;
-
-Paris-San Juan (Porto Rico) ;
-
-Paris-Seattle (Washington) ;
-
-Paris-Tampa (Floride) ;
-
-Paris-Washington (Washington D. C.),
-
-ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire des Etats-Unis d'Amérique situé au-delà d'un des points du territoire des Etats-Unis d'Amérique mentionnés ci-dessus ou d'un des points du territoire du Canada mentionnés au 3.1 de la présente annexe.
 
 Ethiopie :
 
@@ -560,7 +298,7 @@ Paris-Accra ;
 
 Grenade :
 
-Paris-Saint-Georges.
+Paris-Saint-Georges ;
 
 Guatémala :
 
@@ -575,10 +313,6 @@ Guinée équatoriale :
 Paris-Bata ;
 
 Paris-Malabo ;
-
-Guyana :
-
-Paris-Georgetown ;
 
 Haïti :
 
@@ -596,25 +330,17 @@ Paris-Hong Kong ;
 
 Inde :
 
-Paris-Ahmedabad ;
-
-Paris-Amritsar ;
-
 Paris-Bangalore ;
 
 Paris-Bombay ;
 
-Paris-Calcutta ;
-
 Paris-Delhi ;
 
-Paris-Goa ;
-
-Paris-Hyderabad ;
-
-Paris-Kochi ;
+Paris-Hyderhabad ;
 
 Paris-Madras ;
+
+ainsi que toute liaison exploitée en partage de codes avec une compagnie indienne entre un point du territoire français et un point du territoire d'Inde situé au-delà d'un des points du territoire indien mentionnés ci-dessus.
 
 Indonésie :
 
@@ -624,65 +350,35 @@ Paris-Jakarta ;
 
 Paris-Surabaya ;
 
-Irak :
-
-Paris-Bagdad ;
-
-Paris-Bassora ;
-
-Paris-Erbil ;
-
 Iran :
 
 Paris-Meshed ;
 
 Paris-Téhéran ;
 
-Israël :
-
-Nice-Tel-Aviv ;
-
-Paris-Tel-Aviv ;
-
 Jamaïque :
 
 Paris-Montego Bay ;
+
+Paris-Kingston ;
 
 Japon :
 
 Paris-Fukuoka ;
 
-Paris-Itami ;
+Paris-Osaka ;
 
-Paris-Hiroshima ;
-
-Paris-Kagoshima ;
-
-Paris-Komatsu ;
-
-Paris-Kumamoto ;
-
-Paris-Matsuyama ;
-
-Paris-Miyazaki ;
-
-Paris-Nagasaki ;
+Paris-Okayama ;
 
 Paris-Nagoya ;
 
 Paris-Niigata ;
 
-Paris-Okayama ;
-
-Paris-Okinawa ;
-
-Paris-Osaka ;
-
 Paris-Sapporo ;
 
-Paris-Sendai ;
-
 Paris-Tokyo ;
+
+ainsi que toute liaison exploitée en partage de codes avec une compagnie japonaise entre un point du territoire français et un point du territoire du Japon situé au-delà d'un des points du territoire japonais mentionnés ci-dessus.
 
 Kazakhstan :
 
@@ -690,15 +386,13 @@ Paris-Almaty ;
 
 Paris-Astana ;
 
-Paris-Atyrau.
-
 Kenya :
 
 Paris-Nairobi,
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie kenyane entre un point du territoire français et un point du territoire kenyan situé au-delà de Nairobi.
 
-Kirghizistan :
+Kirghizstan :
 
 Paris-Bichkek ;
 
@@ -716,15 +410,13 @@ Liban :
 
 Marseille-Beyrouth ;
 
+Nice-Beyrouth ;
+
 Paris-Beyrouth ;
 
 Libéria :
 
 Paris-Monrovia ;
-
-Libye :
-
-Paris-Tripoli ;
 
 Madagascar :
 
@@ -732,7 +424,7 @@ Paris-Antananarivo ;
 
 Paris-Nosy Be ;
 
-Paris-Toamasina (Tamatave) ;
+Paris-Toamasina ;
 
 Malaisie :
 
@@ -762,101 +454,13 @@ Paris-Nouakchott ;
 
 Mexique :
 
-Paris-Acapulco ;
-
-Paris-Aguascalientes ;
-
-Paris-Campeche ;
-
 Paris-Cancún ;
-
-Paris-Chihuahua ;
-
-Paris-Ciudad del Carmen ;
-
-Paris-Ciudad Juarez ;
-
-Paris-Ciudad Obregon ;
-
-Paris-Cozumel ;
-
-Paris-Culiacan ;
-
-Paris-Durango ;
 
 Paris-Guadalajara ;
 
-Paris-Hermosillo ;
-
-Paris-Huatulco ;
-
-Paris-La Paz ;
-
-Paris-Leon/Guanajuato ;
-
-Paris-Los Cabos ;
-
-Paris-Los Mochis ;
-
-Paris-Manzanillo ;
-
-Paris-Matamoros ;
-
-Paris-Mazatlán ;
-
-Paris-Merida ;
-
-Paris-Mexicali ;
-
 Paris-Mexico ;
 
-Paris-Minatitlan ;
-
-Paris-Monclova ;
-
-Paris-Monterey ;
-
-Paris-Morelia ;
-
-Paris-Nuevo Laredo ;
-
-Paris-Oaxaca ;
-
-Paris-Poza Rica ;
-
-Paris-Puebla ;
-
-Paris-Puerto Vallarta ;
-
-Paris-Queretaro ;
-
-Paris-Reynosa ;
-
-Paris-Saltillo ;
-
-Paris-San Jose Cabo ;
-
-Paris-San Luis Potosí ;
-
-Paris-Tampico ;
-
-Paris-Tapachula ;
-
-Paris-Tijuana ;
-
-Paris-Toluca ;
-
-Paris-Torreón ;
-
-Paris-Tuxtla Gutierrez ;
-
-Paris-Veracruz ;
-
-Paris-Villahermosa ;
-
-Paris-Zacatecas ;
-
-Paris-Zihuatanejo ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie mexicaine ou américaine entre un point du territoire français et un point du territoire du Mexique situé au-delà d'un des points du territoire mexicain mentionnés ci-dessus ou d'un point du territoire des États-Unis.
 
 Mongolie :
 
@@ -886,7 +490,7 @@ Niger :
 
 Paris-Niamey ;
 
-Nigeria :
+Nigéria :
 
 Paris-Abuja ;
 
@@ -905,10 +509,6 @@ Paris-Entebbe ;
 Ouzbékistan :
 
 Paris-Tachkent ;
-
-Pakistan :
-
-Paris-Islamabad ;
 
 Palaos :
 
@@ -970,55 +570,11 @@ Paris-Jersey ;
 
 Russie :
 
-Marseille-Moscou ;
-
-Nice-Moscou ;
-
-Paris-Iekaterinbourg ;
-
-Paris-Irkoutsk ;
-
-Paris-Khabarovsk ;
-
-Paris-Krasnoïarsk ;
-
-Paris-Mineralnye Vody ;
-
 Paris-Moscou ;
-
-Paris-Nijnevartovsk ;
-
-Paris-Nijni Novgorod ;
-
-Paris-Novossibirsk ;
 
 Paris-Saint-Pétersbourg ;
 
-Paris-Samara ;
-
-Paris-Chelyabinsk ;
-
-Paris-Kaliningrad ;
-
-Paris-Kazan ;
-
-Paris-Krasnodar ;
-
-Paris-Omsk ;
-
-Paris-Oufa ;
-
-Paris-Perm ;
-
-Paris-Rostov ;
-
-Paris-Sochi ;
-
-Paris-Tyumen ;
-
-Paris-Volgograd ;
-
-Paris-Krasnodar ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie russe entre un point du territoire français et un point du territoire de Russie situé au-delà d'un des points du territoire russe mentionnés ci-dessus.
 
 Rwanda :
 
@@ -1036,7 +592,7 @@ Paris-Phillipsburg ;
 
 Sainte-Lucie :
 
-Paris-Castries.
+Paris-Castries ;
 
 Salvador :
 
@@ -1050,7 +606,7 @@ Seychelles :
 
 Paris-Victoria ;
 
-Paris-Praslin.
+Paris-Praslin ;
 
 Sierra Leone :
 
@@ -1064,7 +620,7 @@ Soudan :
 
 Paris-Khartoum ;
 
-Sud-Soudan :
+Soudan du Sud :
 
 Paris-Juba ;
 
@@ -1076,9 +632,9 @@ Suriname :
 
 Paris-Paramaribo ;
 
-Syrie :
+Territoire sous administration de Taïwan :
 
-Paris-Damas ;
+Paris-Taipei ;
 
 Tanzanie :
 
@@ -1116,67 +672,33 @@ Paris-Port d'Espagne ;
 
 Tunisie :
 
-Bordeaux-Tunis ;
+Lyon-Monastir ;
 
 Lyon-Tunis ;
 
-Marseille-Tunis ;
-
-Nice-Tunis ;
-
 Paris-Djerba ;
+
+Paris-Monastir ;
 
 Paris-Tunis ;
 
-Toulouse-Tunis ;
-
 Turquie :
-
-Paris-Adana ;
-
-Paris-Antalya ;
-
-Paris-Ankara ;
-
-Paris-Bodrum ;
 
 Paris-Istanbul ;
 
-Marseille-Istanbul ;
-
-Toulouse-Istanbul ;
-
-Nice-Istanbul ;
-
-Paris-Izmir ;
-
-Paris-Kayseri ;
-
-Paris-Konya ;
-
-Paris-Trabzon ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie turque entre un point du territoire français et un point du territoire de Turquie situé au-delà du point du territoire turc mentionné ci-dessus.
 
 Ukraine :
 
-Lyon-Odessa ;
-
-Paris-Dnipropetrovsk ;
-
-Paris-Donets ;
-
 Paris-Kiev ;
 
-Paris-Lviv ;
-
-Paris-Odessa ;
-
-Paris-Simferopol ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie ukrainienne entre un point du territoire français et un point du territoire d'Ukraine situé au-delà du point du territoire ukrainien mentionné ci-dessus.
 
 Uruguay :
 
-Paris-Montévideo ;
+Paris-Montévidéo ;
 
-Venezuela :
+Vénézuela :
 
 Paris-Caracas ;
 
@@ -1192,10 +714,6 @@ Paris-Huê ;
 
 Paris-Nha Trang ;
 
-Yémen :
-
-Paris-Sanaa ;
-
 Zambie :
 
 Paris-Lusaka ;
@@ -1210,78 +728,72 @@ Paris-Hararé ;
 
 Paris-Victoria Falls.
 
-3.2. De/vers les Antilles et la Guyane
+3.2. De/ vers les Antilles et la Guyane
 
 Barbade :
 
-Fort-de-France - Bridgetown ;
-
-Curaçao :
-
-Cayenne - Curaçao ;
-
-Fort-de-France - Curaçao ;
-
-Pointe-à-Pitre - Curaçao ;
+Fort-de-France-Bridgetown ;
 
 Dominique :
 
-Pointe-à-Pitre - Marigot ;
+Pointe-à-Pitre-Marigot ;
 
-Saint-Martin - Marigot ;
+Saint-Martin-Marigot ;
 
 Etats-Unis :
 
-Cayenne - Miami ;
+Cayenne-Miami ;
 
-Fort-de-France - Miami ;
+Fort-de-France-Miami ;
 
-Fort-de-France - San Juan ;
+Fort-de-France-San Juan ;
 
-Pointe-à-Pitre - Atlanta ;
+Pointe-à-Pitre-Atlanta ;
 
-Pointe-à-Pitre - Miami ;
+Pointe-à-Pitre-Miami ;
 
-Pointe-à-Pitre - San Juan ;
+Pointe-à-Pitre-San Juan ;
 
-Saint-Martin - San Juan ;
+Saint-Martin-San Juan ;
 
 Haïti :
 
-Cayenne - Port-au-Prince ;
+Cayenne-Port-au-Prince ;
 
-Fort-de-France - Port-au-Prince ;
+Fort-de-France-Port-au-Prince ;
 
-Pointe-à-Pitre - Port-au-Prince ;
+Pointe-à-Pitre-Port-au-Prince ;
 
 République dominicaine :
 
-Cayenne - Saint-Domingue ;
+Cayenne-Saint-Domingue ;
 
-Fort-de-France - Saint-Domingue ;
+Fort-de-France-Saint-Domingue ;
 
-Pointe-à-Pitre - Saint-Domingue ;
+Pointe-à-Pitre-Saint-Domingue ;
 
 Saint-Martin :
 
-Cayenne - Phillipsburg ;
+Cayenne-Phillipsburg ;
 
-Fort-de-France - Phillipsburg ;
+Fort-de-France-Phillipsburg ;
 
-Pointe-à-Pitre - Phillipsburg ;
+Pointe-à-Pitre-Phillipsburg ;
 
 Sainte-Lucie :
 
-Fort-de-France - Castries ;
+Fort-de-France-Castries ;
 
-Pointe-à-Pitre - Castries.
+Pointe-à-Pitre-Castries.
 
-3.3. De/vers La Réunion
+3.3. De/ vers La Réunion
 
 Madagascar :
 
-Saint-Denis de La Réunion - Antananarivo ;
+Saint-Denis de La Réunion-Antananarivo ;
 
 Maurice :
 
-Saint-Denis de la Réunion - Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile) Saint-Pierre de La Réunion - Port-Louis (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+Saint-Denis de La Réunion-Port-Louis (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
+
+Saint-Pierre de La Réunion-Port-Louis (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile).
