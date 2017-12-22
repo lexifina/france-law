@@ -446,8 +446,6 @@ Mineur Becourt, 10, rue Jean-Jaurès, 59770 Marly : de 1965 à 1990 ;
 
 Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
 
-Penarroya, puis Metaleurop, puis Metaleurop Nord, 1, avenue Malfidano, BP 1,62950 Noyelles-Godault : De 1962 à 1989 ;
-
 Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
 SA Ateliers Bouchez, entreprise M. Bouchez, 2, rue Jeanne-d'Arc et 80, rue du 29-juillet, 62100 Calais, de 1958 à 1993 ;
