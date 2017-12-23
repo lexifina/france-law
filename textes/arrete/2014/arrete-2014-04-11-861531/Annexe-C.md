@@ -46,7 +46,7 @@ BOULOGNE-SUR-MER |
 
 BREST |
 
-29200 |
+|
 
 Tous les jours de 6 heures à 22 heures |
 
@@ -57,6 +57,16 @@ Tous les jours de 6 heures à 22 heures |
 DOUARNENEZ |
 
 29100 |
+
+|
+
+|
+
+|
+
+AUDIERNE |
+
+29770 |
 
 |
 
