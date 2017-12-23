@@ -20,15 +20,11 @@ Adresse d'implantation au format postal.
 
 C'est le numéro SIRET à 14 chiffres de l'établissement siège.
 
-II.-Tableau 2 : Enregistrements " logement "
+II-Tableau 2 : Enregistrements " logement "
 
 1. Identifiant du logement au répertoire :
 
-Doit être obligatoirement renseigné sur 10 positions pour tous les logements figurant déjà au répertoire.
-
-Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux.
-
-Par dérogation, les logements non encore immatriculés au 1er janvier 2016 seront transmis sans identifiant lors de l'enquête de mise à jour du répertoire au 1er janvier 2016.
+Doit être obligatoirement renseigné sur 10 positions pour tous les logements. Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux, soit à l'issue des collectes précédentes, soit par le dispositif immatriculation en continu pour les logements mis en service lors de l'année précédant la collecte.
 
 2. Identifiant du logement dans le SI du propriétaire :
 
@@ -82,11 +78,11 @@ Un logement est dit collectif s'il fait partie d'un bâtiment d'au moins deux lo
 
 Le champ est renseigné à E si le logement est situé dans une résidence étudiante.
 
-24 : Nombre de pièces principales du logement :
+24. Nombre de pièces principales du logement :
 
 Doit être obligatoirement renseigné.
 
-Il s'agit des pièces principales au sens de l'article R. 111-1-1 du CCH dernier alinéa de l'article R. 111-1-1 du CCH : " Un logement ou habitation comprend, d'une part, des pièces principales destinées au séjour ou au sommeil, éventuellement des chambres isolées et, d'autre part, des pièces de service, telles que cuisines, salles d'eau, cabinets d'aisance, buanderies, débarras, séchoirs ainsi que, le cas échéant, des dégagements et des dépendances. "
+Il s'agit des pièces principales au sens de l'article R. 111-1-1 du CCH dernier alinéa de l'article R. 111-1-1 du CCH : “ Un logement ou habitation comprend, d'une part, des pièces principales destinées au séjour ou au sommeil, éventuellement des chambres isolées et, d'autre part, des pièces de service, telles que cuisines, salles d'eau, cabinets d'aisance, buanderies, débarras, séchoirs ainsi que, le cas échéant, des dégagements et des dépendances. ”
 
 25. Surface habitable en mètres carrés :
 
@@ -168,9 +164,9 @@ Indiquer le jour, le mois et l'année de la prise d'effet de la convention. Pour
 
 Doit être obligatoirement renseigné.
 
-Indiquer s'il s'agit de vente à l'occupant, vente à un autre bailleur social, autre vente, démolition, autre cas (destruction de logement par incendie, catastrophe naturelle ...).
+Indiquer s'il s'agit de vente à l'occupant, vente à un autre bailleur social, autre vente, démolition, autre cas (destruction de logement par incendie, catastrophe naturelle …).
 
-Si le logement est toujours dans votre patrimoine, indiquer " 9 sans objet ".
+Si le logement est toujours dans votre patrimoine, indiquer “ 9 sans objet ”.
 
 38. Le cas échéant, si le logement n'existe plus au 1er janvier de l'année de l'enquête mais que la surface correspondante est toujours dans le patrimoine du bailleur :
 
@@ -194,7 +190,7 @@ Doit être obligatoirement renseigné.
 
 5. Logement occupé avec ou sans contrepartie financière : il s'agit soit d'un logement faisant l'objet d'un bail professionnel, de baux communs commerce-logement ; soit d'un logement de fonction ou de service (loge de gardien, etc.) ; soit d'un logement occupé sans titre, soit d'un logement occupé par un mineur ou ses ayants droit (Epinorpa, Sainte Barbe).
 
-9. Sans objet : le logement est sorti du patrimoine (vente, démolition ...) ou n'existe plus au 1er janvier (changement d'usage, fusion ou éclatement au cours de l'année n-1).
+9. Sans objet : le logement est sorti du patrimoine (vente, démolition …) ou n'existe plus au 1er janvier (changement d'usage, fusion ou éclatement au cours de l'année n-1).
 
 41. Date de prise d'effet du bail en cours :
 
@@ -204,9 +200,9 @@ Si le logement est occupé avec un contrat de location au 1er janvier de l'enqu�
 
 Il s'agit d'indiquer le mode de mesure de la surface servant à la détermination du loyer. Dans la majorité des cas, ce mode est lié au financement initial.
 
-Surface utile : article R. 353-16 du CCH, la surface utile est égale à la surface habitable du logement augmentée de la moitié de la surface des annexes privatives. Les surfaces annexes sont définies par l'arrêté du 9 mai 1995, modifié par l'arrêté du 10 mai 1996 du ministre en charge du logement (pris en application des articles R. 331-10 et R. 353-16 [2°] du CCH) comme : les surfaces réservées à l'usage exclusif de l'occupant du logement et dont la hauteur sous plafond est au moins égale à 1,80 mètre. Elles comprennent : les caves, les sous-sols, les remises, les ateliers, les séchoirs et celliers extérieurs au logement, les resserres, les combles et greniers aménageables, les balcons, les loggias, les vérandas et, dans la limite de 9 mètres carrés, les parties de terrasse accessibles en étage ou aménagées sur ouvrage enterré ou à moitié enterré.
+Surface utile : article R. 353-16 du CCH, la surface utile est égale à la surface habitable du logement augmentée de la moitié de la surface des annexes privatives. Les surfaces annexes sont définies par l'arrêté du 9 mai 1995, modifié par l'arrêté du 10 mai 1996 du ministre en charge du logement (pris en application des articles R. 331-10 et R. 353-16 [2o] du CCH) comme : les surfaces réservées à l'usage exclusif de l'occupant du logement et dont la hauteur sous plafond est au moins égale à 1,80 mètre. Elles comprennent : les caves, les sous-sols, les remises, les ateliers, les séchoirs et celliers extérieurs au logement, les resserres, les combles et greniers aménageables, les balcons, les loggias, les vérandas et, dans la limite de 9 mètres carrés, les parties de terrasse accessibles en étage ou aménagées sur ouvrage enterré ou à moitié enterré.
 
-Surface corrigée : loi n° 48-1360 du 1er septembre 1948, la surface corrigée des pièces et annexes, totalisée pour l'ensemble du local, est affectée d'un correctif d'ensemble tenant compte, d'une part, de la vétusté et de l'état d'entretien du local, d'autre part, de l'emplacement du local dans l'agglomération et des sujétions de voisinage.
+Surface corrigée : loi no 48-1360 du 1er septembre 1948, la surface corrigée des pièces et annexes, totalisée pour l'ensemble du local, est affectée d'un correctif d'ensemble tenant compte, d'une part, de la vétusté et de l'état d'entretien du local, d'autre part, de l'emplacement du local dans l'agglomération et des sujétions de voisinage.
 
 Surface habitable : article R. 111-2 du CCH, c'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escalier, gaines, ébrasements de portes et fenêtres.
 
@@ -224,7 +220,7 @@ Doit être obligatoirement renseigné si le logement est occupé au 1er janvier.
 
 Si le logement a été occupé pendant tout le mois de janvier de l'année de l'enquête, indiquer le loyer mis en recouvrement, avant déduction éventuelle de l'APL. Sont exclus de ce montant les taxes, supplément de loyer de solidarité, loyers accessoires et charges locatives.
 
-Si le quittancement n'a pas porté sur le mois de janvier complet, indiquer " 9999 " pour " sans objet ".
+Si le quittancement n'a pas porté sur le mois de janvier complet, indiquer “ 9999 ” pour “ sans objet ”.
 
 45. Montant des loyers accessoires :
 
@@ -232,7 +228,7 @@ Doit être obligatoirement renseigné si le logement est occupé au 1er janvier.
 
 Ce sont les loyers relatifs aux locaux annexes qui n'entrent pas dans le calcul du loyer en principal, par exemple les emplacements réservés au stationnement des véhicules, les terrasses, cours et jardins, faisant l'objet d'une jouissance exclusive.
 
-Si aucun loyer accessoire n'est quittancé pour le logement, indiquer " 999 " pour " sans objet ".
+Si aucun loyer accessoire n'est quittancé pour le logement, indiquer “ 999 ” pour “ sans objet ”.
 
 46. Montant de la contribution pour le partage d'économie de charges :
 
@@ -240,11 +236,11 @@ Doit être obligatoirement renseigné si le logement est occupé au 1er janvier.
 
 Prévue par l'article L. 442-3 du code de la construction et de l'habitation, cette contribution permet aux bailleurs d'amortir des travaux d'économie d'énergie pendant une durée maximum de quinze ans, en quittançant son montant sur une ligne spécifique. Indiquer " 999 " s'il n'y a pas eu de travaux permettant la mise en place de cette contribution.
 
-47. Le cas échéant, plafond de ressources correspondant au titre de la CUS :
+47. Plafond de ressources applicable pour une prochaine attribution, le cas échéant modifié au titre de la CUS :
 
-Obligatoirement renseigné pour les organismes soumis à l'obligation de signer une CUS et opérant une " remise en ordre des loyers maximaux " (ne dérogeant pas au sixième alinéa de l'article L. 445-2 du CCH).
+Doit être obligatoirement renseigné, quel que soit le statut d'occupation du logement.
 
-Il s'agit d'indiquer la correspondance entre le financement initial et le plafond de ressources (PLAI, PLUS, PLS, PLI) défini dans le cahier des charges de gestion sociale de la CUS mentionné au L. 445-2.
+Il s'agit d'indiquer le plafond de ressources (PLAI, PLUS, PLS, PLI) applicable au logement pour son attribution à un locataire. Les organismes tenus de signer une CUS au titre de l'article L. 445-1 du code de la construction et de l'habitation indiquent le plafond de ressources applicable tel que modifié par la CUS, si tel est le cas.
 
 48. Date d'établissement du dernier diagnostic de performance énergétique DPE :
 
@@ -266,21 +262,21 @@ Pour les seuls logements situés dans les communes définies dans l'article L. 3
 
 53. Le cas échéant, numéro interne au MEDDE de l'organisme gestionnaire.
 
-54. Code identifiant le segment de patrimoine CUS.
+54. Code identifiant l'ensemble immobilier, au titre de la CUS.
 
-La notion de segment de patrimoine ne concerne que les organismes soumis à la signature de la convention d'utilité sociale (CUS) définie aux articles L. 445-1 et suivants du CCH. L'article R. 445-2-1 du CCH prévoit que cette segmentation est définie de manière pertinente par les organismes.
+La notion d'ensemble immobilier ne concerne que les organismes soumis à la signature de la convention d'utilité sociale (CUS) définie aux articles L. 445-1 et suivants du CCH. Ils sont définis par les organismes.
 
 Doit être obligatoirement renseigné pour :
 
-a) Tous les logements sur lesquels les organismes HLM définis à l'article L. 411-2 du CCH détiennent un droit réel ;
+a) Tous les logements sur lesquels les organismes HLM définis à l'article L. 411-2 du CCH détiennent un droit réel.
 
-b) Les logements sur lesquels les sociétés d'économie mixte de construction et de gestion de logements locatifs sociaux définis à l'article L. 481-1 détiennent un droit réel ET sont conventionnés à l'APL.
+b) Les logements sur lesquels les sociétés d'économie mixte détiennent un droit réel sont conventionnés à l'APL ou, dans les départements de Guadeloupe, de Guyane, de la Martinique, de La Réunion, de Mayotte et de Saint-Martin, pour les logements à usage locatif leur appartenant et construits, acquis ou améliorés avec le concours financier de l'Etat.
 
-Il s'agit du code que l'organisme affecte à un segment de patrimoine de logements locatifs, dont le libellé est précisé ci-dessous.
+Il s'agit du code que l'organisme affecte à un ensemble immobilier de logements locatifs, dont le libellé est précisé ci-dessous.
 
-55. Libellé court du segment de patrimoine :
+55. Libellé court de l'ensemble immobilier :
 
-Il s'agit du libellé qui décrit brièvement le segment de patrimoine et permet de l'identifier. Ce libellé doit être celui inscrit dans la CUS de l'organisme.
+Il s'agit du libellé qui décrit brièvement l'ensemble immobilier et permet de l'identifier. Ce libellé doit être le même que celui inscrit dans la CUS de l'organisme.
 
 56. Montant du loyer mensuel maximal de la convention APL :
 
@@ -292,7 +288,7 @@ Le loyer pratiqué doit obligatoirement être inférieur ou égal au loyer maxim
 
 57. Le cas échéant, montant du loyer mensuel maximal résultant de la CUS :
 
-Obligatoirement renseigné pour les organismes soumis à l'obligation de signer une CUS et opérant une " remise en ordre des loyers maximaux " (ne dérogeant pas au sixième alinéa de l'article L. 445-2 du CCH).
+Obligatoirement renseigné pour les organismes soumis à l'obligation de signer une CUS et bénéficiant d'une remise en ordre des loyers ou d'une nouvelle politique des loyers.
 
 Il s'agit d'indiquer le montant du loyer maximal du logement découlant du cahier des charges de gestion sociale de la CUS, c'est-à-dire le montant maximal fixé dans le respect de la réglementation par l'organisme, valeur actualisée en vigueur au 1er janvier de l'année de la collecte.
 
@@ -330,7 +326,7 @@ a) L'ensemble des logements des organismes d'habitation à loyer modéré ;
 
 b) Les logements des sociétés d'économie mixte de construction et de gestion de logements sociaux faisant l'objet de conventions régies par le chapitre III du titre V du livre III.
 
-Il s'agit d'indiquer le prix de vente du logement. Le prix de vente correspond à la somme inscrite au compte 775 " produits des cessions d'éléments d'actifs ".
+Il s'agit d'indiquer le prix de vente du logement. Le prix de vente correspond à la somme inscrite au compte 775 “ produits des cessions d'éléments d'actifs ”.
 
 61. Produit financier net encaissé par l'organisme :
 
@@ -340,23 +336,25 @@ a) L'ensemble des logements des organismes d'habitation à loyer modéré ;
 
 b) Les logements des sociétés d'économie mixte de construction et de gestion de logements sociaux faisant l'objet de conventions régies par le chapitre III du titre V du livre III.
 
-Il s'agit d'indiquer le produit financier net encaissé par l'organisme. Le produit financier net correspond à la différence entre d'une part, la valeur d'entrée (valeur d'origine) et les amortissements calculés jusqu'à la date de la sortie de l'actif qui est retracée au compte 675 " valeurs comptables des éléments d'actif cédés " et, d'autre part, le produit de cession enregistré au compte 775 " produits des cessions d'éléments d'actif ".
+Il s'agit d'indiquer le produit financier net encaissé par l'organisme. Le produit financier net correspond à la différence entre d'une part, la valeur d'entrée (valeur d'origine) et les amortissements calculés jusqu'à la date de la sortie de l'actif qui est retracée au compte 675 “ valeurs comptables des éléments d'actif cédés ” et, d'autre part, le produit de cession enregistré au compte 775 “ produits des cessions d'éléments d'actif ”.
 
 62. Dernière date à laquelle le logement a pu être offert à la location :
 
 Si le logement est loué avec contrat de location ou proposé à la location mais vacant au 1er janvier de l'année de la collecte (mode d'occupation au 1er janvier de l'année en cours = 1 ou 2), il s'agit d'indiquer la dernière date à laquelle le logement a pu être offert à la location, c'est-à-dire la date à laquelle le logement était disponible pour l'occupation d'un nouveau locataire (après, le cas échéant, délais des travaux de remise en état suite au départ du précédent locataire).
 
-Cette date est obligatoirement antérieure à la " date de prise d'effet du bail en cours " déjà renseignée par ailleurs (si elle est renseignée).
+Cette date est obligatoirement antérieure à la “ date de prise d'effet du bail en cours ” déjà renseignée par ailleurs (si elle est renseignée).
 
-63. Contingent d'appartenance pour les logements réservés au sens de l'article R. 441-5 :
+63. Contingent d'origine pour les logements réservés au sens de l'article R. 441-5 :
 
 Obligatoirement renseigné si le logement relève de l'article L. 441-1 c'est-à-dire les logements, hors logements-foyers :
 
--construits, améliorés ou acquis et améliorés avec le concours financier de l'Etat existants au 1er janvier de l'année de référence ou conventionnés et appartenant à ou gérés par un organisme d'HLM mentionnés à l'article L. 441-1 du code de la construction et de l'habitation ;
+-construits, améliorés ou acquis et améliorés avec le concours financier de l'État existants au 1er janvier de l'année de référence ou conventionnés et appartenant à ou gérés par un organisme d'HLM mentionnés à l'article L. 441-1 du code de la construction et de l'habitation ;
 
 -conventionnés dans les conditions définies à l'article L. 351-2 et appartenant à ou gérés par des sociétés d'économie mixte mentionnées à l'article L. 481-2.
 
-Il s'agit d'indiquer si le logement est réservé à un public particulier au 1er janvier de l'année de la collecte.
+Il s'agit d'identifier le réservataire à qui revient le droit pérenne de réservation pour chaque logement, pour la durée de la convention de réservation liant le bailleur et le réservataire. Cette donnée est donc, pour un logement donné, très stable dans le temps et n'est modifiée qu'à l'échéance de la convention de réservation.
+
+La valeur à renseigner dans ce champ ne change pas en fonction de l'occupant du logement et continue de désigner le titulaire du droit de réservation du logement, même si à l'occasion d'une ou plusieurs attributions, c'est un candidat désigné par un autre réservataire ou par le bailleur qui obtient le logement et signe un bail.
 
 Est une valeur parmi la liste suivante :
 
@@ -366,10 +364,32 @@ Est une valeur parmi la liste suivante :
 
 3. Employeurs et organismes collecteurs d'Action Logement (c'est-à-dire les logements financés par le 1 %).
 
-4. Collectivités territoriales, leurs établissements publics et EPCI.
+Les collectivités territoriales et leurs établissements publics distingués en 5 modalités :
+
+41. Commune.
+
+42. EPCI.
+
+43. Département.
+
+44. Région.
+
+45. Ville de Paris.
 
 5. Réservations conventionnelles de l'Etat financés pour le logement des fonctionnaires au moyen des conventions prévues aux articles R. 314-4, R. 314-16 ou R. 314-21.
 
 6. Autres réservataires (dont contingents des organismes désintéressés CAF, MSA).
 
 7. Non réservé (les logements pour lesquels aucun réservataire n'existe sont classés dans cette catégorie.
+
+64. Accessibilité et adaptation du logement aux personnes à mobilité réduite.
+
+Doit être obligatoirement renseignée.
+
+Est une valeur parmi la liste suivante :
+
+1. Non accessible aux personnes à mobilité réduite.
+
+2. Accessible, mais non adapté, aux personnes à mobilité réduite.
+
+3. Accessible et adapté aux personnes à mobilité réduite.
