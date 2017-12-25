@@ -422,7 +422,7 @@ Pour la part de la contribution consacrée au développement de la production in
 
 -l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
 
-Pour la part de la contribution qui n'est pas consacrée au développement de la production indépendante et qui est réalisée avec des entreprises de production indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010, la durée des droits de diffusion acquis à titre exclusif est limitée à quatre ans. Toutefois, pour les œuvres d'animation, la durée des droits de diffusion est celle figurant dans l'annexe relative à l'étendue des droits cédés. Les dépenses de France Télévisions en parts de producteur n'excèdent pas la moitié de son investissement total dans une œuvre et le droit à recettes attaché correspond à l'investissement en parts de producteur rapporté au coût définitif de l'œuvre. France Télévisions veille à respecter l'équilibre entre les différents genres qui résulte de son investissement dans le développement de la production audiovisuelle.
+Pour la part de la contribution qui n'est pas consacrée au développement de la production indépendante et qui est réalisée avec des entreprises de production indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010, la société respecte les conditions d'exploitation des œuvres définies par accords conclus avec les organisations représentant les producteurs d'œuvres audiovisuelles. La durée des droits de diffusion acquis à titre exclusif est limitée à cinq ans pour les œuvres d'animation et à quatre ans pour les autres œuvres. Les dépenses de France Télévisions en parts de producteur n'excèdent pas la moitié de son investissement total dans une œuvre et le droit à recettes attaché correspond à l'investissement en parts de producteur rapporté au coût définitif de l'œuvre. France Télévisions veille à respecter l'équilibre entre les différents genres qui résulte de son investissement dans le développement de la production audiovisuelle.
 
 France Télévisions peut procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
 
@@ -1084,13 +1084,7 @@ France Télévisions met à la disposition de TV5 des émissions ou des extraits
 
 Article 65
 
-Les relations avec Canal France internationale (CFI)
-
-France Télévisions met gratuitement à la disposition de CFI les droits de diffusion des programmes qui leur sont nécessaires dans les pays qui bénéficient d'un régime de distribution culturelle dont la liste est arrêtée d'un commun accord par les ministères concernés.
-
-Cette disposition n'est pas applicable lorsque ces programmes font l'objet d'une cession commerciale dans les pays en cause. Toutefois, en l'absence de commercialisation à l'étranger dans un délai de deux ans après leur diffusion nationale, les programmes pour lesquels la société détient les droits sont mis gratuitement, pour une période maximale d'un an, à la disposition du ou des opérateurs chargés de la distribution culturelle. En tout état de cause, les organismes dont il s'agit rémunèrent les ayants droit.
-
-La société est régulièrement informée par le ou les organismes visés au premier alinéa des actions de distribution culturelle des programmes qui lui ont été confiés à cette fin.
+(Abrogé)
 
 Article 66
 
@@ -1200,101 +1194,133 @@ Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en F
 
 |
 
-2. Œuvres d'animation :
+2. Œuvres d'animation : |
 
-Part de l'investissement de l'éditeur dans le coût total de production |
+|
 
-Inférieure à 30 % |
+Part indépendante |
 
-Egale ou supérieure à 30 % ou égale ou supérieure à 2 millions d'euros (1,65 million d'euros pour les œuvres préscolaires) (3) |
+Financement FTV |
 
-Egale ou supérieure à 35 % ou égale ou supérieure à 2,3 millions d'euros (1,85 million d'euros pour les œuvres préscolaires) (3) |
+Inférieur à 25 %
 
-Durée des droits (4) |
+ou inférieur à 1,75 M € (1)
+
+(inférieur à 1,5 M € pour les pré-scolaires) |
+
+Supérieur ou égal à 25 % et inférieur à 30 %
+
+ou supérieur ou égal à 1,75 M € et inférieur
+
+à 2 M € (1)
+
+(supérieur ou égal à 1,5 M € et inférieur à
+
+1,65 M € pour les pré-scolaires) |
+
+Supérieur ou égal à 30 % et inférieur à 35 % ou supérieur ou égal à 2 M € et inférieur à 2,3 M € (1)
+
+(supérieur ou égal à 1,65 M € et inférieur à 1,85 M € pour les pré-scolaires) |
+
+Supérieur ou égal à 35 % ou
+
+supérieur ou égal à 2,3 M € (1)
+
+(supérieur ou égal à 1,85 M € pour les pré-scolaires) |
+
+Durée des droits (6) |
 
 30 mois |
 
+36 mois (2) |
+
+48 mois (2) |
+
 48 mois
 
-+/-3 mois (5)
+ou jusqu'à 60 mois (3) |
 
-|
+Période d'exclusivité |
 
-48 mois ou jusqu'à 60 mois (6) |
+de 0 à 6 mois |
 
-Période d'exclusivité (7) |
+9 mois (2) |
 
-6 mois |
+12 mois (2) |
 
-12 mois +/-3 mois (5) |
+Exclusivité totale
 
-Exclusivité totale ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois des droits de France Télévisions (6) |
+ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois de droits de FTV (3) |
 
-Nombre de multidiffusions télévisuelles |
+Nombre de diffusions |
 
-Négociation de gré à gré |
+De gré à gré avec au minimum 6 multidiffusions
 
-Définition de la multidiffusion |
+(4) |
 
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
+Diffusion illimitée |
 
-Terminaison automatique des droits de diffusion télévisuelle |
+Diffusion illimitée |
 
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
+Diffusion illimitée |
 
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
+Preview |
 
-Durée de la télévision de rattrapage |
+Possible dans les termes ci-après (*) sous réserve de la combinaison des exclusivités des différents diffuseurs opérant sur le territoire français |
 
-7 jours après la diffusion télévisuelle/ en cas d'exploitation payante ou de requête d'un second diffuseur figurant au plan de financement, 48 heures en programmation quotidienne ou 7 jours en programmation hebdomadaire, après la diffusion télévisuelle. |
+(*) Pour les séries : jusqu'à 90 jours avant la 1re diffusion du 1er épisode
 
-Délai de prédiffusion |
+Pour les unitaires : jusqu'à 7 jours avant la 1re diffusion |
 
-Jusqu'à 90 jours avant la 1re diffusion pour les séries/ Jusqu'à 7 jours avant la 1re diffusion pour les unitaires |
+TVR |
 
-Exploitation en VàD payante ou gratuite |
+7 jours après chaque passage de chaque multidiffusion dans la/ les période (s) d'exclusivité de France Télévisions
 
-Modalités définies par accords professionnels en vigueur |
+Hors période (s) d'exclusivité de France Télévisions, 7 jours après chaque passage de chaque multidiffusion/ en cas d'exploitation payante ou de requête d'un autre diffuseur figurant au plan de financement, 48 heures en programmation quotidienne et 7 jours en programmation hebdomadaire |
 
-Droit à recettes (8) |
+VàD gratuite (5) |
+
+Séries : 3 épisodes renouvelés tous les deux mois au cours de la période des droits linéaires/ Unitaires : 2 périodes de 30 jours chacune par an au cours de la période des droits linéaires |
+
+Diffusion non linéaire payante |
+
+Négociation séparée sous réserve des conditions contractuelles autre (s) diffuseur (s) opérant sur le territoire français |
+
+Durée des droits identique à celle de la diffusion linéaire. Contrat séparé avec partage de recettes avec le producteur. Période d'exclusivité démarrant à la livraison du PAD et limitée à 3 mois après la 1re diffusion pour les unitaires et au 1er cycle d'exploitation pour les séries (dans la limite de 12 mois après la diffusion du 1er épisode) |
+
+Droit à recettes |
 
 Non |
 
-Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 30 %
+Pré-achat : 1 % de droits à recettes par pourcentage apporté par l'éditeur au-delà de 25 % |
 
-Coproduction : pourcentage correspondant à l'apport en parts producteur rapporté au coût définitif de l'œuvre
+Pré-achat : forfait de 3 % des RNPP dans les conditions définies dans l'accord transparence du 19/02/16 pour les œuvres où le financement de FTV est inférieur ou égal à 25 % mais supérieur ou égal à 2 M € (1,65 M € pour les œuvres pré-scolaires) (1) |
 
-|
+(1) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
 
-Mandats en préachat |
+(2) En cas de cofinancement par plusieurs diffuseurs opérant sur le territoire français, variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité.
 
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
+(3) Dans l'hypothèse où une fenêtre de codiffusion est concédée par France Télévisions à un diffuseur tiers, la durée des droits de diffusion initiale de France Télévisions de 48 mois avec exclusivité totale passe à 60 mois, avec une fenêtre de codiffusion au bénéfice de ce diffuseur tiers, qui démarre à partir du 13e mois des droits de France Télévisions. La date de démarrage de cette codiffusion est fixée de gré à gré entre les parties.
 
-(3) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
+(4) 1 multidiffusion pour un unitaire = 4 passages sur 30 jours pouvant être effectués sur l'un ou l'autre des services de télévision de France Télévisions/1 multidiffusion pour une série = 4 passages sur 60 jours pouvant être effectués sur l'un ou l'autre des services de télévision de France Télévisions.
 
-(4) Pour une série, la date de début des droits est fixée soit au jour de la diffusion du premier épisode, soit au plus tard à la date d'acceptation des copies antennes des deux tiers des épisodes de celle-ci. La première des deux dates s'applique. Le producteur s'engage à livrer le solde des épisodes dans un délai de 3 mois. Dans le cas contraire, les parties fixeront de gré à gré une nouvelle date pour le début des droits. Pour un unitaire, la date de début des droits est fixée soit au jour de sa première diffusion, soit au plus tard 3 mois après sa livraison. La première des deux dates s'applique.
+(5) Ces épisodes ou unitaires peuvent faire l'objet d'un téléchargement temporaire, pendant une durée maximale de 30 jours, sur un récepteur mobile tel qu'un ordinateur, une tablette ou un téléphone afin de permettre leur visionnage sans limitation, dans des conditions où la connexion internet est inexistante ou insuffisante pour accéder à la plateforme jeunesse de France Télévisions (zones du territoire non couvertes, voiture, train, avion par exemple). Dès que le récepteur retrouve une connexion internet suffisante, les téléchargements effectués s'effacent automatiquement et, en tout état de cause, dans un délai maximal de 30 jours.
 
-(5) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité (dans la limite de +/-3 mois) : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité/ le tout dans la limite de 51 mois de droits de diffusion et 9 mois d'exclusivité ou de 45 mois de droits de diffusion et 15 mois d'exclusivité.
+Il est rappelé que les exploitations type MCN sur YouTube (hors chaînes Ludo et Zouzous de France Télévisions) sont subordonnées à accord par contrat séparé entre les parties avec partage des recettes d'exploitation conformément aux dispositions de l'accord interprofessionnel du 10/12/15.
 
-(6) Dans l'hypothèse où une fenêtre de codiffusion est concédée par France Télévisions à un diffuseur tiers, la durée des droits de diffusion initiale de France Télévisions de 48 mois avec exclusivité totale passe à 60 mois, avec une fenêtre de codiffusion au bénéfice de ce diffuseur tiers qui démarre à partir du 13e mois des droits de France Télévisions. La date de démarrage de cette codiffusion est fixée de gré à gré entre les parties.
-
-(7) Sans préjudice d'une éventuelle première fenêtre de diffusion d'une chaîne payante intervenant avant celle de France Télévisions.
-
-(8) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
-
-|
+(6) La date de début des droits d'exploitation est fixée à l'acceptation du PAD pour les unitaires. Pour les séries, la date de début des droits de l'ensemble des épisodes objet d'un contrat est fixée à la date de la première exploitation du premier épisode par l'un des services de télévision du groupe France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. En cas de non-respect des dates de livraison prévues contractuellement, la date de début des droits d'exploitation des épisodes d'une série concernés par le retard de livraison pourra être renégociée dans le cadre d'un avenant au contrat de préachat ou de coproduction. En cas de commande 39 demi-heures commerciales, la date de début des droits peut être fixée par lot selon des modalités à définir par les parties. |
 
 3. Documentaire-captation ou recréation de spectacles vivants :
 
 Part de l'investissement de l'éditeur dans le coût total de production |
 
-Inférieure à 50 % |
+Inférieure à 45 % |
 
-Supérieure ou égale à 50 % |
+Supérieure ou égale à 45 % |
 
-Durée des droits (9) |
+Durée des droits (1) |
 
-36 mois |
+36 mois (2) |
 
 Nombre de multidiffusions télévisuelles |
 
@@ -1326,7 +1352,7 @@ Exploitation en VàD payante ou gratuite |
 
 Modalités définies par accord professionnel en vigueur |
 
-Droit à recettes (10) |
+Droit à recettes (3) |
 
 Non |
 
@@ -1340,9 +1366,17 @@ Mandats en préachat |
 
 Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
 
-(9) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
+(1) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
 
-(10) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
+(2) En cas d'exploitation d'œuvres de spectacle vivant en VàD gratuite, la durée des droits est réduite, dans la limite de six mois, comme suit :
+
+- un mois de réduction par mois d'exploitation en VàD gratuite à titre exclusif ;
+
+- un mois de réduction pour deux mois d'exploitation en VàD gratuite dans les autres cas.
+
+Pour les œuvres web-natives de spectacle vivant, 12 mois à titre non exclusif ou jusqu'à 36 mois dont 12 mois à titre exclusif selon des modalités définies par accord professionnel en vigueur.
+
+(3) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
 
 |
 
