@@ -1,6 +1,8 @@
 # Article Annexe II
 
-Liste des départements dans lesquels le tarif des annonces légales en 2017 est égal au tarif de base majoré de 0,15 €, soit 4,30 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2018 est égal au tarif de base majoré de 0,30 € soit 4,46 € hors taxe la ligne
+
+02 Aisne.
 
 07 Ardèche.
 
@@ -10,6 +12,10 @@ Liste des départements dans lesquels le tarif des annonces légales en 2017 est
 
 38 Isère.
 
+60 Oise.
+
 69 Rhône.
+
+80 Somme.
 
 89 Yonne.

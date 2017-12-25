@@ -1,15 +1,11 @@
 # Article Annexe V
 
-Liste des départements dans lesquels le tarif des annonces légales en 2017 est égal au tarif de base majoré de 1,10 €, soit 5,25 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2018 est égal au tarif de base majoré de 1,34 €, soit 5,50 € hors taxe la ligne
 
-59 Nord.
+75 Paris.
 
-62 Pas-de-Calais.
+92 Hauts-de-Seine.
 
-77 Seine-et-Marne.
+93 Seine-Saint-Denis.
 
-78 Yvelines.
-
-91 Essonne.
-
-95 Val-d'Oise.
+94 Val-de-Marne.
