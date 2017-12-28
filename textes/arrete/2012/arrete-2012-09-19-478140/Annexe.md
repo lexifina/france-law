@@ -110,6 +110,16 @@ RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-comp
 
 29 septembre 2018 |
 
+Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
+
+Opérateur, Ratites-manipulation et soins-mise à mort |
+
+15 décembre 2017
+
+|
+
+14 décembre 2022 |
+
 CFPPA du Gers, 32300 MIRANDE |
 
 Opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
@@ -230,7 +240,13 @@ Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans �
 
 31 juillet 2019 |
 
-RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539,85500 LES HERBIERS |
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière,
+
+BP 539
+
+85500 LES HERBIERS
+
+|
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -255,6 +271,20 @@ RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-comp
 // |
 
 // |
+
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière,
+
+BP 539
+
+85500 LES HERBIERS
+
+|
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+28 octobre 2014 |
+
+27 septembre 2019 |
 
 RG Consulting France, La Martinais, 22130 CORSEUL |
 
@@ -313,12 +343,6 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 19 octobre 2020 |
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
-
-Opérateur, porcins-manipulation et soins-mise à mort |
 
 // |
 
