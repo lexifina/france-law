@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700033
+
+- Question : [SEQ170700033](seq170700033.md) — Double affiliation des travailleurs frontaliers en matière d'assurance maladie
+
+## Réponse
+
+*Solidarités et santé, JO du 2017-12-28, page 4696*
+
+La situation de frontaliers suisses, momentanément affiliés à la fois à l'assurance maladie française et à l'assurance maladie suisse, résulte d'une démarche volontaire de ces travailleurs qui, alors qu'ils avaient opté en premier lieu pour l'assurance maladie française par le biais de la souscription à un contrat d'assurance privée puis rejoint le régime français de sécurité sociale à la fin de la période transitoire le 31 mai 2014, se sont en plus affiliés à l'assurance maladie suisse. Toutefois, conscientes de la nécessité d'apporter une solution à ces assurés et leur famille, les autorités françaises et suisses ont conclu un accord en date du 7 juillet 2016. Aux termes de cet accord, seuls les frontaliers n'ayant pas demandé « expressément et formellement » leur exemption de l'assurance maladie suisse ont pu, à titre dérogatoire en dehors de la période de trois mois après leur prise de poste en Suisse, rouvrir leur droit d'option pendant un délai d'un an, du 1er octobre 2016 au 30 septembre 2017. Depuis le 1er octobre 2016, les demandes de radiation de l'assurance maladie française ont été traitées par les caisses primaires d'assurance maladie et les URSSAF compétentes. L'accord franco-suisse étant entré en vigueur au 1er octobre 2016, les radiations ne pouvaient prendre effet avant cette date. Malgré les termes de l'accord, des frontaliers souhaitant que leur radiation soit effective à une date antérieure ont saisi les tribunaux des affaires de sécurité sociale. Des recours sont pendants auprès de diverses instances et notamment la Cour de cassation, dont la décision apportera un éclairage sur ce point de divergence avec ces frontaliers.
