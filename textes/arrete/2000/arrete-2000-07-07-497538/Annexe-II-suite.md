@@ -820,7 +820,9 @@ SA Vaugrenier Industrie (SAVI)/Société nouvelle d'Exploitation de la SAVI (SNE
 
 SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, avenue de Draguignan, ZI Toulon-Est, 83079 Toulon Cedex : de 1970 à 1984.
 
-SA Compagnie Marseille Réparation-CMR puis Union Naval Marseille SAS (UNM) porte 4, terrain de Mourepiane, 13016 Marseille, de 1954 à 2008.
+SA Compagnie Marseille Réparation-CMR (SIRET : 442 531 281 00016), puis Union Naval Marseille SAS (UNM) (SIRET : 490 355 005 00029), Terrain de Mourepiane, Porte 4, 13016 MARSEILLE
+
+puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 à 2018.
 
 SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
