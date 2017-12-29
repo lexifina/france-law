@@ -2,297 +2,175 @@
 
 I. - Corps de commandement de la police nationale
 
-CATÉGORIES D'EMPLOIS
-
-|
+CATÉGORIES D'EMPLOIS |
 
 RAPPEL
 
-nombre d'emplois 2015
-
-|
+nombre d'emplois 2015 |
 
 NOMBRE
 
-d'emplois 2016
-
-|
+d'emplois 2016 |
 
 NOMBRE
 
-de points par emploi
-
-|
+de points par emploi |
 
 TOTAL
 
-des points 2016
+des points 2016 |
+
+Chef de circonscription de sécurité publique |
+
+98 |
+
+98 |
+
+40 |
+
+3 920 |
+
+Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans les directions départementales |
+
+124 |
+
+124 |
+
+40 |
+
+4 960 |
+
+Chef d'unité opérationnelle ou adjoint au chef de service à la circonscription |
+
+153 |
+
+153 |
+
+40 |
+
+6 120 |
+
+Chef d'unité ou de groupe technique ou opérationnel |
+
+921 |
+
+921 |
+
+40 |
+
+36 840 |
+
+Chef de délégation des compagnies républicaines de sécurité |
+
+5 |
+
+5 |
+
+40 |
+
+200 |
+
+Adjoint au chef de délégation des compagnies républicaines de sécurité |
+
+3 |
+
+3 |
+
+40 |
+
+120 |
+
+Chef de groupe de liaison et documentation |
+
+11 |
+
+11 |
+
+40 |
+
+440 |
+
+TOTAL |
+
+1 315 |
+
+1 315 |
 
 |
 
-Chef de circonscription de sécurité publique
-
-|
-
-98
-
-|
-
-98
-
-|
-
-40
-
-|
-
-3 920
-
-|
-
-Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans les directions départementales
-
-|
-
-124
-
-|
-
-124
-
-|
-
-40
-
-|
-
-4 960
-
-|
-
-Chef d'unité opérationnelle ou adjoint au chef de service à la circonscription
-
-|
-
-153
-
-|
-
-153
-
-|
-
-40
-
-|
-
-6 120
-
-|
-
-Chef d'unité ou de groupe technique ou opérationnel
-
-|
-
-921
-
-|
-
-921
-
-|
-
-40
-
-|
-
-36 840
-
-|
-
-Chef de délégation des compagnies républicaines de sécurité
-
-|
-
-5
-
-|
-
-5
-
-|
-
-40
-
-|
-
-200
-
-|
-
-Adjoint au chef de délégation des compagnies républicaines de sécurité
-
-|
-
-3
-
-|
-
-3
-
-|
-
-40
-
-|
-
-120
-
-|
-
-Chef de groupe de liaison et documentation
-
-|
-
-11
-
-|
-
-11
-
-|
-
-40
-
-|
-
-440
-
-|
-
-TOTAL
-
-|
-
-1 315
-
-|
-
-1 315
-
-|
-
-|
-
-52 600
-
-|
+52 600 |
 
 II. - Corps d'encadrement et d'application de la police nationale
 
-POSTES À RESPONSABILITÉ
+POSTES A RESPONSABILITE DEVOLUS
 
-dévolus à un major
+A UN MAJOR A L'ECHELON EXCEPTIONNEL |
 
-à l'échelon exceptionnel
+Rappel nombre
 
-|
+d'emplois 2017 |
 
-RAPPEL
+Nombre d'emplois 2018 |
 
-nombre d'emplois 2016
+Nombre de points
 
-|
+par emploi |
 
-NOMBRE
+Total des points
 
-d'emplois 2017
+2018 |
 
-|
+Major à l'échelon exceptionnel |
 
-NOMBRE
+2 090 |
 
-de points par emploi
+2 180 |
 
-|
+10 |
 
-TOTAL
+21 800 |
 
-des points 2017
+TOTAL |
 
-|
+2 090 |
 
-Major à l'échelon exceptionnel
-
-|
-
-2 000
+2 180 |
 
 |
 
-2 090
-
-|
-
-10
-
-|
-
-20 900
-
-|
-
-TOTAL
-
-|
-
-2 000
-
-|
-
-2 090
-
-|
-
-|
-
-20 900
-
-|
+21 800 |
 
 III. - Emplois fonctionnels
 
-CATÉGORIES D'EMPLOIS
+CATEGORIES D'EMPLOIS
 
 |
 
-RAPPEL
+Rappel nombre
 
-nombre d'emplois 2016
+d'emplois 2017 |
 
-|
+Nombre d'emplois 2018 |
 
-NOMBRE D'EMPLOIS 2017
+Nombre de points
 
-|
+par emploi |
 
-NOMBRE
+Total des points
 
-de points par emploi
+2017 |
 
-|
+Responsable d'unité locale de police |
+
+1 053 |
+
+1 106 |
+
+20 |
+
+22 120 |
 
 TOTAL
-
-des points 2017
-
-|
-
-Responsable d'unité locale de police
-
-|
-
-920
 
 |
 
@@ -300,28 +178,8 @@ Responsable d'unité locale de police
 
 |
 
-20
+1 106 |
 
 |
 
-21 060
-
-|
-
-TOTAL
-
-|
-
-920
-
-|
-
-1 053
-
-|
-
-|
-
-21 060
-
-|
+22 120 |
