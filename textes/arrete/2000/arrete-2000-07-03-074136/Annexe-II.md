@@ -340,7 +340,9 @@ Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
 Languedoc-Roussillon
 
-Alsthom groupe mécanique de Provence (GMP), puis Alsthom Atlantique, puis Alsthom, puis GEC Alsthom, puis GEC Alsthom électromécanique, puis GEC Alsthom électromécanique turbine à vapeur, Usine de Saint-Florent, BP 1,30780 Saint-Florent-sur-Auzonnet : de 1975 à 1998 ;
+Alsthom groupe mécanique de Provence (GMP), puis Alsthom Atlantique, puis Alsthom, puis GEC Alsthom, puis GEC Alsthom électromécanique, puis GEC Alsthom électromécanique turbine à vapeur, Usine de Saint-Florent, BP 1, 30780 Saint-Florent-sur-Auzonnet : de 1975 à 1998 ;
+
+ATS FRANCE SA, Avenue Monge, 30100 Alès, 1986 à 1998, puis ATS STELLITE, 1999 à 2000 ;
 
 SAFT (Société des ateliers et fonderies de Tamaris) puis AHL (Aciéries du haut-Languedoc) puis AFT (Aciéries et fonderies de Tamaris), 212, rue de Pressensé, 30319 Alès : De 1949 à 1996 ;
 
