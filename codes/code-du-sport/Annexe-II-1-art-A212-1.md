@@ -1376,6 +1376,22 @@ Encadrement et animation du stand up paddle. A l'exclusion des activités dériv
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "basket-ball".
+
+|
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "volley-ball et disciplines associées".
+
+|
+
+Encadrement, initiation et conduite de cycles d'apprentissage en volley-ball et disciplines associées, jusqu'au premier niveau de compétition fédérale. |
+
+|
+
 C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
 
 supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
@@ -2573,6 +2589,22 @@ Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas auto
 CQP "moniteur en sport adapté". |
 
 Encadrement en autonomie des activités en sport adapté aux personnes en situation de handicap mental ou psychique, de l'initiation jusqu'au premier niveau de compétition fédéral. |
+
+|
+
+CQP "accompagnateur en téléski nautique".
+
+|
+
+Encadrement en autonomie des activités de téléski nautique sur tout support de glisse. |
+
+|
+
+CQP "technicien sportif de rugby à XIII".
+
+|
+
+Enseignement et animation des activités du rugby à XIII. Encadrement, animation et conduite de cycles d'apprentissage du rugby à XIII. |
 
 |
 
