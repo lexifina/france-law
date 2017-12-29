@@ -10,7 +10,7 @@ Le tableau ci-après précise les compétences de chacune des sociétés de clas
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
 
-D : Délivrance d'un certificat d'exemption sur avis conforme du ministre chargé de la mer.
+D : Délivrance d'un certificat d'exemption sur avis conforme du chef du centre de sécurité des navires compétent.
 
 |
 
@@ -604,11 +604,25 @@ H |
 
 H |
 
+23 |
+
+Visite relative à la navigation polaire/ Certificat pour navire polaire |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires :
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
 
-D : Délivrance d'un certificat d'exemption sur avis conforme du ministre chargé de la mer ou du directeur interrégional de la mer.
+D : Délivrance d'un certificat d'exemption sur avis conforme du chef du centre de sécurité des navires compétent.
 
 |
 

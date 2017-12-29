@@ -4,325 +4,229 @@ SAC MÉDICAL D'URGENCE
 
 SAC MÉDICAL D'URGENCE : médicaments
 
-Principe Actif
+Principe Actif Dénomination Commune Internationale (DCI)
 
-Dénomination Commune Internationale (DCI)
+(*) Groupe Générique |
 
-(*) Groupe Générique
+Voie d'Administration |
 
-|
-
-Voie
-
-d'Administration
-
-|
-
-Forme
-
-Composition
-
-|
-
-Quantité
-
-|
-
-Liste
-
-|
-
-l) Cardiologie
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Atropine
+Forme Composition |
 
-|
-
-parentérale
-
-|
-
-ampoule 0,5 mg/1 ml
-
-|
-
-2
-
-|
-
-I
-
-|
-
-Epinéphrine
+Quantité |
 
-|
-
-parentérale
-
-|
-
-ampoule 1 mg/1 ml
-
-|
+Liste |
 
-2
+l) Cardiologie |
 
 |
 
-I
-
-|
-
-Epinéphrine
-
 |
-
-parentérale
 
 |
 
-ampoule 5 mg/5 ml
-
 |
-
-5
 
-|
+Atropine |
 
-I
+parentérale |
 
-|
+ampoule 0,5 mg/1 ml |
 
-Furosémide
+2 |
 
-|
+I |
 
-parentérale
+Epinéphrine |
 
-|
+parentérale |
 
-ampoule 20 mg/2 ml
+ampoule 1 mg/1 ml |
 
-|
+2 |
 
-4
+I |
 
-|
+Epinéphrine |
 
-II
+parentérale |
 
-|
+ampoule 5 mg/5 ml |
 
-Trinitrine
+5 |
 
-|
+I |
 
-buccale
+Furosémide |
 
-|
+parentérale |
 
-flacon pulvérisation 0,15 mg/dose
+ampoule 20 mg/2 ml |
 
-|
+4 |
 
-1
+II |
 
-|
+Trinitrine |
 
-II
+buccale |
 
-|
+flacon pulvérisation 0,15 mg/ dose |
 
-Lidocaïne
+1 |
 
-|
+II |
 
-parentérale
+Digoxine |
 
-|
+parentérale |
 
-seringue pré-remplie 100 mg / 5 ml
+ampoule 0,5 mg/2 ml |
 
-|
+2 |
 
-2
+I |
 
-|
+Amiodarone |
 
-II
+parentérale |
 
-|
+ampoule 150 mg/3 ml |
 
-Digoxine
+2 |
 
-|
+I |
 
-parentérale
+Adénosine triphosphate |
 
-|
+parentérale |
 
-ampoule 0,5 mg/2 ml
+ampoule 20 mg/2 ml |
 
-|
+2 |
 
-2
+I |
 
-|
+Magnésium Sulfate |
 
-I
+parentérale |
 
-|
+ampoule 1,5 g/10 ml |
 
-Amiodarone
+2 |
 
 |
 
-parentérale
+Atenolol |
 
-|
+parentérale |
 
-ampoule 150 mg/3 ml
+ampoule 5 mg/10 ml |
 
-|
+1 |
 
-2
+I |
 
-|
+Urapidil |
 
-I
+parentérale |
 
-|
+ampoule 25 mg/5 ml |
 
-Adénosine triphosphate
+2 |
 
-|
+I |
 
-parentérale
+Héparine |
 
-|
+parentérale |
 
-ampoule 20 mg/2 ml
+flacon 25 000 UI/5 ml |
 
-|
+1 |
 
-2
+I |
 
-|
+Acide acétylsalicylique |
 
-I
+parentérale |
 
-|
+ampoule 500 mg |
 
-Magnésium Sulfate
+1 |
 
 |
 
-parentérale
+2) Gastro-Entérologie |
 
 |
-
-ampoule 1,5 g/10 ml
 
 |
 
-2
-
 |
 
 |
-
-Atenolol
 
-|
+Ondansetron |
 
-parentérale
+parentérale |
 
-|
+ampoule 4 mg/2 ml |
 
-ampoule 5 mg/10 ml
+4 |
 
-|
+I |
 
-1
+3) Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
 
 |
 
-I
-
 |
-
-Urapidil
 
 |
 
-parentérale
-
 |
-
-ampoule 25 mg/5 ml
 
-|
+Kétoprofène (*) |
 
-2
+parentérale |
 
-|
+ampoule 100 mg IV ou IM |
 
-I
+1 |
 
-|
+II |
 
-Héparine
+Paracétamol |
 
-|
+parentérale |
 
-parentérale
+flacon 1 g/100 ml |
 
-|
+1 |
 
-flacon 25 000 UI/5 ml
+II |
 
 |
 
-1
-
 |
-
-I
 
 |
 
-Acide acétylsalicylique
-
 |
 
-parentérale
-
 |
-
-ampoule 500 mg
 
-|
+Morphine chlorhydrate |
 
-1
+parentérale |
 
-|
+ampoule 10 mg/1 ml |
 
-|
+2 |
 
-2) Gastro-Entérologie
+Stupéfiant |
 
-|
+4) Psychiatrie-Neurologie |
 
 |
 
@@ -332,853 +236,395 @@ ampoule 500 mg
 
 |
 
-Métoclopramide |
+Diazépam |
 
 parentérale |
 
 ampoule 10 mg/2 ml |
 
-1
+2 |
 
-|
-
-II
-
-|
-
-3) Antalgiques - Antipyrétiques -
-
-Antispasmodiques - Anti-inflammatoires
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Kétoprofène (*)
-
-|
-
-parentérale
-
-|
-
-ampoule 100 mg IV ou IM
-
-|
-
-1
-
-|
-
-II
-
-|
-
-Paracétamol
-
-|
-
-parentérale
-
-|
-
-flacon 1 g/100 ml
-
-|
-
-1
-
-|
-
-II
-
-|
-
-Tramadol (opioïde)
-
-|
-
-parentérale
-
-|
-
-ampoule 100 mg/2 ml
-
-|
-
-1
-
-|
-
-I
-
-|
-
-Morphine chlorhydrate
-
-|
-
-parentérale
-
-|
-
-ampoule 10 mg/ml
-
-|
-
-2
-
-|
-
-Stupéfiant
-
-|
-
-4) Psychiatrie - Neurologie
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Diazépam
-
-|
-
-parentérale
-
-|
-
-ampoule 10 mg/2 ml
-
-|
-
-2
-
-|
-
-I
-
-|
-
-Cyamémazine
-
-|
-
-parentérale
-
-|
-
-ampoule 50 mg/5 ml
-
-|
-
-2
-
-|
-
-I
-
-|
-
-Naloxone
+I |
 
-|
-
-parentérale
-
-|
-
-ampoule 0,4 mg/ml
-
-|
-
-5
-
-|
-
-I
-
-|
-
-5) Allergologie
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Méthyl prednisolone
-
-|
-
-parentérale
-
-|
-
-ampoule 120 mg
-
-|
-
-1
-
-|
-
-I
-
-|
-
-Hydroxyzine
-
-|
-
-parentérale
-
-|
-
-ampoule 100 mg/2 ml
-
-|
-
-1
-
-|
-
-I
-
-|
-
-6) Pneumologie
-
-|
-
-|
+Loxapine |
 
-|
-
-|
-
-|
-
-Salbutamol
-
-|
-
-inhalation
-
-|
-
-flacon pressurisé 100 mcg/bouffée - 200 doses
-
-|
-
-1
+parentérale |
 
-|
+ampoule 50 mg/2 ml |
 
-I
-
-|
+2 |
 
-Salbutamol
+I |
 
-|
+Naloxone |
 
-parentérale
+parentérale |
 
-|
+ampoule 0,4 mg/ ml |
 
-ampoule 0,5 mg/1 ml
+5 |
 
-|
+I |
 
-2
+5) Allergologie |
 
 |
-
-I
 
 |
 
-Salbutamol
-
 |
-
-nébulisation
 
 |
 
-unidose 5mg/2ml
+Méthyl prednisolone |
 
-|
+parentérale |
 
-2
+ampoule 120 mg |
 
-|
+1 |
 
-I
+I |
 
-|
+Hydroxyzine |
 
-Béclométasone
+parentérale |
 
-|
+ampoule 100 mg/2 ml |
 
-inhalation
+1 |
 
-|
+I |
 
-flacon pressurisé 250 mg/dose
+6) Pneumologie |
 
 |
-
-1
 
 |
 
-I
-
 |
 
-7) Réanimation
-
 |
 
-|
+Salbutamol |
 
-|
+inhalation |
 
-|
+flacon pressurisé 100 mcg/ bouffée-200 doses |
 
-|
+1 |
 
-Oxygène médical
+I |
 
-|
+Salbutamol |
 
-inhalation
+parentérale |
 
-|
+ampoule 0,5 mg/1 ml |
 
-bouteille 200 bars (2 l), munie d'un robinet avec manodétenteur-débitmètre
+2 |
 
-de 0 à 15 l./min et prises normalisées
+I |
 
-|
+Salbutamol |
 
-1
+nébulisation |
 
-|
+unidose 5mg/ 2ml |
 
-|
+2 |
 
-Chlorure de sodium
+I |
 
-|
+Béclométasone |
 
-parentérale
+inhalation |
 
-|
+flacon pressurisé 250 mg/ dose |
 
-solution pour perfusion 0,9 % 250 ml
+1 |
 
-|
+I |
 
-2
+7) Réanimation |
 
 |
 
 |
-
-Glucose
 
 |
 
-parentérale
-
 |
 
-solution pour perfusion 5 % 250 ml
+Oxygène médical |
 
-|
+inhalation |
 
-2
+bouteille 200 bars (2 l), munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 l./ min et prises normalisées |
 
-|
+1 |
 
 |
 
-Hydroxyéthylamidon
+Chlorure de sodium |
 
-|
-
-parentérale
+parentérale |
 
-|
+solution pour perfusion 0,9 % 250 ml |
 
-solution pour perfusion, poche 500 ml
+2 |
 
 |
 
-3
+Glucose |
 
-|
+parentérale |
 
-|
+solution pour perfusion 5 % 250 ml |
 
-Glucose hypertonique
+2 |
 
 |
-
-parentérale
 
-|
+Hydroxyéthylamidon |
 
-ampoule 30 % - 10 ml
+parentérale |
 
-|
+solution pour perfusion, poche 500ml |
 
-5
+3 |
 
 |
 
-|
+Glucose hypertonique |
 
-Eau pour préparation injectable
+parentérale |
 
-|
+ampoule 30 %-10 ml |
 
-parentérale
+5 |
 
 |
 
-ampoule 20 ml
+Eau pour préparation injectable |
 
-|
+parentérale |
 
-2
+ampoule 20 ml |
 
-|
+2 |
 
 |
 
 SAC MÉDICAL D'URGENCE : Matériel
 
-Article
+Article |
 
-|
-
-Présentation
-
-|
-
-Quantité
-
-|
-
-Remarques
-
-|
-
-l) Matériel de réanimation
-
-|
-
-|
-
-|
-
-|
-
-Insufflateur manuel avec masque facial (taille 4 & 5) et réservoir à oxygène
-
-|
-
-unité
-
-|
-
-1+
-
-|
-
-Type Ambu (1)
-
-|
-
-Canules de "Guedel" (taille 3 et 4)
-
-|
-
-unité
-
-|
-
-1++
-
-|
-
-|
-
-Pompe d'aspiration manuelle pour désobstruction des voies aériennes supérieures
-
-|
-
-unité
-
-|
-
-110
-
-|
-
-Type Ambu (1) Twin Pump
-
-|
-
-Canule d'aspiration Yankauer
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-|
-
-Sonde d'aspiration
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-Calibre 14 FG
-
-|
-
-Masque à oxygène adulte (à haute & moyenne concentration) avec tubulure
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-Usage unique
-
-|
-
-Nébuliseur avec masque aérosol et tubulure
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-Usage unique
-
-|
-
-Laryngoscope avec lames Mc. Intosh
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-Petite, moyenne, grande
-
-|
-
-Sonde endotrachéale
-
-|
-
-unité
+Présentation |
 
-|
-
-1
-
-|
-
-Taille : 5, 6, 7, 8
-
-|
-
-Pinces de Magill
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-|
+Quantité |
 
-Mandrin flexible pour sonde endotrachéale
+Remarques |
 
-|
+l) Matériel de réanimation |
 
-unité
-
 |
-
-1
 
 |
 
 |
 
-2) Instruments
+Insufflateur manuel avec masque facial (taille 4 & 5) et réservoir à oxygène |
 
-|
-
-|
+unité |
 
-|
+1 (27) |
 
-|
+Type Ambu ® |
 
-Ciseaux fort de lingère
+Canules de "Guedel" (taille 3 et 4) |
 
-|
+unité |
 
-unité
+1 (27) |
 
 |
 
-1
+Pompe d'aspiration manuelle pour désobstruction des voies aériennes supérieures |
 
-|
-
-|
+unité |
 
-Ciseaux droit à pansement
+1 (27) |
 
-|
+Type Ambu ® Twin Pump |
 
-Set stérile
+Canule d'aspiration "Yankauer" |
 
-|
+unité |
 
-1
+2 |
 
 |
-
-Usage unique
 
-|
+Sonde d'aspiration |
 
-Clamp ombilical
+unité |
 
-|
+2 |
 
-unité
+Calibre 14 FG |
 
-|
+Masque à oxygène adulte (à haute & moyenne concentration) avec tubulure |
 
-1
+unité |
 
-|
+2 |
 
-Usage unique
+Usage unique |
 
-|
+Nébuliseur avec masque aérosol et tubulure |
 
-Gants de chirurgie poudrés, stériles
+unité |
 
-|
+2 |
 
-paire
+Usage unique |
 
-|
+Laryngoscope avec lames Mc. Intosh |
 
-2
+unité |
 
-|
+1 |
 
-Taille 7,5 et 8,5
+Petite, moyenne, grande |
 
-|
+Sonde endotrachéale |
 
-Set de drainage thoracique avec valve double
+unité |
 
-aspirante/foulante
+1 |
 
-|
+Taille : 5,6,7,8 |
 
-Set stérile
+Pinces de Magill |
 
-|
+unité |
 
-1
+1 |
 
 |
 
-Recommandé
+Mandrin flexible pour sonde endotrachéale |
 
-|
+unité |
 
-3) Matériel d'examen et de surveillance médicale
+1 |
 
 |
 
-|
+2) Instruments |
 
 |
 
 |
 
-Lampe stylo
-
 |
 
-unité
+Ciseaux universels |
 
-|
+unité |
 
-1
+1 |
 
-|
+Type Jesko ® |
 
-|
+Ciseaux droit à pansement |
 
-Bandelettes réactives pour glycémie capillaire (AVEC LECTEUR)
+Set stérile |
 
-|
+1 |
 
-boîte
+Usage unique |
 
-|
+Clamp ombilical |
 
-1
+unité |
 
-|
+1 |
 
-Avec lancettes capillaires sécurité
+Usage unique |
 
-|
+Gants de chirurgie poudrés, stériles |
 
-Stéthoscope
+paire |
 
-|
+2 |
 
-unité
+Taille 7,5 et 8,5 |
 
-|
+Set de drainage thoracique avec valve double aspirante/ foulante |
 
-1
+Set stérile |
 
-|
+1 |
 
-|
+Recommandé |
 
-Tensiomètre
+3) Matériel d'examen et de surveillance médicale |
 
 |
 
-unité
-
 |
-
-1
 
 |
 
-Manuel ou automatique (type OMRON (1) ) à brassard huméral
+Lampe stylo |
 
-|
+unité |
 
-Gants d'examen, non stériles
+1 |
 
 |
 
-paire
+Bandelettes réactives pour glycémie capillaire (AVEC LECTEUR) |
 
-|
+boîte |
 
-2
+1 |
 
-|
+Avec lancettes capillaires sécurité |
 
-Taille M et L
+Stéthoscope |
 
-|
+unité |
 
-Fiche d'observation médicale
+1 |
 
 |
 
-unité
-
-|
+Tensiomètre |
 
-2
+unité |
 
-|
+1 |
 
-Pour téléconsultation médicale
+Automatique à brassard huméral |
 
-|
+Gants d'examen, non stériles |
 
-Fiche médicale pour évacuation
+paire |
 
-|
+2 |
 
-unité
+Taille M et L |
 
-|
+Fiche d'observation médicale |
 
-2
+unité |
 
-|
+2 |
 
-|
+Pour téléconsultation médicale |
 
 4) Matériel d'injection et de perfusion
 
@@ -1194,33 +640,21 @@ Compresses de gaze stériles
 
 |
 
-paquet de 5
+paquet de 5 |
 
-|
+2 |
 
-2
-
-|
-
-Taille moyenne
-
-|
+Taille moyenne |
 
 Chlorhexidine - Benzalkonium. Chl. - Alco. Benzylique
 
 |
 
-locale
+locale |
 
-|
+1 |
 
-1
-
-|
-
-Flacon 40 ml
-
-|
+Flacon 40 ml |
 
 1+ = Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.
 
@@ -1645,3 +1079,5 @@ comprenant :
 (1) = En l'absence d'autre appareil électrocardiogramme/scope avec fonction de télétransmission.
 
 (2) = Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.
+
+(27) Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.

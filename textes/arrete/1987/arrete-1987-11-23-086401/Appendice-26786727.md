@@ -1,4 +1,4 @@
-# Article Appendice
+# Article Annexe II
 
 MODÈLE DE REGISTRE DES ORDURES
 
@@ -24,25 +24,33 @@ Il faudrait également se reporter aux directives pour la mise en œuvre de l'an
 
 3. Description des ordures.
 
-Aux fins de la tenue du registre des ordures (ou du livre de bord réglementaire du navire), les ordures doivent être regroupées dans les catégories suivantes :
+Aux fins de leur enregistrement dans les parties I et II du registre des ordures (ou du livre de bord réglementaire du navire), les ordures doivent être regroupées dans les catégories suivantes :
 
-A : matières plastiques.
+Partie I
 
-B : déchets alimentaires.
+A.-Matières plastiques
 
-C : déchets domestiques.
+B.-Déchets alimentaires
 
-D : huiles à friture.
+C.-Déchets domestiques
 
-E : cendres d'incinération.
+D.-Huile à friture
 
-F : déchets d'exploitation.
+E.-Cendres d'incinération
 
-G : résidus de cargaison.
+F.-Déchets d'exploitation
 
-H : carcasse(s) d'animal(aux).
+G.-Carcasse (s) d'animal (aux)
 
-I : apparaux de pêche (2).
+H.-Apparaux de pêche
+
+I.-E-déchets
+
+Partie II
+
+J.-Résidus de cargaison (non nuisibles pour le milieu marin)
+
+K.-Résidus de cargaison (nuisibles pour le milieu marin) .
 
 4. Mentions portées dans le registre des ordures.
 
@@ -108,79 +116,77 @@ La quantité d'ordures à bord devrait être estimée en mètres cubes et si pos
 
 FICHE DES REJETS D'ORDURES
 
-Nom du navire :
+PARTIE I Pour toutes les ordures autres que les résidus de cargaison tels que définis à la règle 1.2 (Définitions)
 
-Numéro ou lettres distinctifs :
+(Tous les navires)
 
-Numéro OMI :
+Nom du navire |
 
-Catégories d'ordures :
+Numéro ou lettres distinctifs |
 
-A : matières plastiques.
+Numéro OMI |
 
-B : déchets alimentaires.
+Catégories d'ordures
 
-C : déchets domestiques (papier, chiffons, verre, objets métalliques, bouteilles, vaisselle, etc.).
+A.-Matières plastiques |
 
-D : huiles à friture.
+B.-Déchets alimentaires |
 
-E : cendres d'incinération.
+C.-Déchets domestiques |
 
-F : déchets d'exploitation.
+D.-Huiles à friture |
 
-G : résidus de cargaison.
+E.-Cendres d'incinération |
 
-H : carcasse(s) d'animal(aux).
+F.-Déchets d'exploitation |
 
-I : apparaux de pêche.
+G.-Carcasse (s) d'animal (aux) |
 
-DATE/HEURE |
+H.-Apparaux de pêche |
 
-POSITION
+I.-E-déchets |
 
-du navire/remarques
+Rejets prévus aux termes des règles 4 (Evacuation des ordures hors des zones spéciales), 5 (Prescriptions spéciales pour l'évacuation des ordures provenant des plates-formes fixes ou flottantes) et 6 (Evacuation des ordures dans les zones spéciales) de l'annexe V de MARPOL ou du chapitre 5 de la partie II-A du Recueil sur la navigation polaire
 
-(perte accidentelle,
+Date/
 
-par exemple)
+Heure |
 
-|
+Position du navire (latitude/ longitude)
 
-CATÉGORIE
+ou
 
-|
+port en cas d'évacuation à terre
 
-QUANTITÉ
+ou
 
-estimative évacuée
+nom du navire en cas de transfert à bord d'un autre navire |
 
-ou incinérée
+Catégorie |
 
-|
+Quantité estimative
 
-DANS LA MER
+Evacuée |
 
-|
+Quantité estimative incinérée (m3) |
 
-DANS
+Remarques (par exemple, début et fin de l'opération, position de l'incinération, observations générales) |
 
-une installation
+Attestation/
 
-de réception
+Signature |
 
-|
+Dans la mer (m3) |
 
-INCINÉRATION
+Dans une installation de réception
 
-|
+ou
 
-ATTESTATION/
+transférée à bord d'un autre navire (m3) |
 
-signature
+/
 
-|
-
-|
+: |
 
 |
 
@@ -196,7 +202,9 @@ signature
 
 |
 
-|
+/
+
+: |
 
 |
 
@@ -212,7 +220,9 @@ signature
 
 |
 
-|
+/
+
+: |
 
 |
 
@@ -228,7 +238,9 @@ signature
 
 |
 
-|
+/
+
+: |
 
 |
 
@@ -244,7 +256,109 @@ signature
 
 |
 
+Rejet exceptionnel ou perte d'ordures aux termes de la règle 7 (Exceptions)
+
+Date/
+
+Heure |
+
+Port ou position du navire (latitude/ longitude et profondeur d'eau si elle est connue) |
+
+Catégorie |
+
+Quantité estimative perdue ou évacuée (m3) |
+
+Remarques sur le motif du rejet ou de la perte et remarques générales (par exemple, précautions raisonnables prises pour empêcher ou réduire au minimum ce rejet ou cette perte accidentelle et remarques générales) |
+
+Attestation/
+
+Signature |
+
+/
+
+: |
+
 |
+
+|
+
+|
+
+|
+
+|
+
+/
+
+: |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Signature du capitaine : Date :
+
+PARTIE II Pour tous les résidus de cargaison tels que définis à la règle 1.2 (Définitions)
+
+(Navires qui transportent des cargaisons solides en vrac)
+
+Nom du navire |
+
+Numéro ou lettres distinctifs |
+
+Numéro OMI |
+
+Catégories d'ordures
+
+J.-Résidus de cargaison (non nuisibles pour le milieu marin) |
+
+K.-Résidus de cargaison (nuisibles pour le milieu marin) |
+
+Rejets prévus aux termes des règles 4 (Evacuation des ordures hors des zones spéciales) et 6 (Evacuation des ordures dans les zones spéciales)
+
+Date/
+
+Heure |
+
+Position du navire (latitude/ longitude)
+
+ou
+
+port en cas d'évacuation à terre |
+
+Catégorie |
+
+Quantité estimative
+
+évacuée |
+
+Position du navire
+
+au début et à la fin d rejet dans
+
+la mer |
+
+Attestation/
+
+Signature |
+
+Dans la mer (m3) |
+
+Dans une installation de réception
+
+ou
+
+transférée à bord d'un autre navire (m3) |
+
+/
+
+: |
 
 |
 
@@ -258,6 +372,52 @@ signature
 
 |
 
+/
+
+: |
+
 |
 
-Signature du capitaine : .................................................. Date :
+|
+
+|
+
+|
+
+|
+
+|
+
+/
+
+: |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+/
+
+: |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Signature du capitaine : Date :

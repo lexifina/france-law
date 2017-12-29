@@ -256,6 +256,12 @@ CSN |
 
 CSN (1) |
 
+Plan de gestion des eaux de ballast (BWMC) |
+
+CCS/ CRS |
+
+CSN |
+
 (1) Visa non requis par la réglementation internationale.
 
 (2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service.
@@ -330,7 +336,7 @@ Certificats d'exemption initiaux
 
 |
 
-CCS
+CSN
 
 |
 

@@ -1,393 +1,263 @@
 # Article Complément passagers 4
 
-Médicaments
+COMPLÉMENT PASSAGERS 4 : Médicaments
 
-Principe Actif
+Dénomination commune internationale |
 
-Dénomination Commune Internationale (DCI)
+Voie d'administration |
 
-|
-
-Voie
-
-d'Administration
-
-|
-
-Forme
-
-Composition
-
-|
-
-Quantité
-
-|
-
-Liste
-
-|
-
-Terbutaline ou salbutamol (*)
-
-|
-
-Nébulisation
-
-|
-
-Unidose 5mg/2ml
-
-|
-
-20
-
-|
-
-|
-
-Méthyl prednisolone (*)
-
-|
-
-Parentérale
-
-|
-
-80mg/2ml seringue préremplie
-
-|
-
-1
-
-|
-
-I
-
-|
-
-COMPLEMENT PASSAGERS 4 : Matériel médical et objets de pansement
-
-Article
-
-|
-
-Présentation
-
-|
-
-Quantité
-
-|
-
-Remarques
-
-|
-
-l) Matériel de réanimation
-
-|
-
-|
-
-|
-
-|
-
-Insufflateur manuel avec masque facial (taille 4 & 5) et réservoir à oxygène (*)
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-Type Ambu (1)
-
-|
-
-Canules de "Guedel"
-
-|
-
-unité
+Forme composition |
 
-|
-
-1
-
-|
-
-Taille 3 & 4
-
-|
-
-Pompe d'aspiration manuelle pour désobstruction des voies aériennes supérieures
-
-|
+Quantité |
 
-unité
+Liste |
 
-|
-
-1
-
-|
-
-Type Ambu Twin Pump (1)
+1. Allergologie |
 
-|
-
-Masque à oxygène adulte avec tubulure (à haute & moyenne concentration) (*)
+Epinéphrine (25) |
 
-|
+parentérale |
 
-unité
+seringue préremplie-0,3 mg/0,3 ml |
 
-|
+2 |
 
-2
+I |
 
-|
+Prednisolone |
 
-Usage unique
+sublinguale |
 
-|
+lyophilisat oral 20 mg |
 
-Nébuliseur avec masque aérosol et tubulure (*)
+20 |
 
-|
+I |
 
-unité
+2. Pneumologie |
 
-|
+TerbutalineErreur : source de la référence non trouvée |
 
-2
+nébulisation |
 
-|
+solution inhalation 5 mg/2 ml unidose |
 
-Usage unique
+20 |
 
-|
+I |
 
-2) Oxygène médical (*)
+Ipratropium bromureErreur : source de la référence non trouvée |
 
-|
+nébulisation |
 
-|
+solution inhalation 0,5 mg/2 ml unidose |
 
-|
+20 |
 
-|
+I |
 
-Oxygène médical
+(25) Les navires effectuant des dessertes régulières de très courte durée, inférieure à une demi-heure, ne sont pas astreints à l'emport de ces articles.
 
-|
+COMPLÉMENT PASSAGERS 4 : Matériel médical et objets de pansement
 
-unité
+Article |
 
-|
+Présentation |
 
-1
+Quantité |
 
-|
+Remarques |
 
-Bouteille 200 bars (2 l), munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 l/min et prises normalisées
+1. Matériel de réanimation |
 
-|
+Canule oro-pharyngée taille 1 et 2 (pédiatrie) |
 
-3) Matériel d'examen et de surveillance médicale (*)
+unité |
 
-|
+1 |
 
-|
+Type Guedel ® |
 
-|
+Oxygène médical |
 
-|
+bouteille de 2 l 200 bars |
 
-Bandelettes réactives pour glycémie capillaire (AVEC LECTEUR)
+1 |
 
-|
+bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min et prises normalisées |
 
-boîte
+Insufflateur manuel avec réservoir à oxygène |
 
-|
+unité |
 
-1
+1 |
 
-|
+Ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
-Avec lancettes capillaires sécurité
+Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
-|
+unité |
 
-Stéthoscope
+1 |
 
-|
+usage unique |
 
-unité
+Masque facial pour insufflateur manuel, taille 3 (pédiatrie) |
 
-|
+unité |
 
-1
+1 |
 
-|
+usage unique |
 
-|
+Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
 
-Tensiomètre
+unité |
 
-|
+1 |
 
-unité
+type Ambu ® Twin Pump |
 
-|
+Sonde d'aspiration buccale |
 
-1
+unité |
 
-|
+1 |
 
-Manuel ou automatique (type
+CH 26 |
 
-|
+Masque à oxygène à haute concentration (adulte) avec tubulure |
 
-Fiche d'observation médicale
+unité |
 
-|
+1 |
 
-unité
+usage unique |
 
-|
+Masque aérosol pour nébulisation de médicaments (adulte) avec tubulure |
 
-10
+unité |
 
-|
+1 |
 
-OMRON (1) ) à brassard huméral
+usage unique |
 
-Pour téléconsultation médicale
+Masque aérosol pour nébulisation de médicaments (pédiatrie) avec tubulure |
 
-|
+unité |
 
-Registre de médicaments
+1 |
 
-|
+usage unique |
 
-unité
+2. Défibrillateur Automatisé Externe (26) |
 
-|
+Défibrillateur automatisé externe |
 
-1
+unité |
 
-|
+1 |
 
-|
+avec 2 sets d'électrodes et 1 tapis isolant |
 
-4) Trousse de Premiers Secours ( 11)
+3. Matériel d'examen et de surveillance médicale |
 
-|
+Tensiomètre |
 
-|
+unité |
 
-|
+1 |
 
-|
+automatique à brassard huméral |
 
-Compresses de gaze stériles
+Oxymètre de poulsErreur : source de la référence non trouvée |
 
-|
+unité |
 
-paquet de 5
+1 |
 
 |
 
-2
+Lecteur de glycémie capillaireErreur : source de la référence non trouvée |
 
-|
+unité |
 
-Taille moyenne
+1 |
 
 |
 
-Chlorhexidine - Solution aqueuse
+Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) Erreur : source de la référence non trouvée |
 
-|
+boîte |
 
-unidose 0,05 %
+1 |
 
-|
+avec lancettes capillaires sécurisées |
 
-2
+4. Trousses de premier secours |
 
-|
+Compresses de gaze stériles |
 
-|
+paquet de 5 |
 
-Coussin hémostatique
+2 |
 
-|
+taille moyenne |
 
-unité
+Chlorhexidine-Solution aqueuse |
 
-|
+unidose 0,2 % |
 
-1
+2 |
 
 |
 
-Type CHUT (1)
+Coussin Hémostatique |
 
-|
+unité |
 
-Bande de crêpe (10 cm)
+1 |
 
-|
+type CHUT ® |
 
-rouleau de 4 m
+Bande de crêpe (10 cm) |
 
-|
+rouleau de 4 m |
 
-1
+1 |
 
-|
+type Velpeau ® |
 
-Type Velpeau (1)
+Bande auto-adhésive (10 cm) |
 
-|
+rouleau de 4 m |
 
-Bande auto-adhésive (10 cm)
+1 |
 
-|
+type Coheban ® |
 
-rouleau de 4 m
+Pansement adhésif stérile étanche |
 
-|
+boîte |
 
-1
+1 |
 
-|
+assortiment 3 tailles |
 
-Type Coheban (1)
+Gel antiseptique hydroalcoolique pour la peau saine |
 
-|
+flacon 75ml |
 
-Pansement adhésif
+1 |
 
 |
-
-boîte
 
-|
+Gants d'examen non stériles |
 
-1
+paire |
 
-|
+4 |
 
-Assortiment 3 tailles
+taille M et L |
 
-|
+(26) Ce matériel est obligatoire lorsque le navire est autorisé à transporter 400 passagers et plus.

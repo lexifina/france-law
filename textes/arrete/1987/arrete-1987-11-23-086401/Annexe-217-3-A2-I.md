@@ -8,8 +8,6 @@ AVERTISSEMENT
 
 2. Le procès-verbal de la commission, valant instruction, est disponible auprès des centres de sécurité des navires et des services de santé des gens de mer.
 
-3. Les médicaments signalés par un astérisque (*) sont des médicaments pour lesquels existe un groupe générique ; l'achat de génériques est recommandé mais non obligatoire.
+3. Certains matériels médicaux et objets de pansement cités peuvent être remplacés par des équivalents si le marché le permet.
 
-4. Les médicaments signalés par deux astérisques (**) figurent dans la dotation médicale en cas de pandémie ou de pré-pandémie régionale ou internationale.
-
-5. La marque (1) signale que les matériels médicaux et objets de pansement cités peuvent être remplacés par des équivalents si le marché le permet.
+4. Sauf cas de force majeure, les médicaments relevant de la réglementation des stupéfiants, de la réglementation de la liste I ou de celle de la liste II ne peuvent être utilisés que sur prescription médicale.

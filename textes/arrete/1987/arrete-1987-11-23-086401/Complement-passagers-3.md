@@ -1,1055 +1,823 @@
 # Article Complément passagers 3
 
-Médicaments
+COMPLÉMENT PASSAGERS 3 : Médicaments
 
-Principe Actif
+Dénomination commune internationale |
 
-Dénomination Commune Internationale (DCI)
+Voie d'administration |
+
+Forme composition |
+
+Quantité |
+
+Liste |
+
+1. Cardiologie |
+
+Epinéphrine |
+
+parentérale |
+
+ampoule 1 mg/1 ml |
+
+10 |
+
+I |
+
+Furosémide |
+
+parentérale |
+
+ampoule 20 mg/2 ml |
+
+4 |
+
+II |
+
+Trinitrine |
+
+sublinguale |
+
+flacon pulvérisation 0,15 mg/ dose |
+
+1 |
+
+II |
+
+Ticagrelor |
+
+orale |
+
+comprimé 90 mg |
+
+10 |
+
+I |
+
+Enoxaparine sodique |
+
+sous-cutanée |
+
+seringue pré-remplie
+
+8 000 UI antiXa/1 ml |
+
+4 |
+
+I |
+
+2. Gastro-Entérologie |
+
+Métopimazine |
+
+orale |
+
+lyophilisat oral 7,5 mg |
+
+16 |
+
+II |
+
+3. Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
+
+Paracétamol |
+
+sublinguale |
+
+lyophilisat oral 500 mg |
+
+16 |
 
 |
 
-Voie
+Paracétamol |
 
-d'Administration
+orale |
 
-|
+gélule 500 mg |
 
-Forme
-
-Composition
+32 |
 
 |
 
-Quantité
+Phloroglucinol |
+
+sublinguale |
+
+lyophilisat oral 80 mg |
+
+20 |
 
 |
 
-Liste
+Kétoprofène |
 
-|
+orale |
 
-l) Cardiologie
+comprimé 100 mg LP |
 
-|
+20 |
 
-|
+II |
 
-|
-
-|
-
-|
-
-Epinéphrine
-
-|
+Kétoprofène |
 
 parentérale
 
-|
-
-ampoule 1 mg/1 ml
-
-|
-
-10
-
-|
-
-I
-
-|
-
-Furosémide
-
-|
-
-parentérale
-
-|
-
-ampoule 20 mg/2 ml
-
-|
-
-4
-
-|
-
-II
-
-|
-
-Trinitrine
-
-|
-
-buccale
-
-|
-
-flacon pulvérisation
-
-0,15 mg/dose
-
-|
-
-1
-
-|
-
-II
-
-|
-
-Méthylergométrine (9)
-
-|
-
-parentérale
-
-|
-
-ampoule 0,2 mg/1 ml (à conserver au froid)
-
-|
-
-3
-
-|
-
-I
-
-|
-
-2) Antalgiques - Antipyrétiques -
-
-Antispasmodiques - Anti-inflammatoires
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Kétoprofène (*)
-
-|
-
-parentérale
-
-|
-
-ampoule 100 mg/2 ml
-
-|
-
-2
-
-|
-
-II
-
-|
-
-Paracétamol
-
-|
-
-orale
-
-|
-
-lyophilisats oraux 500 mg
-
-|
-
-16
-
-|
-
-|
-
-Paracétamol
-
-|
-
-orale
-
-|
-
-gélule 500 mg
-
-|
-
-32
-
-|
-
-|
-
-Phloroglucinol (*)
-
-|
-
-sub-lingual
-
-|
-
-lyophilisats oraux 80 mg
-
-|
-
-20
-
-|
-
-|
-
-Terbutaline ou Salbutamol
-
-|
-
-nébulisation
-
-|
-
-unidose - 5mg/2ml
-
-|
-
-20
-
-|
-
-I
-
-|
-
-Morphine chlorhydrate
-
-|
-
-parentérale
-
-|
-
-ampoule 10 mg/ml
-
-|
-
-5
-
-|
-
-Stupéfiant
-
-|
-
-3) Psychiatrie - Neurologie
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Diazépam
-
-|
-
-parentérale
-
-|
-
-ampoule 10 mg/2 ml
-
-|
-
-6
-
-|
-
-I
-
-|
-
-Naloxone
-
-|
-
-parentérale
-
-|
-
-ampoule 0,4 mg/ml
-
-|
-
-4
-
-|
-
-I
-
-|
-
-4) Allergologie
-
-|
+(intramusculaire) |
 
-|
-
-|
-
-|
-
-|
-
-Méthyl prednisolone
-
-|
-
-parentérale
-
-|
-
-ampoule 40 mg/2ml
-
-|
-
-5
-
-|
-
-I
-
-|
-
-Matériel médical et objets de pansement
-
-Article
-
-|
-
-Présentation
-
-|
+ampoule 100 mg/2 ml |
 
-Quantité
+2 |
 
-|
+II |
 
-Remarques
+Morphine chlorhydrate |
 
-|
+parentérale |
 
-l) Matériel de réanimation
+ampoule 10 mg/1 ml |
 
-|
+5 |
 
-|
+Stupéfiant |
 
-|
+Naloxone |
 
-|
+parentérale |
 
-Insufflateur manuel avec masque facial (taille 4 & 5) et
+ampoule 0,4 mg/1 ml |
 
-réservoir à oxygène
+5 |
 
-Canules de Guedel
+I |
 
-Pompe d'aspiration manuelle pour désobstruction des voies
+4. Psychiatrie-Neurologie |
 
-aériennes supérieures
+Dimenhydrinate |
 
-Masque à oxygène adulte avec tubulure (à haute et
+orale |
 
-moyenne concentration)
+Comprimé 50 mg |
 
-Nébuliseur avec masque aérosol et tubulure
+30 |
 
 |
 
-unité
+Diazépam |
 
-unité
+parentérale |
 
-unité
+ampoule 10 mg/2 ml |
 
-unité
+6 |
 
-unité
-
-|
+I |
 
-1
+5. Allergologie |
 
-1
+Prednisolone |
 
-1
+sublinguale |
 
-2
+lyophilisat oral 20 mg |
 
-2
+20 |
 
-|
+I |
 
-Type Ambu (1)
+Méthylprednisolone |
 
-Taille 3 & 4
+parentérale |
 
-Type Ambu Twin Pump (1)
+ampoule 40 mg/2 ml |
 
-Usage unique
+5 |
 
-Usage unique
+I |
 
-|
+6. Pneumologie |
 
-2) Instruments
+Terbutaline |
 
-|
+nébulisation |
 
-|
+solution inhalation 5 mg/2 ml (unidose) |
 
-|
+20 |
 
-|
+I |
 
-Cuvette réniforme
+Ipratropium bromure |
 
-Bistouri lame n° 11
+nébulisation |
 
-Ciseaux droit à pansement
+solution inhalation 0,5 mg/2 ml (unidose) |
 
-Set à Pansement :
+20 |
 
-- 1 Champ stérile non troué
+I |
 
-- 1 Pince Kocher
+7. Infection-Parasitologie |
 
-- 1 Pince anatomique à mors fins
+Ceftriaxone |
 
-- 1 Pince à disséquer à griffes
+parentérale (intramusculaire) |
 
-|
+ampoule 1 g/3,5 ml |
 
-unité
+1 |
 
-unité
+I |
 
-Set stérile
+8. Gynéco-Obstétrique |
 
-Set stérile
+Oxytocine |
 
-|
+parentérale |
 
-1
+ampoule 5 UI/1 ml |
 
-1
+4 |
 
-1
+II |
 
-2
+Misoprostol |
 
-|
+orale |
 
-Usage unique
+comprimé 200 μ g |
 
-Usage unique
+8 |
 
-Usage unique
+I |
 
-|
+Acide Tranexanique |
 
-Pince hémostatique à griffes
+orale |
 
-|
+Ampoule 1 g/10 ml |
 
-Set stérile
+5 |
 
-|
+I |
 
-2
+9. Réanimation |
 
-|
+Eau pour préparation injectable |
 
-Type "Halstead"
+parentérale |
 
-|
+ampoule 20 ml |
 
-3) Matériel d'examen et de surveillance médicale
+10 |
 
 |
 
-|
+10. Pédiatrie |
 
-|
+Paracétamol |
 
-|
+orale |
 
-Bandelettes réactives pour glycémie capillaire
+poudre pour suspension buvable sachet 100 mg |
 
-(AVEC LECTEUR)
+10 |
 
 |
 
-boîte
-
-|
+Paracétamol |
 
-1
+rectale |
 
-|
+suppositoire 100 mg (sécable) |
 
-Avec lancettes capillaires sécurité
+10 |
 
 |
 
-Stéthoscope
-
-|
+Ibuprofène |
 
-unité
+orale |
 
-|
+suspension buvable 20 mg/ ml flacon 200 ml |
 
-1
+2 |
 
 |
 
-|
+Soluté réhydratation orale |
 
-Tensiomètre
+orale |
 
-|
+sachet 7 g |
 
-unité
+20 |
 
 |
 
-1
+Racécadotril nourrisson |
 
-|
+orale |
 
-Manuel ou automatique (type OMRON® (1) ) à brassard huméral
+sachet 10 mg |
 
-|
+30 |
 
-Thermomètre médical
+I |
 
-|
+Métopimazine |
 
-unité
+rectale |
 
-|
+suppositoire 5 mg (sécable) |
 
-1
+20 |
 
-|
+II |
 
-|
+COMPLÉMENT PASSAGERS 3 : Matériel médical et objets de pansement
 
-Fiche d'observation médicale
+Article |
 
-|
+Présentation |
 
-unité
+Quantité |
 
-|
+Remarques |
 
-10
+1. Matériel de réanimation |
 
-|
+Défibrillateur Automatisé Externe |
 
-Pour téléconsultation médicale
+unité |
 
-|
+1 |
 
-Fiche médicale pour évacuation
+avec 2 sets d'électrodes
 
-|
+et 1 tapis isolant |
 
-unité
+Oxygène médical |
 
-|
+bouteille de 5 l 200 bars |
 
-10
+1 |
 
-|
+bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min et prises normalisées |
 
-|
+Insufflateur manuel avec réservoir à oxygène |
 
-Guide médical de bord
+unité |
 
-|
+1 |
 
-unité
+ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
-|
+Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
-1
+unité |
 
-|
+1 |
 
-Edition agréée par le Service de Santé des Gens de Mer
+usage unique |
 
-|
+Masque facial pour insufflateur manuel, taille 3 (pédiatrie) |
 
-4) Matériel d'injection
+unité |
 
-|
+1 |
 
-|
+usage unique |
 
-|
+Canule oro-pharyngée tailles 1 et 2 (pédiatrie) |
 
-|
+unité |
 
-Aiguille à injection stérile :
+1 |
 
-|
+type Guedel ® |
 
-|
+Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
 
-|
+unité |
 
-Usage unique
+1 |
 
-|
+type Ambu ® Twin Pump |
 
-- sous-cutanée (25 G - 0,5 x 16)
+Sonde d'aspiration buccale |
 
-|
+unité |
 
-unité
+2 |
 
-|
+CH 26 |
 
-5
+Masque à oxygène à haute concentration (adulte) avec tubulure |
 
-|
+unité |
 
-|
+2 |
 
-- intra-veineuse (23 G - 0,6 x 25)
+usage unique |
 
-|
+Masque aérosol pour nébulisation de médicaments (adulte) avec tubulure |
 
-unité
+unité |
 
-|
+2 |
 
-5
+usage unique |
 
-|
+Masque aérosol pour nébulisation de médicaments (pédiatrie) avec tubulure |
 
-|
+unité |
 
-- intra-musculaire (21 G - 0,8 x 40)
+2 |
 
-|
+usage unique |
 
-unité
+2. Pansements et matériel de suture |
 
-|
+Set à Pansement :-1 paire de ciseaux droits à bouts pointus-1 Champ stérile non troué-1 Pince Kocher-1 Pince anatomique à mors fins-1 pince à disséquer à griffes-Compresses stériles |
 
-5
+set stérile |
 
-|
+1 |
 
-|
+usage unique |
 
-- trocards (19 G - 1,1 x 40)
+Compresses hydrogel 40 cm x 55 cm |
 
-|
+unité |
 
-unité
+1 |
 
-|
+type BurnAid ® |
 
-5
+Compresses hydrogel 20 cm x 20 cm |
 
-|
+unité |
 
-|
+1 |
 
-Seringue :
+type BurnAid ® |
 
-|
+Agrafeuse à peau |
 
-|
+unité |
 
-|
+1 |
 
-|
+type Precise 3 M ®
 
-- 5 ml
+usage unique |
 
-|
+Ote-agrafe |
 
-unité
+unité |
 
-|
+1 |
 
-5
+type 3 M ®-usage unique |
 
-|
+3. Instruments |
 
-|
+Bistouri lame n° 11 |
 
-- 10 ml
+unité |
 
-|
+1 |
 
-unité
+usage unique |
 
-|
+Pince hémostatique à griffes |
 
-5
+set stérile |
 
-|
+1 |
 
-|
+type " Halstead " |
 
-Garrot en caoutchouc pour voie veineuse
+Set Hémorragie comprenant :
 
-|
+-Garrot Tourniquet
 
-unité
+-Pansement compressif
 
-|
+-Bande granulés hémostatiques |
 
-1
+unité |
 
-|
+1 |
 
-|
+set type 4BC ®
 
-Collecteur d'aiguilles
+bande type Chito-SAM ® |
 
-|
+4. Matériel d'examen et de surveillance médicale |
 
-unité
+Tensiomètre |
 
-|
+unité |
 
-1
+1 |
 
-|
+automatique à brassard huméral |
 
-0,45 l.
+Oxymètre de pouls |
 
-|
+unité |
 
-Canule rectale
+1 |
 
 |
 
-unité
+Thermomètre médical digital |
 
-|
+unité |
 
-2
+1 |
 
-|
+à utilisation axillaire, buccale et rectale |
 
-Usage unique
+Lecteur de glycémie capillaire |
 
-|
+unité |
 
-Gants d'examen, non stériles
+1 |
 
 |
-
-boîte de 100
 
-|
+Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
 
-1
+boîte |
 
-|
+1 |
 
-Taille M et L
+avec lancettes capillaires sécurisées |
 
-|
+5. Matériel d'injection, de perfusion, de ponction et de sondage |
 
-5) Matériel médical général
+Aiguille à injection sous-cutannée stérile (25 G-0,5 x 16) |
 
-|
+unité |
 
-|
+1 |
 
-|
+usage unique |
 
-|
+Aiguille à injection intra-musculaire stérile (21 G-0,8 x 40) |
 
-Registre de médicaments
+unité |
 
-|
+1 |
 
-unité
+usage unique |
 
-|
+Aiguille à injection stérile (19 G-1,1 x 40) : trocart |
 
-1
+unité |
 
-|
+1 |
 
-|
+usage unique |
 
-6) Matériel d'immobilisation et de contention
+Seringue 5 ml |
 
-|
+unité |
 
-|
+1 |
 
-|
+usage unique |
 
-|
+Seringue 10 ml |
 
-Attelle / orthèse rigide de poignet/main
+unité |
 
-|
+1 |
 
-unité
+usage unique |
 
-|
+Canule rectale |
 
-1
+unité |
 
-|
+1 |
 
-Type Axmed (1) ou Lepine (1) (modèle bilatéral)
+usage unique |
 
-|
+6. Matériel médical général |
 
-Echarpe de contention et d'immobilisation
+Gel antiseptique hydroalcoolique pour la peau saine |
 
-|
+flacon 500 ml |
 
-unité
+1 |
 
-|
+pour antisepsie des mains |
 
-1
+Gants d'examen non stériles |
 
-|
+boîte de 100 |
 
-Type Axmed (1)
+1 |
 
-|
+taille M et L |
 
-Attelle complète de jambe
+Collecteur d'aiguilles |
 
-|
+unité |
 
-unité
+1 |
 
-|
+0,45 litre |
 
-1
+Sac de Déchet d'Activités de Soins à Risques Infectieux (DASRI) |
 
-|
+rouleau de 25 |
 
-Attaches rapides velcro
+1 |
 
-|
+taille 20 L |
 
-Collier pour immobilisation cervicale
+Urinal pour homme |
 
-|
+unité |
 
-Set de 3 tailles
+1 |
 
 |
 
-1
+Bassin de commodité |
 
-|
+unité |
 
-Polyéthylène
+1 |
 
 |
 
-Civière polyvalente treuillable
+Couverture de survie |
 
-|
+unité |
 
-unité
+1 |
 
-|
+usage unique |
 
-1
+7. Matériel d'immobilisation et de contention |
 
-|
+Attelle/ orthèse rigide poignet/ main |
 
-Type Bellisle,Neil Robertson,
+unité |
 
-Skedco ...(1)
+1 |
 
-|
+type Axmed ® ou Lépine ® (modèle bilatéral) |
 
-Bande adhésive élastique (10 cm)
+Echarpe de contention et d'immobilisation épaule-bras |
 
-|
+unité |
 
-rouleau
+1 |
 
-|
+type Axmed ® |
 
-1
+Collier pour immobilisation cervicale rigide |
 
-|
+set de 3 tailles |
 
-|
+1 |
 
-7) Trousse de Premiers Secours ( 1)
+set de 3 tailles ou réglable |
 
-|
+Attelle cervico-thoracique |
 
-|
+unité |
 
-|
+1 |
 
-|
+type KED ® |
 
-Compresses de gaze stériles
+Attelle complète de jambe |
 
-|
+unité |
 
-paquet de 5
+1 |
 
-|
+Attaches rapides Velcro ® |
 
-2
+Civière polyvalente treuillable |
 
-|
+unité |
 
-Taille moyenne
+1 |
 
-|
+type Bellisle ® avec dispositif de contention |
 
-Chlorhexidine - Solution aqueuse
+Bande adhésive élastique (10 cm) |
 
-|
+rouleau |
 
-unidose 0,05 %
+1 |
 
 |
-
-2
 
-|
+Suspensoir avec sangles |
 
-|
+unité |
 
-Coussin hémostatique
+1 |
 
 |
-
-unité
 
-|
+8. Trousses de premier secours |
 
-1
+Compresses de gaze stériles |
 
-|
+paquet de 5 |
 
-Type CHUT (1)
+2 |
 
-|
+taille moyenne |
 
-Bande de crêpe (10 cm)
+Chlorhexidine-Solution aqueuse |
 
-|
+unidose 0,2 % |
 
-rouleau de 4 m
+2 |
 
 |
 
-1
+Coussin Hémostatique |
 
-|
+unité |
 
-Type Velpeau (1)
+1 |
 
-|
+type CHUT ® |
 
-Bande auto-adhésive (10 cm)
+Bande de crêpe (10 cm) |
 
-|
+rouleau de 4 m |
 
-rouleau de 4 m
+1 |
 
-|
+type Velpeau ® |
 
-1
+Bande auto-adhésive (10 cm) |
 
-|
+rouleau de 4 m |
 
-Type Coheban® (1)
+1 |
 
-|
+type Coheban ® |
 
-Pansement adhésif
+Pansement adhésif stérile étanche |
 
-|
+boîte |
 
-boîte
+1 |
 
-|
+assortiment 3 tailles |
 
-1
+Gel antiseptique hydroalcoolique pour la peau saine |
 
-|
+flacon 75ml |
 
-Assortiment 3 tailles
+1 |
 
 |
 
-Gants d'examen, non stériles
-
-|
+Gants d'examen non stériles |
 
-paire
+paire |
 
-|
+4 |
 
-4
+taille M et L |
 
-|
+9. Matériel de téléconsultation cardiologique |
 
-Taille M et L
+Appareil d'enregistrement ambulatoire et événementiel de tracés ECG avec transmission par INMARSAT ou HF, comprenant :
 
-|
+-le branchement au réseau INMARSAT ou à la HF avec une solution d'envoi de mail.
 
-8) Sac médical d'urgence
+-le matériel permettant d'effectuer les 12 dérivations 12 pistes. |
 
-|
+unité |
 
-|
+1 |
 
-1
+pour les navires sans médecin |
 
-|
+10. Sac médical d'urgence |
 
-Voir annexe 217-3.A.4
+Sac médical d'urgence |
 
 |
-
-(1) :
 
-- Trousse étanche, à positionner dans des lieux appropriés
+1 |
 
-- 1 trousse par tranche de 100 passagers, avec un maximum de 3
+Voir annexe 217-3. A. 4 |

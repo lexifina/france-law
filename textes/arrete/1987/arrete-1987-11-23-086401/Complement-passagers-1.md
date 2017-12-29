@@ -34,8 +34,6 @@ Aspirateur électrique autonome (pour désobstruction des voies aériennes supé
 
 |
 
-Type Accuvac (1)ou Laerdal (1)
-
 |
 
 Electrocardiographe
@@ -50,7 +48,7 @@ Moniteur multifonction recommandé avec cardioscope, pression artérielle, oxym�
 
 |
 
-Défibrillateur
+Défibrillateur automatisé externe
 
 |
 

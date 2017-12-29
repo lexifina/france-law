@@ -1,43 +1,49 @@
 # Article Annexe 213-6.A9
 
-CRITÈRES D'UTILISATION DES MÉTHODES
+Renseignements à transmettre à la base de données de l'OMI sur la consommation de fuel-oil des navires
 
-DE RÉDUCTION DES ÉMISSIONS
+Identité du navire
 
-Les méthodes de réduction des émissions visées à l'article 213-6.04 répondent au moins aux critères spécifiques dans les instruments ci-après, selon le cas :
+Numéro OMI
 
-MÉTHODE DE RÉDUCTION DES ÉMISSIONS
+Période d'année civile pour laquelle les données sont communiquées
 
-|
+Date du début de la période (jj/ mm/ aaaa)
 
-CRITÈRES D'UTILISATION
+Date de la fin de la période (jj/ mm/ aaaa)
 
-|
+Caractéristiques techniques du navire
 
-Mélange de combustible marin et de gaz d'évaporation
+Type de navire, tel que défini à l'article 213-6.02 du présent chapitre ou autre (à spécifier)
 
-|
+Jauge brute (13)
 
-Décision 2010/769/UE de la Commission du 13 décembre 2010 établissant des critères pour l'utilisation, par les transporteurs de gaz naturel liquéfié, de méthodes techniques en remplacement de l'utilisation de combustibles marins à faible teneur en soufre remplissant les conditions de l'article 4 ter de la directive 1999/32/CE du Conseil concernant une réduction de la teneur en soufre de certains combustibles liquides, modifiée par la directive 2005/33/CE du Parlement européen et du Conseil en ce qui concerne la teneur en soufre des combustibles marins.
+Jauge nette (14)
 
-|
+Port en lourd (15)
 
-Systèmes d'épuration des gaz d'échappement
+Puissance de sortie (puissance nominale [16]) du moteur principal et des moteurs auxiliaires alternatifs à combustion interne d'une puissance supérieure à 130 kW (à indiquer en kW)
 
-|
+EEDI (s'il y a lieu)
 
-Résolution MEPC 259 (68), adoptée le 17 juillet 2009
+Cote glace (17)
 
-"L'eau de lavage issue des systèmes d'épuration des gaz d'échappement qui utilisent des produits chimiques, des additifs, des préparations et des produits chimiques créés sur place", visée au point 10.1.6.1 de la résolution MEPC.184(59), n'est pas rejetée en mer, y compris dans des ports et estuaires clos, s'il n'est pas démontré par l'exploitant du navire que ce rejet d'eau de lavage n'a aucune incidence négative notable et ne pose pas de risques pour la santé humaine et l'environnement. Si le produit chimique utilisé est de la soude caustique, il est suffisant que l'eau de lavage satisfasse aux critères énoncés dans la résolution MEPC.184(59) et que son pH ne soit pas supérieur à 8,0.
+Consommation de fuel-oil, par type de fuel-oil (18), en tonnes, et méthodes utilisées pour recueillir les données relatives à la consommation de fuel-oil
 
-|
+Distance parcourue
 
-Biocarburants
+Heures pendant lesquelles le navire fait route
 
-|
+NOTA :
 
-Usage de biocarburants, tels que définis par la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables conformes aux normes CEN et ISO pertinentes.
+(13) La jauge brute devrait être calculée conformément à la Convention internationale de 1969 sur le jaugeage des navires.
 
-Les mélanges de biocarburants et de combustibles marins sont conformes aux normes de teneur en soufre énoncées à l'article 213-6.14 bis.
+(14) La jauge nette devrait être calculée conformément à la Convention internationale de 1969 sur le jaugeage des navires. Inscrire la mention " S. O. " si les renseignements demandés sont sans objet.
 
-|
+(15) Le port en lourd désigne la différence, exprimée en tonnes, entre le déplacement du navire dans une eau de densité relative égale à 1 025 kg/ m3 au tirant d'eau à la ligne de charge d'été et le déplacement lège du navire. Le tirant d'eau à la ligne de charge d'été devrait correspondre au tirant d'eau d'été maximal qui est indiqué dans le manuel de stabilité approuvé par l'Administration ou un organisme reconnu par elle.
+
+(16) Puissance nominale désigne la puissance nominale maximale continue spécifiée sur la plaque d'identification du moteur.
+
+(17) La cote glace devrait être conforme à la définition qui figure dans le Recueil international de règles applicables aux navires exploités dans les eaux polaires (Recueil sur la navigation polaire) (résolution MEPC. 264 (68) et MSC. 385 (94)). Inscrire la mention S. O. si les renseignements demandés sont sans objet.
+
+(18) Tel que défini dans les Directives de 2014 sur la méthode de calcul de l'indice nominal de rendement énergétique (EEDI) obtenu applicable aux navires neufs (résolution MEPC. 245 (66)) ou dans une autre source (à indiquer).

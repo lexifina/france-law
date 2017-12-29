@@ -2,734 +2,860 @@
 
 DOTATION C : Médicaments
 
-NOTA : Sauf cas de force majeure, les médicaments relevant de la réglementation des stupéfiants de 1a réglementation de la liste I ou de celle de la liste II ne peuvent être utilisés que sur prescription médicale.
+Dénomination commune internationale |
 
-Principe Actif
+Voie d'administration |
 
-Dénomination Commune Internationale (DCI)
+Forme composition |
 
-|
+Quantité |
 
-Voie
+Liste |
 
-d'Administration
+1. Cardiologie |
 
-|
+Acide acétylsalicylique |
 
-Forme
+orale |
 
-Composition
+sachet 300 mg |
 
-|
-
-Quantité
+20 |
 
 |
 
-Liste
+Trinitrine |
 
-|
-
-l) Cardiologie
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Trinitrine
-
-|
-
-buccale
-
-|
+sublinguale |
 
 flacon pulvérisation
 
-0,15 mg/dose
+0,15 mg/ dose |
 
-|
-
-1
-
-|
-
-II
-
-|
-
-Méthylergométrine
-
-|
-
-orale
-
-|
-
-comprimé 0,125 mg
-
-|
-
-20
-
-|
-
-I
-
-|
+1 |
 
-Epinéphrine
+II |
 
-|
+Epinéphrine |
 
-parentérale
+parentérale |
 
-|
+seringue pré-remplie auto-injectable 0,3 mg/0,3 ml |
 
-seringue auto-injectable
+2 |
 
-1 mg/1ml (A CONSERVER AU FROID)
+I |
 
-|
+2. Gastro-Entérologie |
 
-1
+Hydroxydes d'aluminium
 
-|
+et de magnésium |
 
-I
+orale |
 
-|
+sachet suspension 460mg/ 400mg |
 
-|
+20 |
 
 |
 
-ou seringue auto-injectable ,30mg/0,3ml
+Diosmectite |
 
-|
+orale |
 
-2
+sachet 3g |
 
-|
+30 |
 
 |
 
-Alginate de calcium
+Carraghénates-Dioxyde titane-Oxyde de zinc-Lidocaîne 2 % |
 
-|
+rectale |
 
-Locale
+crème
 
-|
+tube 20g |
 
-boîte (5 sachets)
+1 |
 
 |
-
-2
 
-|
+Métopimazine |
 
-|
+sublinguale |
 
-Acide acétylsalicylique
+lyophilisat oral 7,5 mg |
 
-|
+8 |
 
-orale
+II |
 
-|
+Racécadotril |
 
-sachet 250 mg
+orale |
 
-|
+gélule 100 mg |
 
-20
+20 |
 
-|
+II |
 
-|
+3. Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
 
-2) Gastro-Entérologie
+Paracétamol |
 
-|
+sublinguale |
 
-|
+lyophilisat oral 500 mg |
 
-|
+32 |
 
 |
 
-|
+Phloroglucinol |
 
-Lopéramide (*)
+sublinguale |
 
-|
+lyophilisat oral 80 mg |
 
-orale
+10 |
 
 |
 
-lyophilisat oral 2 mg
+Kétoprofène |
 
-|
-
-20
+orale |
 
-|
+comprimé 100 mg LP |
 
-|
+20 |
 
-Dimenhydrinate
+II |
 
-|
+Tramadol |
 
-orale
+orale |
 
-|
+comprimé orodispersible
 
-comprimé 50 mg
+50 mg |
 
-|
+10 |
 
-15
+I |
 
-|
+4. Psychiatrie-Neurologie |
 
-|
+Dimenhydrinate |
 
-Métopimazine
+orale |
 
-|
+comprimé 50mg |
 
-orale
+15 |
 
 |
 
-lyophilisat oral 7,5 mg
+Diazepam |
 
-|
+orale |
 
-16
-
-|
+comprimé 5 mg |
 
-II
+40 |
 
 |
 
-3) Antalgiques - Antipyrétiques -
+5. Allergologie |
 
-Antispasmodiques - Anti-inflammatoires
+Desloratadine |
 
-|
+orale |
 
-|
+comprimé 5 mg |
 
-|
+14 |
 
-|
+II |
 
-|
+Prednisolone |
 
-Paracétamol
+sublinguale |
 
-|
+lyophilisat 20 mg |
 
-orale
+20 |
 
-|
+I |
 
-lyophilisat oral 500 mg
+6. Pneumologie |
 
-|
+Salbutamol |
 
-16
+inhalation |
 
-|
+flacon pressurisé 200 doses
 
-|
+100 μ g/ bouffée |
 
-Paracétamol
+1 |
 
-|
+I |
 
-orale
+7. Maladies infectieuses |
 
-|
+Amoxicilline-
 
-gélule 500 mg
+Acide Clavulanique |
 
-|
+orale |
 
-16
+comprimé 500 mg 62,5 mg |
 
-|
+16 |
 
-|
+I |
 
-Phloroglucinol (*)
+Azithromycine |
 
-|
+orale |
 
-sublinguale
+comprimé 250 mg |
 
-|
+12 |
 
-lyophilisat oral 80 mg
+I |
 
-|
+8. Dermatologie |
 
-10
+Chlorhexidine |
 
-|
+locale |
 
-|
+solution aqueuse 0,2 %-unidose 5 ml |
 
-4) Dermatologie
+16 |
 
 |
 
-|
+Hexamidine-Chlorhexidine-Chlorocrésol |
 
-|
+locale |
 
-|
+solution moussante
 
-|
+10 mg, 0,5 ml, 300 mg/100 ml-flacon 250 ml |
 
-Chlorhexidine
+1 |
 
 |
 
-locale
+Vaseline stérilisée |
 
-|
+locale |
 
-solution aqueuse flacon 5ml - 0,05 %
-
-|
+pommade-tube 20g |
 
-16
+1 |
 
 |
 
-|
+9. Ophtalmologie |
 
-Trolamine
+Acide Borique
 
-|
+Borate de Sodium |
 
-locale
+oculaire |
 
-|
+collyre 18 mg, 12 mg/ ml unidose 10 ml |
 
-tube 93 g
+16 |
 
 |
 
-1
+Rifamycine |
 
-|
+oculaire |
 
-|
+pommade ophtalmique
 
-5) Ophtalmologie
+1 000 000 UI/100 g-
 
-|
+tube 5 g |
 
-|
+1 |
 
-|
+I |
 
-|
+10. Oto-Rhino-Laringologie et Stomatologie |
 
-|
+Sérum physiologique |
 
-Hexamidine
+locale |
 
-|
+NaCl 9 %-unidose 5 ml |
 
-collyre
+20 |
 
 |
 
-Collyre flacon 0,6 ml - 0,1 %
+Chlorhexidine-Chlorobutanol |
 
-|
+bain de bouche |
 
-10
+flacon 100 ml |
 
-|
+1 |
 
 |
 
 DOTATION C : Matériel médical et objets de pansement
 
-Article
+Article |
 
-|
-
-Présentation
-
-|
-
-Quantité
-
-|
-
-Remarques
-
-|
-
-1) Matériel de réanimation
-
-|
-
-|
-
-|
-
-|
-
-Masque protecteur pour ventilation bouche à bouche (film plastique et valve unidirectionnelle)
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-Type Ambu LifeKey (1)
-
-(nouveau matériel)
-
-|
-
-2) Pansements et matériel de suture
-
-|
-
-|
-
-|
-
-|
-
-Bande de crêpe (10 cm)
-
-|
-
-rouleau 4 m
-
-|
-
-1
-
-|
-
-Type Velpeau (1)
-
-|
-
-Bande auto-adhésive (10 cm)
-
-|
-
-rouleau 4 m
-
-|
-
-1
-
-|
-
-Type Coheban (1)
-
-|
-
-Compresses de gaze non stériles
-
-|
-
-paquet de 100
-
-|
-
-1
+Présentation |
 
-|
-
-|
-
-Compresses de gaze stériles
+Quantité |
 
-|
+Remarques |
 
-paquet de 5
+1. Matériel de réanimation |
 
-|
+Masque protecteur pour ventilation bouche à bouche
 
-4
+(film plastique et valve unidirectionnelle) |
 
-|
+unité |
 
-Taille moyenne
+1 |
 
-|
+Type Ambu ® LifeKey |
 
-Coton hydrophile
+Canule oro-pharyngée taille 4 (adulte) |
 
-|
+unité |
 
-paquet 100 g
+1 |
 
-|
+type Guedel ® |
 
-1
+2. Pansements et matériel de suture |
 
-|
+Compresse de gaze non stérile |
 
-|
+paquet de 100 |
 
-Epingle de sûreté
+1 |
 
 |
 
-sachet de 12
+Compresses de gaze stériles |
 
-|
+paquet de 5 |
 
-1
+4 |
 
-|
+taille moyenne |
 
-|
+Pansement adhésif stérile étanche |
 
-Pansement adhésif stérile
+boîte |
 
-|
+1 |
 
-boîte
+assortiment 3 tailles |
 
-|
+Pansement absorbant stérile
 
-2
+(15 cm × 20 cm) |
 
-|
+unité |
 
-Assortiment 3 tailles
+2 |
 
-|
+type américain |
 
-Pansement absorbant stérile (type américain)
+Coussin Hémostatique |
 
-|
+unité |
 
-unité
+1 |
 
-|
+type CHUT ® |
 
-2
+Bande de crêpe (10 cm) |
 
-|
+rouleau de 4 m |
 
-15 cm x 20 cm
+1 |
 
-|
+type Velpeau ® |
 
-Coussin hémostatique
+Bande auto-adhésive (10 cm) |
 
-|
+rouleau de 4 m |
 
-unité
+1 |
 
-|
+type Coheban ® |
 
-1
+Bande de gaze tubulaire avec applicateur |
 
-|
+rouleau 5 m |
 
-Type CHUT (1)
+1 |
 
-|
+pour pansement de doigt |
 
-Sparadrap
+Sparadrap |
 
-|
+rouleau |
 
-rouleau
+1 |
 
 |
-
-1
 
-|
+Tulle gras (10 cm × 10 cm) |
 
-|
+boîte de 10 |
 
-Sutures cutanées adhésives (6 x 75 mm)
+1 |
 
 |
 
-pochette de 3
+Compresses hydrogel 40 cm × 55 cm |
 
-|
+unité |
 
-2
+1 |
 
-|
+type BurnAid ® |
 
-|
+Compresses hydrogel 20 cm × 20 cm |
 
-Gants d'examen, non stériles
+unité |
 
-|
+1 |
 
-boîte de 100
+type BurnAid ® |
 
-|
+Sutures cutanées adhésives (6 mm × 75 mm) |
 
-1
+pochette
 
-|
+de 3 |
 
-Taille M et L
+1 |
 
 |
 
-3) Instruments
+3. Instruments |
 
-|
+Ciseaux universels |
 
-|
+unité |
 
-|
+1 |
 
-|
+type Jesko ® |
 
-Ciseaux fort de lingère
+Pince hémostatique à griffes |
 
-|
+unité |
 
-unité
+1 |
 
-|
+type " Halstead " |
 
-1
+Set Hémorragie comprenant :
 
-|
+-Garrot Tourniquet
 
-|
+-Pansement compressif
 
-4) Matériel médical général
+-Bande granulés hémostatiques |
 
-|
+unité |
 
-|
+1 |
 
-|
+set type 4BC ®
 
-|
+bande type Chito-SAM ® |
 
-Couverture de survie
+4. Matériel d'examen et de surveillance médicale |
 
-|
+Thermomètre médical digital |
 
-unité
+unité |
 
-|
+1 |
 
-2
+à utilisation axillaire, buccale et rectale |
 
-|
+5. Matériel médical général |
 
-Usage unique
+Gel antiseptique hydroalcoolique pour la peau saine |
 
-|
+flacon 100 ml |
 
-Bon de commande pré-imprimé dotation C
+1 |
 
-|
+pour antisepsie des mains |
 
-unité
+Couverture de survie |
 
-|
+unité |
 
-10
+2 |
 
-|
+usage unique |
 
-(nouveau matériel)
+Gants d'examen non stériles |
 
-|
+boîte de 100 |
 
-5) Matériel d'immobilisation et de contention
+1 |
 
-|
+taille M et L |
 
-|
+Sac en plastique |
 
-|
+unité |
 
-|
+1 |
 
-Attelle en aluminium malléable pour doigt
+petite dimension pour conservation dans la glace de pièces anatomiques d'amputation |
 
-|
+6. Matériel d'immobilisation et de contention |
 
-unité
+Attelle aluminium malléable polyvalente |
 
-|
+unité |
 
-1
+1 |
 
-|
+type SAM Split membre supérieur et membre inférieur |
 
-|
+7. Documentation |
 
-Attelle/orthèse rigide de poignet/main
+Registre de médicaments |
 
-|
+unité |
 
-unité
+1 |
 
 |
 
-1
+Bon de commande pré-imprimé Dotation C |
 
-|
+unité |
 
-Type Axmed (1) ou Lepine (1)
+1 |
 
 |
 
-Echarpe de contention et d'immobilisation (épaule-bras)
+Guide des spécialités pharmaceutiques |
 
-|
-
-unité
+unité |
 
-|
+1 |
 
-1
+Fiches des produits |
 
-|
+Fiche d'observation médicale |
 
-(modèle bilatéral)
+unité |
 
-Type Axmed (1)
+1 |
 
-|
+pour téléconsultation |
 
 .
+
+DOTATION C restreinte
+
+Pour les navires ne s'éloignant pas à plus de 20 milles marins des côtes et restant moins de 24 heures à la mer
+
+Médicaments
+
+Dénomination commune internationale |
+
+Voie d'administration |
+
+Forme composition |
+
+Quantité |
+
+Liste |
+
+1. Cardiologie |
+
+Acetylsalicylate de lysine |
+
+orale |
+
+sachet 300 mg |
+
+20 |
+
+|
+
+Trinitrine |
+
+sublinguale |
+
+flacon pulvérisation
+
+0,15 mg/ dose |
+
+1 |
+
+II |
+
+2. Gastro-Entérologie |
+
+Lopéramide |
+
+orale |
+
+lyophilisat oral 2 mg |
+
+10 |
+
+|
+
+3. Antalgiques-Antipyrétiques |
+
+Paracétamol |
+
+sublinguale |
+
+lyophilisat oral 500 mg |
+
+16 |
+
+|
+
+Tramadol |
+
+orale |
+
+comprimé orodispersible
+
+50 mg |
+
+10 |
+
+I |
+
+4. Dermatologie |
+
+Chlorhexidine |
+
+locale |
+
+solution aqueuse 0,2 % unidose 5ml |
+
+16 |
+
+|
+
+Vaseline stérilisée |
+
+locale |
+
+pommade-tube 20g |
+
+1 |
+
+|
+
+5. Ophtalmologie |
+
+Acide Borique
+
+Borate de Sodium |
+
+oculaire |
+
+collyre 18 mg/100 ml
+
+unidose 10 ml |
+
+16 |
+
+|
+
+Matériel médical, objets de pansement
+
+Article |
+
+Présentation |
+
+Quantité |
+
+Remarques |
+
+1. Matériel de réanimation |
+
+Masque protecteur pour ventilation bouche à bouche |
+
+Unité
+
+(film plastique et valve unidirectionnelle) |
+
+1 |
+
+type Ambu LifeKey ® |
+
+Canule oro-pharyngée (taille 4) |
+
+unité |
+
+1 |
+
+type Guedel ® |
+
+2. Pansements et matériel de suture |
+
+Bande de crêpe (10 cm) |
+
+rouleau 4 m |
+
+1 |
+
+type Velpeau ® |
+
+Bande auto-adhésive
+
+(10 cm) |
+
+rouleau 4 m |
+
+1 |
+
+type Coheban ® |
+
+Compresses de gaze stériles |
+
+paquet de 5 |
+
+4 |
+
+taille moyenne |
+
+Pansement adhésif stérile étanche |
+
+boîte |
+
+2 |
+
+assortiment 3 tailles |
+
+Pansement absorbant stérile (15 cm x 20 cm) |
+
+unité |
+
+2 |
+
+type américain |
+
+Coussin hémostatique |
+
+unité |
+
+1 |
+
+type CHUT ® |
+
+Sparadrap |
+
+rouleau |
+
+1 |
+
+|
+
+Sutures cutanées adhésives (6 x 75 mm) |
+
+pochette de 3 |
+
+1 |
+
+|
+
+Gants d'examen, non stériles |
+
+boîte de 100 |
+
+1 |
+
+taille M et L |
+
+Gel antiseptique hydroalcoolique pour la peau saine |
+
+flacon de 75 ml |
+
+1 |
+
+|
+
+3. Instruments |
+
+Ciseaux universels |
+
+unité |
+
+1 |
+
+type Jesco ® |
+
+4. Matériel médical général |
+
+Couverture de survie |
+
+unité |
+
+2 |
+
+usage unique |
+
+5. Documentation |
+
+Bon de commande
+
+pré-imprimé Dotation C |
+
+unité |
+
+1 |
+
+|
+
+Registre des médicaments |
+
+unité |
+
+1 |
+
+|
+
+Guide des spécialités pharmaceutiques |
+
+|
+
+1 |
+
+fiches des produits |
+
+Fiche d'observation médicale |
+
+unité |
+
+1 |
+
+pour téléconsultation |

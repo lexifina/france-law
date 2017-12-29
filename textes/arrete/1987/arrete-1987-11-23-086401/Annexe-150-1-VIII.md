@@ -1,31 +1,63 @@
 # Article Annexe 150-1.VIII
 
-Dispositions concernant le refus d'acces aux ports et mouillages
+CRITÈRES MINIMAUX POUR LES INSPECTEURS
 
-1. Le chef du centre de sécurité des navires du port d'inspection ou, le cas échéant, celui du port de réparation désigné rend compte au ministère chargé de la mer s'il a connaissance que l'un des navires remplit les conditions visées au paragraphe 150-1.16, point 1, et 150-1.21, point 4.
+(visés à l'article 150-1.22, § 1)
 
-Lorsque les conditions décrites à l'article 150-1.16, paragraphe 1, sont réunies, l'inspecteur du port dans lequel le navire est immobilisé pour la troisième fois informe par écrit le capitaine du navire qu'une mesure de refus d'accès sera prononcée, qui deviendra effective aussitôt que le navire aura quitté le port. La mesure de refus d'accès devient effective aussitôt que le navire a quitté le port après rectification des anomalies ayant causé l'immobilisation.
+1. Tout officier ou inspecteur des affaires maritimes, tout autre agent de l'Etat affecté dans un centre de sécurité des navires exerçant les fonctions d'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ne peut être qualifié pour les visites au titre du contrôle par l'Etat du port que s'il justifie en outre d'une des formations préalables suivantes :
 
-2. Le ministère chargé de la mer transmet une copie de la mesure de refus d'accès à l'administration de l'Etat du pavillon, à l'organisme agréé concerné, aux autres Etats membres et aux autres signataires du mémorandum d'entente de Paris, à la Commission et au secrétariat du mémorandum d'entente de Paris. Le ministère chargé de la mer met également à jour la base de données des inspections en y ajoutant immédiatement les informations relatives au refus d'accès.
+A. - Soit :
 
-3. Afin d'obtenir la levée de la mesure de refus d'accès, le propriétaire ou l'exploitant doit adresser une demande formelle au ministre chargé de la mer. Cette demande doit être accompagnée d'un document de l'administration de l'Etat du pavillon délivré à la suite d'une visite effectuée à bord par un inspecteur dûment habilité par l'administration de l'Etat du pavillon, certifiant que le navire est pleinement conforme aux dispositions applicables des conventions. L'administration de l'Etat du pavillon apporte au ministre chargé de la mer la preuve qu'une visite a été effectuée à bord.
+1. Avoir exercé pendant un an au moins les fonctions d'inspecteur dans un centre de sécurité des navires et :
 
-4. La demande de levée de la mesure de refus d'accès doit également être accompagnée, le cas échéant, d'un document de la société de classification au sein de laquelle le navire est classé, établi à la suite d'une visite effectuée à bord par un inspecteur de la société de classification, certifiant que le navire est conforme aux normes de classification spécifiées par ladite société. La société de classification apporte au ministère chargé de la mer la preuve qu'une visite a été effectuée à bord.
+1.1. Ayant exercé en mer, pendant cinq ans au moins, les fonctions d'officier du service "pont" ou du service "machines", selon le cas, être titulaire d'un des titres ci-dessous :
 
-5. La mesure de refus d'accès ne peut être levée qu'au terme du délai visé à l'article 150-1.16 de la présente division et à la suite d'une nouvelle inspection du navire dans un port ayant fait l'objet d'un accord.
+- capitaine au long cours ;
 
-Si le port ayant fait l'objet d'un accord est situé dans un Etat membre, l'autorité compétente de cet Etat peut, à la demande de l'autorité compétente qui a arrêté la mesure de refus d'accès, autoriser le navire à entrer dans ledit port pour faire l'objet d'une nouvelle inspection. Dans ce cas, aucune opération n'est effectuée sur la cargaison dans le port tant que la mesure de refus d'accès n'est pas levée.
+- capitaine de la marine marchande ;
 
-6. Si l'immobilisation qui a donné lieu à la mesure de refus d'accès résultait d'anomalies structurelles du navire, l'autorité compétente qui a arrêté la mesure de refus d'accès peut exiger que certains espaces, notamment les espaces à cargaison et les citernes, puissent être examinés dans le cadre de la nouvelle inspection.
+- capitaine côtier ;
 
-7. La nouvelle inspection est effectuée par l'autorité compétente de l'Etat membre qui a arrêté la mesure de refus d'accès ou par l'autorité compétente du port de destination avec le consentement de l'autorité compétente de l'Etat membre qui a arrêté la mesure de refus d'accès. L'autorité compétente peut demander un préavis maximal de quatorze jours pour la nouvelle inspection. La preuve est apportée, à la satisfaction de cet Etat membre, que le navire respecte pleinement les dispositions applicables des conventions.
+- officier mécanicien de 1re classe ;
 
-8. La nouvelle inspection est une inspection renforcée qui doit porter au moins sur les éléments à prendre en compte qui sont énumérés à l'annexe 150-1.VII.
+- officier mécanicien de 2e classe ; ou
 
-9. Tous les coûts de cette inspection renforcée sont supportés par le propriétaire ou l'exploitant du navire.
+1.2. Ayant exercé en mer, alternativement et pendant cinq ans au moins, les fonctions d'officier du service :
 
-10. Si les résultats de l'inspection renforcée donnent satisfaction à l'Etat membre conformément à l'annexe 150-1.VII, la mesure de refus d'accès est levée et la compagnie du navire en est informée par écrit.
+"pont" et du service "machines", être titulaire d'un des titres ci-dessous :
 
-11. Le ministère des transports informe également de sa décision, par écrit, l'administration de l'Etat du pavillon, la société de classification concernée, les autres Etats membres, les autres signataires du mémorandum d'entente de Paris, la Commission et le secrétariat du mémorandum d'entente de Paris. Le ministère chargé des transports doit également mettre à jour la base de données des inspections en y ajoutant immédiatement les informations relatives à la levée du refus d'accès.
+- capitaine de 1re classe de la navigation maritime ;
 
-12. Les informations relatives aux navires auxquels l'accès aux ports dans les Etats membres de l'Union européenne a été refusé doivent être rendues disponibles dans la base de données des inspections et publiées conformément aux dispositions de l'article 26 et de l'annexe XIII de la directive n° 2009/16/CE.
+- capitaine de 2e classe de la navigation maritime ;
+
+- diplôme d'études supérieures de la marine marchande ; ou
+
+2. Etre titulaire d'un diplôme d'ingénieur mécanicien ou d'ingénieur dans le domaine maritime ou être architecte naval en matière de navires de commerce, et avoir une ancienneté d'au moins cinq ans dans une de ces fonctions.
+
+B. - Soit :
+
+Avoir exercé pendant un an au moins les fonctions d'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes dans un service de sécurité des navires et être titulaire d'un diplôme universitaire pertinent ou avoir suivi une formation équivalente, et avoir suivi une formation dans une école d'inspecteurs de la sécurité des navires et avoir un titre de cette école.
+
+C. - Soit :
+
+Avoir été affecté dans un service de sécurité des navires avant le 19 juin 1995.
+
+2. L'inspecteur qualifié doit pouvoir communiquer oralement et par écrit avec les gens de mer dans la langue parlée le plus communément en mer.
+
+3. L'inspecteur qualifié doit posséder une connaissance appropriée des dispositions des conventions internationales et des procédures pertinentes relatives au contrôle exercé par l'Etat du port et avoir effectué dix inspections au cours des deux dernières années.
+
+4.1. L'inspecteur qualifié reçoit une "carte d'identité d'inspecteur agissant dans le cadre des contrôles par l'Etat du port" après instruction par le directeur interrégional de la mer dont dépend le lieu d'affectation de l'inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes au moment de la demande.
+
+4.2. La carte d'identité contient les informations suivantes :
+
+a) Le nom du titulaire de la carte ;
+
+b) Une photo d'identité récente du titulaire de la carte ;
+
+c) La signature du titulaire de la carte ;
+
+d) Un texte indiquant que le titulaire est autorisé à effectuer les inspections au titre du contrôle par l'Etat du port.
+
+Les mentions portées sur la carte figurent en français et en anglais.
+
+5. En outre, les inspecteurs exerçant des inspections des navires dans le cadre du mémorandum d'entente de Paris doivent être qualifiés et doivent maintenir leur qualification conformément aux dispositions du mémorandum d'entente de Paris.

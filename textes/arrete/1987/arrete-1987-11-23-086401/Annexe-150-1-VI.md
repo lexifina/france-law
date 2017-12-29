@@ -1,45 +1,31 @@
 # Article Annexe 150-1.VI
 
-PROCÉDURES POUR LE CONTRÔLE DES NAVIRES
+Dispositions concernant le refus d'acces aux ports et mouillages
 
-(visés à l'article 150-1.15, §1)
+1. Le chef du centre de sécurité des navires du port d'inspection ou, le cas échéant, celui du port de réparation désigné rend compte au ministère chargé de la mer s'il a connaissance que l'un des navires remplit les conditions visées au paragraphe 150-1.16, point 1, et 150-1.21, point 4.
 
-1. Annexes du protocole d'entente du mémorandum d'entente de Paris.
+Lorsque les conditions décrites à l'article 150-1.16, paragraphe 1, sont réunies, l'inspecteur du port dans lequel le navire est immobilisé pour la troisième fois informe par écrit le capitaine du navire qu'une mesure de refus d'accès sera prononcée, qui deviendra effective aussitôt que le navire aura quitté le port. La mesure de refus d'accès devient effective aussitôt que le navire a quitté le port après rectification des anomalies ayant causé l'immobilisation.
 
-2. Instructions ci-après du mémorandum d'entente de Paris, dans leur version actualisée :
+2. Le ministère chargé de la mer transmet une copie de la mesure de refus d'accès à l'administration de l'Etat du pavillon, à l'organisme agréé concerné, aux autres Etats membres et aux autres signataires du mémorandum d'entente de Paris, à la Commission et au secrétariat du mémorandum d'entente de Paris. Le ministère chargé de la mer met également à jour la base de données des inspections en y ajoutant immédiatement les informations relatives au refus d'accès.
 
-Annexe 1. "Directives pour les inspecteurs du contrôle par l'Etat du port" du mémorandum d'entente de Paris, et instructions ci-après du mémorandum d'entente de Paris, dans leur version actualisée :
+3. Afin d'obtenir la levée de la mesure de refus d'accès, le propriétaire ou l'exploitant doit adresser une demande formelle au ministre chargé de la mer. Cette demande doit être accompagnée d'un document de l'administration de l'Etat du pavillon délivré à la suite d'une visite effectuée à bord par un inspecteur dûment habilité par l'administration de l'Etat du pavillon, certifiant que le navire est pleinement conforme aux dispositions applicables des conventions. L'administration de l'Etat du pavillon apporte au ministre chargé de la mer la preuve qu'une visite a été effectuée à bord.
 
-- instruction 33/2000/02 : Operational Control on Ferries and Passenger Ships (instruction 33/2000/02 : Contrôle opérationnel des transbordeurs et navires à passagers) ;
+4. La demande de levée de la mesure de refus d'accès doit également être accompagnée, le cas échéant, d'un document de la société de classification au sein de laquelle le navire est classé, établi à la suite d'une visite effectuée à bord par un inspecteur de la société de classification, certifiant que le navire est conforme aux normes de classification spécifiées par ladite société. La société de classification apporte au ministère chargé de la mer la preuve qu'une visite a été effectuée à bord.
 
-- instruction 35/2002/02 : Guidelines for PSCOs on Electronic Charts (instruction 35/2002/02 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant les cartes électroniques) ;
+5. La mesure de refus d'accès ne peut être levée qu'au terme du délai visé à l'article 150-1.16 de la présente division et à la suite d'une nouvelle inspection du navire dans un port ayant fait l'objet d'un accord.
 
-- instruction 36/2003/08 : Guidance for Inspection on Working and Living Conditions (instruction 36/2003/08 : Directives pour l'inspection portant sur les conditions de vie et de travail) ;
+Si le port ayant fait l'objet d'un accord est situé dans un Etat membre, l'autorité compétente de cet Etat peut, à la demande de l'autorité compétente qui a arrêté la mesure de refus d'accès, autoriser le navire à entrer dans ledit port pour faire l'objet d'une nouvelle inspection. Dans ce cas, aucune opération n'est effectuée sur la cargaison dans le port tant que la mesure de refus d'accès n'est pas levée.
 
-- instruction 37/2004/02 : Guidelines in Compliance with STCW 78/95 Convention as Amended (instruction 37/2004/02 : Orientations en conformité avec la convention STCW 78/95, telle que modifiée) ;
+6. Si l'immobilisation qui a donné lieu à la mesure de refus d'accès résultait d'anomalies structurelles du navire, l'autorité compétente qui a arrêté la mesure de refus d'accès peut exiger que certains espaces, notamment les espaces à cargaison et les citernes, puissent être examinés dans le cadre de la nouvelle inspection.
 
-- instruction 37/2004/05 : Guidelines on the Inspection of Hours of Work/Rest (instruction 37/2004/05 : Directives pour l'inspection portant sur les heures de travail et de repos) ;
+7. La nouvelle inspection est effectuée par l'autorité compétente de l'Etat membre qui a arrêté la mesure de refus d'accès ou par l'autorité compétente du port de destination avec le consentement de l'autorité compétente de l'Etat membre qui a arrêté la mesure de refus d'accès. L'autorité compétente peut demander un préavis maximal de quatorze jours pour la nouvelle inspection. La preuve est apportée, à la satisfaction de cet Etat membre, que le navire respecte pleinement les dispositions applicables des conventions.
 
-- instruction 37/2004/10 : Guidelines for Port State Control Officers on Security Aspects (instruction 37/2004/10 : Directives pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant les aspects liés à la sécurité) ;
+8. La nouvelle inspection est une inspection renforcée qui doit porter au moins sur les éléments à prendre en compte qui sont énumérés à l'annexe 150-1.VII.
 
-- instruction 38/2005/02 : Guidelines for PSCOs Checking a Voyage Data Recorder (VDR) [instruction 38/2005/02 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant la vérification de l'enregistreur des données du voyage (VDR)] ;
+9. Tous les coûts de cette inspection renforcée sont supportés par le propriétaire ou l'exploitant du navire.
 
-- instruction 38/2005/05 : Guidelines on Marpol 73/78 Annex I (instruction 38/2005/05 : Orientations relatives à la convention Marpol 73/78, annexe I) ;
+10. Si les résultats de l'inspection renforcée donnent satisfaction à l'Etat membre conformément à l'annexe 150-1.VII, la mesure de refus d'accès est levée et la compagnie du navire en est informée par écrit.
 
-- instruction 38/2005/07 : Guidelines on Control of the Condition Assessment Scheme (CAS) of Single Hull Oil Tankers [instruction 38/2005/07 : Orientations relatives au contrôle du système d'évaluation de l'état du navire (CAS) pour les pétroliers à simple coque] ;
+11. Le ministère des transports informe également de sa décision, par écrit, l'administration de l'Etat du pavillon, la société de classification concernée, les autres Etats membres, les autres signataires du mémorandum d'entente de Paris, la Commission et le secrétariat du mémorandum d'entente de Paris. Le ministère chargé des transports doit également mettre à jour la base de données des inspections en y ajoutant immédiatement les informations relatives à la levée du refus d'accès.
 
-- instruction 39/2006/01 : Guidelines for the Port State Control Officer on the ISM-Code (instruction 39/2006/01 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant le code ISM) ;
-
-- instruction 39/2006/02 : Guidelines for Port State Control Officers on Control of GMDSS (instruction 39/2006/02 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant le contrôle du SMDSM) ;
-
-- instruction 39/2006/03 : Optimisation of Banning and Notification Checklist (instruction 39/2006/03 : Optimisation de la liste de contrôle pour la notification et le bannissement) ;
-
-- instruction 39/2006/10 : Guidelines for PSCOs for the Examination of Ballast Tanks and Main Power Failure Simulation (black-out test) [instruction 39/2006/10 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant l'examen des citernes à ballast et la simulation d'une panne d'alimentation (test de la panne générale d'électricité)] ;
-
-- instruction 39/2006/11 : Guidance for Checking the Structure of Bulk Carriers (instruction 39/2006/11 : Directives concernant la vérification de la structure des vraquiers) ;
-
-- instruction 39/2006/12 : Code of Good Practice for Port State Control Officers (instruction 39/2006/12 : Code de bonne pratique pour les inspecteurs chargés du contrôle des navires par l'Etat du port) ;
-
-- instruction 40/2007/04 : Criteria for Responsibility Assessment of Recognised Organisations (R/O) (instruction 40/2007/04 : Critères pour l'évaluation de la responsabilité des organismes agréés) ;
-
-- instruction 40/2007/09 : Guidelines for Port State Control Inspections for Compliance with Annex VI of Marpol 73/78 (instruction 40/2007/09 : Orientations pour les inspecteurs chargés du contrôle des navires par l'Etat du port concernant la conformité à l'annexe VI de la convention Marpol 73/78).
+12. Les informations relatives aux navires auxquels l'accès aux ports dans les Etats membres de l'Union européenne a été refusé doivent être rendues disponibles dans la base de données des inspections et publiées conformément aux dispositions de l'article 26 et de l'annexe XIII de la directive n° 2009/16/CE.

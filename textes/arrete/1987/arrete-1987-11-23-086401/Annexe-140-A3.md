@@ -4,7 +4,7 @@ LISTE DES ORGANISMES HABILITÉS ET DE LEURS COMPÉTENCES RESPECTIVES
 
 1. (Supprimé)
 
-2. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.1 :
+2. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311 :
 
 ORGANISMES HABILITÉS |
 
@@ -12,19 +12,19 @@ ORGANISMES HABILITÉS |
 
 Bureau Veritas Marine & Offshore SAS |
 
-- A.1/1Engins de sauvetage à l'exclusion de A.1/1.3, A.1/1.8, A.1/1.9, A.1/1.10 ; A.1/1.11
+- MED/1Engins de sauvetage à l'exclusion de MED/1.3, MED/1.8, MED/1.9, MED/1.10 ; MED/1.11
 
-- A.1/2 Prévention de la pollution marine
+- MED/2 Prévention de la pollution marine
 
-- A.1/3 Protection contre l'incendie à l'exclusion des items A.1/3.3, A.1/3.4, A.1/3.5, A.1/3.6, A.1/3.7, A.1/3.8, A.1/3.41.
+- MED/3 Protection contre l'incendie à l'exclusion des items MED/3.3, MED/3.4, MED/3.5, MED/3.6, MED/3.7, MED/3.8, MED/3.41.
 
-- A.1/4 Equipements de navigation
+- MED/4 Equipements de navigation
 
-- A.1/6 Equipements exigés par la Convention COLREG 72
+- MED/6 Equipements exigés par la Convention COLREG 72
 
-- A.1/8 Equipements relevant de la convention SOLAS Chapitre II-1 |
+- MED/8 Equipements relevant de la convention SOLAS Chapitre II-1 |
 
-3. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.2, ou toute autre division du présent règlement :
+3. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements autres que les équipements marins au nom de l'Etat, visés par la division 310 :
 
 ORGANISMES HABILITÉS
 
@@ -38,21 +38,7 @@ Bureau Veritas Marine & Offshore SAS
 
 |
 
-- A.2/1 Engins de sauvetage.
-
-- A.2/2 Prévention de la pollution marine.
-
-- A.2/3 Protection contre l'incendie.
-
-- A.2/4 Equipements de navigation.
-
-- A.2/5 Equipements de radiocommunication.
-
-- A.2/6 Equipements exigés par la Convention COLREG 72
-
-- A.2/7 Equipements de sécurité des vraquiers
-
-- A.2/8 Equipements relevant de la convention SOLAS Chapitre II-1
+-les équipements pour lesquels l'ensemble des normes requises pour une certification MED n'est pas complète et listés dans le règlement d'exécution de la commission portant indication des exigences de conception, de construction et de performance et des normes d'essai relatives aux équipements marins en vigueur (point 9 du règlement), pour lesquels un référentiel d'essais a été préalablement défini entre l'administration et l'organisme habilité.
 
 - Division 218 : Gestion des eaux de ballast
 

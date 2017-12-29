@@ -4,7 +4,7 @@ MODÈLE D'ATTESTATION D'INTERVENTION D'UNE SOCIÉTÉ DE CLASSIFICATION HABILITÉ
 
 Attestation d'intervention d'une société de classification habilitée
 
-Article 130.32, article 130.33, article 130.34 de la division 130 du règlement
+Articles 31, 32, 33 et 34 de la division 130 du règlement
 
 annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
 
@@ -102,7 +102,7 @@ Coordonnées de l'exploitant du navire
 
 .
 
-Domaines techniques suivis par la société de classification au titre de l'article 130.32
+Domaines techniques couverts par la "première côte" de la société de classification au titre de l'article 130.32
 
 |
 
@@ -218,6 +218,10 @@ Prévention contre l'incendie : ventilation
 
 |
 
+Apparaux de levage |
+
+|
+
 Evacuation
 
 |
@@ -235,6 +239,12 @@ Prévention de la pollution
 |
 
 .
+
+Etudes, inspections, visites et essais réalisés conformément à la résolution OMI A. 1104 (29) au titre de l'article 130.32 |
+
+Evacuation |
+
+Prévention de la pollution |
 
 Navires "délégués"
 
@@ -258,23 +268,19 @@ Etudes et visites réalisées conformément à la division 217
 
 .
 
-APPROBATION DE LA STRUCTURE AU TITRE DE L'ARTICLE 130.33
+Approbation de la structure au titre de l'article 130.33
+
+La structure et l'échantillonnage du navire sont approuvés en tenant compte des éléments suivants : |
+
+Conditions d'exploitations |
 
 |
 
-Caractéristiques de service et de navigation
+Limites de navigation |
 
 |
 
-.
-
-|
-
-Puissance propulsive prise en compte
-
-|
-
-.
+Référence et puissance propulsive |
 
 |
 
