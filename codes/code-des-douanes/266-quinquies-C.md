@@ -36,7 +36,7 @@ Le montant de la taxe dû par les fournisseurs apparaît distinctement, en addit
 
 3° Produite à bord des bateaux ;
 
-4° Produite par de petits producteurs d'électricité qui la consomment pour les besoins de leur activité. Sont considérées comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la production annuelle n'excède pas 240 millions de kilowattheures par site de production. Cette disposition s'applique également à la part, consommée sur le site, de l'électricité produite par les producteurs d'électricité pour lesquels la puissance de production installée sur le site est inférieure à 1 000 kilowatts. Pour les installations de production d'électricité utilisant l'énergie solaire photovoltaïque, la puissance installée s'entend de la puissance crête installée ;
+4° Produite par de petits producteurs d'électricité qui la consomment intégralement pour les besoins de leur activité. Sont considérées comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la production annuelle n'excède pas 240 millions de kilowattheures par site de production. Cette disposition s'applique également à la part, consommée sur le site, de l'électricité produite par les producteurs d'électricité pour lesquels la puissance de production installée sur le site est inférieure à 1 000 kilowatts. Pour les installations de production d'électricité utilisant l'énergie solaire photovoltaïque, la puissance installée s'entend de la puissance crête installée ;
 
 5° (Abrogé).
 
@@ -50,53 +50,41 @@ B.-Le tarif de la taxe est fixé comme suit :
 
 (En euros)
 
-DÉSIGNATION DES PRODUITS
+DÉSIGNATION DES PRODUITS |
 
-|
+UNITÉ DE PERCEPTION |
 
-UNITÉ DE PERCEPTION
+TARIF |
 
-|
+2016 |
 
-TARIF
+2017 |
 
-|
+Electricité |
 
-2016
+Mégawattheure |
 
-|
+22,50 |
 
-2017
-
-|
-
-Electricité
-
-|
-
-Mégawattheure
-
-|
-
-22,50
-
-|
-
-22,50
-
-|
+22,50 |
 
 Le montant de la taxe est arrondi à l'euro le plus proche.
 
 En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en fonction des tarifs proportionnellement au nombre de jours de chaque période.
 
-C.-a. Pour les personnes qui exploitent des installations industrielles électro-intensives au sens où, au niveau de l'entreprise ou de ses sites, le montant de la taxe qui aurait été due en application du B, sans application des exonérations et exemptions, est au moins égal à 0,5 % de la valeur ajoutée, le tarif de la taxe intérieure de consommation applicable aux consommations finales d'électricité effectuées pour leurs besoins est fixé à :
+C.-a. Pour les personnes qui exploitent des installations industrielles situées au sein de sites industriels électro-intensifs ou d'entreprises industrielles électro-intensives, le tarif de la taxe intérieure de consommation applicable aux consommations finales d'électricité effectuées pour les besoins du site industriel électro-intensif ou de l'entreprise industrielle électro-intensive est fixé à :
 
 2 € par mégawattheure, si la consommation du site ou de l'entreprise est strictement supérieure à 3 kilowattheures par euro de valeur ajoutée ;
 
 5 € par mégawattheure, si la consommation du site ou de l'entreprise est comprise entre 1,5 et 3 kilowattheures par euro de valeur ajoutée ;
 
 7,5 € par mégawattheure, si la consommation du site ou de l'entreprise est strictement inférieure à 1,5 kilowattheure par euro de valeur ajoutée.
+
+Pour l'application du présent a :
+
+1° Une installation s'entend de la plus petite division de l'entreprise dont l'exploitation est autonome, compte tenu de l'organisation de cette entreprise ;
+
+2° Un site ou une entreprise est dit électro-intensif lorsque le montant de la taxe qui aurait été due pour ce site ou cette entreprise en application du B, sans application des exonérations et exemptions, est au moins égal à 0,5 % de la valeur ajoutée de ce site ou de cette entreprise.
 
 b. Pour les personnes qui exploitent des installations hyperélectro-intensives, le tarif de la taxe intérieure de consommation applicable aux consommations finales d'électricité effectuées pour les besoins de ces installations est fixé à 0,5 € par mégawattheure.
 
@@ -164,4 +152,4 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article 266 quinquies C tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de ladite loi.
+Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.

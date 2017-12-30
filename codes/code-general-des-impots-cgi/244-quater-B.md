@@ -1,6 +1,6 @@
 # Article 244 quater B
 
-I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un département d'outre-mer.
+I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 sexdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées à compter du 1er janvier 2015 dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses mentionnées au même k exposées, à compter du 1er janvier 2015, dans des exploitations situées dans un département d'outre-mer.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
@@ -131,13 +131,3 @@ III bis.-Les entreprises qui engagent plus de 100 millions d'euros de dépenses 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. – Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
-
-NOTA :
-
-Conformément au II de l'article 66 de la loi n° 2014-1654 du 29 décembre 2014 de finances, ces dispositions entrent en vigueur à compter du 1er janvier 2015 pour les entreprises qui satisfont aux conditions fixées au chapitre Ier et à la section 1 du chapitre III du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité et, pour les autres entreprises, à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. L'article 1er du décret n° 2015-1292 du 15 octobre 2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015.
-
-Modifications effectuées en conséquence des articles 1er-2° et 3-9° de l'ordonnance n° 2014-135 du 17 février 2014.
-
-Conformément à l'article 20 II de la loi n° 2015-1785 du 29 décembre 2015, les dispositions du 7° du d du II du présent article ne s'appliquent qu'aux sommes venant en déduction de l'impôt dû.
-
-Conformément au III de l'article 103 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du 9° du d du II du présent article, dans leur rédaction issue du I du même article de la même loi, ne sont applicables qu'aux sommes venant en déduction de l'impôt dû.

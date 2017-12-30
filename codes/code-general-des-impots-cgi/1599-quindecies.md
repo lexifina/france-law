@@ -1,6 +1,6 @@
 # Article 1599 quindecies
 
-Il est institué au profit des régions et de la collectivité territoriale de Corse une taxe sur les certificats d'immatriculation des véhicules.
+Il est institué au profit des régions une taxe sur les certificats d'immatriculation des véhicules.
 
 Cette taxe est proportionnelle ou fixe, selon les distinctions établies par les articles 1599 sexdecies à 1599 novodecies.
 
@@ -14,4 +14,4 @@ Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un c
 
 La taxe due lors de la délivrance d'un certificat d'immatriculation des séries TT et WW est affectée à la région dans laquelle est effectuée la demande d'immatriculation.
 
-La taxe sur les certificats d'immatriculation des véhicules est assise et recouvrée comme un droit de timbre.
+La taxe est contrôlée et les réclamations sont instruites et jugées comme en matière de droits d'enregistrement. Elle est recouvrée comme en matière de créances étrangères à l'impôt et au domaine.
