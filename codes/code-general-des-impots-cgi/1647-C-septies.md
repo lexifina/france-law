@@ -23,7 +23,3 @@ V. – Si, pendant la période d'application du crédit d'impôt ou dans les cin
 VI. – Les emplois transférés à partir d'un autre établissement de l'entreprise situé dans une zone autre que celles visées au 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée n'ouvrent pas droit au crédit d'impôt.
 
 VII. – Le bénéfice du crédit d'impôt est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
-
-NOTA :
-
-Conformément au II de l'article 43 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à compter des impositions établies au titre de 2017.
