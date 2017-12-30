@@ -271,3 +271,147 @@ Les congés déposés avant J-D1 seront automatiquement acceptés dans le respec
 Les congés déposés après J-D1seront validés par le service sous réserve que des solutions soient trouvées pour que l'offre de capacité réponde au besoin. |
 
 * UCESO : Unité de contrôle d'espace simultanément ouvrable. |
+
+.
+
+Pour chacun des organismes des groupes C et D listés ci-dessous, les critères de conformité à l'option 3 sont définis ci-après. Pour que l'option 3 soit satisfaite, l'ensemble des critères doivent être respectés.
+
+Critères pour l'organisme Pyrénées :
+
+|
+
+OPTION 3 |
+
+|
+
+Minimum |
+
+Maximum |
+
+Planification du cycle de travail |
+
+|
+
+|
+
+Temps de travail hebdomadaire moyenné sur le cycle (hors vacation complémentaire) |
+
+|
+
+36 h |
+
+Durée d'une pause (entre 05 h 00 et 24 h 00) |
+
+0 h 30 |
+
+1 h 00 |
+
+Moyens |
+
+|
+
+|
+
+A offre de contrôle équivalente : diminution du nombre de groupes de secteurs de contrôle de l'organisme (grâce aux qualifications croisées) |
+
+-25 % |
+
+|
+
+A offre de contrôle équivalente : diminution du nombre de secteurs de contrôle (au prorata de la durée d'ouverture effective) grâce aux qualifications croisées |
+
+-11,2 % |
+
+|
+
+Taux de contrôleurs bi qualifiés au 01/01/2017 |
+
+71 % |
+
+|
+
+Taux de contrôleurs bi qualifiés au 01/01/2018 |
+
+85 % |
+
+|
+
+Temps de trajet entre les deux sites (non pris en compte dans le temps de travail) par rapport à la durée de travail |
+
+5,1 % |
+
+|
+
+Performance |
+
+|
+
+|
+
+Augmentation de productivité |
+
+16,3 % |
+
+|
+
+Critères pour l'organisme de Cayenne :
+
+|
+
+Option 3 |
+
+|
+
+Minimum |
+
+Maximum |
+
+Planification du cycle de travail |
+
+|
+
+|
+
+Temps de travail hebdomadaire moyenné sur le cycle (hors vacation complémentaire) |
+
+|
+
+36 h |
+
+Durée d'une pause (entre 05 h 00 et 24 h 00) |
+
+0 h 30 |
+
+1 h 00 |
+
+Moyens |
+
+|
+
+|
+
+Temps de travail moyen de nuit par rapport au temps de travail total |
+
+33,13 % |
+
+39,52 % |
+
+Taux de contrôleurs multiqualifiés (par rapport aux contrôleurs qualifiés) |
+
+100 % |
+
+|
+
+Performance |
+
+|
+
+|
+
+A offre de contrôle équivalente, gain de productivité lié à la multi qualification tour-approche-en route et au travail de nuit |
+
+15 % |
+
+20 % |
+
+.
