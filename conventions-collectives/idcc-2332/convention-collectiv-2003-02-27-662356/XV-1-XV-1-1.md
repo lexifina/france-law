@@ -1,17 +1,35 @@
 # Article XV.1,  XV.1.1
 
-La commission paritaire nationale de la négociation collective (CPNNC) est chargée dans le cadre national des missions suivantes :
+Missions
 
-- interpréter à la demande les textes de la convention collective nationale ;
+La commission paritaire permanente de négociation et d'interprétation (CPPNI) exerce les missions d'intérêt général suivantes :
 
-- proposer et rédiger des avenants à la présente convention collective sur proposition du collège employeur ou salarié ;
+–   elle représente de la branche professionnelle des entreprises d'architecture, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
 
-- suivre les négociations des valeurs de point et fixer la valeur du point applicable pour un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau territorial.
+–   elle exerce un rôle de veille sur les conditions de travail et d'emploi dans la branche ;
 
-La composition est la suivante :
+–   elle établit un rapport d'activité qu'elle verse dans la base de données nationale prévue au code du travail.
 
-- collège employeur : 10 représentants maximum à répartir entre les organisations syndicales d'employeurs représentatives au plan national ;
+Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du code du travail, en particulier l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées ;
 
-- collège salarié : 10 représentants désignés à raison de 2 membres pour chaque organisation syndicale de salariés représentative au plan national.
+–   elle rend un avis à la demande d'une juridiction sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche, dans les conditions mentionnées à l'article L. 144-1 du code de l'organisation judiciaire ;
+
+–   elle rend un avis à la demande d'une organisation syndicale ou patronale, saisie par un salarié ou une entreprise de la branche, sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche ;
+
+–   elle exerce les missions de l'observatoire paritaire de la négociation collective mentionnées à l'article L. 2232-10 du code du travail ;
+
+–   sur proposition du collège employeur ou salarié elle rédige et négocie des avenants à la convention collective nationale et des accords sur tous les thèmes qui relèvent de son champ de compétence et a minima tous les thèmes qui constituent son ordre public conventionnel (la prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'article L. 4161-1 du code du travail, l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés, l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical). La CPPNI s'engage à ouvrir rapidement une négociation sur des thèmes complémentaires ;
+
+–   elle suit les négociations de valeurs de points et fixe la valeur du point applicable sur un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau territorial.
+
+Composition
+
+La CPPNI est composée de deux collèges, un collège employeurs et un collège salariés.
+
+Chaque collège comporte a minima dix sièges, à parité égale. Chaque organisation syndicale de salariés et d'employeurs représentative dans la branche dispose au minimum d'un siège.
+
+La composition de la CPPNI est déterminée par un accord de répartition des sièges propre à chacun des collèges, à l'issue des mesures de représentativité au sein des collèges salariés et employeurs.
+
+Ces accords de répartition des sièges entérinent la représentation de chaque organisation et fixent la répartition des sièges décidée au sein de chaque collège.
 
 Chaque représentant employeur ou salarié doit pouvoir justifier de la validité de son mandat lors de ces réunions.
