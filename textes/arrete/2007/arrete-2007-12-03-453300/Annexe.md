@@ -8,7 +8,7 @@ Le tribunal de première instance, la juridiction de proximité.
 
 Les juridictions des mineurs.
 
-Le tribunal du travail.
+Le conseil de prud'hommes.
 
 La chambre d'appel de Mamoudzou.
 
@@ -74,11 +74,11 @@ Les voies de recours extraordinaires.
 
 Les procédures d'exécution.
 
-Procédure applicable devant le tribunal du travail de Mayotte
+Procédure applicable devant le conseil de prud'hommes de Mayotte
 
 La compétence d'attribution et la compétence territoriale.
 
-La saisine du tribunal du travail.
+La saisine du conseil de prud'hommes.
 
 L'assistance et la représentation des parties.
 
