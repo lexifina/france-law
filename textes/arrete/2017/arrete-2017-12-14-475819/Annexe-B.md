@@ -1,6 +1,4 @@
-# Article LEGIARTI000035424511
-
-ANNEXE B
+# Article Annexe B
 
 LISTE DES TRANSPORTEURS AÉRIENS FAISANT L'OBJET DE RESTRICTIONS D'EXPLOITATION AU SEIN DE L'UNION EUROPÉENNE
 
@@ -8,9 +6,9 @@ LISTE DES TRANSPORTEURS AÉRIENS FAISANT L'OBJET DE RESTRICTIONS D'EXPLOITATION 
 
 NOM
 
-du transporteur aerien (1) |
+du transporteur aérien (1) |
 
-ETAT
+ÉTAT
 
 de l'exploitant |
 
@@ -20,7 +18,9 @@ de la compagnie |
 
 TYPE D'APPAREIL
 
-faisant l'objet de la restriction |
+faisant l'objet
+
+de la restriction |
 
 IMMATRICULATION
 
@@ -100,4 +100,4 @@ Toute la flotte sauf : P-632 et P-633. |
 
 (1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un appareil avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
-(2) Afrijet n'est autorisé à utiliser que les appareils spécifiquement mentionnés pour son niveau actuel d'activités dans l'Union européenne. |
+(2) Afrijet n'est autorisé à utiliser que les appareils spécifiquement mentionnés pour son niveau actuel d'activités dans l'Union Européenne. |
