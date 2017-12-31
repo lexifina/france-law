@@ -342,6 +342,8 @@ X |
 
 X |
 
+Pour les navires armés au commerce et à la plaisance, voir également le tableau IX
+
 Tableau II. - Titres permettant d'exercer des fonctions au pont sur des navires armés à la plaisance
 
 Tableau II.a. Titres permettant d'exercer des fonctions au pont sur des navires à propulsion mécanique armés à la plaisance
@@ -533,6 +535,8 @@ X1 |
 X1 |
 
 X1 |
+
+Pour les navires armés au commerce et à la plaisance, voir également le tableau IX
 
 1 Sous réserve de remplir les conditions de formation et de service en mer fixées par arrêté du ministre chargé de la mer.
 
@@ -1488,7 +1492,7 @@ Titres |
 
 Certificat de mécanicien |
 
-X4 |
+X(4) |
 
 |
 
@@ -1516,7 +1520,7 @@ X |
 
 X |
 
-4 Les brevets mentionnés dans le tableau IV permettent également d'exercer les prérogatives associées au certificat de mécanicien à bord des navires armés au commerce, à la plaisance et à la pêche.
+(4) Les brevets mentionnés dans le tableau IV permettent également d'exercer les prérogatives associées au certificat de mécanicien à bord des navires armés au commerce, à la plaisance et à la pêche.
 
 Tableau VIII. - Titres permettant d'exercer des fonctions sur des navires armés aux cultures marines
 
@@ -1683,3 +1687,37 @@ X |
 X |
 
 (1) Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de matelot à bord des navires armés aux cultures marines et des fonctions de patron à bord des navires de moins de 9 mètres armés aux cultures marines en 4e ou 5e catégorie de navigation sauf pour l'outre-mer où la limite est portée à 12 milles des côtes.
+
+Tableau IX.-Titres permettant l'exercice de prérogatives à bord de certains navires armés au commerce et à la plaisance
+
+Titres/ Prérogatives |
+
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 2 milles du point de départ ne transportant aucun passager-Puissance propulsive inférieure à 250 kW |
+
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ et transportant au plus 12 passagers-Puissance propulsive inférieure à 250 kW |
+
+Capitaine ou matelot de navires à voile de longueur inférieure à 12 mètres effectuant une navigation diurne à moins de 6 milles d'un abri et transportant au plus 12 passagers |
+
+Brevet restreint d'aptitude à la conduite de petits navires |
+
+× |
+
+|
+
+|
+
+Brevet d'aptitude à la conduite de petits navires |
+
+× |
+
+× |
+
+|
+
+Brevet d'aptitude à la conduite de petits navires à voile |
+
+× |
+
+× |
+
+× |

@@ -86,6 +86,12 @@ LISTE DES TITRES DE FORMATION PROFESSIONNELLE MARITIMES
 
 3° Les certificats et brevets polyvalents sur les navires armés au commerce, à la plaisance, à la pêche et aux cultures marines sont les suivants :
 
+- brevet restreint d'aptitude à la conduite de petits navires
+
+- brevet d'aptitude à la conduite de petits navires
+
+- brevet d'aptitude à la conduite de petits navires à voile
+
 - certificat d'aptitude au commandement à la petite pêche
 
 - brevet de capitaine 200
