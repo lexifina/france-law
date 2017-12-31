@@ -1,0 +1,9 @@
+# Décision DF-2017-2929 autorisant la société BUI à transférer des données à caractère personnel vers les pays dans lesquels sont implantées les filiales du Groupe aux fins de saisie des données liées à la gestion des commandes clients(demande d’autorisation n°2115280v0)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2017-2929
+- Date : 2017-12-31
+- Publication : 2018-04-05
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000036747356
