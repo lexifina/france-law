@@ -1,0 +1,9 @@
+# Décision DF-2017-2530 autorisant la société HVM PIZZA à transférer des données à caractère personnel vers l’Australie et les Etats-Unis aux fins de support informatique dans le cadre de la gestion des ressources humaines (demande d’autorisation n°2088887v0)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2017-2530
+- Date : 2017-12-31
+- Publication : 2017-11-04
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000035946004
