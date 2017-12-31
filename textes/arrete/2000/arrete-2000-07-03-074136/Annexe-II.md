@@ -56,7 +56,7 @@ SNIFI/ EFI, Agence Abidos, 64170 Lacq, de 1968 à 1975 ;
 
 Société d'étude de la propulsion par réaction (SEPR), Les Cinq-Chemins, 33187 Le Haillan Cedex, de 1964 à 1969 ;
 
-Société générale de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1960 à 1973 ; Société européenne de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1973 à 1975 ;
+Société générale de produits réfractaire, rue Beausoleil, BP 2, 47500 Monsempron-Libos, de 1960 à 1973 ; Société européenne de produits réfractaires, rue Beausoleil, BP 2, 47500 Monsempron-Libos, de 1973 à 1981 ; Lafarge Réfractaire, rue Beausoleil, BP 2, 47500 Monsempron-Libos, de 1981 à 1987 ; S.A. La Briqueterie Thermiques Européenne (C.T.E.), rue Beausoleil, BP 2, 47500 Monsempron-Libos, de 1987 à 1996 ;
 
 Société européenne de propulsion par réaction (SEP), Les Cinq-Chemins, 33187 Le Haillan Cedex, de 1964 à 1992 ;
 
