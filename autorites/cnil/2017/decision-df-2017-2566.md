@@ -1,0 +1,9 @@
+# Décision DF-2017-2566 autorisant la société CARDINAL HEALTH FRANCE 506 à transférer des données à caractère personnel vers les Etats-Unis aux fins de gestion administrative des ressources humaines, de gestion des données en matière d'emploi et d’exploitation des moyens informatiques associés (demande d’autorisation n°1997127v0)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2017-2566
+- Date : 2017-12-31
+- Publication : 2017-11-04
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000035946033
