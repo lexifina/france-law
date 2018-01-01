@@ -1,325 +1,199 @@
 # Article Annexe II b
 
-RÈGLEMENT D'EXAMEN
+RÉGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-gestion des milieux naturels et de la faune
-
-|
+Spécialité : gestion des milieux naturels et de la faune |
 
 CANDIDATS DE LA VOIE
 
-scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité
-
-|
+scolaire dans un établissement public ou privé sous contrat, cfa ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
 
 CANDIDATS DE LA VOIE
 
-de la formation professionnelle continue dans un établissement public habilité
-
-(D. 337-74)
-
-|
+de la formation professionnelle continue dans un établissement public habilité (D337/74) |
 
 CANDIDATS DE LA VOIE
 
-scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle
+scolaire dans un établissement privé, cfa ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
 
-|
-
-Épreuves
-
-|
-
-Unité
-
-|
-
-Coefficient
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-E1 (*) Langue française, langages, éléments d'une culture humaniste et compréhension du monde
-
-|
-
-U 1
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Écrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E2 Langue et culture étrangères
-
-|
-
-U 2
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Orale
-
-|
-
-0 h 20
-
-|
-
-E3 Motricité, santé et socialisation par la pratique des APSAES (**)
-
-|
-
-U 3
-
-|
+ÉPREUVES |
 
-1
+Unité |
 
-|
-
-CCF
-
-|
+Coeff. |
 
-|
+Forme |
 
-CCF
+Durée |
 
-|
+Forme |
 
-|
+Durée |
 
-Pratique
+Forme |
 
-|
+Durée |
 
-|
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
 
-E4 (*) Culture scientifique et technologique
+U1 |
 
-|
+4 |
 
-U 4
+Terminale ponctuelle écrite en deux parties |
 
-|
+2 x 2 h |
 
-4
+CCF |
 
 |
 
-Terminale ponctuelle écrite
+Ecrite en deux parties |
 
-|
+2 x 2 h |
 
-2 h
+E2 : Langue et culture étrangères |
 
-|
+U2 |
 
-CCF
+1 |
 
-|
+CCF |
 
 |
 
-Écrite en deux parties
+CCF |
 
 |
-
-2 × 2 h
 
-|
+Orale |
 
-E5 Choix techniques
+0 h 20 |
 
-|
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
 
-U 5
+U3 |
 
-|
+1 |
 
-2
+CCF |
 
 |
 
-Terminale ponctuelle écrite
+CCF |
 
 |
 
-2 h 30
+Pratique |
 
 |
 
-CCF
+E4 : Culture scientifique et technologique (1) |
 
-|
+U4 |
 
-|
+4 |
 
-Écrite
+Terminale ponctuelle écrite |
 
-|
+2 h |
 
-2 h 30
+CCF |
 
 |
 
-E6 Expérience en milieu professionnel
+Ecrite en deux parties |
 
-|
-
-U 6
+2 x 2 h |
 
-|
+E5 : Choix techniques |
 
-3
+U5 |
 
-|
+2 |
 
-Terminale ponctuelle orale s'appuyant sur un écrit
+Terminale ponctuelle écrite |
 
-|
+2 h |
 
-0 h 30
+CCF |
 
 |
 
-CCF
+Ecrite |
 
-|
+2 h |
 
-|
+E6 : Expérience en milieu professionnel |
 
-Orale s'appuyant sur un écrit
+U6 |
 
-|
+3 |
 
-0 h 30
+Terminale ponctuelle orale s'appuyant sur un écrit |
 
-|
+0 h 30 |
 
-E7 Pratiques professionnelles
+CCF |
 
 |
 
-U 7
+Orale s'appuyant sur un écrit |
 
-|
+0 h 30 |
 
-5
+E7 : Pratiques professionnelles |
 
-|
+U7
 
-CCF
+U8
 
-|
+U9
 
-|
+U10 |
 
-CCF
+5 |
 
-|
+CCF |
 
 |
 
-Pratique et orale
+CCF |
 
 |
 
-0 h 20
+Pratique et orale |
 
-|
+0 h 20 |
 
-E8 Épreuve facultative
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
-|
+Points au-dessus de 10 |
 
-Points au-dessus de 10
+CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur
 
-CCF
+relevant du ministère chargé de l'agriculture |
 
-|
+Epreuve facultative n° 2 (3) |
 
-|
+UF2 |
 
-|
+Points au-dessus de 10 |
 
-|
+CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur
 
-|
+relevant du ministère chargé de l'agriculture |
 
-(*) Épreuve comportant des travaux en cours de formation.
+(1) Epreuve comportant des travaux en cours de formation.
 
-(**) APSAES activités physique sportive, artistique et d'entretien de soi.
+(2) APSAES activités physique sportive, artistique et d'entretien de soi.
 
-|
+(3) Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère chargé de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
