@@ -1,357 +1,213 @@
 # Article Annexe II b
 
-RÈGLEMENT D'EXAMEN
+RÉGLEMENT D'EXAMEN
 
-BACCALAURÉAT PROFESSIONNEL
+BACCALAUREAT PROFESSIONNEL
 
-spécialité conduite et gestion
-
-de l'entreprise hippique
-
-|
-
-CANDIDATS DE LA VOIE SCOLAIRE
-
-dans un établissement public
-
-ou privé sous contrat, CFA
-
-ou section d'apprentissage habilité,
-
-formation professionnelle continue
-
-dans un établissement public
-
-ou privé habilité
-
-|
+spécialité : conduite et gestion de l'entreprise hippique |
 
 CANDIDATS DE LA VOIE
 
-de la formation
+scolaire dans un établissement public ou privé sous contrat, cfa ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
 
-professionnelle continue
+CANDIDATS DE LA VOIE
 
-dans un établissement
+de la formation professionnelle continue dans un établissement public habilité (D337/74) |
 
-public habilité (D. 337/74)
+CANDIDATS DE LA VOIE
 
-|
+scolaire dans un établissement privé, cfa ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
 
-CANDIDATS DE LA VOIE SCOLAIRE
+ÉPREUVES |
 
-dans un établissement privé,
+Unité |
 
-CFA ou section d'apprentissage
+Coeff. |
 
-habilité, formation professionnelle
+Forme |
 
-continue dans un établissement
+Durée |
 
-privé, enseignement à distance,
+Forme |
 
-candidats justifiant de trois ans
+Durée |
 
-d'expérience professionnelle
+Forme |
 
-|
+Durée |
 
-Epreuve
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
 
-|
+U1 |
 
-Unité
+4 |
 
-|
+Terminale ponctuelle écrite en deux parties |
 
-Coefficient
+2 x 2 h |
 
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-E1 (*) : langue française, langages, éléments d'une culture humaniste et compréhension du monde
-
-|
-
-U1
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E2 : langue et culture étrangères
-
-|
-
-U2
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Orale
-
-|
-
-0 h 20
-
-|
-
-E3 : motricité, santé et socialisation par la pratique des APSAES (**)
-
-|
-
-U3
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Pratique
-
-|
-
-|
-
-E4 (*) : culture scientifique et technologique
-
-|
-
-U4
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite
-
-|
-
-2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E5 : choix techniques
-
-|
-
-U5
-
-|
-
-2
-
-|
-
-Terminale ponctuelle écrite
-
-|
-
-2 h 30
-
-|
-
-CCF
-
-|
+CCF |
 
 |
 
 Ecrite
 
-|
+en
 
-2 h 30
+deux parties |
 
-|
+2 x 2 h |
 
-E6 : pilotage de l'entreprise
+E2 : Langue et culture étrangères |
 
-|
+U2 |
 
-U6
+1 |
 
-|
-
-3
+CCF |
 
 |
 
-Terminale ponctuelle orale sur support écrit
+CCF |
 
 |
 
-0 h 30
+Orale |
+
+0 h 20 |
+
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
+
+U3 |
+
+1 |
+
+CCF |
 
 |
 
-CCF
+CCF |
 
 |
 
-|
-
-Orale s'appuyant sur un écrit
+Pratique |
 
 |
 
-0 h 30
+E4 : Culture scientifique et technologique (1) |
+
+U4 |
+
+4 |
+
+Terminale ponctuelle écrite |
+
+2 h |
+
+CCF |
 
 |
 
-E7 : pratiques professionnelles
+Ecrite
+
+en
+
+deux parties |
+
+2 x 2 h |
+
+E5 : Choix techniques |
+
+U5 |
+
+2 |
+
+Terminale ponctuelle écrite |
+
+2 h 30 |
+
+CCF |
 
 |
+
+Ecrite |
+
+2 h 30 |
+
+E6 : Pilotage de l'entreprise |
+
+U6 |
+
+3 |
+
+Terminale ponctuelle orale sur support écrit |
+
+0 h 30 |
+
+CCF |
+
+|
+
+Orale
+
+s'appuyant
+
+sur un écrit |
+
+0 h 30 |
+
+E7 : Pratiques professionnelles |
 
 U7
 
-|
+U8
 
-5
+U9
 
-|
+U10 |
 
-CCF
+5 |
 
-|
-
-|
-
-CCF
+CCF |
 
 |
 
-|
-
-Pratique et orale
+CCF |
 
 |
 
-1 h 30
+Pratique
 
-|
+et orale |
 
-E8 : épreuve facultative
+1 h 30 |
 
-|
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
-Points
+Points au-dessus de 10 |
 
-au-dessus
+CCF |
 
-de 10
+Selon les conditions fixées par la réglementation
 
-|
+en vigueur relevant du ministère chargé de l'agriculture |
 
-CCF
+Epreuve facultative n° 2 (3) |
 
-|
+UF2 |
 
-|
+Points au-dessus de 10 |
 
-|
+CCF |
 
-|
+Selon les conditions fixées par la réglementation
 
-|
+en vigueur relevant du ministère chargé de l'agriculture |
 
-|
+(1) Epreuve comportant des situations d'évaluation en cours de formation.
 
-(*) Epreuve comportant des situations d'évaluation en cours de formation.
+(2) APSAES : activités physiques sportives, artistiques et d'entretien de soi.
 
-(**) APSAES : activités physiques sportives, artistiques et d'entretien de soi.
-
-|
+(3) Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
