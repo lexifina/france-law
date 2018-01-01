@@ -1,12 +1,12 @@
 # Article 1609 vicies
 
-I. – Il est institué, en France continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
+I. – Il est institué en France métropolitaine, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
-a) Pour les huiles fabriquées en France continentale et en Corse, sur toutes les ventes ou livraisons à soi-même de ces huiles par les producteurs ;
+a) Pour les huiles fabriquées en France métropolitaine, sur toutes les ventes ou livraisons à soi-même de ces huiles par les producteurs ;
 
-b) Pour les huiles importées en France continentale et en Corse (y compris les huiles d'animaux marins qui, pour l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation ;
+b) Pour les huiles importées en France métropolitaine (y compris les huiles d'animaux marins qui, pour l'assujettissement à la taxe spéciale, sont assimilées aux huiles végétales alimentaires), lors de l'importation ;
 
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de l'acquisition.
 
@@ -16,7 +16,7 @@ Pour les produits alimentaires importés ou qui font l'objet d'une acquisition i
 
 Toutefois, pour les produits autres que la margarine, le redevable peut demander l'application d'un tarif forfaitaire, fixé par arrêté du ministre du budget sur des bases équivalentes à celles qui sont retenues pour les produits similaires d'origine nationale.
 
-III. – Les huiles, y compris celles qui sont contenues dans les produits alimentaires visés ci-dessus, exportées de France continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas soumises à la taxe spéciale.
+III. – Les huiles, y compris celles qui sont contenues dans les produits alimentaires visés ci-dessus, exportées de France métropolitaine, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas soumises à la taxe spéciale.
 
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
