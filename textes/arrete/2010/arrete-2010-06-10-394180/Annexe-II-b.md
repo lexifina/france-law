@@ -4,328 +4,196 @@ RÈGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-laboratoire contrôle qualité
+Spécialité : laboratoire contrôle qualité |
+
+Candidats de la voie scolaire dans un établissement public ou privé sous contrat, cfa ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
+
+Candidats de la voie de la formation professionnelle continue dans un établissement public habilité (D337/74) |
+
+Candidats de la voie scolaire dans un établissement privé, cfa ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
+
+ÉPREUVES |
+
+Unité |
+
+Coeff. |
+
+Forme |
+
+Durée |
+
+Forme |
+
+Durée |
+
+Forme |
+
+Durée |
+
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
+
+U1 |
+
+4 |
+
+Terminale ponctuelle écrite en deux parties |
+
+2 x 2 h |
+
+CCF |
 
 |
 
-CANDIDATS DE LA VOIE
+Ecrite en deux parties |
 
-scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité
+2 x 2 h |
 
-|
+E2 : Langue et culture étrangères |
 
-CANDIDATS DE LA VOIE
+U2 |
 
-de la formation professionnelle continue dans un établissement public habilité (D. 337-74)
+1 |
 
-|
-
-CANDIDATS DE LA VOIE
-
-scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle
+CCF |
 
 |
 
-Epreuves
+CCF |
 
 |
 
-Unité
+Orale |
+
+0 h 20 |
+
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
+
+U3 |
+
+1 |
+
+CCF |
 
 |
 
-Coefficient
+CCF |
 
 |
 
-Forme
+Pratique |
 
 |
 
-Durée
+E4 : Culture scientifique
+
+et technologique (1) |
+
+U4 |
+
+4 |
+
+Terminale ponctuelle écrite |
+
+2 h |
+
+CCF |
 
 |
 
-Forme
+Ecrite en deux parties |
+
+2 x 2 h |
+
+E5 : Caractéristiques des agroéquipements |
+
+U5 |
+
+2 |
+
+Terminale ponctuelle écrite |
+
+3 h |
+
+CCF |
 
 |
 
-Durée
+Ecrite |
 
-|
+3 h |
 
-Forme
+E6 : Expérience en milieu professionnel |
 
-|
+U6 |
 
-Durée
+3 |
 
-|
+Terminale ponctuelle orale sur un écrit |
 
-E1 (*) Langue française, langages, éléments d'une culture humaniste et compréhension du monde
+0 h 30 |
 
-|
-
-U 1
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E2 Langue et culture étrangères
-
-|
-
-U 2
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
+CCF |
 
 |
 
 Orale
 
-|
+s'appuyant sur
 
-0 h 20
+un écrit |
 
-|
+0 h 30 |
 
-E3 Motricité, santé et socialisation par la pratique des APSAES (**)
+E7 : Pratiques professionnelles |
 
-|
+U7
 
-U 3
+U8 |
 
-|
+5 |
 
-1
-
-|
-
-CCF
+CCF |
 
 |
 
-|
-
-CCF
+CCF |
 
 |
 
-|
+Orale |
 
-Pratique
+3 h |
 
-|
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
-E4 (*) Culture scientifique et technologique
+Points au-dessus de 10 |
 
-|
+CCF |
 
-U 4
+Selon les conditions fixées par la réglementation en vigueur
 
-|
+relevant du ministère chargé de l'agriculture |
 
-4
+Epreuve facultative n° 2 (3) |
 
-|
+UF2 |
 
-Terminale ponctuelle écrite
+Points au-dessus de 10 |
 
-|
+CCF |
 
-2 h
+Selon les conditions fixées par la réglementation en vigueur
 
-|
+relevant du ministère chargé de l'agriculture |
 
-CCF
+(1) Epreuve comportant des travaux en cours de formation.
 
-|
+(2) APSAES activités physique sportive, artistique et d'entretien de soi.
 
-|
-
-Ecrite en deux parties
-
-|
-
-2 × h
-
-|
-
-E5 Techniques professionnelles
-
-|
-
-U 5
-
-|
-
-2
-
-|
-
-Terminale ponctuelle écrite
-
-|
-
-3 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite
-
-|
-
-3 h
-
-|
-
-E6 Expérience en milieu professionnel
-
-|
-
-U 6
-
-|
-
-3
-
-|
-
-Terminale ponctuelle orale sur un écrit
-
-|
-
-0 h 30
-
-|
-
-CCF
-
-|
-
-|
-
-Orale s'appuyant sur un écrit
-
-|
-
-0 h 30
-
-|
-
-E7 Pratiques professionnelles
-
-|
-
-U 7
-
-|
-
-5
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Pratique et Orale
-
-|
-
-3 h
-
-|
-
-E8 Epreuve facultative
-
-|
-
-|
-
-Points au-dessus de 10
-
-|
-
-CCF
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-(*) Epreuve comportant des situations d'évaluation en cours de formation.
-
-(**) APSAES : activités physique sportive, artistique et d'entretien de soi.
-
-|
-
-choisi comme centre d'examen.
+(3) Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
 
 NOTA :
 
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante :
-
-http://www.cndp.fr/outils-doc
+Les annexes du présent arrêté sont consultables sur le site www.chlorofil.fr.
