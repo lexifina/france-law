@@ -1,0 +1,17 @@
+# Article 1er
+
+Les salariés non-cadres bénéficient d'une prime d'ancienneté, fixée en fonction des années passées dans l'entreprise selon le barème suivant :
+
+– 3 ans d'ancienneté : 25 € ;
+
+– 6 ans d'ancienneté : 40 € ;
+
+– 9 ans d'ancienneté : 55 € ;
+
+– 12 ans d'ancienneté : 65 € ;
+
+– 15 ans d'ancienneté : 85 € ;
+
+– 18 ans d'ancienneté : 100 €.
+
+Cette prime est versée tous les mois et s'ajoute au salaire minimum garanti, conformément à l'article 36 de la convention collective du commerce de détail horlogerie-bijouterie.
