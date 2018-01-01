@@ -1,14 +1,18 @@
 # Article 37 quater
 
-En cas de décès du salarié non cadre tel que défini par la classification figurant à l'article 9 de la présente convention collective comme étant le personnel de fabrication, de vente et de services, il est versé au profit de chacun de ses enfants à charge au sens fiscal :
+En cas de décès du salarié, il est versé au profit de chacun de ses enfants à charge au sens fiscal :
 
-- une rente temporaire s'élevant à 6 % du salaire brut jusqu'au 16e anniversaire et à 8 % jusqu'au 18e anniversaire ou 26e anniversaire si l'enfant est étudiant, apprenti, demandeur d'emploi inscrit à l'ANPE et non indemnisé par le régime d'assurance chômage ;
+- une rente temporaire s'élevant à 7 % du salaire brut jusqu'au 16e anniversaire et à 9 % jusqu'au 18e anniversaire ou 26e anniversaire si l'enfant est étudiant, apprenti, demandeur d'emploi inscrit à Pôle emploi et non indemnisé par le régime d'assurance chômage ;
 
-- une rente viagère, s'il est reconnu invalide par la sécurité sociale ou par la COTOREP, avant son 21e anniversaire
+- une rente viagère, s'il est reconnu invalide par la sécurité sociale ou par la Cotorep avant son 21e anniversaire.
 
-De plus, pour les enfants orphelins de père et mère, la rente est doublée.
+De plus, pour les enfants orphelins de père et de mère, la rente est doublée.
 
-Montant de la cotisation
+Le montant de la rente servie par enfant à charge ne pourra être inférieur à 1 500 € par année.
+
+Les rentes en cours de service, liquidées antérieurement, à la date d'effet de l'avenant n° 118 du 7 décembre 2017 à l'avenant n° 106 du 28 mai 2014 sont calculées dans les conditions définies par ce dernier.
+
+Montant de la cotisation :
 
 Le taux de cotisation de la rente éducation est de 0,04 % du salaire brut plafonné à la tranche A réparti à raison de 2/3 pour l'employeur et 1/3 pour le salarié.
 
