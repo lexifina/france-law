@@ -1,6 +1,6 @@
 # Article 1599 sexdecies
 
-I. – 1. Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur donnent lieu au paiement d'une taxe proportionnelle dont le taux unitaire par cheval-vapeur, arrêté par la région ou la collectivité territoriale de Corse, est déterminé par délibération du conseil régional ou de l'assemblée de Corse. La délibération fixant les tarifs reste valable tant qu'elle n'est pas modifiée ou rapportée. Tout nouveau tarif prend effet le premier jour du deuxième mois à compter de la date à laquelle la délibération concernée est devenue exécutoire ou à une date ultérieure mentionnée expressément par la délibération, le cas échéant.
+I. - 1. Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur donnent lieu au paiement d'une taxe proportionnelle dont le taux unitaire par cheval-vapeur, arrêté par la région, est déterminé par délibération du conseil régional. La délibération fixant les tarifs reste valable tant qu'elle n'est pas modifiée ou rapportée. Tout nouveau tarif prend effet le premier jour du deuxième mois à compter de la date à laquelle la délibération concernée est devenue exécutoire ou à une date ultérieure mentionnée expressément par la délibération, le cas échéant.
 
 2. Le taux unitaire prévu au 1 est réduit de moitié en ce qui concerne :
 
@@ -16,11 +16,11 @@ I. – 1. Les certificats d'immatriculation des véhicules automobiles et de tou
 
 Pour les vélomoteurs, il est perçu une taxe fixe dont le montant est égal à la moitié dudit taux unitaire.
 
-II. – Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
+II. - Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
-III. – Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+III. - Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
-IV. – L'Agence nationale des titres sécurisés transmet chaque semestre, à titre gratuit, aux régions et aux collectivités de Corse et d'outre-mer qui en font la demande les données et informations non nominatives relatives aux certificats d'immatriculation délivrés au cours de cette période.
+IV. - L'Agence nationale des titres sécurisés transmet chaque semestre, à titre gratuit, aux régions et aux collectivités d'outre-mer qui en font la demande les données et informations non nominatives relatives aux certificats d'immatriculation délivrés au cours de cette période.
 
 NOTA :
 
