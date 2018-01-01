@@ -1,34 +1,38 @@
-# Article Annexe I
+# Article Annexe
 
-MONTANTS MAXIMA PRIS EN CHARGE EN SUS DU TARIF DE RESPONSABILITÉ ENTRE LE 1ER OCTOBRE 2017 ET LE 31 DÉCEMBRE 2017
+MONTANTS MAXIMA PRIS EN CHARGE EN SUS DU TARIF DE RESPONSABILITÉ À PARTIR DU 1ER JANVIER 2018
 
-CODES CCAM |
+Codes
 
-LIBELLÉS |
+CCAM |
 
-CODIFICATION |
+Libellés |
 
-TARIF
+Codification |
 
-de responsabilité
+Tarif de responsabilité
 
-(en €) (1) |
+(en €)
 
-MONTANT MAXIMUM
+(1) |
 
-pris en charge
+Montant
+
+maximum pris en charge
 
 en sus du tarif
 
-de responsabilité
+de responsabilité (en €)
 
-(en €) (2) |
+(2) |
 
-MONTANT TOTAL
+Montant total
 
 pris en charge
 
-(en €) (1 + 2) |
+(en €)
+
+(1 + 2) |
 
 |
 
@@ -66,6 +70,18 @@ Prothèses fixées |
 
 |
 
+HBLD037 |
+
+Pose d'une couronne dentaire transitoire |
+
+FDC |
+
+25,00 |
+
+0,00 |
+
+25,00 |
+
 HBLD038 |
 
 Pose d'une couronne dentaire métallique |
@@ -80,11 +96,7 @@ FDC |
 
 HBLD036 |
 
-Pose d'une couronne dentaire céramométallique ou en équivalents minéraux
-
--Hors couronnes dentaires céramocéramiques
-
--Couronnes dentaires céramométalliques : uniquement pour incisives, canines et premières prémolaires |
+Pose d'une couronne dentaire céramométallique ou en équivalents minéraux-Hors couronnes dentaires céramocéramiques-Couronnes dentaires céramométalliques : uniquement pour incisives, canines et 1res prémolaires |
 
 FDC |
 
@@ -144,9 +156,7 @@ FDC |
 
 |
 
--Hors éléments céramocéramiques
-
--Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
+-Hors éléments céramocéramiques-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
 |
 
@@ -166,13 +176,11 @@ FDC |
 
 803,28 |
 
-1082,78 |
+1 082,78 |
 
 |
 
--Hors éléments céramocéramiques
-
--Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
+-Hors éléments céramocéramiques-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
 |
 
@@ -204,13 +212,11 @@ FDC |
 
 956,26 |
 
-1235,76 |
+1 235,76 |
 
 |
 
--Hors éléments céramocéramiques
-
--Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
+-Hors éléments céramocéramiques-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
 |
 
@@ -516,9 +522,9 @@ FDA |
 
 365,50 |
 
-1090,60 |
+1 090,60 |
 
-1456,10 |
+1 456,10 |
 
 HBLD047 |
 
@@ -530,7 +536,7 @@ FDA |
 
 744,89 |
 
-1056,64 |
+1 056,64 |
 
 HBLD046 |
 
@@ -540,9 +546,9 @@ FDA |
 
 623,50 |
 
-1489,78 |
+1 489,78 |
 
-2113,28 |
+2 113,28 |
 
 HBLD048 |
 
@@ -552,9 +558,9 @@ FDA |
 
 494,50 |
 
-1290,19 |
+1 290,19 |
 
-1784,69 |
+1 784,69 |
 
 YYYY176 |
 
@@ -1424,7 +1430,13 @@ Orthopédie dento-faciale |
 
 |
 
-Traitement des dysmorphoses, par période de six mois, dans la limite de six périodes : |
+|
+
+|
+
+|
+
+Traitement des dysmorphoses, par période de sixmois, dans la limite de six périodes : |
 
 |
 
