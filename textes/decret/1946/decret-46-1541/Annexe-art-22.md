@@ -10,12 +10,6 @@ a) De 365 jours sur une période de quinze mois pour les maladies ou blessures c
 
 b) De trois ans en cas de longue maladie quel qu'en soit le caractère.
 
-Dans le cas où un repos supplémentaire s'avérerait nécessaire, l'agent intéressé bénéficierait, au delà de ces trois ans à salaire ou traitement intégral, de son demi-salaire ou traitement pendant une nouvelle période de deux années maximum.
-
-En cette circonstance, la caisse d'assurance maladie des industries électriques et gazières prévue à l'article 23 ci-dessous peut permettre à l'agent intéressé, sur sa simple demande, de continuer ses traitements, soins, cures ou convalescence en maintenant les prestations complémentaires de celles du régime général de sécurité sociale dont l'agent bénéficiait précédemment.
-
-Par ailleurs, la caisse mutuelle complémentaire et d'action sociale prévue à l'article 25 ci-dessous peut accorder une indemnité dite de moyens d'existence, qui s'ajouterait au demi-salaire statutaire dû à l'agent par son employeur.
-
 Lorsqu'avant la stabilisation de son état de santé ou la consolidation de ses blessures, l'agent ne peut reprendre le travail qu'à mi-temps, il continue à bénéficier des prestations de salaire définies au présent article, en complément de son salaire d'activité, si cette reprise à mi-temps est de nature à favoriser l'amélioration de son état de santé en vue d'une reprise à temps complet, et selon les conditions et durées qui sont fixées par le règlement spécial de contrôle médical des industries électriques et gazières.
 
 Pendant ou à l'issue de ces congés, l'ouverture du droit aux prestations d'invalidité du régime spécial est appréciée dans les conditions prévues à l'annexe 3 du présent statut.

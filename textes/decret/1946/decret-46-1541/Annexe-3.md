@@ -692,7 +692,7 @@ a) Soit dès la date de consolidation des blessures dans le cas où l'invalidit�
 
 b) Soit dès la date de stabilisation de l'état de l'agent lorsque celui-ci demeure apte à exercer une activité réduite ;
 
-c) Soit, dans les autres cas, à l'issue de la durée maximale des congés prévus aux troisième et quatrième alinéas du paragraphe 1er de l'article 22 du statut national, la procédure de reconnaissance de l'invalidité devant être engagée par la médecine-conseil du régime spécial six mois avant le terme de ces congés.
+c) Soit, dans les autres cas, à l'issue de la durée maximale des congés prévus au b du paragraphe 1er de l'article 22 du statut national, la procédure de reconnaissance de l'invalidité devant être engagée par la médecine-conseil du régime spécial six mois avant le terme de ces congés.
 
 La décision de mise en invalidité est prise par le directeur de la Caisse nationale des industries électriques et gazières sur avis conforme de deux médecins-conseils du régime spécial des industries électriques et gazières. En cas de désaccord entre ces deux médecins, l'avis définitif est donné par le médecin conseil national du régime spécial.
 

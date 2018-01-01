@@ -130,7 +130,7 @@ Paragraphe 5.
 
 Les budgets d'activités sociales sont destinés principalement à :
 
-a) Participer au soutien des agents en congé de maladie ou blessure, dont l'état médical exigerait des soins ou traitements particuliers, et plus spécialement les agents en congé de longue maladie ou blessure, soit lors de leur passage au demi-salaire ou demi-traitement statutaire, soit à l'expiration de leur congé de maladie ;
+a) Participer au soutien des agents en congé de maladie ou blessure, dont l'état médical exigerait des soins ou traitements particuliers, et plus spécialement les agents en congé de longue maladie ou blessure à l'expiration de leur congé de maladie ;
 
 b) Aider, en cas de sinistre ou de grand malheur, les agents particulièrement dignes d'intérêt ainsi que leur famille ;
 
@@ -187,3 +187,9 @@ Le remboursement aux services publics nationaux des sommes prévues aux tableaux
 NOTA :
 
 (1) Conformément à l'article 8 du décret n° 2017-952 du 10 mai 2017, ces dispositions entrent en vigueur le 1er janvier 2018.
+
+Décret n° 2017-996 du 10 mai 2017, article 4 : Les dispositions du 2° de l'article 1er dudit décret entrent en vigueur à l'issue de la période transitoire mentionnée à l'article 3. Article 3 : A titre transitoire, les salariés en longue maladie indemnisés à ce titre depuis au moins 1 096 jours au 1er janvier 2018 peuvent bénéficier, dans le cas où un repos supplémentaire s'avérerait nécessaire, d'un demi-salaire ou traitement pendant une nouvelle période de deux années maximum au-delà des 1 095 jours prévus au b du paragraphe 1 de l'article 22 du statut national du personnel des industries électriques et gazières annexé au décret du 22 juin 1946 susvisé.
+
+Par ailleurs, la caisse mutuelle complémentaire et d'action sociale prévue à l'article 25 du statut national du personnel des industries électriques et gazières annexé au décret du 22 juin 1946 susvisé peut accorder à ces salariés une indemnité dite de moyens d'existence, dans les conditions prévues au sixième alinéa du même paragraphe 1 dans sa rédaction antérieure au présent décret.
+
+A l'issue de cette période de deux ans de repos supplémentaire au-delà des 1 095 jours, la procédure de reconnaissance de l'invalidité doit être engagée par la médecine-conseil du régime spécial, six mois avant le terme de ces congés.
