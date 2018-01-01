@@ -114,7 +114,11 @@ g) Attestation d'adaptation réversible conforme à l'annexe 1-C de l'arrêté d
 
 h) Attestation de conformité en cas de modification des niveaux de performance d'un type de véhicule, neuf ou usagé, de genre MTT1 ou MTT2 le rendant conforme à un autre type de véhicule de genre MTT2 ou inversement, suivant le modèle présenté en annexe 18 ;
 
-i) Certificat de conformité conforme à l'annexe 1 de l'arrêté du 13 avril 2016 relatif à la puissance des motocyclettes définies à l'article R. 311-1 du code de la route, pour les véhicules neufs de la catégorie L3 ou L4 faisant l'objet d'une opération de débridage.
+i) Certificat de conformité conforme à l'annexe 1 de l'arrêté du 13 avril 2016 relatif à la puissance des motocyclettes définies à l'article R. 311-1 du code de la route, pour les véhicules neufs de la catégorie L3 ou L4 faisant l'objet d'une opération de débridage ;
+
+j) Attestation d'adaptation réversible véhicule école conforme à l'annexe 1-A de l'arrêté du 27 juin 2017 relatif à l'adaptation réversible des véhicules destinés à l'enseignement ou à l'apprentissage de la conduite, pour les véhicules neufs ou usagés de la catégorie M1, genre VP, ou de la catégorie N1, genre CTTE faisant l'objet d'une transformation réversible dite “ adaptation réversible véhicule école.” ;
+
+k) Attestation d'adaptation réversible véhicule école conforme à l'annexe 1-B de l'arrêté du 27 juin 2017 relatif à l'adaptation réversible des véhicules destinés à l'enseignement ou à l'apprentissage de la conduite, pour les véhicules usagés de catégorie M1, genre VP, ou de la catégorie N1, genre CTTE, pour la dépose des équipements nécessaires à l'enseignement ou à l'apprentissage de la conduite.
 
 4. Justificatifs fiscaux
 

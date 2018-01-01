@@ -8,13 +8,13 @@ Je soussigné (nom, prénom)
 
 DRIEE, DREAL, DEAL (1)
 
-certifie que le véhicule USAGÉ ci-dessous décrit a fait l'objet d'une réception individuelle européenne délivrée selon le règlement (UE) n° 183/2011 de la Commission en date du 22 février 2011 sous le n° ........ et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
+certifie que le véhicule NEUF ou USAGÉ ci-dessous décrit (1) a fait l'objet d'une réception individuelle européenne délivrée selon le règlement (UE) n° 183/2011 de la Commission en date du 22 février 2011 sous le n° ........ et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
 
-(A.1) Précédent numéro d'immatriculation
+(A.1) Précédent numéro d'immatriculation (3)
 
-Pays de provenance
+Pays de provenance (3)
 
-(B) Date de première immatriculation
+(B) Date de première immatriculation (3)
 
 (D.1) Marque
 
@@ -73,3 +73,5 @@ A ............................., le ..................... Signature et fonction 
 (1) Rayer la mention inutile.
 
 (2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
+
+(3) Le cas échéant.
