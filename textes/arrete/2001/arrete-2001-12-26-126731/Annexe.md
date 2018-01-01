@@ -44,7 +44,7 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 13. Subventions d'investissement.
 
-131. Subventions d'équipement transférables.
+131. Subventions d'investissement rattachées aux actifs amortissables.
 
 1311. Etat.
 
@@ -56,7 +56,7 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 13188 Autres.
 
-132. Subventions d'équipement non transférables.
+132. Subventions d'investissement rattachées aux actifs non amortissables.
 
 1321. Etat.
 
@@ -64,13 +64,13 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 1328. Autres subventions d'équipement.
 
-137. Autres subventions d'investissement transférables.
+137. Autres subventions d'investissement rattachées aux actifs amortissables.
 
-138. Autres subventions d'investissement non transférables.
+138. Autres subventions d'investissement rattachées aux actifs non amortissables.
 
 139. Subventions d'investissement transférées au compte de résultat.
 
-1391 Subventions d'équipement transférables.
+1391 Subventions d'investissement rattachées aux actifs amortissables.
 
 13911 Etat.
 
@@ -82,7 +82,7 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 139188 Autres.
 
-1392 Subventions d'équipement non transférables.
+1392 Subventions d'investissement rattachées aux actifs non amortissables.
 
 13921 Etat.
 
@@ -90,9 +90,9 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 13928 Autres subventions d'équipement.
 
-1397 Autres subventions d'investissement transférables.
+1397 Autres subventions d'investissement rattachées aux actifs amortissables.
 
-1398 Autres subventions d'investissement non transférables.
+1398 Autres subventions d'investissement rattachées aux actifs non amortissables.
 
 15. Provisions pour risques et charges.
 
@@ -120,7 +120,7 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 163. Emprunts obligataires.
 
-164. Emprunts auprès des établissements de crédit.
+164. Emprunts auprès des établissements financiers.
 
 1641. Emprunts en euros.
 
@@ -458,7 +458,7 @@ CLASSE 4. - COMPTES DE TIERS
 
 4124. Collectivités locales. - Exercices antérieurs.
 
-416. Clients douteux.
+416. Clients - Créances douteuses et irrécouvrables.
 
 4161 Créances douteuses.
 
@@ -566,7 +566,7 @@ CLASSE 4. - COMPTES DE TIERS
 
 447. Autres impôts, taxes et versements assimilés.
 
-448. Etat. - Charges à payer et produits à recevoir.
+448. Etat et autres organismes publics - Charges à payer et produits à recevoir.
 
 4482. Congés payés.
 
