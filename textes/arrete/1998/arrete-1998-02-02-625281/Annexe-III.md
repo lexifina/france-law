@@ -310,8 +310,6 @@ Ethylamine.
 
 |
 
-607-134-00-4
-
 |
 
 Méthacrylates.

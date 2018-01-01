@@ -1,159 +1,275 @@
 # Article Annexe IV
 
-VALEURS LIMITES DE REJET POUR LES EFFLUENTS AQUEUX ISSUS DES INSTALLATIONS DE TRAITEMENT DE DÉCHETS
+Valeurs limites de rejet pour les effluents aqueux issus des installations de traitement de déchets
 
-PARAMÈTRE
+Sans préjudice des dispositions du 2nd alinéa de l'article 21, les rejets respectent les valeurs limites de concentration suivantes :
 
-|
-
-VALEUR LIMITE
-
-de rejet exprimée
-
-en concentration
-
-massique pour
-
-des échantillons
-
-non filtrés
+1 - Paramètres globaux |
 
 |
 
-1. Total des solides en suspension
+N° CAS |
+
+Code SANDRE |
+
+Valeur limite |
+
+Matières en suspension (MES) |
+
+- |
+
+1305 |
+
+30 mg/l |
+
+Carbone organique total (COT) |
+
+- |
+
+1841 |
+
+40 mg/l |
+
+Demande chimique en oxygène (DCO) |
+
+- |
+
+1314 |
+
+125 mg/l |
+
+Thallium et ses composés, exprimés en thallium (TI) |
+
+7440-28-0 |
+
+2555 |
+
+0,05 mg/l |
+
+Cyanures libres (en CN-) |
+
+57-12-5 |
+
+1084 |
+
+0,1 mg/l |
+
+Composés organiques halogénés (en AOX ou EOX) ou halogènes des composés organiques absorbables (AOX) (*) |
+
+- |
+
+1106 (AOX)
+
+1760 (EOX) |
+
+5 mg/l si le rejet dépasse 30 g/j |
+
+Hydrocarbures totaux |
+
+- |
+
+7009 |
+
+5 mg/l |
+
+Ion fluorure (en F-) |
+
+16984-48-8 |
+
+7073 |
+
+15 mg/l |
+
+2 - Substances spécifiques du secteur d'activité |
 
 |
 
-30 mg/l
+N° CAS |
+
+Code SANDRE |
 
 |
 
-2. Carbone organique total (COT)
+Plomb et ses composés (en Pb) |
+
+7439-92-1 |
+
+1382 |
+
+100 µg/l |
+
+Chrome et ses composés (en Cr) |
+
+7440-47-3 |
+
+1389 |
+
+100 µg/l (dont Cr6+ : 50 µg/l) |
+
+Cuivre et ses composés (en Cu) |
+
+7440-50-8 |
+
+1392 |
+
+250 µg/l |
+
+Nickel et ses composés (en Ni) |
+
+7440-02-0 |
+
+1386 |
+
+100 µg/l |
+
+Zinc et ses composés (en Zn) |
+
+7440-66-6 |
+
+1383 |
+
+800 µg/l |
+
+(*) Cette valeur limite ne s'applique pas si pour au moins 80 % du flux d'AOX, les substances organochlorées composant le mélange sont clairement identifiées et que leurs niveaux d'émissions sont déjà réglementés de manière individuelle.
+
+Par ailleurs, pour toutes les autres substances susceptibles d'être rejetées par l'installation, les eaux résiduaires rejetées au milieu naturel respectent les valeurs limites de concentration fixées suivantes. Les rejets respectent les valeurs limites de concentration suivantes :
+
+3 - Autres substances dangereuses entrant dans la qualification de l'état des masses d'eau |
+
+Substances de l'état chimique |
 
 |
 
-40 m/l
+N° CAS |
 
-|
+Code SANDRE |
 
-3. Demande chimique en oxygène (DCO)
+Valeur limite |
 
-|
+Cadmium et ses composés* (en Cd) |
 
-125 mg/l
+7440-43-9 |
 
-|
+1388 |
 
-4. Mercure et ses composés, exprimés en mercure (Hg)
+25 µg/l |
 
-|
+Mercure et ses composés* (en Hg) |
 
-0,03 mg/l
+7439-97-6 |
 
-|
+1387 |
 
-5. Cadmium et ses composés, exprimés en cadmium (Cd)
+25 µg/l |
 
-|
+Nonylphénols * |
 
-0,05 mg/l
+84-852-15-3 |
 
-|
+1958 |
 
-6. Thallium et ses composés, exprimés en thallium (TI)
+25µg/l |
 
-|
+Autres substances de l'état chimique |
 
-0,05 mg/I
+Di(2-éthylhexyl)phtalate (DEHP)* |
 
-|
+117-81-7 |
 
-7. Arsenic et ses composés, exprimés en arsenic (As)
+6616 |
 
-|
+25 µg/l |
 
-0,1 mg/l
+Acide perfluo rooctanesulfonique et ses dérivés* (PFOS) |
 
-|
+45298-90-6 |
 
-8. Plomb et ses composés, exprimés en plomb (Pb)
+6561 |
 
-|
+25 µg/l |
 
-0,2 mg/l
+Quinoxyfène* |
 
-|
+124495-18-7 |
 
-9. Chrome et ses composés, exprimés en chrome (Cr)
+2028 |
 
-|
+25 µg/l |
 
-0,5 mg/l
+Dioxines et composés de dioxines* dont certains PCDD et PCB-DF |
 
-(dont Cr6+ : 0,1 mg/l)
+- |
 
-|
+7707 |
 
-10. Cuivre et ses composés, exprimés en cuivre (Cu)
+0,3 ng/l TEQ |
 
-|
+Aclonifène |
 
-0,5 mg/l
+74070-46-5 |
 
-|
+1688 |
 
-11. Nickel et ses composés, exprimés en nickel (Ni)
+25 µg/l si le rejet dépasse 1 g/j |
 
-|
+Bifénox |
 
-0,5 mg/l
+42576-02-3 |
 
-|
+1119 |
 
-12. Zinc et ses composés, exprimés en Zinc (Zn)
+25 µg/l si le rejet dépasse 1 g/j |
 
-|
+Cybutryne |
 
-1,5 mg/l
+28159-98-0 |
 
-|
+1935 |
 
-13. Fluorures
+25 µg/l si le rejet dépasse 1 g/j |
 
-|
+Cyperméthrine |
 
-15 mg/l
+52315-07-8 |
 
-|
+114025 |
 
-14. CN libres
+25 µg/l si le rejet dépasse 1 g/j |
 
-|
+Hexabromocyclododécane* (HBCDD) |
 
-0,1 mg/l
+3194-55-6 |
 
-|
+7128 |
 
-15. Hydrocarbures totaux
+25 µg/l |
 
-|
+Heptachlore* et époxyde d'heptachlore* |
 
-5 mg/l
+76-44-8/ 1024-57-3 |
 
-|
+7706 |
 
-16. AOX
+25 µg/l |
 
-|
+Polluants spécifiques de l'état écologique |
 
-5 mg/l
+Arsenic et ses composés (en As) |
 
-|
+7440-38-2 |
 
-17. Dioxines et furannes
+1369 |
 
-|
+50 µg/l si le rejet dépasse 2 g/j |
 
-0,3 ng/l
+Autre polluant spécifique de l'état écologique à l'origine d'un impact local |
 
-|
+- |
+
+- |
+
+- NQE si le rejet dépasse 1 g/j, dans le cas où la NQE est supérieure à 25 µg/l
+
+- 25 µg/l si le rejet dépasse 1 g/j, dans le cas où la NQE est inférieure à 25µg/l |
+
+Les substances dangereuses marquées d'une * dans les tableaux ci-dessus sont visées par des objectifs de suppression des émissions et doivent en conséquence satisfaire en plus aux dispositions de l'article 22-2-III de l'arrêté du 2 février 1998 modifié.

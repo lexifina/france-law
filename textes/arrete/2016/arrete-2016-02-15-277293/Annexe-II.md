@@ -14,9 +14,7 @@ Analyses |
 
 Phase d'exploitation |
 
-Période de suivi
-
-long terme (3) |
+Période de suivi long terme (3) |
 
 1. Volume de lixiviat |
 
@@ -24,7 +22,7 @@ Mensuellement (1) (3) |
 
 Tous les six mois |
 
-2. Composition du lixiviat (2) : pH, DCO, DBO5, MES, COT, hydrocarbures totaux, chlorure, sulfate, ammonium, phosphore total, métaux totaux (Pb+Cu+Cr+Ni+Mn+Cd+Hg+Fe+As+Zn+Sn), N total, CN libres, conductivité et phénols |
+2. Composition du lixiviat (2) : pH, DCO, DBO5, MES, COT, hydrocarbures totaux, chlorure, sulfate, ammonium, phosphore total, métaux, métaux totaux (Pb+Cu+Cr+Ni+Mn+Cd+Hg+Fe+As+Zn+Sn), N total, CN libres, conductivité et phénols, autre substance dangereuse visée au paragraphe 3 de l'annexe I |
 
 Trimestriellement (3) |
 
@@ -58,7 +56,9 @@ Tous les six mois (5) |
 
 (5) L'efficacité du système d'extraction des gaz doit être vérifiée régulièrement.
 
-Les points 1 et 2 ne s'appliquent que dans les cas où les lixiviats sont recueillis. |
+Les points 1 et 2 ne s'appliquent que dans les cas où les lixiviats sont recueillis.
+
+|
 
 2. Surveillance des eaux souterraines
 
