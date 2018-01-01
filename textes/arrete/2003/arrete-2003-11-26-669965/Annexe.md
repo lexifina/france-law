@@ -692,7 +692,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Collectivité territoriale Corse (Corse) |
+Collectivité de Corse (Corse) |
 
 Astreinte enquêtes-accidents. |
 
