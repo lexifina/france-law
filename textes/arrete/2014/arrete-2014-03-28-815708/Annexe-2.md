@@ -8,7 +8,7 @@ Droit administratif général
 
 a) Les sources internes ;
 
-b) Les traités internationaux.
+b) Les sources internationales.
 
 2. L'organisation administrative :
 
@@ -18,15 +18,17 @@ a) Les principes de l'organisation administrative :
 
 - décentralisation ;
 
-- déconcentration ;
+- déconcentration.
 
 b) L'administration de l'Etat : l'administration centrale, les services déconcentrés de l'Etat :
 
-- les établissements publics à caractère administratif et les établissements publics à caractère industriel et commercial ;
+- les établissements publics à caractère administratif et les établissements publics à caractère industriel et
+
+- commercial ;
 
 - les autorités administratives indépendantes ;
 
-- le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets ;
+- le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets.
 
 c) Les collectivités territoriales :
 
@@ -36,11 +38,9 @@ c) Les collectivités territoriales :
 
 - la commune ;
 
-- l'intercommunalité et les groupements de collectivités territoriales ;
+- l'intercommunalité et les groupements de collectivités territoriales.
 
-- le statut de Paris, Lyon, Marseille ;
-
-- le contrôle administratif des collectivités locales.
+d) le contrôle des actes des collectivités territoriales.
 
 3. L'action de l'administration :
 
@@ -48,11 +48,17 @@ a) Le principe de la légalité administrative ;
 
 b) L'objet de l'action de l'administration :
 
-- la théorie générale des services publics et modes de gestion (régie directe, gestion déléguée) ;
+- la théorie générale des services publics ;
 
-- la police administrative ;
+- la police administrative.
 
-c) La responsabilité administrative extra contractuelle :
+c) Les procédés de l'action administrative :
+
+- l'acte administratif unilatéral ;
+
+- le contrat administratif.
+
+d) La responsabilité administrative extracontractuelle :
 
 - responsabilité pour faute ;
 
@@ -68,7 +74,7 @@ a) Les principales juridictions administratives :
 
 - les tribunaux administratifs ;
 
-- le tribunal des conflits ;
+- le Tribunal des conflits ;
 
 b) Les recours contentieux :
 
@@ -98,13 +104,13 @@ a) Les sources des libertés publiques :
 
 - le Préambule de la Constitution de 1958 ;
 
-- la Convention européenne des droits de l'homme ;
+- la Convention européenne de sauvegarde des droits de l'homme ;
 
 - la Charte européenne des droits fondamentaux ;
 
 b) L'aménagement des libertés publiques :
 
-- les régimes exceptionnels (article 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles) ;
+- les régimes exceptionnels (article 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles).
 
 c) La protection juridictionnelle des libertés publiques :
 
@@ -128,11 +134,11 @@ b) Les libertés de la personne physique :
 
 - la liberté d'aller et venir ;
 
-- le respect de la personnalité :
+- le respect de la personnalité ;
 
 - le droit à la vie et au respect de l'intégrité physique ;
 
-- la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances) ;
+- la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances).
 
 c) Les libertés de l'esprit :
 
@@ -142,7 +148,7 @@ c) Les libertés de l'esprit :
 
 - la liberté de l'enseignement ;
 
-- la liberté de religion ;
+- la liberté de religion.
 
 d) Les libertés propres aux groupements d'individus :
 
@@ -152,113 +158,75 @@ d) Les libertés propres aux groupements d'individus :
 
 - la liberté d'association.
 
-Droit de l'Union européenne
+Questions européennes
 
-1. La construction européenne : des Communautés européennes à l'Union européenne.
+1. Les institutions de l'Union européenne et leur fonctionnement :
 
-2. Les sources du droit de l'Union européenne :
-
-- le droit originaire ;
-
-- le droit dérivé ;
-
-- la jurisprudence de la Cour de justice de l'Union européenne ;
-
-- les principes généraux du droit.
-
-3. Institutions européennes :
-
-a) Les organes qualifiés d'institutions :
-
-- le Parlement européen ;
-
-- le Conseil européen ;
-
-- le Conseil ;
+- des Communautés européennes à l'Union européenne ;
 
 - la Commission européenne ;
 
-- la Cour de justice de l'Union européenne ;
+- le Conseil européen ;
 
-- la Banque centrale européenne ;
+- le Conseil de l'Union européenne ;
 
-- la Cour des comptes ;
+- le Parlement européen ;
 
-b) Les organes consultatifs :
+- le processus de décision ;
 
-- le Comité économique et social ;
+- l'ordre juridique communautaire ;
 
-- le Comité des régions ;
+- la juridiction communautaire.
 
-c) Les agences ;
+2. Les compétences de l'Union européenne :
 
-d) La prise de décision dans le cadre de l'UE :
+- la classification des compétences de l'Union européenne : compétences exclusives, compétences partagées et compétences d'appui, de coordination ou de complément ;
 
-- les procédures législatives :
+- l'adaptation des compétences de l'Union européenne : l'article 352 du traité de fonctionnement de l'Union européenne (TFUE) ;
 
-- la proposition ;
+- les limites à l'exercice des compétences de l'Union européenne : les principes de subsidiarité et de proportionnalité, les clauses d'option de retrait et les coopérations renforcées.
 
-- la décision : la procédure législative ordinaire, les procédures législatives spéciales ;
+3. Les caractères du droit de l'Union européenne :
 
-- les procédures d'exécution ;
+a) L'applicabilité du droit de l'Union européenne ;
 
-- la procédure de délégation ;
+b) L'effet direct du droit de l'Union européenne ;
 
-e) Les compétences de l'UE :
+c) La primauté du droit de l'Union européenne.
 
-- la classification des compétences de l'UE :
+4. Le marché intérieur et les questions économiques et financières : principaux éléments :
 
-- les compétences exclusives ;
+- "les quatre libertés" ;
 
-- les compétences partagées ;
+- le marché intérieur ;
 
-- les compétences d'appui, de coordination ou de complément ;
+- la politique de concurrence ;
 
-- l'adaptation des compétences de l'UE : l'article 352 du traité de fonctionnement de l'Union européenne (TFUE) ;
+- l'union économique et monétaire et la coordination des politiques économiques ;
 
-- les limites à l'exercice des compétences de l'UE :
+- le budget de l'Union européenne.
 
-- le principe de subsidiarité ;
+5. Les principales politiques communes :
 
-- le principe de proportionnalité ;
+- la politique agricole commune (PAC) ;
 
-- les clauses d'option de retrait ;
+- la politique commune de la pêche (PCP) ;
 
-- les coopérations renforcées.
+- la politique de cohésion économique et sociale ;
 
-4. Les caractères du droit de l'Union européenne :
+- la politique de l'environnement ;
 
-- l'applicabilité du droit de l'Union européenne ;
+- la politique de l'énergie ;
 
-- la primauté du droit de l'Union européenne.
+- la politique des transports ;
 
-5. Les politiques de l'Union européenne.
+- la politique de la recherche ;
 
-a) Les libertés de circulation :
-
-- marchandises ;
-
-- personnes ;
-
-- services ;
-
-- capitaux ;
-
-b) La concurrence :
-
-- ententes ;
-
-- abus de position dominante ;
-
-- concentrations ;
-
-- aides d'Etat.
+- l'espace de liberté, de sécurité et de justice : connaissances approfondies attendues.
 
 Droit pénal général
 
-Notions générales d'histoire du droit pénal,
-
-de criminologie et de science pénitentiaire
+Notions générales d'histoire du droit pénal, de criminologie et de science pénitentiaire :
 
 1. La loi pénale :
 
@@ -276,13 +244,13 @@ b) La loi pénale et le juge :
 
 - l'interprétation de la loi ;
 
-- le contrôle de régularité de la loi ;
+- le contrôle de régularité de la loi.
 
 c) La loi pénale et l'infraction :
 
 - les éléments constitutifs de l'infraction ;
 
-- les qualifications des infractions.
+- les qualifications des infractions selon leur gravité et leur nature.
 
 2. Le délinquant :
 
@@ -290,13 +258,13 @@ a) La responsabilité pénale du délinquant :
 
 - principe et limites de la responsabilité personnelle ;
 
-- la distinction auteur/coauteur/complice ;
+- la distinction auteur/ coauteur/ complice ;
 
 - la tentative ;
 
-- la distinction personne physique/personne morale, mineur/majeur ;
+- la distinction personne physique/ personne morale, mineur/ majeur ;
 
-- le cas particulier des responsables politiques ;
+- le cas particulier des responsables politiques.
 
 b) L'irresponsabilité pénale du délinquant :
 
@@ -304,7 +272,7 @@ b) L'irresponsabilité pénale du délinquant :
 
 - causes subjectives d'irresponsabilité pénale ;
 
-- immunités diverses.
+- immunités (diverses).
 
 3. Les peines :
 
@@ -334,7 +302,7 @@ e) La Cour pénale internationale et les tribunaux pénaux internationaux.
 
 a) L'action publique ;
 
-b) L'action civile ;
+b) L'action civile.
 
 4. La mise en état des affaires pénales :
 
@@ -350,7 +318,7 @@ a) Les diverses procédures de jugement ;
 
 b) Les voies de recours internes ;
 
-c) Les voies de recours internationales ;
+c) Les voies de recours internationales.
 
 6. L'entraide répressive internationale :
 
@@ -360,7 +328,7 @@ a) Les cadres institutionnels de l'entraide :
 
 - Conseil de l'Europe ;
 
-- Union européenne ;
+- Union européenne.
 
 b) Les mécanismes et les structures de l'entraide :
 
@@ -376,7 +344,7 @@ b) Les mécanismes et les structures de l'entraide :
 
 - le casier judiciaire européen.
 
-Second concours
+Programme des épreuves du second concours
 
 Droit pénal spécial
 
@@ -410,15 +378,23 @@ f) Les destructions, dégradations et détériorations.
 
 3. Les crimes et délits contre la Nation, l'Etat et la paix publique :
 
-a) Les abus d'autorité commis contre les particuliers ;
+a) Le terrorisme ;
 
-b) Les manquements au devoir de probité ;
+b) Les entraves à l'exercice des libertés d'expression du travail, d'association, de réunion ou de manifestation ;
 
-c) Les atteintes à l'administration publique commises par les particuliers ;
+c) La participation délictueuse à un attroupement ;
 
-d) L'usurpation de fonctions ;
+d) Les manifestations illicites et la participation délictueuse à une manifestation ou à une réunion publique.
 
-e) L'usurpation de signes réservés à l'autorité publique.
+e) Les abus d'autorité commis contre les particuliers ;
+
+f) Les manquements au devoir de probité ;
+
+g) Les atteintes à l'administration publique commises par les particuliers ;
+
+h) L'usurpation de fonctions ;
+
+i) L'usurpation de signes réservés à l'autorité publique.
 
 4. Les atteintes à la dignité de la personne :
 
