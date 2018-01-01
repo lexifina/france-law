@@ -146,11 +146,9 @@ Agrément des organismes intervenant pour la sécurité des ouvrages hydraulique
 
 Article L. 211-3
 
-Articles R. 214-129 à R. 214-132
+Articles R. 214-148 à R. 214-151
 
-Arrêté mentionné à l'article R. 214-130
-
-|
+Arrêté du 18 février 2010 |
 
 4 mois |
 
@@ -417,12 +415,6 @@ Article 33 de l'arrêté du 5 mars 2014 |
 Exemption de l'application de certaines règles pendant un arrêt temporaire d'exploitation |
 
 Article R. 555-28 |
-
-6 mois |
-
-Habilitation initiale d'un organisme de contrôle des canalisations de transport |
-
-Article R. 555-49 |
 
 6 mois |
 
@@ -746,14 +738,6 @@ Articles L. 5521-2 et L. 5549-1 |
 
 |
 
-Visa d'une décision d'effectifs |
-
-Article L. 5522-2
-
-Articles 1er et suivants du décret n° 67-432 du 26 mai 1967 relatif aux effectifs à bord des navires de commerce, de pêche et de plaisance |
-
-|
-
 Autorisation d'exploitation de services aériens |
 
 Articles L. 6412-3 du code des transports et R. 330-6 du code de l'aviation civile |
@@ -1005,12 +989,6 @@ Article 9.5 |
 Arrêté du 12 décembre 2005 relatif aux équipements sous pression nucléaires (ESPN)
 
 |
-
-Attestation de conformité d'un ESPN de niveau N1 |
-
-Article 11 |
-
-3 ans |
 
 Accord de dispense de vérification intérieure (pour les ESPN Récipient) continûment remplis d'un fluide dont les caractéristiques sont telles qu'aucun phénomène de dégradation ne peut se produire |
 
@@ -1512,4 +1490,4 @@ Article 3.1 de l'annexe |
 
 NOTA :
 
-Se reporter aux dispositions de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.
+Conformément à l'article 8 du décret n° 2016-1925 du 28 décembre 2016, ces dispositions entrent en vigueur à la date d'entrée en vigueur des arrêtés prévus, pour chacune des catégories d'équipement concernées, par l'article 1er dudit décret, et au plus tard le 1er janvier 2018.

@@ -96,7 +96,7 @@ C. – Canalisations.
 
 a) Transport de gaz, d'hydrocarbures et de produits chimiques.
 
-Servitudes relatives aux canalisations de transport de gaz, d'hydrocarbures et de produits chimiques instituées en application de l'article L. 555-16 et des articles L. 555-27 et L. 555-28 du code de l'environnement, ainsi que celles conservées en application de l'article L. 555-29 de ce code.
+Servitudes relatives aux canalisations de transport de gaz, d'hydrocarbures et de produits chimiques instituées en application des articles L. 555-16, L. 555-27 et L. 555-28 du code de l'environnement, et de l'article 7 de la loi n° 49-1060 du 2 août 1949 relative à la construction d'un pipeline entre la Basse-Seine et la région parisienne et à la création d'une société des transports pétroliers par pipelines, ainsi que celles conservées en application de l'article L. 555-29 du code de l'environnement et mentionnées à l'article R. 555-30 de ce code.
 
 b) Eaux et assainissement.
 
