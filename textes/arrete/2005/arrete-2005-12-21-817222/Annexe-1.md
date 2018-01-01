@@ -1,14 +1,6 @@
-# Article Annexe
+# Article Annexe 1
 
-Principes
-
-Conformément à l'article R. 412-6 du code de la route, tout conducteur de véhicule doit se tenir constamment en état et en position d'exécuter commodément et sans délais toutes les manœuvres qui lui incombent.
-
-Tant pour le groupe léger que pour le groupe lourd, le permis de conduire ne doit être ni délivré ni renouvelé au candidat ou conducteur atteint d'une affection, qu'elle soit mentionnée ou non dans la présente liste, susceptible de constituer ou d'entraîner une incapacité fonctionnelle de nature à compromettre la sécurité routière lors de la conduite d'un véhicule à moteur. La décision de délivrance ou de renouvellement du permis par l'autorité préfectorale est prise à la suite d'un avis de la commission médicale départementale ou d'un médecin agréé. L'avis adressé au préfet peut contenir, si les conditions l'exigent pour la sécurité routière, des propositions de mentions additionnelles ou restrictives sur le titre de conduite.
-
-Avant chaque contrôle médical, le candidat ou le conducteur remplit une déclaration décrivant loyalement ses antécédents médicaux, une éventuelle pathologie en cours et les traitements pris régulièrement.
-
-Un test de conduite par une école de conduite peut être demandé. Le médecin agréé ou la commission médicale peuvent, après un premier examen, s'ils le jugent utile, demander l'examen de l'intéressé par un spécialiste de la commission médicale d'appel. Ce dernier répondra aux questions posées par le médecin agréé ou la commission, sans préjuger de leur avis.
+Liste des affections médicales incompatibles avec l'obtention ou le maintien du permis de conduire ou susceptibles de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée
 
 Principes
 
@@ -22,11 +14,17 @@ Un test de conduite par une école de conduite peut être demandé. Le médecin 
 
 GROUPE LEGER
 
+Les conducteurs des catégories A1, A2, A, B, B1 et BE appartiennent au groupe léger (groupe 1).
+
 CLASSE I : PATHOLOGIE CARDIO-VASCULAIRE
 
 |
 
-Les affections pouvant exposer tout candidat ou conducteur, à la délivrance ou au renouvellement d'un permis de conduire, à une défaillance de son système cardio-vasculaire de nature à provoquer une altération subite des fonctions cérébrales constituent un danger pour la sécurité routière. La conduite après tout événement cardiaque, et sa surveillance imposent un avis et un suivi du médecin ou du spécialiste chargé du patient qui déterminera la périodicité des contrôles. Les conducteurs des catégories A1, A2, A, B, B1 et BE appartiennent au groupe léger (ou groupe 1)
+Les pathologies ou affections cardiovasculaires peuvent provoquer une altération subite des fonctions cérébrales qui constitue un danger pour la sécurité routière si elle survient pendant l’action de conduite. Les pathologies cardiovasculaires suivantes peuvent être un motif de restrictions temporaires ou permanentes à la conduite. Dans ces situations, la compatibilité avec le maintien, la délivrance ou le renouvellement du permis de conduire ne peut être validée qu’à condition d’un contrôle de ces pathologies assurant des conditions de conduite compatible avec les impératifs de sécurité routière.
+
+Pour la délivrance ou le maintien du permis de conduire, le médecin agréé s’appuie pour rendre son avis sur les données anamnestiques et cliniques et les avis des spécialistes qui assurent le suivi de la pathologie. Un avis d’aptitude à durée limitée peut être rendu dans les situations requérant un suivi médical régulier. A titre exceptionnel, dans certaines situations ou l’inaptitude à la conduite serait de mise, le permis de conduire peut être délivré ou renouvelé à condition que les motifs dérogatoires soient dûment justifiés par un avis médical autorisé. Dans ces cas, l’avis d’aptitude établi par un médecin agréé précise une durée limitée.
+
+Pour les médecins intervenant dans le parcours de soins, ces mêmes critères doivent guider les recommandations à leurs patients sur la compatibilité de leur pathologie avec la conduite et l’orientation vers un médecin agréé pour évaluer l’aptitude.
 
 |
 
@@ -34,47 +32,47 @@ Les affections pouvant exposer tout candidat ou conducteur, à la délivrance ou
 
 |
 
-1.1.1 : Syndrome coronaire aigu : Infarctus aigu du myocarde et/ou angine de poitrine instable
+1.1.1 Syndrome coronaire aigu : infarctus aigu du myocarde et/ou angine de poitrine instable
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
+Compatibilité selon avis spécialisé. La reprise de la conduite ne peut être autorisée avant un délai minimum de 4 semaines en cas d’atteinte myocardique significative.
 
 |
 
-1.1.2 : Coronaropathie asymptomatique et angine de poitrine stable
+1.1.2 Coronaropathie asymptomatique et angine de poitrine stable
 
 |
 
-Avis spécialisé si nécessaire.
+Compatibilité selon avis spécialisé. Incompatibilité tant que persiste une symptomatologie survenant au repos, à l’effort léger ou lors de l’action de conduite en dépit du traitement mis en œuvre.
 
 |
 
-1.1.3 : Angioplastie hors syndrome coronaire aigu
+1.1.3 Angioplastie hors syndrome coronaire aigu
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
+Compatibilité selon avis spécialisé attestant d’un bon résultat clinique.
 
 |
 
-1.1.4 : Pontage coronaire
+1.1.4 Pontage coronaire
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
+Compatibilité selon avis spécialisé attestant d’un bon résultat clinique.
 
 |
 
-1.2. Troubles du rythme et/ou de la conduction
+1.2. Troubles du rythme et de la conduction
 
 |
 
-1.2.1 Tachycardie supraventriculaire paroxystique
+1.2.1 Tachycardie supra ventriculaire paroxystique
 
 |
 
-Avis spécialisé.
+Compatibilité selon avis spécialisé. Incompatibilité tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
@@ -82,119 +80,103 @@ Avis spécialisé.
 
 |
 
-Avis spécialisé et surveillance médicale régulière.
-
-En cas de signes fonctionnels sévères (lipothymie, syncope...), incompatibilité temporaire jusqu'au contrôle des symptômes.
-
-En cas de reprise de la conduite, avis spécialisé. Compatibilité temporaire sous réserve d'une surveillance médicale régulière.
+Compatibilité selon avis spécialisé. Incompatibilité tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
-1.2.3 Extrasystoles ventriculaires
+1.2.3 Tachycardie ventriculaire non soutenue sur cœur sain
 
 |
 
-Avis spécialisé.
+Compatibilité selon avis spécialisé après contrôle de la cause. Incompatibilité tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
-1.2.4 Tachycardie ventriculaire non soutenue sur cœur sain
+1.2.4 Tachycardie ventriculaire non soutenue sur cœur pathologique
 
 |
 
-Avis spécialisé et surveillance médicale régulière.
-
-En cas de signes fonctionnels sévères (lipothymie, syncope ...), incompatibilité temporaire jusqu'au contrôle des symptômes. En cas de reprise de la conduite, avis spécialisé. Compatibilité temporaire sous réserve d'une surveillance médicale régulière.
+Compatibilité selon avis spécialisé. Incompatibilité tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
-1.2.5 Tachycardie ventriculaire non soutenue sur cœur pathologique
+1.2.5 Tachycardie ventriculaire soutenue ou fibrillation ventriculaire en rapport avec une cause aiguë et curable
 
 |
 
-La conduite sera reprise après avis spécialisé, et sous réserve d'une surveillance médicale régulière.
+Compatibilité selon avis spécialisé, après contrôle de la cause. Incompatibilité en cas de tachycardie ventriculaire soutenue et/ou tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
-1.2.6 Tachycardie ventriculaire soutenue ou fibrillation ventriculaire en rapport avec une cause aiguë et curable
+1.2.6 Tachycardie ventriculaire soutenue ou fibrillation ventriculaire en rapport avec une cause chronique
 
 |
 
-La conduite sera reprise après avis spécialisé, et sous réserve d'une surveillance médicale régulière.
+Compatibilité avec la conduite selon avis spécialisé. Incompatibilité en cas de tachycardie ventriculaire soutenue et/ou tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
-1.2.7 Tachycardie ventriculaire soutenue ou fibrillation ventriculaire en rapport avec une cause chronique
+1.2.7 Défibrillateur automatique implantable
 
 |
 
-Incompatibilité temporaire. La conduite sera reprise selon l'avis spécialisé, compatibilité temporaire de deux ans sous réserve d'une surveillance spécialisée régulière.
+Chez les patients porteurs d'un défibrillateur implantable, un avis d’aptitude limitée à cinq ans peut être rendu, selon avis spécialisé, et sous réserve d’un suivi spécialisé régulier. La reprise de la conduite ne peut être autorisée avant un délai minimum de
+
+3 mois en cas de primo-implantation (réduit à 2 semaines en prévention primaire) ou de choc électrique approprié délivré. En cas de choc électrique inapproprié, incompatibilité jusqu’à correction de la cause. La reprise de conduite après remplacement de matériel est déterminée selon avis spécialisé.
 
 |
 
-1.2.8 Défibrillateur automatique implantable en prévention secondaire
+1.2.8 Défibrillateur externe portable (gilet)
 
 |
 
-En cas de primo-implantation, la conduite sera reprise selon l'avis spécialisé.
-
-Compatibilité temporaire de 2 ans en l'absence de symptômes sévères (lipothymies, syncopes...), sous réserve d'une surveillance spécialisée régulière.
+Incompatibilité.
 
 |
 
-1.2.9 Défibrillateur automatique implantable en prévention primaire
+1.2.9 Dysfonction sinusale et bloc auriculo-ventriculaire
 
 |
 
-La conduite sera reprise selon l'avis spécialisé en l'absence de symptômes sévères et sous réserve d'une surveillance spécialisée régulière.
+Compatibilité selon avis spécialisé, notamment sur l’indication de pose d’un stimulateur cardiaque.
 
 |
 
-1.2.10 Dysfonction sinusale et bloc auriculo-ventriculaire
+1.2.10 Pose de stimulateur cardiaque
 
 |
 
-Avis spécialisé sur l'indication d'une stimulation cardiaque.
+Compatibilité selon avis spécialisé.
+
+Un avis d’aptitude limitée à cinq ans peut être rendu et sous réserve d’un suivi spécialisé régulier selon les symptômes et le risque d’évolution.
 
 |
 
-1.2.11 Pose de stimulateur cardiaque
+1.3. Syncope
 
 |
 
-La conduite sera reprise selon l'avis spécialisé, sous réserve d'une surveillance spécialisée régulière.
+1.3.1 Syncope unique sans pathologie sous-jacente
 
 |
 
-1.3. Troubles de la conscience
+Incompatibilité tant que le risque évolutif n’a pas été apprécié.
 
 |
 
-1.3.1 Syncope
+1.3.2 Syncope récurrente
 
 |
 
-Syncope unique
+Compatibilité avec la conduite selon avis spécialisé. Un avis d’aptitude peut être rendu limité dans le temps.
 
 |
 
-Incompatibilité jusqu'à l'évaluation du risque par un médecin.
+1.4. Accident vasculaire cérébral
 
 |
 
-Syncope récurrente
-
-|
-
-En l'absence de traitement spécifique, incompatibilité temporaire. La conduite sera reprise selon l'avis spécialisé.
-
-|
-
-1.3.2 Accidents vasculaires cérébraux
-
-|
-
-Accident ischémique transitoire
+1.4.1 Accident ischémique transitoire
 
 |
 
@@ -202,7 +184,7 @@ cf. 4.7
 
 |
 
-Infarctus cérébral
+1.4.2 Infarctus cérébral
 
 |
 
@@ -210,7 +192,7 @@ cf. 4.7
 
 |
 
-1.3.3 Anévrysmes cérébraux
+1.4.3 avec hémorragique et malformations vasculaires cérébrales
 
 |
 
@@ -218,81 +200,147 @@ cf. 4.7
 
 |
 
-1.4. Hypertension artérielle
+1.5. Hypertension artérielle
 
 |
 
-Incompatibilité si la pression artérielle systolique est supérieure à 220 mm Hg et/ou si la pression artérielle diastolique est supérieure à 130 mm Hg ou en cas de signes d'hypertension artérielle maligne. Si normalisation, compatibilité temporaire de 5 ans, sur avis médical, et après contrôle de la pression artérielle.
+HTA maligne
 
 |
 
-1.5. Insuffisance cardiaque chronique
+Incompatibilité en cas de signes d'hypertension artérielle maligne.
+
+Compatibilité avec la conduite selon avis spécialisé, après contrôle de l’HTA maligne.
 
 |
 
-Incompatibilité si l'insuffisance cardiaque est au stade IV permanent (classification New York Heart Association : NYHA).
-
-Compatibilité temporaire annuelle en cas de stade III permanent.
+1.6. Insuffisance cardiaque chronique
 
 |
 
-1.6. Valvulopathies
+1.6.1 Insuffisance cardiaque chronique NYHA IV permanent
 
 |
 
-1.6.1 Valvulopathie traitée médicalement
+Incompatibilité.
 
 |
 
-Compatibilité en l'absence de manifestations cliniques. Sinon cf. 1.2, 1.3.1, 1.3.2, et 1.5
+1.6.2 Insuffisance cardiaque classes NYHA III
 
 |
 
-1.6.2 Valvulopathie traitée chirurgicalement
+Stade III permanent : Compatibilité selon avis spécialisé. Un avis d’aptitude peut être rendu limité dans le temps selon avis spécialisé.
 
 |
 
-cf. 1.6.1. La conduite sera reprise selon l'avis spécialisé.
+1.7. Valvulopathies
 
 |
 
-1.7. Pathologies vasculaires
+1.7.1 Valvulopathie avec régurgitation aortique, sténose aortique, régurgitation mitrale ou sténose mitrale
 
 |
 
-1.7.1 Anévrysme aortique connu et/ou traité
+Compatibilité sur avis spécialisé. Incompatibilité s'il est estimé que la capacité́ fonctionnelle correspond à la classe NYHA IV ou si des épisodes de syncope ont été rapportés. Dans les autres cas un avis d’aptitude peut être rendu limité dans le temps, selon avis spécialisé.
 
 |
 
-Avis spécialisé si nécessaire.
+1.7.2 Valvulopathie traitée chirurgicalement
 
 |
 
-1.7.2 Thrombophlébite profonde des membres inférieurs
+Compatibilité selon avis spécialisé, et en l’absence de manifestations cliniques pouvant avoir un retentissement sur les impératifs de sécurité routière.
 
 |
 
-La conduite sera reprise selon l'avis médical.
+1.8. Pathologies vasculaires
 
 |
 
-1.8. Transplantation cardiaque
+Anévrisme aortique connu et/ou traité
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
-
-Compatibilité temporaire sur avis spécialisé.
+Incompatibilité lorsque le diamètre aortique maximal expose à un risque élevé́ de rupture soudaine. Après intervention, compatibilité selon avis spécialisé.
 
 |
 
-1.9. Cardiomyopathie hypertrophique
+1.9. Dispositifs d'assistance cardiaque
 
 |
 
-En l'absence de manifestations cliniques : compatibilité temporaire, sous réserve d'une surveillance cardiologique régulière.
+Compatibilité selon avis spécialisé.
 
-En présence de manifestations cliniques : incompatibilité, sauf avis spécialisé contraire.
+Un avis d’aptitude limitée dans le temps peut être rendu, et sous réserve de suivi spécialisé régulier.
+
+|
+
+1.10. Cardiopathie congénitale
+
+|
+
+Compatibilité selon avis spécialisé.
+
+Un avis d’aptitude peut être rendu limité dans le temps, selon l’avis spécialisé.
+
+|
+
+1.11. Transplantation cardiaque
+
+|
+
+Compatibilité selon avis spécialisé, et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière.
+
+Un avis d’aptitude limitée à cinq ans maximum peut être rendu et sous réserve de suivi spécialisé régulier.
+
+|
+
+1.12. Cardiomyopathies structurelles et électriques
+
+|
+
+1.12.1 Cardiomyopathies hypertrophiques
+
+|
+
+Compatibilité selon avis spécialisé,
+
+et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière. Un avis d’aptitude peut être rendu limité dans le temps, selon avis spécialisé.
+
+|
+
+1.12.2 Syndrome du QT long avec syncope, torsade de pointes et QTc> 500 ms
+
+|
+
+Compatibilité selon avis spécialisé, et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière.
+
+Un avis d’aptitude peut être rendu limité dans le temps, selon avis spécialisé.
+
+|
+
+1.12.3 Syndromes de Brugada, avec syncope ou mort subite cardiaque avortée
+
+|
+
+Compatibilité selon avis spécialisé, et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière.
+
+Un avis d’aptitude peut être rendu limité dans le temps, selon avis spécialisé
+
+|
+
+1.12.4
+
+Autres cardiomyopathies: cardiomyopathie ventriculaire droite arythmogène, cardiomyopathie par non compaction, tachycardie ventriculaire polymorphe catécholaminergique et syndrome du QT court, par exemple, ou cardiomyopathies non connues qui pourraient être découvertes
+
+|
+
+Compatibilité selon avis spécialisé,
+
+et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière.
+
+Un avis d’aptitude peut être rendu limité dans le temps, selon avis spécialisé.
 
 |
 
@@ -506,11 +554,19 @@ Les affections pouvant exposer un candidat ou conducteur, à la délivrance ou a
 
 |
 
-4.1.1 : Abus d'alcool ou usage nocif et dépendance
+4.1.1 : Mésusage d’alcool / Trouble de l’usage de l’alcool (1)
 
 |
 
-Incompatibilité durant la période d'alcoolisation. Avant autorisation de reprise de la conduite, réévaluation obligatoire par la commission médicale qui statue au vu de l'ensemble des éléments cliniques et/ou biologiques et, selon les cas, après avis spécialisé. Appréciation des modifications du comportement d'alcoolisation sur les éléments médicaux présentés : période probatoire d'un an. En cas de récidive, modulation de la périodicité des visites médicales avec raccourcissement des échéances à l'appréciation de la commission médicale, à l'issue de la période d'observation. En cas de dépendance forte avec signes de dépendance physique, témoignant d'une alcoolisation régulière, une incompatibilité peut être prononcée pendant une période de durée suffisante pour obtenir une capacité médicale compatible avec les exigences de la sécurité routière.
+4.1.1.1. Incompatibilité pendant la période d’alcoolisation. Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux, et, si nécessaire, les éléments biologiques ainsi qu’un avis spécialisé. À l’issue d’un premier examen justifié par ou objectivant un mésusage d’alcool, l’aptitude ne pourra être supérieure à un an afin d’évaluer les modifications du comportement d’alcoolisation. Les échéances peuvent être raccourcies, notamment en cas de récidive et/ou de mentions restrictives.
+
+Dans le cas de dépendance avec signes de dépendance physique, un avis d’inaptitude est prononcé dès lors que l’état médical ou les possibilités de mentions restrictives (Cf. 4.1.1.2) ne sont pas compatibles avec les exigences de la sécurité routière.
+
+4.1.1.2. L'évaluation, médicale, psychologique, sociale, administrative, peut permettre aux commissions médicales primaires ou d’appel de donner un avis d’aptitude temporaire de six à douze mois avec mention restrictive (article R. 226-2 du code de la route) : aptitude temporaire à la conduite avec l'obligation d'un véhicule équipé, par un professionnel agréé, ou par construction, d'un dispositif d'anti-démarrage par éthylotest électronique, homologué par l'autorité compétente.
+
+Cette aptitude est accompagnée du suivi médico psychologique obligatoire défini à l'annexe 2.
+
+À l'issue de la période d'aptitude temporaire à la conduite, réévaluation obligatoire par la commission médicale qui se prononce au vu des éléments cliniques et sociaux, ainsi qu’au vu de l'attestation obligatoire délivrée par l’établissement spécialisé en addictologie, et, si nécessaire, des éléments biologiques, si besoin après un avis spécialisé. Cette mention restrictive peut être renouvelée autant que de besoin.
 
 |
 
@@ -926,21 +982,45 @@ En raison d'une baisse éventuelle de la vigilance due aux modifications hémody
 
 |
 
-6.2. Diabète.
-
-Dans les paragraphes suivants, on distingue les cas d'"hypoglycémie sévère", où l'assistance d'une tierce personne est nécessaire, et les cas d'"hypoglycémie récurrente", lorsqu'une deuxième hypoglycémie sévère survient au cours d'une période de douze mois.
+6.2. Diabète
 
 |
 
-6.2.1 : Traité par médicaments pour le diabète
+6.2.1 Traité par médicaments pour le diabète
 
 |
 
-Cf. classe 1 et paragraphe 2.1. Avis spécialisé et contrôle médical régulier, adapté à chaque cas, dont l'intervalle ne doit toutefois pas excéder 5 ans. Le médecin sera particulièrement vigilant dans l'évaluation du risque hypoglycémique.
+Cf. classe 1 et paragraphe 2.1. Avis médical régulier, adapté à chaque cas, dont l’intervalle ne doit toutefois pas excéder
+
+5 ans. Le médecin sera particulièrement vigilant dans l’évaluation du risque hypoglycémique.
 
 |
 
-6.2.2 : Le permis de conduire n'est ni délivré ni renouvelé lorsque le candidat ou conducteur souffre d'hypoglycémie sévère récurrente et/ou d'une conscience altérée de l'hypoglycémie. Un conducteur diabétique doit prouver qu'il comprend le risque d'hypoglycémie et qu'il maîtrise la maladie de manière adéquate.
+6.2.2 Diabète traité par médicaments susceptibles de provoquer une hypoglycémie
+
+|
+
+Un candidat ou un conducteur souffrant de diabète qui suit un traitement médicamenteux susceptible de provoquer une hypoglycémie doit prouver qu'il comprend le risque d’hypoglycémie et qu'il maîtrise ce risque de manière adéquate.
+
+Le permis de conduire n'est ni maintenu, délivré ou renouvelé pour un candidat ou un conducteur qui n'est pas suffisamment conscient des risques liés à l'hypoglycémie.
+
+Le permis de conduire peut être maintenu, délivré ou renouvelé dans des cas exceptionnels à condition que ce maintien, cette délivrance ou ce renouvellement soit dûment justifié par un avis spécialisé et subordonné à un suivi médical régulier attestant que le sujet est toujours capable de conduire un véhicule dans des conditions compatibles avec les impératifs de sécurité routière.
+
+Un avis d’aptitude peut être rendu limité à 5 ans maximum, selon avis spécialisé.
+
+|
+
+6.2.3 Diabète avec hypoglycémie sévère récurrente
+
+On définit les cas d' hypoglycémie sévère , où l'assistance d'une tierce personne est nécessaire, et les cas d' hypoglycémie récurrente , lorsqu'une deuxième hypoglycémie sévère survient au cours d'une période de douze mois.
+
+|
+
+Le permis de conduire n'est ni maintenu, délivré ou renouvelé pour un candidat ou un conducteur qui souffre d'hypoglycémie sévère récurrente, à moins que ce maintien, cette délivrance ou ce renouvellement ne soit soutenu par un avis spécialisé et d’un suivi médical régulier.
+
+En cas d'hypoglycémie sévère récurrente survenant durant les heures de veille, le permis de conduire n'est ni maintenu, délivré ni renouvelé jusqu'à ce que trois mois se soient écoulés depuis la dernière crise.
+
+Le permis de conduire peut être maintenu, délivré ou renouvelé dans des cas exceptionnels à condition que ce maintien, cette délivrance ou ce renouvellement soit dûment justifié par un avis spécialisé et subordonné à un suivi médical régulier attestant que le sujet est toujours capable de conduire un véhicule dans des conditions compatibles avec les impératifs de sécurité routière
 
 |
 
@@ -954,65 +1034,61 @@ Le permis de conduire peut être délivré ou renouvelé à tout candidat ou con
 
 GROUPE LOURD
 
+Les candidats ou conducteurs des catégories C1, C1E, C, CE, D1, D1E, D et DE relèvent des normes requises pour le groupe lourd (groupe 2).
+
+Il en est de même pour les conducteurs de la catégorie B valable pour la conduite des taxis et des voitures de transport avec chauffeur, des ambulances, des véhicules affectés au ramassage scolaire ou des véhicules affectés au transport public de personnes, de la catégorie A valable pour la conduite des véhicules motorisés à deux ou trois roues utilisés pour le transport à titre onéreux de personnes ainsi que les enseignants de la conduite (voir article 2).
+
 CLASSE I : PATHOLOGIE CARDIO-VASCULAIRE
 
 |
 
-Les affections pouvant exposer tout candidat ou conducteur, à la délivrance ou au renouvellement d'un permis de conduire, à une défaillance de son système cardiovasculaire de nature à provoquer une altération subite des fonctions cérébrales constituent un danger pour la sécurité routière.
+Les pathologies ou affections cardiovasculaires peuvent provoquer une altération subite des fonctions cérébrales qui constitue un danger pour la sécurité routière si elle survient pendant l’action de conduite. Ces pathologies peuvent donc donner lieu à un aménagement du permis de conduire. Pour les pathologies cardiovasculaires suivantes, la compatibilité avec le maintien, la délivrance ou le renouvellement du permis de conduire ne peut être validée tant que le contrôle de ces pathologies ne permet pas d’assurer des conditions de conduite compatible avec les impératifs de sécurité routière. Pour la délivrance ou le maintien du permis de conduire, le médecin agréé s’appuie pour rendre son avis sur les données anamnestiques et cliniques et les avis des spécialistes qui assurent le suivi de la pathologie. Un avis d’aptitude à durée limitée peut être rendu dans les situations requérant un suivi médical régulier.
 
-La reprise de la conduite après tout événement cardiaque aigu et les renouvellements réguliers qui s'ensuivent imposent un avis et un suivi du médecin ou du spécialiste en charge du patient qui déterminera la périodicité des contrôles.
-
-Les risques additionnels liés à la conduite du groupe lourd, notamment chez les conducteurs professionnels, seront envisagés avec la plus extrême prudence.
-
-Les candidats ou conducteurs des catégories C1, C1E, C, CE, D1, D1E, D, et DE relèvent des normes physiques requises pour le groupe lourd (groupe 2).
-
-Il en est de même pour les candidats ou conducteurs de la catégorie B valable pour la conduite des taxis et des voitures de remise, des ambulances, des véhicules affectés à des opérations de ramassage scolaire ou des véhicules affectés au transport public des personnes, ainsi que les enseignants de la conduite (voir article 2).
+Pour les médecins intervenant dans le parcours de soin, ces mêmes critères doivent guider les recommandations à leurs patients sur la compatibilité de leur pathologie avec la conduite et l’orientation vers un médecin agréé pour évaluer l’aptitude.
 
 |
 
-1.1. Coronaropathies
+1.1 Coronaropathies
 
 |
 
-1.1.1 : Syndrome coronaire aigu : infarctus aigu du myocarde et/ou angine de poitrine instable
+1.1.1 Syndrome coronaire aigu : infarctus aigu du myocarde et/ou angine de poitrine instable
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
+Compatibilité selon avis spécialisé à la reprise de conduite, délivrance ou renouvellement de permis de conduire. En cas d’atteinte myocardique significative, la reprise de la conduite ne peut être autorisée qu’après un délai minimum de
 
-Compatibilité temporaire, sous réserve d'un suivi spécialisé régulier.
-
-Incompatibilité de tout syndrome coronarien non stabilisé.
+6 semaines.
 
 |
 
-1.1.2 : Coronaropathie asymptomatique et angine de poitrine stable
+1.1.2 Coronaropathie asymptomatique et angine de poitrine stable
 
 |
 
-Compatibilité, après avis spécialisé.
+Incompatibilité si symptomatique au repos, à l’effort léger ou lors de l’action de conduite. Compatibilité selon avis spécialisé attestant de la stabilisation de la pathologie.
 
 |
 
-1.1.3 : Angioplastie hors syndrome coronaire aigu
+1.1.3 Angioplastie hors syndrome coronaire aigu
 
 |
 
-Compatibilité, après avis spécialisé.
+La reprise de la conduite ne peut être autorisée qu’après un délai minimum de
+
+4 semaines après réalisation de l’angioplastie. Compatibilité selon avis spécialisé attestant de la récupération et des résultats satisfaisants.
 
 |
 
-1.1.4 : Pontage coronaire
+1.1.4 Pontage coronaire
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
-
-Compatibilité temporaire après avis spécialisé et sous réserve d'un suivi spécialisé régulier.
+Compatibilité à la reprise de conduite selon l’avis spécialisé.
 
 |
 
-1.2. Troubles du rythme et/ou de la conduction
+1.2 Troubles du rythme et de la conduction
 
 |
 
@@ -1020,7 +1096,7 @@ Compatibilité temporaire après avis spécialisé et sous réserve d'un suivi s
 
 |
 
-Incompatibilité jusqu'au contrôle des symptômes. Compatibilité après avis spécialisé, et sous réserve d'un suivi médical régulier.
+Incompatibilité en cas de signes fonctionnels sévères (lipothymies, syncopes...) jusqu'au contrôle des symptômes. Compatibilité selon avis spécialisé. Un avis d’aptitude avec limitation dans le temps pourra être rendu, sous réserve d’un suivi spécialisé régulier.
 
 |
 
@@ -1028,15 +1104,15 @@ Incompatibilité jusqu'au contrôle des symptômes. Compatibilité après avis s
 
 |
 
-Incompatibilité jusqu'au contrôle des symptômes. Compatibilité après avis spécialisé, et sous réserve d'un suivi médical régulier.
+Incompatibilité en cas de signes fonctionnels sévères (lipothymies, syncopes...) jusqu'au contrôle des symptômes. Compatibilité selon avis spécialisé, Un avis d’aptitude peut être rendu limité dans le temps, selon l’avis spécialisé.
 
 |
 
-1.2.3 Extrasystoles ventriculaires
+1.2.3 Extrasystoles ventriculaires sur cœur pathologique
 
 |
 
-Compatibilité temporaire après avis spécialisé, puis selon l'évolution clinique, retour à la périodicité réglementaire des visites médicales
+Compatibilité selon les éventuelles restrictions liées à la cardiopathie sous-jacente.
 
 |
 
@@ -1044,7 +1120,7 @@ Compatibilité temporaire après avis spécialisé, puis selon l'évolution clin
 
 |
 
-Incompatibilité jusqu'au contrôle des symptômes. Compatibilité après avis spécialisé, et sous réserve d'un suivi médical régulier.
+Compatibilité selon avis spécialisé. Incompatibilité tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes).
 
 |
 
@@ -1052,7 +1128,7 @@ Incompatibilité jusqu'au contrôle des symptômes. Compatibilité après avis s
 
 |
 
-Incompatibilité jusqu'à évaluation précise du risque par un spécialiste. Compatibilité temporaire après avis spécialisé, et sous réserve d'un suivi spécialisé semestriel.
+Incompatibilité temporaire jusqu’à avis spécialisé, et tant que les symptômes ne sont pas contrôlés (notamment lipothymies et syncopes). Compatibilité selon avis spécialisé. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
 
 |
 
@@ -1060,9 +1136,9 @@ Incompatibilité jusqu'à évaluation précise du risque par un spécialiste. Co
 
 |
 
-Incompatibilité jusqu'au contrôle des symptômes.
+Incompatibilité temporaire jusqu’à avis spécialisé et contrôle de la cause.
 
-Compatibilité temporaire sur avis cardiologique. sous réserve d'un suivi spécialisé semestriel.
+Puis compatibilité après contrôle de la cause et selon avis spécialisé.
 
 |
 
@@ -1070,27 +1146,25 @@ Compatibilité temporaire sur avis cardiologique. sous réserve d'un suivi spéc
 
 |
 
-Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
+Incompatibilité jusqu’à avis spécialisé. Si confirmation d’une cause non curable : incompatibilité permanente.
 
 |
 
-1.2.8 Défibrillateur automatique implantable en prévention secondaire
+1.2.8 Défibrillateur automatique implantable
 
 |
 
-Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité.
+Avis spécialisé obligatoire.
 
-(En cas de refus d'implantation par le patient, se reporter à l'affection justifiant l'indication.)
-
-|
-
-1.2.9 Défibrillateur automatique implantable en prévention primaire
+Incompatibilité si confirmation de l'indication d’une pose d’un défibrillateur. En cas de refus d'implantation par le patient, maintien de l'incompatibilité.
 
 |
 
-Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
+1.2.9 Défibrillateur externe portable (gilet)
 
-(En cas de refus d'implantation par le patient, se reporter à l'affection justifiant l'indication.)
+|
+
+Incompatibilité.
 
 |
 
@@ -1098,7 +1172,7 @@ Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
 
 |
 
-Compatibilité temporaire si, après avis spécialisé, il n'y a pas d'indication à une stimulation cardiaque.
+Compatibilité selon avis spécialisé, et absence d’indication de pose d’un stimulateur cardiaque. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
 
 |
 
@@ -1106,41 +1180,35 @@ Compatibilité temporaire si, après avis spécialisé, il n'y a pas d'indicatio
 
 |
 
-La conduite sera reprise selon l'avis spécialisé.
-
-Compatibilité temporaire et sous réserve d'une surveillance spécialisée régulière.
+Compatibilité selon avis spécialisé, et après un délai minimum de 2 semaines suivant l’implantation ou le remplacement du stimulateur. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier, selon les symptômes et le risque d’évolution.
 
 |
 
-1.3. Troubles de la conscience
+1.3. Syncope
 
 |
 
-1.3.1 Syncope
+1.3.1 Syncope unique sans pathologie sous-jacente
 
 |
 
-Syncope unique
+Incompatibilité jusqu'à l'évaluation du risque évolutif par un spécialiste.
 
 |
 
-Incompatibilité temporaire jusqu'à l'évaluation du risque par un spécialiste.
+1.3.2 Syncope récurrente
 
 |
 
-Syncope récurrente
+Incompatibilité sauf avis spécialisé favorable précisant notamment l’efficacité du traitement éventuel et l’absence de risque de récidive. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
 
 |
 
-Incompatibilité, sauf en cas d'avis spécialisé favorable.
+1.4. Accidents vasculaires cérébraux
 
 |
 
-1.3.2 Accidents vasculaires cérébraux
-
-|
-
-Accident ischémique transitoire
+1.4.1 Accident ischémique transitoire
 
 |
 
@@ -1148,7 +1216,7 @@ cf. 4.7
 
 |
 
-Infarctus cérébral
+1.4.2 Infarctus cérébral
 
 |
 
@@ -1156,7 +1224,7 @@ cf. 4.7
 
 |
 
-1.3.3 Anévrismes cérébraux
+1.4.3 avec hémorragique et malformations vasculaires cérébrales
 
 |
 
@@ -1164,79 +1232,145 @@ cf. 4.7
 
 |
 
-1.4. Hypertension artérielle
+1.5. Hypertension artérielle
 
 |
 
-Incompatibilité si la pression artérielle systolique est supérieure à 180 mmHg et /ou si la pression artérielle diastolique est supérieure à 100 mmHg ou en cas de signes d'hypertension artérielle maligne.
-
-Si normalisation, compatibilité temporaire 2 ans, sur avis médical et contrôle de la mesure ambulatoire de la pression artérielle.
+HTA maligne et HTA grade III
 
 |
 
-1.5. Insuffisance cardiaque chronique
+Incompatibilité en cas d’HTA grade III (pression artérielle systolique supérieure à 180 mmHg et /ou si la pression artérielle diastolique est supérieure à 110 mmHg) ou en cas de signes d'hypertension artérielle maligne. Compatibilité selon avis spécialisé pour l’HTA maligne, et/ou après stabilisation de l’HTA sous ces seuils. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi médical régulier.
 
 |
 
-Incompatibilité si l'insuffisance cardiaque est au stade 3 ou 4 permanent (classification New York Heart Association : NYHA).
+1.6. Insuffisance cardiaque chronique
 
 |
 
-1.6. Valvulopathies
-
-|
-
-1.6.1 Valvulopathie traitée médicalement
-
-|
-
-Incompatibilité si symptomatique. Compatibilité temporaire après 6 mois sans symptôme, sur avis spécialisé et sous réserve d'une surveillance médicale.
-
-|
-
-1.6.2 Valvulopathie traitée chirurgicalement
-
-|
-
-Incompatibilité temporaire, puis cf. 1.6.1.
-
-|
-
-1.7. Pathologies vasculaires
-
-|
-
-1.7.1 Anévrisme aortique connu et/ou traité
-
-|
-
-Incompatibilité si diamètre supérieur à 5 cm.
-
-Compatibilité temporaire après intervention sur avis spécialisé et sous réserve d'un suivi spécialisé régulier.
-
-|
-
-1.7.2 Thrombophlébite profonde des membres inférieurs
-
-|
-
-La conduite sera reprise selon l'avis médical.
-
-|
-
-1.8. Transplantation cardiaque
-
-|
-
-Incompatibilité si symptomatique. Compatibilité temporaire annuelle pendant deux ans, puis tous les deux ans ensuite, sur avis spécialisé et sous réserve d'un suivi spécialisé régulier.
-
-|
-
-1.9. Cardiomyopathie hypertrophique
+1.6.1. Insuffisance cardiaque chronique NYHA III et IV permanent
 
 |
 
 Incompatibilité.
+
+|
+
+1.6.2 Insuffisance cardiaque classes NYHA I, II
+
+|
+
+Compatibilité selon avis spécialisé. Incompatibilité si FE <35%.
+
+Si FE>35%, un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.7. Valvulopathies
+
+|
+
+1.7.1 Valvulopathie avec régurgitation aortique, sténose aortique, régurgitation mitrale ou sténose mitrale
+
+|
+
+Incompatibilité si la capacité́ fonctionnelle correspond à la classe NYHA III ou IV, ou si des épisodes de syncope ont été́ rapportés. Dans les autres cas, compatibilité sur avis spécialisé. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.7.2 Valvuloplastie traitée chirurgicalement
+
+|
+
+Compatibilité selon avis spécialisé. Incompatibilité en cas de manifestations cliniques pouvant avoir un retentissement sur les impératifs de sécurité routière.
+
+Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.8. Pathologies vasculaires
+
+|
+
+1.8.1 Anévrisme aortique connu et/ou traité
+
+|
+
+Incompatibilité si diamètre supérieur à 5,5 cm.
+
+Après intervention : compatibilité donnée sous réserve selon avis spécialisé. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.8.2 Sténose carotidienne serrée
+
+|
+
+Compatibilité selon avis spécialisé.
+
+Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.9. Dispositifs d'assistance cardiaque
+
+|
+
+Incompatibilité.
+
+|
+
+1.10. Cardiopathie congénitale
+
+|
+
+Compatibilité selon avis spécialisé.
+
+L’avis d’aptitude peut être rendu limité dans le temps, selon l’avis spécialisé.
+
+|
+
+1.11. Transplantation cardiaque
+
+|
+
+Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.12. Cardiomyopathies structurelles et électriques
+
+|
+
+1.12.1 Cardiomyopathie hypertrophique
+
+|
+
+Compatibilité selon avis spécialisé. Incompatibilité si antécédents de syncope ou lorsqu'au moins deux des conditions ci-après sont réunies : épaisseur de la paroi du ventricule gauche > 3 cm, tachycardie ventriculaire non soutenue, antécédents familiaux de mort subite (parent du premier degré), pas d'élévation de la pression artérielle à l'effort. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
+
+|
+
+1.12.2 Syndrome du QT long avec syncope, torsade de pointes et QTc> 500 ms
+
+|
+
+Incompatibilité.
+
+|
+
+1.12.3 Syndrome de Brugada, avec syncope ou mort subite cardiaque avortée
+
+|
+
+Incompatibilité.
+
+|
+
+1.12.4 Autres cardiomyopathies connues (cardiomyopathie ventriculaire droite arythmogène, cardiomyopathie par non compaction, tachycardie ventriculaire polymorphe catécholaminergique et syndrome du QT court, par exemple) ou des cardiomyopathies non connues
+
+|
+
+Compatibilité selon avis spécialisé, notamment sur le risque d'événement invalidant soudain et en l’absence de symptômes pouvant avoir un retentissement sur les impératifs de sécurité routière. Un avis d’aptitude avec limitation dans le temps peut être rendu, sous réserve d’un suivi spécialisé régulier.
 
 |
 
@@ -1480,19 +1614,15 @@ Les risques additionnels liés à la conduite du groupe lourd, notamment chez le
 
 |
 
-4.1.1. Abus d'alcool ou usage nocif et dépendance
+4.1.1 : Mésusage d’alcool / Trouble de l’usage de l’alcool (1)
 
 |
 
-Incompatibilité durant la période d'alcoolisation.
+Incompatibilité pendant la période d’alcoolisation.
 
-Avant autorisation de la reprise de la conduite, réévaluation obligatoire par la commission médicale qui statue au vu de l'ensemble des éléments cliniques et/ou biologiques et, selon les cas, après avis spécialisé. Appréciation des modifications du comportement d'alcoolisation sur les éléments médicaux présentés : période d'observation de 6 mois, renouvelable.
+Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux et, si nécessaire, les éléments biologiques ainsi qu’un avis spécialisé. À l’issue d’un premier examen justifié par ou objectivant un mésusage d’alcool, l’aptitude ne pourra être supérieure à six mois afin d’évaluer les modifications du comportement d’alcoolisation.
 
-En cas de récidive, modulation de la périodicité des visites médicales avec raccourcissement des échéances à 1 an, voire 6 mois, renouvelable pendant 3 ans.
-
-En cas de dépendance forte avec signes de dépendance physique témoignant d'une alcoolisation régulière, incompatibilité totale peut être prononcée pendant une période pouvant aller jusqu'à 18 mois pour obtenir une capacité médicale compatible avec les exigences de la sécurité routière. Avant autorisation de la conduite, réévaluation obligatoire à 1 an par la commission médicale qui confirme l'abstention totale de consommation d'alcool au vu des éléments médicaux présentés dont un avis spécialisé obligatoire : période d'observation de 6 mois renouvelable pendant 3 ans. Ultérieurement, modulation de la périodicité des visites médicales avec raccourcissement des échéances à l'appréciation de la commission médicale.
-
-Incompatibilité pour les véhicules des catégories D1, D1E, D, DE, C1, C1E, C, CE.
+Dans le cas de dépendance avec signes de dépendance physique, un avis d’inaptitude est prononcé dès lors que l’état médical n’est pas compatible avec les exigences de la sécurité routière. Dans ce cas ou dans les cas de récidive, une fois que les conditions médicales, établies au vu des éléments médicaux présentés, lesquels comprennent obligatoirement un avis spécialisé, permettent de prononcer un avis d’aptitude médicale à la conduite, la situation sera réévaluée tous les six mois pendant les trois premières années au moins. Ultérieurement, la périodicité des examens sera à l’appréciation de la commission médicale.
 
 Les risques additionnels liés aux conditions de travail seront envisagés avec la plus extrême prudence.
 
@@ -1865,3 +1995,11 @@ Dans certains cas particuliers, une compatibilité temporaire pourra être envis
 Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex. : greffe de rein, de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé. En cas de greffe ayant une incidence sur la capacité à conduire, la décision est laissée à l'appréciation du médecin agréé.
 
 |
+
+NOTA :
+
+(1) Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions sont applicables à titre expérimental à compter du 1er décembre 2016 et jusqu'au 31 décembre 2018, dans les départements de la Drôme, de la Marne et du Nord.
+
+Un rapport d'évaluation est rendu trois mois au plus tard avant la fin de cette période expérimentale.
+
+Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions entrent en vigueur le 1er janvier 2019 dans tous les départements.
