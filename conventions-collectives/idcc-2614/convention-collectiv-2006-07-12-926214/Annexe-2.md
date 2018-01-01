@@ -4,105 +4,107 @@ Présentation générale
 
 Les classifications des ETAM et des cadres répondent à 3 objectifs partagés par tous :
 
-― attirer les jeunes et les fidéliser ;
+– attirer les jeunes et les fidéliser ;
 
-― revaloriser l'image de nos métiers ;
+– revaloriser l'image de nos métiers ;
 
-― renouveler et favoriser la mobilité professionnelle à l'intérieur de l'entreprise et de la branche.
+– renouveler et favoriser la mobilité professionnelle à l'intérieur de l'entreprise et de la branche.
 
-Il s'agit donc de décrire les emplois de nos professions en tenant compte de leur état actuel (plus grande technicité, diversité des compétences...) et de leurs développements probables (car on écrit pour longtemps et le système doit pouvoir évoluer).
+Il s'agit donc de décrire les emplois de nos professions en tenant compte de leur état actuel (plus grande technicité, diversité des compétences …) et de leurs développements probables (car on écrit pour longtemps et le système doit pouvoir évoluer).
 
 Il s'agit aussi de favoriser l'évolution des parcours professionnels dans les travaux publics.
 
-Pour remplir ces objectifs, les projets de classification mettent en oeuvre divers moyens.
+Pour remplir ces objectifs, les projets de classifications mettent en œuvre divers moyens.
 
-Les critères classants
+Critères classants
 
-Ces critères repris des classifications Ouvriers sont désormais communs aux 3 catégories de personnel : ouvriers, ETAM, cadres, ce qui en fait un élément favorisant l'évolution de carrière des salariés. En rendant plus lisibles à travers ces critères les différents emplois, les salariés peuvent mieux imaginer leur propre évolution au sein d'une grille et d'une grille à l'autre.
+Ces critères repris des classifications ouvriers sont désormais communs aux 3 catégories de personnel : ouvriers, ETAM, cadres, ce qui en fait un élément favorisant l'évolution de carrière des salariés. En rendant plus lisibles à travers ces critères les différents emplois, les salariés peuvent mieux imaginer leur propre évolution au sein d'une grille et d'une grille à l'autre.
 
 Ces critères permettent de décrire le contenu actuel des emplois. Ils permettent également d'éviter de lister tous les postes existants, ce qui serait difficilement exhaustif et rapidement obsolète, comme le sont les filières contenues dans l'actuelle classification des ETAM. Les critères classants permettent donc d'inscrire les classifications dans la durée.
 
-Ces critères, qui ne comportent pas de hiérarchie entre eux, appréhendent tous les aspects des emplois :
+Ces critères qui ne comportent pas de hiérarchie entre eux appréhendent tous les aspects des emplois :
 
-― le contenu de l'activité, la responsabilité dans l'organisation du travail : que fait le salarié ?
+– le contenu de l'activité – la responsabilité dans l'organisation du travail : que fait le salarié ? ;
 
-― l'autonomie, l'initiative, l'adaptation, la capacité à recevoir délégation : comment le fait-il ?
+– l'autonomie, l'initiative, l'adaptation, la capacité à recevoir délégation : comment le fait-il ? ;
 
-― la technicité, l'expertise : de quelles connaissances techniques a-t-il besoin ?
+– la technicité, l'expertise : de quelles connaissances techniques a-t-il besoin ? ;
 
-― les compétences acquises par expérience ou formation : comment est identifiée l'acquisition de ses connaissances et compétences ?
+– les compétences acquises par expérience ou formation : comment est identifiée l'acquisition de ses connaissances et compétences ?
 
-Par rapport aux classifications actuelles, les définitions des emplois ont été enrichies pour tenir compte et valoriser l'ensemble des compétences qu'ils nécessitent ; par exemple :
+Par rapport aux classifications actuelles, les définitions des emplois ont été enrichies pour tenir compte et valoriser l'ensemble des compétences qu'ils nécessitent.
 
-― dans le critère « Contenu de l'activité, responsabilité dans l'organisation du travail », la notion de résolution de problèmes a été introduite.
+Par exemple :
 
-A partir des positions de maîtrise, il est tenu compte de la transmission des connaissances ; il s'agit d'une mise en commun des « bonnes pratiques », ce qui est essentiel pour le maintien des savoirs dans l'entreprise et la cohérence des équipes.
+Dans le critère contenu de l'activité – Responsabilité dans l'organisation du travail, la notion de résolution de problèmes a été introduite.
 
-Dans la grille Cadres notamment, la créativité des salariés est prise en compte puisqu'ils peuvent proposer, définir des solutions nouvelles, innovantes, etc. ;
+À partir des positions de maîtrise, il est tenu compte de la transmission des connaissances ; il s'agit d'une mise en commun des « bonnes pratiques », ce qui est essentiel pour le maintien des savoirs dans l'entreprise et la cohérence des équipes.
 
-― autre exemple : dans le critère « Autonomie, initiative, adaptation, capacité à recevoir délégation », il est tenu compte, à partir des niveaux de maîtrise, de la notion de communication.
+Dans la grille cadres notamment, la créativité des salariés est prise en compte puisqu'ils peuvent proposer, définir des solutions nouvelles, innovantes …
 
-Ces définitions pourront à ce titre inciter les entreprises à mettre en oeuvre à leur niveau des démarches « compétences ».
+Autre exemple : dans le critère autonomie – initiative – adaptation – capacité à recevoir délégation, il est tenu compte à partir des niveaux de maîtrise de la notion de communication.
 
-Enfin, pour illustrer la progression de carrière, les définitions des emplois déclinent ces critères classants de façon progressive à chaque position de classement sur chacune des 2 grilles de classification.
+Ces définitions pourront à ce titre inciter les entreprises à mettre en œuvre à leur niveau des démarches compétences.
 
-Le nombre de positions et de niveaux de classement
+Enfin, pour illustrer la progression de carrière, les définitions des emplois déclinent ces critères classants de façon progressive à chaque position de classement sur chacune des deux grilles de classifications.
 
-La grille ETAM se développe sur 8 niveaux de classement, 4 niveaux d'employés, 4 niveaux de techniciens et d'agents de maîtrise. Celle des cadres, sur 4 niveaux regroupant 8 positions (compte non tenu de la position D qui regroupe les cadres dont les missions ne sont pas définies).
+Nombre de positions et de niveaux de classement
+
+La grille ETAM se développe sur 8 niveaux de classement – 4 niveaux d'employés, 4 niveaux de techniciens et d'agents de maîtrise. Celle des cadres, sur 4 niveaux regroupant 9 positions (compte non tenu de la position D qui regroupe les cadres dont les missions ne sont pas définies).
 
 Cette harmonisation du nombre de possibilités de classement constitue un élément de valorisation des ETAM.
 
-Dans la grille Cadres, pour permettre un développement des parcours professionnels, les positions de classement sont associées 2 par 2 : un 1er niveau d'exercice de la fonction, un niveau de confirmation qui reconnaît l'expérience et la pratique professionnelles acquises par les salariés.
+Dans la grille cadres, pour permettre un développement des parcours professionnels, les positions de classement sont associées, à l'exception de la position B, deux par deux : un premier niveau d'exercice de la fonction, un niveau de confirmation qui reconnaît l'expérience et la pratique professionnelles acquises par les salariés.
 
-Il en est de même dans la grille ETAM, surtout à partir du niveau C : pour les employés, le niveau D confirme le niveau C ; pour la maîtrise, le niveau F confirme le niveau E, et le niveau H confirme le niveau G.
+Il en est de même dans la grille ETAM surtout à partir du niveau C : pour les employés, le niveau D confirme le niveau C ; pour la maîtrise, le niveau F confirme le niveau E et le niveau H confirme le niveau G.
 
 Les niveaux et positions de confirmation qui constituent des possibilités de classement à part entière sont marqués par une plus grande amplitude des définitions. Le niveau H en est la pleine illustration : à ce niveau, le contenu d'activité est uniquement défini par l'expérience confirmée qui donne au salarié la complète maîtrise des fonctions de niveau G. Cette approche permet également de marquer la différence entre la maîtrise et les cadres.
 
-La reconnaissance de 2 types d'emplois
+Reconnaissance de deux types d'emplois
 
-La grille ETAM accueille les employés dans les niveaux A à D inclus. Pour mieux identifier et valoriser les compétences acquises, cette grille décline 2 voies à partir du niveau E, 1er niveau de maîtrise :
+La grille ETAM accueille les employés dans les niveaux A à D inclus. Pour mieux identifier et valoriser les compétences acquises, cette grille décline 2 voies à partir du niveau E, premier niveau de maîtrise :
 
-― la voie des techniques jusqu'à de hauts niveaux de technicité ;
+– la voie des techniques jusqu'à de hauts niveaux de technicité ;
 
-― la voie de la maîtrise (on parle de commandement et d'animation).
+– la voie de la maîtrise (on parle de commandement et d'animation).
 
-Cette même démarche vaut pour la grille Cadres dans laquelle existent :
+Cette même démarche vaut pour la grille cadres dans laquelle existent :
 
-― la voie où prédomine la fonction d'expertise poussée à un très haut niveau ;
+– la voie où prédomine la fonction d'expertise poussée à un très haut niveau ;
 
-― la voie où prédomine le management des hommes (on parle de « direction » par différence avec la maîtrise).
+– la voie où prédomine le management des hommes (on parle de direction par différence avec la maîtrise).
 
-Il s'agit là encore d'un élément améliorant la lisibilité des cursus professionnels puisque cette idée est déjà contenue dans la grille Ouvriers, dont le niveau IV accueille à la fois les maîtres ouvriers et les chefs d'équipe.
+Il s'agit là encore d'un élément améliorant la lisibilité des cursus professionnels puisque cette idée est déjà contenue dans la grille ouvriers dont le niveau IV accueille à la fois les maîtres ouvriers et les chefs d'équipe.
 
-L'accueil des jeunes diplômés
+Accueil des jeunes diplômés
 
-Tout en reconnaissant la valeur du diplôme obtenu dans le cadre de la formation initiale, il s'agit de permettre aux jeunes d'acquérir une première expérience professionnelle, c'est-à-dire d'acquérir dans l'entreprise leur propre « légitimité » dans l'emploi qu'ils exercent. 2 dispositifs ont été prévus :
+Tout en reconnaissant la valeur du diplôme obtenu dans le cadre de la formation initiale, il s'agit de permettre aux jeunes d'acquérir une première expérience professionnelle, c'est-à-dire d'acquérir dans l'entreprise leur propre « légitimité » dans l'emploi qu'ils exercent. Deux dispositifs ont été prévus :
 
-― pour les ETAM, lors de son entrée dans l'entreprise le jeune est classé dans l'emploi correspondant à la spécialité qu'il met en oeuvre.
+Pour les ETAM, lors de son entrée dans l'entreprise, le jeune est classé dans l'emploi correspondant à la spécialité qu'il met en œuvre.
 
-Ce classement est assorti d'une période d'accueil et d'intégration, dont la durée varie selon le diplôme mis en oeuvre. Au terme de cette période, un entretien de bilan permet au salarié et au chef d'entreprise (ou à son représentant) d'examiner la situation particulière du jeune et son évolution de carrière dans l'entreprise.
+Ce classement est assorti d'une période d'accueil et d'intégration dont la durée varie selon le diplôme mis en œuvre. Au terme de cette période, un entretien de bilan permet au salarié et au chef d'entreprise (ou à son représentant) d'examiner la situation particulière du jeune et son évolution de carrière dans l'entreprise.
 
 Lorsque le diplôme a été obtenu par l'apprentissage ou à la suite d'une formation par alternance, la durée de cette période peut être réduite de moitié. Elle peut même être supprimée si le jeune demeure dans l'entreprise dans laquelle il a été apprenti ou a exécuté son contrat par alternance.
 
-Ce mécanisme encourage l'acquisition par les jeunes d'une première expérience la formation a été effectuée à l'initiative du salarié ;
+Ce mécanisme encourage l'acquisition par les jeunes d'une première expérience, la formation ayant été effectuée à l'initiative du salarié ;
 
-― pour les cadres, 2 niveaux spécifiques d'entrée dans la profession pour les jeunes diplômés sont prévus dans la grille : les positions cadres A1 et cadres A2.
+Pour les cadres, 2 niveaux spécifiques d'entrée dans la profession pour les jeunes diplômés sont prévus dans la grille : les positions cadres A1 et cadres A2.
 
 La position cadres A1 est celle où le cadre débutant « prend ses marques » : par exemple, il s'initie aux techniques de l'entreprise, s'approprie les méthodes et pratiques d'organisation du travail, s'adapte à l'entreprise et à son environnement.
 
-La position cadres A2 est conçue comme étant le niveau de confirmation du cadre A1. Il est aussi le niveau d'entrée des jeunes débutants diplômés de grandes écoles ou titulaires d'un diplôme de niveau DESS, DEA, etc.
+La position cadres A2 est conçue comme étant le niveau de confirmation du cadre A1. Il est aussi le niveau d'entrée des jeunes débutants diplômés de grandes écoles ou titulaires d'un diplôme de niveau master 2 …
 
-Les cadres débutants ne peuvent passer plus de 3 ans en tout dans ces 2 positions. Passé ce délai, le jeune cadre sera classé dans l'une des positions de la grille cadres.
+Les cadres débutants ne peuvent passer plus de 3 ans en tout dans ces deux positions. Cette durée maximum s'apprécie dans la profession et non dans l'entreprise. Passé ce délai, le jeune cadre sera classé dans l'une des positions de la grille cadres.
 
-Evolution de carrière
+Évolution de carrière
 
 Deux mécanismes sont prévus :
 
-― un dispositif « classique » de promotion en cas d'exercice simultané, pendant 6 mois décomptés en 1 ou plusieurs fois, de plusieurs emplois impliquant des tâches d'une position ou d'un niveau supérieur ;
+– un dispositif « classique » de promotion en cas d'exercice simultané, pendant 6 mois décomptés en une ou plusieurs fois, de plusieurs emplois impliquant des tâches d'une position ou d'un niveau supérieur ;
 
-― un dispositif réellement novateur, c'est-à-dire l'institution pour les ETAM et les cadres d'un entretien individuel, au moins biennal, qui aura lieu à la demande du salarié ou à l'initiative de l'employeur, afin de déterminer, compte tenu des souhaits du salarié, quelles sont ses possibilités d'évolution au sein de chaque grille et de la grille ETAM vers la grille Cadres.
+– un dispositif réellement novateur, c'est-à-dire institution pour les ETAM et les cadres d'un entretien individuel, au moins biennal, qui aura lieu à la demande du salarié ou à l'initiative de l'employeur, afin de déterminer, compte tenu des souhaits du salarié, quelles sont ses possibilités d'évolution au sein de chaque grille et de la grille ETAM vers la grille cadres.
 
-Dans cette perspective, la compétence acquise par expérience prime sur les diplômes initiaux mis en oeuvre dans l'emploi.
+Dans cette perspective, la compétence acquise par expérience prime sur les diplômes initiaux mis en œuvre dans l'emploi.
 
 Cette évolution vers la catégorie cadres peut avoir lieu à partir de la position G de la classification ETAM.
 
@@ -114,29 +116,29 @@ Présentation de la classification ETAM
 
 La grille ETAM se développe sur 8 niveaux de classement :
 
-― 4 niveaux d'employés : niveaux A à D ;
+– 4 niveaux d'employés : niveaux A à D ;
 
-― 4 niveaux de techniciens et d'agents de maîtrise : niveaux E à F.
+– 4 niveaux de techniciens et d'agents de maîtrise : niveaux E à F.
 
-Les employés
+Les employés :
 
 Le niveau A est un niveau de simple exécution : les travaux sont simples et répétitifs ; ces travaux nécessitent un apprentissage de courte durée. Il peut s'agir également de travaux d'aide. L'employé est responsable de la qualité du travail fourni et des échéances qui lui sont indiquées, sous l'autorité de sa hiérarchie.
 
 En effet, le salarié les exécute en suivant les consignes précises qu'il a reçues. Dans ce cadre, il peut prendre des initiatives élémentaires. Il doit respecter les règles de sécurité relatives à son emploi et à l'environnement dans lequel il se trouve.
 
-Ce niveau ne demande aucune connaissance spécifique, ni formation validée mais une initiation professionnelle ou une adaptation préalable.
+Ce niveau ne demande aucune connaissance spécifique ni formation validée mais une initiation professionnelle ou une adaptation préalable.
 
-Le niveau B comprend des travaux d'exécution dépourvus de difficulté particulière ou bien l'ETAM de niveau B assiste un ETAM de niveau supérieur. Comme au niveau A, ce salarié est responsable de la qualité du travail fourni et des échéances qui lui sont indiquées, sous l'autorité de sa hiérarchie. Mais il se distingue de ce niveau car il exécute ses tâches en suivant des instructions précises (et non des consignes ciblées sur une tâche donnée).
+Le niveau B comprend des travaux d'exécution dépourvus de difficulté particulière ou bien l'ETAM de niveau B assiste un ETAM de niveau supérieur. Comme au niveau A, ce salarié est responsable de la qualité du travail fourni et des échéances qui lui sont indiquées, sous l'autorité de sa hiérarchie mais il se distingue de ce niveau car il exécute ses tâches en suivant des instructions précises (et non des consignes ciblées sur une tâche donnée).
 
 De même, il peut avoir une part d'initiatives qui portent sur le choix des modes d'exécution de son travail (elles ne sont plus qualifiées d'élémentaires) et il peut être appelé à effectuer des démarches courantes. C'est un niveau où est reconnue une première qualification. L'intéressé a acquis ses compétences par l'expérience vécue en niveau A ou par la formation : c'est d'ailleurs le niveau d'entrée des titulaires de diplômes de niveau CAP, BEP.
 
 Le niveau B permet de valoriser l'expérience des salariés de niveau A.
 
-Au niveau C, la nature des travaux se diversifie. A ce niveau apparaît la notion de résolution de problèmes, mais à ce stade les problèmes résolus sont simples. Le salarié de niveau C est responsable de la qualité du travail fourni et du respect des échéances et, par différence avec les précédents niveaux, il intègre la notion d'objectifs à atteindre, sous l'autorité de sa hiérarchie.
+Au niveau C, la nature des travaux se diversifie. À ce niveau, apparaît la notion de résolution de problèmes mais, à ce stade, les problèmes résolus sont simples. Le salarié de niveau C est responsable de la qualité du travail fourni et du respect des échéances et, par différence des précédents niveaux, il intègre la notion d'objectifs à atteindre sous l'autorité de sa hiérarchie.
 
-Le salarié de niveau C exerce ses fonctions en suivant des instructions définies mais moins précises qu'au niveau B. Outre la part d'initiative visée au niveau B, il peut être amené à prendre une part de responsabilités relatives à la réalisation des travaux qui lui sont confiés.
+Le salarié de niveau C exerce ses fonctions en suivant des instructions définies mais moins précises qu'au niveau B. Outre la part d'initiative visée au niveau B, il peut en plus être amené à prendre une part de responsabilités relatives à la réalisation des travaux qui lui sont confiés.
 
-En matière de sécurité, son approche est plus globale puisqu'il met en oeuvre la démarche de prévention.
+En matière de sécurité, son approche est plus globale puisqu'il met en œuvre la démarche de prévention.
 
 Ce niveau demande une technicité courante. Là encore, le salarié a acquis ses compétences en niveau B ou par formation ; ce niveau accueille les titulaires de diplômes de niveau BP, BT, bac professionnel, bac STI.
 
@@ -144,21 +146,21 @@ Le niveau D est le niveau de confirmation des salariés de niveau C. Les travaux
 
 Le cadre de son intervention est défini par des instructions moins détaillées mais qui demeurent constantes. Dans ce cadre, il peut prendre des initiatives et des responsabilités relatives à la réalisation des travaux qui lui sont confiés.
 
-Par rapport au niveau C, ce niveau de confirmation requiert une technicité courante affirmée. II permet de valoriser l'expérience et les compétences acquises au niveau C et aux niveaux précédents.
+Par rapport au niveau C, ce niveau de confirmation requiert une technicité courante affirmée. Il permet de valoriser l'expérience et les compétences acquises au niveau C et aux niveaux précédents.
 
-Les techniciens et agents de maîtrise
+Techniciens et agents de maîtrise
 
-A partir du niveau E, la classification des ETAM comprend 2 voies :
+À partir du niveau E, la classification des ETAM comprend deux voies :
 
-― la voie des techniques jusqu'à de hauts niveaux de technicité ;
+– la voie des techniques jusqu'à de hauts niveaux de technicité ;
 
-― la voie de la maîtrise.
+– la voie de la maîtrise.
 
 Le niveau E constitue le premier niveau de cette catégorie. Pour marquer la différence avec les cadres, les fonctions de maîtrise sont identifiées par le terme « commandement ».
 
-Les fonctions de techniciens s'inscrivent dans de grands domaines techniques : exécution, contrôle, organisation, études...
+Les fonctions de techniciens s'inscrivent dans de grands domaines techniques : exécution, contrôle, organisation, études …
 
-A ce niveau, le salarié résout des problèmes à partir de méthodes et techniques préétablies. II peut transmettre ses connaissances : cette notion attachée aux fonctions d'encadrement le distingue du niveau D.
+À ce niveau, le salarié résout des problèmes à partir de méthodes et techniques préétablies. Il peut transmettre ses connaissances : cette notion attachée aux fonctions d'encadrement le distingue du niveau D.
 
 Le cadre de ses actions, toujours déterminé par des instructions permanentes, peut s'étendre à des délégations dans un domaine d'activité strictement défini.
 
@@ -166,19 +168,17 @@ Le salarié de niveau E doit savoir prendre une part d'initiatives et de respons
 
 Il effectue des démarches courantes.
 
-Dans son rôle d'encadrement, il fait respecter l'application des règles de sécurité.
-
-C'est un bon technicien dans sa spécialité, dans laquelle il se tient à jour.
+Dans son rôle d'encadrement, il fait respecter l'application des règles de sécurité. C'est un bon technicien dans sa spécialité, dans laquelle il se tient à jour.
 
 Le salarié de niveau E a acquis ses compétences en niveau D ou en niveau IV de la classification des ouvriers du bâtiment ou en niveaux III et IV de la classification des ouvriers de travaux publics. Le niveau E accueille également les salariés titulaires de diplômes de niveau BTS, DUT, DEUG.
 
-Les travaux exécutés au niveau F diffèrent sensiblement de ceux exercés au niveau E : viennent s'y adjoindre des travaux de gestion et d'action commerciale...
+Les travaux exécutés au niveau F diffèrent sensiblement de ceux exercés au niveau E : viennent s'y adjoindre des travaux de gestion et d'action commerciale …
 
 L'autre grande différence réside en ce qu'ils portent sur des projets plus techniques qu'au niveau E, ce qui valorise et reconnaît l'expérience précédemment acquise.
 
 En outre, les fonctions de maîtrise concernent un ensemble de salariés affectés à un projet, notion qui apparaît dans la grille pour la première fois.
 
-La réactivité déjà inscrite au niveau E apparaît de façon plus marquée à ce niveau puisque les problèmes résolus supposent de la part du salarié de niveau F le choix de la solution la plus adaptée. Toutefois, cette exigence est encadrée, le salarié devant agir par référence à des méthodes, procédés ou moyens habituellement mis en oeuvre dans l'entreprise.
+La réactivité déjà inscrite au niveau E apparaît de façon plus marquée à ce niveau puisque les problèmes résolus supposent de la part du salarié de niveau F le choix de la solution la plus adaptée. Toutefois, cette exigence est encadrée, le salarié devant agir par référence à des méthodes, procédés ou moyens habituellement mis en œuvre dans l'entreprise.
 
 Dans son rôle d'encadrement, le salarié transmet ses connaissances.
 
@@ -196,17 +196,17 @@ Le salarié de niveau G exerce des fonctions de plus grande amplitude que celui 
 
 Parallèlement, l'agent de maîtrise exerce un commandement sur plusieurs équipes de salariés affectés à un projet important ou complexe ou à plusieurs projets.
 
-Ce salarié résout des problèmes variés pour lesquels la solution apportée doit être la plus adaptée et tenir compte des données et contraintes d'ordre économique, technique, administratif et com-mercial.
+Ce salarié résout des problèmes variés pour lesquels la solution apportée doit être la plus adaptée et tenir compte des données et contraintes d'ordre économique, technique, administratif et commercial.
 
 Dans son rôle d'encadrement, il sait et doit transmettre effectivement ses connaissances.
 
-A ce niveau, il agit par délégation mais celle-ci reste encadrée par les instructions reçues de sa hiérarchie.
+À ce niveau, il agit par délégation mais celle-ci reste encadrée par les instructions reçues de sa hiérarchie.
 
 Les relations qu'il développe avec des interlocuteurs externes sont désormais régulières par différence avec le niveau F.
 
-Ce niveau requiert une haute technicité dans la spécialité du salarié, qui possède également des connaissances de base de techniques connexes. Dans ces 2 domaines, il tient à jour ses connaissances.
+Ce niveau requiert une haute technicité dans la spécialité du salarié qui possède également des connaissances de base de techniques connexes. Dans ces deux domaines, il tient à jour ses connaissances.
 
-L'ETAM de position G peut être promu cadre B1 sans avoir à valider son expérience en tant qu'ETAM de niveau H, c'est-à-dire sans avoir à « passer » nécessairement par le niveau H de la grille ETAM.
+L'ETAM de position G peut être promu cadre B sans avoir à valider son expérience en tant qu'ETAM de niveau H, c'est-à-dire sans avoir à « passer » nécessairement par le niveau H de la grille ETAM.
 
 Le niveau H est le niveau de confirmation des salariés de niveau G. C'est un niveau nouvellement créé qui marque le sommet de la classification des ETAM.
 
@@ -216,69 +216,81 @@ Sa large expérience lui permet d'agir par délégation dans le cadre de directi
 
 Il assure une communication « montante et descendante » et fait le lien entre le personnel placé sous son autorité et la hiérarchie. Vis-à-vis des interlocuteurs externes, il conduit des relations fréquentes.
 
-Le salarié de niveau H possède des connaissances parfaitement maîtrisées dans sa spécialité, dont il est un très haut technicien. Il doit également posséder une technicité courante dans des domaines connexes. En cela, il se distingue du salarié de niveau G qui, sur ce point, ne possède que des connaissances de base.
+Le salarié de niveau H possède des connaissances parfaitement maîtrisées dans sa spécialité dont il est un très haut technicien. Il doit également posséder une technicité courante dans des domaines connexes. En cela, il se distingue du salarié de niveau G qui sur ce point ne possède que des connaissances de base.
 
 Présentation de la classification cadres
 
-La grille Cadres se développe sur 4 niveaux de classement regroupant 8 positions :
+La grille cadres se développe sur 4 niveaux de classement regroupant 9 positions :
 
-― les cadres débutants : niveau cadres A, positions A1 et A2 ;
+– les cadres débutants : niveau cadres A – positions A1 et A2 ;
 
-― les cadres : niveau cadres B, positions B1, B2, B3, B4, et niveau cadres C, positions C1 et C2,
+– les cadres : niveau cadres B – positions B, B1, B2, B3 et B4 et niveau cadres C – positions C1 et C2 ; auxquels s'ajoutent les cadres de niveau cadres D.
 
-auxquels s'ajoutent les cadres de niveau cadres D.
+Dans la grille cadres, pour permettre un développement des parcours professionnels, les positions de classement, à l'exception de la position B, sont associées deux par deux : un premier niveau d'exercice de la fonction, un niveau de confirmation qui reconnaît l'expérience et la pratique professionnelles acquises par les salariés.
 
-Dans la grille Cadres, pour permettre un développement des parcours professionnels, les positions de classement sont associées 2 par 2 : un premier niveau d'exercice de la fonction, un niveau de confirmation qui reconnaît l'expérience et la pratique professionnelles acquises par les salariés.
+Cadres débutants
 
-Les cadres débutants
-
-Pour les cadres, 2 positions spécifiques d'accueil des jeunes diplômés sont prévues dans la grille : les positions cadres A1 et A2.
+Pour les cadres, deux positions spécifiques d'accueil des jeunes diplômés sont prévues dans la grille : les positions cadres A1 et A2.
 
 La position cadres A1 est celle où le cadre débutant « prend ses marques » : il exerce une fonction technique, administrative, commerciale et, à partir des instructions précises qu'il reçoit, s'initie aux techniques de l'entreprise, s'approprie les méthodes et pratiques d'organisation du travail, s'adapte à l'entreprise et à son environnement.
 
-A cette position, il résout des problèmes simples.
+À cette position, il résout des problèmes simples.
 
-Titulaire d'un diplôme d'ingénieur, ingénieur-maître, maîtrise, le cadre débutant met en oeuvre les connaissances ainsi acquises.
+Titulaire d'un diplôme d'Ingénieur, ingénieur maître, master 1, le cadre débutant met en œuvre les connaissances ainsi acquises.
 
-La position cadres A2 est le niveau d'entrée des jeunes débutants diplômé des grandes écoles, ou titulaires d'un diplôme de niveau DESS, DEA, etc. Elle peut être aussi la position de confirmation du cadre A1.
+La position cadres A2 est le niveau d'entrée des jeunes débutants diplômés des grandes écoles ou titulaires d'un diplôme de niveau master 2 … Elle peut être aussi la position de confirmation du cadre A1.
 
 Le cadre A2 répond aux mêmes conditions qu'à la position A1 et, en plus, il résout des problèmes courants.
 
-La notion de communication apparaît à ce niveau, puisque ce cadre a des relations de travail avec des interlocuteurs internes et externes.
+La notion de communication apparaît à ce niveau puisque ce cadre a des relations de travail avec des interlocuteurs internes et externes.
 
-Le double caractère de cette position fait que, en matière de technicité, soit le cadre met en oeuvre les connaissances acquises par son diplôme (niveau d'entrée), soit il confirme sa parfaite connaissance des techniques de l'entreprise (confirmation de la position cadres A1).
+Le double caractère de cette position fait qu'en matière de technicité soit le cadre met en œuvre les connaissances acquises par son diplôme (niveau d'entrée), soit il confirme sa parfaite connaissance des techniques de l'entreprise (confirmation de la position cadres A1).
 
-Les cadres débutants ne peuvent passer plus de 3 ans en tout dans ces 2 positions. Passé ce délai, le jeune cadre sera classé dans l'une des positions de la grille Cadres.
+Les cadres débutants ne peuvent passer plus de 3 ans en tout dans ces deux positions. Cette durée maximum s'apprécie dans la profession et non dans l'entreprise. Passé ce délai, le jeune cadre sera classé dans l'une des positions de la grille cadres.
 
-Les cadres
+Cadres
 
-Comme pour les ETAM et afin de mieux identifier et valoriser les compétences acquises, la grille des cadres décline 2 voies à partir du niveau cadres B qui constituent, avec le niveau cadres C, les niveaux « utiles » de classement :
+Comme pour les ETAM et afin de mieux identifier et valoriser les compétences acquises, la grille des cadres décline deux voies à partir du niveau cadres B qui constituent avec le niveau cadres C les niveaux « utiles » de classement :
 
-― la voie où prédomine la fonction d'expertise poussée à un très haut niveau ;
+– la voie où prédomine la fonction d'expertise poussée à un très haut niveau ;
 
-― la voie où prédomine le management des hommes (on parle de direction par différence avec la maîtrise).
+– la voie où prédomine le management des hommes (on parle de direction par différence avec la maîtrise).
 
-Le management des hommes implique direction, animation, coordination de l'activité des salariés placés sous sa responsabilité, que le cadre doit notamment former, informer, apprécier, faire progresser, faire adhérer et participer à l'action commune de l'entreprise en intégrant la dimension prévention à la sécurité.
+Le management des hommes implique direction, animation, coordination de l'activité des salariés placés sous sa responsabilité que le cadre doit notamment former, informer, apprécier, faire progresser, faire adhérer et participer à l'action commune de l'entreprise en intégrant la dimension prévention à la sécurité.
 
-Le cadre B1, soit exerce une fonction technique, administrative, commerciale ou d'études, soit assume la direction et la coordination (management) d'un groupe de salariés affecté au même projet que lui.
+Le cadre B soit exerce avec une connaissance obtenue par l'expérience une fonction technique, administrative, commerciale ou d'études, soit assume l'encadrement d'une équipe ou d'un groupe de salariés affecté aux mêmes travaux ou projet que lui.
 
-Ce n'est plus désormais un débutant puisqu'il prend en charge des problèmes variés. Son approche est plus complète qu'à la position cadres A2 puisqu'il ne se limite plus à la résolution de problèmes courants. La position cadres B1 accueille également les ETAM promus cadres qui, notamment grâce à leur expérience, peuvent remplir ces critères.
+Ce n'est plus désormais un débutant puisqu'il prend en charge des problèmes variés et propose des solutions dans ses fonctions courantes. Son approche est plus complète qu'à la position cadres A2 puisqu'il ne se limite plus à la résolution de problèmes courants. La position cadres B accueille également les ETAM promus cadres qui, notamment grâce à leur expérience, peuvent remplir ces critères.
 
-Dans le même esprit que pour les agents de maîtrise, ses fonctions de manager nécessitent qu'il assure la transmission de ses connaissances.
+Le cadre B agit dans le cadre de directives générales. Par différence avec les ETAM, on parle de directives, par nature plus larges, et non de consignes ou d'instructions.
 
-Le cadre B1 agit dans le cadre de directives générales. Par différence avec les ETAM, on parle de directives, par nature plus larges, et non de consignes ou d'instructions. Il est réactif et s'approprie rapidement tous les aspects de sa fonction.
+Autonome, il gère l'organisation habituelle de son travail mais ne prend que des décisions courantes.
 
-Sa créativité est reconnue mais se limite à apporter des solutions dans ses fonctions courantes.
+En matière de communication, il assure des relations régulières avec des interlocuteurs internes ou externes, ce qui le différencie des cadres A2 pour lesquels ces relations de travail sont par nature plus ponctuelles et l'engagent moins.
 
-Autonome, il gère l'organisation de son travail, mais la prise de décisions importantes revient à sa hiérarchie. Son autonomie est donc encadrée.
+Doté de ces premiers éléments d'autonomie, ce salarié peut engager l'entreprise par délégation spécifique mais dans le cadre des directives reçues, c'est-à-dire là encore de façon limitée.
 
-En matière de communication, il assure des relations suivies avec des interlocuteurs variés, internes ou externes, ce qui le différencie des cadres A2 pour lesquels ces relations de travail sont par nature plus ponctuelles et l'engage moins.
+Il possède les compétences professionnelles requises pour l'exercice de sa fonction, compétences qu'il a acquises par expérience aux niveaux G ou H de la classification ETAM ou en tant que cadre A1 ou A2 et/ ou par formation.
 
-Doté de ces premiers éléments d'autonomie, ce salarié engage l'entreprise par délégation mais dans le cadre des directives reçues, c'est-à-dire là encore de façon limitée.
+Ainsi, dans une logique de « tuilage », les techniciens et agents de maîtrise de position G peuvent être promus cadres B sans avoir à valider leur expérience en tant qu'ETAM de niveau H, c'est-à-dire sans avoir à « passer » nécessairement par le niveau H de la grille ETAM. De même, sous réserve de ses compétences, aptitudes et capacités, le cadre A1 peut être directement classé en position cadre B sans avoir à être au préalable classé à la position cadres A2.
 
-Il possède les compétences professionnelles requises pour l'exercice de sa fonction, compétences qu'il a acquises par expérience acquise aux niveaux G ou H de la classification ETAM ou en tant que cadre A1 ou A2 et/ou par formation.
+Le cadre ne peut passer plus de 2 ans dans cette position. Cette durée maximum s'apprécie dans la profession et non dans l'entreprise.
 
-Ainsi, dans une logique de « tuilage », les techniciens et agents de maîtrise de position G peuvent être promus cadres B1 sans avoir à valider leur expérience en tant qu'ETAM de niveau H, c'est-à-dire sans avoir à « passer » nécessairement par le niveau H de la grille ETAM. De même, sous réserve de ses compétences, aptitudes et capacités, le cadre A1 peut être directement classé en position cadre B1 sans avoir à être au préalable classé à la position cadre A2.
+Le cadre B1 soit exerce avec maîtrise une fonction technique, administrative, commerciale ou d'études, soit assume la direction et la coordination (management) d'un groupe de salariés affecté au même projet que lui.
+
+Il prend en charge des problèmes variés Son approche est plus complète et maîtrisée qu'à la position cadres B puisqu'il apporte des solutions dans ses fonctions courantes.
+
+Ses fonctions nécessitent qu'il assure la transmission de ses connaissances.
+
+Le cadre B1 agit dans le cadre de directives générales et non de consignes ou d'instructions. Son expérience lui permet d'être réactif et de s'approprier rapidement tous les aspects de ses missions.
+
+Autonome, il gère l'organisation de son travail mais la prise de décisions importantes revient à sa hiérarchie. Son autonomie est donc encadrée.
+
+En matière de communication, il assure des relations suivies avec des interlocuteurs variés, internes ou externes, ce qui le différencie des cadres B pour lesquels ces relations de travail, si elles sont régulières, l'engagent moins.
+
+Doté de ces éléments d'autonomie, ce salarié engage l'entreprise par délégation mais dans le cadre des directives reçues, c'est-à-dire là encore de façon limitée.
+
+Il maîtrise les compétences professionnelles requises pour l'exercice de sa fonction, compétences qu'il a acquises par expérience en tant que cadre B et/ ou par formation.
 
 La position cadres B2 est le niveau de confirmation du cadre B1. Ses fonctions d'expert ou de manager sont de même nature qu'en position B1 mais les problèmes qu'il prend en charge sont de nature complexe.
 
@@ -286,31 +298,31 @@ Son approche est plus complète qu'en position cadres B1 puisqu'il tient compte 
 
 Les solutions qu'il apporte sont nouvelles et concernent plusieurs domaines. En tant que manager, il ne se limite plus à transmettre ses connaissances comme à la position cadres B1 mais veille également à la formation de ses collaborateurs.
 
-Le cadre de son emploi est défini par des objectifs et des indications générales qui traduisent une plus grande autonomie qu'à la position cadres B1. II prend les mesures nécessaires à leur réalisation et les décisions en découlant.
+Le cadre de son emploi est défini par des objectifs et des indications générales qui traduisent une plus grande autonomie qu'à la position cadres B1. Il prend les mesures nécessaires à leur réalisation et les décisions en découlant.
 
 Vis-à-vis de ses interlocuteurs, il a un rôle d'animation et plus seulement de relations suivies. Il engage d'ailleurs l'entreprise par une délégation qui demeure limitée à son propre domaine d'activité.
 
 La position de cadres B2 se trouve en particulier dans les entreprises à structure simple.
 
-A partir de la position B3, le cadre franchit une nouvelle étape : il acquiert une dimension et une amplitude supplémentaires. Cette position correspond à des missions globales.
+À partir de la position B3, le cadre franchit une nouvelle étape : il acquiert une dimension et une amplitude supplémentaires. Cette position correspond à des missions globales.
 
-Ainsi, dans le cadre de fonctions de direction de travaux, de direction d'études, d'organisation et de vente, il exerce une ou plusieurs missions d'expertise (et non plus une fonction comme en positions cadres B1 et B2 (...) ou de management des salariés placés sous son autorité ou les deux à la fois.
+Ainsi dans le cadre de fonctions de direction de travaux, de direction d'études, d'organisation et de vente, il exerce une ou plusieurs missions d'expertise (et non plus une fonction comme en positions cadres B, B1 et B2) (…) ou de management des salariés placés sous son autorité ou les deux à la fois.
 
-Par différence avec le cadre B2, le cadre B3 prend en charge (...) un ou plusieurs projets. Son approche est à cet égard plus complète puisqu'elle concerne des projets et plus seulement des problèmes, comme en position cadres B2.
+Par différence avec le cadre B2, le cadre B3 prend en charge (…) un ou plusieurs projets. Son approche est à cet égard plus complète puisqu'elle concerne des projets et plus seulement des problèmes, comme en position cadres B2.
 
 Sa créativité est davantage sollicitée et plus globale qu'à la position cadres B2 : il peut définir (et non seulement proposer) des solutions globales (et non pas seulement plusieurs domaines).
 
 Dans son rôle de manager, il peut assurer lui-même directement ou veiller à la formation de ses collaborateurs.
 
-Le cadre de son action est indiqué par des orientations et des objectifs, pour la réalisation desquels il prend les décisions (...) découlant de ses missions.
+Le cadre de son action est indiqué par des orientations et des objectifs, pour la réalisation desquels il prend les décisions (…) découlant de ses missions.
 
-En matière de communication, ses interlocuteurs sont identiques à ceux du cadre B2 mais il (...) entretient avec eux des relations régulières. Il peut d'ailleurs les convaincre et les faire adhérer à un projet : apparaît à ce stade la notion de « travail en réseau ».
+En matière de communication, ses interlocuteurs sont identiques à ceux du cadre B2 mais il (…) entretient avec eux des relations régulières. Il peut d'ailleurs les convaincre et les faire adhérer à un projet : apparaît à ce stade la notion de « travail en réseau ».
 
-Sa délégation, identique à celle du cadre B2, demeure limitée à son domaine d'activité.
+Sa délégation identique à celle du cadre B2 demeure limitée à son domaine d'activité.
 
 Pour marquer la dimension plus complète de cet emploi, le cadre B3 possède un niveau de technicité ou d'expertise lui permettant d'exercer pleinement ses missions.
 
-A partir de la position cadres B3, (...) l'expérience professionnelle acquise est particulièrement valorisée.
+À partir de la position cadres B3, (…) l'expérience professionnelle acquise est particulièrement valorisée.
 
 La position cadres B4 est le niveau de confirmation de la position B3 : le cadre B4 intervient donc avec une dimension supérieure. Ses missions sont identiques à celles du cadre B3 mais il dirige et prend en charge dans un cadre global des projets pluridisciplinaires.
 
@@ -322,11 +334,11 @@ Il peut engager l'entreprise par une large délégation qui reste toutefois limi
 
 Son expertise est plus complète encore qu'à la position cadres B3 : il intègre toutes les évolutions de sa spécialité. Dans sa mission de manager, il actualise les connaissances de ses collaborateurs. Cette position concerne des cadres ayant une expérience confirmée.
 
-Le cadre C1 assure une mission de direction : il exerce une large mission d'expertise et/ou une mission de direction ou de conception ou de coordination des travaux des salariés placés sous son autorité.
+Le cadre C1 assure une mission de direction : il exerce une large mission d'expertise et/ ou une mission de direction ou de conception ou de coordination des travaux des salariés placés sous son autorité.
 
 En tant que manager, il veille à l'évolution (et plus seulement à la formation) de ses collaborateurs. Son approche concerne leurs parcours professionnels dans leur ensemble.
 
-Il peut être amené à participer à l'élaboration et/ou à la réalisation des choix stratégiques de l'entreprise. Sa créativité s'exerce de façon plus conceptuelle : il peut créer des méthodes nouvelles.
+Il peut être amené à participer à l'élaboration et/ ou à la réalisation des choix stratégiques de l'entreprise. Sa créativité s'exerce de façon plus conceptuelle : il peut créer des méthodes nouvelles.
 
 Il contribue à la définition de ses objectifs ; parallèlement, il a la responsabilité totale des résultats de l'entité ou de la fonction spécialisée dont il a la charge.
 
@@ -336,11 +348,11 @@ Il a acquis ses compétences et son expertise par son parcours professionnel et 
 
 La position de cadres C1 se trouve en particulier dans les entreprises à structure simple.
 
-La position cadres C2 permet l'évolution et la confirmation des cadres C1 : il exerce une mission de haute expertise et/ou dirige une structure complexe.
+La position cadres C2 permet l'évolution et la confirmation des cadres C1 : il exerce une mission de haute expertise et/ ou dirige une structure complexe.
 
-Sa collaboration à la définition et/ou à la réalisation des choix stratégiques est régulière (elle est ponctuelle et éventuelle en position C1). II établit des solutions originales et novatrices.
+Sa collaboration à la définition et/ ou à la réalisation des choix stratégiques est régulière (elle est ponctuelle et éventuelle en position C1). Il établit des solutions originales et novatrices.
 
-Le cadre C2 propose ses objectifs et a la totale responsabilité des résultats de l'entité et de la mission qu'il assume. II a en parallèle une très large délégation permettant la mise en oeuvre des politiques de l'entreprise.
+Le cadre C2 propose ses objectifs et a la totale responsabilité des résultats de l'entité et de la mission qu'il assume. Il a en parallèle une très large délégation permettant la mise en œuvre des politiques de l'entreprise.
 
 Il enrichit sa fonction par de nouveaux champs d'intervention, ce qui est plus large que les nouveaux savoir-faire cités en position cadres C1.
 
