@@ -1,325 +1,219 @@
 # Article Annexe II b
 
-RÈGLEMENT D'EXAMEN
+RÉGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-aménagements paysagers
+spécialité : aménagements paysagers |
 
-|
+CANDIDATS DE LA VOIE
 
-CANDIDATS DE LA VOIE scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité
+scolaire dans un établissement public ou privé sous contrat, cfa ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
 
-|
+CANDIDATS DE LA VOIE
 
-CANDIDATS DE LA VOIE de la formation professionnelle continue dans un établissement public habilité (D. 337/74)
+de la formation professionnelle continue dans un établissement public habilité (D337/74) |
 
-|
+CANDIDATS DE LA VOIE
 
-CANDIDATS DE LA VOIE scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle
+scolaire dans un établissement privé, cfa ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
 
-|
+ÉPREUVES |
 
-Epreuves
+Unité |
 
-|
+Coeff. |
 
-Unité
+Forme |
 
-|
+Durée |
 
-Coefficient
+Forme |
 
-|
+Durée |
 
-Forme
+Forme |
 
-|
+Durée |
 
-Durée
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
 
-|
+U1 |
 
-Forme
+4 |
 
-|
+Terminale ponctuelle écrite en deux parties |
 
-Durée
+2 x 2 h |
 
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-E1 (*) Langue française, langages, éléments d'une culture humaniste et compréhension du monde
-
-|
-
-U1
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite en deux parties
-
-|
-
-2 x 2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E2 : Langue et culture étrangères
-
-|
-
-U2
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Orale
-
-|
-
-0 h 20
-
-|
-
-E3 : Motricité, santé et socialisation par la pratique des APSAES
-
-|
-
-U3
-
-|
-
-1
-
-|
-
-CCF
-
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Pratique
-
-|
-
-|
-
-E4 (*) : Culture scientifique et technologique
-
-|
-
-U4
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite
-
-|
-
-2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E5 : Choix techniques
-
-|
-
-U5
-
-|
-
-2
-
-|
-
-Terminale ponctuelle écrite
-
-|
-
-2 h 30
-
-|
-
-CCF
-
-|
+CCF |
 
 |
 
 Ecrite
 
-|
+en
 
-2 h 30
+deux
 
-|
+parties |
 
-E6 : Expérience en milieu professionnel
+2 x 2 h |
 
-|
+E2 : Langue et culture étrangères |
 
-U6
+U2 |
 
-|
+1 |
 
-3
-
-|
-
-Terminale ponctuelle orale sur un écrit
+CCF |
 
 |
 
-0 h 30
+CCF |
 
 |
 
-CCF
+Orale |
+
+0 h 20 |
+
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
+
+U3 |
+
+1 |
+
+CCF |
 
 |
 
-|
-
-Orale s'appuyant sur un écrit
+CCF |
 
 |
 
-0 h 30
+Pratique |
 
 |
 
-E7 : Pratiques professionnelles
+E4 : Culture scientifique et technologique (1) |
+
+U4 |
+
+4 |
+
+Terminale ponctuelle écrite |
+
+2 h |
+
+CCF |
 
 |
+
+Ecrite
+
+en
+
+deux
+
+parties |
+
+2 x 2 h |
+
+E5 : Choix techniques |
+
+U5 |
+
+2 |
+
+Terminale ponctuelle écrite |
+
+2 h |
+
+CCF |
+
+|
+
+Ecrite |
+
+2 h |
+
+E6 : Expérience en milieu professionnel |
+
+U6 |
+
+3 |
+
+Terminale ponctuelle orale sur un écrit |
+
+0 h 30 |
+
+CCF |
+
+|
+
+Orale
+
+s'appuyant
+
+sur un écrit |
+
+0 h 30 |
+
+E7 : Pratiques professionnelles |
 
 U7
 
-|
+U8
 
-5
+U9
 
-|
+U10
 
-CCF
+U11 |
 
-|
+5 |
 
-|
-
-CCF
+CCF |
 
 |
+
+CCF |
 
 |
 
 Pratique
 
-et orale
+et orale |
 
-|
+0 h 20 |
 
-0 h 20
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
-E8 : Epreuve facultative
+Points au-dessus de 10 |
 
-|
+CCF |
 
-|
+Selon les conditions fixées par la réglementation
 
-Points
+en vigueur relevant du ministère chargé de l'agriculture |
 
-au-dessus de 10
+Epreuve facultative n° 2 (3) |
 
-|
+UF2 |
 
-CCF
+Points au-dessus de 10 |
 
-|
+CCF |
 
-|
+Selon les conditions fixées par la réglementation
 
-|
+en vigueur relevant du ministère chargé de l'agriculture |
 
-|
+1. Epreuve comportant des travaux en cours de formation.
 
-|
+2. APSAES activités physique sportive, artistique et d'entretien de soi.
 
-|
-
-(*) Epreuve comportant des travaux en cours de formation.
-
-(**) APSAES activités physique sportive, artistique et d'entretien de soi.
-
-|
-
-NOTA :
-
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
+3. Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
