@@ -1,321 +1,191 @@
 # Article Annexe II b
 
-RÈGLEMENT D'EXAMEN
+RÉGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-"technicien conseil vente
+Spécialité : Technicien conseil vente de produits de jardin |
 
-de produits de jardin"
+CANDIDATS DE LA VOIE
 
-|
-
-CANDIDATS DE LA VOIE scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité
-
-|
-
-CANDIDATS DE LA VOIE de la formation professionnelle continue dans un établissement public habilité (D. 337/74)
-
-|
-
-CANDIDATS DE LA VOIE scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle
-
-|
-
-Epreuves
-
-|
-
-Unité
-
-|
-
-Coefficient
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-Forme
-
-|
-
-Durée
-
-|
-
-E1 (*) Langue française, langages, éléments d'une culture humaniste et compréhension du monde
-
-|
-
-U1
-
-|
-
-4
-
-|
-
-Terminale ponctuelle écrite en deux parties
-
-|
-
-2 x 2 h
-
-|
-
-CCF
-
-|
-
-|
-
-Ecrite en deux parties
-
-|
-
-2 × 2 h
-
-|
-
-E2 : Langue et culture étrangères
-
-|
-
-U2
-
-|
-
-1
-
-|
-
-CCF
+scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
 
-|
-
-|
-
-CCF
-
-|
-
-|
-
-Orale
-
-|
+CANDIDATS DE LA VOIE de la formation professionnelle continue dans un établissement public habilité (D337/74) |
 
-0 h 20
+CANDIDATS DE LA VOIE scolaire dans un établissement privé, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
 
-|
-
-E3 : Motricité, santé et socialisation par la pratique des APSAES (**)
-
-|
+EPREUVES |
 
-U3
+Unité |
 
-|
+Coeff. |
 
-1
+Forme |
 
-|
+Durée |
 
-CCF
+Forme |
 
-|
+Durée |
 
-|
+Forme |
 
-CCF
+Durée |
 
-|
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
 
-|
+U1 |
 
-Pratique
+4 |
 
-|
+Terminale ponctuelle écrite en deux parties |
 
-|
+2 x 2 h |
 
-E4 (*) : Culture scientifique et technologique
+CCF |
 
 |
-
-U4
 
-|
+Ecrite en deux parties |
 
-4
+2 x 2 h |
 
-|
+E2 : Langue et culture étrangères |
 
-Terminale ponctuelle écrite
+U2 |
 
-|
+1 |
 
-2 h
+CCF |
 
 |
 
-CCF
+CCF |
 
 |
 
-|
+Orale |
 
-Ecrite en deux parties
+0 h 20 |
 
-|
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
 
-2 × 2 h
+U3 |
 
-|
+1 |
 
-E5 : Choix techniques
+CCF |
 
 |
 
-U5
+CCF |
 
 |
 
-2
+Pratique |
 
 |
 
-Terminale ponctuelle écrite
+E4 : Culture scientifique et technologique (1) |
 
-|
+U4 |
 
-2 h 30
+4 |
 
-|
+Terminale ponctuelle écrite |
 
-CCF
+2 h |
 
-|
+CCF |
 
 |
 
-Ecrite
+Ecrite en deux parties |
 
-|
-
-2 h 30
+2 x 2 h |
 
-|
+E5 : Choix et techniques |
 
-E6 : Expérience en milieu professionnel
+U5 |
 
-|
+2 |
 
-U6
+Terminale ponctuelle écrite |
 
-|
+2 h 30 |
 
-3
+CCF |
 
 |
 
-Terminale ponctuelle orale sur un écrit
+Ecrite |
 
-|
+2 h 30 |
 
-0 h 30
+E6 : Expérience en milieu professionnel |
 
-|
+U6 |
 
-CCF
+3 |
 
-|
+Terminale ponctuelle orale sur un écrit |
 
-|
+0 h 30 |
 
-Orale s'appuyant sur un écrit
+CCF |
 
 |
-
-0 h 30
 
-|
+Orale s'appuyant sur un écrit |
 
-E7 : Pratiques professionnelles
+0 h 30 |
 
-|
+E7 : Pratiques professionnelles |
 
 U7
 
-|
+U8
 
-5
+U9
 
-|
+U10 |
 
-CCF
+5 |
 
-|
-
-|
-
-CCF
+CCF |
 
 |
 
-|
-
-orale
+CCF |
 
 |
 
-1 h 30
+Orale |
 
-|
+1 h 30 |
 
-E8 : Epreuve facultative
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
-|
+Points au dessus de 10 |
 
-Points au-dessus de 10
+CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur relevant du ministère chargé de l'agriculture |
 
-CCF
+Epreuve facultative n° 2 (3) |
 
-|
+UF2 |
 
-|
+Points au dessus de 10 |
 
-|
+CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur relevant du ministère chargé de l'agriculture |
 
-|
+(1) Epreuve comportant des situations d'évaluation en cours de formation.
 
-|
+(2) APSAES : activités physique sportive, artistique et d'entretien de soi.
 
-(*) Epreuve comportant des situations d'évaluation en cours de formation.
-
-(**) APSAES : activités physiques, sportives, artistiques et d'entretien de soi.
-
-|
-
-.
+(3) Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. |
