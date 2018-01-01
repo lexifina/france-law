@@ -1,0 +1,159 @@
+# Article Annexe E
+
+ASSIGNATION DES CENTRES DE SERVICES PARTAGÉS INTERMINISTÉRIELS SITUÉS EN MÉTROPOLE
+
+1. Ordres de payer
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+BOUCHES-DU-RHÔNE |
+
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône |
+
+CALVADOS |
+
+Direction départementale des finances publiques du Calvados |
+
+DOUBS |
+
+Direction départementale des finances publiques du Doubs |
+
+HÉRAULT |
+
+Direction départementale des finances publiques de l'Hérault |
+
+ILLE-ET-VILAINE |
+
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine |
+
+LOIRE-ATLANTIQUE |
+
+Direction régionale des finances publiques des Pays de la Loire et du département de la Loire-Atlantique |
+
+LOIRET |
+
+Direction régionale des finances publiques du Centre-Val de Loire et du département du Loiret |
+
+MARNE |
+
+Direction départementale des finances publiques de la Marne |
+
+RHÔNE |
+
+Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône |
+
+PARIS |
+
+Direction régionale des finances publiques d'Ile-de-France et du département de Paris |
+
+SOMME |
+
+Direction départementale des finances publiques de la Somme |
+
+VIENNE |
+
+Direction départementale des finances publiques de la Vienne |
+
+VAL-DE-MARNE |
+
+Direction départementale des finances publiques du Val-de-Marne |
+
+2. Ordres de recouvrer émis à compter du 1er janvier 2018 par le centre de services partagés du Puy-de-Dôme spécialisé dans le traitement des recettes non fiscales
+
+RÉGION OU COLLECTIVITÉ DE RÉSIDENCE
+
+du service prescripteur |
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+PROVENCE-ALPES-CÔTE D'AZUR |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône |
+
+NORMANDIE |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques du Calvados |
+
+CORSE |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques de Corse et du département de la Corse-du-Sud |
+
+BOURGOGNE-FRANCHE-COMTE |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques du Doubs |
+
+OCCITANIE |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques de l'Hérault |
+
+BRETAGNE |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine |
+
+PAYS DE LA LOIRE |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques des Pays de la Loire et du département de la Loire-Atlantique |
+
+CENTRE-VAL DE LOIRE |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques du Centre-Val de Loire et du département du Loiret |
+
+GRAND EST |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques de la Marne |
+
+AUVERGNE-RHÔNE-ALPES |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône |
+
+ÎLE-DE-FRANCE (ressort du CSP interministériel de Paris) |
+
+PUY-DE-DÔME |
+
+Direction régionale des finances publiques d'Ile-de-France et du département de Paris |
+
+HAUTS-DE-FRANCE |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques de la Somme |
+
+NOUVELLE-AQUITAINE |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques de la Vienne |
+
+ÎLE-DE-FRANCE (ressort du CSP du Val-de-Marne) |
+
+PUY-DE-DÔME |
+
+Direction départementale des finances publiques du Val-de-Marne |

@@ -1,0 +1,149 @@
+# Article Annexe K
+
+ASSIGNATION DES OPÉRATIONS DE L'ÉTAT À L'ÉTRANGER
+
+1. Assignation des ordres de payer et de recouvrer
+
+PAYS DE RÉSIDENCE DE L'AMBASSADEUR
+
+et de ses ordonnateurs secondaires délégués |
+
+COMPTABLE ASSIGNATAIRE |
+
+ALGERIE |
+
+Le trésorier auprès de l'ambassade de France en Algérie |
+
+DJIBOUTI |
+
+Le trésorier auprès de l'ambassade de France à Djibouti |
+
+ETATS-UNIS |
+
+Le trésorier auprès de l'ambassade de France aux Etats-Unis |
+
+GABON |
+
+Le trésorier auprès de l'ambassade de France au Gabon |
+
+MAROC |
+
+Le trésorier auprès de l'ambassade de France au Maroc |
+
+SENEGAL |
+
+Le trésorier auprès de l'ambassade de France au Sénégal |
+
+TUNISIE |
+
+Le trésorier auprès de l'ambassade de France en Tunisie |
+
+PAYS A REGIES DIPLOMATIQUES ET CONSULAIRES |
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger |
+
+2. Assignation des pensions
+
+a) Pensions à taux commun (y compris pensions dites " décristallisées ") :
+
+CENTRE PAYEUR |
+
+PAYS DE RÉSIDENCE DU PENSIONNÉ |
+
+COMPTABLE ASSIGNATAIRE |
+
+Centre de gestion des retraites pour l'étranger de la direction spécialisée des finances publiques pour l'étranger |
+
+TOUS PAYS |
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger |
+
+b) Pensions dites " cristallisées " :
+
+CENTRE PAYEUR |
+
+PAYS DE RÉSIDENCE DU PENSIONNÉ |
+
+COMPTABLE ASSIGNATAIRE |
+
+Trésorerie auprès de l'ambassade de France à Djibouti |
+
+DJIBOUTI |
+
+Le trésorier auprès de l'ambassade de France à Djibouti |
+
+Trésorerie auprès de l'ambassade de France au Gabon |
+
+GABON |
+
+Le trésorier auprès de l'ambassade de France au Gabon |
+
+Trésorerie auprès de l'ambassade de France en Tunisie |
+
+TUNISIE |
+
+Le trésorier auprès de l'ambassade de France en Tunisie |
+
+Trésorerie auprès de l'ambassade de France au Sénégal |
+
+SENEGAL |
+
+Le trésorier auprès de l'ambassade de France au Sénégal |
+
+Service des pensions cristallisées de la direction spécialisée des finances publiques pour l'étranger |
+
+AUTRES PAYS |
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger |
+
+3. Assignation des indus de pensions
+
+a) Pensions à taux commun et " cristallisées " gérées par la direction spécialisée des finances publiques pour l'étranger :
+
+Ordres de recouvrer pris en charge et non soldés au 31 décembre 2017 :
+
+DEPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE ASSIGNATAIRE |
+
+LOIRE-ATLANTIQUE |
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger |
+
+Ordres de recouvrer émis à compter du 1er janvier 2018 dans le cadre du déploiement du centre de services partagés du Puy-de-Dôme spécialisé dans le traitement des recettes non fiscales :
+
+DEPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE ASSIGNATAIRE |
+
+PUY-DE-DÔME |
+
+Le directeur de la direction spécialisée des finances publiques pour l'étranger |
+
+b) Pensions " cristallisées " gérées par des trésoreries auprès des ambassades de France :
+
+PAYS DE RÉSIDENCE DE L'AMBASSADEUR
+
+et de ses ordonnateurs secondaires délégués |
+
+COMPTABLE ASSIGNATAIRE |
+
+DJIBOUTI |
+
+Le trésorier auprès de l'ambassade de France à Djibouti |
+
+GABON |
+
+Le trésorier auprès de l'ambassade de France au Gabon |
+
+TUNISIE |
+
+Le trésorier auprès de l'ambassade de France en Tunisie |
+
+SENEGAL |
+
+Le trésorier auprès de l'ambassade de France au Sénégal |
