@@ -44,7 +44,7 @@ Absence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux 
 
 |
 
-0, 8
+0,8
 
 |
 
@@ -118,11 +118,11 @@ et sels dissous
 
 NIVEAU MAUVAIS :
 
-- apports de substances toxiques supérieurs aux doses ayant des effets toxiques pour les sols ou les plantes ;
+-apports de substances toxiques supérieurs aux doses ayant des effets toxiques pour les sols ou les plantes ;
 
-- l'épandage n'est pas exploité en production végétale afin que les éléments apportés soient utilisés par les cultures ;
+-l'épandage n'est pas exploité en production végétale afin que les éléments apportés soient utilisés par les cultures ;
 
-- stagnation et ruissellement d'effluents.
+-stagnation et ruissellement d'effluents.
 
 |
 
@@ -130,15 +130,15 @@ NIVEAU MAUVAIS :
 
 |
 
-0, 40
+0,40
 
 |
 
-0, 35
+0,35
 
 |
 
-1, 00
+1,00
 
 |
 
@@ -164,37 +164,37 @@ NIVEAU MAUVAIS :
 
 NIVEAU MÉDIOCRE :
 
-- tenue d'un cahier d'épandage ;
+-tenue d'un cahier d'épandage ;
 
-- les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure.
-
-|
-
-1, 00
+-les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure.
 
 |
 
-0, 70
+1,00
 
 |
 
-0, 65
+0,70
 
 |
 
-1, 00
+0,65
 
 |
 
-0, 40
+1,00
 
 |
 
-0, 40
+0,40
 
 |
 
-0, 40
+0,40
+
+|
+
+0,40
 
 |
 
@@ -208,39 +208,39 @@ NIVEAU MÉDIOCRE :
 
 NIVEAU MOYEN :
 
-- respect des conditions du niveau MEDIOCRE ;
+-respect des conditions du niveau MEDIOCRE ;
 
-- existence d'un plan d'épandage et tenue d'un cahier d'épandage ;
+-existence d'un plan d'épandage et tenue d'un cahier d'épandage ;
 
-- stockage d'effluents avant épandage suffisants, adaptés au vu du plan d'épandage et en tenant compte des conditions climatiques de l'année.
-
-|
-
-1, 00
+-stockage d'effluents avant épandage suffisants, adaptés au vu du plan d'épandage et en tenant compte des conditions climatiques de l'année.
 
 |
 
-0, 90
+1,00
 
 |
 
-0, 85
+0,90
 
 |
 
-1, 00
+0,85
 
 |
 
-0, 60
+1,00
 
 |
 
-0, 60
+0,60
 
 |
 
-0, 60
+0,60
+
+|
+
+0,60
 
 |
 
@@ -254,43 +254,43 @@ NIVEAU MOYEN :
 
 NIVEAU BON :
 
-- respect des conditions du niveau MOYEN ;
+-respect des conditions du niveau MOYEN ;
 
-- réalisation d'une étude du périmètre d'épandage portant sur l'ensemble des parcelles susceptibles d'être utilisées définissant notamment la gestion des parcelles, le calendrier et les doses des apports ;
+-réalisation d'une étude du périmètre d'épandage portant sur l'ensemble des parcelles susceptibles d'être utilisées définissant notamment la gestion des parcelles, le calendrier et les doses des apports ;
 
-- respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ;
+-respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ;
 
-- les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou à défaut d'étude ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques.
+-les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou à défaut d'étude ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques.
 
-- en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe
-
-|
-
-1, 00
+-en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe
 
 |
 
-0, 95
+1,00
 
 |
 
-0, 94
+0,95
 
 |
 
-1, 00
+0,94
 
 |
 
-0, 80
+1,00
 
 |
 
-0, 80
+0,80
 
 |
 
-0, 80
+0,80
+
+|
+
+0,80
 
 |
 
@@ -304,39 +304,39 @@ NIVEAU BON :
 
 NIVEAU TRÈS BON :
 
-- respect des conditions du niveau BON ;
+-respect des conditions du niveau BON ;
 
-- la comparaison des exportations par les récoltes prévues et des apports effectifs organiques et minéraux sur les parcelles, permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles utilisées ;
+-la comparaison des exportations par les récoltes prévues et des apports effectifs organiques et minéraux sur les parcelles, permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles utilisées ;
 
-- la structure et la qualité des sols ne sont pas altérées par l'épandage.
-
-|
-
-1, 00
+-la structure et la qualité des sols ne sont pas altérées par l'épandage.
 
 |
 
-0, 96
+1,00
 
 |
 
-0, 96
+0,96
 
 |
 
-1, 00
+0,96
 
 |
 
-0, 90
+1,00
 
 |
 
-0, 90
+0,90
 
 |
 
-0, 90
+0,90
+
+|
+
+0,90
 
 |
 
@@ -350,37 +350,37 @@ NIVEAU TRÈS BON :
 
 NIVEAU EXCELLENT 1er niveau :
 
-- respect des conditions du niveau TRES BON ;
+-respect des conditions du niveau TRES BON ;
 
 l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (P).
 
 |
 
-1, 00
+1,00
 
 |
 
-0, 97
+0,97
 
 |
 
-0, 97
+0,97
 
 |
 
-1, 00
+1,00
 
 |
 
-0, 95
+0,95
 
 |
 
-0, 95
+0,95
 
 |
 
-0, 95
+0,95
 
 |
 
@@ -394,43 +394,43 @@ l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (
 
 NIVEAU EXCELLENT 2e niveau :
 
-- respect des conditions du niveau EXCELLENT 1er niveau ;
+-respect des conditions du niveau EXCELLENT 1er niveau ;
 
-- la comparaison de l'ensemble des fournitures au sol et des besoins des productions effectives sur les parcelles permet de considérer qu'il y a équilibre agronomique pour l'azote et le phosphore sur chacun des îlots culturaux sur lesquels ont été épandues les pollutions ;
+-la comparaison de l'ensemble des fournitures au sol et des besoins des productions effectives sur les parcelles permet de considérer qu'il y a équilibre agronomique pour l'azote et le phosphore sur chacun des îlots culturaux sur lesquels ont été épandues les pollutions ;
 
-- une étude particulière met en évidence des rendements épuratoires sur la DCO supérieurs à 97 % ;
+-une étude particulière met en évidence des rendements épuratoires sur la DCO supérieurs à 97 % ;
 
-- le matériel d'épandage permet la régulation et le contrôle des dosages et la répartition des effluents sur le sol ; toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal ou pour contrôler leur stock dans le sol ;
+-le matériel d'épandage permet la régulation et le contrôle des dosages et la répartition des effluents sur le sol ; toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal ou pour contrôler leur stock dans le sol ;
 
-- existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement.
-
-|
-
-1, 00
+-existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement.
 
 |
 
-> 0, 97 (2)
+1,00
 
 |
 
-> 0, 97 (2)
+> 0,97 (2)
 
 |
 
-1, 00
+> 0,97 (2)
 
 |
 
-0, 98
+1,00
 
 |
 
-0, 98
+0,98
 
 |
 
-0, 98
+0,98
+
+|
+
+0,98
 
 |
 
@@ -448,7 +448,7 @@ NIVEAU EXCELLENT 2e niveau :
 
 |
 
-En cas d'épandage d'eaux boueuses visant à éliminer des terres issues de l'arrachage de végétaux, le suivi régulier des rejets comprend des mesures des métox dans les matières en suspension et dans la fraction dissoute. Le coefficient d'élimination de l'élément constitutif de la pollution "métox" est celui retenu pour les matières en suspension. Il reste toutefois fixé à zéro pour la fraction dissoute si le suivi réalisé par piézomètre ou par prélèvement en nappe met en évidence une contamination du milieu aquatique par un ou des éléments traces métalliques constitutifs des métox issus de cet épandage.
+En cas d'épandage d'eaux boueuses visant à éliminer des terres issues de l'arrachage de végétaux, le suivi régulier des rejets comprend des mesures des métox dans les matières en suspension et dans la fraction dissoute. Le coefficient d'élimination de l'élément constitutif de la pollution " métox " est celui retenu pour les matières en suspension. Il reste toutefois fixé à zéro pour la fraction dissoute si le suivi réalisé par piézomètre ou par prélèvement en nappe met en évidence une contamination du milieu aquatique par un ou des éléments traces métalliques constitutifs des métox issus de cet épandage.
 
 2. Autres dispositifs de dépollution mis en oeuvre par l'établissement
 
@@ -520,7 +520,7 @@ semaine
 
 |
 
-Matières en suspension (t/an).
+Matières en suspension (t/ an).
 
 |
 
@@ -546,7 +546,7 @@ NTP ≥ 3 000
 
 |
 
-Demande chimique en oxygène (t/an).
+Demande chimique en oxygène (t/ an).
 
 |
 
@@ -572,7 +572,7 @@ NTP ≥ 3 000
 
 |
 
-Demande biochimique en oxygène en cinq jours (t/an).
+Demande biochimique en oxygène en cinq jours (t/ an).
 
 |
 
@@ -598,7 +598,7 @@ NTP ≥ 2 000
 
 |
 
-Azote réduit (t/an).
+Azote réduit (t/ an).
 
 |
 
@@ -624,7 +624,7 @@ NTP ≥ 200
 
 |
 
-Azote oxydé (nitrites et nitrates) (t/an).
+Azote oxydé (nitrites et nitrates) (t/ an).
 
 |
 
@@ -650,7 +650,7 @@ NTP ≥ 200
 
 |
 
-Phosphore total, organique ou minéral (t/an).
+Phosphore total, organique ou minéral (t/ an).
 
 |
 
@@ -676,7 +676,7 @@ NTP ≥ 100
 
 |
 
-Toxicité aiguë (téq/an).
+Toxicité aiguë (téq/ an).
 
 |
 
@@ -702,7 +702,7 @@ NTP ≥ 100
 
 |
 
-Métox (t/an).
+Métox (t/ an).
 
 |
 
@@ -728,7 +728,7 @@ NTP ≥ 100
 
 |
 
-Substances dangereuses pour l'environnement (SDE) (kg/an)
+Substances dangereuses pour l'environnement (SDE) (kg/ an)
 
 |
 
@@ -736,7 +736,7 @@ NTP < 360
 
 |
 
-NTP≥ 360
+NTP ≥ 360
 
 |
 
@@ -748,7 +748,7 @@ NTP≥ 360
 
 |
 
-Composés halogénés adsorbables sur charbon actif (t/an).
+Composés halogénés adsorbables sur charbon actif (t/ an).
 
 |
 
@@ -774,7 +774,7 @@ NTP ≥ 20
 
 |
 
-Sels dissous (Mm³ × S/cm/an).
+Sels dissous (Mm ³ × S/ cm/ an).
 
 |
 
@@ -784,7 +784,7 @@ Sels dissous (Mm³ × S/cm/an).
 
 |
 
-0, 1 ≤ NTP < 1
+0,1 ≤ NTP < 1
 
 |
 
@@ -802,9 +802,9 @@ Sels dissous (Mm³ × S/cm/an).
 
 Pour l'élément constitutif de pollution SDE, s'il est démontré,
 
-- à l'appui de résultats de mesures représentatives de l'activité polluante du redevable, que les concentrations analytiques d'une ou plusieurs substances composant le paramètre sont inférieure (s) au (x) seuil (s) de quantification défini (s) dans l'avis en vigueur pris en application de l'arrêté du 27 octobre 2011 portant les modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau ;
+-à l'appui de résultats de mesures représentatives de l'activité polluante du redevable, que les concentrations analytiques d'une ou plusieurs substances composant le paramètre sont inférieure (s) au (x) seuil (s) de quantification défini (s) dans l'avis en vigueur pris en application de l'arrêté du 27 octobre 2011 portant les modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau ;
 
-- ou à l'appui d'études représentatives de l'activité de l'établissement, que la substance n'est pas caractéristique des rejets de l'établissement,
+-ou à l'appui d'études représentatives de l'activité de l'établissement, que la substance n'est pas caractéristique des rejets de l'établissement,
 
 cette ou ces substances, en accord avec l'agence de l'eau, seront exclues du suivi analytique durant cinq années. A l'issue de cette période, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée pour ajuster, si nécessaire, le programme de mesure.
 
@@ -816,7 +816,7 @@ En cas de changement notable d'activité ou de l'autorisation d'exploiter au tit
 
 -en l'absence de résultats de mesure journalière continue du débit de l'effluent, la pollution éliminée est déterminée en appliquant à la pollution produite un coefficient d'élimination de la pollution déterminé en comparant les quantités d'éléments constitutifs de la pollution mesurés dans des échantillons moyens journaliers constitués en entrée et en sortie du dispositif de dépollution ;
 
-- le coefficient d'élimination de la pollution est déterminé, pour chaque élément polluant, par le rapport entre la pollution annuelle éliminée et la pollution annuelle reçue par le dispositif de dépollution ;
+-le coefficient d'élimination de la pollution est déterminé, pour chaque élément polluant, par le rapport entre la pollution annuelle éliminée et la pollution annuelle reçue par le dispositif de dépollution ;
 
 -la valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales ;
 
@@ -1546,11 +1546,11 @@ NIVEAU MÉDIOCRE :
 
 Existence d'un plan d'épandage et tenue d'un cahier d'épandage.
 
-Le cahier d'épandage met en évidence des apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage.
+Le cahier d'épandage met en évidence des apports supérieurs aux quantités et/ ou hors des périodes prescrites par le plan d'épandage.
 
 |
 
-0, 5
+0,5
 
 |
 
@@ -1560,11 +1560,11 @@ Existence d'un plan d'épandage et tenue d'un cahier d'épandage.
 
 Stockages de boues avant épandage suffisants et adaptés au vu du plan d'épandage.
 
-Absence d'apports supérieurs aux quantités et/ou hors des périodes prescrites par le plan d'épandage.
+Absence d'apports supérieurs aux quantités et/ ou hors des périodes prescrites par le plan d'épandage.
 
 |
 
-0, 8
+0,8
 
 |
 
@@ -1576,7 +1576,7 @@ Le cahier d'épandage met en évidence des pratiques conformes aux prescriptions
 
 |
 
-1, 00
+1,00
 
 |
 
@@ -1600,51 +1600,9 @@ a) Détermination du coefficient d'efficacité de la collecte.
 
 Lorsqu'un établissement est raccordé directement à la station d'épuration par un collecteur spécifique, assurant le transfert en épuration de la totalité des eaux usées même par temps de pluie, la valeur du coefficient d'efficacité de la collecte est égale à 1.
 
-Dans les autres cas, la valeur du coefficient d'efficacité de la collecte est déterminée forfaitairement. La valeur de base de ce coefficient fixée à 0, 8 est modulée comme suit :
+Dans les autres cas, la valeur du coefficient d'efficacité de la collecte est déterminée forfaitairement. La valeur de base de ce coefficient fixée à 1 est modulée comme suit :
 
-Elle est diminuée de 0,2 en cas de non-conformité des réseaux de collecte des effluents au cours de l'année considérée, telle qu'établie par le service de police des eaux compte tenu des données recueillies sur le fonctionnement des réseaux d'assainissement en application de l'arrêté du 22 juin 2007 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1, 2 kg/j de DBO5.
-
-Pour les années 2008 et 2009, la valeur de base est retenue. La valeur de base est ensuite ramenée à 0,6 en l'absence de transmission par la collectivité au service de police des eaux des éléments relatifs au suivi du fonctionnement des réseaux d'assainissement demandés en application de l'arrêté mentionné à l'alinéa précédent.
-
-Elle est majorée d'un terme complémentaire en fonction de la valeur de l'indice de connaissance des rejets au milieu naturel par les réseaux de collecte des eaux usées défini par l'arrêté du 2 mai 2007 relatif aux rapports annuels sur le prix et la qualité des services publics d'eau potable et d'assainissement pris en application de l'article D. 2224-1 et de l'annexe VI du code général des collectivités territoriales. La majoration appliquée est déterminée par le tableau n° 8 suivant :
-
-TABLEAU N° 8
-
-Détermination du terme complémentaire applicable pour le calcul du coefficient d'efficacité de la collecte
-
-VALEUR DE L'INDICE DE CONNAISSANCE
-
-des rejets au milieu naturel par les réseaux d'assainissement
-
-|
-
-INFÉRIEUR À 30 POINTS
-
-|
-
-DE 30 À 50 POINTS
-
-|
-
-SUPÉRIEUR À 50 POINTS
-
-|
-
-Valeur du terme complémentaire.
-
-|
-
-0
-
-|
-
-0, 1
-
-|
-
-0, 2
-
-|
+Elle est diminuée de 0,2 en cas de non-conformité des réseaux de collecte des effluents au cours de l'année considérée, telle qu'établie par le service de police des eaux compte tenu des données recueillies sur le fonctionnement des réseaux d'assainissement en application de l'arrêté du 21 juillet 2015 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1,2 kg/ j de DBO5.
 
 b) Détermination de la pollution éliminée.
 
@@ -1652,7 +1610,7 @@ La pollution éliminée par le dispositif de dépollution est déterminée comme
 
 -dans le cas d'un ouvrage collectif de dépollution d'effluents provenant d'établissements industriels et dont la maîtrise d'ouvrage est assurée par un groupement d'établissements ou par une personne publique ou privée mandatée à cette fin, les dispositions du point 2 ci-dessus sont applicables ;
 
--dans le cas d'un ouvrage collectif de dépollution assurant le traitement des eaux usées d'une agglomération d'assainissement, les données prises de compte pour le calcul de la pollution éliminée sont celles produites en application des dispositions du chapitre 5 de l'arrêté du 22 juin 2007 mentionné au point a ci-dessus.A défaut de données ou de leur validation, les dispositions du tableau n° 6 ci-dessus sont applicables.
+-dans le cas d'un ouvrage collectif de dépollution assurant le traitement des eaux usées d'une agglomération d'assainissement, les données prises de compte pour le calcul de la pollution éliminée sont celles produites en application des dispositions du chapitre 5 de l'arrêté du 22 juin 2007 mentionné au point a ci-dessus. A défaut de données ou de leur validation, les dispositions du tableau n° 6 ci-dessus sont applicables.
 
 Pour les établissements raccordés à un dispositif collectif de dépollution, et dans l'impossibilité de mesurer les matières inhibitrices, les AOX et les SDE en amont et en aval du dispositif collectif de dépollution en raison des caractéristiques de l'effluent, les coefficients d'élimination des matières inhibitrices, des AOX et des SDE sont fixés par l'agence en application du tableau n° 6 ci-dessus et, s'il y a lieu, en tenant compte des résultats d'études de l'abattement de la pollution rejetée par l'établissement ou d'établissements réalisant la même activité.
 

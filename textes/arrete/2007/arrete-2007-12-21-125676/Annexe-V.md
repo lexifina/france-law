@@ -18,7 +18,7 @@ Les valeurs des niveaux forfaitaires de pollution théorique produite par unité
 
 Pour déterminer la quantité de pollution rejetée mensuellement ou annuellement, les grandeurs caractéristiques mentionnées dans le tableau suivant sont définies et calculées comme suit :
 
-- lorsque la grandeur caractérisant l'activité est le nombre d'emplois , celui-ci est égal au nombre d'emplois de l'activité concernée au dernier jour de chaque mois. Le nombre d'emplois est obtenu en ajoutant au nombre de personnes directement affectées aux unités de production le nombre de personnes des services généraux de l'établissement travaillant dans l'établissement pour l'activité polluante considérée, comme les équipes de dépannage et d'entretien, les services techniques divers, les services administratifs, les services de gestion des stocks, l'encadrement, y compris les intérimaires, les stagiaires et les personnels des entreprises sous-traitantes lorsque ces dernières contribuent à l'activité considérée. Lorsque les personnes des services généraux de l'établissement sont rattachées à plusieurs activités faisant l'objet de grandeurs caractéristiques distinctes, les emplois correspondants sont répartis proportionnellement aux nombres d'emplois affectés à chaque unité de production. Le personnel en longue maladie et, d'une façon générale, les emplois non sédentaires ainsi que le personnel d'entreprises extérieures présents pour des fonctions ne contribuant pas à l'activité de l'établissement à l'origine de la pollution ne sont pas comptabilisés.
+- lorsque la grandeur caractérisant l'activité est le nombre d'emplois , celui-ci est égal au nombre d'emplois de l'activité concernée au dernier jour de chaque mois. Le personnel en longue maladie et, d'une façon générale, les emplois non sédentaires ainsi que le personnel d'entreprises extérieures présents pour des fonctions ne contribuant pas à l'activité de l'établissement à l'origine de la pollution ne sont pas comptabilisés.
 
 En l'absence d'activité polluante de l'établissement au cours d'un mois donné, la grandeur caractéristique "nombre d'emplois" est considérée comme nulle. Le cas échéant, elle est pondérée en fonction du nombre de semaines de fermeture au cours d'un même mois ;
 
@@ -17918,7 +17918,7 @@ S200
 
 |
 
-Emploi des établissements assujettis à la redevance de pollution de l'eau d'origine non domestique
+Emploi des établissements assujettis à la redevance pour pollution de l'eau d'origine non domestique dont les émissions sont analogues à celles émises par un usage domestique de l'eau
 
 |
 
@@ -17958,8 +17958,6 @@ Emploi.
 
 |
 
-A calculer par mois.
-
-Applicable aux activités de sièges sociaux et d'administration générale présentes sur le site des établissements assujettis à la redevance pour pollution de l'eau d'origine non domestique pour des activités dont la grandeur caractéristique n'est pas l'emploi.
+A calculer par mois. Applicable aux emplois identifiés sur la déclaration et non affectés aux codes d'activités polluantes référencées ci-dessus.
 
 |
