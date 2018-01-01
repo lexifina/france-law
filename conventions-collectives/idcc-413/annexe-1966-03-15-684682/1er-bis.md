@@ -1,6 +1,6 @@
 # Article 1er bis
 
-Une indemnité de sujétion spéciale égale à 8,21 % du salaire brut indiciaire est attribuée aux personnels bénéficiaires du présent avenant.
+Une indemnité de sujétion spéciale égale à 8,48 % du salaire brut indiciaire est attribuée aux personnels bénéficiaires du présent avenant.
 
 L'indemnité de sujétion spéciale est payable mensuellement. Elle suit le sort du salaire des personnels bénéficiaires et est réduite dans les mêmes proportions que la rémunération elle-même.
 

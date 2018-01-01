@@ -1,30 +1,22 @@
-# Article KALIARTI000026696736
+# Article KALIARTI000037220620
 
 Annexe II
 
-Tableau des garanties santé du paysage
+Tableaux des garanties santé
 
-(hors Alsace-Moselle)
+Tableau des garanties santé hors Alsace-Moselle
+
+Les prestations du présent contrat respectent l'ensemble des obligations liées aux contrats solidaires et responsables.
+
+Aussi, il ne prend pas en charge les pénalités appliquées en cas de non-respect du parcours de soins, de même que la participation forfaitaire et les franchises médicales mentionnées à l'article L. 160-13 du code de la sécurité sociale.
+
+Il répond également aux exigences du décret du 18 novembre 2014 relatif au contenu des contrats responsables : prise en charge du ticket modérateur et du forfait journalier, planchers et plafonds pour les frais d'optiques, plafonnement des dépassements d'honoraires des médecins non adhérents à l'un des dispositifs de pratique tarifaire maîtrisée (DPTM) prévu à l'article L. 871-1 du code de la sécurité sociale (OPTAM/ OPTAM-CO).
 
 Nature des risques |
 
-Remboursement
+Remboursements du régime obligatoire |
 
-du régime de base sécurité
-
-sociale en % de la base de
-
-remboursement sécurité sociale |
-
-Santé conventionnelle
-
-Remboursement
-
-complémentaire en %
-
-de la base de remboursement
-
-sécurité sociale |
+Remboursements complémentaires |
 
 Frais médicaux
 
@@ -34,39 +26,77 @@ Frais médicaux
 
 |
 
-Honoraires médecins (1) |
+• Honoraires médecins (1) |
 
-70 % |
+70 % BR |
 
-100 % des frais réels
+TM |
 
-sécurité sociale |
-
-Auxiliaires médicaux |
-
-60 % |
-
-100 % des frais réels
-
-sécurité sociale |
-
-Analyses, examen de laboratoire |
-
-60 % |
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
 
 |
 
-Radiographie |
+100 % FR |
 
-70 % |
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Auxiliaires médicaux |
+
+60 % BR |
+
+100 % FR |
+
+• Analyses, examens de laboratoires |
+
+de 60 % à 100 % BR |
+
+TM |
+
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
 
 |
 
-Actes de prévention responsables (2) |
+100 % FR |
 
-De 35 % à 70 % |
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
 
 |
+
+100 % BR |
+
+• Radiologie, actes techniques |
+
+70 % BR |
+
+TM |
+
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Actes de prévention (4) |
+
+35 % à 70 % BR |
+
+100 % FR |
+
+• Médecines douces reconnues par le ministère de la santé (chiropractie, ostéopathie) |
+
+– |
+
+20 €/ séance avec un maximum de 2 séances/ an/ bénéficiaire |
 
 Pharmacie
 
@@ -76,9 +106,9 @@ Pharmacie
 
 |
 
-Vignette blanche, bleue, orange |
+• Pharmacie remboursée par le régime de base |
 
-De 15 % à 65 % |
+15 % à 65 % BR |
 
 TM |
 
@@ -90,259 +120,93 @@ Optique
 
 |
 
-Montures, verres, lentilles remboursées par la sécurité sociale (3) |
+Équipement adulte : 2 verres + monture par bénéficiaire et pour 2 ans à compter de la date d'acquisition. La période de prise en charge est réduite à 1 an pour les personnes dont la vue évolue. Garanties conformes au décret du 18 novembre 2014 relatif au contenu des contrats responsables. |
 
-60 % |
+• Monture |
 
-390 % BR + crédit de 340 € par an et par bénéficiaire limité à une paire par an
+60 % BR |
 
-et par bénéficiaire |
+150 € |
 
-Lentilles non remboursées par la sécurité sociale (3) |
-
-‒ |
-
-Crédit de 290 € par an
-
-et par bénéficiaire |
-
-Crédit supplémentaire optique : verres unifocaux |
-
-‒ |
-
-Crédit de 40 € par an et par bénéficiaire limité à une paire
-
-par an et par bénéficiaire |
-
-Crédit supplémentaire optique : verres multifocaux |
-
-‒ |
-
-Crédit de 110 € par an et par bénéficiaire limité à une paire
-
-par an et par bénéficiaire |
-
-Crédit supplémentaire optique global |
-
-‒ |
-
-En l'absence de prestations optique durant 2 ans, crédit supplémentaire de 50 €
-
-par bénéficiaire la 3e année |
-
-Dentaire
+• Verre simple (par verre) |
 
 |
 
 |
 
-|
+BR = 2,29 € |
 
-Soins dentaires remboursés |
+60 % BR |
 
-70 % |
+140 € |
 
-100 % des frais réels
+BR = 3,66 € |
 
-sécurité sociale |
+60 % BR |
 
-Prothèses dentaires (remboursées par la sécurité sociale) |
+160 € |
 
-70 % |
+Autres BR |
 
-410 % BR |
+60 % BR |
 
-Prothèses dentaires (actes hors nomenclature ou non remboursés listés) (4) |
+220 € |
 
-‒ |
-
-Crédit de 215 € par an
-
-et par bénéficiaire |
-
-Orthodontie (prise en charge acceptée) |
-
-100 % |
-
-300 % BR |
-
-Orthodontie (prise en charge refusée) |
-
-‒ |
-
-Crédit de 400 € par an
-
-et par bénéficiaire |
-
-Implantologie, parodontologie |
-
-‒ |
-
-Crédit de 200 € par an
-
-et par bénéficiaire |
-
-Appareillage
+• Verre progressif (par verre) |
 
 |
 
 |
 
+BR = 7,32 € |
+
+60 % BR |
+
+290 € |
+
+BR = 10,37 € |
+
+60 % BR |
+
+300 € |
+
+Autres BR |
+
+60 % BR |
+
+350 € |
+
 |
 
-Fournitures médicales, pansements |
+• Monture |
 
-60 % |
+60 % BR |
 
-100 % des frais réels
+131 € |
 
-sécurité sociale |
-
-Gros et petits appareillages, orthopédie, prothèses sauf prothèses auditives |
-
-60 % ou 100 % |
-
-TM + 200 % BR |
-
-Prothèses auditives (prise en charge acceptée) |
-
-60 % |
-
-390 % BR + crédit 400 €
-
-par an et par bénéficiaire |
-
-Prothèses auditives (prise en charge refusée) |
-
-– |
-
-Crédit de 385 € par an
-
-et par bénéficiaire |
-
-Hospitalisation médicale ou chirurgicale
+• Verre (par verre) |
 
 |
 
 |
 
-|
+BR = 12,04 € |
 
-Frais de soins et de séjour |
+60 % BR |
 
-100 % ou 80 % |
+130 € |
 
-TM |
+BR = 14,94 € |
 
-Dépassements d'honoraires (1) |
+60 % BR |
 
-– |
+150 € |
 
-100 % des frais réels |
+Autres BR |
 
-Chambre particulière (y compris ambulatoire) |
+60 % BR |
 
-– |
-
-100 % des frais réels par jour limité à 60 jours par an
-
-et par bénéficiaire |
-
-Frais d'accompagnant (5) |
-
-– |
-
-40 € par jour limité à 60 jours par an et par bénéficiaire |
-
-Forfait hospitalier |
-
-– |
-
-100 % des frais réels |
-
-Maternité
-
-|
-
-|
-
-|
-
-Dépassements d'honoraires et chambre particulière |
-
-– |
-
-Crédit de 1 000 €
-
-par maternité |
-
-Prime de naissance (6) |
-
-– |
-
-210 € par enfant
-
-pour les 2 premiers
-
-310 € à partir du 3e |
-
-Psychiatrie
-
-|
-
-|
-
-|
-
-Frais de soins et de séjour |
-
-100 % ou 80 % |
-
-TM |
-
-Dépassements d'honoraires |
-
-– |
-
-100 % des frais réels |
-
-Chambre particulière |
-
-– |
-
-Crédit de 1 000 € par an
-
-et par bénéficiaire |
-
-Forfait hospitalier |
-
-– |
-
-100 % des frais réels |
-
-Cures thermales
-
-|
-
-|
-
-|
-
-Honoraires de surveillance médicale |
-
-70 % |
-
-100 % des frais réels
-
-sécurité sociale |
-
-Frais de soins et de séjour |
-
-65 % |
-
-35 % BR + 195 €
-
-par bénéficiaire et par an |
+220 € |
 
 Divers
 
@@ -352,19 +216,281 @@ Divers
 
 |
 
-Transport pris en charge par la sécurité sociale |
+• Lentilles remboursées |
 
-65 % |
+60 % BR |
+
+390 % BR
+
++ 340 €/ an/ bénéficiaire |
+
+• Lentilles non remboursées |
+
+290 €/ an/ bénéficiaire |
+
+• Chirurgie réparatrice de l'œil |
+
+500 €/ œil/ an/ bénéficiaire |
+
+Dentaire
+
+|
+
+|
+
+|
+
+• Soins et honoraires remboursés par le régime de base |
+
+70 % BR |
+
+100 % FR |
+
+• Prothèses dentaires remboursées par le régime de base y compris couronnes implanto-portées |
+
+70 % BR |
+
+410 % BR |
+
+• Prothèses dentaires non remboursées par le régime de base |
+
+100 % BR |
+
+215 €/ an/ bénéficiaire |
+
+• Orthodontie remboursée par le régime de base |
+
+300 % BR |
+
+• Orthodontie non remboursée par le régime de base |
+
++ 400 €/ an/ bénéficiaire |
+
+• Implantologie/ parodontologie (5) |
+
++ 200 €/ an/ bénéficiaire |
+
+Appareillage
+
+|
+
+|
+
+|
+
+• Gros et petit appareillage, orthopédie, prothèses sauf auditives |
+
+60 % ou 100 % BR |
+
+TM + 200 % BR |
+
+• Prothèses auditives remboursées par le régime de base |
+
+60 % BR |
+
+390 % BR
+
++ 400 €/ an/ bénéficiaire |
+
+• Prothèses auditives non remboursées par le régime de base |
+
+|
+
+385 €/ an/ bénéficiaire |
+
+• Fournitures médicales, pansements |
+
+60 % BR |
+
+100 % FR |
+
+Hospitalisation médicale ou chirurgicale
+
+|
+
+|
+
+|
+
+• Frais de soins et de séjour |
+
+80 % ou 100 % BR |
+
+TM |
+
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Chambre particulière (yc ambulatoire) limitée à 60 j/ an/ bénéficiaire (6) |
+
+|
+
+100 % FR |
+
+• Frais d'accompagnant (enfant moins de 16 ans)
+
+limités à 60 jours/ an/ bénéficiaire |
+
+|
+
+40 €/ jour |
+
+• Forfait hospitalier journalier |
+
+|
+
+100 % FR |
+
+Maternité (7)
+
+|
+
+|
+
+|
+
+Dépassements d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+1 000 €/
+
+maternité |
+
+100 % FR |
+
+Dépassements d'honoraires médecins non adhérents aux DPTM (2) |
+
+100 % BR |
+
+• Chambre particulière |
+
+100 % FR |
+
+• Prime de naissance : maternité ou adoption |
+
+210 €/ enfant pour les 2 premiers et 310 € à partir du 3e |
+
+Psychiatrie
+
+|
+
+|
+
+|
+
+• Frais de soins et de séjour |
+
+100 % ou 80 % BR |
+
+TM |
+
+Dépassements d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassements d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Chambre particulière |
+
+|
+
+1 000 €/ an/ bénéficiaire |
+
+• Forfait hospitalier journalier |
+
+|
+
+100 % FR |
+
+Cures thermales
+
+|
+
+|
+
+|
+
+• Honoraires de surveillance médicale |
+
+70 % BR |
+
+TM |
+
+Dépassements d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassements d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Frais de soins et séjour |
+
+65 % BR |
+
+TM + 195 €/ an/ bénéficiaire |
+
+Divers
+
+|
+
+|
+
+|
+
+• Transport pris en charge par le régime de base |
+
+65 % BR |
 
 TM + 100 % BR |
 
-Forfait actes lourds |
+• Forfait actes lourds (8) |
 
-– |
+|
 
-100 % des frais réels |
+100 % FR |
 
-Soins et honoraires secteur non conventionné
+Tableau des garanties santé Alsace-Moselle
+
+Les prestations du présent contrat respectent l'ensemble des obligations liées aux contrats solidaires et responsables.
+
+Aussi, il ne prend pas en charge les pénalités appliquées en cas de non-respect du parcours de soins, de même que la participation forfaitaire et les franchises médicales mentionnées à l'article L. 160-13 du code de la sécurité sociale.
+
+Il répond également aux exigences du décret du 18 novembre 2014 relatif au contenu des contrats responsables : prise en charge du ticket modérateur et du forfait journalier, planchers et plafonds pour les frais d'optiques, plafonnement des dépassements d'honoraires des médecins non adhérents à l'un des dispositifs de pratique tarifaire maîtrisée (DPTM) prévu à l'article L. 871-1 du code de la sécurité sociale (OPTAM/ OPTAM-CO).
+
+Nature des risques |
+
+Remboursements
+
+du régime
+
+obligatoire |
+
+Remboursements
+
+complémentaires |
+
+Frais médicaux
 
 |
 
@@ -372,66 +498,470 @@ Soins et honoraires secteur non conventionné
 
 |
 
-Honoraires médecins |
+• Honoraires médecin (1) |
 
-70 % TA |
+90 % BR |
 
-90 % des frais réels limités
+10 % BR |
 
-à 300 % BR
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
 
-du secteur conventionné |
+|
 
-Auxiliaires médicaux, analyses, examen de laboratoire |
+100 % FR |
 
-60 % TA |
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
 
-90 % des frais réels limités
+|
 
-à 300 % BR
+100 % BR |
 
-du secteur conventionné |
+• Auxiliaires médicaux (3) |
 
-Dépassements d'honoraires (y compris psychiatrie) |
+90 % BR |
+
+100 % FR |
+
+• Analyses, examens de laboratoires |
+
+90 % ou 100 % BR |
+
+TM |
+
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Radiologie, actes techniques |
+
+90 % BR |
+
+TM |
+
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Actes de prévention (4) |
+
+90 % BR |
+
+100 % FR |
+
+• Médecines douces reconnues par le ministère de la santé (chiropractie, ostéopathie) |
 
 – |
 
-90 % des frais réels limités
+20 €/ séance avec un maximum de 2 séances/ an/ bénéficiaire |
 
-à 300 % BR
+Pharmacie
 
-du secteur conventionné |
+|
 
-Chambre particulière secteur (y compris ambulatoire) |
+|
+
+|
+
+• Pharmacie remboursée par le régime de base |
+
+15 % à 90 % BR |
+
+TM |
+
+Optique
+
+|
+
+|
+
+|
+
+Équipement adulte : 2 verres + monture par bénéficiaire et pour 2 ans à compter de la date d'acquisition. La période de prise en charge est réduite à 1 an pour les personnes dont la vue évolue. Garanties conformes au décret du 18 novembre 2014 relatif au contenu des contrats responsables |
+
+• Monture |
+
+90 % BR |
+
+150 € |
+
+• Verre simple (par verre) |
+
+|
+
+|
+
+BR = 2,29 € |
+
+90 % BR |
+
+140 € |
+
+BR = 3,66 € |
+
+90 % BR |
+
+160 € |
+
+Autres BR |
+
+90 % BR |
+
+220 € |
+
+• Verre progressif (par verre) |
+
+|
+
+|
+
+BR = 7,32 € |
+
+90 % BR |
+
+290 € |
+
+BR = 10,37 € |
+
+90 % BR |
+
+300 € |
+
+Autres BR |
+
+90 % BR |
+
+350 € |
+
+• Monture |
+
+90 % BR |
+
+131 € |
+
+• Verre (par verre) |
+
+|
+
+|
+
+BR = 12,04 € |
+
+90 % BR |
+
+130 € |
+
+BR = 14,94 € |
+
+90 % BR |
+
+150 € |
+
+Autres BR |
+
+90 % BR |
+
+220 € |
+
+Divers
+
+|
+
+|
+
+|
+
+• Lentilles remboursées |
+
+90 % BR |
+
+390 % BR + 340 €/ an/
+
+bénéficiaire |
+
+• Lentilles non remboursées |
+
+|
+
+290 €/ an/ bénéficiaire |
+
+• Chirurgie réparatrice de l'œil |
+
+|
+
+500 €/ œil/ an/ bénéficiaire |
+
+Dentaire
+
+|
+
+|
+
+|
+
+• Soins et honoraires remboursés par le régime de base |
+
+90 % BR |
+
+100 % FR |
+
+• Prothèses dentaires remboursées par le régime de base y compris couronnes implanto-portées |
+
+90 % BR |
+
+390 % BR |
+
+• Prothèses dentaires non remboursées par le régime de base |
+
+|
+
+215 €/ an/ bénéficiaire |
+
+• Orthodontie remboursée par le régime de base |
+
+100 % BR |
+
+300 % BR |
+
+• Orthodontie non remboursée par le régime de base |
+
+|
+
+400 €/ an/ bénéficiaire |
+
+• Implantologie/ parodontologie (5) |
+
+|
+
+200 €/ an/ bénéficiaire |
+
+Appareillage
+
+|
+
+|
+
+|
+
+• Gros et petit appareillage, orthopédie, prothèses sauf auditives |
+
+90 % ou 100 % BR |
+
+TM + 200 % BR |
+
+• Prothèses auditives remboursées par le régime de base |
+
+90 % BR |
+
+540 % BR + 400 €/ an/ bénéficiaire |
+
+• Prothèses auditives non remboursées par le régime de base |
+
+|
+
+385 €/ an/ bénéficiaire |
+
+• Fournitures médicales, pansements |
+
+90 % BR |
+
+100 % FR |
+
+Hospitalisation médicale ou chirurgicale
+
+|
+
+|
+
+|
+
+• Frais de soins et de séjour |
+
+100 % BR |
 
 – |
 
-90 % des frais réels par jour limité à 60 jours par an
+Dépassement d'honoraires médecins adhérents aux DPTM (2) |
 
-et par bénéficiaire |
+|
 
-(1) Conformément au décret du 21 mars 2012 relatif au contenu des « contrats responsables », le régime prévoit le remboursement de l'intégralité des dépassements d'honoraires encadrés des médecins exerçant une spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation ayant opté pour l'option de coordination.
+100 % FR |
 
-(2) Ensemble des actes de prévention remboursés par le régime de base de sécurité sociale, dont ceux définis par l'arrêté ministériel du 8 juin 2006 :
+Dépassement d'honoraires médecins non adhérents aux DPTM (2) |
 
-− détartrage annuel complet ;
+|
 
-− dépistage de l'hépatite B ;
+100 % BR |
 
-− scellement prophylactique des puits, sillons et fissures (jusqu'à 14 ans) ;
+• Chambre particulière (yc ambulatoire) limitée à 60j/ an/ bénéficiaire (6) |
 
-− bilan du langage oral et/ou bilan d'aptitudes à l'acquisition du langage écrit (jusqu'à 14 ans) ;
+|
 
-− dépistage une fois tous les 5 ans des troubles de l'audition (au-delà de 50 ans) ;
+100 % FR |
 
-− ostéodensitométrie (femmes de plus de 50 ans, une fois tous les 6 ans) ;
+• Frais d'accompagnant (jusqu'aux 16 ans de l'enfant)
 
-− vaccinations (diphtérie, tétanos et poliomyélite (tous âges), coqueluche (avant 14 ans), hépatite B (avant 14 ans), BCG (avant 6 ans), rubéole (adolescentes non vaccinées et femmes non immunisées désirant un enfant), Haemophilus influenzae B, vaccination contre les infections invasives à pneumocoques (avant 18 mois).
+limités à 60 jours/ an/ bénéficiaire |
 
-(3) Crédit total limité à 340 € par an et par bénéficiaire sur ces deux postes.
+|
 
-(4) Bilan photos, couronne ou bridge provisoire, prothèse amovible transitoire (non définitive), dent provisoire, dépose d'une couronne ou d'un bridge (acte opposable en cas de nécessité médicale), délabrement d'un pilier sain pour pose d'un bridge.
+40 €/ jour |
 
-(5) Jusqu'aux 16 ans de l'enfant.
+• Forfait hospitalier journalier |
 
-(6) Egalement versée en cas d'adoption. |
+100 % FR |
+
+– |
+
+Maternité (7)
+
+|
+
+|
+
+|
+
+Dépassements d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+1 000 €/
+
+maternité |
+
+100 % FR |
+
+Dépassements d'honoraires médecins non adhérents aux DPTM (2) |
+
+100 % BR |
+
+• Chambre particulière |
+
+100 % FR |
+
+• Prime de naissance : maternité ou adoption |
+
+210 €/ enfant pour les 2 premiers
+
+et 310 € à partir du 3e |
+
+Psychiatrie
+
+|
+
+|
+
+|
+
+• Frais de soins et de séjour |
+
+90 % BR |
+
+TM |
+
+Dépassements d'honoraires médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassements d'honoraires médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Chambre particulière |
+
+|
+
+1 000 €/ an/ bénéficiaire |
+
+• Forfait hospitalier journalier |
+
+100 % FR |
+
+– |
+
+Cures thermales
+
+|
+
+|
+
+|
+
+• Honoraires de surveillance médicale |
+
+90 % BR |
+
+TM |
+
+Dépassements médecins adhérents aux DPTM (2) |
+
+|
+
+100 % FR |
+
+Dépassements médecins non adhérents aux DPTM (2) |
+
+|
+
+100 % BR |
+
+• Frais de soins et séjour |
+
+90 % BR |
+
+TM + 195 €/ an/ bénéficiaire |
+
+Divers
+
+|
+
+|
+
+|
+
+• Transport pris en charge par le régime de base |
+
+100 % BR |
+
+– |
+
+• Forfait actes lourds (8) |
+
+100 % FR |
+
+– |
+
+(1) Conformément au Décret du 21 mars 2012 relatif au contenu des « contrats responsables », le régime prévoit le remboursement de l'intégralité des dépassements d'honoraires encadrés des médecins exerçant une spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation ayant opté pour l'option de coordination.
+
+(2) Le remboursement diffère selon que le médecin est adhérent ou non à l'un des dispositifs de pratique tarifaire Maîtrisée (DPTM) prévu à l'article L. 871-1 du code de la sécurité sociale (OPTAM/ OPTAM-co). Pour les médecins non conventionnés, se référer aux remboursements des dépassements des médecins non adhérents aux DPTM, le remboursement sera calculé sur la base du tarif d'autorité défini par l'article L. 162-5-10 du code de la sécurité sociale.
+
+(3) Auxiliaires médicaux non conventionnés : 90 % FR à 300 % BR du secteur conventionné.
+
+(4) Actes de prévention, selon les conditions prévues dans l'arrêté du 18 novembre 2014 fixant la liste des prestations de prévention. Tous les actes de prévention sont pris en charge au titre du contrat (cf. liste annexée ci-dessous à la date du 18 novembre 2014) : détartrage annuel effectué en 2 séances maximum ; ostéodensitométrie pour les femmes de plus de 50 ans ; scellement des sillons avant 14 ans ; dépistage Hépatite B ; bilan du langage avant 14 ans ; dépistage des troubles de l'audition après 50 ans ; vaccinations (diphtérie, tétanos, poliomyélite, coqueluche, hépatite B, BCG, rubéole, pneumocoque, selon âge). En cas de dépassements, se référer à la ligne dépassements médecins adhérents ou non aux DPTM.
+
+(5) Hors couronnes implanto-portées.
+
+(6) Pour les établissements non conventionnés (yc ambulatoire) : 90 % FR limité à 60/ jour/ an.
+
+(7) Le crédit de 1 000 € ne peut être utilisé pour le remboursement complémentaire des dépassements d'honoraires des médecins non adhérents aux DPTM. Prime de naissance : maternité ou adoption : versée après demande auprès du régime de base sur justificatif.
+
+(8) Forfait acte lourd : ticket modérateur d'ordre public et forfaitaire (18 € en 2018). Il est dû par le patient au praticien pour tout acte technique dont le montant est supérieur à 120 €.

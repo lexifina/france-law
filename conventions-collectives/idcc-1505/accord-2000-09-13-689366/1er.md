@@ -5,3 +5,11 @@ Les organisations signataires du présent accord s'entendent pour créer une ass
 Cette association a pour vocation d'engager des études, de participer à l'information des négociateurs paritaires, à leur formation et à l'organisation de leurs rencontres. Elle a également pour vocation d'engager des actions destinées à informer les entreprises et leurs salariés sur les accords collectifs, sur l'évolution de la profession et tout particulièrement sur l'évolution de l'emploi.
 
 Dans ce but, l'association recueille et gère les cotisations qui lui sont destinées.
+
+L'association pour le développement du paritarisme (ADP) adopte les règles de délibération suivantes :
+
+– le collège des organisations représentatives des salariés et le collège des organisations représentatives des employeurs disposent, chacun, d'un nombre égal de voix ;
+
+– au sein de chacun de ces collèges, chaque organisation délibère avec le poids de représentativité arrêté tous les 4 ans par le ministre du travail ;
+
+– pour être valides, les délibérations doivent recueillir la majorité des voix au sein de chaque collège.
