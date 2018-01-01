@@ -1,0 +1,5 @@
+# Article 1er
+
+Les partenaires sociaux décident de porter le taux de la cotisation promotion/ recrutement à 0,25 % au lieu de 0,20 % précédemment. Dans un souci de simplification pour le calcul des cotisations et d'unification des différentes assiettes, ils décident également d'asseoir la cotisation sur l'ensemble de la masse salariale brute, y compris les apprentis.
+
+L'article 38.5 de la convention collective nationale de la charcuterie est par conséquent modifié comme suit : « Pour assurer le financement des opérations entrant dans l'objet de l'ASPIC, il est institué à titre obligatoire depuis le 1er janvier 1992 une cotisation annuelle calculée sur la masse salariale de l'année précédente. Le taux de cette cotisation est fixé à 0,25 % à compter du 1er janvier 2018. Cette cotisation est due par toutes les entreprises et collectée en même temps que les cotisations dues au titre du financement du paritarisme. Elle est assise sur l'ensemble de la masse salariale brute y compris les apprentis ».
