@@ -1,52 +1,24 @@
 # Article Annexe II b
 
-ANNEXE II b
-
-RÈGLEMENT D'EXAMEN
+RÉGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-Spécialité forêt |
+Spécialité : forêt |
 
-CANDIDATS DE LA VOIE SCOLAIRE
+CANDIDATS DE LA VOIE
 
-dans un établissement public ou privé sous contrat,
+scolaire dans un établissement public ou privé sous contrat, cfa ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public ou privé habilité |
 
-CFA ou section d'apprentissage habilité,
+CANDIDATS DE LA VOIE
 
-formation professionnelle continue
+de la formation professionnelle continue dans un établissement public habilité (D337/74) |
 
-dans un établissement public ou privé habilité |
+CANDIDATS DE LA VOIE
 
-CANDIDATS
+scolaire dans un établissement privé, cfa ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, enseignement à distance, candidats justifiant de trois ans d'expérience professionnelle |
 
-de la voie de la formation professionnelle
-
-continue dans un établissement
-
-public habilité
-
-(D. 337-74)
-
-|
-
-CANDIDATS
-
-de la voie scolaire dans un établissement privé, CFA
-
-ou section d'apprentissage non habilité,
-
-formation professionnelle continue
-
-en établissement privé, enseignement à distance,
-
-candidats justifiant de trois ans
-
-d'expérience professionnelle
-
-|
-
-Epreuves |
+ÉPREUVES |
 
 Unité |
 
@@ -64,17 +36,15 @@ Forme |
 
 Durée |
 
-E1 (*) : Langue française, langages,
-
-éléments d'une culture humaniste et compréhension du monde |
+E1 : Langue française, langages, éléments d'une culture humaniste et compréhension du monde (1) |
 
 U1 |
 
 4 |
 
-Ponctuelle terminale écrite en deux parties |
+Terminale ponctuelle écrite en deux parties |
 
-2×2h |
+2 x 2 h |
 
 CCF |
 
@@ -82,7 +52,7 @@ CCF |
 
 Ecrite en deux parties |
 
-2 × 2h |
+2 x 2 h |
 
 E2 : Langue et culture étrangères |
 
@@ -102,7 +72,7 @@ Orale |
 
 0 h 20 |
 
-E3 : Motricité, santé et socialisation par la pratique des APSAES (**) |
+E3 : Motricité, santé et socialisation par la pratique des APSAES (2) |
 
 U3 |
 
@@ -120,15 +90,17 @@ Pratique |
 
 |
 
-E4 (*) : Culture scientifique et technologique |
+E4 : Culture scientifique
+
+et technologique (1) |
 
 U4 |
 
 4 |
 
-Ponctuelle terminale écrite |
+Terminale ponctuelle écrite |
 
-2h |
+2 h |
 
 CCF |
 
@@ -136,23 +108,23 @@ CCF |
 
 Ecrite en deux parties |
 
-2 × 2 h |
+2 x 2 h |
 
-E5 : Choix techniques |
+E5 : Caractéristiques des agroéquipements |
 
 U5 |
 
 2 |
 
-Ponctuelle terminale écrite |
+Terminale ponctuelle écrite |
 
-2h30 |
+2 h 30 |
 
 CCF |
 
 |
 
-Ecrites |
+Ecrite |
 
 2 h 30 |
 
@@ -162,9 +134,9 @@ U6 |
 
 3 |
 
-Ponctuelle terminale orale s'appuyant sur un écrit |
+Terminale ponctuelle orale sur un écrit |
 
-0h30 |
+0 h 30 |
 
 CCF |
 
@@ -176,7 +148,15 @@ Orale s'appuyant sur un écrit |
 
 E7 : Pratiques professionnelles |
 
-U7 |
+U7
+
+U8
+
+U9
+
+U10
+
+U11 |
 
 5 |
 
@@ -192,28 +172,36 @@ Orale |
 
 0 h 30 |
 
-E8 : Epreuve facultative |
+Epreuve facultative n° 1 (3) |
 
-|
+UF1 |
 
 Points au-dessus de 10 |
 
 CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur
+
+relevant du ministère chargé de l'agriculture |
+
+Epreuve facultative n° 2 (3) |
+
+UF2 |
+
+Points au-dessus de 10 |
 
 CCF |
 
-|
+Selon les conditions fixées par la réglementation en vigueur
 
-|
+relevant du ministère chargé de l'agriculture |
 
-|
+(1) Epreuve comportant des situations d'évaluation en cours de formation.
 
-(*) Epreuve comportant des situations d'évaluation en cours de formation.
+(2) APSAES : activités physique sportive, artistique et d'entretien de soi.
 
-(**) APSAES : activités physiques, sportives, artistiques et d'entretien de soi. |
+(3) Le candidat peut choisir une ou deux épreuves facultatives parmi les choix possibles, les conditions sont fixées par la réglementation en vigueur relevant du ministère de l'agriculture. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention et de l'attribution d'une mention. |
 
 NOTA :
 
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc .
+Les annexes du présent arrêté sont consultables sur le site www.chlorofil.fr.
