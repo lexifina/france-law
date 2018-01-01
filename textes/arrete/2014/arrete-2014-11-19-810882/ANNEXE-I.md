@@ -104,11 +104,11 @@ Programme en vigueur dans les classes préparatoires de physique, chimie, scienc
 
 Programme de 1re année en vigueur dans les classes préparatoires de mathématiques, physique et sciences de l'ingénieur (MPSI) et programme de 2e année (cf. programme détaillée en annexe II).
 
-4.3. Français (durée : 30 minutes, préparation : 30 minutes ; coefficient 2).
+4.3. Un entretien avec le jury comportant deux parties (durée : 40 minutes, préparation : 30 minutes ; coefficient 2) :
 
-L'épreuve orale de français se présente sous la forme d'un commentaire et d'une analyse de texte de portée générale.
+La première partie de l'entretien est fixée à 25 minutes au plus. Elle débute par le résumé, par le candidat, d'un court texte de portée générale relevant du domaine de l'aéronautique, fourni par le jury, d'une durée de 10 minutes au plus. Elle se poursuit par des questions du jury portant sur le sens et les idées principales du texte afin d'apprécier les qualités de compréhension, de raisonnement et d'expression du candidat.
 
-L'épreuve doit permettre d'évaluer la prestation orale du candidat.
+Dans une seconde partie, le jury interroge le candidat sur son parcours, sur ses motivations et ses connaissances des missions dévolues au corps des ingénieurs du contrôle de la navigation aérienne afin d'évaluer son aptitude à exercer lesdites missions.
 
 4.4. Anglais (durée : 15 minutes, préparation : 20 minutes ; coefficient 2).
 
