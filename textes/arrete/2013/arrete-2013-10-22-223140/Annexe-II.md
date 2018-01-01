@@ -20,17 +20,17 @@ Dans le cas d'un établissement thermal, l'analyse Ress 2 (1) et 1 des analyses 
 
 (1) L'analyse Ress2 est à faire en complément d'une analyse Ress1. |
 
-Tableau 2. - Fréquence des prélèvements et échantillons d'eau
+Tableau 2. - Fréquence minimale des prélèvements et échantillons d'eau et d'analyses portant sur les eaux conditionnées,
 
-et d'analyses portant sur les eaux conditionnées, mentionnée à l'article 4
+mentionnée à l'article 4 suivant :
 
 POINTS DE PRÉLÈVEMENTS |
 
-VOLUME D'EAU PRODUIT EN m ³
+VOLUME TOTAL D'EAU
 
-par jour en vue d'être vendu
+conditionnee en m ³ par jour
 
-en bouteilles (= VolJR) (1) |
+(= VolJR) (1) |
 
 NOMBRE ANNUEL D'ANALYSES
 
@@ -38,13 +38,11 @@ NOMBRE ANNUEL D'ANALYSES
 
 Au point où les eaux sont conditionnées
 
-Avant ou après soutirage
+Avant ou après soutirage |
 
-|
+Inférieur ou égal à 10 m3 par jour |
 
-Inférieur ou égal à 10 m ³ par jour |
-
-6 analyses de type Cdt1
+6 analyses de type Cdt1 par chaîne de conditionnement
 
 1 analyse de type Cdt2
 
@@ -52,9 +50,9 @@ Inférieur ou égal à 10 m ³ par jour |
 
 1 analyse de type Cdt4 |
 
-Supérieur à 10 m ³ par jour et inférieur ou égal à 60 m ³ par jour |
+Supérieur à 10 m3 par jour et inférieur ou égal à 100 m3 par jour |
 
-12 analyses de type Cdt1
+9 analyses de type Cdt1 par chaîne de conditionnement
 
 1 analyse de type Cdt2
 
@@ -62,79 +60,49 @@ Supérieur à 10 m ³ par jour et inférieur ou égal à 60 m ³ par jour |
 
 1 analyse de type Cdt4 |
 
-Supérieur à 60 m ³ par jour |
+Supérieur à 100 m3 par jour et inférieur ou égal à 500 m3 par jour |
 
-1 analyse de type Cdt1 par tranche entamée de 5 m ³ de VolJR
+12 analyses de type Cdt1 par chaîne de conditionnement
 
-1 analyse de type Cdt2 par tranche entamée de 100 m ³ de VolJR (sans dépasser 6 par an dans le cas d'une eau minérale naturelle)
+2 analyses de type Cdt2
 
-1 analyse de type Cdt3 par tranche entamée de 500 m ³ de VolJR (sans dépasser 4 par an)
+1 analyse de type Cdt3
 
 1 analyse de type Cdt4 |
 
-(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture.
+Supérieur à 500 m3 par jour |
 
-Si plusieurs chaînes de conditionnement sont alimentées par une même canalisation, le contrôle de certains paramètres peut s'effectuer au choix sur une seule chaîne de conditionnement définie par le directeur général de l'agence régionale de santé, quel que soit l'atelier de conditionnement.
+12 analyses de type Cdt1 par chaîne de conditionnement
 
-|
+3 analyses de type Cdt2
 
-Tableau 3. - Fréquence minimale des prélèvements et échantillons d'eau et d'analyses
+2 analyses de type Cdt3
 
-portant sur les eaux conditionnées et réalisés dans le cadre du contrôle sanitaire, mentionnée à l'article 7
+1 analyse de type Cdt4 |
+
+(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture. |
+
+Tableau 3. - Fréquence minimale des prélèvements et échantillons d'eau et d'analyses portant sur les eaux conditionnées
+
+et réalisés dans le cadre du contrôle sanitaire, mentionnée à l'article 7 suivant :
 
 POINTS DE PRÉLÈVEMENTS |
 
-VOLUME D'EAU PRODUIT EN m ³
-
-par jour en vue d'être vendu
-
-en bouteilles (= VolJR) (1) |
-
-NOMBRE ANNUEL D'ANALYSES
-
-à réaliser |
+NOMBRE ANNUEL D'ANALYSES À RÉALISER |
 
 Au point où les eaux sont conditionnées
 
-Avant ou après soutirage
+Avant ou après soutirage |
 
-|
-
-Inférieur ou égal à 10 m ³ par jour |
-
-6 analyses de type Cdt1
+6 analyses de type Cdt1 par chaîne de conditionnement
 
 1 analyse de type Cdt2
 
 1 analyse de type Cdt3
 
-1 analyse de type Cdt4 |
+1 analyse de type Cdt4
 
-Supérieur à 10 m ³ par jour et inférieur ou égal à 60 m ³ par jour |
-
-12 analyses de type Cdt1
-
-1 analyse de type Cdt2
-
-1 analyse de type Cdt3
-
-1 analyse de type Cdt4 |
-
-Supérieur à 60 m ³ par jour |
-
-12 analyses de type Cdt1
-
-1 analyse de type Cdt2
-
-1 analyse de type Cdt3
-
-1 analyse de type Cdt4 |
-
-(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture.
-
-Si plusieurs chaînes de conditionnement sont alimentées par une même canalisation, le contrôle de certains paramètres peut s'effectuer au choix sur une seule chaîne de conditionnement définie par le directeur général de l'agence régionale de santé, quel que soit l'atelier de conditionnement.
-
-|
+Le nombre d'analyses de type Cdt1 est porté à 9 lorsque le volume d'eau conditionnée est supérieur à 100 m3 par jour et que l'eau est conditionnée sur une seule chaîne de conditionnement. |
 
 Tableau 4. - Fréquence des prélèvements et échantillons d'eau et d'analyses
 
@@ -158,7 +126,7 @@ Au point de puisage à la buvette publique
 
 Tableau 5. - Fréquence des prélèvements et échantillons d'eau et d'analyses portant sur les eaux minérales naturelles
 
-utilisées à des fins thérapeutiques dans un établissement thermal, mentionnées à l'article 4
+utilisées à des fins thérapeutiques dans un établissement thermal, mentionnée à l'article 4
 
 POINTS DE PRÉLÈVEMENTS |
 
@@ -168,15 +136,13 @@ Aux points d'usage, par catégorie de soins, par bâtiments et réseaux identifi
 
 |
 
-Soins de catégorie I : soins en contact direct ou susceptibles de provoquer un contact avec les muqueuses respiratoires ou oculaires
-
-|
+Soins de catégorie I : soins en contact direct ou susceptibles de provoquer un contact avec les muqueuses respiratoires ou oculaires |
 
 1 analyse de type Th1 par mois durant l'ouverture de l'établissement |
 
-Soins de catégorie II : soins en contact avec les autres muqueuses internes et Ingestion d'eau minérale (cure de boissons) |
+Soins de catégorie II : soins en contact avec les autres muqueuses internes et ingestion d'eau minérale naturelle (cure de boissons) |
 
-1 analyse de type Th1 par mois durant l'ouverture de l'établissement (pas d'analyse de légionelles) |
+1 analyse de type Th1 par mois durant l'ouverture de l'établissement |
 
 Soins de catégorie III : soins externes individuels (bains, douches...) |
 

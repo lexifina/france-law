@@ -172,7 +172,7 @@ x |
 
 / |
 
-Conductivité mesurée sur place, à la température de 25° C |
+Conductivité mesurée sur site, à la température de 25° C |
 
 x |
 
@@ -180,7 +180,7 @@ x |
 
 / |
 
-Dioxyde de carbone (analyse sur place ou après piégeage sur place) |
+Dioxyde de carbone (analyse sur site ou après piégeage sur site) |
 
 x |
 
@@ -188,7 +188,7 @@ x |
 
 B |
 
-Oxygène dissous (mesure sur place ou après piégeage sur place) |
+Oxygène dissous (mesure sur site ou après piégeage sur site) |
 
 x |
 
@@ -196,7 +196,7 @@ x |
 
 / |
 
-pH (mesure sur place) |
+pH (mesure sur site) |
 
 x |
 
@@ -204,7 +204,7 @@ x |
 
 / |
 
-Potentiel d'oxydo-réduction (mesure sur place et expression par rapport à l'électrode de référence à l'hydrogène) |
+Potentiel d'oxydo-réduction (mesure sur site et expression par rapport à l'électrode de référence à l'hydrogène) |
 
 x |
 
@@ -228,7 +228,7 @@ x |
 
 C |
 
-Sulfures totaux (exprimés en mg/ l de H2S) (analyse sur place ou après piégeage sur place) |
+Sulfures totaux (exprimés en mg/L de H2S) (analyse sur site ou après piégeage sur site) |
 
 x |
 
@@ -236,7 +236,7 @@ x |
 
 D |
 
-Température de l'eau (mesure sur place) |
+Température de l'eau (mesure sur site) |
 
 x |
 
@@ -358,7 +358,7 @@ x |
 
 x |
 
-Chlore total (analyse sur place) |
+Chlore total (analyse sur site) |
 
 x |
 
@@ -778,7 +778,7 @@ x |
 
 / |
 
-Radon (3) (4)
+Radon (4) (5)
 
 |
 
@@ -830,15 +830,15 @@ F : la mesure est réalisée uniquement pour les eaux d'origine superficielle re
 
 Les substances susceptibles d'être présentes doivent être recherchées en priorité.
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
+(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/L ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
 
-Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
 
 (3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
 
-(3) S'agissant des modalités de mise en œuvre, se référer à l'arrêté pris en application de l'article R. 1321-15 du code de la santé publique pour la mesure du radon dans le cadre du contrôle sanitaire des eaux.
+(4) S'agissant des modalités de mise en œuvre, se référer à l'arrêté pris en application de l'article R. 1321-15 du code de la santé publique pour la mesure du radon dans le cadre du contrôle sanitaire des eaux.
 
-(4) A rechercher pour les eaux de source et les eaux rendues potables par traitements d'origine souterraine.
+(5) A rechercher pour les eaux de source et les eaux rendues potables par traitements d'origine souterraine.
 
 |
 
@@ -938,9 +938,7 @@ x |
 
 B.-Analyses physico-chimiques
 
-Paramètres généraux
-
-|
+Paramètres généraux |
 
 Carbone organique total |
 
@@ -952,7 +950,7 @@ A |
 
 / |
 
-Conductivité mesurée sur place, à la température de 25° C |
+Conductivité mesurée sur site, à la température de 25° C |
 
 x |
 
@@ -962,7 +960,7 @@ x |
 
 / |
 
-Dioxyde de carbone (analyse sur place ou après piégeage sur place, sauf pour les échantillons d'eau conditionnée) |
+Dioxyde de carbone (analyse sur site ou après piégeage sur site, sauf pour les échantillons d'eau conditionnée) |
 
 / |
 
@@ -972,7 +970,7 @@ B |
 
 / |
 
-Ozone dissous (analyse sur place) |
+Ozone dissous (analyse sur site) |
 
 / |
 
@@ -982,7 +980,7 @@ C |
 
 / |
 
-pH (mesure sur place) |
+pH (mesure sur site) |
 
 x |
 
@@ -992,7 +990,7 @@ x |
 
 / |
 
-Potentiel d'oxydo-réduction (mesure sur place et expression par rapport à l'électrode de référence à l'hydrogène) |
+Potentiel d'oxydo-réduction (mesure sur site et expression par rapport à l'électrode de référence à l'hydrogène) |
 
 / |
 
@@ -1022,7 +1020,7 @@ D |
 
 / |
 
-Température (mesure sur place) |
+Température (mesure sur site) |
 
 x |
 
@@ -1576,9 +1574,7 @@ x |
 
 / |
 
-C.-Radioactivité
-
-|
+C.-Radioactivité |
 
 Activité alpha globale (2) |
 
@@ -1628,19 +1624,19 @@ C : paramètre à rechercher en Cdt2 si l'eau fait l'objet d'un traitement à l'
 
 D : paramètre à rechercher en Cdt2 si c'est une EMN.
 
-E : paramètre à rechercher en Cdt1 lorsqu'il est utilisé comme agent de floculation (concerne uniquement les ERPT), sinon en Cdt2.
+E : paramètre à rechercher en Cdt1 si l'eau a fait l'objet d'un traitement à base d'aluminium ou de fer, sinon en Cdt2.
 
 F : paramètre à rechercher systématiquement pour les eaux faisant état du caractère approprié pour l'alimentation des nourrissons.
 
-G : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dépassement de l'activité alpha globale, ou de l'activité béta globale, ou du tritium par rapport aux références de qualité définies pour les ES/ ERPT et aux limites de qualité définies pour les EMN/ ES faisant mention du caractère approprié de l'eau pour l'alimentation du nourrisson fixées dans l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
+G : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dépassement de l'activité alpha globale, ou de l'activité bêta globale résiduelle, ou du tritium par rapport aux références de qualité définies pour les ES/ ERPT et aux limites de qualité définies pour les EMN/ ES faisant mention du caractère approprié de l'eau pour l'alimentation du nourrisson fixées dans l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
 
 (1) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
 
 Les substances susceptibles d'être présentes doivent être recherchées en priorité.
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
+(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale résiduelle supérieures à 1,0 Bq/L ou du tritium supérieures à 100 Bq/L, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
 
-Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
 
 (3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
 
@@ -1684,13 +1680,13 @@ x |
 
 Legionella sp. dans 1 l |
 
-x |
+A |
 
 A |
 
 Legionella pneumophila dans 1 l |
 
-x |
+A |
 
 A |
 
@@ -1724,25 +1720,25 @@ Carbone organique total |
 
 x |
 
-Conductivité mesurée sur place, à la température de 25° C |
+Conductivité mesurée sur site, à la température de 25° C |
 
 x |
 
 x |
 
-Dioxyde de carbone (analyse sur place ou après piégeage sur place) |
+Dioxyde de carbone (analyse sur site ou après piégeage sur site) |
 
 B |
 
 B |
 
-Ozone dissous (analyse sur place) |
+Ozone dissous (analyse sur site) |
 
 / |
 
 C |
 
-pH (mesure sur place) |
+pH (mesure sur site) |
 
 x |
 
@@ -1754,13 +1750,13 @@ Produits stabilisants des eaux de piscines |
 
 D |
 
-Sulfures totaux (exprimés en mg/ l de H2S) (analyse sur place ou après piégeage sur place) |
+Sulfures totaux (exprimés en mg/L de H2S) (analyse sur site ou après piégeage sur site) |
 
 B |
 
 B |
 
-Température (mesure sur place) |
+Température (mesure sur site) |
 
 x |
 
@@ -1822,13 +1818,13 @@ B |
 
 B |
 
-Chlore libre (ou tout autre paramètre représentatif du traitement de désinfection) (analyse sur place) |
+Chlore libre (ou tout autre paramètre représentatif du traitement de désinfection) (analyse sur site) |
 
 x |
 
 x |
 
-Chlore total (ou tout autre paramètre représentatif du traitement de désinfection) (analyse sur place) |
+Chlore total (ou tout autre paramètre représentatif du traitement de désinfection) (analyse sur site) |
 
 x |
 
@@ -1956,7 +1952,7 @@ Bromodichlorométhane |
 
 F |
 
-A : paramètre à rechercher en cas de jets émettant des aérosols.
+A : paramètre à rechercher systématiquement pour les soins entrant dans la catégorie I et, pour les autres catégories de soins, uniquement en cas de production d'aérosols, y compris pour les soins mettant en œuvre des jets en immersion tels que les bains à remous.
 
 B : ion pouvant être retenu dans le contrôle sanitaire ou la partie principale de la surveillance exercée par l'exploitant. Au moins un anion ou cation caractéristique de l'EMN est analysé.
 
