@@ -1,8 +1,6 @@
 # Article Annexe II
 
-PROGRAMME DES ÉPREUVES
-
-Programme des épreuves communes aux deux concours
+PROGRAMME DES ÉPREUVES COMMUNES AUX DEUX CONCOURS
 
 Droit pénal général
 
@@ -10,39 +8,47 @@ Droit pénal général
 
 a) La loi pénale et le juge :
 
-- la qualification des faits ;
+-la qualification des faits ;
 
-- l'interprétation de la loi ;
+-l'interprétation de la loi ;
 
-- le contrôle de régularité de la loi ;
+-le contrôle de régularité de la loi ;
 
 b) La loi pénale et l'infraction :
 
-- les éléments constitutifs de l'infraction ;
+-les éléments constitutifs de l'infraction ;
 
-- les qualifications des infractions.
+-les qualifications des infractions selon leur gravité et leur nature.
 
 2. Le délinquant :
 
 a) La responsabilité pénale du délinquant :
 
-- principe et limites de la responsabilité personnelle ;
+-principe et limites de la responsabilité personnelle ;
 
-- la distinction auteur/coauteur/complice ;
+-la distinction auteur/ coauteur/ complice ;
 
-- la tentative ;
+-la tentative ;
 
-- la distinction personne physique/personne morale, mineur/majeur ;
+-la distinction personne physique/ personne morale, mineur/ majeur ;
 
-- le cas particulier des responsables politiques ;
+-le cas particulier des responsables politiques ;
 
 b) L'irresponsabilité pénale du délinquant :
 
-- causes objectives d'irresponsabilité pénale ;
+-causes objectives d'irresponsabilité pénale ;
 
-- causes subjectives d'irresponsabilité pénale ;
+-causes subjectives d'irresponsabilité pénale ;
 
-- immunités diverses.
+-immunités diverses.
+
+3. Les peines :
+
+a) La peine encourue ;
+
+b) La peine prononcée ;
+
+c) La peine exécutée.
 
 Procédure pénale
 
@@ -86,25 +92,25 @@ c) Les voies de recours internationales.
 
 a) Les cadres institutionnels de l'entraide :
 
-- Nations unies ;
+-Nations unies ;
 
-- Conseil de l'Europe ;
+-Conseil de l'Europe ;
 
-- Union européenne.
+-Union européenne.
 
 b) Les mécanismes et les structures de l'entraide :
 
-- accords de Schengen et traité de Lisbonne ;
+-accords de Schengen et traité de Lisbonne ;
 
-- extradition et mandat d'arrêt européen ;
+-extradition et mandat d'arrêt européen ;
 
-- réseau judiciaire européen et magistrats de liaison ;
+-réseau judiciaire européen et magistrats de liaison ;
 
-- Eurojust, Europol et Interpol ;
+-Eurojust, Europol et Interpol ;
 
-- équipes communes d'enquête ;
+-équipes communes d'enquête ;
 
-- le casier judiciaire européen.
+-le casier judiciaire européen.
 
 Concours externe
 
@@ -114,73 +120,77 @@ Droit administratif général
 
 a) Les principes de l'organisation administrative :
 
-- centralisation ;
+-centralisation ;
 
-- décentralisation ;
+-décentralisation ;
 
-- déconcentration ;
+-déconcentration ;
 
 b) L'administration de l'Etat :
 
-- l'administration centrale, les services déconcentrés de l'Etat ;
+-l'administration centrale, les services déconcentrés de l'Etat ;
 
-- les établissements publics à caractère administratif et les établissements publics à caractère industriel et commercial ;
+-les établissements publics à caractère administratif et les établissements publics à caractère industriel et commercial ;
 
-- les autorités administratives indépendantes ;
+-les autorités administratives indépendantes ;
 
-- le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets ;
+-le ou les représentants de l'Etat au niveau territorial : les préfets et sous-préfets ;
 
 c) Les collectivités territoriales :
 
-- la région ;
+-la région ;
 
-- le département ;
+-le département ;
 
-- la commune ;
+-la commune ;
 
-- l'intercommunalité et les groupements de collectivités territoriales ;
+-l'intercommunalité et les groupements de collectivités territoriales.
 
-- le statut de Paris, Lyon et Marseille ;
-
-- le contrôle administratif des collectivités locales.
+d) Le contrôle des collectivités territoriales.
 
 2. L'action de l'administration :
 
-a) Le principe de la légalité administrative.
+a) Le principe de la légalité administrative ;
 
 b) L'objet de l'action de l'administration :
 
-- la théorie générale des services publics ;
+-la théorie générale des services publics ;
 
-- la police administrative ;
+-la police administrative.
 
-c) La responsabilité administrative extracontractuelle :
+c) Les procédés de l'action administrative :
 
-- responsabilité pour faute ;
+-l'acte administratif unilatéral ;
 
-- responsabilité sans faute.
+-le contrat administratif.
+
+d) La responsabilité administrative extracontractuelle :
+
+-responsabilité pour faute ;
+
+-responsabilité sans faute.
 
 3. La justice administrative :
 
 a) Les principales juridictions administratives :
 
-- le Conseil d'Etat ;
+-le Conseil d'Etat ;
 
-- les cours administratives d'appel ;
+-les cours administratives d'appel ;
 
-- les tribunaux administratifs ;
+-les tribunaux administratifs ;
 
-- le tribunal des conflits ;
+-le tribunal des conflits ;
 
 b) Les recours contentieux :
 
-- les prérogatives de l'administration ;
+-les prérogatives de l'administration ;
 
-- la distinction des recours contentieux ;
+-la distinction des recours contentieux ;
 
-- les voies de recours ;
+-les voies de recours ;
 
-- la procédure contentieuse.
+-la procédure contentieuse.
 
 4. La fonction publique d'Etat :
 
@@ -192,15 +202,15 @@ Libertés publiques
 
 1. La protection juridictionnelle des libertés publiques :
 
-- juge administratif ;
+-juge administratif ;
 
-- juge judiciaire ;
+-juge judiciaire ;
 
-- Conseil constitutionnel ;
+-Conseil constitutionnel ;
 
-- Cour européenne des droits de l'homme ;
+-Cour européenne des droits de l'homme ;
 
-- Cour de justice de l'Union européenne.
+-Cour de justice de l'Union européenne.
 
 2. Le régime juridique des principales libertés publiques :
 
@@ -208,33 +218,33 @@ a) L'égalité ;
 
 b) Les libertés de la personne physique :
 
-- la sûreté ;
+-la sûreté ;
 
-- la liberté d'aller et venir ;
+-la liberté d'aller et venir ;
 
-- le respect de la personnalité :
+-le respect de la personnalité ;
 
-- le droit à la vie et au respect de l'intégrité physique ;
+-le droit à la vie et au respect de l'intégrité physique ;
 
-- la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances) ;
+-la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances) ;
 
 c) Les libertés de l'esprit :
 
-- la liberté de la presse ;
+-la liberté de la presse ;
 
-- la liberté de communication ;
+-la liberté de communication ;
 
-- la liberté de l'enseignement ;
+-la liberté de l'enseignement ;
 
-- la liberté de religion ;
+-la liberté de religion ;
 
 d) Les libertés propres aux groupements d'individus :
 
-- la liberté de manifestation et d'attroupement ;
+-la liberté de manifestation et d'attroupement ;
 
-- la liberté de réunion ;
+-la liberté de réunion ;
 
-- la liberté d'association.
+-la liberté d'association.
 
 Concours interne
 
@@ -244,31 +254,31 @@ Déminage
 
 a) Les matériaux actifs énergétiques : classification, familles, propriétés, effets, emplois :
 
-- poudres ;
+-poudres ;
 
-- explosifs ;
+-explosifs ;
 
-- compositions pyrotechniques ;
+-compositions pyrotechniques ;
 
 b) Les chargements d'emploi particulier : classification, familles, propriétés, effets, emplois :
 
-- chargements toxiques ;
+-chargements toxiques ;
 
-- chargements fumigènes ;
+-chargements fumigènes ;
 
-- chargements incendiaires ;
+-chargements incendiaires ;
 
 c) La sécurité pyrotechnique et la réglementation concernant :
 
-- le stockage ;
+-le stockage ;
 
-- les manipulations ;
+-les manipulations ;
 
-- le transport (réglementation ADR) ;
+-le transport (réglementation ADR) ;
 
-- les destructions ;
+-les destructions ;
 
-- le classement des objets et matières explosibles (division de risques, groupes de compatibilité, probabilité d'accidents, zones de dangers, études de sécurité pyrotechniques).
+-le classement des objets et matières explosibles (division de risques, groupes de compatibilité, probabilité d'accidents, zones de dangers, études de sécurité pyrotechniques).
 
 2. Les interventions sur objets suspects à but d'attentat :
 
@@ -276,9 +286,9 @@ a) Historique et évolution des engins à but de terrorisme : analyse de la mena
 
 b) Composants, constitution, modes de fonctionnement des engins :
 
-- évolution des chargements explosifs (industriels, militaires, artisanaux) ;
+-évolution des chargements explosifs (industriels, militaires, artisanaux) ;
 
-- les différents types de fonctionnement (mécaniques, électriques, électroniques et chimiques) ;
+-les différents types de fonctionnement (mécaniques, électriques, électroniques et chimiques) ;
 
 c) Evolution de la menace : les engins NR, B et C ;
 
@@ -302,33 +312,33 @@ k) La préservation des preuves.
 
 a) Le désobusage :
 
-- grenades à main, grenades à fusils ;
+-grenades à main, grenades à fusils ;
 
-- projectiles pour lanceurs spécialisés ;
+-projectiles pour lanceurs spécialisés ;
 
-- munitions pour canon ;
+-munitions pour canon ;
 
-- munitions pour mortier ;
+-munitions pour mortier ;
 
-- munitions autopropulsées (roquettes et missiles) ;
+-munitions autopropulsées (roquettes et missiles) ;
 
-- mines terrestres ;
+-mines terrestres ;
 
 b) Le débombage :
 
-- bombes d'aviation ;
+-bombes d'aviation ;
 
-- sous-munitions ;
+-sous-munitions ;
 
-- roquettes (air-sol, air-air) ;
+-roquettes (air-sol, air-air) ;
 
 c) L'intervention :
 
-- procédures et matériels d'intervention (détection, neutralisation, démantèlement, transport, stockage, destruction, incinération) ;
+-procédures et matériels d'intervention (détection, neutralisation, démantèlement, transport, stockage, destruction, incinération) ;
 
-- organisation d'un chantier de dépollution pyrotechnique (détection, désobusage, débombage) ;
+-organisation d'un chantier de dépollution pyrotechnique (détection, désobusage, débombage) ;
 
-- modes opératoires et règles de sécurité.
+-modes opératoires et règles de sécurité.
 
 Droit pénal spécial
 
