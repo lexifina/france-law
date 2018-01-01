@@ -1,0 +1,31 @@
+# Article 1er
+
+L'article 3.2 « Rente handicap » est entièrement remplacé par les dispositions suivantes :
+
+« Article 3.2
+
+Rente handicap
+
+En cas de décès ou d'invalidité absolue et définitive (IAD) de l'assuré cadre ou non cadre, il est versé une rente handicap pour chacun de ses enfants handicapés bénéficiaires.
+
+Il est constitué au profit des bénéficiaires une rente viagère dont le montant mensuel est de :
+
+– 580 € à compter du 1er janvier 2015.
+
+Le montant de la prestation de base sera revalorisé en fonction de l'indice de revalorisation OCIRP décidé par le conseil d'administration de l'OCIRP.
+
+Le bénéficiaire est le ou les enfant(s) handicapé(s) du participant à la date du décès ou de l'invalidité absolue et définitive assimilable au décès du participant, dont l'état de handicap est reconnu selon les modalités prévues ci-dessous :
+
+Reconnaissance de l'état de handicap
+
+Pour justifier du handicap du ou des bénéficiaire(s) doit être obligatoirement joint à la demande de liquidation des prestations, sous enveloppe cachetée destinée au médecin-conseil, un certificat médical attestant, à la date du décès ou de l'invalidité absolue et définitive assimilable au décès du participant, de l'état de handicap du bénéficiaire potentiel, limitant son activité ou restreignant sa participation à la vie en société, subie dans son environnement en raison d'une altération substantielle, durable ou définitive d'une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d'un polyhandicap ou d'un trouble de santé invalidant.
+
+En outre, l'OCIRP se réserve le droit de demander toutes autres pièces complémentaires qui lui seraient nécessaires pour l'étude du dossier de liquidation, et attestant du caractère substantiel, durable ou définitif du handicap et notamment toute décision administrative rendue par une commission des droits et de l'autonomie des personnes handicapées.
+
+Le versement des rentes Handicap par anticipation en cas d'IAD ou d'invalidité permanente partielle (IPP) d'un taux égal ou supérieur à 80 % met fin à la présente garantie.
+
+Ainsi le décès de l'assuré consécutif à une IAD ou à une IPP d'un taux égal ou supérieur à 80 % ne peut donner lieu au versement d'une nouvelle rente handicap. En tout état de cause, le versement de la rente handicap ayant débuté à la date de reconnaissance de l'IAD ou de l'IPP d'un taux égal ou supérieur à 80 % se poursuit en cas de décès de l'assuré. »
+
+Date d'effet
+
+Le présent avenant est applicable à compter du 1er janvier 2018 sous réserve de son agrément, conformément à l'article L. 314-6 du code de l'action sociale et des familles.
