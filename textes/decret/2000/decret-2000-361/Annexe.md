@@ -1,423 +1,299 @@
 # Article Annexe
 
-.
+ANNEXE
 
-TYPE D'INSTALLATION
+Type d'installation |
 
-|
+Importance de l'installation |
 
-IMPORTANCE
+Coefficient multiplicateur de l'imposition forfaitaire fixée au III de l'article 43, de la loi de finances pour 2000
 
-de l'installation
+Pour les installations n'étant pas à l'arrêt définitif |
 
-|
+Coefficient multiplicateur de l'imposition forfaitaire fixée au III de l'article 43, de la loi de finances pour 2000
 
-COEFFICIENT MULTIPLICATEUR
+Pour les installations à l'arrêt définitif |
 
-de l'imposition
-
-forfaitaire, fixee
-
-au III de l'article 43,
-
-de la loi de finances
-
-pour 2000
-
-|
-
-I-A. - Réacteurs nucléaires de production d'énergie autres que ceux consacrés à titre principal à la recherche
-
-|
+I-A. - Réacteurs nucléaires de production d'énergie autres que ceux consacrés à titre principal à la recherche |
 
 Puissance thermique installée
 
-(en mégawatts)
+(en mégawatts thermiques - Mwth) |
 
-|
+- |
 
--
+- |
 
-|
+Inférieure à 2000 Mwth |
 
-Inférieure à 2000 Mwth
+1 |
 
-|
+1 |
 
-1
+Supérieure ou égale à 2000 Mwth et inférieure à 3000 Mwth |
 
-|
+2 |
 
-Supérieure ou égale à 2000 Mwth et inférieure à 3000 Mwth
+1 |
 
-|
+Supérieure ou égale à 3000 Mwth et inférieure à 4000 Mwth |
 
-2
+3 |
 
-|
+1 |
 
-Supérieure ou égale à 3000 Mwth et inférieure à 4000 Mwth
+Supérieure ou égale à 4000 Mwth |
 
-|
+4 |
 
-3
+1 |
 
-|
+I-B. - Réacteurs nucléaires de production d'énergie consacrés à titre principal à la recherche |
 
-Supérieure ou égale à 4000 Mwth
+Puissance thermique installée (en mégawatts thermiques - Mwth) |
 
-|
+- |
 
-4
+- |
 
-|
+Inférieure à 1000 MWth |
 
-I-B. - Réacteurs nucléaires de production d'énergie consacrés à titre principal à la recherche
+1 |
 
-|
+1 |
 
-Puissance thermique installée (en mégawatts)
+Supérieure ou égale à 1000 MWth et inférieure à 2000 MWth |
 
-|
+2 |
 
--
+1 |
 
-|
+II. - Autres réacteurs nucléaires |
 
-Inférieure à 1000 MWth
+Puissance thermique installée (en mégawatts thermiques -Mwth) |
 
-|
+- |
 
-1
+- |
 
-|
+Inférieure à 100 Mwth |
 
-Supérieure ou égale à 1000 MWth et inférieure à 2000 MWth
+1 |
 
-|
+1 |
 
-2
+Supérieure ou égale à 100 MWth et inférieure à 150 MWth |
 
-|
+2 |
 
-II. - Autres réacteurs nucléaires
+1 |
 
-|
+Supérieure ou égale à 150 MWth |
 
-Puissance thermique installée (en mégawatts)
+3 |
 
-|
+1 |
 
--
+III-A. - Installations de séparation des isotopes des combustibles nucléaires |
 
-|
+Capacité annuelle de séparation des isotopes des combustibles nucléaires |
 
-Inférieure à 100 Mwth
+- |
 
-|
+- |
 
-1
+Inférieure à 10 millions d'unités de travail de séparation |
 
-|
+2 |
 
-Supérieure ou égale à 100 MWth et inférieure à 150 MWth
+2 |
 
-|
+Supérieure ou égale à 10 millions d'unités de travail de séparation |
 
-2
+3 |
 
-|
+3 |
 
-Supérieure ou égale à 150 MWth
+III-B. - Usines de fabrication de combustibles nucléaires |
 
-|
+Capacité annuelle de fabrication |
 
-3
+- |
 
-|
+- |
 
-III-A. - Installations de séparation des isotopes des combustibles nucléaires
+Inférieure à 1 000 tonnes |
 
-|
+1 |
 
-Capacité annuelle de séparation des isotopes des combustibles nucléaires
+1 |
 
-|
+Supérieure ou égale à 1 000 tonnes et inférieure à 5 000 tonnes |
 
--
+2 |
 
-|
+2 |
 
-Inférieure à 10 millions d'unités de travail de séparation
+Supérieure ou égale à 5 000 tonnes |
 
-|
+3 |
 
-2
+3 |
 
-|
+IV. - Usines de traitement de combustibles nucléaires usés |
 
-Supérieure ou égale à 10 millions d'unités de travail de séparation
+Capacité annuelle de traitement |
 
-|
+- |
 
-3
+- |
 
-|
+Inférieure à 250 tonnes |
 
-III-B. - Usines de fabrication de combustibles nucléaires
+1 |
 
-|
+1 |
 
-Capacité annuelle de fabrication
+Supérieure ou égale à 250 tonnes et inférieure à 1000 tonnes |
 
-|
+2 |
 
--
+2 |
 
-|
+Supérieure ou égale à 1 000 tonnes |
 
-Inférieure à 1 000 tonnes
+3 |
 
-|
+3 |
 
-1
+V-A. - Installations de traitement d'effluents liquides radioactifs et/ou de traitement de déchets solides radioactifs |
 
-|
+Capacité annuelle de traitement exprimée en mètres cubes pour les effluents liquides et en tonnes pour les déchets solides |
 
-Supérieure ou égale à 1 000 tonnes et inférieure à 5 000 tonnes
+- |
 
-|
-
-2
-
-|
-
-Supérieure ou égale à 5 000 tonnes
-
-|
-
-3
-
-|
-
-IV. - Usines de traitement de combustibles nucléaires usés
-
-|
-
-Capacité annuelle de traitement
-
-|
-
--
-
-|
-
-Inférieure à 250 tonnes
-
-|
-
-1
-
-|
-
-Supérieure ou égale à 250 tonnes et inférieure à 1000 tonnes
-
-|
-
-2
-
-|
-
-Supérieure ou égale à 1 000 tonnes
-
-|
-
-3
-
-|
-
-V-A. - Installations de traitement d'effluents liquides radioactifs et/ou de traitement de déchets solides radioactifs
-
-|
-
-Capacité annuelle de traitement exprimée en mètres cubes pour les effluents liquides et en tonnes pour les déchets solides
-
-|
-
--
-
-|
+- |
 
 Inférieure à 10 000 tonnes.
 
-Inférieure à 10 000 mètres cubes
+Inférieure à 10 000 mètres cubes |
 
-|
+1 |
 
-1
-
-|
+1 |
 
 Supérieure ou égale à 10 000 tonnes et inférieure à 50 000 tonnes.
 
-Supérieure ou égale à 10 000 mètres cubes et inférieure à 50 000 mètres cubes
+Supérieure ou égale à 10 000 mètres cubes et inférieure à 50 000 mètres cubes |
 
-|
+2 |
 
-2
-
-|
+2 |
 
 Supérieure ou égale à 50 000 tonnes et inférieure à 100 000 tonnes.
 
-Supérieure ou égale à 50 000 mètres cubes et inférieure à 100 000 mètres cubes
+Supérieure ou égale à 50 000 mètres cubes et inférieure à 100 000 mètres cubes |
 
-|
+3 |
 
-3
-
-|
+3 |
 
 Supérieure ou égale à 100 000 tonnes.
 
-Supérieure ou égale à 100 000 mètres cubes
+Supérieure ou égale à 100 000 mètres cubes |
 
-|
+4 |
 
-4
+4 |
 
-|
+V-B. - Usines de conversion en hexafluorure d'uranium |
 
-V-B. - Usines de conversion en hexafluorure d'uranium
+Par installation nucléaire de base |
 
-|
+1 |
 
-Par installation nucléaire de base
+1 |
 
-|
+V-C. - Autres usines de préparation et de transformation des substances radioactives |
 
-1
+Par installation nucléaire de base |
 
-|
+2 |
 
-V-C. - Autres usines de préparation et de transformation des substances radioactives
+2 |
 
-|
+VI. - Installations destinées au stockage définitif de substances radioactives |
 
-Par installation nucléaire de base
+Capacité de stockage autorisée inférieure à 1 000 000 mètres cubes. |
 
-|
+1 |
 
-2
+1 |
 
-|
+Capacité de stockage autorisée supérieure ou égale à 1 000 000 mètres cubes et inférieure à 1 500 000 mètres cubes. |
 
-VI. - Installations destinées au stockage définitif de substances radioactives
+2 |
 
-|
+2 |
 
-Capacité de stockage autorisée inférieure à 1 000 000 mètres cubes.
+Capacité de stockage autorisée supérieure ou égale à 1 500 000 mètres cubes. |
 
-|
+3 |
 
-1
+3 |
 
-|
-
-Capacité de stockage autorisée supérieure ou égale à 1 000 000 mètres cubes et inférieure à 1 500 000 mètres cubes.
-
-|
-
-2
-
-|
-
-Capacité de stockage autorisée supérieure ou égale à 1 500 000 mètres cubes.
-
-|
-
-3
-
-|
-
-VII-A. - installations destinées à l'entreposage temporaire de substances radioactives
-
-|
+VII-A. - Installations destinées à l'entreposage temporaire de substances radioactives |
 
 a) Ancien réacteur transformé en installation entreposant ses propres déchets.
 
-Par installation nucléaire de base
+Par installation nucléaire de base |
 
-|
+4 |
 
-4
+4 |
 
-|
+b) Autre installation d'entreposage. Capacité d'entreposage exprimée en tonnes pour les substances solides et en mètres cubes pour les substances liquides |
 
-b) Autre installation d'entreposage. Capacité d'entreposage exprimée en tonnes pour les substances solides et en mètres cubes pour les substances liquides
+- |
 
-|
-
--
-
-|
+- |
 
 Inférieure à 10 000 tonnes
 
-Inférieure à 10 000 mètres cubes
+Inférieure à 10 000 mètres cubes |
 
-|
+2 |
 
-2
-
-|
-
-Supérieure ou égale à 10 000 tonnes et inférieure à 25 000 tonnes
-
-|
-
-|
+2 |
 
 Supérieure ou égale à 10000 tonnes et inférieure à 25 000 tonnes
 
-Supérieure ou égale à 10000 mètres cubes et inférieure à 25 000 mètres cubes
+Supérieure ou égale à 10000 mètres cubes et inférieure à 25 000 mètres cubes |
 
-|
+3 |
 
-3
-
-|
+3 |
 
 Supérieure ou égale à 25 000 tonnes
 
-Supérieure ou égale à 25 000 mètres cubes
+Supérieure ou égale à 25 000 mètres cubes |
 
-|
+4 |
 
-4
+4 |
 
-|
+VII-B. - Accélérateurs de particules et installations destinées à l'irradiation |
 
-VII-B. - Accélérateurs de particules et installations destinées à l'irradiation
+Par installation nucléaire de base |
 
-|
+1 |
 
-Par installation nucléaire de base
+1 |
 
-|
+VII-C. - Laboratoires et autres installations nucléaires de base destinées à l'utilisation de substances radioactives |
 
-1
+Par installation nucléaire de base |
 
-|
+2 |
 
-VII-C. - Laboratoires et autres installations nucléaires de base destinées à l'utilisation de substances radioactives
-
-|
-
-Par installation nucléaire de base
-
-|
-
-2
-
-|
+2 |
