@@ -624,6 +624,16 @@ La programmation des messages publicitaires et du parrainage sur les services de
 
 La société respecte également les règles fixées par le Conseil supérieur de l'audiovisuel en matière de placement de produit.
 
+Article 27-1
+
+Messages publicitaires des programmes prioritairement destinés aux enfants de moins de douze ans.
+
+Ne comportent pas de messages publicitaires autres que des messages génériques pour des biens ou services relatifs à la santé et au développement des enfants :
+
+1° Les programmes prioritairement destinés aux enfants de moins de douze ans qui sont mis à la disposition du public par les services mentionnés au 6° de l'article 3 ;
+
+2° Tout ou partie des services mentionnés au 6° de l'article 3 qui sont prioritairement destinés aux enfants de moins de douze ans.
+
 Article 28
 
 Disposition particulière à la chaîne d'information en continu.
