@@ -2,7 +2,7 @@
 
 Définition des épreuves
 
-Épreuve EP 1 : Prévention et dissuasion des actes de malveillance et de négligence
+Epreuve EP 1 : Prévention et dissuasion des actes de malveillance et de négligence
 
 Coefficient : 9 (8 + 1 pour la P S E)
 
@@ -14,473 +14,181 @@ Contenu de l'épreuve
 
 Cette épreuve se déroule en fonction des tâches et des activités se rapportant aux fonctions suivantes :
 
-• · prise en compte du poste de travail et des missions afférentes ;
+- prise en compte du poste de travail et des missions afférentes ;
 
-• · prévention et dissuasion des actes de malveillances et de négligence ;
+- prévention et dissuasion des actes de malveillances et de négligence ;
 
-• · prévention et lutte contre tout autre incident technique et perturbation liée à l'environnement extérieur.
+- prévention et lutte contre tout autre incident technique et perturbation liée à l'environnement extérieur.
 
 Elle doit permettre de vérifier l'acquisition par le candidat de tout ou partie des compétences :
 
-C 1-011
+C 1-011 S'approprier l'information relative à la sécurité ;
 
-|
+C 1-012 S'approprier les dispositifs de surveillance ;
 
-S'approprier l'information relative à la sécurité ;
+C 1-013 S'approprier les systèmes de sécurité ;
 
-|
+C 1-014 S'approprier la culture de l'entreprise ;
 
-C 1-012
+C 1-015 S'approprier l'emploi des matériels ;
 
-|
+C 1-016 S'approprier les moyens d'accès ;
 
-S'approprier les dispositifs de surveillance ;
+C 1-02 Analyser les supports d'information ;
 
-|
+C 1-03 Se rendre sur un ou des points identifiés ;
 
-C 1-013
+C 1-04 Identifier les partenaires ;
 
-|
+C 2-01 Filtrer les entrées et sorties ;
 
-S'approprier les systèmes de sécurité ;
+C 2-02 Enregistrer les flux entrants et sortants ;
 
-|
+C 2-03 Remettre et/ ou récupérer des objets et documents ;
 
-C 1-014
+C 2-04 Gérer les moyens d'accès ;
 
-|
+C 2-05 Observer et repérer des comportements suspects et des situations génératrices de risques ;
 
-S'approprier la culture de l'entreprise ;
+C 2-06 Appliquer la consigne appropriée en cas de besoin ;
 
-|
+C 2-07 Vérifier et contrôler ;
 
-C 1-015
+C 2-08 Prévenir, détecter les transgressions aux consignes ou aux dispositions spécifiques des règlements de l'entreprise ;
 
-|
+C 2-09 Analyser, interpréter les images vidéos et alerter si nécessaire ;
 
-S'approprier l'emploi des matériels ;
+C 2-10 Gérer les alarmes ;
 
-|
+C 2-11 Alerter et/ ou intervenir ;
 
-C 1-016
+C 2-12 Traiter une anomalie ;
 
-|
+C 2-13 Préserver les traces et indices ;
 
-S'approprier les moyens d'accès ;
+C 3-01 Adopter une tenue, un comportement, une attitude conformes aux missions et adapter son discours en fonction de son interlocuteur ;
 
-|
+C 3-02 Recueillir et exploiter de l'information ;
 
-C 1-02
+C 3-03 Enregistrer des informations statistiques ;
 
-|
+C 3-04 Informer, renseigner, orienter et/ ou accompagner le visiteur ;
 
-Analyser les supports d'information ;
+C 3-05 Diriger les appels téléphoniques
 
-|
+C 3-06 Transmettre des messages ;
 
-C 1-03
+C 3-07 Rendre compte oralement et/ ou par écrit ;
 
-|
+C 3-08 Appliquer les principes de médiation ;
 
-Se rendre sur un ou des points identifiés ;
-
-|
-
-C 1-04
-
-|
-
-Identifier les partenaires ;
-
-|
-
-C 2-01
-
-|
-
-Filtrer les entrées et sorties ;
-
-|
-
-C 2-02
-
-|
-
-Enregistrer les flux entrants et sortants ;
-
-|
-
-C 2-03
-
-|
-
-Remettre et/ ou récupérer des objets et documents ;
-
-|
-
-C 2-04
-
-|
-
-Gérer les moyens d'accès ;
-
-|
-
-C 2-05
-
-|
-
-Observer et repérer des comportements suspects et des situations génératrices de risques ;
-
-|
-
-C 2-06
-
-|
-
-Appliquer la consigne appropriée en cas de besoin ;
-
-|
-
-C 2-07
-
-|
-
-Vérifier et contrôler ;
-
-|
-
-C 2-08
-
-|
-
-Prévenir, détecter les transgressions aux consignes ou aux dispositions spécifiques des règlements de l'entreprise ;
-
-|
-
-C 2-09
-
-|
-
-Analyser, interpréter les images vidéos et alerter si nécessaire ;
-
-|
-
-C 2-10
-
-|
-
-Gérer les alarmes ;
-
-|
-
-C 2-11
-
-|
-
-Alerter et/ ou intervenir ;
-
-|
-
-C 2-12
-
-|
-
-Traiter une anomalie ;
-
-|
-
-C 2-13
-
-|
-
-Préserver les traces et indices ;
-
-|
-
-C 3-01
-
-|
-
-Adopter une tenue, un comportement, une attitude conformes aux missions et adapter son discours en fonction de son interlocuteur ;
-
-|
-
-C 3-02
-
-|
-
-Recueillir et exploiter de l'information ;
-
-|
-
-C 3-03
-
-|
-
-Enregistrer des informations statistiques ;
-
-|
-
-C 3-04
-
-|
-
-Informer, renseigner, orienter et/ ou accompagner le visiteur ;
-
-|
-
-C 3-05
-
-|
-
-Diriger les appels téléphoniques ;
-
-|
-
-C 3-06
-
-|
-
-Transmettre des messages ;
-
-|
-
-C 3-07
-
-|
-
-Rendre compte oralement et/ ou par écrit ;
-
-|
-
-C 3-08
-
-|
-
-Appliquer les principes de médiation ;
-
-|
-
-C 3-09
-
-|
-
-Prévenir, signaler les situations génératrices de risques.
-
-|
+C 3-09 Prévenir, signaler les situations génératrices de risques.
 
 Et des savoirs associés suivants :
 
-|
+S 1-1 Les libertés publiques ;
 
-S 1-1
+S 1-2 Les institutions publiques ;
 
-|
+S 1-3 L'organisation judiciaire française ;
 
-Les libertés publiques ;
+S 1-4 L'organisation administrative territoriale française ;
 
-|
+S 1-5 L'union européenne ;
 
-S 1-2
+S 2-3 La sécurité privée ;
 
-|
+S 3-1 Le cadre général de la vie juridique ;
 
-Les institutions publiques ;
+S 3-2 Le cadre juridique d'intervention de l'agent de sécurité ;
 
-|
+S 3-3 Le droit du travail ;
 
-S 1-3
+S 3-4 La réglementation des installations classées pour la protection de l'environnement ;
 
-|
+S 4-1 Les consignes professionnelles (générales et particulières) ;
 
-L'organisation judiciaire française ;
+S 4-2 La sécurité de l'agent ;
 
-|
+S 4-3 La prévention et la dissuasion des actes de malveillance ;
 
-S 1-4
+S 5-1 Les principes généraux de la communication ;
 
-|
+S 5-2 Les techniques de communications orales dans des situations d'accueil ;
 
-L'organisation administrative territoriale française ;
+S 5-3 Les techniques de communication écrite ;
 
-|
-
-S 1-5
-
-|
-
-L'union européenne ;
-
-|
-
-S 2-3
-
-|
-
-La sécurité privée ;
-
-|
-
-S 3-1
-
-|
-
-Le cadre général de la vie juridique ;
-
-|
-
-S 3-2
-
-|
-
-Le cadre juridique d'intervention de l'agent de sécurité ;
-
-|
-
-S 3-3
-
-|
-
-Le droit du travail ;
-
-|
-
-S 3-4
-
-|
-
-La réglementation des installations classées pour la protection de l'environnement ;
-
-|
-
-S 4-1
-
-|
-
-Les consignes professionnelles (générales et particulières) ;
-
-|
-
-S 4-2
-
-|
-
-La sécurité de l'agent ;
-
-|
-
-S 4-3
-
-|
-
-La prévention et la dissuasion des actes de malveillance ;
-
-|
-
-S 5-1
-
-|
-
-Les principes généraux de la communication ;
-
-|
-
-S 5-2
-
-|
-
-Les techniques de communications orales dans des situations d'accueil ;
-
-|
-
-S 5-3
-
-|
-
-Les techniques de communication écrite ;
-
-|
-
-S 5-4
-
-|
-
-Les technologies d'information et de communication.
-
-|
+S 5-4 Les technologies d'information et de communication.
 
 Critères d'évaluation
 
 L'évaluation porte sur la qualité des éléments suivants :
 
-• · application des règles de courtoisie ;
+- application des règles de courtoisie ;
 
-• · conformité de la tenue aux exigences de l'entreprise ;
+- conformité de la tenue aux exigences de l'entreprise ;
 
-• · règles de communication verbale, non verbale et écrite ;
+- règles de communication verbale, non verbale et écrite ;
 
-• · application des pratiques de médiation ;
+- application des pratiques de médiation ;
 
-• · restitution des consignes générales et du plan du site ;
+- restitution des consignes générales et du plan du site ;
 
-• · repérage des points à surveiller et des moyens techniques ;
+- repérage des points à surveiller et des moyens techniques ;
 
-• · utilisation des modes et des limites d'emploi des appareils ;
+- utilisation des modes et des limites d'emploi des appareils ;
 
-• · repérage sur un plan et orientation sur le site ;
+- repérage sur un plan et orientation sur le site ;
 
-• · choix du trajet le mieux adapté ;
+- choix du trajet le mieux adapté ;
 
-• · identification des différentes causes de détresses possibles ;
+- identification des différentes causes de détresses possibles ;
 
-• · hiérarchisation des différents plans du dispositif ORSEC (Organisation de la Réponse de la Sécurité Civile) ;
+- hiérarchisation des différents plans du dispositif ORSEC (Organisation de la réponse de la sécurité civile) ;
 
-• · rapidité d'exécution des missions ;
+- rapidité d'exécution des missions ;
 
-• · application des consignes ;
+- application des consignes ;
 
-• · contrôle exhaustif des personnes, véhicules, et colis entrant et sortant du site ;
+- contrôle exhaustif des personnes, véhicules, et colis entrant et sortant du site ;
 
-• · conformité des autorisations ;
+- conformité des autorisations ;
 
-• · identification de l'origine du signal d'alarme ou appel d'alerte ;
+- identification de l'origine du signal d'alarme ou appel d'alerte ;
 
-• · identification des transgressions de consigne et infraction au règlement ;
+- identification des transgressions de consigne et infraction au règlement ;
 
-• · utilisation des différents matériels ;
+- utilisation des différents matériels ;
 
-• · sécurisation du site ;
+- sécurisation du site ;
 
-• · application des procédures ;
+- application des procédures ;
 
-• · déclenchement de l'alerte ;
+- déclenchement de l'alerte ;
 
-• · préservation des traces et indices ;
+- préservation des traces et indices ;
 
-• · transmission des messages.
+- transmission des messages.
 
 Formes de l'évaluation
 
-1) Évaluation par contrôle en cours de formation :
+1) Evaluation par contrôle en cours de formation :
 
-Dans le cadre de la formation au CAP " Agent de sécurité ", ce contrôle s'effectue au cours de trois séquences organisées pendant la dernière année de formation :
+Dans le cadre de la formation au CAP Agent de sécurité , ce contrôle s'effectue au cours de deux séquences organisées pendant la dernière année de formation :
 
-• · une situation en milieu professionnel,
+- une situation en milieu professionnel ;
 
-• · deux situations dans l'établissement ou le centre de formation des candidats.
-
-Les professionnels pourront être associés aux différentes phases de l'évaluation.
+- une situation dans l'établissement ou le centre de formation des candidats. Les professionnels pourront être associés aux différentes phases de l'évaluation.
 
 La proposition de note est établie conjointement par un ou plusieurs membres de l'équipe pédagogique du domaine professionnel et les professionnels associés. Cette proposition de notes, accompagnées des documents justificatifs, est transmise au jury de délibération.
 
-Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel " Sécurité prévention ", ces évaluations s'effectuent en fin de classe de seconde.
+Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel Métiers de la sécurité , ces évaluations s'effectuent au cours de la deuxième année du cycle de formation.
 
-A) Situation d'évaluation en milieu professionnel :
+a) Situation d'évaluation en milieu professionnel :
 
-Note : 60/160
+Note : 80/160.
 
-Cette évaluation prend en compte une période de huit semaines de formation en milieu professionnel.
+Cette évaluation prend en compte la période de formation en milieu professionnel de huit semaines réalisée sur la classe de terminale du CAP.
 
 Elle permet, à partir de situations professionnelles réelles, d'évaluer des compétences complémentaires à celles évaluées en centre de formation.
 
@@ -488,59 +196,45 @@ Elle doit prendre également en compte le comportement du candidat dans l'entrep
 
 Les critères sont explicités dans un document servant de support à cette évaluation dont le modèle sera intégré à la circulaire d'organisation de l'examen.
 
-Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel " Sécurité prévention ", cette évaluation prend en compte la période de quatre semaines effectuées en entreprise de sécurité privée au cours de la classe de seconde.
+b) Situation d'évaluation en centre de formation :
 
-B) Situations d'évaluation en centre de formation :
-
-La première situation évalue par sondage les compétences énumérées ci-dessus-
-
-Note : 60/160
+Note : 80/160.
 
 L'évaluation en centre de formation est complémentaire de l'évaluation en milieu professionnel.
 
-Elle prend appui sur un dossier saisi par traitement de texte, et constitué de trois fiches d'activités professionnelles établies à partir de situations à problèmes rencontrées sur :
+Cette évaluation prend appui sur un dossier saisi par traitement de texte, et constitué de trois fiches d'activités professionnelles établies à partir de situations à problèmes rencontrées sur :
 
-• · un site de ronde (une fiche),
+- un site de ronde (une fiche) ;
 
-• · un site de poste de surveillance (une fiche),
+- un site de poste de surveillance (une fiche) ;
 
-• · un site d'accueil et de filtrage (une fiche).
+- un site d'accueil et de filtrage (une fiche).
+
+Chacune de ces trois fiches doit mettre l'accent sur un ou plusieurs des aspects de l'environnement juridique et des pratiques professionnelles des métiers de la sécurité.
 
 La situation d'évaluation se déroule au cours du deuxième trimestre de l'année civile de l'examen et comporte deux phases :
 
-• · la présentation, en 10 minutes au maximum, d'une fiche de situation professionnelle choisie par le jury (un formateur et un professionnel),
+- la présentation, en 10 minutes au maximum, d'une fiche de situation professionnelle choisie par le jury (un formateur et un professionnel) ;
 
-• · un entretien sur l'ensemble du dossier d'une durée de 20 minutes maximum.
+- un entretien sur l'ensemble du dossier d'une durée de 20 minutes maximum.
 
-La seconde situation porte sur l'environnement juridique et les pratiques professionnelles des métiers de la sécurité et se déroule sous forme écrite.
+2) Evaluation par épreuve ponctuelle (pratique et écrite), durée : 4 heures, partie pratique : 3 heures.
 
-Durée 1 heure-Note : 40/160 :
+Note : 160/160.
 
-Elle consiste en une série de questions portant sur les savoirs associés du référentiel du domaine professionnel énumérés dans le " contenu de l'épreuve " ci-dessus.
-
-2) Évaluation par épreuve ponctuelle (pratique et écrite) Durée : 4 heures :
-
-Partie pratique : 3 heures-Note : 120/160 :
-
-Cette épreuve évalue par sondage les compétences énumérées ci-dessus.
-
-Elle se déroule à partir d'une situation professionnelle simulée.
+Cette épreuve évalue par sondage les compétences énumérées ci-dessus. Elle se déroule à partir d'une situation professionnelle simulée.
 
 L'épreuve doit permettre de vérifier la mise en œuvre des compétences du candidat dans le cadre de trois situations dévolues aux missions de l'agent de sécurité sur :
 
-• · un site de ronde,
+- un site de ronde ;
 
-• · un poste de surveillance,
+- un poste de surveillance ;
 
-• · un lieu d'accueil et de filtrage.
+- un lieu d'accueil et de filtrage.
 
-Partie écrite : 1 heure-Note : 40/160 :
+Chacune des trois situations doit permettre d'évaluer des savoirs liés à l'environnement juridique et aux pratiques professionnels des métiers de la sécurité.
 
-Elle porte sur l'environnement juridique, et les pratiques professionnelles des métiers de la sécurité.
-
-Elle consiste en une série de questions portant sur les savoirs associés du référentiel du domaine professionnel énumérés dans le " contenu de l'épreuve " ci-dessus.
-
-Prévention-Sante-Environnement coefficient 1
+Prévention-santé-environnement : coefficient 1
 
 L'épreuve de prévention-santé-environnement est définie par l'arrêté 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
 
@@ -552,9 +246,9 @@ Objectifs de l'épreuve
 
 Cette épreuve a pour but de vérifier l'aptitude du candidat à agir en matière de prévention et de protection ainsi qu'à :
 
--déterminer les atteintes et détresses d'une victime, effectuer les gestes indispensables à sa survie en attendant l'arrivée des secours externes.
+- déterminer les atteintes et détresses d'une victime, effectuer les gestes indispensables à sa survie en attendant l'arrivée des secours externes.
 
--apporter la preuve qu'il maîtrise les savoirs et les savoir-faire exigés pour l'obtention de l'attestation PSE 1.
+- apporter la preuve qu'il maîtrise les savoirs et les savoir-faire exigés pour l'obtention de l'attestation PSE 1.
 
 Contenu
 
@@ -658,9 +352,9 @@ Critères d'évaluation
 
 L'évaluation porte sur la qualité des éléments suivants :
 
--la vigilance d'observation ;
+- la vigilance d'observation ;
 
--la mise en œuvre des compétences du référentiel de certification PSE 1 (prise en compte des différentes actualisations de cette certification).
+- la mise en œuvre des compétences du référentiel de certification PSE 1 (prise en compte des différentes actualisations de cette certification).
 
 Formes de l'évaluation
 
@@ -668,7 +362,7 @@ Formes de l'évaluation
 
 Dans le cadre de la formation au CAP " Agent de sécurité ", cette évaluation s'effectue au cours de deux séquences organisées en centre de formation pendant l'année terminale.
 
-Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel Métiers de la sécurité , ces évaluations se répartiront sur la deuxième année du cycle de formation.
+Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel " Sécurité prévention ", ces évaluations se répartiront sur les deuxième et troisième semestres du cycle de formation.
 
 Les critères sont énumérés dans un document servant de support à cette évaluation dont le modèle sera intégré à la circulaire d'organisation de l'examen.
 
@@ -706,9 +400,9 @@ Objectifs de l'épreuve
 
 Cette épreuve a pour but de vérifier l'aptitude du candidat à agir en matière de prévention et de protection ainsi qu'à :
 
--identifier l'origine d'un départ de feu
+- identifier l'origine d'un départ de feu
 
--définir et mettre en œuvre les priorités d'action.
+- définir et mettre en œuvre les priorités d'action.
 
 Contenu
 
@@ -780,7 +474,7 @@ Critères d'évaluation
 
 L'évaluation porte essentiellement sur :
 
--la maîtrise du référentiel de certification SSIAP 1.
+- la maîtrise du référentiel de certification SSIAP 1.
 
 Formes de l'évaluation
 
@@ -804,7 +498,7 @@ Cette évaluation s'effectue au cours de deux séquences organisées en centre d
 
 Dans le cadre de la formation au CAP " Agent de sécurité ", cette évaluation s'effectue au cours de deux séquences organisées en centre de formation pendant l'année terminale.
 
-Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel " Métiers de la sécurité ", ces évaluations se répartiront sur la deuxième année du cycle de formation.
+Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel " Sécurité prévention ", ces évaluations se répartiront sur les deuxième et troisième semestres du cycle de formation.
 
 Les critères sont énumérés dans un document servant de support à cette évaluation dont le modèle sera intégré à la circulaire d'organisation de l'examen.
 
@@ -838,16 +532,214 @@ La seconde situation a pour but de vérifier la capacité du candidat à interve
 
 Épreuves d'enseignement général
 
-EG1-Français et histoire-géographie-éducation civique
+EG1-Français et histoire-géographie-éducation civique*
 
-L'épreuve de français, histoire-géographie et enseignement moral et civique est définie par l'arrêté du 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
+Coefficient 3-UG. 1
+
+Objectifs
+
+L'épreuve de français et d'histoire-géographie-éducation civique* permet d'apprécier :
+
+- les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
+
+- les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
+
+- les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
+
+Modes d'évaluation
+
+Évaluation par contrôle en cours de formation
+
+L'épreuve de français et d'histoire-géographie-éducation civique* est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire-géographie- enseignement moral et civique.
+
+Les deux situations d'évaluation sont évaluées à part égale. Par ailleurs, les deux parties de chaque situation d'évaluation, évaluent des compétences complémentaires, à parts égales.
+
+L'évaluation se déroule dans la deuxième moitié de la formation. Toutefois, lorsque le cycle de formation est de deux ans, il peut être envisagé de proposer une situation d'évaluation en fin de première année.
+
+Une proposition de note, sur 20, est établie. La note définitive est délivrée par le jury
+
+A-Première situation d'évaluation
+
+• · Première partie (français)
+
+Le candidat rédige une production écrite réalisée en trois étapes. Cette situation d'évaluation, de nature formative, s'inscrit dans le calendrier d'une séquence.
+
+Dans la première étape, le candidat rédige à partir d'un texte fictionnel une production qui, soit fait intervenir un changement de point de vue, soit donne une suite au texte, soit en change la forme (mise en dialogue à partir d'un récit, portrait d'un personnage à partir de vignettes de bande dessinée, etc.).
+
+Dans la deuxième étape, le candidat reprend sa production initiale à partir de nouvelles consignes, ou d'une grille de correction, ou à l'aide d'un nouveau support textuel, ou d'un didacticiel d'écriture, etc., cette étape est individuelle ou collective.
+
+Dans la troisième étape, le candidat finalise sa production, notamment à l'aide du traitement de texte lorsque cela est possible.
+
+Les trois séances, d'une durée d'environ quarante minutes, s'échelonnent sur une durée de quinze jours.
+
+• · Deuxième partie (histoire-géographie- enseignement moral et civique)
+
+Le candidat présente oralement un dossier (constitué individuellement ou par groupe) comprenant trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...).
+
+Ces documents sont accompagnés d'une brève analyse en réponse à une problématique relative à la situation historique ou géographique proposée.
+
+Les documents concernent un des thèmes généraux du programme étudiés dans l'année, à dominante histoire ou géographie. Si la dominante du dossier de la situation 1 est l'histoire, la dominante du dossier de la situation 2 est la géographie, et inversement. Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique*.
+
+Le candidat présente son dossier pendant cinq minutes. La présentation est suivie d'un entretien (dix minutes maximum) au cours duquel le candidat justifie ses choix et répond aux questions.
+
+L'entretien est conduit, par le professeur de la discipline assisté, dans la mesure du possible, d'un membre de l'équipe pédagogique.
+
+* L'évaluation de l' enseignement moral et civique est applicable dès la session 2011 aux candidats qui se présententà l'examen en cours de préparation du baccalauréat professionnel en trois ans.
+
+B) Deuxième situation d'évaluation
+
+• · Première partie (français)
+
+Le candidat répond par écrit, sur un texte fictionnel ou un document iconographique ou sur un texte professionnel, à des questions de vocabulaire et de compréhension, puis rédige, dans une situation de communication définie par un type de discours, un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes).
+
+La durée est d'environ une heure trente minutes.
+
+• · Deuxième partie (histoire-géographie- enseignement moral et civique)
+
+Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie- enseignement moral et civique).
+
+Évaluation par épreuve ponctuelle-2 heures + 15 minutes
+
+C) Les deux parties de l'épreuve (français et histoire-géographie- enseignement moral et civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
+
+1) Première partie (français)
+
+Le candidat répond par écrit, sur un texte fictionnel, à des questions de vocabulaire et de compréhension. Il rédige ensuite, dans une situation de communication définie par un type de discours, soit un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes), soit une courte production écrite répondant à une consigne en lien avec l'expérience professionnelle (quinze à vingt lignes).
+
+2) Deuxième partie (histoire-géographie- enseignement moral et civique) * :
+
+Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...). Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique*.
+
+Ces dossiers, d'un maximum de trois pages chacun, se réfèrent aux thèmes généraux du programme.
+
+Les documents sont accompagnés d'une brève analyse en réponse à une problématique liée à la situation historique et géographique étudiée dans le dossier.
+
+L'examinateur choisit l'un des deux dossiers. Le candidat présente oralement, pendant cinq minutes, le dossier retenu ; la présentation est suivie d'un entretien (dix minutes maximum) au cours duquel le candidat justifie ses choix et répond aux questions.
+
+En l'absence de dossier le candidat peut néanmoins passer l'épreuve.
+
+* L'évaluation de l' enseignement moral et civique est applicable dès la session 2011 aux candidats qui se présentent à l'examen en cours de préparation du baccalauréat professionnel en trois ans.
 
 EG 2-Mathématiques-sciences physiques et chimiques :
 
 Coefficient 2-UG 2
 
-L'épreuve de Mathématiques-sciences est définie par l'arrêté du 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
+Modes d'évaluation applicables à la session 2011 pour les candidats qui se présentent a l'examen en cours de préparation du baccalauréat professionnel en trois ans et a compter de la session 2012 pour tous les autres candidats :
+
+Contrôle en cours de formation (CCF)
+
+Le contrôle en cours de formation comporte deux situations d'évaluation, l'une en mathématiques, l'autre en sciences physiques et chimiques, chacune fractionnée dans le temps en deux séquences. Elles se déroulent quand le candidat est considéré comme prêt à être évalué à partir des capacités du référentiel.
+
+Pour les candidats préparant un baccalauréat professionnel en trois ans, les premières séquences sont organisées avant la fin du deuxième semestre de la formation et les deuxièmes au plus tard à la fin du troisième semestre de la formation.
+
+Pour les autres candidats les premières séquences doivent être organisées avant la fin de la première moitié de la formation et les deuxièmes au cours de la seconde moitié de la formation.
+
+Une proposition de note est établie. La note définitive est délivrée par le jury.
+
+- La situation d'évaluation en mathématiques (notée sur 20)
+
+Cette évaluation en mathématiques d'une durée totale d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10.
+
+L'évaluation est conçue comme un sondage probant sur des compétences du référentiel. Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel.
+
+Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec les sciences physiques et chimiques, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+
+- La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
+
+Cette situation d'évaluation en sciences physiques ou chimiques d'une durée d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10
+
+Elles s'appuient sur une ou deux activités expérimentales composées d'une ou plusieurs expériences (dont certaines peuvent être assistées par ordinateur).
+
+L'évaluation est conçue comme sondage probant sur des compétences du référentiel. Les notions évaluées ont été étudiées précédemment.
+
+L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
+
+• · de mettre en œuvre un protocole expérimental ;
+
+• · d'utiliser correctement le matériel mis à sa disposition ;
+
+• · de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+
+• · de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+
+• · d'utiliser une ou plusieurs relations, ces relations étant données ;
+
+• · de rendre compte par écrit des résultats des travaux réalisés.
+
+Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+
+Épreuve ponctuelle
+
+L'épreuve d'une durée de deux heures, notée sur 20 points, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
+
+- Partie Mathématiques (notée sur 10 points) : 1 heure
+
+• · Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel de CAP.
+
+• · Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune
+
+- Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure
+
+Le sujet doit porter sur des champs différents de la Physique et de la Chimie. Il se compose de deux parties :
+
+• · Première partie
+
+Un exercice restitue une expérience ou un protocole opératoire, à partir d'un texte court et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
+
+- montrer ses connaissances ;
+
+- relever des observations pertinentes ;
+
+- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+
+• · Deuxième partie
+
+Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
+
+- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+
+- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+
+- d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+
+Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre. Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+
+Instructions complémentaires pour l'ensemble des types d'épreuves (contrôle en cours de formation ou épreuve ponctuelle)
+
+• · Le nombre de points affectés à chaque exercice est indiqué sur le sujet. La longueur et l'ampleur du sujet doivent permettre à tout candidat de le traiter et de le rédiger posément dans le temps imparti.
+
+• · Si des questionnaires à choix multiple (QCM) sont proposés, les modalités de notation doivent en être précisées. En particulier, il ne sera pas enlevé de point pour les réponses fausses.
+
+• · La clarté des raisonnements et la qualité de la rédaction interviendront dans l'appréciation des copies. Ce point doit être précisé en tête des sujets.
+
+Calculatrices et formulaires
+
+• · L'emploi des calculatrices est autorisé, dans les conditions prévues par la réglementation en vigueur. Il est ainsi précisé qu'il appartient aux responsables de l'élaboration des sujets de décider si l'usage des calculatrices est autorisé ou non. Ce point doit être précisé en tête des sujets.
+
+• · Il n'est pas prévu de formulaire officiel. En revanche, les concepteurs de sujets peuvent inclure certaines formules dans le corps du sujet ou en annexe, en fonction de la nature des questions.
+
+Remarques sur la correction et la notation
+
+• · Les concepteurs de sujets veilleront, dans leurs propositions, à mettre en évidence les objectifs et les capacités ou compétences visées.
+
+• · Les consignes de correction devront permettre aux correcteurs de prendre réellement et largement en compte, dans l'appréciation des copies la démarche critique, la cohérence globale des réponses.
+
+• · Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
 
 EG 3-Education physique et sportive UG 3
 
-L'épreuve d'éducation physique et sportive est définie par l'arrêté du 15 juillet 2009 modifié relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal prévus pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles.
+Coefficient 1-
+
+Les modalités de l'épreuve d'éducation physique et sportive sont définies par l'arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles et la note de service n° 09-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles.
+
+Épreuve facultative : langue vivante
+
+UF
+
+Épreuve orale-durée : 20 mn-préparation : 20 mn
+
+Arrêté du 17 juin 2003 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
+
+Arrêté du 10 février 2009 fixant le programme d'enseignement des langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
+
+L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ ou à l'expérience du candidat.
