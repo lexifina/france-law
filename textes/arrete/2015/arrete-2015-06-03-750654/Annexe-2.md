@@ -30,8 +30,6 @@ Emploi de chef de mission du ministère de la culture et de la communication ré
 
 Emploi de chef de services administratifs et financiers de la Caisse des dépôts et consignations régi par le décret n° 2012-1005 du 29 août 2012 relatif à l'emploi de chef de services administratifs et financiers de la Caisse des dépôts et consignations ;
 
-Emploi de conseiller d'administration de l'aviation civile régi par le décret n° 2014-1667 du 29 décembre 2014 relatif à l'emploi de conseiller d'administration de l'aviation civile.
+Emploi de conseiller d'administration de l'aviation civile régi par le décret n° 2014-1667 du 29 décembre 2014 relatif à l'emploi de conseiller d'administration de l'aviation civile ;
 
-NOTA :
-
-Conformément à l'article 4 de l'arrêté du 15 décembre 2015, les présentes dispositions entrent en vigueur, à la date d'adhésion au régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel institué par le décret du 20 mai 2014 susvisé des différentes autorités de rattachement mentionnées en annexe 1 de l'arrêté du 3 juin 2015 susvisé.
+Emploi de chef de service de la grande chancellerie de la Légion d'honneur régi par le décret du 3 octobre 2017 relatif à l'emploi de chef de service de la grande chancellerie de la Légion d'honneur.

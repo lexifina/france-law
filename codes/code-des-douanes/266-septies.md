@@ -24,9 +24,7 @@ b) La première utilisation de ces matériaux ;
 
 7. (Alinéa abrogé) ;
 
-8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
-
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
+8. (Alinéas abrogés) ;
 
 9. (Alinéa abrogé) ;
 

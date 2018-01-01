@@ -322,12 +322,6 @@ Autorisation de port d'armes des convoyeurs |
 
 Article R. 613-42 |
 
-Loi du 30 juin 1923 portant fixation du budget général de l'exercice 1923 |
-
-Autorisation de jeux pour les cercles de jeux |
-
-Article 47 |
-
 Décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre
 
 Arrêté du 31 mai 2010 pris en application des articles 3, 4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre |

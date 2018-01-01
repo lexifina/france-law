@@ -578,7 +578,7 @@ B
 
 |
 
-Direction départementale de l'équipement de la Somme (3)
+Direction départementale des territoires et de la mer de la Somme (3)
 
 FONCTIONS EXERCÉES
 
@@ -600,7 +600,9 @@ par emploi
 
 |
 
-Chef du service habitat et construction |
+Chef du service habitat
+
+construction |
 
 A |
 
@@ -608,7 +610,7 @@ A |
 
 50 |
 
-Chef du bureau de la rénovation urbaine-service habitat et construction |
+Chef de bureau de l'habitat social et de la rénovation urbaine - service habitat construction |
 
 A |
 
@@ -616,7 +618,7 @@ A |
 
 30 |
 
-Chef du bureau du financement du logement social-service habitat et construction
+Adjoint au chef de bureau de l'habitat social et de la rénovation urbaine - service habitat construction
 
 |
 
@@ -632,7 +634,7 @@ A
 
 |
 
-Instructeur en charge du conventionnement APL-bureau du financement du logement social-service habitat et construction
+Instructeur financement du logement social et du renouvellement urbain en charge des dossiers conventions ANRU - bureau de l'habitat social et de la rénovation urbaine - service habitat construction
 
 |
 

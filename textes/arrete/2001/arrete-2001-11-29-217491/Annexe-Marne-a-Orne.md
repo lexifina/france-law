@@ -898,195 +898,105 @@ C |
 
 Direction départementale de l'équipement et de l'agriculture (2) de l'Oise
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre d'emplois |
 
-de qualification de l'emploi
+Nombre de points (IM) par emploi |
 
-|
+Responsable du service de l'habitat, du logement et du renouvellement urbain à Beauvais |
 
-NOMBRE
+A |
 
-d'emplois
+1 |
 
-|
+40 |
 
-NOMBRE DE POINTS (IM)
+Responsable du bureau renouvellement urbain et ingénierie financière-Service de l'habitat, du logement et du renouvellement urbain à Beauvais |
 
-par emploi
+A |
 
-|
+1 |
 
-Chef du service construction et habitat
+20 |
 
-|
+Responsable du bureau habitat durable-Service de l'habitat, du logement et du renouvellement urbain à Beauvais |
 
-A
+A |
 
-|
+1 |
 
-1
+20 |
 
-|
+Délégué territorial Nord-Est à Compiègne |
 
-20 points
+A |
 
-|
+1 |
 
-Coordinateur du plan de développement du logement des plus démunis
+20 |
 
-|
+Délégué territorial Ouest à Beauvais |
 
-A
+A |
 
-|
+1 |
 
-1
+20 |
 
-|
+Délégué territorial adjoint Sud-Est à Senlis |
 
-10 points
+B |
 
-|
+1 |
 
-Chef de la direction de l'aménagement et de l'animation territoriale de Beauvais
+25 |
 
-|
+Délégué territorial adjoint Nord-Est à Compiègne |
 
-A
+B |
 
-|
+1 |
 
-1
+25 |
 
-|
+Direction départementale des territoires de l'Orne
 
-30 points
+FONCTIONS EXERCÉES |
 
-|
+Niveau de qualification
 
-Chef de la direction de l'aménagement et de l'animation territoriale de Senlis
+de l'emploi |
 
-|
+Nombre d'emplois |
 
-A
+Nombre de points (IM)
 
-|
+par emploi |
 
-1
+Date d'effet |
 
-|
+Chef du bureau logement social |
 
-30 points
+A |
 
-|
+1 |
 
-Adjoint au chef de la direction de l'aménagement et de l'animation territoriale de Senlis, chargé de la cellule aménagement et habitat
+30 |
 
-|
+01/01/18 |
 
-A
+Adjoint au chef du service du service habitat construction |
 
-|
+A |
 
-1
+1 |
 
-|
+35 |
 
-30 points
-
-|
-
-Chargé d'études "politique de la ville" à la direction de l'aménagement et de l'animation territoriale de Beauvais
-
-|
-
-B
-
-|
-
-1
-
-|
-
-25 points
-
-|
-
-Chargé d'études "politique de la ville" à la direction de l'aménagement et de l'animation territoriale de Senlis
-
-|
-
-B
-
-|
-
-1
-
-|
-
-25 points
-
-|
-
-Direction départementale de l'équipement de l'Orne
-
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Chef du service aménagement habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-35 points
-
-|
-
-Chargé de mission observatoire
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
+01/03/18 |
 
 NOTA :
 

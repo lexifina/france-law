@@ -20,4 +20,6 @@ Emploi de directeur du centre national de gestion des praticiens hospitaliers et
 
 Emplois d'inspecteur civil du ministère de la défense régis par le décret n° 93-186 du 9 février 1993 relatif aux conditions de nomination et d'avancement dans les emplois d'inspecteur civil du ministère de la défense ;
 
-Emploi de secrétaire général de l'Ecole polytechnique, régi par le décret n° 2015-1176 du 24 septembre 2015 relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique.
+Emploi de secrétaire général de l'Ecole polytechnique, régi par le décret n° 2015-1176 du 24 septembre 2015 relatif à l'organisation et au régime administratif et financier de l'Ecole polytechnique ;
+
+Emploi de Chef du protocole, introducteur des Ambassadeurs.

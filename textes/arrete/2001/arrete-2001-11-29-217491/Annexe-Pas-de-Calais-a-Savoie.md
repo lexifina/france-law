@@ -2,131 +2,87 @@
 
 Direction départementale des territoires et de la mer du Pas-de-Calais
 
+(A compter du 1er janvier 2018)
+
 FONCTIONS EXERCÉES |
 
-NIVEAU DE QUALIFICATION
+Niveau
 
-de l'emploi
+de qualification
 
-|
+de l'emploi |
 
-NOMBRE D'EMPLOIS
+Nombre
 
-|
+d'emplois |
 
-NOMBRE DE POINTS (IM)
+Nombre
 
-par emploi
+de points (IM)
 
-|
+par emploi |
 
-Responsable d'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
+Responsable d'unité habitat-renouvellement urbain (Boulogne)-Service habitat renouvellement urbain |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Adjoint au chef de service habitat renouvellement urbain-Service habitat renouvellement urbain |
 
-|
+A |
 
-30
+1 |
 
-|
+30 |
 
-Responsable d'unité renouvellement urbain-Coordination territoriale Artois
+Responsable d'unité rénovation et qualité urbaine-Service habitat renouvellement urbain |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Chargé de mission politique de la ville-Service habitat renouvellement urbain |
 
-|
+A |
 
-30
+1 |
 
-|
+25 |
 
-Responsable d'unité rénovation et qualité urbaine-Service habitat durable
+Adjoint au responsable de l'unité rénovation et qualités urbaines-chargé d'instruction et de suivi financier rénovation urbaine et politique de la ville-Service habitat renouvellement urbain |
 
-|
+B |
 
-A
+1 |
 
-|
+20 |
 
-1
+Adjoint au responsable de l'unité rénovation et qualités urbaines-chargé du suivi opérationnel rénovation urbaine des projets de l'Artois-Service habitat renouvellement urbain |
 
-|
+B |
 
-30
+1 |
 
-|
+20 |
 
-Chargé de mission politique de la ville-Service habitat durable
+Chargé d'instruction et de suivi financier rénovation urbaine et politique de la ville-Service habitat renouvellement urbain |
 
-|
+B |
 
-A
+3 |
 
-|
+20 |
 
-1
+Assistant d'études à l'unité habitat renouvellement urbain (Boulonnais)-Service habitat renouvellement urbain |
 
-|
+B |
 
-25
-
-|
-
-Adjoint au chef d'unité rénovation et qualité urbaine-Service habitat durable
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Chargé d'instruction à l'unité rénovation et qualité urbaine-Service habitat durable
-
-|
-
-B
-
-|
-
-4
-
-|
-
-20
-
-|
-
-Assistant d'études Boulonnais à l'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
-
-|
-
-B
-
-|
-
-1
-
-|
+1 |
 
 20 |
 
@@ -692,4 +648,4 @@ B
 
 NOTA :
 
-(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+Conformément aux dispositions de l'article 1er de l’arrêté du 27 mars 2018, l'annexe pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Pas-de-Calais, est remplacée, à effet du 1er septembre 2016.
