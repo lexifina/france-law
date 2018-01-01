@@ -66,7 +66,7 @@ Un cahier des charges approuvé par le ministre chargé des transports et dispon
 
 4.2. Après une période d'inactivité supérieure à un an, ou en cas de changement de réseau, ou de carence constatée, le réseau ou le représentant légal du centre non rattaché doit assurer la remise à niveau du contrôleur. Dans tous les cas, cette remise à niveau ne dispense pas le contrôleur de la formation prévue au point 4.1. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
-4.3. Pour assurer le maintien de sa qualification pour le contrôle des véhicules à réservoir de gaz carburant, tel que prévu à l'article 12-1 du présent arrêté, le contrôleur doit participer à une formation continue spécifique de 4 heures tous les deux ans.
+4.3. Pour assurer le maintien de sa qualification pour le contrôle des véhicules à réservoir de gaz carburant, tel que prévu à l'article 12-1 du présent arrêté, le contrôleur justifie d'un complément de formation d'au moins 2 heures par année civile concernant le contrôle de ces véhicules.
 
 5. Statut des stagiaires
 
