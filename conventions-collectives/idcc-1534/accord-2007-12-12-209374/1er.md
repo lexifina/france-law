@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord s'applique, sur l'ensemble du territoire français (métropole et départements d'outre-mer), aux salariés et employeurs relevant des entreprises de l'industrie et des commerces en gros des viandes.
