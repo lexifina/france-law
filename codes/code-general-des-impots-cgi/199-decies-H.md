@@ -1,6 +1,6 @@
 # Article 199 decies H
 
-1. Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt à raison des opérations forestières mentionnées au 2 qu'ils réalisent entre le 1er janvier 2014 et le 31 décembre 2017.
+1. Les contribuables domiciliés en France au sens de l'article 4 B bénéficient d'une réduction d'impôt à raison des opérations forestières mentionnées au 2 qu'ils réalisent entre le 1er janvier 2014 et le 31 décembre 2020.
 
 2. La réduction d'impôt s'applique :
 
@@ -32,7 +32,7 @@ La réduction d'impôt n'est pas applicable aux cotisations mentionnées au d du
 
 4. Le prix d'acquisition ou de souscription mentionné aux a et b du 3 et la fraction du prix d'acquisition ou de souscription mentionnée au c du 3 sont globalement retenus dans la limite de 5 700 € pour une personne célibataire, veuve ou divorcée et de 11 400 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition commune.
 
-Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par hectare assuré en 2013,2014 et 2015 et de 6 € par hectare assuré en 2016 et 2017. Elles sont globalement retenues dans la limite de 6 250 € pour une personne célibataire, veuve ou divorcée et de 12 500 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition commune, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, l'attestation d'assurance certifiant que la propriété en nature de bois et forêts du bénéficiaire est couverte contre le risque de tempête.
+Les dépenses mentionnées au d dudit 3 sont retenues dans la limite de 7,2 € par hectare assuré en 2013,2014 et 2015 et de 6 € par hectare assuré de 2016 à 2020. Elles sont globalement retenues dans la limite de 6 250 € pour une personne célibataire, veuve ou divorcée et de 12 500 € pour un couple marié ou pour les partenaires liés par un pacte civil de solidarité, soumis à une imposition commune, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, l'attestation d'assurance certifiant que la propriété en nature de bois et forêts du bénéficiaire est couverte contre le risque de tempête.
 
 5. Le taux de la réduction d'impôt est de 18 %, à l'exception de la réduction d'impôt afférente aux dépenses prévues au d du 2, pour lesquelles ce taux est porté à 76 %.
 
@@ -51,3 +51,9 @@ a) En cas de licenciement, d'invalidité correspondant au classement dans la deu
 b) Lorsque le contribuable, après une durée minimale de détention de deux ans, apporte les terrains pour lesquels il a bénéficié de la réduction d'impôt à un groupement forestier ou à une société d'épargne forestière, à la condition qu'il s'engage à conserver les parts sociales reçues en contrepartie, pour la durée de détention restant à courir à la date de l'apport ;
 
 c) En cas de donation des terrains ou des parts ayant ouvert droit à la réduction d'impôt, à la condition que les donataires reprennent les engagements souscrits par le donateur pour la durée de détention restant à courir à la date de la donation.
+
+8. Le bénéfice de la réduction d'impôt mentionnée au 1 est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+
+NOTA :
+
+Conformément à l'article 26 II de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes dispositions s'appliquent aux opérations forestières réalisées à compter du 1er janvier 2018.

@@ -1,6 +1,6 @@
 # Article 302 V bis
 
-L'opérateur établi dans un autre Etat membre de la Communauté européenne qui expédie des produits en France, dans les conditions fixées au II de l'article 302 U bis, à destination d'une personne autre qu'un entrepositaire agréé ou un destinataire enregistré qui n'exerce pas d'activité économique indépendante, est tenu de désigner un représentant fiscal établi en France autre que le vendeur.
+L'opérateur établi dans un autre Etat membre de l'Union européenne qui expédie des produits en France métropolitaine, dans les conditions fixées au II de l'article 302 U bis, à destination d'une personne autre qu'un entrepositaire agréé ou un destinataire enregistré qui n'exerce pas d'activité économique indépendante, est tenu de désigner un représentant fiscal établi en France métropolitaine autre que le vendeur.
 
 A l'occasion de chaque expédition de produits soumis à accise, le représentant fiscal doit :
 

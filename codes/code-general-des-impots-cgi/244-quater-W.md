@@ -1,6 +1,6 @@
 # Article 244 quater W
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 sexdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
@@ -82,6 +82,8 @@ VI. – Le crédit d'impôt calculé par les sociétés de personnes mentionnée
 
 VII. – Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III du même article, sauf dans le cas où il s'agit d'un programme d'investissements mentionné au 3° du 4 du I du présent article réalisé par un organisme mentionné au 1 du I de l'article 244 quater X.
 
+Pour l'application du premier alinéa du présent VII, les conditions relatives à l'intérêt économique, d'une part, et à l'intégration dans la politique d'aménagement du territoire, de l'environnement et de développement durable, d'autre part, prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont réputées satisfaites lorsque le programme d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code de 1'énergie, après évaluation par la Commission de régulation de 1'énergie en application du II du même article R. 121-28. (2)
+
 VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
@@ -117,3 +119,5 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 NOTA :
 
 (1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.
+
+(2) Conformément à l'article 21 de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux demandes d'agrément déposées à compter du 1er janvier 2018.

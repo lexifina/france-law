@@ -1,6 +1,6 @@
 # Article 208 C bis
 
-I. – Les dispositions des articles 210 A, 210 B et 210 B bis s'appliquent aux opérations auxquelles participent les sociétés d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C, qui ont opté pour le régime prévu au II du même article.
+I. – Les dispositions des articles 210 A et 210 B s'appliquent aux opérations auxquelles participent les sociétés d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C, qui ont opté pour le régime prévu au II du même article.
 
 L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour les obligations de distributions prévues du deuxième au quatrième alinéas du II de l'article 208 C.
 
@@ -12,4 +12,4 @@ Lorsque la société bénéficiaire des apports est soumise au régime prévu au
 
 NOTA :
 
-Conformément au II de l'article 73 de loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2014.
+Conformément à l'article 23 III A de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes dispositions s'appliquent aux opérations de fusion, de scission ou d'apport partiel d'actif réalisées à compter du 1er janvier 2018.
