@@ -227,15 +227,3 @@ Directions territoriales :
 - Arc méditerranéen, site de Rodez.
 
 |
-
-Directions territoriales de l'Office national des forêts |
-
--fusion de la direction territoriale Rhône-Alpes et d'une partie de la direction territoriale Centre-Ouest Limousin ;
-
--fusion de la direction territoriale Bourgogne-Champagne-Ardennes et d'une partie de la direction territoriale Franche-Comté ;
-
--fusion d'une partie de la direction territoriale Centre-Ouest-Auvergne-Limousin et d'une partie de la direction-territoriale Sud-Ouest ;
-
--fusion de la direction territoriale Alsace, de la direction territoriale Lorraine et d'une partie de la direction territoriale Bourgogne-Champagne-Ardennes ;
-
--fusion d'une partie de la direction territoriale Sud-Ouest et de la direction territoriale Méditerranée. |
