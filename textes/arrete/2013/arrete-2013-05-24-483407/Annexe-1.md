@@ -1,93 +1,51 @@
 # Article Annexe 1
 
-PLAFONDS DE RESSOURCES PRÉVUS À L'ARTICLE 1er
+PLAFONDS DE RESSOURCES PRÉVUS À L'ARTICLE 1ER
 
 NOMBRE DE PERSONNES
 
-composant le ménage
+composant le ménage |
 
-|
+ILE-DE-FRANCE
 
-ÎLE-DE-FRANCE
-
-(en euros)
-
-|
+(en euros) |
 
 PROVINCE
 
-(en euros)
+(en euros) |
 
-|
+1 |
 
-1
+20 079 |
 
-|
+14 508 |
 
-19 616
+2 |
 
-|
+29 471 |
 
-14 173
+21 217 |
 
-|
+3 |
 
-2
+35 392 |
 
-|
+25 517 |
 
-28 793
+4 |
 
-|
+41 325 |
 
-20 728
+29 809 |
 
-|
+5 |
 
-3
+47 279 |
 
-|
+34 121 |
 
-34 579
+Par personne supplémentaire |
 
-|
+5 943 |
 
-24 930
-
-|
-
-4
-
-|
-
-40 375
-
-|
-
-29 123
-
-|
-
-5
-
-|
-
-46 192
-
-|
-
-33 335
-
-|
-
-Par personne supplémentaire
-
-|
-
-5 804
-
-|
-
-4 200
-
-|
+4 301 |

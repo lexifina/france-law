@@ -4,90 +4,48 @@ PLAFONDS DE RESSOURCES PRÉVUS À L'ARTICLE 2
 
 NOMBRE DE PERSONNES
 
-composant le ménage
+composant le ménage |
 
-|
+ILE-DE-FRANCE
 
-ÎLE-DE-FRANCE
-
-(en euros)
-
-|
+(en euros) |
 
 PROVINCE
 
-(en euros)
+(en euros) |
 
-|
+1 |
 
-1
+24 443 |
 
-|
+18 598 |
 
-23 881
+2 |
 
-|
+35 875 |
 
-18 170
+27 200 |
 
-|
+3 |
 
-2
+43 086 |
 
-|
+32 710 |
 
-35 050
+4 |
 
-|
+50 311 |
 
-26 573
+38 215 |
 
-|
+5 |
 
-3
+57 555 |
 
-|
+43 742 |
 
-42 096
+Par personne supplémentaire |
 
-|
+7 236 |
 
-31 957
-
-|
-
-4
-
-|
-
-49 153
-
-|
-
-37 336
-
-|
-
-5
-
-|
-
-56 232
-
-|
-
-42 736
-
-|
-
-Par personne supplémentaire
-
-|
-
-7 068
-
-|
-
-5 382
-
-|
+5 510 |
