@@ -6,35 +6,23 @@ Nombre des membres des conseils économiques, sociaux et environnementaux régio
 
 et répartition de ces derniers entre les collèges
 
-RÉGIONS
-
-|
+RÉGIONS |
 
 PREMIER
 
-collège
-
-|
+collège |
 
 DEUXIÈME
 
-collège
+collège |
 
-|
-
-TROISIÈME COLLÈGE
-
-|
+TROISIÈME COLLÈGE |
 
 QUATRIÈME
 
-collège
+collège |
 
-|
-
-TOTAL
-
-|
+TOTAL |
 
 |
 
@@ -42,352 +30,252 @@ TOTAL
 
 |
 
-Total troisième collège
+Total
+
+troisième
+
+collège |
+
+Dont au titre
+
+de la 1re phrase
+
+du 2e alinéa
+
+de l'article L. 4134-2
+
+du CGCT |
+
+Dont au titre
+
+de la 2e phrase
+
+du 2e alinéa
+
+de l'article L. 4134-2
+
+du CGCT |
 
 |
 
-Dont au titre du deuxième alinéa de l'article L. 4134-2 du CGCT
+|
+
+Grand Est
 
 |
 
-|
+58 |
+
+58 |
+
+58 |
+
+9 |
+
+3 |
+
+6 |
+
+180 |
+
+Nouvelle-Aquitaine
 
 |
 
-Alsace-Champagne-Ardenne-Lorraine
+58 |
 
-|
+58 |
 
-58
+58 |
 
-|
+9 |
 
-58
+3 |
 
-|
+6 |
 
-58
-
-|
-
-9
-
-|
-
-6
-
-|
-
-180
-
-|
-
-Aquitaine-Limousin-Poitou-Charentes
-
-|
-
-58
-
-|
-
-58
-
-|
-
-58
-
-|
-
-9
-
-|
-
-6
-
-|
-
-180
-
-|
+180 |
 
 Auvergne-Rhône-Alpes
 
 |
 
-61
+61 |
 
-|
+61 |
 
-61
+61 |
 
-|
+10 |
 
-61
+3 |
 
-|
+7 |
 
-10
-
-|
-
-7
-
-|
-
-190
-
-|
+190 |
 
 Bourgogne-Franche-Comté
 
 |
 
-35
+35 |
 
-|
+35 |
 
-35
+35 |
 
-|
+6 |
 
-35
+2 |
 
-|
+5 |
 
-6
-
-|
-
-5
-
-|
-
-110
-
-|
+110 |
 
 Bretagne
 
 |
 
-38
+38 |
 
-|
+38 |
 
-38
+38 |
 
-|
+6 |
 
-38
+2 |
 
-|
+6 |
 
-6
-
-|
-
-6
-
-|
-
-120
-
-|
+120 |
 
 Centre-Val de Loire
 
 |
 
-32
+32 |
 
-|
+32 |
 
-32
+32 |
 
-|
+5 |
 
-32
+2 |
 
-|
+4 |
 
-5
-
-|
-
-4
-
-|
-
-100
-
-|
+100 |
 
 Ile-de-France
 
 |
 
-61
+61 |
+
+61 |
+
+61 |
+
+10 |
+
+3 |
+
+7 |
+
+190 |
+
+Occitanie
 
 |
 
-61
+54 |
+
+54 |
+
+54 |
+
+9 |
+
+3 |
+
+8 |
+
+170 |
+
+Hauts-de-France
 
 |
 
-61
+54 |
 
-|
+54 |
 
-10
+54 |
 
-|
+9 |
 
-7
+3 |
 
-|
+8 |
 
-190
-
-|
-
-Languedoc-Roussillon-Midi-Pyrénées
-
-|
-
-54
-
-|
-
-54
-
-|
-
-54
-
-|
-
-9
-
-|
-
-8
-
-|
-
-170
-
-|
-
-Nord-Pas-de-Calais-Picardie
-
-|
-
-54
-
-|
-
-54
-
-|
-
-54
-
-|
-
-9
-
-|
-
-8
-
-|
-
-170
-
-|
+170 |
 
 Normandie
 
 |
 
-42
+42 |
 
-|
+42 |
 
-42
+42 |
 
-|
+7 |
 
-42
+2 |
 
-|
+4 |
 
-7
-
-|
-
-4
-
-|
-
-130
-
-|
+130 |
 
 Pays de la Loire
 
 |
 
-38
+38 |
 
-|
+38 |
 
-38
+38 |
 
-|
+6 |
 
-38
+2 |
 
-|
+6 |
 
-6
-
-|
-
-6
-
-|
-
-120
-
-|
+120 |
 
 Provence-Alpes-Côte d'Azur
 
 |
 
-45
+45 |
 
-|
+45 |
 
-45
+45 |
 
-|
+7 |
 
-45
+2 |
 
-|
-
-7
-
-|
-
-5
-
-|
+5 |
 
 140 |
 
 NOTA :
 
-Aux termes du I de l'article 1er du décret n° 2015-1917 du 30 décembre 2015, ces dispositions s'appliquent à compter du prochain renouvellement des membres des conseils économiques, sociaux et environnementaux régionaux.
+Conformément à l'article 2 du décret n° 2017-1193 du 26 juillet 2017, ces dispositions s'appliquent à compter du prochain renouvellement des membres des conseils économiques, sociaux et environnementaux régionaux.
