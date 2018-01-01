@@ -1084,6 +1084,452 @@ Nombre de campagnes de mesure
 
 |
 
+9.7. Déclarations relatives à la santé et à la sécurité au travail
+
+1. Organisme extérieur de prévention (TSS1) :
+
+Activité saisonnière (si < 4 mois en cumulé) : |
+
+Oui/Non |
+
+Organisme extérieur de prévention |
+
+(1) |
+
+Nombre de visites effectuées dans l'année |
+
+(2) |
+
+(1) Sélectionner l'organisme ou " structure fonctionnelle " parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+.
+
+(2) Si " structure fonctionnelle " est sélectionnée, indiquer " 0 ". |
+
+2. Accidents du travail (TSS2) :
+
+□ Aucun accident survenu dans l'année écoulée ou accident(s) ayant conduit à des arrêts de travail d'au plus 3 jours (3) |
+
+Si accident ayant entraîné un arrêt de travail supérieur à 3 jours ouvrables, renseigner le tableau suivant : |
+
+Date de l'accident : |
+
+Cause principale de l'accident : |
+
+Nombre cumulé de jours d'arrêt (jours ouvrables) : |
+
+Arrêt de travail consolidé (Oui/Non) : |
+
+|
+
+(4) |
+
+|
+
+|
+
+(3) Si aucun accident n'est survenu au cours de l'année de déclaration, cocher la case et les lignes suivantes du tableau ne seront pas à remplir.
+
+Sélectionner la cause principale de l'accident parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+.
+
+(4) Si " autres causes " est sélectionné, le champ " préciser " s'affiche et doit être renseigné. |
+
+3. Mesures d'empoussiérage (TSS3) :
+
+□ L'évaluation des risques n'a pas été réalisée |
+
+Nombre de GEH (groupe d'exposition homogène) |
+
+|
+
+Poussières alvéolaires de quartz, cristobalite, tridimite :
+
+□ L'évaluation des risques n'a révélé qu'un risque faible (R. 4412-13 du code du travail) |
+
+Organisme accrédité intervenant : (à sélectionner parmi la liste déroulante) |
+
+|
+
+Nombre de prélèvements : |
+
+|
+
+Nombre de GEH < à 10 % VLEP (valeur limite d'exposition professionnelle) : |
+
+|
+
+Poussières alvéolaires totales :
+
+□ L'évaluation des risques n'a révélé qu'un risque faible (art. 2 décret n° 2013-797) |
+
+Organisme accrédité ou agréé intervenant : (à sélectionner parmi la liste déroulante) |
+
+|
+
+Nombre total de prélèvements : |
+
+|
+
+Valeur minimum (en mg/m³ d'air) : |
+
+|
+
+Valeur maximum (en mg/m³ d'air) : |
+
+|
+
+Nombre de GEH > VLEP : |
+
+9.8. Données relatives à la production et à la première transformation
+
+1. Activité extractive (TP1) :
+
+Quantité restante et accessible du gisement autorisé par l'AP, au 31 décembre en ktonnes (" réserve restante certaine ") :
+
+Quantité annuelle de stériles générée (en ktonnes) : |
+
+Substance (5) |
+
+Liste des usages indicatifs des substances extraites (6) |
+
+Quantité annuelle extraite (en ktonnes) |
+
+Substance 1 |
+
+… |
+
+X ktonnes |
+
+… |
+
+|
+
+|
+
+Total (dont quantité de stériles générée) |
+
+|
+
+(5) Sélectionner la substance parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+.
+
+(6) En fonction d'au moins une des cinq filières de destination (case à cocher) listées dans le guide d'aide à la déclaration de l'enquête annuelle carrières susvisé. |
+
+2. Informations relatives à la premières transformation (TP2) :
+
+□ Aucune activité de transformation n'est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête (7) |
+
+Raison sociale
+
+Usine/atelier |
+
+Code postal |
+
+Ville |
+
+Pays |
+
+Usine/Atelier alimenté par d'autres carrières
+
+(Oui/Non) |
+
+Distance carrières-usine
+
+ou atelier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(7) Si aucune activité de transformation n'est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête, cocher la case et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque usine/atelier concerné. |
+
+3. Activité de recyclage (ressources secondaires) (TP3) :
+
+□ Aucune activité de recyclage des déchets du BTP ou de déchets inertes (8)
+
+Quantité annelle entrante sur le site d'un matériau ou de mélange de matériaux à recycler (en ktonnes) :
+
+Attention : après le tri d'un mélange de matériaux, la quantité de matériaux qui n'est pas recyclée et qui reste définitivement sur le site doit être saisie dans le tableau 9.2. Activité de valorisation de matériaux inertes entrant sur la carrière. |
+
+Nature du produit à recycler |
+
+Débouchés |
+
+Quantité annuelle de production (en ktonnes) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(8) Si aucune activité de recyclage des déchets du BTP ou de déchets inertes n'est réalisée sur la carrière objet de l'enquête, cocher la case et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque produit selon les listes de produits et de débouchés proposées et rappelées dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+. |
+
+4. Transport des produits expédiés (TP4) :
+
+Quantité de matériaux ou substances expédié(e)s par modalité de transport et famille d'usage.
+
+Granulats (0,08 à 80 mm) :
+
+MODALITÉ DE TRANSPORT |
+
+QUANTITÉ DE MATÉRIAUX OU DE SUBSTANCES EXPÉDIÉ(E)S (EN %) |
+
+Par la route |
+
+|
+
+Par le rail |
+
+|
+
+Par voie navigable |
+
+|
+
+Autre |
+
+|
+
+Matériaux > 80 mm :
+
+MODALITÉ DE TRANSPORT |
+
+QUANTITÉ DE MATÉRIAUX OU DE SUBSTANCES EXPÉDIÉ(E)S (EN %) |
+
+Par la route |
+
+|
+
+Par le rail |
+
+|
+
+Par voie navigable |
+
+|
+
+Autre |
+
+|
+
+Roches ornementales et de construction :
+
+MODALITÉ DE TRANSPORT |
+
+QUANTITÉ DE MATÉRIAUX OU DE SUBSTANCES EXPÉDIÉ(E)S (EN %) |
+
+Par la route |
+
+|
+
+Par le rail |
+
+|
+
+Par voie navigable |
+
+|
+
+Autre |
+
+|
+
+Industrie :
+
+MODALITÉ DE TRANSPORT |
+
+QUANTITÉ DE MATÉRIAUX OU DE SUBSTANCES EXPÉDIÉ(E)S (EN %) |
+
+Par la route |
+
+|
+
+Par le rail |
+
+|
+
+Par voie navigable |
+
+|
+
+Autre |
+
+|
+
+Autre famille d'usage (à préciser) :
+
+MODALITÉ DE TRANSPORT |
+
+QUANTITÉ DE MATÉRIAUX OU DE SUBSTANCES EXPÉDIÉ(E)S (EN %) |
+
+Par la route |
+
+|
+
+Par le rail |
+
+|
+
+Par voie navigable |
+
+|
+
+Autre |
+
+|
+
+Destination des produits expédiés :
+
+TYPE DE PRODUIT(S) EXPÉDIÉ(S) ET SEUILS DE DÉCLARATION (9) |
+
+DÉPARTEMENTS/ÉTATS (10) |
+
+TONNAGE
+
+(par département/Etat) |
+
+Expédition de plus de 1 kt de granulats (0,08 à 80 mm) : |
+
+Produit 1 : … |
+
+|
+
+|
+
+Produit 2 : … |
+
+|
+
+|
+
+… |
+
+|
+
+|
+
+Expédition de plus de 1 kt de granulats > 80 mm : |
+
+Produit 1 : … |
+
+|
+
+|
+
+Produit 2 : … |
+
+|
+
+|
+
+… |
+
+|
+
+|
+
+Expédition de plus de 0,1 kt de roches ornementales ou de construction : |
+
+Produit 1 : … |
+
+|
+
+|
+
+Produit 2 : … |
+
+|
+
+|
+
+… |
+
+|
+
+|
+
+Expédition de plus de 0,1 kt de produits pour l'industrie : |
+
+Produit 1 : … |
+
+|
+
+|
+
+Produit 2 : … |
+
+|
+
+|
+
+… |
+
+|
+
+|
+
+Expédition de plus de 0,1 kt de produits pour une autre famille d'usage (à préciser) : |
+
+Produit 1 : … |
+
+|
+
+|
+
+Produit 2 : … |
+
+|
+
+|
+
+… |
+
+|
+
+|
+
+(9) Pour chaque grande classe de matériaux de la première colonne, sélectionner le type de produit expédié parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+.
+
+(10) Pour chaque produit expédié en France, sélectionner le département de destination parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+
+https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
+
+.
+
+Pour chaque produit expédié à l'étranger, sélectionner le pays de destination parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières cité ci-dessus. |
+
 10. Données spécifiques
 
 10.1. Pour les installations :
