@@ -1,0 +1,65 @@
+# Article 1er
+
+L'article 8 de l'accord national professionnel du 5 mars 1991 est abrogé et remplacé par l'article 8 rédigé ainsi qu'il suit :
+
+« Article 8
+
+Régime complémentaire de frais de santé
+
+8.1. Champ d'application
+
+8.1.1. Salariés bénéficiaires
+
+Le présent article s'applique à tous les salariés des entreprises exerçant des activités de transport de fonds et de valeurs au premier jour de leur embauche, sous réserve des facultés de dispense d'adhésion fixées par les dispositions légales et réglementaires, notamment celles des articles R. 242-1-6, D. 911-1 et D. 911-3 du code de la sécurité sociale.
+
+Les salariés se prévalant d'une dispense d'adhésion doivent :
+
+– faire part de leur décision par écrit, en précisant qu'ils ont été préalablement informés par leur employeur des conséquences de leur choix et en indiquant le cadre dans lequel la demande de dispense est formulée ;
+
+– selon la dispense invoquée, fournir les justificatifs nécessaires et renouveler leur choix lors de chaque échéance.
+
+8.1.2. Ayants droit
+
+Le choix du caractère obligatoire ou facultatif de l'adhésion des ayants droit est laissé à la libre appréciation de chaque entreprise.
+
+Sont ayants droit :
+
+– le conjoint, marié, pacsé ou concubin ;
+
+– le (les) enfant (s) de moins de 18 ans de l'assuré, de son conjoint ou assimilé ;
+
+– les ascendants fiscalement à charge.
+
+La limite d'âge de 18 ans applicable aux enfants du salarié est prorogée jusqu'à leur 28e anniversaire :
+
+– pour les enfants poursuivant leurs études ;
+
+– pour les enfants primo demandeurs d'emploi inscrits à Pôle emploi ;
+
+– pour les enfants en contrat d'apprentissage ou d'alternance.
+
+Par exception, aucune limite d'âge n'est fixée pour les enfants titulaires de la carte d'invalidité ou de la carte « mobilité inclusion » prévue à l'article L. 241-3 du code de l'action sociale et des familles.
+
+8.1.3. Situation des conjoints travaillant dans la même entreprise
+
+Lorsque les deux conjoints sont salariés d'une même entreprise et que le régime complémentaire de frais de santé de cette entreprise prévoit l'adhésion des ayants droit à titre obligatoire, un des deux est affilié en son nom propre et l'autre en tant qu'ayant droit.
+
+8.2. Garanties du régime complémentaire de frais de santé
+
+Les prestations (nature des actes et niveau de remboursement) du régime complémentaire de frais de santé mises en place par le présent accord respectent les dispositions relatives au contrat responsable. Le panier de santé de référence applicable à la date d'entrée en vigueur du présent accord figure en annexe II.
+
+Pour les salariés relevant du régime local d'assurance maladie des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le niveau des prestations est ajusté afin de garantir un niveau de couverture complète globale comprenant le régime de base et le régime conventionnel obligatoire qui soit identique pour tout salarié couvert au titre du régime.
+
+8.3. Choix de l'organisme de frais de santé
+
+Le choix de l'organisme de frais de santé est laissé à la libre appréciation de chaque entreprise après avis de l'instance représentative de consultation ou, à défaut d'existence au sein de la société, des délégués syndicaux.
+
+8.4. Financement
+
+L'employeur prend en charge 50 % de la cotisation de la couverture obligatoire.
+
+8.5. Cessation des garanties et cas de maintien des droits
+
+L'adhésion prend fin le jour de la rupture du contrat de travail du salarié.
+
+Toutefois, conformément aux dispositions légales, peuvent continuer à être couverts les bénéficiaires de la portabilité prévue par l'article L. 911-8 du code de la sécurité sociale. »
