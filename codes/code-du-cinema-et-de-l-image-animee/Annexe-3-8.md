@@ -104,9 +104,9 @@ b) Toute convention d'écriture ou de développement ;
 
 c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
 
-d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée de la musique utilisée ;
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services de médias audiovisuels à la demande faisant apparaître la durée de la musique utilisée ;
 
-e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à l'étranger ;
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services de médias audiovisuels à la demande pour l'exploitation de l'œuvre à l'étranger ;
 
 f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
 

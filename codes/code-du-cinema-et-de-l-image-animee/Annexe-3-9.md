@@ -32,7 +32,7 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
@@ -66,7 +66,7 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 10° Les contrats du ou des auteurs, scénaristes, et réalisateurs ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
 12° Toute pièce justificative d'un financement public ou privé.
 
@@ -98,7 +98,7 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement.
 
@@ -134,7 +134,7 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-12° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
+12° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
 13° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 

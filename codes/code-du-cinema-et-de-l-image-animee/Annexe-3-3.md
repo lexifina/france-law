@@ -6,7 +6,7 @@ Liste des documents justificatifs, par genre :
 
 I.-Fiction :
 
-1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise à disposition du public ;
+1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un commissaire aux comptes ;
 
@@ -34,7 +34,7 @@ I.-Fiction :
 
 II.-Animation :
 
-1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise à disposition du public ;
+1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un commissaire aux comptes ;
 
@@ -64,7 +64,7 @@ II.-Animation :
 
 III.-Documentaire de création :
 
-1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise à disposition du public ;
+1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un commissaire aux comptes ;
 
@@ -98,15 +98,15 @@ b) Toute convention d'écriture ou de développement ;
 
 c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
 
-d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée de la musique utilisée ;
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services de médias audiovisuels à la demande faisant apparaître la durée de la musique utilisée ;
 
-e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à l'étranger ;
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services de médias audiovisuels à la demande pour l'exploitation de l'œuvre à l'étranger ;
 
 f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
-1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise à disposition du public ;
+1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un commissaire aux comptes ;
 

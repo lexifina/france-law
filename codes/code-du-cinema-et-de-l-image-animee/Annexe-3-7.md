@@ -34,7 +34,7 @@ d) Le détail de toutes les prestations (personnels et moyens techniques) et, en
 
 10° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
+11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 12° Les contrats dits de production exécutive " ;
 
@@ -74,7 +74,7 @@ c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 12° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
+13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 14° Les contrats dits de production exécutive " ;
 
@@ -114,7 +114,7 @@ d) Le détail de toutes les prestations (personnels et moyens techniques) et, en
 
 10° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
 
-11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
+11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 12° Les contrats dits de production exécutive " ;
 
@@ -162,7 +162,7 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 
 14° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à l'étranger ;
 
-15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
+15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 16° Les contrats dits " de production exécutive " ;
 
@@ -204,7 +204,7 @@ d) Le détail de toutes les prestations (personnels et moyens techniques) et, en
 
 12° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
+13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 14° Les contrats dits " de production exécutive " ;
 
