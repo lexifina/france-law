@@ -4,16 +4,12 @@ Liste des couples d'activités
 
 La liste nationale des couples d'activités de l'épreuve obligatoire d'éducation physique et sportive pour les candidats qui sont évalués dans cette discipline en épreuve ponctuelle terminale aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles est la suivante :
 
-- gymnastique au sol et tennis de table ;
+- demi-fond et badminton en simple ;
 
-- demi-fond 3 × 500 et badminton ;
+- demi-fond et tennis de table en simple ;
 
-- demi-fond 3 × 500 et tennis de table ;
+- gymnastique au sol et tennis de table en simple ;
 
-- gymnastique au sol et badminton ;
+- sauvetage et badminton en simple ;
 
-- badminton et sauvetage.
-
-NOTA :
-
-Ces dispositions prennent effet à compter de la session d'examen 2014.
+- gymnastique au sol et badminton en simple.

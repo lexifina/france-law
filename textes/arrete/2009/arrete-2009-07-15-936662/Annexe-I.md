@@ -40,7 +40,7 @@ Réaliser une performance motrice maximale mesurable à une échéance donnée
 
 |
 
-7. Natation de course
+7. Natation
 
 |
 
@@ -68,7 +68,7 @@ Réaliser une prestation corporelle à visée artistique ou acrobatique
 
 |
 
-12. Gymnastique (sol et autres agrès)
+12. Gymnastique
 
 |
 
@@ -136,8 +136,18 @@ Réaliser et orienter son activité physique en vue du développement et de l'en
 
 |
 
-Conditions de composition des ensembles certificatifs d'épreuves :
+27. Natation en durée
+
+|
+
+Conditions de composition des ensembles certificatifs de trois épreuves au baccalauréat professionnel :
 
 1) Les trois épreuves doivent relever de trois compétences propres différentes conformément à l'arrêté et dans le respect de la diversification des pratiques dans le second degré d'enseignement professionnel inscrite dans les programmes.
 
-2) Une épreuve parmi les trois peut relever de la liste académique à condition de respecter la représentation des trois compétences propres à l'E.P.S.
+2) Une épreuve parmi les trois peut relever de la liste académique à condition de respecter la représentation des trois compétences propres à l'EPS.
+
+Conditions de composition des ensembles certificatifs de deux épreuves au CAP-BEP :
+
+1) Les deux épreuves doivent relever de deux compétences propres différentes conformément à l'arrêté et dans le respect de la diversification des pratiques dans le second degré d'enseignement professionnel inscrite dans les programmes.
+
+2) Une épreuve parmi les deux peut relever de la liste académique à condition de respecter la représentation des deux compétences propres à l'EPS.
