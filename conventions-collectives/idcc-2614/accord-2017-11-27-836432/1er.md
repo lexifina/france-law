@@ -1,0 +1,47 @@
+# Article 1er
+
+Cet accord est conclu conformément aux dispositions en annexe VI de la convention collective nationale des ETAM des travaux étendue par arrêté ministériel du 15 juin 2007 (JO du 28 juin 2007). Il est applicable aux ETAM des entreprises de travaux publics situées dans la région Languedoc-Roussillon, dans ses limites territoriales en vigueur au 31 décembre 2015.
+
+Les valeurs des minima annuels fixés sur la base de 35 heures par semaine ou 35 heures en moyenne sur l'année des positions de la classification des ETAM des travaux publics pour 2018 sont les suivantes :
+
+(En euros.)
+
+Niveau |
+
+Salaire minimum annuel année 2018
+
+(base 35 heures) |
+
+A |
+
+19 097 |
+
+B |
+
+19 940 |
+
+C |
+
+21 825 |
+
+D |
+
+23 615 |
+
+E |
+
+26 460 |
+
+F |
+
+29 505 |
+
+G |
+
+32 290 |
+
+H |
+
+33 980 |
+
+Aucun salaire ne peut être inférieur au salaire minimum interprofessionnel de croissance (Smic) en vigueur.
