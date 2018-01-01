@@ -1,0 +1,37 @@
+# Article 1er
+
+L'article 5 de l'avenant n° 45 du 28 juin 2013 intitulé « Cotisations », est modifié comme suit :
+
+« I. – Taux d'appel
+
+Un taux d'appel minorant le taux contractuel de la cotisation est instauré. En conséquence, les taux de cotisation sont modifiés comme suit :
+
+A. – À compter du 1er janvier 2018, le taux de 1,20 % PMSS sera appelé à hauteur de 90 %. Soit 1,08 % PMSS (répartie à hauteur du 50 % pour l'employeur et à hauteur de 50 % pour le salarié).
+
+Régime général |
+
+Destinataires |
+
+Taux de cotisation |
+
+Famille hors conjoint non à charge sécurité sociale |
+
+1,08 % PMSS |
+
+B. – À compter du 1er janvier 2018, le taux de 0,74 % PMSS sera appelé à hauteur de 90 %. Soit 0,67 % PMSS (répartie à hauteur du 50 % pour l'employeur et à hauteur de 50 % pour le salarié).
+
+Régime Alsace Moselle |
+
+Destinataires |
+
+Taux de cotisation |
+
+Famille hors conjoint non à charge sécurité sociale |
+
+0,67 % PMSS |
+
+La cotisation du régime frais de santé est fixée en pourcentage du plafond mensuel de la sécurité sociale (PMSS).
+
+Ces taux sont établis sur la base de la législation et de la réglementation (notamment sociale et fiscale) en vigueur au moment de la date d'effet du présent avenant. Ils seront éventuellement revus en cas de changement de ces textes.
+
+Au vu de la présentation des comptes de résultat et de l'équilibre du régime, les taux de cotisation seront examinés annuellement. »
