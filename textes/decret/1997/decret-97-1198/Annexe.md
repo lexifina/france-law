@@ -636,9 +636,7 @@ Agrément des contrôleurs techniques.
 
 |
 
-Articles R. 111-29
-
-à R. 111-37.
+Articles R. 111-29 à R. 111-37.
 
 |
 
@@ -742,19 +740,11 @@ Décisions relatives à l'extension de la compétence territoriale des société
 
 |
 
-SAHLM :
+SAHLM : articles R*. 422-3 et R*. 422-4, 1er alinéa.
 
-articles R*. 422-3 et R*. 422-4,
+SCP-HLM : article R*. 422-8-1.
 
-1er alinéa.
-
-SCP-HLM :
-
-article R*. 422-8-1.
-
-SACI :
-
-articles R. 422-10 et R. 422-11.
+SACI : articles R. 422-10 et R. 422-11.
 
 |
 
@@ -890,9 +880,13 @@ Mesures prises par le ministre chargé des transports
 
 Code général de la propriété des personnes publiques :
 
-1. Prise de position sur une demande de transfert de propriété de lignes ferroviaires |
+1. Prise de position sur une demande de transfert de propriété de lignes ferroviaires
 
-article R. 3114-5 |
+|
+
+article R. 3114-5
+
+|
 
 Code des ports maritimes :
 
@@ -940,7 +934,7 @@ Interdiction ou restriction de mise sur le marché, de transport ou d'utilisatio
 
 |
 
-Articles 24-1,24-2,24-3 et 24-4
+Articles 24-1, 24-2, 24-3 et 24-4
 
 |
 
@@ -1034,7 +1028,7 @@ Délivrance, suspension temporaire et retrait des licences d'entreprises ferrovi
 
 |
 
-Art. 4,5 et 13
+Art. 4, 5 et 13
 
 |
 
@@ -1046,7 +1040,7 @@ Délivrance, suspension temporaire et retrait des certificats de sécurité.
 
 |
 
-Art. 4,15 et 16
+Art. 4, 15 et 16
 
 |
 
@@ -1086,7 +1080,7 @@ retrait d'autorisations.
 
 |
 
-Art. 12,13 et 26
+Art. 12, 13 et 26
 
 |
 
@@ -1526,7 +1520,7 @@ Article 5,
 
 |
 
-Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage.
+Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement.
 
 1
 
@@ -1570,6 +1564,14 @@ Articles 5 à 11 et 17 |
 
 Mesures prises par le ministre chargé de la marine marchande
 
+Code des transports
+
+1 |
+
+La délivrance du permis d'armement pour les navires immatriculés au registre international français. |
+
+I. de l'article R. 5611-1 |
+
 Code des douanes
 
 1
@@ -1597,18 +1599,6 @@ La délivrance des certificats d'immatriculation et de radiation des navires au 
 Article 2, alinéas 2 et 3 |
 
 2 |
-
-La délivrance des titres de navigation maritime des navires immatriculés au registre international français. |
-
-Article 2, alinéa 4 |
-
-3 |
-
-La délivrance de la fiche d'effectif minimal et le visa des décisions d'effectif des navires immatriculés au registre international français. |
-
-Article 2, alinéa 5 |
-
-4 |
 
 La délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
 
