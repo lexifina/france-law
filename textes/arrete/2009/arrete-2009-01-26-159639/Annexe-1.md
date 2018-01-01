@@ -44,6 +44,10 @@ Chargé de mission adjoint au secrétariat général du Gouvernement
 
 |
 
+Chef de projet chargé de la modernisation de la chaîne numérique de production normative |
+
+1 |
+
 Cabinet du Premier ministre
 
 |
@@ -99,6 +103,10 @@ Chef du bureau de la gestion des emplois déconcentrés
 1
 
 |
+
+Chef du bureau de la gestion des personnels titulaires, de l'expertise de la paie et de la réglementation |
+
+1 |
 
 Service d'information du Gouvernement
 
