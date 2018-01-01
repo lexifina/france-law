@@ -1,12 +1,12 @@
 # Article 18 bis
 
-La liste des équipements, matériaux et appareils mentionnés au 1 de l'article 200 quater du code général des impôts est fixée comme suit :
+I. - La liste des équipements, matériaux et appareils mentionnés au 1 de l'article 200 quater du code général des impôts est fixée comme suit :
 
 1. (Paragraphe abrogé)
 
 2. Acquisition des équipements et matériaux suivants :
 
-a) Chaudières à haute performance énergétique respectant les conditions suivantes :
+a) Chaudières à haute performance énergétique, autres que celles utilisant le fioul comme source d'énergie, respectant les conditions suivantes :
 
 1° Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à 90 % ;
 
@@ -15,6 +15,16 @@ a) Chaudières à haute performance énergétique respectant les conditions suiv
 – 87 %, mesurée à 100 % de la puissance thermique nominale ; et
 
 – 95,5 %, mesurée à 30 % de la puissance thermique nominale ;
+
+a bis) Chaudières à très haute performance énergétique utilisant le fioul comme source d'énergie et respectant les conditions suivantes :
+
+1° Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à 91 % ;
+
+2° Lorsque la puissance est supérieure à 70 kW, une efficacité utile pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à :
+
+- 88 %, mesurée à 100 % de la puissance thermique nominale ; et
+
+- 96,5 %, mesurée à 30 % de la puissance thermique nominale ;
 
 b) Matériaux d'isolation thermique :
 
@@ -186,7 +196,7 @@ b. Pompes à chaleur géothermiques sol/ eau, pour lesquelles l'efficacité éne
 
 c. Pompes à chaleur géothermiques sol/ sol pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température d'évaporation fixe de-5° C et une température de condensation de 35° C.
 
-2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire pour lesquelles l'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 812/2013 précité, est supérieure ou égale à :
+2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire, dans la limite d'un plafond de dépenses fixé à 3 000 €, toutes taxes comprises, pour lesquelles l'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 812/2013 précité, est supérieure ou égale à :
 
 PROFIL DE SOUTIRAGE |
 
@@ -265,3 +275,77 @@ e. Films réfléchissants sur lames transparentes,
 définis respectivement aux deuxième à sixième alinéas de l'article 5 de l'arrêté du 25 mai 2011 précité ;
 
 c) D'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air fixes : ventilateurs de plafond.
+
+II. - Les modalités de réalisation et le contenu de l'audit énergétique mentionné au l du 1 de l'article 200 quater du code général des impôts sont fixés comme suit :
+
+1. L'audit énergétique comprend des propositions de travaux dont l'une au moins permet d'atteindre un très haut niveau de performance énergétique du bâtiment, s'appuyant sur les simulations réalisées pour les bâtiments à usage principal d'habitation en copropriété ou pour les maisons individuelles et définies ci-après.
+
+a) Les propositions de travaux comprennent :
+
+1° Un scénario, en une seule étape, visant une baisse d'au moins 30 % des consommations d'énergie primaire et une consommation après travaux inférieure à 330 kWhEP/m2/an si la consommation d'énergie primaire avant travaux est supérieure à cette valeur. Les travaux préconisés dans ce scénario doivent être compatibles avec l'atteinte à plus long terme du niveau BBC rénovation défini au 2° de l'article 2 de l'arrêté du 29 septembre 2009 relatif au contenu et aux conditions d'attribution du label haute performance énergétique rénovation ;
+
+2° Et un scénario permettant d'atteindre le niveau BBC rénovation précité, en quatre étapes au maximum, selon un ordonnancement visant à maximiser l'économie d'énergie lors des premières étapes sans compromettre la faisabilité technique ou économique des étapes suivantes, en tenant compte des éventuelles pathologies du bâtiment.
+
+b) L'audit énergétique précise pour chaque étape des scénarios de travaux mentionnés aux 1° et 2° du a du présent 1 :
+
+1° La consommation annuelle d'énergie primaire du bâtiment après travaux rapportée à sa surface hors œuvre nette exprimée en kWhEP/m2SHON/an pour chaque usage suivant de l'énergie : le chauffage, le refroidissement, la production d'eau chaude sanitaire, la ventilation et l'éclairage ;
+
+2° La consommation annuelle totale d'énergie primaire du bâtiment après travaux pour l'ensemble des usages de l'énergie précités exprimée en kWhEP/an et en kWhEP/m2SHON/an ;
+
+3° L'émission annuelle totale de gaz à effet de serre du bâtiment après travaux pour l'ensemble des usages de l'énergie précités exprimée en kgCO2/ m2SHON/an ;
+
+4° Le nouveau classement énergétique du bâtiment ;
+
+5° Le nouveau classement en gaz à effet de serre du bâtiment ;
+
+6° L'estimation des économies d'énergie en énergie primaire, puis en euros par rapport à la situation de référence modélisée conformément au 3 du présent II pour les bâtiments à usage principal d'habitation en copropriété et au 4 du présent II pour les maisons individuelles ;
+
+7° L'estimation du coût des travaux détaillé par action ;
+
+8° Les aides financières mobilisables.
+
+c) Il décrit, pour chaque type de travaux proposés, les critères de performances minimales des équipements, matériaux ou appareils nécessaires aux entreprises pour la réalisation des travaux ;
+
+2. L'audit énergétique donne lieu à un rapport de synthèse par la personne chargée de sa réalisation comprenant :
+
+a) Une synthèse des constats et des préconisations ;
+
+b) L'état des lieux des différents postes de consommation d'énergie et des principaux défauts identifiés (situation et état du bâti, mode de chauffage et production de chaleur, gestion du chauffage et régulation, ventilation et étanchéité à l'air, coûts annuels d'exploitation) incluant le résultat du calcul énergétique prévu au 3 du présent II pour les bâtiments à usage principal d'habitation en copropriété et au 4 du présent II pour les maisons individuelles ;
+
+c) Les propositions de travaux décrites au 1 du présent II, en précisant pour chaque scénario les coûts prévisionnels, les économies d'énergie attendues, le temps de retour sur investissement et leur cohérence globale ;
+
+d) L'ensemble des éléments mentionnés au 1 du présent II ;
+
+e) Une liste de préconisations visant à améliorer la performance et la gestion des équipements. Ces actions concernent notamment l'équilibrage de l'installation, le désembouage des réseaux de distribution ou la purge des émetteurs de chaleur. Chaque préconisation proposée est accompagnée d'une estimation du coût de mise en œuvre et des économies attendus ;
+
+f) Des recommandations visant à inciter les occupants à développer des comportements sobres en énergie ;
+
+g) Une annexe explicitant les différentes notions techniques ;
+
+h) Un renvoi vers les différents dispositifs locaux et nationaux d'accompagnement de la rénovation énergétique.
+
+Le rapport de synthèse est transmis au commanditaire de l'audit dans un délai d'un mois à compter de la date de visite du bâtiment prévue au 3 du présent II pour les bâtiments à usage principal d'habitation en copropriété et au 4 du présent II pour les maisons individuelles ;
+
+3. Pour les bâtiments à usage principal d'habitation en copropriété, l'audit est réalisé en respectant les modalités :
+
+a) De recueil des informations prévues aux articles 2, 3, 4 et 5 de l'arrêté du 28 février 2013 relatif au contenu et aux modalités de réalisation d'un audit énergétique ;
+
+b) De recueil des données prévues aux articles 6 et 7 de l'arrêté du 28 février 2013 précité ;
+
+c) De modélisation du bâtiment prévues à l'article 8 du même arrêté ;
+
+4. Pour les maisons individuelles, l'audit est réalisé en respectant les modalités suivantes :
+
+a) Le propriétaire fournit à la personne qui réalise l'audit, les factures des travaux le cas échéant réalisés, les devis des travaux éventuellement envisagés et le diagnostic de performance énergétique s'il en dispose ;
+
+b) L'auditeur réalise une visite du site, en saison de chauffe si possible, accompagné du propriétaire. La visite s'accompagne d'un descriptif des modes constructifs, des principales caractéristiques thermiques et géométriques du logement et de ses équipements énergétiques. Les occupants sont interrogés sur leurs habitudes d'utilisation et de gestion des différents équipements du logement (notamment les ouvertures de fenêtres, le puisage d'eau chaude et d'eau froide et la régulation des émetteurs), sur les dépenses annuelles liées à ces équipements et sur l'appréciation de leur confort thermique ;
+
+c) L'audit énergétique comprend l'estimation de la consommation annuelle d'énergie de la maison liée au chauffage, au refroidissement, à la production d'eau chaude sanitaire, à l'éclairage et à la ventilation.
+
+Cette estimation s'appuie sur les factures énergétiques, transmises par le commanditaire de l'audit. Elle intègre des redressements climatiques et s'accompagne d'une analyse, sur les trois dernières années, de l'évolution des consommations énergétiques ;
+
+d) L'audit énergétique comprend un diagnostic des qualités architecturales et thermiques préexistantes de la maison et de ses défauts nécessitant des travaux d'amélioration de la performance énergétique ;
+
+e) L'audit énergétique comprend la modélisation de la maison au moyen d'un logiciel de simulation énergétique. Les données d'entrée du modèle sont ajustées aux conditions réellement observées. Les conditions d'occupation des logements modélisés dans la simulation sont notamment conformes aux conditions observées lors de la visite du site.
+
+Cette modélisation aboutit à des consommations énergétiques simulées approchant les consommations réelles. En outre, elle permet d'émettre des propositions pertinentes d'actions d'amélioration de la performance énergétique de la maison en simulant la réalisation de travaux portant sur les éléments constitutifs de l'enveloppe du bâtiment ainsi que sur les équipements de production d'eau chaude sanitaire, de ventilation et d'éclairage.
