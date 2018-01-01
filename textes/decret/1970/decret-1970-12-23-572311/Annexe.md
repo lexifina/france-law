@@ -24,22 +24,6 @@ Centre hospitalier et universitaire de Paris Ouest.
 
 |
 
-Paris-VI
-
-|
-
-Centre hospitalier et universitaire Saint-Antoine.
-
-|
-
-Centre hospitalier et universitaire Pitié-Salpêtrière.
-
-|
-
-Centre hospitalier et universitaire Broussais.
-
-|
-
 Paris-VII
 
 |
@@ -105,18 +89,6 @@ Dijon
 |
 
 Médecine.
-
-|
-
-Lille-II
-
-|
-
-Médecine I.
-
-|
-
-Médecine II.
 
 |
 
