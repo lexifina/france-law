@@ -1,12 +1,12 @@
 # Article 302 D bis
 
-I. – Sont exonérés des droits mentionnés à l'article 302 B, selon des modalités fixées par décret, les alcools :
+I.-Sont exonérés des droits mentionnés à l'article 302 B, selon des modalités fixées par décret, les alcools :
 
-a) Dénaturés totalement selon un procédé notifié et autorisé conformément aux dispositions des paragraphes 3 et 4 de l'article 27 de la directive 92/83/CEE du Conseil du 19 octobre 1992 concernant l'harmonisation des structures des droits d'accises sur l'alcool et les boissons alcooliques, et répondant aux conditions posées aux articles 302 M et 508 à 513 ;
+a) Dénaturés totalement selon un procédé notifié et autorisé conformément aux dispositions des paragraphes 3 et 4 de l'article 27 de la directive 92/83/ CEE du Conseil du 19 octobre 1992 concernant l'harmonisation des structures des droits d'accises sur l'alcool et les boissons alcooliques, et répondant aux conditions posées aux articles 302 M et 508 à 513 ;
 
 b) Dénaturés selon un procédé, autre que celui mentionné au a, autorisé par l'administration et utilisés en vue de la fabrication de produits qui ne sont pas destinés à la consommation humaine.
 
-II. – Sont exonérés, dans les conditions posées au I, les alcools et boissons alcooliques utilisés :
+II.-Sont exonérés, dans les conditions posées au I, les alcools et boissons alcooliques utilisés :
 
 a) Pour la production de vinaigre relevant du code NC 2209 du tarif des douanes ;
 
@@ -26,9 +26,9 @@ h) Dans des procédés de fabrication pour autant que le produit fini ne contien
 
 i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en application des dispositions du présent titre.
 
-III. – Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des modalités fixées par décret.
+III.-Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des modalités fixées par décret. Cette déclaration est effectuée par voie électronique. Toutefois, les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent leur déclaration sur papier.
 
-IV. – Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés :
+IV.-Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés :
 
 a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
 
@@ -40,10 +40,4 @@ Les opérateurs qui veulent bénéficier des exonérations prévues au présent 
 
 NOTA :
 
-Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 27 : Les présentes dispositions s'appliquent :
-
-Sous réserve des décisions de justice passées en force de chose jugée, le g du II de l'article 302 D bis du code général des impôts, dans sa rédaction résultant de la présente loi, est applicable à partir du 12 mai 2011.
-
-Sous réserve des décisions de justice passées en force de chose jugée, l'alcool pur acquis par les pharmaciens d'officine entre le 31 mars 2002 et le 12 mai 2011, dans la limite d'un contingent annuel fixé par l'administration au titre du g du II de l'article 302 D bis du code général des impôts, est exonéré des droits mentionnés aux articles 302 B et suivants du même code.
-
-La perte de recettes pour les organismes de sécurité sociale est compensée à due concurrence par la majoration des droits visés aux articles 575 et 575 A du code général des impôts.
+Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à compter d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.
