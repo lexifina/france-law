@@ -1,6 +1,6 @@
 # Article Barème B
 
-Traitements annuels bruts soumis à retenue pour pension à compter du 1er février 2017
+Traitements annuels bruts soumis à retenue pour pension à compter du 1er janvier 2018
 
 INDICES MAJORÉS
 
@@ -5001,5 +5001,37 @@ TRAITEMENTS ANNUELS BRUTS SOUMIS À RETENUE POUR PENSION
 |
 
 46 447,88
+
+|
+
+827
+
+|
+
+46 504,11
+
+|
+
+828
+
+|
+
+46 560,34
+
+|
+
+829
+
+|
+
+46 616,58
+
+|
+
+830
+
+|
+
+46 672,81
 
 |

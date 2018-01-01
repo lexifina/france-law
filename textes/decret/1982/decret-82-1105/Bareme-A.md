@@ -1,6 +1,6 @@
 # Article Barème A
 
-Correspondance entre indices bruts et majorés au 1er janvier 2017
+Correspondance entre indices bruts et majorés au 1er janvier 2018
 
 INDICES BRUTS
 
@@ -7391,5 +7391,45 @@ INDICES MAJORÉS
 |
 
 826
+
+|
+
+1023
+
+|
+
+827
+
+|
+
+1024
+
+|
+
+827
+
+|
+
+1025
+
+|
+
+828
+
+|
+
+1026
+
+|
+
+829
+
+|
+
+1027
+
+|
+
+830
 
 |
