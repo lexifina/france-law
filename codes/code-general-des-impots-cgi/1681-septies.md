@@ -12,6 +12,4 @@
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
 
-NOTA :
-
-Conformément à l'article 20 II de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les dispositions de l'article 1681 septies, dans leur rédaction issue de la présente loi, s'appliquent à la taxe due sur les rémunérations versées à compter du 1er janvier 2015.
+7. Par dérogation au 1 de l'article 1681 quinquies, les prélèvements prévus aux VIII, IX et X de l'article 1649 quater B quater sont acquittés par télérèglement.

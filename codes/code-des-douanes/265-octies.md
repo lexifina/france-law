@@ -6,9 +6,9 @@ Est considérée comme exploitant la personne qui consomme effectivement le gazo
 
 Ce remboursement est calculé, au choix de l'entreprise :
 
--soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est applicable en application des articles 265, 265 A bis et 265 A ter ;
+-soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans chaque région et dans la collectivité de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est applicable en application des articles 265, 265 A bis et 265 A ter ;
 
--soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de ce taux moyen pondéré est fixé par arrêté.
+-soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis dans au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de ce taux moyen pondéré est fixé par arrêté.
 
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er, sauf dans les départements d'outre-mer.
 

@@ -4,4 +4,4 @@ Les exploitants de taxis bénéficient d'un remboursement, dans les conditions p
 
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er, sauf dans les départements d'outre-mer.
 
-Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
+Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
