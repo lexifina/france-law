@@ -1,137 +1,77 @@
 # Article Annexe II
 
-PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION(CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION)
+PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PREVUS A L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNES AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTEGRATION)
 
-CATÉGORIE DE MÉNAGES
+CATÉGORIE DE MÉNAGES |
 
-|
-
-PARIS ET COMMUNES LIMITROPHES
-
-(en euros)
-
-|
-
-ÎLE-DE-FRANCE HORS PARIS
+PARIS
 
 et communes limitrophes
 
-(en euros)
+(en euros) |
 
-|
+ILE-DE-FRANCE
+
+hors Paris et communes limitrophes
+
+(en euros) |
 
 AUTRES RÉGIONS
 
-(en euros)
+(en euros) |
 
-|
+1 |
 
-1
+12 848 |
 
-|
+12 848 |
 
-12 733
+11 167 |
 
-|
+2 |
 
-12 733
+20 943 |
 
-|
+20 943 |
 
-11 067
+16 270 |
 
-|
+3 |
 
-2
+27 452 |
 
-|
+25 174 |
 
-20 756
+19 565 |
 
-|
+4 |
 
-20 756
+30 049 |
 
-|
+27 641 |
 
-16 125
+21 769 |
 
-|
+5 |
 
-3
+35 746 |
 
-|
+32 724 |
 
-27 207
+25 470 |
 
-|
+6 |
 
-24 949
+40 227 |
 
-|
+36 823 |
 
-19 390
+28 704 |
 
-|
+Par personne supplémentaire |
 
-4
+4 482 |
 
-|
+4 102 |
 
-29 781
-
-|
-
-27 394
-
-|
-
-21 575
-
-|
-
-5
-
-|
-
-35 427
-
-|
-
-32 432
-
-|
-
-25 243
-
-|
-
-6
-
-|
-
-39 868
-
-|
-
-36 495
-
-|
-
-28 448
-
-|
-
-Par personne supplémentaire
-
-|
-
-4 442
-
-|
-
-4 065
-
-|
-
-3 173 |
+3 202 |
