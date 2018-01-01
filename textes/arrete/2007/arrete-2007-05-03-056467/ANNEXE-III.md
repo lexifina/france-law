@@ -1,210 +1,64 @@
 # Article ANNEXE III
 
-Définition
+La performance de l'ensemble composé d'une fenêtre et de sa fermeture est caractérisée par le coefficient U moyen jour-nuit, défini comme suivant :
 
-La résistance thermique R d'une paroi est l'inverse du flux thermique à travers 1 mètre carré de paroi pour une différence de température de 1 kelvin entre les deux faces de la paroi. Elle s'exprime en m2.K/W et elle est fonction des caractéristiques géométriques et thermiques des matériaux constituants la paroi.
+Ujn = Uw + Uws/2
 
-Calcul
+où
 
-La résistance thermique d'une paroi isolée est obtenue en ajoutant la résistance thermique de la paroi existante et celle de l'isolant mis en place.
+Uw est le coefficient de la paroi vitrée nue, en W/(m2.K)
 
-Lorsque la paroi existante est composée de plusieurs couches de matériaux, en particulier lorsqu'elle comporte déjà une couche existante de matériau isolant, la résistance thermique de cette paroi est égale à la somme des résistances des matériaux qui la composent.
+Uws est le coefficient de la paroi vitrée avec fermeture, en W/(m2.K), donnée par la relation :
 
-Les règles Th-bât définissent le mode de calcul des résistances thermiques des produits et des parois.
+Uws=1/(1/Uw + ΔR)
 
-Valeurs par défaut
+Avec ΔR la résistance thermique additionnelle, en m2.K/W, apportée par la fermeture.
 
-En l'absence de valeurs connues, les valeurs de résistance thermique données dans les tableaux suivants peuvent être utilisés pour le calcul de la résistance thermique de la paroi existante. Les valeurs par défaut données par les règles Th-U et Th-bât peuvent également être utilisée pour calculer la résistance de la paroi existante.
+Lorsque le rôle de la fermeture est pris en compte, l'exigence de l'article 7 s'exprime donc en Ujn plutôt qu'en Uw.
 
-A. - Murs en briques
+A défaut de valeur fournies par le fabricant, les valeurs de ΔR du tableau suivant peuvent être utilisées :
 
-A-1. Briques pleines
-
-a. Murs simples
-
-Épaisseur du mur en cm
+FERMETURES
 
 |
 
-9 à 15
+TYPE
 
 |
 
-15 à 22,5
+ΔR
 
 |
 
-22,5 à 34
+Jalousie accordéon, fermeture à lames orientables, y compris les vénitiens extérieurs tout métal, volets battants ou persiennes avec ajours fixes
 
 |
 
-supérieure à 34
+A
 
 |
 
-R en m2.K/W
+0,08
 
 |
 
-0,09
+Fermeture sans ajours en position déployée, volets roulants Alu
 
 |
 
-0,16
+B
 
 |
 
-0,23
+0,14
 
 |
 
-0,33
+Volet roulant PVC (e ≤ 12 mm), persienne coulissante ou volet battant PVC, volet battant bois, (e ≤ 22 mm)
 
 |
 
-b. Murs doubles avec lame d'air
-
-Épaisseur du mur en cm
-
-|
-
-20 à 25
-
-|
-
-25 à 30
-
-|
-
-30 à 35
-
-|
-
-supérieure à 35
-
-|
-
-R en m2.K/W
-
-|
-
-0,33
-
-|
-
-0,37
-
-|
-
-0,43
-
-|
-
-0,48
-
-|
-
-A-2. Briques creuses
-
-Épaisseur du mur en cm
-
-|
-
-15 à 20
-
-|
-
-20 à 25
-
-|
-
-25 à 30
-
-|
-
-supérieure à 30
-
-|
-
-R en m2.K/W
-
-|
-
-0,30
-
-|
-
-0,35
-
-|
-
-0,42
-
-|
-
-0,44
-
-|
-
-B. - Murs en béton
-
-B-1. En blocs pleins ou en béton banché
-
-Épaisseur du mur en cm
-
-|
-
-15 à 20
-
-|
-
-20 à 25
-
-|
-
-25 à 30
-
-|
-
-supérieure à 30
-
-|
-
-R en m2.K/W
-
-|
-
-0,10
-
-|
-
-0,12
-
-|
-
-0,15
-
-|
-
-0,18
-
-|
-
-B-2. En blocs creux
-
-Épaisseur du mur en cm
-
-|
-
-20 à 25
-
-|
-
-supérieure à 25
-
-|
-
-R en m2.K/W
+C
 
 |
 
@@ -212,14 +66,14 @@ R en m2.K/W
 
 |
 
-0,22
+Persienne coulissante PVC et volet battant bois, (e > 2 mm) - Volet roulant PVC (e > 2 mm)
 
 |
 
-C. - Isolation existante
+D
 
-La résistance R en m2.K/W s'obtient en multipliant l'épaisseur, en centimètres, par :
+|
 
-0,33 pour les mousses de polyuréthanne ou polystyrène extrudé,
+0,25
 
-0,23 pour les autres isolants thermiques (laine minérale, polystyrène expansé, verre cellulaire, etc.).
+|

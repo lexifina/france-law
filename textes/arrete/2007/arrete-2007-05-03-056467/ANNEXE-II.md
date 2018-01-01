@@ -1,91 +1,227 @@
 # Article ANNEXE II
 
-Altitude
+Définition
 
-L'altitude d'un bâtiment est celle de sa porte d'accès principale.
+La résistance thermique R d'une paroi est l'inverse du flux thermique à travers 1 mètre carré de paroi pour une différence de température de 1 kelvin entre les deux faces de la paroi. Elle s'exprime en m2.K/W et elle est fonction des caractéristiques géométriques et thermiques des matériaux constituants la paroi.
 
-Baie
+Calcul
 
-Une baie est une ouverture ménagée dans une paroi extérieure servant à l'éclairage, au passage à l'aération. Une paroi transparente ou translucide est considérée comme une baie.
+La résistance thermique d'une paroi isolée est obtenue en ajoutant la résistance thermique de la paroi existante et celle de l'isolant mis en place.
 
-Eclairage général
+Lorsque la paroi existante est composée de plusieurs couches de matériaux, en particulier lorsqu'elle comporte déjà une couche existante de matériau isolant, la résistance thermique de cette paroi est égale à la somme des résistances des matériaux qui la composent.
 
-L'éclairage général est un éclairage uniforme d'un espace sans tenir compte des nécessités particulières en certains lieux déterminés.
+Les règles Th-bât définissent le mode de calcul des résistances thermiques des produits et des parois.
 
-Eclairement moyen à maintenir
+Valeurs par défaut
 
-Niveau d'éclairement, noté en lux (lx), en dessous duquel il convient que l'éclairement moyen sur la surface considérée ne descende pas. C'est l'éclairement moyen au moment où il convient d'effectuer la maintenance. La norme NF EN 12464-1 Éclairage des lieux de travail fournit les valeurs d'éclairement moyen à maintenir recommandées sur les zones de travail.
+En l'absence de valeurs connues, les valeurs de résistance thermique données dans les tableaux suivants peuvent être utilisés pour le calcul de la résistance thermique de la paroi existante. Les valeurs par défaut données par les règles Th-U et Th-bât peuvent également être utilisée pour calculer la résistance de la paroi existante.
 
-Entrée d'air
+A. - Murs en briques
 
-C'est un orifice calibré pratiqué dans une fenêtre, une porte-fenêtre ou dans une paroi du bâtiment.
+A-1. Briques pleines
 
-Fermeture
+a. Murs simples
 
-A l'exclusion des dispositifs qui ne réduisent pas les déperditions comme les grilles, les barreaux, les rideaux de magasin de vente, tout dispositif mobile, communément appelé volet, persienne ou jalousie, servant à fermer de l'extérieur l'accès à une fenêtre, une porte-fenêtre ou une porte, est une fermeture.
+Épaisseur du mur en cm
 
-Gaz rare
+|
 
-L'argon, le xénon et le krypton sont les trois gaz rares utilisés dans le bâtiment, et plus particulièrement dans certains vitrages, pour leurs propriétés plus isolantes que l'air.
+9 à 15
 
-Isolant thermique
+|
 
-Produit, généralement très léger et épais, limitant le flux de chaleur qui le traverse dans une paroi soumise à une différence de température entre ses deux faces (par exemple : laine minérale, polystyrène expansé, polyuréthanne expansé, liège, perlite, verre cellulaire, fibres végétales ou animales).
+15 à 22,5
 
-Local
+|
 
-Un local est un volume totalement séparé de l'extérieur ou d'autres volumes par des parois horizontales et verticales, fixes ou mobiles.
+22,5 à 34
 
-Local chauffé
+|
 
-Un local est dit chauffé lorsque sa température normale en période d'occupation est supérieure à 12 °C.
+supérieure à 34
 
-Module d'une entrée d'air
+|
 
-Le module d'une entrée d'air correspond au débit passant par cette entrée d'air, exprimé en m³/h, pour une différence de pression de 20 Pa.
+R en m2.K/W
 
-Paroi verticale ou horizontale
+|
 
-Une paroi est dite verticale lorsque l'angle de cette paroi avec le plan horizontal est égal ou supérieur à 60 degrés, elle est dite horizontale lorsque cet angle est inférieur à 60 degrés.
+0,09
 
-Paroi transparente ou translucide
+|
 
-Une paroi est dite transparente ou translucide si son facteur de transmission lumineux (hors protection mobile éventuelle) est égal ou supérieur à 0,05. Dans le cas contraire, elle est dite opaque.
+0,16
 
-Paroi vitrée anti-effraction
+|
 
-Une paroi est dite anti-effraction si elle répond aux caractéristiques décrites dans le projet de norme européenne ENV 1627 pour les classes 4, 5 et 6.
+0,23
 
-Paroi vitrée antiballes
+|
 
-Une paroi est dite antiballes si elle répond aux caractéristiques décrites dans la norme EN 1522 pour les classes FB5 et supérieures.
+0,33
 
-Plancher bas
+|
 
-Un plancher bas est une paroi horizontale dont seule la face supérieure donne sur un local chauffé.
+b. Murs doubles avec lame d'air
 
-Plancher haut
+Épaisseur du mur en cm
 
-Un plancher haut est une paroi horizontale dont seule la face inférieure donne sur un local chauffé.
+|
 
-Un plancher sous comble non aménagé ou une toiture-terrasse sont par exemple des planchers hauts.
+20 à 25
 
-Système de refroidissement
+|
 
-Un système de refroidissement est un équipement de production de froid par machine thermodynamique associé à des émetteurs de froid destiné au confort des personnes (climatiseur monobloc, Split system...)
+25 à 30
 
-Toiture-pente
+|
 
-On appelle toiture-pente les toitures dont la pente est comprise entre 15 % et 60 %.
+30 à 35
 
-Toiture-terrasse
+|
 
-On appelle toiture-terrasse les toitures dont la pente est inférieure à 15 %.
+supérieure à 35
 
-Verre peu émissif
+|
 
-Sont considérés comme verres peu émissifs tous les verres présentant une émissivité normale n inférieure à 0,20.
+R en m2.K/W
 
-Vitrine
+|
 
-Une vitrine est une paroi vitrée réservée uniquement à l'exposition d'objets, de produits ou de prestations destinés à la vente ou à la location.
+0,33
+
+|
+
+0,37
+
+|
+
+0,43
+
+|
+
+0,48
+
+|
+
+A-2. Briques creuses
+
+Épaisseur du mur en cm
+
+|
+
+15 à 20
+
+|
+
+20 à 25
+
+|
+
+25 à 30
+
+|
+
+supérieure à 30
+
+|
+
+R en m2.K/W
+
+|
+
+0,30
+
+|
+
+0,35
+
+|
+
+0,42
+
+|
+
+0,44
+
+|
+
+B. - Murs en béton
+
+B-1. En blocs pleins ou en béton banché
+
+Épaisseur du mur en cm
+
+|
+
+15 à 20
+
+|
+
+20 à 25
+
+|
+
+25 à 30
+
+|
+
+supérieure à 30
+
+|
+
+R en m2.K/W
+
+|
+
+0,10
+
+|
+
+0,12
+
+|
+
+0,15
+
+|
+
+0,18
+
+|
+
+B-2. En blocs creux
+
+Épaisseur du mur en cm
+
+|
+
+20 à 25
+
+|
+
+supérieure à 25
+
+|
+
+R en m2.K/W
+
+|
+
+0,19
+
+|
+
+0,22
+
+|
+
+C. - Isolation existante
+
+La résistance R en m2.K/W s'obtient en multipliant l'épaisseur, en centimètres, par :
+
+0,33 pour les mousses de polyuréthanne ou polystyrène extrudé,
+
+Pour les isolants bio-sourcés, les valeurs de résistance thermique correspondent à l'inverse de la valeur de conductivité thermique en W/ (m. K) présente en annexe IX de l'arrêté du 26 octobre 2010 susvisé.
+
+0,25 pour les autres isolants thermiques (laine minérale, polystyrène expansé, verre cellulaire, etc.).
