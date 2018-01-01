@@ -1,6 +1,4 @@
-# Article Annexe 1
-
-Liste des affections médicales incompatibles avec l'obtention ou le maintien du permis de conduire ou susceptibles de donner lieu à la délivrance d'un permis de conduire de durée de validité limitée
+# Article Annexe
 
 Principes
 
@@ -554,19 +552,13 @@ Les affections pouvant exposer un candidat ou conducteur, à la délivrance ou a
 
 |
 
-4.1.1 : Mésusage d’alcool / Trouble de l’usage de l’alcool (1)
+4.1.1 : Mésusage d'alcool / Trouble de l'usage de l'alcool
 
 |
 
-4.1.1.1. Incompatibilité pendant la période d’alcoolisation. Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux, et, si nécessaire, les éléments biologiques ainsi qu’un avis spécialisé. À l’issue d’un premier examen justifié par ou objectivant un mésusage d’alcool, l’aptitude ne pourra être supérieure à un an afin d’évaluer les modifications du comportement d’alcoolisation. Les échéances peuvent être raccourcies, notamment en cas de récidive et/ou de mentions restrictives.
+Incompatibilité pendant la période d'alcoolisation. Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux, et, si nécessaire, les éléments biologiques ainsi qu'un avis spécialisé. À l'issue d'un premier examen justifié par ou objectivant un mésusage d'alcool, l'aptitude ne pourra être supérieure à un an afin d'évaluer les modifications du comportement d'alcoolisation. Les échéances peuvent être raccourcies, notamment en cas de récidive et/ou de mentions restrictives.
 
-Dans le cas de dépendance avec signes de dépendance physique, un avis d’inaptitude est prononcé dès lors que l’état médical ou les possibilités de mentions restrictives (Cf. 4.1.1.2) ne sont pas compatibles avec les exigences de la sécurité routière.
-
-4.1.1.2. L'évaluation, médicale, psychologique, sociale, administrative, peut permettre aux commissions médicales primaires ou d’appel de donner un avis d’aptitude temporaire de six à douze mois avec mention restrictive (article R. 226-2 du code de la route) : aptitude temporaire à la conduite avec l'obligation d'un véhicule équipé, par un professionnel agréé, ou par construction, d'un dispositif d'anti-démarrage par éthylotest électronique, homologué par l'autorité compétente.
-
-Cette aptitude est accompagnée du suivi médico psychologique obligatoire défini à l'annexe 2.
-
-À l'issue de la période d'aptitude temporaire à la conduite, réévaluation obligatoire par la commission médicale qui se prononce au vu des éléments cliniques et sociaux, ainsi qu’au vu de l'attestation obligatoire délivrée par l’établissement spécialisé en addictologie, et, si nécessaire, des éléments biologiques, si besoin après un avis spécialisé. Cette mention restrictive peut être renouvelée autant que de besoin.
+Dans le cas de dépendance avec signes de dépendance physique, un avis d'inaptitude est prononcé dès lors que l'état médical n'est pas compatible avec les exigences de la sécurité routière.
 
 |
 
@@ -1614,15 +1606,15 @@ Les risques additionnels liés à la conduite du groupe lourd, notamment chez le
 
 |
 
-4.1.1 : Mésusage d’alcool / Trouble de l’usage de l’alcool (1)
+4.1.1. : Mésusage d'alcool / Trouble de l'usage de l'alcool
 
 |
 
-Incompatibilité pendant la période d’alcoolisation.
+Incompatibilité pendant la période d'alcoolisation.
 
-Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux et, si nécessaire, les éléments biologiques ainsi qu’un avis spécialisé. À l’issue d’un premier examen justifié par ou objectivant un mésusage d’alcool, l’aptitude ne pourra être supérieure à six mois afin d’évaluer les modifications du comportement d’alcoolisation.
+Avant autorisation de reprise de la conduite, évaluation obligatoire par la commission médicale. Celle-ci prendra en compte les éléments cliniques et sociaux et, si nécessaire, les éléments biologiques ainsi qu'un avis spécialisé. À l'issue d'un premier examen justifié par ou objectivant un mésusage d'alcool, l'aptitude ne pourra être supérieure à six mois afin d'évaluer les modifications du comportement d'alcoolisation.
 
-Dans le cas de dépendance avec signes de dépendance physique, un avis d’inaptitude est prononcé dès lors que l’état médical n’est pas compatible avec les exigences de la sécurité routière. Dans ce cas ou dans les cas de récidive, une fois que les conditions médicales, établies au vu des éléments médicaux présentés, lesquels comprennent obligatoirement un avis spécialisé, permettent de prononcer un avis d’aptitude médicale à la conduite, la situation sera réévaluée tous les six mois pendant les trois premières années au moins. Ultérieurement, la périodicité des examens sera à l’appréciation de la commission médicale.
+Dans le cas de dépendance avec signes de dépendance physique, un avis d'inaptitude est prononcé dès lors que l'état médical n'est pas compatible avec les exigences de la sécurité routière. Dans ce cas ou dans les cas de récidive, une fois que les conditions médicales, établies au vu des éléments médicaux présentés, lesquels comprennent obligatoirement un avis spécialisé, permettent de prononcer un avis d'aptitude médicale à la conduite, la situation sera réévaluée tous les six mois pendant les trois premières années au moins. Ultérieurement, la périodicité des examens sera à l'appréciation de la commission médicale.
 
 Les risques additionnels liés aux conditions de travail seront envisagés avec la plus extrême prudence.
 
@@ -1995,11 +1987,3 @@ Dans certains cas particuliers, une compatibilité temporaire pourra être envis
 Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex. : greffe de rein, de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé. En cas de greffe ayant une incidence sur la capacité à conduire, la décision est laissée à l'appréciation du médecin agréé.
 
 |
-
-NOTA :
-
-(1) Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions sont applicables à titre expérimental à compter du 1er décembre 2016 et jusqu'au 31 décembre 2018, dans les départements de la Drôme, de la Marne et du Nord.
-
-Un rapport d'évaluation est rendu trois mois au plus tard avant la fin de cette période expérimentale.
-
-Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions entrent en vigueur le 1er janvier 2019 dans tous les départements.
