@@ -64,13 +64,15 @@ L'une des deux cases permettant d'identifier le type du professionnel est coché
 
 7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique
 
-Le contenu de ces parties R1, BS, CD et R2 est défini à l'annexe 7-1. Une même attestation sur l'honneur peut comporter :
+Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une même attestation sur l'honneur peut comporter :
 
 - une unique partie R1 ; ou
 
 - une unique partie R2 et/ou une ou plusieurs parties BS ; ou
 
-- une unique partie CD.
+- une unique partie CD ; ou
+
+- une unique partie QPV.
 
 La partie R1 est utilisée lorsque l'opération entre dans le cadre du paragraphe 8.1 de l'annexe 5.
 
@@ -78,7 +80,9 @@ La partie BS correspond à l'attestation prévue au point I du paragraphe 8.2 de
 
 La partie CD correspond à l'attestation prévue par le paragraphe 8.3 de l'annexe 5.
 
-La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 de l'annexe 5 et à l'attestation prévue par le paragraphe 8.4.
+La partie QPV correspond à l'attestation prévue par le paragraphe 8.4 de l'annexe 5.
+
+La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 de l'annexe 5 et à l'attestation prévue par le paragraphe 8.5.
 
 8. Partie finale
 

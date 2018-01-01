@@ -14,63 +14,65 @@ A. [Partie publiée par arrêté définissant les opérations standardisées d'�
 
 B. Bénéficiaire de l'opération d'économies d'énergie
 
-(*) Nom du signataire : .......................................... Prénom du signataire : .....................................................
+(*) Nom du signataire : Prénom du signataire :
 
 (*) Pour les bénéficiaires personnes morales, préciser :
 
-(*) Raison sociale du bénéficiaire : ..................................................................................................................
+(*) Raison sociale du bénéficiaire :
 
-(*) Numéro SIREN du bénéficiaire : ...................................................................................................................
+(*) Numéro SIREN du bénéficiaire :
 
 A défaut : le bénéficiaire atteste sur l'honneur qu'il est dépourvu de numéro SIREN en cochant cette case : □
 
 (mentionner la raison sociale et le numéro SIREN du syndic dans le cas des copropriétés).
 
-(*) Fonction du signataire : .............................................................................................................................
+(*) Fonction du signataire :
 
-(*) Adresse : .................................................................................................................................................
+(*) Adresse :
 
-Compléments d'adresse : ..............................................................................................................................
+Compléments d'adresse :
 
-(*) Code postal : ..........................................................................................................................................
+(*) Code postal :
 
-(*) Ville : .....................................................................................................................................................
+(*) Ville :
 
-Pays : .........................................................................................................................................................
+Pays :
 
 Téléphone : _ _ _ _ _ _ _ _ _ _
 
 Mobile : _ _ _ _ _ _ _ _ _ _
 
-Courriel : .......................................................................................................................................................
+Courriel :
 
 (*) Cocher l'une des deux cases suivantes : à l'issue des opérations d'économies d'énergie :
 
-□ Je suis : le seul propriétaire (final) ou le locataire des équipements installés ; ou l'occupant du logement où prend place l'opération d'économies d'énergie et je finance cette opération ; ou la personne recevant le service acheté ;
+□ Je suis : le seul propriétaire (final) ou le locataire des équipements installés ; ou le syndic de la copropriété où prend place l'opération d'économies d'énergie ; ou l'occupant du logement où prend place l'opération d'économies d'énergie et je finance cette opération ; ou la personne recevant le service acheté ;
 
-□ je suis le maître d'ouvrage, l'un des propriétaires des équipements installés, ou l'affectataire (au titre du transfert de compétence entre collectivités territoriales) des biens sur lesquels ont lieu l'opération.
+□ Je suis le maître d'ouvrage, l'un des propriétaires des équipements installés, ou l'affectataire (au titre du transfert de compétence entre collectivités territoriales) des biens sur lesquels ont lieu l'opération.
+
+Le bénéficiaire ne peut prétendre pour une même opération qu'à une seule contribution versée dans le cadre du dispositif des certificats d'économies d'énergie.
 
 En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste sur l'honneur :
 
-- que [raison sociale du demandeur] m'a apporté une contribution individualisée (action personnalisée de sensibilisation ou d'accompagnement, aide financière ou équivalent). Cette contribution m'a incité à réaliser cette opération d'économies d'énergie ;
+-que [raison sociale du demandeur] m'a apporté une contribution individualisée (action personnalisée de sensibilisation ou d'accompagnement, aide financière ou équivalent). Cette contribution m'a incité à réaliser cette opération d'économies d'énergie ;
 
-- que je fournirai exclusivement à [raison sociale du demandeur] l'ensemble des documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie, notamment la facture (ou à défaut une autre preuve de la réalisation effective de l'opération) ;
+-que je fournirai exclusivement à [raison sociale du demandeur] l'ensemble des documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie, notamment la facture (ou à défaut une autre preuve de la réalisation effective de l'opération) ;
 
-- que je ne signerai pas, pour cette opération, d'attestation sur l'honneur semblable avec une autre personne morale ;
+-que je ne signerai pas, pour cette opération, d'attestation sur l'honneur semblable avec une autre personne morale ;
 
-- l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques de mon bien (type de bâtiment, surfaces, énergie de chauffage, etc.) et que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci ;
+-l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques de mon bien (type de bâtiment, surfaces, énergie de chauffage, etc.) et que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci ;
 
-- que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement dont je suis l'exploitant ;
+-que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement dont je suis l'exploitant ;
 
-- qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération.
+-qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération.
 
-Fait à ...............................................................................................................................
+Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
 (*) Signature du bénéficiaire
 
-Pour les personnes morales, son cachet et la signature du représentant
+Pour les personnes morales, son cachet et la signature du représentant.
 
 C. Professionnel ayant mis en œuvre l'opération d'économies d'énergie ou assuré sa maîtrise d'œuvre
 
@@ -138,7 +140,7 @@ Courriel :
 
 (*) Cocher l'une des deux cases suivantes : en tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que :
 
-□ les revenus de mon ménage sont inférieurs aux plafonds du tableau B et supérieurs aux plafonds du tableau A ci-dessous, et mon ménage comporte :
+□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau B et supérieurs ou égaux aux plafonds du tableau A ci-dessous, et mon ménage comporte :
 
 (*) Nombre de personnes :
 
@@ -146,9 +148,9 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 (*) Nombre de foyers fiscaux :
 
-(*) Nom (s) et prénom (s) du/des premier (s) déclarant (s) des autres foyers fiscaux :
+(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
 
-□ les revenus de mon ménage sont inférieurs aux plafonds du tableau A ci-dessous, et mon ménage comporte :
+□ Les revenus de mon ménage sont inférieurs aux plafonds du tableau A ci-dessous, et mon ménage comporte :
 
 (*) Nombre de personnes :
 
@@ -156,197 +158,101 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 (*) Nombre de foyers fiscaux :
 
-(*) Nom (s) et prénom (s) du/des premier (s) déclarant (s) des autres foyers fiscaux :
+(*) Nom (s) et prénom (s) du (des) premier (s) déclarant (s) des autres foyers fiscaux :
 
 Tableau A
 
-"NOMBRE DE PERSONNES
+Nombre de personnes composant le ménage |
 
-composant le ménage
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-|
+Plafonds de revenus du ménage pour les autres régions (€) |
 
-PLAFONDS DE REVENUS
+1 |
 
-du ménage en Ile-de-France (€)
+19 875 |
 
-|
+14 360 |
 
-PLAFONDS DE REVENUS
+2 |
 
-du ménage pour les autres régions (€)
+29 171 |
 
-|
+21 001 |
 
-"1
+3 |
 
-|
+35 032 |
 
-19 803
+25 257 |
 
-|
+4 |
 
-14 308
+40 905 |
 
-|
+29 506 |
 
-"2
+5 |
 
-|
+46 798 |
 
-29 066
+33 774 |
 
-|
+Par personne supplémentaire |
 
-20 925
++ 5 882 |
 
-|
-
-"3
-
-|
-
-34 906
-
-|
-
-25 166
-
-|
-
-"4
-
-|
-
-40 758
-
-|
-
-29 400
-
-|
-
-"5
-
-|
-
-46 630
-
-|
-
-33 652
-
-|
-
-"Par personne supplémentaire
-
-|
-
-+ 5 860
-
-|
-
-+ 4 241
-
-|
++ 4 257 |
 
 Tableau B
 
-"NOMBRE DE PERSONNES
+Nombre de personnes composant le ménage |
 
-composant le ménage
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-|
+Plafonds de revenus du ménage pour les autres régions (€) |
 
-PLAFONDS DE REVENUS
+1 |
 
-du ménage en Ile-de-France (€)
+24 194 |
 
-|
+18 409 |
 
-PLAFONDS DE REVENUS
+2 |
 
-du ménage pour les autres régions (€)
+35 510 |
 
-|
+26 923 |
 
-"1
+3 |
 
-|
+42 648 |
 
-24 107
+32 377 |
 
-|
+4 |
 
-18 342
+49 799 |
 
-|
+37 826 |
 
-"2
+5 |
 
-|
+56 970 |
 
-35 382
+43 297 |
 
-|
+Par personne supplémentaire |
 
-26 826
++ 7 162 |
 
-|
-
-"3
-
-|
-
-42 495
-
-|
-
-32 260
-
-|
-
-"4
-
-|
-
-49 620
-
-|
-
-37 690
-
-|
-
-"5
-
-|
-
-56 765
-
-|
-
-43 141
-
-|
-
-"Par personne supplémentaire
-
-|
-
-+ 7 136
-
-|
-
-+ 5 434
-
-|
++ 5 454 |
 
 Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
-(*) Signature du bénéficiaire
+(*) Signature du bénéficiaire.
 
 BS. Bailleur social gérant des logements concernés par l'opération
 
@@ -392,7 +298,7 @@ Fait à
 
 (*) Cachet et signature de l'organisme
 
-CD. Copropriété objet d'une opération programmée d'amélioration de l'habitat ou d'un plan de sauvegarde
+CD. Copropriété objet d'une subvention de l'Agence nationale de l'habitat
 
 (*) Nom du signataire : Prénom du signataire :
 
@@ -422,17 +328,53 @@ Mobile : _ _ _ _ _ _ _ _ _ _
 
 Courriel :
 
-J'atteste sur l'honneur que la copropriété citée ci-dessus que je représente :
-
-- fait l'objet d'une opération programmée d'amélioration de l'habitat, prévue à l'article L. 303-1 du code de la construction et de l'habitation et à l'article 6 de la loi n° 90-449 du 31 mai 1990, ou d'un plan de sauvegarde, prévu à l'article L. 615-1 du même code,
-
-- a reçu une décision de subvention de l'Agence nationale de l'habitat.
+J'atteste sur l'honneur que la copropriété citée ci-dessus que je représente a reçu une décision de subvention de l'Agence nationale de l'habitat attribuée au titre des 7° et 8° du I de l'article R. * 321-12 du code de la construction et de l'habitation.
 
 Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
-(*) Cachet et signature du syndic de copropriété
+(*) Cachet et signature du syndic de copropriété.
+
+QPV. Quartier prioritaire de la politique de la ville
+
+(*) Nom du signataire : Prénom du signataire :
+
+(*) Raison sociale du demandeur :
+
+(*) Numéro SIREN du demandeur :
+
+(*) Fonction du signataire :
+
+(*) Adresse :
+
+Complément d'adresse :
+
+(*) Code postal :
+
+(*) Ville :
+
+Pays :
+
+Téléphone : _ _ _ _ _ _ _ _ _ _
+
+Mobile : _ _ _ _ _ _ _ _ _ _
+
+Courriel :
+
+J'atteste sur l'honneur que l'opération bénéficie à une copropriété située dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ou, dans le cas d'une infrastructure de transport, est réalisée dans un tel quartier et bénéficie majoritairement à des ménages y résidant :
+
+(*) Adresse (n°, rue, code postal, ville) de la copropriété ou de l'infrastructure de transport :
+
+(*) Nom du quartier prioritaire de la politique de la ville :
+
+(*) Code quartier du quartier prioritaire de la politique de la ville :
+
+Fait à
+
+(*) Le _ _/ _ _/ _ _ _ _
+
+(*) Cachet et signature du demandeur.
 
 R2. Identification, par le bénéficiaire, des ménages modestes concernés par l'opération (avec pièces justificatives des revenus)
 
@@ -474,223 +416,115 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste qu
 
 (*) dont nombre de ménages de revenus inférieurs aux plafonds du tableau A :
 
-NB : Ne sont comptabilisés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie et qui sont inscrit dans la liste ci-dessous (sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation).
+NB : ne sont comptabilisés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie et qui sont inscrits dans la liste ci-dessous (sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation).
 
 Tableau A
 
-"NOMBRE DE PERSONNES
+Nombre de personnes composant le ménage |
 
-composant le ménage
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-|
+Plafonds de revenus du ménage pour les autres régions (€) |
 
-PLAFONDS DE REVENUS
+1 |
 
-du ménage en Ile-de-France (€)
+19 875 |
 
-|
+14 360 |
 
-PLAFONDS DE REVENUS DU MÉNAGE
+2 |
 
-pour les autres régions (€)
+29 171 |
 
-|
+21 001 |
 
-"1
+3 |
 
-|
+35 032 |
 
-19 803
+25 257 |
 
-|
+4 |
 
-14 308
+40 905 |
 
-|
+29 506 |
 
-"2
+5 |
 
-|
+46 798 |
 
-29 066
+33 774 |
 
-|
+Par personne supplémentaire |
 
-20 925
++ 5 882 |
 
-|
-
-"3
-
-|
-
-34 906
-
-|
-
-25 166
-
-|
-
-"4
-
-|
-
-40 758
-
-|
-
-29 400
-
-|
-
-"5
-
-|
-
-46 630
-
-|
-
-33 652
-
-|
-
-"Par personne supplémentaire
-
-|
-
-+ 5 860
-
-|
-
-+ 4 241
-
-|
++ 4 257 |
 
 Tableau B
 
-"NOMBRE DE PERSONNES
+Nombre de personnes composant le ménage |
 
-composant le ménage
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-|
+Plafonds de revenus du ménage pour les autres régions (€) |
 
-PLAFONDS DE REVENUS
+1 |
 
-du ménage en Ile-de-France (€)
+24 194 |
 
-|
+18 409 |
 
-PLAFONDS DE REVENUS
+2 |
 
-du ménage pour les autres régions (€)
+35 510 |
 
-|
+26 923 |
 
-"1
+3 |
 
-|
+42 648 |
 
-24 107
+32 377 |
 
-|
+4 |
 
-18 342
+49 799 |
 
-|
+37 826 |
 
-"2
+5 |
 
-|
+56 970 |
 
-35 382
+43 297 |
 
-|
+Par personne supplémentaire |
 
-26 826
++ 7 162 |
 
-|
-
-"3
-
-|
-
-42 495
-
-|
-
-32 260
-
-|
-
-"4
-
-|
-
-49 620
-
-|
-
-37 690
-
-|
-
-"5
-
-|
-
-56 765
-
-|
-
-43 141
-
-|
-
-"Par personne supplémentaire
-
-|
-
-+ 7 136
-
-|
-
-+ 5 434
-
-|
++ 5 454 |
 
 Liste des ménages modestes bénéficiant de l'opération (une ligne par ménage) :
 
-"(*) NOM (S) ET PRÉNOM (S)
+(*) NOM (S) ET PRÉNOM (S)
 
-du/des représentant(s) du ménage
-
-|
+du (des) représentant (s) du ménage |
 
 (*) NOMBRE
 
-de personnes composant le ménagE
-
-|
+de personnes composant le ménage |
 
 (*) NATURE DE LA PIÈCE
 
 justifiant la situation
 
-du ménage modeste
+du ménage modeste |
 
-|
+(*) NOMBRE DE FOYERS FISCAUX du ménage
 
-(*) NOMBRE DE FOYERS FISCAUX
-
-du ménage
-
-(ne remplir que dans le cas où la pièce justificative est l'avis d'imposition)
-
-|
-
-"
+(ne remplir que dans le cas où la pièce justificative est l'avis d'imposition) |
 
 |
 
@@ -702,8 +536,6 @@ du ménage
 
 |
 
-"
-
 |
 
 |
@@ -714,37 +546,37 @@ du ménage
 
 |
 
-NB1 : Ne sont listés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie : sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation.
+NB1 : ne sont listés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie ; sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation.
 
 NB2 : dans le cas où l'opération concerne des logements, les ménages listés sont les occupants de ces logements.
 
 Le représentant du ménage est, selon la pièce justificative utilisée :
 
-- le premier déclarant de chaque foyer fiscal intégré au ménage, lorsque la pièce justificative est l'avis d'imposition. Dans ce cas, un ménage a autant de représentants que de foyers fiscaux ;
+-le premier déclarant de chaque foyer fiscal intégré au ménage, lorsque la pièce justificative est l'avis d'imposition. Dans ce cas, un ménage a autant de représentants que de foyers fiscaux ;
 
-- le titulaire du contrat de gaz ou d'électricité auquel est adressée la facture de gaz ou d'électricité ;
+-le titulaire du contrat de gaz ou d'électricité auquel est adressée la facture de gaz ou d'électricité ;
 
-- l'ayant droit à la protection complémentaire en matière de santé ;
+-l'ayant droit à la protection complémentaire en matière de santé ;
 
-- l'ayant droit de l'aide au paiement d'une Complémentaire Santé ;
+-l'ayant droit de l'aide au paiement d'une complémentaire santé ;
 
-- la personne recevant le chèque énergie.
+-la personne recevant le chèque énergie.
 
 En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste sur l'honneur l'exactitude des informations que j'ai communiquées ci-dessus sur les ménages modestes bénéficiant de l'opération.
 
 Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
 (*) Signature du bénéficiaire
 
 Pour les personnes morales, son cachet et la signature du représentant.
 
-Les informations recueillies font l'objet de traitements informatiques destinés à éviter les double-comptes de certificats d'économies d'énergie et à évaluer le dispositif des certificats d'économies d'énergie. Le destinataire des données est le ministère en charge de l'énergie. Conformément à la loi Informatique et libertés du 6 janvier 1978 modifiée, vous bénéficiez d'un droit d'accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant à : ministère en charge de l'énergie, DGEC, SCEE, certificats d'économies d'énergie, tour Pascal, 92055 La Défense Cedex. Vous pouvez également, pour des motifs légitimes, vous opposer aux traitements des données vous concernant.
+Mentions finales
+
+Les informations recueillies font l'objet de traitements informatiques destinés à éviter les double-comptes de certificats d'économies d'énergie et à évaluer le dispositif des certificats d'économies d'énergie. Le destinataire des données est le ministère en charge de l'énergie. Conformément à la loi Informatique et libertés du 6 janvier 1978 modifiée, vous bénéficiez d'un droit d'accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant à : ministère en charge de l'énergie, DGEC, certificats d'économies d'énergie, 92055 La Défense Cedex. Vous pouvez également, pour des motifs légitimes, vous opposer aux traitements des données vous concernant.
 
 [Mention CNIL du demandeur]
-
-Le bénéficiaire ne peut prétendre qu'une seule fois à une contribution versée dans le cadre du dispositif des certificats d'économies d'énergie.
 
 De plus, il est rappelé aux signataires de la présente attestation sur l'honneur que toute fausse déclaration expose notamment aux sanctions prévues au code pénal (article 441-7) :
 

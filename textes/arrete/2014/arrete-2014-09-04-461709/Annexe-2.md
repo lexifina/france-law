@@ -12,7 +12,7 @@ Si le demandeur est une personne physique, la demande précise ses nom et préno
 
 Si le demandeur est une personne morale, la demande précise sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ou du lieu d'exercice de son activité, son numéro SIREN, l'identité et la qualité du signataire ainsi que l'identité, le numéro de téléphone, l'adresse électronique et la qualité de la personne à contacter en cas de demande d'éléments complémentaires par l'autorité administrative compétente.
 
-Si le siège social du demandeur est situé hors de France, la demande comporte les éléments ci-dessus à l'exception du numéro SIREN. Dans le cas où les documents sont rédigés dans une langue étrangère, une traduction certifiée en langue française de l'ensemble des documents est requise.
+Si le siège social du demandeur est situé hors de France, la demande comporte le numéro de TVA intracommunautaire en remplacement du numéro SIREN et est accompagnée d'un document délivré par l'autorité compétente du pays concerné justifiant l'enregistrement de la personne morale dans son pays d'origine. Dans le cas où les documents sont rédigés dans une langue étrangère, une traduction certifiée en langue française de l'ensemble des documents est requise.
 
 1.3. Mandat
 
@@ -32,29 +32,23 @@ Le numéro de compte du demandeur au registre national des certificats d'économ
 
 2. Eligibilité du demandeur
 
-2.1. Première demande au cours d'une période d'obligations d'économies d'énergie
+2.1. Première demande d'une personne soumise à des obligations d'économies d'énergie
 
-d'une personne soumise à des obligations d'économies d'énergie
-
-Si le demandeur est une personne mentionnée à l'article L. 221-1 du code de l'énergie, la première demande comporte :
+Si le demandeur est une personne mentionnée à l'article L. 221-1 du code de l'énergie n'ayant fait l'objet d'aucune délivrance de certificats d'économies d'énergie pour des opérations engagées à partir du 1er janvier 2015, la première demande comporte :
 
 1° Une copie, datant de moins de trois mois, de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers ;
 
-2° Une déclaration des volumes d'énergie mis à la consommation ou vendu sur le territoire national durant l'année civile précédant l'année de la demande, ces volumes devant être supérieurs au(x) seuil(s) concerné(s) fixé(s) à l'article R. 221-3 du code de l'énergie. Cette déclaration est certifiée par un expert-comptable ou un commissaire aux comptes ou, pour les régies, par leur comptable public ;
+2° Une déclaration des volumes d'énergie mis à la consommation ou vendu sur le territoire national durant l'année civile ou les douze mois précédant la demande, ces volumes devant être supérieurs au(x) seuil(s) concerné(s) fixé(s) à l'article R. 221-3 du code de l'énergie. Cette déclaration est certifiée par un expert-comptable ou un commissaire aux comptes ou, pour les régies, par leur comptable public ;
 
-3° Et une attestation sur l'honneur du demandeur qu'il n'a pas délégué la totalité de son obligation et qu'il demeure obligé au titre de l'article L. 221-1 du code de l'énergie.
+3° Une attestation sur l'honneur du demandeur qu'il n'a pas délégué la totalité de son obligation et qu'il demeure obligé au titre de l'article L. 221-1 du code de l'énergie ; et
 
-Par dérogation aux dispositions précédentes :
+4° Les pièces archivées constitutives de la demande mentionnées à l'article 4.
 
-- pour les personnes mentionnées au 1° de l'article L. 221-1 du code de l'énergie, la pièce prévue au 2° peut être remplacée par une déclaration des volumes d'énergie mis à la consommation ou vendu sur le territoire national durant une partie de l'année de la demande, ces volumes devant être supérieurs au(x) seuil(s) concerné(s) fixé(s) à l'article R. 221-3 du code de l'énergie. Cette déclaration est certifiée par un expert-comptable ou un commissaire aux comptes ou, pour les régies, par leur comptable public ;
+Si le demandeur est un délégataire d'obligation d'économies d'énergie n'ayant fait l'objet d'aucune délivrance de certificats d'économies d'énergie pour des opérations engagées à partir du 1er janvier 2015, la première demande comporte :
 
-- pour les personnes mentionnées au 2° de l'article L. 221-1 du code de l'énergie, pour une première demande déposée entre le 1er janvier 2015 et le 30 juin 2015, la pièce prévue au 2° peut être remplacée par une attestation sur l'honneur du demandeur que ses ventes d'énergie durant l'année civile précédant l'année de la demande dépassent le seuil fixé à l'article R. 221-3 du code de l'énergie. Dans ce cas, la première demande qui fait l'objet d'un dépôt après le 30 juin 2015, comporte la pièce prévue au 2° ;
+1° Une copie datant de moins de trois mois de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers ; et
 
-Si le demandeur est un délégataire d'obligation d'économies d'énergie, la première demande comporte :
-
-- une copie, datant de moins de trois mois, de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers ; et
-
-- une copie du courrier du ministre en charge de l'énergie désignant cette entité comme délégataire d'obligation d'économies d'énergie.
+2° Les pièces archivées constitutives de la demande mentionnées à l'article 4.
 
 2.2. Première demande au cours de la période d'une personne
 
@@ -70,7 +64,9 @@ Le demandeur tient à disposition de l'administration tout document complémenta
 
 2.3. Demandes suivantes
 
-Si la structure juridique du demandeur a changé depuis la demande précédente, la demande comporte une présentation des modifications intervenues et une justification que le demandeur demeure éligible au dispositif des certificats d'économies d'énergie. Cette présentation est accompagnée d'une copie, datant de moins de trois mois, de la pièce ou les pièces demandées aux points 2.1 ou 2.2.
+Si la structure juridique du demandeur a changé depuis la demande précédente, la demande comporte une présentation des modifications intervenues et une justification que le demandeur demeure éligible au dispositif des certificats d'économies d'énergie. Cette présentation est accompagnée d'une copie, datant de moins de trois mois, de la pièce ou les pièces demandées aux points 2.1 ou 2.2, à l'exception des pièces archivées constitutives de la demande mentionnées à l'article 4.
+
+Dans le cas où cette présentation a déjà été faite au titre de l'article R. 221-6-1 du code de l'énergie, les dispositions mentionnées à l'alinéa précédent sont réputées satisfaites.
 
 3. Caractéristiques des opérations d'économies d'énergie
 

@@ -14,11 +14,11 @@ Les pièces justificatives relatives aux opérations d'économies d'énergie con
 
 – les attestations sur l'honneur ;
 
-– le respect des critères énoncés dans les fiches d'opérations standardisées ; et
+– le respect des critères énoncés dans les fiches d'opérations standardisées ;
 
 – le non-cumul avec d'autres dispositifs ; et
 
-– le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie.
+– le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
 1. Identification du bénéficiaire de l'opération
 
@@ -29,6 +29,8 @@ L'identification du bénéficiaire de l'opération est justifiée, selon le cas,
 – une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est le maître d'ouvrage de l'opération d'économies d'énergie et qu'il dispose de l'accord du propriétaire pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit du propriétaire pour désigner le maître d'ouvrage comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
 
 – une attestation sur l'honneur du bénéficiaire de l'opération indiquant qu'il est l'un des propriétaires de l'équipement installé et qu'il dispose de l'accord de l'ensemble des propriétaires pour être désigné comme bénéficiaire au titre du dispositif des certificats d'économies d'énergie. Cette attestation est complétée par l'accord écrit des autres propriétaires pour désigner cet acteur comme bénéficiaire de l'opération au titre du dispositif des certificats d'économies d'énergie ;
+
+– une attestation sur l'honneur du syndic lorsque le bénéficiaire de l'opération est un syndicat de copropriétaires, indiquant qu'il est le représentant légal de ce syndicat ;
 
 – une attestation sur l'honneur de la collectivité bénéficiaire de l'opération indiquant qu'elle est l'affectataire des biens dans le cas d'un transfert de compétences entre collectivités territoriales et leurs groupements au sens de l'article L. 1321-2 du code général des collectivités territoriales. Cette attestation est complétée par la justification de ce transfert de compétence ;
 
@@ -86,17 +88,21 @@ Les documents de preuve de réalisation de l'opération comportent :
 
 La preuve du rôle actif, incitatif et antérieur à l'engagement de l'opération est apportée par l'un des éléments ou ensemble d'éléments décrits ci-après.
 
+Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci.
+
+Si la contribution est un audit ou conseil personnalisé, celui-ci prend la forme d'un document écrit remis au bénéficiaire et dont une copie est archivée par le demandeur.
+
 3.1. Contractualisation de l'opération d'économies d'énergie
 
 entre le bénéficiaire et le demandeur ou un partenaire du demandeur
 
-La contractualisation de l'opération d'économies d'énergie comporte la mention dactylographiée, dans le corps du contrat, de la nature précise de cette contribution, de l'identification du demandeur via sa raison sociale et du fait que le demandeur est à l'origine de la contribution dans le cadre du dispositif des certificats d'économies d'énergie.
+La contractualisation de l'opération d'économies d'énergie comporte la mention dactylographiée, dans le corps du contrat, de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique, de l'identification du demandeur via sa raison sociale et du fait que le demandeur est à l'origine de la contribution dans le cadre du dispositif des certificats d'économies d'énergie.
 
 Le contrat de réalisation de l'opération est accepté et signé par le bénéficiaire au plus tard à la date d'engagement de l'opération. Il est daté par le bénéficiaire du jour de son acceptation.
 
 Par dérogation :
 
-– lorsqu'il s'agit d'un contrat manuscrit, la mention peut être reportée de façon manuscrite sur le contrat ;
+– lorsqu'il s'agit d'un contrat manuscrit, la mention prévue au premier alinéa du présent paragraphe 3.1 peut être reportée de façon manuscrite sur le contrat ;
 
 – la mention peut être ajoutée sur le contrat dactylographié ou manuscrit par le biais d'un tampon ou d'un autocollant. La mention ajoutée sur le contrat est datée et signée par le bénéficiaire des travaux à côté de cette mention : un contrat comportant ce type de mention comporte donc deux signatures du bénéficiaire et deux indications de la date de signature du contrat par le bénéficiaire.
 
@@ -132,7 +138,7 @@ L'engagement écrit du demandeur, le cas échéant représenté par un mandatair
 
 – l'identification des opérations d'économies d'énergie pour laquelle la contribution serait apportée ;
 
-– la mention de la nature précise de cette contribution ;
+– la mention de la nature précise de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique ;
 
 – l'identification du demandeur à l'origine de la contribution, via sa raison sociale ; et
 
@@ -143,8 +149,6 @@ L'engagement est daté et signé par le demandeur. Il est envoyé au bénéficia
 – la preuve de dépôt du courrier d'engagement prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux ; ou
 
 – un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
-
-Par dérogation, un engagement horodaté électroniquement mais dont l'horodatage électronique n'est pas fiable au sens du décret n° 2011-434 du 20 avril 2011 susvisé peut être utilisé afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
 
 L'engagement écrit du demandeur et la preuve d'envoi de cet engagement sont archivés par le demandeur.
 
@@ -158,7 +162,7 @@ Un contrat établi entre le demandeur et le bénéficiaire, le cas échéant rep
 
 – une référence au dispositif des certificats d'économies d'énergie ;
 
-– l'engagement du demandeur à apporter sa contribution dont il précise la nature. Lorsqu'il s'agit d'une aide financière, le montant en est précisé ou à défaut les modalités de son calcul sont jointes au contrat. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
+– l'engagement du demandeur à apporter sa contribution dont il précise la nature (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert) et sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique. Le contrat peut prévoir des clauses de révision du montant de la contribution ;
 
 – la description des opérations d'économies d'énergie qui entrent dans le champ du contrat ; et
 
@@ -184,9 +188,7 @@ Dans le cas où, en tant que personne morale, le bénéficiaire est représenté
 
 Les contrats et documents exigés peuvent être signés électroniquement, sous réserve du respect des conditions prévues par le décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique et des dispositions du décret n° 2011-434 du 20 avril 2011 susvisé, et des textes pris en application de ce décret.
 
-Par dérogation, les contrats établis électroniquement mais ne respectant pas les modalités prévues à l'alinéa précédent peuvent être utilisés afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
-
-Tous les contrats permettant de faire le lien entre le demandeur et le bénéficiaire sont archivés : contrat entre le demandeur et le bénéficiaire, contrats de mandat.
+Tous les contrats permettant de faire le lien entre le demandeur et le bénéficiaire sont archivés par le demandeur : contrat entre le demandeur et le bénéficiaire, contrats de mandat.
 
 3.4. Engagement écrit du partenaire du demandeur
 
@@ -194,7 +196,7 @@ L'engagement écrit d'un partenaire du demandeur à avoir incité directement le
 
 – l'identification des opérations d'économies d'énergie pour laquelle la contribution est apportée, et notamment le lieu de réalisation et la nature de l'opération ;
 
-– la mention de la nature de cette contribution, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
+– la mention de la nature de cette contribution (prime, bon d'achat, prêt bonifié, audit ou conseil personnalisé, produit ou service offert), sa valeur financière et le cas échéant les modalités de son calcul en cas de révision au regard d'une modification du volume de certificats d'économies d'énergie attaché à l'opération ou de la situation de précarité énergétique, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
 
 – l'identification du demandeur à l'origine de la contribution, via sa raison sociale ;
 
@@ -205,8 +207,6 @@ L'engagement écrit d'un partenaire du demandeur à avoir incité directement le
 L'engagement est daté et signé par le partenaire au plus tard à la date d'engagement de l'opération.
 
 Dans le cas d'un envoi par courrier au demandeur de l'engagement écrit du partenaire, la date de cet engagement est justifiée par la preuve de dépôt du courrier prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux. Dans tous les autres cas, la date de cet engagement est justifiée par un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
-
-Par dérogation, un engagement horodaté électroniquement mais dont l'horodatage électronique n'est pas fiable au sens de ce même décret peut être utilisé afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
 
 Le partenaire est lié par un contrat de partenariat au demandeur ou à son mandataire, le cas échéant par le biais de son propre mandataire.
 
@@ -234,9 +234,9 @@ L'engagement écrit du partenaire, la justification de la date de cet engagement
 
 Sauf dispositions particulières prévues par la fiche d'opération standardisée :
 
-– la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat. Elle est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
+– la date d'engagement de l'opération est la date d'acceptation du contrat de réalisation de l'opération par le bénéficiaire (par exemple : date d'acceptation du devis ou du bon de commande), matérialisée par la date de signature de ce contrat. Elle est justifiée par l'archivage par le demandeur du contrat de réalisation de l'opération accepté par le bénéficiaire, et attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 ;
 
-– la date d'achèvement de l'opération est la date d'émission de la facture de l'opération par le professionnel ayant mis en œuvre l'opération. La date d'achèvement de l'opération est justifiée par l'archivage de la facture de l'opération.
+– la date d'achèvement de l'opération est la date d'émission de la facture de l'opération par le professionnel ayant mis en œuvre l'opération. La date d'achèvement de l'opération est justifiée par l'archivage par le demandeur de la facture de l'opération.
 
 4.2. Bénéficiaire en tant que personne morale
 
@@ -268,7 +268,7 @@ Sauf dispositions particulières prévues par la fiche d'opération standardisé
 
 – lorsque la fiche d'opération standardisée relative à l'opération réalisée le prévoit spécifiquement, la date de la pièce justificative de la réalisation de l'opération prévue par la fiche d'opération standardisée.
 
-Sauf dispositions particulières prévues par la fiche d'opération standardisée, la date d'engagement est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7. Le document permettant de justifier la date d'achèvement de l'opération est archivé.
+Sauf dispositions particulières prévues par la fiche d'opération standardisée, la date d'engagement est attestée par le bénéficiaire et le professionnel sur l'attestation sur l'honneur définie à l'annexe 7 et, lorsque le bénéficiaire est un syndicat de copropriétaires, le document permettant de justifier de la date d'engagement est archivé par le demandeur. Le document permettant de justifier la date d'achèvement de l'opération est archivé par le demandeur.
 
 Les documents cités concernent l'opération prise isolément ou le marché intégrant cette opération lorsqu'elle fait partie d'un contrat de marché public ou privé.
 
@@ -308,7 +308,7 @@ Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'a
 
 8.1. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage en situation de précarité énergétique
 
-La situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie est justifiée par :
+La situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
 
 – le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
@@ -316,7 +316,7 @@ La situation de précarité énergétique du ménage selon l'article 3-1 de l'ar
 
 – pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
 
-La situation de grande précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie est justifiée par :
+La situation de grande précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
 
 – l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
@@ -364,15 +364,13 @@ Dans ce cas, le gestionnaire des logements concernés atteste sur l'honneur :
 
 Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
-II. Pour les ménages bénéficiant de l'opération mais non concernés par l'exemption prévue au I, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
+II. Pour les ménages bénéficiant de l'opération mais non concernés par l'exemption prévue au I, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
 
 Le bénéficiaire de l'opération établit la liste de ces ménages. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
-8.3. Copropriétés objet d'une opération programmée d'amélioration de l'habitat ou d'un plan de sauvegarde
+8.3. Copropriétés objet d'une subvention de l'Agence nationale de l'habitat
 
-Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie, les pièces justificatives sont :
-
-– la convention d'opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du code de la construction et de l'habitat et à l'article 6 de la loi n° 90-449 du 31 mai 1990 ou d'un plan de sauvegarde prévu à l'article L. 615-1 du code de la construction et de l'habitation, en vigueur à la date de référence définie par le point 8-1 ;
+Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, les pièces justificatives sont :
 
 – la décision de l'Agence nationale de l'habitat d'attribution d'une subvention au syndicat de copropriétaires ;
 
@@ -380,14 +378,20 @@ Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêt�
 
 – une attestation sur l'honneur du syndicat des copropriétaires bénéficiaire de l'opération, précisant que la copropriété respecte les conditions prévues au V de l'article 3-1 de l'arrêté du 29 décembre 2014 précité. Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
-8.4. Autres opérations
+8.4. Cas où l'opération concerne un quartier prioritaire de la politique de la ville
 
-Pour les opérations n'entrant pas dans le cadre des points 8-1,8-2 et 8-3 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
+Dans le cas où les fractions considérées comme ayant été réalisées au bénéfice de ménages en situation de précarité énergétique et grande précarité énergétique sont déterminées conformément au VI de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, les documents justificatifs mentionnés au 8.1 sont remplacés par l'attestation sur l'honneur prévue dans la partie QPV de l'annexe 7, signée par le demandeur.
+
+Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+
+8.5. Autres opérations
+
+Pour les opérations n'entrant pas dans le cadre des paragraphes 8.1, 8.2, 8.3 et 8.4 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au paragraphe 8.1.
 
 Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 20 octobre 2016, ces dispositions sont applicables aux opérations d'économie d'énergie engagées à compter du 1er janvier 2017.
-
 Conformément au II de l'article 2 du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique, les références au décret n° 2001-272 du 30 mars 2001, contenues dans des dispositions de nature réglementaire, sont remplacées par les références à ce même décret n° 2017-1416 du 28 septembre 2017.
+
+Conformément à l'article 31 de l'arrêté du 29 décembre 2017, ces dispositions sont applicables aux opérations d'économie d'énergie engagées à compter du 1er janvier 2018.
