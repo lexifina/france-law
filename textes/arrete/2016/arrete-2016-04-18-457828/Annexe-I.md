@@ -36,6 +36,6 @@ Satisfaire aux conditions du 1° à 2° et du 4° à 8° de l'article 3 et :
 
 . 5 être titulaire d'une attestation de maîtrise linguistique certifiée de l'anglais d'au moins un niveau B1 du Cadre européen commun de référence pour les langues (CECR), et
 
-. 6 avoir effectué 36 mois de navigation dans le service pont en qualité d'officier breveté, dont douze mois au moins en qualité de capitaine sur des navires de jauge brute égale ou supérieure à 200 ou bien de chef de quart passerelle ou second capitaine sur des navires de jauge brute égale ou supérieure à 500 ; cette navigation peut indifféremment avoir eu lieu sur des navires armés au commerce ou sur des navires de plaisance armés avec un rôle d'équipage.
+. 6 avoir effectué 36 mois de navigation dans le service pont en qualité d'officier breveté, dont douze mois au moins en qualité de capitaine sur des navires de jauge brute égale ou supérieure à 200 ou bien de chef de quart passerelle ou second capitaine sur des navires de jauge brute égale ou supérieure à 500 ; cette navigation peut indifféremment avoir eu lieu sur des navires armés au commerce ou sur des navires de plaisance armés avec un permis d'armement.
 
 |

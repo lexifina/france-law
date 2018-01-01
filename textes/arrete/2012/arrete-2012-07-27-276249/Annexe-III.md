@@ -28,4 +28,4 @@ Un archivage des copies et résultats des différentes sessions est assuré par 
 
 (1) Convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille, Convention on Standards of Training, Certification and Watchkeeping for Seafarers (dite convention STCW).
 
-(2) Décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage.
+(2) Décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement.

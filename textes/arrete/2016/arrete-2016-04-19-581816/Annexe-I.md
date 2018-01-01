@@ -14,7 +14,7 @@ Le tableau 4 ci-dessous précise les diplômes, ensembles d'attestations et brev
 
 Le tableau 5 ci-dessous précise les brevets reconnus pour la délivrance du brevet de chef mécanicien et les conditions complémentaires à satisfaire à cet effet.
 
-Tableau 1. - Brevets reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de chef mécanicien en application du 2.3 de l'article 5
+Tableau 1.-Brevets reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de chef mécanicien en application du 2.3 de l'article 5
 
 BREVET DÉTENU
 
@@ -28,7 +28,7 @@ CONDITIONS COMPLÉMENTAIRES
 
 (2) |
 
-1. Brevet de chef de quart machine sans limitation de prérogatives délivré conformément à l'arrêté du 30 août 2005 relatif à la délivrance du brevet de chef de quart machine ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de chef de quart machine sans limitation de prérogatives délivré conformément à l'arrêté du 30 août 2005 relatif à la délivrance du brevet de chef de quart machine ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Satisfaire aux conditions fixées aux 1° et 3° de l'article 5. |
 
@@ -36,7 +36,7 @@ Satisfaire aux conditions fixées aux 1° et 3° de l'article 5. |
 
 3. Brevet de chef de quart de navire de mer délivré conformément à l'arrêté du 29 août 2005 relatif à la délivrance du brevet de chef de quart de navire de mer. |
 
-Tableau 2. - Brevets ou diplômes reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de chef mécanicien en application du 3.2 de l'article 5
+Tableau 2.-Brevets ou diplômes reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de chef mécanicien en application du 3.2 de l'article 5
 
 BREVET OU DIPLÔME DÉTENU
 
@@ -50,7 +50,7 @@ CONDITIONS COMPLÉMENTAIRES
 
 (2) |
 
-1. Brevet de chef mécanicien 8 000 kW délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien limité à 8 000 kW et du brevet de chef mécanicien limité à 8 000 kW ou d'un brevet de chef mécanicien limité à 7 500 kW conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de chef mécanicien 8 000 kW délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien limité à 8 000 kW et du brevet de chef mécanicien limité à 8 000 kW ou d'un brevet de chef mécanicien limité à 7 500 kW conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Satisfaire aux conditions fixées aux 1° et 2° de l'article 5 et avoir accompli un service en mer d'au moins trente-six mois au service machine conformément aux dispositions des articles 2 à 6 de l'arrêté du 10 août 2015 susvisé. |
 
@@ -58,7 +58,7 @@ Satisfaire aux conditions fixées aux 1° et 2° de l'article 5 et avoir accompl
 
 Satisfaire aux conditions fixées aux 1° et 2° de l'article 5. |
 
-Tableau 3. - Brevets reconnus pour la délivrance du brevet de second mécanicien en application du 3.3 de l'article 10
+Tableau 3.-Brevets reconnus pour la délivrance du brevet de second mécanicien en application du 3.3 de l'article 10
 
 BREVET DÉTENU
 
@@ -72,7 +72,7 @@ CONDITIONS COMPLÉMENTAIRES
 
 (2) |
 
-1. Brevet de chef de quart machine sans limitation de prérogatives délivré conformément à l'arrêté du 30 août 2005 relatif à la délivrance du brevet de chef de quart machine ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de chef de quart machine sans limitation de prérogatives délivré conformément à l'arrêté du 30 août 2005 relatif à la délivrance du brevet de chef de quart machine ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 9° de l'article 10. |
 
@@ -80,19 +80,19 @@ Satisfaire aux conditions fixées aux 1°, 2° et 4° à 9° de l'article 10. |
 
 3. Brevet de chef de quart de navire de mer délivré conformément à l'arrêté du 29 août 2005 relatif à la délivrance du brevet de chef de quart de navire de mer. |
 
-4. Brevet de chef mécanicien 8 000 kW délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien limité à 8 000 kW et du brevet de chef mécanicien limité à 8 000 kW ou brevet de chef mécanicien limité à 7 500 kW conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+4. Brevet de chef mécanicien 8 000 kW délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien limité à 8 000 kW et du brevet de chef mécanicien limité à 8 000 kW ou brevet de chef mécanicien limité à 7 500 kW conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 9° de l'article 10 et :
 
-- soit avoir accompli un service en mer d'au moins trente-six mois au service machine conformément aux dispositions des articles 2 à 6 de l'arrêté du 10 août 2015 susvisé ;
+-soit avoir accompli un service en mer d'au moins trente-six mois au service machine conformément aux dispositions des articles 2 à 6 de l'arrêté du 10 août 2015 susvisé ;
 
-- soit être titulaire d'un brevet d'officier chef du quart machine ou de chef de quart machine en cours de validité. |
+-soit être titulaire d'un brevet d'officier chef du quart machine ou de chef de quart machine en cours de validité. |
 
 5. Brevet de capitaine de 2e classe de la navigation maritime délivré conformément au décret n° 85-379 du 27 mars 1985 relatif à la délivrance des titres de formation professionnelle maritime ou au décret n° 91-1187 du 20 novembre 1991 relatif à la délivrance des titres de formation professionnelle maritime |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 8° de l'article 10 et être titulaire du brevet d'officier chef de quart machine ou du brevet de chef de quart machine, sans limitation de prérogatives et en cours de validité. |
 
-Tableau 4. - Diplômes, ensemble d'attestations ou brevets reconnus pour la délivrance du brevet de second mécanicien en application du 4.3 de l'article 10
+Tableau 4.-Diplômes, ensemble d'attestations ou brevets reconnus pour la délivrance du brevet de second mécanicien en application du 4.3 de l'article 10
 
 DIPLÔME, ENSEMBLE D'ATTESTATIONS OU BREVET DÉTENU
 
@@ -142,7 +142,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 8° de l'article 10, 
 
 5. Brevet de capitaine de 2e classe de la navigation maritime délivré conformément au décret n° 85-379 du 27 mars 1985 relatif à la délivrance des titres de formation professionnelle maritime ou au décret n° 91-1187 du 20 novembre 1991 relatif à la délivrance des titres de formation professionnelle maritime. |
 
-Tableau 5. - Brevets reconnus pour la délivrance du brevet de chef mécanicien en application du 3.3 de l'article 13
+Tableau 5.-Brevets reconnus pour la délivrance du brevet de chef mécanicien en application du 3.3 de l'article 13
 
 BREVET DÉTENU
 
@@ -158,7 +158,7 @@ pour la délivrance du brevet de chef mécanicien |
 
 (2) |
 
-1. Brevet de second mécanicien délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien et du brevet de chef mécanicien ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+1. Brevet de second mécanicien délivré conformément à l'arrêté du 2 juin 2008 relatif à la délivrance du brevet de second mécanicien et du brevet de chef mécanicien ou conformément aux dispositions de l'article 73 du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Satisfaire aux conditions fixées aux 1°, 2° et 4° à 8° de l'article 13, et :
 

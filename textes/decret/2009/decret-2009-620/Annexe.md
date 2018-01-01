@@ -196,7 +196,7 @@ Commission d'équivalence pour la délivrance des titres de formation profession
 
 |
 
-Décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage. |
+Décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement. |
 
 Commission des conservatoires botaniques nationaux. |
 
