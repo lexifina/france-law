@@ -1,0 +1,195 @@
+# Article 1er
+
+La section 5 du chapitre XI de la CCN référencée ci-dessus, intitulée « Cœur de métier, correspondance niveaux Éducation nationale/ Certifications » est désormais rédigé comme suit :
+
+(Annule et remplace la précédente section 5 telle qu'elle résultait de l'avenant n° 52 du 30 juin 2010).
+
+Cette liste vise à répertorier les principales certifications existantes ou ayant existé. Les certifications non listées doivent être mises en relation avec le tableau ci-dessous afin de déterminer leur niveau Éducation nationale. En cas de doute, il est préconisé de prendre contact avec l'organisme ayant délivré le titre (ou certification).
+
+Niveaux
+
+Éducation nationale |
+
+Titres/ certifications |
+
+|
+
+Diplômes |
+
+Ministère de l'emploi |
+
+Certificats de qualification professionnelle |
+
+Commission nationale paritaire de l'emploi et de la formation professionnelle |
+
+Niveau V |
+
+Nouvelle dénomination :
+
+CAP – installateur/ (trice) froid et conditionnement de l'air
+
+Ancienne dénomination :
+
+CAP – froid et climatisation
+
+BEP des techniques du froid et du conditionnement d'air
+
+BEP équipements techniques énergie (ETE) dominante froid et climatisation
+
+BEP monteur/
+
+dépanneur/ (euse) en froid et climatisation |
+
+Nouvelle dénomination :
+
+titre professionnel (TP) d'agent de maintenance en chauffage, ventilation et climatisation (0)
+
+Ancienne dénomination :
+
+titre professionnel (TP) ou certificat de formation professionnelle (CFP)
+
+CFP agent de maintenance et d'exploitation en conditionnement de l'air (0)
+
+TP agent de maintenance en conditionnement de l'air (0)
+
+Titre professionnel (TP)
+
+monteur dépanneur/ (euse) frigoriste
+
+TP monteur-dépanneur/ (euse) en climatisation |
+
+|
+
+|
+
+Niveau IV |
+
+Nouvelle dénomination :
+
+brevet professionnel – installateur/ (trice) dépanneur/ (euse) en froid et conditionnement de l'air (1)
+
+BAC PRO – technicien/ (ne) du froid et du conditionnement de l'air
+
+BAC PRO – technicien/ (ne) en installation des systèmes énergétiques et climatiques (2)
+
+BAC PRO – technicien/ (ne) de maintenance des systèmes énergétiques et climatiques (3)
+
+Ancienne dénomination :
+
+brevet professionnel monteur/ dépanneur/ (euse) en froid et climatisation (1)
+
+BAC PRO – énergétique
+
+option A : installation et mise en œuvre des systèmes (2) énergétiques et climatiques
+
+BAC PRO – énergétique
+
+Option B : Gestion et maintenance des systèmes énergétiques et climatiques (3)
+
+BAC PRO – maintenance des appareils et équipements ménagers et de collectivités |
+
+Nouvelle dénomination :
+
+TP – Technicien/ (ne) d'intervention en froid et équipements de cuisines professionnelles (4)
+
+TP – Technicien/ (ne) d'intervention en froid commercial et climatisation (5)
+
+TP – technicien/ (ne) de maintenance en chauffage, ventilation et climatisation (6)
+
+TP – technicien/ (ne) de maintenance d'équipements de chauffage, de climatisation et d'énergies renouvelables (7)
+
+TP – technicien/ (ne) de maintenance en multimédia et électrodomestique (8)
+
+Ancienne dénomination :
+
+TP – technicien/ (ne) d'intervention en équipements de cuisines professionnelles (4)
+
+TP – technicien/ (ne) d'intervention en froid commercial et climatisation (5)
+
+CFP – technicien/ (ne) d'intervention et de maintenance en conditionnement d'air (6)
+
+TP – technicien/ (ne) d'intervention et de maintenance énergétique en conditionnement d'air (6)
+
+TP – technicien/ (ne) de maintenance en chauffage et en climatisation (7)
+
+TP – technicien/ (ne) de maintenance en appareil électroménager (8)
+
+TP – technicien/ (ne) d'intervention en froid industriel |
+
+Accord 15 mai 1991 : CQP carrier/ La Châtaigneraie, monteur dépanneur/ (euse) d'équipements frigorifiques de transport
+
+PV n° 10 : CQP Carrier/ La Châtaigneraie monteur dépanneur/ (euse) d'équipements frigorifiques de transport |
+
+PV n° 11 : titre GRETA pays de Rance/ La Fontaine des eaux Technicien/ (ne) d'intervention sur les appareils d'équipements ménagers et de collectivités
+
+PV n° 12 : titre centre des formations industrielles technicien/ (ne) en maintenance des installations frigorifiques ou en froid et grandes cuisines |
+
+Niveau III |
+
+Nouvelle dénomination :
+
+BTS – fluides énergies domotique (FED),
+
+option : froid et conditionnement de l'air
+
+Ancienne dénomination :
+
+BTS – fluides, énergie, environnement (FEE)
+
+option B : génie climatique, option C : génie frigorifique,
+
+option D : maintenance et gestion des systèmes fluidiques et énergétiques.
+
+BTS – équipements techniques énergie (ETE)
+
+option C : froid et climatisation
+
+BTS – froid et climatisation
+
+DUT – génie thermique et énergie |
+
+Nouvelle dénomination :
+
+TP – technicien/ (ne) supérieur de maintenance et exploitation climatique
+
+Ancienne dénomination :
+
+TP – technicien/ (ne) supérieur de maintenance en conditionnement d'air |
+
+|
+
+PV n° 6 : titre école La Mache à Lyon ingénierie et conduite d'affaires
+
+PV n° 8 : titre école La Mache à Lyon vendeur/ (euse)/ négociateur/ (trice) international
+
+PV n° 9 : titre IRECO/ GRETA sud Isère concepteur/ (trice) en ingénierie de restauration dans les entreprises de cuisines professionnelles
+
+PV n° 14 : titre CNAM/ Lycée La Fontaine des eaux frigoriste chargé (e) d'études et de climatisation |
+
+Niveau II |
+
+Ancienne dénomination :
+
+DSFI – diplôme supérieur du froid Industriel (IFFI. – CNAM) (9)
+
+Licence professionnelle énergie et génie climatique, option froid, climatisation et contrôle de service
+
+Pour les autres licences, voir la liste en annexe |
+
+|
+
+|
+
+Nouvelle dénomination :
+
+Titre – responsable de conception, mise en place et maintenance des installations frigorifiques et climatiques (IFFI. – CNAM) (9) |
+
+Niveau I |
+
+Diplôme de spécialisation ingénieur en génies frigorifique et climatique (IFFI) |
+
+|
+
+|
+
+|
