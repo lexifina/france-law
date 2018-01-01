@@ -30,7 +30,7 @@ Modalités d'évaluation
 
 1. Contrôle en cours de formation
 
-L'épreuve comporte une situation d'évaluation dont la mise en place intervient au plus tôt en fin de seconde professionnelle et de préférence avant la fin du premier semestre de la classe de première professionnelle.Le moment de la situation d'évaluation est choisi par les professeurs (ou formateurs) dès lors qu'ils estiment que le candidat est prêt à être évalué. Est considéré comme prêt un candidat ayant référencé dans son passeport professionnel au minimum neuf activités professionnelles distinctes, soit trois activités professionnelles à dominante technique, trois activités professionnelles à dominante organisationnelle et 3 activités professionnelles à dominante relationnelle.
+L'épreuve comporte une situation d'évaluation dont la mise en place intervient en classe de première professionnelle. Le moment de la situation d'évaluation est choisi par les professeurs (ou formateurs) dès lors qu'ils estiment que le candidat est prêt à être évalué. Est considéré comme prêt un candidat ayant référencé dans son passeport professionnel au minimum neuf activités professionnelles distinctes, soit trois activités professionnelles à dominante technique, trois activités professionnelles à dominante organisationnelle et 3 activités professionnelles à dominante relationnelle.
 
 Situation d'évaluation
 
@@ -114,7 +114,7 @@ Modalités d'évaluation
 
 Durée : 20 minutes maximum
 
-L'épreuve comporte une seule situation d'évaluation mise en place après six semaines de période de formation en milieu professionnel. Elle porte intégralement sur les activités professionnelles réalisées lors des périodes de formation en milieu professionnel.
+L'épreuve comporte une situation d'évaluation mise en place au cours de la classe de première professionnelle. Elle porte intégralement sur les activités professionnelles réalisées lors des périodes de formation en milieu professionnel.
 
 L'évaluation a lieu dans l'établissement (ou le centre de formation) du candidat. Celui-ci est interrogé par deux professeurs (ou formateurs) chargés des enseignements professionnels de spécialité.
 

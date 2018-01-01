@@ -210,7 +210,7 @@ Cette situation permet d'évaluer les compétences : C112, C412, C42, C46, C61.
 
 L'évaluation est réalisée par le tuteur sur l'ensemble de la période de formation en milieu professionnel. Le bilan de cette période est réalisé conjointement entre le tuteur et un professeur de l'enseignement professionnel.
 
-Elle a lieu de préférence entre la fin de la seconde professionnelle et la fin du premier semestre de l'année de première.
+Elle a lieu au cours de l'année de première professionnelle.
 
 PREVENTION - SANTE - ENVIRONNEMENT : Coefficient 1
 
