@@ -1292,6 +1292,14 @@ Nomination de membres de la commission administrative et décisions de tutelle s
 
 |
 
+Décret n° 62-261 du 10 mars 1962 relatif aux mesures prises pour l'accueil et le reclassement professionnel et social des bénéficiaires de la loi du 26 décembre 1961
+
+1 |
+
+Inscriptions sur les listes professionnelles prévues par le décret n° 62-261 du 10 mars 1962 modifié, relatif aux mesures prises pour l'accueil et le reclassement professionnel et social des bénéficiaires de la loi du 26 décembre 1961 |
+
+Art. 25 et 26 |
+
 Décret n° 64-1255 du 11 décembre 1964 portant règlement d'administration publique pour l'application de l'article L. 751 du code de la santé publique en ce qui concerne les industries d'embouteillage d'eau minérale
 
 1
@@ -1483,32 +1491,6 @@ Habilitation des centres de vaccination contre la fièvre jaune.
 |
 
 Art. 66 (4°) du règlement sanitaire international.
-
-|
-
-Décret n° 91-86 du 22 janvier 1991 relatif à l'organisation administrative et aux compétences en matière d'accueil et de reclassement des rapatriés
-
-1
-
-|
-
-Reconnaissance de la qualité de rapatrié.
-
-|
-
-Art. 2.
-
-|
-
-2
-
-|
-
-Inscriptions sur les listes professionnelles prévues par le décret n° 62-261 du 10 mars 1962 modifié, relatif aux mesures prises pour l'accueil et le reclassement professionnel et social des bénéficiaires de la loi du 26 décembre 1961 (art. 25 et 26).
-
-|
-
-Art. 2.
 
 |
 
