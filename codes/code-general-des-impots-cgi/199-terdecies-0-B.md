@@ -12,7 +12,7 @@ b) Les parts ou actions acquises dans le cadre de l'opération de reprise mentio
 
 2° Ou, lorsque l'acquéreur est un salarié, les autres salariés de cette même société ;
 
-c) A compter de l'acquisition, l'acquéreur ou l'un des autres associés mentionnés au b exerce effectivement dans la société reprise l'une des fonctions énumérées au 1° de l'article 885 O bis et dans les conditions qui y sont prévues ;
+c) A compter de l'acquisition, l'acquéreur ou l'un des autres associés mentionnés au b exerce effectivement dans la société reprise l'une des fonctions énumérées au 1° du 1 du III de l'article 975 et dans les conditions qui y sont prévues ;
 
 d) La société reprise a son siège social dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et est soumise à l'impôt sur les sociétés dans les conditions de droit commun ou y serait soumise dans les mêmes conditions si l'activité était exercée en France ;
 
@@ -24,7 +24,7 @@ La condition mentionnée au e s'apprécie à la date à laquelle le seuil de 25 
 
 II. – Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 20 000 € pour les contribuables célibataires, veufs ou divorcés et de 40 000 € pour les contribuables mariés soumis à imposition commune.
 
-III. – La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du code du travail, ni la fraction des versements effectués au titre de souscriptions ayant ouvert droit à la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis.
+III. – La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du code du travail, ni la fraction des versements effectués au titre de souscriptions ayant ouvert droit à la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A.
 
 Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues, au titre des frais réels et justifiés, au 3° de l'article 83.
 
@@ -46,4 +46,4 @@ VIII. – Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 dé
 
 NOTA :
 
-Conformément à l'article 26 XI 5 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article 199 terdecies-0 B, dans leur rédaction issue de la présente loi, s'appliquent aux emprunts contractés à compter du 1er janvier 2017.
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 199 terdecies-0 B résultant des dispositions du 11° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.

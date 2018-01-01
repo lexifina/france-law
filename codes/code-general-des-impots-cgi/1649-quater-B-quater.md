@@ -28,8 +28,28 @@ IV. – Les déclarations de cotisation sur la valeur ajoutée des entreprises s
 
 V. – L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
 
-VI. ― Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dernier alinéas du I et par les sociétés dont le nombre d'associés est supérieur ou égal à 100.
+VI. – Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dernier alinéas du I et par les sociétés dont le nombre d'associés est supérieur ou égal à 100.
+
+VII. – Les déclarations ou relevés mentionnés aux 1 et 3 du III de l'article 302 D, au deuxième alinéa du I de l'article 302 H ter, au deuxième alinéa du II de l'article 520 A, au deuxième alinéa de l'article 575 C et aux articles 568, 1618 septies et 1619 ainsi que les déclarations relatives à l'impôt sur les cercles et maisons de jeux prévu à l'article 1559 sont souscrits par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent ces déclarations ou relevés sur papier.
+
+VIII. – Les redevables mentionnés au II de l'article 117 quater et au I de l'article 125 A souscrivent leurs déclarations par voie électronique lorsqu'ils sont uniquement redevables des prélèvements mentionnés :
+
+1° A l'article 117 quater ;
+
+2° A l'article 125 A, sur les intérêts de comptes courants et sur les intérêts versés au titre des sommes mises à la disposition de la société dont les personnes physiques sont associées ou actionnaires et portées sur un compte bloqué individuel et sur les intérêts dus par les offices notariaux au titre des produits de compte de consignation, de dépôt spécifique et de titres consignés ;
+
+3° A l'article L. 138-21 du code de la sécurité sociale, opérés sur les revenus soumis aux prélèvements mentionnés aux 1° et 2° du présent VIII.
+
+IX. – Les redevables des prélèvements et retenues à la source prévus aux articles 117 quater, 119 bis, 125-0 A, 125 A et 1678 bis du présent code et à l'article L. 138-21 du code de la sécurité sociale souscrivent leurs déclarations par voie électronique.
+
+X. – Les déclarations relatives à la retenue à la source mentionnée à l'article 1673 bis sont souscrites par voie électronique.
+
+XI. – La déclaration récapitulative de réductions et crédits d'impôts prévue en matière d'impôt sur les sociétés, de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles est souscrite par voie électronique.
 
 NOTA :
 
-(1) Conformément à la loi n° 2011-1978 du 28 décembre 2011, article 53-I, C-3° : A compter du 1er octobre 2014, au premier alinéa du III, après le mot "électronique", la fin du premier alinéa est supprimée et le second alinéa est supprimé.
+Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, le VII de l'article 1649 quater B quater du code général des impôts s'applique à compter d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.
+
+Conformément à l'article 15 III B de la loi n° 2016-1918 du 29 décembre 2016, le IX de l'article 1649 quater B quater du code général des impôts s'applique à compter d'une date fixée par décret et au plus tard à compter du 31 décembre 2019.
+
+Le I de l'article 2 du décret n° 2018-756 du 28 août 2018 fixe la date d'application du IX dudit article aux déclarations souscrites au titre des revenus distribués à compter du 1er septembre 2018.

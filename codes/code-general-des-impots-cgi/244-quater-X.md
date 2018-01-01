@@ -26,9 +26,9 @@ a) Le contrat de crédit-bail est conclu pour une durée au moins égale à cinq
 
 b) L'organisme mentionné au premier alinéa du 1 aurait pu bénéficier du crédit d'impôt prévu au même 1 s'il avait acquis directement le bien.
 
-3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs.
+3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
 
-4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique.
+4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique.
 
 II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
 
@@ -78,4 +78,4 @@ IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect
 
 NOTA :
 
-Conformément au II de l'article 106 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du d et du e du 1 du I du présent article, dans leur rédaction issue du I du même article de la même loi, s'appliquent aux opérations d'acquisition et de construction dont le fait générateur, pour l'application du crédit d'impôt mentionné au même I, intervient à compter du 31 mai 2016 et qui, à cette date, n'ont pas obtenu l'agrément prévu au VI de l'article 244 quater X du code général des impôts.
+Conformément à l'article 82 II de la loi n° 2017-1837 du 30 décembre 2017, les présentes dispositions s'appliquent à compter de l'imposition des revenus de l'année 2018.

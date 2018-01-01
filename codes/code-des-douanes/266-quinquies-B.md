@@ -38,39 +38,37 @@ c) Dans un procédé de fabrication de produits minéraux non métalliques, clas
 
 6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
 
-DÉSIGNATION DES PRODUITS
+Désignation des produits |
 
-|
+Unité de perception |
 
-UNITÉ DE PERCEPTION
+Tarif (en euros) |
 
-|
+2018 |
 
-TARIF
+2019 |
 
-|
+2020 |
 
-2016
+2021 |
 
-|
+A compter de 2022 |
 
-2017
+2701,2702 et 2704
 
-|
+houilles, lignites et cokes destinés à être utilisés comme combustibles |
 
-2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme combustibles
+Mégawattheure |
 
-|
+14,62 |
 
-Mégawattheure
+18,02 |
 
-|
+21,43 |
 
-7,21
+24,84 |
 
-|
-
-9,99 |
+28,25 |
 
 Le montant de la taxe est arrondi à l'euro le plus proche.
 
@@ -98,4 +96,4 @@ La déclaration d'acquittement peut être effectuée par voie électronique ;
 
 NOTA :
 
-Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article 266 quinquies B tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil suivant la promulgation de ladite loi.
+Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.

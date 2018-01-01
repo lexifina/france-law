@@ -62,9 +62,11 @@ b) Et, d'autre part :
 
 Pour l'application du présent 7, la période retenue pour le chiffre d'affaires est la même que celle retenue pour la valeur ajoutée.
 
-I bis. ― Pour les mutuelles et unions régies par le livre III du code de la mutualité, les produits et les charges ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en totalité à partir de 2015 (1).
+I bis. ― Pour les mutuelles et unions régies par le livre III du code de la mutualité, les produits et les charges ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en totalité à partir de 2015.
 
 II. – Par exception au I, les produits et les charges mentionnés au même I et se rapportant à une activité de location ou de sous-location d'immeubles nus réputée exercée à titre professionnel au sens de l'article 1447 ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en 2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018.
+
+II bis. – Pour les entreprises soumises au régime d'imposition défini au 1 de l'article 50-0, la valeur ajoutée est calculée selon les modalités prévues au a du I de l'article 1647 B sexies (1).
 
 III. – Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier :
 
@@ -178,10 +180,10 @@ Ne sont toutefois pas déductibles de la valeur ajoutée :
 
 – les dotations aux provisions autres que les provisions techniques.
 
-c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa du présent VI, les produits et les charges ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en totalité à partir de 2015 (1).
+c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa du présent VI, les produits et les charges ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en totalité à partir de 2015.
 
 VII. – Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
 
 NOTA :
 
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 17 II : Ces dispositions s'appliquent aux exercices clos à compter du 4 juillet 2012 .
+(1) Conformément à l'article 22 III de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent à compter de la cotisation sur la valeur ajoutée des entreprises due au titre de 2017.

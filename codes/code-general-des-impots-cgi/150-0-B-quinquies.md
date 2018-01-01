@@ -1,6 +1,6 @@
 # Article 150-0 B quinquies
 
-I. – En cas de retrait de liquidités d'un compte défini à l'article L. 221-32-4 du code monétaire et financier, le gain net mentionné au 2 ter du II de l'article 150-0 A du présent code est constitué par le solde des distributions mentionnées aux 7 et 7 bis du même II et au 1 du II de l'article 163 quinquies C perçues dans le compte ainsi que des plus-values et des moins-values constatées lors d'opérations réalisées dans le compte, retenues pour leur montant brut avant application, le cas échéant, des abattements mentionnés au 1 de l'article 150-0 D ou à l'article 150-0 D ter. Lorsque ce gain net est supérieur au montant du retrait, il est retenu dans la limite de ce montant et le solde reste imposable dans le compte.
+I. – En cas de retrait de liquidités d'un compte défini à l'article L. 221-32-4 du code monétaire et financier, le gain net mentionné au 2 ter du II de l'article 150-0 A du présent code est constitué par le solde des distributions mentionnées aux 7 et 7 bis du même II et au 1 du II de l'article 163 quinquies C perçues dans le compte ainsi que des plus-values et des moins-values constatées lors d'opérations réalisées dans le compte, retenues pour leur montant brut avant application, le cas échéant, des abattements mentionnés aux 1 ter ou 1 quater de l'article 150-0 D ou à l'article 150-0 D ter dans leur rédaction en vigueur à la date de perception ou de réalisation desdites distributions ou plus-values. Lorsque ce gain net est supérieur au montant du retrait, il est retenu dans la limite de ce montant et le solde reste imposable dans le compte.
 
 Toutefois, pour la détermination du gain net mentionné au premier alinéa, il n'est pas tenu compte des mêmes distributions et plus-values et moins-values lorsqu'elles sont perçues ou réalisées dans les conditions prévues aux 1 ou 1 bis du III de l'article 150-0 A, à l'article 163 quinquies B ou au 2 du II de l'article 163 quinquies C.
 
@@ -8,7 +8,9 @@ Les plus-values et moins-values mentionnées au premier alinéa du présent I so
 
 Toutefois, par dérogation au 11 du même article 150-0 D, les moins-values sont imputables, sans limitation de délai, en priorité sur les plus-values des années antérieures les plus anciennes puis sur les plus-values de l'année et des années suivantes afférentes aux titres souscrits aux dates les plus anciennes.
 
-En cas de solde positif, le gain net mentionné au premier alinéa, pour lequel l'imposition est établie, est réduit des abattements mentionnés au 1 du même article 150-0 D ou à l'article 150-0 D ter. Pour l'application de ces abattements, le gain net est ventilé entre les différents taux d'abattement selon la même répartition que l'ensemble des plus-values constatées dans le compte au jour du retrait avant imputation des moins-values.
+En cas de solde positif, le gain net mentionné au premier alinéa, pour lequel l'imposition est établie, est, le cas échéant, réduit des abattements mentionnés aux 1 ter ou 1 quater du même article 150-0 D ou à l'article 150-0 D ter dans les conditions prévues par ces mêmes articles dans leur rédaction en vigueur à la date de perception ou de réalisation desdites distributions ou plus-values. Pour l'application de ces abattements, le gain net est ventilé entre les différents taux d'abattement selon la même répartition que l'ensemble des plus-values constatées dans le compte au jour du retrait avant imputation des moins-values.
+
+Lorsque le gain net mentionné au cinquième alinéa est imposé dans les conditions prévues au 1 de l'article 200 A, il n'est pas fait application des abattements mentionnés aux 1 ter ou 1 quater de l'article 150-0 D.
 
 En cas de solde négatif, les liquidités retirées ne sont pas imposables. Les moins-values réalisées dans le compte, pour leur montant excédant les plus-values réalisées dans les mêmes conditions à la date du retrait, restent imputables dans le compte, dans les conditions prévues au présent I.
 
@@ -18,7 +20,7 @@ Le gain imposable est déterminé dans les conditions prévues au I.
 
 Lorsque le retrait porte sur des titres apportés dans les conditions prévues à l'article L. 221-32-5 du code monétaire et financier, aucune imposition n'est établie à raison de ce retrait.
 
-En cas de cession à titre onéreux ou de rachat de titres ayant fait l'objet d'un retrait du compte, le gain net est déterminé et imposé suivant les modalités de droit commun prévues aux articles 150-0 A à 150-0 D ter du présent code.
+En cas de cession à titre onéreux ou de rachat de titres ayant fait l'objet d'un retrait du compte, le gain net est déterminé et imposé suivant les modalités de droit commun prévues aux articles 150-0 A à 150-0 D ter et aux 1 ou 2 de l'article 200 A du présent code.
 
 III. – La clôture du compte entraîne le retrait de l'ensemble des actifs détenus sur le compte. Le gain de clôture est déterminé dans les conditions prévues aux I et II.
 

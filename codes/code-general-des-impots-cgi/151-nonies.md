@@ -28,7 +28,7 @@ Ces dispositions s'appliquent aux plus-values constatées à compter du 1er janv
 
 En cas de transmission à titre gratuit réalisée dans les conditions prévues au premier alinéa, la plus-value en report est définitivement exonérée lorsque, de manière continue pendant les cinq années suivant la transmission, les conditions suivantes sont respectées :
 
-1° Le ou les bénéficiaires de la transmission exercent l'une des fonctions énumérées au 1° de l'article 885 O bis et dans les conditions prévues au même 1° dans la société dont les parts ou actions ont été transmises ;
+1° Le ou les bénéficiaires de la transmission exercent l'une des fonctions énumérées au 1° du 1 du III de l'article 975 et dans les conditions prévues au même 1° dans la société dont les parts ou actions ont été transmises ;
 
 2° La société dont les parts ou actions ont été transmises poursuit son activité commerciale, industrielle, artisanale, libérale ou agricole.
 
@@ -57,3 +57,7 @@ b) En cas d'échange de droits ou parts, résultant d'une fusion ou d'une scissi
 V. – Les reports d'impositions mentionnés aux II, III et IV sont maintenus en cas d'échange de droits sociaux résultant d'une fusion ou d'une scission jusqu'à la date de cession, de rachat ou d'annulation des droits reçus lors de l'échange.
 
 VI. – Pour l'application des II à V, le ou les bénéficiaires du report d'imposition doivent joindre à la déclaration prévue à l'article 170 au titre de l'année au cours de laquelle les plus-values bénéficiant d'un report d'imposition sont réalisées et des années suivantes un état faisant apparaître les renseignements nécessaires au suivi des plus-values dont l'imposition est reportée. Un décret précise le contenu de cet état.
+
+NOTA :
+
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 151 nonies résultant des dispositions du 7° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.

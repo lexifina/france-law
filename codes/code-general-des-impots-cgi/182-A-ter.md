@@ -10,7 +10,7 @@ II. – 1. Lorsque le gain net de cession de titres souscrits en exercice de bon
 
 2. Dans les situations autres que celles mentionnées au 1, la base de la retenue à la source est constituée par le montant net des avantages accordés, déterminé conformément aux règles de droit commun applicables aux traitements et salaires, à l'exclusion de celles qui prévoient la déduction des frais professionnels réels.
 
-III. – 1. Lorsque le gain net de cession de titres souscrits en exercice de bons de souscription de parts de créateur d'entreprise bénéficie du régime prévu au I de l'article 163 bis G, les taux de la retenue à la source correspondent à ceux prévus par ce régime. La retenue à la source est alors libératoire de l'impôt sur le revenu.
+III. – 1. Lorsque le gain net de cession de titres souscrits en exercice de bons de souscription de parts de créateur d'entreprise bénéficie du régime prévu au I de l'article 163 bis G, le taux de la retenue à la source est de 12,8 % s'il est réalisé par une personne qui exerce son activité dans la société dans laquelle elle a bénéficié de l'attribution des bons depuis au moins trois ans à la date de la cession et de 30 % dans le cas contraire. La retenue à la source est alors libératoire de l'impôt sur le revenu.
 
 2. Dans les situations autres que celles mentionnées au 1, la retenue est calculée conformément au III de l'article 182 A et régularisée dans les conditions mentionnées aux articles 197 A et 197 B.
 

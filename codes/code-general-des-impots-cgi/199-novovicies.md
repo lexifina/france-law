@@ -1,18 +1,18 @@
 # Article 199 novovicies
 
-I. – A. – Les contribuables domiciliés en France, au sens de l'article 4 B, qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2017, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
+I. – A. – Les contribuables domiciliés en France, au sens de l'article 4 B, qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2021, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
 
 La réduction d'impôt s'applique, dans les mêmes conditions, lorsque l'immeuble est la propriété d'une société non soumise à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, à la condition que le porteur de parts s'engage à conserver la totalité de ses titres jusqu'à l'expiration de l'engagement de location mentionné au premier alinéa.
 
 B. – La réduction d'impôt s'applique également dans les mêmes conditions :
 
-1° Au logement que le contribuable fait construire et qui fait l'objet d'un dépôt de demande de permis de construire entre le 1er janvier 2013 et le 31 décembre 2017 ;
+1° Au logement que le contribuable fait construire et qui fait l'objet d'un dépôt de demande de permis de construire entre le 1er janvier 2013 et le 31 décembre 2021 ;
 
-2° Au logement que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2017 et qui fait ou qui a fait l'objet de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
+2° Au logement que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
-3° Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2017 et qui fait ou qui a fait l'objet de travaux de réhabilitation, définis par décret, permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ;
+3° Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de réhabilitation, définis par décret, permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ;
 
-4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2017 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
+4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
 C. – L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la signature de l'acte authentique d'acquisition, dans le cas d'un logement acquis en l'état futur d'achèvement, ou la date de l'obtention du permis de construire, dans le cas d'un logement que le contribuable fait construire.
 
@@ -38,13 +38,7 @@ III. – L'engagement de location mentionné au I doit prendre effet dans les do
 
 Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans des conditions définies par décret, par le représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux.
 
-IV. – La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre et la demande de logements entraînant des difficultés d'accès au logement sur le parc locatif existant.
-
-Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles mentionnées au premier alinéa, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des besoins particuliers en logement locatif qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation.
-
-Toutefois, pour les logements que le contribuable acquiert jusqu'au 30 juin 2013 ou fait construire et qui font l'objet d'un dépôt de demande de permis de construire jusqu'à cette date, la réduction d'impôt s'applique également aux logements situés dans l'ensemble des communes classées dans les zones géographiques mentionnées au deuxième alinéa.
-
-Dans les zones géographiques autres que celles mentionnées aux premier et deuxième alinéas, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des besoins particuliers en logement locatif liés à une dynamique démographique ou économique particulière, qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du représentant de l'Etat dans la région après avis conforme du comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation. (1)
+IV. – La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre et la demande de logements entraînant des difficultés d'accès au logement sur le parc locatif existant et aux logements situés dans des communes dont le territoire est couvert par un contrat de redynamisation de site de défense.
 
 V. – A. – La réduction d'impôt est calculée sur le prix de revient d'au plus deux logements, retenu dans la limite d'un plafond par mètre carré de surface habitable fixé par décret et sans pouvoir dépasser la limite de 300 000 € par contribuable et pour une même année d'imposition.
 
@@ -90,6 +84,10 @@ IX. – (Abrogé).
 
 X. – Le montant total des dépenses retenu pour l'application du présent article au titre, d'une part, de l'acquisition ou de la construction de logements et, d'autre part, de souscriptions de titres ne peut excéder globalement 300 000 € par contribuable et pour une même année d'imposition.
 
+X bis.-Le montant des frais et commissions directs et indirects imputés au titre d'une même acquisition de logement ouvrant droit à la réduction d'impôt prévue au présent article par les personnes physiques ou morales exerçant, au titre de l'acquisition, une activité de conseil ou de gestion au sens de l'article L. 321-1 du code monétaire et financier, un acte de démarchage au sens de l'article L. 341-1 du même code ou une activité d'intermédiation en biens divers au sens de l'article L. 550-1 dudit code ou qui se livrent ou prêtent leur concours à l'opération au sens de l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ne peut excéder un plafond exprimé en pourcentage du prix de revient et fixé par décret.
+
+Tout manquement à ces interdictions est passible d'une amende dont le montant ne peut excéder dix fois les frais indûment perçus.
+
 XI. – A. – La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient :
 
 1° La rupture de l'un des engagements mentionnés au I, au VII bis ou au VIII ;
@@ -112,10 +110,6 @@ b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une
 
 NOTA :
 
-Conformément au A du II de l'article 5 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, les dispositions de l'article 199 novovicies, dans leur rédaction issue de la présente loi, s'appliquent aux acquisitions, aux constructions et aux souscriptions réalisées à compter du 1er septembre 2014, à l'exception des dispositions du D du I résultant du c du 1° du I du même article 5 qui ne s'appliquent qu'à ceux de ces investissements réalisés à compter du 1er janvier 2015.
+Conformément aux dispositions du III de l'article 68 de la loi n° 2017-1837 du 30 décembre 2017, l'articles 199 novovicies dans sa rédaction résultant des dispositions du c du 1° du I dudit article 68 s'applique aux acquisitions de logements et, s'agissant des logements que le contribuable fait construire, aux dépôts de demande de permis de construire postérieurs au 31 décembre 2017.
 
-Conformément au B du II de l'article 5 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 pour l'application B du VIII de l'article 199 novovicies du code général des impôts, ces dispositions ne s'appliquent pas aux souscriptions dont la date de clôture est antérieure au 1er septembre 2014.
-
-Modifications effectuées en conséquence de l'article 33-3° de la loi n° 2014-366 du 24 mars 2014.
-
-(1) Loi n° 2016-1917 du 29 décembre 2016, art. 68 : Ces dispositions s'appliquent du 1er janvier au 31 décembre 2017 aux acquisitions de logements ou, s'agissant des logements que le contribuable fait construire, aux dépôts de demande de permis de construire, réalisés à compter de l'entrée en vigueur de l'agrément de la commune concernée.
+Toutefois, le même c ne s'applique pas aux acquisitions de logements ayant fait l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 31 décembre 2018..

@@ -1,22 +1,38 @@
 # Article 200 quater A
 
-1. Les contribuables propriétaires, locataires ou occupants à titre gratuit d'un logement situé en France, affecté à leur habitation principale, peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses d'installation ou de remplacement d'équipements spécialement conçus pour les personnes âgées ou handicapées :
+1. a. Les contribuables propriétaires, locataires ou occupants à titre gratuit d'un logement situé en France, affecté à leur habitation principale, peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses d'installation ou de remplacement d'équipements :
 
-1° Payés entre le 1er janvier 2005 et le 31 décembre 2017 dans le cadre de travaux réalisés dans un logement achevé ;
+1° Spécialement conçus pour l'accessibilité des logements aux personnes âgées ou handicapées ;
 
-2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2017 ;
+2° Ou permettant l'adaptation des logements à la perte d'autonomie ou au handicap, lorsque les conditions prévues au c sont satisfaites.
 
-3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2017.
+b. Pour ouvrir droit au crédit d'impôt, les équipements mentionnés au a doivent être :
 
-1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2017 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application de l'article L. 515-19 du même code.
+1° Payés entre le 1er janvier 2005 et le 31 décembre 2020 dans le cadre de travaux réalisés dans un logement achevé ;
 
-2. Un arrêté du ministre chargé du budget fixe la liste des équipements pour lesquels les dépenses d'installation ou de remplacement ouvrent droit à cet avantage fiscal.
+2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2020 ;
 
-3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° et 3° du 1, au titre de l'année d'achèvement du logement ou de son acquisition si elle est postérieure.
+3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2020.
 
-4. Pour un même logement, le montant des dépenses mentionnées au 1 ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2017, la somme de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+c. Pour les dépenses mentionnées au 2° du a, le crédit d'impôt s'applique à condition que le contribuable ou un membre de son foyer fiscal :
 
-4 bis. Pour un même logement, le montant des dépenses mentionnées au 1 bis ouvrant droit au crédit d'impôt ne peut excéder, pour la période du 1er janvier 2015 au 31 décembre 2017, la somme de 20 000 €. Lorsque plusieurs contribuables détiennent la propriété du même logement, cette somme est répartie par contribuable au prorata de leurs droits détenus sur ce logement.
+1° Remplisse, au titre d'une invalidité, l'une des conditions fixées aux c ou d du 1 de l'article 195 ;
+
+2° Ou soit titulaire de la carte “ mobilité inclusion ” au titre des 1°, 2° ou 3° du I de l'article L. 241-3 du code de l'action sociale et des familles ou de l'une des cartes mentionnées aux articles L. 241-3, L. 241-3-1 ou L. 241-3-2 du même code, dans sa rédaction antérieure à la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ;
+
+3° Ou souffre d'une perte d'autonomie entraînant son classement dans l'un des groupes 1 à 4 de la grille nationale mentionnée à l'article L. 232-2 du code de l'action sociale et des familles.
+
+La condition prévue au présent c est appréciée au 31 décembre de l'année du paiement de la dépense pour les dépenses réalisées dans les conditions du 1° du b, à la date d'acquisition du logement pour celles réalisées dans les conditions du 2° du même b ou à la date d'achèvement du logement pour celles réalisées dans les conditions du 3° dudit b.
+
+1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2020 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application de l'article L. 515-19 du même code.
+
+2. Un arrêté conjoint des ministres en charge du budget, des personnes handicapées et des personnes âgées fixe la liste des équipements mentionnés aux 1° et 2° du a du 1, pour lesquels les dépenses d'installation ou de remplacement ouvrent droit à cet avantage fiscal.
+
+3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° et 3° du b du 1, au titre de l'année d'achèvement du logement ou de son acquisition si elle est postérieure.
+
+4. Pour un même logement, le montant des dépenses mentionnées au 1 ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2020, la somme de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+
+4 bis. Pour un même logement, le montant des dépenses mentionnées au 1 bis ouvrant droit au crédit d'impôt ne peut excéder, pour la période du 1er janvier 2015 au 31 décembre 2020, la somme de 20 000 €. Lorsque plusieurs contribuables détiennent la propriété du même logement, cette somme est répartie par contribuable au prorata de leurs droits détenus sur ce logement.
 
 5. Le crédit d'impôt est égal à :
 
@@ -26,7 +42,7 @@ a bis. 40 % du montant des dépenses mentionnées au 1 bis.
 
 b. Abrogé
 
-6. Les travaux et les dépenses d'acquisition, d'installation ou de remplacement mentionnés aux 1 et 1 bis s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° du 1, des dépenses figurant sur une attestation fournie par le vendeur ou le constructeur du logement.
+6. Les travaux et les dépenses d'acquisition, d'installation ou de remplacement mentionnés aux 1 et 1 bis s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° du b du 1, des dépenses figurant sur une attestation fournie par le vendeur ou le constructeur du logement.
 
 Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, l'attestation mentionnée au premier alinéa du présent 6 ou les factures, autres que des factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements et travaux mentionnés aux 1 et 1 bis.
 
@@ -40,4 +56,4 @@ Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit
 
 NOTA :
 
-Conformément au III de l'article 73 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, les dispositions de l'article 200 quater A, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition des revenus de 2015.
+Conformément à l'article 81 II de la loi n° 2017-1837 du 30 décembre 2017, les présentes dispositions s'appliquent à compter de l'imposition des revenus de l'année 2018.

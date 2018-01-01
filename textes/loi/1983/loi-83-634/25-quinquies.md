@@ -14,7 +14,7 @@ III.-La déclaration de situation patrimoniale n'est ni versée au dossier du fo
 
 IV.-La Haute Autorité peut demander au fonctionnaire soumis au I du présent article toute explication nécessaire à l'exercice de sa mission de contrôle des déclarations de situation patrimoniale. En cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explication adressée par la Haute Autorité, cette dernière adresse à l'intéressé une injonction tendant à ce que la déclaration soit complétée ou que les explications lui soient transmises dans un délai d'un mois à compter de cette injonction.
 
-V.-La Haute Autorité peut demander au fonctionnaire soumis au I du présent article communication des déclarations qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.
+V.-La Haute Autorité peut demander au fonctionnaire soumis au I du présent article communication des déclarations qu'il a souscrites en application des articles 170 à 175 A du code général des impôts.
 
 Elle peut, si elle l'estime utile, demander les déclarations, mentionnées au premier alinéa du présent V, souscrites par le conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin de tout fonctionnaire soumis au I.
 
@@ -25,3 +25,7 @@ La Haute Autorité peut demander à l'administration fiscale d'exercer le droit 
 Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en œuvre les procédures d'assistance administrative internationale.
 
 Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité au titre des vérifications et contrôles qu'ils mettent en œuvre pour l'application du présent article.
+
+NOTA :
+
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 83 résultant des dispositions du VI du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit VI de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.

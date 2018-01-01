@@ -1,6 +1,6 @@
 # Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative :
 
@@ -10,7 +10,7 @@ b) Ou au stockage ou au traitement thermique de déchets dangereux,
 
 et non exclusivement utilisée pour les déchets que l'exploitant produit, ou toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
-2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
+2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
@@ -28,15 +28,13 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise po
 
 7. Alinéa abrogé ;
 
-8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement ;
-
-b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
+8. (Abrogé) ;
 
 9. Alinéa abrogé ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas :
+II. - La taxe ne s'applique pas :
 
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
@@ -46,7 +44,7 @@ II.-La taxe ne s'applique pas :
 
 1 quater. (Abrogé) ;
 
-1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par arrêté, entre la date de début de sinistre et cent vingt jours après la fin du sinistre. Les quantités non taxables font l'objet d'une comptabilité matière séparée ;
+1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par arrêté, entre la date de début de sinistre et jusqu'à deux cent quarante jours après la fin du sinistre. Les quantités non taxables font l'objet d'une comptabilité matière séparée ;
 
 1 sexies. Aux installations de co-incinération de déchets non dangereux pour les déchets non dangereux qu'elles réceptionnent ;
 
@@ -58,11 +56,11 @@ II.-La taxe ne s'applique pas :
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
+5. (Abrogé) ;
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
 
-7. (Abrogé)
+7. (Abrogé).
 
 III. - Sont exonérées de la taxe mentionnée au I :
 

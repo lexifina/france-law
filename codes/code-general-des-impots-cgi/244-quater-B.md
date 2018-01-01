@@ -126,7 +126,7 @@ a) Du montant des sommes rémunérant ces prestations fixé en proportion du mon
 
 b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a, qui excède le plus élevé des deux montants suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des subventions publiques mentionnées au III.
 
-III bis.-Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la localisation de ces moyens.
+III bis.-Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés, la part de titulaires d'un doctorat financés par ces dépenses ou recrutés sur leur base, le nombre d'équivalents temps plein correspondants et leur rémunération moyenne, ainsi que la localisation de ces moyens. Sur la base de ces informations, le ministre chargé de la recherche publie chaque année un rapport synthétique sur l'utilisation du crédit d'impôt recherche par ses bénéficiaires.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 

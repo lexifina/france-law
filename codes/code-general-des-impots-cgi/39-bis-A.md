@@ -1,6 +1,6 @@
 # Article 39 bis A
 
-1. Les entreprises exploitant soit un journal quotidien, soit une publication de périodicité au maximum mensuelle consacrée pour une large part à l'information politique et générale, soit un service de presse en ligne reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, consacré pour une large part à l'information politique et générale, sont autorisées à constituer une provision déductible du résultat imposable des exercices 1997 à 2017, en vue de faire face aux dépenses suivantes :
+1. Les entreprises exploitant soit un journal quotidien, soit une publication de périodicité au maximum mensuelle consacrée pour une large part à l'information politique et générale, soit un service de presse en ligne reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, consacré pour une large part à l'information politique et générale, sont autorisées à constituer une provision déductible du résultat imposable des exercices 1997 à 2020, en vue de faire face aux dépenses suivantes :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure où ces éléments d'actif sont strictement nécessaires à l'exploitation du service de presse en ligne, du journal ou de la publication, et prises de participation dans des entreprises qui ont pour activité principale l'édition d'un journal ou d'une publication mentionnés au premier alinéa ou l'exploitation d'un service de presse en ligne mentionné au même alinéa, ou dans des entreprises dont l'activité principale est d'assurer pour ces entreprises des prestations de services dans les domaines de l'information, de l'approvisionnement en papier, de l'impression ou de la distribution ;
 
@@ -22,7 +22,7 @@ Cette fraction est égale à 40 % pour la généralité des publications et pour
 
 4. Les publications pornographiques, perverses ou incitant à la violence figurant sur une liste établie, après avis de la commission de surveillance et de contrôle des publications destinées à l'enfance et à la jeunesse, par un arrêté du ministre de l'intérieur, sont exclues du bénéfice des dispositions du présent article.
 
-5. Les entreprises de presse ne bénéficient pas du régime prévu au 1 pour la partie des journaux ou des publications qu'elles impriment hors d'un Etat membre de la Communauté européenne.
+5. Les entreprises de presse ne bénéficient pas du régime prévu au 1 pour la partie des journaux ou des publications qu'elles impriment hors d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 6. Les immobilisations acquises au moyen des bénéfices ou des provisions mentionnés au présent article sont réputées amorties pour un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 

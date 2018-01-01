@@ -38,7 +38,7 @@ IV bis. – En cas de cession à titre onéreux de parts ou d'actions de sociét
 
 1° Le cédant :
 
-a) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, l'une des fonctions énumérées au 1° de l'article 885 O bis et dans les conditions prévues au même 1° dans la société dont les titres sont cédés ;
+a) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, l'une des fonctions énumérées au 1° du 1 du III de l'article 975 et dans les conditions prévues au même 1° dans la société dont les titres sont cédés ;
 
 b) Cesse toute fonction dans la société dont les titres sont cédés et fait valoir ses droits à la retraite, dans les deux années suivant ou précédant la cession ;
 
@@ -72,4 +72,6 @@ VI. – L'option pour le bénéfice du régime défini au présent article est e
 
 NOTA :
 
-Dans sa décision n° 2016-587 QPC du 14 octobre 2016 (NOR: CSCX1629594S), le Conseil constitutionnel a déclaré contraires à la Constitution les mots : " dans les mêmes locaux " figurant au c du 1 du paragraphe V de l'article 151 septies A du code général des impôts dans sa rédaction résultant de la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour. La déclaration d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à son paragraphe 9.
+Dans sa décision n° 2016-587 QPC du 14 octobre 2016 (NOR: CSCX1629594S), le Conseil constitutionnel a déclaré contraires à la Constitution les mots : " dans les mêmes locaux " figurant au c du 1 du paragraphe V de l'article 151 septies A du code général des impôts dans sa rédaction résultant de la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011. La déclaration d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à son paragraphe 9.
+
+Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 151 septies A résultant des dispositions du 6° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.

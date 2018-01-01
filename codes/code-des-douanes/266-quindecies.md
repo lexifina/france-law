@@ -1,8 +1,8 @@
 # Article 266 quindecies
 
-I.-Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du tableau B du 1 de l'article 265, du gazole repris à l'indice 20 et à l'indice 22, du superéthanol E85 repris à l'indice 55 et du carburant ED 95 repris à l'indice 56 de ce même tableau sont redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
+I.-Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du tableau B du 1 de l'article 265, du gazole repris à l'indice 20 et à l'indice 22, du superéthanol E85 repris à l'indice 55 et du carburant ED 95 repris à l'indice 56 de ce même tableau, ainsi que tous les carburants équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, sont redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
 
-II.-Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour chaque carburant concerné. Pour le gazole non routier repris à l'indice 20, ce prélèvement supplémentaire s'applique à 75 % des mises à la consommation en France en 2017.
+II.-Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour chaque carburant concerné.
 
 III.-Son taux est fixé à 7,5 % dans la filière essence et à 7,7 % dans la filière gazole.
 
@@ -10,7 +10,7 @@ Il est diminué à proportion de la quantité d'énergie renouvelable des biocar
 
 Pour la filière essence, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre l'énergie renouvelable des biocarburants contenus dans les produits repris aux indices d'identification 11, 11 bis, 11 ter, 55 et 56 du tableau B du 1 de l'article 265 du présent code mis à la consommation en France à usage de carburants et l'énergie de ces mêmes carburants soumis au prélèvement, exprimés en pouvoir calorifique inférieur.
 
-Pour la filière gazole, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre les quantités de biocarburants incorporées dans les produits repris aux indices d'identification 20 et 22 du même tableau B mis à la consommation en France à usage de carburants et les quantités de carburant routier et non routier, soumises au prélèvement, exprimées en pouvoir calorifique inférieur.
+Pour la filière gazole, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre les quantités de biocarburants incorporées dans les produits repris aux indices d'identification 20 et 22 du même tableau B, ainsi que tous les carburants équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, mis à la consommation en France à usage de carburants et les quantités de carburant routier et non routier, soumises au prélèvement, exprimées en pouvoir calorifique inférieur.
 
 La part d'énergie renouvelable, prise en compte pour cette minoration, ne peut être supérieure aux valeurs suivantes :
 
@@ -20,7 +20,7 @@ La part d'énergie renouvelable, prise en compte pour cette minoration, ne peut 
 
 La liste des biocarburants éligibles à cette minoration de taux est définie par arrêté conjoint des ministres chargés des douanes, de l'écologie, de l'énergie et de l'agriculture.
 
-Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22, 55 et 56 du tableau B du 1 de l'article 265, les opérateurs émettent des certificats représentatifs des biocarburants que ces carburants contiennent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret.
+Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22, 55 et 56 du tableau B du 1 de l'article 265, ainsi que tous les carburants équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, les opérateurs émettent des certificats représentatifs des biocarburants que ces carburants contiennent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret.
 
 Un arrêté conjoint des ministres chargés des douanes, de l'écologie, de l'énergie et de l'agriculture fixe la liste des matières premières permettant de produire des biocarburants, qui peuvent être pris en compte pour le double de leur valeur réelle exprimée en quantité d'énergie renouvelable, ainsi que les conditions et modalités de cette prise en compte, notamment en matière d'exigence de traçabilité.
 
@@ -35,7 +35,3 @@ En cas de difficultés exceptionnelles d'approvisionnement entraînant, au nivea
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266 undecies.
 
 Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que ceux prévus par le présent code.
-
-NOTA :
-
-Conformément à l'article 60 II de la loi n° 2016-1918 du 29 décembre 2016, les dispositions de la seconde phrase du II de l'article 266 quindecies du code des douanes, dans sa rédaction résultant du présent article, est supprimée pour les carburants mis à la consommation à compter du 1er janvier 2018.

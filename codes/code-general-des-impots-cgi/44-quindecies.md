@@ -32,7 +32,7 @@ a) Si, lorsque la société, la personne morale ou le groupement a déjà fait l
 
 Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de restructuration, soit détenait directement ou indirectement plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de la société, de la personne morale ou du groupement qui a fait l'objet de l'une de ces opérations, soit y exerçait, en droit ou en fait, la direction effective ;
 
-b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de restructuration au profit du conjoint de l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code civil, de leurs ascendants et descendants ou de leurs frères et sœurs.
+b) Si, lorsque l'entreprise individuelle a déjà fait l'objet d'une première opération de reprise ou de restructuration ayant conduit au bénéfice de l'exonération mentionnée au I et réalisée au profit du conjoint de l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code civil, de leurs ascendants et descendants ou de leurs frères et sœurs, elle fait de nouveau l'objet d'une telle opération au profit d'une ou de plusieurs personnes précédemment mentionnées.
 
 IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou 44 sexdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 

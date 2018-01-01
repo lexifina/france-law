@@ -18,41 +18,23 @@ de perception
 
 |
 
-QUOTITÉ EN EUROS
+QUOTITÉ EN EUROS |
 
-|
+2017 |
 
-2017
+2018 |
 
-|
+2019 |
 
-2018
+2020 |
 
-|
+2021 |
 
-2019
+2022 |
 
-|
+2023 |
 
-2020
-
-|
-
-2021
-
-|
-
-2022
-
-|
-
-2023
-
-|
-
-2024
-
-|
+2024 |
 
 A compter
 
@@ -60,309 +42,181 @@ de 2025
 
 |
 
-Réception de déchets dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat.
+Réception de déchets dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat. |
 
-|
-
-tonne
-
-|
-
-150
-
-|
-
-151
-
-|
-
-151
-
-|
-
-152
-
-|
-
-152
-
-|
-
-155
-
-|
-
-155
-
-|
-
-157
-
-|
-
-158
-
-|
-
-Réception de déchets dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité ;
-
-|
-
-tonne
-
-|
-
-32
-
-|
-
-33
-
-|
+tonne |
 
-|
-
-|
+150 |
 
-|
-
-|
+151 |
 
-|
+151 |
 
-|
+152 |
 
-|
+152 |
 
-B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ;
+155 |
 
-|
+155 |
 
-tonne
+157 |
 
-|
+158 |
 
-23
+Réception de déchets dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent : |
 
 |
-
-24
 
 |
 
-24
-
 |
-
-25
 
 |
 
-25
-
 |
-
-28
 
 |
 
-28
-
 |
-
-30
 
 |
 
-31
-
 |
-
-C.-Dans un casier, ou une subdivision de casier, exploitée selon la méthode du bioréacteur équipé dès sa construction des équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier ou de la subdivision du casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ;
 
 |
 
-tonne
-
-|
+A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité ; |
 
-32
+tonne |
 
-|
+32 |
 
-33
+33 |
 
 |
 
-34
-
 |
-
-35
 
 |
 
-35
-
 |
-
-38
 
 |
 
-39
-
 |
-
-41
 
 |
 
-42
+B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ; |
 
-|
-
-D.-Relevant à la fois des B et C ;
+tonne |
 
-|
+23 |
 
-tonne
+24 |
 
-|
+24 |
 
-15
+25 |
 
-|
+25 |
 
-16
+28 |
 
-|
+28 |
 
-17
+30 |
 
-|
+31 |
 
-18
+C.-Dans un casier, ou une subdivision de casier, exploitée selon la méthode du bioréacteur équipé dès sa construction des équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier ou de la subdivision du casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ; |
 
-|
+tonne |
 
-18
+32 |
 
-|
+33 |
 
-21
+34 |
 
-|
+35 |
 
-22
+35 |
 
-|
+38 |
 
-24
+39 |
 
-|
+41 |
 
-25
+42 |
 
-|
+D.-Relevant à la fois des B et C ; |
 
-E.-Autre.
+tonne |
 
-|
+15 |
 
-tonne
+16 |
 
-|
+17 |
 
-40
+18 |
 
-|
+18 |
 
-41
+21 |
 
-|
+22 |
 
-41
+24 |
 
-|
+25 |
 
-42
+E.-Autre. |
 
-|
+tonne |
 
-42
+40 |
 
-|
+41 |
 
-45
+41 |
 
-|
+42 |
 
-45
+42 |
 
-|
+45 |
 
-47
+45 |
 
-|
+47 |
 
 48 |
 
 Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tarifs mentionnés au tableau du présent a applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
 
-Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2018.
+Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
 
-Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2017, puis à 10 € par tonne en 2018.
+Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2019, puis à 10 € par tonne en 2020.
 
-A compter de 2019, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont multipliés par un coefficient égal à 0,4.
+A compter de 2020, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont multipliés par un coefficient égal à 0,4.
 
 Le tarif mentionné à la troisième ligne du tableau du second alinéa du B du présent 1 est applicable à la réception de matériaux de construction contenant de l'amiante dans une installation de stockage de déchets non dangereux autorisée à cet effet, en application du titre Ier du livre V du code de l'environnement.
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
-Désignation des opérations imposables
+Désignation des opérations imposables |
 
-|
+Unité de perception |
 
-Unité de perception
+Quotité en euros |
 
-|
+À compter de 2017 |
 
-Quotité en euros
-
-|
-
-À compter de 2017
-
-|
-
-Réception de déchets dans une installation de traitement thermique de déchets non dangereux ou transfert vers une installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :
-
-|
+Réception de déchets dans une installation de traitement thermique de déchets non dangereux ou transfert vers une installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent : |
 
 |
 
@@ -374,97 +228,51 @@ A.-Dont le système de management environnemental a été certifié conforme à 
 
 |
 
-tonne
+tonne |
 
-|
+12 |
 
-12
+B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ; |
 
-|
+tonne |
 
-B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ;
+12 |
 
-|
+C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ; |
 
-tonne
+tonne |
 
-|
+9 |
 
-12
+D.-Relevant à la fois des A et B ; |
 
-|
+tonne |
 
-C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ;
+9 |
 
-|
+E.-Relevant à la fois des A et C ; |
 
-tonne
+tonne |
 
-|
+6 |
 
-9
+F.-Relevant à la fois des B et C ; |
 
-|
+tonne |
 
-D.-Relevant à la fois des A et B ;
+5 |
 
-|
+G.-Relevant à la fois des A, B et C ; |
 
-tonne
+tonne |
 
-|
+3 |
 
-9
+H.-Autre. |
 
-|
+tonne |
 
-E.-Relevant à la fois des A et C ;
-
-|
-
-tonne
-
-|
-
-6
-
-|
-
-F.-Relevant à la fois des B et C ;
-
-|
-
-tonne
-
-|
-
-5
-
-|
-
-G.-Relevant à la fois des A, B et C ;
-
-|
-
-tonne
-
-|
-
-3
-
-|
-
-H.-Autre.
-
-|
-
-tonne
-
-|
-
-15
-
-|
+15 |
 
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible s'applique à l'assiette concernée ;
 
@@ -788,62 +596,6 @@ Tonne
 
 |
 
-Installations classées :
-
-Délivrance d'autorisation :
-
--artisan n'employant pas plus de deux salariés
-
-|
-
-|
-
-501,61 (516,16 en 2009)
-
-|
-
--autres entreprises inscrites au répertoire des métiers
-
-|
-
-|
-
-1 210,78 (1 245,89 en 2009)
-
-|
-
--autres entreprises
-
-|
-
-|
-
-2 525,35 (2 598,59 en 2009)
-
-|
-
-Exploitation au cours d'une année civile (tarifs de base) :
-
--installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité
-
-|
-
-|
-
-339,37 (349,21 en 2009)
-
-|
-
--autres installations
-
-|
-
-|
-
-380,44 (391,47 en 2009)
-
-|
-
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
 Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter :
@@ -866,10 +618,6 @@ c) (Abrogé)
 
 6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 
-7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur.
+7. (Abrogé).
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
-
-NOTA :
-
-Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code des douanes conformes à la Constitution.

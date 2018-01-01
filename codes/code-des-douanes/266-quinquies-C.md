@@ -50,23 +50,17 @@ B.-Le tarif de la taxe est fixé comme suit :
 
 (En euros)
 
-DÉSIGNATION DES PRODUITS |
+Désignation des produits |
 
-UNITÉ DE PERCEPTION |
+Unité de perception |
 
-TARIF |
-
-2016 |
-
-2017 |
+Tarif (en euros) |
 
 Electricité |
 
 Mégawattheure |
 
-22,50 |
-
-22,50 |
+22,5 |
 
 Le montant de la taxe est arrondi à l'euro le plus proche.
 
@@ -153,3 +147,5 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 NOTA :
 
 Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.
+
+(1) Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions du tableau du deuxième alinéa du B du 8 s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
