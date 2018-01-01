@@ -1,0 +1,45 @@
+# Article 1er
+
+L'article 3.2 « Dispenses d'affiliation » de l'accord du 31 janvier 2014 est dorénavant rédigé comme suit :
+
+« L'adhésion au régime est obligatoire pour tous les salariés bénéficiaires mentionnés à l'article 2 du présent accord. Les salariés concernés ne pourront s'opposer au précompte de leur quote-part de cotisations.
+
+Cependant, ont la faculté d'être dispensés d'adhésion sans remise en cause du caractère obligatoire du régime, quelle que soit leur date d'embauche :
+
+1.   Les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale (CMU complémentaire) ou d'une aide à l'acquisition d'une complémentaire santé (ACS) en application de l'article L. 863-1.
+
+Dans ces cas, la dispense ne peut jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide.
+
+2.   Les salariés couverts par une assurance individuelle “ frais de santé ” au moment de la mise en place des garanties ou de l'embauche si elle est postérieure.
+
+Dans ce cas, la dispense ne peut jouer que jusqu'à échéance du contrat individuel.
+
+3.   À condition de le justifier chaque année, les salariés bénéficiant par ailleurs pour les mêmes risques, y compris en tant qu'ayants droit, de prestations servies :
+
+– dans le cadre d'un dispositif de protection sociale complémentaire d'entreprise, collectif et obligatoire, conforme à l'alinéa 6 de l'article L. 242-1 du code de la sécurité sociale.
+
+Lorsque le salarié est couvert en tant qu'ayant droit, cette faculté de dispense ne peut être sollicitée que lorsque le dispositif de protection sociale complémentaire prévoit l'adhésion obligatoire des ayants droit.
+
+–   par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale (dit “ régime d'Alsace-Moselle ”) ;
+
+–   dans le cadre des contrats d'assurance de groupe issus de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle (dits “ Madelin ”).
+
+4.   Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois à condition de justifier par écrit, en produisant tous documents, d'une couverture individuelle souscrite par ailleurs pour le même type de garanties.
+
+5.   Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs.
+
+6.   Les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute.
+
+Dans tous les cas susvisés, ces salariés devront faire parvenir leur demande de dispense au présent régime de remboursement de frais de santé, par écrit, accompagnée le cas échéant, du (des) justificatif (s) requis, dans le respect du délai fixé par son entreprise d'appartenance.
+
+Ce courrier fera mention que le salarié a bien été préalablement informé par l'employeur des conséquences de son choix.
+
+A défaut de respecter les exigences détaillées ci-dessus, le salarié, sera automatiquement affilié au régime de remboursement de “ frais de santé ”.
+
+Les salariés sollicitant le bénéfice de ces dispenses voient leur attention attirée sur le fait qu'en refusant d'adhérer au présent régime, ils ne pourront solliciter le bénéfice ni des contributions patronales ni des prestations visées dans le cadre du présent dispositif de remboursement de “ frais de santé ”, et ne pourront pas bénéficier du dispositif de portabilité après la rupture de leur contrat de travail. Ainsi, en cas de dépenses de santé, les salariés dispensés ne pourront en aucun cas bénéficier d'un quelconque remboursement de ces dépenses au titre du présent régime.
+
+Une communication sera réalisée au niveau de chaque entreprise afin de sensibiliser les salariés aux cas de dispense légaux existants et rappeler l'importance de déclarer la mutuelle de leur choix auprès des services de la sécurité sociale lorsque ces derniers bénéficient de plusieurs couvertures frais de santé complémentaires. »
+
+(1) Article étendu sous réserve de l'application des dispositions du III de l'article L. 911-7 et de l'article D. 911-6 du code de la sécurité sociale.
+
+(Arrêté du 21 janvier 2019 - art. 1)
