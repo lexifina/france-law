@@ -1,0 +1,9 @@
+# Article 1er
+
+Il est créé un nouvel article 6 intitulé « Montant de l'indemnité mensuelle en 2018 » rédigé ainsi :
+
+« Pour les salariés concernés effectuant plus de 104 heures par mois le montant de l'indemnité est fixé à cinq et demi (5,5) du minimum garanti (MG).
+
+Pour les salariés concernés effectuant 104 heures et moins par mois, l'indemnité de transport est calculée pro rata temporis de leur temps de travail par rapport à un temps plein.
+
+L'indemnité de transport est revalorisée chaque 1er janvier en fonction du minimum garanti en vigueur à cette date. »
