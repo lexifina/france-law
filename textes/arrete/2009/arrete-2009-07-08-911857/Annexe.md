@@ -50,7 +50,7 @@ Le candidat répond par écrit à trois consignes de travail. Il dispose de l'en
 
 Deux consignes de travail visent à vérifier la capacité du candidat à construire le sens du texte :
 
-. compréhension du sens explicite d'un élément du texte : la question porte sur le lexique, un fait de langue, un effet d'écriture . ;
+. compréhension du sens explicite d'un élément du texte : la question porte sur le lexique, un fait de langue, un effet d'écriture ;
 
 . interprétation: la question porte sur un élément du texte ou sur l'ensemble du texte en rapport avec le champ littéraire inscrit au programme de l'objet d'étude.
 
@@ -76,23 +76,23 @@ Chaque situation comporte deux parties.
 
 - Situation 1 - 1 heure
 
-1ère partie : en histoire, trois ou quatre questions de connaissance portant sur un des sujets d'étude,
+1re partie : en histoire, trois ou quatre questions de connaissance portant sur un des sujets d'étude,
 
-2ème partie : en géographie, commentaire d'un ou deux documents.
+2e partie : en géographie, commentaire d'un ou deux documents.
 
 - Situation 2 - 1 heure
 
-1ère partie : en géographie, trois ou quatre questions de connaissances portant sur un sujet d'études,
+1re partie : en géographie, trois ou quatre questions de connaissances portant sur un sujet d'études,
 
-2ème partie : en histoire, commentaire d'un ou deux documents.
+2e partie : en histoire, commentaire d'un ou deux documents.
 
-B - Mathématiques et sciences physiques et chimiques : Coefficient 4
+B. - Mathématiques et sciences physiques et chimiques : coefficient 4
 
-1 - Objectifs de l'épreuve
+1. Objectifs de l'épreuve
 
-L'épreuve en mathématiques et sciences est destinée à évaluer la façon dont les candidats ont atteint les grands objectifs visés par le programme :
+L'épreuve en mathématiques et en physique-chimie est destinée à évaluer la façon dont les candidats ont atteint les grands objectifs visés par le programme :
 
-- former à l'activité mathématique et scientifique par la mise en oeuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
+- former à l'activité mathématique et scientifique par la mise en œuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
 
 - apprendre à mobiliser les outils mathématiques et scientifiques dans des situations liées à la profession ou à la vie courante ;
 
@@ -100,177 +100,163 @@ L'épreuve en mathématiques et sciences est destinée à évaluer la façon don
 
 - développer les capacités de communication écrite et orale.
 
-2 - Modes d'évaluation
+2. Modes d'évaluation
 
-a) Contrôle en cours de formation (C.C.F.) pour les spécialités comportant des sciences physiques et chimiques
+a) Contrôle en cours de formation (CCF) pour les spécialités qui comportent des sciences physiques et chimiques
 
-Le contrôle en cours de formation comporte deux situations d'évaluation, l'une en mathématiques, l'autre en sciences physiques ou chimiques, chacune fractionnée dans le temps en deux séquences. Elles se déroulent quand le candidat est considéré comme prêt à être évalué à partir des capacités du référentiel de compétences. Les premières séquences doivent cependant pouvoir être organisées avant la fin du deuxième semestre de la seconde professionnelle et les deuxièmes au plus tard à la fin du premier semestre de première professionnelle.
+Le contrôle en cours de formation comporte deux situations d'évaluation, l'une en mathématiques, l'autre en physique-chimie. Elles se déroulent quand le candidat est considéré comme prêt à être évalué sur les capacités mentionnées dans le référentiel. Elles doivent être organisées en première professionnelle.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-- La situation d'évaluation en mathématiques (notée sur 20)
+La situation d'évaluation en mathématiques (notée sur 20)
 
-Cette évaluation en mathématiques d'une durée totale d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10.
+Cette situation d'évaluation en mathématiques a une durée de quarante-cinq minutes environ.
 
-L'évaluation est conçue comme sondage probant sur des compétences du référentiel.
+L'évaluation est conçue comme un sondage probant sur des capacités mentionnées dans le référentiel. Elle comporte un ou deux exercices et porte principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec d'autres disciplines, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-. Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+Un exercice au moins comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les TIC se fait en présence de l'examinateur. Ces questions permettent d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
-. L'un des exercices comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les TIC se fait en présence de l'examinateur.
+La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
 
-Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+Cette situation d'évaluation en sciences physiques et chimiques a une durée de quarante-cinq minutes environ.
 
-- La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
+L'évaluation est conçue comme un sondage probant sur des capacités mentionnées dans le référentiel.
 
-Cette situation d'évaluation en sciences physiques ou chimiques d'une durée d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10 (7 points pour l'activité expérimentale, 3 points pour le compte rendu).
+Elle s'appuie sur une activité expérimentale composée d'une ou plusieurs expériences. L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-Elles ont pour support une ou deux activités expérimentales (dont certaines peuvent être assistées par ordinateur). L'évaluation est conçue comme sondage probant sur des compétences du référentiel. Les notions évaluées ont été étudiées précédemment. Chaque séquence d'évaluation s'appuie sur une activité expérimentale composée d'une ou plusieurs expériences. L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
+- de mettre en œuvre un protocole expérimental ;
 
-. de mettre en oeuvre un protocole expérimental ;
+- d'utiliser correctement le matériel mis à sa disposition ;
 
-. d'utiliser correctement le matériel mis à sa disposition ;
+- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-. de mettre en oeuvre les procédures et consignes de sécurité adaptées ;
+- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-. de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en oeuvre ;
+- d'utiliser une ou plusieurs relations, ces relations étant données ;
 
-. d'utiliser une ou plusieurs relations, ces relations étant données ;
-
-. de rendre compte par écrit des résultats des travaux réalisés.
+- de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille d'observation qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-b) Contrôle en cours de formation pour les spécialités qui ne comportent que des mathématiques (noté sur 20 points) - 1heure.
+b) Contrôle en cours de formation (CCF) pour les spécialités qui ne comportent que des mathématiques (noté sur 20 points)
 
-Le contrôle en cours de formation comporte une situation d'évaluation en mathématiques notée sur 20, et fractionnée dans le temps en deux séquences, chacune notée sur 10. Chacune des séquences se déroule quand le candidat est considéré comme prêt à être évalué à partir des capacités du référentiel de compétences. La première séquence doit cependant pouvoir être organisée avant la fin du deuxième semestre de la seconde professionnelle et la deuxième au plus tard à la fin du premier semestre de première professionnelle.
+Le contrôle en cours de formation comporte une situation d'évaluation en mathématiques. Elle se déroule quand le candidat est considéré comme prêt à être évalué sur les capacités mentionnées dans le référentiel. Elle doit être organisée en première professionnelle.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-Cette évaluation en mathématiques est d'une durée totale d'une heure environ pour l'ensemble des deux séquences.
+Cette situation d'évaluation en mathématiques a une durée de quarante-cinq minutes environ.
 
-L'évaluation est conçue comme sondage probant sur des compétences du référentiel.
+L'évaluation est conçue comme un sondage probant sur des capacités mentionnées dans le référentiel. Elle comporte un ou deux exercices avec des questions de difficulté progressive et porte principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec d'autres disciplines, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-- Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+Un exercice au moins comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les TIC se fait en présence de l'examinateur. Ces questions permettent d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
-- L'un des exercices comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les TIC se fait en présence de l'examinateur.
+c) Epreuve ponctuelle pour les spécialités qui comportent des sciences physiques et chimiques (notée sur 20 points)
 
-Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
-
-c) Épreuve ponctuelle pour les spécialités comportant des sciences physiques et chimiques (notée sur 20 points) - 2 heures
-
-L'épreuve comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
+L'épreuve d'une durée de deux heures, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre la physique-chimie.
 
 Mathématiques (notée sur 10 points) : 1 heure
 
-- Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant aussi largement que possible des capacités mentionnées dans le référentiel de BEP.
+La situation d'évaluation se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant aussi largement que possible des capacités mentionnées dans le référentiel.
 
-- Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec d'autres disciplines, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-- Un exercice au moins concerne l'utilisation de TIC. Dans ce cas l'énoncé est adapté au contexte des programmes et aux modalités de l'épreuve : certains éléments qui pourraient être nécessaires (copies d'écran, résultats de calculs, etc.) sont fournis sur papier avec le sujet.
+Un exercice au moins comporte des questions dont la résolution nécessite l'exploitation des TIC. Dans ce cas, l'énoncé est adapté au contexte des programmes et aux modalités de l'épreuve : certains éléments qui pourraient être nécessaires (copies d'écran, résultats de calculs, etc.) sont fournis sur papier.
 
 Sciences physiques et chimiques (notée sur 10 points) : 1 heure
 
 Le sujet doit porter sur des champs différents de la Physique et de la Chimie. Il se compose de deux parties :
 
-- Première partie
+Première partie :
 
 Un ou deux exercices restituent une expérience ou un protocole opératoire, à partir d'un texte (en une dizaine de lignes au maximum) et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
 
-. montrer ses connaissances ;
+- montrer ses connaissances ;
 
-. relever des observations pertinentes ;
+- relever des observations pertinentes ;
 
-. organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
 
-- Deuxième partie
+Deuxième partie :
 
-Un exercice met en oeuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
+Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-. de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en oeuvre ;
+- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-. d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-. d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+- d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé. Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre. Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en oeuvre. Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+d) Epreuve ponctuelle pour les spécialités qui ne comportent que des mathématiques
 
-d) Épreuve ponctuelle pour les spécialités qui ne comportent que des mathématiques :
+Epreuve ponctuelle de mathématiques (notée sur 20 points)
 
-Épreuve ponctuelle de mathématiques (notée sur 20 points) - 1 heure
+La situation d'évaluation, d'une durée d'une heure, se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités mentionnées dans le référentiel.
 
-- Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités mentionnées dans le référentiel de BEP.
+Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec d'autres disciplines, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-- Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec d'autres disciplines, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
+Un exercice au moins comporte des questions dont la résolution nécessite l'exploitation des TIC. Dans ce cas l'énoncé est adapté au contexte des programmes et aux modalités de l'épreuve : certains éléments qui pourraient être nécessaires (copies d'écran, résultats de calculs, etc.) sont fournis sur papier.
 
-- Un exercice au moins concerne l'utilisation de TIC. Dans ce cas l'énoncé est adapté au contexte des programmes et aux modalités de l'épreuve : certains éléments qui pourraient être nécessaires (copies d'écran, résultats de calculs, etc.) sont fournis sur papier avec le sujet.
+3. Instructions complémentaires pour l'ensemble des types d'épreuves (contrôle en cours de formation ou épreuve ponctuelle)
 
-3 - Instructions complémentaires pour l'ensemble des types d'épreuves (contrôle en cours de formation ou épreuve ponctuelle)
-
-Le nombre de points affectés à chaque exercice est indiqué sur le sujet. La longueur et l'ampleur du sujet doivent permettre à tout candidat de le traiter et de le rédiger posément dans le temps imparti.
+Le nombre de points affectés à chaque exercice est indiqué sur l'énoncé de la situation d'évaluation. La longueur et l'ampleur de cette situation doivent permettre à tout candidat de la traiter et de la rédiger posément dans le temps imparti.
 
 Si des questionnaires à choix multiple (QCM) sont proposés, les modalités de notation doivent en être précisées. En particulier, il ne sera pas enlevé de point pour les réponses fausses.
 
-La clarté des raisonnements et la qualité de la rédaction interviendront dans l'appréciation des copies
+La clarté des raisonnements et la qualité de la rédaction interviendront dans l'appréciation des copies.
 
 Calculatrices et formulaires
 
-L'emploi des calculatrices est autorisé, dans les conditions prévues par la réglementation en vigueur. Il est ainsi précisé qu'il appartient aux responsables de l'élaboration des sujets de décider si l'usage des calculatrices est autorisé ou non. Ce point doit être précisé en tête des sujets.
+L'emploi des calculatrices est autorisé, dans les conditions prévues par la réglementation en vigueur. Il est ainsi précisé qu'il appartient aux responsables de l'élaboration des situations d'évaluation de décider si l'usage des calculatrices est autorisé ou non. Ce point doit être précisé en tête des situations d'évaluation.
 
-Il n'est pas prévu de formulaire officiel. En revanche, les concepteurs de sujets peuvent inclure certaines formules dans le corps du sujet ou en annexe, en fonction de la nature des questions.
+Il n'est pas prévu de formulaire officiel. En revanche, les concepteurs de situations d'évaluation peuvent inclure certaines formules dans le corps de celles-ci ou en annexe, en fonction de la nature des questions.
 
-4 - Remarques sur la correction et la notation
+4. Remarques sur la correction et la notation
 
-Les concepteurs de sujets veilleront, dans leurs propositions, à mettre en évidence les objectifs et les capacités ou compétences visées.
+Les concepteurs de situations d'évaluation veilleront, dans leurs propositions, à mettre en évidence les objectifs et les capacités ou compétences visées.
 
 Les consignes de correction devront permettre aux correcteurs de prendre réellement et largement en compte, dans l'appréciation des copies la démarche critique, la cohérence globale des réponses.
 
-Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
+Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes et aux résultats partiels.
 
-C - Prévention - sante - environnement : Coefficient 1
+C. - Prévention-santé-environnement : coefficient 1
 
-1 - Objectifs de l'épreuve :
+1. Objectifs de l'épreuve
 
 L'épreuve a pour objectif d'évaluer les capacités du candidat à :
 
-- Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème
+- conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème ;
 
-- Mobiliser des connaissances scientifiques, juridiques et économiques
+- mobiliser des connaissances scientifiques, juridiques et économiques ;
 
-- Proposer et justifier les mesures de prévention adaptées
+- proposer et justifier les mesures de prévention adaptées.
 
 L'évaluation porte notamment sur :
 
-- le respect des étapes de la démarche mise en oeuvre,
+- le respect des étapes de la démarche mise en œuvre ;
 
-- l'exactitude des connaissances,
+- l'exactitude des connaissances ;
 
 - la pertinence et le réalisme des solutions proposées.
 
-2 - Modalités d'évaluation :
+2. Modalités d'évaluation
 
-a) Contrôle en Cours de Formation (noté sur 20)
+a) Contrôle en cours de formation (noté sur 20)
 
-Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation. Chaque situation d'évaluation est notée sur 10 points.
+Le contrôle en cours de formation est organisé à partir d'une situation d'évaluation écrite d'une heure, mise en œuvre en classe de première professionnelle. L'évaluation écrite porte sur les modules de 1 à 7 du programme de PSE du baccalauréat professionnel.
 
-- première situation d'évaluation : écrite - 1 heure
+Elle adopte un niveau d'exigence correspondant à un diplôme de niveau V et comporte deux parties.
 
-Elle permet en fin de seconde professionnelle l'évaluation par sondage des compétences des modules 1 à 5 des référentiels pour les baccalauréats professionnels (santé et équilibre de vie, alimentation et santé, prévention des comportements à risques et des conduites addictives, sexualité et prévention et environnement économique et protection du consommateur). Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. À partir d'une situation de la vie quotidienne, le candidat doit notamment mettre en oeuvre une démarche de résolution de problème.
+La première partie, notée sur 10 points, permet d'évaluer par sondage les compétences d'au moins deux modules parmi les modules 1 à 5 des référentiels pour les baccalauréats professionnels (santé et équilibre de vie, alimentation et santé, prévention des comportements à risques et des conduites addictives, sexualité et prévention et environnement économique et protection du consommateur) ; elle prend appui sur des situations de la vie quotidienne accompagnées d'une documentation et comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Le candidat doit notamment mettre en œuvre une démarche de résolution de problème.
 
-- deuxième situation d'évaluation : écrite - 1 heure
+La deuxième partie notée sur 10 points évalue par sondage des compétences et des connaissances des modules 6 et 7 (gestion des ressources naturelles et développement durable et prévention des risques). Elle prend appui sur des situations de la vie quotidienne ou professionnelle accompagnées d'une documentation.
 
-Elle permet, au plus tard à la fin du premier semestre de la première professionnelle, l'évaluation par sondage des compétences et des connaissances des modules 6 et 7 (gestion des ressources naturelles et développement durable et prévention des risques). Elle prend appui sur des situations de la vie quotidienne ou professionnelle accompagnées d'une documentation.
+b) Epreuve ponctuelle (notée sur 20), 1 heure
 
-b) Épreuve ponctuelle (notée sur 20) - 1 heure
+Le sujet se compose de deux parties indépendantes, l'une correspondant à l'évaluation d'au moins deux modules parmi les modules 1 à 5, l'autre correspondant à l'évaluation des modules 6 et 7. Chaque partie, notée sur 10 points, comporte plusieurs questions indépendantes ou liées, sur les modules correspondants.
 
-Le sujet se compose de deux parties indépendantes, l'une correspondant à l'évaluation des modules 1 à 5, l'autre correspondant à l'évaluation des modules 6 et 7. Chaque partie, notée sur 10 points, comporte plusieurs questions indépendantes ou liées sur les modules correspondants.
+Première partie : le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des compétences et des connaissances. A partir d'une situation de la vie quotidienne, le candidat doit notamment mettre en œuvre une démarche de résolution de problème.
 
-- Première partie :
-
-Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. À partir d'une situation de la vie quotidienne, le candidat doit notamment mettre en oeuvre une démarche de résolution de problème.
-
-- Deuxième partie :
-
-Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer les connaissances relatives à l'environnement et aux risques. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention.
+Deuxième partie : le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer les connaissances relatives à l'environnement et aux risques. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention.
 
 NOTA :
 
