@@ -1,0 +1,61 @@
+# Election des représentants au Parlement européen
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36254
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/election_des_representants_parlement_europeen
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-314.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-01-03 : 1er dépôt d'une initiative. (PRJLANR5L15B0539)
+  - 2018-01-03 : Etude d'impact (ETDIANR5L15B0539)
+  - 2018-01-03 : Avis du Conseil d'Etat (AVCEANR5L15B0539)
+  - 2018-01-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-01-03 : Renvoi en commission au fond
+      - 2018-01-10 : Nomination de rapporteur
+      - 2018-01-10 : Réunion de commission
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-17 : Réunion de commission
+      - 2018-01-31 : Réunion de commission
+      - 2018-02-13 : Réunion de commission
+      - 2018-01-31 : Dépôt de rapport (RAPPANR5L15B0609, PRJLANR5L15BTC0609)
+  - Discussion en séance publique
+    - 2018-02-13 : Discussion en séance publique
+    - 2018-02-13 : Discussion en séance publique
+    - 2018-02-14 : Discussion en séance publique
+    - 2018-02-20 : Discussion en séance publique
+    - 2018-02-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-02-21 : Dépôt d'une initiative en navette (PRJLSNR5S299B0314)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-21 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-04-04 : Dépôt de rapport (RAPPSNR5S299B0396, PRJLSNR5S299BTC0397)
+  - Discussion en séance publique
+    - 2018-04-10 : Discussion en séance publique
+    - 2018-04-11 : Discussion en séance publique
+    - 2018-04-11 : Décision
+- Commission Mixte Paritaire
+  - 2018-04-12 : Dépôt d'un projet de loi (PRJLANR5L15B0874)
+  - 2018-04-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-04-18 : Nomination de rapporteur
+    - 2018-04-18 : Dépôt du rapport d'une CMP (RAPPANR5L15B0884, PRJLANR5L15BTC0884)
+    - 2018-04-18 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0443, PRJLSNR5S299BTC0444)
+  - Discussion en séance publique
+    - 2018-05-14 : Discussion en séance publique
+    - 2018-05-14 : Décision
+  - Discussion en séance publique
+    - 2018-05-23 : Discussion en séance publique
+    - 2018-05-23 : Décision
+  - 2018-04-18 : Décision de la CMP
+- Conseil constitutionnel
+  - 2018-05-24 : Saisine du conseil constitutionnel
+  - 2018-06-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-06-25 : Promulgation d'une loi
