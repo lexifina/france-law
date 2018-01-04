@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001679
+
+- Question : [SEQ171001679](seq171001679.md) — Conséquences pour les communes rurales de la réforme de la taxe professionnelle
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-01-04, page 22*
+
+Le fonds national de garantie individuelle des ressources (FNGIR) permet de compenser pour chaque commune et établissement public de coopération intercommunale (EPCI) à fiscalité propre, les conséquences financières de la réforme de la fiscalité locale, en application du point 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010. Le prélèvement (ou le reversement) au titre du FNGIR a été calculé sur la base d'une comparaison des ressources avant et après réforme de la taxe professionnelle pour le seul exercice 2010. Il s'agissait d'une opération à caractère national. Les collectivités « gagnantes » de la réforme financent les pertes des collectivités « perdantes ». Ces fonds ne sont donc pas reversés à l'État. Le prélèvement (ou le reversement) étant calculé sur la base d'une comparaison des ressources avant et après réforme 2010, le produit des impositions perçu après 2010 n'a pas d'impact sur le montant déterminé au titre du FNGIR. En outre, conformément au deuxième alinéa de l'article 40 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 qui précise qu'« à compter de 2014, les montants de la dotation ainsi que du prélèvement ou du reversement […] correspondent aux montants perçus ou versés en 2013 », les montants des prélèvements (ou reversements) au titre du FNGIR sont désormais figés. Toutefois, une commune membre d'un EPCI à fiscalité propre a la possibilité de transférer à ce dernier la prise en charge du prélèvement qu'elle supporte, sous réserve que des délibérations concordantes soient prises en ce sens avant le 1er octobre d'une année pour être applicables l'année suivante.
