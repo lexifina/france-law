@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700090
+
+- Question : [SEQ170700090](seq170700090.md) — Dispositions fiscales relatives aux dons de denrées alimentaires
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-01-04, page 20*
+
+Les commentaires doctrinaux publiés, le 3 août 2016, dans la base BOFiP-Impôts BOI-BIC-RICI-20-30-10-20 et mis en consultation publique du 3 août 2016 au 30 septembre 2016, avaient pour objet de préciser les modalités d'évaluation des dons de denrées alimentaires par les entreprises au profit des organismes d'aide alimentaire. Les observations formulées dans le cadre de la consultation publique ont souligné, notamment, que le système de décote envisagé pénaliserait injustement le don de denrées alimentaires et occasionnerait des charges administratives et logistiques considérables pour les organismes donataires. Dans ce contexte, l'article 19 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017 a modifié les dispositions de l'article 238 bis du code général des impôts (CGI). Désormais, le dernier alinéa du 1 de cet article prévoit que, lorsque les versements mentionnés au premier alinéa du même 1 sont effectués sous forme de dons en nature, leur valorisation est effectuée au coût de revient du bien donné ou de la prestation de service donnée. Par conséquent, les commentaires mis en consultation publique le 3 août 2016 et auxquels il est fait référence sont privés de tout effet. La valeur des dons en nature ne fait donc l'objet d'aucune décote. Par ailleurs, les commentaires relatifs à cette modification législative et, partant, aux modalités d'évaluation des dons de denrées alimentaires ont été publiés le 20 juin 2017 dans la base BOFIP-Impôts BOI-BIC-RICI-20-30-10-20. Ces précisions paraissent de nature à répondre aux inquiétudes des Banques alimentaires et, plus largement, du monde associatif.
