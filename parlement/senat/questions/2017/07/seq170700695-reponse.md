@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700695
+
+- Question : [SEQ170700695](seq170700695.md) — Obtention de la double nationalité pour les fils et filles de soldats américains déployés sur le sol français
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-01-04, page 39*
+
+Le cas des enfants de soldats américains déployés en France durant la Seconde Guerre mondiale n'est pour l'heure pas pris en compte dans le droit américain. Celui-ci encadre de façon très stricte la transmission de la nationalité, notamment en ce qui concerne les enfants nés à l'étranger d'au moins un parent américain, où la citoyenneté s'acquiert par le lien du sang ou à travers la naturalisation. Les autorités américaines n'envisagent pas de conclure des accords bilatéraux similaires à celui que la France a avec l'Allemagne, compte tenu notamment du faible nombre de demandes individuelles qui leur seraient parvenues. Sensible aux situations que lui ont exposées M. Georges et Mme Bilger par lettre en 2015, le ministère de l'Europe et des affaires étrangères a entrepris une série de démarches auprès des autorités américaines pour que celles-ci veuillent bien recevoir nos deux concitoyens et prendre en compte leurs cas particuliers. C'est ainsi que l'ambassade des États-Unis à Paris a étudié ces demandes et que le consulat des États-Unis à Paris a reçu M. Georges pour qu'il puisse faire valoir le caractère exceptionnel de sa situation. Par la suite, le ministère de l'Europe et des affaires étrangères a sollicité le département d'État américain sur ces cas spécifiques. En juillet 2017, le département d'État a indiqué que les requêtes de M. Georges et Mme Bilger, par leur caractère exceptionnel, feraient l'objet d'un examen spécifique par ses services juridiques, qui ont été saisis en conséquence. Le ministère de l'Europe et des affaires étrangères ne manquera pas d'informer M. Georges et Mme Bilger des suites que l'administration américaine réservera à leur demande.
