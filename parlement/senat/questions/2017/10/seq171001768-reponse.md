@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001768
+
+- Question : [SEQ171001768](seq171001768.md) — Signature d'un pacte civil de solidarité dans un poste diplomatique
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-01-04, page 39*
+
+En l'absence de détails sur le poste consulaire auquel il fait référence, il est difficile pour le MEAE de savoir dans quelles conditions ce refus a été fait. Cependant depuis le jugement du Conseil d'État, en 2007, qui a jugé contraires au droit les instructions alors en vigueur qui s'opposaient à la conclusion de PACS par les postes consulaires, dans les pays l'interdisant, si l'un des deux partenaires était un ressortissant de ce pays ou si sa loi personnelle le prohibait, la circulaire du ministère des affaires étrangères du 28 septembre 2007, devenue litigieuse, a été supprimée et remplacée par l'actuelle circulaire du 19 janvier 2008 qui rappelle que : " (…) en application de l'article 5 de la Convention de Vienne du 24 avril 1963 sur les relations consulaires, au titre de sa mission de protection consulaire des ressortissants français, l'ambassadeur ou le chef de poste consulaire, une fois le pacte enregistré, dans les pays où existe un risque tiré des lois et réglements ou des usages sociaux de l'État de résidence et lié notamment à la vie commune, met systématiquement en garde chacun des partenaires. Cette mise en garde s'adresse également au partenaire étranger d'un ressortissant français. Elle prend la forme d'une notice rappelant la réglementation en vigueur dans l'État de résidence et dont les partenaires accusent réception." Le ministère de l'Europe et des affaires étrangères a donc fait le nécessaire afin qu'une information correcte et complète soit mise à disposition des agents compétents pour le PACS. Des rappels de la réglementation sont régulièrement opérés.
