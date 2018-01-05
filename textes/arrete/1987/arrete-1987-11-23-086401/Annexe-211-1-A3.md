@@ -2,7 +2,7 @@
 
 CAPACITE DE REDRESSEMENT PAR VENT FORT ET MER FORTE DES PETITS NAVIRES
 
-(navires à passagers de jauge brute inférieure à 500 et navires de charge et de pêche de longueur L inférieure à 24 mètres)
+(navires à passagers de jauge brute inférieure à 500 et navires de pêche de longueur L inférieure à 24 mètres)
 
 1. L'aptitude du navire à résister aux effets combinés du vent de travers et du roulis doit être démontrée comme suit pour le cas de chargement le plus défavorable :
 
