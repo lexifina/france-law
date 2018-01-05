@@ -6,7 +6,7 @@ Au cas où, après dix ans d'ancienneté dans l'entreprise, appréciée conform�
 
 Au cours du processus d'aménagement du poste de travail, si celui-ci peut être engagé, l'intéressé pourra présenter ses observation d'un emploi disponible d'un niveau ou d'un échelon inférieurs par intermédiaire du délégué du personnel de son choix.
 
-A défaut de pouvoir aménager le poste de travail, l'employeur mettra tout en oeuvre pour rechercher s'il existe un poste disponible de même classification où l'intéressé serait susceptible d'être employé, après avoir exploité toutes les possibilités de formation complémentaire résultant de l'accord national interprofessionnel du 9 juillet 1970 modifié, pour lequel il bénéficiera d'une priorité.
+A défaut de pouvoir aménager le poste de travail, l'employeur mettra tout en oeuvre pour rechercher s'il existe un poste disponible de même classification où l'intéressé serait susceptible d'être employé, après avoir exploité toutes les possibilités de formation complémentaire résultant de l'accord national interprofessionnel du 5 octobre 2009, pour lequel il bénéficiera d'une priorité.
 
 Si, malgré la mise en oeuvre de l'ensemble des moyens évoqués aux deux alinéas précédent, l'employeur est amené à apporter des modifications au contrat de travail de l'intéressé, entraînant l'occupation d'un emploi disponible d'un niveau ou d'un échelon inférieurs et une réduction de son salaire, l'intéressé bénéficiera des dispositions des trois alinéas suivants en cas d'acceptation de cette mutation professionnelle.
 
@@ -14,8 +14,8 @@ A compter de sa mutation professionnelle, l'intéressé conservera le coefficien
 
 En outre, l'intéressé aura droit au maintien de son salaire antérieur pendant les six mois suivant sa mutation professionnelle. A l'issue de ce délai, l'intéressé aura droit pendant les six mois suivants à une indemnité mensuelle temporaire égale à 60 p. 100 de la différence entre l'ancien et le nouveau salaire.
 
-Enfin, l'intéressé bénéficiera d'une priorité d'accès à un emploi disponible comportant un classement et un salaire équivalents à ceux de son précédent emploi et pour lequel il aura montré ses aptitudes, au besoin après avoir exploité toutes les possibilités de formation complémentaire résultant de l'accord national interprofessionnel du 9 juillet 1970 modifié.
+Enfin, l'intéressé bénéficiera d'une priorité d'accès à un emploi disponible comportant un classement et un salaire équivalents à ceux de son précédent emploi et pour lequel il aura montré ses aptitudes, au besoin après avoir exploité toutes les possibilités de formation complémentaire résultant de l'accord national interprofessionnel du 5 octobre 2009.
 
-Les dispositions du présent article ne peuvent faire échec aux obligations légales relatives aux priorités d'emploi ni aux dispositions des articles 26 et 30 de l'accord national du 12 juin 1987 sur les problèmes généraux de l'emploi, relatives aux priorités de reclassement ou de réembauchage.
+Les dispositions du présent article ne peuvent faire échec aux obligations légales relatives aux priorités d'emploi ni aux dispositions de l'accord du 23 septembre 2016 relatif à l'emploi dans la métallurgie.
 
 La mutation professionnelle envisagée par le présent article doit être exceptionnelle et, s'il n'est pas possible de l'éviter, l'employeur devra mettre tout en oeuvre pour que l'intéressé retrouve dans l'entreprise un emploi comportant une qualification et un salaire équivalents à ceux du poste que le salarié a dû quitter.
