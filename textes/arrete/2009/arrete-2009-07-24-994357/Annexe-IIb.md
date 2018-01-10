@@ -26,7 +26,7 @@ A. Évaluation par contrôle en cours de formation
 
 L'évaluation se déroule au plus tard à la fin du premier semestre de la classe de première. Elle consiste à valider les compétences et comportements professionnels figurant dans un livret dont le modèle figure en ANNEXE III a du présent arrêté. Ce livret récapitule les compétences et comportements professionnels acquis par le candidat à l'occasion des activités 1, 2, 3 et 4 décrites dans le référentiel de certification du BEP Logistique et Transport.
 
-Le livret de compétences et de comportements professionnels est renseigné conjointement par le(s) tuteur(s) et par le (ou les) professeur(s) ou formateur(s) chargé(s) de l'enseignement professionnel ayant eu la responsabilité de l'évaluation du candidat lors de ses périodes de formation en milieu professionnel
+Le livret de compétences et de comportements professionnels est renseigné conjointement par le(s) tuteur(s) et par le (ou les) professeur(s) ou formateur(s) chargé(s) de l'enseignement professionnel ayant eu la responsabilité de l'évaluation du candidat lors de ses périodes de formation en milieu professionnel. L'évaluation des compétences se déroule en classe de première, soit dans le cadre des périodes de formation en milieu professionnel du candidat, soit dans l'établissement de formation pour les compétences qui n'ont pas pu être mises en œuvre ou évaluées au cours des périodes de formation en milieu professionnel.
 
 Pour les compétences et comportement professionnels acquis suivants, deux points sont attribués au candidat :
 
