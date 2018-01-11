@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101935
+
+- Question : [SEQ171101935](seq171101935.md) — Ligne ferroviaire Roissy-Picardie
+
+## Réponse
+
+*Transports, JO du 2018-01-11, page 123*
+
+Le projet Roissy-Picardie a fait l'objet d'études préalables à l'enquête publique qui se sont prolongées notamment sur le volet socio-économique particulièrement impacté par l'annonce de la SNCF de faire circuler un nombre réduit de TGV. En mars dernier, dans le cadre de la signature du contrat de développement territorial de l'Amiénois, les parties ont rappelé la priorité qui avait été donnée à ce projet dans le rapport de la commission « Mobilité 21 », et proposé un plan de financement engageant l'État à plus de 50 %. Le Gouvernement a décidé en juillet 2017 d'une pause concernant l'ensemble des grands projets d'infrastructures de transport afin de définir les conditions de leur poursuite dans un cadre budgétaire et financier assaini et afin de donner la priorité aux transports du quotidien. Cette pause et cette priorisation sont indispensables dans un contexte où le volume des projets annoncés et confirmés (19 Md€ sur 2018-2022) dépasse de beaucoup les ressources disponibles (11 Md€). Le Conseil d'orientation des infrastructures (COI), installé dans le cadre des Assises nationales de la mobilité, est chargé de proposer à cet égard au Gouvernement une trajectoire pluriannuelle de financement des infrastructures de transport équilibrée entre les ressources et les besoins, réaliste et sincère. Les conclusions de cette démarche, attendues à la fin du mois de janvier 2018, devront permettre au Gouvernement de préparer la loi d'orientation sur les mobilités qui sera présentée au Parlement au printemps. L'examen du barreau Roissy-Picardie s'inscrit, au même titre que les autres projets structurants, dans le cadre de ces travaux.
