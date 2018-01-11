@@ -48,6 +48,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
+Conformément à l’article 5 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
+
 - Brûleur avec dispositif de récupération de chaleur sur four industriel / Fiche d’opération standardisée n° IND-UT-118
 
 - Compresseur d’air basse pression à vis ou centrifuge / Fiche d’opération standardisée n° IND-UT-120
@@ -76,6 +78,8 @@ Conformément à l’article 8 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 08/08/2017, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgthOva_2h02AY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
@@ -98,4 +102,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A).
+Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A).
