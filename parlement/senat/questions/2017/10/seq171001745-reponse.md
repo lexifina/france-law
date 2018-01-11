@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001745
+
+- Question : [SEQ171001745](seq171001745.md) — Subventions attribuées aux restaurants du cœur
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-01-11, page 112*
+
+Il est tout d'abord important de noter que l'État maintient l'effort correspondant à l'achat de denrées. Dans le cadre du Fonds d'aide Alimentaire aux plus démunis (FEAD) pour lequel l'État intervient à hauteur de 15 % par des crédits annuels, Les restaurants du cœur ont vu leur enveloppe augmenter en 2017 par rapport aux années précédentes et passer à plus de 27M€, dont près de 26M€ consacrés à l'achat de denrées. Par ailleurs, elle l'informe que les projets de la tête de réseau des restaurants du cœur sont financés au titre des crédits nationaux de l'action alimentaire du programme budgétaire 304 et des crédits d'insertion du programme 177 respectivement à hauteur de 225 000€ et de 580 000€ en 2017. Concernant le soutien aux antennes locales, ces dernières bénéficient notamment de l'intervention des crédits déconcentrés pour la conduite de projets locaux (plus de 5 % des crédits leur sont dévolus au titre de la cohésion sociale). Pour les associations d'aide alimentaire et notamment les Restaurants du cœur, d'autres sources d'approvisionnement ont également été favorisées dans le cadre de la loi n° 2016-138 du 11 février 2016 relative à la lutte contre le gaspillage alimentaire. La nécessité de favoriser l'accès à une alimentation suffisante, saine, nutritive et de qualité pour les personnes les plus vulnérables était au cœur des réflexions de l'atelier 12 des états généraux de l'alimentation sur l'insécurité alimentaire. Les travaux vont se poursuivre au niveau national et territorial pour favoriser les synergies et les mutualisations entre les acteurs de l'alimentation et s'assurer que les associations puissent mettre en œuvre les projets qu'elles soutiennent pour lutter contre la précarité et l'exclusion.
