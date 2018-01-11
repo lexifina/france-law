@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102284
+
+- Question : [SEQ171102284](seq171102284.md) — Dispositifs agréés d'assainissement non collectif
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-01-11, page 115*
+
+L'attention a été attirée sur les dispositifs d'assainissement non collectif (ANC) agréés et la récente étude de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA) sur le suivi in situ des installations d'assainissement non collectif. Cette étude a conclu que sur 21 dispositifs agréés étudiés, seuls 5 seraient aptes à délivrer une qualité d'eaux usées traitées acceptables pour les milieux aquatiques. Cette étude porte, comme cela est indiqué dans le rapport, sur un échantillon de dispositifs agréés qui ne correspond pas à l'ensemble du parc français des dispositifs agréés. Le rapport explique également pourquoi, à dire d'experts, les résultats par dispositifs sont satisfaisants dès lors que le nombre d'installations suivies par dispositif est supérieur ou égal à 13. Il n'était donc pas nécessaire de disposer d'un échantillon de 30 installations par dispositif. La méthodologie de cette étude est disponible à cette adresse : http://cemadoc.irstea.fr/cemoa/PUB00054553. Le ministre a été interpelé également sur la différence de conclusion entre les études de AEAG/VEOLIA dans le Tarn et celle d'IRTSEA. L'étude d'IRTSEA avait pour but de suivre in situ des dispositifs d'ANC dans leurs conditions réelles de fonctionnement chez les particuliers. L'étude du Tarn portait, quant à elle, sur des installations bénéficiant d'un entretien régulier et suivies par les industriels. Enfin, tous les dispositifs suivis par l'étude restent agréés par le ministère de la transition écologique et solidaire et le ministère des solidarités et de la santé. Les suites qui seront données à l'étude de l'IRSTEA sont discutées au sein du plan d'action national sur l'assainissent non collectif (PANANC).
