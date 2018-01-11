@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102293
+
+- Question : [SEQ171102293](seq171102293.md) — Simplification des règles d'ouverture du compte d'investissement forestier et d'assurance
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-01-11, page 93*
+
+Le compte d'investissement forestier et d'assurance est un outil d'épargne, d'auto-assurance et d'investissement destiné aux personnes physiques propriétaires privés de forêts, aux groupements forestiers et aux sociétés d'épargne forestière. Il a été institué par l'article 32 de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013 et est codifié aux articles L. 352-1 à L. 352-6 du code forestier. Son déploiement par les établissements financiers et les organismes bancaires a été entravé par les lourdeurs administratives d'ouverture et de gestion qu'il génère, tant pour les propriétaires forestiers que pour les teneurs de compte. Des modifications législatives se révélaient nécessaires pour surmonter ces difficultés. Ces modifications ont été introduites à l'article 38 de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016. Les dispositions législatives adoptées nécessitaient la prise de décrets modifiant l'annexe III du code général des impôts et la partie réglementaire du code monétaire et financier. Conformément à l'article D. 351-1 du code forestier, ces projets de décret ont été soumis par le ministère chargé des forêts, le 24 janvier 2017, à l'avis du comité national de la gestion des risques en forêt qui a donné à ces textes un avis favorable. Ils ont ensuite été transmis par le ministère chargé des forêts, au ministère de l'économie et des finances. La prise de ces décrets est effectivement conditionnée par la saisine, pour avis, du comité consultatif de la législation et de la réglementation financières qui relève du ministère de l'économie et des finances. Les projets de texte poursuivent donc leur parcours de consultations obligatoires.
