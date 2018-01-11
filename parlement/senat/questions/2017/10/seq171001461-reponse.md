@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001461
+
+- Question : [SEQ171001461](seq171001461.md) — Situation des trains intercités en Normandie
+
+## Réponse
+
+*Transports, JO du 2018-01-11, page 122*
+
+La régularité des trains d'équilibre du territoire (TET) en Normandie s'est en effet dégradée au premier semestre 2017, hormis sur la ligne Paris-Rouen-le Havre. Cette dégradation est, pour une large part, liée à des problèmes de fiabilité du matériel roulant devenu vieillissant. Des actions sont menées par l'opérateur afin d'améliorer la situation, notamment en suivant au mieux la préparation des trains. L'objectif est un redressement de la régularité pour les derniers mois de l'année. Il existe des dédommagements pour les voyageurs impactés par ce type de dysfonctionnement, conformément à la politique tarifaire de SNCF Mobilités et la garantie G30. Par ailleurs, afin d'améliorer le confort des trains, et plus particulièrement pour la ligne Paris-Caen-Cherbourg/Trouville-Deauville, plusieurs actions d'entretien et de nettoyage d'envergure, aussi bien à l'extérieur qu'à l'intérieur des rames, ont été organisées. Pour pallier le problème majeur de vétusté du matériel roulant des lignes Paris-Caen-Cherbourg/Trouville-Deauville et Paris-Rouen-Le Havre, l'État, via l'agence de financement des infrastructures de transport de France (AFITF), a décidé de financer son renouvellement à hauteur de 720 M€. Cette décision s'inscrit dans le cadre de l'accord conclu à l'automne 2016 avec la région Normandie pour la reprise des lignes TET en 2020. À ce titre, l'État, l'AFITF et la Région Normandie ont signé une convention de financement le 16 novembre 2016. Les versements de l'AFITF à la Région s'étalent de 2017 à 2021. Depuis, la Région a commandé, via SNCF Mobilités, 40 rames à deux niveaux Bombardier. Les mises en circulation commerciale sont prévues entre 2019 et 2021.
