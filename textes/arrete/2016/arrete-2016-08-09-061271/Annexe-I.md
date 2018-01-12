@@ -1,7 +1,5 @@
 # Article Annexe I
 
-ANNEXE I
-
 (2) DISPOSITIONS CONCERNANT LES DIPLÔMES OU BREVETS RECONNUS
 
 Le tableau 1 ci-dessous précise pour les diplômes reconnus pour la délivrance du brevet d'officier électrotechnicien et les conditions complémentaires à satisfaire à cet effet.
@@ -58,12 +56,14 @@ Tout brevet permettant d'exercer des fonctions à la machine au niveau opératio
 
 . 3 Du certificat d'aptitude à l'exploitation des embarcations et radeaux de sauvetage (CAEERS),
 
-. 4 De l'enseignement médical niveau II (EM II),
+. 4 D'une des attestations de formation relatives à la direction et au travail en équipe ainsi qu'à la gestion des ressources mentionnées à l'article 6 de l'arrêté du 24 avril 2014 susvisé,
 
-. 5 D'une des attestations de formation relatives à la direction et au travail en équipe ainsi qu'à la gestion des ressources mentionnées à l'article 6 de l'arrêté du 24 avril 2014 susvisé,
+. 5 Du certificat de formation spécifique à la sûreté,
 
-. 6 Du certificat de formation spécifique à la sûreté,
+. 6 De l'attestation de formation base à la haute tension à bord des navires,
 
-. 7 De l'attestation de formation base à la haute tension à bord des navires,
+. 7 De l'attestation de formation avancée à la haute tension à bord des navires.
 
-. 8 De l'attestation de formation avancée à la haute tension à bord des navires. |
+4° Etre titulaire du certificat attestant la validation de l'enseignement médical de niveau II.
+
+|
