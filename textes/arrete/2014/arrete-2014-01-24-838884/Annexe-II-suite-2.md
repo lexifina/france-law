@@ -440,11 +440,11 @@ FR000000000000736
 
 |
 
-Snecma
+SAFRAN AIRCRAFT ENGINES
 
 |
 
-Snecma
+Safran Aircraft Engines - Gennevilliers
 
 |
 
@@ -819,6 +819,30 @@ COFELY GDF SUEZ MEUDON
 101 148
 
 |
+
+FR000000000000748 |
+
+DALKIA |
+
+Aulnay 3000 |
+
+11 439 |
+
+9 833 |
+
+8 711 |
+
+7 625 |
+
+6 572 |
+
+5 554 |
+
+4 568 |
+
+3 619 |
+
+57 921 |
 
 FR000000000000749
 
@@ -2868,19 +2892,19 @@ Chaufferie urbaine SETE (SOCIETE NOUVELLE D'EXPLOITATION THERMIQUE DE L'ESPLANAD
 
 |
 
-11 433
+5 717
 
 |
 
-9 405
+4 703
 
 |
 
-7 449
+3 725
 
 |
 
-126 002
+111 860
 
 |
 
@@ -3896,11 +3920,11 @@ FR000000000000837
 
 |
 
-Tereos Syral
+TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
-Tereos Syral
+TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
@@ -5768,11 +5792,11 @@ FR000000000000900
 
 |
 
-CECA
+ARKEMA France
 
 |
 
-CECA Feuchy
+Usine de FEUCHY
 
 |
 
@@ -6124,7 +6148,7 @@ Société de la raffinerie de Dunkerque
 
 |
 
-249 549
+113 790
 
 |
 
@@ -6144,7 +6168,7 @@ Société de la raffinerie de Dunkerque
 
 |
 
-1 026 062
+890 303
 
 |
 
@@ -6824,11 +6848,11 @@ FR000000000000936
 
 |
 
-AGC
+AGC GLASS France
 
 |
 
-AGC USINE DE BOUSSOIS
+Usine de Boussois
 
 |
 
@@ -10808,11 +10832,11 @@ FR000000000001054
 
 |
 
-Sucrerie de Toury et usines annexes
+CRISTAL UNION
 
 |
 
-Sucrerie de Toury et usines annexes
+Sucrerie de Toury et Usines annexes
 
 |
 
@@ -11962,11 +11986,11 @@ FR000000000001086
 
 |
 
-SVI Sucrerie de Pithiviers-le-Vieil
+CRISTAL UNION
 
 |
 
-Sucrerie de Pithiviers-le-Vieil (SVI)
+Sucrerie de Pithiviers Le Vieil
 
 |
 
@@ -13422,27 +13446,27 @@ COGELYO N-E - Site Goodyear
 
 |
 
-25 408
+12 704
 
 |
 
-24 942
+12 471
 
 |
 
-24 475
+12 238
 
 |
 
-24 009
+12 005
 
 |
 
-23 543
+11 771
 
 |
 
-254 549
+193 361
 
 |
 

@@ -52,6 +52,30 @@ sur la période
 
 |
 
+FR-new-03300377 |
+
+MACON ENERGIES SERVICES |
+
+Centrale d'énergie des Bruyères |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-05100850
 
 |
@@ -292,39 +316,15 @@ EJ PICARDIE
 
 |
 
-FR-new-05101795 |
-
-CHU AMIENS PICARDIE |
-
-CHU AMIENS POLE ENERGIE |
-
-- |
-
-- |
-
-4 584 |
-
-4 012 |
-
-3 458 |
-
-2 922 |
-
-2 404 |
-
-1 904 |
-
-19 284 |
-
 FR-new-05102147
 
 |
 
-Sica pulpe de Haute-Picardie
+PULPE HAUTE PICARDIE
 
 |
 
-SICA PULPE HAUTE-PICARDIE
+Pulpe Haute Picardie
 
 |
 
@@ -364,9 +364,7 @@ SICA PULPE HAUTE-PICARDIE
 
 |
 
-FR-new-05102362
-
-|
+FR-new-05102362 |
 
 AJINOMOTO FOODS EUROPE |
 
@@ -437,6 +435,78 @@ SCICA ROYE DESHYDRADATION
 147 306
 
 |
+
+FR-new-05104757 |
+
+CHU AMIENS PICARDIE |
+
+CHU AMIENS POLE ENERGIE |
+
+- |
+
+- |
+
+4 584 |
+
+4 012 |
+
+3 458 |
+
+2 922 |
+
+2 404 |
+
+1 904 |
+
+19 284 |
+
+FR-new-05108014 |
+
+SGD SA |
+
+SGD SA |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-05200010 |
+
+POLYREY SAS |
+
+POLYREY SAS |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-05200027
 
@@ -1594,11 +1664,11 @@ FR-new-05207519
 
 |
 
-Abengoa Bioenergy France
+BIOENERGIE DU SUD-OUEST
 
 |
 
-Abengoa Bioenergy France
+Bioénergie du Sud-Ouest
 
 |
 
@@ -1762,23 +1832,23 @@ Centrale mobile d'enrobage MI708
 
 |
 
-1 275
+0
 
 |
 
-1 076
+0
 
 |
 
-885
+0
 
 |
 
-700
+0
 
 |
 
-11 151
+7 215
 
 |
 
@@ -1858,23 +1928,23 @@ Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-1 640
+871
 
 |
 
-1 385
+736
 
 |
 
-1 138
+605
 
 |
 
-900
+478
 
 |
 
-11 907
+9 534
 
 |
 
@@ -2526,6 +2596,30 @@ SOCIETE LAITIERE DE VITRE
 
 |
 
+FR-new-05501580 |
+
+Celluloses De la Loire |
+
+Celluloses De la Loire |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-05503400
 
 |
@@ -2578,7 +2672,7 @@ FR-new-05516997
 
 |
 
-CECABROONS
+Union de Coopérative Agricole (UCA) CECABROONS
 
 |
 
@@ -2621,6 +2715,54 @@ CECABROONS
 15 229
 
 |
+
+FR-new-05501784 |
+
+Nutrea Nutrition Animale N.N.A. |
+
+N.N.A. |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-05518409 |
+
+SYNUTRA |
+
+SYNUTRA |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-05600041
 
@@ -3106,25 +3248,25 @@ FR-new-05603274 |
 
 SIORAT NGE |
 
-SIORAT GTX NGE centrale d'enrobage temporaire ASTEC 11-110 |
+SIORAT GTX NGE CENTRALE D ENROBAGE TEMPORAIRE ASTEC 11-110 |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+627 |
 
-/ |
+1 837 |
 
-/ |
+1 584 |
 
-/ |
+1 338 |
 
-/ |
+1 101 |
 
-/ |
+872 |
 
-/ |
+7 359 |
 
 FR-new-05701177
 
@@ -3730,23 +3872,23 @@ VIVESCIA-site de PRINGY
 
 |
 
-1 363
+682
 
 |
 
-1 151
+576
 
 |
 
-945
+473
 
 |
 
-749
+375
 
 |
 
-11 922
+9 820
 
 |
 
@@ -4522,11 +4664,11 @@ FR-new-05801045
 
 |
 
-SICA de DESHYDRATATION de FONTAINE-LE-DUN
+SIDEFO
 
 |
 
-SICA de DESHYDRATATION de FONTAINE-LE-DUN
+Sidefo
 
 |
 
@@ -4810,7 +4952,7 @@ FR-new-05904909
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -4954,7 +5096,7 @@ FR-new-05904913
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -5002,7 +5144,7 @@ FR-new-05904914
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -5050,7 +5192,7 @@ FR-new-05904915
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -5814,6 +5956,30 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
+FR-new-06103703 |
+
+FRESENIUS MEDICAL CARE SMAD |
+
+FRESENIUS MEDICAL CARE SMAD |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-06103721
 
 |
@@ -5962,11 +6128,11 @@ FR-new-06103727
 
 |
 
-BLUESTAR SILICONES SAS France
+ELKEM BLUESTAR SILICONES France SAS
 
 |
 
-BLUESTAR SILICONES site de Saint-Fons
+Elkem Silicones St Fons
 
 |
 
@@ -6034,23 +6200,23 @@ Coopérative agricole Terre d'alliances
 
 |
 
-519
+1 037
 
 |
 
-438
+876
 
 |
 
-360
+720
 
 |
 
-285
+570
 
 |
 
-6 869
+8 470
 
 |
 
@@ -6326,19 +6492,19 @@ COOPERATIVE DAUPHINOISE
 
 |
 
-179
+-
 
 |
 
-147
+-
 
 |
 
-116
+-
 
 |
 
-2 807
+2 365
 
 |
 
@@ -6442,11 +6608,11 @@ FR-new-06105222
 
 |
 
-BLUESTAR SILICONES France
+ELKEM BLUESTAR SILICONES France SAS
 
 |
 
-BLUESTAR SILICONES site de Roussillon
+Elkem Silicones Roussillon
 
 |
 
@@ -6830,19 +6996,19 @@ Entreprise Malet-Grands Chantiers-PE 15
 
 |
 
-539
+-
 
 |
 
-442
+-
 
 |
 
-350
+-
 
 |
 
-7 748
+6 417
 
 |
 
@@ -7972,23 +8138,23 @@ COLAS CENTRE OUEST |
 
 COLAS CENTRE OUEST-Centrale TSM 25 |
 
-/ |
+483 |
 
-/ |
+325 |
 
-/ |
+288 |
 
-/ |
+252 |
 
-/ |
+218 |
 
-/ |
+184 |
 
-/ |
+152 |
 
-/ |
+120 |
 
-/ |
+2 022 |
 
 FR-new-06308843 |
 
@@ -8667,6 +8833,30 @@ FR-new-06410834 |
 JEAN LEFEBVRE FOS |
 
 JEAN LEFEBVRE MEDITERANNEE |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06412416 |
+
+ENGIE Energie Services (ENGIE Cofely) |
+
+Alteo - Gardanne |
 
 / |
 
@@ -9602,11 +9792,11 @@ FR-new-06700361
 
 |
 
-NMLK
+NLMK
 
 |
 
-NMLK
+NLMK
 
 |
 
@@ -10830,6 +11020,30 @@ EURALIS CEREALES BARCELONNE-DU-GERS
 
 |
 
+FR-new-06803269 |
+
+Airbus Defence & Space (Astrium) |
+
+Airbus Defence & Space (Astrium) |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-06803365
 
 |
@@ -11022,6 +11236,30 @@ DILLINGER France
 
 |
 
+FR-new-07000442 |
+
+Saint Gobain Glass France |
+
+Saint Gobain Glass France |
+
+- |
+
+- |
+
+- |
+
+26 228 |
+
+87 014 |
+
+85 386 |
+
+83 759 |
+
+82 132 |
+
+364 519 |
+
 FR-new-07000508
 
 |
@@ -11074,11 +11312,11 @@ FR-new-07000510
 
 |
 
-CMP DUNKERQUE
+ENTREPOSE INDUSTRIES
 
 |
 
-CMP DUNKERQUE
+Entrepose Industries
 
 |
 
@@ -11309,6 +11547,30 @@ Befesa Valera
 238 187
 
 |
+
+FR-new-07000637 |
+
+MG-VALDUNES |
+
+MG-VALDUNES Leffinckoucke |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-07000683
 
@@ -12366,6 +12628,30 @@ GLAXOSMITHKLINE BIOLOGICALS SAS
 
 |
 
+FR-new-07002377 |
+
+TKES UGO |
+
+TKES UGO Isbergues |
+
+27 102 |
+
+26 632 |
+
+26 155 |
+
+25 674 |
+
+25 188 |
+
+24 696 |
+
+24 199 |
+
+23 700 |
+
+203 346 |
+
 FR-new-07004337
 
 |
@@ -12558,6 +12844,30 @@ UNION VIENNE LOIRE
 
 |
 
+FR-new-07202098 |
+
+CARTONNERIES DE LA BOEME |
+
+CARTONNERIES DE LA BOEME |
+
+911 |
+
+895 |
+
+879 |
+
+863 |
+
+846 |
+
+830 |
+
+813 |
+
+796 |
+
+6 833 |
+
 FR-new-07205920
 
 |
@@ -12702,7 +13012,7 @@ Centrale mobile d'enrobage MI744
 
 |
 
-FR-new-07400012
+FR-new-007402241
 
 |
 
@@ -12850,11 +13160,11 @@ FR-new-07409093
 
 |
 
-SOCACHAL chaufferie d'appoint secours centralisé
+DALKIA
 
 |
 
-SOCACHAL chaufferie d'appoint secours centralisé
+Chaufferie d'appoint secours
 
 |
 
@@ -13094,7 +13404,7 @@ SIDESUP
 
 |
 
-SIDESUP
+Sidesup
 
 |
 
@@ -13188,23 +13498,23 @@ EUROVIA GRANDS TRAVAUX |
 
 Centrale d'enrobage mobile RF 500 |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+745 |
 
-/ |
+862 |
 
-/ |
+728 |
 
-/ |
+599 |
 
-/ |
+474 |
 
-/ |
+3 408 |
 
 FR-new-10011026
 
@@ -13253,6 +13563,30 @@ TSM 28
 9 455
 
 |
+
+FR-new-10013142 |
+
+DESCARTES BIOMASSE INDUSTRIE - DBI |
+
+DESCARTES BIOMASSE INDUSTRIE - DBI |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-10300065
 
@@ -13541,6 +13875,30 @@ SAS NORD ESTER
 19 798
 
 |
+
+FR-new-55602682 |
+
+SAS STANVEN |
+
+SAS STANVEN Usine de Plouray |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-69905007
 

@@ -412,11 +412,11 @@ FR000000000000387
 
 |
 
-MUNKSJO LA GERE
+AHLSTROM MUNKSJO LA GERE
 
 |
 
-MUNKSJO LA GERE usine de la Gère
+Ahlstrom Munksjo La Gere
 
 |
 
@@ -1318,7 +1318,7 @@ AEROPORTS DE LYON
 
 |
 
-Aéroport de Lyon - Saint-Exupéry
+Aéroport de Lyon-Saint Exupéry (1)
 
 |
 
@@ -1330,15 +1330,15 @@ Aéroport de Lyon - Saint-Exupéry
 
 2 800 |
 
-2 413 |
+- |
 
-2 040 |
+- |
 
-1 677 |
+- |
 
-1 329 |
+- |
 
-21 102 |
+13 643 |
 
 FR000000000000430 |
 
@@ -2252,11 +2252,11 @@ Carrières et fours à Chaux-de-Dugny
 
 FR000000000000475 |
 
-MUNKSJO STENAY SAS
+AHLSTROM MUNKSJO STENAY
 
 |
 
-MUNKSJO STENAY SAS-usine de Stenay
+Ahlstrom Munksjo Stenay
 
 |
 
@@ -2762,11 +2762,11 @@ SOUCHE PARTICIPATION
 
 FR000000000000497 |
 
-MUNKSJO ARCHES SAS
+AHLSTROM MUNKSJO ARCHES
 
 |
 
-MUNKSJO ARCHES SAS
+Ahlstrom Munksjo Arches
 
 |
 
@@ -3456,7 +3456,7 @@ TOTAL PETROCHEMICALS France
 
 |
 
-TOTAL PETROCHEMICALS France-usine de Carling-Saint-Avold
+TOTAL PETROCHEMICALS France - usine de Carling Saint-Avold
 
 |
 
@@ -3464,7 +3464,7 @@ TOTAL PETROCHEMICALS France-usine de Carling-Saint-Avold
 
 |
 
-442 512
+442 513
 
 |
 
@@ -3492,7 +3492,7 @@ TOTAL PETROCHEMICALS France-usine de Carling-Saint-Avold
 
 |
 
-1 868 186
+1 868 187
 
 |
 
@@ -3796,27 +3796,27 @@ Terminal méthanier de Montoir de Bretagne
 
 |
 
-6 691
+1 916
 
 |
 
-5 764
+1 651
 
 |
 
-4 867
+1 394
 
 |
 
-3 999
+1 145
 
 |
 
-3 164
+906
 
 |
 
-68 896
+51 423
 
 |
 
@@ -6728,11 +6728,11 @@ FR000000000000674
 
 |
 
-SNECMA
+SAFRAN AIRCRAFT ENGINES
 
 |
 
-SNECMA Villaroche
+Safran Aircraft Engines - Villaroche
 
 |
 
@@ -7552,9 +7552,9 @@ SAINT-MICHEL-SUR-ORGE |
 
 FR000000000000713 |
 
-IDEX ENERGIES |
+CONCORDIA ENERGIE |
 
-IDEX ENERGIES - chaufferie de Vigneux-sur-Seine |
+Vigneux sur Seine |
 
 9 518 |
 
@@ -7837,3 +7837,7 @@ CTFE Bâtiment 5400
 292 257
 
 |
+
+NOTA :
+
+(1) Conformément à l'arrêté du 2 janvier 2018, cette installation est exclue du système d'échange de quotas du fait qu'elle n'atteint plus la puissance nécessaire pour être éligibles à ce système.

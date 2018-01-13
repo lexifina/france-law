@@ -1256,11 +1256,11 @@ FR000000000000038
 
 |
 
-HEXION France
+SYNTHOMER France
 
 |
 
-HEXION France-Etablissement de Ribécourt
+Synthomer France
 
 |
 
@@ -1736,11 +1736,11 @@ FR000000000000055
 
 |
 
-Tereos Syral Nesle
+TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
-Tereos Syral Etablissement de Nesle (80190)
+Tereos - Etablissement de Nesle (80)
 
 |
 
@@ -1928,11 +1928,11 @@ FR000000000000060
 
 |
 
-Société Vermandoise Industries
+CRISTAL UNION
 
 |
 
-Sucrerie de Sainte-Emilie
+Sucrerie de Sainte Emilie
 
 |
 
@@ -2696,11 +2696,11 @@ FR000000000000083
 
 |
 
-AIRBUS SAFRAN LAUNCHERS
+ARIANEGROUP SAS
 
 |
 
-AIRBUS SAFRAN LAUNCHERS
+ArianeGroup St Médart
 
 |
 
@@ -3660,7 +3660,7 @@ POLYREY SAS
 
 |
 
-POLYREY SAS
+POLYREY COGENERATION
 
 |
 
@@ -4808,11 +4808,11 @@ FR000000000000137
 
 |
 
-SMADEC
+MACON ENERGIES SERVICES
 
 |
 
-SMADEC
+Chaufferie de Bioux
 
 |
 
@@ -5536,39 +5536,39 @@ TERREAL CHAGNY 1
 
 |
 
-21 097
+15 789
 
 |
 
-20 731
+15 515
 
 |
 
-20 360
+15 237
 
 |
 
-19 985
+14 957
 
 |
 
-19 606
+14 673
 
 |
 
-19 224
+14 387
 
 |
 
-18 837
+14 098
 
 |
 
-18 449
+13 807
 
 |
 
-158 289
+118 463
 
 |
 
@@ -6932,35 +6932,35 @@ ERASTEEL COMMENTRY
 
 |
 
-20 772
+11 572
 
 |
 
-20 400
+11 364
 
 |
 
-20 024
+11 155
 
 |
 
-19 645
+10 944
 
 |
 
-19 262
+10 730
 
 |
 
-18 874
+10 514
 
 |
 
-18 486
+10 298
 
 |
 
-158 601
+97 715
 
 |
 
@@ -9612,7 +9612,7 @@ NUFARM SAS
 
 |
 
-CHAUFFERIE VAPEUR (I01)
+CHAUFFERIE VAPEUR (I01) (1)
 
 |
 
@@ -9636,19 +9636,19 @@ CHAUFFERIE VAPEUR (I01)
 
 |
 
-933
+-
 
 |
 
-767
+-
 
 |
 
-607
+-
 
 |
 
-9 667
+7 360
 
 |
 
@@ -11384,7 +11384,7 @@ FR000000000000310
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -11912,11 +11912,11 @@ FR000000000000322
 
 |
 
-MONNARD SNC
+PRODIA SNC
 
 |
 
-MONNARD
+PRODIA SNC
 
 |
 
@@ -12152,7 +12152,7 @@ FR000000000000329
 
 |
 
-SOLVAY TAVAUX
+SOLVAY Opérations France
 
 |
 
@@ -13520,22 +13520,26 @@ RHODIA OPERATIONS SITE DE VALENCE
 
 |
 
-16 755
+8 997
 
 |
 
-16 429
+8 822
 
 |
 
-16 097
+8 643
 
 |
 
-15 766
+8 466
 
 |
 
-135 269
+105 150
 
 |
+
+NOTA :
+
+(1) Conformément à l'arrêté du 2 janvier 2018, cette installation est exclue du système d'échange de quotas du fait qu'elle n'atteint plus la puissance nécessaire pour être éligibles à ce système.

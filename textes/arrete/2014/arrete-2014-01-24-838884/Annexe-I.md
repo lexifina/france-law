@@ -642,11 +642,11 @@ FR-new-07407362
 
 |
 
-EQUINIX FRANCE ENTERPRISES SAS
+EQUINIX FRANCE SAS
 
 |
 
-EQUINIX PA2 et PA3 data centers de Saint-Denis |
+EQUINIX PA2 et PA3 datas centers de Saint Denis |
 
 FR-new-07408417 |
 
@@ -658,7 +658,7 @@ INTERXION FRANCE PAR5 data center Saint-Denis
 
 FR-new-07408791 |
 
-EQUINIX FRANCE ENTERPRISES SAS |
+EQUINIX FRANCE SAS |
 
 EQUINIX PA6 data center d'Aubervilliers
 
@@ -668,7 +668,7 @@ FR-new-07409817
 
 |
 
-EQUINIX FRANCE ENTERPRISES SAS
+EQUINIX FRANCE SAS
 
 |
 
