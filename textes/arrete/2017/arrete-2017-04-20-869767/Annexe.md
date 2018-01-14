@@ -1,14 +1,22 @@
 # Article Annexe
 
-DIRECTION |
+Direction |
 
-APPLICATION DES DISPOSITIONS DE L'ARRÊTÉ
+Application des dispositions de l'arrêté
 
 à compter de la paie versée en |
 
-Direction régionale des finances publique de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
+Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
 
 avril 2017 |
+
+Direction régionale des finances publiques de Nouvelle Aquitaine et du département de la Gironde |
+
+mars 2018 |
+
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine |
+
+mars 2018 |
 
 Direction régionale des finances publiques de La Réunion |
 
