@@ -24,6 +24,6 @@ Le certificat médical est établi conformément au modèle figurant en annexe I
 
 Test technique préalable à l'entrée en formation :
 
-Le(la) candidat(e) est soumis(e) au test technique suivant lié à sa pratique personnelle : parcourir une distance de 800 mètres nage libre réalisé(e) en moins de 15 minutes.
+Le(la) candidat(e) est soumis(e) au test technique suivant lié à sa pratique personnelle : parcourir une distance de 800 mètres nage libre réalisé(e) en moins de 16 minutes.
 
 Dispense du test technique préalable à l'entrée en formation : les qualifications permettant au (à la) candidat(e) d'être dispensé(e) du test technique à l'entrée en formation sont mentionnées en annexe VI "dispenses et équivalences".
