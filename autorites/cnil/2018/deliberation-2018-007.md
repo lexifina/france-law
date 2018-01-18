@@ -1,0 +1,108 @@
+# Délibération n° 2018-007 du 18 janvier 2018 portant avis sur un projet d'arrêté modifiant l'arrêté du 9 mai 2014 autorisant le traitement de données à caractère personnel dénommé « plate-forme de signalement IGPN » (saisine n° 17019292)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2018-007
+- Date : 2018-01-18
+- Publication : 2018-03-06
+- NOR : CNIX1803205X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000036670671
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère de l'intérieur d'une demande d'avis concernant la mise en œuvre de la plate-forme de signalement IGPN ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de la sécurité intérieure ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses article 26 et 27 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu l'arrêté du 9 mai 2014 autorisant le traitement dénommé plate-forme de signalement IGPN ;
+
+Vu la délibération n° 2014-120 du 3 avril 2014 portant avis sur un projet d'arrêté autorisant le traitement dénommé plate-forme de signalement IGPN ;
+
+Vu la délibération n° 2017-191 du 22 juin 2017 portant modification de la délibération n° 2005-305 du 8 décembre 2005 portant autorisation unique de traitements automatisés de données à caractère personnel mis en oeuvre dans le cadre de dispositifs d'alerte professionnelle ;
+
+Sur la proposition de Mme Marie-France Mazars, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+
+Emet l'avis suivant :
+
+L'inspection générale de la police nationale (IGPN) été autorisée, par un arrêté du 9 mai 2014 pris après avis de la commission, à mettre en œuvre un dispositif permettant aux citoyens de signaler des comportements susceptibles de mettre en cause des agents affectés dans un service de la police nationale.
+
+Le ministère de l'intérieur souhaite désormais permettre aux agents affectés dans un service de la police nationale de signaler à l'IGPN, via cette même plate-forme, des comportements constitutifs d'actes de harcèlement ou de discrimination relevés au sein de leur entité.
+
+L'intégration de ce nouveau traitement au sein de la plate-forme nécessite la modification de l'arrêté du 9 mai 2014, soumise à l'avis de la commission en application des articles 26 et 27 de la loi du 6 janvier 1978 modifiée.
+
+Sur la finalité du traitement :
+
+La modification de l'arrêté a pour objectif d'ajouter une nouvelle finalité à l'outil initialement nommé plate-forme de signalement IGPN . Désormais, l'outil permettra également aux agents de la police nationale d'émettre une alerte dénonçant des faits de discrimination ou de harcèlement, relevés au sein de leur entité, commis en service ou en lien avec le service, à l'encontre d'agents affectés dans un service de la police nationale.
+
+Ce mode de signalement intervient en complément de la voie hiérarchique qui constitue la voie traditionnelle de signalement.
+
+La finalité du traitement nouvellement créé au sein de la plate-forme de signalement n'appelle pas d'observation de la part de la commission.
+
+Sur la nature des données traitées :
+
+La commission note que les données collectées correspondent à celles collectées dans le cadre du dispositif mis en oeuvre au profit des citoyens, auxquelles sont ajoutées les données suivantes, spécifiques aux agents de police nationale :
+
+- en ce qui concerne le déclarant : numéro de matricule, numéro d'identification individuel et service d'affectation ;
+
+- en ce qui concerne l'agent mis en cause : civilité, nom, prénom, numéro de matricule, numéro d'identification individuel.
+
+La commission observe que les données nominatives de l'agent mis en cause ont été ajoutées à l'arrêté, conformément à ses recommandations dans sa délibération de 2014.
+
+Elle prend par ailleurs note qu'en cas de signalement de fait de discrimination, la nature de la discrimination est indiquée via une case à cocher. Des éléments complémentaires peuvent être apportés pour préciser les faits signalés. Ils sont alors collectés auprès de la victime après recueil de son consentement écrit et explicite.
+
+La commission rappelle que si des zones de commentaires libres sont prévues dans le formulaire de signalement, des mesures spécifiques doivent être mises en oeuvre pour s'assurer que seules des informations pertinentes, adéquates et non excessives au regard des finalités poursuivies sont collectées.
+
+La commission prend acte que les signalements peuvent être réalisés de manière anonyme mais qu'ils sont traités sous réserve que la gravité des faits soit établie et que les éléments factuels soient suffisamment détaillés, conformément à sa doctrine en matière d'alertes professionnelles.
+
+Sur la durée de conservation des données :
+
+S'agissant de la durée de conservation des données collectées dans le cadre du présent dispositif, elle correspond à la durée retenue pour dispositif de signalement ouvert aux citoyens et examiné en 2014 par la commission. Les données sont ainsi supprimées à l'issue des investigations et, au plus tard, dans un délai de deux ans suivant leur collecte.
+
+Le ministère précise que le délai de deux ans constitue le temps maximum nécessaire à la réalisation des investigations dans le cadre du traitement des signalements.
+
+La commission estime que cette durée de conservation est justifiée par rapport à la finalité poursuivie.
+
+S'agissant des données utilisées à des fins de statistiques, la commission prend acte du fait qu'il ne s'agit pas de donnée permettant d'identifier directement ou indirectement la personne concernée, et qu'elles sont conservées pendant cinq ans.
+
+Sur les destinataires des données :
+
+Il est ajouté, dans l'arrêté encadrant la mise en oeuvre de la plate-forme de signalement, que peuvent être destinataires des données à raison de leurs attributions et dans la limite du besoin d'en connaître, les agents de la préfecture de police et de la direction générale de la sécurité intérieure (DGSI), ainsi que les agents relevant des réseaux professionnels de soutien du secrétariat général du ministère de l'intérieur.
+
+S'agissant de la DGSI, il s'agit plus précisément des agents des services des ressources humaines de la direction. L'ajout de ce destinataire résulte du fait que la DGSI, qui dépendait encore de la direction générale de la police nationale (DGPN) au moment de l'adoption de l'arrêté du 9 mai 2004, constitue désormais une direction distincte de la DGPN.
+
+S'agissant des réseaux des professionnels de soutien du secrétariat général du ministère de l'intérieur, ils regroupent les services de médecine de prévention, le service social ainsi que l'inspection santé et sécurité au travail relevant du secrétariat général du ministère. Ces services peuvent être destinataires des données afin de permettre aux personnes effectuant un signalement d'être orientées, le cas échéant, vers les partenaires médico-sociaux et de ressources humaines compétents.
+
+Sur l'information des personnes :
+
+La commission prend acte de l'engagement du ministère à reprendre les mentions d'information figurant dans sa délibération n° 2017-191 du 22 juin 2017 portant modification de la délibération n° 2005-305 du 8 décembre 2005 portant autorisation unique de traitements automatisés de données à caractère personnel mis en oeuvre dans le cadre de dispositifs d'alerte professionnelle, s'agissant notamment du périmètre du dispositif et des conditions d'utilisation.
+
+La commission rappelle qu'une information doit être délivrée, en application de l'article 32 de la loi du 6 janvier 1978 modifiée, à la personne effectuant le signalement ainsi qu'à la personne visée par le signalement, le cas échéant de manière différée, après adoption de mesures conservatoires.
+
+Sur les droits d'accès, de rectification et d'opposition des personnes :
+
+La commission note que les droits d'accès et de rectification encadrés par les articles 39 et 4.0 de la loi du 6 janvier 1978 modifiée s'exercent auprès de l'IGPN mais que le droit d'opposition est écarté par le projet d'arrêté, comme cela était prévu dans le dispositif de signalement initial.
+
+Sur la sécurité des données et la traçabilité des actions :
+
+A titre liminaire, la commission rappelle qu'en application de l'article 34 de la loi du 6 janvier 1978 modifiée, le responsable de traitement doit prendre toutes les précautions utiles au regard des risques présentés par le traitement pour préserver la sécurité des données à caractère personnel.
+
+Elle note qu'un mécanisme de gestion des habilitations est mis en œuvre pour garantir que les personnes habilitées n'ont accès qu'aux seules données effectivement nécessaires à la réalisation de leurs missions, et relève qu'une politique de mot de passe, régulièrement renouvelée et conforme aux préconisations de la commission, est appliquée.
+
+Elle relève également que les accès à l'application font l'objet d'une traçabilité afin de permettre la détection d'éventuelles tentatives d'accès frauduleux ou illégitimes.
+
+La commission souligne enfin que l'obligation de sécurité nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+Pour la présidente :
+
+Le vice-président délégué,
+
+M.-F. Mazars
