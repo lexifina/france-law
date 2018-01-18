@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101867
+
+- Question : [SEQ171101867](seq171101867.md) — Lecture des articles du code civil lors des célébrations de mariage
+
+## Réponse
+
+*Justice, JO du 2018-01-18, page 219*
+
+Le législateur a estimé nécessaire, lors de la célébration du mariage, de faire procéder à la lecture par l'officier de l'état civil de certains articles du code civil afin de donner une information complète aux futurs conjoints sur leurs droits et devoirs en qualité d'époux, avant de recueillir leur consentement à l'union matrimoniale. La lecture des articles 213 et 371-1 du code civil relatifs à l'éducation des enfants et à l'autorité parentale, imposée par la loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale, participe de cette démarche. Cette disposition étant d'ordre public, il n'est pas possible d'y déroger. En toute hypothèse, il n'est pas envisageable de faire dépendre la lecture de ces articles de la situation particulière des futurs époux. Outre qu'une telle proposition pourrait être fragile au regard du principe constitutionnel d'égalité, elle serait en pratique très difficile à mettre en œuvre car elle impliquerait pour l'officier de l'état civil de déterminer avec certitude, pour chaque couple, toutes les situations concrètes de la vie maritale à venir et les intentions profondes de chacun des époux. Il n'est par conséquent pas envisagé de permettre à l'officier de l'état civil d'apprécier l'opportunité de la lecture de certaines dispositions du code civil au vu des projets pour l'avenir des personnes qu'il doit unir. Ainsi, la loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe a supprimé la lecture de l'article 220 du code civil, mais les parlementaires n'ont pas entendu revenir sur la lecture des articles 213 et 371-1 du même code et, en l'état, une nouvelle modification de la loi n'est pas à l'ordre du jour.
