@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901231
+
+- Question : [SEQ170901231](seq170901231.md) — Modification des rythmes scolaires en cours d'année
+
+## Réponse
+
+*Éducation nationale, JO du 2018-01-18, page 197*
+
+Depuis la rentrée scolaire 2017 et dans l'hypothèse d'un consensus local, les communes qui le souhaitent peuvent organiser la semaine scolaire dans le cadre d'une organisation du temps scolaire (OTS) de huit demi-journées sur quatre jours. En effet, le décret n° 2017-1108 du 27 juin 2017 relatif aux dérogations à l'organisation de la semaine scolaire dans les écoles maternelles et élémentaires publiques permet désormais une telle répartition sous réserve d'une proposition conjointe d'une commune ou d'un établissement public de coopération intercommunale (EPCI) et d'un ou plusieurs conseils d'école. Les communes (et les EPCI) qui ont souhaité s'emparer de cette nouvelle possibilité de dérogation ont transmis, avant les vacances d'été, leur projet d'organisation pour l'année scolaire 2017-2018 et les inspecteurs d'académie, directeurs académiques des services de l'éducation nationale (IA-DASEN) ont arrêté, par délégation du recteur d'académie et après instruction, les nouvelles OTS, entrées en vigueur à la rentrée 2017. En revanche, l'évolution des rythmes en cours d'année scolaire, notamment à l'échéance mentionnée du 1er janvier 2018, est difficilement envisageable car elle serait excessivement complexe à mettre en œuvre. En effet, les conditions d'organisation et de bon fonctionnement du service public de l'éducation (notamment les contraintes en termes de ressources humaines, telles l'organisation du service des titulaires remplaçants ou la définition des services partagés dans les écoles concernées) imposent d'adopter une OTS pour une année scolaire complète. Une modification en cours d'année scolaire compliquerait également l'organisation de trop nombreuses familles.
