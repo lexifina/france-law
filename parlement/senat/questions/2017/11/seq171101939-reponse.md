@@ -1,0 +1,69 @@
+# Réponse à la question SEQ171101939
+
+- Question : [SEQ171101939](seq171101939.md) — Application de la législation et de la réglementation en vigueur sur le tabac
+
+## Réponse
+
+*Intérieur, JO du 2018-01-18, page 215*
+
+Les données statistiques dont dispose le service statistique ministériel de la sécurité intérieure (SSMSI) concernant les contraventions pour non-respect de l'interdiction de fumer dans un lieu couvert et clos accueillant du public s'établissent ainsi :
+
+Année
+
+Code Natinf 11280
+
+Libellé Natinf
+
+Nombre infractions
+
+Police Nationale
+
+2014
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+76
+
+2015
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+118
+
+2016
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+124
+
+Janv-oct 2017
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+72
+
+Gendarmerie Nationale
+
+2014
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+130
+
+2015
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+159
+
+2016
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+134
+
+Janv-oct 2017
+
+VIOLATION DE L'INTERDICTION DE FUMER DANS UN LIEU COUVERT ET CLOS ACCUEILLANT DU PUBLIC
+
+73
