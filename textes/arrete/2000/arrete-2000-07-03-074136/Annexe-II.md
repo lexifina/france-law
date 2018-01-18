@@ -340,7 +340,7 @@ Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
 Languedoc-Roussillon
 
-Alsthom groupe mécanique de Provence (GMP), puis Alsthom Atlantique, puis Alsthom, puis GEC Alsthom, puis GEC Alsthom électromécanique, puis GEC Alsthom électromécanique turbine à vapeur, Usine de Saint-Florent, BP 1, 30780 Saint-Florent-sur-Auzonnet : de 1975 à 1998 ;
+Alsthom groupe mécanique de Provence (GMP), puis Alsthom Atlantique, puis Alsthom, puis GEC Alsthom, puis GEC Alsthom électromécanique, puis GEC Alsthom électromécanique turbine à vapeur, Usine de Saint-Florent, BP 1,30780 Saint-Florent-sur-Auzonnet : de 1975 à 1998 ;
 
 ATS FRANCE SA, Avenue Monge, 30100 Alès, 1986 à 1998, puis ATS STELLITE, 1999 à 2000 ;
 
@@ -833,6 +833,10 @@ Etablissements Joly/ groupe DSMEPP France/ Cestidur industrie/ Quadrant EPP Fran
 Etablissement de Vénissieux de la société Berliet devenu Renault véhicules industriels puis Renault Trucks 1, rue des Combats-du-24-août-1944,69200 Vénissieux : de 1964 à 1996 ; Boulevard Charles-de-Gaulle, 69200 Vénissieux : de 1964 à 1996 ; Avenue Pierre-Cot, 69200 Vénissieux : de 1964 à 1996 ;
 
 Etablissements Vital Fargere Aîné/ Cefilac, rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1879 à 1997 ;
+
+Etablissement "Usine de Roussillon", rue Gaston Monmousseau, 38150 Roussillon, de 1945 à 1993 ;
+
+Etablissement "Rhône-Poulenc Chimie Les Roches-Roussillon", rue Gaston Monmousseau, 38150 Roussillon, BP10-Saint Clair du Rhône, 38370 Les roches, de 1993 à 1996 ;
 
 Fonderies et ateliers du Rhône, 45, rue de la Cité, 69425 Lyon : de 1940 à 1980 ;
 
