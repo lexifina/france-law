@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700069
+
+- Question : [SEQ170700069](seq170700069.md) — Stationnement des professionnels de santé dans l'exercice de leur profession
+
+## Réponse
+
+*Intérieur, JO du 2018-01-18, page 205*
+
+Les articles L. 417-1 et R. 417-1 et suivants du code de la route précisent les règles générales en matière d'arrêt et de stationnement ainsi que les sanctions applicables en matière d'arrêt ou de stationnement payant, gênant, très gênant, dangereux ou abusif. Sur le fondement des articles L. 2213-2 et L. 2213-3 du code général des collectivités territoriales, les maires peuvent réserver des emplacements de stationnement aux véhicules utilisés notamment par les personnes titulaires de la carte « mobilité inclusion » portant la mention « stationnement pour personnes handicapées », aux véhicules bénéficiant du label « autopartage », aux transports publics de voyageurs et aux taxis. Ce cadre juridique ne s'applique pas aux professionnels de santé qui peuvent cependant, conformément aux circulaires du 17 mars 1986 et du 26 janvier 1995, bénéficier de tolérances de la part des agents verbalisateurs. En matière de tarifs, le montant de la redevance de stationnement est défini par le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale. Ces tarifs peuvent être modulés en fonction de la durée du stationnement et prévoir une tranche gratuite pour une durée déterminée ou une tarification spécifique pour certaines catégories d'usagers, telles que les résidents. La faculté d'octroyer des dérogations ou de prévoir des tolérances en matière de paiement du stationnement relève donc des élus locaux en charge de cette politique sur leur territoire. Les compétences de ces derniers ont par ailleurs été élargies dans le cadre de la réforme de la décentralisation et de la dépénalisation du stationnement payant, applicable à partir du 1er janvier 2018.
