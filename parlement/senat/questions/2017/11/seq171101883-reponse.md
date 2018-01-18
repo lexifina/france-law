@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101883
+
+- Question : [SEQ171101883](seq171101883.md) — Couverture de la commune de Penmarc'h par la télévision numérique terrestre
+
+## Réponse
+
+*Culture, JO du 2018-01-18, page 190*
+
+La télévision numérique terrestre (TNT) a été rendue accessible à plus de 97 % de la population française, dépassant l'objectif imposé par le législateur aux chaînes nationales de télévision de couvrir au moins 95 % de la population. Il est en revanche difficile pour les chaînes, pour des raisons de contraintes géographiques ou économiques, de couvrir la totalité du territoire par cette voie. Une partie de la population ne peut donc recevoir la télévision par voie hertzienne terrestre dans de bonnes conditions. C'est effectivement la situation dans laquelle se trouvent de nombreux habitants de Penmarc'h dans le Finistère, commune identifiée par le Conseil supérieur de l'audiovisuel comme étant située en grande partie en « zone blanche » de la TNT. Pour ces téléspectateurs, l'article 98-1 de la loi du 30 septembre 1986 fait obligation aux chaînes nationales gratuites de la TNT de mettre leurs services à la disposition d'au moins un distributeur de services par satellite en vue de la constitution d'une offre sur l'ensemble du territoire sans abonnement. Suite à l'adoption de cette disposition, un bouquet des chaînes gratuites de la TNT, dénommé « TNTSAT », est distribué depuis juin 2007 par CanalSat à partir d'un satellite de l'opérateur Astra. L'opérateur Eutelsat a mis à disposition du public un autre bouquet satellitaire gratuit, reprenant l'ensemble des chaînes gratuites de la TNT, dénommé « FRANSAT ». Ces deux offres satellitaires viennent ainsi compléter la diffusion hertzienne terrestre pour offrir à près de 100 % de la population métropolitaine l'ensemble de l'offre gratuite de la TNT, soit 26 chaînes nationales, proposées en grande partie en haute définition.
