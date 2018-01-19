@@ -4260,15 +4260,15 @@ La Rochelle
 
 |
 
-Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarric, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e canton, La Rochelle 8e canton, La Rochelle 9e canton, Marans et Saint-Martin-de-Ré.
+Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarrie, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e canton, La Rochelle 8e canton, La Rochelle 9e canton, Marans et Saint-Martin-de-Ré.
 
 |
 
-[Rochefort (6)]
+Rochefort
 
 |
 
-Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
+Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise.
 
 |
 
@@ -4312,11 +4312,11 @@ Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et
 
 |
 
-[Jonzac
+Jonzac
 
 |
 
-Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge. (4)]
+Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge.
 
 |
 
@@ -4328,11 +4328,11 @@ Cantons de Burie, Cozes, Gémozac, Pons, Royan-Est, Royan-Ouest, Saintes-Est, Sa
 
 |
 
-[Saintes
+Saintes
 
 |
 
-Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)]
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la fraction de commune de La Devise).
 
 |
 
@@ -5881,10 +5881,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (14) applicable à compter du 1er juillet 2009.
 
 (15) Applicable jusqu'au 30 juin 2010.
-
-(16) Applicable à compter du 1er juillet 2010.
-
-(17) Applicable jusqu'au 5 septembre 2010.
 
 NOTA :
 
