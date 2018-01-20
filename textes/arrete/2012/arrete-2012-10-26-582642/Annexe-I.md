@@ -430,7 +430,9 @@ COQUE/ HENON |
 
 Cerastoderma edule |
 
-3 cm |
+Gisement de La Baule : 3 cm
+
+Autres zones : 2,7 cm |
 
 COQUILLE St JACQUES |
 
@@ -496,7 +498,9 @@ PALOURDE JAPONAISE |
 
 Ruditapes philipinarum |
 
-4 cm |
+Départements du Calvados et de la Manche : 4 cm
+
+Autres zones : 3,5 cm |
 
 PALOURDE ROSE |
 
