@@ -1,25 +1,45 @@
 # Article Annexe 3-12
 
-Aides à la production de vidéomusiques avant réalisation (article 311-120)
+AIDES À LA PRODUCTION DE VIDÉOMUSIQUES (ARTICLE 311-119)
 
 Liste des documents justificatifs :
 
-1° Une lettre de demande indiquant le montant de l'aide sollicitée ainsi que les principales caractéristiques artistiques et techniques de l'œuvre, notamment :
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-a) Le titre de la vidéomusique ;
+2° Le synopsis et/ ou le scénario du projet de vidéomusique ;
 
-b) La date des prises de vues ;
+3° Une note d'intention du réalisateur détaillant notamment le dispositif de tournage prévu et le plan de travail ;
 
-2° Un synopsis incluant le texte de la chanson et une note d'intention du réalisateur ;
+4° Une note d'intention de l'entreprise de production déléguée détaillant notamment le plan de diffusion de la vidéomusique ;
 
-3° Un curriculum vitae du réalisateur et du producteur ;
+5° Tout élément audiovisuel de nature à éclairer les intentions de réalisation ;
 
-4° Le contrat conclu avec le producteur phonographique ;
+6° Une note sur l'artiste, le groupe ou la formation musicale ;
 
-5° Les contrats de production audiovisuelle conclus avec les auteurs ;
+7° Un support audio permettant l'écoute de la composition musicale préexistante ;
 
-6° Le plan de financement ;
+8° Toute pièce justificative d'un financement public ou privé ;
 
-7° Un devis détaillé des dépenses de production, individualisant les dépenses prévues en France ;
+9° Le devis de production détaillé faisant apparaître :
 
-8° La liste nominative des artistes-interprètes, des techniciens collaborateurs de création et des entreprises prestataires pressentis précisant leur nationalité.
+a) Les dépenses effectuées en France et celles effectuées à l'étranger ;
+
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi ;
+
+c) La nature des prestations et travaux techniques prévus au devis ;
+
+10° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère ;
+
+11° Tout contrat de production exécutive ;
+
+12° Tout contrat de prestation ;
+
+13° Tout contrat justifiant de la détention des droits d'exploitation de la composition musicale préexistante ;
+
+14° Le contrat des auteurs et du réalisateur ;
+
+15° Le contrat du réalisateur technicien.
+
+NOTA :
+
+Conformément à la délibération n° 2017/ CA/41, article 13 : Ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de ladite délibération.
