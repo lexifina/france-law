@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700228
+
+- Question : [SEQ170700228](seq170700228.md) — Relevés des compteurs et sur-facturation
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-01-25, page 336*
+
+Le Gouvernement est très attentif aux factures d'énergie des ménages. Aux termes du code de la consommation, les consommations d'électricité sont facturées au moins une fois par an en fonction de l'énergie consommée. De plus, le code de l'énergie prévoit que le relevé des compteurs incombe au gestionnaire du réseau de distribution, Enedis, filiale d'EDF. Enedis effectue des relevés tous les 6 mois et a minima tous les ans. Entre deux relevés de compteur, le système de facturation mis en œuvre par les fournisseurs est fondé sur l'estimation des consommations sur la base des consommations de l'année précédente. Les écarts sont ensuite régularisés en fonction des relevés réels. Le consommateur, s'il souhaite être facturé au plus juste, a la possibilité de communiquer un relevé de son compteur dans les plages qui lui sont indiquées par son fournisseur. À terme, le déploiement des compteurs communicants « Linky », qui a débuté en 2016 et devrait être achevé d'ici 2021, permettra une facturation sur la base des consommations réelles, grâce à une transmission automatique et mensuelle des relevés de compteurs au fournisseur. Les clients qui ne sont pas équipés d'un compteur communicant peuvent reporter leur relevé de compteur sur leur espace client EDF ou sur l'application EDF & moi. Enfin, depuis le 17 août 2016, l'article 202 de la loi relative à la transition énergétique pour la croissance verte limite à 14 mois le délai pendant lequel un fournisseur d'énergie peut demander un rattrapage de facturation. Cela devrait permettre d'éviter des rattrapages importants de nature à déséquilibrer le budget des ménages, notamment les plus modestes.
