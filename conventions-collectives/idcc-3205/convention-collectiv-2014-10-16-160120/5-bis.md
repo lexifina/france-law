@@ -1,55 +1,53 @@
 # Article 5 bis
 
-Les différends collectifs et individuels constituant un problème d'interprétation ou d'application de la convention collective nationale du 30 avril 1956, de ses annexes ou de ses avenants et de l'ensemble des accords collectifs conclus au niveau de la branche des coopératives de consommateurs peuvent être soumis à la commission paritaire nationale de conciliation et d'interprétation.
+La commission paritaire permanente de négociation et d'interprétation a pour objet de compléter, adapter et réviser la présente convention collective nationale. Elle a également pour rôle de représenter la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics, et exerce un rôle de veille sur les conditions de travail et l'emploi.
 
-Rôle de la commission paritaire nationale de conciliation et d'interprétation
+Sans préjudice des dispositions de l'article 8.11 b, la commission paritaire permanente de négociation et d'interprétation est composée, pour le collège salarié de 2 représentants par organisation syndicale de salariés reconnue représentative dans la branche et issus d'une coopérative ainsi que d'un représentant fédéral et pour le collège patronal d'un nombre de représentants de la FNCC qui ne peut dépasser le nombre de représentants salariés.
 
-La commission paritaire nationale de conciliation et d'interprétation a pour rôles :
+La commission paritaire permanente de négociation et d'interprétation se réunit autant que de besoin sur demande de la partie la plus diligente et au minimum cinq fois par an.
 
-– de veiller à une exacte application des dispositions conventionnelles ;
+Le temps passé en réunion de négociation des accords est considéré comme temps d'absence autorisé et ne fait l'objet d'aucune retenue de salaire.
 
-– de procéder à l'examen des difficultés d'interprétation des textes conventionnels de toute nature (annexes, avenants, accords, protocoles, etc.).
+Les frais de déplacements sont pris en charge par la FNCC conformément au barème en vigueur.
 
-Composition
+Les membres de la commission bénéficient de la protection définie à l'article L. 2411-3 du code du travail.
 
-La commission paritaire nationale de conciliation et d'interprétation est composée de deux collèges :
+Les missions de la CPPNI :
 
-– un collège salariés, comprenant deux représentants par organisation syndicale signataire de la convention collective nationale ;
+1. Négociation des accords collectifs
 
-– un collège employeurs, comprenant un nombre de représentants des employeurs égal au nombre total de représentants des organisations syndicales.
+C'est au sein de la CPPNI que sont négociés les accords de branche et avenant à la convention collective nationale des coopératives de consommateurs.
 
-La commission paritaire nationale de conciliation et d'interprétation a un président et un vice-président élus parmi les membres de chaque collège. Ils alternent leurs fonctions.
+Les négociations doivent se faire dans le respect du calendrier légal, et pour tous sujets à l'initiative de la partie la plus diligente.
 
-Secrétariat
+La première réunion doit se tenir dans le mois suivant la réception de la demande.
 
-Le secrétariat de la commission paritaire nationale de conciliation et d'interprétation est assuré par la FNCC.
+2. Missions d'interprétation
 
-Le secrétariat a pour tâches :
+La CPPNI est chargée de rendre des avis sur les demandes d'interprétation qui lui sont soumises. Les demandes d'interprétation sont présentées par l'intermédiaire d'une organisation professionnelle d'employeurs ou d'une organisation syndicale de salariés représentative.
 
-– d'enregistrer les saisines et de provoquer la réunion du président ou du vice-président, qui se prononceront sur la recevabilité de la demande ;
+Elle peut également rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire.
 
-– de convoquer les membres de la commission ;
+La CPPNI se réunit dans les meilleurs délais et au plus tard 2 mois après la réception d'une demande.
 
-– d'assurer la préparation du dossier ;
+3. Mission d'observatoire, de veille et de bilan
 
-– d'organiser la discussion et de rédiger le compte rendu.
+La CPPNI enregistre les accords collectifs d'entreprise qui lui sont transmis selon les dispositions de l'article L. 2232-9 du code du travail et en accuse réception. Elle enregistre également les accords d'entreprise pris en application des dispositions conventionnelles pour lesquelles ce suivi est demandé.
 
-Saisine
+Les accords doivent lui être transmis dans le mois suivant leur dépôt selon les formes légales et réglementaires en vigueur.
 
-La commission paritaire nationale de conciliation et d'interprétation est saisie à l'initiative d'un représentant des employeurs, d'une organisation syndicale représentative dans la branche des coopératives de consommateurs soulevant un problème d'interprétation, au moyen d'une lettre recommandée avec avis de réception ou un courrier remis en main propre contre décharge, adressée au secrétariat de la commission dont le siège est fixé à la fédération nationale des coopératives de consommateurs.
+La CPPNI établit un rapport annuel d'activité conforme à l'article L. 2232-9 du code du travail.
 
-La partie qui prend cette initiative doit adresser sa demande au secrétariat de la commission et l'accompagner d'un exposé des motifs du recours.
+Ce rapport est adopté : choix à opérer
 
-Le secrétariat de la commission doit, dans un délai maximum de 2 mois prenant effet à la date de réception de la demande, convoquer ladite commission.
+– à l'unanimité ou à défaut un constat de désaccord listant les points ne faisant pas consensus sont mentionnés ;
 
-La commission délibère dans un délai maximum de 1 mois suivant sa saisine.
+– selon les règles de la représentativité ;
 
-Règles de délibération
+– par la majorité des organisations syndicales de salariés représentatives.
 
-La commission pourra :
+4. Mission d'appui
 
-– soit émettre un avis motivé sur l'interprétation à donner à la clause sur laquelle porte le différend. Si cet avis est adopté à la majorité simple des voix, il sera diffusé sous forme de compte rendu et aura force obligatoire ;
+Le bilan prévu au 3 formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées.
 
-– soit constater que la rédaction de la clause incriminée est mal rédigée ou incomplète et qu'il faut la modifier. Dans ce cas, la commission se déclarera incompétente au profit de la commission paritaire nationale (CPN).
-
-Si, dans le premier cas, la majorité prévue n'a pas été atteinte, un procès-verbal signé des membres de la commission exposera les différents points de vue et le problème sera renvoyé devant la commission paritaire nationale (CPN).
+Plus généralement la CPPNI exerce une mission d'appui auprès des entreprises de la branche et des pouvoirs publics.
