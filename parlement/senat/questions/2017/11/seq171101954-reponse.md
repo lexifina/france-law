@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101954
+
+- Question : [SEQ171101954](seq171101954.md) — Situation des établissements d'accueil de jeunes enfants
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-01-25, page 326*
+
+Le code de la santé publique insiste sur la nécessité du concours régulier d'un médecin pour les établissements et services d'une capacité supérieure à dix places pour garantir que les conditions d'accueil permettent le bon développement et l'adaptation des enfants dans l'établissement ou le service. L'article R. 2324-39 du code de la santé publique rappelle l'importance des missions de ce médecin d'établissement ou de service, notamment dans le cas de l'intégration d'un enfant présentant un handicap, une affection chronique et la mise en place d'un projet d'accueil individualisé (PAI). Le ministère poursuit une démarche de clarification des normes appliquées aux établissements d'accueil du jeune enfant (EAJE). Dans l'optique d'harmoniser l'application de ces normes au niveau national, un guide ministériel a été publié en avril 2017 à destination des services de protection maternelle et infantile (PMI). Ce guide précise que, dans le cas précis des micro-crèches, « si elles ont des difficultés à identifier un médecin, elles peuvent se rapprocher d'autres EAJE pour bénéficier des services de leur médecin, par exemple, grâce à une convention. Elles peuvent aussi prévoir, dans certains départements et par convention, avec le service de PMI du conseil départemental, qu'un médecin de ce service assure tout ou partie des missions du médecin d'établissement, à l'exception des médecins qui assurent le contrôle des EAJE ». Ce guide est consultable sur le site du ministère en suivant ce lien : http://solidarites-sante.gouv.fr/affaires-sociales/familles-enfance/accueil-du-jeune-enfant/article/guides-pour-les-professionnels-de-la-petite-enfance
