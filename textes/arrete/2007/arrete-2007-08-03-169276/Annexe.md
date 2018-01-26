@@ -96,7 +96,7 @@ A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
 
 Paris-La Havane (Cuba), dans la limite d'une fréquence hebdomadaire ;
 
-Dans la limite de trois fréquences hebdomadaires au total sur les liaisons Paris-Cayo Coco (Cuba), Paris-Holguin (Cuba) et Paris-Varadero (Cuba).
+Dans la limite de trois fréquences hebdomadaires au total sur les liaisons Paris-Santa Clara (Cuba), Paris-Cayo Coco (Cuba), Paris-Holguin (Cuba) et Paris-Varadero (Cuba).
 
 Jusqu'au 30 avril 2022 :
 
