@@ -1,8 +1,6 @@
-# Article ANNEXE II
+# Article Annexe II
 
-LISTE DES PIÈCES À JOINDRE À LA DEMANDE D'AUTORISATION DE PRODUIRE
-
-ET DE VENDRE DES PRODUITS EXPLOSIFS
+Liste des pièces à joindre à la demande d'autorisation de produire et de vendre des produits explosifs :
 
 A toute demande d'autorisation de produire et de vendre des produits explosifs doit être joint, selon le cas, tout ou partie des pièces énumérées ci-après :
 
