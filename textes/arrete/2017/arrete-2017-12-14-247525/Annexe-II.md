@@ -10304,20 +10304,6 @@ SECRETARIAT GENERAL POUR L'ADMINISTRATION - SERVICE PARISIEN DE SOUTIEN DE L'ADM
 
 SGA - SPAC |
 
-SPAC - SOUS DIRECTION DES TRANSPORTS SDTIR - BUREAU PGSI - POLE GRAPHIQUE DE TULLE |
-
-19 |
-
-TULLE |
-
-D |
-
-2018 |
-
-2019 |
-
-SGA - SPAC |
-
 SPAC - SOUS DIRECTION DE LA PERFORMANCE INTERNE |
 
 44 |
@@ -10921,3 +10907,9 @@ R |
 2017 |
 
 2019 |
+
+NOTA :
+
+L'arrêté du 18 janvier 2018 modifie l'arrêté du 14 décembre 2017. Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000036549368
