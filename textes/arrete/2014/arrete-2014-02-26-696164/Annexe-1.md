@@ -278,6 +278,52 @@ Evolution des outils, connaissance des techniques et de leur mutation dans l'uni
 
 Programme relatif aux techniques des spécialités
 
+Photographe :
+
+Généralités des techniques de l'image fixe :
+
+-notions de mathématiques appliquées,
+
+-notions d'optique (lentilles ; objectifs ; aberrations …),
+
+-notions de sensitométrie,
+
+-techniques de prises de vue,
+
+-notions d'éclairage (différentes sources lumineuses …),
+
+-notions juridiques : règlementation s'appliquant à l'exercice de la photographie et à l'usage des produits de celle-ci,
+
+-notions d'hygiène et de sécurité.
+
+La photographie numérique :
+
+-principes de la numérisation (capteurs ; résolution ; définition ; formats ; les principes élémentaires en matière de gestion de la couleur, de l'acquisition des images à l'impression …),
+
+-différents types de numériseurs et appareils numériques,
+
+-les logiciels de traitement d'image,
+
+-conservation numérique : principes de base (supports de stockage ; conditions environnementales …),
+
+-notions générales sur la normalisation de la production numérique (métadonnées ; nommage des fichiers …),
+
+-constitution d'un document numérique.
+
+La photographie argentique :
+
+-notions de chimie,
+
+-technologies des appareils de prises de vue,
+
+-différents supports (métal ; verre ; film ; papier …),
+
+-technique du noir et blanc (développement, positif direct ; négatif-positif …),
+
+-procédés couleurs (chromogènes ; destruction de colorants ; synthèse additive ; soustractive …),
+
+-conservation des documents photographiques (qualité du développement ; conditionnement ; conditions environnementales …).
+
 Spécialiste de l'image et du son :
 
 Connaissance générale des techniques numériques et analogiques relatives aux pratiques audiovisuelles.
@@ -310,9 +356,35 @@ Histoire de la manufacture de Sèvres.
 
 Programme relatif aux techniques du métier
 
-Connaissance de la technologie des différents procédés de fabrication et de décoration des pièces en céramique, des matières premières et de leur préparation (pâtes, émaux, métaux précieux).
+Connaissance de la technologie des différents procédés de fabrication et de décoration des pièces en céramique, des matières premières et de leur préparation :
 
-Notions de physique et de chimie liées à la spécialité.
+-formulation et préparation des pâtes, barbotines, couvertes couleurs et métaux précieux ;
+
+-encastage, enfournement et cuissons ;
+
+-modélisation, modelage, traînage et tournage en plâtre ;
+
+-techniques et matériaux de moulage ;
+
+-tournage, calibrage, estampage et coulage ;
+
+-découpage, garnissage et pastillage ;
+
+-polissage et ajustage ;
+
+-dessin d'épure et dessin technique ;
+
+-gravure taille-douce ;
+
+-impression offset et taille douce ;
+
+-décoration en grand feu (émaillage) et petit feu (peinture, décors imprimés) ;
+
+-filage et dorure ;
+
+-brunissage des métaux précieux ;
+
+-techniques de montage, tournage et ciselure en bronze.
 
 VI. ― Métiers des végétaux
 
@@ -420,7 +492,7 @@ VIII. ― Métiers des minéraux et métaux
 
 Programme d'histoire de l'art du métier
 
-Histoire des différents supports ; minéraux, cire, pierre et grands courants artistiques de l'orfèvrerie, de la gravure, de la ciselure et de la sculpture.
+Histoire des différents supports : minéraux, métaux, cire, pierre et grands courants artistiques de l'orfèvrerie, de la gravure, de la ciselure et de la sculpture.
 
 Programme relatif aux techniques du métier
 
@@ -449,6 +521,22 @@ Histoire des styles du bronze du Moyen Age à nos jours.
 Connaissance des métaux.
 
 Connaissance des techniques de restauration des métaux.
+
+Créateur de prototypes :
+
+-utilisation des métaux dans le secteur du mobilier et de l'univers contemporain (design, architecture, sculpture) de la révolution industrielle à nos jours.
+
+-techniques et technologies de mise en œuvre des métaux de la révolution industrielle à nos jours.
+
+-connaissance des technologies, des techniques nouvelles et des innovations.
+
+-connaissance des métaux et des matériaux nouveaux.
+
+-connaissance des outils informatiques (DAO, CAO).
+
+-la sécurité dans le travail des métaux.
+
+-le travail des métaux : les outils, les assemblages, les décors, les éléments d'assemblage soumis à de la cinématique
 
 Marbrier :
 

@@ -344,6 +344,22 @@ NATURE
 
 |
 
+Photographe |
+
+5 heures |
+
+1. Réalisation de deux prises de vue numériques :
+
+-objet en volume ;
+
+-reproduction de documents 2D.
+
+Le candidat disposera d'équipements professionnels (durée : deux heures trente).
+
+2. Traitement numérique : correction d'image (s) à l'aide de logiciels professionnels de développement et de retouche d'image (s). Étant évolutifs, les logiciels ainsi que leur version seront précisés au moment du lancement du concours. (durée : une heure trente)
+
+3. Rédaction d'une fiche technique descriptive pour chacune des deux épreuves (durée : une heure). |
+
 Spécialiste de l'image et du son
 
 Multimédia
@@ -545,6 +561,28 @@ Lustrier
 ― monture.
 
 2. Réalisation du dessin coté aux dimensions réelles de l'applique (dix heures).
+
+|
+
+Créateur de prototypes |
+
+35 heures |
+
+1. Réalisation d'un objet ou d'un élément de projet à l'échelle 1 :
+
+-a) mise au plan (durée : quatre heures) ;
+
+-b) mise au plan sous logiciel informatique (durée : trois heures).
+
+2. Réalisation d'une pièce par des techniques relatives aux métaux ferreux et non-ferreux :
+
+a) tournage ;
+
+b) fraisage ;
+
+c) assemblage à froid et/ ou à chaud au choix du candidat lors de la réalisation de la pièce.
+
+(durée : vingt-huit heures).
 
 |
 
