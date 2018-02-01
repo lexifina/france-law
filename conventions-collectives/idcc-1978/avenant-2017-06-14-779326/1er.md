@@ -1,0 +1,3 @@
+# Article 1er
+
+Les parties signataires ont élaboré, après négociations, un livret des droits des femmes dans le cadre de l'égalité professionnelle entre les femmes et les hommes, en annexe I ci-jointe, qui reprend les principales dispositions légales et conventionnelles en matière de recrutement, rémunération, congé de maternité ou d'adoption, protection de la maternité, formation et promotion professionnelle, ainsi que les divers congés liés à la maternité ou à la famille, la protection contre les violences sexistes et sexuelles, et les actions sociales mises en place au niveau de la branche.
