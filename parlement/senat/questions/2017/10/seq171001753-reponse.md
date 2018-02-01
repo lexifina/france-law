@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001753
+
+- Question : [SEQ171001753](seq171001753.md) — Délégation de compétences du conseil municipal au maire
+
+## Réponse
+
+*Intérieur, JO du 2018-02-01, page 435*
+
+Le conseil municipal a la possibilité de déléguer directement au maire un certain nombre d'attributions limitativement énumérées à l'article L. 2122-22 du code général des collectivités territoriales (CGCT). Cet article n'apporte pas de précision quant à la présence du maire au sein du conseil municipal lors de l'attribution de ces délégations. Cependant, l'article L. 2131-11 du CGCT indique que « sont illégales les délibérations auxquelles ont pris part un ou plusieurs membres du conseil intéressés à l'affaire qui en fait l'objet, soit en leur nom personnel, soit comme mandataires ». Le juge administratif a été amené à préciser les dispositions de cet article en estimant que deux conditions cumulatives doivent être remplies pour qu'un conseiller municipal soit qualifié de conseiller intéressé. D'une part, l'intérêt du conseiller doit être distinct de l'intérêt général (Conseil d'État, 22 février 1995, n° 150713 – Conseil d'État, 17 février 1993, n° 115600 – Conseil d'État, 23 février 1990, n° 78130 – Conseil d'État, 24 mai 2000, n° 195657), d'autre part, la personne intéressée doit avoir exercé une influence effective sur la délibération. À ce titre, le Conseil d'État dans un arrêt du 17 novembre 2010, n° 338338, a estimé qu'un conseiller ayant présidé la séance est susceptible d'avoir exercé une influence effective sur la délibération. Cependant, il ne semble pas que le maire puisse être considéré comme une « personne intéressée » au sens de l'article L. 2131-11 du CGCT, au regard de la jurisprudence précitée, justifiant qu'il quitte le conseil municipal lors de l'adoption de la délibération par laquelle le conseil lui attribue des délégations.
