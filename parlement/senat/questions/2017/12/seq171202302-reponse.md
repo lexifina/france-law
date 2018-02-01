@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202302
+
+- Question : [SEQ171202302](seq171202302.md) — Nouvelle évaluation des stocks de thon rouge
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-02-01, page 427*
+
+La 25ème session ordinaire de la commission internationale pour la conservation des thonidés de l'atlantique, qui s'est réunie du 14 au 21 novembre 2017 à Marrakech, a décidé d'une importante augmentation des quotas de pêche sur le thon rouge de l'atlantique et de la méditerranée, dans les limites fixées par l'avis du comité scientifique de cette organisation. Ainsi, le total admissible de captures de thon rouge a été fixé à 28 200 tonnes au titre de 2018, 32 240 tonnes au titre de 2019 et 36 000 tonnes au titre de 2020. Cette décision s'accompagne d'une hausse de 17,8 % du quota français en 2018. Au sein des façades atlantique et méditerranée, la répartition du quota de thon rouge entremétiers se base sur des clés fixes définies en concertation avec les professionnels. Cette répartition se veut stable afin de donner aux professionnels une meilleure visibillité quant au devenir de leur filière. De plus, la liste des navires disposant d'autorisations européennes de pêche pour le thon rouge est définie chaque année selon les critères d'éligibilité également fixés en concertation avec la profession. L'ensemble de ces critères permettent le contingentement des navires participant à la campagne de pêche au thon rouge. En outre, l'augmentation française du nombre de senneurs a été adoptée lors du Conseil des ministres qui s'est tenu du 11 au 13 décembre 2017. Le nombre de 20 senneurs autorisé à partir de 2018 sera maintenu pour les années 2019 et 2020. Il est important de rappeler que, dans le but de limiter au maximum la pêche illégale, l'ensemble des services de contrôle de pêche français s'engage à maintenir un niveau élevé de contrôle en mer et au débarquement, notamment avec le système de baguage de l'ensemble des thons rouges débarqués.
