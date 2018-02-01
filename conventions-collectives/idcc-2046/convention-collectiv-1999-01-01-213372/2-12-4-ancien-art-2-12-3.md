@@ -6,7 +6,7 @@ Les dispositions ci-après concernent de façon identique l'ensemble des personn
 
 2.12.3.2. Incapacité temporaire de travail
 
-Après douze mois de travail effectif dans le centre, en cas d'incapacité temporaire totale d'un salarié âgé de moins de 65 ans, reconnue et indemnisée par la sécurité sociale, il est versé après 90 jours consécutifs d'arrêt de travail une indemnité journalière égale au moins à 80 % du salaire net moyen des 12 derniers mois, sous déduction des prestations versées par la sécurité sociale.
+Après 12 mois de travail effectif dans le centre, en cas d'incapacité temporaire totale d'un salarié, reconnue et indemnisée par la sécurité sociale, il est versé après 90 jours consécutifs d'arrêt de travail une indemnité journalière égale au moins à 80 % du salaire net moyen des 12 derniers mois, sous déduction des prestations versées par la sécurité sociale.
 
 2.12.3.3. Invalidité
 
