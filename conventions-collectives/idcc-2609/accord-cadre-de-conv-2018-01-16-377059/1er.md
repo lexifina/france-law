@@ -1,0 +1,3 @@
+# Article 1er
+
+En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006 étendue par arrêté ministériel du 5 juin 2007 et de l'accord collectif national du 26 septembre 2007 relatif a ̀ la classification des emplois des ETAM du bâtiment étendu par arrêté ministériel du 20 février 2008, les organisations représentatives d'employeurs et de salariés se sont réunies le 16 janvier 2018 à Metz pour déterminer un accord-cadre de convergence des barèmes de salaires mensuels minimaux des ETAM du bâtiment de la région Grand Est, nouvelle grande région issue le 1er janvier 2016 de la fusion administrative de l'Alsace, Champagne-Ardenne et Lorraine.
