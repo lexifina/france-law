@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202339
+
+- Question : [SEQ171202339](seq171202339.md) — Accompagnement des collectivités dans la lutte contre la prolifération du moustique tigre
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-02-01, page 452*
+
+La loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales a transféré aux départements la compétence de la mise en œuvre de la lutte antivectorielle. Selon cette loi, l'élaboration de la stratégie relève de l'Etat et l'exécution des mesures de lutte, dépend du département. Le financement de l'intégralité de ce dispositif est prévu par la loi de finances pour 1975 (n° 74-1129). Cependant l'État prend ses responsabilités, notamment en renforçant la surveillance humaine et en encourageant la recherche sur les nouveaux risques et les moyens de lutte ainsi qu'en accompagnant les territoires les plus touchés. La stratégie mise en place par l'État (Direction générale de la santé (DGS) -Agence régionale de santé (ARS) -Agence nationale de santé publique (ANSP) ), à travers le dispositif de surveillance a pour objectif d'intervenir autour des malades pour stopper tout épisode de transmission. Des projets de texte sont en cours afin d'adapter le dispositif de gouvernance de la lutte antivectorielle (LAV) à l'extension de l'aire d'implantation, notamment du moustique Aedes albopictus en métropole. La répartition des compétences et des charges de la lutte contre les arthropodes vecteurs de maladies infectieuses entre notamment l'État et les Conseils généraux, doit être clarifiée, en faisant appel aux compétences de chacun et en respectant les équilibres existant localement. Le dispositif de gouvernance de la LAV doit donc être plus lisible, plus simple et clair, et rester souple. L'État, en la matière, doit réaffirmer sa responsabilité tant dans la définition de la stratégie que dans sa mise en œuvre eu égard aux enjeux de santé publique.
