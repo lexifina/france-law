@@ -48,7 +48,7 @@ Directeur départemental de la sécurité publique, chef de district et commissa
 
 Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense et de sécurité Nord-Lille DDSP-à Lille (59).
 
-Directeur départemental de la sécurité publique et commissaire central-coordonnateur zonal de la zone de défense et de sécurité Sud-Est à Lyon (69).
+Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense et de sécurité Sud-Est à Lyon (69).
 
 8. Direction centrale de la police aux frontières :
 
@@ -116,7 +116,7 @@ Conseiller prospective et stratégie.
 
 Conseiller prospective et stratégie.
 
-Conseiller prospective et stratégie.
+Conseiller, chef du pôle judiciaire.
 
 2. Direction des ressources et des compétences de la police nationale :
 
@@ -194,9 +194,9 @@ Directeur départemental de la sécurité publique à Arras (62).
 
 Directeur départemental de la sécurité publique et commissaire central à Strasbourg (67).
 
-Directeur départemental adjoint de la sécurité publique, commissaire central adjoint et chef du service de sécurité de proximité à Lyon (69).
+Directeur départemental adjoint de la sécurité publique à Lyon (69).
 
-Directeur départemental de la sécurité publique et commissaire central à Rouen (76).
+Directeur départemental de la sécurité publique à Rouen (76).
 
 Directeur départemental de la sécurité publique à Melun (77).
 
