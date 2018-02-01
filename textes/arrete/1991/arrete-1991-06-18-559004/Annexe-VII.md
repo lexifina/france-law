@@ -38,6 +38,8 @@ Ces modifications peuvent entraîner l'annulation de l'agrément qu'elles aient 
 
 Dans le cas où un nouvel agrément est sollicité suite à l'annulation d'un agrément précédent, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies.
 
+L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé le contrôleur, dans le cadre de l'article 13-1 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du contrôleur et qu'aucune suspension d'agrément n'a été notifiée.
+
 3.2. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture toute modification entraînant un non-respect :
 
 - des conditions posées lors de la délivrance de l'agrément au niveau du point 4 du paragraphe I du présent chapitre ;
@@ -98,7 +100,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois ;
+2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle ;
 
 3. Une attestation de l'affiliation à un réseau de contrôle agréé, suivant le modèle de l'appendice 5 de la présente annexe ;
 
@@ -164,7 +166,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois ;
+2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle ;
 
 3. Un rapport d'audit initial favorable établi par un organisme agréé ;
 
@@ -185,8 +187,6 @@ d) L'engagement du demandeur, suivant le modèle de l'appendice 4 de la présent
 - faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle ;
 
 - de signer la convention d'assistance technique prévue au point d de l'article 29 du présent arrêté.
-
-- l'engagement du demandeur à respecter le cahier des charges susvisé.
 
 e) Les procédures internes du centre de contrôle permettant de s'assurer du respect des prescriptions du I de l'article R323-14 du code de la route susvisé, ainsi que du paragraphe 1er du chapitre II du titre II du présent arrêté, et notamment :
 
@@ -220,7 +220,9 @@ e) Les procédures internes du centre de contrôle permettant de s'assurer du re
 
 f) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté ;
 
-g) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
+g) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle ;
+
+h) L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
