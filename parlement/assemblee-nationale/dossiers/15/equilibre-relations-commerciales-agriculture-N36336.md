@@ -1,0 +1,136 @@
+# Equilibre des relations commerciales dans le secteur agro-alimentaire (EGALIM)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36336
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/equilibre_relations_commerciales_agriculture
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-525.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-02-01 : 1er dépôt d'une initiative. (PRJLANR5L15B0627)
+  - 2018-02-01 : Etude d'impact (ETDIANR5L15B0627)
+  - 2018-02-01 : Avis du Conseil d'Etat (AVCEANR5L15B0627)
+  - 2018-02-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-01 : Renvoi en commission au fond
+      - 2018-02-07 : Nomination de rapporteur
+      - 2018-02-07 : Réunion de commission
+      - 2018-04-11 : Réunion de commission
+      - 2018-04-17 : Réunion de commission
+      - 2018-04-17 : Réunion de commission
+      - 2018-04-18 : Réunion de commission
+      - 2018-04-18 : Réunion de commission
+      - 2018-04-18 : Réunion de commission
+      - 2018-04-19 : Réunion de commission
+      - 2018-04-19 : Réunion de commission
+      - 2018-04-19 : Réunion de commission
+      - 2018-04-20 : Réunion de commission
+      - 2018-04-20 : Réunion de commission
+      - 2018-05-22 : Réunion de commission
+      - 2018-05-24 : Réunion de commission
+      - 2018-04-21 : Dépôt de rapport (RAPPANR5L15B0902, PRJLANR5L15BTC0902)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-07 : Saisine pour avis d'une commission
+      - 2018-02-14 : Nomination de rapporteur
+      - 2018-03-27 : Réunion de commission
+      - 2018-03-27 : Réunion de commission
+      - 2018-03-28 : Réunion de commission
+      - 2018-03-28 : Réunion de commission
+      - 2018-03-29 : Réunion de commission
+      - 2018-03-29 : Réunion de commission
+      - 2018-03-29 : Dépôt de rapport (AVISANR5L15B0838)
+  - Discussion en séance publique
+    - 2018-05-22 : Discussion en séance publique
+    - 2018-05-22 : Discussion en séance publique
+    - 2018-05-23 : Discussion en séance publique
+    - 2018-05-23 : Discussion en séance publique
+    - 2018-05-24 : Discussion en séance publique
+    - 2018-05-24 : Discussion en séance publique
+    - 2018-05-24 : Discussion en séance publique
+    - 2018-05-25 : Discussion en séance publique
+    - 2018-05-25 : Discussion en séance publique
+    - 2018-05-25 : Discussion en séance publique
+    - 2018-05-26 : Discussion en séance publique
+    - 2018-05-26 : Discussion en séance publique
+    - 2018-05-26 : Discussion en séance publique
+    - 2018-05-27 : Discussion en séance publique
+    - 2018-05-27 : Discussion en séance publique
+    - 2018-05-27 : Discussion en séance publique
+    - 2018-05-28 : Discussion en séance publique
+    - 2018-05-28 : Discussion en séance publique
+    - 2018-05-29 : Discussion en séance publique
+    - 2018-05-29 : Discussion en séance publique
+    - 2018-05-30 : Discussion en séance publique
+    - 2018-05-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-05-30 : Dépôt d'une initiative en navette (PRJLSNR5S299B0525)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-30 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-06-13 : Dépôt de rapport (RAPPSNR5S299B0570, PRJLSNR5S299BTC0571)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-16 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-06-12 : Dépôt de rapport (AVISSNR5S299B0563)
+  - Discussion en séance publique
+    - 2018-06-26 : Discussion en séance publique
+    - 2018-06-27 : Discussion en séance publique
+    - 2018-06-28 : Discussion en séance publique
+    - 2018-07-02 : Discussion en séance publique
+    - 2018-07-02 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-07-10 : Nomination de rapporteur
+    - 2018-07-10 : Dépôt du rapport d'une CMP (RAPPANR5L15B1147)
+    - 2018-07-10 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0647, PRJLSNR5S299BTC0648)
+  - 2018-07-11 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-07-03 : Dépôt d'une initiative en navette (PRJLANR5L15B1135)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-03 : Renvoi en commission au fond
+      - 2018-07-17 : Réunion de commission
+      - 2018-07-17 : Réunion de commission
+      - 2018-07-18 : Réunion de commission
+      - 2018-09-12 : Réunion de commission
+      - 2018-07-18 : Dépôt de rapport (RAPPANR5L15B1175, PRJLANR5L15BTC1175)
+  - Discussion en séance publique
+    - 2018-09-12 : Discussion en séance publique
+    - 2018-09-12 : Discussion en séance publique
+    - 2018-09-13 : Discussion en séance publique
+    - 2018-09-13 : Discussion en séance publique
+    - 2018-09-13 : Discussion en séance publique
+    - 2018-09-14 : Discussion en séance publique
+    - 2018-09-14 : Discussion en séance publique
+    - 2018-09-14 : Discussion en séance publique
+    - 2018-09-14 : Décision
+- Nouvelle Lecture
+  - 2018-09-15 : Dépôt d'une initiative en navette (PRJLSNR5S299B0714)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-09-15 : Renvoi en commission au fond
+      - 2018-09-19 : Dépôt de rapport (RAPPSNR5S299B0715, PRJLSNR5S299BTC0716)
+  - Discussion en séance publique
+    - 2018-09-25 : Discussion en séance publique
+    - 2018-09-25 : Décision
+- Lecture définitive
+  - 2018-09-26 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0171)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-09-26 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-10-02 : Discussion en séance publique
+    - 2018-10-02 : Discussion en séance publique
+    - 2018-10-02 : Décision
+- Conseil constitutionnel
+  - 2018-10-05 : Saisine du conseil constitutionnel
+  - 2018-10-25 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-10-30 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2019-05-29 : Rapport sur l'application des lois (RINFANR5L15B1981)
