@@ -1,1045 +1,731 @@
-# Article B II
+# Article B.-II
 
--
+B.-II.-Répartition des emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche relevant de l'
 
-B. - II. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+article 57-2
 
-de l'enseignement supérieur et de la recherche
+du décret du 3 décembre 1983 susvisé, services et établissements relevant du ministre chargé de l'enseignement supérieur |
 
-relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé,
+Académies |
 
-services et établissements relevant du ministre chargé de l'enseignement supérieur
-
-|
+Localisation |
 
 NOMBRE
 
-d'emplois
+d'emplois |
 
-|
-
-|
-
-Localisation
-
-|
-
-Aix-Marseille
-
-|
-
-Université Aix-Marseille-I
-
-|
-
-2
-
-|
-
-|
-
-Université Aix-Marseille-II
-
-|
-
-2
-
-|
-
-|
-
-Université Aix-Marseille-III
-
-|
-
-2
-
-|
-
-|
-
-Université d'Avignon
-
-|
-
-2
-
-|
-
-Amiens
-
-|
-
-Université d'Amiens
-
-|
-
-2
-
-|
-
-Besançon
-
-|
-
-Université de Besançon
-
-|
-
-2
-
-|
-
-Bordeaux
-
-|
-
-Université Bordeaux-I
-
-|
-
-2
-
-|
-
-|
-
-Université Bordeaux-II
-
-|
-
-2
-
-|
-
-|
-
-Université Bordeaux-III
-
-|
-
-2
-
-|
-
-|
-
-Université Bordeaux-IV
-
-|
-
-3
-
-|
-
-|
-
-Université de Pau
-
-|
-
-2
-
-|
-
-|
-
-Ecole nationale supérieure d'électronique, informatique, et radiocommunication
-
-|
-
-1
-
-|
-
-Caen
-
-|
-
-Université de Caen
-
-|
-
-3
-
-|
-
-Clermont-Ferrand
-
-|
-
-Université Clermont-I
-
-|
-
-2
-
-|
-
-|
-
-Université Clermont-II
-
-|
-
-2
-
-|
-
-|
-
-Institut français de mécanique avancée (IFMA)
-
-|
-
-1
-
-|
-
-Créteil
-
-|
-
-Université de Marne-la-Vallée
-
-|
-
-2
-
-|
-
-|
-
-Université Paris-VIII
-
-|
-
-2
-
-|
-
-|
-
-Université Paris-XII
-
-|
-
-2
-
-|
-
-|
-
-Université Paris-XIII
-
-|
-
-2
-
-|
-
-Dijon
-
-|
-
-Université de Dijon
-
-|
+Aix-Marseille |
 
-2
+Université d'Aix-Marseille |
 
-|
-
-Grenoble
-
-|
-
-Université Grenoble-I
+5 |
 
 |
 
-4
+Université d'Avignon |
 
-|
+2 |
 
 |
 
-Université Grenoble-II
-
-|
+Université de Nîmes |
 
-2
+1 |
 
 |
 
-|
+Ecole centrale de Marseille |
 
-Université Grenoble-III
+1 |
 
-|
+Amiens |
 
-1
+Université d'Amiens |
 
-|
+2 |
 
 |
 
-Université de Chambéry
+Université de technologie de Compiègne |
 
-|
-
-2
+2 |
 
-|
+Besançon |
 
-|
+Université de Besançon |
 
-Institut polytechnique de Grenoble
+2 |
 
 |
 
-1
+Université de technologie de Belfort-Montbéliard |
 
-|
+1 |
 
-Guadeloupe
+Bordeaux |
 
-|
+Université de Bordeaux |
 
-Université Antilles-Guyane
+5 |
 
 |
 
-2
-
-|
+Université Bordeaux-III |
 
-Lille
+2 |
 
 |
 
-Université Lille-I
+Université de Pau |
 
-|
+2 |
 
-2
-
 |
 
-|
+Institut polytechnique de Bordeaux |
 
-Université Lille-II
+1 |
 
-|
+Caen |
 
-2
+Université de Caen |
 
-|
+3 |
 
 |
 
-Université Lille-III
+Ecole nationale supérieure d'ingénieurs de Caen |
 
-|
+1 |
 
-2
-
-|
+Clermont-Ferrand |
 
-|
+Université de Clermont Auvergne |
 
-Université de Valenciennes
+3 |
 
 |
 
-2
-
-|
+Ecole d'ingénieurs SIGMA Clermont |
 
-|
+1 |
 
-Université d'Artois
+Corse |
 
-|
+Université de Corse |
 
-2
+2 |
 
-|
+Créteil |
 
-|
+Université de Marne-la-Vallée |
 
-Université du Littoral
+2 |
 
 |
 
-2
+Université Paris-VIII |
 
-|
+2 |
 
 |
-
-Ecole centrale de Lille
 
-|
+Université Paris-XII |
 
-1
+2 |
 
 |
 
-Limoges
-
-|
+Université Paris-XIII |
 
-Université de Limoges
+2 |
 
 |
 
-2
+Ecole normale supérieure de Cachan |
 
-|
+2 |
 
-Lyon
+Dijon |
 
-|
+Université de Dijon |
 
-Université Lyon-I
+2 |
 
-|
+Grenoble |
 
-2
+Université de Grenoble Alpes |
 
-|
+5 |
 
 |
 
-Université Lyon-II
-
-|
+Communauté université Grenoble Alpes |
 
-2
+1 |
 
 |
 
-|
+Université de Chambéry |
 
-Université Lyon-III
+2 |
 
 |
 
-2
+Institut polytechnique de Grenoble |
 
-|
+2 |
 
-|
+Guadeloupe |
 
-Université de Saint-Etienne
+Université des Antilles |
 
-|
+2 |
 
-2
+Guyane |
 
-|
+Université de la Guyane |
 
-|
+1 |
 
-Ecole normale supérieure de Lyon
+Lille |
 
-|
+Université de Lille |
 
-2
+5 |
 
 |
-
-Montpellier
 
-|
+Université de Valenciennes |
 
-Université Montpellier-I
+2 |
 
 |
 
-3
+Université d'Artois |
 
-|
+2 |
 
 |
-
-Université Montpellier-II
 
-|
+Université du Littoral |
 
-2
+2 |
 
 |
 
-|
+Communauté d'universités et établissements Lille Nord de France |
 
-Université Montpellier-III
+1 |
 
 |
 
-2
+Ecole centrale de Lille |
 
-|
+1 |
 
-|
+Limoges |
 
-Université de Perpignan
+Université de Limoges |
 
-|
+2 |
 
-2
+Lyon |
 
-|
+Université Lyon-I |
 
-Nancy-Metz
+3 |
 
 |
 
-Université Nancy-I
-
-|
+Université Lyon-II |
 
-2
+2 |
 
 |
 
-|
+Université Lyon-III |
 
-Université Nancy-II
+2 |
 
 |
 
-2
+Université de Lyon |
 
-|
+1 |
 
 |
-
-Université de Metz
 
-|
+Université de Saint-Etienne |
 
-2
+2 |
 
 |
 
-|
+Ecole Centrale de Lyon |
 
-Institut national polytechnique de Lorraine
+1 |
 
 |
 
-1
+Ecole normale supérieure de Lyon |
 
-|
+2 |
 
-Nantes
-
 |
 
-Université de Nantes
+Institut national des sciences appliquées de Lyon |
 
-|
+2 |
 
-2
+Mayotte |
 
-|
+Centre universitaire de formation et recherche de Mayotte |
 
-|
+1 |
 
-Université d'Angers
+Montpellier |
 
-|
+Université de Montpellier |
 
-2
+3 |
 
 |
 
-|
+Université Montpellier-III |
 
-Université du Mans
+2 |
 
 |
 
-2
-
-|
+Université de Perpignan |
 
-Nice
+2 |
 
 |
 
-Université de Nice
+Agence bibliographique de l'enseignement supérieur de Montpellier |
 
-|
+1 |
 
-2
-
 |
 
-|
+Ecole nationale supérieure de chimie de Montpellier |
 
-Université de Toulon
+1 |
 
-|
+Nancy-Metz |
 
-2
+Université de Lorraine |
 
-|
+5 |
 
-Orléans-Tours
+Nantes |
 
-|
+Université de Nantes |
 
-Université d'Orléans
+2 |
 
 |
 
-2
+Université d'Angers |
 
-|
+2 |
 
 |
 
-Université de Tours
-
-|
+Université Le Mans |
 
-2
+2 |
 
 |
 
-Paris
+Ecole Centrale de Nantes |
 
-|
+1 |
 
-Université Paris-I
+Nice |
 
-|
+Université de Nice |
 
-2
+2 |
 
 |
 
-|
+Université de Toulon |
 
-Université Paris-II
+2 |
 
 |
 
-2
+Université Côte d'Azur |
 
-|
-
-|
+1 |
 
-Université Paris-III
+Orléans-Tours |
 
-|
+Université d'Orléans |
 
-2
+2 |
 
 |
 
-|
+Université de Tours |
 
-Université Paris-IV
+2 |
 
 |
 
-3
+Institut national des sciences appliquées Centre Val de Loire |
 
-|
-
-|
+1 |
 
-Université Paris-V
+Paris |
 
-|
+Université Paris-I |
 
-3
+2 |
 
 |
 
-|
+Université Paris-II |
 
-Université Paris-VI
+2 |
 
 |
 
-2
+Université Paris-III |
 
-|
+2 |
 
 |
 
-Université Paris-VII
+Sorbonne Université |
 
-|
-
-2
+5 |
 
 |
 
-|
+Université Paris-V |
 
-Université technologique Paris-Dauphine
+3 |
 
 |
 
-1
+Université Paris-VII |
 
-|
+2 |
 
 |
-
-Collège de France
 
-|
+Université Paris-Dauphine |
 
-1
+2 |
 
 |
 
-|
+Collège de France |
 
-Conservatoire national des arts et métiers
+1 |
 
 |
 
-1
+Conservatoire national des arts et métiers |
 
-|
+2 |
 
 |
 
-Ecole pratique des hautes études
+Ecole pratique des hautes études |
 
-|
+1 |
 
-1
-
 |
 
-|
+Ecole des hautes études en sciences sociales |
 
-Ecole des hautes études en sciences sociales
+2 |
 
 |
 
-1
+Ecole normale supérieure |
 
-|
+2 |
 
 |
-
-Muséum national d'histoire naturelle
 
-|
+Ecole nationale supérieure d'arts et métiers |
 
-2
+2 |
 
 |
 
-|
+Ecole nationale supérieure de chimie de Paris |
 
-Institut national d'histoire de l'art
+1 |
 
 |
 
-1
+Muséum national d'histoire naturelle |
 
-|
+2 |
 
 |
 
-Agence d'évaluation de la recherche et de l'enseignement supérieur
+Institut national d'histoire de l'art |
 
-|
+1 |
 
-1
-
 |
 
-|
+Institut de physique du Globe de Paris |
 
-Institut national des langues et civilisations orientales
+1 |
 
 |
 
-1
+Institut national des langues et civilisations orientales |
 
-|
+1 |
 
 |
 
-Chancellerie des universités de Paris
-
-|
+Chancellerie des universités de Paris |
 
-1
+1 |
 
 |
 
-Poitiers
+Observatoire de Paris |
 
-|
+1 |
 
-Université de Poitiers
-
-|
+Poitiers |
 
-2
+Université de Poitiers |
 
-|
+2 |
 
 |
 
-Université de La Rochelle
-
-|
+Université de La Rochelle |
 
-2
+2 |
 
 |
 
-Reims
+Ecole nationale supérieure de mécanique et d'aérotechnique de Poitiers |
 
-|
+1 |
 
-Université de Reims
+Reims |
 
-|
+Université de Reims |
 
-2
+2 |
 
 |
-
-Rennes
 
-|
+Université de technologie de Troyes |
 
-Université Rennes-I
+1 |
 
-|
+Rennes |
 
-2
+Université Rennes-I |
 
-|
+2 |
 
 |
 
-Université Rennes-II
+Université Rennes-II |
 
-|
-
-1
+2 |
 
 |
 
-|
+Université de Brest |
 
-Université de Brest
+2 |
 
 |
 
-2
+Université de Bretagne-Sud |
 
-|
+2 |
 
 |
-
-Université de Bretagne-Sud
 
-|
+Ecole normale supérieure de Rennes |
 
-2
+1 |
 
 |
 
-La Réunion
-
-|
+Institut national des sciences appliquées de Rennes |
 
-Université de La Réunion
+1 |
 
-|
+La Réunion |
 
-2
+Université de La Réunion |
 
-|
+2 |
 
-Rouen
+Rouen |
 
-|
+Université de Rouen |
 
-Université de Rouen
+2 |
 
 |
 
-2
+Université Le Havre |
 
-|
+2 |
 
 |
 
-Université du Havre
+Institut national des sciences appliquées de Rouen |
 
-|
+1 |
 
-2
+Strasbourg |
 
-|
+Université de Strasbourg |
 
-Strasbourg
+3 |
 
 |
 
-Université de Strasbourg
-
-|
+Université de Mulhouse |
 
-3
+2 |
 
 |
 
-|
+Bibliothèque nationale et universitaire de Strasbourg |
 
-Université de Mulhouse
+1 |
 
 |
 
-2
+Institut national des sciences appliquées de Strasbourg |
 
-|
+1 |
 
-Toulouse
+Toulouse |
 
-|
+Université Toulouse-I |
 
-Université Toulouse-I
+2 |
 
 |
 
-2
+Université Toulouse-II |
 
-|
+2 |
 
 |
 
-Université Toulouse-II
-
-|
+Université Toulouse-III |
 
-2
+3 |
 
 |
 
-|
+Ecole nationale d'ingénieurs de Tarbes |
 
-Université Toulouse-III
+1 |
 
 |
-
-3
 
-|
+Université fédérale de Toulouse Midi-Pyrénées |
 
-Versailles
+1 |
 
 |
 
-Université Paris-X
-
-|
+Institut national polytechnique de Toulouse |
 
-2
+2 |
 
 |
 
-|
+Institut national des sciences appliquées de Toulouse |
 
-Université Paris-XI
+2 |
 
-|
+Versailles |
 
-2
+Université Paris-X |
 
-|
+2 |
 
 |
 
-Université de Cergy-Pontoise
+Université Paris-XI |
 
-|
+3 |
 
-2
-
 |
 
-|
+Université de Cergy-Pontoise |
 
-Université d'Evry-Val d'Essonne
+2 |
 
 |
 
-2
+Université d'Evry-Val d'Essonne |
 
-|
+2 |
 
 |
 
-Université de Versailles-Saint-Quentin-en-Yvelines
-
-|
+Université de Versailles-Saint-Quentin-en-Yvelines |
 
-2
+2 |
 
 |
 
-|
+Université Paris-Saclay |
 
-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
+1 |
 
 |
 
-1
+CentraleSupélec |
 
-|
+2 |
 
 |
-
-Ecole nationale supérieure de l'électronique et de ses applications - Cergy-pontoise
 
-|
+Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés |
 
-1
+1 |
 
 |
 
-Vice-rectorat de Nouvelle-Calédonie
+Ecole nationale supérieure de l'électronique et de ses applications de Cergy |
 
-|
+1 |
 
-Université de la Nouvelle-Calédonie
+Vice-rectorat de Nouvelle-Calédonie |
 
-|
+Université de Nouvelle-Calédonie |
 
-1
+1 |
 
-|
+Vice-rectorat de Polynésie Française |
 
-Réseau national des œuvres universitaires et scolaires
+Université de Polynésie Française |
 
-|
+1 |
 
-46
+Réseau national des œuvres universitaires et scolaires |
 
-|
+47 |
 
 Administration centrale |
 
-5
-
-|
+7 |

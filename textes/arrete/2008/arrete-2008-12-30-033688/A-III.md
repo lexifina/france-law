@@ -1,385 +1,249 @@
-# Article A II
+# Article A.-II
 
-A. - II. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+A.-II.-Répartition des emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche relevant de l'article 58
 
-de l'enseignement supérieur et de la recherche
+du décret du 3 décembre 1983 susvisé, services et établissements relevant du ministre chargé de l'enseignement supérieur |
 
-relevant de l'article 58 du décret du 3 décembre 1983 susvisé,
+Académies |
 
-services et établissements relevant du ministre chargé de l'enseignement supérieur
-
-|
+Localisation |
 
 NOMBRE
 
-d'emplois
+d'emplois |
 
-|
+Aix-Marseille |
 
-Académies
+Université d'Aix-Marseille |
 
-|
-
-Localisation
-
-|
-
-Aix-Marseille
-
-|
-
-Université Aix-Marseille-I
-
-|
-
-1
-
-|
-
-|
-
-Université Aix-Marseille-II
-
-|
-
-1
-
-|
-
-|
-
-Université Aix-Marseille-III
-
-|
-
-1
-
-|
+2 |
 
 Amiens |
 
 Université d'Amiens |
 
-1
+1 |
 
-|
-
-Besançon
-
-|
+Besançon |
 
 Université de Besançon |
 
-1
+1 |
 
-|
+Bordeaux |
 
-Bordeaux
+Université de Bordeaux |
 
-|
-
-Université Bordeaux-I |
-
-1
-
-|
+2 |
 
 Caen |
 
 Université de Caen |
 
-1
+1 |
 
-|
+Clermont-Ferrrand |
+
+Université de Clermont Auvergne |
+
+1 |
 
 Créteil |
 
 Université Paris-XII |
 
-1
-
-|
+1 |
 
 |
 
 Université Paris-XIII |
 
-1
+1 |
 
-|
-
-Dijon
-
-|
-
-Université de Dijon
-
-|
-
-1
-
-|
-
-Grenoble
-
-|
-
-Université Grenoble-I
-
-|
-
-1
-
-|
-
-Lille
-
-|
-
-Université Lille-I
-
-|
-
-1
-
-|
-
-Lyon
-
-|
-
-Université Lyon-I
-
-|
-
-1
-
-|
-
-Montpellier
-
-|
-
-Université Montpellier-II
-
-|
-
-1
-
-|
-
-Nancy-Metz
-
-|
-
-Université Nancy-I
+Dijon |
 
-|
-
-1
-
-|
-
-Nantes
-
-|
+Université de Dijon |
 
-Université de Nantes
-
-|
+1 |
 
-1
+Grenoble |
 
-|
+Université de Grenoble Alpes |
 
-Nice
+2 |
 
 |
 
-Université de Nice
+Communauté d'université Grenoble Alpes |
 
-|
+1 |
 
-1
+Lille |
 
-|
+Université de Lille |
 
-Orléans-Tours
+2 |
 
-|
+Limoges |
 
-Université de Tours
+Université de Limoges |
 
-|
+1 |
 
-1
+Lyon |
 
-|
+Université de Lyon-I |
 
-Paris
+2 |
 
 |
 
-Université Paris-I
+Université de Lyon |
 
-|
+1 |
 
-1
-
-|
+Montpellier |
 
-|
+Université de Montpellier |
 
-Université Paris-V
+2 |
 
-|
+Nancy-Metz |
 
-1
+Université de Lorraine |
 
-|
+2 |
 
-|
+Nantes |
 
-Université Paris-VI
+Université de Nantes |
 
-|
+1 |
 
-1
+Nice |
 
-|
+Université de Nice |
 
-|
+1 |
 
-Université Paris-VII
+Orléans-Tours |
 
-|
+Université d'Orléans |
 
-1
+1 |
 
 |
 
-|
+Université de Tours |
 
-Conservatoire national des arts et métiers (CNAM)
+1 |
 
-|
+Paris |
 
-1
+Université Paris-I |
 
-|
+1 |
 
 |
 
-Muséum national d'histoire naturelle (MNHN)
-
-|
+Université Paris-V |
 
-1
+1 |
 
 |
 
-Poitiers
+Sorbonne Université |
 
-|
+2 |
 
-Université de Poitiers
-
 |
-
-1
 
-|
+Université Paris-VII |
 
-Reims
+1 |
 
 |
-
-Université de Reims
 
-|
+Conservatoire national des arts et métiers |
 
-1
+1 |
 
 |
 
-Rennes
+Muséum national d'histoire naturelle |
 
-|
+1 |
 
-Université Rennes-I
+Poitiers |
 
-|
+Université de Poitiers |
 
-1
+1 |
 
-|
+Reims |
 
-Rouen
+Université de Reims |
 
-|
+1 |
 
-Université de Rouen
+Rennes |
 
-|
+Université Rennes-I |
 
-1
+1 |
 
 |
 
-Strasbourg
+Université de Brest |
 
-|
+1 |
 
-Université de Strasbourg
+Rouen |
 
-|
+Université de Rouen |
 
-1
+1 |
 
-|
+Strasbourg |
 
-Toulouse
+Université de Strasbourg |
 
-|
+2 |
 
-Université Toulouse-III
+Toulouse |
 
-|
+Université Toulouse-II |
 
-1
+1 |
 
 |
 
-Versailles
+Université Toulouse-III |
 
-|
+2 |
 
-Université Paris-X
+Versailles |
 
-|
+Université Paris-X |
 
-1
+1 |
 
 |
 
-|
+Université Paris-XI |
 
-Université Paris-XI
+2 |
 
 |
 
-1
+Université Paris-Saclay |
 
-|
+1 |
 
 Réseau national des œuvres universitaires et scolaires |
 
-1
-
-|
+2 |
 
 Administration centrale |
 
-1
-
-|
+13 |
