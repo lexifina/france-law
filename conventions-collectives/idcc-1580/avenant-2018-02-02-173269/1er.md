@@ -1,0 +1,67 @@
+# Article 1er
+
+La commission paritaire permanente de négociation et d'interprétation incluant la conciliation se substitue en totalité aux commissions paritaires visées aux articles 1-7, 1-8, 1-9 et 2-5 de la convention collective nationale de l'industrie de la chaussure et des articles chaussants. Les quatre articles susvisés sont supprimés et remplacés par un nouvel article 1-7 ainsi rédigé :
+
+« Commission paritaire permanente de négociation, d'interprétation et de conciliation
+
+Article 1-7
+
+Une commission paritaire permanente de négociation et d'interprétation est mise en place. Elle inclut la conciliation. Cette commission est donc appelée : commission paritaire permanente de négociation, d'interprétation et de conciliation.
+
+1° Missions
+
+Conformément à l'article L. 2232-9 II du code du travail, la CPPNI-C exerce les missions d'intérêt général suivantes :
+
+– elle représente la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
+
+– elle exerce un rôle de veille sur les conditions de travail et d'emploi ;
+
+– elle établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée dans le code du travail. Ce rapport comprend un bilan des accords collectifs d'entreprise qui porte en particulier sur l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche. Elle formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées.
+
+La commission peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire.
+
+Elle peut également exercer les missions de l'observatoire paritaire mentionné à l'article L. 2232-10 du code du travail.
+
+2° Composition et vote
+
+La commission paritaire permanente de négociation, d'interprétation et de conciliation est composée :
+
+– d'un collège salarié, composé de 2 représentants par organisation syndicale de salariés représentative dans la branche ;
+
+– d'un collège employeur, composé d'un ou plusieurs représentants employeurs dans la limite de la parité.
+
+Chaque collège dispose de 50 % des voix.
+
+En dehors des cas où elle siège en tant que commission de négociation ou d'interprétation où les règles d'adoption des accords collectifs selon la représentativité des syndicats de salariés sont applicables, chaque collège se prononce à la majorité des organisations syndicales composant le collège pour exprimer sa position.
+
+3° Fonctionnement
+
+La CPPNI-C se réunit autant de fois qu'elle le jugera nécessaire et en tout état de cause, au moins trois fois par an en vue de mener les négociations au niveau de la branche. Elle définit son calendrier de négociations dans les conditions prévues par la loi.
+
+Un projet d'ordre du jour de chaque commission est proposé d'une réunion à l'autre.
+
+La convocation, l'ordre du jour, les documents préparatoires et le compte rendu de la précédente réunion sont adressés par voie électronique aux représentants dûment désignés par chaque organisation syndicale, dans un délai de 8 jours, et dans tous les cas avant la tenue de la réunion, pour les documents nécessitant une décision en séance.
+
+Tout projet d'accord sera adressé par tout moyen aux organisations syndicales représentatives dans la branche, celles-ci disposant d'un délai de réflexion défini en séance afin de se prononcer sur une signature.
+
+Les séances sont présidées par la partie patronale et le secrétariat de la CPPNI-C est assuré par la FFC.
+
+En cas de différend sur l'interprétation d'un ou plusieurs articles de la convention, le différend est obligatoirement porté devant la CPPNI-C. La commission se réunit à la requête de la partie la plus diligente, dans un délai ne dépassant pas 8 jours ouvrables.
+
+Dans tous les cas de réclamation collective, les parties s'engagent à respecter un délai en vue de l'examen en commun desdites réclamations.
+
+Ce délai est de 4 jours ouvrables.
+
+Quand un différend surgit, la direction et la délégation salariée s'efforcent de régler ce différend à l'amiable. Si elles n'y réussissent pas, elles portent le différend devant la CPPNI-C. La solution intervient dans un délai de 8 jours ouvrables.
+
+Pour fixer le départ des délais, la demande doit être adressée par les demandeurs, par lettre recommandée avec accusé de réception, à l'organisation syndicale intéressée. Le délai commence à courir à partir de la date de réception de ladite lettre recommandée.
+
+4° Participation aux réunions
+
+Pour les salariés de la branche participant aux réunions de la CPPNI-C, le temps passé en CPPNI-C est assimilé à du temps de travail effectif et rémunéré comme tel par l'employeur.
+
+Ces salariés sont tenus d'informer préalablement leur employeur de leur participation à ces commissions et de s'efforcer en accord avec lui de réduire au minimum les perturbations que leur absence pourrait apporter à la marche générale de l'entreprise.
+
+Les salariés participant à la CPPNI-C, dans la limite de deux pour chacune des fédérations syndicales de salariés représentatives et pour un maximum de quatre réunions paritaires par année civile, bénéficient sur justificatifs du remboursement de leurs frais de transport sur la base du tarif SNCF 2e classe.
+
+Lorsque la CPPNI-C se réunit et statue exceptionnellement à titre de commission d'interprétation ou de conciliation, les frais de déplacement qui résultent de ces réunions seront pris en charge. »
