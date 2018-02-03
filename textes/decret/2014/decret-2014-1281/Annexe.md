@@ -258,7 +258,7 @@ Article 95 ZH de l'annexe II |
 
 3 mois en cas de difficultés |
 
-Autorisation et conventionnement du "visa fiscal" des professionnels de l'expertise comptable.
+Autorisation et conventionnement du " visa fiscal " des professionnels de l'expertise comptable.
 
 |
 
@@ -408,7 +408,7 @@ Article R. 115-2 |
 
 Autorisation de conclusion, modification et résiliation d'une convention de substitution Mutuelles et unions |
 
-Articles L. 211-5 et R. 211-25 |
+Articles L. 211-5 et R. 211-24 |
 
 3 mois |
 
