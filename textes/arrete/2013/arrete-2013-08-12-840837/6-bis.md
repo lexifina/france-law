@@ -1,6 +1,6 @@
 # Article 6 bis
 
-I. - La Mission d'appui aux équipes systèmes d'information et communication apporte assistance et expertise aux équipes informatiques locales au sein des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Elle assure, en appui des équipes informatiques locales et pour les services dont elle a la charge :
+I. - La Mission d'appui aux équipes systèmes d'information et communication apporte assistance et expertise aux équipes informatiques locales au sein des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des directions régionales et départementales de la jeunesse, des sports et de la cohésion sociale et des directions départementales interministérielles. Elle assure, en appui des équipes informatiques locales et pour les services dont elle a la charge :
 
 - le support au maintien en condition opérationnelle des postes de travail et infrastructures locales ;
 
