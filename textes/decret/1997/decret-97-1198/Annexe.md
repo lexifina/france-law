@@ -1858,11 +1858,19 @@ la production, l'entretien et l'exploitation des aéronefs ;
 
 équipages, à leurs chargements et aux passagers, et sanctions correspondantes.
 
+Attestation d'aptitude aux fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels ils souhaitent continuer à opérer ;
+
+Certificat d'aptitude théorique de télépilote ;
+
+Décisions en matière de reconnaissance des formations visées à l'article L. 6214-2, de l'expérience et des qualifications.
+
 |
 
 Articles R. 133-1, R. 133-1-1, R. 133-1-2,
 
 R. 133-1-3 et R. 330-1-2.
+
+Articles D. 136-2, D. 136-2-2 et R. 136-1.
 
 |
 
