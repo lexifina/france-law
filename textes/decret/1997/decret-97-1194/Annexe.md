@@ -80,96 +80,6 @@ Article 3.
 
 |
 
-Décret n° 55-586 du 20 mai 1955 modifié portant réforme du régime des substances minérales dans les départements d'outre-mer
-
-1
-
-|
-
-Octroi, extension de concession de mines dans les départements d'outre-mer.
-
-|
-
-Article 11, 4e et 6e alinéa.
-
-|
-
-2
-
-|
-
-Octroi, renouvellement des permis de recherches A de mines dans les départements d'outre-mer.
-
-|
-
-Article 9, 2e alinéa.
-
-|
-
-Décret n° 56-1039 du 5 octobre 1956 fixant les conditions d'application du décret n° 55-586 du 20 mai 1955 modifié portant réforme du régime des substances minérales dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-
-1
-
-|
-
-Annulation d'un permis de recherches A de mines dans les départements d'outre-mer.
-
-|
-
-Article 45.
-
-|
-
-2
-
-|
-
-Rejet de demande de concessions de mines dans les départements d'outre-mer.
-
-|
-
-Article 72.
-
-|
-
-3
-
-|
-
-Fusion ou division de concessions de mines dans les départements d'outre-mer.
-
-|
-
-Article 75.
-
-|
-
-4
-
-|
-
-Cession ou transmission de concession de mines dans les départements d'outre-mer.
-
-|
-
-Article 78.
-
-|
-
-5
-
-|
-
-Renonciation partielle de concession de mines dans les départements d'outre-
-
-mer.
-
-|
-
-Article 82.
-
-|
-
 Décret n° 59-645 du 16 mai 1959 modifié portant règlement d'administration publique pour l'application de l'article 11 de la loi de finances n° 58-336 du 29 mars 1958 relatif à la construction dans la métropole des pipelines d'intérêt général destinés aux transports d'hydrocarbures liquides ou liquéfiés sous pression
 
 1
@@ -240,7 +150,9 @@ Décisions relatives aux permis exclusifs de recherches de mines et de stockage 
 
 matière d’octroi du titre initial, de rejet, de prolongation, de prolongation exceptionnelle pour les
 
-mines d’hydrocarbures, d’extension, de mutation et de fusion.
+mines d’hydrocarbures, d’extension, de mutation et de fusion,
+
+hormis les titres miniers en mer dans les régions d'outre-mer
 
 |
 
@@ -256,7 +168,11 @@ Articles 23, 49, 50,
 
 Décisions relatives aux concessions de mines et de stockage souterrain : rejet de la demande de
 
-concession.
+concession,
+
+hormis les titres miniers en mer dans les régions d'outre-mer
+
+.
 
 |
 
@@ -268,7 +184,9 @@ Article 31.
 
 Décisions prises au titre du contrôle des sociétés minières et de stockage souterrain et des contrats
 
-passés entre elles pour la recherche et l’exploitation.
+passés entre elles pour la recherche et l’exploitation,
+
+hormis les titres miniers en mer dans les régions d'outre-mer.
 
 |
 
@@ -284,7 +202,9 @@ Décisions relatives au permis d’exploitation dans les départements d’outre
 
 du titre initial, de prolongation, d’extension, de mutation, d’amodiation, de renonciation et de
 
-retrait.
+retrait,
+
+hormis les titres miniers en mer dans les régions d'outre-mer.
 
 |
 
@@ -490,7 +410,7 @@ Code des ports maritimes
 
 |
 
-Autorisation de déclassement, d'affectation ou de transfert de gestion à une collectivité autre que le port autonome ou d'aliénation des immeubles remis en jouissance aux ports autonomes et fixation et répartition de la plus-value apportée au bien du fait des aménagements réalisés, lorsque la valeur vénale du bien est supérieure au seuil prévu par le 4e alinéa de l'article R. 129 du code du domaine de l'Etat. Décision conjointe avec le ministre chargé des ports maritimes.
+Autorisation de déclassement, d'affectation ou de transfert de gestion à une collectivité autre que le port autonome et fixation et répartition de la plus-value apportée au bien du fait des aménagements réalisés, lorsque la valeur vénale du bien est supérieure au seuil prévu par le 4e alinéa de l'article R. 129 du code du domaine de l'Etat. Décision conjointe avec le ministre chargé des ports maritimes.
 
 |
 
@@ -695,6 +615,20 @@ Habilitation des organismes à effectuer les tâches d'attestation de conformit�
 |
 
 Article 1er-III.
+
+|
+
+Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse
+
+1
+
+|
+
+Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes. Décision conjointe avec le ministre chargé des transports
+
+|
+
+Article 16
 
 |
 
@@ -1932,13 +1866,15 @@ Décisions d'agrément préalable et modification des prototypes de machines à 
 
 |
 
-Articles 164 P et 164 A B de l'annexe IV.
+Articles 164 P et 164 A B, 164 AL et 164 AL10 de l'annexe IV.
 
 |
 
 Livre des procédures fiscales
 
-N° |
+N°
+
+|
 
 LIBELLÉ DE LA DÉCISION |
 
@@ -2014,23 +1950,9 @@ Délivrance, suspension et retrait des certificats d’opérateurs économiques 
 
 |
 
-Article 5
+Article 5 bis du code des douanes communautaire.
 
-bis
-
-du code des douanes communautaire.
-
-Articles 14
-
-bis
-
-à 14
-
-tervicies
-
-des dispositions
-
-d’application du code des douanes communautaire.
+Articles 14 bis à 14 tervicies des dispositions d’application du code des douanes communautaire.
 
 |
 
@@ -2426,7 +2348,9 @@ Articles 233, paragraphe 4 e, du code des douanes de l'Union européenne, 199 et
 
 Règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant le contrôle, par les autorités douanières, du respect des droits de propriété intellectuelle et abrogeant le règlement (CE) n° 1383/2003 du Conseil
 
-N° |
+N°
+
+|
 
 LIBELLÉ DE LA DÉCISION |
 
@@ -2618,7 +2542,7 @@ Agrément des systèmes de dénaturation automatique de gazole en gazole d'avita
 
 |
 
-Article 190 et arrêté du 2 janvier 1974 relatif à l'application de la franchise des droits et taxes pour les produits pétroliers destinés à l'avitaillement des navires, article 3.
+Article 190 et article 3 de l'arrêté du 1er juillet 2004 relatif à l'application de l'exonération des droits et taxes institués par l'article 190 du code des douanes pour les produits pétroliers destinés à l'avitaillement des navires
 
 |
 
@@ -2630,7 +2554,7 @@ Agrément des dispositifs de sélection et autorisation d'utilisation de gazole 
 
 |
 
-Article 265 B et arrêté du 10 novembre 2011 modifié fixant pour le gazole, les gaz de pétrole liquéfiés et les émulsions d'eau dans du gazole des conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié institué par l'article 265 du code des douanes en matière de taxe intérieure de consommation.
+Article 265 B et arrêté du 10 novembre 2011 modifié fixant pour le gazole, les gaz de pétrole liquéfiés et les émulsions d'eau dans du gazole des conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié institué par l'article 265 du code des douanes en matière de taxe intérieure de consommation
 
 |
 
@@ -2642,19 +2566,7 @@ Agrément des systèmes de dénaturation automatique de gazole en fioul domestiq
 
 |
 
-Article 265 B et arrêté du 10 novembre 2011 précité, article 2.
-
-|
-
-6
-
-|
-
-Exonération de la taxe intérieure sur le gaz naturel utilisé comme matière première ou comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de l'article 265 du code des douanes.
-
-|
-
-Article 266 quinquies 3 a et b.
+Article 265 B et arrêté du 10 novembre 2011 précité, article 2
 
 |
 
@@ -2692,7 +2604,7 @@ Délivrance et retrait d'un numéro d'identification à un fabricant ou à un fo
 
 |
 
-Article 570-III ; articles 276,277 et 279 de l'annexe II
+Article 570-III ; articles 276,277 et 279 de l'annexe II.
 
 |
 
@@ -2734,45 +2646,45 @@ Article 207 de l'annexe III.
 
 7 |
 
-Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit |
+Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit. |
 
-Article 111 I de l'annexe III et le a de l'article 50-0 C de l'annexe IV |
+Article 111 I de l'annexe III et le a de l'article 50-0 C de l'annexe IV. |
 
 8 |
 
-Délivrance, suspension et retrait de l'agrément des organismes chargés de l'élaboration, de la vente et du transfert des fichiers informatiques supportant la version dématérialisée des poinçons de garantie |
+Délivrance, suspension et retrait de l'agrément des organismes chargés de l'élaboration, de la vente et du transfert des fichiers informatiques supportant la version dématérialisée des poinçons de garantie. |
 
-Articles 275 bis F et 275 ter G de l'annexe II ; articles 56 J terdecies A à 56 J terdecies E de l'annexe IV |
+Articles 275 bis F et 275 ter G de l'annexe II ; articles 56 J terdecies A à 56 J terdecies E de l'annexe IV. |
 
 9 |
 
-Délivrance, suspension et retrait de l'agrément des organismes de contrôle chargés d'attester la garantie du titre des ouvrages en métaux précieux |
+Délivrance, suspension et retrait de l'agrément des organismes de contrôle chargés d'attester la garantie du titre des ouvrages en métaux précieux. |
 
-Article 535 II, articles 275 ter à 275 ter P de l'annexe II |
+Article 535 II, articles 275 ter à 275 ter P de l'annexe II. |
 
 10 |
 
-Recevabilité de la demande d'agrément des opérateurs de détaxe |
+Recevabilité de la demande d'agrément des opérateurs de détaxe. |
 
-Article 202 F de l'annexe II |
+Article 202 F de l'annexe II. |
 
 11 |
 
-Agrément des opérateurs de détaxe |
+Agrément des opérateurs de détaxe. |
 
-Article 262-0 bis ; articles 202 E et 202 H de l'annexe II |
+Article 262-0 bis ; articles 202 E et 202 H de l'annexe II. |
 
 12 |
 
-Suspension et retrait de l'agrément des opérateurs de détaxe |
+Suspension et retrait de l'agrément des opérateurs de détaxe. |
 
-Article 262-0 bis ; articles 202 M et 202 N de l'annexe II |
+Article 262-0 bis ; articles 202 M et 202 N de l'annexe II. |
 
 13 |
 
-Sanction en cas de manquement aux obligations imposées aux opérateurs de détaxe |
+Sanction en cas de manquement aux obligations imposées aux opérateurs de détaxe. |
 
-Article 262-0 bis ; article 202 L de l'annexe II |
+Article 262-0 bis ; article 202 L de l'annexe II. |
 
 Livre des procédures fiscales
 
@@ -3228,11 +3140,11 @@ er
 
 du décret
 
-du 13 décembre 2001
+du 13 décembre 2001.
 
 Article 5 et 6 du décret
 
-du 30 novembre 1944
+du 30 novembre 1944.
 
 |
 
@@ -3246,7 +3158,7 @@ des catégories de biens et technologies soumises à autorisation.
 
 Article 2-1 du décret
 
-du 13 décembre 2001
+du 13 décembre 2001.
 
 |
 
@@ -4729,106 +4641,6 @@ Modification des tarifs maxima de base en cas de variation du pouvoir calorique.
 |
 
 Article 26.
-
-|
-
-Décret n° 55-586 du 20 mai 1955 modifié portant réforme du régime des substances minérales dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-
-1
-
-|
-
-Attribution (ou rejet) du permis d'exploitation de mines dans les départements d'outre-mer.
-
-|
-
-Article 11 (§ 4).
-
-|
-
-Décret n° 56-1039 du 5 octobre 1956 fixant les conditions d'application du décret n° 55-586 du 20 mai 1955 modifié portant réforme du régime des substances minérales dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-
-1
-
-|
-
-Cession de permis de recherche A de mines dans les départements d'outre-mer.
-
-|
-
-Article 43, alinéa 3.
-
-|
-
-2
-
-|
-
-Renouvellement du permis d'exploitation de mines dans les départements d'outre-mer.
-
-|
-
-Article 57.
-
-|
-
-3
-
-|
-
-Extension du permis d'exploitation de mines dans les départements d'outre-mer.
-
-|
-
-Article 54.
-
-|
-
-4
-
-|
-
-Cession (et amodiation ou transmission) du permis d'exploitation de mines dans les départements d'outre-mer.
-
-|
-
-Article 59.
-
-|
-
-5
-
-|
-
-Acceptation de la renonciation et annulation du permis d'exploitation de mines dans les départements d'outre-mer.
-
-|
-
-Article 62.
-
-|
-
-6
-
-|
-
-Acceptation de la renonciation totale à une concession de mines dans les départements d'outre-mer.
-
-|
-
-Article 81.
-
-|
-
-7
-
-|
-
-Déchéance de la concession de mines dans les départements d'outre-mer.
-
-|
-
-Article 83.
 
 |
 
