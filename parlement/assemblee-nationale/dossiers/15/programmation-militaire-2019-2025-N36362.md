@@ -1,0 +1,85 @@
+# Programmation militaire 2019-2025
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36362
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_militaire_2019-2025
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-383.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-02-08 : 1er dépôt d'une initiative. (PRJLANR5L15B0659)
+  - 2018-02-08 : Etude d'impact (ETDIANR5L15B0659)
+  - 2018-02-08 : Avis du Conseil d'Etat (AVCEANR5L15B0659)
+  - 2018-02-08 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-08 : Renvoi en commission au fond
+      - 2018-02-08 : Nomination de rapporteur
+      - 2018-03-13 : Réunion de commission
+      - 2018-03-13 : Réunion de commission
+      - 2018-03-14 : Réunion de commission
+      - 2018-03-20 : Réunion de commission
+      - 2018-03-14 : Dépôt de rapport (RAPPANR5L15B0765, PRJLANR5L15BTC0765)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-21 : Saisine pour avis d'une commission
+      - 2018-02-13 : Nomination de rapporteur
+      - 2018-03-13 : Réunion de commission
+      - 2018-03-13 : Dépôt de rapport (AVISANR5L15B0762)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-23 : Saisine pour avis d'une commission
+      - 2018-02-07 : Nomination de rapporteur
+      - 2018-02-07 : Réunion de commission
+      - 2018-03-07 : Dépôt de rapport (AVISANR5L15B0732)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-26 : Saisine pour avis d'une commission
+      - 2018-03-07 : Nomination de rapporteur
+      - 2018-03-07 : Réunion de commission
+      - 2018-03-13 : Réunion de commission
+      - 2018-03-13 : Dépôt de rapport (AVISANR5L15B0761)
+  - Discussion en séance publique
+    - 2018-03-20 : Discussion en séance publique
+    - 2018-03-20 : Discussion en séance publique
+    - 2018-03-21 : Discussion en séance publique
+    - 2018-03-21 : Discussion en séance publique
+    - 2018-03-22 : Discussion en séance publique
+    - 2018-03-22 : Discussion en séance publique
+    - 2018-03-22 : Discussion en séance publique
+    - 2018-03-27 : Discussion en séance publique
+    - 2018-03-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-03-28 : Dépôt d'une initiative en navette (PRJLSNR5S299B0383)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-05-16 : Dépôt de rapport (RAPPSNR5S299B0476, PRJLSNR5S299BTC0477)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-07 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-05-15 : Dépôt de rapport (AVISSNR5S299B0472)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-14 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-05-15 : Dépôt de rapport (AVISSNR5S299B0473)
+  - Discussion en séance publique
+    - 2018-05-22 : Discussion en séance publique
+    - 2018-05-23 : Discussion en séance publique
+    - 2018-05-29 : Discussion en séance publique
+    - 2018-05-29 : Décision
+- Commission Mixte Paritaire
+  - 2018-05-30 : Dépôt d'un projet de loi (PRJLANR5L15B1013)
+  - 2018-05-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-06-19 : Nomination de rapporteur
+    - 2018-06-19 : Dépôt du rapport d'une CMP (RAPPANR5L15B1091, PRJLANR5L15BTC1091)
+    - 2018-06-19 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0581, PRJLSNR5S299BTC0582)
+  - Discussion en séance publique
+    - 2018-06-27 : Décision
+  - Discussion en séance publique
+    - 2018-06-28 : Discussion en séance publique
+    - 2018-06-28 : Décision
+  - 2018-06-20 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-07-13 : Promulgation d'une loi
