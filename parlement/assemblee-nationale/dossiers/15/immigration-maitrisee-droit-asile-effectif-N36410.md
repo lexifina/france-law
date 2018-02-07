@@ -1,0 +1,122 @@
+# Immigration maîtrisée, droit d'asile effectif et intégration réussie
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36410
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/immigration_maitrisee_droit_asile_effectif
+- Sénat : https://www.senat.fr/dossier-legislatif/pjl17-464.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-02-21 : 1er dépôt d'une initiative. (PRJLANR5L15B0714)
+  - 2018-02-21 : Etude d'impact (ETDIANR5L15B0714)
+  - 2018-02-21 : Avis du Conseil d'Etat (AVCEANR5L15B0714)
+  - 2018-02-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-21 : Renvoi en commission au fond
+      - 2018-02-14 : Nomination de rapporteur
+      - 2018-03-07 : Réunion de commission
+      - 2018-04-03 : Réunion de commission
+      - 2018-04-04 : Réunion de commission
+      - 2018-04-04 : Réunion de commission
+      - 2018-04-04 : Réunion de commission
+      - 2018-04-05 : Réunion de commission
+      - 2018-04-05 : Réunion de commission
+      - 2018-04-06 : Réunion de commission
+      - 2018-04-16 : Réunion de commission
+      - 2018-04-09 : Dépôt de rapport (RAPPANR5L15B0857, PRJLANR5L15BTC0857)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-23 : Saisine pour avis d'une commission
+      - 2018-02-21 : Nomination de rapporteur
+      - 2018-02-21 : Réunion de commission
+      - 2018-03-27 : Réunion de commission
+      - 2018-03-27 : Dépôt de rapport (AVISANR5L15B0815)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-16 : Saisine pour avis d'une commission
+      - 2018-02-07 : Nomination de rapporteur
+      - 2018-02-07 : Réunion de commission
+      - 2018-03-28 : Réunion de commission
+      - 2018-03-28 : Dépôt de rapport (AVISANR5L15B0821)
+  - Discussion en séance publique
+    - 2018-04-16 : Discussion en séance publique
+    - 2018-04-17 : Discussion en séance publique
+    - 2018-04-17 : Discussion en séance publique
+    - 2018-04-18 : Discussion en séance publique
+    - 2018-04-18 : Discussion en séance publique
+    - 2018-04-19 : Discussion en séance publique
+    - 2018-04-19 : Discussion en séance publique
+    - 2018-04-19 : Discussion en séance publique
+    - 2018-04-20 : Discussion en séance publique
+    - 2018-04-20 : Discussion en séance publique
+    - 2018-04-20 : Discussion en séance publique
+    - 2018-04-21 : Discussion en séance publique
+    - 2018-04-21 : Discussion en séance publique
+    - 2018-04-21 : Discussion en séance publique
+    - 2018-04-22 : Discussion en séance publique
+    - 2018-04-22 : Discussion en séance publique
+    - 2018-04-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-04-24 : Dépôt d'une initiative en navette (PRJLSNR5S299B0464)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-06-06 : Dépôt de rapport (RAPPSNR5S299B0552, PRJLSNR5S299BTC0553)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-16 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-05-31 : Dépôt de rapport (AVISSNR5S299B0527)
+  - Discussion en séance publique
+    - 2018-06-19 : Discussion en séance publique
+    - 2018-06-20 : Discussion en séance publique
+    - 2018-06-21 : Discussion en séance publique
+    - 2018-06-22 : Discussion en séance publique
+    - 2018-06-25 : Discussion en séance publique
+    - 2018-06-26 : Discussion en séance publique
+    - 2018-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2018-06-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-07-04 : Nomination de rapporteur
+    - 2018-07-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B1140)
+    - 2018-07-04 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0636, PRJLSNR5S299BTC0637)
+  - 2018-07-04 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-06-27 : Dépôt d'une initiative en navette (PRJLANR5L15B1106)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-27 : Renvoi en commission au fond
+      - 2018-07-11 : Réunion de commission
+      - 2018-07-18 : Réunion de commission
+      - 2018-07-25 : Réunion de commission
+      - 2018-07-18 : Dépôt de rapport (RAPPANR5L15B1173, PRJLANR5L15BTC1173)
+  - Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Décision
+- Nouvelle Lecture
+  - 2018-07-27 : Dépôt d'une initiative en navette (PRJLSNR5S299B0697)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-27 : Renvoi en commission au fond
+      - 2018-07-31 : Dépôt de rapport (RAPPSNR5S299B0700, PRJLSNR5S299BTC0701)
+  - Discussion en séance publique
+    - 2018-07-31 : Discussion en séance publique
+    - 2018-07-31 : Décision
+- Lecture définitive
+  - 2018-07-31 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0162)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-31 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-08-01 : Discussion en séance publique
+    - 2018-08-01 : Décision
+- Conseil constitutionnel
+  - 2018-08-06 : Saisine du conseil constitutionnel
+  - 2018-08-08 : Saisine du conseil constitutionnel
+  - 2018-09-06 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-09-10 : Promulgation d'une loi
