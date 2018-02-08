@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des montants définitifs au titre de l’année 2017 du fonds de compensation des charges territoriales versés par les communes membres à l’Établissement public territorial Grand Paris Seine Ouest
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-02-08
+- Matière : FINANCES
+- Objet : Fixation des montants définitifs au titre de l’année 2017 du fonds de compensation des charges territoriales versés par les communes membres à l’Établissement public territorial Grand Paris Seine Ouest
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MDcsInB1ciI6ImJsb2JfaWQifX0=--3b4045e0b72125c7e4c202e677835f6f525210cf/080218_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
