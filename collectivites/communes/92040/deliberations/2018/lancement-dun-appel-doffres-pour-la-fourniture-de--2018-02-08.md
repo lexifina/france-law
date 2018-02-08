@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres pour la fourniture de mobiliers divers
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-02-08
+- Matière : COMMANDE PUBLIQUE,ACHATS
+- Objet : Lancement d’un appel d’offres pour la fourniture de mobiliers divers
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NDIsInB1ciI6ImJsb2JfaWQifX0=--75e6f88c0e597a44333138dd5f5ab1a2332b4a4e/080218_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
