@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation financière de la Ville au titre des actions de prévention pour l’année 2018 dans le cadre du Contrat Local de Sécurité
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-02-08
+- Matière : PREVENTION ET SECURITE
+- Objet : Participation financière de la Ville au titre des actions de prévention pour l’année 2018 dans le cadre du Contrat Local de Sécurité
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MDgsInB1ciI6ImJsb2JfaWQifX0=--52ad521d2db04d54a7ea6519f2b54fc918e64eba/080218_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
