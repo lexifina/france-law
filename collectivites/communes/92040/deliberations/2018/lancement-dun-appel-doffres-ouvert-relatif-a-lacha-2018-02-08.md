@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif à l’achat de fournitures scolaires
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-02-08
+- Matière : EDUCATION
+- Objet : Lancement d’un appel d’offres ouvert relatif à l’achat de fournitures scolaires
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NDAsInB1ciI6ImJsb2JfaWQifX0=--fb419b83c86599ca2e255c0398b7a41671cc08cc/080218_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
