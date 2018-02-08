@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Budget primitif de la commune pour l’exercice 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-02-08
+- Matière : FINANCES
+- Objet : Budget primitif de la commune pour l’exercice 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1MzksInB1ciI6ImJsb2JfaWQifX0=--9c7c24fec5b67b86e9fee8a47828b570b81a60fd/080218_02.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
