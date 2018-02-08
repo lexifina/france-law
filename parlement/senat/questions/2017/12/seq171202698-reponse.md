@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202698
+
+- Question : [SEQ171202698](seq171202698.md) — Statut de salarié protégé de certains élus locaux
+
+## Réponse
+
+*Intérieur, JO du 2018-02-08, page 557*
+
+L'article 8 de la loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat a accordé le statut de « salariés protégés » aux maires ou adjoints d'une commune de 10 000 habitants au moins (article L. 2123-9 du code général des collectivités territoriales (CGCT) - ou président et vice-président d'un établissement public de coopération intercommunale à fiscalité propre de même taille), d'un arrondissement de Paris, Lyon ou Marseille (article L. 2511-33 du CGCT) président ou vice-président ayant délégation de l'exécutif d'un conseil départemental, régional, de la métropole de Lyon, de l'assemblée et du conseil exécutif de Corse (articles L. 3123-7, L. 4135-7) qui n'ont pas cessé d'exercer leur activité professionnelle. L'intention du législateur était de protéger les élus locaux de toutes les sanctions qui auraient pu être prononcées par leur employeur et notamment du licenciement du fait de l'exercice de leurs droits en tant qu'élus locaux. C'est pourquoi cette mesure, issue d'un amendement sénatorial, a étendu l'ensemble des dispositions du livre IV de la partie du code du travail relatif au statut de salarié protégé aux élus locaux. Comme l'a relevé la Cour de cassation dans son rapport annuel de 2016, l'absence de reprise de ces dispositions dans le code du travail est une source de difficulté pour la détermination des dispositions effectivement applicables aux élus locaux, notamment en ce qui concerne la procédure applicable ou encore les sanctions pénales applicables. Le Gouvernement est favorable à ce que ce sujet puisse être inscrit dans la réflexion en cours dans le cadre de la conférence nationale des territoires, visant à améliorer les conditions d'exercice des mandats locaux.
