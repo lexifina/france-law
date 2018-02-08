@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101785
+
+- Question : [SEQ171101785](seq171101785.md) — Panneaux solaires et protection du patrimoine
+
+## Réponse
+
+*Culture, JO du 2018-02-08, page 544*
+
+Le code de l'urbanisme soumet à déclaration préalable les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant. L'installation de panneaux solaires, notamment sur un toit, entraînant une modification de l'aspect extérieur, est donc soumise au régime de la déclaration préalable. L'installation de panneaux solaires lorsqu'elle est projetée sur les immeubles situés dans les espaces protégés pour leur intérêt patrimonial tels que les sites patrimoniaux remarquables ou les abords de monuments historiques, nécessite que la déclaration préalable soit transmise à l'architecte des Bâtiments de France (ABF) pour expertise et accord. Il est indispensable de concilier les politiques en matière de conservation du patrimoine et celles en faveur du développement durable, notamment l'énergie solaire. Les services du ministère de la culture entretiennent un dialogue étroit avec ceux du ministère de la transition écologique et solidaire sur cette question. L'ABF demeure à la disposition des demandeurs en amont du dépôt d'une autorisation de travaux afin de les conseiller et de les orienter dans la conception de leur projet, notamment lorsqu'il s'agit d'énergies renouvelables. La mission de conseil de l'ABF fait d'ailleurs partie des axes de la stratégie pluriannuelle en faveur du patrimoine, que la ministre a récemment présentée. Enfin, dans l'hypothèse où un demandeur souhaiterait contester l'avis rendu par l'ABF sur son dossier, il peut toujours faire appel en cas de refus d'autorisation de travaux. L'autorité compétente en matière d'urbanisme peut également faire appel de cet avis.
