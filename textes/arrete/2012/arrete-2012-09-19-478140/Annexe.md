@@ -100,9 +100,9 @@ Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-1er février 2013 |
+1er février 2018 |
 
-31 janvier 2018 |
+31 janvier 2023 |
 
 RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
 
