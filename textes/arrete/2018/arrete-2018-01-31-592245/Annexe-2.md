@@ -1,0 +1,363 @@
+# Article Annexe 2
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 1RE CATÉGORIE
+
+DIR |
+
+RÉFÉRENCE |
+
+FAMILLE |
+
+LIBELLÉ |
+
+13 |
+
+013018 |
+
+Trésorerie spécialisée |
+
+MARSEILLE MUN. ET METROPOLE AMP |
+
+13 |
+
+013038 |
+
+SIE |
+
+AIX-EN-PROVENCE SUD |
+
+21 |
+
+021016 |
+
+SIE |
+
+DIJON NORD |
+
+30 |
+
+030006 |
+
+SPF |
+
+NIMES 1 |
+
+31 |
+
+031097 |
+
+SPF |
+
+TOULOUSE 3 |
+
+33 |
+
+033017 |
+
+Trésorerie spécialisée |
+
+BORDEAUX MUNICIPALE ET METROPOLE |
+
+34 |
+
+034020 |
+
+SIP |
+
+MONTPELLIER II |
+
+34 |
+
+034023 |
+
+SPF |
+
+MONTPELLIER 2 |
+
+35 |
+
+035050 |
+
+Trésorerie spécialisée |
+
+CONTROLE AUTOMATISE |
+
+44 |
+
+044052 |
+
+SIP |
+
+NANTES CENTRE |
+
+56 |
+
+056019 |
+
+Trésorerie spécialisée |
+
+VANNES MUNICIPALE |
+
+59 |
+
+059078 |
+
+SPF |
+
+LILLE 3 |
+
+63 |
+
+063074 |
+
+SPF |
+
+CLERMONT-FERRAND |
+
+66 |
+
+066039 |
+
+SPF |
+
+PERPIGNAN 1 |
+
+67 |
+
+067053 |
+
+SIP |
+
+STRASBOURG OUEST |
+
+68 |
+
+068038 |
+
+SIE |
+
+MULHOUSE |
+
+69 |
+
+069017 |
+
+SIE |
+
+LYON CENTRE |
+
+69 |
+
+069019 |
+
+Trésorerie spécialisée |
+
+LYON MUNICIPALE-METROPOLE LYON |
+
+69 |
+
+069022 |
+
+Trésorerie spécialisée |
+
+LYON HOSPICES CIVILS |
+
+69 |
+
+069071 |
+
+SIE |
+
+LYON BERTHELOT |
+
+74 |
+
+074045 |
+
+SIP-SIE |
+
+SEYNOD |
+
+74 |
+
+074047 |
+
+SPF |
+
+ANNECY |
+
+75 |
+
+075010 |
+
+SIP |
+
+PARIS 7E |
+
+75 |
+
+075051 |
+
+SIE |
+
+PARIS 1E |
+
+75 |
+
+075057 |
+
+SIE |
+
+PARIS 9E OUEST |
+
+75 |
+
+075066 |
+
+Trésorerie spécialisée |
+
+CENTRE D'ACTION SOCIALE DE PARIS |
+
+75 |
+
+075088 |
+
+SIE |
+
+PARIS 8E CHAMPS -ELYSEES |
+
+75 |
+
+075091 |
+
+SIE |
+
+PARIS 8E EUROPE-ROME |
+
+75 |
+
+075703 |
+
+SIE |
+
+PARIS 17E TERNES |
+
+75 |
+
+075707 |
+
+SIE |
+
+PARIS 7E |
+
+77 |
+
+077061 |
+
+SPF |
+
+MEAUX |
+
+83 |
+
+083043 |
+
+SPF |
+
+TOULON 2 |
+
+87 |
+
+087040 |
+
+SIE |
+
+LIMOGES |
+
+92 |
+
+092025 |
+
+SIP |
+
+NANTERRE-RUEIL |
+
+92 |
+
+092026 |
+
+Trésorerie spécialisée |
+
+NANTERRE MUNICIPALE |
+
+92 |
+
+092041 |
+
+Trésorerie spécialisée |
+
+HAUTS-DE-SEINE HABITAT-OPH |
+
+92 |
+
+092047 |
+
+PRS |
+
+HAUTS-DE-SEINE - NANTERRE |
+
+92 |
+
+092059 |
+
+SIE |
+
+NEUILLY |
+
+92 |
+
+092063 |
+
+SIE |
+
+ISSY-LES-MOULINEAUX |
+
+92 |
+
+092071 |
+
+SPF |
+
+NANTERRE 3 |
+
+92 |
+
+092073 |
+
+SPF |
+
+VANVES 2 |
+
+974 |
+
+104001 |
+
+Trésorerie mixte |
+
+LE PORT |
+
+A45 |
+
+940001 |
+
+SIE |
+
+POSTE COMPTABLE DE LA DGE |
+
+TAF |
+
+178000 |
+
+Trésorerie étranger |
+
+WASHINGTON |

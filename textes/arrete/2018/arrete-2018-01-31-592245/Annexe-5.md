@@ -1,0 +1,1587 @@
+# Article Annexe 5
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 4E CATÉGORIE
+
+DIR |
+
+RÉFÉRENCE |
+
+FAMILLE |
+
+LIBELLÉ |
+
+01 |
+
+001016 |
+
+SIE |
+
+BOURG-EN-BRESSE |
+
+01 |
+
+001048 |
+
+SIP-SIE |
+
+BELLEGARDE-SUR-VALSERINE |
+
+01 |
+
+001053 |
+
+SPF |
+
+BOURG-EN-BRESSE |
+
+01 |
+
+001056 |
+
+Trésorerie spécialisée |
+
+BOURG-EN-BRESSE ETS HOSPITALIERS |
+
+03 |
+
+003035 |
+
+Trésorerie spécialisée |
+
+VICHY |
+
+06 |
+
+006035 |
+
+SIE |
+
+GRASSE |
+
+06 |
+
+006044 |
+
+SIE |
+
+CAGNES-SUR-MER |
+
+06 |
+
+006050 |
+
+SPF |
+
+NICE 4 |
+
+06 |
+
+006051 |
+
+SPF |
+
+ANTIBES 1 |
+
+06 |
+
+006052 |
+
+SPF |
+
+GRASSE 1 |
+
+06 |
+
+006101 |
+
+SIP |
+
+ANTIBES |
+
+06 |
+
+006104 |
+
+SIP |
+
+CAGNES-SUR-MER |
+
+06 |
+
+006122 |
+
+SDE |
+
+GRASSE |
+
+07 |
+
+007005 |
+
+SIP-SIE |
+
+AUBENAS |
+
+10 |
+
+010035 |
+
+SIP |
+
+TROYES AGGLOMERATION |
+
+10 |
+
+010043 |
+
+SIE |
+
+TROYES |
+
+11 |
+
+011011 |
+
+SIP |
+
+CARCASSONNE |
+
+11 |
+
+011055 |
+
+SIE |
+
+CARCASSONNE |
+
+13 |
+
+013008 |
+
+SIP |
+
+MARSEILLE 4/13 |
+
+13 |
+
+013012 |
+
+SIP |
+
+MARSEILLE 7EME ET 10EME ARRONDT |
+
+13 |
+
+013035 |
+
+SIE |
+
+MARSEILLE 7E/10E ET 9E |
+
+13 |
+
+013036 |
+
+SIE |
+
+MARSEILLE SAINT BARNABE |
+
+13 |
+
+013037 |
+
+SIE |
+
+MARSEILLE 1/8 |
+
+13 |
+
+013047 |
+
+SPF |
+
+MARSEILLE 3 |
+
+13 |
+
+013118 |
+
+SIP |
+
+SALON-DE-PROVENCE |
+
+13 |
+
+013120 |
+
+SIP |
+
+AIX-EN-PROVENCE SUD |
+
+13 |
+
+013215 |
+
+Trésorerie spécialisée |
+
+MARTIGUES |
+
+14 |
+
+014016 |
+
+SIE |
+
+CAEN NORD |
+
+16 |
+
+016051 |
+
+SIE |
+
+ANGOULEME |
+
+17 |
+
+017020 |
+
+Trésorerie spécialisée |
+
+ROCHEFORT ET BANLIEUE MUNICIPALE |
+
+18 |
+
+018048 |
+
+SIE |
+
+BOURGES |
+
+2A |
+
+02A080 |
+
+Trésorerie spécialisée |
+
+CORSE |
+
+21 |
+
+021023 |
+
+SIE |
+
+DIJON SUD |
+
+24 |
+
+024068 |
+
+SIE |
+
+PÉRIGUEUX |
+
+24 |
+
+024071 |
+
+SPF |
+
+PÉRIGUEUX |
+
+25 |
+
+025010 |
+
+SPF |
+
+BESANCON 1 |
+
+25 |
+
+025013 |
+
+SIP |
+
+BESANCON-OUEST |
+
+26 |
+
+026090 |
+
+Trésorerie spécialisée |
+
+DROME |
+
+27 |
+
+027009 |
+
+SPF |
+
+EVREUX |
+
+27 |
+
+027051 |
+
+SIE |
+
+EVREUX |
+
+29 |
+
+029039 |
+
+SIE |
+
+BREST ELORN |
+
+29 |
+
+029050 |
+
+SPF |
+
+QUIMPER 1 |
+
+30 |
+
+030016 |
+
+SIP |
+
+NIMES-OUEST |
+
+30 |
+
+030090 |
+
+Trésorerie spécialisée |
+
+DU GARD |
+
+31 |
+
+031067 |
+
+SIE |
+
+TOULOUSE-NORD-OUEST |
+
+31 |
+
+031073 |
+
+SIE |
+
+BALMA |
+
+33 |
+
+033003 |
+
+Trésorerie mixte |
+
+AUDENGE |
+
+33 |
+
+033004 |
+
+SIE |
+
+ARCACHON |
+
+33 |
+
+033027 |
+
+SIE |
+
+BORDEAUX-AVAL |
+
+33 |
+
+033041 |
+
+Trésorerie spécialisée |
+
+PESSAC |
+
+33 |
+
+033080 |
+
+Trésorerie spécialisée |
+
+NOUVELLE AQUITAINE |
+
+33 |
+
+033083 |
+
+PRS |
+
+GIRONDE |
+
+33 |
+
+033085 |
+
+SIP |
+
+ARCACHON |
+
+33 |
+
+033094 |
+
+SPF |
+
+BORDEAUX 2 |
+
+34 |
+
+034030 |
+
+Trésorerie spécialisée |
+
+SETE MUNICIPALE |
+
+34 |
+
+034049 |
+
+SIE |
+
+GRAND BÉZIERS |
+
+35 |
+
+035063 |
+
+SIE |
+
+SAINT-MALO |
+
+35 |
+
+035065 |
+
+SPF |
+
+RENNES 1 |
+
+37 |
+
+037029 |
+
+SIE |
+
+TOURS SUD-EST |
+
+38 |
+
+038061 |
+
+SIE |
+
+GRENOBLE BELLEDONNE-VERCORS |
+
+38 |
+
+038062 |
+
+SIE |
+
+GRENOBLE-CHARTREUSE |
+
+38 |
+
+038065 |
+
+SIE |
+
+GRENOBLE-GRESIVAUDAN |
+
+38 |
+
+038082 |
+
+SPF |
+
+VIENNE |
+
+38 |
+
+038107 |
+
+Trésorerie mixte |
+
+ROUSSILLONNAIS |
+
+38 |
+
+038114 |
+
+Trésorerie spécialisée |
+
+VIENNE AGGLOMERATION |
+
+39 |
+
+039015 |
+
+Trésorerie spécialisée |
+
+LONS MUNICIPALE ET AMENDES |
+
+39 |
+
+039046 |
+
+SIE |
+
+LONS-LE-SAUNIER |
+
+40 |
+
+040040 |
+
+SPF |
+
+MONT-DE-MARSAN |
+
+41 |
+
+041050 |
+
+SPF |
+
+BLOIS 1 |
+
+42 |
+
+042013 |
+
+SIP |
+
+SAINT-ETIENNE SUD |
+
+42 |
+
+042209 |
+
+SIP |
+
+ROANNE |
+
+44 |
+
+044045 |
+
+SIE |
+
+NANTES CENTRE |
+
+44 |
+
+044047 |
+
+SIE |
+
+NANTES SUD |
+
+44 |
+
+044050 |
+
+SIE |
+
+SAINT-NAZAIRE SUD-EST |
+
+44 |
+
+044056 |
+
+SIP |
+
+NANTES EST |
+
+45 |
+
+045017 |
+
+SIP |
+
+ORLEANS EST |
+
+45 |
+
+045049 |
+
+SIE |
+
+ORLEANS COLIGNY |
+
+49 |
+
+049001 |
+
+SIP |
+
+ANGERS OUEST |
+
+49 |
+
+049056 |
+
+SIE |
+
+CHOLET |
+
+54 |
+
+054052 |
+
+SIE |
+
+NANCY EST |
+
+56 |
+
+056017 |
+
+SIP |
+
+VANNES GOLFE |
+
+57 |
+
+057107 |
+
+Trésorerie spécialisée |
+
+FORBACH PORTE DE FRANCE |
+
+57 |
+
+057117 |
+
+Trésorerie spécialisée |
+
+SARREGUEMINES MUNICIPALE |
+
+57 |
+
+057121 |
+
+SIP-SIE |
+
+SAINT-AVOLD |
+
+59 |
+
+059001 |
+
+Trésorerie mixte |
+
+VILLENEUVE-D'ASCQ |
+
+59 |
+
+059034 |
+
+SIE |
+
+DUNKERQUE |
+
+59 |
+
+059061 |
+
+SIE |
+
+LILLE-SECLIN |
+
+59 |
+
+059067 |
+
+SIE |
+
+LILLE OUEST |
+
+59 |
+
+059076 |
+
+SPF |
+
+LILLE 1 |
+
+59 |
+
+059085 |
+
+SPF |
+
+VALENCIENNES |
+
+59 |
+
+059304 |
+
+SIP |
+
+DOUAI |
+
+60 |
+
+060003 |
+
+SPF |
+
+BEAUVAIS |
+
+60 |
+
+060061 |
+
+SIE |
+
+BEAUVAIS |
+
+62 |
+
+062037 |
+
+SPF |
+
+ARRAS |
+
+62 |
+
+062202 |
+
+SIP |
+
+BOULOGNE-SUR-MER |
+
+63 |
+
+063069 |
+
+SIE |
+
+CLERMONT-FERRAND SUD |
+
+64 |
+
+064051 |
+
+SIE |
+
+BAYONNE-ANGLET |
+
+64 |
+
+064056 |
+
+SIE |
+
+PAU NORD |
+
+64 |
+
+064062 |
+
+SPF |
+
+PAU 1 |
+
+65 |
+
+065036 |
+
+SIE |
+
+TARBES LANNEMEZAN |
+
+66 |
+
+066034 |
+
+SIE |
+
+PERPIGNAN TET |
+
+67 |
+
+067002 |
+
+PRS |
+
+BAS-RHIN |
+
+67 |
+
+067045 |
+
+SIP |
+
+SCHILTIGHEIM |
+
+67 |
+
+067051 |
+
+SIE |
+
+HAGUENAU |
+
+67 |
+
+067074 |
+
+SIE |
+
+STRASBOURG EST |
+
+68 |
+
+068102 |
+
+SIP |
+
+MULHOUSE VILLE |
+
+69 |
+
+069018 |
+
+Trésorerie spécialisée |
+
+LYON AMENDES |
+
+69 |
+
+069068 |
+
+SIE |
+
+LYON BRON |
+
+69 |
+
+069070 |
+
+SIE |
+
+VILLEURBANNE |
+
+69 |
+
+069074 |
+
+SIE |
+
+VILLEFRANCHE-SUR-SAONE |
+
+69 |
+
+069075 |
+
+SIE |
+
+GIVORS |
+
+69 |
+
+069076 |
+
+SPF |
+
+LYON 1 |
+
+69 |
+
+069077 |
+
+SPF |
+
+LYON 2 |
+
+69 |
+
+069078 |
+
+SPF |
+
+LYON 3 |
+
+73 |
+
+073003 |
+
+SIP-SIE |
+
+AIX-LES-BAINS |
+
+73 |
+
+073007 |
+
+Trésorerie mixte |
+
+BOURG-SAINT-MAURICE |
+
+73 |
+
+073009 |
+
+SIP |
+
+CHAMBERY |
+
+73 |
+
+073049 |
+
+SIP-SIE |
+
+ALBERTVILLE |
+
+74 |
+
+074013 |
+
+Trésorerie mixte |
+
+CLUSES |
+
+74 |
+
+074041 |
+
+SIE |
+
+THONON-LES-BAINS |
+
+74 |
+
+074044 |
+
+SIP |
+
+ANNEMASSE |
+
+74 |
+
+074046 |
+
+SIP |
+
+ANNECY |
+
+75 |
+
+075043 |
+
+SIP |
+
+PARIS 20E PERE LACHAISE |
+
+75 |
+
+075055 |
+
+SIE |
+
+PARIS 4E |
+
+75 |
+
+075059 |
+
+SIE |
+
+PARIS 10E SUD |
+
+75 |
+
+075075 |
+
+SIE |
+
+PARIS 12E DAUMESNIL |
+
+75 |
+
+075084 |
+
+SIE |
+
+PARIS 19E BUTTES CHAUMONT |
+
+75 |
+
+075711 |
+
+SIE |
+
+PARIS 16E SUD |
+
+75 |
+
+075718 |
+
+SIE |
+
+PARIS 13E |
+
+75 |
+
+075720 |
+
+SIE |
+
+PARIS 14E |
+
+75 |
+
+075807 |
+
+SPF |
+
+PARIS 7 |
+
+75 |
+
+075809 |
+
+SPF |
+
+PARIS 9 |
+
+76 |
+
+076046 |
+
+SIE |
+
+ROUEN EST |
+
+76 |
+
+076076 |
+
+Trésorerie spécialisée |
+
+ELBEUF |
+
+76 |
+
+076091 |
+
+SIP |
+
+ROUEN OUEST |
+
+76 |
+
+076214 |
+
+Trésorerie spécialisée |
+
+LE HAVRE CENTRE HOSPITALIER |
+
+77 |
+
+077027 |
+
+SIP |
+
+SENART-LIEUSAINT |
+
+77 |
+
+077034 |
+
+Trésorerie spécialisée |
+
+FONTAINEBLEAU-AVON |
+
+78 |
+
+078033 |
+
+SIP |
+
+VERSAILLES NORD |
+
+78 |
+
+078049 |
+
+SIE |
+
+MANTES-LA-JOLIE |
+
+78 |
+
+078055 |
+
+SIE |
+
+SAINT GERMAIN-EN-LAYE-EXTERIEUR |
+
+78 |
+
+078066 |
+
+SPF |
+
+VERSAILLES 1 |
+
+78 |
+
+078067 |
+
+SPF |
+
+VERSAILLES 2 |
+
+78 |
+
+078068 |
+
+SPF |
+
+VERSAILLES 3 |
+
+78 |
+
+078072 |
+
+SIP |
+
+SAINT-GERMAIN-EN-LAYE EST |
+
+79 |
+
+079048 |
+
+SIE |
+
+SUD DEUX-SEVRES |
+
+79 |
+
+079054 |
+
+SPF |
+
+NIORT 1 |
+
+80 |
+
+080004 |
+
+SIP |
+
+AMIENS NORD-EST |
+
+80 |
+
+080021 |
+
+SIE |
+
+AMIENS SUD-OUEST |
+
+80 |
+
+080025 |
+
+SPF |
+
+AMIENS 1 |
+
+82 |
+
+082016 |
+
+SIP |
+
+MONTAUBAN |
+
+83 |
+
+083006 |
+
+SIP |
+
+HYERES |
+
+83 |
+
+083008 |
+
+PRS |
+
+VAR |
+
+83 |
+
+083018 |
+
+SIP |
+
+TOULON NORD-OUEST |
+
+83 |
+
+083027 |
+
+SPF |
+
+TOULON 1 |
+
+83 |
+
+083038 |
+
+SIE |
+
+TOULON NORD-EST |
+
+83 |
+
+083122 |
+
+SIP |
+
+FREJUS |
+
+84 |
+
+084038 |
+
+SIE |
+
+CAVAILLON |
+
+85 |
+
+085001 |
+
+SIP |
+
+LA ROCHE-SUR-YON |
+
+85 |
+
+085011 |
+
+SPF |
+
+LES SABLES-D'OLONNE |
+
+85 |
+
+085039 |
+
+SIP-SIE |
+
+FONTENAY-LE-COMTE |
+
+85 |
+
+085040 |
+
+SIP |
+
+CHALLANS |
+
+85 |
+
+085048 |
+
+SIP-SIE |
+
+LES HERBIERS |
+
+86 |
+
+086047 |
+
+SIE |
+
+POITIERS |
+
+86 |
+
+086050 |
+
+SPF |
+
+POITIERS 1 |
+
+87 |
+
+087045 |
+
+SPF |
+
+LIMOGES 1 |
+
+88 |
+
+088003 |
+
+SPF |
+
+EPINAL |
+
+90 |
+
+090015 |
+
+SIP |
+
+BELFORT |
+
+91 |
+
+091038 |
+
+Trésorerie spécialisée |
+
+ETAMPES COLLECTIVITES |
+
+91 |
+
+091042 |
+
+SIE |
+
+JUVISY |
+
+91 |
+
+091046 |
+
+SIE |
+
+PALAISEAU |
+
+91 |
+
+091054 |
+
+SPF |
+
+CORBEIL 1 |
+
+92 |
+
+092002 |
+
+SIP |
+
+ASNIERES |
+
+92 |
+
+092036 |
+
+SIP |
+
+SURESNES |
+
+92 |
+
+092043 |
+
+SIP |
+
+ISSY-LES-MOULINEAUX |
+
+92 |
+
+092065 |
+
+SIE |
+
+SCEAUX |
+
+93 |
+
+093003 |
+
+SIP |
+
+AULNAY-SOUS-BOIS |
+
+93 |
+
+093015 |
+
+SIP |
+
+MONTREUIL |
+
+93 |
+
+093019 |
+
+SIP |
+
+PANTIN |
+
+93 |
+
+093044 |
+
+SIE |
+
+BLANC MESNIL-AULNAY |
+
+94 |
+
+094010 |
+
+Trésorerie spécialisée |
+
+NORD VAL-DE-BIEVRE |
+
+94 |
+
+094040 |
+
+PRS |
+
+VAL-DE-MARNE |
+
+94 |
+
+094055 |
+
+SPF |
+
+CRETEIL 2 |
+
+94 |
+
+094105 |
+
+SIP |
+
+NOGENT-SUR-MARNE |
+
+95 |
+
+095002 |
+
+SIP |
+
+ARGENTEUIL VILLE |
+
+95 |
+
+095037 |
+
+PRS |
+
+VAL-D'OISE |
+
+95 |
+
+095042 |
+
+SIE |
+
+ERMONT |
+
+971 |
+
+101024 |
+
+SIE |
+
+GRANDE TERRE |
+
+971 |
+
+101026 |
+
+SIE |
+
+NORD BASSE-TERRE |
+
+971 |
+
+101029 |
+
+SIP |
+
+NORD BASSE-TERRE |
+
+972 |
+
+103003 |
+
+Trésorerie spécialisée |
+
+FORT-DE-FRANCE MUNICIPALE |
+
+972 |
+
+103012 |
+
+SIP |
+
+FORT-DE-FRANCE SCHOELCHER |
+
+972 |
+
+103023 |
+
+SPF |
+
+FORT-DE-FRANCE |
+
+974 |
+
+104004 |
+
+SIP |
+
+SAINT-DENIS-DE-LA-REUNION EST |
+
+974 |
+
+104020 |
+
+SIE |
+
+ST-DENIS-DE-LA-REUNION OUEST |
+
+B31 |
+
+903002 |
+
+SIE |
+
+ENTREPRISES ETRANGERES |
+
+B31 |
+
+903003 |
+
+SIE |
+
+RECETTE DES NON RESIDENTS |
