@@ -8,7 +8,7 @@ I. - Les établissements de crédit peuvent choisir d'opter pour un dispositif p
 
 a) La différence entre les montants des deux dernières déclarations successives mentionnées au 1° ;
 
-b) Le rapport mentionné au ii du a du 2 du II de l'article 6 ;
+b) Le rapport entre, d'une part, le montant des dépôts du livret A et du livret de développement durable centralisé par l'établissement de crédit considéré au fonds d'épargne en vertu de l'article 5 et, d'autre part, le montant total des dépôts du livret A et du livret de développement durable inscrits dans les écritures de l'établissement de crédit considéré.
 
 3° Si le montant du produit mentionné au 2° est positif, il est versé par l'établissement de crédit au fonds d'épargne.
 
