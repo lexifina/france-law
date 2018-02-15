@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102075
+
+- Question : [SEQ171102075](seq171102075.md) — Prélèvement de loups hybrides
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-02-15, page 714*
+
+Le ministre de la transition écologique et solidaire est bien conscient que la présence des loups et les dommages qu'ils génèrent présentent un impact considérable pour les éleveurs confrontés parfois à des situations très difficiles quand les loups s'attaquent à leurs troupeaux. Concernant l'hybridation des loups, le ministre a demandé à l'Office national de la chasse et de la faune sauvage (ONCFS) de réaliser une étude, pour objectiver les choses et avoir une visibilité claire sur son importance dans la population. Les résultats ont été rendus public le 13 septembre 2017. Cette étude a consisté en la réalisation d'analyses génétiques visant à évaluer sur le territoire national ce phénomène d'hybridation entre le loup et le chien. Confiées à un laboratoire spécialisé, elles aboutissent à la conclusion que sur les 130 individus de souche italienne ayant pu faire l'objet d'analyses, le phénomène d'hybridation récente (première génération) concerne 1,5 % des individus ; 6 % sont concernés par de l'hybridation plus ancienne. Tous les autres, soit 92,5 % des individus analysés, sont des loups non hybridés. Ces résultats sont cohérents avec ceux constatés dans d'autres pays européens qui font état de 2 à 10 % d'hybridation. Par conséquent, l'hybridation en France est faible. Son évolution sera suivie dans le cadre du futur plan national sur le loup et les activités d'élevage. L'ONCFS constate par ailleurs que la seule observation visuelle ne permet pas de distinguer un loup d'un hybride. Dès lors une opération visant au prélèvement des hybrides ne serait pas réalisable. Les résultats de l'étude et la méthodologie sont consultables et accessibles à tous sur le site de l'ONCFS.
