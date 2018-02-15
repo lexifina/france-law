@@ -1,0 +1,31 @@
+# Article 1er
+
+Le présent avenant a pour objet de réviser l'article 3.1 de l'accord relatif au régime de prévoyance du personnel non cadre au sein de la branche du transport aérien du 14 décembre 2017.
+
+Les dispositions de l'article 3.1 sont modifiées comme suit :
+
+« Deux options sont proposées. Le choix de l'option retenue est fait par l'entreprise lors de l'adhésion.
+
+Il est définitif et s'impose au salarié.
+
+Option 1 :
+
+– en cas de décès, quelle qu'en soit la cause, ou de perte totale et irréversible d'autonomie, il sera versé un capital de base de 130 % du salaire annuel brut du salarié, quelle que soit sa situation de famille, aux bénéficiaires désignés par celui-ci. Un capital supplémentaire de 35 % minimum sera également versé par enfant à charge (dans la limite de 3 enfants) ;
+
+– double effet : versement de 100 % du capital décès s'il reste au moins un enfant de moins de 18 ans à charge au jour du décès ;
+
+– en cas de décès, une allocation obsèques représentant au minimum 100 % du plafond mensuel de la sécurité sociale (PMSS) en vigueur au jour du sinistre sera versée aux bénéficiaires désignés par le salarié ;
+
+– en cas de décès consécutif à un accident, un capital supplémentaire de 100 % du capital décès sera versé ;
+
+– après 90 jours continus d'incapacité temporaire ou d'invalidité, le salarié est exonéré de paiement de cotisation. L'exonération des cotisations cesse en cas de reprise du travail.
+
+Option 2 :
+
+– en cas de décès, quelle qu'en soit la cause, ou de perte totale et irréversible d'autonomie, il sera versé un capital de base de 160 % du salaire annuel brut du salarié, quelle que soit sa situation de famille, aux bénéficiaires désignés par celui-ci. Un capital supplémentaire de 35 % minimum sera également versé par enfant à charge (dans la limite de 3 enfants).
+
+– double effet : versement de 100 % du capital décès s'il reste au moins un enfant de moins de 18 ans à charge au jour du décès.
+
+– en cas de décès, une allocation obsèques représentant au minimum 100 % du plafond mensuel de la sécurité sociale (PMSS) en vigueur au jour du sinistre sera versée aux bénéficiaires désignés par le salarié.
+
+– après 90 jours continus d'incapacité temporaire ou d'invalidité, le salarié est exonéré de paiement de cotisation. L'exonération des cotisations cesse en cas de reprise du travail. »
