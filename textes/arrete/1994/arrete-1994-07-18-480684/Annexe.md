@@ -998,6 +998,24 @@ Virus Flexal |
 
 |
 
+Virus Lujo |
+
+4 |
+
+|
+
+Virus Whitewater Arroyo |
+
+4 |
+
+|
+
+Virus Chapare |
+
+4 |
+
+|
+
 Autres complexes Tacaribe |
 
 2 |
@@ -1051,6 +1069,24 @@ Virus Sir Nombre (anciennement Muerto Canyon) |
 Hantavirus : |
 
 Hantaan (fièvre hémorragique avec syndrome rénal) |
+
+3 |
+
+|
+
+Virus Andes |
+
+3 |
+
+|
+
+Virus Choclo |
+
+3 |
+
+|
+
+Virus Laguna Negra |
 
 3 |
 
@@ -1134,7 +1170,25 @@ Autres Caliciviridae |
 
 |
 
-Coronaviridae |
+Coronavidae : |
+
+|
+
+|
+
+Coronavirus responsable du syndrome respiratoire du Moyen-Orient (MERS-CoV) |
+
+3 |
+
+|
+
+Coronavirus responsable du Syndrome respiratoire aigu sévère (SRAS-CoV, ou SARS-CoV, en anglais) |
+
+3 |
+
+|
+
+Autres Coronavidae |
 
 2 |
 
@@ -1409,6 +1463,20 @@ Virus parainfluenza , types 1 à 4 |
 Virus respiratoire syncytial |
 
 2 |
+
+|
+
+Henipavirus
+
+Virus Hendra |
+
+4 |
+
+|
+
+Virus Nipah |
+
+4 |
 
 |
 
@@ -1716,7 +1784,7 @@ Virus d'hépatites non encore identifiés |
 
 (*) |
 
-Agents non classiques associés avec les encéphalopathies spongiformes transmissibles (EST) : |
+Agents transmissibles non conventionnels associés avec les encéphalopathies spongiformes transmissibles (EST) : |
 
 Maladie de Creutzfeldt-Jakob |
 
@@ -1944,7 +2012,7 @@ Hymenolepis nana |
 
 |
 
-Leishmania brasiliensis |
+Leishmania braziliensis |
 
 3 |
 

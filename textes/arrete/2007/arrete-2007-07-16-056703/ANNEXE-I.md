@@ -12,7 +12,7 @@ a) Conception
 
 4. Salle dédiée aux activités techniques séparée des autres locaux par au moins une porte verrouillable.
 
-5. Ventilation des salles dédiées aux activités techniques assurée par un dispositif de ventilation mécanique, conformément à l'article R. 232-5-6 du code du travail.
+5. Ventilation des salles dédiées aux activités techniques assurée par un dispositif de ventilation mécanique, conformément à l'article R. 4222-11 du code du travail.
 
 6. Présence d'une fenêtre d'observation ou d'un système équivalent permettant de voir les occupants.
 
@@ -56,7 +56,7 @@ Mise en place de procédures écrites décrivant les méthodes de travail et les
 
 Mise en place de procédures écrites définissant des moyens et méthodes de nettoyage et de désinfection appropriés.
 
-Information et formation pour toute personne intervenant dans les salles dédiées aux activités techniques, y compris le personnel chargé du nettoyage et de la maintenance, conformément aux dispositions des articles R. 231-63 à R. 231-63-4 et R. 237-11 du code du travail.
+Information et formation pour toute personne intervenant dans les salles dédiées aux activités techniques, y compris le personnel chargé du nettoyage et de la maintenance, conformément aux dispositions des articles R. 4425-1 à R. 4425-7, R. 4512-15 et R. 4512-16 du code du travail.
 
 2. Protections individuelles
 
