@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant a pour objet, d'une part, d'acter du principe de la mise en œuvre au plus tôt d'une discussion visant à modifier l'article 36 de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés « gérants mandataires non-salariés » du 18 juillet 1963, modifié, afin de prévoir les mesures particulières d'adaptation de l'ordonnance n° 2017-1386 du 22 septembre 2017 à la représentation des gérants mandataires non-salariés, et, d'autre part, dans l'attente des résultats de cette négociation, d'encourager les entreprises entrant dans le champ d'application dudit accord à négocier la prorogation des mandats des comités gérants mandataires non-salariés et des délégués gérants mandataires non-salariés.
