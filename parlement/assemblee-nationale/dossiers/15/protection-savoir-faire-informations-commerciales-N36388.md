@@ -1,0 +1,64 @@
+# Protection du secret des affaires
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36388
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_savoir-faire_informations_commerciales
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-388.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-02-19 : 1er dépôt d'une initiative. (PIONANR5L15B0675)
+  - 2018-02-19 : Avis du Conseil d'Etat (AVCEANR5L15B0675)
+  - 2018-02-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-19 : Renvoi en commission au fond
+      - 2018-03-07 : Nomination de rapporteur
+      - 2018-03-07 : Réunion de commission
+      - 2018-03-21 : Réunion de commission
+      - 2018-03-21 : Dépôt de rapport (RAPPANR5L15B0777, PIONANR5L15BTC0777)
+    - Travaux d'une commission saisie pour avis
+      - 2018-02-26 : Saisine pour avis d'une commission
+      - 2018-03-06 : Nomination de rapporteur
+      - 2018-03-06 : Réunion de commission
+      - 2018-03-20 : Réunion de commission
+      - 2018-03-21 : Dépôt de rapport (AVISANR5L15B0775)
+  - Discussion en séance publique
+    - 2018-03-27 : Discussion en séance publique
+    - 2018-03-27 : Discussion en séance publique
+    - 2018-03-28 : Discussion en séance publique
+    - 2018-03-28 : Discussion en séance publique
+    - 2018-03-29 : Discussion en séance publique
+    - 2018-03-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-03-28 : Dépôt d'une initiative en navette (PIONSNR5S299B0388)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-04-11 : Dépôt de rapport (RAPPSNR5S299B0419, PIONSNR5S299BTC0420)
+  - Discussion en séance publique
+    - 2018-04-18 : Discussion en séance publique
+    - 2018-04-18 : Décision
+- Commission Mixte Paritaire
+  - 2018-04-19 : Dépôt d'un projet de loi (PIONANR5L15B0893)
+  - 2018-04-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-05-24 : Nomination de rapporteur
+    - 2018-05-24 : Dépôt du rapport d'une CMP (RAPPANR5L15B0984, PIONANR5L15BTC0984)
+    - 2018-05-24 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0505, PIONSNR5S299BTC0506)
+  - Discussion en séance publique
+    - 2018-06-14 : Discussion en séance publique
+    - 2018-06-14 : Décision
+  - Discussion en séance publique
+    - 2018-06-21 : Discussion en séance publique
+    - 2018-06-21 : Décision
+  - 2018-05-25 : Décision de la CMP
+- Conseil constitutionnel
+  - 2018-06-26 : Saisine du conseil constitutionnel
+  - 2018-06-27 : Saisine du conseil constitutionnel
+  - 2018-07-26 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-07-30 : Promulgation d'une loi
