@@ -1,0 +1,15 @@
+# Réponse à la question SEQ18020236G
+
+- Question : [SEQ18020236G](seq18020236g.md) — Carte scolaire
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2018-02-21, page 1581*
+
+M. Christophe Castaner, secrétaire d'État auprès du Premier ministre, chargé des relations avec le Parlement. Monsieur le sénateur, n'imaginons pas, regardons la réalité plutôt que le fantasme, et n'alimentons pas le fantasme sur un sujet aussi important que l'éducation de nos enfants.À la rentrée 2018, dans le premier degré, il y aura 32 650 élèves de moins et, pourtant, il y aura 3 881 professeurs supplémentaires. (M. Jean-François Husson proteste.) Concrètement, cela signifie que, partout en France, dans la ruralité, y compris dans votre département, il y aura davantage de professeurs par élève. Nous n'aurons donc pas fait le choix de soutenir les élèves les plus fragiles dans les quartiers les plus difficiles contre la ruralité ; ces chiffres-là sont faux.
+
+Vous avez évoqué – j'ai bien entendu – trois écoles dans lesquelles il y aura des fermetures de classes, mais je crois qu'il est important pour la représentation nationale, ici présente, de considérer la photographie précise de votre département, la Somme, à la rentrée 2018. Ainsi, il y aura 782 élèves de moins dans les écoles primaires, mais 15 nouveaux postes de professeur. (M. Ladislas Poniatowski s'exclame.) Dans ce département, le vôtre, la carte prévisionnelle, telle qu'elle a été présentée par les services de l'inspection d'académie, prévoit 38 fermetures de classe – vous avez raison, il y aura des fermetures de classe –, contre 77 ouvertures de classe (M. Ladislas Poniatowski s'exclame de nouveau.) ; oui, monsieur le sénateur, et vous le savez !
+
+Vous avez d'ailleurs évoqué l'année dernière, au cours de laquelle une dizaine d'écoles ont été bloquées à la suite de fermetures de classe ; comme quoi, l'année dernière, sous une majorité politique différente, que vous souteniez et moi aussi (Exclamations ironiques sur les travées du groupe Les Républicains.), il y avait donc déjà des fermetures de classe ! En effet, quelles que soient les majorités, chacun sait qu'il y aura évidemment des ouvertures et des fermetures de classe. Il faudrait être aveugle et muet pour considérer que, quand il y a des baisses d'effectif, il faut maintenir des classes ; je crois que personne ne peut tenir ce discours-là.
+
+Par conséquent, nous voyons bien qu'il est inopportun et injuste d'opposer la ruralité aux quartiers (Protestations sur les travées du groupe Les Républicains.), notamment dans votre département, monsieur le sénateur, parce que, dans la Somme, département rural, 25 % des écoliers seront bénéficiaires du dédoublement de classes (Mme Cécile Cukierman s'exclame.) ; voilà la réalité ! Il est donc bien inutile d'opposer la ruralité à l'urbain ; je vous le dis, c'est une fausse polémique ! (Bravo ! et applaudissements sur les travées du groupe La République En Marche. – M. Emmanuel Capus applaudit également. – Protestations sur les travées du groupe Les Républicains. – Mme Cécile Cukierman s'exclame.)
