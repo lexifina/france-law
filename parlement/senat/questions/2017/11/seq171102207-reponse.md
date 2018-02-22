@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102207
+
+- Question : [SEQ171102207](seq171102207.md) — Prise en charge du coût de réfection du chemin rural
+
+## Réponse
+
+*Intérieur, JO du 2018-02-22, page 844*
+
+Contrairement aux voies communales, les dépenses d'entretien des chemins ruraux ne font pas partie des dépenses obligatoires mises à la charge des communes, conformément aux dispositions prévues à l'article L. 2321-2 du code général des collectivités territoriales. Toutefois, depuis l'arrêt du Conseil d'État Ville de Carcassonne du 20 novembre 1964, la responsabilité de la commune peut être engagée pour défaut d'entretien normal dès lors que ladite commune a effectué des travaux destinés à assurer ou à améliorer la viabilité de ce chemin et a ainsi accepté d'en assurer l'entretien. En outre, il revient au maire, en application de l'article L. 161-5 du code rural, d'assurer la police de la circulation et de la conservation sur l'ensemble des voies rurales ouvertes à la circulation publique et de prendre toute mesure destinée à sauvegarder l'intégrité des chemins. Les usagers sont eux-mêmes tenus de faire une utilisation normale des chemins ruraux, faute de quoi une participation aux frais de réfection peut leur être réclamée. L'article L. 161-8 du code rural et de la pêche maritime, qui rend applicables aux chemins ruraux les dispositions prévues par l'article L. 141-9 du code de la voirie routière, prévoit ainsi qu'une commune peut imposer aux entrepreneurs ou propriétaires des véhicules responsables des dégradations des chemins ruraux une contribution spéciale, l'article L. 141-9 susvisé du code de la voirie routière, qui concerne les voies communales, précisent que la quotité doit être proportionnée à la dégradation causée. Dès lors que les riverains du chemin rural ne sont pas responsables de la dégradation causée par le passage de poids lourds étrangers à la commune, aucune prise en charge supplémentaire ne peut leur être demandée à ce titre.
