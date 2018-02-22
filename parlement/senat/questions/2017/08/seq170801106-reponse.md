@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801106
+
+- Question : [SEQ170801106](seq170801106.md) — Délivrance d'un certificat de capacité matrimoniale par des pays d'Afrique du Nord
+
+## Réponse
+
+*Justice, JO du 2018-02-22, page 848*
+
+Les conditions de fond du mariage sont soumises à la loi personnelle des intéressés en application de l'article 202-1 du code civil. Pour un ressortissant étranger, la production du certificat de coutume permet ainsi à l'officier de l'état civil de s'assurer qu'il est célibataire, majeur et qu'il n'est pas placé sous un régime de protection au regard de sa loi nationale. Certains droits étrangers connaissent des empêchements à mariage ignorés du droit français. Tel est le cas de l'empêchement pour disparité de culte, que connaissent notamment les pays de droit musulman, lequel heurte le principe de non-discrimination et porte atteinte aux valeurs françaises aussi essentielles que la liberté, la laïcité ou l'égalité. La production d'un certificat de coutume portant mention d'un tel empêchement n'a donc pas à être requise. Si l'ambassade du pays concerné refuse de délivrer un certificat dépourvu de référence à cet empêchement, la production d'un certificat de coutume établi par un avocat ou un juriste disposant d'une connaissance particulière de la loi étrangère en cause est admise, comme peut l'être, à titre exceptionnel, la remise d'une attestation sur l'honneur rédigée par la personne qui souhaite se marier. Ainsi, l'officier de l'état civil pourra tout de même procéder à la célébration du mariage à la demande des intéressés, si les autres conditions de la loi française sont remplies, après avoir appelé l'attention des futurs époux sur le fait que leur union pourrait ne pas être reconnue par les autorités de l'État dont est ressortissant l'un d'entre eux.
