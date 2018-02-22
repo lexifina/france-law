@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700414
+
+- Question : [SEQ170700414](seq170700414.md) — Fusions des communes
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-02-22, page 821*
+
+Depuis l'entrée en vigueur de la loi n° 2015-292 du 16 mars 2015 relative à l'amélioration du régime de la commune nouvelle, pour des communes fortes et vivantes, la création de communes nouvelles a connu une forte accélération. Ainsi, au 1er janvier 2018, 554 communes nouvelles ont été créées en remplacement de 1 856 communes. S'il n'est pas aisé à ce stade de dresser un bilan chiffré exhaustif des économies d'échelle réalisées, celles-ci sont indéniables. D'une enquête menée sous l'égide de l'association des maires de France et des présidents d'intercommunalité (AMF), il ressort que 73 % des maires des communes nouvelles ayant répondu faisaient part d'une amélioration des marges de manœuvre et 64 % d'entre eux faisaient part d'économies réalisées. Certains indiquent en outre des marges de manœuvre qui vont, parfois, au-delà d'une simple logique budgétaire (exemple : flexibilité, visibilité, meilleure répartition en fonction des besoins…). D'après cette enquête, les économies en termes de frais de fonctionnement atteindraient en moyenne 11 %. La renégociation des contrats en cours constituerait, elle aussi, une source importante d'économie. La capacité à pouvoir se projeter, les économies et les marges de manœuvre budgétaires induites par la constitution en commune nouvelle auront permis à 74 % des maires de communes nouvelles interrogés de pérenniser des investissements déjà existants et/ou d'en initier de nouveaux. Si la fusion de communes peut générer une hausse des dépenses de fonctionnement au moment de la création de la commune nouvelle (harmonisation des logiciels informatiques, des régimes indemnitaires…), celle-ci est source, à moyen et long termes, d'économies et de dégagements de marges de manœuvre budgétaires.
