@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102290
+
+- Question : [SEQ171102290](seq171102290.md) — Contrat de ruralité
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-02-22, page 824*
+
+L'audit réalisé par la Cour des comptes sur la situation et les perspectives des finances publiques et remis au Premier ministre en juin 2017 a mis en évidence que la loi de finances pour 2017 comportait d'importants facteurs d'insincérité, avec des dépenses publiques manifestement sous-évaluées. Cette situation a contraint le Gouvernement à prendre un certain nombre de décisions d'annulations de crédits au cours de l'été visant à assurer le respect par la France de ses engagements européens. Celles-ci, qui ont impliqué une baisse d'un montant de 44 millions d'€ de dotation de soutien à l'investissement public local (DSIL) consacrée aux contrats de ruralité, ont toutefois eu un effet limité. Cette baisse a pu conduire, pour les conventions en cours de négociations, à limiter le nombre de projets subventionnés ou leur montant. En revanche, quand les conventions avaient déjà été conclues, le plus souvent, les porteurs de contrats de ruralité, à savoir les établissement public de coopération intercommunale (EPCI) et les pôles d'équilibre territorial et rural (PETR), ont négocié un report des engagements d'une année sur l'autre. La loi de finances pour 2018 consacre, quant à elle, un maintien de l'intégralité des crédits d'intervention de l'État en faveur des collectivités permettant d'assurer le respect par l'État de ses engagements au titre des contrats de ruralité. La dotation d'équipement des territoires ruraux (DETR) est ainsi maintenue à plus d'1 milliard d'€, soit le montant financier le plus élevé de l'histoire de cette dotation, en augmentation de 50 M€ en 2018. La DSIL sera désormais inscrite dans la loi. Elle est donc pérennisée. Le budget quinquennal prévoit 665 M€ en 2018 et 620 M€ par an de 2019 à 2022.
