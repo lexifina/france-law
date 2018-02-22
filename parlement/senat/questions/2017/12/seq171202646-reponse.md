@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202646
+
+- Question : [SEQ171202646](seq171202646.md) — Article L. 1321-1 du code général des collectivités territoriales
+
+## Réponse
+
+*Intérieur, JO du 2018-02-22, page 847*
+
+Dans le cadre d'un transfert de compétence, l'article L. 1321-1 du code général des collectivités territoriales précise que « le transfert d'une compétence entraîne de plein droit la mise à disposition de la collectivité bénéficiaire des biens meubles et immeubles utilisés, à la date du transfert, pour l'exercice de cette compétence ». Cette mise à disposition est constatée par procès-verbal établi contradictoirement entre les représentants de la collectivité antérieurement compétente et de la collectivité bénéficiaire. Le procès-verbal précise la consistance, la situation juridique, l'état des biens et l'évaluation de la remise en état de ceux-ci. L'établissement de ce procès-verbal n'est pas prescrit à peine de nullité du transfert de compétences ou de la mise à disposition des biens concernés. Par ailleurs, l'absence de procès-verbal ne donne lieu à aucune sanction. Bien que cette absence puisse être la source de difficultés pratiques, la collectivité bénéficiaire disposera donc de plein droit des biens mis à disposition (cour administrative d'appel de Nancy, 11/05/2006, n° 04NC00637). Par ailleurs, l'article 133-V de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la république, prévoit que « la commission locale pour l'évaluation des charges et des ressources transférées (CLECRT) est consultée sur l'évaluation préalable des charges correspondant aux compétences transférées et sur les modalités de leur compensation ». Compte tenu de l'éventail des situations locales, une liberté d'appréciation et d'organisation a été donnée aux membres de la CLECRT afin d'aboutir à un accord sur l'évaluation des charges transférées, sous réserve du respect de la loi précitée.
