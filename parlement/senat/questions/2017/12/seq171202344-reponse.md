@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202344
+
+- Question : [SEQ171202344](seq171202344.md) — Locations d'appartements privés en ligne
+
+## Réponse
+
+*Économie et finances, JO du 2018-02-22, page 833*
+
+Les sites collaboratifs de location d'appartements en ligne ont vocation à mettre en relation des particuliers souhaitant louer un bien immobilier et des locataires désirant y séjourner. En application des dispositions de l'article 256 A du code général des impôts (CGI), les personnes qui exploitent un bien corporel, en vue d'en tirer des recettes ayant un caractère de permanence, exercent une activité économique leur conférant la qualité d'assujetti à la taxe sur la valeur ajoutée (TVA). Il en va ainsi des particuliers qui louent, à titre onéreux, un bien immobilier dont la disponibilité est affichée sur les sites collaboratifs. La location nue ou meublée de locaux à usage d'habitation bénéficie cependant d'une exonération de la TVA, conformément aux 2° et 4° de l'article 261 D du CGI. Toutefois, si cette activité d'hébergement s'accompagne d'au moins trois prestations para-hôtelières parmi celles mentionnées au b du 4° de l'article 261 D, à savoir le petit-déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception de la clientèle, rendues dans des conditions similaires à celles proposées par des hôtels exploités à titre professionnel, ces opérations doivent, à l'instar des prestations fournies par les professionnels de l'hôtellerie, être taxées à la TVA, sous réserve du bénéfice de la franchise en base (CGI, article 293 B). Ces dispositions sont de nature à garantir que les prestations d'hébergement, fournies par les particuliers contre rémunération sur des sites collaboratifs, soient soumises à la TVA dans des conditions comparables à celles fournies par les professionnels de l'hôtellerie.
