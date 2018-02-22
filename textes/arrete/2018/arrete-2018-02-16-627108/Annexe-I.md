@@ -1,4 +1,4 @@
-# Article LEGIARTI000030288054
+# Article Annexe I
 
 PROGRAMME DU CONCOURS RÉSERVÉ
 
@@ -34,6 +34,8 @@ Organisation et principes de la lutte contre les maladies animales.
 
 Utilisation du médicament vétérinaire.
 
+Utilisation des produits phytosanitaires.
+
 Identification des animaux et traçabilité.
 
 Equarrissage et sous-produits animaux.
@@ -42,11 +44,11 @@ Protection de l'environnement (biodiversité, prévention des pollutions d'origi
 
 L'ANSES (Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail).
 
-Organisations internationales : Codex alimentarius, Organisation mondiale de la santé animale (OIE).
+Organisations internationales : Codex alimentarius, Organisation mondiale de la santé animale (OIE), Convention internationale de protection des végétaux (CIPV), Organisation mondiale du commerce (OMC).
 
 Connaissances approfondies relatives à la santé publique vétérinaire dans les domaines suivants :
 
-Sécurité sanitaire des aliments (zoonoses alimentaires, toxi-infections alimentaires).
+Sécurité sanitaire des aliments (zoonoses alimentaires, toxi-infections alimentaires, contaminants et résidus physiques et chimiques).
 
 Principales maladies animales réglementées.
 
