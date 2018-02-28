@@ -1,0 +1,10 @@
+# proposition de loi tendant à établir l'égalité de traitement pour les contrôles des congés maladie
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : tendant à établir l'égalité de traitement pour les contrôles des congés maladie
+- Déposé le : 2018-02-28
+- Dossier : DLR5L15N38054
+- Auteurs : M. Michel Raison (auteur), M. Serge Babary (auteur), Mme Christine Bonfanti-Dossat (auteur), M. Bernard Bonne (auteur), Mme Pascale Bories (auteur), M. François-Noël Buffet (auteur), Mme Agnès Canayer (auteur), M. Jean-Noël Cardoux (auteur), M. Patrick Chaize (auteur), M. Alain Chatillon (auteur), PA720634 (auteur), M. Pierre Cuypers (auteur), M. Philippe Dallier (auteur), Mme Laure Darcos (auteur), M. Mathieu Darnaud (auteur), M. Marc-Philippe Daubresse (auteur), Mme Catherine Deroche (auteur), Mme Chantal Deseyne (auteur), Mme Catherine Di Folco (auteur), Mme Catherine Dumas (auteur), Mme Nicole Duranton (auteur), Mme Dominique Estrosi Sassone (auteur), M. Bernard Fournier (auteur), M. Jacques Genest (auteur), Mme Pascale Gruny (auteur), M. Jean-Raymond Hugonet (auteur), M. Benoît Huré (auteur), Mme Corinne Imbert (auteur), M. Marc Laménie (auteur), Mme Élisabeth Lamure (auteur), Mme Florence Lassarade (auteur), M. Daniel Laurent (auteur), M. Antoine Lefèvre (auteur), M. Ronan Le Gleut (auteur), Mme Brigitte Lherbier (auteur), Mme Vivette Lopez (auteur), Mme Viviane Malet (auteur), M. Didier Mandelli (auteur), Mme Marie Mercier (auteur), M. Alain Milon (auteur), Mme Patricia Morhet-Richaud (auteur), M. Jean-Marie Morisset (auteur), M. Cyril Pellevat (auteur), M. Stéphane Piednoir (auteur), M. Jackie Pierre (auteur), M. Rémy Pointereau (auteur), M. Christophe Priou (auteur), Mme Frédérique Puissat (auteur), M. Jean-François Rapin (auteur), M. André Reichardt (auteur), M. René-Paul Savary (auteur), M. Michel Savin (auteur), M. Alain Schmitz (auteur), M. Bruno Sido (auteur), Mme Claudine Thomas (auteur), M. Michel Vaspart (auteur)
+- Identifiant : PIONSNR5S299B0335
