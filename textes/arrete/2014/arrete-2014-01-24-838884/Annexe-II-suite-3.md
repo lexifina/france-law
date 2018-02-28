@@ -1,4 +1,4 @@
-# Article Annexe II (suite)
+# Article Annexe II (suite 3)
 
 IDENTIFIANT
 
@@ -57,6 +57,30 @@ FR-new-03300377 |
 MACON ENERGIES SERVICES |
 
 Centrale d'énergie des Bruyères |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03301532 |
+
+ENGIE ENERGIE SERVICES |
+
+COGENERATION DE BESANÇON |
 
 / |
 
@@ -316,53 +340,29 @@ EJ PICARDIE
 
 |
 
-FR-new-05102147
+FR-new-05104757 |
 
-|
+FR-new-05104757 |
 
-PULPE HAUTE PICARDIE
+CHU AMIENS POLE ENERGIE |
 
-|
+- |
 
-Pulpe Haute Picardie
+- |
 
-|
+4 584 |
 
-17 572
+4 012 |
 
-|
+3 458 |
 
-17 267
+2 922 |
 
-|
+2 404 |
 
-16 958
+1 904 |
 
-|
-
-16 646
-
-|
-
-16 331
-
-|
-
-16 012
-
-|
-
-15 690
-
-|
-
-15 366
-
-|
-
-131 842
-
-|
+19 284 |
 
 FR-new-05102362 |
 
@@ -512,11 +512,11 @@ FR-new-05200027
 
 |
 
-CONSERVERIE DE BERGERAC SAS
+TOMATES D'AQUITAINE
 
 |
 
-CONSERVERIE DE BERGERAC SAS
+CONSERVERIE DE BERGERAC
 
 |
 
@@ -1932,19 +1932,19 @@ Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-736
+1 385
 
 |
 
-605
+1 139
 
 |
 
-478
+900
 
 |
 
-9 534
+11 139
 
 |
 
@@ -2602,23 +2602,23 @@ Celluloses De la Loire |
 
 Celluloses De la Loire |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+15 780 |
 
-/ |
+14 051 |
 
-/ |
+12 332 |
 
-/ |
+10 667 |
 
-/ |
+9 056 |
 
-/ |
+7 501 |
 
-/ |
+69 387 |
 
 FR-new-05503400
 
@@ -2668,6 +2668,30 @@ COOPERL Arc Atlantique, site de Montreuil
 
 |
 
+FR-new-05501784 |
+
+Nutrea Nutrition Animale N.N.A. |
+
+N.N.A. |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-05516997
 
 |
@@ -2715,30 +2739,6 @@ CECABROONS
 15 229
 
 |
-
-FR-new-05501784 |
-
-Nutrea Nutrition Animale N.N.A. |
-
-N.N.A. |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
 
 FR-new-05518409 |
 
@@ -2816,11 +2816,11 @@ FR-new-05600203
 
 |
 
-GROUPE CERABATI
+Céramique Haute-Loire
 
 |
 
-GROUPE CERABATI (site de Couteuges)
+Céramiques Haute Loire Site de Couteuges
 
 |
 
@@ -3876,19 +3876,19 @@ VIVESCIA-site de PRINGY
 
 |
 
-576
+1 151
 
 |
 
-473
+945
 
 |
 
-375
+749
 
 |
 
-9 820
+11 241
 
 |
 
@@ -7370,19 +7370,19 @@ Céramiques de Forbach
 
 |
 
-7 706
+8 790
 
 |
 
-7 551
+8 614
 
 |
 
-7 395
+8 436
 
 |
 
-68 085
+71 273
 
 |
 
@@ -8083,6 +8083,30 @@ SOCIETE INDUSTRIELLE DE SAINT-FLORENT-LE-VIEIL
 68 843
 
 |
+
+FR-new-06301486 |
+
+CODEMA |
+
+CODEMA |
+
+10 278 |
+
+9 197 |
+
+8 148 |
+
+7 132 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+34 755 |
 
 FR-new-06302858
 
@@ -8828,30 +8852,6 @@ INEOS CHEMICALS LAVERA
 
 |
 
-FR-new-06410834 |
-
-JEAN LEFEBVRE FOS |
-
-JEAN LEFEBVRE MEDITERANNEE |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
 FR-new-06412416 |
 
 ENGIE Energie Services (ENGIE Cofely) |
@@ -9240,23 +9240,23 @@ Société ALTERNAE silo de GENICOURT
 
 |
 
-619
+0
 
 |
 
-523
+0
 
 |
 
-429
+0
 
 |
 
-340
+0
 
 |
 
-5 415
+3 504
 
 |
 
@@ -9523,6 +9523,30 @@ CYEL (chaufferie des Linandes) |
 2282 |
 
 36236 |
+
+FR-new-06515526 |
+
+GRT gaz |
+
+Station de compression de gaz de Beynes |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-06600079
 
@@ -10148,7 +10172,7 @@ Comptoir agricole Hochfelden
 
 |
 
-917
+459
 
 |
 
@@ -10168,7 +10192,7 @@ Comptoir agricole Hochfelden
 
 |
 
-6 909
+6 451
 
 |
 
@@ -10248,23 +10272,23 @@ COMPTOIR AGRICOLE Erstein
 
 |
 
-477
+119
 
 |
 
-402
+101
 
 |
 
-331
+83
 
 |
 
-261
+65
 
 |
 
-4 167
+3 064
 
 |
 
@@ -11360,11 +11384,11 @@ FR-new-07000631
 
 |
 
-VALLOUREC OIL AND GAS France
+Vallourec Drilling Products France
 
 |
 
-VALLOUREC OIL AND GAS France Usine filet
+Vallourec Drilling France Aulnoye Aymeries
 
 |
 
@@ -11436,19 +11460,19 @@ Vallourec Tubes France-tuberie de Saint Saulve
 
 |
 
-45 836
+11 459
 
 |
 
-44 913
+11 228
 
 |
 
-43 987
+10 997
 
 |
 
-377 404
+276 352
 
 |
 
@@ -13204,6 +13228,30 @@ Chaufferie d'appoint secours
 
 |
 
+FR-new-09000024 |
+
+EIFFAGE génie civil-GTE |
+
+Centrale mobile d'enrobage MI 704 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-10000513
 
 |
@@ -13928,23 +13976,23 @@ Etablissement EURODIF production
 
 |
 
-1 517
+-
 
 |
 
-1 280
+-
 
 |
 
-1 052
+-
 
 |
 
-833
+-
 
 |
 
-13 263
+8 581
 
 |
 
@@ -14089,54 +14137,6 @@ ICT France
 |
 
 129 370
-
-|
-
-FR-new-06301486
-
-|
-
-CODEMA
-
-|
-
-CODEMA
-
-|
-
-10 278
-
-|
-
-9 197
-
-|
-
-8 148
-
-|
-
-7 132
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-34 755
 
 |
 

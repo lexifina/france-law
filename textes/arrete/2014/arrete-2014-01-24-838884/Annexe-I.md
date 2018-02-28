@@ -394,6 +394,14 @@ ORANGE
 
 ORANGE data center Val-de-Reuil |
 
+FR-new-61050201
+
+|
+
+EDF SEI |
+
+Centrale de Saint-Pierre-et-Miquelon |
+
 FR-new-06208313
 
 |
@@ -405,6 +413,14 @@ TOUL POWER SAS
 TOUL POWER SAS, centrale électrique de Toul
 
 |
+
+FR-new-06402237
+
+|
+
+INTERXION France |
+
+INTERXION MRS1 |
 
 FR-new-06511060 |
 
@@ -558,6 +574,14 @@ EDF Cycle Combiné Gaz de BOUCHAIN
 
 |
 
+FR-new-07101261
+
+|
+
+ALBIOMA |
+
+ALBIOMA TAC Sud |
+
 FR-new-07101355
 
 |
@@ -646,7 +670,7 @@ EQUINIX FRANCE SAS
 
 |
 
-EQUINIX PA2 et PA3 datas centers de Saint Denis |
+EQUINIX PA2 et PA3 data centers de Saint-Denis |
 
 FR-new-07408417 |
 
@@ -711,17 +735,5 @@ Electricité de Mayotte
 |
 
 EDM Centrale de Longoni
-
-|
-
-FR-new-61050201
-
-|
-
-EDF SEI
-
-|
-
-Centrale de Saint-Pierre-et-Miquelon
 
 |

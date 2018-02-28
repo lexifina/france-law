@@ -1,4 +1,4 @@
-# Article Annexe II (suite)
+# Article Annexe II (suite 2)
 
 IDENTIFIANT
 
@@ -2720,7 +2720,7 @@ FR000000000000803
 
 |
 
-DELAINE YVES
+SAIPOL
 
 |
 
@@ -2748,19 +2748,19 @@ SAIPOL SETE
 
 |
 
-26 385
+19 786
 
 |
 
-25 596
+19 311
 
 |
 
-24 814
+18 840
 
 |
 
-325 252
+306 394
 
 |
 
@@ -3872,11 +3872,11 @@ FR000000000000836
 
 |
 
-SCA TISSUE France
+Essity Opérations France
 
 |
 
-SCA TISSUE FRANCE - site de Kunheim
+Essity Opérations France-Kunheim
 
 |
 
@@ -4564,7 +4564,7 @@ IMERYS TC DAMIATTE
 
 |
 
-5 035
+3 134
 
 |
 
@@ -4584,7 +4584,7 @@ IMERYS TC DAMIATTE
 
 |
 
-39 879
+37 978
 
 |
 
@@ -8364,19 +8364,19 @@ Chaufferie du Centre Hospitalier de Valenciennes
 
 |
 
-2 562
+-
 
 |
 
-2 105
+-
 
 |
 
-1 665
+-
 
 |
 
-26 535
+20 203
 
 |
 
@@ -9408,7 +9408,7 @@ GRTgaz station de compression de Pitgam
 
 |
 
-35 725
+8 931
 
 |
 
@@ -9432,7 +9432,7 @@ GRTgaz station de compression de Pitgam
 
 |
 
-235 513
+208 719
 
 |
 
@@ -10160,11 +10160,11 @@ FR000000000001025
 
 |
 
-ALAMIGEON SAS
+ALAMIGEON PAPERS & TECHNOLOGIES
 
 |
 
-PAPETERIES ALAMIGEON
+ALAMIGEON PAPERS & TECHNOLOGIES
 
 |
 
@@ -10784,7 +10784,7 @@ FR000000000001051
 
 |
 
-Bertrand de Solages
+Manufacture Française des Pneumatiques Michelin
 
 |
 
@@ -11410,11 +11410,11 @@ FR000000000001071
 
 |
 
-SCA TISSUE France
+Essity Opérations France
 
 |
 
-SCA TISSUE FRANCE Usine de Gien
+Essity Opérations France Usine de Gien
 
 |
 
@@ -11966,19 +11966,19 @@ STORENGY Stockage souterrain de CHEMERY
 
 |
 
-16 668
+5 705
 
 |
 
-13 694
+4 687
 
 |
 
-10 834
+3 708
 
 |
 
-172 639
+145 543
 
 |
 
@@ -12110,19 +12110,19 @@ Chauffage urbain de La Madeleine (Chartres Métropole Energie)
 
 |
 
-4 154
+-
 
 |
 
-3 417
+-
 
 |
 
-2 707
+-
 
 |
 
-42 984
+32 706
 
 |
 
@@ -12578,31 +12578,31 @@ BOUYER LEROUX STRUCTURE site de Marcellin-en-Forez
 
 |
 
-15 826
+9 892
 
 |
 
-15 536
+9 711
 
 |
 
-15 241
+9 527
 
 |
 
-14 944
+9 341
 
 |
 
-14 642
+9 152
 
 |
 
-14 341
+8 964
 
 |
 
-123 045
+89 102
 
 |
 
@@ -13446,7 +13446,7 @@ COGELYO N-E - Site Goodyear
 
 |
 
-12 704
+25 408
 
 |
 
@@ -13466,7 +13466,7 @@ COGELYO N-E - Site Goodyear
 
 |
 
-193 361
+206 065
 
 |
 
@@ -14000,7 +14000,7 @@ FR000000000001147
 
 |
 
-DELAINE YVES
+SAIPOL
 
 |
 

@@ -1,4 +1,4 @@
-# Article Annexe II (suite)
+# Article Annexe II (suite 1)
 
 IDENTIFIANT
 
@@ -336,21 +336,21 @@ Chaufferie de VAUCANSON
 
 609 |
 
-546 |
+0 |
 
-483 |
+0 |
 
-422 |
+0 |
 
-364 |
+0 |
 
-308 |
+0 |
 
-253 |
+0 |
 
-200 |
+0 |
 
-3 185 |
+609 |
 
 FR000000000000383 |
 
@@ -400,13 +400,13 @@ Rhodia opérations établissement du Pont-de-Claix
 
 226 223 |
 
-221 992 |
+110 996 |
 
-217 762 |
+108 881 |
 
-213 531 |
+106 766 |
 
-1 826 708 |
+1 500 066 |
 
 FR000000000000387
 
@@ -710,7 +710,7 @@ SOFIDEL France
 
 FR000000000000403 |
 
-Pierre-Alexandre ANSTETT
+Manufacture Française des Pneumatiques Michelin
 
 |
 
@@ -728,13 +728,13 @@ Usine Michelin de Roanne
 
 11 286 |
 
-11 066 |
+- |
 
-10 843 |
+- |
 
-10 620 |
+- |
 
-91 116 |
+58 587 |
 
 FR000000000000405
 
@@ -1426,11 +1426,11 @@ ELYDE-LA-DUCHERE
 
 FR000000000000433 |
 
-Société Chambérienne de Distribution de Chaleur
+Société Chambérienne de Distribution de Chaleur (SCDC)
 
 |
 
-Société Chambérienne de Distribution de Chaleur-Chaufferie de Bassens
+SCDC Bassens CHAMBERY
 
 |
 
@@ -1438,19 +1438,19 @@ Société Chambérienne de Distribution de Chaleur-Chaufferie de Bassens
 
 1 260 |
 
-259 |
+280 |
 
 220 |
 
 190 |
 
-160 |
+320 |
 
-132 |
+263 |
 
-104 |
+208 |
 
-3 835 |
+4 251 |
 
 FR000000000000434 |
 
@@ -5968,13 +5968,13 @@ Lafarge Ciments - usine de La Malle |
 
 182 804 |
 
-179 239 |
+358 478 |
 
-175 630 |
+351 260 |
 
-172 008 |
+344 016 |
 
-2 241 969 |
+2 768 846 |
 
 FR000000000000640 |
 
@@ -6502,13 +6502,13 @@ H2D DIDIER MARY |
 
 5 331 |
 
-4 505 |
+- |
 
-3 706 |
+- |
 
-2 935 |
+- |
 
-46 619 |
+35 473 |
 
 FR000000000000668
 
@@ -7228,9 +7228,9 @@ VELIDIS |
 
 FR000000000000699 |
 
-Peugeot Citroën Automobiles SA Vélizy |
+PSA AUTOMOBILES SA |
 
-Peugeot Citroën Automobiles SA Vélizy |
+PSA AUTOMOBILES SA Vélizy |
 
 5 024
 
@@ -7252,19 +7252,19 @@ Peugeot Citroën Automobiles SA Vélizy |
 
 |
 
-5 723
+-
 
 |
 
-5 608
+-
 
 |
 
-5 492
+-
 
 |
 
-44 191
+27 368
 
 |
 
@@ -7414,9 +7414,9 @@ MAISON D'ARRET DE FLEURY-MEROGIS |
 
 FR000000000000706 |
 
-SYNDICAT PRINCIPAL DES COPROPRIETAIRES DE GRIGNY 2 |
+SEER Grigny-Viry |
 
-Chaufferie de Grigny 2 |
+Chaufferie de Grigny II |
 
 12 214 |
 
@@ -7554,7 +7554,7 @@ FR000000000000713 |
 
 CONCORDIA ENERGIE |
 
-Vigneux sur Seine |
+CONCORDIA ENERGIE |
 
 9 518 |
 
