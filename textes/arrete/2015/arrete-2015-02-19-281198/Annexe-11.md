@@ -1,913 +1,555 @@
 # Article Annexe 11
 
-Listes des actes donnant lieu à rémunération des forfaits SE
+LISTES DES ACTES DONNANT LIEU À RÉMUNÉRATION DES FORFAITS SE
 
 Liste 1 : liste des actes donnant lieu à rémunération sur la base d'un SE1
 
-Code
+CODE |
 
-|
-
-EXT PMSI
-
-|
-
-Libellé de l'acte CCAM
-
-|
-
-DZQJ001
-
-|
-
-|
-
-Échographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Échocardiographie-doppler transœsophagienne]
-
-|
-
-DZQJ008
-
-|
-
-|
-
-Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
-
-|
-
-DZQJ010
-
-|
-
-|
-
-Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
-
-|
-
-DZQJ011
-
-|
-
-|
-
-Échographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
-
-|
-
-GEQE002
-
-|
-
-|
-
-Fibroscopie bronchique, avec prélèvement lymphonodal à l'aiguille par voie transbronchique
-
-|
-
-GEQE004
-
-|
-
-|
-
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
-
-|
-
-GEQE006
-
-|
-
-|
-
-Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique sans guidage
-
-|
+EXT PMSI |
 
-GEQE007
+LIBELLÉ DE L'ACTE CCAM |
 
-|
-
-|
-
-Fibroscopie bronchique
-
-|
+DZQJ001 |
 
-GEQE010
-
 |
 
-|
+Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Echocardiographie-doppler transœsophagienne] |
 
-Fibroscopie trachéobronchique avec photodétection de lésion par autofluorescence sans laser
+DZQJ008 |
 
 |
 
-GEQH002
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques |
 
-|
+DZQJ010 |
 
 |
 
-Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique avec guidage radiologique
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon |
 
-|
-
-HEGE001
+DZQJ011 |
 
 |
 
-|
+Echographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon |
 
-Ablation de corps étranger de l'œsophage, par endoscopie rigide
+GEQE002 |
 
 |
 
-HEGE002
+Fibroscopie bronchique, avec prélèvement lymphonodal à l'aiguille par voie transbronchique |
 
-|
+GEQE004 |
 
 |
 
-Ablation de corps étranger de l'œsophage, de l'estomac et/ou du duodénum, par œso-gastro-duodénoscopie
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+GEQE006 |
 
-HEQE001
-
 |
 
-|
+Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique sans guidage |
 
-Œsophagoscopie au tube rigide
+GEQE007 |
 
 |
 
-HEQE002
+Fibroscopie bronchique |
 
-|
+GEQE010 |
 
 |
 
-Endoscopie œso-gastro-duodénale
-
-|
+Fibroscopie trachéobronchique avec photodétection de lésion par autofluorescence sans laser |
 
-HEQE003
+GEQH002 |
 
 |
 
-|
+Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique avec guidage radiologique |
 
-Endoscopie œso-gastro-duodénale avec test à l'uréase, avant l'âge de 6 ans
+HEGE001 |
 
 |
 
-HEQE005
+Ablation de corps étranger de l'œsophage, par endoscopie rigide |
 
-|
+HEGE002 |
 
 |
-
-Endoscopie œso-gastro-duodénale avec test à l'uréase, après l'âge de 6 ans
 
-|
+Ablation de corps étranger de l'œsophage, de l'estomac et/ ou du duodénum, par œso-gastro-duodénoscopie |
 
-HJQE001
+HEQE001 |
 
 |
 
-|
+Œsophagoscopie au tube rigide |
 
-Rectosigmoïdoscopie
+HEQE002 |
 
 |
 
-JCGE003
+Endoscopie œso-gastro-duodénale |
 
-|
+HEQE003 |
 
 |
-
-Ablation unilatérale ou bilatérale d'une sonde urétérale, par endoscopie rétrograde
 
-|
+Endoscopie œso-gastro-duodénale avec test à l'uréase, avant l'âge de 6 ans |
 
-JCGE004
+HEQE005 |
 
 |
 
-|
+Endoscopie œso-gastro-duodénale avec test à l'uréase, après l'âge de 6 ans |
 
-Ablation d'une endoprothèse urétérale, par endoscopie rétrograde
+HJQE001 |
 
 |
 
-JDQE001
+Rectosigmoïdoscopie |
 
-|
+JCGE003 |
 
 |
 
-Fibroscopie urétrovésicale
+Ablation unilatérale ou bilatérale d'une sonde urétérale, par endoscopie rétrograde |
 
-|
+JCGE004 |
 
-JDQE002
-
 |
 
-|
+Ablation d'une endoprothèse urétérale, par endoscopie rétrograde |
 
-Exploration endoscopique d'une néovessie intestinale
+JDQE001 |
 
 |
 
-JDQE003
+Fibroscopie urétrovésicale |
 
-|
+JDQE002 |
 
 |
 
-Urétrocystoscopie à l'endoscope rigide
-
-|
+Exploration endoscopique d'une néovessie intestinale |
 
-JEGE001
+JDQE003 |
 
 |
 
-|
+Urétrocystoscopie à l'endoscope rigide |
 
-Ablation de corps étranger de l'urètre, par urétroscopie
+JEGE001 |
 
 |
 
-JEHE002
+Ablation de corps étranger de l'urètre, par urétroscopie |
 
-|
+JEHE002 |
 
 |
 
-Biopsie de l'urètre à la pince, par endoscopie
-
-|
+Biopsie de l'urètre à la pince, par endoscopie |
 
 Liste 2 : liste des actes donnant lieu à rémunération sur la base d'un SE2
 
-Code
+CODE |
 
-|
-
-EXT PMSI
-
-|
-
-Libellé de l'acte CCAM
-
-|
-
-AHHA001
-
-|
-
-|
-
-Biopsie de nerf périphérique, par abord direct
-
-|
-
-AHHA002
-
-|
-
-|
-
-Biopsie neuromusculaire, par abord direct
-
-|
-
-BAFA013
-
-|
-
-|
-
-Exérèse de chalazion
-
-|
-
-BAGA001
-
-|
-
-|
-
-Ablation secondaire de corps étranger de la paupière
-
-|
-
-BBGA001
-
-|
-
-|
-
-Ablation de corps étranger des voies lacrymales, par abord direct
-
-|
-
-BDCA003
-
-|
-
-|
-
-Suture d'une plaie linéaire non transfixiante de la cornée
-
-|
-
-BEJB001
-
-|
-
-|
-
-Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée
-
-|
-
-BEJB002
-
-|
-
-|
-
-Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée
-
-|
-
-BEPA001
-
-|
-
-|
-
-Libération de synéchies et/ou de brides du segment antérieur de l'œil, par kératotomie
-
-|
-
-BGJB001
-
-|
-
-|
-
-Évacuation de collection de la choroïde, par voie transsclérale
-
-|
-
-BGLB001
-
-|
-
-|
-
-Injection d'agent pharmacologique dans le corps vitré
-
-|
-
-BGLB002
-
-|
-
-|
-
-Injection de gaz dans le corps vitré
+EXT PMSI |
 
-|
-
-BKLB001
-
-|
-
-|
-
-Injection thérapeutique intraorbitaire, rétrobulbaire ou latérobulbaire, d'agent pharmacologique
+LIBELLÉ DE L'ACTE CCAM |
 
-|
+AHHA001 |
 
-CAEA002
-
 |
 
-|
+Biopsie de nerf périphérique, par abord direct |
 
-Repositionnement de tout ou partie de l'auricule, sans anastomose vasculaire
+AHHA002 |
 
 |
 
-CAFA006
+Biopsie neuromusculaire, par abord direct |
 
-|
+BAFA013 |
 
 |
-
-Excision de chondrite de l'auricule
 
-|
+Exérèse de chalazion |
 
-CBLD003
+BAGA001 |
 
 |
 
-|
+Ablation secondaire de corps étranger de la paupière |
 
-Pose unilatérale d'aérateur transtympanique
+BBGA001 |
 
 |
 
-EBGA001
+Ablation de corps étranger des voies lacrymales, par abord direct |
 
-|
+BDCA003 |
 
 |
 
-Ablation d'un système diffuseur implanté et du cathéter relié à une veine profonde du membre supérieur ou du cou
+Suture d'une plaie linéaire non transfixiante de la cornée |
 
-|
-
-EBHA001
+BEJB001 |
 
 |
 
-|
+Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée |
 
-Biopsie unilatérale ou bilatérale de l'artère temporale superficielle, par abord direct
+BEJB002 |
 
 |
 
-EBNE002
+Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée |
 
-|
+BEPA001 |
 
 |
-
-Coagulation unilatérale de l'artère sphénopalatine, par endoscopie nasale
 
-|
+Libération de synéchies et/ ou de brides du segment antérieur de l'œil, par kératotomie |
 
-FCFA012
+BGJB001 |
 
 |
 
-|
+Evacuation de collection de la choroïde, par voie transsclérale |
 
-Exérèse de nœud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie
+BGLB001 |
 
 |
 
-FCFA028
+Injection d'agent pharmacologique dans le corps vitré |
 
-|
+BGLB002 |
 
 |
 
-Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie
-
-|
+Injection de gaz dans le corps vitré |
 
-FDHB002
+BKLB001 |
 
 |
 
-|
+Injection thérapeutique intraorbitaire, rétrobulbaire ou latérobulbaire, d'agent pharmacologique |
 
-Biopsie ostéomédullaire, par voie transcutanée
+CAEA002 |
 
 |
 
-GBJD002
+Repositionnement de tout ou partie de l'auricule, sans anastomose vasculaire |
 
-|
+CAFA006 |
 
 |
 
-Évacuation de collection du sinus maxillaire, par voie méatale inférieure
+Excision de chondrite de l'auricule |
 
-|
+CBLD003 |
 
-JAHJ002
-
 |
 
-|
+Pose unilatérale d'aérateur transtympanique |
 
-Ponction de kyste du rein, par voie transcutanée avec guidage échographique
+EBGA001 |
 
 |
 
-JAHJ006
+Ablation d'un système diffuseur implanté et du cathéter relié à une veine profonde du membre supérieur ou du cou |
 
-|
+EBHA001 |
 
 |
-
-Biopsie du rein sur une cible, par voie transcutanée avec guidage échographique
 
-|
+Biopsie unilatérale ou bilatérale de l'artère temporale superficielle, par abord direct |
 
-JAKD001
+EBNE002 |
 
 |
 
-|
+Coagulation unilatérale de l'artère sphénopalatine, par endoscopie nasale |
 
-Changement d'une sonde de néphrostomie ou de pyélostomie
+FCFA012 |
 
 |
 
-JCKD001
+Exérèse de nœud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie |
 
-|
+FCFA028 |
 
 |
 
-Changement d'une sonde d'urétérostomie cutanée
+Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie |
 
-|
-
-JDLF001
+FDHB002 |
 
 |
 
-|
+Biopsie ostéomédullaire, par voie transcutanée |
 
-Pose d'un cathéter intravésical, par voie transcutanée suprapubienne
+GBJD002 |
 
 |
 
-JHSB001
+Evacuation de collection du sinus maxillaire, par voie méatale inférieure |
 
-|
+JAHJ002 |
 
 |
-
-Ligature, section ou résection unilatérale ou bilatérale du conduit déférent, par voie transcutanée
 
-|
+Ponction de kyste du rein, par voie transcutanée avec guidage échographique |
 
-JSED001
+JAHJ006 |
 
 |
 
-|
+Biopsie du rein sur une cible, par voie transcutanée avec guidage échographique |
 
-Transfert intra-utérin d'embryon, par voie vaginale
+JAKD001 |
 
 |
 
-LHNH001
+Changement d'une sonde de néphrostomie ou de pyélostomie |
 
-|
+JCKD001 |
 
 |
 
-Thermocoagulation de facettes articulaires de vertèbre, par voie transcutanée avec guidage radiologique
-
-|
+Changement d'une sonde d'urétérostomie cutanée |
 
-MDGB001
+JDLF001 |
 
 |
 
-|
+Pose d'un cathéter intravésical, par voie transcutanée suprapubienne |
 
-Ablation de matériel d'ostéosynthèse enfoui de la main, par voie transcutanée sans guidage
+JHSB001 |
 
 |
 
-NJAB001
+Ligature, section ou résection unilatérale ou bilatérale du conduit déférent, par voie transcutanée |
 
-|
+JSED001 |
 
 |
 
-Allongement du tendon calcanéen [d'Achille], par voie transcutanée
+Transfert intra-utérin d'embryon, par voie vaginale |
 
-|
+LHNH001 |
 
-PAGB002
-
 |
 
-|
+Thermocoagulation de facettes articulaires de vertèbre, par voie transcutanée avec guidage radiologique |
 
-Ablation de matériel d'ostéosynthèse enfoui, par voie transcutanée sans guidage
+MDGB001 |
 
 |
 
-PAGH001
+Ablation de matériel d'ostéosynthèse enfoui de la main, par voie transcutanée sans guidage |
 
-|
+NJAB001 |
 
 |
-
-Ablation de matériel d'ostéosynthèse enfoui, par voie transcutanée avec guidage radiologique
 
-|
+Allongement du tendon calcanéen [d'Achille], par voie transcutanée |
 
-PDFA001
+PAGB002 |
 
 |
 
-|
+Ablation de matériel d'ostéosynthèse enfoui, par voie transcutanée sans guidage |
 
-Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
+PAGH001 |
 
 |
 
-QAGA004
+Ablation de matériel d'ostéosynthèse enfoui, par voie transcutanée avec guidage radiologique |
 
-|
+PDFA001 |
 
 |
 
-Ablation d'un corps étranger profond des tissus mous du visage ou des mains
+Exérèse de lésion fasciale et/ ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux |
 
-|
+QAGA004 |
 
-QZGA003
-
 |
 
-|
+Ablation d'un corps étranger profond des tissus mous du visage ou des mains |
 
-Ablation d'un corps étranger profond des tissus mous, en dehors du visage et des mains
+QZGA003 |
 
 |
 
-QZGA006
+Ablation d'un corps étranger profond des tissus mous, en dehors du visage et des mains |
 
-|
+QZGA006 |
 
 |
 
-Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains
-
-|
+Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains |
 
 Liste 3 : liste des actes donnant lieu à rémunération sur la base d'un SE3
 
-Code
+CODE |
+
+EXT PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+AAMP173 |
 
 |
 
-EXT PMSI
+Réglage secondaire de plusieurs paramètres de système de stimulation cérébrale profonde |
+
+AGLB001 |
 
 |
 
-Libellé de l'acte CCAM
+Injection péridurale [épidurale] d'agent pharmacologique à visée antalgique, avec évaluation diagnostique et pronostique |
+
+AHLB015 |
 
 |
 
-AAMP173
+Infiltration thérapeutique de nerf de la paroi du tronc, sans stimulodétection |
+
+AHLB016 |
 
 |
 
-|
+Infiltration thérapeutique du plexus brachial |
 
-Réglage secondaire de plusieurs paramètres de système de stimulation cérébrale profonde
-
-|
-
-AGLB001
+FGRD003 |
 
 |
 
-|
+Test de provocation par ingestion d'un allergène administré à concentration croissante |
 
-Injection péridurale [épidurale] d'agent pharmacologique à visée antalgique, avec évaluation diagnostique et pronostique
-
-|
-
-AHLB015
+GGHB002 |
 
 |
 
-|
+Biopsie de la plèvre, par voie transcutanée sans guidage |
 
-Infiltration thérapeutique de nerf de la paroi du tronc, sans stimulodétection
-
-|
-
-AHLB016
+GGJB001 |
 
 |
 
-|
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-Infiltration thérapeutique du plexus brachial
-
-|
-
-FGRD003
+GGJB002 |
 
 |
 
-|
+Evacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage |
 
-Test de provocation par ingestion d'un allergène administré à concentration croissante
-
-|
-
-GGHB002
+HPJB001 |
 
 |
 
-|
+Evacuation d'un épanchement intrapéritonéal, par voie transcutanée |
 
-Biopsie de la plèvre, par voie transcutanée sans guidage
-
-|
-
-GGJB001
+JGHB001 |
 
 |
 
-|
+Ponction-cytoaspiration de la prostate, par voie transrectale ou transpérinéale |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
-
-|
-
-GGJB002
+JGHB002 |
 
 |
 
-|
+Biopsie de la prostate, par voie transpérinéale avec guidage au doigt |
 
-Évacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
-
-|
-
-HPJB001
+JGHD001 |
 
 |
 
-|
+Biopsie de la prostate, par voie transrectale avec guidage au doigt |
 
-Évacuation d'un épanchement intrapéritonéal, par voie transcutanée
-
-|
-
-JGHB001
+JGHJ001 |
 
 |
 
-|
+Biopsie de la prostate, par voie transrectale avec guidage échographique |
 
-Ponction-cytoaspiration de la prostate, par voie transrectale ou transpérinéale
-
-|
-
-JGHB002
+JGHJ002 |
 
 |
 
-|
+Biopsie de la prostate, par voie transpérinéale avec guidage échographique |
 
-Biopsie de la prostate, par voie transpérinéale avec guidage au doigt
-
-|
-
-JGHD001
+JPHJ001 |
 
 |
 
-|
+Amniocentèse sur plusieurs sacs amniotiques, avec guidage échographique |
 
-Biopsie de la prostate, par voie transrectale avec guidage au doigt
-
-|
-
-JGHJ001
+JPHJ002 |
 
 |
 
-|
+Amniocentèse sur un sac amniotique unique, avec guidage échographique |
 
-Biopsie de la prostate, par voie transrectale avec guidage échographique
-
-|
-
-JGHJ002
+JQEP001 |
 
 |
 
-|
-
-Biopsie de la prostate, par voie transpérinéale avec guidage échographique
-
-|
-
-JPHJ001
-
-|
-
-|
-
-Amniocentèse sur plusieurs sacs amniotiques, avec guidage échographique
-
-|
-
-JPHJ002
-
-|
-
-|
-
-Amniocentèse sur un sac amniotique unique, avec guidage échographique
-
-|
-
-JQEP001
-
-|
-
-|
-
-Version du foetus par manoeuvres obstétricales externes au cours de la grossesse, avec contrôle échographique et surveillance du rythme cardiaque du foetus
-
-|
+Version du foetus par manoeuvres obstétricales externes au cours de la grossesse, avec contrôle échographique et surveillance du rythme cardiaque du foetus |
 
 Liste 4 : liste des actes donnant lieu à rémunération sur la base d'un SE4
 
-Code
+CODE |
+
+EXT PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+FEJF003 |
 
 |
 
-EXT PMSI
-
-|
-
-Libellé de l'acte CCAM
-
-|
-
-FEJF003
-
-|
-
-|
-
-Saignée thérapeutique
-
-|
+Saignée thérapeutique |
 
 Liste 5 : liste des actes donnant lieu à rémunération sur la base d'un SE5
 
-Code
+CODE |
+
+EXT PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+BALB001 |
 
 |
 
-EXT PMSI
+Séance d'injection unilatérale ou bilatérale de toxine botulique au niveau des paupières |
+
+Liste 6 : liste des actes donnant lieu à rémunération sur la base d'un SE6
+
+CODE |
+
+EXT PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+PCLB002 |
 
 |
 
-Libellé de l'acte CCAM
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, sans examen électromyographique de détection |
+
+PCLB003 |
 
 |
 
-BALB001
-
-|
-
-|
-
-Séance d'injection unilatérale ou bilatérale de toxine botulique au niveau des paupières
-
-|
-
-PCLB002
-
-|
-
-|
-
-Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, sans examen électromyographique de détection
-
-|
-
-PCLB003
-
-|
-
-|
-
-Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, avec examen électromyographique de détection
-
-|
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, avec examen électromyographique de détection |
