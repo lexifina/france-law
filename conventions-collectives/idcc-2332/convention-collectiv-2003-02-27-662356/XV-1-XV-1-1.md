@@ -4,23 +4,23 @@ Missions
 
 La commission paritaire permanente de négociation et d'interprétation (CPPNI) exerce les missions d'intérêt général suivantes :
 
-–   elle représente de la branche professionnelle des entreprises d'architecture, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
+– elle représente de la branche professionnelle des entreprises d'architecture, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
 
-–   elle exerce un rôle de veille sur les conditions de travail et d'emploi dans la branche ;
+– elle exerce un rôle de veille sur les conditions de travail et d'emploi dans la branche ;
 
-–   elle établit un rapport d'activité qu'elle verse dans la base de données nationale prévue au code du travail.
+– elle établit un rapport d'activité qu'elle verse dans la base de données nationale prévue au code du travail.
 
 Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du code du travail, en particulier l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées ;
 
-–   elle rend un avis à la demande d'une juridiction sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche, dans les conditions mentionnées à l'article L. 144-1 du code de l'organisation judiciaire ;
+– elle rend un avis à la demande d'une juridiction sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche, dans les conditions mentionnées à l'article L. 144-1 du code de l'organisation judiciaire ;
 
-–   elle rend un avis à la demande d'une organisation syndicale ou patronale, saisie par un salarié ou une entreprise de la branche, sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche ;
+– elle rend un avis à la demande d'une organisation syndicale ou patronale, saisie par un salarié ou une entreprise de la branche, sur l'interprétation de la convention collective nationale ou d'un accord collectif de la branche ;
 
-–   elle exerce les missions de l'observatoire paritaire de la négociation collective mentionnées à l'article L. 2232-10 du code du travail ;
+– elle exerce les missions de l'observatoire paritaire de la négociation collective mentionnées à l'article L. 2232-10 du code du travail ;
 
-–   sur proposition du collège employeur ou salarié elle rédige et négocie des avenants à la convention collective nationale et des accords sur tous les thèmes qui relèvent de son champ de compétence et a minima tous les thèmes qui constituent son ordre public conventionnel (la prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'article L. 4161-1 du code du travail, l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés, l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical). La CPPNI s'engage à ouvrir rapidement une négociation sur des thèmes complémentaires ;
+– sur proposition du collège employeur ou salarié elle rédige et négocie des avenants à la convention collective nationale et des accords sur tous les thèmes qui relèvent de son champ de compétence et a minima tous les thèmes qui constituent son ordre public conventionnel (la prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'article L. 4161-1 du code du travail, l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés, l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical). La CPPNI s'engage à ouvrir rapidement une négociation sur des thèmes complémentaires ;
 
-–   elle suit les négociations de valeurs de points et fixe la valeur du point applicable sur un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau territorial.
+– elle suit les négociations de valeurs de points et fixe la valeur du point applicable sur un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau territorial.
 
 Composition
 
