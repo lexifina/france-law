@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202321
+
+- Question : [SEQ171202321](seq171202321.md) — Montant des admissions en non-valeur dans les budgets des communes et intercommunalités
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-03-01, page 951*
+
+Le taux de recouvrement brut des collectivités territoriales, incluant les admissions en non-valeur, demeure stable sur les exercices 2015, 2016 et 2017 avec une variation de -0,08 % sur trois ans passant ainsi de 88,19 % en 2015 à 88,11 % en 2017. De plus, la définition du schéma des poursuites engagées par les comptables publics afin de recouvrer les créances des collectivités territoriales relève du partenariat entre les ordonnateurs des collectivités et leurs comptables de la direction générale des finances publiques. Cette politique partenariale résulte, d'une part, des autorisations de poursuites données ou non par les ordonnateurs et, d'autre part, des conventions de services comptables et financiers et des conventions relatives à la mise en œuvre de la sélectivité de l'action en recouvrement signées par les ordonnateurs des collectivités et les comptables de la direction générale des finances publiques. Ainsi définie, cette politique engage les comptables devant le juge financier, qui apprécie les diligences effectuées en matière de recouvrement. Cet examen par le juge, pouvant amener à la mise en cause de la responsabilité personnelle et pécuniaire des comptables publics, est une garantie quant à la mise en œuvre de poursuites efficientes. Enfin, s'agissant de l'indemnité de conseil des comptables publics, celle-ci est liée à l'aide technique apportée personnellement par les comptables, en complément de leurs obligations professionnelles. Elle ne concerne donc pas l'activité de recouvrement qui est une compétence propre du comptable ainsi que le rappelle l'article 18 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
