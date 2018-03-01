@@ -8,67 +8,49 @@ Pour les différents groupes de produits, la part spécifique pour mille unités
 
 (En pourcentage)
 
-GROUPE DE PRODUITS
-
-|
+GROUPE DE PRODUITS |
 
 TAUX PROPORTIONNEL
 
-(en %)
-
-|
+(en %) |
 
 PART SPÉCIFIQUE
 
-(en euros)
+(en euros) |
 
-|
+Cigarettes |
 
-Cigarettes
+42,9 |
 
-|
+32,5 |
 
-40 |
+Cigares et cigarillos |
 
-25 |
+15,2 |
 
-Cigares et cigarillos
+27,5 |
 
-|
+Tabacs fine coupe destinés à rouler les cigarettes |
 
-10 |
+21,7 |
 
-18,5 |
+34,4 |
 
-Tabacs fine coupe destinés à rouler les cigarettes
+Autres tabacs à fumer |
 
-|
+30,3 |
 
-15 |
+5,8 |
 
-22,5 |
+Tabacs à priser |
 
-Autres tabacs à fumer
-
-|
-
-25 |
+27,6 |
 
 0 |
 
-Tabacs à priser
+Tabacs à mâcher |
 
-|
-
-20 |
-
-0 |
-
-Tabacs à mâcher
-
-|
-
-15 |
+20,1 |
 
 0 |
 
