@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203447
+
+- Question : [SEQ180203447](seq180203447.md) — Situation des établissements d'hébergement pour personnes âgées
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-03-01, page 981*
+
+Conscient de la priorité en matière de prise en charge des personnes âgées ainsi que des enjeux liés au vieillissement de la population, le Gouvernement travaille, au-delà de la mise en œuvre de la loi relative à l'adaptation de la société au vieillissement, à adapter les réponses aux besoins des personnes âgées, et à améliorer la qualité de la prise en charge dans une approche prospective. À cette fin, le haut conseil pour l'avenir de l'assurance maladie (HCAAM) et le haut conseil de la famille, de l'enfance et de l'âge (HCFEA) ont été missionnés pour réaliser une évaluation prospective des besoins en termes quantitatifs et qualitatifs de prise en charge médico-sociale et sanitaire des personnes âgées à horizon 2030. Afin de répondre aux problématiques entourant la pratique professionnelle dans les établissements d'hébergement pour personnes âgées dépendantes (EHPAD), tant en termes de sinistralité que de turnover, un groupe de travail relatif à la qualité de vie au travail est installé sous l'égide de la direction générale de cohésion sociale. Il s'efforcera de mobiliser les branches professionnelles et aura pour objectif d'envisager toutes les possibilités d'agir sur la question de la pénibilité des métiers, par exemple au travers de la prévention des troubles musculo-squelettiques ou du stress lié à la prise en charge de personnes âgées très dépendantes. Les travaux du groupe de travail visent in fine à apporter des solutions concrètes aux établissements pour améliorer la situation des personnels, en abordant notamment les questions liées au management en EHPAD.
