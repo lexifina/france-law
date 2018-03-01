@@ -36,7 +36,9 @@ DR Bordeaux
 
 |
 
-Nouvelle-Aquitaine |
+Nouvelle-Aquitaine
+
+|
 
 Dordogne, Gironde, Lot-et-Garonne
 
@@ -106,7 +108,9 @@ DR Dunkerque
 
 |
 
-Hauts-de-France |
+Hauts-de-France
+
+|
 
 Nord (arrondissement de Dunkerque), Pas-de-Calais
 
@@ -276,7 +280,9 @@ DR Montpellier
 
 |
 
-Occitanie |
+Occitanie
+
+|
 
 Gard, Hérault, Lozère
 
@@ -342,19 +348,11 @@ DI Ile-de-France
 
 |
 
-DR Orly
+DR Paris
 
 |
 
 Ile-de-France
-
-|
-
-Val-de-Marne (uniquement l'aéroport d'Orly)
-
-|
-
-DR Paris
 
 |
 
@@ -366,7 +364,7 @@ DR Paris-Est
 
 |
 
-Seine-Saint-Denis (sauf les aéroports de Roissy et du Bourget), Seine-et-Marne (sauf l'aéroport de Roissy), Val-de-Marne (sauf l'aéroport d'Orly)
+Seine-Saint-Denis (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (sauf l'aéroport de Paris-Charles-de-Gaulle), Val-de-Marne (sauf l'aéroport de Paris-Orly)
 
 |
 
@@ -374,13 +372,23 @@ DR Paris-Ouest
 
 |
 
-Hauts-de-Seine, Yvelines, Essonne, Val-d'Oise (sauf l'aéroport de Roissy)
+Hauts-de-Seine, Yvelines, Essonne (sauf l'aéroport de Paris-Orly), Val-d'Oise (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget)
 
 |
 
-DI Roissy
+DI Paris-aéroports (Siège : Roissy)
 
-(Roissy)
+|
+
+DR Orly
+
+|
+
+Ile-de-France
+
+|
+
+Val-de-Marne (uniquement l'aéroport de Paris-Orly), Essonne (uniquement l'aéroport de Paris-Orly)
 
 |
 
@@ -388,9 +396,7 @@ DR Roissy-fret
 
 |
 
-|
-
-Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne (uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy)
+Seine-Saint-Denis (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget)
 
 |
 
@@ -398,7 +404,7 @@ DR Roissy-voyageurs
 
 |
 
-Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne (uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy)
+Seine-Saint-Denis (uniquement les aéroports de Paris-Charles de Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget)
 
 |
 
