@@ -832,7 +832,7 @@ B
 
 Direction départementale des territoires de la Dordogne
 
-FONCTIONS EXERCÉES
+FONCTIONS EXERCEES
 
 |
 
@@ -850,29 +850,47 @@ d'emplois
 
 |
 
-NOMBRE
-
-de points (IM)
+NOMBRE DE POINTS (IM)
 
 par emploi
 
 |
 
-Adjoint au chef de pôle développement de l'offre de logement, chargé des dossiers ANRU, service urbanisme habitat construction |
+Chef de cellule amélioration de l'habitat et rénovation
 
-A |
+urbaine - Service urbanisme habitat construction
 
-1 |
+|
 
-25 |
+A
 
-Responsable de la cellule documents stratégiques et ville durable, service urbanisme habitat construction |
+|
 
-A |
+1
 
-1 |
+|
 
-25 |
+25
+
+|
+
+Chef de cellule documents stratégiques et ville durable -
+
+Service urbanisme habitat construction
+
+|
+
+A
+
+|
+
+1
+
+|
+
+25
+
+|
 
 Direction départementale des territoires du Doubs (8)
 
