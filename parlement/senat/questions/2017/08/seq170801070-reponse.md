@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801070
+
+- Question : [SEQ170801070](seq170801070.md) — Majeurs sous curatelle placés en Belgique
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-03-01, page 977*
+
+La circulaire DGAS/AC n° 2005-411 du 7 septembre 2005 relative à l'allocation aux adultes handicapés, à la garantie de ressources pour les personnes handicapées et à la majoration pour la vie autonome prévoit qu'en cas d'hospitalisation à l'étranger ou de placement dans un établissement social ou médico-social belge, il est dérogé à la condition de résidence en France pour bénéficier de l'allocation aux adultes handicapés (AAH). La caisse nationale des allocations familiales (CNAF) est sensibilisée sur les modalités d'attribution de l'allocation aux adultes handicapés, et de leurs évolutions, notamment à l'occasion d'échanges réguliers qui sont organisés à l'initiative du ministère des solidarités et de la santé et qui associent également la Caisse centrale de la mutualité sociale agricole. Il revient ensuite à la CNAF de diffuser les bonnes pratiques auprès du réseau des caisses d'allocations familiales (CAF) et de veiller à leur respect. Afin de lever les difficultés que pourrait rencontrer l'application de ces dispositions, le ministère des solidarités et de la santé va demander à la CNAF de veiller à leur respect par les CAF et de le tenir informé des mesures qu'elle aura prise dans ce but. S'agissant de la carte nationale d'identité, son obtention et son renouvellement ne sont pas conditionnés à la résidence de son titulaire sur le territoire national. Le fait de résider à l'étranger ne saurait donc représenter un obstacle à la perception de l'AAH pour les personnes placées en établissements de soins en Belgique. À l'inverse, elles bénéficient d'un système dérogatoire leur facilitant l'accès à l'allocation dans la mesure où elles perçoivent des soins en Belgique.
