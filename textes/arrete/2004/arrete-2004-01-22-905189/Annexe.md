@@ -4483,3 +4483,29 @@ Assemblage de parties et accessoires en matières plastiques ou composites pour 
 Opérations sous-traitées intervenant dans la fabrication d'autres parties et accessoires pour véhicules automobiles pour les produits et prestations des sous-catégories 29.32.10, 29.32.20 et 29.32.30 telles que précisées ci-dessus.
 
 |
+
+J.-Produits, activités et prestations relevant du centre technique de l'industrie des papiers, cartons et celluloses
+
+J-I.-Réalisés en France
+
+17.11 |
+
+Pâte à papier
+
+A l'exclusion de la sous-catégorie 17.11.9 correspondant aux opérations sous-traitées intervenant dans la fabrication de la pâte à papier |
+
+17.12 |
+
+Papier et carton
+
+A l'exclusion de la sous-catégorie 17.12.9, correspondant aux opérations sous-traitées intervenant dans la fabrication de papiers et cartons |
+
+J-II.-Importés
+
+17.11.11 |
+
+Pâtes chimiques de bois, à dissoudre |
+
+17.12 |
+
+Papier et carton |
