@@ -1,0 +1,10 @@
+# proposition de loi tendant à favoriser la création d'entreprises par des jeunes de seize ans au moins
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : tendant à favoriser la création d'entreprises par des jeunes de seize ans au moins
+- Déposé le : 2018-03-05
+- Dossier : DLR5L15N38057
+- Auteurs : M. Roger Karoutchi (auteur), M. Philippe Bas (auteur), M. Jean Bizet (auteur), M. Max Brisson (auteur), M. François-Noël Buffet (auteur), M. Christian Cambon (auteur), M. Alain Chatillon (auteur), Mme Marie-Christine Chauvin (auteur), M. Philippe Dallier (auteur), Mme Laure Darcos (auteur), M. Marc-Philippe Daubresse (auteur), M. Jean-Pierre Decool (auteur), Mme Catherine Deroche (auteur), Mme Jacky Deromedi (auteur), M. Alain Dufaut (auteur), Mme Catherine Dumas (auteur), M. Laurent Duplomb (auteur), Mme Dominique Estrosi Sassone (auteur), Mme Jacqueline Eustache-Brinio (auteur), M. Alain Fouché (auteur), M. Bernard Fournier (auteur), Mme Frédérique Gerbaud (auteur), M. Bruno Gilles (auteur), M. Daniel Gremillet (auteur), M. François Grosdidier (auteur), M. Charles Guené (auteur), M. Olivier Henno (auteur), Mme Sophie Joissains (auteur), Mme Claudine Kauffmann (auteur), M. Guy-Dominique Kennel (auteur), M. Claude Kern (auteur), Mme Florence Lassarade (auteur), M. Antoine Lefèvre (auteur), M. Ronan Le Gleut (auteur), M. Henri Leroy (auteur), M. Jean-François Mayet (auteur), Mme Brigitte Micouleau (auteur), M. Alain Milon (auteur), M. Jean-Marie Morisset (auteur), M. Olivier Paccaud (auteur), M. Jean-Jacques Panunzi (auteur), M. Philippe Pemezec (auteur), M. Cédric Perrin (auteur), M. Stéphane Piednoir (auteur), M. Jackie Pierre (auteur), M. Rémy Pointereau (auteur), M. Michel Raison (auteur), M. Jean-François Rapin (auteur), Mme Évelyne Renaud-Garabedian (auteur), M. René-Paul Savary (auteur), M. Bruno Sido (auteur), Mme Claudine Thomas (auteur), Mme Catherine Troendlé (auteur), M. Jean Pierre Vogel (auteur), Mme Michèle Vullien (auteur)
+- Identifiant : PIONSNR5S299B0340
