@@ -6,50 +6,42 @@ Les épreuves d'admissibilité et d'admission peuvent porter sur les thèmes sui
 
 Connaissances administratives
 
-Notions sur l'organisation de l'Etat, des régions, des départements, des communes ; intercommunalité.
+Notions sur l'organisation de l'Union européenne, de l'Etat, des collectivités territoriales et de leurs groupements ;
 
-Schéma de l'organisation des administrations centrales qui ont en charge les bibliothèques.
+Notions sur les personnels de l'Etat et des collectivités territoriales (en particulier, ceux des bibliothèques) ;
 
-Organisation des bibliothèques : Bibliothèque nationale de France ; services communs de la documentation ; bibliothèques interuniversitaires ; bibliothèques des grands établissements littéraires et scientifiques ; bibliothèques départementales de prêt ; bibliothèques municipales et intercommunales ; bibliothèques municipales à vocation régionale.
-
-Notions sur les personnels de l'Etat et des collectivités territoriales en particulier, sur les personnels des bibliothèques.
-
-Droits et devoirs du fonctionnaire.
-
-Contrôle de l'Etat : l'inspection générale des bibliothèques.
+Droits et obligations des fonctionnaires.
 
 Connaissances professionnelles
 
-Collections :
+Notions sur les tutelles des bibliothèques ;
 
-- modes d'accroissement ;
+Notions sur les missions et l'offre de services des différents types d'institutions documentaires : Bibliothèque nationale de France ; Bibliothèque publique d'information ; Agence bibliographique de l'enseignement supérieur ; Centre technique du livre de l'enseignement supérieur ; les bibliothèques des universités ; les bibliothèques des grands établissements ; les bibliothèques départementales, municipales et intercommunales ;
 
-- traitement matériel des documents dans la chaîne documentaire ;
+Collections (dont ressources numériques) :
 
-- conservation des collections : désherbage ; conditions de conservation selon les différents supports ;
+-modes d'accroissement ;
 
-- conditionnement, reliure, réparations ;
+-traitement des documents ;
 
-- catalogues, classifications et classements.
+-conservation (désherbage, conditions de conservation selon les différents supports) ;
 
-Services au public :
+-conditionnement, reliure, réparations ;
 
-- accueil et information ;
+-catalogues, classifications et classements.
 
-- communication, prêt : les différents modes d'accès aux documents ;
+Services aux publics :
 
-- sécurité des locaux et des collections.
+-accueil et information ;
 
-Notions d'informatique documentaire :
+-communication des documents, prêts ;
 
-- traitement des documents et chaîne documentaire ;
+-sécurité des publics, des locaux et des collections ;
 
-- recherche documentaire.
+-recherche documentaire.
 
-Coopération et réseaux :
+Notions sur la coopération et les réseaux :
 
-- catalogues collectifs ;
+-catalogues collectifs ;
 
-- conservation partagée ;
-
-- outils de la coopération.
+-conservation partagée.
