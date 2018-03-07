@@ -42,11 +42,11 @@ Direction départementale des finances publiques des Yvelines pour les opératio
 
 Direction départementale des finances publiques des Hauts-de-Seine pour les opérations de l'ancien CSP des Hauts-de-Seine |
 
-HÉRAULT |
+HAUTE-GARONNE |
 
 Direction départementale des finances publiques du Gard pour les opérations de l'ancien CSP du Gard |
 
-MOSELLE |
+BAS-RHIN |
 
 Direction départementale des finances publiques de Meurthe et Moselle pour les opérations de l'ancien CSP de Meurthe-et-Moselle |
 
@@ -56,7 +56,7 @@ LOIRE-ATLANTIQUE |
 
 Direction départementale des finances publiques de Maine-et-Loire pour les opérations des anciens CSP de Maine-et-Loire et de la Sarthe |
 
-SOMME |
+NORD |
 
 Direction départementale des finances publiques de l'Oise pour les opérations de l'ancien CSP de l'Oise |
 
@@ -110,25 +110,25 @@ du centre de services partagés |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-CALVADOS |
+SEINE-MARITIME |
 
-Direction départementale des finances publiques du Calvados |
+Direction départementale des finances publiques du Calvados pour les opérations de l'ancien CSP du Calvados |
 
-DOUBS |
+CÔTE-D'OR |
 
-Direction départementale des finances publiques du Doubs |
+Direction départementale des finances publiques du Doubs pour les opérations de l'ancien CSP du Doubs |
 
-HAUTE-VIENNE |
+GIRONDE |
 
-Direction départementale des finances publiques de la Haute-Vienne |
+Direction départementale des finances publiques de la Haute-Vienne pour les opérations de l'ancien CSP de la Haute-Vienne |
 
-MARNE |
+BAS-RHIN |
 
-Direction départementale des finances publiques de la Marne |
+Direction départementale des finances publiques de la Marne pour les opérations de l'ancien CSP de la Marne |
 
-PUY-DE-DÔME |
+RHÔNE |
 
-Direction départementale des finances publiques du Puy-de-Dôme |
+Direction départementale des finances publiques du Puy-de-Dôme pour les opérations de l'ancien CSP du Puy-de-Dôme |
 
 Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2018, aux dépenses dont le fait générateur est antérieur au 1er janvier 2018, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2018 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2018.
 
@@ -138,21 +138,21 @@ du centre de services partagés |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-HERAULT |
+HAUTE-GARONNE |
 
-Direction départementale des finances publiques de l'Hérault |
+Direction départementale des finances publiques de l'Hérault pour les opérations de l'ancien CSP de l'Hérault |
 
-MOSELLE |
+BAS-RHIN |
 
-Direction départementale des finances publiques de la Moselle |
+Direction départementale des finances publiques de la Moselle pour les opérations de l'ancien CSP de la Moselle |
 
-SOMME |
+NORD |
 
-Direction départementale des finances publiques de la Somme |
+Direction départementale des finances publiques de la Somme pour les opérations de l'ancien CSP de la Somme |
 
-VIENNE |
+GIRONDE |
 
-Direction départementale des finances publiques de la Vienne |
+Direction départementale des finances publiques de la Vienne pour les opérations de l'ancien CSP de la Vienne |
 
 2. Secrétariat général pour l'administration de la police (SGAP) de la région Ile-de-France
 
@@ -190,7 +190,7 @@ Direction départementale des finances publiques des Yvelines pour les opératio
 
 C. - Assignations du ministère de la transition écologique et solidaire, du ministère de la cohésion des territoires et du ministère de l'agriculture et de l'alimentation
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2016, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2016, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2016 et aux subventions aides à la pierre à exécution pluriannuelle non soldées au 1er janvier 2016.
+Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2016, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2016, et aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2016.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -202,7 +202,7 @@ RHÔNE pour les départements suivants : Isère, Savoie, Haute-Savoie |
 
 Direction départementale des finances publiques de l'Isère |
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2017, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2017, aux dépenses dont le fait générateur est antérieur au 1er janvier 2017, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2017 et aux subventions “aides à la pierre” à exécution pluriannuelle non soldées au 1er janvier 2017.
+Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2017, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2017, aux dépenses dont le fait générateur est antérieur au 1er janvier 2017, et aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2017.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -292,9 +292,9 @@ CALVADOS |
 
 Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime pour les opérations de l'ancien CSP de la Seine-Maritime |
 
-BAS-RHIN |
+MARNE |
 
-Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin |
+Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin pour les opérations de l'ancien CSP du Bas-Rhin |
 
 Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2018, aux dépenses dont le fait générateur est antérieur au 1er janvier 2018, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2018 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2018.
 

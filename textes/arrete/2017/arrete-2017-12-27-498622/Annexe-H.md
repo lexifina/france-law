@@ -94,12 +94,6 @@ PUY-DE-DÔME |
 
 Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône |
 
-CORSE-DU-SUD |
-
-PUY-DE-DÔME |
-
-Direction régionale des finances publiques de Corse et du département de la Corse-du-Sud |
-
 HAUTE-GARONNE |
 
 PUY-DE-DÔME |

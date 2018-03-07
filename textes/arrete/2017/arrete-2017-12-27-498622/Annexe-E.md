@@ -86,12 +86,6 @@ PUY-DE-DÔME |
 
 Direction départementale des finances publiques du Calvados |
 
-CORSE |
-
-PUY-DE-DÔME |
-
-Direction régionale des finances publiques de Corse et du département de la Corse-du-Sud |
-
 BOURGOGNE-FRANCHE-COMTE |
 
 PUY-DE-DÔME |

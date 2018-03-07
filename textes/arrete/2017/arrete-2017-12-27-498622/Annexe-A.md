@@ -62,11 +62,7 @@ Direction régionale des finances publiques du Grand Est et du département du B
 
 BAS-RHIN |
 
-|
-
 MOSELLE |
-
-|
 
 NORD |
 
