@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001779
+
+- Question : [SEQ171001779](seq171001779.md) — Conditions d'attribution de l'aide à la recherche du premier emploi
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2018-03-08, page 1092*
+
+En ce qui concerne les personnes ayant obtenu un diplôme de l'enseignement supérieur, l'aide à la recherche du premier emploi est accordée sous réserve que le demandeur ait obtenu, dans les quatre mois précédant sa demande, un diplôme de l'enseignement supérieur à finalité professionnelle figurant sur la liste annexée au décret n° 2016-1089 du 8 août 2016 relatif à l'aide à la recherche du premier emploi. Cette liste mentionne les diplômes à finalité professionnelle relevant du ministère chargé de l'enseignement supérieur, du ministère chargé de la culture ou du ministère chargé de l'agriculture ouvrant droit à l'aide à la recherche du premier emploi. Dès lors que la formation conduisant au diplôme d'État d'éducateur spécialisé a été suivie dans un établissement ouvrant droit à l'attribution d'une bourse versée par la région, compétente pour l'attribution des aides financières aux étudiants suivant cette formation dans les établissements mentionnés à l'article L. 451-2-1 du code de l'action sociale et des familles, la demande n'entre pas dans le champ du décret précité. En effet, celui-ci vise notamment les personnes ayant obtenu un diplôme relevant du ministère chargé de l'enseignement supérieur et ayant bénéficié d'une bourse d'enseignement supérieur sur critères sociaux, et non d'une bourse d'études versée par la région. Par ailleurs, le diplôme d'État d'éducateur de jeunes enfants, qui relève de la compétence du ministère chargé des affaires sociales conformément à l'article D. 451-51 du code de l'action sociale et des familles, ne figure pas sur la liste annexée au décret du susdit. Il n'est pas envisagé à ce stade de modifier les dispositions réglementaires à ce sujet.
