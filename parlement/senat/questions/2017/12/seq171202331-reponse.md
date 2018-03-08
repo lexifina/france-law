@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202331
+
+- Question : [SEQ171202331](seq171202331.md) — Politique commune de la pêche et rendement maximal durable
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-03-08, page 1061*
+
+Ces dernières années, en particulier grâce aux efforts consentis par les professionnels de la pêche et aux décisions prises au sein du Conseil des ministres de la pêche de l'Union européenne (UE), des progrès considérables ont été accomplis dans l'atteinte de taux d'exploitation permettant d'obtenir le rendement maximal durable (RMD), et ce pour de très nombreux stocks halieutiques faisant l'objet de captures dans les eaux de l'UE. Cet objectif ne peut toutefois s'appliquer que pour les stocks pour lesquels les connaissances scientifiques permettent de déterminer les paramètres biologiques correspondant au RMD. La dernière évaluation du comité scientifique, technique et économique de la pêche (CSTEP) mandaté par la Commission européenne, repose sur des données de 2015. Selon ces données, 39 des 66 stocks évalués dans l'Atlantique du Nord-Est ont été exploités conformément au RMD (ce qui équivaut à 59 % des stocks pour lesquels le RMD est connu, contre 52 % en 2014). Cet effort s'est poursuivi les années suivantes. Ainsi, les décisions du Conseil des ministres de la pêche ont permis d'augmenter progressivement, sur la base des avis scientifiques, le nombre de totaux admissibles de capture fixés à des niveaux permettant d'atteindre le RMD : soit 44 en 2017 représentant 61 % des captures dans les eaux communautaires de l'Atlantique Nord-Est et 53 en 2018 (66 %). Le Gouvernement est déterminé à poursuivre l'atteinte progressive du RMD pour tous les stocks halieutiques, tout en préservant des équilibres socio-économique fragiles mais essentiels pour de nombreuses communautés littorales, en métropole et dans les outre-mer.
