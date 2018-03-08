@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901309
+
+- Question : [SEQ170901309](seq170901309.md) — Musée des tissus et des arts décoratifs de Lyon
+
+## Réponse
+
+*Culture, JO du 2018-03-08, page 1064*
+
+Le ministère de la culture est particulièrement attentif au dossier du musée des tissus et des arts décoratifs de Lyon. Depuis que la Chambre de commerce et d'industrie de Lyon Métropole-Saint-Étienne-Roanne a annoncé, en mars 2015, son intention de céder les musées des tissus et des arts décoratifs de Lyon, l'État s'est engagé pour trouver une issue favorable, avec une implication indispensable des partenaires locaux. Dans ce cadre, l'État a favorisé la création d'un comité de pilotage, qui s'est réuni à de nombreuses reprises, pour rassembler tous les partenaires autour de l'objectif de redéfinition d'un projet pour les musées. L'État a contribué pour moitié (50 %) au financement d'une étude confiée à l'agence de programmation scientifique et architecturale In Extenso, lancée en début d'année 2017. À l'issue des différentes réunions du comité de pilotage, il a été décidé que les musées et les collections resteraient dans leurs murs. Le ministère accompagne la solution choisie par le propriétaire, la Chambre de commerce et d'industrie de Lyon Métropole-Saint-Étienne-Roanne. Celle-ci a fait part de son accord quant à la proposition de la région Auvergne-Rhône-Alpes d'être chef de file d'un groupement d'intérêt public. Le ministère de la culture a confirmé sa participation financière exceptionnelle au fonctionnement des musées (300 000 € pendant trois ans) et apportera un soutien de 5 M€ en investissement. Par ailleurs, il a indiqué souhaiter apporter son soutien à la volonté de la ville de Lyon de développer l'exposition des collections des musées au profit d'un public toujours plus large en contribuant à des manifestations temporaires dans d'autres espaces muséaux à Lyon.
