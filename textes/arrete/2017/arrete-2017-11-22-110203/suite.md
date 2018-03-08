@@ -772,7 +772,7 @@ Rapports minima
 
 a) Si un des rapports nets calculés selon les dispositions des articles 92 et 93 est inférieur à 1,10 €, le paiement en France est fait sur la base du rapport net de 1,10 € par unité d’enjeu par amputation du produit brut des paris "Quinté Plus" de la course considérée.
 
-b) Dans le cas prévu au deuxième alinéa du b) du II de l’article 92, ou si, après application des dispositions des III et IV de l’article 92 ou celles du a) ci-avant, le montant disponible du produit brut des paris "Quinté Plus" de la course considérée est inférieur au minimum fixé à l’article 22, il est procédé de la façon suivante :
+b) Dans le cas prévu au deuxième alinéa du c) du II de l’article 92, ou si, après application des dispositions des III et IV de l’article 92 ou celles du a) ci-avant, le montant disponible du produit brut des paris "Quinté Plus" de la course considérée est inférieur au minimum fixé à l’article 22, il est procédé de la façon suivante :
 
 Le taux de déduction proportionnelle sur enjeux pour le pari "Quinté Plus" est alors égal au taux minimal fixé au troisième alinéa de l’article 20.
 
@@ -1828,9 +1828,7 @@ i. Rapport "Trio Ordre".
 
 En cas d’arrivée normale, le rapport brut technique "Trio Ordre" de la combinaison déterminée au 2 de l’article 128 servant de référence est alors égal au rapport de référence. S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de la combinaison payable est alors égal à son rapport technique.
 
-En cas de dead-heat, le rapport brut technique "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128,
-
-de l’article 128, est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du 2 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chaque combinaison payable est alors égal à son rapport technique.
+En cas de dead-heat, le rapport brut technique "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du 2 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chaque combinaison payable est alors égal à son rapport technique.
 
 ii. Rapport "Trio Ordre 1 NP".
 
@@ -1862,7 +1860,7 @@ a) Rapport "Trio ".
 
 En cas d’arrivée normale, le rapport brut technique "Trio" de la combinaison déterminée au a) du 3 de l’article 128 servant de référence est alors égal au rapport de référence. S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de la combinaison payable est alors égal à son rapport technique.
 
-En cas de dead-heat, le rapport brut technique "Trio" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du 1 de l’article 128 pour chacune de ces combinaisons payables "Trio". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chaque combinaison payable est alors égal à son rapport technique.
+En cas de dead-heat, le rapport brut technique "Trio" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du 1 de l’article 128 pour chacune de ces combinaisons payables "Trio". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chaque combinaison payable est alors égal à son rapport technique.
 
 b) Rapport "Trio 1 NP".
 
@@ -1880,7 +1878,7 @@ a) Rapport "Trio Ordre".
 
 En cas d’arrivée normale, le rapport brut de référence "Trio Ordre" de la combinaison déterminée au b) du 3 de l’article 128 servant de référence est alors égal au rapport de référence. S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de la combinaison payable est alors égal à son rapport technique.
 
-En cas de dead-heat, le rapport brut technique "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du b) du 3 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chaque combinaison payable est alors égal à son rapport technique.
+En cas de dead-heat, le rapport brut technique "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du b) du 3 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chaque combinaison payable est alors égal à son rapport technique.
 
 b) Rapport "Trio Ordre 1 NP".
 
@@ -1898,7 +1896,7 @@ a) Rapport "Principal".
 
 En cas d’arrivée normale, le rapport brut technique "Principal" de la combinaison déterminée au c) du 3 de l’article 128 servant de référence est alors égal au rapport de référence. S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Principal" de la combinaison payable est alors égal à son rapport technique.
 
-En cas de dead-heat, le rapport brut technique "Principal" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du c) du 3 de l’article 128 pour chacune de ces combinaisons payables au rapport "Principal". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Principal" de chaque combinaison payable est alors égal à son rapport technique.
+En cas de dead-heat, le rapport brut technique "Principal" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au rapport de référence multiplié par le coefficient de difficulté résultant de l’application des dispositions du c) du 3 de l’article 128 pour chacune de ces combinaisons payables au rapport "Principal". S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Principal" de chaque combinaison payable est alors égal à son rapport technique.
 
 b) Rapport "Spécial 1 NP".
 
@@ -1940,7 +1938,7 @@ S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun 
 
 Si le rapport net ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
-En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chacune des combinaisons payables à ce rang de rapport, différentes par les chevaux qui les composent et autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au total du montant du rapport incrémental "Trio" multiplié par le coefficient de difficulté résultant de l’application des dispositions du 1 de l’article 128 pour chacune des combinaisons payables au rapport "Trio" et du coefficient de réservation fixé au sixième alinéa du présent article.
+En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chacune des combinaisons payables à ce rang de rapport, différentes par les chevaux qui les composent et autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au total du montant du rapport incrémental "Trio" multiplié par le coefficient de difficulté résultant de l’application des dispositions du 1 de l’article 128 pour chacune des combinaisons payables au rapport "Trio" et du coefficient de réservation fixé au sixième alinéa du présent article.
 
 Si l’un des rapports nets ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
@@ -2010,9 +2008,7 @@ S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun 
 
 Si le rapport net ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
-En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128,
-
-de l’article 128, est alors égal au total du montant du rapport incrémental "Trio Ordre" multiplié par le coefficient de difficulté résultant de l’application des dispositions du 2 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre" et du coefficient de réservation fixé au sixième alinéa du présent article.
+En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au total du montant du rapport incrémental "Trio Ordre" multiplié par le coefficient de difficulté résultant de l’application des dispositions du 2 de l’article 128 pour chacune de ces combinaisons payables "Trio Ordre" et du coefficient de réservation fixé au sixième alinéa du présent article.
 
 Si l’un des rapports nets ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
@@ -2060,7 +2056,7 @@ S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun 
 
 Si le rapport net ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
-En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chacune des combinaisons payables à ce rang de rapport, différentes par les chevaux qui les composent et autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au total du montant du rapport incrémental "Trio" multiplié par le coefficient de difficulté résultant de l’application des dispositions du a) du 3 de l’article 128 pour chacune des combinaisons payables au rapport "Trio" et du coefficient de réservation fixé au sixième alinéa du présent article.
+En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio" de chacune des combinaisons payables à ce rang de rapport, différentes par les chevaux qui les composent et autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au total du montant du rapport incrémental "Trio" multiplié par le coefficient de difficulté résultant de l’application des dispositions du a) du 3 de l’article 128 pour chacune des combinaisons payables au rapport "Trio" et du coefficient de réservation fixé au sixième alinéa du présent article.
 
 Si l’un des rapports nets ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
@@ -2088,7 +2084,7 @@ S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun 
 
 Si le rapport net ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
-En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au total du montant du rapport incrémental "Trio Ordre" multiplié par le coefficient de difficulté résultant de l’application des dispositions au b) du 3 de l’article 128 pour chacune de ces combinaisons payables "Trio ordre" et du coefficient de réservation fixé au sixième alinéa du présent article.
+En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Trio Ordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au total du montant du rapport incrémental "Trio Ordre" multiplié par le coefficient de difficulté résultant de l’application des dispositions au b) du 3 de l’article 128 pour chacune de ces combinaisons payables "Trio ordre" et du coefficient de réservation fixé au sixième alinéa du présent article.
 
 Si l’un des rapports nets ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
@@ -2116,7 +2112,7 @@ S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun 
 
 Si le rapport net ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
-En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Principal" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l’article 128, de l’article 128, est alors égal au total du montant du rapport incrémental "Principal" multiplié par le coefficient de difficulté résultant de l’application des dispositions du c) du 3 de l’article 128 pour chacune de ces combinaisons payables "Principal" et du coefficient de réservation fixé au sixième alinéa du présent article.
+En cas de dead-heat, s’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Principal" de chacune des combinaisons payables, différentes par les chevaux qui les composent, autres que celle servant de référence déterminée aux quatrième à sixième alinéas de l'article 128 est alors égal au total du montant du rapport incrémental "Principal" multiplié par le coefficient de difficulté résultant de l’application des dispositions du c) du 3 de l’article 128 pour chacune de ces combinaisons payables "Principal" et du coefficient de réservation fixé au sixième alinéa du présent article.
 
 Si l’un des rapports nets ainsi obtenu est inférieur à 1,10 €, il est fait application des dispositions de l’article 20.
 
@@ -3228,7 +3224,7 @@ I. – Après avoir présenté sa carte privative au lecteur de carte sans conta
 
 - Consultation et approvisionnement ;
 
-- Prise de paris ou annulation d’un montant inférieur ou égal à 20 €.
+- Prise de paris ou annulation d’un montant inférieur ou égal à 30 €.
 
 Dans les autres cas, le parieur en compte doit s’authentifier préalablement, selon les procédures indiquées sur l’écran de réception. Il peut, toutefois, être demandé au parieur en compte de s’authentifier durant ou avant toute transaction quel qu’en soit le montant, selon les procédures indiquées sur l’écran de réception.
 
@@ -3352,7 +3348,7 @@ Le parieur en compte doit composer son pari conformément au guide qui lui est c
 
 - le montant de son pari.
 
-Un message texte de confirmation est adressé par le groupement au parieur en compte. Il comporte la reformulation du pari transmis par le parieur aux normes d’enregistrement des paris par message texte, le montant qui sera porté au débit de son compte, le numéro de référence du pari ainsi que son nouveau solde pour parier.
+La confirmation de l'enregistrement du pari est adressée par le groupement au parieur en compte par message (s) texte. Elle comporte la reformulation du pari transmis par le parieur aux normes d'enregistrement des paris par message texte, le montant qui sera porté au débit de son compte, le numéro de référence du pari ainsi que son nouveau solde pour parier.
 
 Le parieur en compte peut annuler son pari en adressant au numéro de téléphone dédié au service de prise de paris par message texte, un message texte comportant la mention : "ANNULER" et le numéro de référence du pari.
 
