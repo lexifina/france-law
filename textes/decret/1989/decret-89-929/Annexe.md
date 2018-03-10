@@ -1,145 +1,2447 @@
 # Article Annexe
 
-Les zones, à l’exception des zones dites de responsabilité commune, sont limitées par les lignes reliant les points suivants :
+À L'ACCORD DE 1983 CONCERNANT LA COOPÉRATION EN MATIÈRE DE LUTTE CONTRE LA POLLUTION DE LA MER DU NORD PAR LES HYDROCARBURES ET AUTRES SUBSTANCES DANGEREUSES
 
-Le Danemark :
+Description de la limite atlantique de la région de la mer du Nord et des zones visées à l'article 6 du présent Accord
 
-55° 03' 00'', 0 N 8° 22' 00'', 0 E
+LIMITE ATLANTIQUE DE LA RÉGION DE LA MER DU NORD
 
-55° 10' 00'', 0 N 7° 30' 00'', 0 E
+PARTIE I : LIGNE LIMITANT LA MANCHE ET SES ENTRÉES SUD ET OUEST
 
-55° 10' 00'', 0 N 2° 13' 30'', 0 E
+La ligne limitant la Manche et ses entrées sud et ouest est une ligne qui :
 
-57° 00' 00'', 0 N 1° 30' 00'', 0 E
+(i) part du point le plus méridional de l'île d'Ouessant ;
 
-57° 00' 00'', 0 N 2° 25' 04'', 6 E
+(ii) depuis ce point, suit le parallèle du 48° 27ʹ00.00ʺ de latitude N vers l'ouest jusqu'au point où il coupe une ligne (ci-après désignée par l'expression "ligne de l'Accord de Bonn, 1983") tirée à 50 milles marins à l'ouest d'une ligne reliant les îles Sorlingues et l'île d'Ouessant ;
 
-56° 35' 42'', 0 N 2° 36' 48'', 0 E
+(iii) depuis ce point d'intersection, suit la ligne de l'Accord de Bonn de 1983 vers le nord jusqu'au point où elle coupe la ligne marquant la limite du plateau continental entre la France et le Royaume-Uni, telle qu'elle a été définie dans la sentence arbitrale du 30 juin 1977 ;
 
-56° 05' 12'', 0 N 3° 15'00'', 0 E
+(iv) depuis ce point d'intersection, suit la ligne de cette limite vers l'ouest jusqu'au point 48°10ʹ00.00ʺ N 9° 22ʹ15.91ʺ O ; et
 
-56° 35' 30'', 0 N 5° 02' 00'', 0 E
+(v) depuis ce point, suit le parallèle du 48°10ʹ00.00ʺ de latitude N vers l'ouest jusqu'au point 48° 10ʹ00.00ʺ N 10° 00ʹ00.00ʺ O.
 
-57° 10' 30'', 0 N 6° 56' 12'', 0 E
+PARTIE II : LIGNE LIMITANT À L'OUEST ET AU NORD LES AUTRES EAUX OBJET DE L'ACCORD
 
-57° 29' 54'', 0 N 7° 59' 00'', 0 E
+La ligne limitant à l'ouest et au nord les autres eaux objet de l'Accord, comprenant la mer d'Irlande, la mer Celte, la mer de Malin, le "Great Minch", le "Little Minch", une partie de la mer de Norvège et des parties de l'Atlantique du nord-est, est une ligne qui :
 
-57° 37' 06'', 0 N 8° 27' 30'', 0 E
+(i) part du point 48° 10ʹ00.00ʺ N 10° 00ʹ00.00ʺ O ;
 
-57° 41'48'', 0 N 8° 53' 18'', 0 E
+(ii) depuis ce point, suit la limite ouest de la zone irlandaise de responsabilité de lutte contre la pollution (en d'autres termes, une ligne dont tous les points se trouvent à une distance de 200 milles marins du point le plus proche des lignes de base définies aux fins des Lois irlandaises de 1959 à 1988 sur la juridiction maritime (Maritime Jurisdiction Acts)) jusqu'au point 56° 42ʹ00.00ʺ N 14° 0ʹ00.00ʺ O ;
 
-57° 59' 18'', 0 N 9° 23' 00'', 0 E
+(iii) depuis ce point, suit la limite ouest de la zone définie par le Règlement britannique de 1996 sur la navigation marchande (Prévention de la pollution) (Limites) (Merchant Shipping (Prevention of Pollution) (Limits) Regulations 1996), amendé par le Règlement de 1997 sur la navigation marchande (Prévention de la pollution) (Limites) (Merchant Shipping (Prevention of Pollution) (Limits) Regulations 1997) (autrement dit, les lignes reliant les points énumérés au Tableau 1 ci-après dans l'ordre où ils sont énumérés) jusqu'au point 63° 38ʹ10.68ʺ N 0° 30ʹ00.00ʺ O ; et
 
-58° 15' 41'',2 N 10° 01'48'', 1 E
+(iv) depuis ce point, suit le parallèle du 63°38ʹ10.68ʺ de latitude N vers l'est jusqu'à la côte de la Norvège.
 
-58° 10' 00'', 0 N 10° 00'00'', 0 E
+Tableau 1. - Points et lignes de la limite ouest de la zone definie par le règlement britannique de 1996 sur la navigation marchande (Prévention de la pollution) (Limites) (Merchant Shipping (Prevention of Pollution) (Limits) regulations 1996), tel qu'amendé
 
-57° 48' 00'',0N 10° 57' 00'', 0 E
+POINTS INDIQUÉS DANS LE RÈGLEMENT DU ROYAUME-UNI,
 
-57° 44' 48'', 0 N 10° 38' 00'', 0 E
+tel qu'amendé, et leurs coordonnées |
 
-La Norvège
+SEGMENTS DE LIGNES RELIANT CES POINTS |
 
-61° 00' 00'', 0 N 4° 30' 00'', 0 E
+27. 56° 42ʹ 00.00ʺN |
 
-61° 00' 00'', 0 N 2° 00' 00'', 0 E
+14° 0ʹ 00.00ʺO |
 
-57° 00' 00'', 0 N 1° 30' 00'', 0 E
+27-28 Méridien de longitude |
 
-57° 00' 00'', 0 N 2° 25' 04'', 6 E
+28. 56° 49ʹ 00.00ʺN |
 
-56° 35' 42'', 0 N 2° 36' 48'', 0 E
+14° 0ʹ 00.00ʺO |
 
-56° 05' 12'', 0 N 3° 15'00'', 0 E
+28-29 Parallèle de latitude |
 
-56° 35' 30'', 0 N 5° 02' 00'', 0 E
+29. 56° 49ʹ 00.00ʺN |
 
-57° 10' 30'', 0 N 6° 56' 12'', 0 E
+14° 30ʹ 34.00ʺO |
 
-57° 29' 54'', 0 N 7° 59' 00'', 0 E
+29-30 Arc mesuré à 200 milles marins des points de base correspondants à St. Kilda, d'où la largeur de la mer territoriale est mesurée |
 
-57° 37' 06'', 0 N 8° 27' 30'', 0 E
+30. 57° 52ʹ 22.00ʺN |
 
-57° 41'48'', 0 N 8° 53' 18'', 0 E
+14° 53ʹ 22.00ʺO |
 
-57° 59' 18'', 0 N 9° 23' 00'', 0 E
+30-31 Arc mesuré à 200 milles marins des points de base correspondants à St. Kilda, d'où la largeur de la mer territoriale est mesurée |
 
-57° 15' 41'',2 N 10° 01' 48' 1 E
+31. 58° 30ʹ 00.00ʺN |
 
-58° 10'00", ON 10° 00'00", 0E
+14° 48ʹ 58.00ʺO |
 
-58° 53' 34", 0 N 10° 38'25", 0E
+31-32 Arc mesuré à 200 milles marins des points de base correspondants à St. Kilda, d'où la largeur de la mer territoriale est mesurée |
 
-A continuer conformément à la frontière entre la Norvège et la Suède.
+32. 59° 00ʹ 00.00ʺN |
 
-L’Allemagne :
+14° 35ʹ 07.00ʺO |
 
-53° 34' N 6° 38' E
+32-33 Arc mesuré à 200 milles marins des points de base correspondants à St. Kilda, d'où la largeur de la mer territoriale est mesurée |
 
-54° 00' N 5° 30' E
+33. 59° 40ʹ 54.00ʺN |
 
-54° 00' N 2° 39', 1 E
+13° 58ʹ 10.00ʺO |
 
-55° 10'N 2° 13', 5 E
+33-34 Arc mesuré à 200 milles marins des points de base correspondants à St. Kilda, d'où la largeur de la mer territoriale est mesurée |
 
-55° 10' N 7° 30' E
+34. 59° 50ʹ 00.00ʺN |
 
-55° 03' N 8° 22' E
+13° 46ʹ 24.00ʺO |
 
-La Suède :
+34-35 Parallèle de latitude |
 
-57° 54'N 11° 28'N
+35. 59° 50ʹ 00.00ʺN |
 
-57° 48' N 10° 57' E
+5° 0ʹ 00.00ʺO |
 
-58° 10'N 10° 00' E
+35-36 Méridien de longitude |
 
-58° 53' 34", ON 10° 38'. 25", 0 E
+36. 60° 10ʹ 00.00ʺN |
 
-A continuer conformément à la frontière entre la Norvège et la Suède.
+5° 0ʹ 00.00ʺO |
 
-Les Pays-Bas :
+36-37 Parallèle de latitude |
 
-51° 32'N 3° 18' E
+37. 60° 10ʹ 00.00ʺN |
 
-51° 32'N 2° 06' E
+4° 48ʹ 00.00ʺO |
 
-52° 30'N 3° 10' E
+37-38 Méridien de longitude |
 
-54° 00' N 2° 39', 1 E
+38. 60° 20ʹ 00.00ʺN |
 
-54° 00' N 5° 30' E
+4° 48ʹ 00.00ʺO |
 
-53° 34' N 6° 38' E
+38-39 Parallèle de latitude |
 
-Le Royaume-Uni :
+39. 60° 20ʹ 00.00ʺN |
 
-61° 00'N 0° 50' O
+4° 24ʹ 00.00ʺO |
 
-61° 00'N 2° 00' E
+39-40 Méridien de longitude |
 
-57° 00'N 1° 30' E
+40. 60° 40ʹ 00.00ʺN |
 
-52° 30' N 3° 10' E
+4° 24ʹ 00.00ʺO |
 
-51° 32'N 2° 06' E
+40-41 Parallèle de latitude |
 
-Les zones dites de responsabilité commune sont fixées comme suit :
+41. 60° 40ʹ 00.00ʺN |
 
-1. Belgique, France et Royaume-Uni :
+4° 0ʹ 00.00ʺO |
 
-La région de la mer située entre les parallèles 51° 32' N et 51° 06' N.
+41-42 Méridien de longitude |
 
-2. France et Royaume-Uni :
+42. 61° 0ʹ 00.00ʺN |
 
-La Manche au Sud-Ouest du parallèle 51° 06' N jusqu’à une ligne reliant les points 49° 52' N 07° 44' O et 48° 27' N 06° 25' O.
+4° 0ʹ 00.00ʺO |
 
-3. Danemark et Suède :
+42-43 Parallèle de latitude |
 
-La région du Skagerrak située entre les points suivants :
+43. 61° 0ʹ 00.00ʺN |
 
-57° 54'N 11° 28' E
+3° 36ʹ 00.00ʺO |
 
-57° 44', 8 N 10° 38'N
+43-44 Méridien de longitude |
 
-57° 44', 8 N 11° 28' E
+44. 61° 30ʹ 00.00ʺN |
+
+3° 36ʹ 00.00ʺO |
+
+44-45 Parallèle de latitude |
+
+45. 61° 30ʹ 00.00ʺN |
+
+3° 0ʹ 00.00ʺO |
+
+45-46 Méridien de longitude |
+
+46. 61° 45ʹ 00.00ʺN |
+
+3° 0ʹ 00.00ʺO |
+
+46-47 Parallèle de latitude |
+
+47. 61° 45ʹ 00.00ʺN |
+
+2° 48ʹ 00.00ʺO |
+
+47-48 Méridien de longitude |
+
+48. 62° 0ʹ 00.00ʺN |
+
+2° 48ʹ 00.00ʺO |
+
+48-49 Parallèle de latitude |
+
+49. 62° 0ʹ 00.00ʺN |
+
+2° 0ʹ 00.00ʺO |
+
+49-50 Méridien de longitude |
+
+50. 62° 30ʹ 00.00ʺN |
+
+2° 0ʹ 00.00ʺO |
+
+50-51 Parallèle de latitude |
+
+51. 62° 30ʹ 00.00ʺN |
+
+1° 36ʹ 00.00ʺO |
+
+51-52 Méridien de longitude |
+
+52. 62° 40ʹ 00.00ʺN |
+
+1° 36ʹ 00.00ʺO |
+
+52-53 Parallèle de latitude |
+
+53. 62° 40ʹ 00.00ʺN |
+
+1° 0ʹ 00.00ʺO |
+
+53-54 Méridien de longitude |
+
+54. 63° 20ʹ 00.00ʺN |
+
+1° 0ʹ 00.00ʺO |
+
+54-55 Parallèle de latitude |
+
+55. 63° 20ʹ 00.00ʺN |
+
+0° 30ʹ 00.00ʺO |
+
+55-56 Méridien de longitude |
+
+56. 63° 38ʹ 10.68ʺN |
+
+0° 30ʹ 00.00ʺO |
+
+|
+
+LIMITES DES ZONES DE RESPONSABILITÉ VISÉES À L'ARTICLE 6 DU PRÉSENT ACCORD
+
+PARTIE III : LIMITES DES ZONES NATIONALES DE RESPONSABILITÉ
+
+1. Généralités : lorsque les limites d'une zone de responsabilité sont définies par une série de lignes joignant les points dans une liste, la nature de ces lignes est la nature définie contre chaque point comme la nature de la ligne le joignant au point suivant.
+
+2. Le Danemark : la zone de responsabilité nationale du Danemark est limitée par la série suivante de lignes :
+
+(a) une ligne qui commence au point où la limite de la zone de responsabilité commune du Danemark et de l'Allemagne telle que décrite dans la Partie IV ci-dessous, coupe une ligne allant du point 55° 10ʹ 03.40ʺ N 7° 33ʹ 09.60ʺ E vers le point DK1 (DE1) dans le tableau ci-dessous, et qui suit cette ligne jusqu'au point DK1 (DE1) ;
+
+(b) une série de lignes joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point
+
+au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+DK1 |
+
+55° 30ʹ 40.30ʺ N |
+
+5° 45ʹ 00.00ʺ E |
+
+Géodésique |
+
+DE1 |
+
+DK2 |
+
+55° 15ʹ 00.00ʺ N |
+
+5° 24ʹ 12.00ʺ E |
+
+Géodésique |
+
+DE2 |
+
+DK3 |
+
+55° 15ʹ 00.00ʺ N |
+
+5° 9ʹ 00.00ʺ E |
+
+Géodésique |
+
+DE3 |
+
+DK4 |
+
+55° 24ʹ 15.00ʺ N |
+
+4° 45ʹ 00.00ʺ E |
+
+Géodésique |
+
+DE4 |
+
+DK5 |
+
+55° 46ʹ 21.80ʺ N |
+
+4° 15ʹ 00.00ʺ E |
+
+Géodésique |
+
+DE5 |
+
+DK6 |
+
+55° 55ʹ 09.40ʺ N |
+
+3° 21ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE6 |
+
+DK7 |
+
+56° 5ʹ 12.00ʺ N |
+
+3° 15ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK23, NO23 |
+
+DK8 |
+
+56° 35ʹ 30.00ʺ N |
+
+5° 2ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NO24 |
+
+DK9 |
+
+57° 10ʹ 30.00ʺ N |
+
+6° 56ʹ 12.00ʺ E |
+
+Arc de grand cercle |
+
+NO25 |
+
+DK10 |
+
+57° 29ʹ 54.00ʺ N |
+
+7° 59ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NO26 |
+
+DK11 |
+
+57° 37ʹ 06.00ʺ N |
+
+8° 27ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+NO27 |
+
+DK12 |
+
+57° 41ʹ 48.00ʺ N |
+
+8° 53ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+NO28 |
+
+DK13 |
+
+57° 59ʹ 18.00ʺ N |
+
+9° 23ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NO29 |
+
+DK14 |
+
+58° 15ʹ 41.20ʺ N |
+
+10°1ʹ 48.10ʺ E |
+
+Arc de grand cercle |
+
+NO30, SE4 |
+
+DK15 |
+
+58° 8ʹ 00.10ʺ N |
+
+10° 32ʹ 32.80ʺ E |
+
+Géodésique |
+
+SE3 |
+
+DK16 |
+
+57° 49ʹ 00.60ʺ N |
+
+11° 2ʹ 55.60ʺ E |
+
+Géodésique |
+
+SE2 |
+
+DK17 |
+
+57° 44ʹ 43.00ʺ N |
+
+11° 7ʹ 04.00ʺ E |
+
+|
+
+SE1 |
+
+3. Allemagne : la zone de responsabilité nationale de l'Allemagne est limitée par la série suivante de lignes :
+
+(a) une ligne qui commence au point où la limite de la zone de responsabilité commune du Danemark et de l'Allemagne telle que décrite dans la Partie IV ci-dessous, coupe une ligne allant du point 55°10ʹ 03.40ʺ N 7° 33ʹ 09.60ʺ E vers le point DE1 (DK1) dans le tableau ci-dessous, et qui suit cette ligne jusqu'au point DE1 (DK1) ;
+
+(b) une série de lignes joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point
+
+au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+DE1 |
+
+55° 30ʹ 40.30ʺ N |
+
+5° 45ʹ 00.00ʺ E |
+
+Géodésique |
+
+DK1 |
+
+DE2 |
+
+55° 15ʹ 00.00ʺ N |
+
+5° 24ʹ 12.00ʺ E |
+
+Géodésique |
+
+DK2 |
+
+DE3 |
+
+55° 15ʹ 00.00ʺ N |
+
+5° 9ʹ 00.00ʺ E |
+
+Géodésique |
+
+DK3 |
+
+DE4 |
+
+55° 24ʹ 15.00ʺ N |
+
+4° 45ʹ 00.00ʺ E |
+
+Géodésique |
+
+DK4 |
+
+DE5 |
+
+55° 46ʹ 21.80ʺ N |
+
+4° 15ʹ 00.00ʺ E |
+
+Géodésique |
+
+DK5 |
+
+DE6 |
+
+55° 55ʹ 09.40ʺ N |
+
+3° 21ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DK6 |
+
+DE7 |
+
+55° 50ʹ 06.00ʺ N |
+
+3° 24ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK24 |
+
+DE8 |
+
+55° 45ʹ 54.00ʺ N |
+
+3° 22ʹ 13.00ʺ E |
+
+Arc de grand cercle |
+
+NL19 |
+
+DE9 |
+
+55° 20ʹ 00.00ʺ N |
+
+4° 20ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL20 |
+
+DE10 |
+
+55° 0ʹ 00.00ʺ N |
+
+5° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL21 |
+
+DE11 |
+
+54° 37ʹ 12.00ʺ N |
+
+5° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL22 |
+
+DE12 |
+
+54° 11ʹ 12.00ʺ N |
+
+6° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL23 |
+
+DE13 |
+
+53° 59ʹ 56.80ʺ N |
+
+6° 6ʹ 28.20ʺ E ; |
+
+|
+
+NL24 |
+
+(c) allant du dernier point mentionné vers la terre une ligne allant de ce point vers le point 53º 59ʹ 56.80ʺ N 6º 6ʹ 28.20ʺ E jusqu'à l'intersection de cette ligne avec la limite de la zone de responsabilité commune de l'Allemagne et des Pays-Bas telle que décrite dans la Partie IV ci-dessous.
+
+4. L'Irlande : la zone de responsabilité de l'Irlande est limitée par la série suivante de lignes :
+
+(a) au nord, par une série de lignes joignant les points mentionnés au tableau 3 dans l'ordre où ils sont énumérés ;
+
+(b) à l'ouest, par la limite vers l'ouest de la région de la mer du Nord ;
+
+(c) à l'est et au sud, par une série de lignes joignant les points mentionnés au tableau 2 dans l'ordre où ils sont énumérés.
+
+5. Les Pays-Bas : la zone de responsabilité nationale des Pays-Bas est limitée, au sud, par le parallèle de latitude 51°51ʹ 52.1267ʺ N et, au nord de ce parallèle, par la série suivante de lignes :
+
+(a) une série de lignes joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE
+
+de la ligne joignant
+
+un point au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+NL1 |
+
+51°51ʹ 52.1267ʺ N |
+
+2º 31ʹ 48.0975ʺ E |
+
+Arc de grand cercle |
+
+UK42 |
+
+NL2 |
+
+51° 59ʹ 00.00ʺ N |
+
+2° 37ʹ 36.00ʺ E |
+
+Arc de grand cercle |
+
+UK41 |
+
+NL3 |
+
+52° 1ʹ 00.00ʺ N |
+
+2° 39ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+UK40 |
+
+NL4 |
+
+52° 5ʹ 18.00ʺ N |
+
+2° 42ʹ 12.00ʺ E |
+
+Arc de grand cercle |
+
+UK39 |
+
+NL5 |
+
+52° 6ʹ 00.00ʺ N |
+
+2° 42ʹ 54.00ʺ E |
+
+Arc de grand cercle |
+
+UK38 |
+
+NL6 |
+
+52° 12ʹ 24.00ʺ N |
+
+2° 50ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+UK37 |
+
+NL7 |
+
+52° 17ʹ 24.00ʺ N |
+
+2° 56ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK36 |
+
+NL8 |
+
+52° 25ʹ 00.00ʺ N |
+
+3° 3ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+UK35 |
+
+NL9 |
+
+52° 37ʹ 18.00ʺ N |
+
+3° 11ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK34 |
+
+NL10 |
+
+52° 47ʹ 00.00ʺ N |
+
+3° 12ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+UK33 |
+
+NL11 |
+
+52° 53ʹ 00.00ʺ N |
+
+3° 10ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+UK32 |
+
+NL12 |
+
+53° 18ʹ 06.00ʺ N |
+
+3° 3ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+UK31 |
+
+NL13 |
+
+53° 28ʹ 12.00ʺ N |
+
+3° 1ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK30 |
+
+NL14 |
+
+53° 35ʹ 06.00ʺ N |
+
+2° 59ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+UK29 |
+
+NL15 |
+
+53° 40ʹ 06.00ʺ N |
+
+2° 57ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+UK28 |
+
+NL16 |
+
+53° 57ʹ 48.00ʺ N |
+
+2° 52ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK27 |
+
+NL17 |
+
+54° 22ʹ 48.00ʺ N |
+
+2° 45ʹ 48.00ʺ E |
+
+Arc de grand cercle |
+
+UK26 |
+
+NL18 |
+
+54° 37ʹ 18.00ʺ N |
+
+2° 53ʹ 54.00ʺ E |
+
+Arc de grand cercle |
+
+UK25 |
+
+NL19 |
+
+55° 45ʹ 54.00ʺ N |
+
+3° 22ʹ 13.00ʺ E |
+
+Arc de grand cercle |
+
+DE8 |
+
+NL20 |
+
+55° 20ʹ 00.00ʺ N |
+
+4° 20ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE9 |
+
+NL21 |
+
+55° 0ʹ 00.00ʺ N |
+
+5° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE10 |
+
+NL22 |
+
+54° 37ʹ 12.00ʺ N |
+
+5° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE11 |
+
+NL23 |
+
+54° 11ʹ 12.00ʺ N |
+
+6° 0ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE12 |
+
+NL24 |
+
+53° 59ʹ 56.80ʺ N |
+
+6° 06ʹ 28.20ʺ E ; |
+
+|
+
+DE13 |
+
+(b) allant du dernier point mentionné vers la terre, une ligne allant de ce point vers le point 53º 59ʹ 56.80ʺ N 6º 6ʹ 28.20ʺ E jusqu'à l'intersection de cette ligne avec la limite de la zone de responsabilité commune de l'Allemagne et des Pays-Bas telle que décrite dans la Partie IV ci-dessous.
+
+6. La Norvège : la zone de responsabilité nationale de la Norvège est limitée au nord par le parallèle de latitude 63°38ʹ10.68ʺN et à l'ouest, au sud et à l'est par la série suivante de lignes :
+
+(a) une série de lignes joignant les points mentionnés au tableau 4 dans l'ordre où ils sont énumérés ;
+
+(b) au sud du dernier point mentionné dans le tableau 4, une série de lignes joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point
+
+au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+NO23 |
+
+56° 5ʹ 12.00ʺ N |
+
+3° 15ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+UK23, DK7 |
+
+NO24 |
+
+56° 35' 30.00ʺ N |
+
+5° 2ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DK8 |
+
+NO25 |
+
+57° 10ʹ 30.00ʺ N |
+
+6° 56ʹ 12.00ʺ E |
+
+Arc de grand cercle |
+
+DK9 |
+
+NO26 |
+
+57° 29ʹ 54.00ʺ N |
+
+7° 59ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DK10 |
+
+NO27 |
+
+57° 37ʹ 06.00ʺ N |
+
+8° 27ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+DK11 |
+
+NO28 |
+
+57° 41ʹ 48.00ʺ N |
+
+8° 53ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+DK12 |
+
+NO29 |
+
+57° 59ʹ 18.00ʺ N |
+
+9° 23ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DK13 |
+
+NO30 |
+
+58° 15ʹ 41.20ʺ N |
+
+10° 1ʹ 48.10ʺ E (point A) |
+
+Arc de grand cercle |
+
+SE4, DK14 |
+
+NO31 |
+
+58° 30ʹ 41.20ʺ N |
+
+10° 8ʹ 46.90ʺ E (point B) |
+
+Arc de grand cercle |
+
+SE5 |
+
+NO32 |
+
+58° 45ʹ 41.30ʺ N |
+
+10° 35ʹ 40.00ʺ E (point C) |
+
+Loxodrome |
+
+SE6 |
+
+NO33 |
+
+58° 53ʹ 34.00ʺ N |
+
+10° 38ʹ 25.00ʺ E (point D) |
+
+|
+
+SE7 |
+
+(c) et ensuite une ligne suivant la limite entre la Norvège et la Suède.
+
+7. La Suède : la zone de responsabilité nationale de la Suède est limitée au sud, par le parallèle de latitude 57° 44ʹ 43.00ʺ N et, au nord de ce parallèle, par une série de lignes
+
+(a) joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point
+
+au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+SE1 |
+
+57° 44ʹ 43.00ʺ N |
+
+11° 7' 04.00ʺ E |
+
+Géodésique |
+
+DK17 |
+
+SE2 |
+
+57° 49' 00.60ʺ N |
+
+11° 2ʹ 55.60ʺ E |
+
+Géodésique |
+
+DK16 |
+
+SE3 |
+
+58° 08ʹ 00.10ʺ N |
+
+10° 32ʹ 32.80ʺ E |
+
+Géodésique |
+
+DK15 |
+
+SE4 |
+
+58° 15ʹ 41.20ʺ N |
+
+10° 1ʹ 48.10ʺ E (point A) |
+
+Arc de grand cercle |
+
+DK14, NO30 |
+
+SE5 |
+
+58° 30ʹ 41.20ʺ N |
+
+10° 8ʹ 46.90ʺ E (point B) |
+
+Arc de grand cercle |
+
+NO31 |
+
+SE6 |
+
+58° 45ʹ 41.30ʺ N |
+
+10° 35ʹ 40.00ʺ E (point C) |
+
+Loxodrome |
+
+NO32 |
+
+SE7 |
+
+58° 53ʹ 34.00ʺ N |
+
+10° 38ʹ 25.00ʺ E (point D) |
+
+|
+
+NO33 |
+
+(b) et ensuite une ligne suivant la limite entre la Suède et la Norvège.
+
+8. Le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord : la zone nationale de responsabilité du Royaume-Uni est limitée :
+
+(a) à l'est, par la série suivante de lignes :
+
+(i) une série de lignes joignant les points énumérés au tableau 4, dans l'ordre où ils sont énumérés ;
+
+(ii) une série de lignes joignant les points suivants dans l'ordre où ils sont énumérés :
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point
+
+au point suivant |
+
+AUTRES POINTS
+
+possédant les mêmes
+
+coordonnées |
+
+UK23 |
+
+56° 5ʹ 12.00ʺ N |
+
+3 15ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NO23, DK7 |
+
+UK24 |
+
+55° 50' 06.00ʺ N |
+
+3° 24ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+DE7 |
+
+UK25 |
+
+54° 37' 18.00ʺ N |
+
+2° 53ʹ 54.00ʺ E |
+
+Arc de grand cercle |
+
+NL18 |
+
+UK26 |
+
+54° 22' 48.00ʺ N |
+
+2° 45' 48.00ʺ E |
+
+Arc de grand cercle |
+
+NL17 |
+
+UK27 |
+
+53° 57ʹ 48.00ʺ N |
+
+2° 52ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL16 |
+
+UK28 |
+
+53° 40ʹ 06.00ʺ N |
+
+2° 57ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+NL15 |
+
+UK29 |
+
+53° 35ʹ 06.00ʺ N |
+
+2° 59ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+NL14 |
+
+UK30 |
+
+53° 28ʹ 12.00ʺ N |
+
+3° 1ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL13 |
+
+UK31 |
+
+53° 18ʹ 06.00ʺ N |
+
+3° 3ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+NL12 |
+
+UK32 |
+
+52° 53ʹ 00.00ʺ N |
+
+3° 10ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+NL11 |
+
+UK33 |
+
+52° 47ʹ 00.00ʺ N |
+
+3° 12ʹ 18.00ʺ E |
+
+Arc de grand cercle |
+
+NL10 |
+
+UK34 |
+
+52° 37ʹ 18.00ʺ N |
+
+3° 11ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL9 |
+
+UK35 |
+
+52° 25ʹ 00.00ʺ N |
+
+3° 3ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+NL8 |
+
+UK36 |
+
+52° 17ʹ 24.00ʺ N |
+
+2° 56ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NL7 |
+
+UK37 |
+
+52° 12ʹ 24.00ʺ N |
+
+2° 50ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+NL6 |
+
+UK38 |
+
+52° 6ʹ 00.00ʺ N |
+
+2° 42ʹ 54.00ʺ E |
+
+Arc de grand cercle |
+
+NL5 |
+
+UK39 |
+
+52° 5ʹ 18.00ʺ N |
+
+2° 42ʹ 12.00ʺ E |
+
+Arc de grand cercle |
+
+NL4 |
+
+UK40 |
+
+52° 1ʹ 00.00ʺ N |
+
+2° 39ʹ 30.00ʺ E |
+
+Arc de grand cercle |
+
+NL3 |
+
+UK41 |
+
+51° 59ʹ 00.00ʺ N |
+
+2° 37ʹ 36.00ʺ E |
+
+Arc de grand cercle |
+
+NL2 |
+
+UK42 |
+
+51°51ʹ 52.1267ʺ N |
+
+2º 31ʹ 48.0975ʺ E |
+
+|
+
+NL1 |
+
+(b) au sud et à l'ouest, par la série de lignes suivante :
+
+(i) une ligne qui part du point le plus à l'ouest des Iles Sorlingues, jusqu'au point 49°52ʹ00.00ʺN 07°44ʹ 00.00ʺO ;
+
+(ii) de ce point, une ligne suivant la ligne de l'Accord de Bonn 1983 (ainsi qu'elle est définie en première partie ci-dessus) allant vers le sud et à l'intersection avec la limite du plateau continental entre la France et le Royaume-Uni, telle que définie dans la sentence arbitrale du 30 juin 1977 ;
+
+(iii) depuis ce point d'intersection, une ligne qui suit cette limite vers l'ouest jusqu'au point 48°10ʹ00.00ʺN 9°22ʹ15.91ʺO ;
+
+(iv) depuis ce point, une série de lignes reliant les points énumérés au tableau 2 dans l'ordre où ils sont énumérés, jusqu'à la limite extérieure de la mer territoriale adjacente à l'Irlande du Nord au point 54° 0ʹ 00.00ʺN et 05°36ʹ20.00ʺO ;
+
+(c) à l'ouest et au nord, par la série de lignes suivante :
+
+(i) une ligne qui relie le point de la mer territoriale adjacent à l'Irlande du Nord le plus proche du point 55° 31ʹ 13.36ʺN 06° 45ʹ 00.00ʺ O avec ce point ;
+
+(ii) depuis ce point, une série de lignes reliant les points énumérés au tableau 3 dans l'ordre où ils sont énumérés, jusqu'au point 56° 42ʹ 00.00ʺN 14° 00ʹ 00.00ʺO ;
+
+(iii) depuis ce point, une ligne qui suit les limites ouest et nord de la région de la mer du Nord jusqu'au point 63°38ʹ10.68ʺN 0°30ʹ00.00ʺO.
+
+Tableau 2. - Points et lignes de la limite entre les zones de responsabilité de l'Irlande et du Royaume-Uni - Est et Sud
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point au point suivant |
+
+IR1/UK50 |
+
+48° 10ʹ 00.00ʺN |
+
+10° 00ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR2/UK51 |
+
+48° 20ʹ00.00ʺN |
+
+10° 00ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR3/UK52 |
+
+48° 20ʹ 00.00ʺN |
+
+09° 48ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR4/UK53 |
+
+48° 30ʹ 00.00ʺN |
+
+09° 48ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR5/UK54 |
+
+48° 30ʹ 00.00ʺN |
+
+09° 36ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR6/UK55 |
+
+48° 50ʹ 00.00ʺN |
+
+09° 36ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR7/UK56 |
+
+48° 50ʹ 00.00ʺN |
+
+09° 24ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR8/UK57 |
+
+49° 0ʹ 00.00ʺN |
+
+09° 24ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR9/UK58 |
+
+49° 0ʹ 00.00ʺN |
+
+09° 17ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR10/UK59 |
+
+49° 10ʹ 00.00ʺN |
+
+09° 17ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR11/UK60 |
+
+49° 10ʹ 00.00ʺN |
+
+09° 12ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR12/UK61 |
+
+49° 20ʹ 00.00ʺN |
+
+9° 12ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR13/UK62 |
+
+49° 20ʹ 00.00ʺN |
+
+9° 3ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR14/UK63 |
+
+49° 30ʹ 00.00ʺN |
+
+9° 3ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR15/UK64 |
+
+49° 30ʹ 00.00ʺN |
+
+8° 54ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR16/UK65 |
+
+49° 40ʹ 00.00ʺN |
+
+8° 54ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR17/UK66 |
+
+49° 40ʹ 00.00ʺN |
+
+8° 45ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR18/UK67 |
+
+49° 50ʹ 00.00ʺN |
+
+8° 45ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR19/UK68 |
+
+49° 50ʹ 00.00ʺN |
+
+8° 36ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR20/UK69 |
+
+50° 0ʹ 00.00ʺN |
+
+8° 36ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR21/UK70 |
+
+50° 0ʹ 00.00ʺN |
+
+8° 24ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR22/UK71 |
+
+50° 10ʹ 00.00ʺN |
+
+8° 24ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR23/UK72 |
+
+50° 10ʹ 00.00ʺN |
+
+8° 12ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR24/UK73 |
+
+50° 20ʹ 00.00ʺN |
+
+8° 12ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR25/UK74 |
+
+50° 20ʹ 00.00ʺN |
+
+8° 0ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR26/UK75 |
+
+50° 30ʹ 00.00ʺN |
+
+8° 0ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR27/UK76 |
+
+50° 30ʹ 00.00ʺN |
+
+7° 36ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR28/UK77 |
+
+50° 40ʹ 00.00ʺN |
+
+7° 36ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR29/UK78 |
+
+50° 40ʹ 00.00ʺN |
+
+7° 12ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR30/UK79 |
+
+50° 50ʹ 00.00ʺN |
+
+7° 12ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR31/UK80 |
+
+50° 50ʹ 00.00ʺN |
+
+7° 3ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR32/UK81 |
+
+51° 0ʹ 00.00ʺN |
+
+7° 3ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR33/UK82 |
+
+51° 0ʹ 00.00ʺN |
+
+6° 48ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR34/UK83 |
+
+51° 10ʹ 00.00ʺN |
+
+6° 48ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR35/UK84 |
+
+51° 10ʹ 00.00ʺN |
+
+6° 42ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR36/UK85 |
+
+51° 20ʹ 00.00ʺN |
+
+6° 42ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR37/UK86 |
+
+51° 20ʹ 00.00ʺN |
+
+6° 33ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR38/UK87 |
+
+51° 30ʹ 00.00ʺN |
+
+6° 33ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR39/UK88 |
+
+51° 30ʹ 00.00ʺN |
+
+6° 18ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR40/UK89 |
+
+51° 40ʹ 00.00ʺN |
+
+6° 18ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR41/UK90 |
+
+51° 40ʹ 00.00ʺN |
+
+6° 6ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR42/UK91 |
+
+51° 50ʹ 00.00ʺN |
+
+6° 6ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR43/UK92 |
+
+51° 50ʹ 00.00ʺN |
+
+6° 0ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR44/UK93 |
+
+51° 54ʹ 00.00ʺN |
+
+6° 0ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR45/UK94 |
+
+51° 54ʹ 00.00ʺN |
+
+5° 57ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR46/UK95 |
+
+51° 58 00.00ʺN |
+
+5° 57ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR47/UK96 |
+
+51° 58ʹ.00.00ʺN |
+
+5° 54ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR48/UK97 |
+
+52° 0ʹ 00.00ʺN |
+
+5° 54ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR49/UK98 |
+
+52° 0ʹ 00.00ʺN |
+
+5° 50ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR50/UK99 |
+
+52° 4ʹ 00.00ʺN |
+
+5° 50ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR51/UK100 |
+
+52° 4ʹ 00.00ʺN |
+
+5° 46ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR52/UK101 |
+
+52° 8ʹ 00.00ʺN |
+
+5° 46ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR53/UK102 |
+
+52° 8ʹ 00.00ʺN |
+
+5° 42ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR54/UK103 |
+
+52° 12ʹ 00.00ʺN |
+
+5° 42ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR55/UK104 |
+
+52° 12ʹ 00.00ʺN |
+
+5° 39ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR56/UK105 |
+
+52° 16ʹ 00.00ʺN |
+
+5° 39ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR57/UK106 |
+
+52° 16ʹ 00.00ʺN |
+
+5° 35ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR58/UK107 |
+
+52° 24ʹ 00.00ʺN |
+
+5° 35ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR59/UK108 |
+
+52° 24ʹ 00.00ʺN |
+
+5° 22ʹ 48.00ʺO |
+
+Méridien de longitude |
+
+IR60/UK109 |
+
+52° 32ʹ 00.00ʺN |
+
+5° 22ʹ 48.00ʺO |
+
+Parallèle de latitude |
+
+IR61/UK110 |
+
+52° 32ʹ 00.00ʺN |
+
+5° 28ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR62/UK111 |
+
+52° 44ʹ 00.00ʺN |
+
+5° 28ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR63/UK112 |
+
+52° 44ʹ 00.00ʺN |
+
+5° 24ʹ 30.00ʺO |
+
+Méridien de longitude |
+
+IR64/UK113 |
+
+52° 52ʹ 00.00ʺN |
+
+5° 24ʹ 30.00ʺO |
+
+Parallèle de latitude |
+
+IR65/UK114 |
+
+52° 52ʹ 00.00ʺN |
+
+5° 22ʹ 30.00ʺO |
+
+Méridien de longitude |
+
+IR66/UK115 |
+
+52° 59ʹ 00.00ʺN |
+
+5° 22ʹ 30.00ʺO |
+
+Parallèle de latitude |
+
+IR67/UK116 |
+
+52° 59ʹ 00.00ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR68/UK117 |
+
+53° 09ʹ 00.00ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR69/UK118 |
+
+53° 09ʹ 00.00ʺN |
+
+5° 20ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR70/UK119 |
+
+53° 26ʹ 00.00ʺN |
+
+5° 20ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR71/UK120 |
+
+53° 26ʹ 00.00ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR72/UK121 |
+
+53° 32ʹ 00.00ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR73/UK122 |
+
+53° 32ʹ 00.00ʺN |
+
+5° 17ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR74/UK123 |
+
+53° 39ʹ 00.00ʺN |
+
+5° 17ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR75/UK124 |
+
+53° 39ʹ 00.00ʺN |
+
+5° 16ʹ 20.40ʺO |
+
+Méridien de longitude |
+
+IR76/UK125 |
+
+53° 42ʹ 08.40ʺN |
+
+5° 16ʹ20.40ʺO |
+
+Parallèle de latitude |
+
+IR77/UK126 |
+
+53° 42ʹ 08.40ʺN |
+
+5° 17ʹ51.00ʺO |
+
+Méridien de longitude |
+
+IR78/UK127 |
+
+53° 44ʹ 24.00ʺN |
+
+5° 17ʹ 51.00ʺO |
+
+Parallèle de latitude |
+
+IR79/UK128 |
+
+53° 44ʹ 24.00ʺN |
+
+5° 19ʹ 19.80ʺO |
+
+Méridien de longitude |
+
+IR80/UK129 |
+
+53° 45ʹ 48.00ʺN |
+
+5° 19ʹ 19.80ʺO |
+
+Parallèle de latitude |
+
+IR81/UK130 |
+
+53° 45ʹ48.00ʺN |
+
+5° 22ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR82/UK131 |
+
+53° 46ʹ00.00ʺN |
+
+5° 22ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR83/UK132 |
+
+53° 46ʹ 00.00ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR84/UK133 |
+
+53° 59ʹ 56.95ʺN |
+
+5° 19ʹ 00.00ʺO |
+
+|
+
+Tableau 3. - Points et lignes de la limite entre les zones de responsabilité de l'Irlande et du Royaume-Uni - Nord
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point au point suivant |
+
+IR85/UK134 |
+
+55° 31ʹ 13.36ʺN |
+
+6° 45ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR86/UK135 |
+
+55° 28ʹ 00.00ʺN |
+
+6° 45ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR87/UK136 |
+
+55° 28ʹ 00.00ʺN |
+
+6° 48ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR88/UK137 |
+
+55° 30ʹ 00.00ʺN |
+
+6° 48ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR89/UK138 |
+
+55° 30ʹ 00.00ʺN |
+
+6° 51ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR90/UK139 |
+
+55° 35ʹ 00.00ʺN |
+
+6° 51ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR91/UK140 |
+
+55° 35ʹ 00.00ʺN |
+
+6° 57ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR92/UK141 |
+
+55° 40ʹ 00.00ʺN |
+
+6° 57ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR93/UK142 |
+
+55° 40ʹ 00.00ʺN |
+
+7° 02ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR94/UK143 |
+
+55° 45ʹ 00.00ʺN |
+
+7° 02ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR95/UK144 |
+
+55° 45ʹ 00.00ʺN |
+
+7° 08ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR96/UK145 |
+
+55° 50ʹ 00.00ʺN |
+
+7° 08ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR97/UK146 |
+
+55° 50ʹ 00.00ʺN |
+
+7° 15ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR98/UK147 |
+
+55° 55ʹ 00.00ʺN |
+
+7° 15ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR99/UK148 |
+
+55° 55ʹ 00.00ʺN |
+
+7° 23ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR100/UK149 |
+
+56° 0ʹ 00.00ʺN |
+
+7° 23ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR101/UK150 |
+
+56° 0ʹ 00.00ʺN |
+
+8° 13ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR102/UK151 |
+
+56° 5ʹ 00.00ʺN |
+
+8° 13ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR103/UK152 |
+
+56° 5ʹ 00.00ʺN |
+
+8° 39ʹ 30.00ʺO |
+
+Méridien de longitude |
+
+IR104/UK153 |
+
+56° 10ʹ 00.00ʺN |
+
+8° 39ʹ 30.00ʺO |
+
+Parallèle de latitude |
+
+IR105/UK154 |
+
+56° 10ʹ 00.00ʺN |
+
+9° 7ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR106/UK155 |
+
+56° 21ʹ 30.00ʺN |
+
+9° 7ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR107/UK156 |
+
+56° 21ʹ 30.00ʺN |
+
+10° 30ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR108/UK157 |
+
+56° 32ʹ 30.00ʺN |
+
+10° 30ʹ 00.00ʺO |
+
+Parallèle de latitude |
+
+IR109/UK158 |
+
+56° 32ʹ 30.00ʺN |
+
+12° 12ʹ 00.00ʺO |
+
+Méridien de longitude |
+
+IR110/UK159 |
+
+56° 42ʹ 00.00ʺN |
+
+12° 12' 00.00ʺO |
+
+Parallèle de latitude |
+
+IR111/UK160 |
+
+56° 42ʹ 00.00ʺN |
+
+14° 00' 00.00ʺO |
+
+|
+
+Tableau 4. - Points et lignes de la limite entre les zones de responsabilité de la Norvège et du Royaume-Uni
+
+POINTS DÉFINISSANT LA LIMITE DE LA ZONE |
+
+NATURE DE LA LIGNE
+
+joignant un point au point suivant |
+
+NO1/UK1 |
+
+63° 38ʹ 10.68ʺN |
+
+0° 10ʹ 59.31ʺ O |
+
+Géodésique |
+
+NO2/UK2 |
+
+63° 3ʹ 20.71ʺN |
+
+0° 28ʹ 12.51ʺ E |
+
+Géodésique |
+
+NO3/UK3 |
+
+62° 58ʹ 21.06ʺN |
+
+0° 33ʹ 31.01ʺ E |
+
+Géodésique |
+
+NO4/UK4 |
+
+62° 53ʹ 29.49ʺN |
+
+0° 38ʹ 27.91ʺ E |
+
+Géodésique |
+
+NO5/UK5 |
+
+62° 44ʹ 16.31ʺN |
+
+0° 47ʹ 27.69ʺ E |
+
+Géodésique |
+
+NO6/UK6 |
+
+62° 39ʹ 57.99ʺN |
+
+0° 51ʹ 29.48ʺ E |
+
+Géodésique |
+
+NO7/UK7 |
+
+62° 36ʹ 20.75ʺN |
+
+0° 54ʹ 44.78ʺ E |
+
+Géodésique |
+
+NO8/UK8 |
+
+62° 32ʹ 47.29ʺN |
+
+0° 57ʹ 48.32ʺ E |
+
+Géodésique |
+
+NO9/UK9 |
+
+62° 30ʹ 09.83ʺN |
+
+1° 0ʹ 05.92ʺ E |
+
+Géodésique |
+
+NO10/UK10 |
+
+62° 27ʹ 32.82ʺN |
+
+1° 2ʹ 17.70ʺ E |
+
+Géodésique |
+
+NO11/UK11 |
+
+62° 24ʹ 56.68ʺN |
+
+1° 4ʹ 25.86ʺ E |
+
+Géodésique |
+
+NO12/UK12 |
+
+62° 22ʹ 21.00ʺN |
+
+1° 6ʹ 28.21ʺ E |
+
+Géodésique |
+
+NO13/UK13 |
+
+62° 19ʹ 40.72ʺN |
+
+1° 8ʹ 30.96ʺ E |
+
+Géodésique |
+
+NO14/UK14 |
+
+62° 16ʹ 43.93ʺN |
+
+1° 10ʹ 40.66ʺ E |
+
+Géodésique |
+
+NO15/UK15 |
+
+61° 44ʹ 12.00ʺN |
+
+1° 33ʹ 13.44ʺ E |
+
+Géodésique |
+
+NO16/UK16 |
+
+61° 44ʹ 12.00ʺN |
+
+1° 33ʹ 36.00ʺ E |
+
+Arc de grand cercle |
+
+NO17/UK 17 |
+
+61° 21ʹ 24.00ʺN |
+
+1° 47ʹ 24.00ʺ E |
+
+Arc de grand cercle |
+
+NO18/UK18 |
+
+59° 53ʹ 48.00ʺ N |
+
+2° 4ʹ 36.00ʺ E |
+
+Arc de grand cercle |
+
+NO19/UK19 |
+
+59° 17ʹ 24.00ʺ N |
+
+1° 42ʹ 42.00ʺ E |
+
+Arc de grand cercle |
+
+NO20/UK20 |
+
+58° 25ʹ 48.00ʺ N |
+
+1° 29ʹ 00.00ʺ E |
+
+Arc de grand cercle |
+
+NO21/UK21 |
+
+57° 54ʹ 18.00ʺ N |
+
+1° 57ʹ 54.00ʺ E |
+
+Arc de grand cercle |
+
+NO22/UK22 |
+
+56° 35ʹ 42.00ʺN |
+
+2° 36ʹ 48.00ʺ E |
+
+Arc de grand cercle |
+
+NO23/UK23 |
+
+56° 5ʹ 12.00ʺ N |
+
+3° 15ʹ 00.00ʺ E |
+
+|
+
+PARTIE IV : LIMITES DES ZONES DE RESPONSABILITÉ COMMUNE
+
+Les zones de responsabilité commune sont les suivantes :
+
+(1) Zone de responsabilité commune de la Belgique, de la France, des Pays-Bas et du Royaume-Uni
+
+La zone maritime située entre 51051ʹ 52.1267ʺ de latitude N et 510 6ʹ 00.00ʺ de latitude N.
+
+(2) Zone de responsabilité commune de la France et du Royaume-Uni
+
+La Manche, au sud-ouest du 510 32ʹ 00.00ʺ de latitude N, jusqu'à une ligne :
+
+(a) qui part du point à l'extrême ouest des Iles Sorlingues, et joint ce point aux coordonnées 49°52'00.00ʺN 7° 44ʹ 00.00ʺO ;
+
+(b) qui, depuis ce dernier point, suit la ligne de l'Accord de Bonn 1983 (telle que définie dans la première partie ci-dessus), vers le sud jusqu'à son intersection avec le parallèle 48027ʹ 00.00ʺ de latitude N ; et ;
+
+(c) qui suit ce parallèle vers l'est jusqu'au point le plus au sud de l'île d'Ouessant.
+
+(3) Zone de responsabilité commune de l'Allemagne et du Danemark
+
+La zone maritime limitée par :
+
+(a) au sud, le parallèle de latitude 540 30ʹ 00.00ʺ N de la côte de l'Allemagne vers l'ouest ;
+
+(b) à l'ouest, le méridien de longitude 60 30ʹ 00.00ʺ E ;
+
+(c) au nord, le parallèle de latitude 550 50ʹ 00.00ʺ N de la côte du Danemark vers l'ouest ; et
+
+(d) à l'est, la côte, y compris la zone de la mer des Wadden.
+
+(4) Zone de responsabilité commune de l'Allemagne et des Pays-Bas
+
+La zone maritime limitée par :
+
+(a) à l'ouest, le méridien de longitude 6° 0ʹ 00.00ʺ E de la côte des Pays-Bas vers le nord ;
+
+(b) au nord, le parallèle de latitude 54° 0ʹ 00.00ʺ N ;
+
+(c) à l'est le méridien de longitude 7° 15ʹ 00.00ʺ E, de la côte de l'Allemagne vers le nord ; et
+
+(d) au sud, la côte, y compris la zone de la mer des Wadden.
+
+PARTIE V : INTERPRÉTATION
+
+Les positions des points mentionnés dans cette annexe sont déterminées conformément au système géodésique européen (version de 1950).
+
+NOTA :
+
+(1) a) Entrée en vigueur de la décision : 1er avril 2010 (sauf pour ce qui concerne les points visés à l'alinéa ci-dessous).
+
+b) Entrée en vigueur, conformément au deuxième alinéa du paragraphe 3 de la décision, i/ des paragraphes 2, 3 et 5 de la partie III de l'annexe à l'accord de Bonn (telle qu'amendée par l'appendice à la décision), ii/ dans la mesure où ils s'appliquent au sud du 61° 0'00.00'' de latitude nord et à l'est du 0° 30'00.00'' de longitude ouest, des paragraphes 6 et 8 de la partie III de l'annexe, et iii/ des points 1, 3 et 4 de la partie IV de l'annexe : 1er juin 2017.
