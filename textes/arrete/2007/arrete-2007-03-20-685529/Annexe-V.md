@@ -10,9 +10,7 @@ Certificat d’aptitude professionnelle poissonnier
 
 |
 
-Certificat d’aptitude professionnelle
-
-Poissonnier
+Certificat d'aptitude professionnelle poissonnier écailler
 
 (présent arrêté)
 
@@ -128,4 +126,4 @@ Langue vivante
 
 (4) Les notes obtenues aux épreuves EP2 technologie professionnelle, EP3 sciences appliquées à l’alimentation et EP4 connaissance de l’entreprise et de son environnement juridique et social du diplôme régi par l’arrêté du 01 septembre 1988 chacune affectée de son coefficient, donnent lieu au calcul d’une note moyenne qui peut être reportée sur l’épreuve UP1 organisation et préparation.
 
-(5) Le report des notes d’enseignement général obtenues avant 2005 est régi par les dispositions de l’arrêtédu 17 juin 2003relatif aux unités générales duCAP.
+(5) Le report des notes d’enseignement général obtenues avant 2005 est régi par les dispositions de l’arrêté du 17 juin 2003relatif aux unités générales duCAP.

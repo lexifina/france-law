@@ -2,9 +2,7 @@
 
 Règlement d’examen
 
-Certificat d’aptitude professionnelle
-
-Poissonnier
+Certificat d'aptitude professionnelle (CAP) poissonnier écailler
 
 |
 

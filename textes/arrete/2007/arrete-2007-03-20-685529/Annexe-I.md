@@ -10,7 +10,7 @@ Champ d’activité
 
 Définition
 
-Le titulaire du certificat d’aptitude professionnelle (CAP) Poissonnier assure la réception, le stockage des produits livrés, la transformation et la commercialisation des produits de la mer et de certains poissons d’eau douce, dans le respect des règles d’hygiène, de santé, de sécurité au travail et de traçabilité, conformément aux exigences réglementaires en vigueur.
+Le titulaire du certificat d'aptitude professionnelle (CAP) poissonnier écailler assure la réception, le stockage des produits livrés, la transformation et la commercialisation des produits de la mer et de certains poissons d’eau douce, dans le respect des règles d’hygiène, de santé, de sécurité au travail et de traçabilité, conformément aux exigences réglementaires en vigueur.
 
 Il présente et met en valeur les divers produits, assure en autonomie et intégralement l’acte de vente.
 
