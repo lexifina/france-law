@@ -20,11 +20,11 @@ Groupe 3 :
 
 Groupe 4 :
 
-- les aéronefs dont la certification acoustique répond aux normes énoncées aux chapitres 3, 4 ou 5 de la deuxième partie du premier volume de l'annexe 16 susvisée et dont la marge corrigée est supérieure ou égale à 8 EPNdB et inférieure à 13 EPNdB ;
+- les aéronefs dont la certification acoustique répond aux normes énoncées au chapitre 3,4,5 ou 14 de la deuxième partie du premier volume de l'annexe 16 susvisée et dont la marge corrigée est supérieure ou égale à 8 EPNdB et inférieure à 13 EPNdB ;
 
 Groupe 5a :
 
-- les aéronefs dont la certification acoustique répond aux normes énoncées aux chapitres 3, 4 ou 5 de la deuxième partie du premier volume de l'annexe 16 susvisée et dont la marge corrigée est supérieure ou égale à 13 EPNdB ;
+- les aéronefs dont la certification acoustique répond aux normes énoncées au chapitre 3,4,5 ou 14 de la deuxième partie du premier volume de l'annexe 16 susvisée et dont la marge corrigée est supérieure ou égale à 13 EPNdB ;
 
 Groupe 5b :
 
