@@ -4,7 +4,7 @@ REMUNERATION SUR OBJECTIFS DE SANTE PUBLIQUE
 
 Article 1 Modalités de calcul de la rémunération
 
-Le dispositif de rémunération sur objectifs de santé publique comporte 29 indicateurs pour les médecins traitants des patients âgés de seize et plus, 10 indicateurs pour les médecins traitants des patients âgés de moins de seize ans, 9 indicateurs pour les médecins spécialistes en cardiologie et maladies vasculaires et 8 indicateurs pour les médecins spécialistes en gastro-entérologie et hépatologie.
+Le dispositif de rémunération sur objectifs de santé publique comporte 29 indicateurs pour les médecins traitants des patients âgés de seize et plus, 10 indicateurs pour les médecins traitants des patients âgés de moins de seize ans, 9 indicateurs pour les médecins spécialistes en cardiologie et maladies vasculaires et 8 indicateurs pour les médecins spécialistes en gastro-entérologie et hépatologie et 8 indicateurs pour les médecins spécialistes en endocrinologie, diabétologie et nutrition.
 
 Les indicateurs s’appuient d’une part sur des données issues des bases de remboursement de l’Assurance maladie et, d’autre part sur des données de suivi clinique déclarées par les médecins.
 
@@ -62,7 +62,7 @@ Le nombre de patients ainsi comptabilisé est arrêté au 31 décembre de l’an
 
 La pondération par la patientèle permet de prendre en compte le volume de celle-ci et de valoriser différemment deux médecins qui, pour un même taux de réalisation, ont des patientèles de tailles différentes.
 
-Le nombre de points maximum de chaque indicateur est défini pour une patientèle moyenne de référence de 800 patients pour les médecins traitants des patients de seize ans et plus, 600 patients pour les médecins traitants des patients âgés de moins de 16 ans. et ou 800 patients pour les médecins spécialistes en cardiologie et pathologies vasculaires et 1 100 patients pour les médecins spécialistes en gastro-entérologie et hépatologie. Ainsi, la rémunération est égale au nombre de points multiplié par le taux de réalisation pour l’indicateur, pondéré par le rapport entre la patientèle médecin traitant déclarante ou correspondante et la patientèle moyenne de référence et multiplié par la valeur du point.
+Le nombre de points maximum de chaque indicateur est défini pour une patientèle moyenne de référence de 800 patients pour les médecins traitants des patients de seize ans et plus, 600 patients pour les médecins traitants des patients âgés de moins de 16 ans. et ou 800 patients pour les médecins spécialistes en cardiologie et pathologies vasculaires et 1 100 patients pour les médecins spécialistes en gastro-entérologie et hépatologie et 1 000 patients pour les médecins spécialistes en endocrinologie, diabétologie et nutrition. Ainsi, la rémunération est égale au nombre de points multiplié par le taux de réalisation pour l’indicateur, pondéré par le rapport entre la patientèle médecin traitant déclarante ou correspondante et la patientèle moyenne de référence et multiplié par la valeur du point.
 
 Pour les médecins traitants des patients âgés de moins de seize ans :
 
@@ -72,9 +72,9 @@ Pour les médecins traitants des patients âgés de seize ans et plus :
 
 Rémunération calculée = nombre de points × taux de réalisation × (patientèle déclarante/800) × 7€.
 
-Pour les médecins spécialistes en cardiologie et gastro-entérologie :
+Pour les médecins spécialistes en cardiologie, gastro-entérologie et endocrinologie :
 
-Rémunération calculée = nombre de points x taux de réalisation x [(patientèle correspondante)/800 ou 1 100] x 7€
+Rémunération calculée = nombre de points × taux de réalisation × [ (patientèle correspondante /800 ou 1 100 ou 1 000) ] × 7€.
 
 ► Pour les médecins nouveaux installés :
 
@@ -2625,3 +2625,311 @@ Total |
 |
 
 300 |
+
+Article 2.4 Indicateurs pour les médecins spécialistes en endocrinologie, diabétologie et nutrition
+
+La patientèle utilisée est la patientèle dite " correspondante ". Elle est constituée des patients de l'ensemble des régimes d'assurance maladie obligatoire pour lesquels au moins deux actes ont été réalisés et facturés par le spécialiste en endocrinologie, diabétologie et nutrition au cours des deux années civiles précédentes.
+
+La patientèle correspondante est mise à jour tous les semestres. Les indicateurs sont ainsi calculés sur une patientèle qui a " eu recours " à des soins.
+
+Pour les indicateurs de pratique clinique déclaratifs, les données déclarées par le médecin portent sur l'ensemble des patients qu'il suit.
+
+Indicateurs de suivi des pathologies chroniques :
+
+Les prescriptions retenues pour le calcul de ces indicateurs comprennent l'ensemble des prescriptions faites aux patients de la patientèle correspondante, quel que soit le prescripteur.
+
+- Indicateur : Part des patients diabétiques de moins de 70 ans traités par insuline seule qui sont traités selon un schéma de " basal bolus "
+
+Dénominateur : nombre de patients de la patientèle correspondante, < 70 ans, traités par insuline seule
+
+Numérateur : nombre de patients de la patientèle correspondante, < 70 ans, ayant :
+
+- soit au moins 1 délivrance d'insuline lente/intermédiaire et d'insuline rapide pendant au moins 2 trimestres et avec au moins une ordonnance (même prescripteur, même patient, même date de prescription) dans l'année avec prescription d'insuline lente/intermédiaire et d'insuline rapide,
+
+- soit une délivrance d'une pompe à insuline
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 5 patients de la patientèle correspondante < 70 ans traités par insuline seule
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients diabétiques : patients dont le nombre de délivrances d'antidiabétiques est, sur la période de calcul, supérieur ou égal à 3 pour les petits conditionnements ou 2 s'il y a eu un grand conditionnement.
+
+- antidiabétiques : tous les médicaments de la classe ATC2 A10
+
+- insuline lente/intermédiaire : médicaments des classes EPHMRA A10C2 ou A10C5
+
+- insuline rapide : médicaments de la classe EPHMRA A10C1
+
+- pompe à insuline : codes LPP 1121332, 1120663, 1130058 avant le 01/08/15, 1131170, 1120663 entre le 01/08/15 et 02/16 et 1117201, 1131170, 1120663 à partir de 02/16
+
+- Indicateur : Part des patients diabétiques pris en charge pour le dépistage des complications du diabète et/ou intensification des traitements avec compte-rendu annuel pour le médecin traitant précisant la gradation des risques (cardio-vasculaire, podologique et néphrologique), les objectifs thérapeutiques et la programmation du suivi des complications
+
+Dénominateur : nombre de patients de la patientèle correspondante traités par antidiabétiques
+
+Numérateur : nombre de patients de la patientèle correspondante traités par antidiabétiques ayant eu un compte-rendu annuel réalisé pour le médecin traitant précisant la gradation des risques, les objectifs thérapeutiques et la programmation du suivi des complications.
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 10 patients de la patientèle correspondante traités par antidiabétiques
+
+Fréquence de mise à jour des données : déclaration annuelle
+
+Définitions : indicateur déclaratif
+
+- Indicateur : Part des patients opérés d'un cancer thyroïdien (hors cancer médullaire) durant les dix années précédentes qui ont eu un dosage de la thyroglobuline et des anticorps anti-thyroglobuline dans l'année
+
+Dénominateur : nombre de patients de la patientèle correspondante ayant été opérés d'un cancer de la thyroïde entre l'année N-1 et l'année N-9
+
+Numérateur : nombre de patients de la patientèle correspondante ayant eu un dosage de la thyroglobuline et des anticorps anti-thyroglobuline l'année N
+
+Période de calcul : 12 mois glissants (et 9 ans de séjours PMSI)
+
+Seuil minimum : 5 patients de la patientèle correspondante ayant été opérés d'un cancer de la thyroïde entre l'année N-1 et l'année N-9
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients opérés d'un cancer de la thyroïde : patients ayant eu un séjour en MCO avec
+
+DP/DR/DA : D093, D440 ou C73
+
+et actes CCAM : KCFA001, KCFA002, KCFA003, KCFA004, KCFA005, KCFA006, KCFA007, KCFA008, KCFA009, KCFA010, KCGA001 ou KCMA001
+
+- dosage de la thyroglobuline : code NABM 0821
+
+- dosage des anticorps anti-thyroglobuline : code NABM 1483 ou 1484
+
+- Indicateur : Part des patients ayant eu une cytoponction avant intervention parmi les patients opérés d'un nodule thyroïdien
+
+Dénominateur : nombre de patients de la patientèle correspondante opérés d'un nodule thyroïdien (bénin ou malin) l'année N-1
+
+Numérateur : nombre de patients de la patientèle correspondante ayant eu une cytoponction dans les 6 mois avant chirurgie thyroïdienne [6 mois entre cytoponction et début du 1er séjour MCO en N-1]
+
+Période de calcul : 1 an de séjour MCO avec thyroïdectomie [N-1] et 1 an 1/2 de liquidation des cytoponctions réalisées en ville, en consultation externe ou lors de séjours hospitaliers [N-1 à N-2]
+
+Seuil minimum : 5 patients de la patientèle correspondante ayant été opérés d'un nodule thyroïdien
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients opérés d'un nodule thyroïdien : patients ayant eu un séjour en MCO avec
+
+DP/DR/DA : E041, D34, D357, D358, D359, D093, D440 ou C73
+
+et actes CCAM : KCFA001, KCFA002, KCFA003, KCFA004, KCFA005, KCFA006, KCFA007, KCFA008, KCFA009, KCFA010, KCGA001 ou KCMA001
+
+- Cytoponction : actes CCAM KCHB001, KCHJ001, KCHJ002, KCHJ003 ou KCHJ004
+
+- Indicateur : Part des patients diagnostiqués pour une maladie de Basedow sans recourir à la scintigraphie thyroïdienne (dosage positif des anticorps anti-récepteurs de la TSH)
+
+Dénominateur : nombre de patients de la patientèle correspondante diagnostiqués maladie de Basedow
+
+Numérateur : nombre de patients de la patientèle correspondante ayant eu une scintigraphie thyroïdienne pour poser le diagnostic
+
+Période de calcul : 12 mois glissants
+
+Seuil minimum : 10 patients de la patientèle correspondante présentant une maladie de Basedow
+
+Fréquence de mise à jour des données : déclaration annuelle
+
+Définitions : indicateur déclaratif
+
+Indicateurs de prévention :
+
+Les prescriptions prises en compte pour ces indicateurs, intègrent l'ensemble des prescriptions faites aux patients de la patientèle correspondante, quel que soit le prescripteur
+
+- Indicateur : Part des patients diabétiques ayant bénéficié de soins de podologie (POD) qui ont eu au moins 4 POD sur 12 mois
+
+Dénominateur : nombre de patients de la patientèle correspondante traités par antidiabétiques ayant eu au moins un POD pris en charge dans l'année
+
+Numérateur : nombre de patients de la patientèle correspondante traités par antidiabétiques ayant eu au moins trois POD dans les 12 mois précédents le dernier POD (quatre au total)
+
+Période de calcul : 24 mois glissants
+
+Seuil minimum : 5 patients de la patientèle correspondante traités par antidiabétiques ayant eu au moins un POD pris en charge dans l'année
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients diabétiques : patients dont le nombre de délivrances d'antidiabétiques est, sur la période de calcul, supérieur ou égal à 3 pour les petits conditionnements ou 2 s'il y a eu un grand conditionnement.
+
+- antidiabétiques : tous les médicaments de la classe ATC2 A10
+
+- POD : prestation de soins de podologie
+
+Indicateurs d'efficience :
+
+Les prescriptions prises en compte pour ces indicateurs intègrent uniquement les prescriptions faites par le professionnel concerné par la ROSP et non celles d'autres médecins.
+
+- Indicateur : Part des patients diabétiques de moins de 80 ans initiant un traitement par insuline qui sont autonomes d'emblée pour leur injection
+
+Dénominateur : nombre de patients de la patientèle correspondante traités par antidiabétiques, <80 ans, initiant un traitement par insuline (sans insuline sur 6 mois avant 1ère délivrance)
+
+Numérateur : nombre de patients de la patientèle correspondante traités par antidiabétiques, <80 ans, autonomes dès l'initiation de traitement (0 jour avec [ (AMI1+IFD) ou (AIS3+IFD) ] )
+
+Période de calcul : 19 mois glissants
+
+Seuil minimum : 5 patients de la patientèle correspondante traités par antidiabétiques, <80 ans, initiant un traitement par insuline
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients diabétiques : patients dont le nombre de délivrances d'antidiabétiques est, sur la période de calcul, supérieur ou égal à 3 pour les petits conditionnements ou 2 s'il y a eu un grand conditionnement.
+
+- antidiabétiques : tous les médicaments de la classe ATC2 A10
+
+- insuline : médicaments des classes EPHMRA A10C1, A10C2 ou A10C5
+
+- actes infirmiers pour cibler l'autonomie : prestations AMI1, AIS3, IFD
+
+- Indicateur : Part des patients diabétiques de moins de 80 ans mis sous insuline l'année N-1 pour lesquels l'initiation de traitement a été faite à l'hôpital (dégressif)
+
+Dénominateur : nombre de patients de la patientèle correspondante traités par antidiabétiques, < 80 ans, initiant un traitement par insuline en N-1 (sans insuline sur 6 mois avant 1re délivrance)
+
+Numérateur : nombre de patients de la patientèle correspondante traités par antidiabétiques, < 80 ans pour lesquels le délai entre la fin du séjour MCO (avec DP/DR/DA de diabète) et le 1er remboursement d'insuline est entre +1 mois et -1 mois
+
+Période de calcul : 18 mois glissants
+
+Seuil minimum : 5 patients de la patientèle correspondante traités par antidiabétiques, < 80 ans, initiant un traitement par insuline en N-1
+
+Fréquence de mise à jour des données : semestrielle
+
+Définitions :
+
+- Patients diabétiques : patients dont le nombre de délivrances d'antidiabétiques est, sur la période de calcul, supérieur ou égal à 3 pour les petits conditionnements ou 2 s'il y a eu un grand conditionnement.
+
+- antidiabétiques : tous les médicaments de la classe ATC2 A10
+
+- insuline : médicaments des classes EPHMRA A10C1, A10C2 ou A10C5
+
+- séjours MCO pour diabète : DP/DR/DA E10, E11, E12, E13 ou E14
+
+Thème |
+
+Sous-thème |
+
+Indicateur |
+
+Objectif intermédiaire |
+
+Objectif cible |
+
+Seuil minimal |
+
+Nombre de points |
+
+Suivi des pathologies chroniques |
+
+Diabète |
+
+Part des patients diabétiques de moins de 70 ans traités par insuline seule qui sont traités selon un schéma de " basal bolus " |
+
+87 % |
+
+≥ 92 % |
+
+5 patients |
+
+30 |
+
+Part des patients diabétiques pris en charge pour le dépistage des complications du diabète et/ou l'intensification des traitements, avec compte-rendu annuel pour le médecin traitant précisant la gradation des risques (cardio-vasculaire, podologique et néphrologique), les objectifs thérapeutiques et la programmation du suivi des complications. Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+10 patients |
+
+20 |
+
+Thyroïde |
+
+Part des patients opérés d'un cancer thyroïdien (hors cancer médullaire) durant les dix années précédentes qui ont eu un dosage de la thyroglobuline et des anticorps anti-thyroglobuline dans l'année |
+
+79 % |
+
+≥ 89 % |
+
+5 patients |
+
+50 |
+
+Part des patients ayant eu une cytoponction avant intervention parmi les patients opérés d'un nodule thyroïdien |
+
+60 % |
+
+≥ 77 % |
+
+5 patients |
+
+50 |
+
+Part des patients diagnostiqués pour une maladie de Basedow sans recourir à la scintigraphie thyroïdienne (dosage positif des anticorps anti-récepteurs de la TSH) Déclaratif |
+
+80 % |
+
+≥ 95 % |
+
+10 patients |
+
+20 |
+
+Prévention |
+
+Diabète |
+
+Part des patients diabétiques ayant bénéficié de soins de podologie (POD) qui ont eu au moins 4 POD sur 12 mois |
+
+54 % |
+
+≥ 61 % |
+
+5 patients |
+
+30 |
+
+Efficience des prescriptions |
+
+Diabète |
+
+Part des patients diabétiques de moins de 80 ans initiant un traitement par insuline qui sont autonomes d'emblée pour leur injection |
+
+80 % |
+
+≥ 91 % |
+
+5 patients |
+
+70 |
+
+Part des patients diabétiques de moins de 80 ans mis sous insuline l'année N-1 pour lesquels l'initiation de traitement a été faite à l'hôpital (dégressif) |
+
+13 % |
+
+5 % |
+
+5 patients |
+
+70 |
+
+Total |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+340 |
