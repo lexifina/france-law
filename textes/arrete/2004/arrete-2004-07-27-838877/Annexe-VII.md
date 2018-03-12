@@ -44,6 +44,8 @@ La décision d'annulation d'agrément est notifiée simultanément au contrôleu
 
 Dans le cas où un nouvel agrément est sollicité suite à l'annulation d'un agrément précédent, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies.
 
+L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé le contrôleur, dans le cadre de l'article 19 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du contrôleur et qu'aucune suspension d'agrément n'a été notifiée.
+
 4.1.3. Le non-respect des prescriptions relatives au maintien de qualification pour les véhicules de transport de marchandises prévues à l'annexe IV.
 
 Dans ces cas, l'annulation de l'agrément est prononcée sur demande du bénéficiaire de l'agrément, du centre de rattachement ou du réseau de rattachement.
@@ -160,7 +162,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête.
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois.
+2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle.
 
 3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2012.
 
@@ -172,11 +174,13 @@ b) Un plan de situation permettant d'identifier l'emprise immobilière et la zon
 
 c) Un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et indiquant l'emplacement des matériels de contrôle ;
 
-d) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe ;
+d) (supprimé)
 
 e) Les procédures prévues au paragraphe 1.2 de l'annexe V du présent arrêté ;
 
 f) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
+
+g) L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 5. Les références techniques permettant d'apprécier l'expérience du demandeur dans le domaine du contrôle technique.
 
@@ -208,11 +212,11 @@ Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément d
 
 La décision d'annulation d'agrément est notifiée simultanément au titulaire de l'agrément et à l'organisme technique central.
 
+L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé l'exploitant du centre, dans le cadre de l'article 25 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du centre et qu'aucune suspension d'agrément n'a été notifiée.
+
 4.2. Le titulaire de l'agrément du centre de contrôle signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui leur sont imposées.
 
 Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 25 et 25-1.
-
-L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé l'exploitant du centre, dans le cadre de l'article 25 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du centre et qu'aucune suspension d'agrément n'a été notifiée.
 
 4.3. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
