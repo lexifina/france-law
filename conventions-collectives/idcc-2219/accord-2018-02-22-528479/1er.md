@@ -1,0 +1,11 @@
+# Article 1er
+
+La présente convention collective et accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises dont l'activité principale est une activité de taxis répertoriées sous la nomenclature code 49. 32Z et soumises au code des transports, notamment :
+
+– transport de voyageurs par taxis, y compris services des centrales de réservation ;
+
+– le transport par taxi non médicalisé de personnes à mobilité réduite ;
+
+– les radio-taxis.
+
+La présente convention collective nationale et accords qui y sont annexés sont applicables à l'ensemble du territoire métropolitain, les départements et régions d'outre-mer et les collectivités d'outre-mer (Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon).
