@@ -1,0 +1,73 @@
+# Nouveau pacte ferroviaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36460
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/nouveau_pacte_ferroviaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-435.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-03-14 : 1er dépôt d'une initiative. (PRJLANR5L15B0764)
+  - 2018-03-14 : Etude d'impact (ETDIANR5L15B0764)
+  - 2018-03-14 : Avis du Conseil d'Etat (AVCEANR5L15B0764)
+  - 2018-03-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-14 : Renvoi en commission au fond
+      - 2018-03-14 : Nomination de rapporteur
+      - 2018-04-03 : Réunion de commission
+      - 2018-04-03 : Réunion de commission
+      - 2018-04-04 : Réunion de commission
+      - 2018-04-04 : Réunion de commission
+      - 2018-04-09 : Réunion de commission
+      - 2018-04-05 : Dépôt de rapport (RAPPANR5L15B0851, PRJLANR5L15BTC0851)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-16 : Saisine pour avis d'une commission
+      - 2018-03-14 : Nomination de rapporteur
+      - 2018-04-03 : Réunion de commission
+      - 2018-04-03 : Dépôt de rapport (AVISANR5L15B0842)
+  - Discussion en séance publique
+    - 2018-04-09 : Discussion en séance publique
+    - 2018-04-09 : Discussion en séance publique
+    - 2018-04-10 : Discussion en séance publique
+    - 2018-04-10 : Discussion en séance publique
+    - 2018-04-11 : Discussion en séance publique
+    - 2018-04-11 : Discussion en séance publique
+    - 2018-04-12 : Discussion en séance publique
+    - 2018-04-12 : Discussion en séance publique
+    - 2018-04-17 : Discussion en séance publique
+    - 2018-04-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-04-18 : Dépôt d'une initiative en navette (PRJLSNR5S299B0435)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-05-23 : Dépôt de rapport (RAPPSNR5S299B0494, PRJLSNR5S299BTC0495)
+  - Discussion en séance publique
+    - 2018-05-29 : Discussion en séance publique
+    - 2018-05-30 : Discussion en séance publique
+    - 2018-05-31 : Discussion en séance publique
+    - 2018-06-05 : Discussion en séance publique
+    - 2018-06-05 : Décision
+- Commission Mixte Paritaire
+  - 2018-06-06 : Dépôt d'un projet de loi (PRJLANR5L15B1023)
+  - 2018-06-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-06-11 : Nomination de rapporteur
+    - 2018-06-11 : Dépôt du rapport d'une CMP (RAPPANR5L15B1049, PRJLANR5L15BTC1049)
+    - 2018-06-11 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0560, PRJLSNR5S299BTC0561)
+  - Discussion en séance publique
+    - 2018-06-13 : Discussion en séance publique
+    - 2018-06-13 : Discussion en séance publique
+    - 2018-06-13 : Décision
+  - Discussion en séance publique
+    - 2018-06-14 : Discussion en séance publique
+    - 2018-06-14 : Décision
+  - 2018-06-11 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-06-27 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2019-04-11 : Rapport sur l'application des lois (RINFANR5L15B1870)
