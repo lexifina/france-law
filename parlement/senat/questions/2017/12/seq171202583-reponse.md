@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202583
+
+- Question : [SEQ171202583](seq171202583.md) — Situation de la psychiatrie en Guadeloupe
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-03-15, page 1248*
+
+Le ministère des solidarités et de la santé est pleinement engagé dans la mise en place d'une politique de santé mentale de qualité en Guadeloupe. Afin d'améliorer l'attractivité de la psychiatrie en Guadeloupe, l'agence régionale de santé (ARS) a mené des actions spécifiques en matière de personnel, notamment par : son engagement à rémunérer jusqu'à quatre postes de clinicat ; la publication de onze postes prioritaires de praticiens hospitaliers (PH) en psychiatrie polyvalente en septembre 2017 ; la mise en œuvre en 2017 d'une convention permettant au centre hospitalier de Montéran (CHM) de recruter des PH pour le compte du CHU de Pointe-à-Pitre ; la mise en place de conditions spécifiques d'accueil des nouveaux PH avec la prise en charge du transport et la mise à disposition d'un logement durant les deux premiers mois de service. Par ailleurs, la création de l'établissement public de santé mentale (EPSM) est effective depuis le 1er janvier 2018. S'agissant du projet territorial de santé mentale (PTSM), les travaux d'élaboration sont en cours et mobilisent l'ensemble des acteurs concernés par la santé mentale et la psychiatrie du territoire. Ce projet sera finalisé d'ici à la fin du troisième trimestre 2018. Dès à présent, l'ARS mène des actions afin de négocier des contrats locaux de santé avec les communautés d'agglomération de Guadeloupe. Des conseils locaux de santé mentale sont mis en place dans ce cadre. Ces deux outils visent à assurer une meilleure articulation entre les acteurs, un partage des problématiques et un traitement globalisé des questions de psychiatrie et de santé mentale.
