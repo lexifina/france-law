@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202530
+
+- Question : [SEQ171202530](seq171202530.md) — Revalorisation du coefficient géographique aux Antilles et en Guyane
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-03-15, page 1248*
+
+La ministre des solidarités et de la santé est particulièrement attentive à la réduction des inégalités d'accès aux soins et à la situation des territoires d'outre-mer. La réglementation prévoit en effet que des coefficients géographiques viennent compenser des surcoûts propres à certaines zones géographiques. Cette question a fait l'objet de travaux techniques en 2016 qui ont abouti à une hausse des coefficients géographiques à hauteur d'un point pour les départements des Antilles et de trois points pour la Guyane en 2017. Au-delà de ces avancées, la ministre des solidarités et de la santé a souhaité inscrire au sein de la Stratégie nationale de santé des dispositions spécifiques aux départements d'outre-mer. L'objectif est de mieux prendre en compte les problématiques sanitaires de ces territoires, d'y apporter des réponses adaptées et de renforcer la qualité des soins. Il s'agit également de mettre en place des organisations plus efficientes dans le but notamment de renforcer l'attractivité de ces territoires pour les professionnels de santé, mais aussi d'agir sur certains postes de surcoûts supportés par les établissements de santé. Réduire ou obtenir l'exemption des taxes d'octroi de mers appliquées sur les produits de santé, optimiser les évacuations sanitaires ou encore renforcer la coopération régionale de façon à développer les synergies entre territoires d'outre-mer en termes d'investissement et d'équipements sont autant de mesures qui seront de nature à améliorer l'accès aux soins et à réduire les charges des établissements de santé et de la collectivité.
