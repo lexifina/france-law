@@ -1,0 +1,77 @@
+# Lutte contre la manipulation des informations
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N36468
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_fausses_informations
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-629.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-03-16 : 1er dépôt d'une initiative. (PIONANR5L15B0772)
+  - 2018-03-16 : Avis du Conseil d'Etat (AVCEANR5L15B0772)
+  - 2018-03-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-16 : Renvoi en commission au fond
+      - 2018-04-04 : Nomination de rapporteur
+      - 2018-04-04 : Réunion de commission
+      - 2018-05-22 : Réunion de commission
+      - 2018-05-23 : Réunion de commission
+      - 2018-05-23 : Dépôt de rapport (RAPPANR5L15B0974, PIONANR5L15BTC0974)
+  - Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-07-03 : Discussion en séance publique
+    - 2018-07-03 : Discussion en séance publique
+    - 2018-07-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-07-04 : Dépôt d'une initiative en navette (PIONSNR5S299B0629)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-04 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-07-17 : Dépôt de rapport (RAPPSNR5S299B0668, PIONSNR5S299BTC0669)
+  - Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-09-26 : Nomination de rapporteur
+    - 2018-09-26 : Dépôt du rapport d'une CMP (RAPPANR5L15B1260)
+    - 2018-09-26 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0734, PIONSNR5S299BTC0735)
+  - 2018-09-26 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-07-26 : Dépôt d'une initiative en navette (PIONANR5L15B1218)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-26 : Renvoi en commission au fond
+      - 2018-10-02 : Dépôt de rapport (RAPPANR5L15B1268, PIONANR5L15BTC1268)
+  - Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-09 : Décision
+- Nouvelle Lecture
+  - 2018-10-10 : Dépôt d'une initiative en navette (PIONSNR5S319B0029)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-10 : Renvoi en commission au fond
+      - 2018-10-17 : Dépôt de rapport (RAPPSNR5S319B0054, PIONSNR5S319BTC0055)
+  - Discussion en séance publique
+    - 2018-11-06 : Discussion en séance publique
+    - 2018-11-06 : Décision
+- Lecture définitive
+  - 2018-11-06 : Dépôt d'une initiative en navette (PIONANR5L15BTA0181)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-06 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-11-20 : Discussion en séance publique
+    - 2018-11-20 : Décision
+- Conseil constitutionnel
+  - 2018-11-21 : Saisine du conseil constitutionnel
+  - 2018-12-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-12-22 : Promulgation d'une loi
