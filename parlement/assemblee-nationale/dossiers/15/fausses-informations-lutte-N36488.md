@@ -1,0 +1,94 @@
+# Lutte contre la manipulation de l'information
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36488
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/fausses_informations_lutte
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-623.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-03-21 : 1er dépôt d'une initiative. (PIONANR5L15B0799)
+  - 2018-03-21 : Avis du Conseil d'Etat (AVCEANR5L15B0799)
+  - 2018-03-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-21 : Renvoi en commission au fond
+      - 2018-03-28 : Nomination de rapporteur
+      - 2018-05-22 : Réunion de commission
+      - 2018-05-30 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-05-30 : Dépôt de rapport (RAPPANR5L15B0990, PIONANR5L15BTC0990)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-22 : Saisine pour avis d'une commission
+      - 2018-04-04 : Nomination de rapporteur
+      - 2018-04-04 : Réunion de commission
+      - 2018-05-23 : Dépôt de rapport (AVISANR5L15B0978)
+  - Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-07-03 : Discussion en séance publique
+    - 2018-07-03 : Discussion en séance publique
+    - 2018-07-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-07-04 : Dépôt d'une initiative en navette (PIONSNR5S299B0623)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-04 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-07-18 : Dépôt de rapport (RAPPSNR5S299B0677, PIONSNR5S299BTC0678)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-15 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-07-17 : Dépôt de rapport (AVISSNR5S299B0667)
+  - Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-09-26 : Nomination de rapporteur
+    - 2018-09-26 : Dépôt du rapport d'une CMP (RAPPANR5L15B1257)
+    - 2018-09-26 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0731, PIONSNR5S299BTC0732)
+  - 2018-09-26 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-07-26 : Dépôt d'une initiative en navette (PIONANR5L15B1219)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-26 : Renvoi en commission au fond
+      - 2018-10-03 : Réunion de commission
+      - 2018-10-03 : Réunion de commission
+      - 2018-10-09 : Réunion de commission
+      - 2018-10-03 : Dépôt de rapport (RAPPANR5L15B1269, PIONANR5L15BTC1269)
+    - Travaux d'une commission saisie pour avis
+      - 2018-03-22 : Saisine pour avis d'une commission
+      - 2018-09-27 : Nomination de rapporteur
+      - 2018-10-03 : Dépôt de rapport (AVISANR5L15B1289)
+  - Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-09 : Décision
+- Nouvelle Lecture
+  - 2018-10-10 : Dépôt d'une initiative en navette (PIONSNR5S319B0030)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-10 : Renvoi en commission au fond
+      - 2018-10-24 : Dépôt de rapport (RAPPSNR5S319B0075, PIONSNR5S319BTC0076)
+  - Discussion en séance publique
+    - 2018-11-06 : Discussion en séance publique
+    - 2018-11-06 : Décision
+- Lecture définitive
+  - 2018-11-06 : Dépôt d'une initiative en navette (PIONANR5L15BTA0180)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-06 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2018-11-20 : Discussion en séance publique
+    - 2018-11-20 : Décision
+- Conseil constitutionnel
+  - 2018-11-21 : Saisine du conseil constitutionnel
+  - 2018-11-21 : Saisine du conseil constitutionnel
+  - 2018-12-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-12-22 : Promulgation d'une loi
