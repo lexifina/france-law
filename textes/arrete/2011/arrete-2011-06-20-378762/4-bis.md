@@ -18,4 +18,6 @@ Les attributions des commissions administratives paritaires locales sont investi
 
 - refus du bénéfice d'un congé pour la formation professionnelle ;
 
+- refus d'une demande de mobilisation du compte personnel de formation ;
+
 - refus du bénéfice d'un congé pour la formation syndicale.
