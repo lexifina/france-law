@@ -1,0 +1,57 @@
+# Lutte contre les violences sexuelles et sexistes
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36496
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_violences_sexuelles_sexistes
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-487.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-03-21 : 1er dépôt d'une initiative. (PRJLANR5L15B0778)
+  - 2018-03-21 : Etude d'impact (ETDIANR5L15B0778)
+  - 2018-03-21 : Avis du Conseil d'Etat (AVCEANR5L15B0778)
+  - 2018-03-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-21 : Renvoi en commission au fond
+      - 2018-03-28 : Nomination de rapporteur
+      - 2018-03-28 : Réunion de commission
+      - 2018-05-09 : Réunion de commission
+      - 2018-05-10 : Dépôt de rapport (RAPPANR5L15B0938, PRJLANR5L15BTC0938)
+  - Discussion en séance publique
+    - 2018-05-14 : Discussion en séance publique
+    - 2018-05-14 : Discussion en séance publique
+    - 2018-05-15 : Discussion en séance publique
+    - 2018-05-15 : Discussion en séance publique
+    - 2018-05-16 : Discussion en séance publique
+    - 2018-05-16 : Discussion en séance publique
+    - 2018-05-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-05-17 : Dépôt d'une initiative en navette (PRJLSNR5S299B0487)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-06-20 : Dépôt de rapport (RAPPSNR5S299B0589, PRJLSNR5S299BTC0590)
+  - Discussion en séance publique
+    - 2018-07-04 : Discussion en séance publique
+    - 2018-07-05 : Discussion en séance publique
+    - 2018-07-05 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-06 : Dépôt d'un projet de loi (PRJLANR5L15B1146)
+  - 2018-07-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-07-23 : Nomination de rapporteur
+    - 2018-07-23 : Dépôt du rapport d'une CMP (RAPPANR5L15B1186, PRJLANR5L15BTC1186)
+    - 2018-07-23 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0686, PRJLSNR5S299BTC0687)
+  - Discussion en séance publique
+    - 2018-07-31 : Discussion en séance publique
+    - 2018-07-31 : Décision
+  - Discussion en séance publique
+    - 2018-08-01 : Discussion en séance publique
+    - 2018-08-01 : Décision
+  - 2018-07-24 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-08-03 : Promulgation d'une loi
