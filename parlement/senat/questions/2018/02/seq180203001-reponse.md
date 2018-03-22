@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203001
+
+- Question : [SEQ180203001](seq180203001.md) — Statut des maires dans la ruralité
+
+## Réponse
+
+*Intérieur, JO du 2018-03-22, page 1376*
+
+Bien que les fonctions électives soient par principe gratuites, les élus locaux peuvent bénéficier d'indemnités de fonction qui viennent compenser les dépenses et sujétions résultant de l'exercice de leur charge publique. Les exécutifs locaux, tels que les maires, reçoivent une indemnité pour l'exercice effectif de leurs fonctions dont le barème est établi par strate démographique, afin de tenir compte de la charge liée aux fonctions. L'indemnité de fonction des maires des communes de moins de 500 habitants est, jusqu'au 31 décembre 2018, au maximum de 658,01 € bruts mensuels. Porter son niveau au niveau du salaire minimum interprofessionnel de croissance (SMIC - 1 498,47 €) revient à l'aligner sur l'indemnité de fonction des maires des communes de moins de 3 500 habitants et aurait naturellement pour contrepartie une hausse du niveau des dépenses à la charge de ces communes. Cumulé sur l'ensemble des 18 530 communes comptant, au 1er janvier 2018, moins de 500 habitants, ce surcoût représenterait plus de 180 M€ en année pleine. Le président de la République a annoncé le 23 novembre 2017, à l'occasion de la clôture du congrès des maires, son souhait d'améliorer les conditions d'exercice des mandats locaux. Un chantier est dédié à cette thématique dans le cadre de la conférence nationale des territoires. Il pourra se nourrir des travaux engagés par la délégation du Sénat aux collectivités territoriales. Celle-ci a en effet constitué un groupe de travail chargé de mener une réflexion sur le statut des élus locaux, qui traitera notamment du thème du régime indemnitaire et présentera ses préconisations d'ici l'été 2018.
