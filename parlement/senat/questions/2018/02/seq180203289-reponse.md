@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203289
+
+- Question : [SEQ180203289](seq180203289.md) — Dépôt par une commune d'une marque commerciale
+
+## Réponse
+
+*Économie et finances, JO du 2018-03-22, page 1358*
+
+Le code de la propriété intellectuelle prévoit que toute demande d'enregistrement de marque déposée auprès de l'Institut national de la propriété industrielle (INPI) doit être accompagnée du paiement des redevances associées, sous peine d'irrecevabilité. Le paiement doit être réalisé sous forme dématérialisée, soit par carte bancaire, soit par prélèvement sur un compte professionnel ouvert à l'INPI. Afin de tenir compte des contraintes spécifiques, liées aux règles budgétaires publiques, l'INPI a mis en place une possibilité de paiement par mémoire administratif, réservée aux seules entités publiques (services de l'État, collectivités territoriales, établissements publics). Cette procédure permet au déposant, qui s'est identifié en tant que personne morale de droit public, d'obtenir de l'INPI la remise d'un document justifiant la prestation figurant dans la demande déposée et le montant à régler. Ce document, appelé mémoire administratif, est édité de façon automatique à la fin du dépôt en ligne et le déposant en reçoit une copie transmise par courrier électronique. L'agent comptable de l'entité publique déposante peut alors procéder au paiement des redevances, sur la base de ce document. L'INPI a mis en place un service d'information (INPI Direct) accessible par téléphone, par courrier et par courriel, afin de répondre aux questions des déposants et les accompagner dans leurs démarches pour le dépôt des titres de propriété industrielle. Ce service peut venir en aide aux communes, et plus largement aux entités publiques, qui rencontreraient des difficultés dans le paiement par mémoire administratif.
