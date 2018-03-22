@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202571
+
+- Question : [SEQ171202571](seq171202571.md) — TGV Paris-Strasbourg
+
+## Réponse
+
+*Transports, JO du 2018-03-22, page 1391*
+
+La liaison TGV Paris – Strasbourg a effectivement connu des perturbations entre le 1er et le 15 décembre 2017, avec un taux de régularité (trains arrivés avec moins de 5 minutes de retard) de 84 % contre 91,4 % en moyenne sur l'année 2017. Cette dégradation de service est essentiellement due aux conditions météorologiques rencontrées début décembre, notamment les chutes de neige particulièrement abondantes. En conséquence, par mesure de sécurité, SNCF Mobilités a limité les vitesses pratiquées par ses trains, ce qui a ainsi causé des allongements de temps de parcours se traduisant par des retards d'une vingtaine de minutes. De plus, ces conditions ont également conduit à des dommages sur les équipements de voies et le matériel roulant, en raison de projections de ballast. Pour faire face à ces problèmes, SNCF Réseau a effectué les travaux de réparation nécessaires, tout en permettant la circulation des trains aux heures de pointe. Depuis le 16 décembre 2017, le taux de régularité des trains sur la liaison Paris – Strasbourg est ainsi remonté à un niveau plus satisfaisant (93 %). En ce qui concerne la tarification, SNCF Mobilités a adopté depuis 10 ans une politique basée sur le système du « yield management ». Il s'agit d'une méthode de fixation du prix des billets en fonction de la proximité de la date du départ et de l'importance de la demande. Durant la période considérée (du 1er au 15 décembre), la demande a été forte, ce qui s'est traduit par une augmentation des tarifs appliqués. Pour autant, les prix pratiqués entre Paris et Strasbourg ont connu, en moyenne sur l'ensemble des billets, une diminution significative de 3 % par rapport à la même période en 2016.
