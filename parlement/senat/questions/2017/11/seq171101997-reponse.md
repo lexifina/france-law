@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101997
+
+- Question : [SEQ171101997](seq171101997.md) — Réalisation de la gare interconnexion Bry – Villiers – Champigny
+
+## Réponse
+
+*Transports, JO du 2018-03-22, page 1386*
+
+Le réseau du Grand Paris Express sera largement interconnecté avec les réseaux existants : 44 gares sur 68 seront en correspondance avec eux. Ce choix de conception est essentiel tant pour l'efficacité de la desserte de tous les territoires franciliens, notamment en grand couronne, que pour le bon fonctionnement du système de transport régional. Le projet consiste à construire une nouvelle gare sur le RER E aux confins des communes de Bry, Villiers et Champigny, pour y créer une correspondance avec la ligne 15 du Grand Paris Express. Cette gare offrira une porte d'entrée vers ce nouveau réseau aux usagers en provenance de Seine-et-Marne. Cette option d'implantation, qui ne s'appuie pas sur une gare existante, a été retenue par les communes pour accompagner le projet urbain qu'elles conduisent sur ce site. Les études préliminaires ont été réalisées, faisant apparaître un coût prévisionnel de 350 M€. Ce montant, particulièrement élevé, s'explique par la nécessité d'implanter une nouvelle gare ferroviaire sur le RER E en sus de celle du Grand Paris Express et des couloirs de correspondance entre les deux. La région Île-de-France a décidé, à ce stade, de ne pas financer ce projet. Pour ne pas mettre en péril sa réalisation, l'État a financé les études d'avant-projet. Elles seront achevées fin 2018. Le maître d'ouvrage sera également en mesure de lancer l'enquête publique cette année, après la concertation menée en juin 2016. Il conviendra, afin de mener à bien ce projet, de déterminer les modalités de financement des étapes ultérieures du projet, qui représentent l'essentiel de son coût. L'État poursuivra les discussions avec la région et les collectivités locales concernées pour boucler ce tour de table.
