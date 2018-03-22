@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202564
+
+- Question : [SEQ171202564](seq171202564.md) — Présence d'un nuage radioactif dans le ciel français
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-03-22, page 1383*
+
+Le ministre d'État, ministre de la transition écologique et solidaire, confirme avoir été alerté par l'Institut de radioprotection et de sûreté nucléaire (IRSN) le 9 octobre 2017 d'une détection de ruthénium 106 dans l'atmosphère, à des niveaux de l'ordre de quelques millibecquerels par mètre cube d'air. Les niveaux de concentration dans l'air en ruthénium 106 qui ont été relevés en Europe et a fortiori en France ont été sans conséquence tant pour la santé humaine que pour l'environnement. L'IRSN a réalisé des simulations à partir des conditions météorologiques fournies par Météo France et des résultats de mesure disponibles dans les pays européens, afin de localiser la zone de rejet, d'évaluer la quantité de ruthénium rejetée ainsi que la période et la durée de rejet. L'IRSN a publié le 6 février 2018 un rapport faisant la synthèse des différentes analyses réalisées par l'Institut à partir des données disponibles et de ses propres connaissances pour comprendre l'origine du rejet de Ruthénium 106. Ce rapport conclut que l'hypothèse qui explique le mieux les mesures issues des stations de surveillance de la radioactivité atmosphérique de différents pays européens est un rejet d'une quantité importante de Ruthénium localisé entre la Volga et l'Oural, et qui se serait produit fin septembre 2017 au cours d'une opération de traitement de combustible irradié refroidi deux ans environ. L'IRSN émet l'hypothèse de l'âge du combustible en raison de la détection, dans certaines mesures, de Ruthénium 103 avec un ratio par rapport au Ruthénium 106 caractéristique d'un combustible usé sorti d'un réacteur nucléaire depuis environ deux ans.
