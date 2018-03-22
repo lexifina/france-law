@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001469
+
+- Question : [SEQ171001469](seq171001469.md) — Pour le maintien des antennes locales de France 3 télévision
+
+## Réponse
+
+*Culture, JO du 2018-03-22, page 1355*
+
+Le ministère de la culture est attaché à la mission essentielle de proximité de l'audiovisuel public, qui favorise la cohésion sociale au plus près des territoires, met en valeur les évènements culturels régionaux et participe de la démocratie locale. Pour conforter ce rôle essentiel, le réseau de France 3 a été adapté à la nouvelle carte des régions, avec treize directions régionales. En sus de ces directions régionales, vingt-quatre antennes régionales ont été maintenues pour assurer la proximité de l'offre. En revanche, un téléspectateur sur deux ne reçoit pas, aujourd'hui, les éditions de ces antennes locales, accessibles uniquement sur la télévision numérique terrestre et non sur les offres du câble, du satellite ou des opérateurs télécoms. Il est logique que France Télévisions souhaite assurer une meilleure visibilité de ces antennes locales. La réflexion en cours ne consiste donc pas à supprimer des antennes locales. Ces antennes continueront à produire des programmes locaux. Mais la diffusion de ces programmes doit évoluer, pour les rendre plus visibles, par exemple en les intégrant aux éditions régionales ou à des web TV. Dans un contexte de profondes mutations, le Gouvernement a chargé un groupe de travail interministériel de mener une réflexion, en étroite concertation avec les sociétés de l'audiovisuel public, sur les missions des médias de service public, sur l'adaptation à leur environnement et leurs coopérations possibles. Dans ce cadre, une réflexion sera portée sur l'information régionale et locale, avec pour ambition d'offrir un service de proximité efficace et de qualité. La fin des travaux de cette mission est prévue pour fin mars 2018.
