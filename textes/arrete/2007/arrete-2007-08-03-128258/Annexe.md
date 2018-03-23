@@ -2,18 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 31 mars 2018 :
-
-Paris-Agadir (Maroc) ;
-
-Paris-Casablanca (Maroc) ;
-
-Paris-Fès (Maroc) ;
-
-Paris-Marrakech (Maroc) ;
-
-Paris-Rabat (Maroc).
-
 Jusqu'au 31 août 2018 :
 
 Fort-de-France-Saint-John's (Antigua-et-Barbuda) ;
@@ -113,3 +101,21 @@ Jusqu'au 31 octobre 2022 :
 -Paris-Bamako (Mali) ;
 
 -Paris-Abidjan (Côte d'Ivoire).
+
+Jusqu'au 31 mars 2023 :
+
+-Paris-Agadir (Maroc) ;
+
+-Paris-Casablanca (Maroc) ;
+
+-Paris-Fès (Maroc) ;
+
+-Paris-Tanger (Maroc) ;
+
+-Paris-Marrakech (Maroc) ;
+
+-Paris-Oujda (Maroc) ;
+
+-Paris-Rabat (Maroc) ;
+
+-Paris-New-York (Etats-Unis).
