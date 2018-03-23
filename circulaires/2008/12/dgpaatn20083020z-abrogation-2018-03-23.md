@@ -1,0 +1,159 @@
+# Aide  de minimis  compensant partiellement la perte de marge brute subie par les éleveurs d'ovins allaitants touchés par la crise - dispositif 2008 - Modification des montants d' indemnisation.
+
+- État : abrogée (au 2018-03-23)
+- NOR : DGPAATN20083020Z
+- Numéro : DGPAAT/SDPM/N2008-3020
+- Date de signature : 2008-12-02
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 22051 (PDF officiel : pdf/2009/04/cir_22051.pdf)
+
+## Texte
+
+1
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+Service de la Production Agricole 
+Sous-direction des Produits et des Marchés 
+Bureau des Viandes et des Productions Animales 
+Spécialisées 
+
+Adresse : 3 rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Suivi par : Monique DEHAUDT 
+monique.dehaudt@agriculture.gouv.fr 
+
+Tél : 01.49.55.46.15 - Fax : 01.49.55.80.26 
+NOTE DE SERVICE 
+DGPAAT/SDPM/N2008-3020 
+Date: 02 décembre 2008 
+
+Date de mise en application : immédiate 
+
+ Nombre d'annexe :1 
+Le Ministre de l'agriculture et de la pêche 
+à 
+
+Mesdames et Messieurs les Directeurs 
+Départementaux de l’Agriculture et de la Forêt 
+
+Objet : Aide « de minimis » compensant partiellement la perte de marge brute subie par les 
+éleveurs d’ovins allaitants touchés par la crise – dispositif 2008 - Modification des montants d' 
+indemnisation 
+
+Résumé : modification de l'aide « de minimis » mise en oeuvre par la note de service n° N2008-3001 du 
+16 juillet 2008, en raison des difficultés économiques importantes que traverse la filière ovine orientée 
+vers la production de viande (filière ovins allaitants). 
+
+Base réglementaire : règlement (CE) N° 1535/2007 de la Commission du 20 décembre 2007 
+concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans les secteurs de 
+l'agriculture et de la pêche 
+
+Mots-cles : office de l'élevage, filière ovine, « de minimis », perte de marge brute 2008 
+
+Destinataires 
+Pour exécution : 
+- 
+Monsieur le Directeur de l'Office national 
+interprofessionnel de l'élevage et de ses 
+productions 
+- 
+Mesdames et Messieurs les Directeurs 
+Départementaux de l’Agriculture et de la 
+Forêt 
+Pour information : 
+- 
+Mesdames et Messieurs les Préfets de Région 
+- 
+Mesdames et Messieurs les Préfets de 
+Département 
+- 
+Mesdames et Messieurs les Directeurs 
+Régionaux de l’Agriculture et de la Forêt 
+
+2
+Le 18 novembre 2008, le Conseil de Direction Spécialisé Filières Ruminants et Equidés de l'Office de 
+l'élevage a adopté une décision modificative relative à l'aide attribuée aux éleveurs d'ovins allaitants 
+pour compenser la perte de marge brute ovine 2008. 
+
+En effet, compte tenu des disponibilités budgétaires, il a été décidé de revoir à la hausse les taux de 
+subvention afin d'utiliser la totalité de cette enveloppe. 
+
+Vous trouverez en annexe, la décision n°CDS-R&E/2008-11/14 du Directeur de l'office de l'élevage du 
+18 novembre 2008 modifiant la décision n°CDS-R&E/2008-06/04 du 12 juin 2008, qui précise ces 
+nouveaux taux. 
+
+Les DDAF-DDEA sont chargés de revérifier, pour chaque bénéficiaire, le respect du plafond « de 
+minimis » de 7500 € sur 3 ans. 
+
+Le sous-Directeur 
+des produits et marchés 
+
+Eric GIRY 
+
+3
+
+Sous-direction de l’Elevage et de ses Productions 
+Division Orientation de l’Elevage 
+Adresse : 
+12 rue Henri Rol-Tanguy 
+TSA 30003 
+93555 Montreuil s/ Bois cedex 
+Tel : 01 73 30 31 34 
+
+DEUXIEME DECISION MODIFICATIVE DE LA DECISION DU DIRECTEUR DE L’OFFICE DE 
+L’ELEVAGE CDS-R&E/2008-06/04 DU 12 JUIN 2008 RELATIVE A L’AIDE « DE MINIMIS » 
+COMPENSANT PARTIELLEMENT LA PERTE DE MARGE BRUTE SUBIE PAR LES ELEVEURS 
+D’OVINS ALLAITANTS TOUCHES PAR LA CRISE 
+NUMERO : CDS-R&E/2008-11/14 
+DATE : 18 NOVEMBRE 2008 
+
+Objet : En raison des difficultés économiques importantes que travers la filière ovine orientée vers la 
+production de viande (filière ovins allaitants), une indemnisation partielle des éleveurs spécialisés a été 
+mise en place selon les modalités définies par une décision du Directeur de l’Office de l’Elevage. 
+Compte tenu de l’enveloppe disponible et du niveau des demandes, cette décision modificative vise à 
+adapter les montants des forfaits. 
+Bases réglementaires : 
+- 
+articles R. 621-14 et R. 621-21 du code rural, 
+- 
+décision et décision modificative du Directeur de l’Office de l’Elevage relatives à l’aide « de 
+minimis » compensant partiellement la perte de marge brute subie par les éleveurs d’ovins 
+allaitants touchés par la crise (CDS-R&E/2008-06/04 du 12 juin 2008 et CDP/2008-07/34 du 
+16 juillet 2008), 
+- 
+avis du Conseil de Direction Spécialisé Ruminants et Equidés du 18 novembre 2008. 
+Article unique : 
+Le deuxième paragraphe et le tableau du chapitre 3 de la Décision du 12 juin 2008 précitée sont 
+remplacés par les dispositions suivantes : 
+« L’indemnisation par exploitation est représentative de la perte de marge brute entre 2006 et 2008. 
+Cette indemnisation, à caractère forfaitaire, est fixée au maximum à : 
+Nombre de brebis 
+allaitantes déclarées à la 
+PB 2007 
+aide de minimis pour les 
+exploitations engagées dans 
+des démarches qualité (a) 
+aide de minimis pour les 
+exploitations non engagées dans 
+des démarches qualité (a x 
+90%) 
+De 100 à 149 
+676 € 
+541 € 
+De 150 à 249 
+1 092 € 
+874 € 
+250 et plus 
+2 570 € 
+2 056 € 
+
+Fait à Montreuil sous Bois, le 
+Le Directeur de l’Office de l’Elevage 
+
+Fabien BOVA
