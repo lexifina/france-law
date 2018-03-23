@@ -1,0 +1,112 @@
+# Mise en place par VINIFLHOR d'une mesure d'aide à la trésorerie en faveur des arboriculteurs touchés par les épisodes de gel très sévères des 23 et 24 mars et des 7 et 8 avril 2008.
+
+- État : abrogée (au 2018-03-23)
+- NOR : DGPAATN20093002
+- Numéro : DGPAAT/SDPM/N2009-3002
+- Date de signature : 2009-01-21
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 15011 (PDF officiel : pdf/2009/04/cir_15011.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+
+Service de la production agricole 
+
+Sous-direction des produits et marchés 
+
+Bureau des fruits et légumes, de l'horticulture et 
+des productions végétales spécialisées 
+
+Adresse : 3, rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Suivi par : Noémie LE QUELLENEC 
+
+Tél :01 49 55 80 21 6 Fax : 01 49 55 45 90 
+NOTE DE SERVICE 
+DGPAAT/SDPM/N2009-3002 
+Date: 21 janvier 2009 
+
+Date de mise en application : immédiate 
+
+Nombre d'annexe : 0 
+Le Ministre de l'agriculture et de la pêche 
+à 
+Mesdames et Messieurs les Préfets 
+Objet : Mise en place par VINIFLHOR d'une mesure d'aide à la trésorerie en faveur des arboriculteurs 
+touchés par les épisodes de gel très sévères des 23 et 24 mars et des 7 et 8 avril 2008. 
+
+Résumé : La présente note précise les modalités de mise en œuvre des aides destinées aux 
+arboriculteurs touchés par les conséquences des épisodes de gel du printemps 2008. Les critères 
+d’éligibilité, les modalités de calcul de l’aide, les procédures de dépôt des demandes, de constitution et 
+d’instruction des dossiers et de versement des aides sont détaillés dans la circulaire VINIFLHOR 
+n°2009/02 
+ Mots-clés : gel printemps 2008, arboriculteurs, aide trésorerie, de minimis 
+
+DESTINATAIRES 
+Pour exécution : 
+
+Mmes et MM. les Préfets de région 
+Mmes et MM. les Préfets de département 
+Mmes et MM les DRAAF 
+Mmes et MM les DDEA et DDAF 
+
+Pour information : 
+
+M. le Directeur de VINIFLHOR 
+
+Les dégâts occasionnés par le gel survenu au printemps 2008 ont conduit certaines exploitations 
+fruitières à des situations de grande difficulté. 
+Les épisodes de gel très sévères des 23 et 24 mars et des 7 et 8 avril 2008 ont affecté les cultures 
+fruitières dans de nombreuses régions, et plus particulièrement dans la Vallée du Rhône et le Sud-
+Ouest. 
+
+Afin de venir en aide aux exploitations touchées par les conséquences de ces sinistres, il a été décidé la 
+mise en place d'une enveloppe de 1,5 million d’euros d'aide à la trésorerie. 
+La circulaire, annexée à cette note, a pour objet de déterminer selon quelles modalités une aide en 
+trésorerie sera mise en œuvre pour venir en aide à ces exploitations. 
+Cette procédure sera mise en œuvre conformément au règlement (CE) n° 1535/2007 de la Commission 
+du 20 décembre 2007 relatif aux aides d'Etat dans le secteur agricole. 
+La participation des DDEA / DDAF / DRAAF est requise pour les actions suivantes : 
+
+Dans le cadre du comité de suivi installé sous l’autorité du Préfet 
+
+- 
+Définir des critères permettant de cibler la mesure en fonction de ratios financiers des 
+exploitations prédéfinis. 
+- 
+Décider de critères locaux permettant de hiérarchiser les demandes et de moduler les 
+montants d’aides – en tenant compte de l’enveloppe mise à la disposition de la région. 
+
+Les DRAAF sont chargées d’harmoniser les critères pour leur territoire de compétence. 
+Dans le cadre de l’application du Règlement (CE) no 1535/2007 de la Commission du 20 décembre 
+2007 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de 
+la production de produits agricoles : 
+
+- 
+Les DDEA /DDAF vérifient le respect du plafond par bénéficiaire 
+Dans le cadre du calcul de la répartition des enveloppes : 
+
+- 
+Les DRAAF transmettent, au plus tard 15 jours après la publication de la circulaire annexée, 
+au directeur de VINIFLHOR, l’estimation du nombre de dossiers éligibles par département. 
+- 
+Chaque DRAAF répartit l’enveloppe allouée dans les départements de sa région. 
+Dans le cadre de l’instruction des demandes individuelles : 
+- 
+Les DDEA / DDAF Instruisent les demandes, calculent les montants prévisionnels d’aides 
+- 
+Les DDEA / DDAF transmettent ces demandes à VINIFLHOR au plus tard deux mois après la 
+notification de l’enveloppe à la DRAAF par VINIFLHOR. 
+
+Je vous demande de bien vouloir me tenir informé de toute difficulté dans la mise en œuvre de ce 
+dispositif. 
+
+Le sous-directeur des produits et marchés 
+Eric GIRY
