@@ -1,0 +1,77 @@
+# Mise en uvre par Viniflhor d'un programme relatif au financement de certaines dépenses de rénovation du verger pour le maintien dans de bonnes conditions économiques, de certaines exploitations touchées par le virus de la Sharka.
+
+- État : abrogée (au 2018-03-23)
+- NOR : DGPAATN20093010
+- Numéro : DGPAAT/SDPM/N2009-3010
+- Date de signature : 2009-03-25
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 16869 (PDF officiel : pdf/2009/04/cir_16869.pdf)
+
+## Texte
+
+MINISTERE DE L'AGRICULTURE ET DE LA PECHE
+DIRECTION GÉNÉRALE DES POLITIQUES
+AGRICOLE, AGROALIMENTAIRE ET DES
+TERRITOIRES
+Service de la production agricole
+Sous-direction des produits et marchés
+Bureau des fruits et légumes, de l'horticulture et des
+productions végétales spécialisées
+Adresse : 3, rue Barbet de Jouy - 75349 PARIS 07 SP
+Suivi par : N. LE QUELLENEC
+Tél : 01 49 55 80 21
+Fax : 01 49 55 45 90
+(Réf. Interne / Classement) :
+DIRECTION GÉNÉRALE DE L'ALIMENTATION
+Service de la prévention des risques sanitaires de
+la production primaire
+Sous-direction de la qualité et de la protection des
+végétaux
+Bureau des semences et de la santé des végétaux
+Adresse : 251 rue de Vaugirard
+75 732 PARIS CEDEX 15
+Suivi par : JC NAUDIN
+Tél : 01 49 55 81 45
+Fax :
+Réf. Interne :
+NOTE DE SERVICE
+DGPAAT/SDPM/N2009-3010
+DGAL/SDQPV/N2009-8108
+Date: 25 mars 2009
+Nombre d'annexe : 1
+Objet : mise en œuvre par Viniflhor d'un programme relatif au financement de certaines dépenses
+de rénovation du verger pour le maintien dans de bonnes conditions économiques, de certaines
+exploitations touchées par le virus de la Sharka.
+Résumé : La présente note de service précise les modalités de la participation des DRAAF à la mise
+en œuvre du programme d’aides complémentaires à la replantation et/ou à l’irrigation pour les
+exploitations touchées par le virus de la Sharka.
+Mots-clés : RENOVATION DU VERGER, PLANTATION, INVESTISSEMENT.
+DESTINATAIRES
+Pour exécution :
+Mmes et MM. les Préfets de région
+Mmes et MM les D.R.A.A.F.
+Pour information :
+Mmes et MM. les Préfets de département
+Mmes et MM les D.D.A.F/DDEA.
+M. le directeur de VINIFLHOR
+
+L'objet de cette mesure est de favoriser, pour les exploitations touchées par le virus de la Sharka, la
+reconstitution de leur potentiel de production fruitière. Il s’agit donc d’encourager, par des aides à la
+replantation et à l’irrigation, les projets de déplacement de verger de prunus hors de zones
+contaminées ou de substitution d’espèces fruitières autres que prunus dans les zones contaminées.
+Vous trouverez en annexe la circulaire de VINIFLHOR qui définit le dispositif mis en œuvre pour le
+soutien aux investissements réalisés par les arboriculteurs touchés par le virus de la Sharka.
+La participation des DRAAF est requise pour les actions suivantes :
+- 
+Validation des superficies arrachées dans le cadre de la lutte contre la Sharka, déclarées
+par les demandeurs d’aide.
+Je vous demande de bien vouloir me tenir informé de toute difficulté dans la mise en œuvre de ce
+dispositif.
+Le sous-directeur des produits et des marchés
+Éric GIRY
+La sous-directrice de la qualité et de la
+protection des végétaux
+Emmanuelle SOUBEYRAN
