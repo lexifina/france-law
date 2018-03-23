@@ -1,0 +1,123 @@
+# Dispositif d'aide à l'amélioration de la valorisation du lait en zone de montagne.
+
+- État : abrogée (au 2018-03-23)
+- NOR : DGPAATN20083007Z
+- Numéro : DGPAAT/SDPM/N2008-3007
+- Date de signature : 2008-08-20
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 25090 (PDF officiel : pdf/2009/04/cir_25090.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+
+Service de la Production Agricole 
+
+Sous-direction des produits et des marchés 
+
+Bureau du lait, des produits laitiers et de la sélection 
+animale 
+
+Adresse : 3 rue Barbet de Jouy 
+75349 PARIS 07 SP 
+
+Tél :01.49.55.46.05 
+Fax : 01.49.55.49 25 
+NOTE DE SERVICE 
+DGPAAT/SDPM/N2008-3007 
+Date: 20 août 2008 
+
+Date de mise en application : immédiate 
+Annule et remplace la circulaire DGPEI/ SDEPA / 
+C2007-4044 du 02 juillet 2008. 
+Nombre d'annexe : 1 
+Le Ministre de l'agriculture et de la pêche 
+à 
+Mesdames et Messieurs les Préfets 
+
+Objet : Dispositif d’aide à l'amélioration de la valorisation du lait en zone de montagne. 
+
+Résumé : La présente circulaire précise les modalités de mise en oeuvre d’une aide 
+destinée à la filière laitière en zone de montagne de l’Office de l’Elevage, la participation 
+des DRAF étant nécessaire à la coordination entre les différents programmes régionaux. 
+
+Bases réglementaires : 
+▪ Règlement (CE) n° 1857/2006 de la Commission du 15 décembre 2006 concernant 
+l'application des articles 87 et 88 du traité aux aides d'État accordées aux petites et 
+moyennes entreprises actives dans la production de produits agricoles et modifiant le 
+règlement (CE) no 70/2001 ; 
+▪ Lignes directrices de la Communauté concernant les aides d’Etat dans le secteur 
+agricole et forestier 2007-2013, publiées au JOUE C 319 du 27 décembre 2006 ; 
+▪ Régime d’aide notifiée à l'investissement dans les exploitations agricoles du secteur de 
+l'élevage n°265/2007 du 16 novembre 2007 ; 
+▪ Régime d’aides exemptées n°XA 151/2007 enregistré par la Commission 
+conformément aux dispositions du règlement (CE) n°1857/2006 du 15 décembre 2006 ; 
+▪ Code rural, articles L 621-1 et suivants relatifs aux actions des offices ; 
+▪ Avis du Conseil de Direction Spécialisé Filières laitières du 19 juin 2008 ; 
+
+Mots-cles : production laitière en zone de montagne, valorisation, qualité. 
+
+Destinataires 
+Pour exécution : 
+Mmes et MM. les préfets de région 
+Mmes et MM. les directeurs régionaux de 
+l’agriculture et de la forêt 
+Pour information : 
+Mmes et MM. les préfets de département 
+Mmes et MM. les DDAF 
+M. le directeur de l’Office de l’Elevage 
+
+Le Ministère de l’Agriculture et de la Pêche met en œuvre depuis de nombreuses années 
+une politique de développement et d’aménagement spécifique en faveur de l’agriculture 
+située en zone de montagne, visant à maintenir des exploitations agricoles nombreuses et 
+viables, à assurer une parité dans les revenus entre les zones de montagne et les zones de 
+plaines, ainsi qu'à promouvoir des productions de qualité. 
+
+Afin de continuer à soutenir la filière laitière en zone de montagne tout en prenant en compte 
+les nouvelles programmations du plan de développement rural hexagonal, des contrats de 
+projets état-région (CPER) et les nouvelles lignes directrices agricoles 2007-2013, une 
+nouvelle aide à l'amélioration de la valorisation du lait en zone de montagne a été définie. 
+
+Vous trouverez en annexe la décision du directeur de l’Office de l’Elevage définissant le 
+dispositif mis en œuvre qui consiste en une aide à l’assistance technique aux exploitations et 
+une aide aux investissements au stade de la production primaire ou au stade de la collecte. 
+
+La participation des DRAF est requise pour les actions suivantes : 
+
+− 
+assurer lors des conférences régionales mises en place dans le cadre des CPER, la 
+coordination des actions et l'articulation des différents programmes entre eux - les 
+modalités de mise en œuvre des actions relevant de l’aide à l’amélioration de la 
+valorisation du lait en zone de montagne étant identiques à celles utilisées dans le cadre 
+des crédits contractualisés CPER - 
+
+− 
+définir lors des conférences régionales : 
+¾ la répartition financière par action ou par démarche, 
+¾ la répartition financière par structure pour ce qui concerne l’assistance technique, 
+¾ les seuils d’investissements éligibles pour les entreprises de collecte, 
+¾ éventuellement, les critères d’éligibilité pour l’assistance technique et les 
+investissements en exploitation. 
+
+− 
+veiller à la cohérence de la répartition retenue entre assistance technique et 
+investissements avec les prévisions globales des diagnostics initiaux et des actions 
+correctives. Cette répartition pourra s’appuyer sur les bilans réalisés par les structures en 
+charge de l’appui technique l’année précédente. 
+
+− 
+collaborer à l'élaboration par les services de l'Office de l'Elevage, des procédures 
+techniques et financières nécessaires à la mise en oeuvre du dispositif. 
+
+− 
+contrôler la mise en oeuvre des programmes et la gestion des crédits en concertation 
+avec les services de l'Office de l'Elevage. 
+
+Je vous demande de bien vouloir me tenir informée de toute difficulté rencontrée dans la 
+mise en œuvre de ce dispositif.
