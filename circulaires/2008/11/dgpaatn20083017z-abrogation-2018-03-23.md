@@ -1,0 +1,299 @@
+# Programme d'aides aux investissements de modernisation sanitaire dans les élevages de palmipèdes de la filière prêt-à-gaver, report de la date limite de dépôt des dossiers par les éleveurs.
+
+- État : abrogée (au 2018-03-23)
+- NOR : DGPAATN20083017Z
+- Numéro : DGPAAT/SDPM/N2008-3017
+- Date de signature : 2008-11-25
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 24037 (PDF officiel : pdf/2009/04/cir_24037.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+Sous-direction : des produits et marchés 
+Bureau : des viandes et des productions animales spécialisées 
+Adresse : 3, rue Barbet de Jouy 75349 PARIS SP 
+Suivi par : Solange HAYAT 
+Tél : 01 49 55 46 14 
+Fax : 01 49 55 80 26 
+NOTE DE SERVICE 
+DGPAAT/SDPM/N2008-3017 
+Date: 25 novembre 2008 
+
+Date de mise en application : IMMEDIATE 
+Le Ministre de l'agriculture et de la pêche 
+Le Directeur de l’Office de l’Elevage 
+
+à 
+Mesdames et Messieurs les Préfets 
+Nombre d'annexes : 
+2 
+
+Objet : Programme d'aides aux investissements de modernisation sanitaire dans les élevages de 
+palmipèdes de la filière prêt-à-gaver, report de la date limite de dépôt des dossiers par les 
+éleveurs. 
+Résumé : Les aides visent les investissements dans les exploitations d'élevage de palmipèdes 
+prêts-à-gaver en vue d'améliorer leurs équipements de protection sanitaire et de permettre à ces 
+exploitations de respecter la charte de bonnes pratiques de la filière. 
+Base réglementaire : Régime notifié N265/2007 approuvé par la Commission le 16/11/07 
+Mots-cles : office de l'élevage, palmipèdes filiere prêt-a-gaver, investissements, modernisation 
+sanitaire 
+
+Destinataires 
+Pour exécution : 
+- Mesdames et Messieurs les Préfets de département 
+- Mesdames et Messieurs les Directeurs 
+départementaux de l’Equipement et de l'Agriculture 
+Pour information : 
+- Mesdames et Messieurs les Directeurs Départementaux des 
+Services Vétérinaires 
+- Mesdames et Messieurs les Directeurs Régionaux de 
+l’Agriculture et de la Forêt (métropole) 
+- Monsieur le directeur de l'Office de l'Elevage 
+
+Un programme d’aide aux investissements de modernisation sanitaire des élevages de palmipèdes de 
+la filière prêt-à-gaver, doté d’une enveloppe d’1,5M€, est mis en place. Ces aides visent à aider la 
+filière palmipède à réaliser les investissements nécessaires à l’amélioration des équipements de 
+protection sanitaire et, ainsi, permettre à ces exploitations de respecter la charte de bonne pratique 
+mise en place par la filière. 
+
+Les modalités de gestion de cette aide sont définies par la décision ainsi que la décision modificative 
+du directeur de l’Office de l’élevage annexées à la présente note de service. 
+La participation des DDAF est requise pour les opérations suivantes : 
+1/ information des éleveurs sur les conditions de demande de subvention, 
+2/ collecte des demandes, 
+3/ instruction des demandes, vérification de l’éligibilité du demandeur et de l'investissement, 
+4/ en cas de demande non recevable, rejet du dossier par courrier adressé au demandeur en précisant le 
+motif de non prise en compte, 
+5/ le dispositif d'aide est géré dans le cadre d'une enveloppe nationale, les demandes d'aide éligibles 
+seront instruites selon leur ordre d'arrivée. Les demandes d'aides ne pourront plus être enregistrées une 
+fois l'enveloppe nationale consommée, 
+6/ transmission des demandes valides à l’office de l’élevage, 
+7/ une fois l'investissement effectué, transmission pour paiement à l'office de l'élevage, après 
+vérification, des pièces justificatives requises. 
+
+Je vous demande de bien vouloir me tenir informé de toute difficulté dans la mise en œuvre du 
+dispositif. 
+
+Le sous directeur des produits et marchés 
+
+Eric GIRY 
+
+Sous-direction de l’Elevage et de ses Productions 
+Division Orientation de l’Elevage 
+
+Adresse : 
+12, rue Henri Rol-Tanguy 
+TSA 30003 
+93555 Montreuil s/Bois cedex 
+Tél : 01 73 30 31 23 
+
+DECISION MODIFICATIVE DE LA DECISION DU DIRECTEUR DE L’OFFICE DE L’ELEVAGE 
+CDP/2008-03/18 DU 26 MARS 2008 RELATIVE A LA MISE EN PLACE D’UN PROGRAMME 
+D’AIDES AUX INVESTISSEMENTS DE MODERNISATION SANITAIRE DANS LES ELEVAGES 
+DE PALMIPEDES DE LA FILIERE PRET- A - GAVER 
+
+NUMERO : CDS-EHS/2008-11/14 
+DATE : 13 NOVEMBRE 2008 
+
+Objet : Un programme d’aides aux investissements nécessaires à l’amélioration des équipements 
+de protection sanitaire dans les élevages de palmipèdes de la filière prêt-à-gaver, a été mis en 
+place selon les modalités définies par la décision du Directeur de l’Office de l’Elevage. Cette 
+décision modificative vise à décaler la date limite de dépôt des dossiers par les éleveurs. 
+
+Bases réglementaires : 
+
+- 
+articles L 621-1 à L 621-11 et R 621-10, 11,14, 21, 44 et 50 du code rural 
+- 
+décision du Directeur de l’Office de l’Elevage relative à la mise en place d’un programme 
+d’aides aux investissements de modernisation sanitaire dans les élevages de palmipèdes 
+de la filière prêt-à-gaver (CDP 2008-03/18 du 26 mars 2008), 
+- 
+avis du Conseil de Direction Spécialisé « Viandes blanches » du 13 novembre 2008 
+
+Article 1 : 
+
+La deuxième phrase du premier paragraphe de l’article 6 de la Décision du 26 mars 2008 précitée 
+est remplacée par les dispositions suivantes : 
+
+« La demande doit être adressée avant le 30 juin 2009 à la Direction Départementale de 
+l’Agriculture et de la Forêt du département dans lequel se situe le siège de l’exploitation. » 
+
+Article 2 : 
+
+L’article 8 est modifié comme suit : 
+« Les dispositions de la présente décision s’appliquent en terme de réception de demande de 
+subvention jusqu’au 30 juin 2009, et en terme de gestion financière jusqu’au 31 mai 2011.» 
+
+Fait à Montreuil, le 
+
+Le Directeur de l’Office de l’Elevage 
+
+Fabien BOVA 
+
+Sous-direction de l’Elevage et de ses Productions 
+Division Orientation de l’Elevage 
+Adresse : 
+12 rue Henri Rol-Tanguy 
+TSA 30003 
+93555 Montreuil s/ Bois cedex 
+Tel : 01 73 30 31 20 
+
+DECISION DU DIRECTEUR DE L’OFFICE DE L’ELEVAGE 
+
+RELATIVE A LA MISE EN PLACE D’UN PROGRAMME D’AIDES AUX 
+INVESTISSEMENTS DE MODERNISATION SANITAIRE DANS LES 
+ELEVAGES DE PALMIPEDES DE LA FILIERE PRET-A-GAVER 
+
+NUMERO : CDP/2008-03/18 
+DATE : 26 MARS 2008 
+
+Le Directeur de l’Office de l’Elevage, 
+Vu les articles 87 à 89 du traité CE, 
+Vu le règlement (CE) n° 659/1999 du Conseil du 22 mars 1999 portant modalités d’application de l’article 93 du 
+traité CE, ensemble le règlement (CE) n° 794/2004 de la Commission du 21 avril 2004 concernant sa mise en 
+œuvre, 
+Vu le code rural, notamment les articles L 621-1 à L 621-11 et R.621-10, 11, 14, 21, 44 et 50, 
+Vu les lignes directrices de la Communauté du 27 décembre 2006 concernant les aides d’Etat dans le secteur 
+agricole et forestier 2007-2013 ; 
+Vu le régime notifié N265/ 2007 approuvé par la Commission le 16/11/07, 
+Vu l’avis rendu par le Conseil de Direction Plénier de l’Office de l’Elevage le 26/03/08, 
+
+Décide : 
+Article 1 
+L’office national interprofessionnel de l’élevage et de ses productions (Office de l’Elevage) met en place un 
+programme d’aide aux investissements de modernisation sanitaire des élevages de palmipèdes de la filière prêt-
+à-gaver. Ce programme est doté d’une enveloppe de 1,5M€. 
+Les aides visent les investissements dans les exploitations d’élevage de palmipèdes prêts-à-gaver en vue 
+d’améliorer leurs équipements de protection sanitaire et de permettre à ces exploitations de respecter la charte 
+de bonnes pratiques de la filière. A ce titre, le demandeur doit fournir un diagnostic de l’exploitation, réalisé 
+par un technicien qualifié, permettant de définir les équipements de protection sanitaires nécessaires. 
+Les types d’investissements éligibles sont ceux visés ci-après, pour autant qu’un technicien qualifié confirme leur 
+nécessité pour l’exploitation concernée : 
+- 
+Aménagement de sas sanitaires et aires bétonnées devant les portes et les portails, 
+- 
+Installation d’équipements de nettoyage et désinfection, 
+- 
+Dispositifs d’amélioration de la qualité de l’eau d’abreuvement, 
+- 
+Installations nécessaires à l’isolement de l’élevage : (aménagement des parcours (clôture, piquets, points 
+d'eau et d'alimentation, panneau de signalisation des élevages), 
+- 
+Aménagement des abords des bâtiments pour la sortie des animaux (trottoir bétonné, caillebotis, gouttière), 
+- 
+Installations nécessaires à l’isolement et la mise en attente des animaux morts avant l’enlèvement par 
+l’équarrisseur. 
+Article 2 
+Toutefois, les bénéficiaires d’une aide accordée dans le cadre de la présente décision ne peuvent prétendre aux 
+aides aux investissements pour le même type d’investissements, touchant les mêmes productions prévues dans 
+le cadre d’autres plans énumérés ci-dessous : 
+- 
+Plan de Modernisation des Bâtiments d’élevage (PMBE), proposé dans le cadre du Plan de 
+Développement Rural Hexagonal (PDRH), 
+- 
+aides octroyées dans le cadre des Contrats de Projet Etat-région, 
+Par ailleurs, ne sont pas éligibles : 
+- 
+les investissements qui concernent de simples opérations d’entretien, de renouvellement ou de 
+remplacement à l’identique d’équipements, 
+- 
+l’achat de matériel d’occasion ou de matériel non conforme aux normes en vigueur, 
+- 
+les achats d’animaux. 
+
+Enfin, le programme d’aide ne peut contribuer à financer des investissements qui auraient pour effet d’augmenter 
+des productions qui ne trouvent pas de débouchés normaux sur les marchés. 
+Article 3 
+Peuvent bénéficier du programme d’aide, les personnes physiques exerçant une activité agricole au sens de 
+l’article L.311-1 du code rural dans le secteur de l’élevage et satisfaisant, à la date de décision d'octroi de la 
+subvention, aux conditions énumérées ci-après : 
+1° Etre âgé de 18 ans au moins ; 
+2° Apporter les garanties de connaissances et de compétences professionnelles nécessaires, c’est-à-dire 
+remplir au moins une des conditions suivantes : 
+a) 
+Posséder un diplôme, titre ou certificat de niveau égal ou supérieur au brevet d'études professionnelles 
+agricoles ou au brevet professionnel agricole dont la liste est fixée par arrêté du ministre chargé de 
+l'agriculture ; 
+b) 
+Justifier de cinq ans au moins soit d'une participation à une exploitation agricole au sens de l'article L. 
+411-59 du code rural, soit d'une qualité de salarié sur une exploitation agricole ; 
+c) 
+Justifier de connaissances et de compétences professionnelles suffisantes en rapport avec l'activité de 
+l'exploitation agricole ; 
+3° Satisfaire, dans le cadre de l'exploitation, aux obligations fiscales et sociales légalement exigibles, et aux 
+régimes de base obligatoires de protection sociale de salariés et de non-salariés ; 
+4° Etre en conformité, dans le cadre de l'exploitation considérée, avec les normes communautaires 
+minimales requises dans les domaines de l'environnement, de l'hygiène et du bien-être des animaux ainsi 
+qu’avec toutes les normes communautaires applicables aux investissements concernés, sauf dans le cas de 
+demandes en vue de réaliser la mise en conformité, dans les conditions autorisées par les lignes directrices 
+agricoles ; 
+5° Ne pas faire l’objet d’une procédure de liquidation judiciaire. 
+Article 4 
+Peuvent également bénéficier du programme d’aides les sociétés, si elles satisfont aux conditions énumérées ci-
+après : 
+- l'objet social doit concerner la mise en valeur directe d'une exploitation agricole qui justifie d'une activité dans le 
+secteur de l'élevage ; 
+- plus de 50 % du capital social est détenu par des associés exploitants ; 
+
+- au moins un associé exploitant remplit les conditions d'âge, de connaissances et compétences professionnelles 
+fixées à l'article 3 ; 
+- la société répond aux conditions fixées à l’article 3, points 4 à 6. 
+Article 5 
+Le taux de subvention est d’au maximum 40 % du montant des investissements éligibles hors taxes. 
+Le montant de l’aide est plafonné à 4 000 € par élevage, quelle que soit la forme juridique de l’exploitation. 
+Article 6 
+La demande de subvention (Annexe I), doit être accompagnée, d’une part, d’un diagnostic de l’exploitation établi 
+par un technicien qualifié et définissant les équipements de protection sanitaire nécessaires et, d’autre part, des 
+devis correspondant aux investissements à réaliser. La demande doit être adressée avant le 31 octobre 2008 à 
+la Direction départementale de l’agriculture et de la forêt du département dans lequel se situe le siège de 
+l’exploitation (DDAF). 
+Si le dossier de demande n’est pas recevable ou si les crédits nécessaires ne sont plus disponibles, la DDAF 
+rejette le dossier par courrier adressé au demandeur. 
+Dans la mesure où les crédits sont disponibles, La DDAF adresse copie des dossiers éligibles à l’Office de 
+l’Elevage, lequel délivre au demandeur un accord de subvention (Cf Annexe 2 : Accord de subvention), 
+accompagné d’un formulaire de demande de versement (Cf. Annexe 3 : Demande de versement). 
+Une fois l’accord de subvention reçu, le bénéficiaire peut commencer les investissements. Les travaux doivent 
+être réalisés dans leur totalité 14 mois après la date de signature de l’accord de subvention délivré par l’Office de 
+l’Elevage et doivent être conformes au projet ayant fait l’objet d’un accord préalable. 
+
+Après la réalisation des travaux, et au plus tard 18 mois après la date de signature de l’Accord de subvention, le 
+bénéficiaire transmet à la DDAF la demande de versement en deux exemplaires (Cf. Annexe 3 : Demande de 
+versement) accompagnée des copies des factures acquittées du fournisseur (cachet original et signature 
+originale) et d’un Relevé d’Identité Bancaire. 
+
+Les dossiers transmis hors délai ainsi que ceux rapportant des investissements réalisés hors délai ou non 
+conformes au projet accepté sont rejetés. 
+
+La DDAF transmet à l'Office de l’Elevage les dossiers de demande de versement conformes accompagnés des 
+factures acquittées et du RIB. Les paiements sont effectués par l’Office de l’Elevage sous forme de paiement 
+unique. 
+Tant pour ce qui concerne l’éligibilité de la demande que la disponibilité des crédits ou l’acceptation de la 
+demande de versement, l’Office de l’Elevage n’est pas lié par l’appréciation favorable au demandeur effectuée 
+par la DDAF. 
+Article 7 
+Le demandeur prend les engagements suivants : 
+- 
+se soumettre à l’ensemble des contrôles administratifs et sur place qui pourrait résulter de l’octroi 
+d’aides nationales, 
+- 
+conserver l’ensemble des pièces justificatives des investissements réalisés pendant les cinq années 
+suivant le paiement. 
+Le non respect de ces engagements par le bénéficiaire ainsi qu’une fausse déclaration lors des demandes de 
+subvention et de versement entraînent le remboursement des aides indûment perçues majorées des intérêts au 
+taux légal en vigueur ainsi que l’application d’une sanction égale à 20% des aides en cause. 
+Article 8 
+Les dispositions de la présente décision s'appliquent en terme de réception de demande de subvention jusqu’au 
+31 octobre 2008, et en terme de gestion financière jusqu’au 30 septembre 2010. 
+
+Fait à Montreuil sous Bois, le 
+Le Directeur de l’Office de l’Elevage 
+
+Yves BERGER
