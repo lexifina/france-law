@@ -1,0 +1,194 @@
+# Indemnisation des éleveurs spécialisés de volailles situés dans les 70 communes de la zone de protection influenza aviaire du département de l'Ain. ( Voir en annexe de la présente circulaire la liste de ces communes).
+
+- État : abrogée (au 2018-03-23)
+- NOR : DPEIC20064016IZ
+- Numéro : DPEI/SPM/SDEPA/C2006-4016
+- Date de signature : 2006-03-03
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 11544 (PDF officiel : pdf/2009/04/cir_11544.pdf)
+
+## Texte
+
+1
+LE MINISTERE DE L’AGRICULTURE,
+ET DE LA PECHE
+Direction des Politiques Economique et
+Internationale
+Sous-direction : de l’élevage et des produits
+animaux
+Bureau : du porc, des volailles et de la
+diversification
+Adresse : 3, rue Barbet de Jouy 75349 PARIS SP
+Suivi par : Laurence Smadja
+Tél : 01 49 55 45 52 - Fax : 01 49 55 80 26
+LE MINISTRE DELEGUE AU BUDGET ET A LA
+REFORME DE L’ETAT
+CIRCULAIRE
+DPEI/SPM/SDEPA/C2006-4016
+Date: 03 mars 2006
+Date de mise en application : IMMEDIATE
+ Nombre d'annexe: 1
+Le Ministre délégué au budget et à la
+réforme de l'Etat
+Le Ministre de l'agriculture et de la pêche
+à
+Monsieur le préfet de l’AIN
+Objet : indemnisation des éleveurs spécialisés de volailles situés dans les 70 communes de la zone de
+protection influenza aviaire du département de l’Ain. ( Voir en annexe de la présente circulaire la liste de
+ces communes).
+Résumé : En raison des restrictions aux échanges consécutifs à la découverte de cas
+d’influenza aviaire, les producteurs spécialisés de volailles de chair situés dans les 70
+communes de la zone de protection (zone A) sont dans l’obligation de se soumettre à des
+mesures d’ordre sanitaire et vétérinaire strictes qui affectent la commercialisation de leurs
+produits.
+MOTS-CLES : Volaille de chair – influenza aviaire- Ain-
+Destinataires
+Pour exécution :
+- Monsieur le Préfet du département de l’Ain
+- Monsieur le Directeur Départemental de
+l’Agriculture et de la Forêt de l’Ain
+Monsieur le Trésorier Payeur Général de l’Ain.
+Pour information :
+- Administration centrale
+- COPERCI
+- ACOFA
+- Monsieur le Directeur Départemental des
+Services Vétérinaires de l’Ain
+- Monsieur le directeur Régional de l’Agriculture
+et de la Forêt de Rhône Alpes
+
+3
+1 – Dispositif général
+A la suite de la découverte de plusieurs cas d’influenza aviaire dus au virus H5N1 hautement
+pathogène d’origine asiatique dans le département de l’Ain, un dispositif sanitaire a été mis en place
+par la Direction Générale de l’Alimentation. Ce dispositif comprend notamment des mesures
+d’interdiction de mise sur le marché de la viande de volailles dans la zone de protection, celle ci
+comprenant 70 communes. Bien que des dérogations soient envisageables, elles pénalisent
+fortement la commercialisation de ces viandes. Par conséquent, une indemnisation des producteurs
+de la zone de protection est mise en place selon les modalités définies par la présente circulaire.
+Ce dispositif d’aide doit permettre d’indemniser les pertes subies par les producteurs de la filière
+volaille de chair. L’aide est réservée aux éleveurs professionnels :
+- inscrits à la MSA
+- et selon la définition du SCEES, ayant au moins 200 m² de bâtiments et détenant
+au moins 1 000 poulets, 1000 dindes, 1000 poules pondeuses, 500 pintades, 500
+cailles, 500 pigeons, 200 canards ou 20 oies
+- et dont, le taux de spécialisation de l’exploitation, calculé en pourcentage de la
+marge brute totale de l’exploitation ou du chiffre d’affaires total réalisé par l’activité
+avicole, est supérieur ou égal à 25 %
+- et dont l’exploitation est située dans l’une des 70 communes listées en annexe de
+la présente circulaire.
+2 – Modalités de calcul des aides:
+21- Aide pour l’indemnisation partielle de la production en cours :
+Le montant total de cette aide allouée aux producteurs de volailles sera calculé en prenant en
+compte les coûts de production, d’abattage et d’équarrissage des animaux qui ne sont plus en
+mesure d’être commercialisés.
+Les coûts de production des différentes volailles pourront être calculés à partir de ceux inscrits
+au barème des calamités agricoles du département de l’AIN.
+Les coûts d’abattage et d’équarrissage sont estimés à 300€/tonne.
+22- Aide à l’allongement des vides sanitaires :
+Les éleveurs pourront également bénéficier d’une aide à l’allongement des vides sanitaires
+conformément aux dispositions prévues dans la circulaire de ce jour.
+Toutefois, les éleveurs pourront bénéficier d’une indemnisation qui pourra atteindre 50% des
+pertes et ne sera pas limité par les plafonds prévus par le régime « de minimis ».
+3– Modalités de versement de l’aide
+Les demandes seront à déposer par les éleveurs auprès de la DDAF de l’Ain dés la parution de
+cette circulaire.
+La DDAF établit la liste des éleveurs bénéficiaires et calcule le montant de l’aide octroyée au titre
+du présent dispositif. Elle transmet au Trésorier Payeur Général avant le 31 mars 2006 les pièces
+nécessaires à la mise au paiement de l’aide.
+Ces pièces sont les suivantes :
+- 
+les demandes d’aide des éleveurs bénéficiaires
+- 
+les relevés d’identité bancaire ou postale des bénéficiaires.
+L’aide ne doit pas donner lieu à surcompensation.
+
+4
+Une enveloppe budgétaire vous est notifiée simultanément. Vous veillerez, dans la mise en
+œuvre du dispositif d'aide à ne pas dépasser le montant qui vous est notifié soit en modulant les
+montants unitaires d'aide soit en établissant un ordre de priorité des bénéficiaires.
+Le Ministre de l’agriculture et de la Pêche
+Le Ministre délégué au Budget
+et à la réforme de l’Etat
+Dominique BUSSEREAU
+Jean François COPE
+
+ANNEXE 1 : liste des communes de la zone de protection (Zone A)
+Code
+NOM
+Code
+NOM
+01005 AMBERIEUX-EN-DOMBES
+01297 PIZAY
+01045 BIRIEUX
+01299 LE PLANTAY
+01052 BOULIGNEUX
+01314 PRIAY
+01053 BOURG-EN-BRESSE
+01318 RANCE
+01069 CERTINES
+01319 RELEVANT
+01072 CEYZERIAT
+01322 REYRIEUX
+01074 CHALAMONT
+01325 RIGNIEUX-LE-FRANC
+01083 CHANEINS
+01328 ROMANS
+01084 CHANOZ-CHATENAY
+01333 SAINT-ANDRE-DE-CORCY
+01085 LA CHAPELLE-DU-CHATELARD
+01335 SAINT-ANDRE-LE-BOUCHOUX
+01090 CHATENAY
+01336 SAINT-ANDRE-SUR-VIEUX-JONC
+01092 CHATILLON-LA-PALUD
+01342 SAINTE-CROIX
+01093 CHATILLON-SUR-CHALARONNE
+01349 SAINT-ELOI
+01096 CHAVEYRIAT
+01356 SAINT-GEORGES-SUR-RENON
+01105 CIVRIEUX
+01359 SAINT-GERMAIN-SUR-RENON
+01113 CONDEISSIAT
+01362 SAINT-JEAN-DE-THURIGNEUX
+01129 CRANS
+01369 SAINT-JUST
+01145 DOMPIERRE-SUR-VEYLE
+01371 SAINT-MARCEL
+01151 DRUILLAT
+01381 SAINT-NIZIER-LE-DESERT
+01156 FARAMANS
+01382 SAINTE-OLIVE
+01195 JASSERON
+01383 SAINT-PAUL-DE-VARAX
+01198 JOYEUX
+01385 SAINT-REMY
+01207 LAPEYROUSE
+01389 SAINT-TRIVIER-SUR-MOIGNANS
+01211 LENT
+01393 SANDRANS
+01235 MARLIEUX
+01398 SAVIGNEUX
+01244 MEXIMIEUX
+01405 SERVAS
+01248 MIONNAY
+01412 SULIGNAT
+01249 MIRIBEL
+01424 TRAMOYES
+01254 MONTAGNAT
+01425 LA TRANCLIERE
+01260 LE MONTELLIER
+01430 VARAMBON
+01261 MONTHIEUX
+01434 VERSAILLEUX
+01262 MONTLUEL
+01443 VILLARS-LES-DOMBES
+01264 MONTRACOL
+01446 VILLENEUVE
+01272 NEUVILLE-LES-DAMES
+01449 VILLETTE-SUR-AIN
+01289 PERONNAS
+01450 VILLIEU-LOYES-MOLLON
+(70 Communes)
