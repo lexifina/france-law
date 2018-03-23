@@ -1,0 +1,114 @@
+# Pour 1999 ,des marchés publics d'incinération ont été passé dans 9 départements, ils concernent l'incinération d'un tonnage total de  192 700 t
+
+- État : abrogée (au 2018-03-23)
+- NOR : DPEIN994006
+- Numéro : DPEI/SDEPA/N99-4006
+- Date de signature : 1999-10-19
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 18837 (PDF officiel : pdf/2009/04/cir_18837.pdf)
+
+## Texte
+
+1/2
+RÉPUBLIQUE FRANÇAISE
+MINISTÈRE DE L'AGRICULTURE ET DE LA PÊCHE
+DIRECTION DES POLITIQUES ECONOMIQUE ET INTERNATIONALE
+SERVICE DES PRODUITS ET DES MARCHES
+SOUS-DIRECTION DE L’ELEVAGE ET DES
+PRODUITS ANIMAUX
+NOTE DE SERVICE
+BUREAU DES INDUSTRIES DES VIANDES
+DPEI/SDEPA/N99-4006
+Adresse : 251, rue de Vaugirard
+du 19 OCTOBRE 1999
+ 75732 - PARIS Cédex 15
+Classement :
+Téléphone : 01.49.55.58.76
+Fax : 01.49.55.49.25
+NOTE DE SERVICE
+LE MINISTRE DE L'AGRICULTURE ET DE LA PÊCHE
+à
+Mesdames et Messieurs les PRÉFETS de DÉPARTEMENT
+02-03-15-22-35-39-42-47-56-85
+OBJET : Organisation du service public de l’équarrissage
+ Marchés d’incinération pour l’année 1999
+Références : Note de service DGAL/SDPA/98-8158 du 29 septembre 1998
+PLAN DE DIFFUSION
+Pour exécution
+Pour information
+- Mmes & MM. les Préfets
+- Mmes & MM. les D.D.A.F.
+- Mmes & MM.les D.S.V.
+des départements :
+02-03-15-22-35-39-42-47-56-85
+- MM. les Préfets de Région
+- MM. les D.R.A.F
+- MM. les I.G.I.R.
+- Mmes & MM. les C.G.I.R.
+
+1/2
+Marchés d’incinération :
+En 1998, faute d’avoir pu trouver une solution locale, les marchés ont été passés au niveau
+national. L’exécution de ces marchés a connu un retard pour des raisons techniques et
+logistiques. Ces retards ont occasionné la constitution de stocks dont le volume total était
+évalué à 100 362 t au 1er janvier 1999.
+La note de service DGAL/SDPA/98-8158 du 29 septembre 1998 a proposé, pour l’année
+1999, de lancer des appels d’offres départementaux pour les départements concernés par des
+sites de production et de stockage de farines (AISNE, ALLIER, CANTAL, COTES
+D’ARMOR, ILLE ET VILAINE, JURA, LOIRE, LOT et GARONNE, MORBIHAN,
+VENDÉE).
+Ainsi, pour 1999 ,des marchés publics d’incinération ont été passé dans 9 départements, ils
+concernent l’incinération d’un tonnage total de 192 700 t : 144 100 t provenant des sites de
+fabrication de farines du service public et 48 600 t issus des sites de stockage.
+La résorption des stocks de farines est largement engagée au cours de l’année 1999. Pour les
+stocks les plus importants (Plouisy et Caudan) des tranches conditionnelles des marchés
+d’incinération sont prévues pour l’année 2000.
+Les appels d’offre avaient été infructueux pour certains stocks concernant au total environ
+19 000 t de farines dans le Morbihan (site de Cleguer) et dans l’Essonne (site de Milly la
+Forêt).
+Exécution des marchés signés :
+Au 1er août 1999, les marchés signés connaissent des degrés de réalisation variables selon les
+départements et les incinérateurs ; il apparaît que des retards ont d’ores et déjà été pris dans
+l’évacuation des farines issues des sites de stockage1.
+Il vous appartient d’être vigilants quant à ces retards et de vous assurer que les stocks seront
+bien incinérés en 1999, à hauteur des engagements pris dans les marchés.
+Possibilité d’une mise en demeure des titulaires des marchés d’incinération :
+Si les titulaires des marchés d’élimination des stocks de farines animales semblent prendre du
+retard dans la réalisation de leur prestation, afin d’éviter une situation d’urgence en fin
+d’année, il convient d’anticiper en interrogeant les titulaires concernés sur les mesures qu’ils
+comptent mettre en œuvre pour tenir leurs engagements et leur calendrier prévisionnel de
+réalisation.
+
+1 Indépendamment du cas particulier des stocks bretons pour lesquels des mesures
+d’urgence ont dues être prises.
+
+2/2
+Cette demande doit s’effectuer sous forme de mise en demeure (courrier recommandé avec
+accusé de réception). Il est primordial de fixer un délai pour la réponse. En effet, une absence
+de réponse du titulaire dans les délais impartis permettra de le considérer comme ne pouvant
+pas exécuter ses engagements et, à partir de là, d’enclencher une procédure de résiliation du
+marché aux torts du titulaire (article 28.I.e. du CCAG FCS) ainsi que l’exécution du service à
+ses frais et risques (article 32 du CCAG FCS).
+Dans cette mise en demeure, il conviendra de rappeler que le marché prévoit :
+1. l’élimination de l’ensemble des farines au plus tard le 31 décembre 1999 ;
+2. une pénalité journalière en cas de retard.
+Il conviendra également d’attirer l’attention du titulaire sur le fait qu’une mauvaise exécution
+du marché actuel autoriserait l’administration à l’écarter de prochaines consultations.
+L’intérêt de l’administration étant que le marché en cours s’exécute au mieux, il est important
+de rappeler au titulaire que le code des marchés publics l’autorise à sous-traiter une partie du
+marché après acceptation du sous-traitant et agrément des conditions de paiement de ce
+dernier par l’administration.
+Conclusion :
+Le stockage des farines issues du service public de l’équarrissage sur de longues périodes
+génère des coûts importants.
+les problèmes constatés depuis juillet 1999 sur les sites de stockage les plus importants
+Plouisy (22) et Cleguer (56) témoignent des risques sanitaires et environnementaux posés par
+cette pratique.
+Il est donc particulièrement important pour une gestion sereine du service public de
+l’équarrissage de veiller à l’exécution des marchés d’incinération signés pour l’année 1999.
+Le Sous Directeur de l'élevage et
+des produits animaux
+Christian BERGER
