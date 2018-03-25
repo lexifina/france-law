@@ -4,17 +4,15 @@ CONCOURS SUR ÉPREUVES OUVERT AUX VOLONTAIRES DE LA GENDARMERIE, AUX ADJOINTS DE
 
 (2° de l'article 13-1 du décret du 12 septembre 2008 susvisé)
 
-I.-Nature, forme et programmes des épreuves d'admissibilité
+I. - Nature, forme et programmes des épreuves d'admissibilité
 
 Les épreuves écrites comprennent :
 
--une épreuve de connaissances professionnelles (durée : 3 heures ; coefficient 5) ;
+- une épreuve de connaissances professionnelles (durée : 3 heures ; coefficient 5) ;
 
--une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2) ;
+- une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2).
 
--une épreuve facultative de langue étrangère (durée : 30 minutes ; seuls les points au-dessus de la note de 8/20 sont comptabilisés et ajoutés au total des points des épreuves d'admissibilité).
-
-1.1. Epreuve de connaissances professionnelles
+1.1. Epreuve de connaissances professionnelles.
 
 Cette épreuve consiste pour le candidat à répondre à plusieurs questions, avec ou sans documentation, sur des problématiques relatives à la sécurité intérieure et à la défense. Les questions portent sur le programme défini au paragraphe IV de la présente annexe.
 
@@ -22,21 +20,11 @@ Il est attendu des candidats qu'ils aient une bonne connaissance des textes qui 
 
 Cette épreuve a également pour objectif d'évaluer l'expression écrite du candidat. Les réponses aux questions devront être organisées (introduction-argumentation-conclusion). Une attention particulière sera portée à la maîtrise de la langue française.
 
-1.2. Epreuve d'aptitude professionnelle
+1.2. Epreuve d'aptitude professionnelle.
 
 Cette épreuve consiste en un QCM portant sur des suites ou des ensembles logiques à résoudre.
 
 Elle vise à évaluer le potentiel intellectuel général des candidats, et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse par le développement d'un système de raisonnement logique.
-
-1.3. Epreuve facultative de langue étrangère
-
-Cette épreuve consiste en un QCM de niveau baccalauréat portant sur la syntaxe, le vocabulaire et la grammaire d'une langue étrangère.
-
-Il est attendu des candidats qu'ils maîtrisent les fondamentaux d'une langue étrangère pour converser et répondre aux sollicitations auxquelles ils peuvent être confrontés à l'occasion du service.
-
-Les langues proposées au choix des candidats sont les suivantes : allemand, anglais, arabe littéral, espagnol, italien, portugais.
-
-L'usage du dictionnaire monolingue ou bilingue est interdit.
 
 II.-Inventaires de personnalité
 
@@ -339,7 +327,3 @@ g) Aspects socioculturels contemporains de la délinquance.
 -les stupéfiants ;
 
 -l'immigration irrégulière.
-
-NOTA :
-
-L'arrêté du 15 mars 2017, publié au JORF du 18 mars 2017 (NOR : INTJ1708397A), a reporté la date d'entrée en vigueur de l'arrêté du 10 février 2017 au 4 octobre 2017.

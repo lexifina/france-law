@@ -6,15 +6,13 @@ OU D'UN DIPLÔME OU TITRE ENREGISTRÉ ET CLASSÉ AU MOINS AU NIVEAU IV
 
 (1° de l'article 13-1 du décret du 12 septembre 2008 susvisé)
 
-I.-Nature, forme et programmes des épreuves d'admissibilité.
+I. - Nature, forme et programmes des épreuves d'admissibilité
 
 Les épreuves d'admissibilité comprennent :
 
--une épreuve de composition de culture générale (durée : 3 heures ; coefficient 5) ;
+- une épreuve de composition de culture générale (durée : 3 heures ; coefficient 5) ;
 
--une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2) ;
-
--une épreuve de langue étrangère (durée : 30 minutes ; coefficient 1).
+- une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2).
 
 1.1. Epreuve de composition de culture générale.
 
@@ -29,16 +27,6 @@ Le devoir devra être soigneusement organisé (introduction, parties, conclusion
 Cette épreuve consiste en un QCM portant sur des suites ou des ensembles logiques à résoudre.
 
 Elle vise à évaluer le potentiel intellectuel général des candidats et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse, par le développement d'un système de raisonnement logique.
-
-1.3. Epreuve de langue étrangère.
-
-Cette épreuve consiste en un QCM de niveau baccalauréat portant sur la syntaxe, le vocabulaire et la grammaire d'une langue étrangère.
-
-Il est attendu des candidats qu'ils maîtrisent les fondamentaux d'une langue étrangère pour converser et répondre aux sollicitations auxquelles ils peuvent être confrontés à l'occasion du service.
-
-Les langues proposées au choix des candidats sont les suivantes : allemand, anglais, arabe littéral, espagnol, italien, portugais.
-
-L'usage du dictionnaire monolingue ou bilingue est interdit.
 
 II.-Inventaires de personnalité
 
