@@ -206,6 +206,8 @@ Paris-Chengdu ;
 
 Paris-Hangzhou ;
 
+Paris-Kunming ;
+
 Paris-Pékin ;
 
 Paris-Shanghai ;
@@ -437,6 +439,8 @@ Maldives :
 Paris-Malé ;
 
 Malawi :
+
+Paris-Blantyre ;
 
 Paris-Lilongwé ;
 
@@ -672,9 +676,15 @@ Paris-Port d'Espagne ;
 
 Tunisie :
 
+Lyon-Djerba ;
+
 Lyon-Monastir ;
 
 Lyon-Tunis ;
+
+Nantes-Djerba ;
+
+Nantes-Monastir ;
 
 Paris-Djerba ;
 
@@ -768,7 +778,11 @@ République dominicaine :
 
 Cayenne-Saint-Domingue ;
 
+Fort-de-France-Punta Cana ;
+
 Fort-de-France-Saint-Domingue ;
+
+Pointe-à-Pitre-Punta Cana ;
 
 Pointe-à-Pitre-Saint-Domingue ;
 
