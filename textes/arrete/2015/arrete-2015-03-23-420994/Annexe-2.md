@@ -52,11 +52,7 @@ b. marquage et balisage lumineux de la piste et des voies de circulation ;
 
 c. renseignements relatifs à toutes autres aides visuelles disponibles sur l'aérodrome ;
 
-- obstacles :
-
-a. coordonnées, altitude, hauteur, type, balisage lumineux et marquage des obstacles dans l'emprise de l'aérodrome ;
-
-b. le cas échéant, coordonnées, altitude, hauteur et type des obstacles aux abords de l'aérodrome ;
+- obstacles : coordonnées, altitude, hauteur, type, balisage lumineux et marquage des obstacles dans l'emprise de l'aérodrome ;
 
 - résistance des chaussées (force portante), lorsque ces dernières sont revêtues ;
 
