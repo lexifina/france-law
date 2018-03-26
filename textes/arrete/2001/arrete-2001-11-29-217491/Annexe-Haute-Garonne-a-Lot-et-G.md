@@ -70,6 +70,14 @@ B
 
 |
 
+Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
+
+B |
+
+1 |
+
+10 points |
+
 Assistant du chef de service logement et construction durables, en charge de la politique de la ville |
 
 C |
@@ -77,20 +85,6 @@ C |
 1 |
 
 10 points |
-
-Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables |
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
 
 Direction départementale des territoires et de la mer de la Gironde
 
