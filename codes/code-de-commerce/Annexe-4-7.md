@@ -120,10 +120,6 @@ Certificat |
 
 Envoi et exécution d'une commission rogatoire |
 
-4 |
-
-Contredit sur la compétence |
-
 5 |
 
 Copie |
@@ -482,6 +478,20 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 Extrait du registre des entrepreneurs individuels à responsabilité limitée |
 
+84-1 |
+
+Prestations relatives au registre
+
+des bénéficiaires effectifs |
+
+Dépôt du document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale ou au plus tard dans les quinze jours à compter de la délivrance du récépissé de dépôt de dossier de création d'entreprise |
+
+84-2 |
+
+Dépôt du document modificatif ou complémentaire au document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier
+
+|
+
 85 |
 
 Privilèges et sûretés |
@@ -724,7 +734,9 @@ Déclarations prévues au troisième alinéa de l'article R. 4124-6 du code des 
 
 131 |
 
-Acte de déclaration de propriété faite sous serment devant le tribunal de commerce prévu à l'article 101 du code du domaine public fluvial et de la navigation intérieure |
+Acte de déclaration de propriété faite sous serment devant le tribunal de commerce prévu à l'article 101 du code du domaine public fluvial et de la navigation intérieure
+
+|
 
 132 |
 
@@ -732,7 +744,9 @@ Dépôt de procès-verbal de saisie |
 
 133 |
 
-Délivrance de tout état d'inscription positif ou négatif prévu à l'article R. 4121-4 du code des transports |
+Délivrance de tout état d'inscription positif ou négatif prévu à l'article R. 4121-4 du code des transports
+
+|
 
 134 |
 
@@ -740,7 +754,9 @@ Délivrance de tout certificat |
 
 135 |
 
-Délivrance des copies de tous actes déposés au greffe en application du code du domaine public fluvial et de la navigation intérieure |
+Délivrance des copies de tous actes déposés au greffe en application du code du domaine public fluvial et de la navigation intérieure
+
+|
 
 136 |
 
@@ -852,7 +868,9 @@ saisie-attribution
 
 |
 
-Dénonciation de saisie-attribution, prévue à l'article R. 211-3 du code des procédures civiles d'exécution |
+Dénonciation de saisie-attribution, prévue à l'article R. 211-3 du code des procédures civiles d'exécution
+
+|
 
 6 |
 
@@ -866,11 +884,15 @@ Signification au tiers saisi du certificat de non-contestation, prévue au premi
 
 Procédure de saisie-vente |
 
-Dénonciation au débiteur de la saisie-vente pratiquée entre les mains d'un tiers détenteur, prévue à l'article R. 221-26 du code des procédures civiles d'exécution |
+Dénonciation au débiteur de la saisie-vente pratiquée entre les mains d'un tiers détenteur, prévue à l'article R. 221-26 du code des procédures civiles d'exécution
+
+|
 
 9 |
 
-Dénonciation d'opposition au créancier premier saisissant et au débiteur, prévue à l'article R. 221-42 du code des procédures civiles d'exécution |
+Dénonciation d'opposition au créancier premier saisissant et au débiteur, prévue à l'article R. 221-42 du code des procédures civiles d'exécution
+
+|
 
 10 |
 
@@ -878,7 +900,9 @@ Dénonciation d'opposition et sommation au créancier premier saisissant de noti
 
 11 |
 
-Sommation au créancier premier saisissant de procéder aux formalités de mise en vente forcée, prévue à l'article R. 221-46 du code des procédures civiles d'exécution |
+Sommation au créancier premier saisissant de procéder aux formalités de mise en vente forcée, prévue à l'article R. 221-46 du code des procédures civiles d'exécution
+
+|
 
 12 |
 
@@ -888,13 +912,17 @@ Signification de la date de vente au débiteur, prévue à l'article R. 221-35 d
 
 Procédure de saisie par déclaration à la préfecture |
 
-Dénonciation au débiteur du procès-verbal d'indisponibilité du certificat d'immatriculation, prévue à l'article R. 223-3 du code des procédures civiles d'exécution |
+Dénonciation au débiteur du procès-verbal d'indisponibilité du certificat d'immatriculation, prévue à l'article R. 223-3 du code des procédures civiles d'exécution
+
+|
 
 14 |
 
 Procédure de saisie des droits d'associé et des valeurs mobilières |
 
-Dénonciation au débiteur de la saisie des droits d'associé et des valeurs mobilières, prévue à l'article R. 232-6 du code des procédures civiles d'exécution |
+Dénonciation au débiteur de la saisie des droits d'associé et des valeurs mobilières, prévue à l'article R. 232-6 du code des procédures civiles d'exécution
+
+|
 
 15 |
 
@@ -906,13 +934,15 @@ Signification à la société du cahier des charges, prévue au premier alinéa 
 
 17 |
 
-Signification au débiteur, à la société et aux autres créanciers opposants, s'il y a lieu, de la date de vente de parts d'associé et de valeurs mobilières, prévue au troisième alinéa de l'article R. 233-8 du code des procédures civiles d'exécution |
+Signification au débiteur, à la société et aux autres créanciers opposants, s'il y a lieu, de la date de vente de parts d'associé et de valeurs mobilières, prévue au troisième alinéa de l'article R. 233-8 du code des procédures civiles d'exécution
+
+|
 
 18 |
 
 Mesures d'expulsion |
 
-Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2 et R. 433-7 du code des procédures civiles d'exécution |
+Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2et R. 433-7du code des procédures civiles d'exécution |
 
 19 |
 
@@ -926,25 +956,35 @@ Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'art
 
 21 |
 
-Signification au tiers saisi de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances avec demande de paiement, prévue à l'article R. 523-7 du code des procédures civiles d'exécution |
+Signification au tiers saisi de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances avec demande de paiement, prévue à l'article R. 523-7 du code des procédures civiles d'exécution
+
+|
 
 22 |
 
-Signification au débiteur de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances, prévue à l'article R. 523-8 du code des procédures civiles d'exécution |
+Signification au débiteur de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances, prévue à l'article R. 523-8 du code des procédures civiles d'exécution
+
+|
 
 23 |
 
-Signification au tiers saisi du certificat de non-contestation et sommation de payer, prévue à l'article R. 523-9 du code des procédures civiles d'exécution |
+Signification au tiers saisi du certificat de non-contestation et sommation de payer, prévue à l'article R. 523-9 du code des procédures civiles d'exécution
+
+|
 
 24 |
 
 Mesures conservatoires et sûretés judiciaires réalisées dans le cadre de la saisie conservatoire sur les biens meubles corporels |
 
-Dénonciation au débiteur du procès-verbal de saisie conservatoire de meubles entre les mains d'un tiers, prévue au deuxième alinéa de l'article R. 522-5 du code des procédures civiles d'exécution |
+Dénonciation au débiteur du procès-verbal de saisie conservatoire de meubles entre les mains d'un tiers, prévue au deuxième alinéa de l'article R. 522-5 du code des procédures civiles d'exécution
+
+|
 
 25 |
 
-Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution |
+Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution
+
+|
 
 26 |
 
@@ -952,31 +992,41 @@ Signification au débiteur de l'acte de conversion en saisie-vente de la saisie 
 
 27 |
 
-Signification au tiers détenteur de l'acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue au dernier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution |
+Signification au tiers détenteur de l'acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue au dernier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution
+
+|
 
 28 |
 
-Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11 et R. 522-12 du code des procédures civiles d'exécution |
+Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11et R. 522-12du code des procédures civiles d'exécution |
 
 29 |
 
-Signification à l'officier vendeur d'un acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue à l'article R. 251-5 du code des procédures civiles d'exécution |
+Signification à l'officier vendeur d'un acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue à l'article R. 251-5 du code des procédures civiles d'exécution
+
+|
 
 30 |
 
 Mesures conservatoires et sûretés judiciaires réalisées dans le cadre de la saisie conservatoire des droits d'associé et des valeurs mobilières |
 
-Dénonciation au débiteur de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévue à l'article R. 524-2 du code des procédures civiles d'exécution |
+Dénonciation au débiteur de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévue à l'article R. 524-2 du code des procédures civiles d'exécution
+
+|
 
 31 |
 
-Dénonciation au tiers saisi de l'acte de conversion en saisie-vente de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévue à l'article R. 524-5 du code des procédures civiles d'exécution |
+Dénonciation au tiers saisi de l'acte de conversion en saisie-vente de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévue à l'article R. 524-5 du code des procédures civiles d'exécution
+
+|
 
 32 |
 
 Mesures conservatoires et sûretés judiciaires réalisées dans le cadre des sûretés |
 
-Dénonciation au débiteur du dépôt des bordereaux d'inscription ou de la signification du nantissement, prévue à l'article R. 532-5 du code des procédures civiles d'exécution |
+Dénonciation au débiteur du dépôt des bordereaux d'inscription ou de la signification du nantissement, prévue à l'article R. 532-5 du code des procédures civiles d'exécution
+
+|
 
 33 |
 
@@ -1004,19 +1054,23 @@ Dénonciation à la caution du commandement de payer les loyers et sommation de 
 
 37 |
 
-Signification de mémoire prévue à l'article 978 du code de procédure civile |
+Signification de mémoire |
 
 38 |
 
-Procès-verbal d'offres réelles, prévu à l'article 1426 du code de procédure civile |
+Procès-verbal d'offres réelles, prévu à l'article 1426 du code de procédure civile
+
+|
 
 39 |
 
-Dénonciation au débiteur de la saisie-revendication entre les mains d'un tiers, prévue au deuxième alinéa de l'article R. 222-22 du code des procédures civiles d'exécution |
+Dénonciation au débiteur de la saisie-revendication entre les mains d'un tiers, prévue au deuxième alinéa de l'article R. 222-22 du code des procédures civiles d'exécution
+
+|
 
 40 |
 
-Signification d'une proposition de redressement prévue aux articles L. 57 et L. 76 du livre des procédures fiscales |
+Signification d'une proposition de redressement prévue aux articles L. 57et L. 76du livre des procédures fiscales |
 
 41 |
 
@@ -1024,7 +1078,9 @@ Mise en demeure de payer et commandement de payer |
 
 Saisie-vente |
 
-Injonction de communiquer et le commandement de payer, prévus à l'article R. 221-3 du code des procédures civiles d'exécution |
+Injonction de communiquer et le commandement de payer, prévus à l'article R. 221-3 du code des procédures civiles d'exécution
+
+|
 
 42 |
 
@@ -1032,7 +1088,9 @@ Commandement de payer précédant la saisie-vente, prévu à l'article R. 221-1 
 
 43 |
 
-Signification du certificat de non-paiement valant commandement de payer, prévue à l'article L. 131-73 du code monétaire et financier |
+Signification du certificat de non-paiement valant commandement de payer, prévue à l'article L. 131-73 du code monétaire et financier
+
+|
 
 44 |
 
@@ -1044,19 +1102,23 @@ Commandement de payer les loyers et les charges, prévu à l'article 24 de la lo
 
 Charges de copropriété |
 
-Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis |
+Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965fixant le statut de la copropriété des immeubles bâtis |
 
 46 |
 
 Saisie de biens placés dans un coffre-fort |
 
-Commandement de payer et la dénonciation au débiteur de la saisie des biens placés dans un coffre-fort, prévus à l'article R. 224-3 du code des procédures civiles d'exécution |
+Commandement de payer et la dénonciation au débiteur de la saisie des biens placés dans un coffre-fort, prévus à l'article R. 224-3 du code des procédures civiles d'exécution
+
+|
 
 47 |
 
 Saisie conservatoire des droits d'associés et des valeurs mobilières |
 
-Commandement de payer et la dénonciation au débiteur de l'acte de conversion en saisie-vente de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévus à l'article R. 524-4 du code des procédures civiles d'exécution |
+Commandement de payer et la dénonciation au débiteur de l'acte de conversion en saisie-vente de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévus à l'article R. 524-4 du code des procédures civiles d'exécution
+
+|
 
 48 |
 
@@ -1066,13 +1128,17 @@ Lettres de change. Billets
 
 |
 
-Protêt, prévu aux articles L. 511-52 et L. 512-3 du présent code et à l'article L. 131-47 du code monétaire et financier |
+Protêt, prévu aux articles L. 511-52 et L. 512-3 du présent code et à l'article L. 131-47 du code monétaire et financier
+
+|
 
 49 |
 
 Saisie-appréhension |
 
-Commandement de payer et la dénonciation au débiteur du procès-verbal d'appréhension à la demande du créancier gagiste, prévus à l'article R. 222-6 du code des procédures civiles d'exécution |
+Commandement de payer et la dénonciation au débiteur du procès-verbal d'appréhension à la demande du créancier gagiste, prévus à l'article R. 222-6 du code des procédures civiles d'exécution
+
+|
 
 50 |
 
@@ -1090,21 +1156,29 @@ Acte mentionné au numéro 50 du présent tableau, en cas de compte clôturé ou
 
 Saisie-vente |
 
-Acte de saisie-vente ou acte de saisie-vente transformée en réception de deniers, prévu à l'article R. 221-16 du code des procédures civiles d'exécution |
+Acte de saisie-vente ou acte de saisie-vente transformée en réception de deniers, prévu à l'article R. 221-16 du code des procédures civiles d'exécution
+
+|
 
 53 |
 
-Acte de saisie-vente transformée en carence, prévu à l'article R. 221-14 du code des procédures civiles d'exécution |
+Acte de saisie-vente transformée en carence, prévu à l'article R. 221-14 du code des procédures civiles d'exécution
+
+|
 
 54 |
 
-Acte d'opposition-jonction, prévu à l'article R. 221-41 du code des procédures civiles d'exécution |
+Acte d'opposition-jonction, prévu à l'article R. 221-41 du code des procédures civiles d'exécution
+
+|
 
 55 |
 
 Saisie des récoltes sur pied |
 
-Acte de saisie, prévu à l'article R. 221-57 du code des procédures civiles d'exécution |
+Acte de saisie, prévu à l'article R. 221-57 du code des procédures civiles d'exécution
+
+|
 
 56 |
 
@@ -1114,41 +1188,55 @@ Saisie par déclaration
 
 |
 
-Acte de déclaration, prévu à l'article R. 223-2 du code des procédures civiles d'exécution |
+Acte de déclaration, prévu à l'article R. 223-2 du code des procédures civiles d'exécution
+
+|
 
 57 |
 
 Saisie des droits d'associé et des valeurs mobilières |
 
-Acte de saisie, prévu à l'article R. 232-5 du code des procédures civiles d'exécution |
+Acte de saisie, prévu à l'article R. 232-5 du code des procédures civiles d'exécution
+
+|
 
 58 |
 
 Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie conservatoire sur les biens meubles corporels |
 
-Acte de saisie conservataire, prévu à l'article R. 522-1 du code des procédures civiles d'exécution |
+Acte de saisie conservataire, prévu à l'article R. 522-1 du code des procédures civiles d'exécution
+
+|
 
 59 |
 
 Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie conservatoire des créances |
 
-Acte de saisie conservatoire, prévu à l'article R. 523-1 du code des procédures civiles d'exécution |
+Acte de saisie conservatoire, prévu à l'article R. 523-1 du code des procédures civiles d'exécution
+
+|
 
 60 |
 
 Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie conservatoire des droits d'associé et des valeurs mobilières |
 
-Acte de saisie conservatoire, prévu à l'article R. 524-1 du code des procédures civiles d'exécution |
+Acte de saisie conservatoire, prévu à l'article R. 524-1 du code des procédures civiles d'exécution
+
+|
 
 61 |
 
 Mesures conservatoires et de sûretés judiciaires dans le cadre des sûretés |
 
-Signification à la société du nantissement des parts sociales, prévue à l'article R. 532-3 du code des procédures civiles d'exécution |
+Signification à la société du nantissement des parts sociales, prévue à l'article R. 532-3 du code des procédures civiles d'exécution
+
+|
 
 62 |
 
-Signification à la société ou à la personne morale émettrice du nantissement des valeurs mobilières, prévue à l'article R. 532-4 du code des procédures civiles d'exécution |
+Signification à la société ou à la personne morale émettrice du nantissement des valeurs mobilières, prévue à l'article R. 532-4 du code des procédures civiles d'exécution
+
+|
 
 63 |
 
@@ -1162,19 +1250,25 @@ dans un coffre-fort
 
 |
 
-Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'exécution |
+Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'exécution
+
+|
 
 65 |
 
 Saisie-revendication des biens meubles corporels |
 
-Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution |
+Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution
+
+|
 
 66 |
 
 Saisie-appréhension. |
 
-Acte d'appréhension, prévu à l'article R. 222-4 du code des procédures civiles d'exécution |
+Acte d'appréhension, prévu à l'article R. 222-4 du code des procédures civiles d'exécution
+
+|
 
 67 |
 
@@ -1184,7 +1278,9 @@ du véhicule
 
 |
 
-Acte d'immobilisation ou d'enlèvement, prévu à l'article R. 223-8 du code des procédures civiles d'exécution |
+Acte d'immobilisation ou d'enlèvement, prévu à l'article R. 223-8 du code des procédures civiles d'exécution
+
+|
 
 68 |
 
@@ -1194,19 +1290,21 @@ et aéronefs
 
 |
 
-Acte de saisie, prévu aux articles L. 123-2 et R. 123-9 du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25, et L. 5114-27 à L. 5114-29 du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer |
+Acte de saisie, prévu aux articles L. 123-2et R. 123-9du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25, et L. 5114-27 à L. 5114-29du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer |
 
 69 |
 
 Saisie-contrefaçon |
 
-Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du code de la propriété intellectuelle |
+Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du code de la propriété intellectuelle
+
+|
 
 70 |
 
 Saisie immobilière |
 
-Commandement de payer valant saisie, prévu aux articles R. 321-1 et R. 321-5 du code des procédures civiles d'exécution |
+Commandement de payer valant saisie, prévu aux articles R. 321-1et R. 321-5du code des procédures civiles d'exécution |
 
 71 |
 
@@ -1214,7 +1312,9 @@ Commandement de payer au débiteur principal avec mention du commandement valant
 
 72 |
 
-Dénonciation au conjoint lorsque le bien est le siège du logement de la famille et qu'il appartient en propre à l'un des époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution |
+Dénonciation au conjoint lorsque le bien est le siège du logement de la famille et qu'il appartient en propre à l'un des époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution
+
+|
 
 73 |
 
@@ -1224,7 +1324,7 @@ Saisie des fruits prévue à l'article R. 321-18 du code des procédures civiles
 
 Oppositions |
 
-Opposition au paiement du prix de cession d'un lot de copropriété, prévue à l'article 20 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis |
+Opposition au paiement du prix de cession d'un lot de copropriété, prévue à l'article 20 de la loi n° 65-557 du 10 juillet 1965fixant le statut de la copropriété des immeubles bâtis |
 
 75 |
 
@@ -1232,7 +1332,9 @@ Opposition au prix de vente du fonds de commerce ou de cession du droit au bail,
 
 76 |
 
-Opposition à partage (entre les mains d'un notaire), prévue à l'article 882 du code civil |
+Opposition à partage (entre les mains d'un notaire), prévue à l'article 882 du code civil
+
+|
 
 77 |
 
@@ -1242,7 +1344,9 @@ de créances
 
 |
 
-Signification au débiteur de la cession de créances et autres droits incorporels, prévue à l'article 1690 du code civil |
+Signification au débiteur de la cession de créances et autres droits incorporels, prévue à l'article 1690 du code civil
+
+|
 
 78 |
 
@@ -1270,7 +1374,7 @@ du véhicule
 
 |
 
-Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12 et R. 223-13 du code des procédures civiles d'exécution |
+Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12et R. 223-13du code des procédures civiles d'exécution |
 
 82 |
 
@@ -1280,39 +1384,53 @@ Commandement à la personne tenue de la remise de délivrer ou de restituer, pr�
 
 83 |
 
-Sommation au tiers de remettre le bien, prévue à l'article R. 222-7 du code des procédures civiles d'exécution |
+Sommation au tiers de remettre le bien, prévue à l'article R. 222-7 du code des procédures civiles d'exécution
+
+|
 
 84 |
 
 Saisie-appréhension des biens placés dans un coffre-fort |
 
-Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution |
+Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution
+
+|
 
 85 |
 
-Sommation au débiteur d'assister à l'ouverture du coffre-fort, prévue à l'article R. 525-4 du code des procédures civiles d'exécution |
+Sommation au débiteur d'assister à l'ouverture du coffre-fort, prévue à l'article R. 525-4 du code des procédures civiles d'exécution
+
+|
 
 86 |
 
 Mesures d'expulsion |
 
-Commandement de quitter les lieux, prévu à l'article R. 411-1 du code des procédures civiles d'exécution |
+Commandement de quitter les lieux, prévu à l'article R. 411-1 du code des procédures civiles d'exécution
+
+|
 
 87 |
 
 Saisie des droits d'associé et des valeurs mobilières |
 
-Sommation aux créanciers opposants de prendre communication du cahier des charges, prévue au deuxième alinéa de l'article R. 233-7 du code des procédures civiles d'exécution |
+Sommation aux créanciers opposants de prendre communication du cahier des charges, prévue au deuxième alinéa de l'article R. 233-7 du code des procédures civiles d'exécution
+
+|
 
 88 |
 
 Saisie immobilière |
 
-Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation, prévue à l'article R. 322-4 du code des procédures civiles d'exécution |
+Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation, prévue à l'article R. 322-4 du code des procédures civiles d'exécution
+
+|
 
 89 |
 
-Dénonciation aux créanciers inscrits valant assignation à comparaître, prévue à l'article R. 322-6 du code des procédures civiles d'exécution |
+Dénonciation aux créanciers inscrits valant assignation à comparaître, prévue à l'article R. 322-6 du code des procédures civiles d'exécution
+
+|
 
 90 |
 
@@ -1324,7 +1442,9 @@ Sommation de prendre communication du cahier des charges, prévue à l'article 1
 
 Successions |
 
-Sommation de prendre parti, prévu à l'article 771 du code civil |
+Sommation de prendre parti, prévu à l'article 771 du code civil
+
+|
 
 92 |
 
@@ -1340,11 +1460,11 @@ Mise en vente forcée des biens saisis |
 
 Saisie-vente |
 
-Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34 et R. 221-60 du code des procédures civiles d'exécution |
+Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34et R. 221-60du code des procédures civiles d'exécution |
 
 94 |
 
-Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36 et R. 522-8 du code des procédures civiles d'exécution |
+Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36et R. 522-8du code des procédures civiles d'exécution |
 
 95 |
 
@@ -1354,19 +1474,21 @@ dans un coffre-fort.
 
 |
 
-Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5 et R. 224-7 du code des procédures civiles d'exécution |
+Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5et R. 224-7du code des procédures civiles d'exécution |
 
 96 |
 
 Saisie immobilière |
 
-Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32 et R. 322-33 du code des procédures civiles d'exécution |
+Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32et R. 322-33du code des procédures civiles d'exécution |
 
 97 |
 
 Expulsion |
 
-Procès-verbal d'inventaire, prévu à l'article R. 433-5 du code des procédures civiles d'exécution |
+Procès-verbal d'inventaire, prévu à l'article R. 433-5 du code des procédures civiles d'exécution
+
+|
 
 98 |
 
@@ -1394,7 +1516,9 @@ Actes divers |
 
 Saisie-attribution |
 
-Mainlevée quittance au tiers saisi, prévue à l'article R. 211-7 du code des procédures civiles d'exécution |
+Mainlevée quittance au tiers saisi, prévue à l'article R. 211-7 du code des procédures civiles d'exécution
+
+|
 
 103 |
 
@@ -1402,13 +1526,17 @@ Mainlevée quittance au tiers saisi, prévue à l'article R. 211-7 du code des p
 
 Saisie-vente |
 
-Mainlevée de saisie-vente et la mainlevée d'opposition-jonction, prévue à l'article R. 221-47 du code des procédures civiles d'exécution |
+Mainlevée de saisie-vente et la mainlevée d'opposition-jonction, prévue à l'article R. 221-47 du code des procédures civiles d'exécution
+
+|
 
 104 |
 
 |
 
-Acte de consignation et mainlevée totale ou partielle de saisie-vente, après la vente amiable par le débiteur, prévu à l'article R. 221-32 du code des procédures civiles d'exécution |
+Acte de consignation et mainlevée totale ou partielle de saisie-vente, après la vente amiable par le débiteur, prévu à l'article R. 221-32 du code des procédures civiles d'exécution
+
+|
 
 105 |
 
@@ -1424,13 +1552,17 @@ Procès-verbal de consignation, prévu à l'article 1428 du code de procédure c
 
 Expulsion |
 
-Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du code des procédures civiles d'exécution |
+Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du code des procédures civiles d'exécution
+
+|
 
 107 |
 
 |
 
-Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile |
+Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile
+
+|
 
 108 |
 
@@ -1450,7 +1582,9 @@ Congés et les demandes de renouvellement de bail commercial, prévus aux articl
 
 |
 
-Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civil et à la section 8 du chapitre Ier du Titre Ier du Livre IV du code rural et de la pêche maritime |
+Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civilet à la section 8 du chapitre Ier du Titre Ier du Livre IV du code rural et de la pêche maritime
+
+|
 
 111 |
 
@@ -1466,7 +1600,7 @@ Constatation de l'abandon du local d'habitation avec inventaire des meubles lais
 
 Constats |
 
-Établissement par l'huissier d'un état des lieux à frais partagés entre le bailleur et le locataire, prévu à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
+Établissement par l'huissier d'un état des lieux à frais partagés entre le bailleur et le locataire, prévu à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
 
 113 |
 
@@ -1474,7 +1608,9 @@ Constats |
 
 Recouvrement des petites créances |
 
-Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution |
+Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution
+
+|
 
 114 |
 
@@ -1490,7 +1626,9 @@ Procès-verbal de description des lieux, prévue aux articles R. 322-1 à R. 322
 
 Mariage |
 
-Opposition à mariage, prévue à l'article 176 du code civil |
+Opposition à mariage, prévue à l'article 176 du code civil
+
+|
 
 116 |
 
@@ -1498,13 +1636,17 @@ Opposition à mariage, prévue à l'article 176 du code civil |
 
 Actes en provenance et à destination d'un autre Etat |
 
-Signification en provenance d'un autre Etat, prévue dans le Règlement (CE) n° 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale, et abrogeant le règlement (CE) n° 1348/2000 du Conseil et à l'article 688-2 du code de procédure civile |
+Signification en provenance d'un autre Etat, prévue dans le Règlement (CE) n° 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale, et abrogeant le règlement (CE) n° 1348/2000 du Conseil et à l'article 688-2 du code de procédure civile
+
+|
 
 117 |
 
 |
 
-Transmission de la demande de signification ou de notification dans un autre Etat étranger, prévue dans le Règlement mentionné au numéro 116 du présent tableau, et à l'article 684 du code de procédure civile |
+Transmission de la demande de signification ou de notification dans un autre Etat étranger, prévue dans le Règlement mentionné au numéro 116 du présent tableau, et à l'article 684 du code de procédure civile
+
+|
 
 118 |
 
@@ -1512,7 +1654,9 @@ Transmission de la demande de signification ou de notification dans un autre Eta
 
 Scellés |
 
-Procès-verbal d'apposition des scellés sans diligences particulières, prévu à l'article 1308 du code de procédure civile |
+Procès-verbal d'apposition des scellés sans diligences particulières, prévu à l'article 1308 du code de procédure civile
+
+|
 
 119 |
 
@@ -1524,31 +1668,41 @@ Procès-verbal d'apposition des scellés donnant lieu à des diligences particul
 
 |
 
-Procès-verbal de carence, prévu au deuxième alinéa de l'article 1304 du code de procédure civile |
+Procès-verbal de carence, prévu au deuxième alinéa de l'article 1304 du code de procédure civile
+
+|
 
 121 |
 
 |
 
-Sommation d'assister aux opérations de levée des scellés, prévue à l'article 1317 du code de procédure civile |
+Sommation d'assister aux opérations de levée des scellés, prévue à l'article 1317 du code de procédure civile
+
+|
 
 122 |
 
 |
 
-Acte d'inventaire lors de la levée des scellés, prévu à l'article 1319 du code de procédure civile |
+Acte d'inventaire lors de la levée des scellés, prévu à l'article 1319 du code de procédure civile
+
+|
 
 123 |
 
 |
 
-Procès-verbal de levée des scellés, prévu à l'article 1320 du code de procédure civile |
+Procès-verbal de levée des scellés, prévu à l'article 1320 du code de procédure civile
+
+|
 
 124 |
 
 |
 
-Etat descriptif, prévu à l'article 1323 du code de procédure civile |
+Etat descriptif, prévu à l'article 1323 du code de procédure civile
+
+|
 
 125 |
 
@@ -1560,7 +1714,9 @@ Etat descriptif avec diligences particulières, prévu aux articles 1312 à 1314
 
 |
 
-Procès-verbal de déplacement des scellés, prévu à l'article 1324 du code de procédure civile |
+Procès-verbal de déplacement des scellés, prévu à l'article 1324 du code de procédure civile
+
+|
 
 127 |
 
@@ -1590,7 +1746,9 @@ Recouvrement ou encaissement, après avoir reçu mandat ou pouvoir à cet effet,
 
 Carence |
 
-Etablissement d'un procès-verbal constatant que le destinataire de la signification est sans domicile, ni résidence ni lieu de travail connus, conformément aux dispositions de l'article 659 du code de procédure civile |
+Etablissement d'un procès-verbal constatant que le destinataire de la signification est sans domicile, ni résidence ni lieu de travail connus, conformément aux dispositions de l'article 659 du code de procédure civile
+
+|
 
 Tableau 3-2 annexé à l'article R. 444-3
 
@@ -1674,7 +1832,9 @@ Convocation-art 147 loi du 1er juin 1924 |
 
 146 |
 
-Convocation art 225 loi du 1er juin 1924 |
+Convocation art 225 loi du 1er juin 1924
+
+|
 
 147 |
 
@@ -1710,7 +1870,7 @@ Recherche des informations |
 
 |
 
-Requête aux fins de recherche des informations, prévue aux articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution |
+Requête aux fins de recherche des informations, prévue aux articles L. 152-1et L. 152-2du code des procédures civiles d'exécution |
 
 152 |
 
@@ -1726,11 +1886,15 @@ Saisie des rémunérations |
 
 |
 
-Requête au greffe aux fins de saisie des rémunérations ou en intervention, prévue à l'article R. 3252-13 du code du travail |
+Requête au greffe aux fins de saisie des rémunérations ou en intervention, prévue à l'article R. 3252-13 du code du travail
+
+|
 
 154 |
 
-Notification à l'employeur d'un acte de saisie des rémunérations lorsque le courrier revient non réclamé au tribunal, prévue à l'article 670-1 du code de procédure civile |
+Notification à l'employeur d'un acte de saisie des rémunérations lorsque le courrier revient non réclamé au tribunal, prévue à l'article 670-1 du code de procédure civile
+
+|
 
 155 |
 
@@ -1742,11 +1906,15 @@ Requête au secrétariat-greffe du juge de l'exécution aux fins de délivrance 
 
 156 |
 
-Etablissement du certificat de non-contestation par l'huissier de justice qui a procédé à la saisie, prévue à l'article R. 211-6 du code des procédures civiles d'exécution |
+Etablissement du certificat de non-contestation par l'huissier de justice qui a procédé à la saisie, prévue à l'article R. 211-6 du code des procédures civiles d'exécution
+
+|
 
 157 |
 
-Dénonciation de la saisine du juge de l'exécution à l'huissier de justice en matière de contestation de saisie-attribution, prévue à l'article R. 211-11 du code des procédures civiles d'exécution |
+Dénonciation de la saisine du juge de l'exécution à l'huissier de justice en matière de contestation de saisie-attribution, prévue à l'article R. 211-11 du code des procédures civiles d'exécution
+
+|
 
 158 |
 
@@ -1754,11 +1922,13 @@ Incidents et difficultés d'exécution |
 
 |
 
-Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53 et R. 442-1 du code des procédures civiles d'exécution |
+Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53et R. 442-1du code des procédures civiles d'exécution |
 
 159 |
 
-Information aux parties de la difficulté d'exécution et des lieux, jour et heure de l'audience, prévue à l'article R. 151-3 du code des procédures civiles d'exécution |
+Information aux parties de la difficulté d'exécution et des lieux, jour et heure de l'audience, prévue à l'article R. 151-3 du code des procédures civiles d'exécution
+
+|
 
 160 |
 
@@ -1766,11 +1936,13 @@ Réquisition du concours de la force publique au préfet, prévue à l'article R
 
 161 |
 
-Notification au procureur et au créancier du refus du concours de la force publique, prévue à l'article R. 153-1 du code des procédures civiles d'exécution |
+Notification au procureur et au créancier du refus du concours de la force publique, prévue à l'article R. 153-1 du code des procédures civiles d'exécution
+
+|
 
 162 |
 
-saisie-vente |
+Saisie-vente |
 
 |
 
@@ -1778,15 +1950,21 @@ Requête au juge de l'exécution aux fins d'autorisation de saisie-vente, prévu
 
 163 |
 
-Requête au juge de l'exécution aux fins de désignation d'un séquestre, prévue à l'article R. 221-19 du code des procédures civiles d'exécution |
+Requête au juge de l'exécution aux fins de désignation d'un séquestre, prévue à l'article R. 221-19 du code des procédures civiles d'exécution
+
+|
 
 164 |
 
-Communication au créancier saisissant et aux créanciers opposants des propositions de vente amiable, prévue à l'article R. 221-31 du code des procédures civiles d'exécution |
+Communication au créancier saisissant et aux créanciers opposants des propositions de vente amiable, prévue à l'article R. 221-31 du code des procédures civiles d'exécution
+
+|
 
 165 |
 
-Information des lieux, jour et heure de la vente, prévue à l'article R. 221-35 du code des procédures civiles d'exécution |
+Information des lieux, jour et heure de la vente, prévue à l'article R. 221-35 du code des procédures civiles d'exécution
+
+|
 
 166 |
 
@@ -1806,11 +1984,15 @@ Notification à la personne tenue de délivrer ou de restituer le bien de la som
 
 168 |
 
-Requête au juge de l'exécution aux fins d'une autorisation spéciale d'appréhension dans les locaux servant à l'habitation du tiers, prévue à l'article R. 221-2 du code des procédures civiles d'exécution |
+Requête au juge de l'exécution aux fins d'une autorisation spéciale d'appréhension dans les locaux servant à l'habitation du tiers, prévue à l'article R. 221-2 du code des procédures civiles d'exécution
+
+|
 
 169 |
 
-Notification au tiers de l'acte de saisie-appréhension, prévue au premier alinéa de l'article R. 222-10 du code des procédures civiles d'exécution |
+Notification au tiers de l'acte de saisie-appréhension, prévue au premier alinéa de l'article R. 222-10 du code des procédures civiles d'exécution
+
+|
 
 170 |
 
@@ -1824,7 +2006,9 @@ Saisie-revendication |
 
 |
 
-Requête au juge de l'exécution aux fins de saisie-revendication, prévue à l'article R. 222-17 du code des procédures civiles d'exécution |
+Requête au juge de l'exécution aux fins de saisie-revendication, prévue à l'article R. 222-17 du code des procédures civiles d'exécution
+
+|
 
 172 |
 
@@ -1832,15 +2016,21 @@ Mesures d'exécution sur les véhicules terrestres à moteur. |
 
 |
 
-Mainlevée au préfet de la saisie par déclaration à la préfecture, prévue à l'article R. 223-4 du code des procédures civiles d'exécution |
+Mainlevée au préfet de la saisie par déclaration à la préfecture, prévue à l'article R. 223-4 du code des procédures civiles d'exécution
+
+|
 
 173 |
 
-Lettre au débiteur l'informant de l'immobilisation de son véhicule, prévue à l'article R. 223-9 du code des procédures civiles d'exécution |
+Lettre au débiteur l'informant de l'immobilisation de son véhicule, prévue à l'article R. 223-9 du code des procédures civiles d'exécution
+
+|
 
 174 |
 
-Information au créancier gagiste des propositions de vente amiable ou de la mise en vente aux enchères du véhicule, prévue à l'article R. 223-11 du code des procédures civiles d'exécution |
+Information au créancier gagiste des propositions de vente amiable ou de la mise en vente aux enchères du véhicule, prévue à l'article R. 223-11 du code des procédures civiles d'exécution
+
+|
 
 175 |
 
@@ -1848,11 +2038,15 @@ Saisie des droits d'associé et des valeurs mobilières. |
 
 |
 
-Requête au secrétariat-greffe du juge de l'exécution d'un certificat de non-contestation, prévue à l'article R. 233-1 du code des procédures civiles d'exécution |
+Requête au secrétariat-greffe du juge de l'exécution d'un certificat de non-contestation, prévue à l'article R. 233-1 du code des procédures civiles d'exécution
+
+|
 
 176 |
 
-Rédaction du cahier des charges en matière de saisie des droits d'associé et des valeurs mobilières non admises à la cote officielle ou à celle du second marché, prévue à l'article R. 233-6 du code des procédures civiles d'exécution |
+Rédaction du cahier des charges en matière de saisie des droits d'associé et des valeurs mobilières non admises à la cote officielle ou à celle du second marché, prévue à l'article R. 233-6 du code des procédures civiles d'exécution
+
+|
 
 177 |
 
@@ -1864,11 +2058,13 @@ Expulsion |
 
 |
 
-Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
+Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation, prévue à l'article 24 de la loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 |
 
 179 |
 
-Information au représentant de l'Etat du commandement d'avoir à quitter les lieux, prévue aux articles L. 412-5 et au R. 412-2 du code des procédures civiles d'exécution |
+Information au représentant de l'Etat du commandement d'avoir à quitter les lieux, prévue aux articles L. 412-5 et au R. 412-2 du code des procédures civiles d'exécution
+
+|
 
 180 |
 
@@ -1876,11 +2072,13 @@ Notification à la personne expulsée de la consignation du produit de la vente,
 
 181 |
 
-Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle, prévue au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution |
+Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle, prévue au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution
+
+|
 
 182 |
 
-Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686 et 1687 du code général des impôts. |
+Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686et 1687du code général des impôts. |
 
 183 |
 
@@ -1896,19 +2094,27 @@ Distribution de deniers |
 
 |
 
-Projet de répartition du prix en matière de distribution de deniers, prévue à l'article R. 251-2 du code des procédures civiles d'exécution |
+Projet de répartition du prix en matière de distribution de deniers, prévue à l'article R. 251-2 du code des procédures civiles d'exécution
+
+|
 
 185 |
 
-Notification du projet de répartition amiable au débiteur et à chacun des créanciers, prévue à l'article R. 251-4 du code des procédures civiles d'exécution |
+Notification du projet de répartition amiable au débiteur et à chacun des créanciers, prévue à l'article R. 251-4 du code des procédures civiles d'exécution
+
+|
 
 186 |
 
-Convocation du débiteur et de tous les créanciers et dressant les points de désaccord, prévue à l'article R. 251-6 du code des procédures civiles d'exécution |
+Convocation du débiteur et de tous les créanciers et dressant les points de désaccord, prévue à l'article R. 251-6 du code des procédures civiles d'exécution
+
+|
 
 187 |
 
-Acte constatant le désaccord des créanciers et dressant les points de désaccord, prévue à l'article R. 251-8 du code des procédures civiles d'exécution |
+Acte constatant le désaccord des créanciers et dressant les points de désaccord, prévue à l'article R. 251-8 du code des procédures civiles d'exécution
+
+|
 
 188 |
 
@@ -1920,7 +2126,7 @@ ou de faire
 
 |
 
-Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407 et 1425-1 du code de procédure civile |
+Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407et 1425-1du code de procédure civile |
 
 189 |
 
@@ -1928,11 +2134,15 @@ Saisie immobilière |
 
 |
 
-Rédaction du bordereau en vue de la publication du commandement, prévue à l'article R. 321-6 du code des procédures civiles d'exécution |
+Rédaction du bordereau en vue de la publication du commandement, prévue à l'article R. 321-6 du code des procédures civiles d'exécution
+
+|
 
 190 |
 
-Mention en marge au bureau des hypothèques, prévue à l'article R. 322-9 du code des procédures civiles d'exécution |
+Mention en marge au bureau des hypothèques, prévue à l'article R. 322-9 du code des procédures civiles d'exécution
+
+|
 
 191 |
 
@@ -1960,7 +2170,7 @@ Réquisitions d'état civil |
 
 196 |
 
-Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice |
+Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice |
 
 197 |
 
@@ -1968,7 +2178,7 @@ Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 19
 
 |
 
-Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671 et 982 du code de procédure civile |
+Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671et 982du code de procédure civile |
 
 198 |
 
@@ -1984,15 +2194,15 @@ Paiement direct des pensions alimentaires |
 
 |
 
-Demande de paiement direct, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
+Demande de paiement direct, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
 
 200 |
 
-Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
+Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
 
 201 |
 
-Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution |
+Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution |
 
 202 |
 
@@ -2000,11 +2210,15 @@ Inventaire estimatif de l'actif et du passif des successions vacantes |
 
 |
 
-Inventaire en cas de succession vacante, prévu à l'article 809-2 du code civil |
+Inventaire en cas de succession vacante, prévu à l'article 809-2 du code civil
+
+|
 
 203 |
 
-Délivrance d'une copie de l'inventaire dressé en cas de succession vacante, prévue à l'article 1345 du code de procédure civile |
+Délivrance d'une copie de l'inventaire dressé en cas de succession vacante, prévue à l'article 1345 du code de procédure civile
+
+|
 
 204 |
 
@@ -2294,15 +2508,25 @@ Donation entre époux, pendant le mariage |
 
 Révocation de donation entre époux, de testament, de mandat, ou de substitution |
 
+23-1 |
+
+Attestation de propriété qui est délivrée à la suite du constat de la survenance d'une condition résolutoire entraînant la révocation d'une donation en application de l'article 960 du code civil
+
+|
+
 24 |
 
 Actes concernant la protection des membres de la famille |
 
-Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du prédécédé prévue à l'article 1390 du code civil, ou pour le prélèvement de biens communs prévue à l'article 1511 du code civil |
+Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du prédécédé prévue à l'article 1390 du code civil, ou pour le prélèvement de biens communs prévue à l'article 1511 du code civil
+
+|
 
 25 |
 
-Option par les héritiers pour le maintien des formes et modalités de règlement de la prestation compensatoire qui incombait à l'époux débiteur décédé, prévue à l'article 280-1 du code civil |
+Option par les héritiers pour le maintien des formes et modalités de règlement de la prestation compensatoire qui incombait à l'époux débiteur décédé, prévue à l'article 280-1 du code civil
+
+|
 
 26 |
 
@@ -2322,7 +2546,7 @@ Déclaration d'emploi par acte séparé |
 
 30 |
 
-Constitution de pension alimentaire et rente indexée en vertu des articles 205 et 373-2-3 du code civil |
+Constitution de pension alimentaire et rente indexée en vertu des articles 205et 373-2-3du code civil |
 
 31 |
 
@@ -2330,7 +2554,7 @@ Constitution de pension alimentaire et rente indexée dans les autres cas que ce
 
 32 |
 
-Constitution de rente perpétuelle ou de rente viagère |
+Constitution de rente perpétuelle, constitution de rente viagère ou rachat de rente viagère portant sur un immeuble |
 
 33 |
 
@@ -2342,23 +2566,27 @@ Récépissé ou arrêté de compte de tutelle, par acte séparé |
 
 35 |
 
-Établissement du mandat posthume |
+Etablissement du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil |
 
 36 |
 
-Acceptation du mandat posthume par acte séparé |
+Acceptation du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil |
 
 37 |
 
-Révocation par le mandant |
+Révocation, par le mandant, du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil |
 
 38 |
 
-Renonciation par le mandataire |
+Renonciation, par le mandataire, au mandat posthume ou au mandat de protection future prévu au troisième alinéa de l'article 477 du code civil
+
+|
 
 39 |
 
-Examen des comptes du mandataire désigné au titre d'un mandat de protection future, en application de l'article 491 du code civil |
+Examen des comptes du mandataire désigné au titre d'un mandat de protection future, en application de l'article 491 du code civil
+
+|
 
 40 |
 
@@ -2372,11 +2600,21 @@ Contrat de mariage, contre-lettre, changement de régime matrimonial |
 
 42 |
 
-Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° de l'article 255 du code civil |
+Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° de l'article 255 du code civil
+
+|
 
 43 |
 
-Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l'article 311-20 du code civil |
+Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un tiers donneur prévu à l'article 311-20 du code civil
+
+|
+
+43-1 |
+
+Consentement à l'adoption réalisé en application de l'article 348-3 du code civil
+
+|
 
 44 |
 
@@ -2426,6 +2664,10 @@ Transfert de propriété ou de jouissance entre collectivités territoriales et/
 
 Vente ou cession de gré à gré de tous biens et droits quelconques mobiliers ou immobiliers, corporels ou incorporels, sauf dispositions contraires au présent tableau. |
 
+54-1 |
+
+Etablissement par acte authentique de la promesse de vente d'une durée de plus de dix-huit mois prévue à l'article L. 290-1 du code de la construction et de l'habitat |
+
 55 |
 
 Première vente en l'état futur d'achèvement ou achevé de locaux d'habitation, appartements ou maisons individuelles d'immeubles HLM n'ayant jamais été habités |
@@ -2472,7 +2714,7 @@ Ventes, cessions à titre gratuit ou apports de terrains à bâtir, équipés ou
 
 66 |
 
-Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière |
+Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984définissant la location-accession à la propriété immobilière |
 
 67 |
 
@@ -2485,6 +2727,10 @@ Ventes, soumises à publicité foncière, des biens et droits suivants : fonds d
 69 |
 
 Ventes par adjudication judiciaire de tous biens et droits autres que meubles et objets mobiliers, arbres en détail, et bateaux |
+
+69-1 |
+
+Vente par adjudication volontaire de tous biens et droits autres que meubles et objets mobiliers, arbres en détail et bateaux |
 
 70 |
 
@@ -2576,7 +2822,7 @@ Actes relatifs principalement au patrimoine et la propriété de l'activité éc
 
 |
 
-Convention d'indivision mentionnée aux articles 815-1 et 1873-1 à 1873-18 du code civil |
+Convention d'indivision mentionnée aux articles 815-1et 1873-1 à 1873-18du code civil |
 
 90 |
 
@@ -2596,11 +2842,11 @@ Abandon de mitoyenneté ou servitudes |
 
 94 |
 
-Etablissement de l'acte de règlement de copropriété ou descriptif en volume |
+Etablissement de l'acte de règlement de copropriété ou du descriptif |
 
 95 |
 
-Mise en conformité du règlement de copropriété ou descriptif en volume |
+Mise en conformité aux obligations légales, ou modification, afin de prendre en compte la volonté des copropriétaires ou des parties, du règlement de copropriété ou du descriptif |
 
 96 |
 
@@ -2712,7 +2958,7 @@ Crédit-bail |
 
 115 |
 
-Vente à l'utilisateur |
+Vente à l'utilisateur dans le cadre d'une opération de crédit-bail |
 
 116 |
 
@@ -2808,11 +3054,11 @@ Prêts conventionnés, prêts d'épargne logement et prêts complémentaires ou 
 
 139 |
 
-Déclaration d'insaisissabilité de la résidence principale, prévue aux articles L. 526-1 et L. 526-2 |
+Déclaration d'insaisissabilité prévue au deuxième alinéa de l'article L. 526-1 |
 
 140 |
 
-Renonciation à l'insaisissabilité des droits sur la résidence principale ou à la déclaration mentionnée au numéro 139, prévue à la première phrase du deuxième alinéa de l'article L. 526-3 |
+Renonciation à l'insaisissabilité des droits ou à la déclaration mentionnée au numéro 139, prévue à la première phrase du deuxième alinéa de l'article L. 526-3 |
 
 141 |
 
@@ -2820,7 +3066,7 @@ Révocation de la renonciation mentionnée au numéro 140, prévue à la quatri�
 
 142 |
 
-Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976 relative à certaines formes de transmission des créances sans négociation |
+Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976relative à certaines formes de transmission des créances sans négociation |
 
 143 |
 
@@ -2848,7 +3094,9 @@ Cession de biens par un débiteur à ses créanciers, prévue aux articles 1265 
 
 149 |
 
-Compromis prévu au titre XVI du livre III du code civil |
+Compromis prévu au titre XVI du livre III du code civil
+
+|
 
 150 |
 
@@ -2878,7 +3126,9 @@ Devis et marché vente en dehors du cas prévu à l'article 1831-1 du code civil
 
 154 |
 
-Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil |
+Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil
+
+|
 
 155 |
 
@@ -2926,7 +3176,9 @@ Quittance d'ordre judiciaire |
 
 166 |
 
-Subrogation, prévue à l'article 1346-1 du code civil |
+Subrogation, prévue à l'article 1346-1 du code civil
+
+|
 
 167 |
 
@@ -2934,15 +3186,33 @@ Transports de droits litigieux |
 
 168 |
 
-|
+Acte complémentaire ou interprétatif |
 
 169 |
 
-|
+Acte rectificatif |
 
 170 |
 
+Autorisations (en général) |
+
+170-1 |
+
 |
+
+Etablissement du contrat de fiducie et de ses actes subséquents, lorsqu'ils requièrent un acte notarié en application du deuxième alinéa de l'article 2012 du code civil ou du deuxième alinéa de l'article 2019 du même code |
+
+170-2 |
+
+|
+
+Actes relatifs aux autorisations d'occupation temporaire du domaine public mentionnées aux articles L. 1311-5 et suivants du code général des collectivités territoriales et qui sont constitutives de droits réels |
+
+170-3 |
+
+|
+
+Attestation de propriété qui est délivrée à la suite d'une dissolution automatique d'une société civile immobilière n'ayant pas été immatriculée et qui entraîne une indivision entre les anciens associés |
 
 171 |
 
@@ -3018,15 +3288,19 @@ Vérification auprès du casier judiciaire de la situation pénale de l'acquére
 
 182 |
 
-Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitation dans le cadre de l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code |
+Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitationdans le cadre de l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code |
 
 183 |
 
-Immatriculation d'office du syndicat de copropriétaires dans les cas prévus au deuxième alinéa de l'article L. 711-5 du code de la construction et de l'habitation |
+Immatriculation d'office du syndicat de copropriétaires dans les cas prévus au deuxième alinéa de l'article L. 711-5 du code de la construction et de l'habitation
+
+|
 
 184 |
 
-Immatriculation du syndicat de copropriétaires d'un immeuble mis en copropriété dans le cas prévu au I de l'article L. 711-4 du code de la construction et de l'habitation |
+Immatriculation du syndicat de copropriétaires d'un immeuble mis en copropriété dans le cas prévu au I de l'article L. 711-4 du code de la construction et de l'habitation
+
+|
 
 185 |
 
@@ -3070,7 +3344,7 @@ Forfait pour les actes destinés à être publiés au fichier immobilier, compre
 
 195 |
 
-Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat |
+Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945relative au statut du notariat |
 
 196 |
 
@@ -3180,19 +3454,547 @@ Rédaction d'affiches ou d'insertions dans les journaux en vue de publications d
 
 Consultation de fichier public |
 
-|
+220 |
+
+Certificat de mesurage en application de l'article 46 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis |
+
+221 |
+
+Chacun des documents composant le dossier de diagnostic technique prévu à l'article L. 271-4 du code de la construction et de l'habitat, mentionnés au I de cet article |
+
+222 |
+
+Dépôt au rang des minutes de la convention prévue à l'article 229-1 du code civil
 
 |
 
-|
+Tableau 5-1 annexé à l'article R. 444-3
 
-|
+Actes et formalités réalisés par les notaires et relevant du droit local
 
-|
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
 
-|
+Numéro |
 
-TABLEAU 6 ANNEXÉ À L'ARTICLE R. 444-3
+Catégorie |
+
+Sous-catégorie |
+
+Nature de la prestation |
+
+223 |
+
+Actes et formalités relatifs au livre foncier |
+
+Certificat de non-dommageabilité |
+
+Requête en délivrance d'un certificat de non-dommageabilité prévu par la loi d'Alsace-Lorraine du 19 juin 1906 sur le certificat de non-dommageabilité |
+
+224 |
+
+Requêtes au livre foncier |
+
+Requête en exécution immédiate d'un acte et réquisition |
+
+225 |
+
+Réponse à ordonnance intermédiaire |
+
+226 |
+
+Requête en exécution différée d'un acte (prénotation) |
+
+227 |
+
+Requête en inscription séparée d'un droit |
+
+228 |
+
+Inscription de propriété par suite de décès ou en exécution d'une convention matrimoniale (article 44 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+229 |
+
+Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du précédé ou pour le prélèvement de biens communs |
+
+230 |
+
+Autres requêtes |
+
+231 |
+
+Requête en réinscription d'un droit par suite de péremption
+
+de l'inscription initiale |
+
+232 |
+
+Requête en radiation de droits autres que privilèges
+
+et hypothèques et réquisition |
+
+233 |
+
+Retrait d'une requête |
+
+234 |
+
+Requête en renouvellement d'inscription de privilèges
+
+et hypothèques |
+
+235 |
+
+Formalités relatives au privilège du vendeur visé à l'article 43 du décret n° 2009-1193 du 7 octobre 2009, et le cas échéant du droit de résolution. |
+
+236 |
+
+Mainlevée de droits autres que privilèges et hypothèques |
+
+237 |
+
+Inscription d'une pré-notation |
+
+Consentement à l'inscription d'une pré-notation prévue par l'article 39 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+238 |
+
+Actes et formalités afférents à la prescription acquisitive prévue par l'article 44-1 de la loi du 1er juin 1924 |
+
+Requête au juge du livre foncier aux fins d'inscription d'un droit portant sur un immeuble acquis par prescription ou par accession |
+
+239 |
+
+Requête en exécution du jugement au livre foncier |
+
+240 |
+
+Acte de notoriété constatant la prescription acquisitive
+
+si l'immeuble n'est pas inscrit au livre foncier |
+
+241 |
+
+Attestation à titre de preuve de prescription acquisitive |
+
+242 |
+
+Production des pièces cadastrales |
+
+243 |
+
+Production d'autres preuves |
+
+244 |
+
+Actes et formalités en matière de successions |
+
+Actes et formalités afférents à l'affirmation sous foi de serment |
+
+Rédaction d'une affirmation sous foi de serment |
+
+245 |
+
+Requête en délivrance |
+
+246 |
+
+Actes et formalités relatifs au partage judiciaire et aux ventes volontaires judiciaires |
+
+Actes et formalités pris en application de l'article 221 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (ouverture) |
+
+Demande de partage judiciaire |
+
+247 |
+
+Désignation du fondé de pouvoir à l'étranger |
+
+248 |
+
+Dépôt au rang des minutes du notaire du mandat de fondé de pouvoir à l'étranger avec reconnaissance d'écriture et de signature |
+
+249 |
+
+Dépôt au rang des minutes du notaire du mandat de fondé de pouvoir à l'étranger sans reconnaissance d'écriture et de signature |
+
+250 |
+
+Demande relative à une proposition de partage en application de l'article 224 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Demande relative à une proposition de partage |
+
+251 |
+
+Actes et formalités pris en application de l'article 225 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (débats) |
+
+Convocations et communication des propositions de partage |
+
+252 |
+
+Procès-verbal des débats avec présence des parties |
+
+253 |
+
+Procès-verbal des débats en l'absence des parties |
+
+254 |
+
+Transmission au greffe du procès-verbal des débats |
+
+255 |
+
+Actes et formalités pris en application de l'article 227 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (expertise) |
+
+Procès-verbal d'assermentation |
+
+256 |
+
+Rédaction du rapport d'expertise rédigé par le notaire sur déclaration de l'expert |
+
+257 |
+
+Avis que l'expertise a été dressée, par intéressé |
+
+258 |
+
+Délivrance, à la demande de l'intéressé, d'une copie du rapport d'expertise en application du dernier alinéa de l'article 227 |
+
+259 |
+
+Actes et formalités pris en application de l'article 231 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (tirage au sort) |
+
+Convocation au tirage au sort |
+
+260 |
+
+Procès-verbal de tirage au sort |
+
+261 |
+
+Actes et formalités pris en application de l'article 232 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (difficultés et partage) |
+
+Procès-verbal de difficultés |
+
+262 |
+
+Remise au greffe du procès-verbal |
+
+263 |
+
+Renvoi des parties à se pourvoir par voie d'assignation |
+
+264 |
+
+Rédaction de l'acte de partage |
+
+265 |
+
+Transmission de la minute au tribunal |
+
+266 |
+
+Information des non-comparants |
+
+267 |
+
+Fixation du jour de la passation de l'acte de partage prévue à l'article 234 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Rédaction |
+
+268 |
+
+Notification |
+
+269 |
+
+Retrait de procédure |
+
+Retrait de procédure, par copartageant |
+
+270 |
+
+Actes et formalités pris en application de l'article 245 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (cahier des charges) |
+
+Etablissement du cahier des charges sur les conditions de la vente |
+
+271 |
+
+Convocation pour lecture |
+
+272 |
+
+Procès-verbal de lecture |
+
+273 |
+
+Requête en homologation du cahier des charges |
+
+274 |
+
+Publications et affiches prévues par les articles 246 à 248 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Publications prévues par les articles 246 et 247 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+275 |
+
+Envoi de l'affiche mentionnée à l'article 248 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+276 |
+
+Actes et formalités pris en application des articles 250 à 254 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Procès-verbal d'adjudication prévu par l'article 250 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+277 |
+
+Procuration pour enchères prévue par l'article 253 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+278 |
+
+Déclaration de command, par copartageant, prévue par l'article 254 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+279 |
+
+Ratification d'adjudication inférieure à la mise à prix, par copartageant ratifiant, mentionnée à l'article 254 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+280 |
+
+Demande de nouvelles enchères dans les conditions prévues à l'article 254 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+281 |
+
+Autres ventes volontaires judiciaires |
+
+Autres ventes volontaires judiciaires, mentionnées à l'article 261 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+282 |
+
+Actes et formalités relatifs à l'aliénation des biens immobiliers d'une personne protégée |
+
+Demande au tribunal des tutelles au titre de l'article 257 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+283 |
+
+Actes et formalités pris en application de l'article 258 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+284 |
+
+Consentement des intéressés à la vente en application de l'article 259 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+285 |
+
+Requête en autorisation de vente par adjudication en application de l'article 260 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+286 |
+
+Requête en vente volontaire d'immeuble par acceptation de succession à concurrence de l'actif net ou en vacance de succession en application de l'article 261 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+287 |
+
+Requête en autorisation de vente en cas de personne protégée étrangère en application de l'article 262 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+288 |
+
+Actes et formalités relatifs à l'exécution forcée immobilière ou aux ventes réalisées dans le cadre d'une procédure collective |
+
+Actes et formalités pris en application de l'article 141 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Demande introductive |
+
+289 |
+
+Désignation du fondé de pouvoir à l'étranger |
+
+290 |
+
+Actes et formalités pris en application de l'article 145 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Requête en désignation du curateur |
+
+291 |
+
+Requête au tribunal des tutelles en nomination d'administrateur des biens de non-présent (article 113 du code civil) |
+
+292 |
+
+Actes et formalités pris en application des articles 147 et 148 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Convocation |
+
+293 |
+
+Procès-verbal des débats |
+
+294 |
+
+Mise à jour au livre foncier |
+
+295 |
+
+Etablissement du cahier des charges prévu à l'article 148 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+296 |
+
+Désignation d'un fondé de pouvoir |
+
+Désignation d'un fondé de pouvoir (Article 21 annexe du code de procédure civile) |
+
+297 |
+
+Dépôt de procuration entre les mains du notaire (Article 22 annexe du code de procédure civile) |
+
+Dépôt avec reconnaissance d'écriture et de signature |
+
+298 |
+
+Dépôt sans reconnaissance d'écriture et de signature |
+
+299 |
+
+Légalisation de signature |
+
+Légalisation de signature (article 22 annexe
+
+du code de procédure civile) |
+
+300 |
+
+Visite des lieux et procès-verbal |
+
+Visite des lieux et procès-verbal |
+
+301 |
+
+Publications en application de l'article 150 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Affichage, par texte et par destinataire |
+
+302 |
+
+Envoi d'exemplaires, par destinataire |
+
+303 |
+
+Actes et formalités pris en application des articles 153 à 157 et 164 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Procès-verbal d'adjudication, le cahier des charges étant automatiquement rédigé par le notaire, prévu aux articles 153 et 157 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+304 |
+
+Abandon de procédure prévu aux articles 153 et 157 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+305 |
+
+Déclaration de command prévu par l'article 155 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+306 |
+
+Notification de séquestre judiciaire de l'immeuble prévue
+
+par l'article 164 de la loi du 1er juin 1924, par notification |
+
+307 |
+
+Actes et formalités pris en application de l'article 195 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Distribution amiable |
+
+308 |
+
+Retrait de procédure |
+
+309 |
+
+Actes et formalités relatifs à l'ouverture de la procédure de distribution en application des articles 196 et 197 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Procès-verbal d'ouverture |
+
+310 |
+
+Sommation de produire |
+
+311 |
+
+Procès-verbal de production |
+
+312 |
+
+Actes et formalités relatifs à la collocation prévue par l'article 200 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Etat de collocation |
+
+313 |
+
+Clôture de collocation |
+
+314 |
+
+Actes et formalités prévus par l'article 201 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle |
+
+Fixation du jour |
+
+315 |
+
+Sommation de comparaître et avis |
+
+316 |
+
+Mandat de représentation en exécution forcée, administration forcée ou distribution |
+
+Mandat de représentation en exécution forcée, administration forcée ou distribution |
+
+317 |
+
+Notification aux créanciers de l'ordonnance de vente sur demande du tribunal ou du liquidateur |
+
+Notification aux créanciers de l'ordonnance de vente sur demande du tribunal ou du liquidateur |
+
+318 |
+
+Actes et formalités relatifs à la procédure de purge |
+
+Offre de purge |
+
+319 |
+
+Procédure de revente sur surenchère |
+
+320 |
+
+Envoi des offres de purge aux huissiers |
+
+321 |
+
+Actes et formalités relatifs aux associations et fondations |
+
+Rédaction des statuts, en cas d'apport de biens soumis à publicité foncière |
+
+322 |
+
+Requête en inscription de l'association (article 28 annexe du code de procédure civile) |
+
+323 |
+
+Partage ou dévolution après dissolution |
+
+324 |
+
+Autres actes et formalités |
+
+Pourvoi en matière de livre foncier, de certificat d'héritier, de certificat d'exécuteur testamentaire, de certificat de non-dommageabilité, d'associations, d'exécution forcée, d'administration forcée, de partage judiciaire, et de procédure de taxe |
+
+325 |
+
+Etablissement d'une procuration en matière de partage judiciaire, d'exécution forcée, de soumission à l'exécution forcée dans un acte, et d'administration forcée |
+
+326 |
+
+Légalisation authentique prévue par l'article 56 du décret n° 2009-1193 du 7 octobre 2009 susvisé |
+
+327 |
+
+Légalisation dans le cadre d'une requête séparée au livre foncier |
+
+Tableau 6 annexé à l'article R. 444-3
 
 NUMÉRO |
 
@@ -3234,7 +4036,7 @@ Réquisitions et demandes de renseignements sur l'immeuble saisi |
 
 7 |
 
-Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6 et R. 321-7 du code des procédures civiles d'exécution |
+Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6et R. 321-7du code des procédures civiles d'exécution |
 
 8 |
 
@@ -3242,7 +4044,9 @@ Publication du commandement de payer au service de la publicité foncière |
 
 9 |
 
-Publication au service de la publicité foncière de la décision de justice ordonnant la suspension des voies d'exécution, le report de la vente ou la prorogation du commandement de payer, en application de l'article R. 321-22 du code des procédures civiles d'exécution |
+Publication au service de la publicité foncière de la décision de justice ordonnant la suspension des voies d'exécution, le report de la vente ou la prorogation du commandement de payer, en application de l'article R. 321-22 du code des procédures civiles d'exécution
+
+|
 
 10 |
 
@@ -3250,7 +4054,9 @@ Rédaction de la dénonciation au conjoint du commandement de payer en applicati
 
 11 |
 
-S'il existe un tiers détenteur de l'immeuble saisi, rédaction du commandement à fin de saisie à tiers détenteur, en application de l'article R. 321-4 du code des procédures civiles d'exécution |
+S'il existe un tiers détenteur de l'immeuble saisi, rédaction du commandement à fin de saisie à tiers détenteur, en application de l'article R. 321-4 du code des procédures civiles d'exécution
+
+|
 
 12 |
 
@@ -3262,7 +4068,7 @@ Rédaction du cahier des conditions de la vente ou du cahier des charges |
 
 14 |
 
-Dépôt au greffe du cahier des conditions de la vente ou du cahier des charges, de la copie de l'assignation et du procès-verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10 et R. 322-11 du code des procédures civiles d'exécution |
+Dépôt au greffe du cahier des conditions de la vente ou du cahier des charges, de la copie de l'assignation et du procès-verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10et R. 322-11du code des procédures civiles d'exécution |
 
 15 |
 
@@ -3294,15 +4100,19 @@ Dépôt au greffe de l'avis de publicité pour apposition |
 
 22 |
 
-Lettre en recommandé avec accusé de réception au locataire ou, si l'immeuble est occupé par le propriétaire, à la mairie, en application de l'article L. 616 du code de la construction et de l'habitation |
+Lettre en recommandé avec accusé de réception au locataire ou, si l'immeuble est occupé par le propriétaire, à la mairie, en application de l'article L. 616 du code de la construction et de l'habitation
+
+|
 
 23 |
 
-Rédaction d'une notification aux fins de purge des droits de préemption et de substitution, en application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation |
+Rédaction d'une notification aux fins de purge des droits de préemption et de substitution, en application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975relative à la protection des occupants de locaux à usage d'habitation |
 
 24 |
 
-Levée auprès du greffe du certificat constatant le défaut de consignation du prix ou de paiement des frais, en application de l'article R. 322-67 du code des procédures civiles d'exécution |
+Levée auprès du greffe du certificat constatant le défaut de consignation du prix ou de paiement des frais, en application de l'article R. 322-67 du code des procédures civiles d'exécution
+
+|
 
 25 |
 
@@ -3310,19 +4120,27 @@ Rédaction d'une sommation de payer à l'avocat de l'adjudicataire |
 
 26 |
 
-Déclaration d'adjudicataire au greffe, en application de l'article R. 322-46 du code des procédures civiles d'exécution |
+Déclaration d'adjudicataire au greffe, en application de l'article R. 322-46 du code des procédures civiles d'exécution
+
+|
 
 27 |
 
-Concernant les lots de copropriété, notification au syndic de l'avis de mutation en application de l'article 5-1 du décret n° 67-223 du 17 mars 1967 |
+Concernant les lots de copropriété, notification au syndic de l'avis de mutation en application de l'article 5-1 du décret n° 67-223 du 17 mars 1967
+
+|
 
 28 |
 
-Concernant les lots de copropriété, notification au syndic du transfert de propriété en application de l'article 6 du décret n° 67-223 du 17 mars 1967 |
+Concernant les lots de copropriété, notification au syndic du transfert de propriété en application de l'article 6 du décret n° 67-223 du 17 mars 1967
+
+|
 
 29 |
 
-Concernant les lots de copropriété, notification aux créanciers inscrits de l'opposition à la vente formulée par le syndic, en application de l'article 6-1 du décret n° 67-223 du 17 mars 1967 |
+Concernant les lots de copropriété, notification aux créanciers inscrits de l'opposition à la vente formulée par le syndic, en application de l'article 6-1 du décret n° 67-223 du 17 mars 1967
+
+|
 
 30 |
 
@@ -3334,17 +4152,21 @@ Rédaction de la dénonciation de la surenchère au créancier poursuivant, au p
 
 32 |
 
-S'il n'existe qu'un seul créancier, notification au débiteur du montant versé au créancier poursuivant, en application de l'article R. 332-1 du code des procédures civiles d'exécution |
+S'il n'existe qu'un seul créancier, notification au débiteur du montant versé au créancier poursuivant, en application de l'article R. 332-1 du code des procédures civiles d'exécution
+
+|
 
 33 |
 
 S'il existe plusieurs créanciers |
 
-Notification de la demande de la déclaration actualisée des créances, en application de l'article R. 332-2 du code des procédures civiles d'exécution |
+Notification de la demande de la déclaration actualisée des créances, en application de l'article R. 332-2 du code des procédures civiles d'exécution
+
+|
 
 34 |
 
-Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4 et R. 332-5 du code des procédures civiles d'exécution |
+Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4et R. 332-5du code des procédures civiles d'exécution |
 
 35 |
 
@@ -3386,7 +4208,9 @@ Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec
 
 42 |
 
-Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécution ou en application de l'article 2412 du code civil |
+Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécutionou en application de l'article 2412 du code civil
+
+|
 
 43 |
 
@@ -3416,4 +4240,4 @@ Incidents |
 
 Incidents |
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 771 du code de procédure civile et contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution) |
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 771 du code de procédure civileet contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution) |
