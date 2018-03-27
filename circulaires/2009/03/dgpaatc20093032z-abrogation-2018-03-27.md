@@ -1,0 +1,118 @@
+# Complément à la circulaire DGPAAT/SDPM/C2008-3028 du 27 novembre 2008 relative à l'indemnisation des pertes liées à l'épizootie de fièvre catarrhale ovine (FCO) pour l'élevage ovin allaitant.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGPAATC20093032Z
+- Numéro : DGPAAT/SDPM/C2009-3032
+- Date de signature : 2009-03-25
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 21972 (PDF officiel : pdf/2009/04/cir_21972.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE
+ET DE LA PECHE
+Direction Générale des Politiques Agricole,
+AgroAlimentaire et des Territoires
+Service de la Production Agricole
+Sous-direction des Produits et des Marchés
+Bureau des viandes et des productions animales spécialisées
+Adresse : 3 rue Barbet de Jouy - 75349 PARIS 07 SP
+Tél : 01.49.55.46.15 - Fax : 01.49.55.80.26
+mail : monique.dehaudt@agriculture.gouv.fr
+CIRCULAIRE
+DGPAAT/SDPM/C2009-3032
+Date: 25 mars 2009
+Date de mise en application : immédiate
+Nombre d'annexe :0
+Le Ministre de l'agriculture et de la pêche
+à
+Monsieur le Directeur de l'Office national interprofessionnel de l'élevage
+et de ses productions,
+Mesdames et Messieurs les Directeurs Départementaux de l’Agriculture
+et de la Forêt
+Mesdames et Messieurs les Directeurs Départementaux de l'Agriculture
+et de l'Equipement
+Monsieur le Directeur de l'Agence unique de paiement
+Objet : Complément à la circulaire DGPAAT/SDPM/C2008-3028 du 27 novembre 2008
+relative à l'indemnisation des pertes liées à l'épizootie de fièvre catarrhale ovine (FCO)
+pour l'élevage ovin allaitant
+Résumé : Ce complément permet la prise en compte de certains des changements de forme
+juridique d'exploitation agricole survenues après le dépôt des demandes de prime à la brebis
+2008.
+Base réglementaire :
+− 
+Article 10 paragraphe 2 du règlement (CE) n° 1857/2006 du 15 décembre 2006,
+− 
+Arrêté du ministre de l'agriculture et de la pêche du 27 octobre 2008 modifiant l'arrêté du 1er
+avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale ovine,
+− 
+Décision n°90/424 CE du Conseil du 26 juin 1990 relative à certaines dépenses dans le
+domaine vétérinaire,
+− 
+Règlement (CE) n° 1266/2007 de la Commission du 26 octobre 2007 portant modalités
+d'application de la directive 2000/75/CE du Conseil en ce qui concerne la lutte contre la fièvre
+catarrhale du mouton, son suivi, sa surveillance et les restrictions applicables aux mouvements
+de certains animaux des espèces qui y sont sensibles.
+MOTS-CLES : Office de l'élevage, ovins allaitants, fièvre catarrhale, compensation des pertes
+Destinataires
+Pour exécution :
+Monsieur le Directeur de l'Office national
+interprofessionnel de l'élevage et de ses productions
+Mesdames et Messieurs les Directeurs
+Départementaux de l’Agriculture et de la Forêt,
+Mesdames et Messieurs les Directeurs
+Départementaux de l'Agriculture et de l'Equipement.
+Monsieur le Directeur de l'Agence unique de paiement
+Pour information :
+Mesdames et Messieurs les Préfets de Région
+Mesdames et Messieurs les Préfets de Département
+Mesdames et Messieurs les Directeurs Régionaux de
+l’Agriculture et de la Forêt
+
+La circulaire du 27 novembre 2008 prévoit que, pour être éligibles au programme, les agriculteurs
+doivent réunir les trois conditions suivantes :
+− 
+sauf cas de force majeure1, avoir déposé, en 2009, une demande de prime à la brebis,
+− 
+et avoir déposé, sauf cas de force majeure, une demande de prime à la brebis recevable en
+2008 (10 brebis viandes éligibles au minimum),
+− 
+et avoir perçu la PB en 2006 ou en 2007 ou en 2008 pour 10 brebis viandes au minimum.
+Les éleveurs déposant une demande de prime à la brebis pour la première fois en 2009 ne sont
+donc pas éligibles car ils ne respectent pas le premier critère d'éligibilité. Les exploitations ayant
+changé de forme juridique depuis la date de dépôt de leur demande de PB 2008 sont considérés
+comme déposant leur demande pour la première fois et entrent dans cette catégorie.
+Cependant, dans le cas où il y a une stricte continuité de l'exploitation et dans le cas où l'exploitant
+concerné vérifie les autres critères, on peut considérer que le demandeur est éligible à l'aide. La
+continuité de l'exploitation est acquise dans les cas suivants :
+− 
+dans le cas d'une adhésion à un GAEC, si l'exploitant concerné a conservé son exploitation
+dans sa totalité,
+− 
+dans le cas d'une transformation en EARL ou autre forme sociétaire hors GAEC, si
+l'exploitation est inchangée et si l'exploitant est le seul sociétaire,
+− 
+dans le cas d'une transformation de GAEC en EARL ou autre forme sociétaire hors GAEC, si
+l'exploitation est inchangée et si les sociétaires sont les anciens membres du GAEC, et eux
+seuls.
+Les demandes de dérogation devront parvenir à la DGPAAT / BVPAS avant le 3 avril. En sus de
+l'attestation de continuité de l'exploitation conforme aux critères exposés ci-dessus, vous devrez
+préciser pour chaque demande :
+− 
+l'ancien et le nouveau numéro PACAGE,
+− 
+l'ancien et le nouveau nom de l'exploitation,
+− 
+le nouveau RIB
+Je vous demande de bien vouloir communiquer à la DGPAAT et à l'ONIEP toute difficulté que
+vous pourriez rencontrer dans la mise en œuvre de ce dispositif.
+Le Directeur général des politiques agricole,
+agroalimentaire et des territoires
+Pascal VINÉ
+
+1
+Les cas de force majeure, hors cas déjà acceptés dans le cadre de la prime à la brebis, feront l'objet
+d'une demande auprès du bureau des viandes et des productions agricoles spécialisées.
