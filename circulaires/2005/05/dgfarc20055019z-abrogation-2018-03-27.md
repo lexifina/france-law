@@ -1,0 +1,489 @@
+# Conditions de financement, par le budget général de l'Etat (chapitre 59-02), des projets d'investissements forestiers ou d'actions forestières, relatifs à la protection de la forêt contre l'incendie, et procédure d'instruction des dossiers de demande d'ai
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGFARC20055019Z
+- Numéro : DGFAR/SDFB/C2005-5019
+- Date de signature : 2005-05-17
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 10015 (PDF officiel : pdf/2009/04/cir_10015.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE,
+DE L’ALIMENTATION, DE LA PECHE ET DE LA RURALITE
+Direction générale de la forêt et des affaires
+rurales
+Sous-direction de la forêt et du bois
+Bureau de la forêt et des territoires
+Adresse : 19, avenue du Maine
+ 75732 PARIS CEDEX 15
+Suivi par : Jean-Michel GILBERT
+Tél : 01.49.55.60.74
+Fax : 01.49.55.41.97
+Réf. Interne :
+Réf. Classement :
+CIRCULAIRE
+DGFAR/SDFB/C2005-5019
+Date: 17 mai 2005
+Date de mise en application : immédiate
+Le Ministre de l'agriculture, de l’alimentation,
+de la pêche et de la ruralité
+Modifie la circulaire DERF/SDF/C2001-3010 du
+7 
+mai 
+2001 
+et 
+les 
+circulaires
+DERF/SDF/C2001-3007 du 26 mars 2001 et
+DERF/SDF/C2002-3014 du 12 août 2002.
+Date limite de réponse :
+à
+M. le préfet de la zone de défense Sud (DPFM)
+Mmes et MM. les préfets de région (DRAF)
+Mmes et MM. les préfets de département (DDAF)
+ Nombre d'annexe: 0
+Objet : Conditions de financement, par le budget général de l’Etat (chapitre 59-02), des projets
+d’investissements forestiers ou d’actions forestières, relatifs à la protection de la forêt contre
+l’incendie, et procédure d’instruction des dossiers de demande d’aide.
+Bases juridiques :
+- 
+code forestier, notamment les articles L. 7 et L 321-5,
+- 
+décret n° 99-874 du 13 octobre 1999,
+- 
+décrets n° 99-1060 du 16 décembre 1999, n° 2000-675 et n° 2000-676 du 17 juillet 2000,
+n° 2003-367 du 18 avril 2003,
+- 
+arrêté interministériel du 17 juillet 2000,
+- 
+règlements (CE) n° 1257/1999 du Conseil du 17 mai 1999, (CE) n° 1783/2003 du Conseil du
+29 septembre 2003 et (CE) n° 817/2004 de la Commission du 29 avril 2004.
+- 
+plan de développement rural national.
+
+2
+Résumé : La présente circulaire modifie la circulaire DERF/SDF/C2001-3010 du 7 mai 2001 et
+plus particulièrement le chapitre 4 relatif aux investissements et aux actions liés à la protection
+de la forêt contre l’incendie (PFCI). Elle intègre les dernières modifications du PDRN au titre des
+sous-mesures i.6.6. et i.6.7., précise les opérations aidées par l’Etat, les bénéficiaires éligibles
+ainsi que les conditions d’octroi des aides. Les circulaires DERF/SDF/C2001-3007 du 26 mars
+2001 et DERF/SDF/C2002-3014 du 12 août 2002 relatives aux procédure d’instruction des
+demandes d’aide sont également adaptées par la présente circulaire.
+MOTS-CLES : forêt, aide, investissement, protection, prévention, incendie de forêt.
+Destinataires
+Pour exécution :
+M. le préfet de la zone de défense Sud
+Mmes et MM. les préfets de région
+Mmes et MM. les préfets de département
+M. le sous-préfet délégué à la sécurité et à la défense,
+chargé de la délégation à la protection de la forêt
+méditerranéenne
+Mmes et MM. Les directeurs régionaux de l’agriculture
+et de la forêt
+Mmes et MM. Les directeurs départementaux de
+l’agriculture et de la forêt
+Pour information :
+Ministère de l’intérieur (DDSC)
+Ministère de l’écologie et du développement
+durable (DPPR, DNP)
+C.N.A.S.E.A.
+Office national des forêts
+C.N.P.P.F.
+Directeurs des C.R.P.F.
+Fédération nationale des communes forestières de
+France
+F.N.S.P.F.S.
+I.N.R.A.
+Cemagref
+I.D.F.
+A.F.O.C.E.L.
+E.N.G.R.E.F.
+Association régionale de DFCI d’Aquitaine
+
+3
+Le règlement (CEE) n° 2158/92 du Conseil, du 23 juillet 1992, relatif à la protection des forêts
+dans la Communauté contre les incendies, a permis à la France de bénéficier du soutien de
+l’Union européenne pour la réalisation des actions suivantes : information, animation,
+équipements de terrain, formation de personnel, études et projets pilotes. La mise en œuvre de
+ce règlement s’est achevée au 31 décembre 2002.
+Dès 1999, à l’occasion de la mise en place du Plan de développement rural national (PDRN), la
+France a rendu éligibles, au travers de la sous-mesure i.2.9. relative aux travaux de défense
+des forêts contre les incendies, les opérations d’investissement liées à la prévention des
+incendies de forêt. Suite à l’arrêt de l’action communautaire instituée par le règlement (CEE)
+n° 2158/92, afin d’étendre le champ des opérations éligibles et le champ des bénéficiaires, la
+France a demandé, lors de la révision 2002 du PDRN, la transformation de la sous-mesure
+i.2.9. en sous-mesure i.6.7. intitulée « mise en place d’instruments de prévention appropriés
+des incendies pour la protection des forêts ». La nouvelle sous-mesure i.6.7. a fait l’objet de
+quelques adaptations approuvées par la Commission européenne fin 2003. Cependant, les
+modalités d’intervention financière de l’Etat et des collectivités locales restent inchangées.
+Par ailleurs, la circulaire interministérielle DGFAR/SDFB/C2004-5007 du 26 mars 2004 relative
+aux plans de protection des forêts contre les incendies (PPFCI) précise les modalités
+d’élaboration de ces plans qui constituent le cadre de l’action publique en matière de prévention
+des incendies de forêt. Ces plans seront déclinés, par massif forestier, dans des documents
+qualifiés de plans de massif, et leurs préconisations intégrées dans les programmes des
+associations syndicales ayant des compétences en matière de DFCI et de leurs unions ainsi
+que des collectivités territoriales et de leurs groupements.
+La présente circulaire modifie et complète la circulaire DERF/SDF/C2001-3010 du 7 mai 2001
+relative aux conditions de financement, par le budget général de l’Etat, des projets
+d’investissements forestiers ou d’actions forestières à caractère protecteur, environnemental et
+social.
+1) Le deuxième alinéa du paragraphe 2.2.2. « Nature des bénéficiaires » de la circulaire
+DERF/SDF/C2001-3010 du 7 mai 2001 est remplacé par l’alinéa suivant :
+« Toutefois, peuvent également être bénéficiaires les personnes morales de droit public et les
+associations syndicales ou leurs unions ne détenant pas de droit de propriété sur les
+immeubles en cause, lorsqu’elles réalisent des opérations d’intérêt général. Un document
+précisant la situation juridique des terrains et des immeubles en cause et établissant que le
+demandeur d’aide a ou aura la libre disposition de ceux-ci sera alors produit. On s’assurera
+dans ce cas que les opérations menées et les engagements souscrits relèvent bien des
+compétences de ces personnes morales, à savoir :
+- 
+pour les collectivités territoriales, leurs groupements et leurs établissements publics ;
+compétences définies dans le code général des collectivités territoriales ;
+- 
+pour les associations syndicales libres, dans les statuts joints à la déclaration en préfecture
+(article 8 de l’ordonnance 2004-632 du 1er juillet 2004) ;
+- 
+pour les associations syndicales autorisées et leurs unions, dans les statuts approuvés
+(articles 14, 15 et 47 de l’ordonnance 2004-632 du 1er juillet 2004) ;
+- 
+pour les autres personnes morales de droit public, dans les statuts et les textes applicables.
+N.B. Lorsque les associations syndicales demandent à intervenir en dehors de l’objet figurant
+dans leurs statuts elles ne peuvent en aucun cas être assimilées à une structure de
+regroupement 
+telle 
+que 
+prévue 
+dans 
+la 
+circulaire 
+DERF/SDF/C2000-3030 
+du
+26 décembre 2000, et ne peuvent donc pas être bénéficiaires d’une aide. »
+
+4
+2) Au premier alinéa du paragraphe 2.2.4.2. « Autres propriétaires » de la circulaire
+DERF/SDF/C2001-3010 du 7 mai 2001 :
+- 
+le N.B. devient N.B. 1 ;
+- 
+Il est ajouté un N.B. 2 ainsi conçu : « Le présent paragraphe ne s’applique pas au cas où,
+conformément au deuxième alinéa du § 2.2.2, les bénéficiaires sont des personnes morales
+de droit public, ou des associations syndicales et leurs unions réalisant des opérations
+d’intérêt général, mais ne détenant pas de droit de propriété sur les immeubles où sont
+réalisés les travaux ».
+3) Le premier alinéa du a) du paragraphe 2.2.5. « Opérations finançables », de la circulaire
+DERF/SDF/C2001-3010 du 7 mai 2001 est remplacé par l’alinéa suivant :
+« protection de la forêt contre les incendies : chapitre 59-02 ».
+4) En dehors des cas prévus aux paragraphes 3.2.3.2. et 3.2.3.3. de la circulaire
+DERF/SDF/C2001-3010 du 7 mai 2001, il appartient au service instructeur de juger de
+l’opportunité de la prise en compte dans le devis estimatif éligible hors taxes (cas d’une aide
+sur devis) ou dans le barème régional de subvention (cas d’une aide forfaitaire), des frais de
+maîtrise d’œuvre du projet par un ingénieur ou un technicien d’une union d’associations
+syndicales autorisées compétente en matière de DFCI.
+5) Le dernier alinéa du paragraphe 3.2.4.5. « Réduction ou remboursement de l’aide » est
+complété comme suit : « …le bénéficiaire rembourse les sommes qui ont déjà été versées,
+éventuellement assorties de pénalités. ».
+6) Au paragraphe 3.2.5.1. « Cas des aides à l’investissement », il est ajouté en premier alinéa :
+« Le bénéficiaire de l’aide mentionné au 2ème alinéa du paragraphe 2.2.2. nouveau,
+s’engage à accepter les contrôles nationaux et communautaires pendant la durée des
+engagements souscrits. ».
+7) Le chapitre 4 de la circulaire DERF/SDF/C2001-3010 du 7 mai 2001, pages 25 à
+28, est remplacé par le chapitre suivant :
+
+5
+4 – INVESTISSEMENTS ET ACTIONS LIES A LA
+PROTECTION DE LA FORET CONTRE L’INCENDIE (PFCI)
+La politique de protection de la forêt contre l'incendie vise prioritairement à diminuer le nombre
+d'éclosions de feux de forêt et à réduire les superficies forestières parcourues par le feu dans
+les régions à risque.
+La mise en œuvre de cette politique passe par la création ou l'amélioration des systèmes de
+prévention qui doivent nécessairement s'inscrire dans le cadre d'une stratégie globale de
+protection des massifs forestiers contre l'incendie, définie et validée dans le plan départemental
+ou régional de protection des forêts contre les incendies (circulaire interministérielle
+DGFAR/SDFB/C2004-5007 du 26 mars 2004).
+Le développement qui suit traite essentiellement des aides de l’Etat aux investissements de
+protection de la forêt contre l'incendie, fondées sur l’article L.321-5 du code forestier. Sont
+cependant aussi traitées les aides aux opérations de reconstitution des peuplements forestiers
+après incendie.
+Sont exclues de la présente circulaire les aides du règlement (CE) n° 2152/2003 du Parlement
+européen et du Conseil du 17 novembre 2003 (Forest Focus).
+Les aides de l’Etat, y compris celles du conservatoire de la forêt méditerranéenne, peuvent être
+mobilisées à partir du budget général, chapitres 59-02, et faire éventuellement l’objet d’un
+cofinancement du FEOGA.G dans le cadre du PDRN.
+4.1 CONDITIONS GENERALES D'ELIGIBILITE
+4.1.1 OPERATIONS ELIGIBLES
+Pour les opérations d’investissement, les coûts de maîtrise d'œuvre des travaux sont éligibles
+dans la limite de 10 % du montant total hors taxes.
+Amélioration des peuplements existants (sous-mesure i.2.2. du PDRN) :
+- 
+travaux d'éclaircies et d'élagage dans les peuplements résineux denses ;
+- 
+travaux d'éclaircies préparatoires à la conversion en futaie sur souche et opérations de
+balivage dans le taillis pour les peuplements forestiers denses fortement combustibles.
+Reconstitution des peuplements forestiers après incendie (sous-mesure i.6.6. du PDRN dans le
+cadre de l’aide à la reconstitution du potentiel de production sylvicole).
+Sont concernés les peuplements forestiers qui se rattachent à l’une et/ou l’autre des situations
+suivantes :
+- 
+une surface significative de peuplements gravement endommagés dans un même
+département ;
+- 
+des peuplements gravement endommagés situés dans une zone à rôle protecteur
+d’intérêt public ;
+il s’agit notamment des zones à forte pente sensibles à l’érosion, des zones hébergeant des
+espèces animales ou végétales d’intérêt communautaire (site Natura 2000, réserve naturelle,
+arrêté de biotope…), des zones à fort intérêt paysager.
+
+6
+Il convient donc d’évaluer :
+- 
+le type de formation végétale sinistrée : tous les types de peuplements forestiers sont
+éligibles, quelle que soit l’essence forestière dominante. Par contre, ne sont pas éligibles
+les formations subforestières de type landes, maquis et garrigues, non arborées.
+- 
+le degré de dommage causé au peuplement par le feu : ne sont pas concernées les
+surfaces seulement parcourues au sol par le feu, sans que le peuplement ait souffert.
+Les travaux éligibles sont destinés à restaurer le couvert boisé et feront, le cas échéant, l’objet
+d’une étude paysagère préalable, voire d’une étude d’incidence au titre de la loi sur l’eau.
+- Travaux destinés à prévenir l’érosion des sols
+exemple : fascinage, plage d’atterrissement, curage de cours d’eau, consolidation de berges et
+de versant…
+- Travaux de remise en état avec mise aux normes des infrastructures endommagées
+exemple : réfection avec mise aux normes de routes, pistes (y compris ouvrages de
+franchissement, signalisation, barrières), points d’eau, tours de guet
+- Travaux de nettoyage du terrain
+exemple : abattage d’arbres calcinés, mise en andains, incinération, broyage de végétation…
+- Travaux de régénération naturelle ou artificielle d’accompagnement de la dynamique naturelle
+visant, si possible, à diversifier le couvert végétal et à orienter la reconstitution forestière en
+quantité et en qualité.
+La reconstitution des peuplements forestiers et les itinéraires sylvicoles doivent s’inscrire dans
+une logique d’aménagement préventif des massifs forestiers. La constitution de peuplements
+présentant une meilleure résistance au passage du feu est à privilégier. Par ailleurs, il convient
+absolument d’éviter d’intervenir sur une mosaïque de parcelles de taille insuffisante,
+disséminées sur le massif, et restant soumises à un fort aléa. Cela ne présenterait pas
+l’efficacité recherchée ni en matière de prévention des incendies, ni en terme de rentabilité
+économique de l’investissement consenti.
+Mise en place d'instruments de prévention appropriés des incendies pour la protection des
+forêts (sous-mesure i.6.7. du PDRN).
+- 
+actions d’animation et d’information indispensables à la mise en œuvre de la sous-mesure ;
+- 
+projets de démonstration portant sur la fiabilité des techniques et des technologies de
+prévention et de surveillance ;
+- 
+création de systèmes de prévention sous la forme d’infrastructures de protection telles que
+les routes et pistes DFCI (y compris ouvrages de franchissement, signalisation, barrières),
+les points d’eau (retenue, forage, captage, citerne) ;
+- 
+mise aux normes des équipements de prévention existants : routes et pistes (y compris
+ouvrages de franchissement, signalisation, barrières), points d’eau ; ces normes sont
+établies par un document conjoint des services forestiers de l’Etat et des services d’incendie
+et de secours ;
+- 
+création de pare-feux, ou zones d’appui, conçus pour protéger les équipements de
+prévention et de surveillance ;
+- 
+création de coupures de combustibles cloisonnant les massifs forestiers, à l’exclusion des
+coupures agricoles ;
+- 
+création ou amélioration de systèmes de surveillance fixes (tours de guet, vigies) et matériel
+de communication ;
+
+7
+- 
+opérations de cartographie des zones à risque et des équipements et aménagements de
+prévention au niveau d’un massif forestier ou au niveau du département ;
+- 
+opérations sylvicoles de première éclaircie des peuplements, incluant un élagage de
+2,5 mètres de hauteur, dans un double objectif de diminuer leur combustibilité et de
+favoriser la mobilisation des bois dans les 15 départements de la zone méditerranéenne ;
+- 
+opérations visant à réduire la biomasse combustible, notamment le brûlage dirigé destiné à
+l’ouverture du milieu ou à la mise en auto-protection des peuplements forestiers.
+Hors PDRN :
+- 
+élaboration, révision ou actualisation des PPFCI et des plans de massif ;
+- 
+acquisition par l’Etat, l’Office national des forêts ou une collectivité territoriale de matériels
+nécessaires à la surveillance des forêts ou d’engins de travaux publics nécessaires aux
+chantiers d’équipement de PFCI. Une liste des matériels éligibles à une aide pourra être
+établie au niveau zonal ou régional. Sont notamment visés les équipements des unités de
+forestiers-sapeurs en zone méditerranéenne, prévus par les conventions conclues entre les
+préfets de département et les présidents des conseils généraux, ainsi que les équipements
+des unités d’ouvriers forestiers rapatriés d’Afrique du Nord (OFRAN) et d’auxiliaires de
+protection de la forêt méditerranéenne (APFM) employés par l’Office national des forêts.
+Ces matériels pourront faire l’objet d’une mise à disposition des maîtres d’ouvrage ou des
+maîtres d’œuvre des opérations correspondantes dans le cadre de conventions passées
+entre ceux-ci et l’Etat ;
+- 
+acquisition par les associations syndicales autorisées compétentes en matière de DFCI ou
+leurs unions, de citernes d’eau mobiles pour la prévention des départs de feu ;
+- 
+mise en place de stations météorologiques dédiées à la prévention des incendies,
+d'installations de détection automatique des orages et de leurs manifestations ainsi que des
+équipements de transmission nécessaires à l'alerte ;
+- 
+construction ou amélioration, par l’Etat ou l’Office national des forêts, des locaux de service
+nécessaires aux personnels ou matériels de PFCI (OFRAN et APFM) ;
+- 
+travaux sylvicoles destinés à privilégier certains feuillus précieux ou l'installation du sylvo-
+pastoralisme dans la valorisation des accrus naturels, en complément des opérations
+sylvicoles de première éclaircie des peuplements, hors forêts domaniales ;
+- 
+nettoyage des parcelles en cas de chablis précédant la période à risque dans un massif
+forestier.
+4.1.2 BENEFICIAIRES ELIGIBLES
+Les bénéficiaires sont généralement les propriétaires des fonds, mais également les personnes
+morales 
+remplissant 
+les 
+conditions 
+définies 
+au 
+chapitre 
+2.2.2. 
+de 
+la 
+circulaire
+DERF/SDF/C2001-3010 du 7 mai 2001 modifié par la présente circulaire.
+Pour les sous-mesures i.6.6. et i.6.7., les bénéficiaires sont les propriétaires forestiers privés et
+leurs ayant droits, leurs groupements, les collectivités territoriales et leurs groupements
+propriétaires de forêt, l’Office national des forêts (pour les forêts domaniales).
+
+8
+Les associations syndicales ayant des compétences en matière de DFCI et leurs unions ou
+fédérations sont éligibles à la sous-mesure i.6.7., ainsi que les services d’incendie et de
+secours (pour les tours de guet et les opérations de brûlage dirigé) et les collectivités
+territoriales non propriétaires de forêt ou leurs groupements, lorsqu’ils réalisent des travaux
+d’intérêt général, sous réserve de posséder la libre disposition des terrains ou immeubles
+supportant les travaux et d’être habilités à souscrire les engagements imposés.
+Pour ces bénéficiaires, le caractère d’intérêt général des opérations peut résulter notamment :
+- 
+de l’application des dispositions de l’article L. 321-5-1 du code forestier (servitude de
+passage et d’aménagement) ;
+- 
+de l’application des dispositions des trois derniers alinéas de l’article L. 321-6 du code
+forestier (déclaration d’utilité publique) ;
+- 
+de l’application des dispositions des articles L. 151-36 à 40 et R. 151-40 à 49 du code rural
+(déclaration d’intérêt général ou d’urgence) ;
+- 
+de la réalisation des formalités préalables au brûlage dirigé (articles L. 321-12 et R. 321-33
+à 38 du code forestier) ;
+- 
+de la conformité ou de la compatibilité avec un plan départemental ou régional de protection
+approuvé et le cas échéant un plan de massif dérivé (cf. point 4.1.3 ci-dessous).
+La libre disposition des terrains ou immeubles supportant les travaux sera attestée par le
+demandeur d’aide soit par la preuve de la mise en œuvre de l’une des procédures
+réglementaires listées précédemment, soit par la signature, par chacun des propriétaires des
+terrains en cause, d’une autorisation explicite de réaliser les travaux.
+4.1.3 CONDITIONS D'OCTROI DES AIDES (Critères d’analyse d’opportunité du
+projet)
+Les travaux forestiers (débroussaillement, nettoyage des coupes après exploitation…) résultant
+d'obligations légales et réglementaires au titre de la protection des forêts contre les incendies
+sont exclus du bénéfice des aides, sauf le nettoyage des parcelles en cas de chablis précédant
+la période à risque dans un massif forestier.
+Les aides sont attribuées en priorité dans les départements à haut risque d'incendie listés à
+l’article L. 321-6 du code forestier, ainsi que dans les massifs forestiers classés en application
+de l’article L. 321-1.
+Les opérations éligibles à une aide doivent s'inscrire :
+- 
+au niveau départemental dans le cadre du plan départemental ou régional de protection
+des forêts contre les incendies en vigueur, pour les départements méridionaux énumérés
+à l’article L. 321-6 du code forestier, ou d’un document en tenant lieu pour les autres
+départements. Ces plans ou documents pourront être notifiés à la Commission
+européenne dans le cadre de la mise en œuvre du PDRN.
+- 
+au niveau des massifs forestiers dans le cadre d’un plan de massif, s’il existe sur le
+territoire considéré, ou dans le cadre des programmes de travaux des maîtres d’ouvrages
+(collectivités territoriales ou leurs groupements, associations syndicales compétentes en
+matière de DFCI ou leurs unions).
+Les équipements de prévention et leur implantation, s’ils n’ont pu être prévus dans les
+documents cadres cités ci-dessus, doivent avoir reçu l'avis conforme de la commission
+départementale de sécurité et d’accessibilité.
+Les aides à la création et à la mise aux normes des équipements de terrain (routes, pistes,
+points d’eau, tours de guet) seront accordées en priorité aux équipements bénéficiant de la
+servitude de passage et d’aménagement prévue à l’article L. 321-5-1 du code forestier.
+
+9
+Mise en œuvre de la sous-mesure i.6.6. :
+Elle nécessite l’accord préalable du ministère chargé des forêts pour la mobilisation des aides
+de l’Etat. Le dossier à constituer pour recueillir cet accord comprend :
+- 
+un rapport départemental argumenté du caractère exceptionnel de la catastrophe, mettant
+en évidence les points soulignés au 4.1.1. (surface significative et/ou zone sensible) ;
+- 
+un diagnostic sommaire des sites concernés avec plan de situation ;
+- 
+une estimation du coût des propositions de reconstitution précisant les types de travaux
+envisagés ;
+- 
+un projet de plan de financement et un échéancier des opérations.
+L’opportunité des projets sera appréciée par le préfet, au regard des garanties de gestion
+durable de la forêt présentées par le bénéficiaire.
+La priorité sera donnée à des projets d’ensemble, concertés au niveau local et portés par les
+élus. En conséquence, les projets inclus dans une charte forestière de territoire ou inscrits dans
+un plan de développement de massif seront favorisés.
+4.1.4 CONDITIONS RELATIVES AUX TECHNIQUES
+Les travaux relatifs à la protection de la forêt contre l’incendie ont fait l’objet d’une
+normalisation :
+- 
+pour la zone méditerranéenne, ces normes sont définies par un document réalisé par la
+préfecture de la zone de défense Sud ;
+- 
+pour le massif des landes de Gascogne, ces normes sont définies par un document
+régional.
+Il appartient au préfet de s’assurer que les opérations proposées sont conformes aux règles de
+normalisation en vigueur.
+4.2 CONDITIONS PARTICULIERES DEFINIES AU PLAN REGIONAL
+Les adaptations régionales des conditions techniques et financières de mise en œuvre des
+opérations éligibles à une aide seront arrêtées par le préfet de région, après consultation de la
+Commission régionale de la forêt et des produits forestiers (CRFPF) et des commissions
+départementales de sécurité et d’accessibilité, en fonction des priorités et des programmes
+d'actions définis dans les PPFCI et les Orientations régionales forestières (ORF).
+4.3 INSTRUCTION DES DOSSIERS DE DEMANDE D’AIDE
+Il est rappelé que les dispositions du décret n° 99-1060 du 16 décembre 1999 s’appliquent à la
+procédure d’instruction et de paiement des aides à l’investissement, en tenant compte des
+particularités des décrets n° 2000-675 et n° 2000-676 du 17 juillet 2000, de l’arrêté du
+17 juillet 2000 et de leurs circulaires d’application.
+La procédure d’instruction des dossiers d’investissements éligibles au cofinancement du
+FEOGA-G, au titre du PDRN est décrite par les circulaires suivantes :
+- 
+circulaire DERF/SDF/C2001-3007 du 26 mars 2001 ;
+- 
+circulaire DERF/SDF/C2002-3014 du 12 août 2002.
+Dans ces deux circulaires, les mentions et les références à la sous-mesure i.2.9. s’appliquent
+désormais à la sous-mesure i.6.7., hors actions d’animation et d’information ; la référence au
+chapitre 61-45 est remplacée par la référence au chapitre 59-02.
+
+10
+Par ailleurs :
+- 
+La procédure d’instruction des dossiers de demande d’aide au titre de la sous-mesure
+i.6.7., pour les actions d’animation et d’information, est calquée sur celle de la mesure
+i.4. figurant à la circulaire DERF/SDF/C2001-3008 du 26 mars 2001. Une convention
+préparée par la DRAF ou la DDAF, précisant les modalités techniques et financières de
+l’opération, est prise entre le préfet de région ou de département et l’organisme éligible
+demandeur.
+- 
+La procédure d’instruction des dossiers de demande d’aide au titre de la sous-mesure
+i.6.7. pour les forêts domaniales est la même que pour les autres bénéficiaires éligibles.
+- 
+La procédure d’instruction des dossiers de demande d’aide au titre de la sous-mesure
+i.6.6. pour les forêts domaniales est calquée sur celle de la circulaire
+DGFAR/SDFB/C2004-5029 du 28 juillet 2004.
+L’attention des services est appelée sur la nécessité d’informer les bénéficiaires
+potentiels des aides, en particulier les associations syndicales et leurs unions, ainsi que
+les collectivités territoriales et leurs groupements, des engagements et des contrôles
+imposés par la mise en œuvre du règlement de développement rural.
+Vous me ferez part, sous le présent timbre, des difficultés liées à l’application de la présente
+circulaire.
+Le contrôleur financier
+Pierre DABLANC
+Le directeur général de la forêt et des affaires
+rurales
+Alain MOULINIER
