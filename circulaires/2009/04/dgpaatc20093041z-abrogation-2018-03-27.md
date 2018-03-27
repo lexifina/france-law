@@ -1,0 +1,485 @@
+# Aide à l'investissement pour la reconstruction des abris maraîchers, horticoles et tabacoles, et pour la reconstitution des filets paragrêles des vergers arboricoles, détruits ou endommagés à la suite de la tempête Klaus du 23 au 25 Janvier 2009.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGPAATC20093041Z
+- Numéro : DGPAAT/SDPM/C2009-3041
+- Date de signature : 2009-04-09
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 23787 (PDF officiel : pdf/2009/04/cir_23787.pdf)
+
+## Texte
+
+MINISTERE DE L'AGRICULTURE ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+Service de la Production Agricole 
+Sous-direction des Produits et Marchés 
+
+Bureau des fruits et légumes, de l’horticulture et des 
+productions végétales spécialisées 
+Adresse : 3, rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Suivi par : Noémie Le Quellenec 
+Tél. : 01 49 55 80 21 - Fax : 01 49 55 45 90 
+FranceAgriMer 
+Direction Gestion des Aides 
+Unité Aides aux exploitations 
+TSA 30003 
+93555 MONTREUIL SOUS BOIS CEDEX 
+
+Suivi par : Guy Noblet / Michel Pescher 
+Tel : 01 73 30 35 17 / 34 75 
+Fax : 01 73 30 30 57 
+
+CIRCULAIRE 
+DGPAAT/SDPM/C2009-3041 
+Date: 09 avril 2009 
+
+Date de mise en application : immédiate 
+Le Ministre de l'agriculture et de la pêche 
+
+à 
+
+Messieurs les Préfets des régions Aquitaine, Languedoc 
+Roussillon et Midi-Pyrénées 
+Mesdames et Messieurs les Préfets des départements de 
+l’Aude, Haute Garonne, Gers, Gironde, Landes, Lot-et-
+Garonne, Pyrénées Atlantiques, Hautes-Pyrénées et 
+Pyrénées-Orientales 
+ Nombre d'annexes : 
+2 
+
+Objet : Aide à l'investissement pour la reconstruction des abris maraîchers, horticoles et tabacoles, et 
+pour la reconstitution des filets paragrêles des vergers arboricoles, détruits ou endommagés à la suite 
+de la tempête Klaus du 23 au 25 Janvier 2009. 
+Bases juridiques : Lignes directrices de la Commission européenne concernant les aides d’Etat dans le 
+secteur agricole et forestier 2007-2013 (2006/C 319/01), traité CE articles 87 à 89, code rural et 
+notamment les articles L311-1 et 2, L341 – 1, notification d’aide d’Etat à la Commission européenne 
+n°484/2007. 
+Résumé : La présente circulaire décrit les modalités d’attribution des subventions accordées par 
+FranceAgriMer pour la reconstitution des abris endommagés par la tempête KLAUS dans les secteurs 
+des fruits et légumes, de l’horticulture et du tabac. 
+Mots clés : tempête Klaus, investissements, abris, couvertures, serres, séchoirs, filets paragrêles, 
+fruits et légumes, horticulture, tabac, 2009. 
+Destinataires 
+Pour exécution : 
+−Mesdames et Messieurs les Directeurs régionaux de 
+l'Alimentation, de l'agriculture et de la Forêt 
+−Mesdames et Messieurs les Directeurs 
+Départementaux de l’Agriculture et de la Forêt et 
+Directeurs Départementaux de l'Equipement et de 
+l'Agriculture des départements concernés 
+
+Pour information : 
+- 
+Messieurs les Préfets des régions concernées 
+- 
+Mesdames et Messieurs les Préfets des 
+départements concernés 
+- 
+Monsieur le Contrôleur général économique et 
+financier 
+- 
+CGAAER 
+
+SOMMAIRE 
+
+ 1. Dispositif général........................................................................................................................................................................... 3 
+ 2. Bénéficiaires de l'aide.................................................................................................................................................................... 3 
+ 3. Nature des investissements éligibles ............................................................................................................................................. 4 
+ 4. Montants d’aides ........................................................................................................................................................................... 4 
+ 5. Gestion budgétaire ........................................................................................................................................................................ 5 
+ 6. Modalités de proposition du taux d’aide ..................................................................................................................................... 5 
+ 7. Modalités d’instruction des demandes d’aide en DDAF .............................................................................................................. 5 
+ 8. Modalités d’instruction par FranceAgriMer................................................................................................................................. 6 
+ 9. Modalités de paiement de l‘aide................................................................................................................................................... 6 
+ 10. Contrôles et sanctions................................................................................................................................................................. 6 
+ 11. Dispositions générales................................................................................................................................................................ 7
+
+1. Dispositif général 
+Les dégâts occasionnés par la tempête exceptionnelle Klaus du 23 au 25 janvier 2009 ont gravement affecté 
+les exploitations du secteur de l'horticulture, des fruits et légumes et du tabac. 
+Le remboursement des compagnies d'assurances, la prise en charge du Fonds National de Garantie des 
+Calamités Agricoles (FNGCA), le concours des collectivités territoriales ou d'autres organismes ne 
+permettront pas à toutes ces exploitations de relancer leur activité et de maintenir l'emploi. 
+Un plan d'urgence exceptionnel est mis en œuvre afin de venir en aide aux exploitants victimes de dommages 
+à la suite de cette tempête, en soutenant les investissements permettant de conforter les entreprises 
+touchées, notamment au travers de leurs équipements de production. 
+La présente circulaire précise les conditions et modalités de l'intervention de FranceAgriMer et des services 
+déconcentrés de l’Etat, pour contribuer à la reconstruction des abris maraîchers, horticoles et tabacoles et 
+des filets paragrêles couvrant les vergers arboricoles gravement endommagés ou détruits par la tempête 
+Klaus, le cas échéant, en complément de l'intervention des compagnies d'assurances et à l’exclusion du 
+FNGCA. 
+Dans la suite de cette circulaire, les mentions aux DDAF devront s’entendre comme faisant également 
+référence aux DDEA. 
+2. Bénéficiaires de l'aide. 
+Seuls les exploitants dont les sites de production sont situés géographiquement sur les départements 
+reconnus sinistrés au titre de l’Arrêté du 28 janvier 2009 portant reconnaissance de l'état de catastrophe 
+naturelle du fait de la tempête survenue du 23 au 25 janvier 2009 ou sur les départements du Tarn 
+ou du Tarn-et-Garonne peuvent prétendre au bénéfice de l'aide. 
+Peuvent bénéficier de cette subvention, les personnes physiques exerçant une activité agricole au sens de 
+l’article L-311-1 et L -311-2 du code rural. 
+Peuvent bénéficier également du dispositif d’aide décrit dans cette circulaire, les exploitants agricoles, les 
+groupements agricoles d'exploitation en commun (GAEC), les exploitations agricoles à responsabilité limitée 
+(EARL), les autres personnes morales ayant pour objet l'exploitation d'un domaine agricole et dont plus de 50 
+% du capital est détenu par des exploitants agricoles à titre principal. 
+Le demandeur doit satisfaire, à la date du dépôt de la demande d’aide, les conditions énumérées ci-après : 
+- 
+être immatriculés SIREN/SIRET, 
+- 
+déclarer être à jour des obligations fiscales et sociales légalement exigibles aux régimes de base 
+obligatoire de protection des salariés et des non salariés, 
+- 
+déclarer 
+être 
+en 
+règle 
+vis-à-vis 
+des 
+disciplines 
+et 
+cotisations 
+professionnelles 
+et 
+interprofessionnelles, 
+- 
+avoir un taux de spécialisation de l’exploitation, calculé en pourcentage de la marge brute totale de 
+l’exploitation ou du chiffre d’affaires total hors taxes réalisé en fruits et légumes, arboriculture, 
+horticulture ou tabac, supérieur ou égal à 25%. sur la base du dernier exercice fiscal connu ou par 
+rapport à la moyenne des trois derniers exercices fiscaux. 
+
+- 
+avoir au moins une unité de production (tunnel, serre, filet paragrêle, séchoir…) détruite ou 
+endommagée. 
+3. Nature des investissements éligibles 
+Les dégâts occasionnés par la tempête ont gravement affecté les installations et les cultures des producteurs 
+des secteurs de l’horticulture, des fruits et légumes et du tabac. Ces dégâts ont portés majoritairement sur les 
+tunnels de production, les serres multi chapelles plastiques, les filets paragrêles, et les séchoirs de tabacs. 
+Les aides accordées par la présente circulaire sont destinées à indemniser la réparation des dégâts recensés 
+portant sur les structures métalliques, sur les couvertures des abris, sur les filets paragrêles détruits ou 
+endommagés. Le type de matériel indemnisé (structure et/ou couverture et/ou filets) est déterminé au niveau 
+de chacun des départements selon les modalités définies au point 6. 
+Peuvent être également éligibles les investissements financés sous forme de crédit-bail, dont la durée 
+n’excède pas 2 ans. L’aide sera calculée sur la base des loyers effectivement payés (capital + frais 
+financiers). La dépense prise en compte ne pourra jamais être supérieure au coût de l’acquisition ou de la 
+construction par le crédit bailleur. 
+Les aides ne peuvent en aucun cas se traduire par une surcompensation des pertes subies. 
+En ce qui concerne les films plastiques, seuls les dégâts sur les films achetés et payés à partir du 1er janvier 
+2005, justifiés par les factures d’achat, sont retenus au titre de la présente circulaire. 
+Sont exclus les matériels d’occasion et les films plastiques utilisés à d’autres fins que celles de couvertures 
+d’abris, les abris de moins de 80 cm de hauteur. Les serres verres sont également exclues. 
+Pour les investissements éligibles au bénéfice de l’aide, l’intervention du Fonds National de Garantie des 
+Calamités Agricoles (FNGCA) est exclue. 
+4. Montants d’aides 
+Le taux de prise en charge ne peut excéder 40 % HT maximum du coût des investissements, hors main 
+d’œuvre, et s'applique uniquement aux investissements réalisés à partir du 29 janvier 2009 et pour une 
+superficie équivalente à celle détruite ou endommagée. 
+Ce taux d’aide s’applique également aux exploitations assurées. Dans ce cas, le cumul des indemnités 
+d’assurance et de l’ensemble des aides publiques ne devra pas dépasser le montant de l’investissement 
+concerné. 
+L’aide accordée ne peut en aucun cas être inférieure à 300€. 
+
+5. Gestion budgétaire 
+a. Répartition régionale des enveloppes 
+Une enveloppe nationale de 3 millions d’euros est affectée à ce dispositif. 
+Les DRAAF sont chargées de faire remonter à FranceAgriMer et à la DGPAAT les expressions de besoin 
+pour cette mesure (estimation du nombre de dossiers éligibles, du nombre d'ha concernés et des types 
+d'investissements par département) dans un délai maximum de un mois suivant la date de publication de la 
+présente circulaire. 
+Les enveloppes régionales sont notifiées sur la base de ce recensement et sont déterminées en corrélation 
+avec le nombre d’hectares touchés par la tempête. 
+Les enveloppes ainsi notifiées sont strictement limitatives, les DRAAF devant s’assurer de leur respect. 
+b. Répartition départementale des enveloppes par les DRAAF 
+Il appartient à chaque DRAAF de répartir l'enveloppe allouée entre les départements de sa région, 
+l'instruction des dossiers étant réalisée au niveau du département. Les DRAAF, responsables de l'enveloppe 
+attribuée à la région, doivent communiquer à FranceAgriMer et à la DGPAAT la répartition effectuée entre les 
+départements de leur région. 
+Dans les cas où, après cette information, la DRAAF souhaiterait procéder à de nouveaux ajustements dans la 
+répartition de l'enveloppe régionale entre départements, il lui appartiendra d'en informer FranceAgriMer. 
+6. Modalités de proposition du taux d’aide 
+La détermination du montant des aides est réalisée dans le cadre d’un groupe de travail installé sous 
+l’autorité du Préfet et réunissant notamment des représentants des services de l’Etat concernés (DDAF, 
+DRAAF), de la Chambre d’Agriculture, ainsi que le cas échéant les compagnies d'assurance, experts en tant 
+que de besoin et les collectivités locales participant au financement et les représentants de la profession 
+agricole. 
+Le Préfet, après consultation de ce groupe de travail, détermine le type de matériel indemnisé ainsi que les 
+taux d’aide, dans la limite de 40 % HT maximum des investissements, en fonction de critères à déterminer 
+localement. 
+Les DRAAF concernées harmonisent dans la mesure du possible les critères dans leur territoire de 
+compétence. 
+7. Modalités d’instruction des demandes d’aide en DDAF 
+Les demandes d'aides (Annexe I), accompagnées des devis (ou factures) correspondant aux investissements 
+à réaliser doivent être adressées au plus tard le 30 juin 2009 à la Direction départementale de l’agriculture et 
+de la forêt du département dans lequel se situe le siège de l’exploitation. 
+Si le dossier de demande n’est pas recevable, la DDAF rejette le dossier par courrier adressé au demandeur. 
+S’il est recevable, la DDAF adresse au demandeur un accusé de réception qui ne vaut pas engagement de la 
+part des pouvoirs publics de lui attribuer une aide. 
+
+La DDAF établit la liste des demandeurs, et fait une proposition du montant d’aide à octroyer, dans la limite 
+de l'enveloppe qui a été attribuée pour le département. Elle fait parvenir cette liste à FranceAgriMer, sous 
+couvert de la DRAAF, au plus tard le 24 juillet 2009. 
+8. Modalités d’instruction par FranceAgriMer 
+Au cas où une sous consommation d’enveloppe serait constatée dans une région ou un département, le 
+directeur de FranceAgriMer pourra procéder à un ajustement d'enveloppe. 
+Sur la base de cette nouvelle enveloppe, les montants définitifs pouvant être attribués aux producteurs sont 
+déterminés et transmis à FranceAgriMer. 
+Dans tous les cas, la DDAF adresse au plus tard le 1er septembre 2009, copie des dossiers éligibles à 
+FranceAgriMer, lequel, après validation des dossiers, délivre aux demandeurs un accord de subvention, 
+accompagné d’un formulaire de demande de versement. 
+Les travaux doivent être réalisés dans leur totalité au plus tard le 31 janvier 2010 et doivent être conformes au 
+projet ayant fait l’objet de l’accord de subvention. 
+9. Modalités de paiement de l‘aide 
+Après la réalisation des investissements, et au plus tard 18 mois après la date de signature de l’Accord de 
+subvention, excepté circonstances particulières dûment justifiées et après accord du directeur de 
+FranceAgriMer, le bénéficiaire transmet à la DDAF la demande de versement en deux exemplaires, 
+accompagnée : 
+• des copies des factures acquittées du fournisseur (cachet original et signature originale), 
+• et d’un Relevé d’Identité Bancaire. 
+Les dossiers transmis hors délai ainsi que ceux se rapportant à des investissements réalisés hors délai ou 
+non conformes au projet initialement déposé sont rejetés. 
+La DDAF transmet à FranceAgriMer les demandes de versement conformes accompagnées des pièces 
+visées à l'alinéa précédent. Les paiements sont effectués par FranceAgriMer sous la forme d’un versement 
+unique. 
+Tant pour ce qui concerne l’éligibilité de la demande que la disponibilité des crédits ou l’acceptation de la 
+demande de versement, FranceAgriMer n’est pas lié par l’appréciation favorable au demandeur effectuée par 
+la DDAF. 
+10. Contrôles et sanctions 
+Le demandeur prend les engagements suivants : 
+• de se soumettre à l’ensemble des contrôles qui pourraient résulter de l’octroi d’aides nationales, 
+• de conserver l’ensemble des pièces justificatives des investissements réalisés pendant les cinq 
+années suivant le paiement. 
+Des contrôles en exploitation peuvent être effectués à tout moment depuis l'instruction du dossier jusqu'à la 
+fin de la période des engagements à l'initiative de la DDAF, FranceAgriMer ou de tout autre service autorisé. 
+
+Le non-respect des engagements pris par le bénéficiaire ainsi qu’une fausse déclaration lors des demandes 
+d’aide et de versement entraînent le remboursement des aides indument perçues majorées des intérêts au 
+taux légal en vigueur, ainsi que l’application d’une sanction égale à 20 % des aides en cause. 
+11. Dispositions générales. 
+La présente circulaire s’applique à compter de sa date de parution. 
+Vous tiendrez informé le Directeur de FranceAgriMer de tout cas particulier ou toute difficulté rencontrés dans 
+l’application des dispositions de la présente circulaire. 
+
+Michel BARNIER 
+
+Pièces jointes : un formulaire de demande de concours financier (Annexe 1), un formulaire de demande de 
+versement (Annexe 2). 
+
+Annexe 1 (1/3) 
+DEMANDE DE CONCOURS FINANCIER A FranceAgriMer 
+
+FranceAgriMer 
+Direction Gestion des aides, 
+Unité aides aux exploitations 
+12, rue Rol Tanguy 
+TSA40004 
+93555 Montreuil sous Bois Cedex 
+
+ANNEXE 1 
+Circulaire N° 2009 / 
+Soutien aux exploitants victimes des dégâts de la tempête Klaus de 
+janvier 2009. 
+
+NUMERO SIRET : 
+ (OBLIGATOIRE) 
+
+Nom :……………………………………………………….. 
+
+Prénom : …………………………………………………… 
+
+Tél : ……………………… 
+
+Statut et nom si forme sociétaire : ……………………….. 
+………………………………………………………………. 
+
+Adresse : …………………………………………………… 
+
+…………………………………………………… 
+
+Code postal : …….…………………. 
+
+Ville : …………………………… 
+
+- Secteur principal d’activité : Horticulture : /__/, Fruits et légumes : /__/, 
+Arboriculture : /__/, Tabac : /__/ 
+
+Pourcentage de superficie détruite ou endommagées 
+
+TYPES 
+Superficie totale en 
+production 
+Superficie sinistrée ou 
+détruite 
+% sinistré ou détruit 
+
+exprimée en m² 
+exprimée en m² 
+
+Serres plastiques 
+tunnel, bi tunnel, 
+
+Serres plastiques 
+chapelle 
+
+Filets Paragrêle 
+
+Séchoirs à tabac
+
+Annexe 1 (2/3) 
+Taux de spécialisation 
+
+2006 
+2007 
+2008 
+Moyenne 2006-
+2008 
+
+Chiffre d’affaires total  
+Ou marge brute totale  
+
+Chiffre d’affaires généré 
+par l’activité principale  
+Marge brute générée par 
+l’activité principale  
+
+Taux de spécialisation 
+
+Assiette des aides demandées 
+
+Type d'investissements 
+Superficie 
+réalisée en 
+m² 
+Prix en € au m²
+Coût total de l’investissement 
+
+Tunnel et multi chapelle 
+souple simple paroi, (FL et 
+H). 
+Films Plastique * 
+Structures  
+
+DPG (double paroi 
+gonflable), (FL et H) 
+Films Plastique * 
+Structures  
+
+Filet paragrêle 
+Filets  
+Structures  
+
+Séchoir à tabac 
+Films Plastique  
+Structures  
+
+Montant total des dépenses 
+
+* pour les films plastiques, joindre les factures ou autre document justifiant que les films on été achetés après 
+le 1er janvier 2005. 
+
+Annexe 1 (3/3) 
+
+Je joins à ma demande l’attestation MSA, les statuts juridiques de mon exploitation si j’exploite en forme 
+sociétaire et la copie de mon dernier avis d’imposition. 
+
+J'autorise mon (mes) établissements de crédit(s) et mon centre comptable à communiquer à 
+l’administration tous les éléments nécessaires à l’étude et au contrôle éventuel de mon dossier. 
+
+J'atteste sur l'honneur 
+- 
+l'exactitude des renseignements fournis et je m’engage à reconstruire ou à remettre en état, objet 
+de la présente demande de subvention, une superficie maximum, équivalente à celle détruite ou 
+endommagée. 
+- 
+que je n’ai pas sollicité une aide autre que celles indiquées sur ma demande sur le même projet et 
+les mêmes investissements, 
+L’exactitude des renseignements concernant ma situation et concernant le projet d’investissement. 
+Toute fausse déclaration entraînera le remboursement des aides indûment perçues, majorées des 
+intérêts au taux légal en vigueur. (Art. 22. II de la loi 68-690 du 31/07/68 : "quiconque aura fourni 
+sciemment des renseignements inexacts ou incomplets dans la déclaration exigée en vue d'obtenir de l'état 
+un paiement ou avantage quelconque indu pourra être puni d'un emprisonnement et d'une amende") 
+
+Demande à bénéficier de l'aide prévue dans le respect des conditions fixées par la circulaire. 
+
+A__________________________, le________________________. 
+
+Signature du demandeur ou du gérant en cas de forme sociétaire, de tous les 
+associés dans le cas d’un GAEC. 
+
+Signature du demandeur 
+
+Annexe 2 (1/2) 
+DEMANDE DE PAIEMENT A FranceAgriMer 
+
+FranceAgriMer 
+Direction Gestion des aides, 
+Unité aides aux exploitations 
+12, rue Rol Tanguy 
+TSA40004 
+93555 Montreuil sous Bois 
+Cedex 
+
+ANNEXE 2 
+Circulaire N° 2009 / 
+Soutien aux exploitants victimes des dégâts de la tempête Klaus de 
+janvier 2009. 
+
+NUMERO SIRET : 
+ (OBLIGATOIRE) 
+
+Nom :……………………………………………………….. 
+
+Prénom : …………………………………………………… 
+
+Tél : ……………………… 
+
+Statut et nom si forme sociétaire : ……………………….. 
+………………………………………………………………. 
+
+Adresse : …………………………………………………… 
+
+…………………………………………………… 
+
+Code postal : …….…………………. 
+
+Ville : …………………………… 
+
+Pièces à joindre 
+
+Factures acquittées, originales ou copies certifiées, 
+
+RIB OU RIP. 
+
+Type d'investissements 
+Coût total de l’investissement 
+
+TOTAL hors taxe des factures acquittées 
+
+Annexe 2 (2/2) 
+
+Autres montants perçus ou à percevoir 
+
+Montant total des dégâts : …………………………………………………………………………………………… 
+
+Montant des primes d’assurance * : …………………………………………………………………………………. 
+
+Montant des autres subventions perçues ou à percevoir :………………………………………………………… 
+
+* joindre le justificatif de la prime perçue ou une attestation de l’assurance des montants à percevoir. 
+
+Date de fin des travaux : |__||__| / |__||__| / |__||__||__||__| 
+
+Fait à ________________________________________________________, le________________________ 
+
+Nom et signature du demandeur ou du représentant légal de l’entreprise 
+
+Rappel du montant total des dépenses : Euros 
+
+Montant de subvention proposée par la DDAF: Euros 
+
+en date du : /__/__/ /__/__/ /__/__/__/__/ 
+
+Signature de la DDAF
