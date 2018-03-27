@@ -1,0 +1,1114 @@
+# Application des dispositions du 5° de l'article R. 414-11 et des articles R. 414-12 et R. 414-12-1 du code de l'environnement se rapportant à la charte Natura 2000.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGFARC20075023IZ
+- Numéro : DGFAR/SDER/C2007-5023
+- Date de signature : 2007-04-30
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 22152 (PDF officiel : pdf/2009/04/cir_22152.pdf)
+
+## Texte
+
+MINISTERE DE L'ECOLOGIE ET DU 
+DEVELOPPEMENT DURABLE 
+
+Direction de la nature et des paysages 
+Sous-direction des espaces naturels 
+Bureau des habitats naturels 
+20, avenue de Ségur 
+75302 PARIS 07 SP 
+
+Tel. 01.42.19.20.21 fax 01.42.19.19.98 
+MINISTERE DE L’AGRICULTURE ET DE LA 
+PECHE 
+
+Direction Générale de la Forêt et des Affaires 
+Rurales 
+Sous-direction de l’environnement et de la ruralité 
+Bureau de l’environnement et de la gestion des 
+espaces ruraux 
+78, rue de Varenne - 75349 Paris 07 SP 
+
+Tel 01.49.55.44.81 fax 01.49.55.59.87 
+CIRCULAIRE 
+DNP/SDEN N°2007 N°1 
+DGFAR/SDER/C2007-5023 
+Date: 30 avril 2007 
+
+Date de mise en application : immédiate 
+Nombre d'annexes : 4 
+
+La Ministre de l’Ecologie et du Développement 
+Durable 
+Le Ministre de l'Agriculture et de la Pêche 
+à 
+Mmes et MM. les Préfets de Région 
+Mmes et MM. les Préfets 
+
+Objet : Application des dispositions du 5° de l’article R. 414-11 et des articles R. 414-12 et 
+R. 414-12-1 du code de l’environnement se rapportant à la charte Natura 2000 
+
+Références : 
+• Vu la directive 79/409/CEE du Conseil du 2 avril 1979 modifiée concernant la conservation des oiseaux 
+sauvages ; 
+• Vu la directive 92/43/CEE du Conseil du 21 mai 1992 modifiée concernant la conservation des habitats 
+naturels ainsi que de la faune et de la flore sauvages ; 
+• Vu le code de l’environnement, notamment ses articles L. 414-3, R. 414-11, R. 414-12 et 
+R. 414-12-1 
+Mots-clés : environnement, charte Natura 2000, DOCOB 
+
+DESTINATAIRES 
+Pour Exécution 
+
+Préfets de région 
+Directeurs régionaux de l’environnement 
+Préfets de département 
+Directeurs départementaux de l'agriculture et de la 
+forêt 
+
+Pour Information 
+
+Directeurs régionaux de l’agriculture et de la forêt 
+CNASEA 
+Parcs nationaux 
+Membres du comité national de suivi de Natura 2000 
+Ministère de l’économie des finances et de l’industrie 
+direction générale des impôts 
+
+2
+La présente circulaire a pour objet la charte Natura 2000, outil d’adhésion au document d’objectifs
+d’un site Natura 2000 (DOCOB) qui n’implique pas le versement d’une rémunération.
+Cette circulaire précise :
+- 
+le contenu de la charte Natura 2000,
+- 
+les modalités de son élaboration dans le cadre du DOCOB,
+- 
+la procédure d’adhésion à la charte de chaque site.
+Plusieurs motifs ont conduit à la création de ce nouvel outil d’adhésion au DOCOB par la loi
+n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux, notamment :
+- 
+permettre aux titulaires de droits réels et personnels de parcelles situées dans un site Natura
+2000 de marquer leur adhésion à la démarche Natura 2000 ;
+- 
+reconnaître l’intérêt de pratiques de gestion développées par ces titulaires, qui concourent à
+la conservation des habitats et des espèces ;
+- 
+permettre aux titulaires de s’engager vers des pratiques de gestion contribuant à la
+réalisation des objectifs du DOCOB, sans pour autant s’investir dans un contrat Natura
+20001 ;
+En outre, l’adhésion à la charte donne accès à des exonérations fiscales et à certaines aides
+publiques.
+La charte Natura 2000 doit être un document simple, clair, compréhensible par tous et «
+normé », de façon à constituer un outil d’adhésion au DOCOB efficace, attractif et cohérent
+avec les autres politiques sectorielles. L’adhérent marquera ainsi son engagement en faveur
+de Natura 2000.
+Une gestion adaptée des sites constitue, au-delà du respect de nos engagements communautaires, un
+enjeu important pour le développement durable de ces territoires ruraux remarquables. Les
+dispositions introduites par la loi relative au développement des territoires ruraux ont réaffirmé le
+choix de la politique contractuelle pour la gestion des sites Natura 2000.
+La charte est un des outils à même d’encourager une mobilisation forte afin de garantir la gestion
+des sites, notamment en concrétisant les préconisations des documents d’objectifs opérationnels.
+C’est pourquoi il vous est demandé de prendre les dispositions nécessaires pour que les documents
+d’objectifs déjà opérationnels ou en cours de rédaction soient complétés par la charte du site dans
+les meilleurs délais, de façon à être en mesure de proposer aux titulaires de droits réels et personnels
+portant sur des parcelles situées dans le site d’y adhérer.
+Le Directeur de la Nature
+et des Paysages
+Jean-Marc MICHEL
+Le Directeur Général de la Forêt
+et des Affaires Rurales
+Alain MOULINIER
+
+1 L’adhésion à la charte Natura 2000 ne fait pas obstacle à la signature par l’adhérent d’un contrat Natura 2000.
+
+3 
+Sommaire 
+
+1. 
+Champ d’application et contenu ____________________________________________ 4 
+1.1. Surfaces concernées par la charte ___________________________________________ 4 
+1.2. Objectifs________________________________________________________________ 4 
+1.3. Activités concernées ______________________________________________________ 4 
+1.4. Contenu ________________________________________________________________ 4 
+1.4.1 
+Définition des engagements contrôlables _________________________________ 4 
+1.4.2. 
+Définition de recommandations_________________________________________ 7 
+1.5. Les adhérents à la charte Natura 2000 _______________________________________ 7 
+2. 
+Modalités d’élaboration et d’approbation de la charte___________________________ 8 
+2.1. Eléments de cadrage au niveau régional______________________________________ 8 
+2.2. Elaboration et approbation dans le cadre du DOCOB __________________________ 8 
+3. 
+L’adhésion à la charte Natura 2000 _________________________________________ 9 
+3.1. Surfaces concernées ______________________________________________________ 9 
+3.2. Sélection des engagements en fonction des droits de l’adhérent et des milieux présents 
+sur les parcelles engagées _________________________________________________ 9 
+3.3. Durée d’adhésion _______________________________________________________ 10 
+3.4. Modalités d’adhésion ____________________________________________________ 10 
+3.4.1. 
+Déclaration d’adhésion et pièces à fournir par l’adhérent ____________________ 10 
+3.4.2. 
+Cas particuliers_____________________________________________________ 12 
+3.4.3. 
+Traitement du dossier par la DDAF/DDEA : dispositif transitoire pour l’instruction 
+des dossiers en 2007_________________________________________________________ 12 
+4. 
+Les contreparties de la charte _____________________________________________ 13 
+4.1. Exonération de la taxe foncière sur les propriétés non bâties (TFPNB) ___________ 13 
+4.2. Garantie de gestion durable des forêts (GDD)________________________________ 14 
+5. 
+Suivi, contrôle et sanctions _______________________________________________ 16 
+5.1. Suivi et contrôles ________________________________________________________ 16 
+5.2. Sanctions applicables en cas de non-respect de la charte _______________________ 16 
+6. 
+Modification de situation_________________________________________________ 17 
+
+4 
+Préambule : Dans la présente circulaire, le terme « mandataire » est employé pour désigner les 
+personnes physiques ou morales qui bénéficient, sur des parcelles dont elles ne sont pas 
+propriétaires, de droits réels ou personnels. Le terme « mandat » est utilisé pour désigner l’acte 
+juridique par lequel le « mandataire » se voit reconnaître un droit réel ou personnel. Il doit pouvoir 
+être produit par le « mandataire » sur demande de l’administration. 
+
+1. Champ d’application et contenu 
+
+Pour chaque site Natura 2000, une charte unique est établie dans le DOCOB. 
+
+1.1. Surfaces concernées par la charte 
+
+La charte porte sur l’ensemble du site Natura 2000. 
+
+1.2. Objectifs 
+
+L’objectif de la charte est la conservation du site Natura 2000. La charte contribue à l’atteinte de cet 
+objectif par la poursuite et le développement de pratiques favorables à la conservation du site. 
+Afin de garantir l’efficacité de l’outil, il convient, dans le cadre de l’élaboration du DOCOB, de 
+déterminer les enjeux majeurs de conservation sur le site. La charte répond en priorité aux enjeux 
+ainsi définis. 
+
+1.3. Activités concernées 
+
+Outre les activités de gestion courante du site, notamment les pratiques agricoles et sylvicoles, 
+toutes les activités pratiquées sur le site Natura 2000 comme les activités de loisirs (randonnées, 
+chasse, escalade, sports d’eaux vives, pêche, voile ...) peuvent être concernées par la charte. 
+
+1.4. Contenu 
+
+En application de l’article R 414-12-1 du code de l’environnement, la charte Natura 2000 est 
+constituée d’une liste d’engagements contribuant à la réalisation des objectifs de conservation des 
+habitats naturels et des espèces définis dans le DOCOB et poursuivis dans le cadre du réseau Natura 
+2000. Elle ne saurait se limiter à de simples recommandations. 
+Conformément à l’article L. 414-12-1 du code précité, ces engagements peuvent être contrôlés, 
+notamment lorsqu’ils ont permis l’obtention d’une aide publique ou d’un avantage fiscal. Leur non-
+respect peut conduire à une suspension temporaire de l’adhésion à la charte. 
+
+1.4.1 Définition des engagements contrôlables 
+
+Les engagements proposés sont définis en lien avec les objectifs de conservation du site. 
+
+a) Niveau d’exigence : 
+
+Les engagements définis doivent : 
+
+- 
+être de l’ordre des bonnes pratiques en vigueur localement ou souhaitées, favorables aux 
+habitats et espèces ayant justifié la désignation du site (ce qui peut-être différent des bonnes 
+pratiques « officielles » agricoles ou forestières). Il convient de rechercher une articulation 
+et une complémentarité notamment avec les exigences de la conditionnalité des aides 
+
+5 
+agricoles (1er et 2ième pilier), les bonnes conditions agricoles environnementales (BCAE) et 
+le code des bonnes pratiques sylvicoles (CBPS). Néanmoins, la charte étant spécifique à un 
+site Natura 2000, ses engagements sont plus ciblés que les recommandations des codes de 
+bonnes pratiques sectoriels. Il convient de s’assurer que les codes de bonnes pratiques 
+sectoriels et la charte peuvent être mis en application simultanément par leurs adhérents. Des 
+synergies entre ces outils doivent être recherchées ; 
+- 
+ne pas faire supporter à l’adhérent à la charte un coût de mise en œuvre supérieur aux 
+bonnes pratiques en vigueur ou acceptées localement ; 
+- 
+ne pas être limités au respect des exigences réglementaires. 
+
+Un engagement rémunéré contenu dans un cahier des charges des mesures contractuelles du 
+document d’objectifs, éligible à une contribution financière de l’Etat pour sa réalisation, ne peut être 
+retenu simultanément dans la charte Natura 2000 du site. 
+
+b) Définition des engagements 
+
+Il peut s’agir aussi bien d’engagements à faire que d’engagements « à ne pas faire ». Une attention 
+particulière doit être portée à la formulation des engagements de façon à décrire de manière positive 
+les interventions ou non-interventions préconisées. 
+
+Les engagements sont classés en deux catégories suivant leur champ d’application : 
+
+Î engagements portant sur tout le site : définition d’engagements de portée générale 
+
+Afin d’appréhender plus avant ce type d’engagements et sans préjuger des travaux menés au 
+sein du comité de pilotage (COPIL), il est possible de relever deux engagements de portée 
+générale suivants qui pourraient utilement apparaître dans une charte Natura 2000. 
+
+Il serait ainsi intéressant que figure dans la charte un engagement lié à l’autorisation d’accès aux 
+parcelles sur lesquelles la charte a été souscrite afin de permettre que soient menées des 
+opérations d’inventaire et d’évaluation de l’état de conservation2 des habitats naturels, des 
+espèces et de leurs habitats ayant justifié le classement du site en Natura 2000, sous réserve que 
+le titulaire de droits réels ou personnels soit préalablement informé de la date de ces opérations 
+dans un délai déterminé ainsi que de la qualité des personnes amenées à les réaliser3. Il est 
+important de discuter ces éléments au sein du COPIL afin d’aboutir à un dispositif accepté de 
+tous (délai et modalités d’information, personnes ou organismes qualifiés…), évitant ainsi le 
+recours à des dispositions réglementaires parfois lourdes et peu appropriées en la matière. Il 
+conviendrait de proposer la communication des résultats des études et inventaires de terrain aux 
+adhérents à la charte, de façon à conforter leur participation à la démarche. 
+
+Il conviendrait également de faire figurer dans la charte un engagement relatif à la mise en 
+conformité du plan de gestion ou document d’aménagement des forêts avec les 
+engagements souscrits dans la charte dans un délai de trois ans suivant l’adhésion à la charte. 
+
+Î engagements « zonés » définis par grands types de milieux 
+
+Il s’agit d’engagements qui s’appliquent sur des types de milieux facilement identifiables par les 
+propriétaires, exploitants ou usagers du site Natura 2000, reconnus de tous les membres du COPIL, 
+
+2 A ne pas confondre avec les contrôles abordés au chapitre 6. L’adhérent a une obligation de moyens et non de 
+résultats. 
+3 Et sous la propre responsabilité des personnes réalisant les travaux d’inventaires ou d’évaluation 
+
+6 
+et qui ont un intérêt pour la conservation du site. Ces grands types de milieux ont ainsi vocation à 
+regrouper notamment des habitats naturels et des habitats d’espèces d’intérêt communautaire qui 
+justifient la désignation du site. 
+
+Une cartographie des grands types de milieux pourra utilement accompagner la charte et ainsi 
+faciliter la compréhension de la charte par les adhérents potentiels. Afin de conserver sa simplicité à 
+l’adhésion à la charte, l’usage d’une cartographie n’est pas rendue obligatoire pour 
+l’identification des milieux sur lesquels portent les engagements. 
+
+Les types de milieux sont définis en fonction des caractéristiques du site. Par exemple pour un site 
+comprenant des milieux ouverts et quelques zones forestières, ces dernières peuvent être qualifiées 
+de « milieux forestiers ». Lorsqu’un site ne comprend que des zones forestières, il convient de 
+différencier ces zones en opérant par exemple une distinction entre « forêt de feuillus », « forêt de 
+bord de cours d’eau », « forêt de pente » (…) en fonction des caractéristiques du site. L’annexe 1 
+donne quelques exemples de types de milieux. 
+
+Î cas particuliers 
+
+ Lorsque la charte comprend un engagement qui n’a de sens que sur des habitats naturels ou des 
+habitats d’espèces d’intérêt communautaire particulièrement menacés (ex : dans un milieu 
+forestier hébergeant par endroit un habitat d’intérêt communautaire particulièrement menacé, un 
+engagement du type « non transformation de peuplement forestier » n’a de sens que sur cet 
+habitat d’intérêt communautaire) et que ces zones ne peuvent être identifiées que par des 
+experts, une cartographie opérationnelle devra accompagner la charte afin de permettre 
+l’identification de la zone concernée par les adhérents. 
+
+ Lorsque la charte comprend un engagement relatif à certaines espèces ou leurs habitats qui se 
+révèle être opportun uniquement lorsque la présence de spécimens de cette espèce sur une zone 
+donnée est effective : un porter à connaissance auprès des adhérents peut être prévu. Par 
+exemple, en forêt, un engagement du type « proscrire tous travaux entre le 1er avril et le 31 
+mai » qui serait préconisé pour une espèce particulière dont la présence de quelques couples 
+seulement est reconnue peut être formulé de la façon suivante : « proscrire tous travaux entre le 
+1er avril et le 31 mai lorsque la présence de l’espèce X vous a été signalée par les services de 
+l’Etat ou la structure animatrice». 
+
+ Afin de garantir la bonne articulation de la charte avec les mesures agro-environnementales 
+(MAE), les engagements contenus dans la charte doivent tenir compte du caractère agricole des 
+parcelles. 
+
+A titre d’exemple, dans le cas de milieux ouverts où une fauche est pratiquée, une mesure 
+« retard de fauche » ne peut pas figurer dans la charte pour les zones agricoles car une telle 
+pratique est financée par les MAE. Par contre, hors champ de production agricole, la date de 
+fauche, qui ne génère pas de surcoût, peut figurer dans la charte. Il en va de même pour les 
+mesures liées à la suppression de traitements phytosanitaires par exemple qui peuvent également 
+relever de l’agricole comme du non agricole. 
+
+c) Présentation des engagements 
+
+Pour être efficace, la charte doit être un outil d’adhésion attractif et simple. Le nombre et le libellé 
+des engagements figurant dans la charte sont des facteurs de réussite importants. Il convient de 
+
+7 
+veiller à ce que la charte comprenne un nombre limité d’engagements (de l’ordre de 3 
+engagements par type de milieux, éviter d’excéder 5 engagements par type de milieux) sans pour 
+autant exclure certaines activités (la charte doit s’adresser à un large public). Un exercice de 
+définition des objectifs prioritaires et des engagements à préconiser dans la charte doit donc être 
+réalisé au préalable. L’enjeu majeur qui doit guider cette définition des priorités est le maintien de 
+l’état du site. 
+
+1.4.2. Définition de recommandations 
+
+La charte peut contenir des recommandations propres à sensibiliser l’adhérent aux enjeux de 
+conservation poursuivis sur le site et à favoriser toute action en ce sens. Dans la mesure où il s’agit 
+de recommandations, c’est à dire que leur non respect ne peut conduire à la suspension de 
+l’adhésion à la charte par le préfet, elles peuvent être formulées de façon moins précise (du type 
+« éviter », « favoriser », « limiter »). Ces recommandations seront à individualiser clairement des 
+engagements pour éviter toute confusion au moment des contrôles et particulièrement dans les 
+suites qui y sont données. 
+
+La définition des recommandations pourra se faire selon le même schéma : des recommandations 
+générales qui portent sur tout le site et des recommandations spécifiques à chaque type de milieux 
+ou d’activité. 
+
+Afin de ne pas alourdir la charte, il convient de veiller à ce qu’elle comprenne un nombre limité de 
+recommandations (de l’ordre de 3 recommandations par type de milieux, éviter d’excéder 5 
+recommandations par type de milieux). 
+
+Un modèle indicatif de charte est donné à l’annexe 2. 
+
+1.5. Les adhérents à la charte Natura 2000 
+
+Tout titulaire de droits réels ou personnels portant sur des parcelles incluses dans un site Natura 
+2000 peut adhérer à la charte du site. Il s’agit donc des personnes physiques ou morales, publiques 
+ou privées, titulaires de droits réels ou personnels sur des parcelles incluses dans un site. Le titulaire 
+est donc selon les cas : 
+
+• soit le propriétaire, 
+
+• soit la personne disposant d’un « mandat » la qualifiant juridiquement pour intervenir et pour 
+prendre les engagements mentionnés dans la charte (bail rural4, convention de gestion, 
+convention pluriannuelle d’exploitation ou de pâturage, autorisation d’occupation temporaire, 
+bail emphytéotique, bail civil, bail de chasse, bail de pêche, vente temporaire d’usufruit, bail à 
+domaine congéable, échange, bail commercial, concession, contrat d’entreprise, bail à loyer, 
+convention de mise à disposition, commodat ou autre mandat…). La durée du « mandat » doit 
+couvrir au moins la durée d’adhésion à la charte. 
+
+Une adhésion conjointe du propriétaire et du « mandataire » peut également être envisagée. 
+
+4 Y compris lorsque celui-ci comporte des clauses visant au respect par le preneur de pratiques culturales ayant pour 
+objet la protection de l’environnement ( appelé alors souvent « bail environnemental »). 
+
+8 
+2. Modalités d’élaboration et d’approbation de la charte 
+
+2.1. Eléments de cadrage au niveau régional 
+
+Afin de mutualiser les réflexions et de veiller à l’harmonisation des documents, une liste indicative 
+des principaux milieux et des différents types de recommandations et d’engagements (généraux à 
+spécifiques) pouvant figurer dans une charte peut être établie au niveau régional, à l’initiative de la 
+DIREN. Cette liste indicative est entendue comme une aide au profit du comité de pilotage pour la 
+rédaction de la charte Natura 2000 du site. 
+
+2.2. Elaboration et approbation dans le cadre du DOCOB 
+
+La charte étant un élément constitutif du DOCOB, elle est élaborée et approuvée dans les mêmes 
+conditions que les autres éléments constitutifs du DOCOB. 
+
+Cas particulier des DOCOB opérationnels : 
+
+Les DOCOB rendus opérationnels ou approuvés par le préfet à ce jour ne sont pas dotés de charte. 
+Ils doivent donc être complétés dans les conditions se rapportant à l’élaboration d’un DOCOB. 
+
+Certains DOCOB achevés identifient des engagements non rémunérés liés ou non à des mesures 
+rémunérées du contrat Natura 2000. Il convient de ne reprendre dans la charte que les engagements 
+non rémunérés qui répondent aux objectifs visés par la charte au paragraphe 1.4.1. et le cas échéant 
+de les compléter avec d’autres engagements non identifiés initialement dans le DOCOB. Une 
+harmonisation entre la charte ainsi établie et les autres préconisations du DOCOB pourra s’avérer 
+nécessaire. 
+
+Cas des superpositions ZSC (ou SIC ou pSIC) - ZPS : 
+
+La loi prévoit qu’un DOCOB est élaboré pour chaque site. Lorsque deux DOCOB s’appliquent 
+simultanément sur une même parcelle, la charte de chacun des DOCOB prévoit leur articulation sur 
+les parcelles concernées. 
+Dans toute la mesure du possible et en fonction du taux de recouvrement des deux sites, 
+l’élaboration de deux chartes identiques est à privilégier. 
+
+2.3. Modification de la charte 
+
+Les modifications du DOCOB, dont la charte est un élément constitutif, se font dans les mêmes 
+conditions et selon les mêmes procédures que celles qui prévalent pour son élaboration. 
+
+2.4. Publicité 
+
+La charte d’un site est intégrée au DOCOB du site, consultable auprès des services de l’Etat 
+compétents (DDAF/DDEA, DIREN) et des communes situées en partie ou entièrement à l’intérieur 
+du périmètre du site. Les structures animatrices ont également pour mission d’assurer la promotion 
+de la charte sur le site et de démarcher les adhérents potentiels (cf fiche n°5 de la circulaire 
+DNP/SDEN N° 2004 – 3 du 24 décembre 2004). 
+
+9 
+3. L’adhésion à la charte Natura 2000 
+
+3.1. Surfaces concernées 
+
+Le titulaire de droits réels et personnels choisit les parcelles cadastrales du site Natura 2000 pour 
+lesquelles il adhère à la charte. Par principe, l’unité d’engagement est la parcelle cadastrale. 
+
+3.2. Sélection des engagements en fonction des droits de l’adhérent et des milieux 
+présents sur les parcelles engagées 
+
+Préambule : Le non respect des engagements contenus dans la charte Natura 2000 du site ne peut 
+être mis à la charge de l’adhérent lorsque ce non respect ne résulte pas de son propre fait mais, 
+notamment : 
+- 
+d’activités humaines autorisées par la loi (association de chasse communale agréée, association 
+foncière pastorale) ; 
+- 
+d’activités humaines exercées en dehors de tout cadre légal ou conventionnel (pénétration sans 
+titre sur la propriété ou à l’insu du propriétaire pour l’exercice d’activités de loisir…) ; 
+- 
+ou d’événements naturels comme les tempêtes, avalanches… 
+
+a) Adhésion du propriétaire : 
+
+Cas n°1 : Hors bail rural 
+
+Le propriétaire adhère à tous les engagements de portée générale et à tous les engagements qui 
+correspondent aux types de milieux5 présents sur les parcelles sur lesquelles il a choisi d’adhérer. 
+
+Dans le cas où le propriétaire a confié certains droits à des « mandataires » (par exemple : bail de 
+chasse, cession du droit de pêche, convention d’utilisation…), il devra veiller à : 
+- 
+informer ses « mandataires » des engagements qu’il a souscrits, 
+- 
+modifier les « mandats » au plus tard lors de leur renouvellement afin de les rendre 
+conformes aux engagements souscrits dans la charte6. 
+Il peut également être envisagé que les « mandataires » cosignent la charte souscrite par le 
+propriétaire. Ceux-ci doivent alors s’assurer que leur « mandat » est en conformité avec les 
+engagements souscrits. 
+
+Cas n°2 : dans le cas du bail rural (y compris le « bail environnemental ») 
+
+Le propriétaire peut s’engager à s’opposer : 
+- 
+à la disparition des talus, haies, rigoles et arbres séparant ou morcelant des parcelles attenantes 
+dans les conditions prévues à l’article L. 411-28 du code rural ; 
+- 
+au retournement de parcelles de terres en herbe, à la mise en herbe de parcelles de terres ou à la 
+mise en œuvre de moyens culturaux non prévus au bail dans les conditions prévues à l’article 
+L. 411-29 du code rural. 
+
+En outre, lorsque le bail comprend des clauses visant au respect par le preneur de pratiques 
+culturales propres à assurer la préservation de la ressource en eau, de la biodiversité ou encore des 
+paysages en application de l’article L. 411-27 du code rural, le propriétaire peut souscrire aux 
+engagements de la charte Natura 2000 correspondants à ces clauses. 
+
+5 (et dans des cas exceptionnels aux habitats) 
+6 Le COPIL peut discuter de l’opportunité de reporter cette disposition dans la charte du site Natura 2000. 
+
+10 
+
+Enfin, en application de l’article L. 411-27 du code rural, le propriétaire peut s’engager à négocier 
+avec son fermier l’introduction des clauses correspondantes aux engagements contenus dans la 
+charte Natura 2000 lors du renouvellement du bail. 
+
+Dans tous les cas, une démarche d’adhésion concertée avec le preneur doit être recherchée. Cette 
+appropriation commune des objectifs de conservation poursuivis sur le site pourra prendre la forme 
+d’une adhésion conjointe à la charte Natura 2000 qui s’avère d’ailleurs indispensable pour le 
+bénéfice de l’exonération de la taxe foncière sur les propriétés non bâties (cf. chapitre 4.1). 
+
+b) Adhésion d’un « mandataire » : 
+
+ Les « mandataires » souscrivent aux engagements de la charte qui correspondent : 
+- 
+aux droits réels ou personnels dont ils disposent, 
+- 
+et, pour les engagements « zonés », aux types de milieux7 présents sur les parcelles sur 
+lesquelles porte l’adhésion et pour lesquelles ils disposent de droits réels ou personnels. 
+
+La charte doit dans la mesure du possible prévoir des engagements pour tous les types de 
+« mandataires » concernés (cf. paragraphe 1.4.1.). Ceci permet d’éviter que certains « mandataires » 
+ne soient pas en mesure d’adhérer à la charte Natura 2000 parce qu’aucun engagement listé dans la 
+charte ne correspond aux droits dont ils disposent. 
+
+3.3. Durée d’adhésion 
+
+La durée d’adhésion à la charte est de 5 ans ou de 10 ans. Si une durée de 10 ans peut présenter un 
+intérêt pour certains acteurs, il convient néanmoins d’inciter les adhérents à limiter la durée de leur 
+adhésion à 5 ans, en correspondance avec la période durant laquelle les propriétaires pourront 
+bénéficier de l’exonération de la taxe foncière sur les propriétés non bâties en application de 
+l’article 1395 E du code général des impôts (l’exonération s’applique pendant 5 ans à compter de 
+l’année qui suit celle de l’adhésion à la charte – cf. chapitre 4.1). 
+La durée d’adhésion à la charte court à compter de la date de réception du dossier complet par la 
+DDAF/DDEA (indiquée sur l’accusé de réception que la DDAF/DDEA adresse à l’adhérent). 
+Lorsque l’adhésion à la charte arrive à échéance, l’adhérent peut la renouveler ; il adhère alors à la 
+charte figurant dans le DOCOB tel qu’arrêté à la date du renouvellement (et donc éventuellement 
+modifié depuis la première adhésion). 
+
+3.4. Modalités d’adhésion 
+
+3.4.1. Déclaration d’adhésion et pièces à fournir par l’adhérent 
+
+Le formulaire de charte est accompagné d’une déclaration d’adhésion. Le modèle de déclaration 
+d’adhésion figure en annexe 2. Ces documents sont disponibles auprès des DDAF/DDEA et des 
+structures animatrices. 
+
+Lorsque les parcelles concernées par l’adhésion portent sur plusieurs départements, il y a lieu de 
+constituer un dossier par département. 
+
+7 (et dans des cas exceptionnels, aux habitats) 
+
+11 
+a) L’adhérent remplit la déclaration d’adhésion en indiquant : 
+- 
+Son identité 
+- 
+Les références cadastrales des parcelles engagées8 9, 
+- 
+Les types de « mandats » dont fait l’objet chaque parcelle (si l’adhérent est le propriétaire, il 
+indique les « mandats » qu’il a signés sur ses parcelles, si l’adhérent n’est pas le propriétaire, 
+il indique le « mandat » qui lui confère des droits réels ou personnels), 
+- 
+Les grands types de milieux (et dans des cas exceptionnels d’habitats) présents sur les 
+parcelles concernées (cet exercice d’identification a pour but d’aider l’adhérent à identifier 
+les engagements qui le concernent). Il est proposé que cet exercice soit fait par parcelle 
+cadastrale, 
+- 
+La durée de l’adhésion. 
+Il date et signe la déclaration. 
+
+b) L’adhérent sélectionne les engagements qui le concernent sur le formulaire de charte 
+Le formulaire de charte Natura 2000 du site est annexé à la déclaration d’adhésion. 
+Il coche les engagements qui le concernent sur le formulaire de charte, le date et le signe. 
+L’adhérent sélectionne les engagements qui correspondent aux droits réels ou personnels dont il 
+dispose et, pour les engagements « zonés », au(x) type(s) de milieu(x)10 présents sur les parcelles 
+engagées (cf. paragraphe 3.2). 
+Comme précisé au chapitre 3.2, des cosignatures par le propriétaire et son (ses) « mandataire(s) » de 
+la déclaration d’adhésion et du formulaire de charte peuvent être envisagées (notamment dans le cas 
+du bail rural). Le formulaire d’adhésion permet de mentionner à côté de chaque engagement les 
+« mandataires » concernés. 
+
+c) L’adhérent transmet à la DDAF/DDEA : 
+- 
+copie de la déclaration d’adhésion remplie, datée et signée à laquelle est annexée la copie du 
+formulaire de la charte rempli, daté et signé (engagements cochés). L’adhérent conserve les 
+originaux de la déclaration d’adhésion et du formulaire de la charte ; 
+- 
+un plan de situation des parcelles engagées, qui permette de repérer les parcelles concernées 
+par rapport au périmètre du site (échelle 1/25000ième ou plus précise) ; 
+- 
+copie des documents d’identité. 
+
+L’adhérent doit être en mesure de fournir les pièces suivantes sur demande de la DDAF/DDEA, 
+(qui ne sont donc pas à fournir au moment de l’adhésion) : 
+- 
+lorsque l’adhérent est un « mandataire », une copie des « mandats » lui conférant des droits 
+réels ou personnels, 
+- 
+le cas échéant une attestation de pouvoir du signataire, 
+- 
+le cas échéant une délibération de l’organe compétent. 
+- 
+un extrait de matrice cadastrale récent ; 
+- 
+un plan cadastral des parcelles engagées. 
+
+Dispositif transitoire pour l’instruction des dossiers en 2007 par la DDAF/DDEA: 
+De manière transitoire en 2007, il conviendra que l’adhérent fournisse à la DDAF/DDEA : 
+- 
+un extrait de matrice cadastrale récent ; 
+- 
+un plan cadastral des parcelles engagées. 
+
+8 (ou autre mode de repérage des parcelles dans le cas où les parcelles ne sont pas cadastrées) 
+9 l’unité d’engagement est la parcelle cadastrale. L’engagement porte uniquement sur les surfaces situées dans le site (et 
+ne pourra être contrôlé que sur ces surfaces). 
+10 (et dans des cas exceptionnels d’habitats) 
+
+12 
+
+3.4.2. Cas particuliers 
+
+a) Cas d’un propriétaire ou « mandataire » qui souhaite adhérer à une charte sur des parcelles qui 
+sont situées dans deux sites Natura 2000 (superposition ZSC ou SIC ou pSIC et ZPS) : 
+
+Cas des superpositions ZSC ou SIC ou pSIC et ZPS 
+
+Les parcelles situées en zone 3 sont concernées par deux chartes incluses dans deux DOCOB 
+distincts. Chacune de ces chartes doit prévoir cette situation. Comme indiqué au chapitre 2.2., dans 
+toute la mesure du possible et en fonction du taux de recouvrement des deux sites, l’élaboration de 
+deux chartes identiques est à privilégier. 
+
+b) Cas d’un propriétaire ou d’un « mandataire » qui souhaite adhérer à la charte sur des parcelles 
+situées sur plusieurs sites (non superposés, dotés de DOCOB différents et donc de chartes 
+différentes) : 
+
+Dans ce cas, l’adhérent fait deux démarches d’adhésion : 
+- 
+pour les parcelles situées dans le site 1, adhésion à la charte du site 1 
+- 
+pour les parcelles situées dans le site 2, adhésion à la charte du site 2. 
+Il devra donc constituer deux dossiers distincts. 
+
+3.4.3. Traitement du dossier par la DDAF/DDEA : dispositif transitoire pour 
+l’instruction des dossiers en 2007 
+
+La DDAF/DDEA vérifie si le dossier est complet. 
+
+La DDAF/DDEA vérifie que les parcelles cadastrales engagées par l’adhérent sont dans le site 
+Natura 2000. A cette fin, elle dispose de la liste des sections cadastrales incluses en totalité dans 
+chacun des périmètres de sites Natura 2000 de son département. 
+1 
+2
+3
+ZSC ou SIC ou pSIC 
+ZPS 
+Site 1 
+Site 2 
+Parcelles de l’adhérent 
+
+13 
+
+Dans le cas où la section cadastrale de la parcelle ne figure pas dans cette liste, la vérification est 
+effectuée sur la base des plans et extrait de matrice communiqués sous format papier par l’adhérent, 
+et des périmètres de sites Natura 2000 mis à disposition sous format numérisé. 
+
+Elle envoie à (aux) l’adhérent(s) un accusé de réception indiquant soit les pièces manquantes soit la 
+date à laquelle le dossier a été reçu complet à la DDAF/DDEA. La date de réception du dossier 
+complet est la date de début de l’adhésion. 
+
+Les originaux de la déclaration d’adhésion et du formulaire de la charte remplis et signés ainsi que 
+l’accusé de réception de la DDAF/DDEA permettent à l’adhérent de prouver aux services 
+déconcentrés de l’Etat qu’il a bien adhéré à la charte. 
+
+4. 
+Les contreparties de la charte 
+
+L’adhésion à la charte contribue à ce que les activités pratiquées sur les parcelles concernées soient 
+conformes aux objectifs du DOCOB. Elle peut donner accès à certains avantages fiscaux et à 
+certaines aides publiques. 
+
+4.1. Exonération de la taxe foncière sur les propriétés non bâties (TFPNB11) 
+
+L’article 146 de la loi relative au développement des territoires ruraux du 23 février 2005 a introduit 
+dans le code général des impôts un article 1395 E qui prévoit que les propriétés non bâties classées 
+dans les première, deuxième, troisième, cinquième, sixième et huitième catégories définies à 
+l'article 18 de l'instruction ministérielle du 31 décembre 190812 sont exonérées de la taxe foncière 
+sur les propriétés non bâties (TFPNB) lorsqu’elles figurent sur une liste arrêtée par le préfet à 
+l’issue de l’approbation du DOCOB d’un site Natura 2000 et qu’elles font l’objet d’un engagement 
+de gestion (contrat ou charte Natura 2000) conformément au DOCOB en vigueur. 
+
+L'exonération est applicable pendant cinq ans à compter de l'année qui suit celle de la signature du 
+contrat ou de l’adhésion à la charte et est renouvelable. 
+
+Le code général des impôts prévoit que la liste des parcelles pouvant bénéficier de l’exonération au 
+1er janvier de l’année suivante ainsi que les modifications qui sont apportées à cette liste, sont 
+communiquées par la DDAF/DDEA aux services fiscaux du département avant le 1er septembre de 
+chaque année. 
+
+Pour bénéficier de l’exonération, le propriétaire doit fournir au service des impôts avant le 1er 
+janvier de la première année au titre de laquelle l’exonération est applicable ou renouvelable 
+l’engagement souscrit concernant les parcelles lui appartenant inscrites sur la liste dressée par le 
+
+11 dénommée également TFNB 
+12 1 – Terres, 2 – Prés et prairies naturels, herbages et pâturages, 3 – Vergers et cultures fruitières d’arbres et arbustes, etc., 5 – Bois, 
+aulnaies, saussaies, oseraies, etc., 6 – Landes, pâtis, bruyères, marais, terres vaines et vagues, etc., 8 – Lacs, étangs, mares, 
+abreuvoirs, fontaines, etc. ; canaux non navigables et dépendances ; salins, salines et marais salants. Ne sont donc pas concernées les 
+propriétés non bâties classées dans les quatrième et septième catégories définies à l'article 18 de l'instruction ministérielle du 31 
+décembre 1908 à savoir les vignes (4) et les carrières, ardoisières, sablières tourbières … (8). 
+
+14 
+préfet. Pour les parcelles données à bail en application des articles L. 411-1 et suivants du code 
+rural, l’adhésion à la charte ou le contrat doit être cosigné par le preneur. 
+
+Une instruction fiscale doit préciser les modalités d’application de l’article 1395 E du code général 
+des impôts, notamment l’articulation de l’exonération de la TFPNB sur les sites Natura 2000 avec 
+les autres exonérations. 
+
+En annexe 3 est récapitulé le schéma de la procédure administrative liée à l’adhésion à la charte et à 
+l’exonération de la TFPNB. 
+
+De manière transitoire en 2007, la liste communiquée aux services fiscaux sera constituée de la 
+liste des sections cadastrales incluses en totalité dans chacun des périmètres de sites Natura 2000 du 
+département, et des parcelles cadastrales ayant donné lieu à une vérification de leur inclusion totale 
+dans un site Natura 2000 par la DDAF/DDEA. Compte-tenu de ces délais, il convient de 
+recommander aux adhérents qui souhaitent bénéficier de l’exonération de la TFPNB dès l’année 
+suivant l’année d’adhésion de faire parvenir leur dossier d’adhésion à la DDAF/DDEA avant la fin 
+du mois de juin au plus tard. 
+
+Adhésions dans le cas du bail rural : 
+
+L’article 1395 E du code général des impôts prévoit que pour les parcelles données à bail en 
+application des articles L. 411-1 et suivants du code rural, l’adhésion à la charte ou le contrat Natura 
+2000 doit être cosigné par le preneur. 
+
+Toutefois, l’exonération de TFPNB est accordée au propriétaire. 
+
+Dans le cadre des relations propriétaire/preneur, les parcelles exonérées sur le fondement de l’article 
+1395 E précité n’ont donc pas lieu de faire l’objet d’un remboursement de taxe foncière de la part 
+du preneur. A cet égard, il est rappelé que le bailleur peut demander au preneur le remboursement 
+d’une partie des impôts fonciers, la part mise à la charge du fermier pouvant être déterminée par 
+accord amiable. 
+A défaut d’accord amiable, la part mise à la charge du fermier est fixée à 1/5 du montant des taxes 
+foncières sur les propriétés bâties et non bâties (article L. 415-3 du code rural)13. 
+
+Il revient donc au propriétaire et au preneur de négocier au moment de la cosignature de la charte 
+les avantages financiers dont le preneur du bail pourra bénéficier. 
+
+4.2. Garantie de gestion durable des forêts (GDD) 
+
+L’adhésion à la charte permet dans un site Natura 2000 d’accéder aux garanties de gestion 
+durable, lorsque le propriétaire dispose d’un document de gestion arrêté, agréé, ou 
+approuvé14. 
+
+13 une répartition différente peut être opérée dès lors que la totalité de la charge n’incombe pas au fermier 
+14ce document de gestion est soit un aménagement forestier ou règlement type de gestion (RTG) dans le cas de forêts 
+publiques, soit un plan simple de gestion (PSG), un RTG ou code des bonnes pratiques sylvicoles (CBPS) dans le cas de 
+forêts privées. 
+
+15 
+Pour accéder à cette garantie de gestion durable (GDD) en zone Natura 2000, il faut, conformément 
+au IV de l’article L 8 du Code Forestier, remplir les conditions suivantes : 
+ « les parties de bois et de forêts situées dans un site Natura 2000 pour lequel un document 
+d'objectifs a été approuvé par l'autorité administrative sont considérées comme présentant des 
+garanties ou présomptions de gestion durable lorsqu'elles sont gérées conformément à un document 
+de gestion arrêté, agréé ou approuvé et que leur propriétaire a conclu un contrat Natura 2000 ou 
+adhéré à une charte Natura 2000 ou que ce document a été établi conformément aux dispositions de 
+l'article L. 11. » 
+
+Les chartes, éléments constitutifs du document d’objectifs, fournissent des éléments sur les 
+typologies de milieu et sur des engagements dans les milieux forestiers. L’élaboration de l’annexe 
+aux schémas régionaux de gestion sylvicole (SRGS) visée au § g) de l’article L11 du code forestier 
+s’appuiera, pour la prise en compte des enjeux de gestion des sites Natura 2000, sur les chartes 
+Natura 2000 et, plus généralement, sur les documents d’objectifs. En particulier, les résultats des 
+travaux d’harmonisation à l’échelle régionale des recommandations et des engagements pour les 
+chartes Natura 2000 constituent des éléments de base pour bâtir cette annexe des SRGS. Une grande 
+cohérence entre ces outils est à rechercher pour la lisibilité de l’usager. 
+
+La garantie de gestion durable permet l’accès aux aides publiques15 destinées à la mise en valeur et 
+à la protection des bois et forêts, le bénéfice de certaines dispositions fiscales (Régime Monichon16 ( 
+droits de mutation ) et Impôt sur les grandes fortunes17). 
+
+15 conformément à l’article L7 du Code Forestier, le bénéfice des aides publiques est réservé aux demandeurs qui 
+présentent une des garanties de gestion durable 
+16 l'article 793 du Code général des impôts modifié par la loi d'orientation sur la forêt de 2001 précise que le bénéficiaire 
+de l'exonération des trois quarts des droits de mutation doit prendre l'engagement de présenter et d'appliquer pendant 
+trente ans aux bois et forêts concernés par la mutation une des "garanties de gestion durable prévues à l'article L.8 du 
+code forestier" 
+17 les articles du CGI 885D et 885 H permettent la même exonération pour l’ISF, donc à concurrence des trois quarts 
+pour les mutations de bois et forêts à titre gratuit (application trentenaire d'une des garanties de gestion durable), sous 
+réserve des mêmes engagements 
+
+16 
+
+5. 
+Suivi, contrôle et sanctions 
+
+5.1. Suivi et contrôles 
+
+La DDAF/DDEA, pour le compte du préfet, s’assure du respect des engagements souscrits dans le 
+cadre de la charte Natura 2000. 
+
+a) administration responsable des contrôles 
+
+Les DDAF/DDEA sont chargées de la sélection des dossiers à contrôler et de la réalisation des 
+contrôles sur place. 
+
+b) sélection des dossiers à contrôler sur pièces et sur place 
+
+Sont concernées ici prioritairement les adhésions donnant lieu à une contrepartie (exonération de la 
+TFPNB et garantie de gestion durable des forêts). La liste des adhérents ayant bénéficié de 
+l’exonération de la TFPNB sera fournie par les services fiscaux. La liste des adhérents ayant 
+bénéficié des aides sylvicoles sera fournie par le service instructeur de ces aides. 
+La cohérence avec le plan de contrôle portant sur les contrats Natura 2000 sera vérifiée. 
+
+c) réalisation des contrôles 
+
+Les contrôles sur place interviennent après que l’adhérent en a été avisé au préalable. 
+Le contrôle portera sur la vérification : 
+- 
+de la véracité des éléments indiqués par l’adhérent dans la déclaration d’adhésion 
+(vérification que l’adhérent dispose bien des droits réels ou personnels pour adhérer aux 
+engagements de la charte, le cas échéant vérification de l’attestation de pouvoir du 
+signataire, le cas échéant vérification de la délibération de l’organe compétent : les pièces 
+justificatives sont à demander à l’adhérent puisqu’elles n’ont pas été fournies au moment de 
+l’adhésion), 
+- 
+du respect des engagements définis au paragraphe 1.4.1. Il s’agit de contrôler que l’adhérent 
+a respecté les engagements souscrits et non d’évaluer l’état de conservation des habitats et 
+des espèces, qui relève d’une autre procédure et ne peut constituer un élément de nature à 
+remettre en cause une exonération fiscale ou une garantie de gestion durable. 
+
+5.2. Sanctions applicables en cas de non-respect de la charte 
+
+Le I de l’article R. 414-12-1. du code de l’environnement précise que « lorsque le signataire d’une 
+charte Natura 2000 s’oppose à un contrôle ou ne se conforme pas à l'un des engagements souscrits, 
+le préfet peut décider de la suspension de son adhésion pour une durée qui ne peut excéder un an. Il 
+en informe l’administration fiscale et les services gestionnaires des aides publiques auxquelles 
+donne droit l’adhésion à la charte. » 
+
+Conformément à l’article R. 414-18, lorsqu'il est fait application des dispositions de l’article 
+précédemment mentionné, « le préfet en indique les motifs au signataire de la charte […] et le met 
+en mesure de présenter ses observations.» 
+
+17 
+La suspension de l’adhésion à la charte par le préfet (d’une durée maximale d’un an en application 
+de l’article R 414-12-1) implique de fait que les parcelles engagées ne satisfont plus aux conditions 
+dictées par le code général des impôts pour l’exonération de la TFPNB et par le code forestier pour 
+l’obtention des garanties de gestion durable des forêts et conduit ainsi à reconsidérer les situations 
+et à remettre en cause les exonérations fiscales ou le bénéfice des aides publiques, selon les 
+modalités définies par les textes concernés. 
+
+Lorsque le non-respect de la charte est avéré, la DDAF/DDEA informe l’adhérent par courrier de la 
+durée de suspension de l’adhésion. La DDAF/DDEA envoie copie de ce courrier aux services 
+fiscaux du département et le cas échéant au service instructeur des aides sylvicoles. 
+
+6. 
+Modification de situation 
+
+D’une manière générale, il convient que l’adhérent à la charte Natura 2000 signale à la 
+DDAF/DDEA toute modification de situation (par exemple, réduction de droits sur une parcelle, 
+cession de parcelle…). 
+
+Le II de l’article R. 414-12-1. du code de l’environnement précise qu’en « cas de cession, pendant 
+la période d’adhésion à la charte Natura 2000, de tout ou partie des terrains pour lesquels des 
+engagements ont été souscrits, le cédant est tenu d’en informer le préfet ». Dans tous les cas, le 
+cessionnaire peut adhérer à la charte pour la période restant à courir de l’engagement initial. Il 
+indique alors dans la déclaration d’adhésion la date de la fin de l’engagement initialement souscrit 
+par le cédant. 
+
+A défaut de transfert, la charte est résiliée de plein droit. La DDAF/DDEA en informe les services 
+fiscaux du département et le service instructeur des aides sylvicoles qui statueront sur les suites à 
+donner (remboursement des sommes perçues par le cédant). 
+
+En cas de transfert, la DDAF/DDEA en informe les services fiscaux du département et le service 
+instructeur des aides sylvicoles. 
+
+18 
+
+Annexe 1 
+
+EXEMPLES de types de milieux 
+
+- 
+Formations herbeuses (hors zones humides : prairies permanentes hors prairies humides, 
+pelouses) 
+
+- 
+Milieux humides (tourbières, bas-marais, landes et prairies humides…) 
+
+- 
+Cultures annuelles et pérennes 
+
+- 
+Formations arbustives (landes, maquis, garrigue…) 
+
+- 
+Formations arborées hors forêts (bosquet, ripisylve, lisière forestière, haie, bocage, 
+verger, arbres isolés…) 
+
+- 
+Forêts pâturées, Pré-bois 
+
+- 
+Milieux forestiers (à préciser suivant le taux de couverture forestière du site, par exemple : 
+« forêt de feuillus », « forêt de bord de cours d’eau », « forêt de ravin »…). 
+
+- 
+Eaux dormantes, eaux courantes, fossés… 
+
+- 
+Eléments ponctuels ou linéaires caractéristiques du paysage susceptibles de favoriser 
+le maintien d’espèces d’intérêt communautaire (murets, terrasses, talus, cavités 
+souterraines…) 
+
+- 
+Milieux rocheux et grottes 
+
+- 
+Milieux côtiers, dunes, dépression humides intradunales, estran 
+
+- 
+Milieux marins 
+
+19 
+Annexe 2 
+
+MODELE INDICATIF DE CHARTE 
+
+Charte Natura 2000 du site FR XXXXXXX 
+
+(figurant au DOCOB approuvé (validé) par l’arrêté préfectoral n°XXXXXXX (ou la note de service) en date 
+du XX/XX/XX) 
+
+GENERALITES (concernent tout le site) 
+
+Recommandations générales : R1, R2 etc 
+
+ Engagement 1 
+Mandat 
+ Engagement 2 
+Mandat 
+
+ACTIVITES DE LOISIRS 
+
+Recommandations générales : R1, R2, R3 etc 
+
+Activité 1 (A1) 
+ Engagement 1 
+Mandat 
+
+Activité 2 (A2) 
+Recommandations générales 
+ Engagement 1 
+Mandat 
+
+MILIEU 1 (M1) 
+
+Recommandations générales : R1, R2, R3 etc 
+
+ Engagement 1 (le cas échéant, justification spécifique à cet engagement en lien avec les objectifs de 
+conservation ) 
+Mandat 
+ Engagement 2 
+Mandat 
+
+Hors activité agricole 
+
+ Engagement 3 
+Mandat 
+
+MILIEU 2 (M2) 
+
+Recommandations générales : R1, R2, R3 etc 
+
+ Engagement 1 
+Mandat 
+ Engagement 2 
+Mandat 
+
+Activité 1 
+ Engagement 1 
+Mandat 
+
+ Fait à : …………………………………… le : …………………………………..200X
+
+ Signature de(s) l’adhérent(s) 
+Pour les propriétaires notamment, préciser les types de
+mandats éventuels et la date de leur renouvellement. 
+Pour les mandataires, préciser le mandat qui permet de
+souscrire à l’engagement. 
+En cas d’adhésion conjointe, cela permet de repérer
+les engagements qui concernent le mandataire. 
+
+20 
+
+3. Envoi du dossier 
+5. Accusé de réception 
+A- Envoi avant le 1er septembre 
+de la liste départementale des sections 
+totalement incluses ou parcelles 
+cadastrales situées sur un site désigné 
+par arrêté ministériel et doté d’un 
+DOCOB approuvé 
+
+ B- Envoi des copies de la déclaration d’adhésion, 
+du formulaire de charte et de l’accusé de réception 
+de la DDAF avant le premier janvier de l’année 
+suivante 
+Adhérent 
+
+Structure animatrice 
+DDAF du département sur lequel 
+sont situés les terrains engagés 
+Services fiscaux du département 
+sur lequel sont situés les terrains 
+engagés 
+1. Constitution du dossier (1 dossier par département) : déclaration d’adhésion remplie, datée et signée à 
+laquelle est annexé le formulaire de la charte rempli (engagements cochés), daté et signé ainsi que les 
+pièces à fournir 
+2. L’adhérent conserve l’original des documents
+4. Vérification que le dossier est 
+complet, de l’inclusion des 
+parcelles cadastrales dans le 
+périmètre du site Natura 2000 
+enregistrement dans l’outil 
+informatique 
+Appui aux adhérents pour la 
+constitution du dossier 
+Annexe 3. Schéma de la procédure administrative liée à l’adhésion à la charte et à l’exonération de 
+la TFNB 
+D- Indiquent les adhérents ayant 
+bénéficié de l’exonération de TFNB 
+E- Sélection des dossiers à 
+contrôler sur pièces et sur place 
+F- Contrôle sur place 
+G- Information sur les résultats des 
+contrôles sur place 
+C- Exonération de la TFNB 
+DIREN
+Information sur 
+les adhésions 
+
+21 
+Annexe 4 
+EXEMPLES D’ACCUSE DE RECEPTION DE DOSSIER INCOMPLET ET 
+COMPLET 
+
+« Nom du demandeur ou raison sociale » 
+« Prénom ou suite raison sociale » 
+« Adresse » 
+« code postal » « commune » 
+
+« Ville », le « Date du dossier incomplet » 
+
+Accusé de réception dossier incomplet 
+Dossier « Déclaration d’adhésion à une charte Natura 2000 » « dept » « année » « n° 
+dossier », 
+Code FR et libellé du site 
+
+Madame, Monsieur, 
+
+J’ai reçu le « Date réception » votre dossier sollicitant une adhésion à la charte Natura 2000 
+du site « libellé+FR…… » sur la commune de « commune » « n° département ». 
+
+Après examen, il apparaît que n’ont pas été jointes au dossier les pièces suivantes : 
+Pièces 
+Pièce à 
+adresser 
+L’« Annexe 1 » du formulaire d’adhésion 
+(identification des utilisateurs des parcelles en cas d’adhésion conjointe) 
+
+L’« Annexe 2 » du formulaire d’adhésion 
+(liste des parcelles cadastrales concernées par l’adhésion, sur d’autres 
+départements) 
+
+L’« Annexe 3 » du formulaire d’adhésion 
+(signature des différents utilisateurs des parcelles en cas d’adhésion 
+conjointe) 
+
+Un plan de situation des parcelles, à une échelle 1/25000ième ou plus 
+précise, permettant de repérer les terrains concernés et le périmètre du 
+site si les terrains sont en bordure du site 
+
+Un extrait de matrice cadastrale récent et un plan cadastral des parcelles 
+engagées 
+
+Un exemplaire de la charte du site, datée et signée, avec les engagements 
+retenus spécifiés 
+
+Dans le formulaire de demande les rubriques suivantes n’ont pas été renseignées : 
+Lister ici les différentes rubriques du formulaire de demande d’aide (identification du 
+demandeur / coordonnées du demandeur / caractéristiques du demandeur / caractéristiques du 
+projet…) 
+
+Vous remerciant de m’adresser ces informations complémentaires afin que mes services 
+puissent instruire votre dossier, je vous prie d’agréer, Madame, Monsieur, l’expression de mes 
+salutations distinguées. 
+
+22 
+
+« Nom du demandeur ou raison sociale » 
+« Prénom ou suite raison sociale » 
+« Adresse » 
+« code postal » « commune » 
+
+« Ville », le « Date dossier complet » 
+
+Accusé de réception dossier complet 
+Dossier « Déclaration d’adhésion à une charte Natura 2000 » « dept » « année » « n° 
+dossier », 
+Code FR et libellé du site 
+
+Madame, Monsieur, 
+
+J’ai reçu le « Date réception » votre dossier sollicitant une adhésion à la charte du site 
+« Libellé ». 
+
+Votre dossier étant complet, mes services vont procéder à son instruction. (…) 
+
+La durée de votre adhésion à la charte Natura 2000 court à compter de cette date. 
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
