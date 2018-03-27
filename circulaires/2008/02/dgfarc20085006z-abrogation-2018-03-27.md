@@ -1,0 +1,252 @@
+# Constitution de groupe de travail sur l'agriculture, l'urbanisme et les territoires.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGFARC20085006Z
+- Numéro : DGFAR/SDER/C2008-5006
+- Date de signature : 2008-02-14
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 12894 (PDF officiel : pdf/2009/04/cir_12894.pdf)
+
+## Texte
+
+1
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+DIRECTION GENERALE DE LA FORET ET DES AFFAIRES 
+RURALES 
+Sous-Direction de l’environnement et de la ruralité 
+Bureau du développement des territoires et de la montagne 
+Adresse : 78 rue de Varenne – 75349 Paris 07 SP 
+
+Suivi par : Bernard DUVOUX 
+Tél. 01 49 55 59 39/ Fax 01 49 55 59 84 
+CIRCULAIRE 
+DGFAR/SDER/C2008-5006 
+Date: 14 février 2008 
+
+Date limite de réponse: 30 juin 2008 
+Le Ministre de l'agriculture et de la pêche 
+
+à 
+
+Mesdames et Messieurs les Préfets de département 
+
+Objet : Constitution de groupe de travail sur l’agriculture, l’urbanisme et les territoires 
+
+Résumé : la note concerne l’organisation au niveau départemental d’une démarche partenariale sur 
+l’agriculture, l’urbanisme et les territoires, avec la création d’un groupe de travail et la réalisation de 
+chartes ou de documents analogues. 
+
+Mots-clés : agriculture - urbanisme – territoires - groupe de travail - chartes 
+
+Destinataires 
+Pour exécution : 
+Mmes et MM. les préfets de département 
+Mmes et MM. les directeurs départementaux de 
+l’agriculture et de la forêt 
+Mmes et MM. les directeurs départementaux de 
+l’équipement et de l’agriculture 
+
+Pour information : 
+Mmes et MM. les directeurs régionaux de l’agriculture 
+et de la forêt 
+
+I- Enjeux et expériences 
+
+I.1. L’évolution des enjeux d’aménagement et de gestion durable des territoires 
+
+L’évolution de la démographie et des modes de vie s’accompagne d’une extension urbaine et d’un 
+développement des infrastructures fortement consommateurs de terres agricoles. Ainsi, 
+l’artificialisation des sols concerne de 50 à 60.000 ha par an, selon des modalités qui affectent 
+fortement les surfaces agricoles et les structures des exploitations. A titre de comparaison, la 
+France consomme deux fois plus de foncier que l’Allemagne. 
+Cette situation qui déstabilise de nombreuses exploitations, représente une perte irréversible de 
+sols, d’espaces et de paysages de qualité, et une atteinte à l’attractivité des territoires, au 
+détriment de l’intérêt général. 
+
+2
+
+La pression foncière affecte particulièrement le périurbain mais tend à s’étendre à la quasi totalité 
+des départements et à peser sur le renouvellement des exploitations. L’étalement urbain prend 
+une ampleur signalée dans le cadre du Grenelle de l’Environnement et des travaux préparatoires 
+aux Assises de l’Agriculture. Ces questions sont également liées à celles relatives au changement 
+climatique, à la biodiversité, et à l’artificialisation des sols, et représentent aujourd’hui des enjeux 
+croissants de l’aménagement et de la gestion durable des territoires ruraux. 
+
+Au moment où l’agriculture réaffirme sa dimension stratégique, particulièrement dans notre pays, 
+et alors que les évolutions des marchés de produits agricoles et des enjeux liés à la qualité de 
+l’alimentation et à l’environnement impliquent à la fois de produire plus et de produire mieux, il 
+convient d’éviter le gaspillage du foncier agricole résultant d’un mitage mal maîtrisé. 
+
+Les attentes du monde agricole en matière de reconnaissance des activités et des espaces 
+agricoles par les autres acteurs de l’aménagement et du développement des territoires se 
+renforcent, mais aussi les attentes des autres acteurs socio-économiques à l’égard de ces 
+activités et de ces espaces. 
+
+La nécessité de démarches partenariales s’en trouve renforcée, bien que celles-ci se manifestent 
+très inégalement dans les territoires. Il revient à l’Etat d’encourager ces démarches dont les 
+progrès doivent se traduire de façon visible et doivent pouvoir servir de référence, particulièrement 
+dans des situations périurbaines dans lesquelles la présence des activités, des espaces et des 
+actifs agricoles est affaiblie et peut se trouver mise en cause. 
+
+I.2. L’expérience des démarches partenariales et des chartes 
+
+Les instruments législatifs ou réglementaires relatifs à l’aménagement et à la gestion durable des 
+territoires ruraux se sont renouvelés depuis les années 1990, dans le cadre des lois d’orientation 
+agricole, de la loi solidarité et renouvellement urbain, de la loi urbanisme et habitat, de la loi 
+relative au développement des territoires ruraux, notamment. 
+
+Ces instruments laissent une place importante aux initiatives et adaptation locales, dans le respect 
+des compétences décentralisées des élus et des réalités de terrain. Dans beaucoup de 
+départements, la réponse apportée aux enjeux d’aménagement et de gestion durable des 
+territoires ruraux a déjà mobilisé des démarches partenariales impliquant la diversité des 
+principaux acteurs concernés : Etat, agriculteurs, collectivités, acteurs socio-économiques, 
+associations, etc. 
+
+Ces processus et démarches se sont assez souvent traduites par la signature et la publicité de 
+chartes ou de documents analogues qui récapitulent des principes, des engagements, et, le cas 
+échéant, des axes de travail unanimement partagés et affichés. Ces chartes ou documents 
+permettent de montrer la volonté des signataires de poursuivre et d’affiner le travail sur des sujets 
+d’intérêt commun ou sur des dispositifs dont la mise en œuvre peut poser des problèmes 
+particuliers d’interprétation, d’arbitrage ou de méthode : prise en compte des espaces naturels et 
+agricoles dans les documents d’urbanisme locaux, règles de construction en zone agricole, 
+modalités de mobilisation de certains dispositifs… 
+
+Ces documents permettent de rendre compte d’étapes - clés du travail partenarial et d’envisager, 
+le cas échéant, de nouvelles étapes qui peuvent à nouveau être marquées par la signature et la 
+publication de documents analogues. 
+
+La co-signature de ces documents par les préfets permet de souligner l’implication et l’adhésion de 
+l’Etat et de ses services, et de renforcer l’influence de ces documents au niveau local. 
+
+Ces exercices partenariaux fréquemment consacrés à la relation entre agriculture et urbanisme 
+ouvrent aussi la possibilité d’étendre la réflexion et la recherche de consensus à d’autres 
+questions territoriales impliquant l’agriculture (entretien d’espaces et de paysages, notamment), y 
+compris dans des zones de moindre pression foncière. 
+
+L’intérêt des démarches partenariales et des documents de consensus qui traduisent les principes, 
+engagements ou actions auxquels elles adhèrent, incite à les généraliser. 
+
+3
+
+II -Un groupe de travail départemental sur l’agriculture, l’urbanisme et les territoires 
+
+Sur la base de ces constats, je souhaite qu’un groupe de travail départemental sur l’agriculture, 
+l’urbanisme et les territoires soit instauré et animé par les préfets, avec le concours des DDAF ou 
+DDEA dans les départements n’ayant pas encore mis en œuvre ce type de démarche au cours 
+des dernières années. 
+
+II.1. Objet 
+
+A l’instar de dispositifs déjà mis en œuvre dans certains départements, ce groupe doit servir de 
+support à un travail partenarial permettant notamment de rendre plus visibles les points d’accord à 
+valoriser et les points de débat à approfondir. 
+Ce faisant, il doit permettre et conduire à la signature d’une charte ou d’un document analogue 
+témoignant des éléments de consensus local. 
+
+II.2. Composition 
+
+Le groupe de travail doit être ouvert, mais d’une dimension adaptée au souci de réelle implication 
+de ses membres et d’efficacité de ses travaux. Compte tenu de son orientation, le groupe devrait 
+associer au minimum le milieu agricole, les élus territoriaux, et l’Etat, avec la possibilité de l’élargir 
+aux autres composantes de la ruralité. 
+
+Il doit donc comporter au minimum des représentants départementaux : 
+- des services de l’Etat principalement concernés : DDAF et DDE (DDEA dans les départements 
+concernés), 
+- du Président du Conseil général, 
+- de la profession agricole, 
+- des compagnies consulaires, en particulier la Chambre d’agriculture, et la SAFER, 
+- des communes et de leurs groupements (association des maires), 
+- des associations représentatives des enjeux de gestion des espaces naturels et ruraux (dont les 
+associations environnementalistes). 
+
+Il importe particulièrement d’associer des représentants des collectivités territoriales aux travaux 
+du groupe de travail et à l’élaboration de principes partagés, en raison notamment de leur rôle 
+dans la planification locale. 
+
+II.3. Travaux 
+
+Les travaux doivent s’attacher au contexte et aux principales problématiques locales, à la lumière 
+de l’évolution récente des enjeux de gestion économe de l’espace agricole, de limitation du mitage 
+et de l’étalement urbain, et de développement durable. 
+
+Le champ de réflexion locale est laissé à votre appréciation et aux débats du groupe de travail. Il 
+est néanmoins souhaitable d’aborder : 
+
+- l’analyse du contexte départemental : situation et enjeux, identification des bonnes pratiques 
+observées dans le département, 
+- les principes d’action partagés qui peuvent se dégager sur : 
+ l’équilibre entre le développement urbain et la préservation des espaces 
+naturels et agricoles, y compris au sein des zones agricoles, 
+ la place allouée aux espaces agricoles dans les documents d’urbanisme, 
+- 
+la mobilisation des dispositifs de zones agricoles protégées (ZAP) et de périmètres 
+d’intervention visant la protection et la mise en valeur des espaces agricoles et naturels 
+périurbains (dits « PAEN »). 
+
+Ces réflexions doivent tenir compte de la dimension économique de la stratégie locale de 
+développement de l’activité agricole, puisqu’à contexte foncier comparable, la pérennité de 
+l’activité peut d’autant mieux être invoquée et garantie que ses perspectives économiques sont 
+mieux analysées et préparées. 
+
+4
+Le travail du groupe doit naturellement permettre d’identifier des pistes de travail à approfondir ; il 
+peut aussi s’ouvrir à des sujets liés au développement territorial pour lesquels le positionnement 
+de l’agriculture mériterait que soient également dégagés des principes ou des lignes d’action 
+partagées et susceptibles d’être publiquement affirmées. 
+
+Il convient de veiller particulièrement à la visibilité du travail et des points d’accord : 
+- 
+ils doivent pouvoir se traduire en un document co-signé du préfet et des partenaires du groupe 
+de travail, à l’image des « chartes agricoles » (ou assimilées) d’un certain nombre de 
+départements, 
+- 
+une large information doit accompagner la signature de ces documents. 
+
+II.4. Calendrier 
+
+- Outre leur apport à une meilleure gestion des territoires ruraux et périurbains dans le 
+département, les travaux du groupe peuvent nourrir utilement les réflexions et travaux des Assises 
+de l’agriculture. La mise en place du groupe de travail doit donc intervenir au plus tôt, dès les 
+prochaines semaines, de façon à pouvoir s’inscrire dans le calendrier de ces assises. 
+
+- La signature d’une charte ou d’un document analogue fondé sur un premier relevé des points 
+d’accord, des analyses partagées, des points à approfondir (principes d’action, axes de travail) doit 
+être recherchée à brève échéance.. Il convient de veiller à ce que les principes ou engagements 
+retenus pour être actés à cette occasion s’inscrivent dans la durée, et notamment au delà des 
+prochaines échéances électorales. 
+
+III. Rôle de l’Etat dans la démarche départementale 
+
+L’Etat et ses services départementaux (Directions départementale de l’agriculture et de la forêt, et 
+départementale de l’équipement, ou Direction départementale de l’équipement et de l’agriculture) 
+peuvent jouer un rôle d’animation, de médiation et de rappel des enjeux majeurs et de l’intérêt 
+général au cours des travaux du groupe. 
+
+Il leur revient d’organiser la composition et la tenue de la réunion, d’établir un premier diagnostic 
+de la situation locale, pour introduire les travaux du groupe, d’établir le relevé des travaux du 
+groupe, et de chercher à inscrire cette démarche partenariale dans la durée. 
+La qualité des travaux et débats au sein du groupe de travail est essentielle et je vous demande 
+d’y veiller. 
+
+IV. Dispositif de retour d’information 
+
+Sous le présent timbre, vous m’indiquerez avant le 30 juin les modalités retenues pour le 
+lancement du groupe de travail « agriculture, urbanisme, territoires » dans votre département ; 
+puis les premiers résultats de ses travaux, et les difficultés éventuellement rencontrées. 
+
+Dans le cas où vous auriez récemment conduit dans votre département le même type d’exercice 
+ayant abouti à la signature au niveau départemental de chartes ou de document analogues, vous 
+voudrez bien me communiquer avant le 30 juin ces documents et m’indiquer les suites qui leur 
+sont données. 
+
+Avec mes remerciements 
+
+Le Ministre de l’Agriculture et de la Pêche 
+
+Michel BARNIER
