@@ -1,0 +1,483 @@
+# FCO - Aide d'urgence au maintien des animaux en supplément dans les exploitations - juillet 2008 à fin octobre 2008.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGPAATC20083023
+- Numéro : DGPAAT/SDPM/C2008-3023
+- Date de signature : 2008-10-30
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 16268 (PDF officiel : pdf/2009/04/cir_16268.pdf)
+
+## Texte
+
+1 
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE 
+
+Direction générale des politiques agricole, 
+agroalimentaire et des territoires 
+
+Service de la production agricole 
+Sous-direction des produits et des marchés 
+Bureau des viandes et des productions animales 
+spécialisées 
+Adresse : 3 rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Suivi par : bureau des viandes et des productions animales 
+spécialisées 
+Tél : 01.49.55.46.46 - Fax : 01.49.55.80.26 
+CIRCULAIRE 
+DGPAAT/SDPM/C2008-3023 
+Date: 30 octobre 2008 
+
+Date de mise en application : immédiate 
+Nombre d'annexes : 2 
+Le Ministre de l'agriculture et de la pêche 
+à 
+Monsieur le Directeur de l'Office national interprofessionnel de 
+l'élevage et de ses productions, 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l’Agriculture et de la Forêt 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l'Agriculture et de l'Equipement 
+
+Objet : FCO - Aide d'urgence au maintien des animaux en supplément dans les 
+exploitations – juillet 2008 à fin octobre 2008. 
+Résumé : En raison des restrictions aux échanges intervenues depuis juillet 2008 en raison 
+de l’extension de la FCO (sérotype 1, sérotypes 1 et 8), les producteurs de bovins en zone 
+réglementée sont pénalisés dans la commercialisation des veaux de huit jours et des 
+broutard(e)s. L'aide d’urgence a pour objectif d’aider les éleveurs qui participent à l’effort de 
+stockage de ces animaux. 
+Base réglementaire : règlement (CE) N° 1535 /2007 de la Commission du 20 décembre 
+2007 relatif aux aides de minimis dans les secteurs de l'agriculture et de la pêche 
+Mots-clés : Office de l'Elevage, filière bovine, fièvre catarrhale, de minimis, aide d'urgence 
+au maintien 
+
+Destinataires 
+Pour exécution : 
+Monsieur le Directeur de l'Office national interprofessionnel 
+de l'élevage et de ses productions. 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l’Agriculture et de la Forêt 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l'Agriculture et de l'Equipement. 
+Pour information : 
+Mesdames et Messieurs les Préfets de Région 
+Mesdames 
+et 
+Messieurs 
+les 
+Préfets 
+de 
+Département 
+Mesdames et Messieurs les Directeurs 
+Régionaux de l’Agriculture et de la Forêt 
+
+2 
+L'extension rapide de la fièvre catarrhale ovine (sérotype 1, sérotypes 1 et 8) perturbe les 
+échanges commerciaux, en particulier depuis le 1er juillet 2008. Pour compenser en partie les 
+difficultés économiques subies par les éleveurs des zones réglementées (1, 1-8) qui sont 
+amenés à garder leurs animaux plus longtemps que d’ordinaire (broutards mâles ou 
+femelles, veaux), il a été décidé de leur apporter une aide d'urgence. 
+Vous noterez que le mode de calcul a été précisé par rapport aux versions antérieures de 
+l'aide au maintien FCO. Dans les départements ayant déjà pratiqué ce type d'aide, cela peut 
+amener à modifier le mode de calcul. Un modèle d'extraction sera diffusé afin d'assurer une 
+homogénéité de traitement. Si vous ne pouvez pas mettre en œuvre cette méthode, veuillez 
+contacter rapidement le bureau des viandes et productions animales spécialisées de la 
+DGPAAT. 
+Il s'agit d'une aide d'urgence réservée aux départements en zone réglementée 1 ou 1-8 au 
+cours de la période du 1er juillet 2008 au 31 octobre 2008. 
+La participation des DDAF-DDEA est requise notamment pour les actions suivantes : 
+1 -diffuser l’information auprès des éleveurs concernés, au travers des canaux 
+professionnels locaux ou de tout autre moyen adapté. 
+2 –solliciter la participation à titre gratuit des EDE pour l'extraction des données de la 
+BDNI en ce qui concerne les éleveurs. 
+3 - recevoir les demandes d’aide pour les éleveurs de votre département et instruire leur 
+demande jusqu'à l'étape de saisie sur l'outil informatique qui sera fourni par l'Office de 
+l'Elevage. La liquidation des demandes d’aide est à la charge de l'Office de l'Elevage. 
+4 – concernant les aides « de minimis » déjà perçues par l'exploitation, attester dans les 
+échanges avec l'Office que le montant indiqué est au moins égal au montant des aides 
+sur lesquelles la DDAF-DDEA est intervenue (réception de la demande et/ou instruction 
+et/ou paiement,...). Toutefois, au delà de cette exigence minimale vis à vis de l'Office, 
+valable uniquement pour le dispositif évoqué dans cette note, vous êtes invités à 
+poursuivre les efforts de recensement des aides de minimis perçues par les éleveurs, 
+quelle que soit leur provenance. 
+1. 
+Dispositif général 
+En raison des restrictions observées depuis juillet 2008 en lien avec la FCO sérotype 1, les 
+producteurs de bovins des zones réglementées 1, 1-8 sont pénalisés dans la 
+commercialisation des veaux de huit jours et des broutard(e)s. Une partie importante des 
+veaux et des broutards (mâles et femelles) habituellement commercialisés hors du territoire 
+national reste actuellement sans débouchés en France. 
+Par conséquent, est mise en place une aide d'urgence qui a pour objectif d’aider les éleveurs 
+qui participent à l’effort de conservation sur place d'animaux en supplément, pour une 
+période maximale de trois mois débutant entre le 1er juillet 2008 et le 31 octobre 2008 
+(cf. point 3). Cette période peut être portée à 4 mois maximum sur décision de la DDAF 
+(DDEA) lorsque l’éleveur est contraint à un maintien prolongé des animaux sur 
+l’exploitation. 
+Ainsi, l'aide peut être attribuée pour une période demandée par l'éleveur débutant au plus 
+tard le 31 octobre 2008, et à partir du moment ou le département est en zone réglementée 
+au titre du sérotype 1 ou des sérotypes 1 et 8. 
+Il revient à la DDAF (DDEA) de chaque département de rappeler le début de la période 
+pendant laquelle le département ou une partie de celui-ci est en zone réglementée. 
+L’aide consiste en une indemnisation partielle des producteurs de départements de la zone 
+réglementée 1 ou 1-8 qui auront maintenu ou qui se sont engagé à maintenir, pour la période 
+
+3 
+demandée, sur leur exploitation, des veaux de huit jours ou des broutards supplémentaires, 
+mâles ou femelles, né(e)s dans la zone réglementée. 
+Les éleveurs peuvent présenter, à l'appui de leur demande d'aide, une déclaration sur 
+l'honneur concernant la durée de stockage et le nombre d'animaux bloqués (cf. point 3). 
+Un acompte à hauteur de 33 % du montant total de l'aide sera versé aux éleveurs avant la 
+fin de l'année 2008. 
+2. 
+Bénéficiaires de l'aide 
+Les bénéficiaires de l'aide sont des éleveurs qui participent à l’effort de stockage. 
+L’effort de stockage est défini comme le maintien sur l’exploitation d’animaux en supplément, 
+en comparaison de la même période deux ans auparavant, de veaux de huit jours (nés sur 
+l'exploitation) ou de broutards, mâles ou femelles. 
+L’aide est destinée à compenser partiellement les surcoûts induits par le maintien d’animaux 
+supplémentaires sur l’exploitation. 
+Pour être éligible, l’éleveur doit : 
+- être en activité et avoir son siège d'exploitation en zone réglementée FCO 1 ou 1-8 
+durant la période de l’aide ; 
+- présenter une demande d’indemnisation dont le montant total est supérieur ou égal à 
+100 Euros ; 
+- justifier du maintien en supplément de broutards ou de veaux dit de 8 jours sur son 
+exploitation durant la période d’éligibilité 
+3. 
+Période prise en compte 
+L'aide est calculée sur une période de 3 ou 2 mois consécutifs (1 département = 1 seule 
+période) ou d’un mois comparée à la même période 2 ans avant. Cette période peut être 
+portée à 4 mois maximum sur décision de la DDAF (DDEA) lorsque l’éleveur est contraint à 
+un maintien prolongé des animaux sur l’exploitation. 
+La situation rencontrée en 2008 est comparée à celle observée durant la même période en 
+2006. 
+A la demande des intéressés, la DDAF peut juger du niveau adéquat des références à 
+prendre en compte, au besoin en s'appuyant sur une autre année de référence dans les cas 
+suivants : 
+− nouveaux installés (première installation postérieure au 1er janvier 2006), 
+− cas de force majeure (Incapacité professionnelle de longue durée de l’exploitant, 
+décès de l’exploitant, catastrophe naturelle grave affectant la SAU de l’exploitation, 
+destruction accidentelle des bâtiments d’exploitation destinés à l’élevage, épizootie 
+affectant tout ou partie du cheptel du producteur notamment la FCO). 
+4. 
+Animaux à prendre en compte 
+Sont intégrés dans le calcul visant à évaluer le supplément d'animaux sur l’exploitation les 
+animaux suivants: 
+− les veaux de huit jours, mâles ou femelles, nés dans un élevage laitier de femelle 
+du troupeau laitier, généralement vendus avant leur troisième semaine pour partir dans des 
+ateliers d’engraissement de veaux de boucherie ou de taurillons. Les animaux seront 
+intégrés dans le calcul au plus tôt au 1er juillet 2008 ou à partir de la date de naissance. Sont 
+pris en compte dans cette catégorie uniquement les veaux nés sur l’exploitation, au plus 
+jusqu'à leur 5ème mois. 
+− les broutard(e)s, bovins maigres nés sur l’exploitation (ou à défaut dans un 
+département de la zone réglementée à la date du dépôt de la demande), de races à 
+
+4 
+viande ou croisés (avec au moins une race à viande) qui ont atteint l’âge de 5 mois et au 
+plus l'âge de 16 mois entre le premier jour et le dernier jour de la période défini localement et 
+qui sont maintenus sur l’exploitation au delà du nombre habituellement gardés et élevés. Les 
+animaux seront inclus dans le calcul à compter du premier jour de la période de maintien 
+définie localement si l’animal est né sur l’exploitation ou à partir de la date d’achat. En outre, 
+les animaux ne sont inclus dans le calcul que pour la durée durant laquelle ils répondent aux 
+conditions d'âge. 
+A titre dérogatoire et sur demande écrite de l'éleveur, la DDAF peut intégrer dans le calcul au 
+titre des broutard(e)s les génisses de sélection, inscrites UPRA ou Organisme de Sélection 
+(OS) d'un âge supérieur à 16 mois. 
+5. 
+Mode de calcul 
+Un calcul du « nombre de jours-animaux » sur l’exploitation durant la période considérée est 
+recommandé, dans toute la mesure du possible. 
+Cette méthode consiste à compter, d'une part pour les veaux de 8 jours et d'autre part pour 
+les broutard(e)s, pour chaque jour de la période de référence, le nombre d'animaux de la 
+classe d'âge éligible présent sur l'exploitation du demandeur. Cette opération est réalisée 
+pour la période présente (valeur N) et la période antérieure de deux ans (valeur N-2). Pour 
+prouver un maintien en supplément, la valeur N doit être supérieure à la valeur N-2. 
+La différence entre la valeur N et la valeur N-2 est divisée par 30, ce qui donne le nombre de 
+« mois-animaux » en supplément à indemniser. Seul un nombre entier de mois est pris en 
+compte. 
+Pour le versement de l’acompte, le calcul du nombre de « jours-animaux » est effectué 
+sur la base de la déclaration sur l'honneur de l'éleveur concernant le nombre 
+d’animaux stockés et la période de stockage. 
+Pour le versement du solde en 2009, qui interviendra après la fin de la période 
+demandée par l’éleveur (qui se termine au plus tard le 28 février 2009), le calcul du 
+nombre de « jours-animaux » est vérifié à l’aide des données disponibles de la BDNI. 
+Si cette méthode ne pouvait être suivie, notamment pour l'acompte en raison des délais 
+raccourcis, il conviendrait que la méthode employée localement soit validée au préalable par 
+les services de la DGPAAT en liaison avec l’Office. 
+6. 
+Cas de la « repousse » 
+Afin d'encourager l'utilisation au maximum des capacités de logement des animaux, il est 
+laissé la possibilité aux DDAF de prendre en compte la situation particulière des élevages de 
+« repousse ». Dans le cadre de cette aide, il s’agit d’élevages qui se caractérisent par le fait 
+que les animaux pris en compte au titre de l’aide sont tous nés hors de l'exploitation et 
+effectivement maintenus sur l’exploitation pour la période d’attribution de l’aide. 
+La vérification du critère précédent et de la situation du cheptel s’effectue au vu des données 
+de la BDNI ou sur la base de la déclaration sur l’honneur de l’éleveur pour le versement de 
+l’acompte. 
+Pour ces élevages, le nombre de « mois-animaux » à indemniser est calculé en comparant 
+la valeur de l’année 2008-2009 à 90 % de la valeur 2006-2007. 
+7. 
+Montant unitaire de l'aide 
+Le montant de l’indemnité est fixé à : 
+- 15 euros par mois et par animal pour les veaux de huit jours, 
+- 30 euros par mois et par animal pour les broutards mâles ou femelles et les génisses 
+de sélection de plus de 16 mois. 
+L’acompte versé représente 33 % d’un montant maximum de l'aide demandée. 
+
+5 
+Dans le cas des GAEC, ce plafond peut être multiplié par le nombre d’exploitations 
+regroupées, dans la limite de trois exploitations maximum. 
+Cette aide doit respecter le règlement « de minimis ». Les éleveurs doivent en être informés 
+lors du versement de celle-ci. A cet égard, le respect du plafond de 7 500 € prévu par la 
+réglementation « de minimis » doit être vérifié par la DDAF. 
+8. 
+Modalités d’instruction de l’aide en DDAF (DDEA) 
+- Versement d'un acompte avant la fin 2008. 
+Afin de répondre à l'urgence rencontrée, un acompte est versé à hauteur de 33 % du total 
+envisagé pour l'éleveur. 
+Les éleveurs pourront déposer leur demande auprès de la DDAF de leur siège d'exploitation, 
+à compter de la publication de la circulaire sur le bulletin officiel du MAP. La date limite de 
+dépôt des dossiers est le 15 novembre 2008. 
+L’éleveur dépose une demande conformément au modèle en annexe 1, précisant le nombre 
+de mois-animaux en supplément calculé pour son exploitation et son engagement sur 
+l’honneur concernant les animaux stockés. 
+La DDAF établit dès réception des demandes la liste des éleveurs bénéficiaires après 
+contrôle du respect des règles d’éligibilité prévues par la présente circulaire, en utilisant si 
+nécessaire les données de la BDNI, le cas échéant en faisant appel aux EDE au titre de leur 
+mission de service public. 
+La DDAF recense les autres aides de minimis reçues par l’éleveur et calcule le montant de 
+l’aide à verser au bénéficiaire dans le respect du plafond de 7 500 Euros par éleveur, toutes 
+aides de minimis confondues. 
+- Versement du solde en 2009. 
+La vérification de la déclaration de l’éleveur, du montant de l’aide et le contrôle final lors du 
+paiement du solde sont effectués à partir des données de la BDNI, au besoin complétées de 
+toute déclaration de l'éleveur jugée utile par la DDAF (cf. notamment en ce qui concerne la 
+justification du nombre de génisses inscrites UPRA prise en compte). 
+La DDAF recense les autres aides de minimis reçues par l’éleveur et calcule le montant de 
+l’aide à verser au bénéficiaire dans le respect du plafond de 7 500 Euros par éleveur, toutes 
+aides de minimis confondues. 
+9. 
+Modalités de versement des aides par l’office 
+Le versement de l’aide est assuré par l’Office de l’Elevage, après validation par son Conseil 
+de direction. 
+La DDAF (DDEA) fera parvenir à l’Office de l’Elevage avant le 25 novembre 2008 les 
+éléments suivants : 
+- l’original de la demande des éleveurs (selon le modèle joint en annexe 1), 
+- un relevé d’identité bancaire ou postal de chaque bénéficiaire, 
+- un tableau synthétique reprenant pour chaque bénéficiaire, les coordonnées du 
+bénéficiaire, le nombre de mois-animaux supplément par catégorie d’animaux, le montant 
+des aides de minimis déjà reçues, le montant de l’aide calculée et le montant de l’aide 
+pouvant être versé. 
+L'Office de l'Elevage fournira aux DDAF la téléprocédure permettant la transmission 
+électronique et l'édition de ce tableau, sur lequel le DDAF attestera du respect des conditions 
+d’éligibilité des bénéficiaires. Ce document sera à transmettre sous forme d’édition papier 
+visée par le DDAF et sous support informatique. 
+Il est recommandé aux DDAF d'instruire et d'envoyer dès que possible des lots de dossiers 
+complets (50 par exemple), plutôt que d'attendre l'ensemble des demandes. 
+
+6 
+Après réception et traitement des demandes individuelles, l’Office de l’Elevage effectue le 
+versement de l’aide (acompte, solde), en informant les bénéficiaires de la nature de minimis 
+de celle-ci. 
+Lors du versement du solde : 
+- le cas échéant, une demande de reversement des montants trop – perçus au titre de 
+l’acompte sera effectuée par l’office de l’élevage. 
+- dans le cas où le montant total des demandes dépasserait l’enveloppe globale prévue pour 
+cette mesure, un coefficient stabilisateur sera appliqué. 
+Vous voudrez bien rendre compte à la DGPAAT de toute difficulté rencontrée dans la mise 
+en œuvre de ce dispositif. 
+
+Michel Barnier
+
+7 
+Annexe 1 
+DEMANDE D’AIDE [à adapter par la DDAF] 
+Indemnisation des éleveurs bovins touchés par les restrictions au commerce des 
+animaux vivants non vaccinés contre la FCO du ../../2008 au ../../20.. [[à adapter par la 
+DDAF] 
+à remplir en deux exemplaires et à remettre en DDAF 
+avant le 15 novembre 2008 
+L’ELEVEUR DEMANDEUR : 
+N° PACAGE : 
+
+N° SIREN/SIRET 
+
+N° de détenteur 
+
+Nom et Prénom ou Raison sociale : 
+
+Adresse (domicile) : 
+
+Code postal : 
+
+Commune : 
+
+Si l’adresse du siège d’exploitation est différente, précisez :
+
+Le signataire de la présente déclare sur l’honneur maintenir sur la période du ../../2008 
+au ../../20.. sur l’exploitation en supplément des effectifs observés du ../../2006 au 
+../../20.. : 
+− 
+l'équivalent de _____ bovins de moins de 5 mois pendant 1 mois, en plus 
+− 
+l'équivalent de _____ bovins de 5 à 16 mois pendant 1 mois, en plus 
+Déclarer le nombre de jour(s) de présence des animaux de la catégorie visée, sur votre 
+exploitation, chaque jour du ../../2008 au ../../20.. et du ../../2006 au ../../20. (exemple : un 
+animal présent 85 jours sur la période, avec le bon âge, compte pour 85 et non pour 1) selon 
+la méthode prévue par la circulaire. 
+Si le résultat est supérieur en 2008 – 2009 à celui de 2006 - 2007, faites la différence et 
+divisez par 30. 
+Si le résultat est inférieur en 2008 – 2009 à celui de 2006 - 2007, indiquez 0 pour la 
+catégorie concernée. 
+NB : notamment, pour éleveurs de génisses UPRA OS, les nouveaux installés après le 1er 
+janvier 2006, les repousseurs, des adaptations au mode de calcul existent. Renseignez-vous 
+auprès de la DDAF. 
+Le montant total demandé sur la base des valeurs indiquées ne peut pas être inférieur à 100 
+euros 
+Le signataire déclare être éligible à une demande d'un montant total de _______euros 
+et atteste (NB : l'aide demandée est une aide « de minimis ») : 
+Ne pas avoir reçu d’autres aides « de minimis » au cours de ces trois dernières années 
+ou 
+
+8 
+Avoir reçu la somme de …………………… euros dans le cadre des aides de minimis 
+au cours de ces trois dernières années. 
+Afin de permettre la vérification du calcul, le signataire s’engage à fournir pour le paiement 
+du solde la liste complète des animaux ayant servi au décompte en indiquant la date de 
+présence effective ou un document équivalent à la satisfaction de la DDAF. 
+Merci de joindre un RIB. 
+Fait à le, 
+Signature de l'éleveur (des associés si GAEC), 
+
+9 
+Annexe 2 (modèle, adaptable dans chaque département) 
+Liste des animaux ayant servi au calcul de l’aide 
+(indispensable pour le paiement du solde) 
+période du ../.. au ../.. 
+Indemnisation des éleveurs bovins touchés par les restrictions au commerce des 
+animaux vivants non vaccinés contre la FCO – 
+L’ELEVEUR DEMANDEUR : 
+N° PACAGE : 
+
+N° 
+SIREN/SIRET 
+
+N° de 
+détenteur 
+
+Nom et Prénom ou Raison 
+sociale : 
+
+Adresse (domicile) : 
+
+Code 
+postal : 
+
+Commune : 
+
+Si l’adresse du siège d’exploitation est différente, 
+précisez : 
+
+Période : 
+
+../../2006 au ../../20.. 
+
+Numéro de 
+l’animal inclus 
+dans le décompte 
+Date de 
+naissance
+Présence 
+(tout la période OU 
+du ../../20.. au 
+../../20... 
+
+Durée de présence 
+comptée 
+bovins moins de 5 
+mois (en jours) – 
+veaux laitiers 
+Durée de présence 
+comptée 
+bovins de 5 mois à 
+16 mois (en jours) - 
+races à viandes ou 
+croisés 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Total 
+
+__________ jours 
+__________ jours 
+
+10 
+
+../../2008 au ../../20.. 
+
+Numéro de 
+l’animal inclus 
+dans le décompte 
+Date de 
+naissance
+Présence 
+(tout la période OU 
+du ../../20.. au 
+../../20... 
+
+Durée de présence 
+comptée 
+bovins moins de 5 
+mois (en jours) – 
+veaux laitiers 
+Durée de présence 
+comptée 
+bovins de 5 mois à 
+16 mois (en jours) - 
+races à viandes ou 
+croisés 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Total 
+
+__________ jours 
+__________ jours 
+
+Fait à le, 
+Signature de l'éleveur 
+(des associés si GAEC)
