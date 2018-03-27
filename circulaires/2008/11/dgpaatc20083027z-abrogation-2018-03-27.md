@@ -1,0 +1,428 @@
+# FCO - Aide à l'adaptation de l'engraissement d'animaux - 3 octobre 2008 au 31 mars 2009.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGPAATC20083027Z
+- Numéro : DGPAAT/SDPM/C2008-3027
+- Date de signature : 2008-11-20
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 22716 (PDF officiel : pdf/2009/04/cir_22716.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE 
+ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+Agroalimentaire et des Territoires 
+Service de la Production Agricole 
+Sous-direction des Produits et des Marchés 
+Bureau des viandes et des productions animales 
+spécialisées 
+Adresse : 3 rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Tél : 01.49.55.46.46 - Fax : 01.49.55.80.26 
+CIRCULAIRE 
+DGPAAT/SDPM/C2008-3027 
+Date: 20 novembre 2008 
+
+Date de mise en application : 
+immédiate 
+ Nombre d'annexe : 2
+
+Le Ministre de l'agriculture et de la pêche 
+à 
+Monsieur le Directeur de l'Office national interprofessionnel de 
+l'élevage et de ses productions, 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l’Agriculture et de la Forêt 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l'Agriculture et de l'Equipement 
+
+Objet : FCO - Aide à l’adaptation de l'engraissement d'animaux – 3 octobre 2008 au 
+31 mars 2009 
+Résumé : En raison des restrictions aux échanges liées à la FCO (sérotypes 1 et 8), les 
+producteurs de bovins en zone réglementée sont pénalisés dans la commercialisation des 
+broutard(e)s. Ce dispositif a pour objectif d’aider les engraisseurs qui participent à l’effort de prise 
+en charge de ces animaux et qui dans le même temps contractualisent avec les opérateurs d'aval. 
+Base réglementaire : règlement (CE) N° 1535 /2007 de la Commission du 20 décembre 2007 
+relatif aux aides « de minimis » dans les secteurs de l'agriculture et de la pêche 
+MOTS-CLES : Office de l'Elevage, filière bovine, fièvre catarrhale, « de minimis », aide à 
+l'engraissement 
+
+Destinataires 
+Pour exécution : 
+Monsieur le Directeur de l'Office national 
+interprofessionnel de l'élevage et de ses 
+productions 
+Mesdames et Messieurs les Directeurs 
+Départementaux de l’Agriculture et de la 
+Forêt, 
+Mesdames et Messieurs les Directeurs 
+Départementaux de l'Agriculture et de 
+l'Equipement. 
+Pour information : 
+Mesdames et Messieurs les Préfets de Région 
+Mesdames et Messieurs les Préfets de Département 
+Mesdames et Messieurs les Directeurs Régionaux de 
+l’Agriculture et de la Forêt 
+
+L'extension rapide de la fièvre catarrhale ovine a perturbé les échanges commerciaux. Par ailleurs, 
+il a été constaté l'intérêt d'accompagner le secteur de l'engraissement dans ses évolutions 
+structurelles. 
+Afin de limiter le surstockage d'animaux dans les exploitations des zones réglementées françaises 
+(8 ou 1-8) qui trouvent ensuite difficilement preneurs, il a été décidé d'encourager les engraisseurs 
+Leur effort d'adaptation sera évalué en fonction : 
+− 
+des animaux achetés du 3 octobre 2008 au 3 février 2009, faisant l'objet d'une 
+contractualisation, prévoyant notamment des critères de qualité des animaux en fin 
+d'engraissement (poids maximum, âges, etc. au choix des opérateurs). 
+− 
+des animaux abattus du 1er décembre 2008 au 31 mars 2009 avec un poids (de carcasse) de 
+moins de 450 kg 
+La participation des DDAF-DDEA est requise notamment pour les actions suivantes : 
+1 - diffuser l’information auprès des éleveurs concernés, au travers des canaux professionnels 
+locaux ou de tout autre moyen adapté. 
+2 - recevoir les demandes d’aide pour les éleveurs de votre département et instruire leur demande 
+jusqu'à l'étape de saisie sur l'outil informatique qui sera fourni par l'Office de l'Elevage. La 
+liquidation des demandes d’aide est à la charge de l'Office de l'Elevage. 
+3 – concernant les aides « de minimis » déjà perçues par l'exploitation, attester dans les échanges 
+avec l'Office que le montant indiqué est au moins égal au montant des aides sur lesquelles la 
+DDAF-DDEA est intervenue (réception de la demande et/ou instruction et/ou paiement,...). 
+Toutefois, au delà de cette exigence minimale, valable uniquement pour le dispositif évoqué dans 
+cette note, vous êtes invités à poursuivre les efforts de recensement des aides « de minimis » 
+perçues par les éleveurs, quelque soit leur provenance. 
+L'Office informera les DDAF-DDEA des montants versés. 
+
+1. 
+Dispositif général 
+En raison des restrictions aux échanges observées en lien avec la FCO, les producteurs bovins en 
+zone réglementée ont été pénalisés dans la commercialisation des broutard(e)s. 
+L'aide a pour objectif d’aider les engraisseurs qui participent à l’effort de prise en charge de ces 
+animaux, en se fournissant sur le marché en animaux de la zone réglementée (8 ou 1-8) à partir 
+du 3 octobre 2008 jusqu'au 3 février 2009. Leur effort est également évalué à l'aide de 
+l'observation du nombre d'animaux (toutes origines) abattus entre le 1er décembre 2008 et le 31 
+mars 2009 à un poids inférieur à 450 kg (poids carcasse). 
+
+2. 
+Bénéficiaires de l'aide 
+Les bénéficiaires de l'aide sont des engraisseurs qui participent à l’effort d'adaptation de leur 
+production, notamment en contractualisant avec les opérateurs d’aval et maîtrisant le poids de 
+sortie des animaux. 
+Cet effort d'adaptation de l'engraissement est évalué en fonction de deux indicateurs (cf. 3. calcul 
+des indicateurs). 
+Pour être éligible, l'engraisseur doit : 
+- être en activité de façon continue sur la période du 3 octobre 2008 au 31 mars 2009 ; 
+- avoir une demande d’indemnisation dont le montant total est supérieur ou égal à 900 Euros ; 
+- s’engager sur les niveaux des indicateurs A et B. 
+S'agissant des commerçants qui exercent également une activité d'engraissement, la séparation 
+comptable des activités (une comptabilité distincte pour chacune d'elle) est exigée. En cas 
+d'incertitude vous pouvez contacter la DRAF qui a gérée récemment une aide aux commerçants. 
+
+3. 
+Calcul des indicateurs, montant et nature de l'aide 
+
+Indicateur A : achats 
+L'indicateur est égal au nombre d'achats de bovins, originaires des départements de la zone 
+réglementée 8 ou 1-8 à la date d'achat (date de la facture faisant foi en cas de litige), de races à 
+viande ayant de 5 à 14 mois (à la date de l'achat), pour la période du 3 octobre 2008 au 3 février 
+2009, faisant l'objet d'un contrat d'engraissement 
+Par contrat d'engraissement on entend tout acte écrit, liant l'engraisseur et l'abatteur, le cas 
+échéant une tierce partie (commerçant, organisation de producteurs, etc.). Ce contrat devra 
+prévoir notamment des critères de qualité des animaux en fin d'engraissement (poids maximum, 
+âges, ... au choix des parties contractantes). 
+
+Indicateur B : abattages 
+L'indicateur est égal au nombre de sorties pour abattage de bovins entre le 1er décembre 2008 et 
+le 31 mars 2009, ayant un poids de carcasse inférieur à 450 kg (ticket de pesée faisant foi). 
+Il n'y a pas obligatoirement de lien entre les animaux décomptés dans l'indicateur A et ceux de 
+l'indicateur B. 
+L'effort d'adaptation de l'engraissement sera égal à la plus petite valeur calculée des deux 
+indicateurs A et B. 
+Le montant maximal de l’indemnité est égal à : 
+A × 90€ (si A est inférieur à B) ou B × 90€ (si A supérieur à B). 
+Les éleveurs répondant aux conditions énoncées au point 2 peuvent être attributaires, au titre du 
+présent dispositif, d'une aide si leur demande est d'un montant minimum de 900€ . 
+Dans le cas où le montant total des demandes dépasserait l’enveloppe globale prévue pour cette 
+mesure, un coefficient stabilisateur sera appliqué. 
+Cette aide est une aide « de minimis » au sens de la réglementation communautaire. Les éleveurs 
+doivent en être informés lors de la demande et lors du versement de celle-ci. Par ailleurs, le 
+respect du plafond de 7 500 € prévu par la réglementation doit être vérifié par la DDAF. 
+Dans le cas des groupements agricoles d’exploitation en commun, le plafond d’aide par 
+exploitation peut être multiplié par le nombre d’exploitations regroupées dans la limite de trois. 
+
+4. 
+Modalités d’instruction des demandes 
+
+Les éleveurs éligibles au dispositif, pourront déposer, à compter de la publication de la circulaire et 
+au plus tard le 15 avril 2009, une seule demande par bénéficiaire auprès de la DDAF de leur siège 
+d'exploitation. 
+L’éleveur dépose : 
+− une demande (cf. modèle annexe 1) précisant la valeur de l'indicateur A* et de l'indicateur 
+B ; 
+− la liste (cf. annexe 2) des animaux contribuant à atteindre ce résultat. ; 
+− un exemplaire du contrat (ou de chaque contrat) relatif aux animaux pris en compte ; 
+− un RIB. 
+
+*en général, les contrats portent sur un groupe d'animaux. Il n'est pas demandé un exemplaire par 
+animal. Au cas où le contrat ne reprendrait pas explicitement l'identification des animaux, une 
+
+déclaration sur l'honneur de l'éleveur peut être demandée par la DDAF en plus du contrat qui 
+devra être tout de même fourni à la DDAF. 
+
+SI l'animal a été abattu hors du territoire national, il revient au demandeur d'apporter un justificatif 
+d'abattage indiquant le poids d'abattage des animaux concernés. 
+La DDAF établit dès réception des demandes la liste des éleveurs éligibles après contrôle du 
+respect des règles d’éligibilité prévues aux paragraphes 2 et 3 en utilisant le cas échéant les 
+données de la BDNI avec l’appui des EDE au titre de leur mission de service public. 
+La DDAF recense les autres aides « de minimis » reçues par l'éleveur (c'est à dire payé à l'éleveur 
+à la date d'examen du dossier) et calcule le montant de l’aide à verser au bénéficiaire dans le 
+respect du plafond de 7 500 euros par éleveur, toutes aides « de minimis » confondues. Au cas où 
+entre l'examen du dossier et la mise en paiement par l'Office de l'Elevage, l'éleveur aurait perçu de 
+la part de l'Office de l'Elevage une aide de minimis autre que celle objet du présent texte, il revient 
+à l'Office de l'Elevage d'ajuster le paiement à effectuer. 
+5. 
+Modalités de versement des aides 
+Le versement de l’aide accordée par l’Etat est assuré par l’Office de l’Elevage, dans la limite des 
+disponibilités budgétaires. 
+La DDAF fera parvenir à l'Office de l'Elevage, avant le 22 mai 2009, les éléments suivants : 
+- l’original de la demande des éleveurs (selon le modèle joint en annexe 1) sans les justificatifs 
+afin d'éviter l'envoi de dossier trop volumineux, 
+- un relevé d’identité bancaire ou postal de chaque bénéficiaire, 
+- un tableau synthétique reprenant pour chaque bénéficiaire, les coordonnées du bénéficiaire, la 
+valeur des indicateurs A (et B pour le solde), le montant des aides « de minimis » déjà reçues et le 
+montant de l’aide calculée. L'Office de l'Elevage fournira aux DDAF la téléprocédure permettant la 
+transmission électronique et l'édition de ce tableau, sur lequel le DDAF attestera du respect des 
+conditions d’éligibilité des bénéficiaires. Ce document sera à transmettre sous forme d’édition 
+papier visée par le DDAF et sous support informatique. 
+
+Afin de faciliter l'évaluation de l'éventuel coefficient stabilisateur et le déclenchement des 
+paiements, il est recommandé aux DDAF d'instruire et d'envoyer dès que possible des lots de 
+dossiers complets (50 par exemple), plutôt que de joindre l'ensemble des demandes à la fin du 
+traitement. 
+Après réception et traitement des demandes individuelles, l’Office de l’Elevage verse à l’éleveur 
+les montants précisés au point 3, en informant les bénéficiaires de la nature « de minimis » de 
+l'aide. 
+6. 
+Contrôles administratifs après paiement 
+La DDAF contrôle, au moment du dépôt, l'ensemble de la demande. 
+Le cas échéant, l'Office de l'Elevage engagera le remboursement des aides indûment perçues. 
+
+Je vous demande de bien vouloir communiquer à la DGPAAT toute difficulté que vous pourriez 
+rencontrer dans la mise en œuvre de ce dispositif. 
+
+Michel Barnier 
+
+Annexe 1 – modèle adaptable localement 
+DEMANDE D’AIDE 
+Aides « de minimis » aux éleveurs engraisseurs réalisant un effort d'adaptation de leur 
+système d'engraissement 
+ FCO – octobre 2008 mars 2009 
+à remplir en deux exemplaires et à remettre en DDAF avant le 15 avril 2009 
+L’ELEVEUR DEMANDEUR : 
+N° PACAGE : 
+
+N° SIREN/SIRET 
+
+N° de détenteur 
+
+Nom et Prénom ou Raison sociale : 
+
+Adresse (domicile) : 
+
+Code postal : 
+
+Commune : 
+
+Si l’adresse du siège d’exploitation est différente, précisez :
+
+Le signataire de la présente déclare : 
+
+(Indicateur A) du 3 octobre 2008 au 3 février 2009 avoir acheté des bovins de races à 
+viande ou croisé avec au moins une race à viande de 5 à 14 mois d'âge (à la date de 
+l'achat), venant de département en zone réglementée FCO pour un nombre de _________ 
+têtes et avoir contractualisé leur engraissement (avec un abatteur,avec ou sans 
+intermédiaire), 
+
+(Indicateur B) du 1er décembre 2008 au 31 mars 2009, avoir sorti de l'exploitation à 
+destination d'abattage des bovins de races à viande ou croisés avec au moins une race à 
+viande, avec un poids de carcasse de moins de 450kg poids pour un nombre de _______ 
+têtes, 
+
+atteste : 
+
+Ne pas avoir reçu d’autres aides « de minimis » au cours de ces trois dernières années 
+
+Avoir reçu la somme de …………………… euros dans le cadre des aides « de minimis » 
+au cours de ces trois dernières années. (Ce montant ne peut dépasser 7500€ sur trois 
+ans) 
+
+et joint les listes des animaux achetés du 3 octobre 2008 au 3 février 2009, ainsi que la liste des 
+animaux sortis pour abattage du 1er décembre 2008 au 31 mars 2009, en signalant les animaux 
+répondant aux critères de calcul des indicateur A et B tout en joignant les justificatifs nécessaires 
+(tickets de pesée, extraction BDNI, factures au besoin,...). 
+
+Vous êtes invités à prendre connaissance des remarques au dos de ce formulaire avant de signer. 
+
+Fait à le, 
+
+Signature de l'éleveur 
+(des associés si GAEC), 
+
+Remarques : 
+
+1 – Pour faciliter le traitement de votre demande, pensez à joindre un RIB 
+
+2 - Votre aide sera calculée sur la base du plus petit de ces indicateurs (A et B), multiplié au 
+mieux par 90€. Le volume financier réservé à cette aide étant limité à 5 millions d'euros, la valeur 
+de 90€ est susceptible d'être révisée à la baisse sans que vous en soyez informé avant paiement. 
+Le montant total demandé (avant éventuelle révision du montant forfaitaire de 90€) ne peut pas 
+être ni inférieur à 900 euros ni supérieur à 7 500 euros. 
+
+Exemple : 
+− 
+si A=15 et B=20, l'aide sera égale au mieux à 15 × 90€, soit 1350 € 
+− 
+si A=5 et B=3, l'aide calculée ne serait que de 3 × 90€, soit 270 €. L'aide ne sera pas accordée 
+− 
+si A=100 et B = 145, l'aide calculée serait en première approche de 100 × 90€, soit 9000 €, 
+mais sera plafonnée à 7 500 €. 
+
+3 – s'agissant des contrats d'engraissement relatifs aux animaux achetés, il convient de fournir une 
+copie du contrat. Si le contrat ne permet d'identifier les animaux achetés pour lesquelles 
+l'engraissement est contractualisé, vous donnerez à la DDAF une déclaration sur l'honneur (sur 
+papier libre) dans laquelle il sera écrit « les animaux intégrés dans le décompte de l'indicateur du 
+nombre d'animaux achetés font bien l'objet d'une contractualisation pour engraissement avec un 
+abatteur. ». Cette déclaration sera susceptible de contrôle donnant lieu à des recouvrements. 
+
+Annexe 2 - modèle 
+Liste des animaux achetés et sortis pour abattage, répondant aux critères de l'aide « de 
+minimis » aux éleveurs engraisseurs réalisant un effort d'adaptation de leur système 
+d'engraissement 
+ FCO – octobre 2008- mars 2009 
+Calcul de l'indicateur A 
+
+Animaux achetés du 3 octobre 2008 au 3 février2009 
+
+ (vous pouvez indiquer tous les achats de cette période) 
+
+Numéro de l’animal 
+acheté 
+Date de 
+naissance 
+Département de 
+l’exploitation 
+d’origine 
+pour les 
+animaux achetés
+(si possible) 
+Date d'achat 
+Fait l'objet d'un 
+contrat 
+(cocher la case si 
+oui) 
+Répond au critère 
+de l'indicateur A 
+(cocher la case si 
+oui) 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+... 
+
+Du 3 octobre 2008 au 31 janvier 2009, ............ têtes répondent aux critères d'achat. 
+
+Calcul de l'indicateur B 
+
+Animaux sortis pour abattage du 1er décembre 2008 au 31 mars 2009 
+
+ (vous pouvez indiquer toutes les sorties à destination abattage de cette période) 
+
+Numéro de l’animal 
+sorti 
+Poids (poids fiscal cf. ticket de 
+pesée) 
+Date de sortie de 
+l'exploitation 
+Répond au critère de l'indicateur B 
+(cocher la case si oui) 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+... 
+
+Du 1er décembre 2008 au 31 mars 2009, ............ têtes répondent aux critères de sortie.
