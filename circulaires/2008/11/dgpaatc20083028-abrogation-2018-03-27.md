@@ -1,0 +1,155 @@
+# Indemnisation des pertes liées à l'épizootie de fièvre catarrhale ovine (FCO) pour l'élevage ovin allaitant.
+
+- État : abrogée (au 2018-03-27)
+- NOR : DGPAATC20083028
+- Numéro : DGPAAT/SDPM/C2008-3028
+- Date de signature : 2008-11-27
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 13395 (PDF officiel : pdf/2009/04/cir_13395.pdf)
+
+## Texte
+
+MINISTERE 
+DE L’AGRICULTURE 
+ET DE LA PECHE 
+
+Direction Générale des Politiques Agricole, 
+AgroAlimentaire et des Territoires 
+Service de la Production Agricole 
+Sous-direction des Produits et des Marchés 
+Bureau des viandes et des productions animales 
+spécialisées 
+Adresse : 3 rue Barbet de Jouy - 75349 PARIS 07 SP 
+
+Tél : 01.49.55.46.15 - Fax : 01.49.55.80.26 
+mail : monique.dehaudt@agriculture.gouv.fr 
+CIRCULAIRE 
+DGPAAT/SDPM/C2008-3028 
+Date: 27 novembre 2008 
+
+Date de mise en application : imédiate 
+ Nombre d'annexe :0 
+Le Ministre de l'agriculture et de la pêche 
+à 
+Monsieur le Directeur de l'Office national interprofessionnel 
+de l'élevage et de ses productions, 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l’Agriculture et de la Forêt 
+Mesdames et Messieurs les Directeurs Départementaux de 
+l'Agriculture et de l'Equipement 
+Monsieur le Directeur de l'Agence unique de paiement 
+
+Objet : Indemnisation des pertes liées à l'épizootie de fièvre catarrhale ovine (FCO) 
+pour l'élevage ovin allaitant 
+Résumé : Dans le cadre du programme national de lutte contre les effets de la fièvre catarrhale 
+ovine, en dehors des différentes mesures arrêtées pour son suivi, sa surveillance et de la 
+campagne de vaccination en cours, il paraît indispensable de compenser, au moins partiellement, 
+les pertes des éleveurs d'ovins allaitants du territoire métropolitain, territoire entièrement touché 
+par cette maladie. 
+Base réglementaire : 
+− 
+Article 10 paragraphe 2 du règlement (CE) n° 1857/2006 du 15 décembre 2006, 
+− 
+Arrêté du ministre de l'agriculture et de la pêche du 27 octobre 2008 modifiant l'arrêté du 1er 
+avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale ovine, 
+− 
+Décision n°90/424 CE du Conseil du 26 juin 1990 relative à certaines dépenses dans le 
+domaine vétérinaire, 
+− 
+Règlement (CE) n° 1266/2007 de la Commission du 26 octobre 2007 portant modalités 
+d'application de la directive 2000/75/CE du Conseil en ce qui concerne la lutte contre la fièvre 
+catarrhale du mouton, son suivi, sa surveillance et les restrictions applicables aux mouvements 
+de certains animaux des espèces qui y sont sensibles. 
+
+MOTS-CLES : Office de l'élevage, ovins allaitants, fièvre catarrhale, compensation des pertes 
+
+Destinataires 
+Pour exécution : 
+Monsieur le Directeur de l'Office national 
+interprofessionnel de l'élevage et de ses 
+productions 
+Mesdames et Messieurs les Directeurs 
+Départementaux de l’Agriculture et de la Forêt, 
+Mesdames et Messieurs les Directeurs 
+Départementaux de l'Agriculture et de 
+l'Equipement. 
+Monsieur le Directeur de l'Agence unique de 
+paiement 
+Pour information : 
+
+Mesdames et Messieurs les Préfets de Région 
+Mesdames et Messieurs les Préfets de Département
+Mesdames et Messieurs les Directeurs Régionaux 
+de l’Agriculture et de la Forêt 
+
+L'extension de la FCO sur l'ensemble du territoire métropolitain a entraîné, de 2006 à 2008, des 
+pertes économiques importantes pour les éleveurs, particulièrement difficiles à surmonter pour les 
+éleveurs d'ovins allaitants (orientation viande) qui bénéficient de faibles revenus. C'est pourquoi, il 
+a été décidé d'octroyer à ceux-ci une aide destinée à compenser leurs pertes, basée sur la prime à 
+la brebis (PB). 
+La participation des DDAF-DDEA est requise pour les actions suivantes : 
+1 - Diffuser l’information auprès des éleveurs, notamment de la possibilité de reconnaissance de 
+cas de force majeure supplémentaire. 
+2 – Instruire et transmettre les demandes de reconnaissance de cas de force majeure autre que 
+celles déjà acceptées dans le cadre de la PB. 
+3 – Transmettre à l'Office de l'élevage la copie des RIB des bénéficiaires. 
+La participation de l'Agence unique de paiement est requise pour fournir les données relatives à la 
+PB 2006, 2007, 2008 et les demandes de PB 2009 nécessaires à l'instruction et au paiement de la 
+présente aide. 
+L'Office de l'élevage est chargé du calcul et de la gestion de l'aide et veillera à ce que les DDAF-
+DDEA puissent consulter les montants versés. 
+
+1. 
+Bénéficiaires de l'aide 
+Seront éligibles au programme, les agriculteurs qui réunissent les trois conditions suivantes : 
+− 
+sauf cas de force majeure1, avoir déposé, en 2009, une demande de primes à la brebis, 
+− 
+et avoir déposé, sauf cas de force majeure, une demande de prime à la brebis recevable en 
+2008 (10 brebis viandes éligibles au minimum), 
+− 
+et avoir perçu la PB en 2006 ou en 2007 ou en 2008 pour 10 brebis viandes au minimum. 
+Le cas de force majeure sera notamment retenu pour les élevages ayant fait l'objet d'un abattage 
+sanitaire juste avant la période de dépôt des demandes et qui n'auraient pas pu reconstituer un 
+troupeau à temps pour déposer une demande de PB en 2009. 
+Les élevages éligibles à la prime à la brebis laitière ne sont pas éligibles à la présente mesure, y 
+compris les élevages mixtes brebis laitières-brebis viande. 
+
+1 
+Les cas de force majeure, hors cas déjà acceptés dans le cadre de la prime à la brebis, feront l'objet 
+d'une demande auprès du bureau des viandes et des productions agricoles spécialisées. 
+
+2. 
+Calcul de l'aide 
+Pour chaque éleveur éligible, l'aide sera calculée sur la base du nombre maximum de brebis 
+viande primées à la prime à la brebis en 2006, 2007 ou 2008. Le montant unitaire par brebis sera 
+égal au montant de l'enveloppe budgétaire de 25 M€ affectée à cette mesure, divisé par le nombre 
+de brebis éligibles. 
+
+3. 
+Modalités d’instruction des demandes et paiement 
+Les données nécessaires à l'instruction de l'aide étant détenues par l'Agence unique de paiement, 
+il n'est pas nécessaire, pour les éleveurs de remplir une demande spécifique. 
+L'Office de l'élevage verse automatiquement l'aide calculée conformément au point 2 à partir des 
+données de l'AUP. 
+L'AUP transmettra les données à l'Office de l'élevage avant le 15 mars 2009. 
+Les DDAF-DDEA transmettront avant le 10 mars 2009 : 
+− 
+au BVPAS (monique.dehaudt@agriculture.gouv.fr) les demandes de reconnaissance de cas 
+de force majeure, 
+− 
+à l'Office de l'élevage, les photocopies des RIB figurant dans la demande de PB 2009 
+Le paiement de l'aide sera effectué à partir d'avril 2009 
+
+4.Contrôles 
+S'agissant d'une aide se basant sur la prime à la brebis, les contrôles PAC font foi. Cette aide ne 
+fera donc pas l'objet de contrôles spécifiques, ceux-ci ayant déjà eu lieu dans le cadre des 
+contrôles annuels de la PB. 
+
+Je vous demande de bien vouloir communiquer à la DGPAAT toute difficulté que vous pourriez 
+rencontrer dans la mise en œuvre de ce dispositif. 
+
+Michel BARNIER
