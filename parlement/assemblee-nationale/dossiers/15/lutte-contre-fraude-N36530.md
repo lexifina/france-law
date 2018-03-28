@@ -1,0 +1,70 @@
+# Lutte contre la fraude
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36530
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_fraude
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-385.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-03-28 : 1er dépôt d'une initiative. (PRJLSNR5S299B0385)
+  - 2018-03-28 : Etude d'impact (ETDISNR5S299B0385)
+  - 2018-03-28 : Avis du Conseil d'Etat (AVCESNR5S299B0385)
+  - 2018-03-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-03-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-06-27 : Dépôt de rapport (RAPPSNR5S299B0602, PRJLSNR5S299BTC0603)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-16 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-06-26 : Dépôt de rapport (AVISSNR5S299B0600)
+  - Discussion en séance publique
+    - 2018-07-03 : Discussion en séance publique
+    - 2018-07-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-07-04 : Dépôt d'une initiative en navette (PRJLANR5L15B1142)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-07-04 : Renvoi en commission au fond
+      - 2018-07-10 : Nomination de rapporteur
+      - 2018-07-10 : Réunion de commission
+      - 2018-07-24 : Réunion de commission
+      - 2018-07-25 : Réunion de commission
+      - 2018-09-17 : Réunion de commission
+      - 2018-07-25 : Dépôt de rapport (RAPPANR5L15B1212, PRJLANR5L15BTC1212)
+    - Travaux d'une commission saisie pour avis
+      - 2018-07-05 : Saisine pour avis d'une commission
+      - 2018-07-11 : Nomination de rapporteur
+      - 2018-07-11 : Réunion de commission
+      - 2018-07-24 : Réunion de commission
+      - 2018-07-24 : Dépôt de rapport (AVISANR5L15B1188)
+  - Discussion en séance publique
+    - 2018-09-17 : Discussion en séance publique
+    - 2018-09-17 : Discussion en séance publique
+    - 2018-09-18 : Discussion en séance publique
+    - 2018-09-18 : Discussion en séance publique
+    - 2018-09-19 : Discussion en séance publique
+    - 2018-09-26 : Discussion en séance publique
+    - 2018-09-26 : Décision
+- Commission Mixte Paritaire
+  - 2018-09-26 : Dépôt d'un projet de loi (PRJLSNR5S299B0736)
+  - 2018-09-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-10-04 : Nomination de rapporteur
+    - 2018-10-04 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0014, PRJLSNR5S319BTC0015)
+    - 2018-10-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B1294, PRJLANR5L15BTC1294)
+  - Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-09 : Décision
+  - Discussion en séance publique
+    - 2018-10-10 : Discussion en séance publique
+    - 2018-10-10 : Décision
+  - 2018-10-05 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-10-23 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-09-16 : Rapport sur l'application des lois (RINFANR5L15B3341)
