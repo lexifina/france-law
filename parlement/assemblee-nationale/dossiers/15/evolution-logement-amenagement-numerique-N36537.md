@@ -1,0 +1,130 @@
+# Evolution du logement, de l’aménagement et du numérique (ELAN)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36537
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/evolution_logement_amenagement_numerique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-567.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-04-04 : 1er dépôt d'une initiative. (PRJLANR5L15B0846)
+  - 2018-04-04 : Etude d'impact (ETDIANR5L15B0846)
+  - 2018-04-04 : Avis du Conseil d'Etat (AVCEANR5L15B0846)
+  - 2018-04-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-04 : Renvoi en commission au fond
+      - 2018-03-28 : Nomination de rapporteur
+      - 2018-03-28 : Réunion de commission
+      - 2018-05-15 : Réunion de commission
+      - 2018-05-15 : Réunion de commission
+      - 2018-05-16 : Réunion de commission
+      - 2018-05-16 : Réunion de commission
+      - 2018-05-16 : Réunion de commission
+      - 2018-05-17 : Réunion de commission
+      - 2018-05-17 : Réunion de commission
+      - 2018-05-17 : Réunion de commission
+      - 2018-05-18 : Réunion de commission
+      - 2018-05-18 : Réunion de commission
+      - 2018-05-18 : Réunion de commission
+      - 2018-05-30 : Réunion de commission
+      - 2018-05-30 : Réunion de commission
+      - 2018-05-19 : Dépôt de rapport (RAPPANR5L15B0971, PRJLANR5L15BTC0971)
+    - Travaux d'une commission saisie pour avis
+      - 2018-04-05 : Saisine pour avis d'une commission
+      - 2018-04-04 : Nomination de rapporteur
+      - 2018-04-17 : Réunion de commission
+      - 2018-04-17 : Réunion de commission
+      - 2018-04-18 : Réunion de commission
+      - 2018-04-18 : Dépôt de rapport (AVISANR5L15B0881)
+    - Travaux d'une commission saisie pour avis
+      - 2018-04-05 : Saisine pour avis d'une commission
+      - 2018-04-11 : Nomination de rapporteur
+      - 2018-04-11 : Réunion de commission
+      - 2018-05-15 : Réunion de commission
+      - 2018-05-15 : Dépôt de rapport (AVISANR5L15B0944)
+    - Travaux d'une commission saisie pour avis
+      - 2018-04-09 : Saisine pour avis d'une commission
+      - 2018-04-11 : Nomination de rapporteur
+      - 2018-04-11 : Réunion de commission
+      - 2018-05-15 : Réunion de commission
+      - 2018-05-15 : Dépôt de rapport (AVISANR5L15B0942)
+  - Discussion en séance publique
+    - 2018-05-30 : Discussion en séance publique
+    - 2018-05-30 : Discussion en séance publique
+    - 2018-05-31 : Discussion en séance publique
+    - 2018-05-31 : Discussion en séance publique
+    - 2018-05-31 : Discussion en séance publique
+    - 2018-06-01 : Discussion en séance publique
+    - 2018-06-01 : Discussion en séance publique
+    - 2018-06-01 : Discussion en séance publique
+    - 2018-06-02 : Discussion en séance publique
+    - 2018-06-02 : Discussion en séance publique
+    - 2018-06-02 : Discussion en séance publique
+    - 2018-06-03 : Discussion en séance publique
+    - 2018-06-03 : Discussion en séance publique
+    - 2018-06-03 : Discussion en séance publique
+    - 2018-06-04 : Discussion en séance publique
+    - 2018-06-04 : Discussion en séance publique
+    - 2018-06-05 : Discussion en séance publique
+    - 2018-06-05 : Discussion en séance publique
+    - 2018-06-06 : Discussion en séance publique
+    - 2018-06-06 : Discussion en séance publique
+    - 2018-06-08 : Discussion en séance publique
+    - 2018-06-08 : Discussion en séance publique
+    - 2018-06-08 : Discussion en séance publique
+    - 2018-06-12 : Discussion en séance publique
+    - 2018-06-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-06-13 : Dépôt d'une initiative en navette (PRJLSNR5S299B0567)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-07-04 : Dépôt de rapport (RAPPSNR5S299B0630, PRJLSNR5S299BTC0631)
+    - Travaux d'une commission saisie pour avis
+      - 2018-04-18 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-06-27 : Dépôt de rapport (AVISSNR5S299B0604)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-16 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-06-27 : Dépôt de rapport (AVISSNR5S299B0606)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-16 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2018-06-27 : Dépôt de rapport (AVISSNR5S299B0608)
+  - Discussion en séance publique
+    - 2018-07-16 : Discussion en séance publique
+    - 2018-07-17 : Discussion en séance publique
+    - 2018-07-18 : Discussion en séance publique
+    - 2018-07-19 : Discussion en séance publique
+    - 2018-07-20 : Discussion en séance publique
+    - 2018-07-23 : Discussion en séance publique
+    - 2018-07-24 : Discussion en séance publique
+    - 2018-07-25 : Discussion en séance publique
+    - 2018-07-25 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-26 : Dépôt d'un projet de loi (PRJLANR5L15B1216)
+  - 2018-07-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-09-19 : Nomination de rapporteur
+    - 2018-09-19 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0720, PRJLSNR5S299BTC0721)
+    - 2018-09-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B1253, PRJLANR5L15BTC1253)
+  - Discussion en séance publique
+    - 2018-10-03 : Discussion en séance publique
+    - 2018-10-03 : Discussion en séance publique
+    - 2018-10-03 : Décision
+  - Discussion en séance publique
+    - 2018-10-16 : Discussion en séance publique
+    - 2018-10-16 : Décision
+  - 2018-09-20 : Décision de la CMP
+- Conseil constitutionnel
+  - 2018-10-23 : Saisine du conseil constitutionnel
+  - 2018-11-15 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2018-11-23 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2019-06-26 : Rapport sur l'application des lois (RINFANR5L15B2077)
