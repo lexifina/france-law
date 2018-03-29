@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203240
+
+- Question : [SEQ180203240](seq180203240.md) — Cotisation foncière des entreprises et exploitants agricoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-03-29, page 1493*
+
+Conformément à l'article 1450 du code général des impôts (CGI), les exploitants agricoles, personnes physiques ou morales, qui exercent une activité agricole au sens de l'article 63 du CGI bénéficient d'une exonération permanente de cotisation foncière des entreprises (CFE) à raison de cette activité. Toutefois, cette exonération ne s'étend pas aux autres activités lorsqu'elles présentent un caractère industriel ou commercial au sens des articles 34 et 35 du CGI. Dès lors, les activités de stockage et de vente de produits agricoles exercées par un exploitant agricole demeurent imposables à la CFE lorsque les produits ne proviennent pas exclusivement de son exploitation. Il en va de même des prestations de services qu'il peut être amené à réaliser pour d'autres exploitants. Cela étant, suite à de nombreux contentieux tenant notamment à des requalifications en immobilisations industrielles d'entrepôts ou bâtiments de stockage de produits agricoles ou manufacturés, l'article 103 II de la loi de finances initiale pour 2018 prévoit que le Gouvernement remettra au Parlement, avant le 1er juillet 2018, un rapport dressant un état des lieux des difficultés soulevées par les modalités d'évaluation des immobilisations industrielles et proposant des pistes de sécurisation de cette notion. Ce rapport comportera également une analyse des conditions dans lesquelles l'exonération de cotisation foncière des entreprises dont bénéficient les exploitants agricoles au titre de l'article 1450 du CGI peut être étendue aux activités accessoires, mentionnées à l'article 75 du même code, de transformation de produits provenant de leur exploitation et sur les conséquences financières qu'aurait cette extension.
