@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001749
+
+- Question : [SEQ171001749](seq171001749.md) — Maintien du budget de la politique agricole commune et viticulture
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-03-29, page 1491*
+
+Le retrait du Royaume-Uni de l'Union européenne est susceptible d'avoir un impact sur le budget de l'Union européenne et donc sur le budget de la politique agricole commune (PAC). Dans l'objectif de limiter ces impacts, le Gouvernement français est mobilisé, en soutien à la Commission européenne qui mène les négociations avec le Royaume-Uni, pour préserver le budget et l'application de la PAC dans toutes ses composantes et pour toutes les filières. Des progrès ont été faits dans cette voie, par le fait que dans un rapport conjoint avec la Commission européenne publié le 8 décembre 2017, le Royaume-Uni a reconnu ses obligations en termes de participation financière au budget de l'Union européenne et s'est engagé à s'en acquitter jusqu'au 31 décembre 2020, fin de l'actuel cadre financier pluriannuel. Pour ce qui concerne la PAC post 2020, il paraît nécessaire de rappeler que le Président de la République a souhaité, lors de ses vœux au monde agricole le 25 janvier 2018, que la PAC n'ait pas un budget moins ambitieux en raison du « Brexit ». S'agissant de la filière vitivinicole, les dispositions réglementaires européennes relatives à la gestion du potentiel viticole sont fixées jusqu'en 2030 avec une clause de révision à mi-parcours en 2023, offrant ainsi un cadre stabilisé aux opérateurs. La France est par ailleurs attachée aux outils spécifiques prévus par l'organisation commune de marché vitivinicole qui permettent de structurer le marché et d'améliorer la compétitivité des entreprises de la filière. De manière générale, la France estime nécessaire que la prochaine PAC puisse conserver ces outils, tout en ayant le souci que leur mise en œuvre soit simplifiée et rendue plus efficace.
