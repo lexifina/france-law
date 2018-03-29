@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101877
+
+- Question : [SEQ171101877](seq171101877.md) — Dysfonctionnement des extractions judiciaires
+
+## Réponse
+
+*Justice, JO du 2018-03-29, page 1517*
+
+Le transfert de charge des missions d'extractions judiciaires du ministère de l'intérieur vers le ministère de la justice a été acté en 2010. La reprise des missions d'extractions judiciaires doit se réaliser de manière progressive, par région administrative, entre 2011 et 2019. Le périmètre des reprises ne concerne que la France métropolitaine et est calibré sur le découpage des régions en vigueur avant la réforme territoriale. Cette réforme devrait s'accompagner d'un transfert de 800 emplois. il est apparu que ce nombre était insuffisant. les effectifs ont été réévalués à 1 200 en 2013 puis 1 650 en 2016. Une circulaire a prévu des modifications substantielles dans l'organisation des extractions. Les extractions judiciaires vicinales, c'est-à-dire les extractions judiciaires requises par la juridiction de proximité (qu'il s'agisse d'une juridiction de première instance ou d'une cour d'appel) et induites par la proximité géographique entre un établissement pénitentiaire et les juridictions, seront assurées par dérogation à la règle générale selon les modalités suivantes : par les établissements pénitentiaires eux-mêmes dans 47 établissements ; par les forces de sécurité intérieures dans 20 établissements, actant ainsi le principe d'une reprise de certaines extractions par le ministère de l'intérieur. L'administration pénitentiaire a commencé de mettre en œuvre la reprise des extractions judiciaires vicinales pour 10 établissements pénitentiaires : dans le cadre de la commission administrative paritaire de mobilité des surveillants-surveillants brigadiers du 6 au 15 septembre, l'administration pénitentiaire a veillé à prendre en compte la création d'emplois spécifiques, en vue de cette reprise, à hauteur de 25 emplois.
