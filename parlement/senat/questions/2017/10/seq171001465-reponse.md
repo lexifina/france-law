@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001465
+
+- Question : [SEQ171001465](seq171001465.md) — Ressources budgétaires des régions
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-03-29, page 1489*
+
+Le fonds exceptionnel de soutien, à destination des régions, institué par l'article 149 de la loi de finances (LFI) pour 2017 a été créé pour l'année 2017. Comme son intitulé l'indique, il s'agit d'un fonds présentant un caractère exceptionnel qui n'avait donc pas vocation à être reconduit. Le fonds prévoyait un décaissement des crédits de paiement sur 2017 (200 M€) et 2018 (250 M€), et non pas un versement annuel de 450 M€. Ce fonds a visé à accompagner le renforcement des dépenses des régions consacrées au développement économique. La loi portant nouvelle organisation territoriale de la République (NOTRe) n'a pas opéré de transfert de cette compétence de l'État vers les régions : il n'existe donc pas, sur le plan juridique, d'obligation de compensation par l'État au sens de l'article 72-2 de la Constitution. La loi NOTRe a simplement clarifié la répartition des compétences en la matière, en supprimant la compétence détenue par les départements dans un souci de simplification. Par ailleurs, les régions bénéficieront à compter de 2018, conformément à l'article 149 de la LFI pour 2017, d'une affectation représentative des recettes de la taxe de la valeur ajoutée (TVA), en substitution des recettes qu'elles percevaient auparavant, au titre de la dotation globale de fonctionnement. Le Gouvernement a souhaité confirmer cette évolution majeure, qui traduit un véritable changement d'approche dans le financement des collectivités territoriales. Surtout, cette évolution va se traduire par une augmentation significative des recettes des régions dans la mesure où la nouvelle recette bénéficiera de la dynamique de la TVA. Le gain devrait ainsi s'élever à environ 100 M€ sur la seule année 2018 et à plus de 600 M€ sur la période 2018 - 2022.
