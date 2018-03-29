@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001726
+
+- Question : [SEQ171001726](seq171001726.md) — Écriture inclusive à l'école
+
+## Réponse
+
+*Éducation nationale, JO du 2018-03-29, page 1500*
+
+L'apprentissage des savoirs fondamentaux, à commencer par celui de la langue française, relève des missions fondamentales de l'École. La maîtrise de l'orthographe et de la grammaire du français font donc l'objet d'un travail systématique et régulier durant la scolarité à l'école élémentaire et au collège. La maîtrise des accords en particulier (au sein du groupe nominal, entre le verbe et son sujet, entre le sujet et son attribut) est l'un des objectifs du cycle 3 (classes de CM1, CM2 et 6ème) en français ; le travail sur les accords se poursuit dans les classes suivantes, particulièrement pour s'approprier les cas plus complexes. Pour l'apprentissage de la langue française, les programmes scolaires se réfèrent aux normes orthographiques et grammaticales en usage, et les mêmes règles sont enseignées à tous, notamment celle de l'accord de l'adjectif au masculin pluriel quand il se rapporte à plusieurs noms de genres différents ; ce sont ces mêmes normes et règles que les enseignants sont tenus d'enseigner et d'appliquer dans le cadre de leurs fonctions. Les corps d'inspection, quant à eux, s'assurent que les enseignants respectent les programmes scolaires. Pour ce qui concerne les manuels scolaires, leur contenu relève de la seule responsabilité des éditeurs. Il n'existe pas de procédure de labellisation ou d'agrément par le ministère de l'éducation nationale. Chaque éditeur privé est libre de ses choix dans la conception des manuels et ouvrages scolaires qu'il propose à la vente ; il en est, par conséquent, aussi responsable. Les enseignants sont eux-mêmes libres et responsables du choix des manuels qui sont utilisés en classe ; ils doivent donc veiller à choisir des ouvrages conformes aux programmes scolaires.
