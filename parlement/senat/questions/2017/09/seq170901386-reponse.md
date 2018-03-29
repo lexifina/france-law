@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901386
+
+- Question : [SEQ170901386](seq170901386.md) — Dissolution d'un syndicat intercommunal ne regroupant que deux communes
+
+## Réponse
+
+*Intérieur, JO du 2018-03-29, page 1503*
+
+Le code général des collectivités territoriales (CGCT) énonce de nombreuses hypothèses selon lesquelles les syndicats intercommunaux peuvent être dissous. L'article L. 5212-33 du CGCT dispose que le syndicat de communes est dissous dans trois cas de figure : la dissolution est prononcée de plein droit à l'expiration de la durée fixée par la décision institutive, à l'achèvement de l'opération qu'il avait pour objet de conduire, lorsqu'il ne compte plus qu'une seule commune membre ou à la date du transfert à un établissement public de coopération intercommunale à fiscalité propre ou à un syndicat mixte relevant des articles L. 5711-1 ou L. 5721-2 du CGCT des services en vue desquels il avait été institué. Il est également dissous de plein droit par consentement de tous les conseils municipaux intéressés. Un syndicat intercommunal peut être dissous sur demande motivée de la majorité des conseils municipaux de ses communes membres mais aussi d'office par un décret rendu sur l'avis conforme du Conseil d'État lorsque le syndicat connaît des dissensions en son sein telles qu'elles empêchent un fonctionnement normal de l'institution. L'article L. 5212-34 du CGCT dispose également que le syndicat qui n'exerce aucune activité depuis deux ans au moins peut être dissous par arrêté du ou des représentants de l'État dans le ou les départements concernés après avis des conseils municipaux des communes membres. Ainsi, selon les circonstances, le représentant de l'État dans le département ou le Gouvernement prononce la dissolution d'un syndicat par arrêté ou décret si l'une des hypothèses mentionnées par l'un des deux articles précités est satisfaite.
