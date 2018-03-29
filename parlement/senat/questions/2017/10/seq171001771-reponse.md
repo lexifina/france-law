@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001771
+
+- Question : [SEQ171001771](seq171001771.md) — Publication tardive des arrêtés interdisant les déplacements de supporters
+
+## Réponse
+
+*Intérieur, JO du 2018-03-29, page 1504*
+
+Les arrêtés ministériels d'interdiction de déplacement de supporters sont des mesures de police administrative toujours exceptionnelles. En effet, si ce dispositif permet de limiter les débordements à l'occasion de rencontres sportives à risques, son utilisation doit être réservée aux situations correspondant aux critères fixés par l'article L. 332-16-1 du code du sport, et dans lesquelles aucune autre mesure moins contraignante ne serait suffisante pour éviter la survenance de troubles graves à l'ordre public. L'arrêté ministériel n'est pas le seul moyen d'action en la matière. D'autres outils existent et sont mis en œuvre en priorité pour prévenir des atteintes à l'ordre public dans le cadre des manifestations sportives, tels que l'organisation par le club de déplacements de supporters encadrés ou le parcage des supporters à l'intérieur du stade. Par principe, une éventuelle mesure administrative d'interdiction ou d'encadrement (qui vise toujours uniquement les supporters visiteurs) est envisagée par le préfet territorialement compétent le plus en amont possible de la rencontre. Cette mesure peut toutefois être décidée tardivement, à la lumière d'un risque de troubles à l'ordre public ou d'une indisponibilité majeure des forces de l'ordre, qui rendent nécessaire quelques jours avant le match le recours à un encadrement ou, plus rarement, à une interdiction du déplacement des supporters visiteurs. Dans tous les cas, il est loisible aux associations de supporters de saisir le juge administratif dans le cadre d'un référé liberté qui, le cas échéant, peut statuer sous 48 heures et en tout état de cause avant la rencontre, ce qui garantit leur droit au recours effectif.
