@@ -1,0 +1,260 @@
+# Modalités prévues dans la lettre  du DGA et du DGER fixant les conditions d'hygiène applicables dans les établissements de restauration collective à caractère social (norme HACCP)
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN982109
+- Numéro : DGER/POFEGTP/N98-2109
+- Date de signature : 1998-11-23
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 13568 (PDF officiel : pdf/2009/04/cir_13568.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE
+DIRECTION GENERALE DE L’ENSEIGNEMENT ET DE LA RECHERCHE
+1 ter, avenue de Lowendal - 75700 PARIS 07 SP
+DIRECTION GENERALE DE L’ADMINISTRATION
+78, rue de Varenne - 75349 PARIS 07 SP
+Direction générale de l’administration
+Sous-direction de la formation continue, des affaires
+statutaires et des relations sociales
+Bureau de la formation continue
+78, rue de varenne
+78349 Paris 07 SP
+Direction générale de l'enseignement et de la
+recherche
+Sous-direction de la politique des formations de
+l'enseignement général, technologique et professionnel
+Bureau formation des personnels - information
+1 ter, avenue de Lowendal
+75700 PARIS 07 SP
+Tél. : 0149555155
+0149555197
+Note de Service
+DGA/SP/N98/N° 1355
+DGER/POFEGTP/N98/N° 2109
+du : 23 NOVEMBRE 1998
+Classement :
+LE MINISTRE DE L’AGRICULTURE
+ET DE LA PÊCHE
+Messieurs les Directeurs régionaux
+de l'agriculture et de la forêt
+OBJET : Mise en oeuvre de la formation relative aux conditions d’hygiène applicables dans les
+établissements de restauration collective à caractère social
+Date de mise en application : immédiate
+Textes réglementaires : 
+Arrêté du 29/09/1997 (J.O. du 23/10/1997)
+PLAN DE DIFFUSION
+Administration Centrale - diffusion B
+Directions régionales de l'agriculture et de la forêt
+Directions de l'agriculture et de la forêt des DOM
+Inspection générale de l'agriculture
+Conseil général de l'agronomie
+Coordination des inspections de l'enseignement agricole
+Etablissements publics nationaux et locaux d'enseignement et de formation professionnelle agricoles
+Pour information :
+Unions nationales fédératives d'établissements privés sous contrat
+Organisations syndicales
+Fédérations d'associations de parents d'élèves de l'enseignement agricole public
+
+1/ LE CONTEXTE
+
+La présente note de service a pour objet de déterminer les modalités prévues dans la lettre du
+directeur général de l’administration et du directeur général de l’enseignement et de la recherche
+fixant les conditions d’hygiène applicables dans les établissements de restauration collective à
+caractère social (normes HACCP : Hazard Analysis Critival Control Point).
+Ce programme poursuit deux objectifs
+- organiser la formation des personnels concernés (cuisiniers et gestionnaires) à ces nouvelles
+normes et à la maîtrise des risques.
+- encourager les acteurs locaux à engager une réflexion non seulement sur l’organisation d’un service
+de restauration, son rôle au sein de la communauté éducative mais aussi sur la place que tiennent ou
+devraient tenir l’aliment et le goût dans l’éducation des élèves.
+Cette formation s’appuie sur le système des démultiplicateurs. Dans chaque région seront constitués
+des binômes de formateurs. Ils se composent d’un chef de cuisine et d’un gestionnaire choisis au
+sein du même établissement. Chaque binôme expérimente les nouvelles normes au sein de son
+propre établissement avec l’équipe de restauration.
+Puis les binômes interviennent , dans les établissements de la région. La formation, les contacts
+établis entre personnes de différents sites, l’échange des différentes pratiques professionnelles du
+dispositif permettent la création d’une dynamique forte entre les différents acteurs. La fonction
+pédagogique peut ainsi être développée.
+Il apparaît en effet que si le système des démultiplicateurs répond aux impératifs techniques, il crée
+aussi les conditions d’une réflexion sur l’organisation du service de restauration de l’établissement et
+met en valeur le rôle des personnels de restauration dans la vie de la communauté éducative.
+2/LES DIFFERENTES ETAPES
+
+Le territoire national est partagé en quatre inter régions. Les binômes sont désignés par les chefs
+des services régionaux de la formation et du développement conformément aux indications ci-
+dessous :
+
+ interrégions
+
+ nombre
+ binômes
+ SUD-EST :
+
+ Auvergne, Corse, Languedoc-Roussillon,
+ PACA , Rhône-Alpes, Corse
+
+ 13
+ NORD-EST :
+
+ Alsace, Champagne-Ardenne, Bourgogne,
+Franche-Comté, Ile-de-France, Lorraine,
+ Nord-Pas-de-Calais, Picardie
+ 10
+ NORD-OUEST :
+
+ Bretagne, Centre, Haute et
+ Basse Normandie, Pays de Loire
+ 11
+ SUD-OUEST
+
+ Aquitaine, Limousin, Midi-Pyrénées,
+ Poitou-Charentes
+ 10
+La formation se déroulera en deux phases sur deux années :
+-A/ Année scolaire 1998/1999: formation des binômes démultiplicateurs
+
+Une fois constitués, ces binômes suivent une formation en deux temps :
+- une formation technique ( deux fois deux jours) qui leur permet l’appropriation des nouvelles
+normes et la maîtrise de risques
+- de retour dans leur établissement, ils expérimentent la méthode avec leur équipe de restauration
+- à l’issue de l’expérimentation, ils suivent une formation pédagogique
+
+B/ Juin 1999: une journée de formation interrégionale des équipes d’établissement
+
+A l’initiative des chefs de service régionaux, les équipes responsables de la restauration
+(gestionnaire et chef de cuisine) seront réunis dans chaque région. Au cours de cette journée, les
+démultiplicateurs expliqueront les éléments essentiels de la méthode, ils présenteront la grille d’auto
+évaluation
+C/ Année scolaire 1999-2000 (éventuellement l’année 2000/2001): les formations sur sites
+
+Ces formations sont décidées au cas par cas par les chefs d’établissement, en accord avec les
+services régionaux et en fonction du diagnostic établi par la grille d’auto-évaluation.
+Il reviendra aux démultiplicateurs d’assurer l’animation de ces formations sur site, dans la limite d’un
+nombre de journées dont le total ne pourra excéder six jours.
+3/ LES INSCRIPTIONS ETLES FINANCEMENTS
+
+Les inscriptions sont faites , après visa du supérieur hiérarchique, auprès du SRFD.
+La fiche type d’inscription est jointe à cette note.
+La direction générale de l’administration assure le financement de la première phase,.
+La direction générale de l’enseignement et de la recherche prend en charge la deuxième phase de ce
+dispositif sur des crédits nationaux délégués aux régions de façon spécifique.
+ 4/ LE CALENDRIER DE LA FORMATION DES BINOMES
+
+ interrégions
+ lieux
+ dates des formations
+ technique
+
+ dates des
+formations
+ pédagogique
+ SUD-EST:
+
+ PACA, Languedoc-
+Roussillon, Auvergne,
+Rhône-Alpes, Corse
+
+ Carry le Rouet, centre
+ Vacanciel “ les calanques ”
+ 9 et 10 mars , 24 et 25 mars.
+ formateur: M Deschamps.V I
+(1), formateur HACCP.
+ 2,3,4 juin.
+ M J. Bec, bureau
+FORMCO et M J.
+de Casenove
+V.I.(1)
+ NORD-EST:
+
+Champagne-Ardenne,
+ Bourgogne, Franche-Comté,
+ Lorraine, Alsace
+
+ Hôtel IBIS, Dijon.
+ 2 et 3 mars, 8 et 9 avril.
+ Mme Colardelle , V.I (1),
+formatrice HACCP.
+ 19,20,21 mai.
+ M J.Bec, bureau
+FORMCO et M J.
+de Casenove
+V.I.(1)
+ NORD-OUEST:
+
+ Nord-Pas de Calais,Picardie,
+ Ile de France, Haute et
+ Basse Normandie, Bretagne,
+ Centre, Pays de Loire
+ Lycée Agricole d’Angers
+ 28 et 29 janvier, 4 et 5 mars.
+ Mme Boisseleau, V.I (1),
+ formatrice HACCP.
+ 1,2,3 juin.
+ M J.P. Dohollou ,
+DRF/délégué
+GRAG
+ et M B. Form
+V.I.(1)
+SUD-OUEST:
+
+Poitou_Charentes,
+Aquitaine,
+Limousin, Midi-Pyrénées
+ Maison de la promotion sociale.
+Bordeaux
+ Lycée de Blanquefort.
+ 4 et 5 mars, 29 et 30 mars.
+ Mme Perrin V.I (1),
+ formatrice HACCP.
+18, 19, 20 mai.
+ M J.P. Dohollou,
+DRF/ délégué
+GRAF
+ et M B. Form V.I.
+(1)
+ (1) Vétérinaire inspecteur
+Le sous-directeur chargé de la formation
+Le sous-directeur chargé de la politique
+continue, des affaires statutaires et des
+des formations de l’enseignement général,
+relations sociales
+ technologique et professionnel
+Alain TOURNIER
+Edgar LEBLANC
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE
+DIRECTION GENERALE DE L’ADMINISTRATION
+78, rue de Varenne - 75349 PARIS 07 SP
+DIRECTION GENERALE DE L'ENSEIGNEMENT ET DE LA RECHERCHE
+1 ter, avenue de Lowendal - 75700 PARIS 07 SP
+FICHE DE CANDIDATURE A LA FORMATION DE FORMATEURS (*)
+EN RESTAURATION COLLECTIVE A CARACTERE SOCIAL
+(méthode HACCP)
+NOM ………………………………………………………….. PRENOM …………………………………….
+GRADE ……………………………………………………………………………………………………………..
+AFFECTATION …………………………………………………………………………………………………….
+ADRESSE ADMINISTRATIVE PRECISE ………………………………………………………………………
+TELEPHONE ………………………………………………. TELECOPIE ………………………………………
+Avez-vous déjà suivi des stages de formation de formateur ou des préparations à l’activité de formateur ?
+Si oui, lesquels ?
+Intitulé
+Structure organisatrice
+Dates
+Précisez votre motivation pour suivre cette formation :
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+……………………………………………
+Visa du supérieur hiérarchique
+Engagement de l’agent
+Visa du chef du service
+régional de la formation et du développement
+ (*)la formation de formateur comporte trois parties indissociables et distinctes :
+- une formation de 2 fois 2 jours à caractère technique
+- une formation de 3 jours à caractère pédagogique
+- une journée de formation régionale
+L’inscription vaut engagement pour la formation de formateur et pour les actions de
+démultiplication.
