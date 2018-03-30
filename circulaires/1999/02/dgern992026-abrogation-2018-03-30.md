@@ -1,0 +1,392 @@
+# Modalités d'inscription en classes préparatoires aux concours A d'accès aux écoles nationales supérieures agronomiques (ENSA), écoles nationales d'ingénieurs des travaux agricoles (ENITA) et classes préparatoires aux écoles nationales vétérinaires (ENV),
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN992026
+- Numéro : DGER/POFEGTP/N99-2026
+- Date de signature : 1999-02-25
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 19029 (PDF officiel : pdf/2009/04/cir_19029.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE
+DIRECTION GENERALE DE L’ENSEIGNEMENT ET DE LA RECHERCHE
+1 ter avenue de Lowendal - 75700 PARIS 07 SP
+T é ê å  q v à r p ç v é ü  Q P A @ U B Q
+7êàrhêqryhâéyvçväêrqrååçàêpçêàrårç
+qryhâàpëvåvéü
+ çràhërüêrqrGéÉrüqhy
+&$&Q6SDT&TQ
+Upy)  #($$$$'
+9B@SQPA@BUQI((!!%
+qê!$A@WSD@S (((
+8yhåårÇrüç)
+IPU@9@T@SWD8@
+j
+Hrååvrêàåyrå9vàrpçrêàåàptvéühêæ
+qry·htàvpêyçêàrrçqryhséàrçTràëvprqryhséàÇhçvéürçqê
+qpëryéâârÇrüç
+HrååvrêàårçHråqhÇråyråâàéëvårêàå
+q·pçhiyvåårÇrüçåâêiyvpåyéphêæq·rüårvtürÇrüç
+rçqrséàÇhçvéüâàésrååvéüüryyrhtàvpéyrå
+P7E@U) Héqhyvçpåq·vüåpàvâçvéürüpyhååråâàpâhàhçévàråhêæpéüpéêàå6q·hppqåhêæ@IT6@IDU6@IW
+SeA)
+9ppàrç(#  #qê!"üéërÇiàr ((#àryhçvsjy·ræçrüåvéühêæpyhååråâàpâhàhçévàråàryrëhüçqêÇvüvåçqàrqr
+y·htàvpêyçêàr rç qr yh ârpur qr pràçhvürå qvåâéåvçvéüå qê çvçàr DD qr yh yév ü '#$! qê !% whüëvrà ('# åêà
+y·rüårvtürÇrüçåêâpàvrêà
+9ppàrç(#  $qê!"üéërÇiàr ((#âéàçhüçéàthüvåhçvéürçséüpçvéüürÇrüçqråpyhååråâàpâhàhçévàråhêæ
+tàhüqråppéyrå
+96U@9@HDT@@I6QQGD86UDPI)qqåàpprâçvéü
+SeTVHe) GhâàpårüçrüéçrqråràëvprsværyråÇéqhyvçpåq·vüåpàvâçvéürüpyhååråâàpâhàhçévàråhêæpéüpéêàå6q·hppqå
+hêæ ppéyrå ühçvéühyrå åêâpàvrêàrå htàéüéÇväêrå @IT6 ppéyrå ühçvéühyrå q·vütpüvrêàå qrå çàhëhêæ
+htàvpéyrå@IDU6rçpyhååråâàpâhàhçévàråhêæppéyråühçvéühyråëpçpàvühvàrå@IWâéêàyhàrüçàpr (((
+QG6I9@9DAAVTDPI
+9B@S9vssêåvéü7
+Düåârpçvéütpüpàhyrqry·htàvpêyçêàr
+Düåârpçvéüqry·rüårvtürÇrüçhtàvpéyr
+8éüårvytpüpàhyqry·htàéüéÇvr
+9vàrpçvéüåàptvéühyråqry·htàvpêyçêàrrçqryhséàrçTSA9
+9vàrpçvéüåqry·htàvpêyçêàrrçqryhséàrçqrå9PH
+ChêçpéÇÇvååhàvhçqryhSpâêiyväêrqråUPH
+@çhiyvåårÇrüçåq·rüårvtürÇrüççrpuüväêrhtàvpéyr
+@çhiyvåårÇrüçåq·rüårvtürÇrüçåêâpàvrêà
+Pàthüvåhçvéüåàrâàpårüçpråhê8I@6
+
+2
+La présente note de service ne concerne que les modalités d'inscription en classes préparatoires aux
+concours A d'entrée aux ENSA/ENITA et ENV.
+La note s’organise ainsi:
+1/ Orientation et information des candidats p2
+2/ Etablissement des dossiers de candidature p2 à 4
+3/ Acheminement du dossier de candidature p4
+4/ Décisions d'admission p4
+1. Orientation et information des candidats
+1.1. Information des partenaires institutionnels
+Dès réception de cette note de service, il est demandé à MM. les directeurs régionaux de l'agriculture et
+de la forêt (services régionaux de la formation et du développement) de porter les dispositions ci-
+dessous à la connaissance des rectorats, des chefs d'établissements publics et privés, des délégués
+régionaux de l'ONISEP, des centres d'information et d'orientation, des associations de parents d'élèves,
+de la presse...afin qu'une information précise soit faite auprès de tous les candidats.
+1.2 Information des candidats potentiels
+Dans chaque département, une séance d'information, organisée par le(s) proviseur(s) d'établissement
+public local (lycée d'enseignement général et technologique agricole ou lycée professionnel agricole)
+doit être assurée à l'intention des candidats éventuels à une admission en classe préparatoire aux
+concours d'entrée aux ENV, ENSA/ENITA.
+Le but recherché est de reprendre et de préciser les informations contenues dans la présente note de
+service.
+Il est rappelé que toutes les classes préparatoires relevant du ministère de l'agriculture et de la pêche
+sont ouvertes aux candidats des deux sexes. La commission nationale et l'autorité de tutelle veilleront à
+ce qu'aucune discrimination de sexe n'intervienne pour les admissions.
+Si l'information doit s'attacher à fournir aux candidats les renseignements sur la nature des formations et
+des débouchés, sans masquer les difficultés propres à certaines candidatures dont le profil ne semble
+pas correspondre à la voie choisie, la décision de déposer un dossier appartient toujours aux candidats.
+2 . E t a b l i s s e m e n t d e s d o s s i e r s d e c a n d i d a t u r e
+2.1. Diplômes donnant accès à l'enseignement supérieur agricole
+Peuvent constituer un dossier pour accéder aux classes préparatoires aux
+ENSA/ENITA, ENV de l'enseignement agricole les titulaires du baccalauréat ou
+d'un titre admis en équivalence sur décision de la commission nationale d'admission
+en classes préparatoires.
+2.2. Remise des imprimés aux candidats
+Les dossiers sont remis aux candidats par l'établissement mettant en oeuvre la classe préparatoire
+demandée en premier voeu, à partir du 9 mars 1999
+Etablissements concernés :
+Pour les concours ENSA/ENITA
+LEGTA Angers le Fresne - BP 3627 - 49036 Angers Cedex 01
+LEGTA Le Robillard - 14170 Saint Pierre sur Dives
+LEGTA Toulouse Auzeville - BP 47 31326 Castanet Tolosan Cedex
+LEGTA Le Chesnoy- Les Barres - Le Chesnoy - 45200 Montargis
+Dans l’hypothèse où la classe de BCPST du lycée d’Ozenne de Toulouse serait transférée au
+LEGTA de Toulouse Auzeville, un recrutement homogène et indifférencié s’imposerait pour les
+deux classes avec des modalités d’inscription spécifiques.
+Pour le concours ENV
+LEGTA Clermont Ferrand Marmilhat - 63370 Lempdes
+Le candidat peut sélectionner 4 établissements au maximum parmi ceux énumérés au paragraphe 2.2.
+
+3
+Il est obligatoire pour les candidats postulant simultanément en classes préparatoires aux concours
+d'entrée aux ENSA/ENITA, ENV et en sections préparatoires au BTSA de remplir deux dossiers et de
+bien renseigner la rubrique située en bas de première page de l'imprimé n°1, pour le dossier ROSE
+(demande d'admission en classe préparatoire aux concours d'entrée aux ENSA/ENITA, ENV), c'est à
+dire, d’annoncer clairement leur choix prioritaire.
+2.3 . Utilisation des imprimés
+Le dossier complet de demande d’admission doit comporter
+- l'imprimé n°1 à remplir par le candidat et l'établissement instructeur (les autres imprimés sont à
+conserver par le candidat).
+- le dossier scolaire du candidat : photocopies certifiées conformes par l'établissement d'origine des
+bulletins scolaires (notes et appréciations) trimestriels ou semestriels des classes de première et
+terminale.
+Compte tenu de la date de remise des dossiers, seules les notes et appréciations obtenues par l'élève au
+jour de l'élaboration du dossier sont prises en compte. Les bulletins du 3ème trimestre de classe
+terminale ne sont donc pas pris en considération.
+En cas de redoublement de classe le candidat devra faire figurer les résultats correspondant à la
+deuxième année (année redoublée).
+- Autres pièces justificatives éventuelles : résultats obtenus à l'issue d'études supérieures, résultats
+d'examen pour les candidats déjà titulaires du baccalauréat.
+- Tous autres documents pouvant être jugés intéressants par le candidat.
+- Un chèque de 80 francs par dossier est établi à l'ordre de Monsieur l'Agent Comptable de
+l'établissement public chargé de remettre et de recevoir les dossiers. Ce chèque couvre partiellement
+les frais d'instruction des dossiers et transmission des résultats aux candidats.
+Le dossier complet devra être parvenu dans l'établissement mentionné en 1er voeu avant le 30 avril
+1999.
+2.4. Calcul des points
+Le calcul des points s'effectue sur 3 critères :
+- appréciation sur les résultats de la classe de 1ère
+- appréciation sur les résultats de la classe terminale
+- aptitude à suivre une classe préparatoire.
+L'appréciation sur les résultats de la classe de première est portée à partir des notes obtenues pour
+l'épreuve anticipée du baccalauréat en français d'une part et de l'ensemble des bulletins scolaires de la classe de
+1ère.
+L'appréciation sur les résultats de la classe de terminale est réalisée à partir des résultats obtenus dans les
+cinq disciplines retenues pour l'enseignement de ces classes, d'une appréciation de l'ensemble du dossier
+scolaire de classe terminale et de la position de l'élève dans la classe.
+L'aptitude à suivre une classe préparatoire est appréciée à partir des indications formulées dans le dossier
+par les enseignants de classe terminale et le chef d'établissement.
+Le calcul des points sera déterminé dans le cadre de la commission d'évaluation de l'établissement demandé en
+premier voeu qui se réunira avant le 10 mai 1999.
+R e p o r t d ’ a d m i s s i o n
+Il est rappelé que seul le départ au service national peut donner lieu à un report d'admission.
+Il est recommandé aux étudiants désirant poursuivre leurs études dans l'enseignement supérieur de
+choisir leur période d'incorporation :
+1° En correspondance avec une année scolaire, avec incorporation au 1er octobre ou au 1er août.
+
+4
+Pour cela, la demande d’incorporation doit parvenir au bureau du service national deux mois au moins
+avant la date de l'incorporation souhaitée ;
+2° De manière à permettre un déroulement complet d'un cycle d'études, surtout quand il s'agit d'une
+préparation à un concours.
+Il est conseillé à tout candidat devant être appelé au service national avant la fin de ses études de
+demander à être incorporé avant de commencer ce cycle de formation.
+Les dispositions permettant de reporter la date d'appel peuvent être consultées auprès des bureaux du
+service national.
+3 . A c h e m i n e m e n t d u d o s s i e r d e c a n d i d a t u r e
+La disquette de saisie, avec un exemplaire de la liste numérique sur laquelle seront pointés les dossiers,
+parviendra au secrétariat de la commission nationale à Dijon, le 17 mai 1999, délai de rigueur.
+à l ' a d r e s s e s u i v a n t e :
+Direction régionale de l'agriculture et de la forêt
+Service régional de la formation et du développement
+de la région Bourgogne
+22 D, boulevard Winston Churchill
+BP 87865
+21078 DIJON CEDEX
+Tél : 03 80 39 30 69
+Fax : 03 80 78 76 30
+Le secrétariat de la commission à DIJON sera chargé de l'établissement des listes de candidats pour
+chacune des sections préparatoires par ordre de mérite décroissant.
+La commission nationale qui se réunira le 27 mai 1999 établira une liste des candidats admis en liste
+principale et une liste complémentaire des candidats susceptibles d'être admis.
+Les dossiers de candidature aux sections de BTSA des candidats admis et ayant opté pour une
+admission prioritaire en classe préparatoire aux ENSA / ENITA, ENV seront éliminés de la liste des
+dossiers soumis à la commission nationale d'admission en sections préparatoires au BTSA.
+4 - Décisions d'admission
+A l'issue de la commission nationale, chaque établissement sera chargé d'avertir les candidats de la suite
+réservée à leur demande dans les cas :
+- d'admission
+- d'inscription en liste d'attente
+- de refus (par l'établissement demandé en 1er voeu).
+
+5
+COMMISSION NATIONALE D’ADMISSION DANS LES CLASSES
+PREPARATOIRES AUX CONCOURS ET AUX BTSA
+Service régional de la formation et du développement
+22 D, Bd Winston Churchill - B.P. 87865 - 21078 DIJON Cedex
+Tél.: 03 80 39 30 69
+1999
+Calendrier des opérations
+PREPA Concours A
+Retrait des dossiers dans l'établissement de premier voeu
+A partir du 9 mars 1999
+Dépôt des dossiers à l'établissement de premier voeu
+avant le 30 avril 1999
+Instruction des dossiers
+Réunion des commissions d'évaluation
+Jusqu’au 10 mai 1999
+Saisie des dossiers
+Jusqu’au 14 mai 1999
+Commission nationale de recrutement
+Jeudi 27 mai 1999
+Information des candidats sur les décisions de la
+commission
+Du 28 mai au 4 juin 1999
+Gestion des listes d'attente
+Juin 1999
+Edgar LEBLANC
+Sous-directeur de la Politique des Formations
+de l'Enseignement Général, Technologique et professionnel
+
+6
+ MINISTERE DE L’AGRICULTURE ET DE LA PECHE
+DIRECTION GENERALE DE L’ENSEIGNEMENT ET DE LA RECHERCHE
+ Sous-Direction Politique des Formations de l'Enseignement Général,
+Technologique et Professionnel
+ Bureau de la Politique des Structures et de la Prévision
+ 1 ter, avenue de Lowendal - 75700 PARIS 07 SP
+ Anne-Michèle VACHIER - Tél. : 01.49.55.55.08
+ En cas d'urgence, utiliser la Télécopie : 0149555617
+ °°°°°
+ NOTE TECHNIQUE A
+Mesdames et Messieurs les Chefsd'établissement chargés d'instruire
+les dossiers de candidature en classes préparatoires aux concours d'entrée aux Ecoles Supérieures
+(Concours A)
+Cette note résume les modalités pratiques de traitement des dossiers précités par
+l'établissement instructeur, qui est l'établissement demandé par le candidat en 1er voeu.
+Compte tenu du fait que le modèle de dossier est établi pour plusieurs années, le millésime de
+la rentrée doit être complété :
+1° - en tête du dossier : 1999
+2° - dans les trois lignes de la rubrique " SCOLARITE ANTERIEURE ",
+pour cette année 1999, il faut indiquer :
+. 1996.97
+. 1997.98
+. 1998.99
+DS@HDT@9@TDHQSDH@T
+Afin d'éviter des erreurs de transmission, il est indispensable que chaque établissement
+appose son cachet au bas de la page 4 de l'imprimé n° 1 avant la remise aux candidats.
+DD8PGG@8U@9@T9PTTD@ST
+'qVUpFHSWLRQGHVGRVVLHUVOHXUFRQWHQXGRLWrWUHYpULILp
+2.1 - S'assurer que le dossier correspond bien à la demande du candidat.
+Couleur du dossier : Rose = tous les candidats pour les classes
+préparatoires aux concours A fonctionnant dans les L.E.G.T.A.
+2.2 - 7RXWHV OHV UXEULTXHV VRQW UHQVHLJQpHV proprement et
+lisiblement, tant par l'élève que par le chef d'établissement d'origine.
+Contrôler en particulier :
+2.21 : que les sections sollicitées sont bien indiquées dans l'ordre de
+priorité des voeux.
+2.22 : qu'un VHXOpWDEOLVVHPHQWest indiqué dans chacune des 4 cases
+du tableau "Sections sollicitées" qui peuvent être remplies par le
+candidat.
+2.23 : que la page 2 (Résultats de l'élève et avis motivés) est
+correctement remplie et signée par le chef d'établissement d'origine.
+2.3 - Tous les bulletins scolaires, ainsi que les relevés de notes obtenues à
+l'examen (épreuves anticipées) - copies OLVLEOHV et non originaux - sont joints.
+2.4 - Le chèque de 80,00 Francs est correctement libellé.
+Tout dossier incomplet ou incorrectement rédigé doit être renvoyé d'urgence au candidat.
+DDD8PU6UDPI8P96B@@UT6DTD@ DIAPSH6UDRV@ 9@T
+9PTTD@ST
+
+7
+Les dossiers de demande d’admission sont de couleur rose.
+3.1 - &RWDWLRQGXGRVVLHU
+3.11 : Elle est effectuée à partir :
+a) des tableaux de la page 2 de l'imprimé n° 1 (Résultats de l'élève
+en classe de Terminale, notes obtenues aux épreuves anticipées de Français,
+appréciation des professeurs),
+ b) du dossier scolaire de l'élève (bulletins trimestriels de la classe
+de 1ère et de Terminale).
+3.12 : La cotation est effectuée sous la responsabilité de la
+&RPPLVVLRQ G
+(YDOXDWLRQ qui se réunira à l'initiative de l'établissement
+instructeur, hëhüçyr Çhv (((
+3.13 : Récapitulatif du report de la cotation du dossier :
+Dans le petit tableau en bas à droite du cadre grisé réservé à l’administration, page 1,
+le lycée chargé de la saisie reportera les notes obtenues en page 3 intérieure,
+concernant :
+- la note obtenue au vu des résultats et appréciations en classe de 1ère ............
+C1
+- la note obtenue au vu des résultats et appréciations en classe de Terminale .....
+C2
+- la note obtenue sur l'aptitude à suivre une classe préparatoire .....................
+CP
+et inscrira le total correspondant dans chaque case.
+3.2 - &RGDJHGHVGRVVLHUV
+3.21 : Le numéro de dossier et le code de l'établissement d'origine ne
+seront remplis qu'au moment de la saisie informatique. Ils s'affichent à l'écran dès que
+tous les éléments du dossier sont saisis.
+3.22 : 6FRODULWpDQWpULHXUH
+Elle est indiquée en toutes lettres et nécessaire pour l'étude du dossier par les
+membres de la Commission. Pour les besoins de la saisie informatique ultérieure,
+VHXOHVHUDFRGpHO
+DQQpHDFWXHOOHGHIRUPDWLRQ
+&$6*(1(5$/SUpSDUDWLRQGXGLSO{PHjODVHVVLRQ
+&RGH
+. Baccalauréat technologique S.T.A.E. ...............................
+L
+. Baccalauréat technologique S.T.P.A. ...............................
+I
+. Baccalauréat série S préparé dans l'enseignement agricole ...
+P
+. Baccalauréat série S préparé à l'Education Nationale ...........
+S
+. Baccalauréat série ES ....................................................
+J
+. Baccalauréat technologique STL ......................................
+F
+. Baccalauréat technologique STT ......................................
+G
+. Baccalauréat technologique STI .......................................
+H
+. Baccalauréat professionnel ............................................
+W
+. Autres baccalauréats .....................................................
+Z
+ &$6 '(6 &$1','$76 (1 6(&7,216 35(3$5$72,5(6 $8;
+&21&2856'80,1,67(5(
+'(/
+$*5,&8/785((1
+- et titulaires du baccalauréat S préparé dans l'enseignement agricole ou
+ du baccalauréat technologique STAE, STPA ........................... R
+ (Bac S de l'enseignement agricole, bac technologique STAE, STPA : ne
+pas les coder L, I ou P)
+- et titulaires d'un autre baccalauréat ................................................Q
+ (ne pas les coder S ou X)
+&$6'(6&$1','$76(1328568,7('
+(78'(6 (quelles qu'elles
+soient) HQ
+- et déjà titulaires du bac S de l'enseignement agricole, du B.T.A.,
+ du bac techno STAE, STPA ...........................................................Y
+- et déjà titulaires d'un autre diplôme ................................................U
+Remarque : Pour l'élève titulaire d'un ancien diplôme et qui n'aurait pas poursuivi
+d'études, on utilisera le code de l'ancien diplôme ou, à défaut, le code du diplôme
+actuel correspondant.
+
+8
+3.23 : &RGHGHVVHFWLRQVsollicitées (page 1 de l'imprimé n° 1) :
+On reportera dans les 4 cases prévues à cet effet les 4 lettres " Option + établissement
+" qui caractérisent la section choisie. Exemple : ENTO pour Prépa option ENSA-
+ENITA au L.E.G.T.A. de TOULOUSE.
+3.24 : 3UpIpUHQFH
+. IQ ouU selon la case cochée par le candidat.
+3.3 - 6DLVLHLQIRUPDWLTXHGHVGRVVLHUV
+Lorsque la page 1 de la demande d'admission est entièrement complétée, les dossiers
+peuvent être saisis. Il n'est donc pas nécessaire d'être en possession de tous les
+dossiers pour commencer ce travail. Les consignes et la disquette de saisie sont
+adressées par le Service Régional de la Formation et du Développement (S.R.F.D.)
+de Bourgogne aux établissements instructeurs.
+GråàrüårvtürÇrüçåqryhâàrÇvqàrâhtrqrëàéüçrçàråhvåvåçàqå
+åévtürêårÇrüç rç çàqå ræhpçrÇrüç Vü péüçà{yr àvtéêàrêæ qrå
+qéüüprå rüàrtvåçàprå qrëàh rçàr rssrpçêp hëhüç yrüëév hê
+årpàpçhàvhçqryh8éÇÇvååvéüIhçvéühyr
+adresse : 
+DRAF SRFD Bourgogne
+22D, Bd Winston Churchill
+BP 87865 21078 DIJON Cedex
+Une fois soigneusement vérifiée, la disquette de saisie devra être expédiée de façon à
+parvenir au S.R.F.D. Bourgogne âéêàyr &Çhv (((qpyhvqràvtêrêà
+Prévoir l'envoi en conséquence.
+DWUS6ITHDTTDPI9@T9PTTD@ST
+Tous les dossiers de candidature, auxquels seront joints les avis de la Commission
+d'évaluation, seront apportés à la Commission Nationale de DIJON, le jeudi 27 mai
+1999, par les opérateurs issus des établissements instructeurs.
+A l'issue de la Commission Nationale, les résultats seront transmis au secrétariat de la
+Commission pour enregistrement.
+Les établissements instructeurs avertiront directement, du 28-30 mai au 4 juin 1999,
+les candidats aux sections préparatoires aux concours de la suite réservée à leur
+demande :
+- Inscription en liste d'admission
+- Inscription en liste d'attente
+- Refus
+à l'aide des lettres types fournies par le secrétariat de la Commission.
+WPQ@S6UDPIT8PHQU67G@TQPVS@I86DTT@H@IU@U
+S@W@ST@H@IUQPVSAS6DT9@9PTTD@S
+Les chèques de 80,00 Francs/dossier, remis par les candidats, sont libellés à l'ordre de
+l'agent comptable de l'établissement chargé de l'étude des dossiers au niveau
+départemental (à préciser clairement aux candidats lors de l'envoi ou du retrait des
+dossiers).
+Ces ressources donnent lieu à l'émission, par l'ordonnateur, d'ordres de recette en
+compte 706 " Prestations de service ".
+Au reçu des dossiers de la Commission Nationale, une facture sera adressée à
+l'établissement représentant 45 Francs par dossier.
+Elle sera à régler à l'Agent Comptable du Lycée d'Enseignement Général et
+Technologique Agricole de FONTAINES (71).
+----o0o----
