@@ -1,0 +1,165 @@
+# Cette note de service a pour objet de préciser les modalités d'organisation de la session d'accompagnement de la rénovation du BTSA - ACSE
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN992084
+- Numéro : DGER/POFEGTP/N99-2084
+- Date de signature : 1999-08-19
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 12910 (PDF officiel : pdf/2009/04/cir_12910.pdf)
+
+## Texte
+
+MINISTERE DE L’AGRICULTURE ET DE LA PECHE
+DIRECTION GENERALE DE L’ENSEIGNEMENT ET DE LA RECHERCHE
+ SOUS-DIRECTION DE LA POLITIQUE DES
+FORMATIONS DE L’ENSEIGNEMENT
+ GENERAL, TECHNOLOGIQUE ET PROFESSIONNEL
+ Bureau de la formation des personnels et de l’information
+ Tél. : 01.49.55.51.61
+ 1 ter, avenue de Lowendal
+ 75700 PARIS 07 SP
+NOTE DE SERVICE
+DGER/POFEGTP/N99-2084
+DATE : 19 AOUT 1999
+CLASSEMENT :
+ LE MINISTRE DE L'AGRICULTURE ET DE LA PECHE
+ à
+ Messieurs les Directeurs Régionaux
+ de l'Agriculture et de la Forêt
+ OBJET : Organisation de la session d’accompagnement de la rénovation du BTSA – ACSE.
+DATE DE MISE EN APPLICATION : immédiate (URGENT)
+ PLAN DE DIFFUSION
+ Administration centrale - Diffusion B
+ Directions Régionales de l'Agriculture et de la Forêt
+ Directions de l'Agriculture et de la Forêt des DOM
+ Inspection Générale de l'Agriculture
+ Hauts-Commissariats de la République des TOM
+ Conseil Général de l'Agronomie
+ Inspection de l'Enseignement Agricole
+ Etablissements Publics Nationaux et Locaux d'Enseignement Agricole
+ Unions Nationales Fédératives d'Etablissements Privés
+ POUR INFORMATION
+ Organisations Syndicales de l'Enseignement Agricole Public
+ Fédérations d'Associations de Parents d'Elèves de l'Enseignement Agricole Public
+
+Cette note de service a pour objet de préciser les modalités d’organisation de la session d’accompagnement
+de la rénovation du BTSA – ACSE.
+4 regroupements sont organisés aux dates, lieux et selon découpage précisés ci-dessous.
+Chaque établissement envoie trois enseignants :
+- 
+1 enseignant de techniques de production ;
+- 
+1 enseignant d’économie gestion ;
+- 
+l’enseignant en charge de l’histoire géographie.
+Parmi ces trois enseignants il devra y avoir le responsable de la filière.
+Pour tenir compte du nombre élevé d’établissements, dépassant nos capacités d’accueil, les formations qui
+sont sur un même EPLEFPA sont considérées comme un seul établissement.
+Objectifs et organisation de la session
+1ère demi-journée :
+- rappeler l’ancrage de la formation dans le monde professionnel. Des professionnels feront part de leur
+expérience sur les évolutions en cours, notamment en ce qui concerne les relations entre l’agriculture et le
+territoire.
+2ème et 3ème demi-journées : travaux en ateliers
+- échanger et faire le point sur les pratiques pédagogiques mises en œuvre.
+4ème demi-journée :
+- harmoniser les règles d’évaluation.
+- bilan de la session.
+Inscription.
+Les stagiaires feront parvenir, par la voie hiérarchique, leur inscription ( fiche ci-jointe ) au GRAF responsable
+de la session impérativement avant la date limite indiquée ci-dessus.
+Les modalités pratiques seront portées à la connaissance des agents par le GRAF responsable.
+Les ordres de mission seront délivrés par le DRAF-SRFD de la région d’affectation.
+La prise en charge des frais de déplacement se fera selon la procédure habituelle aux stages nationaux.
+L’hébergement est pris en charge par la région responsable de l’organisation du regroupement sur des crédits
+affectés à cet effet.
+
+Organisation des regroupements.
+Attention : pour équilibrer le nombre des participants, le découpage territorial correspond parfois à un
+découpage départemental et non régional. Il convient de bien vérifier à quelle session votre établissement est
+rattaché.
+Zone concernée
+GRAF responsable
+Date et lieu
+Date limite d’inscription
+Nord-Pas de Calais,
+Picardie, Ile de France,
+Champagne-Ardennes,
+Lorraine, Bourgogne,
+Alsace, Franche-Comté,
+Eure et Loir, Loiret, Allier
+J.L.Minier
+SRFD Bourgogne
+29 septembre au 1er
+octobre 1999
+Ecole des Greffes - Dijon
+10 septembre 1999
+ Basse-Normandie,
+Haute-Normandie,
+Bretagne, Mayenne,
+Sarthe, Loire-Atlantique
+M.Duvigneau
+SRFD Bretagne
+06 au 08 octobre 1999
+Vacanciel - Mur de
+Bretagne
+10 septembre 1999
+Rhône-Alpes, P.A.C.A.,
+Languedoc-Roussillon,
+Cantal, Puy de Dôme,
+Haute-Loire, Aveyron,
+Corse
+X.Barel
+SRFD Rhône-Alpes
+11 au 13 octobre 1999
+Vacanciel l’Epervière -
+Valence
+17 septembre 1999
+Aquitaine, Limousin ,
+Poitou-Charentes, Cher,
+Vendée, Maine et Loire,
+Midi-Pyrénées sauf
+Aveyron
+B.Poirier
+SRFD Poitou-Charentes
+25 au 27 octobre 1999
+relais Soleil les Bruyères
+– Carcans-Maubuisson
+24 septembre 1999
+Les sessions commencent à 14H et se terminent à 12H.
+Sous-directeur de la Politique des Formations
+de l'Enseignement Général, Technologique et professionnel
+Edgar LEBLANC
+
+Ministère de l’agriculture et de la pêche
+DGER – s/d POFEGTP – bureau FORMINFO
+1999
+Session d’accompagnement BTSA – ACSE
+Fiche d’inscription individuelle
+A renvoyer pour la date indiquée sur la note de service
+au délégué GRAF responsable
+Code SAFO*
+(pour les agents des établissements publics)
+*code utilisé pour l’inscription aux stages de formation continue
+Nom
+ Région
+Prénom
+ Statut de l’établissement :
+public
+CNEAP
+UNREP
+Etablissement
+UNMFREO
+Type de formation :
+Discipline enseignée :
+- formation scolaire
+- techniques de production
+- apprentissage
+- économie-gestion
+- formation professionnelle
+- histoire-géographie
+Responsable de filière oui non 
+Visa du chef d’établissement Visa de l’autorité académique
