@@ -1,0 +1,13 @@
+# Grille_éval_ET1_BEPA
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN912074
+- Numéro : DGER/POFET/N91/N°2074
+- Date de signature : 1991-06-18
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 15941 (PDF officiel : pdf/2009/04/cir_15941.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
