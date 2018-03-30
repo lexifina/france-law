@@ -1,0 +1,13 @@
+# ET3 du BTSA GDEA
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN972122
+- Numéro : DGER/POFEGTP/N97/N°2122
+- Date de signature : 1997-10-31
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 14386 (PDF officiel : pdf/2009/04/cir_14386.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
