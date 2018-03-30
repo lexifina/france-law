@@ -1,0 +1,78 @@
+# BTSA option IAA : enseignement de la méthode
+
+- État : abrogée (au 2018-03-30)
+- NOR : DGERN992004
+- Numéro : DGER/POFEGTP/N99-2004
+- Date de signature : 1999-01-06
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche, Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 9964 (PDF officiel : pdf/2009/04/cir_9964.pdf)
+
+## Texte
+
+MINISTERE DE L'AGRICULTURE ET DE LA PÊCHE
+DIRECTION GENERALE DE L’ENSEIGNEMENT ET DE LA RECHERCHE
+ SOUS-DIRECTION DE LA POLITIQUE
+ DES FORMATIONS DE L’ENSEIGNEMENT GENERAL,
+ TECHNOLOGIQUE ET PROFESSIONNEL
+ Bureau des Enseignements Technologiques
+ et Professionnels
+ 1 ter, avenue de Lowendal - 75700 PARIS 07 SP
+ Tél. : 01-49-55-52-72
+ Fax. : 01-49-55-56-17
+ NOTE DE SERVICE DGER/POFEGTP/N99-2004
+ DATE 06 JANVIER 1999
+ CLASSEMENT
+ LE MINISTRE DE L'AGRICULTURE ET DE LA PÊCHE
+ À
+ MESSIEURS LES DIRECTEURS RÉGIONAUX
+ DE L'AGRICULTURE ET DE LA FORÊT
+ OBJET : BTSA option IAA : enseignement de la méthode "Hazard Analysis Critical Control Points" (HACCP)
+ ou "Analyse des risques, points critiques pour leur maîtrise".
+ DATE DE MISE EN APPLICATION : Immédiate.
+ PLAN DE DIFFUSION
+ Administration centrale - Diffusion B
+ Directions Régionales de l'Agriculture et de la Forêt
+ Directions de l'Agriculture et de la Forêt des DOM
+ Inspection Générale de l'Agriculture
+ Hauts-Commissariats de la République des TOM
+ Conseil Général de l'Agronomie
+ Inspection de l'Enseignement Agricole
+ Etablissements Publics Nationaux et Locaux d'Enseignement Agricole
+ Unions Nationales Fédératives d'Etablissements Privés
+ POUR INFORMATION
+ Organisations Syndicales de l'Enseignement Agricole Public
+ Fédérations d'Associations de Parents d'Elèves de l'Enseignement Agricole Public
+
+La présente note de service a pour objet de rappeler que la méthode HACCP doit être enseignée dans la
+formation de toutes les spécialités de l'option "Industries Agro-Alimentaires" (IAA) du BTSA.
+En effet, la méthode HACCP fait partie de la nouvelle approche réglementaire en matière de sécurité des
+denrées 
+alimentaires, 
+développée 
+en 
+application 
+de 
+la 
+directive 
+93/43/CEE
+du 14 juin 1993.
+Il est fait référence à cette méthode HACCP de façon explicite dans les recommandations pédagogiques des
+objectifs II des modules D421, D431 et D441 et dans le contenu de l'objectif III du module D444.
+Il est recommandé de mettre en oeuvre une séquence de formation en pluridisciplinarité sur ce thème, intégrant
+une approche pratique (analyse d'une chaîne de fabrication dans une entreprise ou dans l'atelier technologique
+de l'établissement).
+Celle-ci devra permettre aux étudiants de percevoir l'ensemble des incidences (économiques, humaines,
+techniques ...) de la mise en place de la méthode HACCP dans une unité de production.
+Les enseignants sont invités à participer aux stages de formation prévus dans le cadre du programme national de
+formation.
+Bibliographie sommaire :
+1. La sécurité alimentaire par le système HACCP - Ministère de l'agriculture, de la pêche et de l'alimentation -
+DGAL - 1995
+2. La qualité microbiologique des aliments : maîtrise et critères - JOUVE JL. -
+ Polytechnica - 2ème - Edition 1996
+3. HACCP, guide pratique MORTIMORE S. et WALLACE C. - Polytechnica - 1996
+Le Sous-directeur
+Edgar LEBLANC
