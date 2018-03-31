@@ -32,7 +32,7 @@ La valeur du rendement réel du régime est fixée comme suit :
 
 - au 1er avril 2017 : 7,75 %.
 
-A partir du 1er janvier 2018, la valeur de service du point, le salaire de référence et le rendement réel sont fixés chaque 1er avril en application de la règle d'évolution arrêtée dans le cadre du plan quadriennal prévu au III de l'article 2 du décret n° 70-1277 du 23 décembre 1970 modifié.
+A partir du 1er janvier 2018, la valeur de service du point, le salaire de référence et le rendement réel sont fixés à la date prévue à l'article L. 161-23-1 du code de la sécurité sociale en application de la règle d'évolution arrêtée dans le cadre du plan quadriennal prévu au III de l'article 2 du décret n° 70-1277 du 23 décembre 1970 modifié.
 
 A défaut de ce plan, les règles d'évolution des paramètres prévues au III du même article sont les suivantes :
 
@@ -45,3 +45,7 @@ A défaut de ce plan, les règles d'évolution des paramètres prévues au III d
 - pour la part du revenu inférieure au plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, 0,016 % à la charge de l'employeur et 0,016 % à la charge du salarié ;
 
 - pour la part du revenu supérieure au plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, 0,04 % à la charge de l'employeur et 0,04 % à la charge du salarié.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 29 mars 2018, pour l'année 2018, la fixation du salaire de référence et du rendement réel mentionnés au quinzième alinéa de l'article 9 bis prend effet au 1er janvier. La prochaine évolution de la valeur de service mentionnée au même alinéa du même article, réalisée en application du 7° de l'article 1er de l'arrêté susdit, intervient le 1er janvier 2019.
