@@ -836,7 +836,7 @@ Article 43
 
 Règles de coordination
 
-L'agent qui cesse d'être affilié au régime, pour quelque cause que ce soit, sans avoir atteint la durée minimale d'affiliation prévue à l'article 1er de la présente annexe, est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait eue s'il avait été affilié au régime général de sécurité sociale selon les dispositions des articles D. 173-15 à D. 173-20. Ces droits sont également rétablis à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités territoriales pour les droits constitués pendant la période où il a été affilié au présent régime.
+L'agent qui cesse d'être affilié au régime, pour quelque cause que ce soit, sans avoir atteint la durée minimale d'affiliation prévue à l'article 1er de la présente annexe, est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait eue s'il avait été affilié au régime général de sécurité sociale selon les dispositions des articles D. 173-15 à D. 173-20. Ces droits sont également rétablis aux institutions de retraite complémentaire mentionnées à l'article L. 921-4 pour les droits constitués pendant la période où il a été affilié au présent régime.
 
 Les dispositions de l'alinéa précédent sont applicables à l'ensemble des agents ayant été affiliés à la Caisse nationale des industries électriques et gazières quelle que soit la date de leur cessation d'activité et dont les droits n'ont pas encore été liquidés.
 
@@ -1899,3 +1899,7 @@ L'examen d'une requête ne peut avoir pour effet de réduire le taux de services
 D. Services sédentaires.
 
 Tout emploi qui n'est pas classé en services actifs est classé en services sédentaires.
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2018-214 du 29 mars 2018, l'article 43 de l'annexe 3 dans sa rédaction antérieure au présent décret demeure applicable aux assurés dont les droits ont été rétablis à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités territoriales avant l'entrée en vigueur dudit décret.
