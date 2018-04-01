@@ -1,0 +1,63 @@
+# Article 1er
+
+L'article 13 du chapitre VI intitulé « Préambule » des dispositions particulières applicables aux techniciens et agents de maîtrise ainsi que celui applicable aux cadres sont supprimés et remplacés par les dispositions suivantes :
+
+« Article 13
+
+Préambule
+
+Les salariés bénéficiant du statut de technicien agent de maîtrise ou de cadre relevant de l'AGIRC bénéficient désormais d'un régime collectif de protection sociale conventionnel de prévoyance, frais de santé et retraite supplémentaire selon les modalités et garanties établies par l'accord national du 15 juin 2012, tel que modifié par l'avenant n° 3 du 24 mai 2017.
+
+En conséquence, les organisations signataires conviennent que la convention collective nationale du 10 octobre 2008 fixe, d'une part, les taux de cotisations des garanties de prévoyance, d'autre part, les taux de la retraite supplémentaire et enfin les taux de cotisations de la garantie frais de santé.
+
+Taux de cotisations et répartitions
+
+1. Garanties de prévoyance
+
+En contrepartie des garanties fixées par l'avenant n° 3 à l'accord collectif du 15 juin 2012, le taux global de la cotisation prévoyance est fixé à :
+
+– 2,06 % sur la tranche A (salaire limité au plafond des assurances sociales agricoles) ;
+
+– 3,30 % sur les tranches B et C (salaire compris entre 1 fois et 8 fois le plafond des assurances sociales agricoles).
+
+Un taux d'appel peut être fixé chaque année par la commission paritaire de suivi en fonction des résultats du régime.
+
+Pour 2018, le taux d'appel est de 100 %.
+
+Concernant le risque incapacité temporaire :
+
+– la garantie correspondant à l'obligation de mensualisation de l'employeur est à la charge exclusive de celui-ci et correspond à une cotisation de 0,35 % sur la tranche A et de 0,56 % sur les tranches B et C ;
+
+– la garantie correspondant au relais mensualisation est, quant à elle, à la charge exclusive du salarié et correspond à une cotisation de 0,29 % sur la tranche A et de 0,81 % sur les tranches B et C.
+
+2. Garantie frais de santé
+
+La cotisation mensuelle frais de santé, toutes taxes comprises au jour de la signature du présent avenant, est égale à :
+
+– 2,61 % de la rémunération brute de la tranche A avec une assiette minimale de 1,89 % du plafond mensuel des assurances sociales agricoles, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Pour l'Alsace et la Moselle, cette cotisation mensuelle est de 1,70 % de la rémunération brute de la tranche A avec une assiette minimale de 1,23 % du plafond mensuel des assurances sociales, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Un taux d'appel pour cette partie de la cotisation peut être fixé chaque année par la commission paritaire de suivi en fonction des résultats du régime.
+
+Pour 2018, le taux d'appel est de 100 %.
+
+– 1,26 % du plafond mensuel des assurances sociales agricoles, prise en charge à 50 % par l'employeur et à 50 % par le salarié. Pour l'Alsace et la Moselle, cette cotisation mensuelle est égale à 1,14 % du plafond mensuel des assurances sociales, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Toute nouvelle taxe, charge, contribution ou majoration de ces dernières qui entrerait en vigueur postérieurement à la date de signature du présent avenant et dont la répercussion ne serait pas interdite, sera automatiquement répercutée sur les présentes cotisations après consultation et avis préalable de la commission paritaire de suivi.
+
+3. Garantie de retraite complémentaire
+
+Conformément à l'évolution du régime de protection sociale, mis en place par la convention collective nationale de 1952, les garanties de retraite complémentaire initialement gérées par l'agriculture ont été confiées depuis le 1er janvier 1997 aux institutions de retraite complémentaire ARRCO/ AGIRC et le resteront.
+
+Les prestations, les cotisations afférentes ainsi que les modalités de versement de celles-ci sont définies comme étant celles applicables aux régimes ARRCO et AGIRC en vigueur et définies par lesdits régimes.
+
+À la date du 1er janvier 2015, le taux est fixé à (hors taux d'appel) :
+
+– 8 % (tranche A) au titre de la retraite complémentaire ARRCO, répartie à raison de 62 % à la charge de l'employeur et 38 % à la charge du salarié (soit 4,96 % à la charge de l'employeur et 3,04 % à la charge du salarié) ;
+
+– 16,44 % (tranches B et C) au titre de la retraite complémentaire AGIRC, répartie à raison de 62,04 % à la charge de l'employeur et 37,96 % à la charge du salarié (soit 10,20 % à la charge de l'employeur et 6,24 % à la charge du salarié).
+
+Ces cotisations sont versées aux institutions de retraite complémentaire ARRCO et AGIRC auxquelles doivent adhérer les entreprises ou exploitations agricoles entrant dans le champ d'application de la présente convention (à ce jour la CAMARCA, ou toute autre institution désignée pour l'ARRCO, et AGRICA retraite AGIRC).
+
+Toute nouvelle entreprise créée à compter du 1er janvier 2002 relevant du champ d'application de la convention collective nationale des entreprises du paysage du 10 octobre 2008 a l'obligation de cotiser auprès de la CAMARCA. »
