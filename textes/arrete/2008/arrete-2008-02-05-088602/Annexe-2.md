@@ -1,88 +1,80 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2017
+AU 1ER AVRIL 2018
 
-PAYS DE RÉSIDENCE (RYTHME SUD) |
+Rythme Sud
 
-ENFANTS
+Pays de résidence (rythme sud) |
 
-de moins de 10 ans |
+Enfants de moins de 10 ans |
 
-ENFANTS
+Enfants de 10 à 15 ans |
 
-de 10 à 15 ans |
-
-ENFANTS
-
-de plus de 15 ans |
+Enfants de plus de 15 ans |
 
 ARGENTINE |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-658 |
+6905 |
 
-691 |
+7217 |
 
-755 |
+7884 |
 
 b) Droits de première inscription |
 
-1 294 |
+1112 |
 
-1 294 |
+1112 |
 
-1 294 |
+1112 |
 
 BOLIVIE |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-462 |
+5087 |
 
-473 |
+5198 |
 
-483 |
-
-b) Droits de première inscription |
-
-1 449 |
-
-1 485 |
-
-1 522 |
-
-BRESIL
-
-(Rio) |
-
-a) Montant mensuel |
-
-933 |
-
-966 |
-
-966 |
+5310 |
 
 b) Droits de première inscription |
 
-0 |
+1310 |
 
-0 |
+1344 |
 
-0 |
+1377 |
 
-BRESIL
+BRESIL (Rio) |
 
-(Sao Paulo) |
+a) Montant annuel |
 
-a) Montant mensuel |
+10162 |
 
-892 |
+10442 |
 
-972 |
+10515 |
 
-972 |
+b) Droits de première inscription |
+
+787 |
+
+689 |
+
+816 |
+
+BRESIL (Sao Paulo) |
+
+a) Montant annuel |
+
+9980 |
+
+10871 |
+
+10871 |
 
 b) Droits de première inscription |
 
@@ -94,90 +86,90 @@ b) Droits de première inscription |
 
 CHILI |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-579 |
+6980 |
 
-579 |
+6980 |
 
-579 |
+6980 |
 
 b) Droits de première inscription |
 
-3 472 |
+3361 |
 
-3 472 |
+3361 |
 
-3 472 |
+3361 |
 
 COSTA RICA |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-437 |
+4339 |
 
-437 |
+4339 |
 
-437 |
+4339 |
 
 b) Droits de première inscription |
 
-0 |
+345 |
 
-0 |
+345 |
 
-0 |
+345 |
 
 PEROU |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-524 |
+6186 |
 
-524 |
+6186 |
 
-524 |
+6186 |
 
 b) Droits de première inscription |
 
-981 |
+715 |
 
-720 |
+639 |
 
-451 |
+401 |
 
 URUGUAY |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-708 |
+8188 |
 
-802 |
+9030 |
 
-843 |
+9420 |
 
 b) Droits de première inscription |
 
-259 |
+245 |
 
-452 |
+427 |
 
-452 |
+427 |
 
 VANUATU |
 
-a) Montant mensuel |
+a) Montant annuel |
 
-408 |
+4532 |
 
-463 |
+5136 |
 
-512 |
+5672 |
 
 b) Droits de première inscription |
 
-759 |
+681 |
 
-759 |
+681 |
 
-759 |
+681 |
