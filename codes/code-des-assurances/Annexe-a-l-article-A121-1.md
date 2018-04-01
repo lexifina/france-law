@@ -54,7 +54,7 @@ Toutefois, le transfert de la réduction n'est applicable que si le ou les condu
 
 Art. 11.-Si le contrat concerne un véhicule précédemment garanti par un autre assureur, le coefficient de réduction-majoration applicable à la première prime est calculé en tenant compte des indications qui figurent sur le relevé d'informations mentionné à l'article 12 ci-dessous, et des déclarations complémentaires de l'assuré.
 
-Art. 12.-L'assureur délivre au souscripteur un relevé d'informations lors de la résiliation du contrat par l'une des parties et dans les quinze jours à compter d'une demande expresse du souscripteur.
+Art. 12.-L'assureur fournit au souscripteur un relevé d'informations lors de la résiliation du contrat par l'une des parties et dans les quinze jours à compter d'une demande expresse du souscripteur.
 
 Ce relevé comporte notamment les indications suivantes :
 

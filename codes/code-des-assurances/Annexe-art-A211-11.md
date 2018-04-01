@@ -202,7 +202,7 @@ Lorsque vous recevez l'offre, vous pouvez :
 
 Accepter.
 
-Dans les quinze jours qui suivent votre accord, vous pouvez le dénoncer par lettre recommandée avec accusé de réception.
+Dans les quinze jours qui suivent votre accord, vous pouvez le dénoncer par lettre recommandée ou par envoi recommandé électronique avec accusé de réception.
 
 Si vous agissez en tant que représentant légal d'un mineur ou d'un majeur incapable, il vous faut l'accord du juge des tutelles ou du conseil de famille.
 

@@ -76,11 +76,11 @@ b) Toutefois, elle garantit le paiement des réparations nécessaires lorsque :
 
 -avant la réception, après mise en demeure restée infructueuse, le contrat de louage d'ouvrage conclu avec l'entrepreneur est résilié pour inexécution, par celui-ci, de ses obligations ;
 
--après la réception, et avant l'expiration du délai de la garantie de parfait achèvement au sens de l'article 1792-6 du code civil, lorsque l'entrepreneur n'a pas exécuté ses obligations au titre de cette garantie, après mise en demeure par lettre recommandée avec demande d'avis de réception restée infructueuse.
+-après la réception, et avant l'expiration du délai de la garantie de parfait achèvement au sens de l'article 1792-6 du code civil, lorsque l'entrepreneur n'a pas exécuté ses obligations au titre de cette garantie, après mise en demeure par lettre recommandée ou par envoi recommandé électronique, avec demande d'avis de réception, resté infructueux.
 
 Obligations réciproques des parties
 
-Les déclarations ou notifications auxquelles il est procédé entre les parties en application de paragraphes A (1°, c), A (3°), B (2°, a), B (2°, c), B (3°, a), de la présente clause, sont faites par écrit soit contre récépissé, soit par lettre recommandée avec demande d'avis de réception.
+Les déclarations ou notifications auxquelles il est procédé entre les parties en application de paragraphes A (1°, c), A (3°), B (2°, a), B (2°, c), B (3°, a), de la présente clause, sont faites par écrit soit contre récépissé, sur support papier ou tout autre support durable, soit par lettre recommandée ou par envoi recommandé électronique avec demande d'avis de réception.
 
 A.-Obligations de l'assuré
 

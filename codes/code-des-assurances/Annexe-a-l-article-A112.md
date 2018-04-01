@@ -16,7 +16,7 @@ Fait, acte ou événement à l'origine des dommages subis par la victime et fais
 
 Réclamation :
 
-Mise en cause de votre responsabilité, soit par lettre adressée à l'assuré ou à l'assureur, soit par assignation devant un tribunal civil ou administratif. Un même sinistre peut faire l'objet de plusieurs réclamations, soit d'une même victime, soit de plusieurs victimes.
+Mise en cause de votre responsabilité, soit par lettre ou tout autre support durable adressé à l'assuré ou à l'assureur, soit par assignation devant un tribunal civil ou administratif. Un même sinistre peut faire l'objet de plusieurs réclamations, soit d'une même victime, soit de plusieurs victimes.
 
 Période de validité de la garantie :
 

@@ -16,7 +16,7 @@ Dates
 
 |
 
-De réception de la lettre recommandée de l'opposant
+De réception de la lettre recommandée ou de l'envoi recommandé électronique de l'opposant
 
 |
 
