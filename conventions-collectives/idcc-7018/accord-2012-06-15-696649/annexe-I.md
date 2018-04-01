@@ -1,8 +1,8 @@
-# Article KALIARTI000033102923
+# Article annexe I
 
 Annexe I
 
-Taux contractuels et ventilation des cotisations en vigueur au 1er janvier 2016
+Taux contractuels et ventilation des cotisations (en vigueur au 1er janvier 2018)
 
 (En pourcentage.)
 
@@ -10,11 +10,15 @@ Taux contractuels et ventilation des cotisations en vigueur au 1er janvier 2016
 
 TA
 
-Tranche de salaire inférieure ou égale au plafond ASA |
+Tranche de salaire inférieure ou égale
+
+au plafond ASA |
 
 TB-TC
 
-Tranche de salaire comprise entre 1 et 8 fois le plafond ASA |
+Tranche de salaire comprise
+
+entre 1 et 8 fois le plafond ASA |
 
 |
 
@@ -34,63 +38,63 @@ Décès |
 
 1,01 |
 
-- |
+– |
 
 1,01 |
 
-0,445 |
+0,495 |
 
-0,445 |
+0,495 |
 
-0,89 |
+0,99 |
 
 Capital décès |
 
 0,31 |
 
-- |
+– |
 
 0,31 |
 
-0,115 |
+0,155 |
 
-0,115 |
+0,155 |
 
-0,23 |
+0,31 |
 
 Indemnité frais d'obsèques |
 
 0,02 |
 
-- |
+– |
 
 0,02 |
 
-- |
+– |
 
-- |
+– |
 
-- |
+– |
 
 Rente éducation |
 
 0,07 |
 
-- |
+|
 
 0,07 |
 
-0,025 |
+0,035 |
 
-0,025 |
+0,035 |
 
-0,05 |
+0,07 |
 
 Rente de conjoint |
 
 0,61 |
 
-- |
+– |
 
 0,61 |
 
@@ -102,107 +106,107 @@ Rente de conjoint |
 
 Incapacité temporaire |
 
-0,30 |
+0,35 |
 
-0,26 |
+0,29 |
+
+0,64 |
 
 0,56 |
 
-0,49 |
+0,81 |
 
-0,73 |
-
-1,22 |
+1,37 |
 
 Mensualisation |
 
-0,30 |
+0,35 |
 
-- |
+– |
 
-0,30 |
+0,35 |
 
-0,49 |
+0,56 |
 
-- |
+– |
 
-0,49 |
+0,56 |
 
 Relais mensualisation |
 
 |
 
-0,26 |
+0,29 |
 
-0,26 |
+0,29 |
 
-- |
+– |
 
-0,73 |
+0,81 |
 
-0,73 |
+0,81 |
 
 Incapacité permanente |
 
-0,35 |
+0,41 |
 
-- |
+– |
 
-0,35 |
+0,41 |
 
-0,528 |
+0,595 |
 
-0,292 |
+0,345 |
 
-0,82 |
+0,94 |
 
 Incapacité permanente privée |
 
-0,31 |
+0,36 |
 
-- |
+– |
 
-0,31 |
+0,36 |
 
-0,438 |
+0,495 |
 
-0,292 |
+0,345 |
 
-0,73 |
+0,84 |
 
 Incapacité permanente professionnelle |
 
-0,04 |
+0,05 |
 
-- |
+– |
 
-0,04 |
+0,05 |
 
-0,09 |
+0,10 |
 
-- |
+– |
 
-0,09 |
+0,10 |
 
 Total prévoyance |
 
-1,66 |
+1,77 |
 
-0,26 |
+0,29 |
 
-1,92 |
+2,06 |
 
-1,463 |
+1,65 |
 
-1,467 |
+1,65 |
 
-2,93 |
+3,30 |
 
-(Soit en répartition) |
+(Soit en répartition employeur salarié) |
 
-86,50 |
+85,92 |
 
-13,50 |
+14,08 |
 
 100 |
 
@@ -211,26 +215,38 @@ Total prévoyance |
 50,00 |
 
 100 |
+
+|
 
 Frais de santé |
 
 |
 
-Assiette salaire (avec cotisation minimale de 2,61 % PMSS) |
+|
 
-1,45 |
+|
 
-1,45 |
+|
 
-2,90 |
+|
 
-- |
+|
 
-- |
+Assiette salaire (avec cotisation minimum 1,89 % PMSS) |
 
-- |
+1,305 |
 
-Assiette plafond SS |
+1,305 |
+
+2,61 |
+
+– |
+
+– |
+
+– |
+
+Assiette plafond sécurité sociale |
 
 0,63 |
 
@@ -238,31 +254,45 @@ Assiette plafond SS |
 
 1,26 |
 
-- |
+– |
 
-- |
+– |
 
-- |
-
-Frais de santé régime local Alsace-Moselle |
+– |
 
 |
 
-Assiette salaire (avec cotisation minimale de 1,70 % PMSS) |
+Frais de santé
 
-0,945 |
+Régime local Alsace-Moselle |
 
-0,945 |
+|
 
-1,89 |
+|
 
-- |
+|
 
-- |
+|
 
-- |
+|
 
-Assiette plafond SS |
+|
+
+Assiette salaire (avec cot mini 1,23 % PMSS) |
+
+0,85 |
+
+0,85 |
+
+1,70 |
+
+– |
+
+– |
+
+– |
+
+Assiette plafond sécurité sociale |
 
 0,57 |
 
@@ -270,8 +300,8 @@ Assiette plafond SS |
 
 1,14 |
 
-- |
+– |
 
-- |
+– |
 
-- |
+– |
