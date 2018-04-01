@@ -38,11 +38,7 @@ a. renseignements relatifs aux indicateurs visuels de pente d'approche : emplace
 
 b. marquage et balisage lumineux de la FATO, de la TLOF, des voies de circulation au sol pour hélicoptères et des voies de circulation en translation dans l'effet de sol ;
 
-- obstacles :
-
-a. coordonnées, altitude, hauteur, type, balisage lumineux et marquage des obstacles dans l'emprise de l'hélistation ;
-
-b. le cas échéant, coordonnées, altitude, hauteur et type des obstacles aux abords de l'hélistation ;
+- obstacles : coordonnées, altitude, hauteur, type, balisage lumineux et marquage des obstacles dans l'emprise de l'hélistation
 
 - description détaillée des heures de fonctionnement des services offerts à l'hélistation (partie AD 3.3 de l'appendice 1 de l'annexe 15) ;
 
