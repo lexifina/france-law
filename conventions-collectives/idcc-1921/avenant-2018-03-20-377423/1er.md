@@ -1,0 +1,449 @@
+# Article 1er
+
+À l'article 3.3 de l'avenant n° 48 du 13 mars 2015 ayant instauré le régime de complémentaire santé, le paragraphe « 3 – Taux et répartition des cotisations » est désormais libellé comme suit :
+
+3 – Taux et répartition des cotisations
+
+La cotisation « Isolé » du régime de base est financée à 50 % par le salarié et 50 % par l'employeur.
+
+La cotisation obligatoire ci-dessus définie et les cotisations facultatives « Famille monoparentale » et « Famille » du régime de base et des 2 régimes optionnels sont fixées dans les conditions suivantes (en pourcentage du PMSS) :
+
+Salariés – Régime général de la sécurité sociale
+
+(En pourcentage.)
+
+|
+
+Régime de base |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
+1,12 |
+
+50 |
+
+50 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 0,75 (total 1,87) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 1,21 (total 2,33) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+(En pourcentage.)
+
+|
+
+Option 1 |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
++ 0,23 (total 1,35) |
+
+100 |
+
+0 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 1,14 (total 2,26) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 1,69 (total 2,81) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+(En pourcentage.)
+
+|
+
+Option 2 |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
++ 0,54 (total 1,66) |
+
+100 |
+
+0 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 1,64 (total 2,76) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 2,31 (total 3,43) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+Salariés – Régime local de la sécurité sociale (Alsace-Moselle)
+
+(En pourcentage.)
+
+|
+
+Régime de base |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
+0,72 |
+
+50 |
+
+50 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 0,50 (total 1,22) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 0,80 (total 1,52) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+(En pourcentage.)
+
+|
+
+Option 1 |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
++ 0,16 (total 0,88) |
+
+100 |
+
+0 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 0,76 (total 1,48) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 1,12 (total 1,84) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+(En pourcentage.)
+
+|
+
+Option 2 |
+
+Taux de cotisation |
+
+Participation salarié |
+
+Participation employeur |
+
+Cotisation obligatoire |
+
+Isolé |
+
++ 0,36 (total 1,08) |
+
+100 |
+
+0 |
+
+Cotisations facultatives additionnelles (1) |
+
+Famille monoparentale |
+
++ 1,08 (total 1,80) |
+
+100 |
+
+0 |
+
+|
+
+Famille |
+
++ 1,52 (total 2,24) |
+
+100 |
+
+0 |
+
+(1) Cotisation facultative additionnelle en sus de la cotisation obligatoire « isolé » du régime de base (la cotisation totale étant indiquée entre parenthèses). |
+
+Les entreprises non adhérentes à l'un des contrats d'assurance souscrits auprès de l'organisme assureur recommandé devront en tout état de cause respecter une prise en charge à hauteur de 50 % de la cotisation globale correspondant à la couverture obligatoire du salarié mise en place par l'entreprise.
+
+Anciens salariés et ayants droit de salariés décédés
+
+Comme rappelé à l'article 3.2 du présent accord ayant instauré le régime conventionnel de complémentaire santé, l'article 4 de la loi n° 89-1009 du 31 décembre 1989 dite « loi Évin » organise le maintien de la couverture collective d'entreprise, au bénéfice des anciens salariés et des ayants droit de salariés décédés. Conformément aux dispositions réglementaires (décret n° 2017-372 du 21 mars 2017), le coût de la couverture individuelle des personnes susvisées est établi en proportion des tarifs globaux applicables aux salariés en activité, avec un encadrement tarifaire précis durant les 3 premières années d'adhésion.
+
+L'organisme assureur pourra proposer aux anciens salariés les conditions tarifaires permettant une extension de couverture à leurs ayants droit.
+
+Les tableaux ci-dessous précisent le tarif applicable la première année d'adhésion (en pourcentage du PMSS).
+
+a) Régime général de la sécurité sociale
+
+(En pourcentage.)
+
+Anciens salariés. Tarif de la 1re année d'adhésion |
+
+Régime de base. Taux de cotisation |
+
+Option 1. Taux de cotisation |
+
+Option 2. Taux de cotisation |
+
+Cotisations facultatives additionnelles |
+
+Ancien salarié (isolé) |
+
+1,12 |
+
++ 0,24 (total 1,36) |
+
++ 0,55 (total 1,67) |
+
+|
+
+Extension : Famille monoparentale (1) |
+
++ 1,13 (total 2,25) |
+
++ 1,72 (total 2,84) |
+
++ 2,46 (total 3,58) |
+
+|
+
+Extension : Famille (1) |
+
++ 1,81 (total 2,93) |
+
++ 2,54 % (total 3,66 %) |
+
++ 3,47 (total 4,59) |
+
+(1) La cotisation de l'extension s'ajoute à la cotisation de l'ancien salarié. |
+
+(En pourcentage.)
+
+Ayants droit de salariés décédés. Tarif de la 1re année d'adhésion |
+
+Régime de base. Taux de cotisation |
+
+Option 1. Taux de cotisation |
+
+Option 2. Taux de cotisation |
+
+Cotisations facultatives |
+
+Enfants du salarié décédé (1) (ex. famille monoparentale) |
+
+0,75 |
+
+1,14 |
+
+1,64 |
+
+|
+
+Famille (2) |
+
+1,21 |
+
+1,69 |
+
+2,31 |
+
+(1) À la date du décès du salarié, il s'agit des enfants à charge qui étaient couverts par la structure « famille monoparentale ».
+
+(2) À la date du décès du salarié, il s'agit du conjoint, ou du conjoint et enfants à charge, qui étaient couverts par la structure « famille ». |
+
+b) Régime local de la sécurité sociale – Alsace Moselle
+
+(En pourcentage.)
+
+Anciens salariés. Tarif de la 1re année d'adhésion |
+
+Régime de base. Taux de cotisation |
+
+Option 1. Taux de cotisation |
+
+Option 2. Taux de cotisation |
+
+Cotisations facultatives additionnelles |
+
+Ancien salarié (isolé) |
+
+0,72 |
+
++ 0,16 (total 0,88) |
+
++ 0,36 (total 1,08) |
+
+|
+
+Extension : Famille monoparentale (1) |
+
++ 0,74
+
+(total 1,46) |
+
++ 1,13 (total 1,85) |
+
++ 1,61 (total 2,33) |
+
+|
+
+Extension : Famille (1) |
+
++ 1,19 (total 1,91) |
+
++ 1,68 (total 2,4) |
+
++ 2,27 (total 2,99) |
+
+(1) La cotisation de l'extension s'ajoute à la cotisation de l'ancien salarié. |
+
+(En pourcentage.)
+
+Ayants droit de salariés décédés. Tarif de la 1re année d'adhésion |
+
+Régime de base. Taux de cotisation |
+
+Option 1. Taux de cotisation |
+
+Option 2. Taux de cotisation |
+
+Cotisations facultatives |
+
+Enfants du salarié décédé (1) (ex. famille monoparentale) |
+
+0,50 |
+
+0,76 |
+
+1,08 |
+
+|
+
+Famille (2) |
+
+0,80 |
+
+1,12 |
+
+1,52 |
+
+(1) À la date du décès du salarié, il s'agit des enfants à charge qui étaient couverts par la structure « famille monoparentale ».
+
+(2) À la date du décès du salarié, il s'agit du conjoint, ou du conjoint et enfants à charge, qui étaient couverts par la structure « famille ». |
+
+(1) Article étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4, 9 et 15 de la loi n° 89-1009 du 31 décembre 1989, renforçant les garanties offertes aux personnes assurées contre certains risques.
+
+(Arrêté du 21 novembre 2018 - art. 1)
