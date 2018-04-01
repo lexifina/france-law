@@ -1,0 +1,441 @@
+# Article 1er
+
+Sont couverts selon les conditions du régime conventionnel, tous les actes et frais de soins, ayant fait l'objet d'un remboursement et d'un décompte individuel sécurité sociale, relevant des postes de garanties détaillées ci-dessous.
+
+Les exclusions et les limitations des garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.
+
+Postes |
+
+Niveaux de couverture incluant le remboursement sécurité sociale |
+
+Hospitalisation médicale, chirurgicale, et maternité
+
+|
+
+Frais de séjour, salle d'opération |
+
+250 % de la base de remboursement |
+
+Honoraires : actes de chirurgie (ADC), actes d'anesthésie (ADA), autres honoraires. |
+
+300 % de la base de remboursement – adhérents DPTM |
+
+|
+
+200 % de la base de remboursement – non adhérents DPTM |
+
+Chambre particulière |
+
+90 € par jour |
+
+Forfait hospitalier engagé (*) |
+
+100 % des Frais réels dans la limite de la législation en vigueur |
+
+Frais d'accompagnement [enfant à charge de moins de 16 ans sur présentation d'un justificatif] (*) |
+
+35 € par jour |
+
+Transport (accepté par la sécurité sociale) |
+
+100 % de la base de remboursement |
+
+Fécondation in vitro |
+
+Crédit de 450 € par année civile |
+
+Assistance hospitalisation et ambulatoire (extrait) |
+
+|
+
+– présence d'un proche au chevet du bénéficiaire |
+
+– coût du voyage organisé par l'assisteur |
+
+– séjour à l'hôtel du proche acheminé au chevet |
+
+– 45 € TTC par nuit, maximum 90 € TTC par séjour |
+
+– télévision à l'hôpital |
+
+– 75 € TTC maximum |
+
+– garde à domicile des enfants/ petits-enfants |
+
+– 24 heures maximum par période d'hospitalisation |
+
+– aide-ménagère à domicile |
+
+– 15 heures maximum, réparties sur 3 semaines environ ; 30 heures maximum, réparties en 10 séances en cas de chimiothérapie ambulatoire |
+
+Aide pédagogique |
+
+– 15 heures par semaine tous cours confondus, fractionnables par tranche de 3 heures de cours minimum dans la journée par matière ou par répartiteur scolaire. |
+
+Maternité et prévention précoce
+
+|
+
+Consultation pré-conceptionnelle (rencontre du couple avec un professionnel de santé gynécologue, sage-femme, médecin généraliste) (recommandation de la haute autorité de la santé 2009). |
+
+Prise en charge de la consultation à hauteur maximale de 60 € et dans le respect des limites imposées par le décret n° 2014-1374 du 18 novembre 2014. |
+
+Grossesse et suivi d'accouchement : entretien hygiéno-diététique auprès d'un (e) diététicien (ne) |
+
+50 €
+
+Accompagnement d'une action de prévention et de sensibilisation |
+
+Accompagnement allaitement dans la durée : 3 consultations d'allaitement à domicile de sages-femmes dans les 6 premiers mois du bébé (l'OMS et l'UNICEF recommandent l'allaitement exclusif jusqu'à 6 mois puis en complément d'une alimentation diversifiée jusqu'à 2 ans). |
+
+27 € par consultation
+
+Accompagnement d'une action de prévention et de sensibilisation |
+
+Naissance d'un enfant déclaré |
+
+Forfait de 500 € |
+
+Actes médicaux
+
+|
+
+Consultation et visite généralistes |
+
+250 % de la base de remboursement – adhérent DPTM
+
+200 % de la base de remboursement – non adhérent DPTM |
+
+Consultation et visite spécialistes |
+
+250 % de la base de remboursement – adhérent DPTM
+
+200 % de la base de remboursement – non adhérent DPTM |
+
+Actes de chirurgie (ADC)
+
+Actes techniques médicaux (ATM)
+
+Actes d'obstétrique (ACO) |
+
+250 % de la base de remboursement – adhérent DPTM
+
+200 % de la base de remboursement – non adhérent DPTM |
+
+Actes d'imagerie médicale (ADI)
+
+Actes d'échographie (ADE) |
+
+170 % de la base de remboursement – adhérent DPTM
+
+150 % de la base de remboursement – non adhérent DPTM |
+
+Auxiliaires médicaux |
+
+110 % de la base de remboursement |
+
+Analyses |
+
+110 % de la base de remboursement |
+
+Pharmacie (acceptée par la sécurité sociale)
+
+|
+
+Pharmacie |
+
+100 % de la base de remboursement |
+
+Dentaire et actions de prévention
+
+|
+
+Soins dentaires (à l'exception des inlay et onlay) |
+
+100 % de la base de remboursement |
+
+Inlay, Onlay (hors inlay core et inlay à clavettes) |
+
+450 % de la base de remboursement |
+
+Prothèses dentaires remboursées par la sécurité sociale |
+
+470 % de la base de remboursement |
+
+Inlay core et inlay à clavettes |
+
+330 % de la base de remboursement |
+
+Prothèses dentaires non remboursées par la sécurité sociale (***) |
+
+380 % de la base de remboursement (**) |
+
+Implants dentaires y compris piliers implantaires (****) |
+
+1 400 € par implant limité à 3 implants par année civile |
+
+Orthodontie acceptée par la sécurité sociale |
+
+350 % de la base de remboursement |
+
+Orthodontie refusée par la sécurité sociale (*) |
+
+350 % de la base de remboursement (**) |
+
+Parodontologie (*) |
+
+Crédit de 300 € par année civile |
+
+Actions de prévention bucco-dentaire |
+
+Voir le programme 2016-2018 |
+
+Prothèses non dentaires (acceptées par la sécurité sociale)
+
+|
+
+Prothèses auditives |
+
+100 % de la base de remboursement + Crédit de 2 800 € sur 2 années consécutives |
+
+Orthopédie et autres prothèses |
+
+100 % de la base de remboursement + Crédit de 800 € par année civile |
+
+Optique (*****) |
+
+|
+
+Conformément au décret n° 2014-1374 du 18 novembre 2014, le remboursement couvre les frais engagés par période de prise en charge de 2 ans pour un équipement optique composé de deux verres et d'une monture. Cette période est réduite à 1 an pour les mineurs, ou en cas de renouvellement de l'équipement justifié par une évolution de la vue.
+
+Ces périodes de prise en charge débutent à la date d'acquisition de l'équipement. Lorsque l'assuré effectue des demandes de remboursement de son équipement en deux temps (d'une part la monture, d'autre part les verres), la période pendant laquelle un équipement optique peut être remboursé est identique.
+
+La justification de l'évolution de la vue se fonde soit sur la présentation d'une nouvelle prescription médicale portant une correction différente de la précédente, soit sur la présentation de la prescription initiale comportant les mentions portées par l'opticien en application de l'article R. 165-1 du code de la sécurité sociale. La nouvelle correction doit être comparée à celle du dernier équipement ayant fait l'objet d'un remboursement par l'assureur. |
+
+Monture |
+
+RSS + forfait de 130 € |
+
+Verres unifocaux simples |
+
+RSS + forfait de 90 € par verre |
+
+Verres unifocaux complexes |
+
+RSS + forfait de 170 € par verre |
+
+Verres multifocaux ou progressifs simples |
+
+RSS + forfait de 220 € par verre |
+
+Verres multifocaux ou progressifs complexes |
+
+RSS + forfait de 330 € par verre (RSS + forfait de 310 € par verre pour les moins de 18 ans) |
+
+Lentilles acceptées par la sécurité sociale |
+
+100 % de la base de remboursement + Crédit de 200 € par année civile |
+
+Lentilles refusées par la sécurité sociale (y compris lentilles jetables) (*) |
+
+Crédit de 200 € par année civile |
+
+Chirurgie réfractive (*) |
+
+Crédit de 900 € par œil et par année civile |
+
+Cure thermale (acceptée par la sécurité sociale)
+
+|
+
+Frais de traitement et honoraires |
+
+100 % de la base de remboursement |
+
+Frais de voyage et hébergement (*) |
+
+Forfait de 350 € limité à une intervention par année civile |
+
+Actes hors nomenclature
+
+|
+
+Pack bien-être : |
+
+|
+
+Ostéopathie, chiropractie, diététique, psychologie, acupuncture, sevrage tabagique prescrit, vaccin contre la grippe, vaccins prescrits non remboursés par la sécurité sociale, moyens contraceptifs prescrits, podologue |
+
+Crédit de 160 € par année civile |
+
+Garanties solidaires
+
+|
+
+Solidarité intergénérationnelle pour les anciens salariés (licenciés, retraités) |
+
+Maintien du régime frais de santé avec une cotisation égale à la cotisation des salariés la première année et majorée de 15 % à partir de la deuxième année |
+
+Salarié en arrêt de travail de plus de 6 mois |
+
+Maintien du régime frais de santé gratuitement jusqu'à la reprise du travail ou fin du contrat |
+
+Couverture du régime frais de santé au minimum pendant 3 mois |
+
+Tout salarié, quelles que soient la nature et la durée de son contrat de travail bénéficie de la couverture du régime frais de santé au minimum pendant 3 mois hors période de portabilité |
+
+Fonds d'action sociale santé professionnel |
+
+Aides financières pour faire face à des situations exceptionnelles ou graves (accidents, hospitalisation longue, dépassements d'honoraires élevés, longue maladie, cancers) |
+
+Garantie portabilité |
+
+Mutualisation dans le régime frais de santé de l'obligation de l'entreprise |
+
+Ayant (s) droit de salarié décédé
+
+Fil + boulangerie |
+
+Maintien ou mise en place gratuite du régime frais de santé pendant 12 mois
+
+Service d'information et de prévention des difficultés des salariés et des chefs d'entreprise de la profession |
+
+Prévention : campagnes nationales définies par la commission paritaire nationale pour 2017-2018
+
+|
+
+Prévention de l'hypertension artérielle :
+
+-Information
+
+-Dépistage
+
+-Accompagnement |
+
+– outils de sensibilisation à destination de plus de 120 000 salariés
+
+– campagne nationale et professionnelle de détection du risque
+
+– organisation de l'accompagnement par des professionnels de santé des salariés exposés au risque. |
+
+Prévention bucco-dentaire :
+
+– information
+
+– dépistage dans les CFA |
+
+– outils de sensibilisation à l'hygiène bucco-dentaire (vidéo et module pédagogique)
+
+– intervention de dentistes pour action de sensibilisation et dépistage bucco-dentaire dans plus de 150 centres de formations d'apprentis auprès d'environ 6 000 apprentis pour les années scolaires 2016-2017 et 2017-2018 |
+
+Prévention du diabète de type II |
+
+Suite à l'enquête épidémiologique de 2014-2015, pérennisation de :
+
+-auto questionnaire
+
+-vidéo de sensibilisation |
+
+Prévention de l'allergie à la farine :
+
+– information sur l'hygiène respiratoire
+
+– dépistage dans les CFA |
+
+Vidéos de sensibilisation à l'hygiène respiratoire
+
+Intervention de médecins ou d'infirmières pour action de sensibilisation et dépistage l'hygiène respiratoire dans plus de 150 centres de formations d'apprentis auprès d'environ 6 000 apprentis pour les années scolaires 2017-2018 |
+
+Accès à SEAKMED, comité d'experts hospitalo-universitaires |
+
+Maladies graves, situation de santé complexe : ce comité analyse la situation puis organise la délivrance d'un second avis médical auprès d'expert |
+
+Prévention (conformément à l'arrêté du 8 juin 2006)
+
+|
+
+Prise en charge des actes de prévention suivants :
+
+– scellement des sillons sur les molaires avant 14 ans ;
+
+– détartrage annuel complet sus et sous-gingival, effectué en 2 séances maximum ;
+
+– premier bilan du langage oral ou écrit pour un enfant de moins de 14 ans ;
+
+– dépistage de l'hépatite B ;
+
+– dépistage une fois tous les 5 ans des troubles de l'audition chez les personnes âgées de plus de 50 ans pour un des actes suivants :
+
+a) Audiométrie tonale ou vocale
+
+b) Audiométrie tonale avec tympanométrie
+
+c) Audiométrie vocale dans le bruit
+
+d) Audiométrie tonale et vocale
+
+e) Audiométrie tonale et vocale avec tympanométrie
+
+– ostéodensitométrie pour les femmes de plus de 50 ans, tous les 6 ans ;
+
+– Vaccinations suivantes, seules ou combinées :
+
+a) Diphtérie, tétanos et poliomyélite : tous âges
+
+b) Coqueluche : avant 14 ans
+
+c) Hépatite B : avant 14 ans
+
+d) BCG : avant 6 ans
+
+e) Rubéole pour les adolescentes qui n'ont pas été vaccinées et pour les femmes non immunisées désirant un enfant
+
+f) Haemophilus influenzae B – infections à l'origine de la méningite de l'enfant
+
+g) Vaccination contre les infections invasives à pneumocoques pour les enfants de moins de 18 mois. |
+
+100 % de la base de remboursement |
+
+Abréviations :
+
+PMSS : plafond mensuel de la sécurité sociale.
+
+FR : frais réels engagés par l'assuré.
+
+BR : base de remboursement retenue par l'assurance maladie obligatoire pour déterminer le montant de son remboursement.
+
+RSS : remboursement sécurité sociale = montant remboursé par l'assurance maladie obligatoire et calculé par application du taux de remboursement légal en vigueur à la base de remboursement.
+
+TM : ticket modérateur soit partie de la base de remboursement non prise en charge par l'assurance maladie obligatoire
+
+(TM = BR – RSS)
+
+DPTM = dispositif de pratique tarifaire maîtrisée :
+
+– CAS : (contrat d'accès aux soins) ;
+
+– OPTAM (option pratique tarifaire maîtrisée) ;
+
+– OPTAM-CO (option pratique tarifaire maîtrisée chirurgie et obstétrique). |
+
+L'annualité est appréciée par année civile. La part non consommée une année n'est pas reportée l'année suivante.
+
+(*) Remboursé selon conditions définies nonobstant toutes interventions de la sécurité sociale.
+
+(**) Sur la base de remboursement de la sécurité sociale si l'acte avait été accepté par la sécurité sociale.
+
+(***) La garantie « Prothèses dentaires non remboursées par la sécurité sociale » comprend les actes suivants :
+
+– couronnes dentaires : HBLD038, HBLD036, à l'exclusion des couronnes ou dents à tenon préfabriquées, couronnes ou dents à tenon provisoires, couronnes à recouvrement partiel.
+
+– prothèses supra-implantaires : HBLD132, HBLD492, HBLD118, HBLD199, HBLD240, HBLD236, HBLD217, HBLD171.
+
+– bridges : HBLD040, HBLD043, HBLD033, HBLD023, et les actes annexes s'y rapportant : HBMD490, HBMD342, HBMD082, HBMD479, HBMD433, HBMD072, HBMD081, HBMD087, à l'exclusion des prothèses dentaires sur dents temporaires, prothèses dentaires ou dents à tenon préfabriquées, prothèses dentaires ou dents à tenon provisoires, et les piliers de bridge à recouvrement partiel.
+
+(****) La garantie « Implants dentaires non remboursés par la sécurité sociale » comprend la pose d'un implant à l'exclusion de tout acte annexe (scanner, couronne).
+
+(*****) Détail poste optique :
+
+– verres unifocaux simples : LPP 22 61874 – 22 42457-22 00393 – 22 70413 – 22 03240 – 22 87916 – 22 59966 – 22 26412 ;
+
+– verres unifocaux complexes : LPP 22 43540 – 22 97441 – 22 43304 – 22 91088 – 22 73854 – 22 48320 – 22 83953 – 22 19381 – 22 38941 – 22 68385 – 22 45036 – 22 06800 – 22 82793 – 22 63459 – 22 80660 – 22 65330 – 22 35776 – 22 95896 – 22 84527 – 22 54868 – 22 12976 – 22 52668 – 22 88519 – 22 99523. |
