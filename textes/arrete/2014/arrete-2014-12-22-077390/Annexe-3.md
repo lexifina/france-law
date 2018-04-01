@@ -4,15 +4,25 @@ Secteur tertiaire
 
 Isolation de combles ou de toitures / Fiche d’opération n° BAT-EN-101
 
+Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 Isolation des murs / Fiche d’opération standardisée n° BAT-EN-102
+
+Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
 Isolation d’un plancher / Fiche d’opération standardisée n° BAT-EN-103
 
+Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
+
+Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
 Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
 
 Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
+
+Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
 Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
 
@@ -30,7 +40,7 @@ Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
 
 Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
 
-Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106
+Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
@@ -56,7 +66,7 @@ Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
 
-Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119
+Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
@@ -86,6 +96,8 @@ Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° B
 
 Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
 
+Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-146
+
 Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
 
 Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114
@@ -100,7 +112,7 @@ Fermeture des meubles frigorifiques de vente à température positive / Fiche d�
 
 Fermetures des meubles frigorifiques de vente à température négative/ Fiche d’opération standardisée n° BAT-EQ-125
 
-Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d’opération standardisée n° BAT-EQ-126
+Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d’opération standardisée n° BAT-EQ-126 (Abrogée à compter du 1er avril 2018)
 
 Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
@@ -117,6 +129,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 08/08/2017, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgthOva_2h02AY=
 
@@ -142,4 +156,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A).
+Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A).
