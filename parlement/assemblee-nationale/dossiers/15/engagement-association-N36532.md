@@ -1,0 +1,66 @@
+# Engagement associatif
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36532
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/engagement_association
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-486.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-04-04 : 1er dépôt d'une initiative. (PIONANR5L15B0848)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-04 : Renvoi en commission au fond
+      - 2018-04-11 : Nomination de rapporteur
+      - 2018-04-11 : Réunion de commission
+      - 2018-05-09 : Réunion de commission
+      - 2018-05-16 : Réunion de commission
+      - 2018-05-09 : Dépôt de rapport (RAPPANR5L15B0909, PIONANR5L15BTC0909)
+  - Discussion en séance publique
+    - 2018-05-17 : Discussion en séance publique
+    - 2018-05-17 : Discussion en séance publique
+    - 2018-05-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-05-17 : Dépôt d'une initiative en navette (PIONSNR5S299B0486)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-02-20 : Dépôt de rapport (RAPPSNR5S319B0334, PIONSNR5S319BTC0335)
+  - Discussion en séance publique
+    - 2019-03-06 : Discussion en séance publique
+    - 2019-03-06 : Décision
+- deuxième lecture
+  - 2019-03-06 : Dépôt d'une initiative en navette (PIONANR5L15B1757)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-06 : Renvoi en commission au fond
+      - 2019-04-29 : Réunion de commission
+      - 2019-04-29 : Réunion de commission
+      - 2019-04-30 : Dépôt de rapport (RAPPANR5L15B1884, PIONANR5L15BTC1884)
+  - Discussion en séance publique
+    - 2019-05-09 : Discussion en séance publique
+    - 2019-05-09 : Décision
+- deuxième lecture
+  - 2019-05-09 : Dépôt d'une initiative en navette (PIONSNR5S319B0486)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-05-12 : Dépôt de rapport (RAPPSNR5S359B0577, PIONSNR5S359BTC0578)
+  - Discussion en séance publique
+    - 2021-05-20 : Décision
+- troisième lecture
+  - 2021-05-20 : Dépôt d'une initiative en navette (PIONANR5L15B4184)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-20 : Renvoi en commission au fond
+      - 2021-06-09 : Réunion de commission
+      - 2021-06-09 : Dépôt de rapport (RAPPANR5L15B4235, PIONANR5L15BTC4235)
+  - Discussion en séance publique
+    - 2021-06-24 : Discussion en séance publique
+    - 2021-06-24 : Décision
+- Promulgation de la loi
+  - 2021-07-01 : Promulgation d'une loi
