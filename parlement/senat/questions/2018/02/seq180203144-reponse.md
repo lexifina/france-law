@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203144
+
+- Question : [SEQ180203144](seq180203144.md) — Mise en place d'un fichier national des évaluations des mineurs non accompagnés
+
+## Réponse
+
+*Justice, JO du 2018-04-05, page 1627*
+
+Une augmentation notable du flux de personnes se déclarant mineurs non accompagnés (MNA) est constatée depuis la fin du mois de juin 2017. Le nombre de personnes reconnues MNA est en effet passé de 8054 en 2016 à 14908 en 2017, soit 85 % d'augmentation. La quasi-totalité des départements métropolitains font part de la saturation de leurs dispositifs d'évaluation et de prise en charge. Alerté des difficultés engendrées par cet accroissement du flux de MNA, le Premier ministre a installé une mission bipartite composée de représentants des corps d'inspection de l'État et de conseils départementaux, qui vient de proposer des solutions opérationnelles permettant d'améliorer l'efficacité, la cohérence et la soutenabilité budgétaire de la phase d'évaluation et de mise à l'abri ainsi que, de manière générale, de la politique publique mise en œuvre au profit des MNA. La Garde des Sceaux a par ailleurs annoncé qu'elle travaillerait conjointement avec la ministre des solidarités et de la santé, à l'élaboration d'un plan d'action national visant à améliorer l'accueil des MNA et personnes se présentant comme tels, conformément aux engagements du président de la République. La question des réévaluations a été identifiée et expertisée par la mission bipartite. Face à l'afflux des jeunes se présentant spontanément sur plusieurs départements jusqu'à ce que leur minorité soit confirmée et face aux pratiques croissantes de réévaluations du département d'accueil, les réflexions se sont portées sur une nécessaire harmonisation du dispositif. La création d'un outil de recensement des personnes évaluées a été expertisée.
