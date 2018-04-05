@@ -44,7 +44,7 @@ d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la 
 
 e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement. |
 
-f) Stockage géologique de CO 2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
+f) Stockage géologique de CO2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
 
 Installations nucléaires de base (INB)
 
@@ -112,7 +112,7 @@ c) Construction, élargissement d'une route par ajout d'au moins une voie, exten
 
 a) Construction de routes classées dans le domaine public routier de l'Etat, des départements, des communes et des établissements public de coopération intercommunale non mentionnées aux b) et c) de la colonne précédente.
 
-b) Construction d'autres voies non mentionnées au a) mobilisant des techniques de stabilisation des sols et d'une longueur supérieure à 3 km.
+b) Construction d'autres voies non mentionnées au a) mobilisant des techniques de stabilisation des sols et d'une longueur supérieure à 3 km. En Guyane, ce seuil est porté à 30 km pour les projets d'itinéraires de desserte des bois et forêts mentionnés au premier alinéa de l'article L. 272-2 du code forestier, figurant dans le schéma pluriannuel de desserte forestière annexé au programme régional de la forêt et du bois mentionné à l' article L. 122-1 du code forestier et au 26° du I de l'article R. 122-17 du code de l'environnement.
 
 c) Construction de pistes cyclables et voies vertes de plus de 10 km.
 
@@ -168,11 +168,11 @@ Ouvrages de canalisation, de reprofilage et de régularisation des cours d'eau s
 
 -installations, ouvrages, travaux ou activités conduisant à modifier le profil en long ou le profil en travers du lit mineur d'un cours d'eau sur une longueur de cours d'eau supérieure ou égale à 100 m ;
 
--consolidation ou protection des berges, par des techniques autres que végétales vivantes sur une longueur supérieure ou égale à 200 m ;
+- consolidation ou protection des berges, par des techniques autres que végétales vivantes sur une longueur supérieure ou égale à 200 m ;
 
--installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m 2 de frayères ;
+- installations, ouvrages, travaux ou activités, dans le lit mineur d'un cours d'eau, étant de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans le lit majeur d'un cours d'eau, étant de nature à détruire les frayères de brochet pour la destruction de plus de 200 m2 de frayères ;
 
--installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou égale à 100 m.
+- installations, ouvrages, travaux ou activités conduisant à la dérivation d'un cours d'eau sur une longueur supérieure ou égale à 100 m.
 
 |
 
@@ -218,7 +218,7 @@ a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage 
 
 b) Projets d'hydraulique agricole nécessitant l'assèchement, la mise en eau, l'imperméabilisation, le remblaiement de zones humides ou de marais, la zone asséchée ou mise en eau étant d'une surface supérieure ou égale à 1 ha. |
 
-c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m 3/ h dans une zone où des mesures permanentes de répartition quantitative ont été instituées. |
+c) Projets d'irrigation nécessitant un prélèvement supérieur ou égal à 8 m3/h dans une zone où des mesures permanentes de répartition quantitative ont été instituées. |
 
 17. Dispositifs de captage et de recharge artificielle des eaux souterraines (telles que définies à l'article 2.2 de la directive 2000/60/ CE). |
 
@@ -230,11 +230,11 @@ b) Dispositifs de captage des eaux souterraines, lorsque le volume annuel préle
 
 c) Dispositifs de captage des eaux souterraines en nappe d'accompagnement :
 
--d'une capacité totale maximale supérieure ou égale à 1 000 m 3/ heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau ;
+- d'une capacité totale maximale supérieure ou égale à 1 000 m3/heure ou à 5 % du débit du cours d'eau ou, à défaut, du débit global d'alimentation du canal ou du plan d'eau ;
 
--lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m 3/ heure.
+- lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine, la Loire, la Marne et l'Yonne, le seuil à utiliser est une capacité de prélèvement supérieure à 80 m3/heure.
 
-d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m 3/ heure.
+d) Dispositifs de captage des eaux souterraines en zone où des mesures permanentes de répartition quantitative instituées ont prévu l'abaissement des seuils, lorsque la capacité totale est supérieure ou égale à 8 m3/heure.
 
 |
 
@@ -242,13 +242,13 @@ d) Dispositifs de captage des eaux souterraines en zone où des mesures permanen
 
 |
 
-Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m 3 par heure d'eau de mer. |
+Tous dispositifs dont le prélèvement est supérieur ou égal à 30 m3 par heure d'eau de mer. |
 
 19. Rejet en mer. |
 
 |
 
-Rejet en mer dont le débit est supérieur ou égal à 30 m 3/ h. |
+Rejet en mer dont le débit est supérieur ou égal à 30 m3/h. |
 
 20. Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection. |
 
@@ -258,17 +258,17 @@ Tous travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'ea
 
 21. Barrages et autres installations destinées à retenir les eaux ou à les stocker. |
 
-Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m 3 ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
+Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable lorsque le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est supérieur ou égal à 1 million de m3 ou lorsque la hauteur au-dessus du terrain naturel est supérieure ou égale à 20 mètres.
 
 |
 
 Barrages et autres installations destinées à retenir les eaux ou à les stocker de manière durable non mentionnés à la colonne précédente :
 
-a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m 3.
+a) Barrages de classes B et C pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m3.
 
-b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m 3.
+b) Plans d'eau permanents dont la superficie est supérieure ou égale à 3 ha pour lesquels le nouveau volume d'eau ou un volume supplémentaire d'eau à retenir ou à stocker est inférieur à 1 million de m3.
 
-c) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité égale ou supérieure à 1 000 m 3.
+c) Réservoirs de stockage d'eau " sur tour " (château d'eau) d'une capacité égale ou supérieure à 1 000 m3.
 
 d) Installations et ouvrages destinés à retenir les eaux ou à les stocker, constituant un obstacle à la continuité écologique ou à l'écoulement des crues, entraînant une différence de niveau supérieure ou égale à 50 cm pour le débit moyen annuel de la ligne d'eau entre l'amont et l'aval du barrage ou de l'installation.
 
@@ -284,15 +284,15 @@ f) Ouvrages construits ou aménagés en vue de prévenir les inondations et les 
 
 Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par la longueur est supérieur ou égal à 2 000 m 2. |
 
-23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/ CE.
+23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/CE.
 
 Dans les deux cas, les transvasements d'eau potable amenée par canalisation sont exclus.
 
 |
 
-a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m 3. |
+a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise à prévenir d'éventuelles pénuries d'eau et que le volume annuel des eaux transvasées est supérieur ou égal à 100 millions de m3. |
 
-Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m ³/ s. |
+Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux non mentionnés dans la colonne précédente dont le débit est supérieur ou égal à 1 m³/s. |
 
 b) Dans tous les autres cas, ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvement dépasse 2 000 millions de m 3 et que le volume des eaux transvasées dépasse 5 % de ce débit. |
 
@@ -316,21 +316,21 @@ Extraction de minéraux par dragage marin : ouverture de travaux d'exploitation 
 
 a) Dragage et/ ou rejet y afférent en milieu marin :
 
--dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence N2 pour l'un au moins des éléments qui y figurent ;
+- dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence N2 pour l'un au moins des éléments qui y figurent ;
 
--dont la teneur des sédiments extraits est comprise entre les niveaux de référence N1 et N2 pour l'un des éléments qui y figurent :
+- dont la teneur des sédiments extraits est comprise entre les niveaux de référence N1 et N2 pour l'un des éléments qui y figurent :
 
-i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m 3 ;
+i) et, sur la façade métropolitaine Atlantique-Manche-mer du Nord et lorsque le rejet est situé à 1 kilomètre ou plus d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 50 000 m3 ;
 
-ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m 3 ;
+ii) et, sur les autres façades ou lorsque le rejet est situé à moins de 1 km d'une zone conchylicole ou de cultures marines dont le volume maximal in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 5 000 m3 ;
 
--dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m 3.
+- dont la teneur des sédiments extraits est inférieure ou égale au niveau de référence N1 pour l'ensemble des éléments qui y figurent et dont le volume in situ dragué au cours de douze mois consécutifs est supérieur ou égal à 500 000 m3.
 
 b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentionné à l'article L. 215-14 du code de l'environnement réalisé par le propriétaire riverain, le volume des sédiments extraits étant au cours d'une année :
 
--supérieure à 2 000 m 3 ;
+- supérieure à 2 000 m3 ;
 
--inférieure ou égal à 2 000 m 3 dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
+- inférieure ou égal à 2 000 m3 dont la teneur des sédiments extraits est supérieure ou égale au niveau de référence S1.
 
 |
 
@@ -338,9 +338,9 @@ b) Entretien d'un cours d'eau ou de canaux, à l'exclusion de l'entretien mentio
 
 |
 
-a) Plan d'épandage de boues relevant de l'article R. 214-1 du même code et comprenant l'ensemble des installations liées à l'épandage de boues et les ouvrages de stockage de boues, dont la quantité de matière sèche est supérieure à 800 t/ an ou azote total supérieur à 40 t/ an. |
+a) Plan d'épandage de boues relevant de l'article R. 214-1 du même code et comprenant l'ensemble des installations liées à l'épandage de boues et les ouvrages de stockage de boues, dont la quantité de matière sèche est supérieure à 800 t/an ou azote total supérieur à 40 t/an. |
 
-b) Epandages d'effluents ou de boues relevant de l'article R. 214-1 du même code, la quantité d'effluents ou de boues épandues présentant les caractéristiques suivantes : azote total supérieur à 10 t/ an ou volume annuel supérieur à 500 000 m3/ an ou DBO5 supérieure à 5 t/ an. |
+b) Epandages d'effluents ou de boues relevant de l'article R. 214-1 du même code, la quantité d'effluents ou de boues épandues présentant les caractéristiques suivantes : azote total supérieur à 10 t/an ou volume annuel supérieur à 500 000 m3/an ou DBO5 supérieure à 5 t/an. |
 
 FORAGES ET MINES
 
@@ -374,29 +374,29 @@ d) Autres forages en profondeur de plus de 100 m.
 
 a) Exploitation et travaux miniers à ciel ouvert :
 
--ouverture de travaux d'exploitation de mines ;
+- ouverture de travaux d'exploitation de mines ;
 
--ouverture de travaux d'exploitation de haldes et terrils ;
+- ouverture de travaux d'exploitation de haldes et terrils ;
 
--ouverture de travaux de recherches de mines, lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de certaines couches du sous-sol, ou doivent être effectués.
+- ouverture de travaux de recherches de mines, lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de certaines couches du sous-sol, ou doivent être effectués.
 
 b) Exploitation et travaux miniers souterrains :
 
--ouverture de travaux d'exploitation de mines ;
+- ouverture de travaux d'exploitation de mines ;
 
--ouverture de travaux de recherche et d'exploitation des gîtes géothermiques de plus de 200 mètres de profondeurs ou dont la puissance thermique récupérée dans l'ensemble de l'installation est supérieure ou égale à 500 kW ;
+- ouverture de travaux de recherche et d'exploitation des gîtes géothermiques de plus de 200 mètres de profondeurs ou dont la puissance thermique récupérée dans l'ensemble de l'installation est supérieure ou égale à 500 kW ;
 
--mise en exploitation d'un stockage souterrain de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
+- mise en exploitation d'un stockage souterrain de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
 
--essai d'injection et de soutirage effectués en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable réalisés avec un produit qui n'est pas reconnu sans danger pour l'alimentation humaine ou animale ;
+- essai d'injection et de soutirage effectués en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable réalisés avec un produit qui n'est pas reconnu sans danger pour l'alimentation humaine ou animale ;
 
--ouverture de travaux de création et d'aménagement de cavités souterraines naturelles ou artificielles ou de formations souterraines naturelles présentant les qualités requises pour constituer des réservoirs étanches ou susceptibles d'être rendus tels, en vue du stockage de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
+- ouverture de travaux de création et d'aménagement de cavités souterraines naturelles ou artificielles ou de formations souterraines naturelles présentant les qualités requises pour constituer des réservoirs étanches ou susceptibles d'être rendus tels, en vue du stockage de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle ;
 
--essais d'injection et de soutirage de substances pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle, lorsque ceux-ci portent sur des quantités dépassant le seuil haut de la directive SEVESO.
+- essais d'injection et de soutirage de substances pour les stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle, lorsque ceux-ci portent sur des quantités dépassant le seuil haut de la directive SEVESO.
 
 |
 
-Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsqu'ils doivent être effectués sur des terrains humides ou des marais. |
+Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsqu'ils doivent être effectués sur des terrains humides ou des marais, à l'exception, en Guyane, de travaux de recherche exécutés, à terre, sans utilisation directe de l'énergie mécanique fournie par l'action d'une machine. |
 
 Energie
 
@@ -474,17 +474,17 @@ Travaux, ouvrages, aménagements ruraux et urbains
 
 39. Travaux, constructions et opérations d'aménagement y compris ceux donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone d'aménagement concerté. |
 
-Travaux, constructions et opérations constitués ou en création qui créent une surface de plancher supérieure ou égale à 40 000 m 2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares. |
+Travaux, constructions et opérations constitués ou en création qui créent une surface de plancher supérieure ou égale à 40 000 m2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale à 10 hectares. |
 
-Travaux, constructions et opérations d'aménagement constitués ou en création qui soit crée une surface de plancher supérieure ou égale à 10 000 m 2 et inférieure à 40 000 m 2 et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit couvre un terrain d'assiette d'une superficie supérieure ou égale à 5 ha et inférieure à 10 ha et dont la surface de plancher créée est inférieure à 40 000 m 2. |
+Travaux, constructions et opérations d'aménagement constitués ou en création qui soit crée une surface de plancher supérieure ou égale à 10 000 m2 et inférieure à 40 000 m2 et dont le terrain d'assiette ne couvre pas une superficie supérieure ou égale à 10 hectares, soit couvre un terrain d'assiette d'une superficie supérieure ou égale à 5 ha et inférieure à 10 ha et dont la surface de plancher créée est inférieure à 40 000 m2. |
 
 Les composantes d'un projet donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone d'aménagement concerté ne sont pas concernées par la présente rubrique si le projet dont elles font partie fait l'objet d'une étude d'impact ou en a été dispensé à l'issue d'un examen au cas par cas. |
 
 40. Villages de vacances et aménagements associés. |
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m 2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares. |
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale à 40 000 m2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 10 hectares. |
 
-Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m 2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha. |
+Villages de vacances et aménagements associés dont les travaux créent une surface de plancher supérieure ou égale 10 000 m2 ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha. |
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs. |
 
@@ -506,7 +506,7 @@ b) Aires naturelles de camping et de caravanage permettant l'accueil de 7 à 30 
 
 a) Création de remontées mécaniques ou téléphériques transportant plus de 1 500 passagers par heure. |
 
-a) Remontées mécaniques ou téléphériques transportant moins de 1 500 passagers par heure à l'exclusion des remontées mécaniques démontables et transportables et des tapis roulants mentionnés à l'article L. 342-17-1 du code du tourisme. |
+a) Remontées mécaniques ou téléphériques transportant moins de 1 500 passagers par heure à l'exclusion des remontées mécaniques démontables et transportables et des tapis roulants mentionnés à l'article L. 342-17-1 du code du tourisme . |
 
 b) Pistes de ski (y compris les pistes dédiées à la luge lorsque celles-ci ne comportent pas d'installation fixes d'exploitation permanente) d'une superficie supérieure ou égale à 2 hectares en site vierge ou d'une superficie supérieure ou égale à 4 hectares hors site vierge. |
 
@@ -554,9 +554,19 @@ a) Défrichements portant sur une superficie totale, même fragmentée, égale o
 
 a) Défrichements soumis à autorisation au titre de l'article L. 341-3 du code forestier en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare. |
 
-b) Pour La Réunion et Mayotte, dérogations à l'interdiction générale de défrichement, mentionnée aux articles L. 374-1 et L. 375-4 du code forestier, ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux. |
+b) Pour La Réunion et Mayotte, dérogations à l'interdiction générale de défrichement, mentionnée aux articles L. 374-1 et L. 375-4 du code forestier, ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux.
 
-b) Autres déboisements en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare. |
+|
+
+b) Autres déboisements en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare.
+
+En Guyane, ce seuil est porté à :
+
+- 20 ha dans les zones classées agricoles par un plan local d'urbanisme ayant fait l'objet d'une évaluation environnementale ou, en l'absence d'un tel plan local d'urbanisme, dans le schéma d'aménagement régional ;
+
+- 5 ha dans les autres zones.
+
+|
 
 |
 
