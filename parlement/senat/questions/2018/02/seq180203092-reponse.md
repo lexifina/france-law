@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203092
+
+- Question : [SEQ180203092](seq180203092.md) — Moyens alloués aux services déconcentrés de l'État pour mettre en œuvre leurs missions
+
+## Réponse
+
+*Premier ministre, JO du 2018-04-05, page 1607*
+
+Dans le cadre d'Action publique 2022, le Gouvernement a ouvert un chantier spécifique consacré à l'organisation territoriale des services publics. Or, le rapport de la Cour des comptes mentionné dans la question de M. le Sénateur et les quarante-quatre recommandations qui y sont formulées constituent une base de travail utile dans ce cadre. La réflexion s'appuiera également sur les conclusions du Comité CAP22 qui seront remises prochainement au Gouvernement. Comme la Cour l'y invite, l'objectif du Gouvernement est de passer en revue l'ensemble des missions exercées par les différents services déconcentrés de l'État et par les collectivités territoriales de manière à arrêter de « disperser les moyens [de l'État] dans les attributions où sa plus-value est marginale, notamment vis-à-vis des collectivités décentralisées ». La réorganisation qui sera proposée tiendra compte du bilan de la réforme de l'administration territoriale de l'État (RéATE) et de la nouvelle carte régionale : elle permettra de recentrer l'action de l'État sur les missions prioritaires (la sécurité de nos concitoyens et la gestion des crises en font, bien sûr, partie) et de redonner à ses services les moyens d'exercer leurs missions de manière efficace. En mettant fin aux doublons et aux chevauchements de compétences encore nombreux entre les différents niveaux de collectivités et en exploitant pleinement les gisements d'économies offerts par la dématérialisation des procédures, le Gouvernement souhaite rendre un service de meilleur qualité aux usagers, notamment en termes de réduction des délais d'instruction.
