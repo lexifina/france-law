@@ -1,0 +1,150 @@
+# La présente note, sans préjudice des dispositions de la note du 21 mai 1999 susvisée, tend donc à caractériser autant que possible les bovins éligibles à une surveillance pertinente  de l'ESB et à établir pour chaque département le nombre minimal d'échant
+
+- État : abrogée (au 2018-04-05)
+- NOR : DGALN998166
+- Numéro : DGAL/SDSPA/N99-8166
+- Date de signature : 1999-11-19
+- Mise en ligne : 2009-04-30
+- Ministères : 1
+- Domaines : Agriculture et pêche
+- Annexes : 0
+- Identifiant : 18667 (PDF officiel : pdf/2009/04/cir_18667.pdf)
+
+## Texte
+
+DGALN998166.doc
+REPUBLIQUE FRANCAISE
+MINISTERE de l’AGRICULTURE et de la PECHE
+DIRECTION GENERALE de l’ALIMENTATION
+SOUS-DIRECTION de la SANTE et de la PROTECTION ANIMALES
+Bureau : Santé animale
+TEL. : 01.49.55.84.63
+251, rue de Vaugirard - 75732 PARIS CEDEX 15
+NOTE DE SERVICE : DGAL/SDSPA/N99-8166
+du ................................. : 19 NOVEMBRE 1999
+AR/NC - N°
+Objet 
+: 
+SURVEILLANCE 
+EPIDEMIOLOGIQUE 
+DE 
+L’ENCEPHALOPATHIE
+SPONGIFORME BOVINE : PROGRAMME COMPLEMENTAIRE POUR L’ANNEE 1999
+PJ : Décision de la Commission n° 98/272/CE du 23 avril 1998 relative à la surveillance épidémiologique des ESST.
+Références :
+• Décision n° 98/272/CE de la Commission du 23 avril 1998 relative à la surveillance épidémiologique des ESST et
+modifiant la décision 94/474/CE ;
+• Note de service DGAL/SDSPA/N.97/N° 8199 du 22 décembre 1997 relative au réseau national d’épidémiosurveillance de
+l’ESB ;
+• Note de service DGAL/SDSPA/N.99/N° 8071 du 21 mai 1999 relative au plan de surveillance et d’inspection renforcé des
+abattages d’urgence des bovins pour cause de maladie.
+La décision 98/272/CE de la Commission relative à la surveillance épidémiologique des ESST fixe
+dans son annexe les conditions minimales applicables à un programme de suivi de l’ESB. Cette décision
+s’inspire largement des systèmes de surveillance et de suivi continu de l’ESB adoptés par l’Office
+International des Epizooties.
+Elle a fait l’objet de la note de service DGAL/SDSPA/N.99/N° 8071 du 21 mai 1999 relative au plan
+de surveillance et d’inspection renforcée des abattages d’urgence des bovins pour cause de maladie qui
+semble, à la lumière du nombre de prélèvements effectués, avoir été interprétée de façon quelque peu
+restrictive.
+La présente note, sans préjudice des dispositions de la note du 21 mai 1999 susvisée, tend donc à
+caractériser autant que possible les bovins éligibles à une surveillance pertinente de l’ESB et à établir pour
+chaque département le nombre minimal d’échantillons à réaliser.
+.../...
+PLAN DE DIFFUSION
+
+Pour exécution :
+- Préfets
+- Directeurs des Services Vétérinaires
+Pour information :
+- Contrôleurs Généraux des Services Vétérinaires chargés
+de mission interrégionale
+- Directeurs Régionaux de l’Agriculture et de la Forêt
+- Directeurs Départementaux de l'Agriculture et de la Forêt
+- Brigade Nationale d'Enquêtes Vétérinaires
+- Ecoles Nationales Vétérinaires
+- Ecole Nationale des Services Vétérinaires
+- INFOMA
+
+2
+Le Directeur GéNéRAL Adjoint
+C.V.O
+Bernard VALLAT.
+l
+1. Critères de sélection des animaux :
+La décision 98/272/CE annexée définit notamment des sous-populations de bovins présentant des
+signes cliniques compatibles avec les ESST à l’intérieur desquelles il convient de sélectionner des animaux
+qualifiés « à haut risque » .
+Les sous-populations sont ainsi constituées par :
+ les bovins présentant des symptômes neurologiques ou comportementaux pendant au moins
+15 jours, résistant aux traitements et âgés de plus de 20 mois ;
+ó les bovins moribonds ne présentant aucun signe de maladie infectieuse ou traumatique et
+âgés de plus 20 mois ;
+ì les bovins présentant d’autres symptômes de pathologie progressive, âgés de plus de 4 ans.
+Toujours selon cette décision, les animaux de ces sous-populations présentant alors un risque
+potentiel sont ceux :
+- originaires de pays ayant enregistré des ESST autochtones ;
+- ayant consommé des aliments potentiellement contaminés ;
+- nés ou descendants de mâles et/ou de femelles infectés d’ESST.
+2. Réalisation des prélèvements :
+a) Nombre :
+La décision de la Commission mentionnée ci-dessus prévoit la réalisation annuelle d’un nombre
+minimal d’examens neuro-histologiques de bovins présentant des signes compatibles avec l’ESB. Ce chiffre
+est fonction du nombre de bovins de plus de 20 mois présents dans le pays et concerne les animaux à risque
+potentiel des sous-populations définies aux points , ó et ì ci-dessus.
+Compte tenu de la très faible incidence de l’ESB dans notre pays, un tel échantillonnage, non
+aléatoire, permettra d’élargir la population bovine actuellement soumise à des prélèvements. A ce titre, la
+population définie au point ì fera l’objet d’une attention particulière.
+L’annexe A prévoit le nombre minimal d’échantillons à réaliser par département jusqu’au 31
+décembre 1999.
+b) Procédure :
+La procédure de prélèvement est celle indiquée au point 1.2.1. de la note de service
+DGAL/SDSPA/N.99/N° 8071 du 21 mai 1999.
+Dans le cas où le bovin est prélevé hors d’un abattoir, la fiche de commémoratifs visée par le
+Directeur des services vétérinaires (annexe B) est jointe à l’envoi.
+3. Dispositions financières :
+
+3
+Les prestations assurées en application des présentes instructions sont rémunérées conformément aux
+dispositions de l’arrêté du 4 décembre 1990 modifié fixant les mesures financières relatives à la police
+sanitaire de l’encéphalopathie spongiforme bovine.
+4. Conclusion :
+Il convient de noter que cette décision communautaire ne remet pas en cause l’organisation et la
+gestion du réseau national d’épidémiosurveillance de l’ESB établies par la note de service
+DGAL/SDSPA/N.97/N° 8199 du 22 décembre 1997. En effet, la décision décrit :
+-d’une part des animaux présentant les signes cliniques évocateurs de l’ESB jusqu’au
+stade ultime de l’évolution de la maladie et qui font actuellement déjà l’objet d’une suspicion
+clinique ;
+-d’autre part des animaux, moribonds ou non, non suspects d’ESB au regard des
+investigations 
+approfondies 
+menées 
+par 
+les 
+acteurs 
+concernés 
+du 
+réseau
+d’épidémiosurveillance, et montrant un ou plusieurs symptômes de pathologie progressive.
+Ces symptômes sont caractérisés par une évolution longue, sans rémission notable, allant
+toujours vers l’aggravation.
+Ainsi, les circonstances de suspicion de l’ESB ne sont pas modifiées par la présente note de service
+(cf. Rappel). De même, les mesures de police sanitaire lors de la suspicion restent inchangées.
+Rappel (NS/DGAL/SDSPA/N97/n°8199 du 22/12/97) :
+Les animaux de l’espèce bovine sont considérés comme suspects d’être
+atteints d'E.S.B. lorsque, vivants, abattus ou morts, ils présentent des symptômes ou
+des lésions du système nerveux central ne pouvant être rapportés de façon certaine à
+une autre origine.
+Ainsi, les suspicions d'E.S.B. chez les bovins peuvent être envisagées dans les
+trois cas suivants :
+a) bovin de plus de 2 ans vivant, présentant des signes cliniques traduisant
+des troubles neurologiques tels que anxiété, hypersensibilité, excitation,
+agressivité, persistant plus de 15 jours ainsi que toutes autres
+manifestations caractéristiques d’un syndrome nerveux associés ou non à
+une atteinte de l’appareil locomoteur et/ou de l’état général ;
+b) bovin de plus de 2 ans, dont la mort ou l’euthanasie met un terme à
+l’évolution des symptômes mentionnés au paragraphe a) ci-dessus
+c) bovin de plus de 2 ans, abattu en urgence (ou non) et accompagné d’un
+certificat vétérinaire d’information consécutivement à l’apparition et à
+l’évolution d'un syndrome neurologique qu'il n'est pas possible d'attribuer
+avec certitude à une autre cause qu'une encéphalopathie spongiforme
+subaiguë transmissible.
