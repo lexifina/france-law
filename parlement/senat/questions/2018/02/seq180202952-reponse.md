@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180202952
+
+- Question : [SEQ180202952](seq180202952.md) — Situation des établissements pénitentiaires
+
+## Réponse
+
+*Justice, JO du 2018-04-05, page 1625*
+
+Le récent mouvement social des surveillants pénitentiaires a appelé tout un ensemble d'actions et de réflexions qui ont donné lieu à un relevé de conclusions que l'UFAP-UNSA, syndicat représentatif majoritaire chez les surveillants pénitentiaires, a signé. Il comporte des mesures d'amélioration qui s'appliquent dès à présent. Elles se déclinent principalement en quatre axes qui permettent une meilleure gestion des détenus radicalisés et violents, renforcent la sécurité des agents, améliorent les dispositifs indemnitaires et augmentent le nombre de recrutements prévus sur les prochaines années. Grâce à ces mesures inédites, les personnels seront mieux formés, mieux protégés, mieux reconnus, et fidélisés dans leurs fonctions. Les dispositions ainsi prises répondent à un certain nombre de demandes et revendications portées, pour certaines de longue date, par les personnels pénitentiaires et leurs représentants. Pour autant, la résolution des difficultés auxquelles le monde carcéral est confronté depuis des années nécessite une action structurelle. En ce sens, conscient de ce besoin, le ministère de la justice a engagé le travail indispensable qui trouvera sa concrétisation au travers du plan pénitentiaire voulu par le Président de la République, des chantiers de la justice, initiés avec le Premier ministre au mois d'octobre 2017 et de la loi de programmation pour la justice qui sera présentée au printemps prochain. L'objectif du Gouvernement est que, d'ici la fin du quinquennat, des conditions de détention plus dignes et conformes aux engagements européens soient mises en place. L'ensemble des problématiques ici soulevées constitue un enjeu de société important sur lequel la ministre de la justice est pleinement investie.
