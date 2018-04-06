@@ -2570,23 +2570,25 @@ Grade de référence de la hiérarchie militaire générale |
 
 Directeur des soins hors classe |
 
-À partir du 8e échelon |
+A partir du 8e échelon |
 
-Colonel |
+Colonel ou capitaine de vaisseau |
 
 Directeur des soins hors classe |
 
-À partir du 1er et jusqu'au 7e échelon inclus |
+A partir du 1er et jusqu'au 7e échelon inclus |
 
-Lieutenant-colonel |
+Lieutenant-colonel ou
+
+capitaine de frégate |
 
 Directeur des soins de classe normale |
 
-À partir du 8e échelon |
+A partir du 8e échelon |
 
 Cadre supérieur de santé paramédical |
 
-À partir du 7e échelon |
+A partir du 7e échelon |
 
 Psychologue hors classe |
 
@@ -2594,39 +2596,41 @@ A partir du 6e échelon |
 
 Sage-femme des hôpitaux du second grade (1) |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
 
 Directeur des soins de classe normale |
 
-À partir du 1er et jusqu'au 7e échelon inclus |
+A partir du 1er et jusqu'au 7e échelon inclus |
 
-Commandant |
+Commandant ou
+
+capitaine de corvette |
 
 Cadre supérieur de santé paramédical |
 
-À partir du 1er et jusqu'au 6e échelon inclus |
+A partir du 1er et jusqu'au 6e échelon inclus |
 
 Cadre de santé paramédical |
 
-À partir du 7e échelon |
+A partir du 7e échelon |
 
 Psychologue hors classe |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Psychologue de classe normale |
 
-À partir du 9e échelon |
+A partir du 9e échelon |
 
 Sage-femme des hôpitaux du second grade (1) |
 
-À partir du 4e et jusqu'au 5e échelon inclus |
+A partir du 4e et jusqu'au 5e échelon inclus |
 
 Cadre de santé paramédical |
 
-À partir du 4e et jusqu'au 6e échelon inclus |
+A partir du 4e et jusqu'au 6e échelon inclus |
 
-Capitaine |
+Capitaine ou lieutenant de vaisseau |
 
 Psychologue de classe normale |
 
@@ -2634,270 +2638,318 @@ A partir du 5e et jusqu'au 8e échelon inclus |
 
 Sage-femme des hôpitaux du second grade (1) |
 
-À partir du 1er et jusqu'au 3e échelon inclus |
+A partir du 1er et jusqu'au 3e échelon inclus |
 
 Cadre de santé paramédical |
 
-À partir du 1er et jusqu'au 3e échelon inclus |
+A partir du 1er et jusqu'au 3e échelon inclus |
 
-Lieutenant |
+Lieutenant ou enseigne de vaisseau de première classe |
 
 Psychologue de classe normale |
 
-À partir du 1er et jusqu'au 4e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Assistant médico-administratif de classe exceptionnelle |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Major |
 
 Assistant médico-administratif de classe supérieure |
 
-À partir du 7e échelon |
+A partir du 7e échelon |
 
 Assistant médico-administratif de classe normale |
 
-À partir du 11e échelon |
+A partir du 11e échelon |
 
 Diététicien de classe supérieure |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Diététicien de classe normale |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
+
+Infirmiers anesthésistes des hôpitaux des armées de deuxième grade |
+
+A partir du 1er échelon |
+
+Infirmiers anesthésistes des hôpitaux des armées de premier grade |
+
+A partir du 1er échelon |
 
 Infirmier anesthésiste de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Infirmier anesthésiste de classe normale (1) |
 
-À partir du 4e échelon |
+A partir du 4e échelon |
 
 Infirmier de bloc opératoire de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Infirmier de bloc opératoire de classe normale (1) |
 
-À partir du 5e échelon |
+A partir du 5e échelon |
 
 Infirmier de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Infirmier de classe normale (1) |
 
-À partir du 6e échelon. |
+A partir du 6e échelon |
 
-Infirmiers en soins généraux et spécialisés du quatrième grade/ Infirmiers anesthésistes |
+Infirmier en soins généraux et spécialisés du troisième grade/ Infirmier de bloc opératoire |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du troisième grade/ Infirmiers anesthésistes |
+Infirmier en soins généraux et spécialisés du troisième grade/ Puéricultrice |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du troisième grade/ Infirmiers de bloc opératoire |
+Infirmier en soins généraux et spécialisés du deuxième grade/ Infirmier de bloc opératoire |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du troisième grade/ Puéricultrices |
+Infirmier en soins généraux et spécialisés du deuxième grade/ Puéricultrice |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du deuxième grade/ Infirmiers de bloc opératoire |
+Infirmier en soins généraux et spécialisés du deuxième grade/ Infirmier en soins généraux |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du deuxième grade/ Puéricultrices |
+Infirmier en soins généraux et spécialisés du premier grade/ Infirmier en soins généraux |
 
-À partir du 1er échelon |
+A partir du 5e échelon |
 
-Infirmiers en soins généraux et spécialisés du deuxième grade/ Infirmiers en soins généraux |
+Manipulateurs d'électroradiologie médicale des hôpitaux des armées de classe supérieure |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Infirmiers en soins généraux et spécialisés du premier grade/ Infirmiers en soins généraux |
+Manipulateur d'électroradiologie médicale de classe supérieure (1) |
 
-À partir du 5e échelon |
+A partir du 1er échelon |
 
-Manipulateur d'électroradiologie médicale de classe supérieure |
+Manipulateurs d'électroradiologie médicale des hôpitaux des armées de classe normale |
 
-À partir du 1er échelon |
+A partir du 5e échelon |
 
-Manipulateur d'électroradiologie médicale de classe normale |
+Manipulateur d'électroradiologie médicale de classe normale (1) |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
 
-Masseur-kinésithérapeute de classe supérieure |
+Masseurs-kinésithérapeutes des hôpitaux des armées de classe supérieure |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Masseur-kinésithérapeute de classe normale |
+Masseur-kinésithérapeute de classe supérieure (1) |
 
-À partir du 6e échelon |
+A partir du 1er échelon |
+
+Masseurs-kinésithérapeutes des hôpitaux des armées de classe normale |
+
+A partir du 5e échelon |
+
+Masseur-kinésithérapeute de classe normale (1) |
+
+A partir du 6e échelon |
+
+Orthophonistes des hôpitaux des armées de classe supérieure (1) |
+
+A partir du 1er échelon |
 
 Orthophoniste de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
+
+Orthophonistes des hôpitaux des armées de classe normale (1) |
+
+A partir du 5e échelon |
 
 Orthophoniste de classe normale (1) |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
+
+Orthoptistes des hôpitaux des armées de classe supérieure (1) |
+
+A partir du 1er échelon |
 
 Orthoptiste de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
+
+Orthoptistes des hôpitaux des armées de classe normale (1) |
+
+A partir du 5e échelon |
 
 Orthoptiste de classe normale (1) |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
 
 Préparateur en pharmacie hospitalière de classe supérieure |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Préparateur en pharmacie hospitalière de classe normale |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
 
 Puéricultrice de classe supérieure (1) |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Puéricultrice de classe normale (1) |
 
-À partir du 5e échelon |
+A partir du 5e échelon |
 
 Sage-femme des hôpitaux du premier grade |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Technicien de laboratoire de classe supérieure |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
 Technicien de laboratoire de classe normale |
 
-À partir du 6e échelon |
+A partir du 6e échelon |
 
 Technicien supérieur hospitalier de 1ère classe |
 
-À partir du 1er échelon |
+A partir du 1er échelon |
 
-Technicien supérieur hospitalier de 2ème classe |
+Technicien supérieur hospitalier de 2e classe |
 
-À partir du 7e échelon |
+A partir du 7e échelon |
 
 Technicien hospitalier |
 
-À partir du 11e échelon |
+A partir du 11e échelon |
 
 Assistant médico-administratif de classe supérieure |
 
-À partir du 1er et jusqu'au 6e échelon inclus |
+A partir du 1er et jusqu'au 6e échelon inclus |
 
-Adjudant-chef |
+Adjudant-chef ou
+
+maître principal |
 
 Assistant médico-administratif de classe normale |
 
-À partir du 5e et jusqu'au 10e échelon inclus |
+A partir du 5e et jusqu'au 10e échelon inclus |
 
 Aide-soignant principal |
 
-À partir du 3e échelon |
+A partir du 3e échelon |
 
 Aide-soignant |
 
-À partir du 8e échelon |
+A partir du 8e échelon |
 
 Diététicien de classe normale |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
-Infirmier anesthésiste de classe normale (1). |
+Infirmier anesthésiste de classe normale (1) |
 
-À partir du 1er et jusqu'au 3e échelon inclus |
+A partir du 1er et jusqu'au 3e échelon inclus |
 
 Infirmier de bloc opératoire de classe normale (1) |
 
-À partir du 1er et jusqu'au 4e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Infirmier de classe normale (1) |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Infirmier en soins généraux et spécialisés du premier grade/ Infirmiers en soins généraux |
 
 A partir du 1er et jusqu'au 4e échelon inclus |
 
-Manipulateur en électroradiologie médicale de classe normale |
+Manipulateurs d'électroradiologie médicale des hôpitaux des armées de classe normale |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
-Masseur-kinésithérapeute de classe normale |
+Manipulateur d'électroradiologie médicale de classe normale (1) |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
+
+Masseurs-kinésithérapeutes des hôpitaux des armées de classe normale |
+
+A partir du 1er et jusqu'au 4e échelon inclus |
+
+Masseur-kinésithérapeute de classe normale (1) |
+
+A partir du 1er et jusqu'au 5e échelon inclus |
+
+Orthophonistes des hôpitaux des armées de classe normale (1) |
+
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Orthophoniste de classe normale (1) |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
+
+Orthoptistes des hôpitaux des armées de classe normale (1) |
+
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Orthoptiste de classe normale (1) |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1e et jusqu'au 5e échelon inclus |
 
 Préparateur en pharmacie hospitalière de classe normale |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Puéricultrice de classe normale (1) |
 
-À partir du 1er et jusqu'au 4e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Technicien de laboratoire de classe normale |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
-Technicien supérieur hospitalier de 2ème classe |
+Technicien supérieur hospitalier de 2e classe |
 
-À partir du 1er et jusqu'au 6e échelon inclus |
+A partir du 1er et jusqu'au 6e échelon inclus |
 
 Technicien hospitalier |
 
-À partir du 5e et jusqu'au 10e échelon inclus |
+A partir du 5e et jusqu'au 10e échelon inclus |
 
 Aide-soignant principal |
 
-À partir du 1er et jusqu'au 2e échelon inclus |
+A partir du 1er et jusqu'au 2e échelon inclus |
 
-Adjudant |
+Adjudant ou premier maître |
 
 Aide-soignant |
 
-À partir du 6e et jusqu'au 7e échelon inclus |
+A partir du 6e et jusqu'au 7e échelon inclus |
 
 Assistant médico-administratif de classe normale |
 
-À partir du 1er et jusqu'au 4e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Technicien hospitalier |
 
-À partir du 1er et jusqu'au 4e échelon inclus |
+A partir du 1er et jusqu'au 4e échelon inclus |
 
 Aide-soignant |
 
-À partir du 1er et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
-Sergent-chef |
+Sergent-chef ou maître |
 
-(1) Cadre d'extinction |
+(1) Corps en extinction. |
 
 NOTA :
 
 (*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".
-
-Conformément à l'article 4 du décret n° 2020-1292 du 22 octobre 2020, ces dispositions sont applicables aux militaires infirmiers et techniciens des hôpitaux des armées, à la date de leur reclassement, en application de l'article 9 du décret n° 2017-1007 du 10 mai 2017.
