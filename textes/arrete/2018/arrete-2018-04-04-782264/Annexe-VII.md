@@ -1,0 +1,3 @@
+# Article Annexe VII
+
+Les annexes du présent arrêté sont accessibles au lien suivant : https://www.sports.gouv.fr/media/1927/download.
