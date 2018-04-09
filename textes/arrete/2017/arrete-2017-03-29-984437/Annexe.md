@@ -118,6 +118,8 @@ Conseiller prospective et stratégie.
 
 Conseiller, chef du pôle judiciaire.
 
+Conseiller prospective et stratégie.
+
 2. Direction des ressources et des compétences de la police nationale :
 
 Chef du département du management et de la gestion des commissaires de police.
@@ -292,14 +294,10 @@ Préfecture de police-Divers :
 
 Conseiller technique chargé des affaires de police.
 
-14. Ecole nationale supérieure de la police :
-
-Directeur adjoint de l'école nationale supérieure de la police-Directeur de la stratégie, des formations et de la recherche.
-
-15. Service des technologies et des systèmes d'information de la sécurité intérieure
+14. Service des technologies et des systèmes d'information de la sécurité intérieure
 
 Adjoint au chef du service des technologies et des systèmes d'information de la sécurité intérieure.
 
-16. Divers :
+15. Divers :
 
 Secrétaire général adjoint pour l'administration du ministère de l'intérieur à Marseille.
