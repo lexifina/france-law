@@ -6,11 +6,11 @@ de fonctionnement des appareils AIS Intérieur
 
 |
 
-SOCIÉTÉ |
+Société |
 
-ADRESSE |
+Adresse |
 
-TYPES D'APPAREILS AGRÉÉS (*) |
+Types d'appareils agréés (*) |
 
 1 |
 
@@ -18,19 +18,23 @@ AEMI |
 
 56, avenue Pierre Berthelot-14000 Caen |
 
-Furuno, OceanSat |
+-Furuno
+
+-OceanSat |
 
 2 |
 
 ALPHATRON MARINE FRANCE |
 
-Route Industrielle, Centre Routier,
+Route Industrielle-
 
-ZI Portuaire,
+Centre Routier, ZI Portuaire-
 
 76700 Gonfreville l'Orcher |
 
-em-trak A100 Combined Class A/ Inland AIS Transceiver (R-4-308) |
+-Em-track A 100 Combined Class A
+
+/ Inland AIS Transceiver (R-4-308) |
 
 3 |
 
@@ -40,9 +44,13 @@ ATEYS |
 
 76600 Le Havre |
 
-Nauticast, Furuno, Comnav,
+-Nauticast
 
-Sailor 6280-6281 AIS system (classA/ Inland AIS) |
+-Furuno
+
+-Comnav
+
+-Sailor 6280-6281 AIS system classA/ Inland AIS (R-4-302) |
 
 4 |
 
@@ -52,7 +60,7 @@ ZI du Moros-
 
 29990 Concarneau |
 
-OceanSat |
+-OceanSat |
 
 5 |
 
@@ -62,7 +70,7 @@ CLAUDIN SERVICE |
 
 69250 Albigny-sur-Saône |
 
-Orolia type Z 601, Mc Murdo Smartfind M5 Class A/ Inland AIS |
+-Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
 6 |
 
@@ -72,19 +80,11 @@ DISCOUNT MARINE |
 
 92106 Boulogne Billancourt |
 
-em-trak A100 Combined Class A/ Inland AIS Transceiver (R-4-308) |
+-Em-track A 100 Combined Class A
+
+/ Inland AIS Transceiver (R-4-308) |
 
 7 |
-
-Établissement Max Guerdin et fils |
-
-13, rue de Clermont-
-
-60200 Compiègne |
-
-OceanSat |
-
-8 |
 
 FLUVIAL ELEC |
 
@@ -92,27 +92,13 @@ FLUVIAL ELEC |
 
 94700 Maisons Alfort |
 
-OceanSat
+-OceanSat Combined Class A/ Inland AIS Transceiver (R-4-209)
 
-Em-track A 100 Combined Class
+-Em-track A 100 Combined Class A
 
-A/ inland AIS Transceiver |
+/ Inland AIS Transceiver (R-4-308) |
 
-9 |
-
-FLUVIATECH |
-
-4, rue Jules Verne-
-
-Eurozone Forbach-
-
-57600 Forbach |
-
-Simrad V5035
-
-(class A/ Inland AIS) |
-
-10 |
+8 |
 
 GH2E |
 
@@ -120,57 +106,75 @@ GH2E |
 
 75014 Paris |
 
-OceanSat |
+-OceanSat |
 
-11 |
+9 |
+
+H2O |
+
+Port de plaisance-
+
+21170 Saint Jean de Losne |
+
+-AIS 950 Combined Class A/ Inland AIS Transceiver (R-4-311) |
+
+10 |
 
 LORRAINE NAUTISME |
 
 2, rue des Alliés-57050 Metz |
 
-Orolia type Z601,
+-Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
-Mc Murdo Smartfind M5
-
-Class A/ Inland AIS |
-
-12 |
+11 |
 
 MAP Marine |
 
-1, Quai de la Grande Bigue-
-
-Bat B.-
+1, Quai de la Grande Bigue-Bat. B
 
 13002 Marseille |
 
-Nauticast, Furuno, Transas, Comnav |
+-Nauticast
+
+-Furuno
+
+-Transas
+
+-Comnav |
+
+12 |
+
+MAX GUERDIN ET FILS |
+
+13, rue de Clermont-
+
+60200 Compiègne |
+
+-OceanSat |
 
 13 |
 
-PROMAT SÉCURITÉ |
+PROMAT SECURITE |
 
-68, boulevard Jules Durand-
+68, boulevard Jules Durand-76056 Le Havre |
 
-76056 Le Havre |
+-Furuno
 
-Furuno ; OceanSat |
+-OceanSat |
 
 14 |
 
-RADIO HOLLAND FRANCE SAS
-
-(ex ETNA) |
+RADIO HOLLAND France (ex ETNA) |
 
 31, rue des ponts-
 
 76620 Le Havre |
 
-JRC Japon
+-JRC Japon
 
-A2 Inland AIS (Nauticast) transponder
+-A2 Inland AIS (Nauticast) transponder
 
-R4 IAIS Transponder System |
+-R4 IAIS Transponder System (R-4-201) |
 
 15 |
 
@@ -180,7 +184,11 @@ SIECMI |
 
 29900 Concarneau |
 
-Saab R4 IAIS, CNS VDL6000, SRT Comnav Voyager X3 |
+-R4 IAIS Transponder System (R-4-201)
+
+-VDL6000/ Inland AIS System (R-4-204)
+
+-SRT Comnav Voyager X3 |
 
 16 |
 
@@ -192,7 +200,7 @@ Espace Fréjorgues Est-
 
 34130 Mauguio |
 
-ICOM |
+-ICOM |
 
 17 |
 
@@ -204,8 +212,10 @@ CD 45-Pont de l'Etoile-
 
 13360 Roquevaire |
 
-SAM Electronics, Saab R4 IAIS,
+-SAM Electronics
 
-Sailor 6280-6281 AIS system (classA/ Inland AIS) |
+-R4 IAIS Transponder System (R-4-201),
+
+-Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
 (*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
