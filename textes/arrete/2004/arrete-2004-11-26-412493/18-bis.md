@@ -1,6 +1,6 @@
 # Article 18 bis
 
-La provision globale pour dépréciation des actifs est constituée lorsque les placements mentionnés à l'article R. 931-10-21 du code de la sécurité sociale, hormis les valeurs amortissables et titres assimilés mentionnés aux 1° à 3° du même article, se trouvent en situation de moins-value latente nette globale après déduction des dépréciations à caractère durable.
+La provision globale pour dépréciation des actifs est constituée lorsque les placements mentionnés à l'article R. 332-2 du code des assurances, hormis les valeurs amortissables et titres assimilés mentionnés aux 1° à 2° bis du même article, se trouvent en situation de moins-value latente nette globale après déduction des dépréciations à caractère durable.
 
 Cette moins-value latente nette globale est constatée lorsque la valeur globale nette comptable des placements mentionnés au premier alinéa est supérieure à leur valeur globale de réalisation. Elle est égale à la différence constatée entre les deux évaluations.
 
