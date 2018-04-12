@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Actualisation des tarifs de la taxe locale sur la publicité extérieure applicables en 2019
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-04-12
+- Matière : ESPACES PUBLICS
+- Objet : Actualisation des tarifs de la taxe locale sur la publicité extérieure applicables en 2019
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NDAsInB1ciI6ImJsb2JfaWQifX0=--5d6e7d78664d5e307be94f100579e5ee51314b6b/120418_33.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
