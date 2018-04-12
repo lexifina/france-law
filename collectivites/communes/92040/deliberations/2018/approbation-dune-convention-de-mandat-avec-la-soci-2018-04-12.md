@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mandat avec la Société Publique Locale d’Aménagement Seine Ouest Aménagement pour les travaux de réaménagement du Forum Plateau Rodin Egalité
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-04-12
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’une convention de mandat avec la Société Publique Locale d’Aménagement Seine Ouest Aménagement pour les travaux de réaménagement du Forum Plateau Rodin Egalité
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MjksInB1ciI6ImJsb2JfaWQifX0=--c965dcb1ebff7c213ca575e6076fb6b881b94dbb/120418_31.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
