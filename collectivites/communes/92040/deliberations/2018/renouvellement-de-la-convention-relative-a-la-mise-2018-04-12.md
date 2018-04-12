@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de la convention relative à la mise en maquette, la mise en page et l’impression des articles consacrés à l’Établissement public territorial Grand Paris Seine Ouest dans les journaux de ses communes membres
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-04-12
+- Matière : COMMUNICATION
+- Objet : Renouvellement de la convention relative à la mise en maquette, la mise en page et l’impression des articles consacrés à l’Établissement public territorial Grand Paris Seine Ouest dans les journaux de ses communes membres
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MzksInB1ciI6ImJsb2JfaWQifX0=--38f4f93cef643f7062782d26a1d532190a03cf14/120418_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
