@@ -820,19 +820,19 @@ Tandem. |
 
 Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
 
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme. |
+|
 
 Progression accompagnée en chute libre. |
 
 Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
 
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme. |
+|
 
 Progression traditionnelle. |
 
 Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
 
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme. |
+|
 
 BP JEPS, spécialité "activités du cyclisme". |
 
@@ -1392,6 +1392,26 @@ Encadrement, initiation et conduite de cycles d'apprentissage en volley-ball et 
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "méthode traditionnelle" (option A). |
+
+Encadrement en autonomie de la méthode traditionnelle, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "progression accompagnée en chute" (option B). |
+
+Encadrement en autonomie de la progression accompagnée en chute, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C).
+
+|
+
+Encadrement en autonomie du saut en tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
+
+|
+
 C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
 
 supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
@@ -1470,11 +1490,7 @@ A l'exclusion des sites naturels situés à une altitude égale ou supérieure �
 
 A l'exclusion de la via ferrata.
 
-A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
+A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. |
 
 DES JEPS, spécialité "performance sportive", mention "escalade". |
 
@@ -2607,6 +2623,12 @@ CQP "technicien sportif de rugby à XIII".
 Enseignement et animation des activités du rugby à XIII. Encadrement, animation et conduite de cycles d'apprentissage du rugby à XIII. |
 
 |
+
+CQP "technicien sportif de tir à l'arc". |
+
+Encadrement de séances collectives ou individuelles d'entraînement et de perfectionnement de tir à l'arc jusqu'au niveau national. |
+
+Dans la limite de douze pratiquants. |
 
 F. - Diplômes délivrés par le ministère chargé de la santé
 
