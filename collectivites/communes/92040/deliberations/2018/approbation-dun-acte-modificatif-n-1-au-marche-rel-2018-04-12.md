@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un acte modificatif n° 1 au marché relatif aux équipements d’assainissement des bâtiments communaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-04-12
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation d’un acte modificatif n° 1 au marché relatif aux équipements d’assainissement des bâtiments communaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5MzgsInB1ciI6ImJsb2JfaWQifX0=--8a83c8d7dc0bb759e6922a4faa91cbe4204f368f/120418_27.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
