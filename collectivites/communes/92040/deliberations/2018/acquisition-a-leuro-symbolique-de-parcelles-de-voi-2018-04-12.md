@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Acquisition à l’euro symbolique de parcelles de voirie sises 17-21 rue du Gouverneur Général Eboué auprès de l’Établissement Public Foncier d’Île-de-France
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-04-12
+- Matière : PATRIMOINE
+- Objet : Acquisition à l’euro symbolique de parcelles de voirie sises 17-21 rue du Gouverneur Général Eboué auprès de l’Établissement Public Foncier d’Île-de-France
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NDgsInB1ciI6ImJsb2JfaWQifX0=--ee072672c97b9fb01c63773fc1e3b4e03f3ea9b8/120418_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
