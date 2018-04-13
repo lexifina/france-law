@@ -2,68 +2,38 @@
 
 CARACTÉRISTIQUES DE TENUE AU FROID
 
-SAISON
+SAISON |
 
-|
+DATE |
 
-DATE
-
-|
-
-CLASSE
-
-|
+CLASSE |
 
 TEMPÉRATURE LIMITE DE FILTRABILITÉ
 
-(°C, MAX)
+(°C, max) |
 
-|
+Eté |
 
-Eté
+1er avril - 31 octobre |
 
-|
+B |
 
-1er avril - 31 octobre
+0 °C |
 
-|
+Hiver |
 
-B
+1er novembre - 31 mars |
 
-|
+D* |
 
-0 °C
+- 10 °C |
 
-|
+Gazole B30 grand froid |
 
-Hiver
+1er janvier - 31 décembre |
 
-|
+F |
 
-1er novembre - 31 mars
+- 20 °C |
 
-|
-
-E
-
-|
-
-- 15 °C
-
-|
-
-Gazole B30 grand froid
-
-|
-
-1er janvier - 31 décembre
-
-|
-
-F
-
-|
-
-- 20 °C
-
-|
+* Les carburants distribués usuellement en hiver sont de classe E avec une température limite de filtrabilité maximale de - 15 °C. |

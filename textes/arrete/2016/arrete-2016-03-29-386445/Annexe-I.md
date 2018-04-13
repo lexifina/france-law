@@ -2,268 +2,140 @@
 
 CARACTÉRISTIQUES TECHNIQUES DU GAZOLE B30
 
-PROPRIÉTÉS
+PROPRIÉTÉS |
 
-|
-
-UNITÉ
-
-|
-
-LIMITES
-
-|
-
-Min.
-
-|
-
-Max.
-
-|
-
-Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
-
-|
-
-% (v/v)
-
-|
-
-24,0
-
-|
-
-30,0
-
-|
-
-Indice de cétane
-
-|
-
--
-
-|
-
-51,0
-
-|
-
--
-
-|
-
-Masse volumique (à 15 °C)
-
-|
-
-kg/m3
-
-|
-
-825,0
-
-|
-
-865,0
-
-|
-
-Point éclair
-
-|
-
-°C
-
-|
-
-55,0
-
-|
-
--
-
-|
-
-Viscosité à 40 °C
-
-|
+UNITÉ |
 
-mm2/s
+LIMITES |
 
-|
-
-2,00
-
-|
-
-4,650
-
-|
-
-Teneur en soufre
-
-|
-
-mg/kg
-
-|
-
--
-
-|
+Min. |
 
-10,0
+Max. |
 
-|
-
-Teneur en manganèse
-
-|
-
-mg/l
-
-|
-
--
+Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
 
-|
-
-2,0
-
-|
+% (v/v) |
 
-Teneur en hydrocarbures aromatiques polycliques
+24,0 |
 
-|
-
-% (m/m)
-
-|
+30,0 |
 
--
+Indice de cétane |
 
-|
+- |
 
-8,0
+51,0 |
 
-|
+- |
 
-Teneur en cendres
+Masse volumique à 15 °C |
 
-|
+kg/m3 |
 
-% (m/m)
+825,0 |
 
-|
+865,0 |
 
--
+Point éclair |
 
-|
+°C |
 
-0,010
+> 55,0 |
 
-|
+- |
 
-Teneur en eau
+Viscosité à 40 °C |
 
-|
+mm2/s |
 
-mg/kg
+2,000 |
 
-|
+4,650 |
 
--
+Teneur en soufre |
 
-|
+mg/kg |
 
-290,0
+- |
 
-|
+10,0 |
 
-Contamination totale
+Teneur en manganèse |
 
-|
+mg/l |
 
-mg/kg
+- |
 
-|
+2,0 |
 
--
+Teneur en hydrocarbures aromatiques polycliques |
 
-|
+% (m/m) |
 
-24,0
+- |
 
-|
+8,0 |
 
-Stabilité à l'oxydation
+Teneur en cendres |
 
-|
+% (m/m) |
 
-h
+- |
 
-|
+0,01 |
 
-20,0
+Teneur en eau |
 
-|
+mg/kg |
 
--
+- |
 
-|
+290 |
 
-Distillation :
+Contamination totale |
 
-|
+mg/kg |
 
-|
+- |
 
-|
+24 |
 
-|
+Stabilité à l'oxydation |
 
-- % (v/v) récupéré à 250 °C
+h |
 
-|
+20 |
 
-% (v/v)
+- |
 
-|
+Distillation : |
 
 |
 
-65,0
-
 |
-
-- % (v/v) récupéré à 350 °C
 
 |
 
-% (v/v)
-
-|
+- % (v/v) récupéré à 250 °C |
 
-85,0
+% (v/v) |
 
 |
 
-|
+< 65 |
 
-- 95 % (v/v) récupéré à :
+- % (v/v) récupéré à 350 °C |
 
-|
+% (v/v) |
 
-°C
+85 |
 
 |
 
--
+- 95 % (v/v) récupéré à : |
 
-|
+°C |
 
-360,0
+- |
 
-|
+360 |
