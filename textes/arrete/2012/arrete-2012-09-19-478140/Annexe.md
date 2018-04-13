@@ -96,6 +96,38 @@ RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-comp
 
 // |
 
+ASTEC IAA, 14 lotissement les Aubépines, 71250 CLUNY |
+
+Opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement |
+
+1er avril 2018 |
+
+31 mars 2023 |
+
+Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement |
+
+// |
+
+// |
+
+Opérateur, porcins, manipulations et soins, mise à mort |
+
+// |
+
+// |
+
+Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+// |
+
+// |
+
+Opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement |
+
+// |
+
+// |
+
 Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
