@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2016/2309 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par les directives (UE) 2016/2309 et (UE) 2018/217 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
