@@ -1,20 +1,16 @@
 # Article Annexe III
 
-MODÈLE DE CONVENTION RELATIVE À LA RÉALISATION D'ACTIONS ET D'INVESTISSEMENTS CHEZ UN ADHÉRENT D'UNE ORGANISATION DE PRODUCTEURS DANS LE CADRE DU PROGRAMME OPÉRATIONNEL 20../20.. (ANNÉE 20..)
+MODÈLE DE CONVENTION RELATIVE À LA RÉALISATION D'ACTIONS ET D'INVESTISSEMENTS CHEZ UN ADHÉRENT D'UNE ORGANISATION DE PRODUCTEURS DANS LE CADRE DU PROGRAMME OPÉRATIONNEL 20./20. (ANNÉE 20.)
 
 Entre :
 
-L'organisation de producteurs.............. ci-après
-
-dénommée "l'OP",
+L'organisation de producteurs ci-après dénommée l'OP ,
 
 D'une part,
 
 Et
 
-Le producteur .........., dont le siège social est situé ...........,
-
-ci-après dénommé "l'adhérent",
+Le producteur , dont le siège social est situé , ci-après dénommé l'adhérent ,
 
 D'autre part,
 
@@ -28,11 +24,11 @@ La présente convention a pour objet de définir les conditions de réalisation 
 
 Article 2
 
-Modalités de prise en charge par le fonds opérationnel
+Modalités de prise en charge par le fonds opérationnel d'une action et/ou d'un investissement réalisé par l'adhérent
 
-d'une action et/ou d'un investissement réalisé par l'adhérent
+Le fonds opérationnel (*) 20.. prend en charge les actions et/ou investissements suivants :
 
-Le fonds opérationnel 20.. prend en charge les actions et/ou investissements suivants :
+(*) (ne pas confondre le taux de prise en charge par le fonds opérationnel et le taux de financement de l'union européenne (50 %, 60 %)
 
 1. Code mesure, détail de l'action ou de l'investissement :
 
@@ -40,7 +36,7 @@ Cette action est prise en charge à hauteur de X % de son montant HT.
 
 2. Code mesure, détail de l'action ou de l'investissement :
 
-Cette action est prise en charge à hauteur de X % de son montant HT (ne pas confondre le taux de prise en charge par le fonds opérationnel et le taux de financement de l'Union européenne (50 % ou 60 %).
+Cette action est prise en charge à hauteur de X % de son montant HT.
 
 3. Code mesure, détail de l'action ou de l'investissement :
 
@@ -58,21 +54,21 @@ Article 3
 
 Absence de double financement
 
-L'adhérent s'engage à ne pas bénéficier, ni directement ni indirectement, d'un double financement communautaire ou national pour les actions et/ou investissements pris en charge par le fonds opérationnel.
+L'adhérent s'engage à ne pas bénéficier, ni directement ni indirectement, d'un double financement européen ou national pour les actions et/ou investissements pris en charge par le fonds opérationnel.
 
 Article 4
 
 Cas d'un adhérent quittant l'OP
 
-Dans le cas où l'adhérent quitterait l'OP pendant la période d'amortissement de l'investissement, sauf dans le cas d'une adhésion à une autre OP reconnue au titre du règlement règlement (UE) n° 1308/2013 et avec l'accord de l'OP de départ, il restitue à l'OP la valeur résiduelle de l'investissement ayant bénéficié du financement par le fonds opérationnel (au prorata de celui-ci).
+Dans le cas où l'adhérent quitterait l'OP pendant la période d'amortissement de l'investissement, sauf dans le cas d'une adhésion à une autre OP reconnue au titre du règlement (UE) n° 1308/2013 et avec l'accord de l'OP de départ, il restitue à l'OP la valeur résiduelle de l'investissement ayant bénéficié du financement par le fonds opérationnel (au prorata de celui-ci).
+
+La durée d'amortissement prise en compte est limitée à 10 ans. Au-delà de 10 ans, l'investissement est réputé totalement amorti.
 
 Toute disposition conduisant à maintenir le bien subventionné par le fonds opérationnel dans le champ de l'organisation de producteurs (le bien reste propriété de l'OP ou de l'un de ses adhérents) ou dans le champ de l'organisation économique (avec accord de l'OP de départ) annule l'obligation de remboursement. A l'inverse, toute disposition conduisant à sortir le bien du champ de l'organisation économique (notamment démission, vente du bien) entraîne le remboursement. L'adhérent qui part à la retraite sans repreneur est exempté de l'obligation de remboursement.
 
 Article 5
 
-La présente convention est établie en deux exemplaires originaux.
-
-Un exemplaire reste au siège de l'OP. L'autre exemplaire est destiné à l'adhérent.
+La présente convention est établie en deux exemplaires originaux. Un exemplaire reste au siège de l'OP. L'autre exemplaire est destiné à l'adhérent.
 
 Date :
 
