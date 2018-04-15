@@ -127,3 +127,35 @@ Durées d'assurance acquises dans d'autres régimes de retraite de base obligato
 IV. - Données relatives à l'utilisation du traitement CIR :
 
 Traces des utilisateurs : identification et habilitation.
+
+V. - Données relatives aux allocations temporaires d'invalidité :
+
+1° Dates, lieux et natures des circonstances des événements à l'origine des infirmités ;
+
+2° Faits générateurs de la prestation demandée (accidents de service, accidents de trajet, maladies professionnelles ou d'origine professionnelle) ;
+
+3° Origine de l'invalidité (premier droit ou aggravation, blessure ou maladie) ;
+
+4° Imputabilité au service ;
+
+5° Infirmités au titre desquelles est présentée la demande ;
+
+6° Dates des étapes de la procédure (demande, expertises médicales, commission de réforme, concession, contestations) ;
+
+7° Dates de début et de fin de jouissance de l'allocation ;
+
+8° Assiette de l'allocation en nombre de points d'indice majoré ;
+
+9° Taux d'invalidité de chaque infirmité et taux global d'invalidité ;
+
+10° Rente déductible ;
+
+11° Montant et date d'effet de l'allocation ;
+
+12° Assignation de l'allocation ;
+
+13° Fondement juridique du droit à allocation ( article 65 de la loi n° 84-16 du 11 janvier 1984 , décret n° 60-1089 du 6 octobre 1960 , décisions exécutoires rendues par les juridictions administratives) ;
+
+14° Décision de rejet de l'allocation ;
+
+15° Délai de forclusion.
