@@ -954,7 +954,19 @@ Palaiseau |
 
 Tribunal d'instance |
 
-Seine-et-Marne |
+Paris
+
+|
+
+Paris |
+
+Tribunal de grande instance
+
+|
+
+Seine-et-Marne
+
+|
 
 Fontainebleau |
 
