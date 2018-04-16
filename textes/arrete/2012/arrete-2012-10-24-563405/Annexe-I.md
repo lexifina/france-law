@@ -386,7 +386,11 @@ Kazakhstan :
 
 Paris-Almaty ;
 
+Paris-Aktaou ;
+
 Paris-Astana ;
+
+Paris-Chymkent ;
 
 Kenya :
 
