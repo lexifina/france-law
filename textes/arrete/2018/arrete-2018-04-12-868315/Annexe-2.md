@@ -1,22 +1,38 @@
-# Article LEGIARTI000034637781
-
-ANNEXE 2
+# Article Annexe 2
 
 VOLUME DE PRÉLÈVEMENT SANGUIN EN FONCTION DU POIDS DE LA PERSONNE
 
-VOLUME MAXIMAL DE SANG POUVANT ÊTRE PRÉLEVÉ EN FONCTION DU POIDS CORPOREL |
+Volume maximal de sang pouvant être prélevé en fonction du poids corporel |
 
-Poids en kilos |
+Poids
+
+en kilos |
 
 Volume sanguin total en mL |
 
-Volume maximal par prélèvement en mL (= 2,5 % du volume sanguin total) |
+Volume maximal
 
-Volume maximal (soin + recherche) par période de 30 jours en mL |
+par prélèvement en mL
 
-Taux minimum d'hémoglobine requis au moment du prélèvement en mL |
+(=2.5% du volume
 
-Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a une pathologie respiratoire ou cardiovasculaire en mL |
+sanguin total) |
+
+Volume total maximal [recherche + soin
+
+(le cas échéant)] par période de 30 jours en mL |
+
+Taux minimum d'hémoglobine requis au moment
+
+du prélèvement en mL |
+
+Taux minimum d'hémoglobine requis au moment
+
+du prélèvement si le patient
+
+a une pathologie respiratoire
+
+ou cardiovasculaire en mL |
 
 1 |
 
@@ -28,7 +44,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 7.0 |
 
-9.0 -10.0 |
+9.0-10.0 |
 
 2 |
 
@@ -140,7 +156,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 11-15 |
 
-880-1 200 |
+880-1200 |
 
 22-30 |
 
@@ -152,7 +168,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 16-20 |
 
-1 280-1 600 |
+1280-1600 |
 
 32-40 |
 
@@ -164,7 +180,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 21-25 |
 
-1 680-2 000 |
+1680-2000 |
 
 42-50 |
 
@@ -176,7 +192,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 26-30 |
 
-2 080-2 400 |
+2080-2400 |
 
 52-60 |
 
@@ -188,7 +204,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 31-35 |
 
-2 480-2 800 |
+2480-2800 |
 
 62-70 |
 
@@ -200,7 +216,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 36-40 |
 
-2 880-3 200 |
+2880-3200 |
 
 72-80 |
 
@@ -212,7 +228,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 41-45 |
 
-3 280-3 600 |
+3280-3600 |
 
 82-90 |
 
@@ -224,7 +240,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 46-50 |
 
-3 680-4 000 |
+3680-4000 |
 
 92-100 |
 
@@ -236,7 +252,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 51-55 |
 
-4 080-4 400 |
+4080-4400 |
 
 102-110 |
 
@@ -248,7 +264,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 56-60 |
 
-4 480-4 800 |
+4480-4800 |
 
 112-120 |
 
@@ -260,7 +276,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 61-65 |
 
-4 880-5 200 |
+4880-5200 |
 
 122-130 |
 
@@ -272,7 +288,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 68-70 |
 
-5 280-5 600 |
+5280-5600 |
 
 132-140 |
 
@@ -284,7 +300,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 71-75 |
 
-5 680-6 000 |
+5680-6000 |
 
 142-150 |
 
@@ -296,7 +312,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 76-80 |
 
-6 080-6 400 |
+6080-6400 |
 
 152-160 |
 
@@ -308,7 +324,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 81-85 |
 
-6 480-6 800 |
+6480-6800 |
 
 162-170 |
 
@@ -320,7 +336,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 86-90 |
 
-6 880-7 200 |
+6880-7200 |
 
 172-180 |
 
@@ -332,7 +348,7 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 91-95 |
 
-7 280-7 600 |
+7280-7600 |
 
 182-190 |
 
@@ -342,9 +358,9 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 9.0-10.0 |
 
-> 96 |
+>96 |
 
-7 680-8 000 |
+7680-8000 |
 
 192-200 |
 
@@ -354,4 +370,4 @@ Taux minimum d'hémoglobine requis au moment du prélèvement si le patient a un
 
 9.0-10.0 |
 
-D'après Blood Volume Guidelines V1.1, 30 November 2015, Stellenbosch University, Health Research Ethics Committee (HREC).
+D'après Blood Volume Guidelines V1.1, 30 November 2015 Stellenbosch University, Health Research Ethics Committee (HREC)
