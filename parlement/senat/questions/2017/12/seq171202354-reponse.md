@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202354
+
+- Question : [SEQ171202354](seq171202354.md) — Accueil prioritaire au sein d'une école intercommunale
+
+## Réponse
+
+*Éducation nationale, JO du 2018-04-19, page 1931*
+
+En application de l'article L. 212-2 du code de l'éducation, une commune peut ne pas être pourvue d'école élémentaire publique, dès lors qu'elle s'est regroupée avec une ou plusieurs autres communes pour l'établissement et l'entretien d'une école accueillant les élèves domiciliés sur le territoire des communes concernées. Ce regroupement peut ainsi être volontaire mais devient obligatoire dès lors que les communes considérées sont distantes de moins de trois kilomètres et que la population scolaire de l'une d'elles est inférieure régulièrement à quinze unités. De tels regroupements, en ce qu'ils permettent des mutualisations de moyens, sont porteurs d'améliorations du service public de l'éducation, sur le temps scolaire comme périscolaire. Ce regroupement prend la forme d'un regroupement pédagogique intercommunal (RPI), structure pédagogique d'enseignement regroupant les élèves de plusieurs communes dont l'existence repose sur un accord contractuel entre communes qui fixe notamment les conditions de répartition des charges des écoles regroupées. Il existe deux sortes de RPI : le RPI dispersé (chaque école rassemble les élèves de plusieurs communes par niveau pédagogique) et le RPI concentré (l'ensemble des élèves des communes concernées est scolarisé dans l'école de l'une des communes). Dès lors, les élèves domiciliés sur une commune dépourvue d'école relèvent nécessairement d'un RPI, dont il appartient aux communes membres d'adapter la configuration en fonction de la population scolaire relevant de l'ensemble des communes, pour assurer la scolarisation de tous les enfants, qui est pour eux un droit et une obligation pour les pouvoirs publics.
