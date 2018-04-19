@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180202998
+
+- Question : [SEQ180202998](seq180202998.md) — Sécurité alimentaire dans les établissements scolaires
+
+## Réponse
+
+*Éducation nationale, JO du 2018-04-19, page 1932*
+
+La circulaire n° 2002-004 du 3 janvier 2002 a pour objectif de transmettre des conseils simples pour éviter les risques qu'une mauvaise maîtrise des aliments pourrait engendrer lors d'activités culinaires à l'école ou à l'occasion de goûters ou repas organisés par les parents d'élèves pour les anniversaires des enfants ou les fêtes de fin d'année scolaire. Des moments conviviaux peuvent aussi être l'occasion d'impliquer les parents dans l'éducation à l'alimentation de leurs enfants. Le texte traite des matières premières à utiliser, des précautions à prendre lors de la fabrication, des conditions de conservation des produits, du transport des produits jusqu'à l'école, des conditions de stockage des produits à l'école et de la consommation des produits. Ces mesures de précaution visent à réduire les risques d'intoxication à l'occasion de proposition aux enfants de produits alimentaires qui ont connu un délai entre la fabrication et la consommation, un transport et différents lieux de stockage, mais aussi à limiter les réactions allergiques. La circulaire donne un cadre pour permettre aux directeurs d'école, enseignants et parents d'élèves d'organiser au mieux ces activités. L'éducation nationale est impliquée dans l'éducation à l'alimentation des enfants et des jeunes. De la maternelle au lycée, avec les programmes d'enseignement (éducation physique et sportive, sciences de la vie et de la Terre, histoire-géographie, langues vivantes pour la découverte du patrimoine gastronomique des autres pays, etc.) ou dans le cadre d'activités éducatives, les élèves découvrent tous les volets de l'éducation à l'alimentation (dimensions nutritionnelles, culturelles, géopolitiques et environnementales).
