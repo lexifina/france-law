@@ -10,6 +10,8 @@ Dolique.
 
 Fenugrec.
 
+Fèves.
+
 Féveroles.
 
 Flageolets.
