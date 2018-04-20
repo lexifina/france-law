@@ -32,6 +32,10 @@ Direction des affaires financières |
 
 P. 144, P. 146, P. 167, P. 169, P. 178, P. 212 |
 
+Direction de la maintenance aéronautique |
+
+P. 144, P. 146, P. 178, P. 212 |
+
 Service parisien de soutien de l'administration centrale |
 
 P. 144, P. 146, P. 167, P. 169, p. 178, P. 212 |

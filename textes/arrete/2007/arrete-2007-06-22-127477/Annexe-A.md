@@ -136,28 +136,6 @@ MAPA x 0,66 |
 
 Armée de l'air |
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense |
-
-Chef du service des contrats et des finances |
-
-Sans limitation |
-
-Adjoints au chef du service des contrats et des finances |
-
-MAPA x 100 |
-
-Chef de la division des contrats du service des contrats et des finances et ses adjoints |
-
-MAPA x 1 |
-
-Président de la commission des contrats et ses adjoints |
-
-MAPA x 100 |
-
-Directeurs des structures spécialisées d'achat et de mandatement de Bordeaux-Mérignac et de Bordeaux-Beauséjour |
-
-Sans limitation |
-
 Service industriel de l'aéronautique |
 
 Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey |

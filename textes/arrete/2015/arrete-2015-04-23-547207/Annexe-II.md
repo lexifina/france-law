@@ -116,10 +116,6 @@ Directeur du service de soutien de la flotte à Brest |
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Chef du service contrats finances de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques de la défense |
-
-P. 144, P. 146, P. 178, P. 212 |
-
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
 P. 212, P. 902 |
