@@ -1,0 +1,120 @@
+# Renforcement de l’organisation des juridictions
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N36627
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/renforcement_organisation_juridictions
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl17-462.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-04-20 : 1er dépôt d'une initiative. (PRJLSNR5S299B0462)
+  - 2018-04-20 : Etude d'impact (ETDISNR5S299B0462)
+  - 2018-04-20 : Avis du Conseil d'Etat (AVCESNR5S299B0462)
+  - 2018-04-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-04-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-10-03 : Dépôt de rapport (RAPPSNR5S319B0011, PRJLSNR5S319BTC0012)
+  - Discussion en séance publique
+    - 2018-10-09 : Discussion en séance publique
+    - 2018-10-10 : Discussion en séance publique
+    - 2018-10-11 : Discussion en séance publique
+    - 2018-10-16 : Discussion en séance publique
+    - 2018-10-17 : Discussion en séance publique
+    - 2018-10-23 : Discussion en séance publique
+    - 2018-10-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-10-24 : Dépôt d'une initiative en navette (PRJLANR5L15B1350)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-24 : Renvoi en commission au fond
+      - 2018-07-25 : Nomination de rapporteur
+      - 2018-07-25 : Réunion de commission
+      - 2018-11-06 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-07 : Réunion de commission
+      - 2018-11-08 : Réunion de commission
+      - 2018-11-08 : Réunion de commission
+      - 2018-11-08 : Réunion de commission
+      - 2018-11-09 : Réunion de commission
+      - 2018-11-09 : Réunion de commission
+      - 2018-11-20 : Réunion de commission
+      - 2018-11-09 : Dépôt de rapport (RAPPANR5L15B1397, PRJLANR5L15BTC1397)
+  - Discussion en séance publique
+    - 2018-11-19 : Discussion en séance publique
+    - 2018-11-19 : Discussion en séance publique
+    - 2018-11-20 : Discussion en séance publique
+    - 2018-11-20 : Discussion en séance publique
+    - 2018-11-21 : Discussion en séance publique
+    - 2018-11-21 : Discussion en séance publique
+    - 2018-11-22 : Discussion en séance publique
+    - 2018-11-22 : Discussion en séance publique
+    - 2018-11-22 : Discussion en séance publique
+    - 2018-11-23 : Discussion en séance publique
+    - 2018-11-23 : Discussion en séance publique
+    - 2018-11-23 : Discussion en séance publique
+    - 2018-12-03 : Discussion en séance publique
+    - 2018-12-03 : Discussion en séance publique
+    - 2018-12-04 : Discussion en séance publique
+    - 2018-12-04 : Discussion en séance publique
+    - 2018-12-05 : Discussion en séance publique
+    - 2018-12-11 : Discussion en séance publique
+    - 2018-12-11 : Discussion en séance publique
+    - 2018-12-11 : Décision
+- Commission Mixte Paritaire
+  - 2018-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-12-13 : Nomination de rapporteur
+    - 2018-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B1498)
+    - 2018-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S319B9999, PRJLSNR5S319BTC0204)
+  - 2018-12-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2018-12-13 : Dépôt d'une initiative en navette (PRJLANR5L15B1502)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-13 : Renvoi en commission au fond
+      - 2018-12-19 : Réunion de commission
+      - 2018-12-19 : Réunion de commission
+      - 2018-12-19 : Réunion de commission
+      - 2019-01-15 : Réunion de commission
+      - 2018-12-20 : Dépôt de rapport (RAPPANR5L15B1549, PRJLANR5L15BTC1549)
+  - Discussion en séance publique
+    - 2019-01-15 : Discussion en séance publique
+    - 2019-01-15 : Discussion en séance publique
+    - 2019-01-16 : Discussion en séance publique
+    - 2019-01-16 : Discussion en séance publique
+    - 2019-01-17 : Discussion en séance publique
+    - 2019-01-17 : Discussion en séance publique
+    - 2019-01-17 : Discussion en séance publique
+    - 2019-01-23 : Discussion en séance publique
+    - 2019-01-23 : Décision
+- Nouvelle Lecture
+  - 2019-01-23 : Dépôt d'une initiative en navette (PRJLSNR5S319B0268)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-01-23 : Renvoi en commission au fond
+      - 2019-02-06 : Dépôt de rapport (RAPPSNR5S319B0287, PRJLSNR5S319BTC0288)
+  - Discussion en séance publique
+    - 2019-02-12 : Discussion en séance publique
+    - 2019-02-12 : Décision
+- Lecture définitive
+  - 2019-02-13 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0217)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-13 : Renvoi en commission au fond
+      - 2019-02-18 : Réunion de commission
+  - Discussion en séance publique
+    - 2019-02-18 : Discussion en séance publique
+    - 2019-02-18 : Discussion en séance publique
+    - 2019-02-20 : Discussion en séance publique
+    - 2019-02-20 : Décision
+- Conseil constitutionnel
+  - 2019-02-22 : Saisine du conseil constitutionnel
+  - 2019-03-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-03-23 : Promulgation d'une loi
