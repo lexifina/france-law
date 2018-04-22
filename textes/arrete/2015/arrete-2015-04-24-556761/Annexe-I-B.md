@@ -6,8 +6,6 @@ LISTE DES DÉPARTEMENTS
 
 Côtes-d'Armor.
 
-Finistère.
-
 Loire-Atlantique.
 
 Meurthe-et-Moselle.
@@ -15,5 +13,3 @@ Meurthe-et-Moselle.
 Morbihan.
 
 Moselle.
-
-Seine-et-Marne.

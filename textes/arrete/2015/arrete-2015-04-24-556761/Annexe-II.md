@@ -9,3 +9,7 @@ http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-1d2bbb
 Les cartes en vigueur à compter du 1er janvier 2017 sont consultables sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse suivante :
 
 http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-b4db364c-2153-48c1-8079-b516aa15a063
+
+Les cartes en vigueur à partir du 1er janvier 2018 sont consultables sur le site du ministère de l'agriculture et de l'alimentation à l'adresse suivante :
+
+http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-f3e92f3d-de6b-46d4-b0dd-0afa0d29798a

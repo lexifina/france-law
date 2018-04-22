@@ -16,8 +16,6 @@ Alpes-Maritimes.
 
 Ardèche.
 
-Ariège.
-
 Aveyron.
 
 Calvados.
@@ -37,8 +35,6 @@ Dordogne.
 Doubs.
 
 Drôme.
-
-Gard.
 
 Gers.
 
@@ -67,8 +63,6 @@ Bas-Rhin.
 Haut-Rhin.
 
 Rhône.
-
-Haute-Saône.
 
 Savoie.
 

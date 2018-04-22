@@ -14,8 +14,6 @@ Aude.
 
 Charente.
 
-Cher.
-
 Haute-Garonne.
 
 Indre.
@@ -23,12 +21,6 @@ Indre.
 Jura.
 
 Loir-et-Cher.
-
-Lot-et-Garonne.
-
-Maine-et-Loire.
-
-Marne.
 
 Meuse.
 
@@ -44,8 +36,4 @@ Tarn-et-Garonne.
 
 Vienne.
 
-Yonne.
-
 Essonne.
-
-Val-d'Oise.
