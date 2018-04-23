@@ -1,0 +1,17 @@
+# Circulaire relative au regroupement des services publics
+
+- État : abrogée (au 2018-04-23)
+- Numéro : 1401/SG
+- Date de signature : 1980-06-02
+- Mise en ligne : 2009-04-22
+- Auteur : Le Premier ministre
+- Signataire : Raymond Barre
+- Destinataires : MM. les préfets
+- Ministères : 13
+- Domaines : Collectivités territoriales, Fonction publique
+- Mots-clés : Pouvoirs publics, secteur public, vie politique
+- Publication JO / BO : BO
+- Annexes : 0
+- Identifiant : 2523 (PDF officiel : pdf/2009/04/cir_2523.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
