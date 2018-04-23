@@ -2,18 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 29 juin 2017 :
-
-Paris-Dakar (Sénégal).
-
-Jusqu'au 5 décembre 2017 :
-
-République dominicaine :
-
-Bordeaux-Punta Cana ;
-
-Marseille-Dzaoudzi.
-
 Jusqu'au 1er juin 2018 :
 
 Marseille - New York (Etats-Unis).
@@ -103,3 +91,7 @@ Jusqu'au 30 avril 2022 :
 Paris-Cancun (Mexique) ;
 
 Paris-San Francisco (Etats-Unis).
+
+Jusqu'au 30 avril 2023 :
+
+Paris-Jinan (Chine).
