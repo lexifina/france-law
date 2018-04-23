@@ -1,0 +1,486 @@
+# CIRCULAIRE  du Premier ministre relative à l'application des décrets 82-389 et 82-390 du 10 mai 1982 relatifs aux pouvoirs des préfets et des préfets de région, à l'action des services et organismes publics de l'État et dans les départements et dans les régions et aux décisions de l'État en matière d'investissements publics.
+
+- État : abrogée (au 2018-04-23)
+- NOR : BODEF45614
+- Numéro : BODEF45614
+- Date de signature : 1982-07-12
+- Mise en ligne : 2009-04-30
+- Signataire : Pierre MAUROY.  Pierre MAUROY.  Pierre MAUROY.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Dispositions juridiques, organisation et réglementation générales intéressant la défense et les armées.Dispositions juridiques intéressant la défense et les armées.Organisation des pouvoirs publics. La défense.TITRE PREMIER. PRINCIPES.NiveauTitreCHAPITRE II. TEXTES D'INTÉRÊT GÉNÉRAL.ChapitreSection 2. Organisation territoriale de la défense.Section
+- Publication JO / BO : BOC, 1993, p. 2362 et erratum du 13 mai 1993 (BOC, p. 2560).
+- Annexes : 0
+- Identifiant : 8816 (PDF officiel : pdf/2009/04/cir_8816.pdf)
+
+## Résumé
+
+Nota. Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)]. Le Premier ministreàMessieurs les préfets de région, Madame et Messieurs les préfets, Monsieur le préfet de police de Paris (pour information) et Messieurs les préfets délégués pour la police (pour information).En application de la loi n° 82-213 du 02 mars 1982 (BOC, p. 2355) relative aux droits et libertés des communes, des départements et des régions, les  décret 82-389 du 10 mai 1982  BOC, p. 2604 et  décret 82-390 du 10 mai 1982 (BOC, p. 2598) ont défini les pouvoirs des préfets et arrêté les conditions dans lesquelles fonctionnent désormais les services et organismes publics de l'État, dans les départements comme dans les régions..................... La présente circulaire a pour objet de vous donner toutes instructions utiles sur les missions que le Gouvernement a entendu vous confier, l'organisation des services de l'État dans les départements et les régions, les conditions de mise en uvre de vos nouvelles responsabilités.....................     Nota. Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].    Nota. Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].    Nota. Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].    Nota. Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].     Nota.   Nota.   Nota.    Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du  décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].  Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes « préfet » et « sous-préfet » [cf. à l'art. 1er du   décret 88-199 du 29 février 1988 BOC 1989, p. 4141)]   décret 88-199 du 29 février 1988 BOC 1989, p. 4141)]  .        Le Premier ministre  Le Premier ministre  à  à  Messieurs les préfets de région, Madame et Messieurs les pr
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+CIRCULAIRE
+du Premier ministre relative à l'application des décrets 82-389 et 82-390 du 10 mai 1982 relatifs aux pouvoirs des préfets et
+des préfets de région, à l'action des services et organismes publics de l'État et dans les départements et dans les régions et aux
+décisions de l'État en matière d'investissements publics.
+Du 12 juillet 1982
+
+DIRECTION DE L'ADMINISTRATION GÉNÉRALE : Sous-Direction des affaires administratives ; Bureau
+organisation.
+CIRCULAIRE du Premier ministre relative à l'application des décrets 82-389 et 82-390 du 10 mai 1982
+relatifs aux pouvoirs des préfets et des préfets de région, à l'action des services et organismes publics de
+l'État et dans les départements et dans les régions et aux décisions de l'État en matière
+d'investissements publics.
+Du 12 juillet 1982
+Classement dans l'édition méthodique : BOEM 105.1.2.2.2.
+Référence de publication : BOC, 1993, p. 2362 et erratum du 13 mai 1993 (BOC, p. 2560).
+Nota.
+Les termes « commissaire de la République » et « commissaire adjoint de la République » ont été remplacés par les termes «
+préfet » et « sous-préfet » [cf. à l'art. 1er du décret 88-199 du 29 février 1988 BOC 1989, p. 4141)].
+Le Premier ministre
+à
+Messieurs les préfets de région, Madame et Messieurs les préfets, Monsieur le préfet de police de Paris (pour
+information) et Messieurs les préfets délégués pour la police (pour information).
+En application de la loi n° 82-213 du 02 mars 1982 (BOC, p. 2355) relative aux droits et libertés des
+communes, des départements et des régions, les décret 82-389 du 10 mai 1982 BOC, p. 2604 et décret 82-390
+du 10 mai 1982 (BOC, p. 2598) ont défini les pouvoirs des préfets et arrêté les conditions dans lesquelles
+fonctionnent désormais les services et organismes publics de l'État, dans les départements comme dans les
+régions.
+.................... 
+La présente circulaire a pour objet de vous donner toutes instructions utiles sur les missions que le
+Gouvernement a entendu vous confier, l'organisation des services de l'État dans les départements et les
+régions, les conditions de mise en œuvre de vos nouvelles responsabilités.
+.................... 
+TITRE PREMIER.
+L'ESPRIT DE LA RÉFORME.
+1. Si la loi du 02 mars 1982 a confié aux élus l'exécutif des départements et des régions, elle a affirmé
+parallèlement, dans ses articles 34 et 79, l'unité de la représentation de l'État.
+Ces deux principes sont d'ailleurs complémentaires. Les collectivités locales, pour agir avec efficacité,
+devront n'avoir qu'un seul interlocuteur capable d'engager l'État en toutes circonstances et de mener
+
+avec elles des actions concertées.
+Le préfet, qui est désormais exclusivement le représentant de l'État dans le département ou la région,
+se voit donc investi d'une double mission : dépositaire de l'autorité de l'État, il veille au respect des
+lois et aux intérêts nationaux ; détenteur du pouvoir de direction des services extérieurs des
+administrations civiles de l'État, il a la charge, sous l'autorité du Premier ministre et de chacun des
+ministres, d'en conduire l'action dans un souci constant de cohérence, d'unité et d'efficacité.
+2. Ces objectifs avaient déjà été recherchés par les décret du 14 mars 1964 (1) qui ont permis
+d'incontestables progrès dans l'action administrative. Toutefois, des déviations se sont produites dans
+leur application : des administrations de mission de nature très diverse ont empiété sur les attributions
+normales des services de l'État, certains services extérieurs ont repris l'habitude des liaisons directes
+avec leurs administrations centrales. L'efficacité de l'action de l'État s'en est trouvée amoindrie.
+C'est pourquoi, les nouveaux décrets donnent au représentant de l'État les moyens d'assurer la
+direction des services extérieurs. Alors que le Gouvernement engage une nouvelle étape de la
+décentralisation, cette disposition est essentielle. Elle comporte cependant un certain nombre
+d'exceptions prévues aux articles 7 et 9 du décret 82-389 du 10 mai 1982 et qui seront explicitées au
+titre II de la présente instruction. Les termes de la présente circulaire s'entendent donc compte tenu de
+ces réserves.
+Par ailleurs, les nouveaux décrets garantissent aux préfets des pouvoirs accrus dans les domaines
+économiques et sociaux, prenant ainsi en compte une évolution récente qui avait amené les préfets à
+se préoccuper toujours davantage de ces problèmes sans cependant disposer pour autant des moyens
+d'intervention nécessaires.
+Ils doivent ainsi permettre d'améliorer la qualité des services rendus par les administrations de l'État.
+Seules les dispositions nouvelles feront l'objet de commentaires développés ; vous pourrez vous
+référer pour les autres à l'instruction générale du 26 mars 1964 (Journal officiel du 1er avril 1964).
+3. L'unité de la représentation de l'État ainsi réaffirmée, le préfet ne saurait exercer seul les pouvoirs
+qui lui sont reconnus.
+Il demeure, tout d'abord, entouré de ses collaborateurs habituels de la préfecture : un préfet délégué
+pour la police dans certains départements, le secrétaire général qui le supplée normalement en toutes
+circonstances, le directeur de cabinet et les sous-préfets chargés de mission.
+Par ailleurs, le nécessaire rapprochement entre l'administration et les citoyens donne aux sous-préfets
+d'arrondissement, un nouveau rôle de coordination au développement duquel j'attache une grande
+importance.
+Enfin, c'est avec les chefs des services extérieurs des administrations civiles de l'État que des relations
+nouvelles doivent être clairement établies. Ils sont pour le représentant de l'État, dans les affaires
+relevant de leurs compétences, des collaborateurs directs. Il convient de veiller à ce qu'ils puissent
+exercer, dans le cadre des larges délégations de signature que vous leur accorderez, une pleine
+responsabilité sur les divers échelons locaux de leurs services et sur les organismes sous tutelle qui
+participent au fonctionnement de ces services.
+.................... 
+TITRE II.
+LES MISSIONS DU PRÉFET DANS LE DÉPARTEMENT.
+Le décret 82-389 du 10 mai 1982 précise les pouvoirs et responsabilités du représentant de l'État. Les
+nouvelles compétences données au préfet dans le domaine économique et social présentent à cet égard une
+
+importance particulière.
+A) LE REPRÉSENTANT DE L'ETAT.
+Votre mission générale est définie par l'article premier du décret. En votre qualité de dépositaire de l'autorité
+de l'État dans le département, vous êtes chargé de veiller à l'exécution des lois et règlements et à l'application
+des décisions du Gouvernement. Vous avez la responsabilité de l'ordre public dans le département. Délégué
+du Gouvernement, vous êtes également le représentant direct du Premier ministre et de chacun des ministres
+et secrétaires d'État, qui vous adressent leurs instructions et avec lesquels vous êtes le seul à correspondre
+directement pour ce qui concerne vos compétences.
+Ces responsabilités s'expriment aussi bien dans votre action auprès des collectivités locales et des autres
+organismes publics que dans l'exercice de vos pouvoirs de direction sur les services extérieurs de l'État.
+ 1. Le représentant de l'État auprès des collectivités locales et autres organismes publics.
+a) Dépositaire de l'autorité de l'État, vous représentez dans le département le Premier ministre et chacun des
+ministres. Le transfert des exécutifs départementaux et régionaux n'a pas pour effet de modifier les
+dispositions protocolaires fixées par le décret du 16 juin 1907 qui restent pleinement en vigueur. Vous devez,
+en toutes circonstances, avoir la préséance dans les cérémonies publiques, sauf lorsqu'un membre du
+Gouvernement est personnellement présent.
+b) Chargé du respect des lois, vous exercez, dans le cadre tracé par la loi du 02 mars 1982, le contrôle de
+légalité du département et des communes, ainsi que le contrôle des actes budgétaires des collectivités
+territoriales. Ce dernier donnera lieu à partir du 1er janvier 1983, à l'intervention de la chambre régionale des
+comptes.
+.................... 
+d) Représentant de l'État, vous êtes seul habilité à engager celui-ci à l'échelon du département. En
+conséquence, l'article 10 du décret vous confie le pouvoir exclusif de conclure pour le compte des
+administrations civiles de l'État toute convention avec le département, une ou plusieurs communes, leurs
+groupements ainsi que leurs établissements publics.
+.................... 
+ 2. Le représentant de l'État et la direction des services extérieurs de l'État dans le département.
+a) Le préfet dirige les services extérieurs de l'État. C'est un principe fondamental qui a été posé par le
+législateur.
+Cela ne signifie pas que dans la pratique vous deviez évoquer l'ensemble des affaires et vous substituer aux
+chefs de service. Placés sous votre autorité directe, ces derniers ont un rôle important à jouer dans la poursuite
+des politiques décidées par l'État, au contact quotidien des élus et des problèmes locaux. L'organisation de
+leurs services, la gestion des personnels demeurent naturellement de leur propre responsabilité, même si cette
+responsabilité s'exerce par délégation de votre part.
+En particulier, ils continueront à présider les commissions administratives paritaires et les comités techniques
+paritaires locaux de leurs services.
+En revanche, vous prendrez personnellement les décisions qui vous paraîtront essentielles pour l'action de
+l'État dans le département.
+b) Vos responsabilités de direction concernent également les services présentant un caractère
+interdépartemental (direction interdépartementale de l'industrie, direction régionale des affaires maritimes,
+direction régionale des affaires culturelles, etc.) pour l'exercice de leurs missions qui s'inscrivent dans le cadre
+
+du département. Il en va de même pour les délégations ou missions implantées dans le département et qui,
+sans posséder le statut de services extérieurs de l'État, exercent pour le compte d'administrations centrales des
+attributions de même nature. Des modalités particulières d'exercice du pouvoir de direction sur ces services et
+organismes pourront toutefois être définies par décret.
+c) Le décret prévoit trois exceptions :
+1. Les autorités militaires ne sont pas soumises à ses dispositions qui ne concernent que les
+administrations civiles de l'État (A).
+2. Vous n'exercez naturellement pas la direction des organismes ou missions à caractère
+juridictionnel, des organismes chargés d'une mission de contrôle des comptes et des services relevant
+du garde des sceaux ministre de la justice.
+.................... 
+3. Dans les autres cas les services sont soumis à votre autorité sauf pour l'exercice des missions
+énumérées à l'article 7 du décret et qui échappent à votre compétence.
+Ces missions concernent :
+- le contenu et l'organisation de l'action éducatrice, ainsi que la gestion des personnels et des
+établissements qui y concourent ;.................... 
+- la législation du travail, c'est-à-dire l'inspection des locaux de travail et les actions qui s'inscrivent
+dans le cadre strict de l'application du droit du travail ;.................... 
+- le contrôle et le paiement des dépenses publiques, l'assiette et le contrôle des impôts et taxes
+assimilées, le contrôle des changes, le recouvrement de l'ensemble des recettes publiques, les
+évaluations domaniales et la fixation des conditions financières des opérations de gestion ou
+d'aliénation des biens de l'État, et les modalités d'établissement des statistiques.
+Pour toutes leurs autres missions, l'ensemble des chefs des services concernés restent placés sous votre
+autorité et ils agissent alors en vertu des délégations que vous leur aurez accordées.
+Les mêmes règles sont applicables aux services administratifs qui assurent des missions à caractère judiciaire
+(direction de la concurrence et de la consommation, services forestiers, etc.). Vous dirigez donc ces services
+sous la seule réserve des pouvoirs de décision qui se rattachent directement à l'exercice de leurs missions à
+caractère judiciaire.
+.................... 
+f) Vous devez être pleinement informé des affaires importantes pour votre département, y compris dans les
+domaines où vous ne disposez pas de compétences de décision directes.
+Cette information revêt naturellement des forces différentes selon les partenaires en cause.
+Ainsi l'article 34 de la loi du 02 mars 1982 a-t-il précisé que le président du conseil général et les maires
+doivent, sur votre demande, vous communiquer les informations nécessaires à l'accomplissement de votre
+mission.
+L'article 11 du décret prévoit que l'autorité militaire vous tient informé de toute affaire qui peut avoir une
+importance particulière dans le département.
+La même obligation s'impose aux responsables des établissements et organismes publics, ainsi qu'à ceux des
+entreprises nationales.
+
+Enfin, il va de soi que les chefs des services extérieurs doivent vous apporter toutes informations utiles même
+dans les domaines qui ne relèvent pas de votre direction et sous la seule réserve des règles du secret
+professionnel.
+B) DES MISSIONS NOUVELLES DANS LE DOMAINE ÉCONOMIQUE ET SOCIAL.
+Le décret vous confie une mission nouvelle en matière financière, économique et sociale. Le préfet exerçait
+surtout des compétences de nature administrative, sans toujours avoir les moyens d'une action directe sur les
+problèmes de l'emploi. Le décret du 10 mai 1982 marque ici une profonde mutation.
+ 1. Les investissements.
+Sous réserve des pouvoirs confiés au préfet de région, qui est notamment compétent pour la répartition des
+crédits de catégorie III entre les départements et le choix des investissements de catégorie II, vous mettez
+désormais en œuvre les mesures prises par l'État dans le cadre du plan et en matière d'aménagement du
+territoire.
+.................... 
+ 2. La présidence des commissions à caractère financier.
+Le décret reprend les grandes lignes des exceptions prévues dans le texte de 1964. Toutefois, il précise que
+seules ne sont pas placées sous votre présidence les commissions qui traitent exclusivement d'une ou de
+plusieurs attributions exclues de votre compétence.
+.................... 
+De façon plus générale, vous présidez les commissions financières chargées d'étudier les modalités des
+concours aux entreprises.
+.................... 
+ 3. Les aides aux entreprises.
+a) En application de l'article 23, vous devez être consulté systématiquement (sauf naturellement dans les
+cas où vous auriez vous-même les pouvoirs de décision) sur toute demande d'aide instruite par les services de
+l'État devant faciliter une opération d'investissement, de développement ou de restructuration d'une entreprise
+lorsque cette opération touche un établissement situé dans votre département.
+.................... 
+b) Lorsqu'une entreprise rencontre des difficultés susceptibles d'avoir des répercussions sérieuses sur le
+niveau de l'emploi en raison soit des effectifs concernés, soit de leur impact sur une zone géographique
+significative du département, vous devez être consulté sur toutes mesures administratives prises à la demande
+de cette entreprise au nom de l'État.
+.................... 
+ 4. Les relations avec les entreprises publiques ou les entreprises qui bénéficient du concours de l'État.
+Vous êtes de droit le représentant de l'État auprès des sociétés, entreprises ou organismes qui bénéficient du
+concours financier de l'État et dont l'action ne dépasse pas les limites du département, lorsque des règlements
+prévoient une représentation de l'État et quel que soit le fonctionnaire antérieurement désigné.
+.................... 
+
+TITRE III.
+L'ORGANISATION DES SERVICES DE L'ÉTAT DANS LE DÉPARTEMENT.
+L'organisation des services de l'État dans le département doit tirer les conséquences des nouveaux pouvoirs
+qui vous sont confiés par l'article 34 de la loi du 02 mars 1982 et par le décret 82-389 du 10 mai 1982 .
+Vous êtes assisté, d'une part, de vos collaborateurs du corps préfectoral et des personnels des préfectures et
+sous-préfectures, d'autre part, des chefs des services extérieurs de l'État dans le département et des agents de
+leurs directions.
+Vous veillerez à maintenir avec les uns et avec les autres des contacts étroits et fréquents.
+En particulier, les tâches de coordination que vous confierez aux membres du corps préfectoral en poste dans
+le département ne sauraient en aucun cas faire écran entre vous et les chefs de service ou faire obstacle à la
+responsabilité générale que ceux-ci doivent exercer sur leurs directions.
+A) L'ADMINISTRATION PRÉFECTORALE.
+Elle constitue naturellement un support privilégié dans l'action que vous exercez au nom du ministre de
+l'intérieur, qu'il s'agisse de mesures de réglementation, de sécurité et d'ordre public ou de contrôle
+administratif des collectivités locales.
+.................... 
+ 2. Le secrétaire général de la préfecture.
+a) Le secrétaire général de la préfecture est appelé normalement à vous suppléer en cas d'absence ou
+d'empêchement.
+.................... 
+ 3. Le sous-préfet dans l'arrondissement.
+a) Le sous-préfet peut naturellement continuer à bénéficier des délégations de signature prévues par le
+décret du 24 juin 1950 .
+b) L'article 4 du décret du 10 mai 1982 rappelle la vocation interministérielle de l'action du sous-préfet. A
+cet égard, ce dernier doit pouvoir susciter et conduire en votre nom toute action de coordination ayant pour
+objet une matière intéressant son arrondissement et concernant les attributions de plusieurs chefs de service. Il
+peut, à cet effet, demander directement le concours de ces derniers.
+Rien juridiquement ne fait obstacle à ce que vous donniez au sous-préfet délégation pour prendre les décisions
+correspondantes. Dans l'esprit de la déconcentration, cela peut d'ailleurs paraître souhaitable à maints égards.
+.................... 
+ 4. Le directeur de cabinet.
+Vous pouvez donnez délégation à votre directeur de cabinet pour tous arrêtés et décisions individuels dans
+tous les domaines relevant des attributions du cabinet et des services rattachés, à l'exclusion toutefois des
+réquisitions.
+.................... 
+TITRE IV.
+LE FONCTIONNEMENT DES SERVICES EXTÉRIEURS DE L'ÉTAT.
+
+Outre la suppression des délégations de pouvoir, le décret du 10 mai 1982 institue un certain nombre de
+novations importantes qui doivent traduire, dans la gestion administrative, le pouvoir de direction de tous les
+services extérieurs des administrations civiles de l'État qui vous est confié.
+A) L'ACHEMINEMENT DU COURRIER.
+L'article 9 du décret n° 64-250 du 14 mars 1964 avait prévu que les correspondances entre les administrations
+centrales et régionales, d'une part, les services départementaux des administrations civiles de l'État et
+organismes publics dépendant de celui-ci, d'autre part, devaient être adressées sous couvert du préfet. Ces
+dispositions, restées trop souvent purement formelles, sont désormais renforcées par les articles 18 et 19 du
+décret.
+1. Toutes les correspondances nécessaires à l'exercice de votre pouvoir de direction, émanant des
+administrations centrales ou régionales et destinées aux services extérieurs de l'État dans le
+département, doivent vous être adressées à la préfecture sous le timbre du service intéressé. Il ne s'agit
+plus d'une simple transmission sous couvert, mais de l'envoi direct à l'autorité hiérarchique.
+En outre vous recevrez systématiquement un exemplaire des télex adressés par les administrations
+centrales ou régionales aux services extérieurs départementaux.
+La centralisation du courrier constitue un des moyens les plus efficaces pour l'exercice de votre
+mission de direction générale ; vous veillerez à ce que votre service de la coordination en tire le
+meilleur parti possible. Vous apporterez un soin particulier à ce que la mise en œuvre de cette
+procédure ne s'accompagne pas de retard dans la transmission des instructions.
+2. Toutes correspondances émanant des administrations centrales ou régionales et destinées aux
+collectivités territoriales, à leurs établissements publics et aux organismes publics dont l'action
+n'excède pas les limites du département sont adressées à leur destinataire sous le couvert du préfet.
+3. Les chefs des services, ainsi que les organismes, correspondants ou délégués des administrations
+civiles de l'État dans les départements adressent sous votre couvert :
+- leurs correspondances destinées aux administrations centrales et aux services de l'État dans
+la région ;
+- leurs correspondances destinées aux collectivités territoriales dans les domaines de
+compétence de l'État sauf lorsqu'il s'agit de correspondances purement techniques ou de
+gestion courante.
+4. Vous veillerez à signer vous-même les correspondances préparées par les chefs de services
+extérieurs lorsqu'elles présentent une particulière importance. Vous donnerez à ces derniers toutes
+instructions utiles.
+5. Ces règles s'appliqueront à l'ensemble des services placés sous votre direction, sauf naturellement
+en ce qui concerne les correspondances ayant trait à l'exercice de compétences qui, en application des
+articles 7 et 9 du décret 82-389 du 10 mai 1982 , ne relèvent pas de votre autorité.
+.................... 
+C) LE CAS PARTICULIER DES MARCHÉS PUBLICS.
+En votre qualité d'ordonnateur secondaire ayant pouvoir d'engager financièrement l'État, il vous appartient
+ainsi qu'aux fonctionnaires auxquels vous aurez délégué votre signature de conclure les marchés publics. Le
+régime de délégation de pouvoirs pour les marchés de l'État qui était la règle dans le cadre des décret du 14
+mars 1964 et décret du 16 août 1965 est abrogé.
+
+En application de l'article 44 du code des marchés, l'acte d'engagement est signé par la personne responsable
+du marché. Il y aura donc lieu de considérer que vous aurez à exercer les prérogatives de la personne
+responsable au sens du code des marchés publics lorsque vous aurez signé le marché. Lorsque vous aurez
+délégué votre signature, il appartiendra au fonctionnaire ayant reçu délégation de signature d'exercer les
+prérogatives de la personne responsable.
+Une instruction complète des projets de marchés doit continuer, en tout état de cause, à être opérée, selon les
+cas, dans les services de la préfecture ou dans les services extérieurs, le signataire du marché engageant sa
+responsabilité personnelle en cas de difficulté dans l'exécution.
+.................... 
+E) LA GESTION DU PATRIMOINE IMMOBILIER ET DES MATÉRIELS.
+L'article 15 du décret vous confie la responsabilité de la gestion du patrimoine immobilier et des matériels des
+différents services civils de l'État dans le département, sous l'autorité de chacun des ministres.
+Ces dispositions concernent tous les services de l'État dans le département à la seule exception des services et
+organismes visés à l'article 9.
+En vous confiant cette responsabilité, le Gouvernement a entendu vous donner le moyen de promouvoir une
+politique cohérente dans ce domaine, par exemple par l'amélioration de la localisation et le regroupement des
+services ou la création de services communs pour l'entretien ou l'achat de matériels. Vous vous attacherez à
+susciter des initiatives en ce sens, dans le respect de la spécificité des missions et crédits de chaque
+département ministériel, et tout en laissant une complète latitude aux chefs de service pour tous les domaines
+de la gestion courante.
+F) L'INFORMATION DES ADMINISTRÉS SUR LES DROITS ET DÉMARCHES.
+Le double mouvement de décentralisation et de déconcentration doit avoir pour effet de rapprocher les lieux
+de décision administrative des citoyens concernés par celle-ci. Pour que ce but soit atteint dans les meilleures
+conditions, il convient également de faire en sorte que chaque citoyen soit mieux informé sur la législation qui
+lui est applicable, conseillé sur la préparation de ses démarches, orienté vers le service compétent pour le
+problème qu'il a à résoudre.
+Pour cela, vous définirez, avec l'ensemble des chefs de service concernés qui devront vous apporter leur
+concours, les moyens permettant de donner aux différents services d'accueil et de conseil existants, en
+particulier des préfectures et des sous-préfectures, une compétence réellement polyvalente.
+G) LA PRÉSIDENCE DES COMMISSIONS.
+Vous assurez de droit la présidence de toutes les commissions administratives sous les réserves prévues par
+l'article 13 du décret. Ce pouvoir emporte naturellement la possibilité pour vous de désigner, au cas par cas, le
+président de séance des commissions auxquelles vous ne pourriez assister.
+TITRE V.
+LE PRÉFET DE RÉGION.
+Le représentant de l'État dans la région prend le titre de préfet de la région de… Il est préfet du département
+où est situé le chef-lieu de la région. Ses fonctions connaissent une évolution profonde qui se traduit par un
+important accroissement de ses pouvoirs.
+A) UNE ÉVOLUTION PROFONDE.
+Le décret 82-390 du 10 mai 1982 apporte une novation majeure par rapport au texte de 1964. Celui-ci
+reconnaissait au préfet de région un pouvoir général de décision dans toutes les matières relevant de la
+
+compétence des chefs des services régionaux de l'État. Mais la mission du préfet de région se présentait
+principalement comme une mission d'impulsion et de coordination dans les domaines de l'action économique
+et de l'aménagement du territoire, exercée avec le concours de services régionaux dont la structure était
+elle-même généralement très légère par rapport à celle de leurs homologues départementaux.
+Sans modifier la souplesse et la légèreté des administrations régionales de l'État le nouveau décret tire les
+conséquences de la mutation que représentera la transformation de la région en collectivité territoriale.
+Les services de l'État à cet échelon devront être à même d'assumer leur fonction d'interlocuteurs des régions.
+Des mesures de déconcentration leur donneront, comme aux services de l'État dans le département, l'exercice
+de responsabilités aujourd'hui détenues par les administrations centrales. Il est donc important que le préfet de
+région dispose à leur égard des mêmes pouvoirs que ceux exercés au niveau départemental par le préfet de
+département.
+Par ailleurs, le préfet de région anime et coordonne l'activité des préfets de département dans les domaines du
+développement économique et social et de l'aménagement du territoire.
+Il n'est pas créé de lien de subordination entre le préfet de région et celui de département. Les pouvoirs du
+préfet de région s'exercent certes sur l'ensemble du territoire de la région, mais, en ce qui concerne ses
+responsabilités de contrôle administratif, uniquement à l'égard des institutions régionales et pour les
+attributions d'État, uniquement pour celles qui seront exercées à l'échelon de la région.
+Toute concentration à l'échelon régional des pouvoirs des préfets de département a été exclue et les
+prérogatives du préfet de région s'exercent sous réserve de celles des préfets de département.
+Cette réserve figure d'ailleurs dans les articles premier, 2 et 3 du décret en ce qui concerne les responsabilités
+du préfet de région en matière d'intérêts nationaux et de respect des lois, de contrôle administratif des
+établissements et organismes publics, et d'autorité sur les services extérieurs de l'État dans la région.
+B) LES POUVOIRS DU PRÉFET DE RÉGION.
+ 1. La direction des services de l'État dans la région.
+a) Vous avez vis-à-vis des chefs des services extérieurs de l'État dans la région les mêmes responsabilités
+que celles qui vous sont confiées au niveau du département. En particulier les exceptions prévues aux articles
+6 et 8 du décret 82-390 du 10 mai 1982 doivent être interprétées conformément aux indications qui vous ont
+été données ci-dessus pour les exceptions équivalentes figurant dans le décret sur les pouvoirs des préfets de
+département.
+Vous noterez que l'article 3 du décret précise que l'expression « services extérieurs de l'État dans la région »
+vise exclusivement les services de l'État dans l'exercice de leurs compétences qui relèvent de l'échelon
+régional.
+Certains d'entre eux, par exemple la direction interdépartementale de l'industrie ou celle des affaires
+culturelles, peuvent exercer en outre des activités à caractère interdépartemental. Comme il a été précisé
+ci-dessus, ces activités sont alors assurées sous l'autorité des préfets de département.
+En ce qui concerne les services qui sont organisés sur une base interrégionale vous avez autorité sur eux pour
+leurs seules compétences concernant votre région. Il en va de même pour les délégations ou missions qui sont
+implantées dans la région et qui sans posséder le statut de services extérieurs de l'État exercent pour le compte
+d'administrations centrales des attributions de même nature.
+Des modalités particulières d'exercice du pouvoir de direction sur ces services et organismes pourront
+toutefois être définies par décret.
+
+b) Pour tous les services à compétences interdépartementales ou interrégionales, il y aura lieu, sauf
+instruction contraire liée à la nature du service, de considérer que l'organisation du service, les questions de
+gestion du personnel, du patrimoine immobilier et du matériel relèvent de la compétence du préfet de la région
+où se trouve le siège du service qui exercera donc pour ces attributions les fonctions d'ordonnateur secondaire
+sous réserve du respect des dispositions du chapitre V du décret relatives aux décisions de l'État en matière
+d'investissement.
+C'est lui également qui adressera annuellement les propositions de notation à l'autorité investie du pouvoir de
+nomination. Il aura au préalable recueilli l'avis de l'ensemble des préfets concernés (art. 15 du décret).
+Vous noterez que les dispositions concernant la notation et l'information préalables à toute nomination ou
+mutation ne concernent pas les fonctionnaires nommés en conseil des ministres, c'est-à-dire en fait les
+recteurs.
+c) En ce qui concerne les PTT, un prochain décret fixera les conditions d'application du présent décret à
+leurs services extérieurs, compte tenu de leur organisation territoriale spécifique. D'ici là, le présent décret
+s'applique.
+d) Vous appliquerez pour la direction des services extérieurs de l'État dans la région les instructions des
+titres précédents relatifs aux services départementaux, en y apportant les adaptations nécessaires.
+Vous disposerez pour cela, outre du concours des chefs de services extérieurs, d'un secrétariat général pour les
+affaires régionales. Le système de la mission régionale constituée de hauts fonctionnaires administratifs et
+techniques d'origines et expériences diverses s'appuyant sur une structure administrative légère a connu
+d'heureux résultats. L'appellation est modifiée pour éviter toute confusion avec les services du président du
+conseil régional ; mais les mêmes principes sont respectés.
+Tout comme hier le chef de mission, le secrétaire général pour les affaires régionales — sauf dans les
+départements d'outre-mer où cette fonction est exercée par le sous-préfet, secrétaire général pour les affaires
+économiques — est nommé par arrêté du Premier ministre et il en ira de même pour les chargés de mission.
+Les modalités de recrutement sont également maintenues.
+ 2. Les pouvoirs des préfets de région dans le domaine économique et social.
+L'article 4 du décret vous confie, sur l'ensemble de la région, une mission générale de mise en œuvre de la
+politique du Gouvernement en matière de développement économique et social et d'aménagement du territoire
+et vous donne pour cela un pouvoir d'animation et de coordination sur les préfets des départements concernés.
+J'appelle tout particulièrement votre attention sur le rôle qui doit être le vôtre dans la mise en place d'une
+planification rénovée et dynamique.
+Conformément à l'article 76 de la loi du 02 mars 1982 vous êtes chargés conjointement avec le président du
+conseil régional de veiller à la coordination entre le plan national et le plan régional.
+Lors de l'élaboration du plan national, vous saisirez tout d'abord le président du conseil régional pour recueillir
+l'avis de cette assemblée ainsi que celui du comité économique et social.
+A partir de ces éléments, ainsi que de l'avis de la conférence administrative régionale qui est maintenue, vous
+transmettrez au ministre chargé du plan et de l'aménagement du territoire vos propositions dans les formes
+qu'il vous précisera ultérieurement.
+Il vous appartient de suivre l'exécution du plan national dans la région et d'en rendre compte régulièrement
+aux ministres intéressés. Vous veillerez tout spécialement à la cohérence entre le plan régional et le plan
+national :
+1. Par la concertation permanente avec les autorités régionales ;
+
+2. Par la conclusion de conventions avec la région pour l'élaboration et l'exécution du plan. Cette
+procédure contractuelle constitue le moyen privilégié de la coordination entre l'État et la région et
+vous y porterez une attention personnelle en vous abstenant de toute délégation de signature ;
+3. Par la mise en œuvre des procédures qui seront définies par la loi portant réforme de planification ;
+4. Et, d'une manière générale, par l'application du contrôle administratif, s'il s'avère nécessaire, au cas
+où des dispositions du plan régional s'écarteraient des règles fixées par la loi approuvant le plan
+national ou par les décrets pris en application de celle-ci.
+TITRE VI.
+LES DÉCISIONS EN MATIÈRE D'INVESTISSEMENTS PUBLICS.
+Le décret 82-390 du 10 mai 1982 institue une nouvelle procédure de décision pour les investissements publics
+de l'État et abroge le décret n° 70-1047 du 13 novembre 1970. Les principaux points de la réforme sont les
+suivants :
+1. La catégorie IV (Investissements d'intérêt communal) est désormais supprimée. Tous les
+investissements antérieurement classés dans cette catégorie seront automatiquement reclassés en
+catégorie III (Investissements d'intérêt départemental) par un prochain décret. Les préfets de
+département décideront donc de leur utilisation pour des opérations déterminées, après répartition des
+autorisations de programme entre les départements par le préfet.
+2. Lorsque les ministres compétents décident l'affectation ou l'individualisation directe à l'échelon
+central d'autorisations de programme pour des investissements à caractère national (catégorie I), le
+préfet de région en est informé ; dès le stade de l'élaboration des programmes et des projets, selon des
+modalités propres à chaque type d'investissement. Après avis de la conférence administrative
+régionale, il formule ses observations. Ainsi votre information sur les investissements de catégorie I
+décidés dans la région sera désormais parfaitement assurée.
+3. Lorsque les ordonnateurs principaux ne décident pas eux-mêmes l'affectation ou l'individualisation
+des crédits de catégorie I, ceux-ci sont désormais délégués globalement au préfet de région. La
+décision de délégation indiquera expressément la procédure de décision qui devra être utilisée par
+celui-ci : répartition globale entre les départements comme pour les crédits de catégorie III, ou
+affectation ou individualisation directe au niveau régional, comme pour les crédits de catégorie II.
+4. Le dernier alinéa de l'article 6 du décret n° 70-1047 du 13 novembre 1970 qui prévoyait une
+possibilité de reconcentration par voie d'arrêté interministériel n'a pas été reconduit.
+Il n'y aura donc plus désormais d'exception au droit commun.
+Les autres règles relatives aux décisions d'utilisation des crédits de catégories II et III, aux délégations
+sous la forme de chapitres ou d'articles budgétaires de prévision, et aux avis de la conférence
+administrative régionale n'ont pas été modifiées.
+5. Cette nouvelle procédure ne supprime pas l'obligation de recueillir l'avis des organismes nationaux,
+régionaux ou départementaux dont la consultation est prévue par les lois et règlements.
+De même, les décrets de 1976 qui ont transféré aux établissements publics régionaux et aux
+départements certaines attributions de l'État en matière d'investissement demeurent en vigueur.
+.................... 
+Le législateur a voulu qu'une large déconcentration constitue le complément indispensable de la
+politique de décentralisation.
+
+L'application stricte dans la lettre comme dans l'esprit des dispositions des décrets du 10 mai 1982 est
+une condition de la réussite et de la poursuite de cette réforme.
+J'attache donc la plus grande importance à la bonne exécution des instructions de la présente
+circulaire.
+Vous voudrez bien me saisir des difficultés que vous pourriez rencontrer dans son application et, en
+tout état de cause, m'adresser un rapport d'ensemble sur sa mise en œuvre pour le 15 décembre 1982.
+Pierre MAUROY.
+(A) Voir l'article 15.4° du décret 82-389 du 10 mai 1982 (ajouté par le décret du 13 février 1997 ).
+(1) Abrogés par notification du 12 juillet 1982 (BOC, p. 2816).
