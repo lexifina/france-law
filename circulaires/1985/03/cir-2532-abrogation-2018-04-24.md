@@ -1,0 +1,14 @@
+# Dénomination "Parlement européen"  et "membre du Parlement européen"
+
+- État : abrogée (au 2018-04-24)
+- Numéro : 2007/SG
+- Date de signature : 1985-03-14
+- Mise en ligne : 2009-04-22
+- Auteur : Premier ministre
+- Destinataires : Mesdames et messieurs les ministres et secrétaires d'Etat
+- Ministères : 13
+- Domaines : Fonction publique
+- Annexes : 0
+- Identifiant : 2532 (PDF officiel : pdf/2009/04/cir_2532.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
