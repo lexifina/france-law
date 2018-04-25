@@ -10,9 +10,7 @@ réglementées |
 
 DATE LIMITE
 
-de dépôts
-
-des demandes |
+de dépôts des demandes |
 
 CONDITIONS
 
@@ -34,17 +32,19 @@ Par dérogation, pour l'année de gestion 2013, la date limite de dépôts des d
 
 2. Les navires ne remplissant pas les conditions prévues au point 1 ci-dessus peuvent toutefois être rendus éligibles selon la procédure aux points 4 et 5 de l'article 7 du présent arrêté.
 
-3. De même tous les navires rendus éligibles en application des points 4 et 5 de l'article 7 du présent arrêté perdront leur éligibilité si au terme de l'année où ils ont été rendus éligibles, ils n'ont pas capturé de thonidés tropicaux |
+3. De même tous les navires rendus éligibles en application des points 4 et 5 de l'article 7 du présent arrêté perdront leur éligibilité si au terme de l'année où ils ont été rendus éligibles, ils n'ont pas capture De thonidés tropicaux |
 
 1. Les captures de thonidés tropicaux doivent être consignées conformément aux exigences de l'annexe 1 de la recommandation 03-13 de l'ICCAT.
 
 2. Tout déploiement, toute récupération de dispositifs de concentration de poissons (DCP) dans le cadre de la capture de thonidés tropicaux doivent être consignés dans un carnet de pêche mentionnant la position, la date, le DCP utilisé et les résultats de l'opération.
 
-3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 28 février entre le parallèle 4° latitude Sud (limite Sud), le parallèle 5° latitude Nord (limite Nord), le méridien 20° longitude Ouest (limite Ouest) et la côte africaine (limite Est).
+3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 28 février entre la côté africaine (limite Nord), le parallèle 10° latitude Sud (limite Sud), le méridien 5° longitude Ouest (limite Ouest) et le méridien 5° longitude Est (limite Est).
 
-4. Du 1er janvier au 28 février, tout navire de pêche qui pêche du thon obèse et/ ou de l'albacore dans la zone du point 3. ci-dessus doit avoir un observateur à bord. |
+4. Du 1er janvier eu 28 février, tout navire de pêche qui pêche du thon obèse et/ ou de l'albacore dans la zone du point 3. ci-dessus doit se conformer au programme régional d'observateurs de l'ICCAT.
 
-Point 1 de la résolution 15/04 de la Commission des Thons de l'océan Indien et règlement TAC et quotas UE (thon tropical, espadon germon) (**) |
+5. Pour les navires titulaires de l'autorisation de pêche du thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5° N, les prises accessoires de thon obèse (Thunnus obesus) peuvent être autorisées dans la limite de 3 tonnes par navire et par marée. |
+
+Point 1 de la résolution 15/04 de la Commission des Thons de l'océan Indien et règlement TAC et quotas UE (thon tropical, espadon germon) (* *) |
 
 La pêche de l'espadon, du germon et du thon tropical par des navires de longueur hors tout égale ou supérieure à 24 mètres et par des navires de longueur hors tout inférieure à 24 mètres exerçant notamment leur activité au-delà des limites de la zone économique exclusive sous juridiction française et/ ou n'étant pas immatriculés au port d'immatriculation de La Réunion (RU), en zones statistiques de la FAO 51 et 57 et les mers adjacentes situées au nord de la convergence Antarctique est soumise à la détention d'une autorisation de pêche ORGP Thons et espèces apparentées en zone CTOI . |
 
@@ -66,6 +66,6 @@ La pêche active du germon de la Méditerranée est soumise à la détention d'u
 
 La pêche du germon de la Méditerranée est interdite du 1er octobre au 30 novembre inclus. |
 
-(*) Thon obèse (Thunnus obesus) et thon albacore (Thunnus albacares) pêché en zone ICCAT, stock oriental de thon listao (Katsuwonus pelamis) depuis 2015.
+(*) Thon obèse (Thunnus obesus) et thon albacore (Thunnus albacares) pêché en zone CTOI, stock oriental de thon listao (Katsuwonus pelamis) depuis 2015.
 
-(**) Germon (Thunnus alalunga), espadon (Xiphias gladius), Albacore (Thunnus albacares), listao ou bonite à ventre rayé (Katsuwonus pelamis), patudo ou thon obèse (Thunnus obesus), thon rouge du Sud (Thunnus maccoyii), thon mignon (Thunnus tonggo), thonine orientale (Euthynnus affinis), auxide (Auxis thazard), bonitou (Auxis rochei), thazard rayé (Scomberomorus commerson), thazard ponctué (Scomberomorus guttatus), makaire bleu (Makaira mazara), makaire noir (Makaira nigricans), marlin rayé (Tetrapturus audax), voilier de l'Indo-Pacifique (Istiophorus platypterus). |
+(* *) Germon (Thunnus alalunga), espadon (Xiphias gladius), Albacore (Thunnus albacares), listao ou bonite à ventre rayé (Katsuwonus pelamis), patudo ou thon obèse (Thunnus obesus), thon rouge du Sud (Thunnus maccoyii), thon mignon (Thunnus tonggo), thonine orientale (Euthynnus affinis), auxide (Auxis thazard), bonitou (Auxis rochei), thazard rayé (Scomberomorus commerson), thazard ponctué (Scomberomorus guttatus), makaire bleu (Makaira mazara), makaire noir (Makaira nigricans), marlin rayé (Tetrapturus audax), voilier de l'Indo-Pacifique (Istiophorus platypterus). |
