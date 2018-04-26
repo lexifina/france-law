@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303937
+
+- Question : [SEQ180303937](seq180303937.md) — Rapport de l'inspection générale des affaires sociales relatif aux centres de santé dentaires
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-04-26, page 2083*
+
+Les centres de santé sont des structures sanitaires ouvertes à tous, dispensant des soins sans hébergement de premier recours et, le cas échéant, de second recours. Leur rôle sanitaire et social est spécifique dans l'offre de soins de proximité et répond aux attentes des patients, en matière de diversité de l'offre de soins, d'implantation géographique, et d'accessibilité financière en appliquant le tiers-payant et les tarifs opposables. Ils constituent aussi une forme d'exercice en équipe, jugée attractive pour les professionnels de santé qui recherchent une activité dont l'organisation est favorable à la coordination des soins. L'ordonnance du 12 janvier 2018 relative à la création et au fonctionnement des centres de santé est venue simplifier et clarifier la création et le fonctionnement des centres de santé pour renforcer l'accès aux soins de premier recours, promu par le plan de renforcement territorial de l'accès aux soins, tout en garantissant la protection des patients. L'ordonnance : réaffirme l'obligation de la pratique du tiers payant et des tarifs opposables ; prévoit l'information du patient sur les conditions de la prise en charge financière de l'offreur de soins vers lequel il est éventuellement orienté ; garantit le caractère non lucratif de la gestion des centres, quel que soit le statut - privé ou public - des gestionnaires ; introduit une obligation d'engagement de conformité préalable à l'ouverture du centre, assortie d'une possibilité de fermeture du centre en cas de non-respect de cet engagement. Le nouveau régime qui est ainsi mis en œuvre est de nature à consolider le rôle des centres de santé pour l'égal accès aux soins tout en assurant la qualité des prises en charge.
