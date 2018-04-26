@@ -3752,7 +3752,7 @@ FR000000000000112
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX
 
 |
 
@@ -5432,11 +5432,11 @@ FR000000000000158
 
 |
 
-Anvis France Decize SAS
+SumiRiko
 
 |
 
-Anvis France Decize SAS
+SumiRiko Rubber Compounding France S. A. S.
 
 |
 
@@ -7160,11 +7160,11 @@ FR000000000000204
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX
 
 |
 
-BOUYER LEROUX STRUCTURE SA site de Vergonghéon
+BOUYER LEROUX site de Vergonghéon
 
 |
 
@@ -9300,19 +9300,19 @@ Yara France - usine du Havre
 
 |
 
-495 027
+247 514
 
 |
 
-485 059
+242 530
 
 |
 
-475 057
+237 529
 
 |
 
-4 075 971
+3 348 401
 
 |
 
@@ -10980,19 +10980,19 @@ OMNOVA SOLUTIONS SAS
 
 |
 
-2 570
+1 285
 
 |
 
-2 519
+1 259
 
 |
 
-2 467
+1 233
 
 |
 
-21 165
+17 386
 
 |
 
@@ -11120,23 +11120,23 @@ ONDULINE France
 
 |
 
-2 500
+-
 
 |
 
-2 110
+-
 
 |
 
-1 734
+-
 
 |
 
-1 372
+-
 
 |
 
-21 857
+14 141
 
 |
 
@@ -12728,11 +12728,11 @@ FR000000000000346
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX
 
 |
 
-BOUYER LEROUX GRANDE TUILERIE site de Roanne
+BOUYER LEROUX Mably
 
 |
 

@@ -272,23 +272,23 @@ PARIS EXPO PORTE DE VERSAILLES
 
 |
 
-1 311
+-
 
 |
 
-1 106
+-
 
 |
 
-909
+-
 
 |
 
-719
+-
 
 |
 
-11 461
+7 416
 
 |
 
@@ -4928,7 +4928,7 @@ FR000000000000872
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX
 
 |
 
@@ -9228,15 +9228,15 @@ GRTgaz station de compression d'Arleux-en-Gohelle
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
-0
+-
 
 |
 
@@ -12562,11 +12562,11 @@ FR000000000001103
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX
 
 |
 
-BOUYER LEROUX STRUCTURE site de Marcellin-en-Forez
+BOUYER LEROUX St Marcellin en Forez
 
 |
 
@@ -12574,7 +12574,7 @@ BOUYER LEROUX STRUCTURE site de Marcellin-en-Forez
 
 |
 
-16 115
+16 116
 
 |
 
@@ -12602,7 +12602,7 @@ BOUYER LEROUX STRUCTURE site de Marcellin-en-Forez
 
 |
 
-89 102
+89 103
 
 |
 
@@ -13810,11 +13810,11 @@ FR000000000001143
 
 |
 
-COGESTAR 2
+COGESTAR 3
 
 |
 
-COGESTAR 2 - PDM
+COGESTAR 3-PDM
 
 |
 
@@ -14364,19 +14364,19 @@ TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)-Station de compression de LUSSAGNE
 
 |
 
-7 214
+3 607
 
 |
 
-5 928
+2 964
 
 |
 
-4 689
+2 345
 
 |
 
-74 724
+65 809
 
 |
 

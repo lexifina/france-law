@@ -220,6 +220,30 @@ ARKEMA Usine de Jarrie
 
 |
 
+FR000000000000504 |
+
+LUCART SAS |
+
+Lucart SAS (ex-Novatissue) |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+1 982 |
+
+2 268 |
+
+2 225 |
+
+2 182 |
+
+8 657 |
+
 FR000000000000554
 
 |

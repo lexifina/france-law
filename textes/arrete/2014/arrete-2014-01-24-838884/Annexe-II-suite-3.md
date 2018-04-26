@@ -584,23 +584,23 @@ FORESA FRANCE
 
 |
 
-7 207
+3 743
 
 |
 
-7 067
+3 671
 
 |
 
-6 925
+3 597
 
 |
 
-6 782
+3 523
 
 |
 
-58 191
+44 744
 
 |
 
@@ -1260,19 +1260,19 @@ LACADEE SA
 
 |
 
-909
+-
 
 |
 
-747
+-
 
 |
 
-591
+-
 
 |
 
-9 416
+7 169
 
 |
 
@@ -1836,19 +1836,19 @@ Centrale mobile d'enrobage MI708
 
 |
 
-0
+538
 
 |
 
-0
+443
 
 |
 
-0
+351
 
 |
 
-7 215
+8 547
 
 |
 
@@ -2364,19 +2364,19 @@ Coopérative agricole Terre d'alliances
 
 |
 
-1 119
+560
 
 |
 
-920
+460
 
 |
 
-728
+364
 
 |
 
-10 827
+9 444
 
 |
 
@@ -5956,30 +5956,6 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-FR-new-06103703 |
-
-FRESENIUS MEDICAL CARE SMAD |
-
-FRESENIUS MEDICAL CARE SMAD |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
-/ |
-
 FR-new-06103721
 
 |
@@ -6204,19 +6180,19 @@ Coopérative agricole Terre d'alliances
 
 |
 
-876
+438
 
 |
 
-720
+360
 
 |
 
-570
+285
 
 |
 
-8 470
+7 387
 
 |
 
@@ -6864,31 +6840,31 @@ RHODIA ACETOW ROUSSILLON
 
 |
 
-79 645
+70 164
 
 |
 
-78 178
+68 871
 
 |
 
-76 696
+67 566
 
 |
 
-75 201
+66 249
 
 |
 
-73 688
+64 915
 
 |
 
-72 168
+63 576
 
 |
 
-619 199
+564 964
 
 |
 
@@ -7092,19 +7068,19 @@ COLAS MIDI MEDITERRANEE (POSTE ASTEC 300)
 
 |
 
-619
+16
 
 |
 
-509
+13
 
 |
 
-403
+11
 
 |
 
-6 419
+4 928
 
 |
 
@@ -9052,19 +9028,19 @@ Atelier ammoniac Grandpuits
 
 |
 
-574 311
+287 156
 
 |
 
-562 747
+281 374
 
 |
 
-551 142
+275 571
 
 |
 
-4 728 782
+3 884 683
 
 |
 
@@ -11100,19 +11076,19 @@ VIVADOUR usine Semences rue de la Menoue 32400 RISCLE
 
 |
 
-491
+-
 
 |
 
-403
+-
 
 |
 
-319
+-
 
 |
 
-5 081
+3 868
 
 |
 
@@ -11556,19 +11532,19 @@ Befesa Valera
 
 |
 
-22 943
+45 592
 
 |
 
-22 481
+44 674
 
 |
 
-22 017
+43 752
 
 |
 
-238 187
+304 764
 
 |
 
@@ -12992,11 +12968,11 @@ FR-new-07208224
 
 |
 
-EIFFAGE génie civil-GTE
+EIFFAGE génie civil grands travaux enrobés
 
 |
 
-Centrale mobile d'enrobage MI744
+Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
@@ -13008,7 +12984,7 @@ Centrale mobile d'enrobage MI744
 
 |
 
-461
+0
 
 |
 
@@ -13032,7 +13008,7 @@ Centrale mobile d'enrobage MI744
 
 |
 
-3 041
+2 580
 
 |
 
@@ -13568,7 +13544,7 @@ FR-new-10011026
 
 |
 
-EUROVIA GRANDS TRAVAUX
+Eurovia Grands Projets et Industries
 
 |
 
