@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303561
+
+- Question : [SEQ180303561](seq180303561.md) — Salariés protégés employés dans la viticulture
+
+## Réponse
+
+*Travail, JO du 2018-04-26, page 2096*
+
+L'attention de la ministre du travail a été appelée sur la procédure applicable au salarié titulaire d'un contrat de travail saisonnier à durée déterminée, bénéficiaire du statut protecteur, et notamment les règles tenant au délai de saisine de l'inspecteur du travail délivrant l'autorisation administrative préalable à la rupture de ce contrat. Les dispositions de l'article L. 2421-8 du code du travail ont été modifiées par la loi de ratification des ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre les mesures pour le renforcement du dialogue social. Ainsi, il ressort de ces dispositions que la procédure administrative de saisine de l'inspecteur du travail pour mettre fin au contrat saisonnier à durée déterminée d'un salarié détenteur d'un mandat conférant une protection, a été simplifiée par la suppression du délai d'un mois avant l'échéance du terme dont disposait l'employeur pour saisir l'inspecteur du travail. En outre, il ressort des dispositions des articles L. 2421-1, L. 2421-3, L. 2421-4, L. 2421-5, L. 2421-8, L. 2421-9 et L. 2421-13 du code du travail, qu'en l'absence de clause de reconduction, l'autorisation administrative n'est désormais plus requise à échéance du terme du contrat saisonnier à durée déterminée. Par conséquent, réserve faite du cas de la rupture anticipée du contrat saisonnier à durée déterminée, l'autorisation de l'inspecteur du travail sera uniquement requise si l'employeur envisage de ne pas renouveler ce contrat de travail alors même qu'une clause de reconduction est prévue par celui-ci ou par accord collectif.
