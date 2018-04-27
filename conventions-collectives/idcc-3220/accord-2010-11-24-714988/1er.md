@@ -1,5 +1,0 @@
-# Article 1er
-
-L'accord s'applique à tous les offices publics de l'habitat. Il porte sur la définition de la méthode de classification de tous les emplois des offices, sur la fixation d'un barème national des rémunérations de base de la classification ainsi que sur la création et le rôle de la commission paritaire nationale des offices publics de l'habitat dont les missions, précisées à l'article 20 ci-après, comportent le suivi de la mise en œuvre des accords paritaires nationaux. Le suivi et l'application des accords sur la formation professionnelle et de ceux relatifs à l'emploi des seniors relèvent par ailleurs de la commission paritaire nationale pour l'emploi et la formation (CPNEF).
-
-La garantie conventionnelle de rémunération minimale résultant de cet accord ne s'applique pas aux agents relevant de la FPT en position normale d'activité (PNA). Cependant, les agents de la FPT placés en position de détachement dans les offices, qui demeurent soumis aux dispositions réglementaires applicables au déroulement de carrière dans leur statut, bénéficient également des dispositions du présent accord pour la conclusion et l'application de leur contrat.
