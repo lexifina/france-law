@@ -14,6 +14,8 @@ Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un direct
 
 Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction.
 
+Sous-directeur exerçant des fonctions d'adjoint à un chef de service en charge d'un service.
+
 Expert de haut niveau ou directeur de projet.
 
 Fonctionnaire en charge d'un département ou d'une mission en administration centrale.
@@ -24,10 +26,4 @@ II.-Fonctions exercées en services déconcentrés
 
 Directeur régional de l'alimentation, de l'agriculture et de la forêt.
 
-Directeur départemental de l'agriculture et de la forêt.
-
-Directeur départemental délégué de l'agriculture et de la forêt.
-
-Directeur de l'agriculture et de la forêt.
-
-Directeur départemental des services vétérinaires.
+Directeur de l'alimentation, de l'agriculture et de la forêt.
