@@ -90,7 +90,7 @@ IV.-Période d'approfondissement professionnel
 
 Il s'agit de mettre le greffier stagiaire en capacité d'exercer les fonctions spécifiques sur lesquelles il est affecté. Cette période constituée d'enseignements théoriques et de stages s'organise ainsi :
 
--une période de stages d'approfondissement des futures fonctions exercées afin de permettre au stagiaire de prendre la dimension de ses fonctions (seize semaines). Ce stage se déroule dans une juridiction ou un service similaire à celui de la future affectation du stagiaire ;
+-une période de stages d'approfondissement des futures fonctions exercées afin de permettre au stagiaire de prendre la dimension de ses fonctions (seize semaines minimum). Ce stage se déroule dans une juridiction ou un service similaire à celui de la future affectation du stagiaire ;
 
 -une période de scolarité d'approfondissement d'une à trois semaines ayant pour objectif de donner à l'ensemble des greffiers stagiaires des méthodes et outils en matière d'organisation du travail et d'encadrement intermédiaire (tronc commun), d'améliorer les connaissances de l'environnement professionnel et de développer les compétences liées à la fonction (formation adaptée aux futures fonctions exercées).
 
