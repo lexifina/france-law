@@ -1,0 +1,665 @@
+# Article ANNEXE E
+
+THON ROUGE
+
+NOM DU PORT |
+
+CODE POSTAL |
+
+JOURS ET HEURES
+
+obligatoires
+
+pour le débarquement/
+
+transbordement (heure locale) |
+
+LIEU(X)
+
+obligatoire(s)
+
+pour le
+
+débarquement/
+
+transbordement |
+
+DÉLAI
+
+de notification
+
+préalable de
+
+débarquement
+
+(si supérieur
+
+à 4 heures) |
+
+RESTRICTIONS
+
+supplémentaires
+
+au débarquement |
+
+GRANVILLE |
+
+50400 |
+
+Pour les navires non titulaires d'une AEP thon rouge : du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
+
+Quai de la Criée
+
+Quai Ouest |
+
+12 heures |
+
+|
+
+CHERBOURG |
+
+50100 |
+
+Lundi à vendredi de 9 h à 17 h (hors jours fériés) |
+
+Quai de débarque du centre de marée
+
+Quai Lawton Collins |
+
+|
+
+|
+
+SAINT QUAY PORTRIEUX |
+
+22410 |
+
+Du lundi au vendredi (hors jours fériés) |
+
+|
+
+3 heures |
+
+|
+
+BREST |
+
+29200 |
+
+Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+
+Quai de la criée |
+
+8 heures |
+
+|
+
+LE GUILVINEC |
+
+29730 |
+
+Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+
+Quai de la Criée |
+
+24 heures |
+
+|
+
+DOUARNENEZ |
+
+29100 |
+
+Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+
+Quai de la Criée
+
+Quai Ouest |
+
+24 heures |
+
+|
+
+CONCARNEAU |
+
+29900 |
+
+Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+
+Quai de la Criée |
+
+24 heures |
+
+|
+
+LORIENT |
+
+56100 |
+
+Tous les jours de 9 heures à 17 heures |
+
+Quais du port
+
+de Keroman |
+
+6 heures pour les ligneurs
+
+12 heures pour les autres navires |
+
+L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+
+QUIBERON |
+
+56170 |
+
+Tous les jours de 9 heures à 17 heures |
+
+Port Maria |
+
+6 heures pour les ligneurs
+
+12 heures pour les autres navires |
+
+|
+
+LA TURBALLE |
+
+44420 |
+
+Pour les navires non titulaires d'une AEP thon rouge : Lundi au vendredi (hors jours fériés) de 9 heures à 17 heures. |
+
+Quais du port de la Turballe |
+
+6 heures |
+
+|
+
+|
+
+|
+
+Pour les navires titulaires d'une AEP thon rouge : sans contrainte horaire |
+
+Quais du port de la Turballe |
+
+6 heures pour les chalutiers et 4 heures pour les ligneurs |
+
+|
+
+LES SABLES-D'OLONNE |
+
+85180 |
+
+Du lundi au vendredi-de 9 heures à 18 heures |
+
+Quais du port des Sables-d'Olonne |
+
+|
+
+|
+
+LA ROCHELLE |
+
+17000 |
+
+Du lundi au vendredi (hors jours fériés) de 14 heures à 19 heures |
+
+Quais du port de Chef de Baie |
+
+|
+
+|
+
+ROYAN |
+
+17200 |
+
+Du lundi au vendredi (hors jours fériés) de 14 heures à 19 heures |
+
+|
+
+|
+
+|
+
+LA COTINIERE |
+
+17310 |
+
+Du lundi au vendredi (hors jours fériés) de 14 heures à 19 heures |
+
+Quai de la Criée |
+
+8 heures |
+
+|
+
+ARCACHON |
+
+33120 |
+
+Du lundi au vendredi-de 8 heures à 17 heures |
+
+Port de pêche
+
+Quai de la Criée |
+
+|
+
+|
+
+SAINT-JEAN-DE-LUZ |
+
+64500 |
+
+Pour les navires non titulaires d'un AEP thon rouge, tous les jours de 4 h à 24 h ; |
+
+Quai de la Criée |
+
+|
+
+|
+
+|
+
+|
+
+Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au jeudi de 10 h à 17 h. |
+
+Quai de la Criée |
+
+|
+
+|
+
+PORT-VENDRES |
+
+66660 |
+
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30 |
+
+Quai de la République (enceinte portuaire)
+
+Quai de la gare maritime
+
+Quai de la Presqu'île (enceinte portuaire)
+
+Débarcadère de la Criée
+
+Quai François-Joly
+
+Quai Pierre-Forgas |
+
+|
+
+|
+
+SAINT-CYPRIEN |
+
+66750 |
+
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30 |
+
+Quai de pêche
+
+Quai Arthur Rimbaud |
+
+|
+
+|
+
+LE BARCARES |
+
+66420 |
+
+De 9 heures à 12 heures et 13 h 30 à 17 h 30 |
+
+|
+
+|
+
+|
+
+PORT-LA-NOUVELLE |
+
+11210 |
+
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30 |
+
+Quai des Pêcheurs à la Criée |
+
+|
+
+|
+
+GRUISSAN |
+
+11430 |
+
+Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
+
+|
+
+|
+
+|
+
+LEUCATE |
+
+11370 |
+
+Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
+
+|
+
+|
+
+|
+
+AGDE |
+
+34300 |
+
+De 8 heures à 10 heures et de 18 h 30 à 21 heures |
+
+Quai Baulant
+
+Quai Soixante-Dix-Sept |
+
+|
+
+|
+
+SETE |
+
+34200 |
+
+De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures |
+
+Quai de la Halle à Marée
+
+Quai d'Alger
+
+Quai de Frontignan |
+
+|
+
+|
+
+PALAVAS-LES-FLOTS |
+
+34250 |
+
+Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
+
+Quai des Pompes |
+
+|
+
+|
+
+FRONTIGNAN PLAGE |
+
+34110 |
+
+Tous les jours de 8 heures à 11 heures et de 17 heures à 21 heures |
+
+Quai des pêcheurs |
+
+|
+
+|
+
+GRAU-DU-ROI |
+
+30240 |
+
+De 8 h 30 à 10 h 30 et de 17 h 30 à 21 heures |
+
+Quai du Général-de-Gaulle (rive droite)
+
+Quai du 19 Mars 1962 |
+
+|
+
+|
+
+LES SAINTES-MARIES-DE-LA-MER |
+
+13460 |
+
+De 15 heures à 19 heures |
+
+Quai doté d'une potence (entre le quai des Brumes et le quai Amiral) |
+
+|
+
+|
+
+PORT SAINT LOUIS DU RHONE |
+
+13230 |
+
+De 8 h à 11 h et de 15 h 30 à 18 h 30 |
+
+|
+
+|
+
+|
+
+PORT-DE-BOUC |
+
+13110 |
+
+De 8 heures à 11 heures et 15 h 30 à 18 h 30 |
+
+Port de l'Anse-Aubran |
+
+|
+
+|
+
+MARTIGUES |
+
+13500 |
+
+De 8 heures à 11 heures et 15 h 30 à 18 h 30 |
+
+Port de Carro |
+
+|
+
+|
+
+MARSEILLE |
+
+13016 |
+
+De 8 heures à 11 heures et 15 h 30 à 18 h 30 |
+
+Port de Saumaty |
+
+|
+
+|
+
+SANARY |
+
+83110 |
+
+De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+
+|
+
+|
+
+|
+
+TOULON |
+
+83100 |
+
+De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+
+Quai des Pêcheurs |
+
+|
+
+|
+
+LE LAVANDOU |
+
+83980 |
+
+De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+
+|
+
+|
+
+|
+
+CANNES |
+
+06400 |
+
+Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+
+Vieux-port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf |
+
+|
+
+|
+
+SARI-SOLENZARA |
+
+20145 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+Port communal de plaisance et de pêche |
+
+|
+
+|
+
+BONIFACIO |
+
+20169 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+BASTIA |
+
+20200 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+SAINT-FLORENT |
+
+20217 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+CALVI |
+
+20260 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+PORTO-VECCHIO |
+
+20137 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+SANTA-MARIA-POGHJU |
+
+20221 |
+
+Lundi au vendredi-de 8 heures à 18 heures |
+
+|
+
+|
+
+|
+
+COGOLIN |
+
+83310 |
+
+Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+
+|
+
+|
+
+|
+
+THEOULE-SUR-MER |
+
+06590 |
+
+Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+
+Port de la Figueirette |
+
+|
+
+|
+
+ANTIBES |
+
+06600 |
+
+Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+
+Port du Crouton |
+
+|
+
+|
+
+TIZZANO |
+
+20100 |
+
+Tous les jours de 8 h à 18 h |
+
+|
+
+|
+
+|

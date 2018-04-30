@@ -1,14 +1,10 @@
-# Article Annexe B
+# Article ANNEXE B
 
-Merlu
+MERLU
 
-NOM DU PORT
+NOM DU PORT |
 
-|
-
-CODE POSTAL
-
-|
+CODE POSTAL |
 
 JOURS ET HEURES
 
@@ -18,21 +14,23 @@ pour le débarquement/
 
 transbordement
 
-(heure locale)
+(heure locale) |
 
-|
+DÉLAI
 
-DÉLAI DE NOTIFICATION préalable de débarquement
+de notification
 
-(si différent de 4 heures)
+préalable
 
-|
+(si différent
 
-RESTRICTIONS SUPPLÉMENTAIRES
+de 4 heures) |
 
-au débarquement
+RESTRICTIONS
 
-|
+supplémentaires
+
+au débarquement |
 
 BOULOGNE-SUR-MER |
 
@@ -78,7 +76,7 @@ ROSCOFF |
 
 29680 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -88,7 +86,7 @@ BREST |
 
 29200 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -104,7 +102,7 @@ DOUARNENEZ |
 
 |
 
-SAINT-GUENOLE |
+SAINT GUENOLE |
 
 29760 |
 
@@ -148,7 +146,9 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
+Tous les jours de 0 h à 5 h
+
+et de 8 h à minuit |
 
 |
 

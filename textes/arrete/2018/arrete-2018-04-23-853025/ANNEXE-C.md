@@ -1,38 +1,38 @@
-# Article Annexe C
+# Article ANNEXE C
 
-Espèces d'eau profonde
+ESPÈCES D'EAU PROFONDE
 
-NOM DU PORT
+NOM DU PORT |
 
-|
-
-CODE POSTAL
-
-|
+CODE POSTAL |
 
 JOURS ET HEURES
 
 obligatoires
 
-pour le débarquement
+pour le débarquement/
 
-(heure locale)
+transbordement
 
-|
+(heure locale) |
 
-DÉLAI DE NOTIFICATION
+DÉLAI
 
-préalable de débarquement
+de notification
 
-(si différent de 4 heures)
+préalable
 
-|
+de débarquement
 
-RESTRICTIONS SUPPLÉMENTAIRES
+(si différent
 
-au débarquement
+de 4 heures) |
 
-|
+RESTRICTIONS
+
+supplémentaires
+
+au débarquement (*) |
 
 BOULOGNE-SUR-MER |
 
@@ -74,7 +74,7 @@ AUDIERNE |
 
 |
 
-SAINT-GUENOLE |
+SAINT-GUÉNOLÉ |
 
 29760 |
 

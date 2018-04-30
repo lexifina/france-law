@@ -1,38 +1,36 @@
-# Article Annexe D
+# Article ANNEXE D
 
-Hareng, maquereau, chinchard
+HARENG, MAQUEREAU, CHINCHARD
 
-NOM DU PORT
+NOM DU PORT |
 
-|
-
-CODE POSTAL
-
-|
+CODE POSTAL |
 
 JOURS ET HEURES
 
 obligatoires
 
-pour le débarquement
+pour le débarquement/
 
-(heure locale)
+transbordement
 
-|
+(heure locale) |
 
-DÉLAI DE NOTIFICATION
+DÉLAI
 
-préalable de débarquement
+de notification
 
-(si différent de 4 heures)
+préalable
 
-|
+(si différent
 
-RESTRICTIONS SUPPLÉMENTAIRES
+de 4 heures) |
 
-au débarquement
+RESTRICTIONS
 
-|
+supplémentaires
+
+au débarquement |
 
 BOULOGNE-SUR-MER |
 
@@ -118,18 +116,8 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
-
 |
+
+Tous les jours de 0 h à 5 h et de 8 h à minuit |
 
 L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
-
-SAINT-JEAN-DE-LUZ |
-
-64500 |
-
-|
-
-|
-
-|

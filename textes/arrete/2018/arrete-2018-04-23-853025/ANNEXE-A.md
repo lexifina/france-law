@@ -1,14 +1,10 @@
-# Article Annexe A
+# Article ANNEXE A
 
-Cabillaud
+CABILLAUD
 
-NOM DU PORT
+NOM DU PORT |
 
-|
-
-CODE POSTAL
-
-|
+CODE POSTAL |
 
 JOURS ET HEURES
 
@@ -18,23 +14,23 @@ pour le débarquement/
 
 transbordement
 
-(heure locale)
+(heure locale) |
 
-|
+DÉLAI
 
-DÉLAI DE NOTIFICATION
+de notification
 
-préalable de débarquement
+préalable
 
-(si différent de 4 heures)
+(si différent
 
-|
+de 4 heures) |
 
-RESTRICTIONS SUPPLÉMENTAIRES
+RESTRICTIONS
 
-au débarquement
+supplémentaires
 
-|
+au débarquement |
 
 DUNKERQUE |
 
@@ -100,7 +96,7 @@ ROSCOFF |
 
 29680 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -110,7 +106,7 @@ BREST |
 
 29200 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -160,7 +156,7 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
+|
 
 |
 

@@ -1,40 +1,42 @@
-# Article Annexe F
+# Article ANNEXE G
 
-Sole
+SOLE (ARTICLES PREMIERS DES RÈGLEMENTS [CE] 509/2007 ET 676/2007)
 
-NOM DU PORT
+NOM DU PORT |
 
-|
-
-CODE POSTAL
-
-|
+CODE POSTAL |
 
 JOURS ET HEURES
 
 obligatoires
 
-|
+pour le débarquement/
 
-DÉLAI DE NOTIFICATION
+transbordement
 
-préalable de débarquement
+(heure locale) |
 
-(si différent de 4 heures)
+DÉLAI
 
-|
+de notification
 
-RESTRICTIONS SUPPLÉMENTAIRES
+préalable
 
-au débarquement
+(si différent
 
-|
+de 4 heures) |
+
+RESTRICTIONS
+
+supplémentaires
+
+au débarquement |
 
 ROSCOFF |
 
 29680 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 |
 
@@ -44,7 +46,7 @@ BREST |
 
 29200 |
 
-Tous les jours de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 |
 
@@ -54,7 +56,7 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
+Tous les jours de 6 h à 22 h |
 
 |
 
