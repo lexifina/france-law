@@ -1,0 +1,3 @@
+# Article 1er
+
+Les organisations signataires sont convenues d'améliorer les garanties du régime de prévoyance mis en place par l'accord du 1er janvier 1991. Le présent avenant a pour objet de mettre en œuvre l'évolution des couvertures actuelles définies à l'article 23 et d'ajuster les cotisations y afférentes pour la garantie de ressources prévue à l'article 25, la garantie décès-invalidité prévue à l'article 25 bis et l'indemnité de départ à la retraite prévue à l'article 38. Il complète par ailleurs la garantie de ressources en instaurant une nouvelle garantie incapacité-invalidité. Il a pour objet enfin de mettre en conformité certaines dispositions de la convention collective nationale aux dispositions législatives et réglementaires en vigueur.
