@@ -2,19 +2,19 @@
 
 ÉVALUATION DU CONTENU EN CO2 DES RÉSEAUX DE CHALEUR ET DE FROID
 
-DÉP. |
+Dép. |
 
-NOM DU RÉSEAU |
+Nom du réseau |
 
-LOCALISATION |
+Localisation |
 
-CHALEUR (C)
+Chaleur (C)
 
 ou froid (F) |
 
 CO2
 
-(KG/ KWH) |
+(kg/ kWh) |
 
 01 |
 
@@ -28,23 +28,13 @@ C |
 
 01 |
 
-La Forge |
+Réseau d'Hauteville Lompnes |
 
-Oyonnax |
-
-C |
-
-0,268 |
-
-01 |
-
-La Plaine (HLM) |
-
-Oyonnax |
+Hauteville Lompnes |
 
 C |
 
-0,334 |
+0 |
 
 01 |
 
@@ -54,27 +44,47 @@ Saint-Denis-les-Bourg |
 
 C |
 
-0,055 |
+0,100 |
 
 01 |
 
 Belena |
 
-Marignieu |
+Belley |
 
 C |
 
-0,008 |
+0,025 |
 
 01 |
 
 Réseau de Treffort |
 
-Val-Revermont |
+Treffort-Cuisiat |
 
 C |
 
-0,051 |
+0,273 |
+
+01 |
+
+Oyonnax BioChaleur |
+
+Oyonnax |
+
+C |
+
+0,030 |
+
+01 |
+
+La Vinaigrerie |
+
+Bourg-en-Bresse |
+
+C |
+
+0,068 |
 
 02 |
 
@@ -84,7 +94,7 @@ Saint-Quentin |
 
 C |
 
-0,135 |
+0,079 |
 
 02 |
 
@@ -94,17 +104,17 @@ Soissons |
 
 C |
 
-0,077 |
+0,085 |
 
 02 |
 
 Réseau de Laon |
 
-Laon |
+Barenton-Bugny |
 
 C |
 
-0,004 |
+0,013 |
 
 02 |
 
@@ -114,7 +124,17 @@ Urcel |
 
 C |
 
-0,040 |
+0,038 |
+
+02 |
+
+Réseau de Château-Thierry |
+
+Château-Thierry |
+
+C |
+
+0,026 |
 
 03 |
 
@@ -124,7 +144,7 @@ Moulins |
 
 C |
 
-0,028 |
+0,027 |
 
 03 |
 
@@ -134,13 +154,13 @@ Montluçon |
 
 C |
 
-0,124 |
+0,142 |
 
 03 |
 
 Réseau de Mayet-de-Montagne |
 
-Mayet-de-Montagne |
+Le Mayet-de-Montagne |
 
 C |
 
@@ -148,13 +168,33 @@ C |
 
 03 |
 
-Meaulne |
+Réseau de Meaulne |
 
 Meaulne |
 
 C |
 
-0,268 |
+0 |
+
+03 |
+
+Réseau de Commentry |
+
+Commentry |
+
+C |
+
+0,081 |
+
+03 |
+
+Réseau de chaleur d'Ebreuil |
+
+Ebreuil |
+
+C |
+
+0,030 |
 
 04 |
 
@@ -164,7 +204,37 @@ Manosque |
 
 C |
 
-0,036 |
+0,048 |
+
+04 |
+
+Réseau La Tomie |
+
+Forcalquier |
+
+C |
+
+0,009 |
+
+04 |
+
+Réseau d'Allos |
+
+Allos |
+
+C |
+
+0,000 |
+
+04 |
+
+Réseau de Barcelonnette |
+
+Barcelonnette |
+
+C |
+
+0,048 |
 
 05 |
 
@@ -174,7 +244,7 @@ Embrun |
 
 C |
 
-0,000 |
+0,011 |
 
 05 |
 
@@ -186,6 +256,16 @@ C |
 
 0,005 |
 
+05 |
+
+Réseau de l'Association La Chrysalide |
+
+Tallard |
+
+C |
+
+0,242 |
+
 06 |
 
 Sonitherm-Réseau de l'Ariane |
@@ -194,7 +274,7 @@ Nice |
 
 C |
 
-0,003 |
+0,000 |
 
 06 |
 
@@ -204,7 +284,7 @@ Nice |
 
 C |
 
-0,197 |
+0,183 |
 
 06 |
 
@@ -214,7 +294,17 @@ Cannes |
 
 C |
 
-0,135 |
+0,129 |
+
+06 |
+
+Réseau chaleur et froid chaine de vie 06 |
+
+Levens |
+
+C |
+
+0,070 |
 
 07 |
 
@@ -224,17 +314,57 @@ Aubenas |
 
 C |
 
-0,011 |
+0,023 |
 
 07 |
 
 Réseau de Cheylard |
 
-Cheylard |
+Le Cheylard |
 
 C |
 
-0,020 |
+0,025 |
+
+07 |
+
+Réseau de Valgorge |
+
+Valgorge |
+
+C |
+
+0,000 |
+
+07 |
+
+Réseau de chaleur de Banne |
+
+Banne |
+
+C |
+
+0,000 |
+
+07 |
+
+Réseau de chaleur communal de Burzet |
+
+Burzet |
+
+C |
+
+0,000 |
+
+07 |
+
+Réseau de Montpezat-Sous-Bauzon |
+
+Montpezat-Sous-Bauzon |
+
+C |
+
+0,000 |
 
 08 |
 
@@ -244,7 +374,7 @@ Charleville-Mézières |
 
 C |
 
-0,227 |
+0,225 |
 
 08 |
 
@@ -254,7 +384,7 @@ Charleville-Mézières |
 
 C |
 
-0,052 |
+0,075 |
 
 08 |
 
@@ -264,7 +394,7 @@ Sedan |
 
 C |
 
-0,101 |
+0,114 |
 
 08 |
 
@@ -274,27 +404,27 @@ Machault |
 
 C |
 
-0,050 |
+0,273 |
 
 08 |
 
-Réseau de Rocroi |
+Réseau de chaleur de Rocroi |
 
 Rocroi |
 
 C |
 
-0,315 |
+0,094 |
 
 10 |
 
 ZUP de la Chapelle Saint-Luc |
 
-Les Noes |
+Les Noes-Pres-Troyes |
 
 C |
 
-0,246 |
+0,228 |
 
 10 |
 
@@ -304,7 +434,7 @@ Troyes |
 
 C |
 
-0,071 |
+0,084 |
 
 10 |
 
@@ -314,7 +444,7 @@ Piney |
 
 C |
 
-0,058 |
+0,071 |
 
 11 |
 
@@ -324,17 +454,17 @@ Narbonne |
 
 C |
 
-0,112 |
+0,093 |
 
 11 |
 
 Réseau CEF-MCO |
 
-Carcassone |
+Carcassonne |
 
 C |
 
-0,101 |
+0,184 |
 
 12 |
 
@@ -344,7 +474,7 @@ Decazeville |
 
 C |
 
-0,292 |
+0,02 |
 
 12 |
 
@@ -354,7 +484,7 @@ Rodez |
 
 C |
 
-0,012 |
+0,142 |
 
 12 |
 
@@ -364,7 +494,7 @@ Onet-le-Château |
 
 C |
 
-0,127 |
+0,298 |
 
 13 |
 
@@ -374,7 +504,7 @@ Salon de Provence |
 
 C |
 
-0,207 |
+0,206 |
 
 13 |
 
@@ -384,7 +514,7 @@ Marseille |
 
 C |
 
-0,298 |
+0,253 |
 
 13 |
 
@@ -394,7 +524,7 @@ Martigues |
 
 C |
 
-0,234 |
+0,245 |
 
 13 |
 
@@ -404,7 +534,7 @@ Martigues |
 
 C |
 
-0,220 |
+0,049 |
 
 13 |
 
@@ -414,7 +544,7 @@ Vitrolles |
 
 C |
 
-0,218 |
+0,225 |
 
 13 |
 
@@ -424,7 +554,27 @@ Aix-en-Provence |
 
 C |
 
-0,075 |
+0,000 |
+
+13 |
+
+La Bayanne |
+
+Istres |
+
+C |
+
+0,116 |
+
+13 |
+
+Réseau communal de Coudoux |
+
+Coudoux |
+
+C |
+
+0,101 |
 
 14 |
 
@@ -434,7 +584,7 @@ Hérouville-Saint-Clair |
 
 C |
 
-0,013 |
+0,015 |
 
 14 |
 
@@ -444,7 +594,7 @@ Lisieux |
 
 C |
 
-0,022 |
+0,046 |
 
 14 |
 
@@ -454,27 +604,7 @@ Falaise |
 
 C |
 
-0,008 |
-
-14 |
-
-La Guérinière |
-
-Caen |
-
-C |
-
-0,184 |
-
-14 |
-
-Grâce de Dieu |
-
-Caen |
-
-C |
-
-0,190 |
+0,020 |
 
 14 |
 
@@ -484,7 +614,7 @@ Caen |
 
 C |
 
-0,253 |
+0,231 |
 
 14 |
 
@@ -494,17 +624,67 @@ Bayeux |
 
 C |
 
-0,074 |
+0,081 |
 
 14 |
 
-Réseau Bois Vallée des Près |
+Réseau Bois Vallée des Près (Bayeux 2) |
 
 Bayeux |
 
 C |
 
-0,060 |
+0,068 |
+
+14 |
+
+Réseau d'Aunay-sur-Odon |
+
+Aunay-sur-Odon |
+
+C |
+
+0,017 |
+
+14 |
+
+Réseau de Vire |
+
+Vire |
+
+C |
+
+0,027 |
+
+14 |
+
+Réseau de Val-ès-Dunes |
+
+Argences |
+
+C |
+
+0,041 |
+
+14 |
+
+Caen Sud |
+
+Caen |
+
+C |
+
+0,167 |
+
+15 |
+
+Réseau de l'hôpital d'Aurillac |
+
+Aurillac |
+
+C |
+
+0,002 |
 
 15 |
 
@@ -514,7 +694,7 @@ Saint-Georges |
 
 C |
 
-0,003 |
+0,005 |
 
 15 |
 
@@ -524,17 +704,27 @@ Saint-Flour |
 
 C |
 
-0,016 |
+0,007 |
 
 15 |
 
-Réseau de Baignes Sainte-Radegonde |
+Réseau de Riom-ès-Montagnes |
 
-Baignes Sainte-Radegonde |
+Riom-ès-Montagnes |
 
 C |
 
-0,192 |
+0,033 |
+
+15 |
+
+Réseau de l'OP HLM Du Cantal |
+
+Arpajon-sur-Cere |
+
+C |
+
+0,000 |
 
 16 |
 
@@ -544,7 +734,17 @@ Soyaux |
 
 C |
 
-0,200 |
+0,325 |
+
+16 |
+
+Réseau de Champagne-Mouton |
+
+Champagne-Mouton |
+
+C |
+
+0,000 |
 
 16 |
 
@@ -564,7 +764,7 @@ La Rochelle |
 
 C |
 
-0,076 |
+0,044 |
 
 17 |
 
@@ -574,7 +774,7 @@ Jonzac |
 
 C |
 
-0,058 |
+0,029 |
 
 17 |
 
@@ -584,17 +784,17 @@ Aytre |
 
 C |
 
-0,000 |
+0,008 |
 
 17 |
 
-ZUP de Mireuil |
+Pont Neuf Mireuil Energie |
 
 La Rochelle |
 
 C |
 
-0,016 |
+0,019 |
 
 17 |
 
@@ -604,47 +804,47 @@ Pons |
 
 C |
 
-0,089 |
+0,072 |
 
 17 |
 
-Réseau Gémozac |
+Réseau de Gémozac |
 
 Gémozac |
 
 C |
 
-0,018 |
+0,019 |
 
 18 |
 
-Chancellerie Gibjoncs-Zup de Bourges |
+Chancellerie Gibjoncs-ZUP de Bourges |
 
 Asnières-les-Bourges |
 
 C |
 
-0,012 |
+0,023 |
 
 18 |
 
-ZUP du Clos du Roy |
+Clos du Roi-Tunnel Château |
 
 Vierzon |
 
 C |
 
-0,325 |
+0,190 |
 
 19 |
 
-Centre valorisation énergétique Brive |
+Centre de valorisation énergétique Brive |
 
 Saint-Pantaléon-de-Larche |
 
 C |
 
-0,002 |
+0,004 |
 
 19 |
 
@@ -654,7 +854,7 @@ Egletons |
 
 C |
 
-0,060 |
+0,020 |
 
 19 |
 
@@ -664,7 +864,27 @@ Sornac |
 
 C |
 
-0,011 |
+0,042 |
+
+19 |
+
+Réseau de Servières-le-Château |
+
+Servières-le-Château |
+
+C |
+
+0,000 |
+
+19 |
+
+Borg Warner |
+
+Eyrein |
+
+C |
+
+0,284 |
 
 20 |
 
@@ -674,47 +894,27 @@ Corte |
 
 C |
 
-0,019 |
+0,266 |
 
 21 |
 
-La Fontaine d'Ouche |
+La Fontaine d'Ouche et Chenove |
 
 Dijon |
 
 C |
 
-0,206 |
+0,161 |
 
 21 |
 
 Dijon Énergies |
 
-Djon |
+Dijon |
 
 C |
 
-0,028 |
-
-21 |
-
-ZUP de Chenove |
-
-Chenove |
-
-C |
-
-0,331 |
-
-21 |
-
-Réseau de Quetigny |
-
-Quetigny |
-
-C |
-
-0,143 |
+0,068 |
 
 21 |
 
@@ -724,7 +924,57 @@ Dijon |
 
 C |
 
-0,077 |
+0,070 |
+
+22 |
+
+Réseau de Brézillet |
+
+Ploufragan |
+
+C |
+
+0,181 |
+
+22 |
+
+Réseau de chaleur de Pluzunet |
+
+Pluzunet |
+
+C |
+
+0,000 |
+
+22 |
+
+Réseau de chaleur de Collinée |
+
+Collinée |
+
+C |
+
+0,000 |
+
+22 |
+
+Réseau de chaleur de Pessala |
+
+Plessala |
+
+C |
+
+0,000 |
+
+22 |
+
+Réseau de chaleur du Gouray |
+
+Le Gouray |
+
+C |
+
+0,000 |
 
 23 |
 
@@ -734,7 +984,7 @@ Bourganeuf |
 
 C |
 
-0,017 |
+0,026 |
 
 23 |
 
@@ -744,7 +994,17 @@ Felletin |
 
 C |
 
-0,222 |
+0,024 |
+
+23 |
+
+Réseau de Gentioux |
+
+Gentioux-Pigerolles |
+
+C |
+
+0,192 |
 
 24 |
 
@@ -754,7 +1014,7 @@ Saint-Astier |
 
 C |
 
-0,023 |
+0,069 |
 
 24 |
 
@@ -764,7 +1024,7 @@ Périgueux |
 
 C |
 
-0,003 |
+0,037 |
 
 24 |
 
@@ -776,6 +1036,16 @@ C |
 
 0,049 |
 
+24 |
+
+Réseau de Coulounieix-chamiers |
+
+Coulounieix-chamiers |
+
+C |
+
+0,091 |
+
 25 |
 
 Besançon-Planoise |
@@ -784,7 +1054,7 @@ Besançon |
 
 C |
 
-0,142 |
+0,063 |
 
 25 |
 
@@ -794,7 +1064,7 @@ Montbéliard |
 
 C |
 
-0,045 |
+0,053 |
 
 25 |
 
@@ -804,7 +1074,7 @@ Béthoncourt |
 
 C |
 
-0,212 |
+0,216 |
 
 25 |
 
@@ -814,7 +1084,7 @@ Le Russey |
 
 C |
 
-0,050 |
+0,048 |
 
 25 |
 
@@ -824,7 +1094,7 @@ Audincourt |
 
 C |
 
-0,178 |
+0,184 |
 
 25 |
 
@@ -834,7 +1104,7 @@ Besançon |
 
 C |
 
-0,054 |
+0,051 |
 
 25 |
 
@@ -844,7 +1114,7 @@ Mouthe |
 
 C |
 
-0,053 |
+0,091 |
 
 25 |
 
@@ -864,7 +1134,7 @@ Valence |
 
 C |
 
-0,284 |
+0,288 |
 
 26 |
 
@@ -874,7 +1144,7 @@ Vassieux-en-Vercors |
 
 C |
 
-0,019 |
+0,014 |
 
 26 |
 
@@ -894,7 +1164,17 @@ Montélimar |
 
 C |
 
-0,249 |
+0,268 |
+
+26 |
+
+Réseau du quartier de la Monnaie |
+
+Romans-sur-Isère |
+
+C |
+
+0,244 |
 
 27 |
 
@@ -904,27 +1184,27 @@ Evreux |
 
 C |
 
-0,010 |
+0,018 |
 
 27 |
 
-ZAC des Maisons Rouges |
+Louviers Energie |
 
-Louvriers |
+Louviers |
 
 C |
 
-0,166 |
+0,077 |
 
 27 |
 
 Quartier de l'Europe |
 
-Pont Audemer |
+Pont-Audemer |
 
 C |
 
-0,232 |
+0,217 |
 
 27 |
 
@@ -934,7 +1214,7 @@ Les Andelys |
 
 C |
 
-0,202 |
+0,210 |
 
 27 |
 
@@ -944,7 +1224,27 @@ Vernon |
 
 C |
 
-0,202 |
+0,191 |
+
+27 |
+
+Réseau de Conches-en-Ouches |
+
+Conches-en-Ouches |
+
+C |
+
+0,053 |
+
+27 |
+
+Réseau-Canappeville |
+
+Canappeville |
+
+C |
+
+0,000 |
 
 28 |
 
@@ -954,7 +1254,7 @@ Chartres |
 
 C |
 
-0,276 |
+0,315 |
 
 28 |
 
@@ -964,17 +1264,17 @@ Nogent Rotrou |
 
 C |
 
-0,236 |
+0,219 |
 
 28 |
 
-DUNE |
+Réseau Dunes |
 
 Chateaudun |
 
 C |
 
-0,010 |
+0,036 |
 
 28 |
 
@@ -984,17 +1284,27 @@ Manvilliers |
 
 C |
 
-0,211 |
+0,326 |
+
+28 |
+
+Réseau de chaleur de Voves |
+
+Voves |
+
+C |
+
+0,000 |
 
 29 |
 
-Réseau de Brest |
+Eco chaleur de Brest |
 
 Brest |
 
 C |
 
-0,023 |
+0,020 |
 
 29 |
 
@@ -1004,7 +1314,7 @@ Plougastel-Daoulas |
 
 C |
 
-0,009 |
+0,020 |
 
 30 |
 
@@ -1014,21 +1324,31 @@ Nîmes |
 
 C |
 
-0,240 |
+0,100 |
 
 30 |
 
-Centre Ville Ales |
+DALAE |
 
 Ales |
 
 C |
 
-0,074 |
+0,080 |
+
+30 |
+
+Réseau Lamelouze |
+
+Lamelouze |
+
+C |
+
+0,000 |
 
 31 |
 
-Réseau de Toulouse (UIOM) |
+Réseau de Toulouse Mirail |
 
 Toulouse |
 
@@ -1044,7 +1364,7 @@ Toulouse |
 
 C |
 
-0,124 |
+0,017 |
 
 31 |
 
@@ -1054,7 +1374,7 @@ Toulouse |
 
 F |
 
-0,011 |
+0,010 |
 
 31 |
 
@@ -1064,17 +1384,7 @@ Toulouse |
 
 C |
 
-0,361 |
-
-31 |
-
-CSU Rangueil |
-
-Toulouse |
-
-C |
-
-0,374 |
+0,200 |
 
 31 |
 
@@ -1084,7 +1394,7 @@ Toulouse |
 
 C |
 
-0,205 |
+0,324 |
 
 31 |
 
@@ -1094,7 +1404,7 @@ Balma |
 
 C |
 
-0,044 |
+0,083 |
 
 31 |
 
@@ -1104,7 +1414,7 @@ Blagnac |
 
 C |
 
-0,087 |
+0,122 |
 
 31 |
 
@@ -1114,7 +1424,7 @@ Ayguevives |
 
 C |
 
-0,011 |
+0,077 |
 
 33 |
 
@@ -1124,7 +1434,7 @@ Bordeaux |
 
 C |
 
-0,195 |
+0,185 |
 
 33 |
 
@@ -1142,9 +1452,19 @@ Laseris |
 
 Le Barp |
 
+C |
+
+0,228 |
+
+33 |
+
+Laseris |
+
+Le Barp |
+
 F |
 
-0,011 |
+0,012 |
 
 33 |
 
@@ -1154,7 +1474,7 @@ Pellegrue |
 
 C |
 
-0,021 |
+0,031 |
 
 33 |
 
@@ -1164,37 +1484,37 @@ Mérignac |
 
 C |
 
-0,209 |
+0,208 |
 
 33 |
 
-Hauts de Garonne-Rive Droite Energies |
+Rive Droite Energies |
 
-Cenon Lormont Floirac |
+Cenon |
 
 C |
 
-0,046 |
+0,048 |
 
 33 |
 
 Réseau de chaleur de Gironde sur Dropt |
 
-Gironde sur Dropt |
+Gironde-sur-Dropt |
 
 C |
 
-0,004 |
+0,06 |
 
 33 |
 
 Réseau de chaleur de Saint-Pierre d'Aurillac |
 
-Saint-Pierre d'Aurillac |
+Saint-Pierre-d'Aurillac |
 
 C |
 
-0,030 |
+0,021 |
 
 33 |
 
@@ -1204,7 +1524,7 @@ La Réole |
 
 C |
 
-0,015 |
+0,005 |
 
 33 |
 
@@ -1214,17 +1534,67 @@ Bègles |
 
 C |
 
-0,128 |
+0,110 |
 
 33 |
 
-Eco-quartier GINKO |
+Eco-quartier Ginko |
 
 Lormont |
 
 C |
 
-0,096 |
+0,055 |
+
+33 |
+
+Bassins à flots |
+
+Bordeaux |
+
+C |
+
+0,029 |
+
+33 |
+
+Bassins à flots |
+
+Bordeaux |
+
+F |
+
+0,009 |
+
+33 |
+
+Bordeaux Begles Energies |
+
+Bordeaux |
+
+C |
+
+0,285 |
+
+33 |
+
+Réseau de la clinique de Lesparre |
+
+Lesparre-Médoc |
+
+C |
+
+0,056 |
+
+34 |
+
+RMCF |
+
+Montpellier |
+
+C |
+
+0,086 |
 
 34 |
 
@@ -1232,29 +1602,9 @@ Polygone Antigone |
 
 Montpellier |
 
-C |
-
-0,265 |
-
-34 |
-
-Polygone Antigone |
-
-Montpellier |
-
 F |
 
-0,085 |
-
-34 |
-
-Ernest Granier |
-
-Montpellier |
-
-C |
-
-0,186 |
+0,093 |
 
 34 |
 
@@ -1264,17 +1614,7 @@ Montpellier |
 
 F |
 
-0,010 |
-
-34 |
-
-Port Marianne Odysseum |
-
-Montpellier |
-
-C |
-
-0,198 |
+0,012 |
 
 34 |
 
@@ -1284,7 +1624,7 @@ Montpellier |
 
 F |
 
-0,011 |
+0,012 |
 
 34 |
 
@@ -1294,17 +1634,7 @@ Montpellier |
 
 C |
 
-0,026 |
-
-34 |
-
-Réseau Arches Jacques Coeur |
-
-Montpellier |
-
-C |
-
-0,225 |
+0,031 |
 
 34 |
 
@@ -1318,43 +1648,13 @@ F |
 
 34 |
 
-Parc Marianne |
-
-Montpellier |
-
-C |
-
-0,192 |
-
-34 |
-
-Les Grisettes |
-
-Montpellier |
-
-C |
-
-0,034 |
-
-34 |
-
 ZAC des Constellations |
 
 Juvignac |
 
 C |
 
-0,064 |
-
-35 |
-
-Villejean-Beauregard |
-
-Rennes |
-
-C |
-
-0,210 |
+0,079 |
 
 35 |
 
@@ -1364,7 +1664,7 @@ Rennes |
 
 C |
 
-0,201 |
+0,215 |
 
 35 |
 
@@ -1374,7 +1674,7 @@ Rennes |
 
 C |
 
-0,203 |
+0,196 |
 
 35 |
 
@@ -1384,37 +1684,87 @@ Rennes |
 
 C |
 
-0,095 |
+0,093 |
+
+35 |
+
+Réseau de chaleur de Bretagne Romantique |
+
+Combourg |
+
+C |
+
+0,054 |
+
+35 |
+
+Réseau de Vitré |
+
+Vitré |
+
+C |
+
+0,000 |
+
+35 |
+
+Réseau de la centrale Thermique de Villejean |
+
+Rennes |
+
+C |
+
+0,021 |
+
+35 |
+
+Réseau de Janzé |
+
+Janzé |
+
+C |
+
+0,020 |
+
+35 |
+
+Réseau de Vezin le Coquet |
+
+Vezin le Coquet |
+
+C |
+
+0,035 |
+
+35 |
+
+Réseau de Rennes Est (ZAC Baud-Chardonnet) |
+
+Rennes |
+
+C |
+
+0,001 |
 
 37 |
 
 Morier et Rabière |
 
-Joué les Tours |
+Joué-les-Tours |
 
 C |
 
-0,239 |
+0,220 |
 
 37 |
 
-ZUP des Bords de Cher |
+ZUP des Bords de Cher et Sanitas |
 
 Tours |
 
 C |
 
-0,103 |
-
-37 |
-
-Sanitas |
-
-Tours |
-
-C |
-
-0,119 |
+0,071 |
 
 37 |
 
@@ -1424,7 +1774,7 @@ Tours |
 
 C |
 
-0,184 |
+0,192 |
 
 37 |
 
@@ -1434,57 +1784,57 @@ Saint-Pierre-des-Corps |
 
 C |
 
-0,220 |
+0,232 |
 
 37 |
 
-Réseau UIOM Chinon |
+Centre de Valorisation Energétique |
 
 Saint-Benoît-la-Forêt |
 
 C |
 
-0,003 |
+0,005 |
 
 37 |
 
-Réseau de la Riche-Quartier |
+Réseau de chauffage urbain de la Riche-Quartier |
 
 La Riche |
 
 C |
 
-0,225 |
+0,238 |
 
 38 |
 
-Compagnie de chauffage de Grenoble |
+Réseau de Grenoble |
 
 Grenoble |
 
 C |
 
-0,143 |
+0,141 |
 
 38 |
 
-Compagnie de chauffage de Grenoble |
+Réseau froid CCIAG Grenoble |
 
 Grenoble |
 
 F |
 
-0,012 |
+0,013 |
 
 38 |
 
-Réseau UIOM SITOM Nord Isère |
+Berjalia |
 
 Bourgoin Jailleu |
 
 C |
 
-0,000 |
+0,034 |
 
 38 |
 
@@ -1494,7 +1844,7 @@ Vinay |
 
 C |
 
-0,023 |
+0,048 |
 
 38 |
 
@@ -1504,7 +1854,7 @@ Saint-Marcellin |
 
 C |
 
-0,031 |
+0,027 |
 
 38 |
 
@@ -1514,7 +1864,7 @@ Villars-de-Lans |
 
 C |
 
-0,186 |
+0,023 |
 
 38 |
 
@@ -1524,7 +1874,7 @@ Lans-en-Vercors |
 
 C |
 
-0,016 |
+0,013 |
 
 38 |
 
@@ -1534,7 +1884,7 @@ Monestier-de-Clermont |
 
 C |
 
-0,038 |
+0,024 |
 
 38 |
 
@@ -1544,27 +1894,47 @@ Mens |
 
 C |
 
-0,079 |
+0,066 |
 
 38 |
 
-Réseau bois RCBP |
+Réseau de Chaleur Bois Pontcharra RCBP |
 
 Pontcharra |
 
 C |
 
-0,050 |
+0,061 |
 
 38 |
 
-Allevard |
+Réseau d'Allevard |
 
 Allevard |
 
 C |
 
-0,024 |
+0,020 |
+
+38 |
+
+Réseau de Coublevie |
+
+Coublevie |
+
+C |
+
+0,056 |
+
+38 |
+
+Réseau de chaleur de Voreppe |
+
+Voreppe |
+
+C |
+
+0,042 |
 
 39 |
 
@@ -1574,17 +1944,17 @@ Dole |
 
 C |
 
-0,118 |
+0,109 |
 
 39 |
 
 La Marjorie |
 
-Lons le Saunier |
+Lons-le-Saunier |
 
 C |
 
-0,079 |
+0,082 |
 
 39 |
 
@@ -1598,13 +1968,43 @@ C |
 
 39 |
 
-Réseau de Moirans en Montagne |
+Réseau de Moirans-en-Montagne |
 
-Moirans en Montagne |
+Moirans-en-Montagne |
 
 C |
 
-0,161 |
+0,118 |
+
+39 |
+
+Réseau CCPM Arinthod |
+
+Arinthod |
+
+C |
+
+0,000 |
+
+39 |
+
+Réseau de la Ville de Morez |
+
+Hauts de Bienne |
+
+C |
+
+0,000 |
+
+39 |
+
+Chaufferie Bois les Orchidées |
+
+Avignon-Les-Saint-Claude |
+
+C |
+
+0,000 |
 
 40 |
 
@@ -1614,7 +2014,17 @@ Mont-de-Marsan |
 
 C |
 
-0,239 |
+0,018 |
+
+40 |
+
+Réseau de chaleur Peyrouat |
+
+Mont-de-Marsan |
+
+C |
+
+0,095 |
 
 41 |
 
@@ -1624,7 +2034,7 @@ Blois |
 
 C |
 
-0,037 |
+0,022 |
 
 41 |
 
@@ -1634,7 +2044,7 @@ Vineuil |
 
 C |
 
-0,037 |
+0,056 |
 
 41 |
 
@@ -1644,7 +2054,7 @@ Mondoubleau |
 
 C |
 
-0,077 |
+0,116 |
 
 42 |
 
@@ -1654,27 +2064,27 @@ Saint-Étienne |
 
 C |
 
-0,232 |
+0,227 |
 
 42 |
 
-La Métare |
+Quartier de La Métare |
 
 Saint-Étienne |
 
 C |
 
-0,190 |
+0,196 |
 
 42 |
 
-Montchovet-Beaulieu 4 (HLM) |
+HLM Beaulieu Montchovet IV |
 
 Saint-Étienne |
 
 C |
 
-0,310 |
+0,275 |
 
 42 |
 
@@ -1684,7 +2094,7 @@ Firminy |
 
 C |
 
-0,211 |
+0,116 |
 
 42 |
 
@@ -1694,17 +2104,7 @@ Roanne |
 
 C |
 
-0,242 |
-
-42 |
-
-ZUP du Parc des Sports |
-
-Roanne |
-
-C |
-
-0,235 |
+0,233 |
 
 42 |
 
@@ -1714,7 +2114,7 @@ Saint Etienne |
 
 C |
 
-0,077 |
+0,081 |
 
 42 |
 
@@ -1724,17 +2124,17 @@ Saint Etienne |
 
 F |
 
-0,014 |
+0,013 |
 
 42 |
 
-ZUP de Montreynaud |
+Quartier Montreynaud |
 
 Saint-Étienne |
 
 C |
 
-0,100 |
+0,055 |
 
 42 |
 
@@ -1744,7 +2144,7 @@ Andrézieux-Bouthéon |
 
 C |
 
-0,032 |
+0,077 |
 
 42 |
 
@@ -1754,7 +2154,7 @@ Montrond-les-Bains |
 
 C |
 
-0,032 |
+0,066 |
 
 42 |
 
@@ -1764,7 +2164,7 @@ Saint-Chamond |
 
 C |
 
-0,062 |
+0,049 |
 
 42 |
 
@@ -1774,11 +2174,11 @@ Usson-en-Forez |
 
 C |
 
-0,051 |
+0,019 |
 
 42 |
 
-Réseau de Saint-Bonnet-le-Château |
+Siège CDC St Bonnet le Château |
 
 Saint-Bonnet-le-Château |
 
@@ -1794,7 +2194,7 @@ Jonzieux |
 
 C |
 
-0,037 |
+0,075 |
 
 42 |
 
@@ -1804,7 +2204,7 @@ Roisey |
 
 C |
 
-0,002 |
+0,000 |
 
 42 |
 
@@ -1814,7 +2214,7 @@ Planfoy |
 
 C |
 
-0,001 |
+0,014 |
 
 42 |
 
@@ -1834,7 +2234,7 @@ Saint-Bonnet-le-Courreau |
 
 C |
 
-0,005 |
+0,000 |
 
 42 |
 
@@ -1854,7 +2254,7 @@ Saint-Régis-du-Coin |
 
 C |
 
-0,015 |
+0,013 |
 
 42 |
 
@@ -1864,7 +2264,7 @@ Saint-Didier-sur-Rochefort |
 
 C |
 
-0,008 |
+0,005 |
 
 42 |
 
@@ -1874,7 +2274,7 @@ Neulise |
 
 C |
 
-0,025 |
+0,017 |
 
 42 |
 
@@ -1884,7 +2284,7 @@ Pelussin |
 
 C |
 
-0,030 |
+0,071 |
 
 42 |
 
@@ -1894,7 +2294,7 @@ Saint-Christo-en-Jarez |
 
 C |
 
-0,030 |
+0,152 |
 
 42 |
 
@@ -1904,7 +2304,7 @@ Saint-Martin-la-Sauveté |
 
 C |
 
-0,025 |
+0,091 |
 
 42 |
 
@@ -1934,7 +2334,7 @@ Saint-Haon-le-Châtel |
 
 C |
 
-0,018 |
+0,025 |
 
 42 |
 
@@ -1944,7 +2344,7 @@ Saint-Joseph |
 
 C |
 
-0,158 |
+0,165 |
 
 42 |
 
@@ -1954,7 +2354,7 @@ Saint-Cyr-de-Favières |
 
 C |
 
-0,004 |
+0,000 |
 
 42 |
 
@@ -1964,7 +2364,7 @@ Roanne |
 
 C |
 
-0,093 |
+0,088 |
 
 42 |
 
@@ -1974,27 +2374,27 @@ Roanne |
 
 C |
 
-0,066 |
+0,072 |
 
 42 |
 
-Quartier les Croix-Saint Jean |
+Quartier " des Croix St Jean " |
 
 Pelussin |
 
 C |
 
-0,027 |
+0,046 |
 
 42 |
 
-Réseau siège CDC |
+Siège CDC du Pilat Rhodanien et siège maison des s |
 
 Pelussin |
 
 C |
 
-0,001 |
+0,025 |
 
 42 |
 
@@ -2004,7 +2404,7 @@ Saint-Maurice-en-Gourgois |
 
 C |
 
-0,001 |
+0,000 |
 
 42 |
 
@@ -2014,7 +2414,27 @@ Colombier |
 
 C |
 
-0,002 |
+0,032 |
+
+42 |
+
+Roche-en-Forez |
+
+Roche |
+
+C |
+
+0,010 |
+
+43 |
+
+Réseau de Tence |
+
+Tence |
+
+C |
+
+0,012 |
 
 43 |
 
@@ -2024,17 +2444,17 @@ Langeac |
 
 C |
 
-0,128 |
+0,192 |
 
 43 |
 
-Réseau Vert Veine |
+Réseau du Puy en Velay VERT VEINE |
 
-Puy-en-Velay |
+Le Puy-en-Velay |
 
 C |
 
-0,054 |
+0,021 |
 
 43 |
 
@@ -2044,7 +2464,7 @@ Yssingeaux |
 
 C |
 
-0,356 |
+0,044 |
 
 43 |
 
@@ -2054,7 +2474,7 @@ Dunières |
 
 C |
 
-0,000 |
+0,128 |
 
 43 |
 
@@ -2064,7 +2484,7 @@ Dunières |
 
 C |
 
-0,000 |
+0,128 |
 
 43 |
 
@@ -2074,17 +2494,37 @@ Pradelles |
 
 C |
 
-0,013 |
+0,028 |
+
+43 |
+
+Réseau de Mazet St Voy |
+
+Mazet-Saint-Voy |
+
+C |
+
+0,000 |
+
+43 |
+
+Réseau de St Bonnet le Froid |
+
+Saint-Bonnet-Le-Froid |
+
+C |
+
+0,000 |
 
 44 |
 
-Beaulieu Malakoff-Valorena |
+Beaulieu Malakoff |
 
 Nantes |
 
 C |
 
-0,000 |
+0,042 |
 
 44 |
 
@@ -2094,17 +2534,17 @@ Châteaubriant |
 
 C |
 
-0,073 |
+0,078 |
 
 44 |
 
-Réseau de la Chantrerie |
+Réseau Nantes Chantrerie |
 
 Nantes |
 
 C |
 
-0,070 |
+0,074 |
 
 44 |
 
@@ -2114,7 +2554,7 @@ Nantes-Saint-Herblain |
 
 C |
 
-0,123 |
+0,089 |
 
 44 |
 
@@ -2124,7 +2564,17 @@ Rezé |
 
 C |
 
-0,127 |
+0,162 |
+
+44 |
+
+Réseau de Saint-Jean-de-Boiseau |
+
+Saint-Jean-de-Boiseau |
+
+C |
+
+0,077 |
 
 44 |
 
@@ -2134,7 +2584,7 @@ Sainte-Luce-sur-Loire |
 
 C |
 
-0,260 |
+0,173 |
 
 44 |
 
@@ -2144,17 +2594,17 @@ Saint-Julien-de-Concelles |
 
 C |
 
-0,066 |
+0,000 |
 
 45 |
 
-Socos |
+Socos source |
 
 Orléans |
 
 C |
 
-0,085 |
+0,081 |
 
 45 |
 
@@ -2164,7 +2614,7 @@ Orléans |
 
 C |
 
-0,210 |
+0,000 |
 
 45 |
 
@@ -2174,21 +2624,31 @@ Montargis |
 
 C |
 
-0,096 |
+0,075 |
 
 45 |
 
 Réseau de Fleury les Aubrais |
 
-Fleury les Aubrais |
+Fleury-les-Aubrais |
 
 C |
 
-0,260 |
+0,071 |
 
 45 |
 
-C. V. E Pithiviers |
+Réseau de Amilly |
+
+Amilly |
+
+C |
+
+0,042 |
+
+45 |
+
+U. V. E Pithiviers |
 
 Pithiviers |
 
@@ -2198,13 +2658,23 @@ C |
 
 46 |
 
-Réseau de Biars du Cere |
+Réseau de Nuzéjouls |
 
-Biars dur Cere |
+Nuzejouls |
 
 C |
 
-0,012 |
+0,034 |
+
+46 |
+
+Réseau de Biars du Cere |
+
+Biars-sur-Cere |
+
+C |
+
+0,006 |
 
 46 |
 
@@ -2214,7 +2684,7 @@ Cajarc |
 
 C |
 
-0,005 |
+0,006 |
 
 46 |
 
@@ -2224,7 +2694,7 @@ Catus |
 
 C |
 
-0,007 |
+0,028 |
 
 46 |
 
@@ -2234,17 +2704,17 @@ Caillac |
 
 C |
 
-0,021 |
+0,007 |
 
 46 |
 
 Réseau de St Germain du Bel air |
 
-Saint Germain du Bel Air |
+Saint-Germain-du-Bel-Air |
 
 C |
 
-0,010 |
+0,012 |
 
 46 |
 
@@ -2254,7 +2724,7 @@ Les-Quatre-Routes-du-Lot |
 
 C |
 
-0,002 |
+0,003 |
 
 46 |
 
@@ -2264,7 +2734,7 @@ Sousceyrac |
 
 C |
 
-0,010 |
+0,026 |
 
 46 |
 
@@ -2274,7 +2744,7 @@ Figeac |
 
 C |
 
-0,002 |
+0,006 |
 
 46 |
 
@@ -2284,7 +2754,7 @@ Livernon |
 
 C |
 
-0,055 |
+0,025 |
 
 46 |
 
@@ -2294,7 +2764,7 @@ Cahors |
 
 C |
 
-0,056 |
+0,065 |
 
 46 |
 
@@ -2304,7 +2774,7 @@ Thégra |
 
 C |
 
-0,003 |
+0,008 |
 
 46 |
 
@@ -2314,7 +2784,7 @@ Lacapelle-Marival |
 
 C |
 
-0,164 |
+0,014 |
 
 47 |
 
@@ -2324,7 +2794,7 @@ Le Passage |
 
 C |
 
-0,256 |
+0,000 |
 
 48 |
 
@@ -2336,6 +2806,16 @@ C |
 
 0,000 |
 
+48 |
+
+Réseau Saint Chely d'Apcher |
+
+Saint-Chely-d'Apcher |
+
+C |
+
+0,023 |
+
 49 |
 
 Réseau d'Angers |
@@ -2344,17 +2824,17 @@ Angers |
 
 C |
 
-0,030 |
+0,012 |
 
 49 |
 
-ZUP de Jeanne d'Arc |
+Zup Jeanne d'Arc-Déromédi (UPJM) |
 
 Angers |
 
 C |
 
-0,188 |
+0,202 |
 
 49 |
 
@@ -2364,7 +2844,7 @@ Angers |
 
 C |
 
-0,179 |
+0,052 |
 
 49 |
 
@@ -2374,7 +2854,7 @@ Saumur |
 
 C |
 
-0,103 |
+0,052 |
 
 49 |
 
@@ -2384,7 +2864,7 @@ Andrezé |
 
 C |
 
-0,318 |
+0,253 |
 
 49 |
 
@@ -2404,27 +2884,37 @@ Ecouflant |
 
 C |
 
-0,064 |
+0,071 |
+
+49 |
+
+Hauts de Saint Aubin |
+
+Angers |
+
+C |
+
+0,084 |
 
 50 |
 
 ZUP d'Octeville |
 
-Cherbourg |
+Cherbourg-Octeville |
 
 C |
 
-0,059 |
+0,019 |
 
 50 |
 
 Ilot Divette |
 
-Cherbourg |
+Cherbourg-Octeville |
 
 C |
 
-0,141 |
+0,151 |
 
 50 |
 
@@ -2434,17 +2924,17 @@ Le Teilleul |
 
 C |
 
-0,052 |
+0,051 |
 
 51 |
 
-ZUP Laon Neufchâtel |
+ZUP de Laon Neufchâtel |
 
 Reims |
 
 C |
 
-0,227 |
+0,239 |
 
 51 |
 
@@ -2454,7 +2944,7 @@ Reims |
 
 C |
 
-0,256 |
+0,000 |
 
 51 |
 
@@ -2474,7 +2964,7 @@ Epernay |
 
 C |
 
-0,262 |
+0,277 |
 
 51 |
 
@@ -2484,7 +2974,7 @@ Reims |
 
 C |
 
-0,128 |
+0,115 |
 
 52 |
 
@@ -2494,17 +2984,57 @@ Chaumont |
 
 C |
 
-0,007 |
+0,030 |
 
 52 |
 
-Ensemble du Vert Bois |
+Réseau de Saint-Dizier |
 
 Saint-Dizier |
 
 C |
 
-0,186 |
+0,111 |
+
+52 |
+
+Réseau de chaleur de l'EHPAD St Augustin |
+
+Longeau-Percey |
+
+C |
+
+0,000 |
+
+52 |
+
+Réseau de Wassy |
+
+Wassy |
+
+C |
+
+0,000 |
+
+52 |
+
+Réseau de Bourmont |
+
+Bourmont |
+
+C |
+
+0,000 |
+
+52 |
+
+Zup de Grigny |
+
+Saint-Dizier |
+
+C |
+
+0,297 |
 
 52 |
 
@@ -2514,7 +3044,17 @@ Chaumont |
 
 C |
 
-0,292 |
+0,340 |
+
+53 |
+
+Lotissement les lilas |
+
+Saint-Hilaire-du-Maine |
+
+C |
+
+0,000 |
 
 53 |
 
@@ -2524,57 +3064,87 @@ Laval |
 
 C |
 
-0,231 |
+0,098 |
 
 54 |
 
-Nancy Energie |
+ESTIA-Saint Julien Kennedy |
 
 Nancy |
 
 C |
 
-0,116 |
+0,080 |
 
 54 |
 
-Réseau de Vandoeuvre |
+S, E. E. V-Ville de Vandoeuvre |
 
-Vandoeuvre-lès-Nancy |
+Vandoeuvre-les-Nancy |
 
 C |
 
-0,023 |
+0,033 |
 
 54 |
 
-Haut du Lièvre |
+ESTIA-Plateau de Haye |
 
 Nancy |
 
 C |
 
-0,068 |
+0,084 |
 
 54 |
 
-Réseau d'Ecrouve |
+Réseau d'Ecrouves |
 
-Ecrouve |
+Ecrouves |
 
 C |
 
-0,087 |
+0,074 |
+
+54 |
+
+Réseau chaufferie bois-Barbonville |
+
+Barbonville |
+
+C |
+
+0,000 |
+
+54 |
+
+S. E, E. V-Plateau de Brabois |
+
+Vandoeuvre-les-Nancy |
+
+C |
+
+0,108 |
+
+54 |
+
+ESTIA-Blandan Medreville |
+
+Nancy |
+
+C |
+
+0,091 |
 
 55 |
 
 Côte Sainte Catherine |
 
-Bar le Duc |
+Bar-le-Duc |
 
 C |
 
-0,257 |
+0,274 |
 
 55 |
 
@@ -2584,17 +3154,17 @@ Verdun |
 
 C |
 
-0,055 |
+0,212 |
 
 55 |
 
 Ligny en Barrois |
 
-Ligny en Barrois |
+Ligny-en-Barrois |
 
 C |
 
-0,055 |
+0,074 |
 
 56 |
 
@@ -2604,7 +3174,7 @@ Lanester |
 
 C |
 
-0,028 |
+0,044 |
 
 56 |
 
@@ -2624,11 +3194,11 @@ Auray |
 
 C |
 
-0,104 |
+0,080 |
 
 56 |
 
-Réseau Liger |
+Réseau de chaleur Liger |
 
 Locminé |
 
@@ -2644,7 +3214,7 @@ Metz |
 
 C |
 
-0,068 |
+0,085 |
 
 57 |
 
@@ -2654,7 +3224,7 @@ Yutz |
 
 C |
 
-0,145 |
+0,068 |
 
 57 |
 
@@ -2664,7 +3234,7 @@ Farébersviller |
 
 C |
 
-0,064 |
+0,097 |
 
 57 |
 
@@ -2674,7 +3244,7 @@ Saint-Avold |
 
 C |
 
-0,250 |
+0,239 |
 
 57 |
 
@@ -2684,7 +3254,7 @@ Freyming-Merlebach |
 
 C |
 
-0,155 |
+0,153 |
 
 57 |
 
@@ -2694,17 +3264,17 @@ Sarreguemines |
 
 C |
 
-0,257 |
+0,248 |
 
 57 |
 
 Réseau de Holweg-Forbach-Behren |
 
-Forbach-Stiring-Wendel-Behren-lès-Forbach |
+-Behren-lès-Forbach |
 
 C |
 
-0,073 |
+0,000 |
 
 57 |
 
@@ -2714,7 +3284,7 @@ Saint-Avold |
 
 C |
 
-0,192 |
+0,195 |
 
 57 |
 
@@ -2724,7 +3294,7 @@ Saint-Avold |
 
 C |
 
-0,214 |
+0,211 |
 
 57 |
 
@@ -2734,7 +3304,17 @@ Saint-Avold |
 
 C |
 
-0,231 |
+0,228 |
+
+57 |
+
+Réseau de Stiring Wendel |
+
+Stiring-Wendel |
+
+C |
+
+0,000 |
 
 57 |
 
@@ -2744,7 +3324,17 @@ Creutzwald |
 
 C |
 
-0,248 |
+0,242 |
+
+57 |
+
+Réseau ZAC Amphithéâtre |
+
+Metz |
+
+F |
+
+0,012 |
 
 58 |
 
@@ -2754,37 +3344,177 @@ Decize |
 
 C |
 
-0,176 |
+0,126 |
 
 58 |
 
-Réseau du Banlay |
+Réseau de chaleur du Banlay |
 
 Nevers |
 
 C |
 
-0,189 |
+0,019 |
 
 58 |
 
-Réseau de Nevers |
+Réseau de chaleur de la Maison du Parc du Morvan |
 
-Nevers |
+Saint-Brisson |
 
 C |
 
-0,342 |
+0,000 |
+
+58 |
+
+Réseau de chaleur d'Arleuf |
+
+Arleuf |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Bazolles |
+
+Bazolles |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Corbigny |
+
+Corbigny |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Lormes |
+
+Lormes |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Montigny en morvan |
+
+Montigny-en-Morvan |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur d'Ouroux en Morvan |
+
+Ouroux-en-Morvan |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Planchez |
+
+Planchez |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Saint Amand en Puisaye |
+
+Saint-Verain |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Varzy |
+
+Varzy |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Corancy |
+
+Corancy |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Saint Saulge |
+
+Saint-Saulge |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Billy-sur-Oisy |
+
+Billy-sur-Oisy |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Brassy |
+
+Brassy |
+
+C |
+
+0,000 |
+
+58 |
+
+Réseau de chaleur de Château Chinon Ville |
+
+Château-Chinon (Ville) |
+
+C |
+
+0,000 |
 
 59 |
 
-Alma-Beaurepaire |
+Réseau de Roubaix |
 
 Roubaix |
 
 C |
 
-0,083 |
+0,092 |
 
 59 |
 
@@ -2794,7 +3524,7 @@ Valenciennes |
 
 C |
 
-0,252 |
+0,240 |
 
 59 |
 
@@ -2804,7 +3534,7 @@ Sains-du-Nord |
 
 C |
 
-0,128 |
+0,046 |
 
 59 |
 
@@ -2814,7 +3544,7 @@ Villeneuve-d'Ascq |
 
 C |
 
-0,214 |
+0,231 |
 
 59 |
 
@@ -2824,17 +3554,17 @@ Villeneuve-d'Ascq |
 
 C |
 
-0,241 |
+0,206 |
 
 59 |
 
-ZUP de Wattignies-Blanc Riez |
+Réseaux de Wattignies |
 
 Wattignies |
 
 C |
 
-0,174 |
+0,178 |
 
 59 |
 
@@ -2844,37 +3574,37 @@ Wattrelos |
 
 C |
 
-0,214 |
+0,240 |
 
 59 |
 
-ZAC des Epis |
+Réseau de chaleur de Sin Le Noble |
 
 Sin-le-Noble |
 
 C |
 
-0,228 |
+0,108 |
 
 59 |
 
-Monsenergie |
+Réseau de Mons-en-Baroeul |
 
 Mons-en-Barœul |
 
 C |
 
-0,232 |
+0,151 |
 
 59 |
 
-Métropole Nord |
+Réseau de Lille |
 
 Lille |
 
 C |
 
-0,284 |
+0,260 |
 
 59 |
 
@@ -2884,17 +3614,17 @@ Lambersart |
 
 C |
 
-0,294 |
+0,102 |
 
 59 |
 
-ZUP de la caserne joyeuse |
+ZUP de la Caserne Joyeuse-Maubeuge |
 
 Maubeuge |
 
 C |
 
-0,237 |
+0,215 |
 
 59 |
 
@@ -2904,17 +3634,27 @@ Anzin |
 
 C |
 
-0,005 |
+0,000 |
 
 59 |
 
-Energie Grand Littoral |
+Energie Grand Littoral-Dunkerque |
 
 Dunkerque |
 
 C |
 
-0,100 |
+0,110 |
+
+59 |
+
+Réseau de chaleur de Douchy |
+
+Douchy-les-Mines |
+
+C |
+
+0,028 |
 
 59 |
 
@@ -2924,17 +3664,17 @@ Hazebrouck |
 
 C |
 
-0,226 |
+0,086 |
 
 59 |
 
 Quartier Tournebride Lomme-Capinghem |
 
-Lomme |
+Lille |
 
 C |
 
-0,079 |
+0,090 |
 
 60 |
 
@@ -2944,17 +3684,17 @@ Compiègne |
 
 C |
 
-0,246 |
+0,229 |
 
 60 |
 
-La Cavée |
+La Cavée et les hironvalles |
 
 Creil |
 
 C |
 
-0,109 |
+0,123 |
 
 60 |
 
@@ -2964,7 +3704,7 @@ Nogent-sur-Oise |
 
 C |
 
-0,183 |
+0,082 |
 
 60 |
 
@@ -2974,7 +3714,7 @@ Montataire |
 
 C |
 
-0,213 |
+0,168 |
 
 60 |
 
@@ -2984,7 +3724,7 @@ Beauvais |
 
 C |
 
-0,013 |
+0,021 |
 
 60 |
 
@@ -2994,7 +3734,17 @@ Breteuil-sur-Noye |
 
 C |
 
-0,025 |
+0,007 |
+
+61 |
+
+Quartier Saint Sauveur |
+
+Flers |
+
+C |
+
+0,060 |
 
 61 |
 
@@ -3004,7 +3754,7 @@ Alençon |
 
 C |
 
-0,055 |
+0,057 |
 
 61 |
 
@@ -3014,7 +3764,7 @@ Argentan |
 
 C |
 
-0,025 |
+0,030 |
 
 61 |
 
@@ -3024,27 +3774,27 @@ La Ferté-Macé |
 
 C |
 
-0,042 |
+0,008 |
 
 61 |
 
-Recbia |
+RECBIA |
 
 L'Aigle |
 
 C |
 
-0,032 |
+0,036 |
 
 62 |
 
-ZUP du quartier République |
+ZUP du quartier République-Avion |
 
 Avion |
 
 C |
 
-0,226 |
+0,201 |
 
 62 |
 
@@ -3054,17 +3804,17 @@ Arques |
 
 C |
 
-0,054 |
+0,063 |
 
 62 |
 
-ZUP de Lens |
+Réseau de chaleur de Lens |
 
 Lens |
 
 C |
 
-0,006 |
+0,028 |
 
 62 |
 
@@ -3074,7 +3824,7 @@ Outreau |
 
 C |
 
-0,193 |
+0,189 |
 
 62 |
 
@@ -3084,17 +3834,17 @@ Outreau |
 
 C |
 
-0,209 |
+0,082 |
 
 62 |
 
-ZUP de Béthune |
+Réseau de chaleur de Béthune-Mont Liebaut |
 
 Béthune |
 
 C |
 
-0,239 |
+0,237 |
 
 62 |
 
@@ -3104,27 +3854,27 @@ Liévin |
 
 C |
 
-0,252 |
+0,246 |
 
 62 |
 
-Calais Energie |
+Réseau de Chaleur de Calais |
 
 Calais |
 
 C |
 
-0,202 |
+0,142 |
 
 62 |
 
-Réseau Centre Ville |
+Réseau de chaleur de Béthune-Centre-Ville |
 
 Béthune |
 
 C |
 
-0,225 |
+0,214 |
 
 62 |
 
@@ -3134,7 +3884,7 @@ Achicourt |
 
 C |
 
-0,100 |
+0,079 |
 
 62 |
 
@@ -3144,7 +3894,7 @@ Arras |
 
 C |
 
-0,224 |
+0,227 |
 
 62 |
 
@@ -3154,57 +3904,57 @@ Boulogne-sur-Mer |
 
 C |
 
-0,238 |
+0,170 |
 
 63 |
 
-Réseau RCBE de Riom |
+Réseau de Riom RCBE |
 
 Riom |
 
 C |
 
-0,064 |
+0,037 |
 
 63 |
 
-Saint-Jacques (HLM) |
+HLM Saint Jacques |
 
 Clermont-Ferrand |
 
 C |
 
-0,190 |
+0,193 |
 
 63 |
 
-ZUP de la Gauthière |
+La Gauthière |
 
 Clermont-Ferrand |
 
 C |
 
-0,081 |
+0,077 |
 
 63 |
 
-Quartiers Nord |
+Croix-de-Neyrat/ Champratel/ Les Vergnes |
 
 Clermont-Ferrand |
 
 C |
 
-0,022 |
+0,019 |
 
 63 |
 
-ZAC du Masage |
+Quartier du Masage |
 
 Beaumont |
 
 C |
 
-0,219 |
+0,217 |
 
 63 |
 
@@ -3214,7 +3964,7 @@ Rochefort-Montagne |
 
 C |
 
-0,056 |
+0,046 |
 
 63 |
 
@@ -3224,17 +3974,37 @@ Royat |
 
 C |
 
-0,215 |
+0,228 |
 
 63 |
 
-Réseau de Pontaumur |
+Réseau de chaleur bois de Pontaumur |
 
 Pontaumur |
 
 C |
 
-0,084 |
+0,080 |
+
+63 |
+
+Réseau de chaleur de St-Germain-l'Herm |
+
+Saint-Germain-l'Herm |
+
+C |
+
+0,000 |
+
+63 |
+
+Réseau de chaleur de Ardes |
+
+Ardes |
+
+C |
+
+0,000 |
 
 63 |
 
@@ -3244,7 +4014,17 @@ Ambert |
 
 C |
 
-0,000 |
+0,256 |
+
+64 |
+
+SPIC réseau de chaleur du hameau |
+
+Pau |
+
+C |
+
+0,029 |
 
 65 |
 
@@ -3254,7 +4034,17 @@ Vic-en-Bigorre |
 
 C |
 
-0,187 |
+0,050 |
+
+66 |
+
+Réseau de la Perle Cerdane |
+
+Osseja |
+
+C |
+
+0,217 |
 
 67 |
 
@@ -3264,7 +4054,7 @@ Strasbourg |
 
 C |
 
-0,214 |
+0,239 |
 
 67 |
 
@@ -3274,7 +4064,7 @@ Strasbourg |
 
 C |
 
-0,225 |
+0,239 |
 
 67 |
 
@@ -3284,7 +4074,7 @@ Strasbourg |
 
 C |
 
-0,238 |
+0,225 |
 
 67 |
 
@@ -3294,7 +4084,7 @@ Strasbourg |
 
 C |
 
-0,152 |
+0,061 |
 
 67 |
 
@@ -3304,17 +4094,7 @@ Strasbourg |
 
 C |
 
-0,070 |
-
-67 |
-
-Réseau de Betschdorf |
-
-Betschdorf |
-
-C |
-
-0,086 |
+0,279 |
 
 67 |
 
@@ -3324,7 +4104,7 @@ Ostwald |
 
 C |
 
-0,216 |
+0,235 |
 
 67 |
 
@@ -3334,7 +4114,17 @@ Strasbourg |
 
 C |
 
-0,100 |
+0,076 |
+
+67 |
+
+Réseau de Colmar Vosges |
+
+Strasbourg |
+
+C |
+
+0,069 |
 
 67 |
 
@@ -3344,7 +4134,7 @@ Schiltigheim |
 
 C |
 
-0,256 |
+0,110 |
 
 67 |
 
@@ -3354,7 +4144,7 @@ Morsbronn-les-Bains |
 
 C |
 
-0,082 |
+0,091 |
 
 67 |
 
@@ -3364,7 +4154,7 @@ Lingolsheim |
 
 C |
 
-0,235 |
+0,107 |
 
 67 |
 
@@ -3374,7 +4164,7 @@ Haguenau |
 
 C |
 
-0,023 |
+0,112 |
 
 67 |
 
@@ -3384,7 +4174,7 @@ Niederbronn-les-Bains |
 
 C |
 
-0,045 |
+0,066 |
 
 67 |
 
@@ -3398,13 +4188,53 @@ C |
 
 67 |
 
+Réseau de Saales |
+
+Saales |
+
+C |
+
+0,000 |
+
+67 |
+
 Réseau de Haguenau |
 
 Haguenau |
 
 C |
 
-0,275 |
+0,063 |
+
+67 |
+
+ECOGI |
+
+Rittershoffen |
+
+C |
+
+0,000 |
+
+67 |
+
+Réseau de Sélestat |
+
+Sélestat |
+
+C |
+
+0,111 |
+
+67 |
+
+Réseau de Chaleur ECO2WACKEN |
+
+Strasbourg |
+
+C |
+
+0,070 |
 
 68 |
 
@@ -3414,17 +4244,7 @@ Colmar |
 
 C |
 
-0,052 |
-
-68 |
-
-Montagne Verte |
-
-Colmar |
-
-C |
-
-0,332 |
+0,070 |
 
 68 |
 
@@ -3434,7 +4254,7 @@ Didenheim |
 
 C |
 
-0,085 |
+0,101 |
 
 68 |
 
@@ -3444,7 +4264,7 @@ Mulhouse |
 
 C |
 
-0,217 |
+0,185 |
 
 68 |
 
@@ -3464,7 +4284,7 @@ Cernay |
 
 C |
 
-0,106 |
+0,076 |
 
 68 |
 
@@ -3474,51 +4294,111 @@ Rixheim |
 
 C |
 
-0,050 |
+0,063 |
+
+68 |
+
+Réseau de chaleur de Feldbach |
+
+Feldbach |
+
+C |
+
+0,056 |
+
+68 |
+
+Réseau de Thann |
+
+Thann |
+
+C |
+
+0,000 |
+
+68 |
+
+Réseau communal de Freisen |
+
+Freisen |
+
+C |
+
+0,000 |
+
+68 |
+
+Réseau de Lapoutroie |
+
+Lapoutroie |
+
+C |
+
+0,000 |
+
+68 |
+
+Réseau Val-d'Argent |
+
+Sainte-Marie-aux-Mines |
+
+C |
+
+0,075 |
+
+68 |
+
+Papeteries du Rhin |
+
+Illzach |
+
+C |
+
+0,062 |
 
 69 |
 
-Les Minguettes |
+Vénissieux énergies |
 
 Vénissieux |
 
 C |
 
-0,123 |
+0,121 |
 
 69 |
 
-Les Sources (HLM) |
+HLM Les Sources |
 
 Ecully |
 
 C |
 
-0,223 |
+0,207 |
 
 69 |
 
 La Duchère et Lyon 9e |
 
-Champagne au Mont d'Or |
+Champagne-au-Mont-d'Or |
 
 C |
 
-0,067 |
+0,073 |
 
 69 |
 
-Réseau Lyon-Villeurbanne |
+Réseau Lyon |
 
-Lyon-Villeurbanne |
+Lyon |
 
 C |
 
-0,093 |
+0,101 |
 
 69 |
 
-Réseau Lyon-Villeurbanne |
+Réseau Lyon |
 
 Lyon-Villeurbanne |
 
@@ -3534,7 +4414,7 @@ Vaulx-en-Velin |
 
 C |
 
-0,117 |
+0,079 |
 
 69 |
 
@@ -3544,17 +4424,17 @@ Villeurbanne |
 
 C |
 
-0,257 |
+0,249 |
 
 69 |
 
-La Perralière |
+Quartier La Perralière |
 
 Villeurbanne |
 
 C |
 
-0,214 |
+0,183 |
 
 69 |
 
@@ -3564,27 +4444,27 @@ Rillieux-la-Pape |
 
 C |
 
-0,057 |
+0,028 |
 
 69 |
 
-Quartier de Parilly |
+Quartier Parilly |
 
 Bron |
 
 C |
 
-0,208 |
+0,202 |
 
 69 |
 
-Les Vernes |
+Quartier Les Vernes |
 
 Givors |
 
 C |
 
-0,237 |
+0,253 |
 
 69 |
 
@@ -3594,7 +4474,7 @@ Villefranche-sur-Saone |
 
 C |
 
-0,001 |
+0,003 |
 
 69 |
 
@@ -3604,7 +4484,7 @@ Oullins |
 
 C |
 
-0,210 |
+0,206 |
 
 69 |
 
@@ -3614,47 +4494,47 @@ Lyon |
 
 C |
 
-0,235 |
+0,193 |
 
 69 |
 
-Réseau de Rillieux-la-Pape |
+Réseau Valorly |
 
 Rillieux-la-Pape |
 
 C |
 
-0,128 |
+0,000 |
 
 69 |
 
-Belleroche Ouest |
+Quartier Belleroche Ouest |
 
 Gleize |
 
 C |
 
-0,069 |
+0,087 |
 
 69 |
 
-Mermoz Sud |
+Quartier Mermoz Sud |
 
 Lyon |
 
 C |
 
-0,185 |
+0,202 |
 
 69 |
 
-Domaine de la Roue |
+Quartier de la Roue |
 
 Rillieux-la-Pape |
 
 C |
 
-0,235 |
+0,226 |
 
 69 |
 
@@ -3664,7 +4544,27 @@ Sathonay-Camp |
 
 C |
 
-0,063 |
+0,064 |
+
+69 |
+
+Réseau Les Combes |
+
+Yzeron |
+
+C |
+
+0,000 |
+
+69 |
+
+Réseau Le Bourg |
+
+Yzeron |
+
+C |
+
+0,000 |
 
 69 |
 
@@ -3674,7 +4574,7 @@ La Tour-de-Salvagny |
 
 C |
 
-0,055 |
+0,044 |
 
 69 |
 
@@ -3684,7 +4584,17 @@ Lamure-sur-Azergues |
 
 C |
 
-0,000 |
+0,256 |
+
+69 |
+
+Réseau de chaleur Lyon Confluence |
+
+Lyon |
+
+C |
+
+0,384 |
 
 70 |
 
@@ -3694,7 +4604,7 @@ Gray |
 
 C |
 
-0,049 |
+0,045 |
 
 70 |
 
@@ -3704,7 +4614,17 @@ Saulnot |
 
 C |
 
-0,015 |
+0,010 |
+
+70 |
+
+Réseau de Breurey les Faverney |
+
+Breurey-les-Faverney |
+
+C |
+
+0,000 |
 
 70 |
 
@@ -3714,7 +4634,7 @@ Dampierre-sur-Linotte |
 
 C |
 
-0,256 |
+0,148 |
 
 70 |
 
@@ -3724,17 +4644,67 @@ Plancher-Bas |
 
 C |
 
-0,120 |
+0,062 |
+
+70 |
+
+Réseau de Champey |
+
+Champey |
+
+C |
+
+0,192 |
+
+70 |
+
+Réseau de Scey-sur-Saône-et-Saint-Albin |
+
+Scey-sur-Saône-et-Saint-Albin |
+
+C |
+
+0,086 |
+
+70 |
+
+Réseau de Marnay |
+
+Marnay |
+
+C |
+
+0,001 |
+
+70 |
+
+Réseau de Gy |
+
+Gy |
+
+C |
+
+0,000 |
+
+70 |
+
+Réseau d'Hericourt-Quartier Maunoury |
+
+Hericourt |
+
+C |
+
+0,058 |
 
 71 |
 
 Réseau de Chalon |
 
-Chalon-sur-Saone |
+Chalon-sur-Saône |
 
 C |
 
-0,111 |
+0,103 |
 
 71 |
 
@@ -3744,7 +4714,7 @@ Montceau-les-Mines |
 
 C |
 
-0,323 |
+0,127 |
 
 71 |
 
@@ -3754,7 +4724,7 @@ Mâcon |
 
 C |
 
-0,297 |
+0,301 |
 
 71 |
 
@@ -3764,7 +4734,7 @@ Autun |
 
 C |
 
-0,070 |
+0,071 |
 
 71 |
 
@@ -3774,7 +4744,17 @@ Tramayes |
 
 C |
 
-0,020 |
+0,016 |
+
+71 |
+
+Réseau d'Anost |
+
+Anost |
+
+C |
+
+0,000 |
 
 72 |
 
@@ -3784,7 +4764,7 @@ Le Mans |
 
 C |
 
-0,230 |
+0,312 |
 
 72 |
 
@@ -3794,7 +4774,7 @@ Le Mans |
 
 C |
 
-0,209 |
+0,228 |
 
 72 |
 
@@ -3804,7 +4784,7 @@ Le Mans-Allonnes |
 
 C |
 
-0,037 |
+0,027 |
 
 72 |
 
@@ -3814,7 +4794,7 @@ Coulaine |
 
 C |
 
-0,243 |
+0,169 |
 
 73 |
 
@@ -3824,37 +4804,47 @@ Chambéry |
 
 C |
 
-0,149 |
+0,103 |
 
 73 |
 
 La Plagne |
 
-Macôt La Plagne |
+Macôt-La-Plagne |
 
 C |
 
-0,081 |
+0,059 |
 
 73 |
 
 Les Arcs |
 
-Bourg Saint Maurice |
+Bourg-Saint-Maurice |
 
 C |
 
-0,370 |
+0,338 |
+
+73 |
+
+Réseau de Notre-Dame-des-Millières |
+
+Notre-Dame-des-Millières |
+
+C |
+
+0,039 |
 
 73 |
 
 Réseau de Saint Etienne de Cuines |
 
-Saint Etienne de Cuines |
+Saint-Etienne-de-Cuines |
 
 C |
 
-0,032 |
+0,000 |
 
 73 |
 
@@ -3864,7 +4854,7 @@ Beaufort |
 
 C |
 
-0,002 |
+0,058 |
 
 73 |
 
@@ -3874,7 +4864,7 @@ Gilly-sur-Isère |
 
 C |
 
-0,017 |
+0,134 |
 
 73 |
 
@@ -3894,27 +4884,27 @@ La Bauche |
 
 C |
 
-0,241 |
+0,000 |
 
-74 |
+73 |
 
-Novel |
+Réseau de Saint-Jean-d'Arvey |
 
-Annecy |
+Saint-Jean-d'Arvey |
 
 C |
 
-0,274 |
+0,199 |
 
 74 |
 
-ZUP de Champ Fleury |
+Quartier de Champ Fleury |
 
 Seynod |
 
 C |
 
-0,045 |
+0,048 |
 
 74 |
 
@@ -3924,67 +4914,67 @@ Annemasse |
 
 C |
 
-0,104 |
+0,051 |
 
 74 |
 
-Réseau de la Rénovation |
+Quartier de la Rénovation |
 
 Thonon-les-Bains |
 
 C |
 
-0,286 |
+0,222 |
 
 74 |
 
-Flaine |
+Flaine Energie |
 
 Arracles les Carroy |
 
 C |
 
-0,320 |
+0,205 |
 
 74 |
 
-Réseau de la Zup des Ewues |
+Quartier Les Ewues |
 
 Cluses |
 
 C |
 
-0,212 |
+0,270 |
 
 74 |
 
-ZA La Cudra |
+Quartier La Cudray |
 
 Faverges |
 
 C |
 
-0,005 |
+0,009 |
 
 74 |
 
-ZUP de Cozets |
+Quartier du Crozets |
 
 Scionzier |
 
 C |
 
-0,225 |
+0,226 |
 
 74 |
 
 Réseau d'Avoriaz |
 
-Avoriaz |
+Morzine |
 
 C |
 
-0,071 |
+0,086 |
 
 74 |
 
@@ -3994,7 +4984,7 @@ Clarafond-Arcine |
 
 C |
 
-0,224 |
+0,045 |
 
 74 |
 
@@ -4004,17 +4994,37 @@ Vallorcine |
 
 C |
 
-0,029 |
+0,010 |
+
+74 |
+
+Réseau UVE du STOC |
+
+Thonon-les-Bains |
+
+C |
+
+0,000 |
+
+74 |
+
+Annecy Bio chaleur |
+
+Annecy |
+
+C |
+
+0,023 |
 
 75 |
 
-CPCU-Paris et communes limitrophes |
+Paris et communes limitrophes-CPCU |
 
 Paris |
 
 C |
 
-0,218 |
+0,172 |
 
 75 |
 
@@ -4024,7 +5034,7 @@ Paris |
 
 C |
 
-0,235 |
+0,202 |
 
 75 |
 
@@ -4034,17 +5044,7 @@ Paris |
 
 F |
 
-0,006 |
-
-75 |
-
-Rue Legendre |
-
-Paris |
-
-C |
-
-0,325 |
+0,007 |
 
 76 |
 
@@ -4054,7 +5054,7 @@ Rouen |
 
 C |
 
-0,312 |
+0,368 |
 
 76 |
 
@@ -4064,57 +5064,57 @@ Le Havre |
 
 C |
 
-0,261 |
+0,109 |
 
 76 |
 
 Réseau de Mont Saint Aignan |
 
-Mont Saint Aignan |
+Mont-Saint-Aignan |
 
 C |
 
-0,255 |
+0,178 |
 
 76 |
 
-ZUP de la Cité Verte |
+Canteleu Energie |
 
 Canteleu |
 
 C |
 
-0,157 |
+0,105 |
 
 76 |
 
 ZAC Nobel Bozel |
 
-Petit-Quevilly |
+Le Petit-Quevilly |
 
 C |
 
-0,064 |
+0,051 |
 
 76 |
 
 Château Blanc |
 
-St Etienne du Rouvray |
+Saint-Etienne-du-Rouvray |
 
 C |
 
-0,020 |
+0,018 |
 
 76 |
 
-Extension Nord-Thermical |
+Sodineuf |
 
-Neuville Les Dieppe |
+Dieppe |
 
 C |
 
-0,215 |
+0,203 |
 
 76 |
 
@@ -4124,7 +5124,7 @@ Gonfreville-l'Orcher |
 
 C |
 
-0,014 |
+0,013 |
 
 76 |
 
@@ -4134,7 +5134,7 @@ Rouen |
 
 C |
 
-0,208 |
+0,190 |
 
 76 |
 
@@ -4144,7 +5144,7 @@ Le Havre |
 
 C |
 
-0,310 |
+0,255 |
 
 76 |
 
@@ -4154,17 +5154,17 @@ Le Havre |
 
 C |
 
-0,231 |
+0,244 |
 
 76 |
 
-Réseau bois Grammont |
+Chaufferie bois Grammont |
 
 Rouen |
 
 C |
 
-0,020 |
+0,035 |
 
 76 |
 
@@ -4174,7 +5174,7 @@ Maromme |
 
 C |
 
-0,013 |
+0,021 |
 
 76 |
 
@@ -4184,7 +5184,7 @@ Notre-Dame-de-Gravenchon |
 
 C |
 
-0,019 |
+0,025 |
 
 76 |
 
@@ -4194,17 +5194,37 @@ Neufchatel-en-Bray |
 
 C |
 
-0,038 |
+0,032 |
+
+76 |
+
+Réseau de Semedi-Sedibex |
+
+Sandouville |
+
+C |
+
+0,000 |
+
+76 |
+
+VESUVE |
+
+Le Grand-Quevilly |
+
+C |
+
+0,000 |
 
 77 |
 
-Hôpital |
+Réseau de l'hôpital |
 
 Meaux |
 
 C |
 
-0,108 |
+0,103 |
 
 77 |
 
@@ -4214,7 +5234,7 @@ Meaux |
 
 C |
 
-0,093 |
+0,108 |
 
 77 |
 
@@ -4224,17 +5244,17 @@ Melun |
 
 C |
 
-0,021 |
+0,033 |
 
 77 |
 
-ZUP du mont Saint-Martin (GTNM) |
+ZUP du mont Saint-Martin |
 
 Nemours |
 
 C |
 
-0,069 |
+0,094 |
 
 77 |
 
@@ -4244,7 +5264,7 @@ Dammarie-les-Lys |
 
 C |
 
-0,237 |
+0,246 |
 
 77 |
 
@@ -4254,7 +5274,7 @@ Avon |
 
 C |
 
-0,318 |
+0,316 |
 
 77 |
 
@@ -4264,7 +5284,7 @@ Le Mée-sur-Seine |
 
 C |
 
-0,046 |
+0,063 |
 
 77 |
 
@@ -4274,7 +5294,7 @@ Vaux-le-Pénil |
 
 C |
 
-0,011 |
+0,043 |
 
 77 |
 
@@ -4284,7 +5304,7 @@ Coulommiers |
 
 C |
 
-0,0007 |
+0,005 |
 
 77 |
 
@@ -4294,7 +5314,7 @@ Montereau-Fault-Yonne |
 
 C |
 
-0,024 |
+0,015 |
 
 77 |
 
@@ -4304,7 +5324,7 @@ Torcy |
 
 C |
 
-0,008 |
+0,017 |
 
 77 |
 
@@ -4314,43 +5334,33 @@ Chelles |
 
 C |
 
-0,124 |
+0,105 |
 
-78 |
+77 |
 
-Les Nouveaux Horizons |
+Réseau de Bailly Romainvilliers |
 
-Elancourt |
+Bailly Romainvilliers |
 
 C |
 
-0,349 |
+0,035 |
 
 78 |
 
 Le Val Fourré |
 
-Mantes la Jolie |
+Mantes-la-Jolie |
 
 C |
 
-0,095 |
+0,104 |
 
 78 |
 
-Réseau SVCU de Versailles |
+Réseau de Versailles |
 
 Versailles |
-
-C |
-
-0,236 |
-
-78 |
-
-Parly II-Le Chesnay |
-
-Le Chesnay |
 
 C |
 
@@ -4358,13 +5368,23 @@ C |
 
 78 |
 
-Réseau de Saint Germain en Laye |
+Parly II |
 
-Saint Germain en Laye |
+Le Chesnay |
 
 C |
 
-0,242 |
+0,212 |
+
+78 |
+
+Réseau de Saint Germain en Laye |
+
+Saint-Germain-en-Laye |
+
+C |
+
+0,144 |
 
 78 |
 
@@ -4374,27 +5394,17 @@ Achères |
 
 C |
 
-0,096 |
+0,104 |
 
 78 |
 
-ZAC de la Noe |
-
-Chanteloup |
-
-C |
-
-0,319 |
-
-78 |
-
-Quartier Grand Ouest et des Musiciens |
+Quartier Grand Ouest et Musiciens |
 
 Les Mureaux |
 
 C |
 
-0,213 |
+0,076 |
 
 78 |
 
@@ -4404,27 +5414,17 @@ Vélizy-Villacoublay |
 
 C |
 
-0,239 |
-
-78 |
-
-Domaine de Beauregard-Cogecel |
-
-La Celle Saint Cloud |
-
-C |
-
-0,322 |
+0,221 |
 
 78 |
 
 Réseau de Carrières-Chatou |
 
-Carrières sur Seine |
+Carrières-sur-Seine |
 
 C |
 
-0,006 |
+0,007 |
 
 78 |
 
@@ -4434,7 +5434,7 @@ Plaisir |
 
 C |
 
-0,043 |
+0,031 |
 
 79 |
 
@@ -4444,7 +5444,17 @@ Niort |
 
 C |
 
-0,202 |
+0,327 |
+
+79 |
+
+Réseau de Romans |
+
+Romans |
+
+C |
+
+0,000 |
 
 79 |
 
@@ -4454,7 +5464,7 @@ Bressuire |
 
 C |
 
-0,049 |
+0,150 |
 
 79 |
 
@@ -4464,7 +5474,27 @@ L'Absie |
 
 C |
 
-0,006 |
+0,000 |
+
+79 |
+
+Quartier Les Brizeaux |
+
+Niort |
+
+C |
+
+0,017 |
+
+79 |
+
+Réseau de chaleur CC du Mellois |
+
+Lezay |
+
+C |
+
+0,029 |
 
 80 |
 
@@ -4474,7 +5504,27 @@ Amiens |
 
 C |
 
-0,259 |
+0,000 |
+
+80 |
+
+Quartier Henriville |
+
+Amiens |
+
+C |
+
+0,234 |
+
+80 |
+
+Le pigeonnier |
+
+Amiens |
+
+C |
+
+0,213 |
 
 80 |
 
@@ -4484,7 +5534,7 @@ Montdidier |
 
 C |
 
-0,075 |
+0,099 |
 
 80 |
 
@@ -4494,7 +5544,7 @@ Abbeville |
 
 C |
 
-0,106 |
+0,095 |
 
 81 |
 
@@ -4504,7 +5554,7 @@ Carmaux |
 
 C |
 
-0,259 |
+0,299 |
 
 81 |
 
@@ -4514,7 +5564,7 @@ Mazamet |
 
 C |
 
-0,072 |
+0,077 |
 
 81 |
 
@@ -4524,7 +5574,7 @@ Castres |
 
 C |
 
-0,041 |
+0,015 |
 
 81 |
 
@@ -4534,7 +5584,7 @@ Gaillac |
 
 C |
 
-0,040 |
+0,053 |
 
 81 |
 
@@ -4544,7 +5594,7 @@ Graulhet |
 
 C |
 
-0,017 |
+0,022 |
 
 81 |
 
@@ -4554,27 +5604,17 @@ Alban |
 
 C |
 
-0,021 |
+0,008 |
 
 82 |
 
-Réseau de Montauban-Setmo |
+SIRTOMAD |
 
 Montauban |
 
 C |
 
 0,020 |
-
-82 |
-
-Réseau de Caylus |
-
-Caylus |
-
-C |
-
-0,267 |
 
 83 |
 
@@ -4594,7 +5634,7 @@ La-Seyne-sur-Mer |
 
 C |
 
-0,095 |
+0,011 |
 
 84 |
 
@@ -4604,7 +5644,7 @@ Avignon |
 
 C |
 
-0,217 |
+0,216 |
 
 85 |
 
@@ -4624,7 +5664,7 @@ Les Herbiers |
 
 C |
 
-0,054 |
+0,060 |
 
 85 |
 
@@ -4644,7 +5684,7 @@ Poitiers |
 
 C |
 
-0,078 |
+0,073 |
 
 86 |
 
@@ -4654,7 +5694,7 @@ Civaux |
 
 C |
 
-0,067 |
+0,078 |
 
 87 |
 
@@ -4664,7 +5704,7 @@ Limoges |
 
 C |
 
-0,038 |
+0,052 |
 
 87 |
 
@@ -4684,7 +5724,7 @@ Limoges |
 
 C |
 
-0,219 |
+0,190 |
 
 88 |
 
@@ -4694,17 +5734,17 @@ Epinal |
 
 C |
 
-0,138 |
+0,000 |
 
 88 |
 
 Quartier Kellerman |
 
-Saint-Dié |
+Saint-Dié-des-Vosges |
 
 C |
 
-0,035 |
+0,046 |
 
 88 |
 
@@ -4714,17 +5754,77 @@ Vittel |
 
 C |
 
-0,144 |
+0,109 |
 
 88 |
 
 Réseau de Fresse sur Moselle |
 
-Fresse sur Moselle |
+Fresse-sur-Moselle |
 
 C |
 
-0,020 |
+0,016 |
+
+88 |
+
+Réseau de Monthureux-sur-Saône |
+
+Monthureux-sur-Saône |
+
+C |
+
+0,075 |
+
+88 |
+
+Réseau de la Bresse 1 |
+
+La Bresse |
+
+C |
+
+0,000 |
+
+88 |
+
+Réseau de la Bresse 2 |
+
+La Bresse |
+
+C |
+
+0,000 |
+
+88 |
+
+Réseau de Frémifontaine |
+
+Frémifontaine |
+
+C |
+
+0,000 |
+
+88 |
+
+Réseau bois du pays des Abbayes |
+
+Senones |
+
+C |
+
+0,192 |
+
+88 |
+
+Réseau de Ventron |
+
+Ventron |
+
+C |
+
+0,035 |
 
 89 |
 
@@ -4734,7 +5834,7 @@ Sens |
 
 C |
 
-0,015 |
+0,024 |
 
 89 |
 
@@ -4744,7 +5844,7 @@ Auxerre |
 
 C |
 
-0,241 |
+0,119 |
 
 89 |
 
@@ -4754,7 +5854,17 @@ Sens |
 
 C |
 
-0,234 |
+0,268 |
+
+89 |
+
+Réseau de Quarre-les-Tombes |
+
+Quarre-les-Tombes |
+
+C |
+
+0,211 |
 
 90 |
 
@@ -4764,7 +5874,17 @@ Belfort |
 
 C |
 
-0,248 |
+0,233 |
+
+90 |
+
+Réseau de Delle |
+
+Delle |
+
+C |
+
+0,106 |
 
 91 |
 
@@ -4774,17 +5894,17 @@ Massy |
 
 C |
 
-0,134 |
+0,163 |
 
 91 |
 
-Réseau des Ulis-Thermulis |
+Réseau des Ulis |
 
 Les Ulis |
 
 C |
 
-0,103 |
+0,073 |
 
 91 |
 
@@ -4794,7 +5914,7 @@ Evry |
 
 C |
 
-0,168 |
+0,193 |
 
 91 |
 
@@ -4804,7 +5924,7 @@ Saint-Michel-Sur-Orge |
 
 C |
 
-0,262 |
+0,234 |
 
 91 |
 
@@ -4814,7 +5934,7 @@ Grigny |
 
 C |
 
-0,235 |
+0,191 |
 
 91 |
 
@@ -4824,7 +5944,7 @@ Brétigny-sur-orge |
 
 C |
 
-0,093 |
+0,088 |
 
 91 |
 
@@ -4834,7 +5954,7 @@ Dourdan |
 
 C |
 
-0,259 |
+0,246 |
 
 91 |
 
@@ -4844,7 +5964,7 @@ Bruyères-le-Chatel |
 
 C |
 
-0,147 |
+0,219 |
 
 91 |
 
@@ -4854,7 +5974,7 @@ Vigneux-sur-Seine |
 
 C |
 
-0,137 |
+0,164 |
 
 91 |
 
@@ -4864,7 +5984,7 @@ Epinay-sous-Sénart |
 
 C |
 
-0,068 |
+0,094 |
 
 91 |
 
@@ -4874,41 +5994,31 @@ Ris-Orangis |
 
 C |
 
-0,094 |
+0,101 |
 
 91 |
 
-Réseaux ZUP de Saint Hubert et Louis Pergaud |
+ZUP de Saint Hubert et Louis Pergaud |
 
-Sainte Geneviève des Bois |
+Sainte-Geneviève-des-Bois |
 
 C |
 
-0,217 |
+0,219 |
 
 91 |
 
-Les Tarterets |
-
-Corbeil-Essonnes |
-
-C |
-
-0,280 |
-
-91 |
-
-Réseau de Grigny COFELY |
+Réseau de Grigny Rougnon |
 
 Grigny |
 
 C |
 
-0,289 |
+0,197 |
 
 91 |
 
-Réseau Parc d'activités |
+Parc d'activités |
 
 Villejust |
 
@@ -4924,7 +6034,7 @@ Viry-Châtillon |
 
 C |
 
-0,218 |
+0,226 |
 
 92 |
 
@@ -4934,17 +6044,7 @@ Meudon la Forêt |
 
 C |
 
-0,208 |
-
-92 |
-
-Réseau de Clichy |
-
-Clichy la Garenne |
-
-C |
-
-0,260 |
+0,204 |
 
 92 |
 
@@ -4954,17 +6054,17 @@ Nanterre |
 
 C |
 
-0,101 |
+0,096 |
 
 92 |
 
-Réseau Gennedith |
+Réseau Gennevilliers |
 
 Gennevilliers |
 
 C |
 
-0,231 |
+0,221 |
 
 92 |
 
@@ -4974,27 +6074,17 @@ Chaville |
 
 C |
 
-0,224 |
+0,255 |
 
 92 |
 
-ZAC de Levallois Perret |
+Réseau de chaleur de Levallois |
 
 Levallois-Perret |
 
 C |
 
-0,253 |
-
-92 |
-
-Réseau du Plessis-Robinson (HLM) |
-
-Plessis-Robinson |
-
-C |
-
-0,332 |
+0,197 |
 
 92 |
 
@@ -5004,7 +6094,7 @@ Levallois-Perret |
 
 C |
 
-0,274 |
+0,347 |
 
 92 |
 
@@ -5014,7 +6104,7 @@ Châtillon-Sous-Bagneux |
 
 C |
 
-0,212 |
+0,282 |
 
 92 |
 
@@ -5024,7 +6114,7 @@ Boulogne-Billancourt |
 
 C |
 
-0,214 |
+0,130 |
 
 92 |
 
@@ -5038,33 +6128,23 @@ F |
 
 92 |
 
-Réseau du Plessis Robinson-ZIPEC |
-
-Le Plessis-Robinson |
-
-C |
-
-0,346 |
-
-92 |
-
-Chauffage urbain de Suresnes |
+Réseau de Suresnes |
 
 Suresnes |
 
 C |
 
-0,240 |
+0,242 |
 
 92 |
 
-Réseau Soclic |
+Réseau CENEVIA |
 
 Courbevoie |
 
 C |
 
-0,250 |
+0,246 |
 
 92 |
 
@@ -5074,7 +6154,7 @@ Courbevoie |
 
 C |
 
-0,244 |
+0,192 |
 
 92 |
 
@@ -5084,7 +6164,7 @@ Courbevoie |
 
 F |
 
-0,009 |
+0,011 |
 
 92 |
 
@@ -5094,7 +6174,7 @@ Villeneuve-la-Garenne |
 
 C |
 
-0,212 |
+0,210 |
 
 92 |
 
@@ -5104,17 +6184,17 @@ Puteaux |
 
 C |
 
-0,235 |
+0,236 |
 
 92 |
 
-Réseau Suc |
+Réseau Suc-Société Urbaine de Climatisation |
 
-Issy-les-Moulineaux |
+Courbevoie |
 
 F |
 
-0,012 |
+0,011 |
 
 92 |
 
@@ -5124,7 +6204,7 @@ Nanterre |
 
 C |
 
-0,095 |
+0,062 |
 
 92 |
 
@@ -5134,7 +6214,27 @@ Colombes |
 
 C |
 
-0,202 |
+0,116 |
+
+92 |
+
+Réseau de Clichy |
+
+Clichy |
+
+C |
+
+0,233 |
+
+92 |
+
+Réseau de Bagneux-Chatillon |
+
+Bagneux |
+
+C |
+
+0,190 |
 
 92 |
 
@@ -5144,17 +6244,27 @@ Levallois-Perret |
 
 F |
 
-0,020 |
+0,018 |
 
 93 |
 
 Réseau de Saint Denis |
 
-Saint Denis |
+Saint-Denis |
 
 C |
 
-0,177 |
+0,183 |
+
+93 |
+
+Réseau de Bagnolet |
+
+Bagnolet |
+
+C |
+
+0,182 |
 
 93 |
 
@@ -5164,7 +6274,7 @@ Bobigny |
 
 C |
 
-0,217 |
+0,221 |
 
 93 |
 
@@ -5174,7 +6284,7 @@ Sevran |
 
 C |
 
-0,217 |
+0,231 |
 
 93 |
 
@@ -5184,7 +6294,7 @@ Neuilly-sur-Marne |
 
 C |
 
-0,244 |
+0,065 |
 
 93 |
 
@@ -5194,27 +6304,17 @@ Villepinte |
 
 C |
 
-0,254 |
+0,054 |
 
 93 |
 
-Pariféric |
-
-Aubervilliers |
-
-C |
-
-0,313 |
-
-93 |
-
-Rougemont Perrin Chanteloup |
+SEBIO |
 
 Sevran |
 
 C |
 
-0,202 |
+0,074 |
 
 93 |
 
@@ -5224,7 +6324,7 @@ Le Bourget |
 
 C |
 
-0,021 |
+0,226 |
 
 93 |
 
@@ -5234,7 +6334,7 @@ Le Bourget |
 
 F |
 
-0,242 |
+0,033 |
 
 93 |
 
@@ -5244,7 +6344,7 @@ Clichy-sous-Bois |
 
 C |
 
-0,173 |
+0,193 |
 
 93 |
 
@@ -5254,37 +6354,37 @@ Aulnay-sous-Bois |
 
 C |
 
-0,180 |
+0,193 |
 
 93 |
 
-La Courneuve Quartier Nord |
+Quartier Nord |
 
 La Courneuve |
 
 C |
 
-0,159 |
+0,211 |
 
 93 |
 
-Tremblay-en-France |
+Réseau de Tremblay-en-France |
 
 Tremblay-en-France |
 
 C |
 
-0,090 |
+0,080 |
 
 93 |
 
 Réseau du Blanc Mesnil |
 
-Blanc Mesnil |
+Le Blanc-Mesnil |
 
 C |
 
-0,232 |
+0,218 |
 
 93 |
 
@@ -5294,41 +6394,31 @@ Bondy |
 
 C |
 
-0,192 |
+0,130 |
 
 93 |
 
 Garonor |
 
-Aulnay sous bois |
+Aulnay-sous-bois |
 
 C |
 
-0,322 |
+0,267 |
 
 93 |
 
-Aulnay 3000-Rose des Vents |
-
-Aulnay sous bois |
-
-C |
-
-0,325 |
-
-93 |
-
-Stade Energies Centrale Landy |
+Centrale Landy |
 
 Saint-Denis |
 
 C |
 
-0,225 |
+0,233 |
 
 93 |
 
-Stade Energies |
+Stade Energies SAS |
 
 Saint-Denis |
 
@@ -5338,23 +6428,23 @@ F |
 
 93 |
 
-La Courneuve Quartier Sud |
+Quartier Sud |
 
 La Courneuve |
 
 C |
 
-0,161 |
+0,163 |
 
 93 |
 
-Résidence Les Lilas |
+Réseau de la ZAC des docks de Saint-Ouen |
 
-Les Lilas |
+Saint-Ouen |
 
 C |
 
-0,283 |
+0,061 |
 
 94 |
 
@@ -5364,7 +6454,7 @@ Limeil-Brévannes |
 
 C |
 
-0,274 |
+0,072 |
 
 94 |
 
@@ -5374,27 +6464,37 @@ Créteil |
 
 C |
 
-0,047 |
+0,072 |
 
 94 |
 
-Réseau de Vitry-sur-Seine |
+Réseau de Choisy-Vitry |
 
 Vitry-sur-Seine |
 
 C |
 
-0,235 |
+0,157 |
 
 94 |
 
-Fontenay-sous-Bois |
+Réseau de Fontenay-sous-Bois |
 
 Fontenay-sous-Bois |
 
 C |
 
-0,166 |
+0,180 |
+
+94 |
+
+Marché International de Rungis |
+
+Rungis |
+
+C |
+
+0,001 |
 
 94 |
 
@@ -5404,7 +6504,7 @@ Sucy-en-Brie |
 
 C |
 
-0,089 |
+0,045 |
 
 94 |
 
@@ -5414,7 +6514,7 @@ Cachan |
 
 C |
 
-0,026 |
+0,151 |
 
 94 |
 
@@ -5424,17 +6524,17 @@ Champigny-sur-Marne |
 
 C |
 
-0,058 |
+, 066 |
 
 94 |
 
-Réseau de Maison Alfort |
+Réseau de Maison-Alfort |
 
 Maison-Alfort |
 
 C |
 
-0,077 |
+0,091 |
 
 94 |
 
@@ -5444,37 +6544,37 @@ Thiais |
 
 C |
 
-0,014 |
+0,128 |
 
 94 |
 
-Réseau de Bonneuil sur Marne (UIOM) |
+SETBO |
 
 Bonneuil-sur-Marne |
 
 C |
 
-0,056 |
+0,052 |
 
 94 |
 
-Réseau de Chevilly-Larue et l'Hay les Roses |
+Réseau de Chevilly-Larue l'Hay les Roses Villejuif |
 
-l'Hay-les-Roses |
+Chevilly-Larue |
 
 C |
 
-0,087 |
+0,093 |
 
 94 |
 
-Quartier Nord |
+Réseau de Fresnes |
 
 Fresnes |
 
 C |
 
-0,103 |
+0,095 |
 
 94 |
 
@@ -5484,7 +6584,7 @@ Orly |
 
 C |
 
-0,018 |
+0,065 |
 
 94 |
 
@@ -5494,27 +6594,37 @@ Alfortville |
 
 C |
 
-0,055 |
+0,048 |
+
+94 |
+
+Réseau d'Arcueil-Gentilly |
+
+Arcueil |
+
+C |
+
+0,107 |
 
 94 |
 
 Réseau d'Ivry |
 
-Ivry |
+Ivry-sur-Seine |
 
 C |
 
-0,226 |
+0,232 |
 
 94 |
 
 Réseau de Villeneuve Saint Georges |
 
-Villeneuve Saint Georges |
+Villeneuve-Saint-Georges |
 
 C |
 
-0,084 |
+0,087 |
 
 94 |
 
@@ -5524,7 +6634,7 @@ Orly |
 
 C |
 
-0,084 |
+0,096 |
 
 94 |
 
@@ -5544,7 +6654,7 @@ Taverny |
 
 C |
 
-0,240 |
+0,242 |
 
 95 |
 
@@ -5554,7 +6664,7 @@ Sarcelles |
 
 C |
 
-0,037 |
+0,053 |
 
 95 |
 
@@ -5564,17 +6674,7 @@ Cergy Pontoise |
 
 C |
 
-0,188 |
-
-95 |
-
-Les Chênes |
-
-Ermont |
-
-C |
-
-0,209 |
+0,166 |
 
 95 |
 
@@ -5584,7 +6684,7 @@ Garges-Les-Gonesse |
 
 C |
 
-0,181 |
+0,180 |
 
 95 |
 
@@ -5594,7 +6694,7 @@ Franconville |
 
 C |
 
-0,080 |
+0,088 |
 
 95 |
 
@@ -5604,7 +6704,7 @@ Argenteuil |
 
 C |
 
-0,053 |
+0,100 |
 
 95 |
 
@@ -5614,7 +6714,7 @@ Roissy |
 
 C |
 
-0,166 |
+0,191 |
 
 95 |
 
@@ -5634,7 +6734,7 @@ Franconville |
 
 C |
 
-0,201 |
+0,163 |
 
 95 |
 
@@ -5644,7 +6744,7 @@ Villiers-le-Bel |
 
 C |
 
-0,058 |
+0,105 |
 
 95 |
 
@@ -5654,14 +6754,14 @@ Pontoise |
 
 C |
 
-0,194 |
+0,197 |
 
 95 |
 
-ZAC Montedour |
+ZAC de Montedour |
 
 Franconville |
 
 C |
 
-0,230 |
+0,231 |
