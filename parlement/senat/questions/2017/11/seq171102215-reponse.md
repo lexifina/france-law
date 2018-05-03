@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102215
+
+- Question : [SEQ171102215](seq171102215.md) — Fonds européen d'aide aux plus démunis
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-05-03, page 2172*
+
+Les négociations du prochain cadre financier pluriannuel 2021-2027 (CFP) débuteront officiellement à partir du mois de mai 2018, une fois que la Commission aura rendu publiques ses propositions. Ces négociations auront lieu dans un contexte budgétaire contraint, en raison du retrait du Royaume-Uni de l'Union européenne mais aussi des nouvelles priorités que l'Union souhaite financer. Le Fonds européen d'aide aux plus démunis (FEAD), régi par le règlement 223/2014 du Parlement et du Conseil du 11 mars 2014, bénéficie de près de 3,8 Md€ sur la période 2014-2020. La France bénéficie pour sa part d'une enveloppe globale de 587 M€ (cofinancement inclus) sur la même période. Pour mémoire, les États membres doivent cofinancer au minimum 15 % du coût de leur programme national. Les résultats du FEAD sont bons : en 2015, près de 14 millions d'Européens ont pu bénéficier des aides prévues par le fonds, dont 4,8 millions en France. Par ailleurs, la Commission estime que le FEAD a contribué à fournir, partiellement ou complètement, 47 millions de repas aux plus démunis. La France, troisième bénéficiaire du FEAD, après l'Italie et l'Espagne, reste bien évidemment attachée à ce dispositif qui a fait ses preuves. Par ailleurs, la réduction d'au moins 20 millions du nombre de personnes menacées de pauvreté et d'exclusion sociale est un objectif de la stratégie Europe 2020 auquel le Gouvernement souscrit pleinement. La France sera donc particulièrement attentive à ce que les objectifs poursuivis par le FEAD soient dûment pris en compte dans le cadre des négociations sur le prochain cadre financier pluriannuel.
