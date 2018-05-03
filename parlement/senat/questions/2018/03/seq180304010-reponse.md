@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304010
+
+- Question : [SEQ180304010](seq180304010.md) — Application du référentiel Marianne dans les consulats français
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-05-03, page 2174*
+
+Le référentiel Marianne est un ensemble de douze engagements visant à garantir un service public de qualité et à renforcer le lien de confiance avec les usagers. Ce projet est piloté par la Direction interministérielle de la transformation publique (DITP). Les services adoptant ce référentiel s'engagent sur quatre grands principes vis-à-vis de leur public : orienter et fournir une information précise et actualisée ; accueillir dans la courtoisie et le respect mutuel ; répondre clairement dans les délais annoncés ; évaluer régulièrement le taux de satisfaction du public et tenir compte des suggestions. Mis en œuvre dans plus de 4 000 sites en France, il est désormais déployé dans l'ensemble du réseau consulaire. La totalité de ces engagements a été prise en compte par les consulats qui sont, depuis le mois de janvier 2017, désormais tous engagés dans le déploiement du référentiel, au terme d'une première phase d'expérimentation qui s'est achevée en décembre 2016. En juillet 2017, lors des journées du réseau consulaire, un atelier consacré à la mise en œuvre de ce référentiel a permis aux postes de partager leur expérience sur le sujet et d'échanger avec le référent Marianne de la DITP. Un premier bilan de cette généralisation du déploiement du référentiel dans l'ensemble du réseau consulaire est en cours d'élaboration. Une campagne de communication invitant nos compatriotes à l'étranger à répondre à une enquête de satisfaction sur les services consulaires et faire part de leurs suggestions a été conduite en janvier-février 2018. Les résultats de cette enquête permettront de compléter le bilan du déploiement du référentiel Marianne dans le réseau consulaire et de publier certains indicateurs.
