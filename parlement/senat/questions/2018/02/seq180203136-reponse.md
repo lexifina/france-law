@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203136
+
+- Question : [SEQ180203136](seq180203136.md) — Délocalisation en Inde des services informatiques d'Air France
+
+## Réponse
+
+*Transports, JO du 2018-05-03, page 2181*
+
+Les services informatiques d'Air France sont basés sur trois sites en France (Paris, Toulouse, Sophia-Antipolis) et représentent environ 1 400 collaborateurs. Dans le domaine du développement informatique, l'activité est pilotée sous la responsabilité de personnels de l'entreprise (soit environ 550 personnes), qui s'appuient par voie contractuelle sur des sociétés de services informatiques (SSII) en complément (soit environ 900 personnes). Pour faire face à la croissance de cette activité de développement informatique, la direction informatique d'Air France a décidé d'un plan de recrutement de 50 personnes en 2016, 53 en 2017 et 110 en 2018 couplé avec un plan de formation interne. Elle mène également une réorganisation des activités actuellement confiées à la sous-traitance. Ce chantier est devenu nécessaire par la volonté de s'adapter aux meilleures pratiques du marché et par la difficulté croissante de trouver les compétences adéquates et suffisantes à proximité des sites d'Air France. L'entreprise prévoit donc des contrats-cadres selon le modèle dit de « centre de service », couramment utilisés par d'autres entreprises comparables. Ce choix ne concerne que les activités sous-traitées et est sans impact sur les personnels d'Air France ; il prévoit le maintien d'une partie importante de l'activité sous-traitée sur les sites Air France et le repositionnement d'une autre partie dans les locaux des sociétés prestataires. Après concertation avec les partenaires sociaux, la direction de l'informatique d'Air France a annoncé suspendre un projet d'implantation en Inde et a confirmé lors du CE du 21 février 2018 que les centres de service ne seront mis en place que sur des sites du territoire national.
