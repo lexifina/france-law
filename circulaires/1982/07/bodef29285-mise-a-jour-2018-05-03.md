@@ -1,0 +1,138 @@
+# INSTRUCTION N° 367/EMM/PL/ORG relative à l'organisation, au fonctionnement et aux attributions du conseil permanent de la sécurité aérienne de la marine.
+
+- État : en vigueur (publiée)
+- NOR : BODEF29285
+- Numéro : BODEF29285
+- Date de signature : 1982-07-21
+- Mise en ligne : 2009-04-30
+- Auteur : MINISTERE DES ARMEES (EMM)
+- Signataire : Pour le ministre de la défense et par délégation : L'amiral, chef d'état-major de la marine, LANNUZEL.
+- Destinataires : MARINE NATIONALE
+- Ministères : 4
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : ; Dispositions juridiques, organisation et réglementation générales intéressant la défense et les armées.Organisation générale des armées.Organisation générale de la marine.Dispositions juridiques, organisation et réglementation générales intéressant la défense et les armées.Organisation générale des armées.Conseils, comités et commissions.TITRE II. PERSONNEL.NiveauTitreCHAPITRE III. VIE COURANTE.ChapitreOrganisation et règles d'administration propres aux différents services des armées.Aéronautique navale.Aéronautique navale. Organisation. Personnel.TITRE PREMIER. ORGANISATION.NiveauTitreCHAPITRE IV. SÉCURITÉ AÉRIENNE ET ACTIVITÉ.ChapitreDispositions juridiques, organisation et réglementation générales intéressant la défense et les armées.Dispositions juridiques intéressant la défense et les armées.Réglementation aéronautique et spatiale.DEUXIÈME PARTIE. DISPOSITIONS PARTICULIÈRESLivreLIVRE III. CIRCULATION AÉRIENNE.NiveauTitreTITRE PREMIER. GÉNÉRALITÉS.Partie
+- Publication JO / BO : BOC, p. 3136. BOEM 103.2.3.1.3, 112.9, 480.1.3
+- Remplace : Instruction n° 166/EMM/PL/ORG du 30 avril 1974 (BOC, p. 857).
+- Annexes : 0
+- Identifiant : 13176 (PDF officiel : pdf/2009/04/cir_13176.pdf)
+
+## Résumé
+
+La présente instruction précise l'organisation, le fonctionnement et les attributions détaillées du conseil permanent de la sécurité aérienne de la marine (CPSAMAR) objet de l'arrêté cité en référence.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Marine nationale
+INSTRUCTION N° 367/EMM/PL/ORG
+relative à l'organisation, au fonctionnement et aux attributions du conseil permanent de la sécurité aérienne de la marine.
+Du 21 juillet 1982
+
+ÉTAT-MAJOR DE LA MARINE : Division « plans » ; Bureau organisation-réglementation-administration ;
+Division « aéronautique générale » ; Bureau affaires générales.
+CONSEIL PERMANENT DE LA SÉCURITÉ AÉRIENNE MARINE.
+INSTRUCTION N° 367/EMM/PL/ORG relative à l'organisation, au fonctionnement et aux attributions
+du conseil permanent de la sécurité aérienne de la marine.
+Du 21 juillet 1982
+Références :
+Décret 80-782 du 01 octobre 1980 (BOC, p. 3583).
+Arrêté du 18 novembre 1980 (BOC, p. 4171).
+Modifié par :
+1er modificatif du 9 avril 1991 (BOC, 1992, p. 293) NOR DEFB9151218J.
+Texte abrogé :
+Instruction n° 166/EMM/PL/ORG du 30 avril 1974 (BOC, p. 857).
+Classement dans l'édition méthodique : BOEM 103.2.3.1.3, 111.2.3.3, 113.12, 590.1.4.1.
+Référence de publication : BOC, p. 3136.
+La présente instruction précise l'organisation, le fonctionnement et les attributions détaillées du conseil
+permanent de la sécurité aérienne de la marine (CPSAMAR) objet de l'arrêté cité en référence.
+1. ORGANISATION ET FONCTIONNEMENT.
+ 1.1. Le conseil permanent de la sécurité aérienne de la marine relève directement du chef d'état-major de la
+marine qui, par délégation du ministre de la défense, en désigne le président, le vice-président et, sur
+proposition du président, les membres. Ceux-ci sont choisis de façon que leurs compétences s'étendent aux
+principales catégories d'aéronefs de l'aéronautique navale.
+Le conseil peut s'adjoindre des experts en tant que de besoin. En outre un médecin spécialiste de médecine
+aéronautique est désigné comme expert permanent auprès du conseil.
+ 1.2. Le conseil se réunit en séance plénière ou restreinte à l'initiative de son président.
+L'action du conseil s'exerce par l'intermédiaire d'un bureau permanent.
+Le plan d'armement du bureau permanent est fixé par instruction ministérielle.
+L'action du conseil s'exerce par l'intermédiaire d'un bureau permanent et d'antennes auprès de certains
+commandants organiques.
+Le plan d'armement du bureau permanent et des antennes est fixé par instruction ministérielle.
+ 1.3. Le président du conseil permanent de sécurité aérienne de la marine a correspondance directe (timbre
+CPSA/MAR) avec les autorités de la marine pour les affaires de sa compétence (cf. 2 ci-après).
+
+ 1.4. Le conseil permanent de la sécurité aérienne de la marine utilise, pour l'exécution de certaines de ses
+tâches, les moyens de l'imprimerie de la marine, du service d'approvisionnement en matériel de l'aéronautique
+navale (SAMAN), du centre informatique d'aide au commandement (SEIDAC Paris) et du centre de production
+graphique de Paris (CPGP).
+2. ATTRIBUTIONS.
+Le conseil permanent de la sécurité aérienne de la marine est compétent pour tout ce qui concerne la sécurité
+aérienne. Son action s'exerce particulièrement dans les domaines suivants :
+- prévention des accidents et incidents aériens ;
+- enquêtes en cas d'accidents ou d'incidents aériens ;
+- récompenses et sanctions professionnelles.
+ 2.1. Prévention des accidents et incidents aériens.
+2.1.1. Le conseil permanent de la sécurité aérienne de la marine est chargé :
+- de vérifier que les dispositions prises garantissent la sécurité des vols et de contrôler leur application
+;
+- de vérifier la connaissance par le personnel des règlements et consignes destinés à assurer la sécurité
+des vols ainsi que leur application.
+A cet effet et à l'initiative de leur président, les membres du conseil, du bureau permanent, sont habilités à
+visiter les bases d'aéronautique navale, les porte-aéronefs, les bâtiments porteurs d'hélicoptères et les
+formations d'aéronautique navale. Le président avise au préalable les autorités dont dépendent les unités. Ces
+autorités peuvent, si elles le jugent utile, envoyer des observateurs. Sauf ordre du chef d'état-major de la
+marine, les officiers visiteurs ne peuvent intervenir dans le fonctionnement des éléments visités.
+Ces visites peuvent éventuellement faire l'objet d'un rapport adressé au chef d'état-major de la marine. Le
+rapport, accompagné des directives ministérielles, est ensuite diffusé aux unités visitées et aux autorités dont
+elles dépendent.
+2.1.2. Le conseil permanent de la sécurité aérienne de la marine est chargé de rechercher et de proposer
+toutes mesures propres à améliorer la sécurité des vols et notamment toutes modifications à la réglementation
+en vigueur. Il établit des recommandations :
+- soit à la suite d'études menées de sa propre initiative ou à la demande du chef d'état-major de la
+marine ;
+- soit après exploitation des constatations effectuées lors des visites dans les unités ;
+- soit après instruction des dossiers d'accidents ou d'incidents aériens.
+Les recommandations sont adressées au chef d'état-major de la marine qui décide de la suite à donner.
+2.1.3. Le conseil permanent de la sécurité aérienne de la marine est chargé d'élaborer et de diffuser
+périodiquement des documents :
+- soit destinés à sensibiliser l'ensemble du personnel qui participe à la mise en œuvre des matériels de
+l'aéronautique navale à des faits ou à des thèmes importants ;
+
+- soit destinés au commandement afin de l'informer de l'ensemble des accidents et incidents aériens et
+des enseignements à en tirer.
+ 2.2. Enquêtes en cas d'accidents ou d'incidents aériens.
+2.2.1. Le conseil permanent de la sécurité aérienne de la marine peut intervenir lors d'un accident ou d'un
+incident aérien pour fixer le type d'enquête à déclencher, désigner les enquêteurs et baptiser l'événement. En
+principe il n'intervient pas dans le cours d'une enquête aéronautique de sécurité. Cependant, il peut fournir son
+concours et il peut demander éventuellement à une commission un complément d'enquête.
+2.2.2. Le conseil permanent de la sécurité aérienne de la marine procède ou fait procéder, le cas échéant, à
+des enquêtes particulières qui généralement succèdent à des enquêtes aéronautiques de sécurité ; il s'agit lors
+d'un événement ou de plusieurs événements analogues, d'examiner de manière approfondie les causes et les
+mesures à prendre.
+2.2.3. Le conseil permanent de la sécurité aérienne de la marine qui proposer au chef d'état-major de la
+marine le déclenchement d'une enquête relative à l'exercice du commandement lorsqu'il se révèle opportun
+d'étudier les responsabilités des divers échelons de commandement.
+2.2.4. Le conseil permanent de la sécurité aérienne de la marine exploite les dossiers d'enquête pour en tirer
+les enseignements permettant d'éviter le retour d'événements semblables.
+Pour chaque événement aéronautique ayant fait l'objet d'une enquête de sécurité aéronautique (normale ou
+réduite), il rédige et adresse au chef d'état-major de la marine un rapport de clôture d'enquête qui établit les
+faits, les causes, les responsabilités et recommande des mesures de redressement.
+2.2.5. Le conseil permanent de la sécurité aérienne de la marine détient les dossiers complets d'accidents et
+d'incidents aériens. Il est chargé d'établir des statistiques et de conduire des études sur les causes générales de
+ces événements.
+2.2.6. Le conseil permanent de la sécurité aérienne de la marine est chargé d'établir et de tenir à jour la
+documentation sur la conduite à tenir en cas d'accident ou d'incident d'aéronef.
+ 2.3. Sanctions professionnelles.
+Le conseil permanent de la sécurité aérienne de la marine étudie les responsabilités encourues lors de faits
+professionnels aéronautiques. Si des récompenses doivent être attribuées, ou des sanctions prononcées, ou
+encore si elles doivent être modifiées, il donne son avis au chef d'état-major de la marine.
+Il constitue le dossier des affaires susceptibles de donner lieu à l'intervention de la commission d'examen des
+faits professionnels aéronautiques de la marine.
+Il exerce ces attributions dans les conditions prescrites par l'instruction portant réglementation des faits
+professionnels aéronautiques dans la marine, document dont il assure la tenue à jour.
+Pour le ministre de la défense et par délégation :
+L'amiral, chef d'état-major de la marine,
+LANNUZEL.
