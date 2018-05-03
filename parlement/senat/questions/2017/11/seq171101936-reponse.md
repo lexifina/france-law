@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171101936
+
+- Question : [SEQ171101936](seq171101936.md) — Axes ferroviaires menacés en région Hauts-de-France
+
+## Réponse
+
+*Transports, JO du 2018-05-03, page 2179*
+
+Le Gouvernement a pleinement conscience de l'importance des lignes ferroviaires pour la vitalité des territoires traversés, notamment pour les zones rurales qui peuvent parfois souffrir du manque d'offres de mobilité. Une part du réseau secondaire, les « plus petites lignes », nécessite des investissements de régénération importants. Ainsi, les besoins de remise à niveau des lignes ferroviaires de maillage local s'élèvent à près de cinq milliards d'euros pour les dix prochaines années à l'échelle nationale. Pour la seule région Hauts-de-France, les montants à mobiliser sont évalués à plus de 500 M€ pour la prochaine décennie. Le financement de la régénération de ces lignes est assuré à la fois par l'État et les collectivités territoriales, au premier rang desquelles les régions, dans le cadre des contrats de plan État-région (CPER). Le CPER de la région Hauts-de-France prévoit ainsi une enveloppe de 210 M€ en faveur de ces lignes, en particulier l'étoile ferroviaire de Saint-Pol-sur-Ternoise ainsi que les lignes Asq-Orchies et Beauvais-Abancourt-Le Tréport. En présentant la réforme du secteur ferroviaire le 26 février dernier, le Premier ministre a confirmé que l'État ne remettrait pas en cause les engagements des CPER. Par conséquent, ces engagements seront honorés et les travaux réalisés dans la durée du contrat. La programmation annuelle des travaux tient compte des besoins de l'infrastructure, des priorités partagées entre l'État et les collectivités ainsi que des ressources disponibles. À ce titre, la programmation des invesitssements qui sera contenue dans la future loi d'orientation des mobilités permettra de donner toute la visibilité sur le rythme de ces travaux de régénération.
