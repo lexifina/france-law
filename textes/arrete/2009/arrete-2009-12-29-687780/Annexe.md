@@ -4,9 +4,9 @@ LISTE DES LABORATOIRES NATIONAUX DE RÉFÉRENCE PRÉSENTÉE PAR DOMAINE DE COMP�
 
 Contaminants biologiques présents dans les denrées alimentaires
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Biotoxines marines |
 
@@ -82,9 +82,9 @@ Service commun des laboratoires-Laboratoire de Montpellier |
 
 Contaminants physiques et chimiques, résidus et additifs
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Additifs utilisés dans l'alimentation des animaux |
 
@@ -94,7 +94,7 @@ Détection de protéines animales dans les aliments pour animaux |
 
 Service commun des laboratoires-Laboratoire de Rennes |
 
-Dioxines et PCB dans l'alimentation humaine et animale |
+Polluants organiques persistants (POP) halogénés, excepté les résidus de pesticides, dans les aliments pour animaux et les denrées alimentaires |
 
 Ecole nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (ONIRIS)-Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA)-Nantes |
 
@@ -148,9 +148,9 @@ ONIRIS-LABERCA-Nantes |
 
 Maladies animales
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Anémie infectieuse des Equidés |
 
@@ -330,9 +330,9 @@ ANSES-Laboratoire de santé animale de Maisons-Alfort |
 
 OGM
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 OGM dans le maïs (parties végétatives) et pommes de terre, betteraves, riz, coton, blé et espèces potagères (semences et parties végétatives) |
 
@@ -352,9 +352,9 @@ Santé des végétaux
 
 Bactéries phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Bactéries sur bananier, agrumes et plantes tropicales |
 
@@ -366,9 +366,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Phytoplasmes phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Phytoplasmes sur toutes matrices |
 
@@ -376,9 +376,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Virus phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Virus sur bananier et plantes tropicales |
 
@@ -394,9 +394,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Viroïdes phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Viroïdes sur toutes matrices |
 
@@ -404,9 +404,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Champignons phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Champignons sur toutes matrices |
 
@@ -418,9 +418,9 @@ Champignons sensu stricto, ainsi que les organismes généralement assimilés (i
 
 Nématodes phytopathogènes
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Nématodes phytoparasites sur toutes matrices |
 
@@ -430,9 +430,9 @@ Unité nématologie-Station du Rheu (près de Rennes) |
 
 Insectes, acariens phytopathogènes et auxiliaires
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Insectes, acariens phytoparasites et auxiliaires sur toutes matrices |
 
@@ -442,9 +442,9 @@ Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de 
 
 Plantes invasives
 
-Domaine de compétence |
+DOMAINE DE COMPÉTENCE |
 
-Laboratoire national de référence |
+LABORATOIRE NATIONAL DE RÉFÉRENCE |
 
 Plantes invasives |
 
