@@ -34,7 +34,7 @@ Sportif de haut niveau en hockey inscrit ou ayant été inscrit sur la liste min
 
 X |
 
-X |
+|
 
 |
 
