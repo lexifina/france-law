@@ -6,11 +6,11 @@ DISPENSES ET EQUIVALENCES
 
 Est dispensé(e) du test technique mentionné à l'annexe IV :
 
-- le(la) candidat(e) qui a réalisé un parcours de 800 mètres nage libre minimum, en moins de 15 minutes, en compétition de référence officielle de la Fédération française de natation ou lors d'une compétition reconnue dans le cadre d'une convention avec la Fédération française de natation. Cette performance est attestée par le directeur technique national de la natation, ou à défaut par le directeur technique national cadre d'Etat d'une fédération membre du conseil interfédéral des activités aquatiques (CIAA) en convention avec la Fédération française de natation ou ;
+- le(la) candidat(e) qui a réalisé un parcours de 800 mètres nage libre minimum, en moins de 16 minutes, en compétition de référence officielle de la Fédération française de natation ou lors d'une compétition reconnue dans le cadre d'une convention avec la Fédération française de natation. Cette performance est attestée par le directeur technique national de la natation, ou à défaut par le directeur technique national cadre d'Etat d'une fédération membre du conseil interfédéral des activités aquatiques (CIAA) en convention avec la Fédération française de natation ou ;
 
-- le(la) candidat(e) qui a réalisé un parcours de 800 mètres nage libre en moins de 15 minutes. Cette performance est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou ;
+- le(la) candidat(e) qui a réalisé un parcours de 800 mètres nage libre en moins de 16 minutes. Cette performance est attestée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou ;
 
-- les personnes titulaires du "Pass'sports de l'eau" et d'un "Pass' compétition" de la Fédération française de natation (FFN).
+- les personnes titulaires du "Pass'sports de l'eau" et d'un "Pass' compétition" de la Fédération française de natation (FFN) ou de la Fédération française de sauvetage et de secourisme ou d'une fédération membre du Conseil interfédéral des activités aquatiques (CIAA) en convention avec la Fédération française de natation.
 
 2. Dispenses de la vérification des exigences préalables à la mise en situation professionnelle (EPMSP) et équivalences d'unités capitalisables (UC)
 

@@ -46,7 +46,7 @@ A ce titre, il doit être en capacité :
 
 - d'extraire une personne du milieu aquatique.
 
-B - Test lié aux exigences préalables à l'entrée en formation : test de performance sportive : il consiste à parcourir une distance de 800 mètres nage libre en moins de 15 minutes.
+B - Test lié aux exigences préalables à l'entrée en formation : test de performance sportive : il consiste à parcourir une distance de 800 mètres nage libre en moins de 16 minutes.
 
 C - Dispositions particulières pour les personnes présentant un handicap : la réglementation du diplôme prévoit que le directeur régional de la jeunesse, des sports et de la cohésion sociale peut, après avis d'un médecin agréé par la Fédération française handisport ou par la Fédération française de sport adapté, aménager le cursus de formation et les épreuves d'évaluation certificative pour toute personne justifiant d'un handicap.
 
