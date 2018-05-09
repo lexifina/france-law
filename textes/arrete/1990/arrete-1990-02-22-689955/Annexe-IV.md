@@ -565,3 +565,59 @@ RH-34 ou 3-[2-(2-méthoxybenzylamino)éthyl]-1H-quinazoline-2,4-dione
 - Ephénidine ou N-ethyl-1,2-diphenylethylamine ou NEDPA ou EPE ;
 
 - Méthoxphénidine ou méthoxyphénidine ou 1-[1-(2-methoxyphenyl)-2-phenylethyl] piperidine ou 2-MeO-diphénidine ou méthoxydiphénidine ou MXP.
+
+2C-C ou 2,5-dimethoxy-4-chlorophenethylamine ou 1-(4-chloro-2,5-dimethoxyphenyl)-2-ethanamine ;
+
+2C-D ou 2C-M ou 2,5-dimethoxy-4-methylphenethylamine ou 1-(4-methyl-2,5-dimethoxyphenyl)-2-ethanamine ;
+
+2C-E ou 2,5-dimethoxy-4-ethylphenethylamine ou 1-(4-ethyl-2,5-dimethoxyphenyl)-2-ethanamine ;
+
+2C-P ou 2,5-dimethoxy-4-propylphenethylamine ou 1-(4-propyl-2,5-dimethoxyphenyl)-2-ethanamine ;
+
+2C-T-4 ou 2,5-dimethoxy-4-isopropylthiophenethylamine ou 2-[4-(isopropylthio)-2,5-dimethoxyphenyl] ethanamine ;
+
+2C-T-21 ou 2,5-dimethoxy-4-fluoroethylthiophenethylamine ou 2-[2,5-dimethoxy-4-(2-fluoroethylthio) phenyl] ethanamine ;
+
+bk-2C-B ou beta-kéto-2C-B ou 2-amino-1-(4-bromo-2,5-dimethoxyphenyl) ethanone ;
+
+Toute molécule dérivée du noyau benzofurane :
+
+- substituée par un groupement alpha éthylamine quelle que soit sa position sur le noyau benzofurane, que la fonction éthylamine soit elle-même substituée ou non sur l'azote par un ou plusieurs groupement alkyl et/ ou substituée ou non en position alpha par un groupement alkyl ;
+
+- substituée ou non par ailleurs par un groupement alkoxy.
+
+Notamment :
+
+5-APB ou 5-(2-aminopropyl) benzofurane ;
+
+6-APB ou 6-(2-aminopropyl) benzofurane ;
+
+5-EAPB ou 5-(2-ethylaminopropyl) benzofurane ou 1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine ;
+
+6-EAPB ou 6-(2-ethylaminopropyl) benzofurane ou 1-(1-benzofuran-6-yl)-N-ethylpropan-2-amine ;
+
+5-MAPB ou 5-(N-methyl-2-aminopropyl) benzofurane ou (1-(benzofuran-5-yl)-N-methylpropan-2-amine) ;
+
+6-MAPB ou 6-(N-methyl-2-aminopropyl) benzofurane ou (1-(benzofuran-6-yl)-N-methylpropan-2-amine) ;
+
+5-MBPB ou 5-MABB ou 1-(1-benzofuran-5-yl)-N-methylbutan-2-amine ;
+
+5-MeO-DiBF ou 5-methoxy-N, N-diisopropylbenzofuranethylamine ou N-[2-(5-methoxy-1-benzofuran-3-yl) ethyl]-N-(propan-2-yl) propan-2-amine.
+
+et
+
+Toute molécule dérivée du noyau 2,3-dihydrobenzofurane :
+
+- substituée par un groupement alpha éthylamine quelle que soit sa position sur le noyau 2,3-dihydrobenzofurane, que la fonction éthylamine soit elle-même substituée ou non sur l'azote par un ou plusieurs groupement alkyl et/ ou substituée ou non en position alpha par un groupement alkyl ;
+
+- substituée ou non par ailleurs par un groupement alkoxy.
+
+Notamment :
+
+5-APDB ou 3-desoxy-MDA ou 5-(2-aminopropyl)-2,3-dihydrobenzofurane ou 1-(2,3-dihydro-1-benzofuran-5-yl) propan-2-amine ;
+
+6-APDB ou 4-desoxy-MDA ou 6-(2-aminopropyl)-2,3-dihydrobenzofurane ou 1-(2,3-dihydro-1-benzofuran-6-yl) propan-2-amine ;
+
+5-MAPDB ou 1-(2,3-dihydrobenzofuran-5-yl)-N-methylpropan-2-amine ou 1-(2,3-dihydrobenzofuran-5-yl)-N-methylpropan-2-amine ;
+
+6-MAPDB ou 1-(2,3-dihydrobenzofuran-6-yl)-N-methylpropan-2-amine ou 1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine.
