@@ -1,0 +1,75 @@
+# Démocratie plus représentative, responsable et efficace
+
+- Procédure : Projet ou proposition de loi constitutionnelle
+- Législature : 15
+- Identifiant : DLR5L15N36615
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/democratie_plus_representative_responsable_efficace
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-05-09 : 1er dépôt d'une initiative. (PRJLANR5L15B0911)
+  - 2018-05-09 : Avis du Conseil d'Etat (AVCEANR5L15B0911)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-09 : Renvoi en commission au fond
+      - 2018-05-23 : Nomination de rapporteur
+      - 2018-05-23 : Réunion de commission
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-26 : Réunion de commission
+      - 2018-06-26 : Réunion de commission
+      - 2018-06-27 : Réunion de commission
+      - 2018-06-27 : Réunion de commission
+      - 2018-06-27 : Réunion de commission
+      - 2018-06-28 : Réunion de commission
+      - 2018-06-29 : Réunion de commission
+      - 2018-06-29 : Réunion de commission
+      - 2018-06-29 : Réunion de commission
+      - 2018-07-02 : Réunion de commission
+      - 2018-07-10 : Réunion de commission
+      - 2018-12-05 : Réunion de commission
+      - 2018-07-04 : Dépôt de rapport (RAPPANR5L15B1137)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-17 : Saisine pour avis d'une commission
+      - 2018-05-23 : Nomination de rapporteur
+      - 2018-06-12 : Réunion de commission
+      - 2018-06-13 : Dépôt de rapport (AVISANR5L15B1053)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-28 : Saisine pour avis d'une commission
+      - 2018-06-06 : Nomination de rapporteur
+      - 2018-06-06 : Réunion de commission
+      - 2018-06-20 : Réunion de commission
+      - 2018-06-20 : Dépôt de rapport (AVISANR5L15B1097)
+    - Travaux d'une commission saisie pour avis
+      - 2018-05-31 : Saisine pour avis d'une commission
+      - 2018-05-31 : Nomination de rapporteur
+      - 2018-05-31 : Réunion de commission
+      - 2018-06-20 : Réunion de commission
+      - 2018-06-20 : Dépôt de rapport (AVISANR5L15B1098)
+  - Discussion en séance publique
+    - 2018-07-10 : Discussion en séance publique
+    - 2018-07-10 : Discussion en séance publique
+    - 2018-07-11 : Discussion en séance publique
+    - 2018-07-11 : Discussion en séance publique
+    - 2018-07-12 : Discussion en séance publique
+    - 2018-07-12 : Discussion en séance publique
+    - 2018-07-12 : Discussion en séance publique
+    - 2018-07-13 : Discussion en séance publique
+    - 2018-07-13 : Discussion en séance publique
+    - 2018-07-16 : Discussion en séance publique
+    - 2018-07-16 : Discussion en séance publique
+    - 2018-07-17 : Discussion en séance publique
+    - 2018-07-17 : Discussion en séance publique
+    - 2018-07-18 : Discussion en séance publique
+    - 2018-07-18 : Discussion en séance publique
+    - 2018-07-19 : Discussion en séance publique
+    - 2018-07-19 : Discussion en séance publique
+    - 2018-07-19 : Discussion en séance publique
+    - 2018-07-20 : Discussion en séance publique
+    - 2018-07-20 : Discussion en séance publique
+    - 2018-07-20 : Discussion en séance publique
+    - 2018-07-21 : Discussion en séance publique
+    - 2018-07-21 : Discussion en séance publique
+    - 2018-07-21 : Discussion en séance publique
+    - 2018-07-22 : Discussion en séance publique
+  - 2019-08-29 : Retrait d'une initiative (PRJLANR5L15B0911)
