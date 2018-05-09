@@ -154,4 +154,44 @@ Cette partie comprend les substances ci-après énumérées ainsi que leurs sels
 
 - zopiclone ;
 
-- butorphanol, à l'exception de ses préparations injectables.
+- butorphanol, à l'exception de ses préparations injectables ;
+
+3-hydroxyphenazepam ou 3-hydroxyfenazepam ou 3-oxyfenazepam ;
+
+4-chlorodiazepam ;
+
+Adinazolam ;
+
+Chlorodiazepam ;
+
+Cinazepam ;
+
+Clonazolam ;
+
+Cloniprazepam ;
+
+Deschloroetizolam ;
+
+Diclazepam ;
+
+Etizolam ;
+
+Flubromazepam ;
+
+Flubromazolam ;
+
+Flunitrazolam ;
+
+Flutazolam ;
+
+Fonazepam ou norflunitrazepam ou (N-) desmethylflunitrazepam ;
+
+Meclonazepam ;
+
+Metizolam ;
+
+Nifoxipam ;
+
+Nitrazolam ;
+
+Pyrazolam ou bromazolam.
