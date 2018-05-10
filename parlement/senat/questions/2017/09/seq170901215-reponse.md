@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901215
+
+- Question : [SEQ170901215](seq170901215.md) — Campagnes à charge contre le vin dans la prévention de consommation d'alcool
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-05-10, page 2256*
+
+Le Gouvernement est sensible à la place particulière du vin dans la culture et l'agriculture française, aux territoires qu'il structure, aux emplois qu'il crée ainsi qu'à sa valeur patrimoniale gastronomique et paysagère. Pour autant, ce rôle de premier plan ne doit pas occulter le fait que la santé publique est un enjeu majeur en France et que l'alcool n'est pas un aliment anodin. La prévention des dommages sanitaires et sociaux est une des priorités du Gouvernement, qui porte ainsi l'objectif de lutter contre les consommations d'alcool excessives ou à risque notamment pour des personnes sensibles comme les femmes enceintes et les mineurs. S'agissant des campagnes de prévention pour lutter contre les usages nocifs d'alcool, le code de la santé publique interdit déjà toute discrimination entre les différents produits alcoolisés. Dans le cadre des travaux interministériels portant sur l'élaboration d'un discours public clair et cohérent, le ministère de l'agriculture et de l'alimentation sera par ailleurs attaché à ce que les propositions s'appuient sur des repères de consommation établis sur la base d'éléments objectifs et rationnels afin d'éviter toute stigmatisation du vin, dont la consommation responsable doit pouvoir rester un plaisir associé au patrimoine gastronomique français. Enfin, le ministère chargé de l'agriculture sera particulièrement attentif à ce que les parties prenantes concernées soient associées en vue d'élaborer des politiques publiques ambitieuses en matière de santé publique et cohérentes avec l'objectif de développement économique des filières agricoles.
