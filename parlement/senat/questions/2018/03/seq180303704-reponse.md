@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303704
+
+- Question : [SEQ180303704](seq180303704.md) — Exécution des jugements condamnant l'État au règlement d'indemnités
+
+## Réponse
+
+*Justice, JO du 2018-05-10, page 2266*
+
+Il n'est pas nécessaire de prévoir un dispositif plus contraignant lorsqu'une juridiction a condamné définitivement l'État à payer à un justiciable une somme d'argent dont le montant est déjà fixé. En effet, dans cette hypothèse, sont applicables les dispositions de l'article L. 911-9 du code de justice administrative, qui reproduisent les dispositions de l'article 1er de la loi n° 80-539 du 16 juillet 1980 relative aux astreintes prononcées en matière administrative et à l'exécution des jugements par les personnes morales de droit public, ainsi que les dispositions de l'article R. 911-1 du même code, qui renvoient aux dispositions du décret n° 2008-479 du 20 mai 2008 relatif à l'exécution des condamnations pécuniaires prononcées à l'encontre des collectivités publiques. Selon ces dispositions, une décision de justice définitive condamnant l'État à payer une somme d'argent dont le montant est déjà fixé, doit être ordonnancée dans un délai de deux mois à compter de sa notification ou dans un délai de quatre mois, lorsque cette somme est imputable à des crédits limitatifs. À défaut de paiement à l'expiration de ces délais, le créancier peut saisir le comptable de la dépense aux fins de paiement de sa créance. Ce dernier est tenu de procéder au paiement de ce montant dans le délai d'un mois à compter de sa saisine, s'il est assignataire de la dépense. S'il n'est pas assignataire de cette dépense, il transmet le dossier au comptable compétent qui dispose d'un mois à compter de sa saisine pour procéder au paiement de la créance. La mise en œuvre de ces dispositions ne nécessite pas l'ouverture d'une procédure juridictionnelle d'exécution complémentaire aux fins d'exécution de cette décision de justice.
