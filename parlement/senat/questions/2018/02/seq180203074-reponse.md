@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203074
+
+- Question : [SEQ180203074](seq180203074.md) — Défaut d'entretien de collecteurs d'eau entraînant des dommages dans les exploitations agricoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-05-10, page 2257*
+
+Les règles applicables aux collecteurs destinés à l'évacuation des eaux de drainage et pluviales ainsi que leur entretien relèvent de la loi sur l'eau. Les drains, comme les fossés, dans la mesure où ce sont des ouvrages artificiels, ne sont pas des cours d'eau. Les obligations prévues à l'article L. 215-14 du code de l'environnement, selon lequel le propriétaire riverain est tenu à un entretien régulier du cours d'eau dans des conditions limitées pour ne pas porter atteinte aux écosystèmes inféodés, ne s'appliquent donc pas. Toutefois, la réalisation d'un réseau de drainage peut être, dans certains cas, soumise à la nomenclature relative à la loi sur l'eau. Dans ce cas, l'autorisation ou le récépissé de déclaration peut prévoir des règles particulières d'entretien pour prévenir les impacts sur le milieu aquatique des ouvrages de drainage concernés. Aucune règle particulière ne prévoit l'interdiction par principe de l'entretien des drainages. Seul l'entretien des ouvrages de drainage ayant un impact significatif sur l'environnement peut être encadré s'il y a lieu. Si les drainages ont été déclarés ou autorisés au titre de la loi sur l'eau, leur entretien est de la responsabilité du bénéficiaire. Ils sont encadrés, le cas échéant, par les prescriptions accompagnant le récépissé de déclaration ou par l'arrêté préfectoral d'autorisation. Suivant les conséquences de cet entretien sur le milieu aquatique, notamment en termes d'atteinte aux zones humides, de rejets ou de protection des frayères, un porter à connaissance devra être fait auprès du service de l'eau qui pourra ainsi juger si les travaux nécessitent un encadrement au titre de la police de l'eau.
