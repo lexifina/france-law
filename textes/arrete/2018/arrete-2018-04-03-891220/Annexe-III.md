@@ -1,0 +1,5 @@
+# Article Annexe III
+
+Règlement d'examen
+
+Vous pouvez consulter l'intégralité du texte avec ses images à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000036888217.
