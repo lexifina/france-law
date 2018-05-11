@@ -22,11 +22,11 @@ Cabinet |
 
 Astreinte (chauffeur). |
 
-1 astreinte de semaine
+1 astreinte de semaine.
 
-1 astreinte de fin semaine
+1 astreinte de fin semaine.
 
-1 astreinte de jour férié isolé |
+1 astreinte de jour férié isolé. |
 
 Secrétariat général |
 
@@ -40,7 +40,9 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
-Service des systèmes d'information
+Service des systèmes
+
+d'information
 
 et de la modernisation (SSIM) |
 
@@ -48,7 +50,9 @@ Astreinte opérationnelle et technique. |
 
 5 astreintes de semaine. |
 
-Service national d'ingénierie aéroportuaire (SNIA) |
+Service national
+
+d'ingénierie aéroportuaire (SNIA) |
 
 Astreinte de maintenance. |
 
@@ -62,25 +66,23 @@ Astreinte de suivi de travaux. |
 
 Astreinte d'exploitation viabilité hivernale. |
 
-2 astreintes de semaine
+2 astreintes de semaine (entre le 15/11 et le 31/03). |
 
-(entre le 15/11 et le 31/03). |
+Ecole Nationale
 
-Ecole nationale
-
-de l'aviation civile |
+de l'Aviation Civile |
 
 |
 
 |
 
-Direction de la formation au pilotage et des vols :
-
-Bureau des opérations centralisées (site de Toulouse) |
+Direction de la formation au pilotage et des vols : |
 
 Astreinte opérationnelle et technique. |
 
 1 astreinte de fin de semaine et jours fériés. |
+
+Bureau des opérations centralisées (site de Toulouse) |
 
 Centre de Melun |
 
@@ -94,11 +96,13 @@ pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
-1 astreinte de semaine
+1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-et 2 astreintes de fin de semaine |
+Direction des opérations
 
-Direction des opérations de la direction des services de la navigation aérienne |
+de la direction des services
+
+de la navigation aérienne |
 
 |
 
@@ -426,7 +430,9 @@ Astreinte technique de centrale énergie. |
 
 1 astreinte de semaine. |
 
-Direction de la sécurité de l'aviation civile |
+Direction de la sécurité
+
+de l'aviation civile |
 
 |
 
@@ -478,9 +484,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an. |
 
 DSAC (Bordeaux) |
 
@@ -488,19 +492,21 @@ Astreinte de direction |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Bordeaux) |
+Région Nouvelle-Aquitaine (Bordeaux) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Pau) |
+Région Nouvelle-Aquitaine (Pau) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Poitiers) |
+Région Nouvelle-Aquitaine (Poitiers)
+
+|
 
 Astreinte enquêtes-accidents. |
 
@@ -516,9 +522,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an. |
 
 DSAC |
 
@@ -554,9 +558,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an. |
 
 DSAC (Brest et Rennes) |
 
@@ -576,7 +578,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val de Loire (Tours) |
+Région Centre-Val-de-Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
@@ -598,9 +600,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an |
+1 astreinte de semaine dans la limite de 26 semaines par an |
 
 DSAC (Strasbourg) |
 
@@ -610,9 +610,7 @@ Astreinte de direction. |
 
 Région Bourgogne-Franche-Comté (Dijon) |
 
-Astreinte enquêtes-accidents
-
-(Bourgogne-Franche-Comté) |
+Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
@@ -638,9 +636,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an. |
 
 DSAC (Lyon) |
 
@@ -670,9 +666,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-2 astreintes de semaine dans la limite,
-
-pour chaque astreinte, de 36 semaines par an. |
+2 astreintes de semaine dans la limite, pour chaque astreinte, de 36 semaines par an. |
 
 DSAC (Aix-en-Provence) |
 
@@ -692,7 +686,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Collectivité de Corse (Corse) |
+Collectivité territoriale Corse (Corse) |
 
 Astreinte enquêtes-accidents. |
 
@@ -708,9 +702,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 26 semaines par an. |
+1 astreinte de semaine dans la limite de 26 semaines par an. |
 
 DSAC (Fort-de-France) |
 
@@ -746,9 +738,7 @@ DSAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 18 semaines par an. |
+1 astreinte de semaine dans la limite de 18 semaines par an. |
 
 DSAC (Saint-Denis) |
 
@@ -784,9 +774,7 @@ SEAC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 18 semaines par an. |
+1 astreinte de semaine dans la limite de 18 semaines par an. |
 
 Tahiti-Faaa |
 
@@ -812,25 +800,25 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte "Direction de l'aviation civile
+Service mixte Direction
 
-en Nouvelle-Calédonie" |
+de l'aviation civile
+
+en Nouvelle-Calédonie |
 
 |
 
 |
 
-Service mixte "DAC/ NC" |
+Service mixte DAC/ NC |
 
 Astreinte de contrôle technique d'exploitation. |
 
-1 astreinte de semaine dans la limite
-
-de 18 semaines par an. |
+1 astreinte de semaine dans la limite de 18 semaines par an. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte "DAC/ NC"). |
+Astreinte de direction (Service mixte DAC/ NC ). |
 
 1 astreinte de semaine. |
 
@@ -848,11 +836,17 @@ Astreinte opérationnelle. |
 
 Nouméa |
 
-Astreinte technique de centrale énergie |
+Astreinte technique de centrale énergie. |
 
 1 astreinte de semaine. |
 
-SEAC des îles Wallis et Futuna |
+Nouméa-La Tontouta |
+
+Astreinte technique de maintenance. |
+
+1 astreinte de semaine. |
+
+SEAC des îles Wallis-et-Futuna |
 
 |
 
@@ -864,4 +858,4 @@ Astreinte de contrôle technique d'exploitation. |
 
 1 astreinte de semaine. |
 
-(1) Une astreinte de semaine couvre une période de 7 jours sur 7. |
+(1) Une astreinte de semaine couvre une période de 7 jours sur 7.
