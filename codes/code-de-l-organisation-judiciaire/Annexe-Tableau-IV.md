@@ -2124,7 +2124,7 @@ Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Avion, Bapaume, Beaumetz-lès-Loge
 
 |
 
-Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Aubigny-en-Artois, Auxi-le-Château, Avesnes-le-Comte, Avion, Bapaume, Beaumetz-lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq , Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise, Vimy et Vitry-en-Artois. (4)]
+Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Aubigny-en-Artois, Auxi-le-Château, Avesnes-le-Comte, Avion, Bapaume, Beaumetz-lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq, Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise, Vimy et Vitry-en-Artois. (4)]
 
 |
 
@@ -3608,165 +3608,9 @@ Paris
 
 |
 
-Paris 1er arrondissement
+Paris |
 
-|
-
-Canton de Paris 1er canton.
-
-|
-
-Paris 2e arrondissement
-
-|
-
-Canton de Paris 2e canton.
-
-|
-
-Paris 3e arrondissement
-
-|
-
-Canton de Paris 3e canton.
-
-|
-
-Paris 4e arrondissement
-
-|
-
-Canton de Paris 4e canton.
-
-|
-
-Paris 5e arrondissement
-
-|
-
-Canton de Paris 5e canton.
-
-|
-
-Paris 6e arrondissement
-
-|
-
-Canton de Paris 6e canton.
-
-|
-
-Paris 7e arrondissement
-
-|
-
-Canton de Paris 7e canton.
-
-|
-
-Paris 8e arrondissement
-
-|
-
-Canton de Paris 8e canton.
-
-|
-
-Paris 9e arrondissement
-
-|
-
-Canton de Paris 9e canton.
-
-|
-
-Paris 10e arrondissement
-
-|
-
-Canton de Paris 10e canton.
-
-|
-
-Paris 11e arrondissement
-
-|
-
-Canton de Paris 11e canton.
-
-|
-
-Paris 12e arrondissement
-
-|
-
-Canton de Paris 12e canton.
-
-|
-
-Paris 13e arrondissement
-
-|
-
-Canton de Paris 13e canton.
-
-|
-
-Paris 14'arrondissement
-
-|
-
-Canton de Paris 14e canton.
-
-|
-
-Paris 15e arrondissement
-
-|
-
-Canton de Paris 15e canton.
-
-|
-
-Paris 16e arrondissement
-
-|
-
-Canton de Paris 16e canton.
-
-|
-
-Paris 17e arrondissement
-
-|
-
-Canton de Paris 17e canton.
-
-|
-
-Paris 18e arrondissement
-
-|
-
-Canton de Paris 18e canton.
-
-|
-
-Paris 19e arrondissement
-
-|
-
-Canton de Paris 19e canton.
-
-|
-
-Paris 20e arrondissement
-
-|
-
-Canton de Paris 20e canton.
-
-|
+Ville de Paris |
 
 Seine-et-Marne
 
@@ -3932,11 +3776,11 @@ Cantons de Pierrefitte-sur-Seine, Saint-Denis-Nord-Est, Saint-Denis Nord-Ouest e
 
 |
 
-Saint-Ouen
+Saint-Ouen*
 
 |
 
-Cantons d'Épinay-sur-Seine, Saint-Denis-Sud (uniquement la fraction de la commune de Saint-Ouen et la commune de L'Ile-Saint-Denis) et Saint-Ouen.
+Cantons d'Épinay-sur-Seine, Saint-Denis-Sud (uniquement la fraction de la commune de Saint-Ouen* et la commune de L'Ile-Saint-Denis) et Saint-Ouen.
 
 |
 
@@ -4264,13 +4108,17 @@ Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarrie, La Rochelle 1er canton, La Ro
 
 |
 
-Rochefort
+[Rochefort (6)]
 
 |
 
-Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise.
+Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
 
 |
+
+Rochefort |
+
+Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise |
 
 [Rochefort (5)]
 
@@ -4312,13 +4160,17 @@ Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et
 
 |
 
-Jonzac
+[Jonzac
 
 |
 
-Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge.
+Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge. (4)]
 
 |
+
+Jonzac |
+
+Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge. |
 
 [Saintes
 
@@ -4328,11 +4180,11 @@ Cantons de Burie, Cozes, Gémozac, Pons, Royan-Est, Royan-Ouest, Saintes-Est, Sa
 
 |
 
-Saintes
+[Saintes
 
 |
 
-Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la fraction de commune de La Devise).
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)]
 
 |
 
@@ -4343,6 +4195,10 @@ Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hil
 Cantons d'Aulnay, Loulay, Matha, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien et Tonnay-Boutonne. (3)]
 
 |
+
+Saintes |
+
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la fraction de commune de La Devise). |
 
 Deux-Sèvres
 
@@ -5854,6 +5710,50 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 |
 
+Cour d'appel de Basse-Terre
+
+|
+
+Basse-Terre
+
+|
+
+Basse-Terre
+
+|
+
+Cantons de Basse-Terre 1er canton, Basse-Terre 2e canton, Bouillante, Capesterre-Belle-Eau 1er canton, Capesterre-Belle-Eau 2e canton, Gourbeyre, Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire, Saint-Claude, Sainte-Rose 1er canton, Sainte-Rose 2e canton (uniquement la commune de Deshaies), Trois-Rivières et Vieux-Habitants.
+
+|
+
+Saint-Martin
+
+|
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.
+
+|
+
+Dont une chambre détachée à Saint-Martin
+
+|
+
+|
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.
+
+|
+
+|
+
+Pointe-à-Pitre
+
+|
+
+Cantons d'Anse-Bertrand, Baie-Mahault, Capesterre-de-Marie-Galante, Grand-Bourg, Goyave (uniquement la fraction de la commune de Petit-Bourg), La Désirade, Lamentin, Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton, Les Abymes 1er canton, Les Abymes 2e canton, Les Abymes 3e canton, Les Abymes 4e canton, Les Abymes 5e canton, Morne-à-l'Eau 1er canton, Morne-à-l'Eau 2e canton, Petit-Bourg, Petit-Canal, Pointe-à-Pitre 1er canton, Pointe-à-Pitre 2e canton, Pointe-à-Pitre 3e canton, Sainte-Anne 1er canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de la commune de Sainte-Rose), Saint-François et Saint-Louis.
+
+|
+
 (2) applicable à compter du 1er janvier 2009.
 
 (3) applicable jusqu'au 31 décembre 2009.
@@ -5882,10 +5782,8 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 (15) Applicable jusqu'au 30 juin 2010.
 
-(16) Applicable à compter du 1er juillet 2010.
-
-(17) Applicable jusqu'au 5 septembre 2010.
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de Saint-Ouen est désormais dénommée Saint-Ouen-sur-Seine.
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2016-1633 du 29 novembre 2016 et à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, ces dispositions sont applicables aux instances introduites après le 1er janvier 2017.
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
