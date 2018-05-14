@@ -1,0 +1,51 @@
+# Utilisation du téléphone portable dans les écoles et collèges
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36622
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/interdiction_usage_telephone_portable_ecoles_colleges
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl17-558.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-05-14 : 1er dépôt d'une initiative. (PIONANR5L15B0941)
+  - 2018-05-15 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-05-14 : Renvoi en commission au fond
+      - 2018-05-16 : Nomination de rapporteur
+      - 2018-05-16 : Réunion de commission
+      - 2018-05-29 : Réunion de commission
+      - 2018-06-07 : Réunion de commission
+      - 2018-05-29 : Dépôt de rapport (RAPPANR5L15B0989, PIONANR5L15BTC0989)
+  - Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-06-07 : Discussion en séance publique
+    - 2018-06-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-06-07 : Dépôt d'une initiative en navette (PIONSNR5S299B0558)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-07-04 : Dépôt de rapport (RAPPSNR5S299B0624, PIONSNR5S299BTC0625)
+  - Discussion en séance publique
+    - 2018-07-16 : Discussion en séance publique
+    - 2018-07-16 : Décision
+- Commission Mixte Paritaire
+  - 2018-07-17 : Dépôt d'un projet de loi (PIONANR5L15B1170)
+  - 2018-07-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-07-18 : Nomination de rapporteur
+    - 2018-07-18 : Dépôt du rapport d'une CMP (RAPPANR5L15B1176, PIONANR5L15BTC1176)
+    - 2018-07-18 : Dépôt du rapport d'une CMP (RAPPSNR5S299B0680, PIONSNR5S299BTC0681)
+  - Discussion en séance publique
+    - 2018-07-26 : Discussion en séance publique
+    - 2018-07-26 : Décision
+  - Discussion en séance publique
+    - 2018-07-30 : Discussion en séance publique
+    - 2018-07-30 : Décision
+  - 2018-07-19 : Décision de la CMP
+- Promulgation de la loi
+  - 2018-08-03 : Promulgation d'une loi
