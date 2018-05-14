@@ -1,4 +1,4 @@
-# Article Annexe Tableau IX-1
+# Article Annexe Tableau IX-I
 
 Siège et ressort des tribunaux d'instance compétents, dans le ressort de certains tribunaux de grande instance, pour connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement personnel (annexe de l'article D. 221-1)
 
@@ -104,22 +104,6 @@ Cour d'appel de Paris
 
 |
 
-Paris
-
-|
-
-Paris
-
-|
-
-Paris 19e arrondissement
-
-|
-
-Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris 14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement, Paris 19e arrondissement et Paris 20e arrondissement
-
-|
-
 Seine-Saint-Denis
 
 |
@@ -132,7 +116,7 @@ Bobigny
 
 |
 
-Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et Saint-Ouen
+Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et Saint-Ouen*
 
 |
 
@@ -259,3 +243,9 @@ Versailles
 Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Versailles
 
 |
+
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de Saint-Ouen est désormais dénommée Saint-Ouen-sur-Seine.
+
+NOTA :
+
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
