@@ -954,13 +954,11 @@ Palaiseau |
 
 Tribunal d'instance |
 
-Paris
-
-|
+Paris |
 
 Paris |
 
-Tribunal de grande instance
+Tribunal de grande instance, tribunal d'instance
 
 |
 
