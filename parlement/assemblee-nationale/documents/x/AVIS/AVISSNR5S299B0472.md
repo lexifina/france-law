@@ -1,0 +1,10 @@
+# avis  sur le projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, relatif à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (n°383).
+
+- Type : Avis
+- Dénomination : Avis
+- Provenance : Commission
+- Titre court : avis  sur le projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, relatif à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (n°383).
+- Déposé le : 2018-05-15
+- Dossier : DLR5L15N36362
+- Auteurs : M. Philippe Bonnecarrère (rapporteur pour avis), Commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale
+- Identifiant : AVISSNR5S299B0472
