@@ -1,0 +1,177 @@
+# INSTRUCTION N° 43/DEF/DPMAA/1/GO relative à la qualification des officiers au cycle « entraînement physique et sports ».
+
+- État : abrogée (au 2018-05-15)
+- NOR : BODEF31791
+- Numéro : BODEF31791
+- Date de signature : 1985-01-11
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation :Le général de corps aérien, directeur du personnel militaire de l'armée de l'air,J. BONNET.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  Le général de corps aérien, directeur du personnel militaire de l'armée de l'air,  Le général de corps aérien, directeur du personnel militaire de l'armée de l'air,  Le général de corps aérien, directeur du personnel militaire de l'armée de l'air,   J. BONNET.  J. BONNET.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Administration et comptabilité intérieures des formations, unités, corps de troupe. Enseignement militaire : instruction, écoles, cours et stages, brevets et certificats.Instruction générale dans les armées. Ecoles militaires.École d'officiers. Enseignement supérieur.CINQUIÈME PARTIE. ENSEIGNEMENT MILITAIRE SUPÉRIEURPartie
+- Publication JO / BO : BOC, p. 237.
+- Annexes : 2
+- Identifiant : 17123 (PDF officiel : pdf/2009/04/cir_17123.pdf)
+
+## Résumé
+
+Les attributions du commandant du CEERAT en matière de notation et d'avancement sont précisées par des textes annuels.Les attributions du commandant du CEERAT en matière de discipline sont précisées par des textes édités sous timbre cabinet du CEMAT.  Les attributions du commandant du CEERAT en matière de notation et d'avancement sont précisées par des textes annuels.  Les attributions du commandant du CEERAT en matière de notation et d'avancement sont précisées par des textes annuels.  Les attributions du commandant du CEERAT en matière de discipline sont précisées par des textes édités sous timbre cabinet du CEMAT.  Les attributions du commandant du CEERAT en matière de discipline sont précisées par des textes édités sous timbre cabinet du CEMAT.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de l'air
+INSTRUCTION N° 43/DEF/DPMAA/1/GO
+relative à la qualification des officiers au cycle « entraînement physique et sports ».
+Du 11 janvier 1985
+
+DIRECTION DU PERSONNEL MILITAIRE DE L'ARMÉE DE L'AIR : 1er Bureau.
+INSTRUCTION N° 43/DEF/DPMAA/1/GO relative à la qualification des officiers au cycle «
+entraînement physique et sports ».
+Du 11 janvier 1985
+Référence :
+Instruction n° 3650/DPMAA/1/M du 1er septembre 1977abrogée le 19 décembre 1991, BOC,
+1992, p 97 (BOC, p. 3445).
+Pièce(s) Jointe(s) :
+Deux annexes.
+Classement dans l'édition méthodique : BOEM 768.5.4.
+Référence de publication : BOC, p. 237.
+1. GÉNÉRALITÉS.
+ 1.1. L'instruction citée en référence définit l'organisation générale de l'enseignement militaire supérieur
+dans l'armée de l'air et ses finalités.
+ 1.2. La présente instruction fixe le déroulement des études et les modalités d'attribution du :
+- certificat technique « entraînement physique et sports » (CT, EPS) ;
+- diplôme technique de spécialité « entraînement physique et sports » (D.T./S., EPS).
+ 1.3. Les titulaires du diplôme technique de spécialité EPS prennent rang pour l'attribution de la prime de
+qualification définie par le décret 54-539 du 26 mai 1954 (BO/A, p. 835 ).
+2. CERTIFICAT TECHNIQUE « ENTRAÎNEMENT PHYSIQUE ET SPORTS » (C.T./E.P.S.).
+ 2.1. Conditions d'admission.
+Etre du grade de lieutenant minimum.
+Exercer la fonction d'officier des sports depuis un an minimum (1).
+Etre titulaire :
+- soit du cadre de maîtrise « maître moniteur EPS » de l'armée de l'air ;
+- soit du brevet de « moniteur chef EPS » de l'armée de l'air et avoir réussi à l'examen probatoire
+d'admission précédé d'un cours par correspondance de six mois ; cet examen sera organisé par l'école
+interarmées des sports, ses modalités sont données en annexe 1.
+ 2.2. Déroulement et contrôle de l'enseignement.
+Le cycle d'instruction comprend :
+
+- un stage de recyclage (15 jours) ;
+- un stage d'entraînement physique au combat (15 jours).
+Les candidats doivent au cours de l'année de formation obtenir 4 unités de valeur dont le détail est donné en
+annexe 2.
+3. DIPLÔME TECHNIQUE DE SPÉCIALITÉ « ENTRAÎNMENT PHYSIQUE ET SPORTS » (D.T./S.,
+E.P.S.).
+ 3.1. Conditions d'admission.
+Avoir trois ans de grade de lieutenant au cours de l'année de formation.
+Exercer depuis un an minimum (1) la fonction d'officiers des sports.
+Etre titulaire :
+- soit du C.T./E.P.S. depuis un an minimum (1) ;
+- soit du DEUG en sciences et techniques des activités physiques et sportives (STAPS) ;
+- soit pouvoir justifier de deux années d'études en sciences et techniques des activités physiques et
+sportives et avoir réussi à l'examen probatoire d'admission organisé dans les mêmes conditions que
+l'examen du C.T./E.P.S. (annexe 1).
+ 3.2. Déroulement et contrôle de l'instruction.
+Le cycle d'instruction comprend :
+- un stage d'information (8 jours) pour les titulaires du C.T./E.P.S. ;
+- les deux stages prévus au C.T./E.P.S. pour les autres candidats.
+Tous les candidats doivent présenter en fin de cycle d'instruction un mémoire (50 pages) dont le sujet est
+arrêté par le commissariat aux sports militaires (CSM). La note minimale de 10 sur 20 est exigée.
+4. DISPOSITIONS COMMNUNES AU C.T./E.P.S. ET AU D.T./S., E.P.S.
+ 4.1. La liste des officiers remplissant les conditions est diffusée par l'E.M.A.A./3e bureau le 1er septembre
+de chaque année.
+ 4.2. Dossiers de candidatures.
+Les officiers désignés volontaires pour suivre cet enseignement doivent adresser à la DPMAA pour le
+1er février un dossier de candidature comprenant :
+- une demande manuscrite comportant les avis hiérarchiques ;
+- une fiche médico-physiologique mentionnant l'aptitude à la pratique des sports ;
+- la photocopie des titres « EPS » exigés ;
+- la photocopie des diplômes de connaissances générales détenus.
+Ces dossiers seront transmis ensuite au CSM pour le 1er mars.
+
+ 4.3. Admissions.
+L'admission aux cours est prononcée par la DPMAA en fonction des directives de l'EMAA et du CSM en
+particulier sur le résultat au concours d'admission et les dates des stages prévus au cycle d'instruction.
+Les officiers retenus sont maintenus dans leur affectation et sont détachés pendant la durée des stages.
+ 4.4. Déroulement et sanction de l'enseignement.
+Après admission, le cycle d'instruction se déroule sur une année (1er août au 31 juillet) à l'école interarmées
+des sports (EIS) de Fontainebleau.
+Les résultats obtenus au cours de ce cycle sont suivis et enregistrés par le CSM qui transmet le résultat final à
+la DPMAA.
+ 4.5. Modalités d'attribution du C.T./E.P.S. et du D.T./S., E.P.S.
+Le certificat technique est attribué par le CSM aux officiers ayant obtenu des résultats satisfaisants au cours du
+cycle de formation.
+Le diplôme technique de spécialité EPS est attribué sur proposition du CSM par le ministre de la défense
+(DPMAA) en fonction des résultats obtenus au cours de la formation.
+Pour le ministre de la défense et par délégation :
+Le général de corps aérien, directeur du personnel militaire de l'armée de l'air,
+J. BONNET.
+(1) Au 1er août de l'année de formation.
+
+ANNEXE 1.
+EXAMEN D'ADMISSION PROBATOIRE.
+La liste des officiers diffusée par l'EMAA/3e bureau les 1er septembre de chaque année (§ 4.1) mentionnera
+les candidats devant subir cet examen et servira de demande d'inscription auprès de l'EIS de Fontainebleau.
+1. COURS PAR CORRESPONDANCE.
+Les officiers astreints à subir l'examen d'admission probatoire doivent suivre une formation préparatoire
+dispensée par correspondance par l'EIS de Fontainebleau du 1er octobre au 31 mars.
+Ces cours feront l'objet de devoirs mensuels que les candidats sont tenus d'effectuer et d'envoyer à l'EIS.
+2. EXAMEN PROBATOIRE.
+Cet examen se déroule à l'EIS de Fontainebleau en avril ou mai de chaque année et comprend les épreuves
+suivantes :
+Officiers non-bacheliers :
+- une dissertation française, durée 3 heures (coeff. 1) ;
+- un résumé de texte, durée 2 heures (coeff. 2).
+Officiers non-bacheliers et officiers bacheliers :
+a). Epreuves théoriques (coeff. 8) :
+- sciences biologiques, durée 2 heures (coeff. 3) ;
+- règlement des sports collectifs, durée 1 heure (coeff. 2) ;
+- connaissances générales de l'EPS, durée 3 heures.
+b). Epreuves physiques (coeff. 8) :
+- cross de 4 kilomètres (coeff. 2) ;
+- triathlon athlétique (1 course, 1 saut, 1 lancer au choix) (coeff. 3) ;
+- grimper (5 m mesurés du sol, bras seuls, chronométré) (coeff. 1) ;
+- natation, 100 m (style au choix) (coeff. 2).
+Les barèmes des épreuves physiques sont précisés dans l'instruction relative à l'information, la formation et le
+perfectionnement des spécialistes de l'entraînement physique et sportif à l'école interarmées des sports.
+
+ANNEXE 2.
+PROGRAMME DES COURS « ENTRAÎNMENT PHYSIQUE ET SPORTS ».
+1. CERTIFICAT TECHNIQUE EPS
+4 unités de valeurs (UV) exigées :
+U.V. 1.
+Connaissances générales en EPS : stage de recyclage de 15 jours à l'EIS de Fontainebleau (stage information
+des officiers des sports ou stage de recyclage des cadres de maîtrise de l'armée de l'air).
+U.V. 2.
+Entraînement physique au combat : stage de 15 jours à l'EIS de Fontainebleau pour obtenir une qualification
+technique et pédagogique :
+- dans 2 sports de combat (boxe ou karaté, lutte ou judo) ;
+- en combat corps à corps ;
+- en parcours d'obstacles ;
+- en lancer de grenades.
+UV 3.
+Qualification en sauvetage aquatique. Posséder :
+- Brevet d'état de maître nageur sauveteur (MNS).
+ou
+- Brevet national de sécurité et de sauvetage aquatique (BNSSA).
+ou
+- Brevet national de secourisme mention sauvetage aquatique.
+ou
+- Brevet de surveillant de baignade + brevet national de secourisme mention réanimation.
+UV 4.
+Présentation d'un mémoire de méthodologie (30 pages) dont le sujet est arrêté par l'EIS avec le candidat. La
+note de 10 sur 20 est exigée.
+2. DIPLÔME TECHNIQUE DE SPÉCIALITÉ EPS.
+Officiers titulaires du CT EPS.
+Stage de recyclage (8 jours) à l'EIS de Fontainebleau (stage d'information des officiers des sports des régions).
+Les autres officiers candidats au DT/S, EPS doivent présenter les UV 1, 2 et 3 du CT/EPS.
+
+Tous les candidats doivent rédiger un mémoire dont le sujet est arrêté par le CSM parmi trois sujets proposés
+par le candidat sur les thèmes suivants :
+- conduite d'une étude :
+- méthodologique ;
+- technique ;
+- médico-physiologique ;
+- rédaction d'une notice technique.
