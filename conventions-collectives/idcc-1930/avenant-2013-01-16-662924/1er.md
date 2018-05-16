@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent avenant entrera en vigueur le premier jour du mois civil suivant la date de publication de son arrêté d'extension au Journal officiel.
