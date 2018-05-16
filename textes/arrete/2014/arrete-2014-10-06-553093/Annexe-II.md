@@ -8,7 +8,31 @@ I. - Dispositions communes à toutes les filières :
 
 - offrir le service public d'enregistrement et de contrôle des performances des ruminants à tous les éleveurs de la zone dans laquelle il a été agréé qui en font la demande sans exception. En particulier, les opérateurs constitués sous une forme coopérative, associative ou syndicale s'engagent à fournir le service aux éleveurs non adhérents de la structure, dans le respect de l'article L. 522-5 du code rural et de la pêche maritime ;
 
-- proposer au moins un service de contrôle des performances par protocole de contrôle des performances. Les protocoles de contrôle des performances sont définis, pour chaque filière de production, dans les versions actualisées des référentiels de contrôle des performances publiées au Bulletin officiel du ministère chargé de l'agriculture et consultable à l'adresse suivante : https://info.agriculture.gouv.fr/gedei/site/bo-agri/historique ;
+- proposer au moins un service de contrôle des performances par protocole de contrôle des performances. Les protocoles de contrôle des performances sont définis dans les référentiels de contrôle des performances publiés au Bulletin officiel du ministère chargé de l'agriculture et consultables aux adresses suivantes :
+
+- filière “ production de lait de vache ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-c6208398-56df-443e-ac61-971440c21cd1
+
+;
+
+- filière “ production de lait de chèvre ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-19abb492-e57d-464c-83c7-cbffa028d929
+
+;
+
+- filière “ production de lait de brebis ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-e987f3f3-f55e-4e0b-b142-2a302b629a1c
+
+;
+
+- filière “ production de viande bovine ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-f82109a8-a076-4492-a3cb-38a54cbc2ee4
+
+;
+
+- filière “ production de viande ovine ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-df6a3c81-a2e5-4f17-ae3c-f01b28331ae1
+
+;
+
+- filière “ production de viande caprine ” : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-27d700cd-a01d-4ff9-b381-0c7a91676fb9
+
+;
 
 - le cas échéant, modifier les tarifs en cours d'agrément conformément aux dispositions de l'article R.653-68 du code rural et de la pêche maritime. l'augmentation des tarifs des opérateurs agréés est plafonnée par la variation calculée en pourcentage du salaire minimum interprofessionnel de croissance (SMIC) telle que fixée l'année précédente par l'Institut national de la statistique et des études économiques (INSEE), majorée de deux points ;
 
