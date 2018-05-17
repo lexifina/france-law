@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901406
+
+- Question : [SEQ170901406](seq170901406.md) — Location meublée professionnelle et non-résidence fiscale
+
+## Réponse
+
+*Économie et finances, JO du 2018-05-17, page 2356*
+
+Conformément aux dispositions du IV de l'article 155 du code général des impôts actuellement en vigueur, l'activité de location directe ou indirecte de locaux d'habitation destinés à être loués meublés est exercée à titre professionnel lorsque deux conditions sont cumulativement remplies : les recettes annuelles retirées de cette activité par l'ensemble des membres du foyer fiscal excèdent 23 000 € et ces recettes excèdent les autres revenus d'activité du foyer fiscal. À cet égard, les autres revenus d'activité s'entendent de ceux soumis à l'impôt sur le revenu dans la catégorie des traitements et salaires, des bénéfices industriels et commerciaux autres que ceux tirés de l'activité de location meublée, des bénéfices agricoles, des bénéfices non commerciaux et des revenus des gérants et associés. La doctrine administrative publiée précise les modalités d'appréciation de cette dernière condition (§ 165 du BOI-BIC-CHAMP-40-10 consultable sur le site : bofip.impots.gouv.fr). Ainsi, la prépondérance des recettes s'apprécie en tenant compte de l'ensemble des revenus des contribuables et, plus largement, du foyer fiscal sous réserve que ces revenus soient imposables en France en application de la législation française et, le cas échéant, des conventions fiscales internationales. Il s'ensuit que seuls les revenus imposables en France perçus par les non-résidents sont retenus pour l'appréciation de la condition tenant à la prépondérance des recettes tirées de l'activité de location meublée. Les revenus imposables uniquement à l'étranger qu'ils perçoivent par ailleurs ne sont pas retenus.
