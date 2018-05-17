@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303737
+
+- Question : [SEQ180303737](seq180303737.md) — Difficultés relatives au transfert du droit de préemption commercial
+
+## Réponse
+
+*Intérieur, JO du 2018-05-17, page 2385*
+
+Les articles L. 214-1 et suivants du code de l'urbanisme définissent et encadrent le droit de préemption des communes sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial. Ce droit de préemption appartient à la commune, laquelle doit préalablement définir, par délibération motivée, un périmètre de sauvegarde du commerce et de l'artisanat de proximité, à l'intérieur duquel le droit de préemption peut s'exercer. L'article L. 214-1-1 du même code permet à la commune, lorsqu'elle fait partie d'un établissement public de coopération intercommunale y ayant vocation, de déléguer à cet établissement, avec son accord, tout ou partie des compétences attribuées à la commune par les articles L. 214-1 et suivants. Cette modification a été apportée par l'article 17 de la loi n° 2014-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises. Le choix effectué par le Gouvernement est pragmatique : la délégation n'est ni trop large, ni trop restrictive, tout en étant très souple et en offrant une gamme étendue de possibilités pour la commune. Elle est par ailleurs analogue à celle permise dans le cas du droit de préemption urbain, ce qui contribue à en faciliter l'appropriation par les élus. Le Gouvernement n'envisage pas à ce stade de remettre en cause ces dispositions et de prévoir un transfert automatique de la délimitation du périmètre de sauvegarde du commerce et de l'artisanat de proximité, ainsi que du droit de préemption afférent, aux établissements publics de coopération intercommunale y ayant vocation.
