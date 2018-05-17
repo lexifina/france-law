@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203344
+
+- Question : [SEQ180203344](seq180203344.md) — Recours au congé maternité par les exploitantes agricoles
+
+## Réponse
+
+*Égalité femmes hommes, JO du 2018-05-17, page 2366*
+
+Les agricultrices sont très attachées à l'offre de remplacement existante mais également à son amélioration. Aussi, les femmes doivent davantage être informées sur leurs droits, quel que soit le territoire où elles demeurent et travaillent. Le service Droits des femmes de la DGCS envisage de publier à nouveau, avec les partenaires de l'Agriculture et de la MSA, un guide sur le modèle « femmes agricultrices, vos droits » paru en 2014, avec les agricultrices elles-mêmes afin de les informer de leurs droits et notamment ceux relatifs au congé maternité. Cette communication sur les droits des agricultrices attendra les conclusions de la mission confiée par le Gouvernement en janvier 2018 à Marie-Pierre Rixain, Présidente de la Délégation aux droits des femmes de l'Assemblée Nationale, afin de réaliser un état des lieux et des propositions sur l'harmonisation de la durée et de la rémunération des congés maternité entre toutes les professions, au premier rang desquelles les agricultrices. Ces travaux devraient être rendus au mois de juin 2018 pour permettre une mise en oeuvre rapide. Cette mission parlementaire a pour but, entre autres, d'interroger les règles de prise en charge financière qui varient selon les régimes. Elle s'attache à expertiser notamment l'attribution d'une indemnisation dans les cas d'impossibilité du remplacement et également l'introduction d'une souplesse dans les indemnités journalières pour les travailleuses indépendantes. Enfin, elle étudie comment renforcer l'information sur les droits au congé maternité, enjeu fondamental pour les exploitantes agricoles. Même si le nombre de bénéficiaires a progressé depuis 2010, il est nécessaire de lever tous les freins au recours aux services de remplacement.
