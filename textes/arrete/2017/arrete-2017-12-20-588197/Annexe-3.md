@@ -1,3 +1,7 @@
 # Article Annexe 3
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 13 du 17 janvier 2018 accessible à l'adresse : https://www.legifrance.gouv.fr/download/pdf?id=mtYnJdOgZ2-8ai7JsCY-uxpucZL3Mlbpj7jP75Oh_3g=.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 112 du 17 mai 2018 accessible à l'adresse : https://www.legifrance.gouv.fr/download/pdf?id=3ylFHYlHl10hIHiBWYwIIP53f7pdosSa8paD-J0ycps=.
+
+Voies et délais de recours par le salarié ou par l'employeur :
+
+Les éléments de nature médicale justifiant le présent avis peuvent être contestés dans un délai de 15 jours à compter de sa notification auprès de la formation des référés du conseil de prud'hommes territorialement compétent (art. R. 717-25 du code rural et de la pêche maritime).
