@@ -1,38 +1,28 @@
 # Article Annexe I
 
-LISTE DES CONTRÔLES À EFFECTUER ET DES DÉFAUTS CONSTATABLES
+CONTRÔLES À EFFECTUER
 
-Déroulement du contrôle technique
+A. - Conditions de présentation du véhicule
 
-1° Conditions de présentation du véhicule : seuls peuvent être présentés au contrôle technique les véhicules en état de marche.
+Seuls peuvent être présentés au contrôle technique les véhicules en état de marche.
 
-2° Au cours du contrôle technique, le contrôleur effectue les contrôles décrits dans la partie A ci-après et, dans le cas d'un véhicule soumis à réglementation spécifique au sens du présent arrêté, les contrôles supplémentaires applicables à la catégorie du véhicule contrôlé décrits au II de la partie A de la présente annexe. Pour chaque point examiné, le contrôleur relève comme indiqué ci-dessous les observations et commentaires sur son terminal de saisie portable prévu à l'annexe III, en utilisant les libellés prévus dans la partie B ci-après, et dans le cas d'un véhicule à réglementation spécifique au sens du présent arrêté, tels que décrit en II de la partie B, en fonction de la catégorie de véhicule contrôlé.
+B. - Conditions de réalisation des contrôles
 
-L'identification du véhicule (numéros d'immatriculation, de la plaque constructeur et de frappe à froid) est la première opération de contrôle à réaliser.
+Les contrôles sont réalisés sans démontage, à l'exception de la dépose d'éléments permettant d'accéder au numéro de frappe à froid, à la prise EOBD, au scellement ou plombage du chronotachygraphe, au fusible associé au circuit électrique d'alimentation du système SCR, au compartiment moteur et au coffre de la batterie de traction ou au réservoir de gaz carburant le cas échéant.
 
-Toutefois, pour les véhicules dont la lecture du numéro de frappe à froid nécessite d'être sous le véhicule, l'identification par ce numéro est réalisée lorsque le véhicule est sur la fosse. L'identification en première opération de contrôle est limitée dans ce cas, aux numéros d'immatriculation et de la plaque constructeur.
+La vérification des points de contrôle est réalisée conformément aux instructions techniques établies par l'organisme technique central et approuvées par le ministre chargé des transports. Pour chacune des fonctions mentionnées au point C, ces instructions définissent les méthodologies de contrôle applicables aux points de contrôle et les défaillances constatables prévues au point D ci-après, associées à des précisions complémentaires éventuelles, non exhaustives. Elles précisent également, le cas échéant, les définitions, prescriptions et commentaires applicables.
 
-Les essais de freinage prévus au cours du contrôle technique périodique sont effectués au minimum aux deux tiers du poids total autorisé en charge. Toutefois, les véhicules dont la destination ne permet pas la présentation en charge peuvent être présentés à vide. L'appendice 2 de la présente annexe précise selon la catégorie du véhicule concerné et la nature du contrôle technique réalisé les conditions de présentation du véhicule.
+Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés après validation par le ministre en charge des transports.
 
-La liste des "défauts et anomalies constatables" est la somme de tous les défauts susceptibles d'être identifiés, pour tous les types de véhicules. Elle couvre toutes les catégories de véhicules et reprend toutes les possibilités technologiques susceptibles d'être présentes sur un véhicule. Elle excède donc très nettement ce qui peut être relevé au cours de l'examen d'un seul véhicule qui ne sera concerné que par certaines de ces dispositions.
+Le contrôleur relève, sur un dispositif informatique portable, les défaillances qu'il constate, dans le respect des instructions techniques précitées.
 
-Le contrôleur est donc conduit à sélectionner les points de contrôle pertinents sur la base :
+Les essais de freinage sont effectués au minimum aux deux tiers du poids total autorisé en charge, sauf exception précisée au F. 4. de la présente annexe.
 
-- de la liste des organes et des fonctions à contrôler et de ceux présents sur le véhicule dans sa configuration routière ;
+Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral, quel que soit le côté du véhicule.
 
-- de la possibilité de leur examen sans démontage. L'examen étant visuel, le contrôle dépend de la position de l'organe sur le véhicule et de la possibilité de l'inspecter.
+Ne sont pas réalisées :
 
-Les contrôles portent sur la présence, l'état, le fonctionnement, la fixation des organes mécaniques et des équipements. Ils ne concernent pas l'évaluation des règles de construction du véhicule et la conformité aux règles de l'art des réparations dont il a été l'objet, qui relèvent quant à elles du domaine de l'expertise et restent de la responsabilité du constructeur ou du réparateur.
-
-Les vérifications sont effectuées sans aucun démontage à l'exception de ceux nécessaires pour l'EOBD, le véhicule étant dans sa configuration routière, suivant les instructions fixées par l'administration. Elles comprennent un examen visuel ou auditif des organes à vérifier et l'exécution des essais permis par les moyens de contrôle mis à la disposition du contrôleur dans le centre et dont la liste figure en annexe III du présent arrêté.
-
-La vérification des points de contrôle est réalisée conformément aux méthodes de contrôle établies par l'organisme technique central et approuvées par le ministre chargé des transports.
-
-Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés.
-
-Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral, quel que soit le côté du véhicule. En conséquence, les opérations suivantes ne sont pas réalisées :
-
-- les vérifications des équipements nécessitant de monter sur le véhicule ou qui imposent un engagement sous celui-ci en dehors de la fosse prévue à cet effet et qui entrent dans le cadre de l'entretien du véhicule ;
+- les vérifications des équipements nécessitant de monter sur le véhicule ou qui imposent un engagement sous celui-ci en dehors de la fosse prévue à cet effet ;
 
 - les vérifications périodiques assurées par les organismes agréés.
 
@@ -40,43 +30,97 @@ L'opérateur peut toutefois demander, dans certains cas, à la personne qui pré
 
 - la dépose de la calandre ou d'un cache, qui ne nécessite pas l'emploi d'outils, pour effectuer, lorsque cela est prévu, la vérification d'organes facilement et rapidement accessibles ;
 
-- l'ouverture de la trappe d'accès (si nécessaire) qui peut nécessiter l'emploi d'outils du lot de bord du véhicule pour effectuer le contrôle du scellement ou plombage du chronotachygraphe, situé à la sortie de la boîte de vitesses ;
+- l'ouverture de la trappe d'accès qui peut nécessiter l'emploi d'outils du lot de bord du véhicule pour effectuer le contrôle du scellement ou plombage du chronotachygraphe, situé à la sortie de la boîte de vitesses ;
 
 - l'ouverture du capot, afin de relever les marques d'identification du véhicule ;
 
 - la vidange des circuits d'air lorsque le véhicule est muni d'un dispositif de freinage pneumatique.
 
-En cas d'impossibilité de contrôle, pour des raisons liées soit à la présence d'éléments qui ne sont pas d'origine, masquant l'organe à vérifier, soit au verrouillage des dispositifs de commande ou d'accès à cet organe, le procès-verbal porte la mention "contrôle impossible". Dans ce cas, la sanction correspondante est alors la plus élevée possible pour le point de contrôle considéré.
+C. - Fonctions contrôlées
 
-3° Les points de contrôle et les observations sont présentés de la façon suivante dans les parties A et B ci-après :
+Au cours du contrôle technique périodique et pour toutes les catégories de véhicules, le contrôleur vérifie les points de contrôle définis dans la présente annexe pour les fonctions suivantes :
 
-Découpage des points de contrôle :
+0. Identification du véhicule ;
 
-- X. FONCTION
+1. Equipements de freinage ;
 
-- X.X. ENSEMBLE
+2. Direction ;
 
-- X.X.X. POINT DE CONTRÔLE
+3. Visibilité ;
 
-Découpage des observations relatives à un point de contrôle :
+4. Feux, dispositifs réfléchissants et équipements électriques ;
 
-- X.X.X.X. TYPE D'OBSERVATION
+5. Essieux, roues, pneus, suspension ;
 
-- X.X.X.X.X. Observation (+ LOCALISATION)
+6. Châssis et accessoires du châssis ;
 
-Codage utilisé pour la localisation d'un défaut :
+7. Autre matériel ;
 
-CODIFICATION
+8. Nuisances.
 
-|
+Pour les véhicules de transport en commun de personnes, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 9. Contrôles supplémentaires pour les véhicules de transport en commun de personnes.
 
-LIBELLÉ DE LA LOCALISATION
+Pour les véhicules de dépannage, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 10. Véhicules de dépannage.
 
-|
+Pour les véhicules de transport sanitaire, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 11. Véhicules de transport sanitaire.
 
-1
+Pour les véhicules destinés à l'enseignement de la conduite, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 12. Véhicules destinés à l'enseignement de la conduite.
 
-|
+Pour véhicules de transport de marchandises dangereuses, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 14. Contrôles supplémentaires pour véhicules de transport de marchandises dangereuses soumis à certificat d'agrément.
+
+L'identification du véhicule est la première opération de contrôle.
+
+D. - Points de contrôle et défaillances constatables associées
+
+D. 1. Les points de contrôle et défaillances constatables sont présentés ci-après de la façon suivante :
+
+X. FONCTION
+
+X. X. ENSEMBLE DE POINTS
+
+X. X. X. POINT DE CONTRÔLE
+
+X. X. X. X. CONSTAT
+
+X. X. X. X. X. NIVEAU DE GRAVITÉ
+
+Code |
+
+Constat |
+
+Localisation |
+
+Niveau
+
+de gravité |
+
+Lorsque la localisation [Loc.] est prévue, toutes les localisations associées à la défaillance sont sélectionnées parmi les localisations suivantes :
+
+LIBELLÉS DES LOCALISATIONS |
+
+Avant |
+
+Arrière |
+
+Droite |
+
+Gauche |
+
+Milieu |
+
+Latéral |
+
+Intérieur |
+
+Extérieur |
+
+Inférieur |
+
+Supérieur |
+
+Tou (te) s |
+
+Entre TRR et REM |
 
 Essieu 1 |
 
@@ -86,69 +130,15 @@ Essieu 3 |
 
 Essieu 4 |
 
-Essieu 5
+Essieu 5 |
 
-|
+Essieu 6 |
 
-Essieu 6
+Essieu 7 |
 
-|
+Essieu 8 |
 
-Essieu 7
-
-|
-
-Essieu 8
-
-|
-
-Essieu 9
-
-|
-
-2 |
-
-AV |
-
-AR |
-
-3 |
-
-Droit |
-
-Gauche |
-
-4 |
-
-Milieu |
-
-Latéral |
-
-5 |
-
-Intérieur |
-
-Extérieur |
-
-6 |
-
-Inférieur |
-
-Supérieur |
-
-7 |
-
-Tous |
-
-Toutes |
-
-8 |
-
-Entre TRR et REM |
-
-9
-
-|
+Essieu 9 |
 
 Valve 4 voies |
 
@@ -162,9952 +152,2290 @@ Valve relais d'urgence |
 
 Valve de desserrage rapide |
 
-A
-
-|
-
-60 |
-
-70 |
-
-80 |
-
-90 |
-
-100 |
-
-110 |
-
-La localisation d'une observation de la liste ci-après (partie B) ne peut être effectuée qu'au moyen des codifications proposées entre parenthèses pour ce défaut.
-
-4° Chaque observation constatée par le contrôleur conformément aux dispositions du 1° ci-dessus donne lieu à un défaut ou une anomalie imprimés sur le procès-verbal de contrôle et libellés ainsi qu'il suit, en utilisant le cas échéant des abréviations :
-
-Libellé de l'observation constatée :
-
-N° de l'observation + point de contrôle + observation constatée + localisation.
-
-Exemple :
-
-4.2.2.1.1. FEU INDICATEUR DE DIRECTION : Détérioration notable AV D
-
-Les annotations manuscrites sur le procès-verbal sont interdites.
-
-5° Types de véhicules concernés
-
-CODIFICATION
-
-|
-
-TYPE DE CONTRÔLE
-
-|
-
-M |
-
-Véhicules à moteur |
-
-R |
-
-Véhicules remorqués |
-
-T |
-
-Tous les véhicules (à moteur et remorqués). |
-
-6° Sanction de la visite :
-
-CODIFICATION
-
-|
-
-RÉSULTAT
-
-|
-
-O |
-
-Constatation d'anomalie non soumise à contre-visite |
-
-S |
-
-Constatation de défaut justifiant une contre-visite sans interdiction de circuler |
-
-R |
-
-Constatation de défaut justifiant une contre-visite avec interdiction de circuler |
-
-X |
-
-Report de la visite, renvoi du véhicule |
-
-La codification "C" signifie que le libellé correspond à un commentaire qui n'est pas considéré comme un défaut.
-
-PARTIE A
-
-I - LISTE DES POINTS DE CONTRÔLE
-
-0 IDENTIFICATION DU VÉHICULE
-
-0.1. DOCUMENT
-
-0.1.1. CERTIFICAT D'IMMATRICULATION
-
-0.1.2. NOTICE DESCRIPTIVE-CERTIFICAT DE CONFORMITÉ
-
-0.1.6. CERTIFICAT DE CARROSSAGE
-
-0.2. NUMÉRO D'IMMATRICULATION
-
-0.2.1. PLAQUE D'IMMATRICULATION
-
-0.3. PLAQUES ET INSCRIPTIONS
-
-0.3.1. PLAQUE CONSTRUCTEUR
-
-0.3.2. FRAPPE A FROID SUR LE CHASSIS
-
-0.4. PRESENTATION DU VÉHICULE
-
-0.4.1. ETAT DE CHARGE DU VÉHICULE
-
-0.4.2. ETAT DE PRESENTATION DU VÉHICULE
-
-0.4.3. CONDITIONS D'ESSAIS
-
-0.4.4. LONGUEUR
-
-0.4.5. LARGEUR
-
-0.4.6. GENRE
-
-0.4.7. CARROSSERIE
-
-0.4.8. PTAC
-
-0.4.9. PTRA
-
-0.4.10. ENERGIE MOTEUR
-
-0.4.11. NOMBRE DE PLACES ASSISES
-
-1 FREINAGE
-
-1.1. MESURES - ESSAIS
-
-1.1.1. FREIN DE SERVICE
-
-1.1.2. FREIN DE SECOURS
-
-1.1.3. FREIN DE STATIONNEMENT
-
-1.1.4. RALENTISSEUR
-
-1.1.5. INDEPENDANCE
-
-1.1.6. FREIN DE RUPTURE
-
-1.2. CIRCUIT
-
-1.2.1. RESERVOIR DE FREIN
-
-1.2.2. ACCUMULATEUR PRESSION
-
-1.2.3. PURGE DE RESERVOIR
-
-1.2.4. MAITRE-CYLINDRE
-
-1.2.5. COMPRESSEUR
-
-1.2.6. CIRCUIT DE FREINAGE
-
-1.2.7. CANALISATION DE FREIN
-
-1.2.8. FLEXIBLE DE FREIN
-
-1.2.9. VALVE
-
-1.2.10. CORRECTEUR, REPARTITEUR DE FREINAGE
-
-1.2.11. MAINS D'ACCOUPLEMENT
-
-1.2.12. PRISE(S) DE PRESSION
-
-1.3. ELEMENTS DE COMMANDE
-
-1.3.1. COMMANDE DU FREIN DE SERVICE
-
-1.3.2. COMMANDE DU FREIN DE SECOURS
-
-1.3.3. COMMANDE DU FREIN DE STATIONNEMENT
-
-1.3.4. CABLE, TRINGLERIE DU FREIN DE STATIONNEMENT
-
-1.3.5. COMMANDE DU RALENTISSEUR
-
-1.4. ORGANES DE FREIN
-
-1.4.1. DISQUE DE FREIN
-
-1.4.2. RECEPTEUR
-
-1.4.3. CYLINDRE DE ROUE
-
-1.4.4. ETRIER
-
-1.4.5. TAMBOUR DE FREIN
-
-1.4.6. PLAQUETTE -GARNITURE DE FREIN
-
-1.4.7. LEVIER DE FREIN
-
-1.4.8. AXE DE CAME
-
-1.4.9. FLASQUE
-
-1.4.10. RALENTISSEUR
-
-1.4.11. SYSTEME ANTI-BLOCAGE OU CONTROLE TRAJECTOIRE
-
-1.5. ASSISTANCE DE FREINAGE A DEPRESSION
-
-1.5.1. ASSISTANCE DE FREINAGE
-
-1.6. TEMOINS
-
-1.6.1. SIGNAL D'ALARME DU FREIN DE SERVICE
-
-1.6.2. TEMOIN DE FREIN DE SECOURS
-
-1.6.3. TEMOIN DE FREIN DE STATIONNEMENT
-
-1.6.4. TEMOIN DU DISPOSITIF ANTI-BLOCAGE
-
-1.6.5. TEMOIN D'USURE DES GARNITURES
-
-1.7. FREINAGE ELECTRONIQUE
-
-1.7.1. LIAISONS ELECTRIQUES DU FREINAGE ELECTRONIQUE
-
-2 DIRECTION
-
-2.1. ORGANES DE DIRECTION
-
-2.1.1. VOLANT DE DIRECTION
-
-2.1.2. ANTIVOL
-
-2.1.3. COLONNE ET ACCOUPLEMENT DE DIRECTION
-
-2.1.4. CREMAILLERE
-
-2.1.5. BOITIER DE DIRECTION
-
-2.1.6. BIELLE DE DIRECTION
-
-2.1.7. BARRE DE DIRECTION
-
-2.1.8. BARRE D'ACCOUPLEMENT
-
-2.1.9. ROTULE DE DIRECTION
-
-2.1.10. PIVOT
-
-2.1.11. ARTICULATION DE DIRECTION
-
-2.1.12. RENVOI D'ANGLE
-
-2.1.13. SOUFFLET DE PROTECTION DE DIRECTION
-
-2.1.14. AMORTISSEUR DE DIRECTION
-
-2.1.15. BUTEE DE DIRECTION
-
-2.2. ASSISTANCE DE DIRECTION
-
-2.2.1. POMPE ASSISTANCE
-
-2.2.2. RESERVOIR DE DIRECTION
-
-2.2.3. CANALISATION D'ASSISTANCE DE DIRECTION
-
-2.2.4. VERIN D'ASSISTANCE DE DIRECTION
-
-2.2.5. ROTULE DE VERIN DE DIRECTION
-
-3 VISIBILITE
-
-3.1. VITRAGES
-
-3.1.1. PARE-BRISE
-
-3.1.2. VITRAGE
-
-3.2. RETROVISEURS
-
-3.2.1. RETROVISEUR INTÉRIEUR
-
-3.2.2. RETROVISEUR EXTERIEUR
-
-3.3. ACCESSOIRES
-
-3.3.1. ESSUIE-GLACE AVANT
-
-3.3.2. LAVE-GLACE AVANT
-
-3.3.3. SYSTÈME DE DÉSEMBUAGE
-
-4 ECLAIRAGE, SIGNALISATION
-
-4.1. ECLAIRAGE
-
-4.1.1. FEU DE CROISEMENT
-
-4.1.2. FEU DE ROUTE
-
-4.1.3. FEU ANTIBROUILLARD AV
-
-4.1.4. FEU ADDITIONNEL
-
-4.1.5. ECLAIRAGE NON REGLEMENTAIRE
-
-4.2. SIGNALISATION
-
-4.2.1. FEU DE POSITION
-
-4.2.2. FEU INDICATEUR DE DIRECTION
-
-4.2.3. SIGNAL DE DETRESSE
-
-4.2.4. FEU ROUGE ARRIERE
-
-4.2.5. FEU STOP
-
-4.2.6. TROISIEME FEU-STOP
-
-4.2.7. FEU DE PLAQUE ARRIERE
-
-4.2.8. FEU DE BROUILLARD ARRIERE
-
-4.2.9. FEU DE MARCHE ARRIERE
-
-4.2.10. FEU D'ENCOMBREMENT
-
-4.2.11. FEU LATERAL
-
-4.2.12. CATADIOPTRE
-
-4.2.13. SIGNALISATION COMPLEMENTAIRE ARRIERE
-
-4.2.14. TRIANGLE DE PRESIGNALISATION
-
-4.2.15. SIGNALISATION NON AUTORISEE
-
-4.2.16. SIGNALISATION ADDITIONNELLE
-
-4.2.17. FEUX SPECIAUX
-
-4.3. ELEMENTS DE COMMANDE, D'INFORMATION
-
-4.3.1. COMMANDE D'ECLAIRAGE ET DE SIGNALISATION
-
-4.3.2. TEMOIN DE FEUX DE ROUTE
-
-4.3.3. TEMOIN DE SIGNAL DE DETRESSE
-
-4.3.4. TEMOIN DE FEUX DE BROUILLARD AR
-
-4.3.5. TEMOIN INDICATEUR DE DIRECTION
-
-4.4. CABLAGE ELECTRIQUE
-
-4.4.1. CABLAGE ELECTRIQUE
-
-4.4.2. LIAISONS ELECTRIQUES
-
-5 LIAISONS AU SOL
-
-5.1. ESSIEU ET SUSPENSION
-
-5.1.1. ESSIEU
-
-5.1.2. BRIDE DE SUSPENSION
-
-5.1.3. MOYEU
-
-5.1.4. TIRANT D'ESSIEU ET DE SUSPENSION
-
-5.1.5. RESSORT DE SUSPENSION
-
-5.1.6. BARRE DE TORSION
-
-5.1.7. LAME DE RESSORT MAITRESSE
-
-5.1.8. LAMES DE RESSORT SECONDAIRES
-
-5.1.9. MAIN DE RESSORT ET JUMELLE
-
-5.1.10. ETRIER DE RESSORT
-
-5.1.11. AXE DE RESSORT
-
-5.1.12. BUTEE DE CHOC
-
-5.1.13. BALANCIER
-
-5.1.14. AXE DE BALANCIER
-
-5.1.15. TRIANGLE DE SUSPENSION
-
-5.1.16. ROTULE DE SUSPENSION
-
-5.1.17. SILENT-BLOC SUSPENSION
-
-5.1.18. AMORTISSEUR
-
-5.1.19. SPHERE,COUSSIN DE SUSPENSION
-
-5.1.20. CIRCUIT DE SUSPENSION
-
-5.1.21. BARRE STABILISATRICE
-
-5.1.22. SILENT-BLOC DE BARRE STABILISATRICE
-
-5.1.23. BLOCAGE DE SUSPENSION
-
-5.2. ROUES ET PNEUS
-
-5.2.1. ROUE
-
-5.2.2. JANTE
-
-5.2.3. PNEUMATIQUE
-
-6 CHASSIS ET ACCESSOIRES DU CHASSIS
-
-6.1. STRUCTURE
-
-6.1.1. LONGERON
-
-6.1.2. BRANCARD
-
-6.1.3. TRAVERSE
-
-6.1.4. TREILLIS
-
-6.1.5. COQUE
-
-6.2. CARROSSERIE
-
-6.2.1. CARROSSERIE
-
-6.2.2. CAISSE
-
-6.2.3. BACHE
-
-6.2.4. BENNE
-
-6.2.5. CAISSE AMOVIBLE
-
-6.2.6. GRUE
-
-6.2.7. HAYON
-
-6.2.8. CABINE
-
-6.2.9. MARCHE-PIEDS
-
-6.2.10. PORTE
-
-6.2.11. FAUX-CHASSIS
-
-6.2.12. PLANCHER
-
-6.2.13. COFFRE
-
-6.2.14. SUPPORTS ROUE DE SECOURS
-
-6.2.15. SUPPORT BATTERIE
-
-6.2.16. BEQUILLE
-
-6.2.17. ANTI-PROJECTION
-
-6.2.18. PARE-CHOCS
-
-6.2.19. BOUCLIER
-
-6.2.20. ANTI-ENCASTREMENT
-
-6.2.21. PROTECTION LATERALE
-
-7 EQUIPEMENTS
-
-7.1. HABITACLE
-
-7.1.1. SIEGE CONDUCTEUR
-
-7.1.2. SIEGE PASSAGER
-
-7.1.3. CEINTURE
-
-7.2. DISPOSITIF D'ATTELAGE
-
-7.2.1. SELLETTE D'ATTELAGE
-
-7.2.2. CHEVILLE OUVRIERE
-
-7.2.3. CROCHET D'ATTELAGE
-
-7.2.4. ANNEAU D'ATTELAGE
-
-7.2.5. TIMON D'ATTELAGE
-
-7.2.6. TOURELLE D'AVANT TRAIN
-
-7.3. AUTRES EQUIPEMENTS
-
-7.3.1. AVERTISSEUR SONORE ET SA COMMANDE
-
-7.3.2. EXTINCTEUR
-
-7.3.3. INDICATEUR DE VITESSE
-
-7.3.4. CHRONOTACHYGRAPHE, COMPTEUR KILOMÉTRIQUE
-
-7.3.5. LIMITEUR DE VITESSE
-
-7.3.6. DISQUE LIMITATION DE VITESSE
-
-7.3.7. PLAQUE DE TARE
-
-7.3.8. BATTERIE (S)
-
-8 ORGANES MECANIQUES
-
-8.1. GROUPE MOTO-PROPULSEUR
-
-8.1.1. MOTEUR
-
-8.1.2. COMMANDE D'ACCELERATEUR
-
-8.1.3. COMMANDE D'EMBRAYAGE
-
-8.1.4. ARBRE DE TRANSMISSION
-
-8.1.5. CARDAN
-
-8.1.6. PALIER RELAIS DE TRANSMISSION
-
-8.1.7. PONT
-
-8.1.8. BOITE TRANSFERT
-
-8.1.9. BOITE VITESSE
-
-8.2. ALIMENTATION
-
-8.2.1. CIRCUIT DE CARBURANT
-
-8.2.2. RESERVOIR DE CARBURANT
-
-8.2.3. RESERVOIR ADDITIONNEL
-
-8.3. ECHAPPEMENT
-
-8.3.1. COLLECTEUR D'ECHAPPEMENT
-
-8.3.2. CANALISATION D'ECHAPPEMENT
-
-8.3.3. SILENCIEUX D'ECHAPPEMENT
-
-9 POLLUTION, NIVEAU SONORE
-
-9.1. MESURES DE POLLUTION
-
-9.1.1. TENEUR EN CO DES GAZ D'ECHAPPEMENT
-
-9.1.2. MESURE DU LAMBDA DES GAZ D'ECHAPPEMENT veh eq de catal/sonde
-
-9.1.3. OPACITE DES FUMEES D'ECHAPPEMENT
-
-9.2. NIVEAU SONORE
-
-9.2.1. BRUIT MOTEUR
-
-9.3. ELEMENTS D'INFORMATION
-
-9.3.1. DISPOSITIF DE DIAGNOSTIC EMBARQUE (OBD)
-
-II - LISTE DES POINTS DE CONTRÔLE SUPPLEMENTAIRES APPLICABLES AUX VÉHICULES LOURDS SOUMIS A REGLEMENTATION SPECIFIQUE
-
-10 CONTRÔLES COMPLEMENTAIRES TCP
-
-10.1. IDENTIFICATION
-
-10.1.1. ATTESTATION D'AMENAGEMENT
-
-10.1.2. PRESENTATION DU VÉHICULE
-
-10.1.3. CERTIFICAT D'INSTALLATION DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
-
-10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
-
-10.2. PREVENTION DES RISQUES D'INCENDIE
-
-10.2.1. COUPE-BATTERIE
-
-10.2.2. EXTINCTEUR
-
-10.2.3. DISPOSITIF D'EVACUATION DES FUMEES
-
-10.3. ISSUES
-
-10.3.1. PORTE DE SERVICE
-
-10.3.2. COMMANDE DE PORTE DE SERVICE
-
-10.3.3. ACCES PORTE DE SERVICE
-
-10.3.4. PORTE DE SECOURS
-
-10.3.5. COMMANDE PORTE DE SECOURS
-
-10.3.6. ACCES PORTE DE SECOURS
-
-10.3.7. FENETRE ET TRAPPE DE SECOURS
-
-10.3.8. COMMANDE FENETRE ET TRAPPE DE SECOURS
-
-10.3.9. ACCES FENETRE ET TRAPPE DE SECOURS
-
-10.3.10. MARTEAU-PERCUTEUR
-
-10.4. AMENAGEMENTS INTERIEURS
-
-10.4.1. ALLEE
-
-10.4.2. SIEGE CONVOYEUR
-
-10.4.3. STRAPONTIN
-
-10.4.4. SIEGE BASCULANT
-
-10.4.5. SIEGE PASSAGER
-
-10.4.6. COUCHETTE
-
-10.4.7. PLANCHER
-
-10.4.8. REVETEMENT INTERIEUR
-
-10.4.9. BARRE
-
-10.4.10. POIGNEE
-
-10.4.11. ECLAIRAGE INTERIEUR
-
-10.4.12. CHAUFFAGE
-
-10.4.13. VISIBILITE
-
-10.4.14. CEINTURE
-
-10.5. DISPOSITIFS DE SECURITE
-
-10.5.1. BOITE DE PREMIER SECOURS
-
-10.5.2. INSCRIPTIONS ET CONSIGNES
-
-10.5.3. LAMPE AUTONOME
-
-10.5.4. SIGNAL DE DETRESSE
-
-10.5.5. DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
-
-10.6. TRANSPORT D'ENFANT
-
-10.6.1. VERROUILLAGE PORTE ARRIERE
-
-10.6.2. TEMOIN DE VERROUILLAGE DE LA PORTE ARRIERE
-
-10.6.3. PICTOGRAMME
-
-10.7. TRANSPORT HANDICAPES
-
-10.7.1. PLATE-FORME D' ACCES HANDICAPES
-
-10.7.2. ARRIMAGE FAUTEUIL HANDICAPES
-
-10.9. TCP ARTICULE
-
-10.9.1. ALIGNEMENT TCP ARTICULES
-
-10.9.2. SECTION ARTICULEE
-
-10.10 TCP A ETAGE
-
-10.10.1. ESCALIER
-
-11 CONTRÔLES COMPLEMENTAIRES VÉHICULES DEPANNAGE
-
-11.1. IDENTIFICATION
-
-11.1.1. CARTE BLANCHE
-
-11.1.2. PRESENTATION DU VÉHICULE
-
-11.2. SIGNALISATION
-
-11.2.1. PLAQUE REMORQUAGE
-
-11.2.2. ECLAIRAGE FLECHE
-
-11.2.3. FEU SPECIAL
-
-11.3. EQUIPEMENTS
-
-11.3.1. CONES
-
-11.3.2. SABLE
-
-11.3.3. BALAI
-
-11.3.4. PELLE
-
-11.3.5. GILET FLUORESCENT
-
-11.3.6. EXTINCTEURS SPECIFIQUES
-
-12 CONTRÔLES COMPLEMENTAIRES VÉHICULES SANITAIRES
-
-12.1. AMENAGEMENT
-
-12.1.1. FEU SPECIAL
-
-12.1.2. AVERTISSEUR SONORE SPECIALISE
-
-12.1.3. SIGNALISATION DISTINCTIVE
-
-13 CONTRÔLES COMPLEMENTAIRES VÉHICULES-ECOLE
-
-13.1. IDENTIFICATION
-
-13.1.1. AUTORISATION DE MISE EN CIRCULATION, en l'absence de la mention spéciale sur le certificat d'immatriculation
-
-13.2. SIGNALISATION
-
-13.2.1. PANNEAUX
-
-13.3. EQUIPEMENTS
-
-13.3.1. DOUBLE COMMANDE MANUELLE (si obligatoire)
-
-13.3.2. DOUBLE COMMANDE AU PIED
-
-13.3.3. ACCELERATEUR NEUTRALISABLE
-
-13.3.4. RETROVISEUR INTERIEUR COMPLEMENTAIRE (si obligatoire)
-
-13.3.5. RETROVISEUR EXTERIEUR COMPLEMENTAIRE
-
-14. CONTRÔLES COMPLEMENTAIRES DES VÉHICULES ELECTRIQUES OU HYBRIDES
-
-14.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES).
-
-14.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION
-
-14.1.2. BATTERIE(S) DE TRACTION
-
-14.1.3. ORIFICE(S) D'AERATION DU COFFRE À BATTERIE(S) DE TRACTION
-
-14.2. CIRCUITS ELECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES
-
-14.2.1. CÂBLAGES ET CONNECTEURS HAUTE TENSION
-
-14.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
-
-14.2.3. CONTINUITE DE MASSE
-
-14.3. EQUIPEMENTS ELECTRIQUES OU ELECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
-
-14.3.1. EQUIPEMENT ELECTRIQUES ET ELECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
-
-14.4. DISPOSITIFS DE SECURITE
-
-14.4.1. DISPOSITIF ANTI-DEMARRAGE (câble de charge connecté)
-
-14.5. SYSTEME DE CHARGE
-
-14.5.1. PROTECTION DE LA PRISE SUR VÉHICULE
-
-14.5.2. PRISE(S) SUR VÉHICULE
-
-14.5.3. CÂBLE DE CHARGE
-
-15 CONTRÔLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
-
-15.1. IDENTIFICATION
-
-15.1.1. CERTIFICAT D'AGREMENT (CA)
-
-15.1.2. NOTICES DESCRIPTIVES TMD-CERTIFICATS DE CONFORMITE (TMD-ADR)
-
-15.1.3. PRESENTATION DU VEHICULE
-
-15.4. EQUIPEMENTS ELECTRIQUES
-
-15.4.4. CANALISATIONS (GAINES ET CABLES)
-
-15.4.6. CHRONOTACHYGRAPHE
-
-15.4.7. FEUX
-
-15.5. COMMANDES DE SECURITE
-
-15.5.2. COUPE-BATTERIE
-
-15.5.3. ANTI-EMBALLEMENT/ COUP DE POING
-
-15.7. PREVENTION DES RISQUES D'INCENDIE
-
-15.7.6. RALENTISSEUR
-
-15.7.7. ECHAPPEMENT
-
-15.7.8. PROTECTION THERMIQUE VEHICULE OX
-
-15.9. CITERNE-ELEMENTS VEH-BATTERIE
-
-15.9.1. ATTESTATION DE CONTROLE ET EPREUVES DES CITERNES-ELEMENTS VEH-BATTERIE
-
-15.9.5. MARQUAGE CITERNE-ELEMENTS VEH-BATTERIE
-
-15.9.6. PARTIE EXTERIEURE DE L'ENVELOPPE CITERNE-ELEMENTS VEH-BATTERIE
-
-15.9.7. ISOLATION THERMIQUE CITERNE
-
-15.9.8. EQUIPEMENTS DE SERVICE CITERNE-ELEMENTS VEH-BATTERIE
-
-15.9.10. PROTECTIONS CITERNE
-
-15.9.13. LIAISONS EQUIPOTENTIELLES
-
-15.9.14. FIXATIONS CITERNE-CONTENEUR CITERNE, VEH-BATTERIE
-
-15.9.15. FLEXIBLES CITERNE
-
-15.10. EXPLOSIFS
-
-15.10.2. CAISSE
-
-15.10.3. PORTE
-
-15.10.4. ECLAIRAGE INTERIEUR
-
-15.10.5. EXCTINCTEURS AUTOMATIQUES POUR LE COMPARTIMENT MOTEUR
-
-15.10.6. PROTECTION DU CHARGEMENT CONTRE LES FEUX DE PNEUMATIQUES
-
-15.11. MEMU
-
-15.11.3. SYSTEME D'EXCTINCTION DEPUIS L'EXTERIEUR DU CHAUFFAGE A COMBUSTION DU COMPARTIMENT MEMU
-
-15.11.4. VERROUS SUR LES EQUIPEMENTS DE FABRICATION D'EXPLOSIFS ET LES COMPARTIMENTS SPECIAUX
-
-PARTIE B
-
-I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
-
-|
-
-Localisation
-
-|
-
-Résultat
-
-|
-
-Véhicule
-
-|
+D.2. LISTE DES POINTS DE CONTRÔLE, DÉFAILLANCES CONSTATABLES ET LOCALISATIONS ASSOCIÉES
 
 0. IDENTIFICATION DU VÉHICULE
 
-|
-
-|
-
-|
-
-|
-
-0.1. DOCUMENT
-
-|
-
-|
-
-|
-
-|
-
-0.1.1. CERTIFICAT D'IMMATRICULATION
-
-|
-
-|
-
-|
-
-|
-
-0.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-0.1.1.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.1.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-0.1.1.4.1. Absence
-
-|
-
-|
-
-X
-
-|
-
-T
-
-|
-
-0.1.1.4.10. A renouveler
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.15. A rectifier
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.1.1.4.16. Erreur de transcription du numéro de série
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.1.2. NOTICE DESCRIPTIVE-CERTIFICAT DE CONFORMITE
-
-|
-
-|
-
-|
-
-|
-
-0.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-0.1.2.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.1.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-0.1.2.4.1. Absence
-
-|
-
-|
-
-O
+0.1. PLAQUES D'IMMATRICULATION
 
-|
-
-T
-
-|
-
-0.1.2.4.2. Non concordance avec le véhicule
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.1.6. CERTIFICAT DE CARROSSAGE
-
-|
-
-|
-
-|
-
-|
-
-0.1.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-0.1.6.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.2. NUMERO D'IMMATRICULATION
-
-|
-
-|
-
-|
-
-|
-
-0.2.1. PLAQUE D'IMMATRICULATION
-
-|
-
-|
-
-|
-
-|
-
-0.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
+0.1.1. PLAQUES D'IMMATRICULATION
 
-0.2.1.1.1. Détérioration
+0.1.1.a.2 |
 
-|
-
-2
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.2.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-0.2.1.3.3. Défaut de positionnement
-
-|
-
-2
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.2.1.3.4. Défaut de fixation
-
-|
-
-2
-
-|
-
-O
-
-|
-
-T
-
-|
-
-0.2.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-0.2.1.4.1. Absence
-
-|
-
-2
+Plaque manquante ou, si mal fixée, elle risque de tomber |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+0.1.1.b.2 |
 
-T
+Inscription manquante ou illisible |
 
-|
+[Loc] |
 
-0.2.1.4.2. Non concordance avec le certificat d'immatriculation
+Majeure |
 
-|
+0.1.1.c.2 |
 
-2
+Ne correspond pas aux documents du véhicule |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+0.1.1.d.2 |
 
-T
+Plaque non conforme |
 
-|
+[Loc] |
 
-0.2.1.4.3. Illisible
+Majeure |
 
-|
+0.2. NUMÉRO D'IDENTIFICATION, DE CHÂSSIS OU DE SÉRIE DU VÉHICULE
 
-2
+0.2.1. NUMÉRO D'IDENTIFICATION, DE CHÂSSIS OU DE SÉRIE DU VÉHICULE
 
-|
+0.2.1.a.2 |
 
-S
+Manquant ou introuvable |
 
 |
 
-T
+Majeure |
 
-|
+0.2.1.b.2 |
 
-0.2.1.4.6. Matériaux - Couleur inadaptés
+Incomplet, illisible, manifestement falsifié ou ne correspondant pas aux documents du véhicule |
 
 |
 
-2
+Majeure |
 
-|
+0.2.1.c.1 |
 
-O
+Documents du véhicule illisibles ou comportant des imprécisions matérielles |
 
 |
 
-T
+Mineure |
 
-|
-
-0.3. PLAQUES ET INSCRIPTIONS
+0.2.1.d.1 |
 
-|
+Identification inhabituelle |
 
 |
 
-|
+Mineure |
 
-|
+0.3. PLAQUE CONSTRUCTEUR
 
 0.3.1. PLAQUE CONSTRUCTEUR
 
-|
+0.3.1.a.1 |
 
-|
+Défaut de fixation |
 
 |
 
-|
+Mineure |
 
-0.3.1.1. ETAT
+0.3.1.a.2 |
 
-|
+Manquante ou introuvable |
 
 |
 
-|
+Majeure |
 
-|
+0.3.1.b.2 |
 
-0.3.1.1.1. Détérioration
+Numéro incomplet, illisible ou ne correspondant pas aux documents du véhicule |
 
 |
 
-|
+Majeure |
+
+0.3.1.c.2 |
 
-O
+Non-concordance avec la frappe à froid |
 
 |
 
-T
+Majeure |
 
-|
+0.4. ÉTAT DE PRÉSENTATION DU VÉHICULE
 
-0.3.1.3. FIXATION
+0.4.1. ÉTAT DE PRÉSENTATION DU VÉHICULE
 
-|
+0.4.1.a.2 |
 
-|
+Etat du véhicule ne permettant pas la vérification des points de contrôle |
 
 |
 
-|
+Majeure |
 
-0.3.1.3.1. Défaut de fixation
+0.4.1.b.2 |
 
-|
+Non concordance de l'énergie avec le document d'identification |
 
 |
 
-O
+Majeure |
 
-|
+0.4.1.c.2 |
 
-T
+Modification nécessitant une mise en conformité par rapport aux données des documents d'identification |
 
 |
 
-0.3.1.4. DIVERS
-
-|
+Majeure |
 
-|
+0.5. CONDITIONS DE CONTRÔLE
 
-|
+0.5.1. CONDITIONS DE CONTRÔLE
 
-|
+0.5.1.a.2 |
 
-0.3.1.4.1. Absence
+Panne du dispositif de contrôle du réglage des feux d'éclairage lors du contrôle |
 
 |
 
-|
+Majeure |
 
-S
+0.5.1.c.2 |
 
+Panne du dispositif pour le contrôle du freinage lors du contrôle |
+
 |
 
-T
+Majeure |
 
-|
+0.5.1.g.2 |
 
-0.3.1.4.3. Non concordance du numéro d'identification avec le CI
+Panne du dispositif de mesure de l'opacité des fumées lors du contrôle |
 
 |
 
-|
+Majeure |
+
+0.5.1.h.2 |
 
-S
+Panne du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes lors du contrôle |
 
 |
 
-T
+Majeure |
 
-|
+0.5.1.i.2 |
 
-0.3.1.4.4. Illisible
+Panne du décéléromètre lors du contrôle |
 
 |
 
-|
+Majeure |
 
-S
+0.5.1.j.2 |
 
+Panne de l'outil de mesure de la résistance électrique lors du contrôle |
+
 |
 
-T
+Majeure |
 
-|
+0.5.1.m.2 |
 
-0.3.1.4.5. Mauvaise lisibilité
+Panne des plaques à jeux lors du contrôle |
 
 |
 
-|
+Majeure |
 
-O
+0.6. DOCUMENTS D'IDENTIFICATION COMPLÉMENTAIRES
 
-|
+0.6.1. NOTICE DESCRIPTIVE OU CERTIFICAT DE CONFORMITÉ
 
-T
+0.6.1.a.1 |
 
+Absent ou non conforme |
+
 |
 
-0.3.1.4.6. Contrôle impossible
+Mineure |
 
-|
+0.6.2. CERTIFICAT DE CARROSSAGE
 
-|
+0.6.2.a.1 |
 
-S
+Absent ou non conforme |
 
 |
 
-T
+Mineure |
 
-|
+0.6.3. ATTESTATION D'AMÉNAGEMENT (TCP)
 
-0.3.1.4.7. Indications incomplètes
+0.6.3.a.2 |
 
-|
+Absent ou non conforme |
 
 |
 
-O
+Majeure |
 
-|
+0.6.4. CARTE VERTE, ATTESTATION D'INSTALLATION, CERTIFICAT D'INSPECTION DÉTAILLÉE (CID) ET PV D'ÉPREUVE DES RÉSERVOIRS
 
-T
+0.6.4.a.2 |
 
+Carte verte ou attestation d'installation des réservoirs gnc absente ou non conforme |
+
 |
 
-0.3.2. FRAPPE A FROID SUR LE CHASSIS
+Majeure |
 
-|
+0.6.4.b.2 |
 
-|
+Certificat d'Inspection Détaillée (CID) ou PV d'épreuve des réservoirs GNC absent ou non conforme |
 
 |
 
-|
+Majeure |
 
-0.3.2.4. DIVERS
+0.6.5. ATTESTATION, CERTIFICAT OU PV D'ÉPREUVE DES RÉSERVOIRS GPL
 
-|
+0.6.5.a.2 |
 
-|
+Attestation des réservoirs gpl (si marquage R67-01 non visible) absente ou non conforme |
 
 |
 
-|
+Majeure |
 
-0.3.2.4.1. Absence
+0.6.5.b.2 |
 
-|
+Certificat ou PV d'épreuve des réservoirs GPL absent ou non conforme |
 
 |
 
-S
+Majeure |
 
-|
+0.6.6. JUSTIFICATIF D'INSPECTION PÉRIODIQUE DES RÉSERVOIRS D'AIR
+
+0.6.6.a.1 |
 
-T
+Absent ou non conforme |
 
 |
 
-0.3.2.4.2. Non concordance avec le certificat d'immatriculation
+Mineure |
 
-|
+0.6.7. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU LIMITEUR DE VITESSE
 
-|
+0.6.7.a.2 |
 
-S
+Absente ou non conforme |
 
 |
 
-T
+Majeure |
 
-|
+0.6.8. CERTIFICAT D'INSTALLATION ET ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
 
-0.3.2.4.4. Mauvaise lisibilité
+0.6.8.a.2 |
 
-|
+Certificat d'installation ead absent ou non conforme |
 
 |
 
-O
+Majeure |
 
-|
+0.6.8.b.2 |
 
-T
+Attestation de vérification périodique EAD absente ou non conforme |
 
 |
 
-0.3.2.4.5. Contrôle impossible
+Majeure |
 
-|
+0.6.9. CARTE BLANCHE BARRÉE BLEU POUR LES VÉHICULES DE DÉPANNAGE
 
-|
+0.6.9.a.1 |
 
-S
+Absent ou non conforme |
 
 |
 
-T
+Mineure |
 
-|
+1. ÉQUIPEMENTS DE FREINAGE
 
-0.3.2.4.6. Illisible
+1.1. ÉTAT MÉCANIQUE ET FONCTIONNEMENT
 
-|
+1.1.1. PIVOT DE LA PÉDALE DU FREIN DE SERVICE
 
-|
+1.1.1.a.2. |
 
-S
+Pivot trop serré |
 
 |
 
-T
+Majeure |
 
-|
+1.1.1.b.2. |
 
-0.3.2.4.7. Incomplète
+Usure fortement avancée ou jeu |
 
 |
 
-|
+Majeure |
 
-O
+1.1.2. ÉTAT ET COURSE DE LA PÉDALE DU DISPOSITIF DE FREINAGE
 
-|
+1.1.2.a.2. |
 
-T
+Course trop grande, réserve de course insuffisante |
 
 |
 
-0.3.2.4.8. Non valide
+Majeure |
 
-|
+1.1.2.b.1. |
 
+Dégagement du frein rendu difficile |
+
 |
 
-S
+Mineure |
 
-|
+1.1.2.b.2. |
 
-T
+Dégagement du frein rendu difficile : fonctionnalité réduite |
 
 |
 
-0.4. PRESENTATION DU VÉHICULE
+Majeure |
 
-|
+1.1.2.c.2. |
 
-|
+Caoutchouc ou dispositif antidérapant de la pédale de frein manquant, mal fixé ou usé |
 
 |
 
-|
+Majeure |
 
-0.4.1. ETAT DE CHARGE DU VÉHICULE
+1.1.3. POMPE À VIDE, COMPRESSEUR OU RÉSERVOIRS
 
-|
+1.1.3.a.2 |
 
-|
+Pression insuffisante pour assurer un freinage répété (au moins quatre actionnements) après déclenchement du signal avertisseur (ou lorsque le manomètre se trouve dans la zone danger ) |
 
 |
 
-|
+Majeure |
 
-0.4.1.4. DIVERS
+1.1.3.a.3 |
 
-|
+Pression insuffisante pour assurer un freinage répété (au moins deux actionnements) après déclenchement du signal avertisseur (ou lorsque le manomètre se trouve dans la zone danger ) |
 
 |
 
-|
+Critique |
 
-|
+1.1.3.b.2 |
 
-0.4.1.4.1. Charge insuffisante pour valider les essais de frein
+Le temps nécessaire pour obtenir une pression d'une valeur de fonctionnement sûr est trop long par rapport aux exigences |
 
 |
 
-|
+Majeure |
 
-S
+1.1.3.c.3 |
 
+Indépendance des circuits de freinage non assurée |
+
 |
 
-T
+Critique |
 
-|
+1.1.3.d.2 |
 
-0.4.1.4.2. A représenter en charge
+Fuite d'air provoquant une chute de pression sensible ou fuites d'air perceptibles |
 
 |
 
-|
+Majeure |
 
-X
+1.1.3.e.2 |
 
-|
+Dommage externe susceptible de nuire au bon fonctionnement du système de freinage |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-0.4.1.4.3. Charge mal arrimée
+1.1.3.e.3 |
 
-|
+Dommage externe susceptible de nuire au bon fonctionnement du système de freinage : performances du frein de secours insuffisantes |
 
-|
+[Loc] |
 
-X
+Critique |
 
-|
+1.1.4. MANOMÈTRE OU INDICATEUR DE PRESSION BASSE
 
-T
+1.1.4.a.1 |
 
+Dysfonctionnement ou défectuosité du manomètre ou de l'indicateur |
+
 |
 
-0.4.1.4.4. Véhicule tracteur présenté en solo
+Mineure |
 
-|
+1.1.4.a.2 |
 
+Faible pression non détectable |
+
 |
 
-X
+Majeure |
 
-|
+1.1.5. ROBINET DE FREINAGE À MAIN
 
-T
+1.1.5.a.2 |
 
+Robinet fissuré, endommagé ou présentant une usure fortement avancée |
+
 |
 
-0.4.2. ETAT DE PRESENTATION DU VÉHICULE
+Majeure |
 
-|
+1.1.5.b.2 |
 
-|
+Manque de fiabilité de la commande de la valve ou défaut de la valve de nature à compromettre la sécurité |
 
 |
 
-|
+Majeure |
 
-0.4.2.4. DIVERS
+1.1.5.c.2 |
 
-|
+Connexions mal fixées ou mauvaise étanchéité dans le système |
 
 |
 
-|
+Majeure |
 
-|
+1.1.5.d.2 |
 
-0.4.2.4.1. Modification du véhicule nécessitant une RTI
+Mauvais fonctionnement |
 
 |
 
-|
+Majeure |
 
-S
+1.1.6. COMMANDE DU FREIN DE STATIONNEMENT
 
-|
+1.1.6.a.2 |
 
-T
+Verrouillage insuffisant |
 
 |
 
-0.4.2.4.2. Véhicule sale empêchant le contrôle
+Majeure |
 
-|
+1.1.6.b.1 |
 
+Usure au niveau de l'axe du levier ou du mécanisme du levier à cliquet |
+
 |
 
-X
+Mineure |
 
-|
+1.1.6.b.2 |
 
-T
+Usure excessive au niveau de l'axe du levier ou du mécanisme du levier à cliquet |
 
 |
 
-0.4.2.4.3. Défaut mécanique empêchant le contrôle
+Majeure |
 
-|
+1.1.6.c.2 |
+
+Course trop longue (réglage incorrect) |
 
 |
 
-X
+Majeure |
 
-|
+1.1.6.d.2 |
 
-T
+Actionneur manquant, endommagé ou ne fonctionnant pas |
 
 |
 
-0.4.2.4.4. A représenter sur un centre muni d'un freinomètre
+Majeure |
 
-|
+1.1.6.e.2 |
 
+Mauvais fonctionnement, signal avertisseur indiquant un dysfonctionnement |
+
 |
 
-X
+Majeure |
 
-|
+1.1.7. VALVES DE FREINAGE
 
-T
+1.1.7.a.2 |
 
-|
+Valve endommagée ou fuite d'air excessive |
 
-0.4.2.4.5. A représenter avec le même véhicule tracteur
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.7.a.3 |
 
-C
+Valve endommagée ou fuite d'air excessive : fonctionnalité réduite |
 
-|
+[Loc] |
 
-R
+Critique |
 
-|
+1.1.7.b.1 |
 
-0.4.2.4.6. A représenter avec le même véhicule remorqué
+Pertes d'huile trop importantes provenant du compresseur |
 
 |
 
-|
+Mineure |
 
-C
+1.1.7.c.2 |
 
-|
+Manque de fiabilité de la valve ou valve mal montée |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-0.4.3. CONDITIONS D'ESSAIS
+1.1.7.d.2 |
 
-|
+Fuite ou perte de liquide hydraulique |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.7.d.3 |
 
-0.4.3.4. DIVERS
+Fuite ou perte de liquide hydraulique : fonctionnalité réduite |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.8. TÊTES D'ACCOUPLEMENT POUR FREINS DE REMORQUE
 
-|
+1.1.8.a.1 |
 
-0.4.3.4.1. Installations de contrôle hors service
+Robinets ou valve à fermeture automatique défectueux |
 
 |
 
-|
+Mineure |
+
+1.1.8.a.2 |
 
-X
+Robinets ou valve à fermeture automatique défectueux : fonctionnalité réduite |
 
 |
 
-T
+Majeure |
 
-|
+1.1.8.b.2 |
 
-0.4.3.4.2. Faible adhérence
+Manque de fiabilité du robinet ou de la valve ou valve mal montée : fonctionnalité réduite ou absence |
 
 |
 
-|
+Majeure |
 
-C
+1.1.8.c.2 |
 
+Etanchéité insuffisante |
+
 |
 
-T
+Majeure |
 
-|
+1.1.8.c.3 |
 
-0.4.3.4.3. Suspension pneumatique
+Etanchéité insuffisante : fonctionnalité réduite |
 
 |
 
-|
+Critique |
+
+1.1.8.d.3 |
 
-C
+Fonctionnement du frein affecté |
 
 |
 
-T
+Critique |
 
-|
+1.1.9. ACCUMULATEUR, RÉSERVOIR DE PRESSION
 
-0.4.3.4.4. Centre de gravité élevé
+1.1.9.a.1 |
 
-|
+Réservoir légèrement endommagé ou présentant une légère corrosion |
 
 |
 
-C
+Mineure |
 
-|
+1.1.9.a.2 |
 
-T
+Réservoir gravement endommagé : corrosion ou fuite |
 
 |
 
-0.4.3.4.5. Essais sur piste
+Majeure |
 
-|
+1.1.9.b.1 |
 
+Fonctionnement du purgeur affecté |
+
 |
 
-C
+Mineure |
 
-|
+1.1.9.b.2 |
 
-T
+Purgeur inopérant |
 
 |
 
-0.4.3.4.6. Contrôle sur fosse impossible
+Majeure |
 
-|
+1.1.9.c.2 |
+
+Manque de fiabilité du réservoir ou réservoir mal monté |
 
 |
 
-C
+Majeure |
 
-|
+1.1.9.d.1 |
 
-T
+Défaut d'identification |
 
 |
 
-0.4.3.4.7. Véhicule spécifique contrôlé sur site déporté
+Mineure |
 
-|
+1.1.10. DISPOSITIF DE FREINAGE ASSISTÉ, MAÎTRE-CYLINDRE (SYSTÈMES HYDRAULIQUES)
 
-|
+1.1.10.a.2 |
 
-C
+Dispositif de freinage assisté défectueux |
 
 |
 
-T
+Majeure |
 
-|
+1.1.10.a.3 |
 
-0.4.3.4.8. Véhicule contrôlé sur site isolé
+Dispositif de freinage assisté ne fonctionnant pas |
 
 |
 
-|
+Critique |
+
+1.1.10.b.2 |
 
-C
+Maître-cylindre défectueux, mais freinage toujours opérant |
 
 |
 
-T
+Majeure |
 
-|
+1.1.10.b.3 |
 
-0.4.4. LONGUEUR
+Maître-cylindre défectueux ou non étanche |
 
 |
 
-|
+Critique |
 
-|
+1.1.10.c.2 |
+
+Fixation insuffisante du maître-cylindre, mais frein toujours opérant |
 
 |
 
-0.4.4.4. DIVERS
+Majeure |
 
-|
+1.1.10.c.3 |
 
-|
+Fixation insuffisante du maître-cylindre |
 
 |
 
-|
+Critique |
 
-0.4.4.4.2. Excessive
+1.1.10.d.2 |
 
-|
+Niveau du liquide de frein sous la marque MIN |
 
 |
 
-S
+Majeure |
 
-|
+1.1.10.d.3 |
 
-T
+Pas de liquide de frein visible |
 
 |
 
-0.4.5. LARGEUR
+Critique |
 
-|
+1.1.10.e.2 |
 
-|
+Réservoir du maître-cylindre détérioré |
 
 |
 
-|
+Majeure |
 
-0.4.5.4. DIVERS
+1.1.10.e.3 |
 
-|
+Réservoir manquant |
 
 |
 
-|
+Critique |
 
-|
+1.1.10.f.1 |
 
-0.4.5.4.2. Excessive
+Témoin du liquide des freins allumé ou défectueux |
 
 |
 
-|
+Mineure |
 
-S
+1.1.10.g.2 |
 
+Fonctionnement défectueux du dispositif avertisseur de détection de niveau insuffisant du liquide |
+
 |
 
-T
+Majeure |
 
-|
+1.1.11. CONDUITES RIGIDES DES FREINS
 
-0.4.6. GENRE
+1.1.11.a.3 |
 
-|
+Risque imminent de défaillance ou de rupture |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.11.b.2 |
 
-0.4.6.4. DIVERS
+Manque d'étanchéité des conduites ou des raccords (freins pneumatiques) |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.11.b.3 |
 
-|
+Manque d'étanchéité des conduites ou des raccords (freins hydrauliques) |
 
-0.4.6.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.11.c.2 |
 
-S
+Endommagement ou corrosion excessive |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+1.1.11.c.3 |
 
-0.4.6.4.2. Non concordance avec le certificat d'immatriculation
+Endommagement ou corrosion excessive affectant le fonctionnement des freins par blocage ou risque imminent de perte d'étanchéité |
 
-|
+[Loc] |
 
-|
+Critique |
 
-O
+1.1.11.d.1 |
 
-|
+Conduites mal placées |
 
-T
+[Loc] |
 
-|
+Mineure |
 
-0.4.7. CARROSSERIE
+1.1.11.d.2 |
 
-|
+Conduites mal placées : risques d'endommagement |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.12. FLEXIBLES DE FREIN
 
-0.4.7.4. DIVERS
+1.1.12.a.3 |
 
-|
+Risque imminent de défaillance ou de rupture |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.12.b.1 |
 
-0.4.7.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+Endommagement, points de friction, flexibles torsadés ou trop courts |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-S
+1.1.12.b.2 |
 
-|
+Flexibles endommagés ou frottant contre une autre pièce |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-0.4.7.4.2. Non concordance avec le certificat d'immatriculation
+1.1.12.c.2 |
 
-|
+Manque d'étanchéité des flexibles ou des raccords (freins pneumatiques) |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+1.1.12.c.3 |
 
-T
+Manque d'étanchéité des flexibles ou des raccords (freins hydrauliques) |
 
-|
+[Loc] |
 
-0.4.8. PTAC
+Critique |
 
-|
+1.1.12.d.2 |
 
-|
+Gonflement excessif des flexibles |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-0.4.8.4. DIVERS
+1.1.12.d.3 |
 
-|
+Gonflement excessif des flexibles : tresse altérée |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.12.e.2 |
 
-0.4.8.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+Flexibles poreux |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-S
+1.1.12.f.2 |
 
-|
+Flexibles mal placés |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-0.4.8.4.2. Non concordance avec le certificat d'immatriculation
+1.1.13. GARNITURES OU PLAQUETTES DE FREIN
 
-|
+1.1.13.a.1 |
 
-|
+Usure importante |
 
-O
+[Loc] |
 
-|
+Mineure |
 
-T
+1.1.13.a.2 |
 
-|
+Usure excessive (marque minimale atteinte) |
 
-0.4.8.4.2. PTRA
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.13.a.3 |
 
-|
+Usure excessive (marque minimale non visible) |
 
-|
+[Loc] |
 
-0.4.9.4. DIVERS
+Critique |
 
-|
+1.1.13.b.2 |
 
-|
+Garnitures ou plaquettes encrassées par de l'huile, de la graisse, etc. |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-0.4.9.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+1.1.13.b.3 |
 
-|
+Garnitures ou plaquettes encrassées par de l'huile, de la graisse, etc. : performances de freinage réduites |
 
-|
+[Loc] |
 
-S
+Critique |
 
-|
+1.1.13.c.3 |
 
-M
+Garnitures ou plaquettes absentes ou mal montées |
 
-|
+[Loc] |
 
-0.4.9.4.2. Non concordance avec le certificat d'immatriculation
+Critique |
 
-|
+1.1.13.d.1 |
 
-|
+Faisceau électrique du témoin d'usure déconnecté ou détérioré |
 
-O
+[Loc] |
 
-|
+Mineure |
 
-M
+1.1.14. TAMBOURS DE FREINS, DISQUES DE FREIN
 
-|
+1.1.14.a.2 |
 
-0.4.10. ENERGIE MOTEUR
+Disque ou tambour usé |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.14.a.3 |
 
-|
+Disque ou tambour excessivement usé, excessivement rayé, fissuré, mal fixé ou cassé |
 
-0.4.10.4. DIVERS
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.14.b.2 |
 
-|
+Tambours ou disques encrassés par de l'huile, de la graisse, etc |
 
-|
+[Loc] |
 
-0.4.10.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+Majeure |
 
-|
+1.1.14.b.3 |
 
-|
+Tambours ou disques encrassés par de l'huile, de la graisse, etc. : performances de freinage réduites |
 
-S
+[Loc] |
 
-|
+Critique |
 
-M
+1.1.14.c.3 |
 
-|
+Absence de tambour ou de disque |
 
-0.4.10.4.2. Non concordance avec le certificat d'immatriculation
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.14.d.2 |
 
-O
+Plateau mal fixé |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+1.1.15. CÂBLES DE FREINS, TIMONERIE
 
-0.4.11. NOMBRE DE PLACES ASSISES
+1.1.15.a.2 |
 
-|
+Câbles endommagés ou flambage |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.15.a.3 |
 
-0.4.11.4. DIVERS
+Câbles endommagés ou flambage : performances de freinage réduite |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.15.b.2 |
 
-|
+Usure ou corrosion fortement avancée |
 
-0.4.11.4.1. Non concordance avec le certificat d'immatriculation nécessitant une RTI
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.15.b.3 |
 
-S
+Usure ou corrosion fortement avancée : performances de freinage réduites |
 
-|
+[Loc] |
 
-M
+Critique |
 
-|
+1.1.15.c.2 |
 
-0.4.11.4.2. Non concordance avec le certificat d'immatriculation
+Défaut des jonctions de câbles ou de tringles de nature à compromettre la sécurité |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+1.1.15.d.2 |
 
-|
+Fixation des câbles défectueuse |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-1. FREINAGE
+1.1.15.e.2 |
 
-|
+Entrave du mouvement du système de freinage |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
-
-1.1. MESURES-ESSAIS
-
-|
-
-|
-
-|
-
-|
-
-1.1.1. FREIN DE SERVICE
-
-|
-
-|
-
-|
-
-|
-
-1.1.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.1.2.1. Efficacité globale insuffisante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.1.2.2. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.1.2.3. Mauvais fonctionnement
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.1.2.4. Fonctionnement anormal
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.1.2.5. Déséquilibre important
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.1.2.6. Déséquilibre notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.1.2.7. Déséquilibre
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.1.2.8. Freinage résiduel
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.1.1.4.1. Essai non réalisable en raison de l'état du véhicule
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.2. FREIN DE SECOURS
-
-|
-
-|
-
-|
-
-|
-
-1.1.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.2.2.1. Efficacité globale insuffisante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.2.2.2. Non fonctionnement
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.2.2.3. Mauvais fonctionnement
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.2.2.4. Fonctionnement anormal
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.2.2.5. Déséquilibre important
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.2.2.6. Déséquilibre notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.2.2.7. Déséquilibre
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.1.2.4.1. Essai non réalisable en raison de l'état du véhicule
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.3. FREIN DE STATIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.3.2.1. Efficacité globale insuffisante
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.1.3.2.2. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.1.3.2.3. Mauvais fonctionnement
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.3.2.4. Fonctionnement anormal
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.1.3.4.1. Essai non réalisable en raison de l'état du véhicule
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.1.3.4.2. Essai en palier
-
-|
-
-|
-
-C
-
-|
-
-M
-
-|
-
-1.1.3.4.3. Essai sur pente
-
-|
-
-|
-
-C
-
-|
-
-M
-
-|
-
-1.1.4. RALENTISSEUR
-
-|
-
-|
-
-|
-
-|
-
-1.1.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.4.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.1.4.2.2. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.1.4.2.3. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.1.4.4.1. Essai non réalisable en raison de la conception du ralenti
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.1.5. INDEPENDANCE
-
-|
-
-|
-
-|
-
-|
-
-1.1.5.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.5.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.1.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.1.5.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.1.5.4.2. Contrôle non réalisable par construction
-
-|
-
-|
-
-C
-
-|
-
-M
-
-|
-
-1.1.6. FREIN DE RUPTURE
-
-|
-
-|
-
-|
-
-|
-
-1.1.6.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.1.6.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-R
-
-|
-
-1.2. CIRCUIT
-
-|
-
-|
-
-|
-
-|
-
-1.2.1. RESERVOIR DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.1.1.1. Détérioration notable
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.1.1.2. Détérioration
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.1.3. Défaut important d'étanchéité
-
-|
-
-2671
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.1.1.4. Défaut notable d'étanchéité
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.1.1.5. Défaut mineur d'étanchéité
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.1.6. Altération niveau visible
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.1.3.1. Défaut notable de fixation
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.1.3.2. Défaut de fixation
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.1.4.1. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.1.4.2. Identification impossible
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.4.3. Défaut d'épreuve
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.4.4. Réserve insuffisante
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.1.4.5. Mauvais repérage
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.1.4.6. Défaut de protection
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.2. ACCUMULATEUR PRESSION
-
-|
-
-|
-
-|
-
-|
-
-1.2.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.2.1.1. Détérioration notable
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.2.1.2. Détérioration
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.2.1.3. Défaut important d'étanchéité
-
-|
-
-2671
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.2.1.4. Défaut notable d'étanchéité
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.2.1.5. Défaut mineur d'étanchéité
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.2.3.1. Défaut notable de fixation
-
-|
-
-2671
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.2.3.2. Défaut de fixation
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.2.4.1. Réserve insuffisante
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.2.4.2. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.3. PURGE DE RESERVOIR
-
-|
-
-|
-
-|
-
-|
-
-1.2.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.3.2.1. Fonctionnement anormal
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.3.3.1. Défaut de positionnement
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.3.4.1. Absence
-
-|
-
-2671
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.3.4.2. Contrôle impossible
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.4. MAITRE-CYLINDRE
-
-|
-
-|
-
-|
-
-|
-
-1.2.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.4.1.1. Défaut important d'étanchéité
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.2.4.1.2. Défaut notable d'étanchéité
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.4.1.3. Défaut mineur d'étanchéité
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.4.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.4.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.4.4.1. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.5. COMPRESSEUR
-
-|
-
-|
-
-|
-
-|
-
-1.2.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.5.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.5.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.5.2.1. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.2.5.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.2.6. CIRCUIT DE FREINAGE
-
-|
-
-|
-
-|
-
-|
-
-1.2.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.6.1.1. Défaut important d'étanchéité
-
-|
-
-1347
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.6.1.2. Défaut notable d'étanchéité
-
-|
-
-1347
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.6.1.3. Défaut mineur d'étanchéité
-
-|
-
-1347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.7. CANALISATION DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.2.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.7.1.1. Détérioration notable
-
-|
-
-1347
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.7.1.2. Détérioration
-
-|
-
-1347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.7.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.7.2.1. Frottement
-
-|
-
-1347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.7.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.7.3.1. Défaut de positionnement
-
-|
-
-1347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.7.3.2. Défaut de fixation
-
-|
-
-1347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.7.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.7.4.1. Absence
-
-|
-
-1347
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.7.4.2. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.8. FLEXIBLE DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.2.8.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.8.1.1. Détérioration notable
-
-|
-
-13487
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.8.1.2. Détérioration
-
-|
-
-13487
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.8.1.3. Fuite importante
-
-|
-
-13487
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.8.1.4. Fuite notable
-
-|
-
-13487
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.8.1.5. Fuite
-
-|
-
-13487
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.8.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.8.2.1. Frottement
-
-|
-
-13487
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.8.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.8.3.1. Défaut de positionnement
-
-|
-
-13487
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.8.3.2. Défaut de fixation
-
-|
-
-13487
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.8.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.8.4.1. Absence
-
-|
-
-13487
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.9. VALVE
-
-|
-
-|
-
-|
-
-|
-
-1.2.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.9.1.1. Détérioration notable
-
-|
-
-91
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.9.1.2. Détérioration
-
-|
-
-91
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.9.1.3. Défaut important d'étanchéité
-
-|
-
-91
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.9.1.4. Défaut notable d'étanchéité
-
-|
-
-91
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.9.1.5. Défaut mineur d'étanchéité
-
-|
-
-91
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.9.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.9.3.1. Défaut de notable de fixation
-
-|
-
-91
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.9.3.2. Défaut de fixation
-
-|
-
-91
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.9.4.1. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.10. CORRECTEUR, REPARTITEUR DE FREINAGE
-
-|
-
-|
-
-|
-
-|
-
-1.2.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.10.1.1. Cassure
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.10.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.10.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.10.1.4. Défaut important d'étanchéité
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.10.1.5. Défaut notable d'étanchéité
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.10.1.6. Défaut mineur d'étanchéité
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.10.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.10.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.10.2.2. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.10.2.3. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.10 3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.10.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.10.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.10.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.10.4.2. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.10.4.3. Absence de plaque
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.11. MAINS D'ACCOUPLEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.2.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.11.1.1. Détérioration notable
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.11.1.2. Détérioration
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.11.1.3. Défaut important d'étanchéité
-
-|
-
-234
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.11.1.4. Défaut notable d'étanchéité
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.11.1.5. Défaut mineur d'étanchéité
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.11.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.2.11.3.1. Défaut de fixation
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.11.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.2.11.4.1. Montage inadapté
-
-|
-
-234
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.2.11.4.2. Absence
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.2.11.4.3. Absence main BNA
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.11.4.4. Repérage inadapté
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.2.12. PRISE (S) DE PRESSION
-
-|
-
-|
-
-|
-
-|
-
-1.2.12.1.1 ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.2.12.1.1. Détérioration |
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3. ELEMENTS DE COMMANDE
-
-|
-
-|
-
-|
-
-|
-
-1.3.1. COMMANDE DU FREIN DE SERVICE
-
-|
-
-|
-
-|
-
-|
-
-1.3.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.3.1.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.3.1.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.1.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.3.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.3.1.2.1. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.1.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.3.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.3.1.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.1.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.3.2. COMMANDE DU FREIN DE SECOURS
-
-|
-
-|
-
-|
-
-|
-
-1.3.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.3.2.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.2.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.3.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.3.2.2.2. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.2.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.3.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.3.2.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.2.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.3.3. COMMANDE DU FREIN DE STATIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.3.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.3.3.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.3.3.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.3.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.3.3.2.1. Non fonctionnement
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-1.3.3.2.2. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.3.2.3. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.3.3.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.3.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.3.3.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-R
-
-|
-
-1.3.4. CABLE, TRINGLERIE DU FREIN DE STATIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.3.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.3.4.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.4.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.3.4.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.4.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.3.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.3.4.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-R
-
-|
-
-1.3.4.4.2. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.3.5. COMMANDE DU RALENTISSEUR
-
-|
-
-|
-
-|
-
-|
-
-1.3.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.3.5.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-1.3.5.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-1.4. ORGANES DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.4.1. DISQUE DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.4.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.1.1.1. Détérioration importante
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.1.1.2. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.1.1.3. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.1.3.1. Défaut important de fixation
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.1.3.2. Défaut notable de fixation
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.1.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.1.4.2. Présence notable d'huile
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.1.4.3. Présence d'huile
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.2. RECEPTEUR
-
-|
-
-|
-
-|
-
-|
-
-1.4.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.2.1.1. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.2.1.2. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.2.1.3. Défaut important d'étanchéité
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.2.1.4. Défaut notable d'étanchéité
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.2.1.5. Défaut mineur d'étanchéité
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.4.2.2.1. Non fonctionnement
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.2.2.2. Mauvais fonctionnement
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.2.2.3. Fonctionnement anormal
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.2.3.1. Défaut important de fixation
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.2.3.2. Défaut notable de fixation
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.2.3.3. Défaut de fixation
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.2.4.1. Asymétrie
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.3. CYLINDRE DE ROUE
-
-|
-
-|
-
-|
-
-|
-
-1.4.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.3.1.1. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.3.1.2. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.3.1.3. Défaut important d'étanchéité
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.3.1.4. Défaut notable d'étanchéité
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.3.1.5. Défaut mineur d'étanchéité
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.4.3.2.1. Non fonctionnement
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.3.2.2. Mauvais fonctionnement
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.3.2.3. Fonctionnement anormal
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.3.3.1. Défaut important de fixation
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.3.3.2. Défaut notable de fixation
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.3.3.3. Défaut de fixation
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.3.4.1. Asymétrie
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.4. ETRIER
-
-|
-
-|
-
-|
-
-|
-
-1.4.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.4.1.1. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.4.1.2. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.4.1.3. Défaut important d'étanchéité
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.4.1.4. Défaut notable d'étanchéité
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.4.1.5. Défaut mineur d'étanchéité
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.4.4.2.1. Non fonctionnement
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.4.2.2. Mauvais fonctionnement
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.4.2.3. Fonctionnement anormal
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.4.3.1. Défaut important de fixation
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.4.3.2. Défaut notable de fixation
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.4.3.3. Défaut de fixation
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.4.4.1. Asymétrie
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.5. TAMBOUR DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.4.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.5.1.1. Détérioration importante
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.5.1.2. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.5.1.3. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.5.4.1. Absence
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.5.4.2. Présence notable d'huile
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.5.4.3. Présence d'huile
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.6. PLAQUETTE - GARNITURE DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.4.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.6.1.1. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.6.1.2. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.6.4.1. Absence
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.7. LEVIER DE FREIN
-
-|
-
-|
-
-|
-
-|
-
-1.4.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.7.1.1. Cassure
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.7.1.2. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.7.1.3. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.7.3. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.7.3.1. Absence
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.7.3.2. Asymétrie
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.8. AXE DE CAME
-
-|
-
-|
-
-|
-
-|
-
-1.4.8.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.4.8.2.1. Jeu anormal
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.8.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.8.4.1. Absence
-
-|
-
-137
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.9. FLASQUE
-
-|
-
-|
-
-|
-
-|
-
-1.4.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.9.1.1. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.9.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.9.3.1. Défaut de fixation
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.9.4.1. Absence
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.10. RALENTISSEUR
-
-|
-
-|
-
-|
-
-|
-
-1.4.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.10.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.10.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-1.4.10.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.10.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.10.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.10.4.1. Absence dispositif obligatoire
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.10.4.2. Absence (mentionné sur le CI)
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.11. SYSTEME ANTI-BLOCAGE OU CONTROLE TRAJECTOIRE
-
-|
-
-|
-
-|
-
-|
-
-1.4.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-1.4.11.1.1. Détérioration notable des connexions
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-1.4.11.1.2. Détérioration des connexions
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-1.4.11.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-1.4.11.2.1. Non fonctionnement du dispositif obligatoire
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-1.4.11.2.2. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
+1.1.15.f.2 |
 
-T
+Mouvement anormal de la timonerie à la suite d'un mauvais réglage ou d'une usure excessive |
 
-|
-
-1.4.11.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-1.4.11.4.1. Absence dispositif obligatoire
-
-|
-
-|
-
-R
+[Loc] |
 
-|
-
-T
-
-|
-
-1.4.11.4.2. Absence de liaison
-
-|
-
-|
-
-S
-
-|
+Majeure |
 
-T
+1.1.16. CYLINDRES OU ÉTRIERS DE FREINS
 
-|
+1.1.16.a.2 |
 
-1.4.11.4.3. Absence (dispositif non obligatoire)
+Cylindre ou étrier fissuré ou endommagé |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+1.1.16.a.3 |
 
-|
+Cylindre ou étrier fissuré ou endommagé : performances de freinage réduites |
 
-T
+[Loc] |
 
-|
+Critique |
 
-1.5. ASSISTANCE DE FREINAGE A DEPRESSION
+1.1.16.b.1 |
 
-|
+Défaut mineur d'étanchéité |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+1.1.16.b.2 |
 
-1.5.1. ASSISTANCE DE FREINAGE
+Etanchéité insuffisante |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.16.b.3 |
 
-|
+Etanchéité insuffisante : performances de freinage réduites |
 
-1.5.1.1. ETAT
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.16.c.2 |
 
-|
+Défaut du cylindre ou de l'étrier ou actionneur mal monté compromettant la sécurité |
 
-|
+[Loc] |
 
-1.5.1.1.1. Défaut d'étanchéité
+Majeure |
 
-|
+1.1.16.c.3 |
 
-|
+Défaut du cylindre ou de l'étrier ou actionneur mal monté compromettant la sécurité : performances de freinage réduites |
 
-O
+[Loc] |
 
-|
+Critique |
 
-T
+1.1.16.d.2 |
 
-|
+Corrosion excessive |
 
-1.5.1.2. FONCTIONNEMENT
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.16.d.3 |
 
-|
+Corrosion excessive : risque de fissure |
 
-|
+[Loc] |
 
-1.5.1.2.1. Mauvais fonctionnement |
+Critique |
 
-|
+1.1.16.e.2 |
 
-S
+Course excessive ou insuffisante du piston ou de la membrane |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+1.1.16.e.3 |
 
-1.5.1.4. DIVERS
+Course excessive ou insuffisante du piston ou de la membrane : performances de freinage réduites (réserve insuffisante pour le mouvement) |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+1.1.16.f.1 |
 
-|
+Capuchon anti-poussière endommagé |
 
-1.5.1.4.1. Absence du dispositif prévu à l'origine
+[Loc] |
 
-|
+Mineure |
 
-|
+1.1.16.f.2 |
 
-R
+Capuchon anti-poussière manquant ou excessivement endommagé |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+1.1.17. CORRECTEUR AUTOMATIQUE DE FREINAGE
 
-1.5.1.4.2. Contrôle impossible
+1.1.17.a.2 |
 
-|
+Liaison défectueuse |
 
 |
 
-R
+Majeure |
 
-|
+1.1.17.b.2 |
 
-T
+Mauvais réglage de la liaison |
 
 |
 
-1.6. TEMOINS
-
-|
+Majeure |
 
-|
+1.1.17.c.2 |
 
-|
+Valve grippée ou inopérante ou défaut d'étanchéité (l'ABS fonctionne) |
 
 |
 
-1.6.1. SIGNAL D'ALARME DU FREIN DE SERVICE
-
-|
+Majeure |
 
-|
+1.1.17.c.3 |
 
-|
+Valve grippée ou inopérante ou défaut d'étanchéité |
 
 |
 
-1.6.1.1. ETAT
+Critique |
 
-|
+1.1.17.d.3 |
 
-|
+Valve manquante (si requise) |
 
 |
 
-|
+Critique |
 
-1.6.1.1.1. Détérioration
+1.1.17.e.1 |
 
-|
+Plaque signalétique manquante |
 
 |
 
-O
+Mineure |
 
-|
+1.1.17.f.1 |
 
-M
+Données illisibles ou non conformes aux exigences |
 
 |
-
-1.6.1.2. FONCTIONNEMENT
 
-|
+Mineure |
 
-|
+1.1.18. LEVIERS DE FREIN RÉGLABLES ET INDICATEURS
 
-|
+1.1.18.a.2 |
 
-|
+Levier endommagé, grippé ou présentant un mouvement anormal, une usure excessive ou un mauvais réglage |
 
-1.6.1.2.1. Mauvais fonctionnement
+[Loc] |
 
-|
+Majeure |
 
-|
+1.1.18.b.2 |
 
-S
+Levier défectueux |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+1.1.18.c.2 |
 
-1.6.1.2.2. Fonctionnement anormal
+Mauvais montage ou remontage |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+1.1.19. SYSTÈME DE FREINAGE D'ENDURANCE (POUR LES VÉHICULES ÉQUIPÉS)
 
-|
+1.1.19.a.1 |
 
-M
+Mauvais montage ou défaut de connexion |
 
 |
-
-1.6.1.4. DIVERS
 
-|
+Mineure |
 
-|
+1.1.19.a.2 |
 
-|
+Mauvais montage ou défaut de connexion : fonctionnalité réduite |
 
 |
-
-1.6.1.4.1. Absence
 
-|
+Majeure |
 
-|
+1.1.19.b.2 |
 
-S
+Système manifestement défectueux ou manquant |
 
 |
 
-M
-
-|
+Majeure |
 
-1.6.2. TEMOIN DE FREIN DE SECOURS
+1.1.20. FONCTIONNEMENT AUTOMATIQUE DES FREINS DE LA REMORQUE
 
-|
+1.1.20.a.3 |
 
-|
+Le frein de la remorque ne s'applique pas automatiquement lorsque l'accouplement est déconnecté |
 
 |
 
-|
+CRITIQUE |
 
-1.6.2.1. ETAT
+1.1.21. SYSTÈME DE FREINAGE COMPLET
 
-|
+1.1.21.a.2 |
 
-|
+Dispositifs (pompe à antigel, dessiccateur d'air, etc.) endommagés extérieurement ou présentant une corrosion excessive qui porte atteinte au système de freinage |
 
 |
 
-|
+Majeure |
 
-1.6.2.1.1. Détérioration
+1.1.21.a.3 |
 
-|
+Dispositifs (pompe à antigel, dessiccateur d'air, etc.) endommagés extérieurement ou présentant une corrosion excessive qui porte atteinte au système de freinage : performances de freinage réduites |
 
 |
 
-O
+Critique |
 
-|
+1.1.21.b.1 |
 
-M
+Fuite d'air ou d'antigel |
 
-|
+[Loc] |
 
-1.6.2.2. FONCTIONNEMENT
+Mineure |
 
-|
+1.1.21.b.2 |
 
-|
+Fuite d'air ou d'antigel : fonctionnalité du système réduite |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-1.6.2.2.1. Fonctionnement anormal
+1.1.21.c.2 |
 
-|
+Défaut de tout élément de nature à compromettre la sécurité ou élément mal monté |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+1.1.21.d.2 |
 
-M
+Modification dangereuse d'un élément |
 
-|
+[Loc] |
 
-1.6.3. TEMOIN DE FREIN DE STATIONNEMENT
+Majeure |
 
-|
+1.1.21.d.3 |
 
-|
+Modification dangereuse d'un élément : performances de freinage réduites |
 
-|
+[Loc] |
 
-|
+Critique |
 
-1.6.3.1. ETAT
+1.1.22. PRISES D'ESSAI (LORSQU'ELLES SONT INSTALLÉES OU REQUISES SUR LE VÉHICULE)
 
-|
+1.1.22.a.2 |
 
-|
+Manquantes |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-1.6.3.1.1. Détérioration
+1.1.22.b.1 |
 
-|
+Endommagées |
 
-|
+[Loc] |
 
-O
+Mineure |
 
-|
+1.1.22.b.2 |
 
-M
+Inutilisables ou non étanches |
 
-|
+[Loc] |
 
-1.6.3.2. FONCTIONNEMENT
+Majeure |
 
-|
+1.1.23. FREIN À INERTIE
 
-|
+1.1.23.a.2 |
 
-|
+Efficacité insuffisante |
 
 |
 
-1.6.3.2.1. Fonctionnement anormal
+Majeure |
 
-|
-
-|
+1.2. PERFORMANCES ET EFFICACITÉ DU FREIN DE SERVICE
 
-O
+1.2.1. PERFORMANCES DU FREIN DE SERVICE
 
-|
+1.2.1.a.2 |
 
-M
+Freinage insuffisant sur une ou plusieurs roues |
 
-|
+[Loc] |
 
-1.6.3.4. DIVERS
+Majeure |
 
-|
+1.2.1.a.3 |
 
-|
+Freinage inexistant sur une ou plusieurs roues |
 
-|
+[Loc] |
 
-|
+Critique |
 
-1.6.3.4.1. Absence
+1.2.1.b.1 |
 
-|
+Déséquilibre |
 
-|
+[Loc] |
 
-S
+Mineure |
 
-|
+1.2.1.b.2 |
 
-M
+Déséquilibre notable |
 
-|
+[Loc] |
 
-1.6.4. TEMOIN DU DISPOSITIF ANTI-BLOCAGE
+Majeure |
 
-|
+1.2.1.b.3 |
 
-|
+Déséquilibre important sur l'essieu directeur |
 
-|
+[Loc] |
 
-|
+Critique |
 
-1.6.4.1. ETAT
+1.2.1.c.2 |
 
-|
+Freinage non modérable |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+1.2.1.d.2 |
 
-1.6.4.1.1. Détérioration
+Temps de réponse trop long sur l'une des roues |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+1.2.1.e.2 |
 
-|
+Fluctuation excessive de la force de freinage pendant chaque tour de roue |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-1.6.4.2. FONCTIONNEMENT
+1.2.1.f.1 |
 
-|
+Freinage résiduel anormal |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+1.2.2. EFFICACITÉ DU FREIN DE SERVICE
 
-1.6.4.2.1. Non fonctionnement (dispositif obligatoire)
+1.2.2. a. 3 |
 
-|
+Efficacité insuffisante |
 
 |
 
-S
-
-|
+Critique |
 
-T
+1.3. PERFORMANCES ET EFFICACITÉ DU FREIN DE SECOURS
 
-|
+1.3.1. PERFORMANCES DU FREIN DE SECOURS
 
-1.6.4.2.2. Non fonctionnement
+1.3.1.a.2 |
 
-|
+Freinage insuffisant sur une ou plusieurs roues |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+1.3.1.a.3 |
 
-T
+Freinage inexistant sur une ou plusieurs roues |
 
-|
+[Loc] |
 
-1.6.4.4. DIVERS
+Critique |
 
-|
+1.3.1.b.2 |
 
-|
+Déséquilibre notable |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-1.6.4.4.1. Absence (dispositif obligatoire)
+1.3.1.b.3 |
 
-|
+Déséquilibre important sur l'essieu directeur |
 
-|
+[Loc] |
 
-S
+Critique |
 
-|
+1.3.1.c.2 |
 
-T
+Freinage non modérable |
 
-|
+[Loc] |
 
-1.6.4.4.2. Absence
+Majeure |
 
-|
+1.3.2. EFFICACITÉ DU FREIN DE SECOURS
 
-|
+1.3.2.a.3 |
 
-O
+Efficacité insuffisante |
 
 |
-
-T
 
-|
+Critique |
 
-1.6.5. TEMOIN D'USURE DES GARNITURES
+1.4. PERFORMANCES ET EFFICACITÉ DU FREIN DE STATIONNEMENT
 
-|
+1.4.1. PERFORMANCES DU FREIN DE STATIONNEMENT
 
-|
+1.4.1.a.2 |
 
-|
+Frein inopérant d'un côté |
 
-|
+[Loc] |
 
-1.6.5.1. ETAT
+Majeure |
 
-|
+1.4.2 EFFICACITÉ DU FREIN DE STATIONNEMENT
 
-|
+1.4.2.a.3 |
 
-|
+Efficacité insuffisante |
 
 |
 
-1.6.5.1.1. Détérioration
+Critique |
 
-|
+1.5. PERFORMANCE DU SYSTÈME DE FREINAGE D'ENDURANCE
 
-123
+1.5.1. PERFORMANCE DU SYSTÈME DE FREINAGE D'ENDURANCE
 
-|
+1.5.1.a.2 |
 
-O
+Absence de progressivité (non applicable au frein sur échappement) |
 
 |
 
-T
-
-|
+Majeure |
 
-1.6.5.2. FONCTIONNEMENT
+1.5.1.b.2 |
 
-|
+Le système ne fonctionne pas |
 
 |
 
-|
+Majeure |
 
-|
+1.6. SYSTÈME ANTIBLOCAGE (ABS)
 
-1.6.5.2.1. Non fonctionnement
+1.6.1. SYSTÈME ANTIBLOCAGE (ABS)
 
-|
+1.6.1.a.2 |
 
-123
+Mauvais fonctionnement du dispositif d'alerte |
 
 |
 
-O
+Majeure |
 
-|
+1.6.1.b.2 |
 
-T
+Le dispositif d'alerte indique un mauvais fonctionnement du système |
 
 |
 
-1.6.5.4. DIVERS
+Majeure |
 
-|
+1.6.1.c.2 |
 
-|
+Capteur de vitesse de roue manquant ou endommagé |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-1.6.5.4.1. Absence du dispositif prévu à l'origine
+1.6.1.d.2 |
 
-|
+Câblage endommagé |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+1.6.1.e.2 |
 
-T
+Autres composants manquants ou endommagés |
 
-|
+[Loc] |
 
-1.7. FREINAGE ELECTRONIQUE
+Majeure |
 
-|
+1.6.1.f.2 |
 
-|
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-|
+Majeure |
 
-1.7.1. LIAISONS ELECTRIQUES DU FREINAGE ELECTRONIQUE
+1.7. SYSTÈME DE FREINAGE ÉLECTRONIQUE (EBS)
 
-|
+1.7.1. SYSTÈME DE FREINAGE ÉLECTRONIQUE (EBS)
 
-|
+1.7.1.a.2 |
 
-|
+Mauvais fonctionnement du dispositif d'alerte |
 
 |
 
-1.7.1.2. FONCTIONNEMENT
+Majeure |
 
-|
+1.7.1.b.2 |
 
-|
+Le dispositif d'alerte indique un mauvais fonctionnement du système |
 
 |
 
-|
+Majeure |
 
-1.7.1.2.1. Non fonctionnement
+1.7.1.c.2 |
 
-|
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-R
+Majeure |
 
-|
+1.7.1.d.2 |
 
-T
+Absence de dispositif si obligatoire |
 
 |
 
-1.7.1.2.2. Mauvais fonctionnement
+Majeure |
 
-|
-
-|
+1.8. LIQUIDE DE FREIN
 
-S
+1.8.1. LIQUIDE DE FREIN
 
-|
+1.8.1.a.2 |
 
-T
+Liquide de frein contaminé ou sédimenté |
 
 |
 
-1.7.1.2.3. Fonctionnement anormal
+Majeure |
 
-|
-
-|
+1.8.1.a.3 |
 
-O
+Risque imminent de défaillance |
 
 |
 
-T
-
-|
+Critique |
 
 2. DIRECTION
 
-|
-
-|
-
-|
-
-|
-
-2.1. ORGANES DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.1. VOLANT DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.1.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.1.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.1.3.1. Défaut important de fixation
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.1.3.2. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.1.3.3. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.2. ANTIVOL
-
-|
-
-|
-
-|
-
-|
-
-2.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.2.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.2.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.3. COLONNE ET ACCOUPLEMENT DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.3.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.3.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.3.2.1. Jeu notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.3.2.2. Jeu anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.3.3.1. Défaut important de fixation
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.3.3.2. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.3.3.3. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.3.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.4. CREMAILLERE
-
-|
-
-|
-
-|
-
-|
-
-2.1.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.4.1.1. Détérioration importante
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.4.1.2. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.4.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.4.1.4. Défaut d'étanchéité
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.4.2.1. Jeu notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.4.2.2. Jeu anormal
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.4.3.1. Défaut important de fixation
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.4.3.2. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.4.3.3. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.4.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.5. BOITIER DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.5.1.1. Détérioration importante
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.5.1.2. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.5.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.5.1.4. Défaut notable d'étanchéité
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.5.1.5. Défaut d'étanchéité
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.5.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.5.2.1. Jeu notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.5.2.2. Jeu anormal
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.5.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.5.3.1. Défaut important de fixation
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.5.3.2. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.5.3.3. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.5.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.6. BIELLE DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.6.1.1. Détérioration importante
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.6.1.2. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.6.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.6.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.6.2.1. Défaut important de fixation
-
-|
-
-23
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.6.2.2. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-2.1.6.2.3. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-2.1.6.3. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.6.3.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-2.1.7. BARRE DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.7.1.1. Détérioration importante
-
-|
-
-31
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.7.1.2. Détérioration notable
-
-|
-
-31
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.7.1.3. Détérioration
-
-|
-
-31
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.8. BARRE D'ACCOUPLEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.8.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.8.1.1. Détérioration
-
-|
-
-31
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.8.1.2. Détérioration importante
-
-|
-
-31
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.8.1.3. Détérioration notable
-
-|
-
-31
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.9. ROTULE DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.9.1.1. Détérioration notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.9.1.2. Détérioration
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.9.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.9.2.1. Jeu notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.9.2.2. Jeu anormal
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.9.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.9.3.1. Défaut important de fixation
-
-|
-
-3217
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.9.3.2. Défaut notable de fixation
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.9.3.3. Défaut de fixation
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.9.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.10. PIVOT
-
-|
-
-|
-
-|
-
-|
-
-2.1.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.10.1.1. Détérioration importante
-
-|
-
-3217
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.10.1.2. Détérioration notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.10.1.3. Détérioration
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.10.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.10.2.1. Jeu notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.10.2.2. Jeu anormal
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.10.3.1. Défaut important de fixation
-
-|
-
-3217
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.10.3.2. Défaut notable de fixation
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.10.3.3. Défaut de fixation
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.11. ARTICULATION DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-2.1.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.11.1.1. Détérioration importante
-
-|
-
-3217
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.11.1.2. Détérioration notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.11.1.3. Détérioration
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.11.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.11.2.1. Jeu notable
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.11.2.2. Jeu anormal
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.11.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.11.3.1. Défaut important de fixation
-
-|
-
-3217
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.11.3.2. Défaut notable de fixation
-
-|
-
-3217
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.11.3.3. Défaut de fixation
-
-|
-
-3217
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.11.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-2.1.11.4.1. Contrôle impossible
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.12. RENVOI D'ANGLE
-
-|
-
-|
-
-|
-
-|
-
-2.1.12.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-2.1.12.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.12.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.12.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.12.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-2.1.12.2.1. Jeu notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.12.2.2. Jeu anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-2.1.12.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-2.1.12.3.1. Défaut important de fixation
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-2.1.12.3.2. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-2.1.12.3.3. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
+2.1. ÉTAT MÉCANIQUE
 
-T
+2.1.1. ÉTAT DU BOÎTIER OU DE LA CRÉMAILLÈRE DE DIRECTION
 
-|
-
-2.1.12.4. DIVERS
-
-|
+2.1.1.a.2 |
 
-|
+Conduite dure |
 
 |
 
-|
+Majeure |
 
-2.1.12.4.1. Contrôle impossible
+2.1.1.b.2 |
 
-|
+Axe de sortie tordu ou cannelures usées |
 
 |
 
-R
+Majeure |
 
-|
+2.1.1.b.3 |
 
-T
+Axe de sortie tordu ou cannelures usées : fonctionnalité affectée |
 
 |
 
-2.1.13. SOUFFLET DE PROTECTION DE DIRECTION
+Critique |
 
-|
-
-|
+2.1.1.c.2 |
 
-|
+Usure excessive de l'axe de sortie |
 
 |
 
-2.1.13.1. ETAT
+Majeure |
 
-|
+2.1.1.c.3 |
 
-|
+Usure excessive de l'axe de sortie : fonctionnalité affectée |
 
 |
 
-|
+Critique |
 
-2.1.13.1.1. Détérioration
+2.1.1.d.2 |
 
-|
+Mouvement excessif de l'axe de sortie |
 
 |
 
-O
+Majeure |
 
-|
+2.1.1.d.3 |
 
-T
+Mouvement excessif de l'axe de sortie : fonctionnalité affectée |
 
 |
-
-2.1.13.3. FIXATION
 
-|
+Critique |
 
-|
+2.1.1.e.1 |
 
-|
+Manque d'étanchéité |
 
 |
-
-2.1.13.3.1. Défaut de fixation
 
-|
+Mineure |
 
-|
+2.1.1.e.2 |
 
-O
+Manque d'étanchéité : formation de gouttelettes |
 
 |
 
-T
+Majeure |
 
-|
-
-2.1.13.4. DIVERS
+2.1.2. FIXATION DU BOÎTIER OU DE LA CRÉMAILLÈRE DE DIRECTION
 
-|
+2.1.2.a.2 |
 
-|
+Mauvaise fixation |
 
 |
 
-|
+Majeure |
 
-2.1.13 4.1. Absence
+2.1.2.a.3 |
 
-|
+Mauvaise fixation : fixations dangereusement mal attachées ou jeu par rapport au châssis/ à la carrosserie |
 
 |
 
-O
+Critique |
 
-|
+2.1.2.b.2 |
 
-T
+Ovalisation des trous de fixation dans le châssis |
 
 |
-
-2.1.14. AMORTISSEUR DE DIRECTION
 
-|
+Majeure |
 
-|
+2.1.2.b.3 |
 
-|
+Ovalisation des trous de fixation dans le châssis : fixations gravement affectées |
 
 |
-
-2.1.14.1. ETAT
 
-|
+Critique |
 
-|
+2.1.2.c.2 |
 
-|
+Boulons de fixation manquants ou fêlés |
 
 |
-
-2.1.14.1.1. Détérioration
 
-|
+Majeure |
 
-|
+2.1.2.c.3 |
 
-O
+Boulons de fixation manquants ou fêlés : fixations gravement affectées |
 
 |
 
-T
-
-|
+Critique |
 
-2.1.14.1.2. Défaut d'étanchéité
+2.1.2.d.2 |
 
-|
+Fêlure |
 
 |
 
-O
+Majeure |
 
-|
+2.1.2.d.3 |
 
-T
+Fêlure ou cassure affectant la stabilité ou la fixation du boîtier ou de la crémaillère |
 
 |
 
-2.1.14.3. FIXATION
+Critique |
 
-|
+2.1.3. ÉTAT DE LA TIMONERIE DE DIRECTION
 
-|
+2.1.3.a.2 |
 
-|
+Jeu entre des organes qui devraient être fixes |
 
-|
+[Loc] |
 
-2.1.14.3.1. Défaut de fixation
+Majeure |
 
-|
+2.1.3.a.3 |
 
-|
+Jeu entre des organes qui devraient être fixes : jeu excessif ou risque de dissociation |
 
-O
+[Loc] |
 
-|
+Critique |
 
-T
+2.1.3.b.2 |
 
-|
+Usure excessive des articulations |
 
-2.1.14.4. DIVERS
+[Loc] |
 
-|
+Majeure |
 
-|
+2.1.3.b.3 |
 
-|
+Usure excessive des articulations : risque très grave de détachement |
 
-|
+[Loc] |
 
-2.1.14.4.1. Absence
+Critique |
 
-|
+2.1.3.c.2 |
 
-|
+Fêlure ou déformation d'un élément |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-T
+2.1.3.c.3 |
 
-|
+Fêlure ou déformation d'un élément : fonctionnement affecté |
 
-2.1.15. BUTEE DE DIRECTION
+[Loc] |
 
-|
+Critique |
 
-|
+2.1.3.d.2 |
 
-|
+Absence de dispositifs de verrouillage |
 
-|
+[Loc] |
 
-2.1.15.1. ETAT
+Majeure |
 
-|
+2.1.3.e.2 |
 
-|
+Désalignement d'éléments |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-2.1.15.1.2. Détérioration
+2.1.3.f.2 |
 
-|
+Modification présentant un risque |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+2.1.3.f.3 |
 
-T
+Modification présentant un risque : fonctionnement affecté |
 
-|
+[Loc] |
 
-2.1.15.1.1. Détérioration notable
+Critique |
 
-|
+2.1.3.g.1 |
 
-|
+Capuchon antipoussière endommagé ou détérioré |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-T
+2.1.3.g.2 |
 
-|
+Capuchon antipoussière manquant ou gravement détérioré |
 
-2.2. ASSISTANCE DE DIRECTION
+[Loc] |
 
-|
+Majeure |
 
-|
+2.1.4. FONCTIONNEMENT DE LA TIMONERIE DE DIRECTION
 
-|
+2.1.4.a.2 |
 
-|
+Frottement d'une partie mobile de la timonerie contre une partie fixe |
 
-2.2.1. POMPE ASSISTANCE
+[Loc] |
 
-|
+Majeure |
 
-|
+2.1.4.b.2 |
 
-|
+Butées inopérantes ou manquantes |
 
-|
+[Loc] |
 
-2.2.1.1. ETAT
+Majeure |
 
-|
+2.1.5. DIRECTION ASSISTÉE
 
-|
+2.1.5.a.2 |
 
-|
+Fuite de liquide ou fonctions affectées |
 
 |
-
-2.2.1.1.1. Détérioration
 
-|
+Majeure |
 
-|
+2.1.5.b.1 |
 
-O
+Niveau insuffisant du liquide (sous la marque MIN) |
 
 |
 
-T
+Mineure |
 
-|
-
-2.2.1.1.2. Défaut d'étanchéité
+2.1.5.b.2 |
 
-|
+Réservoir insuffisant |
 
 |
 
-O
+Majeure |
 
-|
+2.1.5.c.2 |
 
-T
+Mécanisme inopérant |
 
 |
 
-2.2.1.2. FIXATION
+Majeure |
 
-|
+2.1.5.c.3 |
 
-|
+Mécanisme inopérant : direction affectée |
 
 |
 
-|
+Critique |
 
-2.2.1.2.1. Défaut de fixation
+2.1.5.d.2 |
 
-|
+Mécanisme fêlé ou peu fiable |
 
 |
 
-O
+Majeure |
 
-|
+2.1.5.d.3 |
 
-T
+Mécanisme fêlé ou peu fiable : direction affectée |
 
 |
-
-2.2.2. RESERVOIR DE DIRECTION
 
-|
+Critique |
 
-|
+2.1.5.e.2 |
 
-|
+Elément faussé ou frottant contre une autre pièce |
 
 |
-
-2.2.2.1. ETAT
 
-|
+Majeure |
 
-|
+2.1.5.e.3 |
 
-|
+Elément faussé ou frottant contre une autre pièce : direction affectée |
 
 |
-
-2.2.2.1.1. Détérioration
 
-|
+Critique |
 
-|
+2.1.5.f.2 |
 
-O
+Modification présentant un risque |
 
 |
 
-T
+Majeure |
 
-|
-
-2.2.2.1.2. Fuite
+2.1.5.f.3 |
 
-|
+Modification présentant un risque : direction affectée |
 
 |
 
-O
+Critique |
 
-|
+2.1.5.g.2 |
 
-T
+Endommagement ou corrosion excessive de câbles ou de flexibles |
 
 |
 
-2.2.2.1.3. Niveau de liquide insuffisant |
+Majeure |
 
-|
+2.1.5.g.3 |
 
-S
+Endommagement ou corrosion excessive de câbles ou de flexibles : direction affectée |
 
 |
 
-T
+Critique |
 
-|
+2.2. VOLANT, COLONNE
 
-2.2.2.2. FIXATION
+2.2.1. ÉTAT DU VOLANT
 
-|
+2.2.1.a.2 |
 
-|
+Mouvement relatif entre le volant et la colonne |
 
 |
 
-|
+Majeure |
 
-2.2.2.2.1. Défaut de fixation
+2.2.1.a.3 |
 
-|
+Mouvement relatif entre le volant et la colonne : risque très grave de détachement |
 
 |
 
-O
+Critique |
 
-|
+2.2.1.b.2 |
 
-T
+Absence de dispositif de retenue sur le moyeu du volant |
 
 |
-
-2.2.3. CANALISATION D'ASSISTANCE DE DIRECTION
 
-|
+Majeure |
 
-|
+2.2.1.b.3 |
 
-|
+Absence de dispositif de retenue sur le moyeu du volant : risque très grave de détachement |
 
 |
-
-2.2.3.1. ETAT
 
-|
+Critique |
 
-|
+2.2.1.c.2 |
 
-|
+Fêlure ou mauvaise fixation du moyeu, de la couronne ou des rayons du volant |
 
 |
-
-2.2.3.1.1. Détérioration
 
-|
+Majeure |
 
-|
+2.2.1.c.3 |
 
-O
+Fêlure ou mauvaise fixation du moyeu, de la couronne ou des rayons du volant : risque très grave de détachement |
 
 |
 
-T
+Critique |
 
-|
+2.2.2. COLONNE ET AMORTISSEURS DE DIRECTION
 
-2.2.3.1.2. Défaut d'étanchéité
+2.2.2.a.2 |
 
-|
+Mouvement excessif du centre du volant vers le bas ou le haut |
 
 |
 
-O
+Majeure |
 
-|
+2.2.2.b.2 |
 
-T
+Mouvement excessif du haut de la colonne par rapport à l'axe de la colonne |
 
 |
-
-2.2.3.3. FIXATION
 
-|
+Majeure |
 
-|
+2.2.2.c.2 |
 
-|
+Raccord souple détérioré |
 
 |
-
-2.2.3.3.1. Défaut de fixation
 
-|
+Majeure |
 
-|
+2.2.2.d.2 |
 
-O
+Mauvaise fixation |
 
 |
 
-T
+Majeure |
 
-|
-
-2.2.4. VERIN D'ASSISTANCE DE DIRECTION
+2.2.2.d.3 |
 
-|
+Mauvaise fixation : risque très grave de détachement |
 
 |
 
-|
+Critique |
 
-|
+2.2.2.e.3 |
 
-2.2.4.1. ETAT
+Modification présentant un risque |
 
 |
 
-|
+Critique |
 
-|
+2.3. JEU DANS LA DIRECTION
 
-|
+2.3.1. JEU DANS LA DIRECTION
 
-2.2.4.1.1. Détérioration
+2.3.1.a.1 |
 
-|
+Jeu anormal |
 
 |
 
-O
+Mineure |
 
-|
+2.3.1.a.2 |
 
-T
+Jeu excessif |
 
 |
 
-2.2.4.1.2. Défaut d'étanchéité
-
-|
+Majeure |
 
-|
+2.3.1.a.3 |
 
-O
+Jeu excessif : sécurité de la direction compromise |
 
 |
 
-T
+Critique |
 
-|
+2.5. PLAQUE TOURNANTE DE L'ESSIEU DIRECTEUR DE LA REMORQUE
 
-2.2.4.3. FIXATION
+2.5.1. PLAQUE TOURNANTE DE L'ESSIEU DIRECTEUR DE LA REMORQUE
 
-|
+2.5.1.a.2 |
 
-|
+Elément légèrement endommagé |
 
 |
 
-|
+Majeure |
 
-2.2.4.3.1. Défaut de fixation
+2.5.1.a.3 |
 
-|
+Elément fortement endommagé ou fissuré |
 
 |
 
-O
+Critique |
 
-|
+2.5.1.b.2 |
 
-T
+Jeu excessif |
 
 |
-
-2.2.5. ROTULE DE VERIN DE DIRECTION
 
-|
+Majeure |
 
-|
+2.5.1.b.3 |
 
-|
+Jeu excessif : conduite en ligne droite touchée et/ ou stabilité directionnelle altérée |
 
 |
-
-2.2.5.1. ETAT
 
-|
+Critique |
 
-|
+2.5.1.c.2 |
 
-|
+Mauvaise fixation |
 
 |
-
-2.2.5.1.1. Détérioration
 
-|
+Majeure |
 
-|
+2.5.1.c.3 |
 
-O
+Fixations gravement affectées |
 
 |
 
-T
+Critique |
 
-|
+2.6. DIRECTION ASSISTÉE ÉLECTRONIQUE
 
-2.2.5.2. FONCTIONNEMENT
+2.6.1. DIRECTION ASSISTÉE ÉLECTRONIQUE
 
-|
+2.6.1.a.2 |
 
-|
+L'indicateur de dysfonctionnement fait état d'une défaillance du système |
 
 |
 
-|
+Majeure |
 
-2.2.5.2.1. Jeu anormal
+2.6.1.b.2 |
 
-|
+Incohérence entre l'angle du volant et l'angle des roues |
 
 |
 
-O
+Majeure |
 
-|
+2.6.1.b.3 |
 
-T
+Incohérence entre l'angle du volant et l'angle des roues : direction affectée |
 
 |
 
-2.2.5.3. FIXATION
+Critique |
 
-|
-
-|
+2.6.1.c.2 |
 
-|
+L'assistance ne fonctionne pas |
 
 |
 
-2.2.5.3.1. Défaut de fixation
+Majeure |
 
-|
-
-|
+2.6.1.d.2 |
 
-O
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-T
-
-|
+Majeure |

@@ -1,185 +1,225 @@
 # Article Annexe IV
 
-QUALIFICATION DES CONTRÔLEURS, DES EXPLOITANTS ET DES FORMATEURS
+QUALIFICATION DES CONTRÔLEURS ET DES EXPLOITANTS ET EXIGENCES RELATIVES AUX ORGANISMES DE FORMATION ET AUX FORMATEURS
 
-Il est distingué les niveaux de qualification suivants :
+A. - Qualification des contrôleurs
 
-- contrôle technique des véhicules lourds de marchandises (Q1) ;
+Pour être agréé, le candidat justifie de la qualification relative au contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1).
 
-- contrôle technique des véhicules de transport en commun de personnes (Q2) ;
+Un contrôleur qualifié Q1 peut également être qualifié, sous réserve du respect des exigences des points B. 2, B. 3, C. 2 et C. 3 de la présente annexe, pour :
 
-- contrôle technique des véhicules de transport de marchandises dangereuses (Q3).
+- le contrôle technique des véhicules de transports en commun de personnes (Q2)
 
-Pour être agréé, un contrôleur répond au moins aux critères de qualification pour le contrôle technique des véhicules lourds de marchandises.
+- le contrôle technique des véhicules de transports de marchandises dangereuses (Q3).
 
-Section I
+B. - Qualification initiale
 
-Qualification contrôle technique des véhicules lourds de marchandises (Q1)
+B. 1. Qualification initiale de contrôleur pour le contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1)
 
-Un contrôleur justifie au moins d'une des qualifications visées aux paragraphes 1.1, 1.2, 1.3, 1.4, 2.1 et 2.2. de la présente section.
+B. 1.1. Pour être qualifié pour le contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1), le candidat justifie d'un certificat de qualification professionnelle (CQP) ou d'un titre professionnel de contrôleur technique de véhicules lourds ou répond aux exigences des points B. 1.2 ou B. 1.3 de la présente annexe.
 
-1. Qualifications initiales
+B. 1.2. Qualifications acquises en France
 
-1.1. Un diplôme de niveau V reconnu par le ministère de l'éducation nationale ou l'équivalent vis-à-vis du répertoire national des certifications professionnelles dans au moins une des disciplines suivantes de l'automobile : mécanique automobile, carrosserie, carrosserie réparation, maintenance automobile, et une formation spécialisée complémentaire dans le contrôle technique automobile des véhicules lourds d'une durée d'au moins 900 heures comprenant la formation spécialisée au contrôle technique automobile des véhicules lourds d'une durée minimale de 280 heures telle que prévue aux points 1.2, 1.3 et 2.2 ci-dessous.
+B. 1.2.1. Qualification préalable
 
-1.1.1. La formation de 900 heures peut être validée par le certificat de qualification professionnelle de contrôleur. Ce titre reconnu par la Commission nationale paritaire de l'emploi et de la formation professionnelle du commerce, de la réparation et du contrôle technique de l'automobile (CNPEFP) se prépare dans le cadre de l'alternance visée par les livres Ier et IXe du code du travail suivant les modalités précisées par le cahier des charges retenu par la commission précitée.
+Le candidat justifie d'une des qualifications visées ci-dessous :
 
-1.1.2. Ce cahier des charges prévoit notamment les conditions de mise en place d'une évaluation intermédiaire qui permet au stagiaire observateur d'acquérir la qualité de contrôleur stagiaire et de réaliser, sous la surveillance effective et permanente d'un contrôleur agréé (tuteur), des opérations de contrôle technique des véhicules des véhicules lourds pour lesquelles ce contrôleur agréé reste seul habilité à viser le procès-verbal de contrôle.
+- un diplôme de niveau IV du ministère de l'éducation nationale (baccalauréat professionnel maintenance des véhicules options voitures particulières ou véhicules industriels ) ou un diplôme équivalent au regard du Répertoire National des Certifications Professionnelles (RNCP) ;
 
-1.1.3. Cette évaluation intermédiaire, réalisée sous la forme d'une vérification des compétences techniques et professionnelles, intervient conformément au cahier des charges sous le contrôle de formateurs appartenant à l'organisme de formation.
+- un diplôme de niveau III du ministère de l'éducation nationale (diplôme d'expert en automobile, brevet de technicien supérieur après-vente automobile options véhicules particuliers ou véhicules industriels ou brevet de technicien supérieur maintenance des véhicules options voitures particulières ou véhicules de transport routier ) ou un diplôme équivalent vis-à-vis du Répertoire National des Certifications Professionnelles (RNCP).
 
-1.1.4. Durant la formation spécialisée complémentaire dans le contrôle technique automobile des véhicules lourds d'une durée d'au moins 900 heures, le stagiaire est un stagiaire observateur pendant une durée minimale totale de 35 heures. Pendant cette période, le stagiaire observateur n'est pas habilité à réaliser des opérations de contrôle.A l'issue de cette période et après une évaluation intermédiaire favorable, il devient contrôleur stagiaire sous tutelle effective d'un contrôleur agréé pendant une durée minimale de 140 heures au cours de laquelle il participe à la réalisation d'au moins 100 contrôles techniques de véhicules de transport de marchandises.
+B. 1.2.2. Formation relative au contrôle technique
 
-1.2. Un diplôme de niveau V reconnu par le ministère de l'éducation nationale ou l'équivalent vis-à-vis du répertoire national des certifications professionnelles dans au moins une des disciplines suivantes de l'automobile : mécanique automobile, carrosserie, carrosserie réparation, maintenance automobile, avec au moins trois années d'expérience dans les mêmes disciplines ou dans le contrôle technique automobile des véhicules légers et une formation spécialisée au contrôle technique automobile des véhicules lourds d'une durée minimale de 280 heures comprenant au minimum une partie théorique de 175 heures et une partie pratique d'au minimum 105 heures.
+Le candidat justifie d'une formation initiale relative au contrôle technique des véhicules lourds, réalisée postérieurement à la mise en œuvre des dispositions du point B. 1.2.1 de la présente annexe.
 
-1.2.1. Durant la partie pratique de la formation spécialisée au contrôle technique des véhicules lourds d'une durée minimale de 280 heures, le stagiaire est initialement stagiaire observateur pendant une durée minimale totale de 14 heures. Après avoir satisfait à une évaluation intermédiaire, il devient contrôleur stagiaire sous tutelle effective d'un contrôleur agréé et participe à la réalisation d'au moins 75 contrôles techniques de véhicules de transport de marchandises.
+Cette formation est constituée d'une partie théorique en centre de formation d'au minimum 245 heures et d'une partie pratique en centre de contrôle technique de véhicules lourds d'au minimum 105 heures.
 
-1.3. Un diplôme de niveau IV reconnu par le ministère de l'éducation nationale ou l'équivalent vis-à-vis du répertoire national des certifications professionnelles dans au moins une des disciplines suivantes de l'automobile : mécanique automobile, carrosserie, carrosserie réparation, maintenance automobile, et une formation spécialisée au contrôle technique automobile des véhicules lourds d'une durée minimale de 280 heures comprenant au minimum une partie théorique de 175 heures et une partie pratique d'au minimum 105 heures.
+Les exigences de connaissances et de compétences relatives au contrôle technique des véhicules lourds, pour le statut de contrôleur stagiaire ainsi que les modalités d'évaluation théorique et pratique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'organisme technique central (OTC).
 
-1.3.1. Durant la partie pratique de la formation spécialisée au contrôle technique des véhicules lourds d'une durée minimale de 280 heures, le stagiaire est initialement stagiaire observateur, en entreprise, pendant une durée minimale totale de 14 heures. Après avoir satisfait à une évaluation intermédiaire, il devient contrôleur stagiaire sous tutelle effective d'un contrôleur agréé et participe à la réalisation d'au moins 75 contrôles techniques de véhicules de transport de marchandises.
+Durant la formation pratique, le candidat assiste à des opérations de contrôle dans un centre de contrôle technique de véhicules lourds agréé en tant que simple stagiaire pendant une durée minimale de 14 heures.
 
-1.4. Un CQP (certificat de qualification professionnelle) ou un titre professionnel de contrôleur technique automobile.
+Pour réaliser des opérations de contrôle technique, le candidat a préalablement acquis le statut de contrôleur stagiaire, en application du référentiel visé ci-dessus. Il réalise au moins 75 contrôles techniques de véhicules de transport de marchandises.
 
-1.5. Expériences professionnelles.
+Ces opérations sont réalisées sous la surveillance effective et permanente d'un contrôleur agréé (maître de stage), seul habilité à signer le procès-verbal de contrôle.
 
-1.5.1. Les périodes effectives passées, en entreprise, dans le domaine de la réparation automobile dans le cadre de formations en alternance sont comptabilisées pour le calcul des années d'expérience.
+Tout stagiaire présent dans un centre au titre du présent point présente, sur demande des services de l'Etat, sa convention de stage et, le cas échéant, son justificatif de statut de contrôleur stagiaire.
 
-1.5.2. Dans le calcul de son expérience professionnelle dans le domaine de la réparation automobile (mécanique automobile, carrosserie, carrosserie réparation, maintenance automobile), le stagiaire justifie d'au moins douze mois (en cumul) d'activité dans la réparation automobile au cours des cinq dernières années précédant la date du début de la formation. Dans le cas contraire, les dispositions du paragraphe 1. 1 de la section I du présent chapitre sont applicables.
+B. 1. 3 Qualification acquise dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen
 
-1.5.3. Au titre du présent paragraphe, le terme automobile recouvre les véhicules des catégories M et N.
+Le candidat justifie d'une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent et d'une expérience de trois années consécutives, au cours des dix années précédentes, en tant que contrôleur technique des véhicules lourds.
 
-2. Maintien de qualification
+B. 1.4. Dans le cas particulier où le candidat dispose des qualifications prévues aux points ci-dessus depuis plus d'un an à la date de la demande d'agrément et ne justifie d'aucune activité de contrôle technique de véhicules lourds dans les 12 mois qui précèdent la date de la demande, l'agrément ne peut être délivré qu'après mise en œuvre des dispositions prévues au point D. 1.2 de la présente annexe.
 
-2.1. Pour assurer le maintien de sa qualification, chaque contrôleur justifie :
+B. 2. Qualification initiale de contrôleur pour le contrôle technique des véhicules de transports en commun de personnes (Q2)
 
-- d'un complément de formation d'au moins vingt-quatre heures par année civile au sein d'un organisme reconnu par les pouvoirs publics et désigné par le réseau ou par le représentant légal du centre non exploité par un réseau ;
+B. 2.1. Pour être qualifié pour le contrôle technique des véhicules de transports en commun de personnes (Q2), le contrôleur justifie de la qualification Q1 et d'une formation initiale d'au minimum 21 heures, comprenant à minima 13 heures de théorie et 8 heures de pratique.
 
-- de la réalisation au cours des 12 derniers mois écoulés d'au moins 500 contrôles techniques de véhicules lourds ;
+B. 2.2. Lors de la formation pratique, le contrôleur assiste a minima à 2 contrôles comme simple stagiaire et réalise au moins 4 contrôles techniques de véhicules de transports en commun de personnes dont au moins 3 autocars de grande capacité, comme contrôleur stagiaire.
 
-- d'un audit portant sur la réalisation d'une visite technique périodique d'un véhicule de transport de marchandises, au moins une fois chaque année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit. En cas de résultat défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Les deux audits favorables Q2 et Q3 réalisés au titre du point 2 de la section II dispensent de l'audit au titre de la présente section. Le contrôleur justifie d'un audit au plus tard dans les six mois qui suivent la date de son agrément initial.
+Pour réaliser des opérations de contrôle technique, le candidat a préalablement acquis le statut de contrôleur stagiaire, au sens du référentiel visé ci-dessus.
 
-2.2. Après une période d'inactivité supérieure à un an, le réseau ou le représentant légal du centre non exploité par un réseau assure la remise à niveau du contrôleur. Cette remise à niveau est constituée :
+Ces opérations sont réalisées sous la surveillance effective et permanente d'un contrôleur agréé (maître de stage) et qualifié Q2, seul habilité à signer le procès-verbal de contrôle.
 
-- d'une formation dans le contrôle technique d'une durée minimale de 35 heures lorsque l'inactivité est supérieure à un an et inférieure ou égale à deux ans dans les trois mois qui suivent la reprise d'activité. De plus, il participe à la réalisation d'au moins 40 contrôles techniques de véhicules lourds de transport de marchandises ;
+Tout stagiaire présent dans un centre au titre du présent point présente, sur demande des services de l'Etat, sa convention de stage et, le cas échéant, son justificatif de statut de contrôleur stagiaire.
 
-- d'une formation spécialisée dans le contrôle technique d'une durée minimale de 280 heures lorsque l'inactivité est supérieure à deux ans. Il participe au cours de cette formation à la réalisation d'au moins 75 contrôles techniques de véhicules de transport de marchandises.
+B. 3. Qualification initiale de contrôleur pour le contrôle technique des véhicules de transports de marchandises dangereuses (Q3)
 
-2.3. Dans le cas où le contrôleur n'a pas respecté au moins l'une des prescriptions relatives au maintien de qualification, le réseau ou le représentant légal du centre non rattaché assure la remise à niveau du contrôleur rattaché au centre pour garantir le niveau des prestations effectuées et à l'issue, attester que ledit contrôleur dispose des compétences nécessaires pour exercer sa mission.
+B. 3.1. Pour être qualifié pour le contrôle technique des véhicules de transports de marchandises dangereuses (Q3), le contrôleur justifie de la qualification Q1 et d'une formation initiale d'au minimum 30 heures, comprenant à minima 20 heures de théorie et 10 heures de pratique.
 
-Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'organisme technique central précise les modalités d'application du présent point 2.3.
+B. 3.2. Lors de la formation pratique, le contrôleur assiste a minima à 3 contrôles comme simple stagiaire et réalise au moins 4 contrôles de véhicules de transports de marchandises dangereuses comme contrôleur stagiaire, dont a minima un contrôle d'une citerne.
 
-2.4. Dans le cas de carence constatée ou d'intégration dans le réseau ou le centre non rattaché, le réseau ou le représentant légal du centre non rattaché assure la remise à niveau du contrôleur rattaché au centre pour garantir le niveau des prestations effectuées et à l'issue, attester que ledit contrôleur dispose des compétences nécessaires pour exercer sa mission.
+Pour réaliser des opérations de contrôle technique, le candidat a préalablement acquis le statut de contrôleur stagiaire, au sens du référentiel visé ci-dessus.
 
-2.5. Dans le cadre de formation de remise à niveau, le stagiaire peut être contrôleur stagiaire.
+Ces opérations sont réalisées sous la surveillance effective et permanente d'un contrôleur agréé (maître de stage), seul habilité à signer le procès-verbal de contrôle.
 
-Section II
+Tout stagiaire présent dans un centre au titre du présent point présente, sur demande des services de l'Etat, sa convention de stage et, le cas échéant, son justificatif de statut de contrôleur stagiaire.
 
-Qualification contrôle technique des véhicules de transport en commun de personnes (Q2) et contrôle technique des véhicules de transport de marchandises dangereuses (Q3)
+C . -Maintien de la qualification des contrôleurs
 
-1. Qualification initiale
+C. 1. Maintien de la qualification relative au contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1)
 
-Que ce soit pour être qualifié au titre du contrôle technique des véhicules de transport en commun de personnes ou au titre du contrôle technique des véhicules de transport de marchandises dangereuses, le contrôleur répond pour chacune des catégories concernées aux conditions suivantes :
+C. 1.1. Conditions relatives au maintien de qualification Q1
 
-- il est titulaire d'une qualification en cours de validité au titre du contrôle des véhicules lourds (Q1) ;
+C. 1.1.1. Le contrôleur justifie d'un complément de formation d'au moins 24 heures par année civile. Ce complément de formation comporte un module technique général, d'une durée minimale de 14 heures, dont le référentiel est défini au plus tard le 1er juillet de l'année précédente par le ministre chargé des transports.
 
-- il a suivi une formation d'au minimum trente heures pour les véhicules de transport de marchandises dangereuses et quinze heures pour les véhicules de transport en commun de personnes. Au cours de cette formation, une partie pratique d'au moins six heures est mise en œuvre. Pour les véhicules de transport de marchandises dangereuses, la partie pratique est réalisée sur au moins un véhicule équipé d'une citerne. Pour les véhicules de transport en commun de personnes, la partie pratique est réalisée sur au moins un autocar de grande capacité ;
+C. 1.1.2. Le contrôleur justifie de la réalisation d'au moins 480 contrôles techniques périodiques de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses, par année civile. Ce nombre est porté à 360 lorsque le contrôleur est également agréé pour le contrôle des véhicules légers.
 
-- il a participé en sus :
+Lorsque l'agrément est accordé en cours d'année, le nombre de contrôles techniques périodiques de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses à réaliser correspondant à cette année est porté à 40 par mois à partir du mois qui suit l'agrément.
 
-- pour le contrôle technique de véhicules de marchandises dangereuses, à au moins trois contrôles techniques comme observateur stagiaire puis, après avoir satisfait à une évaluation intermédiaire, a réalisé au moins trois contrôles techniques comme contrôleur stagiaire. Sur les véhicules présentés au contrôle technique, trois au moins sont équipés d'une citerne ;
+C. 1.1.3. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses au plus tard dans les 12 mois qui suivent la date de son agrément initial puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Le contrôleur disposant de deux audits favorables réalisés au titre des points C. 2.1.4 et C. 3.1.4 de la présente annexe est dispensé de l'audit au titre du présent point.
 
-- pour le contrôle technique de véhicules de transports en commun de personnes, à deux contrôles techniques de véhicule comme observateur stagiaire puis, après avoir satisfait à une évaluation intermédiaire, a réalisé au moins deux contrôles comme contrôleur stagiaire. Sur les véhicules présentés au contrôle technique, deux au moins sont des autocars de grande capacité.
+C. 1.2. Non-respect des conditions relatives au maintien de qualification Q1
 
-2. Maintien de la qualification
+C. 1.2.1. En cas de non-respect au 31 décembre de la disposition prévue au point C. 1.1,1. les dispositions du point D ci-après s'appliquent.
 
-Que ce soit pour le maintien de la qualification au titre du contrôle technique des véhicules de transport en commun de personnes ou au titre du contrôle technique des véhicules de transport de marchandises dangereuses, le contrôleur :
+C. 1.2.2. En cas de non-respect d'au moins une des dispositions prévues aux points C. 1.1.2. et C. 1.1.3., la poursuite de l'activité du contrôleur est assujettie au respect des dispositions du point D. 1.4.
 
-- maintient sa qualification pour être agréé au titre du contrôle technique des véhicules de transport de marchandises ;
+C. 2. Maintien de la qualification relative au contrôle technique des véhicules de transports en commun de personnes (Q2)
 
-- réalise au moins 25 contrôles techniques au cours des douze derniers mois pour la catégorie de contrôle concernée ;
+C. 2.1. Conditions relatives au maintien de qualification Q2
 
-- participe à une formation continue annuelle de sept heures pour le contrôle technique de véhicules de marchandises dangereuses et de quatre heures pour les véhicules de transport en commun de personnes ;
+C. 2.1.1. Le contrôleur justifie du maintien de sa qualification relative au contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1)
 
-- justifie d'un audit portant sur la réalisation d'une visite technique périodique pour la catégorie de contrôle concernée, au moins une fois chaque année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit. En cas de résultat défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+C. 2.1.2. Le contrôleur justifie d'un complément de formation d'au moins 7 heures pour le contrôle technique des véhicules de transports en commun de personnes par année civile. Ce complément de formation comporte un module technique général, d'une durée minimale de 3 heures, dont le référentiel est défini au plus tard le 1er juillet de l'année précédente par le ministre chargé des transports.
 
-Le contrôleur justifie d'un audit au plus tard dans les six mois qui suivent la date de son agrément, dans la catégorie concernée.
+C. 2.1.3. Le contrôleur justifie de la réalisation d'au moins 50 contrôles techniques périodiques de véhicules de transports en commun de personnes par année civile.
 
-En cas de carence constatée ou de non-respect d'au moins une des prescriptions relatives au maintien de qualification Q2 ou Q3, le réseau ou le représentant légal de l'installation non exploitée par un réseau assure la remise à niveau du contrôleur rattaché à l'installation pour garantir le niveau des prestations effectuées et à l'issue, atteste que ledit contrôleur dispose des compétences nécessaires pour exercer sa mission.
+C. 2.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports en commun de personnes au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports en commun de personnes, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
-Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 2.1.
+C. 2.2. Non-respect des conditions relatives au maintien de qualification Q2
 
-Section II bis
+C. 2.2.1. En cas de non-respect au 31 décembre de la disposition prévue au point C. 2.1.2, les dispositions du point D ci-après s'appliquent.
 
-Qualifications acquises dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen
+C. 2.2.2. En cas de non-respect d'au moins une des dispositions prévues aux points C. 2.1.3 et C. 2.1.4, la poursuite de l'activité du contrôleur est assujettie au respect des dispositions du point D. 2.4.
 
-Est reconnu comme satisfaisant aux conditions de qualifications initiales des sections I et II le demandeur qui a préalablement exercé l'activité de contrôle technique concernée dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen et qui justifie avoir exercé cette activité :
+C. 3. Maintien dela qualification relative au contrôle technique des véhicules de marchandises dangereuses (Q3)
 
-a) Soit pendant trois années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, l'activité ne devant pas avoir pris fin depuis plus de dix ans à la date de la présentation du dossier complet de l'intéressé ;
+C. 3.1. Conditions relatives au maintien de qualification Q3
 
-b) Soit pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent ;
+C. 3.1.1. Le contrôleur justifie du maintien de sa qualification relative au contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1)
 
-c) Soit pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque le bénéficiaire prouve qu'il a exercé l'activité en question à titre salarié pendant trois ans au moins et que l'activité n'a pas pris fin depuis plus de dix ans à la date de la présentation du dossier complet de l'intéressé ;
+C. 3.1.2. Le contrôleur justifie d'un complément de formation d'au moins 7 heures pour le contrôle technique des véhicules de marchandises dangereuses par année civile. Ce complément de formation comporte un module technique général, d'une durée minimale de 3 heures, dont le référentiel est défini au plus tard le 1er juillet de l'année précédente par le ministre chargé des transports.
 
-d) Soit pendant trois années consécutives à titre salarié, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent.
+C. 3.1.3. Le contrôleur justifie de la réalisation d'au moins 35 contrôles techniques périodiques de véhicules de marchandises dangereuses de personnes par année civile.
 
-Section III
+C. 3.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports de marchandises dangereuses au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports de marchandises dangereuses, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
-Exploitant de centre de contrôle
+C. 3.2. Non-respect des conditions relatives au maintien de qualification Q3
 
-1. A défaut de la présentation d'une attestation de stage justifiant la réalisation d'une des formations prévues à la section I de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures, dispensée par un organisme de formation reconnu par les pouvoirs publics, portant sur la qualité et sur les réglementations spécifiques s'appliquant à la profession.
+C. 3.2.1. En cas de non-respect au 31 décembre de la disposition prévue au point C. 3.1.2, les dispositions du point D ci-après s'appliquent.
 
-Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du premier alinéa ci-dessus dans les trois mois qui suivent sa désignation.
+C. 3.2.2. En cas de non-respect d'au moins une des dispositions prévues aux points C. 3.1.3 et C. 3.1.4, la poursuite de l'activité du contrôleur est assujettie au respect des dispositions du point D. 3.4.
 
-Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 1.
+D. - Remise à niveau
 
-Section IV
+D. 1. Remise à niveau pour la qualification relative au contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses (Q1)
 
-Divers
+D. 1.1. En l'absence de la formation prévue au C. 1.1.1., le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses, d'une durée minimale de 35 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
 
-1. Organismes de formation
+D. 1.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-Les formations spécialisées complémentaires sont dispensées par un organisme reconnu par les pouvoirs publics.
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 70 heures dans les autres cas) et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
-Les formations spécialisées de remise à niveau et de maintien de qualification, à l'exception de celles d'une durée inférieure à 35 heures prévues aux paragraphes 2.3 et 2.4 de la section I du présent chapitre, sont dispensées par un organisme reconnu par les pouvoirs publics et désigné par le réseau ou le représentant légal du centre non exploité par un réseau.
+D. 1.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
-2. Formations
+D. 1.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont assujetties :
 
-2.1. Approbation des formations.
+- à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
 
-Les formations (programme et contenu) initiales, de maintien de qualification annuel et celles visées au point 1 de la section III sont approuvées par le ministre chargé des transports. La liste des programmes approuvés est sur le site internet de l'organisme technique central. Les formations ne peuvent être réalisées que si leurs dates de début et de fin de réalisation sont incluses dans leur période de validité d'approbation.
+- à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-L'organisme de formation met en œuvre les prescriptions du cahier des charges défini par le ministre chargé des transports. L'approbation d'une formation peut être retirée, par le ministre chargé des transports, si les prescriptions ne sont pas respectées.
+L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
 
-2.2. Les formations de maintien de qualification visées au paragraphe 2.1 de la section I du présent chapitre sont structurées en deux modules :
+D. 2. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports en commun de personnes (Q2)
 
-- un module technique général, d'une durée minimale de 14 heures, dont le référentiel est défini au plus tard le 1er juillet de chaque année par le ministre chargé des transports sur la base de ses priorités et des propositions formulées par les réseaux de contrôle et l'organisme technique central ;
+D. 2.1. En l'absence de la formation prévue au C. 2.1.2, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules de transports en commun de personnes, d'une durée minimale de 10 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
 
-- un module spécifique au réseau ou au centre non exploité par un réseau dans lequel le contrôleur est amené à exercer.
+D. 2.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
 
-3. Statut des stagiaires
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 13 heures dans les autres cas) et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
 
-3.1. Stagiaire observateur : Il assiste à des opérations de contrôle réalisées par un contrôleur qualifié expérimenté dans un centre spécialisé. Il ne peut en aucun cas intervenir dans la réalisation des contrôles prévus à l'annexe I du présent arrêté.
+D. 2.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
-3.2. Contrôleur stagiaire : il réalise, après avoir satisfait à une évaluation intermédiaire lui donnant la qualité de contrôleur stagiaire, sous la surveillance effective et permanente d'un contrôleur agréé, qualifié et expérimenté (maître de stage), des opérations de contrôle technique pour lesquelles le contrôleur agréé reste seul habilité à viser le procès-verbal.
+D. 2.4. La reprise d'activité du contrôleur est assujettie :
 
-Un centre de contrôle ne peut accueillir qu'un seul contrôleur stagiaire en formation par tuteur et maître de stage.
+- à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
 
-3.3. Tout stagiaire présent dans un centre de contrôle est en mesure de présenter, sur demande, sa convocation de stage et son justificatif d'évaluation intermédiaire s'il s'agit d'un contrôleur stagiaire. Dans le cadre de formation de remise à niveau inférieure à 280 heures, le justificatif de l'évaluation intermédiaire peut être remplacé par un accord du réseau ou du centre non exploité par un réseau.
+- à un examen pratique favorable, portant sur un contrôle technique d'un véhicule de transports en commun de personnes réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-4. Validation de la formation
+L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
 
-Toutes les formations de quinze heures et plus visées à la présente annexe, dispensées par un organisme de formation, sont validées après un contrôle de connaissance et un examen pratique portant sur l'ensemble de la réalisation d'une visite technique périodique satisfaisante. L'examen pratique n'est pas exigé dans le cadre des formations prévues à la section III de la présente annexe.
+D. 3. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports de marchandises dangereuses (Q3)
+
+D. 3.1. En l'absence de la formation prévue au C. 3.1.2, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules de transports marchandises dangereuses, d'une durée minimale de 10 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
+
+D. 3.2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
+
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 10 heures si la durée de l'absence d'activité est inférieure à trois ans (d'une durée minimale de 13 heures dans les autres cas) et d'une partie pratique de 8 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+
+D. 3.3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point C pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
+
+D. 3.4. La reprise d'activité du contrôleur est assujettie :
+
+- à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
+
+- à un examen pratique favorable, portant sur un contrôle technique d'un véhicule de transports marchandises dangereuses réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
+
+L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+
+E. - Qualification des exploitants
+
+E. 1. A défaut de la présentation d'une des qualifications prévues au point B. 1.1 de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
+
+L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans.
+
+Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintien de qualification est à réaliser avant le 1er janvier 2022, qu'ils soient ou non contrôleurs.
+
+Les exigences de connaissances et de compétences d'un exploitant de centre de contrôle technique des véhicules lourds ainsi que les modalités d'évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'OTC.
+
+E. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe E. 1 dans un délai maximum de 6 mois à compter de sa désignation.
+
+F. - Exigences relatives aux organismes de formation
+
+F. 1. Les formations visées aux points A à E de la présente annexe sont dispensées par un organisme de formation reconnu par les pouvoirs publics.
 
 A l'issue de la formation, l'organisme de formation délivre une attestation de stage mentionnant :
 
 - les résultats satisfaisants ;
 
-- la référence de l'approbation du programme par le ministre chargé des transports telle que prévue au paragraphe 2. 1 de la section IV du présent chapitre.
+- la référence de l'approbation du programme par le ministre chargé des transports, telle que prévue par le cahier des charges mentionné au paragraphe F. 2 de la présente annexe ;
 
-5. Qualifications spécifiques des formateurs délivrant des formations pour le contrôle technique des véhicules électriques ou hybrides.
+F. 2. Les formations visées aux points A à E sont approuvées (programme et contenu) par le ministre chargé des transports et ne peuvent être mises en œuvre que par l'organisme ayant sollicité leur approbation.
 
-Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union technique de l'automobile, du cycle et du motocycle (UTAC), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum dix heures, ayant donné lieu à une évaluation satisfaisante.
+L'organisme de formation titulaire de l'approbation met en œuvre les prescriptions des référentiels de formation et du cahier des charges définis par le ministre chargé des transports.
 
-Le maintien de la capacité du formateur est assujetti à la réalisation d'une formation d'au minimum quatre heures, tous les deux ans.
+Les formations ne peuvent être réalisées que si leurs dates de début et de fin de réalisation sont incluses dans leur période de validité d'approbation.
 
-Le formateur est en mesure de présenter son attestation de capacité et ses justificatifs de formation à toute demande des services de l'Etat.
+L'approbation d'un programme peut être retirée par le ministre chargé des transports si les prescriptions ne sont pas respectées.
+
+G. - Qualifications spécifiques des formateurs
+
+G. 1. Qualification des formateurs délivrant des formations pour le contrôle technique des véhicules électriques ou hybrides
+
+Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union Technique de l'Automobile, du Cycle et du Motocycle (U. T. a. C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum 10 heures, ayant donné lieu à une évaluation satisfaisante.
+
+Le formateur est en mesure de présenter son attestation de capacité sur demande des services de l'Etat.

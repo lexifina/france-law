@@ -36,13 +36,13 @@ ORGANISATION DES INSTALLATIONS DE CONTRÔLE
 
 1.3. Les voies de recours amiables prévues au point 1.2.12 ci-dessus pour des défauts et non-conformités éventuels des opérations de contrôle ne préjugent pas des voies de recours légales qui sont ouvertes au public par ailleurs.
 
-1.4. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, justifie d'une formation spécifique telle que définie à la section III de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules lourds et de celle des appareils de mesure et de contrôle.
+1.4. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, justifie d'une formation spécifique telle que définie au point E de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules lourds et de celle des appareils de mesure et de contrôle.
 
 1.5.L'ensemble des documents est présent dans chaque installation de contrôle.
 
 1.6. (Supprimé)
 
-1.7. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 37 du présent arrêté, et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point 2 de l'annexe III et du protocole en vigueur, prévu au point b de l'article 38 du présent arrêté.
+1.7. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 37 du présent arrêté, et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point D de l'annexe III et du protocole en vigueur, prévu au point b de l'article 38 du présent arrêté.
 
 2. Qualification et suivi des contrôleurs
 
@@ -62,11 +62,11 @@ Il s'assure également que les contrôleurs maintiennent leur qualification, con
 
 3.1. Le suivi des opérations d'installation, d'étalonnage et de maintenance du matériel fait l'objet de procédures spécifiques disponibles dans chaque installation de contrôle.
 
-3.2. Ces procédures prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesures. Elles prévoient également les méthodes d'essais alternatives éventuellement mises en œuvre, en l'attente de la remise en état ou du remplacement, conformément à l'instruction technique correspondante définie par l'organisme technique central et approuvée par le ministre chargé des transports. A défaut de telles méthodes, ces procédures prévoient l'arrêt immédiat de l'activité du centre, à l'exception des contrôles techniques ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
+3.2. Ces procédures prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesures. Elles prévoient également les méthodes d'essais alternatives éventuellement mises en œuvre, en l'attente de la remise en état ou du remplacement, conformément à l'instruction technique correspondante définie par l'organisme technique central et approuvée par le ministre chargé des transports. Lorsque ces méthodes d'essai alternatives prévoient l'utilisation d'un matériel équivalent à celui installé dans le centre de contrôle, le centre est en mesure de justifier sa conformité, son étalonnage, sa maintenance et son entretien conformément aux prescriptions applicables. Les procédures du centre prévoient l'archivage des justificatifs pendant une durée de quatre ans. A défaut de telles méthodes, ces procédures prévoient l'arrêt immédiat de l'activité du centre, à l'exception des contrôles techniques ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
 
-Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures prévoient la mise en œuvre des dispositions relatives aux opérations d'installation, d'étalonnage et de maintenance prévues au point 1 de l'annexe III du présent arrêté.
+Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures prévoient la mise en œuvre des dispositions relatives aux opérations d'installation, d'étalonnage et de maintenance prévues à l'annexe III du présent arrêté.
 
-3.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
+3.3. (Supprimé).
 
 4. Recueil des informations relatives aux contrôles effectués
 
@@ -76,7 +76,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 4.2. Chaque contrôle technique fait l'objet d'un archivage informatique pendant une durée minimale de quatre ans au niveau du réseau ou du centre de contrôle. La relecture des données est garantie.
 
-4.3. Pour chaque contrôle technique effectué, les valeurs enregistrées par les freinomètres et les opacimètres sont transmises par liaison informatique ou imprimées automatiquement dans le respect des dispositions de l'annexe III du présent arrêté. Ces informations sont portées automatiquement sur le procès-verbal de contrôle technique ou conservées suivant les dispositions prévues aux points 4.1 et 4.2 ci-dessus avec le procès-verbal du contrôle technique.
+4.3. (Supprimé).
 
 5. Transmission et diffusion des informations relatives aux contrôles techniques effectués
 

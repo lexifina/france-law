@@ -1,15087 +1,4301 @@
 # Article Annexe I (suite)
 
-3. VISIBILITE
+3. VISIBILITÉ
 
-|
-
-|
-
-|
-
-|
-
-3.1. VITRAGES
-
-|
-
-|
-
-|
-
-|
-
-3.1.1. PARE-BRISE
-
-|
-
-|
-
-|
-
-|
-
-3.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.1.1.1.1. Visibilité insuffisante du conducteur
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.1.1.1.2. Détérioration notable
-
-|
-
-35
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.1.1.1.3. Détérioration
-
-|
-
-35
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-3.1.1.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.1.1.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.1.1.4.2. Matériau non conforme
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.2. VITRAGE
-
-|
-
-|
-
-|
-
-|
-
-3.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.1.2.1.1. Visibilité insuffisante
-
-|
-
-2347
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.1.2.1.2. Détérioration
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-3.1.2.3.1. Défaut de fixation
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.1.2.4.1. Absence
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.1.2.4.2. Matériau inadapté
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2. RETROVISEURS
-
-|
-
-|
-
-|
-
-|
-
-3.2.1. RETROVISEUR INTERIEUR
-
-|
-
-|
-
-|
-
-|
-
-3.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.2.1.1.1. Visibilité insuffisante
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.1.1.2. Partie saillante
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.1.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-3.2.1.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.2.1.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.2.2. RETROVISEUR EXTERIEUR
-
-|
-
-|
-
-|
-
-|
-
-3.2.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.2.2.1.1. Visibilité du conducteur insuffisante
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.2.2.1.2. Partie saillante
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.2.2.1.3. Détérioration notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.2.2.1.4. Détérioration
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-3.2.2.3.1. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.2.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.2.2.4.1. Absence
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-3.2.2.4.2. Réglage impossible
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3. ACCESSOIRES
-
-|
-
-|
-
-|
-
-|
-
-3.3.1. ESSUIE-GLACE AVANT
-
-|
-
-|
-
-|
-
-|
-
-3.3.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.3.1.1.1. Détérioration
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-3.3.1.2.1. Fonctionnement anormal
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.3.1.4.1. Absence
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.2. LAVE-GLACE AVANT
-
-|
-
-|
-
-|
-
-|
-
-3.3.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-3.3.2.1.1. Détérioration
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-3.3.2.2.1. Fonctionnement anormal
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-3.3.2.4.1. Absence
-
-|
-
-324
-
-|
-
-O
-
-|
-
-M
-
-|
-
-3.3.3. SYSTÈME DE DÉSEMBUAGE
-
-|
-
-|
-
-|
-
-|
-
-3.3.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-3.3.3.2.1. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4. ECLAIRAGE, SIGNALISATION
-
-|
-
-|
-
-|
-
-|
-
-4.1. ECLAIRAGE
-
-|
-
-|
-
-|
-
-|
-
-4.1.1. FEU DE CROISEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.1.1.1.1. Détérioration notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.1.2. Détérioration
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.1.3. Détérioration notable de l'optique
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.1.4. Détérioration de l'optique
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.1.1.2.1. Non fonctionnement des deux feux
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.2.2. Non fonctionnement du feu
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.2.3. Fonctionnement anormal
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.2.4. Déréglage notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.2.5. Déréglage
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.1.1.3.1. Mauvais positionnement
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.3.2. Défaut notable de fixation
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.3.3. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.1.1.4.1. Défaut de branchement
-
-|
-
-3
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.4.2. Absence des deux feux
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.1.4.3. Absence du feu
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.4.4. Absence du marquage réglementaire
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.1.4.5. Asymétrie
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2. FEU DE ROUTE
-
-|
-
-|
-
-|
-
-|
-
-4.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.1.2.1.1. Détérioration notable
-
-|
-
-356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.2.1.2. Détérioration
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.1.2.2.1. Non fonctionnement des deux feux
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.2.2.2. Non fonctionnement du feu
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.2.3. Fonctionnement anormal
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.1.2.3.1. Mauvais positionnement
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.3.2. Défaut notable de fixation
-
-|
-
-356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.2.3.3. Défaut de fixation
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.1.2.4.1. Défaut de branchement
-
-|
-
-356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.2.4.2. Absence des deux feux
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-4.1.2.4.3. Absence du feu
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.4.4. Absence du marquage réglementaire
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.2.4.5. Asymétrie
-
-|
-
-356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3. FEU ANTIBROUILLARD AV
-
-|
-
-|
-
-|
-
-|
-
-4.1.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.1.3.1.1. Détérioration
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.1.3.2.1. Fonctionnement anormal
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.2.2. Déréglage
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.1.3.3.1. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.1.3.4.1. Absence
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.4.2. Absence du marquage réglementaire
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.3.4.3. Asymétrie
-
-|
-
-3
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.1.4. FEU ADDITIONNEL
-
-|
-
-|
-
-|
-
-|
-
-4.1.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.1.4.1.1. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.1.4.2.1. Non fonctionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.1.4.3.1. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.1.4.4.1. Absence du marquage réglementaire
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.4.4.3. Asymétrie
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.4.4.4. A supprimer
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.1.5. ECLAIRAGE NON REGLEMENTAIRE
-
-|
-
-|
-
-|
-
-|
-
-4.1.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.1.5.4.1. A supprimer
-
-|
-
-2357
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2. SIGNALISATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.1. FEU DE POSITION
-
-|
-
-|
-
-|
-
-|
-
-4.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.1.1.1. Détérioration notable
-
-|
-
-2347
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.1.1.2. Détérioration
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.1.2.1. Non fonctionnement des deux feux
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.1.2.2. Non fonctionnement du feu
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.2.3. Fonctionnement anormal
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.1.3.1. Mauvais positionnement
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.3.3. Défaut de fixation
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.1.4.1. Absence de marquage réglementaire
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.4.2. Défaut de branchement
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.4.3. Absence des deux feux
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.1.4.4. Absence du feu
-
-|
-
-2
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.4.5. Asymétrie
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.1.4.6. Couleur inadaptée
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2. FEU INDICATEUR DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-4.2.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.2.1.2. Détérioration
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.2.2.1. Non fonctionnement de deux feux du même côté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.2.2.2. Non fonctionnement
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.2.3. Fonctionnement anormal
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.2.3.1. Mauvais positionnement
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.3.3. Défaut de fixation
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.2.4.1. Absence du marquage réglementaire
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.4.2. Défaut de branchement
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.4.3. Absence des 2 feux d'un même côté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.2.4.4. Absence du feu
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.4.5. Asymétrie
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.2.4.6. Couleur inadaptée
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.3. SIGNAL DE DETRESSE
-
-|
-
-|
-
-|
-
-|
-
-4.2.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.3.2.1. Non fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.3.2.2. Fonctionnement anormal
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.3.4.1. Défaut de branchement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.3.4.2. Absence et défaut de triangle
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4. FEU ROUGE ARRIERE
-
-|
-
-|
-
-|
-
-|
-
-4.2.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.4.1.1. Détérioration notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.4.1.2. Détérioration
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.4.2.1. Non fonctionnement des deux feux
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.4.2.2. Non fonctionnement du feu
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.2.3. Fonctionnement anormal
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.4.3.3. Défaut de positionnement
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.3.4. Défaut de fixation
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.4.4.1. Absence des 2 feux
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.4.4.2. Absence du feu
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.4.4. Mauvais branchement
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.4.5. Asymétrie
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.4.4.6. Couleur inadaptée
-
-|
-
-3567
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5. FEU STOP
-
-|
-
-|
-
-|
-
-|
-
-4.2.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.5.1.1. Détérioration notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.5.1.2. Détérioration
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.5.2.1. Non fonctionnement des deux feux
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-4.2.5.2.2. Non fonctionnement du feu
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.2.3. Fonctionnement anormal
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.5.3.1. Mauvais positionnement
-
-|
-
-356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.5.3.2. Défaut de positionnement
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.3.3. Défaut de fixation
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.5.4.2. Défaut de branchement
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.4.3. Absence des deux feux
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-4.2.5.4.4. Absence du feu
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.4.5. Asymétrie
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.5.4.6. Couleur inadaptée
-
-|
-
-356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6. TROISIEME FEU-STOP
-
-|
-
-|
-
-|
-
-|
-
-4.2.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.6.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.6.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.6.3.3. Défaut de positionnement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.3.4. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.6.4.1. Absence de marquage réglementaire
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.4.2. Défaut de branchement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.6.4.3. Couleur inadaptée
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.7. FEU DE PLAQUE ARRIERE
-
-|
-
-|
-
-|
-
-|
-
-4.2.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.7.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.7.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.7.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.7.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.7.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.7.3.3. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.7.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.7.4.2. Absence
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8. FEU DE BROUILLARD ARRIERE
-
-|
-
-|
-
-|
-
-|
-
-4.2.8.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.8.1.1. Détérioration
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.8.2.1. Non fonctionnement
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.2.2. Fonctionnement anormal
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.8.3.1. Mauvais positionnement
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.3.3. Défaut de fixation
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.8.4.1. Absence
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.4.2. Absence de marquage réglementaire
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.4.3. Défaut de branchement
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.8.4 4 Couleur inadaptée
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9. FEU DE MARCHE ARRIERE
-
-|
-
-|
-
-|
-
-|
-
-4.2.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.9.1.1. Détérioration
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.9.2.1. Non fonctionnement
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.2.2. Fonctionnement anormal
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.9.3.3. Défaut de fixation
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.9.4.2. Défaut de branchement
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.4.3. Absence
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.9.4.4. Couleur inadaptée
-
-|
-
-37
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10. FEU D'ENCOMBREMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.10.1.1. Détérioration
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.10.2.1. Non fonctionnement des feux d'un même coté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.10.2.2. Non fonctionnement
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.2.3. Fonctionnement anormal
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.10.3.2. Défaut de positionnement
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.3.4. Défaut de fixation
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.10.4.1. Absence du même coté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.10.4.2. Absence
-
-|
-
-236
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.4.4. Défaut de branchement
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.10.4.5. Couleur inadaptée
-
-|
-
-23467
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11. FEU LATÉRAL
-
-|
-
-|
-
-|
-
-|
-
-4.2.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.11.1.1. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.11.2.1. Non fonctionnement des feux d'un même côté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.11.2.2. Non fonctionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.11.3.2. Défaut de positionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.3.4. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.11.4.1. Absence
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.4.2. Absence du même coté
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.2.11.4.4. Défaut de branchement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.11.4.5. Couleur inadaptée
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.12. CATADIOPTRE
-
-|
-
-|
-
-|
-
-|
-
-4.2.12.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.12.1.1. Détérioration
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.12.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.12.3.2. Défaut de positionnement
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.12.3.4. Défaut de fixation
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.12.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.12.4.1. Absence
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.12.4.3. Couleur inadaptée
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.13. SIGNALISATION COMPLÉMENTAIRE ARRIERE
-
-|
-
-|
-
-|
-
-|
-
-4.2.13.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.13.1.1. Détérioration
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.13.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.13.3.2. Défaut de positionnement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.13.3.4. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.13.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.13.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.14. TRIANGLE DE PRESIGNALISATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.14.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.14.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.14.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.14.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.15. SIGNALISATION NON AUTORISEE
-
-|
-
-|
-
-|
-
-|
-
-4.2.15.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.15.4.1. A supprimer
-
-|
-
-2347
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.16. SIGNALISATION ADDITIONNELLE
-
-|
-
-|
-
-|
-
-|
-
-4.2.16.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.16.1.1. Détérioration
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.16.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.2.16.3.2. Défaut de fixation
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.16.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.2.16.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.17. FEUX SPECIAUX
-
-|
-
-|
-
-|
-
-|
-
-4.2.17.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.2.17.1.1. Détérioration
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.2.17.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.2.17.2.2. Fonctionnement anormal
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.3. ELEMENTS DE COMMANDE, D'INFORMATION
-
-|
-
-|
-
-|
-
-|
-
-4.3.1. COMMANDE D'ECLAIRAGE ET DE SIGNALISATION
-
-|
-
-|
-
-|
-
-|
-
-4.3.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.3.1.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.2. TEMOIN DE FEUX DE ROUTE
-
-|
-
-|
-
-|
-
-|
-
-4.3.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.3.2.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.2.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.3.2.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.3. TEMOIN DE SIGNAL DE DETRESSE
-
-|
-
-|
-
-|
-
-|
-
-4.3.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.3.3.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.3.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.3.3.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.4. TEMOIN DE FEUX DE BROUILLARD AR
-
-|
-
-|
-
-|
-
-|
-
-4.3.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.3.4.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.3.4.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.5. TEMOIN INDICATEUR DE DIRECTION
-
-|
-
-|
-
-|
-
-|
-
-4.3.5.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-4.3.5.2.1. Non fonctionnement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.3.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.3.5.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-4.4. CABLAGE ELECTRIQUE
-
-|
-
-|
-
-|
-
-|
-
-4.4.1. CABLAGE ELECTRIQUE
-
-|
-
-|
-
-|
-
-|
-
-4.4.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.4.1.1.1. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.4.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-4.4.1.3.1. Défaut de fixation
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.4.2. LIAISONS ELECTRIQUES
-
-|
-
-|
-
-|
-
-|
-
-4.4.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-4.4.2.1.1. Détérioration notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-4.4.2.1.2. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-4.4.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-4.4.2.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5. LIAISONS AU SOL
-
-|
-
-|
-
-|
-
-|
-
-5.1. ESSIEU ET SUSPENSION
-
-|
-
-|
-
-|
-
-|
-
-5.1.1. ESSIEU
-
-|
-
-|
-
-|
-
-|
-
-5.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.1.1.1. Détérioration importante
-
-|
-
-13
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.1.1.2. Détérioration notable
-
-|
-
-13
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.1.1.3. Corrosion superficielle
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.1.1.4. Détérioration
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.1.3.1. Défaut notable de fixation
-
-|
-
-13
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.1.3.2. Défaut de fixation
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.2. BRIDE DE SUSPENSION
-
-|
-
-|
-
-|
-
-|
-
-5.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.2.1.1. Détérioration importante
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.2.1.2. Détérioration notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.2.1.3. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.2.3.1. Défaut important de fixation
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.2.3.2. Défaut notable de fixation
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.2.3.3. Défaut de fixation
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.2.4.1. Asymétrie
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.3. MOYEU
-
-|
-
-|
-
-|
-
-|
-
-5.1.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.3.1.1. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-5.1.3.2.1. Jeu notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.3.2.2. Jeu anormal
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.4. TIRANT D'ESSIEU ET DE SUSPENSION
-
-|
-
-|
-
-|
-
-|
-
-5.1.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.4.1.1. Détérioration importante
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.4.1.2. Détérioration notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.4.1.3. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.4.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.4.2.1. Défaut notable de fixation
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.4.2.2. Défaut de fixation
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.4.3. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.4.3.1. Absence
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.4.3.2. Asymétrie
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.5. RESSORT DE SUSPENSION
-
-|
-
-|
-
-|
-
-|
-
-5.1.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.5.1.1. Détérioration importante
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.5.1.2. Détérioration notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.5.1.3. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.5.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.5.3.1. Défaut important de fixation
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.5.3.2. Défaut notable de fixation
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.5.3.3. Défaut de fixation
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.5.4.1. Absence
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.5.4.2. Asymétrie
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.6. BARRE DE TORSION
-
-|
-
-|
-
-|
-
-|
-
-5.1.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.6.1.1. Détérioration importante
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.6.1.2. Détérioration notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.6.1.3. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.6.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.6.3.1. Défaut important de fixation
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.6.3.2. Défaut notable de fixation
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.6.3.3. Défaut de fixation
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.6.4.1. Absence
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.6.4.2. Asymétrie
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.7. LAME DE RESSORT MAITRESSE
-
-|
-
-|
-
-|
-
-|
-
-5.1.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.7.1.1. Détérioration importante
-
-|
-
-13
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.7.1.2. Détérioration
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.7.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.7.3.1. Défaut important de fixation
-
-|
-
-13
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.7.3.2. Défaut de fixation
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.7.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.7.4.1. Asymétrie
-
-|
-
-13
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.8. LAMES DE RESSORT SECONDAIRES
-
-|
-
-|
-
-|
-
-|
-
-5.1.8.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.8.1.1. Détérioration notable
-
-|
-
-137
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.8.1.2. Détérioration
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.8.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.8.3.1. Défaut de positionnement
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.8.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.8.4.1. Asymétrie
-
-|
-
-137
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.9. MAIN DE RESSORT ET JUMELLE
-
-|
-
-|
-
-|
-
-|
-
-5.1.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.9.1.1. Détérioration importante
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.9.1.2. Détérioration notable
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.9.1.3. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.9.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-5.1.9.3.1. Défaut important de fixation
-
-|
-
-123
-
-|
-
-R
-
-|
-
-T
-
-|
-
-5.1.9.3.2. Défaut notable de fixation
-
-|
-
-123
-
-|
-
-S
-
-|
-
-T
-
-|
-
-5.1.9.3.3. Défaut de fixation
-
-|
-
-123
-
-|
-
-O
+3.1. CHAMP DE VISION
 
-|
-
-T
-
-|
-
-5.1.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.9.4.1. Asymétrie
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.10. ETRIER DE RESSORT
-
-|
-
-|
-
-|
-
-|
-
-5.1.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-5.1.10.1.1. Détérioration
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
+3.1.1. CHAMP DE VISION
 
-5.1.10.3.1. Défaut de fixation
+3.1.1.a.1 |
 
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.10.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-5.1.10.4.1. Absence
-
-|
-
-123
-
-|
-
-O
-
-|
-
-T
-
-|
-
-5.1.11. AXE DE RESSORT
+Obstruction dans le champ de vision du conducteur affectant la vue frontale ou latérale, hors de la zone de balayage des essuie-glaces du pare-brise |
 
-|
-
-|
-
-|
-
-|
-
-5.1.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
+[Loc] |
 
-5.1.11.1.1. Détérioration importante
+Mineure |
 
-|
-
-123
-
-|
-
-R
-
-|
-
-T
+3.1.1.a.2 |
 
-|
-
-5.1.11.1.2. Détérioration notable
-
-|
+Obstruction dans le champ de vision du conducteur affectant la vue frontale ou latérale, à l'intérieur de la zone balayée par les essuie-glaces ou rétroviseurs extérieurs non visibles |
 
-123
+[Loc] |
 
-|
+Majeure |
 
-S
+3.2. ÉTAT DES VITRAGES
 
-|
+3.2.1. ÉTAT DES VITRAGES
 
-T
+3.2.1.a.1 |
 
-|
+Vitrage fissuré ou décoloré |
 
-5.1.11.1.3. Détérioration
+[Loc] |
 
-|
+Mineure |
 
-123
+3.2.1. a. 2 |
 
-|
+Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essuie-glaces ou de vision des rétroviseurs extérieurs |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-T
+3.2.1. a. 3 |
 
-|
+Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essuie-glaces : visibilité fortement entravée |
 
-5.1.11.2. FONCTIONNEMENT
+[Loc] |
 
-|
+Critique |
 
-|
+3.2.1. b. 1 |
 
-|
+Vitrage autre que le pare-brise et les vitres latérales avant non conforme aux exigences |
 
-|
+[Loc] |
 
-5.1.11.2.1. Jeu notable
+Mineure |
 
-|
+3.2.1. b. 2 |
 
-123
+Pare-brise ou vitres latérales avant non conformes aux exigences |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+3.2.1. c. 2 |
 
-T
+Vitrage dans un état inacceptable |
 
-|
+[Loc] |
 
-5.1.11.2.2. Jeu anormal
+Majeure |
 
-|
+3.2.1. c. 3 |
 
-123
+Vitrage dans un état inacceptable : visibilité fortement entravée |
 
-|
+[Loc] |
 
-O
+Critique |
 
-|
+3.3. MIROIRS OU DISPOSITIFS RÉTROVISEURS
 
-T
+3.3.1. MIROIRS OU DISPOSITIFS RÉTROVISEURS
 
-|
+3.3.1. a. 2 |
 
-5.1.11.3. FIXATION
+Dispositif rétroviseur manquant ou fixé de manière non conforme aux exigences |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+3.3.1. a. 3 |
 
-|
+Plus d'un dispositif rétroviseur obligatoire manquant |
 
-5.1.11.3.1. Défaut notable de fixation
+[Loc] |
 
-|
+Critique |
 
-123
+3.3.1. b. 1 |
 
-|
+Miroir ou dispositif légèrement endommagé ou mal fixé |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-T
+3.3.1. b. 2 |
 
-|
+Miroir ou dispositif inopérant, fortement endommagé ou mal fixé |
 
-5.1.11.3.2. Défaut de fixation
+[Loc] |
 
-|
+Majeure |
 
-123
+3.3.1. c. 2 |
 
-|
+Champ de vision nécessaire non couvert |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-T
+3.4. ESSUIE-GLACE DU PARE-BRISE
 
-|
+3.4.1. ESSUIE-GLACE DU PARE-BRISE
 
-5.1.12. BUTEE DE CHOC
+3.4.1. a. 2 |
 
-|
+Essuie-glace inopérant ou manquant ou non conforme aux exigences |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+3.4.1. b. 1 |
 
-5.1.12.1. ETAT
+Balai d'essuie-glace défectueux |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+3.4.1. b. 2 |
 
-|
+Balai d'essuie-glace manquant ou manifestement défectueux |
 
-5.1.12.1.1. Détérioration
+[Loc] |
 
-|
+Majeure |
 
-123
+3.5. LAVE-GLACE DU PARE-BRISE
 
-|
+3.5.1. LAVE-GLACE DU PARE-BRISE
 
-O
+3.5.1.a.1 |
 
-|
+Mauvais fonctionnement |
 
-T
+[Loc] |
 
-|
+Mineure |
 
-5.1.12.4. DIVERS
+3.5.1. a. 2 |
 
-|
+Lave-glace inopérant |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+3.6. SYSTÈME DE DÉSEMBUAGE
 
-5.1.12.4.1. Absence
+3.6.1. SYSTÈME DE DÉSEMBUAGE
 
-|
+3.6.1.a.1 |
 
-123
+Système inopérant ou manifestement défectueux |
 
 |
 
-O
+Mineure |
 
-|
+4. FEUX, DISPOSITIFS RÉFLÉCHISSANTS ET ÉQUIPEMENT ÉLECTRIQUE
 
-T
+4.1. PHARES
 
-|
+4.1.1. ÉTAT ET FONCTIONNEMENT (PHARES)
 
-5.1.13. BALANCIER
+4.1.1.a.1 |
 
-|
+Lampe/ source lumineuse défectueuse ou manquante |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+4.1.1. a. 2 |
 
-5.1.13.1. ETAT
+Lampe/ source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.1.1. b. 1 |
 
-|
+Système de projection légèrement défectueux (réflecteur et glace) |
 
-5.1.13.1.1. Détérioration importante
+[Loc] |
 
-|
+Mineure |
 
-137
+4.1.1. b. 2 |
 
-|
+Système de projection (réflecteur et glace) fortement défectueux ou manquant |
 
-R
+[Loc] |
 
-|
+Majeure |
 
-T
+4.1.1. c. 2 |
 
-|
+Mauvaise fixation du feu |
 
-5.1.13.1.2. Détérioration notable
+[Loc] |
 
-|
+Majeure |
 
-137
+4.1.2. ORIENTATION (FEUX DE CROISEMENT)
 
-|
+4.1.2. a. 2 |
 
-S
+L'orientation d'un feu de croisement n'est pas dans les limites prescrites par les exigences |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+4.1.2. b. 2 |
 
-5.1.13.1.3. Détérioration
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-137
-
-|
+Majeure |
 
-O
+4.1.3. COMMUTATION (PHARES)
 
-|
+4.1.3.a.1 |
 
-T
+Le commutateur ne fonctionne pas conformément aux exigences (nombre de feux allumés en même temps) |
 
 |
 
-5.1.14. AXE DE BALANCIER
+Mineure |
 
-|
+4.1.3. a. 2 |
 
-|
+Le commutateur ne fonctionne pas conformément aux exigences (nombre de feux allumés en même temps) : dépassement de l'intensité lumineuse maximale autorisée à l'avant |
 
 |
 
-|
+Majeure |
 
-5.1.14.1. ETAT
+4.1.3. b. 2 |
 
-|
+Fonctionnement du dispositif de commande perturbé |
 
 |
 
-|
+Majeure |
 
-|
+4.1.3. c. 2 |
 
-5.1.14.1.1. Détérioration importante
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-137
+Majeure |
 
-|
+4.1.4. CONFORMITÉ AVEC LES EXIGENCES (PHARES)
 
-R
+4.1.4. a. 2 |
 
-|
+Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.1.14.1.2. Détérioration notable
+4.1.4. b. 2 |
 
-|
+Présence de produits sur la glace ou la source lumineuse qui réduit manifestement l'intensité lumineuse ou modifie la couleur émise |
 
-137
+[Loc] |
 
-|
+Majeure |
 
-S
+4.1.4. c. 2 |
 
-|
+Source lumineuse et lampe non compatibles |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.1.14.1.3. Détérioration
+4.1.5. DISPOSITIFS DE RÉGLAGE DE LA PORTÉE (PHARES)
 
-|
+4.1.5. a. 2 |
 
-137
+Dispositif inopérant |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+4.1.5. b. 2 |
 
-T
+Le dispositif manuel ne peut être actionné depuis le siège du conducteur |
 
 |
-
-5.1.15. TRIANGLE DE SUSPENSION
 
-|
+Majeure |
 
-|
+4.1.5. c. 2 |
 
-|
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-5.1.15.1. ETAT
+Majeure |
 
-|
+4.1.6. LAVE-PHARES
 
-|
+4.1.6.a.1 |
 
-|
+Dispositif inopérant |
 
-|
+[Loc] |
 
-5.1.15.1.1. Détérioration importante
+Mineure |
 
-|
+4.1.6. a. 2 |
 
-1237
+Dispositif inopérant sur lampe à décharge |
 
-|
+[Loc] |
 
-R
+Majeure |
 
-|
+4.2. FEUX DE POSITION AVANT, ARRIÈRE ET LATÉRAUX, FEUX DE GABARIT, FEUX D'ENCOMBREMENT ET FEUX DE JOUR
 
-T
+4.2.1. ÉTAT ET FONCTIONNEMENT (FEUX DE POSITION AVANT, ARRIÈRE ET LATÉRAUX, FEUX DE GABARIT, FEUX D'ENCOMBREMENT ET FEUX DE JOUR)
 
-|
+4.2.1.a.1 |
 
-5.1.15.1.2. Détérioration notable
+Dysfonctionnement d'une source lumineuse |
 
-|
+[Loc] |
 
-1237
+Mineure |
 
-|
+4.2.1. a. 2 |
 
-S
+Source lumineuse défectueuse ou absente |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+4.2.1. b. 2 |
 
-5.1.15.1.3. Détérioration
+Glace défectueuse |
 
-|
+[Loc] |
 
-1237
+Majeure |
 
-|
+4.2.1. c. 1 |
 
-O
+Mauvaise fixation |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+4.2.1. c. 2 |
 
-5.1.15.2. FONCTIONNEMENT
+Mauvaise fixation : très grand risque de détachement |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.2.2. COMMUTATION (FEUX DE POSITION AVANT, ARRIÈRE ET LATÉRAUX, FEUX DE GABARIT, FEUX D'ENCOMBREMENT ET FEUX DE JOUR)
 
-|
+4.2.2.a.1 |
 
-5.1.15.2.1. Jeu notable
+Le commutateur ne fonctionne pas conformément aux exigences |
 
 |
 
-1237
+Mineure |
 
-|
+4.2.2. a. 2 |
 
-S
+Le commutateur ne fonctionne pas conformément aux exigences : les feux de position arrière et latéraux peuvent être éteints lorsque les feux principaux sont allumés |
 
 |
 
-T
+Majeure |
 
-|
+4.2.2. b. 2 |
 
-5.1.15.2.2. Jeu anormal
+Fonctionnement du dispositif de commande perturbé |
 
 |
-
-1237
 
-|
+Majeure |
 
-O
+4.2.3. CONFORMITÉ AVEC LES EXIGENCES (FEUX DE POSITION AVANT, ARRIÈRE ET LATÉRAUX, FEUX DE GABARIT, FEUX D'ENCOMBREMENT ET FEUX DE JOUR)
 
-|
+4.2.3.a.1 |
 
-T
+Feu, position, intensité ou marquage non conforme aux exigences |
 
-|
+[Loc] |
 
-5.1.16. ROTULE DE SUSPENSION
+Mineure |
 
-|
+4.2.3. a. 2 |
 
-|
+Feu de couleur autre que blanc à l'avant ou rouge à l'arrière ; intensité lumineuse fortement réduite |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-5.1.16.1. ETAT
+4.2.3. b. 2 |
 
-|
+Présence de produits sur la glace ou la source lumineuse qui réduit manifestement l'intensité lumineuse |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.3. FEUX STOP
 
-5.1.16.1.1. Détérioration importante
+4.3.1. ÉTAT ET FONCTIONNEMENT (FEUX STOP)
 
-|
+4.3.1.a.1 |
 
-1237
+Source lumineuse défectueuse |
 
-|
+[Loc] |
 
-R
+Mineure |
 
-|
+4.3.1. a. 2 |
 
-T
+Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
-|
+[Loc] |
 
-5.1.16.1.2. Détérioration notable
+Majeure |
 
-|
+4.3.1. a. 3 |
 
-1237
+Toutes les sources lumineuses ne fonctionnent pas |
 
-|
+[Loc] |
 
-S
+Critique |
 
-|
+4.3.1. b. 1 |
 
-T
+Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
-|
+[Loc] |
 
-5.1.16.1.3. Détérioration
+Mineure |
 
-|
+4.3.1. b. 2 |
 
-1237
+Glace fortement défectueuse (lumière émise affectée) |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+4.3.1. c. 1 |
 
-T
+Mauvaise fixation du feu |
 
-|
+[Loc] |
 
-5.1.16.2. FONCTIONNEMENT
+Mineure |
 
-|
+4.3.1. c. 2 |
 
-|
+Mauvaise fixation du feu : très grand risque de détachement |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-5.1.16.2.1. Jeu notable
+4.3.2. COMMUTATION (FEUX STOP)
 
-|
+4.3.2. a. 2 |
 
-1237
+Le commutateur ne fonctionne pas conformément aux exigences |
 
 |
 
-S
+Majeure |
 
-|
+4.3.2. a. 3 |
 
-T
+Totalement inopérante |
 
 |
 
-5 1.16.2.2. Jeu anormal
+Critique |
 
-|
+4.3.2. b. 2 |
 
-1237
+Fonctionnement du dispositif de commande perturbé |
 
 |
 
-O
+Majeure |
 
-|
+4.3.2. c. 2 |
 
-T
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-5.1.17. SILENT-BLOC SUSPENSION
+Majeure |
 
-|
+4.3.3. CONFORMITÉ AVEC LES EXIGENCES (FEUX STOP)
 
-|
+4.3.3.a.1 |
 
-|
+Feu, position, intensité ou marquage non conforme aux exigences |
 
-|
+[Loc] |
 
-5.1.17.1. ETAT
+Mineure |
 
-|
+4.3.3. a. 2 |
 
-|
+Feu de couleur autre que rouge ; intensité lumineuse fortement réduite |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-5.1.17.1.1. Détérioration importante
+4.4. INDICATEUR DE DIRECTION ET FEUX DE SIGNAL DE DÉTRESSE
 
-|
+4.4.1. ÉTAT ET FONCTIONNEMENT (INDICATEUR DE DIRECTION ET FEUX DE SIGNAL DE DÉTRESSE)
 
-1237
+4.4.1.a.1 |
 
-|
+Source lumineuse défectueuse |
 
-R
+[Loc] |
 
-|
+Mineure |
 
-T
+4.4.1. a. 2 |
 
-|
+Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
-5.1.17.1.2. Détérioration notable
+[Loc] |
 
-|
+Majeure |
 
-1237
+4.4.1. b. 1 |
 
-|
+Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-T
+4.4.1. b. 2 |
 
-|
+Glace fortement défectueuse (lumière émise affectée) |
 
-5.1.17.1.3. Détérioration
+[Loc] |
 
-|
+Majeure |
 
-1237
+4.4.1. c. 1 |
 
-|
+Mauvaise fixation |
 
-O
+[Loc] |
 
-|
+Mineure |
 
-T
+4.4.1. c. 2 |
 
-|
+Mauvaise fixation : très grand risque de détachement |
 
-5.1.17.2. FONCTIONNEMENT
+[Loc] |
 
-|
+Majeure |
 
-|
+4.4.2. COMMUTATION (INDICATEUR DE DIRECTION ET FEUX DE SIGNAL DE DÉTRESSE)
 
-|
+4.4.2.a.1 |
+
+Le commutateur ne fonctionne pas conformément aux exigences |
 
 |
 
-5.1.17.2.1. Jeu notable
+Mineure |
 
-|
+4.4.2. a. 2 |
 
-1237
+Totalement inopérant |
 
 |
 
-S
+Majeure |
 
-|
+4.4.3. CONFORMITÉ AVEC LES EXIGENCES (INDICATEUR DE DIRECTION ET FEUX DE SIGNAL DE DÉTRESSE)
 
-T
+4.4.3. a. 2 |
 
-|
+Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
-5.1.17.2.2. Jeu anormal
+[Loc] |
 
-|
+Majeure |
 
-1237
+4.4.4. FRÉQUENCE DE CLIGNOTEMENT
 
-|
+4.4.4.a.1 |
 
-O
+La vitesse de clignotement n'est pas conforme aux exigences |
 
 |
 
-T
+Mineure |
 
-|
+4.5. FEUX DE BROUILLARD AVANT ET ARRIÈRE
 
-5.1.18. AMORTISSEUR
+4.5.1. ÉTAT ET FONCTIONNEMENT (FEUX DE BROUILLARD AVANT ET ARRIÈRE)
 
-|
+4.5.1.a.1 |
 
-|
+Source lumineuse défectueuse |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-5.1.18.1. ETAT
+4.5.1. a. 2 |
 
-|
+Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.5.1. b. 1 |
 
-5.1.18.1.1. Détérioration importante
+Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
-|
+[Loc] |
 
-1237
+Mineure |
 
-|
+4.5.1. b. 2 |
 
-R
+Glace fortement défectueuse (lumière émise affectée) |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+4.5.1. c. 1 |
 
-5.1.18.1.2. Détérioration notable
+Mauvaise fixation |
 
-|
+[Loc] |
 
-1237
+Mineure |
 
-|
+4.5.1. c. 2 |
 
-S
+Mauvaise fixation : très grand risque de détachement ou d'éblouissement |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+4.5.2. RÉGLAGE (FEUX DE BROUILLARD AVANT)
 
-5.1.18.1.3. Détérioration
+4.5.2.a.1 |
 
-|
+Mauvaise orientation horizontale d'un feu de brouillard avant |
 
-1237
+[Loc] |
 
-|
+Mineure |
 
-O
+4.5.3. COMMUTATION (FEUX DE BROUILLARD AVANT ET ARRIÈRE)
 
-|
+4.5.3.a.1 |
 
-T
+Le commutateur ne fonctionne pas conformément aux exigences |
 
 |
 
-5.1.18.1.4. Fuite
+Mineure |
 
-|
+4.5.3. a. 2 |
 
-1237
+Totalement inopérante |
 
 |
 
-O
+Majeure |
 
-|
+4.5.4. CONFORMITÉ AVEC LES EXIGENCES (FEUX DE BROUILLARD AVANT ET ARRIÈRE)
 
-T
+4.5.4. a. 2 |
 
-|
+Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
-5.1.18.3. FIXATION
+[Loc] |
 
-|
+Majeure |
 
-|
+4.6. FEU DE MARCHE ARRIÈRE
 
-|
+4.6.1. ÉTAT ET FONCTIONNEMENT (FEU DE MARCHE ARRIÈRE)
 
-|
+4.6.1.a.1 |
 
-5.1.18.3.1. Défaut important de fixation
+Source lumineuse défectueuse |
 
 |
 
-1237
+Mineure |
 
-|
+4.6.1. b. 1 |
 
-R
+Glace défectueuse |
 
 |
 
-T
+Mineure |
 
-|
+4.6.1. c. 1 |
 
-5.1.18.3.2. Défaut notable de fixation
+Mauvaise fixation |
 
 |
 
-1237
+Mineure |
 
-|
+4.6.1. c. 2 |
 
-S
+Mauvaise fixation : très grand risque de détachement |
 
 |
 
-T
+Majeure |
 
-|
+4.6.2. CONFORMITÉ AVEC LES EXIGENCES (FEU DE MARCHE ARRIÈRE)
 
-5.1.18.3.3. Défaut de fixation
+4.6.2. a. 2 |
 
-|
+Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
-1237
+[Loc] |
 
-|
+Majeure |
 
-O
+4.6.3. COMMUTATION (FEU DE MARCHE ARRIÈRE)
 
-|
+4.6.3.a.1 |
 
-T
+Le commutateur ne fonctionne pas conformément aux exigences |
 
 |
 
-5.1.18.4. DIVERS
+Mineure |
 
-|
+4.6.3. a. 2 |
 
-|
+Le feu de recul peut être allumé sans que la marche arrière soit enclenchée |
 
 |
 
-|
+Majeure |
 
-5.1.18.4.1. Absence
+4.7. DISPOSITIF D'ÉCLAIRAGE DE LA PLAQUE D'IMMATRICULATION ARRIÈRE
 
-|
+4.7.1. ÉTAT ET FONCTIONNEMENT (DISPOSITIF D'ÉCLAIRAGE DE LA PLAQUE D'IMMATRICULATION ARRIÈRE)
+
+4.7.1.a.1 |
 
-1237
+Le feu émet de la lumière directe vers l'arrière |
 
 |
 
-R
+Mineure |
 
-|
+4.7.1. b. 1 |
 
-T
+Source lumineuse partiellement défectueuse |
 
-|
+[Loc] |
 
-5.1.18.4.2. Asymétrie
+Mineure |
 
-|
+4.7.1. b. 2 |
 
-1237
+Source lumineuse défectueuse |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+4.7.1. c. 1 |
 
-T
+Mauvaise fixation du feu |
 
-|
+[Loc] |
 
-5.1.19. SPHERE,COUSSIN DE SUSPENSION
+Mineure |
 
-|
+4.7.1. c. 2 |
 
-|
+Mauvaise fixation du feu : très grand risque de détachement |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-5.1.19.1. ETAT
+4.7.2. CONFORMITÉ AVEC LES EXIGENCES (DISPOSITIF D'ÉCLAIRAGE DE LA PLAQUE D'IMMATRICULATION ARRIÈRE)
 
-|
+4.7.2.a.1 |
 
-|
+Non conforme aux exigences |
 
 |
 
-|
+Mineure |
 
-5.1.19.1.1. Détérioration notable
+4.8. CATADIOPTRES, MARQUAGE DE VISIBILITÉ RÉFLÉCHISSANT ET PLAQUES RÉFLÉCHISSANTES ARRIÈRE
 
-|
+4.8.1. ÉTAT (CATADIOPTRES, MARQUAGE DE VISIBILITÉ RÉFLÉCHISSANT ET PLAQUES RÉFLÉCHISSANTES ARRIÈRE)
 
-1237
+4.8.1.a.1 |
 
-|
+Dispositif défectueux ou endommagé |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-T
+4.8.1. a. 2 |
 
-|
+Dispositif défectueux ou endommagé : fonction réfléchissante affectée |
 
-5.1.19.1.2. Détérioration
+[Loc] |
 
-|
+Majeure |
 
-1237
+4.8.1. b. 1 |
 
-|
+Mauvaise fixation du dispositif |
 
-O
+[Loc] |
 
-|
+Mineure |
 
-T
+4.8.1. b. 2 |
 
-|
+Mauvaise fixation du dispositif : risque de détachement |
 
-5.1.19.1.3. Défaut notable d'étanchéité
+[Loc] |
 
-|
+Majeure |
 
-1237
+4.8.2. CONFORMITÉ AVEC LES EXIGENCES (CATADIOPTRES, MARQUAGE DE VISIBILITÉ RÉFLÉCHISSANT ET PLAQUES RÉFLÉCHISSANTES ARRIÈRE)
 
-|
+4.8.2. a. 1 |
 
-S
+Dispositif, position ou intensité non conforme aux exigences |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+4.8.2. a. 2 |
 
-5.1.19.1.4. Défaut d'étanchéité
+Absence ou réflexion d'une couleur autre que la couleur réglementaire |
 
-|
+[Loc] |
 
-1237
+Majeure |
 
-|
+4.9. TÉMOINS OBLIGATOIRES POUR LE SYSTÈME D'ÉCLAIRAGE
 
-O
+4.9.1. ÉTAT ET FONCTIONNEMENT (TÉMOINS OBLIGATOIRES POUR LE SYSTÈME D'ÉCLAIRAGE)
 
-|
+4.9.1. a. 1 |
 
-T
+Dispositif inopérant |
 
 |
 
-5.1.19.2. FONCTIONNEMENT
+Mineure |
 
-|
+4.9.1. a. 2 |
 
-|
+Dispositif inopérant : ne fonctionne pas pour les feux de route ou les feux de brouillard arrière |
 
 |
 
-|
+Majeure |
 
-5.1.19.2.1. Non fonctionnement
+4.9.2. CONFORMITÉ AVEC LES EXIGENCES (TÉMOINS OBLIGATOIRES POUR LE SYSTÈME D'ÉCLAIRAGE)
 
-|
+4.9.2. a. 1 |
 
-1237
+Non conformes aux exigences |
 
 |
 
-R
+Mineure |
 
-|
+4.10. LIAISONS ÉLECTRIQUES ENTRE LE VÉHICULE TRACTEUR ET LA REMORQUE OU SEMI-REMORQUE
 
-T
+4.10.1. LIAISONS ÉLECTRIQUES ENTRE LE VÉHICULE TRACTEUR ET LA REMORQUE OU SEMI-REMORQUE
 
-|
+4.10.1. a. 1 |
 
-5.1.19.2.2. Mauvais fonctionnement
+Mauvaise fixation des composants fixes |
 
 |
 
-1237
+Mineure |
 
-|
+4.10.1. a. 2 |
 
-S
+Mauvaise fixation des composants fixes : prise mal attachée |
 
 |
 
-T
+Majeure |
 
-|
+4.10.1. b. 1 |
 
-5.1.19.2.3. Fonctionnement anormal
+Isolation endommagée ou détériorée |
 
 |
 
-1237
+Mineure |
 
-|
+4.10.1. b. 2 |
 
-O
+Isolation endommagée ou détériorée : risque de court-circuit |
 
 |
-
-T
 
-|
+Majeure |
 
-5.1.19.3. FIXATION
+4.11. CÂBLAGE ÉLECTRIQUE (BASSE TENSION)
 
-|
+4.11.1. CÂBLAGE ÉLECTRIQUE (BASSE TENSION)
 
-|
+4.11.1. a. 1 |
 
-|
+Mauvaise fixation |
 
-|
+[Loc] |
 
-5.1.19.3.1. Défaut notable de fixation
+Mineure |
 
-|
+4.11.1. a. 2 |
 
-1237
+Mauvaise fixation : fixations mal attachées, contact avec des arêtes vives, probabilité de déconnexion |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+4.11.1. a. 3 |
 
-T
+Mauvaise fixation : câblage risquant de toucher des pièces chaudes, des pièces en rotation ou le sol, connexions (nécessaires au freinage, à la direction) débranchées |
 
-|
+[Loc] |
 
-5.1.19.3.2. Défaut de fixation
+Critique |
 
-|
+4.11.1. b. 1 |
 
-1237
+Câblage légèrement détérioré |
 
-|
+[Loc] |
 
-O
+Mineure |
 
-|
+4.11.1. b. 2 |
 
-T
+Câblage fortement détérioré |
 
-|
+[Loc] |
 
-5.1.20. CIRCUIT DE SUSPENSION
+Majeure |
 
-|
+4.11.1. b. 3 |
 
-|
+Câblage (nécessaire au freinage, à la direction) extrêmement détérioré |
 
-|
+[Loc] |
 
-|
+Critique |
 
-5.1.20.1. ETAT
+4.11.1. c. 1 |
 
-|
+Isolation endommagée ou détériorée |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+4.11.1. c. 2 |
 
-5.1.20.1.1. Détérioration notable
+Isolation endommagée ou détériorée : risque de court-circuit |
 
-|
+[Loc] |
 
-1237
+Majeure |
 
-|
+4.11.1. c. 3 |
 
-S
+Isolation endommagée ou détériorée : risque imminent d'incendie, de formation d'étincelles |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+4.13. BATTERIE(S) DE SERVICE
 
-5.1.20.1.2. Détérioration
+4.13.1. BATTERIE (S) DE SERVICE
 
-|
+4.13.1.a.1 |
 
-1237
+Mauvaise fixation |
 
 |
 
-O
+Mineure |
 
-|
+4.13.1.a.2 |
 
-T
+Mauvaise fixation : risque de court-circuit |
 
 |
 
-5.1.20.1.3. Défaut notable d'étanchéité
+Majeure |
 
-|
+4.13.1.b.1 |
 
-1237
+Manque d'étanchéité |
 
 |
 
-S
+Mineure |
 
-|
+4.13.1.b.2 |
 
-T
+Manque d'étanchéité : perte de substances dangereuses |
 
 |
 
-5.1.20.1.4. Défaut d'étanchéité
+Majeure |
 
-|
+4.14. COFFRE(S) À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES)
 
-1237
+4.14.1. COFFRE(S) À BATTERIE(S) DE TRACTION
 
-|
+4.14.1.a.1 |
 
-O
+Détérioration |
 
 |
-
-T
 
-|
+Mineure |
 
-5.1.20.2. FONCTIONNEMENT
+4.14.1.a.2 |
 
-|
+Détérioration importante |
 
 |
 
-|
+Majeure |
 
-|
+4.14.1.b.2 |
 
-5.1.20.2.1. Non fonctionnement
+Mauvaise fixation |
 
 |
 
-1237
+Majeure |
 
-|
+4.14.1.c.1 |
 
-S
+Orifice(s) d'aération du coffre obstrué(s) |
 
 |
-
-T
 
-|
+Mineure |
 
-5.1.20.2.2. Fonctionnement anormal
+4.14.2. BATTERIE DE TRACTION
 
-|
+4.14.2.a.2 |
 
-1237
+Défaut d'étanchéité |
 
 |
 
-O
+Majeure |
 
-|
-
-T
+4.15. CIRCUITS ÉLECTRIQUES HAUTE TENSION, AUTRE QUE SERVITUDE
 
-|
+4.15.1. CÂBLAGES ET CONNECTEURS HAUTE TENSION
 
-5.1.20.3. FIXATION
+4.15.1.a.1 |
 
-|
+Détérioration |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+4.15.1.a.2 |
 
-5.1.20.3.1. Défaut de fixation
+Détérioration importante |
 
-|
+[Loc] |
 
-1237
+Majeure |
 
-|
+4.15.1.b.1 |
 
-O
+Mauvaise fixation |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+4.15.1.b.2 |
 
-5.1.21. BARRE STABILISATRICE
+Mauvaise fixation : risque de contact avec des pièces mécaniques ou l'environnement du véhicule |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.15.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
 
-|
+4.15.2.a.1 |
 
-5.1.21.1. ETAT
+Détérioration |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+4.15.2.b.2 |
 
-|
+Détérioration importante |
 
-5.1.21.1.1. Détérioration importante
+[Loc] |
 
-|
+Majeure |
 
-2
+4.15.3. CONTINUITÉ DE MASSE
 
-|
+4.15.3.a.1 |
 
-R
+Essai non réalisé |
 
 |
 
-T
+Mineure |
 
-|
+4.15.3.a.2 |
 
-5.1.21.1.2. Détérioration notable
+Non conforme |
 
 |
 
-2
-
-|
+Majeure |
 
-S
+4.15.4. PROTECTION DE LA PRISE DE CHARGE
 
-|
+4.15.4.a.1 |
 
-T
+Détérioration |
 
 |
 
-5.1.21.1.3. Détérioration
+Mineure |
 
-|
+4.15.4.a.2 |
 
-2
+Absence de protection sur prise extérieure |
 
 |
 
-O
-
-|
+Majeure |
 
-T
+4.15.5. PRISE DE CHARGE SUR VÉHICULE
 
-|
+4.15.5.a.1 |
 
-5.1.21.3. FIXATION
+Détérioration |
 
 |
 
-|
+Mineure |
 
-|
+4.15.5.a.2 |
+
+Détérioration importante |
 
 |
 
-5.1.21.3.1. Défaut important de fixation
+Majeure |
 
-|
+4.15.5.b.2 |
 
-2
+Fixation défaillante |
 
 |
 
-R
+Majeure |
 
-|
+4.15.6. CÂBLE DE CHARGE
 
-T
+4.15.6.a.1 |
 
+Détérioration |
+
 |
 
-5.1.21.3.2. Défaut notable de fixation
+Mineure |
 
-|
+4.15.6.b.1 |
 
-2
+Essai non réalisé |
 
 |
 
-S
+Mineure |
 
-|
+4.16. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES SUR CIRCUITS HAUTE TENSION
 
-T
+4.16.1. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES SUR CIRCUITS HAUTE TENSION
 
-|
+4.16.1.a.1 |
 
-5.1.21.3.3. Défaut de fixation
+Détérioration |
 
-|
+[Loc] |
 
-2
+Mineure |
 
-|
+4.16.1.a.2 |
 
-O
+Détérioration importante |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+4.16.1.b.2 |
 
-5.1.21.4. DIVERS
+Fixation défaillante |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+4.16.1.c.2 |
 
-|
+Défaut d'étanchéité |
 
-5.1.21.4.1. Absence
+[Loc] |
 
-|
+Majeure |
 
-2
+4.17. DISPOSITIF ANTI-DÉMARRAGE
 
-|
+4.17.1. DISPOSITIF ANTI-DÉMARRAGE
 
-R
+4.17.1.a.1 |
 
+Non-fonctionnement |
+
 |
 
-T
+Mineure |
 
-|
+4.18. AUTRES DISPOSITIFS
 
-5.1.22. SILENT-BLOC DE BARRE STABILISATRICE
+4.18.1. AUTRES DISPOSITIFS D'ÉCLAIRAGE OU DE SIGNALISATION
 
-|
+4.18.1.a.2 |
 
-|
+Présence d'un dispositif d'éclairage ou de signalisation non conforme
 
 |
 
-|
+[Loc] |
 
-5.1.22.1. ETAT
+Majeure |
 
-|
+5. ESSIEUX, ROUES, PNEUS, SUSPENSION
 
-|
+5.1. ESSIEUX
 
-|
+5.1.1. ESSIEUX
 
-|
+5.1.1. a. 3 |
 
-5.1.22.1.1. Détérioration
+Essieu fêlé ou déformé |
 
-|
+[Loc] |
 
-23
+Critique |
 
-|
+5.1.1. b. 1 |
 
-O
+Anomalie de fixation |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+5.1.1. b. 2 |
 
-5.1.22.4. DIVERS
+Mauvaise fixation |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+5.1.1. b. 3 |
 
-|
+Mauvaise fixation : stabilité perturbée, fonctionnement affecté |
 
-5.1.22.4.1. Absence
+[Loc] |
 
-|
+Critique |
 
-23
+5.1.1. c. 2 |
 
-|
+Modification présentant un risque |
 
-S
+[Loc] |
 
-|
+Majeure |
 
-T
+5.1.1. c. 3 |
 
-|
+Modification présentant un risque : stabilité perturbée, fonctionnement affecté, distance insuffisante par rapport aux autres parties du véhicule, garde au sol insuffisante |
 
-5.1.23. BLOCAGE DE SUSPENSION
+[Loc] |
 
-|
+Critique |
 
-|
+5.1.2. PORTE-FUSÉES
 
-|
+5.1.2. a. 3 |
 
-|
+Fusée d'essieu fracturée |
 
-5.1.23.1. ETAT
+[Loc] |
 
-|
+Critique |
 
-|
+5.1.2. b. 2 |
 
-|
+Usure excessive du pivot et/ ou des bagues |
 
-|
+[Loc] |
 
-5.1.23.1.1. Détérioration
+Majeure |
 
-|
+5.1.2. b. 3 |
 
-|
+Usure excessive du pivot et/ ou des bagues : risque de détachement ; stabilité directionnelle perturbée |
 
-O
+[Loc] |
 
-|
+Critique |
 
-T
+5.1.2. c. 2 |
 
-|
+Mouvement excessif entre la fusée et la poutre |
 
-5.1.23.2. FONCTIONNEMENT
+[Loc] |
 
-|
+Majeure |
 
-|
+5.1.2. c. 3 |
 
-|
+Mouvement excessif entre la fusée et la poutre : risque de détachement ; stabilité directionnelle perturbée |
 
-|
+[Loc] |
 
-5.1.23.2.1. Fonctionnement anormal
+Critique |
 
-|
+5.1.2. d. 2 |
 
-|
+Jeu de la fusée dans l'essieu |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-T
+5.1.2. d. 3 |
 
-|
+Jeu de la fusée dans l'essieu : risque de détachement ; stabilité directionnelle perturbée |
 
-5.1.23.4. DIVERS
+[Loc] |
 
-|
+Critique |
 
-|
+5.1.3. ROULEMENTS DE ROUE
 
-|
+5.1.3. a. 2 |
 
-|
+Jeu excessif |
 
-5.1.23.4.1. Non fonctionnement des alarmes
+[Loc] |
 
-|
+Majeure |
 
-|
+5.1.3. a. 3 |
 
-S
+Jeu excessif : stabilité directionnelle perturbée ; risque de destruction |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+5.1.3. b. 2 |
 
-5.1.23.4.2. Mauvais fonctionnement des alarmes
+Roulement de roue trop serré, bloqué |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+5.1.3. b. 3 |
 
-|
+Roulement de roue trop serré, bloqué : risque de surchauffe ; risque de destruction |
 
-T
+[Loc] |
 
-|
+Critique |
 
 5.2. ROUES ET PNEUS
 
-|
+5.2.1. MOYEU DE ROUE
 
-|
+5.2.1. a. 1 |
 
-|
+Ecrou ou goujon de roue manquant ou desserré |
 
-|
+[Loc] |
 
-5.2.1. ROUE
+Mineure |
 
-|
+5.2.1. a. 2 |
 
-|
+Ecrous ou goujons de roue manquants ou desserrés |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-5.2.1.1. FONCTIONNEMENT
+5.2.1. a. 3 |
 
-|
+Fixation manquante ou mauvaise fixation qui nuit très gravement à la sécurité routière |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+5.2.1. b. 2 |
 
-5.2.1.1.1. Frottement
+Moyeu usé ou endommagé |
 
-|
+[Loc] |
 
-1235
+Majeure |
 
-|
+5.2.1. b. 3 |
 
-O
+Moyeu tellement usé ou endommagé que la fixation des roues n'est plus assurée |
 
-|
+[Loc] |
 
-T
-
-|
+Critique |
 
 5.2.2. JANTE
 
-|
-
-|
-
-|
-
-|
-
-5.2.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
+5.2.2. a. 3 |
 
-5.2.2.1.1. Détérioration notable
+Fêlure ou défaut de soudure |
 
-|
-
-1235
+[Loc] |
 
-|
+Critique |
 
-S
+5.2.2. b. 2 |
 
-|
+Mauvais assemblage des éléments de jante |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.2.2.1.2. Détérioration
+5.2.2. b. 3 |
 
-|
+Mauvais assemblage des éléments de jante : détachement probable |
 
-1235
+[Loc] |
 
-|
+Critique |
 
-O
+5.2.2. c. 2 |
 
-|
+Jante gravement déformée ou usée |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.2.2.3. FIXATION
+5.2.2. c. 3 |
 
-|
+Jante gravement déformée ou usée : la fixation au moyeu n'est plus assurée ; la fixation du pneu n'est plus assurée |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+5.2.2. d. 2 |
 
-5.2.2.3.1. Défaut notable de fixation
+Taille, conception technique, compatibilité ou type de jante non conforme aux exigences et nuisant à la sécurité routière |
 
-|
+[Loc] |
 
-1235
+Majeure |
 
-|
+5.2.3. PNEUMATIQUES
 
-S
+5.2.3. a. 2 |
 
-|
+La taille, la capacité de charge, la marque de réception ou la catégorie de l'indice de vitesse du pneumatique ne sont pas conformes aux exigences et nuisent à la sécurité routière |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.2.2.3.2. Défaut de fixation
+5.2.3. a. 3 |
 
-|
+Capacité de charge ou catégorie de l'indice de vitesse insuffisant pour l'utilisation réelle, le pneu touche une partie fixe du véhicule, ce qui compromet la sécurité de la conduite |
 
-1235
+[Loc] |
 
-|
+Critique |
 
-O
+5.2.3. b. 2 |
 
-|
+Pneumatiques de taille différente sur un même essieu ou sur des roues jumelées ou de types différents sur un même essieu |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-5.2.2.4. DIVERS
+5.2.3. c. 2 |
 
-|
+Pneumatiques de structure différente |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+5.2.3. d. 2 |
 
-5.2.2.4.1. Elément incomplet
+Pneumatique gravement endommagé ou entaillé |
 
-|
+[Loc] |
 
-1235
+Majeure |
 
-|
+5.2.3. d. 3 |
 
-O
+Corde visible ou endommagée |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+5.2.3. e. 1 |
 
-5.2.3. PNEUMATIQUE
+Usure anormale |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+5.2.3. e. 2 |
 
-|
+L'indicateur d'usure de la profondeur des sculptures est atteint |
 
-5.2.3.1. ETAT
+[Loc] |
 
-|
+Majeure |
 
-|
+5.2.3. e. 3 |
 
-|
+La profondeur des sculptures n'est pas conforme aux exigences |
 
-|
+[Loc] |
 
-5.2.3.1.1. Détérioration importante
+Critique |
 
-|
+5.2.3. f. 1 |
 
-1235
+Frottement ou risque de frottement du pneu contre d'autres éléments (dispositifs antiprojections souples) |
 
-|
+[Loc] |
 
-R
+Mineure |
 
-|
+5.2.3. f. 2 |
 
-T
+Frottement ou risque de frottement du pneu contre d'autres éléments (sécurité de conduite non compromise) |
 
-|
+[Loc] |
 
-5.2.3.1.2. Détérioration notable
+Majeure |
 
-|
+5.2.3. g. 2 |
 
-1235
+Pneumatiques retaillés non conformes aux exigences |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+5.2.3. g. 3 |
 
-T
+Pneumatiques retaillés non conformes aux exigences : couche de protection de la corde affectée |
 
-|
+[Loc] |
 
-5.2.3.1.3. Détérioration
+Critique |
 
-|
+5.2.3. h. 1 |
 
-1235
+Le système de contrôle de la pression des pneumatiques fonctionne mal ou le pneumatique est manifestement sous-gonflé |
 
-|
+[Loc] |
 
-O
+Mineure |
 
-|
+5.2.3. h. 2 |
 
-T
+Le système de contrôle de la pression des pneumatiques est manifestement inopérant |
 
-|
+[Loc] |
 
-5.2.3.1.4. Usure importante
+Majeure |
 
-|
+5.3. SUSPENSION
 
-1235
+5.3.1. RESSORTS ET STABILISATEURS
 
-|
+5.3.1. a. 2 |
 
-R
+Mauvaise attache des ressorts ou stabilisateurs au châssis ou à l'essieu |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+5.3.1. a. 3 |
 
-5.2.3.1.5. Usure notable
+Mauvaise attache des ressorts ou stabilisateurs au châssis ou à l'essieu : jeu visible ; fixations très mal attachées |
 
-|
+[Loc] |
 
-1235
+Critique |
 
-|
+5.3.1. b. 2 |
 
-S
+Un élément de ressort ou de stabilisateur est endommagé ou fendu |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+5.3.1. b. 3 |
 
-5.2.3.4. DIVERS
+Un élément de ressort est endommagé ou fendu : ressort ou lame principale ou lames supplémentaires très gravement affectés |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+5.3.1. c. 2 |
 
-|
+Ressort ou stabilisateur manquant |
 
-5.2.3.4.1. Différence usure > 5mm
+[Loc] |
 
-|
+Majeure |
 
-1235
+5.3.1. c. 3 |
 
-|
+Ressort ou lame principale ou lames supplémentaires manquant (es) |
 
-O
+[Loc] |
 
-|
+Critique |
 
-T
+5.3.1. d. 2 |
 
-|
+Modification présentant un risque |
 
-5.2.3.4.2. Absence du marquage réglementaire
+[Loc] |
 
-|
+Majeure |
 
-1235
+5.3.1. d. 3 |
 
-|
+Modification présentant un risque : distance insuffisante par rapport aux autres parties du véhicule ; ressorts inopérants |
 
-S
+[Loc] |
 
-|
+Critique |
 
-T
+5.3.2. AMORTISSEURS
 
-|
+5.3.2. a. 1 |
 
-5.2.3.4.3. Monte inadaptée
+Mauvaise attache des amortisseurs au châssis ou à l'essieu |
 
-|
+[Loc] |
 
-1235
+Mineure |
 
-|
+5.3.2. a. 2 |
 
-S
+Amortisseur mal fixé |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+5.3.2. b. 2 |
 
-6. CHASSIS ET ACCESSOIRES DU CHASSIS
+Amortisseur endommagé ou donnant des signes de fuite ou de dysfonctionnement grave |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+5.3.2. c. 1 |
 
-|
+Protection défectueuse |
 
-6.1. STRUCTURE
+[Loc] |
 
-|
+Mineure |
 
-|
+5.3.3. TUBES DE POUSSÉE, JAMBES DE FORCE, TRIANGLES ET BRAS DE SUSPENSION
 
-|
+5.3.3. a. 1 |
 
-|
+Détérioration d'un silentbloc de liaison au châssis ou à l'essieu |
 
-6.1.1. LONGERON
+[Loc] |
 
-|
+Mineure |
 
-|
+5.3.3. a. 2 |
 
-|
+Mauvaise attache d'un composant au châssis ou à l'essieu |
 
-|
+[Loc] |
 
-6.1.1.1. ETAT
+Majeure |
 
-|
+5.3.3. a. 3 |
 
-|
+Mauvaise attache d'un composant au châssis ou à l'essieu : risque de détachement ; stabilité directionnelle perturbée |
 
-|
+[Loc] |
 
-|
+Critique |
 
-6.1.1.1.1. Détérioration importante
+5.3.3. b. 2 |
 
-|
+Elément endommagé ou présentant une corrosion excessive |
 
-12346
+[Loc] |
 
-|
+Majeure |
 
-R
+5.3.3. b. 3 |
 
-|
+Elément endommagé ou présentant une corrosion excessive : stabilité de l'élément affectée ou élément fêlé |
 
-T
+[Loc] |
 
-|
+Critique |
 
-6.1.1.1.2. Détérioration notable
+5.3.3. c. 2 |
 
-|
+Modification présentant un risque |
 
-12346
+[Loc] |
 
-|
+Majeure |
 
-S
+5.3.3. c. 3 |
 
-|
+Modification présentant un risque : distance insuffisante par rapport aux autres parties du véhicule ; dispositif inopérant |
 
-T
+[Loc] |
 
-|
+Critique |
 
-6.1.1.1.3. Détérioration
+5.3.4. ROTULES DE SUSPENSION
 
-|
+5.3.4. a. 2 |
 
-12346
+Usure excessive |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+5.3.4. a. 3 |
 
-T
+Usure excessive : risque de détachement ; stabilité directionnelle perturbée |
 
-|
+[Loc] |
 
-6.1.1.1.4. Corrosion notable
+Critique |
 
-|
+5.3.4. b. 1 |
 
-12346
+Capuchon antipoussière gravement détérioré |
 
-|
+[Loc] |
 
-S
+Mineure |
 
-|
+5.3.4. b. 2 |
 
-T
+Capuchon antipoussière manquant ou fêlé |
 
-|
+[Loc] |
 
-6.1.1.1.5. Corrosion superficielle
+Majeure |
 
-|
+5.3.5. SUSPENSION PNEUMATIQUE OU OLÉOPNEUMATIQUE
 
-12346
+5.3.5. a. 3 |
 
-|
+Système inutilisable |
 
-O
+[Loc] |
 
-|
+Critique |
 
-T
+5.3.5. b. 2 |
 
-|
+Un élément est endommagé, modifié ou détérioré d'une façon susceptible d'altérer le fonctionnement du système |
 
-6.1.1.4. DIVERS
+[Loc] |
 
-|
+Majeure |
 
-|
+5.3.5. b. 3 |
 
-|
+Un élément est endommagé, modifié ou détérioré : fonctionnement du système gravement affecté |
 
-|
+[Loc] |
 
-6.1.1.4.1. Contrôle impossible
+Critique |
 
-|
+5.3.5. c. 2 |
 
-|
+Fuite audible dans le système |
 
-R
+[Loc] |
 
-|
+Majeure |
 
-T
+6. CHÂSSIS ET ACCESSOIRES DU CHÂSSIS
 
-|
+6.1. CHÂSSIS ET ACCESSOIRES
 
-6.1.2. BRANCARD
+6.1.1. ÉTAT GÉNÉRAL DU CHÂSSIS
 
-|
+6.1.1. a. 1 |
 
-|
+Déformation mineure d'un longeron ou d'une traverse |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-6.1.2.1. ETAT
+6.1.1. a. 2 |
 
-|
+Légère fêlure ou déformation d'un longeron ou d'une traverse |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.1. a. 3 |
 
-6.1.2.1.1. Détérioration importante
+Grave fêlure ou déformation d'un longeron ou d'une traverse |
 
-|
+[Loc] |
 
-12346
+Critique |
 
-|
+6.1.1. b. 2 |
 
-R
+Mauvaise fixation de plaques de renfort ou d'attaches |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.1. b. 3 |
 
-6.1.2.1.2. Détérioration notable
+Mauvaise fixation de plaques de renfort ou d'attaches : jeu dans la majorité des fixations ; résistance insuffisante des pièces |
 
-|
+[Loc] |
 
-12346
+Critique |
 
-|
+6.1.1. c. 1 |
 
-S
+Corrosion |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+6.1.1. c. 2 |
 
-6.1.2.1.3. Détérioration
+Corrosion excessive affectant la rigidité de l'assemblage |
 
-|
+[Loc] |
 
-12346
+Majeure |
 
-|
+6.1.1. c. 3 |
 
-O
+Corrosion excessive affectant la rigidité de l'assemblage : résistance insuffisante des pièces |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+6.1.1. d. 1 |
 
-6.1.2.1.4. Corrosion notable
+Déformation mineure du berceau |
 
-|
+[Loc] |
 
-12346
+Mineure |
 
-|
+6.1.1. d. 2 |
 
-S
+Légère fêlure ou déformation du berceau |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.1. d. 3 |
 
-6.1.2.1.5. Corrosion superficielle
+Grave fêlure ou déformation du berceau |
 
-|
+[Loc] |
 
-12346
+Critique |
 
-|
+6.1.1. e. 2 |
 
-O
+Mauvaise fixation du berceau |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.1. f. 1 |
 
-6.1.2.4. DIVERS
+Corrosion du berceau |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+6.1.1. f. 2 |
 
-|
+Corrosion excessive affectant la rigidité du berceau |
 
-6.1.2.4.1. Contrôle impossible
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.1. f. 3 |
 
-R
+Corrosion excessive affectant la rigidité du berceau : résistance insuffisante des pièces |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+6.1.1. g. 2 |
 
-6.1.3. TRAVERSE
+Modification présentant un risque |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.2. TUYAUX D'ÉCHAPPEMENT ET SILENCIEUX
 
-|
+6.1.2. a. 1 |
 
-6.1.3.1. ETAT
+Dispositif endommagé sans fuite ni risque de chute |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+6.1.2. a. 2 |
 
-|
+Mauvaise fixation ou manque d'étanchéité du système d'échappement |
 
-6.1.3.1.1. Détérioration importante
+[Loc] |
 
-|
+Majeure |
 
-12346
+6.1.2. a. 3 |
 
-|
+Mauvaise fixation ou manque d'étanchéité du système d'échappement : très grand risque de chute |
 
-R
+[Loc] |
 
-|
+Critique |
 
-T
+6.1.3. RÉSERVOIR ET CONDUITES DE CARBURANT
 
-|
+6.1.3. a. 2 |
 
-6.1.3.1.2. Détérioration notable
+Mauvaise fixation du réservoir, des carters de protection ou des conduites de carburant ne présentant pas un risque particulier d'incendie |
 
-|
+[Loc] |
 
-12346
+Majeure |
 
-|
+6.1.3. a. 3 |
 
-S
+Mauvaise fixation du réservoir ou des conduites de carburant présentant un risque particulier d'incendie |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+6.1.3. b. 2 |
 
-6.1.3.1.3. Détérioration
+Fuite de carburant ou bouchon de remplissage manquant ou inopérant |
 
-|
+[Loc] |
 
-12346
+Majeure |
 
-|
+6.1.3. b. 3 |
 
-O
+Fuite de carburant : risques d'incendie ; perte excessive de substances dangereuses |
 
-|
+[Loc] |
 
-T
+Critique |
 
-|
+6.1.3. c. 1 |
 
-6.1.3.1.4. Corrosion notable
+Conduites abrasées |
 
-|
+[Loc] |
 
-12346
+Mineure |
 
-|
+6.1.3. c. 2 |
 
-S
+Conduites endommagées |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.3. e. 3 |
 
-6.1.3.1.5. Corrosion superficielle
+Risque d'incendie lié à une fuite de carburant, à une mauvaise protection du réservoir de carburant ou du système d'échappement, à l'état du compartiment moteur |
 
 |
-
-12346
 
-|
+Critique |
 
-O
+6.1.3. f. 3 |
 
-|
+Système GPL/ GNC/ GNL non conforme aux exigences, partie du système défectueuse |
 
-T
+[Loc] |
 
-|
+Critique |
 
-6.1.3.3. FIXATION
+6.1.3. g. 1 |
 
-|
+Réservoirs, carters de protection détériorés |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+6.1.3. g. 2 |
 
-6.1.3.3.1. Défaut notable de fixation
+Réservoirs, carters de protection endommagés |
 
-|
+[Loc] |
 
-2346
+Majeure |
 
-|
+6.1.3. h. 2 |
 
-S
+Contrôle impossible du réservoir |
 
 |
 
-T
+Majeure |
 
-|
+6.1.3. i. 1 |
 
-6.1.3.3.2. Défaut de fixation
+Fonctionnement système GNC, niveau de carburant inférieur à 50 % de sa capacité |
 
 |
 
-2346
+Mineure |
 
-|
+6.1.3. i. 2 |
 
-O
+Fonctionnement au gaz carburant impossible |
 
 |
 
-T
+Majeure |
 
-|
+6.1.3. j. 1 |
 
-6.1.3.4. DIVERS
+Absence d'identification du réservoir GNC |
 
 |
 
-|
+Mineure |
 
-|
+6.1.3. k. 2 |
 
-|
+Dispositif de remplissage GAZ détérioré |
 
-6.1.3.4.1. Contrôle impossible
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.3. l. 2 |
 
-R
+Accessoires fixés sur le réservoir détériorés |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.4. PARE-CHOCS, PROTECTION LATÉRALE ET DISPOSITIFS ANTI-ENCASTREMENT
 
-6.1.4. TREILLIS
+6.1.4. a. 2 |
 
-|
+Mauvaise fixation ou endommagement susceptible de causer des blessures en cas de contact |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.4. a. 3 |
 
-6.1.4.1. ETAT
+Mauvaise fixation ou endommagement susceptible de causer des blessures en cas de contact : chute probable de pièces ; fonctionnement gravement affecté |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.1.4. b. 2 |
 
-|
+Dispositif manifestement non conforme aux exigences |
 
-6.1.4.1.1. Détérioration notable
+[Loc] |
 
-|
+Majeure |
 
-12346
+6.1.5. SUPPORT DE ROUE DE SECOURS (LE CAS ÉCHÉANT)
 
-|
+6.1.5. a. 1 |
 
-S
+Support dans un état inacceptable |
 
-|
+[Loc] |
 
-T
+Mineure |
 
-|
+6.1.5. b. 2 |
 
-6.1.4.1.2. Détérioration
+Support fêlé ou mal fixé |
 
-|
+[Loc] |
 
-12346
+Majeure |
 
-|
+6.1.5. c. 2 |
 
-O
+Roue de secours mal attachée au support |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+6.1.5. c. 3 |
 
-6.1.4.1.3. Corrosion notable
+Roue de secours mal attachée au support : très grand risque de chute |
 
 |
-
-12346
 
-|
+Critique |
 
-S
+6.1.6. ACCOUPLEMENT MÉCANIQUE ET DISPOSITIF DE REMORQUAGE
 
-|
+6.1.6. a. 2 |
 
-T
+Elément endommagé, défectueux ou fissuré |
 
 |
 
-6.1.4.1.4. Corrosion superficielle
+Majeure |
 
-|
+6.1.6. a. 3 |
 
-12346
+Elément endommagé, défectueux ou fissuré (si utilisé) |
 
 |
 
-O
+Critique |
 
-|
+6.1.6. b. 2 |
 
-T
+Usure excessive d'un élément |
 
 |
 
-6.1.4.4. DIVERS
+Majeure |
 
-|
+6.1.6. b. 3 |
 
-|
+Limite d'usure dépassée |
 
 |
 
-|
+Critique |
 
-6.1.4.4.1. Contrôle impossible
+6.1.6. c. 2 |
 
-|
+Mauvaise fixation |
 
 |
 
-S
+Majeure |
 
-|
+6.1.6. c. 3 |
 
-T
+Fixation mal attachée avec un très grand risque de chute |
 
 |
 
-6.1.5. COQUE
+Critique |
 
-|
+6.1.6. d. 2 |
 
-|
+Absence ou mauvais fonctionnement d'un dispositif de sécurité |
 
 |
 
-|
+Majeure |
 
-6.1.5.1. ETAT
+6.1.6. e. 2 |
 
-|
+Témoin d'accouplement inopérant |
 
 |
 
-|
+Majeure |
 
-|
+6.1.6. f. 1 |
 
-6.1.5.1.1. Détérioration notable
+Obstruction, hors utilisation, de la plaque d'immatriculation ou d'un feu |
 
 |
 
-2356
+Mineure |
 
-|
+6.1.6. f. 2 |
 
-S
+Plaque d'immatriculation illisible (hors utilisation) |
 
 |
 
-T
+Majeure |
 
-|
+6.1.6. g. 2 |
 
-6.1.5.1.2. Détérioration
+Modification présentant un risque (pièces auxiliaires) |
 
 |
 
-2356
+Majeure |
 
-|
+6.1.6. g. 3 |
 
-O
+Modification présentant un risque (pièces principales) |
 
 |
 
-T
+Critique |
 
-|
+6.1.6. h. 2 |
 
-6.1.5.1.3. Corrosion notable
+Accouplement trop faible |
 
 |
 
-2356
+Majeure |
 
-|
+6.1.7. TRANSMISSION
 
-S
+6.1.7. a. 2 |
 
-|
+Boulons de fixation desserrés ou manquants |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-6.1.5.1.4. Corrosion superficielle
+6.1.7. a. 3 |
 
-|
+Boulons de fixation desserrés ou manquants au point de constituer une menace grave pour la sécurité routière |
 
-2356
+[Loc] |
 
-|
+Critique |
 
-O
+6.1.7. b. 2 |
 
-|
+Usure excessive des roulements de l'arbre de transmission |
 
-T
+[Loc] |
 
-|
+Majeure |
 
-6.2. CARROSSERIE
+6.1.7. b. 3 |
 
-|
+Usure excessive des roulements de l'arbre de transmission : très grand risque de déboîtement ou de fissure |
 
-|
-
-|
-
-|
-
-6.2.1. CARROSSERIE
-
-|
-
-|
-
-|
-
-|
-
-6.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.1.1.1. Détérioration notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.1.1.2. Partie saillante
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.1.1.3. Dépassement latéral
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.1.1.4. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.1.1.5. Corrosion notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.1.1.6. Corrosion superficielle
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.1.3.1. Défaut notable de fixation
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.1.3.2. Défaut de fixation
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.1.4.1. Absence
-
-|
-
-|
-
-X
-
-|
-
-T
-
-|
-
-6.2.2. CAISSE
-
-|
-
-|
-
-|
-
-|
-
-6.2.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.2.1.1. Détérioration notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.2.1.2. Partie saillante
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.2.1.3. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.2.3.1. Défaut notable de fixation
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.2.3.2. Défaut de fixation
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.2.4.1. Absence
-
-|
-
-|
-
-X
-
-|
-
-T
-
-|
-
-6.2.3. BACHE
-
-|
-
-|
-
-|
-
-|
-
-6.2.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.3.1.1. Détérioration notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.3.1.2. Partie saillante
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.3.1.3. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.3.3.1. Défaut notable de fixation
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.3.3.2. Défaut de fixation
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.4. BENNE
-
-|
-
-|
-
-|
-
-|
-
-6.2.4.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.4.3.1. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.4.3.2. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.4.3.3. Butée avant absente
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.4.4.1. Intervalle de position du centre de gravité à repérer
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.4.4.2. Fuite vérin
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.4.4.3. Fuite pompe hydraulique
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.5. CAISSE AMOVIBLE
-
-|
-
-|
-
-|
-
-|
-
-6.2.5.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.5.3.1. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.5.3.2. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.5.3.3. Butée avant absente
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.5.4.1. Repère centre de gravité
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.6. GRUE
-
-|
-
-|
-
-|
-
-|
-
-6.2.6.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.6.3.1. Défaut notable de fixation
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.6.3.2. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.6.4.1. Fuite vérin
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.6.4.2. Fuite pompe hydraulique
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.7. HAYON
-
-|
-
-|
-
-|
-
-|
-
-6.2.7.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.7.3.1. Défaut notable de fixation
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.7.3.2. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.7.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.7.4.1. Fuite vérin
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.7.4.2. Fuite pompe hydraulique
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.8. CABINE
-
-|
-
-|
-
-|
-
-|
-
-6.2.8.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.8.1.1. Détérioration notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-6 2.8 1.2. Partie saillante
-
-|
-
-236
-
-|
-
-S
-
-|
-
-M
-
-|
-
-6.2.8.1.3. Détérioration
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-6.2.8.1.4. Corrosion notable
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-6.2.8.1.5. Corrosion superficielle
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-6.2.8.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.8.3.1. Défaut notable de fixation
-
-|
-
-2356
-
-|
-
-S
-
-|
-
-M
-
-|
-
-6.2.8.3.2. Défaut de fixation
-
-|
-
-2356
-
-|
-
-O
-
-|
-
-M
-
-|
-
-6.2.9. MARCHE-PIEDS
-
-|
-
-|
-
-|
-
-|
-
-6.2.9.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.9.1.1. Détérioration
-
-|
-
-36
-
-|
-
-O
-
-|
-
-M
-
-|
-
-6.2.9.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.9.4.1. Absence
-
-|
-
-36
-
-|
-
-O
-
-|
-
-M
-
-|
-
-6.2.10. PORTE
-
-|
-
-|
-
-|
-
-|
-
-6.2.10.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.10.1.1. Détérioration notable
-
-|
-
-32
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.10.1.2. Partie saillante
-
-|
-
-32
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.10.1.3. Détérioration
-
-|
-
-32
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.10.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-6.2.10.2.1. Mauvais fonctionnement
-
-|
-
-32
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.10.2.2. Fonctionnement anormal
-
-|
-
-32
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.10.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.10.3.1. Défaut notable de fixation
-
-|
-
-32
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.10.3.2. Défaut de fixation
-
-|
-
-32
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.10.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.10.4.1. Absence
-
-|
-
-32
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.11. FAUX-CHASSIS
-
-|
-
-|
-
-|
-
-|
-
-6.2.11.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.11.1.1. Détérioration notable
-
-|
-
-2346
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.11.1.2. Détérioration
-
-|
-
-12346
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.11.1.3. Corrosion notable
-
-|
-
-12346
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.11.1.4. Corrosion superficielle
-
-|
-
-12346
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.11.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.11.3.1. Défaut de fixation
-
-|
-
-12346
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.12. PLANCHER
-
-|
-
-|
-
-|
-
-|
-
-6.2.12.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.12.1.1. Détérioration notable
-
-|
-
-235
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.12.1.2. Détérioration
-
-|
-
-235
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.13. COFFRE
-
-|
-
-|
-
-|
-
-|
-
-6.2.13.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.13.1.1. Détérioration notable
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.13.1.2. Partie saillante
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.13.1.3. Détérioration
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.13.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.13.2.1. Défaut notable de fixation
-
-|
-
-234
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.13.2.2. Défaut de fixation
-
-|
-
-234
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.14. SUPPORTS ROUE DE SECOURS
-
-|
-
-|
-
-|
-
-|
-
-6.2.14.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.14.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.14.1.2. Partie saillante
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.14.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.14.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.14.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.14.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.15. SUPPORT BATTERIE
-
-|
-
-|
-
-|
-
-|
-
-6.2.15.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.15.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.15.1.2. Partie saillante
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.15.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.15.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.15.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.15.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.16. BEQUILLE
-
-|
-
-|
-
-|
-
-|
-
-6.2.16.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.16.1.1. Détérioration notable
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.16.1.2. Détérioration
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.16.1.3. Partie saillante
-
-|
-
-3
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.16.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.16.3.1. Défaut de fixation
-
-|
-
-3
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.17. ANTI-PROJECTION
-
-|
-
-|
-
-|
-
-|
-
-6.2.17.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.17.1.1. Détérioration notable
-
-|
-
-136
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.17.1.2. Partie saillante
-
-|
-
-136
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.17.1.3. Détérioration
-
-|
-
-136
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.17.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.17.3.1. Défaut notable de fixation
-
-|
-
-136
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.17.3.2. Défaut de fixation
-
-|
-
-136
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.17.3.3. Défaut de positionnement
-
-|
-
-136
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.17.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.17.4.1. Absence
-
-|
-
-136
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.17.4.2. Incomplet
-
-|
-
-136
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.17.4.5. Matériau inadapté
-
-|
-
-136
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.18. PARE-CHOCS
-
-|
-
-|
-
-|
-
-|
-
-6.2.18.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.18.1.1. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.18.1.2. Partie saillante
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.18.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.18.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.18.3.1. Défaut de positionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.18.3.2. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.18.3.3. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.18.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.18.4.1. Absence du dispositif prévu d'origine
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.19. BOUCLIER
-
-|
-
-|
-
-|
-
-|
-
-6.2.19.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.19.1.1. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.19.1.2. Partie saillante
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.19.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.19.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.19.3.1. Défaut de positionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.19.3.2. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.19.3.3. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.19.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.19.4.1. Absence du dispositif prévu d'origine
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.20. ANTI-ENCASTREMENT
-
-|
-
-|
-
-|
-
-|
-
-6.2.20.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.20.1.1. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.20.1.2. Partie saillante
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.20.1.3. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.20.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.20.3.1. Défaut notable de positionnement
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.20.3.4. Défaut de positionnement
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.20.3.5. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.20.3.6. Verrouillage insuffisant
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.20.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.20.4.1. Absence
-
-|
-
-23
-
-|
-
-R
-
-|
-
-T
-
-|
-
-6.2.20.4.3. Incomplet
-
-|
-
-23
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.20.4.4. Montage inadapté
-
-|
-
-23
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.21. PROTECTION LATERALE
-
-|
-
-|
-
-|
-
-|
-
-6.2.21.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-6.2.21.1.1. Détérioration notable
-
-|
-
-423
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.21.1.2. Partie saillante
-
-|
-
-423
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.21.1.3. Détérioration
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.21.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-6.2.21.3.1. Défaut notable de positionnement
-
-|
-
-423
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.21.3.3. Défaut de positionnement
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.21.3.4. Défaut de fixation
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.21.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-6.2.21.4.1. Absence
-
-|
-
-423
-
-|
-
-S
-
-|
-
-T
-
-|
-
-6.2.21.4.3. Section insuffisante
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.21.4.4. Mal dimensionné
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-6.2.21.4.5. Incomplet
-
-|
-
-423
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7. EQUIPEMENTS
-
-|
-
-|
-
-|
-
-|
-
-7.1. HABITACLE
-
-|
-
-|
-
-|
-
-|
-
-7.1.1. SIEGE CONDUCTEUR
-
-|
-
-|
-
-|
-
-|
-
-7.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.1.1.1.1. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.1.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.1.1.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.1.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.1.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.1.1.4.1. Absence
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.2. SIEGE PASSAGER
-
-|
-
-|
-
-|
-
-|
-
-7.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.1.2.1.1. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.1.2.3.1. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.3. CEINTURE
-
-|
-
-|
-
-|
-
-|
-
-7.1.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.1.3.1.1. Détérioration notable
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.3.1.2. Détérioration
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.1.3.2.1. Fonctionnement anormal
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.3.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.1.3.3.1. Défaut notable de fixation
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.3.3.2. Défaut de fixation
-
-|
-
-23
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.1.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.1.3.4.1. Absence
-
-|
-
-23
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.1.3.4.2. Contrôle impossible
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.2. DISPOSITIF D'ATTELAGE
-
-|
-
-|
-
-|
-
-|
-
-7.2.1. SELLETTE D'ATTELAGE
-
-|
-
-|
-
-|
-
-|
-
-7.2.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.2.1.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-7.2.1.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.1.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.1.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.2.1.2.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.1.2.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.1.2.3. Défaut notable de positionnement
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.2. CHEVILLE OUVRIERE
-
-|
-
-|
-
-|
-
-|
-
-7.2.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.2.2.2.1. Jeu notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.2.2.2. Jeu anormal
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.3. CROCHET D'ATTELAGE
-
-|
-
-|
-
-|
-
-|
-
-7.2.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.2.3.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-7.2.3.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.3.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.3.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.2.3.2.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.3.2.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.3.3. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.2.3.3.1. A supprimer
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.4. ANNEAU D'ATTELAGE
-
-|
-
-|
-
-|
-
-|
-
-7.2.4.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.2.4.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-7.2.4.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.4.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.4.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.2.4.2.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.4.2.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.5. TIMON D'ATTELAGE
-
-|
-
-|
-
-|
-
-|
-
-7.2.5.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.2.5.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-T
-
-|
-
-7.2.5.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.5.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.5.2. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.2.5.2.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-T
-
-|
-
-7.2.5.2.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.2.6. TOURELLE D'AVANT TRAIN
-
-|
-
-|
-
-|
-
-|
-
-7.2.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.2.6.1.1. Détérioration importante
-
-|
-
-|
-
-R
-
-|
-
-R
-
-|
-
-7.2.6.1.2. Détérioration notable
-
-|
-
-|
-
-S
-
-|
-
-R
-
-|
-
-7.2.6.1.3. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-R
-
-|
-
-7.2.6.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.2.6.2.1. Jeu notable
-
-|
-
-|
-
-S
-
-|
-
-R
-
-|
-
-7.2.6.2.2. Jeu anormal
-
-|
-
-|
-
-O
-
-|
-
-R
-
-|
-
-7.2.6.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.2.6.3.1. Défaut notable de fixation
-
-|
-
-|
-
-S
-
-|
-
-R
-
-|
-
-7.2.6.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-R
-
-|
-
-7.3. AUTRES EQUIPEMENTS
-
-|
-
-|
-
-|
-
-|
-
-7.3.1. AVERTISSEUR SONORE ET SA COMMANDE
-
-|
-
-|
-
-|
-
-|
-
-7.3.1.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.3.1.2.1. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.3.1.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.2. EXTINCTEUR
-
-|
-
-|
-
-|
-
-|
-
-7.3.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.3.2.1.1. Détérioration
-
-|
-
-52
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.3.2.3.1. Défaut de fixation
-
-|
-
-52
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.2.4.1. Absence
-
-|
-
-52
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.2.4.2. Capacité ou caractéristiques inadaptées
-
-|
-
-52
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.2.4.3. Marquage absent ou inadapté
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.3. INDICATEUR DE VITESSE
-
-|
-
-|
-
-|
-
-|
-
-7.3.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.3.3.2.1. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.3.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.3.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.4. CHRONOTACHYGRAPHE, COMPTEUR KILOMÉTRIQUE
-
-|
-
-|
-
-|
-
-|
-
-7.3.4.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-7.3.4.2.1. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.4.4. DIVERS CHRONOTACHYGRAPHE
-
-|
-
-|
-
-|
-
-|
-
-7.3.4.4.1. Absence
-
-|
-
-|
-
-R
-
-|
-
-M
-
-|
-
-7.3.4.4.3. Vérification périodique non effectuée
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.4.4.4. Absence de plombage (sur boîte de vitesse)
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.4.4.5. Plombage détérioré
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.4.4.6. Non adapté aux pneumatiques
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.4.4.7. Absence de plaque d'installation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.4.4.8. Absence de plombage sur plaque d'installation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.4.4.9. Visite chronotachygraphe obligatoire, sauf dérogation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.5. LIMITEUR DE VITESSE
-
-|
-
-|
-
-|
-
-|
-
-7.3.5.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.5.4.1. Absence d'étiquette
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.5.4.2. Absence d'attestation de conformité
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.5.4.3. Défaut de contrôle du limiteur de vitesse
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.5.4.4. Vitesse du véhicule limitée sans dispositif additionnel
-
-|
-
-|
-
-C
-
-|
-
-M
-
-|
-
-7.3.6. DISQUE LIMITATION DE VITESSE
-
-|
-
-|
-
-|
-
-|
-
-7.3.6.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.3.6.1.1. Détérioration
-
-|
-
-A7
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.6.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.3.6.3.1. Défaut de positionnement
-
-|
-
-A7
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.6.3.2. Défaut de fixation
-
-|
-
-A7
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.6.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.6.4.1. Absence
-
-|
-
-A7
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.6.4.2. Vitesse non conforme
-
-|
-
-A7
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.7. PLAQUE DE TARE
-
-|
-
-|
-
-|
-
-|
-
-7.3.7.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-7.3.7.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.7.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.3.7.3.1. Défaut de positionnement
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.7.3.2. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.7.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.7.4.1. Absence
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.7.4.2. Erreur sur plaque de tare
-
-|
-
-|
-
-O
-
-|
-
-T
-
-|
-
-7.3.8. BATTERIE (S)
-
-|
-
-|
-
-|
-
-|
-
-7.3.8.1. ÉTANCHÉITÉ
-
-|
-
-|
-
-|
-
-|
-
-7.3.8.1.1. Défaut d'étanchéité
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.8.1.2. Ventilation inadéquate
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.8.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-7.3.8.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-7.3.8.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-7.3.8.4.1. Borne (s) non isolée (s) électriquement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-7.3.8.4.2. Borne (s) non couverte (s) par un couvercle isolant
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-8. ORGANES MECANIQUES
-
-|
-
-|
-
-|
-
-|
-
-8.1. GROUPE MOTO-PROPULSEUR
-
-|
-
-|
-
-|
-
-|
-
-8.1.1. MOTEUR
-
-|
-
-|
-
-|
-
-|
-
-8.1.1.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-8.1.1.1.1. Fuite notable
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-8.1.1.1.2. Fuite
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-8.1.1.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-8.1.1.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-8.1.2. COMMANDE D'ACCELERATEUR
-
-|
-
-|
-
-|
-
-|
-
-8.1.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-8.1.2.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-8.1.2.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-8.1.2.2.1. Mauvais fonctionnement
-
-|
-
-|
-
-S
-
-|
-
-M
-
-|
-
-8.1.2.2.2. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-8.1.3. COMMANDE D'EMBRAYAGE
-
-|
-
-|
-
-|
-
-|
-
-8.1.3.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-8.1.3.1.1. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-8.1.3.2. FONCTIONNEMENT
-
-|
-
-|
-
-|
-
-|
-
-8.1.3.2.1. Fonctionnement anormal
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
+[Loc] |
 
-8.1.4. ARBRE DE TRANSMISSION
+Critique |
 
-|
+6.1.7. c. 2 |
 
-|
+Usure excessive des joints universels |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-8.1.4.1. ETAT
+6.1.7. c. 3 |
 
-|
+Usure excessive des joints universels : très grand risque de déboîtement ou de fissure |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.1.7. d. 2 |
 
-8.1.4.1.1. Détérioration notable
+Raccords flexibles détériorés |
 
-|
+[Loc] |
 
-241
+Majeure |
 
-|
+6.1.7. d. 3 |
 
-S
+Raccords flexibles détériorés : très grand risque de déboîtement ou de fissure |
 
-|
+[Loc] |
 
-M
+Critique |
 
-|
+6.1.7. e. 2 |
 
-8.1.4.1.2. Détérioration
+Arbre de transmission endommagé ou déformé |
 
-|
+[Loc] |
 
-241
+Majeure |
 
-|
+6.1.7. f. 2 |
 
-O
+Cage de roulement fissurée ou mal fixée |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+6.1.7. f. 3 |
 
-8.1.4.2. FONCTIONNEMENT
+Cage de roulement fissurée ou mal fixée : très grand risque de déboîtement ou de fissure |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.1.7. g. 1 |
 
-|
+Capuchon anti-poussière gravement détérioré |
 
-8.1.4.2.1. Jeu notable
+[Loc] |
 
-|
+Mineure |
 
-241
+6.1.7. g. 2 |
 
-|
+Capuchon anti-poussière manquant ou fêlé |
 
-S
+[Loc] |
 
-|
+Majeure |
 
-M
+6.1.7. h. 2 |
 
-|
+Modification illégale de la transmission |
 
-8.1.4.2.2. Jeu anormal
+[Loc] |
 
-|
+Majeure |
 
-241
+6.1.8. SUPPORT DE MOTEUR
 
-|
+6.1.8. a. 1 |
 
-O
+Anomalie de fixation |
 
-|
+[Loc] |
 
-M
+Mineure |
 
-|
+6.1.8. a. 2 |
 
-8.1.4.4. DIVERS
+Fixations détériorées, manifestement gravement endommagées |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.1.8. a. 3 |
 
-|
+Fixations desserrées ou fêlées |
 
-8.1.4.4.1. Contrôle impossible
+[Loc] |
 
-|
+Critique |
 
-241
+6.2. CABINE ET CARROSSERIE
 
-|
+6.2.1. ÉTAT DE LA CABINE ET DE LA CARROSSERIE
 
-S
+6.2.1. a. 1 |
 
-|
+Panneau ou élément endommagé |
 
-M
+[Loc] |
 
-|
+Mineure |
 
-8.1.5. CARDAN
+6.2.1. a. 2 |
 
-|
+Panneau ou élément mal fixé ou endommagé susceptible de provoquer des blessures |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.1. a. 3 |
 
-8.1.5.1. ETAT
+Panneau ou élément mal fixé ou endommagé susceptible de provoquer des blessures : chute probable |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.2.1. b. 2 |
 
-|
+Montant mal fixé |
 
-8.1.5.1.1. Détérioration notable
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.1. b. 3 |
 
-S
+Montant mal fixé : stabilité compromise |
 
-|
+[Loc] |
 
-M
+Critique |
 
-|
+6.2.1. c. 3 |
 
-8.1.5.1.2. Détérioration
+Entrée de fumées du moteur ou d'échappement |
 
-|
+[Loc] |
 
-|
+Critique |
 
-O
+6.2.1. d. 2 |
 
-|
+Modification présentant un risque |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-8.1.5.2. FONCTIONNEMENT
+6.2.1. d. 3 |
 
-|
+Modification présentant un risque : distance insuffisante par rapport aux pièces en rotation ou en mouvement ou par rapport à la route |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.2.2. FIXATION DE LA CABINE ET DE LA CARROSSERIE
 
-8.1.5.2.1. Jeu notable
+6.2.2. a. 2 |
 
-|
+Cabine mal fixée |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+6.2.2. a. 3 |
 
-M
+Cabine mal fixée : stabilité compromise |
 
-|
+[Loc] |
 
-8.1.5.2.2. Jeu anormal
+Critique |
 
-|
+6.2.2. b. 2 |
 
-|
+Carrosserie/ cabine manifestement mal centrée sur le châssis |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-M
+6.2.2. c. 2 |
 
-|
+Fixation mauvaise ou manquante de la carrosserie sur le châssis ou sur les traverses |
 
-8.1.5.4. DIVERS
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.2. c. 3 |
 
-|
+Fixation mauvaise ou manquante de la carrosserie sur le châssis ou sur les traverses au point de constituer une menace très grave pour la sécurité routière |
 
-|
+[Loc] |
 
-8.1.5.4.1. Contrôle impossible
+Critique |
 
-|
+6.2.2. d. 2 |
 
-|
+Corrosion excessive aux points de fixation sur les caisses autoporteuses |
 
-S
+[Loc] |
 
-|
+Majeure |
 
-M
+6.2.2. d. 3 |
 
-|
+Corrosion excessive aux points de fixation sur les caisses autoporteuses : stabilité altérée |
 
-8.1.6. PALIER RELAIS DE TRANSMISSION
+[Loc] |
 
-|
+Critique |
 
-|
+6.2.3. PORTES ET POIGNÉES DE PORTE
 
-|
+6.2.3. a. 2 |
 
-|
+Une portière ne s'ouvre ou ne se ferme pas correctement |
 
-8.1.6.1. ETAT
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.3. b. 2 |
 
-|
+Une portière est susceptible de s'ouvrir inopinément ou ne reste pas fermée (portes coulissantes) |
 
-|
+[Loc] |
 
-8.1.6.1.1. Détérioration
+Majeure |
 
-|
+6.2.3. b. 3 |
 
-|
+Une portière est susceptible de s'ouvrir inopinément ou ne reste pas fermée (portes pivotantes) |
 
-O
+[Loc] |
 
-|
+Critique |
 
-M
+6.2.3. c. 1 |
 
-|
+Portière, charnières, serrures ou gâches détériorées |
 
-8.1.6.1.2. Défaut d'étanchéité
+[Loc] |
 
-|
+Mineure |
 
-|
+6.2.3. c. 2 |
 
-O
+Portière, charnières, serrures ou gâches manquantes ou mal fixées |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+6.2.3. d. 2 |
 
-8.1.6.2. FONCTIONNEMENT
+Portière détériorée susceptible de provoquer des blessures |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.4. PLANCHER
 
-|
+6.2.4. a. 1 |
 
-8.1.6.2.1. Jeu anormal
+Plancher détérioré |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-O
+6.2.4. a. 2 |
 
-|
+Plancher mal fixé ou gravement détérioré |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-8.1.6.3. FIXATION
+6.2.4. a. 3 |
 
-|
+Plancher mal fixé ou gravement détérioré : stabilité insuffisante |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+6.2.5. SIÈGE CONDUCTEUR
 
-8.1.6.3.1. Défaut de fixation
+6.2.5. a. 1 |
 
-|
+Siège défectueux |
 
 |
 
-O
+Mineure |
 
-|
+6.2.5. a. 2 |
 
-M
+Structure du siège défectueuse |
 
 |
 
-8.1.7. PONT
+Majeure |
 
-|
+6.2.5. a. 3 |
 
-|
+Siège mal fixé |
 
 |
 
-|
+Critique |
 
-8.1.7.1. ETAT
+6.2.5. b. 2 |
 
-|
+Mauvais fonctionnement du mécanisme de réglage |
 
 |
 
-|
+Majeure |
 
-|
+6.2.5. b. 3 |
 
-8.1.7.1.1. Défaut d'étanchéité
+Mauvais fonctionnement du mécanisme de réglage : siège mobile ou dossier impossible à fixer |
 
 |
 
-13
+Critique |
 
-|
-
-O
+6.2.6. AUTRES SIÈGES
 
-|
+6.2.6. a. 1 |
 
-M
+Sièges défectueux ou mal fixés (pièces auxiliaires) |
 
 |
 
-8.1.7.3. FIXATION
+Mineure |
 
-|
+6.2.6. a. 2 |
 
-|
+Sièges défectueux ou mal fixés (pièces principales) |
 
 |
 
-|
+Majeure |
 
-8.1.7.3.1. Défaut notable de fixation
+6.2.6. b. 1 |
 
+Siège absent lors du contrôle |
+
 |
 
-13
+Mineure |
 
-|
+6.2.6. b. 2 |
 
-S
+Dépassement du nombre de sièges autorisé ; disposition non conforme à la réception |
 
 |
 
-M
+Majeure |
 
-|
+6.2.7. COMMANDES DE CONDUITE
+
+6.2.7. a. 2 |
 
-8.1.7.3.2. Défaut de fixation
+Une commande nécessaire à la conduite sûre du véhicule ne fonctionne pas correctement |
 
 |
 
-13
+Majeure |
 
-|
+6.2.7. a. 3 |
 
-O
+Une commande nécessaire à la conduite sûre du véhicule ne fonctionne pas correctement : sécurité compromise |
 
 |
 
-M
+Critique |
 
-|
+6.2.8. MARCHEPIEDS POUR ACCÉDER À LA CABINE
 
-8.1.8. BOITE TRANSFERT
+6.2.8. a. 1 |
 
-|
+Marchepied ou anneau de marchepied mal fixé |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+6.2.8. a. 2 |
 
-8.1.8.1. ETAT
+Marchepied ou anneau de marchepied mal fixé : stabilité insuffisante |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.8. b. 2 |
 
-|
+Marchepied ou anneau dans un état susceptible de blesser les utilisateurs |
 
-8.1.8.1.1. Détérioration
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.8. c. 2 |
 
-O
+Mauvais fonctionnement du marchepied escamotable |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+6.2.9. AUTRES ÉQUIPEMENTS ET AMÉNAGEMENTS INTÉRIEURS ET EXTÉRIEURS
 
-8.1.8.1.2. Défaut d'étanchéité
+6.2.9. a. 2 |
 
-|
+Fixation défectueuse d'un accessoire ou équipement |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+6.2.9. b. 1 |
 
-M
+Accessoire ou équipement non conforme aux exigences |
 
-|
+[Loc] |
 
-8.1.8.2. FONCTIONNEMENT
+Mineure |
 
-|
+6.2.9. b. 2 |
 
-|
+Pièces rapportées risquant de causer des blessures, sécurité compromise |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-8.1.8.2.1. Non fonctionnement (si 4X4)
+6.2.9. c. 1 |
 
-|
+Equipement hydraulique non étanche |
 
-|
+[Loc] |
 
-X
+Mineure |
 
-|
+6.2.9. c. 2 |
 
-M
+Equipement hydraulique non étanche : perte excessive de substances dangereuses |
 
-|
+[Loc] |
 
-8.1.8.2.2. Jeu anormal
+Majeure |
 
-|
+6.2.10. GARDE-BOUE, DISPOSITIFS ANTIPROJECTIONS
 
-|
+6.2.10. a. 1 |
 
-O
+Détériorés ou mal fixés |
 
-|
+[Loc] |
 
-M
+Mineure |
 
-|
+6.2.10. a. 2 |
 
-8.1.8.3. FIXATION
+Manquants, gravement détériorés ou risque de chute |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.10. c. 2 |
 
-|
+Non conforme aux exigences |
 
-8.1.8.3.1. Défaut notable de fixation
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.11. BÉQUILLE
 
-S
+6.2.11. a. 2 |
 
-|
+Manquante ou mal fixée ou gravement rouillée |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-8.1.8.3.2. Défaut de fixation
+6.2.11. c. 2 |
 
-|
+Risque de se déplier lorsque le véhicule est en mouvement |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+6.2.13. AUTRES OUVRANTS
 
-M
+6.2.13. a. 2
 
 |
 
-8.1.9. BOITE VITESSE
+Un ouvrant est susceptible de s'ouvrir inopinément ou ne reste pas fermé |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+6.2.13. b. 1 |
 
+Détérioration
+
 |
 
-8.1.9.1. ETAT
+[Loc] |
 
-|
+Mineure |
 
-|
+6.2.13. b. 2 |
 
-|
+Détérioration susceptible de provoquer des blessures
 
 |
 
-8.1.9.1.1. Détérioration
+[Loc] |
 
-|
+Majeure |
 
-|
+7. AUTRE MATÉRIEL
 
-O
+7.1. CEINTURES DE SÉCURITÉ, BOUCLES ET SYSTÈMES DE RETENUE
 
-|
+7.1.1. SÛRETÉ DU MONTAGE DES CEINTURES DE SÉCURITÉ ET DE LEURS ANCRAGES
 
-M
+7.1.1. a. 2 |
 
-|
+Point d'ancrage gravement détérioré |
 
-8.1.9.1.2. Défaut d'étanchéité
+[Loc] |
 
-|
+Majeure |
 
-|
+7.1.1. a. 3 |
 
-O
+Point d'ancrage gravement détérioré : stabilité réduite |
 
-|
+[Loc] |
 
-M
+Critique |
 
-|
+7.1.1. b. 2 |
 
-8.1.9.3. FIXATION
+Ancrage desserré |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+7.1.2. ÉTAT DES CEINTURES DE SÉCURITÉ ET DE LEURS BOUCLES
 
-|
+7.1.2. a. 3 |
 
-8.1.9.3.1. Défaut de fixation
+Ceinture de sécurité obligatoire manquante ou non montée |
 
-|
+[Loc] |
 
-|
+Critique |
 
-O
+7.1.2. b. 1 |
 
-|
+Ceinture de sécurité endommagée |
 
-M
+[Loc] |
 
-|
+Mineure |
 
-8.1.9.4. DIVERS
+7.1.2. b. 2 |
 
-|
+Ceinture de sécurité endommagée : coupure ou signes de distension |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+7.1.2. c. 2 |
 
-8.1.9.4.1. Détérioration du levier
+Ceinture de sécurité non conforme aux exigences |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-O
+7.1.2. d. 2 |
 
-|
+Boucle de ceinture de sécurité endommagée ou ne fonctionnant pas correctement |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-8.2. ALIMENTATION
+7.1.2. e. 2 |
 
-|
+Rétracteur de ceinture de sécurité endommagé ou ne fonctionnant pas correctement |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+7.1.3. LIMITEUR D'EFFORT DE CEINTURE DE SÉCURITÉ
 
-8.2.1. CIRCUIT DE CARBURANT
+7.1.3. a. 2 |
 
-|
+Limiteur d'effort manifestement manquant ou ne convenant pas pour le véhicule |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+7.1.3. b. 2 |
 
-8.2.1.1. ETAT
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-|
+Majeure |
 
-|
+7.1.4. PRÉTENSIONNEUR DE CEINTURE DE SÉCURITÉ
 
-|
+7.1.4. a. 2 |
 
-8.2.1.1.1. Défaut notable d'étanchéité
+Prétensionneur endommagé, manifestement manquant ou ne convenant pas au véhicule |
 
-|
+[Loc] |
 
-231
+Majeure |
 
-|
+7.1.4. b. 2 |
 
-S
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-M
+Majeure |
 
-|
+7.1.5. AIRBAG
 
-8.2.1.1.2. Défaut d'étanchéité
+7.1.5. a. 2 |
 
-|
+Coussins gonflables manifestement manquants ou ne convenant pas pour le véhicule |
 
-231
+[Loc] |
 
-|
+Majeure |
 
-O
+7.1.5. b. 2 |
 
+Le système signale une défaillance via l'interface électronique du véhicule |
+
 |
 
-M
+Majeure |
 
-|
+7.1.5. c. 2 |
 
-8.2.1.1.3. Détérioration
+Coussin gonflable manifestement inopérant |
 
-|
+[Loc] |
 
-231
+Majeure |
 
-|
+7.1.5. d. 1 |
 
-O
+Mauvaise configuration du système de désactivation du coussin gonflable passager |
 
 |
 
-M
+Mineure |
 
-|
+7.1.6. SYSTÈME DE RETENUE SUPPLÉMENTAIRE (SRS)
 
-8.2.1.3. FIXATION
+7.1.6. a. 2 |
 
-|
+L'indicateur de dysfonctionnement fait état d'une défaillance du système |
 
 |
 
-|
+Majeure |
 
-|
+7.1.6. b. 2 |
 
-8.2.1.3.1. Défaut de fixation
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-231
+Majeure |
 
-|
+7.2. EXTINCTEUR
 
-O
+7.2.1. EXTINCTEUR
 
-|
+7.2.1. a. 2 |
 
-M
+Manquant |
 
-|
+[Loc] |
 
-8.2.2. RESERVOIR DE CARBURANT
+Majeure |
 
-|
+7.2.1. b. 1 |
 
-|
+Non conforme aux exigences |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-8.2.2.1. ETAT
+7.2.1. b. 2 |
 
-|
+Non conforme aux exigences : si requis |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-|
+7.3. SERRURES ET DISPOSITIF ANTIVOL
 
-8.2.2.1.1. Défaut notable d'étanchéité
+7.3.1. SERRURES ET DISPOSITIF ANTIVOL
 
-|
+7.3.1. a. 1 |
 
-23
+Le dispositif antivol ne fonctionne pas |
 
 |
 
-S
+Mineure |
 
-|
+7.3.1. b. 2 |
 
-M
+Défectueux |
 
 |
 
-8.2.2.1.2. Défaut d'étanchéité
+Majeure |
 
-|
+7.3.1. b. 3 |
 
-23
+Défectueux : le dispositif se verrouille ou se bloque inopinément |
 
 |
 
-O
+Critique |
 
-|
+7.4. TRIANGLE DE SIGNALISATION
 
-M
+7.4.1. TRIANGLE DE SIGNALISATION
 
-|
+7.4.1. a. 1 |
 
-8.2.2.1.3. Détérioration
+Manquant |
 
 |
 
-23
+Mineure |
 
-|
+7.7. AVERTISSEUR SONORE
 
-O
+7.7.1. AVERTISSEUR SONORE
 
-|
+7.7.1. a. 1 |
 
-M
+Ne fonctionne pas correctement |
 
 |
 
-8.2.2.3. FIXATION
+Mineure |
 
-|
+7.7.1. a. 2 |
 
-|
+Ne fonctionne pas correctement : totalement inopérant |
 
 |
 
-|
+Majeure |
+
+7.7.1. b. 1 |
 
-8.2.2.3.1. Défaut notable de fixation
+Commande mal fixée |
 
 |
 
-23
+Mineure |
 
-|
+7.7.1. c. 1 |
 
-S
+Non conforme aux exigences |
 
 |
 
-M
+Mineure |
 
-|
+7.7.1. c. 2 |
 
-8.2.2.3.2. Défaut de fixation
+Non conforme aux exigences : risque que le son émis soit confondu avec celui des sirènes officielles |
 
 |
 
-23
+Majeure |
 
-|
+7.8. INDICATEUR DE VITESSE
 
-O
+7.8.1. INDICATEUR DE VITESSE
 
-|
+7.8.1. a. 1 |
 
-M
+Non conforme aux exigences |
 
 |
 
-8.2.2.4. DIVERS
+Mineure |
 
-|
+7.8.1. a. 2 |
 
-|
+Manquant (si requis) |
 
 |
 
-|
+Majeure |
+
+7.8.1. b. 1 |
 
-8.2.2.4.1. Absence de bouchon
+Fonctionnement altéré |
 
 |
 
-23
+Mineure |
 
-|
+7.8.1. b. 2 |
 
-S
+Totalement inopérant |
 
 |
 
-M
+Majeure |
 
-|
+7.8.1. c. 1 |
 
-8.2.2.4.2. Défaut d'étanchéité du bouchon
+Eclairage insuffisant |
 
 |
 
-23
+Mineure |
 
-|
+7.8.1. c. 2 |
 
-O
+Totalement dépourvu d'éclairage |
 
 |
 
-M
+Majeure |
 
-|
+7.9. CHRONOTACHYGRAPHE
 
-8.2.3. RESERVOIR ADDITIONNEL
+7.9.1. CHRONOTACHYGRAPHE
 
-|
+7.9.1. a. 2 |
 
-|
+Non conforme aux exigences |
 
 |
 
-|
+Majeure |
 
-8.2.3.1. ETAT
+7.9.1. b. 2 |
 
-|
+Dispositif inopérant |
 
 |
 
-|
+Majeure |
 
-|
+7.9.1. c. 2 |
 
-8.2.3.1.1. Défaut notable d'étanchéité
+Scellés défectueux ou manquants |
 
 |
 
-23
+Majeure |
 
-|
+7.9.1. d. 2 |
 
-S
+Plaque d'installation ou de vérification manquante, illisible ou périmée |
 
 |
+
+Majeure |
+
+7.9.1. e. 2 |
 
-T
+Altération ou manipulation évidente |
 
 |
 
-8.2.3.1.2. Défaut d'étanchéité
+Majeure |
 
-|
+7.9.1. f. 2 |
 
-23
+La taille des pneumatiques n'est pas compatible avec les paramètres d'étalonnage |
 
 |
 
-O
+Majeure |
 
-|
+7.9.1. g. 2 |
 
-T
+Ouverture de la trappe d'accès aux scellés impossible |
 
 |
 
-8.2.3.1.3. Détérioration
+Majeure |
 
-|
+7.10. LIMITEUR DE VITESSE
 
-23
+7.10.1. LIMITEUR DE VITESSE
 
-|
+7.10.1. a. 2 |
 
-O
+Non conforme aux exigences |
 
 |
 
-T
+Majeure |
 
-|
+7.10.1. b. 2 |
 
-8.2.3.3. FIXATION
+Dispositif manifestement inopérant |
 
 |
 
-|
+Majeure |
 
-|
+7.10.1. c. 2 |
+
+Vitesse de consigne incorrecte |
 
 |
 
-8.2.3.3.1. Défaut notable de fixation
+Majeure |
 
-|
+7.10.1. d. 2 |
 
-23
+Scellés défectueux ou manquants |
 
 |
 
-S
+Majeure |
 
-|
+7.10.1. e. 2 |
 
-T
+Etiquette manquante ou illisible |
 
 |
 
-8.2.3.3.2. Défaut de fixation
+Majeure |
 
-|
+7.10.1. f. 2 |
 
-23
+La taille des pneumatiques n'est pas compatible avec les paramètres d'étalonnage |
 
 |
 
-O
+Majeure |
 
-|
+7.11. COMPTEUR KILOMÉTRIQUE
 
-T
+7.11.1. COMPTEUR KILOMÉTRIQUE
 
-|
+7.11.1. a. 1 |
 
-8.2.3.4. DIVERS
+Kilométrage relevé inférieur à celui relevé lors d'un précédent contrôle |
 
 |
 
-|
+Mineure |
 
-|
+7.11.1. b. 2 |
+
+Manifestement inopérant |
 
 |
 
-8.2.3.4.1. Absence de bouchon
+Majeure |
 
-|
+7.12. CONTRÔLE ÉLECTRONIQUE DE STABILITÉ (ESC)
 
-23
+7.12.1. CONTRÔLE ÉLECTRONIQUE DE STABILITÉ (ESC)
 
-|
+7.12.1. a. 2 |
 
-O
+Capteur de vitesse de roue manquant ou endommagé |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+7.12.1. b. 2 |
 
-8.2.3.4.2. Défaut d'étanchéité du bouchon
+Câblage endommagé |
 
-|
+[Loc] |
 
-23
+Majeure |
 
-|
+7.12.1. c. 2 |
 
-O
+Autres composants manquants ou endommagés |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+7.12.1. d. 2 |
 
-8.2.3.4.3. Non conforme
+Commutateur endommagé ou ne fonctionnant pas correctement |
 
-|
+[Loc] |
 
-23
+Majeure |
 
-|
+7.12.1. e. 2 |
 
-S
+L'indicateur de dysfonctionnement de l'ESC fait état d'une défaillance du système |
 
-|
+[Loc] |
 
-T
+Majeure |
 
-|
+7.12.1. f. 2 |
 
-8.2.3.4.4. Attestation constructeur à fournir
+Le système signale une défaillance via l'interface électronique du véhicule |
 
 |
 
-23
+Majeure |
 
-|
+8. NUISANCES
 
-O
+8.1. BRUIT
 
-|
+8.1.1. SYSTÈME DE RÉDUCTION DU BRUIT
 
-T
+8.1.1. a. 2 |
 
+Niveaux de bruit anormalement élevé ou excessif |
+
 |
 
-8.3. ECHAPPEMENT
+Majeure |
 
-|
+8.1.1. b. 2 |
 
-|
+Un élément du système est desserré, endommagé, mal monté, manquant ou manifestement modifié d'une manière néfaste au niveau de bruit |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-8.3.1. COLLECTEUR D'ECHAPPEMENT
+8.1.1. b. 3 |
 
-|
+Très grand risque de chute |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+8.2. ÉMISSIONS À L'ÉCHAPPEMENT
 
-8.3.1.1. ETAT
+8.2.11. ÉQUIPEMENTS DE RÉDUCTION DES ÉMISSIONS À L'ÉCHAPPEMENT POUR MOTEUR À ALLUMAGE COMMANDÉ
 
-|
+8.2.11. a. 2 |
 
-|
+L'équipement monté par le constructeur est manifestement absent, modifié ou défectueux |
 
 |
 
-|
+Majeure |
 
-8.3.1.1.1. Défaut notable d'étanchéité
+8.2.11. b. 2 |
 
-|
+Fuites susceptibles d'affecter les mesures des émissions |
 
-2
+[Loc] |
 
-|
+Majeure |
 
-S
+8.2.12. ÉMISSIONS DES MOTEURS À ALLUMAGE COMMANDÉ
 
-|
+8.2.12.d.2 |
 
-M
+Le relevé du système OBD indique un dysfonctionnement important |
 
 |
 
-8.3.1.1.2. Détérioration
+Majeure |
 
-|
+8.2.12. e. 1 |
 
-2
+Connexion impossible sans dysfonctionnement du témoin OBD |
 
 |
 
-O
+Mineure |
 
-|
+8.2.12. g. 2 |
 
-M
+Fumée excessive |
 
 |
 
-8.3.1.3. FIXATION
+Majeure |
 
-|
+8.2.21. ÉQUIPEMENTS DE RÉDUCTION DES ÉMISSIONS À L'ÉCHAPPEMENT POUR MOTEUR À ALLUMAGE PAR COMPRESSION
 
-|
+8.2.21. a. 2 |
 
-|
+L'équipement monté par le constructeur est manifestement absent, modifié ou défectueux |
 
 |
 
-8.3.1.3.1. Défaut de fixation
+Majeure |
 
-|
+8.2.21. b. 2 |
 
-2
+Fuites susceptibles d'affecter les mesures des émissions |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+8.2.22. OPACITÉ
+
+8.2.22. a. 2 |
 
-M
+L'opacité dépasse la valeur de réception ou les mesures sont instables |
 
 |
 
-8.3.1.3.2. Défaut de positionnement
+Majeure |
 
-|
+8.2.22. b. 2 |
 
-2
+L'opacité dépasse les limites réglementaires, en l'absence de valeur de réception ou les mesures sont instables |
 
 |
 
-O
+Majeure |
 
-|
+8.2.22. c. 2 |
 
-M
+Le relevé du système OBD indique un dysfonctionnement important |
 
 |
 
-8.3.1.4. DIVERS
+Majeure |
 
-|
+8.2.22. d. 1 |
 
-|
+Connexion impossible sans dysfonctionnement du témoin OBD |
 
 |
 
-|
+Mineure |
 
-8.3.1.4.1. Absence
+8.2.22. e. 2 |
 
-|
+Contrôle impossible des émissions à l'échappement |
 
 |
 
-S
+Majeure |
 
-|
+8.2.22. f. 2 |
 
-M
+Fumée excessive |
 
 |
 
-8.3.2. CANALISATION D'ECHAPPEMENT
+Majeure |
 
-|
+8.2.23. SYSTÈME DE RÉDUCTION CATALYTIQUE SÉLECTIVE (SCR)
 
-|
+8.2.23. a. 2 |
 
-|
+Fuite de solution d'urée |
 
 |
 
-8.3.2.1. ETAT
+Majeure |
 
-|
+8.2.23. b. 2 |
 
-|
+Ouverture impossible du réservoir de solution d'urée ou absence du bouchon de réservoir |
 
 |
 
-|
+Majeure |
+
+8.2.23. c. 2 |
 
-8.3.2.1.1. Fuite notable
+L'indicateur de dysfonctionnement du système SCR fait état d'une défaillance |
 
 |
 
-2
+Majeure |
 
-|
+8.2.23. d. 2 |
 
-S
+Le système signale la nécessité de remplir le réservoir d'urée |
 
 |
 
-M
+Majeure |
 
-|
+8.2.23. e. 2 |
 
-8.3.2.1.2. Détérioration
+Fusible associé au circuit électrique d'alimentation du système SCR endommagé ou contrôle impossible du fusible |
 
 |
 
-2
+Majeure |
 
-|
+8.2.23. f. 3 |
 
-O
+Retrait du fusible associé au circuit électrique d'alimentation du système SCR |
 
 |
 
-M
+Critique |
 
-|
+8.2.23. g. 3 |
 
-8.3.2.3. FIXATION
+Présence d'un émulateur sur la prise OBD, dans la boîte à fusibles ou dans le compartiment moteur |
 
 |
 
-|
+Critique |
 
-|
+8.4. AUTRES POINTS LIÉS À L'ENVIRONNEMENT
 
-|
+8.4.1. PERTES DE LIQUIDES
 
-8.3.2.3.1. Défaut de fixation
+8.4.1. a. 2 |
 
-|
+Fuite excessive de liquide autre que de l'eau susceptible de porter atteinte à l'environnement ou constituant un risque pour la sécurité des autres usagers de la route |
 
-2
+[Loc] |
 
-|
+Majeure |
 
-O
+8.4.1. a. 3 |
 
-|
+Fuite excessive de liquide autre que de l'eau susceptible de porter atteinte à l'environnement ou constituant un risque pour la sécurité des autres usagers de la route : écoulement permanent constituant un risque très grave. |
 
-M
+[Loc] |
 
-|
+Critique |
 
-8.3.2.3.2. Défaut de positionnement
+9. CONTRÔLES SUPPLÉMENTAIRES-TCP
 
-|
+9.1. PORTES
 
-2
+9.1.1. PORTES D'ENTRÉE OU DE SORTIE
 
-|
+9.1.1. a. 2 |
 
-O
+Fonctionnement défectueux |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+9.1.1. a. 3 |
 
-8.3.2.4. DIVERS
+Non fonctionnement |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+9.1.1. b. 1 |
 
-|
+Mauvais état |
 
-8.3.2.4.1. Absence
+[Loc] |
 
-|
+Mineure |
 
-|
+9.1.1. b. 2 |
 
-S
+Mauvais état : risque de blessures |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+9.1.1. b. 3 |
 
-8.3.3. SILENCIEUX D'ECHAPPEMENT
+Mauvais état : très grand risque de chute |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+9.1.1. c. 2 |
 
-|
+Commande d'urgence défectueuse |
 
-8.3.3.1. ETAT
+[Loc] |
 
-|
+Majeure |
 
-|
+9.1.1. c. 3 |
 
-|
+Commande d'urgence inopérante |
 
-|
+[Loc] |
 
-8.3.3.1.1. Défaut notable d'étanchéité
+Critique |
 
-|
+9.1.1. d. 2 |
 
-2
+Télécommande des portes (commande au tableau de bord) ou dispositifs d'alerte défectueux |
 
-|
+[Loc] |
 
-S
+Majeure |
 
-|
+9.1.1. e. 2 |
 
-M
+Non conformes aux exigences |
 
-|
+[Loc] |
 
-8.3.3.1.2. Détérioration
+Majeure |
 
-|
+9.1.1. f. 2 |
 
-2
+Largeur de porte insuffisante |
 
-|
+[Loc] |
 
-O
+Majeure |
 
-|
+9.1.2. ISSUES DE SECOURS
 
-M
+9.1.2. a. 2 |
 
-|
+Fonctionnement défectueux |
 
-8.3.3.3. FIXATION
+[Loc] |
 
-|
+Majeure |
 
-|
+9.1.2. a. 3 |
 
-|
+Non fonctionnement |
 
-|
+[Loc] |
 
-8.3.3.3.1. Défaut de fixation
+Critique |
 
-|
+9.1.2. b. 1 |
 
-2
+Signalisation des issues de secours illisible |
 
-|
+[Loc] |
 
-O
+Mineure |
 
-|
+9.1.2. b. 2 |
 
-M
+Signalisation des issues de secours manquante |
 
-|
+[Loc] |
 
-8.3.3.3.2. Défaut de positionnement
+Majeure |
 
-|
+9.1.2. c. 1 |
 
-2
+Marteau brise-vitre manquant |
 
-|
+[Loc] |
 
-O
+Mineure |
 
-|
+9.1.2. c. 2 |
 
-M
+Plus d'un marteau brise-vitre manquant |
 
-|
+[Loc] |
 
-8.3.3.4. DIVERS
+Majeure |
 
-|
+9.1.2. c. 3 |
 
-|
+Aucun marteau brise-vitre |
 
-|
+[Loc] |
 
-|
+Critique |
 
-8.3.3.4.1. Absence
+9.1.2. d. 1 |
 
-|
+Présence de film plastique |
 
-|
+[Loc] |
 
-S
+Mineure |
 
-|
+9.1.2. d. 2 |
 
-M
+Non conformes aux exigences |
 
-|
+[Loc] |
 
-9. POLLUTION, NIVEAU SONORE
+Majeure |
 
-|
+9.2. SYSTÈME DE DÉSEMBUAGE ET DE DÉGIVRAGE
 
-|
+9.2.1. SYSTÈME DE DÉSEMBUAGE ET DE DÉGIVRAGE
 
-|
+9.2.1. a. 1 |
 
+Mauvais fonctionnement |
+
 |
 
-9.1. MESURES DE POLLUTION
+Mineure |
 
-|
+9.2.1. a. 2 |
 
-|
+Mauvais fonctionnement : Affecte la sécurité de la conduite |
 
 |
 
-|
+Majeure |
 
-9.1.1. TENEUR EN CO DES GAZ D'ECHAPPEMENT
+9.2.1. a. 3 |
 
-|
+Emission de gaz toxiques dans la cabine de conduite ou l'habitacle |
 
 |
 
-|
+Critique |
 
-|
+9.3. SYSTÈME DE VENTILATION ET DE CHAUFFAGE
 
-9.1.1.2. FONCTIONNEMENT
+9.3.1. SYSTÈME DE VENTILATION ET DE CHAUFFAGE
 
-|
+9.3.1. a. 1 |
 
-|
+Fonctionnement défectueux |
 
 |
 
-|
+Mineure |
 
-9.1.1.2.1. Valeur excessive (veh mis en cir. compter du 1/10/1972)
+9.3.1. a. 3 |
 
-|
+Emission de gaz toxiques dans la cabine de conduite ou l'habitacle |
 
 |
 
-S
+Critique |
 
-|
+9.4. SIÈGES
 
-M
+9.4.1. SIÈGES DE PASSAGERS (Y COMPRIS LES SIÈGES POUR LE PERSONNEL D'ACCOMPAGNEMENT)
 
-|
+9.4.1. a. 1 |
 
-9.1.1.2.2. Valeur anormale (veh mis en cir. jusqu'au 30/09/1972)
+Le siège basculant ou pliant ne fonctionne pas automatiquement |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-O
+9.4.1. a. 2 |
 
-|
+Le siège basculant ou pliant ne fonctionne pas automatiquement : issue de secours obstruée |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-9.1.1.4. DIVERS
+9.4.1. b. 3 |
 
-|
+Non conforme aux exigences |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+9.4.2. SIÈGE DU CONDUCTEUR (EXIGENCES COMPLÉMENTAIRES)
 
-9.1.1.4.1. Contrôle impossible (veh mis en cir. compter du 1/10/1972)
+9.4.2. a. 1 |
 
-|
+Dispositifs spéciaux défectueux |
 
 |
 
-S
+Mineure |
 
-|
+9.4.2. a. 2 |
 
-M
+Dispositifs spéciaux défectueux : Champ de vision réduit |
 
 |
-
-9.1.1.4.2. Absence de contrôle (veh mis en cir. jusqu'au 30/09/1972)
 
-|
+Majeure |
 
-|
+9.4.2. b. 1 |
 
-O
+Protection du conducteur mal fixée ou non conforme aux exigences |
 
 |
 
-M
+Mineure |
 
-|
+9.4.2. b. 2 |
 
-9.1.2. MESURE DU LAMBDA DES GAZ D'ECHAPPEMENT veh eq de catal/sonde
+Protection du conducteur mal fixée ou non conforme aux exigences : risque de blessure |
 
 |
 
-|
+Majeure |
 
-|
+9.4.3. COUCHETTE
 
-|
+9.4.3. a. 1 |
 
-9.1.2.2. FONCTIONNEMENT
+Détérioration |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+9.4.3. a. 2 |
 
-|
+Détérioration notable ou fixation défectueuse |
 
-9.1.2.2.1. Valeur excessive
+[Loc] |
 
-|
+Majeure |
 
-|
+9.5. DISPOSITIF D'ÉCLAIRAGE INTÉRIEUR ET D'INDICATION DE PARCOURS
 
-S
+9.5.1. DISPOSITIF D'ÉCLAIRAGE INTÉRIEUR ET D'INDICATION DE PARCOURS
 
-|
+9.5.1. a. 1 |
 
-M
+Dispositifs défectueux ou non conformes aux exigences |
 
-|
+[Loc] |
 
-9.1.2.4. DIVERS
+Mineure |
 
-|
+9.5.1. a. 2 |
 
-|
+Dispositifs défectueux ou non conformes aux exigences : totalement inopérants |
 
-|
+[Loc] |
 
-|
+Majeure |
 
-9.1.2.4.1. Contrôle impossible imputable à un dysfonctionnement du veh.
+9.6. COULOIRS, EMPLACEMENT POUR VOYAGEURS DEBOUT
 
-|
+9.6.1. COULOIRS, EMPLACEMENT POUR VOYAGEURS DEBOUT
 
-|
+9.6.1. a. 2 |
 
-S
+Mauvaise fixation du plancher |
 
-|
+[Loc] |
 
-M
+Majeure |
 
-|
+9.6.1. a. 3 |
 
-9.1.3. OPACITE DES FUMEES D'ECHAPPEMENT
+Mauvaise fixation du plancher : stabilité compromise |
 
-|
+[Loc] |
 
-|
+Critique |
 
-|
+9.6.1. b. 1 |
 
-|
+Mains courantes ou poignées défectueuses |
 
-9.1.3.2. FONCTIONNEMENT
+[Loc] |
 
-|
+Mineure |
 
-|
+9.6.1. b. 2 |
 
-|
+Mains courantes ou poignées défectueuses : mal fixées ou inutilisables |
 
-|
+[Loc] |
 
-9.1.3.2.1. Opacité excessive
+Majeure |
 
-|
+9.6.1. c. 1 |
 
-|
+Non conformes aux exigences |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-M
+9.6.1. c. 2 |
 
-|
+Non conformes aux exigences : largeur ou espace insuffisant |
 
-9.1.3.2.2. Fumée excessive
+[Loc] |
 
-|
+Majeure |
 
-|
+9.7. ESCALIERS ET MARCHES
 
-S
+9.7.1. ESCALIERS ET MARCHES
 
-|
+9.7.1. a. 1 |
 
-M
+Détériorés |
 
-|
+[Loc] |
 
-9.1.3.2.3. Mesures instables
+Mineure |
 
-|
+9.7.1. a. 2 |
 
-|
+Endommagés |
 
-O
+[Loc] |
 
-|
+Majeure |
 
-M
+9.7.1. a. 3 |
 
-|
+Stabilité compromise |
 
-9.1.3.4. DIVERS
+[Loc] |
 
-|
+Critique |
 
-|
+9.7.1. b. 2 |
 
-|
+Les marches escamotables ne fonctionnent pas correctement |
 
-|
+[Loc] |
 
-9.1.3.4.1. Contrôle impossible imputable à un dysfonctionnement du veh.
+Majeure |
 
-|
+9.7.1. c. 1 |
 
-|
+Non conformes aux exigences |
 
-S
+[Loc] |
 
-|
+Mineure |
 
-M
+9.7.1. c. 2 |
 
-|
+Non conformes aux exigences : largeur insuffisante ou hauteur excessive |
 
-9.1.3.4.2. Sortie d'échappement détériorée
+[Loc] |
 
-|
+Majeure |
 
-|
+9.9. INSCRIPTIONS
 
-S
+9.9.1. INSCRIPTIONS
 
-|
+9.9.1. a. 1 |
 
-M
+Inscriptions manquantes, erronées, illisibles ou non conformes aux exigences |
 
 |
 
-9.1.3.4.3. Fuite notable
+Mineure |
 
-|
+9.10. EXIGENCES CONCERNANT LE TRANSPORT D'ENFANTS
 
-|
+9.10.1. PORTES ARRIÈRE
 
-S
+9.10.1. a. 2 |
 
-|
+Protection des portes non conforme aux exigences concernant cette forme de transport : mauvais fonctionnement |
 
-M
+[Loc] |
 
-|
+Majeure |
 
-9.1.3.4.4. Contrôle impossible compte tenu de la conception du véhicule
+9.10.1. a. 3 |
 
-|
+Protection des portes non conformes aux exigences concernant cette forme de transport : non fonctionnement |
 
-|
+[Loc] |
 
-C
+Critique |
 
-|
+9.10.2. ÉQUIPEMENTS DE SIGNALISATION ET ÉQUIPEMENTS SPÉCIAUX
 
-M
+9.10.2. a. 1 |
 
-|
+Equipements de signalisation et équipements spéciaux absents ou non conformes aux exigences |
 
-9.1.3.4.5. Méthode alternative, contrôle visuel
+[Loc] |
 
-|
+Mineure |
 
-|
+9.11. EXIGENCES CONCERNANT LE TRANSPORT DE PERSONNES À MOBILITÉ RÉDUITE
 
-C
+9.11.1. PORTES, RAMPES ET ASCENSEURS
 
-|
+9.11.1. a. 2 |
 
-M
+Fonctionnement défectueux |
 
 |
 
-9.2. NIVEAU SONORE
+Majeure |
 
-|
+9.11.1. a. 3 |
 
-|
+Fonctionnement défectueux : sécurité compromise |
 
 |
 
-|
+Critique |
 
-9.2.1. BRUIT MOTEUR
+9.11.1. b. 1 |
 
-|
+Mauvais état |
 
 |
 
-|
+Mineure |
 
-|
+9.11.1. b. 2 |
 
-9.2.1.2. FONCTIONNEMENT
+Stabilité compromise ; risque de blessures |
 
 |
 
-|
+Majeure |
 
-|
+9.11.1. c. 1 |
 
-|
+Commande (s) défectueuse (s) |
 
-9.2.1.2.1. Bruit anormal
+[Loc] |
 
-|
+Mineure |
 
-|
+9.11.1. c. 3 |
 
-O
+Commande (s) défectueuse (s) : sécurité compromise |
 
-|
+[Loc] |
 
-M
+Critique |
 
-|
+9.11.1. d. 1 |
 
-9.3. ELEMENTS D'INFORMATION (Point de contrôle applicable à compter du 1er janvier 2011)
+Avertisseur (s) défectueux |
 
-|
+[Loc] |
 
-|
+Mineure |
 
-|
+9.11.1. d. 2 |
 
-|
+Avertisseur (s) totalement inopérant (s) |
 
-9.3.1. DISPOSITIF DE DIAGNOSTIC EMBARQUE (OBD)
+[Loc] |
 
-|
+Majeure |
 
-|
+9.11.1. e. 3 |
 
-|
+Non conformes aux exigences |
 
-|
+[Loc] |
 
-9.3.1.2. FONCTIONNEMENT
+Critique |
 
-|
+9.11.2. SYSTÈME DE RETENUE DU FAUTEUIL ROULANT
 
-|
+9.11.2.b.1 |
 
-|
+Mauvais état |
 
-|
+[Loc] |
 
-9.3.1.2.1. Témoin allumé
+Mineure |
 
-|
+9.11.2. b. 2 |
 
-|
+Mauvais état : stabilité compromise ; risque de blessures |
 
-S
+[Loc] |
 
-|
+Majeure |
 
-M
+9.11.2. d. 3 |
 
-|
+Non conformes aux exigences |
 
-9.3.1.2.2. Anomalie de fonctionnement
+[Loc] |
 
-|
+Critique |
 
-|
+9.12. AUTRES ÉQUIPEMENTS SPÉCIAUX
 
-S
+9.12.4. DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
 
-|
+9.12.4. a. 2 |
 
-M
+Absence |
 
 |
 
-9.3.1.4. DIVERS
+Majeure |
 
-|
+9.12.4. b. 2 |
 
-|
+Plombage du dispositif éthylotest anti-démarrage défectueux ou absent |
 
 |
 
-|
+Majeure |
 
-9.3.1.4.1. Essai non réalisé
+9.12.5. COUPE-CIRCUIT
 
-|
+9.12.5. a. 1 |
 
+Détérioration |
+
 |
 
-C
+Mineure |
 
-|
+9.12.5. a. 2 |
 
-M
+Absence ou non-fonctionnement |
 
 |
+
+Majeure |
