@@ -1,117 +1,139 @@
 # Article Annexe IV
 
-QUALIFICATION DES CONTROLEURS, DES EXPLOITANTS ET DES FORMATEURS
+QUALIFICATION DES CONTRÔLEURS ET DES EXPLOITANTS ET EXIGENCES RELATIVES AUX ORGANISMES DE FORMATION ET AUX FORMATEURS
 
-Pour être agréé, un contrôleur doit justifier au moins d'une des qualifications (ou d'une qualification le secteur automobile équivalente) visées aux paragraphes 1.1, 2.1 ou 2.2 ci-dessous :
+A. Agrément initial de contrôleur
 
-1. Qualifications comprenant une expérience professionnelle courte
+A. 1. Pour être agréé, le candidat justifie d'un certificat de qualification professionnelle (CQP) ou d'un titre professionnel de contrôleur technique de véhicules légers ou répond aux exigences des points A. 2 ou A. 3 de la présente annexe.
 
-1.1. Un diplôme de niveau V du ministère de l'éducation nationale ou équivalent vis-à-vis du répertoire national des certifications professionnelles dans une discipline de l'automobile : mécanique automobile (quelle que soit l'option complémentaire), carrosserie, tôlerie, électricité automobile, maintenance automobile et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée d'au moins 900 heures.
+A. 2. Qualifications acquises en France
 
-1.2. Cette formation peut être validée par le certificat de qualification professionnelle de contrôleur. Ce titre reconnu par la Commission nationale paritaire de l'emploi et de la formation professionnelle du commerce, de la réparation et du contrôle technique de l'automobile (C.N.P.E.F.P.) se prépare dans le cadre de l'alternance visée par les livres Ier et IXème du code du travail suivant les modalités précisées par le cahier des charges retenu par la commission précitée.
+A. 2.1. Qualification préalable
 
-1.2.1. Ce cahier des charges prévoit notamment les conditions de mise en place d'une évaluation intermédiaire qui permet au stagiaire d'acquérir la qualité de contrôleur stagiaire et de réaliser, sous la surveillance effective et permanente d'un contrôleur agréé (tuteur), des opérations de contrôle technique des véhicules pour lesquelles ce contrôleur agréé reste seul habilité à viser le procès-verbal de contrôle.
+Le candidat justifie d'une des qualifications visées ci-dessous :
 
-1.2.2. Cette évaluation intermédiaire, réalisée sous la forme d'une vérification des compétences techniques et professionnelles, intervient conformément au cahier des charges sous le contrôle de formateurs appartenant à l'organisme de formation.
+- un diplôme de niveau IV du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules option véhicules industriels ou véhicules de transport routier) ou un diplôme équivalent au regard du Répertoire National des Certifications Professionnelles (RNCP) ;
 
-2. Qualifications comprenant une expérience professionnelle longue ou acquises dans un autre Etat membre de la Communauté européenne
+-un diplôme de niveau III du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis du Répertoire National des Certifications Professionnelles (RNCP).
 
-ou dans un Etat partie à l'accord sur l'Espace économique européen ou diplôme qualifiant relatif au contrôle technique
+A. 2.2. Formation relative au contrôle technique
 
-2.1. Le contrôleur dispose d'une des qualifications suivantes :
+Le candidat justifie d'une formation initiale relative au contrôle technique des véhicules légers, réalisée postérieurement à la mise en œuvre des dispositions du point A. 2.1 de la présente annexe.
 
-- un diplôme de niveau IV, au minimum, du ministère de l'éducation nationale ou équivalent vis-à-vis du répertoire national des certifications professionnelles dans une discipline de l'automobile (mécanique ou maintenance automobile, carrosserie, tôlerie, électricité automobile) ou un des secteurs de l'industrie automobile, de la mécanique, de la productique, de l'automatisme électronique, de l'électromécanique ou de la maintenance aéronautique, et une formation complémentaire au contrôle technique d'une durée minimale de 175 heures ;
+Cette formation est constituée d'une partie théorique en centre de formation d'au minimum 245 heures et d'une partie pratique en centre spécialisé d'au minimum 70 heures.
 
-- un diplôme de niveau V du ministère de l'éducation nationale ou équivalent vis-à-vis du répertoire national des certifications professionnelles dans une discipline de l'automobile : mécanique automobile (quelle que soit l'option complémentaire), carrosserie, tôlerie, électricité automobile, avec au moins vingt-quatre mois d'expérience effective dans la réparation ou la maintenance automobile et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée minimale de 175 heures ;
+Les exigences de connaissances et de compétences relatives au contrôle technique des véhicules légers ainsi que les modalités d'évaluation théorique et pratique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'organisme technique central (OTC).
 
-- un CQP (certificat de qualification professionnelle) ou un titre professionnel de contrôleur technique automobile.
+Durant la formation pratique, le candidat peut assister à des opérations de contrôle dans un centre spécialisé en tant que simple stagiaire.
 
-2.2. Le contrôleur justifie d'une expérience d'au moins cinq ans dans la réparation automobile (mécanique automobile, carrosserie, tôlerie, électricité automobile) et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée minimale de 175 heures.
+Pour réaliser des opérations de contrôle technique, le candidat a préalablement acquis le statut de contrôleur stagiaire, en application du référentiel visé ci-dessus.
 
-2.3. Durant la formation complémentaire prévue au présent paragraphe, le stagiaire peut assister à des opérations de contrôle dans un centre spécialisé en tant que stagiaire auditeur. Après avoir satisfait à une évaluation intermédiaire lui donnant la qualité de contrôleur stagiaire, il peut réaliser sous la surveillance effective et permanente d'un contrôleur agréé (maître de stage), des opérations de contrôle technique pour lesquelles le contrôleur agréé reste seul habilité à viser le procès-verbal de contrôle.
+Ces opérations sont réalisées sous la surveillance effective et permanente d'un contrôleur agréé (maître de stage), seul habilité à signer le procès-verbal de contrôle.
 
-2.4. Les périodes effectives passées dans une entreprise de réparation automobile dans le cadre de formations en alternance sont comptabilisables aux fins du calcul des années d'expérience.
+Tout stagiaire présent dans un centre au titre du présent point présente, sur demande des services de l'Etat, sa convention de stage et son justificatif de statut de contrôleur stagiaire.
 
-2.5. Pour les personnes disposant d'une qualification dans le domaine du contrôle technique automobile acquise dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen :
+A.3. Qualification acquise dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l’accord sur l’Espace économique européen
 
-2.5.1. Une expérience de trois années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, l'activité ne devant pas avoir pris fin depuis plus de dix ans à la date de la présentation du dossier complet de l'intéressé ;
+Le candidat justifie d’une formation préalable sanctionnée par un certificat reconnu par l’Etat d’origine ou jugée pleinement valable par un organisme professionnel compétent et d’une expérience de trois années, au cours des dix années précédentes, en tant que contrôleur technique des véhicules légers.
 
-2.5.2. Une expérience de deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent ;
+A. 4. Dans le cas particulier où le candidat dispose des qualifications prévues aux points ci-dessus depuis plus d'un an à la date de la demande d'agrément et ne justifie d'aucune activité de contrôle technique de véhicules légers dans les 12 mois qui précèdent la date de la demande, l'agrément ne peut être délivré qu'après mise en œuvre des dispositions prévues au point C de la présente annexe.
 
-2.5.3. Une expérience de deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque le bénéficiaire prouve qu'il a exercé l'activité en question à titre salarié pendant trois ans au moins ; en tout état de cause, l'activité ne doit pas avoir pris fin depuis plus de dix ans à la date de la présentation du dossier complet de l'intéressé ;
+A.5. Formation complémentaire relative au contrôle technique des véhicules équipés d’un réservoir de gaz carburant
 
-2.5.4. Une expérience de trois années consécutives à titre salarié, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent.
+Pour réaliser les contrôles techniques des véhicules pour lesquels le gaz naturel ou le gaz de pétrole liquéfié constitue une des sources d’énergie, le contrôleur justifie d’une formation complémentaire spécifique théorique et pratique d'au minimum 14 heures relative au contrôle technique des véhicules équipés d’un réservoir de gaz carburant. Sont dispensés de cette formation complémentaire, les contrôleurs justifiant que la formation spécifique théorique et pratique d'au minimum 14 heures relative au contrôle technique des véhicules équipés d’un réservoir de gaz carburant était incluse dans la formation prévue au A.2.2 de la présente annexe.
 
-3. Qualifications spécifiques "Contrôle technique des véhicules équipés d'un réservoir de gaz carburant"
+B. Maintien de la qualification des contrôleurs
 
-Pour être qualifié au titre du contrôle technique des véhicules équipés d'un réservoir de gaz carburant, le contrôleur doit répondre aux conditions suivantes :
+B. 1. Conditions relatives au maintien de qualification
 
-- être titulaire d'une des qualifications prévues aux paragraphes 1 ou 2 ;
+B. 1.1. Le contrôleur justifie d'un complément de formation d'au moins 20 heures par année civile. Ce complément de formation comporte un module technique général, d'une durée minimale de 8 heures, dont le référentiel est défini au plus tard le 1er juillet de l'année précédente par le ministre chargé des transports. Dans le cas où le contrôleur réalise une partie du complément de formation par téléformation, celle-ci ne peut excéder 6 heures et est réalisée préalablement aux autres modules.
 
-- justifier d'une formation complémentaire spécifique théorique et pratique d'au minimum 14 heures ayant donné lieu à une évaluation satisfaisante ou disposer d'une attestation de capacité de formateur, en cours de validité, telle que prévue au point 9.1.
+Les contrôleurs disposant d'une qualification pour le contrôle des véhicules équipés d'un réservoir de gaz carburant justifient par ailleurs d'un complément de formation d'au moins 2 heures par année civile concernant le contrôle de ces véhicules.
 
-4. Maintien de la qualification
+Ces formations sont effectuées par un organisme désigné par le réseau de rattachement ou par le représentant légal du centre non rattaché.
 
-4.1. Pour assurer le maintien de sa qualification, chaque contrôleur doit pouvoir justifier :
+B.1.2. Le contrôleur justifie de la réalisation d'au moins 300 contrôles techniques périodiques par année civile. Ce nombre est porté à 220 lorsque le contrôleur est également agréé pour le contrôle des véhicules lourds.
 
-- d'un complément de formation d'au moins 20 heures par année civile au sein d'un organisme reconnu par les pouvoirs publics et désigné par le réseau ou par le représentant légal du centre non rattaché à un réseau. Ce complément de formation comporte un module technique général, d'une durée minimale de 8 heures, dont le référentiel est défini au plus tard le 1er juillet de chaque année par le ministre chargé des transports, sur la base de ses priorités et des propositions formulées par la direction régionale et interdépartementale de l'environnement et de l'énergie (DRIEE) d'Ile-de-France et par l'organisme technique central. Dans le cas où le contrôleur réalise une partie du complément de formation par téléformation, celle-ci ne peut excéder six heures et est réalisée préalablement aux autres modules.
+Lorsque l'agrément est accordé en cours d'année, le nombre de contrôles techniques périodiques à réaliser correspondant à cette année est porté à 25 par mois à partir du mois qui suit l'agrément.
 
-- de la réalisation d'au moins 300 visites techniques périodiques par année civile. Lorsque l'agrément est accordé en cours d'année, le nombre de visites techniques périodiques à réaliser correspondant à cette année est porté à vingt-cinq par mois à partir du mois qui suit l'agrément.
+B. 1.3. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique au plus tard dans les 12 mois qui suivent la date de son agrément initial puis au moins une fois toutes les deux années civiles et au plus tard au cours du vingt-huitième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
-- d'un audit portant sur la réalisation d'une visite technique périodique, au moins une fois toutes les deux années civiles. Cet audit est réalisé au plus tard au cours du vingt-huitième mois suivant le précédent audit. En cas de résultat défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+B. 2. Non-respect des conditions relatives au maintien de qualification
 
-Le contrôleur justifie d'un audit au plus tard dans les douze mois qui suivent la date de son agrément initial.
+B. 2.1. En cas de non-respect au 31 décembre de la disposition prévue au point B. 1.1, les dispositions du point C ci-après s'appliquent.
 
-Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 4.1.
+B. 2.2. En cas de non-respect d’une ou des dispositions prévues aux points B. 1.2 et B. 1.3, la poursuite de l'activité du contrôleur est assujettie :
 
-4.2. Après une période d'inactivité supérieure à un an, ou en cas de changement de réseau, ou de carence constatée, le réseau ou le représentant légal du centre non rattaché doit assurer la remise à niveau du contrôleur. Dans tous les cas, cette remise à niveau ne dispense pas le contrôleur de la formation prévue au point 4.1. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
+-à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
 
-4.3. Pour assurer le maintien de sa qualification pour le contrôle des véhicules à réservoir de gaz carburant, tel que prévu à l'article 12-1 du présent arrêté, le contrôleur justifie d'un complément de formation d'au moins 2 heures par année civile concernant le contrôle de ces véhicules.
+-à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-5. Statut des stagiaires
+L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou un organisme d'audit agréé.
 
-5.1. Tout stagiaire présent dans un centre au titre des points 1.2.1 et 2.3 doit pouvoir présenter à toute réquisition sa convocation de stage et son justificatif d'évaluation intermédiaire s'il s'agit d'un contrôleur stagiaire. Un centre de contrôle ne peut accueillir qu'un seul contrôleur stagiaire en formation par tuteur et maître de stage.
+A défaut, les dispositions du point C ci-après sont mises en œuvre.
 
-5.2. La présence de stagiaires peut être autorisée également dans le cadre de stages de maintien de qualification ou de stages spécifiques organisés avec l'accord du réseau ou du représentant légal du centre non rattaché. Dans ce cas, les stagiaires ne peuvent réaliser des opérations de contrôle technique que s'ils sont sous la responsabilité d'un autre contrôleur agréé.
+C. Remise à niveau
 
-6. Validation de la formation
+C. 1. En l’absence de la formation prévue au 1er alinéa du B.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 35 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité au-delà de cette échéance.
 
-6.1. Toutes les formations de 175 heures et plus visées aux paragraphes 1 et 2 de la présente annexe sont dispensées par un organisme de formation reconnu par les pouvoirs publics et sont validées après un contrôle de connaissance et un examen pratique satisfaisants, réalisés par l'organisme de formation, portant sur l'ensemble de la réalisation d'une visite technique périodique.
+En l’absence de la formation prévue au 2ème alinéa du B.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 2 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité de contrôles techniques de véhicules pour lesquels le gaz naturel ou le gaz de pétrole liquéfié constitue une des sources d’énergie au-delà de cette échéance.
 
-Toutes les formations visées aux paragraphes 3, 4.1, 4.2 et 7 de la présente annexe sont dispensées par un organisme de formation reconnu par les pouvoirs publics et sont validées après un contrôle de connaissance satisfaisant.
+C. 2. En l'absence d'activité depuis plus d'un an, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau avant toute reprise d'activité.
+
+Cette remise à niveau est composée d'une partie théorique, d'une durée minimale de 35 heures si la durée de l'absence d'activité est inférieure à trois ans et d'une durée minimale de 70 heures dans les autres cas et d'une partie pratique de 35 heures dans un centre de contrôle. La formation de remise à niveau est adaptée aux évolutions réglementaires intervenues au cours de la période d'absence d'activité.
+
+C. 3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point B pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
+
+C. 4. La délivrance de l’agrément ou la reprise d’activité du contrôleur sont assujetties :
+
+-à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
+
+-à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
+
+L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+
+D. Qualification des exploitants
+
+D. 1. A défaut de la présentation d’une des qualifications prévues au point A.1 de la présente annexe, la personne physique assurant l’exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l’agrément du centre, justifie d’une formation d’une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
+
+L’exploitant justifie, par ailleurs, d’une formation de maintien de qualification d’une durée minimale de 14 heures tous les cinq ans.
+
+Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintien de qualification est à réaliser avant le 1er janvier 2022, qu’ils soient ou non contrôleurs.
+
+Les exigences de connaissances et de compétences d’un exploitant de centre de contrôle technique des véhicules légers ainsi que les modalités d’évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l’OTC.
+
+D. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe D. 1 dans un délai maximum de 6 mois à compter de sa désignation.
+
+E. Exigences relatives aux organismes de formation
+
+E. 1. Les formations visées aux points A à D de la présente annexe sont dispensées par un organisme de formation reconnu par les pouvoirs publics.
 
 A l'issue de la formation, l'organisme de formation délivre une attestation de stage mentionnant :
 
-- les résultats satisfaisants ;
+-les résultats satisfaisants ;
 
-- la référence de l'approbation du programme par le ministre chargé des transports, telle que prévue au paragraphe 8 de la présente annexe ;
+-la référence de l'approbation du programme par le ministre chargé des transports, telle que prévue par le cahier des charges mentionné au paragraphe E. 2 de la présente annexe ;
 
-- dans le cas où le contrôleur a réalisé une partie de sa formation en téléformation : la durée de cette téléformation et la date d'achèvement de celle-ci.
+-dans le cas où le contrôleur a réalisé une partie de sa formation en téléformation : la durée de cette téléformation et la date d'achèvement de celle-ci.
 
-7. Exploitant de centre de contrôle
+E. 2. Les formations visées aux points A à D sont approuvées (programme et contenu) par le ministre chargé des transports et ne peuvent être mises en œuvre que par l'organisme ayant sollicité leur approbation.
 
-7.1. A défaut de la présentation d'une attestation de stage justifiant la réalisation d'une des formations prévues aux paragraphes 1 et 2 de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet par le titulaire de l'agrément du centre, doit justifier d'une formation d'une durée minimale de 35 heures, dispensée par un organisme de formation reconnu par les pouvoirs publics, portant sur la qualité et sur les réglementations spécifiques s'appliquant à la profession.
+L'organisme de formation titulaire de l'approbation met en œuvre les prescriptions des référentiels de formation et du cahier des charges définis par le ministre chargé des transports.
 
-Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière doit se conformer aux dispositions du 1er alinéa ci-dessus dans les 3 mois qui suivent sa désignation.
+Les formations ne peuvent être réalisées que si leurs dates de début et de fin de réalisation sont incluses dans leur période de validité d'approbation.
 
-Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 7.1.
+L'approbation d'un programme peut être retirée par le ministre chargé des transports si les prescriptions ne sont pas respectées.
 
-8. Organismes de formation
+F. Qualifications spécifiques des formateurs
 
-Les formations visées aux paragraphes 1, 2, 3, 4.1 et 7 de la présente annexe sont approuvées (programme et contenu) par le ministre chargé des transports. L'organisme de formation met en œuvre les prescriptions du cahier des charges défini par le ministre chargé des transports. Les formations ne peuvent être réalisées que si leurs dates de début et de fin de réalisation sont incluses dans leur période de validité d'approbation.
+F. 1. Qualification des formateurs délivrant les formations pour le contrôle technique des véhicules équipés d'un réservoir de gaz carburant
 
-L'approbation d'un programme peut être retirée par le ministre chargé des transports, si les prescriptions ne sont pas respectées.
+Pour délivrer des formations sur le contrôle technique des véhicules équipés d'un réservoir de gaz carburant, le formateur dispose d'une attestation de capacité délivrée par un organisme agréé par la Confédération française pour les essais non destructifs (COFREND), à l'issue d'une formation de 35 heures ayant donné lieu à une évaluation satisfaisante.
 
-9. Qualifications spécifiques des formateurs
+Le formateur est en mesure de présenter son attestation de capacité sur demande des services de l'Etat.
 
-9.1. Qualification des formateurs délivrant les formations pour le contrôle technique des véhicules équipés d'un réservoir de gaz carburant.
+F. 2. Qualification des formateurs délivrant des formations pour le contrôle technique des véhicules électriques ou hybrides
 
-Les formations spécifiques gaz (GPL/ GNC) prévues aux paragraphes 3 et 4.3 de la présente annexe sont délivrées par des formateurs disposant d'une attestation de capacité délivrée par un organisme agréé par la Confédération française pour les essais non destructifs (COFREND), à l'issue d'une formation de trente-cinq heures ayant donné lieu à une évaluation satisfaisante.
+Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union Technique de l'Automobile, du Cycle et du Motocycle (UTAC.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum 10 heures, ayant donné lieu à une évaluation satisfaisante.
 
-9.2. Qualification des formateurs délivrant des formations pour le contrôle technique des véhicules électriques ou hybrides.
-
-Pour délivrer des formations sur le contrôle technique des véhicules électriques ou hybrides, le formateur dispose d'une attestation de capacité délivrée par l'Union technique de l'automobile, du cycle et du motocycle (UTAC), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, à l'issue d'une formation théorique et pratique traitant de la sécurité électrique, de la technologie et des modalités de contrôle, d'au minimum dix heures, ayant donné lieu à une évaluation satisfaisante.
-
-Le maintien de la capacité du formateur est assujetti à la réalisation d'une formation d'au minimum quatre heures, tous les deux ans.
-
-Le formateur est en mesure de présenter son attestation de capacité et ses justificatifs de formation à toute demande des services de l'Etat.
+Le formateur est en mesure de présenter son attestation de capacité sur demande des services de l'Etat.
