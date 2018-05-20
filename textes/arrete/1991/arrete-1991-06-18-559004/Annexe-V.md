@@ -6,9 +6,9 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 1.1. Chaque centre de contrôle met en place et applique un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions figure dans le cahier des charges et est établi par référence à la norme NF EN ISO/CEI 17020 : 2012.
 
-1.2. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, doit justifier d'une formation spécifique telle que définie au paragraphe 7 de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules légers et de celle des appareils de mesure et de contrôle.
+1.2. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, doit justifier d'une qualification telle que définie au paragraphe D de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules légers et de celle des appareils de mesure et de contrôle.
 
-1.3. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 29 du présent arrêté et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point 2 de l'annexe III et du protocole en vigueur, prévu au point b de l'article 27 du présent arrêté.
+1.3. Chaque centre non rattaché dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 29 du présent arrêté et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec l'organisme technique central, dans le respect des dispositions du point D de l'annexe III et du protocole en vigueur, prévu au point b de l'article 27 du présent arrêté.
 
 2. Qualification et suivi des contrôleurs
 
@@ -24,15 +24,15 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 3.1. Le suivi des opérations d'installation, d'étalonnage, de maintenance et d'entretien du matériel fait l'objet de procédures spécifiques disponibles dans chaque installation de contrôle.
 
-3.2. Ces procédures prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure. Elles prévoient également les méthodes d'essais alternatives éventuellement mises en œuvre, en l'attente de la remise en état ou du remplacement, conformément à l'instruction technique correspondante définie par l'organisme technique central et approuvée par le ministre chargé des transports. A défaut de telles méthodes, ces procédures prévoient l'arrêt immédiat de l'activité du centre, à l'exception des contrôles techniques ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
+3.2. Ces procédures prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure. Elles prévoient également les méthodes d'essais alternatives éventuellement mises en œuvre, en l'attente de la remise en état ou du remplacement, conformément à l'instruction technique correspondante définie par l'organisme technique central et approuvée par le ministre chargé des transports. Lorsque ces méthodes d’essai alternatives prévoient l’utilisation d’un matériel équivalent à celui installé dans le centre de contrôle, le centre est en mesure de justifier sa conformité, son étalonnage, sa maintenance et son entretien conformément aux prescriptions applicables. Les procédures du centre prévoient l’archivage des justificatifs pendant une durée de quatre ans. A défaut de telles méthodes, ces procédures prévoient l'arrêt immédiat de l'activité du centre, à l'exception des contrôles techniques ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
 
-Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures prévoient la mise en œuvre des dispositions relatives aux opérations d'installation, d'étalonnage, de maintenance et d'entretien prévues au point 1. Partie mécanique de l'annexe III du présent arrêté.
+Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures prévoient la mise en œuvre des dispositions relatives aux opérations d'installation, d'étalonnage, de maintenance et d'entretien prévues au point B de l'annexe III du présent arrêté.
 
 4. Recueil des informations relatives aux contrôles effectués
 
-4.1. Une copie de chaque procès-verbal de contrôle est conservée par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
+4.1. Une copie de chaque procès-verbal de contrôle ou un duplicata signé par le contrôleur est conservé par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
 
-4.2. Pour chaque contrôle technique effectué, sont relevées systématiquement les valeurs enregistrées par les appareils de mesure suivant la forme définie par l'Organisme Technique Central, ainsi que toutes les observations faites par le contrôleur. Ces informations doivent être conservées par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
+4.2. Pour chaque contrôle technique effectué, sont relevées systématiquement les valeurs enregistrées par les appareils de mesure suivant la forme définie par l'Organisme Technique Central, ainsi que toutes les défaillances détectées par le contrôleur. Ces informations doivent être conservées par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
 
 5. Transmission et diffusion des informations relatives aux contrôles techniques effectués
 
@@ -40,7 +40,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 5.2. Chaque centre de contrôle non rattaché transmet les résultats des contrôles effectués, conformément au protocole prévu au b de l'article 27 du présent arrêté, établi par l'Organisme Technique Central.
 
-5.3. Le titulaire de l'agrément de l'installation de contrôle ne doit diffuser un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, la direction du réseau auquel il est éventuellement rattaché, les agents de l'administration chargés du contrôle des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports et la personne ayant soumis son véhicule à la visite technique pour ce qui la concerne.
+5.3. Le titulaire de l'agrément de l'installation de contrôle ne doit diffuser un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, la direction du réseau auquel il est éventuellement rattaché, les agents de l'administration chargés du contrôle des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports et la personne ayant soumis son véhicule au contrôle technique pour ce qui la concerne.
 
 6. Suivi de l'exploitation
 
@@ -50,9 +50,9 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 6.1.2. Un document (registre, fiches, etc.) mentionnant, pour chaque appareil de contrôle, l'identification de l'appareil, la date de la mise en service, la nature et la date des pannes et détériorations, la nature et la date des opérations de maintenance (réglage, entretien, réparation, etc.).
 
-6.1.3. Une comptabilité d'exploitation où seront relevées notamment, en les distinguant, visites et contre-visites effectuées.
+6.1.3. Une comptabilité d'exploitation où seront relevées notamment, en les distinguant, les différents types de contrôles effectués.
 
-6.1.4. Des statistiques d'activité, au minimum mensuelles, précisant notamment le nombre total et par contrôleur de visites initiales, le nombre total et par contrôleur de contre-visites et le nombre ou le taux totaux et par contrôleur de refus, qui doivent être comparés aux taux annuels nationaux.
+6.1.4. Des statistiques d'activité, au minimum mensuelles, précisant notamment le nombre total et par contrôleur de contrôles périodiques, le nombre total et par contrôleur de contre-visites et le nombre ou le taux et par contrôleur de refus, qui doivent être comparés aux taux annuels nationaux.
 
 6.1.5. Un document mentionnant la prise de connaissance par l'exploitant et les contrôleurs des indicateurs fournis par l'OTC.
 
