@@ -24,7 +24,7 @@ du premier contrôle technique
 
 DUREE
 
-de validité du visa (1)
+de validité du contrôle (1)
 
 |
 
@@ -34,7 +34,7 @@ réglementaire
 
 |
 
-A. Véhicules de dépannage
+10. Véhicules de dépannage
 
 |
 
@@ -62,7 +62,7 @@ Arrêté du 30 septembre 1975 modifié
 
 |
 
-B. Véhicules utilisés pour les transports sanitaires terrestres
+11. Véhicules utilisés pour les transports sanitaires terrestres
 
 |
 
@@ -86,11 +86,11 @@ Arrêté du 25 juin 2001
 
 |
 
-C. Véhicules utilisés pour l'enseignement de la conduite
+12. Véhicules utilisés pour l'enseignement de la conduite
 
 |
 
-Carte orange (en l'absence de la mention véhicule-école sur le certificat d'immatriculation)
+Néant
 
 |
 
@@ -110,7 +110,7 @@ Arrêté du 8 janvier 2001
 
 |
 
-D. Taxis et voitures de tourisme avec chauffeur
+13. Taxis et voitures de transport avec chauffeur
 
 |
 
@@ -130,7 +130,7 @@ Articles L. 3122-1 et suivants et articles R. 3122-1 à R. 3122-15 du code des t
 
 |
 
-E. Véhicule de moins de dix places, conducteur compris, affecté au transport public de personnes
+Véhicule de moins de dix places, conducteur compris, affecté au transport public de personnes
 
 |
 
@@ -152,7 +152,7 @@ arrêté du 29 novembre 1994 modifié
 
 |
 
-(1) La date de validité de la visite technique périodique ou d'une contre-visite favorables est déterminée à compter de la date de la dernière visite technique périodique.
+(1) La date de validité du contrôle technique périodique ou d'une contre-visite favorables est déterminée à compter de la date du dernier contrôle technique périodique.
 
 PARTIE B
 
@@ -191,34 +191,6 @@ Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg
 |
 
 Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds
-
-|
-
-PARTIE C
-
-Autres véhicules soumis à des contrôles supplémentaires
-
-FONCTIONS COMPLEMENTAIRES
-
-|
-
-VÉHICULES CONCERNES
-
-|
-
-G. CONTRÔLE DE L'INSTALLATION GAZ CARBURANT SUR VÉHICULE
-
-|
-
-Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes EG, ER, EQ, GP, PE, PH, FG, EN, EM, EP, GN, NE, NH, FN, GF, GM, GQ
-
-|
-
-J. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE
-
-|
-
-Tout véhicule électrique ou hybride
 
 |
 
