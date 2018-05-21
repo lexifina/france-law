@@ -719,3 +719,11 @@ Agrément pris par le ministre chargé de la recherche en vue de l'utilisation c
 Article R. 532-1 du code de l'environnement
 
 |
+
+Décret n° 2018-367 du 18 mai 2018 relatif au diplôme national des métiers d'art et du design
+
+1 |
+
+Autorisation d'ouverture des formations conduisant au diplôme national des métiers d'art et du design. |
+
+Article R. 642-40 |
