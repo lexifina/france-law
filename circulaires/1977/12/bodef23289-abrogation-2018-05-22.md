@@ -1,0 +1,95 @@
+# CIRCULAIRE N° 3603/DEF/DCSSA/2/RT/2 relative aux examens médicaux et notamment cardio-vasculaires des conducteurs civils d'autocars et camions citernes (permis C et D).
+
+- État : abrogée (au 2018-05-22)
+- NOR : BODEF23289
+- Numéro : BODEF23289
+- Date de signature : 1977-12-13
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation :Le médecin général inspecteur, directeur central du service de santé des armées,DARBON.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  Le médecin général inspecteur, directeur central du service de santé des armées,  Le médecin général inspecteur, directeur central du service de santé des armées,  Le médecin général inspecteur, directeur central du service de santé des armées,   DARBON.  DARBON.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Service de santé des armées.Médecine du travail dans les armées.LIVRE III. PRÉVENTION DES ACCIDENTS DU TRAVAIL ET DES MALADIES PROFESSIONNELLES.LivreTITRE II. LA PRÉVENTION MÉDICALE AU PROFIT DES PERSONNELS CIVILS ET MILITAIRES.NiveauTitreChapitre IV. Prévention des accidents et maladies liés à un emploi ou consécutifs à des causes diverses.Chapitre
+- Publication JO / BO : BOC, p. 4115.
+- Annexes : 0
+- Identifiant : 7327 (PDF officiel : pdf/2009/04/cir_7327.pdf)
+
+## Résumé
+
+Les décisions sont prises par entente entre les états-majors français et espagnol.  Les décisions sont prises par entente entre les états-majors français et espagnol.  Les décisions sont prises par entente entre les états-majors français et espagnol.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+CIRCULAIRE N° 3603/DEF/DCSSA/2/RT/2
+relative aux examens médicaux et notamment cardio-vasculaires des conducteurs civils d'autocars et camions citernes (permis
+C et D).
+Du 13 décembre 1977
+
+DIRECTION CENTRALE DU SERVICE DE SANTÉ DES ARMÉES : Sous-Direction action scientifique et
+technique ; Bureau recherche et technique.
+CIRCULAIRE N° 3603/DEF/DCSSA/2/RT/2 relative aux examens médicaux et notamment
+cardio-vasculaires des conducteurs civils d'autocars et camions citernes (permis C et D).
+Du 13 décembre 1977
+Références :
+Arrêté du 24 mars 1981 [JO (N.C.) du 9 mai, p. 4452].
+Instruction n° 52035/DEF/DPC/CRG/2 du 5 mai 1975 (BOC, p. 1829) (1)
+Instruction n° 2983/DEF/DCSSA/2/RT/2 du 17 octobre 1975 (2).
+Modifié par :
+1er modificatif du 25 octobre 1978 (BOC, p. 5132).
+2e modificatif du 15 juillet 1981(BOC, p. 3360).
+Classement dans l'édition méthodique : BOEM 628.3.2.4.2.
+Référence de publication : BOC, p. 4115.
+Les conducteurs civils de véhicules des catégories C et D sont tenus de se soumettre à des examens médicaux,
+selon une périodicité variable en fonction de l'âge (cinq ans jusqu'à 60 ans, deux ans de 60 à 65 ans) devant les
+commissions départementales habilitées à statuer sur le renouvellement de leur permis de conduire.
+Les mêmes conducteurs salariés sont par ailleurs soumis aux examens médicaux périodiques de médecine du
+travail (art. 13 et 14 de l'IM no 2983/DEF/DCSSA/2/RT/2 du 17 octobre 1975.
+Le médecin du travail doit, dans l'appréciation de l'aptitude d'un conducteur, respecter les dispositions :
+1. Pour l'embauche, de l'instruction no 52035/DEF/DPC/CRG/2 relative à la classification des
+professions ouvrières des armées et son annexe III : conducteurs confirmés de véhicules du groupe V.
+Un examen cardio-vasculaire avec ECG pratiqué par un spécialiste est notamment obligatoire.
+2. Pour la surveillance médicale des conducteurs routiers et l'appréciation de l'aptitude d'un
+conducteur à son poste de travail, de l'arrêté du 24 mars 1981 fixant la liste des incapacités physiques
+incompatibles avec l'obtention ou le maintien du permis de conduire.
+Les affections cardio-vasculaires, définies dans l'annexe de cet arrêté : troubles du rythme I d, syncopes I e,
+coronarites I f, infarctus I g s'accompagnent toujours d'un examen électrocardiographique et de l'avis d'un
+spécialiste.
+Les médecins du travail appelés à examiner ces conducteurs seront donc amenés à demander, soit
+obligatoirement, soit s'ils le jugent utile et nécessaire en fonction de cas particuliers, un tracé
+électrocardiographique et à solliciter l'avis d'un spécialiste, dans le cadre des examens complémentaires
+prévus au chapitre 16 de l'IM no 2983/DEF/DCSSA/2/RT/2 du 17 octobre 1975.
+Dans un but de simplification, et en vue de limiter les inconvénients de la multiplicité des examens, le
+médecin du travail remettra au salarié, sur sa demande, une fiche spéciale destinée à la commission
+départementale, et comportant les mentions suivantes :
+
+- nom, prénom, adresse, date de naissance ;
+- adresse de l'établissement ou organisme ;
+- date de l'embauchage ou affectation à l'emploi de conducteur ;
+- caractéristiques du poste de travail (poids du véhicule, kilométrage moyen mensuel parcouru, nature
+du service effectué) — ces caractéristiques pourront être données par le chef d'établissement ;
+- date des examens médicaux, constatations cliniques, résultats des examens complémentaires
+pratiqués ;
+- conclusions du médecin du travail, qui confirmera que l'intéressé est reconnu apte à son poste de
+conducteur et ne présente aucun signe de maladie ou d'infirmité énumérées à l'arrêté du 24 mars 1981.
+Il appartiendra au travailleur de remettre cette fiche, datée de moins d'un mois et signée par le médecin du
+travail, à la commission départementale compétente.
+Il y a lieu de souligner que cette commission est seule habilitée à statuer sur la demande de prorogation du
+permis, et que le médecin du travail n'a pas à formuler d'avis sur le maintien ou le retrait du permis de
+conduire.
+Toutes dispositions ont été prises par le ministre de l'équipement qui souligne, par circulaire no 16 16/02/1966
+(direction des routes et de la circulation) tout l'intérêt que présente pour les médecins des commissions
+départementales la connaissance des constations faites par les médecins du travail, notamment dans le cas où
+les examens complémentaires ont été pratiqués en vue de vérifier l'aptitude d'un conducteur.
+Le ministère des affaires sociales, par instruction de mai 1966 (BO ministère des affaires sociales, série
+travail-emploi no 24-25/66) donne par ailleurs des directives aux médecins inspecteurs du travail et de la
+main-d'œuvre dans le but d'harmoniser les obligations en matière de surveillance médicale des conducteurs
+routiers.
+Cette circulaire ne devrait donc souffrir aucune difficulté dans son application.
+Pour le ministre de la défense et par délégation :
+Le médecin général inspecteur, directeur central du service de santé des armées,
+DARBON.
+(1) Abrogée le 20 février 1995 (BOC, p. 1347).
+(2) Abrogée en dernier lieu le 21 décembre 1992 (BOC, p. 1791).
