@@ -1,0 +1,12 @@
+# Tours Métropole Val de Loire : délibération DU_DELEGATAIRE_ET_DU_CONTRAT_DE_CONCESSION_POUR_LA_GESTION_DU_CENTRE_AQUATIQUE_DE_LUYNES — APPROBATION DU CHOIX DU DELEGATAIRE ET DU CONTRAT DE CONCESSION POUR LA GESTION DU CENTRE AQUATIQUE DE LUYNES
+
+- Collectivité : Tours Métropole Val de Loire
+- SIREN : 243700754
+- Date : 2018-05-22
+- Objet : APPROBATION DU CHOIX DU DELEGATAIRE ET DU CONTRAT DE CONCESSION POUR LA GESTION DU CENTRE AQUATIQUE DE LUYNES
+- Transmis à la préfecture : 1970-01-01
+- Votants : 0
+- Pour : 0
+- Contre : 0
+- Abstentions : 0
+- Jeu de données : https://www.data.gouv.fr/datasets/5e315dabdee7e72da7f5c8ee
