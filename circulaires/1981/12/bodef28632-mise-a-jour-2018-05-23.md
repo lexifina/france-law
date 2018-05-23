@@ -1,0 +1,149 @@
+# INSTRUCTION N° 39696/DEF/DCMAT/RPA/1 relative aux coûts horaires de main-d'oeuvre dans les établissements du matériel de l'armée de terre.
+
+- État : en vigueur (publiée)
+- NOR : BODEF28632
+- Numéro : BODEF28632
+- Date de signature : 1981-12-21
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation : L'administrateur civil hors classe, sous-directeur à la direction centrale du matériel de l'armée de terre, GAMBEY.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : Défense, anciens combattants; Organisation et règles d'administration propres aux différents services des armées ; Service du matériel ; Dispositions budgétaires et financières ; Comptabilités des travaux ; TITRE PREMIER. DISPOSITIONS COMPTABLES.
+- Publication JO / BO : BOC, p. 5473.
+- Annexes : 2
+- Identifiant : 7682 (PDF officiel : pdf/2009/04/cir_7682.pdf)
+
+## Résumé
+
+9.1. Catégories de recettes. Lors de sa création, le corps de troupe reçoit : un fonds d'avance de solde et d'alimentation mandaté par le commissaire de l'armée de terre dont relève le corps ; ce fonds doit être exclusivement affecté au paiement des prestations qui le concernent ; des allocations de premières mises relevant du budget de fonctionnement (18) ; une réserve générale de l'alimentation (19). Parmi les recettes encaissées par le corps figurent notamment celles relatives : à la reconstitution du fonds d'avance (20) ; aux allocations relevant du budget de fonctionnement ; aux allocations accordées : lors d'événements imprévisibles, sur la réserve de fonctionnement constituée au niveau régional ou territorial par décision du général exerçant les attributions de commandant de région militaire (21) ; par le ministre (cas de sinistres ou d'accidents dont le dédommagement excède les capacités de la réserve régionale) ; à l'ordinaire, sur décision du général exerçant les attributions de commandant de région militaire (21) pour prélèvement sur le fonds régional ;à l'ordinaire, sur décision du ministre, par prélèvement sur le fonds ministériel ; au remboursement des avances faites par le corps pour le compte de l'Etat et relatives notamment aux frais de déplacement et aux dépenses remboursables sur relevés (22) ; aux imputations. 9.2. Utilisation des ressources. Les recettes sont réalisées principalement par virement au CCP ou au compte au Trésor du corps, ou occasionnellement en numéraire auprès du trésorier, cette dernière procédure devant conserver un caractère exceptionnel. Les retraits de fonds effectués au CCP ou au compte au Trésor du corps, ainsi que la perception auprès du Trésor de mandats ordonnancés au profit du corps, sont enregistrés sur le carnet de perception de fonds, imprimé N° 701-11. Chacune de ces opérations entraîne obligatoirement l'établissement, par le trésorier, d'une pièce de caisse, imprimé N° 701-20. Les recettes doivent être effectuées dans les conditions fixées par les règlements, marchés ou conventions. Elles sont immédiatement enregistrées dans la comptabilité-deniers. 9.1. Catégories de recettes. 9.1. Catégories de recettes.  Catégories de recettes. Catégories de recettes. Lors de sa création, le corps de troupe reçoit : Lors de sa création, le corps de troupe reçoit : un fonds d'avance de solde et d'alimentation mandaté par le commissaire de l'armée de terre dont relève le corps ; ce fonds doit être exclusivement affecté au paiement des prestations qui le concernent ; des allocations de premières mises relevant du budget de fonctionnement (18) ;une réserve générale de l'alimentation (19). Un fonds d'avance de solde et d'alimentation mandaté par le commissaire de l'armée de terre dont relève le corps ; ce fonds doit être exclusivement affecté au paiement des prestations qui le concernent...
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de terre
+INSTRUCTION N° 39696/DEF/DCMAT/RPA/1
+relative aux coûts horaires de main-d'œuvre dans les établissements du matériel de l'armée de terre.
+Du 21 décembre 1981
+
+DIRECTION CENTRALE DU MATÉRIEL DE L'ARMÉE DE TERRE : Bureau réglementation et
+procédures administratives.
+INSTRUCTION N° 39696/DEF/DCMAT/RPA/1 relative aux coûts horaires de main-d'œuvre dans les
+établissements du matériel de l'armée de terre.
+Du 21 décembre 1981
+Pièce(s) Jointe(s) :
+Deux annexes.
+Modifié par :
+1er modificatif du 24 juillet 1986 (BOC, p. 4588).
+Textes abrogés :
+Instruction n° 44700/DCMAT/EA/2 du 16 novembre 1971 (BOC/G, p. 1277) et ses
+modificatifs des 3 octobre 1972 (BOC/G, p. 1180) ; 12 octobre 1973 (BOC/G, p. 704) ;
+6 janvier 1975 (BOC, p. 7) et 29 octobre 1975 (BOC, p. 4121).
+Instruction provisoire n° 1136/DCMAT/RPA/2 du 12 janvier 1979 (n.i. BO).
+Classement dans l'édition méthodique : BOEM 561.1.3.
+Référence de publication : BOC, p. 5473.
+Article premier.
+ Nécessité des coûts horaires de main-d'œuvre.
+Les coûts horaires de la main-d'œuvre des centres de responsabilité sont des éléments d'information
+indispensables pour les études d'appréciation du fonctionnement d'un organisme.
+Il est habituel en comptabilité d'exploitation de répartir les coûts généraux de l'organisme tels que les frais de
+fonctionnement et d'exploitation, la participation aux investissements, etc. sous forme de quotes-parts sur
+l'unité d'œuvre la plus commune, l'heure de main-d'œuvre. Cette nécessité s'impose également au matériel : il
+en résulte l'obligation de procéder à une analyse comptable dont le budget de gestion constitue la forme
+synthétique.
+Les modalités d'élaboration et le contenu des budgets et comptes de gestion (BG et CG) font l'objet de
+l'instruction no 24800/DEF/DCMAT/SDA/RPA/1 du 5 juillet 1985 (BOC, p. 5115) modifiée.
+Article 2.
+ Eléments constitutifs des différents coûts horaires.
+Les coûts horaires de main-d'œuvre sont constitués à partir d'un élément de base, le coût horaire direct de
+main-d'œuvre, auquel peuvent être adjointes selon la nécessité, des quotes-parts relatives :
+- aux frais de fonctionnement et d'exploitation ;
+- à la participation aux investissements d'infrastructure et d'équipement technique.
+
+Les différents coûts horaires ainsi constitués ont tous leur signification propre et ils ne peuvent être utilisés
+indifféremment. Le choix du coût utilisé est particulièrement important lorsque celui-ci doit servir à des
+études comparatives des conditions de soutien entre organismes du matériel ou avec des établissements du
+secteur étatique ou privé.
+Les éléments nécessaires aux calculs du coût et des quotes-parts sont puisés dans le budget de gestion.
+Article 3.
+ Elaboration et utilisation des coûts horaires.
+Les coûts horaires de la main-d'œuvre sont déterminés au niveau de l'établissement et au niveau national tant
+en prévision qu'à postériori.
+Les coûts horaires au niveau établissement constituent, d'une part des indications pour la conduite de
+l'organisme et sont, d'autre part, des éléments indispensables pour les calculs de certaines applications
+statistiques.
+C'est ainsi que les coûts horaires prévisionnels servent à fixer des objectifs de fonctionnement et de
+productivité dont les coûts constatés en cours ou en fin de gestion permettent de contrôler l'atteinte.
+Les coûts horaires au niveau national calculés par l'administration centrale, servent d'élément de référence et
+permettent des études de coûts moyens.
+C'est ainsi que :
+- les coûts horaires prévisionnels sont les taux standards à utiliser pour l'évaluation des opérations de
+soutien par l'intermédiaire de la comptabilité des travaux, des devis et des cessions et pour la
+préparation des décisions de soutien ;
+- les coûts horaires constatés sont employés dans les études s'appuyant sur l'appréciation globale des
+coûts de soutien.
+Article 4.
+ Coût horaire direct de la main-d'œuvre.
+Le coût horaire direct de la main-d'œuvre est le prix de revient moyen d'une heure de travail.
+Il est obtenu en divisant le coût total annuel des dépenses de personnels par le nombre annuel d'heures de
+travail pris en compte dans les programmes d'activité des budgets et comptes de gestion.
+Article 5.
+ Quote-part horaire des frais de fonctionnement et d'exploitation.
+La plupart des calculs de coûts exigent que le taux horaire de la main-d'œuvre comprenne les dépenses
+relatives au fonctionnement et à l'exploitation générale. Celles-ci sont incorporées dans le coût horaire sous
+forme de quote-part.
+Ces dépenses font l'objet des programmes : A 3 (fonctionnement général) et A 4 (exploitation générale) du
+budget de gestion.
+La quote-part horaire est obtenue en divisant le coût total des dépenses de ces programmes par le nombre
+d'heures de travail imputées aux programmes P 1 à A 2 du budget de gestion.
+Article 6.
+ Quote-part horaire des investissements d'infrastructure et d'équipement technique.
+
+Certaines études et déterminations de coûts demandent que le coût horaire de la main-d'œuvre tienne compte
+d'une participation aux investissements d'infrastructure et d'équipement technique. Cette participation, qui se
+substitue à la notion d'amortissement plus classique, mais difficile à appliquer dans l'état actuel des
+comptabilités, est alors incorporée sous forme de quote-part.
+Les dépenses d'investissement à prendre en considération sont celles faisant l'objet du programme A 2
+(réalisation ou aménagement d'infrastructure ou d'équipements au profit d'organismes du matériel), du budget
+de gestion, les dépenses de personnels étant majorées au préalable de la quote-part des frais de
+fonctionnement.
+La quote-part est obtenue en divisant le coût de ces dépenses par le nombre d'heures de travail imputées aux
+programmes P 1 à A 1 du budget de gestion.
+Article 7.
+ Marge sur approvisionnement.
+Le coût complet des approvisionnements distribués est égal à leur coût au prix catalogue majoré des frais de
+gestion, de magasinage et de distribution. Cette majoration appelée « marge sur approvisionnement » est
+obtenue en divisant le coût du programme A 1 (gestion des approvisionnements) auquel sont appliquées des
+quotes-parts pour frais de fonctionnement et pour investissements, par le coût au prix d'inventaire des
+approvisionnements des programmes P 1 à P 8 du budget de gestion.
+Article 8.
+ Etablissement des taux horaires de main-d'œuvre et de la marge sur approvisionnement.
+Conformément à ce qui précède et en application de l'instruction no 24800/DEF/DCMAT/SDA/RPA/1 du 5
+juillet 1985 précitée, les organismes en budget de gestion du matériel, produisant un BG et un CG calculent
+les taux horaires de main-d'œuvre et la marge sur approvisionnement en prévision et en exécution (coûts
+constatés).
+Les calculs sont effectués par les moyens informatiques de chaque centre de responsabilité. Les résultats sont
+édités dans les formes indiquées en annexe.
+Les renseignements nécessaires aux calculs sont contenus dans les fichiers magnétiques (1) des BG et CG
+stockés de niveau en niveau lors des agrégations successives. Ainsi le centre de responsabilité supérieur
+détient en archive, sur support magnétique, les informations du niveau national et du niveau régional ou
+équivalent ; le centre de responsabilité intermédiaire détient en archive, sur support magnétique, les
+informations de niveau régional et de ses centres de responsabilité élémentaires subordonnés. Les feuillets de
+calcul édités par ordinateur, en prévision, seront joints aux budgets de gestion des CRE transmis par les CRI à
+titre de compte-rendu, au début de chaque exercice, à la demande de l'administration centrale. Les feuillets de
+calcul concernant les CRI (à coûts régionaux et national) et le matériel en BG dans son ensemble, sont établis
+et communiqués par la direction centrale du matériel de l'armée de terre, bureau prévision-gestion.
+Pour le ministre de la défense et par délégation :
+L'administrateur civil hors classe, sous-directeur à la direction centrale du matériel de l'armée de terre,
+GAMBEY.
+
+(1) Cf. chapitre XIII et annexe IX de l' instruction n°24800/DEF/DCMAT/SDA/RPA/1 du 5 juin 1985
+
+ANNEXE I.
+ANNEXE I.
+Figure 1. COUTS HORAIRES DE MAIN-D'ŒUVRE PREVISIONNELS
+
+ANNEXE II.
+ANNEXE II.
+Figure 2. COUTS HORAIRES DE MAIN-D'ŒUVRE CONSTATES
