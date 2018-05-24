@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203451
+
+- Question : [SEQ180203451](seq180203451.md) — Héritage des jeux olympiques de 2024
+
+## Réponse
+
+*Sports, JO du 2018-05-24, page 2530*
+
+Depuis septembre 2017, l'État s'est fortement mobilisé pour contribuer à la création des structures nécessaires à l'organisation des Jeux Olympiques et Paralympiques et pour mettre en place le cadre législatif et réglementaire nécessaire à l'organisation des jeux : adoption de la loi relative à l'organisation des jeux Olympiques et Paralympiques de 2024 du 26 mars 2018, décret relatif la Société de livraison des ouvrages olympiques (SOLIDEO) du 27 décembre 2017 et dépôt des statuts du comité d'organisation des Jeux Olympiques et Paralympiques de Paris 2024 (COJO) le 22 décembre 2017. Concernant l'héritage des Jeux Olympiques, plusieurs dispositifs ont été mis en place. S'agissant de l'héritage matériel, la SOLIDEO en application de la loi n° 2018-202 du 26 mars 2018 relative à l'organisation des jeux Olympiques et Paralympiques de 2024, assurera la reconfiguration des sites sportifs. S'agissant de l'héritage immatériel, il existe déjà une base de travail solide comportant un certain nombre de propositions de mesures négociées entre le ministère des sports et les ministères partenaires (les ministères de la solidarité et de la santé, de l'éducation nationale, de la culture, de la transition écologique et solidaire, le secrétariat d'État chargé de l'égalité entre les femmes et les hommes et le secrétariat d'Etat chargé des Personnes handicapées). Ce premier programme constitue une bonne base de travail. Quant à la structure dédiée à l'héritage, la réflexion se poursuit et l'État sera force de proposition auprès de ses différents partenaires (Ville de Paris, Région Ile-de-France, mouvement sportif) sur ce sujet.
