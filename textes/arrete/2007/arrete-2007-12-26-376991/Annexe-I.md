@@ -50,7 +50,7 @@ Chef de cabinet.
 
 Direction de la modernisation et de l'action territoriale. |
 
-Chef de projet réforme de l'administration territoriale de l'Etat.
+Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale
 
 |
 
@@ -240,7 +240,7 @@ Chef de la division de l'organisation des concours et des dispositifs promotionn
 
 50 |
 
-Chef de cabinet du directeur des ressources et des compétences de la police nationale. |
+Secrétaire adjoint pour l'administration générale au sein de la direction des ressources et des compétences de la police nationale. |
 
 30 |
 

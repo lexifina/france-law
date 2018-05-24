@@ -40,7 +40,7 @@ Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation. |
 
 Direction des ressources humaines. |
 
-Chargé de mission pour la mise en place du pôle d'expertise et de services (PESE). |
+Chef du bureau zonal des rémunérations et des pensions d'Ile-de-France. |
 
 60 |
 
@@ -56,7 +56,7 @@ Chef du service de gestion des personnels administratifs, techniques et scientif
 
 50 |
 
-Chargé de mission préfiguration du service de prospective et de pilotage au sein de la sous-direction des personnels |
+Chef du service de prospective et de pilotage au sein de la sous-direction des personnels. |
 
 50 |
 
