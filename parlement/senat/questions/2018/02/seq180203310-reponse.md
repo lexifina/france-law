@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203310
+
+- Question : [SEQ180203310](seq180203310.md) — Règles de désignation des membres de la conférence régionale de la santé et de l'autonomie
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-05-24, page 2511*
+
+L'article D. 1432-28 du code de la santé publique (CSP) évoque la notion de « représentant d'un groupement de communes » sans mentionner de qualité particulière de ce représentant qui y est désigné de façon individuelle. L'article D.1432-30 qui indique qu'un membre désigné en raison de son mandat électif ne peut se faire suppléer que par un élu de la même assemblée délibérante suggère qu'il s'agit d'un élu désigné pour représenter les groupements de communes du ressort géographique de l'agence et non le groupement de communes dont il est issu. L'article D.1432-44 qui traite de la durée du mandat des membres de la conférence régionale de la santé et de l'autonomie (CRSA) prévoit deux hypothèses de cessation du mandat d'un représentant, la première résultant de la perte de la qualité qui a conduit à sa désignation, la seconde, plus générale d'une cessation pour une raison quelconque de la fonction de représentant au sein de la CRSA. Il apparait que la désignation du représentant du groupement de communes au sein du collège des représentants des collectivités territoriales de la CRSA résulte du mandat de conseiller communautaire de la personne désignée. La perte de fonction de vice-président de cet élu au sein de son intercommunalité est sans incidence sur sa désignation par l'Assemblée des communautés de France (Adcf) en tant que représentant des collectivités territoriales du ressort géographique de l'agence. S'agissant de la question relative à la possibilité de réduction du mandat, aucune des dispositions des articles D.1432-28 et suivants du CSP ne prévoit de possibilité de réduction de la durée du mandat des membres de la CRSA.
