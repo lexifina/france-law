@@ -1,0 +1,78 @@
+# CIRCULAIRE N° 182/DEF/EMAA/LEG fixant les conditions dans lesquelles les personnels des formations musicales de l'armée de l'air peuvent prêter leur concours à titre individuel.
+
+- État : en vigueur (publiée)
+- NOR : BODEF30122
+- Numéro : 182
+- Date de signature : 1983-05-27
+- Mise en ligne : 2009-04-30
+- Auteur : le ministre de la défense
+- Signataire : Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,CLARIOND.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Règles générales d'administration et de comptabilité.Emploi des moyens des armées à des activités distinctes de leur mission propre.Règles relatives à la participation des armées à certaines activités civiles (prêts de personnel, prêts de matériels).TITRE UNIQUE.NiveauTitreCHAPITRE II. TEXTES PARTICULIERS AUX ARMÉES ET SERVICES.Chapitre
+- Publication JO / BO : BOC, p. 2509.
+- Annexes : 0
+- Identifiant : 20205 (PDF officiel : pdf/2009/04/cir_20205.pdf)
+
+## Résumé
+
+Ces procédures concernent les fournitures devant être distribuées dans le plus court délai à leurs destinataires, généralement directement aux ateliers chargés de l'intervention technique.De manière à gagner du temps et dans un souci de simplification des tâches, mais aussi parce qu'il n'est pas toujours possible de réunir en permanence la commission de réception pour lui faire vérifier les fournitures livrées quasi journellement, les dispositions ci-dessous peuvent être suivies.  Ces procédures concernent les fournitures devant être distribuées dans le plus court délai à leurs destinataires, généralement directement aux ateliers chargés de l'intervention technique.  Ces procédures concernent les fournitures devant être distribuées dans le plus court délai à leurs destinataires, généralement directement aux ateliers chargés de l'intervention technique.  De manière à gagner du temps et dans un souci de simplification des tâches, mais aussi parce qu'il n'est pas toujours possible de réunir en permanence la commission de réception pour lui faire vérifier les fournitures livrées quasi journellement, les dispositions ci-dessous peuvent être suivies.  De manière à gagner du temps et dans un souci de simplification des tâches, mais aussi parce qu'il n'est pas toujours possible de réunir en permanence la commission de réception pour lui faire vérifier les fournitures livrées quasi journellement, les dispositions ci-dessous peuvent être suivies.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+CIRCULAIRE N° 182/DEF/EMAA/LEG
+fixant les conditions dans lesquelles les personnels des formations musicales de l'armée de l'air peuvent prêter leur concours à
+titre individuel.
+Du 27 mai 1983
+
+ÉTAT-MAJOR DE L'ARMÉE DE L'AIR : Bureau législation.
+CIRCULAIRE N° 182/DEF/EMAA/LEG fixant les conditions dans lesquelles les personnels des
+formations musicales de l'armée de l'air peuvent prêter leur concours à titre individuel.
+Du 27 mai 1983
+Modifié par :
+Erratum du 15 juin 1983 (BOC, p. 2814).
+Classement dans l'édition méthodique : BOEM 450.1.2.3.
+Référence de publication : BOC, p. 2509.
+Art. 1er. En vertu de l'article 3 du décret du 29 octobre 1936 (BO/G, p. 3643) les personnels des formations
+musicales de l'armée de l'air sont autorisés à tirer parti de leurs talents professionnels :
+- en produisant des œuvres artistiques ;
+- en exerçant une activité d'enseignement de la musique ;
+- en prêtant leur concours à des sociétés ou organismes à vocation artistique.
+Art. 2. 2.1. Ces concours à titre personnel ne peuvent être assurés qu'en dehors du service et en tenue civils.
+ 2.2. Ils sont limités à des organismes situés dans le ressort de la région aérienne d'appartenance ou
+d'implantation.
+Art. 3. Les engagements souscrits afin d'honorer ces concours à titre personnel ne peuvent excéder quatre
+prestations hebdomadaires (1). Ils doivent comporter une clause permettant leur résiliation immédiate à tout
+moment, sur simple demande de l'intéressé ou du chef de la formation musicale dont il dépend.
+Il est interdit aux personnels des formations musicales de l'armée de l'air de se lier par un contrat ayant un
+caractère permanent.
+Art. 4. Des exceptions aux dispositions de l'article précédent sont cependant consenties en faveur des
+musiciens solistes ou exerçant un emploi de premier soliste dans les orchestres nationaux et régionaux, à
+l'opéra ou ses succursales. Toutefois, le nombre de dérogations accordées pour l'ensemble du personnel par le
+chef de la formation musicale ne peut excéder le nombre de six.
+Art. 5. Les personnels des formations musicales de l'armée de l'air désirant prêter leur concours à des sociétés
+ou établissements civils en reçoivent l'autorisation du commandant de la base aérienne de rattachement
+administratif, après avis du chef de la formation musicale intéressée.
+A cette occasion, un compte de cumul des rémunérations est tenu par le chef de la formation musicale dont
+relèvent les personnels prêtant leur concours à titre individuel.
+Art. 6. Lorsqu'il s'agit de concours prêté à des organismes relevant de l'administration municipale, copie de
+l'autorisation accordée est adressée au commissaire de la République du département concerné, conformément
+aux dispositions de l' arrêté interministériel du 15 février 1965 (BOC/SC, p. 559).
+
+Art. 7. Afin d'éviter tout abus dans l'application des dispositions des articles précédents, le chef de la
+formation musicale a qualité pour interdire ou interrompre les concours prêtés par les personnels en cause aux
+sociétés ou établissements civils, à charge pour lui d'en rendre compte au ministre de la défense (état-major de
+l'armée de l'air ; cabinet).
+Les réclamations relatives aux concours prêtés individuellement par les personnels des formations musicales
+de l'armée de l'air sont transmises au ministre de la défense (état-major de l'armée de l'air ; cabinet).
+Art. 8. La responsabilité de l'Etat ne peut en aucune façon d'être engagée dans les accidents survenus lors des
+concours prêtés à titre individuel par les personnels des formations musicales de l'armée de l'air ou lors des
+déplacements nécessités par ces concours.
+Pour le ministre de la défense et par délégation :
+Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,
+CLARIOND.
+(1) La fonction de professeur au conservatoire national de musique et à ses succursales échappe à cette interdiction.
