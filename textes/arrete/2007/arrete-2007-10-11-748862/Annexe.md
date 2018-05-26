@@ -2,15 +2,9 @@
 
 CORPS ET GRADE |
 
-TAUX APPLICABLE PAR ANNÉE |
+TAUX APPLICABLE
 
-|
-
-2017 |
-
-2018 |
-
-2019 |
+en 2018 |
 
 Filière administrative |
 
@@ -20,27 +14,15 @@ Attaché principal |
 
 9 % |
 
-Non défini |
-
-Non défini |
-
 Corps des adjoints des cadres hospitaliers |
 
 Adjoint des cadres hospitaliers de classe supérieure |
 
 13 % |
 
-Non défini |
-
-Non défini |
-
 Adjoint des cadres hospitaliers de classe exceptionnelle |
 
 11 % |
-
-Non défini |
-
-Non défini |
 
 Corps des assistants médico-administratifs |
 
@@ -48,43 +30,19 @@ Assistant médico-administratif de classe supérieure |
 
 8 % |
 
-Non défini |
-
-Non défini |
-
 Assistant médico-administratif de classe exceptionnelle |
 
 8 % |
 
-Non défini |
-
-Non défini |
-
 Corps des adjoints administratifs |
-
-Adjoint administratif de 1re classe |
-
-6 % |
-
-Non défini |
-
-Non défini |
 
 Adjoint administratif principal de 2e classe |
 
-9 % |
-
-Non défini |
-
-Non défini |
+6 % |
 
 Adjoint administratif principal de 1re classe |
 
-9 % |
-
-Non défini |
-
-Non défini |
+5 % |
 
 Corps des permanenciers auxiliaires de régulation médicale |
 
@@ -92,73 +50,29 @@ Permanencier auxiliaire de régulation médicale chef |
 
 13 % |
 
-Non défini |
-
-Non défini |
-
 Filière ouvrière et technique |
 
 Corps des dessinateurs |
 
-Dessinateur chef de groupe |
-
-15 % |
-
-Non défini |
-
-Non défini |
-
 Dessinateur principal |
 
-13 % |
-
-Non défini |
-
-Non défini |
+10 % |
 
 Corps des conducteurs ambulanciers |
 
-Conducteur ambulancier de 1re catégorie |
-
-6 % |
-
-6 % |
-
-6 % |
-
-Conducteur ambulancier hors catégorie |
-
-5 % |
-
-5 % |
+Conducteur ambulancier principal |
 
 5 % |
 
 Corps des personnels ouvriers |
 
-Ouvrier professionnel qualifié |
+Ouvrier principal de 2e classe |
 
 6 % |
 
-Non défini |
+Ouvrier principal de 1re classe |
 
-Non défini |
-
-Maître ouvrier |
-
-11 % |
-
-Non défini |
-
-Non défini |
-
-Maître ouvrier principal |
-
-15 % |
-
-Non défini |
-
-Non défini |
+7 % |
 
 Corps de la maîtrise ouvrière |
 
@@ -166,27 +80,15 @@ Agent de maîtrise principal |
 
 15 % |
 
-Non défini |
-
-Non défini |
-
 Corps des techniciens et techniciens supérieurs hospitaliers |
 
 Technicien supérieur hospitalier de 2e classe |
 
 10 % |
 
-Non défini |
-
-Non défini |
-
 Technicien supérieur hospitalier de 1re classe |
 
-15 % |
-
-Non défini |
-
-Non défini |
+13 % |
 
 Psychologues |
 
@@ -194,11 +96,7 @@ Corps des psychologues |
 
 Psychologue hors classe |
 
-10 % |
-
-Non défini |
-
-Non défini |
+9 % |
 
 Filière soins |
 
@@ -206,35 +104,15 @@ Corps des aides-soignants et des agents des services hospitaliers |
 
 Agent de services hospitaliers qualifié classe supérieure |
 
-8 % |
-
-Non défini |
-
-Non défini |
-
-Aide-soignant de classe supérieure |
-
 10 % |
 
-Non défini |
+Aide-soignant principal |
 
-Non défini |
-
-Aide-soignant de classe exceptionnelle |
-
-15 % |
-
-Non défini |
-
-Non défini |
+8 % |
 
 Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988 |
 
 Infirmier de classe supérieure |
-
-15 % |
-
-15 % |
 
 15 % |
 
@@ -244,71 +122,43 @@ Infirmier en soins généraux deuxième grade |
 
 11 % |
 
-11 % |
-
-11 % |
-
 Filière de rééducation |
 
 Corps des pédicures-podologues |
 
 Pédicure podologue de classe supérieure |
 
-15 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des masseurs-kinésithérapeutes |
 
 Masseur-kinésithérapeute de classe supérieure |
 
-12,5 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des ergothérapeutes |
 
 Ergothérapeutes de classe supérieure |
 
-12 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des psychomotriciens |
 
 Psychomotricien de classe supérieure |
 
-12 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des orthophonistes |
 
 Orthophoniste de classe supérieure |
 
-15 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des orthoptistes |
 
 Orthoptiste de classe supérieure |
 
-15 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des diététiciens |
 
@@ -316,21 +166,13 @@ Diététicien de classe supérieure |
 
 13 % |
 
-Non défini |
-
-Non défini |
-
 Filière médico-technique |
 
 Corps des manipulateurs en électroradiologie médicale |
 
 Manipulateur en électroradiologie de classe supérieure |
 
-12 % |
-
-Non défini |
-
-Non défini |
+11 % |
 
 Corps des techniciens de laboratoire médical |
 
@@ -338,19 +180,11 @@ Technicien de laboratoire médical de classe supérieure |
 
 15 % |
 
-Non défini |
-
-Non défini |
-
 Corps des préparateurs en pharmacie hospitalière |
 
 Préparateur en pharmacie hospitalière de classe supérieure |
 
 12 % |
-
-Non défini |
-
-Non défini |
 
 Filière socio-éducative |
 
@@ -360,39 +194,27 @@ Conseiller en économie sociale et familiale de classe supérieure |
 
 15 % |
 
-Non défini |
-
-Non défini |
-
 Corps des éducateurs techniques spécialisés |
 
 Educateur technique spécialisé de classe supérieure |
 
-15 % |
-
-Non défini |
-
-Non défini |
+12 % |
 
 Corps des éducateurs de jeunes enfants |
 
 Educateur de jeunes enfants de classe supérieure |
 
-15 % |
-
-Non défini |
-
-Non défini |
+12 % |
 
 Corps des animateurs |
+
+Animateur principal 2e classe |
+
+12 % |
 
 Animateur principal 1re classe |
 
 8 % |
-
-Non défini |
-
-Non défini |
 
 Corps des moniteurs-éducateurs |
 
@@ -400,28 +222,16 @@ Moniteur-éducateur principal |
 
 8 % |
 
-Non défini |
-
-Non défini |
-
 Corps des assistants socio-éducatifs |
 
 Assistant socio-éducatif principal |
 
 10 % |
 
-10 % |
-
-Non défini |
-
 Sages-femmes des hôpitaux |
 
 Corps des sages-femmes des hôpitaux |
 
-Sage-femme des hôpitaux du 2nd grade |
+Sage-femme des hôpitaux du 2d grade |
 
 10 % |
-
-Non défini |
-
-Non défini |
