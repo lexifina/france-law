@@ -40,7 +40,7 @@ L'homologation d'un système est une décision formelle prise par l'opérateur q
 
 Dans le cadre de l'homologation, un audit de la sécurité du SIIV doit être réalisé. Cet audit vise à vérifier l'application et l'efficacité des mesures de sécurité du SIIV et notamment le respect des règles de sécurité mentionnées dans le présent arrêté. L'audit doit permettre d'évaluer le niveau de sécurité du SIIV au regard des menaces et des vulnérabilités connues. Il comporte notamment la réalisation d'un audit d'architecture, d'un audit de configuration et d'un audit organisationnel et physique.
 
-Cet audit est réalisé dans le respect des règles fixées par le référentiel en matière d'audit de sécurité des systèmes d'information prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale.
+Cet audit est réalisé dans le respect des règles fixées par le référentiel en matière d'audit de sécurité des systèmes d'information prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information.
 
 L'opérateur peut réaliser lui-même l'audit ou recourir à un prestataire qualifié dans les conditions prévues au chapitre III du décret n° 2015-350 du 27 mars 2015 précité.
 
@@ -130,7 +130,7 @@ L'opérateur d'importance vitale met en œuvre un système de corrélation et d'
 
 Le système de corrélation et d'analyse de journaux est installé et exploité sur un système d'information mis en place exclusivement à des fins de détection d'événements susceptibles d'affecter la sécurité des systèmes d'information.
 
-L'opérateur ou le prestataire mandaté à cet effet installe et exploite ce système de corrélation et d'analyse de journaux en s'appuyant sur les exigences du référentiel en matière de détection des incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale.
+L'opérateur ou le prestataire mandaté à cet effet installe et exploite ce système de corrélation et d'analyse de journaux en s'appuyant sur les exigences du référentiel en matière de détection des incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information.
 
 7. Règle relative à la détection
 
@@ -140,13 +140,13 @@ Les sondes d'analyse de fichiers et de protocoles analysent les flux de données
 
 Les systèmes de détection qualifiés de ce type sont choisis parmi ceux figurant sur la liste prévue à l'article R. 1332-41-9 du code de la défense.
 
-Ces systèmes de détection sont exploités selon les règles fixées par le référentiel en matière de détection des incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale. Ils sont exploités par un service de l'Etat ou un prestataire qualifié à cet effet dans les conditions prévues par le décret précité.
+Ces systèmes de détection sont exploités selon les règles fixées par le référentiel en matière de détection des incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information. Ils sont exploités par un service de l'Etat ou un prestataire qualifié à cet effet dans les conditions prévues par le décret précité.
 
 8. Règle relative au traitement des incidents de sécurité
 
 L'opérateur d'importance vitale élabore, tient à jour et met en œuvre une procédure de traitement des incidents affectant le fonctionnement ou la sécurité de ses systèmes d'information d'importance vitale (SIIV), conformément à sa politique de sécurité des systèmes d'information.
 
-L'opérateur ou le prestataire mandaté à cet effet procède au traitement des incidents en s'appuyant sur les exigences du référentiel en matière de réponse aux incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale.
+L'opérateur ou le prestataire mandaté à cet effet procède au traitement des incidents en s'appuyant sur les exigences du référentiel en matière de réponse aux incidents de sécurité prévu à l'article 10 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des systèmes d'information.
 
 Un système d'information spécifique doit être mis en place pour traiter les incidents, notamment pour stocker les relevés techniques relatifs aux analyses des incidents. Ce système est cloisonné vis-à-vis du SIIV concerné par l'incident.
 

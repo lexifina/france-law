@@ -136,7 +136,7 @@ Délivrance du certificat attestant qu'un produit ou un système satisfait aux c
 
 |
 
-- premier alinéa de l'article 8
+-premier alinéa de l'article 8
 
 |
 
@@ -148,7 +148,7 @@ Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité
 
 |
 
-- premier alinéa de l'article 12 et deuxième alinéa de l'article 14
+-premier alinéa de l'article 12 et deuxième alinéa de l'article 14
 
 |
 
@@ -227,6 +227,32 @@ Délivrance, suspension et abrogation de l'agrément des centres d'évaluation.
 Deuxième alinéa de l'article 19 et second alinéa de l'article 20
 
 |
+
+Décret n° 2018-384 du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique et pris pour l'application du titre Ier de la loi n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité :
+
+1 |
+
+Décisions de désignation et de fin de désignation des opérateurs de services essentiels |
+
+Articles 3 et 6 |
+
+2 |
+
+Décisions imposant aux opérateurs de services essentiels un contrôle |
+
+Article 13 |
+
+3 |
+
+Décisions imposant aux fournisseurs de service numérique d'informer le public d'un incident |
+
+Article 21 |
+
+4 |
+
+Décisions imposant aux fournisseurs de service numérique un contrôle |
+
+Article 22 |
 
 Titre III du livre III de la deuxième partie réglementaire du code de la défense :
 
