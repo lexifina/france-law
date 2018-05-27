@@ -8,15 +8,11 @@ NOM
 
 de la substance
 
-vénéneuse
-
-|
+vénéneuse |
 
 FORMES PHARMACEUTIQUES
 
-ou voies d'administration
-
-|
+ou voies d'administration |
 
 NON DIVISÉE EN PRISES
 
@@ -24,9 +20,7 @@ Concentration maximale
 
 pourcentage
 
-(en masse)
-
-|
+(en masse) |
 
 DIVISÉE EN PRISES
 
@@ -34,9 +28,7 @@ Dose limite par unité
 
 de prise
 
-(en grammes)
-
-|
+(en grammes) |
 
 QUANTITÉ MAXIMALE
 
@@ -44,26 +36,40 @@ de substance
 
 remise au public
 
-(en grammes)
+(en grammes) |
 
-|
+Amitraze |
 
-Iode métalloïde
+Lanière pour ruche |
 
-|
+/ |
+
+0,5 |
+
+5 |
+
+Iode métalloïde |
 
 En application sur les trayons ou sur les
 
-muqueuses
+muqueuses |
+
+0,3 |
 
 |
 
-0,3
+60 |
 
-|
+Oxalique (acide) |
 
-|
+Suspension pour dispersion
 
-60
+pour ruche
 
-|
+Poudre pour sirop pour ruche |
+
+63,3 |
+
+/ |
+
+221,5 |
