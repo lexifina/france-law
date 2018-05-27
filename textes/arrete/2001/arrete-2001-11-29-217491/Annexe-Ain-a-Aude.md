@@ -168,7 +168,9 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) des Alpes-de-Haute-Provence
+Direction départementale de l'équipement et de l'agriculture
+
+des Alpes-de-Haute-Provence
 
 FONCTIONS EXERCEES
 
@@ -192,7 +194,9 @@ par emploi
 
 |
 
-Chargé de la politique de la ville
+Date d'effet |
+
+Instructeur logement social
 
 |
 
@@ -204,9 +208,31 @@ B
 
 |
 
-30
+15
 
 |
+
+01/09/17 |
+
+Chargé du pilotage des procédures de lutte contre
+
+l'habitat indigne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15
+
+|
+
+01/09/17 |
 
 Direction départementale des territoires et de la mer des Alpes-Maritimes
 
