@@ -1,0 +1,603 @@
+# CIRCULAIRE N° 2932/DEF/EMAA/3/OP relative à la symbolique dans l'armée de l'air.
+
+- État : en vigueur (publiée)
+- NOR : BODEF31474
+- Numéro : 2932
+- Date de signature : 1984-08-24
+- Mise en ligne : 2009-04-30
+- Auteur : Le ministre de la défense
+- Signataire : Pour le ministre de la défense et par délégation :Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,THIERY.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,  Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,  Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,   THIERY.  THIERY.
+- Destinataires : Armée de l'air
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Services divers.Services historiques et archives des armées. Musées des armées.TITRE PREMIER. SERVICES HISTORIQUES DES ARMÉES.NiveauTitreCHAPITRE II. LA SYMBOLIQUE MILITAIRE.Chapitre
+- Publication JO / BO : BOC, p. 5433.
+- Annexes : 3
+- Identifiant : 12351 (PDF officiel : pdf/2009/04/cir_12351.pdf)
+
+## Résumé
+
+La présente circulaire a pour but de fixer les conditions dans lesquelles sont :
+- attribués les drapeaux ;
+- homologués les fanions, insignes et noms de tradition.
+L' instruction 2071 /DEF/EMAA/3/OP du 13 juin 1984 (BOC, p. 4649) traite de la filiation et de l'héritage des
+traditions dans les unités de l'armée de l'air.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de l'air
+CIRCULAIRE N° 2932/DEF/EMAA/3/OP
+relative à la symbolique dans l'armée de l'air.
+Du 24 août 1984
+
+ÉTAT-MAJOR DE L'ARMÉE DE L'AIR : 3e Bureau.
+CIRCULAIRE N° 2932/DEF/EMAA/3/OP relative à la symbolique dans l'armée de l'air.
+Du 24 août 1984
+Pièce(s) Jointe(s) :
+Trois annexes.
+Modifié par :
+1er modificatif du 29 juillet 1985 (BOC, p. 5027).
+2e modificatif du 4 janvier 1988 (BOC, p. 141), NOR DEFL8857001C.
+3e modificatif du 24 mai 1988 (BOC, p. 3050), NOR DEFL8858059C.
+4e modificatif du 18 octobre 1991 (BOC, p. 3681), NOR DEFL9157162C.
+Texte abrogé :
+Circulaire n° 3689/EMAA/3/OP du 16 juin 1967 (BOC/A, p. 577) et ses cinq modificatifs des
+9 août 1967 (BOC/A, p. 802), 20 septembre 1968 (BOC/A, p. 736), 12 juillet 1971 (BOC/A,
+p. 566), 8 mars 1972 (BOC/A, p. 4983), et 5 juillet 1972 (BOC/A, p. 4983).
+Classement dans l'édition méthodique : BOEM 685.1.2.1.
+Référence de publication : BOC, p. 5433.
+La présente circulaire a pour but de fixer les conditions dans lesquelles sont :
+- attribués les drapeaux ;
+- homologués les fanions, insignes et noms de tradition.
+L' instruction 2071 /DEF/EMAA/3/OP du 13 juin 1984 (BOC, p. 4649) traite de la filiation et de l'héritage des
+traditions dans les unités de l'armée de l'air.
+1. DISPOSITIONS GÉNÉRALES.
+(Modifié : 3e mod.)
+Les dossiers concernant l'attribution des drapeaux et l'homologation des fanions, insignes et noms de tradition
+sont établis par les commandants d'unité concernés.
+Ces dossiers sont adressés en deux exemplaires par la voie hiérarchique jusqu'à l'échelon grand
+commandement qui les adresse au service historique de l'armée de l'air (SHAA).
+Le SHAA, après avoir étudié les dossiers, émet un avis technique et retransmet ceux-ci à l'état-major de
+l'armée de l'air pour approbation, par l'intermédiaire de l'inspection générale de l'armée de l'air qui formule un
+avis.
+La décision d'attribution des drapeaux est prise par le chef d'état-major de l'armée de l'air.
+
+La décision d'attribution de nom de tradition aux unités aériennes est prise par le chef d'état-major de l'armée
+de l'air.
+La décision d'attribution de nom de tradition aux bases aériennes est prise par le ministre de la défense et mise
+en application par voie d'arrêté préfectoral, à la diligence du commandement aérien régional.
+La décision d'attribution de nom de tradition aux unités aériennes et aux bases aériennes est prise par le chef
+d'état-major de l'armée de l'air.
+Les fanions, les insignes et les noms de tradition des unités sont, après approbation de l'EMAA, homologués
+par le SHAA.
+Le SHAA est chargé, d'une manière générale, des modalités d'exécution des décisions prises. Il en informe
+l'unité intéressée ainsi que le grand commandement dont elle relève, et rend compte à l'EMAA.
+2. DISPOSITIONS PARTICULIÈRES.
+ 2.1. Drapeaux.
+Le drapeau d'une unité combattante est le témoin de sa gloire et le symbole de ses traditions.
+Seuls ont droit à l'attribution d'un drapeau :
+- les escadres aériennes ;
+- certaines écoles et certains centres d'instruction ;
+- le centre des expérimentations aériennes militaires (CEAM) de Mont-de-Marsan.
+Par dérogation à cette règle, l'emblème d'une unité dissoute peut être confié à certains commandements ou
+unités lorsque les conditions de leur participation aux cérémonies nécessitent de disposer d'un drapeau.
+La liste de ces commandements ou unités est arrêtée par décision particulière du chef d'état-major de l'armée
+de l'air.
+La répartition actuelle des drapeaux dans l'armée de l'air est donnée en annexe I.
+En cas de création d'unité ayant droit à un drapeau, il appartient au SHAA de le faire confectionner sur ordre
+de l'EMAA. Les frais correspondants sont à la charge de la direction centrale du commissariat de l'air.
+En vue d'éviter les erreurs que peuvent commettre des maisons non spécialisées, il est demandé aux unités
+ayant un drapeau à réparer de le faire apporter au SHAA par un officier de cette unité. Le SHAA s'adresse alors
+à une maison connue de Paris pour définir les conditions de réfection. Il en est de même pour les inscriptions
+nouvelles à porter éventuellement sur l'étoffe.
+Les dépenses ainsi occasionnées sont supportées par le budget de fonctionnement.
+Dans le cas d'une récréation d'unité dissoute dont le drapeau a été confié à la garde d'une autre unité, cette
+dernière devra, sur décision du chef d'état-major, abandonner l'emblème qu'elle a en garde au profit de l'unité
+recréée à laquelle il revient de droit par héritage.
+Le SHAA est chargé d'assurer la garde, la conservation et éventuellement la remise en état des drapeaux des
+unités dissoutes. Dans ce dernier cas, les frais occasionnés par la réparation sont à la charge de la direction
+centrale du commissariat de l'air (DCCA). La liste des drapeaux des unités aériennes des anciens territoires
+d'outre-mer, d'Afrique du Nord et du levant conservés par le SHAA est donnée en annexe II.
+
+ 2.2. Fanions.
+Les demandes d'homologation de fanion doivent être accompagnées d'un dessin en couleur, recto-verso, du
+projet, échelle 1/2 ou 1/3.
+Dès réception de l'avis émis par l'EMAA, le SHAA en informe l'unité et son grand commandement
+d'appartenance. Si l'avis est favorable, le SHAA établit une décision d'homologation et attribue un numéro au
+fanion homologué.
+Le droit au fanion est accordé aux unités aériennes et opérationnelles aux niveaux escadron et escadrille ainsi
+qu'aux unités spécialisées de défense et protection de niveau équivalent et aux centres et escadrons
+d'instruction.
+Le fanion peut être en drap, en serge de laine, en soie ou en étoffe de toute autre nature, au choix de l'unité. Il
+peut être bordé de franges d'or d'une taille de 3 centimètres au maximum.
+Le fanion d'escadron ou d'unité similaire est rectangulaire.
+Le fanion d'escadrille ou d'unité similaire est triangulaire.
+Tous deux ont 55 centimètres de longueur et 40 centimètres de hauteur à la hampe.
+Le choix des couleurs est laissé à l'initiative des unités. Toutefois, les couleurs nationales françaises ou
+étrangères sont formellement interdites.
+Le fanion est supporté par une hampe pouvant s'adapter au fusil ; l'extrémité supérieure de cette hampe est
+terminée par un fer de lance sans aucune inscription, ayant 5 centimètres de largeur et 10 centimètres de
+hauteur.
+Le numéro d'homologation précédé de la lettre A doit être reproduit en haut de la partie de l'étoffe attachée à
+la hampe.
+Le nom et le numéro de l'unité doivent être inscrits sur le fanion. Au revers, l'insigne (homologué) de l'unité
+peut être reproduit. Les mots « République française » et « Honneur et Patrie » sont formellement interdits.
+Les décorations portées par le fanion sont celles témoignant des citations collectives de l'unité détentrice.
+La réalisation est laissée à la diligence des unités. La dépense qui en résulte est imputée sur les fonds du
+budget de fonctionnement.
+Dès que le fanion est confectionné, l'unité adresse au SHAA deux photos en couleur de chaque face du fanion.
+Lorsqu'une unité est dissoute, son fanion doit être obligatoirement versé au SHAA qui en assure la garde, la
+conservation et éventuellement la remise en état. Dans ce dernier cas, les frais occasionnés par la réparation
+sont à la charge de la DCCA.
+ 2.3. Insignes.
+(Modifié : 4e mod.)
+2.3.1. Attribution.
+Seuls peuvent prétendre à l'attribution d'un insigne :
+- les unités aériennes ;
+
+- les centres de détection et de contrôle ;
+- les écoles et escadrons d'instruction ;
+- les bases aériennes ;
+- les entrepôts ;
+- l'état-major de l'armée de l'air ;
+- les états-majors des grands commandements ;
+- les unités techniques dont l'effectif atteint une centaine de personnes.
+Les unités n'appartenant pas à ces catégories et possédant déjà un insigne régulièrement homologué ont droit
+de le conserver.
+L'attribution d'un insigne commun à plusieurs unités élémentaires ayant la même mission pourra être, le cas
+échéant, soumise à la décision de l'EMAA.
+2.3.2. Homologation.
+Les demandes doivent être accompagnées :
+- d'un projet d'insigne en couleur échelle 1 ;
+- d'un historique succinct de l'unité ;
+- d'une notice expliquant le symbolisme de l'insigne et sa composition.
+La plus grande dimension de l'insigne ne doit pas excéder 35 millimètres.
+Les insignes proposés ne doivent pas être de tendance humoristique, ni représenter les couleurs de l'emblème
+national. Leur composition formera un ensemble esthétique.
+En vue d'éviter les modifications nécessitées par les changements de dénomination des unités, les insignes
+soumis à l'homologation ne devront porter aucune inscription ni numéro, à l'exception des marques de
+tradition.
+L'homologation d'un insigne est définitive. Les projets de modification (sauf cas exceptionnels et dûment
+motivés), ne sont pas acceptés.
+Dès que l'insigne est réalisé, 3 exemplaires sont adressés par pli recommandé au SHAA qui les conserve dans
+ses collections. Le numéro d'homologation précédé de la lettre A doit être reproduit au revers de l'insigne.
+La réalisation de l'insigne incombe à l'unité qui en a fait la demande, la dépense résultant de cette fourniture
+est supportée par le budget de fonctionnement.
+2.3.3. Protection juridique.
+Les insignes homologués deviennent la propriété de l'Etat.
+Les insignes existants sont protégés par la loi no 57-298 du 11 mars 1957 (abrogée le 1er juillet 1992, BOC,
+p. 2997) sur la propriété littéraire et artistique.
+
+Pour bénéficier d'une protection plus efficace, tout nouvel insigne devra être régulièrement déposé auprès de
+l'institut national de la propriété industrielle (INPI) conformément à la loi du 14 juillet 1909 (abrogée le
+1er juillet 1992, BOC, p. 2997) relative aux dessins et modèles.
+Les commandants d'unité concernés établiront un dossier d'invention dans les conditions prévues par la
+circulaire no 200/DEF/EMAA/BPRO/ETU du 10 mai 1988 (BOC, p. 3025, abrogé le 2 janvier 1996, BOC,
+p. 1141) (avec copie supplémentaire à l'EMAA/3e Bureau et au SHAA).
+La dépense résultant du paiement de la taxe de dépôt est supportée par le budget de fonctionnement.
+Toute personne contrefaisant un insigne est passible de poursuites devant les tribunaux. En cas de
+contrefaçon, le SHAA est chargé de recueillir tous les éléments d'information et d'engager les poursuites
+pénales et civiles en vue de protéger les intérêts matériels et moraux de l'Etat.
+Seuls les commandants d'unité concernés, ou pour les unités dissoutes, le chef du service historique de l'armée
+de l'air après approbation de l'EMAA, peuvent faire reproduire des insignes de tradition. La reproduction par
+un organisme civil est soumise à la décision du chef d'état-major de l'armée de l'air.
+ 2.4. Noms de tradition.
+Les noms de tradition des unités aériennes ou opérationnelles sont des noms de région, de province, de ville,
+de fleuve ou de massifs montagneux français.
+Les noms de tradition des bases aériennes sont des noms d'aviateurs « morts pour la France » ou « décédés en
+services aériens commandés », particulièrement représentatifs de l'armée de l'air. Seules les bases aériennes, à
+l'exclusion de tout autre établissement militaire de l'armée de l'air, peuvent faire homologuer à titre définitif
+un nom de tradition.
+Trois noms devront être proposés, classés par ordre de préférence avec les raisons motivant ce choix, et pour
+les noms de tradition des bases aériennes, les demandes seront accompagnées d'un dossier le plus complet
+possible sur la carrière militaire de chacun des aviateurs choisis, leurs citations, leurs décorations, etc.
+A l'intérieur d'une base aérienne, les noms donnés par le commandement local à des installations telles que
+bâtiments, pistes, salles, hangars, pour commémorer le nom de l'aviateur attaché à cette base, ne le sont qu'à
+titre officieux. Il en est cependant rendu compte au grand commandement intéressé.
+La liste des bases aériennes ayant ou ayant eu un nom de tradition homologué est donnée en annexe III.
+Pour le ministre de la défense et par délégation :
+Le général de brigade aérienne, sous-chef de l'état-major de l'armée de l'air,
+THIERY.
+
+ANNEXE I.
+RÉPARTITION DES DRAPEAUX DE L'ARMÉE DE L'AIR.
+(Modifiée : 4e mod.)
+Formations pour lesquelles les drapeaux ont été
+confectionnés.
+Unité qui en a la garde.
+Chasse.
+1re escadre aérienne de chasse.
+Base aérienne 944, Narbonne.
+2e escadre aérienne de chasse.
+2e escadre de chasse, Dijon.
+3e escadre aérienne de chasse.
+3e escadre de chasse, Nancy-Ochey.
+4e escadre aérienne de chasse.
+4e escadre de chasse, Luxeuil.
+5e escadre aérienne de chasse.
+5e escadre de chasse, Orange.
+6e escadre aérienne de chasse.
+Base aérienne 922, Doullens.
+7e escadre aérienne de chasse.
+7e escadre de chasse, Saint-Dizier.
+8e escadre aérienne de chasse.
+8e escadre de chasse, Cazaux.
+10e escadre aérienne de chasse.
+Base aérienne 110, Creil.
+11e escadre aérienne de chasse.
+11e escadre de chasse, Toul-Rosières.
+12e escadre aérienne de chasse.
+12e escadre de chasse, Cambrai.
+13e escadre aérienne de chasse.
+13e escadre de chasse, Colmar.
+20e escadre aérienne de chasse.
+Air Djibouti, (détachement air).
+21e escadre aérienne de chasse.
+Base aérienne 902, Contrexéville.
+22e escadre aérienne de chasse.
+Base aérienne 126, Solenzara.
+30e escadre aérienne de chasse.
+30e escadre de chasse, Reims.
+Régiment Normandie-Niémen.
+Escadron de chasse 2/30, Reims.
+Bombardement.
+11e escadre aérienne.
+Base aérienne 914, Romilly.
+12e escadre aérienne.
+Base aérienne 114, Aix-les-Milles.
+15e escadre aérienne.
+1er GMS, Apt.
+19e escadre de bombardement.
+91e escadre de bombardement, Mont-de-Marsan.
+21e escadre aérienne.
+Base aérienne 165, Berlin.
+23e escadre de bombardement.
+Base aérienne 943, Roquebrune-Cap-Martin.
+25e escadre de bombardement.
+CIFAS 338, Aquitaine à Mérignac.
+31e escadre de bombardement.
+93e escadre de bombardement, Istres.
+32e escadre de bombardement.
+Base aérienne 292, Balma.
+34e escadre de bombardement.
+Base aérienne 117, Paris.
+38e escadre de bombardement.
+CCDS 10/901, Drachenbronn.
+51e escadre de bombardement.
+Base aérienne 181, Saint-Denis-Gillot.
+54e escadre de bombardement.
+54e escadre électronique tactique, Metz.
+63e escadre de bombardement.
+Groupe aérien mixte 82, Faaa.
+82e escadre de bombardement.
+Base aérienne 160, Ouakam.
+83e escadre de bombardement.
+Base aérienne 278, Ambérieu.
+Reconnaissance.
+22e escadre aérienne (de reconnaissance).
+Base aérienne 122, Chartres.
+33e escadre de reconnaissance.
+33e escadre de reconnaissance, Strasbourg.
+35e escadre de reconnaissance.
+Base aérienne 942, Lyon.
+36e escadre de reconnaissance.
+Escadre de détection aéroportée, Avord.
+
+52e escadre de reconnaissance.
+Base aérienne 279, Châteaudun.
+55e escadre de reconnaissance.
+Base aérienne 921, Taverny.
+Transport.
+60e escadre de transport.
+Base aérienne 107, Villacoublay.
+61e escadre de transport.
+61e escadre de transport, Orléans.
+62e escadre de transport.
+Base aérienne 217, Brétigny.
+63e escadre de transport.
+65e escadre de transport, Villacoublay.
+64e escadre de transport.
+64e escadre de transport, Evreux.
+Hélicoptères.
+2e escadre d'hélicoptères.
+Escadron d'hélicoptères 1/67 Cazaux.
+3e escadre d'hélicoptères.
+Escadron d'hélicoptères 2/67 Metz.
+Hélicoptères de l'armée de l'air.
+Centre d'instruction des équipages d'hélicoptères,
+Toulouse-Francazal.
+Commandos de l'air.
+Groupement des commandos parachutistes de l'air.
+Escadron des fusiliers commandos d'intervention, Nîmes.
+Artillerie de l'air.
+1er régiment d'artillerie de l'air.
+Base aérienne 273, Romorantin (EAA 602).
+2e régiment d'artillerie de l'air.
+Base aérienne 272, Saint-Cyr.
+Aérostation.
+51e demi-brigade d'aérostation.
+Base aérienne 204, Mérignac-Beauséjour.
+52e demi-brigade d'aérostation.
+25e bataillon du génie de l'air, Compiègne.
+Ecoles et centres d'instruction.
+Ecole militaire et d'application de l'armée de l'air.
+Base aérienne 274, Limoges.
+Ecole de l'air.
+Ecole de l'air, Salon.
+Ecole militaire de l'air.
+Ecole militaire de l'air, Salon.
+Ecole des apprentis mécaniciens de l'armée de l'air.
+Base aérienne 722, Saintes.
+Ecoles des pupilles de l'air.
+Base aérienne 749, Grenoble.
+Ecole des élèves officiers de réserve de l'armée de l'air.
+Base aérienne 105, Evreux (GE 306).
+Ecole de formation des sous-officiers pilotes de l'armée de
+l'air.
+Base aérienne 709, Cognac.
+Ecole de pilotage.
+Base aérienne 745, Aulnat.
+Ecole de l'aviation de chasse.
+Base aérienne 705, Tours.
+Ecole de l'aviation de bombardement.
+Base aérienne 702, Avord.
+Ecole de tir et de bombardement.
+Base aérienne 120, Cazaux.
+Ecole technique de l'armée de l'air.
+Base aérienne 721, Rochefort.
+Centre d'expériences aériennes militaire.
+CEAM Base aérienne 118, Mont-de-Marsan.
+Centre d'instruction des équipes de transport.
+63e escadron de transport, Toulouse-Francazal.
+Ecole des radio-navigants.
+CIET Base aérienne 203, Cenon.
+Ecole de formation initiale des sous-officiers de l'armée de
+l'air.
+EFISO Nîmes.
+
+ANNEXE II.
+DRAPEAUX DES UNITÉS AÉRIENNES DES ANCIENS TERRITOIRES D'OUTRE-MER,
+D'AFRIQUE DU NORD ET DU LEVANT CONSERVÉS PAR LE SHAA.
+Escadre d'Algérie.
+Escadre du Nord-Marocain.
+Escadre aérienne de Tunisie.
+Escadre aérienne du Sud-Marocain.
+Escadre aérienne du Levant.
+Escadre aérienne d'Algérie.
+
+ANNEXE III.
+LISTE DES BASES AÉRIENNES POSSÉDANT OU AYANT POSSÉDÉ UN NOM DE TRADITION.
+(Modifiée par : 1er mod., 2e mod. et 4e mod.)
+Numéro de base.
+Stationnement.
+Nom de tradition.
+Année
+d'attribution.
+Existante. Dissoute.
+Base aérienne 101. Toulouse-Francazal,
+métropole.
+Général De Marnier Lionel.
+1983
+E
+Base aérienne 102. Dijon, métropole.
+Capitaine Guynemer.
+E
+Base aérienne 103. Cambrai, métropole.
+Commandant Mouchotte.
+1958
+E
+Base aérienne 105. Evreux, métropole.
+Commandant Viot.
+1984
+E
+Base aérienne 107. Villacoublay, métropole.
+Sous-lieutenant Dorme.
+1984
+E
+Base aérienne 110. Creil, métropole.
+Lieutenant-colonel De la
+Horie.
+1952
+E
+Base aérienne 112. Reims, métropole.
+Capitaine Marin la Meslee.
+E
+Base aérienne 113. Saint-Dizier, métropole.
+Commandant Saint-Exupery.
+1952
+E
+Base aérienne 114. Aix-les-Milles, métropole.
+Général Andrier.
+1971
+E
+Base aérienne 115. Orange, métropole.
+Capitaine De Seynes.
+1989
+E
+Base aérienne 116. Luxeuil, métropole.
+Lieutenant-colonel Papin.
+1952
+E
+Base aérienne 118. Mont-de-Marsan.
+Colonel Rozanoff.
+1984
+E
+Base aérienne 120. Cazaux.
+Commandant Marzac.
+1985
+E
+Base aérienne 122. Chartres, métropole.
+Lieutenant Vasseur.
+1978
+E
+Base aérienne 125. Istres, métropole.
+Lieutenant Monier Charles.
+1965
+E
+Base aérienne 126. Solenzara, métropole.
+Capitaine Preziosi.
+1973
+E
+Base aérienne 128. Metz, métropole.
+Lieutenant-colonel Dagnaux.
+1952
+E
+Base aérienne 132. Colmar, métropole.
+Commandant Pepin René.
+1963
+E
+Base aérienne 133. Nancy-Ochey, métropole.
+Commandant Jeandet Henri.
+1961
+E
+Base aérienne 136. Toul, métropole.
+Colonel Phelut.
+1988
+E
+Base aérienne 141. Oran, Algérie.
+Commandant Tulasne.
+D
+Base aérienne 150. Rabat, Maroc.
+Colonel Faye.
+1948
+D
+Base aérienne 151. Rabat Sale, Maroc.
+Commandant Guedj.
+1948
+D
+Base aérienne 156. Sidi Ahmed, Tunisie.
+Commandant Garros Roland.
+D
+Base aérienne 170. Brazzaville, ZOM 2.
+Capitaine Gaulard.
+D
+Base aérienne 181. Saint-Denis-Gillot, Réunion.
+Lieutenant Garros Roland.
+1975
+E
+Base aérienne 188. Djibouti, Afars.
+Colonel Massart.
+D
+Base aérienne 203. Cenon, métropole.
+Lieutenant-colonel Sarre.
+1985
+E
+Base aérienne 217. Brétigny, métropole.
+Colonel Brunet Félix.
+1980
+E
+Base aérienne 271. Rennes, métropole.
+Colonel Brunet Félix.
+D
+Base aérienne 272. Saint-Cyr-l'Ecole, métropole.
+Colonel Renard Charles.
+1986
+E
+Base aérienne 273. Romorantin, métropole.
+Lieutenant-colonel Mailfert.
+1961
+E
+Base aérienne 274. Limoges, métropole.
+Commandant Leclere Jean.
+1973
+E
+Base aérienne 277. Varennes-sur-Allier,
+métropole.
+Capitaine Rousseau Albert.
+1983
+E
+Base aérienne 278. Ambérieu, métropole.
+Colonel Chambonnet Albert.
+1982
+E
+Base aérienne 279. Châteaudun, métropole.
+Lieutenant Beau.
+1989
+E
+Base aérienne 552. Compiègne, métropole.
+Général Hirschauer.
+1981
+E
+Base aérienne 701. Salon-de-Provence, métropole. Général Pineau.
+1991
+E
+
+Base aérienne 702. Bourges-Avord, métropole.
+Capitaine Madon Georges.
+1982
+E
+Base aérienne 705. Tours, métropole.
+Commandants Tulasne Jean
+et François.
+1964
+E
+Base aérienne 707. Marrakech, Maroc.
+Capitaine Menard.
+D
+Base aérienne 708. Meknes, Maroc.
+Commandant Mezergues.
+D
+Base aérienne 721. Rochefort, métropole.
+Adjudant Gemot.
+1986
+E
+Base aérienne 722. Saintes, métropole.
+Capitaine Raffin.
+1963
+E
+Base aérienne 724. Fez, Maroc.
+Capitaine Petit-Jean Roger.
+D
+Base aérienne 725. Chambéry, métropole.
+Lieutenant-colonel Sarre.
+D
+Base aérienne 726. Nîmes, métropole.
+Lieutenant-colonel Colin.
+1962
+E
+Base aérienne 727. Toulouse Balma, métropole.
+Lieutenant-colonel Azama.
+D
+Base aérienne 745. Aulnat, métropole.
+Commandant Fayolle.
+1982
+D
+Base aérienne 901. Drachenbronn, métropole.
+Commandant De Laubier.
+1991
+E
+Base aérienne 902. Contréxeville, métropole.
+Capitaine Littolf Albert.
+1986
+E
+Base aérienne 921. Taverny, métropole.
+Frères Mahe.
+1987
+E
+Base aérienne 922. Doullens, métropole.
+Capitaine Doumer René.
+1982
+E
+Base aérienne 942. Lyon-Mont-Verdun,
+métropole.
+Capitaine Robert Jean.
+1982
+E
+Base aérienne 943. Roquebrune-Cap-Martin,
+métropole.
+Capitaine Auber.
+1990
+E
+Base aérienne 944. Narbonne, métropole.
+Commandant Monraisse.
+1970
+E
+Base aérienne
+secondaire.
+Tebessa, Algérie.
+Sergent De Dampierre.
+1956
+D
