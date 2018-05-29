@@ -1,0 +1,144 @@
+# INSTRUCTION N° 3182/DEF/PMAT/EG/B relative à la désignation pour un séjour réglementaire, aux congés divers et aux fins de service des personnels ultramarins dans leur pays d'origine.
+
+- État : en vigueur (publiée)
+- NOR : BODEF29078
+- Numéro : BODEF29078
+- Date de signature : 1982-05-24
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation : Le général de corps d'armée, directeur du personnel militaire de l'armée de terre, IMBOT.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : Défense, anciens combattants; Personnel militaire de l'armée de terre
+- Publication JO / BO : BOC, p. 2062.
+- Annexes : 0
+- Identifiant : 19056 (PDF officiel : pdf/2009/04/cir_19056.pdf)
+
+## Résumé
+
+Pour chaque stage et pour chaque spécialité, le nombre d'élèves et d'auditeurs libres susceptibles d'être admis à l'école du personnel navigant d'essais et de réceptions est arrêté par le directeur du centre d'essais en vol en fonction des capacités d'accueil et après avis du conseil de perfectionnement de l'école.Les possibilités d'admission d'élèves et d'auditeurs étrangers résultent de la différence entre la capacité d'accueil et les besoins nationaux jugés prioritaires. Pour chaque stage et pour chaque spécialité, le nombre d'élèves et d'auditeurs libres susceptibles d'être admis à l'école du personnel navigant d'essais et de réceptions est arrêté par le directeur du centre d'essais en vol en fonction des capacités d'accueil et après avis du conseil de perfectionnement de l'école. Pour chaque stage et pour chaque spécialité, le nombre d'élèves et d'auditeurs libres susceptibles d'être admis à l'école du personnel navigant d'essais et de réceptions est arrêté par le directeur du centre d'essais en vol en fonction des capacités d'accueil et après avis du conseil de perfectionnement de l'école. Les possibilités d'admission d'élèves et d'auditeurs étrangers résultent de la différence entre la capacité d'accueil et les besoins nationaux jugés prioritaires.  Les possibilités d'admission d'élèves et d'auditeurs étrangers résultent de la différence entre la capacité d'accueil et les besoins nationaux jugés prioritaires.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de terre
+INSTRUCTION N° 3182/DEF/PMAT/EG/B
+relative à la désignation pour un séjour réglementaire, aux congés divers et aux fins de service des personnels ultramarins
+dans leur pays d'origine.
+Du 24 mai 1982
+
+DIRECTION DU PERSONNEL MILITAIRE DE L'ARMÉE DE TERRE : bureau études générales.
+INSTRUCTION N° 3182/DEF/PMAT/EG/B relative à la désignation pour un séjour réglementaire, aux
+congés divers et aux fins de service des personnels ultramarins dans leur pays d'origine.
+Du 24 mai 1982
+Modifié par :
+1er modificatif du 2 mai 1994 (BOC, p. 1839) NOR DEFT9461073J.
+Texte abrogé :
+Circulaire n°21684/TDM/BTL du 10 novembre 1966 (BOC/G, p. 925) et son modificatif du
+17 juin 1968 (BOC/G, p. 500).
+Classement dans l'édition méthodique : BOEM 314.1.3.
+Référence de publication : BOC, p. 2062.
+La présente instruction a pour objet de fixer :
+- les règles de désignation pour servir dans leur pays d'origine (1) des personnels militaires originaires
+d'outre-mer ;
+- les conditions dans lesquelles ces personnels peuvent obtenir des congés dans leur pays d'origine (1)
+avec le bénéfice d'une concession de passage gratuit ;
+- les conditions dans lesquelles ces mêmes personnels ont la possibilité de demander leur mise à la
+retraite ou leur radiation des contrôles de l'armée active avec ou sans délai (ou stage) de reconversion
+dans leur pays d'origine (1).
+Elle est applicable :
+- aux militaires ultramarins effectivement recrutés outre-mer. Ceux qui, bien que d'origine
+ultramarine, ont été recrutés en métropole sont soumis aux règles concernant les militaires d'origine
+métropolitaine recrutés en métropole ; toutefois, par dérogation à ce principe les militaires ultramarins
+originaires d'un département ou territoire d'outre-mer ou d'un pays qui était sous souveraineté
+française au moment de leur entrée en service, dont les parents, père ou mère, sont eux-mêmes
+originaires de ces départements, territoires et pays, et y résident, peuvent dans tous les cas, se
+prévaloir des dispositions de la présente instruction.
+- aux militaires d'origine métropolitaine qui, recrutés outre-mer, y ont résidé dix ans au moins avant
+l'entrée en service et y ont conservé des intérêts de famille ; par intérêts de famille il faut entendre des
+attaches familiales du fait de la résidence d'ascendants, de descendants ou collatéraux au premier
+degré.
+Elle abroge la circulaire no 21684/TDM/BTL du 10 novembre 1966 (BOC/G, p. 925) et son modificatif du 17
+juin 1968 (BOC/G, p. 500).
+I. RÈGLES DE DÉSIGNATION POUR SERVIR DANS LE PAYS D'ORIGINE (1).
+
+En ce qui concerne la désignation pour le service outre-mer, les personnels originaires d'un pays d'outre-mer
+sont soumis aux mêmes règles que les personnels métropolitains et ce quel que soit le lieu du séjour
+outre-mer. Ces règles sont celles figurant dans l' instruction 4502 /DEF/PMAT/EG/B du 17 décembre 1992
+(BOC, 1993, p. 291) et la circulaire no 3446/DEF/PMAT/EG/B du 1er juillet 1993 [abrogée par la circulaire
+2504 /DEF/PMAT/EG/B du 10 septembre 1996 (BOC, p. 4141)].
+Il est en particulier rappelé que :
+1. Tout militaire à quelque arme ou service qu'il appartienne est astreint au service outre-mer
+individuel ou collectif.
+2. Les personnels volontaires pour le service outre-mer sont désignés pour celui-ci avant les
+personnels non volontaires.
+3. La vocation principale des personnels des troupes de marine étant le service outre-mer, ceux-ci sont
+réputés « volontaires en permanence ».
+Les personnels originaires d'outre-mer qui ne seraient pas volontaires pour servir dans leur pays
+d'origine sont invités à le faire savoir au moyen d'une mention appropriée sur la feuille de désidérata
+de mutation (2) qu'ils sont appelés à remplir. Cette indication de non-volontariat, dont il pourra être
+tenu compte en fonction des besoins du service, n'entraîne toutefois pour les intéressés aucun droit
+particulier à dérogation aux règles normales de désignation pour les séjours outre-mer.
+4. Les militaires engagés, désignés pour servir outre-mer, doivent obligatoirement être liés par contrat
+pour la durée du séjour augmentée de la durée du congé de fin de campagne.
+Les personnels de carrière ne doivent pas être susceptibles d'atteindre la limite d'âge de leur grade pendant
+cette même période.
+II. RÈGLES D'ATTRIBUTION DES CONGÉS EN PAYS D'ORIGINE. (3)
+ 21. Règles générales.
+Peuvent seuls être envoyés en congé dans leur pays d'origine, avec délivrance d'une concession de passage
+gratuit dans les cas prévus par la réglementation :
+- les personnels sous contrat liés au service avant leur départ pour une durée telle :
+- qu'à la date d'expiration de leur congé ils aient encore au moins deux ans de service à
+accomplir à leur débarquement en métropole ;
+- ou que, la date d'expiration de leur congé, ou le cas échéant du délai (ou stage) de
+reconversion auquel ils peuvent prétendre à l'issue de ce congé, coïncide avec celle de la fin
+de leur contrat, entraînant ainsi leur « libération » sur place ;
+- les personnels de carrière se trouvant dans une situation telle :
+- qu'à la date d'expiration de leur congé ils puissent encore servir au moins deux années avant
+d'atteindre la limite d'âge de leur grade ;
+- ou, que la date où ils atteignent la limite d'âge coïncide avec celle de la fin de leur congé, ou
+le cas échéant du délai (ou stage) de reconversion auquel ils peuvent prétendre à l'issue de ce
+congé, entraînant ainsi leur radiation des contrôles sur place.
+ 22. Cas particuliers des personnels servant sous contrat.
+
+Pour les personnels qui doivent souscrire avant leur départ en congé un contrat d'engagement supplémentaire
+pour satisfaire à la règle du lien au service indiquée ci-dessus (§ 21), les chefs de corps doivent mentionner,
+dans la transmission de la demande de congé, la nature, la durée et la date de souscription du nouveau contrat
+d'engagement.
+En cas de non-acceptation du renouvellement d'engagement par l'autorité militaire, les personnels
+insuffisamment liés conservent leurs droits cumulés à congé.
+Ils sont, s'ils le désirent, dirigés vers leur pays d'origine, en temps utile, pour pouvoir bénéficier de leur congé,
+augmenté le cas échéant du délai de reconversion auquel ils peuvent prétendre, avant leur radiation des
+contrôles.
+S'ils choisissent d'être « libérés » en métropole, ils peuvent y bénéficier de la durée de leurs congés,
+augmentée le cas échéant d'une partie ou de la totalité du délai (ou stage) de reconversion auquel ils peuvent
+prétendre, avant leur radiation des contrôles.
+III. DIVERS.
+ 31. Il est rappelé que :
+311. Les personnels de carrière ou sous contrat originaires d'outre-mer admis à la retraite ou rayés des
+contrôles peuvent demander à se retirer :
+- soit en métropole. Dans ce cas ils conservent pendant cinq années (4) la possibilité d'être rapatriés
+aux frais de l'État avec leur famille dans leur pays d'origine dans les limites fixées par la
+réglementation en vigueur (5) ;
+- soit dans leur pays d'origine. Dans ce cas ils bénéficient d'un droit de rapatriement immédiat aux
+frais de l'État dans les limites de la réglementation en vigueur (5).
+312. Pendant la durée du délai de reconversion éventuellement accordé sur leur territoire ou département
+d'origine, les militaires ultramarins ont droit au régime de solde de ce département ou territoire (6).
+ 32. Les dispositions de la présente instruction sont applicables immédiatement. Les personnels en cours de
+séjour au moment de la publication de celle-ci peuvent demander l'annulation de l'option formulée avant leur
+départ dans le cadre de la circulaire abrogée.
+Pour le ministre de la défense et par délégation :
+Le général de corps d'armée, directeur du personnel militaire de l'armée de terre,
+IMBOT.
+(1) Département d'outre-mer, territoire d'outre-mer, État indépendant d'outre-mer.
+(2) FIDEMUT, paragraphe 9 G.
+
+(3) Congés de fin de campagne, permissions cumulées octroyées sous forme de congé, congé de convalescence ouvrant droit
+à concession de passage gratuit.
+NB. — L'octroi d'un congé de longue durée pour maladie, avec jouissance dans le pays d'origine, n'entre pas dans le champ
+d'application de la présente instruction (en ce domaine le ministre, direction du personnel militaire de l'armée de terre, statue
+sur chaque cas particulier).
+(4) Décret 63-751 du 25 juillet 1963 (BO/G, p. 2829).
+(5) Instruction ministérielle 107200 /TOM/BAD du 01 avril 1960 modifiée.
+(6) Circulaire n° 527/DEF/PMAT/EG/B du 26 janvier 1984 (BOC, p. 545), abrogée le 3 juillet 1998, BOC, p. 2899.
