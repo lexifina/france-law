@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404599
+
+- Question : [SEQ180404599](seq180404599.md) — Prolongation de permis exclusif de recherches de mines d'hydrocarbures conventionnels liquides ou gazeux
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-05-31, page 2733*
+
+La loi n° 2017-1839 du 30 décembre 2017, mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures et portant diverses dispositions relatives à l'énergie et à l'environnement, prévoit en effet l'interdiction de l'attribution de nouveaux permis de recherche d'hydrocarbures liquides ou gazeux, et limite le renouvellement des concessions existantes à 2040. La loi n° 2017-1839 a également réaffirmé le principe de maintien des titres en cours et de prolongation de droit des permis d'exploration. La prolongation du permis de Saint-Griède a été délivrée dans le cadre d'une décision juridictionnelle enjoignant l'administration d'accorder la prolongation du permis pour une durée de cinq ans. Les services de l'État accordent une attention toute particulière à la prévention des risques environnementaux liés aux projets d'exploration menés par les opérateurs. L'article 11 de la loi n° 2017-1839 du 30 décembre 2017 prévoit par ailleurs que dans un délai d'un mois à compter de la promulgation de la loi, les demandes en cours d'instruction de titres d'exploration et d'exploitation d'hydrocarbures liquides et gazeux, les titres d'exploration et d'exploitation d'hydrocarbures liquides et gazeux en cours de validité, les caractéristiques principales de ces demandes et titres ainsi qu'une carte présentant leur périmètre sur le territoire national sont mis à la disposition du public sous forme électronique dans un standard ouvert librement réutilisable et exploitable. Ces informations sont actualisées tous les trimestres. L'ensemble de ces informations est consultable sur le site internet du ministère : https://www.ecologique-solidaire.gouv.fr/ressources-en-hydrocarbures-france.
