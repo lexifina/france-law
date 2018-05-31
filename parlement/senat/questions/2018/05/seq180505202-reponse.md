@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505202
+
+- Question : [SEQ180505202](seq180505202.md) — Compensation de la suppression de la réserve parlementaire
+
+## Réponse
+
+*Intérieur, JO du 2018-05-31, page 2697*
+
+L'article 14 de la loi organique n° 2017-1338 du 15 septembre 2017 pour la confiance dans la vie politique a mis fin à la pratique dite de la « réserve parlementaire ». En compensation de cette suppression, l'enveloppe nationale de la dotation d'équipement des territoires ruraux (DETR) a été augmentée en loi de finances 2018 de 50 M€ passant ainsi de 996 M€ à 1 046 M€. Une fois répartis au niveau départemental, les crédits ont vocation à être attribués pour toute opération et peuvent donc se substituer aux subventions accordées dans le cadre de la réserve parlementaire. La gestion d'une partie des crédits qui seraient mis en réserve pour des projets à moindre coût n'a pas été envisagée afin d'assurer une gestion véritablement déconcentrée de cette dotation et de laisser une réelle latitude à la commission d'élus, instituée dans chaque département, de laquelle sont membres des parlementaires du département. La gestion de cette dotation est en effet déconcentrée. Il appartient chaque année au représentant de l'État dans le département d'établir, suivant les catégories et dans les limites fixées par la commission d'élus, la liste des opérations à subventionner ainsi que les taux de subvention applicables à chacune d'elles, sans précision d'un montant minimal de subvention. L'existence d'un seuil de 5 000 € en deçà duquel un projet ne peut bénéficier de la DETR, qui est évoquée dans votre question, ne relève pas des dispositions légales ou réglementaires régissant la DETR, mais a pu être arrêtée par la commission des élus du département de la Moselle. Chaque commune est avisée, d'une part, des critères retenus par la commission d'élus et, d'autre part, de la catégorie dont dépend son projet et des taux de subvention auxquels elle peut prétendre.
