@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303588
+
+- Question : [SEQ180303588](seq180303588.md) — Devenir des reconstitutions historiques sur le territoire français
+
+## Réponse
+
+*Intérieur, JO du 2018-05-31, page 2699*
+
+La loi n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité a notamment pour objet de transposer la directive (UE) 2017/853 du 17 mai 2017, qui procède à une nouvelle révision de la directive 91/477/CEE du Conseil du 18 juin 1991 relative au contrôle de l'acquisition et de la détention d'armes à feu, dans une logique de renforcement des mesures de sécurité, à la suite desattentats de Paris de janvier 2015. Cette directive ne traite que des armes à feu, et non des armes blanches, comme les épées ou les lances. La loi de transposition du 26 février 2018, qui respecte le principe d'exclusion de mesures de surtransposition, ne modifie en rien le régime de détention de ce type d'armes. De la même manière, cette loi ne modifie en rien le régime d'acquisition, de détention ou de classement des armes détenues par les collectionneurs. Les armes historiques restent libres d'acquisition et de détention. Seules leurs reproductions, conformément au droit européen, peuvent faire, le cas échéant, l'objet d'une mesure de surclassement. Néanmoins sensible aux préoccupations exprimées par les collectionneurs et reconstitueurs qui participent à des commémorations et plus largement à la préservation du patrimoine, le Gouvernement prépare un décret pour mettre en oeuvre le statut du collectionneur dont la publication interviendra au plus tard le 14 septembre 2018. Ce nouveau texte réglementaire, conformément au mandat du législateur, ne concernera que la collection d'armes de la catégorie C. Il précisera et adaptera les règles relatives au port et transport des armes pour les collectionneurs et reconstitueurs.
