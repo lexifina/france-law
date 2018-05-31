@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404207
+
+- Question : [SEQ180404207](seq180404207.md) — Protection et prévoyance des agents territoriaux
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-05-31, page 2665*
+
+L'article 22 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ouvre la possibilité aux employeurs publics de participer, à titre facultatif, au financement de la protection sociale complémentaire (PSC) de leurs agents. Dans la fonction publique territoriale, le dispositif de PSC a été instauré par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents et ses quatre arrêtés d'application du même jour. Ce cadre juridique permet aux collectivités de verser une aide financière à leurs agents, qui souscrivent à des contrats ou règlements en matière de santé et en prévoyance au moyen de deux procédures distinctes de participation financière : le conventionnement ou la labellisation. Le conseil supérieur de la fonction publique territoriale (CSFPT) a présenté, en 2017, un rapport dressant un premier bilan de la mise en œuvre de ce dispositif, assorti de propositions d'amélioration. Le thème de la PSC sera, par ailleurs, abordé dans le cadre de l'agenda social 2018. Dans cette perspective, le Gouvernement a demandé à l'inspection générale des finances, à l'inspection générale de l'administration et à l'inspection générale des affaires sociales de dresser un état des lieux des dispositifs existants dans les trois versants de la fonction publique. Ce thème pourra également être abordé dans le cadre de la conférence nationale des territoires, à l'initiative des employeurs territoriaux.
