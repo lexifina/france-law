@@ -14,9 +14,9 @@ Cette déclaration est souscrite en langue française sur un imprimé conforme �
 
 5° Le contenu des termes du trust : contenu de l'acte de trust et des éventuelles stipulations complémentaires régissant son fonctionnement, notamment l'indication de sa révocabilité ou de son irrévocabilité, de son caractère discrétionnaire ou non et des règles régissant l'attribution des biens ou droits mis en trust ainsi que de leurs produits ;
 
-6° Si l'un au moins des constituants, bénéficiaires réputés constituants ou bénéficiaires a son domicile fiscal en France, l'inventaire détaillé des biens, droits et produits capitalisés, situés en France ou hors de France et placés dans le trust ainsi que leur valeur vénale au 1er janvier de l'année ;
+6° Si l'un au moins des constituants, bénéficiaires réputés constituants ou bénéficiaires a son domicile fiscal en France, l'inventaire détaillé des biens, droits, parts ou actions mentionnés aux articles 965 à 972 ter du code général des impôts, situés en France ou hors de France et placés dans le trust ainsi que leur valeur vénale au 1er janvier de l'année ;
 
-7° Si aucun des constituants, bénéficiaires réputés constituants ou bénéficiaires n'a son domicile fiscal en France, l'inventaire détaillé des biens, droits et produits capitalisés, situés en France et placés dans le trust ainsi que leur valeur vénale au 1er janvier de l'année, à l'exclusion des placements financiers au sens de l'article 885 L du code précité.
+7° Si aucun des constituants, bénéficiaires réputés constituants ou bénéficiaires n'a son domicile fiscal en France, l'inventaire détaillé des biens, droits, parts ou actions mentionnés au 2° de l'article 964 du code général des impôts placés dans le trust, ainsi que leur valeur vénale au 1er janvier de l'année.
 
 L'administrateur du trust est dispensé d'indiquer les informations mentionnées au 5° si la déclaration prévue au premier alinéa de l'article 1649 AB du code précité a été précédemment déposée.
 
