@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203345
+
+- Question : [SEQ180203345](seq180203345.md) — Inégalité salariale entre les femmes et les hommes
+
+## Réponse
+
+*Égalité femmes hommes, JO du 2018-05-31, page 2687*
+
+Le défi de l'égalité salariale est l'un des volets de l'action que mène le Gouvernement en faveur de l'égalité professionnelle. Lors du Tour de France de l'égalité entre les femmes et les hommes, la plus grande consultation citoyenne jamais organisée par un Gouvernement sur ce sujet, une des mesures clés identifiées pour agir en faveur de l'égalité professionnelle est celle de la conciliation entre vie professionnelle et familiale en valorisant notamment les bonnes pratiques (télétravail) auprès des entreprises. Des dispositifs sont déjà mis en place permettant aux hommes de prendre leurs responsabilités dans le partage des tâches, notamment familiales, qui pèsent encore trop souvent sur les femmes. Afin de favoriser un meilleur équilibre entre vie professionnelle et vie familiale, le Gouvernement souhaite augmenter le nombre de pères faisant valoir leur droit au congé paternité. Ainsi, une réfléxion est en cours auprès de l'IGAS sur l'allongement et la meilleure rémunération du congé paternité. Le 7 mars 2018, le Premier ministre, la ministre du travail et la secrétaire d'État à l'égalité entre les femmes et les hommes réunissaient les partenaires sociaux pour échanger sur les mesures clefs dans ce domaine. Le 9 mai 2018, quinze actions ont été présentées pour atteindre une égalité professionnelle réelle entre les femmes et les hommes dans le cadre du plan de lutte contre les inégalités salariales et les violences au travail aussi bien sur l'égalité salariale que sur la conciliation des temps. L'objectif est de diffuser la culture de l'égalité femmes-hommes partout, y compris dans l'entreprise.
