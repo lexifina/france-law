@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303725
+
+- Question : [SEQ180303725](seq180303725.md) — Difficultés introduites par la loi NOTRe en matière de politique locale du commerce
+
+## Réponse
+
+*Intérieur, JO du 2018-05-31, page 2702*
+
+La loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (loi NOTRe) attribue aux communautés de communes (article L. 5214-16 du code général des collectivités territoriales) et aux communautés d'agglomération (article L. 5216-5 du code général des collectivités territoriales) l'exercice de la compétence « développement économique » en lieu et place de leurs communes membres, de manière obligatoire. Toutefois, au sein de cette compétence, la loi distingue la composante « politique locale du commerce et soutien aux activités commerciales d'intérêt communautaire ». Il n'y a pas lieu de traiter de manière distincte la politique locale du commerce du soutien aux activités commerciales. En effet, la définition d'un intérêt communautaire permet l'élaboration d'un projet de développement de la politique locale du commerce et de soutien aux activités commerciales sur un territoire ou une thématique pertinents. En conséquence, le conseil communautaire délibère pour déterminer ce qui relève de sa compétence, à la fois en matière de politique locale du commerce et de soutien aux activités commerciales. Il s'ensuit que les communes membres interviennent dans le champ de la politique locale du commerce et du soutien aux activités commerciales qui n'aura pas été reconnu d'intérêt communautaire. Cette ligne de partage au sein de la compétence « commerce » permet à l'établissement public de coopération intercommunale à fiscalité propre de laisser au niveau communal des compétences de proximité et d'exercer les missions qui, par leur coût, leur technicité, leur ampleur ou leur caractère structurant, s'inscrivent dans une logique intercommunale.
