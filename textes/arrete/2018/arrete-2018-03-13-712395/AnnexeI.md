@@ -8,32 +8,32 @@ Quota |
 
 Cassalex Annonciade Océane Saphir (CAOS) |
 
-1 |
+0,7 |
 
 Organisation de producteurs du Sud (OP du Sud) |
 
-4 |
+5,9 |
 
-Société Coopérative Maritime des Pêcheurs de Sète Môle (SA.THO.AN) |
+Société Coopérative Maritime des Pêcheurs de Sète Môle (SA. THO. AN) |
 
-44 |
+52,5 |
 
 Navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Provence-Alpes-Côte d'Azur |
 
-42 |
+50,5 |
 
 Navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime d'Occitanie |
 
-2 |
+2,5 |
 
 Navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Corse |
 
-30 |
+36,1 |
 
 TOTAL Hors OP |
 
-74 |
+89,1 |
 
 TOTAL |
 
-123 |
+148,2 |
