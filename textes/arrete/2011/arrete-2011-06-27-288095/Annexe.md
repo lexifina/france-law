@@ -4,420 +4,518 @@ INSTANCES |
 
 MODE DE SCRUTIN |
 
-NOMBRE DE REPRÉSENTANTS TITULAIRES |
+NOMBRE
+
+de représentants titulaires |
+
+PART D'HOMMES ET DE FEMMES |
 
 CTM |
 
-liste |
+Liste |
 
 15 |
 
+Femmes : 24 310 (59,22 %)
+
+Hommes : 16 741 (40,78 %) |
+
 CTEA |
 
-liste |
+Liste |
 
 10 |
+
+Femmes : 15 183 (59,07 %)
+
+Hommes : 10 521 (40,93 %) |
 
 CTAC |
 
-liste |
+Liste |
 
 10 |
+
+Femmes : 1 240 (54,15 %)
+
+Hommes : 1 050 (45,85 %) |
 
 CTSD |
 
-liste |
+Liste |
 
 10 |
+
+Femmes : 1 670 (59,92 %)
+
+Hommes : 1 117 (40,08 %) |
 
 CTSG |
 
-liste |
+Liste |
 
 10 |
 
-CTS DGPAAT |
+Femmes : 510 (53,68 %)
 
-liste |
+Hommes : 440 (40,34 %) |
+
+CTS DGPE |
+
+Liste |
 
 8 |
+
+Femmes : 213 (62,28 %)
+
+Hommes : 129 (37,72 %) |
 
 CTS DGAL |
 
-liste |
+Liste |
 
 7 |
+
+Femmes : 161 (67,65 %)
+
+Hommes : 77 (32,34 %) |
 
 CTS DGER |
 
-liste |
+Liste |
 
 7 |
+
+Femmes : 114 (52,05 %)
+
+Hommes : 105 (47,95 %) |
+
+CTS DPMA |
+
+Sigle |
+
+4 |
+
+Non concerné |
 
 CTS CGAAER |
 
-liste |
+Liste |
 
 6 |
 
-CTS CAB CBCM MDEF |
+Femmes : 58 (36,48 %)
 
-liste |
+Hommes : 101 (63,52 %) |
+
+CTS CAB MDEF |
+
+Liste |
 
 6 |
+
+Femmes : 65 (58,56 %)
+
+Hommes : 46 (41,44 %) |
 
 CTS Toulouse-Auzeville |
 
-liste |
+Liste |
+
+6 |
+
+Femmes : 78 (39,2 %)
+
+Hommes : 121 (60,8 %) |
+
+CTR DRAAF Auvergne-Rhône-Alpes |
+
+Liste |
 
 7 |
 
-CTR DRAAF Alsace |
+Femmes : 170 (61,59 %)
 
-sigle |
+Hommes : 106 (38,41 %) |
 
-4 |
+CTREA Auvergne-Rhône-Alpes |
 
-CTREA Alsace |
-
-liste |
-
-8 |
-
-CTR DRAAF Aquitaine |
-
-liste |
-
-6 |
-
-CTREA Aquitaine |
-
-liste |
+Liste |
 
 10 |
 
-CTR DRAAF Auvergne |
+Femmes : 1 713 (59,62 %)
 
-liste |
-
-6 |
-
-CTREA Auvergne |
-
-liste |
-
-10 |
-
-CTR DRAAF Basse-Normandie |
-
-liste |
-
-6 |
-
-CTREA Basse-Normandie |
-
-liste |
-
-10 |
-
-CTR DRAAF Bourgogne |
-
-liste |
-
-6 |
-
-CTREA Bourgogne |
-
-liste |
-
-10 |
+Hommes : 1 160 (40,38 %) |
 
 CTR DRAAF Bretagne |
 
-liste |
+Liste |
 
 6 |
+
+Femmes : 89 (55,97 %)
+
+Hommes : 70 (44,03 %) |
 
 CTREA Bretagne |
 
-liste |
+Liste |
 
 10 |
 
-CTR DRAAF Centre |
+Femmes : 581 (59,59 %)
 
-liste |
+Hommes : 394 (40,41 %) |
+
+CTR DRAAF Bourgogne-Franche-Comté |
+
+Liste |
+
+7 |
+
+Femmes : 124 (61,08 %)
+
+Hommes : 79 (38,92 %) |
+
+CTREA Bourgogne-Franche-Comté |
+
+Liste |
+
+10 |
+
+Femmes : 1 005 (57,65 %)
+
+Hommes : 738 (42,35 %) |
+
+CTR DRAAF Centre-Val de Loire |
+
+Liste |
 
 6 |
 
-CTREA Centre |
+Femmes : 95 (69,34 %)
 
-liste |
+Hommes : 42 (30,66 %) |
 
-10 |
+CTREA Centre-Val de Loire |
 
-CTR DRAAF Champagne-Ardenne |
-
-sigle |
-
-4 |
-
-CTREA Champagne-Ardenne |
-
-liste |
+Liste |
 
 10 |
+
+Femmes : 606 (61,90 %)
+
+Hommes : 373 (38,10 %) |
 
 CTR DRAAF Corse |
 
-sigle |
+Sigle |
 
 4 |
+
+Non concerné |
 
 CTREA Corse |
 
-liste |
+Liste |
 
 6 |
 
-CTR DRAAF Franche-Comté |
+Femmes : 78 (59,09 %)
 
-liste |
+Hommes : 54 (40,91 %) |
 
-6 |
+CTR DRAAF Grand Est |
 
-CTREA Franche-Comté |
-
-liste |
-
-10 |
-
-CTR DRAAF Haute-Normandie |
-
-sigle |
-
-4 |
-
-CTREA Haute-Normandie |
-
-liste |
-
-10 |
-
-CTR DRAAF Languedoc-Roussillon |
-
-liste |
+Liste |
 
 7 |
 
-CTREA Languedoc-Roussillon |
+Femmes : 163 (57,19 %)
 
-liste |
+Hommes : 122 (42,81 %) |
 
-10 |
+CTREA Grand Est |
 
-CTR DRAAF Limousin |
-
-sigle |
-
-4 |
-
-CTREA Limousin |
-
-liste |
+Liste |
 
 10 |
 
-CTR DRAAF Lorraine |
+Femmes : 1 086 (60,05 %)
 
-sigle |
+Hommes : 730 (39,95 %) |
 
-4 |
+CTR DRAAF Hauts-de-France |
 
-CTREA Lorraine |
-
-liste |
-
-10 |
-
-CTR DRAAF Midi-Pyrénées |
-
-liste |
+Liste |
 
 6 |
 
-CTREA Midi-Pyrénées |
+Femmes : 93 (59,23 %)
 
-liste |
+Hommes : 64 (40,77 %) |
 
-10 |
+CTREA Hauts-de-France |
 
-CTR DRAAF Nord - Pas-de-Calais |
-
-sigle |
-
-4 |
-
-CTREA Nord - Pas-de-Calais |
-
-liste |
+Liste |
 
 10 |
 
-CTR DRAAF Pays de la Loire |
+Femmes : 727 (60,68 %)
 
-liste |
+Hommes : 471 (39,32 %) |
 
-7 |
+CTR DRAAF Normandie |
 
-CTREA Pays de la Loire |
-
-liste |
-
-10 |
-
-CTR DRAAF Picardie |
-
-sigle |
-
-4 |
-
-CTREA Picardie |
-
-liste |
-
-10 |
-
-CTR DRAAF Poitou-Charentes |
-
-liste |
+Liste |
 
 6 |
 
-CTREA Poitou-Charentes |
+Femmes : 125 (62,81 %)
 
-liste |
+Hommes : 74 (37,19 %) |
 
-10 |
+CTREA Normandie |
 
-CTR DRAAF PACA |
-
-liste |
-
-6 |
-
-CTREA PACA |
-
-liste |
+Liste |
 
 10 |
 
-CTR DRAAF Rhône-Alpes |
+Femmes : 768 (59,58 %)
 
-liste |
+Hommes : 521 (40,42 %) |
 
-6 |
+CTR DRAAF Nouvelle-Aquitaine |
 
-CTREA Rhône-Alpes |
-
-liste |
-
-10 |
-
-CTR DRIAAF Ile-de-France |
-
-liste |
-
-6 |
-
-CTREA Ile-de-France |
-
-liste |
-
-10 |
-
-CT DAAF-Ens Guadeloupe |
-
-liste |
-
-7 |
-
-CT DAAF-Ens Guyane |
-
-liste |
-
-6 |
-
-CT DAAF-Ens Martinique |
-
-liste |
-
-7 |
-
-CT DAAF Mayotte |
-
-liste |
-
-6 |
-
-CT EPN Mayotte
-
-|
-
-sigle |
-
-4 |
-
-CT DAAF-Ens La Réunion |
-
-liste |
-
-7 |
-
-CT ENV Alfort |
-
-liste |
+Liste |
 
 8 |
 
-CT ENV Toulouse |
+Femmes : 219 (61,34 %)
 
-liste |
+Hommes : 138 (38,68 %) |
+
+CTREA Nouvelle-Aquitaine |
+
+Liste |
+
+10 |
+
+Femmes : 1 780 (57,62 %)
+
+Hommes : 1 309 (42,38 %) |
+
+CTR DRAAF Occitanie |
+
+Liste |
+
+8 |
+
+Femmes : 198 (59,82 %)
+
+Hommes : 133 (40,18 %) |
+
+CTREA Occitanie |
+
+Liste |
+
+10 |
+
+Femmes : 1 584 (59,66 %)
+
+Hommes : 1 071 (40,34 %) |
+
+CTR DRAAF Pays de la Loire |
+
+Liste |
+
+6 |
+
+Femmes : 115 (63,54 %)
+
+Hommes : 66 (36,46 %) |
+
+CTREA Pays de la Loire |
+
+Liste |
+
+10 |
+
+Femmes : 945 (57,90 %)
+
+Hommes : 687 (42,10 %) |
+
+CTR DRAAF PACA |
+
+Liste |
+
+6 |
+
+Femmes : 105 (57,38 %)
+
+Hommes : 78 (42,62 %) |
+
+CTREA PACA |
+
+Liste |
+
+10 |
+
+Femmes : 589 (59,49 %)
+
+Hommes : 401 (40,51 %) |
+
+CTR DRIAAF Ile-de-France |
+
+Liste |
+
+6 |
+
+Femmes : 64 (50 %)
+
+Hommes : 64 (50 %) |
+
+CTREA Ile-de-France |
+
+Liste |
+
+10 |
+
+Femmes : 286 (59,25 %)
+
+Hommes : 205 (40,75 %) |
+
+CT DAAF-Ens Guadeloupe |
+
+Liste |
 
 7 |
 
+Femmes : 145 (59,67 %)
+
+Hommes : 98 (40,33 %) |
+
+CT DAAF-Ens Guyane |
+
+Liste |
+
+6 |
+
+Femmes : 89 (54,27 %)
+
+Hommes : 75 (45,73 %) |
+
+CT DAAF-Ens Martinique |
+
+Liste |
+
+7 |
+
+Femmes : 175 (67,31 %)
+
+Hommes : 85 (32,69 %) |
+
+CT DAAF-Ens Mayotte |
+
+Liste |
+
+6 |
+
+Femmes : 79 (40,72 %)
+
+Hommes : 115 (59,28 %) |
+
+CT EPN Mayotte |
+
+Liste |
+
+6 |
+
+Femmes : 46 (42,20 %)
+
+Hommes : 63 (57,80 %) |
+
+CT DAAF-Ens La Réunion |
+
+Liste |
+
+8 |
+
+Femmes : 199 (51,82 %)
+
+Hommes : 185 (48,18 %) |
+
+CT ENV Alfort |
+
+Liste |
+
+8 |
+
+Femmes : 231 (64,16 %)
+
+Hommes : 129 (35,84 %) |
+
+CT ENV Toulouse |
+
+Liste |
+
+8 |
+
+Femmes : 179 (57,01 %)
+
+Hommes : 135 (42,99 %) |
+
 CT ENSP |
 
-sigle |
-
-4 |
-
-CT ENFA |
-
-liste |
+Liste |
 
 6 |
 
-CT Bordeaux Sciences Agro |
+Femmes : 63 (61,17 %)
 
-liste |
+Hommes : 40 (38,83 %) |
+
+CT ENSFEA |
+
+Liste |
+
+7 |
+
+Femmes : 146 (58,87 %)
+
+Hommes : 102 (41,13 %) |
+
+CT ENSAP |
+
+Liste |
 
 6 |
+
+Femmes : 86 (54,43 %)
+
+Hommes : 72 (45,57 %) |
 
 CT ENGEES |
 
-sigle |
+Sigle |
 
 4 |
+
+Non concerné |
 
 CT CEZ |
 
-liste |
+Sigle |
 
-6 |
+4 |
+
+Non concerné |
 
 CT EPN Wallis-et-Futuna |
 
-sigle |
+Sigle |
 
 4 |
+
+Non concerné |
