@@ -56,9 +56,9 @@ Services centraux
 
 de l'INSEE |
 
-48,36 |
+48,75 |
 
-51,64 |
+51,25 |
 
 8 |
 
