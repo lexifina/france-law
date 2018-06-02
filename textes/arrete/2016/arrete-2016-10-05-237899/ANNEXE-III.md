@@ -1,22 +1,18 @@
 # Article ANNEXE III
 
-INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L.174-1 ET L.174-2 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
+INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER, GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2018
 
-BASSIN
+Bassin minier |
 
-minier |
+Nature de l'installation |
 
-NATURE
+Concession |
 
-de l'installation |
+Commune |
 
-CONCESSION |
+Site |
 
-COMMUNE |
-
-SITE |
-
-NOM DE L'INSTALLATION |
+Nom de l'installation |
 
 Centre Ouest |
 
@@ -46,15 +42,19 @@ La Ferrière aux Etangs |
 
 May sur Orne |
 
-Fontenay le Marmion |
+Fontenay
+
+le Marmion |
 
 Circuit Flanc Sud D15 |
 
 Sondage D20 bis |
 
-Sondage D43 |
+Fontenay
 
-Fontenay le Marmion - May sur Orne |
+le Marmion -
+
+May sur Orne |
 
 Circuit Flanc Sud Orne |
 
@@ -71,6 +71,12 @@ Saint André sur Orne |
 Saint André sur Orne - Saint Martin de Fontenay |
 
 Circuit Flanc Nord Orne |
+
+Fontenay
+
+le Marmion |
+
+Sondage D43 |
 
 Saint Martin de Fontenay |
 
@@ -122,11 +128,27 @@ BBT1 |
 
 BBT2 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Centre Ouest |
+
 Réseaux de nivellement |
 
 Barbery |
 
-Saint Germain le Vasson |
+Saint Germain
+
+le Vasson |
 
 (vide) |
 
@@ -146,7 +168,9 @@ La Ferrière aux Etangs |
 
 May sur Orne |
 
-Fontenay le Marmion |
+Fontenay
+
+le Marmion |
 
 Cité Taraud |
 
@@ -162,7 +186,11 @@ Rocquancourt centre |
 
 May sur Orne - Garcelles |
 
-Fontenay le Marmion - Rocquancourt |
+Fontenay
+
+le Marmion -
+
+Rocquancourt |
 
 Rocquancourt Est |
 
@@ -197,8 +225,6 @@ Têtes de puits matérialisées |
 Blanzy Montceau |
 
 Montceau les Mines |
-
-(vide) |
 
 Bois du Verne 2 |
 
@@ -252,6 +278,16 @@ Buxières les Mines |
 
 Saint Martin |
 
+Ancien stockage souterrain GPL |
+
+Gargenville |
+
+Gargenville |
+
+Gargenville |
+
+Gargenville |
+
 Est |
 
 Bâtiments |
@@ -259,6 +295,8 @@ Bâtiments |
 Auboué Moineville |
 
 Homécourt |
+
+(vide) |
 
 Eglise d'Homécourt |
 
@@ -296,9 +334,27 @@ Moyeuvre Grande |
 
 Moyeuvre G7 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Cavités |
+
 Duss |
 
 Dieuze |
+
+(vide) |
 
 Sondage Géodéris SC1 |
 
@@ -326,9 +382,13 @@ Thil |
 
 SD3 Rue du Petit Bois |
 
-Godbrange - Hussigny |
+Godbrange -
 
-Hussigny Godbrange |
+Hussigny |
+
+Hussigny
+
+Godbrange |
 
 Hussigny Entrée DW |
 
@@ -375,8 +435,6 @@ Nondkeil R125B1 |
 Michelsberg |
 
 Thionville |
-
-(vide) |
 
 Galerie Charles |
 
@@ -446,7 +504,27 @@ Haguenau |
 
 Forage 1684 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Equipements de rétention d'effluents pétroliers |
+
+Pechelbronn |
+
 Kutzenhausen |
+
+(vide) |
 
 Forage 2761 |
 
@@ -458,7 +536,9 @@ Forage 3969 |
 
 Forage 945 |
 
-Merkwiller Pechelbronn |
+Merkwiller
+
+Pechelbronn |
 
 Forage 459 |
 
@@ -482,6 +562,8 @@ Surbourg |
 
 Forage 2962 |
 
+Forage 1318 |
+
 Exutoires de gaz de mine |
 
 Gunstett |
@@ -494,7 +576,9 @@ Kutzenhausen |
 
 Puits 6 |
 
-Merkwiller Pechelbronn |
+Merkwiller
+
+Pechelbronn |
 
 Puits 8 |
 
@@ -526,12 +610,6 @@ PCS puits Marienau |
 
 PCS SIMON 1 |
 
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
 PCS SIMON 2 |
 
 PCS SIMON 3 |
@@ -547,6 +625,28 @@ Puits Simon 5 |
 SDEC E1 |
 
 SDEC E11 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Exutoires de gaz de mine |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
 
 SDEC E2 |
 
@@ -608,8 +708,6 @@ Puits Wendel 1 et 2 |
 
 Puits Wendel 3 |
 
-SDEC E 4 |
-
 Schoeneck |
 
 PCS E18 |
@@ -620,12 +718,6 @@ PCS E20 |
 
 PCS E21 |
 
-De Wendel H |
-
-Schoeneck |
-
-(vide) |
-
 PCS E23 |
 
 PCS SIMON 4 |
@@ -633,6 +725,28 @@ PCS SIMON 4 |
 Puits Simon 4 |
 
 SDEC E5 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Exutoires de gaz de mine |
+
+De Wendel H |
+
+Schoeneck |
+
+(vide) |
 
 SDEC E6 |
 
@@ -652,7 +766,9 @@ PCS PUITS MAX |
 
 Puits 8 (dit Max) |
 
-Freyming Merlebach |
+Freyming
+
+Merlebach |
 
 PCS C1 |
 
@@ -667,10 +783,6 @@ PCS C5 |
 PCS C6 |
 
 PCS C7 |
-
-PCS CUVELETTE NORD |
-
-PCS CUVELETTE SUD |
 
 PCS REUMAUX |
 
@@ -726,9 +838,19 @@ Puits 2 de Saint Michel |
 
 Réseaux de nivellement |
 
+(vide) |
+
+Lochwiller |
+
+Lochwiller |
+
+Lochwiller |
+
 Amermont Dommary |
 
 Bouligny |
+
+(vide) |
 
 Bouligny Cité Saint Pierre |
 
@@ -746,7 +868,9 @@ Trieux Le Sart |
 
 Anderny Chevillon - Sancy |
 
-Trieux - Tucquegnieux |
+Trieux -
+
+Tucquegnieux |
 
 Trieux 040A |
 
@@ -756,6 +880,22 @@ Angevillers - Rochonvillers |
 
 Angevillers |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Réseaux de nivellement |
+
 Auboué Moineville |
 
 Auboué |
@@ -764,13 +904,17 @@ Auboué |
 
 Auboué Cité de Coinville |
 
-Auboué - Homécourt |
+Auboué -
+
+Homécourt |
 
 Auboué Centre aéré |
 
 Homécourt R065S1 2 |
 
-Homécourt - Moutiers |
+Homécourt -
+
+Moutiers |
 
 Moutiers haut Cité de Gorcy |
 
@@ -780,7 +924,9 @@ Auboué - Batilly - Moineville |
 
 Batilly - Mine du Paradis |
 
-Auboué Moineville - Belleville - Giraumont |
+Auboué Moineville - Belleville -
+
+Giraumont |
 
 Moineville |
 
@@ -800,7 +946,13 @@ Moutiers bas |
 
 Auboué Moineville - Sainte Marie |
 
-Auboué - Homécourt - Sainte Marie aux Chênes |
+Auboué -
+
+Homécourt -
+
+Sainte Marie
+
+aux Chênes |
 
 Auboué centre |
 
@@ -828,7 +980,11 @@ Fontoy D58 |
 
 Fontoy N52 |
 
-Bassompierre - Elisabeth - Haut Pont |
+Bassompierre -
+
+Elisabeth -
+
+Haut Pont |
 
 La Houve Bonnefeld |
 
@@ -838,7 +994,9 @@ Ville au Montois |
 
 Ville au Montois |
 
-Bouligny - La Mourière |
+Bouligny -
+
+La Mourière |
 
 Bouligny - Piennes |
 
@@ -882,8 +1040,6 @@ Droitaumont |
 
 Jarny |
 
-(vide) |
-
 Jarny Cité de la Cartoucherie |
 
 Droitaumont - Jarny |
@@ -900,15 +1056,37 @@ Fontoy |
 
 Fontoy Rond Bois |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Réseau de nivellement |
+
 Errouville - Aumetz - Crusnes |
 
 Aumetz - Crusnes |
 
+(vide) |
+
 Crusnes ARBED |
 
-Errouville - Serrouville |
+Errouville -
 
-Errouville - Serrouville |
+Serrouville |
+
+Errouville -
+
+Serrouville |
 
 Errouville ARBED |
 
@@ -940,7 +1118,11 @@ Giraumont - Jarny |
 
 Giraumont village |
 
-Gustave Wiesner Extension 1 - Gustave Wiesner - Nondkeil - Tressange |
+Gustave Wiesner Extension 1 -
+
+Gustave Wiesner - Nondkeil -
+
+Tressange |
 
 Tressange |
 
@@ -988,19 +1170,33 @@ Briey |
 
 Briey Bouchetière |
 
-Réseaux de nivellement |
-
 Joudreville |
 
 Bouligny |
 
-(vide) |
-
 Bouligny Cité de Joudreville |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Réseau de nivellement |
 
 La Houve - Berviller - Bisten 1 et 2 - Coume 1,2,3,4 et 5 - Dalem - Niedervisse 1,3 et 6 - Sarre et Moselle - Teterchen |
 
 Berviller - Bisten en Lorraine - Boucheporn - Château Rouge - Coume - Creutzwald - Dalem - Diesen - Falck - Guerting - Ham sous Varsberg - Hargarten aux Mines - Merten - Niedervisse - Obervisse - Porcelette - Rémering les Hargarten - Saint Avold - Tromborn - Varsberg - Villing |
+
+(vide) |
 
 Réseau général Secteur Ouest |
 
@@ -1080,9 +1276,27 @@ Roncourt |
 
 Roncourt village |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Réseau de nivellement |
+
 Roncourt - Saint Privat |
 
 Saint Privat la Montagne |
+
+(vide) |
 
 Saint Privat village |
 
@@ -1101,8 +1315,6 @@ Mancieulles Haut de Biaumont |
 Saint Pierremont - Mance |
 
 Mancieulles |
-
-(vide) |
 
 Mancieulles |
 
@@ -1156,9 +1368,27 @@ Bettainvillers - Mairy Mainville - Tucquegnieux |
 
 Tucquegnieux village |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Réseau de nivellement |
+
 Tucquegnieux Bettainvillers - Malavillers |
 
 Anderny |
+
+(vide) |
 
 Anderny Nord |
 
@@ -1204,7 +1434,9 @@ Wendel |
 
 Sarre et Moselle |
 
-Freyming Merlebach - St Avold |
+Freyming
+
+Merlebach - Saint Avold |
 
 Sarre et Moselle |
 
@@ -1224,7 +1456,9 @@ Saint Charles |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
+
+Merlebach |
 
 Cuvelette |
 
@@ -1238,8 +1472,6 @@ Pechelbronn |
 
 Gunstett |
 
-(vide) |
-
 Puits 3 |
 
 Puits 7 |
@@ -1248,7 +1480,9 @@ Kutzenhausen |
 
 Puits 6 |
 
-Merkwiller Pechelbronn |
+Merkwiller
+
+Pechelbronn |
 
 Puits 8 |
 
@@ -1304,11 +1538,27 @@ Puits Alexandre Dreux 1 |
 
 Puits Alexandre Dreux 2 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
 Zones surveillées par microsismique |
 
 Angevillers |
 
 Angevillers |
+
+(vide) |
 
 Angevillers village |
 
@@ -1339,12 +1589,6 @@ Bréhain |
 Bréhain la Ville |
 
 Brehain village |
-
-De Wendel F |
-
-Neufchef |
-
-Route Blanche |
 
 Ferdinand |
 
@@ -1422,6 +1666,14 @@ Forbach - Petite Rosselle |
 
 Terril Wendel |
 
+Coffrets gaz |
+
+Sarre et Moselle |
+
+Cocheren |
+
+PCS BR |
+
 Nord |
 
 Exutoires de gaz de mine |
@@ -1429,8 +1681,6 @@ Exutoires de gaz de mine |
 Aniche |
 
 Aniche |
-
-(vide) |
 
 S19 AN 01 |
 
@@ -1480,7 +1730,27 @@ Rouvignies |
 
 S16 AZ 04 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Exutoires de gaz de mine |
+
+Anzin |
+
 Somain |
+
+(vide) |
 
 S18 AZ 06 |
 
@@ -1501,10 +1771,6 @@ Bruay |
 Bruay La Buissière |
 
 S69 BR 03 |
-
-Divion |
-
-S63 BR 02 |
 
 Haillicourt |
 
@@ -1543,12 +1809,6 @@ Wavrechain sous Denain |
 S13 DE 01 |
 
 S13bis DE 02 |
-
-Douchy |
-
-Lourches |
-
-S35 DY 01 |
 
 Dourges |
 
@@ -1600,19 +1860,11 @@ S14 HN 01 |
 
 Lens |
 
-Avion |
-
-S30 LS 02 |
-
 Hulluch |
 
 S20 LS 01 |
 
-Lens |
-
 Liévin |
-
-(vide) |
 
 S55 LS 04 |
 
@@ -1652,9 +1904,27 @@ Wingles |
 
 S44 ME 01 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Exutoires de gaz de mine |
+
 Noeux |
 
 Barlin |
+
+(vide) |
 
 S59 NX 05 |
 
@@ -1788,8 +2058,6 @@ Anzin - Hasnon |
 
 Hasnon - Hélesmes - Wallers |
 
-|
-
 Wallers Arenberg |
 
 Bruay - Beugin |
@@ -1798,19 +2066,51 @@ Beugin - Bruay La Buissière - Houdain |
 
 Bruay |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Réseaux de nivellement |
+
 Courrières - Dourges |
 
 Billy Montigny - Hénin Beaumont - Méricourt - Montigny en Gohelle - Sallaumines |
 
+(vide) |
+
 Billy Montigny |
 
-Carvin - Courrières - Estevelles - Oignies - Pont à Vendin |
+Carvin - Courrières - Estevelles - Oignies -
+
+Pont à Vendin |
 
 Estevelles |
 
 Lens - Liévin - Vimy Fresnoy |
 
-Annay sous Lens - Avion - Eleu dit Leauwette - Farbus - Lens - Loison sous Lens - Pont à Vendin - Vendin le Vieil - Vimy |
+Annay sous Lens -
+
+Avion -
+
+Eleu dit Leauwette - Farbus -
+
+Lens -
+
+Loison sous Lens -
+
+Pont à Vendin - Vendin le Vieil -
+
+Vimy |
 
 Lens |
 
@@ -1819,8 +2119,6 @@ Têtes de puits matérialisées |
 Aniche |
 
 Aniche |
-
-(vide) |
 
 Aoust |
 
@@ -1844,7 +2142,27 @@ Sainte Thérèse |
 
 Traisnel |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Aniche |
+
 Auberchicourt |
+
+(vide) |
 
 Espérance |
 
@@ -1852,11 +2170,7 @@ Sainte Marie 1 |
 
 Sainte Marie 2 |
 
-Aniche |
-
 Dechy |
-
-(vide) |
 
 Dechy 1 |
 
@@ -1942,8 +2256,6 @@ Annoeullin |
 
 Annoeullin |
 
-(vide) |
-
 Annoeullin 1 |
 
 Anzin |
@@ -1960,25 +2272,67 @@ Casimir |
 
 Chabaud la Tour 57 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Anzin |
+
+Denain |
+
+(vide) |
+
 Chabaud la Tour 58 |
+
+|
 
 Ernestine |
 
+|
+
 Jean Bart |
+
+|
 
 Joseph Périer |
 
+|
+
 Mathilde |
+
+|
 
 Napoléon |
 
+|
+
 Renard 1 |
+
+|
 
 Renard 2 |
 
+|
+
 Turenne |
 
+|
+
 Villars épuisement |
+
+|
 
 Villars extraction |
 
@@ -2045,6 +2399,22 @@ Vedette |
 Somain |
 
 Casimir Périer |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
 
 Anzin |
 
@@ -2144,17 +2514,35 @@ Bruay La Buissière |
 
 4 - 4 ter |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Bruay |
+
 Divion |
+
+(vide) |
 
 5 - 5 |
 
 5 - 5 bis |
 
-Bruay |
+5 ter - 5 ter |
 
 Haillicourt |
-
-(vide) |
 
 2 bis - 2 bis |
 
@@ -2260,7 +2648,27 @@ Méricourt |
 
 3 - 3 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Courrières |
+
 Noyelles sous Lens |
+
+(vide) |
 
 23 - 23 |
 
@@ -2281,8 +2689,6 @@ Sallaumines |
 Denain |
 
 Denain |
-
-(vide) |
 
 Enclos 1 |
 
@@ -2370,9 +2776,27 @@ Haisnes |
 
 6 - 6 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
 Drocourt |
 
 Hénin Beaumont |
+
+(vide) |
 
 3 - 3 |
 
@@ -2419,8 +2843,6 @@ Lahure 1-2 |
 Flines les Raches |
 
 Anhiers |
-
-(vide) |
 
 Flines 2 |
 
@@ -2482,9 +2904,27 @@ Puits 1 - 1 bis |
 
 Puits 1 -1 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
 Grenay |
 
 Annequin |
+
+(vide) |
 
 12 - 12 |
 
@@ -2534,11 +2974,7 @@ Sains en Gohelle |
 
 10 - 10 bis |
 
-Grenay |
-
 Vermelles |
-
-(vide) |
 
 3 - 3 |
 
@@ -2594,7 +3030,27 @@ Liévin |
 
 9 - 9 bis |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Lens |
+
 Loison sous Lens |
+
+(vide) |
 
 2 ter - 2 ter |
 
@@ -2648,11 +3104,7 @@ Flers |
 
 3 - 3 |
 
-L'Escarpelle |
-
 Leforest |
-
-(vide) |
 
 10 - 10 |
 
@@ -2708,9 +3160,27 @@ Liévin |
 
 5 - 5 bis |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
 Marchiennes |
 
 Marchiennes |
+
+(vide) |
 
 Marchiennes 2 |
 
@@ -2772,11 +3242,7 @@ Meurchin |
 
 2 - 7 |
 
-Meurchin |
-
 Wingles |
-
-(vide) |
 
 3-4 - 3 |
 
@@ -2822,7 +3288,27 @@ Hersin Coupigny |
 
 9 - 9 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
+Noeux |
+
 Labourse |
+
+(vide) |
 
 6 - 6 |
 
@@ -2900,12 +3386,6 @@ Pavé Sud |
 
 Saint Jean |
 
-Raismes |
-
-Anzin |
-
-(vide) |
-
 Saint Louis |
 
 Verger |
@@ -2936,9 +3416,27 @@ Thivencelle |
 
 Saint Aybert |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Têtes de puits matérialisées |
+
 Saint Saulve |
 
 Bruay sur Escaut |
+
+(vide) |
 
 Thiers 1 |
 
@@ -3024,12 +3522,6 @@ Trois Arbres extraction |
 
 Trou Martin |
 
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
 Vieille Machine 1 |
 
 Vieille Machine 2 |
@@ -3038,11 +3530,27 @@ Vieux Condé 1 |
 
 Vieux Condé 2 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
 Têtes de puits non matérialisées |
 
 Anzin |
 
 Denain |
+
+(vide) |
 
 Bayard |
 
@@ -3130,15 +3638,19 @@ Rivierette 1 |
 
 Rivierette 2 |
 
-Vieux Condé |
+Bassin minier |
 
-Vieux Condé |
+Nature de l'installation |
 
-Balive |
+Concession |
 
-Gaspard |
+Commune |
 
-Gros Caillou |
+Site |
+
+Nom de l'installation |
+
+Nord |
 
 Têtes de puits non matérialisées |
 
@@ -3147,6 +3659,12 @@ Vieux Condé |
 Vieux Condé |
 
 (vide) |
+
+Balive |
+
+Gaspard |
+
+Gros Caillou |
 
 Huvelle extraction |
 
@@ -3220,9 +3738,19 @@ Muret-Le-Château |
 
 Quartier des Espeyrous |
 
+Aubin |
+
+Decazeville |
+
+Mine de Lagrange |
+
+Nivellement Lagrange |
+
 Les Camoins - Les Accates |
 
 Marseille |
+
+(vide) |
 
 Les Camoins |
 
@@ -3290,9 +3818,27 @@ Lavernhe |
 
 Puits 9 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
+Exutoires de gaz de mine |
+
 C14 |
 
 Fuveau |
+
+(vide) |
 
 Forage Fuveau 2 |
 
@@ -3338,10 +3884,6 @@ Pz 14 |
 
 Pz 15 |
 
-Piézomètres |
-
-Hors concession |
-
 Salsigne |
 
 Montredon |
@@ -3369,12 +3911,6 @@ Aix en Provence - Allauch - Belcodène - Bouc Bel Air - Cadolive - Fuveau - Gard
 (vide) |
 
 Provence |
-
-La Serre |
-
-Simeyrols |
-
-Puits P1 |
 
 Zones affectées par un échauffement souterrain |
 
@@ -3432,11 +3968,27 @@ bassin Lenté |
 
 bassin St-Barthélémy |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
 Dépôt de minerai ou de résidus |
 
 Decazeville Firmi |
 
 Decazeville |
+
+(vide) |
 
 Lacaze |
 
@@ -3470,19 +4022,29 @@ Gardanne |
 
 Les Sauvaires |
 
-Dourdel Montsalson |
+Dourdel
+
+Montsalson |
 
 Saint Etienne |
 
 Couriot A |
 
-Dourdel Montsalson - Beaubrun |
+Dourdel
+
+Montsalson -
+
+Beaubrun |
 
 Couriot B |
 
-La Talaudière Chazotte |
+La Talaudière
 
-St Jean Bonnefonds |
+Chazotte |
+
+Saint Jean
+
+Bonnefonds |
 
 Le Fay |
 
@@ -3554,13 +4116,7 @@ Puits Anna Est |
 
 Puits Anna Ouest |
 
-Têtes de puits matérialisées |
-
 Anna1 |
-
-Wittenheim |
-
-(vide) |
 
 Puits Fernand Est |
 
@@ -3582,7 +4138,27 @@ Berrwiller |
 
 Puits Berrwiller |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potassique |
+
+Têtes de puits matérialisées |
+
+Marie-Louise |
+
 Staffelfelden |
+
+(vide) |
 
 Puits Louise |
 

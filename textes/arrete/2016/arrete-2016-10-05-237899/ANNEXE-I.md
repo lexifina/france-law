@@ -1,22 +1,18 @@
 # Article ANNEXE I
 
-INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2018
 
-BASSIN
+Bassin minier |
 
-minier |
+Nature de l'installation-1 |
 
-NATURE
+Concession |
 
-de l'installation |
+Commune |
 
-CONCESSION |
+Site |
 
-COMMUNE |
-
-SITE |
-
-NOM DE L'INSTALLATION |
+Nom de l'installation |
 
 Centre Ouest |
 
@@ -33,6 +29,18 @@ couverture des résidus |
 alvéole de confinement |
 
 Est |
+
+Equipements de rétention d'effluents pétroliers |
+
+De Wendel H |
+
+Morsbach |
+
+Cokerie de
+
+Marienau |
+
+séparateur des zones A et B |
 
 Events |
 
@@ -70,11 +78,49 @@ PCS-3-rue-W-GS-CD-1 |
 
 PCS-5-rue-W-GS-CD-1 |
 
+(vide) |
+
+GS-PGZ-3 |
+
+Aae-PG-Z-3 |
+
+GS-PG-Z-6 |
+
+Aae-PG-Z-6 |
+
+Dieffenbach-les-Woerth |
+
+GS-PG-Z-9 |
+
+Aae-PG-Z-9 |
+
+Merkwiller-
+
+Pechelbronn |
+
+GS-PG-Z-14 |
+
+Aae-PG-Z-14 |
+
+Lampersloch |
+
+GS-PG-Z-19 |
+
+Aae-PG-Z-19 |
+
+GS-PG-Z1-5 (CD) |
+
+GS-PG-Z1-6 (CD) |
+
+AA EXT-Z1-1 |
+
 De Wendel H |
 
 Forbach |
 
-Triangle de Marienau |
+Triangle de
+
+Marienau |
 
 T EV 10 |
 
@@ -94,7 +140,29 @@ Gazomètre de Marienau |
 
 Cheminée du gazomètre |
 
-Triangle de Marienau |
+Bassin minier |
+
+Nature de l'installation-1 |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Events |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de
+
+Marienau |
 
 T EV 3 |
 
@@ -104,9 +172,7 @@ T EV 2 |
 
 T EV 4 |
 
-Forage
-
-de dépollution |
+Forage de dépollution |
 
 Pechelbronn |
 
@@ -132,13 +198,17 @@ Forage Fuyard-3969 |
 
 Forage Fuyard-3349 |
 
-Merkwiller Pechelbronn |
+Merkwiller
+
+Pechelbronn |
 
 Forage Fuyard-459 |
 
 Surbourg |
 
 Forage Fuyard-2962 |
+
+Forage Fuyard-3103 |
 
 Sarre et Moselle |
 
@@ -172,7 +242,9 @@ Lobsann |
 
 AEP-Forage à Marienbronn |
 
-Merkwiller Pechelbronn |
+Merkwiller
+
+Pechelbronn |
 
 PZ11 |
 
@@ -192,7 +264,15 @@ PZ1 |
 
 PZ12 |
 
+Terril Clémenceau |
+
+Clem 1 |
+
+Clem 2 |
+
 Soultz-Sous-Forêt |
+
+(vide) |
 
 AEP-Forage du Hochwald F1 |
 
@@ -208,11 +288,29 @@ AEP-Forage de Mitschdorf 1961 |
 
 AEP-Forage de Mitschdorf 1973 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Piézomètres |
+
 Amodiation du Warndt-Allemagne |
 
 Emmersweiler |
 
-Triangle de Marienau |
+Triangle de
+
+Marienau |
 
 T ALL 2 |
 
@@ -242,7 +340,9 @@ T NP 7 |
 
 Morsbach |
 
-Gazomètre de Marienau |
+Gazomètre de
+
+Marienau |
 
 Forage du gazomètre |
 
@@ -250,7 +350,9 @@ PZ gazomètre amont |
 
 PZ gazomètre aval |
 
-Triangle de Marienau |
+Triangle de
+
+Marienau |
 
 T ALL 1 |
 
@@ -264,9 +366,13 @@ T NP 4 |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
 
-Bassin de Merlebach |
+Merlebach |
+
+Bassin de
+
+Merlebach |
 
 CM GEL 1 |
 
@@ -288,7 +394,9 @@ Amodiation du Warndt-Allemagne |
 
 Emmersweiler |
 
-Triangle de Marienau |
+Triangle de
+
+Marienau |
 
 Morsbach aval |
 
@@ -306,33 +414,29 @@ Rosselle amont |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
 
-Carrière de Merlebach |
+Merlebach |
+
+Carrière de
+
+Merlebach |
 
 Bassin de décantation |
 
-Réseaux
-
-de nivellement |
+Réseaux de nivellement |
 
 (vide) |
 
 Falaise de la carrière de Merlebach |
 
-Carrière de Merlebach |
+Carrière de
+
+Merlebach |
 
 Chemin des Douaniers |
 
-Stations
-
-de captage
-
-et de
-
-compression
-
-de gaz de mine |
+Stations de captage et de compression de gaz de mine |
 
 De Wendel H |
 
@@ -350,13 +454,27 @@ Saint Charles |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
+
+Merlebach |
 
 Cuvelette |
 
 Saint Avold |
 
 Peyerimhoff |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
 
 Nord |
 
@@ -372,7 +490,11 @@ PZC1 |
 
 Somain |
 
-Usine d'agglomération de Somain |
+Usine
+
+d'agglomération
+
+de Somain |
 
 PZC4 |
 
@@ -392,7 +514,11 @@ Anzin |
 
 Escaudain |
 
-Usine d'agglomération Bonnuet |
+Usine
+
+d'agglomération
+
+Bonnuet |
 
 PZC3 |
 
@@ -456,15 +582,15 @@ Crespin |
 
 Quiévrechain |
 
-Cokerie de Quiévrechain |
+Cokerie de
+
+Quiévrechain |
 
 PZC1 |
 
 PZC2 |
 
 PZC3 |
-
-Piézomètres |
 
 Douchy |
 
@@ -494,11 +620,29 @@ PZS8 |
 
 PZS9 |
 
-Dourges |
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Piézomètres |
 
 Dourges |
 
-Friche Sainte Henriette |
+Dourges |
+
+Friche
+
+Sainte Henriette |
 
 PZC1 |
 
@@ -528,7 +672,9 @@ PZS2 |
 
 Hénin Beaumont |
 
-Friche Sainte Henriette |
+Friche
+
+Sainte Henriette |
 
 PZC2 |
 
@@ -574,7 +720,9 @@ Grenay |
 
 Grenay |
 
-Cokerie de Mazingarbe |
+Cokerie de
+
+Mazingarbe |
 
 PZC290 |
 
@@ -594,13 +742,7 @@ PZC49 |
 
 PZC75 |
 
-Piézomètres |
-
-Grenay |
-
 Vermelles |
-
-Cokerie de Mazingarbe |
 
 PZC287 |
 
@@ -610,11 +752,29 @@ PZC296 |
 
 PZC5 |
 
-Noyelles lès Vermelles |
+Noyelles
+
+lès Vermelles |
 
 Forage Fontaine de Bray |
 
 PZC293 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Piézomètres |
 
 Hors concession |
 
@@ -692,11 +852,13 @@ PZS6 |
 
 PZS7 |
 
-PZS8 |
-
 Douai |
 
-Usine d'agglomération Anthracine |
+Usine
+
+d'agglomération
+
+Anthracine |
 
 PZC1 |
 
@@ -704,7 +866,11 @@ PZC6 |
 
 Flers |
 
-Usine d'agglomération du Pont de la Deule |
+Usine
+
+d'agglomération
+
+du Pont de la Deule |
 
 PZC2 |
 
@@ -722,13 +888,13 @@ PZC3 |
 
 PZC4 |
 
-Piézomètres |
-
 Noeux |
 
 Labourse |
 
-Cokerie de Noeux les Mines |
+Cokerie de Noeux
+
+les Mines |
 
 PZC1 |
 
@@ -745,6 +911,22 @@ PZC5 |
 PZC7 |
 
 PZC8 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Piézomètres |
 
 Raismes |
 
@@ -791,6 +973,10 @@ PZS18 |
 PZS19 |
 
 PZS28 |
+
+PZS26 |
+
+PZS27 |
 
 Saint Saulve |
 
@@ -854,6 +1040,8 @@ Cokerie d'Auby |
 
 Vieille rivière aval |
 
+Vieille rivière amont |
+
 Confinement |
 
 Douchy |
@@ -865,6 +1053,20 @@ Cokerie de Lourches |
 Confinement Lourches zone 1 |
 
 Confinement Lourches zone 2 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
 
 Confinement |
 
@@ -884,7 +1086,9 @@ Grenay |
 
 Mazingarbe |
 
-Cokerie de Mazingarbe |
+Cokerie de
+
+Mazingarbe |
 
 Confinement Est Mazingarbe |
 
@@ -974,7 +1178,9 @@ AD 9 |
 
 Limousis |
 
-Usine de l'Artus et Champ Magné |
+Usine de l'Artus
+
+et Champ Magné |
 
 BP 11 |
 
@@ -983,8 +1189,6 @@ Pz 8 |
 Salsigne |
 
 Montredon |
-
-B |
 
 Piézomètre central |
 
@@ -999,6 +1203,26 @@ SPJ |
 SPO |
 
 MST11 |
+
+PZ 09-03 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
+Piézomètres |
+
+Hors concession |
 
 Conques sur Orbiel |
 
@@ -1098,7 +1322,9 @@ Grésillou entre Nartau et Ramelle |
 
 Les Ilhes |
 
-Amont village des Ilhes |
+Amont village
+
+des Ilhes |
 
 Orbiel amont village des Ilhes |
 
@@ -1142,9 +1368,21 @@ Sédiments Jonche aval |
 
 Pz Etang |
 
-Dépôt
+Bassin minier |
 
-de résidus |
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
+Dépôt de résidus |
 
 Hors concession |
 
@@ -1200,21 +1438,19 @@ Cote Gravelle |
 
 Côte Gravelle |
 
-EST Potassique |
+EST Potas-sique |
 
 Canalisations |
 
 Battenheim III, Zollhaus, Théodore et hors concessions |
 
-Ensisheim, Munchhouse, Roggenhouse, Rumersheim-le-Haut, Blodelsheim, Fessenheim |
+Ungersheim, Wittelsheim, Wittenheim, Staffelfelden, Pulversheim, Ruelisheim, Feldkirch, Ensisheim, Munchhouse, Roggenhouse, Rumersheim-le-Haut, Blodelsheim, Fessenheim |
 
 (vide) |
 
-Saumoduc |
+Saumoduc (Réseaux d'évacuation des eaux saléees) |
 
-Forage
-
-de dépollution |
+Forage de dépollution |
 
 Alex Ouest |
 
@@ -1273,6 +1509,22 @@ Théodore-Eugène |
 04132X0303/1002 |
 
 04132X0331/ EUG/ B2 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Forage de dépollution |
 
 Marie-Louise |
 
@@ -1404,6 +1656,28 @@ Amélie |
 
 04131X0251/ F1 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
+
+Amélie |
+
+Wittelsheim |
+
+Amélie |
+
 04131X0252/ F2 |
 
 04131X0253/ F3 |
@@ -1456,8 +1730,6 @@ Amélie |
 
 04135X0341/1041 |
 
-Wittelsheim |
-
 Hors secteurs |
 
 04131X0181/ P4 |
@@ -1484,9 +1756,25 @@ Amélie |
 
 04131X0552/ MAX1S |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
+
 Anna |
 
-KingersheimI |
+KINGERSHEIM |
 
 Fernand-Anna |
 
@@ -1510,7 +1798,7 @@ Hors secteurs |
 
 04136X0313/ PZ |
 
-Richwiller |
+RICHWILLER |
 
 04136X0539/ S |
 
@@ -1584,6 +1872,28 @@ RG 205,503 |
 
 RG 206,025 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
 RG 206,510 |
 
 RG 207,060 |
@@ -1596,7 +1906,7 @@ RG 208,570 |
 
 RG 209,160 |
 
-Cernay |
+CERNAY |
 
 Hors secteurs |
 
@@ -1608,13 +1918,13 @@ Saumoduc |
 
 04133X1011/ G |
 
-Fessenheim |
+FESSENHEIM |
 
 Hors secteurs |
 
 03795X0110/ N3 |
 
-Munchhouse |
+MUNCHHOUSE |
 
 Saumoduc |
 
@@ -1626,13 +1936,13 @@ Saumoduc |
 
 04134X0181/ PZ1W |
 
-Munwiller |
+MUNWILLER |
 
 Hors secteurs |
 
 03786X0087/ PMT |
 
-Reguisheim |
+REGUISHEIM |
 
 03786X0080/ PMT |
 
@@ -1640,11 +1950,11 @@ Saumoduc |
 
 04133X0010/ F |
 
-Roggenhouse |
+ROGGENHOUSE |
 
 04134X0183/ F |
 
-Rumersheim-Le-Haut |
+RUMERSHEIM-LE-HAUT |
 
 04134X0187/ S |
 
@@ -1700,15 +2010,31 @@ Joseph-Else |
 
 04135X0368/ VJE11 |
 
-Max |
-
-Richwiller |
+RICHWILLER |
 
 Hors secteurs |
 
 04135X0379/ P |
 
 04135X0440/ PMT |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
+
+Max |
 
 Wittelsheim |
 
@@ -1806,17 +2132,33 @@ Ensisheim |
 
 04132X0339/ PZ |
 
-04132X0340/ PZ |
+Bassin minier |
 
-04132X0345/ EN1 |
+Nature de l'installation |
 
-04132X0346/ EN2 |
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
 
 Rodolphe Est |
 
 Ensisheim |
 
 Ensisheim |
+
+04132X0340/ PZ |
+
+04132X0345/ EN1 |
+
+04132X0346/ EN2 |
 
 04132X0347/ EN3 |
 
@@ -1914,7 +2256,27 @@ Ruelisheim |
 
 04132X0423/ SUP |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+EST Potas-sique |
+
+Piézomètres |
+
+Théodore |
+
 Wittenheim |
+
+Théodore-Eugène |
 
 04132X0353/ P |
 
@@ -1930,7 +2292,7 @@ Ruelisheim |
 
 Thérèse VII |
 
-Reguisheim |
+REGUISHEIM |
 
 Hors secteurs |
 
@@ -1945,10 +2307,6 @@ Ensisheim |
 04132X0230/ F1 |
 
 04132X0231/ F2 |
-
-Zollhaus |
-
-Ensisheim |
 
 Hors secteurs |
 

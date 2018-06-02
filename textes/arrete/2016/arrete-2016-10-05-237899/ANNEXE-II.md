@@ -1,22 +1,18 @@
 # Article ANNEXE II
 
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ, RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2017
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ, RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2018
 
-BASSIN
+Bassin minier |
 
-minier |
+Nature de l'installation |
 
-NATURE
+Concession |
 
-de l'installation |
+Commune |
 
-CONCESSION |
+Site |
 
-COMMUNE |
-
-SITE |
-
-NOM DE L'INSTALLATION |
+Nom de l'installation |
 
 Centre Ouest |
 
@@ -78,12 +74,6 @@ Le Plessis-Grimoult |
 
 TB Anguet |
 
-Blanzy Montceau |
-
-Perrecy les Forges |
-
-Ramus |
-
 Piézomètres |
 
 Le Périmètre de l'Aumance |
@@ -116,13 +106,9 @@ Messeix |
 
 Les Mouillères |
 
-Blanzy Montceau |
-
-Perrecy les Forges |
-
-Ramus |
-
 Surverses de lacs miniers |
+
+Blanzy Montceau |
 
 Montceau les Mines |
 
@@ -138,7 +124,7 @@ Forages de décharge |
 
 La Vernade |
 
-Saint Eloy les Mines |
+St Eloy les Mines |
 
 forage de décharge de St Eloy |
 
@@ -194,71 +180,21 @@ Galerie du Woigot |
 
 Forages de rabattement |
 
-Amodiation du Warndt-Allemagne |
-
-Nassweiler |
-
-F10 |
-
-F11 |
-
-De Wendel H |
-
-Forbach |
-
-Forbach 1 |
-
-Forbach 2 |
-
-Rosbruck |
-
-F12 |
-
-F13 |
-
-Sarre et Moselle |
-
-Betting les Saint Avold |
-
-F4 |
-
-F5 |
-
-F6 |
-
 Sarre et Moselle |
 
 Creutzwald |
 
 Croix |
 
-CREU-Rabat1 |
+CREU _ CROIX |
 
 Poste |
 
-CREU-Rabat2 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-F1 |
-
-F2 |
-
-F3 |
-
-Hombourg Haut |
-
-F7 |
-
-F8 |
-
-F9 |
+CREU _ POSTE |
 
 Varsberg |
+
+(vide) |
 
 Varsberg |
 
@@ -274,11 +210,7 @@ FORB ALL 2 |
 
 FORB GTI 1 |
 
-Puits Marienau |
-
 Puits Simon 5 |
-
-PZ SDEC E2 |
 
 SP 2003 06 |
 
@@ -286,7 +218,29 @@ Morsbach |
 
 IPA 3 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Piézomètres |
+
+De Wendel H |
+
 Petite Rosselle |
+
+(vide) |
+
+Puits Wendel 3 |
 
 SP 2003 04 |
 
@@ -304,13 +258,7 @@ Schoeneck |
 
 P50 |
 
-PZ SDEC E5 |
-
 SP 2007 01 |
-
-Stiring Wendel |
-
-PZ SDEC E10 |
 
 La Houve |
 
@@ -330,13 +278,13 @@ LH 2003 06 |
 
 Puits 1 |
 
-Puits 2 |
-
 Puits 4 |
 
-PZ SDEC 02 |
+Creu _ F28 |
 
-LH 2017 07 |
+PZ SDEC O2 |
+
+LH 2017 01 |
 
 Sarre et Moselle |
 
@@ -362,8 +310,6 @@ COCH GTI 1 |
 
 Creutzwald |
 
-(vide) |
-
 IPA 1 |
 
 Puits Barrois |
@@ -372,15 +318,9 @@ PZ Gti Barrois |
 
 PZ GTi Lac Creutzwald |
 
-PZ SDEC 04 |
-
-PZ SDEC 05 |
-
 CREU-GTi 2 |
 
 CREU-All 1 |
-
-CREU-All 2 |
 
 CREU-GTi 1 |
 
@@ -389,6 +329,28 @@ CREU-All 9 |
 CREU-All 10 |
 
 CREU-All 3 |
+
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
+Piézomètres |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
 
 CREU-GTi 3 |
 
@@ -418,6 +380,8 @@ CREU-All 15 |
 
 CREU-All 16 |
 
+PZ Digue 1 |
+
 CREU-GTi 7 |
 
 CREU-GTi 8 |
@@ -430,7 +394,13 @@ CREU-GTi 11 |
 
 CREU-ALL 4 |
 
-Freyming Merlebach |
+PZ SDEC O4 |
+
+PZ SDEC O5 |
+
+Freyming
+
+Merlebach |
 
 MERL ALL 1 |
 
@@ -451,8 +421,6 @@ HAM GTI |
 HAM ALL |
 
 Hombourg Haut |
-
-(vide) |
 
 HOM ALL 1 |
 
@@ -476,11 +444,27 @@ Varsberg |
 
 PZ Varsberg |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Est |
+
 Stations de pompage |
 
 De Wendel H |
 
 Forbach |
+
+(vide) |
 
 Puits Simon 5 |
 
@@ -488,13 +472,13 @@ La Houve |
 
 Creutzwald |
 
-Forage F28 |
-
 Puits 1 |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
+
+Merlebach |
 
 Puits Vouters |
 
@@ -522,15 +506,7 @@ Poste anticrues |
 
 Weihergraben |
 
-Sarre et Moselle |
-
-Ham sous Varsberg |
-
-dispositif de drainage |
-
 Stations de traitement des eaux |
-
-De Wendel H |
 
 Forbach |
 
@@ -544,7 +520,9 @@ Creutzwald |
 
 Sarre et Moselle |
 
-Freyming Merlebach |
+Freyming
+
+Merlebach |
 
 Vouters |
 
@@ -638,15 +616,7 @@ Godion |
 
 Viviers de Sin |
 
-Nord |
-
-Stations de relevage des eaux |
-
-Aniche |
-
 Somain |
-
-(vide) |
 
 Boquet |
 
@@ -656,9 +626,27 @@ Cité Dincq |
 
 GC 35 |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Nord |
+
+Stations de relevage des eaux |
+
 Anzin |
 
 Fenain |
+
+(vide) |
 
 Ramette |
 
@@ -800,6 +788,18 @@ Vieux Condé |
 
 Amaury rive gauche |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
 Sud |
 
 Canalisations |
@@ -808,19 +808,17 @@ La Grand'Combe Ouest |
 
 Laval Pradel |
 
+(vide) |
+
 Galerie du ruisseau de Lascous |
 
 Plan incliné des Oules |
 
 fossé des Oules |
 
-Canalisations |
-
 C3 |
 
 Fuveau-Gréasque |
-
-(vide) |
 
 Madame d'André |
 
@@ -854,7 +852,9 @@ Galerie Thérond |
 
 Galerie Verrerie |
 
-Le Devois de Graissessac |
+Le Devois
+
+de Graissessac |
 
 Graissessac |
 
@@ -866,7 +866,9 @@ La Vernarède |
 
 Galerie Burat |
 
-Robiac & Meyrannes |
+Robiac &
+
+Meyrannes |
 
 Bessèges |
 
@@ -900,7 +902,9 @@ Le Bousquet d'Orb |
 
 TB 250 |
 
-Trelys & Palmesalade |
+Trelys &
+
+Palmesalade |
 
 Martinet |
 
@@ -956,9 +960,27 @@ Emergence de Campagnac |
 
 Emergence du Mas de Mouly |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
+Emergences minières |
+
 C11 |
 
 Trets |
+
+(vide) |
 
 Galerie Desfarges |
 
@@ -1004,15 +1026,15 @@ La Jonche |
 
 Saint Arey |
 
-(vide) |
-
 Galerie de Combe Neveuse |
 
 Galerie de la Beaume |
 
 La Motte d'Aveillans |
 
-La Motte d'Aveillans |
+La Motte
+
+d'Aveillans |
 
 Forage de décharge |
 
@@ -1036,7 +1058,9 @@ La Ricamarie |
 
 Fendue Lyon |
 
-Peychagnard Nouvelle |
+Peychagnard
+
+Nouvelle |
 
 Prunières |
 
@@ -1076,11 +1100,7 @@ Charmes et Soyons |
 
 Soyons |
 
-G7 |
-
 G8 |
-
-G9 |
 
 G10 |
 
@@ -1140,6 +1160,22 @@ Mimet |
 
 Puits Gérard |
 
+Bassin minier |
+
+Nature de l'installation |
+
+Concession |
+
+Commune |
+
+Site |
+
+Nom de l'installation |
+
+Sud |
+
+Piézomètres |
+
 Fontsante |
 
 Tanneron/ Callian |
@@ -1164,7 +1200,7 @@ Stations de pompage |
 
 Rochebelle |
 
-St Martin de Valgalgues |
+Saint Martin de Valgalgues |
 
 (vide) |
 
@@ -1194,7 +1230,7 @@ Stations de traitement des eaux |
 
 Rochebelle |
 
-St Martin de Valgalgues |
+Saint Martin de Valgalgues |
 
 Destival |
 
@@ -1206,6 +1242,26 @@ Galerie de la Mer complétée par 3 sondages en mer |
 
 Montrambert |
 
-Le Chambon Feugerolles |
+Le Chambon
+
+Feugerolles |
 
 Montrambert |
+
+La Ronze |
+
+Chessy-les-Mines |
+
+Chessy |
+
+Chessy |
+
+Dépôt |
+
+Escaro |
+
+Escaro |
+
+San Culgat |
+
+San Culgat |
