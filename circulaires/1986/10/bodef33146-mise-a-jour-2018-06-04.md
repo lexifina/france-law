@@ -1,0 +1,131 @@
+# CIRCULAIRE N° 960/DEF/CMa/1 relative au remboursement des prestations accessoires par les titulaires de logements de représentation.
+
+- État : en vigueur (publiée)
+- NOR : BODEF33146
+- Numéro : BODEF33146
+- Date de signature : 1986-10-03
+- Mise en ligne : 2009-04-30
+- Auteur : Ministère des armées (EMM)
+- Signataire : Pour le ministre de la défense et par délégation: Le commissaire général de 1re classe, directeur central du commissariat de la marine, DURAND.
+- Destinataires : Marine nationale
+- Ministères : 4
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Solde.Solde et accessoires.Solde et accessoires. Textes d'application propres à la marine.
+- Publication JO / BO : BOC, p. 6056. BOEM 421.3
+- Remplace : Circulaire n° 249/DEF/CMa/1 du 29 février 1980 (n.i. BO).
+- Annexes : 4
+- Identifiant : 11586 (PDF officiel : pdf/2009/04/cir_11586.pdf)
+
+## Résumé
+
+L'instruction citée en référence fixe les bases de calcul des prestations accessoires (1) (cf. ANNEXE I) au remboursement desquelles sont tenus les titulaires de logements de représentation énumérés par l'arrêté du 11 mai 1965 (BOC/SC, p. 1208) ; abrogé par  arrêté du 18 janvier 2001 (BOC, p. 1061) modifié.
+La présente circulaire précise, en ce qui concerne la marine, les modalités d'application des dispositions de cette instruction.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Marine nationale
+CIRCULAIRE N° 960/DEF/CMa/1
+relative au remboursement des prestations accessoires par les titulaires de logements de représentation.
+Du 3 octobre 1986
+
+DIRECTION CENTRALE DU COMMISSARIAT DE LA MARINE : Bureau de la solde.
+CIRCULAIRE N° 960/DEF/CMa/1 relative au remboursement des prestations accessoires par les
+titulaires de logements de représentation.
+Du 3 octobre 1986
+Référence :
+Instruction 11805 /DEF/DAJ/AA/1 du 03 décembre 1979 (BOC, p. 5288 ; BOEM 502*).
+Pièce(s) Jointe(s) :
+Quatre annexes.
+Texte abrogé :
+Circulaire n° 249/DEF/CMa/1 du 29 février 1980 (n.i. BO).
+Classement dans l'édition méthodique : BOEM 523-0.3.
+Référence de publication : BOC, p. 6056.
+1. L'instruction citée en référence fixe les bases de calcul des prestations accessoires (1) (cf. ANNEXE I) au
+remboursement desquelles sont tenus les titulaires de logements de représentation énumérés par l'arrêté du 11
+mai 1965 (BOC/SC, p. 1208) ; abrogé par arrêté du 18 janvier 2001 (BOC, p. 1061) modifié.
+La présente circulaire précise, en ce qui concerne la marine, les modalités d'application des dispositions de
+cette instruction.
+2. LOGEMENTS CONCERNÉS.
+Sont seuls concernés par la présente circulaire les logements des préfets maritimes, à l'exclusion de tous autres
+(2).
+3. CALCUL DE LA REDEVANCE.
+ 3.1. En vue de déterminer les coefficients de majoration ou de minoration dont sa situation particulière
+entraîne l'application, chaque titulaire d'un logement de représentation remplit, lors de sa prise de fonctions
+puis chaque année avant le 15 novembre ainsi qu'à chaque changement de sa situation, une déclaration du
+modèle ci-joint, précisant le nombre de personnes occupant le logement (cf. ANNEXE II).
+Le nombre de pièces pris en considération pour la détermination, de la redevance «chauffage» (annexe III) est
+celui que mentionne l'arrêté interministériel portant concession du logement de représentation.
+ 3.2. Le prix de l'unité de compte de chacune des prestations est fixé annuellement par une circulaire prise
+sous le présent timbre.
+4. RECOUVREMENT DES REDEVANCES.
+ 4.1. Le montant des redevances est déterminé par l'unité qui administre l'officier général intéressé. L'état
+correspondant est soumis à la vérification du service de la solde puis présenté à la signature du titulaire du
+logement.
+
+ 4.2. Ce dernier est invité, lors de son entrée dans les lieux, à signer une autorisation de prélèvement sur sa
+solde des redevances qui seront mises à sa charge (cf. ANNEXE IV).
+Cette autorisation, établie conformément au modèle ci-joint, est conservée avec l'état de calcul par l'unité qui,
+au moyen d'un bulletin de renseignements approprié, fait prélever mensuellement par le centre
+mécanographique du commissariat, sur la solde de l'officier en cause, une somme égale au douzième du
+montant total annuel des redevances.
+Pour le ministre de la défense et par délégation:
+Le commissaire général de 1re classe, directeur central du commissariat de la marine,
+DURAND.
+(1) Fourniture de l'eau, ainsi que de l'énergie nécessaire:
+- à l'éclairage et au fonctionnement des équipements électro-ménagers ;
+- à la cuisson des aliments et à la production d'eau chaude ;
+- au chauffage.
+Cette fourniture est assurée par les services compétents du port.
+(2) La gestion des logements du chef d'état-major et de l'inspecteur général de la marine est de la compétence de la direction
+de l'administration générale.
+
+ANNEXE I.
+BASES DE CALCUL DES REDEVANCES.
+Fonctions.
+Source d'énergie de
+référence.
+Quantité
+annuelle.
+Majoration ou minoration par
+personne en plus ou en moins.
+1
+2
+3
+4
+A Eclairage et fonctionnement des
+équipements électro-ménagers.
+Electricité.
+4750 kw/h
+5 p. 100
+B Cuisson des aliments et production d'eau
+chaude.
+Gaz.
+7380 kw/h
+10 p. 100
+C Fourniture d'eau.
+Eau.
+100 m3
+10 p. 100
+D Chauffage.
+Fuel domestique.
+24 hl
+Voir tableau ANNEXE III.
+Nota.
+1. Les quantités de la colonne 3 s'appliquent à un logement type de 4 pièces occupé par 3 personnes.
+2. Pour les fonctions A, B et C, les quantités de la colonne 3 sont majorées ou minorées des
+pourcentages de la colonne 4 lorsque le nombre réel d'occupants est supérieur ou inférieur à 3
+personnes.
+Les majorations sont limitées à 4 personnes supplémentaires soit 7 personnes au total.
+
+ANNEXE II.
+Figure 1. Déclaration.
+
+ANNEXE III.
+Figure 2. Coefficients de majoration applicables à la fonction "Chauffage".
+
+ANNEXE IV.
+Figure 3.
