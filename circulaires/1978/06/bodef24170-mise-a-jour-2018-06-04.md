@@ -1,0 +1,86 @@
+# INSTRUCTION N° 4535/DEF/DCE/5/PM/581 relative à l'attribution de la prime de qualification aux sous-officiers du service des essences des armées.
+
+- État : en vigueur (publiée)
+- NOR : BODEF24170
+- Numéro : BODEF24170
+- Date de signature : 1978-06-21
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation :L'ingénieur général militaire de 1re classe, directeur central des essences,ANSEL.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  L'ingénieur général militaire de 1re classe, directeur central des essences,  L'ingénieur général militaire de 1re classe, directeur central des essences,  L'ingénieur général militaire de 1re classe, directeur central des essences,   ANSEL.  ANSEL.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Service des essences des armées; Personnel militaire, primes; sous-officiers
+- Publication JO / BO : BOC, p. 2702.
+- Annexes : 0
+- Identifiant : 16389 (PDF officiel : pdf/2009/04/cir_16389.pdf)
+
+## Résumé
+
+Les matériels en service sont ceux qui, n'étant pas en approvisionnement, sont détenus par les services particuliers, établissements, formations et unités pour l'exécution de leur mission.On ne doit toutefois pas comprendre sous la dénomination « matériels en service » ceux qui, tout en étant affectés au département de l'air, sont utilisés par des organismes ou des personnes physiques étrangers à ce département ; de tels matériels sont classés dans la catégorie « en attente », définie ci-après :  Les matériels en service sont ceux qui, n'étant pas en approvisionnement, sont détenus par les services particuliers, établissements, formations et unités pour l'exécution de leur mission.  Les matériels en service sont ceux qui, n'étant pas en approvisionnement, sont détenus par les services particuliers, établissements, formations et unités pour l'exécution de leur mission.  Les matériels en service sont ceux qui, n'étant pas en approvisionnement, sont détenus par les services particuliers, établissements, formations et unités pour l'exécution de leur mission.   On ne doit toutefois pas comprendre sous la dénomination « matériels en service » ceux qui, tout en étant affectés au département de l'air, sont utilisés par des organismes ou des personnes physiques étrangers à ce département ; de tels matériels sont classés dans la catégorie « en attente », définie ci-après :  On ne doit toutefois pas comprendre sous la dénomination « matériels en service » ceux qui, tout en étant affectés au département de l'air, sont utilisés par des organismes ou des personnes physiques étrangers à ce département ; de tels matériels sont classés dans la catégorie « en attente », définie ci-après :
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMÉES
+Édition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+INSTRUCTION N° 4535/DEF/DCE/5/PM/581
+relative à l'attribution de la prime de qualification aux sous-officiers du service des essences des armées.
+Du 21 juin 1978
+
+DIRECTION CENTRALE DES ESSENCES DES ARMÉES : Bureau personnels.
+INSTRUCTION N° 4535/DEF/DCE/5/PM/581 relative à l'attribution de la prime de qualification aux
+sous-officiers du service des essences des armées.
+Du 21 juin 1978
+Classement dans l'édition méthodique : BOEM 503.1.6.3
+Référence de publication : BOC, p. 2702.
+Le décret 76-1191 du 23 décembre 1976 (1) institue une prime de qualification en faveur de sous-officiers
+comptant au moins quinze ans de services militaires, classés en échelle de solde no 4 et titulaires d'un diplôme
+de qualification supérieure.
+L'instruction no 3612/DEF/DCE/5/PM du 19 mai 1978 (2) fixe les conditions dans lesquelles peut être attribué
+le diplôme de qualification supérieure essences aux sous-officiers du service des essences des armées
+totalisant quinze ans de services militaires et classés en échelle de solde no 4.
+La présente instruction a pour objet de préciser les modalités d'attribution de la prime de qualification.
+1. CONDITIONS D'ATTRIBUTION.
+ 1.1. 
+La prime de qualification est attribuée aux sous-officiers du service des essences des armées titulaires du
+diplôme de qualification supérieure essences, dans la limite d'un contingent annuel alloué au titre du budget
+annexe des essences.
+ 1.2. 
+Les primes attribuées aux sous-officiers du service des essences des armées se trouvant en position de service
+détaché ou rémunérés hors budget (HBS et HBNS) sont accordées en surnombre. Lorsque les personnels en
+cause sont à nouveau repris en compte sur le budget annexe des essences ils conservent le bénéfice de la
+prime de qualification qui leur a été allouée.
+Si à l'occasion de cette réintégration le nombre des détenteurs de primes excède le contingent arrêté pour le
+service des essences des armées aucune attribution nouvelle ne pourra être faite avant que le surnombre ne
+soit résorbé.
+2. PROCÉDURE D'ATTRIBUTION.
+La prime de qualification est allouée aux sous-officiers du service des essences des armées titulaires du
+diplôme de qualification supérieure essences dans la limite du contingent accordé et dans l'ordre de leur
+inscription sur la liste d'attribution dudit diplôme.
+Les décisions portant attribution de la prime de qualification sont prononcées par le ministre chargé des
+armées (direction centrale des essences), et publiées au Bulletin officiel des armées.
+Les premières décisions prendront effet au 21 mars 1978, les décisions ultérieures le premier jour d'un mois.
+
+3. RETRAIT DE LA PRIME DE QUALIFICATION.
+Le droit à la prime de qualification est retiré aux sous-officiers du service des essences des armées qui ont fait
+l'objet d'une décision de retrait du diplôme de qualification supérieure essences et à ceux qui viennent à être
+placés en position de retraite ou de non-activité, à l'exception pour ces derniers, de ceux qui se trouvent :
+- en congé de longue durée pour maladie ;
+- en congé pour raison de santé ;
+- en congé de longue maladie ;
+- en raison exceptionnel dans l'intérêt du service d'une durée supérieure à six mois.
+Sont également exclus du bénéfice de la prime de qualification les sous-officiers du service des essences des
+armées se trouvant en position d'activité mais placés en congé exceptionnel pour convenances personnelles
+d'une durée maximum de six mois (art. 3-3o du décret 74-338 du 22 avril 1974 ; BOC, p. 901).
+Le droit à la prime est acquis de nouveau lorsque cesse le motif d'exclusion.
+4. CONDITIONS DE PAIEMENT DE LA PRIME.
+La prime de qualification, accessoire permanent de la solde, est soumise aux règles d'allocation de la solde et
+perçue dans les mêmes conditions.
+Le montant de la prime payée aux sous-officiers en service outre-mer est égale à la contre-valeur en numéraire
+local du montant exprimé en francs métropolitains sans application de l'index de correction.
+La prime de qualification fait partie du revenu imposable.
+Pour le ministre de la défense et par délégation :
+L'ingénieur général militaire de 1re classe, directeur central des essences,
+ANSEL.
+(1) BOC, p. 4411.
+(2) Abrogée par l'instruction n°11075/DEF/DCSEA/SDA/2/PM/NOA du 6 mai 1997 (BOC, 1999, p. 1253).
