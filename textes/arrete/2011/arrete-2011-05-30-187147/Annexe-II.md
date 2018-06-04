@@ -4,1175 +4,1011 @@ TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS
 
 ADMINISTRATIVES PARITAIRES LOCALES
 
-Adjoints administratifs
+Adjoints administratifs du ministère de la défense
 
-AUTORITÉ ASSURANT
+AUTORITÉ
 
-la présidence de la CAPL
+ASSURANT
 
-|
+la présidence
 
-COMPÉTENCE
+de la CAPL |
 
-|
+COMPÉTENCE |
 
-GRADES
+GRADES |
 
-|
+REPRÉSENTANTS |
 
-REPRÉSENTANTS
+Du personnel |
 
-|
+De l'administration |
 
-Du personnel
+Titulaires |
 
-|
+Suppléants |
 
-De l'administration
+Au regard des effectifs du corps, la part de femmes représentées est de 77,87 % et la part d'hommes représentés est de 22,13 %. |
 
-|
+CAPL/ adjoint administratif
 
-Titulaires
-
-|
-
-Suppléants
-
-|
-
-CAPL/
-
-adjoint administratif
-
-Administration centrale
+Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale
+Le chef du service parisien de soutien de l'administration centrale. |
 
-|
+Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009.
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale
+Personnel mis à disposition et administré par les services de l'administration centrale.
 
-Personnel mis à disposition et administré par les services de l'administration centrale
+Agents en fonctions à la direction générale de l'armement, affectés :
 
-Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et DGA essais propulseurs
+-au sein du centre de proximité des ressources humaines ;
 
-|
+-au sein du service des achats d'armement ;
 
-Adjoint administratif principal de 1re classe
+-au sein de l'établissement de contrôle de Cherbourg ;
 
-Adjoint administratif principal de 2e classe
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
 
-Adjoint administratif de 1re classe
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif de 2e classe
+2 |
 
-|
+2 |
 
-2
+7 représentants
 
-2
+titulaires
 
-3
+et
 
-2
+7 représentants
 
-|
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-2
+3 |
 
-3
+3 |
 
-2
+Adjoint administratif |
 
-|
+2 |
 
-9 représentants titulaires et 9 représentants suppléants
+2 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 78,17 % et la part d'hommes représentés est de 21,83 %. |
 
-CAPL/
+CAPL/ adjoint administratif.
 
-adjoint administratif
-
-Saint-Germain-en-Laye
+Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
-
-|
+Le directeur du centre ministériel de gestion (CMG) de Saint-Germain-en-Laye. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95).
 
-Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
+Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
 
-Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
+
+Agents en fonctions dans les organismes du service historique de la défense n'appartenant pas à l'administration centrale, à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau.
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Institution nationale des Invalides
+-Institution nationale des Invalides ;
 
--musée de l'armée
+-musée de l'armée ;
 
--musée de l'air et de l'espace
+-musée de l'air et de l'espace ;
 
--musée de la marine
+-musée de la marine ;
 
--établissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense ;
 
--Office national des anciens combattants
+-Office national des anciens combattants et victimes de guerre ;
 
--Ecole polytechnique
+-Ecole polytechnique ;
 
--Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure des techniques avancées ;
 
--Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense ;
 
--Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale ;
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+-Conseil national de l'ordre des communes Compagnon de la Libération . |
 
-|
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif principal de 1re classe
+2 |
 
-Adjoint administratif principal de 2e classe
+2 |
 
-Adjoint administratif de 1re classe
+7 représentants
 
-Adjoint administratif de 2e classe
+titulaires
 
-|
+et
 
-2
+7 représentants
 
-2
+suppléants |
 
-3
+Adjoint administratif principal de 2e classe |
 
-2
+3 |
 
-|
+3 |
 
-2
+Adjoint administratif |
 
-2
+2 |
 
-3
+2 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 86,66 % et la part d'hommes représentés est de 13,34 %. |
 
-|
+CAPL/ adjoint administratif.
 
-9 représentants titulaires et 9 représentants suppléants
-
-|
-
-CAPL/
-
-adjoint administratif
-
-Bordeaux
+Bordeaux.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Bordeaux
-
-|
+Le directeur du CMG de Bordeaux. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87).
 
-Agents en fonctions au sein de DGA essais de missiles
+Agents en fonctions :
 
-Agents en fonctions au sein de l'établissement public suivant :
+-au sein de DGA essais de missiles ;
 
--Institut supérieur de l'aéronautique
+-au sein du centre des archives du personnel militaire de Pau.
 
-|
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
 
-Adjoint administratif principal de 1re classe
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif principal de 2e classe
+2 |
 
-Adjoint administratif de 1re classe
+2 |
 
-Adjoint administratif de 2e classe
+5 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+5 représentants
 
-2
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-|
+2 |
 
-2
+2 |
 
-2
+Adjoint administratif |
 
-2
+1 |
 
-2
+1 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 84,17 % et la part d'hommes représentés est de 15,83 %. |
 
-8 représentants titulaires et 8 représentants suppléants
+CAPL/ adjoint administratif
 
-|
-
-CAPL/
-
-adjoint administratif
-
-Lyon
+Lyon.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Lyon
-
-|
+Le directeur du CMG de Lyon. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74).
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes
+-centre du service national de Nîmes ;
 
--centre du service national Nice
+-centre du service national de Nice ;
 
--centre du service national Marseille
+-centre du service national de Marseille ;
 
--centre du service national Perpignan
+-centre du service national de Perpignan.
 
-Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
-|
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif principal de 1re classe
+2 |
 
-Adjoint administratif principal de 2e classe
+2 |
 
-Adjoint administratif de 1re classe
+5 représentants
 
-Adjoint administratif de 2e classe
+titulaires
 
-|
+et
 
-2
+5 représentants
 
-2
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-2
+2 |
 
-|
+2 |
 
-2
+Adjoint administratif |
 
-2
+1 |
 
-2
+1 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 78,04 % et la part d'hommes représentés est de 21,96 %. |
 
-|
+CAPL/ adjoint administratif.
 
-8 représentants titulaires et 8 représentants suppléants
-
-|
-
-CAPL/
-
-adjoint administratif
-
-Metz
+Metz.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Metz
-
-|
+Le directeur du CMG de Metz. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90).
 
-Agents en fonctions au sein du service des essences des armées
+Agents en fonctions au sein du service des essences des armées.
 
-Agents en fonctions en Allemagne
+Agents en fonctions en Allemagne. |
 
-|
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif principal de 1re classe
+2 |
 
-Adjoint administratif principal de 2e classe
+2 |
 
-Adjoint administratif de 1re classe
+7 représentants
 
-Adjoint administratif de 2e classe
+titulaires
 
-|
+et
 
-2
+7 représentants
 
-2
+suppléants |
 
-3
+Adjoint administratif principal de 2e classe |
 
-2
+3 |
 
-|
+3 |
 
-2
+Adjoint administratif |
 
-2
+2 |
 
-3
+2 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 81,83 % et la part d'hommes représentés est de 18,17 %. |
 
-|
+CAPL/ adjoint administratif.
 
-9 représentants titulaires et 9 représentants suppléants
-
-|
-
-CAPL/
-
-adjoint administratif
-
-Rennes
+Rennes.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Rennes
-
-|
+Le directeur du CMG de Rennes. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85).
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure des techniques avancées Bretagne ;
 
--service hydrographique et océanographique de la marine
+-Service hydrographique et océanographique de la marine ;
 
-|
+-Ecole navale. |
 
-Adjoint administratif principal de 1re classe
+Adjoint administratif principal de 1re classe |
 
-Adjoint administratif principal de 2e classe
+2 |
 
-Adjoint administratif de 1re classe
+2 |
 
-Adjoint administratif de 2e classe
+7 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+7 représentants
 
-3
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-|
+3 |
 
-2
+3 |
 
-2
+Adjoint administratif |
 
-3
+2 |
 
-2
+2 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 82,20 % et la part d'hommes représentés est de 17,80 %. |
 
-9 représentants titulaires et 9 représentants suppléants
+CAPL/ adjoint administratif.
 
-|
-
-CAPL/
-
-adjoint administratif
-
-Toulon
+Toulon.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Toulon
-
-|
+Le directeur du CMG de Toulon. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
--DGA essais en vol
+-DGA essais en vol ;
 
--service de la qualité
+-service de la qualité ;
 
--centre technique des systèmes d'information
+-centre technique des systèmes d'information ;
 
--service des achats d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
--service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service extérieur de la Communication ;
 
--service extérieur de la communication
+-centre de la sécurité de défense et des systèmes d'information ;
 
--centre de la sécurité de défense et des systèmes d'information
+-DGA techniques navales. |
 
--centre de prestations de proximité des ressources humaines
+Adjoint administratif principal de 1re classe |
 
--DGA techniques navales
+2 |
 
-|
+2 |
 
-Adjoint administratif principal de 1re classe
+6 représentants
 
-Adjoint administratif principal de 2e classe
+titulaires
 
-Adjoint administratif de 1re classe
+et
 
-Adjoint administratif de 2e classe
+6 représentants
 
-|
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-2
+Adjoint administratif |
 
-|
+2 |
 
-2
+2 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 79,02 % et la part d'hommes représentés est de 20,98 %. |
 
-2
+CAPL/ adjoint administratif.
 
-2
-
-|
-
-8 représentants titulaires et 8 représentants suppléants
-
-|
-
-CAPL/
-
-adjoints administratifs
-
-CNMSS
+CNMSS.
 
 Présidence :
 
-Le directeur de la Caisse nationale militaire de sécurité sociale
+Le directeur de la CNMSS. |
 
-|
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
 
-Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS)
+Adjoint administratif principal de 1re classe |
 
-|
+2 |
 
-Adjoint administratif principal de 1re classe
+2 |
 
-Adjoint administratif principal de 2e classe
+6 représentants
 
-Adjoint administratif de 1re classe
+titulaires
 
-Adjoint administratif de 2e classe
+et
 
-|
+6 représentants
 
-2
+suppléants |
 
-2
+Adjoint administratif principal de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-|
+Adjoint Administratif |
 
-2
+2 |
 
-2
-
-2
-
-2
-
-|
-
-8 représentants titulaires et 8 représentants suppléants
-
-|
+2 |
 
 Agents techniques du ministère de la défense
 
-AUTORITÉ ASSURANT
+AUTORITÉ
 
-la présidence de la CAPL
+ASSURANT
 
-|
+la présidence de la CAPL |
 
-COMPÉTENCE
+COMPÉTENCE |
 
-|
+GRADES |
 
-GRADES
+REPRÉSENTANTS |
 
-|
+Du personnel |
 
-REPRÉSENTANTS
+De l'administration |
 
-|
+Titulaires |
 
-Du personnel
+Suppléants |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 16,18 % et la part d'hommes représentés est de 83,82 %. |
 
-De l'administration
+CAPL/ ATMD.
 
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
-
-CAPL/ ATMD
-
-Administration centrale
+Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale
+Le chef du service parisien de soutien de l'administration centrale |
 
-|
+Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale
+Personnel mis à disposition et administré par les services de l'administration centrale.
 
-Personnel mis à disposition et administré par les services de l'administration centrale
+Agents en fonctions à la direction générale de l'armement, affectés :
 
-Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et DGA essais propulseurs
+-au sein du centre de proximité des ressources humaines ;
 
-|
+-service des achats d'armement ;
 
-Agent technique principal de 1re classe
+-au sein de l'établissement de contrôle de Cherbourg ;
 
-Agent technique principal de 2e classe
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
 
-Agent technique 1re classe
+Agent technique principal de 1re classe |
 
-Agent technique 2e classe
+1 |
 
-|
+1 |
 
-1
+4 représentants
 
-2
+titulaires
 
-2
+et
 
-2
+4 représentants
 
-|
+suppléants |
 
-1
+Agent technique principal de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-2
+Agent technique |
 
-|
+1 |
 
-7 représentants titulaires et 7 représentants suppléants
+1 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 23,11 % et la part d'hommes représentés est de 76,89 %. |
 
-CAPL/ ATMD
+CAPL/ ATMD.
 
-Saint-Germain-en-Laye
+Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
-
-|
+Le directeur du CMG de Saint-Germain-en-Laye. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val d'Oise (95).
 
-Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
+Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
 
-Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
+
+Agents en fonctions dans les organismes du service historique de la défense n'appartenant pas à l'administration centrale, à l'exception des agents en fonction au sein du centre des archives du personnel militaire de Pau.
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Institution nationale des Invalides
+-Institution nationale des Invalides ;
 
--musée de l'armée
+-musée de l'armée ;
 
--musée de l'air et de l'espace
+-musée de l'air et de l'espace ;
 
--musée de la marine
+-musée de la marine ;
 
--établissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense ;
 
--Office national des anciens combattants
+-Office national des anciens combattants et victimes de guerre ;
 
--Ecole polytechnique
+-Ecole polytechnique ;
 
--Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure des techniques avancées ;
 
--Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense ;
 
--Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale ;
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+-Conseil national de l'ordre des communes Compagnon de la Libération . |
 
-|
+Agent technique principal de 1re classe |
 
-Agent technique principal de 1re classe
+1 |
 
-Agent technique principal de 2e classe
+1 |
 
-Agent technique 1re classe
+4 représentants
 
-Agent technique 2e classe
+titulaires
 
-|
+et
 
-2
+4 représentants
 
-2
+suppléants |
 
-2
+Agent technique principal de 2e classe |
 
-2
+2 |
 
-|
+2 |
 
-2
+Agent technique |
 
-2
+1 |
 
-2
+1 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 25,36 % et la part d'hommes représentés est de 74,64 %. |
 
-|
+CAPL/ ATMD.
 
-8 représentants titulaires et 8 représentants suppléants
-
-|
-
-CAPL/ ATMD
-
-Bordeaux
+Bordeaux.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Bordeaux
-
-|
+Le directeur du CMG de Bordeaux |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87).
 
-Agents en fonctions au sein de DGA essais de missiles
+Agents en fonctions :
 
-Agents en fonctions au sein de l'établissement public suivant :
+-au sein de DGA essais de missiles ;
 
--Institut supérieur de l'aéronautique
+-au sein du centre des archives du personnel militaire de Pau.
 
-|
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
 
-Agent technique principal de 1re classe
+Agent technique principal de 1re classe |
 
-Agent technique principal de 2e classe
+1 |
 
-Agent technique 1re classe
+1 |
 
-Agent technique 2e classe
+4 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+4 représentants
 
-2
+suppléants |
 
-2
+Agent technique principal de 2e classe |
 
-|
+2 |
 
-2
+2 |
 
-2
+Agent technique |
 
-2
+1 |
 
-2
+1 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 19,41 % et la part d'hommes représentés est de 80,59 %. |
 
-8 représentants titulaires et 8 représentants suppléants
-
-|
-
-CAPL/ ATMD
+CAPL/ ATMD.
 
 Lyon
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Lyon
-
-|
+Le directeur du CMG de Lyon |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74).
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes
+-centre du service national de Nîmes ;
 
--centre du service national Nice
+-centre du service national de Nice ;
 
--centre du service national Marseille
+-centre du service national de Marseille ;
 
--centre du service national Perpignan
+-centre du service national de Perpignan.
 
-Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
-|
+Agent technique principal de 1re classe |
 
-Agent technique principal de 1re classe
+1 |
 
-Agent technique principal de 2e classe
+1 |
 
-Agent technique 1re classe
+4 représentants
 
-Agent technique 2e classe
+titulaires
 
-|
+et
 
-2
+4 représentants
 
-2
+suppléants |
 
-2
+Agent technique principal de 2e classe |
 
-2
+2 |
 
-|
+2 |
 
-2
+Agent technique |
 
-2
+1 |
 
-2
+1 |
 
-2
+Au regard des effectifs du corps, la part de femmes représentées est de 19,39 % et la part d'hommes représentés est de 80,61 %. |
 
-|
+CAPL/ ATMD.
 
-7 représentants titulaires et 7 représentants suppléants
-
-|
-
-CAPL/ ATMD
-
-Metz
+Metz.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Metz
-
-|
+Le directeur du CMG de Metz. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de
 
-Agents en fonctions au sein du service des essences des armées
+Belfort (90).
 
-Agents en fonctions en Allemagne
+Agents en fonctions au sein du service des essences des armées.
 
-|
+Agents en fonctions en Allemagne. |
 
-Agent technique principal de 1re classe
+Agent technique principal de 1re classe |
 
-Agent technique principal de 2e classe
+1 |
 
-Agent technique 1re classe
+1 |
 
-Agent technique 2e classe
+4 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+4 représentants
 
-2
+suppléants |
 
-2
+Agent technique principal de 2e classe |
 
-|
+2 |
 
-2
+2 |
 
-2
+Agent technique |
 
-2
+1 |
 
-2
+1 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 29,09 % et la part d'hommes représentés est de 70,91 %. |
 
-8 représentants titulaires et 8 représentants suppléants
+CAPL/ ATMD.
 
-|
-
-CAPL/ ATMD
-
-Rennes
+Rennes.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Rennes
-
-|
+Le directeur du CMG de Rennes. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85).
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure des techniques avancées Bretagne ;
 
--service hydrographique et océanographique de la marine
+-Service hydrographique et océanographique de la marine ;
 
-|
+-Ecole navale. |
 
-Agent technique principal de 1re classe
+Agent technique principal de 1re classe |
 
-Agent technique principal de 2e classe
+1 |
 
-Agent technique 1re classe
+1 |
 
-Agent technique 2e classe
+6 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+6 représentants
 
-2
+suppléants |
 
-2
+Agent technique principal de 2e classe |
 
-|
+3 |
 
-2
+3 |
 
-2
+Agent technique |
 
-2
+2 |
 
-2
+2 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 24,60 % et la part d'hommes représentés est de 75,40 %. |
 
-8 représentants titulaires et 8 représentants suppléants
+CAPL/ ATMD.
 
-|
-
-CAPL/ ATMD
-
-Toulon
+Toulon.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Toulon
-
-|
+Le directeur du CMG de Toulon. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), Aude (11), Bouches-du-Rhône (13), Gard (30), Hérault (34), Lozère (48), Pyrénées-Orientales (66), Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
--DGA essais en vol
+-DGA essais en vol ;
 
--service de la qualité
+-service de la qualité ;
 
--centre technique des systèmes d'information
+-centre technique des systèmes d'information ;
 
--service des achats d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
--service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service extérieur de la Communication ;
 
--service extérieur de la communication
+-centre de la sécurité de défense et des systèmes d'information ;
 
--centre de la sécurité de défense et des systèmes d'information
+-DGA techniques navales.
 
--centre de prestations de proximité des ressources humaines
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
 
--DGA techniques navales
+Agent technique principal de 1re classe |
 
-Agents en fonctions dans les organismes implantés dans les départements
+1 |
 
-Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS)
+1 |
 
-|
+4 représentants
 
-Agent technique principal de 1re classe
+titulaires
 
-Agent technique principal de 2e classe
+et
 
-Agent technique 1re classe
+4 représentants
 
-Agent technique 2e classe
+suppléants |
 
-|
+Agent technique principal de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-2
+Agent technique |
 
-2
+1 |
 
-|
+1 |
 
-2
+Aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense
 
-2
+AUTORITÉ
 
-2
+ASSURANT
 
-2
+la présidence de la CAPL |
 
-|
+COMPÉTENCE |
 
-8 représentants titulaires et 8 représentants suppléants
+GRADES |
 
-|
+REPRÉSENTANTS |
 
-Aides-soignants et agents des services hospitaliers qualifiés civils
+Du personnel |
 
-AUTORITÉ ASSURANT
+De l'administration |
 
-la présidence de la CAPL
+Titulaires |
 
-|
+Suppléants |
 
-COMPÉTENCE
-
-|
-
-GRADES
-
-|
-
-REPRÉSENTANTS
-
-|
-
-Du personnel
-
-|
-
-De l'administration
-
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 85,77 % et la part d'hommes représentés est de 14,23 %. |
 
 CAPL/ ASASHQC
 
-Saint-Germain-en-Laye
+Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du centre
+Le directeur du CMG de Saint-Germain-en-Laye. |
 
-ministériel de gestion
+Territoire métropole, outre-mer
 
-de Saint-Germain-en-Laye
+et à l'étranger, sauf Allemagne. |
 
-|
+Aide-soignant civil de classe exceptionnelle |
 
-Territoire métropole, outre-mer et étranger sauf en Allemagne
+2 |
 
-|
+2 |
 
-Aide-soignant civil de classe exceptionnelle
+7 représentants
 
-Aide-soignant civil de classe supérieure
+titulaires
 
-Aide-soignant civil de classe normale
+et
 
-Agent des services hospitaliers qualifié
+7 représentants
 
-|
+suppléants |
 
-2
+Aide-soignant civil |
 
-2
+2 |
 
-2
+2 |
 
-2
+Agent des services hospitaliers qualifié civil de classe supérieure |
 
-|
+1 |
 
-2
+1 |
 
-2
+Agent des services hospitaliers qualifié civil de classe normale |
 
-2
+2 |
 
-2
+2 |
 
-|
+Techniciens supérieurs d'études et de fabrications du ministère de la défense
 
-8 représentants titulaires et 8 représentants suppléants
+AUTORITÉ
 
-|
+ASSURANT
 
-Techniciens supérieurs d'études et de fabrications
+la présidence de la CAPL |
 
-AUTORITÉ ASSURANT
+COMPÉTENCE |
 
-la présidence de la CAPL
+GRADES |
 
-|
+REPRÉSENTANTS |
 
-COMPÉTENCE
+Du personnel |
 
-|
+De l'administration |
 
-GRADES
+Titulaires |
 
-|
-
-REPRÉSENTANTS
+Suppléants |
 
 |
 
-Du personnel
+Au regard des effectifs du corps, la part de femmes représentées est de 16,17 % et la part d'hommes représentés est de 83,83 %. |
 
-|
+CAPL/ TSEF.
 
-De l'administration
-
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
-
-CAPL/ TSEF
-
-Administration centrale
+Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale
+Le chef du service parisien de soutien de l'administration centrale. |
 
-|
+Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale
+Personnel mis à disposition et administré par les services de l'administration centrale.
 
-Personnel mis à disposition et administré par les services de l'administration centrale
+Agents en fonctions à la direction générale de l'armement, affectés :
 
-Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et DGA essais propulseurs
+-au sein du centre de proximité des ressources humaines ;
 
-|
+-service des achats d'armement ;
 
-Technicien supérieur d'études et de fabrications de 1re classe
+-au sein de l'établissement de contrôle de Cherbourg ;
 
-Technicien supérieur d'études et de fabrications de 2e classe
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
 
-Technicien supérieur d'études et de fabrications
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-|
+2 |
 
-2
+2 |
 
-2
+6 représentants
 
-2
+titulaires
 
-|
+et
 
-2
+6 représentants
 
-2
+suppléants |
 
-2
+Technicien supérieur d'études et de fabrications de 2e classe |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
+2 |
 
-|
+Technicien supérieur d'études et de fabrications de 3e classe |
+
+2 |
+
+2 |
+
+Au regard des effectifs du corps, la part de femmes représentées est de 11,69 % et la part d'hommes représentés est de 88,31 %. |
 
 CAPL/ TSEF
 
@@ -1180,73 +1016,73 @@ Saint-Germain-en-Laye
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
-
-|
+Le directeur du CMG de Saint-Germain-en-Laye |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95).
 
-Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
+Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
 
-Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
+
+Agents en fonctions dans les organismes du service historique de la défense n'appartenant pas à l'administration centrale, à l'exception des agents en fonction au sein du centre des archives du personnel militaire de Pau.
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Institution nationale des Invalides
+-Institution nationale des Invalides ;
 
--musée de l'armée
+-musée de l'armée ;
 
--musée de l'air et de l'espace
+-musée de l'air et de l'espace ;
 
--musée de la marine
+-musée de la marine ;
 
--Etablissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense ;
 
--Office national des anciens combattants
+-Office national des anciens combattants et victimes de guerre ;
 
--Ecole polytechnique
+-Ecole polytechnique ;
 
--Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure des techniques avancées ;
 
--Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense ;
 
--Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale ;
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+-Conseil national de l'ordre des communes Compagnon de la Libération . |
 
-|
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Technicien supérieur d'études et de fabrications de 1re classe
+2 |
 
-Technicien supérieur d'études et de fabrications de 2e classe
+2 |
 
-Technicien supérieur d'études et de fabrications
+6 représentants
 
-|
+titulaires
 
-2
+et
 
-2
+6 représentants
 
-2
+suppléants |
 
-|
+Technicien supérieur d'études et de fabrications de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-2
+Technicien supérieur d'études et de fabrications de 3e classe |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
+2 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 13,19 % et la part d'hommes représentés est de 86,81 %. |
 
 CAPL/ TSEF
 
@@ -1254,49 +1090,51 @@ Bordeaux
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Bordeaux
-
-|
+Le directeur du CMG de Bordeaux |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64),
 
-Agents en fonctions au sein de DGA essais de missiles
+Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87).
 
-Agents en fonctions au sein de l'établissement public suivant :
+Agents en fonctions :
 
--Institut supérieur de l'aéronautique
+-au sein de DGA essais de missiles ;
 
-|
+-au sein du centre des archives du personnel militaire de Pau.
 
-Technicien supérieur d'études et de fabrications de 1re classe
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
 
-Technicien supérieur d'études et de fabrications de 2e classe
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Technicien supérieur d'études et de fabrications
+2 |
 
-|
+2 |
 
-2
+6 représentants
 
-2
+titulaires
 
-2
+et
 
-|
+6 représentants
 
-2
+suppléants |
 
-2
+Technicien supérieur d'études et de fabrications de 2e classe |
 
-2
+2 |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
+Technicien supérieur d'études et de fabrications de 3e classe |
 
-|
+2 |
+
+2 |
+
+Au regard des effectifs du corps, la part de femmes représentées est de 10,83 % et la part d'hommes représentés est de 89,17 %. |
 
 CAPL/ TSEF
 
@@ -1304,55 +1142,53 @@ Lyon
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Lyon
-
-|
+Le directeur du CMG de Lyon |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74).
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
+Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes
+-centre du service national de Nîmes ;
 
--centre du service national Nice
+-centre du service national de Nice ;
 
--centre du service national Marseille
+-centre du service national de Marseille ;
 
--centre du service national Perpignan
+-centre du service national de Perpignan.
 
-Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
-|
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Technicien supérieur d'études et de fabrications de 1re classe
-
-Technicien supérieur d'études et de fabrications de 2e classe
-
-Technicien supérieur d'études et de fabrications
+2 |
 
 |
 
-2
+6 représentants
 
-2
+titulaires
 
-2
+et
+
+6 représentants
+
+suppléants |
+
+Technicien supérieur d'études et de fabrications de 2e classe |
+
+2 |
+
+|
+
+Technicien supérieur d'études et de fabrications de 3e classe |
+
+2 |
 
 |
 
-2
-
-2
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 11,30 % et la part d'hommes représentés est de 88,70 %. |
 
 CAPL/ TSEF
 
@@ -1360,47 +1196,45 @@ Metz
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Metz
-
-|
+Le directeur du CMG de Metz |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90).
 
-Agents en fonctions au sein du service des essences des armées
+Agents en fonctions au sein du service des essences des armées.
 
-Agents en fonctions en Allemagne
+Agents en fonctions en Allemagne. |
 
-|
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Technicien supérieur d'études et de fabrications de 1re classe
-
-Technicien supérieur d'études et de fabrications de 2e classe
-
-Technicien supérieur d'études et de fabrications
+2 |
 
 |
 
-2
+6 représentants
 
-2
+titulaires
 
-2
+et
+
+6 représentants
+
+suppléants |
+
+Technicien supérieur d'études et de fabrications de 2e classe |
+
+2 |
+
+|
+
+Technicien supérieur d'études et de fabrications de 3e classe |
+
+2 |
 
 |
 
-2
-
-2
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 10,94 % et la part d'hommes représentés est de 89,06 %. |
 
 CAPL/ TSEF
 
@@ -1408,49 +1242,49 @@ Rennes
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Rennes
-
-|
+Le directeur du CMG de Rennes |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85).
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure des techniques avancées Bretagne ;
 
--service hydrographique et océanographique de la marine
+-Service hydrographique et océanographique de la marine ;
 
-|
+-Ecole navale. |
 
-Technicien supérieur d'études et de fabrications de 1re classe
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Technicien supérieur d'études et de fabrications de 2e classe
+2 |
 
-Technicien supérieur d'études et de fabrications
+2 |
 
-|
+6 représentants
 
-2
+titulaires
 
-2
+et
 
-2
+6 représentants
 
-|
+suppléants |
 
-2
+Technicien supérieur d'études et de fabrications de 2e classe |
 
-2
+2 |
 
-2
+2 |
 
-|
+Technicien supérieur d'études et de fabrications de 3e classe |
 
-6 représentants titulaires et 6 représentants suppléants
+2 |
 
-|
+2 |
+
+Au regard des effectifs du corps, la part de femmes représentées est de 13,80 % et la part d'hommes représentés est de 86,20 %. |
 
 CAPL/ TSEF
 
@@ -1458,147 +1292,135 @@ Toulon
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Toulon
-
-|
+Le directeur du CMG de Toulon |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04),
+
+Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
--DGA essais en vol
+-DGA essais en vol ;
 
--service de la qualité
+-service de la qualité ;
 
--centre technique des systèmes d'information
+-centre technique des systèmes d'information ;
 
--service des achats d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
--service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service extérieur de la communication ;
 
--service extérieur de la communication
+-centre de la sécurité de défense et des systèmes d'information ;
 
--centre de la sécurité de défense et des systèmes d'information
+-DGA techniques navales.
 
--centre de prestations de proximité des ressources humaines
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
 
--DGA techniques navales
+Technicien supérieur d'études et de fabrications de 1re classe |
 
-Agents en fonctions au sein de la caisse nationale militaire de sécurité sociale (CNMSS)
+2 |
 
-|
+2 |
 
-Technicien supérieur d'études et de fabrications de 1re classe
+6 représentants
 
-Technicien supérieur d'études et de fabrications de 2e classe
+titulaires
 
-Technicien supérieur d'études et de fabrications
+et
 
-|
+6 représentants
 
-2
+suppléants |
 
-2
+Technicien supérieur d'études et de fabrications de 2e classe |
 
-2
+2 |
 
-|
+2 |
 
-2
+Technicien supérieur d'études et de fabrications de 3e classe |
 
-2
+2 |
 
-2
+2 |
 
-|
+Secrétaires administratifs du ministère de la défense
 
-6 représentants titulaires et 6 représentants suppléants
+AUTORITÉ
 
-|
+ASSURANT
 
-Secrétaires administratifs
+la présidence de la CAPL |
 
-AUTORITÉ ASSURANT
+COMPÉTENCE |
 
-la présidence de la CAPL
+GRADES |
 
-|
+REPRÉSENTANTS |
 
-COMPÉTENCE
+Du personnel |
 
-|
+De l'administration |
 
-GRADES
+Titulaires |
 
-|
+Suppléants |
 
-REPRÉSENTANTS
-
-|
-
-Du personnel
-
-|
-
-De l'administration
-
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 69,31 % et la part d'hommes représentés est de 30,69 %. |
 
 CAPL/ SA
 
-SPAC
+Administration centrale
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale
+Le chef du service parisien de soutien de l'administration centrale |
 
-|
+Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale. |
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale
+Secrétaire administratif de classe exceptionnelle |
 
-Personnel mis à disposition et administré par les services de l'administration centrale
+2 |
 
-Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et DGA essais propulseurs
+2 |
 
-|
+6 représentants
 
-Secrétaire administratif de classe exceptionnelle
+titulaires
 
-Secrétaire administratif de classe supérieure
+et
 
-Secrétaire administratif de classe normale
+6 représentants
 
-|
+suppléants |
 
-2
+Personnel mis à disposition et administré par les services de l'administration centrale. |
 
-2
+Secrétaire administratif de classe supérieure |
 
-2
+2 |
 
-|
+2 |
 
-2
+Agents en fonctions à la direction générale de l'armement, affectés :
 
-2
+-au sein du centre de proximité des ressources humaines ;
 
-2
+-service des achats d'armement ;
 
-|
+-au sein de l'établissement de contrôle de Cherbourg ;
 
-6 représentants titulaires et 6 représentants suppléants
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
 
-|
+Secrétaire administratif de classe normale |
+
+2 |
+
+2 |
+
+Au regard des effectifs du corps, la part de femmes représentées est de 70,77 % et la part d'hommes représentés est de 29,23 %. |
 
 CAPL/ SA
 
@@ -1606,73 +1428,73 @@ Saint-Germain-en-Laye
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
+Le directeur du CMG de Saint-Germain-en-Laye |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Oise (60), Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+2 |
 
-Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
+2 |
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
+6 représentants
 
-Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
+titulaires
+
+et
+
+6 représentants
+
+suppléants |
+
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95). |
+
+Secrétaire administratif de classe supérieure |
+
+2 |
+
+2 |
+
+Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
+
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
+
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
+
+Agents en fonctions dans les organismes du service historique de la défense n'appartenant pas à l'administration centrale, à l'exception des agents en fonction au sein du centre des archives du personnel militaire de Pau.
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Institution nationale des Invalides
+-Institution nationale des Invalides ;
 
--musée de l'armée
+-musée de l'armée ;
 
--musée de l'air et de l'espace
+-musée de l'air et de l'espace ;
 
--musée de la marine
+-musée de la marine ;
 
--Etablissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense ;
 
--Office national des anciens combattants
+-Office national des anciens combattants et victimes de guerre ;
 
--Ecole polytechnique
+-Ecole polytechnique ;
 
--Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure des techniques avancées ;
 
--Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense ;
 
--Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale ;
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+-Conseil national de l'ordre des communes Compagnon de la Libération . |
 
-|
+Secrétaire administratif de classe normale |
 
-Secrétaire administratif de classe exceptionnelle
+2 |
 
-Secrétaire administratif de classe supérieure
+2 |
 
-Secrétaire administratif de classe normale
-
-|
-
-2
-
-2
-
-2
-
-|
-
-2
-
-2
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 73,47 % et la part d'hommes représentés est de 26,53 %. |
 
 CAPL/ SA
 
@@ -1680,105 +1502,103 @@ Bordeaux
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Bordeaux
+Le directeur du CMG de Bordeaux |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+2 |
 
-Agents en fonctions au sein de DGA essais de missiles
+2 |
 
-Agents en fonctions au sein de l'établissement public suivant :
+6 représentants
 
--Institut supérieur de l'aéronautique
+titulaires
 
-|
+et
 
-Secrétaire administratif de classe exceptionnelle
+6 représentants
 
-Secrétaire administratif de classe supérieure
+suppléants |
 
-Secrétaire administratif de classe normale
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87). |
 
-|
+Secrétaire administratif de classe supérieure |
 
-2
+2 |
 
-2
+2 |
 
-2
+Agents en fonctions :
 
-|
+-au sein de DGA essais de missiles ;
 
-2
+-au sein du centre des archives du personnel militaire de Pau.
 
-2
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
 
-2
+Secrétaire administratif de classe normale |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
+2 |
 
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 73,90 % et la part d'hommes représentés est de 26,10 %. |
 
 CAPL/ SA
 
-LYON
+Lyon
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Lyon
+Le directeur du CMG de Lyon |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+2 |
 
-Agents en fonctions dans les organismes extérieurs de la direction du service national et de la jeunesse suivants :
+2 |
 
--centre du service national de Nîmes
+6 représentants
 
--centre du service national Nice
+titulaires
 
--centre du service national Marseille
+et
 
--centre du service national Perpignan
+6 représentants
 
-Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+suppléants |
 
-|
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74). |
 
-Secrétaire administratif de classe exceptionnelle
+Secrétaire administratif de classe supérieure |
 
-Secrétaire administratif de classe supérieure
+2 |
 
-Secrétaire administratif de classe normale
+2 |
 
-|
+Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-2
+-centre du service national de Nîmes ;
 
-2
+-centre du service national de Nice ;
 
-2
+-centre du service national de Marseille ;
 
-|
+-centre du service national de Perpignan.
 
-2
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
-2
+Secrétaire administratif de classe normale |
 
-2
+2 |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 69,29 % et la part d'hommes représentés est de 30,71 %. |
 
 CAPL/ SA
 
@@ -1786,47 +1606,45 @@ Metz
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Metz
+Le directeur du CMG de Metz |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+2 |
 
-Agents en fonctions au sein du service des essences des armées
+2 |
 
-Agents en fonctions en Allemagne
+6 représentants
 
-|
+titulaires
 
-Secrétaire administratif de classe exceptionnelle
+et
 
-Secrétaire administratif de classe supérieure
+6 représentants
 
-Secrétaire administratif de classe normale
+suppléants |
 
-|
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90). |
 
-2
+Secrétaire administratif de classe supérieure |
 
-2
+2 |
 
-2
+2 |
 
-|
+Agents en fonctions au sein du service des essences des armées.
 
-2
+Agents en fonctions en Allemagne. |
 
-2
+Secrétaire administratif de classe normale |
 
-2
+2 |
 
-|
+2 |
 
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 68,62 % et la part d'hommes représentés est de 31,38 %. |
 
 CAPL/ SA
 
@@ -1834,49 +1652,49 @@ Rennes
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Rennes
+Le directeur du CMG de Rennes |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+2 |
+
+2 |
+
+6 représentants
+
+titulaires
+
+et
+
+6 représentants
+
+suppléants |
+
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85). |
+
+Secrétaire administratif de classe supérieure |
+
+2 |
+
+2 |
 
 Agents en fonctions au sein des établissements publics suivants :
 
--Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure des techniques avancées Bretagne ;
 
--service hydrographique et océanographique de la marine
+-Service hydrographique et océanographique de la marine ;
 
-|
+-Ecole navale. |
 
-Secrétaire administratif de classe exceptionnelle
+Secrétaire administratif de classe normale |
 
-Secrétaire administratif de classe supérieure
+2 |
 
-Secrétaire administratif de classe normale
+2 |
 
-|
-
-2
-
-2
-
-2
-
-|
-
-2
-
-2
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 69,20 % et la part d'hommes représentés est de 30,80 %. |
 
 CAPL/ SA
 
@@ -1884,63 +1702,57 @@ Toulon
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Toulon
+Le directeur du CMG de Toulon |
 
-|
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
+Secrétaire administratif de classe exceptionnelle |
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+2 |
+
+2 |
+
+6 représentants
+
+titulaires
+
+et
+
+6 représentants
+
+suppléants |
+
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84). |
+
+Secrétaire administratif de classe supérieure |
+
+2 |
+
+2 |
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
--DGA essais en vol
+-DGA essais en vol ;
 
--service de la qualité
+-service de la qualité ;
 
--centre technique des systèmes d'information
+-centre technique des systèmes d'information ;
 
--service des achats d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
--service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service extérieur de la communication ;
 
--service extérieur de la communication
+-centre de la sécurité de défense et des systèmes d'information ;
 
--centre de la sécurité de défense et des systèmes d'information
+-DGA techniques navales. |
 
--centre de prestations de proximité des ressources humaines
+Secrétaire administratif de classe normale |
 
--DGA techniques navales
+2 |
 
-|
+2 |
 
-Secrétaire administratif de classe exceptionnelle
-
-Secrétaire administratif de classe supérieure
-
-Secrétaire administratif de classe normale
-
-|
-
-2
-
-2
-
-2
-
-|
-
-2
-
-2
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants
-
-|
+Au regard des effectifs du corps, la part de femmes représentées est de 64,68 % et la part d'hommes représentés est de 35,32 %. |
 
 CAPL/ SA
 
@@ -1948,112 +1760,92 @@ CNMSS
 
 Présidence :
 
-Le directeur de la Caisse nationale militaire de sécurité sociale
+Le directeur de la CNMSS |
+
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale. |
+
+Secrétaire administratif de classe exceptionnelle |
+
+1 |
 
 |
 
-Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS)
+3 représentants
+
+titulaires
+
+et
+
+3 représentants
+
+suppléants |
+
+Secrétaire administratif de classe supérieure |
+
+1 |
 
 |
 
-Secrétaire administratif de classe exceptionnelle
+Secrétaire administratif de classe normale |
 
-Secrétaire administratif de classe supérieure
-
-Secrétaire administratif de classe normale
+1 |
 
 |
 
-2
+Techniciens paramédicaux civils du ministère de la défense
 
-2
+AUTORITÉ
 
-2
+ASSURANT
 
-|
+la présidence de la CAPL |
 
-2
+COMPÉTENCE |
 
-2
+GRADES |
 
-2
+REPRÉSENTANTS |
 
-|
+Du personnel |
 
-6 représentants titulaires et 6 représentants suppléants
+De l'administration |
 
-|
+Titulaires |
 
-Techniciens paramédicaux civils
+Suppléants |
 
-AUTORITÉ ASSURANT
+Au regard des effectifs du corps, la part de femmes représentées est de 78,59 % et la part d'hommes représentés est de 21,41 %. |
 
-la présidence de la CAPL
-
-|
-
-COMPÉTENCE
-
-|
-
-GRADES
-
-|
-
-REPRÉSENTANTS
-
-|
-
-Du personnel
-
-|
-
-De l'administration
-
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
-
-CAPL/ Techniciens
-
-paramédicaux civils
+CAPL/ TPC
 
 Saint-Germain-en-Laye
 
 Présidence :
 
-Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
+Le directeur du CMG de Saint-Germain-en-
 
-|
+Laye |
 
-Territoire métropole, outre-mer et à l'étranger sauf Allemagne
+Territoire métropole, outre-mer et à l'étranger. |
 
-|
+Technicien paramédical civil de classe supérieure |
 
-Technicien paramédical civil de classe supérieure
+2 |
 
-Technicien paramédical civil
+2 |
 
-|
+4 représentants
 
-2
+titulaires
 
-2
+et
 
-|
+4 représentants
 
-2
+suppléants |
 
-2
+Technicien paramédical civil |
 
-|
+2 |
 
-4 représentants titulaires et 4 représentants suppléants
-
-|
+2 |
