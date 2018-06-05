@@ -1,0 +1,133 @@
+# CIRCULAIRE N° 28162/DEF/CAB/SDBC/K relative aux redevances des droits d'auteurs dues à l'occasion de représentations théâtrales ou chorégraphiques organisées par les armées.
+
+- État : en vigueur (publiée)
+- NOR : BODEF32170
+- Numéro : 28162
+- Date de signature : 1985-06-11
+- Mise en ligne : 2009-04-30
+- Auteur : Cabinet du ministre : Sous-direction des bureaux des cabinets, Bureau de la correspondance et discipline générales.
+- Signataire : Pour le ministre de la défense et par délégation : Le directeur adjoint du cabinet civil et militaire, René CHABOD.
+- Ministères : 4
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : Défense, anciens combattants; Organisation et règles d'administration, redevance, droits d'auteurs,
+- Publication JO / BO : BOC, p. 4086.
+- Annexes : 2
+- Identifiant : 12109 (PDF officiel : pdf/2009/04/cir_12109.pdf)
+
+## Résumé
+
+Redevances des droits d'auteurs dues à l'occasion de représentations théâtrales ou chorégraphiques organisées par les armées.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+CIRCULAIRE N° 28162/DEF/CAB/SDBC/K
+relative aux redevances des droits d'auteurs dues à l'occasion de représentations théâtrales ou chorégraphiques organisées par
+les armées.
+Du 11 juin 1985
+
+CABINET DU MINISTRE : Bureau correspondance et discipline générales.
+CIRCULAIRE N° 28162/DEF/CAB/SDBC/K relative aux redevances des droits d'auteurs dues à
+l'occasion de représentations théâtrales ou chorégraphiques organisées par les armées.
+Du 11 juin 1985
+Pièce(s) Jointe(s) :
+Deux annexes.
+Texte abrogé :
+Voir quatrième alinéa.
+Classement dans l'édition méthodique : BOEM 135.2.1, 145.4, 680.3, 707.2, 724.3.1.
+Référence de publication : BOC, p. 4086.
+L'exécution publique des œuvres protégées par la loi sur la propriété littéraire et artistique est subordonnée à
+l'autorisation préalable des auteurs et donne lieu au paiement de redevances à ces derniers ou à leurs ayants
+droit.
+Depuis 1965, un protocole d'accord conclu avec la société des auteurs et compositeurs dramatiques (SACD)
+dispensait de ces conditions les responsables des diverses représentations théâtrales ou chorégraphiques, sous
+réserve d'un versement forfaitaire imputé, à l'échelon central, sur les crédits du département de la défense.
+Un protocole (ANNEXE I) dont l'entrée en vigueur a été fixée au 1er janvier 1985, a été conclu pour une
+durée d'un an renouvelable.
+La présente circulaire, qui annule et remplace tous les textes antérieurement diffusés à ce sujet [notamment la
+circulaire no 33408/DEF/C/K du 26 juillet 1978 (1)] a pour objet de préciser le champ d'application du
+protocole ainsi que la nature des renseignements à fournir, afin d'assurer la ventilation des redevances.
+I. CHAMP D'APPLICATION.
+Le protocole couvre les représentations d'œuvres protégées dramatiques, dramatico-lyriques ou
+chorégraphiques données, à l'intention des seuls militaires ou de leurs familles, dans les locaux militaires, par
+des militaires ou par des groupes d'amateurs civils.
+En revanche, pour les représentations données par les artistes professionnels, les redevances y afférentes
+doivent être versées directement entre les mains de l'agent local de la SACD soit par les organisateurs, soit par
+l'échelon intéressé du commandement lorsque le contrat intervenu entre les parties laisse le paiement des
+droits d'auteurs à la charge de l'autorité militaire.
+II. RENSEIGNEMENTS DEMANDES.
+Des états semestriels de renseignements seront fournis, en double exemplaire, dans la forme de l'annexe II.
+Ces états établis par les formations seront rassemblés à l'échelon de l'administration centrale par les
+états-majors et directions de service qui les feront parvenir ainsi regroupés au service central de l'action
+sociale des armées aux dates limites des 1er février et 1er août de chaque année.
+
+Les états-majors et directions de service voudront bien donner toutes instructions utiles aux unités relevant de
+leur autorité et attirer en particulier leur attention sur la forme des documents demandés et leur envoi en temps
+opportun.
+Pour le ministre de la défense et par délégation:
+Le directeur adjoint du cabinet civil et militaire,
+René CHABOD.
+(1) BOC, p. 3476.
+
+ANNEXE I.
+PROTOCOLE D'ACCORD
+Entre:
+LA SOCIÉTÉ DES AUTEURS ET COMPOSITEURS DRAMATIQUES, dite SACD, dont le siège social est
+à Paris, 9, 11, 11 bis, 12, rue Ballu (9e), représentée par son président,
+d'une part,
+et:
+LE MINISTÈRE DE LA DÉFENSE, 14, rue Saint-Dominique, Paris (7e), représenté par le directeur du
+cabinet civil et militaire,
+d'autre part,
+Vu la loi du 11 mars 1957 sur la propriété littéraire et artistique,
+Vu les précédents accords dont le dernier en date du 28 juin 1978 concernant les représentations théâtrales
+données par les diverses formations militaires ;
+Considérant que le ministère de la défense reconnaît que les représentations d'œuvres protégées dramatiques,
+dramatico-lyriques ou chorégraphiques, données à l'intention des militaires dans les locaux militaires, donnent
+lieu à autorisation préalable et paiement des redevances aux auteurs ou à leurs ayants droit ;
+Considérant que le présent accord, de même que les accords précédents, englobe l'ensemble des redevances
+afférentes auxdites représentations ;
+Considérant aussi que les conditions consenties par la SACD au ministère de la défense tiennent compte du
+but social et éducatif recherché,
+IL A ÉTÉ CONVENU ET ARRÊTÉ CE QUI SUIT:
+Art. 1er. En application de la loi du 11 mars 1957 sur la propriété littéraire et artistique , la SACD donne au
+ministère l'autorisation de représenter les œuvres de son répertoire, sous réserve du droit absolu que
+conservent les auteurs ou leurs ayants droit desdites œuvres d'en interdire personnellement la représentation,
+sous les conditions suivantes.
+Art. 2. Les représentations visées à l'article premier ci-dessus sont exclusivement celles données à l'intention
+des seuls militaires et de leurs familles lorsque celles-ci peuvent normalement les accompagner dans les
+locaux sis dans les départements métropolitains, les départements ou territoires d'outre-mer, tels que foyers
+d'hommes du rang, mess de sous-officiers ou d'officiers, cercles militaires et navals, sur les navires de guerre
+et dans les maisons familiales des armées.
+Art. 3. Sont exclues les représentations données avec le concours d'artistes professionnels ou organisées par
+des troupes professionnelles dont les directeurs resteront responsables vis-à-vis de la SACD du règlement des
+droits d'auteurs sur le prix de vente du spectacle.
+Art. 4. Les représentations visées à l'article 2 donnent lieu au paiement d'une redevance de 120 (cent vingt)
+francs par acte (1).
+Art. 5. Afin d'assurer une juste répartition aux ayants droit des sommes perçues, le ministère de la défense fera
+connaître chaque année à la SACD, avant le 30 avril et pour l'année écoulée, la liste des œuvres représentées,
+le nom de leurs auteurs ainsi que la date et le lieu de chaque représentation.
+
+Art. 6. Le présent protocole est conclu pour une période d'un an à compter du 1er janvier 1981. Il se
+renouvellera ensuite par tacite reconduction s'il n'est pas dénoncé par l'une des parties contractantes, par lettre
+recommandée avec accusé de réception, deux mois au moins avec l'expiration de chaque nouvelle période
+annuelle contractuelle.
+Fait à Paris en double exemplaire le 4 mars 1981.
+(1) Avenant au protocole conclu le 5 décembre 1984.
+
+ANNEXE II.
+ÉTAT DES REPRÉSENTATIONS THÉATRALES OU CHORÉGRAPHIQUES DONNÉES AU
+COURS DU SEMESTRE 19.
+Unité (1)
+Auteur.
+Titre de l'œuvre.
+Nombre d'actes.
+Nombre de séances.
+Date.
+Localité et département.
+(1) Le nom de l'unité ne doit figurer que sur un seul de deux exemplaires à fournir, lesquels ne doivent comporter ni cachet ni
+signature.
