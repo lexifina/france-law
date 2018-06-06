@@ -1,0 +1,10 @@
+# rapport sur la proposition de loi de M. Rémy Pointereau portant Pacte national de revitalisation des centres-villes et centres-bourgs (460).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport sur la proposition de loi de M. Rémy Pointereau portant Pacte national de revitalisation des centres-villes et centres-bourgs (460).
+- Déposé le : 2018-06-06
+- Dossier : DLR5L15N36693
+- Auteurs : M. Jean-Pierre Moga (rapporteur), Commission des affaires économiques
+- Identifiant : RAPPSNR5S299B0548
