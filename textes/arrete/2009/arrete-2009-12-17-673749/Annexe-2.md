@@ -2,8 +2,6 @@
 
 (PERSONNELS NON ENSEIGNANTS)
 
-Ecoles nationales supérieures d'architecture :
-
 Ecole nationale supérieure d'architecture et de paysage de Bordeaux ;
 
 Ecole nationale supérieure d'architecture de Bretagne ;
@@ -48,18 +46,20 @@ Ecole du Louvre ;
 
 Institut national du patrimoine ;
 
-Musée Gustave Moreau ;
+Etablissement public du musée national Jean-Jacques Henner et du musée national Gustave Moreau ;
 
-Musée Jean-Jacques Henner ;
+Etablissement public du musée des arts asiatiques Guimet ;
 
-Musée Guimet ;
+Etablissement public du musée d'Orsay et du musée de l'Orangerie ;
 
-Musée d'Orsay ;
+Etablissement public du musée Rodin ;
 
-Musée Rodin ;
-
-Etablissement public du château de Fontainebleau ;
+Etablissement public du musée et du domaine national du château de Fontainebleau ;
 
 Etablissement public du musée des Civilisations de l'Europe et de la Méditerranée (MuCEM) ;
 
 Etablissement public du Musée national Picasso-Paris.
+
+NOTA :
+
+Conformément à l’arrêté du 30 mai 2018, article 12, ces dispositions s'appliquent en vue des élections professionnelles du 6 décembre 2018.

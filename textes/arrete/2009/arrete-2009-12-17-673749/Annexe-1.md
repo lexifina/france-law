@@ -2,8 +2,6 @@
 
 (PERSONNELS ENSEIGNANTS)
 
-Ecoles nationales supérieures d'architecture :
-
 Ecole nationale supérieure d'architecture et de paysage de Bordeaux ;
 
 Ecole nationale supérieure d'architecture de Bretagne ;
@@ -58,8 +56,14 @@ Ecole nationale supérieure d'art de Nice villa Arson ;
 
 Ecole nationale supérieure de la photographie d'Arles ;
 
-Institut national du patrimoine ;
-
 Ecole nationale supérieure des beaux-arts ;
 
-Ecole nationale supérieure des arts décoratifs.
+Ecole nationale supérieure des arts décoratifs ;
+
+Ecole du Louvre ;
+
+Institut national du patrimoine.
+
+NOTA :
+
+Conformément à l’arrêté du 30 mai 2018, article 12, ces dispositions s'appliquent en vue des élections professionnelles du 6 décembre 2018.
