@@ -2,118 +2,120 @@
 
 LISTE DES ÉTABLISSEMENTS PUBLICS ADMINISTRATIFS ENTRANT DANS LE CHAMP DE COMPÉTENCE DU COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL MINISTÉRIEL, POUR L'EXAMEN DES QUESTIONS COMMUNES
 
-Etablissement public du Palais de la porte Dorée.
+-Académie de France à Rome
 
-Etablissement public du musée du quai Branly-Jacques Chirac.
+-Bibliothèque nationale de France
 
-Institut national de recherches archéologiques préventives.
+-Bibliothèque publique d'information
 
-Institut national d'histoire de l'art.
+-Centre des monuments nationaux
 
-Bibliothèque Nationale de France.
+-Centre national d'art et de culture Georges-Pompidou
 
-Etablissement public du musée du Louvre.
+-Centre national des arts plastiques
 
-Etablissement public du château, du musée et du domaine national de Versailles.
+-Centre national du cinéma et de l'image animée
 
-Etablissement public du musée d'Orsay et du musée de l'Orangerie.
+-Centre national du livre
 
-Bibliothèque publique d'information.
+-Conservatoire national supérieur d'art dramatique
 
-Centre national d'art et de culture Georges Pompidou Etablissement public "Cité de la céramique-Sèvres et Limoges".
+-Conservatoire national supérieur de musique et de danse de Lyon
 
-Centre des monuments nationaux.
+-Conservatoire national supérieur de musique et de danse de Paris
 
-Centre national du cinéma et de l'image animée.
+-Ecole du Louvre
 
-Etablissement public du musée et domaine national du château de Fontainebleau.
+-Ecole nationale supérieure des arts décoratifs
 
-Etablissement public du musée des arts asiatiques Guimet.
+-Ecole nationale supérieure des Beaux-Arts
 
-Etablissement public du musée Rodin.
+-Ecole nationale supérieure d'art de Bourges
 
-Etablissement public du musée national Picasso - Paris.
+-Ecole nationale supérieure d'art de Cergy-Pontoise
 
-Musée national Jean-Jacques Henner.
+-Ecole nationale supérieure d'art de Dijon
 
-Musée national Gustave Moreau.
+-Ecole nationale supérieure d'art de Limoges-Aubusson
 
-Centre national des Arts plastiques.
+-Ecole nationale supérieure d'art et de design de Nancy
 
-Institut national du patrimoine.
+-Villa Arson
 
-Centre national du livre.
+-Ecole nationale supérieure de la photographie d'Arles
 
-Ecole nationale supérieure des arts décoratifs.
+-Ecole nationale supérieure d'architecture et de paysage de Bordeaux
 
-Ecole nationale supérieure des beaux-arts.
+-Ecole nationale supérieure d'architecture de Bretagne
 
-Conservatoire national supérieur d'art dramatique.
+-Ecole nationale supérieure d'architecture de Clermont-Ferrand
 
-Ecole nationale supérieure d'art de Bourges.
+-Ecole nationale supérieure d'architecture de Grenoble
 
-Ecole nationale supérieure d'art de Cergy-Pontoise.
+-Ecole nationale supérieure d'architecture et de paysage de Lille
 
-Ecole nationale supérieure d'art de Dijon.
+-Ecole nationale supérieure d'architecture de Lyon
 
-Ecole nationale supérieure d'art de Limoges.
+-Ecole nationale supérieure d'architecture de la ville et des territoires à Marne-la-Vallée
 
-Ecole nationale supérieure d'art de Nancy.
+-Ecole nationale supérieure d'architecture de Marseille-Luminy
 
-Ecole nationale supérieure de la photographie d'Arles.
+-Ecole nationale supérieure d'architecture de Montpellier
 
-Ecole nationale supérieure des arts décoratifs.
+-Ecole nationale supérieure d'architecture de Nancy
 
-Etablissement public "Villa Arson".
+-Ecole nationale supérieure d'architecture de Nantes
 
-Académie de France à Rome.
+-Ecole nationale supérieure d'architecture de Normandie
 
-Opérateur du patrimoine et des projets immobiliers de la culture.
+-Ecole nationale supérieure d'architecture de Paris-Belleville
 
-Ecole du Louvre.
+-Ecole nationale supérieure d'architecture de Paris-La Villette
 
-Conservatoire national supérieur de musique et de danse de Lyon.
+-Ecole nationale supérieure d'architecture de Paris-Malaquais
 
-Conservatoire national supérieur de musique et de danse de Paris.
+-Ecole nationale supérieure d'architecture de Paris-Val de Seine
 
-L'Etablissement public du musée des civilisations de l'Europe et de la Méditerranée (MuCEM).
+-Ecole nationale supérieure d'architecture de Saint-Étienne
 
-Ecole nationale supérieure d'architecture et de paysage de Bordeaux.
+-Ecole nationale supérieure d'architecture de Strasbourg
 
-Ecole nationale supérieure d'architecture de Bretagne.
+-Ecole nationale supérieure d'architecture de Toulouse
 
-Ecole nationale supérieure d'architecture de Clermont-Ferrand.
+-Ecole nationale supérieure d'architecture de Versailles
 
-Ecole nationale supérieure d'architecture de Grenoble.
+-Etablissement public du Palais de la porte Dorée
 
-Ecole nationale supérieure d'architecture et de paysage de Lille.
+-Etablissement public Cité de la céramique-Sèvres et Limoges
 
-Ecole nationale supérieure d'architecture de Lyon.
+-Etablissement public du musée d'Orsay et du musée de l'Orangerie
 
-Ecole nationale supérieure d'architecture de la ville et des territoires à Marne-la-Vallée.
+-Etablissement public du musée du Louvre
 
-Ecole nationale supérieure d'architecture de Marseille-Luminy.
+-Etablissement public du musée des arts asiatiques Guimet
 
-Ecole nationale supérieure d'architecture de Montpellier.
+-Etablissement public du musée des civilisations de l'Europe et de la Méditerranée
 
-Ecole nationale supérieure d'architecture de Nancy.
+-Etablissement public du musée du Quai Branly-Jacques Chirac
 
-Ecole nationale supérieure d'architecture de Nantes.
+-Établissement public du musée national Picasso-Paris
 
-Ecole nationale supérieure d'architecture de Normandie.
+-Etablissement public du musée et domaine national du château de Fontainebleau
 
-Ecole nationale supérieure d'architecture de Paris-Belleville.
+-Etablissement public du musée Rodin
 
-Ecole nationale supérieure d'architecture de Paris-La Villette.
+-Etablissement public du musée national Jean-Jacques Henner et du musée national Gustave Moreau
 
-Ecole nationale supérieure d'architecture de Paris-Malaquais.
+-Etablissement public du château et du domaine national de Versailles
 
-Ecole nationale supérieure d'architecture de Paris-Val de Seine.
+-Institut national d'histoire de l'art
 
-Ecole nationale supérieure d'architecture de Saint-Etienne.
+-Institut national du patrimoine
 
-Ecole nationale supérieure d'architecture de Strasbourg.
+-Institut national de recherches archéologiques préventives
 
-Ecole nationale supérieure d'architecture de Toulouse.
+-Opérateur du patrimoine et des projets immobiliers de la culture
 
-Ecole nationale supérieure d'architecture de Versailles.
+NOTA :
+
+Conformément à l'article 6 de l’arrêté du 30 mai 2018, ces dispositions s'appliquent en vue des élections professionnelles du 6 décembre 2018.
