@@ -1,0 +1,395 @@
+# Article Annexe A
+
+Liste des départements où :
+
+- les effectifs des personnels PETPE de la branche RBA, affectés en DDT (M) ou dans un service dont le siège est situé dans le département, ne permettent pas de constituer une commission administrative paritaire en DDT (M) ;
+
+- les agents sont rattachés à la commission administrative paritaire d'une DIR ou de la DRIEA.
+
+DÉPARTEMENT D'AFFECTATION |
+
+SERVICE AUPRÈS DUQUEL EST PLACÉE LA CAP |
+
+Ain (01) |
+
+DIR Centre-Est |
+
+Aisne (02) |
+
+DIR Nord |
+
+Allier (03) |
+
+DIR Centre-Est |
+
+Alpes-de-Haute-Provence (04) |
+
+DIR Méditerranée |
+
+Hautes-Alpes (05) |
+
+DIR Méditerranée |
+
+Alpes-Maritimes (06) |
+
+DIR Méditerranée |
+
+Ardèche (07) |
+
+DIR Centre-Est |
+
+Ardennes (08) |
+
+DIR Nord |
+
+Ariège (09) |
+
+DIR Sud-Ouest |
+
+Aube (10) |
+
+DIR Centre-Est |
+
+Aude (11) |
+
+DIR Sud-Ouest |
+
+Aveyron (12) |
+
+DIR Massif central |
+
+Bouches-du-Rhône (13) |
+
+DIR Méditerranée |
+
+Calvados (14) |
+
+DIR Nord-Ouest |
+
+Cantal (15) |
+
+DIR Massif central |
+
+Charente (16) |
+
+DIR Atlantique |
+
+Charente-Maritime (17) |
+
+DIR Atlantique |
+
+Cher (18) |
+
+DIR Centre-Ouest |
+
+Corrèze (19) |
+
+DIR Centre-Ouest |
+
+Corse-du-Sud (2A) |
+
+DIR Méditerranée |
+
+Haute-Corse (2B) |
+
+DIR Méditerranée |
+
+Côte-d'Or (21) |
+
+DIR Centre Est |
+
+Côte-d'Armor (22) |
+
+DIR Ouest |
+
+Creuse (23) |
+
+DIR Centre-Ouest |
+
+Dordogne (24) |
+
+DIR Centre-Ouest |
+
+Doubs (25) |
+
+DIR Est |
+
+Drôme (26) |
+
+DIR Centre-Est |
+
+Eure (27) |
+
+DIR Nord-Ouest |
+
+Eure-et-Loire (28) |
+
+DIR Nord-Ouest |
+
+Finistère (29) |
+
+DIR Ouest |
+
+Gard (30) |
+
+DIR Méditerranée |
+
+Haute-Garonne (31) |
+
+DIR Sud-Ouest |
+
+Gers (32) |
+
+DIR Sud-Ouest |
+
+Gironde (33) |
+
+DIR Atlantique |
+
+Hérault (34) |
+
+DIR Massif central |
+
+Ille-et-Vilaine (35) |
+
+DIR Ouest |
+
+Indre (36) |
+
+DIR Centre-Ouest |
+
+Indre-et-Loire (37) |
+
+DIR Centre-Ouest |
+
+Isère (38) |
+
+DIR Centre-Est |
+
+Jura (39) |
+
+DIR Est |
+
+Landes (40) |
+
+DIR Atlantique |
+
+Loir-et-Cher (41) |
+
+DIR Nord-Ouest |
+
+Loire (42) |
+
+DIR Centre-Est |
+
+Haute-Loire (43) |
+
+DIR Massif central |
+
+Loire-Atlantique (44) |
+
+DIR Ouest |
+
+Loiret (45) |
+
+DIR Nord-Ouest |
+
+Lot (46) |
+
+DIR Sud-Ouest |
+
+Lot-et-Garonne (47) |
+
+DIR Centre-Ouest |
+
+Lozère (48) |
+
+DIR Massif central |
+
+Maine-et-Loire (49) |
+
+DIR Ouest |
+
+Manche (50) |
+
+DIR Nord-Ouest |
+
+Marne (51) |
+
+DIR Nord |
+
+Haute-Marne (52) |
+
+DIR Est |
+
+Mayenne (53) |
+
+DIR Ouest |
+
+Meurthe-et-Moselle (54) |
+
+DIR Est |
+
+Meuse (55) |
+
+DIR Est |
+
+Morbihan (56) |
+
+DIR Ouest |
+
+Moselle (57) |
+
+DIR Est |
+
+Nièvre (58) |
+
+DIR Centre-Est |
+
+Nord (59) |
+
+DIR Nord |
+
+Oise (60) |
+
+DIR Nord |
+
+Orne (61) |
+
+DIR Nord-Ouest |
+
+Pas-de-Calais (62) |
+
+DIR Nord |
+
+Puy-de-Dôme (63) |
+
+DIR Massif central |
+
+Pyrénées-Atlantiques (64) |
+
+DIR Atlantique |
+
+Hautes-Pyrénées (65) |
+
+DIR Sud-Ouest |
+
+Pyrénées-Orientales (66) |
+
+DIR Sud-Ouest |
+
+Bas-Rhin (67) |
+
+DIR Est |
+
+Haut-Rhin (68) |
+
+DIR Est |
+
+Rhône (69) |
+
+DIR Centre-Est |
+
+Haute-Saône (70) |
+
+DIR Est |
+
+Saône-et-Loire (71) |
+
+DIR Centre-Est |
+
+Sarthe (72) |
+
+DIR Ouest |
+
+Savoie (73) |
+
+DIR Centre-Est |
+
+Haute-Savoie (74) |
+
+DIR Centre-Est |
+
+Paris (75) |
+
+DRIEA Ile-de-France |
+
+Seine-Maritime (76) |
+
+DIR Nord-Ouest |
+
+Seine-et-Marne (77) |
+
+DRIEA Ile-de-France |
+
+Yvelines (78) |
+
+DRIEA Ile-de-France |
+
+Deux-Sèvres (79) |
+
+DIR Centre-Ouest |
+
+Somme (80) |
+
+DIR Nord |
+
+Tarn (81) |
+
+DIR Sud-Ouest |
+
+Tarn-et-Garonne (82) |
+
+DIR Sud-Ouest |
+
+Var (83) |
+
+DIR Méditerranée |
+
+Vaucluse (84) |
+
+DIR Méditerranée |
+
+Vendée (85) |
+
+DIR Ouest |
+
+Vienne (86) |
+
+DIR Atlantique |
+
+Haute-Vienne (87) |
+
+DIR Centre-Ouest |
+
+Vosges (88) |
+
+DIR Est |
+
+Yonne (89) |
+
+DIR Centre-Est |
+
+Territoire de Belfort (90) |
+
+DIR Est |
+
+Essonne (91) |
+
+DRIEA Ile-de-France |
+
+Hauts-de-Seine (92) |
+
+DRIEA Ile-de-France |
+
+Seine-Saint-Denis (93) |
+
+DRIEA Ile-de-France |
+
+Val-de-Marne (94) |
+
+DRIEA Ile-de-France |
+
+Val-d'Oise (95) |
+
+DRIEA Ile-de-France |
