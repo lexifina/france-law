@@ -4,190 +4,76 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 
 COMMISSIONS
 
-administratives paritaires
-
-|
+administratives paritaires |
 
 REPRÉSENTANTS
 
-de l'administration
+de l'administration |
 
-|
+GRADES REPRÉSENTES |
 
-GRADES REPRÉSENTÉS
+REPRÉSENTANTS DU PERSONNEL |
 
-|
+Titulaires |
 
-REPRÉSENTANTS
+Suppléants |
 
-du personnel
+Titulaires |
 
-|
+Suppléants |
 
-|
+N° 8
 
-Titulaires
+Greffiers CEAPF |
 
-|
+2 |
 
-Suppléants
-
-|
-
-|
-
-Titulaires
-
-|
-
-Suppléants
-
-|
-
-Commission n° 8
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+2 |
 
 Greffiers
 
-|
+Principaux |
 
-3
+1 |
 
-|
+1 |
 
-3
+Greffiers |
 
-|
+1 |
 
-Greffier du premier grade
+1 |
 
-|
+N° 9
 
-1
+Adjoints administratifs CEAPF |
 
-|
+3 |
 
-1
-
-|
-
-|
-
-|
-
-|
-
-Greffier du deuxième grade
-
-|
-
-2
-
-|
-
-2
-
-|
-
-Commission n° 9
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+3 |
 
 Adjoints administratifs
 
-|
+Principaux 1re classe |
 
-4
+1 |
 
-|
+1 |
 
-4
+Adjoints administratifs
 
-|
+Principaux 2e classe |
 
-Adjoint administratif principal de 1ere classe
+1 |
 
-|
+1 |
 
-1
+Adjoints administratifs |
 
-|
+1 |
 
-1
+1 |
 
-|
+Les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein de la commission administrative paritaire compétente à l'égard des greffiers des services judiciaires appartenant aux corps de l'Etat pour l'administration de la Polynésie française sont appréciées comme suit au 1er janvier 2018 : 80,95 % de femmes et 19,05 % d'hommes.
 
-|
-
-|
-
-|
-
-Adjoint administratif principal de 2e classe
-
-|
-
-1
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-Adjoint administratif de 1ere classe
-
-|
-
-1
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-Adjoint administratif de 2e classe
-
-|
-
-1
-
-|
-
-1
-
-|
+Les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein de la commission administrative paritaire compétente à l'égard des adjoints administratifs appartenant aux corps de l'Etat pour l'administration de la Polynésie française sont appréciées comme suit au 1er janvier 2018 : 90,24 % de femmes et 9,76 % d'hommes.
