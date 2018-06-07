@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404429
+
+- Question : [SEQ180404429](seq180404429.md) — Cadre juridique de l'éclairage public
+
+## Réponse
+
+*Intérieur (Mme la ministre auprès du ministre d'État), JO du 2018-06-07, page 2856*
+
+Si l'arrêté du 23 janvier 2013 relatif à l'éclairage nocturne des bâtiments non résidentiels encadre précisément le fonctionnement des dispositifs d'éclairage de ces bâtiments (vitrines de commerces, bureaux et façades de ces mêmes bâtiments), l'éclairage public, c'est-à-dire l'éclairage des voies réservées à la circulation des véhicules et des piétons, est expressément exclu de son champ d'application. En effet, il ne saurait être question de préciser de manière générale et absolue les cas dans lesquels l'éclairage public peut être éteint dans une agglomération. Dès lors que l'éclairage public relève de la compétence relative à la voirie exercée par le conseil municipal de la commune, il lui appartient de décider quelles voies doivent être éclairées ou non, en fonction des circonstances locales et des éventuels dangers à signaler, notamment lorsqu'ils excèdent ceux auxquels doivent normalement s'attendre les usagers et contre lesquels il leur appartient personnellement de se prémunir en prenant les précautions nécessaires. Par ailleurs, sous réserve de cette compétence exercée par le conseil municipal, le maire doit veiller, au titre des pouvoirs de police qu'il tire des articles L. 2212-1 et L. 2213-1 du code général des collectivités territoriales, à ce que l'éclairage mis en place soit suffisant pour signaler tout danger particulier. C'est au regard de ces éléments que le juge administratif examinera si l'absence ou l'insuffisance de l'éclairage public est constitutive d'une faute de nature à engager la responsabilité de la commune, sous réserve de l'imprudence ou de la faute de la victime de nature à exonérer la commune de tout ou partie de sa responsabilité.
