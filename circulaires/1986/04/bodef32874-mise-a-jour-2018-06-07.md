@@ -1,0 +1,606 @@
+# INSTRUCTION N° 702/DEF/DCSSA/OL/ER relative à l'organisation, au fonctionnement et à la comptabilité des ateliers des établissements du service de santé des armées.
+
+- État : en vigueur (publiée)
+- NOR : BODEF32874
+- Numéro : BODEF32874
+- Date de signature : 1986-04-01
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre de la défense et par délégation :Le médecin général, sous-directeur organisation-logistique de la DCSSARégis FORISSIER.  Pour le ministre de la défense et par délégation :  Pour le ministre de la défense et par délégation :  Le médecin général, sous-directeur organisation-logistique de la DCSSA  Le médecin général, sous-directeur organisation-logistique de la  Le médecin général, sous-directeur organisation-logistique de la    DCSSA  DCSSA  DCSSA    Régis FORISSIER.  Régis FORISSIER.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Service de santé des armées.Service de santé des armées. Organisation et réglementation générale.Approvisionnement et ravitaillement du service de santé des armées.Gestion et comptabilité des matériels du service de santé des armées.
+- Publication JO / BO : BOC, p. 2833.
+- Annexes : 2
+- Identifiant : 11576 (PDF officiel : pdf/2009/04/cir_11576.pdf)
+
+## Résumé
+
+Figure 35. ENSEI V6  Figure 35. ENSEI V6  Figure 35. ENSEI V6  Figure 35. ENSEI V6  Figure 35. ENSEI V6
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMÉES 
+
+Édition Chronologique 
+PARTIE PERMANENTE 
+Administration Centrale 
+
+INSTRUCTION N° 702/DEF/DCSSA/OL/ER 
+relative à l'organisation, au fonctionnement et à la comptabilité des ateliers des établissements du service de santé des armées. 
+Du 1er avril 1986 
+
+DIRECTION CENTRALE DU SERVICE DE SANTÉ DES ARMÉES : Sous-Direction organisation-
+logistique ; Bureau équipements-ravitaillements. 
+INSTRUCTION N° 702/DEF/DCSSA/OL/ER relative à l'organisation, au fonctionnement et à la 
+comptabilité des ateliers des établissements du service de santé des armées. 
+Du 1er avril 1986
+
+Références : 
+a). Décret n° 52-1386 du 22 décembre 1952 (BO/G, 1953, p. 315 ; BO/M, 1953, p. 164 ; 
+BO/A, p. 2387) ; abrogé par le décret 90-144 du 14 février 1990 (BOC, p. 642) modifié. 
+ b). Instruction provisoire n° 700/DEF/DCSSA/3/ER du 4 avril 1984 (1). 
+c). Instruction 2395 /DEF/DCSSA/3/ER/MAT du 29 novembre 1982 (BOC, p. 4824). 
+d). Instruction 895 /DEF/DCSSA/3/ER/MAT du 04 mai 1983 (BOC, p. 2311). 
+Pièce(s) Jointe(s) : 
+Deux imprimés répertoriés. 
+Modifié par : 
+Erratum du 09 juin 1986 (BOC, p. 3494). 
+Textes abrogés : 
+Instruction particulière n° 740/4/DN/DCSSA du 26 mars 1959 (BO/G, p. 1990). 
+Circulaire n° 1075/DEF/DCSSA/3/ER du 4 juillet 1974 (BOC, 1975, p. 3883). 
+Circulaire n° 2428/DEF/DCSSA/3/ER du 3 décembre 1982 (n.i. BO). 
+ Classement dans l'édition méthodique : BOEM 620-73.2 
+Référence de publication : BOC, p. 2833. 
+
+SOMMAIRE 
+Préambule. 
+TITRE PREMIER. ORGANISATION DES ATELIERS DES ÉTABLISSEMENTS DU SERVICE DE 
+SANTÉ DES ARMÉES. 
+ Article premier. Les différentes catégories d'ateliers. 
+ Article 2. Le chef du service des ateliers. 
+ Article 3. L'organisation interne de l'atelier. 
+TITRE II. FONCTIONNEMENT DES ATELIERS. 
+
+ Article 4. Le plan de charge hebdomadaire des ateliers. 
+ Article 5. Le bon de travail. 
+ Article 6. L'ordre de travail. 
+TITRE III. COMPTABILITÉ DES ATELIERS. 
+ Article 7. But et contenu de la comptabilité des ateliers. 
+ Article 8. Modalités d'établissement des comptabilités particulières aux ateliers tenues par le chef du service 
+des ateliers. 
+TITRE IV. SURVEILLANCE ADMINISTRATIVE DES ATELIERS. 
+ Article 9. Dispositions générales. 
+ Article 10. Opérations de surveillance intérieure effectuées sous la responsabilité du chef d'établissement. 
+ Article 11. Opérations de surveillance administrative des ateliers effectuées pour le compte des autorités 
+hiérarchiques auxquelles sont subordonnés les établissements concernés. 
+TITRE V. DISPOSITIONS DIVERSES. 
+ Article 12. Textes abrogés. 
+ Article 13. Conditions d'application de la présente instruction. 
+Préambule. 
+Les établissements du service de santé des armées possèdent des ateliers qui sont chargés : 
+- des opérations d'entretien ou de réparation des installations, équipements et matériels dont disposent 
+ces établissements ; 
+- d'études, de transformations et de remises en état de matériels dans les établissements 
+d'approvisionnement du service. 
+La présente instruction a pour but de définir l'organisation et le fonctionnement de ces ateliers et de préciser 
+les règles de comptabilité qu'ils appliquent. 
+Elle s'applique à tous les établissements, hôpitaux, écoles et autres organismes du service de santé des armées 
+disposant d'un ou plusieurs ateliers. 
+TITRE PREMIER. 
+ORGANISATION DES ATELIERS DES ÉTABLISSEMENTS DU SERVICE DE SANTÉ DES ARMÉES. 
+Article premier. 
+ Les différentes catégories d'ateliers. 
+Les établissements du service de santé des armées peuvent disposer d'ateliers relevant de deux catégories 
+différentes : les ateliers d'entretien général et les ateliers spéciaux. 
+
+ 1.1. Les ateliers d'entretien général. 
+ 1.1.1. But des ateliers d'entretien général. 
+Ces ateliers existent dans tous les établissements du service de santé des armées. Ils ont pour but : 
+- de participer à la conservation et à l'aménagement du domaine immobilier dont l'établissement est 
+l'utilisateur ; 
+- d'assurer l'entretien et la réparation des installations fixes et des matériels d'usage général. 
+Leur nombre et leur rôle respectif varient selon l'importance et la mission de chaque établissement. Ils sont 
+constitués, notamment, par un atelier de travaux sur bois, un atelier de travaux sur fer, un atelier de peinture, 
+un atelier d'électricité. 
+ 1.1.2. Création des ateliers d'entretien général. 
+La création de tout atelier entrant dans la catégorie des ateliers d'entretien général relève du chef 
+d'établissement concerné qui définit sa mission et lui affecte les locaux, les équipements et les personnels 
+nécessaires à son fonctionnement, dans la limite des personnels, des moyens matériels et des dotations 
+financières dont il dispose. 
+ 1.2. Les ateliers spéciaux. 
+ 1.2.1. Variétés d'ateliers spéciaux. 
+Ces ateliers existent : 
+a). Dans les établissements subordonnés à la direction des approvisionnements et des établissements 
+centraux du service de santé des armées (DAEC), où ils constituent des ateliers industriels qui 
+participent pour une part importante à l'exécution de la mission confiée à chacun de ces établissements 
+en matière d'études et de réalisations de prototypes, de fabrications, de transformations et de remises 
+en état de matériels. 
+b). Dans les centres de recherches du service de santé des armées, où ils réalisent et entretiennent les 
+appareillages techniques mis au point ou acquis par ces organismes dans le cadre de leurs programmes 
+de recherche. 
+c). Dans les écoles du service, où ils sont spécialisés dans les travaux d'imprimerie et de photographie 
+nécessaires à l'édition des documents d'instruction et d'enseignement produits par ces écoles. 
+ 1.2.2. Création des ateliers spéciaux. 
+En raison de leur nature et de l'importance qu'ils prennent dans la mission des établissements et organismes 
+qui en disposent, les ateliers spéciaux ne peuvent être créés que par une décision du ministre (DCSSA) prise, 
+pour chacun d'eux, sur proposition, selon le cas, soit de la DAEC, soit du centre de recherches, soit de l'école 
+concernée. 
+Article 2. 
+ Le chef du service des ateliers. 
+ 2.1. Désignation et subordination du chef du service des ateliers. 
+ 2.1.1. Désignation du chef du service des ateliers. 
+
+L'ensemble des ateliers d'un établissement du service de santé des armées est dirigé par un responsable, 
+militaire ou civil, qui possède les aptitudes requises à cet effet. 
+Le chef du service des ateliers est : 
+- le chef du service du matériel et des travaux dans les hôpitaux des armées ; toutefois, dans les 
+hôpitaux importants, ce poste peut être confié à l'ingénieur hospitalier de l'établissement ; 
+- le chef des moyens généraux dans les écoles du service ; 
+- l'adjoint, officier ou sous-officier, au chef d'établissement, dans les établissements de ravitaillement 
+régionaux ; 
+- le chef des services administratifs, pour les ateliers d'entretien général, et le chef des services 
+techniques, pour les ateliers industriels des établissements de la DAEC ; 
+- le chef des services administratifs, dans les autres établissements et organismes du service de santé 
+des armées. 
+ 2.1.2. Subordination du chef du service des ateliers. 
+Le chef du service des ateliers est directement subordonné : 
+- au gestionnaire, dans les hôpitaux des armées ; 
+- au chef des services administratifs, dans les écoles ; 
+- au chef d'établissement dans les autres établissements du service de santé des armées. 
+2.2. Moyens d'action du chef du service des ateliers. 
+Le chef du service des ateliers, s'il est officier ou ingénieur, peut être secondé par un technicien d'études et de 
+fabrications. 
+Il dispose, pour l'exécution de ses attributions visées au paragraphe 2.3 ci-dessous, des différents ateliers de 
+l'établissement ainsi que des personnels et moyens qui leur sont affectés. 
+2.3. Attributions du chef du service des ateliers. 
+Le chef du service des ateliers est le conseiller technique du chef d'établissement dans son domaine de 
+compétences. 
+ 2.3.1. Attributions en matière d'organisation des ateliers. 
+Le chef du service des ateliers est responsable de la discipline et de l'organisation du travail au sein des 
+ateliers ; à ce titre : 
+- il détermine et organise les postes de travail des divers ateliers et équilibre les charges entre eux ; 
+- il étudie et contrôle les temps de réalisation des travaux exécutés par chaque poste de travail ; 
+- il prend les mesures nécessaires pour exécuter en toutes circonstances la continuité du travail dans 
+les ateliers ; 
+- il tient les statistiques d'activité et de rendement des ateliers ; 
+
+- il veille à ce que les chefs d'ateliers, placés sous ses ordres, soient parfaitement au courant des détails 
+de fonctionnement des ateliers ; 
+- il participe à l'élaboration du plan de formation professionnelle continue du personnel civil de 
+l'établissement. 
+ 2.3.2. Attributions en matière de fonctionnement des ateliers. 
+Le chef du service des ateliers est responsable du rendement des ateliers et de la qualité des travaux qui y sont 
+effectués ; à ce titre : 
+- il prépare chaque semaine le plan de charge hebdomadaire des ateliers pour la semaine suivante en 
+vue du meilleur emploi de la main-d'œuvre et d'une organisation rigoureuse du travail ; 
+- il répartit entre les différents ateliers les travaux consignés sur le plan de charge hebdomadaire, en 
+donnant toutes directives nécessaires à l'exécution de ces travaux ; il en précise l'urgence et en suit la 
+réalisation ; 
+- il prend toutes mesures utiles pour faire face aux situations inopinées nécessitant des travaux 
+d'urgence et non planifiés ; 
+- il détient l'atlas complet des bâtiments et terrains constituant le portefeuille de casernement de 
+l'établissement ainsi que les plans des emplacements et locaux où se trouvent les installations fixes 
+qu'il a la charge d'entretenir ; 
+- il effectue des visites périodiques ou inopinées des bâtiments, locaux, installations, voiries et 
+canalisations, en vue de déceler toute anomalie nécessitant des travaux locatifs de réparations et 
+d'entretien non programmés dont il définit sur place la nature et le degré d'urgence ; 
+- il tient à jour et contrôle l'exécution du planning annuel des travaux d'entretien répétitifs ; 
+- il coordonne l'action des ateliers intervenant dans l'exécution d'un même travail, afin d'éviter tout 
+gaspillage de temps et de moyens ; 
+- il tient la main à ce que tout travail entrepris fasse bien l'objet, selon le cas, soit d'un ordre de travail, 
+soit d'un bon de travail réglementaire ; 
+- il surveille personnellement tous travaux pour lesquels sa présence est un gage d'exécution correcte ; 
+- il contrôle le bon emploi de la main-d'œuvre et la qualité des travaux effectués ; 
+- il établit, en cas de nécessité, le tour d'astreinte des personnels des ateliers ; 
+- il surveille l'application stricte dans les ateliers de la réglementation concernant l'hygiène et la 
+sécurité du travail. 
+ 2.3.3. Attributions concernant les matériels et les matières premières livrés aux ateliers. 
+Le chef du service des ateliers est responsable du bon emploi des matériels et matières premières nécessaires à 
+la réalisation des travaux exécutés par les ateliers ; à cet effet : 
+- il fait assurer par les chefs d'ateliers la tenue des écritures comptables justifiant l'utilisation des 
+matériels et matières premières ; 
+
+- il autorise et certifie la perception des matériels et matières premières auprès du magasin de 
+l'établissement ; il signe les bons de mouvement intérieur (imprimé N° 620-73*/40), les bons de 
+perception (imprimé N° 620-73*/3) et l'état navette semestriel de perception (imprimé N° 620-
+73*/12) ; 
+- il vérifie personnellement les informations comptables données par les ateliers ainsi que l'utilisation 
+des matériels et matières premières employés ; il procède périodiquement par sondages inopinés à la 
+vérification des matériels et matières premières détenus par chaque atelier en s'appuyant, 
+notamment, sur les bons de mouvement intérieur, les bons de perception et l'état navette semestriel 
+de perception ainsi que sur les bons et ordres de travail reçus par l'atelier concerné ; 
+- il veille à ce que le volant de chaque atelier en matériels et matières premières ne dépasse pas le 
+niveau fixé, soit par le gestionnaire dans les hôpitaux des armées, soit par le chef des services 
+administratifs ou le chef des services techniques dans les autres établissements et provoque, s'il y a 
+lieu, la révision de ce niveau afin de l'ajuster aux besoins réels de chaque atelier. 
+Article 3. 
+ L'organisation interne de l'atelier. 
+ 3.1. Généralités. 
+3.1.1. Chaque atelier d'entretien général et chaque atelier spécial d'un établissement du service de 
+santé des armées est dirigé par un chef d'atelier qui dispose du personnel, des outillages et de la 
+documentation technique correspondant à la nature et à l'importance des travaux qu'il est chargé 
+d'exécuter. 
+3.1.2. L'atelier est constitué par un ensemble de cellules élémentaires appelées « postes de travail » 
+dont l'agencement, l'équipement, l'éclairement et le chauffage sont conçus et organisés selon la nature 
+des travaux à effectuer. 
+3.1.3. L'atelier exécute les travaux qui lui sont confiés par le chef du service des ateliers, en 
+application du plan de charge hebdomadaire des ateliers, visé au paragraphe 2.3.2 ci-dessus. Chacun 
+de ces travaux fait l'objet, selon le cas, soit d'un bon de travail (imprimé N° 620-73*/90) défini à 
+l'article 5 ci-après, soit, pour les ateliers industriels des établissements subordonnés à la DAEC, d'un 
+ordre de travail (imprimé N° 620-73*/91) défini à l'article 6 ci-après. 
+ 3.2. Le chef d'atelier. 
+Le chef d'atelier est responsable de la qualité et de la rapidité d'exécution des travaux qui sont confiés à son 
+atelier ainsi que de l'emploi de la main-d'œuvre, des matériels et des matières premières utilisés pour 
+l'exécution de ces travaux. A cet effet : 
+- il conduit et surveille la marche des travaux qui lui sont confiés, selon les instructions du chef du 
+service des ateliers ; 
+- il fait percevoir auprès du magasin de l'établissement, les matériels non consommables et les 
+matières premières qui lui sont nécessaires, selon la procédure comptable définie au paragraphe 8.3 
+ci-après ; 
+- il assure le contrôle rigoureux de l'exécution technique des travaux effectués, des matières premières 
+utilisées, des ordres de priorité fixés, du temps passé par rapport au temps prévu, des délais 
+d'immobilisation en atelier des matériels à réparer, etc. ; 
+
+- il renseigne les bons et ordres de travail visés aux articles 5 et 6 ci-après, qui traduisent l'activité de 
+son atelier, l'emploi de la main-d'œuvre et la consommation des matériels et matières premières 
+utilisés ; 
+- il assure ou fait assurer la gestion du volant d'atelier visé au paragraphe 3.4 ci-après. 
+ 3.3. Les équipes de travail. 
+Le travail confié à chaque atelier est, soit réparti par le chef d'atelier entre des équipes de travail organisées ou 
+non autour d'un poste de travail, soit confié à un ouvrier spécialisé dans l'exécution de certains de ces travaux. 
+Chaque équipe de travail est dirigée par un ouvrier, particulièrement qualifié, qui est chargé : 
+- de préparer et de guider l'exécution du travail confié ainsi que de procéder, en cas de défectuosité 
+constatée, aux redressements nécessaires ; 
+- d'éviter toute perte de temps ainsi que tout gaspillage d'outillage, de matériels et de matières 
+premières. 
+ 3.4. Les volants d'atelier. 
+Afin d'éviter des perceptions trop fréquentes et d'accélérer l'exécution des travaux qui lui sont confiés, chaque 
+atelier dispose d'un « volant d'atelier » auprès duquel les responsables d'équipes de travail et les ouvriers 
+spécialisés visés au paragraphe 3.3 ci-dessus, peuvent se procurer rapidement les outillages, matériels, 
+rechanges et matières premières d'utilisation et de consommation courantes. 
+Les matériels et matières premières de ce volant sont perçus, selon la procédure comptable définie au 
+paragraphe 8.3 ci-après, par le chef d'atelier qui en assure la gestion. 
+Le volant d'atelier ne doit pas excéder le niveau fixé selon les modalités définies au paragraphe 2.3.3 ci-
+dessus. 
+
+TITRE II. 
+FONCTIONNEMENT DES ATELIERS. 
+Article 4. 
+ Le plan de charge hebdomadaire des ateliers. 
+ 4.1. But du plan de charge hebdomadaire des ateliers. 
+Ce plan est préparé par le chef du service des ateliers. 
+Il a pour but : 
+a). D'assurer la rentabilité des ateliers par un emploi rationnel de la main-d'œuvre et une organisation 
+rigoureuse du travail. 
+b). De permettre à l'autorité visée au paragraphe 2.1.1 ci-dessus de connaître la nature et l'importance 
+exacte de l'activité de chaque atelier de l'établissement, d'apprécier le bien-fondé des travaux à 
+entreprendre, de contrôler la rentabilité des ateliers et d'exercer ses attributions de surveillance 
+intérieure des ateliers, telles qu'elles sont définies à l'article 10 ci-après. 
+c). De permettre au chef du service des ateliers de répartir les travaux confiés à chacun des ateliers 
+placés sous ses ordres et, en s'appuyant sur ce plan de charge, de pouvoir, d'une part, mieux faire face 
+
+à toute situation nécessitant des travaux d'urgence non planifiés et, d'autre part, de mieux exercer ses 
+attributions de contrôle de la main-d'œuvre et des conditions d'exécution des travaux en cours. 
+ 4.2. Eléments pris en compte dans le plan de charge hebdomadaire des ateliers. 
+ 4.2.1. Cas des ateliers industriels des établissements de la DAEC 
+Le plan de charge hebdomadaire de ces ateliers industriels est établi d'après la répartition des travaux, 
+revenant à chacun des établissements concernés, arrêtée dans un programme annuel d'études, de fabrications, 
+de transformations et de remise en état des matériels, établi par la direction des approvisionnements et des 
+établissements centraux du service de santé des armées. 
+ 4.2.2. Cas des ateliers d'entretien général de tous les établissements. 
+Le plan de charge de ces ateliers est élaboré en fonction, d'une part, des bons de travail (imprimé N° 620-
+73*/90), signés par les divers chefs de service de l'établissement et, d'autre part, des directives reçues du chef 
+d'établissement. 
+L'existence de ce plan de charge ne fait pas obstacle à ce que ces ateliers effectuent également tous travaux 
+d'entretien non programmés à l'avance dont l'urgence et la nécessité ont été reconnues par le chef de service 
+des ateliers. 
+ 4.3. Contenu du plan de charge hebdomadaire des ateliers. 
+Le plan de charge hebdomadaire des ateliers : 
+- répartit les travaux planifiés devant être effectués dans la semaine suivante par chacun des ateliers de 
+l'établissement ; 
+- évalue le temps à consacrer à chacun de ces travaux ; 
+- définit l'ordre de priorité de chacun d'eux ; 
+- contient toutes directives complémentaires nécessaires à l'exécution de ces travaux. 
+Les plans de charge hebdomadaires sont conservés en archives durant un an par le chef du service des ateliers 
+dans un registre ouvert à cet effet, afin de pouvoir être présentés à toute autorité militaire chargée d'une 
+mission d'inspection ou de contrôle. 
+ 4.4. Evaluation préalable des travaux correspondants à des opérations importantes. 
+Avant d'être inscrits au plan de charge hebdomadaire des ateliers, les travaux correspondant à des opérations 
+importantes doivent faire l'objet d'une évaluation préliminaire qui est effectuée selon les dispositions suivantes 
+: 
+4.4.1. Cas des travaux relevant d'un atelier industriel des établissements de la DAEC. 
+Après réception du programme annuel d'études, de fabrications et de transformations visé au paragraphe 4.2.1 
+ci-dessus, chaque directeur d'établissement de la DAEC concerné fait évaluer, par son chef des services 
+techniques, le coût estimatif global de chacune des opérations de travaux confiées à un établissement ; dans le 
+même temps, lorsque la DAEC lui en donne l'ordre, il fait établir un devis de l'opération en cause par une ou 
+plusieurs entreprises publiques ou privées, spécialisées dans la réalisation de travaux de même nature. La 
+DAEC, au reçu de ces devis comparatifs, décide si l'opération précitée doit être réalisée par les ateliers 
+industriels de l'établissement concerné ou s'il est plus avantageux, au plan financier, d'en confier la réalisation 
+à une entreprise privée, soumissionnaire d'un marché établi à cet effet. 
+
+4.4.2. Cas des travaux relevant des ateliers d'entretien général d'un établissement du service de 
+santé des armées. 
+Afin de prendre en toute connaissance de cause la décision de faire réaliser par les ateliers d'entretien général 
+une opération importante de travaux, le chef d'établissement ou le gestionnaire de l'hôpital ou le chef des 
+services administratifs dans les écoles, selon le cas, doit faire établir systématiquement, par le chef du service 
+des ateliers, un devis estimatif lui permettant de comparer le coût réel complet de l'opération envisagée (frais 
+de main-d'œuvre inclus) avec le coût d'une prestation de même nature pouvant être effectuée par une 
+entreprise privée. Dès lors, tout projet de travail dont la réalisation par les ateliers de l'établissement est jugée 
+peu rentable doit être confié à une entreprise privée. 
+En aucun cas, ces ateliers ne doivent entreprendre la confection d'un matériel dont un modèle standardisé, 
+répondant aux besoins de l'établissement, existe dans le commerce à un prix de revient compétitif. 
+Les ateliers ne doivent, en outre, réaliser que les seuls travaux ressortissant aux travaux locatifs de réparation 
+et d'entretien, tels qu'ils sont définis dans l'instruction relative aux travaux immobiliers du service de santé des 
+armées ; sont exclus de leur compétence les travaux ressortissant au service constructeur des armées dont 
+dépend, à cet égard, l'établissement concerné. 
+Article 5. 
+ Le bon de travail. 
+ 5.1. But du bon de travail. 
+Le bon de travail, tel qu'il est défini au paragraphe 5.2 ci-après, a pour but : 
+- 
+de permettre aux chefs de service de tout établissement du service de santé des armées 
+d'exprimer une demande de travaux ou de réparation et, par le visa apposé sur ce bon par l'autorité 
+mentionnée au paragraphe 5.3 ci-après, de traduire cette demande en un ordre d'exécution du travail 
+demandé, destiné au chef du service des ateliers de l'établissement ; 
+- 
+de constituer un document comptable, utilisé comme il est précisé à l'article 7 ci-après, pour le 
+contrôle de la destination des matériels et matières premières délivrés aux ateliers, ainsi que pour le 
+calcul des prix de revient des travaux exécutés par les ateliers. 
+ 5.2. Contexture du bon de travail (imprimé N° 620-73*/90). 
+Le bon de travail est utilisé pour toutes demandes de travaux et de réparations, à l'exception des travaux 
+d'études, de réalisations de prototypes, de fabrications, de transformations et de remises en état de matériels 
+relevant des ateliers industriels des établissements de la DAEC. pour lesquels est établi un ordre de travail visé 
+à l'article 6 ci-après. 
+Ce bon est extrait d'un carnet à souches de bons de travail (imprimé N° 620-73*/90), mis à la disposition de 
+chacun des chefs de service de l'établissement concerné, après avoir été coté et paraphé par l'autorité 
+administrative précisée sur le carnet à souche. 
+a). Le recto du bon de travail comporte, outre l'indication du service demandeur, la définition précise 
+des travaux à effectuer, la signature du chef du service demandeur et le visa de l'autorité, précisée au 
+paragraphe 5.3 ci-après, compétente pour traduire la demande en ordre d'exécution de travail. 
+b). Le verso du bon de travail comporte des rubriques, renseignées après exécution, par le chef 
+d'atelier concerné et visées par le chef du service des ateliers et le chef du service demandeur, qui 
+précisent la date et la durée des travaux, les quantités de chacune des fournitures de matériels et 
+matières premières utilisées, le nombre d'heures de travail de chacun des groupes d'ouvriers ayant 
+
+exécuté ces travaux ainsi que le décompte financier de l'ensemble des fournitures et de la main-
+d'œuvre utilisées pour la réalisation des travaux en cours. 
+Lorsque le montant des matériels et matières premières utilisés n'excède pas un seuil fixé périodiquement par 
+l’instruction du 29 novembre 1982 et l’instruction du 04 mai 1983 citées en troisième et quatrième références, 
+ce décompte fait l'objet d'une simple estimation. 
+Ces éléments sont exploités par la comptabilité analytique de l'établissement et servent, en outre, à contrôler 
+l'utilisation des matériels et matières premières délivrés par le magasin de l'établissement par rapprochement 
+de la consommation des ateliers et des sorties de ce magasin. 
+ 5.3. Procédures d'utilisation du bon de travail. 
+ 5.3.1. Cas d'intervention d'un seul atelier sur un même travail. 
+Toute demande de travaux de réparation ou d'entretien courant fait l'objet, de la part du service demandeur, 
+d'un bon de travail établi en trois exemplaires par autoduplication et signé du chef du service demandeur. 
+Les trois bons en cause, encore fixés au carnet à souche (imprimé N° 620-73*/90), sont remis au chef du 
+service des ateliers ; ce dernier procède à l'étude de faisabilité du travail demandé et soumet le bon de travail 
+au visa, selon le cas, soit du gestionnaire pour les hôpitaux des armées, soit du chef des services administratifs 
+pour les autres établissements du service de santé ; ce visa confère au bon de travail la valeur d'un ordre de 
+travail. 
+Alors que le troisième exemplaire du bon de travail reste en souche, les deux autres exemplaires sont destinés 
+au chef du service des ateliers qui en conserve un et fait parvenir l'autre au chef d'atelier chargé de l'exécution 
+du travail ; ce dernier, lorsque le travail est terminé, renvoie ce bon au chef du service des ateliers, après en 
+avoir renseigné le verso et l'avoir visé. 
+Le chef du service des ateliers conserve cet exemplaire du bon en archives après avoir transcrit les 
+renseignements qu'il contient sur l'exemplaire qu'il a initialement conservé et qu'il adresse ensuite au service 
+administratif chargé de tenir la comptabilité analytique d'exploitation de l'établissement. 
+ 5.3.2. Cas d'intervention de plusieurs ateliers sur un même travail. 
+Dans le cas où un travail nécessite l'intervention de plusieurs ateliers, le chef du service des ateliers établit, sur 
+un carnet à souches réservé à cet effet, un bon de travail pour chacun des ateliers concernés par l'opération. 
+Lorsque le travail est terminé, les indications relatives à la main-d'œuvre et aux matériels et matières 
+premières utilisés, portées sur les bons de travail des différents ateliers y ayant participé, sont récapitulées par 
+le chef du service des ateliers sur le bon de travail initial, établi par le service demandeur et destiné au service 
+administratif chargé de la comptabilité analytique d'exploitation de l'établissement. 
+ 5.3.3. Cas d'un travail entrepris en urgence. 
+Dans le cas d'un travail entrepris, en raison de son urgence, sans avoir observé la procédure ci-dessus, cette 
+dernière est mise en œuvre a posteriori, à titre de régularisation du travail effectué. 
+Article 6. 
+ L'ordre de travail. 
+ 6.1. But de l'ordre de travail. 
+L'ordre de travail, défini au paragraphe 6.2 ci-dessous, a pour but, dans les seuls ateliers industriels des 
+établissements de la DAEC. où il est utilisé : 
+
+- d'engager la phase d'exécution de toute opération d'étude, de réalisation de prototype, de fabrication, 
+de transformation ou de remise en état de matériels, décidée par la DAEC. et inscrite au plan de 
+charge hebdomadaire de l'atelier concerné ; 
+- de constituer un document comptable, utilisé comme il est précisé à l'article 7 ci-après, pour 
+l'établissement de la comptabilité des ateliers et de la comptabilité analytique d'exploitation de 
+l'établissement, ainsi que pour le contrôle de l'utilisation des matériels et matières premières délivrés 
+aux ateliers, par rapprochement entre les consommations de ces ateliers et les sorties de matériels et 
+matières premières du magasin de l'établissement ; 
+- de constituer un document de contrôle de gestion permettant de déceler les écarts entre devis 
+estimatif et coût de réalisation de l'opération concernée et de rechercher la cause de ces écarts. 
+ 6.2. Contexte de l'ordre de travail (imprimé double feuille N° 620-73*/91). 
+L'ordre de travail comporte un numéro d'ordre, la désignation de l'atelier concerné, la définition précise des 
+travaux à effectuer, la signature du chef des services techniques de l'établissement et celle du chef d'atelier 
+concerné, ainsi que les rubriques suivantes : 
+- devis estimatif et coût de réalisation en main-d'œuvre de l'opération ; 
+- devis estimatif et coût de réalisation en matériels et matières premières ; 
+- prix de revient par atelier et prix de revient total de l'opération lorsque plusieurs ateliers de 
+l'établissement ont collaboré à l'opération ; 
+- prix de revient unitaire de chaque article confectionné ou réparé. 
+ 6.3. Procédure d'utilisation de l'ordre de travail. 
+L'ordre de travail est établi par le chef des services techniques de l'établissement, en fonction de l'ordre 
+d'exécution donné par le chef d'établissement et du plan de charge hebdomadaire de l'atelier concerné par 
+l'opération. 
+Le chef d'atelier qui le reçoit, renseigne, après exécution des travaux, les rubriques concernant le nombre 
+d'heures de main-d'œuvre et les fournitures utilisées ; il précise, en outre, avant d'apposer sa signature sur ce 
+document, les dates auxquelles les travaux précités ont débuté et ont été terminés. 
+Lorsque plusieurs ateliers industriels participent à une même opération, le chef des services techniques précité 
+établit un ordre de travail pour chacun d'eux ; dans ce cas, l'atelier principalement concerné par l'opération est 
+désigné comme atelier pilote. 
+A l'aide des ordres de travail renseignés par chacun des chefs d'ateliers ayant participé à l'opération, le chef 
+des services techniques de l'établissement récapitule sur l'ordre de travail reçu de l'atelier pilote les 
+renseignements portés sur les ordres de travail précités, ainsi que le décompte du prix de revient par atelier et 
+du prix de revient total de l'opération ; il conserve l'original de cet ordre de travail et en fait parvenir une copie 
+au service administratif chargé de la comptabilité analytique de l'établissement. 
+
+TITRE III. 
+COMPTABILITÉ DES ATELIERS. 
+Article 7. 
+ But et contenu de la comptabilité des ateliers. 
+ 7.1. But de la comptabilité des ateliers. 
+La comptabilité des ateliers a pour but : 
+- de contrôler l'activité des ateliers ; 
+- de justifier l'emploi de la main-d'œuvre, des matériels et des matières premières ; 
+- d'établir le prix de revient des travaux et fabrications réalisés par les ateliers ; 
+- de fournir les éléments nécessaires à la comptabilité analytique d'exploitation et à l'analyse de 
+gestion de l'établissement. 
+ 7.2. Contenu de la comptabilité des ateliers. 
+La comptabilité des ateliers comporte les opérations particulières suivantes : 
+- le calcul du coût de la main-d'œuvre employée pour chacun des travaux réalisés ; 
+- la comptabilité des consommations des matériels et matières premières utilisés pour chacun des 
+travaux précités ; 
+- la comptabilité des matériels et matières premières remis aux ateliers ; 
+- le calcul des coûts de chacun des travaux effectués ; 
+- la prise en compte des articles confectionnés par les ateliers. 
+Article 8. 
+ Modalités d'établissement des comptabilités particulières aux ateliers tenues par le chef du service des 
+ateliers. 
+ 8.1. Calcul du coût de la main-d'œuvre employée pour chaque travail effectué. 
+Cette opération est effectuée à partir des indications portées à cet effet sur le bon de travail ou sur l'ordre de 
+travail qui précisent la nature du groupe de chaque ouvrier concerné, le nombre d'heures passées par chacun 
+d'eux à la réalisation du travail, le coût horaire standard. 
+ 8.2. Comptabilité des consommations de matériels et matières premières utilisés pour chacun des travaux 
+concernés. 
+Cette comptabilité est établie à partir des indications portées à cet effet sur le bon de travail ou l'ordre de 
+travail précités, qui précisent les quantités et le coût unitaire de chacune des fournitures utilisées pour tout 
+travail effectué. 
+
+ 8.3. Comptabilité des matériels et matières premières remis aux ateliers. 
+Les perceptions sont justifiées au moyen des pièces suivantes définies dans l'instruction provisoire no 
+700/DEF/DCSSA/3/ER du 4 avril 1984 et dans les instruction 2395 895 /DEF/DCSSA/3/ER/MAT du 29 
+novembre 1982 et instruction 2395 895 /DEF/DCSSA/3/ER/MAT du 04 mai 1983 : 
+- 
+les matériels non consommables ainsi que les matériels destinés à devenir immobiliers par 
+destination, au moyen d'un bon de mouvement intérieur (imprimé N° 620-73*/40) ; 
+- 
+les matières premières, au moyen, soit d'un bon de perception (imprimé N° 620-73*/3), soit 
+d'un état navette semestriel de perception (imprimé N° 620-73*/12). 
+ 8.4. Calcul du coût de chacun des travaux réalisés. 
+Ce calcul est effectué : 
+a). Pour tout travail réalisé par un ou plusieurs ateliers d'entretien général, à partir des indications des 
+coûts de main-d'œuvre et des coûts de matériels et matières premières portés sur le bon de travail 
+visant le travail en cause. 
+b). Pour toute opération réalisée par un ou plusieurs ateliers industriels d'établissement de la DAEC, à 
+partir du coût de la main-d'œuvre et du coût des matériels et matières premières décomptés sur l'ordre 
+de travail concerné. 
+Lorsque plusieurs ateliers industriels ont participé à l'exécution d'une même opération, le prix de revient total, 
+porté sur l'ordre de travail de l'atelier pilote, récapitule les coûts précités, qui sont consignés sur les ordres de 
+travail visant chacun des ateliers participant à l'opération. 
+ 8.5. Prise en compte des articles confectionnés. 
+La prise en compte par l'établissement concerné des articles confectionnés par ses ateliers s'effectue selon la 
+procédure ci-après. 
+On distingue à cet égard : 
+- d'une part, une procédure spécifique aux établissements d'approvisionnement et de ravitaillement ; 
+- d'autre part, une procédure applicable dans les hôpitaux, les écoles et les autres organismes du 
+service de santé des armées. 
+ 8.5.1. Procédures applicables dans les établissements d'approvisionnement et de ravitaillement du service 
+de santé des armées. 
+Ces établissements sont constitués par les établissements centraux et généraux subordonnés à la DAEC et par 
+les établissements de ravitaillement subordonnés aux directions du service de santé des régions militaires ou 
+maritimes. 
+ 8.5.1.1. Prise en compte des articles par le service de la comptabilité de l'établissement. 
+Le chef du service des ateliers adresse au service de la comptabilité de l'établissement un certificat 
+administratif « entrée » (imprimé N° 620-73*/35), pour inscription : 
+a). Au registre-journal (imprimé N° 620-73*/60) pour ce qui concerne les articles non consommables 
+placés en approvisionnement ou en service ainsi que les articles consommables et les médicaments 
+fabriqués mis en approvisionnement. 
+
+b). Au registre des pièces justificatives et de réception des matières et objets de consommation 
+courante (imprimé N° 620-73*/1) pour ce qui concerne les articles fabriqués, considérés comme 
+consommables et mis en service. 
+En outre les articles visés au paragraphe a) ci-dessus doivent être inscrits sur les fiches inventaires 
+(imprimé N° 620-73*/21) de l'inventaire général de l'établissement. 
+ 8.5.1.2. Prise en compte des articles par le magasin destinataire. 
+Le chef du service des ateliers adresse au magasin concerné un ordre de mouvement (imprimé N° 620-
+73*/35). 
+a). Les articles non consommables placés en approvisionnement ou en service ainsi que les articles 
+consommables et les médicaments fabriqués placés en approvisionnement, sont enregistrés sur des 
+fiches inventaires (imprimé N° 620-73*/26) de l'inventaire particulier du magasin. 
+b). Les articles fabriqués, considérés comme consommables et mis en service, sont enregistrés, soit 
+sur des fiches inventaires (imprimé N° 620-73*/11) de l'inventaire particulier du magasin, soit sur des 
+documents informatiques en tenant lieu : journal des entrées (imprimé N° 620-73*/2), journal des 
+mouvements à la date du… (imprimé N° 620-73*/5). 
+ 8.5.2. Procédures applicables dans les hôpitaux, les écoles, les centres de recherche et les autres organismes 
+du service de santé des armées. 
+ 8.5.2.1. Prise en compte des articles par le service de la comptabilité de l'établissement. 
+Le chef du service des ateliers adresse au service de la comptabilité de l'établissement un certificat 
+administratif « entrée » (imprimé N° 620-73*/54) pour inscription : 
+a). Au registre-journal (imprimé N° 620-73*/60) pour ce qui concerne les articles non consommables. 
+b). Au registre des pièces justificatives et de réception des matières et objets de consommation 
+courante (imprimé N° 620-73*/1) pour ce qui concerne les articles fabriqués, considérés comme 
+consommables. 
+En outre, les articles visés au paragraphe a) ci-dessus, doivent être inscrits sur les fiches inventaires (imprimé 
+N° 620-73*/22) de l'inventaire général de l'établissement. 
+ 8.5.2.2. Prise en compte des articles par le magasin destinataire. 
+Le chef du service des ateliers adresse au magasin concerné un certificat administratif « entrée » (imprimé N° 
+620-73*/54). 
+a). Les articles non consommables sont enregistrés sur des fiches inventaires (imprimé N° 620-
+73*/26) de l'inventaire particulier du magasin. 
+b). Les articles fabriqués, considérés comme consommables, sont enregistrés, soit sur des fiches 
+inventaires (imprimé N° 620-73*/11) de l'inventaire particulier du magasin, soit sur des documents 
+informatiques en tenant lieu : journal des entrées (imprimé N° 620-73*/2), journal des mouvements à 
+la date du… (imprimé N° 620-73*/5). 
+
+TITRE IV. 
+SURVEILLANCE ADMINISTRATIVE DES ATELIERS. 
+Article 9. 
+ Dispositions générales. 
+La surveillance administrative des ateliers des établissements du service de santé des armées comporte : 
+a). Des opérations de surveillance intérieure, effectuées sous la responsabilité du chef d'établissement. 
+b). Des visites de surveillance administrative qui sont effectuées : 
+- en ce qui concerne les hôpitaux des armées et les établissements de ravitaillement régionaux, sur 
+ordre du directeur du service de santé de la région sous l'autorité duquel sont placés ces organismes ; 
+- en ce qui concerne les établissements subordonnés à la DAEC, sur ordre du directeur de la DAEC ; 
+- en ce qui concerne les écoles, centres de recherches et autres organismes rattachés ou subordonnés à 
+la DCSSA, sur ordre du directeur central du service de santé des armées. 
+Article 10. 
+ Opérations de surveillance intérieure effectuées sous la responsabilité du chef d'établissement. 
+La surveillance intérieure des ateliers est une responsabilité réglementaire du chef d'établissement, assisté, à 
+cet effet, par son chef des services administratifs. Elle comporte le contrôle : 
+- de l'application des dispositions de la présente instruction ; 
+- de la comptabilité des ateliers et, notamment, la vérification des écritures comptables fournies par le 
+chef du service des ateliers, le contrôle de l'utilisation des matériels et des matières premières utilisés 
+dans les ateliers ainsi que la vérification, par rapprochement des bons de perception (2)) et des bons 
+ou ordres de travail, des matériels et matières premières détenus par les ateliers ; 
+- des calculs conduisant à la détermination du prix de revient des travaux effectués dans les ateliers ; 
+- du bon emploi des personnels et de la qualité des travaux ; 
+- de l'ordre et de la propreté des ateliers et de l'état des machines et installations en service ; 
+- de l'application des règles concernant l'hygiène et la sécurité du travail. 
+Ces opérations de contrôle, effectuées au moins deux fois par an, sont consignées dans le registre des actes 
+administratifs de l'établissement. 
+Article 11. 
+ Opérations de surveillance administrative des ateliers effectuées pour le compte des autorités 
+hiérarchiques auxquelles sont subordonnés les établissements concernés. 
+Ces opérations sont effectuées selon les dispositions de l'instruction no 210/DEF/DCSSA/ETG du 1 octobre 
+1983 sur la surveillance administrative dans les écoles, établissements et organismes du service de santé des 
+armées (3). Elles font l'objet d'au moins une visite de surveillance annuelle dans les ateliers des hôpitaux, 
+établissements et autres organismes concernés. Elles comportent notamment, outre le contrôle de l'application 
+des dispositions de la présente instruction, les opérations de vérification visées à l'article 10 ci-dessus. 
+
+TITRE V. 
+DISPOSITIONS DIVERSES. 
+Article 12. 
+ Textes abrogés. 
+Sont abrogés les textes suivants : 
+-instruction particulière no 740/4/DN/DCSSA du 26 mars 1959 pour l'organisation et la comptabilité 
+des ateliers dans les établissements du service de santé de l'armée de terre et les hôpitaux des armées 
+(BO/G, p. 1990) ; 
+-circulaire no 1075/DEF/DCSSA/3/ER du 4 juillet 1974, relative à la comptabilité des ateliers dans les 
+hôpitaux des armées (BOC, 1975, p. 3883) ; 
+-circulaire no 2428/DEF/DCSSA/3/ER du 3 décembre 1982, relative à l'organisation et à la 
+comptabilité des ateliers des établissements du service de santé des armées (n.i. BO). 
+Article 13. 
+ Conditions d'application de la présente instruction. 
+La présente instruction entrera en vigueur à compter du jour de sa publication au Bulletin officiel des armées. 
+Pour le ministre de la défense et par délégation : 
+Le médecin général, sous-directeur organisation-logistique de la DCSSA 
+Régis FORISSIER. 
+
+(1) abrogée par l’instruction 700 /DEF/DCSSA/OL/ER du 09 mars 1998 (BOC 1999, p. 51). 
+(2) Par bon de perception, on entend, dans ce cas, les bons de mouvement intérieur (imprimé N° 620-73*/40), les bons de 
+perception (imprimé N° 620-73*/3) et l'état navette semestriel de perception (imprimé N° 620-73*/12. 
+(3) BOC, p. 6542 ; abrogée par l’instruction 1061 /DEF/DCSSA/EPGIECX du 07 janvier 1993 (BOC, p. 2455).
