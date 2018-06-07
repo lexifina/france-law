@@ -2,53 +2,33 @@
 
 LISTE DES ÉTABLISSEMENTS PUBLICS ADMINISTRATIFS ENTRANT DANS LE CHAMP DE COMPÉTENCE DU COMITÉ TECHNIQUE MINISTÉRIEL, POUR L'EXAMEN DES QUESTIONS COMMUNES
 
-Etablissement public du Palais de la porte Dorée.
-
-Etablissement public du musée du quai Branly-Jacques Chirac
-
-Institut national de recherches archéologiques préventives.
-
-Institut national d'histoire de l'art.
+Académie de France à Rome.
 
 Bibliothèque nationale de France.
 
-Etablissement public du musée du Louvre.
-
-Etablissement public du château, du musée et du domaine national de Versailles.
-
-Etablissement public du musée d'Orsay et du musée de l'Orangerie.
-
 Bibliothèque publique d'information.
-
-Centre national d'art et de culture Georges Pompidou, Etablissement public "Cité de la céramique-Sèvres et Limoges".
 
 Centre des monuments nationaux.
 
+Centre national d'art et de culture Georges-Pompidou.
+
+Centre national des arts plastiques.
+
 Centre national du cinéma et de l'image animée.
 
-Etablissement public du musée et domaine national du château de Fontainebleau.
+Centre national du livre.
 
-Etablissement public du musée des arts asiatiques Guimet.
+Conservatoire national supérieur d'art dramatique.
 
-Etablissement public du musée Rodin.
+Conservatoire national supérieur de musique et de danse de Lyon.
 
-Etablissement public du musée national Picasso, Paris.
+Conservatoire national supérieur de musique et de danse de Paris.
 
-Musée national Jean-Jacques Henner.
-
-Musée national Gustave Moreau.
-
-Centre national des Arts plastiques.
-
-Institut national du patrimoine.
-
-Centre national du Livre.
+Ecole du Louvre.
 
 Ecole nationale supérieure des arts décoratifs.
 
-Ecole nationale supérieure des beaux-arts.
-
-Conservatoire national supérieur d'art dramatique.
+Ecole nationale supérieure des Beaux-Arts.
 
 Ecole nationale supérieure d'art de Bourges.
 
@@ -56,27 +36,13 @@ Ecole nationale supérieure d'art de Cergy-Pontoise.
 
 Ecole nationale supérieure d'art de Dijon.
 
-Ecole nationale supérieure d'art de Limoges.
+Ecole nationale supérieure d'art de Limoges Aubusson.
 
-Ecole nationale supérieure d'art de Nancy.
+Ecole nationale supérieure d'art et de design de Nancy.
+
+Villa Arson.
 
 Ecole nationale supérieure de la photographie d'Arles.
-
-Ecole nationale supérieure des arts décoratifs.
-
-Etablissement public "Villa Arson".
-
-Académie de France à Rome.
-
-Opérateur du patrimoine et des projets immobiliers de la culture.
-
-Ecole du Louvre.
-
-Conservatoire national supérieur de musique et de danse de Lyon.
-
-Conservatoire national supérieur de musique et de danse de Paris.
-
-Etablissement public du musée des civilisations de l'Europe et de la Méditerranée (MuCEM).
 
 Ecole nationale supérieure d'architecture et de paysage de Bordeaux.
 
@@ -117,3 +83,39 @@ Ecole nationale supérieure d'architecture de Strasbourg.
 Ecole nationale supérieure d'architecture de Toulouse.
 
 Ecole nationale supérieure d'architecture de Versailles.
+
+Etablissement public du Palais de la porte Dorée.
+
+Etablissement public Cité de la céramique-Sèvres et Limoges.
+
+Etablissement public du musée d'Orsay et du musée de l'Orangerie.
+
+Etablissement public du musée du Louvre.
+
+Etablissement public du musée des arts asiatiques Guimet.
+
+Etablissement public du musée des civilisations de l'Europe et de la Méditerranée.
+
+Etablissement public du musée du Quai Branly-Jacques Chirac.
+
+Etablissement public du musée national Picasso-Paris.
+
+Etablissement public du musée et domaine national du château de Fontainebleau.
+
+Etablissement public du musée Rodin.
+
+Etablissement public du musée national Jean-Jacques Henner et du musée national Gustave Moreau.
+
+Etablissement public du château et du domaine national de Versailles.
+
+Institut national d'histoire de l'art.
+
+Institut national du patrimoine.
+
+Institut national de recherches archéologiques préventives.
+
+Opérateur du patrimoine et des projets immobiliers de la culture.
+
+NOTA :
+
+Conformément à l'article 9 de l’arrêté du 30 mai 2018, ces dispositions s'appliquent en vue des élections professionnelles du 6 décembre 2018.
