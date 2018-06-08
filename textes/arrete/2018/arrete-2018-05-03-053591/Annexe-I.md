@@ -130,4 +130,16 @@ Pôle biologie, service d'hématologie-biothérapie, hôpital de la Conception |
 
 82 MCUP 1918 (bio-ingénierie pharmaceutique et biothérapies) |
 
+Sciences biologiques, fondamentales et cliniques, |
+
+Centre hospitalier et universitaire
+
+de Lyon (UFR de Pharmacie Lyon I) |
+
+Pôle biologie et anatomie pathologique, service d'hématologie biologique, groupe hospitalier Sud-Centre |
+
+82 MCUP 9003
+
+(hématologie cellulaire) |
+
 sv : emploi susceptible d'être vacant.
