@@ -1,7 +1,5 @@
 # Article Annexe II
 
-ANNEXE II
-
 EXPÉRIMENTATION
 
 1. Applicabilité
@@ -26,10 +24,12 @@ Cela comprend notamment :
 
 - de jour, en vue et à une distance horizontale maximale de 200 mètres d'un télépilote, et
 
-- hors zone peuplée, en dehors de toute manifestation aérienne et à une distance horizontale minimale de 50 mètres de toute personne autre que les personnes impliquées dans le pilotage de l'aéronef ou l'opération de sa charge utile.
+- hors zone peuplée, en dehors de toute manifestation aérienne et à une distance horizontale minimale de 50 mètres de toute personne autre que les personnes impliquées dans le pilotage de l'aéronef ou l'opération de sa charge utile ; et
+
+- par un ou des télépilotes répondant aux dispositions de l'arrêté du 18 mai 2018 relatif aux exigences applicables aux télépilotes qui utilisent des aéronefs civils circulant sans personne à bord à des fins autres que le loisir.
 
 3. Délivrance du laissez-passer
 
-Le laissez-passer est délivré par le ministre chargé de l'aviation civile sur la base d'un dossier technique précisant les conditions des vols d'expérimentation et les mesures mises en œuvre pour assurer la sécurité des tiers au sol et des autres usagers de l'espace aérien.
+Le laissez-passer est délivré par le ministre chargé de l'aviation civile sur la base d'un dossier technique précisant les conditions des vols d'expérimentation, la formation et l'expérience du télépilote, ainsi que les mesures mises en œuvre pour assurer la sécurité des tiers au sol et des autres usagers de l'espace aérien.
 
 Le ministre chargé de l'aviation civile peut exiger toute justification utile à la démonstration du niveau de sécurité et imposer toute restriction jugée nécessaire.
