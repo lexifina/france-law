@@ -158,6 +158,16 @@ France |
 
 Préfet |
 
+Maladie Hémorragique Virale du lapin (VHD) |
+
+RHDV2 |
+
+Lapin et autres espèces réceptives |
+
+France |
+
+Préfet |
+
 Maladie des muqueuses/diarrhée virale bovine
 
 |
