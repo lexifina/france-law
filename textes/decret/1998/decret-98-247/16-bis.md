@@ -50,7 +50,15 @@ I.-Lorsqu'il en est rendu destinataire par le président du tribunal, le présid
 
 En outre, le président mentionne la décision, rendue par une juridiction d'un Etat membre de l'Union européenne soumis à l'application du règlement (UE) 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité, ouvrant une procédure d'insolvabilité en application de l'article 3 (§ 1) de ce règlement, à l'égard d'une personne immatriculée au répertoire des métiers, dont le centre des intérêts principaux ou le domicile est situé dans cet Etat. Cette mention est effectuée à la demande de la personne désignée par ce règlement, qui justifie de ses pouvoirs.
 
-II.-Sont radiées d'office les mentions relatives aux décisions mentionnées au I lorsque :
+II. - Sans préjudice du I, pour les décisions ouvrant une procédure de sauvegarde ou de redressement ou liquidation judiciaires à compter du 26 juin 2018, le président de la chambre, lorsqu'il en est rendu destinataire, procède d'office à la mention au répertoire des métiers :
+
+1° De la nature principale, secondaire ou territoriale de la procédure d'insolvabilité au sens des paragraphes 1, 2 ou 4 de l'article 3 du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité ;
+
+2° De la juridiction compétente pour connaître du recours à l'encontre de la décision d'ouverture de la procédure d'insolvabilité pour un motif de compétence internationale et du délai pour former ce recours ;
+
+3° Du délai de déclaration des créances avec les références électroniques du portail prévu par les articles L. 814-2 et L. 814-13 du code de commerce.
+
+III.-Sont radiées d'office les mentions relatives aux décisions mentionnées au I et au II lorsque :
 
 1° Il a été mis fin à une procédure de sauvegarde en application de l'article L. 622-12 du code de commerce ;
 
