@@ -1,1013 +1,545 @@
 # Article Annexe
 
-.
-
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NIVEAU
 
-de responsabilité
-
-exercé
-
-|
+de responsabilité exercé |
 
 NOMBRE
 
 de points
 
-par emploi
-
-|
+par emploi |
 
 NOMBRE
 
-d'emplois
+d'emplois concernés |
 
-concernés
+I.-Administration centrale |
 
 |
 
-I. - Administration centrale
-
-|
-
-|
-
-|
-
-|
-
-1. Emploi lié à l'informatique et aux nouvelles technologies
-
-|
-
-|
-
-|
-
-|
-
-Chargé de communication interne et institutionnelle
-
-|
-
-A ou B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-2. Secrétariat comportant des contraintes particulières en matière d'horaires
-
-|
-
-|
-
-|
-
-|
-
-Assistant de direction
-
-|
-
-B ou C
-
-|
-
-10
-
-|
-
-2
-
-|
-
-Assistant de direction
-
-|
-
-B ou C
-
-|
-
-20
-
-|
-
-4
-
-|
-
-Assistant de direction DG et DGA
-
-|
-
-B ou C
-
-|
-
-20
-
-|
-
-2
-
-|
-
-Secrétaire assistant
-
-|
-
-B ou C
-
-|
-
-10
-
-|
-
-2
-
-|
-
-3. Responsabilité d'encadrement
-
-|
-
-|
-
-|
-
-|
-
-Adjoint au chef du bureau du cabinet
-
-|
-
-B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Adjoint au directeur de cabinet
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Chef du bureau du cabinet
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Responsable de l'action sociale
-
-|
-
-B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH - GPEEC
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Adjoint au chef du département chargé de mission emploi et formation
-
-|
-
-A
-
-|
-
-40
-
-|
-
-1
-
-|
-
-Adjoint au chef du département du droit privé, du droit des activités économiques et sociales
-
-|
-
-A
-
-|
-
-30
-
-|
-
-1
-
-|
-
-Adjoint au chef du département du droit public et des affaires institutionnelles
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-4. Emploi impliquant une technicité particulière
-
-ou une responsabilité particulière
-
-|
-
-|
-
-|
-
-|
-
-Chef suivi section budget déplacements
-
-|
-
-B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Agent responsable de la section de suivi des textes législatifs et des questions écrites
-
-|
-
-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent responsable de la section solde
-
-|
-
-B
-
 |
 
-10
-
-|
-
-1
-
-|
-
-Gestionnaire de la mission outre-mer
-
-|
-
-B ou C
-
-|
-
-20
-
-|
-
-2
-
-|
-
-Gestionnaire des ressources budgétaires et logistiques
-
-|
-
-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Secrétaire assistant
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Assistant de gestion au département de la cohésion sociale, de la santé et de l'enseignement
-
-|
-
-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Chargé de mission sécurité civile
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Gestionnaire ressources humaines
-
-|
-
-B ou C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Chef de la section du budget et de la logistique
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
 |
 
-Adjoint au chef du département de la dépense de l'Etat, chef de la section budgétaire
+1. Emploi lié à l'informatique et aux nouvelles technologies |
 
 |
-
-A
 
 |
 
-30
-
 |
 
-1
+Chargé de communication interne et institutionnelle |
 
-|
+A ou B |
 
-Adjoint au chef du département chargé de mission juriste
+10 |
 
-|
+1 |
 
-A
+2. Secrétariat comportant des contraintes particulières en matière d'horaires |
 
 |
-
-15
 
 |
 
-1
-
 |
 
-Assistant de gestion défiscalisation
-
-|
+Assistant de direction |
 
-C
+B ou C |
 
-|
+10 |
 
-10
+2 |
 
-|
+Assistant de direction |
 
-1
+B ou C |
 
-|
+20 |
 
-Assistant de gestion politique régionale
+3 |
 
-|
+Assistant de direction DG et DGA |
 
-C
+B ou C |
 
-|
+20 |
 
-10
+2 |
 
-|
+Secrétaire assistant |
 
-1
+B ou C |
 
-|
+10 |
 
-II. - Services déconcentrés
+2 |
 
-|
+3. Responsabilité d'encadrement |
 
 |
 
 |
 
 |
-
-1. Polynésie française
 
-|
+Adjoint au chef du bureau du cabinet |
 
-|
+B |
 
-|
+20 |
 
-|
+1 |
 
-Chiffreur
+Adjoint au directeur de cabinet |
 
-|
+A |
 
-B
+20 |
 
-|
+1 |
 
-10
+Chef du bureau du cabinet |
 
-|
+A |
 
-1
+20 |
 
-|
+1 |
 
-Secrétaire administratif au service des communes
+Responsable de l'action sociale |
 
-|
+B |
 
-B
+20 |
 
-|
+1 |
 
-10
+Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH-GPEEC |
 
-|
+A |
 
-1
+20 |
 
-|
+1 |
 
-Assistant technique au service des communes
+Adjoint au chef du département chargé de mission emploi et formation |
 
-|
+A |
 
-B
+40 |
 
-|
+1 |
 
-20
+Adjoint au chef du département du droit privé, du droit des activités économiques et sociales |
 
-|
+A |
 
-1
+30 |
 
-|
+1 |
 
-Chef de cabinet du haut-commissaire
+Adjoint au chef du département du droit public et des affaires institutionnelles |
 
-|
+A |
 
-A ou B
+20 |
 
-|
+1 |
 
-20
+4. Emploi impliquant une technicité particulière ou une responsabilité particulière |
 
 |
 
-1
-
 |
-
-Adjoint technique à la subdivision des îles Sous-le-Vent
 
 |
 
-A ou B
+Chef suivi section budget déplacements |
 
-|
+B |
 
-20
+20 |
 
-|
+1 |
 
-1
+Agent responsable de la section de suivi des textes législatifs et des questions écrites |
 
-|
+B |
 
-Adjoint technique à la subdivision des îles du Vent
+10 |
 
-|
+1 |
 
-A ou B
+Agent responsable de la section solde |
 
-|
+B |
 
-20
+10 |
 
-|
+1 |
 
-1
+Gestionnaire de la mission outre-mer |
 
-|
+B ou C |
 
-Adjoint technique à la subdivision des îles Tuamolu-Gambier
+20 |
 
-|
+2 |
 
-A ou B
+Gestionnaire des ressources budgétaires et logistiques |
 
-|
+B |
 
-20
+10 |
 
-|
+1 |
 
-1
+Gestionnaire des ressources budgétaires |
 
-|
+B ou C |
 
-Adjoint au chef de la subdivision des îles Sous-le-Vent
+20 |
 
-|
+1 |
 
-A ou B
+Secrétaire assistant |
 
-|
+C |
 
-20
+10 |
 
-|
+1 |
 
-1
+Assistant de gestion au département de la cohésion sociale, de la santé et de l'enseignement |
 
-|
+B |
 
-Adjoint au chef de la subdivision des îles Marquises
+10 |
 
-|
+1 |
 
-A ou B
+Chargé de mission sécurité civile |
 
-|
+A |
 
-20
+20 |
 
-|
+1 |
 
-1
+Gestionnaire ressources humaines |
 
-|
+B ou C |
 
-Secrétaire administratif à la mission d'aide financière et de coopération régionale
+10 |
 
-|
+1 |
 
-B
+Chef de la section du budget et de la logistique |
 
-|
+A |
 
-20
+20 |
 
-|
+1 |
 
-1
+Adjoint au chef du département de la dépense de l'Etat, chef de la section budgétaire |
 
-|
+A |
 
-Responsable de la mission d'aide financière et de coopération régionale au haut-commissariat
+30 |
 
-|
+1 |
 
-A
+Adjoint au chef du département chargé de mission juriste |
 
-|
+A |
 
-20
+15 |
 
-|
+1 |
 
-1
+Assistant de gestion défiscalisation |
 
-|
+C |
 
-Directeur de l'administration et des finances au haut-commissariat
+10 |
 
-|
+1 |
 
-A
+Assistant de gestion politique régionale |
 
-|
+C |
 
-20
+10 |
 
-|
+1 |
 
-1
+II.-Services déconcentrés |
 
 |
 
-Directeur de la réglementation et du contrôle de la légalité au haut-commissariat
-
 |
-
-A
 
 |
 
-20
+1. Polynésie française |
 
 |
 
-1
-
 |
 
-Chef de la cellule budget et contrôle de gestion au haut-commissariat
-
 |
-
-A
 
-|
+Chiffreur |
 
-20
+B |
 
-|
+10 |
 
-1
+1 |
 
-|
+Secrétaire administratif au service des communes |
 
-Chef de la section des passeports et des cartes nationales d'identité au haut-commissariat
+B |
 
-|
+10 |
 
-B
+1 |
 
-|
+Assistant technique au service des communes |
 
-20
+B |
 
-|
+20 |
 
-1
+1 |
 
-|
+Chef de cabinet du haut-commissaire |
 
-2. Nouvelle-Calédonie
+A ou B |
 
-|
+20 |
 
-|
+1 |
 
-|
+Adjoint technique à la subdivision des îles Sous-le-Vent |
 
-|
+A ou B |
 
-Chiffreur
+20 |
 
-|
+1 |
 
-B
+Adjoint technique à la subdivision des îles du vent |
 
-|
+A ou B |
 
-20
+20 |
 
-|
+1 |
 
-1
+Adjoint technique à la subdivision des îles Tuamotu-Gambier |
 
-|
+A ou B |
 
-Chef de cabinet du haut-commissaire
+20 |
 
-|
+1 |
 
-A
+Adjoint au chef de la subdivision des îles Sous-le-Vent |
 
-|
+A ou B |
 
-20
+20 |
 
-|
+1 |
 
-1
+Adjoint au chef de la subdivision des îles Marquises |
 
-|
+A ou B |
 
-Agent chargé du traitement de la solde au haut-commissariat
+20 |
 
-|
+1 |
 
-C
+Secrétaire administratif à la mission d'aide financière et de coopération régionale |
 
-|
+B |
 
-10
+20 |
 
-|
+1 |
 
-1
+Responsable de la mission d'aide financière et de coopération régionale au haut-commissariat |
 
-|
+A |
 
-Chef du service des finances de l'Etat et du développement
+20 |
 
-|
+1 |
 
-A
+Directeur de l'administration et des finances au haut-commissariat |
 
-|
+A |
 
-20
+20 |
 
-|
+1 |
 
-1
+Directeur de la réglementation et du contrôle de la légalité au haut-commissariat |
 
-|
+A |
 
-Premier adjoint au chef de la subdivision administrative Sud, chargé de la politique de la ville
+20 |
 
-|
+1 |
 
-A
+Chef de la cellule budget et contrôle de gestion au haut-commissariat |
 
-|
+A |
 
-20
+20 |
 
-|
+1 |
 
-1
+Chef de la section des passeports et des cartes nationales d'identité au haut-commissariat |
 
-|
+B |
 
-Adjoint au chef de la subdivision administrative Nord
+20 |
 
-|
+1 |
 
-A
+2. Nouvelle-Calédonie |
 
 |
-
-20
 
 |
 
-2
-
 |
-
-Adjoint à la subdivision des îles Loyauté
 
-|
+Chiffreur |
 
-A
+B |
 
-|
+20 |
 
-20
+1 |
 
-|
+Chef de cabinet du haut-commissaire |
 
-2
+A |
 
-|
+20 |
 
-Chef du service des collectivités locales
+1 |
 
-|
+Agent chargé du traitement de la solde au haut-commissariat |
 
-A
+C |
 
-|
+10 |
 
-20
+1 |
 
-|
+Chef du service des finances de l'Etat et du développement |
 
-1
+A |
 
-|
+20 |
 
-3. Wallis et Futuna
+1 |
 
-|
+Premier adjoint au chef de la subdivision administrative Sud, chargé de la politique de la ville |
 
-|
+A |
 
-|
+20 |
 
-|
+1 |
 
-Délégué de Futuna
+Adjoint au chef de la subdivision administrative Nord |
 
-|
+A |
 
-A
+20 |
 
-|
+2 |
 
-20
+Adjoint à la subdivision des îles loyauté |
 
-|
+A |
 
-1
+20 |
 
-|
+2 |
 
-Chiffreur
+Chef du service des collectivités locales |
 
-|
+A |
 
-B
+20 |
 
-|
+1 |
 
-10
+3. Wallis et Futuna |
 
 |
 
-1
-
 |
-
-Chef de la circonscription administrative d'Uvea
 
 |
 
-A
+Délégué de Futuna |
 
-|
+A |
 
-20
-
-|
+20 |
 
-1
+1 |
 
-|
+Chiffreur |
 
-4. Terres australes et antarctiques françaises
+B |
 
-|
+10 |
 
-|
+1 |
 
-|
+Chef de la circonscription administrative d'Uvéa |
 
-|
+A |
 
-Chef de district
+20 |
 
-|
+1 |
 
-A
+4. Terres australes et antarctiques françaises |
 
 |
 
-20
-
 |
-
-1
 
 |
 
-Chef du service administratif et financier
+Chef de district |
 
-|
+A |
 
-A
+20 |
 
-|
+1 |
 
-20
+Chef du service administratif et financier |
 
-|
+A |
 
-1
+20 |
 
-|
+1 |
