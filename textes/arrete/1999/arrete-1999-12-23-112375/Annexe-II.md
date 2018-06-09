@@ -1,63 +1,63 @@
 # Article Annexe II
 
-CARACTERISTIQUES DE TENUE AU FROID
+Caractéristiques de tenue au froid en France métropolitaine
 
-(CONFORMES AUX DISPOSITIONSDU TABLEAU 2a NORME NF EN 590)
+Saison |
 
-SAISON
+Date |
 
-|
+Classe |
 
-DATE
+Température limite de filtrabilité (° C, max.) |
 
-|
+Eté |
 
-CLASSE
+1er avril-31 octobre |
 
-|
+B |
 
-TLF
+0° C |
 
-(C,max)
+Hiver |
 
-|
+1er novembre-31 mars |
 
-Eté
+E |
 
-|
+-15° C |
 
-1er avril - 31 octobre
+Gazole grand froid |
 
-|
+1er janvier-31 décembre |
 
-B
+F |
 
-|
+-20° C |
 
-0°C
+Caractéristiques de tenue au froid en Guadeloupe, Guyane et Martinique
 
-|
+Date |
 
-Hiver
+Classe |
 
-|
+Température limite de filtrabilité (° C, max) |
 
-1er novembre - 31 mars
+1er janvier-31 décembre |
 
-|
+B |
 
-E
+0° C |
 
-|
+Caractéristiques de tenue au froid à Mayotte et à La Réunion
 
--15°C
+Date |
 
-|
+Classe |
 
-TLF : température limite de filtrabilité (méthode d'essai : NF EN 116)
+Température limite de filtrabilité (° C, max) |
 
-|
+1er janvier-31 décembre |
 
-Gazole grand froid
+B |
 
-|
+0° C |
