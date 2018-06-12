@@ -1,0 +1,57 @@
+# Reconnaissance des proches aidants
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36913
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reconnaissance_proches_aidants
+- Sénat : https://www.senat.fr/dossier-legislatif/ppl17-565.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-06-12 : 1er dépôt d'une initiative. (PIONSNR5S299B0565)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-10-10 : Dépôt de rapport (RAPPSNR5S319B0026, PIONSNR5S319BTC0027)
+  - Discussion en séance publique
+    - 2018-10-25 : Discussion en séance publique
+    - 2018-10-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-10-26 : Dépôt d'une initiative en navette (PIONANR5L15B1353)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-26 : Renvoi en commission au fond
+      - 2018-11-06 : Nomination de rapporteur
+      - 2018-11-06 : Réunion de commission
+      - 2018-11-28 : Réunion de commission
+      - 2018-12-06 : Réunion de commission
+      - 2018-11-28 : Dépôt de rapport (RAPPANR5L15B1449)
+  - Discussion en séance publique
+    - 2018-12-06 : Discussion en séance publique
+    - 2018-12-06 : Discussion en séance publique
+    - 2018-12-06 : Décision
+- deuxième lecture
+  - 2018-12-07 : Dépôt d'une initiative en navette (PIONSNR5S319B0184)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-07 : Renvoi en commission au fond
+      - 2019-03-06 : Dépôt de rapport (RAPPSNR5S319B0361, PIONSNR5S319BTC0362)
+  - Discussion en séance publique
+    - 2019-03-13 : Discussion en séance publique
+    - 2019-03-13 : Décision
+- deuxième lecture
+  - 2019-03-13 : Dépôt d'une initiative en navette (PIONANR5L15B1764)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-13 : Renvoi en commission au fond
+      - 2019-03-27 : Nomination de rapporteur
+      - 2019-03-27 : Réunion de commission
+      - 2019-04-30 : Réunion de commission
+      - 2019-04-30 : Dépôt de rapport (RAPPANR5L15B1911, PIONANR5L15BTC1911)
+  - Discussion en séance publique
+    - 2019-05-09 : Discussion en séance publique
+    - 2019-05-09 : Décision
+- Promulgation de la loi
+  - 2019-05-22 : Promulgation d'une loi
