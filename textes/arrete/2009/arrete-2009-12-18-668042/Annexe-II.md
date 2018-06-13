@@ -28,15 +28,15 @@ Chapitre 1er
 
 Normes d'aménagement et de fonctionnement de l'établissement
 
-1. Les accès à l'établissement sont délimités de façon à interdire la pénétration des personnes étrangères, d'autres animaux, ainsi que celle des véhicules destinés à l'enlèvement des cadavres. Dans le cas d'élevage de volailles avec parcours, la protection à mettre en place ne vise pas les oiseaux sauvages. Dans le cas de volailles en liberté, la délimitation concerne uniquement les véhicules destinés à l'enlèvement des cadavres.
+1. Les accès à l'établissement sont délimités de façon à interdire la pénétration des personnes étrangères, d'autres animaux, ainsi que celle des véhicules destinés à l'enlèvement des cadavres. Dans le cas d'élevage de volailles avec parcours, la protection à mettre en place ne vise pas les oiseaux sauvages, à l'exception des dispositions particulières vis-à-vis de la faune sauvage prévues par arrêté du ministre en charge de l'agriculture. Dans le cas de volailles en liberté, le zonage et la gestion des différents flux sont décrits par arrêté du ministre en charge de l'agriculture.
 
 2. L'approvisionnement en aliments des troupeaux est conçu pour éviter autant que possible la circulation de véhicules étrangers dans la zone d'élevage.
 
-3. Toute personne ayant accès à l'établissement d'élevage revêt une tenue de travail spécifique à l'établissement. L'éleveur et le cas échéant son personnel ont accès à un local, situé sur le site de l'établissement et à proximité des bâtiments d'élevage, pour changer de tenue. Ce local comporte un lave-mains, avec eau si possible chaude, savon liquide, essuie-mains jetables et une poubelle. Il doit être maintenu en bon état d'entretien et de propreté. En cas de production multiple, les poules pondeuses sont isolées des autres espèces animales.
+3. Toute personne ayant accès à l'établissement d'élevage revêt une tenue de travail spécifique à l'établissement. L'éleveur et le cas échéant son personnel ont accès à un sas sanitaire, situé sur le site de l'établissement et à la limite de la zone d'élevage, pour changer de tenue. Ce local comporte un lave-mains, avec eau si possible chaude, savon liquide, essuie-mains jetables et une poubelle. Il doit être maintenu en bon état d'entretien et de propreté. En cas de production multiple, les poules pondeuses sont isolées des autres espèces animales.
 
 4. Les abords de chaque bâtiment sont maintenus en état de propreté satisfaisant.
 
-5. Les cadavres de volailles sont stockés dans des récipients étanches avant enlèvement par l'équarrisseur ou, si leur poids est inférieur à 40 kg, traités conformément à la réglementation en vigueur.
+5. Les cadavres de volailles sont stockés au froid négatif dans des récipients étanches avant enlèvement par l'équarrisseur ou, si leur poids est inférieur à 40 kg, traités conformément à la réglementation en vigueur.
 
 6. Le brûlage à l'air libre des déchets et des cadavres est interdit. Toute mesure est prise pour empêcher la contamination des volailles et des œufs par les dioxines, les polychlorobiphényles (PCB) et les molécules apparentées.
 
@@ -54,7 +54,7 @@ En cas de résultats favorables lors d'un premier contrôle et sous réserve d'u
 
 Tout résultat non satisfaisant fait l'objet de mesures correctives.
 
-9. Des opérations de nettoyage, désinfection et de vide sanitaire des bâtiments d'élevage des volailles et du matériel d'élevage (nids de ponte, abreuvoirs, nourrisseurs, etc.) sont réalisées au moins annuellement. La litière doit être retirée du bâtiment avant les opérations de nettoyage et désinfection. Les tracteurs et autres matériels de manipulation doivent être nettoyés après cette opération. Le stockage, l'épandage des déjections animales et des eaux de nettoyage ne doivent pas constituer une source de contamination de l'établissement.
+9. Des opérations de nettoyage, désinfection et de vide sanitaire des bâtiments d'élevage des volailles et du matériel d'élevage (nids de ponte, abreuvoirs, nourrisseurs, etc.) sont réalisées après la sortie de chaque bande et au moins annuellement. La litière doit être retirée du bâtiment avant les opérations de nettoyage et désinfection. Les tracteurs et autres matériels de manipulation doivent être nettoyés après cette opération. Le stockage, l'épandage des déjections animales et des eaux de nettoyage ne doivent pas constituer une source de contamination de l'établissement.
 
 Le nettoyage et la désinfection des locaux d'élevage et de leurs annexes ainsi que du matériel sont effectués selon un protocole écrit et reconnu comme valide, à l'aide d'un désinfectant autorisé. Ce protocole doit également prendre en compte la lutte contre les animaux et les insectes et les acariens indésirables, ainsi que la décontamination des abords.
 

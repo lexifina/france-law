@@ -6,11 +6,11 @@ Section I
 
 Dispositions générales
 
-1. La présente annexe fixe les conditions sanitaires applicables à la mise à mort du gibier sauvage, à la préparation et à la mise sur le marché de viandes fraîches de gibier sauvage conformément au e du 3 de l'article 1er du règlement (CE) n° 853/2004 :
+1. La présente annexe fixe les conditions sanitaires applicables à la mise à mort du gibier sauvage, à la préparation et à la mise sur le marché de viandes fraîches de gibier sauvage conformément au 4 de l'article 1er du règlement (CE) n° 853/2004 :
 
 a) Remises par le chasseur ou le premier détenteur directement et localement, en petite quantité, au commerce de détail fournissant directement le consommateur final ;
 
-b) Remises par le chasseur ou le premier détenteur directement au consommateur final.
+b) Remises par le chasseur ou le premier détenteur directement, en petite quantité, au consommateur final.
 
 Est exclu du champ de cette annexe l'usage domestique privé de viandes de gibier sauvage.
 
@@ -32,7 +32,7 @@ e) "Repas associatif" : repas organisé, en dehors de l'usage domestique privé,
 
 3. Après la mise à mort par action de chasse, le gibier sauvage peut être stocké - à l'exclusion de tout autre lieu - et si nécessaire éviscéré, dans le cas où l'éviscération n'est pas effectuée sur le lieu de chasse, dans un centre de collecte avant remise au consommateur final ou au commerce de détail local fournissant directement le consommateur final. Le centre de collecte est un site où le gibier sauvage est regroupé et amené aux températures positives inférieures ou égales à + 7 °C pour le grand gibier et à + 4 °C pour le petit gibier. La congélation y est interdite. Ce type d'établissement doit répondre aux exigences prévues par l'annexe I du règlement (CE) n° 852/2004 et doit être déclaré auprès de l'autorité compétente, où il sera enregistré.
 
-4. Dans le cadre de la lutte contre une maladie réputée contagieuse ou une maladie présentant des risques pour la santé publique, des conditions particulières de commercialisation du gibier peuvent être définies par instruction du ministère chargé de l'agriculture.
+4. Dans le cadre de la lutte contre un danger sanitaire de 1re catégorie ou de 2e catégorie, des conditions particulières de commercialisation du gibier peuvent être définies par instruction du ministère chargé de l'agriculture.
 
 Section II
 
@@ -44,11 +44,15 @@ Le gibier sauvage consommé lors de repas de chasse ou de repas associatif doit,
 
 Section III
 
-Exigences applicables au gibier sauvage remis directement
+Exigences applicables au gibier sauvage remis directement par le chasseur ou le premier détenteur au consommateur final
 
-par le chasseur ou le premier détenteur au consommateur final
+1. La petite quantité de gibier que le chasseur ou le premier détenteur peut remettre directement au consommateur final correspond au gibier tué au cours d'une journée de chasse réalisée par ce chasseur ou ce premier détenteur.
 
-Le chasseur ou le premier détenteur doit informer le consommateur final du risque de trichine lié à la consommation de viande de sanglier. Cette disposition peut être étendue par instruction du ministre chargé de l'agriculture à d'autres parasites présents dans la viande de sanglier.
+2. Le gibier sauvage remis directement au consommateur final peut, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section VI.
+
+Le chasseur ou le premier détenteur doit informer le consommateur final du risque de trichine lié à la consommation de viande de sanglier dans le cas où aucune recherche de larves de trichines n'a été réalisée. Cette disposition peut être étendue par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture à d'autres parasites présents dans la viande de sanglier.
+
+Le traitement assainissant à mettre en œuvre pour les viandes non soumises à une recherche de larves de trichines est décrit par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
 Section IV
 
@@ -56,7 +60,7 @@ Exigences applicables à la petite quantité de gibier sauvage remise directemen
 
 1. La petite quantité de gibier que le chasseur ou le premier détenteur peut remettre directement au commerce de détail local correspond au gibier tué au cours d'une journée de chasse réalisée par ce chasseur ou ce premier détenteur.
 
-2. Le chasseur ou le premier détenteur peut remettre cette petite quantité de gibier sauvage directement au commerce de détail fournissant directement le consommateur final situé dans un rayon de 80 kilomètres établi depuis le lieu de chasse. Toutefois, dans le cas de lieux de chasse situés dans des zones soumises à des contraintes géographiques particulières, le préfet peut autoriser une livraison à une distance supérieure.
+2. Le chasseur ou le premier détenteur peut remettre cette petite quantité de gibier sauvage directement au commerce de détail fournissant directement le consommateur final situé dans un rayon de 80 kilomètres établi depuis le lieu de chasse. Toutefois, dans le cas de lieux de chasse situés dans des zones soumises à des contraintes géographiques particulières, le préfet peut autoriser une livraison à une distance supérieure mais ne pouvant pas dépasser un rayon de 200 kilomètres établi depuis le lieu de chasse.
 
 3. L'ensemble du petit et grand gibier sauvage remis directement au commerce de détail fournissant directement le consommateur final doit satisfaire aux exigences suivantes :
 
@@ -76,9 +80,11 @@ iii) N° identification de l'animal ou du lot d'animaux ;
 
 iv) Lieu de mise à mort par action de chasse ;
 
-v) Date de mise à mort par action de chasse ;
+v) Date et heure de mise à mort par action de chasse ;
 
-vi) Destination de la pièce ou du lot de gibier.
+vi) Identification du centre de collecte éventuel ;
+
+vii) Destination de la pièce ou du lot de gibier.
 
 4. La dépouille ou plumaison par le chasseur ou le premier détenteur avant la cession au commerce de détail est interdite.
 
@@ -108,20 +114,24 @@ Section VI
 
 Dispositions relatives au contrôle sanitaire du gibier sauvage
 
-1. Les espèces de gibier sauvage sensibles à la trichinellose doivent subir un prélèvement en vue d'une recherche de larves de trichine par digestion pepsique effectué dans un laboratoire agréé dont la liste figure dans une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement (CE) n° 2075/2005 du 5 décembre 2005 et par arrêté du ministre chargé de l'agriculture.
+1. Les espèces de gibier sauvage sensibles à la trichinellose doivent subir un prélèvement en vue d'une recherche de larves de trichine par digestion pepsique effectué dans un laboratoire agréé dont la liste figure dans une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, par arrêté du ministre chargé de l'agriculture et par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
-a) Dans le cadre de la remise directe par le chasseur ou le premier détenteur au commerce de détail local ou lors de repas de chasse, les frais d'analyse sont à la charge du chasseur ou du premier détenteur. Deux procédures peuvent être envisagées pour la réalisation des prélèvements :
+a) Dans le cadre de la remise directe par le chasseur ou le premier détenteur au commerce de détail local ou lors de repas de chasse ou de repas associatif, les frais liés au matériel de prélèvement, au transport des échantillons, aux analyses et à la destruction des carcasses en cas de résultat positif aux analyses trichines sont à la charge du chasseur ou du premier détenteur.
 
-i) La carcasse de sanglier est apportée dans un abattoir disposant de locaux réservés à cet usage, un établissement de traitement de gibier ou un centre de collecte de gibier dans lequel est effectué, sous la responsabilité des services vétérinaires, le prélèvement "trichine". La carcasse y est consignée sous réserve qu'elle ne constitue pas une source de contamination pour les autres viandes et le prélèvement est envoyé dans un laboratoire agréé accompagné de la fiche d'accompagnement des prélèvements prévue à l'appendice 1 de la présente annexe pré-remplie par le chasseur ou de tout autre document reprenant a minima les éléments figurant sur la fiche de l'appendice 1. Le laboratoire transmet la fiche d'accompagnement sur laquelle figure le résultat directement au chasseur ou au premier détenteur. Si la consignation des carcasses de sangliers n'est pas envisageable sur le site où les prélèvements ont été effectués, celle-ci se fait sous la responsabilité du détenteur de la carcasse.
+Le prélèvement (langue ou muscles du pilier du diaphragme ou membre antérieur) est réalisé par le chasseur ou le premier détenteur et est envoyé dans un laboratoire agréé avec la fiche d'accompagnement prévue à l'annexe VII dûment remplie. La carcasse en attente de résultat est conservée, sous la responsabilité du chasseur ou du premier détenteur, dans des conditions adaptées et sans procéder à sa remise à un tiers ni à sa consommation avant l'obtention d'un résultat négatif. Cette fiche, sur laquelle figure le résultat, ou tout autre document reprenant a minima les éléments figurant sur la fiche, lui est renvoyé directement par le laboratoire. Le chasseur ou le premier détenteur remet la carcasse accompagnée du document mentionnant le résultat d'analyse au commerce de détail ou au responsable du repas de chasse ou du repas associatif.
 
-ii) Le prélèvement (langue entière ou diaphragme ou membre antérieur) est réalisé par le chasseur ou le premier détenteur et est envoyé dans un laboratoire agréé avec la fiche d'accompagnement prévue à l'appendice 1 de la présente annexe. La consignation de la carcasse en attente du résultat est réalisée sous la responsabilité du chasseur ou premier détenteur. Cette fiche, sur laquelle figure le résultat, lui est renvoyée directement par le laboratoire. Le chasseur peut ainsi remettre la carcasse accompagnée de la fiche au commerce de détail. La consignation peut éventuellement s'effectuer chez ce commerçant dans la mesure où celui-ci ne commercialise pas la viande avant réception de la fiche mentionnant un résultat négatif. Lorsqu'un résultat d'analyse est confirmé positif, le chasseur ou premier détenteur s'assure de la destruction de la carcasse incriminée selon la réglementation en vigueur et doit faire parvenir à l'autorité compétente du lieu de prélèvement la preuve de cette destruction.
+La conservation de la carcasse en attente de résultat peut éventuellement s'effectuer chez le commerçant dans la mesure où celui-ci ne commercialise pas la viande avant réception du document, remis par le laboratoire, mentionnant un résultat négatif.
 
-b) Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif. Les modalités de suivi et de gestion d'un cas non négatif sont précisées dans le règlement (CE) n° 2075/2005 du 5 décembre 2005 et par arrêté du ministre chargé de l'agriculture.
+Lorsqu'un résultat d'analyse est confirmé positif, le chasseur ou premier détenteur s'assure de la destruction de la carcasse incriminée selon la réglementation en vigueur et doit faire parvenir à l'autorité compétente du lieu de prélèvement la preuve de cette destruction.
+
+b) Dans le cadre de la remise directe par le chasseur ou le premier détenteur au consommateur final, la recherche de larves de trichines est fortement recommandée. Le prélèvement (langue ou muscles du pilier du diaphragme ou membre antérieur) est réalisé par le chasseur ou le premier détenteur et est envoyé dans un laboratoire agréé avec la fiche d'accompagnement des prélèvements prévue à l'appendice 1 de la présente annexe, dûment remplie. La carcasse en attente de résultat est conservée, sous la responsabilité du chasseur ou du premier détenteur, dans des conditions adaptées et sans procéder à sa remise à un tiers ni à sa consommation avant l'obtention d'un résultat négatif. Les frais liés au matériel de prélèvement, au transport des échantillons, aux analyses et à la destruction de la carcasse en cas de résultat positif aux analyses trichines sont à la charge du chasseur ou du premier détenteur.
+
+2. Conformément au considérant 24 du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre en charge de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture. Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif.
 
 APPENDICE 1 DE L'ANNEXE IV :
 
-FICHE D'ACCOMPAGNEMENT DES PRÉLÈVEMENTS DANS LE CADRE DE LA RECHERCHE DES LARVES
+FICHE D'ACCOMPAGNEMENT DES PRÉLÈVEMENTS
 
-DE TRICHINE RÉALISÉE À L'INITIATIVE DU DÉTENTEUR DE LA CARCASSE DE SANGLIER
+RECHERCHE LARVES TRICHINE
 
-Vous pouvez consulter le tableau dans le JO n° 301 du 29/12/2009 texte numéro 29
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037047275

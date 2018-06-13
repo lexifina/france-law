@@ -14,6 +14,6 @@ b) La distance de distribution vers le commerce de détail n'excède pas les 50 
 
 2. Le transport, le stockage et, pour autant qu'elles soient effectuées à bord du navire de pêche, les manipulations de ces produits (abattage, saignée, étêtage, éviscération, enlèvement des nageoires, réfrigération et conditionnement) sont réalisés dans des conditions d'hygiène satisfaisantes, permettant de les prévenir de toute contamination.
 
-L'eau utilisée pour la manipulation ou la conservation de ces produits doit être de l'eau potable conforme aux dispositions de l'article R. 1321 du code de la santé publique ou de l'eau propre, au sens du i de l'article 2 du règlement (CE) n° 853 / 2004 du 29 avril 2004.
+L'eau utilisée pour la manipulation ou la conservation de ces produits doit être de l'eau potable conforme aux dispositions de l'article R. 1321 du code de la santé publique ou de l'eau propre, au sens du i de l'article 2 du règlement (CE) n° 852/2004 du 29 avril 2004.
 
 Le plus rapidement possible après la capture, les produits primaires de la pêche, qui ne sont pas conservés vivants, doivent être conservés à une température approchant celle de la glace fondante. La glace utilisée doit être fabriquée à partir d'eau potable ou propre, manipulée et entreposée dans des conditions prévenant toute contamination.L'eau de fusion ne doit pas rester en contact avec les produits.

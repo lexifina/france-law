@@ -36,13 +36,15 @@ iii) Numéro d'identification de l'animal ou du lot d'animaux ;
 
 iv) Lieu de mise à mort par action de chasse ;
 
-v) Date de mise à mort par action de chasse ;
+v) Date et heure de mise à mort par action de chasse ;
 
-vi) Destination de la pièce ou du lot de gibier.
+vi) Identification du centre de collecte éventuel ;
+
+vii) Destination de la pièce ou du lot de gibier.
 
 4. Après la mise à mort par action de chasse, le gibier sauvage peut être stocké et si nécessaire éviscéré, dans le cas où l'éviscération n'est pas effectuée sur le lieu de chasse, dans un centre de collecte avant d'être acheminé vers un établissement de traitement. Le centre de collecte est un site où le gibier sauvage est regroupé et amené aux températures positives inférieures ou égales à + 7 °C pour le grand gibier et à + 4 °C pour le petit gibier conformément au 3 de l'article 17 du règlement (CE) n° 852/2004. La congélation y est interdite. Ce type d'établissement doit être déclaré auprès de l'autorité compétente, où il sera enregistré.
 
-5. Dans le cadre de la lutte contre une maladie réputée contagieuse ou une maladie présentant des risques pour la santé publique, des conditions particulières de commercialisation du gibier peuvent être définies par instruction du ministère chargé de l'agriculture.
+5. Dans le cadre de la lutte contre un danger sanitaire de 1re catégorie ou de 2e catégorie, des conditions particulières de commercialisation du gibier peuvent être définies par instruction du ministère chargé de l'agriculture.
 
 Section II
 
@@ -54,7 +56,7 @@ par un établissement de traitement
 
 La commande des dispositifs de marquage est effectuée par les services vétérinaires. Les frais afférents à l'acquisition des dispositifs de marquage sont à la charge des exploitants des établissements de traitement de gibier.
 
-2. Conformément au 3 de l'article 2 du règlement (CE) n° 2075/2005, toute carcasse de gibier sauvage transitant par un atelier de traitement doit, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section IV.
+2. Conformément au 2 de l'article 2 du chapitre II du règlement (UE) 2015/1375 de la Commission du 10 août 2015, toute carcasse de gibier sauvage transitant par un atelier de traitement doit, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section IV.
 
 3. L'échantillonnage prévu au 5 du A du chapitre VIII de la section IV de l'annexe I du règlement (CE) n° 854/2004 pour la réalisation de l'inspection post mortem du petit gibier sauvage non éviscéré est de 5 % du lot de chasse de petit gibier sauvage concerné.
 
@@ -84,13 +86,23 @@ Les agents habilités à exercer les contrôles mentionnés à l'article L. 231-
 
 En cas d'anomalies graves ou répétées concernant la réalisation de l'examen initial, la fédération nationale des chasseurs peut, après avoir mis l'intéressé en mesure de présenter ses observations, retirer la personne concernée de la liste des personnes formées à l'examen initial ou de la liste des formateurs référents. La personne faisant l'objet de cette décision ne peut alors plus pratiquer d'examen initial, ni le cas échéant de formation à l'examen initial. Elle est tenue de rendre son attestation à la fédération qui l'a délivrée. Après avoir notifié sa décision à l'intéressé, la fédération nationale des chasseurs en informe les fédérations départementales et les directions départementales de la protection des populations concernées. La personne ayant fait l'objet d'une mesure de délistement ne peut être ré-inscrite qu'après avoir suivi une nouvelle formation, y compris dans le cas des formateurs référents initialement inscrits sur titre.
 
+La mise à disposition de la liste des formateurs référents et des personnes formées est décrite par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+
 Section IV
 
 Dispositions relatives à l'inspection du gibier sauvage
 
-Les recherches visant à détecter la présence de Trichinella prévues au 3 de l'article 2 du chapitre II du règlement (CE) n° 2075/2005 du 5 décembre 2005 sont effectuées dans un laboratoire agréé dont la liste figure dans une instruction du ministère chargé de l'agriculture et publiée au Bulletin officiel. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement (CE) n° 2075/2005 et par instruction du ministre chargé de l'agriculture. Dans le cadre de la commercialisation via un établissement de traitement du gibier sauvage, le prélèvement est réalisé sous la responsabilité des services vétérinaires, puis est acheminé jusqu'à un laboratoire agréé pour la recherche de larves de trichine accompagné de l'appendice 4 dûment rempli. Les carcasses testées sont consignées dans l'établissement de traitement jusqu'à l'obtention des résultats.
+Les recherches visant à détecter la présence de Trichinella prévues au 2 de l'article 2 du chapitre II du règlement d'exécution (UE) n° 2015/1375 de la Commission du 10 août 2015 sont effectuées dans un laboratoire agréé dont la liste figure dans une instruction du ministère chargé de l'agriculture et publiée au Bulletin officiel. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement d'exécution (UE) n° 2015/1375 de la Commission du 10 août 2015 et par instruction du ministre chargé de l'agriculture.
 
-Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif. Les modalités de suivi et de gestion d'un cas non négatif sont précisées dans le règlement (CE) n° 2075/2005 du 5 décembre 2005 et par instruction du ministre chargé de l'agriculture.
+En fonction du risque d'infestation, les masses de viande à prélever pour réaliser les analyses nécessaires à la détection de larves de Trichinella peuvent être supérieures aux exigences du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015. Ces dispositions sont décrites par instruction du ministre chargé de l'agriculture.
+
+Dans le cadre de la commercialisation via un établissement de traitement du gibier sauvage, s'agissant de contrôle officiel, le prélèvement est réalisé par les services vétérinaires, puis est acheminé jusqu'à un laboratoire agréé pour la recherche de larves de trichine accompagné de la fiche d'accompagnement des prélèvements pour la recherche de larves de trichine prévue au point C de l'appendice 7 de l'annexe V, ou de tout autre document reprenant a minima les éléments figurant sur la fiche, dûment remplie. Les carcasses testées sont consignées dans l'établissement de traitement jusqu'à l'obtention des résultats.
+
+La marque de salubrité peut être apposée avant que les résultats soient connus s'il existe une procédure visant à assurer que les carcasses prélevées ne quitteront pas les locaux de l'atelier de traitement avant l'obtention du résultat négatif.
+
+Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif. Conformément à l'article 7 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre chargé de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture.
+
+Le financement du matériel nécessaire à la réalisation des prélèvements, des analyses et du transport est détaillé par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
 APPENDICE 1 DE L'ANNEXE VII : CAHIER DES CHARGES RELATIF À LA FORMATION DES PERSONNES À L'EXAMEN INITIAL DU GIBIER SAUVAGE
 
@@ -438,8 +450,6 @@ Concernant la personne formée :
 
 Concernant l'examen initial :
 
-- lieu de réalisation de l'examen initial ;
-
 - date et heure de réalisation de l'examen initial ;
 
 - destination du gibier : établissement de traitement ou centre de collecte ou commerce de détail ;
@@ -465,9 +475,3 @@ Signatures :
 - signature du détenteur du gibier ;
 
 - signature de la personne formée ayant réalisé l'examen initial.
-
-APPENDICE 4 DE L'ANNEXE VII : FICHE DE TRANSMISSION DE PRÉLÈVEMENTS POUR LA RECHERCHE DE LARVES DE TRICHINE
-
-RÉALISÉE DANS LE CADRE D'UN CONTRÔLE OFFICIEL
-
-Vous pouvez consulter le tableau dans le JO n° 301 du 29/12/2009 texte numéro 29

@@ -50,7 +50,7 @@ La commande des dispositifs de marquage de salubrité est effectuée par les ser
 
 7. Conformément au 8 du chapitre III de la section II de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004, seuls peuvent sortir de l'abattoir d'une part les animaux vivants non déchargés du véhicule et uniquement s'ils sont à destination d'un autre abattoir, et d'autre part ceux présentés à l'abattage concernés par le 8 du chapitre III de la section II de l'annexe I du règlement précité.
 
-8. Conformément au 9 du chapitre IV de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, la liste des agents d'épilation autorisés pour l'eau d'échaudage des porcs est publiée au Bulletin officiel du ministère chargé de l'agriculture.
+8. Conformément au règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de recherche de larves de trichines sur les espèces sensibles à la trichinellose, de consigne des carcasses en attente de résultat et le plan d'intervention décrivant les mesures à prendre dans le cas où un résultat d'analyse révèle la présence de Trichinella sont détaillés en appendice 7 de la présente annexe.
 
 9. Les dispositions relatives à la collecte et au prétraitement de sang d'ongulés domestiques destiné à la consommation humaine sont décrites à l'appendice 5 de la présente annexe.
 
@@ -72,7 +72,7 @@ b) Tout bovin, solipède ou porcin accidenté depuis plus de 48 heures ;
 
 c) Tout ovin ou caprin accidenté.
 
-15. Si un animal tel que défini au point 14 de la section I de la présente annexe, ou si un animal non accompagné d'un certificat vétérinaire d'information tel que défini au point 2 du chapitre Ier de la section III de la présente annexe dûment renseigné par le vétérinaire sanitaire qui l'a examiné personnellement, est introduit à l'abattoir, le vétérinaire officiel refuse la préparation de cet animal en vue de la consommation humaine et demande à l'exploitant de l'abattoir de faire procéder à sa mise à mort sans souffrance :
+15. Si un animal tel que défini au point 14 de la section I de la présente annexe, ou si un animal non accompagné d'un certificat vétérinaire d'information tel que défini au point 2 du chapitre Ier de la section III de la présente annexe dûment renseigné par le vétérinaire qui l'a examiné personnellement, est introduit à l'abattoir, le vétérinaire officiel refuse la préparation de cet animal en vue de la consommation humaine et demande à l'exploitant de l'abattoir de faire procéder à sa mise à mort sans souffrance :
 
 a) Soit par euthanasie par un vétérinaire praticien au moyen d'une injection létale ;
 
@@ -110,9 +110,9 @@ Exigences applicables au gibier ongulé d'élevage
 
 1. Tout éleveur ou détenteur de gibier d'élevage ongulé désirant abattre en exploitation ses animaux doit faire parvenir au préfet une déclaration d'activité telle que mentionnée dans l'arrêté du 28 juin 1994 susvisé.
 
-2. Le modèle de déclaration prévue au i du 3 de la section III de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, que l'éleveur ou le détenteur doit remplir, figure en appendice 7 de la présente annexe. Le modèle de certificat vétérinaire d'information prévu au j du 3 de la même section, que le vétérinaire sanitaire doit remplir, figure en appendice 8 de la présente annexe. Ces documents doivent tous deux accompagner les carcasses en peau jusqu'à l'abattoir. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information sont à la charge du demandeur de la visite.
+2. La déclaration de l'éleveur ou du détenteur prévue au i du 3 de la section III de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004, et le certificat vétérinaire prévu au j du 3 de la même section, accompagnent les carcasses en peau jusqu'à l'abattoir, conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information pour la partie qui concerne le vétérinaire sont à la charge du demandeur de la visite.
 
-3. Les dispositions énoncées dans les paragraphes 1 et 2 de la présente section sont applicables au bison.
+3. Les dispositions énoncées dans les paragraphes 1 et 2 de la présente section sont applicables aux bisons.
 
 Section III
 
@@ -126,15 +126,15 @@ Abattage à l'abattoir des animaux accidentés
 
 1. Seuls les animaux, accidentés depuis moins de 48 heures, des espèces bovine, équine, porcine et des grands gibiers d'élevage ongulés peuvent être abattus pour cause d'accident dans un abattoir.
 
-2. Tout animal accidenté doit faire l'objet, préalablement à son envoi à l'abattoir, sous réserve qu'il soit transportable au sens du règlement (CE) n° 1 / 2005 susvisé et que l'accident date de moins de 48 heures, d'un examen clinique détaillé par un vétérinaire sanitaire. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information sont à la charge du demandeur de la visite. La réalisation de cet examen est attestée par la délivrance d'un certificat vétérinaire d'information (appendice 8 de la présente annexe), dûment renseigné par le vétérinaire sanitaire. Ce certificat doit accompagner l'animal lors de son transport et être remis à l'exploitant de l'abattoir à l'arrivée à l'abattoir pour transmission immédiate au vétérinaire officiel devant réaliser l'inspection ante mortem de l'animal.
+2. Tout animal accidenté doit faire l'objet, préalablement à son envoi à l'abattoir, sous réserve qu'il soit transportable au sens du règlement (CE) n° 1/2005 susvisé et que l'accident date de moins de 48 heures, d'un examen clinique détaillé par un vétérinaire sanitaire ou par un vétérinaire intervenant en cas d'indisponibilité du vétérinaire sanitaire. Les honoraires et frais de déplacement dus au vétérinaire pour l'examen de l'animal et l'établissement du certificat vétérinaire d'information sont à la charge du demandeur de la visite. La réalisation de cet examen est attestée par la délivrance d'un certificat vétérinaire d'information (formulaire CERFA n° 15766 mis à disposition sur le site http://mesdémarches.agriculture.gouv.fr), dûment renseigné par le détenteur, le vétérinaire qui réalise l'examen, et le conducteur du véhicule acheminant l'animal à l'abattoir. Ce certificat accompagne l'animal lors de son transport et doit être remis à l'exploitant de l'abattoir à l'arrivée à l'abattoir pour transmission immédiate au vétérinaire officiel devant réaliser l'inspection ante mortem de l'animal. Le vétérinaire officiel de l'abattoir le complète et renvoie une copie au vétérinaire qui l'a émis, si le détenteur initial ne s'y est pas opposé.
 
 Chapitre II
 
 Abattage d'urgence en dehors d'un abattoir
 
-1.L'abattage d'ongulés domestiques dangereux et la mise à mort d'animaux lors de corridas sont assimilés à un cas d'urgence pour cause d'accident. Ces animaux peuvent faire l'objet d'un abattage en dehors d'un abattoir, au même titre que les animaux accidentés depuis moins de 48 heures pour les espèces bovine, équine, porcine et des grands gibiers d'élevage ongulés qui sont non transportables, tel que prévu au chapitre VI de la section I de l'annexe III du règlement (CE) n° 853 / 2004. La déclaration de l'éleveur ou du détenteur telle que prévue au 5 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004 et le certificat vétérinaire d'information tel que prévu au 6 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004 accompagnent ces animaux lorsqu'ils sont acheminés à l'abattoir. Les modèles de ces deux documents figurent en appendices 7 et 8 de la présente annexe.
+1. L'abattage d'ongulés domestiques dangereux et la mise à mort d'animaux lors de corridas sont assimilés à un cas d'urgence pour cause d'accident. Ces animaux peuvent faire l'objet d'un abattage en dehors d'un abattoir, au même titre que les animaux accidentés depuis moins de 48 heures pour les espèces bovine, équine, porcine et des grands gibiers d'élevage ongulés qui sont non transportables, tel que prévu au chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004. La déclaration de l'éleveur ou du détenteur telle que prévue au 5 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004 et la déclaration vétérinaire telle que prévue au 6 du chapitre VI de la section I de l'annexe III du règlement (CE) n° 853/2004 du 29 avril 2004 accompagnent la carcasse en peau jusqu'à l'abattoir conformément au modèle prévu par le formulaire CERFA n° 15912 mis à disposition sur le site http://mesdemarches.agriculture.gouv.fr. Le certificat vétérinaire d'information dûment rempli par l'éleveur ou le détenteur de l'animal et par le vétérinaire qui réalise l'examen accompagne la carcasse en peau jusqu'à l'abattoir. Le vétérinaire officiel de l'abattoir complète le certificat vétérinaire d'information et renvoie une copie au vétérinaire qui a réalisé l'examen.
 
-2. Les honoraires et frais de déplacement dus au vétérinaire sanitaire pour l'examen initial de l'animal en dehors d'un abattoir et l'établissement du certificat vétérinaire d'information défini en appendice 8 de la présente annexe sont à la charge du demandeur de la visite.
+2. Les honoraires et frais de déplacement dus au vétérinaire pour l'examen initial de l'animal en dehors d'un abattoir et l'établissement de la partie du certificat vétérinaire d'information concernant le vétérinaire sont à la charge du demandeur de la visite.
 
 3. Les viscères, le sang et le cuir des animaux abattus d'urgence en dehors d'un abattoir ne peuvent en aucun cas être destinés à la consommation humaine.
 
@@ -456,16 +456,28 @@ Vous pouvez consulter le tableau dans le JO n° 301 du 29 / 12 / 2009 texte num�
 
 APPENDICE 7 DE L'ANNEXE V
 
-DÉCLARATION DE L'ÉLEVEUR OU DU DÉTENTEUR
+MODALITÉS DE RECHERCHE DE LARVES DE TRICHINES ET PLAN D'INTERVENTION EN CAS DE RÉSULTAT NON NÉGATIF OU POSITIF
 
-LORS D'ABATTAGE D'ANIMAUX EN DEHORS D'UN ABATTOIR
+A. - Modalités de recherche de larves de trichines
 
-Vous pouvez consulter le tableau dans le JO n° 301 du 29 / 12 / 2009 texte numéro 29
+Les carcasses d'animaux d'espèces sensibles à l'infestation par Trichinella doivent subir un prélèvement en vue d'une recherche de larves de trichine par digestion pepsique effectué dans un laboratoire agréé dont la liste figure dans une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, par arrêté du ministre chargé de l'agriculture et par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
-APPENDICE 8 DE L'ANNEXE V
+En fonction du risque d'infestation, les masses de viande à prélever pour réaliser les analyses nécessaires à la détection de Trichinella peuvent être supérieures aux exigences du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015. Ces dispositions sont décrites par instruction du ministre chargé de l'agriculture.
 
-CERTIFICAT VÉTÉRINAIRE D'INFORMATION DEVANT ACCOMPAGNER
+S'agissant de contrôles officiels, tous les prélèvements en vue de la recherche de larves de trichine sont réalisés par les services vétérinaires.
 
-L'ANIMAL OU LA CARCASSE JUSQU'À L'ABATTOIR
+Les prélèvements sont envoyés dans un laboratoire agréé accompagnés de la fiche d'accompagnement des prélèvements pour la recherche de larves de trichine prévue au point C de l'appendice 7 dûment remplie ou de tout autre document reprenant a minima les éléments figurant sur la fiche.
 
-Vous pouvez consulter le tableau dans le JO n° 301 du 29 / 12 / 2009 texte numéro 29
+En attente de résultat, les carcasses prélevées sont consignées dans l'abattoir. Cependant, conformément au point 3 de l'article 2 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les carcasses de porcins domestiques et de chevaux peuvent être découpées en trois parties au maximum par demi-carcasses avant l'obtention des résultats d'analyse. Cette découpe doit être réalisée directement dans l'abattoir ou dans un atelier de découpe agréé, annexé ou non à l'abattoir. Les modalités d'obtention de l'autorisation de découpe en trois parties au maximum par demi-carcasses sont décrites par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+
+La marque de salubrité peut être apposée avant que les résultats soient connus s'il existe une procédure visant à assurer qu'aucune partie des carcasses prélevées ne quittera les locaux de l'abattoir ou éventuellement de l'atelier de découpe avant l'obtention du résultat négatif.
+
+Le financement du matériel nécessaire à la réalisation des prélèvements, des analyses et du transport est détaillé par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.
+
+B. - Plan d'intervention lorsque l'examen d'échantillons révèle la présence de Trichinella
+
+Conformément à l'article 7 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre chargé de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture. Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif.
+
+C. - Fiche de transmission de prélèvements pour la recherche de larves de trichine réalisée dans le cadre d'un contrôle officiel.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037047275
