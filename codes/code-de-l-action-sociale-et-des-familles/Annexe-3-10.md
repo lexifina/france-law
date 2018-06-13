@@ -114,7 +114,7 @@ Examiner certaines thématiques et des registres spécifiques
 
 10° La capacité de l'établissement ou du service pour assurer la cohérence et la continuité des actions et interventions.
 
-11° Le respect des critères énoncés par la réglementation en vigueur et par les recommandations de bonnes pratiques professionnelles validées par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux, relatifs notamment à la qualité d'hébergement.
+11° Le respect des critères énoncés par la réglementation en vigueur et par les recommandations de bonnes pratiques professionnelles validées par la Haute Autorité de santé, relatifs notamment à la qualité d'hébergement.
 
 12° Les formes de mobilisation des professionnels, en observant l'organisation collective : organisation des échanges d'information, méthodes de travail, dispositifs de gestion de crise, modalités de formation des personnels.
 
@@ -258,7 +258,7 @@ Observation et description
 
 1° La construction du cadre de référence spécifique de l'évaluation résultant des deux volets suivants :
 
-a) Un volet commun comportant le rappel des orientations définies par les autorités compétentes sur le champ observé et les recommandations de bonnes pratiques professionnelles validées par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux ;
+a) Un volet commun comportant le rappel des orientations définies par les autorités compétentes sur le champ observé et les recommandations de bonnes pratiques professionnelles validées par la Haute Autorité de santé ;
 
 b) Un volet propre à chaque établissement ou service, décrivant la stratégie, les objectifs de l'établissement ou du service et les missions confiées sur un territoire géographique donné, dans le cadre des procédures d'autorisation.
 
@@ -288,7 +288,7 @@ Cette étape permet une mise en forme des informations utiles pour :
 
 2° Confronter la situation observée au cadre de référence spécifique de l'évaluation défini au 1.1 (1°) ; il s'agit notamment de déterminer la réalisation des objectifs initiaux, en tenant compte des mesures d'amélioration prises à l'issue des évaluations déjà conduites ;
 
-3° Examiner la prise en compte des procédures, références et recommandations de bonnes pratiques professionnelles validées ou élaborées par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux.
+3° Examiner la prise en compte des procédures, références et recommandations de bonnes pratiques professionnelles validées ou élaborées par la Haute Autorité de santé.
 
 SECTION 3
 
@@ -352,7 +352,7 @@ La présentation doit distinguer les analyses consécutives aux informations col
 
 3.5. La synthèse.
 
-Elle est établie par l'évaluateur au regard des objectifs énoncés au chapitre 2, selon un modèle fixé par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux et téléchargeable gratuitement sur son site internet. La synthèse concourt à une meilleure connaissance du service rendu au travers des activités et prestations. Dans tous les cas, devront figurer dans le rapport les points suivants :
+Elle est établie par l'évaluateur au regard des objectifs énoncés au chapitre 2, selon un modèle fixé par la Haute Autorité de santé et téléchargeable gratuitement sur son site internet. La synthèse concourt à une meilleure connaissance du service rendu au travers des activités et prestations. Dans tous les cas, devront figurer dans le rapport les points suivants :
 
 1° Les conditions d'élaboration et de mise en oeuvre du projet de l'établissement ou du service, d'organisation de la qualité de la prise en charge ou de l'accompagnement des usagers et les modalités de leur évaluation avec le concours des usagers ;
 
@@ -364,8 +364,4 @@ Elle est établie par l'évaluateur au regard des objectifs énoncés au chapitr
 
 3.6. Dans la perspective de l'amélioration continue de la qualité des activités et prestations délivrées par l'établissement ou le service, l'évaluateur formule, outre les propositions et/ ou préconisations ci-dessus mentionnées, toute observation utile à l'aide à la décision du commanditaire concernant l'adaptation des modalités d'accueil et d'accompagnement, au regard de l'évolution des besoins des usagers et en tenant compte des ressources.
 
-3.7. Un abrégé du rapport est établi par l'organisme habilité selon un modèle fixé par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux et téléchargeable gratuitement sur son site internet. Cet abrégé est annexé au rapport.
-
-NOTA :
-
-Conformément au décret n° 2012-147 du 30 janvier 2012, article 5, les dispositions resultant des II et III de l'article 3 dudit décret s'appliquent aux évaluations externes engagées à compter du 1er juillet 2012.
+3.7. Un abrégé du rapport est établi par l'organisme habilité selon un modèle fixé par la Haute Autorité de santé et téléchargeable gratuitement sur son site internet. Cet abrégé est annexé au rapport.

@@ -246,7 +246,7 @@ Le gestionnaire ou son représentant doit remplir les conditions de qualificatio
 
 5.4.4. Le gestionnaire fait procéder au moins une fois par an à une enquête auprès des personnes accompagnées sur leur perception de la qualité des interventions.
 
-5.4.5. Le gestionnaire prend en compte les recommandations de bonnes pratiques professionnelles validées notamment par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux (ANESM) lorsqu'il intervient auprès des personnes âgées, des personnes handicapées ou des familles fragiles.
+5.4.5. Le gestionnaire prend en compte les recommandations de bonnes pratiques professionnelles validées notamment par la Haute Autorité de santé lorsqu'il intervient auprès des personnes âgées, des personnes handicapées ou des familles fragiles.
 
 VI.-Dispositions communautaires
 
