@@ -1,6 +1,6 @@
 # Article 1635 bis AE
 
-I. – Est subordonné au paiement d'un droit perçu au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés le dépôt auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique de chaque :
+I. – Est subordonné au paiement d'un droit perçu au profit de la Caisse nationale de l'assurance maladie le dépôt auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique de chaque :
 
 1° Demande d'enregistrement mentionnée aux articles L. 5121-13 et L. 5121-14 du même code, de chaque demande de renouvellement ou de chaque demande ou notification de modification de cet enregistrement ;
 
