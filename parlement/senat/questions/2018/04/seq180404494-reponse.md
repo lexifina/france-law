@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404494
+
+- Question : [SEQ180404494](seq180404494.md) — Commissionnement et assermentation des gardes-nature
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-06-14, page 3006*
+
+L'article L. 362-5 du code de l'environnement dispose désormais que les fonctionnaires ou agents publics des collectivités territoriales ou de leurs groupements chargés de la protection des espaces ou patrimoines naturels, commissionnés et assermentés, sont habilités à rechercher et à constater les infractions aux dispositions du titre VI (accès à la nature) du livre III (espaces naturels). L'article L. 415-1 de ce même code dispose que les agents assermentés et commissionnés des collectivités territoriales et de leurs groupements et les agents assermentés des parcs naturels régionaux sont habilités à rechercher et à constater les infractions aux dispositions du titre I (protection du patrimoine naturel) du livre IV (patrimoine naturel) et des textes pris pour son application. Le ministère de la transition écologique et solidaire a préparé récemment un projet de décret pour que ces dispositions puissent être applicables. Ce texte indique la procédure de commissionnement et d'assermentation des agents. Il est actuellement soumis à l'avis des associations représentatives des collectivités concernées. La publication du décret est envisagée pour la fin de l'année 2018. Il est rappelé que dans l'attente de la publication de ce texte d'application, les infractions en question peuvent être recherchées et constatées par les gardes champêtres. Par ailleurs, les collectivités locales ou leurs groupements peuvent faire appel, lorsqu'elles sont gestionnaires d'un site du Conservatoire de l'espace littoral et des rivages lacustres ou d'une réserve naturelle, respectivement aux gardes du littoral et aux agents de la réserve naturelle commissionnés et assermentés.
