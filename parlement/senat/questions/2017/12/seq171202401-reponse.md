@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202401
+
+- Question : [SEQ171202401](seq171202401.md) — Plan d'occupation des sols et intercommunalité
+
+## Réponse
+
+*Intérieur (Mme la ministre auprès du ministre d'État), JO du 2018-06-14, page 3000*
+
+L'article L. 174-5 du code de l'urbanisme prévoit en son premier alinéa que lorsqu'un établissement public de coopération intercommunale (EPCI), compétent en matière de plan local d'urbanisme (PLU) ou de document d'urbanisme en tenant lieu, a engagé une procédure d'élaboration d'un plan local d'urbanisme intercommunal avant le 31 décembre 2015, les plans d'occupation des sols (POS) demeurent applicables sur son territoire, à condition que ce PLU intercommunal soit approuvé, au plus tard, le 31 décembre 2019. Dans le cadre de la rationalisation de la carte intercommunale, un établissement issu de la fusion entre deux anciens EPCI peut achever une procédure de PLU qui aura été engagée préalablement à cette fusion. En effet, le dernier alinéa de l'article précité précise que ce dispositif est applicable sur le territoire des anciennes communautés qui ont engagé une procédure de révision ou d'élaboration d'un plan local d'urbanisme intercommunal avant le 31 décembre 2015 et dont l'ensemble des communes ont fusionné après l'engagement de ce plan local d'urbanisme intercommunal. Par ailleurs, l'article L. 5211-41-3 du code général des collectivités territoriales prévoit que « l'établissement public issu de la fusion est substitué de plein droit, pour l'exercice de ses compétences, aux anciens établissements publics et, le cas échéant, aux communes incluses dans son périmètre dans toutes leurs délibérations et tous leurs actes ». Dès lors, les communes ne se voient pas appliquer sur leur territoire le règlement national d'urbanisme et peuvent bénéficier des dispositions de l'article L. 174-5 précité.
