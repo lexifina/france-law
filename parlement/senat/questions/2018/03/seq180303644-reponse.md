@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303644
+
+- Question : [SEQ180303644](seq180303644.md) — Modification du lien entre dotation de solidarité urbaine et indemnité des élus
+
+## Réponse
+
+*Intérieur, JO du 2018-06-14, page 2997*
+
+Le 5° de l'article L. 2123-22 du code général des collectivités territoriales (CGCT) permet aux conseils municipaux des communes qui, au cours de l'un au moins des trois exercices précédents, ont été attributaires de la dotation de solidarité urbaine, de voter des majorations d'indemnité de fonction par rapport à celles prévues pour l'exercice effectif de leurs fonctions par les maires, les adjoints, les conseillers municipaux des communes de 100 000 habitants et plus, les présidents et membres de délégations spéciales faisant fonction d'adjoint. Ces majorations sont fixées par voie réglementaire. Ainsi, le 4° de l'article R. 2123-23 du CGCT permet aux conseils municipaux des communes qui ont reçu la dotation de solidarité urbaine de fixer les indemnités de fonction de leurs élus dans la strate indemnitaire immédiatement supérieure. L'article 100 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018 crée au dernier alinéa de l'article L. 2123-23, à compter du 1er janvier 2018, la possibilité de majorer de 40 % les indemnités de fonction des chefs de l'exécutif des collectivités et établissements publics de coopération intercommunale à fiscalité propre les plus importants. Cette majoration est comprise dans une enveloppe constituée des indemnités maximales susceptibles d'être allouées aux membres de l'organe délibérant. Cette enveloppe ne tient pas compte des majorations d'indemnités de fonction prévues pour certaines communes à l'article L. 2123-22. Celles-ci s'appliquent donc, s'agissant des maires, à l'indemnité de fonction majorée, le cas échéant, selon les dispositions nouvelles du dernier alinéa de l'article L. 2123-23.
