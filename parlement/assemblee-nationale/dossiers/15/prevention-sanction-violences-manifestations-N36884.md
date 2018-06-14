@@ -1,0 +1,56 @@
+# Maintien de l'ordre public lors des manifestations
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36884
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/prevention_sanction_violences_manifestations
+- Sénat : https://www.senat.fr/dossier-legislatif/ppl17-575.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-06-14 : 1er dépôt d'une initiative. (PIONSNR5S299B0575)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-06-14 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-10-17 : Dépôt de rapport (RAPPSNR5S319B0051, PIONSNR5S319BTC0052)
+  - Discussion en séance publique
+    - 2018-10-23 : Discussion en séance publique
+    - 2018-10-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-10-26 : Dépôt d'une initiative en navette (PIONANR5L15B1352)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-26 : Renvoi en commission au fond
+      - 2019-01-15 : Nomination de rapporteur
+      - 2019-01-15 : Réunion de commission
+      - 2019-01-22 : Réunion de commission
+      - 2019-01-23 : Réunion de commission
+      - 2019-01-29 : Réunion de commission
+      - 2019-01-29 : Réunion de commission
+      - 2019-01-23 : Dépôt de rapport (RAPPANR5L15B1600, PIONANR5L15BTC1600)
+  - Discussion en séance publique
+    - 2019-01-29 : Discussion en séance publique
+    - 2019-01-29 : Discussion en séance publique
+    - 2019-01-30 : Discussion en séance publique
+    - 2019-01-30 : Discussion en séance publique
+    - 2019-02-01 : Discussion en séance publique
+    - 2019-02-05 : Discussion en séance publique
+    - 2019-02-05 : Décision
+- deuxième lecture
+  - 2019-02-05 : Dépôt d'une initiative en navette (PIONSNR5S319B0286)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-05 : Renvoi en commission au fond
+      - 2019-03-06 : Dépôt de rapport (RAPPSNR5S319B0363, PIONSNR5S319BTC0364)
+  - Discussion en séance publique
+    - 2019-03-12 : Discussion en séance publique
+    - 2019-03-12 : Décision
+- Conseil constitutionnel
+  - 2019-03-13 : Saisine du conseil constitutionnel
+  - 2019-03-13 : Saisine du conseil constitutionnel
+  - 2019-03-13 : Saisine du conseil constitutionnel
+  - 2019-04-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-04-10 : Promulgation d'une loi
