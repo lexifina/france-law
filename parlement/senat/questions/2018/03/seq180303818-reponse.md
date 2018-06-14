@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303818
+
+- Question : [SEQ180303818](seq180303818.md) — Cimetières privés et permis de construire
+
+## Réponse
+
+*Intérieur, JO du 2018-06-14, page 2999*
+
+L'inhumation dans un cimetière communal est le principe général en matière de sépulture. Toutefois, des inhumations restent possibles dans les cimetières privés existants, dans la limite des places disponibles (Conseil d'État, Demoiselle Eberstarck, 13 mai 1964). Le code de l'urbanisme dispense en principe de toute procédure certaines constructions en raison de leur nature ou de leur très faible importance. Les dispositions de l'article R. 421-2 du code de l'urbanisme énoncent ainsi différents cas, notamment « les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière ». De même, elles précisent que les constructions, dès lors que leur hauteur est inférieure ou égale à 12 mètres et leur emprise au sol et leur surface de plancher sont inférieures ou égales à 5 m2, sont dispensées de toute formalité. Aussi si le i) de l'article R. 421-2 précité ne donne aucune précision sur la nature du cimetière, il peut être déduit de ce qui précède et dans le silence du texte, que ces dispositions s'appliquent également aux cimetières privés. Néanmoins, les constructions réalisées au sein d'un cimetière privé demeurent soumises au pouvoir de police spéciale du maire en matière de funérailles et des cimetières (article L. 2213-8 du code général des collectivités territoriales), celui-ci s'appliquant à tous les lieux de sépulture. Enfin, s'agissant des terrains situés dans le périmètre d'un secteur sauvegardé ou d'un site classé, une autorisation préalable demeurera nécessaire pour les travaux susceptibles d'en modifier l'état et l'aspect extérieurs (L. 632-1 et L. 632-2 du code du patrimoine).
