@@ -1,0 +1,30 @@
+# Office parlementaire d'évaluation des choix scientifiques et technologiques
+
+- Nature : Informations Parlementaires
+- Publication : 2018-06-17
+- JO n° : 0138
+- NOR : INPX1801499X
+- Origine : JORF n°0138 du 17 juin 2018
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037077080
+
+## Article
+
+Offices et délégations
+
+1. Réunions
+
+Jeudi 21 juin 2018
+
+A 9 h 30 salle Médicis (Sénat) :
+
+- audition, ouverte à la presse, de M. Jean-Christophe Niel, directeur général de l'Institut de radioprotection et de sûreté nucléaire (IRSN) ;
+
+- présentation, ouverte à la presse, du rapport annuel pour 2017 de la Commission nationale d'évaluation des recherches et études relatives à la gestion des matières et des déchets radioactifs (CNE2).
+
+2. Ordre du jour prévisionnel
+
+Jeudi 28 juin 2018
+
+A 9 h 30 (salle Lamartine) :
+
+- réunion commune avec les délégations aux droits des femmes de l'Assemblée nationale et du Sénat sur le thème « Femmes et sciences ».
