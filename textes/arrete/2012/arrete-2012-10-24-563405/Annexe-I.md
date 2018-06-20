@@ -106,9 +106,15 @@ Australie :
 
 Paris-Brisbane ;
 
+Paris-Adélaïde ;
+
 Paris-Cairns ;
 
+Paris-Canberra ;
+
 Paris-Darwin ;
+
+Paris-Hobart ;
 
 Paris-Melbourne ;
 
