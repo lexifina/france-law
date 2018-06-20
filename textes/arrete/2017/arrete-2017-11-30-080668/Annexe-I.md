@@ -1,25 +1,39 @@
 # Article Annexe I
 
-MODÈLE DE PROCÈS-VERBAL D'AGREMENT DE PROTOTYPE DE L'INSTALLATION D'UN DISPOSITIF DE CONVERSION
+MODÈLE DE PROCÈS-VERBAL D'AGRÉMENT DE PROTOTYPE D'UN DISPOSITIF DE CONVERSION
 
-Concernant :
+Il résulte des constatations effectuées à la demande du fabricant
 
-- la réception ;
+Nom
 
-- l'extension de la réception.
+Adresse
 
-Numéro de réception de l'agrément de prototype :
+que le dispositif de conversion :
 
-Raison de l'extension :
+Type :
 
-PROCÈS-VERBAL D'AGRÉMENT DE PROTOTYPE DE L'INSTALLATION D'UN DISPOSITIF DE CONVERSION
+Désignation commerciale :
 
-Il résulte des constatations effectuées à la demande du fabricant que le véhicule muni du dispositif de conversion présenté comme prototype d'une transformation des véhicules usagés satisfait aux dispositions des articles R. 311-1 à R. 318-4 du code de la route et des arrêtés ministériels pris en application, pour la catégorie du type de véhicule et de transformation concernées.
+(le cas échéant)
 
-Fait à (1), le (1)
+Référence dossier fabricant :
 
-Vu, approuvé et enregistré sous le numéro (1)
+présenté aux essais requis par l'arrêté ministériel du 30 novembre 2017 relatif aux conditions d'homologation et d'installation des dispositifs de conversion des véhicules à motorisation essence en motorisation à carburant modulable essence-superéthanol E85 comme prototype de la transformation de véhicules usagés pour la famille de véhicules définie par le fabricant conformément à l'article 2 de l'arrêté précité satisfait aux dispositions des articles R. 311-1 à R. 318-4 du code de la route et des arrêtés ministériels pris en application, dont l'arrêté précité.
 
-Signature
+Fait à
 
-(1) A compléter.
+Le |
+
+Vu et approuvé sous le numéro
+
+A
+
+Le |
+
+Signature |
+
+Le chef du Centre national de réception des véhicules
+
+|
+
+Nota .- Mention particulière a faire apparaître sur le certificat d'immatriculation.
