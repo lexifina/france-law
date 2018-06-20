@@ -516,7 +516,7 @@ Lyon
 
 |
 
-Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
+Bron, Givors, Lyon-Sud, Rillieux-la-Pape, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 
 |
 
@@ -615,6 +615,16 @@ Nîmes
 |
 
 Bagnols-sur-Cèze, Nîmes, Vauvert.
+
+|
+
+Vaucluse
+
+|
+
+Avignon |
+
+Avignon
 
 |
 
