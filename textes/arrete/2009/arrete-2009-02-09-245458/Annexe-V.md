@@ -6,25 +6,15 @@ A.-Genres et carrosseries en vigueur
 
 I.-Véhicules affectés au transport de personnes, dont ceux de la catégorie L réceptionnés conformément au règlement (UE) n° 168/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
-
-|
-
-ABRÉVIATIONS
-
-|
-
-Nationales
-
-|
+Nationales |
 
 Catégories,
 
@@ -32,53 +22,29 @@ sous-catégories et sous-sous-catégories CE (1)
 
 |
 
-Motocyclettes légères (*).
+Motocyclettes légères (*). |
 
-|
+MTL |
 
-MTL
+L3e-A1 |
 
-|
+Motocyclettes sans side-car (solo). |
 
-L3e-A1
+SOLO |
 
-|
+L3e-A1E |
 
-Motocyclettes sans side-car (solo).
+Motocyclettes d'enduro. |
 
-|
+ENDURO (2) |
 
-SOLO
+L3e-A1T |
 
-|
+Motocyclettes de trial. |
 
-L3e-A1E
+TRIAL (2) |
 
-|
-
-Motocyclettes d'enduro.
-
-|
-
-ENDURO (2)
-
-|
-
-L3e-A1T
-
-|
-
-Motocyclettes de trial.
-
-|
-
-TRIAL (2)
-
-|
-
-L4e-A1
-
-|
+L4e-A1 |
 
 Motocyclettes avec side-car adjoint.
 
@@ -92,53 +58,29 @@ SIDE-CAR
 
 |
 
-Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE ≤ 35 kW et dont la puissance maximale nette CE/ poids en ordre de marche ≤ 0,2 kW/ kg (*).
+Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE ≤ 35 kW et dont la puissance maximale nette CE/ poids en ordre de marche ≤ 0,2 kW/ kg (*). |
 
-|
+MTT1 |
 
-MTT1
+L3e-A2 |
 
-|
+Motocyclettes sans side-car (solo). |
 
-L3e-A2
+SOLO |
 
-|
+L3e-A2E |
 
-Motocyclettes sans side-car (solo).
+Motocyclettes d'enduro. |
 
-|
+ENDURO (2) |
 
-SOLO
+L3e-A2T |
 
-|
+Motocyclettes de trial. |
 
-L3e-A2E
+TRIAL (2) |
 
-|
-
-Motocyclettes d'enduro.
-
-|
-
-ENDURO (2)
-
-|
-
-L3e-A2T
-
-|
-
-Motocyclettes de trial.
-
-|
-
-TRIAL (2)
-
-|
-
-L4e-A2
-
-|
+L4e-A2 |
 
 Motocyclettes avec side-car adjoint.
 
@@ -152,81 +94,43 @@ SIDE-CAR
 
 |
 
-Autres motocyclettes (*).
+Autres motocyclettes (*). |
 
-|
+MTT2 |
 
-MTT2
+L3e-A3 |
 
-|
+Motocyclettes sans side-car (solo). |
 
-L3e-A3
+SOLO |
 
-|
+L3e-A3E |
 
-Motocyclettes sans side-car (solo).
+Motocyclettes d'enduro. |
 
-|
+ENDURO (2) |
 
-SOLO
+L3e-A3T |
 
-|
+Motocyclettes de trial |
 
-L3e-A3E
+TRIAL (2) |
 
-|
+L4e-A3 |
 
-Motocyclettes d'enduro.
+Motocyclettes avec side-car adjoint. |
 
-|
+SOLO-SIDE-CAR |
 
-ENDURO (2)
+Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques). |
 
-|
+SIDE-CAR |
 
-L3e-A3T
+Tricycles à moteur (*). |
 
-|
+TM |
 
-Motocyclettes de trial
-
-|
-
-TRIAL (2)
-
-|
-
-L4e-A3
-
-|
-
-Motocyclettes avec side-car adjoint.
-
-|
-
-SOLO-SIDE-CAR
-
-|
-
-Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques).
-
-|
-
-SIDE-CAR
-
-|
-
-Tricycles à moteur (*).
-
-|
-
-TM
-
-|
-
-L5e-A
-
-|
+L5e-A |
 
 Tricycles dont le poids à vide n'excède pas 550 kg et dont la puissance maximale nette CE n'excède pas 15 kW affectés au transport de personnes.
 
@@ -240,173 +144,89 @@ TMP2
 
 |
 
-Quadricycles à moteur.
+Quadricycles à moteur. |
 
-|
+QM |
 
-QM
+L6e-A |
 
-|
+Quad routier léger. |
 
-L6e-A
+QUAD (2) |
 
-|
+L6e-BP |
 
-Quad routier léger.
+Quadricycles légers pour le transport de personnes. |
 
-|
+QLEMP (2) |
 
-QUAD (2)
+L7e-A1 |
 
-|
+Quad routier lourd. |
 
-L6e-BP
+QUADLP1 (2) |
 
-|
+L7e-A2 |
 
-Quadricycles légers pour le transport de personnes.
+Quad routier lourd. |
 
-|
+QUADLP2 (2) |
 
-QLEMP (2)
+L7e-B1 |
 
-|
+Quad tout-terrain lourd. |
 
-L7e-A1
+QUADHR (2) |
 
-|
+L7e-B2 |
 
-Quad routier lourd.
+Buggy côte à côte. |
 
-|
+BUGGY (2) |
 
-QUADLP1 (2)
+L7e-CP |
 
-|
+Quadricycles lourds pour le transport de personnes (*). |
 
-L7e-A2
+QLOMP |
 
-|
+Cyclomoteurs à trois roues. |
 
-Quad routier lourd.
+CYCL |
 
-|
+L2e-P |
 
-QUADLP2 (2)
+Cyclomoteurs carrossés à trois roues pour le transport de personnes (voiturettes). |
 
-|
+VTTE |
 
-L7e-B1
+Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues. |
 
-|
+CL |
 
-Quad tout-terrain lourd.
+L1e-A |
 
-|
+Vélo à moteur. |
 
-QUADHR (2)
+SOLO |
 
-|
+L1e-B |
 
-L7e-B2
+Cyclomoteurs à deux roues. |
 
-|
+SOLO |
 
-Buggy côte à côte.
+L2e-P |
 
-|
+Cyclomoteurs non carrossés à trois roues pour le transport de personnes. |
 
-BUGGY (2)
+CLTRP |
 
-|
+Voitures particulières. |
 
-L7e-CP
+VP |
 
-|
-
-Quadricycles lourds pour le transport de personnes (*).
-
-|
-
-QLOMP
-
-|
-
-Cyclomoteurs à trois roues.
-
-|
-
-CYCL
-
-|
-
-L2e-P
-
-|
-
-Cyclomoteurs carrossés à trois roues pour le transport de personnes (voiturettes).
-
-|
-
-VTTE
-
-|
-
-Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.
-
-|
-
-CL
-
-|
-
-L1e-A
-
-|
-
-Vélo à moteur.
-
-|
-
-SOLO
-
-|
-
-L1e-B
-
-|
-
-Cyclomoteurs à deux roues.
-
-|
-
-SOLO
-
-|
-
-L2e-P
-
-|
-
-Cyclomoteurs non carrossés à trois roues pour le transport de personnes.
-
-|
-
-CLTRP
-
-|
-
-Voitures particulières.
-
-|
-
-VP
-
-|
-
-M1 (3)
-
-|
+M1 (3) |
 
 Conduite intérieure (*).
 
@@ -436,13 +256,9 @@ NON SPEC
 
 |
 
-Transports en commun de personnes.
+Transports en commun de personnes. |
 
-|
-
-TCP (4)
-
-|
+TCP (4) |
 
 M2 ou
 
@@ -484,53 +300,29 @@ NON SPEC
 
 I bis.-Véhicules affectés au transport de personnes de catégorie L autres que ceux réceptionnés conformément au règlement (UE) n° 168/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
+Nationales |
 
-|
+Catégories |
 
-ABRÉVIATIONS
+Motocyclettes légères (*). |
 
-|
+MTL |
 
-Nationales
+L3e |
 
-|
+Motocyclettes sans side-car (solo). |
 
-Catégories
+SOLO |
 
-|
-
-Motocyclettes légères (*).
-
-|
-
-MTL
-
-|
-
-L3e
-
-|
-
-Motocyclettes sans side-car (solo).
-
-|
-
-SOLO
-
-|
-
-L4e
-
-|
+L4e |
 
 Motocyclettes avec side-car adjoint.
 
@@ -544,29 +336,17 @@ SIDE-CAR
 
 |
 
-Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE ≤ 25 kW et dont la puissance maximale nette CE/ poids en ordre de marche ≤ 0,16 kW/ kg (*).
+Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE ≤ 25 kW et dont la puissance maximale nette CE/ poids en ordre de marche ≤ 0,16 kW/ kg (*). |
 
-|
+MTT1 |
 
-MTT1
+L3e |
 
-|
+Motocyclettes sans side-car (solo). |
 
-L3e
+SOLO |
 
-|
-
-Motocyclettes sans side-car (solo).
-
-|
-
-SOLO
-
-|
-
-L4e
-
-|
+L4e |
 
 Motocyclettes avec side-car adjoint.
 
@@ -580,29 +360,17 @@ SIDE-CAR
 
 |
 
-Autres motocyclettes (*).
+Autres motocyclettes (*). |
 
-|
+MTT2 |
 
-MTT2
+L3e |
 
-|
+Motocyclettes sans side-car (solo). |
 
-L3e
+SOLO |
 
-|
-
-Motocyclettes sans side-car (solo).
-
-|
-
-SOLO
-
-|
-
-L4e
-
-|
+L4e |
 
 Motocyclettes avec side-car adjoint.
 
@@ -616,17 +384,11 @@ SIDE-CAR
 
 |
 
-Tricycles à moteur (*).
+Tricycles à moteur (*). |
 
-|
+TM |
 
-TM
-
-|
-
-L5e
-
-|
+L5e |
 
 Tricycles dont le poids à vide n'excède pas 550 kg et dont la puissance maximale nette CE n'excède pas 15 kW affectés au transport de personnes.
 
@@ -640,115 +402,61 @@ TMP2
 
 |
 
-Quadricycles à moteur.
+Quadricycles à moteur. |
 
-|
+QM |
 
-QM
+L6e |
 
-|
+Quadricycles légers pour le transport de personnes. |
 
-L6e
+QLEM |
 
-|
+L7e |
 
-Quadricycles légers pour le transport de personnes.
+Quadricycles lourds pour le transport de personnes (*). |
 
-|
+QLOMP |
 
-QLEM
+Cyclomoteurs à trois roues. |
 
-|
+CYCL |
 
-L7e
+L2e |
 
-|
+Cyclomoteurs carrossés à trois roues pour le transport de personnes (voiturettes). |
 
-Quadricycles lourds pour le transport de personnes (*).
+VTTE |
 
-|
+Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues. |
 
-QLOMP
+CL |
 
-|
+L1e |
 
-Cyclomoteurs à trois roues.
+Cyclomoteurs à deux roues. |
 
-|
+SOLO |
 
-CYCL
+L2e |
 
-|
+Cyclomoteurs non carrossés à trois roues pour le transport de personnes. |
 
-L2e
+CLTRP |
 
-|
-
-Cyclomoteurs carrossés à trois roues pour le transport de personnes (voiturettes).
-
-|
-
-VTTE
-
-|
-
-Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.
-
-|
-
-CL
-
-|
-
-L1e
-
-|
-
-Cyclomoteurs à deux roues.
-
-|
-
-SOLO
-
-|
-
-L2e
-
-|
-
-Cyclomoteurs non carrossés à trois roues pour le transport de personnes.
-
-|
-
-CLTRP
-
-|
-
-(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.
-
-|
+(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire. |
 
 II.-Véhicules affectés au transport de marchandises, dont ceux de la catégorie L réceptionnés conformément au règlement (UE) n° 168/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
-
-|
-
-ABRÉVIATIONS
-
-|
-
-Nationales
-
-|
+Nationales |
 
 Catégories,
 
@@ -756,17 +464,11 @@ sous-catégories et sous-sous-catégories CE (1)
 
 |
 
-Tricycles à moteur.
+Tricycles à moteur. |
 
-|
+TM |
 
-TM
-
-|
-
-L 5e-B
-
-|
+L 5e-B |
 
 Tricycles de poids à vide ≤ 550 kg et puissance maximale nette CE ≤ 15 kW affectés au transport de marchandises.
 
@@ -780,49 +482,27 @@ TMM2
 
 |
 
-Quadricycles à moteur.
+Quadricycles à moteur. |
 
-|
+QM |
 
-QM
+L6e-BU |
 
-|
+Quadricycles légers pour le transport de marchandises. |
 
-L6e-BU
+QLEMM (2) |
 
-|
+L7e-CU |
 
-Quadricycles légers pour le transport de marchandises.
+Quadricycles lourds pour le transport de marchandises. |
 
-|
+QLOMM |
 
-QLEMM (2)
+Cyclomoteurs à trois roues. |
 
-|
+CYCL |
 
-L7e-CU
-
-|
-
-Quadricycles lourds pour le transport de marchandises.
-
-|
-
-QLOMM
-
-|
-
-Cyclomoteurs à trois roues.
-
-|
-
-CYCL
-
-|
-
-L2e-U
-
-|
+L2e-U |
 
 Cyclomoteurs carrossés à trois roues affectés au transport de marchandises.
 
@@ -836,25 +516,15 @@ CLTRM
 
 |
 
-Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.
+Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues. |
 
-|
+CL |
 
-CL
+Tracteurs routiers (5). |
 
-|
+TRR |
 
-Tracteurs routiers (5).
-
-|
-
-TRR
-
-|
-
-N1, N2 ou N3 (3)
-
-|
+N1, N2 ou N3 (3) |
 
 Forestier (6).
 
@@ -876,17 +546,11 @@ NON SPEC
 
 |
 
-Camionnettes (véhicules d'un poids total autorisé en charge inférieur ou égal à 3 500 kg autres que les tracteurs routiers).
+Camionnettes (véhicules d'un poids total autorisé en charge inférieur ou égal à 3 500 kg autres que les tracteurs routiers). |
 
-|
+CTTE |
 
-CTTE
-
-|
-
-N1 (3)
-
-|
+N1 (3) |
 
 Bennes amovibles.
 
@@ -1004,17 +668,11 @@ CHAS-CAB
 
 |
 
-Camions (véhicules d'un poids total autorisé en charge excédant 3 500 kg autres que les tracteurs routiers).
+Camions (véhicules d'un poids total autorisé en charge excédant 3 500 kg autres que les tracteurs routiers). |
 
-|
+CAM |
 
-CAM
-
-|
-
-N2 ou N3 (3)
-
-|
+N2 ou N3 (3) |
 
 Mêmes carrosseries que pour les camionnettes + porte-engins.
 
@@ -1032,35 +690,21 @@ FOREST
 
 |
 
-Semi-remorques avant-train.
+Semi-remorques avant-train. |
+
+SRAT |
+
+01,02,03 ou 04 |
+
+Mêmes carrosseries que pour les CAM. |
 
 |
 
-SRAT
+Semi-remorques routières. |
 
-|
+SREM |
 
-01,02,03 ou 04
-
-|
-
-Mêmes carrosseries que pour les CAM.
-
-|
-
-|
-
-Semi-remorques routières.
-
-|
-
-SREM
-
-|
-
-01,02,03 ou 04
-
-|
+01,02,03 ou 04 |
 
 Mêmes carrosseries que pour les CAM +.
 
@@ -1090,57 +734,33 @@ TB
 
 |
 
-Remorques routières.
+Remorques routières. |
+
+REM |
+
+01,02,03 ou 04 |
+
+Mêmes carrosseries que pour les SREM. |
 
 |
 
-REM
+Semi-remorques pour transports combinés. |
+
+SRTC |
+
+01,02,03 ou 04 |
+
+Mêmes carrosseries que pour les SREM. |
 
 |
 
-01,02,03 ou 04
+Remorques pour transports combinés. |
 
-|
+RETC |
 
-Mêmes carrosseries que pour les SREM.
+01,02,03 ou 04 |
 
-|
-
-|
-
-Semi-remorques pour transports combinés.
-
-|
-
-SRTC
-
-|
-
-01,02,03 ou 04
-
-|
-
-Mêmes carrosseries que pour les SREM.
-
-|
-
-|
-
-Remorques pour transports combinés.
-
-|
-
-RETC
-
-|
-
-01,02,03 ou 04
-
-|
-
-Mêmes carrosseries que pour les REM.
-
-|
+Mêmes carrosseries que pour les REM. |
 
 |
 
@@ -1162,41 +782,23 @@ Mêmes carrosseries que pour les REM.
 
 II bis.-Véhicules affectés au transport de marchandises de catégorie L autres que ceux réceptionnés conformément au règlement (UE) n° 168/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
+Nationales |
 
-|
+Catégories |
 
-ABRÉVIATIONS
+Tricycles à moteur. |
 
-|
+TM |
 
-Nationales
-
-|
-
-Catégories
-
-|
-
-Tricycles à moteur.
-
-|
-
-TM
-
-|
-
-L5e
-
-|
+L5e |
 
 Tricycles de poids à vide ≤ 550 kg et puissance maximale nette CE ≤ 15 kW affectés au transport de marchandises.
 
@@ -1210,37 +812,21 @@ TMM2
 
 |
 
-Quadricycles à moteur.
+Quadricycles à moteur. |
 
-|
+QM |
 
-QM
+L7e |
 
-|
+Quadricycles lourds pour le transport de marchandises. |
 
-L7e
+QLOMM |
 
-|
+Cyclomoteurs à trois roues. |
 
-Quadricycles lourds pour le transport de marchandises.
+CYCL |
 
-|
-
-QLOMM
-
-|
-
-Cyclomoteurs à trois roues.
-
-|
-
-CYCL
-
-|
-
-L2e
-
-|
+L2e |
 
 Cyclomoteurs carrossés à trois roues affectés au transport de marchandises.
 
@@ -1254,297 +840,153 @@ CLTRM
 
 |
 
-Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.
+Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues. |
 
-|
-
-CL
-
-|
+CL |
 
 III.-Véhicules spécialisés non affectés au transport de marchandises
 
-GENRES
+GENRES |
 
-|
-
-ABRÉVIATIONS
-
-|
-
-CARROSSERIES
-
-|
-
-ABRÉVIATIONS
-
-|
-
-Nationales
-
-|
-
-Catégories CE
-
-|
-
-Véhicules automoteurs spécialisés.
-
-|
-
-VASP
-
-|
-
-M1 (3)
-
-|
-
-Ambulance (pour personne couchée).
-
-|
-
-AMBULANC
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Atelier.
-
-|
-
-ATELIER
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Bazar forain.
-
-|
-
-BAZ FOR
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Bennes à ordures ménagères.
-
-|
-
-BOM
-
-|
-
-M1 (3)
-
-|
-
-Caravane (*).
-
-|
-
-CARAVANE
-
-|
-
-N1, N2 ou N3 (3)
-
-|
+ABRÉVIATIONS |
 
-Chariot porteur (9).
+CARROSSERIES |
 
-|
-
-CHAR POR
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Dépannage.
-
-|
-
-DEPANNAG
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Fourgon blindé.
-
-|
-
-FG BLIND
-
-|
-
-M1 (3)
-
-|
-
-Fourgon funéraire.
-
-|
-
-FG FUNER
-
-|
-
-N1, N2 ou N3 (3)
-
-|
-
-Grue.
+ABRÉVIATIONS |
 
-|
-
-GRUE
+Nationales |
 
-|
+Catégories CE |
 
-M1 ou N1 (3)
+Véhicules automoteurs spécialisés. |
 
-|
+VASP |
 
-Handicapés.
+M1 (3) |
 
-|
+Ambulance (pour personne couchée). |
 
-HANDICAP
+AMBULANC |
 
-|
+N1, N2 ou N3 (3) |
 
-N1, N2 ou N3 (3)
+Atelier. |
 
-|
+ATELIER |
 
-Incendie.
+N1, N2 ou N3 (3) |
 
-|
+Bazar forain. |
 
-INCENDIE
+BAZ FOR |
 
-|
+N1, N2 ou N3 (3) |
 
-N1, N2 ou N3 (3)
+Bennes à ordures ménagères. |
 
-|
+BOM |
 
-Magasin.
+M1 (3) |
 
-|
+Caravane (*). |
 
-MAGASIN
+CARAVANE |
 
-|
+N1, N2 ou N3 (3) |
 
-M1, N1, N2 ou N3 (3)
+Chariot porteur (9). |
 
-|
+CHAR POR |
 
-Sanitaire.
+N1, N2 ou N3 (3) |
 
-|
+Dépannage. |
 
-SANITAIR
+DEPANNAG |
 
-|
+N1, N2 ou N3 (3) |
 
-N1, N2 ou N3 (3)
+Fourgon blindé. |
 
-|
+FG BLIND |
 
-Travaux publics et industriels.
+M1 (3) |
 
-|
+Fourgon funéraire. |
 
-TRAVAUX
+FG FUNER |
 
-|
+N1, N2 ou N3 (3) |
 
-N1, N2 ou N3 (3)
+Grue. |
 
-|
+GRUE |
 
-Voirie.
+M1 ou N1 (3) |
 
-|
+Handicapés. |
 
-VOIRIE
+HANDICAP |
 
-|
+N1, N2 ou N3 (3) |
 
-M1, N1, N2 ou N3 (3)
+Incendie. |
 
-|
+INCENDIE |
 
-Divers (non spécifiée).
+N1, N2 ou N3 (3) |
 
-|
+Magasin. |
 
-NON SPEC
+MAGASIN |
 
-|
+M1, N1, N2 ou N3 (3) |
 
-M1 (3)
+Sanitaire. |
 
-|
+SANITAIR |
 
-Adaptation réversible dérivée de VP
+N1, N2 ou N3 (3) |
 
-|
+Travaux publics et industriels. |
 
-DERIV VP
+TRAVAUX |
 
-|
+N1, N2 ou N3 (3) |
 
-Semi-remorques spécialisées.
+Voirie. |
 
-|
+VOIRIE |
 
-SRSP
+M1, N1, N2 ou N3 (3) |
 
-|
+Divers (non spécifiée). |
 
-01,02,03 ou 04
+NON SPEC |
 
-|
+M1 (3) |
 
-Mêmes carrosseries que pour les véhicules automoteurs spécialisés sauf ambulance et chariot porteur.
+Adaptation réversible dérivée de VP |
 
-|
+DERIV VP |
 
-|
+Semi-remorques spécialisées. |
 
-Remorques spécialisées.
+SRSP |
 
-|
+01,02,03 ou 04 |
 
-RESP
+Mêmes carrosseries que pour les véhicules automoteurs spécialisés sauf ambulance et chariot porteur. |
 
 |
 
-01,02,03 ou 04
+Remorques spécialisées. |
 
-|
+RESP |
 
-Mêmes carrosseries que pour les semi-remorques spécialisées.
+01,02,03 ou 04 |
 
-|
+Mêmes carrosseries que pour les semi-remorques spécialisées. |
 
 |
 
@@ -1558,37 +1000,21 @@ Mêmes carrosseries que pour les semi-remorques spécialisées.
 
 IV.-Véhicules agricoles réceptionnés conformément au règlement (UE) n° 167/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
+Nationales |
 
-|
+Catégories CE |
 
-ABRÉVIATIONS
+Tracteurs agricoles à roues. |
 
-|
-
-Nationales
-
-|
-
-Catégories CE
-
-|
-
-Tracteurs agricoles à roues.
-
-|
-
-TRA
-
-|
+TRA |
 
 T1a, T1b,
 
@@ -1620,9 +1046,7 @@ NON SPEC
 
 |
 
-Tracteurs agricoles à chenilles.
-
-|
+Tracteurs agricoles à chenilles. |
 
 C1a, C1b,
 
@@ -1638,13 +1062,9 @@ C4. 3a ou C4.3b
 
 |
 
-Remorques agricoles.
+Remorques agricoles. |
 
-|
-
-REA
-
-|
+REA |
 
 R1a, R1b,
 
@@ -1654,69 +1074,55 @@ R3a, R3b, R4a ou R4b
 
 |
 
-Mêmes carrosseries que pour les remorques routières.
+Mêmes carrosseries que pour les remorques routières. |
 
 |
 
-|
+Semi-remorques agricoles. |
 
-Machines ou instruments remorqués.
+SREA |
 
-|
+R1a, R1b,
 
-MIAR
+R2a, R2b,
 
-|
+R3a, R3b,
 
-S1a, S1b, S2a ou S2b
+R4a ou R4b |
 
-|
-
-Divers (non spécifiée).
+Mêmes carrosseries que pour les remorques routières. |
 
 |
 
-NON SPEC
+Machines ou instruments remorqués. |
 
-|
+MIAR |
+
+S1a, S1b, S2a ou S2b |
+
+Divers (non spécifiée). |
+
+NON SPEC |
 
 IV bis.-Véhicules agricoles autres que ceux réceptionnés conformément au règlement (UE) n° 167/2013
 
-GENRES
+GENRES |
 
-|
+ABRÉVIATIONS |
 
-ABRÉVIATIONS
+CARROSSERIES |
 
-|
+ABRÉVIATIONS |
 
-CARROSSERIES
+Nationales |
 
-|
+Catégories CE |
 
-ABRÉVIATIONS
+Tracteurs agricoles |
 
-|
+TRA |
 
-Nationales
-
-|
-
-Catégories CE
-
-|
-
-Tracteurs agricoles
-
-|
-
-TRA
-
-|
-
-T1, T2, T3 ou T4
-
-|
+T1, T2, T3 ou T4 |
 
 Agricole.
 
@@ -1734,13 +1140,9 @@ NON SPEC
 
 |
 
-Remorques agricoles.
+Remorques agricoles. |
 
-|
-
-REA
-
-|
+REA |
 
 R1 ou R1a,
 
@@ -1752,19 +1154,13 @@ R4 ou R4a
 
 |
 
-Mêmes carrosseries que pour les remorques routières.
+Mêmes carrosseries que pour les remorques routières. |
 
 |
 
-|
+Semi-remorques agricoles. |
 
-Semi-remorques agricoles.
-
-|
-
-SREA
-
-|
+SREA |
 
 R1 ou R1a,
 
@@ -1776,39 +1172,23 @@ R4 ou R4a
 
 |
 
-Mêmes carrosseries que pour les semi-remorques routières.
+Mêmes carrosseries que pour les semi-remorques routières. |
 
 |
 
-|
+Machines agricoles automotrices. |
 
-Machines agricoles automotrices.
+MAGA |
 
-|
+/ |
 
-MAGA
+Divers (non spécifiée). |
 
-|
+NON SPEC |
 
-/
+Machines ou instruments remorqués. |
 
-|
-
-Divers (non spécifiée).
-
-|
-
-NON SPEC
-
-|
-
-Machines ou instruments remorqués.
-
-|
-
-MIAR
-
-|
+MIAR |
 
 S1 ou S1a,
 
@@ -1816,39 +1196,23 @@ S2 ou S2a
 
 |
 
-Divers (non spécifiée).
+Divers (non spécifiée). |
 
-|
-
-NON SPEC
-
-|
+NON SPEC |
 
 B.-Genres et carrosseries anciennes
 
-ABRÉVIATIONS DES APPELLATIONS ANCIENNES
+ABRÉVIATIONS DES APPELLATIONS ANCIENNES |
 
-|
+ABRÉVIATIONS DES APPELLATIONS EN VIGUEUR |
 
-ABRÉVIATIONS DES APPELLATIONS EN VIGUEUR
+Genre |
 
-|
+Carrosserie |
 
-Genre
+Genre |
 
-|
-
-Carrosserie
-
-|
-
-Genre
-
-|
-
-Carrosserie
-
-|
+Carrosserie |
 
 MTL 1
 
@@ -1864,9 +1228,7 @@ SIDE-CAR
 
 |
 
-MTL
-
-|
+MTL |
 
 SOLO
 
@@ -1874,9 +1236,7 @@ SIDE-CAR
 
 |
 
-MTTE (11)
-
-|
+MTTE (11) |
 
 SOLO
 
@@ -1896,17 +1256,11 @@ SIDE-CAR
 
 |
 
-TQM
+TQM |
 
-|
+TRICYCLE |
 
-TRICYCLE
-
-|
-
-TM
-
-|
+TM |
 
 TM P1
 
@@ -1926,9 +1280,7 @@ QUADRI
 
 |
 
-QM
-
-|
+QM |
 
 QLEM
 
@@ -1936,17 +1288,11 @@ QLOM P
 
 |
 
-VTSU
+VTSU |
 
-|
+Divers |
 
-Divers
-
-|
-
-CTTE
-
-|
+CTTE |
 
 BEN AMO
 
@@ -1962,17 +1308,11 @@ BETON
 
 |
 
-VTST
+VTST |
 
-|
+Divers citernes |
 
-Divers citernes
-
-|
-
-CTTE ou CAM
-
-|
+CTTE ou CAM |
 
 CIT ALIM
 
@@ -1996,17 +1336,11 @@ CIT PULV
 
 |
 
-VTST
+VTST |
 
-|
+Divers |
 
-Divers
-
-|
-
-CTTE ou CAM
-
-|
+CTTE ou CAM |
 
 FOURGON
 
@@ -2016,17 +1350,11 @@ DERIV VP
 
 |
 
-VTSU
+VTSU |
 
-|
+Travaux et divers |
 
-Travaux et divers
-
-|
-
-VASP
-
-|
+VASP |
 
 ATELIER
 

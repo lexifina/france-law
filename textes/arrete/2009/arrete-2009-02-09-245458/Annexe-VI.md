@@ -154,6 +154,10 @@ GF
 
 |
 
+Mélange de gazole et gaz naturel (véhicule dual fuel type 1A) |
+
+1A |
+
 Bicarburation gazole-GPL |
 
 G2
