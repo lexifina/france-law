@@ -192,11 +192,23 @@ DES d'oto-rhino-laryngologie et chirurgie cervico-faciale.
 
 |
 
-Stomatologie et chirurgie orale.
+Stomatologie
 
 |
 
-DES de stomatologie. DES de chirurgie orale
+DES de stomatologie
+
+|
+
+73
+
+|
+
+Chirurgie orale
+
+|
+
+DES de chirurgie orale
 
 |
 
