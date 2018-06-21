@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605413
+
+- Question : [SEQ180605413](seq180605413.md) — Prise en charge de la maladie cœliaque
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-06-21, page 3143*
+
+La maladie cœliaque au gluten est une maladie auto-immune liée à l'ingestion de gluten. La représentation, la gravité et l'évolution de la maladie cœliaque sont très variables d'un patient à l'autre. Le ministère des solidarités et de la santé, dans le cadre de ses échanges avec la Haute autorité de santé (HAS), s'est prononcé en faveur de l'élaboration de recommandations de bonnes pratiques sur le diagnostic, le traitement et le suivi de l'intolérance au gluten chez les enfants et les adultes. Ces échanges se poursuivent afin de permettre d'intégrer cette priorité dans le programme de travail de la HAS. Sans préjuger de l'issue de ces travaux, plusieurs dispositifs peuvent déjà intervenir permettant une prise en charge des frais liés à la maladie. Ainsi, pour les patients atteints de maladie cœliaque identifiée après biopsie digestive, la reconnaissance au titre d'une affection de longue durée permet la prise en charge partielle par l'assurance maladie des aliments diététiques sans gluten (dans la limite de 60 % des plafonds fixés à 33,54 € par mois pour les enfants de moins de dix ans et de 45,73 € par mois au-delà de cet âge). Par ailleurs, si la maladie a une forme grave, évolutive ou invalidante nécessitant un traitement d'une durée prévisible supérieure à six mois et particulièrement coûteux, la personne peut bénéficier du dispositif complémentaire dit des « affections de longue durée hors liste ». Cette reconnaissance permet également une prise en charge intégrale des frais afférents à la maladie, dont les aliments diététiques sans gluten, à hauteur de 100 % des plafonds précités.
