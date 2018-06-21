@@ -26,16 +26,14 @@ EPLEFPA Auch Beaulieu-Lavacant |
 
 Responsable du site de Lavacant |
 
+33 - Gironde |
+
+EPLEFPA Bordeaux Gironde |
+
+Secrétaire général |
+
 37 - Indre-et-Loire |
 
 EPLEFPA Amboise |
 
 Secrétaire général |
-
-Nouvelle-Calédonie |
-
-EPL Pouembout |
-
-Secrétaire général
-
-|

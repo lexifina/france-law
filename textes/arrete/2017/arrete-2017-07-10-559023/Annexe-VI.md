@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-LOCALISATION DES EMPLOIS DE CHEF DE MISSION DE L'AGRICULTURE ET DE L'ENVIRONNEMENT SITUES DANS LES SERVICES DU MINISTERE DE LA TRANSITION ECOLOGIQUE ET SOLIDAIRE
+LOCALISATION DES EMPLOIS DE CHEF DE MISSION DE L'AGRICULTURE ET DE L'ENVIRONNEMENT SITUÉS DANS LES SERVICES DU MINISTÈRE DE L'ENVIRONNEMENT, DE L'ÉNERGIE ET DE LA MER
 
 I. - DIRECTIONS D'ADMINISTRATION CENTRALE |
 
@@ -16,11 +16,9 @@ Chef de projet gestion opérationnelle de la connaissance |
 
 Chef du bureau de la formation, de l'emploi et des transitions sociales |
 
-Chargé de mission rapporteur à l’Autorité Environnementale
-
-|
-
 Secrétariat général |
+
+Chef du bureau stratégie et prospectives sur les emplois, effectifs et compétences |
 
 Chef du bureau des industries de réseau |
 
@@ -28,7 +26,13 @@ Conseiller auprès du directeur des affaires européennes et internationales |
 
 Chargé de mission, convention sur la diversité biologique à la direction des affaires européennes et internationales |
 
+Direction des pêches maritimes et de l'aquaculture |
+
+Chef du bureau de la politique structurelle et des concours publics |
+
 Direction générale de l'aménagement, du logement et de la nature |
+
+Chef du bureau des eaux souterraines et de la ressource en eau |
 
 Chef du bureau des milieux aquatiques à la direction de l'eau et de la biodiversité |
 
@@ -70,6 +74,8 @@ DREAL Provence-Alpes-Côte-d'Azur |
 
 Adjoint au chef du service énergie et logement |
 
+Chef du service de la connaissance, de l'aménagement durable et de l'évaluation |
+
 Adjoint au chef de service biodiversité eau paysage |
 
 Chef de l'unité évaluation environnementale du service connaissance aménagement durable et évaluation |
@@ -94,9 +100,9 @@ DEAL de La Réunion |
 
 Chef du service de la prévention des risques naturels et routiers |
 
-DEAL de Martinique |
+DEAL de Mayotte |
 
-Chef du service paysages, eau et biodiversité |
+Chef du service de l'environnement et de la prévention des risques |
 
 IV. - DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) ET DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES ET DE LA MER (DDTM) |
 
@@ -128,6 +134,12 @@ DDT |
 
 Chef du bureau politique de l'eau |
 
+12 - Aveyron |
+
+DDT |
+
+Chef du service de l'eau et de la biodiversité |
+
 22 - Côtes-d'Armor |
 
 DDTM |
@@ -157,14 +169,6 @@ Chef du service habitat et constructions |
 DDTM |
 
 Chef du service de l'eau, de la forêt et des risques |
-
-34 - Hérault |
-
-DDTM |
-
-Chef du service eau, risques et nature
-
-|
 
 37 - Indre-et-Loire |
 
@@ -214,9 +218,13 @@ Secrétaire général |
 
 DDT |
 
-Directeur au centre de valorisation des ressources humaines
+Chef du service de l'environnement, de l'eau et de la biodiversité |
 
-|
+58 - Nièvre |
+
+DDT |
+
+Chef de service de l'aménagement du territoire et de l'habitat |
 
 59 - Nord |
 
@@ -251,6 +259,12 @@ Chef du service de l'urbanisme et de l'aménagement |
 DDTM |
 
 Chef de service des ressources, des milieux et des territoires |
+
+82 - Tarn-et-Garonne |
+
+DDT |
+
+Chef du service de l'environnement |
 
 88 - Vosges |
 
