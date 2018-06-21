@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180102924
+
+- Question : [SEQ180102924](seq180102924.md) — Inquiétudes des chirurgiens-dentistes relatives à la reconnaissance automatique des diplômes
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-06-21, page 3139*
+
+Dans le cadre de la reconnaissance automatique des diplômes introduite par la directive 2005/36 modifiée par la directive 2013/55 relative à la reconnaissance des qualifications professionnelles, les diplômes de praticien de l'art dentaire figurant annexe V.3.1 de la directive susvisée bénéficient de la reconnaissance automatique. Le Centre libre d'enseignement supérieur international (CLESI) proposait auparavant un diplôme de chirurgien-dentiste dont les premières années de formation se déroulaient en France sans sélection à l'entrée. Les étudiants ainsi formés se sont vu délivrer un diplôme de l'université portugaise Fernando Pessoa automatiquement reconnu sur le territoire communautaire car inscrit en annexe de la directive. Par conséquent, ces étudiants avaient l'autorisation d'exercer sur tout le territoire après inscription à l'ordre des chirurgiens-dentistes. Lors du dernier trimestre 2017, le Conseil National de l'Ordre des chirurgiens-dentistes a autorisé l'inscription de citoyens français dont le diplôme est portugais mais qui ont en réalité effectué les deux premières années de leur formation dans l'établissement privé CLESI en France, et seulement les trois années suivantes dans les universités privées portugaises Pessoa de Porto ou Egas Moniz à Lisbonne. Or, bien que le CLESI ait été jugé illégal par la cour d'appel d'Aix-en-Provence (arrêts du 27 septembre 2016) et condamné sous astreinte « à cesser de dispenser des cours s'inscrivant dans le cadre d'une formation en odontologie », les diplômes délivrés par l'Université Fernando Pessoa sont conformes à la directive (les autorités portugaises ayant confirmé ce point).
