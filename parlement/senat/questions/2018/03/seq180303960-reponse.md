@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303960
+
+- Question : [SEQ180303960](seq180303960.md) — Robots sexuels
+
+## Réponse
+
+*Égalité femmes hommes, JO du 2018-06-21, page 3116*
+
+Consacrée grande cause du quinquennat, l'égalité entre les femmes et les hommes constitue une priorité du Gouvernement. Les mesures phares de la stratégie gouvernementale en la matière ont été présentées lors du comité interministériel à l'égalité entre les femmes et les hommes, présidé par le Premier ministre, à l'occasion de la Journée internationale des droits des femmes le 8 mars 2018. La transmission et la diffusion de la culture de l'égalité dès le plus jeune âge notamment, constitue un enjeu majeur. La promotion de relations égalitaires et respectueuses entre les filles et les garçons, à travers le développement des séances d'éducation à la sexualité et à la vie affective, contribue à lutter contre le phénomène d'objectivation des femmes. Ces actions de prévention primaire participent à la déconstruction des stéréotypes de genre et à la promotion de l'égalité. Elles constituent ainsi la meilleure réponse à l'apparition d'une sexualité mécanisée reposant sur l'usage de robots sexuels. Par ailleurs, l'hypothèse d'une réglementation de l'activité prostitutionnelle à travers la réouverture de « maisons closes » est en contradiction avec le droit français qui décline la position abolitionniste de la France en matière de prostitution. Celle-ci a été réaffirmée avec le vote de la loi n° 2016-444 du 13 avril 2016 visant à renforcer la lutte contre le système prostitutionnel et accompagner les personnes prostituées. Elle a notamment renforcé la lutte contre le proxénétisme, créé un dispositif d'accompagnement vers la sortie de la prostitution pour les personnes qui le souhaitent, structuré la politique de prévention en matière de réduction des risques et créé une infraction de recours à la prostitution d'autrui.
