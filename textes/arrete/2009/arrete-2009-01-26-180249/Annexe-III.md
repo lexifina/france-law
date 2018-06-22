@@ -1,65 +1,57 @@
 # Article Annexe III
 
-Catégorie de volatilité
+CARACTÉRISTIQUES DE VOLATILITÉ EN FRANCE MÉTROPOLITAINE
 
-SAISON
+Saison |
 
-|
+Date |
 
-DATE
+Classe de volatilité |
 
-|
+Eté |
 
-CLASSE
+1er mai-30 septembre |
 
-de volatilité
+A |
 
-|
+Intersaison |
 
-Eté
+16 mars-30 avril |
 
-|
+D1 + A |
 
-1er mai - 30 septembre
+1er octobre-31 octobre |
 
-|
+D1 + A |
 
-A
+1er novembre-15 novembre |
 
-|
+D1 |
 
-Intersaison
+Hiver |
 
-|
+16 novembre-15 mars |
 
-16 mars - 30 avril
+D |
 
-1er octobre - 31 octobre
+CARACTÉRISTIQUES DE VOLATILITÉ EN GUADELOUPE, GUYANE ET MARTINIQUE
 
-1er novembre - 15 novembre
+Date |
 
-|
+Classe de volatilité |
 
-D1 + A
+1er janvier-31 décembre |
 
-D1 + A
+A |
 
-D1
+CARACTÉRISTIQUES DE VOLATILITÉ À MAYOTTE ET À LA RÉUNION
 
-|
+Date |
 
-Hiver
+Classe de volatilité |
 
-|
+1er janvier-31 décembre |
 
-16 novembre - 15 mars
+D1 + A |
 
-|
-
-D
-
-|
-
-Nota. - "D1 + A" signifie que tout mélange des classes A et D1 est possible durant la période considérée.
-
-|
+Nota.-D1 + A signifie que tout mélange des classes A et D1 est possible durant la période considérée.

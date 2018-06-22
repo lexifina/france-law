@@ -1,13 +1,11 @@
 # Article Annexe V
 
-Information
+ETIQUETAGE SPÉCIFIQUE À DISPOSER SUR LES APPAREILS DE DISTRIBUTION
 
-Les appareils distribuant le carburant SP95-E10 devront porter, de manière lisible et visible, l'information suivante :
+Un étiquetage spécifique doit être disposé de manière claire sur les appareils de distribution. Cet étiquetage est présenté ci-dessous et doit être d'une largeur minimum de 4 cm :
 
-"Sauf exception, les véhicules mis en circulation après le 1er janvier 2000 sont compatibles avec le carburant SP95-E10 pouvant contenir jusqu'à 10 % d'éthanol.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 141 du 21 juin 2018, texte n° 12, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037086177
 
-Consultez votre concessionnaire ou le site internet du MEEDDAT.
+Il devra également être disposé sur le pistolet de l'appareil distributeur un étiquetage spécifique qui est présenté ci-dessous, d'une largeur minimum de 1,5 cm :
 
-En cas de doute, vous pouvez utiliser du SP95 ou du SP98."
-
-En cas de difficulté, cette information pourra figurer à proximité immédiate du distributeur.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 141 du 21 juin 2018, texte n° 12, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037086177
