@@ -14,13 +14,11 @@ a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l
 
 NATURE DE L'ÉQUIPEMENT |
 
-TARIF
-
-(en euros) à compter de 2017 |
+TARIF (en euros) à compter de 2018 |
 
 Ligne en service d'un répartiteur principal |
 
-12,73 |
+12,87 |
 
 b) Abrogé
 

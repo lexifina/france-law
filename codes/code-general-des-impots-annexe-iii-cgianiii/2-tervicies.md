@@ -10,10 +10,14 @@ b. Pour une réserve naturelle nationale : le préfet ;
 
 c. Pour une réserve naturelle régionale : le président du conseil régional ;
 
-d. Pour une réserve naturelle de Corse : le président de la collectivité territoriale de Corse ;
+d. Pour une réserve naturelle de Corse : le président de la collectivité de Corse ;
 
 e. Pour un site classé : soit le préfet pour les travaux hors permis de construire ou assimilés, soit le ministre chargé de l'environnement pour les travaux de niveau permis de construire ;
 
 f. Pour un arrêté de biotope : le préfet ;
 
 g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protection spéciale) : le préfet.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 1er et 11 du décret n° 2017-1777 du 27 décembre 2017.

@@ -14,7 +14,7 @@ Le taux de plafonnement est fixé à 3 % de la valeur ajoutée.
 
 II. ― Le plafonnement prévu au I s'applique sur la cotisation foncière des entreprises et la cotisation sur la valeur ajoutée des entreprises diminuées, le cas échéant, de l'ensemble des réductions et dégrèvements dont ces cotisations peuvent faire l'objet, à l'exception du crédit d'impôt prévu à l'article 1647 C septies et des dégrèvements prévus aux articles 1647 C quinquies B et 1647 C quinquies C.
 
-Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 A ni aux prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
+Il ne s'applique pas aux taxes visées aux articles 1600 à 1601-0 A ni aux prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
 
 La cotisation foncière des entreprises s'entend de la somme des cotisations de chaque établissement établies au titre de l'année d'imposition. La cotisation de chaque établissement est majorée du montant des taxes spéciales d'équipement additionnelles à la cotisation foncière des entreprises prévues aux articles 1607 bis,
 
@@ -31,3 +31,5 @@ VI. ― Les dégrèvements résultant de l'application du présent article sont 
 NOTA :
 
 Dans sa décision n° 2014-413 QPC du 19 septembre 2014 (NOR : CSCX1422266S), le Conseil constitutionnel a déclaré le dernier alinéa du paragraphe II de l'article 1647 B sexies du code général des impôts contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet dans les conditions prévues au considérant 8.
+
+Modification effectuée en conséquence de l'article 44-II-3° de la loi n° 2017-1837 du 30 décembre 2017.

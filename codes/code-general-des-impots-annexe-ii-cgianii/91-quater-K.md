@@ -12,6 +12,10 @@ b. En cas d'affectation des sommes au financement de la reprise d'une entreprise
 
 c. Une attestation sur l'honneur délivrée par l'entrepreneur individuel, la société ou, s'agissant de la reprise d'une entreprise, le cédant, mentionnant la date et le montant des sommes ou valeurs investies dans l'entreprise par le titulaire du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ;
 
-d. L'identité et l'adresse de la ou des personnes exerçant dans la société créée ou reprise l'une des fonctions énumérées au 1° de l'article 885 O bis du code général des impôts ou de l'exploitant individuel de l'entreprise créée ou reprise et, si nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenaire lié par un pacte civil de solidarité, l'ascendant ou le descendant du titulaire du plan.
+d. L'identité et l'adresse de la ou des personnes exerçant dans la société créée ou reprise l'une des fonctions énumérées au 1° du 1 du III de l'article 975 du code général des impôts ou de l'exploitant individuel de l'entreprise créée ou reprise et, si nécessaire, la justification que l'un de ceux-ci est le conjoint ou le partenaire lié par un pacte civil de solidarité, l'ascendant ou le descendant du titulaire du plan.
 
 Si l'une des conditions énumérées au présent article n'est pas respectée, le retrait ou le rachat entraîne la clôture du plan d'épargne en actions en application du premier alinéa du II de l'article L. 221-32 du code monétaire et financier et, en cas de retrait ou de rachat avant l'expiration de la cinquième année du plan, l'imposition du gain net réalisé depuis l'ouverture du plan dans les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du code général des impôts.
+
+NOTA :
+
+Modification effectuée en conséquence de la loi n° 2017-1837 du 30 décembre 2017 (art. 31-I A, B 34° et IX B 1).

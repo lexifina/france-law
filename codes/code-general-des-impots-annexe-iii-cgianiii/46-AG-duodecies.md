@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2017, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2018, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 171 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
+1° 173 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 212 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 215 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,15 +18,11 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
 
-(en euros)
+Composition du foyer du locataire |
 
-COMPOSITION DU FOYER DU LOCATAIRE |
-
-PLAFOND ANNUEL DE RESSOURCES
-
-(en €) |
+Plafond annuel de ressources (en €) |
 
 Départements d'outre-mer, Saint-Barthélemy et Saint-Martin |
 
@@ -34,45 +30,45 @@ Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres austr
 
 Personne seule |
 
-31 824 |
+32 069 |
 
-30 560 |
+30 925 |
 
 Couple |
 
-58 855 |
+59 307 |
 
-56 519 |
+57 194 |
 
 Personne seule ou couple ayant une personne à charge |
 
-62 259 |
+62 737 |
 
-59 786 |
+60 500 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-65 663 |
+66 167 |
 
-63 057 |
+63 810 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-70 211 |
+70 750 |
 
-67 424 |
+68 229 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-74 761 |
+75 335 |
 
-71 790 |
+72 648 |
 
 Majoration par personne à charge à partir de la cinquième |
 
-+4 778 |
++ 4 815 |
 
-+4 588 |
++ 4 643 |
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 
@@ -88,4 +84,4 @@ c) Des ressources du sous-locataire.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 2001-137 du 31 décembre 2001.
+Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1373 du 31 décembre 2001.

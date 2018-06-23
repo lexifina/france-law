@@ -8,53 +8,53 @@ a) Pour les logements donnés en location dans le cadre d'une convention mention
 
 Pour l'application du premier alinéa, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au premier alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D. La zone C mentionnée au présent alinéa est celle définie à l'article R. 304-1 du code de la construction et de l'habitation ;
 
-b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2017, à :
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2018, à :
 
 |
 
 ZONE A bis
 
-(en euros) |
+(en €) |
 
 ZONE A
 
-(en euros) |
+(en €) |
 
 ZONE B1
 
-(en euros) |
+(en €) |
 
 ZONE B2
 
-(en euros) |
+(en €) |
 
 ZONE C
 
-(en euros) |
+(en €) |
 
 Loyer social |
 
-11,77 |
+11,86 |
 
-9,06 |
+9,13 |
 
-7,80 |
+7,86 |
 
-7,49 |
+7,55 |
 
-6,95 |
+7,00 |
 
 Loyer très social |
 
-9,16 |
+9,23 |
 
-7,05 |
+7,10 |
 
-6,07 |
+6,12 |
 
-5,82 |
+5,86 |
 
-5,40 |
+5,44 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
@@ -73,3 +73,7 @@ Les plafonds annuels de ressources applicables pour les logements situés dans l
 b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds annuels de ressources des locataires, sont égaux à ceux fixés aux annexes I et II de l'arrêté pris en application de l'article R. 441-1 du même code ;
 
 c) Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 2-1° du décret n° 2017-839 du 5 mai 2017.

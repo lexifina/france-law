@@ -1,6 +1,6 @@
 # Article 49 I bis
 
-Pour les bons, titres ou contrats qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des impôts, les établissements sont tenus :
+Pour les bons, titres ou contrats qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des impôts (1), les établissements sont tenus :
 
 I. - D'établir un document sur lequel figurent dans une suite continue par date d'émission ou de souscription :
 
@@ -23,3 +23,9 @@ II. - De faire figurer sur ces bons, titres ou contrats les indications suivante
 2° Le montant des sommes versées par le souscripteur et la date du versement ;
 
 3° Et le terme du bon, titre ou contrat.
+
+NOTA :
+
+(1) Les mots : " qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des impôts " deviennent sans objet.
+
+Modifications effectuées en conséquence de l'article 28-I-34° et VI A de la loi n° 2017-1837 du 30 décembre 2017.

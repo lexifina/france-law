@@ -4,7 +4,7 @@ I. – Les contribuables domiciliés fiscalement en France au sens de l'article 
 
 II. – La réduction d'impôt s'applique lorsque les conditions suivantes sont remplies :
 
-1° Les travaux sont autorisés et exécutés conformément aux prescriptions de l'article L. 622-7 du code du patrimoine ;
+1° Les travaux sont autorisés et exécutés conformément aux prescriptions de l'article L. 622-12 du code du patrimoine ;
 
 2° L'objet est, dès l'achèvement des travaux et pendant au moins les cinq années suivant celui-ci, exposé au public.
 
@@ -13,3 +13,7 @@ III. – La réduction d'impôt est égale à 18 % des sommes effectivement vers
 IV. – En cas de non-respect d'une des conditions fixées au II ou de cession de l'objet avant le 31 décembre de la cinquième année suivant l'achèvement des travaux, la réduction d'impôt obtenue au titre des travaux portant sur cet objet fait l'objet d'une reprise au titre de l'année de réalisation de l'un de ces événements.
 
 V. – Un décret fixe les modalités d'application du présent article.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 6 de l'ordonnance n° 2017-651 du 27 avril 2017.

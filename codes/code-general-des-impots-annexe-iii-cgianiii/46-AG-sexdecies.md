@@ -62,4 +62,8 @@ VII. – 1. Pour l'application des dispositions de l'article 199 undecies C du c
 
 2. Les travaux de réhabilitation mentionnés au VI de l'article 199 undecies C du code général des impôts s'entendent de ceux qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
-VIII. - La fraction minimale de 5 % de financement par subvention publique des logements, mentionnée au 9° du I de l'article 199 undecies C du code général des impôts, est déterminée, pour chaque programme d'investissement, par rapport au montant retenu pour le calcul de la réduction d'impôt prévue au même article 199 undecies C, selon les modalités prévues au II du même article.
+NOTA :
+
+Le VIII devient sans objet.
+
+Modifications effectuées en conséquence de l'article 128-1° de la loi n° 2017-256 du 28 février 2017.

@@ -2,7 +2,7 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2017, à 16,83 € en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2018, à 16,96 € en zone A bis, 12,59 € dans le reste de la zone A, 10,15 € en zone B 1 et 8,82 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,145 +14,119 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2017, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2018, les plafonds annuels de ressources des locataires sont les suivants :
 
-COMPOSITION
-
-DU FOYER LOCATAIRE
-
-|
+COMPOSITION DU FOYER LOCATAIRE |
 
 LIEU DE SITUATION DU LOGEMENT |
 
-Zone A bis
-
-(en euros)
-
-|
+Zone A bis (en €) |
 
 Reste de la zone A
 
-(en euros)
+(en €) |
 
-|
+Zone
 
-Zone B 1
+B 1
 
-(en euros)
+(en €) |
 
-|
+Zone
 
-Zone B 2
+B 2
 
-(en euros)
+(en €) |
 
-|
+Zone
 
-Zone C
+C
 
-(en euros)
-
-|
+(en €) |
 
 Personne seule |
 
-37 126 |
+37 508 |
 
-37 126 |
+37 508 |
 
-30 260 |
+30 572 |
 
-27 234 |
+27 515 |
 
-27 234 |
+27 515 |
 
 Couple |
 
-55 486 |
+56 058 |
 
-55 486 |
+56 058 |
 
-40 410 |
+40 826 |
 
-36 368 |
+36 743 |
 
-36 368 |
+36 743 |
 
-Personne seule ou couple
+Personne seule ou couple ayant une personne à charge |
 
-ayant une personne à charge
+73 486 |
 
-|
+67 386 |
 
-72 737 |
+49 097 |
 
-66 699 |
+44 187 |
 
-48 596 |
+44 187 |
 
-43 737 |
+Personne seule ou couple ayant deux personnes à charge |
 
-43 737 |
+87 737 |
 
-Personne seule ou couple
+80 716 |
 
-ayant deux personnes à charge
+59 270 |
 
-|
+53 344 |
 
-86 843 |
+53 344 |
 
-79 893 |
+Personne seule ou couple ayant trois personnes à charge |
 
-58 666 |
+104 390 |
 
-52 800 |
+95 553 |
 
-52 800 |
+69 725 |
 
-Personne seule ou couple
+62 753 |
 
-ayant trois personnes à charge
+62 753 |
 
-|
+Personne seule ou couple ayant quatre personnes à charge |
 
-103 326 |
+117 466 |
 
-94 579 |
+107 527 |
 
-69 014 |
+78 579 |
 
-62 113 |
+70 721 |
 
-62 113 |
-
-Personne seule ou couple
-
-ayant quatre personnes à charge
-
-|
-
-116 268 |
-
-106 431 |
-
-77 778 |
-
-70 000 |
-
-70 000 |
+70 721 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 12 954 |
++ 13 087 |
 
-+ 11 859 |
++ 11 981 |
 
-+ 8 677 |
++ 8 766 |
 
-+ 7 808 |
++ 7 888 |
 
-+ 7 808 |
++ 7 888 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
@@ -178,4 +152,4 @@ III. – Pour l'application du second alinéa du III de l'article 199 novovicies
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er-1°]du décret n° 2012-1532 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2012-1532 du 29 décembre 2012.

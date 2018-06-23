@@ -100,7 +100,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 6° Abrogé.
 
-7° Lorsque les travaux sont soumis à des critères de qualification, la date de la visite préalable prévue au avant-dernier alinéa du 2, au cours de laquelle l'entreprise qui a installé ou posé les équipements, matériaux ou appareils a validé leur adéquation au logement ;
+7° Lorsque les travaux sont soumis à des critères de qualification, la date de la visite préalable prévue à l'avant-dernier alinéa du 2, au cours de laquelle l'entreprise qui a installé ou posé les équipements, matériaux ou appareils a validé leur adéquation au logement ;
 
 8° Dans le cas de l'acquisition de matériaux d'isolation thermique des parois vitrées, dans les conditions prévues au second alinéa du 2° du b du 1, la mention par l'entreprise que ces mêmes matériaux ont été posés en remplacement de parois en simple vitrage ;
 

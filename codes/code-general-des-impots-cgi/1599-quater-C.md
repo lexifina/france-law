@@ -22,19 +22,19 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-2. – Les tarifs au mètre carré sont fixés, pour l'année 2017, en application du tableau ci-dessous :
+2. – Les tarifs au mètre carré sont fixés, pour l'année 2018, en application du tableau ci-dessous :
 
-1RE CIRCONSCRIPTION |
+1re circonscription |
 
-2E CIRCONSCRIPTION |
+2e circonscription |
 
-3E CIRCONSCRIPTION |
+3e circonscription |
 
-4,28 € |
+4,36 € |
 
-2,46 € |
+2,51 € |
 
-1,24 € |
+1,27 € |
 
 3. – Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 

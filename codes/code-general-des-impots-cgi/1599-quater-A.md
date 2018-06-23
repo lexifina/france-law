@@ -8,9 +8,7 @@ III. – Le montant de l'imposition forfaitaire est établi pour chaque matérie
 
 CATÉGORIE DE MATÉRIELS ROULANTS |
 
-TARIFS
-
-(en euros) |
+TARIFS (en euros) |
 
 Engins à moteur thermique |
 
@@ -18,11 +16,11 @@ Engins à moteur thermique |
 
 Automoteur |
 
-31 764 |
+32 082 |
 
 Locomotive diesel |
 
-31 764 |
+32 082 |
 
 Engins à moteur électrique |
 
@@ -30,19 +28,19 @@ Engins à moteur électrique |
 
 Automotrice |
 
-24 352 |
+24 596 |
 
 Locomotive électrique |
 
-21 177 |
+21 389 |
 
 Motrice de matériel à grande vitesse |
 
-37 059 |
+37 430 |
 
 Automotrice tram-train |
 
-12 177 |
+12 299 |
 
 Engins remorqués |
 
@@ -50,15 +48,15 @@ Engins remorqués |
 
 Remorque pour le transport de passagers |
 
-5 082 |
+5 133 |
 
 Remorque pour le transport de passagers à grande vitesse |
 
-10 588 |
+10 694 |
 
 Remorque tram-train |
 
-2 541 |
+2 566 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 

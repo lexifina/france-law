@@ -20,7 +20,7 @@ e) Les modalités de décompte de la déduction au titre de l'amortissement ;
 
 4° Les documents suivants :
 
-a) Pour les immeubles que le contribuable fait construire, une copie de la déclaration d'ouverture de chantier mentionnée à l'article R. 421-40 du code de l'urbanisme et de la déclaration d'achèvement des travaux, accompagnées des pièces attestant de leur réception en mairie ;
+a) Pour les immeubles que le contribuable fait construire, une copie de la déclaration d'ouverture de chantier mentionnée à l'article R. * 424-16 du code de l'urbanisme et de la déclaration d'achèvement des travaux, accompagnées des pièces attestant de leur réception en mairie ;
 
 b) Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux, accompagnée d'une pièce attestant de sa réception en mairie et d'une note précisant la nature de l'affectation précédente des locaux.
 
@@ -31,3 +31,7 @@ II. – L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du
 III. – L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulée dans une note établie conformément à un modèle fixé par l'administration, qui doit être jointe à la déclaration des revenus souscrite par le conjoint survivant au titre de l'année du décès de son conjoint pour la période postérieure à cet événement. Elle comporte l'engagement de louer le logement non meublé à des personnes, qui en font leur habitation principale, pour la fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès.
 
 IV. – Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de ses déclarations des revenus un état établi conformément à un modèle fixé par l'administration et faisant apparaître, pour chaque logement, le détail du calcul du montant de la déduction pratiquée au titre de l'amortissement ainsi qu'une note indiquant le nom des locataires de l'immeuble. En outre, en cas de changement de locataire au cours de cette période, il joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail ainsi qu'une copie de l'avis d'imposition ou de non-imposition du locataire entrant dans les lieux établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 9 du décret n° 2007-18 du 5 janvier 2007.

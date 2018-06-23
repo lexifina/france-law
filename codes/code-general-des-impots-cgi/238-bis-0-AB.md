@@ -4,7 +4,7 @@ Ouvrent droit, à compter de la date de publication de la loi n° 2002-5 du 4 ja
 
 a. le bien ne doit pas avoir fait l'objet d'une offre d'achat de l'Etat dans les conditions fixées par l'article L. 121-1 précité ;
 
-b. l'entreprise s'engage à consentir au classement du bien comme monument historique en application de l'article L. 622-4 du code du patrimoine ou comme archives historiques en application de l'article L. 212-15 du même code ;
+b. l'entreprise s'engage à consentir au classement du bien comme monument historique en application de l'article L. 622-5 du code du patrimoine ou comme archives historiques en application de l'article L. 212-15 du même code ;
 
 c. le bien ne doit pas être cédé avant l'expiration d'un délai de dix ans à compter de l'acquisition ;
 
@@ -13,3 +13,7 @@ d. durant la période visée au c, le bien doit être placé en dépôt auprès 
 La réduction d'impôt est subordonnée à l'agrément du ministre de l'économie et des finances qui se prononce après avis de la commission prévue à l'article L. 111-4 précité.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+NOTA :
+
+Conformément au E du IV de l'article 29 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions sont abrogées pour les opérations pour lesquelles le compromis de vente ou le contrat de vente n'a pas été signé à la date du 1er janvier 2020.
