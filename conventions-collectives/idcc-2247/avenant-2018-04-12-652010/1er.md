@@ -2,9 +2,7 @@
 
 La commission paritaire permanente de négociation et d'interprétation (CPPNI) a pour mission, conformément aux dispositions légales en vigueur, de prendre en charge les questions sociales relevant de la branche professionnelle. À cet effet, elle :
 
-– négocie sur les thèmes relevant d'une négociation collective de branche, qu'il s'agisse de ceux rendus obligatoires par la législation en vigueur ou de ceux au sujet desquels les partenaires sociaux ont décidé, en définissant l'ordre public conventionnel de branche, que les accords d'entreprise ne peuvent pas être moins favorables que la convention collective ou les accords de branche, à l'exclusion des thèmes pour lesquels la loi prévoit la primauté de l'accord d'entreprise ;
-
-– définit, par la négociation, les thèmes relevant de l'ordre public conventionnel de branche, c'est-à-dire ceux sur lesquels les conventions et accords d'entreprise ne peuvent être moins favorables que les conventions et accords conclus au niveau de la branche ;
+– négocie sur les thèmes pour lesquels une négociation de branche est rendue obligatoire par la législation en vigueur et sur tout autre thème sur lequel elle jugerait utile de négocier à l'initiative des partenaires sociaux reconnus représentatifs dans la branche ;
 
 – régule la concurrence entre les entreprises relevant de son champ d'application ;
 
@@ -12,7 +10,7 @@ La commission paritaire permanente de négociation et d'interprétation (CPPNI) 
 
 – exerce un rôle de veille sur les conditions de travail et l'emploi ;
 
-– établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'article L. 2231-5-1.
+– établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'article L. 2231-5-1 du code du travail.
 
 Ce rapport comprend un bilan des accords collectifs d'entreprise relatifs à la durée du travail, à la répartition et à l'aménagement des horaires, au repos quotidien, aux jours fériés, aux congés et au compte épargne-temps, en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche, et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées ;
 
