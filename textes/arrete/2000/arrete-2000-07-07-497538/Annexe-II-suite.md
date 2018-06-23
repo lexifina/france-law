@@ -468,7 +468,7 @@ Dazin Diffusion, 11, rue Clary, 13003 Marseille, depuis 1959.
 
 Degreane :
 
-- 28, avenue de Font-Pré, BP 954, 83050 Toulon Cedex, 1001, avenue Alphonse-Lavallée, 83210 La Farlède : depuis 1950.
+- 28, avenue de Font-Pré, BP 954, 83050 Toulon Cedex, 1001, avenue Alphonse-Lavallée, 83210 La Farlède : de 1950 à 2002.
 
 Delattre Levivier, village Entreprise, 13770 Fos-sur-Mer, de 1979 à 1984.
 
