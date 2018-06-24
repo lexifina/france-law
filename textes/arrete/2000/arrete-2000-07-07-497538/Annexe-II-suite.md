@@ -448,6 +448,10 @@ Coopérative des travaux industriels 113, boulevard de Paris, 13002 Marseille. D
 
 COMPAGNIE DE SIGNAUX ET D'ENTREPRISES ÉLECTRIQUES (CSEE), Résidence La Grande Prairie, avenue Mirasouléou, 83100 Toulon puis COMPAGNIE DE SIGNAUX ET D'ÉQUIPEMENTS ÉLECTRONIQUES (CSEE), Rue André-Ampère , ZI Sainte-Claire, 83160 La Valette-du-Var puis CSEE DÉFENSE. 230, rue Marcelin-Berthelot, ZI de Toulon Est, 83087 Toulon Cedex. De 1953 à 1996.
 
+CORSICA LINEA SAS (n° SIRET 81524385200101), 42, rue de Ruffi, Bât G, 13003 MARSEILLE
+
+Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 à 2018.
+
 Cotre :
 
 - traverse de l'Aqueduc, puis 108, avenue de Saint-Louis au Rove, 13015 Marseille : depuis 1950.
@@ -703,6 +707,10 @@ Marine Yatching Service (MYS), 19, quai de Rive-Neuve, 13007 Marseille : de 1988
 Marti :
 
 - chemin de la Madrague-Ville, 13016 Marseille : de 1978 à 1985.
+
+MCM SAS, 565, avenue du Prado, Centre d'Affaires de Coworking, 13008 MARSEILLE, puis 42, rue de Ruffi, Bat. G, 13003 MARSEILLE,
+
+Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2016 à 2017.
 
 Mécanique Etang Martigues, place des Aires-Ferrières, 13500 Martigues : de 1950 à 1974, puis Mécanique Etang Martigues, quai des Agglomérés, 13110 Port-de-Bouc : de 1974 à 1980, puis Mécanique Etang services, quai des Agglomérés, 13110 Port-de-Bouc : de 1980 à 1984.
 
