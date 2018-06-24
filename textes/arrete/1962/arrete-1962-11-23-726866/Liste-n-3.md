@@ -180,6 +180,26 @@ Réservé aux pilotes qui y sont basés et à ceux qui sont autorisés répondan
 
 Utilisable par les hélicoptères. |
 
+Châteaudun |
+
+Eure-et-Loir |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs d'Etat étrangers ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° Aux trafics civils autorisés selon les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+6° Aux aéronefs légers et activités liés à l'aéroclub de Châteaudun dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+7° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Chaumont-Semoutier |
 
 Haute-Marne |

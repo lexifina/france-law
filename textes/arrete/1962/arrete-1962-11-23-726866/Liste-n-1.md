@@ -514,12 +514,6 @@ Maine-et-Loire |
 
 |
 
-Châteaudun |
-
-Eure-et-Loir |
-
-|
-
 Châteauneuf-sur-Cher |
 
 Cher |
