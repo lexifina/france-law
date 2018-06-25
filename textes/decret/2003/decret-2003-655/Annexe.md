@@ -18,7 +18,7 @@ CAP n° 3 : personnels d'encadrement administratif
 
 Groupe unique
 
-Sous-groupe unique : attachés principaux d'administration hospitalière, attachés d'administration hospitalière.
+Sous-groupe unique : attachés principaux d'administration hospitalière, attachés d'administration hospitalière, attaché d'administration hospitalière hors classe.
 
 CORPS DE CATÉGORIE B
 
