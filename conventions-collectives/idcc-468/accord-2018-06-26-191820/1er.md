@@ -1,0 +1,53 @@
+# Article 1er
+
+Elle remplit les missions définies par les textes législatifs et a pour rôle de permettre à la branche de réaliser les missions qui lui sont confiées par la loi, notamment la définition des garanties applicables aux salariés, ainsi que la régulation de la concurrence entre les entreprises relevant de son champ d'application.
+
+Plus précisément la CPPNI exerce les missions suivantes :
+
+– elle représente la branche dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
+
+– elle veille au respect et à l'application de la présente convention et de ses avenants, et étudie les difficultés d'interprétation et d'application pouvant résulter de leur mise en œuvre ;
+
+– elle peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire ;
+
+– elle exerce un rôle de veille sur les conditions de travail et d'emploi ;
+
+– elle établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'article L. 2231-5-1 du code du travail. Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans les matières prévues par la loi (durée et aménagement du temps de travail ; repos quotidien ; jours fériés ; congés ; compte épargne-temps …), et en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche. Elle peut formuler des recommandations destinées à répondre aux difficultés identifiées.
+
+Ce rapport est établi, selon les conditions prévues par les dispositions légales et réglementaires, sur la base des accords et conventions qui lui ont été communiqués par les entreprises en application de l'article L. 2232-9 du code du travail ;
+
+– elle négocie les accords collectifs de branche et les garanties applicables aux salariés employés par les entreprises relevant de son champ d'application ;
+
+– elle exerce les missions de l'observatoire paritaire mentionné à l'article L. 2232-10 du code du travail.
+
+La commission se réunit au moins 4 fois par an, et notamment :
+
+– au moins une fois par an sur les salaires minima, ce qui sera l'occasion pour les parties d'examiner au moins une fois par an au niveau de la branche les données suivantes :
+
+– – l'évolution économique, la situation de l'emploi dans la branche, son évolution et les prévisions annuelles ou pluriannuelles établies, notamment pour ce qui concerne les contrats de travail à durée déterminée et les missions de travail temporaire ;
+
+– – les actions éventuelles de prévention envisagées compte tenu de ces prévisions ;
+
+– – l'évolution des salaires effectifs moyens par catégories professionnelles et par sexe, au regard, le cas échéant, des salaires minima hiérarchiques.
+
+– au moins une fois tous les 3 ans pour les négociations portant sur :
+
+– – l'égalité professionnelle entre les hommes et les femmes ;
+
+– – les conditions de travail et gestion prévisionnelle des emplois et des compétences et sur la prise en compte de la pénibilité au travail ;
+
+– – l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;
+
+– – les priorités, les objectifs et les moyens concernant la formation professionnelle des salariés ;
+
+– – l'organisation des modalités d'exercice du temps partiel dès lors qu'au moins un tiers de l'effectif de la branche professionnelle occupe un emploi à temps partiel.
+
+– au moins une fois tous les 5 ans sur les négociations portant sur :
+
+– – l'examen de la nécessité de réviser les classifications ;
+
+– – l'institution d'un ou plusieurs plans d'épargne interentreprises (PEI) ou plans d'épargne sur la retraite collective interentreprises (PERCO) lorsqu'il n'existe aucun accord conclu à ce niveau en la matière.
+
+(1) Article étendu sous réserve du respect des dispositions du 3° de l'article L. 2232-9 du code du travail, dans sa rédaction issue de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel.
+
+(Arrêté du 3 décembre 2019 - art. 1)
