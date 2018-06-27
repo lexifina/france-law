@@ -14,16 +14,34 @@ technico-commercial (e)
 
 (présent arrêté) |
 
-Présenter une solution technique et négocier la proposition
+Présenter une solution technique et négocier la proposition |
 
-|
+Prospecter, présenter et négocier une solution technique |
 
-Prospecter, présenter et négocier une solution technique
-
-|
-
-Elaborer une stratégie de gestion de secteur et mettre en œuvre les actions commerciales
-
-|
+Elaborer une stratégie de gestion de secteur et mettre en œuvre les actions commerciales |
 
 Gérer et optimiser l'activité commerciale sur un secteur géographique déterminé |
+
+Sous réserve de la production du livret de certification délivré par le représentant territorial compétent du ministère chargé de l'emploi, les certificats de compétences professionnelles du titre professionnel de négociateur (trice) technico-commercial (e) sont réputés acquis selon le tableau d'équivalences suivant :
+
+TITRE PROFESSIONNEL
+
+de négociateur (trice) technico-commercial (e)
+
+(niveau III) |
+
+CERTIFICATION
+
+relative aux compétences acquises dans l'exercice
+
+d'un mandat de représentant du personnel ou d'un mandat syndical
+
+(Ministère chargé de l'emploi) |
+
+CCP " Prospecter, présenter et négocier une solution technique " |
+
+CCP " Prospection et négociation commerciale sur un domaine thématique " |
+
+CCP " Gérer et optimiser l'activité commerciale sur un secteur géographique déterminé " |
+
+Sans équivalence |
