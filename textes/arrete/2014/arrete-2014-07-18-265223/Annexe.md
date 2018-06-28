@@ -1,6 +1,6 @@
 # Article Annexe
 
-1 .-Filière technique
+1.-Filière technique
 
 A.-Corps des ingénieurs des services techniques
 
@@ -414,9 +414,7 @@ Suppléants |
 
 1 |
 
-CAP locale commune compétente à l'égard des corps des adjoints des services techniques de l'intérieur et de l'outre-mer et des contremaîtres des services techniques du matériel du ministère de l'intérieur placée auprès du préfet de zone de défense et de sécurité Ouest
-
-|
+CAP locale commune compétente à l'égard des corps des adjoints des services techniques de l'intérieur et de l'outre-mer et des contremaîtres des services techniques du matériel du ministère de l'intérieur placée auprès du préfet de zone de défense et de sécurité Ouest |
 
 70,69 % |
 
@@ -570,7 +568,7 @@ Suppléants |
 
 CAP locale compétente à l'égard du corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur placée auprès du préfet de zone de défense et de sécurité Sud-Ouest |
 
-85,81 % |
+85,82 % |
 
 14,18 % |
 

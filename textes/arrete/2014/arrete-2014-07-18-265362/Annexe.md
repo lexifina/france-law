@@ -1,6 +1,6 @@
 # Article Annexe
 
-1 .-Corps des attachés d'administration de l'Etat
+1.-Corps des attachés d'administration de l'Etat
 
 Instance |
 
@@ -406,9 +406,7 @@ Titulaires |
 
 1 |
 
-1
-
-|
+1 |
 
 Suppléants |
 
@@ -660,9 +658,9 @@ Suppléants |
 
 CAP locale compétente à l'égard du corps des secrétaires administratifs de l'intérieur et de l'outre-mer placée auprès du préfet de la région Grand-Est |
 
-10,37 % |
+20,74 % |
 
-39,62 % |
+79,26 % |
 
 Titulaires |
 
