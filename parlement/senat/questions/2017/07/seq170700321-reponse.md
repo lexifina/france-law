@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700321
+
+- Question : [SEQ170700321](seq170700321.md) — Durée hebdomadaire du travail des apprentis
+
+## Réponse
+
+*Travail, JO du 2018-06-28, page 3256*
+
+L'article 8 du projet de loi pour la liberté de choisir son avenir professionnel modifie la réglementation relative aux durées maximales de travail des jeunes travailleurs et des apprentis afin de prendre en compte les impératifs liés à certaines organisations collectives de travail, tout en protégeant les intérêts des apprentis et des jeunes travailleurs. Dans sa rédaction issue de la première lecture à l'Assemblée Nationale, l'article 8 propose ainsi de maintenir les durées prévues par le droit en vigueur, soit une durée maximale quotidienne de huit heures et une durée maximale hebdomadaire de trente-cinq heures et de renvoyer les dérogations à la durée hebdomadaire du travail pour certaines activités qui nécessitent un aménagement particulier à des conditions fixées par décret en Conseil d'État, comme le projet de loi le prévoyait déjà pour la durée quotidienne. Il sera ainsi possible pour les apprentis et jeunes travailleurs de travailler jusqu'à quarante heures par semaines et dix heures par jour, dans les secteurs qui fonctionnent selon ces amplitudes horaires. En cas de dépassement de la durée quotidienne de travail de huit heures, des compensations spécifiques sont prévues avec une obligation de repos compensateur équivalent pour les heures de dépassement et pour les éventuelles heures supplémentaires effectuées. Pour les autres secteurs, il n'y aura pas de changement par rapport au droit actuel : l'inspecteur du travail, après avis conforme du médecin du travail, pourra accorder des dérogations à la durée maximale quotidienne et à la durée maximale hebdomadaire de travail dans la limite de cinq heures par semaine.
