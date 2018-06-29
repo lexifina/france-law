@@ -18,6 +18,8 @@ Date et lieu de naissance :..........
 
 N° de sécurité sociale :..........
 
+Relevez-vous d'un régime d'assurance maladie obligatoire d'un Etat membre de l'Union européenne ou partie à l'Espace économique européen, autre que la France, ou de la Confédération suisse ?
+
 Nationalité (française/ ressortissant de l'Union européenne/ autre) :..........
 
 Situation de famille (marié, divorcé, veuf, concubin, pacs, célibataire) :..........
@@ -76,53 +78,29 @@ Montant à préciser pour son conjoint, son concubin ou la personne avec laquell
 
 Percevez-vous :
 
-La majoration pour aide constante d'une tierce personne (MTP) :
+La majoration pour aide constante d'une tierce personne (MTP) : |
 
-|
+oui/non |
 
-oui/non
+La prestation complémentaire pour recours à tierce personne (PCRTP) : |
 
-|
+oui/non |
 
-La prestation complémentaire pour recours à tierce personne (PCRTP) :
+L'allocation compensatrice pour tierce personne (ACTP) : |
 
-|
+oui/non |
 
-oui/non
+La prestation de compensation du handicap (PCH) : |
 
-|
+oui/non |
 
-L'allocation compensatrice pour tierce personne (ACTP) :
+L'aide ménagère versée par les caisses de retraite : |
 
-|
+oui/non |
 
-oui/non
+L'aide ménagère au titre de l'aide sociale départementale : |
 
-|
-
-La prestation de compensation du handicap (PCH) :
-
-|
-
-oui/non
-
-|
-
-L'aide ménagère versée par les caisses de retraite :
-
-|
-
-oui/non
-
-|
-
-L'aide ménagère au titre de l'aide sociale départementale :
-
-|
-
-oui/non
-
-|
+oui/non |
 
 Attention : Aucune de ces prestations n'est cumulable avec l'allocation personnalisée d'autonomie.
 
