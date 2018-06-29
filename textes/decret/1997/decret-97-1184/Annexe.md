@@ -254,6 +254,44 @@ Décisions imposant aux fournisseurs de service numérique un contrôle |
 
 Article 22 |
 
+Titre II du livre III de la deuxième partie réglementaire du code de la défense :
+
+1 |
+
+Décisions relatives à l'autorisation d'accès au service public réglementé |
+
+Article R. 2323-2 |
+
+2 |
+
+Décisions relatives à l'autorisation de développement et de fabrication en matière de service public réglementé |
+
+Article R. 2323-2 |
+
+3 |
+
+Décisions relatives à l'autorisation d'exportation en matière de service public réglementé |
+
+Article R. 2323-2 |
+
+4 |
+
+Décisions relatives à l'agrément d'une communauté d'utilisateurs du service public réglementé |
+
+Article R. 2323-6 |
+
+5 |
+
+Modification, suspension et abrogation des agréments de communautés d'utilisateurs du service public réglementé |
+
+Article R. 2323-7 |
+
+6 |
+
+Modification, suspension, abrogation et retrait des autorisations relatives au service public réglementé |
+
+Article R. 2323-9 |
+
 Titre III du livre III de la deuxième partie réglementaire du code de la défense :
 
 1
