@@ -1,0 +1,606 @@
+# Evaluation de l'avantage en nature logement en vue du calcul des cotisations sociales de sécurité sociale (CSG et CRDS) et de l'assujettissement à l'impôt sur le revenu des personnes physiques (IRPP)
+
+- État : abrogée (au 2018-06-29)
+- Numéro : SASZ200869097C
+- Date de signature : 2008-07-21
+- Mise en ligne : 2009-04-24
+- Ministères : 15
+- Domaines : Jeunesse, sports, vie associative
+- Annexes : 0
+- Identifiant : 3164 (PDF officiel : pdf/2009/04/cir_3164.pdf)
+
+## Texte
+
+MINISTÈRE DE LA SANTÉ, DE LA JEUNESSE, DES SPORTS ET DE LA VIE ASSOCIATIVE 
+SECRÉTARIAT D'ÉTAT AUX SPORTS, À LA JEUNESSE ET À LA VIE ASSOCIATIVE 
+DIRECTION DES RESSOURCES HUMAINES 
+DE L'ADMINISTRATION ET DE LA 
+COORDINATION GENERALE 
+SOUS-DIRECTION DES RESSOURCES HUMAINES 
+Bureau des affaires, statutaires, juridiques 
+et du contentieux 
+ND/DRHACG A 1 n° 
+Affaire suivie par : 
+Nadine DAN: 014045 91 41 
+INSTRUCTION N° Q 8 - Q 9 7 . s 
+Paris, le 2 1 JUIL. 2008 
+La ministre de la santé, de la jeunesse, des 
+sports et de la vie associative 
+à 
+Madame et Messieurs les Préfets de 
+Région 
+Directions régionales et départementales de 
+la jeunesse et des sports 
+Mesdames et Messieurs les Préfets de 
+département 
+Directions départementales de la jeunesse et 
+des sports 
+Madame et Messieurs les directeurs des 
+établissements publics nationaux 
+OBJET : Evaluation de l'avantage en nature logement en vue du calcul des cotisations sociales de 
+sécurité sociale (CSG et CRDS) et de l'assujettissement à l'impôt sur le revenu des personnes physiques 
+(IRPP). 
+REF: Arrêté du 10 décembre 2002 relatif à l'évaluation des avantages en nature en vue du calcul des 
+cotisations de sécurité sociale 
+circulaire interministérielle 6-BRS-07-113 d u r juin 2007 
+P.J : I annexe 
+La circulaire interministérielle 6-BRS-07-113 du 1er juin 2007 
+Certains services m'ont interrogée sur les modes d'évaluation de l'avantage en nature logement 
+concédé pour utilité de service en vue du calcul des cotisations sociales. 
+La présente instruction a pour objet de rappeler les règles sociales applicables en la matière telles 
+qu'elles ont été précisées notamment par la circulaire interministérielle du 1er juin 2007. 
+Après un bref rappel de la définition de l'avantage en nature logement seront présentées les 
+modalités techniques de calcul de cet avantage. 
+95, avenue de France - 75650 Paris CEDEX 13 -Tél.: 014045 90 00 
+htpp://www.sante-jeunesse-sports.gouv.fr 
+
+-2-
+I - Définition de l'avantage en nature logement 
+L'avantage en nature logement est constitué par la fourniture d'un logement à titre gratuit ou 
+à un prix inférieur à sa valeur réelle. Cet avantage concerne les agents logés par nécessité de service 
+puisqu'ils bénéficient d'un logement à titre gratuit et certains agents logés par utilité de service dans 
+les conditions précisées ci-après. 
+Il n'y a pas d'avantage en nature logement dès lors que le bénéficiaire du logement logé par 
+utilité de service verse à son employeur, en échange du logement fourni, une redevance compensatrice 
+dont le montant est au moins égal, soit au montant issu du système d'évaluation forfaitaire, soit à 
+la valeur locative servant à l'établissement de la taxe d'habitation. 
+En revanche, lorsque la redevance acquittée par le bénéficiaire est inférieure, selon 
+l'option choisie par l'employeur, au montant forfaitaire ou à la valeur locative cadastrale 
+servant à l'établissement de la taxe d'habitation (ou à défaut la valeur locative réelle) la différence 
+constitue un avantage en nature soumis à cotisations et contributions sociales ainsi qu'à l'impôt 
+sur le revenu. L'avantage ne sera pas pris en compte lorsque son montant est inférieur à l'évaluation 
+résultant de la première tranche du barème forfaitaire pour une pièce. 
+La valeur de cet avantage en nature est donc constitutif d'un élément de rémunération soumis 
+en tant que tel aux cotisations sociales (CSG, CRDS) et à l'impôt sur le revenu (article L. 242-1 du 
+code de la sécurité sociale et article 82 du code général des impôts). 
+Les règles d'évaluation des avantages en nature en matière d'impôt sur le revenu et celles 
+prévues pour le calcul des cotisations sociales sont identiques depuis le 1er janvier 2005. 
+II - Les modalités d'évaluation de l'avantage en nature logement applicables depuis le l e janvier 
+2007 
+Il convient de rappeler qu'aux termes de l'arrêté du 10 décembre 2002 modifié (JO du 27 
+décembre 2002), les services peuvent opter pour le système d'évaluation le plus favorable pour 
+l'agent logé, qu'il s'agisse: 
+soit de la valeur locative servant à l'établissement de la taxe d'habitation ou à 
+défaut d'après la valeur locative réelle, additionnée de la valeur des prestations 
+accessoires consommées. 
+soit de l'évaluation forfaitaire (comprenant la valeur des avantages accessoires 
+dont le barème varie en fonction des tranches de rémunérations et de la taille des 
+logements) 
+1) l'évaluation d'après la valeur locative brute servant de base à l'établissement de la taxe
+d'habitation
+L'évaluation d'après la valeur locative servant à l'établissement de la taxe d'habitation doit 
+correspondre au cumul de la valeur locative brute actualisée et de la valeur réelle des prestations 
+accessoires ( chauffage, eau, gaz, électricité). 
+La valeur locative cadastrale de l'avantage logement est diminuée d'un abattement de 30% 
+pour tenir compte des sujétions particulières liées à l'occupation du logement, lorsqu'il est concédé 
+par nécessité absolue de service. Cet abattement ne s'applique pas à la valeur des avantages 
+accessoires. 
+
+-3-
+Contrairement au système forfaitaire pour lequel la valeur des avantages accessoires est 
+intég rée à la valeur du logement, le système de la valeur locative oblige à cumuler le montant des 
+avantages accessoires avec la valeur locative servant à l'établissement de la taxe d'habitation. 
+Par conséquent, lorsque le montant des avantages accessoires ne peut être obtenu, soit parce 
+qu'il n'existe aucun compteur individuel (exemple.: chauffage, eau, électricité) soit parce qu'il 
+n'existe aucune possibilité d'évaluation de sa valeur, le système forfaitaire doit être retenu. 
+2)/'évaluation sur la base d'unfoifait 
+Pour appliquer ce système, il convient de prendre en compte le niveau de rémunération de 
+l'agent c'est-à-dire le traitement brut soumis à retenue pour pension civile (huit tranches de revenus 
+déterminée par référence au plafond mensuel de la sécurité sociale), d'une part, et le nombre de 
+pièces du logement d'autre part. 
+Depuis le 1er janvier 2007, la valeur forfaitaire de l'avantage logement est diminuée d'un 
+abattement de 30% pour tenir compte des sujétions particulières liées à l'occupation du logement, 
+lorsqu'il est concédé par nécessité absolue de service (NAS). 
+La valeur des avantages accessoires ( chauffage, eau, gaz, garage, électricité) est intég rée au 
+barème forfaitaire. 
+A compter du 1er janvier 2008 les montants forfaitaires de l'avantage en nature logement sont 
+revalorisés. 
+Ce nouveau barème tient compte 
+- de la revalorisation au 1er janvier 2008 du plafond de sécurité sociale dont le montant a été porté à
+2 773 euros par l'arrêté du 30 octobre 2007 (JO du 10 novembre 2007).
+- du taux prévisionnel de l'évolution moyenne des prix à la consommation hors prix du tabac.
+Vous trouverez ci-joint, à toutes fins utiles en annexe, les barèmes pour l'année 2008 des 
+agents logés par utilité et nécessité de service. 
+En cas de difficultés dans l'application de cette instruction, mes services restent à votre 
+disposition pour répondre à vos interrogations. 
+La ministre de la santé, de la jeunesse, des 
+sports et de la vie associative et par 
+délégation, 
+Daniel WATRIN 
+
+BAREME POUR L'ANNEE 2008 
+Rémunération 
+Inférieure 
+brute mensuelle 
+à 1 386,5 
+Avantage en 
+nature pour 
+61 
+une pièce 
+Si plusieurs pièces, 
+avantage par pièce 
+32,5 
+principale 
+Soit, forfait 
+97,5 
+mensuel pour F3 
+Soit, forfait 
+1 170 
+annuel pour F3 
+Soit, forfait 
+1 560 
+annuel pour F4 
+Soit, forfait 
+1 950 
+annuel pour F5 
+BAREME POUR L'ANNEE 2008 
+Rémunération 
+Inférieure 
+brute mensuelle 
+à 1 386,5 
+Avantage en 
+nature pour 
+42,7 
+une pièce 
+Si plusieurs pièces, 
+avantage par pièce 
+22,8 
+principale 
+Soit, forfait 
+68,2 
+mensuel pour F3 
+Soit, forfait 
+819 
+annuel pour F3 
+Soit, forfait 
+1 092 
+annuel pour F4 
+Soit, forfait 
+1 365 
+annuel pour F5 
+Pour les agents logés par utilité de service 
+Montants exprimés en euros 
+De 1 386,5 
+De 1 663,8 
+De 1 941,1 
+De 2 495,7 
+De 3 050,3 
+De 3 604,9 
+A partir de 
+à 1 663,79 
+à 1 941,09 
+à 2 495,69 
+à 3 050,29 
+à 3 604,89 
+à 4 159,49 
+4 159,5 
+71,1 
+81,3 
+91,4 
+111,8 
+132,1 
+152,4 
+172,7 
+45,7 
+61 
+76,2 
+96,5 
+116,8 
+142,2 
+162,6 
+137,1 
+183 
+228,6 
+289,5 
+350,4 
+426,6 
+487,8 
+1 645,2 
+2 196 
+2 743,2 
+3 474 
+4 204,8 
+5 119,2 
+5 853,6 
+2 193,6 
+2 928 
+3 657,6 
+4 632 
+5 606,4 
+6 825,6 
+7 804,8 
+2 742 
+3 660 
+4 572 
+5 790 
+7 008 
+8 532 
+9 756 
+Pour les agents logés par nécessité de service 
+(abattement de 30 % sur la valeur forfaitaire) 
+Montants exprimés en euros 
+De 1 386,5 
+De 1 663,8 
+De 1 941,1 
+De 2 495,7 
+De 3 050,3 
+De 3 604,9 
+A partir de 
+à 1 663,79 
+à 1 941,09 
+à 2 495,69 
+à 3 050,29 
+à 3 604,89 
+à 4 159,49 
+4 159,5 
+49,8 
+56,9 
+64 
+78,3 
+92,5 
+106,7 
+120,9 
+32 
+42,7 
+53,3 
+67,6 
+81,8 
+99,5 
+113,8 
+96 
+128,1 
+160 
+202,7 
+245,3 
+298,6 
+341,5 
+1 152 
+1 537,2 
+1 920,2 
+2 431,8 
+2 943,3 
+3 583 
+4 097,5 
+1 536 
+2 049,6 
+2 560,3 
+3 242,4 
+3 924,5 
+4 778 
+5 463,4 
+1 919 
+2 562 
+3 200 
+4 053 
+4 905 
+5 972 
+6 829 
+NB : La valeur des avantages accessoires ( chauffage, eau, gaz, électricité, garage) est comprise dans le forfait. 
+Sources: 
+arrêté du 10 décembre 2002 et arrêté du 30 octobre 2007 relatif au plafond de la sécurité sociale ; 
+lettre circulaire ACOSS n° 2007-131 du 11 décembre 2007. 
+
+MINISTERE DE L'ECONOMIE, DES FINANCES 
+ET DE L'EMPLOI 
+Paris, le - l JUIN 2007
+Direction générale des impôts 
+Direction de la législation fiscaJe 
+N° 200509433 
+MINISTERE DU BUDGET, DES COMPTES PUBLICS 
+ET DE LA FONCTION PUBLIQUE 
+Direction du budget 
+N° 6-BRS-07-1163 
+Direction de la sécurité sociale 
+No 
+Direction générale de l'administration 
+et de la fonction publique 
+B7n° 
+Objet: 
+Le ministre de l'économie, des finances 
+et de l'emploi 
+Le ministre du budget, des comptes publics 
+et de la fonction publique 
+à 
+Monsieur le ministre d'Etat 
+Mesdames et Messieurs les ministres 
+et ministres délégués 
+Avantages en nature. Régime social et fiscal applicable et obligations déclaratives 
+correspondantes. 
+La présente circulaire a pour objèt de porter à la connaissance des services les règles sociales et 
+fiscales applicables en matière d'avantages en nature et de rappeler aux ordonnateurs les 
+obligations déclaratives qui leur incombent à ce titre. 
+Sont notamment susceptibles de constituer un avantage en nature le logement de fonction, le 
+véhicule « de fonction » ou « de service » et les outils issus des nouvelles technologies de 
+l'information et de la communication (NTIC) à concurrence de l'utilisation privée qui en est faite, 
+ainsi que la nourriture. Toutefois, les règles applicables en matière d'avantage de véhicule feront 
+l'objet d'une circulaire ultérieure. 
+La réglementation sociale relative à l'évaluation des avantages en nature a été redéfmie par l'arrêté 
+du 10 décembre 2002 modifié, qui a abrogé l'arrêté antérieur du 9 janvier 1975. 
+Ce texte a simplifié et modernisé l'ensemble du dispositif en introduisant de nouvelles règles de 
+calcul fondées en particulier sur l'extension des évaluations forfaitaires. En outre, les nouveaux 
+montants forfaitaires ont été actualisés pour mieux tenir compte du coftt de la vie et ne font plus 
+
+2 
+référence au minimum garanti; ils sont désormais revalorisés au Ier janvier de chaque année en 
+fonction de l'évolution des prix à la consommation des ménages hors tabac. 
+Ces nouvelles dispositions ont été commentées par la direction de la sécurité sociale dans trois 
+circulaires des 6 et 7 janvier 2003 et du 19 août 2005. Les services pourront se reporter utilement à 
+ces circulaires qui sont consultables en ligne sur le site internet www.securite-sociaie.fr, à la 
+rubrique« actualités». 
+En matière fiscale, les règles d'évaluation des avantages en nature applicables en matière d'impôt 
+sur le revenu sont, pour l'imposition des revenus perçus depuis le 1°' janvier 2005, totalement 
+alignées sur celles prévues pour le calcul des cotisations de sécurité sociale et ce, quel que soit le 
+niveau de rémunération des bénéficiaires1• 
+La présente circulaire expose ces nouvelles dispositions et précise, le cas échéant, leurs modalités 
+d'application dans le cadre de la fonction publique. 
+I. Principes et définitions
+A. Précivions liminaires relatives aux cotisations et contributions sociales concernées
+Les cotisations et contributions sociales auxquelles sont soumis les avantages en nature s'entendent 
+pour l'ensemble des agents, titulaires et non titulaires, de la contribution sociale généralisée (CSG), 
+de la contribution pour le remboursement de la dette sociale (CRDS)2 et : 
+- pour les agents titulaires, de la cotisation au régime public de retraite additionnel obligatoire
+institué par l'article 76 de la loin° 2003-775 du 21 août 2003 portant réforme des retraites3 ;
+- pour ]es agents non titulaires, de l'ensemble des cotisations de sécurité sociale.
+En effet, les cotisations de sécurité sociale sont assises, pour les agents non titulaires, sur 
+l'ensemble des éléments de la rémimération mais, pour les fonctionnaires, sur le seul traitement 
+indiciaire, à l'exclusion notamment des avantages en nature. 
+B. Définition des avantages en nature
+Les avantages en nature résultent de la mise à disposition ou de la fourniture par l'employeur d'un 
+bien ou d'un service pennettant au salarié de faire l'économie de frais qu'il aurait dû normalement 
+supporter. 
+Ils constituent, aux termes de l'article L. 242-1 du code de la sécurité sociale (CSS) et du premier 
+alinéa de l'article 82 du code général des impôts (CGI), un é]ément de ]a rémunération des 
+bénéficiaires et sont, à ce titre, soumis aux cotisations4 et contributions sociales ainsi qu'à l'impôt 
+sur le revenu. 
+1 Article 57 de la loi de finances rectificative pour 2005 (n° 2005-1720 du 30 décembre 2005). 
+2 La CSG et la CROS sont dues en application respectivement du troisième alinéa du Ide l'aiticle L. 136-2 du code de la 
+sécurité sociale et du 1 de l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette 
+sociale. 
+3 Le décret n° 2004-569 du 18 juin 2004 relatif à la retraite additionnelle de la fonction publique (RAFP) fixe à 10 %, 
+répartis à parité entre l'administration et! 'agent, le taux de cette cotisation. Celle-ci est assise sur le montai1t des éléments 
+de rémunération de toute nature non compris dans l'assiette de calcul des pensions civiles et militaires de retraite 
+(notamment les avantages en nature), retenus dans la limite de 20 % du traitement indiciaire des agents. 
+4 Voir toutefois les précisions du A du I pour les agents titulaires. 
+
+3 
+II. Evaluation des avantages en nature 
+En matière sociale, le dispositifantérieur qui prévoyait deux modalités d'évaluation des avantages 
+en nature selon que la rémunération brute du bénéficiaire excède ou non le plafond de la sécurité 
+sociale a été abandonné. Le dispositif d'évaluation forfaitaire issu de l'arrêté du 10 décembre 2002 
+concerne donc tous les personnels, sans distinction de niveau de rémunération. 
+En matière fiscale, aux termes du second alinéa de l'article 82 du CGI dans sa rédaction en vigueur 
+jusqu'à l'imposition des revenus de 2004, les avantages en nature devaient être évalués selon les 
+règles applicables en matière de sécurité sociale pour les salariés dont la rémunération est 
+supérieure au plafond de sécurité sociale et, dans le cas contraire, à leur valeur réelle. 
+Dans un souci de simplification, l'article 57 de la loi de finances rectificative pour 2005 du 
+30 décembre 2005 a totalement aligné, pour l'imposition des revenus perçus depuis le 
+1er janvier 2005, les règles d'évaluation des avantages en nature applicables e11 matière d'impôt sur 
+le revenu sur celles prévues pour le calcul des cotisations de sécurité sociale et ce, quel que soit le 
+niveau de rémunération des bénéficiaires5. 
+Les règles d'évaluation des avantages en nature applicables en matière sociale et fiscale sont 
+présentées ci-après. 
+1. Logement de fonction
+A. Règles générales
+Lorsque l'employeur fournit le logement, l'avantage est évalué, sur option de l'employeur:
+- soit sur la base d'un forfait. Celui-ci est déterminé à partir d'un barème dont les tarifs sont
+modulés en fonction du niveau de rémunération des bénéficiaires (huit tranches de revenus
+déterminées par référence au plafond mensuel de la sécurité sociale) et du nombre de pièces du
+logement occupé. Les tarifs de ce barème ont augmenté progressivement sur cinq ans, soit du 
+1 erjanvier 2003 au 1er janvier 2007 (cf. barème en annexe 1), puis seront indexés sur l'évolution des
+prix hors tabac à compter du 1er janvier 2008.
+Certains avantages accessoires, soit, et de manière limitative, l'eau, le gaz, l'électricité, le 
+chauffage et le garage, sont intégrés dans le forfait; 
+- soit d'après la valeur locative servant à l'établissement de la taxe d'habitation (valeur locative
+cadastrale). Lorsque, par exception, les services fiscaux ne sont pas en mesure de fournir les
+renseignements relatifs à la valeur locative cadastrale du logement concemé, c'est la valeur locative
+réelle qui est prise en compte (en référence aux loyers pratiqués dans la commune pour un 
+logement de surface comparable ou, si l'administration est locataire du bien concédé, au montant
+du loyer acquitté par celle-ci sous réserve de la production de justificatifs tels que contrat de bail ou 
+quittance de loyer).
+Les avantages accessoires énumérés ci-dessus ( eau, gaz ... ) consentis le cas échéant par 
+l'employeur doivent être ajoutés pour leur montant réel. 
+Enfin, et quelle que soit l'option retenue par l'employeur (forfait, valeur locative cadastrale ou par 
+exception valeur locative réelle), les autres types de charges susceptibles d'être acquittées par 
+celui-ci et dont le paiement incombe normalement à l'occupant (par exemple, taxe d'habitation ou 
+prime d'assurance) constituent dans tau les cas des avantages en espèces soumis à cotisations et 
+contributions sociales ainsi qu'à l'impôt sur le revenu. 
+5 Les règles fiscales d'évaluation des avantages en nature ainsi applicables depuis le 1er janvier 2005 sont exposées dans 
+une instruction du 12 janvier 2007, publiée au Bulletin officiel des impôts (BOI) sous la référence 5 F-1·07 (pour 
+l'imposition des revenus perçusjusqu'au 3 J décembre 2004, se reporter à l'instruction du 6 février 2004, publiée au BOl 
+sous la référence S F-1-04). 
+
+4 
+B. Logements concédés aux personnels des administrations publiques
+Les règles applicables aux logements concédés aux agents sont fixées par les articles R. 92 à
+R. 104-1 du code du domaine de l'Etat. Les concessions de logement ou les actes de location sont
+passés par le service des domaines (service France Domaine) et font l'objet d'un arrêté signé par le
+ministre sous l'autorité duquel se trouve placé l'agent bénéficiaire et par le ministre des finances.
+Les logements sont concédés soit par nécessité absolue de service (NAS), lorsque l'agent ne peut 
+accomplir normalement son service sans être logé dans les bâtiments où il doit exercer ses 
+fonctions, soit par utilité de service (US), lorsque, sans être absolument nécessaire à !'exercice de la 
+fonction, le logement présente un intérêt certain pour la bonne marche du service. Les concessions 
+de logement accordées par nécessité absolue de service emportent la gratuité de la prestation du 
+logement nu. En revanche, une redevance est mise à la charge des bénéficiaires de logements 
+concédés par utilité de service. 
+Enfin, les logements peuvent également être loués à des agents dans le cadre d'un bail 
+administratif, qui donne lieu au paiement d'un loyer6, ou dans le cadre d'une convention 
+d'occupation précaire (COP), qui donne lieu au paiement d'une redevance. 
+a. Cas des logements concédés par utilité de service (US) : versement d'une redevance par l'agent
+La fourniture du logement n'est pas considérée comme un avantage en nature lorsque l'agent verse 
+à son employeur une redevance dont le montant est supérieur ou égal, selon l'option exercée par 
+l'employeur, au montant forfaitaire ou à la valeur locative cadastrale (ou, à défaut, à la valeur 
+locative réelle). 
+En revanche, lorsque la redevance acquittée par le bénéficiaire est inférieure, selon l'option exercée 
+par l'employeur, au montant forfaitaire ou à la valeur locative cadastrale (ou, à défaut, à 1a valeur 
+locative réelle), la différence constitue un avantage en nature soumis à cotisations et contributions 
+sociales ainsi qu'à l'impôt sur le revenu7• Toutefois, il est admis de négliger cet avantage lorsque 
+son montant est inférieur à l'évaluation résultant de la première tranche du barème forfaitaire pour 
+une pièce ( cf tableau en annexe 1). 
+b. Cas des logements concédés par nécessité absolue de service (NAS) : gratuité du logement et, le
+cas échéant, des avantages accessoires8 
+La valeur de l'avantage imposable dont bénéficient les agents qui ne peuvent accomplir leur service 
+sans être logés dans les locaux où ils exercent leurs fonctions est retenue après un abattement de 
+30 % sur la valeur locative cadastrale ou, mais seulement depuis le Ier janvier 2007, sur la valeur 
+forfaitaire de l'avantage logement. 
+Les dépenses engagées par l'employeur pour le compte de l'agent au titre des avantages accessoires 
+sont retenues pour leur valeur réelle et sans abattement lorsque l'avantage logement est évalué 
+d'après la valeur locative cadastrale (ou, à défaut, d'après la valeur locative réelle). Il e11 est de 
+même en cas d'évaluation de l'avantage logement d'après le forfait social pour les avantages 
+6 L'article R. 93 du code du domaine de l'Etat prévoit que le bail administratif est conclu dans les formes prévues à 
+l'article L. 36 du même code, lequel dispose que les conditions financières de la location sont fixées par le service des 
+domaines. 
+7 La doctrine exprimée au n° 7 de la documentation administrative de base 5 F 2232, reprise dans les instructions du 
+6 tëvrier 2004 (paragraphe 46) et du 12janvier 2007 (paragraphe 15) publiées au Bulletin officiel des impôts (BOI} sous 
+les références respectivement 5 F-1-04 et 5 F-1-07, est donc rapportée â compter de l'imposition des revenus de 2007. 
+Cette modification de la doctrine administrative fera l'objet d'une instruction publiée au BOI précité. 
+8 Contrairement aux concessions de logement par US, les arrêtés de concession de logement accordée par NAS peuvent 
+en effet prévoir, outre la gratuité de la prestation du logement nu, celle de la fourniture de l'eau, du gaz, de l'électricité et 
+du chauffage ou de certains seulement de ces avantages (article R. 98 du code du domaine de l'État). 
+
+5 
+accessoires autres que ceux compris dans ce forfait, c'est-à-dire autres que l'eau, Je gaz, 
+l'électricité, le chauffage et le garage. 
+Enfin, il est précisé que l'avantage correspondant à la concession d'un logement par nécessité 
+absolue de service pour les gendarmes n'est pas imposable à l'impôt sur le revenu (article 82 du 
+CGI). 
+c. Cas des logements faisant l'objet d'un bail administratif ou d'une convention d'occupation
+précaire (COP) : paiement d'un loyer ou d'une redevance par l'agent
+Lorsque la conclusion d'un bail administratif ou d'une COP avec un agent intervient dans le cadre 
+d'une relation de travail, la fourniture du logement par l'employeur est, le cas échéant, susceptible 
+de constituer un avantage en nature qui est évalué selon les règles applicables dans le cas des 
+logements concédés par utilité de service, étant précisé que, s'il s'agit d'une COP, la redevance 
+payée par l'agent est nette de l'abattement lié à la précarité de l'occupation et que c'est cette 
+redevance nette qui est prise en compte pour l'évaluation de l'avantage en nature éventuel. 
+Les avantages accessoires (eau, gaz, électricité, chauffage) sont, dans tous les cas, à la charge des 
+agents. 
+ En résumé: 
+•Sur le principe d'un avantage en nature logement:
+* La fourniture du logement concédé par l'employeur pour utilité de service (US) ou, le cas 
+échéant, dans le cadre d'un bail administratif ou d'une convention d'occupation précaire (COP), 
+n'est susceptible de constituer un avantage en nature soumis aux cotisations et contributions 
+sociales ainsi qu'à l'impôt sur le reveml que lorsque la redevance ou le loyer versé par l'agent est
+inférieur au montant de référence retenu par l'employeur selon l'option qu'il a choisie (forfait ou 
+valeur localiFe cadastrale. voire, par exception, valeur locative réelle) ;
+* La fourniture du logement concédé par l'employeur par nécessité absolue de service (NAS) est
+considérée comme un avantage en nature à hauteur du montant de référence retenu par
+l'employeur selon l'option choisie, après abattement de 30 % (si l'employeur opte pour le fo,fait,
+l'abattement de 30 % n'est applicable que depuis le 1er janvier 2007);
+• Sur l'évaluation de l'avantage en nature logement:
+Les services opteront pour l'évaluation de l'avantage logement soit selon le mode forfaitaire, soit 
+par référence à la valeur locative cadastrale. 
+2. Outils issus des nouvelles technologies de l'information et de Ja communication {NTIQ
+L'utilisation à titre privé par les personnels d'outils issus des nouvelles technologies de 
+l'information et de la communication (téléphone mobile, micro ordinateur portable ou non, 
+progiciels, modem d'accès à télécopieur, etc ... ) mis à leur disposition par l'employeur constitue un 
+avantage en nature. Toutefois, celui-ci sera négligé lorsqu'il correspond à une utilisation 
+raisonnable de ces outils pour la vie quotidienne (par exemple, appels au domicile de courte durée, 
+brèves consultations de serveurs pratiques sur Internet ... ) dont l'emploi est justifié par les besoins 
+ordinaires de la vie professionnelle et familiale. 
+De même, l'avantage pourra être négligé lorsqu'un document écrit prévoit que les outiJs et temps 
+de connexion consentis par l'employeur sont destinés à un usage exclusivement professionnel, ou 
+lorsque l'utilisation de ces instruments par l'agent découle d'obligations ou de sujétions 
+professionnel les. 
+9 Cf. toutefois renvoi n° 7 pour l'impôt sur le revenu. 
+
+6 
+L'avantage en nature est évalué sur option de l'employeur: 
+- soit sur la base des dépenses réellement engagées, sur présentation des factures justifiant le temps
+passé pour utilisation privée ;
+- soit sur la base d'un forfait, égal à 10%, selon le cas, du coût d'achat public des outils ou du coût
+annuel de l'abonnement.
+c:> En résumé: afin d'éviter toute ambigu.ïté sur l'usage professionnel des outils mis à disposition 
+des agents, les services veilleront à rappeler aux intéressés que ces outils sont destinés à un usage 
+professionnel, soit par un document écrit remis à l'agent bénéficiaire, soit par le biais d'une 
+circulaire interne au service, soit par tout moyen écrit qu'ils jugeront approprié. 
+3. Nourriture 
+Lorsque l'employeur fournit la nourriture, l'avantage est évalué pour un montant forfaitaire, qui est 
+revalorisé au l er janvier de chaque année sur la base de l'évolution des prix hors tabac. Pour 2007, 
+ce montant s'établit à 4,20 € par repas et à 8,40 € par jour (pour 2006, respectivement 4,15 € et 
+8,30 €Y0
+.
+La fourniture de repas dans un restaurant administratif, géré ou subventionné par l'employeur, 
+moyennant une participation des personnels, constitue pour ces derniers un avantage en nature, à 
+raison de la différence entre le montant du forfait avantage nourriture (4,20 € par repas en 2007) et 
+le montant de la participation personnelle de l'agent. Toutefois, lorsque la participation de l'agent 
+est au moins égale à la moitié du forfait (soit 2,10 € par repas en 2007), l'avantage peut être négligé 
+(cf tableau en annexe 2). 
+Cas particuliers: 
+*Titres-restaurant: la part contributive de l'employeur à l'acquisition par les agents de titres-
+restaurant est exonérée, dans la limite de 4,98 € pour les titres acquis en 2007 (limite relevée
+chaque année dans la même proportion que la limite supérieure de la première tranche du barème
+de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres) et dès lors qu'elle
+représente au moins 50 % et au plus 60 % de la valeur libératoire du titre.
+* Fourniture de repas résultant d'une obligation professionnelle ou pris par nécessité de service (par
+exemple, personnels éducatifs dans les établissements scolaires): elle n'est pas considérée comme
+un avantage en nature.
+c:> En résumé : il apparaît que dans la majorité des cas de personnels ayant à leur disposition un 
+restaurant administratif, ! 'avantage nourriture peut être négligé. 
+III. Obligations déclaratives 
+La déclaration des avantages en nature aux administrations sociale et fiscale est une obligation de 
+l'employeur. 
+:> En matière sociale, les services gestionnaires évaluent les avantages en nature dont sont 
+susceptibles de bénéficier les personnels et en notifient les montants aux services « Liaison-
+10 Pour les personnels de cantine et de service (salariés relevant de la convention collective nationale du personnel des 
+entreprises de restauration de collectivités du 20 juin 1983), la valeur de l'avantage en nature est fixée par repas à un 
+minimum garanti (MG), soit, en 2006, 3,11 € du 1er janvier au 30 juin et 3, 17 € du 1•• juillet au 31 décembre. Ce dernier 
+montant (3, 17 €) reste valable pour l'évaluation des avantages en nature consentis jusqu'au 30 juin 2007. 
+
+7 
+rémunérations » (SLR) des trésoreries générales, chargés de la paie des agents, selon les procédures 
+habituelles. 
+: , En matière fiscale, les services gestionnaires déclarent à l'administration fiscale le montant des 
+avantages en nature à comprendre dans l'assiette de l'impôt sur le revenu et en informent les agents 
+bénéficiaires (ces informations figurent sur le document adressé annuellement aux agents précisant 
+le montant des sommes imposables). 
+Dans le cadre de la déclaration de revenus préremplie, mise en place en 2006 pour l'imposition des 
+revenus perçus depuis le I
+er janvier 2005, les agents vérifient Je montant des salaires porté par 
+l'administration, qui doit comprendre les avantages en nature, et corrigent le cas échéant ce 
+montant. 
+* 
+* 
+* 
+L'attention des services est appelée sur la nécessité qili s'attache à ce qu'ils s'acquittent avec la 
+plus grande vigilance de leurs obligations déclaratives . 
+. Ils voudront bien faire part des éventuelles difficultés d'application de la présente circulaire aux 
+· administrations compétentes.
+Ils voudront bien également ne plus tenir compte des instructions contenues dans la circulaire 
+commune de la direction du budget 11° 6B-91/7S et de la direction générale de l'administration èt de 
+la fonction publique FP/7 n° 1765 du 5 mars 1991, relative à la mise en oeuvre de la CSG à l'égard
+des rémunérations des personnels de l'État. 
+. 
+· 
+La directrice de la législation fiscale
+Le directeur de la sécurité sociale 
+D 
+Dominique LIBAULT 
+Le directeur du budget 
+r:l'hilfppe JOSSE 
+Le directeur général de l'administration 
+et de la fonction publique 
+Pour le ministre et par délé௭wtion 
+Par empêchement du dir$Ctaur :iénéral 
+de radminislration et de la fonr.:•l·::1 nu • ue 
+Le directeur, ad"oi 
+· •. ;,,er;àral 
+Frédéric ALADJIDI
