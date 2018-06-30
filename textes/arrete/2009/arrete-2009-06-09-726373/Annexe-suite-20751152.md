@@ -150,7 +150,7 @@ Directeur adjoint du développement international et chef du service des procéd
 
 |
 
-Directeur adjoint à la direction générale des systèmes d'information et de communication de la défense
+Directeur adjoint à la direction générale du numérique et des systèmes d'information et de communication de la défense
 
 |
 
