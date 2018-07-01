@@ -184,7 +184,7 @@ C
 
 |
 
-Direction départementale de l'équipement de la Réunion
+Direction départementale de l'environnement, de l'aménagement et du logement de la Réunion
 
 FONCTIONS EXERCEES
 
@@ -208,7 +208,7 @@ par emploi
 
 |
 
-Directeur adjoint chargé de la délégation régionale interministérielle à la ville
+Chef de service habitat logement social
 
 |
 
@@ -224,7 +224,7 @@ A
 
 |
 
-Responsable du service de l'habitat, de l'aménagement et de l'urbanisme
+Adjoint au chef de service habitat logement social
 
 |
 
@@ -236,11 +236,11 @@ A
 
 |
 
-50 points
+40 points
 
 |
 
-Responsable d'une unité territoriale de l'habitat, de l'aménagement et de l'urbanisme
+Responsable d'unité - chargé de mission territorial ANRU Nord et Est et de la coordination du PNRU
 
 |
 
@@ -252,11 +252,11 @@ A
 
 |
 
-35 points
+40 points
 
 |
 
-Responsable de la cellule aménagement et développement social urbain, au sein du service de l'habitat, de l'aménagement et de l'urbanisme
+Chargé de mission territorial ANRU Sud et Ouest
 
 |
 
@@ -268,15 +268,15 @@ A
 
 |
 
-50 points
+40 points
 
 |
 
-Comptable chargé des crédits d'investissement politique de la ville
+Chef d'unité logement locatif social
 
 |
 
-B
+A
 
 |
 
@@ -284,31 +284,31 @@ B
 
 |
 
-30 points
+40 points
 
 |
 
-Responsable d'un pôle "aménagement et développement social urbain" dans une unité territoriale
+Chef d'unité politique et planification de l'habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+40 points
+
+|
+
+Chef du bureau administratif et financier
 
 |
 
 B
-
-|
-
-4
-
-|
-
-15 points
-
-|
-
-Assistant au délégué régional interministériel à la ville
-
-|
-
-C
 
 |
 
@@ -319,5 +319,71 @@ C
 20 points
 
 |
+
+Gestionnaire ANRU
+
+|
+
+B |
+
+2 |
+
+25 points |
+
+Chef d'unité Habitat Nord
+
+|
+
+B |
+
+1 |
+
+20 points |
+
+Assistant du chef de service habitat logement social
+
+|
+
+C |
+
+1 |
+
+20 points |
+
+Direction de la jeunesse, des sports et de la cohésion sociale de la Réunion
+
+Fonctions exercées |
+
+Niveau
+
+de qualification
+
+de l'emploi
+
+|
+
+Nombre
+
+d'emplois
+
+|
+
+Nombres
+
+de points (IM)
+
+par emploi
+
+|
+
+Responsable d'unité accès et maintien dans le logement
+
+|
+
+A |
+
+1 |
+
+40 points |
 
 Nombre total de points: 9 898
