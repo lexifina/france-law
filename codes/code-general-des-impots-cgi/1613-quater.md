@@ -4,7 +4,7 @@ I. – Il est institué une contribution perçue sur les boissons et préparatio
 
 1° Relevant des codes NC 2009 et NC 2202 du tarif des douanes ;
 
-2° Contenant des édulcorants de synthèse et ne contenant pas de sucres ajoutés ;
+2° Contenant des édulcorants de synthèse ;
 
 3° Conditionnées dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel ;
 
@@ -12,7 +12,7 @@ I. – Il est institué une contribution perçue sur les boissons et préparatio
 
 Sont exclus du périmètre de cette taxe les denrées destinées à des fins médicales spéciales ainsi que les aliments hyperprotéinés destinés aux personnes dénutries.
 
-II. – Le montant de la contribution est fixé à 7,55 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du budget, publié au Journal officiel.
+II. – Le montant de la contribution est fixé à 3 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du budget, publié au Journal officiel.
 
 Pour son application à Mayotte, le montant mentionné au premier alinéa est fixé à 3,31 € au 1er janvier 2014, à 4,31 € au 1er janvier 2015, à 5,31 € au 1er janvier 2016 et à 7,31 € au 1er janvier 2017.
 
@@ -32,4 +32,4 @@ VI. – Le produit de la contribution mentionnée au I est affecté à la branch
 
 NOTA :
 
-Modifications effectuées en conséquence des articles 2 et 4 de l'arrêté du 22 décembre 2017.
+Conformément au II de l'article 19 de la loi n° 2017-1836 du 30 décembre 2017 ces dispositions s'appliquent à compter du 1er juillet 2018.
