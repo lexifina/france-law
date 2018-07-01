@@ -132,23 +132,15 @@ Si cette valeur moyenne augmentée de deux fois l'écart type est supérieure à
 
 C pour l'ammoniac (teneur en O2 de 10 %).
 
-PARAMÈTRE
+Paramètre |
 
-|
+Valeur journalière moyenne |
 
-VALEUR JOURNALIÈRE
+Ammoniac |
 
-moyenne
+50 mg/ m ³ |
 
-|
-
-Ammoniac
-
-|
-
-30 mg/m³ |
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries, sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries soumises à la directive 2010/75/ UE du 24 novembre 2010 relative aux émissions industrielles, sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures techniques disponibles et qu'il n'y a pas lieu de craindre de risque significatif pour la santé humaine et l'environnement. Dans ce cas, sauf application de l'article R. 515-68 du code de l'environnement, le préfet impose une valeur limite à l'émission qui n'excède pas les niveaux d'émission associés aux meilleures techniques disponibles fixés dans la décision établissant les conclusions sur les meilleures techniques disponibles pour la production de ciment, de chaux et d'oxyde de magnésium, au titre de la directive 2010/75/ UE, en vigueur. En tout état de cause, cette valeur ne peut dépasser 100 mg/ Nm3.
 
 II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
 
