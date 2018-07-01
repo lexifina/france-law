@@ -1,6 +1,10 @@
 # Article Annexe I
 
-CATÉGORIES DU CERTIFICAT DE COMPÉTENCE " PROTECTION DES ANIMAUX DANS LE CADRE DE LEUR MISE À MORT " Catégories de personnel
+CATÉGORIES DU CERTIFICAT DE COMPÉTENCE
+
+"PROTECTION DES ANIMAUX DANS LE CADRE DE LEUR MISE À MORT"
+
+Catégories de personnel
 
 Il y a deux catégories de candidats : opérateur et responsable protection animale.
 
@@ -70,91 +74,49 @@ Le nombre de questions dépend du nombre de modules choisis comme indiqué dans 
 
 Tableau n° 1 : nombre de questions par candidat
 
-CATÉGORIES D'ANIMAUX
-
-|
+CATÉGORIES D'ANIMAUX |
 
 NOMBRE DE MODULES
 
-opération-animaux demandés
-
-|
+opération-animaux demandés |
 
 NOMBRE STANDARD DE QUESTIONS
 
-par candidat opérateur
+par candidat opérateur |
 
-|
+NOMBRE STANDARD
 
-NOMBRE STANDARD DE QUESTIONS
+de questions
 
-par candidat RPA
+par candidat RPA |
 
-|
+Nos 1,2,3,4,5,7,8 |
 
-N°s 1, 2, 3, 4, 5, 7, 8
+1 |
 
-|
+20 |
 
-1
+Sans objet |
 
-|
+2 |
 
-20
+30 |
 
-|
+45, dont 15 portant sur des thèmes spécifiques RPA |
 
-Sans objet
+3 et plus |
 
-|
+40 |
 
-|
+55, dont 15 portant sur des thèmes spécifiques RPA |
 
-2
+N° 6 Animaux à fourrure |
 
-|
+1 |
 
-30
+40 |
 
-|
-
-40, dont 10 portant
-
-sur des thèmes spécifiques RPA
-
-|
-
-|
-
-3 et plus
-
-|
-
-40
-
-|
-
-50, dont 10 portant
-
-sur des thèmes spécifiques RPA
-
-|
-
-N° 6 Animaux à fourrure
-
-|
-
-1
-
-|
-
-40
-
-|
-
-Sans objet
-
-|
+Sans objet |
 
 Tableau n° 2 : modules d'évaluation pour les catégories d'animaux 1, 2, 3, 4, 5, 7 et 8
 
