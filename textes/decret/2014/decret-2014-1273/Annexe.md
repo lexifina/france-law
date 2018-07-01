@@ -536,39 +536,63 @@ Article R. 211-23 du code de l'environnement |
 
 6 mois |
 
-Dérogation au principe d'interdiction d'addition intentionnelle de radioactivité dans des biens de consommations ou des matériaux de construction |
+Dérogation au principe d'interdiction d'addition intentionnelle de radioactivité dans des biens de consommation ou des produits de construction |
 
-Article R. 1333-4 |
+Article R. 1333-5 |
 
 2 ans |
 
+Décision de reclassement d'une source de rayonnements ionisants ou d'un lot de sources radioactives |
+
+Article R. 1333-14 |
+
+6 mois |
+
 Agrément des laboratoires pour les mesures de la radioactivité de l'environnement |
 
-Article R. 1333-11-1 |
+R. 1333-26 |
 
 8 mois |
 
-Agrément pour les organismes chargés des mesures de radon |
+Agrément des organismes chargés des mesures de l'activité volumique du radon |
 
-Article R. 1333-15-1 |
-
-6 mois |
-
-Décision mettant fin à l'autorisation ou délivrance d'une attestation dégageant le responsable d'une activité nucléaire de ses obligations |
-
-Article R. 1333-42 |
+R. 1333-36 |
 
 6 mois |
 
-Autorisation de transport de matières radioactives |
+Autorisation d'une activité nucléaire |
 
-Article R. 1333-44 |
+Article R. 1333-125 |
+
+6 mois |
+
+Décision mettant fin à l'autorisation ou à l'enregistrement ou délivrance d'une attestation dégageant le responsable d'une activité nucléaire de ses obligations |
+
+R. 1333-143 |
+
+6 mois |
+
+Autorisation de transport de substances radioactives |
+
+Article R. 1333-146 |
 
 6 mois |
 
 Autorisation de prolongation de la durée d'utilisation d'une source radioactive |
 
-Article R. 1333-52 |
+Article R. 1333-161 |
+
+6 mois |
+
+Désignation des inspecteurs de la radioprotection |
+
+Article R. 1333-171 |
+
+6 mois |
+
+Agrément d'organismes |
+
+Article R. 1333-172 |
 
 6 mois |
 
@@ -666,9 +690,9 @@ Articles 3,4 et 5 de l'arrêté du 2 février 2011 relatif à l'agrément du mat
 
 |
 
-Délivrance, visa ou renouvellement des certificats internationaux de sécurité, sûreté et de prévention de la pollution et les certificats de travail maritime, ou, le cas échéant, les certificats d'exemption, prévus par les conventions internationales ou par la réglementation de l'Union européenne |
+Délivrance, visa ou renouvellement des certificats internationaux de sécurité, sûreté et de prévention de la pollution, ou, le cas échéant, les certificats d'exemption, prévus par les conventions internationales ou par la réglementation de l'Union européenne |
 
-Articles L. 5112-2, L. 5241-3, L. 5241-4 et L. 5251-2 et L. 5514-1
+Articles L. 5112-2, L. 5241-3, L. 5241-4 et L. 5251-2
 
 Articles 3 et suivants du décret n° 84-810 30 août 1984 relatif à la sauvegarde de la vie humaine en mer
 

@@ -1,18 +1,12 @@
 # Article Annexe I
 
-OBJET DE LA DEMANDE
+OBJET DE LA DEMANDE |
 
-|
-
-DISPOSITIONS APPLICABLES
-
-|
+DISPOSITIONS APPLICABLES |
 
 DÉLAI À L'EXPIRATION
 
-duquel la décision de rejet est acquise, lorsqu'il est différent du délai de deux mois
-
-|
+duquel la décision de rejet est acquise, lorsqu'il est différent du délai de deux mois |
 
 Règlement (UE) n° 389/2013 de la Commission du 2 mai 2013 établissant un registre de l'Union conformément à la directive 2003/87/CE du Parlement européen et du Conseil et aux décisions n° 280/2004/CE et n° 406/2009/CE du Parlement européen et du Conseil et abrogeant les règlements (UE) n° 920/2010 et (UE) n° 1193/2011 de la Commission
 
@@ -104,7 +98,7 @@ Enregistrement des sources radioactives en préalable à leur cession ou acquisi
 
 |
 
-Article R. 1333-47
+Article R. 1333-154
 
 |
 
@@ -114,7 +108,7 @@ Enregistrement des sources radioactives en préalable à leur importation ou exp
 
 |
 
-Article R. 1333-49
+Article R. 1333-157
 
 |
 

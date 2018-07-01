@@ -1,5 +1,7 @@
 # Article Annexe (4) à l'article R511-9
 
+Annexe (4) à l'article R511-9
+
 N°
 
 |
@@ -3822,56 +3824,6 @@ A
 
 |
 
-2794 |
-
-Installation de broyage de déchets végétaux non dangereux. |
-
-|
-
-|
-
-|
-
-|
-
-La quantité de déchets traités étant : |
-
-|
-
-|
-
-|
-
-|
-
-1. Supérieure ou égale à 30 t/ j |
-
-E |
-
-- |
-
-|
-
-|
-
-2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j |
-
-D |
-
-- |
-
-|
-
-|
-
-Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
-
-Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
-
-Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
 2793
 
 |
@@ -4046,6 +3998,56 @@ A représentant la quantité relative aux déchets classés en division de risqu
 
 B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport. |
 
+2794 |
+
+Installation de broyage de déchets végétaux non dangereux. |
+
+|
+
+|
+
+|
+
+|
+
+La quantité de déchets traités étant : |
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 30 t/ j |
+
+E |
+
+- |
+
+|
+
+|
+
+2. Supérieure ou égale à 5 t/ j, mais inférieure à 30 t/ j |
+
+D |
+
+- |
+
+|
+
+|
+
+Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
 2795
 
 |
@@ -4108,17 +4110,47 @@ DC
 
 |
 
-Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m3 et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé publique ne sont pas remplies.
-
-Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive 2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs.
+Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de particules et secteur médical, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m3 et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-106 du code de la santé publique ne sont pas remplies.
 
 |
 
-A
+|
 
 |
 
-2
+|
+
+|
+
+1. Activités de gestion de déchets radioactifs hors stockage (tri, entreposage, traitement …)
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+2. Installations de stockage de déchets pouvant contenir des substances radioactives autres que celles d'origine naturelle ou des substances radioactives d'origine naturelle dont l'activité en radionucléides naturels des chaines de l'uranium et du thorium est supérieure à 20 Bq/ g
+
+|
+
+A |
+
+2 |
+
+|
+
+|
+
+Nota.-Les termes " déchets radioactifs " et " gestion des déchets radioactifs " sont définis à l'article L. 542-1-1 du code de l'environnement.
+
+|
+
+|
 
 |
 

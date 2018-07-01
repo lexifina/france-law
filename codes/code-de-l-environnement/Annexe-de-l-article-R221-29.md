@@ -45,3 +45,19 @@ Benzène
 2 µg/m³ pour une exposition de longue durée à compter du 1er janvier 2016
 
 |
+
+SUBSTANCE |
+
+CHEMICAL ABSTRACTS Service (CAS) |
+
+NIVEAU DE REFERENCE
+
+POUR LE RADON DANS LES BATIMENTS |
+
+Radon |
+
+10043-92-2 |
+
+300 Bq. m-3
+
+|
