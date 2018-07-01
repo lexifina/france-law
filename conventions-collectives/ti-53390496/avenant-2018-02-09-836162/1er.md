@@ -1,0 +1,171 @@
+# Article 1er
+
+L'article 7 « Cotisations » est réécrit ainsi :
+
+« Le contrat d'assurance complémentaire santé se compose d'un socle obligatoire appelé « Garanties complémentaires de base » et d'une option appelée « Garanties optionnelles ».
+
+Les structures tarifaires de la garantie santé sont les suivantes, au choix de l'entreprise :
+
+Structure tarifaire 1 : Adulte/ Enfant
+
+Structure tarifaire 2 : Isolé/ Famille
+
+Le financement du contrat d'assurance complémentaire frais de santé souscrit par l'employeur est assuré par une cotisation répartie de la façon suivante :
+
+1. Garanties complémentaires de base (salarié seul)
+
+Cotisation « Adulte » ou cotisation « Isolé »
+
+Répartition :
+
+50 % à la charge de l'employeur ;
+
+50 % à la charge du salarié.
+
+2. Garanties facultatives (elles s'ajoutent aux garanties de base du salarié)
+
+2.1. Garanties de base
+
+Cotisation « Adulte » (conjoint), cotisation « Enfant »
+
+Cotisation « Famille ».
+
+2.2. Garanties optionnelles
+
+Cotisation « Adulte » (salarié, conjoint), cotisation « Enfant »
+
+Cotisation « Isolé », cotisation « Famille ».
+
+Toutes les cotisations des garanties facultatives sont à la charge exclusive du salarié. Elles s'ajoutent à la cotisation obligatoire.
+
+3. Tarifs
+
+Formule Adulte/ Enfant :
+
+Garanties de base |
+
+Total par mois |
+
+Part patronale |
+
+Part salariale |
+
+Cotisation mensuelle obligatoire toutes taxes comprises |
+
+Adulte (salarié seul) |
+
+1,07 %, soit 35 € |
+
+0,535 %, soit 17,50 € |
+
+0,535 %, soit 17,50 € |
+
+Cotisations mensuelles facultatives toutes taxes comprises |
+
+Cotisation adulte (conjoint) |
+
++ 1,07 %, soit 35 € |
+
+– |
+
++ 1,07 %, soit 35 € |
+
+Cotisation enfant (enfant à charge) |
+
++ 0,63 %, soit 21 € |
+
+– |
+
++ 0,63 %, soit 21 € |
+
+Garanties optionnelles |
+
+Total par mois |
+
+Part patronale |
+
+Part salariale |
+
+Cotisations mensuelles facultatives toutes taxes comprises |
+
+Cotisation adulte (conjoint) |
+
++ 0,16 %, soit 5 € |
+
+– |
+
++ 0,16 %, soit 5 € |
+
+Cotisation enfant (enfant à charge) * |
+
++ 0,09 %, soit 3 € |
+
+– |
+
++ 0,09 %, soit 3 € |
+
+* Gratuité à partir du 3e enfant. |
+
+Formule Isolé/ famille :
+
+Garanties de base |
+
+Total par mois |
+
+Part patronale |
+
+Part salariale |
+
+Cotisation mensuelle obligatoire toutes taxes comprises |
+
+Isolé (Salarié seul) |
+
+1,07 %, soit 35 € |
+
+0,535 %, soit 17,50 € |
+
+0,535 %, soit 17,50 € |
+
+Cotisations mensuelles facultatives toutes taxes comprises |
+
+Famille (conjoint et enfants à charge) ** |
+
++ 1,91 %, soit 63 € |
+
+– |
+
++ 1,91 %, soit 63 € |
+
+Garanties optionnelles |
+
+Total par mois |
+
+Part patronale |
+
+Part salariale |
+
+Cotisations mensuelles facultatives toutes taxes comprises |
+
+Isolé (salarié seul) |
+
++ 0,16 %, soit 5 € |
+
+– |
+
++ 0,16 %, soit 5 € |
+
+Famille (conjoint et enfants à charge) ** |
+
++ 0,28 %, soit 9 € |
+
+– |
+
++ 0,28 %, soit 9 € |
+
+** Ne comprend pas la cotisation salarié. |
+
+Les montants en euros de l'exercice 2018 sont indiqués à titre informatif. Ces montants évoluent tous les ans en fonction du plafond mensuel de la sécurité sociale (PMSS).
+
+PMSS 2018 = 3 311 €.
+
+L'appel et le recouvrement de ces cotisations sont confiés à l'organisme assureur (ou son délégataire de gestion) choisi par l'entreprise. »
