@@ -58,7 +58,7 @@ Nombre d'exposants étrangers (1) (3) (4) :
 
 Surface nette occupée par les exposants étrangers (1) (3) (4) :
 
-Dénomination de l'organisme de certification (4) :
+Dénomination de l'entreprise d'inspection (4) :
 
 Numéro SIRET :
 
