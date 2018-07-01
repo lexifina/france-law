@@ -100,25 +100,27 @@ Les enfants du salarié. Ce vocable étant utilisé pour désigner les enfants d
 
 III.-Prestations garanties du régime frais de santé de branche
 
+(1)
+
 Les prestations du niveau de garantie dénommé « base obligatoire » détaillées ci-après doivent bénéficier a minima, acte par acte, à chaque salarié bénéficiaire.
 
-Au-delà des garanties de la base obligatoire couvrant le seul salarié, les laboratoires de biologie médicale extrahospitaliers doivent améliorer les prestations garanties de la base obligatoire en souscrivant à un niveau de garantie supérieur dénommé « option »
+Au-delà des garanties de la base obligatoire couvrant le seul salarié, les laboratoires de biologie médicale extrahospitaliers doivent améliorer les prestations garanties de la base obligatoire en souscrivant à un niveau de garantie supérieur dénommé « option ».
 
 Les prestations garanties de l'option sont détaillées ci-après.
 
-Cette option a été définie par les partenaires sociaux et bénéficie de conditions tarifaires privilégiées dans la mesure où elles ont été négociées avec l'organisme assureur recommandé visé ci-après au J.
+Cette option a été définie par les partenaires sociaux et bénéficie de conditions tarifaires privilégiées dans la mesure où elles ont été négociées avec l'organisme assureur recommandé visé ci-après au J).
 
 Les laboratoires de biologie médicale extrahospitaliers devront y souscrire :
 
--soit dans le cadre d'une adhésion collective facultative ; dans ce cas, la cotisation s'y rapportant est la charge exclusive du salarié ;
+– soit dans le cadre d'une adhésion collective facultative ; dans ce cas, la cotisation s'y rapportant est la charge exclusive du salarié ;
 
--soit dans le cadre d'une adhésion collective obligatoire. Dans ce dernier cas, les laboratoires devront satisfaire aux conditions pour bénéficier de l'exonération sociale plafonnée sur le financement patronal et notamment formaliser l'existence d'un acte juridique instituant le régime selon l'un des modes visés à L. 911-1 du code de la sécurité sociale (décision unilatérale de l'employeur écrite remise contre récépissé aux salariés bénéficiaires ou référendum ou accord collectif d'entreprise).
+– soit dans le cadre d'une adhésion collective obligatoire. Dans ce dernier cas, les laboratoires devront satisfaire aux conditions pour bénéficier de l'exonération sociale plafonnée sur le financement patronal et notamment formaliser l'existence d'un acte juridique instituant le régime selon l'un des modes visés à l'article L. 911-1 du code de la sécurité sociale (décision unilatérale de l'employeur écrite remise contre récépissé aux salariés bénéficiaires ou référendum ou accord collectif d'entreprise).
 
-(Tableaux non reproduits, consultables en le ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
 
-http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2016/0047/ boc _ 20160047 _ 0000 _ 0003. pdf
+http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0036/ boc _ 20180036 _ 0000 _ 0002. pdf
 
-Cotisations et répartition
+IV.-Cotisations et répartition
 
 D.-Taux et assiette des cotisations
 
@@ -148,23 +150,27 @@ F.-Cas du laboratoire de biologie médicale extrahospitalier ayant mis en place 
 
 En présence d'une couverture santé d'entreprise antérieure au 1er janvier 2017, l'employeur devra s'assurer que celle-ci est conforme aux prescriptions du régime frais de santé de branche.
 
-A ce titre, il devra veiller notamment à ce que :
+À ce titre, il devra veiller notamment à ce que :
 
--chaque salarié présent et futur soit couvert (absence de condition d'ancienneté et bénéficiaire des dispenses de droit mentionnées ci-avant au B) ;
+– chaque salarié présent et futur soit couvert (absence de condition d'ancienneté et bénéficiaire des dispenses de droit mentionnées ci-avant au B) ;
 
--la couverture d'entreprise doit être solidaire et responsable ;
+– la couverture d'entreprise doit être solidaire et responsable ;
 
--chaque prestation garantie, acte par acte, de la couverture d'entreprise soit supérieure ou égale aux prestations de la base obligatoire ;
+– chaque prestation garantie, acte par acte, de la couverture d'entreprise soit supérieure ou égale aux prestations de la base obligatoire ;
 
--le régime d'entreprise devra proposer des dispositifs optionnels financés par les salariés, pour étendre les garanties du salarié à ses ayants droit et pour améliorer la couverture des bénéficiaires ;
+– le régime d'entreprise devra proposer des dispositifs optionnels financés par les salariés, pour étendre les garanties du salarié à ses ayants droit et pour améliorer la couverture des bénéficiaires ;
 
--la participation patronale du régime d'entreprise devra être au moins égale à 50 % de la cotisation « salarié seul en obligatoire ». Si la cotisation totale prévue par le régime obligatoire d'entreprise pour le salarié seul est supérieure à celle figurant ci-avant dans D pour la base obligatoire pour des garanties strictement identiques, la part supplémentaire est entièrement due par l'employeur ;
+– la participation patronale du régime collectif d'entreprise devra être au moins égale à 50 % de la cotisation “ salarié seul en obligatoire ” (fixée ci-avant dans D), soit au moins égale à 0,78 % du PMSS en vigueur. Cette disposition s'applique lorsque le régime collectif d'entreprise présente soit des prestations strictement identiques (à celles du niveau “ base obligatoire ” visées ci-avant au III) soit des prestations garanties plus favorables par ajout d'une ou plusieurs prestations garanties et/ ou améliorations d'une ou plusieurs prestations garanties, à celles du niveau “ base obligatoire ” visées ci-avant au III. Si la cotisation totale prévue par le régime obligatoire d'entreprise pour le salarié seul est supérieure à celle figurant ci-avant dans D, soit supérieure à 1,56 % du PMSS pour la base obligatoire pour :
 
--le régime d'entreprise respecte bien les dispositions du V ci-après concernant les maintiens et conditions de suspension des garanties santé y compris pour les anciens salariés ;
+– – des garanties strictement identiques à celles du niveau “ base obligatoire ” visées ci-avant au III, la part supplémentaire de cotisation est entièrement due par l'employeur ;
 
--le régime d'entreprise respecte bien les dispositions du VII ci-après et propose notamment les garanties présentant un degré élevé de solidarité.
+– – des garanties plus favorables par ajout d'une ou plusieurs prestations garanties et/ ou améliorations d'une ou plusieurs prestations garanties à celles du niveau “ base obligatoire ” visées ci-avant au III, la part supplémentaire de cotisation est entièrement due par l'employeur ;
 
-IV.-Maintien et conditions de suspension de la garantie frais de santé du régime de branche
+– le régime d'entreprise respecte bien les dispositions du V ci-après concernant les maintiens et conditions de suspension des garanties santé y compris pour les anciens salariés ;
+
+– le régime d'entreprise respecte bien les dispositions du VII ci-après et propose notamment les garanties présentant un degré élevé de solidarité.
+
+V.-Maintien et conditions de suspension de la garantie frais de santé du régime de branche
 
 G.-Conditions et modalités du maintien des garanties du régime frais de santé de branche en cas de suspension du contrat de travail
 
@@ -194,7 +200,9 @@ Les salariés garantis collectivement au titre de la couverture base obligatoire
 
 Ce maintien temporaire visé ci-avant est applicable dans les mêmes conditions aux ayants droit du salarié qui bénéficient effectivement, dans le cadre d'une extension facultative, de la couverture frais de santé à la date de la cessation du contrat de travail.
 
-I.-Maintien à l'identique des garanties du régime frais de santé de branche : article 4 de la loi n° 89-1009 du 31 décembre 1989 dite loi « Evin » (1)
+I.-Maintien à l'identique des garanties du régime frais de santé de branche : article 4 de la loi n° 89-1009 du 31 décembre 1989 dite loi « Evin »
+
+(2)
 
 Tout organisme assureur doit maintenir la couverture collective frais de santé dans les modalités et conditions de l'article 4 de la loi « Evin » et rappelées ci-après.
 
@@ -212,123 +220,15 @@ Les résultats techniques afférents à ces maintiens à l'identique seront pré
 
 Par ailleurs dans l'éventualité où l'ancien salarié ne souhaite pas bénéficier d'un maintien à l'identique, des formules dites « d'accueil » standard pourront lui être proposées par l'organisme assureur.
 
-A titre informatif, les cotisations proposées par l'organisme recommandé ci-après au J pour les anciens salariés et bénéficiaires sont les suivantes :
+À titre informatif, les cotisations proposées par l'organisme recommandé ci-après au J pour les anciens salariés et bénéficiaires sont les suivantes :
 
-(En pourcentage.)
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
 
-|
-
-Régime Général |
-
-Régime Local |
-
-|
-
-Base
-
-obligatoire |
-
-Option |
-
-Base
-
-obligatoire |
-
-Option |
-
-Conjoint de salarié décédé |
-
-2,15 |
-
-2,92 |
-
-1,50 |
-
-2,18 |
-
-Enfant de salarié décédé |
-
-0,89 |
-
-1,08 |
-
-0,62 |
-
-0,81 |
-
-Chômeur |
-
-2,02 |
-
-2,74 |
-
-1,41 |
-
-2,05 |
-
-Bénéficiaires de rente d'incapacité de travail ou d'invalidité |
-
-2,02 |
-
-2,74 |
-
-1,41 |
-
-2,05 |
-
-Conjoint du non-retraité |
-
-2,15 |
-
-2,92 |
-
-1,50 |
-
-2,18 |
-
-Enfant du non-retraité |
-
-0,89 |
-
-1,08 |
-
-0,62 |
-
-0,81 |
-
-Retraité |
-
-2,34 |
-
-3,16 |
-
-1,63 |
-
-2,37 |
-
-Conjoint du retraité |
-
-2,49 |
-
-3,37 |
-
-1,74 |
-
-2,52 |
-
-Enfant du retraité |
-
-0,89 |
-
-1,08 |
-
-0,62 |
-
-0,81 |
+http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0036/ boc _ 20180036 _ 0000 _ 0002. pdf
 
 Une partie des bénéficiaires voit leur cotisation réduite par rapport aux dispositions légales grâce à la solidarité mise en œuvre par le régime frais de santé de la branche.
 
-V.-Mutualisation du régime frais de santé de la branche
+VI.-Mutualisation du régime frais de santé de la branche
 
 J.-Organisme assureur recommandé
 
@@ -344,7 +244,7 @@ K.-Réexamen de la recommandation
 
 Le principe et les modalités d'organisation de la recommandation seront réexaminés par les partenaires sociaux conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale dans un délai maximum de 5 ans à compter de la date d'effet du présent article, soit pour le 1er janvier 2022. A cette fin, la commission paritaire nationale se réunira spécialement au plus tard 6 mois avant cette échéance.
 
-VI.-Garanties collectives présentant un degré élevé de solidarité du régime frais de santé de branche
+VII.-Garanties collectives présentant un degré élevé de solidarité du régime frais de santé de branche
 
 Afin de satisfaire aux dispositions de l'article L. 912-1 alinéa 1er du code de la sécurité sociale, le régime frais de santé de branche prévoit des garanties collectives présentant un degré élevé de ­ solidarité.
 
@@ -372,6 +272,10 @@ Conformément à l'article R. 912-1 du code de la sécurité sociale, la part de
 
 NOTE : le présent article prend effet au 8 septembre 2016 pour les employeurs adhérents à l'une des fédérations patronales signataires de l'avenant du 8 juillet 2016 BO 2016/47 et au 1er janvier 2017 pour les employeurs non adhérents à l'une des fédérations patronales signataires.
 
-(1) Article étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4, 9 et 15 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques.
+(1) Le titre III est étendu sous réserve du respect des dispositions de l'article L. 911-7 du code de la sécurité sociale.
+
+(Arrêté du 2 août 2019 - art. 1)
+
+(2) Article étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4, 9 et 15 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques.
 
 (Arrêté du 28 avril 2017 - art. 1)
