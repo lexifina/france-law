@@ -1,0 +1,167 @@
+# Article 1er
+
+Les dispositions de l'article 9 « Cotisations » sont abrogées et remplacées par les dispositions suivantes :
+
+Personnel relevant des articles 4 et 4 bis de la CCN de 1947
+
+La cotisation appelée est fixée au taux contractuel soit 2,68 % de la base des cotisations définie à l'article 6 de l'annexe 1 de la convention collective nationale du personnel des cabinets médicaux. La cotisation est répartie comme suit.
+
+(En pourcentage.)
+
+Garanties |
+
+Taux de cotisation
+
+global |
+
+Taux de cotisation
+
+employeur |
+
+Taux de cotisation
+
+salarié |
+
+Décès |
+
+0,40 |
+
+0,40 |
+
+− |
+
+Frais d'obsèques |
+
+0,05 |
+
+0,05 |
+
+− |
+
+Incapacité temporaire de travail |
+
+1,34 |
+
+0,72 |
+
+0,62 |
+
+Invalidité Permanente |
+
+0,48 |
+
+0,26 |
+
+0,22 |
+
+Rente éducation |
+
+0,08 |
+
+0,08 |
+
+− |
+
+Rente handicap |
+
+0,02 |
+
+0,02 |
+
+− |
+
+Rente de conjoint |
+
+0,31 |
+
+0,31 |
+
+− |
+
+Total |
+
+2,68 |
+
+1,84 |
+
+0,84 |
+
+Personnel ne relevant pas des articles 4 et 4 bis de la CCN de 1947
+
+La cotisation appelée est fixée au taux contractuel soit 2,15 % de la base des cotisations définie à l'article 6 de l'annexe 1 de la convention collective nationale du personnel des cabinets médicaux.
+
+La cotisation est répartie comme suit :
+
+(En pourcentage.)
+
+Garanties |
+
+Taux de cotisation
+
+global (*) |
+
+Taux de cotisation
+
+employeur |
+
+Taux de cotisation
+
+salarié |
+
+Décès |
+
+0,19 |
+
+0,12 |
+
+0,07 |
+
+Frais d'obsèques |
+
+0,05 |
+
+0,03 |
+
+0,02 |
+
+Incapacité temporaire de travail |
+
+1,33 |
+
+0,80 |
+
+0,53 |
+
+Invalidité Permanente |
+
+0,48 |
+
+0,29 |
+
+0,19 |
+
+Rente éducation |
+
+0,08 |
+
+0,05 |
+
+0,03 |
+
+Rente handicap |
+
+0,02 |
+
+0,01 |
+
+0,01 |
+
+Total |
+
+2,15 |
+
+1,30 |
+
+0,85 |
+
+(*) Les cotisations sont financées à hauteur de 60 % par les employeurs et de 40 % par les salariés. |
