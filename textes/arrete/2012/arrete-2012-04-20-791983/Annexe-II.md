@@ -42,35 +42,39 @@ Toute modification du plan d'épandage doit être portée, avant sa réalisation
 
 Les apports d'azote, de phosphore et de potasse toutes origines confondues, organique et minérale, sur les terres faisant l'objet d'un épandage, tiennent compte de la rotation des cultures ainsi que de la nature particulière des terrains et de leur teneur en éléments fertilisants. Pour ces éléments, la fertilisation est équilibrée et correspond aux capacités exportatrices de la culture concernée. La fertilisation azotée organique est interdite sur toutes les légumineuses sauf la luzerne et les prairies d'association graminées-légumineuses.
 
-3.2. Caractéristiques des matières épandues.
+3.2. Caractéristique des matières épandues.
 
-Le pH des matières est compris entre 6,5 et 8,5. Toutefois, des valeurs différentes peuvent être retenues sous réserve de conclusions favorables de l'étude préalable.
+Le pH des effluents ou des déchets est compris entre 6,5 et 8,5. Toutefois, des valeurs différentes peuvent être retenues sous réserve de conclusions favorables de l'étude préalable.
 
-L'exploitant établit un programme de contrôle des matières à épandre, qui ne peuvent pas être épandues dans les cas suivants :
+Les matières ne peuvent être répandues :
 
-- si les teneurs en éléments-traces métalliques dans les sols dépassent l'une des valeurs limites figurant à l'annexe I de l'arrêté du 8 janvier 1998 ;
+-si les teneurs en éléments-traces métalliques dans les sols dépassent l'une des valeurs limites figurant au tableau 2 de l'annexe I de l'arrêté du 8 janvier 1998.
 
-- dès lors que l'une des teneurs en éléments ou composés indésirables contenus dans le déchet ou l'effluent excède les valeurs limites figurant à l'annexe I de l'arrêté du 8 janvier 1998 ;
+-dès lors que l'une des teneurs en éléments ou composés indésirables contenus dans le déchet ou l'effluent excède les valeurs limites figurant aux tableaux 1 a ou 1 b de l'annexe I de l'arrêté du 8 janvier 1998 ;
 
-- dès lors que le flux, cumulé sur une durée de dix ans, apporté par les déchets ou les effluents sur l'un de ces éléments ou composés excède les valeurs limites figurant l'annexe I de l'arrêté du 8 janvier 1998 ;
+-dès lors que le flux, cumulé sur une durée de dix ans, apporté par les déchets ou les effluents sur l'un de ces éléments ou composés excède les valeurs limites figurant aux tableaux 1 a ou 1 b de l'annexe I de l'arrêté du 8 janvier 1998 ;
 
-- à l'exception des effluents liquides, auxquels les prescriptions suivantes ne s'appliquent pas, si leur contenu en micro-organismes dépasse les valeurs suivantes :
+En outre, lorsque les matières sont épandues sur des pâturages, le flux maximum des éléments-traces métalliques à prendre en compte, cumulé sur une durée de dix ans, est celui du tableau 3 du point I ci-dessous.
 
-- salmonella : 8 NPP/10 g MS (dénombrement selon la technique du nombre le plus probable) ;
+Les matières ne contiennent pas d'éléments ou substances indésirables autres que ceux listés à l'annexe I de l'arrêté du 8 janvier 1998.
 
-- enterovirus : 3 NPPUC/10 g MS (dénombrement selon la technique du nombre le plus probable d'unités cytopathogènes) ;
+Sans préjudice de la réglementation sanitaire, et notamment du règlement (UE) n° 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n° 1069/2009, les matières compostées non conformes à une norme rendue d'application obligatoire, issues d'une installation de compostage de matière végétale ou déchets végétaux, d'effluents d'élevage, de matières stercoraires exclusivement peuvent être épandues sans contraintes particulières tant que leur contenu en micro-organismes est inférieur ou égale aux valeurs suivantes :
 
-- œufs d'helminthes viables : 3 pour 10 g MS.
+-salmonella : 8 NPP/10 g MS (dénombrement selon la technique du nombre le plus probable) ;
 
-Les matières ne contiennent pas d'éléments traces métalliques ou composés traces organiques autres que ceux listés à l'annexe I de l'arrêté du 8 janvier 1998.
+-enterovisus : 3 NPPUC/10 g MS (dénombrement selon la technique du nombre le plus probable d'unité cytopathogènes) ;
 
-Les déchets ou effluents ne doivent pas être épandus sur des sols dont le pH avant épandage est inférieur à 6, sauf lorsque les trois conditions suivantes sont simultanément remplies :
+-œufs d'helminthes viables : 3 pour 10 g MS.
 
-- le pH du sol est supérieur à 5 ;
+Les autres matières non conformes à une norme rendue d'application obligatoire susceptibles d'être épandues ne contiennent pas d'agents pathogènes.
 
-- la nature des matières peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ;
+Les matières dont le pH avant épandage est inférieur à 6 ne doivent pas être épandues sur des sols, sauf lorsque les trois conditions suivantes sont simultanément remplies :
 
-- le flux cumulé maximum des éléments apportés aux sols est inférieur aux valeurs de l'annexe I de l'arrêté du 8 janvier 1998.
+-le pH du sol est supérieur à 5 ;
+
+-la nature des déchets ou effluents peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ;
+
+-le flux cumulé maximum des éléments apportés aux sols est inférieur aux valeurs du tableau 3 de l'annexe I de l'arrêté du 8 janvier 1998.
 
 3.3. Programme prévisionnel d'épandage.
 
