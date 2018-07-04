@@ -1,0 +1,19 @@
+# Article 1er
+
+Les dispositions de l'article 6 du titre Ier sont remplacées par les dispositions suivantes :
+
+« Article 6
+
+Sécurisation juridique
+
+Sauf dispositions légales ou réglementaires le permettant, les accords d'entreprises ne peuvent déroger, dans un sens moins favorable, aux dispositions contenues dans la présente convention et ses avenants.
+
+Dans les matières suivantes, les accords d'entreprises conclus postérieurement à la présente convention collective ne peuvent comporter des stipulations différentes de celles qui lui sont applicables en vertu de cette convention collective sauf lorsque les accords d'entreprises assurent des garanties au moins équivalentes :
+
+– la prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'article L. 4161-1 ;
+
+– l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;
+
+– l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical ;
+
+– les primes pour travaux dangereux ou insalubres. »
