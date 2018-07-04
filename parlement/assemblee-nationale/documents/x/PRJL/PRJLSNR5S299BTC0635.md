@@ -1,0 +1,10 @@
+# projet de loi  les dispositions restant en discussion sur du projet de loi, modifié, par l'Assemblée nationale, relatif aux contrôles et aux sanctions en matière de concurrence en Polynésie française et en Nouvelle-Calédonie (n°617).
+
+- Type : Projet de loi
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Adaptation à la Polynésie française et à la Nouvelle-Calédonie de dispositions du code de commerce relatives à la concurrence
+- Déposé le : 2018-07-04
+- Dossier : DLR5L15N36430
+- Auteurs : Mme Catherine Troendlé (rapporteur), Commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion du projet de loi relatif aux contrôles et aux sanctions en matière de concurrence en Polynésie française et en Nouvelle-Calédonie
+- Identifiant : PRJLSNR5S299BTC0635
