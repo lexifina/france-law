@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention entre la commune d’Issy-les-Moulineaux et l’Académie de Versailles relative à l’utilisation de l’Espace Numérique de Travail dans les écoles de la Ville.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : VILLE NUMERIQUE
+- Objet : Approbation d’une convention entre la commune d’Issy-les-Moulineaux et l’Académie de Versailles relative à l’utilisation de l’Espace Numérique de Travail dans les écoles de la Ville.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MzMsInB1ciI6ImJsb2JfaWQifX0=--4eb26413d46f4f0a4741ed7a8ec99bf3e033ef0c/070518_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
