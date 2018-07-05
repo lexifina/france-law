@@ -1,1 +1,0 @@
-# Article IX.3
