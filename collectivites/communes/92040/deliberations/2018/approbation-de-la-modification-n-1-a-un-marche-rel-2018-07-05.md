@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n° 1 à un marché relatif aux classes d’environnement de l’année 2018.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : EDUCATION
+- Objet : Approbation de la modification n° 1 à un marché relatif aux classes d’environnement de l’année 2018.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NDAsInB1ciI6ImJsb2JfaWQifX0=--20c7325a8e9ce465bf6e43ce241f206a72b6e8f4/070518_28.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
