@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour l'exploitation de la crèche « Les Epinettes » sur l’exercice 2017.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : PETITE ENFANCE
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour l'exploitation de la crèche « Les Epinettes » sur l’exercice 2017.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MzQsInB1ciI6ImJsb2JfaWQifX0=--bba38534fed3a06c21d2e6e4757e57b15b203277/070518_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
