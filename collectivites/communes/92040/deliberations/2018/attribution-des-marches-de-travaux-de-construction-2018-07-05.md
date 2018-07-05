@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution des marchés de travaux de construction du Parc Municipal des Sports pour les lots 5 et 6.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : SPORTS
+- Objet : Attribution des marchés de travaux de construction du Parc Municipal des Sports pour les lots 5 et 6.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NDMsInB1ciI6ImJsb2JfaWQifX0=--26204ed6d39089857e61cc784a50bf5777d738e9/070518_33.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
