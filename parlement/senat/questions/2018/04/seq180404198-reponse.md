@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404198
+
+- Question : [SEQ180404198](seq180404198.md) — Réglementation relative aux vélos à assistance électrique
+
+## Réponse
+
+*Sports, JO du 2018-07-05, page 3360*
+
+La pratique du vélo tout terrain à assistance électrique (VTTAE), comme tous les sports de nature, doit être encouragée. En effet, la pratique du vélo tout terrain (VTT) au moyen de ce type d'engin facilite l'accès à cette discipline sportive qui peut se révéler, en zone de montagne et dans les parcs nationaux, exigeante physiquement Les VTT et les VTTAE sont respectivement qualifiés de cycle ou de cycle à pédalage assisté au sens des points 6.10 et 6.11 de l'article R. 311-1 du code de la route. Un VTTAE est donc un cycle équipé d'un moteur auxiliaire électrique d'une puissance nominale continue maximale de 0,25 kilowatt, dont l'alimentation est réduite progressivement et finalement interrompue lorsque le véhicule atteint une vitesse de 25 km/ h, ou plus tôt si le cycliste arrête de pédaler. Il ne s'agit pas d'un véhicule à moteur. Par conséquent, l'article L. 362-1 du code de l'environnement qui prévoit le principe de l'interdiction de circulation des véhicules à moteur dans les parcs nationaux ne s'applique pas aux VTT et VTTAE. Toutefois certains engins à pédales, dont l'aspect est proche d'un VTTAE, sont des véhicules terrestres à moteur relevant de la sous-catégorie L1e-A définie par l'article R. 311-1 du code de la route. L'usage de ces véhicules est en principe prohibé dans les parcs nationaux. Il s'agit de véhicule à deux roues dont la vitesse maximale par construction ne dépasse pas 45 km/ h, muni de pédales et dont le mode de propulsion auxiliaire d'aide au pédalage d'une puissance maximale de 1 kW s'interrompt dès que le véhicule atteint une vitesse égale ou supérieure à 25 km/ h.
