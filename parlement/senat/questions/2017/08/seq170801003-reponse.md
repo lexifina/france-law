@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801003
+
+- Question : [SEQ170801003](seq170801003.md) — Situation de l'enseignement professionnel
+
+## Réponse
+
+*Éducation nationale, JO du 2018-07-05, page 3346*
+
+La France compte aujourd'hui 1 484 lycées professionnels qui forment chaque année plus de 665 000 jeunes (données RERS 2017 : 110 692 élèves en CAP et 537 898 élèves en baccalauréat professionnel pour 2016) en alternance aux métiers professionnels d'ouvriers, de techniciens, d'employés dont le pays a besoin, tant dans le secteur industriel que le secteur tertiaire. L'enseignement professionnel forme par alternance à plus de 100 métiers, avec 18 filières professionnelles et près de 600 diplômes/spécialités du niveau V (CAP) au niveau III (BTS). Par ailleurs, la réussite au baccalauréat professionnel se situe entre 80 % et 82,5 % depuis 2014. 27 % des bacheliers pour la session de juin 2017 ont obtenu un baccalauréat professionnel, soit 176 104 admis qui représentent 22 % d'une génération, proportion très supérieure à celle observée en 2010 avant la réforme de la voie professionnelle (14,2 %). Enfin le Gouvernement a lancé, sous l'égide du ministre de l'éducation nationale, une mission de transformation de la voie professionnelle scolaire en vue de la rendre plus attractive, plus efficace et toujours plus ouverte sur l'Europe et le monde. Un rapport de Céline Calvez, députée des Hauts de Seine, et de Régis Marcon, chef étoilé, a été récemment remis au ministre et une concertation avec les partenaires sociaux est engagée. La ministre du travail, quant à elle, a engagé une concertation sur l'apprentissage avec tous les acteurs concernés en vue de définir les axes d'une réforme de l'apprentissage formalisée par un projet de loi Apprentissage, Formation professionnelle et assurance chômage au printemps.
