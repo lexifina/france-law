@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Constitution d’un groupement de commandes entre la Ville d’Issy-les-Moulineaux, l’Établissement public territorial Grand Paris Seine Ouest et les communes membres en vue de la passation d’un marché pour la réalisation de diagnostics phytosanitaires et les contrôles périodiques des arbres sur le territoire de GPSO.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : ESPACES PUBLICS
+- Objet : Constitution d’un groupement de commandes entre la Ville d’Issy-les-Moulineaux, l’Établissement public territorial Grand Paris Seine Ouest et les communes membres en vue de la passation d’un marché pour la réalisation de diagnostics phytosanitaires et les contrôles périodiques des arbres sur le territoire de GPSO.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NTIsInB1ciI6ImJsb2JfaWQifX0=--b3dcae592bcd37ce6c1f51806a24c859d08fc46e/070518_46.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
