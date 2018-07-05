@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification des taux de rémunération des médecins vacataires exerçant pour le compte de la Ville.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification des taux de rémunération des médecins vacataires exerçant pour le compte de la Ville.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MzcsInB1ciI6ImJsb2JfaWQifX0=--26208787c19868e2a837362658c2655405c6fd84/070518_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
