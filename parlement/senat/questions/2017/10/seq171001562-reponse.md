@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001562
+
+- Question : [SEQ171001562](seq171001562.md) — Crédit d'impôt pour la transition énergétique
+
+## Réponse
+
+*Économie et finances, JO du 2018-07-05, page 3336*
+
+En application de l'article 278-0 bis A du CGI, le taux réduit de 5,5 % de la TVA s'applique aux travaux d'amélioration de la qualité énergétique des locaux à usage d'habitation achevés depuis plus de deux ans ainsi que sur les travaux induits qui leur sont indissociablement liés. Ces travaux portent sur la pose, l'installation et l'entretien des matériaux et équipements mentionnés au 1 de l'article 200 quater du CGI, c'est-à-dire au crédit d'impôt pour la rénovation énergétique (CITE), sous réserve que ces matériaux et équipements respectent des caractéristiques techniques et des critères de performances minimales fixés par arrêté. Relèvent ainsi notamment du taux réduit de 5,5 % de la TVA les travaux relatifs aux matériaux d'isolation thermique des parois opaques ou vitrées, de volets isolants ou de portes d'entrée donnant sur l'extérieur. À cet égard, afin d'assurer la continuité du soutien public à la rénovation énergétique des logements jusqu'à la mise en place d'un mécanisme alternatif à compter du 1er janvier 2019, l'article 79 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018 a prorogé le CITE d'une année, soit jusqu'au 31 décembre 2018, tout en l'aménageant afin de le rendre plus efficient en excluant notamment progressivement du bénéfice du crédit d'impôt les dépenses d'acquisitions des matériaux d'isolation thermique des parois vitrées, de volets isolants ou de portes d'entrée donnant sur l'extérieur. Ce recentrage ne s'applique pas au taux réduit de TVA qui s'applique de manière inchangée à l'installation, la pose ou l'entretien de ces mêmes matériels.
