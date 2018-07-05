@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504883
+
+- Question : [SEQ180504883](seq180504883.md) — Propositions de la Commission européenne et politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-07-05, page 3334*
+
+Le Gouvernement français est opposé aux propositions de la Commission européenne (CE) sur le budget de la politique agricole commune (PAC) post 2020, qui impliquent des baisses drastiques des financements alloués à cette politique. Plus particulièrement, le Gouvernement a dénoncé les coupes significatives envisagées par la CE sur les paiements directs qui auraient un impact sur le revenu des agriculteurs et qui pourraient emporter des risques sur la viabilité des exploitations et susciter une incompréhension de la part des agriculteurs européens, en contradiction avec les efforts qui leur sont demandés dans le même temps, notamment dans le domaine environnemental. S'agissant du fonds européen agricole pour le développement rural, l'ampleur des réductions d'enveloppes proposées par la CE remet en question la capacité à accompagner la transformation de l'agriculture de l'Union européenne avec les outils ciblés et territorialisés qu'offre le développement rural. À l'initiative de la France et de cinq autres partenaires européens, un mémorandum de défense de la PAC et de son budget a été signé le 31 mai 2018. Ce papier de position, demandant le maintien du budget de la PAC à son niveau actuel (à 27 États membres), a reçu au total le soutien de vingt États membres lors du Conseil des ministres de l'agriculture du 18 juin 2018. La France entend donc porter une position ambitieuse sur le budget de la PAC dans les négociations qui s'ouvrent afin que cette politique relève avec succès les défis économiques, sanitaires et environnementaux qui se posent à l'agriculture française.
