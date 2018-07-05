@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Admission en non-valeur de créances irrécouvrables sur les années 2014 à 2017.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : FINANCES
+- Objet : Admission en non-valeur de créances irrécouvrables sur les années 2014 à 2017.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NDMsInB1ciI6ImJsb2JfaWQifX0=--e1b068c2fcc210e0074889186320e46d749045af/070518_07.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
