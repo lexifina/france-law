@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du rapport financier de la Maison du Tourisme et des Loisirs d’Issy-les-Moulineaux pour l’exercice 2017.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-07-05
+- Matière : FINANCES
+- Objet : Approbation du rapport financier de la Maison du Tourisme et des Loisirs d’Issy-les-Moulineaux pour l’exercice 2017.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NTMsInB1ciI6ImJsb2JfaWQifX0=--143919b2ffd4ca7bc3d570b3cdaeb1907b3a122e/070518_09.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
