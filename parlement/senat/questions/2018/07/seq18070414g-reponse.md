@@ -1,0 +1,11 @@
+# Réponse à la question SEQ18070414G
+
+- Question : [SEQ18070414G](seq18070414g.md) — Effondrement du marché des moteurs diesel
+
+## Réponse
+
+*Économie et finances, JO du 2018-07-06, page 9202*
+
+M. Bruno Le Maire, ministre de l'économie et des finances. Monsieur le sénateur Alain Fouché, il n'y a aucune raison de stigmatiser le diesel, ni de le favoriser par rapport à la motorisation essence. Le ministre d'État Nicolas Hulot et moi-même avons donc pris, sous l'autorité du Premier ministre, la décision, que nous assumons, d'aligner la fiscalité du diesel sur celle de l'essence. Je le répète, il n'y a aucune raison de favoriser un carburant plutôt qu'un autre : chacun a ses défauts en termes d'émissions de particules fines ou de CO2. C'est une mesure de justice, d'efficacité, conforme à nos objectifs environnementaux. Le ministre d'État, ministre de la transition écologique et solidaire et le ministre de l'économie et des finances travaillent main dans la main à cette politique énergétique.La première réponse est d'accompagner les industries concernées, afin de protéger les 12 000 emplois susceptibles d'être menacés, tout le savoir-faire, toutes les entreprises, toutes les usines, à l'instar de la Fonderie du Poitou Fonte ou de l'usine Bosch de Rodez. Tel est l'objet du plan pour le soutien à la filière que j'ai présenté le 7 décembre dernier. Le maître mot est diversification. Il faut aider ces entreprises à se diversifier. Chez Bosch, à Rodez, 1 800 emplois sont concernés ; dans votre département, il s'agit de 1 000 emplois. L'État accompagne et continuera d'accompagner la filière diesel. S'agissant plus spécifiquement de la Fonderie du Poitou Fonte, la difficulté est qu'elle a quasiment un client unique, Renault. J'interviendrai aussi auprès de Renault pour me faire l'avocat de cette entreprise et faire en sorte que nous trouvions ensemble des solutions pour aider à son développement et à sa diversification.
+
+Il y a un aspect plus général : le soutien à l'innovation et le développement de technologies nouvelles. C'est l'objet du fonds pour l'innovation industrielle, doté de 10 milliards d'euros issus de cessions d'actifs. C'est par l'innovation que nous trouverons les meilleures réponses pour soutenir notre industrie. (Applaudissements sur les travées du groupe La République En Marche.)
