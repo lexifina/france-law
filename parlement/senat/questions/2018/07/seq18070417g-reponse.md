@@ -1,0 +1,13 @@
+# Réponse à la question SEQ18070417G
+
+- Question : [SEQ18070417G](seq18070417g.md) — Feuille de route pour l'économie circulaire
+
+## Réponse
+
+*Transition écologique et solidaire (Mme la SE auprès du ministre d'État), JO du 2018-07-06, page 9205*
+
+Mme Brune Poirson, secrétaire d'État auprès du ministre d'État, ministre de la transition écologique et solidaire. Monsieur le sénateur Marchand, vous avez raison, la France a la responsabilité particulière de tirer le reste du monde vers le haut en matière environnementale. C'est d'ailleurs pour cette raison que le Président de la République en a fait une priorité de sa politique internationale et que j'ai lancé une initiative ambitieuse en termes d'objectifs de développement durable. À ce titre, j'ai d'ailleurs mobilisé l'ensemble de mes collègues du Gouvernement.Dans ce cadre, je me rendrai au Forum politique de haut niveau qui aura lieu au milieu ce mois-ci aux États-Unis. L'Agenda 2030 pour le développement durable, c'est la boussole des Nations unies pour guider et accélérer les actions concrètes en faveur du développement durable dans tous les pays du monde.
+
+Si nous voulons être au rendez-vous, il faut que chacun se mobilise, notamment les entreprises, petites ou grandes. Dans le domaine de l'économie circulaire, leur rôle est d'une importance est vitale, car ce sont elles qui sont sources d'innovation. Pour cette raison, sous l'égide du Premier ministre, nous avons lancé, dans le cadre du plan Biodiversité, une initiative ambitieuse en la matière. Il s'agit de mettre en œuvre une véritable politique industrielle en faveur du recyclage, pour que nos entreprises, nos territoires soient en avance et se montrent plus compétitifs.
+
+L'économie circulaire, c'est pour nos territoires un potentiel de 300 000 emplois non délocalisables. Vous l'avez souligné, nous avons reçu lundi, avec Delphine Gény-Stephann, les cinquante-cinq premiers engagements d'industriels et de fédérations, qui vont permettre de doubler les volumes d'incorporation de plastique recyclé. Ce n'est qu'un début, de nombreuses entreprises sont impliquées, comme celle que vous avez citée, monsieur le sénateur. Je sais que vous vous attachez particulièrement à identifier et à soutenir les meilleures pépites que nous avons en France, notamment sur votre territoire, en matière de recyclage. C'est ce genre d'entreprises que nous devons aider par tous les moyens, parce que ce sont elles qui créent des emplois et qui jouent un rôle moteur pour la compétitivité de notre pays. (Applaudissements sur les travées du groupe La République En Marche. – Mme Nassimah Dindar et M. Jean-Marie Bockel applaudissent également.)
