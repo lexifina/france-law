@@ -1,6 +1,8 @@
 # Article Annexe A
 
-ORGANISMES OU AUTORITÉS dont relèvent les personnes habilitées |
+ORGANISMES OU AUTORITÉS
+
+dont relèvent les personnes habilitées |
 
 PERSONNES HABILITÉES |
 
@@ -44,11 +46,11 @@ Directeur de l'établissement logistique de Roanne |
 
 Chefs des groupements de soutien de base de défense en métropole (2) |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Commandant de l'école des fourriers |
 
-MAPA x 0,66 |
+MAPA × 0,66 |
 
 Direction centrale du service des essences des armées |
 
@@ -66,17 +68,17 @@ Sans limitation (3) |
 
 Directeur du centre d'expertise pétrolière interarmées |
 
-MAPA x 20 |
+MAPA × 20 |
 
-Chef de détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
+Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
 
-MAPA x 7 (4) |
+MAPA × 7 (4) |
 
 Divers |
 
 Commandants des formations administratives (5) |
 
-MAPA x 1 |
+MAPA × 1 |
 
 Armée de terre |
 
@@ -88,17 +90,17 @@ Sans limitation |
 
 Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre) |
 
-MAPA x 3 |
+MAPA × 3 |
 
 Chef du détachement de Moulins de la base de soutien du matériel de Clermont-Ferrand (service de la maintenance industrielle terrestre) |
 
-MAPA x 3 |
+MAPA × 3 |
 
 Divers |
 
 Commandants des formations administratives (5) |
 
-MAPA x 0,66 |
+MAPA × 0,66 |
 
 Marine |
 
@@ -106,33 +108,33 @@ Direction centrale du service de soutien de la flotte |
 
 Directeur local du service du soutien de la flotte de Brest, directeur adjoint |
 
-MAPA x 70 |
+MAPA × 70 |
 
 Directeur local du service du soutien de la flotte de Toulon, directeur adjoint |
 
-MAPA x 70 |
+MAPA × 70 |
 
 Directeur d'antenne de soutien des Antilles |
 
-MAPA x 10 |
+MAPA × 10 |
 
 Directeur d'antenne de soutien de Nouvelle-Calédonie |
 
-MAPA x 10 |
+MAPA × 10 |
 
 Directeur d'antenne de soutien de Polynésie française |
 
-MAPA x 10 |
+MAPA × 10 |
 
 Directeur d'antenne de soutien de La Réunion |
 
-MAPA x 10 |
+MAPA × 10 |
 
 Divers |
 
 Commandants des formations administratives autres que les éléments navals (5) |
 
-MAPA x 0,66 |
+MAPA × 0,66 |
 
 Armée de l'air |
 
@@ -140,11 +142,11 @@ Service industriel de l'aéronautique |
 
 Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Bordeaux |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand |
 
@@ -152,17 +154,17 @@ Sans limitation |
 
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Bretagne |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Divers |
 
 Commandants des formations administratives (5) |
 
-MAPA x 0,66 |
+MAPA × 0,66 |
 
 Direction générale de l'armement |
 
@@ -178,13 +180,13 @@ Sans limitation |
 
 Autorités signataires de marchés |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Direction de la stratégie |
 
 Directeur du centre d'analyse technico-opérationnelle de défense |
 
-MAPA x 50 |
+MAPA × 50 |
 
 Directeur de DGA intelligence technique et économique |
 
@@ -222,9 +224,17 @@ Quartier général du cabinet du ministre de la défense |
 
 Chef du quartier général |
 
-MAPA x 1 (10) |
+MAPA × 1 (10) |
 
-(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l'article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
+Service militaire volontaire-volontariat militaire d'insertion |
+
+Commandement du service militaire volontaire-volontariat militaire d'insertion |
+
+MAPA × 10 (11)
+
+|
+
+(1) L'expression "MAPA x" s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l' article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
@@ -242,4 +252,6 @@ MAPA x 1 (10) |
 
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté. |
+(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
+
+(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
