@@ -116,6 +116,8 @@ Domos Service armoricaine, Domos Service Ouest, Domos Service maintenance, 7, bo
 
 Domos Service armoricaine, Domos Service Ouest, Domos Service maintenance, 17, avenue de Verdun, 56000 Vannes : De 1990 à 1996 ;
 
+EGMO, 8, rue Henry-Estier, 56100 LORIENT. Puis 52 boulevard Isidore Marfille, 29200 BREST : de 1945 à 2006 ;
+
 Entreprise Mather et Platt, vieille route de Rosporden, 29195 Quimper, de 1962 à 1978 ;
 
 Etablissements J.-Goupil, route de Saint-Pern, 22830 Plouasne : de 1973 à 1995 ;
@@ -136,6 +138,8 @@ Ogara Hess et Eisenhardt France, Labbe, ZI, rue d'Armor, BP 414,22404 Lamballe C
 
 Ets Merand (ancien Ets Guibert), 28, rue Duhamel, 35100 Rennes, de 1951 à 1981, puis Ets Merand, ZI de La Turbanière, 35530 Brece, de 1981 à 1993 ;
 
+NAVTIS, 12, rue Jean-Charles Chevillotte (SIRET N° 340 677 921 00017), 29200 BREST et 52 boulevard Isidore Marfille (SIRET N° 340 677 921 00025), CS 12938, 29229 BREST CEDEX 2 : de 2006 à 2012 ;
+
 Queguiner Matériaux, ZA Le Vern, 29400 Landivisiau : de 1971 à 1998 ;
 
 SA CAPIC, 69, avenue des Sports, ZI de l'Hippodrome, 29195 Quimper Cedex, de 1962 à 1993 ;
@@ -149,6 +153,8 @@ Samua, Saint-Eloi, 22540 Louargat : de 1976 à 1986 ;
 SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CECF : Compagnie européenne de constructions de fours), puis Société d'applications électrotechniques, ZI de kerpont, 56850 Caudan : de 1968 à 1988 ;
 
 Sérupa, route de Rennes, 22230 Merdrignac : de 1974 à 1998 ;
+
+SMNB, 12, rue Jean-Charles Chevillotte, 29200 BREST : de 1959 à 2006 ;
 
 SNPE/ Nobel Sport, 2, rue du Squiriou, 29590 Pont-de-Buis : de 1972 à 1996 ;
 
@@ -696,8 +702,6 @@ Alpha Isolation, ZI Les Estroublans, 1, rue No-5,13127 Vitrolles : depuis 1976 ;
 
 ATELIER LE CANET DE MARSEILLE puis CAMOM SA puis SOCIETE NOUVELLE CAMOM puis UIE (Union Industrielle et d'Entreprise) puis SOCIETE NOUVELLE CAMOM puis CAMOM SNC, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1962 à 1996 ;
 
-ATOCHEM AGRI SA-CEREXAGRI SA-CEREXAGRI SAS, 3 et/ ou 8, boulevard de la Louisiane, 13014 Marseille : de 1989 à 1997 ;
-
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111,13773 Fos-sur-Mer : de 1975 à 2001 ;
 
 ATOFINA, établissement de Port-de-Bouc, carrefour du Caban, RN 268, BP 111,13773 Fos-sur-Mer : de 1940 à 1995 ;
@@ -726,8 +730,6 @@ ELF Atochem, BP 3,13117 Lavera, de 1970 à 2001 ;
 
 Entreprise Francis CAZALS, 3, avenue des Ecureuils, 13012 Marseille puis, 26, avenue des Cigalons, 13013 Marseille : De 1974 à 1997 ;
 
-L'Européenne Soufres Industriels, 23, boulevard de la Station, Le Petit Canet, 13014 Marseille : de 1987 à 1993 ;
-
 France Joints, zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
 
 FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000,13799 Aix-en-Provence : de 1988 à 1996 ;
@@ -754,9 +756,11 @@ Poudrerie nationale de Sorgues puis Société nationale des poudres et explosifs
 
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
-RSR (Les Raffineries de Soufre Réunies-Le Canet), 1, place du Général-de-Gaulle, 13001 Marseille : de 1960 à 1987 ;
+Raffineries de soufre Réunies (RSR), ou usine du Canet, ou ETIM (établissement technique et industriel de Marseille), ou RSR ETIM (SIRET N° 056 803 56200059), 3 et/ou 8 boulevard de la Louisiane, 13014 Marseille, de 1960 à 1988 ;
 
-RSR ETIM-PENWALT-RSR CANET, boulevard de la Louisiane, 13014 Marseille : de 1987 à 1989 ;
+RSR ETIM, ou Européenne de Soufres Industriels (ESI), ou ESI ETIM (SIRET N° 056 803 56200059), 3 et/ou 8 boulevard de la Louisiane, 13014 Marseille, de 1987 à 1997 ;
+
+RSR ETIM-PENWALT-RSR CANET, ou ATOCHEM AGRI SA, ou ELF ATOCHEM AGRI (SIRET N° 569 804 98200340), 3 et/ou 8 boulevard de la Louisiane, 13014 Marseille, de 1987 à 1997 ;
 
 SA Maison Faure/ Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
 
@@ -783,6 +787,8 @@ Société française de plaques de plâtre (SFPP)/ Pregypan/ Pregypan Rigips/ Pl
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157,13847 Vitrolles Cedex : depuis sa création ;
 
 Société minière métallurgique Penarroya puis Metaleurop Estaque, L'Estaque-13016 Marseille : De 1913 à 1996 ;
+
+Société de peintures industrielles du Midi (SPIM), zone industrielle de la Grand'Colle, 41, avenue Auguste-Peyre, 13110 Port-de-Bouc. (SIRET N° 428 135 917 00048) : de 1971 à 1999 ;
 
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
 
