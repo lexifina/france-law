@@ -52,16 +52,6 @@ Sont éligibles les navires ayant accès aux quotas de captures en vigueur sur l
 
 L'autorisation mentionne les espèces pêchées par le couple navire-armateur titulaire de l'autorisation. |
 
-Paragraphes 13 et 14 de la recommandation 16-03 de l'ICCAT sur la conservation de l'espadon de l'Atlantique Nord |
-
-La pêche de l'espadon de l'Atlantique Nord en zone ICCAT est soumise à la détention d'une autorisation de pêche ORGP Espadon de l'Atlantique Nord . |
-
-31 janvier inclus de l'année de gestion en cours. |
-
-Sont concernés les navires mesurant 20 mètres ou plus de longueur hors tout, ayant accès aux quotas de captures en vigueur sur la zone pour les navires de pêche battant pavillon français. |
-
-L'autorisation mentionne l'engin de pêche employé par le couple navire-armateur titulaire de l'autorisation. |
-
 Paragraphes 8 et 9 de la recommandation 16-04 de l'ICCAT sur la conservation de l'espadon de l'Atlantique Sud |
 
 La pêche de l'espadon de l'Atlantique Sud en zone ICCAT est soumise à la détention d'une autorisation de pêche ORGP Espadon de l'Atlantique Sud . |

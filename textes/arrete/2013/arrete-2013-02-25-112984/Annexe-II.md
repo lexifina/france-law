@@ -60,7 +60,7 @@ La pêche active du germon de la Méditerranée est soumise à la détention d'u
 
 Les prises accessoires de germon de la Méditerranée sont autorisées dans la limite d'un germon par jour et par navire. |
 
-31 janvier inclus de l'année de gestion en cours. |
+14 octobre de l'année précédant l'année de gestion. |
 
 1. Sont éligibles tous les navires qui étaient autorisés à pêcher du germon de Méditerranée en 2017.
 
