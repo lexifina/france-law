@@ -610,7 +610,7 @@ Etudes et réalisations techniques et comptables de Provence Route de Gardanne, 
 
 Européenne de services techniques, 5-7, La Canebière, 13001 Marseille, de 1970 à 1976.
 
-Evers Isolation, puis Société Aris, chemin Bassaguet, 83140 Six-Fours-les-Plages, depuis sa création.
+EVERS ISOLATION, puis SOCIETE ARIS (SIRET N° 393 361 985 00202), chemin Bassaguet, 83140 SIX-FOURS-LES-PLAGES, de sa création à 1997.
 
 EVM (Entreprise varoise de montage), extension Plein Sud, bureau n° 8, 13600 La Ciotat : de 1971 à 1975.
 
@@ -922,7 +922,7 @@ Société provençale de chaudronnerie industrielle, avenue Saint-Menet, 13011 M
 
 Société provençale de mécanique, 33, chemin de Saint-Henri, 13016 Marseille : depuis 1995
 
-De 1975 à 1991 : Société Sartec/Méditerranée Industrie/SST/SAM Industrie, rue Denis-Papin, 83130 La Garde, ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne puis CIMAT Sartec, ZI du Camp Laurent, 1659, avenue Robert‑Brun, 83500 La Seyne, 1, boulevard de la Raffinerie, Marseille ; 12, boulevard Frédéric-Sauvage, Marseille, depuis 1980.
+Société SARTEC Méditerranée industrie (MEDIN)/ SARTEC Service à l'Industrie (SSI)/ Société des Ateliers de la Méditerranée (SAM)/ Sartec industrie (SAT), rue Denis-Papin, 83130 La Garde, ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer puis CIMAT (Compagnie Internationale de Maintenance et d'Assistance Technique) SARTEC (SIRET N° 397 624 545 00026), ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer, de 1980 à 2009 et CIMAT (Compagnie Internationale de Maintenance et d'Assistance Technique) SARTEC, 12 boulevard Frédéric-Sauvage, 13014 Marseille, 1 boulevard de la Raffinerie, 13014 Marseille, de 1980 à 2010.
 
 Société Sud-Est technique industrie, 757, avenue Jolliot-Curie, ZI Toulon-Est, 83130 La Garde : de 1968 à 1984.
 
