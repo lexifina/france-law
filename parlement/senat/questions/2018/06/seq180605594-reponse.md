@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605594
+
+- Question : [SEQ180605594](seq180605594.md) — Avenir de la gynécologie médicale
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-07-12, page 3499*
+
+Le nombre de postes offerts en gynécologie médicale à l'issue des épreuves classantes nationales (ECN) de médecine a plus que doublé entre 2012 et 2016. Pour l'exercice 2017, l'arrêté du 6 juillet 2017 a fixé ce nombre à 64 au titre de l'année universitaire 2017-2018. Ce volume de postes a été déterminé en lien avec l'observatoire national de la démographie des professions de santé (ONDPS), qui a émis ses propositions du nombre d'internes à former sur la base de concertations locales menées par ses comités régionaux, afin de prendre en compte les besoins locaux tout en préservant la qualité de la formation. L'ONDPS a ainsi préconisé l'ouverture de 65 postes de gynécologie médicale à l'issue des ECN 2017. Aussi, dans un contexte où le nombre de postes à ouvrir s'est révélé sensiblement moins important que ce qui avait été envisagé, compte-tenu d'un nombre d'étudiants présents aux épreuves inférieur à ce qui était pressenti, il a été néanmoins prévu de préserver certaines spécialités, dont la gynécologie médicale. Le nombre de postes a donc été fixé à 64, soit une diminution d'une seule unité par rapport aux propositions de l'ONDPS, afin de s'approcher au plus près des préconisations de l'observatoire et des demandes des acteurs locaux. La ministre de la santé a saisi l'ONDPS pour procéder à la même évaluation pour la rentrée 2018 qui est en cours de réalisation en concertation avec les acteurs locaux pour satisfaire les besoins recensés au regard des capacités de formation identifiées. En attendant, il faut organiser les soins et le ministère a demandé à chaque agence régionale de santé d'organiser dans ses programmes régionaux de santé un projet de santé adapté et sur mesure en fonction de l'offre de soins existante.
