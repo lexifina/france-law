@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404654
+
+- Question : [SEQ180404654](seq180404654.md) — Cormorans et protection du milieu aquatique
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-07-12, page 3506*
+
+Le grand cormoran est une espèce protégée en vertu de l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection. Il est toutefois possible de déroger à l'interdiction de destruction des spécimens pour prévenir des dommages importants aux piscicultures et aux cours d'eau, ou les risques présentés par la prédation du grand cormoran pour les espèces de poissons protégées. Ainsi, l'arrêté du 8 septembre 2016 fixe les quotas départementaux dans les limites desquels des dérogations aux interdictions de destruction peuvent être accordées. Ces dérogations sont accordées par les préfets des départements dans lesquels ont été constatés des dégâts sur les piscicultures ou les eaux libres. Si aucune indemnité n'est prévue sur le plan national en faveur des pisciculteurs ou des associations de protection du milieu aquatique, certaines aides financières attribuées dans le cadre du Fonds européen pour les affaires maritimes et la pêche (FEAMP) permettent d'aider notamment les pisciculteurs à mieux protéger leur cheptel de cette prédation, soit par des équipements tels que des filets de protection, soit par des actions telles que l'effarouchement des cormorans par exemple. Le recensement actuel de la population des grands cormorans nicheurs et hivernants en France en 2018, dont les résultats seront connus cet automne, donnera une nouvelle visibilité sur l'évolution de la population de cette espèce, ce qui devrait ensuite permettre d'objectiver les critères liés à cette problématique et tenter d'y trouver des solutions satisfaisantes pour chacune des parties.
