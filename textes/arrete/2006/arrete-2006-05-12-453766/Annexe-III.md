@@ -4,7 +4,7 @@ POINÇON-CERTIFICAT DE NEUTRALISATION
 
 1. Poinçon
 
-Sur les pièces des armes rendues inaptes au tir de toutes munitions, le banc d'épreuve pour les armes à feu de Saint-Etienne appose le poinçon ci-après :
+Sur les pièces des armes rendues inaptes au tir de toutes munitions, le banc national d'épreuve de Saint-Etienne appose le poinçon ci-après :
 
 Vous pouvez consulter le tableau dans le JO
 
@@ -14,7 +14,7 @@ n° 116 du 19/05/2006 texte numéro 7
 
 Le certificat de neutralisation prévu à l'article 9 du présent arrêté, certifiant la bonne exécution des opérations, comporte les mentions obligatoires suivantes :
 
-- signature du directeur du banc d'épreuve ou de son délégué ;
+- signature du directeur du banc national d'épreuve ou de son délégué ;
 
 - cachet officiel du banc d'épreuve ;
 
