@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404659
+
+- Question : [SEQ180404659](seq180404659.md) — Situation des mineurs palestiniens détenus en Israël
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-07-12, page 3468*
+
+La France est particulièrement attentive et préoccupée par le sort des prisonniers palestiniens mineurs détenus en Israël. Elle rappelle que les conditions de détention des prisonniers doivent être conformes aux obligations prévues par les conventions internationales, notamment dans le domaine du droit international des droits de l'Homme et du droit international humanitaire. Le cas des mineurs détenus appelle une attention toute particulière. Israël a ratifié les Conventions de Genève du 12 août 1949 et la Convention relative aux droits de l'enfant du 20 novembre 1989. À cet égard, la France, aux côtés de ses partenaires européens, appelle régulièrement les autorités israéliennes au respect des engagements internationaux auxquels Israël est partie. La France accorde la plus haute importance au respect des droits de l'Homme, des principes démocratiques et du droit humanitaire international. Elle a appelé Israël, lors de l'examen périodique universel au Conseil des droits de l'Homme de janvier 2018, à lutter contre l'impunité par des enquêtes approfondies et impartiales, sur toutes les allégations d'atteintes aux droits de l'Homme.
