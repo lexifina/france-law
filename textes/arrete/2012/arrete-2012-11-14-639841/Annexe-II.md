@@ -14,13 +14,13 @@ C. - Animal provenant d'un lot d'animaux d'élevage, tel que défini au III de l
 
 D. - Animal présentant un risque qui a été notifié au détenteur par l'administration ; ce bovin fait l'objet de mesures de gestion particulières définies par instruction du ministre en charge de l'agriculture ou du préfet territorial compétent.
 
-E. - E-Animal présentant un risque avéré qui a été identifié par le détenteur et nécessitant des mesures de gestion. Ces informations devront être issues du registre d'élevage.
+E. - Animal présentant un risque avéré qui a été identifié par le détenteur et nécessitant des mesures de gestion. Ces informations sont issues du registre d'élevage.
 
 2. Délai de transmission des ICA du dernier détenteur à l'abatteur
 
 Par dérogation à la règle générale de transmission des ICA vingt-quatre heures avant l'arrivée des animaux à l'abattoir telle que prévue à l'article 4 (II) du présent arrêté, les ICA spécifiques aux animaux de l'espèce bovine peuvent être transmises au responsable de l'abattoir simultanément à l'arrivée des animaux, de telle sorte qu'il puisse en disposer lors du contrôle des animaux réalisé conformément à la section II de l'annexe II du règlement (CE) n° 853/2004 susvisé.
 
-La mise à disposition des ICA vingt-quatre heures avant l'arrivée des animaux reste obligatoire dans le cas d'un envoi de plusieurs animaux faisant l'objet de mesures de gestion notifiées par l'administration et/ ou par le détenteur.
+La mise à disposition des ICA vingt-quatre heures avant l'arrivée des animaux reste obligatoire dans le cas de l'envoi d'au moins un animal faisant l'objet de mesures de gestion notifiées par l'administration et/ ou par le détenteur.
 
 3. Support de transmission des ICA
 
@@ -28,7 +28,7 @@ Le document de transmission des informations sur la chaîne alimentaire (ICA) es
 
 - soit par l'ASDA telle que définie par l'arrêté du 22 février 2005 susvisé et dont le modèle est défini par instruction du ministre chargé de l'agriculture ;
 
-- soit, pour les bovins nés avant le 1er février 2010 ou pour les animaux non accompagnés d'ASDA, par un document de transmission des ICA dont le modèle est défini par instruction du ministre chargé de l'agriculture ;
+- soit, pour les bovins nés avant le 1er février 2010 ou pour les animaux non accompagnés d'ASDA, ou pour les animaux accompagnés d'ASDA éditées avant le 1er juillet 2018 par un document de transmission des ICA dont le modèle est défini par instruction du ministre chargé de l'agriculture ;
 
 - soit, pour les bovins élevés en bande dans des ateliers dérogataires, par un document de déclaration collective dont le modèle est défini par instruction du ministre chargé de l'agriculture ;
 

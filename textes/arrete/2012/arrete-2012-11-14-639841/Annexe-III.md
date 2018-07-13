@@ -12,7 +12,7 @@ B. - Animal provenant d'un troupeau ayant eu, au cours des six derniers mois, de
 
 C. - Animal présentant un risque qui a été notifié au détenteur par l'administration ; cet animal fait l'objet de mesures de gestion particulière définies par instruction du ministre en charge de l'agriculture ou du préfet territorial compétent.
 
-D. - Animal présentant un risque avéré qui a été identifié par le détenteur et nécessitant des mesures de gestion. Ces informations devront être issues du registre d'élevage.
+D. - Animal présentant un risque avéré qui a été identifié par le détenteur et nécessitant des mesures de gestion. Ces informations sont issues du registre d'élevage.
 
 2. Délai de transmission des ICA du dernier détenteur à l'abatteur
 
@@ -30,7 +30,7 @@ Le document de transmission des ICA dans la filière ovine et caprine est consti
 
 - "Informe que ces animaux présentent un risque nécessitant la transmission d'informations sur la chaîne alimentaire" ;
 
-- d'un document de format libre, distinct du document de circulation. En cas de risque nécessitant la transmission d'ICA le document complémentaire est impérativement à compléter et à transmettre avec le document de circulation.
+- d'un document de format libre, distinct du document de circulation dont le modèle est défini par instruction du ministre chargé de l'agriculture. En cas de risque nécessitant la transmission d'ICA le document complémentaire est impérativement à compléter et à transmettre avec le document de circulation.
 
 4. Modalités de remplissage du document de transmission de l'ICA.
 
