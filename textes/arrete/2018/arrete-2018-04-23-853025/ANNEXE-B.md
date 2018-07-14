@@ -2,33 +2,19 @@
 
 MERLU
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
-
-obligatoires
+Jours et heures obligatoires
 
 pour le débarquement/
 
-transbordement
+transbordement (heure locale) |
 
-(heure locale) |
+Délai de notification préalable (si différent de 4 heures) |
 
-DÉLAI
-
-de notification
-
-préalable
-
-(si différent
-
-de 4 heures) |
-
-RESTRICTIONS
-
-supplémentaires
+Restrictions supplémentaires
 
 au débarquement |
 
@@ -55,6 +41,16 @@ DIEPPE |
 CHERBOURG |
 
 50100 |
+
+|
+
+|
+
+|
+
+ERQUY |
+
+22430 |
 
 |
 
@@ -146,9 +142,7 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 h à 5 h
-
-et de 8 h à minuit |
+Tous les jours de 0 h à 5 h et de 9 h à minuit |
 
 |
 

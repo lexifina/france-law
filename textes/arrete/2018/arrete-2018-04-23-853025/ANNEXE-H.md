@@ -1,34 +1,22 @@
 # Article ANNEXE H
 
-SOLE (ARTICLE 1ER DU RÈGLEMENT (CE) 388/2006)
+SOLE (ARTICLE 1ER DU RÈGLEMENT [CE] 388/2006)
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
-
-obligatoires
+Jours et heures obligatoires
 
 pour le débarquement/
 
-transbordement
+transbordement (heure locale) |
 
-(heure locale) |
+Délai de notification préalable de (si différent de 4 heures) |
 
-DÉLAI
+Restrictions supplémentaires
 
-de notification
-
-préalable
-
-de (si différent
-
-de 4 heures) |
-
-RESTRICTIONS
-
-supplémentaires au débarquement (*) |
+au débarquement (*) |
 
 SAINT MALO |
 
@@ -134,9 +122,7 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 h à 5 h
-
-et de 8 h à minuit |
+Tous les jours de 0 h à 5 h et de 8 h à minuit |
 
 2 heures |
 
@@ -162,7 +148,7 @@ ILE DE HOUAT |
 
 Seuls les débarquements inférieurs à 150 kilogrammes sont autorisés dans ce port |
 
-ILE D'HOUEDIC |
+ILE D'HOEDIC |
 
 56170 |
 
@@ -201,6 +187,16 @@ LE CROISIC |
 2 heures |
 
 |
+
+PORNICHET |
+
+44380 |
+
+|
+
+2 heures |
+
+Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port |
 
 PORNIC |
 
@@ -280,7 +276,7 @@ BEAUVOIR |
 
 |
 
-Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port. Les lieux de débarquement autorisés sont l'Epoids et le port du Bec |
+Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port. Les lieux de débarquement autorisés sont l'Epoids et le port du Bec. |
 
 LA ROCHELLE |
 
@@ -341,6 +337,26 @@ ROYAN |
 2 heures |
 
 |
+
+LE VERDON-SUR-MER |
+
+33123 |
+
+|
+
+2 heures |
+
+Les lieux de débarquement autorisés sont Port Médoc et Port Bloc |
+
+LEGE-CAP FERRET |
+
+33950 |
+
+|
+
+2 heures |
+
+Les lieux de débarquement autorisés sont les ports de Piraillan, de l'Herbe et de la Vigne |
 
 ARCACHON |
 

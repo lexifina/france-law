@@ -2,19 +2,19 @@
 
 ESPADON
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES OBLIGATOIRES
+Jours et heures obligatoires
 
-pour le débarquement/transbordement
+pour le débarquement/ transbordement
 
 (heure locale) |
 
-LIEU(X) OBLIGATOIRE(S)
+Lieu (x) obligatoire (s)
 
-pour le débarquement/transbordement |
+pour le débarquement/ transbordement |
 
 PORT-VENDRES |
 
@@ -81,6 +81,22 @@ Quai de la Halle à Marée
 Quai d'Alger
 
 Quai de Frontignan |
+
+PALAVAS-LES-FLOTS |
+
+34250 |
+
+Tous les jours de 9h00 à 11h00 et de 16 h00 à 20h00 |
+
+Quai des Pompes |
+
+FRONTIGNAN PLAGE |
+
+34110 |
+
+Tous les jours de 8 heures à 11 heures et de 17 heures à 21 heures |
+
+Quai des pêcheurs |
 
 GRAU-DU-ROI |
 
@@ -200,7 +216,7 @@ ANTIBES |
 
 06600 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
 
 Quai Vauban |
 
@@ -226,7 +242,7 @@ MENTON |
 
 Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
 
-Vieux Port - Quai princesse Eugénie |
+Vieux Port-Quai princesse Eugénie |
 
 THEOULE-SUR-MER |
 
@@ -304,7 +320,7 @@ AJACCIO |
 
 20000 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 Port de pêche |
 
@@ -312,7 +328,7 @@ CENTURI |
 
 20238 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 |
 
@@ -320,7 +336,7 @@ GALERIA |
 
 20245 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 |
 
@@ -328,6 +344,4 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8 heures à 18 heures |
-
-|
+Tous les jours de 8h à 18h |

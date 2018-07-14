@@ -2,35 +2,21 @@
 
 ESPÈCES D'EAU PROFONDE
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
-
-obligatoires
+Jours et heures obligatoires
 
 pour le débarquement/
 
-transbordement
+transbordement (heure locale) |
 
-(heure locale) |
+Délai de notification
 
-DÉLAI
+préalable de débarquement (si différent de 4 heures) |
 
-de notification
-
-préalable
-
-de débarquement
-
-(si différent
-
-de 4 heures) |
-
-RESTRICTIONS
-
-supplémentaires
+Restrictions supplémentaires
 
 au débarquement (*) |
 
@@ -108,7 +94,7 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
+Tous les jours de 0 heure à 5 heures et de 9 heures à minuit |
 
 |
 

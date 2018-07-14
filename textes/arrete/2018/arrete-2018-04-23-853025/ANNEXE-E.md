@@ -1,42 +1,28 @@
 # Article ANNEXE E
 
-THON ROUGE
+Thon rouge
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
+Jours et heures
 
-obligatoires
+obligatoires pour le débarquement/ transbordement (heure locale) |
 
-pour le débarquement/
+Lieu (x) obligatoire (s)
 
-transbordement (heure locale) |
+pour le débarquement/ transbordement |
 
-LIEU(X)
-
-obligatoire(s)
-
-pour le
-
-débarquement/
-
-transbordement |
-
-DÉLAI
+Délai
 
 de notification
 
-préalable de
+préalable de débarquement
 
-débarquement
+(si supérieur à 4 heures) |
 
-(si supérieur
-
-à 4 heures) |
-
-RESTRICTIONS
+Restrictions
 
 supplémentaires
 
@@ -48,9 +34,7 @@ GRANVILLE |
 
 Pour les navires non titulaires d'une AEP thon rouge : du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
-Quai de la Criée
-
-Quai Ouest |
+Quai de la Criée Quai Ouest |
 
 12 heures |
 
@@ -60,13 +44,13 @@ CHERBOURG |
 
 50100 |
 
-Lundi à vendredi de 9 h à 17 h (hors jours fériés) |
+Pour les navires non titulaires d'une AEP thon rouge : du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
 Quai de débarque du centre de marée
 
 Quai Lawton Collins |
 
-|
+12 heures |
 
 |
 
@@ -74,11 +58,11 @@ SAINT QUAY PORTRIEUX |
 
 22410 |
 
-Du lundi au vendredi (hors jours fériés) |
+Du lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
 
 |
 
-3 heures |
+|
 
 |
 
@@ -86,7 +70,7 @@ BREST |
 
 29200 |
 
-Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+Lundi au vendredi (hors jours fériés) de 8 h 30 à 22 heures |
 
 Quai de la criée |
 
@@ -138,9 +122,7 @@ LORIENT |
 
 Tous les jours de 9 heures à 17 heures |
 
-Quais du port
-
-de Keroman |
+Quais du port de Keroman |
 
 6 heures pour les ligneurs
 
@@ -190,11 +172,13 @@ LES SABLES-D'OLONNE |
 
 85180 |
 
-Du lundi au vendredi-de 9 heures à 18 heures |
+Du lundi au vendredi-de 9 heures à 18 heures
+
+Le dimanche de 9 heures à 15 heures |
 
 Quais du port des Sables-d'Olonne |
 
-|
+24 heures pour les débarquements le dimanche |
 
 |
 
@@ -230,7 +214,7 @@ Du lundi au vendredi (hors jours fériés) de 14 heures à 19 heures |
 
 Quai de la Criée |
 
-8 heures |
+|
 
 |
 
@@ -252,17 +236,7 @@ SAINT-JEAN-DE-LUZ |
 
 64500 |
 
-Pour les navires non titulaires d'un AEP thon rouge, tous les jours de 4 h à 24 h ; |
-
-Quai de la Criée |
-
-|
-
-|
-
-|
-
-|
+Pour les navires titulaires d'une AEP thon rouge, tous les jours de 4 h à 24 h ;
 
 Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au jeudi de 10 h à 17 h. |
 
@@ -336,7 +310,7 @@ GRUISSAN |
 
 11430 |
 
-Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
 
 |
 
@@ -348,7 +322,7 @@ LEUCATE |
 
 11370 |
 
-Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
 
 |
 
@@ -390,7 +364,7 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
+Tous les jours de 9h00 à 11h00 et de 16 h00 à 20h00 |
 
 Quai des Pompes |
 
@@ -440,7 +414,7 @@ PORT SAINT LOUIS DU RHONE |
 
 13230 |
 
-De 8 h à 11 h et de 15 h 30 à 18 h 30 |
+De 8h à 11h et de 15h30 à 18h30 |
 
 |
 
@@ -620,7 +594,7 @@ COGOLIN |
 
 83310 |
 
-Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+Tous les jours de 8h30 à 11h30 et de 14 heures à 16 heures |
 
 |
 
@@ -630,7 +604,7 @@ Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
 
 THEOULE-SUR-MER |
 
-06590 |
+-06590 |
 
 Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
 
@@ -656,7 +630,7 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8 h à 18 h |
+Tous les jours de 8h à 18h |
 
 |
 
