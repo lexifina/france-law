@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — RAPPORT POUR INFORMATION - RAPPORT RELATIF AUX ACTIONS ENTREPRISES SUITE AUX RECOMMANDATIONS DÉFINITIVES DE LA CHAMBRE RÉGIONALE DES COMPTES SUR LA GESTION DE LA COMMUNE A COMPTER DE L'EXERCICE 2009
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-07-16
+- Séance : Conseil Municipal 1CA
+- Objet : RAPPORT POUR INFORMATION - RAPPORT RELATIF AUX ACTIONS ENTREPRISES SUITE AUX RECOMMANDATIONS DÉFINITIVES DE LA CHAMBRE RÉGIONALE DES COMPTES SUR LA GESTION DE LA COMMUNE A COMPTER DE L'EXERCICE 2009
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-9751-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
