@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — PROGRAMME DE RESTAURATION DES MONUMENTS HISTORIQUES - BASTIDE ET JARDINS DU JAS DE BOUFFAN DITE BASTIDE CÉZANNE - CONVENTION DE MÉCÉNAT EN PARTENARIAT AVEC LA FONDATION DU PATRIMOINE ET LA FONDATION TOTAL
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-07-16
+- Séance : Conseil Municipal 1CA
+- Objet : PROGRAMME DE RESTAURATION DES MONUMENTS HISTORIQUES - BASTIDE ET JARDINS DU JAS DE BOUFFAN DITE BASTIDE CÉZANNE - CONVENTION DE MÉCÉNAT EN PARTENARIAT AVEC LA FONDATION DU PATRIMOINE ET LA FONDATION TOTAL
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-9776-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
