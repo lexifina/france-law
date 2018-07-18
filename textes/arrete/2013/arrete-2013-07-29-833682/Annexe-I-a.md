@@ -286,13 +286,23 @@ Toutes espèces de mammifères |
 
 Salmonellose aviaire |
 
-Salmonella Enteritidis, Salmonella Typhimurium,
+Salmonella Enteritidis,
 
-Salmonella Hadar, Salmonella Infantis,
+Salmonella Typhimurium,
 
-Salmonella Virchow |
+Salmonella Kentucky
 
-Oiseaux des espèces Gallus gallus et Meleagris gallopavo
+|
+
+Oiseaux des espèces Gallus gallus et Meleagris gallopavo |
+
+Salmonella Hadar,
+
+Salmonella Infantis,
+
+Salmonella Virchow
+
+|
 
 Oiseaux des espèces Gallus gallus uniquement pour les troupeaux reproducteurs et futurs reproducteurs |
 
