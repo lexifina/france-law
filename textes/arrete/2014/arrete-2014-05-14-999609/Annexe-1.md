@@ -4,239 +4,155 @@ LISTE DES RÉGLEMENTATIONS APPLICABLES
 
 Véhicule d'un PTAC inférieur ou égal à 3,5 tonnes
 
-RÉGLEMENTATION
+RÉGLEMENTATION |
 
-|
-
-A
-
-|
-
-B
-
-|
-
-Masse et dimensions
-
-|
-
-X
-
-|
-
-|
-
-Eclairage et Signalisation
-
-|
-
-X
-
-|
-
-|
-
-Pneumatiques
-
-|
-
-|
-
-X
-
-|
-
-Freinage
-
-|
-
-|
-
-X
-
-|
-
-Organes de manœuvre de direction et de visibilité :
-
-|
-
-|
-
-|
-
--champ de visibilité
-
-|
-
-|
-
-X
-
-|
-
--rétrovision
-
-|
-
-|
+A |
 
-X
+B |
 
-|
+Masse et dimensions |
 
--vitrages
+X |
 
 |
 
-(X)
+Eclairage et Signalisation |
 
-|
+X |
 
 |
 
--organes de direction
+Pneumatiques |
 
 |
 
-|
+X |
 
-X
+Freinage |
 
 |
 
-Dispositifs et aménagements particuliers :
+X |
 
-|
+Organes de manœuvre de direction et de visibilité : |
 
 |
 
 |
 
--ceintures de sécurité
+- champ de visibilité |
 
 |
 
-|
+X |
 
-X
+- rétrovision |
 
 |
 
--indicateur de vitesse, chronotachygraphe et compteur de vitesse
+X |
 
-|
-
-|
+- vitrages |
 
-X
+(X) |
 
 |
 
--antivol
+- organes de direction |
 
 |
 
-|
+X |
 
-X
+Dispositifs et aménagements particuliers : |
 
 |
-
--plaques et inscriptions
 
 |
 
-X
+- ceintures de sécurité |
 
 |
 
-|
+X |
 
--emplacement des plaques d'immatriculation
+- indicateur de vitesse, chronotachygraphe et compteur de vitesse |
 
 |
 
-X
+X |
 
-|
+- antivol |
 
 |
 
--anti-encastrement AR
+X |
 
-|
+- plaques et inscriptions |
 
-X
+X |
 
 |
 
-|
+- emplacement des plaques d'immatriculation |
 
--anti-projections
+X |
 
 |
 
-X
+- anti-encastrement AR |
 
-|
+X |
 
 |
-
--réservoir à carburant … (montage entités homologuées)
 
-|
+- anti-projections |
 
-(X)
+X |
 
 |
 
-|
+- réservoir à carburant … (montage entités homologuées) |
 
-Energie, compatibilité électromagnétique, émissions polluantes et sonores :
+(X) |
 
 |
 
-|
+Energie, compatibilité électromagnétique, émissions polluantes et sonores : |
 
 |
 
--compatibilité électromagnétique (montage entités homologuées)
-
 |
 
-(X)
+- compatibilité électromagnétique (montage entités homologuées) |
 
-|
+(X) |
 
 |
 
--émissions polluantes
+- émissions polluantes |
 
 |
 
-|
+X |
 
-X
+- émissions de CO2
 
 |
 
--niveau sonore
-
-|
+(X) |
 
 |
 
-X
+- niveau sonore |
 
 |
 
--moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR)
+X |
 
-|
+- moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR) |
 
-(X)
-
-|
+(X) |
 
 |
 
@@ -247,3 +163,7 @@ X : systématique.
 (X) : le cas échéant.
 
 B : réglementations ne devant pas être remises en cause par le carrossage sous la responsabilité du carrossier.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 27 juin 2018, ces dispositions entrent en vigueur le 1er janvier 2019 à l'exception des véhicules initialement réceptionnés en application des dispositions du règlement (UE) 2017/1151 susvisé qui peuvent entrer en vigueur le 1er septembre 2018.
