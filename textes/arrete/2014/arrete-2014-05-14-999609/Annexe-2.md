@@ -54,7 +54,9 @@ IDENTIFICATION DU VÉHICULE (2)
 
 (S1) Nombre de places assises (y compris celle du conducteur) :
 
-voir certificat de conformité du véhicule de base pour les rubriques suivantes : (D3), (F1), (J), (K), (P1), (P2), (P3), (U1), (U2), (V7) et (V9)
+(V7) CO2 (en g/ km) :
+
+voir certificat de conformité du véhicule de base pour les rubriques suivantes : (D3), (F1), (J), (K), (P1), (P2), (P3), (U1), (U2) et (V9)
 
 DIMENSIONS
 
@@ -99,3 +101,7 @@ Signature et cachet du carrossier qualifié ....................................
 (2) Références communautaires de la directive 1999/37/CE modifiée relative aux documents d'immatriculation. Pour les rubriques inchangées, reprendre les données du certificat de conformité du véhicule incomplet.
 
 (3) J3 doit répondre à la nomenclature des carrosseries prévues à l'annexe V de l'arrêté du 9 février 2009 modifié relatif à l'immatriculation des véhicules.
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 27 juin 2018, ces dispositions entrent en vigueur le 1er janvier 2019 à l'exception des véhicules initialement réceptionnés en application des dispositions du règlement (UE) 2017/1151 susvisé qui peuvent entrer en vigueur le 1er septembre 2018.
