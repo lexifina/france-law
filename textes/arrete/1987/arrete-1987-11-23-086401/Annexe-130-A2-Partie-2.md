@@ -1,10 +1,10 @@
 # Article Annexe 130-A.2 Partie 2
 
-Partie 2. - Engins étudiés en CCS suivant le chapitre X de la division 221 ou 223A (recueil HSC)
+Partie 2.-Engins étudiés en CCS suivant le chapitre X de la division 221 ou 223A (recueil HSC)
 
-A. - Renseignements généraux :
+A.-Renseignements généraux :
 
-1. Nom de l'engin ou numéro de coque pour un engin neuf et pavillon d'origine et/ou précédent pour un engin d'occasion.
+1. Nom de l'engin ou numéro de coque pour un engin neuf et pavillon d'origine et/ ou précédent pour un engin d'occasion.
 
 2. Type de l'engin, catégorie (A ou B).
 
@@ -44,17 +44,17 @@ A. - Renseignements généraux :
 
 20. Jauge :
 
-- brute ;
+-brute ;
 
-- nette.
+-nette.
 
 21. Port en lourd (été).
 
 22. Franc-bord et tirants d'eau correspondants :
 
-- été ;
+-été ;
 
-- hiver.
+-hiver.
 
 23. Mode de propulsion.
 
@@ -70,9 +70,9 @@ A. - Renseignements généraux :
 
 29. Nombre maximal de personnes prévues à bord :
 
-- équipage ;
+-équipage ;
 
-- passagers.
+-passagers.
 
 30. Trajets prévus.
 
@@ -90,23 +90,23 @@ A. - Renseignements généraux :
 
 Fournir en outre :
 
-- une copie des titres de sécurité définitifs en cours de validité pour un engin d'occasion ;
+-une copie des titres de sécurité définitifs en cours de validité pour un engin d'occasion ;
 
-- une copie de la déclaration de mise en chantier ;
+-une copie de la déclaration de projet de mise en chantier ;
 
-- le plan général de l'engin, en une ou plusieurs feuilles au format A4 ;
+-le plan général de l'engin, en une ou plusieurs feuilles au format A4 ;
 
-- la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
+-la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-- la procédure de comptage des passagers, soumise à approbation ;
+-la procédure de comptage des passagers, soumise à approbation ;
 
-- en fin d'étude du dossier : les plans de l'engin "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
+-en fin d'étude du dossier : les plans de l'engin " tel que construit " (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
-B. - Conformité au recueil HSC :
+B.-Conformité au recueil HSC :
 
-Points étudiés : conformité à la résolution OMI MSC.97(73) engins à grande vitesse.
+Points étudiés : conformité à la résolution OMI MSC. 97 (73) engins à grande vitesse.
 
-I. - Généralités :
+I.-Généralités :
 
 Champs d'application ;
 
@@ -116,7 +116,7 @@ Type d'engin à passagers : A ou B ;
 
 Justification de la vitesse.
 
-II. - Flottabilité, stabilité, compartimentage :
+II.-Flottabilité, stabilité, compartimentage :
 
 Dossier de stabilité :
 
@@ -138,13 +138,13 @@ Dispositions applicables aux engins rouliers ;
 
 Système de surveillance par télévision.
 
-III. - Structures :
+III.-Structures :
 
 Fournir le certificat de la société de classification à la commission de visite de mise en service.
 
 Conditions limites d'exploitation.
 
-IV. - Locaux habités et mesures d'évacuation :
+IV.-Locaux habités et mesures d'évacuation :
 
 4.1. Généralités :
 
@@ -198,7 +198,7 @@ Mesure.
 
 4.11. Protection de l'équipage et des passagers.
 
-V. - Système de conduite :
+V.-Système de conduite :
 
 Description ;
 
@@ -206,11 +206,11 @@ Analyse de défaillance ;
 
 Poste de commande.
 
-VI. - Mouillage, remorquage, accostage :
+VI.-Mouillage, remorquage, accostage :
 
 Description.
 
-VII. - Protection contre l'incendie :
+VII.-Protection contre l'incendie :
 
 1. Classement des locaux.
 
@@ -244,7 +244,7 @@ Schéma unifilaire ;
 
 Volets coupe-feu (certificats d'approbation et moyens de fermeture) ;
 
-Dispositifs de commande/volets, ventilateurs.
+Dispositifs de commande/ volets, ventilateurs.
 
 5. Détection incendie :
 
@@ -272,7 +272,7 @@ Nombre de pompes ;
 
 Commande ;
 
-Lances/manches (certificats d'approbation) ;
+Lances/ manches (certificats d'approbation) ;
 
 b) Extinction par CO2 :
 
@@ -286,7 +286,7 @@ c) Locaux de catégorie spéciale :
 
 1. Construction :
 
-Cloisonnement (voir 2.a) ;
+Cloisonnement (voir 2. a) ;
 
 Indicateur fermeture de porte ;
 
@@ -344,23 +344,23 @@ Approbation.
 
 Les paragraphes ci-dessus devront être complétés en tant que besoin :
 
-- soit des prescriptions de la partie B du chapitre 7 du recueil (Prescriptions applicables aux engins à passagers) ;
+-soit des prescriptions de la partie B du chapitre 7 du recueil (Prescriptions applicables aux engins à passagers) ;
 
-- soit des prescriptions de la partie C du chapitre 7 du recueil (Prescriptions applicables aux engins à cargaisons) ;
+-soit des prescriptions de la partie C du chapitre 7 du recueil (Prescriptions applicables aux engins à cargaisons) ;
 
-- soit les prescriptions applicables aux engins et aux espaces destinés au transport de marchandises dangereuses (article 7.17).
+-soit les prescriptions applicables aux engins et aux espaces destinés au transport de marchandises dangereuses (article 7.17).
 
-VIII. - Engins et dispositifs de sauvetage.
+VIII.-Engins et dispositifs de sauvetage.
 
-A. - Communications :
+A.-Communications :
 
 Liste du matériel :
 
-- de communication ;
+-de communication ;
 
-- de signalisation.
+-de signalisation.
 
-B. - Engins individuels :
+B.-Engins individuels :
 
 Bouées ;
 
@@ -368,7 +368,7 @@ Brassières ;
 
 Nombre, localisation, certificats d'approbation.
 
-C. - Rôle d'appel :
+C.-Rôle d'appel :
 
 Consignes en cas de situation critique ;
 
@@ -380,25 +380,25 @@ Manuel de formation ;
 
 Postes de rassemblement.
 
-D. - Consignes d'exploitation :
+D.-Consignes d'exploitation :
 
 Affiches, panneaux (sur et à proximité) :
 
-- des embarcations, radeaux ;
+-des embarcations, radeaux ;
 
-- commandes.
+-commandes.
 
-E. - Arrimage des embarcations et radeaux :
+E.-Arrimage des embarcations et radeaux :
 
 Descriptif.
 
-F. - Dispositifs d'embarquement :
+F.-Dispositifs d'embarquement :
 
 Descriptif ;
 
 Eclairage.
 
-G. - Embarcations, radeaux de sauvetage, canots de secours :
+G.-Embarcations, radeaux de sauvetage, canots de secours :
 
 Nombre, capacité ;
 
@@ -406,9 +406,9 @@ Nombre maximum de personnes à bord ;
 
 Certificats d'approbation.
 
-H. - Aire d'évacuation par hélicoptère.
+H.-Aire d'évacuation par hélicoptère.
 
-IX. - Machines :
+IX.-Machines :
 
 Description ;
 
@@ -416,17 +416,17 @@ Dispositifs de sécurité ;
 
 Turbines à gaz ;
 
-Alimentation/trop-plein combustible ;
+Alimentation/ trop-plein combustible ;
 
 Prescriptions applicables aux engins à passagers ;
 
 Prescriptions applicables aux engins à cargaisons.
 
-X. - Dispositifs auxiliaires.
+X.-Dispositifs auxiliaires.
 
-A. - Description des installations de combustibles liquides, d'huile de graissage et autres huiles.
+A.-Description des installations de combustibles liquides, d'huile de graissage et autres huiles.
 
-B. - Circuit d'assèchement :
+B.-Circuit d'assèchement :
 
 Description ;
 
@@ -438,35 +438,35 @@ Prescriptions applicables aux engins à passagers ;
 
 Prescriptions applicables aux engins à cargaisons.
 
-C. - Autres circuits machines :
+C.-Autres circuits machines :
 
 Description et conformité.
 
-XI. - Dispositifs de commande à distance d'alarme et de sécurité :
+XI.-Dispositifs de commande à distance d'alarme et de sécurité :
 
 Les prescriptions relatives à la protection contre l'incendie, aux installations machines, aux installations électriques sont examinées aux chapitres correspondants.
 
-XII. - Equipement électrique.
+XII.-Equipement électrique.
 
 Description de l'installation :
 
-- puissance, localisation, tableaux électriques ;
+-puissance, localisation, tableaux électriques ;
 
-- source principale ;
+-source principale ;
 
-- source de secours ;
+-source de secours ;
 
-- fonctionnement ;
+-fonctionnement ;
 
-- système de démarrage des groupes de secours ;
+-système de démarrage des groupes de secours ;
 
-- bilans électriques principaux et de secours.
+-bilans électriques principaux et de secours.
 
 Prescriptions applicables aux engins à passagers catégorie A et catégorie B.
 
 Prescriptions applicables aux engins à cargaisons.
 
-XIII. - Appareils de navigation :
+XIII.-Appareils de navigation :
 
 Liste ;
 
@@ -474,7 +474,7 @@ Implantation ;
 
 Certificats d'approbation.
 
-XIV. - Radiocommunications :
+XIV.-Radiocommunications :
 
 Zone de navigation ;
 
@@ -494,7 +494,7 @@ Méthodes d'entretien prévues ;
 
 Copie du contrat d'entretien.
 
-XV. - Agencement du compartiment de l'équipe de conduite (passerelle) :
+XV.-Agencement du compartiment de l'équipe de conduite (passerelle) :
 
 Champ visuel ;
 
@@ -504,7 +504,7 @@ Fenêtres ;
 
 Moyens de communication.
 
-XVI. - Systèmes de stabilisation :
+XVI.-Systèmes de stabilisation :
 
 Description ;
 
@@ -512,11 +512,11 @@ Fonctionnement ;
 
 Systèmes de commandes.
 
-XVII. - Conduite, maniabilité et fonctionnement :
+XVII.-Conduite, maniabilité et fonctionnement :
 
 Renseignements à fournir dans le manuel d'exploitation.
 
-XVIII. - Prescriptions relatives à l'exploitation :
+XVIII.-Prescriptions relatives à l'exploitation :
 
 Permis d'exploiter ;
 
@@ -532,7 +532,7 @@ Prescriptions applicables aux engins à passagers ;
 
 Consignes en cas de situation critique.
 
-XIX. - Analyse des types de défaillance et de leurs effets :
+XIX.-Analyse des types de défaillance et de leurs effets :
 
 Rapport d'analyse (FMEA) ;
 
@@ -542,11 +542,11 @@ Rapport d'essais.
 
 C. Conformité aux autres chapitres de règlement.
 
-I. - Apparaux de levage :
+I.-Apparaux de levage :
 
 Registre établi et visé par la société de classification, présenté à la commission de visite de mise en service ou au centre de sécurité des navires.
 
-II. - Hygiène, habitabilité :
+II.-Hygiène, habitabilité :
 
 Plans des emménagements ;
 
@@ -562,13 +562,13 @@ Infirmerie ;
 
 Eau potable (circuit, stockage...).
 
-III. - Conformité à la division 223A :
+III.-Conformité à la division 223A :
 
 Prescriptions de sécurité pour les personnes à mobilité réduite ;
 
 Emport d'AIS et installation VDR.
 
-IV. - Prévention de la pollution.
+IV.-Prévention de la pollution.
 
 Annexe I
 
@@ -576,11 +576,11 @@ Prévention de la pollution par les hydrocarbures
 
 Tranche machine :
 
-- description et schémas ;
+-description et schémas ;
 
-- séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
+-séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
 
-- certificat d'approbation suivant la directive européenne équipements marins.
+-certificat d'approbation suivant la directive européenne équipements marins.
 
 SOPEP. Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires.
 
@@ -602,12 +602,12 @@ Certificat d'approbation et manuel d'exploitation de l'incinérateur ;
 
 Certificats EIAPP.
 
-D. - Equipements marins :
+D.-Equipements marins :
 
 La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-Les certificats d'approbation "équipements marins" requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
+Les certificats d'approbation " équipements marins " requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-E. - Bilan d'étude en CCS :
+E.-Bilan d'étude en CCS :
 
 Préalablement à la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.

@@ -732,7 +732,7 @@ unité |
 
 |
 
-8. Trousses de premier secours |
+8. Trousses de premier secours (1) |
 
 Compresses de gaze stériles |
 
@@ -821,3 +821,7 @@ Sac médical d'urgence |
 1 |
 
 Voir annexe 217-3. A. 4 |
+
+NOTA :
+
+(1) Trousse étanche, à positionner dans des lieux appropriés - 1 trousse par tranche de 100 passagers, avec un maximum de 3.

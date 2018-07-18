@@ -4,13 +4,13 @@ PLANS ET DOCUMENTS À FOURNIR POUR LES NAVIRES DONT L'ÉTUDE EST DE LA COMPÉTEN
 
 DE LA COMMISSION CENTRALE DE SÉCURITÉ
 
-Partie 1. - Navires étudiés suivant la division 221 et la division 223A
+Partie 1.-Navires étudiés suivant la division 221 et la division 223A
 
-I. - Renseignements généraux.
+I.-Renseignements généraux.
 
 Renseignements à fournir, en vue de déterminer en particulier la réglementation applicable :
 
-1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ou précédent pour un navire d'occasion.
+1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ ou précédent pour un navire d'occasion.
 
 2. Type du navire.
 
@@ -50,17 +50,17 @@ Renseignements à fournir, en vue de déterminer en particulier la réglementati
 
 20. Jauge :
 
-- brute ;
+-brute ;
 
-- nette.
+-nette.
 
 21. Port en lourd (été).
 
 22. Franc-bord et tirants d'eau correspondants :
 
-- été ;
+-été ;
 
-- hiver.
+-hiver.
 
 23. Mode de propulsion.
 
@@ -74,9 +74,9 @@ Renseignements à fournir, en vue de déterminer en particulier la réglementati
 
 28. Nombre maximal de personnes prévues à bord :
 
-- équipage ;
+-équipage ;
 
-- passagers.
+-passagers.
 
 29. Catégorie de navigation.
 
@@ -96,17 +96,17 @@ Renseignements à fournir, en vue de déterminer en particulier la réglementati
 
 Fournir en outre :
 
-- une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
+-une copie des titres de sécurité définitifs en cours de validité pour un navire d'occasion ;
 
-- une copie de la déclaration de mise en chantier ;
+-une copie de la déclaration de projet de mise en chantier ;
 
-- un plan général du navire, en une ou plusieurs feuilles au format A4 ;
+-un plan général du navire, en une ou plusieurs feuilles au format A4 ;
 
-- la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
+-la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-- la procédure de comptage des passagers, soumise à approbation ;
+-la procédure de comptage des passagers, soumise à approbation ;
 
-- en fin d'étude du dossier : les plans du navire "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
+-en fin d'étude du dossier : les plans du navire " tel que construit " (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
 Type de navire :
 
@@ -116,39 +116,39 @@ Navire roulier à passagers ;
 
 Navire de charge :
 
-- roulier ;
+-roulier ;
 
-- porte-conteneur ;
+-porte-conteneur ;
 
-- vraquier ;
+-vraquier ;
 
-- dragues ;
+-dragues ;
 
-- navire-citernes :
+-navire-citernes :
 
-- transport de pétrole brut ;
+-transport de pétrole brut ;
 
-- transport de produits pétroliers ;
+-transport de produits pétroliers ;
 
-- citernes à cargaison de point éclair > 60 °C ;
+-citernes à cargaison de point éclair > 60° C ;
 
-- citernes de produits pétroliers de point éclair > 60 °C ;
+-citernes de produits pétroliers de point éclair > 60° C ;
 
-- transport de produits chimiques ;
+-transport de produits chimiques ;
 
-- transport de gaz ;
+-transport de gaz ;
 
-- navire spécial (les points étudiés seront ceux mentionnés ci-après pour les navires de charge ou à passagers selon les prescriptions applicables à ce type de navire) ;
+-navire spécial (les points étudiés seront ceux mentionnés ci-après pour les navires de charge ou à passagers selon les prescriptions applicables à ce type de navire) ;
 
-- navire ravitailleur ;
+-navire ravitailleur ;
 
-- autres navires.
+-autres navires.
 
-II. - 1. Construction, structure, franc-bord, compartimentage, stabilité, machines, installations électriques.
+II.-1. Construction, structure, franc-bord, compartimentage, stabilité, machines, installations électriques.
 
 Fournir un plan général du navire.
 
-A. - Structure du navire.
+A.-Structure du navire.
 
 1. Prescriptions d'ordre structurel, mécanique, électrique :
 
@@ -172,13 +172,13 @@ Descriptif simple du dispositif de remorquage d'urgence pour les navires citerne
 
 Procédure de remorquage d'urgence pour les navires :
 
-- navires à passagers, au plus tard le 1er janvier 2010 ;
+-navires à passagers, au plus tard le 1er janvier 2010 ;
 
-- navires de charge construits le 1er janvier 2010 ou après cette date ; et
+-navires de charge construits le 1er janvier 2010 ou après cette date ; et
 
-- navires de charge construits avant le 1er janvier 2010, au plus tard le 1er janvier 2012.
+-navires de charge construits avant le 1er janvier 2010, au plus tard le 1er janvier 2012.
 
-B. - Franc-bord, compartimentage, stabilité.
+B.-Franc-bord, compartimentage, stabilité.
 
 1. Franc-bord :
 
@@ -188,17 +188,17 @@ Toutefois, en cas de demande d'exemption à la convention internationale sur les
 
 2. Compartimentage :
 
-Position de la cloison d'abordage : calcul justificatif/plan ;
+Position de la cloison d'abordage : calcul justificatif/ plan ;
 
 Plan et calcul du double-fond, y compris la protection des citernes à cargaison et des soutes combustibles lorsque requis par l'annexe I de la convention MARPOL ;
 
-Rampe navires rouliers : calcul justificatif/plan ;
+Rampe navires rouliers : calcul justificatif/ plan ;
 
 Manuel ou procédure d'accès aux espaces de la tranche cargaison des pétroliers et des vraquiers ;
 
-Portes étanches : descriptif/fonctionnement/consignes d'utilisation ;
+Portes étanches : descriptif/ fonctionnement/ consignes d'utilisation ;
 
-Etanchéité de la coque et des superstructures des navires rouliers à passagers : description/localisation des moyens utilisés ;
+Etanchéité de la coque et des superstructures des navires rouliers à passagers : description/ localisation des moyens utilisés ;
 
 Système de surveillance par télévision (navires rouliers à passagers).
 
@@ -208,27 +208,27 @@ Ces dossiers sont accompagnés du rapport d'examen de la société de classifica
 
 a) Stabilité à l'état intact :
 
-- recueil des cas de chargement ;
+-recueil des cas de chargement ;
 
-- plan des capacités ;
+-plan des capacités ;
 
-- instructions au capitaine ;
+-instructions au capitaine ;
 
-- critères de stabilité (dont critère météorologique de roulis et de vent fort) ;
+-critères de stabilité (dont critère météorologique de roulis et de vent fort) ;
 
-- cas d'utilisation d'engins de levage avec bras de levier transversal ;
+-cas d'utilisation d'engins de levage avec bras de levier transversal ;
 
-- conformité à l'annexe I de la convention MARPOL.
+-conformité à l'annexe I de la convention MARPOL.
 
 b) Stabilité après avarie :
 
-- dossier de calcul ;
+-dossier de calcul ;
 
 c) Instructions au capitaine :
 
-- instructions au capitaine ;
+-instructions au capitaine ;
 
-- plan de maîtrise des avaries.
+-plan de maîtrise des avaries.
 
 4. Assèchement :
 
@@ -244,7 +244,7 @@ Position des commandes des vannes de coque.
 
 Il est fourni un plan unique, regroupant toutes les informations sur les différents dispositifs d'assèchement. Sur ce plan devront être indiquées la ou les pompes alimentées par le tableau de secours ou par une énergie autre que celle venant du tableau électrique principal.
 
-C. - Installations de machines.
+C.-Installations de machines.
 
 1. Machines principales et auxiliaires :
 
@@ -280,7 +280,7 @@ Demande formelle d'autorisation de mise à bord ;
 
 Circuit de l'installation ;
 
-Fonctionnement/alarmes/sécurités ;
+Fonctionnement/ alarmes/ sécurités ;
 
 Protection contre les fuites ;
 
@@ -294,7 +294,7 @@ Descriptif de l'installation, emplacement, caractéristiques (localisation, puis
 
 Description de l'installation ;
 
-Plan de fonctionnement/isolation des circuits ;
+Plan de fonctionnement/ isolation des circuits ;
 
 Possibilité de remplissage rapide des circuits ;
 
@@ -302,7 +302,7 @@ Liaisons avec la passerelle ;
 
 Fonctionnement en secours.
 
-D. - Installations électriques.
+D.-Installations électriques.
 
 1. Puissance installée :
 
@@ -340,15 +340,15 @@ Capacité de la caisse à combustible du groupe de secours, calculs justificatif
 
 Eclairage de secours supplémentaire pour les navires rouliers à passagers.
 
-E. - Dispositifs de nature à simplifier la conduite et l'exploitation.
+E.-Dispositifs de nature à simplifier la conduite et l'exploitation.
 
 a) Passerelle :
 
 Veille de jour par un homme seul en sus de l'officier de quart :
 
-- disposition passerelle ;
+-disposition passerelle ;
 
-- commande et fonctionnement de l'appareil à gouverner.
+-commande et fonctionnement de l'appareil à gouverner.
 
 Veille passerelle par un officier seul de jour :
 
@@ -358,33 +358,33 @@ b) Machine :
 
 Navires avec quart réduit à la machine :
 
-- condition de fonctionnement automatique du système d'extinction à usage local ;
+-condition de fonctionnement automatique du système d'extinction à usage local ;
 
-- marque d'automatisation délivrée par société de classification habilitée ;
+-marque d'automatisation délivrée par société de classification habilitée ;
 
-- questionnaire de l'annexe 221-II-1/A.1, partie B, à présenter, visé par une société de classification habilitée ;
+-questionnaire de l'annexe 221-II-1/ A. 1, partie B, à présenter, visé par une société de classification habilitée ;
 
-- justificatifs de conformité aux articles :
+-justificatifs de conformité aux articles :
 
-- 221-II-1/31.3 (indisponibilité de l'officier, renvoi à la passerelle) ;
+-221-II-1/31.3 (indisponibilité de l'officier, renvoi à la passerelle) ;
 
-- 221-II-1/48.3 (alarme d'envahissement distincte des autres alarmes, et individualisée pour chaque local) ;
+-221-II-1/48.3 (alarme d'envahissement distincte des autres alarmes, et individualisée pour chaque local) ;
 
-- 221-II-1/49.1.1 (programmation des allures) ;
+-221-II-1/49.1.1 (programmation des allures) ;
 
-- 221-II-1/51.1.1 (alarmes machines) ;
+-221-II-1/51.1.1 (alarmes machines) ;
 
-- 221-II-1/53.4.1 (obligation de verrouillage) ;
+-221-II-1/53.4.1 (obligation de verrouillage) ;
 
-- 221-II-1/53.5 (localisation des centrales hydrauliques) ;
+-221-II-1/53.5 (localisation des centrales hydrauliques) ;
 
-- 221-II-2/5.2.3.2 (arrêt des ventilateurs et des centrales hydrauliques) ;
+-221-II-2/5.2.3.2 (arrêt des ventilateurs et des centrales hydrauliques) ;
 
-- 221-II-2/7.4.1 et 221-II-2/7.4.2 (essai de détection, répétition d'alarme).
+-221-II-2/7.4.1 et 221-II-2/7.4.2 (essai de détection, répétition d'alarme).
 
-II. - 2. Protection contre l'incendie.
+II.-2. Protection contre l'incendie.
 
-A. - Prévention.
+A.-Prévention.
 
 1. Cloisonnement :
 
@@ -404,7 +404,7 @@ Cloisonnements constituant les limites des espaces à cargaison ;
 
 Fournir le dossier de matériaux :
 
-Utilisation restreinte des matériaux combustibles (fournir justificatifs et/ou calculs) ;
+Utilisation restreinte des matériaux combustibles (fournir justificatifs et/ ou calculs) ;
 
 Potentiel de dégagement de fumée et toxicité ;
 
@@ -428,21 +428,21 @@ Conduits d'évacuation des cuisines.
 
 Combustibles utilisés :
 
-- stockage ;
+-stockage ;
 
-- emplacement des circuits ;
+-emplacement des circuits ;
 
-- moyens de sondage ;
+-moyens de sondage ;
 
-- pression maximale de service ;
+-pression maximale de service ;
 
-- isolation circuits combustibles moteurs ;
+-isolation circuits combustibles moteurs ;
 
-- commande à distance des soupapes (fermeture rapide) ;
+-commande à distance des soupapes (fermeture rapide) ;
 
-- moyens de commande à distance ;
+-moyens de commande à distance ;
 
-- combustibles gazeux utilisés à des fins domestiques ;
+-combustibles gazeux utilisés à des fins domestiques ;
 
 Locaux peinture ;
 
@@ -472,7 +472,7 @@ Protection de la structure des citernes : pression, niveau ;
 
 Exploitation, prescriptions supplémentaires.
 
-B. - Détection.
+B.-Détection.
 
 1. Détection incendie :
 
@@ -490,7 +490,7 @@ Dispositif de mesure des gaz ;
 
 Raccords pour approvisionnement en air des doubles-coques et des doubles-fonds.
 
-C. - Extinction.
+C.-Extinction.
 
 1. Collecteur incendie :
 
@@ -560,7 +560,7 @@ Schéma de l'installation ;
 
 Zones ou locaux protégés ;
 
-Type de mousse (haut/bas foisonnement) ;
+Type de mousse (haut/ bas foisonnement) ;
 
 Calculs justificatifs ;
 
@@ -588,7 +588,7 @@ Emplacement.
 
 7. Manuel d'exploitation pour la sécurité incendie.
 
-D. - Evacuation :
+D.-Evacuation :
 
 Plan général des chemins d'évacuation ;
 
@@ -596,7 +596,7 @@ Calculs justificatifs largeur d'escaliers, des coursives ;
 
 Fléchage, éclairage faible hauteur.
 
-E. - Transports de marchandises dangereuses :
+E.-Transports de marchandises dangereuses :
 
 Liste des catégories de marchandises dangereuses prévues ;
 
@@ -616,7 +616,7 @@ Schémas et certificats du dispositif de détection ;
 
 Certificats EEX des équipements.
 
-F. - Moyens mobiles :
+F.-Moyens mobiles :
 
 Nombre et localisation des extincteurs ;
 
@@ -626,15 +626,15 @@ Plan concernant la lutte contre l'incendie ;
 
 Emplacement des armoires incendie.
 
-G. - Moyens spécifiques :
+G.-Moyens spécifiques :
 
 Description des moyens de protection incendie du matériel de friture.
 
-H. - Installation pour hélicoptère :
+H.-Installation pour hélicoptère :
 
 Conformité à la règle.
 
-III. - Engins et dispositifs de sauvetage.
+III.-Engins et dispositifs de sauvetage.
 
 Plan général ;
 
@@ -676,11 +676,11 @@ Manuel de formation et aides à la formation à bord.
 
 Schémas et descriptif du :
 
-- système de communications à bord et systèmes d'alarmes (communications bilatérales, alarme générale et communication avec le public) ;
+-système de communications à bord et systèmes d'alarmes (communications bilatérales, alarme générale et communication avec le public) ;
 
-- dispositif de communication avec le public à bord des navires à passagers.
+-dispositif de communication avec le public à bord des navires à passagers.
 
-IV. - Radiocommunications :
+IV.-Radiocommunications :
 
 Zone de navigation ;
 
@@ -698,7 +698,7 @@ Bilan électrique et calcul justificatif de la capacité des batteries ;
 
 Méthode d'entretien prévue, copie du contrat d'entretien (si entretien à terre).
 
-V. - Sécurité de la navigation.
+V.-Sécurité de la navigation.
 
 1. Prévention des abordages :
 
@@ -730,47 +730,47 @@ Liste des données enregistrées ;
 
 Références.
 
-VI. - Transport de cargaison.
+VI.-Transport de cargaison.
 
-A. - Dispositions générales :
+A.-Dispositions générales :
 
 Manuel d'assujettissement.
 
-B. - Cargaisons en vrac autres que le grain :
+B.-Cargaisons en vrac autres que le grain :
 
-Manuel de chargement/déchargement ;
+Manuel de chargement/ déchargement ;
 
 Manuel d'exploitation et d'entretien des détecteurs de niveau d'eau ;
 
 Appareil de détection de gaz.
 
-C. - Transport de grains :
+C.-Transport de grains :
 
 Dossier grains.
 
-VII. - Transport de marchandises dangereuses.
+VII.-Transport de marchandises dangereuses.
 
-A. - Transport de marchandises dangereuses en colis ou sous forme solide en vrac :
+A.-Transport de marchandises dangereuses en colis ou sous forme solide en vrac :
 
 Manuel d'assujettissement.
 
-B. - Construction et équipement des navires transportant des produits chimiques liquides dangereux en vrac :
+B.-Construction et équipement des navires transportant des produits chimiques liquides dangereux en vrac :
 
 Liste des produits ;
 
 Description de la conformité du navire au recueil IBC.
 
-C. - Construction et équipement des navires transportant des gaz liquéfiés en vrac :
+C.-Construction et équipement des navires transportant des gaz liquéfiés en vrac :
 
 Liste des produits ;
 
 Description de la conformité du navire au recueil IGC.
 
-D. - Transport de combustible nucléaire irradié, de plutonium et de déchets hautement radioactifs en colis :
+D.-Transport de combustible nucléaire irradié, de plutonium et de déchets hautement radioactifs en colis :
 
 Description de la conformité du navire au recueil INF.
 
-IX. - Hygiène, habitabilité :
+IX.-Hygiène, habitabilité :
 
 Plans des emménagements ;
 
@@ -786,7 +786,7 @@ Infirmerie ;
 
 Eau potable (circuit, stockage...).
 
-X. - Prévention de la pollution.
+X.-Prévention de la pollution.
 
 Annexe I
 
@@ -794,27 +794,27 @@ Prévention de la pollution par les hydrocarbures
 
 Tranche machine :
 
-- description et schémas ;
+-description et schémas ;
 
-- séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
+-séparateur d'eaux mazouteuses, alarme, dispositif d'arrêt automatique, fonctionnement ;
 
 Tranche cargaison :
 
-- lavage au pétrole brut, manuel ;
+-lavage au pétrole brut, manuel ;
 
-- rejets, alarmes... ;
+-rejets, alarmes... ;
 
-- manuel d'exploitation ODME, certificat d'approbation ;
+-manuel d'exploitation ODME, certificat d'approbation ;
 
-- plan de gestion des COV ;
+-plan de gestion des COV ;
 
-- registre des substances qui appauvrissent la couche d'ozone ;
+-registre des substances qui appauvrissent la couche d'ozone ;
 
-- plan d'opérations STS ;
+-plan d'opérations STS ;
 
-- SOPEP. Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires ; ou
+-SOPEP. Le manuel SOPEP est approuvé et visé par le centre de sécurité des navires ; ou
 
-- SMPEP. Le manuel SMPEP est approuvé et visé par le centre de sécurité des navires.
+-SMPEP. Le manuel SMPEP est approuvé et visé par le centre de sécurité des navires.
 
 Annexe II
 
@@ -846,7 +846,7 @@ Prévention de la pollution de l'air par les navires
 
 ― indice nominal de rendement énergétique (EEDI) des navires neufs :
 
-― L'armateur fournira un dossier technique sur l'EEDI conformément aux directives de 2012 sur les visites et la délivrance des certificats concernant l'indice nominal de rendement énergétique (MEPC.214[63]) ;
+― L'armateur fournira un dossier technique sur l'EEDI conformément aux directives de 2012 sur les visites et la délivrance des certificats concernant l'indice nominal de rendement énergétique (MEPC. 214 [63]) ;
 
 L'armateur fournira un dossier technique sur l'EEDI conformément aux directives de 2012 sur les visites et la délivrance des certificats concernant l'indice nominal de rendement énergétique (MEPC. 214 [63])
 
@@ -876,7 +876,7 @@ Les informations complémentaires suivantes peuvent être transmises par l'armat
 
 Plan de gestion de rendement énergétique (SEEMP) établit conformément aux directives de 2012 pour l'élaboration du plan de gestion énergétique du navire conforme à la résolution (MEPC. 213 [63]).
 
-XII. - Mesures de sécurité supplémentaires applicables aux vraquiers :
+XII.-Mesures de sécurité supplémentaires applicables aux vraquiers :
 
 Calculateur de chargement (certificat d'approbation) ;
 
@@ -884,12 +884,12 @@ Avertisseurs de niveau d'eau ;
 
 Structure (attestation de classe).
 
-XIII. - Equipements marins :
+XIII.-Equipements marins :
 
 La liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
-Les certificats d'approbation "équipements marins" requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
+Les certificats d'approbation " équipements marins " requis par la division 311. Les certificats doivent comprendre les modules requis par la colonne n° 6 du tableau de l'annexe A1 de la division 311.
 
-XIII. - Bilan d'étude en CCS.
+XIII.-Bilan d'étude en CCS.
 
 Préalablement à la délivrance de titres de durée inférieure à la durée maximale prévue, d'une part, et avant la délivrance de titres définitifs, d'autre part, un bilan de l'étude est dressé afin que la commission rende son avis favorable, éventuellement assorti de réserves, ou non favorable.

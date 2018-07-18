@@ -194,7 +194,7 @@ boîte |
 
 avec lancettes capillaires sécurisées |
 
-4. Trousses de premier secours |
+4. Trousses de premier secours (1) |
 
 Compresses de gaze stériles |
 
@@ -261,3 +261,7 @@ paire |
 taille M et L |
 
 (26) Ce matériel est obligatoire lorsque le navire est autorisé à transporter 400 passagers et plus.
+
+NOTA :
+
+(1) Trousse étanche, à positionner dans des lieux appropriés - 1 trousse par tranche de 100 passagers, avec un maximum de 3.

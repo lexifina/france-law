@@ -989,3 +989,39 @@ H
 |
 
 - |
+
+5. Compétences déléguées au titre du règlement (UE) n° 1257/2013 du Parlement européen et du Conseil du 20 novembre 2013 relatif au recyclage des navires et modifiant le règlement (CE) n° 1013/2006 et la directive 2009/16/ CE
+
+H : Habilitation comprenant l'examen documentaire des inventaires des matières dangereuses conformément aux dispositions du décret n° 84-810 modifié du 30 août 1984, du règlement (UE) n° 1257/2013 et des lignes directrices de l'Agence européenne pour la sécurité maritime (AESM) pour l'établissement d'un inventaire des matières dangereuses, et la réalisation des visites à bord.
+
+|
+
+Compétences |
+
+Bureau Veritas Marine & Offshore SAS |
+
+DNV-GL AS |
+
+RINA Services s. p. a |
+
+Lloyd's
+
+Register
+
+EMEA |
+
+Korean Register of Shipping |
+
+1 |
+
+Vérification de l'inventaire des matières dangereuses |
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |

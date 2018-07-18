@@ -2,4 +2,4 @@
 
 Bons de Commande (non reproduits)
 
-Vous pouvez consulter le fac-similé à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000036277760
+Vous pouvez consulter le fac-similé à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037203008

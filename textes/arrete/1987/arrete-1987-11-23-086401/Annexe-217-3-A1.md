@@ -10,7 +10,7 @@ Tout navire de charge ou de pêche possède l'une des dotations médicales indiq
 
 - Navires pratiquant la navigation sans limitation de durée ni de destination.
 
-2) DOTATION MEDICALE B : quantités fixées à l'annexe 2 pour 5 marins (1) :
+2) DOTATION MEDICALE B : sans référence à l'effectif embarqué (1) :
 
 - Navires s'éloignant à plus de 20 milles marins mais jamais à plus de 150 miles marins du port le plus proche médicalement équipé de façon adéquate. Cette catégorie est étendue aux navires s'éloignant jusqu'à 200 miles marins du port le plus proche médicalement équipé de façon adéquate, sous réserve d'être en permanence dans le rayon d'action des moyens d'évacuation médicale héliportée ;
 
@@ -24,7 +24,7 @@ Les navires armés en deuxième catégorie restreinte de navigation et ne s'élo
 
 - Navires ne s'éloignant pas à plus de 20 milles marins des côtes.
 
-Un navire restant moins de 24 heures à la mer notamment lorsqu'il ne dispose pas d'aménagements autres qu'une timonerie, embarque une dotation C restreinte.
+Un navire restant moins de 24 heures à la mer, embarque une dotation C restreinte.
 
 4) Les navires armés en 5e catégorie de navigation embarquent la dotation médicale suivante :
 

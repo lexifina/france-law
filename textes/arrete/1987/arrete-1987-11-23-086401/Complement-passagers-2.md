@@ -592,11 +592,11 @@ tube 5 g |
 
 I |
 
-Pilocarpine |
+Isopto-pilocarpine |
 
 oculaire |
 
-collyre 1 %-10 ml |
+collyre 2 %-10 ml |
 
 1 |
 
@@ -1450,7 +1450,7 @@ rouleau |
 
 |
 
-8. Trousse de Premiers Secours |
+8. Trousse de Premiers Secours (1) |
 
 Compresses de gaze stériles |
 
@@ -1539,3 +1539,7 @@ Sac médical d'urgence |
 1 |
 
 Voir annexe 217-3. A. 4 |
+
+NOTA :
+
+(1) Trousse étanche, à positionner dans des lieux appropriés - 1 trousse par tranche de 100 passagers, avec un maximum de 3.

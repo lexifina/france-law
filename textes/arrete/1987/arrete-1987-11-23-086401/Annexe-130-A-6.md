@@ -4,7 +4,7 @@ MODÈLE D'ATTESTATION D'INTERVENTION D'UNE SOCIÉTÉ DE CLASSIFICATION HABILITÉ
 
 Attestation d'intervention d'une société de classification habilitée
 
-Articles 31, 32, 33 et 34 de la division 130 du règlement
+Articles 31,32,33 et 34 de la division 130 du règlement
 
 annexé à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
 
@@ -102,7 +102,7 @@ Coordonnées de l'exploitant du navire
 
 .
 
-Domaines techniques couverts par la "première côte" de la société de classification au titre de l'article 130.32
+Domaines techniques couverts par la " première côte " de la société de classification au titre de l'article 130.32
 
 |
 
@@ -218,11 +218,9 @@ Prévention contre l'incendie : ventilation
 
 |
 
-Apparaux de levage |
+Apparaux de levageEvacuation |
 
 |
-
-Evacuation
 
 |
 
@@ -240,13 +238,13 @@ Prévention de la pollution
 
 .
 
-Etudes, inspections, visites et essais réalisés conformément à la résolution OMI A. 1104 (29) au titre de l'article 130.32 |
+Etudes, inspections, visites et essais réalisés conformément à la résolution OMI A.1120 (30) au titre de l'article 130.32 |
 
 Evacuation |
 
 Prévention de la pollution |
 
-Navires "délégués"
+Navires " délégués "
 
 |
 

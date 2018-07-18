@@ -662,11 +662,11 @@ tube 5 g |
 
 I |
 
-Pilocarpine |
+Isopto-pilocarpine |
 
 oculaire |
 
-collyre 1 %-flacon 10 ml |
+collyre 2 %-flacon 10 ml |
 
 1 |
 
@@ -812,9 +812,9 @@ Quinine |
 
 parentérale |
 
-ampoule 500 mg, 4 ml |
+ampoule 250 mg, 2 ml |
 
-6 |
+12 |
 
 I |
 
@@ -992,7 +992,7 @@ rouleau |
 
 |
 
-Mèche de gaze vaselinée stérile (1,3 cm × 3,7 m) |
+Mèche de gaze stérile (2 cm × 5 m) |
 
 flacon stérile |
 

@@ -968,11 +968,11 @@ collyre 0,5 %-flacon 10 ml |
 
 I |
 
-Pilocarpine |
+Isopto-pilocarpine |
 
 oculaire |
 
-collyre 1 %-flacon 10 ml |
+collyre 2 %-flacon 10 ml |
 
 1 |
 
@@ -1136,9 +1136,9 @@ Quinine |
 
 parentérale |
 
-ampoule 500 mg, 4 ml |
+ampoule 250 mg, 2 ml |
 
-6 |
+12 |
 
 I |
 
@@ -1162,7 +1162,7 @@ orale |
 
 comprimé 150mg, 300mg |
 
-8 |
+6 |
 
 I |
 
@@ -1172,9 +1172,9 @@ orale |
 
 comprimé 200mg, 50mg |
 
-8 |
+12 |
 
-I |
+|
 
 DOTATION A : Matériel médical et objets de pansement
 
@@ -1352,7 +1352,7 @@ rouleau |
 
 |
 
-Mèche de gaze vaselinée stérile (1,3 cm × 3,7 m) |
+Mèche de gaze stérile (2 cm x 5 m) |
 
 flacon stérile |
 
@@ -2206,7 +2206,7 @@ bouteille-concentrée à 9,6 % ou pastilles chlorées à 1,5 g |
 
 application cutanée ou désinfection des surfaces |
 
-Détergeant désinfectant de surface |
+Détergent désinfectant de surface |
 
 litre |
 
