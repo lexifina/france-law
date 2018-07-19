@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505321
+
+- Question : [SEQ180505321](seq180505321.md) — Situation sociale au sein de l'office national des forêts
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-07-19, page 3597*
+
+L'action de l'office national des forêts (ONF) est guidée par un contrat d'objectifs et de performance (COP) établi sur cinq ans fixant les axes de travail de l'office. Le COP a été signé par l'État, la fédération nationale des communes forestières et l'ONF pour la période 2016-2020. Ce contrat prévoit le maintien des financements de l'État, ce qui est exceptionnel dans le paysage des opérateurs qui sont tous soumis à des réductions de moyens. L'établissement dispose d'une autonomie dans la gestion de ses recrutements. Pour répondre aux enjeux du COP, ils sont orientés vers les profils répondant aux différents métiers, techniques opérationnels ou fonctions support, recherchés. L'ONF a connu un exercice 2017 difficile qui a conduit à la dégradation de sa situation financière et a accru l'endettement de l'office qui atteint 320 M€, pour un plafond de 400 M€. Cette dégradation est due à une activité en repli du fait d'un marché du bois moins dynamique qu'anticipé, tandis que les charges ne diminuent pas à due concurrence des produits. Pour prendre en compte la situation de l'ONF, à laquelle le ministère de l'agriculture et de l'alimentation est particulièrement attentif, des échanges interministériels ont eu lieu et ont conclu à une série de mesures visant à donner les moyens à l'ONF de poursuivre sa transformation jusqu'à l'échéance du COP actuel (2016-2020), améliorer le climat social et ne pas dégrader sa situation financière grâce à un soutien de l'État et une maîtrise de ses dépenses. Dans ce cadre, le ministère de l'agriculture et de l'alimentation prévoit d'augmenter la subvention pour charge de service public qui sera versée à l'ONF en 2018 par rapport à 2017.
