@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505051
+
+- Question : [SEQ180505051](seq180505051.md) — Aide publique au développement
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-07-19, page 3613*
+
+Le Président de la République s'est engagé sur un objectif d'aide publique au développement (APD) représentant 0,55 % du RNB en 2022. Cet engagement a été confirmé lors du Comité interministériel de la coopération internationale et du développement du 8 février 2018, présidé par le Premier ministre, qui a fixé les étapes intermédiaires de la trajectoire d'aide publique au développement. Afin de parvenir au taux de 0,55 % d'ici 2022, le gouvernement envisage une augmentation graduelle de l'APD : 0,44 % en 2018 ; 0,44 % en 2019 ; 0,47 % en 2020 ; 0,51 % en 2021 ; puis 0,55 % en 2022. Le CICID propose également une réforme en profondeur de la manière dont est mise en œuvre l'aide publique au développement, afin de la rendre plus efficace, plus transparente et mieux pilotée et évaluée. Dans la conduite de cette transformation, une implication renforcée de la représentation nationale et des acteurs non étatiques est nécessaire pour améliorer l'appropriation de la politique de coopération et de solidarité internationale. Le Premier ministre a donc souhaité confier au député Hervé Berville une mission sur la modernisation de la politique partenariale de développement et de solidarité internationale de la France. Les recommandations qu'il formulera pourront servir de base à une réflexion sur la forme d'une éventuelle nouvelle loi d'orientation et de programmation relative à la politique de développement et de solidarité internationale, dans les délais prévus par la LOP-DSI actuellement en vigueur. La loi du 7 juillet 2014 avait vocation à rester valide pour une période de cinq ans, à l'issue de laquelle elle serait révisée, c'est-à-dire en 2019.
