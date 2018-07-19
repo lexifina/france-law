@@ -58,19 +58,19 @@ CO2 : 1 ; N2O : 296 ; CH4 : 23.
 
 7. Les émissions annualisées résultant de modifications des stocks de carbone dues à des changements dans l'affectation des sols (el) sont calculées en divisant le total des émissions de façon à les distribuer en quantités égales sur vingt ans. Pour le calcul de ces émissions, la formule suivante est appliquée :
 
-el = (CSR ― CSA) × 3,664 × 1/20 × 1/P ― eB,
+el = (CSR-CSA) × 3,664 × 1/20 × 1/ P-eB, (*)
 
-sachant que :
+où
 
-el = les émissions annualisées de gaz à effet de serre résultant de modifications des stocks de carbone dues à des changements dans l'affectation des sols (exprimées en masse d'équivalent CO2 par unité d'énergie produite par un biocarburant) ;
+el = les émissions annualisées de gaz à effet de serre résultant de modifications des stocks de carbone dues à des changements dans l'affectation des sols [exprimées en masse (en grammes) d'équivalent CO2 par unité d'énergie produite par un biocarburant (en mégajoules)]. Les terres cultivées (Telles qu'elles sont définies par le GIEC) et les cultures pérennes (On entend par cultures pérennes les cultures pluriannuelles dont la tige n'est généralement pas récoltée chaque année, telles que les taillis à rotation rapide et les palmiers à huile) sont considérées comme une seule affectation des sols ;
 
-CSR = le stock de carbone par unité de surface associé à l'affectation des sols de référence (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). L'affectation des sols de référence est l'affectation des sols en janvier 2008 ou vingt ans avant l'obtention des matières premières, si cette date est postérieure ;
+CSR = le stock de carbone par unité de surface associé à l'affectation des sols de référence [exprimé en masse (en tonnes) de carbone par unité de surface, y compris le sol et la végétation]. L'affectation des sols de référence est l'affectation des sols en janvier 2008 ou vingt ans avant l'obtention des matières premières, si cette date est postérieure ;
 
-CSA = le stock de carbone par unité de surface associé à l'affectation réelle des sols (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). Dans les cas où le carbone s'accumule pendant plus d'un an, la valeur attribuée à Csa est le stock estimé par unité de surface au bout de vingt ans ou lorsque les cultures arrivent à maturité, si cette date est antérieure ;
+CSA = le stock de carbone par unité de surface associé à l'affectation réelle des sols [exprimé en masse (en tonnes) de carbone par unité de surface, y compris le sol et la végétation]. Dans les cas où le carbone s'accumule pendant plus d'un an, la valeur attribuée à CSA est le stock estimé par unité de surface au bout de vingt ans ou lorsque les cultures arrivent à maturité, si cette date est antérieure ;
 
-P = la productivité des cultures (mesurée en quantité d'énergie produite par un biocarburant ou un bioliquide par unité de surface par an), et
+P = la productivité des cultures (mesurée en quantité d'énergie produite par un biocarburant par unité de surface par an) ; et
 
-eB =le bonus de 29 gCO2eq/MJ de biocarburants ou de bioliquides dont la biomasse est obtenue à partir de terres dégradées restaurées dans les conditions prévues au point 8.
+eB = le bonus de 29 gCO2eq/ MJ de biocarburants si la biomasse est obtenue à partir de terres dégradées restaurées dans les conditions prévues au point 8.
 
 8. Le bonus de 29 gCO2eq/MJ est accordé s'il y a des éléments attestant que les terres en question :
 
@@ -122,9 +122,7 @@ des gaz à effet de serre pour les biocarburants et les bioliquides
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -132,9 +130,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de betterave
 
@@ -284,9 +280,7 @@ Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -294,9 +288,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de betterave
 
@@ -494,9 +486,7 @@ Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -504,9 +494,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de betterave
 
@@ -656,9 +644,7 @@ Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -666,9 +652,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de betterave
 
@@ -866,17 +850,13 @@ Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants
-
-|
+des biocarburants |
 
 RÉDUCTION
 
 des émissions de gaz
 
-à effet de serre
-
-|
+à effet de serre |
 
 Ethanol de betterave
 
@@ -1074,9 +1054,7 @@ Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -1084,9 +1062,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de paille de blé
 
@@ -1172,9 +1148,7 @@ Mêmes valeurs que pour la filière de production du méthanol choisie
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -1182,9 +1156,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de paille de blé
 
@@ -1238,9 +1210,7 @@ Mêmes valeurs que pour la filière de production du méthanol choisie
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -1248,9 +1218,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de paille de blé
 
@@ -1336,9 +1304,7 @@ Mêmes valeurs que pour la filière de production du méthanol choisie
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants et des bioliquides
-
-|
+des biocarburants et des bioliquides |
 
 ÉMISSIONS DE GAZ
 
@@ -1346,9 +1312,7 @@ des biocarburants et des bioliquides
 
 valeurs par défaut
 
-(gCO2eq/MJ)
-
-|
+(gCO2eq/MJ) |
 
 Ethanol de paille de blé
 
@@ -1434,17 +1398,13 @@ Mêmes valeurs que pour la filière de production du méthanol choisie
 
 FILIÈRES DE PRODUCTION
 
-des biocarburants
-
-|
+des biocarburants |
 
 RÉDUCTION
 
 des émissions de gaz
 
-à effet de serre
-
-|
+à effet de serre |
 
 Ethanol de paille de blé
 
