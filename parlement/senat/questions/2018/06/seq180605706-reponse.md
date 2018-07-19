@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605706
+
+- Question : [SEQ180605706](seq180605706.md) — Devenir du congé maternité pour les agricultrices
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-07-19, page 3644*
+
+Le Gouvernement soutient l'objectif d'aider les femmes à concilier vie familiale et vie professionnelle. Aujourd'hui, si l'ensemble des régimes de base de la sécurité sociale couvre les charges de la maternité, il existe cependant des différences notables en fonction des régimes de sécurité sociale, tant concernant la durée de l'indemnisation du congé maternité que la forme de la prise en charge. Cette hétérogénéité des règles s'explique en partie par les besoins et contraintes différenciés des mères en période de congé maternité selon leur statut professionnel, les dispositifs ayant vocation à répondre aux besoins réels des assurées sans nécessairement être identiques. Une mission parlementaire a été confiée à Mme Marie-Pierre Rixain, députée de l'Essonne, afin d'analyser les motifs de ces divergences et de déterminer lesquelles devraient être maintenues, car adaptées aux spécificités et aux contraintes de chaque type d'activité professionnelle, et lesquelles pourraient être atténuées ou corrigées. S'agissant des travailleuses non salariées agricoles, les modalités d'indemnisation du congé maternité prennent actuellement la forme d'une allocation de remplacement du fait de l'impératif de continuité des exploitations agricoles durant la période de repos maternel. Des améliorations ont été progressivement apportées au dispositif, en termes de prise en charge et d'allongement de la durée du repos, bien que le taux de recours de 60 % ne soit pas pleinement satisfaisant. Cette problématique fait partie des sujets à l'étude par la mission parlementaire, qui rendra prochainement ses conclusions.
