@@ -967,3 +967,17 @@ Agrément du dirigeant d’une structure bénéficiant du label mentionné à l�
 Article 5.
 
 |
+
+Décret n° 2018-630 du 17 juillet 2018 portant diverses dispositions communes à l’ensemble du patrimoine culturel
+
+1
+
+|
+
+Transfert de propriété d’archives d’origine privée appartenant au domaine public entre personnes publiques.
+
+|
+
+Article R. 212-95 du code du patrimoine.
+
+|
