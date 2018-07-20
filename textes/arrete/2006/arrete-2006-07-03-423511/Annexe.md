@@ -38,7 +38,7 @@ EURO
 
 |
 
-AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet
+AFRIQUE DU SUD pour la période allant du 15 décembre au 1er mars
 
 |
 
@@ -58,7 +58,7 @@ EURO
 
 |
 
-180
+130
 
 |
 
@@ -70,7 +70,7 @@ DINAR ALGERIEN
 
 |
 
-11 000
+20 480
 
 |
 
@@ -250,7 +250,7 @@ EURO
 
 |
 
-130
+258
 
 |
 
@@ -528,18 +528,6 @@ YUAN CHINOIS (CNY)
 
 |
 
-Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010
-
-|
-
-YUAN CHINOIS (CNY)
-
-|
-
-2,200
-
-|
-
 CHYPRE
 
 |
@@ -608,7 +596,7 @@ DOLLAR NEO-ZELANDAIS
 
 |
 
-252
+400
 
 |
 
@@ -680,7 +668,7 @@ EURO
 
 |
 
-155
+200
 
 |
 
@@ -784,11 +772,11 @@ ERYTHREE
 
 |
 
-EURO
+DOLLAR US
 
 |
 
-94
+195
 
 |
 
@@ -904,7 +892,7 @@ FRANC CFA
 
 |
 
-100 000
+140 000
 
 |
 
@@ -940,7 +928,7 @@ DOLLAR US
 
 |
 
-192
+250
 
 |
 
@@ -952,7 +940,7 @@ LIVRE STERLING
 
 |
 
-130
+180
 
 |
 
@@ -1096,7 +1084,7 @@ EURO
 
 |
 
-260
+210
 
 |
 
@@ -1156,7 +1144,7 @@ COURONNE ISLANDAISE
 
 |
 
-15 000
+34 397
 
 |
 
@@ -1278,6 +1266,14 @@ DOLLAR DE FIDJI
 
 |
 
+KOSOVO |
+
+EURO |
+
+150
+
+|
+
 KOWEIT
 
 |
@@ -1378,11 +1374,11 @@ LITUANIE
 
 |
 
-LITAS
+EURO
 
 |
 
-500
+145
 
 |
 
@@ -1466,7 +1462,7 @@ EURO
 
 |
 
-230
+320
 
 |
 
@@ -1614,18 +1610,6 @@ DOLLAR US
 
 |
 
-MYANMAR (Union de)
-
-|
-
-DOLLAR US
-
-|
-
-140
-
-|
-
 NAMIBIE
 
 |
@@ -1766,7 +1750,7 @@ DOLLAR US
 
 |
 
-113
+197
 
 |
 
@@ -1938,18 +1922,6 @@ DOLLAR US
 
 |
 
-SAINT-CHRISTOPHE ET NEVIS
-
-|
-
-DOLLAR US
-
-|
-
-144
-
-|
-
 SAINT-CHRISTOPHE-ET-NIEVES |
 
 DOLLAR US
@@ -2016,7 +1988,7 @@ DOLLAR US
 
 |
 
-139
+230
 
 |
 
@@ -2160,7 +2132,7 @@ EURO
 
 |
 
-155
+180
 
 |
 
@@ -2204,11 +2176,11 @@ SWAZILAND
 
 |
 
-RAND COMMERCIAL
+EURO
 
 |
 
-650
+138
 
 |
 
@@ -2232,7 +2204,7 @@ DOLLAR US
 
 |
 
-135
+250
 
 |
 
@@ -2292,7 +2264,7 @@ BAHT
 
 |
 
-3 885
+5 000
 
 |
 
