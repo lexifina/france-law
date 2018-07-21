@@ -26,45 +26,23 @@ Professeur des écoles hors classe :
 
 |
 
-Pour l'année 2013
+Pour l'année 2018
 
 |
 
-3,00
+13,2
 
 |
 
-Pour l'année 2014
+Pour l'année 2019
 
 |
 
-4,00
+15,1
 
 |
 
-Pour l'année 2015
-
-|
-
-4,50
-
-|
-
-Pour l'année 2016
-
-|
-
-5,00
-
-|
-
-Pour l'année 2017 |
-
-5,50 |
-
-Ce taux est également applicable au corps des professeurs des écoles du corps de l'Etat créé
-
-pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003.
+Ces taux sont également applicables au corps des professeurs des écoles du corps de l'Etat créé pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003
 
 |
 
@@ -84,9 +62,11 @@ Professeur agrégé hors classe
 
 |
 
-7,00
-
 |
+
+Pour les années 2018, 2019 et 2020 |
+
+17 |
 
 Corps des professeurs certifiés
 
@@ -102,9 +82,11 @@ Professeur certifié hors classe
 
 |
 
-7,00
-
 |
+
+Pour les années 2018, 2019 et 2020 |
+
+17 |
 
 Corps des professeurs d'éducation physique et sportive
 
@@ -120,9 +102,11 @@ Professeur d'éducation physique et sportive hors classe
 
 |
 
-7,00
-
 |
+
+Pour les années 2018, 2019 et 2020 |
+
+17 |
 
 Corps des professeurs de lycée professionnel
 
@@ -138,9 +122,11 @@ Professeur de lycée professionnel hors classe
 
 |
 
-7,00
-
 |
+
+Pour les années 2018, 2019 et 2020 |
+
+17 |
 
 Corps des professeurs d'enseignement général de collège (en voie d'extinction)
 
@@ -208,26 +194,26 @@ Conseiller principal d'éducation hors classe
 
 |
 
-7,00
+|
+
+Pour les années 2018, 2019 et 2020 |
+
+17 |
+
+Corps des psychologues de l'éducation nationale
+
+Régi par le décret n° 2017-120 du 1er février 2017 portant dispositions statutaires relatives aux psychologues de l'éducation nationale
 
 |
 
-Corps des directeurs des centres d'information et d'orientation
+|
 
-et conseillers d'orientation-psychologues
-
-Régi par le décret n° 91-290 du 20 mars 1991 modifié relatif au statut particulier
-
-des directeurs de centre d'information et d'orientation et conseillers d'orientation-psychologues
+Psychologue de l'éducation nationale hors classe
 
 |
 
 |
 
-Directeurs des centres d'information et d'orientation
+Pour les années 2018, 2019 et 2020 |
 
-|
-
-7,00
-
-|
+17 |
