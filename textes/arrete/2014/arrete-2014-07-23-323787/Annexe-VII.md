@@ -8,7 +8,7 @@ Les candidats effectuent les épreuves sportives suivantes :
 
 2° Epreuve de course de demi-fond ;
 
-3° Epreuve d'abdominaux et de tractions ou d'appuis faciaux.
+3° Epreuve de gainage ventral et de tractions ou d'appuis faciaux.
 
 Pour un même concours, les épreuves sportives doivent être effectuées dans le même ordre de passage.
 
@@ -24,21 +24,29 @@ II. - Epreuve de course de demi-fond
 
 Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
 
-III. - Epreuve d'abdominaux et de tractions ou d'appuis faciaux
+III. - Epreuve de gainage ventral et de tractions ou d'appuis faciaux
 
-La note sur 20 à l'épreuve est attribuée par l'addition des deux notes sur 10 obtenues au test d'abdominaux et au test de tractions ou d'appuis faciaux.
+La note sur 20 à l'épreuve est attribuée par l'addition des deux notes sur 10 obtenues au test de gainage ventral et au test de tractions ou d'appuis faciaux.
 
-1° Abdominaux :
+1° Gainage ventral :
 
-Le candidat est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds, en appui contre un mur ou sur une chaise, sont tenus par un moniteur d'entraînement physique et sportif ou bloqués contre un espalier.
+Test d'endurance des muscles de l'abdomen et de la ceinture pelvienne : en position de gainage ventral, corps tendu (alignement cuisses-tronc permanent), le candidat conserve la position, sans bouger, le plus longtemps possible (corps rectiligne).
 
-Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum.
+En position d'attente (allongé sur le ventre, les avant-bras allongés au sol, les deux pieds au contact du sol, chevilles collées l'une à l'autre en permanence), le candidat se place en position de gainage ventral à l'issue d'un compte à rebours de 3 secondes.
 
-Au signal, le candidat réalise une flexion du tronc jusqu'au contact des coudes avec les cuisses puis retour à la position de départ, les épaules et la tête ne devant à aucun moment toucher le sol.
+L'épreuve se termine dans l'un des cas suivants :
 
-La position des mains, des coudes et des bras doit rester inchangée tout au long du test (contact permanent des bras avec la poitrine et de la région lombaire avec le sol).
+- la note maximale est atteinte ;
 
-Ce test doit être exécuté sans interruption équivalant à un temps de repos.
+- au moins un genou touche le sol ;
+
+- l'alignement tronc cuisses est rompu (abaissement ou élévation du bassin) ;
+
+- la tête touche le sol, les bras ou les mains ;
+
+- un pied ou un coude quitte le sol ;
+
+- un pied se décolle de l'autre.
 
 2° Tractions ou appuis faciaux :
 
@@ -52,25 +60,17 @@ En appui facial, corps tendu, il s'agit de fléchir les bras de telle sorte que 
 
 Seuls les mouvements exécutés correctement (corps rectiligne) sont comptés.
 
-IV. - Barème des épreuves sportives
+IV. - Barème des épreuves sportives :
 
-NOTE
+HOMME |
 
-|
+NOTE |
 
-HOMME
+FEMME |
 
-|
-
-FEMME
-
-|
-
-|
+Gainage |
 
 Tractions |
-
-Abdominaux |
 
 Appuis faciaux |
 
@@ -78,13 +78,11 @@ Course
 
 3 000 m |
 
-Natation
+Natation 50 m |
 
-50 m |
+Gainage |
 
 Tractions |
-
-Abdominaux |
 
 Appuis faciaux |
 
@@ -92,448 +90,444 @@ Course
 
 3 000 m |
 
-Natation
+Natation 50 m |
 
-50 m |
+|
+
+|
+
+|
+
+10 ʹ 29 ʺ |
+
+29 ʺ 6 |
 
 20 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-10'29” |
+12 ʹ 58 ʺ |
 
-29”6 |
+36 ʺ 2 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-12'58” |
+10 ʹ 41 ʺ |
 
-36”2 |
+30 ʺ 2 |
 
 19 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-10'41” |
+13 ʹ 16 ʺ |
 
-30”2 |
+37 ʺ 2 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-13'16” |
+10 ʹ 53 ʺ |
 
-37”2 |
+30 ʺ 8 |
 
 18 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-10'53” |
+13 ʹ 37 ʺ |
 
-30”8 |
+38 ʺ 4 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-13'37” |
+11 ʹ 06 ʺ |
 
-38”4 |
+31 ʺ 6 |
 
 17 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-11'06” |
+13 ʹ 59 ʺ |
 
-31”6 |
+39 ʺ 7 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-13'59” |
+11 ʹ 21 ʺ |
 
-39”7 |
+32 ʺ 3 |
 
 16 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-11'21” |
+14 ʹ 23 ʺ |
 
-32”3 |
+41 ʺ 1 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-14'23” |
+11 ʹ 36 ʺ |
 
-41”1 |
+33 ʺ 1 |
 
 15 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-11'36” |
+14 ʹ 49 ʺ |
 
-33”1 |
+42 ʺ 7 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-14'49” |
+11 ʹ 53 ʺ |
 
-42”7 |
+35 ʺ 1 |
 
 14 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-11'53” |
+15 ʹ 17 ʺ |
 
-35”1 |
+44 ʺ 5 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-15'17” |
+12 ʹ 10 ʺ |
 
-44”5 |
+36 ʺ 5 |
 
 13 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-12'10” |
+15 ʹ 48 ʺ |
 
-36”5 |
+46 ʺ 5 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-15'48” |
+12 ʹ 29 ʺ |
 
-46”5 |
+38 ʺ 0 |
 
 12 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-12'29” |
+16 ʹ 21 ʺ |
 
-38”0 |
+48 ʺ 8 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-16'21” |
+12 ʹ 50 ʺ |
 
-48”8 |
+39 ʺ 7 |
 
 11 |
 
-/ |
+|
 
-/ |
+|
 
-/ |
+|
 
-12'50” |
+16 ʹ 58 ʺ |
 
-39”7 |
+51 ʺ 3 |
 
-/ |
-
-/ |
-
-/ |
-
-16'58” |
-
-51”3 |
-
-10 |
+3 ʹ 10'' |
 
 12 |
-
-55 |
 
 60 |
 
-13'12” |
+13 ʹ 12 ʺ |
 
-41”7 |
-
-5 |
-
-45 |
-
-50 |
-
-17'37” |
-
-54”1 |
-
-9 |
+41 ʺ 7 |
 
 10 |
 
+3 ʹ 00 ʺ |
+
+5 |
+
 50 |
+
+17 ʹ 37 ʺ |
+
+54 ʺ 1 |
+
+2 ʹ 50'' |
+
+10 |
 
 56 |
 
-13'36” |
+13 ʹ 36 ʺ |
 
-43”9 |
+43 ʺ 9 |
+
+9 |
+
+2 ʹ 40'' |
 
 |
-
-40 |
 
 46 |
 
-18'19” |
+18 ʹ 19 ʺ |
 
-57”2 |
+57 ʺ 2 |
 
-8 |
+2 ʹ 30 ʺ |
 
 9 |
-
-45 |
 
 52 |
 
-14'02” |
+14 ʹ 02 ʺ |
 
-46”4 |
-
-4 |
-
-35 |
-
-42 |
-
-19'06” |
-
-1'00”8 |
-
-7 |
+46 ʺ 4 |
 
 8 |
 
-40 |
+2 ʹ 20 ʺ |
+
+4 |
+
+42 |
+
+19 ʹ 06 ʺ |
+
+1 ʹ 00 ʺ 8 |
+
+2 ʹ 10'' |
+
+8 |
 
 48 |
 
-14'29” |
+14 ʹ 29 ʺ |
 
-49”1 |
+49 ʺ 1 |
+
+7 |
+
+2 ʹ 00'' |
 
 |
-
-30 |
 
 38 |
 
-19'56” |
+19 ʹ 56 ʺ |
 
-1'04”7 |
+1 ʹ 04 ʺ 7 |
 
-6 |
+1 ʹ 50'' |
 
 7 |
-
-35 |
 
 44 |
 
-14'59” |
+14 ʹ 59 ʺ |
 
-52”3 |
-
-3 |
-
-25 |
-
-34 |
-
-20'51” |
-
-1'09”1 |
-
-5 |
+52 ʺ 3 |
 
 6 |
 
-30 |
+1 ʹ 45'' |
+
+3 |
+
+34 |
+
+20 ʹ 51 ʺ |
+
+1 ʹ 09 ʺ 1 |
+
+1 ʹ 40'' |
+
+6 |
 
 40 |
 
-15'30” |
+15 ʹ 30 ʺ |
 
-56”0 |
-
-|
-
-20 |
-
-30 |
-
-21'40” |
-
-1'14”0 |
-
-4 |
+56 ʺ 0 |
 
 5 |
 
-27 |
+1 ʹ 35'' |
+
+|
+
+30 |
+
+21 ʹ 40 ʺ |
+
+1 ʹ 14 ʺ 0 |
+
+1 ʹ 30'' |
+
+5 |
 
 32 |
 
-16'05” |
+16 ʹ 05 ʺ |
 
-59”8 |
+59 ʺ 8 |
+
+4 |
+
+1 ʹ 25'' |
 
 2 |
 
-17 |
-
 24 |
 
-22'54” |
+22 ʹ 54 ʺ |
 
-1'19”6 |
+1 ʹ 19 ʺ 6 |
 
-3 |
+1 ʹ 10 ʺ |
 
 4 |
 
 24 |
 
-24 |
+16 ʹ 42 ʺ |
 
-16'42” |
-
-1'04”2 |
-
-|
-
-15 |
-
-18 |
-
-24'04” |
-
-1'25”8 |
-
-2 |
+1 ʹ 04 ʺ 2 |
 
 3 |
 
-21 |
-
-16 |
-
-17'22” |
-
-1'09”3 |
-
-1 |
-
-12 |
-
-12 |
-
-25'19” |
-
-1'32”7 |
-
-1 |
-
-2 |
-
-18 |
-
-10 |
-
-18'05” |
-
-1'14”9 |
+1 ʹ 05 ʺ |
 
 |
 
-9 |
+18 |
+
+24 ʹ 04 ʺ |
+
+1 ʹ 25 ʺ 8 |
+
+50 ʺ |
+
+3 |
+
+16 |
+
+17 ʹ 22 ʺ |
+
+1 ʹ 09 ʺ 3 |
+
+2 |
+
+45 ʺ |
+
+1 |
+
+12 |
+
+25 ʹ 19 ʺ |
+
+1 ʹ 32 ʺ 7 |
+
+30 ʺ |
+
+2 |
+
+10 |
+
+18 ʹ 05 ʺ |
+
+1 ʹ 14 ʺ 9 |
+
+1 |
+
+25 ʺ |
+
+|
 
 7 |
 
-26'42” |
+26 ʹ 42 ʺ |
 
-1'40”5 |
-
-Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro. |
+1 ʹ 40 ʺ 5 |
