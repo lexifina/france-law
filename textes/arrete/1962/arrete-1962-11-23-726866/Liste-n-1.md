@@ -872,12 +872,6 @@ Indre |
 
 |
 
-Istres-le-Tubé |
-
-Bouches-du-Rhône |
-
-|
-
 Joigny |
 
 Yonne |
@@ -1639,12 +1633,6 @@ Aveyron |
 Romans - Saint-Paul |
 
 Drôme |
-
-|
-
-Romorantin-Pruniers |
-
-Loir-et-Cher |
 
 |
 

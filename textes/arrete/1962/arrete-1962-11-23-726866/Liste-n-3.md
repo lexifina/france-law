@@ -268,6 +268,22 @@ Seine-Maritime |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
+Evreux-Fauville |
+
+Eure |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs d'Etat étrangers ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Falaise - Monts-d'Eraines |
 
 Calvados |
@@ -331,6 +347,28 @@ Hôpital central-CHU de Nancy |
 Meurthe-et-Moselle |
 
 Hélistation réservée au centre hospitalier universitaire pour les besoins de transport de blessés et de malades. Seuls seront autorisés à utiliser l'hélistation les appareils civils ou militaires accomplissant une mission en relation avec l'activité ou les besoins de l'hôpital |
+
+Istres-le-Tubé |
+
+Bouches-du-Rhône
+
+|
+
+Cet aérodrome est réservé :
+
+1° aux aéronefs d'Etat français ;
+
+2° aux aéronefs d'Etat étrangers ;
+
+3° aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+4° à l'accueil du trafic aérien militaire et du trafic aérien civil dans le cadre de la réalisation des missions à usage étatique et plus particulièrement pour les besoins propres du ministère des armées ;
+
+5° à l'accueil du trafic aérien militaire et du trafic aérien civil dans le cadre de la réalisation des missions d'essais en vol dans les conditions fixées par l'autorité militaire ;
+
+6° à l'accueil du trafic aérien civil dans le cadre d'activités industrielles dans les conditions fixées par l'autorité militaire ;
+
+7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
 
 Itxassou |
 
@@ -690,6 +728,24 @@ Hérault |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
+Phalsbourg-Bourscheid |
+
+Moselle |
+
+Cet aérodrome est réservé :
+
+1° Prioritairement à l'accueil du trafic militaire et d'Etat ;
+
+2° Aux activités particulières qui y sont autorisées ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs basés sur les aérodromes voisins dans un rayon de quarante milles nautiques, uniquement pendant les horaires d'activité des services de la circulation aérienne, de jour et en conditions météorologiques de vol à vue (VMC).
+
+Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation ou convention d'occupation relèvent du point n° 3.
+
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la comptabilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+
 Pithiviers |
 
 Loiret |
@@ -754,6 +810,20 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Sud-Ouest. |
 
+Romorantin-Pruniers |
+
+Loir-et-Cher |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs militaires basés ;
+
+2° Aux aéronefs légers et aux activités liées à l'aéroclub de Sologne, dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+3° Aux aéronefs civils basés sur les aérodromes voisins dans un rayon de quatre-vingts milles nautiques dans la limite des disponibilités et de leurs capacités physiques ;
+
+4° Aux autres aéronefs légers et activités particulières qui sont autorisés par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Ruoms |
 
 Ardèche |
@@ -801,6 +871,24 @@ Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des se
 Il peut être dérogé aux conditions d'utilisation prévues aux articles 1er et 2 par décision de la direction de la sécurité de l'aviation civile Antilles-Guyane.
 
 |
+
+Saint-Dizier - Robinson |
+
+Haute-Marne |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs d'Etat étrangers ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° Aux aéronefs légers et activités liés à l'aéroclub de Saint-Dizier - Robinson, dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
 
 Sainte-Léocadie |
 
