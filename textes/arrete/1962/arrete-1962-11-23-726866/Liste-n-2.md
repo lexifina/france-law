@@ -104,12 +104,6 @@ Iles Eparses de l'océan Indien |
 
 |
 
-Evreux-Fauville |
-
-Eure |
-
-|
-
 Golf-Hôtel |
 
 Var |
@@ -194,12 +188,6 @@ Pyrénées-Orientales |
 
 |
 
-Phalsbourg-Bourscheid |
-
-Moselle |
-
-|
-
 Pontonx |
 
 Landes |
@@ -217,12 +205,6 @@ Saint-Denis-la-Redoute |
 Réunion |
 
 Hélistation |
-
-Saint-Dizier - Robinson |
-
-Haute-Marne |
-
-|
 
 Satory |
 
