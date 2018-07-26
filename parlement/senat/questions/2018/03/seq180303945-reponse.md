@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303945
+
+- Question : [SEQ180303945](seq180303945.md) — Application différente selon les départements de la réglementation en matière de sécurité pour les ERP
+
+## Réponse
+
+*Intérieur, JO du 2018-07-26, page 3876*
+
+Tous les établissements recevant du public (ERP), tels que définis à l'article R. 123-2 du code de la construction et de l'habitation (CCH), doivent être dotés d'un service de surveillance (article R. 123-11 du CCH). Pour les petits établissements, les articles PE 2 et PE 27 de l'arrêté du 25 juin 1980 portant approbation des dispositions générales du règlement de sécurité contre les risques d'incendie et de panique dans les ERP précisent qu'un membre du personnel ou un responsable au moins doit être présent en permanence lorsque l'établissement est ouvert au public dans les bâtiments à usage d'hébergement qui ne relèvent d'aucun type défini à l'article GN 1 et qui permettent d'accueillir plus de 15 et moins de 100 personnes n'y élisant pas domicile. Ces dispositions sont de nature à assurer la sécurité du public accueilli dans un ERP, d'autant plus lorsqu'il s'agit d'un établissement comportant des locaux à sommeil et accueillant des mineurs. Elles sont applicables sur l'ensemble du territoire national et il revient aux constructeurs, propriétaires et exploitants, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes (article R. 123-3 du CCH). Le ministère de l'intérieur est attentif à ce que ces règles soient strictement appliquées. Par ailleurs, les articles R. 123-13 du CCH et GN 4 du règlement de sécurité incendie permettent une adaptation des règles pour certains établissements, en fonction de leur conception ou de leur disposition particulière. Cette adaptation est autorisée par l'autorité de police après avis de la commission de sécurité compétente.
