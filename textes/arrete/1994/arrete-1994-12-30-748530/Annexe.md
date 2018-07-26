@@ -786,47 +786,15 @@ Poste de cadre technique comportant un niveau de responsabilité et requérant u
 
 |
 
-50
+12
 
 |
 
-390
+500
 
 |
 
-De la date de publication au 31 août 2007
-
-|
-
-455
-
-|
-
-1er septembre 2007
-
-|
-
-520
-
-|
-
-1er septembre 2008
-
-|
-
-585
-
-|
-
-1er septembre 2009
-
-|
-
-650
-
-|
-
-1er septembre 2010
+A compter du 1er janvier 2017
 
 |
 
