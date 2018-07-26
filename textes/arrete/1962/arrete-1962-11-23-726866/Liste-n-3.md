@@ -256,6 +256,24 @@ Val-d'Oise |
 
 Réservé aux aéronefs qui y sont basés. |
 
+Etain-Rouvres |
+
+Meuse |
+
+Cet aérodrome est réservé :
+
+1° prioritairement à l'accueil du trafic militaire et d'Etat ;
+
+2° aux activités particulières qui y sont autorisées ;
+
+3° aux aéronefs basés ou détachés ;
+
+4° aux aéronefs basés sur les aérodromes voisins dans un rayon de quarante milles nautiques, uniquement pendant les horaires d'activité des services de la circulation aérienne, de jour et en conditions météorologiques de vol à vue (VMC).
+
+Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation ou convention d'occupation relèvent du point n° 3.
+
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+
 Etrépagny |
 
 Eure |

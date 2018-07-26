@@ -92,12 +92,6 @@ Manche |
 
 Hélistation |
 
-Etain-Rouvres |
-
-Meuse |
-
-|
-
 Europa |
 
 Iles Eparses de l'océan Indien |
