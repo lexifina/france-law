@@ -2362,17 +2362,19 @@ Article 137
 
 Les dispositions des articles 20 à 23 du titre I ne sont pas applicables aux paris enregistrés en masse commune internationale répartie par les opérateurs étrangers. Elles sont remplacées par les dispositions suivantes :
 
+Pour le calcul des rapports des paris définis au présent titre, la réglementation en vigueur s'entend comme celle en vigueur dans le pays où la répartition est effectuée. Ce pays peut être celui où la course se déroule ou un pays différent. Le pays où est effectuée la répartition est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement.
+
 Pour chaque type de pari, le "rapport" définit la somme à payer aux parieurs sur la base d'une unité de mise de 1 €.
 
-Les rapports bruts sont déterminés par la répartition des enjeux centralisés, après application des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule.
+Les rapports bruts sont déterminés par la répartition des enjeux centralisés, après application des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée.
 
 Les déductions précitées appliquées pour chaque type de paris doivent être comprises entre 10% et 40%.
 
-Les déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule appliquées pour chaque type de paris sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré. Celles appliquées en France aux différents types de paris visés au présent titre sont portées à la connaissance des parieurs par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
+Les déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée appliquées pour chaque type de paris sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré. Celles appliquées en France aux différents types de paris visés au présent titre sont portées à la connaissance des parieurs par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
 
-Les modalités d’arrondi des rapports selon le pays où la course se déroule sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré. Les sommes résultant de l’application de cette disposition, dénommées arrondis sur rapports, sont affectées au produit brut des paris, entendu comme la différence entre le total des enjeux diminué des sommes reversées aux parieurs gagnants.
+Les modalités d’arrondi des rapports selon le pays où la répartition est effectuée sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré. Les sommes résultant de l’application de cette disposition, dénommées arrondis sur rapports, sont affectées au produit brut des paris, entendu comme la différence entre le total des enjeux diminué des sommes reversées aux parieurs gagnants.
 
-Lorsque le rapport calculé est inférieur au rapport minimum autorisé par la réglementation en vigueur dans le pays où la course se déroule, le paiement est fait sur la base de ce rapport minimum par unité de mise par amputation du produit brut des paris à l’issue des calculs de répartition de la course considérée. Le rapport minimum appliqué en France aux différents types de paris visés au présent titre pour un pays donné est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
+Lorsque le rapport calculé est inférieur au rapport minimum autorisé par la réglementation en vigueur dans le pays où la répartition est effectuée, le paiement est fait sur la base de ce rapport minimum par unité de mise par amputation du produit brut des paris à l’issue des calculs de répartition de la course considérée. Le rapport minimum appliqué en France aux différents types de paris visés au présent titre pour un pays donné est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
 
 Le paiement des gains est arrondi au centime d’euro inférieur ou supérieur le plus proche. Les millièmes résultants de l’application de ces règles sont affectés au produit brut des paris défini par les dispositions réglementaires en vigueur.
 
@@ -2390,7 +2392,7 @@ Un pari "Simple International" consiste à désigner un cheval choisi parmi les 
 
 1) Les paris "Simple Gagnant International" sont enregistrés dans toutes les courses comportant au moins deux partants.
 
-2) Les paris "Simple Placé International" sont enregistrés dans toutes les courses comportant un nombre minimum de chevaux partants fixé selon le pays où la course se déroule.
+2) Les paris "Simple Placé International" sont enregistrés dans toutes les courses comportant un nombre minimum de chevaux partants fixé selon le pays où la répartition est effectuée.
 
 Ces modalités particulières sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré.
 
@@ -2428,13 +2430,13 @@ Article 142
 
 Chevaux non-partants
 
-Si un cheval est déclaré non-partant en application du règlement des courses du pays où la course se déroule, tous les enjeux "Simple Gagnant International" et "Simple Placé International" sur ce cheval sont remboursés et leur montant déduit des enjeux "Simple Gagnant International" et "Simple Placé International".
+Si un cheval est déclaré non-partant en application du règlement des courses du pays où la répartition est effectuée, tous les enjeux "Simple Gagnant International" et "Simple Placé International" sur ce cheval sont remboursés et leur montant déduit des enjeux "Simple Gagnant International" et "Simple Placé International".
 
 Article 143
 
 Calcul des rapports
 
-Pour chaque type de pari, les enjeux totalisés après déduction du montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule, déterminent la masse à partager.
+Pour chaque type de pari, les enjeux totalisés après déduction du montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée, déterminent la masse à partager.
 
 I. "Simple Gagnant International"
 
@@ -2442,7 +2444,7 @@ I. "Simple Gagnant International"
 
 Dans les pays offrant cette possibilité, lorsque plusieurs chevaux font écurie, les enjeux payables sur ces divers chevaux sont totalisés et concourent à la détermination d'un rapport "Simple Gagnant International" unique pour tous les chevaux de l'écurie.
 
-2) En cas d’arrivée dead-heat, la masse à partager est, selon le pays où la course se déroule :
+2) En cas d’arrivée dead-heat, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en autant de parts égales qu’il y a de chevaux classés premiers. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus constituent les rapports bruts pour chacun des chevaux classés premiers.
 
@@ -2484,25 +2486,25 @@ Ces modalités particulières selon le pays concerné sont portées à la connai
 
 b) Calcul des rapports dans le cas du paiement des trois premières places.
 
-S'il y a un seul cheval classé premier et un seul cheval classé deuxième, la masse à partager est, selon le pays où la course se déroule :
+S'il y a un seul cheval classé premier et un seul cheval classé deuxième, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée ou en trois parts égales, un tiers affecté au cheval classé premier, un tiers au cheval classé deuxième et un tiers partagé à nouveau en autant de parts égales qu'il y a de chevaux classés troisièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus constituent les rapports bruts pour chacun des chevaux payables.
 
 - soit diminuée du montant des enjeux payables sur les divers chevaux payables. Le reste ainsi obtenu constitue le bénéfice à répartir et est divisé ou en trois parts égales, un tiers affecté au cheval classé premier, un tiers au cheval classé deuxième et un tiers partagé à nouveau en autant de parts égales qu'il y a de chevaux classés troisièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacun des chevaux payables.
 
-S'il y a un seul cheval classé premier et plusieurs chevaux classés deuxièmes, la masse à partager est, selon le pays où la course se déroule :
+S'il y a un seul cheval classé premier et plusieurs chevaux classés deuxièmes, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée ou en deux parts, un tiers affecté au cheval classé premier et deux tiers partagés à nouveau en autant de parts égales qu'il y a de chevaux classés deuxièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata du nombre des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus constituent les rapports bruts pour chacun des chevaux payables.
 
 - soit diminuée du montant des enjeux payables sur les divers chevaux payables. Le reste ainsi obtenu constitue le bénéfice à répartir et est divisé ou en deux parts, un tiers affecté au cheval classé premier et deux tiers partagés à nouveau en autant de parts égales qu'il y a de chevaux classés deuxièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacun des chevaux payables.
 
-S'il y a deux chevaux classés premiers, la masse à partager est, selon le pays où la course se déroule :
+S'il y a deux chevaux classés premiers, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée ou en trois parts égales, un tiers est affecté à chacun des chevaux classés premiers, et un tiers est partagé à nouveau en autant de parts égales qu'il y a de chevaux classés troisièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus constituent les rapports bruts pour chacun des chevaux payables.
 
 - soit diminuée du montant des enjeux payables sur les divers chevaux payables. Le reste ainsi obtenu constitue le bénéfice à répartir et est divisé ou en trois parts égales, un tiers est affecté à chacun des chevaux classés premiers, et un tiers est partagé à nouveau en autant de parts égales qu'il y a de chevaux classés troisièmes, ou en autant de parts égales qu'il y a de chevaux placés payables. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacun des chevaux payables.
 
-S'il y a plus de deux chevaux classés premiers, la masse à partager est, selon le pays où la course se déroule :
+S'il y a plus de deux chevaux classés premiers, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en autant de parts égales qu'il y a de chevaux classés premiers. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacun de ces chevaux. Les quotients ainsi obtenus constituent les rapports bruts pour chacun des chevaux payables.
 
@@ -2514,7 +2516,7 @@ Article 144
 
 Cas particuliers
 
-1) Pour le pari "Simple Gagnant International", lorsque, dans une course comportant plusieurs chevaux classés premiers, il n’y a aucun enjeu sur l’un d’eux, la fraction de la masse à partager, ou du bénéfice à répartir selon le cas, affectée à ce cheval est, selon le pays où la course se déroule :
+1) Pour le pari "Simple Gagnant International", lorsque, dans une course comportant plusieurs chevaux classés premiers, il n’y a aucun enjeu sur l’un d’eux, la fraction de la masse à partager, ou du bénéfice à répartir selon le cas, affectée à ce cheval est, selon le pays où la répartition est effectuée :
 
 - soit partagée par parts égales entre les autres chevaux classés premiers ;
 
@@ -2522,7 +2524,7 @@ Cas particuliers
 
 Ces modalités particulières selon le pays concerné sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré.
 
-2) Pour le pari "Simple Placé International", s’il n’y a aucun enjeu sur l’un des chevaux payables, la fraction de la masse à partager, ou du bénéfice à répartir selon le cas, affectée à ce cheval est, selon le pays où la course se déroule :
+2) Pour le pari "Simple Placé International", s’il n’y a aucun enjeu sur l’un des chevaux payables, la fraction de la masse à partager, ou du bénéfice à répartir selon le cas, affectée à ce cheval est, selon le pays où la répartition est effectuée :
 
 - soit partagée par parts égales entre les autres chevaux payables ;
 
@@ -2626,7 +2628,7 @@ Ces modalités particulières selon le pays concerné sont portées à la connai
 
 a) Cas d’arrivée normale.
 
-La masse à partager est, selon le pays où la course se déroule :
+La masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en trois parts égales. Chacune de ces parts est à son tour partagée au prorata du nombre d’enjeux payables sur chacune de ces combinaisons. Les quotients ainsi obtenus constituent les rapports bruts pour chacune des combinaisons payables.
 
@@ -2636,13 +2638,13 @@ Ces modalités particulières selon le pays concerné sont portées à la connai
 
 b) Cas d'arrivée dead-heat.
 
-i. Dans le cas de trois chevaux ou plus classés dead-heat à la première place, la masse à partager est, selon le pays où la course se déroule :
+i. Dans le cas de trois chevaux ou plus classés dead-heat à la première place, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en autant de parts égales qu'il y a de combinaisons "Couplé Placé International" payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacune de ces combinaisons. Les quotients ainsi obtenus les rapports bruts pour chacune des combinaisons payables.
 
 - soit diminuée du montant de tous les enjeux payables sur les diverses combinaisons payables "Couplé Placé International". Le reste ainsi obtenu, que l'on appelle bénéfice à répartir, est divisé en autant de parts égales qu'il y a de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour partagée au prorata des enjeux payables sur chacune de ces combinaisons. Les quotients ainsi obtenus les rapports bruts pour chacune des combinaisons payables.
 
-ii. Dans le cas de dead-heat de deux chevaux à la première place et d'un ou plusieurs chevaux à la troisième place, la masse à partager est, selon le pays où la course se déroule :
+ii. Dans le cas de dead-heat de deux chevaux à la première place et d'un ou plusieurs chevaux à la troisième place, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en trois parts égales : un tiers est affecté à la combinaison des deux chevaux classés premiers, un tiers à l'ensemble des combinaisons de l'un des chevaux classés premiers avec chacun des chevaux classés troisièmes et un tiers à l'ensemble des combinaisons de l'autre cheval classé premier avec chacun des chevaux classés troisièmes. Chaque part de la masse à partager ainsi définie est à son tour divisée en autant de parts égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour répartie au prorata des enjeux payables sur la combinaison payable correspondante. Les quotients ainsi obtenus constituent les rapports bruts pour chacune des combinaisons payables.
 
@@ -2650,7 +2652,7 @@ ii. Dans le cas de dead-heat de deux chevaux à la première place et d'un ou pl
 
 - soit diminuée du montant de tous les enjeux payables sur les diverses combinaisons payables "Couplé Placé International". Le reste ainsi obtenu, que l'on appelle bénéfice à répartir, est divisé en trois parts égales : un tiers du bénéfice à répartir est affecté à la combinaison des deux chevaux classés premiers, un tiers à l'ensemble des combinaisons de l'un des chevaux classés premiers avec chacun des chevaux classés troisièmes et un tiers à l'ensemble des combinaisons de l'autre cheval classé premier avec chacun des chevaux classés troisièmes. Chaque part du bénéfice à répartir ainsi définie est à son tour divisée en autant de parts égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour répartie au prorata des enjeux payables sur la combinaison payable correspondante. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune des combinaisons payables.
 
-iii. Dans le cas de dead-heat de deux chevaux ou plus à la deuxième place, la masse à partager est, selon le pays où la course se déroule :
+iii. Dans le cas de dead-heat de deux chevaux ou plus à la deuxième place, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en trois parts égales : deux tiers sont affectés à l'ensemble des combinaisons du cheval classé premier avec chacun des chevaux classés deuxièmes et un tiers à l'ensemble des combinaisons des chevaux classés deuxièmes entre eux. Chaque part de la masse à partager ainsi définie est à son tour divisée en autant de parts égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour répartie au prorata des enjeux payables sur la combinaison payable correspondante. Les quotients ainsi obtenus constituent les rapports bruts pour chacune des combinaisons payables.
 
@@ -2658,7 +2660,7 @@ iii. Dans le cas de dead-heat de deux chevaux ou plus à la deuxième place, la 
 
 - soit diminuée du montant de tous les enjeux payables sur les diverses combinaisons payables "Couplé Placé International". Le reste ainsi obtenu, que l'on appelle bénéfice à répartir, est divisé en trois parts égales : deux tiers sont affectés à l'ensemble des combinaisons du cheval classé premier avec chacun des chevaux classés deuxièmes et un tiers à l'ensemble des combinaisons des chevaux classés deuxièmes entre eux. Chaque part de la masse à partager ainsi définie est à son tour divisée en autant de parts égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour répartie au prorata des enjeux payables sur la combinaison payable correspondante. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune des combinaisons payables.
 
-iv. Dans le cas de dead-heat de deux chevaux ou plus à la troisième place, la masse à partager est, selon le pays où la course se déroule :
+iv. Dans le cas de dead-heat de deux chevaux ou plus à la troisième place, la masse à partager est, selon le pays où la répartition est effectuée :
 
 - soit divisée en trois parts égales : un tiers est affecté à la combinaison des chevaux classés premier et deuxième, un tiers à l'ensemble des combinaisons du cheval classé premier avec chacun des chevaux classés troisièmes et un tiers à l'ensemble des combinaisons du cheval classé deuxième avec chacun des chevaux classés troisièmes. Chaque part ainsi définie est à son tour divisée en autant de parts égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parts est à son tour répartie au prorata des enjeux payables sur la combinaison payable correspondante. Les quotients ainsi obtenus constituent les rapports bruts pour chacune des combinaisons payables.
 
@@ -2772,7 +2774,7 @@ Article 156
 
 Calcul des rapports
 
-Le montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule est déduit du total des enjeux pour obtenir la masse à partager.
+Le montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée est déduit du total des enjeux pour obtenir la masse à partager.
 
 1) Cas d’arrivée normale
 
@@ -2890,7 +2892,7 @@ Article 163
 
 Calcul des rapports
 
-Le montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la course se déroule est déduit du total des enjeux.
+Le montant des paris remboursés et des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée est déduit du total des enjeux.
 
 Le calcul des rapports s’effectue comme suit :
 
@@ -3476,6 +3478,172 @@ Les paris sont exécutés dans l'ordre où ils sont reçus par le groupement, so
 
 Le groupement ne peut être tenu pour responsable des paris qui n'auraient pas pu être engagés par suite d'un éventuel désaccord sur ce solde créditeur ou d'un retard à déterminer les causes de ce désaccord.
 
+CHAPITRE 9
+
+Paris par support physique dont le nom commercial retenu est porté à la connaissance des parieurs
+
+Article 201-1
+
+L'enregistrement des paris par un support physique dédié, ci-après dénommé le support, par l'intermédiaire d'un “ smartphone ” (ordiphone) est proposé dans les postes d'enregistrement du groupement et sur les hippodromes connectés au système central du groupement offrant cette possibilité.
+
+Sous réserve du versement d'un montant minimum de 1 € et d'un montant maximal de 500 €, les personnes physiques majeures peuvent obtenir dans les postes d'enregistrement du groupement et sur les hippodromes connectés au système central du groupement offrant cette possibilité, un support doté d'un code identifiant.
+
+Le titulaire d'un support, ci-après dénommé le porteur, peut, au moyen de ce support, créditer des sommes destinées exclusivement à enregistrer des paris, enregistrer ou annuler des paris et retirer les gains ou les remboursements éventuels y afférents.
+
+Le porteur est seul responsable de la conservation, de la confidentialité et de l'utilisation de ce support et le groupement est dégagé de toute responsabilité en cas d'utilisation frauduleuse.
+
+Tout support modifié, altéré, reproduit ou dont au moins un seul de ses éléments d'identification, quelle qu'en soit la cause, est rendu illisible, n'est ni réglé, ni remboursé, sans préjudice de l'éventuelle application de l'article 6.
+
+Un support non utilisé pendant deux mois à compter du dernier pari enregistré ou du dernier gain crédité est définitivement désactivé et il est clôturé. Le montant du solde créditeur éventuel de ce support est dévolu dans les conditions du dernier alinéa du d) du 2. de l'article 24.
+
+Article 201-2
+
+Le montant cumulé maximum pouvant être crédité sur ce support dans les postes d'enregistrement du groupement et sur les hippodromes connectés au système central du groupement offrant cette possibilité, en espèces ou par carte bancaire, est de 500 €. Ce montant n'est pas remboursable, sauf en cas de clôture du support à la demande du porteur, formulée auprès du Service client du groupement conformément aux dispositions de l'article 201-9.
+
+Le montant des gains ou des remboursements relatifs à chacun des paris enregistrés par le porteur est porté au crédit de ce support.
+
+Les sommes portées au crédit de ce support ne bénéficient d'aucun intérêt.
+
+Article 201-3
+
+Prérequis technique.
+
+Pour bénéficier de ce service, le porteur doit préalablement télécharger sur son “ smartphone ” (ordiphone), l'application mobile du groupement dédiée, dont la ou les dénominations commerciales sont portées à la connaissance des parieurs.
+
+Afin d'accéder aux services proposés par cette application, le porteur doit s'assurer que son " smartphone " (ordiphone) est équipé d'un système d'exploitation compatible, connecté à un réseau cellulaire ou à un réseau de communication en ligne et que son abonnement lui permet d'accéder à ce réseau à tout moment.
+
+Cette application peut être téléchargée gratuitement. Son usage est également gratuit, nonobstant le coût du pari effectué dans les postes d'enregistrement du groupement et sur les hippodromes connectés au système central du groupement et le coût de connexion appliqué par l'opérateur téléphonique.
+
+L'utilisation de ce service emporte la connaissance et l'acceptation des caractéristiques et des limites des réseaux de téléphonie portable et le groupement ne peut être tenu pour responsable dans le cas où le porteur ne peut parvenir à se connecter à un terminal relais dédié en raison d'un problème technique.
+
+Pour le fonctionnement de cette application, le porteur accepte, le cas échéant, l'utilisation des services de géolocalisation, paramétrés en fonction de son “ smartphone ” (ordiphone), qu'il peut à tout moment désactiver.
+
+Article 201-4
+
+Modalités d'enregistrement des paris.
+
+Le porteur peut préparer son pari à tout moment selon les phases et procédures indiquées sur l'écran de réception de l'application dédiée, selon les dispositions du b du 1 de l'article 210.
+
+Les paris enregistrés par le support défini au présent chapitre ne donnent pas lieu à la remise d'un récépissé. Les paris enregistrés sont consultables sur l'application dédiée.
+
+Le porteur ne peut engager de paris que dans la limite du montant disponible sur son support, constitué des montants crédités conformément aux dispositions de l'article 201-2 et pour autant que celui-ci soit au moins égal au minimum d'enjeu fixé pour le ou les paris qu'il engage. Le groupement ne peut être tenu pour responsable des paris qui n'auraient pu être engagés à la suite d'un désaccord sur ce montant disponible.
+
+Après avoir appairé son smartphone (ordiphone) via Bluetooth au terminal relais dédié et scanné son support sur son smartphone (ordiphone), le porteur peut :
+
+- enregistrer les paris sélectionnés parmi ceux préparés dans l'application dédiée et ce, dans la limite de 2 000 € ;
+
+- annuler, le cas échéant, dans les conditions prévues à l'article 14, des paris enregistrés par le support exclusivement à partir de l'application dédiée :
+
+- être informé de la durée de validité restante du support lorsque celle-ci est au plus égale à cinq jours.
+
+Le porteur transmet ses ordres de paris au groupement, qui les enregistre. Il appartient au porteur de s'assurer de la conformité des opérations à ses ordres.
+
+Seules les caractéristiques enregistrées sur support magnétique, avec scellement de données sur le système informatique central du groupement fonctionnant en temps réel, font foi, y compris en cas :
+
+- de distorsion, pour quelque cause que ce soit, entre les caractéristiques du pari et celles figurant dans l'application :
+
+- de contestation, par le porteur, de l'enregistrement par le groupement, du pari qu'il n'aurait pas, selon lui, communiqué :
+
+- de revendication par le porteur d'un pari non enregistré.
+
+Le groupement ne peut être tenu pour responsable de ces distorsions sauf au porteur à, d'une part, justifier d'un préjudice causé par l'une de ces distorsions et, d'autre part, prouver que la distorsion alléguée résulte de la responsabilité fautive et exclusive du groupement.
+
+La preuve testimoniale n'est pas admise.
+
+A tout moment, après avoir scanné son support sur son smartphone (ordiphone), le porteur peut consulter :
+
+- le solde de son support ;
+
+- l'historique des paris enregistrés jusqu'à J-30 ;
+
+- l'historique des mouvements sur le support.
+
+Article 201-5
+
+Retraits des gains.
+
+Le retrait des gains n'est possible que dans les postes d'enregistrement du groupement et sur les hippodromes connectés au système central du groupement proposant le support.
+
+Pour effectuer un retrait de ses gains, le porteur doit présenter son support à un terminal permettant de scanner celui-ci.
+
+Les retraits peuvent être effectués :
+
+- en espèces, à partir de 1 € dans la limite de 1 000 € par retrait et de 2 000 € en cumulé ;
+
+- par demande de chèque, à partir de 50 €.
+
+Tout retrait d'un montant supérieur à 1 000 €, ou en cas de dépassement du cumul autorisé en espèces ci-avant, est exclusivement payable par chèque.
+
+Tout paiement peut, à l'initiative du groupement, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
+
+Le porteur ne peut retirer que des gains de son support. Les sommes correspondant à des bonus ou abondements, portées au crédit d'un support dans le cadre d'opérations promotionnelles, ne peuvent être retirées et ne sont pas versées lors de la clôture d'un support, sauf dispositions contraires figurant dans le règlement des opérations promotionnelles concernées.
+
+Article 201-6
+
+Identification du porteur.
+
+Le porteur doit présenter tout document écrit probant de son identité :
+
+- lors de toute demande de retrait de gains par chèque ;
+
+- lorsque le cumul des retraits effectués en espèces à partir de son support dépasse un montant de 2 000 €, lors du retrait pour lequel ce seuil est dépassé et pour les retraits suivants ;
+
+- lorsqu'un porteur fait opposition à un support dans les conditions prévues à l'article 201-8 ainsi qu'à la clôture d'un support dans les conditions prévues à l'article 201-9.
+
+Le paiement est alors opéré après enregistrement, par le groupement, des nom, prénom, date de naissance, de l'adresse, du type et du numéro de la pièce d'identité du porteur ainsi que du montant des sommes qu'il a gagnées. Ces informations sont conservées pendant cinq ans.
+
+Article 201-7
+
+Obligations légales.
+
+Le groupement est soumis aux dispositions du code monétaire et financier et notamment à celles relatives à la lutte contre les activités frauduleuses ou criminelles, en particulier le blanchiment de capitaux et le financement du terrorisme. A ce titre les données personnelles communiquées sont conservées pendant cinq ans après clôture du support.
+
+De la même façon et dans ce cadre, le groupement peut suspendre temporairement les transactions financières, le paiement des gains ou le fonctionnement d'un support.
+
+La loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'applique aux informations nominatives, fournies au groupement ou aux sociétés de courses, qui revêtent un caractère obligatoire pour tout paiement par chèque.
+
+Ces informations ne sont pas cédées ou mises à disposition d'organismes extérieurs à des fins commerciales. Ces informations peuvent faire l'objet de communication aux seuls destinataires déclarés à la Commission nationale de l'informatique et des libertés, pour les seules nécessités de gestion ou d'actions commerciales du groupement.
+
+Cette loi garantit au porteur un droit d'accès, de rectification ou d'opposition au traitement de ses données personnelles à des fins de marketing auprès du groupement. Dans ce cas, il adresse sa demande à : PMU Service client, TSA 61501,75734 Paris Cedex 15.
+
+Article 201-8
+
+Opposition.
+
+Seules sont recevables les oppositions expressément motivées par la perte ou le vol d'un support.
+
+En cas de perte ou vol du support, le porteur doit former opposition, dans les meilleurs délais, auprès du Service client du groupement muni de son numéro de support.
+
+Dans le cas où le groupement serait avisé d'une contestation sur la propriété d'un support, il peut bloquer son fonctionnement ainsi que le montant disponible du support litigieux, à charge pour le demandeur de justifier que sa réclamation fait l'objet d'un dépôt de plainte auprès des autorités compétentes. Le groupement se conforme, pour l'attribution de la somme en litige, à toute décision de justice ayant force de chose jugée, cette somme ne bénéficiant d'aucun intérêt. Si la plainte n'entraîne pas d'instance judiciaire, la somme est affectée au détenteur du support.
+
+Le groupement ne peut être tenu pour responsable des conséquences d'une opposition par téléphone qui n'émanerait pas du porteur du support mis en opposition.
+
+Le porteur d'un support mis en opposition par erreur peut le faire débloquer auprès du Service client du groupement sous réserve qu'aucune utilisation frauduleuse n'ait été déclarée.
+
+Le porteur supporte toutes les pertes occasionnées par des opérations non autorisées si ces pertes résultent d'un agissement frauduleux de sa part ou s'il n'a pas satisfait intentionnellement, ou par négligence grave, aux obligations suivantes :
+
+- prendre toutes mesures raisonnables pour préserver la sécurité de son support ;
+
+- utiliser le support conformément aux présentes dispositions ;
+
+- former une opposition sans tarder dès la connaissance de la perte, du vol, du détournement ou de toute utilisation non autorisée de son support ou des données qui lui sont liées.
+
+Article 201-9
+
+Dispositions diverses.
+
+Clôture du support à l'initiative du parieur.
+
+A tout moment, le porteur peut demander la clôture de son support. Un support clôturé est automatiquement et définitivement désactivé.
+
+Si le support présente un solde créditeur, il est procédé à la clôture du support et le porteur doit communiquer, à PMU Service client, TSA 61501,75734 Paris Cedex 15, ses coordonnées dans les conditions prévues à l'article 201-6, afin que ce solde lui soit restitué exclusivement par chèque bancaire.
+
+Dysfonctionnement du support.
+
+En cas de dysfonctionnement du support, il est procédé à sa clôture et le porteur doit communiquer, à PMU Service client, TSA 61501,75734 Paris Cedex 15, ses coordonnées dans les conditions prévues à l'article 201-6 ainsi que le support, afin que le solde du support lui soit restitué exclusivement par chèque bancaire.
+
+Un support dont le solde est égal à zéro est désactivé automatiquement trois jours après que ce solde est atteint.
+
 TITRE VI
 
 MOYENS D'ENREGISTREMENT SPECIFIQUES AUX HIPPODROMES : PARIS par support électronique dont le nom commercial retenu est porté à la connaissance des parieurs
@@ -3646,21 +3814,25 @@ Ces marques, constituées par des traits verticaux ou par des croix, à l'exclus
 
 Pour certains types de paris définis aux titres II, III et IV, les formulaires peuvent comporter un nombre maximum de chevaux et/ou de courses pouvant être désignés par les parieurs. Ce maximum est porté à la connaissance du public.
 
-b) Préparation du pari depuis l’application mobile dédiée proposée par le groupement dont la ou les dénominations commerciales sont portées à la connaissance des parieurs.
+b) Préparation du pari depuis l'application mobile dédiée proposée par le groupement, dont la ou les dénominations commerciales sont portées à la connaissance des parieurs.
 
-Pour préparer leurs paris avant de se rendre dans les postes d’enregistrement du groupement ou sur les hippodromes connectés au système central du groupement offrant cette possibilité, les parieurs peuvent utiliser l’application mobile du groupement accessible depuis un "smartphone" (ordiphone).
+Pour préparer leurs paris avant de se rendre dans les postes d'enregistrement du groupement ou sur les hippodromes connectés au système central du groupement offrant cette possibilité, les parieurs peuvent utiliser l'application mobile du groupement accessible depuis un “ smartphone ” (ordiphone).
 
-La préparation d’un pari se déroule selon les phases et procédures indiquées sur l'écran de réception du "smartphone" (ordiphone). Il incombe au parieur de s’assurer de la conformité de l’ensemble des éléments des paris qu’il a saisis avec les paris qu’il souhaite engager avant leur validation.
+La préparation d'un pari se déroule selon les phases et procédures indiquées sur l'écran de réception du “ smartphone ” (ordiphone). Il incombe au parieur de s'assurer de la conformité de l'ensemble des éléments des paris qu'il a saisis avec les paris qu'il souhaite engager avant leur validation.
 
-Lorsque le parieur souhaite enregistrer son ou ses paris, il doit se présenter dans un des postes d’enregistrement du groupement ou sur l’un des hippodromes connectés au système central du groupement offrant cette possibilité et il doit générer un code QR :
+Lorsque le parieur souhaite enregistrer son ou ses paris, il doit se présenter dans un des postes d'enregistrement du groupement ou sur l'un des hippodromes connectés au système central du groupement offrant cette possibilité et il doit :
 
-- soit pari par pari, en mode "Pari express" : dans ce cas, le parieur prépare son pari et le valide pour générer un code immédiatement sans passer par le panier défini ci-dessous ;
+i) ou générer un code QR, dans le cas d'enregistrement de paris par l'un des moyens d'enregistrement définis aux chapitres 2 et 3 du titre V :
 
-- soit pour un ou plusieurs paris : dans ce cas, le parieur peut sélectionner un, plusieurs ou la totalité des paris qu’il a préparés. Ses différents choix apparaissent au fur et à mesure dans un bloc intitulé "Mon panier" qui récapitule l’ensemble des éléments de sa prise de pari. Une fois son panier constitué, le parieur le valide pour générer un seul code QR pour le ou les paris sélectionnés uniquement.
+- soit pari par pari, en mode “ Pari express ” : dans ce cas, le parieur prépare son pari et le valide pour générer un code immédiatement sans passer par le panier défini ci-dessous ;
 
-Le ou les paris non sélectionnés demeurent disponibles et sont consultables par le parieur dans l’application mobile du groupement pour une durée limitée, portée à la connaissance des parieurs.
+- soit pour un ou plusieurs paris : dans ce cas, le parieur peut sélectionner un, plusieurs ou la totalité des paris qu'il a préparés. Ses différents choix apparaissent au fur et à mesure dans un bloc, intitulé “ Mon panier ”, qui récapitule l'ensemble des éléments de sa prise de pari. Une fois son panier constitué, le parieur le valide pour générer un seul code QR pour le ou les paris sélectionnés uniquement.
+
+Le ou les paris non sélectionnés demeurent disponibles et sont consultables par le parieur dans l'application mobile du groupement pour une durée limitée, portée à la connaissance des parieurs.
 
 Un code QR est généré pour une durée limitée, portée à la connaissance des parieurs. Si ce délai est dépassé, le parieur doit générer un nouveau code QR selon les modalités ci-avant.
+
+ii) ou suivre les phases et procédures indiquées sur l'écran de réception du “ smartphone ” (ordiphone), dans le cas d'enregistrement de paris par l'un des moyens d'enregistrement définis aux chapitres 8 et 9 du titre V.
 
 2. Enregistrement du pari.
 
