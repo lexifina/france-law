@@ -1,683 +1,411 @@
 # Article Annexe I
 
-LISTE DES CODES RACE (RACES BOVINES)
+LISTE DES CODES RACES ATTRIBUÉS
 
-Races reconnues
+I. - RACES BOVINES RECONNUES
 
-LIBELLÉS DES CODES RACE
+LIBELLÉ |
 
-|
-
-CODES
-
-|
-
-RACES CONCERNÉES PAR L'ARTICLE 13
-
-du présent arrêté
-
-|
-
-Abondance
-
-|
-
-12
-
-|
-
-|
-
-Aubrac
-
-|
-
-14
-
-|
-
-|
-
-Jersiaise
-
-|
-
-15
-
-|
-
-|
-
-Pie rouge des plaines
-
-|
-
-19
-
-|
-
-|
-
-Brune
-
-|
-
-21
-
-|
-
-|
-
-Salers
-
-|
-
-23
-
-|
-
-|
-
-Bazadaise
-
-|
-
-24
-
-|
-
-|
-
-Blanc bleu
-
-|
-
-25
-
-|
-
-|
-
-Bordelaise
-
-|
-
-26
-
-|
-
-X
-
-|
-
-Bretonne pie noire
-
-|
-
-29
-
-|
-
-X
-
-|
-
-Aurochs reconstitué
-
-|
-
-30
-
-|
-
-|
-
-Tarentaise
-
-|
-
-31
-
-|
-
-|
-
-Lourdaise
-
-|
-
-33
-
-|
-
-X
-
-|
-
-Limousine
-
-|
-
-34
-
-|
-
-|
-
-Simmental française
-
-|
-
-35
-
-|
-
-|
-
-Corse
-
-|
-
-36
-
-|
-
-|
-
-Raço di Biou (Camargue)
-
-|
-
-37
-
-|
-
-|
-
-Charolaise
-
-|
-
-38
-
-|
-
-|
-
-Rouge des prés
-
-|
-
-41
-
-|
-
-|
-
-Armoricaine
-
-|
-
-43
-
-|
-
-X
-
-|
-
-Montbéliarde
-
-|
-
-46
-
-|
-
-|
-
-De combat (espagnole Brava)
-
-|
-
-51
-
-|
-
-|
-
-Bleue du Nord
-
-|
+CODE
 
-52
+RACE |
 
-|
+RACES CONCERNÉES PAR L'ARTICLE 13 DU PRÉSENT ARRÊTÉ |
 
-|
+PIRENAICA |
 
-Villard-de-Lans
+11 |
 
 |
 
-53
-
-|
+ABONDANCE |
 
-X
+12 |
 
 |
 
-Créole
+WAGYU |
 
-|
-
-55
+13 |
 
 |
 
-|
+AUBRAC |
 
-Normande
+14 |
 
 |
 
-56
+JERSIAISE |
 
-|
+15 |
 
 |
-
-Vosgienne
 
-|
+ANGUS |
 
-57
+17 |
 
 |
 
-|
+PIE ROUGE |
 
-Maraîchine
+19 |
 
 |
 
-58
-
-|
+BRUNE |
 
-X
+21 |
 
 |
 
-Béarnaise
+BLEUE DE BAZOUGERS |
 
-|
+22 |
 
-61
+X |
 
-|
+SALERS |
 
-X
+23 |
 
 |
 
-Rouge flamande
+BAZADAISE |
 
-|
+24 |
 
-63
-
-|
+X |
 
-|
+BLANC BLEU |
 
-Ferrandaise
+25 |
 
 |
 
-65
+BORDELAISE |
 
-|
+26 |
 
-X
+X |
 
-|
+BRETONNE PIE NOIR |
 
-Prim'Holstein
+29 |
 
-|
+X |
 
-66
+AUROCHS RECONSTITUÉ |
 
-|
+30 |
 
 |
 
-Froment du Léon
+TARENTAISE |
 
-|
-
-69
+31 |
 
 |
 
-X
+LOURDAISE |
 
-|
+33 |
 
-Parthenaise
+X |
 
-|
+LIMOUSINE |
 
-71
+34 |
 
 |
 
-|
+SIMMENTAL FRANCAISE |
 
-Gasconne
+35 |
 
 |
 
-72
+CORSE |
 
-|
+36 |
 
-|
+X |
 
-Nantaise
+RAÇO DI BIÒU |
 
-|
+37 |
 
-76
+X |
 
-|
+CHAROLAISE |
 
-X
+38 |
 
 |
 
-Mirandaise (Gasconne aréolée)
+ROUGE DES PRÉS |
 
-|
-
-77
+41 |
 
 |
 
-X
+ARMORICAINE |
 
-|
+43 |
 
-Blonde d'Aquitaine
-
-|
+X |
 
-79
+MONTBELIARDE |
 
-|
+46 |
 
 |
 
-Brahman
+BRAVE |
 
-|
+51 |
 
-81
+X |
 
-|
+BLEUE DU NORD |
 
-|
+52 |
 
-Herens
+X |
 
-|
+VILLARD DE LANS |
 
-82
+53 |
 
-|
+X |
 
-|
+CRÉOLE |
 
-Hereford
+55 |
 
-|
+X |
 
-85
+NORMANDE |
 
-|
+56 |
 
 |
 
-Saosnoise
+VOSGIENNE |
 
-|
+57 |
 
-88
+X |
 
-|
+MARAICHINE |
 
-X
+58 |
 
-|
+X |
 
-Canadienne
+BÉARNAISE |
 
-|
+61 |
 
-92
+X |
 
-|
+ROUGE FLAMANDE |
 
-X
+63 |
 
-|
+X |
 
-INRA 95
+MARINE LANDAISE |
 
-|
+64 |
 
-95
+X |
 
-|
+FERRANDAISE |
 
-|
+65 |
 
-Casta (Aure et Saint-GIrons)
+X |
 
-|
+PRIM'HOLSTEIN |
 
-97
+66 |
 
 |
-
-X
 
-|
+FROMENT DU LÉON |
 
-Races non reconnues et croisements
+69 |
 
-LIBELLÉS DES CODES RACE
+X |
 
-|
+PARTHENAISE |
 
-CODES
+71 |
 
 |
-
-Bison
 
-|
+GASCONNE |
 
-10
+72 |
 
 |
-
-Angus
 
-|
+NANTAISE |
 
-17
+76 |
 
-|
+X |
 
-Ayrshire
+MIRANDAISE |
 
-|
+77 |
 
-18
+X |
 
-|
+BLONDE D'AQUITAINE |
 
-Buffle
+79 |
 
 |
 
-20
+MOKA |
 
-|
+80 |
 
-Chianina
+X |
 
-|
+BRAHMAN |
 
-32
+81 |
 
 |
-
-Croisé
 
-|
+HERENS |
 
-39
+82 |
 
 |
-
-3/4 montbéliarde
 
-|
+HEREFORD |
 
-40
+85 |
 
 |
 
-Dairy Shorthorn
-
-|
+HIGHLAND CATTLE |
 
-42
+86 |
 
 |
 
-Autres races traites étrangères
+SAOSNOISE |
 
-|
-
-44
+88 |
 
-|
+X |
 
-South Devon
+CANADIENNE |
 
-|
+92 |
 
-45
+X |
 
-|
+INRA 95 |
 
-Autres races allaitantes étrangères
+95 |
 
 |
 
-48
+CASTA |
 
-|
+97 |
 
-Marchigiana
+X |
 
-|
+II. - RACES (OU ESPÈCES) BOVINES NON RECONNUES ET CROISEMENTS
 
-49
+LIBELLÉ |
 
-|
+CODE RACE |
 
-3/4 normande
+BISON |
 
-|
+10 |
 
-50
+AYRSHIRE |
 
-|
+18 |
 
-N'Dama
+BUFFLE |
 
-|
+20 |
 
-54
+CHIANINA |
 
-|
+32 |
 
-3/4 prim'Holstein
+CROISÉ |
 
-|
+39 |
 
-60
+3/4 MONTBÉLIARDE |
 
-|
+40 |
 
-Programme Fédération européenne Pie rouge
+DAIRY SHORTHORN |
 
-|
+42 |
 
-67
+AUTRES RACES TRAITES D'ORIGINE ÉTRANGÈRES |
 
-|
+44 |
 
-Galloway
+SOUTH DEVON |
 
-|
+45 |
 
-73
+AUTRES RACES ALLAITANTES D'ORIGINE ÉTRANGÈRES |
 
-|
+48 |
 
-Guernesey
+MARCHIGIANA |
 
-|
+49 |
 
-74
+3/4 NORMANDE |
 
-|
+50 |
 
-Piémontaise
+N'DAMA |
 
-|
+54 |
 
-75
+3/4 PRIM'HOLSTEIN |
 
-|
+60 |
 
-Gelbvieh
+PROGRAMME FÉDÉRATION EUROPÉENNE PIE ROUGE |
 
-|
+67 |
 
-78
+GALLOWAY |
 
-|
+73 |
 
-Highland Cattle
+GUERNESEY |
 
-|
+74 |
 
-86
+PIÉMONTAISE |
 
-|
+75 |
 
-Programme Red Holstein × Abondance
+GELBVIEH |
 
-|
+78 |
 
-91
+PROGRAMME RED HOLSTEIN X ABONDANCE |
 
-|
+91 |
