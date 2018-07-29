@@ -16,9 +16,9 @@ Liste |
 
 15 |
 
-Femmes : 24 310 (59,22 %)
+Femmes : 24 003 (59,23 %)
 
-Hommes : 16 741 (40,78 %) |
+Hommes : 16 521 (40,77 %) |
 
 CTEA |
 
@@ -26,9 +26,9 @@ Liste |
 
 10 |
 
-Femmes : 15 183 (59,07 %)
+Femmes : 14 876 (59,09 %)
 
-Hommes : 10 521 (40,93 %) |
+Hommes : 10 301 (40,91 %) |
 
 CTAC |
 
@@ -342,9 +342,9 @@ Liste |
 
 10 |
 
-Femmes : 945 (57,90 %)
+Femmes : 638 (57,74 %)
 
-Hommes : 687 (42,10 %) |
+Hommes : 467 (42,26 %) |
 
 CTR DRAAF PACA |
 
@@ -380,11 +380,11 @@ CTREA Ile-de-France |
 
 Liste |
 
-10 |
+8 |
 
-Femmes : 286 (59,25 %)
+Femmes : 217 (57,71 %)
 
-Hommes : 205 (40,75 %) |
+Hommes : 159 (42,29 %) |
 
 CT DAAF-Ens Guadeloupe |
 
@@ -486,7 +486,7 @@ Femmes : 146 (58,87 %)
 
 Hommes : 102 (41,13 %) |
 
-CT ENSAP |
+CT Bordeaux Sciences Agro |
 
 Liste |
 
@@ -519,3 +519,7 @@ Sigle |
 4 |
 
 Non concerné |
+
+NOTA :
+
+Conformément aux dispositions de l'article 2 de l'arrêté du 20 juillet 2018, ces dispositions sont applicables au prochain renouvellement général des instances de représentation du personnel de la fonction publique.
