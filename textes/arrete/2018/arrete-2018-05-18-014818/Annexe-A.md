@@ -122,7 +122,7 @@ Eure (27) |
 
 DIR Nord-Ouest |
 
-Eure-et-Loire (28) |
+Eure-et-Loir (28) |
 
 DIR Nord-Ouest |
 
