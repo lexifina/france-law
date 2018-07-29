@@ -62,15 +62,13 @@ B. 2. Non-respect des conditions relatives au maintien de qualification
 
 B. 2.1. En cas de non-respect au 31 décembre de la disposition prévue au point B. 1.1, les dispositions du point C ci-après s'appliquent.
 
-B. 2.2. En cas de non-respect d’une ou des dispositions prévues aux points B. 1.2 et B. 1.3, la poursuite de l'activité du contrôleur est assujettie :
+B. 2.2. En cas de non-respect d'au moins une des dispositions prévues aux points B. 1.2 et B. 1.3, la poursuite de l'activité du contrôleur est assujettie :
 
 -à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
 
--à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
+-à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique périodique, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou un organisme d'audit agréé.
-
-A défaut, les dispositions du point C ci-après sont mises en œuvre.
+L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 26-3 du présent arrêté.
 
 C. Remise à niveau
 
@@ -84,13 +82,7 @@ Cette remise à niveau est composée d'une partie théorique, d'une durée minim
 
 C. 3. Dans tous les cas, la remise à niveau ne dispense pas des exigences de formation prévues au point B pour l'année civile en cours. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
-C. 4. La délivrance de l’agrément ou la reprise d’activité du contrôleur sont assujetties :
-
--à une évaluation satisfaisante des connaissances des dernières évolutions réglementaires ;
-
--à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
-
-L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+C.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont assujetties à un examen pratique favorable, réalisé par le réseau de rattachement ou par un organisme d'audit agréé en application de l'article 26-3 du présent arrêté et portant sur la réalisation d'un contrôle technique dans des conditions identiques à celles d'un contrôle technique périodique, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé. L'examen pratique donne lieu à l'établissement d'une attestation par le réseau de rattachement ou l'organisme d'audit.
 
 D. Qualification des exploitants
 
