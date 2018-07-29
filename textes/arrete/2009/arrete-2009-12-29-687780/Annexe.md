@@ -4,9 +4,9 @@ LISTE DES LABORATOIRES NATIONAUX DE RÉFÉRENCE PRÉSENTÉE PAR DOMAINE DE COMP�
 
 Contaminants biologiques présents dans les denrées alimentaires
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Biotoxines marines |
 
@@ -82,9 +82,9 @@ Service commun des laboratoires-Laboratoire de Montpellier |
 
 Contaminants physiques et chimiques, résidus et additifs
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Additifs utilisés dans l'alimentation des animaux |
 
@@ -94,7 +94,7 @@ Détection de protéines animales dans les aliments pour animaux |
 
 Service commun des laboratoires-Laboratoire de Rennes |
 
-Polluants organiques persistants (POP) halogénés, excepté les résidus de pesticides, dans les aliments pour animaux et les denrées alimentaires |
+Dioxines et PCB dans l'alimentation humaine et animale |
 
 Ecole nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (ONIRIS)-Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA)-Nantes |
 
@@ -148,9 +148,9 @@ ONIRIS-LABERCA-Nantes |
 
 Maladies animales
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Anémie infectieuse des Equidés |
 
@@ -190,11 +190,7 @@ Fièvre aphteuse |
 
 ANSES-Laboratoire de santé animale de Maisons-Alfort |
 
-Fièvre catarrhale ovine : diagnostic sérologique et vecteurs |
-
-Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)-Montpellier |
-
-Fièvre catarrhale ovine : diagnostic virologique |
+Fièvre catarrhale ovine |
 
 ANSES-Laboratoire de santé animale de Maisons-Alfort |
 
@@ -202,13 +198,9 @@ Fièvre charbonneuse |
 
 ANSES-Laboratoire de santé animale de Maisons-Alfort |
 
-Fièvre de la vallée du Rift-diagnostic sérologique |
+Fièvre de la vallée du Rift |
 
-ANSES-Laboratoire de Lyon |
-
-Fièvre de la vallée du Rift-diagnostic virologique |
-
-CIRAD-Montpellier |
+Centre de coopération internationale en recherche agronomique pour le développement (CIRAD)-Montpellier |
 
 Fièvre Q |
 
@@ -330,9 +322,9 @@ ANSES-Laboratoire de santé animale de Maisons-Alfort |
 
 OGM
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 OGM dans le maïs (parties végétatives) et pommes de terre, betteraves, riz, coton, blé et espèces potagères (semences et parties végétatives) |
 
@@ -342,19 +334,17 @@ OGM dans le maïs (semences) et soja, colza et lin (semences et parties végéta
 
 GEVES/ BioGEVES-Surgères |
 
-OGM dans les semences (toutes espèces) et dans les denrées alimentaires d'origine végétale et les aliments pour animaux |
+OGM dans les semences (toutes espèces) et dans les denrées alimentaires et les aliments pour animaux |
 
-Service commun des laboratoires
-
-Laboratoire de Illkirch-Graffenstaden |
+Service commun des laboratoires-Laboratoire de Strasbourg |
 
 Santé des végétaux
 
 Bactéries phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Bactéries sur bananier, agrumes et plantes tropicales |
 
@@ -366,9 +356,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Phytoplasmes phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Phytoplasmes sur toutes matrices |
 
@@ -376,9 +366,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Virus phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Virus sur bananier et plantes tropicales |
 
@@ -394,9 +384,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Viroïdes phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Viroïdes sur toutes matrices |
 
@@ -404,9 +394,9 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 Champignons phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Champignons sur toutes matrices |
 
@@ -418,9 +408,9 @@ Champignons sensu stricto, ainsi que les organismes généralement assimilés (i
 
 Nématodes phytopathogènes
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Nématodes phytoparasites sur toutes matrices |
 
@@ -430,9 +420,9 @@ Unité nématologie-Station du Rheu (près de Rennes) |
 
 Insectes, acariens phytopathogènes et auxiliaires
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Insectes, acariens phytoparasites et auxiliaires sur toutes matrices |
 
@@ -442,9 +432,9 @@ Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de 
 
 Plantes invasives
 
-DOMAINE DE COMPÉTENCE |
+Domaine de compétence |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE |
+Laboratoire national de référence |
 
 Plantes invasives |
 
