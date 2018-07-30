@@ -70,9 +70,9 @@ DREAL PACA |
 
 DREAL Pays de la Loire |
 
-14,89 % |
-
 85,11 % |
+
+14,89 % |
 
 DREAL Normandie |
 
