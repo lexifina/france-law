@@ -2,81 +2,51 @@
 
 Cour de cassation
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE
+NOMBRE DE POINTS
 
-d'emplois
+par emploi |
 
-|
-
-NOMBRE
-
-de points par emploi
-
-|
-
-Premier président
-
-|
+Premier président |
 
 1 |
 
 200 |
 
-Procureur général
-
-|
+Procureur général |
 
 1 |
 
 200 |
 
-Président de chambre
+Président de chambre |
 
-|
+7 |
+
+180 |
+
+Premier avocat général |
 
 6 |
 
 180 |
 
-Premier avocat général
-
-|
-
-6 |
-
-180 |
-
-Président de chambre chargé de la direction du service de documentation et d'études
-
-|
-
-1 |
-
-150 |
-
-Doyen de chambre
-
-|
+Doyen de chambre |
 
 6 |
 
 150 |
 
-Doyen de section
+Doyen de section |
 
-|
-
-8 |
+11 |
 
 120 |
 
-Magistrat chargé d'un secrétariat général
-
-|
+Magistrat chargé d'un secrétariat général |
 
 2 |
 
