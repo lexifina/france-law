@@ -6,10 +6,6 @@ OBJET DE LA DÉMARCHE |
 
 DISPOSITIONS APPLICABLES |
 
-Démarches relatives aux autorisations d'importation de matériels de guerre (AIMG) de la catégorie A2 et autorisations d'importation (AIMG) des armes, munitions et leurs éléments des catégories A1, B, C et des 1° et A, B et C du 2° de la catégorie D |
-
-Articles L. 2335-1 ET R. 2335-2 du code de la défense et articles R. 316-29 et R. 316-30 du code de la sécurité intérieure |
-
 Démarches relatives à la délivrance d'un certificat international d'importation et d'un certificat de vérification de livraison pour l'importation des matériels de guerre de la catégorie A2 |
 
 Article R. 2335-8 du code de la défense |

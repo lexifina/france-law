@@ -394,27 +394,27 @@ Articles L. 47 et R. 20-45
 
 Code de la sécurité intérieure |
 
-Transfert d'armes à feu, de munitions et leurs éléments des catégories A1, B, C et 1° de la catégorie D : agrément, déclaration de transfert par un armurier agréé, annexe à la déclaration de transfert, permis de transfert, agrément préalable |
+Transfert d'armes à feu, de munitions et de leurs éléments des catégories A1, B et C : agrément, déclaration de transfert par un armurier agréé, annexe à la déclaration de transfert, permis de transfert, agrément préalable |
 
 Article R. 316-14 |
 
 9 mois |
 
-Transfert d'armes à feu, munitions et leurs éléments des catégories A1, B, C et 1° de la catégorie D : agrément, déclaration de transfert par un armurier agréé, annexe à la déclaration de transfert, permis de transfert, agrément préalable |
+Transfert d'armes à feu, munitions et leurs éléments des catégories A1, B et C : agrément, déclaration de transfert par un armurier agréé, annexe à la déclaration de transfert, permis de transfert, agrément préalable |
 
 Article R. 316-15 |
 
 9 mois |
 
-Accord préalable pour le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B, C et 1° de la catégorie D |
+Accord préalable pour le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B et C |
 
 Article R. 316-16 |
 
 9 mois |
 
-Autorisation d'importation et autorisation d'importation globale d'armes, munitions et leurs éléments des catégories A1, B, C et 1° et a, b et c du 2° de la catégorie D |
+Autorisation d'importation et autorisation d'importation globale d'armes, munitions et leurs éléments des catégories A1, B, C et a, b et c de la catégorie D |
 
-Article R. 316-26 |
+Article R. 316-29 |
 
 9 mois |
 
@@ -424,7 +424,7 @@ Article R. 316-40 |
 
 9 mois |
 
-Autorisation de transit et autorisation globale de transit d'armes, munitions et leurs éléments des catégories A1, B, C et 1° et a, b et c du 2° de la catégorie D |
+Autorisation de transit et autorisation globale de transit d'armes, munitions et leurs éléments des catégories A1, B, C et a, b et c de la catégorie D |
 
 Article R. 316-51 |
 
