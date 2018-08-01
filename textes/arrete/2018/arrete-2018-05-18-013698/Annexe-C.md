@@ -74,15 +74,15 @@ Liste |
 
 DREAL Centre-Val de Loire |
 
-8 |
+9 |
 
-8 |
+9 |
 
 Liste |
 
-47,41 % |
+46,99 % |
 
-52,59 % |
+53,01 % |
 
 DREAL Corse |
 
@@ -194,27 +194,27 @@ Liste |
 
 DRIEE IDF |
 
-8 |
+9 |
 
-8 |
+9 |
 
 Liste |
 
-53,72 % |
+50,46 % |
 
-46,28 % |
+49,54 % |
 
 DRIHL IDF |
 
-7 |
+9 |
 
-7 |
+9 |
 
 Liste |
 
-69,73 % |
+72,04 % |
 
-30,27 % |
+27,96 % |
 
 DEAL Guadeloupe |
 
@@ -482,9 +482,9 @@ Liste |
 
 DIRM Nord Atlantique Manche Ouest |
 
-9 |
+10 |
 
-9 |
+10 |
 
 Liste |
 

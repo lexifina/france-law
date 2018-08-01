@@ -104,7 +104,7 @@ Ecole nationale des techniciens de l'équipement |
 
 4 |
 
-Liste |
+Sigle |
 
 51,06 % |
 
