@@ -300,7 +300,7 @@ Chef du département de l'asile à la frontière et de l'admission au séjour. |
 
 Agence nationale des titres sécurisés. |
 
-Responsable du centre d'appels, de l'acheminement et de la gestion des sites web. |
+Responsable des ressources humaines, adjoint au secrétaire général. |
 
 30 |
 
