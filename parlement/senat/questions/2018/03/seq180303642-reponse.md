@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303642
+
+- Question : [SEQ180303642](seq180303642.md) — Situation du service de la nationalité des Français nés et établis hors de France
+
+## Réponse
+
+*Justice, JO du 2018-08-02, page 4026*
+
+S'agissant des délais de délivrance des certificats de nationalité française, il convient de noter que 65 000 demandes sont enregistrées chaque année dans les tribunaux d'instance. Près d'un tiers des certificats est délivré à Paris. Si les difficultés peuvent être liées au manque d'effectifs, elles proviennent également du nombre important des demandes à traiter et de la complexité de l'instruction de celles-ci, nécessitant le plus souvent des compléments d'information. La circulaire de localisation des emplois au titre de l'année 2017 alloue trente-huit postes au service de la nationalité des français nés et établis hors de France du tribunal d'instance du 1er arrondissement de Paris, dont treize emplois de directeurs des services de greffe, dix emplois de greffiers et quinze emplois d'adjoints administratifs. Ce service compte au 26 mars 2018, trente-cinq fonctionnaires. Les effectifs de directeurs et de greffiers sont au complet compte tenu de la titularisation, à cette date, d'un greffier stagiaire. Sont vacants trois postes d'adjoints administratifs. Le décret n° 2017-1643 du 30 novembre 2017 relatif à la création du tribunal d'instance de Paris et à la suppression des vingt tribunaux instance d'arrondissement entrera en vigueur le 14 mai 2018. La création de cette juridiction, laquelle s'accompagnera d'une nouvelle localisation des emplois, ainsi que la modernisation des méthodes de travail induite, devraient permettre de réduire les délais de traitement. En tout état de cause, des personnels de greffe placés sont affectés à la cour d'appel de Paris, lesquels peuvent être délégués provisoirement dans les juridictions du ressort pour renforcer leurs effectifs.
