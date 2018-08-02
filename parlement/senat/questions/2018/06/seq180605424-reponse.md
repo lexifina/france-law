@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605424
+
+- Question : [SEQ180605424](seq180605424.md) — Accaparement des terres agricoles par des entreprises de pays tiers
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-08-02, page 4006*
+
+L'achat récent de terres agricoles françaises par des sociétés étrangères notamment dans l'Indre et dans l'Allier a montré que les outils de régulation du foncier agricole dans leur état actuel étaient inadaptés face au développement des phénomènes de concentration des exploitations par le biais sociétaire. Depuis la loi d'avenir pour l'agriculture, l'alimentation et la forêt du 13 octobre 2014, les sociétés d'aménagement foncier et d'établissement rural (SAFER) peuvent exercer leur droit de préemption pour l'acquisition de la totalité des parts sociales d'une société dont l'objet principal est la propriété agricole. Force est de constater que des cessions partielles sont aisément organisées pour contourner ce dispositif. Des initiatives ont été récemment engagées pour protéger les terres agricoles contre ces phénomènes de financiarisation et de concentration d'exploitations agricoles mais elles se sont avérées infructueuses. En effet, une proposition de loi relative à la lutte contre l'accaparement des terres agricoles avait été déposée le 21 décembre 2016 visant à instaurer une plus grande transparence dans l'achat de terres par des sociétés et à étendre le droit de préemption des SAFER aux parts sociales ou aux actions en cas de cession partielle. Cette dernière disposition a été censurée par le Conseil constitutionnel dans une décision n° 2017-748 DC du 16 mars 2017. La mission d'information de l'Assemblée nationale en cours sur le foncier agricole viendra alimenter la réflexion sur ce phénomène d'accaparement des terres agricoles et plus largement sur l'évolution des outils de régulation du foncier agricole.
