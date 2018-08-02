@@ -64,7 +64,21 @@ Villers-Cotterêts
 
 |
 
-AP 32 en partie, AP 33 en partie, AP 34, AP35 en partie
+AP 140
+
+AP 142
+
+AP 143
+
+|
+
+Allier (03) |
+
+Maison forestière des Jardins et garage |
+
+Cosnes-d'Allier |
+
+B 92, B 93, B 94, B 504 en partie
 
 |
 
@@ -348,6 +362,8 @@ Tilloy-lez-Marchiennes
 
 |
 
+C 815 en partie
+
 C 816 en partie
 
 C 817 en partie
@@ -406,6 +422,26 @@ Section 16, parcelle 9, dans la limite d'un usage normal du bien
 
 |
 
+|
+
+Maison ouvrière du Petit Wisches et annexe |
+
+Lutzelhouse |
+
+section 16 n° 115, section 16 n° 6 en partie
+
+|
+
+Saône-et-Loire (71) |
+
+Maison forestière de Maupre et garage |
+
+Charolles |
+
+ZD 93, ZD 94, ZD 95, ZD 96 en partie
+
+|
+
 Seine-Maritime (76)
 
 |
@@ -440,24 +476,6 @@ Yvelines (78)
 
 |
 
-Maison forestière de l'Etang-la-Tour
-
-|
-
-Vieille-Eglise-en-Yvelines
-
-|
-
-C 47
-
-C 48
-
-C 49 en partie
-
-|
-
-|
-
 Maison forestière de Villebon Nouvelle
 
 |
@@ -467,6 +485,26 @@ Meudon
 |
 
 101, 102 en partie
+
+|
+
+|
+
+Maison forestière Les Curieux |
+
+Saint-Nom-la Bretêche |
+
+A 1 en partie, A 3, A 4, A 5
+
+|
+
+Vaucluse (84) |
+
+Baraque du Grand Ribas |
+
+Saint-Léger-du-Ventoux |
+
+B 289, B 555, B 556, B558
 
 |
 
