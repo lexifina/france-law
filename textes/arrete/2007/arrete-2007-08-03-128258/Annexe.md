@@ -78,13 +78,13 @@ Fort-de-France-Philipsburg (Saint-Martin).
 
 Jusqu'au 31 janvier 2022 :
 
-- Saint-Denis de La Réunion-Antananarivo (Madagascar) ;
+Saint-Denis de La Réunion-Antananarivo (Madagascar) ;
 
 A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
 
-- Paris-La Havane (Cuba), dans la limite de deux fréquences hebdomadaires ;
+Paris-La Havane (Cuba), dans la limite de deux fréquences hebdomadaires ;
 
-- Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons Paris-Santiago de Cuba (Cuba), Paris-Santa Clara (Cuba) et Paris-Varadero (Cuba).
+Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons Paris-Santiago de Cuba (Cuba), Paris-Santa Clara (Cuba) et Paris-Varadero (Cuba) ou sans limite de fréquences dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile.
 
 Jusqu'au 30 avril 2022, et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie française disposant des autorisations nécessaires :
 
@@ -92,30 +92,30 @@ Paris-Beyrouth (Liban).
 
 Jusqu'au 31 mai 2022 :
 
-- Paris-Antananarivo (Madagascar) ;
+Paris-Antananarivo (Madagascar) ;
 
-- Paris-Dakar (Sénégal).
+Paris-Dakar (Sénégal).
 
 Jusqu'au 31 octobre 2022 :
 
--Paris-Bamako (Mali) ;
+Paris-Bamako (Mali) ;
 
--Paris-Abidjan (Côte d'Ivoire).
+Paris-Abidjan (Côte d'Ivoire).
 
 Jusqu'au 31 mars 2023 :
 
--Paris-Agadir (Maroc) ;
+Paris-Agadir (Maroc) ;
 
--Paris-Casablanca (Maroc) ;
+Paris-Casablanca (Maroc) ;
 
--Paris-Fès (Maroc) ;
+Paris-Fès (Maroc) ;
 
--Paris-Tanger (Maroc) ;
+Paris-Tanger (Maroc) ;
 
--Paris-Marrakech (Maroc) ;
+Paris-Marrakech (Maroc) ;
 
--Paris-Oujda (Maroc) ;
+Paris-Oujda (Maroc) ;
 
--Paris-Rabat (Maroc) ;
+Paris-Rabat (Maroc) ;
 
--Paris-New-York (Etats-Unis).
+Paris-New-York (Etats-Unis).
