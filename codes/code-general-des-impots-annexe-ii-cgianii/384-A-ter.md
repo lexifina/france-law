@@ -1,8 +1,8 @@
 # Article 384 A ter
 
-I. – L'héritier, le donataire, le légataire ou le copartageant, qui désire acquitter tout ou partie des droits de mutation ou de partage dont il est redevable par la remise d'immeubles en nature de bois et forêts ou espaces naturels pouvant être incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service de la direction générale des finances publiques compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de succession une offre de dation à l'Etat indiquant la nature, la situation et la valeur de chacun des biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
+I. - Le redevable qui désire acquitter tout ou partie des droits dus par la remise d'immeubles en nature de bois et forêts ou espaces naturels pouvant être incorporés au domaine forestier de l'Etat mentionnés à l'article 1716 bis du code général des impôts dépose une offre de dation à l'Etat, indiquant la nature, la situation et la valeur de chacun des biens qu'il envisage de remettre à l'Etat. Cette offre est déposée au service des impôts compétent pour enregistrer la déclaration de succession ou l'acte constatant la mutation à titre gratuit ou le partage, ou, s'agissant de l'impôt sur la fortune immobilière, pour recevoir la déclaration mentionnée au 1 du I de l'article 982 du code général des impôts. Il en est délivré récépissé.
 
-L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou de l'acte constatant la mutation ou le partage.
+L'offre de dation en paiement est faite dans le délai prévu pour l'enregistrement de la déclaration de succession ou de l'acte constatant la mutation à titre gratuit ou le partage ou, s'agissant de l'impôt sur la fortune immobilière, dans le délai de dépôt de la déclaration mentionnée au 1 du I de l'article 982 précité.
 
 II. – Le ministre chargé du budget adresse l'offre, accompagnée d'un avis sur la valeur libératoire proposée, au ministre chargé des forêts.
 
