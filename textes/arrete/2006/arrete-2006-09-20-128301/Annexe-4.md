@@ -160,7 +160,7 @@ Sans préjudice de l'application des dispositions réglementaires générales re
 
 1. Les matériels des catégories initiale et de base ne peuvent circuler que s'ils ont été étiquetés par l'établissement producteur dans les conditions réglementaires, au moyen des étiquettes obtenues sous le contrôle de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
-Toute livraison de matériels de ces catégories doit être accompagnée du bulletin de transport prévu à l'annexe 2 du présent arrêté.
+Toute livraison de matériels de ces catégories doit être accompagnée du document édité en fin de livraison prévu à l'article 10 du présent arrêté.
 
 2. Les établissements de sélection et les établissements de prémultiplication tiennent une comptabilité matière séparée pour les matériels de chacune des catégories initiale et de base, dans les conditions prévues par l'article R. 661-31 du code rural.
 
