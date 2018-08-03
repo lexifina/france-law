@@ -332,97 +332,65 @@ Cadmium
 
 |
 
-10
+10 |
 
-|
-
-0.015
-
-|
+0.015 |
 
 Chrome
 
 |
 
-1 000
+1 000 |
 
-|
-
-1,5
-
-|
+1,5 |
 
 Cuivre
 
 |
 
-1 000
+1 000 |
 
-|
-
-1,5
-
-|
+1,5 |
 
 Mercure
 
 |
 
-10
+10 |
 
-|
-
-0,015
-
-|
+0,015 |
 
 Nickel
 
 |
 
-200
+200 |
 
-|
-
-0,3
-
-|
+0,3 |
 
 Plomb
 
 |
 
-800
+800 |
 
-|
-
-1,5
-
-|
+1,5 |
 
 Zinc
 
 |
 
-3 000
+3 000 |
 
-|
-
-4,5
-
-|
+4,5 |
 
 Chrome + Cuivre + Nickel + Zinc
 
 |
 
-4 000
+4 000 |
 
-|
-
-6
-
-|
+6 |
 
 Tableau 1 b. - Teneurs limites en composés-traces organiques dans les déchets ou effluents
 
@@ -466,85 +434,51 @@ Total des 7 principaux PCB (*)
 
 |
 
-0,8
+0,8 |
 
-|
+0,8 |
 
-0,8
+1,2 |
 
-|
-
-1,2
-
-|
-
-1,2
-
-|
+1,2 |
 
 Fluoranthène
 
 |
 
-5
+5 |
 
-|
+4 |
 
-4
+7,5 |
 
-|
-
-7,5
-
-|
-
-6
-
-|
+6 |
 
 Benzo(b)fluoranthène
 
 |
 
-2,5
+2,5 |
 
-|
+2,5 |
 
-2,5
+4 |
 
-|
-
-4
-
-|
-
-4
-
-|
+4 |
 
 Benzo(a)pyrène
 
 |
 
-2
+2 |
 
-|
+1,5 |
 
-1,5
+3 |
 
-|
+2 |
 
-3
-
-|
-
-2
-
-|
-
-(*) PCB 28, 52, 101, 118, 138, 153, 180.
-
-|
+(*) PCB 28, 52, 101, 118, 138, 153, 180. |
 
 Tableau 2. - Valeurs limites de concentration dans les sols
 
@@ -562,57 +496,43 @@ Cadmium
 
 |
 
-2
-
-|
+2 |
 
 Chrome
 
 |
 
-150
-
-|
+150 |
 
 Cuivre
 
 |
 
-100
-
-|
+100 |
 
 Mercure
 
 |
 
-1
-
-|
+1 |
 
 Nickel
 
 |
 
-50
-
-|
+50 |
 
 Plomb
 
 |
 
-100
-
-|
+100 |
 
 Zinc
 
 |
 
-300
-
-|
+300 |
 
 Tableau 3. - Flux cumulé maximum en éléments-traces métalliques apporté par les déchets ou effluents pour les pâturages ou les sols de pH inférieurs à 6
 
@@ -624,7 +544,7 @@ FLUX CUMULÉ MAXIMUM
 
 apporté par les déchets
 
-ou effluents en 10 ans (mg/m²)
+ou effluents en 10 ans (g/m²)
 
 |
 
@@ -632,73 +552,55 @@ Cadmium
 
 |
 
-0,015
-
-|
+0,015 |
 
 Chrome
 
 |
 
-1,2
-
-|
+1,2 |
 
 Cuivre
 
 |
 
-1,2
-
-|
+1,2 |
 
 Mercure
 
 |
 
-0,012
-
-|
+0,012 |
 
 Nickel
 
 |
 
-0,3
-
-|
+0,3 |
 
 Plomb
 
 |
 
-0,9
-
-|
+0,9 |
 
 Sélénium (*)
 
 |
 
-0,12
-
-|
+0,12 |
 
 Zinc
 
 |
 
-3
-
-|
+3 |
 
 Chrome + cuivre + nickel + zinc
 
 |
 
-4
-
-|
+4 |
 
 (*) Pour le pâturage uniquement.
 
@@ -816,15 +718,11 @@ MÉTHODE ANALYTIQUE
 
 |
 
-Elément-traces métalliques
-
-|
+Elément-traces métalliques |
 
 Extraction à l'eau régale
 
-Séchage au micro-onde ou à l'étuve
-
-|
+Séchage au micro-onde ou à l'étuve |
 
 Spectrométrie d'absorption atomique ; ou
 
@@ -832,9 +730,7 @@ Spectrométrie d'émission (AES) ; ou
 
 Spectrométrie d'émission (ICP) couplée à la spectrométrie de masse ; ou
 
-Spectrométrie de fluorescence (pour Hg)
-
-|
+Spectrométrie de fluorescence (pour Hg) |
 
 Analyses sur les lixiviats :
 

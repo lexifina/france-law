@@ -46,7 +46,11 @@ Objet du contrôle :
 
 – vérification de la puissance maximale au regard de la puissance déclarée ;
 
-– vérification que la puissance maximale est inférieure au seuil maximal du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement ou que le type d'installation correspond au seuil déclaratif (le non-respect de ce point relève d'une non-conformité majeure) ;
+– vérification que la puissance maximale est inférieure au seuil maximal du régime déclaratif tel que défini à l'
+
+annexe de l'article R. 511-9 du code de l'environnement
+
+ou que le type d'installation correspond au seuil déclaratif (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 – présence de la preuve de dépôt de la déclaration ;
 
@@ -58,7 +62,11 @@ Objet du contrôle :
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
-L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les incidents ou accidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement.
+L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les incidents ou accidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'
+
+article L. 511-1 du code de l'environnement
+
+.
 
 1.6. Changement d'exploitant
 
@@ -130,7 +138,11 @@ Si le rapport fait apparaître des non-conformités aux dispositions faisant l'o
 
 – les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
 
-– l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+– l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de
+
+celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles
+
+.
 
 2. Implantation, aménagement
 
@@ -334,7 +346,11 @@ Objet du contrôle :
 
 3.6. Vérification périodique des installations électriques
 
-Les installations électriques sont entretenues en bon état et sont contrôlées après leur installation ou leur modification par une personne compétente, conformément aux dispositions de la section 5 du chapitre VI du titre II du livre II de la quatrième partie du code du travail relatives à la vérification des installations électriques.
+Les installations électriques sont entretenues en bon état et sont contrôlées après leur installation ou leur modification par une personne compétente, conformément aux
+
+dispositions de la section 5 du chapitre VI du titre II du livre II de la quatrième partie du code du travail
+
+relatives à la vérification des installations électriques.
 
 Objet du contrôle : présence d'un rapport de contrôle périodique tous les ans ou tous les deux ans si le rapport précédent ne présente aucune observation ou si, avant l'échéance, le chef d'établissement a fait réaliser les travaux de mise en conformité de nature à répondre aux observations contenues dans le rapport de vérification.
 
@@ -506,7 +522,11 @@ Si le nettoyage préventif annuel nécessite la mise à l'arrêt complet de l'in
 
 L'inspection des installations classées peut soumettre ces mesures compensatoires à l'avis d'un tiers expert.
 
-Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article R. 512-31 du code de l'environnement.
+Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'
+
+article R. 512-31 du code de l'environnement
+
+.
 
 Objet du contrôle :
 
@@ -658,11 +678,13 @@ g) Cas d'une installation pour laquelle l'arrêt immédiat de la dispersion d'ea
 
 Hors tout épisode de dépassement, l'exploitant d'une telle installation en informe le préfet, et lui soumet les mesures compensatoires qu'il propose de mettre en œuvre en cas de concentration en Legionella pneumophila supérieure à 100 000 UFC/L.
 
-Si l'installation est également concernée par l'article 26.I.2.c, les mesures compensatoires liées au nettoyage annuel et aux cas de dépassement de 100 000 UFC/L peuvent être soumises de manière conjointe.
+Si l'installation est également concernée par le point 3.7.I.2.c, les mesures compensatoires liées au nettoyage annuel et aux cas de dépassement de 100 000 UFC/L peuvent être soumises de manière conjointe.
 
 L'inspection des installations classées peut soumettre ces mesures compensatoires à l'avis d'un tiers expert.
 
-Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article R. 512-31 du code de l'environnement.
+Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article R. 512-31 du code de l'environnement
+
+.
 
 Objets du contrôle :
 
@@ -736,7 +758,11 @@ Dans les six mois suivant la mise en service d'une nouvelle installation ou un d
 
 Sont considérés comme indépendants et compétents les organismes agrées dans les conditions définies par les articles R. 512-61 à R. 512-66 du code de l'environnement, pour la rubrique n° 2921 des installations classées pour la protection de l'environnement.
 
-Ce contrôle est à la charge de l'exploitant, en vertu de l'article L. 514-8 du code de l'environnement.
+Ce contrôle est à la charge de l'exploitant, en vertu de l'
+
+article L. 514-8 du code de l'environnement
+
+.
 
 Ce contrôle comprend :
 
@@ -786,7 +812,11 @@ A l'issue de ce contrôle, l'organisme établit un rapport adressé à l'exploit
 
 Dans le cas où la vérification fait suite à un dépassement du seuil de concentration en Legionella pneumophila de 100 000 UFC/L dans l'eau du circuit, l'exploitant transmet le rapport et le planning de mise en œuvre éventuel à l'inspection des installations classées.
 
-Un contrôle périodique effectué sur l'installation en application de l'article L. 512-11 du code de l'environnement dans un délai de six mois suivant la mise en service de l'installation ou un dépassement du seuil de concentration en Legionella pneumophila de 100 000 UFC/L tient lieu de vérification.
+Un contrôle périodique effectué sur l'installation en application de l'
+
+article L. 512-11 du code de l'environnement
+
+dans un délai de six mois suivant la mise en service de l'installation ou un dépassement du seuil de concentration en Legionella pneumophila de 100 000 UFC/L tient lieu de vérification.
 
 2. Carnet de suivi
 
@@ -862,7 +892,11 @@ Cet article ne comporte pas de dispositions réglementaires.
 
 4.2. Protection des personnels
 
-Sans préjudice des dispositions du code du travail, l'exploitant met à disposition des personnels intervenant à l'intérieur ou à proximité de l'installation, des équipements de protection individuels (EPI) adaptés ou conformes aux normes en vigueur lorsqu'elles existent (masque pour aérosols biologiques, gants...), destinés à les protéger contre l'exposition :
+Sans préjudice des dispositions du
+
+code du travail
+
+, l'exploitant met à disposition des personnels intervenant à l'intérieur ou à proximité de l'installation, des équipements de protection individuels (EPI) adaptés ou conformes aux normes en vigueur lorsqu'elles existent (masque pour aérosols biologiques, gants...), destinés à les protéger contre l'exposition :
 
 – aux aérosols d'eau susceptibles de contenir des germes pathogènes ;
 
@@ -962,7 +996,11 @@ Ces mesures ou évaluations sont effectuées mensuellement et le résultat est e
 
 Dans tous les cas, les rejets doivent être compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
-Sans préjudice de l'autorisation de déversement dans le réseau public (art. L. 1331-10 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
+Sans préjudice de l'autorisation de déversement dans le réseau public (
+
+art. L. 1331-10 du code de la santé publique
+
+), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
@@ -1092,7 +1130,11 @@ Cet article ne comporte pas de dispositions réglementaires.
 
 7.1. Récupération, recyclage, élimination
 
-L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
+L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'
+
+article L. 511-1 du code de l'environnement
+
+. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
 
 7.2. Contrôles des circuits
 
@@ -1116,11 +1158,19 @@ Objet du contrôle :
 
 Les déchets non dangereux (bois, papier, verre, textile, plastique, caoutchouc, etc.) et non souillés par des produits toxiques ou polluants peuvent être récupérés, valorisés ou éliminés dans des installations autorisées.
 
-Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes (art. R. 543-66 à R. 543-72 du code de l'environnement).
+Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes (
+
+art. R. 543-66 à R. 543-72 du code de l'environnement
+
+).
 
 7.5. Déchets dangereux
 
-Les déchets dangereux doivent être éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement. Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour. L'exploitant doit émettre un bordereau de suivi dès qu'il remet ces déchets à un tiers et doit être en mesure d'en justifier l'élimination. Les documents justificatifs doivent être conservés trois ans.
+Les déchets dangereux doivent être éliminés dans des installations réglementées à cet effet au titre du
+
+code de l'environnement
+
+, dans des conditions propres à assurer la protection de l'environnement. Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour. L'exploitant doit émettre un bordereau de suivi dès qu'il remet ces déchets à un tiers et doit être en mesure d'en justifier l'élimination. Les documents justificatifs doivent être conservés trois ans.
 
 Objet du contrôle : présence d'un registre des déchets dangereux à jour.
 
@@ -1140,31 +1190,49 @@ NIVEAU DE BRUIT AMBIANT
 
 existant dans les zones à émergence réglementée
 
-(incluant le bruit de l'installation) |
+(incluant le bruit de l'installation)
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
 pour la période allant de 7 heures à 22 heures
 
-(sauf dimanches et jours fériés) |
+(sauf dimanches et jours fériés)
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
 pour la période allant de 22 heures à 7 heures
 
-(ainsi que les dimanches et jours fériés) |
+(ainsi que les dimanches et jours fériés)
 
-Supérieur à 35 et inférieur ou égal à 45 dB(A) |
+|
 
-6 dB(A) |
+Supérieur à 35 et inférieur ou égal à 45 dB(A)
 
-4 dB(A) |
+|
 
-Supérieur à 45 dB(A) |
+6 dB(A)
 
-5 dB(A) |
+|
 
-3 dB(A) |
+4 dB(A)
+
+|
+
+Supérieur à 45 dB(A)
+
+|
+
+5 dB(A)
+
+|
+
+3 dB(A)
+
+|
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne devra pas dépasser, lorsqu'elle est en fonctionnement, 70 dB(A) pour la période de jour et 60 dB(A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

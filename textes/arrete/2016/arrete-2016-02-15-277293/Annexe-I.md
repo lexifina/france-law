@@ -212,7 +212,7 @@ Quinoxyfène* |
 
 25 µg/l |
 
-Dioxines et composés de dioxines* dont certains PCDD et PCB-DF |
+Dioxines et composés de type dioxines* dont certains PCDD, PCDF et PCB-TD |
 
 - |
 

@@ -350,7 +350,7 @@ FLUX CUMULÉ MAXIMUM
 
 apporté par les déchets
 
-ou effluents en 10 ans (mg/m²) |
+ou effluents en 10 ans (g/ m2) |
 
 Cadmium |
 

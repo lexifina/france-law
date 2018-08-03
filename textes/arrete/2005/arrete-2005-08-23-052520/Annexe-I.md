@@ -110,7 +110,7 @@ Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés
 
 Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, à partir du 1er septembre 2018, la distance entre l'aire de stockage et les locaux d'habitations et les locaux des établissements recevant du public, situés en dehors du site, est portée à au moins 15 mètres, tout en respectant les distances du premier alinéa du présent point I.
 
-Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, les distances précédentes peuvent être réduites à 1 mètre si un mur REI 120, dont la hauteur excède de 0,5 mètre celle du stockage, sans être inférieure à 2 mètres, est interposé entre l'aire de stockage et les limites du site ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
+Pour les installations stockant du gaz inflammables liquéfiés en récipients à pression transportables et déclarées avant le 1er janvier 2018, les distances précédentes peuvent être réduites à 1 mètre si un mur REI 120, dont la hauteur excède de 0,5 mètre celle du stockage, sans être inférieure à 2 mètres, est interposé entre l'aire de stockage et les limites du site ; la longueur de ce mur est telle qu'une distance de 3 mètres est toujours respectée en le contournant.
 
 II.-Pour les installations stockant 6 tonnes ou plus de gaz inflammables liquéfiés en récipients à pression transportables et déclarées après le 1er janvier 2018, les aires de stockage des bouteilles métalliques sont séparées des aires de stockage des autres récipients à pression transportables.
 
@@ -968,13 +968,11 @@ Objet du contrôle :
 
 -pour les tuyauteries reliant deux réservoirs, présence de vannes permettant d'isoler chaque réservoir (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence de chapeaux éjectables sur les orifices d'échappement des soupapes dont le jet
-
-d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
-
 -pour les réservoirs aériens non cryogéniques, présence de chapeaux éjectables sur les orifices d'échappement des soupapes dont le jet d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -pour les réservoirs cryogéniques, présence d'un évent dont le jet d'échappement s'effectue de bas en haut sans rencontrer d'obstacle (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-pour les bornes de remplissage déportées, présence d'un double clapet (ou tout autre dispositif offrant une sécurité équivalente) sur l'orifice d'entrée ainsi qu'un dispositif de branchement du câble de liaison équipotentielle du véhicule ravitailleur et si la borne de remplissage est en bordure de la voie publique, présence d'un coffret en matériaux de classe A1 (justificatifs de conformité) verrouillé (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.10. Ravitaillement des réservoirs
 

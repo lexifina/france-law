@@ -46,7 +46,7 @@ Au 1er mai 2010
 
 |
 
-2 - Implantation - aménagement (sauf 2.1, 2.5, 2.7 et 2.8)
+2 - Implantation - aménagement (sauf le 2.1 à 2.5, 2.7 et 2.8)
 
 5.1 - Prélèvement d'eau
 

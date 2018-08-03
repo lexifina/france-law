@@ -96,17 +96,11 @@ Ce programme prévisionnel est tenu à la disposition de l'inspection des instal
 
 7. Sous réserve des prescriptions fixées en application du code de la santé publique, l'épandage de déchets ou d'effluents respecte les distances et délais minima suivants :
 
-NATURE DES ACTIVITÉS À PROTÉGER
+NATURE DES ACTIVITÉS À PROTÉGER |
 
-|
+DISTANCE MINIMALE |
 
-DISTANCE MINIMALE
-
-|
-
-DOMAINE D'APPLICATION
-
-|
+DOMAINE D'APPLICATION |
 
 Puits, forage, sources, aqueduc transitant des eaux destinées à la consommation humaine en écoulement libre, installations souterraines ou semi-enterrées utilisées pour le stockage des eaux, que ces dernières soient utilisées pour l'alimentation en eau potable ou pour l'arrosage des cultures maraîchères
 
@@ -186,17 +180,11 @@ En cas de déchets ou d'effluents odorants
 
 |
 
-NATURE DES ACTIVITÉS À PROTÉGER
+NATURE DES ACTIVITÉS À PROTÉGER |
 
-|
+DÉLAI MINIMUM |
 
-DÉLAI MINIMUM
-
-|
-
-DOMAINE D'APPLICATION
-
-|
+DOMAINE D'APPLICATION |
 
 Herbages ou culture fourragères
 
@@ -306,21 +294,15 @@ Point I. - Seuils en éléments-traces métalliques et en substances organiques
 
 Tableau 1-a. - Teneurs limites en éléments-traces métalliques dans les déchets ou effluents
 
-ÉLÉMENTS-TRACES MÉTALLIQUES
-
-|
+ÉLÉMENTS-TRACES MÉTALLIQUES |
 
 VALEUR LIMITE DANS LES DÉCHETS
 
-ou effluents (mg/kg MS)
-
-|
+ou effluents (mg/kg MS) |
 
 FLUX CUMULÉ MAXIMUM APPORTÉ PAR LES DÉCHETS
 
-ou effluents en dix ans (g/m²)
-
-|
+ou effluents en dix ans (g/m²) |
 
 Cadmium
 
@@ -424,31 +406,19 @@ COMPOSÉS-TRACES ORGANIQUES |
 
 VALEUR LIMITE OU EFFLUENTS
 
-dans les déchets (mg/kg MS)
-
-|
+dans les déchets (mg/kg MS) |
 
 FLUX CUMULÉ MAXIMUM APPORTÉ
 
-par les déchets ou effluents en dix ans (mg/m²)
+par les déchets ou effluents en dix ans (mg/m²) |
 
-|
+Cas général |
 
-Cas général
+Epandage sur pâturage |
 
-|
+Cas général |
 
-Epandage sur pâturage
-
-|
-
-Cas général
-
-|
-
-Epandage sur pâturage
-
-|
+Epandage sur pâturage |
 
 Total des 7 principaux PCB (*)
 
@@ -538,15 +508,11 @@ Tableau 2. - Valeurs limites de concentration dans les sols
 
 ÉLÉMENTS-TRACES
 
-dans les sols
-
-|
+dans les sols |
 
 VALEUR LIMITE
 
-(mg/kg MS)
-
-|
+(mg/kg MS) |
 
 Cadmium
 
@@ -608,17 +574,13 @@ Tableau 3. - Flux cumulé maximum en éléments-traces métalliques apporté par
 
 ÉLÉMENTS-TRACES
 
-métalliques
-
-|
+métalliques |
 
 FLUX CUMULÉ MAXIMUM
 
 apporté par les déchets ou effluents
 
-en dix ans (mg/m²)
-
-|
+en dix ans (g/m²) |
 
 Cadmium
 
@@ -688,9 +650,7 @@ Chrome + cuivre + nickel + zinc
 
 |
 
-4
-
-|
+4 |
 
 (*) Pour le pâturage uniquement.
 
@@ -794,19 +754,13 @@ Les analyses retenues peuvent être choisies parmi les listes ci-dessous, en uti
 
 Tableau 4. - Méthodes analytiques pour les éléments-traces
 
-ÉLÉMENTS
-
-|
+ÉLÉMENTS |
 
 MÉTHODE D'EXTRACTION
 
-et de préparation
+et de préparation |
 
-|
-
-MÉTHODE ANALYTIQUE
-
-|
+MÉTHODE ANALYTIQUE |
 
 Elément-traces métalliques
 

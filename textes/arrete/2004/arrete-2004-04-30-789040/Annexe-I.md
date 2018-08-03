@@ -144,7 +144,7 @@ Zinc et ses composés (en Zn) |
 
 0,8mg/l si le rejet dépasse 10 g/j |
 
-4- Autres substances dangereuses entrant dans la qualification de l'état des masses d'eau
+4 - Autres substances dangereuses entrant dans la qualification de l'état des masses d'eau
 
 Par ailleurs, pour toutes les autres substances susceptibles d'être rejetées par l'installation, les eaux résiduaires rejetées au milieu naturel respectent les valeurs limites de concentration suivantes :
 
@@ -298,7 +298,7 @@ Quinoxyfène* |
 
 25 µg/l |
 
-Dioxines et composés de dioxines* dont certains PCDD et PCB-DF |
+Dioxines et composés de type dioxines* dont certains PCDD, PCDF et PCB-TD |
 
 - |
 
