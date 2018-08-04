@@ -2,11 +2,9 @@
 
 Direction |
 
-Application des dispositions de l'arrêté
+Application des dispositions de l'arrêté à compter de la paie versée en |
 
-à compter de la paie versée en |
-
-Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte d'Or |
+Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
 
 Avril 2017 |
 
@@ -22,7 +20,15 @@ Direction régionale des finances publiques des Pays de la Loire et du départem
 
 Juin 2018 |
 
-Direction régionale des finances publiques d'Île-de-France et du département de Paris |
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord |
+
+Août 2018 |
+
+Direction régionale des finances publiques de Grand Est et du département du Bas-Rhin |
+
+Août 2018 |
+
+Direction régionale des finances publiques d'Ile-de-France et du département de Paris |
 
 Juin 2018 |
 
