@@ -158,7 +158,7 @@ Articles L. 211-2 et L. 212-2-2
 
 Arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques au titre du code de l'environnement |
 
-5 mois à compter de la délivrance de l'accréditation COFRAC à l'ONEMA |
+4 mois à compter de la réception du dossier complet |
 
 Reconnaissance, modification ou abrogation d'un droit fondé en titre |
 
