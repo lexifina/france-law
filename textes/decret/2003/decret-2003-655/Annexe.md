@@ -42,25 +42,25 @@ Sous-groupe unique : adjoints des cadres hospitaliers de classe exceptionnelle, 
 
 CORPS DE CATÉGORIE C
 
-CAP n° 7 : personnels techniques, ouvriers, conducteurs ambulanciers et personnels d'entretien et de salubrité
+CAP n° 7 : personnels de la filière ouvrière et technique
 
 Groupe unique
 
-Sous-groupe 1 : agents de maîtrise principaux, conducteurs ambulanciers hors catégorie, maîtres ouvriers principaux, dessinateurs principaux, dessinateurs chefs de groupe, agents de maîtrise, conducteurs ambulanciers de 1re catégorie, maîtres ouvriers.
+Sous-groupe 1 : agents de maîtrise principaux, agent de maîtrise, conducteurs ambulanciers principaux, dessinateurs principaux, ouvriers principaux de 1re classe, ouvriers principaux de 2e classe.
 
-Sous-groupe 2 : agents de service mortuaire et de désinfection de 1re catégorie (cadre d'extinction), dessinateurs, conducteurs ambulanciers de 2e catégorie, ouvriers professionnels qualifiés, ouvriers professionnels spécialisés, conducteurs d'automobile de 1re catégorie, agents de service mortuaire et de désinfection de 2e catégorie (cadre d'extinction), agents d'entretien qualifiés, agents des services logistiques de Mayotte.
+Sous-groupe 2 : agents d'entretien qualifiés, agents de service mortuaire et de désinfection de 1re catégorie (cadre d'extinction), dessinateurs (cadre d'extinction), conducteurs ambulanciers, agents des services logistiques de Mayotte.
 
-CAP n° 8 : personnels des services de soins, des services médico-techniques et des services sociaux
+CAP n° 8 : personnels des services de soins, des services médico techniques et des services sociaux
 
 Groupe unique
 
-Sous-groupe unique : aides-soignants de classe exceptionnelle, aides-soignants de classe supérieure, moniteurs d'atelier (cadre d'extinction), aides techniques d'électroradiologie (cadre d'extinction), aides préparateurs (cadre d'extinction), aides de laboratoire de classe supérieure (cadre d'extinction), aides de pharmacie de classe supérieure, aides d'électroradiologie de classe supérieure (cadre d'extinction), aides-soignants de classe normale, aides de laboratoire de classe normale (cadre d'extinction), aides de pharmacie de classe normale, aides techniques de laboratoire (cadre d'extinction), aides d'électroradiologie de classe normale (cadre d'extinction), agents des services hospitaliers qualifiés, aides-soignants (cadre d'extinction), adjoints d'internat (cadre d'extinction), agents des services hospitaliers (cadre d'extinction), agents des services hospitaliers de Mayotte.
+Sous-groupe unique : aides-soignants principaux, aides-soignants, moniteurs d'atelier (cadre d'extinction), aides techniques d'électroradiologie (cadre d'extinction), aides préparateurs (cadre d'extinction), aides de laboratoire de classe supérieure (cadre d'extinction), aides de pharmacie de classe supérieure, aides d'électroradiologie de classe supérieure (cadre d'extinction), aides de laboratoire de classe normale (cadre d'extinction), aides de pharmacie de classe normale, aides techniques de laboratoire (cadre d'extinction), aides d'électroradiologie de classe normale (cadre d'extinction), agents des services hospitaliers qualifiés, adjoints d'internat (cadre d'extinction), agents des services hospitaliers (cadre d'extinction), agents des services hospitaliers de Mayotte.
 
 CAP n° 9 : personnels administratifs
 
 Groupe unique
 
-Sous-groupe unique : adjoints administratifs principaux de 1re classe, permanenciers auxiliaires de régulation médicale chefs, adjoints administratifs principaux de 2e classe, permanenciers auxiliaires de régulation médicale principaux, adjoints administratifs de 1re classe, permanenciers auxiliaires de régulation médicale, adjoints administratifs de 2e classe, agents administratifs de Mayotte.
+Sous-groupe unique : adjoints administratifs principaux de 1re classe, adjoints administratifs principaux de 2e classe, adjoints administratifs, permanenciers auxiliaires de régulation médicale de 1re classe (cadre d'extinction), permanenciers auxiliaires de régulation médicale de 2e classe (cadre d'extinction), agents administratifs de Mayotte.
 
 CAP n° 10 : personnels sages-femmes
 
