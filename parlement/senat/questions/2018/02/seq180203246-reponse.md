@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203246
+
+- Question : [SEQ180203246](seq180203246.md) — Suppression de la loi Pinel dans les zones B2 et C
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-08-09, page 4146*
+
+Si, dans un souci d'efficience et d'optimisation de la dépense publique, le Gouvernement a souhaité opérer un recentrage sur les zones A et B1 du dispositif dit « Pinel » en faveur de l'investissement locatif intermédiaire, la loi de finances pour 2018 prévoit que le prêt à taux zéro (PTZ) dans l'ancien, conditionné par des travaux, soit, au contraire, ciblé sur les zones B2 et C pour promouvoir la revitalisation de villes-centre au travers de la réhabilitation de leur habitat. En outre, et afin d'accompagner le recentrage du Pinel et du prêt à taux zéro, le Gouvernement a introduit des mesures transitoires : le prêt à taux zéro dans le neuf est conservé avec une quotité à 20 % en zone B2 et C pour 2018 et 2019, et le dispositif Pinel est maintenu, dans les communes agréées des zones B2 et C, pour les acquisitions de logements ayant fait l'objet d'un dépôt de demande de permis de construire avant le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 31 décembre 2018. Par ailleurs, le Gouvernement vient de lancer le plan « Action Cœur de ville » dans le cadre duquel 222 villes moyennes, dont la commune de Laval en Mayenne, ont été sélectionnées et bénéficieront de quelques cinq milliards d'euros d'aides publiques pour revitaliser leurs centres-villes. Ce plan, auquel le Gouvernement attache une attention toute spéciale, affirme la volonté de renforcer la cohésion et l'attractivité des territoires et de donner une nouvelle place à des villes moyennes dans leurs fonctions de centralité et de rayonnement, tout en irrigant les communes rurales environnantes.
