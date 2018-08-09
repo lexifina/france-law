@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504771
+
+- Question : [SEQ180504771](seq180504771.md) — Disparités des examens universitaires
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2018-08-09, page 4175*
+
+Conformément aux engagements pris par le Président de la République, le Premier ministre et la ministre de l'enseignement supérieur, de la recherche et de l'innovation, l'année universitaire 2017/2018 n'a pas été une année blanche s'agissant de l'organisation des examens qui se sont dans leur très grande majorité tenus dans des conditions satisfaisantes permettant d'assurer un contrôle effectif des connaissances des étudiants. Seule une minorité d'établissements ont été touchés par des initiatives isolées visant à perturber des sessions d'examens. Tous ces établissements sont parvenus à surmonter les difficultés rencontrées soit en prenant des mesures spécifiques de sécurité, soit en délocalisant quelques sites d'examens soit en adaptant le format des épreuves ou en les organisant à distance. La compétence en matière d'ordre public au sein des universités appartient au président d'université à qui il revient d'adopter les mesures appropriées à cet effet et, si nécessaire, de demander l'intervention des forces de l'ordre. Le Gouvernement accompagne les établissements et a fait connaître sa fermeté face aux actes qui entravent l'organisation des examens. Chacun des présidents concernés s'est efforcé, par des mesures adéquates et proportionnées, de rétablir les conditions permettant la tenue des cours et l'organisation des examens dans les meilleures conditions. Le gouvernement entend saluer la détermination et l'esprit de responsabilité dont ils ont fait preuve. Tout a été mis en œuvre afin qu'aucun étudiant ne se trouve pénalisé dans la poursuite de ses études.
