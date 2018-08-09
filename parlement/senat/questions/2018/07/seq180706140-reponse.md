@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706140
+
+- Question : [SEQ180706140](seq180706140.md) — Lutte contre le démarchage téléphonique abusif
+
+## Réponse
+
+*Économie et finances, JO du 2018-08-09, page 4159*
+
+Entre le 17 mai et le 20 juin 2018, l'Autorité de régulation des communications électroniques et des postes (ARCEP) a mis en consultation publique un projet de décision modernisant le plan national de numérotation qui prévoit plusieurs mesures visant à lutter contre les pratiques abusives de modification de l'identification de l'appelant. La décision devrait être adoptée avant la fin du mois de septembre prochain. Dans ce projet, l'ARCEP définit les conditions à respecter pour modifier l'identifiant de l'appelant. Ainsi, le numéro de téléphone utilisé comme identifiant devrait notamment être conforme à la structure du plan national de numérotation et permettre de rappeler l'utilisateur à l'origine de l'appel. L'ARCEP prévoit également d'imposer une condition de territorialité en interdisant l'utilisation de numéros en 01-05 et 09 comme identifiant pour des appels provenant de l'international. Les démarcheurs implantés en dehors du territoire français ne pourront donc plus afficher sur le terminal des consommateurs des numéros géographiques nationaux. L'ARCEP recommande par ailleurs aux opérateurs de s'assurer que l'utilisation du numéro choisi en tant qu'identifiant d'appelant par un utilisateur final a bien été préalablement autorisée par l'affectataire. L'ARCEP demande enfin aux opérateurs qui constateraient le non-respect des conditions d'utilisation fixées dans sa décision de prendre les mesures nécessaires, notamment par la mise en place de dispositifs techniques, pour interrompre l'acheminement des appels. L'ensemble de ces mesures, si elles sont maintenues dans la décision adoptée, entreront en vigueur un an après la publication de la décision.
