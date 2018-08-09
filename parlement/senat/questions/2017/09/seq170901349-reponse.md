@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170901349
+
+- Question : [SEQ170901349](seq170901349.md) — Obligation de reprise des déchets du bâtiment par les distributeurs de matériaux
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-08-09, page 4196*
+
+L'article 93 de la loi relative à la transition énergétique pour la croissance verte prévoit qu'à compter du 1er janvier 2017, tout distributeur de matériaux, produits et équipements de construction à destination des professionnels s'organise, en lien avec les pouvoirs publics et les collectivités compétentes, pour reprendre, sur ses sites de distribution ou à proximité de ceux-ci, les déchets issus des mêmes types de matériaux, produits et équipements de construction à destination des professionnels, qu'il vend. Un décret est venu préciser en mars 2016 les modalités d'application de cet article, en particulier en ce qui concerne les distributeurs concernés par cette obligation ainsi que la distance des lieux de reprise par rapport aux lieux de distribution. Aujourd'hui, la majorité des distributeurs concernés par cette obligation ont mis en place des solutions de reprise mais le résultat n'est pas encore à la hauteur des enjeux. C'est pourquoi la feuille de route pour l'économie circulaire prévoit de revoir en profondeur le fonctionnement de la gestion des déchets du bâtiment pour rendre la collecte de ces déchets plus efficace. L'une des solutions pourrait être l'instauration d'une filière de responsabilité élargie du producteur (REP) pour les déchets du bâtiment, l'objectif étant de parvenir à la gratuité de la reprise de ces déchets et de multiplier les installations de traitement de ces déchets. Les travaux permettant d'identifier les solutions à mettre en place dans ce cadre ont débuté le 5 juin et prendront en compte les impacts techniques et économiques pour le secteur de la construction.
