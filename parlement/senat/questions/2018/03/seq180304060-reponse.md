@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304060
+
+- Question : [SEQ180304060](seq180304060.md) — Réhabilitation du métier d'herboriste
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2018-08-09, page 4172*
+
+Le diplôme d'herboriste a disparu en France depuis 1941. Les plantes médicinales sont désormais délivrées par les pharmaciens d'officine en application des articles L. 4211-1 et suivants du code de la santé publique. La réglementation permet cependant aux diplômés à la date du 20 septembre 1941 de poursuivre leur exercice jusqu'à extinction de la profession. Les enseignements liés à l'herboristerie et la prise en compte des solutions thérapeutiques qui lui sont associées sont inclus dans le référentiel de formation des études de pharmacie. Par ailleurs de nombreuses unités de formation et de recherche de pharmacie proposent une formation spécialisée en phytothérapie et aromathérapie sanctionnée par un diplôme d'établissement. Le pharmacien possède ainsi une connaissance complète des plantes médicinales touchant à la fois à leur composition, leur effet pharmacologique et leur utilisation à des fins thérapeutiques. En sa qualité de praticien de santé, le pharmacien a également les compétences nécessaires pour dispenser une médication à visée préventive ou curative, des médicaments issus des plantes, notamment dans le cadre de la médication officinale. Enfin, un diplôme d'enseignement supérieur dans le domaine réglementé de la santé n'est créé que s'il correspond à un emploi identifié par le ministère chargé de la santé, au regard des besoins en santé publique notamment. Ce diplôme doit faire l'objet de concertations et d'un travail commun entre le ministère chargé de la santé et celui chargé de l'éducation ou de l'enseignement supérieur. Dans ce contexte, il n'est pas envisagé, actuellement et conjointement avec le ministère chargé de la santé, de réintroduire le diplôme d'herboriste.
