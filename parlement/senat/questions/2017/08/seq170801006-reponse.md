@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170801006
+
+- Question : [SEQ170801006](seq170801006.md) — Situation des enseignants-chercheurs
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2018-08-09, page 4166*
+
+Les établissements d'enseignement supérieur ont bénéficié de 5 000 créations d'emplois sur la période 2013-2017, représentant en 2018 300 M€. A ces créations s'est ajoutée la dotation pérenne de 100 M€ allouée en 2017 pour accompagner les établissements face à la hausse des effectifs d'étudiants. En parallèle, les principales charges de masse salariale (hausse de la valeur du point d'indice et mise en œuvre du PPCR notamment) ont été intégralement compensées, comme l'est désormais l'exonération des frais d'inscription des étudiants titulaires d'une bourse sur critères sociaux. Ainsi, dans un contexte de redressement des comptes publics, le budget de l'enseignement supérieur a connu une progression constante de ses moyens. Cette tendance se maintient en 2018 : 50 M€ ont été alloués pour financer le glissement vieillissement-technicité des établissements autonomes et un plan de 500 M€ sur le quinquennat s'est engagé pour améliorer l'orientation et la réussite des étudiants en premier cycle, avec une enveloppe budgétaire de 35 M€ dès 2018, ce qui a permis de dréer 31 000 nouvelles places en premier cycle et a représenté la création de 350 emplois. En parallèle, ce sont 450 M€ de crédits extra-budgétaires qui viendront financer les initiatives de transformation du premier cycle universitaire dans le cadre du troisième Programme d'investissements d'avenir (2018-2022). Malgré un calendrier très contraint, le ministère a en outre veillé à ce que les établissements soient en capacité de mobiliser les moyens alloués au titre de la réforme pour renforcer leurs équipes dès la rentrée 2018.
