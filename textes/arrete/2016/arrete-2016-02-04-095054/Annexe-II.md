@@ -116,6 +116,8 @@ Pour la catégorie " chien "
 
 Agent cynophile de sécurité (EPLEFPA des Combrailles).
 
+Agent de sécurité conducteur de chien d'intervention (Centre canin de Cast).
+
 Assistant de cabinet et de clinique vétérinaires (école des Etablières).
 
 Auxiliaire spécialisé (e) vétérinaire (GIPSA, SNVEL).
