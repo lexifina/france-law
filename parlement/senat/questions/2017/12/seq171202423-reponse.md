@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202423
+
+- Question : [SEQ171202423](seq171202423.md) — Participation française à un établissement scolaire allemand accueillant des élèves frontaliers
+
+## Réponse
+
+*Éducation nationale, JO du 2018-08-09, page 4161*
+
+Les langues vivantes tiennent non seulement une place fondamentale dans la construction de la citoyenneté, dans l'enrichissement de la personnalité et dans l'ouverture au monde, mais sont également un atout dans l'insertion professionnelle des jeunes en France, comme à l'étranger. L'amélioration des compétences en langues vivantes des élèves français est l'une des priorités du ministre de l'éducation nationale qui porte une attention toute particulière à la relation franco-allemande et à l'enseignement de la langue allemande sur le territoire national. Depuis la rentrée 2017, un effort particulier a été réalisé en ce sens au niveau national. En effet, l'assouplissement de la réforme du collège a permis de réintroduire sous la forme d'un enseignement facultatif de langues et cultures européennes les sections européennes de collège qui avaient été supprimées en 2016. De plus, les ouvertures de classes bilangues ne sont désormais plus dépendantes d'une continuité avec le premier degré. Par conséquent, le nombre d'élèves en dispositif bilangue allemand/anglais est passé de 67 541 en 2016 à 80 167 à la rentrée 2017. Au niveau local, le département de la Moselle, dans le cadre de son dispositif d'enseignement approfondi de l'allemand (DEAA) propose un cursus biculturel aux élèves de collège au travers notamment d'un apprentissage renforcé de la culture et de la langue allemande dans deux disciplines non linguistiques ainsi que d'échanges et d'activités en langue allemande. D'autre part, l'académie de Nancy-Metz bénéficie de plus de 8 % de la ressource nationale enseignante en allemand, ce qui en fait l'un des plus forts taux académiques. Le ministère tient donc compte de la spécificité de cette académie.
