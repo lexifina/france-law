@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605447
+
+- Question : [SEQ180605447](seq180605447.md) — Situation du centre hospitalier du Rouvray en Seine-Maritime
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-08-09, page 4189*
+
+La situation de crise du centre hospitalier spécialisé du Rouvray a été suivie avec attention par l'Agence régionale de santé (ARS) de Normandie en lien avec le ministère des solidarités et de la santé. Entamée le mardi 5 juin par l'ARS avec les organisations syndicales, la négociation a abouti à un protocole de sortie de crise. Celui-ci prévoit la création de 30 postes, échelonnés sur 2018 et 2019. Cette création de postes sera déclinée de manière cohérente avec les travaux d'analyse précédemment menés, avec le projet régional de santé (prise en charge des publics fragiles et des adolescents, coordination sanitaire et médico-social, réhabilitation psychosociale et accompagnement des aidants, dynamique d'équipe et partage de pratiques médico-soignantes) mais également avec les projets actés pour le centre hospitalier du Rouvray. Améliorer la prise en charge psychiatrique des adolescents au sein des établissements spécialisés, une des principales revendications de l'intersyndicale, constitue une des priorités nationales. La ministre des solidarités et de la santé l'avait affirmé lors du 16ème congrès de l'Encéphale le 26 janvier 2018 en même temps qu'elle s'était engagée à ce que les budgets alloués à la psychiatrie soient préservés. L'engagement du Gouvernement pour améliorer notre modèle de prise en charge des pathologies psychiatriques est réel. Une instance nationale le comité stratégique de psychiatrie et de santé mentale présidée par la ministre des solidarités et de la santé a désormais pour mission de faire un point d'étape annuel sur les différentes actions engagées dans ce domaine.
