@@ -1,42 +1,38 @@
 # Article Annexe A
 
-Liste des départements où :
-
-- les effectifs des personnels OPA affectés en DDT (M) ou dans un service dont le siège est situé dans le département, ne permettent pas de constituer une commission consultative paritaire en DDT (M) ;
-
-- les agents sont rattachés à la commission consultative paritaire de la DREAL ou de la DRIEA suivante :
+.
 
 DÉPARTEMENT D'AFFECTATION |
 
-SERVICE AUPRÈS DUQUEL EST PLACÉE LA CCP |
+SERVICE AUPRÈS DUQUEL EST PLACÉE LA CCOPA |
 
 Ain (01) |
 
-DREAL Auvergne Rhône Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Aisne (02) |
 
-DREAL Hauts de France (HF) |
+DREAL Hauts-de-France (HF) |
 
 Allier (03) |
 
 DREAL Auvergne-Rhône-Alpes (ARA) |
 
-Alpes de Haute Provence (04) |
+Alpes-de-Haute-Provence (04) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes-Côte d'Azur (PACA) |
 
 Hautes-Alpes (05) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes-Côte d'Azur (PACA) |
 
-Alpes Maritimes (06) |
+Alpes-Maritimes (06) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes-Côte d'Azur (PACA) |
 
 Ardèche (07) |
 
-DREAL Auvergne Rhône-Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Ardennes (08) |
 
@@ -60,7 +56,7 @@ DREAL Occitanie |
 
 Bouches-du-Rhône (13) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes Côte d'Azur (PACA) |
 
 Calvados (14) |
 
@@ -68,11 +64,11 @@ DIR Nord-Ouest (DIRNO) |
 
 Cantal (15) |
 
-DREAL Auvergne Rhône-Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
-Charente (16) ) |
+Charente (16)) |
 
-DREAL Nouvelle Aquitaine (NA) |
+DREAL Nouvelle-Aquitaine (NA) |
 
 Charente-Maritime (17) |
 
@@ -80,7 +76,7 @@ DREAL Nouvelle-Aquitaine (NA) |
 
 Cher (18) |
 
-DREAL Centre Val de Loire (CVL) |
+DREAL Centre-Val de Loire (CVL) |
 
 Corrèze (19) |
 
@@ -98,13 +94,13 @@ Côte d'or (21) |
 
 DREAL Bourgogne-Franche-Comté (BFC) |
 
-Côtes d'Armor (22) |
+Côtes-d'Armor (22) |
 
 DREAL Bretagne |
 
 Creuse (23) |
 
-DREAL Nouvelle Aquitaine (NA) |
+DREAL Nouvelle-Aquitaine (NA) |
 
 Dordogne (24) |
 
@@ -122,9 +118,9 @@ Eure (27) |
 
 DIR Nord-Ouest (DIRNO) |
 
-Eure-et-Loire (28) |
+Eure-et-Loir (28) |
 
-DREAL Centre Val de Loire (CVL) |
+DREAL Centre-Val de Loire (CVL) |
 
 Finistère (29) |
 
@@ -156,35 +152,35 @@ DREAL Bretagne |
 
 Indre (36) |
 
-DREAL Centre Val de Loire (CVL) |
+DREAL Centre-Val de Loire (CVL) |
 
 Indre-et-Loire (37) |
 
-DREAL Centre Val de loire (CVL) |
+DREAL Centre-Val de loire (CVL) |
 
 Isère (38) |
 
-DREAL Auvergne Rhône Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Jura (39) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Landes (40) |
 
-DREAL Nouvelle Aquitaine (NA) |
+DREAL Nouvelle-Aquitaine (NA) |
 
 Loir-et-Cher (41) |
 
-DREAL Centre Val de Loire (CVL) |
+DREAL Centre-Val de Loire (CVL) |
 
 Loire (42) |
 
-DREAL Auvergne Rhône-Alpes |
+DREAL Auvergne-Rhône-Alpes |
 
 Haute-Loire (43) |
 
-DREAL Auvergne Rhône-Alpes |
+DREAL Auvergne-Rhône-Alpes |
 
 Loire-Atlantique (44) |
 
@@ -192,7 +188,7 @@ DREAL Pays de Loire (PL) |
 
 Loiret (45) |
 
-DREAL Centre Val de Loire (CVL) |
+DREAL Centre-Val de Loire (CVL) |
 
 Lot (46) |
 
@@ -244,15 +240,15 @@ DREAL Grand Est (GE) |
 
 Nièvre (58) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Nord (59) |
 
-DREAL Hauts de France (HF) |
+DREAL Hauts-de-France (HF) |
 
 Oise (60) |
 
-DREAL Hauts de France (HF) |
+DREAL Hauts-de-France (HF) |
 
 Orne (61) |
 
@@ -260,15 +256,15 @@ DIR Nord-Ouest (DIRNO) |
 
 Pas-de-Calais (62) |
 
-DREAL Hauts de France (HF) |
+DREAL Hauts-de-France (HF) |
 
-Puy de Dôme (63) |
+Puy-de-Dôme (63) |
 
-DREAL Auvergne Rhône-Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Pyrénées-Atlantiques (64) |
 
-DREAL Nouvelle Aquitaine (NA) |
+DREAL Nouvelle-Aquitaine (NA) |
 
 Hautes-Pyrénées (65) |
 
@@ -290,13 +286,13 @@ Rhône (69) |
 
 DREAL Auvergne-Rhône-Alpes (ARA) |
 
-Haute Saône (70) |
+Haute-Saône (70) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Saône-et-Loire (71) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Sarthe (72) |
 
@@ -304,11 +300,11 @@ DREAL Pays de Loire (PL) |
 
 Savoie (73) |
 
-DREAL Auvergne Rhône-Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Haute-Savoie (74) |
 
-DREAL Auvergne Rhône-Alpes (ARA) |
+DREAL Auvergne-Rhône-Alpes (ARA) |
 
 Paris (75) |
 
@@ -332,7 +328,7 @@ DREAL Nouvelle-Aquitaine (NA) |
 
 Somme (80) |
 
-DREAL Hauts de France (HF) |
+DREAL Hauts-de-France (HF) |
 
 Tarn (81) |
 
@@ -344,11 +340,11 @@ DREAL Occitanie |
 
 Var (83) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes-Côte d'Azur (PACA) |
 
 Vaucluse (84) |
 
-DREAL Provence Alpes Côte d'Azur (PACA) |
+DREAL Provence-Alpes-Côte d'Azur (PACA) |
 
 Vendée (85) |
 
@@ -368,25 +364,25 @@ DREAL Grand Est (GE) |
 
 Yonne (89) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Territoire de Belfort (90) |
 
-DREAL Bourgogne Franche-Comté (BFC) |
+DREAL Bourgogne-Franche-Comté (BFC) |
 
 Essonne (91) |
 
 DRIEA Ile-de-France (IDF) |
 
-Hauts de Seine (92) |
+Hauts-de-Seine (92) |
 
 DRIEA Ile-de-France (IDF) |
 
-Seine Saint-Denis (93) |
+Seine-Saint-Denis (93) |
 
 DRIEA Ile-de-France (IDF) |
 
-Val de Marne (94) |
+Val-de-Marne (94) |
 
 DRIEA Ile-de-France (IDF) |
 
