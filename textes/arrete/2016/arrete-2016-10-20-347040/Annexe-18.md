@@ -102,6 +102,8 @@ Les médecins nouvellement installés depuis moins d’un an qui ne disposent pa
 
 Les taux d’engagement du médecin sont fixés au regard de la moyenne, pondérée par les effectifs, des taux de dépassement et de la part d’activité à tarif opposable constatés pour les médecins éligibles à l’option conventionnelle à tarifaire maitrisée sur la période de référence définie à l’article 2.1 de la présente option, de la même spécialité et de la même région, à l’exception des spécialités d’anatomo-cytopathologie, de gériatrie, de médecine interne, de néphrologie, de radiothérapie, de médecine nucléaire, de chirurgie cardio-vasculaire et thoracique, de chirurgie infantile et de neurochirurgie pour lesquelles les taux nationaux sont retenus.
 
+Par dérogation ces médecins qui intègrent un groupe ou une structure dans les conditions définies ci-après dans le présent article, peuvent adhérer sur la base des taux retenus pour les membres du groupe (taux définis au regard de la moyenne des taux des médecins du groupe).
+
 Pour les médecins exerçant au sein d’un groupe ou d’une structure la même spécialité médicale et ayant une pratique tarifaire commune définie au niveau du groupe
 
 En adhérant à l’option, le praticien s’engage à respecter dans sa pratique :
@@ -247,6 +249,8 @@ A l’issue de ce délai, la caisse peut notifier au médecin la fin de son adh�
 A compter de la date de réception de ce courrier, il est mis fin aux avantages conférés par l’option définis à l’article 2.2.3 de la présente option.
 
 La caisse peut également engager à l’encontre des médecins qui n’ont pas respecté de manière manifeste les termes de leur contrat, une récupération des sommes versées dans le cadre de l’option au titre de la dernière année.
+
+En cas de résiliation de l'option par la CPAM dans les conditions définies à l'article 45.2 de la convention et au présent article, du fait du non-respect par le médecin de ses engagements, ce médecin ne pourra plus prétendre à l'adhésion d'une nouvelle option OPTAM ou OPTAM Co, pour la durée de la convention.
 
 Le praticien
 

@@ -6,11 +6,11 @@ Article 1 Procédure de sanction
 
 Article 1.1. Procédure préalable d’avertissement
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique qui constatent le non-respect par un médecin des dispositions de la convention, lui adressent un avertissement par lettre recommandée avec accusé réception. Cet avertissement doit comporter l’ensemble des anomalies reprochées au professionnel. Le médecin dispose d’un délai de trente jours à compter de la réception de cet avertissement pour modifier sa pratique. Dans le cas du non-respect de manière systématique de l’obligation de transmission électronique des documents de facturation posée à l’article L. 161-35 du code de la sécurité sociale, le médecin dispose d’un délai de quatre-vingt-dix jours à compter de cet avertissement pour modifier sa pratique.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique qui constatent le non-respect par un médecin des dispositions de la convention, lui adressent un avertissement par lettre recommandée avec accusé réception. Cet avertissement doit comporter l’ensemble des anomalies reprochées au professionnel. Le médecin dispose d’un délai de trente jours à compter de la réception de cet avertissement pour modifier sa pratique. Dans le cas du non-respect de manière systématique de l’obligation de transmission électronique des documents de facturation posée à l’article L. 161-35 du code de la sécurité sociale, le médecin dispose d’un délai de quatre-vingt-dix jours à compter de cet avertissement pour modifier sa pratique.
 
 Article 1.2. Relevé de constatation préalable à la convocation de la CPL
 
-Si, à l’issue d’un délai d’au moins trente jours ou de quatre-vingt-dix jours en cas de non-respect de manière systématique de l’obligation de transmission électronique des documents de facturation, à compter de la réception du courrier d’avertissement, il est constaté que le médecin n’a pas modifié sa pratique, le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique, communiquent le relevé des constatations au médecin concerné par lettre recommandée avec accusé de réception, avec copie aux présidents des deux sections de la CPL.
+Si, à l’issue d’un délai d’au moins trente jours ou de quatre-vingt-dix jours en cas de non-respect de manière systématique de l’obligation de transmission électronique des documents de facturation, à compter de la réception du courrier d’avertissement, il est constaté que le médecin n’a pas modifié sa pratique, les directeurs des caisses membres de l'UNCAM du même ressort géographique, communiquent le relevé des constatations au médecin concerné par lettre recommandée avec accusé de réception, avec copie aux présidents des deux sections de la CPL.
 
 La CPAM procèdera à ce même envoi et la procédure d’avertissement sera réputée effectuée si, dans un délai de trois ans suivant la réception du courrier d’avertissement, le médecin a renouvelé les mêmes faits reprochés.
 
@@ -52,9 +52,9 @@ L’avis rendu par la CPL est transmis au médecin.
 
 Article 1.4. Décision et notification de la sanction
 
-Une fois l’avis de la CPL rendu ou réputé rendu, le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique arrêtent la décision qui s’impose au médecin et sa date d’application.
+Une fois l’avis de la CPL rendu ou réputé rendu, les directeurs des caisses membres de l'UNCAM du même ressort géographique arrêtent la décision qui s’impose au médecin et sa date d’application.
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique notifient au professionnel l’éventuelle mesure prise à son encontre par lettre recommandée avec accusé de réception.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique notifient au professionnel l’éventuelle mesure prise à son encontre par lettre recommandée avec accusé de réception.
 
 Cette notification, qui doit être motivée, précise les voies et délais de recours dont dispose le médecin pour contester la décision, ainsi que sa date d’entrée en application. Celle-ci ne peut intervenir qu’après deux mois à compter de la date de notification. La décision est alors exécutoire sauf cas de recours devant la CPR ou la CPN dans les cas visés à l’article 88et dans les conditions de l’article 2 de la présente annexe.
 
@@ -146,7 +146,7 @@ A l’issue du recours consultatif devant la commission d’appel, les directeur
 
 - soit de maintenir la sanction initiale.
 
-La décision définitive est notifiée par le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique, au médecin par lettre recommandée avec accusé de réception, dans un délai de trente jours à compter de la réception de l’avis de la commission d’appel.
+La décision définitive est notifiée par les directeurs des caisses membres de l'UNCAM du même ressort géographique, au médecin par lettre recommandée avec accusé de réception, dans un délai de trente jours à compter de la réception de l’avis de la commission d’appel.
 
 Cette notification précise les voies et délais de recours dont dispose le médecin pour contester la décision devant la juridiction compétente, ainsi que la date d’application de celle-ci.
 
@@ -160,15 +160,15 @@ Le directeur général de l’UNCAM définit les principes de la sélection des 
 
 Article 3.1. Procédure préalable d’avertissement
 
-Conformément aux principes de sélection et de montants maximums définis par le directeur général de l’UNCAM, le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique qui constatent de la part d’un médecin exerçant en secteur à honoraires différents ou titulaire d’un droit à dépassement permanent, une pratique tarifaire excessive selon les critères définis à l’article 85 de la présente convention, lui adressent un avertissement par tout moyen permettant de rapporter la preuve de la date de réception. Cet avertissement doit comporter les éléments relevés par la caisse susceptibles de caractériser une pratique tarifaire excessive selon les critères définis à l’article 85 de la présente convention. Doivent être également communiquées au médecin, les valeurs moyennes des critères lui permettant de comparer sa pratique tarifaire à celle des médecins de la même spécialité au niveau national et régional et/ou départemental. Le médecin dispose d’un délai de deux mois à compter de cet avertissement pour modifier sa pratique.
+Conformément aux principes de sélection et de montants maximums définis par le directeur général de l’UNCAM, les directeurs des caisses membres de l'UNCAM du même ressort géographique qui constatent de la part d’un médecin exerçant en secteur à honoraires différents ou titulaire d’un droit à dépassement permanent, une pratique tarifaire excessive selon les critères définis à l’article 85 de la présente convention, lui adressent un avertissement par tout moyen permettant de rapporter la preuve de la date de réception. Cet avertissement doit comporter les éléments relevés par la caisse susceptibles de caractériser une pratique tarifaire excessive selon les critères définis à l’article 85 de la présente convention. Doivent être également communiquées au médecin, les valeurs moyennes des critères lui permettant de comparer sa pratique tarifaire à celle des médecins de la même spécialité au niveau national et régional et/ou départemental. Le médecin dispose d’un délai de deux mois à compter de cet avertissement pour modifier sa pratique.
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique ne peuvent concurremment recourir à une autre procédure visant à sanctionner les mêmes faits à l’exception de la mise en œuvre des dispositions prévues au dernier alinéa de l’article 3.3 de la présente annexe.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique ne peuvent concurremment recourir à une autre procédure visant à sanctionner les mêmes faits à l’exception de la mise en œuvre des dispositions prévues au dernier alinéa de l’article 3.3 de la présente annexe.
 
 Article 3.2. Relevé de constatation préalable à la convocation de la commission paritaire régionale (CPR)
 
-Si, à l’issue d’un délai de deux mois à compter de la réception du courrier d’avertissement, il est constaté que le médecin n’a pas modifié sa pratique tarifaire, le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique, communiquent le relevé des constatations au médecin concerné par tout moyen permettant de rapporter la preuve de la date de réception, avec copie adressée aux présidents des deux sections de la CPR et de la CPL.
+Si, à l’issue d’un délai de deux mois à compter de la réception du courrier d’avertissement, il est constaté que le médecin n’a pas modifié sa pratique tarifaire, les directeurs des caisses membres de l'UNCAM du même ressort géographique, communiquent le relevé des constatations au médecin concerné par tout moyen permettant de rapporter la preuve de la date de réception, avec copie adressée aux présidents des deux sections de la CPR et de la CPL.
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique procèderont à ce même envoi et la procédure d’avertissement sera réputée effectuée si, dans un délai de trois ans suivant la réception du courrier d’avertissement le médecin a renouvelé les mêmes faits reprochés.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique procèderont à ce même envoi et la procédure d’avertissement sera réputée effectuée si, dans un délai de trois ans suivant la réception du courrier d’avertissement le médecin a renouvelé les mêmes faits reprochés.
 
 Le relevé des constatations détaille les éléments susceptibles de caractériser une pratique tarifaire excessive selon les critères définis à l’article 85 de la présente convention. Doivent être également communiquées au médecin, les valeurs moyennes des critères lui permettant de comparer sa pratique tarifaire à celle des médecins de la même spécialité au niveau national et régional et/ou départemental. Le relevé expose également les sanctions encourues et précise les délais de réponse et la possibilité d’entretien et de transmission d’observations écrites prévus aux alinéas suivants.
 
@@ -192,9 +192,9 @@ Sans préjudice du déroulement de la procédure décrite dans la présente anne
 
 Article 3.4. Décision et notification de la sanction
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique préparent leur décision qui ne peut excéder les sanctions envisagées par la CPR et qui s’impose au médecin avec sa date d’application.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique préparent leur décision qui ne peut excéder les sanctions envisagées par la CPR et qui s’impose au médecin avec sa date d’application.
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique notifient cette décision au professionnel, par tout moyen permettant de rapporter la preuve de la date de réception. Il adresse simultanément copie de la décision aux présidents de la CPL et de la CPR.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique notifient cette décision au professionnel, par tout moyen permettant de rapporter la preuve de la date de réception. Il adresse simultanément copie de la décision aux présidents de la CPL et de la CPR.
 
 Cette décision, qui doit être motivée, précise les voies et délais de recours dont dispose le médecin pour contester la décision, ainsi que sa date d’entrée en application. Celle-ci ne peut intervenir qu’après deux mois à compter de la date de notification. La décision est alors exécutoire sauf cas de recours devant la commission paritaire nationale (CPN) dans les conditions définies ci-après.
 
@@ -214,9 +214,9 @@ La commission se prononce en principe sur pièces. Toutefois, le médecin peut d
 
 La CPN se réunit en formation restreinte sans le représentant de l’UNOCAM. La CPN émet en séance un avis sur la décision à prendre. L’avis émis sur la pratique tarifaire excessive des médecins à honoraires différents ou titulaires d’un droit à dépassement permanent est motivé par l’analyse des éléments cités à l’article 85 de la convention ainsi que le non-respect éventuel des dispositions législatives et réglementaires.
 
-Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique prennent une décision, qui, lorsque l’avis de la CPN leur est transmis, ne peut excéder les sanctions envisagées par celle-ci. A défaut d’avis émis par la CPN, cette règle ne s’applique pas.
+Les directeurs des caisses membres de l'UNCAM du même ressort géographique prennent une décision, qui, lorsque l’avis de la CPN leur est transmis, ne peut excéder les sanctions envisagées par celle-ci. A défaut d’avis émis par la CPN, cette règle ne s’applique pas.
 
-Cette décision est communiquée aux Présidents des CPN, CPR et CPL et au Président du CNOM. Le directeur de la CPAM et les directeurs de chacun des organismes des autres régimes membres de l’UNCAM du même ressort géographique notifient au professionnel, la mesure prise à son encontre, par tout moyen permettant de rapporter la preuve de la date de réception. Ils joignent à cette notification l’avis de la CPN.
+Cette décision est communiquée aux Présidents des CPN, CPR et CPL et au Président du CNOM. Les directeurs des caisses membres de l'UNCAM du même ressort géographique notifient au professionnel, la mesure prise à son encontre, par tout moyen permettant de rapporter la preuve de la date de réception. Ils joignent à cette notification l’avis de la CPN.
 
 Cette décision qui doit être motivée, précise les voies et délais de recours dont dispose le médecin pour contester la décision, ainsi que sa date d’entrée en application. Celle-ci ne peut intervenir qu’après 15 jours à compter de la date de la décision. La décision est alors exécutoire.
 

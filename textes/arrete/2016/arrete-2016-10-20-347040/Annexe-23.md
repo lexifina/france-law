@@ -34,13 +34,7 @@ Les sièges de la section professionnelle sont répartis par accord entre les or
 
 En l’absence d’accord, les sièges sont répartis entre les organisations syndicales représentatives signataires de la présente convention sur la base des derniers résultats nationaux aux élections aux Unions Régionales de Professionnels de Santé mentionnées aux articles L 4031-1 à L 4031-7 du code de la santé publique, en utilisant le quotient électoral constitué par le nombre de voix exprimées recueillies nationalement, divisé par le nombre de siège à pourvoir, la répartition des restes s'effectuant au plus fort reste et chaque organisation syndicale reconnue représentative signataire de la présente convention étant assurée de disposer d'au moins un siège.
 
-La section sociale est composée de 12 représentants titulaires de l'assurance maladie :
-
-- Régime général : 3 administratifs, 3 conseillers, 2 médecins conseils.
-
-- Régime agricole : 2 représentants, dont un médecin conseil.
-
-- Régime social des indépendants : 2 représentants, dont un médecin conseil.
+La section sociale est composée de 12 représentants titulaires de l'UNCAM.
 
 Pour la CPN, siège également en formation plénière, avec voix délibérative, 1 représentant de l’Union Nationale des Organismes d’Assurance Maladie Complémentaire. Dans cette configuration de formation plénière, le Président de la section Professionnelle dispose de 2 voix afin d’assurer la parité entre les sections.
 
@@ -88,7 +82,7 @@ Dans les cas d’examen par la CPN d’un recours consultatif formé auprès d�
 
 Règles particulière pour " la formation médecins ".
 
-Les douze médecins de la section professionnelle disposent chacun d’une voix.
+Les douze médecins de la section professionnelle disposent chacun d'une voix et les quatre médecins de la section sociale disposent chacun de trois voix.
 
 Pour la section sociale, les deux médecins conseils du régime général disposent de quatre voix chacun, le médecin conseil du régime agricole et celui du régime social des indépendants disposent chacun de deux voix.
 

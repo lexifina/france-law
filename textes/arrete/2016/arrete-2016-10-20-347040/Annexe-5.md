@@ -130,7 +130,7 @@ L’Agence Régionale de Santé peut accorder aux médecins adhérant au présen
 
 Ces majorations ne peuvent pas excéder de 20% le montant des rémunérations prévues dans le présent article.
 
-Cette dérogation ne bénéficie au maximum à 20% des médecins éligibles dans la région à ce type d’aide démographique.
+Cette dérogation peut être accordée au maximum dans 20 % des zones définies comme caractérisées par une insuffisance de l'offre de soins au sens du présent article.
 
 Pour les médecins faisant l’objet d’une majoration des rémunérations dans les conditions définies ci-dessus, le niveau des rémunérations tenant compte de la ou des majoration(s) est précisé dans le contrat.
 

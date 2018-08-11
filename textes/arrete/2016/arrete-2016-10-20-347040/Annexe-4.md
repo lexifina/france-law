@@ -106,7 +106,7 @@ L’ARS peut accorder une majoration de l’aide à l’activité pour les méde
 
 - [où les besoins en implantation de professionnels de santé ne sont pas satisfaits définies conformément au cinquième alinéa de l’article L. 1434-7 du code de la santé publique dans sa rédaction antérieure à la loi n°2016-41 du 26 janvier 2016 de modernisation de notre système de santé].
 
-Cette majoration ne peut excéder 20% du montant de l’aide à l’activité prévue dans le présent article. Cette dérogation bénéficie au maximum à 20% des médecins éligibles dans la région à ce type d’aide démographique.
+Cette majoration ne peut excéder 20% du montant de l’aide à l’activité prévue dans le présent article. Cette dérogation peut être accordée au maximum dans 20 % des zones définies comme caractérisées par une insuffisance de l'offre de soins au sens du présent article.
 
 Pour les médecins faisant l’objet d’une majoration de l’aide à l’activité, le niveau de l’aide à l’activité tenant compte de la majoration est précisé dans le contrat.
 

@@ -8,7 +8,7 @@ Les majorations d’actes spécifiques applicables aux actes réalisés par les 
 
 Visite à domicile |
 
-Consultation |
+Consultation ou Téléconsultation |
 
 Majoration spécifique de nuit 20 heures à 0 heures et de 6 heures à 8 heures……… |
 

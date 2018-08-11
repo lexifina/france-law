@@ -50,7 +50,7 @@ Article 1 Champ du contrat d’installation
 
 Article 1.1 Objet du contrat d’installation
 
-Ce contrat vise à favoriser l’installation et le maintien des médecins dans les [zones prévues au 1° de l’article L. 1434-4 du code de santé publique définies par l’agence régionale de santé et caractérisées par une insuffisance de l’offre de soins et par des difficultés d’accès aux soins] [zones où les besoins en implantation de professionnels de santé ne sont pas satisfaits définies conformément au cinquième alinéa de l’article L. 1434-7 du code de la santé publique dans sa rédaction antérieure à la loi n°2016-41 du 26 janvier 2016 de modernisation de notre système de santé] par la mise en place d’une aide forfaitaire versée au moment de l’installation du médecin dans les zones précitées pour l’accompagner dans cette période de fort investissement généré par le début d’activité en exercice libéral (locaux, équipements, charges diverses, etc.).
+Ce contrat vise à favoriser l'installation des médecins dans les [zones prévues au 1° de l'article L. 1434-4 du code de santé publique définies par l'agence régionale de santé et caractérisées par une insuffisance de l'offre de soins et par des difficultés d'accès aux soins] [zones où les besoins en implantation de professionnels de santé ne sont pas satisfaits définies conformément au cinquième alinéa de l'article L. 1434-7 du code de la santé publique dans sa rédaction antérieure à la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé] par la mise en place d'une aide forfaitaire versée au moment de l'installation du médecin dans les zones précitées, qu'il s'agisse d'une première ou d'une nouvelle installation en libéral, pour l'accompagner dans cette période de fort investissement généré par le début d'activité en exercice libéral (locaux, équipements, charges diverses, etc.).
 
 Article 1.2 Bénéficiaires du contrat d’installation
 
@@ -96,7 +96,7 @@ Les médecins concernés s’engagent à remplir les conditions d’éligibilit�
 
 dans un délai de deux ans suivant la signature du contrat.
 
-Cette dérogation bénéficie au maximum à 20 % des installations éligibles dans la région au sens du présent article.
+Cette dérogation peut être accordée au maximum dans 20 % des zones définies comme caractérisées par une insuffisance de l'offre de soins au sens du présent article.
 
 Article 2 Engagements des parties dans le contrat d’installation
 
@@ -140,7 +140,7 @@ L’Agence Régionale de Santé peut accorder une majoration de cette aide forfa
 
 - [où les besoins en implantation de professionnels de santé ne sont pas satisfaits définies conformément au cinquième alinéa de l’article L. 1434-7 du code de la santé publique dans sa rédaction antérieure à la loi n°2016-41 du 26 janvier 2016 de modernisation de notre système de santé].
 
-Cette majoration ne peut excéder 20% du montant de l’aide forfaitaire prévue au présent article (hors majoration liée à l’engagement optionnel sur l’activité dans les hôpitaux de proximité). Cette dérogation de l’aide forfaitaire bénéficie au maximum à 20% des installations éligibles dans la région au sens de l’article 1.2.
+Cette majoration ne peut excéder 20% du montant de l’aide forfaitaire prévue au présent article (hors majoration liée à l’engagement optionnel sur l’activité dans les hôpitaux de proximité). Cette dérogation peut être accordée au maximum dans 20 % des zones définies comme caractérisées par une insuffisance de l'offre de soins au sens du présent article.
 
 Pour les médecins faisant l’objet d’une majoration de la rémunération forfaitaire, le montant de l’aide forfaitaire tenant compte de la majoration est précisé dans le contrat.
 
