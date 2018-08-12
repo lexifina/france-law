@@ -44,7 +44,7 @@ Ces opérations sont réalisées sous la surveillance effective et permanente d'
 
 Tout stagiaire présent dans un centre au titre du présent point présente, sur demande des services de l'Etat, sa convention de stage et, le cas échéant, son justificatif de statut de contrôleur stagiaire.
 
-B. 1. 3 Qualification acquise dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen
+B. 1.3. Qualification acquise dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen
 
 Le candidat justifie d'une formation préalable sanctionnée par un certificat reconnu par l'Etat d'origine ou jugée pleinement valable par un organisme professionnel compétent et d'une expérience de trois années consécutives, au cours des dix années précédentes, en tant que contrôleur technique des véhicules lourds.
 
@@ -104,6 +104,8 @@ C. 2.1.2. Le contrôleur justifie d'un complément de formation d'au moins 7 heu
 
 C. 2.1.3. Le contrôleur justifie de la réalisation d'au moins 50 contrôles techniques périodiques de véhicules de transports en commun de personnes par année civile.
 
+Lorsque la qualification est accordée en cours d'année, le nombre de contrôles techniques périodiques de véhicules de transports en commun de personnes à réaliser correspondant à cette année est porté à 5 par mois à partir du mois qui suit la qualification.
+
 C. 2.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports en commun de personnes au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports en commun de personnes, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
 C. 2.2. Non-respect des conditions relatives au maintien de qualification Q2
@@ -120,7 +122,9 @@ C. 3.1.1. Le contrôleur justifie du maintien de sa qualification relative au co
 
 C. 3.1.2. Le contrôleur justifie d'un complément de formation d'au moins 7 heures pour le contrôle technique des véhicules de marchandises dangereuses par année civile. Ce complément de formation comporte un module technique général, d'une durée minimale de 3 heures, dont le référentiel est défini au plus tard le 1er juillet de l'année précédente par le ministre chargé des transports.
 
-C. 3.1.3. Le contrôleur justifie de la réalisation d'au moins 35 contrôles techniques périodiques de véhicules de marchandises dangereuses de personnes par année civile.
+C. 3.1.3. Le contrôleur justifie de la réalisation d'au moins 35 contrôles techniques périodiques de véhicules de transports de marchandises dangereuses par année civile.
+
+Lorsque la qualification est accordée en cours d'année, le nombre de contrôles techniques périodiques de véhicules de transports de marchandises dangereuses à réaliser correspondant à cette année est porté à 3 par mois à partir du mois qui suit la qualification.
 
 C. 3.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports de marchandises dangereuses au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports de marchandises dangereuses, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
@@ -148,7 +152,7 @@ D. 1.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur s
 
 - à un examen pratique favorable, portant sur un contrôle technique réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
 D. 2. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports en commun de personnes (Q2)
 
@@ -166,7 +170,7 @@ D. 2.4. La reprise d'activité du contrôleur est assujettie :
 
 - à un examen pratique favorable, portant sur un contrôle technique d'un véhicule de transports en commun de personnes réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
 D. 3. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports de marchandises dangereuses (Q3)
 
@@ -184,7 +188,7 @@ D. 3.4. La reprise d'activité du contrôleur est assujettie :
 
 - à un examen pratique favorable, portant sur un contrôle technique d'un véhicule de transports marchandises dangereuses réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
-L'évaluation des connaissances et l'examen pratique sont réalisés par le réseau de rattachement ou par un organisme d'audit agréé.
+L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
 E. - Qualification des exploitants
 

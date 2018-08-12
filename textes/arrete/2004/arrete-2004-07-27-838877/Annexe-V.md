@@ -96,7 +96,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 6.1.4. Une comptabilité d'exploitation où seront relevées notamment, en les distinguant, les différents types de contrôles effectués par catégorie de véhicules et propriétaires des véhicules contrôlés.
 
-6.1.5. Des statistiques d'activité au minimum journalière précisant par catégorie de véhicules le nombre total et par contrôleur de visites techniques périodiques et le nombre total et par contrôleur de contre-visites.
+6.1.5. Des statistiques d'activité au minimum journalière précisant par catégorie de véhicules le nombre total et par contrôleur de contrôles techniques périodiques et le nombre total et par contrôleur de contre-visites.
 
 6.1.6. Des statistiques d'activité au minimum mensuelle précisant par contrôleur le taux de refus comparés aux taux nationaux.
 

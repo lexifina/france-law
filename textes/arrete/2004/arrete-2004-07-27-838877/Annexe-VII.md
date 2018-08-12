@@ -174,13 +174,11 @@ b) Un plan de situation permettant d'identifier l'emprise immobilière et la zon
 
 c) Un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et indiquant l'emplacement des matériels de contrôle ;
 
-d) (supprimé)
+d) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe ;
 
 e) Les procédures prévues au paragraphe 1.2 de l'annexe V du présent arrêté ;
 
 f) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
-
-g) L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 5. Les références techniques permettant d'apprécier l'expérience du demandeur dans le domaine du contrôle technique.
 
@@ -354,7 +352,7 @@ Qualification initiale :
 
 (Indiquer clairement et sans abréviation, dans l'ordre chronologique : la formation suivie, l'établissement fréquenté, les références de l'approbation du programme, la durée et les dates correspondantes.)
 
-Maintien de la qualification :
+Maintien de la qualification et/ ou remise à niveau :
 
 1) ............................................................................................................
 
@@ -542,7 +540,9 @@ Je m'engage :
 
 - (pour les centres non rattachés à un réseau), à signer avec l'organisme technique central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
-- à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
+- à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle ;
+
+- à informer dans les plus brefs délais le préfet de toute modification visée au paragraphe IV du chapitre Ier de l'annexe VII de l'arrêté du 27 juillet 2004 relatif au contrôle technique des véhicules lourds.
 
 Je déclare (pour les centres non rattachés à un réseau) :
 
@@ -624,7 +624,7 @@ Si l'installation était déjà en activité avant sa demande d'agrément, indiq
 
 -le numéro et la date du dernier agrément obtenu :
 
--le nombre de visites réalisées par an au cours des trois dernières années :
+-le nombre de contrôles réalisés par an au cours des trois dernières années :
 
 Observations éventuelles
 

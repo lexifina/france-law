@@ -26,9 +26,9 @@ Ce rapport expose notamment :
 
 1. Le nombre de centres spécialisés.
 
-3. Le volume d'activité par catégorie de véhicules (nombre de visites techniques périodiques et nombre de contre-visites, taux de refus).
+3. Le volume d'activité par catégorie de véhicules (nombre de contrôles techniques périodiques et nombre de contre-visites, taux de refus).
 
-4. Le nombre moyen de visites techniques périodiques et de contre-visites par contrôleur.
+4. Le nombre moyen de contrôles techniques périodiques et de contre-visites par contrôleur.
 
 5. Le bilan des formations et des actions correctives mises en place suite à une perte de qualification.
 
@@ -68,7 +68,7 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 2.2.10. Gestion et archivage des procès-verbaux de contrôle technique.
 
-2.2.11. Organisation et déroulement des visites techniques.
+2.2.11. Organisation et déroulement des contrôles techniques.
 
 2.2.14. Gestion de la base documentaire des textes réglementaires et de leurs évolutions.
 
@@ -92,7 +92,7 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 3.2.2. Le réseau traite et dresse tous états relatifs, notamment :
 
-- au nombre de contrôles effectués par contrôleur, en distinguant les visites et les contre-visites ainsi que le nom des propriétaires des véhicules contrôlés ;
+- au nombre de contrôles effectués par contrôleur, en distinguant les contrôles techniques périodiques et les contre-visites ainsi que le nom des propriétaires des véhicules contrôlés ;
 
 - à la nature et à la gravité des défauts relevés, par type de véhicule, et / ou par contrôleur, et / ou par centre de contrôle, etc.
 
