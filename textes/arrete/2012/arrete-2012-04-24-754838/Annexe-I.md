@@ -50,10 +50,6 @@ Mél :
 
 |
 
-Examen par la Commission nationale des formations aux soins d'urgence en situation sanitaire normale et exceptionnelle :
-
-Séance du
-
 Fiche signalétique du CESU
 
 Date de création :
@@ -898,9 +894,7 @@ QUANTITÉ
 
 |
 
-Matériel de simulation avec accessoires et consommables
-
-|
+Matériel de simulation avec accessoires et consommables |
 
 Mannequin adulte avec écran de contrôle :
 
@@ -918,15 +912,11 @@ Casque intégral motard
 
 Lit hospitalier
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériel d'urgence avec tous les consommables
-
-|
+Matériel d'urgence avec tous les consommables |
 
 Valise ou chariot d'urgence complet avec matériel de soin
 
@@ -944,41 +934,29 @@ Masques haute concentration
 
 Appareil d'aspiration électrique
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériel de simulation de défibrillation
-
-|
+Matériel de simulation de défibrillation |
 
 DAE automatique et semi-automatique
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériel de surveillance
-
-|
+Matériel de surveillance |
 
 Appareil de mesure de pression artérielle
 
 Oxymètre de pouls
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériel d'immobilisation et de contention
-
-|
+Matériel d'immobilisation et de contention |
 
 Colliers cervicaux multitailles
 
@@ -986,27 +964,19 @@ Attelles de membre
 
 Matelas à dépression
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériel de relevage
-
-|
+Matériel de relevage |
 
 Brancard allant au sol
 
-Autres :
+Autres : |
 
 |
 
-|
-
-Matériels et équipements de protection individuelle (EPI) face à un risque collectif
-
-|
+Matériels et équipements de protection individuelle (EPI) face à un risque collectif |
 
 Protection cutanée :
 
@@ -1038,9 +1008,7 @@ Protection respiratoire :
 
 - demi-masques FFP2 ou 3
 
-- autres :
-
-|
+- autres : |
 
 |
 
@@ -1066,9 +1034,7 @@ Divers :
 
 - gants poudreurs
 
-- autres :
-
-|
+- autres : |
 
 |
 

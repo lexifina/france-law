@@ -278,9 +278,7 @@ UE 2.2 :
 
 Encadrement et évaluation de l'UE 2 :
 
-1. L'encadrement et l'évaluation de l'UE 2.1 sont assurés par des enseignants des CESU habilités par la Commission nationale mentionnée à l'article D. 6311-17 du code de la santé publique.
-
-Pour être habilités, ces enseignants doivent remplir les conditions suivantes :
+1. L'encadrement et l'évaluation de l'UE 2.1 sont assurés par des enseignants des CESU habilités par le responsable médical du centre d'enseignement des soins d'urgence et qui remplissent les conditions suivantes :
 
 - être titulaire d'un diplôme universitaire de pédagogie ;
 
@@ -289,10 +287,6 @@ Pour être habilités, ces enseignants doivent remplir les conditions suivantes 
 L'équipe d'encadrement de cette unité d'enseignement comprend au moins un médecin répondant à ces critères.
 
 Le suivi de cette unité d'enseignement donne lieu à la délivrance d'une attestation de suivi de formation par le médecin responsable du CESU où la formation s'est déroulée.
-
-Les personnes qui désirent être habilités pour l'encadrement de cette unité d'enseignement doivent, sous couvert du médecin responsable du CESU, adresser leur candidature à la Commission nationale en joignant une lettre de motivation, un curriculum vitae ainsi que les diplômes et attestations précédemment cités.
-
-La liste des personnes habilitées est actualisée lors de la première réunion de chaque année civile de la Commission nationale.
 
 2. Les séminaires de l'UE 2.2 sont choisis par le stagiaire parmi l'offre de formation des organismes de formation professionnelle continue déclarés conformément aux articles L. 6351-1 et suivants du code du travail.
 

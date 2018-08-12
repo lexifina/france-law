@@ -6,7 +6,7 @@ Attestation d'habilitation pour la formation
 
 aux gestes et soins d'urgence
 
-Vu l'arrêté du 3 mars 2006 relatif à l'attestation de formation aux gestes et soins d'urgence,
+Vu l'arrêté du 30 décembre 2014 relatif à l'attestation de formation aux gestes et soins d'urgence,
 
 M.
 
@@ -26,7 +26,7 @@ Attestation de formation aux gestes
 
 et soins d'urgence de niveau 1
 
-Vu l'arrêté du 3 mars 2006 relatif à l'attestation de formation aux gestes et soins d'urgence,
+Vu l'arrêté du 30 décembre 2014 relatif à l'attestation de formation aux gestes et soins d'urgence,
 
 L'attestation de formation aux gestes et soins d'urgence de niveau 1 est délivrée à :
 
@@ -50,7 +50,7 @@ Attestation de formation aux gestes
 
 et soins d'urgence de niveau 2
 
-Vu l'arrêté du 3 mars 2006 relatif à l'attestation de formation aux gestes et soins d'urgence,
+Vu l'arrêté du 30 décembre 2014 relatif à l'attestation de formation aux gestes et soins d'urgence,
 
 L'attestation de formation aux gestes et soins d'urgence de niveau 2 est délivrée à :
 
@@ -74,7 +74,7 @@ Attestation de formation spécialisée aux gestes et soins d'urgence
 
 face à une situation sanitaire exceptionnelle
 
-Vu l'arrêté du 3 mars 2006 relatif à l'attestation de formation aux gestes et soins d'urgence,
+Vu l'arrêté du 30 décembre 2014 relatif à l'attestation de formation aux gestes et soins d'urgence,
 
 L'attestation de formation spécialisée aux gestes et soins d'urgence face à une situation sanitaire exceptionnelle est délivrée à :
 

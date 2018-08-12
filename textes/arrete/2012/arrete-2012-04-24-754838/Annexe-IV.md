@@ -18,7 +18,7 @@ Les différents articles de la convention doivent définir :
 
 - d'apporter aide et conseil aux CESU membres, le cas échéant ;
 
-- de diffuser aux CESU membres du réseau les informations et recommandations émises par la Commission nationale des formations aux soins d'urgence en situation sanitaire normale et exceptionnelle et d'assurer le relais entre les CESU et cette commission ;
+- de diffuser aux CESU membres du réseau les informations et orientations définies par l'arrêté du ministre chargé de la santé mentionné à l'article D. 6311-23 du code de la santé publique ;
 
 - de favoriser le développement de la recherche en pédagogie appliquée aux gestes et soins d'urgence ;
 
