@@ -18,7 +18,7 @@ Annexe à l'arrêté du relatif aux prescriptions générales applicables aux in
 
 1.0.2. Champ d'application :
 
-a) Les articles 1.1,1.2,1.3,1.4,1.5,1.6,1.7,2.2,2.4.1,2.4.2,2.5,2.7,3.1,3.4,3.6,4.2,5.7,7.5,9.1. s'appliquent aux ateliers de charge des batteries industrielles ainsi qu'aux ateliers de charge de batteries de véhicules électriques (lors de l'opération de charge dite normale).
+a) Les articles 1.1,1.2,1.3,1.4,1.5,1.6,1.7,2.2,2.4.1,2.4.2,2.5,2.7,3.1,3.4,3.6,4.2,5.7,7.5,9.1. s'appliquent aux ateliers de charge des batteries industrielles ainsi qu'aux ateliers de charge de batteries de véhicules électriques (lors de l'opération de charge dite normale), à l'exception des installations visées par l'arrêté du 3 août 2018 relatif aux prescriptions générales applicables aux ateliers de charge contenant au moins 10 véhicules de transport en commun de catégorie M2 ou M3 fonctionnant grâce à l'énergie électrique et soumis à déclaration sous la rubrique n° 2925 de la nomenclature des installations classées pour la protection de l'environnement.
 
 b) Les articles 2.1,2.6,2.8,2.9,3.2,4.1,4.3,4.4,4.5,4.6,4.7,4.8,4.9,5.1,5.2,5.3,5.6,5.8,7.1,7.2,7.3,7.4,8.1,8.2,8.3,9.2. ne s'appliquent qu'aux ateliers de charge de batteries industrielles.
 
