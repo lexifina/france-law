@@ -6,7 +6,11 @@ ATTESTATION DE COMPÉTENCE DE PREMIÈRE FORMATION POUR LA MISE À DISPOSITION DU
 
 Organisme de formation
 
-Cachet original : |
+Cachet original :
+
+Numéro de certification :
+
+|
 
 Candidat
 

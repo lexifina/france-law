@@ -6,7 +6,11 @@ ATTESTATION DE COMPÉTENCE DE FORMATION DE RENOUVELLEMENT POUR LA MISE À DISPOS
 
 Organisme de formation
 
-Cachet original : |
+Cachet original :
+
+Numéro de certification :
+
+|
 
 Candidat
 
