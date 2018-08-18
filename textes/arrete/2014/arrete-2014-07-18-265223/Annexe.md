@@ -272,7 +272,7 @@ Titulaires |
 
 3 |
 
-1 |
+2 |
 
 Suppléants |
 
@@ -280,7 +280,7 @@ Suppléants |
 
 3 |
 
-1 |
+2 |
 
 CAP locale commune compétente à l'égard des corps des adjoints des services techniques de l'intérieur et de l'outre-mer et des contremaîtres des services techniques du matériel du ministère de l'intérieur placée auprès du directeur des ressources humaines du secrétariat général du ministère de l'intérieur |
 
