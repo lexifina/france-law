@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404687
+
+- Question : [SEQ180404687](seq180404687.md) — Annonce de suppression de la desserte de Lille par les trains Thalys
+
+## Réponse
+
+*Transports, JO du 2018-08-23, page 4417*
+
+La principale raison d'être de Thalys est de développer une mobilité internationale de longue distance entre les Pays-Bas, l'Allemagne, la Belgique et la France. Avec un parc de 26 rames pour parcourir tous les jours ces quatre pays, l'enjeu majeur auquel est confronté Thalys est d'optimiser son offre par rapport aux besoins. La réorganisation de son plan de transport pour l'exercice 2019 s'inscrit dans ce cadre. En ce qui concerne la liaison directe Lille-Amsterdam, Thalys constate une chute régulière de la fréquentation depuis son ouverture en avril 2014, avec 22 % de voyageurs en moins par rapport à 2015. Malgré une politique tarifaire incitative (80 % de petits prix au départ de Lille contre 30 % en moyenne sur l'ensemble des liaisons du réseau Thalys), la demande reste très faible sur cette liaison (taux d'occupation moyen des trains de 25 %). Face à cette situation, Thalys a décidé de ne pas renouveler cette offre de transport en 2019. En parallèle, les liaisons entre Lille et Amsterdam avec correspondance (en gare de Bruxelles-Midi) présentent un réel intérêt pour les voyageurs, notamment en raison de fréquences plus adaptées à leurs besoins (en moyenne 15 liaisons entre Lille et Bruxelles, puis 14 entre Bruxelles et Amsterdam), incluant la possibilité d'aller-retours dans la journée. De plus, grâce aux correspondances bien organisées, les temps de parcours restent sensiblement identiques, avec un temps total compris entre 2h30 et 3h (selon les horaires) contre 2h35 par la liaison directe. Les liaisons ferroviaires entre les Pays-Bas et la France relèvent de relations internationales et tout opérateur intéressé peut proposer un service de transport de voyageurs entre ces territoires.
