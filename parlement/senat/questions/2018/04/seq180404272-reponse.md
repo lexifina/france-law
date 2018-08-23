@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404272
+
+- Question : [SEQ180404272](seq180404272.md) — Compteur Linky et augmentation des coûts
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-08-23, page 4409*
+
+La directive de 2009 sur le marché intérieur de l'électricité fixe des objectifs ambitieux de déploiement de compteurs communicants, visant à équiper 80 % des foyers de tels dispositifs d'ici à 2020. À la suite d'une phase d'expérimentation portant sur le déploiement de 300 000 compteurs dans les régions de Tours et de Lyon, la Commission de régulation de l'énergie a procédé en 2011 à une évaluation favorable du dispositif. Les Pouvoirs Publics ont donc décidé de procéder à la généralisation du déploiement des compteurs communicants sur l'ensemble du territoire national avec le déploiement de 36 millions de compteurs prévu entre 2016 et 2021. Plus de 11 millions de compteurs étaient installés mi-2018, soit environ un tiers du programme et environ 30 000 compteurs sont installés ch Les modalités techniques de comptage des compteurs communicants sont identiques à celles des précédents compteurs. Elles sont précisément encadrées par l'arrêté du 4 janvier 2012 relatif aux dispositifs de comptage sur les réseaux publics d'électricité. Enfin, lorsqu'une augmentation inexpliquée de la consommation est observée, il convient d'en analyser les causes précisément. À ce titre, le fournisseur d'énergie constitue le premier interlocuteur et doit être en mesure d'apporter des premiers éléments sur la consommation observée. La saisonnalité des consommations peut notamment expliquer des factures plus élevées en hiver, le compteur communicant permettant de facturer les consommations réelles tous les deux mois. Dans le cas où aucune explication ne pourrait être trouvée, le consommateur peut faire appel au gestionnaire de réseau, via son fournisseur, afin qu'il inspecte le dispositif de comptage et détecte d'éventuels dysfonctionnements.
