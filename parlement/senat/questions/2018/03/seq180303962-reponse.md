@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303962
+
+- Question : [SEQ180303962](seq180303962.md) — Communauté de communes gestionnaire de fait
+
+## Réponse
+
+*Intérieur, JO du 2018-08-23, page 4359*
+
+Les établissements publics de coopération intercommunale, comme tous les établissements publics sont régis par les principes de spécialité, fonctionnelle et territoriale, et d'exclusivité. Les établissements publics de coopération intercommunale, parmi lesquels les communautés de communes, ne peuvent donc intervenir que dans le champ des compétences qui leur ont été transférées par leurs membres ou déléguées. En vertu des dispositions de l'article L. 5214-16-1 du code général des collectivités territoriales, les communautés de communes peuvent également être amenées à réaliser des prestations de service, dans le prolongement de leurs compétences et de manière marginale, au profit de leurs communes membres, de communes extérieures, d'autres collectivités et de tout autre établissement public. En outre, une communauté de communes peut dans le cadre de la gestion d'un service commun créé dans les conditions prévues par l'article L. 5211-4-2 du code général des collectivités territoriales participer à la gestion d'un équipement ne se rattachant pas strictement à l'une de ses compétences statutaires. La circonstance qu'une communauté de communes exploiterait un équipement en dehors de son champ de compétences ne permet pas de qualifier la communauté de communes de gestionnaire de fait au sens des dispositions du XI de l'article 60 de la loi de finances n° 63-156 du 23 février 1963. Par ailleurs, aucune disposition du code général des collectivités territoriales ne prévoit la reconnaissance d'une situation de gestion de fait dans l'hypothèse où une communauté de communes exploiterait un équipement en dehors de son champ de compétences, et ce indépendamment de la légalité des actes ainsi édictés.
