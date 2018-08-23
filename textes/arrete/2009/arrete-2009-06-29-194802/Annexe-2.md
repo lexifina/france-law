@@ -2,152 +2,76 @@
 
 GRILLE DE NOTATION DE LA SCOLARITÉ DES ÉLÈVES GARDIENS DE LA PAIX À COMPTER DE LA 237E PROMOTION
 
-INTITULÉ
+INTITULÉ |
 
-|
+POINTS |
 
-POINTS
+Tout au long de la scolarité |
 
-|
+Evaluation informatique |
 
-Tout au long de la scolarité
+50 |
 
-|
+Comportement |
 
-Evaluation informatique
+100 |
 
-|
+Tout au long de la scolarité |
 
-50
+Développement de la condition physique opérationnelle/ Evaluation cardio police |
 
-|
+40 |
 
-Comportement
+Evaluation armement |
 
-|
+70 |
 
-100
+Evaluation tir 1 |
 
-|
+120 |
 
-Séquence A
+Evaluation tir 2 |
 
-|
+70 |
 
-Développement de la condition physique opérationnelle/ Evaluation cardio police
+Evaluation TDI 1 |
 
-|
+20 |
 
-40
+Evaluation sur les fondamentaux |
 
-|
+100 |
 
-Evaluation armement
+Contrôle national écrit NR 1 |
 
-|
+100 |
 
-70
+Contrôle national écrit NR 2 |
 
-|
+100 |
 
-Evaluation tir 1
+Tout au long de la scolarité |
 
-|
+Développement de la condition physique opérationnelle/ Evaluation parcours police |
 
-120
+80 |
 
-|
+Evaluation TDI 2 |
 
-Evaluation tir 2
+150 |
 
-|
+Evaluation tir 3 |
 
-70
+100 |
 
-|
+Contrôle national écrit NR 3 |
 
-Evaluation TDI 1
+200 |
 
-|
+Contrôle national de simulation |
 
-20
+200 |
 
-|
-
-Evaluation sur les fondamentaux
-
-|
-
-100
-
-|
-
-Contrôle national écrit NR 1
-
-|
-
-100
-
-|
-
-Contrôle national écrit NR 2
-
-|
-
-100
-
-|
-
-Séquence C
-
-|
-
-Développement de la condition physique opérationnelle/ Evaluation parcours police
-
-|
-
-80
-
-|
-
-Evaluation TDI 2
-
-|
-
-150
-
-|
-
-Evaluation tir 3
-
-|
-
-100
-
-|
-
-Contrôle national écrit NR 3
-
-|
-
-200
-
-|
-
-Contrôle national de simulation
-
-|
-
-200
-
-|
-
-Total des points
-
-|
+Total des points |
 
 1 500 |
-
-NOTA :
-
-Conformément aux dispositions de l'article 12 de l'arrêté du 29 février 2016, les présentes dispositions entrent en vigueur à compter de la 237e promotion des élèves gardiens de la paix de la police nationale.
