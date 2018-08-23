@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605947
+
+- Question : [SEQ180605947](seq180605947.md) — Voie routière très dégradée
+
+## Réponse
+
+*Intérieur, JO du 2018-08-23, page 4367*
+
+L'entretien des chemins ruraux n'est pas inscrit au nombre des dépenses obligatoires de la commune, contrairement à celui des voies communales qui figure parmi les dépenses obligatoires mises à la charge des communes, conformément aux dispositions du 20° de l'article L. 2321-2 du code général des collectivités territoriales (CGCT). Toutefois, depuis l'arrêt du Conseil d'État Ville de Carcassonne du 20 novembre 1964, la responsabilité de la commune peut être engagée pour défaut d'entretien normal dès lors que ladite commune a effectué des travaux destinés à assurer ou à améliorer la viabilité de ce chemin et a ainsi accepté d'en assurer l'entretien. Outre la mise en œuvre de l'article L. 161-5 du code rural et de la pêche maritime qui lui permet d'assurer la police et la conservation des chemins ruraux, le maire dispose d'un pouvoir de police de la circulation, au titre de l'article L. 2213-1 du CGCT, qu'il exerce sur les voies de communication à l'intérieur des agglomérations et sur les voies communales à l'extérieur de celles-ci. L'article L. 2212-2 du même code prévoit que le maire dispose sur le territoire de la commune du pouvoir de police administrative générale qui comprend notamment (au 1°) « Tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques ». En application de ces dispositions, il lui appartient donc de prendre toutes les mesures nécessaires pour signaler d'éventuels dangers sur les voies, notamment en réduisant la vitesse maximale autorisée ou en apposant une signalisation particulière. Son inaction est susceptible d'engager la responsabilité de la commune.
