@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605730
+
+- Question : [SEQ180605730](seq180605730.md) — Protection sociale complémentaire et inégalités entre secteurs public et privé
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-08-23, page 4275*
+
+L'article 22 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ouvre la possibilité aux employeurs publics de participer, à titre facultatif, au financement de la protection sociale complémentaire (PSC) de leurs agents. Dans la fonction publique territoriale, le dispositif de PSC a été instauré par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents et ses quatre arrêtés d'application du même jour. Ce cadre juridique permet aux collectivités de verser une aide financière à leurs agents qui souscrivent à des contrats ou règlements en matière de santé et en prévoyance au moyen de deux procédures distinctes de participation financière : le conventionnement ou la labellisation. Le Conseil supérieur de la fonction publique territoriale a présenté, en 2017, un rapport dressant un premier bilan de la mise en œuvre de ce dispositif, assorti de propositions d'amélioration. Le thème de la protection sociale complémentaire est inscrit à l'ordre du jour de l'agenda social pour 2018. Celui-ci fait d'ailleurs l'objet d'une mission confiée à l'Inspection générale des finances, l'Inspection générale de l'administration et l'Inspection générale des affaires sociales aux fins d'établir un diagnostic sur les trois versants de la fonction publique ainsi que des recommandations dans la perspective d'une meilleure prise en charge. Ce thème pourra également être abordé dans le cadre de la conférence nationale des territoires, à l'initiative des employeurs territoriaux.
