@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404370
+
+- Question : [SEQ180404370](seq180404370.md) — Décharge de Septèmes-les-Vallons
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-08-23, page 4409*
+
+L'installation de stockage de déchets, située sur le territoire de la commune de Septèmes-les-Vallons, comme toute installation de stockage de déchets non dangereux (ISDND), fait l'objet d'un suivi régulier par les services déconcentrés de l'État, ici le préfet des Bouches du Rhône et la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) Provence-Alpes-Côte d'Azur. Elle est autorisée à recevoir des déchets jusqu'en mars 2022, et son plan de réaménagement est déjà encadré par arrêté préfectoral. Si le principe d'une limitation de la durée d'autorisation d'exploiter est applicable à toute installation de stockage de déchets non inertes, il n'exclut pas le dépôt par l'exploitant d'un nouveau dossier de demande d'autorisation environnementale. Un tel dossier n'a pas été déposé en préfecture à ce jour mais est effectivement annoncé par l'exploitant. Si tel était le cas, le préfet des Bouches-du-Rhône serait tenu de l'instruire, en prenant en compte les risques et nuisances environnementales (dont les questions de sécurité routière, les risques d'incendie et les pressions sur les milieux naturels). La décision préfectorale (d'autorisation ou de refus) devra, par ailleurs, être compatible avec le plan de prévention et de gestion des déchets en vigueur à la date de cette décision. Étant donné l'avancement du projet de plan régional de prévention et de gestion des déchets et la durée de la procédure d'autorisation environnementale, c'est le plan régional qui constituerait alors la référence, en remplacement du plan départemental des Bouches du Rhône actuellement en vigueur.
