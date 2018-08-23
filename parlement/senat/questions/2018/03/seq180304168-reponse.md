@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304168
+
+- Question : [SEQ180304168](seq180304168.md) — Pérennité des contrats de plan État-régions
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-08-23, page 4290*
+
+Les contrats de plan État-région (CPER) sont l'instrument privilégié du partenariat entre l'État et les régions, mais également les collectivités infrarégionales qui sont largement associées à leur élaboration. Leur phase de négociation est l'occasion d'une réflexion stratégique, traduite par la définition d'orientations partagées et la programmation d'opérations structurantes pour le développement et l'aménagement des territoires. Leur caractère pluriannuel offre un cadre de stabilité et de visibilité à l'ensemble des acteurs concernés, qui y sont tous très attachés. Le Président de la République a souhaité mettre en place une nouvelle instance de dialogue avec les collectivités au travers de la Conférence nationale des territoires (CNT). Dans ce cadre, une réflexion est en cours sur l'amélioration de la lisibilité et de l'efficacité de la contractualisation État-collectivités. Elle traite en particulier des CPER. La conception des futurs CPER devra prendre en compte le résultat de ces travaux. Les régions ont connu plusieurs évolutions importantes suite aux dernières lois de réforme territoriale, avec de nouveaux périmètres, un renforcement de leur rôle en matière de développement économique et d'aménagement du territoire, la compétence d'élaboration des schémas régionaux d'aménagement, de développement durable et d'égalité des territoires (SRADDET) et la gestion des fonds structurels européens. La future génération de CPER post-2020 s'inscrira dans ce nouveau contexte, dans lequel il est plus que jamais nécessaire que l'État et les régions renforcent l'articulation de leurs stratégies et de leurs moyens au profit de la cohésion des territoires.
