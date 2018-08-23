@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605621
+
+- Question : [SEQ180605621](seq180605621.md) — Calcul de la redevance d'occupation du domaine public
+
+## Réponse
+
+*Intérieur, JO du 2018-08-23, page 4386*
+
+Les modalités de calcul de la redevance d'occupation du domaine public (RODP) tant pour les ouvrages des réseaux publics de transport et de distribution d'énergie électrique que pour ceux de distribution de gaz sont effectivement différentes. S'agissant de la distribution et du transport d'électricité, le plafond de la redevance (PR) est établi en appliquant les formules de calcul prévues à l'article R. 2333-105 du code général des collectivités territoriales (CGCT), qui prennent en compte des strates de population « où P représente la population sans double compte de la commune telle qu'elle résulte du dernier recensement publié par l'Institut national de la statistique et des études économiques (INSEE) » selon les termes dudit article. Pour la distribution et le transport de gaz, le plafond de la redevance est calculé indépendamment de la taille de la collectivité bénéficiaire, selon la formule unique fixée à l'article R. 2333-114 du CGCT. Les RODP électricité et gaz ont fait l'objet d'une revalorisation relativement récente de leurs montants. Celle-ci a été instaurée, pour la première, par le décret n° 2002-409 du 26 mars 2002 et, pour la seconde, par le décret n° 2007-606 du 25 avril 2007. A l'époque de la préparation de ce dernier décret, il semble que l'option d'une formule de calcul des montants de redevance en fonction des strates de population, comme c'est le cas pour la RODP électricité, n'a pas été retenue car elle présentait l'inconvénient d'aboutir à des ressauts de taux qui auraient été difficilement justifiables. Au regard de la réglementation actuelle, il n'est pas envisagé de modifier la formule de calcul de la RODP électricité pour l'aligner sur celle de la RODP gaz.
