@@ -24,60 +24,54 @@ Cette unité d'enseignement peut faire appel à des outils de formation ouverte 
 
 4. Qualification des formateurs
 
-La formation à cette unité d'enseignement est dispensée par une équipe pédagogique dont la composition est arrêtée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
+La formation à cette unité d'enseignement est dispensée par une équipe pédagogique dont la composition est fixée par l'autorité d'emploi assurant la formation.
 
-Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de "formateur de formateurs" ainsi que du certificat de compétences de "conception et encadrement de formation".
+Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
+
+Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de “formateur de formateurs”, du certificat de compétence de “conception et encadrement de formation” et à jour des dispositions réglementaires de maintien des acquis et de formation continue s'y rapportant.
 
 5. Encadrement de la formation
 
-Le nombre d'apprenants par session de formation est compris entre 6 et 24 inclus.
+Le nombre d'apprenants par session de formation est compris entre 6 et 18 inclus.
 
-Le taux d'encadrement est proportionnel au nombre d'apprenants. En tout état de cause, il ne peut être inférieur, pour les phases d'enseignement présentiel, aux minima figurant dans le tableau ci-dessous :
+Les taux d'encadrement sont proportionnels au nombre d'apprenants. En tout état de cause, ils ne peuvent être inférieurs aux taux figurant dans les tableaux ci-dessous, pour les phases d'enseignement présentiel :
 
-NOMBRE D'APPRENANTS
+FORMATION INITIALE |
 
-|
+NOMBRE D'APPRENANTS : |
 
-6 à 8
+6 à 12 |
 
-|
+13 à 18 |
 
-9 à 16
+ÉQUIPE PÉDAGOGIQUE |
 
-|
+Responsable pédagogique : |
 
-17 à 24
+1 |
 
-|
+1 |
 
-Equipe pédagogique
+Formateur (s) : |
 
-|
+1 |
 
-Responsable pédagogique
+2 |
 
-|
+TOTAL ENCADREMENT : |
 
-1
+2 |
 
-|
+3 |
 
-Formateur(s)
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
+Au-delà de 18 apprenants, une nouvelle session de formation doit être ouverte.
 
 6. Condition d'admission en formation
 
-Cette unité d'enseignement est accessible à toute personne détenant un certificat de compétences de pédagogie appliquée à un emploi et à jour des dispositions réglementaires de maintien des acquis et de formation continue s'y rapportant.
+Cette unité d'enseignement est accessible à toute personne majeure détenant un certificat de compétences “formateur de formateurs” et à jour des obligations de maintien des acquis et de formation continue s'y rapportant à la date d'entrée en formation.
+
+7. Dispositions particulières
+
+Les titulaires d'un certificat de “formateur de formateurs sauveteur secouriste du travail”, délivré sous le contrôle de la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS), sont titulaires, par équivalence, de l'unité d'enseignement “conception et encadrement d'une action de formation”.
+
+Les titulaires du diplôme de “concepteur de formation” délivré conformément aux dispositions de l'arrêté du 4 octobre 2017 susvisé sont titulaires, par équivalence, de l'unité d'enseignement “conception et encadrement d'une action de formation”.
