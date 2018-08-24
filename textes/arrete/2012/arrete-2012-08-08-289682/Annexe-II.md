@@ -14,74 +14,34 @@ Les associations ou délégations départementales doivent mettre en œuvre le r
 
 La formation à cette unité d'enseignement peut être délivrée concomitamment à une ou plusieurs unités d'enseignements de pédagogie appliquée à un emploi.
 
-3. Durée de formation.
+3. Durée de la formation.
 
-Aucun volume horaire spécifique n'est défini pour l'acquisition des compétences liées à cette unité d'enseignement.
+La durée minimale de formation est fixée à vingt et une heures pour l'acquisition des compétences liées à cette unité d'enseignement.
 
 4. Qualification des formateurs.
 
-La formation à cette unité d'enseignement est dispensée par une équipe pédagogique dont la composition est fixée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
+La formation à cette unité d'enseignement est dispensée par une équipe pédagogique dont la composition est fixée par l'autorité d'emploi assurant la formation.
 
-Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de pédagogie appliquée à l'emploi de formateur de formateurs .
+Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
 
-Le responsable pédagogique doit être également détenteur du certificat de compétences conception et encadrement de formation .
+Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de “formateur de formateurs” et à jour des dispositions réglementaires de maintien des acquis et de formation continue s'y rapportant.
+
+Le responsable pédagogique doit être également détenteur du certificat de compétences de “conception et encadrement d'une action de formation”.
 
 5. Encadrement de la formation.
 
-Le nombre d'apprenants par session de formation est compris entre six et vingt-quatre.
+Le nombre d'apprenants par session de formation est compris entre 5 et 10 inclus pour a minima un responsable pédagogique.
 
-Le taux d'encadrement est proportionnel au nombre d'apprenants. En tout état de cause, il ne peut être inférieur, pour les phases d'enseignement présentiel, aux minima figurant dans le tableau ci-dessous :
+Au-delà de 10 apprenants, une nouvelle session de formation doit être ouverte.
 
-NOMBRE D'APPRENANTS
-
-|
-
-6 À 8
-
-|
-
-9 À 16
-
-|
-
-17 À 24
-
-|
-
-Equipe pédagogique
-
-|
-
-Responsable pédagogique
-
-|
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Formateur(s)
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
+Lorsque cette unité d'enseignement est réalisée concomitamment à l'unité d'enseignement “pédagogie appliquée à l'emploi de formateur de premiers secours” ou à celle de “pédagogie appliquée à l'emploi de formateur en prévention et secours civiques”, le taux d'encadrement applicable est celui prévu par les dispositions des arrêtés relatifs à ces unités d'enseignement.
 
 6. Condition d'admission en formation.
 
 Cette unité d'enseignement est accessible à toute personne majeure.
+
+7. Dispositions particulières.
+
+Les titulaires d'un certificat de “formateur sauveteur secouriste du travail”, délivré sous le contrôle de la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS), sont titulaires, par équivalence, de l'unité d'enseignement “pédagogie initiale et commune de formateur”.
+
+Les titulaires du diplôme de “formateur-accompagnateur” délivré conformément aux dispositions de l'arrêté du 4 octobre 2017 susvisé sont titulaires, par équivalence, de l'unité d'enseignement “pédagogie initiale et commune de formateur”.
