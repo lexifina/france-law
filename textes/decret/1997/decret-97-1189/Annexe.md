@@ -727,3 +727,11 @@ Décret n° 2018-367 du 18 mai 2018 relatif au diplôme national des métiers d'
 Autorisation d'ouverture des formations conduisant au diplôme national des métiers d'art et du design. |
 
 Article R. 642-40 |
+
+Décret n° 2018-733 du 22 août 2018 relatif aux formations et diplômes du travail social
+
+1 |
+
+Autorisation d'ouverture des formations conduisant aux diplômes du travail social conférant le grade de licence. |
+
+Article R. 451-28-3 |
