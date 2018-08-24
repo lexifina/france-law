@@ -36,33 +36,69 @@ L'unité d'enseignement premiers secours en équipe de niveau 2 est dispensée p
 
 Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de formateur aux premiers secours et satisfaire aux dispositions de l'arrêté du 24 mai 2000 susvisé.
 
-5. Encadrement de la formation.
+5. Encadrement de la formation :
 
-Le nombre d'apprenants par session de formation est compris entre 6 et 24 inclus.
+Le nombre d'apprenants par session de formation est compris entre 6 et 18 inclus.
 
-Le taux d'encadrement est proportionnel au nombre d'apprenants. En tout état de cause, il ne peut être inférieur aux minima figurant dans le tableau ci-dessous, pour les phases d'enseignement présentiel :
+Les taux d'encadrement sont proportionnels au nombre d'apprenants. En tout état de cause, ils ne peuvent être inférieurs aux taux figurant dans les tableaux ci-dessous, pour les phases d'enseignement présentiel :
 
-NOMBRE D'APPRENANTS |
+FORMATION INITIALE |
 
-6 À 8 |
+NOMBRE D'APPRENANTS : |
 
-9 À 16 |
+6 à 12 |
 
-17 À 24 |
+13 à 18 |
 
-Equipe pédagogique |
+ÉQUIPE PÉDAGOGIQUE |
 
-Responsable pédagogique |
+Responsable pédagogique : |
 
 1 |
 
-Formateur(s) |
+1 |
+
+Formateur (s) : |
 
 1 |
 
 2 |
 
+TOTAL ENCADREMENT : |
+
+2 |
+
 3 |
+
+FORMATION CONTINUE |
+
+NOMBRE D'APPRENANTS : |
+
+6 à 12 |
+
+13 à 18 |
+
+ÉQUIPE PÉDAGOGIQUE |
+
+Responsable pédagogique : |
+
+1 |
+
+1 |
+
+Formateur (s) : |
+
+0 |
+
+1 |
+
+TOTAL ENCADREMENT : |
+
+1 |
+
+2 |
+
+Au-delà de 18 apprenants, en formation initiale comme en formation continue, une nouvelle session de formation doit être ouverte.
 
 6. Condition d'admission en formation.
 
