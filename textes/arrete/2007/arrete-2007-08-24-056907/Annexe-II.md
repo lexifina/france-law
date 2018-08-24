@@ -4,15 +4,15 @@ RÉFÉRENTIEL DE FORMATION RELATIF À L'UNITÉ D'ENSEIGNEMENT PREMIERS SECOURS E
 
 1. Organismes de formation.
 
-En sus des dispositions de l'arrêté du 8 juillet 1992 modifié susvisé, seuls peuvent être autorisés à délivrer la formation relative à l'unité d'enseignement "premiers secours en équipe de niveau 1", sous réserve de se conformer aux dispositions ci-après :
+En sus des dispositions de l'arrêté du 8 juillet 1992 modifié susvisé, seuls peuvent être autorisés à délivrer la formation relative à l'unité d'enseignement " premiers secours en équipe de niveau 1 ", sous réserve de se conformer aux dispositions ci-après :
 
-- les institutions, les organismes publics, les organismes de professionnels qui concourent à l'exécution du service public et à l'accomplissement de mission de sécurité civile ;
+-les institutions, les organismes publics, les organismes de professionnels qui concourent à l'exécution du service public et à l'accomplissement de mission de sécurité civile ;
 
-- les organismes de formation agréés appartenant à une des deux catégories définies ci-dessous :
+-les organismes de formation agréés appartenant à une des deux catégories définies ci-dessous :
 
-- services publics effectuant des missions de secours à personnes ;
+-services publics effectuant des missions de secours à personnes ;
 
-- associations disposant d'un agrément national de sécurité civile pour les missions de type A (secours à personnes) ou de type D (dispositifs prévisionnels de secours).
+-associations disposant d'un agrément national de sécurité civile pour les missions de type A (secours à personnes) ou de type D (dispositifs prévisionnels de secours).
 
 2. Organisation de la formation.
 
@@ -26,43 +26,79 @@ L'enseignement dispensé peut comporter des apports de connaissances théoriques
 
 3. Durée de formation.
 
-L'unité d'enseignement "premiers secours en équipe de niveau 1" (PSE 1), lorsqu'elle est dispensée en présentiel, est fixée à une durée minimale de trente-cinq heures.
+L'unité d'enseignement " premiers secours en équipe de niveau 1 " (PSE 1), lorsqu'elle est dispensée en présentiel, est fixée à une durée minimale de trente-cinq heures.
 
 Cette unité d'enseignement peut faire appel à des outils de formation ouverte accessible à distance permettant de minorer la durée de formation présentielle. Toutefois, l'usage de ces outils est limité aux séquences d'apports de connaissances.
 
 4. Qualification des formateurs.
 
-L'unité d'enseignement "premiers secours en équipe de niveau 1" est dispensée par une équipe pédagogique dont la composition est arrêtée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
+L'unité d'enseignement " premiers secours en équipe de niveau 1 " est dispensée par une équipe pédagogique dont la composition est arrêtée par l'autorité d'emploi assurant la formation. Cette équipe pédagogique est composée de formateurs, dont l'un est désigné comme responsable pédagogique.
 
 Chaque membre de l'équipe pédagogique doit être détenteur du certificat de compétences de formateur aux premiers secours et satisfaire aux dispositions de l'arrêté du 24 mai 2000 susvisé.
 
-5. Encadrement de la formation.
+5. Encadrement de la formation :
 
-Le nombre d'apprenants par session de formation est compris entre 6 et 24 inclus.
+Le nombre d'apprenants par session de formation est compris entre 6 et 18 inclus.
 
-Le taux d'encadrement est proportionnel au nombre d'apprenants. En tout état de cause, il ne peut être inférieur aux minima figurant dans le tableau ci-dessous, pour les phases d'enseignement présentiel :
+Les taux d'encadrement sont proportionnels au nombre d'apprenants. En tout état de cause, ils ne peuvent être inférieurs aux taux figurant dans les tableaux ci-dessous, pour les phases d'enseignement présentiel :
 
-NOMBRE D'APPRENANTS |
+FORMATION INITIALE |
 
-6 À 8 |
+NOMBRE D'APPRENANTS : |
 
-9 À 16 |
+6 à 12 |
 
-17 À 24 |
+13 à 18 |
 
-Equipe pédagogique |
+ÉQUIPE PÉDAGOGIQUE |
 
-Responsable pédagogique |
+Responsable pédagogique : |
 
 1 |
 
-Formateur(s) |
+1 |
+
+Formateur (s) : |
 
 1 |
 
 2 |
 
+TOTAL ENCADREMENT : |
+
+2 |
+
 3 |
+
+FORMATION CONTINUE |
+
+NOMBRE D'APPRENANTS : |
+
+6 à 12 |
+
+13 à 18 |
+
+ÉQUIPE PÉDAGOGIQUE |
+
+Responsable pédagogique : |
+
+1 |
+
+1 |
+
+Formateur (s) : |
+
+0 |
+
+1 |
+
+TOTAL ENCADREMENT : |
+
+1 |
+
+2 |
+
+Au-delà de 18 apprenants, en formation initiale comme en formation continue, une nouvelle session de formation doit être ouverte.
 
 6. Condition d'admission en formation.
 
