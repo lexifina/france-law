@@ -90,9 +90,7 @@ Master production végétale et industrie agroalimentaire, délivré par l'unive
 
 Master en viticulture, œnologie, économie, gestion viti-vinicole délivré par SupAgro Montpellier.
 
-Diplômes d'ingénieur délivrés par des écoles
-
-ayant changé de dénomination
+Diplômes d'ingénieur délivrés par des écoles ayant changé de dénomination
 
 Les diplômes d'ingénieurs délivrés par des écoles sous leur ancienne ou nouvelle dénomination sont à prendre en compte. Elles sont reprises dans le tableau suivant :
 
@@ -166,35 +164,35 @@ L'Institut polytechnique LaSalle Beauvais
 
 Diplômes d'ingénieur délivrés par :
 
-― l'Institut supérieur technique d'outre-mer ;
+– l'Institut supérieur technique d'outre-mer ;
 
-― l'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg ;
+– l'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg ;
 
-― l'Ecole nationale supérieure agronomique de Toulouse ;
+– l'Ecole nationale supérieure agronomique de Toulouse ;
 
-― l'Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy ;
+– l'Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy ;
 
-― l'Ecole nationale supérieure d'horticulture de Versailles ;
+– l'Ecole nationale supérieure d'horticulture de Versailles ;
 
-― l'Ecole nationale supérieure du paysage de Versailles ;
+– l'Ecole nationale supérieure du paysage de Versailles ;
 
-― l'Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
+– l'Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
 
-― l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand ;
+– l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand ;
 
-― l'Institut supérieur d'agriculture de Lille ;
+– l'Institut supérieur d'agriculture de Lille ;
 
-― l'Ecole supérieure d'agriculture d'Angers ;
+– l'Ecole supérieure d'agriculture d'Angers ;
 
-― l'Ecole supérieure d'ingénieurs et de techniciens pour l'agriculture (Rouen) ;
+– l'Ecole supérieure d'ingénieurs et de techniciens pour l'agriculture (Rouen) ;
 
-― l'Institut des hautes études de droit rural et d'économie agricole (Levallois-Perret) ;
+– l'Institut des hautes études de droit rural et d'économie agricole (Levallois-Perret) ;
 
-― l'Institut supérieur d'agriculture de Rhône-Alpes.
+– l'Institut supérieur d'agriculture de Rhône-Alpes.
 
-2. Titres et certificats enregistrés au répertoire national
+2. Titres et certificats enregistrés au répertoire national des certifications professionnelles (RNCP)
 
-des certifications professionnelles (RNCP)
+Master Domaine Droit, Economie, Gestion - Mention Droit des affaires - Parcours 1 : Droit de la vigne et du vin (niveau I), délivré par l'université de Bordeaux.
 
 Conseiller en droit rural et économie agricole (niveau II), délivré par l'Institut des hautes études de droit rural et d'économie agricole (IHEDREA).
 
