@@ -48,12 +48,14 @@ Pour les volailles abattues dans une tuerie située sur l'exploitation, en vue d
 
 Le détenteur consigne par ailleurs de façon chronologique :
 
-- tout résultat d'analyse obtenu en vue d'apprécier la situation sanitaire des animaux ou de l'exploitation ;
+– tout résultat d'analyse obtenu en vue d'apprécier la situation sanitaire des animaux ou de l'exploitation ;
 
-- tout compte rendu de visite ou bilans sanitaires établis par un intervenant visé à l'article 9 de l'arrêté ;
+– tout compte rendu de visite ou bilans sanitaires établis par un intervenant visé à l'article 9 de l'arrêté ;
 
-- les ordonnances ;
+– les ordonnances ;
 
-- les étiquettes ou documents tenant lieu d'étiquetage des aliments pour animaux, y compris pour les matières premières non produites sur l'exploitation et les aliments médicamenteux ;
+– les étiquettes ou documents tenant lieu d'étiquetage des aliments pour animaux, y compris pour les matières premières non produites sur l'exploitation et les aliments médicamenteux ;
 
-- les bons de livraison ou un renvoi aux factures concernant les médicaments vétérinaires qui ne sont pas soumis à prescription et n'ont pas fait l'objet d'une ordonnance.
+– les bons de livraison ou un renvoi aux factures concernant les médicaments vétérinaires qui ne sont pas soumis à prescription et n'ont pas fait l'objet d'une ordonnance ;
+
+– l'application en présence de volailles de produits susceptibles d'interférer avec le dépistage des salmonelles tels que désinfectants, asséchants de litière ou flores de barrière d'environnement, en précisant le nom commercial du produit, les quantités utilisées et la date d'utilisation.
