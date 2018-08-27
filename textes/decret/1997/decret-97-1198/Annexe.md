@@ -1562,6 +1562,28 @@ Décisions relatives à l'inscription au registre prévu au II de l'article L. 5
 
 Articles 5 à 11 et 17 |
 
+Code des transports
+
+1 |
+
+Saisine du conseil de discipline des marins et des pilotes
+
+|
+
+R. 5524-26 |
+
+2 |
+
+Décision relative à la sanction d'un marin suite à avis du conseil de discipline |
+
+R. 5524-39 |
+
+3 |
+
+Décision d'effacement de sanction disciplinaire d'un marin |
+
+R. 5524-45 |
+
 Mesures prises par le ministre chargé de la marine marchande
 
 Code des transports
@@ -1639,6 +1661,28 @@ Autorisation ministérielle pour dérogation au cahier des charges types en mati
 Article R. 122-12, 2e alinéa.
 
 |
+
+Code des transports
+
+1 |
+
+Décision relative à la sanction d'un pilote
+
+|
+
+R. 5524-52 |
+
+2 |
+
+Saisine du conseil de discipline des marins et des pilotes |
+
+R. 5524-54 |
+
+3 |
+
+Décision d'effacement de sanction disciplinaire d'un pilote |
+
+R. 5524-45 |
 
 Mesures prises par le ministre chargé du tourisme
 
