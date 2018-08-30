@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203068
+
+- Question : [SEQ180203068](seq180203068.md) — Stratégie européenne sur les plastiques
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-08-30, page 4516*
+
+La quantité de plastique que l'on retrouve dans les cours d'eau, dans les océans et plus généralement dans la nature provoque des nuisances et des dégâts considérables pour la biodiversité. Aujourd'hui, des solutions existent à la fois pour limiter la production de déchets à la source et récupérer les plastiques, en évitant ainsi qu'ils ne se retrouvent dans l'environnement et en mer. La France a d'ores et déjà pris d'importantes mesures en instaurant des interdictions concernant divers articles en plastique à usage unique ou ayant un impact sur le milieu marin : sacs en plastique, assiettes et gobelets en plastique, cotons-tiges, microbilles en cosmétique. Pour aller plus loin, la feuille de route pour l'économie circulaire présentée en avril prévoit plusieurs mesures, comme par exemple : la création ou l'extension de plusieurs filières à responsabilité élargie du producteur visant des produits contenant une quantité importante de matière plastique (emballages professionnels, jouets, articles de sport et de loisirs, articles de bricolage et de jardin) ; la simplification des règles de tri des déchets ; l'amélioration du dispositif « Triman » en l'accompagnant d'une information simple sur le geste du tri et en interdisant l'apposition sur les produits et les emballages de pictogrammes et logos qui entraînent une confusion auprès des citoyens quant à la recyclabilité des matériaux ; la transformation du système d'éco-modulation mis en place dans le cadre des filières à responsabilité élargie du producteur en en faisant un outil réellement incitatif encourageant les producteurs qui mettent sur le marché des produits éco-conçus, grâce à des bonus-malus pouvant excéder 10 % du prix de vente HT des produits.
