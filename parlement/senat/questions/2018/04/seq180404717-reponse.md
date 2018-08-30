@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404717
+
+- Question : [SEQ180404717](seq180404717.md) — Situation de l'établissement public de santé mentale d'Allonnes
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-08-30, page 4498*
+
+L'agence régionale de santé (ARS) des Pays de la Loire a intégré dans la dynamique du groupement hospitalier de territoire (GHT) l'ensemble des établissements publics de santé de la Sarthe. L'établissement public de santé mentale (EPSM) de la Sarthe n'a pas obtenu de dérogation au moment de la mise en place de ce groupement de coopération. Les établissements de soins psychiatriques ne peuvent rester à l'écart de la réflexion globale sur l'organisation territoriale de l'offre de soins. Il a été demandé aux ARS que les établissements qui avaient pu bénéficier de ces dérogations intègrent les GHT afin d'organiser des filières de soins qui associent santé mentale et somatique. S'agissant de l'EPSM d'Allonnes, l'objectif de l'ARS est de poursuivre le dialogue avec l'ensemble de la communauté hospitalière de cet établissement. Elle souhaite qu'il trouve sa place dans le partenariat ouvert mis en place par l'ARS en vue de piloter le projet territorial de santé mentale (PTSM) et les indispensables liens avec tous les autres établissements de son territoire. Cette nécessaire coopération envers l'ensemble des établissements publics de santé de son territoire doit se réaliser conformément à la loi et dans la dynamique régionale et nationale. L'ARS maintient et maintiendra son soutien à l'action des professionnels de santé de l'EPSM dont elle reconnaît la qualité du travail assuré par l'ensemble des agents de cet établissement, et à ce titre, l'ARS a soutenu budgétairement la création d'une unité mobile de prévention du suicide en 2013 et le développement d'alternatives à l'hospitalisation en 2014.
