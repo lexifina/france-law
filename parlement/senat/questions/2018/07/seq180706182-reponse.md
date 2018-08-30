@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706182
+
+- Question : [SEQ180706182](seq180706182.md) — Avenir de l'Institut français de Naplouse
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-08-30, page 4477*
+
+L'Institut français de Naplouse constitue l'une des cinq antennes de l'Institut français de Jérusalem (avec Jérusalem-Est, Jérusalem-Ouest, Gaza et Ramallah), dispositif complété par la présence d'une Alliance française à Bethléem. La fermeture de cette antenne au 31 août 2018, qui a pour objectif de limiter l'exposition et l'isolement des agents dans la région, n'implique pas un arrêt des activités culturelles menées dans le nord de la Cisjordanie. Il s'agit au contraire de continuer à rayonner « hors les murs » (sans présence immobilière) en collaborant davantage avec des partenaires locaux (l'Université An-Najat en particulier) et des associations (mise en œuvre d'activités culturelles et linguistiques). En contrepartie, le Centre culturel franco-allemand de Ramallah, antenne de l'Institut français de Jérusalem co-localisée avec le Goethe-Institut, verra ses moyens renforcés. Le poste de directeur délégué expatrié de l'antenne de Naplouse sera ainsi transformé en poste d'attaché de coopération pour le français basé à Ramallah, qui aura notamment en charge les actions de coopération dans le nord et le centre de la Cisjordanie. Le dispositif de coopération et d'action culturelle de la France dans les Territoires palestiniens demeure sans égal, en Cisjordanie comme à Gaza, et doté de moyens importants. Le service de coopération et d'action culturelle dispose de vigt-neuf ETP sous plafond d'emplois ministériel et d'une enveloppe de 2 065 868 d'euros, en hausse de 3,2 % en 2018 en dépit d'un contexte budgétaire contraint. L'inauguration du Lycée français international de Ramallah en octobre 2017 constitue une autre marque de la volonté de la France de ne pas se désengager, mais bien de conforter sa présence dans la région.
