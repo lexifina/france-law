@@ -1212,19 +1212,13 @@ Formes pour boutons et autres parties de boutons ; ébauches de boutons ; partie
 
 |
 
-E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE,
+E.-TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE, DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUES ET THERMIQUES
 
-DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
+E-I.-Produits, activités et prestations relevant du centre technique des industries mécaniques et du centre technique des industries mécaniques et du décolletage
 
-E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques et du centre technique des industries mécaniques et du décolletage :
+24.10.75 |
 
-24.10.75
-
-|
-
-Eléments de voie ferrée en acier.
-
-|
+Éléments de voie ferrée en acier. |
 
 24.10.99 |
 
@@ -1238,9 +1232,7 @@ Autres tubes et tuyaux rivés, agrafés ou à bords rapprochés, en acier, d'un 
 
 Accessoires de tuyauterie, en acier, non moulés et autres matériaux métalliques.
 
-A l'exclusion des produits mentionnés au paragraphe E-V.
-
-|
+A l'exclusion des produits mentionnés au paragraphe E-V. |
 
 24.20.99 |
 
@@ -1249,14 +1241,6 @@ Opération sous-traitées intervenant dans la fabrication de tubes, tuyaux, prof
 24.31.99 |
 
 Opérations sous-traitées intervenant dans la fabrication de barres étirées à froid. |
-
-24.42.26 |
-
-Tubes, tuyaux et accessoires de tuyauterie en aluminium, pour les accessoires de tuyauterie en aluminium et alliages ; à l'exclusion des produits mentionnés au paragraphe E-V. |
-
-24.42.99 |
-
-Opérations sous-traitées intervenant dans la fabrication de l'aluminium, pour le façonnage des barres et profilés. |
 
 24.44.26 |
 
@@ -1278,37 +1262,35 @@ Pylônes et mâts, en fer ou en acier, pour les pylônes et mâts chaudronnés d
 
 Autres ossatures et éléments de structures, plaques, barres, profilés et similaires, en fer, acier ou aluminium, pour :
 
-- les matériels d'échafaudage ou d'étayage métalliques ;
+-les matériels d'échafaudage ou d'étayage métalliques ;
 
-- les serres agricoles, les silos et trémies et enceintes de confinement de capacité unitaire inférieure à 500 mètres cubes, y compris leur pose, mentionnée dans la sous-catégorie 43.99.50 ;
+-les serres agricoles, les silos et trémies et enceintes de confinement de capacité unitaire inférieure à 500 mètres cubes, y compris leur pose, mentionnée dans la sous-catégorie 43.99.50 ;
 
-- les matériels d'échafaudage ou d'étayage métalliques ;
+-les matériels d'échafaudage ou d'étayage métalliques ;
 
-- les grilles métalliques et les glissières de sécurité.
-
-|
+-les grilles métalliques et les glissières de sécurité. |
 
 25.11.99 |
 
-Opérations sous-traitées intervenant dans la fabrication de structures métalliques et parties de structures pour :
+Fabrication de structures métalliques et parties de structures pour :
 
-- les produits et façons de la chaudronnerie ;
+-les produits et façons de la chaudronnerie ;
 
-- les produits et façons de la tôlerie forte et de la mécano-soudure ;
+-les produits et façons de la tôlerie forte et de la mécano-soudure ;
 
-- les produits et façons de la fabrication de tuyauteries industrielles ;
+-les produits et façons de la fabrication de tuyauteries industrielles ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.
+-la sous-traitance ;
+
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.
 
 Comprend également les opérations intervenant dans la fabrication de structures et parties de structures en tous matériaux métalliques.
 
-A l'exclusion des produits mentionnés aux paragraphes E-IV et E-V.
-
-|
+A l'exclusion des produits mentionnés aux paragraphes E-IV et E-V. |
 
 25.21.12 |
 
-Chaudières pour le chauffage central, à eau chaude ou à vapeur, pour, dans les chaudières en acier, quelle que soit l'énergie primaire utilisée, les chaudières à fluide caloporteur liquide fonctionnant à une température supérieure à 130 °C et de puissance supérieure à 11 630 kW, ainsi que les opérations de réparation et d'installation mentionnées respectivement dans les paragraphes 33.11.12 et 33.20.12, à l'exclusion des produits mentionnés au paragraphe E-V. |
+Chaudières pour le chauffage central, à eau chaude ou à vapeur, pour, dans les chaudières en acier, quelle que soit l'énergie primaire utilisée, les chaudières à fluide caloporteur liquide fonctionnant à une température supérieure à 130° C et de puissance supérieure à 11 630 kW, ainsi que les opérations de réparation et d'installation mentionnées respectivement dans les paragraphes 33.11.12 et 33.20.12, à l'exclusion des produits mentionnés au paragraphe E-V. |
 
 25.21.13 |
 
@@ -1318,21 +1300,17 @@ Parties de chaudières pour le chauffage central, pour les parties des chaudièr
 
 Autres réservoirs, citernes et conteneurs métalliques, y compris :
 
-- les cuves et citernes métalliques installables sur tous types de matériels ou de véhicules ;
+-les cuves et citernes métalliques installables sur tous types de matériels ou de véhicules ;
 
-- le montage des réservoirs métalliques mentionné dans la sous-catégorie 33.20.12 ;
+-le montage des réservoirs, cuves, citernes et conteneurs métalliques mentionné dans la sous-catégorie 33.20.12 ;
 
-- les conteneurs métalliques pour gaz quelle que soit leur contenance.
+-les conteneurs métalliques pour gaz quelle que soit leur contenance.
 
 Comprend également :
 
-- les réservoirs, citernes et conteneurs en matériaux composites ;
+-les réservoirs, citernes et conteneurs en matériaux composites ;
 
-- les bonbonnes en plastiques ou composites destinées à contenir des fluides sous pression.
-
-A l'exclusion des produits mentionnés au paragraphe E-IV.
-
-|
+-les bonbonnes en plastiques ou composites destinées à contenir des fluides sous pression. A l'exclusion des produits mentionnés au paragraphe E-IV. |
 
 25.30 |
 
@@ -1346,13 +1324,11 @@ Revolvers, pistolets, armes à feu de chasse et armes similaires. |
 
 Bombes, missiles et armements de guerre similaires ; cartouches, autres munitions et projectiles, et leurs parties, pour :
 
-- cartouches et munitions pour armes de chasse, tir ou défense ;
+-cartouches et munitions pour armes de chasse, tir ou défense ;
 
-- munitions pour armes de guerre ;
+-munitions pour armes de guerre ;
 
-- cartouches d'abattage et de scellement.
-
-|
+-cartouches d'abattage et de scellement. |
 
 25.40.14 |
 
@@ -1360,71 +1336,69 @@ Parties et pièces d'armes de guerre ou de chasse, pour les parties et pièces d
 
 25.50.1 |
 
-Produits de la forge, de l'emboutissage, de l'estampage et du profilage, y compris :
+Produits de la forge, de l'emboutissage, de l'estampage et du profilage, réalisés sur plan pour compte de tiers, y compris :
 
-- le découpage quel que soit le procédé y compris laser ;
+-le découpage quel que soit le procédé y compris laser ;
 
-- le refendage ;
+-le refendage ;
 
-- le découpage fin ;
+-le découpage fin ;
 
-- les produits et façons de tôlerie fine ;
+-les produits et façons de tôlerie fine ;
 
-- le formage quel que soit le procédé, notamment l'emboutissage, le repoussage, le cintrage, le forgeage ;
+-le formage quel que soit le procédé, notamment l'emboutissage, le repoussage, le cintrage, le forgeage ;
 
-- le pliage quel que soit le procédé ;
+-le pliage quel que soit le procédé ;
 
-- les pièces extrudées ;
+-les pièces extrudées ;
 
-- les pièces métalliques obtenues par laminage circulaire.
+-les pièces métalliques obtenues par laminage circulaire.
 
-|
+A l'exclusion du profilage |
+
+25.50.2 |
+
+Produits et travaux de la métallurgie des poudres, réalisés sur plan et pour compte de tiers, y compris la fabrication additive quelle que soit la technologie mise en œuvre. |
 
 25.61 |
 
 Traitement et revêtement des métaux et autres matériaux pour tous types de pièces, y compris :
 
-- le revêtement métallique quel que soit le procédé ;
+-le revêtement métallique quel que soit le procédé ;
 
-- le rechargement métallique quel que soit le procédé.
+-le rechargement métallique quel que soit le procédé.
 
-A l'exclusion du vernissage, du laquage et de la peinture à façon.
-
-|
+A l'exclusion du vernissage, du laquage et de la peinture à façon. |
 
 25.62 |
 
 Usinage, y compris :
 
-- les façons et les produits de l'usinage par enlèvement de matière quel que soit le procédé ;
+-les façons et les produits de l'usinage par enlèvement de matière quel que soit le procédé ;
 
-- les façons et les produits du tournage, y compris fluotournage ;
+-les façons et les produits du tournage, y compris fluotournage ;
 
-- l'affûtage ainsi que le réaffûtage mentionné dans la sous-catégorie 33.11.19 ;
+-l'affûtage ainsi que le réaffûtage mentionné dans la sous-catégorie 33.11.19 ;
 
-- la réalisation de pièces par assemblage tel que soudage, collage ou autre ;
+-la réalisation de pièces par assemblage tel que soudage, collage ou autre ;
 
-- la reconstruction de moteurs thermiques autres que pour automobiles, avions ou motocycles ;
+-la reconstruction de moteurs thermiques autres que pour automobiles, avions ou motocycles ;
 
-- la reconstruction de machines ou équipements d'usage général ou spécifique ;
+-la reconstruction de machines ou équipements d'usage général ou spécifique ;
 
-- la réparation de machines ou équipements d'usage général ou spécifique, mentionnées respectivement dans les sous-catégories 33.12.19 et 33.12.29.
+-la réparation de machines ou équipements d'usage général ou spécifique, mentionnées respectivement dans les sous-catégories 33.12.19 et 33.12.29.
 
 Comprend également :
 
-- les opérations d'usinage, de décolletage et de reprise de décolletage pour tous types de matériaux ;
+-les opérations d'usinage, de décolletage et de reprise de décolletage pour tous types de matériaux ;
 
-- la sous-traitance.
-
-|
+-la sous-traitance. |
 
 25.71 |
 
 Article de coutellerie.
 
-A l'exclusion, dans la sous-catégorie 25.71.14, des articles argentés, dorés ou platinés.
-
-|
+A l'exclusion, dans la sous-catégorie 25.71.14, des articles argentés, dorés ou platinés. |
 
 25.72.1 |
 
@@ -1434,27 +1408,23 @@ Serrures et ferrures, y compris la quincaillerie métallique d'ameublement et de
 
 Opérations sous-traitées intervenant dans la fabrication de serrures et ferrures.
 
-Concerne la catégorie 25.72.1 telle que précisée ci-dessus.
-
-|
+Concerne la catégorie 25.72.1 telle que précisée ci-dessus. |
 
 25.73 |
 
 Outillage, y compris :
 
-- les moules et modèles ;
+-les moules et modèles ;
 
-- les gabarits ;
+-les gabarits ;
 
-- la réparation d'outillage à main, d'outillage pour machines et de moules, mentionnée au paragraphe 33.11.19.
+-la réparation d'outillage à main, d'outillage pour machines et de moules, mentionnée au paragraphe 33.11.19.
 
 A l'exclusion :
 
-- dans la sous-catégorie 25.73.30, des produits mentionnés au paragraphe E-II ;
+-dans la sous-catégorie 25.73.30, des produits mentionnés au paragraphe E-II ;
 
-- des moules et modèles en bois.
-
-|
+-des moules et modèles en bois. |
 
 25.91 |
 
@@ -1464,11 +1434,9 @@ Bidons métalliques et récipients similaires. |
 
 Emballages légers métalliques, à l'exclusion :
 
-- des boîtes de conserve et pour boisson ainsi que des emballages métalliques entièrement réalisés en aluminium ou en fer-blanc ;
+-des boîtes de conserve et pour boisson ainsi que des emballages métalliques entièrement réalisés en aluminium ou en fer-blanc ;
 
-- des articles de bouchage et de surbouchage.
-
-|
+-des articles de bouchage et de surbouchage. |
 
 25.93 |
 
@@ -1476,13 +1444,11 @@ Articles en fils, chaînes et ressorts, en acier et autres matériaux métalliqu
 
 A l'exclusion :
 
-- des câbles destinés au transport de l'électricité ;
+-des câbles destinés au transport de l'électricité ;
 
-- de la sous-catégorie 25.93.13 ;
+-de la sous-catégorie 25.93.13 ;
 
-- de la sous-catégorie 25.93.15 mentionnée au paragraphe E-II.
-
-|
+-de la sous-catégorie 25.93.15 mentionnée au paragraphe E-II. |
 
 25.94 |
 
@@ -1492,59 +1458,51 @@ Vis et boulons quel que soit le matériau y compris les accessoires. |
 
 Articles métalliques domestiques y compris les accessoires de cuisine (friteuses, sauteuses, bains-marie, grilloirs, percolateurs).
 
-A l'exclusion des articles en aluminium et en fonte.
-
-|
+A l'exclusion des articles en aluminium et en fonte. |
 
 25.99.2 |
 
 Autres articles en métaux communs, y compris :
 
-- les tuyaux flexibles en métal ou en tout autre matériau à armature métallique autres que ceux mentionnés au paragraphe E-V ;
+-les tuyaux flexibles en métal ou en tout autre matériau à armature métallique autres que ceux mentionnés au paragraphe E-V ;
 
-- les chemins de câble ;
+-les chemins de câble ;
 
-- les opérations d'installation des coffres-forts mentionnées dans la sous-catégorie 33.20.12.
+-les opérations d'installation des coffres-forts mentionnées dans la sous-catégorie 33.20.12.
 
 A l'exclusion :
 
-- de la sous-catégorie 25.99.24 ;
+-de la sous-catégorie 25.99.24 ;
 
-- dans les sous-catégories 25.99.29 et 25.99.26 :
+-dans les sous-catégories 25.99.29 et 25.99.26 :
 
-- des produits moulés ;
+-des produits moulés ;
 
-- des ouvrages en étain.
-
-|
+-des ouvrages en étain. |
 
 25.99.99 |
 
-Opérations sous-traitées intervenant dans la fabrication d'autres produits métalliques n.c.a.
+Opérations sous-traitées intervenant dans la fabrication d'autres produits métalliques n. c. a.
 
-Concerne les catégories 25.99.1 et 25.99.2 telles que précisées ci-dessus
-
-|
+Concerne les catégories 25.99.1 et 25.99.2 telles que précisées ci-dessus |
 
 26.20 |
 
 Ordinateurs et équipements périphériques, pour :
 
-- les imprimantes ;
+-les imprimantes ;
 
-- les imprimantes volumiques y compris les imprimantes trois dimensions ;
+-les imprimantes volumiques y compris les imprimantes trois dimensions ;
 
-- les tables traçantes ;
+-les tables traçantes ;
 
-- le matériel mécanographique ;
+-le matériel mécanographique ;
 
-- les unités périphériques comportant des organes mécaniques, à l'exclusion des unités de mémoire auxiliaire ;
+-les unités périphériques comportant des organes mécaniques, à l'exclusion des unités de mémoire auxiliaire ;
 
-- les parties et pièces mécaniques ;
+-les parties et pièces mécaniques ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.13.19 et 33.20.42.
-
-|
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.13.19 et 33.20.42. |
 
 26.51.11 |
 
@@ -1552,41 +1510,35 @@ Boussoles et compas de navigation ; autres équipements de navigation. |
 
 26.51.12 |
 
-Théodolites, tachéomètres ; autres équipements de géodésie, d'hydrographie, d'océanographie, d'hydrologie, de météorologie ou de géophysique. |
+Télémètres, Théodolites, tachéomètres ; autres équipements de géodésie, d'hydrographie, d'océanographie, d'hydrologie, de météorologie ou de géophysique. |
 
 26.51.3 |
 
 Balances de précision ; instruments de dessin, calcul et mesure des longueurs.
 
-A l'exclusion des poids en fonte et des instruments en bois et en plastique.
-
-|
+A l'exclusion des poids en fonte et des instruments en bois et en plastique. |
 
 26.51.5 |
 
 Instruments de contrôle d'autres grandeurs physiques ou chimiques, pour les matériels, en association ou non avec l'électricité ou l'électronique :
 
-- soit faisant appel aux techniques fluidiques, pneumatiques ou optiques ;
+-soit faisant appel aux techniques fluidiques, pneumatiques ou optiques ;
 
-- soit servant à mesurer ou à contrôler des grandeurs mécaniques : longueur, surface, volume, masse, force, travail, temps, puissance, vitesse, accélération, débit, niveau, température, quantité de chaleur, pression, viscosité, humidité, concentration en particules dans les gaz et autres fluides.
+-soit servant à mesurer ou à contrôler des grandeurs mécaniques : longueur, surface, volume, masse, force, travail, temps, puissance, vitesse, accélération, débit, niveau, température, quantité de chaleur, pression, viscosité, humidité, concentration en particules dans les gaz et autres fluides.
 
 Comprend également les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.13.11 et 33.20.41.
 
-A l'exclusion des produits mentionnés au paragraphe E-V.
-
-|
+A l'exclusion des produits mentionnés au paragraphe E-V. |
 
 26.51.6 |
 
-Autres instruments et appareils de mesure, de contrôle et d'essai, dans les mêmes conditions que le 26.51.5, y compris :
+Autres instruments et appareils de mesure, de contrôle et d'essai, y compris :
 
-- les instruments de contrôle des états de surface ;
+-les instruments de contrôle des états de surface ;
 
-- les bancs d'essais, les bancs de tests, et leurs parties ;
+-les bancs d'essais, les bancs de tests, et leurs parties ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.13.11 et 33.20.41.
-
-|
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.13.11 et 33.20.41. |
 
 26.51.7 |
 
@@ -1596,31 +1548,27 @@ Thermostats, manostats et autres instruments et appareils de régulation ou de c
 
 Parties et accessoires des instruments de mesure, d'essais et de navigation.
 
-Concerne les instruments et appareils mentionnés dans les sous-catégories 26.51.11 et 26.51.12 et les catégories 26.51.3, 26.51.5, 26.51.6 et 26.51.7.
-
-|
+Concerne les instruments et appareils mentionnés dans les sous-catégories 26.51.11 et 26.51.12 et les catégories 26.51.3,26.51.5,26.51.6 et 26.51.7. |
 
 26.51.99 |
 
-Opérations sous-traitées intervenant dans la fabrication d'instruments et appareils de mesure, d'essai et de navigation. Concerne les sous-catégories 26.51.11 et 26.51.12 et les catégories 26.51.3, 26.51.5, 26.51.6 et 26.51.7 et 26.51.8. telles que précisées ci-dessus. |
+Opérations sous-traitées intervenant dans la fabrication d'instruments et appareils de mesure, d'essai et de navigation.
+
+Concerne les sous-catégories 26.51.11 et 26.51.12 et les catégories 26.51.3,26.51.5,26.51.6 et 26.51.7 et 26.51.8 telles que précisées ci-dessus. |
 
 26.52.28 |
 
 Registres d'horloge, horodateurs, parcmètres ; minuteries avec mouvement d'horlogerie, pour :
 
-- les appareils de contrôle et compteurs de temps à mouvement singulier d'horlogerie ou à moteur synchrone tels qu'enregistreurs de présence, horodateurs, contrôleurs de rondes, minuteurs, compteurs de secondes ;
+-les appareils de contrôle et compteurs de temps à mouvement singulier d'horlogerie ou à moteur synchrone tels qu'enregistreurs de présence, horodateurs, contrôleurs de rondes, minuteurs, compteurs de secondes ;
 
-- les appareils munis d'un moteur synchrone permettant de déclencher un mécanisme à temps donné, tels qu'interrupteurs horaires, horloges de commutation.
-
-|
+-les appareils munis d'un moteur synchrone permettant de déclencher un mécanisme à temps donné, tels qu'interrupteurs horaires, horloges de commutation. |
 
 26.52.99 |
 
 Opérations sous-traitées intervenant dans la fabrication d'articles d'horlogerie.
 
-Concerne la catégorie 26.52.28 telle que précisée ci-dessus.
-
-|
+Concerne la catégorie 26.52.28 telle que précisée ci-dessus. |
 
 26.70.1 |
 
@@ -1628,11 +1576,9 @@ Matériel photographique et parties, y compris le matériel de micrographie et l
 
 A l'exclusion :
 
-- des appareils cinématographiques de prises de vues et de projection pour professionnels des sous-catégories 26.70.15 et 26.70.16 ;
+-des appareils cinématographiques de prises de vues et de projection pour professionnels des sous-catégories 26.70.15 et 26.70.16 ;
 
-- de la sous-catégorie 26.70.11.
-
-|
+-de la sous-catégorie 26.70.11. |
 
 27.12.40 |
 
@@ -1642,9 +1588,7 @@ Parties de matériels de distribution et de commande électrique, pour armoires 
 
 Opérations sous-traitées intervenant dans la fabrication de matériel de distribution et de commande électrique.
 
-Concerne la sous-catégorie 27.12.40 telle que précisée ci-dessus.
-
-|
+Concerne la sous-catégorie 27.12.40 telle que précisée ci-dessus. |
 
 27.51.11 |
 
@@ -1662,23 +1606,19 @@ Parties d'appareils électroménagers, pour les parties mécaniques. |
 
 Appareils ménagers non électriques, pour :
 
-- les chauffe-eau et chauffe-eau thermodynamiques, à l'exclusion des chauffe-eau solaires non photovoltaïques et des chauffe-eau thermodynamiques repris au paragraphe E-V ;
+-les chauffe-eau et chauffe-eau thermodynamiques, à l'exclusion des chauffe-eau solaires non photovoltaïques et des chauffe-eau thermodynamiques repris au paragraphe E-V ;
 
-- les réchauds à gaz de pétrole liquéfié, à l'exception de ceux en métal moulé.
-
-|
+-les réchauds à gaz de pétrole liquéfié, à l'exception de ceux en métal moulé. |
 
 27.90.40 |
 
-Autres matériels électriques n.c.a., y compris les matériels incorporant des aimants permanents pour :
+Autres matériels électriques n. c. a., y compris les matériels incorporant des aimants permanents pour :
 
-- accouplements, embrayages, variateurs de vitesse, paliers électromagnétiques, freins électromagnétiques ainsi que plateaux, mandrins et dispositifs électromagnétiques similaires ;
+-accouplements, embrayages, variateurs de vitesse, paliers électromagnétiques, freins électromagnétiques ainsi que plateaux, mandrins et dispositifs électromagnétiques similaires ;
 
-- les machines et matériels de revêtements électrolytiques ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.14.19 et 33.20.50.
+-les machines et matériels de revêtements électrolytiques ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.14.19 et 33.20.50.
 
-Comprend également les équipements de chauffage de fluides à usages industriels.
-
-|
+Comprend également les équipements de chauffage de fluides à usages industriels. |
 
 28.11 |
 
@@ -1688,337 +1628,293 @@ Les opérations de réparation, de montage et d'installation mentionnées respec
 
 Ainsi que :
 
-- les parties et accessoires pour moteur à combustion interne pour véhicules automobiles comme indiqué à la classe 29.32 notamment pistons, segments de piston, carburateurs et autres équipements ;
+-les parties et accessoires pour moteur à combustion interne pour véhicules automobiles comme indiqué à la classe 29.32 notamment pistons, segments de piston, carburateurs et autres équipements ;
 
-- les parties de moteurs à explosion pour avions notamment pistons, segments de piston, carburateurs comme indiqué à la classe 30.30 ;
+-les parties de moteurs à explosion pour avions notamment pistons, segments de piston, carburateurs comme indiqué à la classe 30.30 ;
 
-- les pièces pour moteur de motocycles comme indiqué à la classe 30.91.
+-les pièces pour moteur de motocycles comme indiqué à la classe 30.91.
 
 A l'exclusion :
 
-- de la fabrication ou de l'assemblage de moteurs complets pour avions, automobiles et motocycles ;
+-de la fabrication ou de l'assemblage de moteurs complets pour avions, automobiles et motocycles ;
 
-- des moteurs Diesel lents tournant à moins de 600 tours par minute ;
-
-- dans la sous-catégorie 28.11.24, des aéromoteurs destinés à la production d'énergie électrique.
-
-|
+-des moteurs Diesel lents tournant à moins de 600 tours par minute. |
 
 28.12 |
 
 Equipements hydrauliques et pneumatiques, y compris :
 
-- les centrales hydrauliques, les systèmes pneumatiques, les transmissions hydrauliques ou pneumatiques et leurs composants ;
+-les centrales hydrauliques, les systèmes pneumatiques, les transmissions hydrauliques ou pneumatiques et leurs composants ;
 
-- les équipements hydrauliques et pneumatiques installables sur tous types de matériels ou de véhicules ;
+-les équipements hydrauliques et pneumatiques installables sur tous types de matériels ou de véhicules ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.12 et 33.20.29.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.12 et 33.20.29.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.13 |
 
 Autres pompes et compresseurs, y compris :
 
-- les équipements installables sur tous types de matériels et de véhicules ;
+-les équipements installables sur tous types de matériels et de véhicules ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.12 et 33.20.29.
-
-|
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.12 et 33.20.29. |
 
 28.14 |
 
 Autres articles de robinetterie, ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.12 et 33.20.29.
 
-A l'exclusion, dans la sous-catégorie 28.14.11, des produits mentionnés au paragraphe E-II.
-
-|
+A l'exclusion, dans la sous-catégorie 28.14.11, des produits mentionnés au paragraphe E-II. |
 
 28.15 |
 
 Engrenages et organes mécaniques de transmission, en tous matériaux y compris :
 
-- les organes de transmission motorisés (motoréducteur, moto-variateur...) ;
+-les organes de transmission motorisés (motoréducteur, moto-variateur …) ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.13 et 33.20.29.
-
-|
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.13 et 33.20.29. |
 
 28.21 |
 
 Fours et brûleurs y compris :
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.14 et 33.20.29.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.14 et 33.20.29.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
-A l'exclusion, dans les sous-catégories 28.21.11 et 28.21.14, des produits mentionnés au paragraphe E-V.
-
-|
+A l'exclusion, dans les sous-catégories 28.21.11 et 28.21.14, des produits mentionnés au paragraphe E-V. |
 
 28.22 |
 
 Matériel de levage et de manutention, y compris :
 
-- les ascenseurs et monte-charge de chantier ;
+-les ascenseurs et monte-charge de chantier ;
 
-- les plates-formes élévatrices ;
+-les plates-formes élévatrices ;
 
-- les équipements de stockage ;
+-les équipements de stockage ;
 
-- les manipulateurs ;
+-les manipulateurs ;
 
-- les enrouleurs ;
+-les enrouleurs ;
 
-- les actionneurs, les crics, les vérins, hydrauliques, pneumatiques, mécaniques ou électriques, pour tous usages ;
+-les actionneurs, les crics, les vérins, hydrauliques, pneumatiques, mécaniques ou électriques, pour tous usages ;
 
-- les funiculaires ;
+-les funiculaires ;
 
-- les monte-escaliers ;
+-les monte-escaliers ;
 
-- les systèmes de levage et manutention installables sur tous types de matériels ou de véhicules ;
+-les systèmes de levage et manutention installables sur tous types de matériels ou de véhicules ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.15, 33.20.29 et 43.29.19.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.15,33.20.29 et 43.29.19.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant, servir aux mêmes usages.
 
 A l'exclusion :
 
-- des ascenseurs pour personnes ;
+-des ascenseurs pour personnes ;
 
-- des ossatures mentionnées au paragraphe E-IV.
-
-|
+-des ossatures mentionnées au paragraphe E-IV. |
 
 28.23 |
 
 Machines et équipements de bureau (à l'exclusion des ordinateurs et équipements périphériques), ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.16 et 33.20.21.
 
-A l'exclusion des machines entièrement électroniques.
-
-|
+A l'exclusion des machines entièrement électroniques. |
 
 28.24 |
 
 Outillage portatif à moteur incorporé, y compris :
 
-- les parties ;
+-les parties ;
 
-- les machines-outils portatives pneumatiques ou à moteur thermique.
-
-|
+-les machines-outils portatives pneumatiques ou à moteur thermique. |
 
 28.25 |
 
 Equipements aérauliques et frigorifiques industriels, y compris :
 
-- les équipements assemblés sur site ;
+-les équipements assemblés sur site ;
 
-- les pompes à chaleur pour applications domestiques ;
+-les pompes à chaleur pour applications domestiques ;
 
-- les matériels de conditionnement de l'air autonomes ou non pour tous types d'emplois ;
+-les matériels de conditionnement de l'air autonomes ou non pour tous types d'emplois ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
 A l'exclusion :
 
-- dans les sous-catégories 28.25.11, 28.25.12, 28.25.13 et 28.25.14, ainsi que dans les catégories 28.25.2 et 28.25.3, des équipements aérauliques mentionnés au paragraphe E-V.
-
-|
+-dans les sous-catégories 28.25.11,28.25.12,28.25.13 et 28.25.14, ainsi que dans les catégories 28.25.2 et 28.25.3, des équipements aérauliques mentionnés au paragraphe E-V. |
 
 28.29 |
 
-Autres machines d'usage général n.c.a. (non citées ailleurs), y compris :
+Autres machines d'usage général n. c. a. (non citées ailleurs), y compris :
 
-- les matériels pour la chimie, le pétrole et la pharmacie ;
+-les matériels pour la chimie, le pétrole et la pharmacie ;
 
-- les cabines de peinture ;
+-les cabines de peinture ;
 
-- les étuves et enceintes d'essais non climatiques ;
+-les étuves et enceintes d'essais non climatiques ;
 
-- les accessoires, pièces détachées et parties ;
+-les accessoires, pièces détachées et parties ;
 
-- les appareils pour la filtration et leurs parties ;
+-les appareils pour la filtration et leurs parties ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.19 et 33.20.29.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.19 et 33.20.29.
+
+-les matériels et équipements pour la récupération des énergies éoliennes, marines, hydrauliques, y compris les énergies hybridées relatives à ces domaines.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
 A l'exclusion :
 
-- dans les sous-catégories 29.29.22, 28.29.60 et 28.29.70, des produits mentionnés au paragraphe E-II ;
+-dans les sous-catégories 28.29.22,28.29.60 et 28.29.70, des produits mentionnés au paragraphe E-II ;
 
-- des produits mentionnés au paragraphe E-V.
-
-|
+-des produits mentionnés au paragraphe E-V. |
 
 28.30 |
 
 Machines agricoles et forestières, y compris :
 
-- les accessoires et pièces détachées et parties de machines ou matériels agricoles ou forestiers ;
+-les accessoires et pièces détachées et parties de machines ou matériels agricoles ou forestiers ;
 
-- les épandeurs de lisier ;
+-les épandeurs de lisier ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.21 et 33.20.31.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.21 et 33.20.31.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.41 |
 
 Machines de formage des métaux, y compris :
 
-- les machines sur plans ;
+-les machines sur plans ;
 
-- les machines opérant par enlèvement ou rajout de matière quel que soit le procédé ;
+-les machines opérant par enlèvement ou rajout de matière quel que soit le procédé ;
 
-- les machines de prototypage ;
+-les machines de prototypage, de fabrication additive ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.22 et 33.20.32.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.22 et 33.20.32.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
-A l'exclusion des machines mentionnées au paragraphe E-II et des machines de fabrication additive.
-
-|
+A l'exclusion des machines mentionnées au paragraphe E-II. |
 
 28.49 |
 
 Autres machines-outils, y compris :
 
-- les machines sur plans ou idées ;
+-les machines sur plans ou idées ;
 
-- les machines opérant par enlèvement de matières à l'aide d'un jet d'eau ;
+-les machines opérant par enlèvement de matières à l'aide d'un jet d'eau ;
 
-- les machines de prototypage ;
+-les machines de prototypage ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.22 et 33.20.32.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.22 et 33.20.32.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.91 |
 
 Machines pour la métallurgie, y compris :
 
-- les accessoires et pièces détachées et parties de machines ou matériels ;
+-les accessoires et pièces détachées et parties de machines ou matériels ;
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.23 et 33.20.33.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.23 et 33.20.33.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.92 |
 
 Machines pour l'extraction ou la construction, y compris :
 
-- les machines sur plans ou idées ;
+-les machines sur plans ou idées ;
 
-- les matériels pour la pose et l'entretien des voies ferrées ;
+-les matériels pour la pose et l'entretien des voies ferrées ;
 
-- les matériels pour l'enfouissement des câbles ;
+-les matériels pour l'enfouissement des câbles ;
 
-- les matériels pour le compactage, broyage, triage, agglomération des déchets minéraux ou métalliques ;
-
-- le montage avec ou sans maître d'œuvre de lignes complètes de fabrication,
+-les matériels pour le compactage, broyage, triage, agglomération des déchets minéraux ou métalliques ;-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication,
 
 ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.24 et 33.20.34.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.93 |
 
 Machines pour l'industrie agroalimentaire, y compris :
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.25 et 33.20.35.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.25 et 33.20.35.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
 A l'exclusion :
 
-- des travaux de génie civil et de fumisterie effectués pour la mise en place des fours et machines de boulangerie ;
+-des travaux de génie civil et de fumisterie effectués pour la mise en place des fours et machines de boulangerie ;
 
-- dans la sous-catégorie 28.93.16, des produits mentionnés au paragraphe E-V.
-
-|
+-dans la sous-catégorie 28.93.16, des produits mentionnés au paragraphe E-V. |
 
 28.94 |
 
 Machines pour les industries textiles, y compris :
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.26 et 33.20.36.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.26 et 33.20.36.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.95 |
 
 Machines pour les industries du papier et du carton, y compris :
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.27 et 33.20.37.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.27 et 33.20.37.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.96 |
 
 Machines pour le travail du caoutchouc ou des matières plastiques, y compris :
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.28 et 33.20.38.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.28 et 33.20.38.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.99 |
 
-Autres machines d'usage spécifique n.c.a. (non citées ailleurs), y compris :
+Autres machines d'usage spécifique n. c. a. (non citées ailleurs), y compris :
 
-- les équipements installables sur tous types de matériels et de véhicules
+-les équipements installables sur tous types de matériels et de véhicules ;
 
-- les machines de fabrication des composants des matériaux composites ;
+-les machines de fabrication des composants des matériaux composites ;
 
-- les machines de mise en forme des matériaux composites ;
+-les machines de mise en forme des matériaux composites ;
 
-- les matériels pour compactage, broyage, triage, agglomération des déchets autres que minéraux ou métalliques ;
+-les matériels pour compactage, broyage, triage, agglomération des déchets autres que minéraux ou métalliques ;
 
-- le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication ;
+-le montage avec ou sans maîtrise d'œuvre de lignes complètes de fabrication, d'assemblage, etc … ;
 
-- les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.29 et 33.20.39.
+-les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.12.29 et 33.20.39.
 
 Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
 A l'exclusion :
 
-- de la sous-catégorie 28.99.32 ;
+-de la sous-catégorie 28.99.32 ;
 
-- dans la sous-catégorie 28.99.31 des produits mentionnés au paragraphe E-V ;
+-dans la sous-catégorie 28.99.31 des produits mentionnés au paragraphe E-V ;
 
-- dans la sous-catégorie 28.99.39 des dispositifs de lancement d'aéronefs, des dispositifs d'appontage ou dispositifs similaires et des produits mentionnés au paragraphe E-V.
-
-|
+-dans la sous-catégorie 28.99.39 des dispositifs de lancement d'aéronefs, des dispositifs d'appontage ou dispositifs similaires et des produits mentionnés au paragraphe E-V. |
 
 30.11.33 |
 
@@ -2028,11 +1924,9 @@ Dragueurs ; bateaux-phares, bateaux-grues ; autres bateaux, pour les engins et m
 
 Plates-formes de forage en mer, y compris :
 
-- les plates-formes d'habitation, de stockage, d'exploitations, fixes, flottantes ou submersibles.
+-les plates-formes d'habitation, de stockage, d'exploitations, fixes, flottantes ou submersibles.
 
-A l'exclusion des produits mentionnés au paragraphe E-IV.
-
-|
+A l'exclusion des produits mentionnés au paragraphe E-IV. |
 
 30.92.20 |
 
@@ -2044,7 +1938,7 @@ Parties et accessoires pour bicyclettes et autres cycles non motorisés et pour 
 
 30.99 |
 
-Autres équipements de transport n.c.a. |
+Autres équipements de transport n. c. a. |
 
 31.00.11 |
 
@@ -2058,9 +1952,7 @@ Autres sièges, pour sièges avec bâti en métal. |
 
 Parties de sièges.
 
-Concerne les sous-catégories 31.00.11 et 31.00.13.
-
-|
+Concerne les sous-catégories 31.00.11 et 31.00.13. |
 
 31.00.20 |
 
@@ -2072,17 +1964,15 @@ Sommiers, pour les sommiers métalliques. |
 
 31.09.11 |
 
-Meubles métalliques n.c.a. (non cités ailleurs), pour le mobilier métallique de magasin et d'atelier. |
+Meubles métalliques n. c. a. (non cités ailleurs), pour le mobilier métallique de magasin et d'atelier. |
 
 32.30.13 |
 
 Skis nautiques, planches de surf, planches à voiles et autres matériels pour sports nautiques, pour :
 
-- les appareils respiratoires de plongée ;
+-les appareils respiratoires de plongée ;
 
-- les fixations.
-
-|
+-les fixations. |
 
 32.50.11 |
 
@@ -2094,13 +1984,11 @@ Stérilisateurs médicaux, chirurgicaux ou de laboratoire. |
 
 32.50.13 |
 
-Seringues, aiguilles, cathéters, canules et articles similaires ; instruments et appareils ophtalmologiques et autres n.c.a. (non cités ailleurs), y compris :
+Seringues, aiguilles, cathéters, canules et articles similaires ; instruments et appareils ophtalmologiques et autres n. c. a. (non cités ailleurs), y compris :
 
-- parties et accessoires ;
+-parties et accessoires ;
 
-- incubateurs pour prématurés.
-
-|
+-incubateurs pour prématurés. |
 
 32.50.21 |
 
@@ -2108,25 +1996,23 @@ Instruments et appareils thérapeutiques ; appareils respiratoires. |
 
 32.50.22 |
 
-Articulations artificielles ; appareils orthopédiques ; dents artificielles ; dentiers ; prothèses n.c.a. (non citées ailleurs), y compris :
+Articulations artificielles ; appareils orthopédiques ; dents artificielles ; dentiers ; prothèses n. c. a. (non citées ailleurs),
 
-- les implants non réalisés par fabrication additive.
+y compris :
+
+-les implants.
 
 A l'exclusion :
 
-- des dents artificielles, couronnes, dentiers, prothèses dentaires et appareils d'orthodontie ;
+-des dents artificielles, couronnes, dentiers, prothèses dentaires et appareils d'orthodontie ;
 
-- des chaussures, semelles et corsets orthopédiques.
-
-|
+-des chaussures, semelles et corsets orthopédiques. |
 
 32.50.23 |
 
 Parties et accessoires de prothèses et appareils orthopédiques.
 
-Concerne les sous-catégories 32.50.21 et 32.50.22.
-
-|
+Concerne les sous-catégories 32.50.21 et 32.50.22. |
 
 32.50.30 |
 
@@ -2136,9 +2022,7 @@ Articles médicaux, chirurgicaux, dentaires ou vétérinaires ; fauteuils de coi
 
 Opérations sous-traitées intervenant dans la fabrication d'équipements médicaux et chirurgicaux et d'appareils orthopédiques.
 
-Concerne les sous-catégories 32.50.11, 32.50.12, 32.50.13, 32.50.21, 32.50.22, 32.50.23, 32.50.30 telles que précisées ci-dessus.
-
-|
+Concerne les sous-catégories 32.50.11,32.50.12,32.50.13,32.50.21,32.50.22,32.50.23,32.50.30 telles que précisées ci-dessus. |
 
 32.99.22 |
 
@@ -2154,185 +2038,119 @@ Formes pour boutons et autres parties de boutons ; ébauches de boutons ; partie
 
 32.99.59 |
 
-Autres articles divers n.c.a, pour les récipients isothermes à vide. |
+Autres articles divers n. c. a, pour les récipients isothermes à vide. |
 
-E-II. - Produits, activités et prestations relevant de l'institut de soudure
+E-II.-Produits, activités et prestations relevant de l'institut de soudure
 
-24.34.1
+24.34.1 |
 
-|
+Fils tréfilés à froid, pour la fabrication des fils pleins de soudage. |
 
-Fils tréfilés à froid, pour la fabrication des fils pleins de soudage.
+24.4 |
 
-|
+Métaux précieux et autres métaux non ferreux communs, pour la fabrication des fils et métaux d'apport de soudage, soudobrasage, brasage, brasage tendre et métallisation. |
 
-24.4
+25.73.30 |
 
-|
+Autres outils à main, pour les lampes et les fers à souder. |
 
-Métaux précieux et autres métaux non ferreux communs, pour la fabrication des fils et métaux d'apport de soudage, soudobrasage, brasage, brasage tendre et métallisation.
+25.93.15 |
 
-|
+Fils, baguettes, tubes, plaques, électrodes, enrobés ou fourrés pour le soudage, ainsi que pour le soudobrasage, le brasage, le brasage tendre et la métallisation. |
 
-25.73.30
+27.90.31 |
 
-|
+Matériel électrique pour le soudage et le brasage, y compris : les machines ou appareils de soudobrasage, brasage, brasage tendre, métallisation ; les machines ou appareils de découpe par procédés thermiques. |
 
-Autres outils à main, pour les lampes et les fers à souder.
+27.90.32 |
 
-|
+Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.90.31 ci-dessus. |
 
-25.93.15
+28.14.11 |
 
-|
+Détendeurs, réducteurs de pression, clapets et soupapes de sûreté, pour les éléments destinés aux matériels de soudage. |
 
-Fils, baguettes, tubes, plaques, électrodes, enrobés ou fourrés pour le soudage, ainsi que pour le soudobrasage, le brasage, le brasage tendre et la métallisation.
+28.29.22 |
 
-|
+Extincteurs, pistolets pulvérisateurs, appareils de nettoyage à la vapeur ou au sable et dispositifs mécaniques similaires, à l'exclusion de ceux utilisés dans l'agriculture, pour les appareils de métallisation par projection. |
 
-27.90.31
+28.29.60 |
 
-|
+Matériel n. c. a. pour le traitement de matériaux fonctionnant sur la base d'une différence de température, pour les pistolets à métalliser à chaud. |
 
-Matériel électrique pour le soudage et le brasage, y compris : les machines ou appareils de soudobrasage, brasage, brasage tendre, métallisation ; les machines ou appareils de découpe par procédés thermiques.
-
-|
-
-27.90.32
-
-|
-
-Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.90.31 ci-dessus.
-
-|
-
-28.14.11
-
-|
-
-Détendeurs, réducteurs de pression, clapets et soupapes de sûreté, pour les éléments destinés aux matériels de soudage.
-
-|
-
-28.29.22
-
-|
-
-Extincteurs, pistolets pulvérisateurs, appareils de nettoyage à la vapeur ou au sable et dispositifs mécaniques similaires, à l'exclusion de ceux utilisés dans l'agriculture, pour les appareils de métallisation par projection.
-
-|
-
-28.29.60
-
-|
-
-Matériel NCA pour le traitement de matériaux fonctionnant sur la base d'une différence de température, pour les pistolets à métalliser à chaud.
-
-|
-
-28.29.7
-
-|
+28.29.7 |
 
 Matériel non électrique pour le soudage et le brasage et ses parties ; matériel pour la trempe superficielle fonctionnant au gaz, y compris :
 
-|
+-les machines ou appareils de soudobrasage, brasage, brasage tendre, métallisation ;
 
-- les machines ou appareils de soudobrasage, brasage, brasage tendre, métallisation ;
+-les machines ou appareils de découpe par procédés thermiques,
 
-|
+à l'exclusion des machines pour la trempe superficielle. |
 
-- les machines ou appareils de découpe par procédés thermiques,
+28.29.86 |
 
-|
+Parties de matériel non électrique pour le soudage et le brasage et de matériel pour la trempe superficielle fonctionnant au gaz, pour les pièces, parties et accessoires des matériels mentionnés dans le paragraphe 28.29.7 ci-dessus. |
 
-à l'exclusion des machines pour la trempe superficielle.
+28.41.11 |
 
-|
-
-28.29.86
-
-|
-
-Parties de matériel non électrique pour le soudage et le brasage et de matériel pour la trempe superficielle fonctionnant au gaz, pour les pièces, parties et accessoires des matériels mentionnés dans le paragraphe 28.29.7 ci-dessus.
-
-|
-
-28.41.11
-
-|
-
-Machines-outils d'usinage des métaux opérant par enlèvement de matière par laser, ultrasons et procédés similaires, pour les machines ou appareils de découpe de tous matériaux.
-
-|
+Machines-outils d'usinage des métaux opérant par enlèvement de matière par laser, ultrasons et procédés similaires, pour les machines ou appareils de découpe de tous matériaux. |
 
 E-III. (abrogé)
 
-E-IV. - Produits, activités et prestations relevant du centre technique industriel de la construction métallique
+E-IV.-Produits, activités et prestations relevant du centre technique industriel de la construction métallique
 
-24.10.74
+24.10.74 |
 
-|
-
-Palplanches en acier et profilés ouverts obtenus par soudage, pour les profilés ouverts obtenus par soudage (tels que, notamment, les profils reconstitués par soudage et les poutres alvéolaires).
-
-|
+Palplanches en acier et profilés ouverts obtenus par soudage, pour les profilés ouverts obtenus par soudage (tels que, notamment, les profils reconstitués par soudage et les poutres alvéolaires). |
 
 25.11 |
 
-Structures métalliques et parties de structures, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, l'anodisation, le transport, ainsi que le montage, la réparation et l'installation mentionnés respectivement dans les sous-catégories 43.99.50, 33.11.11 et 33.20.11 :
+Structures métalliques et parties de structures, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, l'anodisation, le transport, ainsi que le montage, la réparation et l'installation mentionnés respectivement dans les sous-catégories 43.99.50,33.11.11 et 33.20.11 :
 
-- des bâtiments et hangars de toute nature ;
+-des bâtiments et hangars de toute nature ;
 
-- des unités et gros équipements industriels (tels que, notamment, les structures porteuses de hauts fourneaux, de fours, de racks, d'ensembles de stockage) ;
+-des unités et gros équipements industriels (tels que, notamment, les structures porteuses de hauts fourneaux, de fours, de racks, d'ensembles de stockage) ;
 
-- des ponts, passerelles, portiques, plates-formes diverses et leurs éléments constitutifs ;
+-des ponts, passerelles, portiques, plates-formes diverses et leurs éléments constitutifs ;
 
-- des pylônes en treillis, tours, mâts, portiques et leurs éléments constitutifs ;
+-des pylônes en treillis, tours, mâts, portiques et leurs éléments constitutifs ;
 
-- des pylônes et mâts chaudronnés de hauteur égale ou supérieure à 20 mètres et leurs éléments constitutifs ;
+-des pylônes et mâts chaudronnés de hauteur égale ou supérieure à 20 mètres et leurs éléments constitutifs ;
 
-- des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes et leurs éléments constitutifs ;
+-des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes et leurs éléments constitutifs ;
 
-- des chemins de roulement, de leurs supports et éléments constitutifs, pour appareils de manutention, de convoyage et de levage ;
+-des chemins de roulement, de leurs supports et éléments constitutifs, pour appareils de manutention, de convoyage et de levage ;
 
-- des appareils de manutention, convoyage, levage si la fabrication de ces ossatures n'est pas effectuée par une entreprise produisant le matériel complet ;
+-des appareils de manutention, convoyage, levage si la fabrication de ces ossatures n'est pas effectuée par une entreprise produisant le matériel complet ;
 
-- des débarcadères, appontements, jackets, porte-bateaux ;
+-des débarcadères, appontements, jackets, porte-bateaux ;
 
-- des portes d'écluses ;
+-des portes d'écluses ;
 
-- des batardeaux ;
+-des batardeaux ;
 
-- des vannes de barrage ;
+-des vannes de barrage ;
 
-- des grandes portes à ossature métallique ;
+-des grandes portes à ossature métallique ;
 
-- des constructions modulaires, baraques, baraques de chantier, abris mobiles ;
+-des constructions modulaires, baraques, baraques de chantier, abris mobiles ;-des tribunes fixes ou démontables, des tribunes mobiles ;
 
-- des tribunes fixes ou démontables, des tribunes mobiles ;
-
-- des escaliers, verrières, auvents et abris divers.
+-des escaliers, verrières, auvents et abris divers.
 
 Comprend également :
 
-- les panneaux d'enveloppe métallique (couvertures, façades) et de partition (planchers secs ou collaborants, cloisons) de toute nature, dès lors qu'ils contribuent à la stabilité globale ou locale des structures ;
-
-- les murs rideaux ;
-
-- les murs semi-rideaux.
+-les panneaux d'enveloppe métallique (couvertures, façades) et de partition (planchers secs ou collaborants, cloisons) de toute nature, dès lors qu'ils contribuent à la stabilité globale ou locale des structures ;
 
 A l'exclusion :
 
-- dans la sous-catégorie 25.11.23, des produits mentionnés au paragraphe E-I ;
+-dans la sous-catégorie 25.11.23, des produits mentionnés au paragraphe E-I ;
 
-- des cabines téléphoniques.
-
-|
+-des cabines téléphoniques. |
 
 25.29.1 |
 
-Réservoirs, cuves et récipients métalliques, pour les éléments chaudronnés des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes, ainsi que les opérations d'installation mentionnées dans la sous-catégorie 33. 20. 12 pour le montage in situ des éléments de réservoirs. |
+Réservoirs, cuves et récipients métalliques, pour les éléments chaudronnés des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes, ainsi que les opérations d'installation mentionnées dans la sous-catégorie 33.20.12 pour le montage in situ des éléments de réservoirs. |
 
 30.11.33 |
 
@@ -2346,33 +2164,25 @@ Plates-formes de forage en mer, pour les structures métalliques. |
 
 Autres structures flottantes (y compris radeaux, caissons, batardeaux, pontons flottants, bouées et balises), pour :
 
-- les portes flottantes, ponts-bateaux ;
+-les portes flottantes, ponts-bateaux ;
 
-- les caissons ou pontons à ossature métallique.
+-les caissons ou pontons à ossature métallique. |
 
-|
-
-E-V. - Produits, activités et prestations relevant du centre technique des industries aérauliques et thermiques
+E-V.-Produits, activités et prestations relevant du centre technique des industries aérauliques et thermiques
 
 22.23.19 |
 
-Eléments pour la construction en matières plastiques n.c.a. (non cités ailleurs), pour les matériels aérauliques et thermiques. Comprend également les gaines de ventilation, de distribution et de dépoussiérage de l'air et leurs accessoires de raccordement tels que, notamment, coudes, manchons, brides et raccords divers. |
+Éléments pour la construction en matières plastiques n. c. a. (non cités ailleurs), pour les matériels aérauliques et thermiques. Comprend également les gaines de ventilation, de distribution et de dépoussiérage de l'air et leurs accessoires de raccordement tels que, notamment, coudes, manchons, brides et raccords divers. |
 
 24.20 |
 
 Tubes, tuyaux, profilés creux et accessoires en acier, pour les gaines de ventilation, de distribution et de dépoussiérage de l'air et leurs accessoires de raccordement tels que, notamment, coudes, manchons, brides et raccords divers.
 
-A l'exclusion des produits mentionnés au paragraphe E-I.
-
-|
+À l'exclusion des produits mentionnés au paragraphe E-I. |
 
 24.42.26 |
 
-Tubes, tuyaux et accessoires de tuyauterie en aluminium et alliages pour les gaines de ventilation, de distribution et de dépoussiérage de l'air et leurs accessoires de raccordement.
-
-A l'exclusion des produits mentionnés au paragraphe E-I.
-
-|
+Tubes, tuyaux et accessoires de tuyauterie en aluminium et alliages pour les gaines de ventilation, de distribution et de dépoussiérage de l'air et leurs accessoires de raccordement. |
 
 25.11.99 |
 
@@ -2382,27 +2192,25 @@ Opérations sous-traitées intervenant dans la fabrication de structures et él�
 
 Radiateurs et chaudières pour le chauffage central, y compris :
 
-- les radiateurs et éléments de radiateurs, les convecteurs, les panneaux rayonnants, les planchers chauffants et les plinthes chauffantes, à eau chaude ;
+-les radiateurs et éléments de radiateurs, les convecteurs, les panneaux rayonnants, les planchers chauffants et les plinthes chauffantes, à eau chaude ;
 
-- les chaudières et les parties de chaudières quel que soit le matériau qui les constitue.
+-les chaudières et les parties de chaudières quel que soit le matériau qui les constitue.
 
 Comprend également :
 
-- les corps de chauffe de chaudières utilisées pour le chauffage des locaux ;
+-les corps de chauffe de chaudières utilisées pour le chauffage des locaux ;
 
-- les chaudières mixtes avec dispositif de production d'eau chaude sanitaire incorporé ou juxtaposé ;
+-les chaudières mixtes avec dispositif de production d'eau chaude sanitaire incorporé ou juxtaposé ;
 
-- les chaudières intégrant un système de production locale d'électricité (cogénération) ;
+-les chaudières intégrant un système de production locale d'électricité (cogénération) ;
 
-- les opérations de réparation et d'installation mentionnées dans les sous-catégories 33.11.12 et 33.20.12.
+-les opérations de réparation et d'installation mentionnées dans les sous-catégories 33.11.12 et 33.20.12.
 
-A l'exclusion des produits mentionnés au paragraphe E-I.
-
-|
+À l'exclusion des produits mentionnés au paragraphe E-I. |
 
 25.99.29 |
 
-Autres articles en métaux communs n.c.a. (non cités ailleurs), pour les tuyaux flexibles en métal ou en tout autre matériau destinés à la distribution de l'air ainsi qu'au dépoussiérage et au transport par air. |
+Autres articles en métaux communs n. c. a. (non cités ailleurs), pour les tuyaux flexibles en métal ou en tout autre matériau destinés à la distribution de l'air ainsi qu'au dépoussiérage et au transport par air. |
 
 26.51.5 |
 
@@ -2418,49 +2226,41 @@ Hottes aspirantes et ventilateurs à usage ménager, pour les ventilateurs à us
 
 A l'exclusion :
 
-- des motoventilateurs aérateurs de fenêtre ;
+-des motoventilateurs aérateurs de fenêtre ;
 
-- des motoventilateurs brasseurs d'air de puissance nominale absorbée inférieure à 150 W.
-
-|
+-des motoventilateurs brasseurs d'air de puissance nominale absorbée inférieure à 150 W. |
 
 27.51.99 |
 
 Opérations sous-traitées intervenant dans la fabrication d'appareils électroménagers.
 
-Concerne les sous-catégories 27.51.11 et 27.51.15 telles que précisées ci-dessus.
-
-|
+Concerne les sous-catégories 27.51.11 et 27.51.15 telles que précisées ci-dessus. |
 
 27.52 |
 
 Appareils ménagers non électriques et leurs parties, pour :
 
-- les appareils rayonnants ;
+-les appareils rayonnants ;
 
-- les matériels et équipements pour la récupération de l'énergie thermique des fluides énergétiques (eau chaude, vapeur, air comprimé) ainsi que des énergies solaire, géothermique, éolienne et de biomasse, y compris les systèmes ou panneaux solaires hybrides thermique/photovoltaïque, les pompes à chaleur prélevant de l'énergie dans le sol et les puits canadiens/provençaux ;
+-les matériels et équipements pour la récupération de l'énergie thermique des fluides énergétiques (eau chaude, vapeur, air comprimé) ainsi que des énergies solaire, géothermique, et de biomasse, y compris les systèmes ou panneaux solaires hybrides thermique/ photovoltaïque, les pompes à chaleur prélevant de l'énergie dans le sol et les puits canadiens/ provençaux ;
 
-- les générateurs d'air chaud, quelle que soit leur puissance thermique ;
+-les générateurs d'air chaud, quelle que soit leur puissance thermique ;
 
-- les récupérateurs de chaleur de cheminées ;
+-les récupérateurs de chaleur de cheminées ;
 
-- les chauffe-eau solaires non photovoltaïques ;
+-les chauffe-eau solaires non photovoltaïques ;
 
-- les chauffe-eau thermodynamiques dont l'un des fluides caloporteurs est l'air ;
+-les chauffe-eau thermodynamiques dont l'un des fluides caloporteurs est l'air ;
 
-- les corps de chauffe des matériels ci-dessus.
+-les corps de chauffe des matériels ci-dessus.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.21.11 |
 
 Brûleurs ; foyers automatiques et grilles mécaniques ; dispositifs mécaniques pour l'évacuation des cendres et dispositifs similaires, pour tous les brûleurs industriels ou de chaudières de chauffage central, y compris avant-foyers, grilles mécaniques et foyers automatiques à combustibles solides.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.21.14 |
 
@@ -2470,163 +2270,145 @@ Parties de fours et de brûleurs, pour les pièces détachées de brûleurs indu
 
 Echangeurs de chaleur et dispositifs de liquéfaction d'air ou d'autres gaz et leurs parties, y compris :
 
-- les échangeurs de chaleur à plaques ou à tubes, quels que soient les fluides caloporteurs, destinés à des installations de chauffage central, de chauffage d'îlots ou de zones de chauffage urbain ;
+-les échangeurs de chaleur à plaques ou à tubes, quels que soient les fluides caloporteurs, destinés à des installations de chauffage central, de chauffage d'îlots ou de zones de chauffage urbain ;
 
-- les échangeurs de chaleur dont l'un au moins des fluides caloporteurs est l'air ;
+-les échangeurs de chaleur dont l'un au moins des fluides caloporteurs est l'air ;
 
-- les aéroréfrigérants ;
+-les aéroréfrigérants ;
 
-- les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29. Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
+-les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
+
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
 
 A l'exclusion des produits suivants mentionnés au paragraphe E-I :
 
-- les batteries de refroidissement d'air à détente directe ou à circulation de saumure ;
+-les batteries de refroidissement d'air à détente directe ou à circulation de saumure ;
 
-- les condenseurs et évaporateurs frigorifiques ;
+-les condenseurs et évaporateurs frigorifiques ;
 
-- les matériels utilisés dans les installations industrielles de conservation par le froid ;
+-les matériels utilisés dans les installations industrielles de conservation par le froid ;
 
-- les matériels utilisés dans les procédés des installations chimiques et pétrolières.
-
-|
+-les matériels utilisés dans les procédés des installations chimiques et pétrolières. |
 
 28.25.12 |
 
 Dispositifs de conditionnement de l'air et leur parties, y compris :
 
-- les appareils autonomes de conditionnement de l'air ;
+-les appareils autonomes de conditionnement de l'air ;
 
-- les centrales de traitement d'air ;
+-les centrales de traitement d'air ;
 
-- les appareils mobiles de conditionnement de l'air ;
+-les appareils mobiles de conditionnement de l'air ;
 
-- les humidificateurs et déshumidificateurs d'air ;
+-les humidificateurs et déshumidificateurs d'air ;
 
-- les éjecto-convecteurs et ventilo-convecteurs ;
+-les éjecto-convecteurs et ventilo-convecteurs ;
 
-- les appareils de conditionnement d'air pour les locaux à ambiance contrôlée (type salle blanche) ;
+-les appareils de conditionnement d'air pour les locaux à ambiance contrôlée (type salle blanche) ;
 
-- les appareils à évaporation pour le rafraîchissement de l'air.
+-les appareils à évaporation pour le rafraîchissement de l'air ;
 
-- les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
+-les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages |
 
 28.25.13 |
 
 Equipements frigorifiques industriels et pompes à chaleur et leurs parties, pour :
 
-- les pompes à chaleur dont l'un des fluides caloporteurs est l'air ;
+-les pompes à chaleur dont l'un des fluides caloporteurs est l'air ;
 
-- les pompes à chaleur prélevant de l'énergie dans le sol ;
+-les pompes à chaleur prélevant de l'énergie dans le sol ;
 
-- les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
+-les opérations de réparation et d'installation mentionnées respectivement dans les sous-catégories 33.12.18 et 33.20.29.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.25.14 |
 
-Matériels de filtrage et de dépoussiérage des gaz n.c.a. (non cités ailleurs) et leurs parties, y compris :
+Matériels de filtrage et de dépoussiérage des gaz n. c. a. (non cités ailleurs) et leurs parties, y compris :
 
-- les systèmes d'aspiration centralisée industriels, tertiaires ou domestiques ;
+-les systèmes d'aspiration centralisée industriels, tertiaires ou domestiques ;
 
-- les opérations d'installation mentionnées dans les catégories 33.20.2 et 33.20.3.
+-les opérations d'installation mentionnées dans les catégories 33.20.2 et 33.20.3.
 
-Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les systèmes, les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.25.2 |
 
 Appareils de ventilation non domestiques, et leurs parties pour :
 
-- les ventilateurs industriels et plus généralement tous les appareils comportant ou non des organes mobiles, ayant pour but de mettre en mouvement des gaz, et en particulier de l'air, quels que soient les matériaux de construction ;
+-les ventilateurs industriels et plus généralement tous les appareils comportant ou non des organes mobiles, ayant pour but de mettre en mouvement des gaz, et en particulier de l'air, quels que soient les matériaux de construction ;
 
-- les matériels d'aspiration des gaz, fumés, vapeurs ;
+-les matériels d'aspiration des gaz, fumés, vapeurs ;
 
-- les opérations d'installation mentionnées dans la sous-catégorie 33.20.29.
+-les opérations d'installation mentionnées dans la sous-catégorie 33.20.29.
 
 A l'exclusion de tous appareils générant une pression supérieure à 30 000 Pa.
 
-Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.25.3 |
 
 Parties d'équipements frigorifiques industriels et de pompes à chaleur, y compris :
 
-- les parties de matériels aérauliques pour tous les appareils destinés à des applications industrielles, tertiaires ou domestiques, de mise en mouvement, de distribution et de diffusion de l'air ;
+-les parties de matériels aérauliques pour tous les appareils destinés à des applications industrielles, tertiaires ou domestiques, de mise en mouvement, de distribution et de diffusion de l'air ;
 
-- les bouches de reprise et de diffusion, les grilles, les clapets coupe-feu, destinés aux installations de chauffage, de ventilation, conditionnement d'air, séchage, transport par air et par lit fluidisé ;
+-les bouches de reprise et de diffusion, les grilles, les clapets coupe-feu, destinés aux installations de chauffage, de ventilation, conditionnement d'air, séchage, transport par air et par lit fluidisé ;
 
-- à l'exclusion des tampons et des grilles en fonte ou en produits de fonderie.
+-à l'exclusion des tampons et des grilles en fonte ou en produits de fonderie.
 
-A l'exclusion, dans la sous-catégorie 28 25.30, des produits mentionnés au paragraphe E-1.
-
-|
+A l'exclusion, dans la sous-catégorie 28 25.30, des produits mentionnés au paragraphe E-1. |
 
 28.25.99 |
 
 Opérations sous-traitées intervenant dans la fabrication d'équipements aérauliques et frigorifiques industriels.
 
-Concerne les sous-catégories 28.25.11, 28.25.12, 28.25.13, 28.25.14 et les catégories 28.25.2, 28.25.3 telles que précisées ci-dessus.
-
-|
+Concerne les sous-catégories 28.25.11,28.25.12,28.25.13,28.25.14 et les catégories 28.25.2,28.25.3 telles que précisées ci-dessus. |
 
 28.29 |
 
-Autres machines d'usage général n.c.a. (non citées ailleurs), pour :
+Autres machines d'usage général n. c. a. (non citées ailleurs), pour :
 
-- les appareils rayonnants non ménagers à alimentation autre qu'électrique ;
+-les appareils rayonnants non ménagers à alimentation autre qu'électrique ;
 
-- les matériels et équipements non ménagers pour la récupération de l'énergie thermique des fluides énergétiques (eau chaude, vapeur, air comprimé) ainsi que les énergies solaire, géothermique, éolienne et de biomasse, y compris les systèmes ou panneaux solaires hybrides thermique/photovoltaïque, les pompes à chaleur prélevant de l'énergie dans le sol et les puits canadiens/provençaux ;
+-les matériels et équipements non ménagers pour la récupération de l'énergie thermique des fluides énergétiques (eau chaude, vapeur, air comprimé) ainsi que les énergies solaire, géothermique, et de biomasse, y compris les systèmes ou panneaux solaires hybrides thermique/ photovoltaïque, les pompes à chaleur prélevant de l'énergie dans le sol et les puits canadiens/ provençaux ;
 
-- les corps de chauffe des matériels ci-dessus ;
+-les corps de chauffe des matériels ci-dessus ;
 
-- les tours de refroidissement ;
+-les tours de refroidissement ;
 
-- les opérations d'installation mentionnées dans la sous-catégorie 33.20.29 pour les équipements assemblés sur site.
+-les opérations d'installation mentionnées dans la sous-catégorie 33.20.29 pour les équipements assemblés sur site.
 
-Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.93.16 |
 
 Séchoirs agroalimentaires, pour :
 
-- les séchoirs agricoles et agroalimentaires opérant par contact avec un courant d'air et sans modification de la structure moléculaire primitive des produits ;
+-les séchoirs agricoles et agroalimentaires opérant par contact avec un courant d'air et sans modification de la structure moléculaire primitive des produits ;
 
-- les opérations d'installation mentionnées dans les sous-catégories 33.20.31 et 33.20.35.
+-les opérations d'installation mentionnées dans les sous-catégories 33.20.31 et 33.20.35.
 
-Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages
-
-|
+Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.99.31 |
 
 Séchoirs à bois, pâte à papier, papier et carton ; séchoirs industriels NCA (non cités ailleurs), pour :
 
-- les séchoirs industriels opérant par contact avec un courant d'air et sans modification de la structure moléculaire primitive des produits ;
+-les séchoirs industriels opérant par contact avec un courant d'air et sans modification de la structure moléculaire primitive des produits ;
 
-- les opérations d'installation mentionnées dans les sous-catégories 33.20.34, 33.20.36, 33.20.37, 33.20.38 et 33.20.39.
+-les opérations d'installation mentionnées dans les sous-catégories 33.20.34,33.20.36,33.20.37,33.20.38 et 33.20.39.
 
-Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages.
-
-|
+Comprend également les installations ou les ensembles d'équipements pouvant servir aux mêmes usages. |
 
 28.99.39 |
 
-Dispositifs de lancement d'aéronefs ; dispositifs d'appontage ou dispositifs similaires ; équipements d'équilibrage de pneumatiques ; machines d'usage spécifique n.c.a. (non citées ailleurs), pour les appareils à évaporation pour le rafraîchissement de l'air. |
+Dispositifs de lancement d'aéronefs ; dispositifs d'appontage ou dispositifs similaires ; équipements d'équilibrage de pneumatiques ; machines d'usage spécifique n. c. a. (non citées ailleurs), pour les appareils à évaporation pour le rafraîchissement de l'air. |
 
 28.99.52 |
 
-Parties de machines d'usage spécifique n.c.a. (non citées ailleurs), pour les pièces et parties des produits mentionnés dans les sous-catégories 28.93.16 et 28.99.31. |
+Parties de machines d'usage spécifique n. c. a. (non citées ailleurs), pour les pièces et parties des produits mentionnés dans les sous-catégories 28.93.16 et 28.99.31. |
 
 F.-TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DES MATÉRIAUX DE CONSTRUCTION
 
@@ -3884,207 +3666,131 @@ Argile et schiste expansés.
 
 |
 
-H. - Produits, activités et prestations relevant du centre technique des industries de la fonderie
+H.-Produits, activités et prestations relevant du centre technique des industries de la fonderie
 
-24.10.21
+24.10.21 |
 
-|
+Acier non allié en lingots ou autres formes primaires et demi-produits en acier non allié fabriqués par procédé de fonderie y compris fonte non alliée ou fer non allié en lingots ou autres formes primaires et demi-produits en fonte non alliée ou fer non allié fabriqués par procédé de fonderie |
 
-Acier non allié en lingots ou autres formes primaires et demi-produits en acier non allié fabriqués par procédé de fonderie y compris fonte non alliée ou fer non allié en lingots ou autres formes primaires et demi-produits en fonte non alliée ou fer non allié fabriqués par procédé de fonderie
+24.10.22 |
 
-|
+Acier inoxydable en lingots ou autres formes primaires et demi-produits en acier inoxydable fabriqués par procédé de fonderie |
 
-24.10.22
+24.10.23 |
 
-|
+Autres aciers alliés en lingots ou autres formes primaires et demi-produits en autres aciers alliés fabriqués par procédé de fonderie y compris fonte alliée ou fer allié en lingots ou autres formes primaires et demi-produits en fonte alliée ou fer allié fabriqués par procédé de fonderie |
 
-Acier inoxydable en lingots ou autres formes primaires et demi-produits en acier inoxydable fabriqués par procédé de fonderie
+24.10.75 |
 
-|
+Éléments de voie ferrée en acier, en fonte ou en fer fabriqués par procédé de fonderie |
 
-24.10.23
+24.20.1 |
 
-|
+Tubes, tuyaux et profilés creux, sans soudure, en acier ou en fer fabriqués par procédé de fonderie |
 
-Autres aciers alliés en lingots ou autres formes primaires et demi-produits en autres aciers alliés fabriqués par procédé de fonderie y compris fonte alliée ou fer allié en lingots ou autres formes primaires et demi-produits en fonte alliée ou fer allié fabriqués par procédé de fonderie
+24.42.11 |
 
-|
+Aluminium brut ; comprend les lingots ou autres formes primaires en aluminium ou alliages d'aluminium fabriqués par procédé de fonderie |
 
-24.10.75
+24.42.22 |
 
-|
+Barres et profilés en aluminium ou en alliages d'aluminium fabriqués par procédé de fonderie |
 
-Eléments de voie ferrée en acier, en fonte ou en fer fabriqués par procédé de fonderie
+24.42.26 |
 
-|
+Tubes, tuyaux et accessoires de tuyauterie en aluminium ou en alliages d'aluminium fabriqués par procédé de fonderie |
 
-24.20.1
+24.43.11 |
 
-|
+Plomb brut ; comprend les lingots ou autres formes primaires en plomb ou alliages de plomb fabriqués par procédé de fonderie |
 
-Tubes, tuyaux et profilés creux, sans soudure, en acier ou en fer fabriqués par procédé de fonderie
+24.43.12 |
 
-|
+Zinc brut ; comprend les lingots ou autres formes primaires en zinc ou alliages de zinc fabriqués par procédé de fonderie |
 
-24.42.22
+24.43.13 |
 
-|
+Étain brut ; comprend les lingots ou autres formes primaires en étain ou alliages d'étain fabriqués par procédé de fonderie |
 
-Barres et profilés en aluminium ou en alliages d'aluminium fabriqués par procédé de fonderie
+24.43.23 |
 
-|
+Barres, profilés et fils en zinc ; tôles, bandes et feuilles en zinc ou alliages de zinc ; pour les barres et profilés en zinc ou alliages de zinc fabriqués par procédé de fonderie |
 
-24.42.26
+24.43.24 |
 
-|
+Barres, profilés et fils en étain ou alliages d'étain ; pour les barres et profilés en étain ou alliages d'étain fabriqués par procédé de fonderie |
 
-Tubes, tuyaux et accessoires de tuyauterie en aluminium ou en alliages d'aluminium fabriqués par procédé de fonderie
+24.44.13 |
 
-|
+Cuivre affiné et alliages de cuivre bruts ; alliages mères de cuivre ; comprend les lingots ou autres formes primaires en cuivre ou alliages de cuivre fabriqués par procédé de fonderie |
 
-24.43.23
+24.44.22 |
 
-|
+Barres et profilés en cuivre ou en alliage de cuivre fabriqués par procédé de fonderie |
 
-Barres, profilés et fils en zinc ; tôles, bandes et feuilles en zinc ou alliages de zinc ; pour les barres et profilés en zinc ou alliages de zinc fabriqués par procédé de fonderie
+24.44.26 |
 
-|
+Tubes, tuyaux et accessoires de tuyauterie en cuivre ou en alliage de cuivre, pour les accessoires de tuyauterie fabriqués par procédé de fonderie |
 
-24.43.24
+24.45.11 |
 
-|
+Nickel brut ; comprend les lingots ou autres formes primaires en nickel ou alliages de nickel fabriqués par procédé de fonderie |
 
-Barres, profilés et fils en étain ou alliages d'étain ; pour les barres et profilés en étain ou alliages d'étain fabriqués par procédé de fonderie
+24.45.22 |
 
-|
+Barres, profilés et fils en nickel ou en alliage de nickel ; pour les barres et profilés en nickel ou alliages de nickel fabriqués par procédé de fonderie |
 
-24.44.22
+24.45.24 |
 
-|
+Tubes, tuyaux et accessoires de tuyauterie en nickel ou en alliage de nickel fabriqués par procédé de fonderie |
 
-Barres et profilés en cuivre ou en alliage de cuivre fabriqués par procédé de fonderie
+24.45.3 |
 
-|
+Autres métaux non ferreux et ouvrages en ces métaux ; cermets ; cendres et résidus contenant des métaux ou des composés métalliques ; pour les ouvrages en autres métaux non ferreux fabriqués par procédé de fonderie |
 
-24.44.26
+24.51.1 |
 
-|
+Travaux de fonderie de fonte |
 
-Tubes, tuyaux et accessoires de tuyauterie en cuivre ou en alliage de cuivre, pour les accessoires de tuyauterie fabriqués par procédé de fonderie
+24.51.2 |
 
-|
+Tubes, tuyaux et profilés creux, en fonte |
 
-24.45.22
+24.51.3 |
 
-|
+Accessoires de tuyauterie, en fonte |
 
-Barres, profilés et fils en nickel ou en alliage de nickel ; pour les barres et profilés en nickel ou alliages de nickel fabriqués par procédé de fonderie
+24.51.9 |
 
-|
+Opérations sous-traitées intervenant dans la fonderie de fonte pour les catégories 24.51.1,24.51.2 et 24.51.3 |
 
-24.45.24
+24.52.1 |
 
-|
+Travaux de fonderie d'acier y compris les opérations sous-traitées intervenant dans la fonderie d'acier et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie |
 
-Tubes, tuyaux et accessoires de tuyauterie en nickel ou en alliage de nickel fabriqués par procédé de fonderie
+24.52.2 |
 
-|
+Tubes et tuyaux en acier coulé par centrifugation y compris les opérations sous-traitées intervenant dans la fabrication de tubes et tuyaux en acier coulé par centrifugation |
 
-24.45.3
+24.52.3 |
 
-|
+Accessoires de tuyauterie, en acier coulé y compris les opérations sous-traitées intervenant dans la fabrication d'accessoires de tuyauterie, en acier coulé |
 
-Autres métaux non ferreux et ouvrages en ces métaux ; cermets ; cendres et résidus contenant des métaux ou des composés métalliques ; pour les ouvrages en autres métaux non ferreux fabriqués par procédé de fonderie
+24.53 |
 
-|
+Travaux de fonderie de métaux légers y compris les opérations sous-traitées intervenant dans la fonderie de métaux légers et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie |
 
-24.51.1
+24.54 |
 
-|
+Travaux de fonderie d'autres métaux non ferreux y compris les opérations sous-traitées intervenant dans la fonderie d'autres métaux non ferreux et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie |
 
-Travaux de fonderie de fonte
+25.21.11 |
 
-|
+Radiateurs pour le chauffage, non électriques, en fonte ou en acier fabriqués par procédé de fonderie |
 
-24.51.2
+25.21.12 |
 
-|
-
-Tubes, tuyaux et profilés creux, en fonte
-
-|
-
-24.51.3
-
-|
-
-Accessoires de tuyauterie, en fonte
-
-|
-
-24.51.9
-
-|
-
-Opérations sous-traitées intervenant dans la fonderie de fonte pour les catégories 24.51.1, 24.51.2 et 24.51.3
-
-|
-
-24.52.1
-
-|
-
-Travaux de fonderie d'acier y compris les opérations sous-traitées intervenant dans la fonderie d'acier et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie
-
-|
-
-24.52.2
-
-|
-
-Tubes et tuyaux en acier coulé par centrifugation y compris les opérations sous-traitées intervenant dans la fabrication de tubes et tuyaux en acier coulé par centrifugation
-
-|
-
-24.52.3
-
-|
-
-Accessoires de tuyauterie, en acier coulé y compris les opérations sous-traitées intervenant dans la fabrication d'accessoires de tuyauterie, en acier coulé
-
-|
-
-24.53
-
-|
-
-Travaux de fonderie de métaux légers y compris les opérations sous-traitées intervenant dans la fonderie de métaux légers et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie
-
-|
-
-24.54
-
-|
-
-Travaux de fonderie d'autres métaux non ferreux y compris les opérations sous-traitées intervenant dans la fonderie d'autres métaux non ferreux et à l'exception de ceux destinés aux usages de bijouterie joaillerie et orfèvrerie
-
-|
-
-25.21.11
-
-|
-
-Radiateurs pour le chauffage, non électriques, en fonte ou en acier fabriqués par procédé de fonderie
-
-|
-
-25.21.12
-
-|
-
-Chaudières pour le chauffage central, à eau chaude ou à vapeur ; pour les chaudières en fonte fabriquées par procédé de fonderie
-
-|
+Chaudières pour le chauffage central, à eau chaude ou à vapeur ; pour les chaudières en fonte fabriquées par procédé de fonderie |
 
 25.21.13 |
 
@@ -4102,9 +3808,17 @@ Bombes, missiles et armements de guerre similaires ; cartouches, autres munition
 
 Parties et pièces d'armes de guerre ou de chasse fabriquées par procédé de fonderie |
 
+25.71.15 |
+
+Épées, sabres, baïonnettes, lances et armes similaires, et leurs parties ; pour les parties fabriquées par procédé de fonderie |
+
 25.72.13 |
 
 Fermoirs et montures-fermoirs comportant une serrure, et leurs parties ; pour les parties de fermoirs, monture-fermoirs et serrures fabriquées par procédé de fonderie |
+
+25.72.14 |
+
+Ferrures, garnitures, accessoires et articles similaires pour l'automobile, l'ameublement, la menuiserie, en métaux communs fabriqués par procédé de fonderie |
 
 25.91.1 |
 
@@ -4134,6 +3848,10 @@ Parties de lampes et d'appareils d'éclairage fabriquées par procédé de fonde
 
 Parties d'appareils électroménagers fabriquées par procédé de fonderie |
 
+27.52.11 |
+
+Appareils ménagers de cuisson et chauffe-plats, en fer, acier ou cuivre, non électriques fabriqués par procédé de fonderie |
+
 27.52.12 |
 
 Autres appareils ménagers de chauffage, fonctionnant au gaz ou avec des combustibles liquides ou solides fabriqués par procédé de fonderie |
@@ -4144,7 +3862,7 @@ Parties d'appareils de cuisson ou de chauffage, non électriques fabriquées par
 
 27.90.33 |
 
-Parties d'autres matériels électriques ; parties électriques de matériels n.c.a. ; pour les parties fabriquées par procédé de fonderie |
+Parties d'autres matériels électriques ; parties électriques de matériels n. c. a. ; pour les parties fabriquées par procédé de fonderie |
 
 28.11.3 |
 
@@ -4192,7 +3910,7 @@ Parties d'équipements frigorifiques industriels et de pompes à chaleur fabriqu
 
 28.29.8 |
 
-Parties d'autres machines d'usage général n.c.a. fabriquées par procédé de fonderie |
+Parties d'autres machines d'usage général n. c. a. fabriquées par procédé de fonderie |
 
 28.30.9 |
 
@@ -4228,7 +3946,7 @@ Parties de machines pour les industries du papier et du carton fabriquées par p
 
 28.96.2 |
 
-Parties de machines n.c.a. pour le travail du caoutchouc ou des matières plastiques et pour la fabrication d'articles en ces matières ; pour les parties fabriquées par procédé de fonderie |
+Parties de machines n. c. a. pour le travail du caoutchouc ou des matières plastiques et pour la fabrication d'articles en ces matières ; pour les parties fabriquées par procédé de fonderie |
 
 28.99.4 |
 
@@ -4236,7 +3954,7 @@ Parties de machines d'imprimerie et de machines pour le brochage et la reliure f
 
 28.99.5 |
 
-Parties de machines et d'appareils utilisés uniquement ou principalement pour fabriquer des barreaux ou plaquettes de semi-conducteurs, des dispositifs à semi-conducteur, des circuits intégrés électroniques ou des écrans plats ; parties de machines d'usage spécifique n.c.a. ; pour les parties fabriquées par procédé de fonderie |
+Parties de machines et d'appareils utilisés uniquement ou principalement pour fabriquer des barreaux ou plaquettes de semi-conducteurs, des dispositifs à semi-conducteur, des circuits intégrés électroniques ou des écrans plats ; parties de machines d'usage spécifique n. c. a. ; pour les parties fabriquées par procédé de fonderie |
 
 29.20.3 |
 
@@ -4248,7 +3966,7 @@ Parties d'équipements électriques pour véhicules automobiles et motocycles fa
 
 29.32.3 |
 
-Parties et accessoires n.c.a. pour véhicules automobiles fabriqués par procédé de fonderie |
+Parties et accessoires n. c. a. pour véhicules automobiles fabriqués par procédé de fonderie |
 
 30.20.4 |
 
@@ -4280,15 +3998,27 @@ Parties et accessoires pour bicyclettes et autres cycles non motorisés et pour 
 
 30.92.4 |
 
-Parties et accessoires pour landaus et poussettes fabriqués par procédé de fonderie |
+Landaus et poussettes, et leurs parties ; pour les parties fabriquées par procédé de fonderie |
 
-32.40.20 |
+31.00.1 |
+
+Sièges et leurs parties fabriqués par procédé de fonderie |
+
+31.00.2 |
+
+Parties de meubles (à l'exclusion des sièges) fabriq ués par procédé de fonderie |
+
+32.20.2 |
+
+Parties et accessoires d'instruments de musique fabriqués par procédé de fonderie |
+
+32.40.2 |
 
 Trains-jouets et accessoires ; autres modèles réduits et jeux de construction ; pour les jouets, accessoires, modèles-réduits et jeux de construction fabriqués par procédé de fonderie |
 
 32.50.22 |
 
-Articulations artificielles ; appareils orthopédiques ; dents artificielles ; dentiers ; prothèses n.c.a. ; pour les articulations artificielles, les appareils orthopédiques, les dents artificielles, les dentiers, les prothèses n.c.a. fabriqués par procédé de fonderie |
+Articulations artificielles ; appareils orthopédiques ; dents artificielles ; dentiers ; prothèses n. c. a. ; pour les articulations artificielles, les appareils orthopédiques, les dents artificielles, les dentiers, les prothèses n. c. a. fabriqués par procédé de fonderie |
 
 32.50.23 |
 
@@ -4298,9 +4028,17 @@ Parties et accessoires de prothèses et appareils orthopédiques fabriqués par 
 
 Formes pour boutons et autres parties de boutons ; ébauches de boutons ; parties de fermetures à glissière ; pour les formes pour boutons et autres parties de boutons, ébauches de boutons et parties de fermetures à glissière fabriquées par procédé de fonderie |
 
+32.99.42 |
+
+Parties de briquets ; alliages pyrophoriques ; articles en matières combustibles ; pour les alliages pyrophoriques fabriqués par procédé de fonderie |
+
 32.99.52 |
 
 Vaporisateurs de toilette, leurs montures et têtes de montures fabriquées par procédé de fonderie |
+
+38.11.58 |
+
+Déchets métalliques non dangereux ; comprend les déchets lingotés en fer ou en fonte ou en acier fabriqués par procédé de fonderie |
 
 I. - Produits, activités et prestations relevant du centre technique des industries de la plasturgie et des composites
 
