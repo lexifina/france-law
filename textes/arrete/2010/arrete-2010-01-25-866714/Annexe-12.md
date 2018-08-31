@@ -1,20 +1,18 @@
 # Article Annexe 12
 
-MODALITÉS DE REPRÉSENTATION DE LA CLASSIFICATION DE L'ÉTAT ET DU POTENTIEL ÉCOLOGIQUES ET DE L'ÉTAT CHIMIQUE DES MASSES D'EAU DE SURFACE
-
-Les modalités de représentation à suivre pour la réalisation des cartes d'état et de potentiel écologiques et d'état chimique pour les masses d'eau de surface sont définies ci-après.
+LES MODALITÉS DE REPRÉSENTATION À SUIVRE POUR LA RÉALISATION DES CARTES D'ÉTAT ET DE POTENTIEL ÉCOLOGIQUES ET D'ÉTAT CHIMIQUE POUR LES MASSES D'EAU DE SURFACE SONT DÉFINIES CI-APRÈS
 
 1. Etat et potentiel écologiques
 
-La classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 90 ci-dessous.
+La classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 89 ci-dessous.
 
-Tableau 90 : Code couleur pour la représentation de la classification de l'état des masses d'eau
+Tableau 89 : code couleur pour la représentation de la classification de l'état des masses d'eau
 
 CLASSIFICATION DE L'ÉTAT ÉCOLOGIQUE
 
 |
 
-CODE COULEUR
+CODE DE COULEUR
 
 |
 
@@ -70,25 +68,19 @@ Un point noir est ajouté sur la carte pour les masses d'eau ne respectant pas u
 
 |
 
-CLASSIFICATION DU POTENTIEL
-
-ÉCOLOGIQUE
+CLASSIFICATION DU POTENTIEL ÉCOLOGIQUE
 
 |
 
-CODE COULEUR
+CODE DE COULEUR
 
 |
 
-Masses d'eau
-
-artificielles
+Masses d'eau artificielles
 
 |
 
-Masses d'eau
-
-fortement modifiées
+Masses d'eau fortement modifiées
 
 |
 
@@ -156,11 +148,21 @@ Un point noir est ajouté sur la carte pour les masses d'eau ne respectant pas u
 
 |
 
-Le niveau de confiance de la classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 91 ci-dessous.
+|
 
-Tableau 91 : Code couleur pour la représentation du niveau de confiance de la classification de l'état et du potentiel écologique des masses d'eau de surface
+|
 
-NIVEAU DE CONFIANCE DE LA CLASSIFICATION DE L'ÉTAT ET DU POTENTIEL ÉCOLOGIQUES
+|
+
+|
+
+Le niveau de confiance de la classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 90 ci-dessous.
+
+Tableau 90 : code couleur pour la représentation du niveau de confiance de la classification de l'état et du potentiel écologique des masses d'eau de surface
+
+NIVEAU DE CONFIANCE DE LA CLASSIFICATION
+
+de l'état et du potentiel écologiques
 
 |
 
@@ -188,7 +190,7 @@ Rose clair (C0M50J25N0)
 
 |
 
-Information insuffisante
+information insuffisante
 
 |
 
@@ -198,11 +200,11 @@ Gris 30 %
 
 2. Etat chimique
 
-La classification de l'état chimique pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 92 ci-dessous.
+La classification de l'état chimique pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 91 ci-dessous.
 
-Tableau 92 : Code couleur pour la représentation de la classification de l'état chimique des masses d'eau de surface
+Tableau 91 : code couleur pour la représentation de la classification de l'état chimique des masses d'eau de surface
 
-ÉTAT CHIMIQUE
+Etat chimique
 
 |
 
@@ -230,11 +232,11 @@ Fond : sans ; contour : gris 30 %, 2 pt
 
 |
 
-Le niveau de confiance de la classification de l'état chimique pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 93 ci-dessous.
+Le niveau de confiance de la classification de l'état chimique pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 92 ci-dessous.
 
-Tableau 93 : Code couleur pour la représentation du niveau de confiance de la classification de l'état chimique des masses d'eau de surface
+Tableau 92 : code couleur pour la représentation du niveau de confiance de la classification de l'état chimique des masses d'eau de surface
 
-NIVEAU DE CONFIANCE DE LA CLASSIFICATION DE L'ÉTAT CHIMIQUE
+Niveau de confiance de la classification de l'état chimique
 
 |
 

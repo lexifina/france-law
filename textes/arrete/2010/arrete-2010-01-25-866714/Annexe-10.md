@@ -16,7 +16,7 @@ Pour les masses d'eau disposant de plusieurs sites d'évaluation hors zone de m�
 
 - sinon à l'état chimique de la station la plus déclassante.
 
-2. Règles d'extrapolation spatiale
+2. Règles d'extrapolation de l'évaluation de l'état écologique en cas de données manquantes
 
 2.1. Etat écologique
 
@@ -26,23 +26,21 @@ Lorsque de telles données ne sont pas disponibles pour tout ou partie des élé
 
 Il existe plusieurs types de données exploitables :
 
-- les données milieux : il s'agit des données biologiques (invertébrés benthiques, diatomées, poissons, phytoplancton, etc.) des données physico-chimiques, chimiques (concentration en oxygène, en phosphore, etc.), et hydromorphologiques ;
-
 - les résultats de modélisation (PEGASE, modèle IRSTEA, etc.) ;
 
 - les données dites de pression avec leur impact potentiel sur l'état des eaux : il s'agit par exemple de rejets d'un site industriel ou d'un obstacle de type barrage.
 
 Les principes énoncés ci-dessus peuvent se combiner, ils ne sont pas exclusifs et s'appliquent selon la disponibilité des connaissances, des données et des outils. L'objectif est d'aboutir à l'évaluation la plus fine possible de l'état écologique d'une masse d'eau, en exploitant au mieux l'ensemble des données et connaissances disponibles.
 
-2.1.1. Evaluation de l'état écologique des masses d'eau à partir des outils de modélisation
+2.1.1. Evaluation de l'état écologique des masses d'eau à partir de masses d'eau dans des contextes similaires
 
-En l'absence de données issues de la surveillance des milieux, les éléments ou paramètres physico-chimiques soutenant la biologie peuvent être évalués par l'utilisation d'un outil de modélisation.
-
-2.1.2. Evaluation de l'état écologique des masses d'eau à partir de masses d'eau dans des contextes similaires
-
-C'est le cas des masses d'eau non suivies directement mais faisant partie d'un groupe homogène dans un contexte similaire du point de vue de la typologie et des pressions qui s'y exercent. L'état de ces masses d'eau n'est pas directement évalué avec des données milieux, mais il est estimé, par assimilation, à partir de l'état obtenu avec des données milieux (cf. 3) sur des masses d'eau situées dans un contexte similaire. La proportion de masses d'eau dans chaque classe d'état écologique est calculée.
+Pour les masses d'eau non suivies directement mais faisant partie d'un groupe homogène dans un contexte similaire du point de vue de la typologie et des pressions qui s'y exercent. L'état de ces masses d'eau n'est pas directement évalué avec des données milieux, mais il est estimé, par assimilation, à partir de l'état obtenu avec des données milieux sur des masses d'eau situées dans un contexte similaire. La proportion de masses d'eau dans chaque classe d'état écologique est calculée.
 
 L'état écologique de l'ensemble des masses d'eau non suivies du groupe homogène est déterminé par la classe d'état écologique dominante.
+
+2.1.2. Evaluation de l'état écologique des masses d'eau à partir des outils de modélisation
+
+En l'absence de données issues de la surveillance des milieux, les éléments ou paramètres physico-chimiques soutenant la biologie peuvent être évalués par l'utilisation d'un outil de modélisation.
 
 2.1.3. Evaluation de l'état écologique des masses d'eau à partir de données pression
 

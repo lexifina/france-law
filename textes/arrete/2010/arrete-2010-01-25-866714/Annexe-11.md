@@ -6,7 +6,7 @@ Un niveau de confiance est attribué à l'évaluation de l'état écologique et 
 
 1. Niveau de confiance de l'état écologique
 
-1.1. Eaux douces de surface
+1.1 Eaux douces de surface
 
 Le niveau de confiance est déterminé globalement pour l'état écologique attribué à chaque masse d'eau, tous éléments de qualité confondus et non pas élément de qualité par élément de qualité.
 
@@ -20,7 +20,7 @@ La robustesse des données milieux peut s'analyser au regard des critères suiva
 
 S'il s'agit de données obtenues directement :
 
-- chronique des données utilisées pour évaluer l'état écologique : la règle est d'utiliser l'ensemble des données disponibles pour évaluer l'état écologique. Plus la chronique de données utilisées est importante, plus le niveau de confiance de l'état évalué d'une masse d'eau est élevé (21) ;
+- chronique des données utilisées pour évaluer l'état écologique : la règle est d'utiliser l'ensemble des données disponibles pour évaluer l'état écologique. Plus la chronique de données utilisées est importante, plus le niveau de confiance de l'état évalué d'une masse d'eau est élevé (7) ;
 
 - conditions climatiques exceptionnelles : indépendamment des données atypiques ou non représentatives qui peuvent être observées ponctuellement (et à exclure pour l'évaluation de l'état écologique), des conditions climatiques exceptionnelles sur une période donnée (une année par exemple) peuvent diminuer le niveau de confiance de l'état écologique évalué ;
 
@@ -36,31 +36,27 @@ S'il s'agit de données issues de modélisation :
 
 - données d'entrée : les données d'entrée du modèle (apports, représentation du milieu, etc.) conditionnent grandement la robustesse du résultat. Une faible confiance dans ces données d'entrée entraîne une faible robustesse du résultat de simulation.
 
-(21) Dans l'attribution du niveau de confiance, on pourra tenir compte de la cohérence de l'état évalué avec les éventuelle données antérieures disponibles, au-delà de celles requises sur les deux ou six ans pour évaluer l'état d'une masse d'eau cours d'eau ou plan d'eau.
-
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037347756
 
 1.2. Eaux littorales
 
-Le niveau de confiance est déterminé globalement pour l'état écologique attribué à une masse d'eau littorale, tous éléments de qualité confondus et non élément de qualité par élément de qualité. Trois niveaux de confiance sont possibles : 3 (élevé), 2 (moyen) et 1 (faible).
+Le niveau de confiance est déterminé globalement pour l'état écologique attribué à une masse d'eau littorale, tous éléments de qualité confondus et non, élément de qualité par élément de qualité. Trois niveaux de confiance sont possibles : 3 (élevé), 2 (moyen) 1 (faible).
 
-Vous pouvez consulter l'image dans le fac-similé du
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-JOnº 0198 du 28/08/2015, texte nº 43.2. Niveau de confiance de l'état chimique
+2. Niveau de confiance de l'état chimique
 
-Le niveau de confiance attribué à l'état d'une masse d'eau est déterminé dans le tableau 2 ci-dessous.
+Le niveau de confiance attribué à l'état d'une masse d'eau est déterminé dans le tableau 88 ci-dessous.
 
-Tableau 2 : Niveau de confiance attribué à l'état d'une masse d'eau
+Tableau 88 : niveau de confiance attribué à l'état d'une masse d'eau
 
-INFORMATION DISPONIBLE SUR LA MASSE D'EAU :
+INFORMATION DISPONIBLE SUR LA MASSE D'EAU
 
 |
 
-NIVEAU DE CONFIANCE
+NIVEAU
 
-associé :
+de confiance associé
 
 |
 
@@ -72,7 +68,19 @@ La station est en mauvais état
 
 |
 
+La station a fait l'objet d'un suivi dans la matrice biote pour les substances disposant d'une NQE dans cette matrice
+
+|
+
 élevé
+
+|
+
+La station n'a pas fait l'objet d'un suivi dans la matrice biote pour les substances disposant d'une NQE dans cette matrice.
+
+|
+
+moyen
 
 |
 
@@ -80,7 +88,7 @@ La station est en bon état
 
 |
 
-Et on peut se prononcer sur le bon état d'au moins 80 % des 41 polluants incluant benzo+indéno et DEHP
+Et on peut se prononcer sur le bon état d'au moins 80 % des 53 polluants incluant benzo(a)pyrène, fluoranthène et DEHP. La station a fait l'objet d'un suivi dans la matrice biote pour les substances disponsant d'une NQE définie dans cette matrice.
 
 |
 
@@ -88,7 +96,7 @@ Et on peut se prononcer sur le bon état d'au moins 80 % des 41 polluants inclua
 
 |
 
-Et on peut se prononcer sur le bon état de 50 à 80 % des 41 polluants incluant benzo+indéno et DEHP
+Et on peut se prononcer sur le bon état de 50 à 80 % des 53 paramètres incluant benzo(a)pyrène, fluoranthène et DEHP
 
 |
 
@@ -104,7 +112,7 @@ faible
 
 |
 
-Et on ne peut pas se prononcer pour l'un au moins des polluants benzo+indéno et DEHP
+Et on ne peut pas se prononcer pour l'un au moins des polluants benzo(a)pyrène, fluoranthène et DEHP
 
 |
 
@@ -128,10 +136,14 @@ faible
 
 |
 
-Aucune information n'est disponible (la modélisation n'est pas possible, la masse d'eau ne peut pas être groupée à des masses d'eau similaires pour lesquelles on dispose de l'information)
+Aucune information n'est disponible (la modélisation n'est pas possible, la masse d'eau ne peut pas être groupée à des masses d'eau similaires pour lesquels on dispose de l'information))
 
 |
 
 Information insuffisante pour attribuer un état
 
 |
+
+La fréquence de suivi de certains paramètres de l'état chimique ayant été revue suite au premier cycle de surveillance, certains bassins ne sont plus dans l'obligation de les suivre. Les fréquences par paramètre et par bassin sont indiquées dans l'arrêté du 25 janvier 2010 modifié établissant le programme de surveillance de l'état des eaux (annexe VI, tableaux 47 pour les cours d'eau et 49 pour les plans d'eau). Dans le cas où un paramètre n'est plus à suivre conformément à cet arrêté, il n'est pas pris en compte dans le calcul de l'indice de confiance.
+
+(7) Dans l'attribution du niveau de confiance, on pourra tenir compte de la cohérence de l'état évalué avec les éventuelle données antérieures disponibles, au-delà de celles requises sur les deux ou six ans pour évaluer l'état d'une masse d'eau cours d'eau ou plan d'eau.

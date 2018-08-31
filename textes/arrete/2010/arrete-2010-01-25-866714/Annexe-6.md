@@ -14,7 +14,9 @@ Pour le phytoplancton, l'indice français comportera in fine les paramètres req
 
 - la chlorophylle a (indicateur de biomasse) ;
 
-- les blooms (indicateurs d'efflorescence et d'abondance) - la composition taxonomique.
+- les blooms (indicateurs d'efflorescence et d'abondance) ;
+
+- la composition taxonomique.
 
 La combinaison des trois métriques en un indice reste à définir.
 
@@ -22,25 +24,19 @@ Dans l'attente d'un indice plus complet, le classement des masses d'eau pour l'�
 
 1.1.1.1. Chlorophylle a
 
-La métrique définie est le percentile 90 des valeurs de chlorophylle a, calculé sur des données mensuelles, et sur six ans. La grille de qualité est présentée dans le tableau 57 ci-dessous.
+La métrique définie est le percentile 90 des valeurs de chlorophylle a, calculé sur des données mensuelles, et sur 6 ans. La grille de qualité est présentée dans le tableau 54 ci-dessous.
 
-Tableau 57 : Grille de qualité pour le paramètre chlorophylle a - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
-
-|
+Tableau 54 : grille de qualité pour le paramètre chlorophylle a - pour toutes les façades
 
 |
 
-TYPE
+|
 
-européen (1)
+TYPE européen (1)
 
 |
 
-TYPES
-
-français
-
-concernés
+TYPES français concernés
 
 |
 
@@ -50,13 +46,7 @@ françaises concernées
 
 |
 
-LIMITES
-
-supérieure
-
-et inférieure
-
-du bon état (µg/l)
+LIMITES supérieure et inférieure du bon état (µg/l)
 
 |
 
@@ -72,7 +62,7 @@ de qualité écologique
 
 |
 
-Manche-Atlantique
+Manche Atlantique
 
 |
 
@@ -84,7 +74,7 @@ NEA 1/26a
 
 |
 
-Tous (2)
+Tous
 
 |
 
@@ -92,7 +82,7 @@ Toutes les masses d'eau côtières des districts Garonne, Loire, Seine
 
 |
 
-] 5 - 10 ]
+] 4,4 -10 ]
 
 |
 
@@ -100,11 +90,11 @@ Toutes les masses d'eau côtières des districts Garonne, Loire, Seine
 
 |
 
-0,08-0,17-0,33-0,67
+0,08-0,17-0,33-0,76
 
 |
 
-Mer du Nord
+mer du Nord
 
 |
 
@@ -164,7 +154,7 @@ FRDC04
 
 |
 
-0,08-0,17-0,33-0,67
+0,08- 0,17-0,33-0,67
 
 |
 
@@ -180,15 +170,15 @@ Masses d'eau côtières de FRDC02a à FRDC02f incluse + masse d'eau côtière FR
 
 |
 
-] 2,4 - 3,6 ]
+] 1,92 - 3,5 ]
 
 |
 
-1,9
+1,29
 
 |
 
-0,13-0,26-0,53-0,79
+0,09-0,18-0,37-0,67
 
 |
 
@@ -200,19 +190,21 @@ Tous
 
 |
 
-Masses d'eau côtières de FRDC06a à FRDC10c incluse + masse d'eau côtière FRDC01
+Masses d'eau côtières de FRDC06a à FRDC10c incluse
+
++ masse d'eau côtière FRDC01
 
 |
 
-] 1,1 - 1,8 ]
+] 1,18 - 1,89 ]
 
 |
 
-0,9
+0,79
 
 |
 
-0,12-0,25-0,50-0,82
+0,11-0,22-0,42-0,67
 
 |
 
@@ -228,7 +220,7 @@ FREC01ab à FREC04ac
 
 |
 
-] 0,75 - 1,22 ]
+]0,75 - 1,22]
 
 |
 
@@ -244,17 +236,15 @@ FREC01ab à FREC04ac
 
 Type NEA 1/26a : océanique, ouvert, exposé ou protégé, euhalin, peu profond.
 
-Type NEA 1/26b : mers fermées, exposé ou protégé, euhalin, peu profond.
+Type NEA 1/26b: mers fermées, exposé ou protégé, euhalin, peu profond.
 
 Type I : sous forte influence des apports d'eaux douces ; salinité annuelle moyenne < 34,5 psu.
 
 Type II A : modérément influencés par les apports d'eaux douces ; salinité annuelle moyenne de 34,5 à 37,5 psu.
 
-Type III W : côtes continentales, sans influence des apports d'eau douce ; salinité annuelle moyenne > 37,5 psu.
+Type III W : Côtes continentales, sans influence des apports d'eau douce ; salinité annuelle moyenne > 37,5 psu.
 
 Type III Iles n'est actuellement pas pris en compte dans la typologie européenne.
-
-(2) Sauf les masses d'eau côtières (MEC) sous influence des estuaires de la façade Manche-Atlantique.
 
 |
 
@@ -262,67 +252,47 @@ Type III Iles n'est actuellement pas pris en compte dans la typologie européenn
 
 Pour le paramètre blooms, la métrique est définie comme le pourcentage d'échantillons pour lequel un taxon dépasse une valeur seuil. Deux valeurs seuils sont définies :
 
-100 000 cellules pour les espèces de taille : ≥ 20 µm ;
+- 100 000 cellules pour les espèces de taille : ≥ 20 µm ;
 
-250 000 cellules pour les espèces de taille : 5 µm ≤ x < 20 µm.
+- 250 000 cellules pour les espèces de taille : 5µm ≤ x < 20 µm.
 
 La métrique se calcule pour l'ensemble des deux classes de taille, sur des données mensuelles, acquises toute l'année et durant six ans.
 
-La grille de qualité est présentée dans le tableau 58 ci-dessous.
+La grille de qualité est présentée dans le tableau 55 ci-dessous.
 
-Tableau 58 : Grille de qualité pour le paramètre blooms-abondance - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
-
-|
+Tableau 55 : grille de qualité pour le paramètre blooms-abondance - pour toutes les façades
 
 |
 
-TYPE
+|
 
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français
-
-concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises
-
-concernées
+MASSES D'EAU françaises concernées
 
 |
 
-LIMITES SUPÉRIEURE
+LIMITES supérieure et inférieure du bon état
 
-et inférieure du bon état
-
-(% d'échantillons avec dépassement d'un seuil
-
-de bloom)
+(% d'échantillons avec dépassement d'un seuil de bloom)
 
 |
 
-VALEUR
-
-de référence
+VALEUR de référence
 
 |
 
-RATIO
-
-de qualité
-
-écologique
+RATIO DE qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -330,9 +300,7 @@ EC
 
 |
 
-NEA 1/26a
-
-et 26b
+NEA 1/26a et 26b
 
 |
 
@@ -344,7 +312,7 @@ Toutes les masses d'eau côtières des districts Escaut, Garonne, Loire, Seine
 
 |
 
-[ 20% - 39% [
+[ 20 % - 39 % [
 
 |
 
@@ -364,7 +332,7 @@ EC
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -376,63 +344,45 @@ Toutes
 
 |
 
-(2) Sauf les masses d'eau côtières (MEC) sous influence des estuaires de la façade Manche-Atlantique.
+(2) Sauf les masses d'eau côtières (MEC) sous influence des estuaires de la façade Manche-atlantique.
 
 |
 
 1.1.1.3. Indicateur phytoplancton
 
-La grille de qualité résultante (moyenne des EQR biomasse et abondance) est indiquée dans le tableau 59 ci-dessous.
+La grille de qualité résultante (moyenne des EQR biomasse et abondance) est indiquée dans le tableau 56 ci-dessous.
 
-Tableau 59 : Grille de qualité pour l'indicateur phytoplancton - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
-
-|
+Tableau 56 : grille de qualité pour l'indicateur phytoplancton - pour toutes les façades
 
 |
 
-TYPE
+|
 
-européen (1)
+TYPE européen (1)
 
 |
 
-TYPES
-
-français
-
-concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-LIMITES
-
-supérieure
-
-et inférieure
-
-du bon état (μg/l)
+LIMITES supérieure et inférieure du bon état (µg/l)
 
 |
 
-VALEUR
-
-de référence
+VALEUR de référence
 
 |
 
-RATIO
-
-de qualité écologique
+RATIO de qualité écologique
 
 |
 
-Manche-Atlantique
+Manche Atlantique
 
 |
 
@@ -460,11 +410,11 @@ Sans objet
 
 |
 
-0,13-0,2-0,38-0,75
+0,13-0,2-0,38-0,8
 
 |
 
-Mer du Nord
+mer du Nord
 
 |
 
@@ -488,7 +438,7 @@ Sans objet
 
 |
 
-Sans objet
+Sans objet]
 
 |
 
@@ -524,7 +474,7 @@ Sans objet
 
 |
 
-0,13-0,20-0,38-0,75
+0,13- 0,20-0,38-0,75
 
 |
 
@@ -548,7 +498,7 @@ Sans objet
 
 |
 
-0,16-0,25-0,48-0,81
+0,14-0,21-0,40-0,75
 
 |
 
@@ -572,7 +522,7 @@ Sans objet
 
 |
 
-0,16-0,24-0,46-0,83
+0,15-0,23-0,42-0,75
 
 |
 
@@ -600,13 +550,13 @@ Sans objet
 
 |
 
-(2) Sauf les masses d'eau côtières (MEC) sous influence des estuaires de la façade Manche-Atlantique.
+(2) Sauf les masses d'eau côtières (MEC) sous influence des estuaires de la façade Manche-atlantique.
 
 |
 
 1.1.2. Invertébrés benthiques de substrat meuble
 
-Le classement des masses d'eau côtières des façades mer du Nord, Manche et Atlantique, pour l'élément de qualité invertébrés benthiques, se fera avec l'indice M-AMBI, qui intègre les trois paramètres requis par la DCE :
+Le classement des masses d'eau côtières des façades mer du Nord, Manche et Atlantique, pour l'élément de qualité invertébrés benthiques se fera avec l'indice M-AMBI, qui intègre les trois paramètres requis par la DCE :
 
 - AMBI : indice qui s'appuie sur la sensibilité/tolérance des espèces à un enrichissement du milieu ;
 
@@ -616,53 +566,37 @@ Le classement des masses d'eau côtières des façades mer du Nord, Manche et At
 
 Le M-AMBI varie entre 0 et 1.
 
-Le classement des masses d'eau côtières de la façade méditerranéenne, pour l'élément de qualité invertébrés benthiques, se fera avec l'indice AMBI.
+Le classement des masses d'eau côtières de la façade Méditerranéenne, pour l'élément de qualité invertébrés benthiques se fera avec l'indice AMBI.
 
-La grille de qualité pour les invertébrés benthiques est présentée dans le tableau 60 ci-dessous.
+La grille de qualité pour les invertébrés benthiques est présentée dans le tableau 57 ci-dessous.
 
-Tableau 60 : Grille de qualité pour l'indicateur invertébrés benthiques
-
-- pour mer du Nord, Manche, Atlantique : grille susceptible de révision (intercalibration européenne non achevée) ;
-
-- pour Méditerranée : grille définitive
+Tableau 57 : grille de qualité pour l'indicateur invertébrés benthiques - pour toutes les façades
 
 |
 
 |
 
-TYPE
-
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-VALEUR
-
-de référence
+VALEUR DE référence
 
 |
 
-RATIO
-
-de qualité
-
-écologique
+RATIO de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -682,17 +616,9 @@ Toutes les masses d'eau côtières des districts Escaut, Garonne, Loire, Seine
 
 |
 
-Sables fins plus
+sables fins plus ou moins envasés intertidaux
 
-ou moins envasés
-
-intertidaux
-
-AMBI = 1
-
-Diversité = 4 Richesse
-
-spécifique = 58
+AMBI = 1 Diversité = 4 Richesse spécifique = 58
 
 |
 
@@ -700,29 +626,15 @@ spécifique = 58
 
 |
 
-Sables fins plus
+sables fins plus ou moins envasés subtidaux
 
-ou moins envasés
-
-subtidaux
-
-AMBI = 1
-
-Diversité = 4 Richesse
-
-spécifique = 35
+AMBI = 1 Diversité = 4 Richesse spécifique = 35
 
 |
 
-Sables fins battus
+sables fins battus
 
-AMBI = 1
-
-Diversité = 3,5
-
-Richesse
-
-spécifique = 15
+AMBI = 1 Diversité = 3,5 Richesse spécifique = 15
 
 |
 
@@ -734,7 +646,7 @@ EC
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -764,11 +676,7 @@ ME de la Région PACA
 
 |
 
-ME de la Région
-
-Languedoc-
-
-Roussillon
+ME de la Région Languedoc Roussillon
 
 |
 
@@ -778,65 +686,51 @@ Roussillon
 
 1.1.3. Macroalgues : façades mer du Nord, Manche et Atlantique
 
-Pour la mer du Nord, la Manche et l'Atlantique, on distingue les macroalgues intertidales substrat dur, les macroalgues subtidales substrat dur et les macroalgues formant des blooms.
+Pour la mer du Nord, la Manche et l'Atlantique, on distingue les macro-algues intertidales substrat dur, les macro-algues subtidales substrat dur et les macro-algues formant des blooms.
 
 1.1.3.1. Macroalgues intertidales de substrat dur
 
 L'indice de qualité utilisé est le CCO (Cover - Characteristic species - Opportunistic species). Il s'applique à l'intertidal rocheux et prend en compte la contribution de chaque ceinture à la couverture végétale d'un site donné, la richesse spécifique de chaque ceinture en espèces caractéristiques et l'importance du couvert des espèces opportunistes. L'indice correspond ainsi à la somme de trois sous-indices :
 
-- le recouvrement global, noté sur 40 ;
+- le recouvrement global ; noté sur 40
 
-- le nombre d'espèces caractéristiques de l'ensemble des ceintures présentes, noté sur 30 ;
+- le nombre d'espèces caractéristiques de l'ensemble des ceintures présentes ; noté sur 30 - le recouvrement des espèces opportunistes, noté sur 30.
 
-- le recouvrement des espèces opportunistes, noté sur 30.
+L'indice est composé en sommant les scores des 3 sous-indices. Sa valeur maximale est 100. Les classes de qualité ont une amplitude égale.
 
-L'indice est composé en sommant les scores des trois sous-indices. Sa valeur maximale est 100. Les classes de qualité ont une amplitude égale.
+La grille de qualité pour les macro-algues intertidales de substrat dur est présentée dans le tableau 58 ci-dessous.
 
-La grille de qualité pour les macroalgues intertidales de substrat dur est présentée dans le tableau 61 ci-dessous.
-
-Tableau 61 : Grille de qualité pour l'indicateur macroalgues intertidales de substrat dur
-
-- pour le type NEA 1/26 - biotope B21, au nord de la Loire, la grille est susceptible de révision (intercalibration européenne non achevée) ;
-
-- pour le type NEA 1/26 - biotope A2, au sud de la Loire, la grille est définitive
+Tableau 58 : grille de qualité pour l'indicateur macro-algues intertidales de substrat dur
 
 |
 
 |
 
-TYPE
+|
 
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français
-
-concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-VALEUR
-
-de référence
+VALEUR DE référence
 
 |
 
-RATIO
-
-de qualité écologique
+RATIO de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
+
+|
 
 |
 
@@ -844,29 +738,13 @@ EC
 
 |
 
-NEA 1/26 - biotope B21
+NEA 1/26 - biotope B21 et A2
 
 |
 
 |
 
-Toutes les masses d'eau côtières des districts Escaut et Seine ; masses d'eau situées au nord de la Loire pour le district Loire
-
-|
-
-|
-
-0,20-0,40-0,60-0,80
-
-|
-
-NEA 1/26 - biotope A2
-
-|
-
-|
-
-Toutes les masses d'eau côtières du district Garonne ; masses d'eau situées au sud de la Loire pour le district Loire
+Toutes les masses d'eau côtières des districts Escaut et Seine ; Masses d'eau situées au nord de la Loire pour le district Loire
 
 |
 
@@ -878,15 +756,15 @@ Toutes les masses d'eau côtières du district Garonne ; masses d'eau situées a
 
 1.1.3.2. Macroalgues subtidales de substrat dur
 
-L'indice de qualité présenté est inspiré du modèle CFR espagnol. Il se base sur le suivi de huit métriques, mesurées à trois niveaux de profondeur (- 3 m, - 8 m, - 13 m), quand elles existent. Les valeurs mesurées sont transformées en scores selon une grille prédéfinie, sur la base de données acquises tous les trois ans (tous les ans pour les sites sensibles).
+L'indice de qualité présenté est inspiré du modèle CFR espagnol. Il se base sur le suivi de 8 métriques, mesurées à trois niveaux de profondeur (- 3m, -8m, -13m), quand elles existent. Les valeurs mesurées sont transformées en scores selon une grille prédéfinie, sur la base de données acquises tous les 3 ans (tous les ans pour les sites sensibles).
 
-Tableau 62 : Note maximale par métrique de l'indice biologique pour les macroalgues subtidales de substrat dur
+Tableau 59 : note maximale par métrique de l'indice biologique pour les macro-algues subtidales de substrat dur
 
 MÉTRIQUE
 
 |
 
-NOTES
+Notes
 
 |
 
@@ -898,7 +776,7 @@ Note sur 30
 
 |
 
-Métrique 2. Densité des espèces d'algues définissant l'étagement (nb. individus/m²)
+Métrique 2. Densité des espèces d'algues définissant l'étagement (nb. individus / m²)
 
 |
 
@@ -914,7 +792,7 @@ Note sur 20
 
 |
 
-Métrique 4. Densité d'espèces d'algues opportunistes (nb. individus/m²)
+Métrique 4. Densité d'espèces d'algues opportunistes (nb. individus / m²)
 
 |
 
@@ -954,7 +832,7 @@ Note sur 20
 
 |
 
-* Côte marine = profondeur corrigée et rapportée au zéro des cartes marines françaises du SHOM.
+* Côte Marine = Profondeur corrigée et rapportée au zéro des cartes marines françaises du SHOM.
 
 |
 
@@ -972,45 +850,35 @@ Les métriques sont assemblées comme suit :
 
 L'indicateur du site est obtenu en rapportant sur 100 (règle de 3) la moyenne des notes des niveaux 1-2 et 3.
 
-La grille de qualité pour les macroalgues subtidales de substrat dur est présentée dans le tableau 63 ci-dessous.
+La grille de qualité pour les macro-algues subtidales de substrat dur est présentée dans le tableau 60 ci-dessous.
 
-Tableau 63 : Grille de qualité pour l'indicateur macroalgues subtidales de substrat dur - Les grilles sont définitives (pas d'intercalibration)
-
-|
+Tableau 60 : grille de qualité pour l'indicateur macro-algues subtidales de substrat dur
 
 |
 
-TYPE
+|
 
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-VALEUR
-
-de référence
+VALEUR DE référence
 
 |
 
-RATIO
-
-de qualité écologique
+RATIO de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -1022,15 +890,15 @@ NEA 1/26
 
 |
 
-Côte rocheuse peu turbide : C1, C2, C14, C15
+côte rocheuse peu turbide : C1, C2, C14, C 15
 
 |
 
-Cf. ME appartenant aux types concernés
+Cf ME appartenant aux types concernés
 
 |
 
-77
+74,8
 
 |
 
@@ -1038,7 +906,7 @@ Cf. ME appartenant aux types concernés
 
 |
 
-Côte sablo-vaseuse peu turbide :
+côte sablo-vaseuse peu turbide :
 
 C3, C4, C7, C9, C10, C11, C13, C17
 
@@ -1048,9 +916,7 @@ C3, C4, C7, C9, C10, C11, C13, C17
 
 |
 
-Côte rocheuse ou sablo-vaseuse
-
-turbide :
+côte rocheuse ou sablo-vaseuse turbide :
 
 C12
 
@@ -1062,23 +928,23 @@ C12
 
 1.1.3.3. Macroalgues opportunistes formant des blooms
 
-L'indicateur français, calculé sur la base de trois suivis annuels (mai, juillet, septembre) tous les ans, a été développé en tenant compte des types de proliférations observées :
+L'indicateur français, calculé sur la base de 3 suivis annuels (mai, juillet, septembre) tous les ans, a été développé en tenant compte des types de proliférations observées :
 
 A. - Marées vertes de type 1
 
 Les marées vertes de type 1 définissent les développements massifs d'ulves ayant lieu dans les grandes baies sableuses. Ces marées vertes se forment à partir d'ulves dérivantes à multiplication végétative.
 
-L'indicateur comprend trois métriques :
+L'indicateur comprend 3 métriques :
 
-- métrique 1 : pourcentage maximum de l'aire potentiellement colonisable recouverte par les ulves (% couv. max./APC) ;
+- Métrique 1 : pourcentage maximum de l'aire potentiellement colonisable recouverte par les ulves (% couv max/APC).
 
-- métrique 2 : pourcentage moyen de l'aire potentiellement colonisable recouverte par les ulves (% couv. moy./APC) ;
+- Métrique 2 : pourcentage moyen de l'aire potentiellement colonisable recouverte par les ulves (% couv moy/APC).
 
-- métrique 3 : fréquence des dépôts d'ulves > 1,5 % de l'aire potentiellement colonisable (f > 1,5 % APC).
+- Métrique 3 : fréquence des dépôts d'ulves > 1.5 % de l'aire potentiellement colonisable (f >1.5 % APC).
 
-Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies dans le tableau 64 ci-dessous.
+Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies, dans le tableau 61 ci-dessous.
 
-Tableau 64 : Seuils de qualité par métrique et EQR pour les macroalgues formant des blooms - marées vertes de type 1
+Tableau 61 : seuils de qualité par métrique et EQR pour les macro-algues formant des blooms - marées vertes de type 1
 
 Métrique 1
 
@@ -1092,7 +958,7 @@ Métrique 3
 
 |
 
-EQR par métrique et indicateur France
+EQR par métrique et indicateur
 
 |
 
@@ -1105,6 +971,8 @@ Seuils
 |
 
 Seuils
+
+|
 
 |
 
@@ -1120,7 +988,7 @@ Seuils
 
 |
 
-[1 - 0,8[
+[1 - 0,825[
 
 |
 
@@ -1136,7 +1004,7 @@ Seuils
 
 |
 
-[0,8 - 0,6[
+[0,825 - 0,617[
 
 |
 
@@ -1152,7 +1020,7 @@ Seuils
 
 |
 
-[0,6 - 0,4[
+[0,617 - 0,4[
 
 |
 
@@ -1192,17 +1060,17 @@ B. - Marées vertes de type 2
 
 Les marées vertes de type 2 aussi nommées marées vertes d'arrachage se retrouvent également sur substrat sableux. La différence principale avec les marées vertes de type 1 réside dans le fait qu'elles ont une phase de développement fixée sur platier rocheux préalablement à leur échouage sur plage. Ce type de marée se retrouve essentiellement au sud de la Loire et en Normandie.
 
-L'indicateur comprend trois métriques :
+L'indicateur comprend 3 métriques :
 
-- métrique 1 : pourcentage des dépôts printaniers d'ulves (mai) par rapport à la surface de substrat rocheux ;
+- Métrique 1 : Pourcentage des dépôts printaniers d'ulves (mai) par rapport à la surface de substrat rocheux.
 
-- métrique 2 : pourcentage moyen des dépôts estivaux d'ulves (juillet-septembre) par rapport à la surface de substrat rocheux ;
+- Métrique 2 : Pourcentage moyen des dépôts estivaux d'ulves (juillet-septembre) par rapport à la surface de substrat rocheux.
 
-- métrique 3 : pourcentage maximum de substrat meuble touché par des échouages d'ulves.
+- Métrique 3 : Pourcentage maximum de substrat meuble touché par des échouages d'ulves.
 
-Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies dans le tableau 65 ci-dessous.
+Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies, dans le tableau 62 ci-dessous.
 
-Tableau 65 : Seuils de qualité par métrique et EQR pour les macroalgues formant des blooms - marées vertes de type 2
+Tableau 62 : seuils de qualité par métrique et EQR pour les macro-algues formant des blooms - marées vertes de type 2
 
 Métrique 1
 
@@ -1216,7 +1084,7 @@ Métrique 3
 
 |
 
-EQR par métrique et indicateur France
+EQR par métrique et indicateur
 
 |
 
@@ -1229,6 +1097,8 @@ Seuils
 |
 
 Seuils
+
+|
 
 |
 
@@ -1314,17 +1184,17 @@ Seuils
 
 C. - Marées vertes de type 3
 
-Les marées vertes de type 3 se retrouvent sur les substrats vaseux. Elles sont constituées à la fois d'algues vertes en lame et d'algues vertes filamenteuses. A l'inverse des deux autres types de marées vertes, les algues sont, dans ce cas, peu mobiles.
+Les marées vertes de types 3 se retrouvent sur les substrats vaseux. Elles sont constituées à la fois d'algues vertes en lame et d'algues vertes filamenteuses. A l'inverse des deux autres types de marées vertes, les algues sont, dans ce cas, peu mobiles.
 
-L'indicateur comprend deux métriques :
+L'indicateur comprend 2 métriques :
 
-- métrique 1 : pourcentage maximum de l'aire potentiellement colonisable recouverte par les algues vertes (% max. couv/APC) ;
+- Métrique 1 : Pourcentage maximum de l'aire potentiellement colonisable recouverte par les algues vertes (% max couv/APC).
 
-- métrique 2 : aire affectée par les algues vertes (AA).
+- Métrique 2 : Aire affectée par les algues vertes (AA).
 
-Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies dans le tableau 66 ci-dessous.
+Les seuils de qualité par métrique ont été définis à dire d'expert et des classes d'EQR équidistantes ont été définies, dans le tableau 63 ci-dessous.
 
-Tableau 66 : Seuils de qualité par métrique et EQR pour les macroalgues formant des blooms - marées vertes de type 2
+Tableau 63 : seuils de qualité par métrique et EQR pour les macro-algues formant des blooms - marées vertes de type 3
 
 Métrique 1
 
@@ -1334,7 +1204,7 @@ Métrique 2
 
 |
 
-EQR par métrique et indicateur France
+EQR par métrique et indicateur
 
 |
 
@@ -1343,6 +1213,8 @@ Seuils
 |
 
 Seuils
+
+|
 
 |
 
@@ -1398,7 +1270,7 @@ Seuils
 
 |
 
-[250 - 6 000]
+[250 - 6000]
 
 |
 
@@ -1406,37 +1278,27 @@ Seuils
 
 |
 
-La grille de qualité pour les macroalgues formant des blooms est présentée dans le tableau 67 ci-dessous.
+La grille de qualité pour les macro-algues formant des blooms est présentée dans le tableau 64 ci-dessous.
 
-Tableau 67 : Grille de qualité pour l'indicateur macroalgues formant des blooms - Grille susceptible de révision (intercalibration européenne non achevée)
-
-|
+Tableau 64 : grille de qualité pour l'indicateur macro-algues formant des blooms
 
 |
 
-TYPE
+|
 
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français
-
-concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-VALEUR
-
-de référence
+VALEUR DE référence
 
 |
 
@@ -1446,7 +1308,7 @@ de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -1462,29 +1324,13 @@ Marée verte de type 1
 
 |
 
-FRGC01 FRGC03
+FRGC01 FRGC03 FRGC05 FRGC06 FRGC09 FRGC10 FRGC12 FRGC20
 
-FRGC05 FRGC06
+FRGC26 FRGC29 FRGC34 FRGC35
 
-FRGC09 FRGC10
+FRGC36 FRGC48 FRGC49 FRGC53
 
-FRGC12 FRGC20
-
-FRGC26 FRGC29
-
-FRGC34 FRGC35
-
-FRGC36 FRGC48
-
-FRGC49 FRGC53
-
-FRHC02 FRHC03
-
-FRHC04 FRHC09
-
-FRHC12 FRHC 13
-
-FRHC14 FRHC15
+FRHC02 FRHC03 FRHC04 FRHC09 FRHC12 FRHC 13 FRHC14 FRHC15
 
 FRFC02
 
@@ -1492,7 +1338,7 @@ FRFC02
 
 |
 
-0,20-0,40-0,60-0,80
+0,20-0,40-0,617-0,825
 
 |
 
@@ -1500,21 +1346,9 @@ Marée verte de type 2
 
 |
 
-FRGC13 FRGC28
+FRGC13 FRGC28 FRGC32 FRGC38 FRGC42 FRGC44 FRGC45 FRGC46 FRGC47 FRGC50 FRGC51
 
-FRGC32 FRGC38
-
-FRGC42 FRGC44
-
-FRGC45 FRGC46
-
-FRGC47 FRGC50
-
-FRGC51
-
-FRHC07 FRHC08
-
-FRHC10 FRHC11
+FRHC07 FRHC08 FRHC10 FRHC11
 
 FRFC01 et FRFC03
 
@@ -1542,9 +1376,9 @@ FRGC16 FRGC39
 
 |
 
-1.1.4. Macroalgues : façade Méditerranée
+1.1.4. Macro-algues : façade Méditerranée
 
-Pour les masses d'eau côtières de Méditerranée, l'indice adopté en France est l'indice CARLIT (CARtografia LIToral), qui intègre trois paramètres :
+Pour les masses d'eaux côtières de Méditerranée, l'indice adopté en France est l'indice CARLIT (CARtografia LIToral), qui intègre 3 paramètres :
 
 - le linéaire côtier rocheux occupé par diverses communautés d'algues et d'invertébrés (moules) ;
 
@@ -1552,43 +1386,37 @@ Pour les masses d'eau côtières de Méditerranée, l'indice adopté en France e
 
 - les caractéristiques géomorphologiques de la côte.
 
-L'indice CARLIT a une valeur comprise entre 0 et 1. Il s'applique aux côtes rocheuses, dans la zone infralittorale supérieure (3,5 à 0,2 m de profondeur).
+L'indice CARLIT a une valeur comprise entre 0 et 1. Il s'applique aux côtes rocheuses, dans la zone infra littorale supérieure (3,5 à 0,2 m de profondeur).
 
-La grille de qualité pour les macroalgues est présentée dans le tableau 68 ci-dessous.
+La grille de qualité pour les macro-algues est présentée dans le tableau 65 ci-dessous.
 
-Tableau 68 : Grille de qualité pour les macroalgues - Pour Méditerranée : grille définitive
-
-|
+Tableau 65 : grille de qualité pour les macro-algues en Méditerranée
 
 |
 
-TYPE
+|
 
-européen
+TYPE européen
 
 |
 
-TYPES
-
-français concernés
+TYPES français concernés
 
 |
 
-MASSES D'EAU
-
-françaises concernées
+MASSES D'EAU françaises concernées
 
 |
 
-VALEUR DE RÉFÉRENCE
+VALEUR
+
+DE référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
@@ -1600,7 +1428,7 @@ EC
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -1628,7 +1456,7 @@ Selon le type morphologique
 
 1.1.5. Angiospermes : façades mer du Nord, Manche et Atlantique
 
-Les angiospermes considérées sont les herbiers à Zostères : zostera noltii et Zostera marina.
+Les angiospermes considérés sont les herbiers à Zostères : Zostera noltii et Zostera marina.
 
 L'indice français est composé de trois métriques :
 
@@ -1636,15 +1464,15 @@ L'indice français est composé de trois métriques :
 
 - évolution de la densité de l'herbier (%) ;
 
-- évolution du nombre d'espèces (présence/absence des deux espèces).
+- évolution du nombre d'espèces (présence/ absence des 2 espèces).
 
 Les références sont établies par masse d'eau.
 
-Un EQR est établi pour chaque métrique ; la moyenne des trois EQR constitue l'EQR de l'indice.
+Un EQR est établi pour chaque métrique ; la moyenne des 3 EQR constitue l'EQR de l'indice.
 
-La grille de qualité pour les angiospermes est présentée dans le tableau 69 ci-dessous.
+La grille de qualité pour les angiospermes est présentée dans le tableau 66 ci-dessous.
 
-Tableau 69 : Grille de qualité pour l'indicateur angiospermes - Pour mer du Nord, Manche, Atlantique : grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 66 : grille de qualité pour l'indicateur angiospermes - pour mer du Nord, Manche, Atlantique
 
 |
 
@@ -1656,33 +1484,31 @@ européen
 
 |
 
-TYPES FRANÇAIS
+TYPES
 
-concernés
-
-|
-
-MASSES D'EAU
-
-françaises concernées
+français concernés
 
 |
 
-VALEUR
+MASSES
 
-de référence
+D'EAU françaises concernées
+
+|
+
+VALEUR DE
+
+référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -1706,13 +1532,13 @@ Sans objet
 
 |
 
-0,20-0,40-0,60-0,80
+0,20-0,40-0,645-0,80
 
 |
 
 1.1.6. Angiospermes : façade Méditerranée
 
-Pour les masses d'eau côtières de Méditerranée, les angiospermes considérées sont les herbiers à posidonie. L'indice français PREI (Posidonia oceanica Rapid Easy Index) a été défini ; il intègre les cinq paramètres suivants :
+Pour les masses d'eau côtières de Méditerranée, les angiospermes considérés sont les herbiers à posidonie. L'indice français PREI (Posidonia oceanica Rapid Easy Index) a été défini ; il intègre les 5 paramètres suivants :
 
 - densité des pieds (nombre de faisceaux/m²) à 15 m ;
 
@@ -1728,9 +1554,9 @@ L'indice varie entre 0 et 1.
 
 Ces seuils ne sont pas définis par types de masses d'eau mais par écorégion.
 
-La grille de qualité pour les angiospermes est présentée dans le tableau 70 ci-dessous.
+La grille de qualité pour les angiospermes est présentée dans le tableau 67 ci-dessous.
 
-Tableau 70 : Grille de qualité pour l'indicateur angiospermes - Pour Méditerranée : grille définitive
+Tableau 67 : grille de qualité pour l'indicateur angiospermes - pour Méditerranée
 
 |
 
@@ -1744,35 +1570,31 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
-MASSES D'EAU
+MASSES
 
-françaises concernées
+d'eau françaises concernées
 
 |
 
-LIMITES SUPÉRIEURE
+LIMITES SUPERIEURE
 
 et inférieure du bon état
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
@@ -1788,7 +1610,7 @@ Aucun
 
 |
 
-C18 ; C20 ; C21 ; C24
+C18 ; C20 C21 ; C24
 
 |
 
@@ -1796,13 +1618,13 @@ Masses d'eau côtières de PACA
 
 |
 
-[ 0,55 - 0,775 [
+[0,55 - 0,775 [
 
 |
 
-Densité = 675 Surface
+Densité = 675
 
-foliaire = 465
+Surface foliaire = 465
 
 Charge en épib. = 0
 
@@ -1822,35 +1644,31 @@ C18 ; C23 ; C24 ; C26
 
 |
 
-Masses d'eau côtières de Corse et côte rocheuse Languedoc-Roussillon
+Masses d'eau côtières de Corse et côte rocheuse
 
 |
 
-Densité = 483 Surface
-
-foliaire = 546
-
-Charge en épib. = 0
-
-Prof. limite inf. = 41
+Densité = 483 Surface foliaire = 546 Charge en épib. = 0 Prof. limite inf. = 41
 
 |
 
 1.1.7. Cas des départements d'outre-mer
 
-Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologiques dans les départements d'outre-mer. Des indicateurs spécifiques adaptés à l'écologie de ces milieux sont en cours de développement. Dans cette attente, le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
+Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologiques dans les départements d'outre-mer. Des indicateurs spécifiques adaptés à l'écologie de ces milieux sont en cours de développement. Certaines grilles de qualité ont été définies au niveau local et sont en cours de validation au niveau national. Dans cette attente, le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
 
 1.2. Eléments physico-chimiques généraux
 
 1.2.1. Oxygène dissous
 
-Pour l'oxygène dissous, la métrique retenue est le percentile 10. Elle se calcule sur des données mensuelles, acquises en période estivale, au fond, sur six ans.
+Pour l'oxygène dissous, la métrique retenue est le percentile 10. Elle se calcule sur des données mensuelles, acquises en période estivale, au fond, sur 6 ans.
 
-La grille de qualité pour l'oxygène dissous est présentée dans le tableau 71 ci-dessous.
+La grille de qualité pour l'oxygène dissous est présentée dans le tableau 68 ci-dessous.
 
-Tableau 71 : Grille de qualité pour l'indicateur oxygène dissous
+Tableau 68 : grille de qualité pour l'indicateur oxygène dissous
 
-TYPE EUROPÉEN
+TYPE
+
+européen
 
 |
 
@@ -1866,7 +1684,9 @@ françaises concernées
 
 |
 
-GRILLE OXYGÈNE DISSOUS (MG/L)
+GRILLE
+
+Oxygène dissous (mg/L)
 
 |
 
@@ -1882,101 +1702,21 @@ Toutes masses d'eau côtières
 
 |
 
-1 - 2 - 3 - 5
+Très Bon : > 5
+
+Bon : 5 - 3
+
+Inférieur à Bon : ≤ 3
 
 |
 
-1.2.2. Turbidité
+1.2.2. Transparence
 
-La métrique est le percentile 90 des valeurs mensuelles mesurées en subsurface, de mars à octobre, sur six ans.
+La métrique retenue pour l'indicateur transparence est le percentile 90 des valeurs mensuelles de turbidité mesurées en sub-surface, de mars à octobre, sur 6 ans.
 
-La grille de qualité pour la turbidité est présentée dans le tableau 72 ci-dessous.
+La grille de qualité pour la transparence est présentée dans le tableau 69 ci-dessous.
 
-Tableau 72 : Grille de qualité pour l'indicateur turbidité
-
-TYPE
-
-européen
-
-|
-
-TYPES FRANÇAIS CONCERNÉS
-
-|
-
-MASSES
-
-d'eau françaises
-
-concernées
-
-|
-
-GRILLE TURBIDITÉ
-
-(NTU)
-
-|
-
-COMMENTAIRES
-
-|
-
-Sans objet
-
-|
-
-C01, C02, C05, C10, C14, C15, C16, C18, C20, C21, C22, C23, C24, C25, C26
-
-|
-
-Ecotype 1
-
-|
-
-Très bon : < 5
-
-Bon : 5-10
-
-Inférieur à bon : ≥ 10
-
-|
-
-Voir en annexe 6 bis la liste des ME par écotype
-
-|
-
-Sans objet
-
-|
-
-C01, C03, C04, C06, C07, C08, C09, C10, C11, C12, C13, C17, C19
-
-|
-
-Ecotype 3
-
-|
-
-Très bon : < 30
-
-Bon : 30-45
-
-Inférieur à bon : ≥ 45
-
-|
-
-Voir en annexe 6 bis la liste des ME par écotype
-
-|
-
-1.2.3. Température
-
-La métrique est le pourcentage de valeurs mensuelles, mesurées en subsurface toute l'année pendant six ans, situées hors d'une enveloppe de référence.
-
-La grille de qualité pour la température est présentée dans le tableau 73 ci-dessous.
-
-Tableau 73 : Grille de qualité pour l'indicateur température
+Tableau 69 : grille de qualité pour l'indicateur transparence
 
 TYPE
 
@@ -1986,9 +1726,7 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
@@ -1998,13 +1736,97 @@ françaises concernées
 
 |
 
-GRILLE TEMPÉRATURE
+GRILLE Turbidité
 
-(%)
+(FNU)
 
 |
 
-COMMENTAIRES
+Commentaires
+
+|
+
+Sans objet
+
+|
+
+Tous types
+
+|
+
+Toutes masses d'eau côtières de l'Ecotype 1
+
+|
+
+Très Bon : < 7
+
+Bon : 7-14
+
+Inférieur à Bon : ≥ 14
+
+|
+
+Voir en annexe 6-bis la liste des ME par écotype
+
+|
+
+Sans objet
+
+|
+
+Tous types
+
+|
+
+Toutes masses d'eau côtières de l'Ecotype 3
+
+|
+
+Très Bon : < 40
+
+Bon : 40-60
+
+Inférieur à Bon : ≥ 60
+
+|
+
+Voir en annexe 6-bis la liste des ME par écotype
+
+|
+
+1.2.3. Température
+
+La métrique retenue pour l'indicateur température est le pourcentage de valeurs mensuelles, mesurées en sub-surface toute l'année pendant 6 ans, situées hors d'une 'enveloppe de référence.
+
+La grille de qualité pour la température est présentée dans le tableau 70 ci-dessous.
+
+Tableau 70 : grille de qualité pour l'indicateur température
+
+TYPE
+
+européen
+
+|
+
+TYPES
+
+français concernés
+
+|
+
+MASSES D'EAU
+
+françaises concernées
+
+|
+
+GRILLE
+
+Température (%)
+
+|
+
+Commentaires
 
 |
 
@@ -2020,13 +1842,97 @@ Ecotypes 1 à 5
 
 |
 
-Bon : [1-0,95[
+Bon : [0-5[
 
-Inférieur à bon : [0,95-0]
+Inférieur à Bon : ≥ 5
 
 |
 
-Voir en annexe 6 bis la liste des ME par écotype
+Voir en annexe 6-bis la liste des ME par écotype
+
+|
+
+1.2.4. Nutriments
+
+La métrique retenue pour l'indicateur nutriment est la concentration normalisée à 33 de salinité des valeurs mensuelles de NID mesurées en surface sur 6 ans
+
+Tableau 71 : grille de qualité pour l'indicateur azote inorganique dissous pour la façade Manche-mer du Nord-Atlantique
+
+|
+
+TYPE
+
+européen
+
+|
+
+TYPES
+
+français concernés
+
+|
+
+MASSES D'EAU
+
+françaises concernées
+
+|
+
+GRILLE NID
+
+normalisé à 33 de salinité (µmol/L)
+
+|
+
+Manche Atlantique
+
+|
+
+NEA 1/26a
+
+|
+
+Tous
+
+|
+
+Toutes
+
+|
+
+Très Bon :< 20
+
+Bon : ]20 - 33] ou si [ >33 et si EQR biomasse > bon état ]
+
+Inférieur à Bon : ≥à 33
+
+et EQR biomasse < bon état
+
+|
+
+mer du Nord
+
+|
+
+NEA 1/26b
+
+|
+
+Tous
+
+|
+
+Toutes
+
+|
+
+Très Bon :< 20
+
+Bon : ]20 - 29] ou si [>29 et si EQR biomasse > bon état ]
+
+Inférieur à Bon : ≥à 29
+
+et EQR biomasse < bon état
 
 |
 
@@ -2040,11 +1946,11 @@ Cet élément de qualité est non pertinent dans les estuaires turbides.
 
 2.1.1.1. Chlorophylle a
 
-Comme en eaux côtières, la métrique définie est le percentile 90 des valeurs de chlorophylle a, calculé sur des données mensuelles acquises à des périodes variables suivant les masses d'eau, et sur six ans.
+Comme en eaux côtières, la métrique définie est le percentile 90 des valeurs de chlorophylle a, calculé sur des données mensuelles acquises à des périodes variables suivant les masses d'eau, et sur 6 ans.
 
-La grille de qualité pour le paramètre chlorophylle a est présentée dans le tableau 74 ci-dessous.
+La grille de qualité pour le paramètre chlorophylle a est présentée dans le tableau 72 ci-dessous.
 
-Tableau 74 : Grille de qualité pour le paramètre chlorophylle a - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 72 : grille de qualité pour le paramètre chlorophylle a - pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
 
 |
 
@@ -2058,9 +1964,7 @@ européen (1)
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
@@ -2072,31 +1976,23 @@ françaises concernées
 
 LIMITES
 
-supérieure
-
-et inférieure
-
-du bon état (µg/l)
+supérieure et inférieure du bon état (µg/l)
 
 |
 
 VALEUR
 
-de référence
-
-(µg/l)
+de référence (µg/l)
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
-Manche-Atlantique
+Manche Atlantique
 
 |
 
@@ -2110,11 +2006,11 @@ NEA 11
 
 |
 
-Toutes les masses d'eau côtières des districts Garonne, Loire, Seine
+Toutes les masses d'eaux côtières des districts Garonne, Loire, Seine
 
 |
 
-] 5 - 10 ]
+] 5 -8,39 ]
 
 |
 
@@ -2122,11 +2018,11 @@ Toutes les masses d'eau côtières des districts Garonne, Loire, Seine
 
 |
 
-0,08-0,17-0,33-0,67
+0,08-0,17-0,397-0,67
 
 |
 
-Mer du Nord
+mer du Nord
 
 |
 
@@ -2144,7 +2040,7 @@ Toutes les masses d'eau côtières du district Escaut
 
 |
 
-] 10 - 15 ]
+] 10 - 16,8 ]
 
 |
 
@@ -2152,7 +2048,7 @@ Toutes les masses d'eau côtières du district Escaut
 
 |
 
-0,15-0,30-0,44-0,67
+0,15-0,30-0,397-0,67
 
 |
 
@@ -2164,11 +2060,11 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
-Masses d'eau de type delta (type 12)
+Masses d'eau de type Delta (type 12)
 
 |
 
@@ -2188,7 +2084,7 @@ Toutes les ME du type 12, sauf exception argumentée
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2212,33 +2108,33 @@ Toutes les ME du type 10 sauf exception argumentée
 
 |
 
-2.1.1.2. Blooms-abondance
+2.1.1.2. Blooms/abondance
 
-Estuaires (MET des façades mer du Nord, Manche et Atlantique et MET de type delta en Méditerranée)
+Estuaires (MET des façades mer du Nord, Manche et Atlantique et MET de type Delta en Méditerranée)
 
 La métrique est définie comme le pourcentage d'échantillons pour lequel un taxon dépasse une valeur seuil. Deux valeurs seuils sont définies :
 
-100 000 cellules pour les espèces de taille : ≥ 20 µm ;
+- 100 000 cellules pour les espèces de taille : ≥ 20 µm ;
 
-250 000 cellules pour les espèces de taille : 5µm ≤ x < 20 µm.
+- 250 000 cellules pour les espèces de taille : 5µm ≤ x < 20 µm.
 
 La métrique se calcule pour l'ensemble des deux classes de taille, sur des données mensuelles, acquises toute l'année et durant six ans.
 
-La grille de qualité pour le paramètre blooms-abondance est présentée dans le tableau 75 ci-dessous.
+La grille de qualité pour le paramètre blooms/abondance est présentée dans le tableau 73 ci-dessous.
 
 Lagunes méditerranéennes
 
 Deux métriques sont définies :
 
-- densité de nanophytoplancton (> 3 µm) (percentile 90 sur six ans du nombre de cellules/L > 3 µM) ;
+- Densité de nano-phytoplancton (> 3 µm) (percentile 90 sur 6 ans du nombre de cellules/L > 3 µM)
 
-- densité de picophytoplancton (< 3 µM) (percentile 90 sur six ans du nombre de cellules/L < 3 µM).
+- Densité de pico-phytoplancton (< 3 µM) (percentile 90 sur 6 ans du nombre de cellules/L < 3 µM)
 
-Pour chaque métrique, un EQR est calculé ; l'EQR le plus bas des deux est retenu comme EQR pour l'indice d'abondance final.
+Pour chaque métrique un EQR est calculé ; l'EQR le plus bas des deux est retenu comme EQR pour l'indice d'abondance final.
 
-La grille de qualité pour le paramètre blooms est présentée dans le tableau 75 ci-dessous.
+La grille de qualité pour le paramètre blooms est présentée dans le tableau 73 ci-dessous.
 
-Tableau 75 : Grille de qualité pour le paramètre blooms-abondance - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 73 : grille de qualité pour le paramètre bloom-abondance - pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
 
 |
 
@@ -2252,23 +2148,19 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises
-
-concernées
+françaises concernées
 
 |
 
-LIMITES SUPÉRIEURE
+LIMITES
 
-et inférieure du bon état
+supérieure et inférieure du bon état
 
 |
 
@@ -2278,15 +2170,13 @@ de référence
 
 |
 
-RATIO
+RATIO DE
 
-de qualité
-
-écologique
+qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -2306,11 +2196,7 @@ Toutes les masses du type, sauf les ME turbides
 
 |
 
-(% d'échantillons avec
-
-dépassement d'un seuil
-
-de bloom)
+(% d'échantillons avec dépassement d'un seuil de bloom)
 
 ] 20 - 39 ]
 
@@ -2332,7 +2218,7 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2348,7 +2234,7 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2356,9 +2242,15 @@ Type 10
 
 |
 
-Toutes, sauf exception argumentée
+Toutes sauf exception argumentée
 
 |
+
+Picoplancton :
+
+]20 - 50]
+
+Nanoplancton : ]4 - 10]
 
 |
 
@@ -2374,9 +2266,9 @@ Nanoplancton : 3*106 cell/L
 
 2.1.1.3. Indicateur phytoplancton
 
-La grille de qualité résultante (moyenne des EQR biomasse et abondance) est indiquée dans le tableau 76 ci-dessous.
+La grille de qualité résultante (moyenne des EQR biomasse et abondance) est indiquée dans le tableau 74 ci-dessous.
 
-Tableau 76 : Grille de qualité pour l'indicateur phytoplancton - Pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 74 : grille de qualité pour l'indicateur phytoplancton - pour toutes les façades : grille susceptible de révision (intercalibration européenne non achevée)
 
 |
 
@@ -2390,27 +2282,19 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises
-
-concernées
+françaises concernées
 
 |
 
 LIMITES
 
-supérieure
-
-et inférieure
-
-du bon état (µg/l)
+supérieure et inférieure du bon état (µg/l)
 
 |
 
@@ -2426,7 +2310,7 @@ de qualité écologique
 
 |
 
-Manche-Atlantique
+Manche Atlantique
 
 |
 
@@ -2442,7 +2326,7 @@ Tous
 
 |
 
-Masses d'eau côtières des districts Garonne, Loire, Seine, sauf ME turbides
+Toutes les ME
 
 |
 
@@ -2454,11 +2338,11 @@ Sans objet
 
 |
 
-0,13-0,2-0,38-0,75
+0,13-0,2-0,413-0,75
 
 |
 
-Mer du Nord
+mer du Nord
 
 |
 
@@ -2466,7 +2350,7 @@ ET
 
 |
 
-NEA 1/26b
+NEA 11
 
 |
 
@@ -2474,7 +2358,7 @@ Tous
 
 |
 
-Masses d'eau côtières du district Escaut, sauf ME turbide
+Toutes les ME
 
 |
 
@@ -2486,7 +2370,7 @@ Sans objet
 
 |
 
-0,17-0,27-0,44-0,75
+0,17-0,27-0,413-0,75
 
 |
 
@@ -2498,7 +2382,7 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2518,11 +2402,11 @@ Sans objet
 
 |
 
-0,13-0,20-0,38-0,75
+0,13- 0,20-0,38-0,75
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2530,7 +2414,7 @@ Type 10 (lagune)
 
 |
 
-Toutes les ME, sauf exception argumentée
+Toutes les ME sauf exception argumentée
 
 |
 
@@ -2550,7 +2434,7 @@ Sans objet
 
 Estuaires (MET des façades mer du Nord, Manche et Atlantique)
 
-Pour les parties euhalines des masses d'eau de transition, les principes définis à la partie 1.1.2 de la présente annexe pour les eaux côtières sont applicables.
+Un indicateur spécifique est en cours de développement.
 
 Lagunes méditerranéennes
 
@@ -2564,9 +2448,9 @@ L'indice retenu est l'indice M-AMBI, qui intègre les trois paramètres requis p
 
 Le M-AMBI varie entre 0 et 1.
 
-La grille de qualité pour les invertébrés benthiques est présentée dans le tableau 77 ci-dessous.
+La grille de qualité pour les invertébrés benthiques est présentée dans le tableau 75 ci-dessous.
 
-Tableau 77 : Grille de qualité pour l'indicateur invertébrés benthiques - Grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 75 : grille de qualité pour l'indicateur invertébrés benthiques - grille susceptible de révision (intercalibration européenne non achevée)
 
 |
 
@@ -2580,31 +2464,25 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
 MASSES
 
-d'eau françaises
-
-concernées
+D'EAU françaises concernées
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
@@ -2616,7 +2494,7 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -2624,35 +2502,29 @@ Type 10 (lagune)
 
 |
 
-Toutes les masses d'eau du type, sauf lagunes oligo et mésohalines
+Toutes les masses d'eau du type, sauf lagunes oligo et mésohalines)
 
 |
 
-AMBI = 0,6
-
-Diversité = 4,23 Richesse
-
-spécifique = 46
+AMBI = 0,6 Diversité = 4,23 Richesse spécifique = 46
 
 |
 
-0,2-0,4-0,63-0,80
+0,2-0,4-0,63-0,84
 
 |
 
-2.1.3. Macroalgues
+2.1.3. Macro-algues
 
 Estuaires (MET des façades mer du Nord, Manche et Atlantique)
 
-Pour les estuaires de la mer du Nord, de la Manche et de l'Atlantique, on distingue :
+Pour les estuaires de mer du Nord, la Manche et l'Atlantique, on distingue
 
-- les macroalgues intertidales substrat dur, pour lesquelles un indicateur spécifique est en cours de développement ;
+- les macro-algues intertidales substrat dur,
 
-- les macroalgues formant des blooms opportunistes, pour lesquelles les mêmes types de marées vertes qu'en eaux côtières peuvent avoir lieu (excepté pour les marées vertes de type 2 qui s'observent exclusivement en eaux côtières). Les mêmes indicateurs que ceux décrits en eaux côtières pour les marées vertes de type 1 et de type 3 s'appliquent (voir paragraphe 1.1.3.3).
+La grille de qualité pour les macro-algues intertidales de substrat dur est la suivante :
 
-La grille de qualité pour les macroalgues formant des blooms est présentée dans le tableau 78 ci-dessous.
-
-Tableau 78 : Grille de qualité pour l'indicateur macroalgues formant des blooms - Grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 76 : grille de qualité pour l'indicateur macro-algues intertidales de substrat dur
 
 |
 
@@ -2666,23 +2538,19 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises
-
-concernées
+françaises concernées
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
@@ -2692,9 +2560,73 @@ de qualité écologique
 
 |
 
-Mer du Nord -
+Manche - mer du Nord - Atlantique
 
-Manche-Atlantique
+|
+
+ET
+
+|
+
+NEA11
+
+|
+
+Tous
+
+|
+
+Toutes
+
+|
+
+|
+
+0,2-0,4-0,65-0,8
+
+|
+
+- les macro-algues formant des blooms opportunistes pour lesquelles les mêmes types de marées vertes qu'en eaux côtières peuvent avoir lieu (excepté pour les marées vertes de type 2 qui s'observent exclusivement en eaux côtières). Les mêmes indicateurs que ceux décrits en eaux côtières pour les marées vertes de type 1 et de type 3 s'appliquent (voir paragraphe 1.1.3.3).
+
+La grille de qualité pour les macro-algues formant des blooms est présentée dans le tableau 77 ci-dessous.
+
+Tableau 77 : grille de qualité pour l'indicateur macro-algues formant des blooms
+
+|
+
+|
+
+TYPE
+
+européen
+
+|
+
+TYPES
+
+français concernés
+
+|
+
+MASSES D'EAU
+
+françaises concernées
+
+|
+
+VALEUR DE
+
+référence
+
+|
+
+RATIO
+
+de qualité écologique
+
+|
+
+mer du Nord Manche Atlantique
 
 |
 
@@ -2716,7 +2648,7 @@ FRHT06
 
 |
 
-0,20-0,40-0,60-0,80
+0,20-0,40-0,617-0,825
 
 |
 
@@ -2754,13 +2686,13 @@ FRGT24 FRGT25 FRGT27
 
 Lagunes méditerranéennes
 
-La France dispose d'un outil global qui inclut les angiospermes et les macroalgues (cf. partie suivante : angiospermes).
+La France dispose d'un outil global qui inclut les angiospermes et les macro-algues (cf. partie suivante : angiospermes).
 
 2.1.4. Angiospermes
 
 Estuaires (MET des façades mer du Nord, Manche et Atlantique)
 
-Les angiospermes considérées sont les herbiers à zostères : Zostera noltii et Zostera marina.
+Les angiospermes considérés sont les herbiers à Zostères : Zostera noltii et Zostera marina.
 
 L'indice français est composé de trois métriques :
 
@@ -2768,15 +2700,15 @@ L'indice français est composé de trois métriques :
 
 - évolution de la densité de l'herbier (%) ;
 
-- évolution du nombre d'espèces (présence/absence des deux espèces).
+- évolution du nombre d'espèces (présence/ absence des 2 espèces).
 
 Les références sont établies par masse d'eau.
 
-Un EQR est établi pour chaque métrique ; la moyenne des trois EQR constitue l'EQR de l'indice.
+Un EQR est établi pour chaque métrique ; la moyenne des 3 EQR constitue l'EQR de l'indice.
 
-La grille de qualité pour les angiospermes est présentée dans le tableau 79 ci-dessous.
+La grille de qualité pour les angiospermes est présentée dans le tableau 78 ci-dessous.
 
-Tableau 79 : Grille de qualité pour l'indicateur angiospermes - Grille susceptible de révision (intercalibration européenne non achevée)
+Tableau 78 : grille de qualité pour l'indicateur angiospermes - grille susceptible de révision (intercalibration européenne non achevée)
 
 |
 
@@ -2790,21 +2722,19 @@ européen
 
 TYPES
 
-français
-
-concernés
+français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises concernées
+françaises concernées
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
@@ -2814,7 +2744,7 @@ de qualité écologique
 
 |
 
-Mer du Nord - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -2838,47 +2768,39 @@ Sans objet
 
 |
 
-0,20-0,40-0,60-0,80
+0,20-0,40-0,645-0,80
 
 |
 
 Lagunes méditerranéennes
 
-La France dispose d'un outil global qui inclut les angiospermes et les macroalgues : l'indicateur EXCLAME (EXamination tool for Coastal Lagoon Macrophyte Ecological status). Cet outil a été établi pour la pression d'eutrophisation, qui est la principale pression anthropique pesant sur les lagunes.
+La France dispose d'un outil global qui inclut les angiospermes et les macro-algues, l'indicateur EXCLAME (EXamination tool for Coastal Lagoon Macrophyte Ecological status). Cet outil a été établi pour la pression d'eutrophisation, qui est la principale pression anthropique pesant sur les lagunes. L'indicateur EXCLAME décrit ci-dessous est applicable aux lagunes poly-euhalines.
 
 Trois métriques sont combinées :
 
+- recouvrement du fond par les macrophytes, ou recouvrement total - RT - (%) ;
+
 - recouvrement du fond par les espèces de référence, ou recouvrement relatif - RR - (%) ;
 
-- recouvrement du fond par les macrovégétaux, ou recouvrement total - RT - (%) ;
-
-- richesse spécifique moyenne - RS - (nombre moyen d'espèces recensées), qui discrimine médiocre/mauvais.
+- richesse spécifique moyenne - RS (nombre moyen d'espèces recensées) qui discrimine médiocre/mauvais.
 
 L'indice ne peut être utilisé que lorsque le recouvrement global des macrovégétaux est supérieur à 5 %.
 
 Valeurs de référence
 
-RR ≥ 100 %
+RR = 100 %
 
-RT ≥ 100 %
+RT = 100 %
 
-Le classement se réalise en combinant d'abord les deux premières métriques entre elles et en définissant des EQR, selon le tableau 80 ci-dessous.
+Dans un premier temps, le classement se réalise en utilisant la première métrique (RT) pour définir l'EQR abondance d'une part, et en combinant les deux autres métriques (RR et RS) entre elles pour obtenir l'EQR composition d'autre part, selon le tableau 79 ci-dessous.
 
-Tableau 80 : Identification des classes d'état des EQR des métriques de l'indice EXCLAME
+Tableau 79 : identification des classes d'état des EQR des métriques de l'indice EXCLAME
 
 Indice Composition
 
 |
 
 EQRc Composition
-
-|
-
-Indice Abondance
-
-|
-
-EQRAAbondance
 
 |
 
@@ -2894,7 +2816,7 @@ Métrique 2. RR %
 
 |
 
-Métrique 3. RT %
+|
 
 |
 
@@ -2910,23 +2832,7 @@ Métrique 3. RT %
 
 |
 
-[100 - 75]
-
-|
-
-[1 - 0,8]
-
-|
-
-Très bon
-
-|
-
-]75 - 50]
-
-|
-
-]0,8 - 0,6]
+Très Bon
 
 |
 
@@ -2950,27 +2856,11 @@ Bon
 
 |
 
-]50 - 25]
-
-|
-
-]0,6 - 0,4]
-
-|
-
 Moyen
 
 |
 
 ]5 - 0]
-
-|
-
-]0,4 - 0,2]
-
-|
-
-]25 - 5]
 
 |
 
@@ -2994,6 +2884,90 @@ Médiocre
 
 |
 
+Mauvais
+
+|
+
+≥ 3 ou < 3
+
+|
+
+Non défini (cas où RT < 5 %)
+
+|
+
+Non défini
+
+|
+
+Indice Abondance
+
+|
+
+EQRA Abondance
+
+|
+
+Classe
+
+|
+
+Métrique 3. RT %
+
+|
+
+|
+
+|
+
+[100 - 75]
+
+|
+
+[1 - 0,8]
+
+|
+
+Très Bon
+
+|
+
+]75 - 50]
+
+|
+
+]0,8 - 0,6]
+
+|
+
+Bon
+
+|
+
+]50 - 25]
+
+|
+
+]0,6 - 0,4]
+
+|
+
+Moyen
+
+|
+
+]25 - 5]
+
+|
+
+]0,4 - 0,2]
+
+|
+
+Médiocre
+
+|
+
 ]5 - 0]
 
 |
@@ -3006,75 +2980,11 @@ Mauvais
 
 |
 
-≥ 3 ou < 3
+L'indicateur final (EQRMAC) résulte de la combinaison de l'EQRC de composition et de l'EQRA d'abondance. Il est basé sur le principe suivant : c'est la présence d'espèces de référence, donc la composition, qui va définir essentiellement la qualité de la masse d'eau pour les macrophytes. Cette qualité sera d'autant plus fortement déclassée que l'abondance n'est pas satisfaisante (à partir de EQRA < 0,6 (recouvrement total <50 %), soit à partir de la classe de qualité moyen ). Pour des EQRA supérieurs ou égaux à 0.6 (classe de qualité très bon et bon), la classe de qualité macrophytes est égale à celle de la composition (EQRMAC = EQRC). Pour des EQRA inférieurs à 0,6, il y a un effet de déclassement progressif et qui s'accentue (fonction polynomiale) au fur et à mesure que l'on s'écarte du seuil bon-moyen de l'EQR A.
 
-|
+La grille de qualité pour les macrophytes des lagunes poly-euhalines est présentée dans le tableau 80 ci-dessous.
 
-Non défini (cas où RT
-
-< 5 %)
-
-|
-
-Non défini
-
-|
-
-L'indicateur final (EQRMAC) résulte de la combinaison de l'EQRC de composition et de l'EQRA d'abondance. Il est basé sur le principe suivant : c'est la présence d'espèces de référence, donc la composition, qui va définir essentiellement la qualité de la masse d'eau pour les macrophytes. Cette qualité sera d'autant plus fortement déclassée que l'abondance n'est pas satisfaisante (à partir de EQRA < 0,6 [recouvrement total < 50 %], soit à partir de la classe de qualité moyen ). Pour des EQRA supérieurs ou égaux à 0,6 (classe de qualité très bon et bon ), la classe de qualité macrophytes est égale à celle de la composition (EQRMAC = EQRC). Pour des EQRA inférieurs à 0,6, il y a un effet de déclassement progressif et qui s'accentue (fonction polynomiale) au fur et à mesure que l'on s'écarte du seuil bon-moyen de l'EQRA. La grille résultante figure dans le tableau 81 ci-après :
-
-Tableau 81 : Classe d'état de l'indice EXCLAME suite à la combinaison des EQRC et EQRA
-
-EQR MACROPHYTES EXCLAME
-
-|
-
-CLASSE D'ÉTAT
-
-|
-
-[1 - 0,8]
-
-|
-
-Très bon
-
-|
-
-]0,8 - 0,6]
-
-|
-
-Bon
-
-|
-
-]0,6 - 0,4]
-
-|
-
-Moyen
-
-|
-
-]0,4 - 0,2]
-
-|
-
-Médiocre
-
-|
-
-]0,2 - 0]
-
-|
-
-Mauvais
-
-|
-
-La grille de qualité pour les macrophytes est présentée dans le tableau 82 ci-dessous.
-
-Tableau 82 : Grille de qualité pour l'indicateur macrophytes (angiospermes et macroalgues) - Grille définitive
+Tableau 80 : grille de qualité pour l'indicateur macrophytes (angiospermes et macro-algues)
 
 |
 
@@ -3092,23 +3002,21 @@ français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises concernées
+françaises concernées
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
@@ -3120,7 +3028,7 @@ ET
 
 |
 
-Aucun
+aucun
 
 |
 
@@ -3128,17 +3036,327 @@ Type 10 (lagune)
 
 |
 
-Toutes les masses d'eau du type, sauf lagunes oligo et mésohalines
+Toutes les masses d'eau du type, sauf lagunes oligo et mésohalines)
 
 |
 
-RR = 100 %
-
-RT = 100
+RR = 100 % RT = 100
 
 |
 
 0,2-0,4-0,6-0,80
+
+|
+
+Pour les lagunes oligo-mésohalines, l'indicateur macrophytes est basé sur la valeur indicatrice des espèces réparties en 5 groupes le long du gradient d'eutrophisation. Cet indicateur comprend 3 métriques :
+
+- le recouvrement cumulé des espèces des groupes 1, 2 et 3 ( RV (G1+2+3) ), correspondant à des niveaux faibles à moyen d'eutrophisation et celui des espèces des groupes 4 et 5 ( RV (G4+5) ) correspondant à des niveaux forts à très forts,
+
+- le recouvrement total de Stuckenia pectinata ( RV S. pectinata ) qui devient indicateur de stress lorsque son recouvrement dépasse 65 %,
+
+- les résidus de la corrélation reliant la turbidité à la biomasse de chlorophylle-a (log10Turbidité= a+b * log10Chl-a) qui expriment la part non trophique de la turbidité ( Résidus TUR ).
+
+Valeurs de référence :
+
+- RV (G1+2+3) > 80 %, et RV (G4+5) <30 % ;
+
+- Recouvrement de S. pectinata <65 % ;
+
+- Résidus TUR > 0,2.
+
+Les trois métriques sont combinées pour produire l'indicateur macrophytes des lagunes oligo-mésohalines :
+
+L'état est jugé très bon lorsque :
+
+- le recouvrement cumulé des macrophytes des groupes 1 à 3 est supérieur ou égal à 80 % et,
+
+- le recouvrement d'une seule espèce (Stuckenia pectinata) est inférieur ou égal à 65 % et,
+
+- le recouvrement cumulé des espèces des groupes 4 et 5 est inférieur ou égal à 30 %.
+
+L'état est bon avec une large gamme de recouvrement cumulé des espèces des groupes 1 à 3 (>5 %) en fonction :
+
+- du recouvrement de Stuckenia pectinata (<65 %),
+
+- du recouvrement des espèces des groupes 4 et 5 ≤ 30% sauf si G1+2+3≥ 80 %),
+
+- des résidus de la régression log10Turbidité= a+b x log10Chl-a (≥0,2) si le recouvrement total des G1+2+3 compris entre 5 et 20 %.
+
+L'indicateur est non applicable (NA) lorsque le recouvrement cumulé des macrophytes des groupes 1 à 3 est inférieur à 5 %
+
+La grille de qualité pour les macrophytes des lagunes oligo-mésohalines est présentée dans le tableau 81 ci-dessous.
+
+Tableau 81 : grille de qualité pour l'indicateur macrophytes (angiospermes et macro-algues) des lagunes oligo-mésohalines
+
+Métrique RV G1+2+3
+
+|
+
+Turbidité
+
+|
+
+Résidus TUR
+
+|
+
+Métrique RV
+
+S. pectinata
+
+|
+
+Métrique RV
+
+(G4+5)
+
+|
+
+Classe
+
+|
+
+[100 %-80 %]
+
+|
+
+-
+
+|
+
+-
+
+|
+
+[0-65 %]
+
+|
+
+[0-30 %]
+
+|
+
+Très bon
+
+|
+
+]30 %-100 %]
+
+|
+
+Bon
+
+|
+
+]65 %-100 %]
+
+|
+
+[0-30 %]
+
+|
+
+Moyen
+
+|
+
+]30 %-100 %]
+
+|
+
+Médiocre
+
+|
+
+]80 %-50 %]
+
+|
+
+-
+
+|
+
+-
+
+|
+
+[0-65%]
+
+|
+
+[0-30 %]
+
+|
+
+Bon
+
+|
+
+]30 %-100 %]
+
+|
+
+Moyen
+
+|
+
+]65 %-100 %]
+
+|
+
+[0-30 %]
+
+|
+
+Moyen
+
+|
+
+]30 %-100 %]
+
+|
+
+Médiocre
+
+|
+
+]50 %-20 %]
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+[0-30 %]
+
+|
+
+Bon
+
+|
+
+]30 %-100 %]
+
+|
+
+Moyen
+
+|
+
+]20 %-5 %]
+
+|
+
+≥15 NTU
+
+|
+
+≥0,2
+
+|
+
+-
+
+|
+
+[0-30 %]
+
+|
+
+Bon
+
+|
+
+]30 %-100 %]
+
+|
+
+Moyen
+
+|
+
+<0,2
+
+|
+
+-
+
+|
+
+[0-30 %]
+
+|
+
+Moyen
+
+|
+
+]30 %-100 %]
+
+|
+
+Médiocre
+
+|
+
+<15 NTU
+
+|
+
+-
+
+|
+
+-
+
+|
+
+[0-30 %]
+
+|
+
+Médiocre
+
+|
+
+]30 %-100 %]
+
+|
+
+Mauvais
+
+|
+
+]5 %-0]
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+NA
 
 |
 
@@ -3148,19 +3366,19 @@ Estuaires (MET des façades mer du Nord, Manche et Atlantique)
 
 L'indicateur ELFI comprend les métriques suivantes :
 
-- densité de migrateurs - DDIA (Log_densité/1 000 m²) ;
+- Densité de migrateurs - DDIA (Log_densité / 1 000 m²).
 
-- densité de juvéniles marins - DMJ (Log_densité/1 000 m²) ;
+- Densité de juvéniles marins - DMJ (Log_densité / 1 000 m²).
 
-- densité de poissons d'eau douce dans les zones oligohalines - DFW (Log_densité/1 000 m²) ;
+- Densité de poissons d'eau douce dans les zones oligohalines - DFW (Log_densité / 1 000 m²).
 
-- densité de poissons benthiques - DB (Log_densité/1 000 m²) ;
+- Densité de poissons benthiques - DB (Log_densité / 1 000 m²).
 
-- densité totale de poissons - DT (Log_densité/1 000 m²) ;
+- Densité totale de poissons - DT (Log_densité / 1 000 m²).
 
-- densité de poissons résidents - DER (Log_densité/1 000 m²) ;
+- Densité de poissons résidents - DER (Log_densité / 1 000 m²).
 
-- richesse taxonomique normalisée - RT_lnS (nb de taxons/logarithme népérien de la surface échantillonnée).
+- Richesse taxonomique normalisée - RT_lnS (Nb de taxons / Logarithme népérien de la surface échantillonnée).
 
 L'indicateur final est constitué de l'assemblage des métriques. Les scores obtenus pour chaque saison et classe de salinité ont d'abord été compilés afin d'obtenir une seule note par système, pour la métrique considérée.
 
@@ -3172,9 +3390,9 @@ Dans le cas où une masse d'eau n'aurait pas de classe de salinité oligohaline,
 
 L'indicateur est d'abord calculé pour chaque année de surveillance ; leur moyenne constitue la valeur finale pour la masse d'eau considérée.
 
-La grille de qualité pour les poissons est présentée dans le tableau 83 ci-dessous.
+La grille de qualité pour les poissons est présentée dans le tableau 82 ci-dessous.
 
-Tableau 83 : Grille de qualité pour l'indicateur Poisson - Grille définitive
+Tableau 82 : grille de qualité pour l'indicateur Poisson
 
 |
 
@@ -3192,27 +3410,25 @@ français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises concernées
+françaises concernées
 
 |
 
-VALEUR
+VALEUR DE
 
-de référence
+référence
 
 |
 
 RATIO
 
-de qualité
-
-écologique
+de qualité écologique
 
 |
 
-Mer du Nor - Manche-Atlantique
+mer du Nord Manche Atlantique
 
 |
 
@@ -3240,7 +3456,7 @@ Toutes les masses d'eau de transition des districts Escaut, Garonne, Loire, Sein
 
 2.1.6. Cas des départements d'outre-mer
 
-Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologiques dans les départements d'outre-mer. Des indicateurs spécifiques adaptés à l'écologie de ces milieux sont en cours de développement. Dans cette attente, le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
+Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologiques dans les départements d'outre-mer. Des indicateurs spécifiques adaptés à l'écologie de ces milieux sont en cours de développement. Dans cette attente, le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'Annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
 
 2.2. Eléments physico-chimiques généraux
 
@@ -3250,13 +3466,15 @@ Les principes définis à la partie 1.2.1 de la présente annexe pour les eaux c
 
 2.2.2. Nutriments
 
-Dans les eaux de transition de Méditerranée de type lagune (type 10), les grilles de qualité pour les nutriments figurant dans le tableau 84 ci-dessous sont utilisées, en l'attente d'une consolidation ultérieure.
+Façade Méditerranée :
+
+Dans les eaux de transition de Méditerranée de type lagune (type 10), les grilles de qualité pour les nutriments figurant dans le tableau 83 ci-dessous sont utilisées, en l'attente d'une consolidation ultérieure pour les lagunes oligo-mésohalines.
 
 Les formes prises en compte sont l'azote (total et minéral dissous total) et le phosphore (total et minéral dissous total).
 
-La métrique utilisée est le percentile 90 des données estivales sur six ans.
+La métrique utilisée est le percentile 90 des données estivales sur 6 ans.
 
-Tableau 84 : Grille de qualité pour les nutriments dans les eaux de transition méditerranéenne de type lagune (type 10)
+Tableau 83 : grille de qualité pour les nutriments dans les eaux de transition méditerranéennes de type lagune (type 10)
 
 TYPE
 
@@ -3270,19 +3488,19 @@ français concernés
 
 |
 
-MASSES
+MASSES D'EAU
 
-d'eau françaises concernées
+françaises concernées
 
 |
 
-PARAMÈTRE
+Paramètre
 
 |
 
 GRILLE
 
-(µmom/l)
+(µmol/l)
 
 |
 
@@ -3294,7 +3512,7 @@ Type 10
 
 |
 
-Toutes les masses d'eau du type, sauf exception argumentée
+Lagunes poly-euhalines
 
 |
 
@@ -3302,15 +3520,23 @@ NID
 
 |
 
-20-10-6-2
+Très Bon : ≤ 2
+
+Bon : ] 2 - 6 ]
+
+Inférieur à Bon : >6
 
 |
 
-N total
+N Total
 
 |
 
-120-100-75-50
+Très Bon : ≤ 50
+
+Bon : ] 50 - 75 ]
+
+Inférieur à Bon : >75
 
 |
 
@@ -3318,14 +3544,106 @@ PO4
 
 |
 
-4-1,5-1-0,3
+Très Bon : ≤ 0,3
+
+Bon : ] 0,3- 1 ]
+
+Inférieur à Bon : >1
 
 |
 
-P total
+P Total
 
 |
 
-5-4-3-2
+Très Bon : ≤ 2
+
+Bon : ] 2- 3 ]
+
+Inférieur à Bon : >3
+
+|
+
+Façade Manche - mer du Nord - Atlantique :
+
+La métrique retenue pour l'indicateur nutriment est la concentration normalisée à 33 de salinité des valeurs mensuelles de NID mesurées en surface sur 6 ans.
+
+Tableau 84 : grille de qualité pour l'indicateur azote inorganique dissous pour la façade Manche - mer du Nord - Atlantique
+
+|
+
+TYPE
+
+européen
+
+|
+
+TYPES
+
+français concernés
+
+|
+
+MASSES D'EAU
+
+françaises concernées
+
+|
+
+GRILLE NID
+
+normalisé à 33 de salinité (µmol/L)
+
+|
+
+Manche Atlantique
+
+|
+
+NEA 11
+
+|
+
+Tous
+
+|
+
+Toutes
+
+|
+
+Très Bon :< 20
+
+Bon : ]20 - 29] ou si [>29 et si EQR biomasse > bon état ]
+
+Inférieur à Bon : ≥à 29
+
+et EQR biomasse < bon état
+
+|
+
+mer du Nord
+
+|
+
+NEA 11
+
+|
+
+Tous
+
+|
+
+Toutes
+
+|
+
+Très Bon :< 20
+
+Bon : ]20 - 33] ou si [>33 et si EQR biomasse > bon état ]
+
+Inférieur à Bon : ≥à 33
+
+et EQR biomasse < bon état
 
 |
