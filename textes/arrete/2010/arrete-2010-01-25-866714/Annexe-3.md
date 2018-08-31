@@ -4,11 +4,11 @@ MODALITÉS D'ÉVALUATION DE L'ÉTAT DES ÉLÉMENTS DE QUALITÉ DE L'ÉTAT ÉCOLO
 
 Modalités d'évaluation de l'état des eaux douces de surface : les indices biologiques, les paramètres physico-chimiques, les valeurs de référence et les EQR des seuils de classes d'état et modalités de calcul des éléments de qualité de l'état écologique, pour lesquels des méthodes sont disponibles actuellement, sont indiqués pour les cours d'eau dans la partie 1 de la présente annexe et pour les plans d'eau dans la partie 2 de la présente annexe.
 
-Les indices sont utilisables conformément aux conditions et limites d'application technique intrinsèques de chacun(e) des méthodes ou protocoles, décrit(e)s dans les normes et documents techniques de référence.
-
-Outils diagnostics complémentaires dans la perspective du 3e cycle DCE (2021-2027) : les indices biologiques des cours d'eau de métropole pour les macroinvertébrés et les poissons doivent évoluer afin de devenir plus représentatifs de l'état biologique de la masse d'eau et de mieux identifier les pressions à l'origine de la dégradation des masse d'eau. En prévision de cette évolution les nouveaux indices biologiques sont prescrits en qualité d'outils diagnostics complémentaires obligatoires, en appui aux outils d'évaluation visés aux points 1 et 2 de la présente annexe. Pour ces nouveaux indices, les valeurs de référence et les EQR des seuils de classes d'état et modalités de calcul des éléments de qualité de l'état écologique sont indiqués en partie 3 de la présente annexe.
+Les indices sont utilisables conformément aux conditions et limites d'application technique intrinsèques de chacun(e) des méthodes ou protocoles, décrit(e)s dans les normes et documents techniques de référence listés dans l'arrêté du 25 janvier 2010 modifié établissant le programme de surveillance de l'état des eaux.
 
 1. Indices, valeurs de référence, EQR des seuils de classes d'état et modalités de calcul de l'état des éléments de qualité de l'état écologique des cours d'eau
+
+L'ensemble des indices utilisables seront calculés à l'aide du système d'évaluation de l'état des eaux présenté au point 3 de l'annexe 9 dès mise à disposition sur l'outil ou d'un système équivalent utilisant les mêmes algorithmes. Les résultats fournis ne devront pas être arrondis.
 
 1.1. Eléments biologiques pour les cours d'eau
 
@@ -18,313 +18,2177 @@ Les indices, les valeurs de référence, les EQR des seuils de classes d'état e
 
 1.1.1.1. Indice biologique invertébrés pour la métropole
 
-L'indice biologique invertébrés à utiliser est l'indice biologique global normalisé (IBGN) de la norme NF T90-350 de mars 2004. Le résultat du calcul de l'algorithme inclus dans cette norme peut également être utilisé et considéré équivalent, si appliqué, pour les cours d'eau peu profonds, aux phases A et B d'un prélèvement réalisé selon la norme XP T90-333 ou NF T90-333 et, pour les cours d'eau profonds, aux prélèvements élémentaires de berge et chenal d'un prélèvement réalisé selon le Protocole expérimental d'échantillonnage des "macroinvertébrés" en cours d'eau profond de P. Usseglio Polatera, J.G Wasson et V. Achaimbault, déc. 2009, ou protocole ultérieur actualisant ce dernier, et, dans les deux cas, traités en laboratoire selon la norme XP T90-388 (puis NF T90-388 dès son entrée en vigueur).
+L'indice biologique invertébrés à utiliser est l'indice invertébrés multimétrique (I2M2 - code Sandre 7613) décrit dans : Usseglio-Polatera P., Mondy C.P., Larras F. & Coulaud R. 2018. Bioévaluation des cours d'eau peu profonds basée sur le compartiment des macroinvertébrés benthiques : I2M2 et outil diagnostique. Livret-guide. Université de Lorraine (LIEC).
 
-Le tableau 16 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice biologique invertébrés, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 17 ci-dessous indique, par type de cours d'eau, la valeur de référence.
+Pour l'HER 9A, il est possible d'utiliser temporairement pour le prochain cycle en lieu et place de l'I2M2 l'indice dit "équivalent" (phases A+B) de la méthode macro-invertébrés NF T90-333. Cet indice est calculé au moyen des règles de calcul de la méthode IBGN (NF T90-350 - mars 2004) sur les phases A et B de la norme NF T90-333 de septembre 2016 (code Sandre 5910).
 
-La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 16 ci-dessous.
+Pour les cours d'eau profond, l'indice biologique invertébrés à utiliser est l'indice macro-invertébrés grands cours d'eau (MGCE 12 prélèvements - code Sandre 6951). Cet indice est calculé au moyen des règles de calcul de la méthode IBGN (NF T90-350 - mars 2004) sur l'ensemble des phases comprenant les 12 prélèvements élémentaires du protocole expérimental d'échantillonnage des macro-invertébrés en cours d'eau profond de P. Usseglio Polatera, J.G. Wasson et V. Archaimbault, déc. 2009 ou protocole ultérieur ou norme actualisant ce dernier.
 
-La note en EQR se calcule comme suit :
+Les tableaux ci-dessous indiquent les valeurs inférieures des limites de classes, exprimées en EQR, pour l'indice invertébrés multi-métrique et l'indice biologique global normalisé, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
 
-Note en EQR = (note observée - 1) / (note de référence du type - 1)
+La classification s'établit en calculant la moyenne des indices obtenus sur chacune des années à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau ci-dessous.
 
-Tableau 16 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBGN
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux ou d'un outil conforme à celui-ci.
 
-Vous pouvez consulter l'image dans le fac-similé du
+Tableau 16 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type* de cours d'eau pour l'I2M2
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Valeurs inférieures des limites de classe
 
-Vous pouvez consulter l'image dans le fac-similé du
+par type* pour l'EQR I2M2 |
 
-JOnº 0198 du 28/08/2015, texte nº 4Tableau 17 : Valeurs de références, par type de cours d'eau, pour l'indice biologique global normalisé
+Catégories de taille de cours d'eau |
 
-Vous pouvez consulter l'image dans le fac-similé du
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Très Grands |
 
-Vous pouvez consulter l'image dans le fac-similé du
+Grands |
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Moyens |
+
+Petits |
+
+Très Petits |
+
+Hydroécorégions de niveau 1 |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+Exogène de l'HER 9 |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+|
+
+|
+
+21 |
+
+MASSIF CENTRAL NORD |
+
+Cas général |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+3 |
+
+MASSIF CENTRAL SUD |
+
+Cas général |
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-0,295-0,148 |
+
+Exogène de l'HER 19 |
+
+|
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+|
+
+|
+
+Exogène de l'HER 19 ou 8 |
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+|
+
+|
+
+|
+
+17 |
+
+DEPRESSIONS
+
+SEDIMENTAIRES |
+
+Cas général |
+
+|
+
+|
+
+# |
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+Exogène de l'HER 3 ou 21 |
+
+# |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+|
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+# |
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+Cas général |
+
+# |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+Exogène de l'HER 4 |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,605-0,354-0,236-0,118 |
+
+Exogène de l'HER 2 |
+
+# |
+
+0,665-0,46-0,306-0,153 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES INTERNES |
+
+Cas général |
+
+|
+
+0,665-0,46-0,306-0,153 |
+
+7 |
+
+PRE-ALPES DU SUD |
+
+Cas général |
+
+|
+
+0,676-0,464-0,31-0,155 |
+
+Exogène de l'HER 2 |
+
+# |
+
+0,665-0,46-0,306-0,153 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+0,665-0,498-
+
+0,332-0,166 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+0,665-0,498-0,332-0,166 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+# |
+
+0,665-0,498-0,332-0,166 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,676-0,464-0,31-0,155 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+0,665-0,498-0,332-0,166 |
+
+0,676-0,464-0,31-0,155 |
+
+A-her2 n° 70 |
+
+|
+
+|
+
+0,676-0,464-0,31-0,155 |
+
+16 |
+
+CORSE |
+
+A-her2 n° 22 |
+
+|
+
+0,665-0,498-
+
+0,332-0,332-
+
+0,166 |
+
+0,676-0,464-0,31-0,155 |
+
+B-her2 n° 88 |
+
+|
+
+0,676-0,464-
+
+0,31-0,155 |
+
+# |
+
+# |
+
+19 |
+
+GRANDS CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+0,665-0,498-
+
+0,332-0,166 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+0,665-0,498-0,332-0,166 |
+
+|
+
+|
+
+11 |
+
+CAUSSES AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+0,665-0,498-0,332-0,166 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+# |
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+14 |
+
+COTEAUX AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+# |
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+0,665-0,498-0,332-0,166 |
+
+Exogène de l'HER 1 |
+
+# |
+
+0,665-0,498-0,332-0,166 |
+
+0,665-0,46-
+
+0,306-0,153 |
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+0,665-0,46-0,306-0,153 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+|
+
+0,665-0,443-
+
+0,295-0,148 |
+
+0,665-0,443-0,295-0,148 |
+
+B-Ouest-Nord Est |
+
+|
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n° 57 |
+
+|
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+Cas général |
+
+# |
+
+0,665-0,443-0,295-0,148 |
+
+Exogène de l'HER 10 |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+# |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+# |
+
+0,665-0,443-0,295-0,148 |
+
+0,665-0,498-0,332-0,166 |
+
+Exogène de l'HER 4 |
+
+0,665-0,498-
+
+0,332-0,166 |
+
+0,665-0,443-
+
+0,295-0,148 |
+
+|
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,665-0,498-0,332-0,166 |
+
+0,665-0,443-0,295-0,148 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+Exogène de l'HER 4 |
+
+|
+
+0,665-0,443-0,295-0,148 |
+
+|
+
+* Lorsque plusieurs types d'une même HER sont concernés par une valeur de référence et des valeurs seuils de limites de classes identiques, alors ces types sont regroupés, par souci de simplification, au sein d'une même cellule dans le présent tableau.
+
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+
+# : absence de référence.
+
+En grisé : type inexistant. |
+
+Tableau 17 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type* de cours d'eau pour l'EQR-équivalent phase (A+B) de l'HER 9 A-her2 n° 57 et l'indice MGCE 12 prélèvements des cours d'eau profonds
+
+Valeurs inférieures des limites de classe par type* pour l'EQR-équivalent phase (A+B) de l'HER 9 A-her2 n° 57 et de l'indice MGCE 12 prélèvements des cours d'eau profonds |
+
+Catégories de taille de cours d'eau |
+
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
+
+Très Grands |
+
+Grands |
+
+Moyens |
+
+Petits |
+
+Très Petits |
+
+Hydroécorégions de niveau 1 |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+Exogène de l'HER 9 |
+
+|
+
+0,92857-0,78571-0,57142-
+
+0,28571 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+|
+
+# |
+
+0,94444-0,77777-
+
+0,55555-0,27777 |
+
+|
+
+|
+
+21 |
+
+MASSIF CENTRAL NORD |
+
+Cas général |
+
+|
+
+0,94444-0,77777-0,55555-
+
+0,27777 |
+
+3 |
+
+MASSIF CENTRAL SUD |
+
+Cas général |
+
+|
+
+# |
+
+0,94444-0,77777-0,55555-0,27777 |
+
+Exogène de l'HER 19 |
+
+|
+
+|
+
+0,94117-0,82352-
+
+0,52940-0,29411 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+0,94444-0,77777-
+
+0,55555-0,27777 |
+
+|
+
+|
+
+Exogène de l'HER 19 ou 8 |
+
+|
+
+0,94117-
+
+0,82352--
+
+0,52940-
+
+0,29411 |
+
+|
+
+|
+
+|
+
+17 |
+
+DEPRESSIONS SEDIMENTAIRES |
+
+Cas général |
+
+|
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+Exogène de l'HER 3 ou 21 |
+
+# |
+
+# |
+
+0,94444-0,77777-
+
+0,55555-0,27777 |
+
+0,94444-0,77777-0,55555-
+
+0,27777 |
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+# |
+
+0,92857-0,78571-
+
+0,57142-0,28571 |
+
+|
+
+|
+
+Cas général |
+
+# |
+
+|
+
+0,92857-0,78571-0,57142-0,28571 |
+
+Exogène de l'HER 4 |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+# |
+
+0,92857-0,78571-0,57142-0,28571 |
+
+Exogène de l'HER 2 |
+
+# |
+
+0,92857-0,71428-0,50000-
+
+0,28571 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES INTERNES |
+
+Cas général |
+
+|
+
+0,92857-0,71428-0,50000- 0,28571 |
+
+7 |
+
+PRE-ALPES DU SUD |
+
+Cas général |
+
+|
+
+1,00000-0,78571-0,57142-0,28571 |
+
+Exogène de l'HER 2 |
+
+# |
+
+1,00000-0,76923-0,53846-
+
+0,30769 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+1,00000-
+
+0,80000-
+
+0,53333-
+
+0,33333 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+1,00000-0,80000-0,53333-
+
+0,3333 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+# |
+
+0,93333-0,80000-0,53333-
+
+0,33333 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+0,93750-0,81250-0,56250-
+
+0,31250 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,93750-0,81250-0,56250-0,31250 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+A-her2 n° 70 |
+
+|
+
+|
+
+0,92857-0,78571-0,57142-0,28571 |
+
+16 |
+
+CORSE |
+
+A-her2 n° 22 |
+
+|
+
+0,92307-0,76923-0,46153-
+
+0,23076 |
+
+0,91666-0,75000-0,50000-
+
+0,25000 |
+
+B-her2 n° 88 |
+
+|
+
+19 |
+
+GRANDS CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+0,92857-
+
+0,78571-
+
+0,57142-
+
+0,28571 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+0,94117-0,82352-0,52940-
+
+0,29411 |
+
+|
+
+|
+
+11 |
+
+CAUSSES AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+0,93333-0,80000-0,53333-
+
+0,33333 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+# |
+
+0,94117-0,82352-0,52940-
+
+0,29411 |
+
+|
+
+|
+
+14 |
+
+COTEAUX AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+# |
+
+0,94117-0,82352-0,52940-
+
+0,29411 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+Exogène de l'HER 1 |
+
+# |
+
+# |
+
+0,93750-0,81250-
+
+0,56250-0,31250 |
+
+|
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+# |
+
+0,93750-0,81250-0,56250-0,31250 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+|
+
+# |
+
+0,93333-0,80000-0,53333-0,33333 |
+
+B-Ouest-Nord Est |
+
+|
+
+0,93750-0,81250-0,56250-0,31250 |
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n° 57 |
+
+|
+
+|
+
+0,92857-0,78571-
+
+0,57142-0,28571 |
+
+|
+
+|
+
+Cas général |
+
+# |
+
+0,92857-0,78571-0,57142-
+
+0,28571 |
+
+0,93750-0,81250-0,56250-
+
+0,31250 |
+
+Exogène de l'HER 10 |
+
+|
+
+0,93750-0,81250-0,56250-
+
+0,31250 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+# |
+
+# |
+
+0,94444-0,77777-
+
+0,55555-0,27777 |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+# |
+
+0,93750-0,81250-0,56250-
+
+0,31250 |
+
+0,93333-0,80000-0,53333-
+
+0,33333 |
+
+Exogène de l'HER 4 |
+
+# |
+
+0,93333-0,80000-
+
+0,53333-0,33333 |
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+0,94444-0,77777-0,55555-0,27777 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+0,93333-0,80000-0,53333-0,33333 |
+
+Exogène de l'HER 4 |
+
+|
+
+# |
+
+0,93333-0,80000-
+
+0,53333-0,33333 |
+
+|
+
+|
+
+* Lorsque plusieurs types d'une même HER sont concernés par une valeur de référence et des valeurs seuils de limites de classes identiques, alors ces types sont regroupés, par souci de simplification, au sein d'une même cellule dans le présent tableau.
+
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+
+Les valeurs des indices de ce tableau ont pris en compte la décision de la commission du 12 février 2018.
+
+# : absence de référence.
+
+En grisé : type inexistant. |
+
+Tableau 18 : valeurs de références, par type de cours d'eau, pour l'indice équivalent phase (A + B) de l'HER 9 A-her2 n° 57 et l'indice MGCE 12 prélèvements des cours d'eau profonds
+
+Valeur de référence par type* pour l'indice équivalent phase (A+B) de l'HER 9 A-her2 n°57 et l'indice MGCE 12 prélèvements des cours d'eau profonds |
+
+Catégories de taille de cours d'eau |
+
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
+
+Très Grands |
+
+Grands |
+
+Moyens |
+
+Petits |
+
+Très Petits |
+
+Hydroécorégions de niveau 1 |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
+
+|
+
+16 |
+
+Exogène de l'HER 9 |
+
+|
+
+15 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+|
+
+# |
+
+19 |
+
+|
+
+|
+
+21 |
+
+MASSIF CENTRAL NORD |
+
+Cas général |
+
+|
+
+19 |
+
+3 |
+
+MASSIF CENTRAL SUD |
+
+Cas général |
+
+|
+
+# |
+
+19 |
+
+Exogène de l'HER 19 |
+
+|
+
+|
+
+18 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+19 |
+
+|
+
+|
+
+Exogène de l'HER 19 ou 8 |
+
+|
+
+18 |
+
+|
+
+|
+
+|
+
+17 |
+
+DEPRESSIONS SEDIMENTAIRES |
+
+Cas général |
+
+|
+
+|
+
+16 |
+
+Exogène de l'HER 3 ou 21 |
+
+# |
+
+# |
+
+19 |
+
+19 |
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+# |
+
+15 |
+
+|
+
+Cas général |
+
+# |
+
+|
+
+15 |
+
+Exogène de l'HER 4 |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+# |
+
+15 |
+
+Exogène de l'HER 2 |
+
+# |
+
+15 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES INTERNES |
+
+Cas général |
+
+|
+
+15 |
+
+7 |
+
+PRE-ALPES DU SUD |
+
+Cas général |
+
+|
+
+15 |
+
+Exogène de l'HER 2 |
+
+# |
+
+14 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+16 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+16 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+# |
+
+16 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+17 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+17 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+16 |
+
+A-her2 n°70 |
+
+|
+
+|
+
+15 |
+
+16 |
+
+CORSE |
+
+A-her2 n°22 |
+
+|
+
+14 |
+
+13 |
+
+B-her2 n°88 |
+
+|
+
+19 |
+
+GRANDS CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+15 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+18 |
+
+|
+
+|
+
+11 |
+
+CAUSSES AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+16 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+# |
+
+18 |
+
+|
+
+14 |
+
+COTEAUX AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+# |
+
+18 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+16 |
+
+Exogène de l'HER 1 |
+
+# |
+
+# |
+
+17 |
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+16 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+# |
+
+17 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+|
+
+# |
+
+16 |
+
+B-Ouest-Nord Est |
+
+|
+
+17 |
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n°57 |
+
+|
+
+|
+
+15 |
+
+|
+
+Cas général |
+
+# |
+
+15 |
+
+17 |
+
+Exogène de l'HER 10 |
+
+|
+
+17 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+# |
+
+# |
+
+19 |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+# |
+
+17 |
+
+16 |
+
+Exogène de l'HER 4 |
+
+# |
+
+16 |
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+16 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+# |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+19 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+16 |
+
+Exogène de l'HER 4 |
+
+|
+
+# |
+
+16 |
+
+|
+
+* Lorsque plusieurs types d'une même HER sont concernés par une valeur de référence et des valeurs seuils de limites de classes identiques, alors ces types sont regroupés, par soucis de simplification, au sein d'une même cellule dans le présent tableau.
+
+# : absence de référence.
+
+En grisé : type inexistant. |
 
 1.1.1.2. Indice biologique invertébrés pour le département de La Réunion
 
-L'indice biologique invertébrés à utiliser est l'IRM : indice réunion macro-invertébrés (Guide méthodologique de mise en œuvre de l'indice réunion macro-invertébrés, à paraître en 2015).
+L'indice biologique invertébrés à utiliser est l'indice Réunion macro-invertébrés (IRM) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer - l'indice Réunion macro-invertébrés - IRM.
 
-Le tableau 18 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice réunion macro-invertébrés, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 19 ci-dessous indique, par type de cours d'eau, la valeur de référence.
+Le tableau 19 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice Réunion macro-invertébrés, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 20, ci-dessous indique, par type de cours d'eau, la valeur de référence.
 
-La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 18 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 19 ci-dessous.
 
-La note en EQR se calcule comme suit :
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
 
 Note en EQR = (note observée) / (note de référence du type)
 
-Tableau 18 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IRM
+Tableau 19 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IRM
 
-INVERTÉBRÉS DES COURS D'EAU
+Invertébrés des cours d'eau de La Réunion
 
-DE LA RÉUNION
+EQR-IRM |
 
-|
+Catégories de taille de cours d'eau |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Hydroécorégions |
 
-|
+Très grands |
 
-Hydroécorégions
+Grands |
 
-|
+Moyen |
 
-Très grands
+Petits |
 
-|
+Très petits |
 
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Cirques au vent
+Cirques au vent |
 
 |
 
 |
 
-|
+1 - 0,8 - 0,6 - 0,4 |
 
-1 - 0,8 - 0,6 - 0,4
-
-|
-
-1 - 0,8 - 0,6 - 0,4
+1 - 0,8 - 0,6 - 0,4 |
 
 |
 
-|
-
-Cirques sous le vent
+Cirques sous le vent |
 
 |
 
 |
 
-|
+1 - 0,8 - 0,6 - 0,4 |
 
-1 - 0,8 - 0,6 - 0,4
-
-|
-
-1 - 0,8 - 0,6 - 0,4
+1 - 0,8 - 0,6 - 0,4 |
 
 |
 
-|
-
-Versants au vent
+Versants au vent |
 
 |
 
 |
 
-|
-
-1 - 0,8 - 0,6 - 0,4
+1 - 0,8 - 0,6 - 0,4 |
 
 |
 
-|
-
-Versants sous le vent
+Versants sous le vent |
 
 |
 
 |
 
-|
-
-#
+# |
 
 |
 
-|
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre
 
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+# : Absence de références
 
-# : Absence de références.
+En grisé : type inexistant |
 
-En grisé : type inexistant.
+Tableau 20 : valeurs de référence par type de cours d'eau pour l'IRM
 
-|
+Invertébrés des cours d'eau de La Réunion
 
-Tableau 19 : Valeurs de référence par type de cours d'eau pour l'IRM
+IRM |
 
-INVERTÉBRÉS DES COURS D'EAU
+Catégories de taille de cours d'eau |
 
-DE LA RÉUNION
+Hydroécorégions |
 
-|
+Très grands |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Grands |
 
-|
+Moyen |
 
-Hydroécorégions
+Petits |
 
-|
+Très petits |
 
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Cirques au vent
+Cirques au vent |
 
 |
 
 |
 
-|
+40 |
 
-40
-
-|
-
-40
+40 |
 
 |
 
-|
-
-Cirques sous le vent
+Cirques sous le vent |
 
 |
 
 |
 
-|
+40 |
 
-40
-
-|
-
-40
+40 |
 
 |
 
-|
-
-Versants au vent
+Versants au vent |
 
 |
 
 |
 
-|
-
-40
+40 |
 
 |
 
-|
-
-Versants sous le vent
+Versants sous le vent |
 
 |
 
 |
 
-|
-
-#
+# |
 
 |
 
-|
+En grisé : indicateur non applicable
 
-En grisé : indicateur non pertinent.
-
-|
+# : absence de référence. |
 
 1.1.1.3. Indice biologique invertébrés pour les départements de la Guadeloupe et de la Martinique
 
-L'indice biologique invertébrés à utiliser est l'IBMA : indice biologique macro-invertébrés Antilles (Guide méthodologique de mise en œuvre de l'indice biologique macro-invertébrés Antilles, à paraître en 2015).
+L'indice biologique invertébrés à utiliser est l'indice biologique macro-invertébrés Antilles : IBMA (code Sandre 8040) décrit dans le guide pour la mise en œuvre d'indices biologiques en outre-mer - indice biologique macro-invertébrés Antilles - IBMA.
 
-Le tableau 20 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice biologique macro-invertébrés Antilles, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
+Le tableau 21 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice biologique macro-invertébrés Antilles, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
 
-La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 20 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 21 ci-dessous.
 
-Tableau 20 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBMA
+Tableau 21 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBMA
 
-INVERTÉBRÉS DES COURS D'EAU DES ANTILLES
+Invertébrés des cours d'eau des Antilles
 
-|
+EQR-IBMA |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Catégories de taille de cours d'eau |
 
-|
+Bassin |
 
-Bassin
+Hydroécorégions |
 
-|
+Très grands |
 
-Hydroécorégions
+Grands |
 
-|
+Moyens |
 
-Très grands
+Petits |
 
-|
+Très petits |
 
-Grands
+Guadeloupe |
 
-|
+1 |
 
-Moyens
-
-|
-
-Petits
+Basse-Terre plaine nord-est* |
 
 |
 
-Très petits
+|
+
+0,7324 - 0,6003 - 0,4866 - 0,3537 |
 
 |
 
-Guadeloupe
-
 |
 
-1
+3 |
 
-|
-
-Basse-Terre plaine nord-est
+Basse-Terre volcans* |
 
 |
 
@@ -332,19 +2196,11 @@ Basse-Terre plaine nord-est
 
 |
 
-0,7324 - 0,6003 - 0,4866 - 0,3537
+Martinique |
 
-|
+1 |
 
-|
-
-|
-
-3
-
-|
-
-Basse-Terre volcans
+Pitons du Nord* |
 
 |
 
@@ -354,97 +2210,57 @@ Basse-Terre volcans
 
 |
 
-Martinique
+2 |
 
-|
-
-1
-
-|
-
-Pitons du Nord
+Mornes du Sud* * |
 
 |
 
 |
 
-|
-
-|
-
-|
-
-2
-
-|
-
-Mornes du Sud
-
-|
-
-|
-
-|
-
-0,7324 - 0,5000 - 0,3500 - 0,2900
-
-|
+0,7324 - 0,5000 - 0,3500 - 0,2900 |
 
 |
 
 a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
 
-En grisé : type inexistant.
+* : les valeurs seuils des hydroécorégions Basse-Terre plaine nord-est , Basse-Terre volcans et Pitons du Nord sont applicables à l'ensemble des masses d'eau des biotypologies G1, G2, G3, M4 et M5 telles que définies dans le guide méthodologique pour la mise en œuvre de l'indice biologique macro-invertébrés des Antilles - IBMA (version 2018).
 
-|
+** : les valeurs des seuils des Mornes du Sud sont applicables à l'ensemble des masses d'eau de la biotypologie M6 telle que définie dans le guide méthodologique pour la mise en œuvre de l'indice biologique macro-invertébrés des Antilles - IBMA.
+
+En grisé : type inexistant. |
 
 1.1.1.4. Indice biologique invertébrés pour le département de la Guyane
 
-L'indice biologique invertébrés à utiliser est le SMEG : score moyen des éphéméroptères de Guyane (Guide méthodologique de mise en œuvre du SMEG, à paraître en 2016).
+L'indice biologique invertébrés à utiliser est le score moyen des éphéméroptères de Guyane (SMEG) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer - Score moyen des éphéméroptères de Guyane - SMEG.
 
-Le tableau 21 ci-dessous indique les valeurs inférieures des limites de classe pour moyen des éphéméroptères de Guyane, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 22 ci-dessous indique, par type de cours d'eau, la valeur de référence.
+Le tableau 22 ci-dessous indique les valeurs inférieures des limites de classe pour moyen des éphéméroptères de Guyane, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 22, ci-dessous indique, par type de cours d'eau, la valeur de référence.
 
-La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 21 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique invertébrés s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 22 ci-dessous.
 
-Tableau 21 : Valeurs inférieures des limites des classes, exprimées en EQR, par type de cours d'eau pour le SMEG
+Tableau 22 : valeurs inférieures des limites des classes, exprimées en EQR, par type de cours d'eau pour le SMEG
 
-INVERTÉBRÉS DES COURS D'EAU DE GUYANE
+Invertébrés des cours d'eau de Guyane
 
-|
+EQR-SMEG |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Catégories de taille de cours d'eau |
 
-|
+Hydroécorégions |
 
-Hydroécorégions
+Très grands |
 
-|
+Grands |
 
-Très grands
+Moyen |
 
-|
+Petits |
 
-Grands
+Très petits |
 
-|
+1 |
 
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-1
-
-|
-
-Plaine littorale
+Plaine littorale |
 
 |
 
@@ -456,33 +2272,1007 @@ Plaine littorale
 
 |
 
+2 |
+
+Bouclier guyanais |
+
+≥ 4,1 - 3,08 - 2,05 - 1,03 |
+
+≥ 4,1 - 3,08 - 2,05 - 1,03 |
+
+≥ 4,1 - 3,08 - 2,05 - 1,03 |
+
+≥ 4,1 - 3,08 - 2,05 - 1,03 |
+
+≥ 4,1 - 3,08 - 2,05 - 1,03 |
+
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocreEn grisé : absence de référence définie pour l'HER plaine littorale |
+
+Tableau 23 : valeurs de référence par type de cours d'eau pour le SMEG
+
+Invertébrés des cours d'eau de Guyane
+
+SMEG |
+
+Catégories de taille de cours d'eau |
+
+Hydroécorégions |
+
+Très grands |
+
+Grands |
+
+Moyen |
+
+Petits |
+
+Très petits |
+
+1 |
+
+Plaine littorale |
+
 |
 
-2
+|
 
 |
 
-Bouclier guyanais
+|
 
 |
 
-≥ 4,1 - 3,08 - 2,05 - 1,03
+2 |
+
+Bouclier guyanais |
+
+4,63 |
+
+4,63 |
+
+4,63 |
+
+4,63 |
+
+4,63 |
+
+En grisé : absence de référence définie pour l'HER "Plaine littorale" |
+
+1.1.2. Diatomées
+
+1.1.2.1. Indice biologique diatomées pour la métropole
+
+L'indice biologique diatomées à utiliser est l'IBD (code Sandre 5856) mis en œuvre dans le respect de la norme AFNOR NF T 90-354.
+
+Le tableau 24 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, pour l'indice biologique diatomées. Le tableau 25, ci-dessous indique, par type de cours d'eau, la valeur de référence et la valeur minimale sous la forme suivante : a-b (a = valeur de référence du type, b = valeur minimale du type).
+
+La classification de l'état pour l'élément de qualité biologique "diatomées" s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 24 ci-dessous.
+
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
+
+Note en EQR = (note observée - note minimale du type) / (note de référence du type - note minimale du type)
+
+Tableau 24 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBD
+
+Valeurs inférieures des limites de classe de l'IBD |
+
+Limites des classes d'état IBD en EQR |
+
+Très bon / Bon |
+
+Bon / Moyen |
+
+Moyen / Médiocre |
+
+Médiocre / Mauvais |
+
+Tous types de cours d'eau sauf TGCE > 10 000 km2 de bassin versant |
+
+0,94 |
+
+0,78 |
+
+0,55 |
+
+0,3 |
+
+Très grands cours d'eau ≥ 10 000 km2 de bassin versant (**) |
+
+0,92 |
+
+0,76 |
+
+0,52 |
+
+0,26 |
+
+Les valeurs d'EQR de l'IBD figurant dans ce tableau ont pris en compte la décision de la commission du 12 février 2018 relative à l'inter-étalonnage. |
+
+Tableau 25 : valeurs de référence et valeurs minimales, par type de cours d'eau, pour l'IBD
+
+Valeur de référence et valeur minimale par type (IBD) |
+
+Catégories de taille de cours d'eau |
+
+Hydroécorégions de niveau 1 |
+
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
+
+Très Grands (**) ≥ 10 000 km2 |
+
+Très Grands (*) < 10 000 km2 |
+
+Grands |
+
+Moyens |
+
+Petits |
+
+Très Petits |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
 
 |
 
-≥ 4,1 - 3,08 - 2,05 - 1,03
+|
+
+18,1-1 |
+
+Exogène de l'HER 9 |
 
 |
 
-≥ 4,1 - 3,08 - 2,05 - 1,03
+|
+
+18,1-1 |
 
 |
 
-≥ 4,1 - 3,08 - 2,05 - 1,03
+Exogène de l'HER 21 |
 
 |
 
-≥ 4,1 - 3,08 - 2,05 - 1,03
+|
+
+19-5 |
+
+21 |
+
+MASSIF
+
+CENTRAL NORD |
+
+Cas général |
+
+|
+
+|
+
+19-5 |
+
+3 |
+
+MASSIF
+
+CENTRAL SUD |
+
+Cas général |
+
+|
+
+|
+
+19-5 |
+
+Exogène de l'HER 19 |
+
+|
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+|
+
+19-5 |
+
+|
+
+|
+
+Exogène de l'HER 19 ou 8 |
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+|
+
+|
+
+17 |
+
+DEPRESSIONS SEDIMENTAIRES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+17,4-1 |
+
+Exogène de l'HER 3 ou 21 |
+
+18,1-1 |
+
+18,1-1 |
+
+19-5 |
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+|
+
+19-5 |
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+|
+
+20-5 |
+
+|
+
+|
+
+Cas général |
+
+18,1-1 |
+
+18,1-1 |
+
+|
+
+18,1-1 |
+
+Exogène de l'HER 4 |
+
+18,1-1 |
+
+18,1-1 |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+|
+
+20-5 |
+
+Exogène de l'HER 2 |
+
+19,1-1 |
+
+20-5 |
+
+20-5 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Rhin, Rhône jusqu'à Lyon |
+
+19,1-1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Rhône de l'aval confluence Saône à Lyon jusqu'à l'exutoire |
+
+18,1-1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES INTERNES |
+
+Cas général |
+
+|
+
+|
+
+20-5 |
+
+7 |
+
+PRE-ALPES DU SUD |
+
+Cas général |
+
+|
+
+|
+
+20-5 |
+
+Exogène de l'HER 2 |
+
+19,1-1 |
+
+20-5 |
+
+20-5 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+20-5 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+|
+
+20-5 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+19-5 |
+
+19-5 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+20-5 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+|
+
+18,1-1 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+|
+
+19-5 |
+
+A-her2 n° 70 |
+
+|
+
+|
+
+|
+
+19-5 |
+
+16 |
+
+CORSE |
+
+A-her2 n° 22 |
+
+|
+
+|
+
+19-5 |
+
+B-her2 n° 88 |
+
+|
+
+|
+
+19 |
+
+GRANDS CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+19-5 |
+
+|
+
+|
+
+11 |
+
+CAUSSES AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+|
+
+18,1-1 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+19,1-1 |
+
+19-5 |
+
+19-5 |
+
+|
+
+14 |
+
+COTEAUX AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+18,1-1 |
+
+18,1-1 |
+
+18,1-1 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+|
+
+18,1-1 |
+
+Exogène de l'HER 1 |
+
+18,1-1 |
+
+18,1-1 |
+
+20-5 |
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+18,4-5 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+|
+
+20-5 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+17,4-1 |
+
+17,4-1 |
+
+17,4-1 |
+
+B-Ouest-Nord Est |
+
+|
+
+|
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+18,1-1 |
+
+18,1-1 |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n° 57 |
+
+|
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+Cas général |
+
+18,1-1 |
+
+18,1-1 |
+
+Exogène de l'HER 10 |
+
+|
+
+|
+
+18,1-1 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+18,1-1 |
+
+18,1-1 |
+
+19-5 |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+18,1-1 |
+
+18,1-1 |
+
+18,1-1 |
+
+Exogène de l'HER 4 |
+
+19-5 |
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+|
+
+19-5 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+|
+
+18,1-1 |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+|
+
+17,4-1 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+|
+
+18,1-1 |
+
+Exogène de l'HER 4 |
+
+|
+
+|
+
+19-5 |
+
+|
+
+(*) : cours d'eau classés TGCE selon la typologie nationale, mais dont la surface intégrée de bassin versant n'atteint pas 10 000 km2 au site d'observation.
+
+(**) : cours d'eau classés TGCE selon la typologie européenne du GIG Large Rivers (tous cours d'eau dont la surface intégrée de bassin versant atteint ou dépasse 10 000 km2 au site d'observation).
+
+En grisé : type inexistant.
+
+a-b : a = valeur de référence ; b = valeur minimale.
+
+Les valeurs de l'IBD figurant dans ce tableau ont pris en compte la décision de la commission du 12 février 2018 relative à l'inter-étalonnage pour les cours d'eau. |
+
+1.1.2.2. Indice biologique diatomées pour le département de La Réunion
+
+L'indice biologique diatomées à utiliser est l'indice diatomique Réunion (IDR - code Sandre 8062) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer - l'indice diatomique Réunion (IDR).
+
+Le tableau 26 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IDR, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 27 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IDR.
+
+La classification de l'état pour l'élément de qualité biologique "diatomées" s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 26 ci-dessous.
+
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
+
+Note en EQR = (note observée) / (note de référence du type)
+
+Tableau 26 : valeurs inférieures des limites des classes, exprimées en EQR, par type de cours d'eau pour l'IDR
+
+Diatomées des cours d'eau de La Réunion
+
+EQR-IDR |
+
+Catégories de taille de cours d'eau |
+
+Hydroécorégions |
+
+Très grands |
+
+Grands |
+
+Moyen |
+
+Petits |
+
+Très petits |
+
+Zone naturelle Ouest
+
+(de la Rivière des Pluies au Nord à la Rivière des Remparts au Sud) |
+
+|
+
+|
+
+0,980 - 0,940 - 0,760 - 0,420 |
+
+|
+
+Zone naturelle Est
+
+(de la Rivière Sainte -Suzanne au Nord à la Rivière de l'Est au Sud) |
+
+|
+
+|
+
+0,9875 - 0,935 - 0,740 - 0,400 |
+
+|
+
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre
+
+En grisé : type inexistant |
+
+Tableau 27 : valeurs de référence par type de cours d'eau pour l'IDR
+
+Diatomées des cours d'eau de La Réunion
+
+IDR |
+
+Catégories de taille de cours d'eau |
+
+Hydroécorégions |
+
+Très grands |
+
+Grands |
+
+Moyen |
+
+Petits |
+
+Très petits |
+
+Zone naturelle Ouest
+
+(de la Rivière des Pluies au Nord à la Rivière des Remparts au Sud) |
+
+|
+
+|
+
+19,7 |
+
+|
+
+Zone naturelle Est
+
+(de la Rivière Sainte -Suzanne au Nord à la Rivière de l'Est au Sud) |
+
+|
+
+|
+
+19,82 |
+
+|
+
+En grisé : type inexistant |
+
+1.1.2.3.. Indice biologique diatomées pour les départements de la Guadeloupe et de la Martinique
+
+L'indice biologique diatomées à utiliser est l'indice diatomique antillais (IDA - code Sandre 8053) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer - indice diatomique antillais (IDA).
+
+Le tableau 28 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IDA, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 29 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IDA.
+
+La classification de l'état pour l'élément de qualité biologique "diatomées" s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 28 ci-dessous.
+
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
+
+Note en EQR = (note observée) / (note de référence du type)
+
+Tableau 28 : valeurs inférieures des limites de classe, exprimées en EQR, par type de cours d'eau pour l'IDA
+
+Diatomées des cours d'eau
+
+des Antilles
+
+EQR-IDA |
+
+Catégories de taille de cours d'eau |
+
+Bassin |
+
+Hydroécorégions |
+
+Très grands |
+
+Grands |
+
+Moyen |
+
+Petits |
+
+Très petits |
+
+Guadeloupe |
+
+1 |
+
+Basse-Terre plaine nord-est |
+
+|
+
+|
+
+0,975 - 0,915 - 0,60 - 0,34 |
+
+|
+
+3 |
+
+Basse-Terre volcans |
+
+|
+
+|
+
+|
+
+Martinique |
+
+1 |
+
+Pitons du Nord |
+
+|
+
+|
+
+|
+
+2 |
+
+Mornes du Sud et plaine du Lamentin* |
+
+|
+
+|
+
+0,925 - 0,80 - 0,61 - 0,38 |
 
 |
 
@@ -492,879 +3282,1455 @@ a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du b
 
 En grisé : type inexistant
 
-|
-
-Tableau 22 : Valeurs de référence par type de cours d'eau pour le SMEG
-
-INVERTÉBRÉS DES COURS D'EAU DE GUYANE
-
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Hydroécorégions
-
-|
-
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-1
-
-|
-
-Plaine littorale
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-Bouclier guyanais
-
-|
-
-4,63
-
-|
-
-4,63
-
-|
-
-4,63
-
-|
-
-4,63
-
-|
-
-4,63
-
-|
-
-En grisé : indicateur non pertinent.
-
-|
-
-1.1.2. Diatomées
-
-1.1.2.1. Indice biologique diatomées pour la métropole
-
-L'indice biologique diatomées à utiliser est l'IBD2007 norme AFNOR NF T 90-354.
-
-Le tableau 23 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, pour l'indice biologique diatomées. Le tableau 24 ci-dessous indique, par type de cours d'eau, la valeur de référence et la valeur minimale sous la forme suivante : a-b (a = valeur de référence du type, b = valeur minimale du type).
-
-La classification de l'état pour l'élément de qualité biologique diatomées s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 23 ci-dessous.
-
-La note en EQR se calcule comme suit :
-
-Note en EQR = (note observée - note minimale du type) / (note de référence du type - note minimale du type)
-
-Tableau 23 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBD2007
-
-ÉLÉMENTS DE QUALITÉ
-
-|
-
-INDICE
-
-|
-
-LIMITES DES CLASSES D'ÉTAT IBD en EQR
-
-|
-
-Très bon / Bon
-
-|
-
-Bon / Moyen
-
-|
-
-Moyen / Médiocre
-
-|
-
-Médiocre / Mauvais
-
-|
-
-Phytobenthos
-
-|
-
-IBD2007
-
-|
-
-0,94
-
-|
-
-0,78
-
-|
-
-0,55
-
-|
-
-0,3
-
-|
-
-Les valeurs de l'IBD2007 figurant dans ce tableau ont pris en compte la décision de la commission du 20 septembre 2013 relative à l'inter-étalonnage.
-
-|
-
-Tableau 24 : Valeurs de référence et valeurs minimales, par type de cours d'eau, pour l'IBD2007
-
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
-
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
-
-1.1.2.2. Indice biologique diatomées pour le département de La Réunion
-
-L'indice biologique diatomées à utiliser est l'IDR : indice diatomées Réunion (Guide méthodologique de mise en œuvre de l'indice diatomées Réunion, à paraître en 2015).
-
-Le tableau 25 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IDR, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 26 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IDR.
-
-La classification de l'état pour l'élément de qualité biologique diatomées s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 25 ci-dessous.
-
-La note en EQR se calcule comme suit :
-
-Note en EQR = (note observée) / (note de référence du type)
-
-Tableau 25 : Valeurs inférieures des limites des classes, exprimées en EQR, par type de cours d'eau pour l'IDR
-
-DIATOMÉES DES COURS D'EAU
-
-DE LA RÉUNION
-
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Hydroécorégions
-
-|
-
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Zone naturelle Ouest
-
-(de la Rivière des Pluies au Nord à la Rivière des Remparts au Sud)
-
-|
-
-|
-
-|
-
-0,980 - 0,940 - 0,760 - 0,420
-
-|
-
-|
-
-Zone naturelle Est
-
-(de la Rivière Sainte -Suzanne au Nord à la Rivière de l'Est au Sud)
-
-|
-
-|
-
-|
-
-0,9875 - 0,935 - 0,740 - 0,400
-
-|
-
-|
-
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
-
-En grisé : type inexistant.
-
-|
-
-Tableau 26 : Valeurs de référence par type de cours d'eau pour l'IDR
-
-DIATOMÉES DES COURS D'EAU
-
-DE LA RÉUNION
-
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Hydroécorégions
-
-|
+(*) Sauf Lézarde de Martinique, cours d'eau issu de l'HER "Pitons du Nord" qui traverse ensuite rapidement la Plaine du Lamentin. Ce cours d'eau est à évaluer sur tout son cours sur la grille "Pitons du Nord" |
 
-Très grands
+Tableau 29 : valeurs de référence par type de cours d'eau pour l'IDA
 
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Zone naturelle Ouest
-
-(de la Rivière des Pluies au Nord à la Rivière des Remparts au Sud)
-
-|
-
-|
-
-|
-
-19,7
-
-|
-
-|
-
-Zone naturelle Est
-
-(de la Rivière Sainte -Suzanne au Nord à la Rivière de l'Est au Sud)
-
-|
-
-|
-
-|
-
-19,82
-
-|
-
-|
-
-En grisé : type inexistant.
-
-|
-
-1.1.2.3. Indice biologique diatomées pour les départements de la Guadeloupe et de la Martinique
-
-L'indice biologique diatomées à utiliser est l'IDA : indice diatomées Antilles (Guide méthodologique de mise en œuvre de l'indice diatomées Antilles, à paraître en 2015).
-
-Le tableau 27 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IDA, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 28 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IDA.
-
-La classification de l'état pour l'élément de qualité biologique diatomées s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 27 ci-dessous.
-
-La note en EQR se calcule comme suit :
-
-Note en EQR = (note observée) / (note de référence du type)
-
-Tableau 27 : Valeurs inférieures des limites de classe, exprimées en EQR, par type de cours d'eau pour l'IDA
-
-DIATOMÉES DES COURS D'EAU DES ANTILLES
-
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Bassin
-
-|
-
-Hydroécorégions
-
-|
-
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Guadeloupe
-
-|
-
-1
-
-|
-
-Basse-Terre plaine nord-est
-
-|
-
-|
-
-|
-
-0,975 - 0,915 - 0,60 - 0,34
-
-|
-
-|
-
-|
-
-3
+Diatomées des cours d'eau
 
-|
-
-Basse-Terre volcans
-
-|
-
-|
-
-|
-
-|
-
-Martinique
-
-|
-
-1
-
-|
-
-Pitons du Nord
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2
-
-|
-
-Mornes du Sud et plaine du Lamentin*
-
-|
-
-|
-
-|
-
-0,925 - 0,80 - 0,61 - 0,38
-
-|
-
-|
-
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
-
-# : Absence de références.
-
-En grisé : type inexistant.
-
-(*) Sauf Lézarde de Martinique, cours d'eau issu de l'HER Pitons du Nord qui traverse ensuite rapidement la Plaine du Lamentin. Ce cours d'eau est à évaluer sur tout son cours sur la grille Pitons du Nord .
-
-|
+des Antilles
 
-Tableau 28 : Valeurs de référence par type de cours d'eau pour l'IDA
+IDA |
 
-DIATOMÉES DES COURS D'EAU DES ANTILLES
+Catégories de taille de cours d'eau |
 
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Bassin
-
-|
-
-Hydroécorégions
-
-|
-
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-Guadeloupe
-
-|
+Bassin |
 
-1
+Hydroécorégions |
 
-|
+Très grands |
 
-Basse-Terre plaine nord-est
+Grands |
 
-|
+Moyen |
 
-|
+Petits |
 
-|
+Très petits |
 
-19,63
+Guadeloupe |
 
-|
+1 |
 
-|
+Basse-Terre plaine nord-est |
 
 |
 
-3
-
 |
 
-Basse-Terre volcans
+19,63 |
 
 |
 
-|
+3 |
 
-|
+Basse-Terre volcans |
 
 |
 
-Martinique
-
 |
-
-1
 
 |
 
-Pitons du Nord
+Martinique |
 
-|
-
-|
+1 |
 
-|
+Pitons du Nord |
 
 |
 
 |
 
-2
-
 |
 
-Mornes du Sud et Plaine du Lamentin *
+2 |
 
-|
+Mornes du Sud et Plaine du Lamentin * |
 
 |
 
 |
 
-18
+18 |
 
 |
 
-|
-
-En grisé : type inexistant.
+En grisé : type inexistant
 
-(*) Sauf Lézarde de Martinique, cours d'eau issu de l'HER Pitons du Nord qui traverse ensuite rapidement la Plaine du Lamentin. Ce cours d'eau est à évaluer sur tout son cours sur la grille Pitons du Nord .
-
-|
+(*) Sauf Lézarde de Martinique, cours d'eau issu de l'HER "Pitons du Nord" qui traverse ensuite rapidement la Plaine du Lamentin. Ce cours d'eau est à évaluer sur tout son cours sur la grille "Pitons du Nord" |
 
 1.1.2.4. Indice biologique diatomées pour le département de la Guyane
 
-L'indice biologique diatomées à utiliser est l'IPS : indice de polluo-sensibilité spécifique, adapté à la Guyane (Guide méthodologique de mise en œuvre à paraître en 2015).
+L'indice biologique diatomées à utiliser est l'indice de polluo-sensibilité spécifique (IPS - code Sandre 1022) adapté à la Guyane conformément au du guide méthodologique (dès parution).
 
-Le tableau 29 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IPS, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 30 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IPS.
+Le tableau 30 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IPS, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 31 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IPS.
 
-La classification de l'état pour l'élément de qualité biologique diatomées s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 29 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique "diatomées" s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 30 ci-dessous.
 
-La note en EQR se calcule comme suit :
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
 
 Note en EQR = (note observée) / (note de référence du type)
 
-Tableau 29 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IPS
+Tableau 30 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IPS
 
-DIATOMÉES DES COURS D'EAU
+Diatomées des cours d'eau de Guyane
 
-DE GUYANE
+EQR-IPS |
 
-|
+Catégories de taille de cours d'eau |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Hydroécorégions |
 
-|
+Très grands |
 
-Hydroécorégions
+Grands |
 
-|
+Moyens |
 
-Très grands
+Petits |
 
-|
+Très petits |
 
-Grands
+1 |
 
-|
+Plaine littorale |
 
-Moyens
+0,92 - 0,78 - 0,58 - 0,32* |
 
-|
+0,97 - 0,85 - 0,63 - 0,35 |
 
-Petits
+2 |
 
-|
+Bouclier guyanais |
 
-Très petits
+0,92 - 0,78 - 0,58 - 0,32 |
 
-|
+3 |
 
-1
+Exogènes de l'HER 2 |
 
-|
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre
 
-Plaine littorale
+* : les très grands cours d'eau traversant l'hydroécorégion "plaine littorale" sont considérés comme exogène de l'hydroécorégion "bouclier Guyanais". En conséquence, la grille de l'HER "bouclier guyanais" s'applique. |
 
-|
+Tableau 31 : valeurs de référence par type de cours d'eau pour l'IPS
 
-|
+Diatomées des cours d'eau de Guyane
 
-0,97 - 0,85 - 0,63 - 0,35
+IPS |
 
-|
+Catégories de taille de cours d'eau |
 
-2
+Hydroécorégions |
 
-|
+Très grands |
 
-Bouclier guyanais
+Grands |
 
-|
+Moyens |
 
-0,92 - 0,78 - 0,58 - 0,32
+Petits |
 
-|
+Très petits |
 
-3
+1 |
 
-|
+Plaine littorale |
 
-Exogènes de l'HER 2
+17,4* |
 
-|
+18 |
 
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+2 |
 
-En grisé : type inexistant, TG51 est considéré comme exogène de TG52 et c'est la grille de l'HER bouclier qui s'applique.
+Bouclier guyanais |
 
-|
+17,4 |
 
-Tableau 30 : Valeurs de référence par type de cours d'eau pour l'IPS
+3 |
 
-DIATOMÉES DES COURS D'EAU
+Exogènes de l'HER 2 |
 
-DE GUYANE
-
-|
-
-CATÉGORIES DE TAILLE DE COURS D'EAU
-
-|
-
-Hydroécorégions
-
-|
-
-Très grands
-
-|
-
-Grands
-
-|
-
-Moyens
-
-|
-
-Petits
-
-|
-
-Très petits
-
-|
-
-1
-
-|
-
-Plaine littorale
-
-|
-
-|
-
-18
-
-|
-
-2
-
-|
-
-Bouclier guyanais
-
-|
-
-17,4
-
-|
-
-3
-
-|
-
-Exogènes de l'HER 2
-
-|
-
-En grisé : type inexistant, TG51 est considéré comme exogène de TG52 et c'est la grille de l'HER bouclier qui s'applique.
-
-|
+* : les très grands cours d'eau traversant l'hydroécorégion "plaine littorale" sont considérés comme exogène de l'hydroécorégion "bouclier guyanais". En conséquence, la grille de l'HER "bouclier guyanais" s'applique. |
 
 1.1.3. Macrophytes
 
-L'indice biologique macrophytes à utiliser est l'IBMR : indice biologique macrophytique en rivières, NF T90-395.
+L'indice biologique macrophytes à utiliser est l'indice biologique macrophytique en rivières (IBMR - code Sandre 2928) mis en œuvre dans le respect de la norme NF T90-395.
 
-Le tableau 31 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IBMR. Le tableau 32 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IBMR
+Le tableau 32 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, par type de cours d'eau pour l'IBMR. Le tableau 33 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IBMR
 
-La classification de l'état pour l'élément de qualité biologique macrophytes s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 31 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique "macrophytes" s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 32 ci-dessous.
 
-La note en EQR se calcule comme suit :
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
 
 Note en EQR = (note observée) / (note de référence du type)
 
-Tableau 31 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBMR
+Tableau 32 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IBMR
 
-ÉLÉMENTS DE QUALITÉ
+ELEMENTS DE QUALITE |
+
+INDICE |
+
+LIMITES DES CLASSES D'ETAT IBMR en EQR |
+
+[Très bon / Bon[ |
+
+[Bon / Moyen[ |
+
+[Moyen / Médiocre[ |
+
+[Médiocre / Mauvais[ |
+
+Macrophytes |
+
+IBMR |
+
+0,92 |
+
+0,77 |
+
+0,64 |
+
+0,51 |
+
+Les valeurs de l'IBMR figurant dans ce tableau ont pris en compte la décision de la commission du 12 février 2018 relative à l'inter-étalonnage. |
+
+Tableau 33 : valeurs de référence, par type de cours d'eau, pour l'IBMR
+
+Valeurs de référence pour l'IBMR |
+
+Catégories de taille de cours d'eau |
+
+Hydroécorégions de niveau 1 |
+
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
+
+Très Grands |
+
+Grands |
+
+Moyens |
+
+Petits |
+
+Très Petits |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
 
 |
 
-INDICE
+11,17 |
+
+13,09 |
+
+Exogène de l'HER 9 |
 
 |
 
-LIMITES DES CLASSES D'ÉTAT IBMR en EQR
+|
 
 |
 
-Très bon / Bon
+Exogène de l'HER 21 |
 
 |
 
-Bon / Moyen
+13,09 |
+
+13,17 |
 
 |
 
-Moyen / Médiocre
+|
+
+21 |
+
+MASSIF CENTRAL NORD |
+
+Cas général |
 
 |
 
-Médiocre / Mauvais
+13,17 |
+
+14,61 |
+
+3 |
+
+MASSIF CENTRAL SUD |
+
+Cas général |
 
 |
 
-Macrophytes
+9,38 |
+
+13,17 |
+
+14 |
+
+Exogène de l'HER 19 |
 
 |
 
-IBMR
+|
+
+12,94 |
 
 |
 
-0,92
+|
+
+Exogène de l'HER 8 |
 
 |
 
-0,77
+|
+
+13,17 |
 
 |
 
-0,64
+|
+
+Exogène de l'HER 19 ou 8 |
 
 |
 
-0,51
+9,38 |
 
 |
 
-Les valeurs de l'IBMR figurant dans ce tableau ont pris en compte la décision de la commission du 20 septembre 2013 relative à l'inter-étalonnage.
+|
 
 |
 
-Tableau 32 : Valeurs de référence, par type de cours d'eau, pour l'IBMR
+17 |
 
-Vous pouvez consulter l'image dans le fac-similé du
+DEPRESSIONS SEDIMENTAIRES |
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Cas général |
 
-Vous pouvez consulter l'image dans le fac-similé du
+|
 
-JOnº 0198 du 28/08/2015, texte nº 4
+|
+
+11,17 |
+
+Exogène de l'HER 3 ou 21 |
+
+9,38 |
+
+11,17 |
+
+11,17 |
+
+14 |
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+11,17 |
+
+|
+
+Cas général |
+
+9,38 |
+
+|
+
+11,17 |
+
+12,94 |
+
+Exogène de l'HER 4 |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+11,17 |
+
+12,94 |
+
+Exogène de l'HER 2 |
+
+9,38 |
+
+11,17 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Cas général |
+
+9 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES INTERNES |
+
+Cas général |
+
+|
+
+# |
+
+7 |
+
+PRE-ALPES DU SUD |
+
+Cas général |
+
+|
+
+11,17 |
+
+Exogène de l'HER 2 |
+
+9,38 |
+
+11,17 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+11,17 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+11,17 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+9,38 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+11,17 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+13,09 |
+
+14 |
+
+A-her2 n° 70 |
+
+|
+
+|
+
+13,17 |
+
+14,61 |
+
+16 |
+
+CORSE |
+
+A-her2 n° 22 |
+
+|
+
+13,09 |
+
+13,17 |
+
+B-her2 n° 88 |
+
+|
+
+19 |
+
+GRANDS CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+12,94 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+12,94 |
+
+|
+
+|
+
+11 |
+
+CAUSSES AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+12,94 |
+
+11,17 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+9,38 |
+
+11,17 |
+
+|
+
+14 |
+
+COTEAUX AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+9,38 |
+
+9,38 |
+
+11,17 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+12,94 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+11,17 |
+
+Exogène de l'HER 1 |
+
+9,38 |
+
+12,94 |
+
+11,17 |
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+13,09 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+12,94 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+|
+
+13,09 |
+
+B-Ouest-Nord Est |
+
+|
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+9 |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n° 57 |
+
+|
+
+|
+
+11,17 |
+
+|
+
+Cas général |
+
+9,38 |
+
+11,17 |
+
+Exogène de l'HER 10 |
+
+|
+
+9,38 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+9,38 |
+
+9,38 |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+9,38 |
+
+|
+
+|
+
+Cas général |
+
+9,38 |
+
+9,38 |
+
+11,17 |
+
+Exogène de l'HER 4 |
+
+11,17 |
+
+11,17 |
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+14,61 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+9,38 |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+11,17 |
+
+13,09 |
+
+14,61 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+11,17 |
+
+Exogène de l'HER 4 |
+
+|
+
+11,17 |
+
+14,61 |
+
+|
+
+En grisé foncé : type inexistant dans la typologie nationale des cours d'eau.
+
+# : absence de référence. HER non concernée par le suivi macrophytes.
+
+En grisé clair : valeur approximative provisoire, absence de référence. |
+
+Conformément à l'arrêté du 25 janvier 2010 modifié établissant le programme de surveillance de l'état des eaux, l'élément de qualité macrophytes n'est pas pertinent dans les DOM.
 
 1.1.4. Poissons
 
 1.1.4.1. Indice biologique poissons pour la métropole
 
-L'indice biologique poissons à utiliser est l'indice IPR : NF T 90-344, avec le protocole d'échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur).
+L'indice biologique poissons à utiliser est l'indice poissons rivière (IPR-code Sandre 7036) mise en œuvre dans le respect de la norme NF T90-344.
 
-Les limites d'application de l'indice sont précisées dans le document suivant : L'IPR, notice de présentation et d'utilisation (CSP, avril 2006).
+Les limites d'application de l'indice sont précisées dans le document suivant : l'IPR, notice de présentation et d'utilisation (CSP,avril2006).
 
-Le tableau 33 ci-dessous indique les valeurs des limites de classe par type de cours d'eau pour l'indice biologique poissons. Les limites de chaque classe sont prises en compte de la manière suivante :
+Le tableau 34 ci-dessous indique les valeurs des limites de classe (selon l'ordre a-b-c-d) par type de cours d'eau pour l'indice biologique poissons. Les limites de chaque classe sont prises en compte de la manière suivante :
 
-- pour l'état très bon : [valeur de la limite supérieure (incluse), valeur de la limite inférieure (incluse)] ;
+-pour l'état très bon : [0 ; a (valeur de la limite incluse)] ;
 
-- pour les états bon, moyen et médiocre : [valeur de la limite supérieure (exclue), valeur de la limite inférieure (incluse)] ;
+-pour les états bon, moyen et médiocre :] respectivement a, b, c (valeur de la limite exclue) ; respectivement b, c, d (valeur de la limite incluse)] ;
 
-- pour l'état mauvais : > valeur de la limite supérieure (exclue).
+-pour l'état mauvais : > d (valeur de la limite exclue).
 
-La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 33 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 34 ci-dessous.
 
-Tableau 33 : Valeurs supérieures des limites des classes d'état, exprimées par type de cours d'eau pour l'IPR
+Tableau 34 : valeurs inférieures des limites des classes d'état, exprimées par type de cours d'eau pour l'IPR
 
-Vous pouvez consulter l'image dans le fac-similé du
+IPR |
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Catégories de taille de cours d'eau |
 
-Vous pouvez consulter l'image dans le fac-similé du
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
 
-JOnº 0198 du 28/08/2015, texte nº 4
+Très Grands |
+
+Grands |
+
+Moyens |
+
+Petits |
+
+Très Petits |
+
+Hydroécorégions de niveau 1 |
+
+20 |
+
+DEPOTS ARGILO SABLEUX |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+Exogène de l'HER 9 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+21 |
+
+MASSIF CENTRAL NORD |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+3 |
+
+MASSIF CENTRAL SUD |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 19 |
+
+|
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 19 ou 8 |
+
+|
+
+5-16* -25-36 |
+
+|
+
+|
+
+|
+
+17 |
+
+DEPRESSIONS
+
+SEDIMENTAIRES |
+
+Cas général |
+
+|
+
+|
+
+5-16*-25-36 |
+
+Exogène de l'HER 3 ou 21 |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+15 |
+
+PLAINE SAONE |
+
+Exogène de l'HER 3 ou 21 |
+
+|
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 5 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+Cas général |
+
+5-16-25-36 |
+
+|
+
+5-16*-25-36 |
+
+Exogène de l'HER 4 |
+
+5-16-25-36 |
+
+|
+
+|
+
+|
+
+5 |
+
+JURA / PRE-ALPES DU NORD |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+Exogène de l'HER 2 |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+TTGA |
+
+FLEUVES ALPINS |
+
+Cas général |
+
+|
+
+|
+
+|
+
+2 |
+
+ALPES
+
+INTERNES |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+7 |
+
+PRE-ALPES
+
+DU SUD |
+
+Cas général |
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 2 |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+6 |
+
+MEDITERRANEE |
+
+Exogène de l'HER 2 ou 7 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+|
+
+Exogène de l'HER 7 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 8 |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 1 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+8 |
+
+CEVENNES |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+A-her2 n° 70 |
+
+|
+
+|
+
+5-16*-25-36 |
+
+16 |
+
+CORSE |
+
+A-her2 n° 22 |
+
+|
+
+# |
+
+B-her2 n° 88 |
+
+|
+
+19 |
+
+GRANDS
+
+CAUSSES |
+
+Cas général |
+
+|
+
+|
+
+|
+
+5-16*-25-36 |
+
+|
+
+Exogène de l'HER 8 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+11 |
+
+CAUSSES
+
+AQUITAINS |
+
+Cas général |
+
+|
+
+|
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 3 et/ou 21 |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+|
+
+14 |
+
+COTEAUX
+
+AQUITAINS |
+
+Exogène des HER 3, 8, 11 ou 19 |
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 3 ou 8 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 1 |
+
+5-16-25-36 |
+
+|
+
+13 |
+
+LANDES |
+
+Cas général |
+
+|
+
+|
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+1 |
+
+PYRENEES |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+12 |
+
+ARMORICAIN |
+
+A-Centre-Sud |
+
+|
+
+5-16*-25-36 |
+
+B-Ouest-Nord Est |
+
+|
+
+5-16*-25-36 |
+
+TTGL |
+
+LA LOIRE |
+
+Cas général |
+
+5-16-25-36 |
+
+|
+
+|
+
+|
+
+|
+
+9 |
+
+TABLES CALCAIRES |
+
+A-her2 n° 57 |
+
+|
+
+|
+
+5-16*-25-36 |
+
+|
+
+Cas général |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 10 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+|
+
+Exogène de l'HER 21 |
+
+5-16-25-36 |
+
+|
+
+|
+
+10 |
+
+COTES CALCAIRES EST |
+
+Exogène de l'HER 21 |
+
+|
+
+|
+
+|
+
+Cas général |
+
+5-16-25-36 |
+
+5-16*-25-36 |
+
+Exogène de l'HER 4 |
+
+5-16*-25-36 |
+
+|
+
+4 |
+
+VOSGES |
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+22 |
+
+ARDENNES |
+
+Exogène de l'HER 10 |
+
+5-16-25-36 |
+
+|
+
+|
+
+|
+
+|
+
+Cas général |
+
+|
+
+5-16*-25-36 |
+
+18 |
+
+ALSACE |
+
+Cas général |
+
+|
+
+|
+
+5-16*-25-36 |
+
+Exogène de l'HER 4 |
+
+|
+
+5-16*-25-36 |
+
+|
+
+a-b-c-d : a = limite très bon état / bon état, b = limite bon état / état moyen, c = limite état moyen / état médiocre, d = limite état médiocre / état mauvais.
+
+Les valeurs de l'IPR figurant dans ce tableau ont pris en compte la décision de la commission du 12 février 2018 relatif à l'inter-étalonnage.
+
+En grisé : type inexistant.
+
+En gris clair : bien que potentiellement pertinent partout, le résultat de l'évaluation pourra être à valider à dire d'expert pour certaines stations de ces types au regard des limites d'application de l'indice consignées dans la notice IPR (CSP, avril 2006). Ces limites concernent notamment les stations de très grands cours d'eau ou celles situées en zones apiscicoles ou assimilables.
+
+# : l'IPR ne s'applique pas à la Corse.
+
+16* : dans les cas où l'altitude du site d'évaluation est supérieure ou égale à 500 m, la valeur de 14,5 doit être utilisée au lieu de 16. |
 
 1.1.4.2. Indice biologique poissons pour le département de La Réunion
 
-L'indice biologique poissons à utiliser est l'IRP : indice Réunion poissons (Guide méthodologique de mise en œuvre de l'indice Réunion poisson, à paraître en 2015).
+L'indice biologique poissons à utiliser est l'indice Réunion poissons (IRP) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-indice Réunion poissons-IRP.
 
-Le tableau 34 ci-dessous indique les valeurs inférieures des limites de classe pour l'indice Réunion poisson, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 35 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IRP.
+Le tableau 35 ci-dessous indique les valeurs inférieures des limites de classe pour l'Indice Réunion Poisson, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre). Le tableau 36 ci-dessous indique les valeurs de référence, par type de cours d'eau pour l'IRP.
 
-La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 34 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 35 ci-dessous.
 
-La note en EQR se calcule comme suit :
+La note en EQR est calculée à l'aide du système d'évaluation de l'état des eaux. Le principe de calcul est le suivant :
 
-Note en EQR = (note observée) / (note de référence du type)
+Note en EQR = (note observée)/ (note de référence du type)
 
-Tableau 34 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IRP
+Tableau 35 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IRP
 
-POISSONS DES COURS D'EAU
+Poissons des cours d'eau de La Réunion
 
-DE LA RÉUNION
+EQR-IRP
 
 |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Catégories de taille de cours d'eau
 
 |
 
@@ -1380,7 +4746,7 @@ Grands
 
 |
 
-Moyens
+Moyen
 
 |
 
@@ -1400,11 +4766,11 @@ Cirques au vent
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
@@ -1418,11 +4784,11 @@ Cirques sous le vent
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
@@ -1436,7 +4802,7 @@ Versants au vent
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
@@ -1450,27 +4816,27 @@ Versants sous le vent
 
 |
 
-1 - ˃0,8 - 0,6 - 0,4
+1-> 0,8-0,6-0,4
 
 |
 
 |
 
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre
 
-En grisé : type inexistant.
-
-|
-
-Tableau 35 : Valeurs de référence par type de cours d'eau pour l'IRP
-
-POISSONS DES COURS D'EAU
-
-DE LA RÉUNION
+En grisé : type inexistant
 
 |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Tableau 36 : valeurs de référence par type de cours d'eau pour l'IRP
+
+Poissons des cours d'eau de La Réunion
+
+IRP
+
+|
+
+Catégories de taille de cours d'eau
 
 |
 
@@ -1486,7 +4852,7 @@ Grands
 
 |
 
-Moyens
+Moyen
 
 |
 
@@ -1562,27 +4928,27 @@ Versants sous le vent
 
 |
 
-En grisé : type inexistant.
+En grisé : type inexistant
 
 |
 
 1.1.4.3. Indice biologique poissons de département de Guyane
 
-L'indice biologique poissons à utiliser est l'IPG-global (par opposition à l'IPG Résidus, utilisé uniquement pour du diagnostic) : indice poissons Guyane global (Cf. Rapport Hydreco avril 2014 - Guide méthodologique de mise en œuvre, à paraître en 2015).
+L'indice biologique poissons à utiliser est l'indice poissons Guyane global : IPG-global (par opposition à l'IPG Résidus, utilisé uniquement pour du diagnostic) décrit dans le guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-l'indice poissons Guyane global (IPG-global).
 
-Le tableau 36 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, pour l'IPG global, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
+Le tableau 37 ci-dessous indique les valeurs inférieures des limites de classe, en EQR, pour l'IPG Global, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
 
-La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 36 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 38 ci-dessous.
 
-Tableau 36 : Valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IPG global
+Tableau 37 : valeurs inférieures des limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'IPG global
 
-POISSONS DES COURS D'EAU
+Poissons des cours d'eau de Guyane
 
-DE GUYANE
+EQR-IPG-global
 
 |
 
-CATÉGORIES DE TAILLE DE COURS D'EAU
+Catégories de taille de cours d'eau
 
 |
 
@@ -1598,7 +4964,7 @@ Grands
 
 |
 
-Moyens
+Moyen
 
 |
 
@@ -1618,11 +4984,15 @@ Plaine littorale
 
 |
 
-0,98 - 0,74 - 0,49 - 0,24
+0,98-0,74-0,49-0,24
 
 |
 
+Indice non applicable
+
 |
+
+Indice non applicable
 
 |
 
@@ -1634,13 +5004,15 @@ Bouclier guyanais
 
 |
 
-|
+Indice non applicable
 
 |
 
-a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre.
+Indice non applicable
 
-En grisé : indicateur non pertinent.
+|
+
+a-b-c-d : a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre
 
 |
 
@@ -1652,71 +5024,85 @@ En outre, les connaissances actuelles ne permettent pas de fixer des indices et 
 
 1.2. Eléments physico-chimiques généraux pour les cours d'eau
 
-Les éléments physico-chimiques généraux interviennent uniquement comme facteurs explicatifs des conditions biologiques. Pour la classe bon et les classes inférieures (15), les valeurs seuils de ces éléments physico-chimiques sont fixées de manière à respecter les limites de classes établies pour les éléments biologiques, correspondant au bon fonctionnement des écosystèmes.
+Les éléments physico-chimiques généraux interviennent uniquement comme facteurs explicatifs des conditions biologiques. Pour la classe bon et les classes inférieures (2), les valeurs seuils de ces éléments physico-chimiques sont fixées de manière à respecter les limites de classes établies pour les éléments biologiques, correspondant au bon fonctionnement des écosystèmes.
 
 Les limites de classes sont exprimées par paramètre et non par élément de qualité (par exemple, l'oxygène dissous est un paramètre constitutif de l'élément bilan d'oxygène).
 
-Le tableau 37 ci-dessous indique les valeurs des limites de classe pour les paramètres des éléments physico-chimiques généraux pour les cours d'eau. Les limites de chaque classe sont prises en compte de la manière suivante : ] valeur de la limite supérieure (exclue), valeur de la limite inférieure (incluse)].
+Le tableau 38 ci-dessous indique les valeurs des limites de classe pour les paramètres des éléments physico-chimiques généraux pour les cours d'eau. Les limites de chaque classe sont prises en compte de la manière suivante :] valeur de la limite supérieure (exclue), valeur de la limite inférieure (incluse)].
 
 Ces paramètres et valeurs seuils sont applicables dès lors que les protocoles de prélèvements et d'analyse sont conformes à ceux prescrits dans l'arrêté du 25 janvier 2010 établissant le programme de surveillance de l'état des eaux en application de l'article R. 212-22 du code de l'environnement.
 
-La classification s'établit en comparant à ces valeurs le percentile 90 obtenu à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté (se reporter à l'annexe 9, point 2, relatif à la chronique de données à utiliser). Lorsque les concentrations mesurées pour un paramètre sont inférieures à sa limite de quantification, la valeur de la concentration à prendre en compte est celle de la limite de quantification de ce paramètre divisée par deux.
+La classification s'établit en comparant à ces valeurs le percentile 90 obtenu à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté (se reporter à l'annexe 9 point 2 relatif à la chronique de données à utiliser). Lorsque les concentrations mesurées pour un paramètre sont inférieures à sa limite de quantification, la valeur de la concentration à prendre en compte est celle de la limite de quantification de ce paramètre divisée par deux.
 
-Pour les paramètres oxygène dissous et taux de saturation en O2 dissous , la classification s'établit en comparant à ces valeurs le percentile 10 obtenu à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté (se reporter à l'annexe 9 point 2 relatif à la chronique de données à utiliser).
+Pour les paramètres oxygène dissous et taux de saturation en O2 dissous la classification s'établit en comparant à ces valeurs le percentile 10 obtenu à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté (se reporter à l'annexe 9 point 2 relatif à la chronique de données à utiliser).
 
-Pour l'élément de qualité acidification , la classification s'établit :
+Pour l'élément de qualité acidification , la classification s'établit ;
 
-- en comparant le percentile 10 obtenu à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté aux valeurs du pH min ;
+-en comparant le percentile 10 obtenu à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté aux valeurs du pHmin ;
 
-- en comparant le percentile 90 obtenu à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté aux valeurs du pH max ;
+-en comparant le percentile 90 obtenu à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté aux valeurs du pHmax ;
 
-la classe d'état de l'élément de qualité acidification est déterminée par la classe d'état la moins bonne de ces deux paramètres (pH min ou pH max).
+La classe d'état de l'élément de qualité acidification est déterminée par la classe d'état la moins bonne de ces deux paramètres (pHmin ou pHmax).
 
 Pour la classification en très bon état écologique, des conditions physico-chimiques peu ou pas perturbées sont requises. Dans l'attente de la détermination de valeurs fiables adaptées aux différents types de masses d'eau de surface, les valeurs indiquées dans la présente annexe des limites de classes entre le bon et le très bon état des paramètres physico-chimiques généraux sont à considérer à titre indicatif.
 
-(15) Classes médiocre , moyen , mauvais .
-
 1.2.1. Cas général
 
-Tableau 37 : Valeurs des limites des classes d'état pour les paramètres physico-chimiques généraux pour les cours d'eau
+Tableau 38 : valeurs des limites des classes d'état pour les paramètres physico-chimiques généraux pour les cours d'eau
 
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
-
-Pour les éléments de qualité physico-chimiques, les limites supérieure et inférieure de la classe bon suffisent pour la classification de l'état écologique. En effet, en principe, seuls les éléments biologiques peuvent déterminer un état écologique médiocre ou mauvais .
-
-Néanmoins, en l'absence d'éléments de qualité biologique, et en considérant que les seuils des éléments physico-chimiques sont fixés en soutien à la biologie , l'état écologique de certaines masses d'eau peut être provisoirement évalué en cinq classes sur la base des éléments de qualité physico-chimiques généraux (issus de la surveillance ou d'outils de modélisation) nécessairement complétés des données de pressions disponibles et conformément aux prescriptions du point 2.1.3 de l'annexe 10 du présent arrêté.
-
-Dans ces cas, on pourra utiliser les valeurs des limites de classes entre l'état moyen et l'état médiocre ainsi qu'entre l'état médiocre et le mauvais état des paramètres physico-chimiques généraux indiquées dans le tableau 37 de la présente annexe.
-
-1.2.2. Exceptions typologiques
-
-Les exceptions typologiques peuvent concerner de manière assez générale une hydro-écorégion ou un groupe de masse d'eau donné. Elles peuvent conduire à ne pas considérer l'élément ou le paramètre physico-chimique correspondant, ou à ajuster les valeurs seuils, pour l'évaluation de l'état des types de masses d'eau concernées.
-
-Les éléments de la présente partie 1.2.2. indiquent les adaptations à apporter aux valeurs du tableau 37 pour les adapter aux cas de certains types de milieux particuliers.
-
-Dans ces cas particuliers, le fait que la valeur de ces éléments ou paramètres soit naturellement influencée sans cause anthropique significative devra pouvoir être justifié.
-
-Tableau 38 : Cours d'eau naturellement pauvre en oxygène
-
-PARAMÈTRES
+Paramètres par élément de qualité (unités)
 
 |
 
-LIMITES SUPÉRIEURE ET INFÉRIEURE DU BON ÉTAT
+Code
 
 |
 
-Bilan de l'oxygène
+Limites des classes d'état
 
 |
 
-Oxygène dissous (mg O2/l)
+Très bon/ Bon
 
 |
 
-]7,5 - 6]
+Bon/ Moyen
+
+|
+
+Moyen/ Médiocre
+
+|
+
+Médiocre/ Mauvais
+
+|
+
+Bilan de l'oxygène 1
+
+|
+
+Oxygène dissous (mg O2/ l)
+
+|
+
+1311
+
+|
+
+8
+
+|
+
+6
+
+|
+
+4
+
+|
+
+3
 
 |
 
@@ -1724,39 +5110,119 @@ Taux de saturation en O2 dissous (%)
 
 |
 
-]80 - 65]
+1312
 
 |
 
-Tableau 39 : Cours d'eau naturellement riches en matières organiques
-
-PARAMÈTRES
+90
 
 |
 
-LIMITES SUPÉRIEURE ET INFÉRIEURE DU BON ÉTAT
+70
 
 |
 
-Bilan de l'oxygène
+50
 
 |
 
-Carbone organique (mg C/l)
+30
 
 |
 
-]8 - 9]
+DBO5 (mg O2/ l)
 
 |
 
-Tableau 40 : Cours d'eau naturellement froids (température de l'eau inférieure à 14 °C) et peu alcalins (pH max inférieur à 8,5 unités pH), moins sensibles aux teneurs en NH4+ (HER 2 Alpes internes : cours d'eau très petits à moyens)
-
-PARAMÈTRES
+1313
 
 |
 
-LIMITES SUPÉRIEURE ET INFÉRIEURE DU BON ÉTAT
+3
+
+|
+
+6
+
+|
+
+10
+
+|
+
+25
+
+|
+
+Carbone organique dissous (mg C/ l)
+
+|
+
+1841
+
+|
+
+5
+
+|
+
+7
+
+|
+
+10
+
+|
+
+15
+
+|
+
+Température2
+
+|
+
+Eaux salmonicoles
+
+|
+
+1301
+
+|
+
+20
+
+|
+
+21,5
+
+|
+
+25
+
+|
+
+28
+
+|
+
+Eaux cyprinicoles
+
+|
+
+24
+
+|
+
+25,5
+
+|
+
+27
+
+|
+
+28
 
 |
 
@@ -1764,21 +5230,361 @@ Nutriments
 
 |
 
-NH4 + (mg NH4 +/l)
+PO43-(mg PO43-/ l)
 
 |
 
-]0,1 - 1]
+1433
 
 |
 
-Tableau 41 : Cours d'eau naturellement acides
+0,1
+
+|
+
+0,5
+
+|
+
+1
+
+|
+
+2
+
+|
+
+Phosphore total (mg P/ l)
+
+|
+
+1350
+
+|
+
+0,05
+
+|
+
+0,2
+
+|
+
+0,5
+
+|
+
+1
+
+|
+
+NH4 + (mg NH4 +/ l)
+
+|
+
+1335
+
+|
+
+0,1
+
+|
+
+0,5
+
+|
+
+2
+
+|
+
+5
+
+|
+
+NO2-(mg NO2-/ l)
+
+|
+
+1339
+
+|
+
+0,1
+
+|
+
+0,3
+
+|
+
+0,5
+
+|
+
+1
+
+|
+
+NO3-(mg NO3-/ l)
+
+|
+
+1340
+
+|
+
+10
+
+|
+
+50
+
+|
+
+*
+
+|
+
+*
+
+|
+
+Acidification1
+
+|
+
+pH minimum
+
+|
+
+1302
+
+|
+
+6,5
+
+|
+
+6
+
+|
+
+5,5
+
+|
+
+4,5
+
+|
+
+pH maximum
+
+|
+
+8,2
+
+|
+
+9
+
+|
+
+9,5
+
+|
+
+10
+
+|
+
+Salinité
+
+|
+
+Conductivité
+
+|
+
+1303
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+Chlorures
+
+|
+
+1337
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+Sulfates
+
+|
+
+1338
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+*
+
+|
+
+1 Acidification : en d'autres termes, à titre d'exemple, pour la classe bon état, le pH min est compris entre 6,0 et 6,5 ; le pH max entre 9,0 et 8,2.
+
+2 Pour l'élément de qualité température, un paramètre supplémentaire intermédiaire non référencé ici est également utilisé. Pour ce dernier, il est recommandé d'utiliser les limites de classe du paramètre salmonicoles .
+
+* : les connaissances actuelles ne permettent pas de fixer des seuils fiables pour cette limite.
+
+|
+
+Pour les éléments de qualité physico-chimiques, les limites supérieure et inférieure de la classe bon suffisent pour la classification de l'état écologique. En effet, en principe, seuls les éléments biologiques peuvent déterminer un état écologique médiocre ou mauvais .
+
+La distinction de 5 classes d'état pour les paramètres généraux peut être pertinente pour affiner l'étude de l'impact des pressions et identifier des priorités d'intervention.
+
+Dans ces cas, on pourra utiliser les valeurs des limites de classes entre l'état moyen et l'état médiocre ainsi qu'entre l'état médiocre et le mauvais état des paramètres physico-chimiques généraux indiquées dans le tableau 38 de la présente annexe.
+
+1.2.2. Exceptions typologiques
+
+Les exceptions typologiques peuvent concerner de manière assez générale une hydro-écorégion ou un groupe de masse d'eau donné. Elles peuvent conduire à ne pas considérer l'élément ou le paramètre physico-chimique correspondant, ou à ajuster les valeurs seuils, pour l'évaluation de l'état des types de masses d'eau concernées.
+
+Les éléments de la présente partie 1.2.2. indiquent les adaptations à apporter aux valeurs du tableau 38 pour les adapter aux cas de certains types de milieux particuliers.
+
+Dans ces cas particuliers, le fait que la valeur de ces éléments ou paramètres soit naturellement influencée sans cause anthropique significative devra pouvoir être justifié.
+
+Tableau 39 : type 1-cours d'eau naturellement pauvres en oxygène
+
+PARAMETRES
+
+|
+
+LIMITES SUPÉRIEURE
+
+et inférieure du bon état
+
+|
+
+Bilan de l'oxygène
+
+|
+
+Oxygène dissous (mg O2/ l)
+
+|
+
+] 7,5-6]
+
+|
+
+Taux de saturation en O2 dissous (%)
+
+|
+
+] 80-65]
+
+|
+
+Tableau 40 : type 2-cours d'eau naturellement riches en matières organiques
 
 PARAMÈTRES
 
 |
 
-LIMITES SUPÉRIEURE ET INFÉRIEURE DU BON ÉTAT
+LIMITES SUPERIEURE
+
+et inférieure du bon état
+
+|
+
+Bilan de l'oxygène
+
+|
+
+Carbone organique dissous (mg C/ l)
+
+|
+
+] 8-9]
+
+|
+
+Tableau 41 : type 3-cours d'eau naturellement froids (température de l'eau inférieure à 14° C) et peu alcalins (pH max inférieur à 8,5 unité pH) moins sensibles aux teneurs en NH4 + (HER 2 Alpes internes : cours d'eau très petits à moyens)
+
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inférieure du bon état
+
+|
+
+Nutriments
+
+|
+
+NH4 + (mg NH4 +/ l)
+
+|
+
+] 0,1-1]
+
+|
+
+Tableau 42 : type 4-cours d'eau naturellement acides
+
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inférieure du bon état
 
 |
 
@@ -1790,7 +5596,7 @@ pH minimum
 
 |
 
-]6 - 5,8]
+] 6-5,8]
 
 |
 
@@ -1798,13 +5604,17 @@ pH maximal
 
 |
 
-]8,2 - 9]
+] 8,2-9]
 
 |
 
-Cours d'eau des zones de tourbières : Non prise en compte du paramètre carbone organique.
+Type 5 : cours d'eau des zones de tourbières :
 
-Cours d'eau de température naturellement élevée (HER 6 : Méditerranée) : Non prise en compte du paramètre température car les températures estivales sont naturellement élevées de manière récurrente du fait des influences climatiques.
+Non prise en compte du paramètre carbone organique.
+
+Type 6 : cours d'eau de température naturellement élevée (HER 6 : Méditerranée) :
+
+Non prise en compte du paramètre température car les températures estivales sont naturellement élevées de manière récurrente du fait des influences climatiques.
 
 1.2.3. Cas des exceptions locales
 
@@ -1820,231 +5630,19 @@ Dans ce cas, le préfet coordonnateur de bassin évalue l'état écologique des 
 
 1.3. Polluants spécifiques de l'état écologique pour les cours d'eau
 
-1.3.1. Liste des polluants concernés et normes de qualité environnementale correspondantes en vigueur jusqu'au 21 décembre 2015
+Les polluants spécifiques de l'état écologiques et les normes de qualité environnementales correspondantes à prendre en compte dans l'évaluation de l'état écologique des eaux de surface continentales métropolitaines sont listés dans les tableaux 43 et 44 ci-dessous :
 
-Les polluants spécifiques de l'état écologique et les normes de qualité environnementale correspondantes à prendre en compte dans l'évaluation de l'état écologique des eaux de surfaces continentales métropolitaines jusqu'au 21 décembre 2015 sont listés dans les tableaux 9 et 10 ci-dessous :
+Tableau 43 : polluants spécifiques non synthétiques
 
-Tableau 42 : Polluants spécifiques non synthétiques
-
-NOM DE LA SUBSTANCE
+Code Sandre
 
 |
 
-CODE SANDRE
+Nom substance
 
 |
 
-NQE MOYENNE ANNUELLE (µG/L) *
-
-|
-
-Arsenic dissous
-
-|
-
-1369
-
-|
-
-4,2
-
-|
-
-Chrome dissous
-
-|
-
-1389
-
-|
-
-3,4
-
-|
-
-Cuivre dissous
-
-|
-
-1392
-
-|
-
-1,4
-
-|
-
-Zinc dissous
-
-|
-
-1383
-
-|
-
-Dureté inférieure ou égale à 24 mg CaCO3/l : 3,1
-
-|
-
-Dureté supérieure à 24 mg CaCO3/l : 7,8
-
-|
-
-* Ces normes ont un caractère provisoire car elles ne correspondent pas pleinement à la définition d'une NQE. Ces valeurs ne sont protectrices que pour les organismes de la colonne d'eau et ne prennent notamment pas en compte l'intoxication secondaire.
-
-|
-
-Comme pour les paramètres de l'état chimique, les normes applicables aux métaux peuvent être corrigées par le fond géochimique et la biodisponibilité.
-
-Tableau 43 : Polluants spécifiques synthétiques
-
-NOM DE LA SUBSTANCE
-
-|
-
-CODE SANDRE
-
-|
-
-NQE MOYENNE ANNUELLE (µG/L)*
-
-|
-
-Chlortoluron
-
-|
-
-1136
-
-|
-
-5
-
-|
-
-Oxadiazon
-
-|
-
-1667
-
-|
-
-0,75
-
-|
-
-Linuron
-
-|
-
-1209
-
-|
-
-1
-
-|
-
-2,4 D
-
-|
-
-1141
-
-|
-
-1,5
-
-|
-
-2,4 MCPA
-
-|
-
-1212
-
-|
-
-0,1
-
-|
-
-* Ces normes ont un caractère provisoire car elles ne correspondent pas pleinement à la définition d'une NQE. Ces valeurs ne sont protectrices que pour les organismes de la colonne d'eau et ne prennent notamment pas en compte l'intoxication secondaire.
-
-|
-
-En complément, pour la Martinique et la Guadeloupe :
-
-Tableau 44 : Polluant spécifique complémentaire pour la Martinique et la Guadeloupe
-
-NOM DE LA SUBSTANCE
-
-|
-
-CODE SANDRE
-
-|
-
-NQE MOYENNE ANNUELLE
-
-|
-
-Eaux douces
-
-de surface
-
-|
-
-Eaux côtière
-
-et de transition
-
-|
-
-Biote
-
-|
-
-Chlordécone
-
-|
-
-1136
-
-|
-
-0,1 µg/l
-
-|
-
-0,1 µg/l
-
-|
-
-20 µg/kg
-
-|
-
-Les modalités d'interprétation des résultats d'analyses sont identiques à celles définies à l'article 11 relatif à l'évaluation de l'état chimique des masses d'eau du présent arrêté.
-
-1.3.2. Liste des polluants concernés et normes de qualité environnementale correspondantes à partir du 22 décembre 2015
-
-Les polluants spécifiques de l'état écologique et les normes de qualité environnementale correspondantes à prendre en compte dans l'évaluation de l'état écologique des eaux de surfaces continentales métropolitaines à partir du 22 décembre 2015 sont listés dans les tableaux 45 et 46 ci-dessous :
-
-Tableau 45 : Polluants spécifiques non synthétiques
-
-CODE SANDRE
-
-|
-
-NOM SUBSTANCE
-
-|
-
-NQE EN MOYENNE ANNUELLE -
-
-EAUX DOUCES DE SURFACE [µG/L]
+NQE en moyenne annuelle-eaux douces de surface [µg/ L]
 
 |
 
@@ -2098,37 +5696,33 @@ Chrome
 
 Les polluants spécifiques non synthétiques concernent l'ensemble des bassins métropolitains et DOM.
 
-Comme pour les paramètres de l'état chimique, les normes applicables aux métaux peuvent être corrigées par le fond géochimique.
+Pour les métaux et leurs composés, il est possible de tenir compte lors de l'évaluation des résultats obtenus au regard des NQE :
 
-Les normes de qualité environnementale relatives au cuivre et au zinc sont des normes biodisponibles, c'est-à-dire correspondant aux normes de qualité environnementale en conditions maximales de biodisponibilité (16).
+-de la dureté, du pH ou d'autres paramètres liés à la qualité de l'eau qui affectent la biodisponibilité des métaux, par exemple en utilisant un modèle de calcul de la fraction dissoute biodisponible de type BLM (Biotic Ligand Model). De tels modèles sont disponibles pour le cuivre et le zinc, dont les NQE correspondent aux conditions maximales de biodisponibilité ;
 
-Pour le cuivre et le zinc, l'évaluation de la conformité à la norme de qualité environnementale peut être réalisée en utilisant un modèle de calcul de la fraction dissoute biodisponible de type BLM (Biotic Ligand Model).
+-des concentrations de fonds géochimiques naturelles.
 
-Tableau 46 : Polluants spécifiques synthétiques
+Tableau 44 : polluants spécifiques synthétiques
 
-CODE
+Code
 
 Sandre
 
 |
 
-NOM SUBSTANCE
+Nom substance
 
 |
 
-BASSINS POUR LESQUELS LA NORME S'APPLIQUE
+Bassins pour lesquelles la norme s'applique
 
 |
 
-NQE
-
-en moyenne annuelle - Eaux douces
-
-de surface [µg/L]
+NQE en moyenne annuelle-eaux douces de surface [µg/ L]
 
 |
 
-Adour-Garonne
+Adour Garonne
 
 |
 
@@ -2144,7 +5738,7 @@ Rhin-Meuse
 
 |
 
-Rhône-Mediterranée
+Rhône-Méditerranée
 
 |
 
@@ -2484,6 +6078,8 @@ X
 
 |
 
+X
+
 |
 
 |
@@ -2533,6 +6129,8 @@ X
 |
 
 |
+
+X
 
 |
 
@@ -2814,7 +6412,7 @@ X
 
 |
 
-2,4 D
+2, 4D
 
 |
 
@@ -3280,6 +6878,8 @@ Thiabendazole
 
 |
 
+X
+
 |
 
 |
@@ -3300,47 +6900,7 @@ X
 
 |
 
-1,2
-
-|
-
-1866
-
-|
-
-Chlordécone
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-5e-06
+1.2
 
 |
 
@@ -3384,27 +6944,67 @@ X
 
 |
 
-En complément, pour la chlordécone, les normes suivantes s'appliquent :
+1866
 
-- norme de qualité environnementale en moyenne annuelle dans le biote : 3 µg/kg ;
+|
 
-- norme de qualité environnementale en moyenne annuelle dans les eaux côtières et de transition : 5e-07 µg/l.
+Chlordécone*
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+5e-06*
+
+|
+
+* En complément, pour la chlordécone, les normes suivantes s'appliquent :
+
+-Norme de qualité environnementale en moyenne annuelle dans le biote : 3 µg/ kg ;
+
+-Norme de qualité environnementale en moyenne annuelle dans les eaux côtières et de transition : 5e-07 µg/ L.
+
+Lorsque le suivi a été réalisé dans le biote, la norme biote s'applique et suffit à évaluer l'état.
 
 Les modalités d'interprétation des résultats d'analyses sont identiques à celles définies à l'article 11 relatif à l'évaluation de l'état chimique des masses d'eau du présent arrêté.
 
-Pour les polluants spécifiques, un état très bon est par ailleurs défini en complément des états bon et mauvais .
-
-Pour un polluant spécifique non synthétique donné, l'état d'un site d'évaluation est très bon si les concentrations de ce polluant restent dans la fourchette normalement associée à des conditions non perturbées.
-
-Pour un polluant spécifique synthétique, l'état d'un site d'évaluation est très bon si les concentrations de ce polluant sont proches de zéro ou au moins inférieures aux limites de détection des techniques d'analyse les plus avancées d'usage général.
-
-(16) La biodisponibilité des métaux dépend des conditions du milieu, et en particulier du pH, de la concentration en calcium dissous et en carbone organique dissous.
-
 1.4. Eléments hydromorphologiques pour les cours d'eau
 
-Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en très bon état écologique requiert des conditions peu ou pas perturbées des éléments de qualité hydromorphologiques (morphologie, régime hydrologique, continuité pour les cours d'eau). Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en bon état écologique requiert des conditions des éléments de qualité hydromorphologiques permettant d'atteindre les valeurs des éléments de qualité biologique correspondant au bon état écologique.
+Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en très bon état écologique requiert des conditions peu ou pas perturbées des éléments de qualité hydromorphologiques (morphologie, régime hydrologique, continuité des cours d'eau). Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en bon état écologique requiert des conditions des éléments de qualité hydromorphologiques permettant d'atteindre les valeurs des éléments de qualité biologique correspondant au bon état écologique.
 
-Dans l'attente de la détermination des indicateurs et valeurs seuils pertinents de ces éléments hydromorphologiques, les informations disponibles sur les pressions hydromorphologiques, notamment celles issues de l'outil SYRAH-CE (Système relationnel d'audit de l'hydromorphologie des cours d'eau), sont à considérer pour l'attribution de la classe très bon aux éléments de qualité hydromorphologiques.
+1.4.1. Cours d'eau de métropole
+
+Dans l'attente de la détermination des indicateurs et valeurs seuils pertinents des éléments hydromorphologiques, les informations disponibles sur les pressions hydromorphologiques, notamment celles issues du système relationnel d'audit de l'hydromorphologie des cours d'eau (SYRAH-CE) sont à considérer pour l'attribution de la classe très bon aux éléments de qualité hydromorphologiques.
+
+1.4.2. Cours d'eau des DOM
+
+Dans l'attente de la détermination des indicateurs et valeurs seuils pertinents des éléments hydromorphologiques, les informations disponibles sur les pressions hydromorphologiques, notamment celles issues du référentiel hydromorphologique ultramarin (RHUM) sont à considérer pour l'attribution de la classe très bon aux éléments de qualité hydromorphologiques.
 
 1.5. Situation de lacunes d'outils d'interprétation
 
@@ -3412,7 +7012,95 @@ C'est le cas où des valeurs numériques de limites de classes ne sont pas encor
 
 Dans ce cas, ces données sont utilisées pour évaluer l'état de cet élément de qualité lorsque l'interprétation de ces données permet d'apporter des informations valables pour évaluer l'état de cette masse d'eau au regard des définitions de l'annexe 1 au présent arrêté.
 
+1.6. Outils diagnostics complémentaires pour les cours d'eau de métropole
+
+1.6.1. Eléments biologiques invertébrés pour la métropole
+
+Pour l'HER 9A, l'indice biologique invertébrés à utiliser à titre complémentaire pour les cours d'eau est l'indice invertébrés multi-métrique (I2M2) décrit au paragraphe 1.1.1.1 de l'annexe II.
+
+Au cours du 3e cycle (2021-2027), l'indice cours d'eau I2M2 (pour HER 9A) doit être utilisé comme outil d'amélioration de la connaissance, de diagnostic et d'amélioration de l'évaluation de l'état écologique, en vue de son appropriation par l'ensemble des acteurs, mais également de définir précisément, grâce aux remontées de terrains, les limites d'application réelles.
+
+1.6.2. Eléments biologiques poissons pour la métropole
+
+L'indice biologique poissons pouvant être utilisé à titre complémentaire est l'indice poisson de rivières + (IPR +) avec le protocole d'échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son homologation).
+
+Cet outil pourra être utilisé préférentiellement sur :
+
+-les sites de l'ensemble des types de la grille IPR (cf. tableau 34) fortement multi-impactés, en particulier par les pressions hydromorphologiques ;
+
+-les sites des types de la grille IPR (cf. tableau 34) correspondant aux cases grisées où la truite commune est théoriquement présente selon la typologie de Huet.
+
+L'IPR + est décrit dans les publications suivantes :
+
+Pont D., Delaigue O., Eyoub S. 2015. Manuel d'utilisation de l'IPR +, révision de l'indice poisson rivière pour l'application de la DCE. Rapport technique Irstea.
+
+Pont D., Delaigue O., Belliard J., Marzin A., Logez M. (2013). Programme IPR + : révision de l'indice poisson rivière pour l'application de la DCE-version V. 2.0 de l'indicateur, Février 2013. Rapport technique Irstea, 208 p.
+
+Le tableau 45 ci-dessous indique les valeurs des limites de classe par type de cours d'eau pour l'indice biologique Poissons. Les limites de chaque classe sont prises en compte de la manière suivante :
+
+-pour l'état très bon : [valeur de la limite inférieure (exclue), valeur de la limite supérieure (incluse)] ;
+
+-pour les états bon, moyen et médiocre :] valeur de la limite inférieure (exclue), valeur de la limite supérieure (incluse)] ;
+
+-pour l'état mauvais : [valeur de la limite inférieure (incluse), valeur de la limite supérieure (incluse)].
+
+La classification s'établit en calculant la moyenne des indices obtenus sur chacune des années à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 45 ci-dessous.
+
+Tableau 45 : valeurs limites des classes d'état, exprimées en EQR, par type de cours d'eau pour l'indice IPR +
+
+CLASSES D'ÉTAT
+
+|
+
+VALEURS DES LIMITES
+
+supérieure et inférieure de classe d'état
+
+|
+
+Très bon
+
+|
+
+[1 ; 0,855 [
+
+|
+
+Bon
+
+|
+
+[0,855 ; 0,700 [
+
+|
+
+Moyen
+
+|
+
+[0,700 ; 0,467 [
+
+|
+
+Médiocre
+
+|
+
+[0,467 ; 0,233 [
+
+|
+
+Mauvais
+
+|
+
+[0,233 ; 0,000]
+
+|
+
 2. Indices, valeurs seuils et modalités de calcul de l'état des éléments de qualité de l'état écologique des plans d'eau
+
+L'ensemble des indices utilisables seront calculés à l'aide du système d'évaluation de l'état des eaux présenté au point 3 de l'annexe 9 dès mise à disposition sur l'outil ou d'un système équivalent utilisant les mêmes algorithmes. Les résultats fournis ne devront pas être arrondis.
 
 Les indices, valeurs seuils et modalités de calcul de l'état des éléments de qualité de l'état écologique des plans d'eau sont les suivants :
 
@@ -3420,17 +7108,15 @@ Les indices, valeurs seuils et modalités de calcul de l'état des éléments de
 
 2.1.1. Phytoplancton
 
-L'indice biologique phytoplanctonique à utiliser est l'IPLAC : indice phytoplanctonique lacustre. L'IPLAC est un indice d'évaluation de l'état écologique des plans d'eau constitué de deux métriques, l'une rendant compte de la biomasse phytoplanctonique totale [chlorophylle (a)] et l'autre de l'abondance et de la composition taxonomique. Il s'applique aux lacs naturels et aux plans d'eau artificiels de la métropole.
+L'indice biologique phytoplanctonique à utiliser est l'indice phytoplanctonique lacustre (IPLAC-code Sandre 1017). L'IPLAC est un indice d'évaluation de l'état écologique des plans d'eau constitué de deux métriques, l'une rendant compte de la biomasse phytoplanctonique totale (chlorophylle (a)) et l'autre de l'abondance et de la composition taxonomique. Il s'applique aux lacs naturels et aux plans d'eau d'origine anthropique de la métropole.
 
-Le tableau 47 ci-dessous indique les valeurs des limites de classe pour l'indice IPLAC exprimées en EQR. Les formules de calcul des valeurs de référence seront précisées dans le rapport technique intitulé Indices de bioindications pour les plans d'eau (IPLAC, IBML, IIL) : grilles de valeurs-seuils et valeur de référence par sites pour les plans d'eau nationaux, à paraître en 2015.
+Le tableau 46 ci-dessous indique les valeurs des limites de classe pour l'indice IPLAC exprimées en EQR. Les formules de calcul des valeurs de référence sont précisées dans le rapport technique : Feret T. Laplace-Treyture C., 2013. IPLAC : l'indice phytoplancton lacustre : méthode de développement, description et application nationale 2012. Rapport final. Irstea 69 p.
 
-La classification de l'état pour l'élément de qualité biologique phytoplancton s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 47 ci-dessous.
+La classification de l'état pour l'élément de qualité biologique phytoplancton s'établit en calculant la moyenne des notes d'indices (exprimées en EQR) obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis en comparant cette moyenne aux limites de classe indiquées dans le tableau 46 ci-dessous.
 
-Tableau 47 : Valeurs des limites de classes d'état exprimées en EQR pour l'indice phytoplanctonique lacustre (IPLAC)
+Tableau 46 : valeurs des limites de classes d'état, exprimées en EQR, pour l'indice phytoplanctonique lacustre (IPLAC)
 
-ÉLÉMENTS
-
-DE QUALITÉ
+ELEMENTS DE QUALITE
 
 |
 
@@ -3438,23 +7124,23 @@ INDICE
 
 |
 
-LIMITES DES CLASSES D'ÉTAT en EQR
+LIMITES DES CLASSES D'ETAT en EQR
 
 |
 
-Très bon/Bon
+Très bon/ Bon
 
 |
 
-Bon/Moyen
+Bon/ Moyen
 
 |
 
-Moyen/Médiocre
+Moyen/ Médiocre
 
 |
 
-Médiocre/Mauvais
+Médiocre/ Mauvais
 
 |
 
@@ -3462,7 +7148,7 @@ Phytoplancton
 
 |
 
-IPLAC (indice planctonique lacustre)
+IPLAC (Indice planctonique Lacustre)
 
 |
 
@@ -3482,19 +7168,17 @@ IPLAC (indice planctonique lacustre)
 
 |
 
-Les valeurs obtenues de l'indice sont valides dès lors que les protocoles de prélèvement et d'analyse sont conformes à ceux prescrits dans l'arrêté du 25 janvier 2010 établissant le programme de surveillance de l'état des eaux, en application de l'article R. 212-22 du code de l'environnement, dans les limites d'application des modèles qui sont précisées dans le document suivant : Feret T., Laplace-Treyture C., 2013. IPLAC : l'indice phytoplancton lacustre : Méthode de développement, description et application nationale. Rapport final. Irstea Groupement de Bordeaux, Unité de Recherche Réseaux, Epuration et Qualité des Eaux. Rapport, 69 p. Se référer aussi à ce document pour le détail de la méthode de calcul de l'indice.
+Les valeurs obtenues de l'indice sont valides dès lors que les protocoles de prélèvement et d'analyse sont conformes à ceux prescrits dans l'arrêté du 25 janvier 2010 établissant le programme de surveillance de l'état des eaux, en application de l'article R. 212-22 du code de l'environnement, dans les limites d'application des modèles qui sont précisées dans le document suivant : Feret T. Laplace-Treyture C., 2013. IPLAC : l'indice phytoplancton lacustre : méthode de développement, description et application nationale 2012. Rapport final. Irstea 69 p. Se référer aussi à ce document pour le détail de la méthode de calcul de l'indice.
 
 2.1.2. Macrophytes
 
-L'indice biologique macrophytique à utiliser est l'IBML : indice biologique macrophytique en lac. L'IBML est un indice de bioindication constitué à ce jour d'une métrique, la Note de Trophie. Le tableau 48 ci-dessous indique les valeurs de limites de classe de cette métrique exprimées en EQR, applicables aux plans d'eau naturels et d'origine anthropique de la typologie nationale. Ces valeurs sont données par méta-types IBML de plans d'eau regroupant les types nationaux de plans d'eau macrophytes pertinents selon leur altitude et leur alcalinité.
+L'indice biologique macrophytique à utiliser est l'indice biologique macrophytique en lac (IBML-code Sandre : 7982). L'IBML est un indice de bioindication constitué à ce jour d'une métrique, la Note de Trophie. Le tableau 47 ci-dessous indique les valeurs de limites de classe de cette métrique exprimées en EQR, applicables aux plans d'eau naturels et d'origine anthropique de la typologie nationale. Ces valeurs sont calculées par méta-types IBML de plans d'eau regroupant les types nationaux de plans d'eau macrophytes pertinents selon leur altitude et leur alcalinité.
 
-La classification de l'état pour l'élément de qualité biologique macrophytes s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 48 ci-dessous. Les formules de calcul des valeurs de référence seront précisées dans le rapport technique intitulé Indices de bioindications pour les plans d'eau (IPLAC, IBML, IIL) : grilles de valeurs seuils et valeur de référence par sites pour les plans d'eau nationaux , à paraître en 2015.
+La classification de l'état pour l'élément de qualité biologique macrophytes s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 47 ci-dessous. Les formules de calcul des valeurs de référence seront précisées dans le rapport technique suivant : Boutry S., Bertrin V. Dutartre A., 2015. Indice biologique macrophytique lac (IBML). Notice de calcul. Irstea, EABX. 30 p.
 
-Tableau 48 : Valeurs de limites de classes d'état exprimées en EQR applicables aux plans naturels et d'origine anthropique
+Tableau 47 : valeurs de limites de classes d'état, exprimées en EQR, applicables aux plans naturels et d'origine anthropique
 
-ÉLÉMENTS
-
-DE QUALITÉ
+ELEMENTS DE QUALITE
 
 |
 
@@ -3502,23 +7186,23 @@ INDICE
 
 |
 
-LIMITES DES CLASSES D'ÉTAT IBML en EQR
+LIMITES DES CLASSES D'ETAT IBML en EQR
 
 |
 
-Très bon/Bon
+Très bon/ Bon
 
 |
 
-Bon/Moyen
+Bon/ Moyen
 
 |
 
-Moyen/Médiocre
+Moyen/ Médiocre
 
 |
 
-Médiocre/Mauvais
+Médiocre/ Mauvais
 
 |
 
@@ -3546,31 +7230,27 @@ IBML
 
 |
 
-Le détail du calcul de la métrique Note de Trophie constitutive de l'IBML, les règles de calcul et d'évaluation sont disponibles dans le document suivant : Boutry S., Bertrin V., Dutartre A., 2013. Méthode d'évaluation de la qualité écologique des plans d'eau basée sur les communautés de macrophytes. Indice biologique macrophytique en lac (IBML) - Rapport d'avancement. Irstea, REBX, Rapport d'étape, 26 p. + annexes.
+Le détail du calcul de la métrique Note de Trophie constitutive de l'IBML, les règles de calcul et d'évaluation sont disponibles dans le document suivant : Boutry S., Bertrin V., Dutartre A., 2015. Indice biologique macrophytique lac (IBML). Notice de calcul. Irstea, EABX. 30 p.
 
 2.1.3. Poissons
 
-L'indice biologique poisson à utiliser est l'IIL : Indice ichtyofaune lacustre.
+L'indice biologique poisson à utiliser est l'indice ichtyofaune lacustre (IIL-code Sandre : 1018).
 
-Le tableau 49 ci-dessous indique les valeurs des limites de classe par type de plans d'eau pour l'IIL exprimées en EQR. Cet indice s'applique aux seuls plans d'eau naturels de métropole de la typologie nationale des plans d'eau. Il ne s'applique pas aux plans d'eau artificiels de la typologie nationale ni aux DOM.
+Le tableau 48 ci-dessous indique les valeurs des limites de classe par type de plans d'eau pour l'IIL exprimées en EQR. Cet indice s'applique aux seuls plans d'eau naturels de métropole de la typologie nationale des plans d'eau. Il ne s'applique pas aux plans d'eau d'origine anthropique de la typologie nationale ni aux DOM.
 
 Les limites de chaque classe sont prises en compte de la manière suivante :
 
-- pour l'état très bon : [valeur de la limite inférieure (inclue), valeur de la limite supérieure (inclue)] ;
+-pour l'état très bon : [valeur de la limite inférieure (incluse), valeur de la limite supérieure (exclue) [;-pour les états bon, moyen et médiocre : [valeur de la limite inférieure (incluse), valeur de la limite supérieure (exclue) [;
 
-- pour les états bon, moyen et médiocre : [valeur de la limite inférieure (inclue), valeur de la limite supérieure (exclue)] ;
+-pour l'état mauvais : < valeur de la limite supérieure (exclue).
 
-- pour l'état mauvais : < valeur de la limite supérieure (exclue).
+L'indice ichtyofaune lacustre à utiliser est détaillé dans le guide méthodologique intitulé Principes et méthodes de calcul de l'indice ichtyofaune lacustre, IIL. janvier 2018 (auteurs : Logez M., Maire A. et Argillier C.) , avec le protocole d'échantillonnage NF EN 14757 (2005).
 
-L'indice ichtyofaune lacustre à utiliser est détaillé dans le guide méthodologique intitulé Principes et méthodes de l'indice ichtyofaune lacustre (à paraître en 2015), avec le protocole d'échantillonnage NF EN 14757 (2005).
+La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'annexe 9 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 48 ci-dessous. Les valeurs de référence, par plan d'eau, ainsi que la formule de calcul de la note en EQR sont précisées dans le rapport technique intitulé Principes et méthodes de calcul de l'indice ichtyofaune lacustre, IIL. Version 2017 (auteurs : Logez M., Maire A. et Argillier C.).
 
-La classification de l'état pour l'élément de qualité biologique poissons s'établit en calculant la moyenne des indices obtenus à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 49 ci-dessous. Les valeurs de référence, par plan d'eau, ainsi que la formule de calcul de la note en EQR seront précisées dans le rapport technique intitulé Indices de bioindications pour les plans d'eau (IPLAC, IBML, IIL) : grilles de valeurs seuils et valeur de référence par sites pour les plans d'eau nationaux , à paraître en 2015.
+Tableau 48 : valeurs de limites des classes d'état, exprimées en EQR, pour l'indice ichtyofaune lacustre (IIL)
 
-Tableau 49 : Valeurs de limites des classes d'état exprimées en EQR pour l'indice ichtyofaune lacustre (IIL)
-
-ÉLÉMENTS
-
-DE QUALITÉ
+ELEMENTS DE QUALITE
 
 |
 
@@ -3578,23 +7258,23 @@ INDICE
 
 |
 
-LIMITES DES CLASSES D'ÉTAT IIL en EQR
+LIMITES DES CLASSES D'ETAT IIL en EQR
 
 |
 
-Très bon/Bon
+Très bon/ Bon
 
 |
 
-Bon/Moyen
+Bon/ Moyen
 
 |
 
-Moyen/Médiocre
+Moyen/ Médiocre
 
 |
 
-Médiocre/Mauvais
+Médiocre/ Mauvais
 
 |
 
@@ -3606,79 +7286,523 @@ IIL
 
 |
 
-0,8
+0,733
 
 |
 
-0,6
+0,494
 
 |
 
-0,4
+0,35
 
 |
 
-0,2
+0,175
 
 |
 
 2.1.4. Cas des départements d'outre-mer
 
-Les indices biologiques des 2.1.1, 2.1.2 et 2.1.3 ne s'appliquent pas aux départements d'outre-mer. Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologiques dans les départements d'outre-mer. Certains éléments de qualité ou paramètres physico-chimiques généraux, ou certaines valeurs seuils, n'y sont pas non plus adaptés. Le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
+Les indices biologiques des 2.1.1,2.1.2 et 2.1.3 ne s'appliquent pas aux départements d'outre-mer. Les connaissances actuelles ne permettent pas de fixer des indices et valeurs seuils fiables pour les éléments de qualité biologique dans les départements d'outre-mer. Certains éléments de qualité ou paramètres physico-chimiques généraux, ou certaines valeurs-seuils, n'y sont pas non plus adaptés. Le préfet coordonnateur de bassin évalue l'état écologique des masses d'eau de surface, au regard des définitions normatives de l'annexe 1 au présent arrêté, en s'appuyant sur les connaissances actuelles, des indicateurs provisoires et le dire d'expert.
 
 2.2. Eléments physico-chimiques généraux pour les plans d'eau
 
 2.2.1. Cas général
 
-Le tableau 50 ci-dessous indique les valeurs des limites de classe pour les paramètres des éléments physico-chimiques généraux pour les plans d'eau. Les limites de classes pour les paramètres des éléments nutriment et transparence varient en fonction de la profondeur moyenne des plans d'eau. Pour les plans d'eau soumis à de fortes variations de niveau d'eau, la profondeur moyenne du plan d'eau est établie en référence à la cote moyenne du plan d'eau ou à la cote normale d'exploitation. Les méthodes utilisées pour déterminer les limites de classes sont précisées dans le document suivant :
+Le tableau 49 ci-dessous indique les valeurs des limites de classe pour les paramètres des éléments physico-chimiques généraux pour les plans d'eau. Les limites de classes pour les paramètres des éléments nutriment et transparence varient en fonction de la profondeur moyenne des plans d'eau. Pour les plans d'eau soumis à de fortes variations de niveau d'eau, la profondeur moyenne du plan d'eau est établie en référence à la cote moyenne du plan d'eau ou à la cote normale d'exploitation. Les méthodes utilisées pour déterminer les limites de classes sont précisées dans le document suivant :
 
-Danis, P.-A. & V. Roubeix (2014) : Physico-chimie soutenant la biologie des plans d'eau nationaux : Principes et méthodes de définition des valeurs seuils & Amélioration des connaissances par la télédétection. Rapport d'avancement. Convention Onema/Irstea 2013. 82 p.
+Danis, P.-A. & V. Roubeix (2014) : Physico-chimie soutenant la biologie des plans d'eau nationaux : Principes et méthodes de définition des valeurs-seuils & Amélioration des connaissances par la télédétection. Rapport d'avancement. Convention Onema/ Irstea 2013. Pp 82.
 
-Tableau 50 : Paramètres physico-chimiques des éléments nutriments et transparence et calculs des valeurs seuils
+Tableau 49 : paramètres physico-chimiques des éléments nutriments et transparence et calculs des valeurs seuils
 
-Vous pouvez consulter l'image dans le fac-similé du
+Paramètres
 
-JOnº 0198 du 28/08/2015, texte nº 4
+physico-chimiques
+
+|
+
+Unité
+
+|
+
+Limite
+
+|
+
+Paramètres de calcul
+
+|
+
+Calcul
+
+|
+
+a
+
+|
+
+b
+
+|
+
+c
+
+|
+
+d
+
+|
+
+Zmoy = profondeur moyenne (m)
+
+|
+
+Phoshore total (médiane1)
+
+|
+
+μ g P. L-1
+
+|
+
+Très bon-Bon
+
+|
+
+44,174
+
+|
+
+-0,315
+
+|
+
+57,744
+
+|
+
+-0,324
+
+|
+
+minimum entre [a*Zmoy ^ b] et [c* (Zmoy + 1) ^ d]
+
+|
+
+Bon-Moyen
+
+|
+
+61,714
+
+|
+
+-0,310
+
+|
+
+95,841
+
+|
+
+-0,267
+
+|
+
+Moyen-Médiocre
+
+|
+
+86,234
+
+|
+
+-0,306
+
+|
+
+159,92
+
+|
+
+-0,210
+
+|
+
+Médiocre-Mauvais
+
+|
+
+120,63
+
+|
+
+-0,302
+
+|
+
+268,66
+
+|
+
+-0,153
+
+|
+
+Ammonium (valeur maximale)
+
+|
+
+μ g NH4. L-1
+
+|
+
+Très bon-Bon
+
+|
+
+223,58
+
+|
+
+-0,248
+
+|
+
+199,25
+
+|
+
+-0,223
+
+|
+
+Bon-Moyen
+
+|
+
+290,91
+
+|
+
+-0,245
+
+|
+
+283,69
+
+|
+
+-0,185
+
+|
+
+Moyen-Médiocre
+
+|
+
+378,71
+
+|
+
+-0,241
+
+|
+
+404,53
+
+|
+
+-0,145
+
+|
+
+Médiocre-Mauvais
+
+|
+
+494,03
+
+|
+
+-0,238
+
+|
+
+578,19
+
+|
+
+-0,106
+
+|
+
+Profondeur du disque de Secchi (médiane)
+
+|
+
+m
+
+|
+
+Très bon-Bon
+
+|
+
+1,1741
+
+|
+
+0,284
+
+|
+
+0,9989
+
+|
+
+0,277
+
+|
+
+maximum entre [a*Zmoy ^ b] et [c* (Zmoy + 1) ^ d]
+
+|
+
+Bon-Moyen
+
+|
+
+0,8703
+
+|
+
+0,279
+
+|
+
+0,6492
+
+|
+
+0,228
+
+|
+
+Moyen-Médiocre
+
+|
+
+0,6447
+
+|
+
+0,275
+
+|
+
+0,4208
+
+|
+
+0,180
+
+|
+
+Médiocre-Mauvais
+
+|
+
+0,4766
+
+|
+
+0,271
+
+|
+
+0,2722
+
+|
+
+0,131
+
+|
+
+|
+
+Zmoy ≤ 15
+
+|
+
+Zmoy > 15
+
+|
+
+Nitrates (valeur maximale)
+
+|
+
+µg NO3. L-1
+
+|
+
+Très bon-Bon
+
+|
+
+|
+
+2200
+
+|
+
+1200
+
+|
+
+Bon-Moyen
+
+|
+
+5300
+
+|
+
+2600
+
+|
+
+Moyen-Médiocre
+
+|
+
+12600
+
+|
+
+5600
+
+|
+
+Médiocre-Mauvais
+
+|
+
+30100
+
+|
+
+12100
+
+|
+
+1 Pour le Phosphore total, le fait de prendre en compte la valeur médiane peut parfois conduire, selon les mesures disponibles, à des valeurs faibles et non délassantes en contradiction avec le résultat de l'indice IPLAC. Dans ces cas, une expertise sur la distribution des valeurs de phosphore total est à réaliser et les valeurs seuils de phosphore total calculées pourront être considérées à titre indicatives.
+
+|
 
 Les valeurs seuils calculées à l'aide du tableau 50 ci-dessus sont arrondies :
 
-- au microgramme/litre supérieur pour le phosphore total et l'ammonium ;
+-au microgramme/ litre supérieur pour le phosphore total et l'ammonium ;
 
-- au centimètre près inférieur pour la profondeur et la transparence.
+-au centimètre près inférieur pour la profondeur et la transparence.
 
-Tableau 51 : Autres paramètres physico-chimiques généraux
+Tableau 50 : autres paramètres physico-chimiques généraux
 
-Vous pouvez consulter l'image dans le fac-similé du
+Paramètres par élément de qualité
 
-JOnº 0198 du 28/08/2015, texte nº 4
+|
 
-L'Ilox, indice de saturation en oxygène, peut être pris en compte à titre complémentaire afin de conforter l'évaluation de l'état de l'élément de qualité relatif au bilan d'oxygène.
+Limites des classes d'état
 
-Ces paramètres et valeurs seuils sont applicables dès lors que les protocoles de prélèvements et d'analyse sont conformes à ceux prescrits dans l'arrêté du 25 janvier 2010 établissant le programme de surveillance de l'état des eaux en application de l'article R. 212-22 du code de l'environnement. Les paramètres sont mesurés sur un échantillon intégré sur la zone euphotique (2,5 fois la transparence au disque de Secchi) au point de plus grande profondeur du plan d'eau, conformément aux dispositions de ce même arrêté.
+|
 
-La classification de l'état physico-chimique prend en compte les données acquises conformément aux dispositions de l'article 12 du présent arrêté. La classification de l'état physico-chimique des plans d'eau s'établit de la manière suivante :
+Très bon/ Bon
 
-- lorsque le plan d'eau fait l'objet d'une seule année de suivis au cours de la période à prendre en compte au titre de l'article 12, la classification s'établit en comparant aux valeurs du tableau n° 50 :
+|
 
-- la médiane des valeurs observées pour le phosphore total et la profondeur du disque de Secchi ;
+Bon/ Moyen
 
-- la valeur maximale pour l'ammonium et les nitrates ;
+|
 
-- lorsque le plan d'eau fait l'objet de plusieurs années de suivis au cours de la période à prendre en compte au titre de l'article 12, la classification s'établit en comparant aux valeurs du tableau n° 50 les valeurs médianes des évaluations annuelles telles que calculées ci-dessus.
+Moyen/ Médiocre
+
+|
+
+Médiocre/ Mauvais
+
+|
+
+Bilan de l'oxygène 1
+
+|
+
+Présence ou absence d'une désoxygénation de l'hypolimnion en % du déficit observé entre la surface et le fond pendant la période estivale (pour les lacs stratifiés)
+
+|
+
+*
+
+|
+
+50
+
+|
+
+*
+
+|
+
+*
+
+|
+
+Salinité
+
+|
+
+*
+
+|
+
+Acidification
+
+|
+
+Température
+
+|
+
+1 Bilan de l'oxygène : Paramètre et limite donnés à titre indicatif (CEMAGREF). L'élément de qualité est classé en état bon si la désoxygénation est inférieure à 50 %.
+
+* pas de valeurs établies, à ce stade des connaissances ; seront fixées ultérieurement
+
+|
+
+L'Ilox, indice de saturation en oxygène, peut être pris en compte à titre complémentaire afin conforter l'évaluation de l'état de l'élément de qualité relatif au bilan d'oxygène.
+
+Ces paramètres et valeurs seuils sont applicables dès lors que les protocoles de prélèvements et d'analyse sont conformes à ceux prescrits dans l'arrêté du 25 janvier 2010 établissant le programme de surveillance de l'état des eaux en application de l'article R. 212-22 du code de l'environnement et dans le guide pour la demande de prestation d'échantillonnage et d'analyse physico-chimique dans le cadre de la surveillance DCE publié par le ministère de la Transition écologique et solidaire, dans sa version la plus récente.
+
+La classification de l'état physico-chimique prend en compte les données acquises conformément aux dispositions de l'annexe 9 du présent arrêté. La classification de l'état physico-chimique des plans d'eau s'établit de la manière suivante :
+
+-lorsque le plan d'eau fait l'objet d'une seule année de suivis au cours de la période à prendre en compte au titre de l'annexe 9, la classification s'établit en comparant aux valeurs du tableau n° 49 :
+
+-la médiane des valeurs observées pour le phosphore total et la profondeur du disque de Secchi ;
+
+-la valeur maximale pour l'ammonium et les nitrates ;
+
+-lorsque le plan d'eau fait l'objet de plusieurs années de suivis au cours de la période à prendre en compte au titre de l'annexe 9, la classification s'établit en comparant aux valeurs du tableau n° 49 les valeurs médianes des évaluations annuelles telles que calculées ci-dessus.
 
 Lorsque les concentrations mesurées pour un paramètre sont inférieures à sa limite de quantification, la valeur de la concentration à prendre en compte est celle de la limite de quantification de ce paramètre divisée par deux.
 
-2.2.2. Cas des exceptions typologiques
+2.2.2. Cas des exceptions locales
 
-Les limites données par le tableau 50 pour la transparence peuvent être adaptées selon les types de plans d'eau, en particulier pour les types de plans d'eau naturellement peu transparents sans cause anthropique (en particulier, les lacs peu profonds et de petite taille et/ou riches en acides humiques).
-
-2.2.3. Cas des exceptions locales
-
-Certains éléments de qualité ou paramètres, ou certaines valeurs seuils, s'avèrent non pertinents localement, sur certains sites ou certaines masses d'eau, car la valeur de ces éléments ou paramètres est naturellement influencé localement sans cause anthropique significative. Dans ce cas, on ne considère pas ces éléments ou paramètres pour évaluer l'état de cette ou de ces masses d'eau. Cette non-utilisation devra être dûment justifiée, avec des arguments objectifs montrant la cause naturelle et l'absence d'influence anthropique significative sur cet élément ou paramètre.
+Certains éléments de qualité ou paramètres, ou certaines valeurs seuils, s'avèrent non pertinents localement, sur certains sites ou certaines masses d'eau, car la valeur de ces éléments ou paramètres sont naturellement influencés localement sans cause anthropique significative. Dans ce cas, on ne considère pas ces éléments ou paramètres pour évaluer l'état de cette ou de ces masses d'eau. Cette non-utilisation devra être dûment justifiée, avec des arguments objectifs montrant la cause naturelle et l'absence d'influence anthropique significative sur cet élément ou paramètre.
 
 Si les raisons naturelles influençant les éléments ou paramètres de physico-chimie soutenant la biologie entraînent une impossibilité d'atteindre les valeurs seuils du type concerné pour un ou des éléments biologiques qui en dépendent directement, on ne considère pas non plus ces éléments ou paramètres pour évaluer l'état de cette ou de ces masses d'eau.
 
-2.2.4. Cas des départements d'outre-mer
+2.2.3. Cas des départements d'outre-mer
 
 Certains éléments de qualité ou paramètres physico-chimiques généraux, ou certaines valeurs seuils, ne sont pas adaptés aux spécificités des départements d'outre-mer.
 
@@ -3690,116 +7814,18 @@ Les principes définis à la partie 1.3 de la présente annexe pour les cours d'
 
 2.4. Eléments hydromorphologiques pour les plans d'eau
 
-Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en très bon état écologique requiert des conditions peu ou pas perturbées des éléments de qualité hydromorphologiques (morphologie et régime hydrologique).
+Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau plan d'eau en très bon état écologique requiert des conditions peu ou pas perturbées des éléments de qualité hydromorphologiques (morphologie et régime hydrologique). Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en bon état écologique requiert des conditions des éléments de qualité hydromorphologiques permettant d'atteindre les valeurs des éléments de qualité biologique correspondant au bon état écologique.
 
-Conformément aux définitions de l'annexe 1, la classification d'une masse d'eau en bon état écologique requiert des conditions des éléments de qualité hydromorphologiques permettant d'atteindre les valeurs des éléments de qualité biologique correspondant au bon état écologique.
+Un indicateur hydromorphologique lacustre dénommé LAKHYC a été produit par le pôle R & D AFB-Irstea. Il permet d'apprécier la qualité hydromorphologique des masses d'eau en combinant l'observation des caractéristiques et des altérations hydromorphologiques des plans d'eau :
 
-Dans l'attente de la détermination des indicateurs et valeurs seuils pertinents de ces conditions des éléments hydromorphologiques, les informations disponibles concernant la caractérisation hydromorphologique des écosystèmes lacustres, notamment celles issues de l'application des protocoles CORILA, ALBER, CHARLI, Bathymétrie et SEDILAC, sont à considérer pour l'attribution de la classe très bon aux éléments de qualité hydromorphologiques.
+-à l'échelle du bassin versant (nature géologique, présence d'obstacles à la continuité sur les principaux tributaires, occupation des sols, imperméabilisation des sols et modifications des flux liquides …) ;
 
-3. Outils diagnostics complémentaires obligatoires pour les cours d'eau de métropole
+-à l'échelle des corridors (urbanisation des corridors, densité/ fragmentation de la ripisylve, voies de communication dans les corridors, etc.) ;
 
-3.1. Eléments biologiques
+-à l'échelle du plan d'eau (forme et artificialisation des rives, structure et gestion des macrophytes et de la ripisylve, forme et profondeurs de la cuvette, structure et nature du substrat, variation des niveaux d'eau, etc.).
 
-3.1.1. Indice biologique invertébrés pour la métropole
+Il fournit des classes de qualité hydromorphologique par paramètre et un indicateur global agrégeant ces différents résultats.
 
-L'indice biologique Invertébrés à utiliser à titre complémentaire pour les cours d'eau de métropole est l'indice invertébrés multi-métrique (I2M2) avec le protocole de prélèvement de la norme XP T90-333 de 2009 (puis NF T90-333 dès son entrée en vigueur) (protocole de prélèvement des macro-invertébrés aquatiques en rivières peu profondes) et le protocole de traitement au laboratoire d'échantillon contenant des macro-invertébrés de cours d'eau (puis NF T90-333 dès son entrée en vigueur) T90-388 de 2010 options 2, B et b, c ou d.
+Dans l'attente des premiers retours d'expérience et d'une future normalisation, cet indicateur pourra être utilisé pour guider les opérateurs dans l'appréciation par expertise de la qualité hydromorphologique des plans d'eau surveillés. Cette évaluation pourra être complétée par l'utilisation des données brutes issues de l'application BAVELA (bassin versant lacustres), CORILA (corridor rivulaire lacustre), ALBER (altération des berges), CHARLI (caractérisation des habitats et des rivages lacustres) et Bathymétrie.
 
-L'I2M2 est décrit dans les publications suivantes :
-
-Publication scientifique :
-
-MONDY C., VILLENEUVE B., ARCHAIMBAULT V., USSEGLIO-POLATERA P. (2012). A new macroinvertebrate-based multimetric index (I2M2) to evaluate ecological quality of French wadeable streams fulfilling the WFD demands: a taxonomical and trait approach. Ecological Indicators, 18: 452-457.
-
-Rapport technique :
-
-USSEGLIO-POLATERA P., LARRAS F., COULAUD R. (2014). Bioévaluation des cours d'eau peu profonds basée sur le compartiment des macro-invertébrés benthiques : I2M2 et outil diagnostique. Livret-guide. Document Université de Lorraine (LIEC), Octobre 2014, 59 p.
-
-Le tableau 52 ci-dessous indique les valeurs inférieures des limites de classe, exprimées en EQR, pour l'indice invertébrés multi-métrique, par type de cours d'eau, sous la forme suivante : a-b-c-d (a = limite inférieure du très bon état, b = limite inférieure du bon état, c = limite inférieure de l'état moyen, d = limite inférieure de l'état médiocre).
-
-La classification s'établit en calculant la moyenne des indices obtenus sur chacune des années à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 52 ci-dessous :
-
-Tableau 52 : Valeurs limites inférieures des classes d'état en EQR par type de cours d'eau pour l'indice I2M2
-
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
-
-Vous pouvez consulter l'image dans le fac-similé du
-
-JOnº 0198 du 28/08/2015, texte nº 4
-
-3.1.2. Indice biologique Poissons pour la métropole
-
-L'indice biologique Poissons à utiliser à titre complémentaire est l'indice Poisson de rivières + (IPR+) avec le protocole d'échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur).
-
-L'IPR + est décrit dans les publications suivantes :
-
-PONT D., DELAIGUE O., EYOUB S. (2015) (en cours de rédaction). Manuel d'utilisation de l'IPR+, révision de l'indice poisson rivière pour l'application de la DCE. Rapport technique Irstea.
-
-PONT D., DELAIGUE O., BELLIARD J., MARZIN A., LOGEZ M. (2013). Programme IPR+ : révision de l'indice poisson rivière pour l'application de la DCE - version V.2.0 de l'indicateur, février 2013. Rapport technique Irstea, 208 p.
-
-Le tableau 53 ci-dessous indique les valeurs des limites de classe par type de cours d'eau pour l'indice biologique Poissons. Les limites de chaque classe sont prises en compte de la manière suivante :
-
-- pour l'état très bon : [valeur de la limite inférieure (exclue), valeur de la limite supérieure (incluse)] ;
-
-- pour les états bon, moyen et médiocre : [valeur de la limite inférieure (exclue), valeur de la limite supérieure (incluse)] ;
-
-- pour l'état mauvais : [valeur de la limite inférieure (incluse), valeur de la limite supérieure (incluse)].
-
-La classification s'établit en calculant la moyenne des indices obtenus sur chacune des années à partir des données acquises conformément aux dispositions de l'article 12 du présent arrêté ; puis, en comparant cette moyenne aux limites de classe indiquées dans le tableau 53 ci-dessous.
-
-Tableau 53 : Valeurs limites des classes d'état en EQR par type de cours d'eau pour l'indice IPR+
-
-CLASSES D'ÉTAT
-
-|
-
-VALEURS DES LIMITES SUPÉRIEURE ET INFÉRIEURE DE CLASSE D'ÉTAT
-
-|
-
-Très bon
-
-|
-
-]0,855 ; 1]
-
-|
-
-Bon
-
-|
-
-]0,700 ; 0,855]
-
-|
-
-Moyen
-
-|
-
-]0,467 ; 0,700]
-
-|
-
-Médiocre
-
-|
-
-]0,233 ; 0,467]
-
-|
-
-Mauvais
-
-|
-
-[0,000 ; 0,233]
-
-|
-
-3.2. Cadrage pour l'utilisation de ces outils diagnostiques complémentaires au cours du deuxième cycle DCE
-
-Les nouveaux indices cours d'eau I2M2 et IPR+ seront pris en compte en tant qu'outils d'évaluation à partir du troisième cycle (2022-2027). Il convient donc de les mettre en œuvre dans les documents préparatoires au troisième cycle, notamment l'état des lieux 2019.
-
-Au cours du deuxième cycle (2016-2021), les nouveaux indices cours d'eau I2M2 et IPR+ doivent être utilisés comme outil d'amélioration de la connaissance, de diagnostic et d'amélioration de l'évaluation de l'état écologique, en vue de leur appropriation par l'ensemble des acteurs, mais également de définir précisément, grâce aux remontées de terrains, leurs limites d'application réelles en vue de leur amélioration.
+(2) Classes médiocre , moyen , mauvais .
