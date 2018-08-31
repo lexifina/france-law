@@ -4,592 +4,598 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° A la direction générale de la gendarmerie nationale, le chef du bureau :
 
-- de l'administration
+-de l'administration
 
-- du budget et de la réglementation
+-du budget et de la réglementation
 
-- du contrôle de gestion de l'évaluation et de la performance
+-du contrôle de gestion de l'évaluation et de la performance
 
-- du contrôle opérationnel des fichiers
+-du contrôle opérationnel des fichiers
 
-- des droits individuels
+-des effectifs et des référentiels
 
-- des effectifs et des référentiels
+-de la formation
 
-- de la formation
+-de la lutte anti-terroriste
 
-- de la lutte antiterroriste
+-médias
 
-- médias
+-à la mission du système d'information Agorha
 
-- à la mission du système d'information Agorha
+-de la mobilité et de la proximité numérique
 
-- de la mobilité et de la proximité numérique
+-de l'ordre public
 
-- de l'ordre public
+-de l'organisation
 
-- de l'organisation
+-du personnel civil
 
-- du personnel civil
+-du personnel sous-officier de gendarmerie et volontaire
 
-- du personnel sous-officier de gendarmerie et volontaire
+-du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
 
-- du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
+-de la police judiciaire
 
-- de la police judiciaire
+-de la préparation et du pilotage de la masse salariale
 
-- de la préparation et du pilotage de la masse salariale
+-de la programmation immobilière
 
-- de la programmation immobilière
+-prospective radiocommunication
 
-- prospective radiocommunication
+-de la qualité et de l'innovation participative
 
-- de la qualité et de l'innovation participative
+-des recours et de la protection fonctionnelle
 
-- des recours et de la protection fonctionnelle
+-du recrutement, des concours et des examens
 
-- du recrutement, des concours et des examens
+-de la réglementation et de la fonction militaire
 
-- de la réglementation et de la fonction militaire
+-des relations extérieures militaires de la gendarmerie nationale
 
-- des relations extérieures militaires de la gendarmerie nationale
+-des ressources financières
 
-- des ressources financières
+-de la sécurité routière des formations et moyens spécialisés
 
-- de la sécurité routière des formations et moyens spécialisés
+-des systèmes d'aide à l'enquête
 
-- des systèmes d'aide à l'enquête
+-chef du centre d'analyse et d'exploitation
 
-- chef du centre d'analyse et d'exploitation
+Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
-- Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+Chef d'une division à la direction de la coopération internationale
 
-- Chef d'une division à la direction de la coopération internationale
+Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
 
-- Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
+Chargé de fonction à la mission numérique de la gendarmerie nationale
 
-- Chargé de fonction à la mission numérique de la gendarmerie nationale
+Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
-- Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
+Au service de l'achat, des équipements et de la logistique de la sécurité intérieure, chef du bureau :
 
-- Au service de l'achat, des équipements et de la logistique de la sécurité intérieure, chef du bureau :
+-de la gestion des équipements
 
-- de la gestion des équipements
+-des marchés publics
 
-- du suivi budgétaire
-
-- des systèmes d'information logistiques
+-des matériels techniques
 
 2° Inspection générale de la gendarmerie nationale :
 
-- Chef du bureau :
+Chef du bureau :
 
-- d'audit financier administratif et technique
+-d'audit financier administratif et technique
 
-- des enquêtes administratives
+-des enquêtes administratives
 
-- des enquêtes judiciaires
+-des enquêtes judiciaires (jusqu'au 31 décembre 2018)
 
 3° Gendarmerie départementale :
 
-- Chef de la division des opérations de la région de gendarmerie :
+Chef de la division des opérations de la région de gendarmerie :
 
-- d'Aquitaine
+-d'Aquitaine
 
-- de Bourgogne
+-de Bourgogne
 
-- de Bretagne
+-de Bretagne
 
-- de Centre-Val de Loire
+-de Centre-Val-de-Loire
 
-- de Corse
+-de Corse
 
-- d'Ile-de-France
+-d'Ile-de-France
 
-- de Lorraine
+-de Lorraine
 
-- du Nord-Pas-de-Calais
+-du Nord-Pas-de-Calais
 
-- de Provence-Alpes-Côte d'Azur
+-de Provence-Alpes-Côte-d'Azur
 
-- de Rhône-Alpes
+-de Rhône-Alpes
 
-- Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
-- du Puy-de-Dôme
+-du Puy-de-Dôme
 
-- du Calvados
+-du Calvados
 
-- de la Marne
+-de la Marne
 
-- du Doubs
+-du Doubs
 
-- de la Haute-Vienne
+-de la Haute-Vienne
 
-- de la Somme
+-de la Somme
 
-- de la Vienne
+-de la Vienne
 
-- Commandant en second du groupement de gendarmerie départementale :
+Commandant en second du groupement de gendarmerie départementale :
 
-- de l'Ain
+-de l'Ain
 
-- de l'Aisne
+-de l'Aisne
 
-- de l'Allier
+-de l'Allier
 
-- des Alpes-de-Haute-Provence
+-des Alpes-de-Haute-Provence
 
-- des Alpes-Maritimes
+-des Alpes-Maritimes
 
-- de l'Ardèche
+-de l'Ardèche
 
-- des Ardennes
+-des Ardennes
 
-- de l'Ariège
+-de l'Ariège
 
-- de l'Aube
+-de l'Aube
 
-- de l'Aude
+-de l'Aude
 
-- de l'Aveyron
+-de l'Aveyron
 
-- du Cantal
+-du Cantal
 
-- de la Charente
+-de la Charente
 
-- de la Charente-Maritime
+-de la Charente-Maritime
 
-- du Cher
+-du Cher
 
-- de la Corrèze
+-de la Corrèze
 
-- des Côtes-d'Armor
+-des Côtes-d'Armor
 
-- de la Creuse
+-de la Creuse
 
-- des Deux-Sèvres
+-des Deux-Sèvres
 
-- de la Dordogne
+-de la Dordogne
 
-- de la Drôme
+-de la Drôme
 
-- de l'Essonne
+-de l'Essonne
 
-- de l'Eure
+-de l'Eure
 
-- d'Eure-et-Loir
+-d'Eure-et-Loir
 
-- du Finistère
+-du Finistère
 
-- du Gard
+-du Gard
 
-- du Gers
+-du Gers
 
-- du Haut-Rhin
+-du Haut-Rhin
 
-- de la Haute-Corse
+-de la Haute-Corse
 
-- de la Haute-Loire
+-de la Haute-Loire
 
-- de la Haute-Marne
+-de la Haute-Marne
 
-- de la Haute-Saône
+-de la Haute-Saône
 
-- de la Haute-Savoie
+-de la Haute-Savoie
 
-- des Hautes-Alpes
+-des Hautes-Alpes
 
-- des Hautes-Pyrénées
+-des Hautes-Pyrénées
 
-- d'Ille-et-Vilaine
+-d'Ille-et-Vilaine
 
-- de l'Indre
+-de l'Indre
 
-- d'Indre-et-Loire
+-d'Indre-et-Loire
 
-- du Jura
+-du Jura
 
-- des Landes
+-des Landes
 
-- de Loir-et-Cher
+-de Loir-et-Cher
 
-- de la Loire
+-de la Loire
 
-- du Lot
+-du Lot
 
-- de Lot-et-Garonne
+-de Lot-et-Garonne
 
-- de la Lozère
+-de la Lozère
 
-- de Maine-et-Loire
+-de Maine-et-Loire
 
-- de la Manche
+-de la Manche
 
-- de la Mayenne
+-de la Mayenne
 
-- de Meurthe-et-Moselle
+-de Meurthe-et-Moselle
 
-- de la Meuse
+-de la Meuse
 
-- du Morbihan
+-du Morbihan
 
-- de la Nièvre
+-de la Nièvre
 
-- de la Orne
+-de la Orne
 
-- des Pyrénées-Atlantiques
+-des Pyrénées-Atlantiques
 
-- des Pyrénées-Orientales
+-des Pyrénées-Orientales
 
-- de Saône-et-Loire
+-de Saône-et-Loire
 
-- de la Sarthe
+-de la Sarthe
 
-- de la Savoie
+-de la Savoie
 
-- de Seine-et-Marne
+-de Seine-et-Marne
 
-- du Tarn
+-du Tarn
 
-- de Tarn-et-Garonne
+-de Tarn-et-Garonne
 
-- du Territoire de Belfort
+-du Territoire de Belfort
 
-- du Val-d'Oise
+-du Val-d'Oise
 
-- du Var
+-du Var
 
-- de Vaucluse
+-de Vaucluse
 
-- de la Vendée
+-de la Vendée
 
-- des Vosges
+-des Vosges
 
-- de l'Yonne
+-de l'Yonne
 
-- des Yvelines
+-des Yvelines
 
-- Commandant de la compagnie de gendarmerie départementale :
+Commandant de la compagnie de gendarmerie départementale :
 
-- d'Aix-en-Provence
+-d'Aix-en-Provence
 
-- d'Alès
+-d'Alès
 
-- d'Angers
+-d'Angers
 
-- d'Annecy
+-d'Annecy
 
-- de L'Arbresle
+-de l'Arbresle
 
-- d'Arles
+-d'Arles
 
-- d'Arras
+-d'Arras
 
-- d'Aubagne
+-d'Aubagne
 
-- d'Auxerre
+-d'Auxerre
 
-- d'Avesnes-sur-Helpe
+-d'Avesnes-sur-Helpe
 
-- d'Avignon
+-d'Avignon
 
-- de Besançon
+-de Besançon
 
-- de Béziers
+-de Béziers
 
-- de Bonneville
+-de Bonneville
 
-- de Bouliac
+-de Bouliac
 
-- de Bourg-en-Bresse
+-de Bourg-en-Bresse
 
-- de Bourgoin-Jallieu
+-de Bourgoin-Jallieu
 
-- de Brignoles
+-de Brignoles
 
-- de Brive-la-Gaillarde
+-de Brive-la-Gaillarde
 
-- de Bron
+-de Bron
 
-- de Caen
+-de Caen
 
-- de Calais
+-de Calais
 
-- de Cambrai
+-de Cambrai
 
-- de Cannes
+-de Cannes
 
-- de Carcassonne
+-de Carcassonne
 
-- de Castelnau-le-Lez
+-de Castelnau-le-Lez
 
-- de Castres
+-de Castres
 
-- de Chambéry
+-de Chambéry
 
-- de Chantilly
+-de Chantilly
 
-- de Château-Gontier
+-de Château-Gontier
 
-- de Colmar
+-de Colmar
 
-- de Commercy
+-de Commercy
 
-- de Compiègne
+-de Compiègne
 
-- de Coulommiers
+-de Coulommiers
 
-- de Dax
+-de Crest
 
-- de Die
+-de Dax
 
-- de Douai
+-de Douai
 
-- de Draguignan
+-de Draguignan
 
-- d'Etampes
+-d'Etampes
 
-- d'Evry
+-d'Evry
 
-- de La Flèche
+-de la Flèche
 
-- de Gex
+-de Gex
 
-- de Givors
+-de Givors
 
-- de Grenoble
+-de Grenoble
 
-- de L'Isle-Adam
+-de l'Isle-Adam
 
-- de Langon
+-de Libourne
 
-- de Libourne
+-de Lille
 
-- de Lille
+-de Lorient
 
-- de Lorient
+-de Lunel
 
-- de Lunel
+-de Lure
 
-- de Lure
+-de Lyon
 
-- de Lyon
+-du Mans
 
-- du Mans
+-de Mantes-la-Jolie
 
-- de Mantes-la-Jolie
+-de Marmande
 
-- de Meaux
+-de Meaux
 
-- de Mérignac
+-de Mérignac
 
-- de Méru
+-de Méru
 
-- de Metz
+-de Metz
 
-- de Meylan
+-de Meylan
 
-- de Montbéliard
+-de Montbéliard
 
-- de Montbrison
+-de Montbrison
 
-- de Montmorency
+-de Montmorency
 
-- de Mulhouse
+-de Mulhouse
 
-- de Muret
+-de Muret
 
-- de Nancy
+-de Nancy
 
-- de Nantes
+-de Nantes
 
-- de Narbonne
+-de Narbonne
 
-- de Nîmes
+-de Nîmes
 
-- de Niort
+-de Niort
 
-- d'Orléans
+-d'Orléans
 
-- de Palaiseau
+-de Palaiseau
 
-- de Perpignan
+-de Perpignan
 
-- de Pertuis
+-de Pertuis
 
-- de Pézenas
+-de Pézenas
 
-- de Rambouillet
+-de Rambouillet
 
-- de Remiremont
+-de Remiremont
 
-- de Rennes
+-de Rennes
 
-- de Rezé
+-de Rezé
 
-- de La Roche-sur-Yon
+-de la Roche-sur-Yon
 
-- de Rochefort
+-de Rochefort
 
-- de Rodez
+-de Rodez
 
-- de Romans-sur-Isère
+-de Romans-sur-Isère
 
-- des Sables-d'Olonne
+-des Sables-d'Olonne
 
-- de Saint-Brieuc
+-de Saint-Brieuc
 
-- de Saint-Germain-en-Laye
+-de Saint-Germain-en-Laye
 
-- de Saint-Nazaire
+-de Saint-Nazaire
 
-- de Salon-de-Provence
+-de Salon-de-Provence
 
-- de Senlis
+-de Senlis
 
-- de Sens
+-de Sens
 
-- de Soultz-Guebwiller
+-de Soultz-Guebwiller
 
-- de Strasbourg
+-de Strasbourg
 
-- de Thionville
+-de Thionville
 
-- de Toulouse-Mirail
+-de Toulouse-Mirail
 
-- de Toulouse-Saint-Michel
+-de Toulouse-Saint-Michel
 
-- de Tournon-sur-Rhône
+-de Tournon-sur-Rhône
 
-- de Trévoux
+-de Trévoux
 
-- de Vannes
+-de Vannes
 
-- du Vauvert
+-du Vauvert
 
-- de Vesoul
+-de Vesoul
 
-- de Vienne
+-de Vienne
 
-- de Villefranche-de-Lauragais
+-de Villefranche-de-Lauragais
 
-- de Villefranche-sur-Saône
+-de Villefranche-sur-Saône
 
-- de Vitré
+-de Vitré
 
-- Commandant de la section de recherches :
+Commandant de la section de recherches :
 
-- de Besançon
+-de Besançon
 
-- de Caen
+-de Caen
 
-- de Chambéry
+-de Chambéry
 
-- de Clermont-Ferrand
+-de Clermont-Ferrand
 
-- de Grenoble
+-de Grenoble
 
-- de Limoges
+-de Limoges
 
-- de Metz
+-de Metz
 
-- de Nancy
+-de Nancy
 
-- de Nîmes
+-de Nîmes
 
-- de Pau
+-de Pau
 
-- de Poitiers
+-de Poitiers
 
-- de Rennes
+-de Rennes
 
-- de Rouen
+-de Rouen
 
 4° Outre-mer :
 
-- Commandant en second de la gendarmerie de Mayotte
+Commandant en second de la gendarmerie de Mayotte
 
-- Commandant de la section de recherche :
+Commandant de la section de recherche :
 
-- de Cayenne
+-de Cayenne
 
-- de Fort-de-France
+-de Fort-de-France
 
-- de Pointe-à-Pitre
+-de Pointe-à-Pitre
 
-- de Saint-Denis
+-de Saint-Denis
 
-- Commandant de la compagnie de gendarmerie départementale de :
+Commandant de la compagnie de gendarmerie départementale de :
 
-- de Saint-Paul
+-de Saint-Paul
 
-- de Saint-Pierre
+-de Saint-Pierre
 
 5° Gendarmeries spécialisées :
 
-- Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
-- Commandant en second d'un groupement de gendarmerie de l'air
+Commandant en second d'un groupement de gendarmerie de l'air
 
-- Commandant en second d'un groupement de gendarmerie maritime
+Commandant en second d'un groupement de gendarmerie maritime
 
-- Commandant en second d'un groupement de la gendarmerie des transports aériens
+Commandant en second d'un groupement de la gendarmerie des transports aériens
 
-- Commandant de la section de recherches de la gendarmerie des transports aériens
+Commandant de la section de recherches de la gendarmerie des transports aériens
 
-- Chef de la division des opérations de la gendarmerie de l'air
+Chef de la division des opérations de la gendarmerie de l'air
 
-- Chef de la division des opérations de la gendarmerie maritime
+Chef de la division des opérations de la gendarmerie maritime
 
-- Chef d'état-major de la gendarmerie de l'armement
+Chef d'état-major de la gendarmerie de l'armement
 
 6° Autres emplois :
 
-- Chef d'une division au commandement spécialisé pour la sécurité nucléaire
+Chef d'une division au commandement spécialisé pour la sécurité nucléaire
 
-- Chef du service de développement et de mise en œuvre des logiciels
+Chef du service de développement et de mise en œuvre des logiciels
 
-- Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
+Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
 
-- Commandant en second du service central de renseignement criminel de la gendarmerie nationale
+Commandant en second du service central de renseignement criminel de la gendarmerie nationale
 
-- Commandant en second de la gendarmerie prévôtale
+Commandant en second de la gendarmerie prévôtale
 
-- Commandant du groupe de sécurité de la présidence de la République
+Commandant du groupe de sécurité de la présidence de la République
 
-- Chef d'état-major du commandement des forces aériennes de la gendarmerie nationale
+Chef adjoint de l'unité de coordination des forces d'intervention
 
-- Chef adjoint de l'unité de coordination des forces d'intervention
+Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
-- Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
+Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
 
-- Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
+Chef du centre national d'administration de la solde gendarmerie
 
-- Chef du centre expert ressources humaines du commandement du soutien opérationnel de la gendarmerie nationale
+Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
-- Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+Officier de liaison auprès de l'association des maires de France
 
-- Officier de liaison auprès de l'association des maires de France
+Officier de liaison référent intelligence économique à l'assemblée des départements de France
 
-- Officier de liaison référent intelligence économique à l'assemblée des départements de France
+Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
-- Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
+Commandant en second de l'office central de lutte contre la délinquance itinérante
 
-- Commandant en second de l'office central de lutte contre la délinquance itinérante
+Commandant en second de l'office central de lutte contre le travail illégal
 
-- Commandant en second de l'office central de lutte contre le travail illégal
+Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
 
-- Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
+Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
 
-- Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
+Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
-- Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+Chef du centre de lutte contre les cyber-criminalités numériques
+
+Chef de la trésorerie militaire de la solde gendarmerie
+
+Chef de division au service central du renseignement territorial (2 emplois)
+
+Chef de division à la direction de la coopération internationale
+
+Chef de division au commandement spécialisé pour la sécurité nucléaire
 
 7° Ecoles :
 
-- Commandant de groupement à l'école des officiers de la gendarmerie nationale
+Commandant de groupement à l'école des officiers de la gendarmerie nationale
 
-- Commandant du groupement de l'école de guerre
+Commandant du groupement de l'école de guerre
 
-- Commandant du centre d'enseignement supérieur de la gendarmerie.
+Commandant du centre d'enseignement supérieur de la gendarmerie

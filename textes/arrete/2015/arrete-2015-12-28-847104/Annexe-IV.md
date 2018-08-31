@@ -4,236 +4,238 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
-- Chargé de mission au cabinet du directeur général de la gendarmerie nationale (7 emplois)
+Chargé de mission au cabinet du directeur général de la gendarmerie nationale (7 emplois)
 
-- Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (6 emplois)
+Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (6 emplois)
 
-- Chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
+Chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
 
-- Commandant militaire du site de la direction générale de la gendarmerie nationale
+Commandant militaire du site de la direction générale de la gendarmerie nationale
 
-- Chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
+Chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
 
-- Chargé de fonction auprès du chef du service de l'achat des équipements et de la logistique de la sécurité intérieure (1 emploi)
+Chargé de fonction auprès du chef du service de l'achat des équipements et de la logistique de la sécurité intérieure (1 emploi)
 
-- Chargé de fonction adjoint à la direction des opérations et de l'emploi
+Chargé de fonction adjoint à la direction des opérations et de l'emploi
 
-- Chef du service central des réseaux et technologies avancées
+Chef du service central des réseaux et technologies avancées
 
-- Chef du centre opérationnel de soutien infrastructure et logement
+Chef du centre opérationnel de soutien infrastructure et logement
 
-- Commandant du centre de planification et de gestion de crise
+Commandant du centre de planification et de gestion de crise
 
-- Chef de département à la mission du pilotage et de la performance
+Chef de département à la mission du pilotage et de la performance
 
-- Au sein de la direction générale de la gendarmerie nationale, chef du bureau :
+Au sein de la direction générale de la gendarmerie nationale, chef du bureau :
 
-- de l'analyse et de l'anticipation
+-de l'analyse et de l'anticipation
 
-- des affaires criminelles
+-des affaires criminelles
 
-- du cabinet
+-du cabinet
 
-- de la chancellerie
+-de la chancellerie
 
-- de la défense et sécurité nationale
+-de la défense et sécurité nationale
 
-- opérateur des réseaux radiocommunication
+-des droits individuels
 
-- des outils de soutien et des statistiques
+-opérateur des réseaux radiocommunication
 
-- du personnel officier
+-des outils de soutien et des statistiques
 
-- de la préparation et du pilotage du fonctionnement et de l'investissement
+-du personnel officier
 
-- de la sécurité publique
+-de la préparation et du pilotage du fonctionnement et de l'investissement
 
-- de la synthèse budgétaire
+-de la sécurité publique
 
-- Commandant du centre de renseignement opérationnel de la gendarmerie
+-de la synthèse budgétaire
 
-- Chef de la mission du système d'information Agorha
+Commandant du centre de renseignement opérationnel de la gendarmerie
 
-- Chef du bureau de l'habillement du service de l'achat, des équipements et de la logistique de la sécurité intérieure
+Chef du bureau de l'habillement du service de l'achat, des équipements et de la logistique de la sécurité intérieure
 
 2° Inspection générale de la gendarmerie nationale :
 
-- Inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
+Inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
 
-- Chargé de fonction à l'inspection générale de la gendarmerie nationale (3 emplois)
+Chargé de fonction à l'inspection générale de la gendarmerie nationale (2 emplois)
+
+Chef du bureau des enquêtes judiciaires (à compter du 1er janvier 2019)
 
 3° Gendarmerie départementale :
 
-- Chef d'état-major de la région de gendarmerie d'Ile de France
+Chef d'état-major de la région de gendarmerie d'Ile de France
 
-- Officier adjoint commandement d'une région de gendarmerie
+Officier adjoint commandement d'une région de gendarmerie
 
-- Officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
+Officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
 
-- Officier adjoint territorial à la région de gendarmerie de Pays-de-la-Loire, de Centre-Val-de-Loire, de Midi-Pyrénées et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+Officier adjoint territorial à la région de gendarmerie de Pays-de-la-Loire, de Centre-Val-de-Loire, de Midi-Pyrénées et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
 
-- Commandant du groupement de gendarmerie départementale :
+Commandant du groupement de gendarmerie départementale :
 
-- de l'Ariège
+-de l'Ariège
 
-- du Cantal
+-du Cantal
 
-- de la Creuse
+-de la Creuse
 
-- du Gers
+-du Gers
 
-- de la Haute-Loire
+-de la Haute-Loire
 
-- de la Haute-Marne
+-de la Haute-Marne
 
-- des Hautes-Alpes
+-des Hautes-Alpes
 
-- des Hautes-Pyrénées
+-des Hautes-Pyrénées
 
-- de l'Indre
+-de l'Indre
 
-- du Lot
+-du Lot
 
-- de la Lozère
+-de la Lozère
 
-- de la Mayenne
+-de la Mayenne
 
-- de la Meuse
+-de la Meuse
 
-- de Tarn-et-Garonne
+-de Tarn-et-Garonne
 
-- du Territoire de Belfort
+-du Territoire-de-Belfort
 
-- Commandant en second du groupement de gendarmerie départementale :
+Commandant en second du groupement de gendarmerie départementale :
 
-- des Bouches-du-Rhône
+-des Bouches-du-Rhône
 
-- de la Gironde
+-de la Gironde
 
-- de l'Isère
+-de l'Isère
 
-- de la Moselle
+-de la Moselle
 
-- du Nord
+-du Nord
 
-- de l'Oise
+-de l'Oise
 
-- du Pas-de-Calais
+-du Pas-de-Calais
 
-- du Rhône
+-du Rhône
 
-- Chef de la division des opérations de la région de gendarmerie :
+Chef de la division des opérations de la région de gendarmerie :
 
-- de Haute-Normandie
+-de Haute-Normandie
 
-- de Midi-Pyrénées
+-de Midi-Pyrénées
 
-- des Pays de la Loire
+-des Pays de la Loire
 
-- Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
-- du Bas-Rhin
+-du Bas-Rhin
 
-- de l'Hérault
+-de l'Hérault
 
-- Chef de la division de l'appui opérationnel d'une région de gendarmerie (zonale et non zonale) ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
+Chef de la division de l'appui opérationnel d'une région de gendarmerie (zonale et non zonale) ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
 
-4° Gendarmerie mobile - Garde républicaine :
+4° Gendarmerie mobile-Garde républicaine :
 
-- Chef d'état-major de la garde républicaine
+Chef d'état-major de la garde républicaine
 
-- Commandants de groupement de gendarmerie mobile à l'exception de celui de Maisons-Alfort
+Commandants de groupement de gendarmerie mobile à l'exception de celui de Maisons-Alfort
 
-- Commandant du premier régiment d'infanterie de la garde républicaine
+Commandant du premier régiment d'infanterie de la garde républicaine
 
-- Commandant du deuxième régiment d'infanterie de la garde républicaine
+Commandant du deuxième régiment d'infanterie de la garde républicaine
 
-- Commandant du régiment de cavalerie de la garde républicaine
+Commandant du régiment de cavalerie de la garde républicaine
 
 5° Gendarmeries spécialisées :
 
-- Commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+Commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
-- Commandant d'un groupement de gendarmerie de l'air
+Commandant d'un groupement de gendarmerie de l'air
 
-- Commandant d'un groupement de gendarmerie maritime
+Commandant d'un groupement de gendarmerie maritime
 
-- Commandant d'un groupement de gendarmerie des transports aériens
+Commandant d'un groupement de gendarmerie des transports aériens
 
-- Commandant en second de la gendarmerie de l'armement
+Commandant en second de la gendarmerie de l'armement
 
-- Chef de la division de l'appui opérationnel de la gendarmerie de l'air
+Chef de la division de l'appui opérationnel de la gendarmerie de l'air
 
-- Chef de la division de l'appui opérationnel de la gendarmerie maritime
+Chef de la division de l'appui opérationnel de la gendarmerie maritime
 
-- Chef d'état-major de la gendarmerie des transports aériens
+Chef d'état-major de la gendarmerie des transports aériens
 
-- Chef d'état-major de la gendarmerie de la sécurité des armements nucléaires
+Chef d'état-major de la gendarmerie de la sécurité des armements nucléaires
 
 6° Outre-mer :
 
-- Chef d'état-major du commandement de la gendarmerie d'outre-mer
+Chef d'état-major du commandement de la gendarmerie d'outre-mer
 
-- Commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
+Commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
 
-- Commandant en second de la gendarmerie :
+Commandant en second de la gendarmerie :
 
-- de Guadeloupe
+-de Guadeloupe
 
-- de Guyane française
+-de Guyane française
 
-- de Martinique
+-de Martinique
 
-- pour la Nouvelle-Calédonie (à compter du 1er juillet 2017)
+-pour la Nouvelle-Calédonie
 
-- pour la Nouvelle-Calédonie et les îles Wallis et Futuna (jusqu'au 30 juin 2017)
+-pour la Polynésie française
 
-- pour la Polynésie française
-
-- de La Réunion
+-de La Réunion
 
 7° Autres emplois :
 
-- Chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
+Chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
 
-- Conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
+Conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
 
-- Officier de liaison auprès du secrétariat général de la mer (1 emploi)
+Officier de liaison auprès du secrétariat général de la mer (1 emploi)
 
-- Officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi)
+Officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi)
 
-- Officier de liaison auprès du préfet de police de Paris (1 emploi)
+Officier de liaison auprès du préfet de police de Paris (1 emploi)
 
-- Chargé de mission à l'état-major opérationnel de prévention du terrorisme
+Chef de la mission de liaison de la gendarmerie
 
-- Chef de la mission de liaison de la gendarmerie
+Chef de l'unité de coordination des groupes d'intervention régionaux
 
-- Chef de l'unité de coordination des groupes d'intervention régionaux
+Adjoint au chef de l'unité de coordination de la lutte anti-terroriste
 
-- Chargé de mission gendarmerie auprès du secrétariat général pour la modernisation de l'action publique (service de coordination)
+Chargé de mission gendarmerie auprès du secrétariat général pour la modernisation de l'action publique (service de coordination)
 
-- Chargé de mission auprès de l'inspecteur des armements nucléaires
+Chargé de mission auprès de l'inspecteur des armements nucléaires
 
-- Chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
+Chargé de mission auprès du directeur général de la sécurité intérieure (1 emploi)
 
-- Officier de liaison à la direction des affaires criminelles et des grâces (1 emploi)
+Chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
 
-- Chargé de mission à l'inspection générale de l'administration
+Officier de liaison à la direction des affaires criminelles et des grâces (1 emploi)
 
-- Chargé de mission à la Cour des comptes
+Chargé de mission à l'inspection générale de l'administration
 
-- Chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
+Chargé de mission à la cour des comptes
 
-- Chargé de mission à la direction générale de l'administration et de la fonction publique
+Chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
 
-- Officier de liaison à la direction du budget
+Chargé de mission à la direction générale de l'administration et de la fonction publique
 
-- Secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
+Officier de liaison à la direction du budget
+
+Officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
+
+Secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
 
 8° Ecoles :
 
-- Commandant en second du centre national d'entraînement des forces de gendarmerie
+Chef d'état-major du commandement des écoles de la gendarmerie nationale
 
-- Chef d'état-major du commandement des écoles de la gendarmerie nationale
-
-- Directeur de l'enseignement de l'école des officiers de la gendarmerie nationale.
+Directeur de l'enseignement de l'école des officiers de la gendarmerie nationale
