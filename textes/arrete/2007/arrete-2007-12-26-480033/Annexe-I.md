@@ -28,14 +28,6 @@ II.-Direction de la stratégie
 
 |
 
-Service des recherches et technologies de défense et de sécurité
-
-|
-
-MAPA x 10
-
-|
-
 Centre d'analyse technico-opérationnelle de défense
 
 |
@@ -133,5 +125,9 @@ Centre technique des systèmes d'information
 MAPA x 10
 
 |
+
+VI. - Agence de l'innovation de défense |
+
+MAPA x 25 |
 
 (1) L'expression " MAPA x " s'entend comme suit : montant égal à " n " fois le seuil des marchés pouvant être passés selon la procédure adaptée, telle que définie à l'article 26-II (1°) du code des marchés publics. |

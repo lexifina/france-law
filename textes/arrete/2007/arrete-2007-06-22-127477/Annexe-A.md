@@ -168,6 +168,12 @@ MAPA × 0,66 |
 
 Direction générale de l'armement |
 
+|
+
+Directeur de l'agence de l'innovation de défense |
+
+MAPA x 25 |
+
 Direction des opérations |
 
 Chef du service des achats d'armement |
@@ -230,9 +236,7 @@ Service militaire volontaire-volontariat militaire d'insertion |
 
 Commandement du service militaire volontaire-volontariat militaire d'insertion |
 
-MAPA × 10 (11)
-
-|
+MAPA × 10 (11) |
 
 (1) L'expression "MAPA x" s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l' article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
 

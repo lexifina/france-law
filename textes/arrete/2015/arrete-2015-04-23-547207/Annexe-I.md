@@ -20,7 +20,7 @@ Direction générale de l'armement
 
 |
 
-Chef du service des recherches et technologies de défense et de sécurité
+Directeur de l'agence de l'innovation de défense
 
 |
 
@@ -136,7 +136,7 @@ Direction générale de l'armement
 
 |
 
-Chef du service des recherches et technologies de défense et de sécurité
+Directeur de l'agence de l'innovation de défense
 
 |
 
