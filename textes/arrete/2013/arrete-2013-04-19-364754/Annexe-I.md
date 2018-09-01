@@ -476,6 +476,8 @@ Second cas : lettres.
 
 L'épreuve consiste en l'étude d'un texte en vue de son inscription dans un objet d'étude du cycle de formation du baccalauréat professionnel ou dans une séquence de CAP, puis à partir du texte, en l'étude d'un point de langue (lexique, grammaire, orthographe) en vue d'un travail en lecture, en écriture ou en expression orale.
 
+Le texte est extrait d'un programme d'œuvres d'auteurs de langue française, périodiquement renouvelé et publié sur le site internet du ministère chargé de l'éducation nationale.
+
 Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
 
 2° Epreuve à partir d'un dossier (coefficient 4)
@@ -548,7 +550,9 @@ Durée de la préparation : deux heures trente minutes ; durée de l'épreuve : 
 
 L'épreuve consiste :
 
-a) En lettres, en l'étude d'un texte en vue de son inscription dans un objet d'étude du cycle de formation du baccalauréat professionnel ou dans une séquence de CAP, puis à partir du texte, en l'étude d'un point de langue (lexique, grammaire, orthographe) en vue d'un travail en lecture, en écriture ou en expression orale ;
+a) En lettres, en l'étude d'un texte en vue de son inscription dans un objet d'étude du cycle de formation du baccalauréat professionnel ou dans une séquence de CAP, puis à partir du texte, en l'étude d'un point de langue (lexique, grammaire, orthographe) en vue d'un travail en lecture, en écriture ou en expression orale.
+
+Le texte est extrait d'un programme d'œuvres d'auteurs de langue française, périodiquement renouvelé et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 b) En histoire et géographie, en la présentation d'une leçon portant sur un sujet d'histoire ou de géographie en fonction d'un tirage au sort au moment de l'épreuve.
 

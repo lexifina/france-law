@@ -288,7 +288,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coe
 
 Chaque partie de l'épreuve compte pour moitié dans l'attribution des points.
 
-2° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
+2° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française, extrait d'un programme d'œuvres périodiquement renouvelé et publié sur le site internet sur le site internet du ministère chargé de l'éducation nationale. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
 
@@ -302,7 +302,7 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuves d'admission
 
-1° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
+1° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française, extrait d'un programme d'œuvres périodiquement renouvelé. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
 
