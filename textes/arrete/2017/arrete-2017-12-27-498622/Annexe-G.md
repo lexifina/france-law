@@ -324,19 +324,25 @@ a) Assignation spécifique de la taxe d'aménagement et de la redevance d'arché
 
 DÉPARTEMENT DE RÉSIDENCE
 
-de la direction départementale des territoires (DDT), de la direction départementale des territoires et de la mer (DDTM) et de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France (DRIEA-IF) |
+de la direction départementale des territoires (DDT),
+
+de la direction départementale des territoires et de la mer (DDTM)
+
+et de la direction régionale et interdépartementale de l'équipement
+
+et de l'aménagement d'Île-de-France (DRIEA-IF) |
 
 COMPTABLE ASSIGNATAIRE |
 
-AIN, ARDECHE, DRÔME, LOIRE, RHÔNE |
+AIN, ALLIER, ARDECHE, CANTAL, DRÔME, ISERE, LOIRE, HAUTE-LOIRE, PUY-DE-DÔME, RHÔNE, SAVOIE, HAUTE-SAVOIE |
 
 Direction départementale des finances publiques de l'Ain |
 
-CALVADOS, MANCHE, ORNE |
+AISNE, CALVADOS, EURE, MANCHE, NORD, OISE, ORNE, PAS-DE-CALAIS, SEINE-MARITIME, SOMME |
 
 Direction départementale des finances publiques du Calvados |
 
-CHARENTE, CHARENTE-MARITIME, DEUX-SEVRES, VIENNE |
+CHARENTE, CHARENTE-MARITIME, CORREZE, CREUSE, DEUX-SEVRES, VIENNE, HAUTE-VIENNE |
 
 Direction départementale des finances publiques de la Charente-Maritime |
 
@@ -344,81 +350,49 @@ DORDOGNE, GIRONDE, LANDES, LOT-ET-GARONNE, PYRÉNÉES-ATLANTIQUES |
 
 Direction départementale des finances publiques de la Dordogne |
 
-DOUBS, JURA, HAUTE-SAÔNE, TERRITOIRE DE BELFORT |
-
-Direction départementale des finances publiques du Doubs |
-
-EURE, SEINE-MARITIME |
-
-Direction départementale des finances publiques de l'Eure |
-
-AUDE, GARD, HÉRAULT, LOZÈRE, PYRÉNÉES-ORIENTALES |
-
-Direction départementale des finances publiques du Gard |
-
-CHER, EURE-ET-LOIR, INDRE, INDRE-ET-LOIRE, LOIR-ET-CHER, LOIRET |
-
-Direction départementale des finances publiques d'Indre-et-Loire |
-
-ISÈRE, SAVOIE, HAUTE-SAVOIE |
-
-Direction départementale des finances publiques de l'Isère |
-
 LOIRE-ATLANTIQUE, MAINE-ET-LOIRE, MAYENNE, SARTHE, VENDÉE |
 
 Direction départementale des finances publiques de Maine-et-Loire |
 
-ARDENNES, AUBE, MARNE, HAUTE-MARNE |
-
-Direction départementale des finances publiques de la Marne |
-
-CÔTES D'ARMOR, FINISTÈRE ILLE-ET-VILAINE, MORBIHAN |
+CHER, CÔTES D'ARMOR, EURE-ET-LOIR, FINISTÈRE, ILLE-ET-VILAINE, INDRE, INDRE-ET-LOIRE, LOIR-ET-CHER, LOIRET, MORBIHAN |
 
 Direction départementale des finances publiques du Morbihan |
 
-PAS-DE-CALAIS, NORD |
+ARDENNES, AUBE, MARNE, HAUTE-MARNE, MEURTHE-ET-MOSELLE, MEUSE, MOSELLE, BAS-RHIN, HAUT-RHIN, VOSGES |
 
-Direction départementale des finances publiques du Nord |
+Direction départementale des finances publiques du Haut-Rhin |
 
-AISNE, OISE, SOMME |
-
-Direction départementale des finances publiques de l'Oise. |
-
-ALLIER, CANTAL, HAUTE-LOIRE, PUY-DE-DÔME |
-
-Direction départementale des finances publiques du Puy-de-Dôme |
-
-BAS-RHIN, HAUT-RHIN |
-
-Direction départementale des finances publiques du haut-Rhin |
-
-CÔTE D'OR, NIÈVRE, SAÔNE-ET-LOIRE, YONNE |
+CÔTE-D'OR, DOUBS, JURA, NIÈVRE, HAUTE-SAÔNE, SAÔNE-ET-LOIRE, YONNE, TERRITOIRE DE BELFORT |
 
 Direction départementale des finances publiques de Saône-et-Loire |
 
-ARIÈGE, AVEYRON, HAUTE-GARONNE, GERS, LOT, HAUTES-PYRÉNÉES, TARN, TARN-ET-GARONNE |
+ARIÈGE, AUDE, AVEYRON, GARD, HAUTE-GARONNE, GERS, HERAULT, LOT, LOZERE, HAUTES-PYRÉNÉES, PYRENNES-ORIENTALES, TARN, TARN-ET-GARONNE |
 
 Direction départementale des finances publiques du Tarn |
 
-ALPES DE HAUTE PROVENCE, HAUTES ALPES, ALPES MARITIMES, BOUCHES-DU-RHÔNE, VAR, VAUCLUSE |
+ALPES-DE-HAUTE-PROVENCE, HAUTES-ALPES, ALPES-MARITIMES, BOUCHES-DU-RHÔNE, CORSE-DU-SUD, HAUTE-CORSE, VAR, VAUCLUSE |
 
 Direction départementale des finances publiques du Vaucluse |
-
-CORRÈZE, CREUSE, HAUTE-VIENNE |
-
-Direction départementale des finances publiques de la Haute-Vienne |
-
-MEURTHE-ET-MOSELLE, MEUSE, MOSELLE, VOSGES |
-
-Direction départementale des finances publiques des Vosges |
 
 PARIS, SEINE-ET-MARNE, YVELINES, ESSONNE, HAUTS-DE-SEINE, SEINE-SAINT-DENIS, VAL-DE-MARNE, VAL-D'OISE |
 
 Direction départementale des finances publiques du Val-de-Marne |
 
+MAYOTTE, REUNION |
+
+Direction régionale des finances publiques de La Réunion |
+
+GUADELOUPE, GUYANE, MARTINIQUE |
+
+Direction régionale des finances publiques de Guadeloupe |
+
 b) Assignation spécifique de la taxe pour création de bureaux en Ile-de-France :
 
 Les titres de perception relatifs à la taxe pour création de bureaux en Ile-de-France (TCB) sont pris en charge et recouvrés par la direction départementale des finances publiques du Val-de-Marne.
+
+c) Recouvrement des ordres de recouvrer
+
+Par dérogation à l'article 5-1, le recouvrement des ordres de recouvrer pris en charge par les comptables assignataires dans le ressort de la région Ile-de-France est assuré par le comptable du lieu de résidence du redevable.
 
 10. Assignation spécifique des dépenses sans ordonnancement afférentes au remboursement de diverses taxes relatives à l'immatriculation des véhicules prescrites par les centres d'expertise et de ressources titres (CERT) des préfectures
 
