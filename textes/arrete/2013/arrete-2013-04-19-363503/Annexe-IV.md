@@ -50,17 +50,33 @@ Première épreuve d'admission du concours externe du CAPES de langue des signes
 
 L'épreuve d'admission doit en outre permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles dans ses réponses aux questions du jury.
 
-Section lettres
+Section lettres : lettres classiques, lettres modernes
 
-Option lettres modernes
+Afin de favoriser une organisation conjointe du concours dans les deux disciplines, un même président du jury peut être nommé par le ministre chargé de l'éducation nationale dans les conditions prévues à l'article 4 du présent arrêté ; le ou les vice-présidents et les autres membres du jury sont nommés dans les mêmes conditions en tenant compte de la représentation de chacune des disciplines. Les candidats proposés pour l'admissibilité et pour l'admission font l'objet d'un classement distinct en fonction de la discipline choisie.
 
-A. - Epreuve d'admissibilité
+Les épreuves sont déterminées ainsi qu'il suit :
 
-Première épreuve écrite d'admissibilité du concours externe du CAPES de lettres (coefficient 1).
+I-Lettres classiques
 
-B. - Epreuve d'admission
+A.-Epreuve d'admissibilité
 
-Première épreuve orale d'admission du concours externe du CAPES de lettres (coefficient 1).
+Seconde épreuve écrite d'admissibilité prévue au A du I pour le CAPES externe de lettres : lettres classiques (coefficient 1).
+
+B.-Epreuve d'admission
+
+Première épreuve orale d'admission prévue au B du I pour le CAPES externe de lettres : lettres classiques (coefficient 1).
+
+L'épreuve d'admission doit, en outre, permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles dans ses réponses aux questions du jury.
+
+II-Lettres modernes
+
+A.-Epreuve d'admissibilité
+
+Première épreuve écrite d'admissibilité prévue au A du II pour le CAPES externe de lettres : lettres modernes (coefficient 1).
+
+B.-Epreuve d'admission
+
+Première épreuve orale d'admission prévue au B du II pour le CAPES externe de lettres : lettres modernes (coefficient 1).
 
 L'épreuve d'admission doit, en outre, permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles dans ses réponses aux questions du jury.
 
