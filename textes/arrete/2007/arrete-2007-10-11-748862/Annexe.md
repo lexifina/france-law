@@ -1,10 +1,8 @@
 # Article Annexe
 
-CORPS ET GRADE |
+Corps et grade |
 
-TAUX APPLICABLE
-
-en 2018 |
+Taux applicable en 2018 |
 
 Filière administrative |
 
@@ -168,9 +166,9 @@ Diététicien de classe supérieure |
 
 Filière médico-technique |
 
-Corps des manipulateurs en électroradiologie médicale |
+Corps des manipulateurs d'électroradiologie médicale |
 
-Manipulateur en électroradiologie de classe supérieure |
+Manipulateur d'électroradiologie de classe supérieure |
 
 11 % |
 
@@ -235,3 +233,47 @@ Corps des sages-femmes des hôpitaux |
 Sage-femme des hôpitaux du 2d grade |
 
 10 % |
+
+Corps des filières de rééducation et médico-technique de la catégorie B placés en voie d'extinction |
+
+Corps des pédicures-podologues régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Pédicure podologue de classe supérieure |
+
+15 % |
+
+Corps des masseurs-kinésithérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Masseur-kinésithérapeute de classe supérieure |
+
+12.5 % |
+
+Corps des ergothérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Ergothérapeutes de classe supérieure |
+
+12 % |
+
+Corps des psychomotriciens régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Psychomotricien de classe supérieure |
+
+12 % |
+
+Corps des orthophonistes régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Orthophoniste de classe supérieure |
+
+15 % |
+
+Corps des orthoptistes régis par le décret n° 2011-746 du 27 juin 2011 |
+
+Orthoptiste de classe supérieure |
+
+15 % |
+
+Corps des manipulateurs d'électroradiologie médicale régis par le décret n° 2011-748 du 27 juin 2011 |
+
+Manipulateur en électroradiologie de classe supérieure |
+
+12 % |
