@@ -1,205 +1,41 @@
 # Article Annexe II
 
-LISTE DES MEMBRES DU CONSEIL PÉDAGOGIQUE
-
-Institut de formation en soins infirmiers
+LISTE DES MEMBRES DE L'INSTANCE COMPÉTENTE POUR LES ORIENTATIONS GÉNÉRALES DE L'INSTITUT
 
 Membres de droit :
 
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
+-le directeur général de l'agence régionale de santé ou son représentant, président ;
 
-- le directeur de l'institut de formation en soins infirmiers ;
+-deux représentants de la Région ;
 
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
+-le directeur de l'institut de formation ou son représentant ;
 
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
+-le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant pour les instituts de formation publics et le président du conseil d'administration, ou son représentant, pour les instituts de formation privés ;
 
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
+-le conseiller pédagogique, ou technique en l'absence de conseiller pédagogique, de l'agence régionale de santé dans la région d'implantation de l'institut de formation ;
 
-- un infirmier désigné par le directeur de l'institut de formation exerçant hors d'un établissement public de santé ;
+-pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général des soins, ou son représentant, directeur des soins et pour les instituts de formation privés, le responsable de l'organisation des soins, ou son représentant ;
 
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation en soins infirmiers a conclu une convention avec une université ;
+-le président de l'université ou son représentant ;
 
-- le président du conseil régional ou son représentant.
+-un enseignant de statut universitaire, désigné par le président d'université, lorsque l'institut de formation a conclu une convention avec une université ;
 
-Membres élus :
+-un médecin participant à l'enseignement dans l'institut, désigné par le directeur de l'institut ;
 
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
+-un conseiller scientifique paramédical, ou médical en l'absence de conseiller scientifique paramédical, désigné par le directeur de l'institut ;
 
-2. Représentants des enseignants élus par leurs pairs :
+-le ou les responsables de la coordination pédagogique des formations concernées ;
 
-- trois enseignants permanents de l'institut de formation ;
+-deux cadres de santé ou responsables d'encadrement de la filière, désignés par le directeur de l'institut, exerçant depuis au moins trois ans : pour le premier dans un établissement public de santé et pour le second dans un établissement de santé privé ;
 
-- deux personnes chargées de fonctions d'encadrement dans un service de soins d'un établissement de santé : la première, cadre de santé infirmier dans un établissement public de santé, la seconde ayant des responsabilités d'encadrement dans un établissement de santé privé ;
-
-- un médecin.
-
-Institut de formation en masso-kinésithérapie
-
-Membres de droit :
-
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
-
-- le directeur de l'institut de formation en masso-kinésithérapie ;
-
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
-
-- le conseiller scientifique ;
-
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
-
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
-
-- un cadre de santé masseur-kinésithérapeute désigné par le directeur de l'institut de formation, exerçant hors d'un établissement public de santé ;
-
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation en masso-kinésithérapie a conclu une convention avec une université ;
-
-- le président du conseil régional ou son représentant.
+-Un représentant du personnel administratif de l'institut, désigné par le directeur de l'institut.
 
 Membres élus :
 
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
+1. Représentants des étudiants :
 
-2. Représentants des enseignants élus par leurs pairs :
+-deux représentants des étudiants par promotion.
 
-- deux cadres de santé masseurs-kinésithérapeutes, enseignants de l'institut de formation ;
+2. Représentants des formateurs permanents :
 
-- deux personnes chargées d'enseignement à l'institut de formation, dont un médecin au moins ;
-
-- deux cadres de santé masseurs-kinésithérapeutes recevant des étudiants en stage.
-
-Institut de formation en pédicurie-podologie
-
-Membres de droit :
-
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
-
-- le directeur de l'institut de formation en pédicurie-podologie ;
-
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
-
-- le conseiller scientifique ;
-
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
-
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
-
-- un pédicure-podologue diplômé d'Etat depuis trois ans au moins, désigné par le directeur de l'institut de formation ;
-
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation en pédicurie-podologie a conclu une convention avec une université ;
-
-- le président du conseil régional ou son représentant.
-
-Membres élus :
-
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
-
-2. Représentants des enseignants élus par leurs pairs :
-
-- deux enseignants pédicures-podologues de l'institut de formation ;
-
-- deux personnes chargées d'enseignement à l'institut de formation, dont un médecin au moins ;
-
-- deux pédicures-podologues recevant des étudiants en stage.
-
-Institut de formation en ergothérapie
-
-Membres de droit :
-
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
-
-- le directeur de l'institut de formation en ergothérapie ;
-
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
-
-- le conseiller scientifique ;
-
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
-
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
-
-- un ergothérapeute désigné par le directeur de l'institut de formation , exerçant hors d'un établissement public de santé ;
-
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation en ergothérapie a conclu une convention avec une université ;
-
-- le président du conseil régional ou son représentant.
-
-Membres élus :
-
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
-
-2. Représentants des enseignants élus par leurs pairs :
-
-- deux enseignants de l'institut de formation ergothérapeutes, dont au moins un titulaire du diplôme de cadre de santé ;
-
-- deux personnes chargées d'enseignement à l'institut de formation, dont un médecin au moins ;
-
-- deux cadres de santé ergothérapeutes recevant des étudiants en stage.
-
-Institut de formation de manipulateurs d'électroradiologie médicale
-
-Membres de droit :
-
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
-
-- le directeur de l'institut de formation de manipulateurs d'électroradiologie médicale ;
-
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
-
-- le conseiller scientifique ;
-
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
-
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
-
-- un manipulateur d'électroradiologie médicale désigné par le directeur de l'institut de formation, exerçant hors d'un établissement public de santé ;
-
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation de manipulateurs d'électroradiologie médicale a conclu une convention avec une université ;
-
-- le président du conseil régional ou son représentant.
-
-Membres élus :
-
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
-
-2. Représentants des enseignants élus par leurs pairs :
-
-- deux enseignants de l'institut de formation, manipulateurs d'électroradiologie médicale ;
-
-- deux personnes chargées d'enseignement à l'institut de formation, dont un médecin spécialiste qualifié en radiologie ;
-
-- deux cadres de santé manipulateurs d'électroradiologie médicale recevant des étudiants en stage.
-
-Institut de formation de techniciens de laboratoire médical
-
-Membres de droit :
-
-- le directeur général de l'agence régionale de santé ou son représentant, président ;
-
-- le directeur de l'institut de formation de techniciens de laboratoire médical ;
-
-- le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant ;
-
-- le conseiller scientifique ;
-
-- le conseiller pédagogique ou le conseiller technique régional quand il n'y a pas de conseiller pédagogique dans la région d'implantation de l'institut de formation ;
-
-- pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins ;
-
-- un technicien de laboratoire médical désigné par le directeur de l'institut de formation, exerçant hors d'un établissement public de santé ;
-
-- un enseignant de statut universitaire désigné par le président d'université, lorsque l'institut de formation de techniciens de laboratoire médical a conclu une convention avec une université ;
-
-- le président du conseil régional ou son représentant.
-
-Membres élus :
-
-1. Représentants des étudiants : six étudiants élus par leurs pairs, à raison de deux par promotion.
-
-2. Représentants des enseignants élus par leurs pairs :
-
-- deux enseignants de l'institut de formation, techniciens de laboratoire médical ;
-
-- deux personnes chargées d'enseignement à l'institut de formation, dont un médecin spécialiste qualifié en biologie médicale ou un pharmacien biologiste ;
-
-- deux cadres de santé techniciens de laboratoire médical recevant des étudiants en stage.
+-un formateur permanent de l'institut de formation par année de formation.

@@ -2,18 +2,18 @@
 
 MOTIFS D'ABSENCES RECONNUES JUSTIFIÉES SUR PRÉSENTATION DE PIÈCES JUSTIFICATIVES
 
-Maladie ou accident.
+- maladie ou accident ;
 
-Décès d'un parent au premier ou au deuxième degré.
+- décès d'un parent au premier et second degré ; toute dérogation est laissée à l'appréciation du directeur de l'institut ;
 
-Mariage ou PACS.
+- mariage ou PACS ;
 
-Naissance ou adoption d'un enfant.
+- naissance ou adoption d'un enfant ;
 
-Fêtes religieuses (dates publiées au Bulletin officiel de l'éducation nationale).
+- fêtes religieuses (dates publiées au Bulletin officiel de l'éducation nationale) ;
 
-Journée d'appel de préparation à la défense.
+- journée défense et citoyenneté ;
 
-Convocation préfectorale ou devant une instance juridictionnelle.
+- convocation préfectorale ou devant une instance juridictionnelle ;
 
-Participation à des manifestations en lien avec leur statut d'étudiant et leur filière de formation.
+- participation à des manifestations en lien avec leur statut d'étudiant et leur filière de formation.

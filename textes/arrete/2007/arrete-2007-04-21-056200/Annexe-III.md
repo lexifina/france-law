@@ -1,99 +1,35 @@
 # Article Annexe III
 
-LISTE DES MEMBRES DU CONSEIL DE DISCIPLINE
+LISTE DES MEMBRES DE LA SECTION COMPÉTENTE POUR LE TRAITEMENT PÉDAGOGIQUE DES SITUATIONS INDIVIDUELLES DES ÉTUDIANTS
 
-Instituts de formation en soins infirmiers
+Membres de droit :
 
-Le directeur général de l'agence régionale de santé ou son représentant, président.
+-le directeur de l'institut de formation ou son représentant ;
 
-Le directeur de l'institut de formation en soins infirmiers.
+-un conseiller scientifique paramédical, ou médical en l'absence de conseiller scientifique paramédical, désigné par le directeur de l'institut ;
 
-Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation ou son représentant.
+-pour les instituts de formation rattachés à un établissement public de santé, le directeur des soins, coordonnateur général ou son représentant, directeur des soins, et pour les instituts de formation privés, le responsable de l'organisation des soins, ou son représentant ;
 
-Le médecin chargé d'enseignement à l'institut de formation élu au conseil pédagogique.
+-un professionnel diplômé de la filière en exercice, désigné par le directeur de l'institut de formation, exerçant hors d'un établissement public de santé ;
 
-Une des deux personnes, tirées au sort parmi celles chargées de fonction d'encadrement dans un service de soins d'un établissement de santé, élues au conseil pédagogique.
+-un enseignant de statut universitaire désigné, par le président d'université, lorsque l'institut de formation a conclu une convention avec une université ;
 
-Un enseignant permanent de l'institut de formation, tiré au sort parmi les deux enseignants élus au conseil pédagogique.
+-un médecin participant à l'enseignement dans l'institut, désigné par le directeur de l'institut ;
 
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
+-le ou les responsables de la coordination pédagogique des formations concernées ;
 
-Instituts de formation en masso-kinésithérapie
+-deux cadres de santé ou responsables d'encadrement de la filière, désignés par le directeur de l'institut, exerçant depuis au moins trois ans : pour le premier dans un établissement public de santé et pour le second dans un établissement de santé privé.
 
-Le directeur général de l'agence régionale de santé ou son représentant, président.
+Membres élus :
 
-Le directeur de l'institut de formation en masso-kinésithérapie.
+1. Représentants des étudiants :
 
-Le directeur de l'établissement de santé ou de l'organisme gestionnaire, support de l'institut de formation ou son représentant.
+-deux étudiants par promotion.
 
-Le médecin chargé d'enseignement à l'institut de formation élu au conseil pédagogique. Dans le cas où deux médecins ont été élus au conseil pédagogique au titre des personnes chargées d'enseignement à l'institut de formation, un tirage au sort est effectué pour désigner la personne siégeant au conseil de discipline.
+Ces représentants des étudiants, ainsi que leurs suppléants sont ceux élus au sein de l'instance compétente pour les orientations générales de l'institut.
 
-Le cadre de santé masseur-kinésithérapeute désigné par le directeur de l'institut de formation et siégeant au conseil pédagogique.
+2. Représentants des formateurs permanents élus par leurs pairs :
 
-Un cadre de santé masseur-kinésithérapeute, enseignant de l'institut de formation, tiré au sort parmi les deux élus au conseil pédagogique.
+-un formateur permanent de l'institut de formation par promotion.
 
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
-
-Instituts de formation en pédicurie-podologie
-
-Le directeur général de l'agence régionale de santé ou son représentant, président.
-
-Le directeur de l'institut de formation en pédicurie-podologie.
-
-Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant.
-
-Un pédicure-podologue recevant des étudiants en stage, tiré au sort parmi les deux pédicures-podologues élus au conseil pédagogique.
-
-Une personne tirée au sort parmi les deux personnes chargées d'enseignement à l'institut de formation élues au conseil pédagogique.
-
-Un enseignant pédicure-podologue tiré au sort parmi les deux enseignants pédicures-podologues élus au conseil pédagogique.
-
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
-
-Instituts de formation en ergothérapie
-
-Le directeur général de l'agence régionale de santé ou son représentant, président.
-
-Le directeur de l'institut de formation en ergothérapie.
-
-Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant.
-
-L'ergothérapeute désigné par le directeur de l'institut de formation et siégeant au conseil pédagogique.
-
-Une personne tirée au sort parmi les deux personnes chargées d'enseignement à l'institut de formation élues au conseil pédagogique.
-
-Un enseignant ergothérapeute tiré au sort parmi les deux enseignants ergothérapeutes élus au conseil pédagogique.
-
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
-
-Instituts de formation de manipulateurs d'électroradiologie médicale
-
-Le directeur général de l'agence régionale de santé ou son représentant, président.
-
-Le directeur de l'institut de formation de manipulateurs d'électroradiologie médicale.
-
-Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant.
-
-Une personne tirée au sort parmi les deux personnes chargées d'enseignement élues au conseil pédagogique.
-
-Un enseignant manipulateur d'électroradiologie médicale tiré au sort parmi les deux enseignants manipulateurs d'électroradiologie médicale élus au conseil pédagogique.
-
-Un cadre de santé tiré au sort parmi les deux cadres de santé manipulateurs d'électroradiologie médicale recevant des étudiants en stage élus au conseil pédagogique.
-
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
-
-Instituts de formation de techniciens en analyses biomédicales
-
-Le directeur général de l'agence régionale de santé ou son représentant, président.
-
-Le directeur de l'institut de formation de techniciens en analyses biomédicales.
-
-Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant.
-
-Une personne tirée au sort parmi les deux personnes chargées d'enseignement élues au conseil pédagogique.
-
-Un enseignant tiré au sort parmi les deux enseignants de l'institut de formation, techniciens en analyses biomédicales élus au conseil pédagogique.
-
-Un cadre de santé tiré au sort parmi les deux cadres de santé techniciens en analyses biomédicales recevant des étudiants en stage élus au conseil pédagogique.
-
-Un représentant des étudiants par promotion, tiré au sort parmi les six élus au conseil pédagogique.
+Ces représentants des formateurs permanents, ainsi que leurs suppléants sont ceux élus au sein de l'instance compétente pour les orientations générales de l'institut.
