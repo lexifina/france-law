@@ -8,7 +8,7 @@ A. Epreuves d'admissibilité
 
 1° Composition française sur un sujet se rapportant à un programme d'œuvres d'auteurs de langue française (durée : sept heures ; coefficient 5).
 
-2° Composition française sur un sujet se rapportant à une question de littérature générale et comparée au programme (durée : sept heures ; coefficient 4).
+2° Composition française sur un sujet se rapportant à une question de littérature générale et comparée au programme. Le corpus d'œuvres lié à cette question peut comporter une œuvre cinématographique (durée : sept heures ; coefficient 4).
 
 3° Etude grammaticale d'un texte de langue française antérieur à 1500 et d'un texte de langue française postérieur à 1500, extraits des œuvres inscrites au programme (durée : quatre heures ; coefficient 3).
 
@@ -52,7 +52,7 @@ Anglais
 
 A. Epreuve d'admissibilité
 
-Composition en anglais suivie, au choix du jury, d'une traduction ou d'un ou plusieurs exercices linguistiques (durée : sept heures ; coefficient 1).
+Composition en anglais suivie, au choix du jury, d'une traduction ou d'un ou plusieurs exercices linguistiques (durée : sept heures ; coefficient 3).
 
 L'épreuve comporte deux parties :
 
@@ -78,7 +78,7 @@ L'épreuve porte sur l'une des trois options suivantes, choisie par le candidat 
 
 - option C : linguistique.
 
-Durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum (leçon : trente minutes maximum ; entretien : quinze minutes maximum) ; coefficient 1.
+Durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum (leçon : trente minutes maximum ; entretien : quinze minutes maximum) ; coefficient 3.
 
 Le programme des options A et B est constitué par le programme des épreuves d'admissibilité du concours externe de l'agrégation. Le programme de l'option C est celui des épreuves d'admission du même concours. Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -94,11 +94,11 @@ Dans son exposé en anglais, le candidat propose une lecture et une interprétat
 
 L'exposé ainsi que l'entretien en anglais qui lui fait suite permettent d'évaluer les qualités d'analyse, de synthèse, d'argumentation et d'expression du candidat ainsi que sa maîtrise d'outils méthodologiques adaptés à la nature de chaque document.
 
-Durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum (exposé : vingt minutes maximum ; entretien : quarante minutes maximum) ; coefficient 1.
+Durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum (exposé : vingt minutes maximum ; entretien : quarante minutes maximum) ; coefficient 3.
 
 3° Mise en perspective didactique d'un dossier de recherche.
 
-Durée de préparation : une heure ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 1.
+Durée de préparation : une heure ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 3.
 
 Le candidat adresse au jury, par voie électronique (format PDF) au moins dix jours avant le début des épreuves d'admission, un dossier scientifique présentant son parcours, ses travaux de recherche et, le cas échéant, ses activités d'enseignement et de valorisation de la recherche. Le dossier, rédigé en français, ne doit pas excéder douze pages, annexes comprises.
 
@@ -114,7 +114,7 @@ L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
 
 - appréhender de façon pertinente les missions confiées à un professeur agrégé.
 
-4° Une note globale d'expression orale en anglais est attribuée pour les épreuves 1° et 2° d'admission (coefficient 1).
+4° Une note globale d'expression orale en anglais est attribuée pour les épreuves 1° et 2° d'admission ( coefficient 3).
 
 Section mathématiques
 
@@ -215,6 +215,92 @@ Durant chacune des épreuves orales (préparation, exposé, entretien avec le ju
 En outre, un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
 
 Le programme de l'épreuve d'admissibilité et des épreuves d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
+Option chimie
+
+A. Epreuve d'admissibilité
+
+Composition de physique-chimie (durée : six heures ; coefficient 6).
+
+La composition est structurée en deux parties : une première partie à dominante chimie et une seconde partie à dominante physique.
+
+Les candidats rendent deux copies séparées pour chacune des deux parties de l'épreuve. La première partie compte pour deux tiers de la note finale, la seconde pour un tiers.
+
+B. Epreuves d'admission
+
+1° Leçon de chimie. Durée de la préparation : quatre heures. Durée de l'épreuve : une heure et vingt minutes (exposé : quarante minutes ; entretien : quarante minutes ; coefficient 4).
+
+2° Leçon de physique. Durée de la préparation : quatre heures. Durée de l'épreuve : une heure et vingt minutes (exposé : quarante minutes ; entretien : quarante minutes ; coefficient 2).
+
+3° Mise en perspective didactique d'un dossier de recherche.
+
+Durée de la préparation : une heure. Durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum ; coefficient : 3).
+
+Le candidat transmet au jury, par voie électronique (format PDF) au moins dix jours avant le début des épreuves d'admission, un dossier scientifique présentant son parcours, ses travaux de recherche et, le cas échéant, ses activités d'enseignement et de valorisation de la recherche. Le dossier ne doit pas excéder douze pages, annexes comprises.
+
+Lors de la première partie de l'épreuve, le candidat présente au jury la nature, les enjeux et les résultats de son travail de recherche et en propose une mise en perspective didactique. Il répond également à une question qui lui sera communiquée par le jury au début de l'heure de préparation. Cet exposé est suivi d'un entretien avec le jury prenant appui sur le dossier et l'exposé du candidat.
+
+L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
+
+-rendre ses travaux accessibles à un public de non-spécialistes ;
+
+-dégager ce qui dans les acquis de sa formation à et par la recherche, qu'il s'agisse de savoirs ou de savoir-faire, peut être mobilisé dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours ;
+
+-appréhender de façon pertinente les missions confiées à un professeur agrégé.
+
+Des livres, y compris les manuels du second cycle et des documents d'intérêt général, agréés par le jury, imprimés ou dactylographiés et ne comportant aucune annotation manuscrite, sont mis à la disposition des candidats pour les épreuves orales d'admission. Ils sont rassemblés au centre d'examen avant le début de ces épreuves et ils peuvent être examinés par les candidats après le tirage au sort de leur série.
+
+Durant chacune des épreuves orales (préparation, exposé, entretien avec le jury), les candidats peuvent consulter et exploiter l'ensemble des ressources accessibles sur le réseau internet.
+
+Un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
+
+Le programme de l'épreuve d'admissibilité et des épreuves d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
+Section sciences de la vie - sciences de la Terre et de l'Univers
+
+A. Epreuves d'admissibilité
+
+1° Composition (durée : six heures ; coefficient 4).
+
+La composition comporte deux sujets, l'un à dominante sciences de la vie, l'autre à dominante sciences de la Terre et de l'univers. Les candidats rendent deux copies séparées pour chacune des deux parties de l'épreuve.
+
+2° Étude d'un dossier scientifique (durée : quatre heures ; coefficient 2).
+
+Le candidat est conduit à analyser et à présenter un dossier scientifique, fourni par le jury, tant dans sa dimension scientifique (intérêts, résultats obtenus) que dans ses dimensions éducatives, professionnelles ou citoyennes. Le dossier peut contenir des données scientifiques (et/ ou technologiques) en langue anglaise.
+
+B.-Epreuves d'admission
+
+1° Leçon (durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure et vingt minutes ; coefficient 7).
+
+La leçon porte sur un sujet fourni par le jury, imposant ou non l'utilisation de documents ou de matériels spécifiques.
+
+L'épreuve comporte un exposé du candidat (cinquante minutes) suivi d'un entretien avec le jury (trente minutes) qui se déroule en trois parties :
+
+-la première partie prolonge l'exposé (dix minutes) ;
+
+-la deuxième partie permet d'aborder d'autres aspects du domaine des sciences de la vie ou des sciences de la Terre et de l'Univers en fonction du domaine dont relève le sujet de la leçon (dix minutes) ;
+
+-la dernière partie porte sur des questions relatives à l'autre domaine (dix minutes).
+
+2° Mise en perspective didactique d'un dossier de recherche.
+
+Durée de préparation : une heure ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4).
+
+Le candidat transmet au jury, par voie électronique (format PDF) au moins dix jours avant le début des épreuves d'admission, un dossier scientifique présentant son parcours, ses travaux de recherche et, le cas échéant, ses activités d'enseignement et de valorisation de la recherche. Le dossier ne doit pas excéder douze pages, annexes comprises.
+
+Lors de la première partie de l'épreuve, le candidat présente au jury la nature, les enjeux et les résultats de son travail de recherche et en propose une mise en perspective didactique. Il répond également à une question qui lui sera communiquée par le jury au début de l'heure de préparation.
+
+Cet exposé est suivi d'un entretien avec le jury prenant appui sur le dossier et l'exposé du candidat.
+
+L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
+
+-rendre ses travaux accessibles à un public de non-spécialistes ;
+
+-dégager ce qui dans les acquis de sa formation à et par la recherche, peut être mobilisé en termes des compétences dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours ;
+
+-appréhender de façon pertinente les missions confiées à un professeur agrégé.
+
+Le programme des épreuves d'admissibilité et d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section biochimie-génie biologique
 

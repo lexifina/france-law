@@ -42,13 +42,9 @@ Coefficient 8.
 
 B. - Epreuves orales d'admission
 
-1° Leçon portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française et d'œuvres d'auteurs anciens. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle :
+1° Leçon portant sur un programme d'œuvres publié sur le site internet du ministère chargé de l'éducation nationale. Ce programme est composé d'œuvres littéraires d'auteurs de langue française, d'œuvres d'auteurs anciens, et d'une œuvre cinématographique. La leçon est suivie d'un entretien qui est l'occasion pour le candidat de valoriser son expérience professionnelle.
 
-Durée de la préparation : six heures.
-
-Durée de l'épreuve : cinquante minutes.
-
-Coefficient 8.
+Durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes ; coefficient 8.
 
 2° Explication d'un texte postérieur à 1500 d'un auteur de langue française figurant au programme publié sur le site internet du ministère chargé de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
 
@@ -84,13 +80,9 @@ Coefficient 12.
 
 B. - Epreuves orales d'admission
 
-1° Leçon portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle.
+1° Leçon portant sur un programme d'œuvres publié sur le site internet du ministère chargé de l'éducation nationale. Ce programme est composé d'œuvres littéraires d'auteurs de langue française et d'une œuvre cinématographique. La leçon est suivie d'un entretien qui est l'occasion pour le candidat de valoriser son expérience professionnelle.
 
-Durée de la préparation : six heures.
-
-Durée de l'épreuve : cinquante minutes.
-
-Coefficient 6.
+Durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes ; coefficient 6.
 
 2° Explication d'un texte postérieur à 1500 d'un auteur de langue française et figurant au programme publié sur le site internet du ministère chargé de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
 
@@ -100,13 +92,9 @@ Durée de l'épreuve : cinquante minutes.
 
 Coefficient 8.
 
-3° Commentaire d'un texte français ou traduit appartenant aux littératures anciennes ou modernes et extrait du programme de littérature générale et comparée, publié sur le site internet du ministère chargé de l'éducation nationale. Ce commentaire est suivi d'un entretien avec le jury.
+3° Commentaire d'un extrait des œuvres au programme de littérature générale et comparée publié sur le site internet du ministère chargé de l'éducation nationale. Ce commentaire est suivi d'un entretien avec le jury.
 
-Durée de la préparation : deux heures.
-
-Durée de l'épreuve : trente minutes.
-
-Coefficient 6.
+Durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 6.
 
 Section histoire et géographie
 
@@ -276,11 +264,11 @@ Section sciences de la vie
 
 Sciences de la Terre et de l'Univers
 
-A. - Epreuves écrites d'admissibilité
+A. Epreuves écrites d'admissibilité
 
 1° Composition à partir d'un dossier fourni au candidat.
 
-Pour des niveaux et des objectifs désignés, le candidat est amené à proposer une progression, et/ou à exposer en détail un point particulier en l'illustrant d'exemples, et/ou à élaborer des exercices et prévoir une évaluation, en s'appuyant sur des éléments d'un dossier fourni.
+Pour des niveaux et des objectifs désignés, le candidat est amené à proposer une progression, et/ ou à exposer en détail un point particulier en l'illustrant d'exemples, et/ ou à élaborer des exercices et prévoir une évaluation, et/ ou analyser des productions d'élèves de différentes nature, en s'appuyant sur des éléments d'un dossier fourni.
 
 Durée de l'épreuve : cinq heures ; coefficient 1.
 
@@ -292,13 +280,13 @@ Durée de l'épreuve : cinq heures ; coefficient 1.
 
 Les deux épreuves d'admissibilité permettent d'aborder différents domaines des sciences de la vie, de la Terre et de l'Univers.
 
-B. - Epreuves orales d'admission
+B. Epreuves orales d'admission
 
-Les candidats démontrent leur maîtrise de la conception et de la mise en œuvre de leur enseignement de sciences de la vie et de la Terre au cours de deux épreuves d'admission. Chaque sujet précise le ou les niveaux correspondants des programmes de collège et/ou de lycée. Chaque candidat est amené, sur l'ensemble des deux épreuves, à aborder le collège et le lycée ainsi que différents domaines des sciences de la vie, de la Terre et de l'Univers.
+Les candidats démontrent leur maîtrise de la conception et de la mise en œuvre de leur enseignement de sciences de la vie et de la Terre au cours de deux épreuves d'admission. Chaque sujet précise le ou les niveaux correspondants des programmes de collège et/ ou de lycée. Chaque candidat est amené, sur l'ensemble des deux épreuves, à aborder les enseignements de collège et de lycée ainsi que différents domaines des sciences de la vie, de la Terre et de l'Univers.
 
 1° Activités pratiques et travail de classe :
 
-Le candidat présente concrètement des activités pratiques, intégrées dans un cheminement problématisé. Il montre explicitement comment le travail de la classe vise à permettre aux élèves de construire des compétences (contenus, savoir-faire, attitudes), notamment à travers les productions attendues. Le scénario proposé inclut la prise en compte des difficultés et de la diversité des élèves.
+Le candidat présente et réalise des activités pratiques intégrées dans un cheminement problématisé. Il montre explicitement comment cette mise en activité permet à tous les élèves de construire des compétences.
 
 La présentation par le candidat est suivie d'un entretien.
 
@@ -306,11 +294,11 @@ Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt
 
 2° Exposé :
 
-Le candidat présente un exposé construit, problématisé, en s'appuyant sur des documents et/ou des démonstrations concrètes. Il inclut au moins une situation d'évaluation.
+Le candidat expose son projet d'enseignement intégrant les dimensions scientifiques et les enjeux éducatifs concernés par le sujet. Ce projet s'appuie sur des ressources scientifiques rendues exploitables pour les élèves. Le candidat montre comment il s'assure de l'efficacité de son enseignement. L'exposé est suivi d'un entretien.
 
 L'exposé est suivi d'un entretien.
 
-Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes) ; coefficient : 1,5.
+Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : quarante minutes ; entretien : quarante minutes) ; coefficient : 1,5.
 
 Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 

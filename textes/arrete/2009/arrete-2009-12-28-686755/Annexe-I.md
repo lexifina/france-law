@@ -14,19 +14,19 @@ A. - Epreuves écrites d'admissibilité
 
 B. - Epreuves orales d'admission
 
-1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient 1,5).
+1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient 1,5).
 
 Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.
 
-2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient : 1,5).
+2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission (durée de la préparation : cinq heures ; durée de l'épreuve : trente-cinq minutes ; coefficient : 1,5).
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
-3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5).
+3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme, suivie d'un entretien avec le jury (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5).
 
 Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
 
-4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [traduction et explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5). Le programme est renouvelé chaque année.
+4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme, suivie d'un entretien avec le jury (durée de la préparation : une heure trente ; durée de l'épreuve : quarante-cinq minutes [traduction et explication : trente minutes ; entretien : quinze minutes au maximum] ; coefficient 1,5). Le programme est renouvelé chaque année.
 
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
@@ -162,7 +162,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Etude grammaticale d'un texte de langue française postérieur à 1500, extrait de l'une des œuvres inscrites au programme (durée : durée : trois heures ; coefficient 4).
 
-4° Composition française sur un sujet se rapportant à l'une des deux questions de littérature générale et comparée au programme (durée : sept heures ; coefficient 10).
+4° Composition française sur un sujet se rapportant à l'une des deux questions de littérature générale et comparée au programme. Le corpus d'œuvres lié à l'une des deux questions peut comporter une œuvre cinématographique (durée : sept heures ; coefficient 10).
 
 5° Version latine ou version grecque, au choix du candidat formulé lors de l'inscription au concours (durée : quatre heures ; coefficient 5).
 
@@ -178,7 +178,7 @@ B. - Epreuves orales d'admission
 
 3° Explication d'un texte de langue française extrait des œuvres au programme de l'enseignement du second degré (durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 7).
 
-4° Commentaire d'un texte de littérature ancienne ou moderne extrait des œuvres au programme prévues pour la seconde composition française (durée de la préparation : deux heures trente ; durée de l'épreuve : trente minutes ; coefficient 8).
+4° Commentaire d'un extrait des œuvres au programme prévues pour la seconde composition française (durée de la préparation : deux heures trente ; durée de l'épreuve : trente minutes ; coefficient 8).
 
 Un entretien de dix minutes maximum portant sur le contenu de l'exercice présenté suit chacune des quatre épreuves d'admission.
 
@@ -500,9 +500,9 @@ Un dictionnaire espagnol unilingue indiqué par le jury est mis à la dispositio
 
 2° Leçon en espagnol sur une question se rapportant au programme suivie d'un entretien en espagnol (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum [leçon : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 3).
 
-3° Explication linguistique en français d'un texte inscrit au programme suivie d'un entretien en français. Un dictionnaire latin-français, le Diccionario de la lengua española (Real Academia española) et le Breve diccionario etimologico de la lengua castellana de Joan Corominas sont mis à la disposition du candidat (durée de la préparation : une heure trente minutes ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 2).
+3° Explication linguistique en français d'un texte inscrit au programme suivie d'un entretien en français. Un dictionnaire latin-français, le Diccionario de la lengua española (Real Academia española) et le Breve diccionario etimologico de la lengua castellana de Joan Corominas sont mis à la disposition du candidat (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 2).
 
-4° Explication en français, au choix du candidat, d'un texte portugais, catalan ou latin inscrit au programme. L'explication est suivie d'un entretien en français (durée de la préparation [avec dictionnaire] une heure : durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 1).
+4° Explication en français, au choix du candidat, d'un texte portugais, catalan ou latin inscrit au programme. L'explication est suivie d'un entretien en français (durée de la préparation [avec dictionnaire] : une heure trente minutes ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 1).
 
 La maîtrise de la langue espagnole et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
@@ -1194,9 +1194,11 @@ Le programme sur lequel portent les épreuves écrites d'admissibilité est publ
 
 B. - Epreuves orales d'admission
 
-1° Leçon portant sur le programme de l'option sciences économiques et sociales de la classe de seconde ou sur le programme de sciences économiques et sociales de première ou de terminale ES des lycées (y compris sur le programme de l'option sciences économiques et sociales en première ES et sur celui de l'enseignement de spécialité en classe de terminale ES), suivie d'un entretien avec le jury (durée de la préparation : six heures ; durée de l'épreuve : une heure maximum [leçon : quarante-cinq minutes ; entretien : quinze minutes maximum] ; coefficient 5).
+1° Leçon suivie d'un entretien avec le jury (durée de la préparation : six heures ; durée de l'épreuve : une heure maximum [leçon : quarante minutes ; entretien : vingt minutes maximum] ; coefficient 5).
 
-2° Commentaire d'un dossier portant sur un problème économique ou social d'actualité, suivi d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : quarante-cinq minutes maximum [commentaire : trente minutes ; entretien : quinze minutes maximum] ; coefficient 3).
+Le programme de l'épreuve est constitué des programmes de sciences économiques et sociales de la classe de seconde générale et technologique et du cycle terminal, des programmes d'économie approfondie et d'économie, sociologie et histoire du monde contemporain de la classe préparatoire économique et commerciale option économique (première et seconde années) et du programme de sciences sociales de la classe préparatoire littéraire voie B/ L (première et seconde années) .
+
+2° Commentaire d'un dossier portant sur un problème économique ou social d'actualité, suivi d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : quarante-cinq minutes maximum [commentaire : vingt-cinq minutes ; entretien : vingt minutes maximum] ; coefficient 3).
 
 3° Epreuve de mathématiques et statistique appliquées aux sciences sociales et économiques (durée de la préparation : une heure trente minutes ; durée de l'épreuve : trente minutes ; coefficient 2).
 
@@ -1454,7 +1456,7 @@ Coefficient 3.
 
 Réalisation par le candidat d'une prestation physique dans une APSA différente de celles de l'épreuve n° 3, tirée au sort parmi celles figurant dans un programme défini chaque année.
 
-La prestation est suivie d'un entretien de vingt minutes avec le jury, ayant pour objet d'apprécier les connaissances du candidat sur les dimensions physiologiques et psychologiques liées à la pratique de cette APSA.
+La prestation est suivie d'un entretien de vingt minutes avec le jury, ayant pour objet d'apprécier les connaissances du candidat sur les dimensions physiologiques et psychologiques liées à la pratique de ces APSA.
 
 L'épreuve est appréciée pour moitié pour la prestation physique et pour moitié pour l'entretien avec le jury.
 
