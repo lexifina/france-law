@@ -1,6 +1,6 @@
 # Article 154 quinquies
 
-I. – Pour la détermination des bases d'imposition à l'impôt sur le revenu, la contribution prévue à l'article L. 136-1 du code de la sécurité sociale au titre des revenus d'activité et de remplacement est, à hauteur de 6,8 points ou, pour les revenus mentionnés au II de l'article L. 136-8 du même code, à hauteur de 3,8 points lorsqu'elle est prélevée au taux de 3,8 % ou 6,2 % et à hauteur de 5,9 points lorsqu'elle est prélevée au taux de 8,3 %, admise en déduction du montant brut des sommes payées et des avantages en nature ou en argent accordés, ou du bénéfice imposable, au titre desquels la contribution a été acquittée. La contribution prévue au 6° du II de l'article L. 136-2 du même code est admise en déduction du revenu imposable de l'année de son paiement.
+I. – Pour la détermination des bases d'imposition à l'impôt sur le revenu, la contribution prévue à l'article L. 136-1 du code de la sécurité sociale au titre des revenus d'activité et de remplacement est, à hauteur de 6,8 points ou, pour les revenus mentionnés au II de l'article L. 136-8 du même code, à hauteur de 3,8 points lorsqu'elle est prélevée au taux de 3,8 % ou 6,2 % et à hauteur de 5,9 points lorsqu'elle est prélevée au taux de 8,3 %, admise en déduction du montant brut des sommes payées et des avantages en nature ou en argent accordés, ou du bénéfice imposable, au titre desquels la contribution a été acquittée. La contribution due sur l'avantage mentionné au I de l'article 80 bis ainsi que sur l'avantage mentionné au I de l'article 80 quaterdecies lorsque ce dernier est imposé à l'impôt sur le revenu selon les règles de droit commun des traitements et salaires est admise en déduction du revenu imposable de l'année de son paiement.
 
 II.-La contribution afférente aux revenus mentionnés aux a à e et f du I et au II de l'article L. 136-6 du code de la sécurité sociale ainsi qu'aux premier alinéa et 1° du I de l'article L. 136-7 du même code, imposés dans les conditions prévues à l'article 197 du présent code, est admise en déduction du revenu imposable de l'année de son paiement, à hauteur de 6,8 points.
 
@@ -12,4 +12,4 @@ b) Les avantages salariaux mentionnés au I de l'article 80 quaterdecies qui bé
 
 NOTA :
 
-Se reporter aux conditions d'application précisées à l'article 67 II de la loi n° 2017-1837 du 30 décembre 2017.
+Conformément à l'article 16 de l'ordonnance n° 2018-474 du 12 juin 2018, les présentes dispositions s'appliquent aux cotisations et contributions dues pour les périodes courant à compter du 1er septembre 2018.
