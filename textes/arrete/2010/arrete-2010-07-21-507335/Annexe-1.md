@@ -20,8 +20,6 @@ b) La période estivale : du 1er juillet au 31 août. 2 applications de traiteme
 
 c) La période automnale : du 1er septembre au 15 novembre. 5 applications d'une préparation de nématodes entomopathogènes espacées de 21 jours doivent être réalisées sur cette période.
 
-Les traitements chimiques sont réalisés en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
-
 Les traitements biologiques sont réalisés avec une préparation à base de nématodes entomopathogènes, Steinernema carpocapsae, à une dose de 180 millions de formes juvéniles/ hl d'eau au minimum. La préparation devra être appliquée conformément aux recommandations du distributeur. Il convient notamment d'éviter leur utilisation en période chaude et sèche.
 
 2° Stratégie n° 2.
@@ -34,20 +32,16 @@ b) La période estivale : du 1er juillet au 31 août. Aucune application de trai
 
 c) La période automnale : du 1er septembre au 15 novembre. 4 applications de traitements insecticides espacées de 21 jours à 1 mois ou une alternance d'applications d'une préparation de nématodes entomopathogènes et de traitements insecticides espacées de 21 jours à 1 mois doivent être réalisées sur cette période.
 
-Les traitements chimiques sont réalisés en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
-
 Les traitements biologiques sont réalisés avec une préparation à base de nématodes entomopathogènes, Steinernema carpocapsae, à une dose de 180 millions de formes juvéniles/ hl d'eau au minimum. La préparation devra être appliquée conformément aux recommandations du distributeur. Il convient notamment d'éviter leur utilisation en période chaude et sèche.
 
 3° Stratégie n° 3.
 
 Traitement à l'aide d'un produit phytopharmaceutique insecticide injectable dans le stipe du palmier à base de benzoate d'émamectine autorisée pour l'usage palmier d'ornement en injection sur charançon rouge du palmier selon les conditions d'utilisation suivantes : le traitement est réalisé une fois par an dans la période allant du 1er mars au 15 novembre. L'injection est réalisée en réalisant de 2 à 4 trous disposés en hélice autour du stipe, d'une profondeur allant de 15 à 30 cm mais ne représentant pas plus d'un tiers du diamètre du stipe. 50 ml de produit pur sont répartis équitablement dans les différents trous. Ces trous sont réalisés dans le stipe du palmier généralement à hauteur d'homme sauf pour les petits sujets pour lesquels la distance entre les points d'injection et la base de la couronne ne doit pas être inférieure à 50 cm.
 
-C.-Traitements préventifs des palmiers en conteneurs dans des lieux de production, de stockage ou de vente de palmiers.
-
-Les traitements sont réalisés par traitement du sol en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
+C.-(Supprimé).
 
 D.-Traitements des palmiers ayant fait l'objet d'une intervention d'éradication par destruction de la partie infestée du végétal.
 
-Les parties blessées du végétal font l'objet, immédiatement après l'intervention de destruction de la partie infestée, de l'application par pulvérisation des parties aériennes de produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009 ou par injection d'un produit phytopharmaceutique dans le stipe du palmier à base de benzoate d'émamectine homologué pour l'usage palmier d'ornement en injection sur charançon rouge du palmier selon les conditions d'utilisation suivantes : le traitement est réalisé une fois par an dans la période allant du 1er mars au 15 novembre. L'injection est réalisée en réalisant de 2 à 4 trous disposés en hélice autour du stipe, d'une profondeur allant de 15 à 30 cm mais ne représentant pas plus d'un tiers du diamètre du stipe. 50 ml de produit pur sont répartis équitablement dans les différents trous. Ces trous sont réalisés dans le stipe du palmier généralement à hauteur d'homme sauf pour les petits sujets pour lesquels la distance entre les points d'injection et la base de la couronne ne doit pas être inférieure à 50 cm.
+Les parties blessées du végétal font l'objet, immédiatement après l'intervention de destruction de la partie infestée, de l'application par injection d'un produit phytopharmaceutique dans le stipe du palmier à base de benzoate d'émamectine homologué pour l'usage palmier d'ornement en injection sur charançon rouge du palmier selon les conditions d'utilisation suivantes : le traitement est réalisé une fois par an dans la période allant du 1er mars au 15 novembre. L'injection est réalisée en réalisant de 2 à 4 trous disposés en hélice autour du stipe, d'une profondeur allant de 15 à 30 cm mais ne représentant pas plus d'un tiers du diamètre du stipe. 50 ml de produit pur sont répartis équitablement dans les différents trous. Ces trous sont réalisés dans le stipe du palmier généralement à hauteur d'homme sauf pour les petits sujets pour lesquels la distance entre les points d'injection et la base de la couronne ne doit pas être inférieure à 50 cm.
 
 Par ailleurs, une préparation fongicide est appliquée immédiatement après intervention, renouvelée deux fois. Ces traitements sont réalisés par l'application d'une préparation autorisée pour l'usage Arbres et arbustes d'ornement-traitement des parties aériennes-maladies diverses, à partir de mancozèbe et de myclobutanil aux doses homologuées.
