@@ -4,15 +4,15 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 1. Formation de l'enseignement supérieur :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -46,21 +46,15 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 INTITULÉ DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
-
-Centre des hautes études militaires (CHEM). |
-
-4 |
-
-2 |
 
 Enseignement militaire du second degré (EMS2) (*). |
 
@@ -68,7 +62,19 @@ Enseignement militaire du second degré (EMS2) (*). |
 
 2 |
 
-Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major). |
+Centre des hautes études militaires (CHEM) ou formation équivalente de l'enseignement militaire supérieur au-dessus de l'EMS2 au Royal College and Defense Studies (RCDS Londres), au National Defense University (NDU, Washington) et au Higher Command and Staff Course (HSCS, Schrivenham). |
+
+4 |
+
+2 |
+
+Toutes les autres formations de l'enseignement militaire supérieur au-dessus de l'EMS2 en France ou à l'étranger, à l'exception de la formation du CHEMI. |
+
+4 |
+
+1 |
+
+Formations de l'enseignement militaire du 1er degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major). |
 
 4 |
 
@@ -88,39 +94,37 @@ Formation de qualification (diplôme d'état-major). |
 
 (*) Formations de l'enseignement militaire du second degré d'une durée de quatre mois minimum. |
 
+|
+
+|
+
 3. Ressources humaines :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
-Brevet d'Etat d'éducateur sportif, option alpinisme, attribuant le diplôme de guide de haute montagne. |
+Diplôme d'Etat d'alpinisme - Guide de haute montagne. |
 
 5 |
 
 3 |
 
-Diplôme d'aspirant guide du brevet d'Etat d'alpinisme. |
-
-5 |
-
-3 |
-
-Brevet d'Etat d'éducateur sportif, option ski alpin, attribuant le diplôme d'Etat de ski, moniteur national de ski alpin. |
+Diplôme d'Etat de ski - Moniteur national de ski alpin |
 
 4 |
 
 3 |
 
-Brevet d'Etat d'éducateur sportif, option ski nordique de fond, attribuant le diplôme d'Etat de ski, moniteur national de ski nordique de fond. |
+Diplôme d'Etat de ski - Moniteur national de ski nordique de fond |
 
 4 |
 
@@ -132,13 +136,25 @@ Diplôme d'Etat d'alpinisme accompagnateur en moyenne montagne (DEA-AMM) |
 
 2 |
 
-Brevet d'Etat d'éducateur sportif, option escalade, conférant le titre de moniteur d'escalade. |
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport mention " escalade " |
 
 4 |
 
 3 |
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité vol libre mention parapente, conférant le titre de moniteur de parapente. |
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif " mention " escalade en milieux naturels ". |
+
+4 |
+
+3 |
+
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité vol libre mention parapente. |
+
+4 |
+
+3 |
+
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif " mention " parapente ". |
 
 4 |
 
@@ -224,45 +240,45 @@ Stage d'expert en technique d'optimisation du potentiel (TOP). |
 
 4. Santé :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
 Formations appelées à être sanctionnées par un certificat ou un diplôme permettant d'accéder à un corps relevant du statut des militaires infirmiers et techniciens des hôpitaux des armées. |
 
-double de la période de formation |
+Double de la période de formation |
 
 1 |
 
-Validation de cinq semestres (acquisition de 150 ECTS) préparant à l'acquisition du diplôme d'Etat d'infirmier. |
+Validation de cinq semestres (acquisition de 150 ECTS) préparant à l'acquisition du diplôme d'État d'infirmier. |
 
-double de la période de formation |
+Double de la période de formation |
 
 1 |
 
 5. Infrastructure :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
-Formation de spécialité deuxième niveau conducteur de travaux. |
+Formation de spécialité 2e niveau conducteur de travaux. |
 
 5 |
 
@@ -270,15 +286,15 @@ Formation de spécialité deuxième niveau conducteur de travaux. |
 
 6. Prévention et gestion des risques :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -380,15 +396,15 @@ Equipier feux de forêt (ou IV formations marine). |
 
 7. Soutien opérationnel :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -404,7 +420,7 @@ Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive
 
 3 |
 
-Formation intervention sur munitions spéciales/ NRBC BCMD (Biological Chemical Munition Disposal). |
+Formation intervention sur munitions spéciales / NRBC BCMD (Biological Chemical Munition Disposal). |
 
 2 |
 
@@ -428,9 +444,9 @@ Permis CE ou brevet militaire de conduite super poids lourd. |
 
 2 |
 
-Transport des matières dangereuses classe 7. |
+Transport des marchandises dangereuses classe 7 (qualification initiale uniquement). |
 
-3 |
+2 |
 
 1 |
 
@@ -440,13 +456,25 @@ Formation d'adaptation T12 contrôle matériel levage (ou vérificateur des appa
 
 2 |
 
-Qualifications acheminement interarmées (QAIA) de deuxième niveau. |
+Qualifications acheminement interarmées (QAIA) de 2e niveau. |
 
 2 |
 
 1 |
 
-Qualifications acheminement interarmées (QAIA) de troisième niveau. |
+Qualifications acheminement interarmées (QAIA) de 3e niveau. |
+
+2 |
+
+1 |
+
+Formation logistique du 2e degré (QLIA 2). |
+
+2 |
+
+1 |
+
+Formation logistique du 3e degré (QLIA 3). |
 
 2 |
 
@@ -454,15 +482,15 @@ Qualifications acheminement interarmées (QAIA) de troisième niveau. |
 
 8. SIC (systèmes d'information et de communication) :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -504,15 +532,15 @@ Formation en investigation numérique |
 
 9. Renseignement :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -608,15 +636,15 @@ Conseiller en sûreté et sécurité en milieu industriel. |
 
 10. Opérations en milieu aéronautique :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -690,7 +718,7 @@ Formation initiale au CICDA des contrôleurs et opérateurs. |
 
 5 |
 
-2 |
+3 |
 
 Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR). Flight Crew Licensing (FCL). |
 
@@ -722,19 +750,19 @@ Stage sauveteur plongeur hélicoptère. |
 
 1 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 3 |
 
 3 |
 
-Formation Type Rating Instructor (TRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 2 |
 
 2 |
 
-Formation Class Rating Instructor (CRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Class Rating Instructor (CRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 2 |
 
@@ -748,15 +776,15 @@ Formation radio de bord calibration 1351 |
 
 11. Opérations en milieu terrestre :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -780,15 +808,15 @@ Formation pilote parachute biplace emport passager. |
 
 12. Systèmes de forces, systèmes d'armes et équipement :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 

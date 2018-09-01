@@ -4,15 +4,15 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 1. Formation des officiers :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -22,7 +22,7 @@ Stage de formation des ingénieurs militaires des essences. |
 
 2 |
 
-Stage de formation des officiers logisticiens des essences. |
+Stage de formation des officiers logisticiens des essences et des officiers sous-contrat " encadrement des formations " (OSC/E). |
 
 4 |
 
@@ -30,15 +30,15 @@ Stage de formation des officiers logisticiens des essences. |
 
 2. Formation des sous-officiers :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -60,17 +60,17 @@ Formation de spécialité du 2e niveau. |
 
 2 |
 
-3. Formation des militaires du rang :
+3. Permis :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -82,15 +82,15 @@ Permis C1, C1E, C, D1, D1E, D et DE ou brevet militaire de conduite PL, SPL et T
 
 4. Prévention et gestion des risques :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 

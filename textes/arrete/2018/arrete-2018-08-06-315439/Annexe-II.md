@@ -4,13 +4,13 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 INTITULÉ DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 

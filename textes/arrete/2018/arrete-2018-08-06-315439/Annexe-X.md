@@ -4,15 +4,15 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 Formation de l'enseignement supérieur :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -27,18 +27,6 @@ Formation complémentaire au diplôme d'architecte d'une durée de quatre mois c
 4 |
 
 2 |
-
-Formation logistique du 2e degré (QLIA 2). |
-
-2 |
-
-1 |
-
-Formation logistique du 3e degré (QLIA 3). |
-
-2 |
-
-1 |
 
 Suivi d'au moins trois modules de formation à l'école nationale de l'aviation civile (ENAC). |
 

@@ -4,15 +4,15 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 1. Formation des officiers :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -36,15 +36,15 @@ Suivi d'au moins trois modules de formation à l'Institut français de l'audit e
 
 2. Prévention et gestion des risques :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -68,15 +68,15 @@ Formation au service de sécurité incendie et assistance à personnes (SSIAP) d
 
 3. Divers :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -89,5 +89,11 @@ Formation de l'enseignement supérieur validée par le diplôme universitaire (D
 Formation de l'enseignement supérieur validée par un diplôme conférant le titre de docteur (domaine santé), effectuée totalement ou en partie à l'étranger. |
 
 8 |
+
+2 |
+
+Formation de l'enseignement supérieur validée par le diplôme inter-universitaire (DIU) de pratiques médicales en santé au travail pour la formation des collaborateurs médecins. |
+
+4 |
 
 2 |

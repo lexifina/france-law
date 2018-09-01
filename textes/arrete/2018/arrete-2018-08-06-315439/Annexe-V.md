@@ -4,15 +4,15 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 1. Management :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -24,15 +24,15 @@ Formation en langues rares (chinois, russe, arabe). |
 
 2. Formations communes sous-officiers :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -58,15 +58,15 @@ Formation maîtres instructeurs. |
 
 3. Prévention et gestion des risques :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -124,7 +124,7 @@ Formation au service de sécurité incendie et assistance à personnes (SSIAP) d
 
 1 |
 
-Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/ VIRP/ BLOC POMPE. |
+Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/ BLOC POMPE. |
 
 2 |
 
@@ -166,7 +166,7 @@ Formation de cadre sécurité nucléaire (SN) des escadrons de sécurité incend
 
 1 |
 
-Auditeur de la navigation aérienne (formation à l'école nationale de l'aviation civile-RANA-TANA) |
+Auditeur de la navigation aérienne (formation à l'école nationale de l'aviation civile - RANA -TANA) |
 
 2 |
 
@@ -174,15 +174,15 @@ Auditeur de la navigation aérienne (formation à l'école nationale de l'aviati
 
 4. Soutien opérationnel :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -204,9 +204,9 @@ Permis C, D, D1, BE, D (E). |
 
 2 |
 
-Transport de matières dangereuses de classe 1 |
+Transport de marchandises dangereuses de classe 1 (qualification initiale uniquement). |
 
-3 |
+2 |
 
 1 |
 
@@ -254,21 +254,27 @@ Formation SAFety METhodology (SAFMET) |
 
 5. Opérations en milieu aéronautique :
 
-5.1. Formation des officiers-personnel navigant :
+5.1. Formation des officiers - personnel navigant :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
 Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur). |
+
+8 |
+
+3 |
+
+Brevet de pilote à distance Drones Ab initio |
 
 8 |
 
@@ -280,9 +286,15 @@ Stage de qualification pilote sur hélicoptère Super Puma. |
 
 1 |
 
-Formation qualification de type pilote et formation de type additionnelle (FQTA) sur avions Airbus et Boeing. |
+Formation qualification de type pilote sur avions Airbus et Boeing. |
 
 6 |
+
+2 |
+
+Formation de type additionnelle (FQTA) sur Airbus A330 MRTT (si détention de qualification de type sur avions Airbus A310, Boeing C135 ou E3F, ou Falcon). |
+
+4 |
 
 2 |
 
@@ -292,7 +304,7 @@ Formation qualification de type pilote et formation de type additionnelle (FQTA)
 
 3 |
 
-Formation Global Air Traffic Management (GATM) PTX1 light sur Boeing KC-135 Stratotanker (concerne uniquement formation sur base aérienne d'Atlus, Oklahoma, USA). |
+Formation Global Air traffic Management (GATM) PTX1 light sur Boeing KC-135 Stratotanker (concerne uniquement formation sur base aérienne d'Atlus, Oklahoma, USA). |
 
 2 |
 
@@ -304,7 +316,7 @@ Formation réentraînement transport (RET). |
 
 2 |
 
-Formation Flight Examinator (FE) pilote avion Joint Aviation Requirement (JAR)-Flight Crew Licensing (FCL). |
+Formation Flight Examinator (FE) pilote avion Joint Aviation Requirement (JAR) - Flight Crew Licensing (FCL). |
 
 2 |
 
@@ -340,7 +352,7 @@ Formation initiale en milieu civil : cours intégré ATPL. |
 
 3 |
 
-Formation initiale en milieu civil : cours intégré CPL/ IR. |
+Formation initiale en milieu civil : cours intégré CPL/IR. |
 
 5 |
 
@@ -370,15 +382,21 @@ QT et QTA C130J. |
 
 2 |
 
-CCQ tous types d'aéronefs. |
+TRE (Type Rating Examinator). |
+
+2 |
+
+2 |
+
+CCQ tous types d'aéronefs (hors avion Airbus A330 MRTT) |
 
 2 |
 
 1 |
 
-TRE (Type Rating Examinator). |
+CCQ avion Airbus A330 MRTT |
 
-2 |
+4 |
 
 2 |
 
@@ -394,17 +412,23 @@ Qualification additionnelle dans le cadre d'une bi-qualification sur avions Falc
 
 2 |
 
+Formation LRE Drones (Launch and Recovery Element) |
+
+2 |
+
+2 |
+
 5.2. Autres formations :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -438,25 +462,31 @@ Formation mécanicien navigant ou membre d'équipage (toutes spécialités, sous
 
 1 |
 
-Stage industriel mécanicien navigant EC 725 Caracal/ EC 225 |
+Stage industriel mécanicien navigant EC 725 Caracal / EC 225 |
 
 2 |
 
 1 |
 
-Stage industriel ARO (air refueling operator) MRTT |
+Stage industriel ARO (Air Refueling Operator) MRTT |
 
 2 |
 
 1 |
 
-Stage qualification de type mécanicien vecteur A400M. |
+Stage qualification de type mécanicien vecteur A400M à l'étranger. |
 
 4 |
 
 2 |
 
-Stage qualification de type mécanicien avionique A400M. |
+Stage industriel de familiarisation spécifique T4 sur Airbus MRTT. |
+
+2 |
+
+1 |
+
+Stage qualification de type mécanicien avionique A400M à l'étranger. |
 
 4 |
 
@@ -476,9 +506,9 @@ Stage qualification de type mécanicien A330 et formation aux différences MRTT 
 
 Formation Airbus ingénieur performance A400M comprenant les deux stages :
 
--Basic Performance Course Engineer ;
+- basic performance course engineer ;
 
--Advanced Performance Engineer Course. |
+- advanced performance engineer course. |
 
 2 |
 
@@ -486,9 +516,9 @@ Formation Airbus ingénieur performance A400M comprenant les deux stages :
 
 Formation Airbus spécialiste Air Warfare A400M comprenant au moins un des stages :
 
--MPRS Tactical Planning ;
+- MPRS tactical planning ;
 
--MPRS Data & Map Management. |
+- MPRS Data&Map management. |
 
 2 |
 
@@ -496,27 +526,27 @@ Formation Airbus spécialiste Air Warfare A400M comprenant au moins un des stage
 
 Formation Airbus administrateur MPRS A400M comprenant au moins un des stages :
 
--DTDB-C Administrator Course ;
+- DTDB-C administrator course ;
 
--MPRS Data & Map Management. |
-
-2 |
-
-2 |
-
-Formation Airbus dispatcher A400M comprenant le stage MPRS Mission Planning. |
+- MPRS Data&Map management. |
 
 2 |
 
 2 |
 
-Stage industriel qualification de type mécanicien vecteur EC 725. |
+Formation Airbus dispatcher A400M comprenant le stage MPRS mission planning. |
+
+2 |
+
+2 |
+
+Stage industriel qualification de type mécanicien vecteur EC 725 Caracal. |
 
 4 |
 
 2 |
 
-Stage industriel qualification de type mécanicien avionique EC 725. |
+Stage industriel qualification de type mécanicien avionique EC 725 Caracal. |
 
 4 |
 
@@ -528,25 +558,67 @@ Formation globale à la conception de trajectoires IFR. |
 
 1 |
 
-Formation pilote vecteur Drones |
+Formation opérateur système drones (pilote et opérateur capteur) |
+
+3 |
 
 2 |
 
-2 |
-
-Formation Sensor Operator Drones |
-
-2 |
-
-2 |
-
-Qualification au type C130J, mécanicien vecteur. |
+Stage de qualification au type C130J, mécanicien vecteur à l'étranger. |
 
 4 |
 
 2 |
 
-Qualification au type C130J, mécanicien avionique. |
+Stage de qualification au type C130J, mécanicien avionique à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Vecteur DHC-6 à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Avionique DHC-6 à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Vecteur Drone REAPER à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Avionique Drone REAPER à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Armement Drone REAPER à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel maintenance Segment sol Drone REAPER à l'étranger. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Vecteur Puma. |
+
+4 |
+
+2 |
+
+Stage industriel de qualification de type Avionique Puma. |
 
 4 |
 
@@ -554,15 +626,15 @@ Qualification au type C130J, mécanicien avionique. |
 
 6. Systèmes de forces, systèmes d'armes et équipement :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -580,15 +652,15 @@ Stages mécaniciens et télémécaniciens SAMP-T. |
 
 7. Renseignement :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
@@ -600,15 +672,15 @@ Décodeur décrypteur. |
 
 8. Infrastructure :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-DURÉE DU LIEN
+Durée du lien
 
 au service
 
 (années) |
 
-COEFFICIENT
+Coefficient
 
 multiplicateur |
 
