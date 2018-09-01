@@ -190,7 +190,7 @@ B. - Epreuve d'admission
 
 Epreuve professionnelle en deux parties :
 
-1. Exploitation pédagogique de documents en langue étrangère (notamment audio, textuels, vidéo) soumis au candidat par le jury. Cette partie de l'épreuve comporte un exposé suivi d'un entretien. Elle tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours. Cette partie se déroule en français, à l'exception des exercices de toute nature qui sont présentés en langue étrangère.
+1. Exploitation pédagogique de documents en langue étrangère (notamment audio, textuels, vidéo) soumis au candidat par le jury. Cette partie de l'épreuve comporte un exposé suivi d'un entretien. Le jury précise au candidat le niveau d'enseignement (collège ou lycée général et technologique) auquel le sujet doit être abordé. Le jury précise au candidat le niveau d'enseignement (collège ou lycée général et technologique) auquel le sujet doit être abordé. Cette partie se déroule en français, à l'exception des exercices de toute nature qui sont présentés en langue étrangère.
 
 Durée de la préparation : deux heures ; durée de l'exposé : trente minutes maximum ; durée de l'entretien : vingt-cinq minutes maximum.
 
@@ -202,31 +202,25 @@ Chacune des parties entre pour moitié dans la notation.
 
 Dix minutes maximum imputables sur la durée totale des entretiens pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet échange se déroule en langue étrangère.
 
-Section lettres
+Section lettres : lettres classiques, lettres modernes
 
-Les candidats ont le choix au moment de l'inscription entre deux options :
+Afin de favoriser une organisation conjointe du concours dans les deux disciplines, un même président du jury peut être nommé par le ministre chargé de l'éducation nationale dans les conditions prévues à l'article 4 du présent arrêté ; le ou les vice-présidents et les autres membres du jury sont nommés dans les mêmes conditions en tenant compte de la représentation de chacune des disciplines. Les candidats proposés pour l'admissibilité et pour l'admission font l'objet d'un classement distinct en fonction de la discipline choisie.
 
-option lettres classiques ;
+Les épreuves sont déterminées ainsi qu'il suit :
 
-option lettres modernes.
-
-Les candidats proposés pour l'admissibilité et pour l'admission par le jury du concours font l'objet de classements distincts selon l'option.
+I - Lettres classiques
 
 A. - Epreuve d'admissibilité
 
 Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-Pour les candidats ayant choisi l'option lettres classiques, le dossier de RAEP porte, au choix du candidat au moment de l'inscription, soit sur le français, soit sur une langue ancienne (latin ou grec).
+Le dossier de RAEP porte, au choix du candidat au moment de l'inscription, soit sur le français, soit sur une langue ancienne (latin ou grec).
 
 B. - Epreuve d'admission
 
 Epreuve professionnelle.
 
-Durée de la préparation : deux heures et trente minutes.
-
-Durée totale de l'épreuve : une heure et vingt minutes maximum (durée de l'exposé : quarante minutes maximum ; durée de l'entretien : quarante minutes maximum).
-
-Coefficient 2.
+Durée de la préparation : deux heures et trente minutes ; durée totale de l'épreuve : une heure et vingt minutes maximum (durée de l'exposé : quarante minutes maximum ; durée de l'entretien : quarante minutes maximum) ; coefficient 2.
 
 L'épreuve comporte :
 
@@ -238,11 +232,37 @@ L'épreuve consiste à élaborer, pour un niveau donné et à partir d'un dossie
 
 2. L'exposé est suivi d'un entretien qui a pour base la situation d'enseignement proposée et est étendu à certains aspects de l'expérience professionnelle du candidat.
 
-a) Il inclut, pour les candidats de l'option lettres modernes, un temps d'interrogation relatif à la maîtrise de la langue française et comportant une ou plusieurs questions d'analyse grammaticale (durée : dix minutes maximum) ;
+Il inclut une traduction improvisée, sans dictionnaire, d'un court texte de latin ou de grec choisi par le jury parmi les auteurs du programme des classes (durée : dix minutes maximum).
 
-b) Il inclut pour les candidats de l'option lettres classiques une traduction improvisée, sans dictionnaire, d'un court texte de latin ou de grec choisi par le jury parmi les auteurs du programme des classes (durée : dix minutes maximum).
+Le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
 
-Pour les deux options, le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+II - Lettres modernes
+
+A. - Epreuve d'admissibilité
+
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
+
+B. - Epreuve d'admission
+
+Epreuve professionnelle.
+
+Durée de la préparation : deux heures et trente minutes ; durée totale de l'épreuve : une heure et vingt minutes maximum (durée de l'exposé : quarante minutes maximum ; durée de l'entretien : quarante minutes maximum) ; coefficient 2.
+
+L'épreuve comporte :
+
+1. Une analyse d'une situation d'enseignement.
+
+Le jury propose au candidat un dossier de nature professionnelle et précise le niveau d'enseignement (collège ou lycée) auquel la situation d'enseignement doit être abordée.
+
+L'épreuve consiste à élaborer, pour un niveau donné et à partir d'un dossier comportant un ou plusieurs textes littéraires éventuellement accompagnés d'un ou de plusieurs documents, un projet de séquence d'enseignement assorti de l'explication d'un texte de langue française choisi par le jury. La méthode d'explication est laissée au choix du candidat. La séquence devra comporter une séance d'étude de la langue.
+
+2. L'exposé est suivi d'un entretien qui a pour base la situation d'enseignement proposée et est étendu à certains aspects de l'expérience professionnelle du candidat.
+
+Il inclut un temps d'interrogation relatif à la maîtrise de la langue française et comportant une ou plusieurs questions d'analyse grammaticale (durée : dix minutes maximum).
+
+Le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
@@ -310,7 +330,7 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuve d'admission
 
-Epreuve professionnelle. Cette épreuve s'appuie sur un thème de physique et sur un thème de chimie, pris chacun dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale et tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
+Epreuve professionnelle. Cette épreuve s'appuie sur un thème de physique et sur un thème de chimie, pris chacun dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale.
 
 L'épreuve peut faire appel à l'emploi des technologies d'information et de communication pour l'enseignement (TICE). Elle comporte deux parties suivies d'un entretien avec le jury :
 
@@ -318,7 +338,7 @@ L'épreuve peut faire appel à l'emploi des technologies d'information et de com
 
 - présentation d'une séquence expérimentale de nature qualitative ou quantitative, soumise au candidat par le jury.
 
-Si l'exploitation pédagogique des documents concerne la physique, la réalisation de la séquence expérimentale appartient au domaine de la chimie. Si l'exploitation pédagogique des documents concerne la chimie, la réalisation de la séquence expérimentale appartient au domaine de la physique.
+Si l'exploitation pédagogique des documents concerne la physique, la réalisation de la séquence expérimentale appartient au domaine de la chimie. Si l'exploitation pédagogique des documents concerne la chimie, la réalisation de la séquence expérimentale appartient au domaine de la physique. Chaque partie est traitée à un niveau de classe (collège ou lycée général et technologique) précisé au candidat lors de la remise du sujet précédant la préparation.
 
 L'entretien porte sur le thème de physique et sur le thème de chimie qui correspondent à l'épreuve et s'étend à des aspects plus larges de l'expérience professionnelle du candidat.
 

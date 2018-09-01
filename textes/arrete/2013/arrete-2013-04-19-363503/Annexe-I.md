@@ -156,7 +156,7 @@ La première partie de l'épreuve est notée sur 8 points ; la seconde partie es
 
 L'épreuve prend appui sur un ensemble de documents identifiés comprenant un choix de textes, partitions et/ou éléments iconographiques, et un ou plusieurs extraits musicaux enregistrés.
 
-Tirant parti de l'analyse de cet ensemble, le candidat développe et argumente une problématique disciplinaire induite par les programmes d'éducation musicale au collège ou de musique au lycée et exposée par le sujet ; il veille par ailleurs à identifier les connaissances et compétences susceptibles d'être construites et développées sur cette base par des élèves à un ou plusieurs niveaux de classe. Il expose et justifie ses choix, ses objectifs et ses méthodes. L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
+Tirant parti de l'analyse de cet ensemble, le candidat développe et argumente une problématique disciplinaire induite par les programmes d'éducation musicale au collège ou de musique au lycée ; il veille par ailleurs à identifier les connaissances et compétences susceptibles d'être construites et développées sur cette base par des élèves à un ou plusieurs niveaux de classe. Il expose et justifie ses choix, ses objectifs et ses méthodes. L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
 Le ou les extraits enregistrés sont diffusés à plusieurs reprises durant l'épreuve :
 
@@ -178,7 +178,7 @@ L'épreuve comporte l'exposé d'une séquence d'éducation musicale et l'interpr
 
 L'exposé initial se déroule en deux temps qui peuvent se succéder dans l'ordre souhaité par le candidat :
 
-1. Séquence d'éducation musicale : le candidat présente et analyse les composantes d'une séquence d'éducation musicale au collège qu'il aura élaborée à partir d'objectifs de formation et de domaines de compétences imposés par le sujet.
+1. Séquence d'éducation musicale : le candidat présente et analyse les composantes d'une séquence d'éducation musicale au collège qu'il aura élaborée à partir des compétences imposées par le sujet et inscrites dans les quatre champs de compétences qui structurent les programmes du cycle 3 (6e) et du cycle 4.
 
 Le sujet propose un ensemble de documents. Le candidat choisit ceux qui lui semblent nécessaires à la construction de sa séquence.
 
@@ -188,7 +188,7 @@ Durant l'épreuve, le candidat est obligatoirement amené à chanter un extrait 
 
 A l'exception des partitions des pièces pour voix et accompagnement, les différents documents du sujet lui sont transmis en format numérique.
 
-2. Interprétation d'un chant accompagné : au début de la préparation, le candidat transmet au jury les partitions d'un ensemble de trois chants accompagnés qu'il devra connaître et maîtriser en vue d'une interprétation devant le jury. Le candidat présente brièvement et interprète, en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte, le chant choisi par le jury parmi ces trois propositions. Celles-ci doivent relever de répertoires différents tels que précisés par le programme du collège, l'une au moins relevant du domaine de la chanson, une autre au moins relevant du domaine des répertoires savants. Chacune doit pouvoir être adaptée pour être chantée par une classe de collège ou de lycée. Cette partie de l'épreuve ne peut excéder cinq minutes.
+2. Interprétation d'un chant accompagné : au début de la préparation, le candidat transmet au jury les partitions d'un ensemble de trois chants accompagnés qu'il devra connaître et maîtriser en vue d'une interprétation devant le jury. Le candidat présente brièvement et interprète, en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte, le chant choisi par le jury parmi ces trois propositions. Celles-ci doivent relever d'esthétiques diverses, l'une au moins appartenant au domaine de la chanson, une autre au moins relevant du domaine des répertoires savants. Chacune doit pouvoir être adaptée pour être chantée par une classe de collège ou de lycée. Cette partie de l'épreuve ne peut excéder cinq minutes.
 
 L'entretien permet au jury d'interroger le candidat sur les aspects didactiques et pédagogiques de ses choix artistiques et sur ses stratégies d'adaptation du chant interprété pour qu'il puisse être chanté par une classe de collège ou de lycée, dans le cadre de la réalisation d'un projet musical.
 
@@ -204,7 +204,7 @@ Durant la préparation, le candidat dispose :
 
 Durant l'épreuve, le candidat dispose :
 
-― d'un piano acoustique ;
+― d'un piano, acoustique ou numérique ;
 
 ― d'un clavier électronique MIDI ;
 
@@ -226,7 +226,7 @@ Les éléments descriptifs du contexte institutionnel peuvent concerner notammen
 
 Sur cette base, et durant la préparation, le candidat, d'une part, conçoit un projet musical susceptible d'être mis en œuvre durant plusieurs séances successives d'enseignement dont il présente les objectifs et précise les compétences qui seront particulièrement mobilisées pour sa réalisation, et, d'autre part, élabore un bref exposé mettant en perspective le travail précédemment réalisé avec les éléments descriptifs du contexte institutionnel présentés par le sujet.
 
-Durant sa présentation, le candidat réalise plusieurs moments différents et significatifs de son projet en utilisant en tant que de besoin les différents outils à sa disposition, notamment sa voix, le piano, le clavier MIDI et le séquenceur MIDI audionumérique. Il est également amené à apprendre et à faire interpréter à un petit ensemble vocal mis à sa disposition un passage significatif de son projet qu'il aura pris soin d'arranger pour deux voix égales et accompagnement durant la préparation.
+Durant sa présentation, le candidat réalise plusieurs moments différents et significatifs de son projet en utilisant en tant que de besoin les différents outils à sa disposition, notamment sa voix, le piano (acoustique ou numérique), le clavier MIDI et le séquenceur MIDI audionumérique. Il est également amené à apprendre et à faire interpréter à un petit ensemble vocal mis à sa disposition un passage significatif de son projet qu'il aura pris soin d'arranger pour deux voix égales et accompagnement durant la préparation.
 
 L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
@@ -520,47 +520,93 @@ L'épreuve prend appui sur un ou plusieurs documents écrits consacrés à un su
 
 Cette épreuve permet au candidat de montrer sa capacité à s'exprimer avec aisance en langue des signes française en continu et en interaction en présentant et en défendant un point de vue argumenté, ainsi que sa capacité à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
-Section lettres
+Section lettres : lettres classiques, lettres modernes
 
-L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
+L'ensemble des épreuves vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-Les candidats ont le choix au moment de l'inscription entre deux options :
+Afin de favoriser une organisation conjointe du concours dans les deux disciplines, un même président du jury peut être nommé par le ministre chargé de l'éducation nationale dans les conditions prévues à l'article 4 du présent arrêté ; le ou les vice-présidents et les autres membres du jury sont nommés dans les mêmes conditions en tenant compte de la représentation de chacune des disciplines. Les candidats proposés pour l'admissibilité et pour l'admission font l'objet d'un classement distinct en fonction de la discipline choisie.
 
-Option lettres classiques ;
+Les épreuves sont déterminées ainsi qu'il suit :
 
-Option lettres modernes.
+I-Lettres classiques
 
-Les candidats proposés pour l'admissibilité et pour l'admission par le jury du concours font l'objet de classements distincts selon l'option.
-
-A. ― Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition française.
 
-Composition française fondée sur des lectures nombreuses et variées, mobilisant une culture littéraire et artistique, des connaissances liées aux genres, à l'histoire littéraire de l'Antiquité à nos jours, à l'histoire des idées et des formes, et s'attachant aussi aux questions d'esthétique et de poétique, de création, de réception et d'interprétation des œuvres. Elle porte sur les objets et domaines d'étude des programmes de lycée. L'épreuve est commune aux deux options.
+Composition française fondée sur des lectures nombreuses et variées, mobilisant une culture littéraire et artistique, des connaissances liées aux genres, à l'histoire littéraire de l'Antiquité à nos jours, à l'histoire des idées et des formes, et s'attachant aussi aux questions d'esthétique et de poétique, de création, de réception et d'interprétation des œuvres. Elle porte sur les objets et domaines d'étude des programmes de lycée.
+
+Au titre de la même session, le sujet est commun avec l'épreuve de composition française prévue au A du II pour les lettres modernes.
 
 Durée : six heures ; coefficient 1.
 
-2° Epreuve écrite à partir d'un dossier.
-
-Epreuve de l'option lettres classiques : épreuve de latin et de grec.
+2° Epreuve écrite à partir d'un dossier : épreuve de latin et de grec.
 
 L'épreuve permet d'évaluer les compétences en langues et cultures de l'Antiquité des candidats.
 
-Elle prend appui sur un dossier comportant deux textes de langues anciennes (latin et grec) et un ou plusieurs documents caractérisant une situation d'enseignement et destiné(s) à servir d'appui à une mise en situation professionnelle des connaissances.
+Elle prend appui sur un dossier comportant deux textes de langues anciennes (latin et grec) liés par une même thématique et un document textuel ou iconographique permettant de caractériser une situation d'enseignement et destiné à servir d'appui à une mise en situation professionnelle des connaissances.
 
-Elle porte à la fois sur le latin et le grec et se déroule en deux temps :
+Les textes latin et grec proposés aux candidats n'excèdent pas 160 mots chacun.
+
+L'épreuve se déroule en deux temps :
 
 a) Le premier, noté sur 15 points, consiste en une version dans chacune des langues, latine et grecque (7,5 points par version) ;
 
-b) Le second, noté sur 5 points, invite le candidat à mobiliser ses connaissances grammaticales, historiques, littéraires et culturelles dans une perspective d'enseignement, en les inscrivant dans le cadre des programmes de collège et de lycée et en prenant appui sur les documents du dossier. Une question précisant le ou les points à traiter et le niveau d'enseignement oriente la réflexion pédagogique du candidat.
+b) Le second, noté sur 5 points, invite le candidat à proposer un projet de lecture pour une classe donnée, en mobilisant ses connaissances historiques, littéraires, culturelles, voire stylistiques, et celles des programmes de collège et de lycée, à partir de la mise en relation de l'un des deux textes de langues anciennes choisi par le jury et du document textuel ou iconographique inclus dans le dossier.
 
 Durée : six heures ; coefficient : 1.
 
-Epreuve de l'option lettres modernes : étude grammaticale de textes de langue française.
+B.-Epreuves d'admission
+
+Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
+
+1° Epreuve de mise en situation professionnelle : explication de texte et question de grammaire.
+
+L'épreuve s'inscrit dans le cadre des programmes des classes de collège et de lycée. Elle porte sur un texte de langue française accompagné d'un ou de plusieurs documents à visée didactique ou pédagogique (notamment extraits de manuels ou travaux d'élèves), le tout constituant le dossier d'une leçon. Elle consiste en une explication de texte assortie d'une question de grammaire scolaire. La méthode d'explication est laissée au choix du candidat. La présentation de la question de grammaire prend la forme d'un développement organisé en relation avec les programmes et s'appuyant sur un ou plusieurs documents liés à la question posée.
+
+L'exposé est suivi d'un entretien avec le jury, au cours duquel le candidat est invité à justifier ses analyses et ses choix didactiques ou pédagogiques, à manifester sa capacité à mobiliser une culture littéraire, artistique et grammaticale pour l'adapter à un public ou à un contexte donné, et à dire comment il aborderait pour un niveau de classe donné le texte et la question de grammaire proposés.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (exposé : quarante minutes ; entretien : vingt minutes) ; coefficient 2.
+
+2° Analyse d'une situation professionnelle.
+
+L'épreuve porte sur les langues et cultures de l'Antiquité. Elle consiste à élaborer, pour un niveau donné, un projet de séquence d'enseignement assorti du développement d'une séance de cours, à partir d'un dossier proposé par le jury. Cette proposition du candidat sert de point de départ à un entretien d'analyse de situation professionnelle.
+
+Le dossier est composé d'un texte long ou d'un corpus de textes, latins ou grecs, éventuellement accompagnés de documents (reproductions d'œuvres d'art, documents pour la classe, texte littéraire de langue française …) et présentés autant que de besoin avec sa/ leur traduction. Ce texte long ou ce corpus sont choisis en référence aux entrées majeures des programmes de collège et de lycée. Un temps consacré à l'étude de la langue et à la relation entre monde antique et monde moderne est obligatoirement compris dans cette séquence.
+
+L'épreuve vérifie la capacité des candidats :
+
+- à analyser ces textes et documents éventuels et à faire preuve d'esprit critique ;
+
+- à inscrire l'ensemble dans une démarche d'apprentissage en relation avec les programmes et à proposer de manière précise et réfléchie la mise en œuvre d'une séance dans une classe ;
+
+- à mobiliser, à un premier niveau de maîtrise, les procédés didactiques courants mis en œuvre dans un contexte professionnel réel, procédés susceptibles notamment de favoriser l'intérêt et l'activité propre des élèves, au service des apprentissages ;
+
+- à se projeter dans l'exercice du futur métier ;
+
+- à communiquer à l'oral de manière claire et organisée.
+
+Au cours de l'entretien qui suit l'exposé du candidat, la perspective d'analyse de situation professionnelle définie par l'épreuve est élargie à la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+
+Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
+
+II-Lettres modernes
+
+A.-Epreuves écrites d'admissibilité
+
+1° Composition française.
+
+Composition française fondée sur des lectures nombreuses et variées, mobilisant une culture littéraire et artistique, des connaissances liées aux genres, à l'histoire littéraire de l'Antiquité à nos jours, à l'histoire des idées et des formes, et s'attachant aussi aux questions d'esthétique et de poétique, de création, de réception et d'interprétation des œuvres. Elle porte sur les objets et domaines d'étude des programmes de lycée.
+
+Au titre de la même session, le sujet est commun avec l'épreuve de composition française prévue au A du I ci-dessus pour les lettres classiques.
+
+Durée : six heures ; coefficient 1.
+
+2° Epreuve écrite à partir d'un dossier : étude grammaticale de textes de langue française.
 
 L'épreuve permet d'évaluer les compétences en grammaire scolaire des candidats.
 
-Elle prend appui sur un dossier comportant au moins deux textes de langue française d'époques différentes (dont un de français médiéval) et un ou plusieurs documents caractérisant une situation d'enseignement et destiné(s) à servir d'appui à une mise en situation professionnelle des connaissances. Elle mobilise des compétences d'histoire de la langue, de français moderne ou contemporain et de stylistique.
+Elle prend appui sur un dossier comportant au moins deux textes de langue française d'époques différentes (dont un de français médiéval) et un ou plusieurs documents caractérisant une situation d'enseignement et destiné (s) à servir d'appui à une mise en situation professionnelle des connaissances. Elle mobilise des compétences d'histoire de la langue, de français moderne ou contemporain et de stylistique.
 
 L'épreuve se déroule en deux temps :
 
@@ -570,15 +616,15 @@ a) Le premier, noté sur 15 points, consiste en une étude grammaticale des text
 
 2. Etude synchronique du texte de français moderne ou contemporain ;
 
-3. Etude stylistique ;
+3. Etude stylistique.
 
-b) Le second, noté sur 5 points, invite le candidat à mobiliser ses connaissances grammaticales dans une perspective d'enseignement, en les inscrivant dans le cadre des programmes de collège et de lycée et en prenant appui sur les documents du dossier. Une question précisant le point de langue à traiter et le niveau d'enseignement oriente la réflexion pédagogique du candidat.
+b) Le second, noté sur 5 points, invite le candidat à mobiliser ses connaissances dans une perspective d'enseignement, en les inscrivant dans le cadre des programmes de collège et de lycée et en prenant appui sur les documents du dossier. Une question précisant le point de langue à traiter et le niveau d'enseignement oriente la réflexion pédagogique du candidat.
 
 L'épreuve permet au candidat de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
 Durée : six heures ; coefficient : 1.
 
-B. ― Epreuves d'admission
+B.-Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -594,61 +640,51 @@ Durée de la préparation : trois heures ; durée de l'épreuve : une heure (exp
 
 Epreuve au choix :
 
-Pour l'option lettres classiques :
+1. Latin ;
 
-1. Langues et cultures de l'Antiquité.
+2. Littérature et langue françaises ;
 
-Pour l'option lettres modernes.
+3. Français langue étrangère et français langue seconde ;
 
-2. Latin pour lettres modernes.
+4. Théâtre ou cinéma.
 
-3. Littérature et langue françaises.
+L'épreuve consiste à élaborer, pour un niveau donné, un projet de séquence d'enseignement assorti du développement d'une séance de cours, à partir d'un dossier proposé par le jury et composé d'un ou de plusieurs textes littéraires ou de documents divers (reproductions d'œuvres d'art, travaux de mises en scène, extraits de films, documents pour la classe, articles …). Cette proposition du candidat sert de point de départ à un entretien d'analyse de situation professionnelle.
 
-4. Français langue étrangère et français langue seconde.
-
-5. Théâtre ou cinéma.
-
-L'épreuve consiste à élaborer, pour un niveau donné, un projet de séquence d'enseignement assorti du développement d'une séance de cours, à partir d'un dossier proposé par le jury et composé d'un ou de plusieurs textes littéraires ou de documents divers (reproductions d'œuvres d'art, travaux de mises en scène, extraits de films, documents pour la classe, articles...). Cette proposition du candidat sert de point de départ à un entretien d'analyse de situation professionnelle.
-
-1. Langues et cultures de l'Antiquité pour lettres classiques
-
-Le candidat construit une séquence d'enseignement définie pour un niveau donné. L'épreuve prend appui sur un texte long ou un corpus de textes, latins ou grecs, éventuellement accompagnés de documents et présentés autant que de besoin avec sa/leur traduction. Ce texte long ou ce corpus sont choisis en référence aux entrées majeures des programmes de collège et de lycée. Un temps consacré à l'étude de la langue et à la relation entre monde antique et monde moderne est obligatoirement compris dans cette séquence.
-
-2. Latin pour lettres modernes
+1. Latin
 
 L'épreuve prend appui sur un texte latin en lien avec les programmes, présenté avec sa traduction française, à l'exception d'une quinzaine de lignes ou de vers non traduits.
 
 L'épreuve comprend la traduction du passage non traduit ; elle inclut une question de langue et culture latines prenant appui sur un mot ou un segment du texte, privilégiant les entrées majeures des programmes du collège et du lycée et mettant en relation le monde antique et le monde moderne.
 
-3. Littérature et langue françaises
+2. Littérature et langue françaises
 
 Le candidat construit une séquence d'enseignement à partir d'un corpus choisi en référence aux entrées des programmes et comportant un texte littéraire long ou plusieurs textes littéraires, éventuellement accompagnés de documents. Un temps consacré à l'étude de la langue est obligatoirement compris dans cette séquence.
 
-4. Français langue étrangère et français langue seconde
+3. Français langue étrangère et français langue seconde
 
-L'épreuve prend appui sur un document ou un corpus de documents (articles, textes, pages de manuels et de méthodes d'enseignement du français langue étrangère ou du français langue seconde ). Le candidat analyse le ou les textes et documents en fonction d'une question indiquée par le sujet de manière à en proposer une exploitation sous la forme d'un projet de séquence pédagogique.
+L'épreuve prend appui sur un document ou un corpus de documents (articles, textes, pages de manuels et de méthodes d'enseignement du français langue étrangère ou du français langue seconde). Le candidat analyse le ou les textes et documents en fonction d'une question indiquée par le sujet de manière à en proposer une exploitation sous la forme d'un projet de séquence pédagogique.
 
-5. Théâtre ou cinéma (au choix du candidat au moment de l'inscription)
+4. Théâtre ou cinéma (au choix du candidat au moment de l'inscription)
 
 a) Cinéma :
 
-L'épreuve prend appui sur une séquence filmique accompagnée d'un dossier constitué de plusieurs documents (photogrammes de film, textes littéraires, articles critiques, extraits de scénario...). Le candidat analyse les documents, l'extrait filmique, les enjeux du dossier en s'appuyant sur sa culture cinématographique et critique, de manière à en proposer une exploitation sous la forme d'un projet de séquence.
+L'épreuve prend appui sur une séquence filmique accompagnée d'un dossier constitué de plusieurs documents (photogrammes de film, textes littéraires, articles critiques, extraits de scénario …). Le candidat analyse les documents, l'extrait filmique, les enjeux du dossier en s'appuyant sur sa culture cinématographique et critique, de manière à en proposer une exploitation sous la forme d'un projet de séquence.
 
 b) Théâtre :
 
-L'épreuve prend appui sur un ou plusieurs extraits d'une captation théâtrale accompagné(s) d'un dossier constitué de plusieurs documents (photos de mises en scène, textes, notes d'intention, articles théoriques ou critiques). Le candidat analyse les documents, les enjeux du dossier et les questions dramaturgiques posées par les extraits en s'appuyant sur sa culture théâtrale et critique, de manière à en proposer une exploitation sous la forme d'un projet de séquence.
+L'épreuve prend appui sur un ou plusieurs extraits d'une captation théâtrale accompagné (s) d'un dossier constitué de plusieurs documents (photos de mises en scène, textes, notes d'intention, articles théoriques ou critiques). Le candidat analyse les documents, les enjeux du dossier et les questions dramaturgiques posées par les extraits en s'appuyant sur sa culture théâtrale et critique, de manière à en proposer une exploitation sous la forme d'un projet de séquence.
 
 L'épreuve d'analyse d'une situation professionnelle vérifie la capacité des candidats :
 
-― à analyser ces textes ou ces documents et à faire preuve d'esprit critique ;
+- à analyser ces textes ou ces documents et à faire preuve d'esprit critique ;
 
-― à inscrire l'ensemble des textes et documents dans une démarche d'apprentissage en relation avec les programmes et à proposer de manière précise et réfléchie la mise en œuvre d'une séance dans une classe ;
+- à inscrire l'ensemble des textes et documents dans une démarche d'apprentissage en relation avec les programmes et à proposer de manière précise et réfléchie la mise en œuvre d'une séance dans une classe ;
 
-― à mobiliser, à un premier niveau de maîtrise, les procédés didactiques courants mis en œuvre dans un contexte professionnel réel, procédés susceptibles notamment de favoriser l'intérêt et l'activité propre des élèves, au service des apprentissages ;
+- à mobiliser, à un premier niveau de maîtrise, les procédés didactiques courants mis en œuvre dans un contexte professionnel réel, procédés susceptibles notamment de favoriser l'intérêt et l'activité propre des élèves, au service des apprentissages ;
 
-― à se projeter dans l'exercice du futur métier ;
+- à se projeter dans l'exercice du futur métier ;
 
-― à communiquer à l'oral de manière claire et organisée.
+- à communiquer à l'oral de manière claire et organisée.
 
 Au cours de l'entretien qui suit l'exposé du candidat, la perspective d'analyse de situation professionnelle définie par l'épreuve est élargie à la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
@@ -916,7 +952,7 @@ Pendant le temps de préparation, le candidat dispose d'un accès à une bibliot
 
 Le candidat peut être assisté par un personnel technique.
 
-Durée de la préparation : quatre heures ; durée de l'épreuve : une heure (exposé : quarante minutes ; entretien : vingt minutes) ; coefficient 2.
+Durée de la préparation : quatre heures ; durée de l'épreuve de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 2° Epreuve d'analyse d'une situation professionnelle.
 
