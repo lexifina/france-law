@@ -100,7 +100,7 @@ Directeur du centre de service partagé recettes de l'hôpital d'instruction des
 
 P. 178 |
 
-Directeur du centre de service partagé dépenses de la direction des approvisionnements en produits de santé |
+Directeur de la plateforme achats-finances-Santé |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
