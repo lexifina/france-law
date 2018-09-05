@@ -1,0 +1,56 @@
+# Droit voisin au profit des agences et éditeurs de presse
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37127
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/droit_voisin_agences_editeurs_presse
+- Sénat : https://www.senat.fr/dossier-legislatif/ppl17-705.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-09-05 : 1er dépôt d'une initiative. (PIONSNR5S299B0705)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-09-05 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-01-16 : Dépôt de rapport (RAPPSNR5S319B0243, PIONSNR5S319BTC0244)
+  - Discussion en séance publique
+    - 2019-01-24 : Discussion en séance publique
+    - 2019-01-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-01-24 : Dépôt d'une initiative en navette (PIONANR5L15B1616)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-01-24 : Renvoi en commission au fond
+      - 2019-04-03 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-04-30 : Réunion de commission
+      - 2019-05-09 : Réunion de commission
+      - 2019-04-30 : Dépôt de rapport (RAPPANR5L15B1912, PIONANR5L15BTC1912)
+  - Discussion en séance publique
+    - 2019-05-09 : Discussion en séance publique
+    - 2019-05-09 : Discussion en séance publique
+    - 2019-05-09 : Décision
+- deuxième lecture
+  - 2019-05-09 : Dépôt d'une initiative en navette (PIONSNR5S319B0489)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-09 : Renvoi en commission au fond
+      - 2019-06-19 : Dépôt de rapport (RAPPSNR5S319B0581, PIONSNR5S319BTC0582)
+  - Discussion en séance publique
+    - 2019-07-03 : Discussion en séance publique
+    - 2019-07-03 : Décision
+- deuxième lecture
+  - 2019-07-08 : Dépôt d'une initiative en navette (PIONANR5L15B2118)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-08 : Renvoi en commission au fond
+      - 2019-07-15 : Réunion de commission
+      - 2019-07-23 : Réunion de commission
+      - 2019-07-15 : Dépôt de rapport (RAPPANR5L15B2141, PIONANR5L15BTC2141)
+  - Discussion en séance publique
+    - 2019-07-23 : Discussion en séance publique
+    - 2019-07-23 : Décision
+- Promulgation de la loi
+  - 2019-07-24 : Promulgation d'une loi
