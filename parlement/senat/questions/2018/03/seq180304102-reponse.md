@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304102
+
+- Question : [SEQ180304102](seq180304102.md) — Passerelle vers la profession d'avocat
+
+## Réponse
+
+*Justice, JO du 2018-09-06, page 4595*
+
+En vertu des articles 11 et 12 de la loi n° 71-1130 du 31 décembre 1971, portant réforme de certaines professions judiciaires et juridiques, l'accès à la profession d'avocat est réservé aux titulaires d'une maîtrise en droit ou d'un diplôme reconnu comme équivalent, ayant subi avec succès l'examen d'accès à un centre régional de formation professionnelle d'avocats, suivi une formation théorique et pratique de dix-huit mois et obtenu le certificat d'aptitude à la profession d'avocat. Parallèlement à cette voie de droit commun, des voies d'accès spécifiques sont prévues par les articles 97 et 98 du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat. Comme indiqué précédemment, la circonstance que des diplômés notaires aient pu exercer des fonctions de notaire assistant et réaliser un certain nombre de tâches sous le contrôle d'un notaire ne permet pas de bénéficier des passerelles d'accès prévues par les dispositions précitées pour devenir avocat. En effet, s'agissant d'accès dérogatoires à la profession d'avocat, leur champ d'application est volontairement limité et la Cour de cassation donne une interprétation stricte de l'ensemble des cas de dispense. En outre, ces dispositions se fondent, pour chaque métier, sur l'expérience professionnelle acquise selon certaines qualités, dont celle de notaire, considérée comme suffisante pour permettre un exercice libéral de la profession d'avocat sans suivre préalablement la formation à la profession d'avocat. Il n'est pas prévu de modifier dans l'immédiat ces dispositions mais la question des passerelles d'accès sera intégrée à la réflexion menée par la Chancellerie sur la formation et à l'accès à la profession d'avocat.
