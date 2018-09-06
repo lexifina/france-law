@@ -1,117 +1,193 @@
 # Article Annexe
 
-PLAN ET CONTENU DE L'ÉTUDE DE DANGERS D'UN BARRAGE OU D'UNE DIGUE
+PLAN ET CONTENU DE L'ETUDE DE DANGERS D'UN BARRAGE
 
-0. Résumé non technique de l'étude de dangers
+0. Résumé non technique
 
-Le résumé non technique est présenté sous une forme didactique et est illustré par des éléments cartographiques, de manière à favoriser la communication de l'étude à des non-spécialistes et à permettre une appréciation convenable des enjeux.
-
-Le résumé évoque la situation actuelle de l'ouvrage résultant de l'analyse des risques, illustre, en termes de dommages aux biens et aux personnes, la gravité des accidents potentiels qui sont étudiés, fournit une évaluation de la probabilité d'occurrence de ces accidents et présente les principales mesures qui ont été prises pour réduire les risques ou qui sont prévues à court ou moyen terme. Dans ce dernier cas, le résumé précise le calendrier prévu pour la mise en œuvre de ces mesures et indique celles qui sont prises immédiatement à titre conservatoire.
+Le résumé non technique de l'étude de dangers (EDD) est présenté sous une forme didactique et est illustré par des éléments cartographiques.
 
 1. Renseignements administratifs
 
-Cette rubrique contient l'identification du concessionnaire ou du propriétaire de l'ouvrage et, s'il est différent, de l'exploitant.L'identification des rédacteurs et des organismes ayant participé à l'élaboration de l'étude de dangers est également indiquée.
+Cette rubrique contient :
 
-Elle mentionne par ailleurs les références du titre de concession ou d'autorisation dont relève l'ouvrage, les caractéristiques de ce dernier qui sont visées, selon les cas, à l'article R. 214-112 ou R. 214-113 du code de l'environnement et, s'il y a lieu, la référence de la décision de classement prise par le préfet en application de l'article R. 214-114 de ce même code.
+a) Identification du propriétaire ou de l'exploitant du barrage ou du concessionnaire pour un ouvrage concédé ;
+
+b) Identification de l'organisme agréé qui a réalisé l'étude de dangers (EDD) pour le compte du responsable visé au a ;
+
+c) Rappel de la classe du barrage et des autorisations ou, si le barrage relève du régime de la concession, des approbations existantes qui se rapportent à l'ouvrage ;
+
+d) Rappel du cadre administratif dans lequel l'EDD est réalisée en indiquant à cet effet si elle se réfère :
+
+-cas n° 1 : l'EDD est jointe à une demande d'autorisation ou d'approbation initiale de barrage ;
+
+-cas n° 2 : l'EDD est jointe à une demande d'autorisation ou d'approbation nouvelle d'un barrage existant en raison des travaux qui y sont prévus ;
+
+-cas n° 3 : l'EDD est actualisée conformément à l'article R. 214-117-II du code de l'environnement ;
+
+-cas n° 4 : cas complémentaire à l'un des cas 1 à 3 susvisés prévoyant que l'analyse des risques contenue dans l'EDD soit également utilisée par le maître d'ouvrage pour les besoins de l'établissement d'un plan particulier d'intervention conformément à l'article R. 741-34 du code de la sécurité intérieure.
 
 2. Objet de l'étude
 
-En faisant référence aux articles R. 214-115 à R. 214-117 du code de l'environnement et au présent arrêté, cette rubrique précise s'il s'agit d'une étude de dangers d'un ouvrage neuf, de la première étude de dangers demandée par le préfet pour un ouvrage existant (préciser l'échéance imposée pour sa restitution), de la mise à jour décennale d'une étude existante ou d'une étude complémentaire à la demande du préfet.
-
-Par ailleurs, cette rubrique fait apparaître en tant que de besoin l'articulation de l'étude de dangers avec les autres démarches réglementaires qui concernent l'ouvrage. Dans le cas des ouvrages soumis aux décrets du 15 septembre 1992 et du 13 septembre 2005 susvisés, cette rubrique indique les éléments de l'étude de dangers qui peuvent servir de base à l'élaboration des plans particuliers d'intervention, à la vérification de leur validité et à leur remise à jour éventuelle.
-
-Le périmètre de l'ouvrage, objet de l'étude de dangers, est par ailleurs délimité de manière explicite, accompagné éventuellement d'une carte. Pour un barrage, ce périmètre inclut a minima le barrage, ses ouvrages de sécurité (évacuateurs de crues, vidanges de fond...), la retenue et, s'il y a lieu, les canaux d'amenée. Pour une digue, ce périmètre inclut a minima la digue, ses déversoirs, les portions du cours d'eau susceptibles d'avoir un impact sur la digue suite à une évolution morphologique globale ou une érosion de berges et, s'il y a lieu, les digues transversales délimitant un casier avec la digue principale.
+Le périmètre de l'étude est délimité de manière explicite, accompagné d'un schéma ou d'une carte. Ce périmètre inclut a minima le barrage et ses dispositifs de sécurité tels que les évacuateurs de crues, les vidanges de fond ou les systèmes de contrôle-commande. Il comprend également les organes de prise d'eau et d'isolement, le dispositif d'auscultation, la retenue et ses berges et, s'il y a lieu, les canaux et les autres ouvrages ayant une incidence sur la sûreté du barrage.
 
 3. Analyse fonctionnelle de l'ouvrage et de son environnement
 
-3. 1. Description de l'ouvrage
+3.1. Description de l'ouvrage et analyse fonctionnelle interne
 
-L'ouvrage est décrit sous les aspects suivants : génie civil, fondation, vantellerie, architecture générale de contrôle-commande et schémas généraux de l'alimentation électrique et des télécommunications. Le fonctionnement et les modes d'exploitation sont également présentés.
+A partir d'une analyse fonctionnelle interne, l'ouvrage est décrit sous les aspects suivants : génie civil, fondation, vantellerie, architecture générale de contrôle-commande et schémas généraux de l'alimentation électrique et des télécommunications. Le fonctionnement, les modes d'exploitation, la gestion des débits relâchés à l'aval sont également présentés.
 
-Le niveau de précision apporté aux descriptions et aux plans et schémas qui les accompagnent doit permettre d'identifier l'ensemble des composants de l'ouvrage qui sont pris en compte dans l'analyse de risques et d'en expliciter les fonctions. Ces composants peuvent intervenir soit comme sources potentielles de défaillances, soit comme outils de maîtrise des risques.
+Le niveau de précision apporté aux descriptions et aux plans et schémas qui les accompagnent permet d'identifier l'ensemble des composants et sous-composants de l'ouvrage qui sont pris en compte dans l'étude de dangers et d'en expliciter les fonctions. Ces composants peuvent intervenir soit comme sources potentielles de défaillances, soit comme outils de maîtrise des risques.
 
-Pour un barrage, la retenue est également décrite, notamment en termes de volume, de surface et de cotes du niveau des eaux.
+La retenue est également décrite, notamment en termes de volumes, de surfaces et de niveaux des eaux.
 
-3. 2. Description de l'environnement de l'ouvrage
+La description est complétée par des schémas, des photographies et des plans conformes à l'ouvrage existant.
 
-Le niveau de précision apporté aux descriptions doit permettre de prendre en considération, dans l'analyse de risques de l'ouvrage, les éléments relatifs à l'environnement naturel du site, aux habitations, aux activités et aux diverses infrastructures, que ce soit comme facteur d'agression pour l'ouvrage ou comme enjeu potentiel. Les équipements d'exploitation (usine, conduites, chambre de mise en eau...) sont décrits dans l'étude de dangers dès lors qu'ils peuvent se comporter comme agresseur externe de l'ouvrage.
+3.2. Description de l'environnement de l'ouvrage et analyse fonctionnelle externe
 
-4. Présentation de la politique de prévention des accidents
+La description de l'environnement du barrage et l'analyse fonctionnelle externe décrivent l'environnement naturel et, éventuellement, anthropique de celui-ci ainsi que les aléas et phénomènes extérieurs et indépendant de son fonctionnement qui peuvent avoir une influence sur l'état, le fonctionnement et la sécurité du barrage ainsi que sur la nature et l'importance des enjeux pouvant être affectés par des incidents ou des accidents concernant le barrage.
 
-majeurs et du système de gestion de la sécurité (SGS)
+Le niveau de précision apporté aux descriptions permet de prendre en considération, dans l'analyse de risques de l'ouvrage, les éléments relatifs à l'environnement naturel du site, aux habitations, aux activités et aux diverses infrastructures y compris les barrages situés à l'amont ou à l'aval, que ce soit comme facteur d'agression pour l'ouvrage ou comme enjeu potentiel. Les équipements d'exploitation (tels que l'usine, les conduites, la chambre de mise en eau) sont décrits dans l'étude de dangers dès lors qu'ils peuvent se comporter comme agresseur externe de l'ouvrage ou qu'ils sont susceptibles d'être impactés.
 
-En s'appuyant sur la description réglementaire de l'organisation mise en place pour assurer l'exploitation et la surveillance de l'ouvrage, cette rubrique présente la politique de prévention des accidents majeurs mise en place par le responsable de l'ouvrage mentionné au I de l'article R. 214-115 du code de l'environnement ainsi que le système de gestion de la sécurité qui en découle, au moment de l'établissement de l'étude de dangers :
+4. Politique de prévention des accidents majeurs et système de gestion de la sécurité
 
-― l'organisation de ce responsable et des éventuelles autres entités impliquées pour ce qui concerne les aspects liés à la sécurité (y compris les relations contractuelles pouvant lier le propriétaire et l'exploitant en termes de gestion de la sécurité...), en décrivant les fonctions des personnels aux différents niveaux hiérarchiques ;
+En s'appuyant sur le document décrivant l'organisation mise en place pour assurer l'exploitation de l'ouvrage, son entretien et sa surveillance, cette rubrique présente la politique de prévention des accidents majeurs définie par le propriétaire ou l'exploitant, ou par le concessionnaire pour un ouvrage concédé, ainsi que le système de gestion de la sécurité qui en découle de manière spécifique pour le barrage, au moment de l'élaboration de l'analyse de risques. Cette présentation comprend a minima :
 
-― la définition des principales procédures qui encadrent l'identification et l'évaluation des risques d'accidents majeurs, la surveillance de l'ouvrage en toutes circonstances, la gestion des situations d'urgence et la gestion du retour d'expérience ;
+-la description des conditions d'exploitation de l'ouvrage, des modalités de surveillance et d'auscultation et des travaux de maintenance effectués sur le barrage ;
 
-― les dispositions prises par le responsable pour s'assurer en permanence du respect des procédures, auditer et réviser son système de gestion de la sécurité dans le cadre de son amélioration continue.
+-la description de l'organisation du propriétaire ou de l'exploitant, ou du concessionnaire pour un ouvrage concédé, pour ce qui concerne les aspects liés à la sécurité, en décrivant les fonctions des personnels aux différents niveaux hiérarchiques ainsi que les tâches sous-traitées ;
 
-5. Identification et caractérisation des potentiels de dangers
+-la définition des principales procédures écrites qui encadrent l'identification et l'évaluation des risques d'accidents majeurs, l'entretien, la maintenance et la surveillance de l'ouvrage en toutes circonstances et notamment lors des crues, la gestion des situations d'urgences et la gestion du retour d'expérience ;
 
-L'étude de dangers prend en compte l'ensemble des potentiels de dangers des différents composants de l'ouvrage, du fait de leur présence ou de leur fonctionnement.
+-les dispositions prises par le propriétaire ou l'exploitant, ou par le concessionnaire pour un ouvrage concédé, pour s'assurer en permanence du respect des procédures, auditer et réviser son système de gestion de la sécurité dans le cadre de son amélioration continue.
 
-Pour les barrages, les potentiels de dangers à considérer résultent essentiellement de la libération de tout ou partie de l'eau de la retenue, suite :
+5. Diagnostic exhaustif de l'état et bilan de conception, de comportement et d'état des ouvrages
 
-― à une rupture partielle ou totale de l'ouvrage ;
+5.1. Diagnostic exhaustif du barrage
 
-― à un phénomène gravitaire rapide affectant la retenue ;
+Le diagnostic exhaustif du barrage, également appelé " examen technique complet ", a pour objet de réaliser un état physique complet de l'ouvrage, en identifiant et caractérisant les évolutions intervenues entre deux diagnostics. Il comporte, en fonction de la conception du barrage et de ses accessoires, toutes les vérifications et investigations pertinentes. Le résultat pratique de ce diagnostic exhaustif est de donner une image fidèle et à jour de l'ouvrage pouvant être valablement utilisée dans l'analyse de risques.
 
-― à un dysfonctionnement d'un de ses organes ;
+I.-Le diagnostic exhaustif du barrage couvre l'ensemble des ouvrages qui constituent le barrage, y compris les parties habituellement noyées ou difficilement accessibles ou difficilement observables sans moyens spéciaux ainsi que la retenue et, le cas échéant, ses berges. Pour les parties normalement accessibles et observables, ce diagnostic s'appuie sur les essais, les vérifications et les visites techniques approfondies prévues par l'article R. 214-123 du code de l'environnement, ceux-ci étant éventuellement repris ou approfondis, notamment à chaque fois qu'une anomalie ou une incertitude est détectée quant au niveau de sûreté du barrage.
 
-― à une manœuvre d'exploitation.
+Le diagnostic comporte un descriptif de la procédure selon laquelle il a été réalisé. Ce descriptif précise le cas échéant les modifications et compléments introduits suite aux observations du préfet que ce dernier a formulées au vu du descriptif prévisionnel préalablement transmis en application du troisième alinéa du II de l'article R. 214-116 susvisé. Le descriptif détaille en outre :
 
-Pour les digues, les potentiels de danger à considérer résultent de la libération accidentelle d'eau dans le lit majeur, suite :
+a) Le calendrier des opérations effectuées visant à l'examen des parties du barrage qui sont habituellement noyées ou difficilement accessibles ou difficilement observables ;
 
-― à une rupture d'une partie de la digue ;
+b) La consistance des moyens spéciaux qui ont été utilisés, en particulier en l'absence de vidange préalable de la retenue ;
 
-― à un déversement sur la digue, sans qu'elle ne rompe ;
+c) La méthode de recueil et d'analyse des données, notamment lorsque cette méthode s'appuie sur des sondages des parties habituellement noyées ou difficilement accessibles ou difficilement observables du barrage ;
 
-― à un dysfonctionnement ou à une manœuvre d'un organe de cette digue.
+d) Les conditions de réalisation de l'examen, les modes de restitution, les points particuliers qui ont été inspectés et la qualité des résultats obtenus comparée à celle qui était attendue ainsi que les modalités de vérification de la qualité obtenue ;
 
-Au-delà de l'énergie correspondant à la libération de l'eau stockée par l'ouvrage étudié, les éventuels autres potentiels de dangers sont identifiés et caractérisés.
+e) La consistance et le nombre des autres vérifications et visites techniques approfondies qui ont été effectuées à l'occasion du diagnostic.
+
+Le résultat du diagnostic est présenté de façon détaillée et de façon synthétique, de telle sorte qu'il éclaire les parties de l'étude de dangers décrites ci-après.
+
+II.-Le I du présent 5.1 est remplacé par les dispositions qui suivent quand l'étude de dangers est établie dans le cas n° 1 rappelé au 1 de la présente annexe (cas du nouveau barrage créé ex nihilo) : Le diagnostic exhaustif du barrage comporte uniquement les diverses reconnaissances du sol, au niveau des fondations du futur barrage et de ses appuis latéraux, disponibles au stade du projet.
+
+III.-Le I du présent 5.1 est remplacé par les dispositions qui suivent quand l'étude de dangers est établie dans le cas n° 2 au 1 de la présente annexe (cas des travaux constituant une modification substantielle à autoriser sur un barrage existant) : Le diagnostic exhaustif du barrage comporte uniquement les études de diagnostic permettant de renseigner le maître de l'ouvrage sur l'état de l'ouvrage existant et sur la faisabilité de l'opération.
+
+5.2. Bilan de conception, de comportement et d'état des ouvrages
+
+Le bilan de conception, de comportement et d'état des ouvrages consiste à dresser un constat du niveau de sûreté de l'ouvrage au travers de son dimensionnement, de son comportement et de son état.
+
+5.2.1. Conception initiale du barrage et des organes annexes, construction et travaux importants
+
+Sont rappelés les éléments et méthodes de dimensionnement du barrage et de ses organes annexes (tels que les évacuateurs de crues, vannes, bouchons, fonds pleins) lors de sa conception initiale ou des travaux ultérieurs qui l'ont éventuellement concerné, les faits importants lors de la construction de l'ouvrage, le traitement des fondations, la mise en eau, le déroulement des travaux importants postérieurs à la construction.
+
+5.2.2. Comportement de l'ouvrage
+
+L'analyse du comportement de l'ouvrage vise à identifier et à quantifier les écarts éventuels constatés par rapport au comportement attendu afin de permettre une évaluation actualisée pertinente de la sécurité du barrage.
+
+Ce chapitre comprend une analyse détaillée du comportement de l'ouvrage, de ses fondations, de ses ouvrages annexes, éventuellement des berges de la retenue, connu notamment grâce à l'ensemble des données de surveillance visuelle et d'auscultation accumulées pendant la vie de l'ouvrage. Ceci concerne le comportement courant ainsi que le comportement de l'ouvrage lors d'épisodes extrêmes, notamment les crues, les séismes et, le cas échéant, les mouvements des versants de la retenue. L'analyse s'appuie notamment sur un rapport d'auscultation récent, à jour et analysant l'ensemble des données d'auscultation obtenues depuis la construction de l'ouvrage ; ce rapport peut être intégré à l'étude de dangers ou celle-ci en rappelle les éléments essentiels et les conclusions.
+
+Une analyse de la pertinence du dispositif d'auscultation est également menée avec des préconisations éventuelles d'évolution de ce dispositif.
+
+5.2.3. Bilan d'état
+
+Sont rappelées et analysées les observations faites à l'occasion du diagnostic exhaustif du barrage, des visites techniques approfondies, des examens et expertises particuliers qui ont pu être menés sur l'ouvrage. Ce sous-chapitre inclut notamment une synthèse des constatations faites à l'occasion des essais, des examens ou des éventuels autres contrôles effectués par le propriétaire ou l'exploitant, ou par le concessionnaire pour un ouvrage concédé, sur les organes et dispositifs de sûreté et sur les dispositifs de surveillance et d'auscultation. Sont notamment abordées les barrières et mesures de sécurité participant à la maîtrise des risques.
+
+5.2.4. Bilan de conception
+
+Compte tenu de l'état du barrage, et des études les plus récentes, en particulier concernant la justification de la stabilité, l'étude de dangers vérifie la conformité de l'ouvrage et des organes nécessaires à la sûreté au regard de l'état de l'art et d'éventuelles dispositions réglementaires. L'étude de dangers établit, par ailleurs au regard de la stabilité de l'ouvrage, la cote de danger, intrinsèque à l'ouvrage, à prendre en compte, c'est-à-dire la cote de la retenue au-dessus de laquelle la stabilité de l'ouvrage n'est plus garantie.
 
 6. Caractérisation des aléas naturels
 
-Cette rubrique traite des aléas naturels, notamment les crues, les séismes, les risques de mouvements de terrain et les risques d'avalanche ainsi que, pour ce qui concerne les digues, les érosions de berges et les évolutions morphologiques du lit. Les méthodes utilisées pour caractériser ces aléas sont conformes aux règles de l'art et s'appuient sur des données récentes. La présentation de ces aléas comprend une caractérisation de l'ampleur des phénomènes et de leur incidence potentielle sur l'ouvrage.
+Cette rubrique traite des aléas naturels, notamment les crues, les séismes, la foudre, et, le cas échéant, les risques de mouvements de terrain et d'avalanches. Les méthodes utilisées pour caractériser ces aléas sont conformes aux règles de l'art et s'appuient sur des données récentes. La présentation de ces aléas comprend une caractérisation de l'ampleur des phénomènes et de leur incidence potentielle sur l'ouvrage.
 
-Sont présentés les résultats d'une étude hydrologique et, si nécessaire, des autres risques ayant une influence hydraulique (notamment houle et marées). Il s'agit soit d'une étude nouvelle, soit d'une étude existante dont le rédacteur de l'étude de dangers justifie la validité. Celle-ci est complétée par l'estimation de la probabilité d'occurrence de la crue ou des autres phénomènes naturels susceptibles de mettre l'ouvrage en danger.
+Sont présentés les résultats d'une étude hydrologique et, si nécessaire, des autres risques ayant une influence hydraulique. Il s'agit soit d'une étude nouvelle, soit d'une étude existante dont le rédacteur de l'étude de dangers justifie la validité. Celle-ci est complétée par la caractérisation (intensité et probabilité d'occurrence) des crues ou des autres phénomènes naturels qui, seuls ou combinés avec d'autres phénomènes, sont susceptibles de mettre l'ouvrage en danger (cf. 5.2.4)
 
-Les cotes atteintes sont déterminées, dans le cas des barrages en remblais, pour les crues de période de retour 10 000 ans et, dans le cas des autres barrages, pour les crues de période de retour 1 000 ans et 5 000 ans. Toutefois, pour certains types d'ouvrages, cette période de retour pourra être limitée, par exemple à 1 000 ans, si, pour une crue supérieure, la présence de l'ouvrage n'apporte pas de risque supplémentaire significatif.
+Cette étude précise, lorsque les prescriptions techniques mentionnées à l'article R. 214-128 du code de l'environnement le prévoient, les crues qui servent de référence pour le barrage dans les situations exceptionnelle et extrême.
+
+Cette rubrique mentionne également les crues d'importance significative qui se sont effectivement produites sur le site de l'ouvrage ou qui l'ont concerné.
+
+L'analyse de risque indique les intensités des séismes qui servent de référence pour le barrage conformément à la réglementation technique en vigueur. Cette rubrique mentionne également les séismes d'importance significative qui se sont effectivement produits sur le site de l'ouvrage ou qui l'ont concerné.
 
 7. Etude accidentologique et retour d'expérience
 
-Cette rubrique décrit les défaillances, accidents, incidents et évolutions lentes survenus sur l'ouvrage. Elle décrit également les scénarios d'événements de même nature ayant concerné d'autres ouvrages que celui objet de l'étude de dangers dès lors que le responsable mentionné au I de l'article R. 214-115 du code de l'environnement en a eu connaissance.
+Cette rubrique décrit les défaillances, accidents, incidents et évolutions lentes survenus sur l'ouvrage y compris en exploitation courante. Les évènements importants pour la sûreté hydraulique et les précurseurs pertinents visés à l'article R. 214-125 du code de l'environnement sont décrits et analysés. Les événements décrits sont ceux mettant en cause le génie civil, les organes d'évacuation des eaux, le contrôle-commande, les télécommunications ou l'alimentation électrique ainsi que les événements mettant en cause l'exploitation de l'ouvrage, ainsi que toutes les situations qui ont pu concerner le barrage, la retenue et les berges et qui ont une incident sur la sécurité des personnes et des biens.
 
-Pour les barrages, les événements décrits sont ceux mettant en cause notamment le génie civil, les organes d'évacuation des eaux, le contrôle-commande, les télécommunications ou l'alimentation électrique ainsi que les événements mettant en cause l'exploitation de l'ouvrage.
+Pour tous ces évènements, l'étude précise les causes, circonstances, conséquences réelles et potentielles ainsi que les mesures d'améliorations que leur analyse a conduit à mettre en œuvre.
 
-Pour les digues, les événements décrits sont notamment ceux mettant en cause les problèmes d'érosion de la digue par le cours d'eau ou d'évolution morphologique du cours d'eau.
+La rubrique décrit également les scénarios d'évènements ayant concerné d'autres ouvrages que celui objet de l'analyse de risques dès lors que des scénarios analogues peuvent concerner l'ouvrage.
 
-Cette rubrique mentionne également les événements particuliers survenus sur le site tels que les crues d'importance significative et les séismes, y compris lorsqu'ils n'ont pas entraîné d'incident notable.
+8. Identification et caractérisation des risques en termes de probabilité d'occurrence, d'intensité et de cinétique des effets et de gravité des conséquences
 
-Pour tous ces événements, l'étude précise les mesures d'améliorations que leur analyse a conduit à mettre en œuvre.
+A partir des données d'entrée indiquées dans les chapitres précédents, l'analyse de risques identifie les causes, les combinaisons d'événements et les scénarios susceptibles d'être à l'origine d'un accident important. Ceux intrinsèques à l'ouvrage et ses organes annexes sont évalués en tenant compte de sa conception, de son dimensionnement, de son état et de son comportement notamment sous l'effet des aléas recensés. L'analyse de risques couvre également la phase chantier quand l'étude de dangers est jointe à une demande d'autorisation ou d'approbation, soit pour la construction d'un nouveau barrage (cas n° 1 rappelé au 1 de la présente annexe) soit pour des travaux à réaliser sur un barrage existant (cas n° 2).
 
-8. Identification et caractérisation des risques en termes de probabilité d'occurrence, d'intensité et de cinétique des effets, et de gravité des conséquences
-
-L'étude de dangers s'appuie sur une analyse de risques permettant d'identifier les causes, les combinaisons d'événements et les scénarios susceptibles d'être, directement ou par effet domino, à l'origine d'un accident important. Ceux intrinsèques à l'ouvrage sont évalués en tenant compte de sa conception, de son dimensionnement, de son état et de son comportement, notamment sous l'effet des aléas recensés.
-
-La méthode d'identification et d'analyse des risques, notamment les expertises mobilisées, les modes de représentation, les paramètres, les critères et les grilles de cotations utilisés pour évaluer les différents scénarios d'accident, fait l'objet d'une description détaillée.
+La méthode d'identification et d'analyse des risques, notamment les expertises mobilisées, les modes de représentation, les paramètres, les critères et les grilles de cotations utilisés pour évaluer les différents scénarios d'accident, fait l'objet d'une description détaillée. Les barrières et mesures de sécurité sont mises en évidence et évaluées en fonction de leur état.
 
 Cette méthode est appliquée à chacun des scénarios envisagés.
 
-Chaque accident potentiel est caractérisé par sa probabilité d'occurrence, l'intensité et la cinétique de ses effets et la gravité des conséquences pour la zone touchée. Une étude de propagation de l'onde sera fournie pour l'accident correspondant à la rupture de l'ouvrage et, si nécessaire, pour d'autres accidents présentant un niveau de risque comparable.
+Chaque accident potentiel est caractérisé par sa probabilité d'occurrence, les débits et volumes relâchés à partir de l'ouvrage, l'intensité, cinétique et durée de ses effets et la gravité des conséquences pour la zone touchée, notamment au droit des enjeux importants. Une étude de propagation de l'onde de submersion est fournie a minima pour le ou les accidents correspondant à la rupture de l'ouvrage et, si nécessaire, pour d'autres accidents de façon à permettre une évaluation suffisante de la gravité des conséquences. Dans ce cas, l'étendue des zones submergées lors de la réalisation d'un scénario accidentel fait l'objet d'une représentation cartographique à une échelle adaptée pour chacun des accidents étudiés (cf. 10 de cette présente annexe).
 
-En synthèse, les différents scénarios d'accident sont positionnés les uns par rapport aux autres en fonction de leur probabilité d'occurrence et de la gravité des conséquences, évaluée en termes de victimes humaines potentielles et de dégâts aux biens, en mettant en évidence les scénarios les plus critiques.
+Les différents scénarios d'accidents sont positionnés les uns par rapport aux autres, en fonction de leur probabilité d'occurrence et de la gravité des conséquences, en prenant en considération l'atteinte aux enjeux humains et matériels.
+
+L'évaluation de la gravité en termes de conséquences humaines repose sur un décompte de la population exposée à l'onde de submersion, spécifique à chaque accident.
+
+Dans le cas d'une étude de dangers établie en vue de la construction ou la reconstruction d'un barrage de classe A, l'analyse des risques comporte la démonstration de l'absence de risques significatifs pour la sécurité publique en cas de survenue d'une crue dont la probabilité d'occurrence annuelle est de 1/3000 au cours de l'une quelconque des phases du chantier, prévue au quatrième alinéa du II de l'article R. 214-116 du code de l'environnement.
 
 9. Etude de réduction des risques
 
-A partir des scénarios identifiés comme critiques et en prenant en compte les dispositions déjà mises en œuvre pour maîtriser les risques ainsi que les éléments de l'étude accidentologique, cette rubrique présente la démarche de réduction des risques que le responsable de l'ouvrage se propose de conduire, dans une logique d'amélioration continue. Cette démarche identifie et justifie, parmi les différentes mesures envisageables, les mesures retenues par le responsable de l'ouvrage pour réduire les risques, en portant une appréciation sur leur efficacité espérée.
+Premier cas de figure : l'EDD ou son actualisation relève du cas 1 ou 2 rappelés au 1 de la présente annexe.
 
-Dans le cas des ouvrages existants, le responsable de l'ouvrage précise le délai de mise en œuvre des mesures envisagées ainsi que les mesures qui sont prises à titre provisoire.
+La présente rubrique synthétise l'ensemble de la démonstration de la maîtrise des risques du barrage une fois construit ou modifié.
 
-Cette rubrique présente également les études complémentaires dont l'étude de dangers a montré la nécessité et qui font l'objet de délais sur lesquels s'engage le responsable de l'ouvrage.
+Deuxième cas de figure : l'EDD relève du cas 3 rappelé au 1 de la présente annexe
+
+La présente rubrique synthétise l'ensemble de la démonstration de la maîtrise des risques du barrage, le cas échéant une fois mises en œuvre les mesures appropriées telles que précisées ci-après.
+
+Outre les situations qui seraient mises en exergue selon lesquelles le barrage apparaitrait non conforme aux prescriptions techniques prévues par l'article R. 214-128 du code de l'environnement, à partir des scénarios identifiés, la présente rubrique expose la démarche de réduction des risques à mener aux fins d'améliorer la sûreté du barrage ou la sécurité de son exploitation.
+
+Cette démarche identifie et justifie les différentes mesures envisageables, de manière pérenne ou provisoire, celles qui sont programmées à court et moyen terme pour réduire les risques.
+
+A cette fin, il classe les mesures préconisées comme précisé ci-après :
+
+-travaux à engager dans les meilleurs délais et les dispositions à prendre sans délai dans l'attente de l'achèvement de ces travaux ;
+
+-autres travaux à engager avant la prochaine actualisation de l'étude de dangers programmée en application des dispositions du II de l'article R. 214-117 du code de l'environnement et les dispositions à prendre dans l'attente de l'achèvement de ces travaux ;
+
+-autres mesures d'amélioration (autres que travaux) à prendre.
+
+L'efficacité de ces mesures est justifiée vis-à-vis de la réduction de la probabilité d'occurrence ou de la réduction de la gravité des scénarios d'accidents et les scénarios concernés repositionnés par rapport aux autres scénarios compte tenu des réductions de probabilité et/ ou de gravité escomptées.
 
 10. Cartographie
 
-Tous les éléments cartographiques utiles sont intégrés à l'étude pour présenter, aux échelles appropriées, l'ouvrage et son environnement, la caractérisation des aléas naturels, l'intensité des phénomènes dangereux et la gravité des conséquences.
+Tous les éléments cartographiques utiles sont intégrés à l'étude de dangers pour présenter, aux échelles appropriées, l'ouvrage et son environnement, la caractérisation des aléas naturels, l'intensité des phénomènes dangereux et la gravité des conséquences. Les éléments cartographiques concernant l'étendue des zones potentiellement submergées dans l'hypothèse de survenance des scénarios accidentels étudiés sont fournis au format papier avec une échelle au moins égale à 1/25 000 et dans un format numérique vectoriel libre. Le cas échéant, le format numérique des cartes est précisé par décision du ministre chargé de l'environnement.
+
+Dans le cas particulier, rappelé au 4 du 1 de la présente annexe, où l'étude de dangers du barrage peut servir de base à l'élaboration du plan particulier d'intervention établi en application des articles R. 741-33 et suivants du code de la sécurité intérieure et des dispositions prises par arrêté ministériel pour leur application ou peut servir à la vérification de la validité des informations contenues dans un tel plan ou à la mise à jour éventuelle de ces informations, le maître d'ouvrage du barrage mentionné à l'article R. 741-33 cité précédemment s'assure que la présente rubrique précise et justifie :
+
+-la zone de proximité immédiate : zone d'inondation amont s'étendant depuis le barrage jusqu'à la limite amont de la zone d'inondation spécifique prévue par l'arrêté du 22 février 2002 modifié relatif aux plans particuliers d'intervention concernant certains aménagements hydrauliques ;
+
+-la zone d'inondation spécifique définie par le même arrêté ;
+
+-la zone d'inondation définie par le même arrêté ;
+
+-l'étendue des zones susceptibles d'être submergées lors d'une rupture du barrage.
+
+Pour l'application des articles R. 741-33 et suivants du code de la sécurité intérieure, l'EDD prend en compte les valeurs calculées des caractéristiques de l'onde de submersion à laquelle sont appliqués des coefficients de minoration de 13 % pour les délais depuis le début de l'évènement accidentel et de majoration de 15 % pour les surélévations du plan d'eau dans la zone d'inondation amont (avec un minimum de 1 m) et de 15 % des débits dans la zone d'inondation aval.
+
+Sont fournis :
+
+-un tableau des valeurs calculées et pondérées comme indiqué ci-avant pour chaque point kilométrique des zones de proximité immédiate et d'inondation spécifique. Dans les sections où le tracé en plan de la rivière présente une forte courbe, le tableau précise les surélévations supplémentaires du plan d'eau à l'extérieur de la courbe ;
+
+-une cartographie représentant l'enveloppe des zones de proximité immédiate et d'inondation spécifique et tenant compte des pondérations et surélévations supplémentaires éventuelles dues à la courbure. La cartographie est fournie au format papier avec une échelle adaptée à l'usage et dans un format vectoriel libre. Elle indique les temps d'arrivée de l'onde.
