@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505084
+
+- Question : [SEQ180505084](seq180505084.md) — Prise en charge des commotions cérébrales dans le monde sportif
+
+## Réponse
+
+*Sports, JO du 2018-09-06, page 4616*
+
+Dans le cadre de la politique que la ministre des sports souhaite mener pour la protection de la santé des sportifs, la problématique des commotions cérébrales a été particulièrement identifiée car leur fréquence est probablement sous-estimée, leur prise en charge est inhomogène et elles peuvent être source de complications sanitaires à plus ou moins long terme. Dans l'objectif d'engager une réflexion nationale sur cette pathologie, pour mieux la prévenir et la prendre en charge, il a été convenu dans un premier temps d'effectuer un état des lieux au sein du mouvement sportif. Le ministère des sports a donc décidé de mener une enquête auprès des fédérations sportives et des ligues afin de déterminer leur prévalence, leurs modalités de prise en charge et les mesures de prévention mises en place. À cet effet, un questionnaire a été adressé, en mai dernier, aux fédérations sportives pour lesquelles la pratique de leurs disciplines présente un risque potentiel de survenue de commotions cérébrales. L'ensemble des données recueillies feront l'objet d'une analyse et d'une synthèse qui pourraient déboucher par la suite sur l'organisation d'une séquence de travail, avec l'ensemble des acteurs concernés, visant à prévenir au mieux cette pathologie et à généraliser la mise en place d'un protocole d'intervention. Cette démarche s'inscrit dans la stratégie nationale sport-santé initiée par la ministre des sports en lien avec la ministre des solidarités et de la santé qui vise notamment à protéger la santé des sportifs et qui envisage plus largement la création d'un observatoire de la santé des pratiquants.
