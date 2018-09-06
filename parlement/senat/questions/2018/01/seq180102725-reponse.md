@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180102725
+
+- Question : [SEQ180102725](seq180102725.md) — Violences contre les forces de l'ordre
+
+## Réponse
+
+*Justice, JO du 2018-09-06, page 4593*
+
+Les violences commises contre les forces de l'ordre portent une atteinte inadmissible à l'État de droit et doivent faire l'objet d'une répression particulièrement sévère. Les dispositions actuelles du code pénal, qui prévoient des sanctions aggravées lorsque les violences sont commises sur un fonctionnaire de la police nationale, un militaire de la gendarmerie, un membre du personnel de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, paraissent cependant prévoir des sanctions suffisamment élevées. En particulier, l'article 222-14-1 du code pénal prévoit que, lorsque ces violences sont commises en bande organisée ou avec guet-apens, elles sont punies de trente ans de réclusion criminelle si elles ont entraîné la mort de la victime, de vingt ans de réclusion criminelle si elles ont entraîné une mutilation ou une infirmité permanente et de quinze ans de réclusion criminelle si elles ont entraîné une incapacité totale de travail pendant plus de huit jours. L'article 222-15-1 de ce code réprime par ailleurs jusqu'à dix ans d'emprisonnement le fait de tendre une embuscade aux forces de l'ordre. Enfin, l'article 15-4 du code de procédure pénale, dont les décrets d'application a été pris le 30 mars 2018 et qui a fait l'objet d'une circulaire du ministère de la justice en date du 3 avril 2018, permet aux enquêteurs de la police nationale, de la gendarmerie nationale et de la douane de s'identifier dans les procédures pénales par leur seul numéro de matricule, afin qu'eux-mêmes ou leur famille ne puissent faire l'objet de représailles de la part des personnes suspectées ou poursuivies. Il n'est dès lors pas envisagé de modifier les dispositions existantes.
