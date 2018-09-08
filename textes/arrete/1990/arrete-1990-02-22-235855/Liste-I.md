@@ -180,6 +180,16 @@ Autres formes
 
 |
 
+Alimémazine et ses sels ou (diméthylamino-3' méthyl-2' propyl)-10 phénothiazide |
+
+Sirop |
+
+0,5 |
+
+|
+
+0,075 |
+
 Adrénaline
 
 |
