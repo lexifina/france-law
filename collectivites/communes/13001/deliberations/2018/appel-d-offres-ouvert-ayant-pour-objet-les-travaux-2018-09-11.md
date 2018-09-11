@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPEL D'OFFRES OUVERT AYANT POUR OBJET LES TRAVAUX D'ENTRETIEN, DE RÉNOVATION, DE RÉHABILITATION ET DE CONSTRUCTION POUR LES BÂTIMENTS ET PROPRIÉTÉS COMMUNALES - 26 LOTS - AUTORISATION DE SIGNATURES DES ACCORDS-CADRES
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-09-11
+- Séance : Conseil Municipal 1CA
+- Objet : APPEL D'OFFRES OUVERT AYANT POUR OBJET LES TRAVAUX D'ENTRETIEN, DE RÉNOVATION, DE RÉHABILITATION ET DE CONSTRUCTION POUR LES BÂTIMENTS ET PROPRIÉTÉS COMMUNALES - 26 LOTS - AUTORISATION DE SIGNATURES DES ACCORDS-CADRES
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10168-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
