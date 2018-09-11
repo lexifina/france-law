@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — PETITE ENFANCE - ATTRIBUTION DE SUBVENTIONS DE FONCTIONNEMENT POUR LA CRÈCHE MAISON D'ANGÈLE- RELAIS ASSISTANTS MATERNELLES ET AUX ASSOCIATIONS - ADOPTION D'UNE CONVENTION ANNUELLE ET D'AVENANTS ANNÉE 2018
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-09-11
+- Séance : Conseil Municipal 1CA
+- Objet : PETITE ENFANCE - ATTRIBUTION DE SUBVENTIONS DE FONCTIONNEMENT POUR LA CRÈCHE MAISON D'ANGÈLE- RELAIS ASSISTANTS MATERNELLES ET AUX ASSOCIATIONS - ADOPTION D'UNE CONVENTION ANNUELLE ET D'AVENANTS ANNÉE 2018
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10207-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
