@@ -6,675 +6,385 @@ AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 A.-Fonctions exercées en administration centrale
 
-1. (Supprimé)
+1. Secrétaire général du ministère de la justice :
+
+DÉSIGNATION DE L'EMPLOI |
+
+NOMBRE
+
+d'emplois |
+
+NOMBRE
+
+de points
+
+par emploi |
+
+Secrétaire général |
+
+1 |
+
+180 |
 
 2. Directeur d'administration centrale :
 
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
 de points
 
-par emploi
+par emploi |
 
-|
+Directeur des services judiciaires |
 
-Directeur de l'administration pénitentiaire
+1 |
 
-|
+180 |
 
-1
+Directeur des affaires civiles et du sceau |
 
-|
+1 |
 
-180
+140 |
 
-|
+Directeur des affaires criminelles et des grâces |
 
-Directeur de l'administration générale et de l'équipement
+1 |
 
-|
+140 |
 
-1
+Directeur de l'administration pénitentiaire |
 
-|
+1 |
 
-180
+180 |
 
-|
+Directeur de la protection judiciaire de la jeunesse |
 
-Directeur des services judiciaires
+1 |
 
-|
+140 |
 
-1
+Secrétaire général adjoint |
 
-|
+2 |
 
-180
+140 |
 
-|
+Délégué interministériel à l'aide aux victimes |
 
-Directeur des affaires criminelles et des grâces
+1 |
 
-|
+140 |
 
-1
+3. Chef de service :
 
-|
-
-140
-
-|
-
-Directeur des affaires civiles et du sceau
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur de la protection judiciaire de la jeunesse
-
-|
-
-1
-
-|
-
-140
-
-|
-
-3. Chef d'un service non rattaché à une direction :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
 de points
 
-par emploi
+par emploi |
 
-|
+Chef du service des ressources humaines |
 
-Chef du service des affaires européennes et internationales
+1 |
 
-|
+120 |
 
-1
+Chef du service des finances et des achats |
 
-|
+1 |
 
-130
+120 |
 
-|
+Chef du service de l'immobilier ministériel |
 
-Chef du service central de l'information et de la communication
+1 |
 
-|
+120 |
 
-1
+Chef du service du pilotage et du soutien de proximité |
 
-|
+1 |
 
-110
+120 |
 
-|
+Chef du service de l'expertise et de la modernisation |
 
-Chef du service de l'accès au droit et à la justice et de la politique de la ville
+1 |
 
-|
+120 |
 
-1
+Chef du service des systèmes d'information et de communication |
 
-|
+1 |
 
-130
+120 |
 
-|
+Chef de service, adjoint au délégué interministériel à l'aide aux victimes |
 
-4. Chef de service exerçant des fonctions d'adjoint à un directeur d'administration centrale :
+1 |
 
-DÉSIGNATION DE L'EMPLOI
+120 |
 
-|
+Chef du service à compétence nationale, directeur de l'agence nationale des techniques d'enquêtes numériques judiciaires |
 
-NOMBRE
+1 |
 
-d'emplois
+120 |
 
-|
+Chef de service, adjoint au directeur des services judiciaires |
 
-NOMBRE
+1 |
 
-de points
+120 |
 
-par emploi
+Chef de service, adjoint au directeur des affaires civiles et du sceau |
 
-|
+1 |
 
-Chef de service, adjoint au directeur de l'administration pénitentiaire
+110 |
 
-|
+Chef de service, adjoint au directeur des affaires criminelles et des grâces |
 
-1
+1 |
 
-|
+110 |
 
-120
+Chef de service, adjoint au directeur de l'administration pénitentiaire |
 
-|
+1 |
 
-Chef de service, adjoint au directeur de l'administration générale et de l'équipement
+120 |
 
-|
+Chef de service, adjoint au directeur de la protection judiciaire de la jeunesse |
 
-1
+1 |
 
-|
+110 |
 
-120
+4. Sous-directeur :
 
-|
-
-Chef de service, adjoint au directeur des services judiciaires
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Chef de service, adjoint au directeur des affaires criminelles et des grâces
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Chef de service, adjoint au directeur de la protection judiciaire de la jeunesse
-
-|
-
-1
-
-|
-
-110
-
-|
-
-5. Sous-directeur en charge d'une sous-direction d'administration centrale :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
 de points
 
-par emploi
+par emploi |
 
-|
+Au secrétariat général |
 
-À la direction de l'administration pénitentiaire
+Sous-directeur des statuts, du dialogue social et de la qualité de vie au travail |
 
-|
+1 |
 
-Sous-directeur de l'organisation et du fonctionnement des services déconcentrés
+110 |
 
-|
+Sous-directeur des parcours professionnels |
 
-1
+1 |
 
-|
+100 |
 
-110
+Sous-directeur du budget et des achats |
 
-|
+1 |
 
-Sous-directeur des ressources humaines et des relations sociales
+100 |
 
-|
+Sous-directeur de la performance financière |
 
-1
+1 |
 
-|
+80 |
 
-110
+Sous-directeur de la stratégie, de la performance et des moyens |
 
-|
+1 |
 
-Sous-directeur des personnes placées sous main de justice
+80 |
 
-|
+Sous-directeur de l'ingénierie, des développements et de l'exploitation |
 
-1
+1 |
 
-|
+110 |
 
-80
+Sous-directeur de la statistique et des études |
 
-|
+1 |
 
-À la direction de l'administration générale et de l'équipement
+80 |
 
-|
+Sous-directeur des affaires juridiques générales et du contentieux |
 
-Sous-directeur du budget, de la prévision et des affaires financières
+1 |
 
-|
+80 |
 
-1
+Sous-directeur, délégué aux affaires européennes et internationales |
 
-|
+1 |
 
-110
+100 |
 
-|
+A la direction des services judiciaires |
 
-Sous-directeur des ressources humaines et des relations sociales
+Sous-directeur des ressources humaines de la magistrature |
 
-|
+1 |
 
-1
+110 |
 
-|
+Sous-directeur des ressources humaines des greffes |
 
-110
+1 |
 
-|
+110 |
 
-Sous-directeur de l'action immobilière et de la logistique
+Sous-directeur des finances, de l'immobilier et de la performance |
 
-|
+1 |
 
-1
+100 |
 
-|
+Sous-directeur de l'organisation judiciaire et de l'innovation |
 
-110
+1 |
 
-|
+80 |
 
-Sous-directeur de l'informatique
+A la direction des affaires civiles et du sceau |
 
-|
+Sous-directeur du droit civil |
 
-1
+1 |
 
-|
+100 |
 
-110
+Sous-directeur du droit économique |
 
-|
+1 |
 
-Sous-directeur de la statistique, des études et de la documentation
+100 |
 
-|
+Sous-directeur des professions judiciaires et juridiques |
 
-1
+1 |
 
-|
+100 |
 
-80
+A la direction des affaires criminelles et des grâces |
 
-|
+Sous-directeur de la justice pénale générale |
 
-À la direction des services judiciaires
+1 |
 
-|
+100 |
 
-Sous-directeur de la magistrature
+Sous-directeur de la justice pénale spécialisée |
 
-|
+1 |
 
-1
+100 |
 
-|
+Sous-directeur de la négociation et de la législation pénales |
 
-110
+1 |
 
-|
+100 |
 
-Sous-directeur des greffes
+Sous-directeur, chef du casier judiciaire national |
 
-|
+1 |
 
-1
+80 |
 
-|
+A la direction de l'administration pénitentiaire |
 
-110
+Sous-directeur des missions |
 
-|
+1 |
 
-Sous-directeur de l'organisation judiciaire et de la programmation
+80 |
 
-|
+Sous-directeur des métiers et de l'organisation des services |
 
-1
+1 |
 
-|
+80 |
 
-100
+Sous-directeur de la sécurité pénitentiaire |
 
-|
+1 |
 
-À la direction de la protection judiciaire de la jeunesse
+110 |
 
-|
+Sous-directeur du pilotage et du soutien des services |
 
-Sous-directeur des affaires administratives et financières
+1 |
 
-|
+110 |
 
-1
+Sous-directeur des ressources humaines et des relations sociales |
 
-|
+1 |
 
-100
+110 |
 
-|
+A la direction de la protection judiciaire de la jeunesse |
 
-Sous-directeur des ressources humaines et relations sociales
+Sous-directeur des missions de protection et d'éducation |
 
-|
+1 |
 
-1
+80 |
 
-|
+Sous-directeur du pilotage et de l'optimisation des moyens |
 
-100
+1 |
 
-|
+100 |
 
-Sous-directeur de l'action éducative et des affaires judiciaires
+Sous-directeur des ressources humaines et des relations sociales |
 
-|
+1 |
 
-1
+100 |
 
-|
+5. Expert de haut niveau ou directeur de projet :
 
-80
-
-|
-
-À la direction des affaires civiles et du sceau
-
-|
-
-Sous-directeur du droit civil
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur du droit économique
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur des professions judiciaires et juridiques
-
-|
-
-1
-
-|
-
-100
-
-|
-
-À la direction des affaires criminelles et des grâces
-
-|
-
-Sous-directeur de la justice pénale générale
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de la justice pénale spécialisée
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du casier judiciaire national
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Au service des affaires européennes et internationales
-
-|
-
-Sous-directeur de la négociation
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'expertise et des relations internationales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-6. Directeur de projet :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
 de points
 
-par emploi
+par emploi |
 
-|
+Expert de haut niveau ou directeur de projet |
 
-Directeur de projet
-
-|
-
-5
-
-|
-
-80
-
-|
-
-7. (Supprimé)
-
-8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-9 Secrétaire général :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-180
-
-|
-
-10. Sous-directeur, adjoint au chef d'un service d'administration centrale :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Au service de l'accès au droit et à la justice et de la politique de la ville
-
-Sous directeur, adjoint au chef du service de l'accès au droit et à la justice et de la politique de la ville
-
-|
-
-1
-
-|
+5 |
 
 80
 
