@@ -1,8 +1,6 @@
 # Article Annexe 3
 
-Liste des sociétés installatrices habilitées pour l'installation et le contrôle
-
-de fonctionnement des appareils radar et des indicateurs de vitesse de giration
+LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
 
 Conformément au modèle donné par la partie VI, lettre D, de l'annexe 3 de l'arrêté du 30 décembre 2008 susvisé, la liste des sociétés installatrices est définie comme suit :
 
@@ -12,15 +10,17 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS POUR LESQUELS l
+APPAREILS AGRÉÉS POUR
 
-a société reçoit l'habilitation |
+lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-56, avenue Pierre Berthelot, 14000 Caen |
+56, avenue Pierre-Berthelot,
+
+14000 Caen |
 
 Appareils radar :
 
@@ -34,9 +34,9 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-Route Industrielle, Centre Routier, ZI Portuaire,
+Route Industrielle, Centre Routier,
 
-76700 Gonfreville l'Orcher |
+ZI Portuaire, 76700 Gonfreville-l'Orcher |
 
 Appareils radar :
 
@@ -56,37 +56,11 @@ Alphaturn MF (R-4-092) |
 
 3 |
 
-ATEYS |
-
-35, rue de Valmy,
-
-76600 Le Havre |
-
-Appareils radar :
-
-Furuno ; Radio Holland ; Radio Zeeland ; Swiss radar
-
-Indicateurs de vitesse de giration :
-
-Radio Zeeland |
-
-4 |
-
-GH2E |
-
-3, rue Sophie Germain,
-
-75014 Paris |
-
-Appareils radar :
-
-Periskal |
-
-5 |
-
 MAP Marine |
 
-1, quai de la Grande Bigue, bât. B, 13002 Marseille |
+1, quai de la Grande-Bigue, bât. B,
+
+13002 Marseille |
 
 Appareils radar :
 
@@ -96,37 +70,39 @@ Indicateurs de vitesse de giration :
 
 Radio Zeeland |
 
-6 |
+4 |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules Durand, 76056 Le Havre |
+68, boulevard Jules-Durand,
+
+76056 Le Havre |
 
 Appareils radar :
 
-JRC JMA-610-6/-7/-9 (Alphatron)
+JMA-609/7/9 (R-4-011) ;
+
+JRC JMA 610-6/-7/-9 (R-4-015) ;
+
+Tresco Radar Overlay (R-4-102)
 
 Indicateurs de vitesse de giration :
 
-AlphaTurn River (Alphatron) |
+AlphaTurn (River) MFM/ MFL 90°/ min 300°/ min + EBF01a (e-01-086) |
 
-7 |
+5 |
 
-RADIO HOLLAND FRANCE SAS |
+RADIO HOLLAND FRANCE |
 
-31, rue des Ponts,
+21, rue Paul-Verlaine,
 
-76620 Le Havre |
+76700 Harfleur |
 
 Appareils radar :
 
 JRC JMA 610-6/-7/-9 (R-4-015) ;
 
-FALCON 7216/17/19 (R-4-016) ;
-
-Sigma 7216/17/19 (R-4-017) ;
-
-Furuno RHRS-2014 (R-4-021 ;
+Furuno RHRS-2014 (R-4-021) ;
 
 JFS-364/ JFS 364 C (R-4-002) ;
 
@@ -140,9 +116,23 @@ Indicateurs de vitesse de giration :
 
 Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
 
-Alpha Turn & Rudder MFC (R-4-091) ; |
+Alpha Turn & Rudder MFC (R-4-091) ;
 
-8 |
+FALCON 300/500 (e-04-101) ;
+
+SIGMA 300 (R-2-018) ;
+
+SIGMA 550 (R-2-019) ;
+
+SIGMA 500 (R-2-020) ;
+
+Titan 300 90°/ min 270°/ min + S300 (e-01-085) ;
+
+Titan 500 90°/ min 270°/ min + S300 (e-01-084) ;
+
+Titan 1000 90°/ min 300°/ min + S300 (e-01-083) |
+
+6 |
 
 SIECMI |
 
@@ -158,7 +148,7 @@ Indicateurs de vitesse de giration :
 
 Radio Holland ; Radio Zeeland ; Alphatron |
 
-9 |
+7 |
 
 Sud Communication |
 
@@ -170,11 +160,13 @@ Appareils radar :
 
 ICOM |
 
-10 |
+8 |
 
 THEMYS |
 
-Quartier de la chaume, CD 45, pont de l'Etoile,
+Quartier de la chaume, CD
+
+45, pont de l'Etoile,
 
 13360 Roquevaire |
 
