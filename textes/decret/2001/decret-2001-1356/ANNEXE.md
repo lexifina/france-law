@@ -1,26 +1,16 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
-1. (alinéa supprimé)
+1. Secrétaire général.
 
 2. Directeur d'administration centrale.
 
-3. Chef de service non rattaché à une direction.
+3. Chef de service.
 
-4. Chef de service exerçant les fonctions d'adjoint à un directeur d'administration centrale.
+4. Sous-directeur.
 
-5. Sous-directeur en charge d'une sous-direction d'administration centrale.
-
-6. Expert de haut niveau ou directeur de projet.
-
-7. (alinéa supprimé)
-
-8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
-
-9. Secrétaire général.
-
-10. Sous-directeur, adjoint au chef d'un service d'administration centrale.
+5. Expert de haut niveau ou directeur de projet.
 
 B. - Fonctions exercées dans les services territoriaux
 
