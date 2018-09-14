@@ -4,7 +4,9 @@ ANNEXE II : MODALITÉS DE CERTIFICATION
 
 ANNEXE IIa : Unités constitutives du diplôme
 
-ANNEXE IIb : Règlement d'examen
+ANNEXE IIb : Règlement d'examen (Vous pouvez consulter le contenu de l'annexe à partir de l'extrait du Journal officiel électronique à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037393853)
 
 ANNEXE IIc : Définition des épreuves
 
