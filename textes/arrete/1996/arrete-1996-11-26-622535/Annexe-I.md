@@ -16,7 +16,7 @@ CODE - nomenclature douanière
 
 DESIGNATION DES PRODUITS
 
-Déchets d'huiles non solides, à l'exclusion des huiles lubrifiantes usagées.
+Déchets d'huiles non solides.
 
 CODE - nomenclature douanière
 
