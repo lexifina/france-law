@@ -518,7 +518,7 @@ COMUE Université Sorbonne Paris Cité
 
 Confédération nationale du mouvement pour le planning familial
 
-Conseil national des communes Compagnon de la Libération
+Ordre de la Libération (Conseil national des communes " Compagnon de la Libération ")
 
 Conservatoire de l'espace littoral et des rivages lacustres
 

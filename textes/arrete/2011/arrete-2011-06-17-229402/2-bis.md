@@ -28,4 +28,4 @@ Ecole nationale supérieure de technique avancées Bretagne ;
 
 Etablissement de communication et de production audiovisuelle de la défense ;
 
-Conseil national des communes “Compagnon de la Libération”.
+Ordre de la Libération (Conseil national des communes " Compagnon de la Libération ") .
