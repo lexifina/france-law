@@ -452,77 +452,41 @@ A
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (1) de l'Aube
+Direction départementale des territoires de l'Aube (1).
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM) par emploi |
 
-NOMBRE
+Chef de bureau du logement social et rénovation urbaine-Service habitat et construction durable-Bureau logement social et rénovation urbaine |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+50 |
 
-par emploi
+Chef de service habitat et construction durable |
 
-|
+A |
 
-Chef du bureau politique de la ville
+1 |
 
-|
+50 |
 
-A
+Chargé de la mise en œuvre du droit au logement opposable-Service habitat et construction durable-Bureau politiques sociales du logement |
 
-|
+C |
 
-1
+1 |
 
-|
-
-50 points
-
-|
-
-Chef du bureau du logement social
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-Accueil des personnes en impayé de loyer
-
-|
-
-C
-
-|
-
-1
-
-|
-
-20
-
-|
+20 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de l'Aude
 
@@ -566,6 +530,6 @@ B
 
 NOTA :
 
-(1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
+(1) Conformément à l'article 1er de l'arrêté du 6 septembre 2018, les dispositions de l'annexe du présent arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Aube prennent effet au 1er janvier 2016.
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
