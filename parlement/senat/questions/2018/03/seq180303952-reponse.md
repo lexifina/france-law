@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303952
+
+- Question : [SEQ180303952](seq180303952.md) — Dons aux partis politiques et impôt sur le revenu
+
+## Réponse
+
+*Économie et finances, JO du 2018-09-20, page 4787*
+
+En application du 3 de l'article 200 du code général des impôts (CGI), les dons consentis par un contribuable domicilié en France pour le financement de certaines campagnes électorales ou des partis politiques ainsi que les cotisations versées aux partis et groupements politiques, ouvrent droit à une réduction d'impôt égale à 66 % du montant des sommes versées. Conformément au 1 bis du même article, ces dons et les autres dons ouvrant droit à la réduction d'impôt sur le revenu précitée sont retenus dans la limite de 20 % du revenu imposable du foyer fiscal. Lorsque le montant des dons excède cette limite, l'excédent est reporté sur les cinq années suivantes et ouvre droit à la réduction d'impôt dans les mêmes conditions. Les dons et cotisations versées pour le financement des partis et groupements politiques sont retenus dans la limite de 15 000 € par an et par foyer fiscal pour le bénéfice de la réduction d'impôt précitée. En revanche, les dons versés pour le financement de campagnes électorales ne sont pas soumis à ce plafond fiscal spécifique de 15 000 €. C'est la raison pour laquelle des modalités distinctes de déclaration sont prévues selon que les versements précités sont concernés ou non par le plafond fiscal de 15 000 €. Ainsi, les dons et cotisations versés au profit d'un parti ou groupement politique sont à indiquer en case 7 UH de la déclaration de revenus. Ils seront retenus pour le calcul de la réduction d'impôt dans la limite de 15 000 €. En revanche, les dons consentis pour le financement de campagnes électorales sont à déclarer avec les autres dons éligibles à la réduction d'impôt en case 7 UF de la même déclaration de revenus.
