@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706147
+
+- Question : [SEQ180706147](seq180706147.md) — Échange de chemins ruraux
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-09-20, page 4783*
+
+Il résulte des dispositions du code rural et de la pêche maritime que le législateur a entendu limiter la possibilité d'aliénation des chemins ruraux au seul cas de la vente, que par ailleurs il réglemente strictement. En effet, les chemins ruraux, bien qu'appartenant au domaine privé de la commune sur le territoire de laquelle ils sont situés, n'en sont pas moins affectés à l'usage du public et ouverts à la circulation générale. Ils répondent ainsi à un intérêt général. C'est pour cette raison que la loi ne prévoit pas la possibilité de modification de l'assiette d'un chemin rural par d'autres dispositifs que l'aliénation. Une procédure d'échange de terrains risquerait de méconnaître les dispositions garantissant le caractère d'utilité publique du chemin. De ce fait, le déplacement des chemins ruraux par échange de terrains n'est pas permis et est sanctionné par le Conseil d'État. Les communes peuvent toutefois procéder au déplacement de l'emprise d'un chemin rural. Il convient pour ce faire, dans un premier temps, de mettre en œuvre pour le chemin initial une procédure d'aliénation, elle même conditionnée à la fois par le constat de fin d'usage par le public et une enquête publique, préalables à une délibération du conseil municipal. Dans un second temps, une procédure de déclaration d'utilité publique permettra à la commune de créer un nouveau chemin. Les communes disposent ainsi des possibilités juridiques pour modifier le tracé des chemins ruraux. Pour l'ensemble de ces raisons, il n'est pas prévu de modification réglementaire ou législative à la procédure d'aliénation des chemins ruraux communaux.
