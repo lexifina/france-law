@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180102864
+
+- Question : [SEQ180102864](seq180102864.md) — Sécurité dans les transports publics
+
+## Réponse
+
+*Transports, JO du 2018-09-20, page 4817*
+
+L'autobus de marque SCANIA avait été immatriculé pour la première fois le 18 juillet 2007. Selon les informations disponibles, l'incendie a été provoqué par un court-circuit dans le compartiment batteries du véhicule. Les services de la RATP ont contrôlé l'ensemble des véhicules de même type. Aucun défaut similaire n'a été observé lors de ces contrôles, néanmoins, il est apparu qu'une faiblesse de conception nécessitait d'instruire une modification pérenne sur ce type de matériel. Avec l'accord du constructeur, il a été acté de modifier et de remplacer les entretoises d'origine du support de butée inférieur du chariot à batteries. Cette modification concerne la totalité des 220 autobus de marque SCANIA OMNI S4 et SEV exploités par la RATP, et se déroulera jusqu'au 31 août prochain. Par ailleurs, les prescriptions techniques sur l'aménagement intérieur des autobus et autocars, ainsi que sur leur comportement au feu relèvent des règlements de la CEE-ONU n° 107 et 118. La France joue un rôle actif au sein du groupe de travail traitant de ces règlements, et encourage les propositions visant à prévenir les risques d'incendie. À cet égard les autorités françaises ont voté en faveur de l'installation obligatoire d'un système d'extinction automatique d'incendie dans le compartiment du moteur et du chauffage autonome des autobus. Ce système se déclenchera suite à la détection d'une température excessive dans lesdits compartiments. Les dispositions transitoires adoptées prévoient que ce dispositif soit obligatoire pour les nouveaux types de véhicules à partir du 1er septembre 2020 et pour tous les véhicules neufs à compter du 1er septembre 2021.
