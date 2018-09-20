@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504913
+
+- Question : [SEQ180504913](seq180504913.md) — Charges des camions de livraisons
+
+## Réponse
+
+*Transports, JO du 2018-09-20, page 4820*
+
+La directive 2006/126/CE du Parlement européen et du Conseil du 20 décembre 2006 relative au permis de conduire fixe les catégories de permis de conduire et définit les catégories de véhicules que ces permis autorisent à conduire. Ainsi, la catégorie B du permis de conduire n'autorise que la conduite des véhicules dont le poids total autorisé en charge (PTAC) n'excède pas 3,5 tonnes (voitures légères, véhicules utilitaires légers, camping-cars) auxquels peut être attelée une remorque dont le PTAC est inférieur ou égal à 750 kg. Augmenter le poids total autorisé en charge des véhicules à température dirigée au-delà de 3,5 tonnes les classerait dans la catégorie C1 et rendrait leur conduite accessible uniquement à la catégorie C1 du permis de conduire. La classification des catégories de permis de conduire en fonction des PTAC des véhicules répond à des considérations de sécurité routière. C'est la raison pour laquelle le droit européen impose pour la conduite de véhicules d'un PTAC supérieur à 3,5 tonnes une formation initiale obligatoire de 4 semaines (FIMO). Au regard de ces éléments, la conduite de véhicules de transport de marchandises de PTAC compris entre 3,5 et 6 tonnes avec le permis B n'est pas envisagée. Toutefois, dans le cadre des suites à donner aux préconisations de M. le député Damien Pichereau dans son rapport sur le développement du recours aux véhicules utilitaires légers (VUL), une analyse d'opportunité et de faisabilité sur la mise en place d'une formation initiale « VUL » et la création de passerelles de cette dernière vers la formation des conducteurs de poids lourds est actuellement réalisée.
