@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605551
+
+- Question : [SEQ180605551](seq180605551.md) — Gestion des véhicules radars par des sociétés privées
+
+## Réponse
+
+*Intérieur, JO du 2018-09-20, page 4797*
+
+Le ministre d'État, ministre de l'intérieur rappelle que le système du contrat relatif à l'externalisation de la conduite de voitures radars, passé avec un prestataire privé en Normandie est bâti de telle sorte qu'il ne peut y avoir ni intéressement aux amendes, ni logique de rentabilité favorisée. Au contraire, selon les termes du contrat, l'opérateur n'est en aucune manière rémunéré en fonction du nombre de flashs pendant le temps des missions de conduite et il ne pourra jamais se prévaloir du nombre de contraventions généré par les voitures qu'il conduit pour réévaluer sa rémunération. Le prestataire doit parcourir le nombre de kilomètres qui lui a été fixé par l'État à une vitesse donnée et s'expose à une lourde pénalité s'il ne respecte pas l'itinéraire imposé. S'agissant des autres garanties apportées pour prévenir tout lien entre nombre d'infractions constatées et profit des prestataires privés, il convient de préciser que l'objet du marché a été limité à la simple conduite du véhicule radar sans aucun paramétrage du radar ni choix des itinéraires de la part du prestataire privé. Ces dernières missions restent de la compétence exclusive des services de l'Etat. De plus, les opérations de contrôles sont automatisées et ni le chauffeur du véhicule, ni la société qui l'emploie n'ont connaissance des infractions relevées. Ces messages d'infractions sont transmis par le véhicule à Rennes où seul un officier de police judiciaire est habilité à les valider. Ainsi, contrairement aux inquiétudes parfois exprimées, les opérations de contrôle sont en aucun cas déléguées aux prestataires privés et l'État conserve ses compétences souveraines en matière de contrôle automatisé.
