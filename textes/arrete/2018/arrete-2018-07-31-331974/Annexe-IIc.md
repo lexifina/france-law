@@ -1,6 +1,6 @@
-# Article Annexe IIc
+# Article Annexe II c
 
-BACCALAURÉAT PROFESSIONNEL « CONDUITE DE PRODUCTIONS HORTICOLES (ARBRES, ARBUSTES, FRUITS, FLEURS, LÉGUMES) »
+BACCALAURÉAT PROFESSIONNEL CONDUITE DE PRODUCTIONS HORTICOLES (ARBRES, ARBUSTES, FRUITS, FLEURS, LÉGUMES)
 
 ANNEXE II c - Définition des épreuves ponctuelles terminales et des situations d'évaluation en cours de formation
 
@@ -76,7 +76,7 @@ Elle est affectée d'un coefficient 4.
 
 Epreuve E5 : Choix techniques
 
-Elle valide la capacité C5 « Raisonner des choix techniques dans un processus de production horticole en prenant en compte les ressources naturelles communes ».
+Elle valide la capacité C5 Raisonner des choix techniques dans un processus de production horticole en prenant en compte les ressources naturelles communes .
 
 C'est une épreuve ponctuelle terminale écrite d'une durée de 2 heures 30, temps de lecture des documents inclus.
 
@@ -94,7 +94,7 @@ L'évaluation est réalisée à partir d'une grille critériée nationale.
 
 Epreuve E6 : Expérience en milieu professionnel
 
-Elle valide la capacité C6 « Organiser le travail du chantier horticole ».
+Elle valide la capacité C6 Organiser le travail du chantier horticole .
 
 Il s'agit d'une épreuve ponctuelle terminale orale identique pour les candidats en CCF et hors CCF.
 
@@ -130,15 +130,15 @@ Epreuve E7 : Pratiques professionnelles
 
 L'épreuve valide les capacités C7 à C11 :
 
-C7 « Animer une équipe de travail »
+C7 Animer une équipe de travail
 
-C8 « Assurer les opérations techniques sur les végétaux »
+C8 Assurer les opérations techniques sur les végétaux
 
-C9 « Intervenir sur les conditions de croissance et de développement du végétal »
+C9 Intervenir sur les conditions de croissance et de développement du végétal
 
-C10 « Effectuer les opérations d'entretien, de paramétrage et de réglage des matériels, des équipements et installations »
+C10 Effectuer les opérations d'entretien, de paramétrage et de réglage des matériels, des équipements et installations
 
-C11 « S'adapter à des enjeux professionnels particuliers »
+C11 S'adapter à des enjeux professionnels particuliers
 
 Elle est affectée d'un coefficient 5.
 
@@ -176,7 +176,7 @@ Les examinateurs sont :
 
 - un professionnel du secteur*.
 
-Le candidat sans dossier ne pourra prétendre à être interrogé oralement et par conséquent se présenter à l'épreuve E6.
+Le candidat sans dossier ne pourra prétendre à être interrogé oralement et par conséquent se présenter à l'épreuve E7.
 
 Définition des épreuves facultatives n° 1 et n° 2
 
