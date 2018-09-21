@@ -62,12 +62,6 @@ Morbihan |
 
 |
 
-Cognac-Châteaubernard |
-
-Charente |
-
-|
-
 Colmar-Meyenheim |
 
 Haut-Rhin |

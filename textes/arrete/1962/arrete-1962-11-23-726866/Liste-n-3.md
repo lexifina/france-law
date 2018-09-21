@@ -208,6 +208,24 @@ Pour l'accueil prioritaire du trafic militaire.
 
 Pour l'accueil du trafic civil, dans la limite des disponibilités de leur capacité physique et dans les conditions fixées, pour chacun d'entre eux, par un protocole spécifique passé entre les représentants des affectataires ; ce protocole précisera notamment le type d'appareils, la nature et le nombre de vols accueillis, leur provenance et leur destination ainsi que les périodes et les modalités de leur accueil. |
 
+Cognac-Châteaubernard |
+
+Charente |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs d'Etat étrangers ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° Aux aéronefs légers et activités liés à l'aéroclub "Les Ailes Cognaçaises - aéroclub de Cognac" dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Corlier |
 
 Ain |
