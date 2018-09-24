@@ -1,16 +1,10 @@
 # Article Annexe I
 
-ANNEXE I
-
 EXIGENCES ESSENTIELLES DE SÉCURITÉ APPLICABLES AUX ÉQUIPEMENTS SOUS PRESSION NUCLÉAIRES DES CATÉGORIES I À IV ET DE NIVEAU N1 HORMIS CERTAINES TUYAUTERIES
 
+1. Domaine d'application
+
 Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires des catégories I à IV et de niveau N1, hormis les tuyauteries du circuit primaire principal des chaudières nucléaires à eau de dimension nominale DN inférieure ou égale à 50 et les autres tuyauteries de DN inférieure ou égale à 100 ainsi que les accessoires sous pression de même DN qui leur sont raccordés, sont les exigences mentionnées à l'annexe I de la directive du 15 mai 2014 susvisée, précisées et complétées comme suit, nonobstant le fait que ces équipements relèvent de l'exception mentionnée au h) du point 2 de l'article 1er de ladite directive.
-
-1. Préliminaire et généralités
-
-L'exploitant fournit au fabricant la description de toutes les situations dans lesquelles peut se trouver l'équipement, en cohérence avec le rapport de sûreté de l'installation à laquelle il est destiné, complété par les dossiers associés, ainsi que l'ensemble des charges à prendre en compte pour chaque situation.
-
-Le fabricant réalise l'analyse de risques prévue à l'alinéa 3 des remarques préliminaires de l'annexe I de la directive du 15 mai 2014 susvisée en tenant compte des données fournies par l'exploitant et du caractère radioactif du fluide qu'il contiendra.
 
 2. Conception
 
@@ -72,7 +66,7 @@ Sauf justification particulière du fabricant, les assemblages permanents devant
 
 3.4. Essais non destructifs
 
-Les essais non destructifs ont pour but la détection des défauts de fabrication spécifiés par le fabricant comme inacceptables.
+Les essais non destructifs ont pour but la détection des défauts de fabrication et d'élaboration des matériaux spécifiés par le fabricant comme inacceptables.
 
 L'entité tierce partie reconnue qui approuve le personnel qui effectue les contrôles par essais non destructifs des assemblages permanents est un organisme habilité au sens du 11. a) ii. de l'article R. 557-4-2 du code de l'environnement.
 
@@ -117,6 +111,8 @@ Le choix d'un procédé d'élaboration d'un matériau doit se faire notamment au
 Les matériaux ne doivent pas par eux-mêmes conduire à des limitations excessives des possibilités de contrôle en fabrication ou d'inspection en service.
 
 Un certificat est établi par le fabricant du matériau pour chaque matériau constitutif des parties qui contribuent à la résistance à la pression, avec contrôle spécifique sur produit, certifiant la conformité aux prescriptions requises.
+
+Si, pour un matériau constitutif d'une partie qui contribue à la résistance à la pression provenant d'un intermédiaire, un certificat du fabricant du matériau, avec contrôle spécifique sur produit, n'a pas été établi pour toutes les prescriptions requises comme il est exigé à l'alinéa précédent, le fabricant de l'équipement sous pression nucléaire peut, alternativement, justifier la conformité de ce matériau aux exigences essentielles de sécurité applicables par des essais qu'il a réalisés sur ce produit, en un nombre suffisant et aux emplacements appropriés, sous la surveillance d'un organisme habilité. Pour définir les essais nécessaires, le fabricant peut s'appuyer sur les prescriptions générales des normes harmonisées de matériaux relatives au contrôle, à l'échantillonnage et aux méthodes d'essais appliquées au produit considéré.
 
 4.2. Caractéristiques des matériaux
 

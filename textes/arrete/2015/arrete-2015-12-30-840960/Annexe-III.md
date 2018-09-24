@@ -2,13 +2,9 @@
 
 EXIGENCES ESSENTIELLES DE SÉCURITÉ APPLICABLES AUX ÉQUIPEMENTS SOUS PRESSION NUCLÉAIRES DES CATÉGORIES I À IV ET DE NIVEAU N3
 
+1. Domaine d'application
+
 Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires des catégories I à IV et de niveau N3 sont les exigences figurant à l'annexe I de la directive du 15 mai 2014 susvisée, précisées et complétées comme suit, nonobstant le fait que ces équipements relèvent de l'exception mentionnée au h) du point 2 de l'article 1er de ladite directive.
-
-1. Préliminaire et généralités
-
-L'exploitant fournit au fabricant la description de toutes les situations dans lesquelles peut se trouver l'équipement, en cohérence avec le rapport de sûreté de l'installation à laquelle il est destiné, complété par les dossiers associés, ainsi que l'ensemble des charges à prendre en compte pour chaque situation.
-
-Le fabricant réalise l'analyse de risques prévue à l'alinéa 3 des remarques préliminaires de l'annexe I de la directive du 15 mai 2014 susvisée en tenant compte des données fournies par l'exploitant et du caractère radioactif du fluide qu'il contiendra.
 
 2. Conception
 
