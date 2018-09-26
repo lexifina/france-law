@@ -18,27 +18,49 @@ Les salariés se prévalant d'une dispense d'adhésion doivent :
 
 – à titre obligatoire aux salariés s'agissant de la couverture de base ;
 
-– s'agissant des ayants droit et des garanties complémentaires, l'employeur peut décider de faire bénéficier les ayants droit du salarié du régime de base obligatoire et il peut également décider de faire bénéficier le salarié et, le cas échéant, ses ayants droit des garanties complémentaires (1). En cas de bénéfice de garanties aux enfants, la cotisation enfant est gratuite à partir du troisième enfant.
+– s'agissant des ayants droit et des garanties complémentaires, l'employeur peut décider de faire bénéficier les ayants droit du salarié du régime de base obligatoire et il peut également décider de faire bénéficier le salarié et, le cas échéant, ses ayants droit des garanties complémentaires
+
+(1)
+
+. En cas de bénéfice de garanties aux enfants, la cotisation enfant est gratuite à partir du troisième enfant.
 
 La question du financement de ces décisions est réglée par l'article 5.
 
-1.4. Au titre du présent accord, sont ayants droit :
+1.4. Au titre du présent accord sont ayants droit :
 
-– le conjoint du salarié, c'est-à-dire son époux (se) non séparé (e) de corps judiciairement, couvert par la sécurité sociale à titre d'ayant droit du salarié, ou le conjoint non à charge. Est assimilé au conjoint :
+1. Le conjoint du salarié, c'est-à-dire son époux(se) non séparé(e) de corps judiciairement. Est assimilé au conjoint :
 
-–– le concubin, c'est-à-dire la personne avec laquelle le salarié vit en couple, au sens de l'article 515-8 du code civil, au même domicile (l'adresse figurant sur les décomptes de la sécurité sociale faisant foi) ; les concubins ne doivent être ni l'un ni l'autre mariés ou liés par un Pacs ;
+– le concubin c'est-à-dire la personne avec laquelle le salarié vit en couple au sens de l'article 515-8 du code civil au même domicile (l'adresse figurant sur les décomptes de la sécurité sociale faisant foi) ; les concubins ne doivent être ni l'un ni l'autre mariés ou liés par un Pacs,
 
-–– le partenaire lié au salarié par un pacte civil de solidarité (Pacs) dans les conditions fixées par les articles 515-1 à 515-7 du code civil ;
+– le partenaire lié au salarié par un pacte civil de solidarité (Pacs) dans les conditions fixées par les articles 515-1 à 515-7 du code civil ;
 
-– les enfants du salarié ou ceux de son conjoint âgés de moins de 18 ans.
+Sont ayants droit :
 
-Cette limite d'âge est prorogée jusqu'au :
+– le conjoint à charge de l'assuré :
 
-– 21e anniversaire pour les enfants considérés comme ayants droit, par la sécurité sociale, du salarié ou de son conjoint ;
+Le conjoint tel que défini ci-dessus, qui a conservé son statut d'ayant droit de l'assuré au sens de la sécurité sociale (au plus tard jusqu'au 31 décembre 2019) ou qui est en mesure de prouver qu'il n'exerce aucune activité professionnelle et ne perçoit aucun revenu (salaires, traitements ou revenus de remplacement).
 
-– 28e anniversaire pour les enfants affiliés au régime de sécurité sociale des étudiants ou immatriculés personnellement à la sécurité sociale, s'ils sont en contrat d'apprentissage ou de professionnalisation et ne percevant pas des revenus supérieurs à 55 % du Smic brut annuel ;
+– le conjoint non à charge de l'assuré :
 
-– 28e anniversaire pour les enfants handicapés, s'ils ouvrent droit à l'allocation d'éducation prévue à l'article L. 541-1 du code de la sécurité sociale ou à l'allocation d'adulte handicapé prévue à l'article L. 821-1 de ce code et ne percevant pas des revenus supérieurs à 55 % du Smic brut annuel.
+Le conjoint qui exerce une activité professionnelle et perçoit un revenu (salaires, traitements ou revenus de remplacement).
+
+2. Les enfants à charge qui sont ceux de l'assuré et ceux de son conjoint au sens du contrat qui remplissent les conditions cumulatives suivantes :
+
+– âgés de moins de 21 ans ;
+
+– bénéficiant d'un régime de sécurité sociale (du fait de l'affiliation de l'assuré, de celle de son conjoint ou d'une affiliation personnelle) ;
+
+– fiscalement à charge de l'assuré, c'est-à-dire pris en compte pour l'application du quotient familial ou qui perçoivent une pension alimentaire qu'il déduit fiscalement de son revenu global.
+
+Cette limite d'âge est portée à 28 ans pour les enfants qui remplissent l'une des conditions suivantes :
+
+– s'ils poursuivent leurs études et ne disposent pas de ressources propres provenant d'une activité salariée, sauf emplois occasionnels ou saisonniers durant les études ou emplois rémunérés mensuellement moins de 65 % du Smic ;
+
+– s'ils suivent une formation en alternance ou se trouvent sous contrat d'apprentissage ;
+
+– s'ils sont inscrits à Pôle emploi comme primo demandeurs d'emploi ou effectuent un stage préalablement à l'exercice d'un premier emploi rémunéré.
+
+La limite d'âge est supprimée pour les enfants qui bénéficient d'une allocation prévue par la législation sociale en faveur des personnes en situation de handicap ou qui sont titulaires de la carte d'invalidité prévue par l'article L. 241-3 du code de l'action sociale et des familles, sous réserve que l'invalidité ait été reconnue avant leur 21e anniversaire ou leur 28e anniversaire s'ils poursuivaient des études.
 
 1.5. Les entreprises relevant du champ d'application du présent accord doivent, selon le calendrier défini au troisième alinéa ci-dessous, faire application du contenu défini par le présent accord en matière de remboursement de soins de santé, sous réserve pour les salariés des cas de dispense prévus par la réglementation.
 
