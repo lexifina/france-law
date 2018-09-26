@@ -6,9 +6,9 @@ II. 6.1. Nombre de délégués
 
 Le nombre de délégués syndicaux est fixé comme suit :
 
--dans les entreprises de 11 à 49 salariés : 1 délégué par organisation syndicale représentative dans l'entreprise, qu'il soit ou non délégué du personnel ;
+– dans les entreprises de 11 à 49 salariés : 1 délégué par organisation syndicale représentative dans l'entreprise, qu'il soit ou non délégué du personnel ;
 
--dans les entreprises de 50 salariés et plus, la législation en vigueur s'applique selon l'article L. 2143-3 du code du travail.
+– dans les entreprises de 50 salariés et plus, la législation en vigueur s'applique selon l'article L. 2143-3 du code du travail.
 
 II. 6.2. Conditions de désignation
 
@@ -20,14 +20,14 @@ II. 6.3. Heures de délégation
 
 Chaque délégué syndical bénéficie mensuellement d'heures de délégation, fixées comme suit :
 
-― dans les entreprises de 11 à 25 salariés de 5 heures. Lorsque le délégué syndical est délégué du personnel, seules s'appliquent les dispositions de l'article III. 1.3 ;
+– dans les entreprises de 11 à 25 salariés de 5 heures. Lorsque le délégué syndical est délégué du personnel, seules s'appliquent les dispositions de l'article III. 1.3 ;
 
-― dans les entreprises de plus de 25 salariés et de moins de 50 salariés, de 10 heures ;
+– dans les entreprises de plus de 25 salariés et de moins de 50 salariés, de 10 heures ;
 
-― dans les entreprises à partir de 50 salariés, selon les dispositions de la législation en vigueur.
+– dans les entreprises à partir de 50 salariés, selon les dispositions de la législation en vigueur.
 
 II. 6.4. Dispositions complémentaires
 
-Dans les entreprises qui emploient 10 salariés ou moins de 10 salariés, les syndicats représentatifs peuvent désigner un délégué du personnel titulaire pour la durée de son mandat comme délégué syndical.
+Dans les entreprises qui emploient moins de 11 salariés, les syndicats représentatifs peuvent désigner un représentant du personnel titulaire pour la durée de son mandat comme délégué syndical.
 
 Sur les lieux de production non permanents, chaque organisation syndicale représentative peut désigner un salarié comme délégué syndical temporaire pour la représenter auprès de l'employeur ou de son représentant pendant la durée de la production, montage et démontage compris.
