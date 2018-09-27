@@ -3396,7 +3396,7 @@ Naloxone
 
 |
 
-voie intramusculaire
+voie nasale
 
 |
 
@@ -3404,11 +3404,11 @@ voie intramusculaire
 
 |
 
-0,000364
+3,6 mg
 
 |
 
-0,00364
+7,2 mg
 
 |
 
