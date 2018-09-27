@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001473
+
+- Question : [SEQ171001473](seq171001473.md) — Infrastructures hydrauliques permettant l'évacuation des eaux pluviales décantées vers le milieu naturel
+
+## Réponse
+
+*Transition écologique et solidaire (M. le SE auprès du ministre d'État), JO du 2018-09-27, page 4941*
+
+Les ouvrages de gestion des eaux pluviales aménagés sur le domaine public, comme les bassins de rétention ou les systèmes de collecte, sont à la charge de la commune ou de l'intercommunalité compétente en matière d'assainissement. Ces ouvrages doivent être financés par le budget général de la collectivité compétente en matière d'assainissement. En revanche, les caniveaux ou les fossés le long d'une route relèvent de la collectivité ayant la compétence « voirie ». Les ouvrages de gestion des eaux pluviales installés sur le domaine privé doivent, quant à eux, être pris en charge par le particulier ou l'organisme les ayant mis en place. Si le rejet de l'ouvrage s'effectue dans le milieu naturel (et à condition que la surface drainée par le projet soit supérieure à un hectare), l'aménageur devra déposer un dossier de demande d'autorisation au titre de la loi sur l'eau au titre de la rubrique 2.1.5.0, d'après l'article R. 214-1 du code de l'environnement. Dans le cas d'un rejet dans le réseau pluvial de la collectivité, l'aménageur n'aura pas à déposer de dossier au titre de la rubrique 2.1.5.0. Il devra cependant demander une autorisation de raccordement au maître d'ouvrage du réseau dans lequel il se rejette, ce dernier pouvant imposer des modalités de rejet en quantité et en qualité d'après l'article L. 1331 du code de la santé publique. L'action de la police de l'eau se portera alors sur le maître d'ouvrage du réseau existant qui devra porter à la connaissance du préfet le projet d'extension de son réseau.
