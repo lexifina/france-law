@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404263
+
+- Question : [SEQ180404263](seq180404263.md) — Situation des établissements d'hébergement pour personnes âgées dépendantes
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-09-27, page 4933*
+
+La feuille de route Grand âge et autonomie présentée le 30 mai 2018 comporte plusieurs actions visant à améliorer la qualité des soins et des accompagnements en établissement d'hébergement pour personnes âgées dépendantes (EHPAD), qui répondent aux préconisations de la mission parlementaire « flash » de l'Assemblée nationale sur les EHPAD. Afin de répondre aux inquiétudes générées par la réforme des tarifs soins et dépendance des EHPAD, les ressources financières de ces établissements seront maintenues au minimum à leur hauteur actuelle pour les années 2018 et 2019. Parallèlement, des travaux seront engagés avec les fédérations représentant les EHPAD et l'Assemblée des départements de France pour permettre aux départements de fixer un tarif dépendance plus adapté aux besoins des structures de leur territoire. Par ailleurs, la montée en charge de la réforme de la tarification des soins sera accélérée pour renforcer plus rapidement la présence de personnel soignant au sein des EHPAD. L'ensemble des établissements atteindront leur nouveau tarif cible pour la fin de l'année 2021. Cela représente un effort supplémentaire de 143 M€ qui s'ajoutent aux 217 M€, déjà prévus sur le période 2019-2021, destinés au recrutement de personnels soignants dans les EHPAD. Enfin, des actions pour mieux former les professionnels exerçant auprès des personnes âgées seront engagées, telles notamment la révision d'ici mars 2019 des référentiels d'activités, de compétences et de formation des aides-soignants. Un suivi régulier est organisé pour veiller au respect des calendriers de mise en œuvre des diverses actions inscrites dans la feuille de route.
