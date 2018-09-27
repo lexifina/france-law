@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605671
+
+- Question : [SEQ180605671](seq180605671.md) — Reste à charge zéro dans la filière optique
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-09-27, page 4931*
+
+Le président de la République a annoncé le 13 juin 2018, lors du congrès de la Mutualité française à Montpellier, la concrétisation du reste à charge zéro dans les domaines de l'optique, de l'audioprothèse et des soins dentaires. L'objectif est de diminuer le taux de renoncement aux soins pour des raisons financières. Dans le secteur de l'optique, ce taux s'établit à 10,1 % en moyenne. Il s'élève à 17 % pour les 20 % des Français aux revenus les plus modestes. L'offre « 100 % santé » sera proposée par tous les opticiens à partir du 1er janvier 2020. La réforme doit permettre un accès à des équipements d'optique de qualité tant par leur esthétique (verres fins ou amincissement des verres) que par leur performance technique (verres anti-rayures, verres antireflets) avec un reste à charge nul. Pour attester de cette qualité, la Haute Autorité de santé a été saisie sur les avis de projets de nomenclature et rendra prochainement ses conclusions. Les offres de soins proposées seront amenées à évoluer pour s'adapter aux nouvelles techniques et aux besoins de santé des Français. En outre, une évaluation régulière de la satisfaction des assurés, sur la base d'enquêtes réalisées auprès des patients, permettra de garantir une qualité constante de ces équipements. La liberté de choisir et de proposer sera préservée : le patient pourra ainsi panacher des verres sans reste à charge et une monture de marque, remboursée par sa complémentaire dans les conditions de droit commun. Il s'agit de passer du reste à charge subi au reste à charge choisi. Enfin, la mise en œuvre de cette réforme sera assurée en liaison étroite avec l'ensemble des représentants de la filière optique.
