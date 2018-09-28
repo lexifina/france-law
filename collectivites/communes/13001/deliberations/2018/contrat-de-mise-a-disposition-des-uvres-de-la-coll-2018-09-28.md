@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONTRAT DE MISE A DISPOSITION DES 'UVRES DE LA COLLECTION DE LA MAISON EUROPEENNE DE LA PHOTOGRAPHIE POUR L'EXPOSITION « HARRY CALLAHAN, FRENCH ARCHIVES, AIX-EN-PROVENCE, 1957-1958 » AU MUSEE GRANET DU 16 MARS AU 21 JUILLET 2019
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-09-28
+- Séance : Conseil Municipal 1CA
+- Objet : CONTRAT DE MISE A DISPOSITION DES 'UVRES DE LA COLLECTION DE LA MAISON EUROPEENNE DE LA PHOTOGRAPHIE POUR L'EXPOSITION « HARRY CALLAHAN, FRENCH ARCHIVES, AIX-EN-PROVENCE, 1957-1958 » AU MUSEE GRANET DU 16 MARS AU 21 JUILLET 2019
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10135-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
