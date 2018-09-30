@@ -458,14 +458,6 @@ NATIXIS
 
 NATIXIS data center de Bailly-Romainvilliers |
 
-FR-new-06512981 |
-
-BOUYGUES TELECOM |
-
-BOUYGUES TELECOM data center de Montigny-le-
-
-Bretonneux |
-
 FR-new-06513131 |
 
 TELEHOUSE EUROPE

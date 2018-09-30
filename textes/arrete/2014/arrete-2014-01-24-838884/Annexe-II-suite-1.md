@@ -3170,13 +3170,13 @@ COFELY EPINAL
 
 8 110 |
 
-6 854 |
+3 427 |
 
-5 638 |
+2 819 |
 
-4 466 |
+2 233 |
 
-72 997 |
+64 518 |
 
 FR000000000000513
 
@@ -4636,9 +4636,9 @@ BOUYER LEROUX usines Saint-Martin-des-Fontaines |
 
 FR000000000000579 |
 
-BOUYER LEROUX STRUCTURE |
+BOUYER LEROUX |
 
-BOUYER LEROUX STRUCTURE site de la Boissière du Doré |
+BOUYER LEROUX site de la boissière du Doré |
 
 7 276 |
 
@@ -5780,13 +5780,13 @@ Raffinerie de Provence |
 
 763 247 |
 
-748 364 |
+0 |
 
-733 295 |
+0 |
 
-718 174 |
+0 |
 
-6 161 906 |
+3 962 073 |
 
 FR000000000000632 |
 

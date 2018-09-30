@@ -536,11 +536,11 @@ FR000000000000740
 
 |
 
-Société des Lubrifiants de Nanterre
+Société des Pétroles Shell
 
 |
 
-Société des Lubrifiants de Nanterre
+Société des Pétroles Shell
 
 |
 
@@ -1164,19 +1164,19 @@ PLAINE COMMUNE ENERGIE Fabien
 
 |
 
-5 983
+1 496
 
 |
 
-4 917
+1 229
 
 |
 
-3 889
+972
 
 |
 
-61 979
+50 887
 
 |
 
@@ -1280,11 +1280,11 @@ FR000000000000759
 
 |
 
-GIE SOCCRAM
+SEVEO GIE
 
 |
 
-GIE SOCCRAM Chaufferie urbaine de SEVRAN
+Chaufferie Urbaine de Sevran
 
 |
 
@@ -2048,11 +2048,11 @@ FR000000000000783
 
 |
 
-TRANSPORT ET INFRASTRUCTURES GAZ France (TIGF)
+TERÉGA
 
 |
 
-TRANSPORT ET INFRASTRUCTURES GAZ FRANCE (TIGF)-Station de compression de BARBAIRA
+Teréga station de compression de Barbaira
 
 |
 
@@ -3660,19 +3660,19 @@ Wienerberger - usine de Betschdorf
 
 |
 
-27 007
+17 634
 
 |
 
-26 463
+17 279
 
 |
 
-25 917
+16 922
 
 |
 
-222 372
+194 820
 
 |
 
@@ -4860,19 +4860,19 @@ AIRBUS FRANCE SAINT-MARTIN-DU-TOUCH
 
 |
 
-10 995
+-
 
 |
 
-10 786
+-
 
 |
 
-10 576
+-
 
 |
 
-90 476
+58 119
 
 |
 
@@ -9488,11 +9488,11 @@ FR000000000001005
 
 |
 
-Vallourec Tubes France
+ASCOVAL
 
 |
 
-Vallourec Tubes France-Aciérie de Saint-Saulve
+Aciérie de Saint-Saulve
 
 |
 
@@ -9560,23 +9560,23 @@ STOELZLE MASNIERES PARFUMERIE
 
 |
 
-33 990
+20 169
 
 |
 
-33 327
+19 776
 
 |
 
-32 655
+19 377
 
 |
 
-31 982
+18 978
 
 |
 
-274 405
+220 751
 
 |
 
@@ -10688,11 +10688,11 @@ FR000000000001046
 
 |
 
-DCNS Cherbourg
+NAVAL GROUP
 
 |
 
-DCNS Cherbourg
+Naval Group-Cherbourg
 
 |
 
@@ -14336,11 +14336,11 @@ FR000000000001157
 
 |
 
-TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)
+TERÉGA
 
 |
 
-TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)-Station de compression de LUSSAGNET
+Station de compression de LUSSAGNET
 
 |
 

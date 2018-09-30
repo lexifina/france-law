@@ -1712,7 +1712,7 @@ FR-new-05207945
 
 |
 
-EUROVIA GPI
+EUROVIA GRANDS TRAVAUX
 
 |
 
@@ -1856,7 +1856,7 @@ FR-new-05209268
 
 |
 
-EUROVIA GPI
+EUROVIA GRANDS TRAVAUX
 
 |
 
@@ -1952,7 +1952,7 @@ FR-new-05209846
 
 |
 
-EUROVIA GPI
+EUROVIA GRANDS TRAVAU
 
 |
 
@@ -2696,11 +2696,11 @@ FR-new-05516997
 
 |
 
-Union de Coopérative Agricole (UCA) CECABROONS
+CECAB
 
 |
 
-CECABROONS
+CECAB
 
 |
 
@@ -8282,23 +8282,23 @@ Société Aéroport MARSEILLE PROVENCE |
 
 Aéroport Marseille Provence |
 
-/ |
+2 293 |
 
-/ |
+2 052 |
 
-/ |
+1 818 |
 
-/ |
+1 591 |
 
-/ |
+1 371 |
 
-/ |
+1 159 |
 
-/ |
+953 |
 
-/ |
+755 |
 
-/ |
+11 992 |
 
 FR-new-06400928
 
@@ -11004,19 +11004,19 @@ EURALIS CEREALES BARCELONNE-DU-GERS
 
 |
 
-1 031
+516
 
 |
 
-847
+424
 
 |
 
-670
+335
 
 |
 
-10 676
+9 403
 
 |
 
@@ -11672,11 +11672,11 @@ FR-new-07000720
 
 |
 
-Glencore Manganèse France
+FERROGLOBE MANGANESE France
 
 |
 
-Glencore Manganèse France
+Ferroglobe Manganèse France
 
 |
 
@@ -12028,27 +12028,27 @@ CHEMINEES PHILIPPE
 
 |
 
-18 542
+9 748
 
 |
 
-18 191
+9 564
 
 |
 
-17 837
+9 378
 
 |
 
-17 477
+9 188
 
 |
 
-17 116
+8 998
 
 |
 
-146 859
+104 572
 
 |
 
@@ -12056,11 +12056,11 @@ FR-new-07000922
 
 |
 
-HUNTSMAN P & A France SAS
+Venator France sas
 
 |
 
-HUNTSMAN P & A France-usine de Calais
+Venator France sas-usine de Calais
 
 |
 
@@ -13544,7 +13544,7 @@ FR-new-10011026
 
 |
 
-Eurovia Grands Projets et Industries
+EUROVIA GRANDS TRAVAUX
 
 |
 
@@ -13692,19 +13692,19 @@ Air Liquide Pont de Claix
 
 |
 
-28 926
+17 442
 
 |
 
-28 342
+17 090
 
 |
 
-27 758
+16 738
 
 |
 
-238 167
+204 411
 
 |
 
@@ -13788,19 +13788,19 @@ AREVA NP
 
 |
 
-6 495
+3 248
 
 |
 
-5 337
+2 669
 
 |
 
-4 222
+2 111
 
 |
 
-101 882
+93 856
 
 |
 

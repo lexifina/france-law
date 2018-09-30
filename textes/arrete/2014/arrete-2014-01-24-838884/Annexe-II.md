@@ -1708,27 +1708,27 @@ BONDUELLE EUROPE LONG LIFE ESTREES-MONS
 
 |
 
-11 932
+6 158
 
 |
 
-10 278
+5 304
 
 |
 
-8 679
+4 479
 
 |
 
-7 132
+3 681
 
 |
 
-5 641
+2 911
 
 |
 
-89 899
+68 770
 
 |
 
@@ -2168,11 +2168,11 @@ FR000000000000068
 
 |
 
-MUNKSJÖ ROTTERSAC SAS
+AHLSTROM MUNKSJO ROTTERSAC
 
 |
 
-MUNKSJÖ ROTTERSAC
+AHLSTROM MUNKSJO ROTTERSAC
 
 |
 
@@ -2792,11 +2792,11 @@ FR000000000000086
 
 |
 
-ROLPIN
+NP ROLPIN
 
 |
 
-ROLPIN (Site de Labouheyre)
+NP ROLPIN
 
 |
 
@@ -2816,23 +2816,23 @@ ROLPIN (Site de Labouheyre)
 
 |
 
-6 789
+-
 
 |
 
-5 733
+-
 
 |
 
-4 710
+-
 
 |
 
-3 726
+-
 
 |
 
-66 008
+45 050
 
 |
 
@@ -3320,11 +3320,11 @@ FR000000000000099
 
 |
 
-TRANSPORT ET INFRASTRUCTURES GAZ France
+TERÉGA
 
 |
 
-TRANSPORT ET INFRASTRUCTURES GAZ France Station de Compression de Mont
+Station de compression de MONT
 
 |
 
@@ -4328,11 +4328,11 @@ FR000000000000126
 
 |
 
-AREVA
+Orano Cycle
 
 |
 
-Etablissement AREVA La Hague
+Orano La Hague
 
 |
 
@@ -8004,19 +8004,19 @@ COFELY-CHAUFFERIE CENTRALE DU VERT BOIS
 
 |
 
-2 380
+1 190
 
 |
 
-1 958
+979
 
 |
 
-1 551
+775
 
 |
 
-31 681
+28 736
 
 |
 
@@ -9108,19 +9108,19 @@ SELYA - Cogénération Les Noës-près-Troyes
 
 |
 
-3 382
+1 691
 
 |
 
-2 782
+1 391
 
 |
 
-2 203
+1 102
 
 |
 
-34 992
+30 809
 
 |
 
