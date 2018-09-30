@@ -210,7 +210,7 @@ Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné pa
 
 Ecoles de la gendarmerie nationale. |
 
-Le chef d'état-major du commandement des écoles de la gendarmerie nationale. |
+Le commandant en second du commandement des écoles de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des écoles de la gendarmerie nationale. |
 
