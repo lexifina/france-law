@@ -981,3 +981,17 @@ Transfert de propriété d’archives d’origine privée appartenant au domaine
 Article R. 212-95 du code du patrimoine.
 
 |
+
+Décret n° 2018-537 du 28 juin 2018 relatif à l’évaluation archéologique en mer pris pour l’application de l’article L. 524-6 du code du patrimoine
+
+1
+
+|
+
+Modalités de mise en œuvre des évaluations archéologiques en mer.
+
+|
+
+Articles R. 523-38-4 et R. 546-7 du code du patrimoine.
+
+|
