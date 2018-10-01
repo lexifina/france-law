@@ -1,0 +1,23 @@
+# Article 1er
+
+Les dispositions de l'article 6.8 relatif aux congés pour événements familiaux sont remplacées par les dispositions suivantes :
+
+– mariage du salarié : 5 jours ouvrés ;
+
+– mariage d'un enfant : 3 jours ouvrés ;
+
+– mariage d'un frère, d'une sœur : 1 jour ouvré ;
+
+– décès du conjoint ou concubin déclaré, enfant : 5 jours ouvrés ;
+
+– décès des parents : 3 jours ouvrés ;
+
+– décès des frères, sœurs, beaux-parents, grands-parents : 3 jours ouvrés ;
+
+– naissance ou adoption : 3 jours ouvrés dans les 15 jours suivant l'événement.
+
+Ces congés sont rémunérés.
+
+(1) Article étendu sous réserve d'accorder le même nombre de jours de congés en cas de mariage et en cas de pacte civil de solidarité conformément aux dispositions de la loi n° 2014-873 du 4 août 2014 relative à l'égalité réelle entre les femmes et les hommes et des articles L. 1132-1 et L. 1133-1 du code du travail.
+
+(Arrêté du 24 juillet 2019 - art. 1)
