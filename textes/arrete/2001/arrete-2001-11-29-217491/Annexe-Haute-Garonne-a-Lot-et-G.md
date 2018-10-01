@@ -88,123 +88,57 @@ C |
 
 Direction départementale des territoires et de la mer de la Gironde
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Chef du service habitat, logement, construction durable |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
+44 |
 
-|
+Adjoint au chef du service habitat, logement, construction durable |
 
-Chef du service habitat logement et construction durable
+A |
 
-|
+1 |
 
-A
+33 |
 
-|
+Chef de l'unité rénovation urbaine |
 
-1
+A |
 
-|
+1 |
 
-44 points
+27 |
 
-|
+Chargé de suivi financier des projets de rénovation urbaine |
 
-Adjoint au chef du service habitat logement et construction durable
+B |
 
-|
+2 |
 
-A
+20 |
 
-|
+Secrétaire du service habitat, logement, construction durable |
 
-1
+C |
 
-|
+1 |
 
-33 points
-
-|
-
-Chef de l'unité rénovation urbaine
-
-|
-
-A
-
-|
-
-1
-
-|
-
-27 points
-
-|
-
-Chargé de projets au sein de l'unité rénovation urbaine
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de l'unité logement social public
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Secrétaire du service habitat logement et construction durable
-
-|
-
-C
-
-|
-
-1
-
-|
-
-13 points
-
-|
+13 |
 
 Direction départementale de l'équipement d'Ille-et-Vilaine
 
