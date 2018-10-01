@@ -3390,17 +3390,17 @@ Critique |
 
 5.1.3. ROULEMENTS DE ROUES
 
-5.1.3. a. 2. |
+5.1.3.a.2. |
 
-Jeu excessif |
+Jeu ou bruit excessif |
 
 [Loc.] |
 
 Majeure |
 
-5.1.3. a. 3. |
+5.1.3.a.3. |
 
-Jeu excessif : stabilité directionnelle perturbée ; risque de destruction |
+Jeu ou bruit excessif : stabilité directionnelle perturbée ; risque de destruction |
 
 [Loc.] |
 
@@ -3554,9 +3554,9 @@ Pneumatiques de structure différente |
 
 Majeure |
 
-5.2.3. d. 2. |
+5.2.3.d.2. |
 
-Pneumatique gravement endommagé ou entaillé |
+Pneumatique gravement endommagé, entaillé ou montage inadapté |
 
 [Loc.] |
 
@@ -3570,9 +3570,9 @@ Corde visible ou endommagée |
 
 Critique |
 
-5.2.3. e. 1. |
+5.2.3.e.1. |
 
-Usure anormale |
+Usure anormale ou présence d'un corps étranger |
 
 [Loc.] |
 
@@ -4868,9 +4868,41 @@ Majeure |
 
 .
 
-6.2.13. a. 2. |
+6.2.13.a.2. |
 
-Un ouvrant ne s'ouvre ou ne se ferme pas correctement |
+Un ouvrant est susceptible de s'ouvrir inopinément ou ne reste pas fermé
+
+|
+
+[Loc.] |
+
+Majeure |
+
+6.2.13.b.1. |
+
+Détérioration
+
+|
+
+[Loc.] |
+
+Mineure |
+
+6.2.13.b.2. |
+
+Détérioration susceptible de provoquer des blessures
+
+|
+
+[Loc.] |
+
+Majeure |
+
+6.2.13.c.2. |
+
+Ouvrant, charnière, serrure ou gâche manquants ou mal fixés
+
+|
 
 [Loc.] |
 
@@ -5010,11 +5042,11 @@ Le système signale une défaillance via l'interface électronique du véhicule 
 
 Majeure |
 
-7.1.5. c. 2. |
+7.1.5.c.2. |
 
 Coussin gonflable manifestement inopérant |
 
-[Loc.] |
+|
 
 Majeure |
 
@@ -5367,6 +5399,16 @@ Fuites susceptibles d'affecter les mesures des émissions |
 Majeure |
 
 8.2.22. OPACITÉ
+
+8.2.22.a.1. |
+
+Mesures d'opacité légèrement instables
+
+|
+
+|
+
+Mineure |
 
 8.2.22. a. 2. |
 

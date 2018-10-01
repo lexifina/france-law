@@ -370,6 +370,8 @@ Je m'engage :
 
 - (pour les centres non rattachés à un réseau), à signer avec l'organisme technique central, la convention d'assistance technique prévue au point d de l'article 29 de l'arrêté du 18 juin 1991 modifié relatif à la mise en place et à l'organisation du contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes ;
 
+- à informer dans les plus brefs délais le préfet de toute modification visée au paragraphe III du chapitre Ier de l'annexe VII de l'arrêté du 18 juin 1991 modifié relatif à la mise en place et à l'organisation du contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes ;
+
 - à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
 
 Je déclare (pour les centres non rattachés à un réseau) :
@@ -442,7 +444,7 @@ Si l'installation était déjà en activité avant sa demande d'agrément, indiq
 
 - le numéro et la date du dernier agrément obtenu :
 
-- le nombre de visites réalisées par an au cours des trois dernières années :
+- le nombre de contrôles réalisés par an au cours des trois dernières années :
 
 Observations éventuelles
 

@@ -12,7 +12,7 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 2. Qualification et suivi des contrôleurs
 
-2.1. L'exploitant des installations d'un centre de contrôle doit s'assurer que les contrôleurs rattachés à ce centre possèdent une connaissance satisfaisante des prescriptions relatives aux contrôles qu'ils effectuent, une pratique suffisante de ces contrôles sanctionnée par une des qualifications requises à l'annexe IV. Il doit également s'assurer que les contrôleurs maintiennent leur qualification, conformément aux prescriptions de l'annexe IV du présent arrêté.
+2.1. L'exploitant des installations d'un centre de contrôle doit s'assurer que les contrôleurs qui y exercent une activité possèdent une connaissance satisfaisante des prescriptions relatives aux contrôles qu'ils effectuent, une pratique suffisante de ces contrôles sanctionnée par une des qualifications requises à l'annexe IV. Il doit également s'assurer que les contrôleurs maintiennent leur qualification, conformément aux prescriptions de l'annexe IV du présent arrêté.
 
 2.2. A cet effet, chaque centre de contrôle rattaché à un réseau de contrôle agréé s'engage à détacher ses contrôleurs pour participer aux compléments de formation conformément, aux procédures définies par le réseau dont il dépend.
 
