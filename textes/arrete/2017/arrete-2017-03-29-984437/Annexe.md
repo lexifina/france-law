@@ -96,6 +96,8 @@ Directeur de l'école nationale supérieure de la police.
 
 Directeur de l'institut national de police scientifique.
 
+Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
+
 II.-Emplois de contrôleur général des services actifs de la police nationale
 
 1. Direction générale de la police nationale :
