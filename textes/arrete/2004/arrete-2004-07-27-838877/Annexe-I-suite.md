@@ -3106,7 +3106,7 @@ Majeure |
 
 Coussin gonflable manifestement inopérant |
 
-[Loc] |
+|
 
 Majeure |
 
@@ -3579,6 +3579,16 @@ Fuites susceptibles d'affecter les mesures des émissions |
 Majeure |
 
 8.2.22. OPACITÉ
+
+8.2.22. a. 1 |
+
+Mesures d'opacité légèrement instables
+
+|
+
+|
+
+Mineure |
 
 8.2.22. a. 2 |
 
