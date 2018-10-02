@@ -1,0 +1,95 @@
+# Agence nationale de la cohésion des territoires
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36915
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/cohesion_territoires_agence_nationale
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-002.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-10-02 : 1er dépôt d'une initiative. (PIONSNR5S319B0002)
+  - 2018-10-02 : Avis du Conseil d'Etat (AVCESNR5S319B0002)
+  - 2018-10-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-02 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-10-31 : Dépôt de rapport (RAPPSNR5S319B0098, PIONSNR5S319BTC0100)
+  - Discussion en séance publique
+    - 2018-11-08 : Discussion en séance publique
+    - 2018-11-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-11-09 : Dépôt d'une initiative en navette (PIONANR5L15B1393)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-09 : Renvoi en commission au fond
+      - 2018-11-14 : Nomination de rapporteur
+      - 2019-01-29 : Réunion de commission
+      - 2019-02-05 : Réunion de commission
+      - 2019-02-05 : Réunion de commission
+      - 2019-02-06 : Réunion de commission
+      - 2019-03-11 : Réunion de commission
+      - 2019-02-06 : Dépôt de rapport (RAPPANR5L15B1662, PIONANR5L15BTC1662)
+    - Travaux d'une commission saisie pour avis
+      - 2018-11-14 : Saisine pour avis d'une commission
+      - 2018-11-21 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-30 : Dépôt de rapport (AVISANR5L15B1623)
+    - Travaux d'une commission saisie pour avis
+      - 2018-11-20 : Saisine pour avis d'une commission
+      - 2018-11-21 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-30 : Dépôt de rapport (AVISANR5L15B1621)
+  - Discussion en séance publique
+    - 2019-03-11 : Discussion en séance publique
+    - 2019-03-11 : Discussion en séance publique
+    - 2019-03-12 : Discussion en séance publique
+    - 2019-03-12 : Discussion en séance publique
+    - 2019-03-12 : Décision
+- Commission Mixte Paritaire
+  - 2019-03-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-04-03 : Nomination de rapporteur
+    - 2019-04-03 : Dépôt du rapport d'une CMP (RAPPANR5L15B1836)
+    - 2019-04-03 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0433, PIONSNR5S319BTC0434)
+  - 2019-04-04 : Décision de la CMP
+- Nouvelle Lecture
+  - 2019-04-04 : Dépôt d'une initiative en navette (PIONANR5L15B1839)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-04 : Renvoi en commission au fond
+      - 2019-05-07 : Réunion de commission
+      - 2019-05-15 : Réunion de commission
+      - 2019-05-07 : Dépôt de rapport (RAPPANR5L15B1939, PIONANR5L15BTC1939)
+  - Discussion en séance publique
+    - 2019-05-15 : Discussion en séance publique
+    - 2019-05-15 : Discussion en séance publique
+    - 2019-05-21 : Discussion en séance publique
+    - 2019-05-21 : Décision
+- Nouvelle Lecture
+  - 2019-05-21 : Dépôt d'une initiative en navette (PIONSNR5S319B0518)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-21 : Renvoi en commission au fond
+      - 2019-06-12 : Dépôt de rapport (RAPPSNR5S319B0561, PIONSNR5S319BTC0562)
+  - Discussion en séance publique
+    - 2019-06-20 : Discussion en séance publique
+    - 2019-06-20 : Décision
+- Lecture définitive
+  - 2019-06-21 : Dépôt d'une initiative en navette (PIONANR5L15BTA0273)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-06-21 : Renvoi en commission au fond
+      - 2019-07-09 : Réunion de commission
+      - 2019-07-09 : Dépôt de rapport (RAPPANR5L15B2121)
+  - Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+- Promulgation de la loi
+  - 2019-07-22 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-03-04 : Rapport sur l'application des lois (RINFANR5L15B2733)
