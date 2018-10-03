@@ -1,0 +1,70 @@
+# Encadrement du démarchage téléphonique
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36876
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/encadrement_demarchage_telephonique_appels_frauduleux
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-183.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-10-03 : 1er dépôt d'une initiative. (PIONANR5L15B1284)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-03 : Renvoi en commission au fond
+      - 2018-11-14 : Nomination de rapporteur
+      - 2018-11-14 : Réunion de commission
+      - 2018-11-28 : Réunion de commission
+      - 2018-12-06 : Réunion de commission
+      - 2018-11-28 : Dépôt de rapport (RAPPANR5L15B1448, PIONANR5L15BTC1448)
+  - Discussion en séance publique
+    - 2018-12-06 : Discussion en séance publique
+    - 2018-12-06 : Discussion en séance publique
+    - 2018-12-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-12-06 : Dépôt d'une initiative en navette (PIONSNR5S319B0183)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-02-13 : Dépôt de rapport (RAPPSNR5S319B0310, PIONSNR5S319BTC0311)
+  - Discussion en séance publique
+    - 2019-02-21 : Discussion en séance publique
+    - 2019-02-21 : Décision
+- deuxième lecture
+  - 2019-02-21 : Dépôt d'une initiative en navette (PIONANR5L15B1724)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-21 : Renvoi en commission au fond
+      - 2020-01-15 : Réunion de commission
+      - 2020-01-22 : Réunion de commission
+      - 2020-01-30 : Réunion de commission
+      - 2020-01-22 : Dépôt de rapport (RAPPANR5L15B2616, PIONANR5L15BTC2616)
+  - Discussion en séance publique
+    - 2020-01-30 : Discussion en séance publique
+    - 2020-01-30 : Décision
+- deuxième lecture
+  - 2020-01-30 : Dépôt d'une initiative en navette (PIONSNR5S339B0290)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-30 : Renvoi en commission au fond
+      - 2020-05-27 : Dépôt de rapport (RAPPSNR5S339B0463, PIONSNR5S339BTC0464)
+  - Discussion en séance publique
+    - 2020-06-04 : Décision
+- Commission Mixte Paritaire
+  - 2020-06-04 : Dépôt d'un projet de loi (PIONANR5L15B3064)
+  - 2020-06-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-07-01 : Nomination de rapporteur
+    - 2020-07-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B3176, PIONANR5L15BTC3176)
+    - 2020-07-01 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0586, PIONSNR5S339BTC0587)
+  - Discussion en séance publique
+    - 2020-07-08 : Discussion en séance publique
+    - 2020-07-08 : Décision
+  - Discussion en séance publique
+    - 2020-07-15 : Discussion en séance publique
+    - 2020-07-15 : Décision
+  - 2020-07-09 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-07-24 : Promulgation d'une loi
