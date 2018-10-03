@@ -60,270 +60,120 @@ Il s'agit d'un parcours d'obstacles destiné à tester le potentiel physique du 
 
 Les conditions de déroulement et le barème de cette épreuve sont définis en annexe IV du présent arrêté.
 
-IV.-Programme des épreuves d'admissibilité et d'admission
+IV.-Programme des épreuves d'admissibilité et d'admission des questions destinées à apprécier les connaissances professionnelles du candidat.
 
-des questions destinées à apprécier les connaissances professionnelles du candidat
+a) Préparation militaire opérationnelle :
 
-a) Organisation et missions de la gendarmerie :
+1. Le gendarme, militaire de la gendarmerie et connaissance du milieu militaire :
 
-1. Présentation.-Historique :
+-Le gendarme, militaire de la gendarmerie ;
 
--l'organisation territoriale ;
+-La militarité et la gendarmerie ;
 
--l'action en uniforme et les domaines d'action : militaire, administratif et judiciaire.
+-Les récompenses et les sanctions.
 
-2. Les missions de défense :
+2. Sécurité et service de garnison :
 
--la définition des menaces ;
+-Sécurité de la caserne et service de garnison ;
 
--les forces armées ;
+-Sécurité des systèmes d'information.
 
--le rôle de la gendarmerie.
+b) Contact de proximité et numérique :
 
-3. La mission de renseignement :
+1. Formation à la proximité, au contact et à la victimologie :
 
--importance de cette mission ;
+-La France administrative ;
 
--rôle de la gendarmerie.
+-Les institutions françaises et européennes ;
 
-4. Les missions de secours :
+-Les autres acteurs de la sécurité publique ;
 
--plans de secours ;
+-Education civique et libertés fondamentales ;
 
--recherche des personnes disparues ;
+-Les libertés publiques ;
 
--rôle de la gendarmerie.
+-Principes de proximité et contact avec la population ;
 
-b) L'APJA " Militaire de la gendarmerie " :
+-L'accueil téléphonique ;
 
-1. L'éthique militaire :
+-La charte et la logique d'accueil ;
 
--comportement dans la vie professionnelle ;
+-L'accueil physique par le chargé d'accueil ;
 
--comportement dans la vie privée.
+-Le renseignement d'ordre public.
 
-2. La déontologie militaire :
+2. Connaissances de la gendarmerie :
 
--respect des libertés individuelles et de la dignité humaine ;
+-Organisation de la gendarmerie ;
 
--respect du secret professionnel et du devoir de réserve ;
+-Les missions de service public ;
 
--obligation de porter secours ;
+-La gendarmerie et le service public.
 
--état de prévarication.
+3. Déontologie et éthique militaire :
 
-3. Hiérarchie :
+-Le serment, la charte du gendarme et le code de déontologie ;
 
--présentation de la hiérarchie militaire ;
+-Sensibilisation aux réseaux sociaux ;
 
--connaissance des grades ;
+-La lutte contre les discriminations ;
 
--connaissance des principales appellations.
+-Le devoir d'agir et de réagir du Gendarme ;
 
-4. Attitude sous l'uniforme :
+-Le respect de la personne humaine.
 
--avoir une tenue réglementaire ;
+c) Sécurité du gendarme en intervention :
 
--se présenter ;
+1. Formation générale à l'intervention professionnelle :
 
--saluer.
+-Les fondements légaux de l'intervention-généralités
 
-c) Les techniques de l'intervention professionnelle :
+-La coercition
 
-1. Le cadre légal d'usage des armes :
+-L'usage des armes par les militaires de la gendarmerie.
 
--légitime défense ;
+2. Formation aux techniques d'intervention :
 
--zones de défense hautement sensible (ZDHS).
+-Les fondamentaux de la progression tactique ;
 
-2. Les actes élémentaires du militaire de la gendarmerie :
+-Les conduites sous escorte.
 
--progresser en sécurité individuellement, en binôme ou en trinôme ;
+3. Maîtrise sans arme de l'adversaire :
 
--aborder un objectif selon la dangerosité de la situation ;
+-Les fondamentaux de la maîtrise sans arme de l'adversaire ;
 
--la technique de pénétration et de progression dans un local ;
+-Réglementation du menottage et des fouilles.
 
--aborder un véhicule ;
+d) Sécurité des territoires et des mobilités :
 
--injonctions et réactions graduées ;
+1. L'agent de police judiciaire adjoint :
 
--rendre compte en cours de progression, en cours d'action et/ ou en fin de mission (réflexe du compte rendu) ;
+-Infraction, classification des infractions et circonstances aggravantes ;
 
--les fonctions de protection.-Contrôle.-Liaison entre équipiers.
+-Acteurs de la police judiciaire, les compétences juridictionnelles, la police judiciaire, les différents types d'enquête et les missions de l'APJA ;
 
-d) L'APJA dans le domaine de la police judiciaire.
+-Le droit d'arrestation et les mandats de justice ;
 
-1. Notions générales de droit pénal et de procédure pénale :
+-L'enquête de voisinage ;
 
--l'infraction.-Classification tripartite ;
+-L'alerte, le transport et le gel des lieux-le rôle de l'APJA lors du gel des lieux, de la garde-à-vue et de la perquisition ;
 
--la responsabilité pénale de l'auteur ;
+-La pré-plainte en ligne ;
 
--le cadre légal de la légitime défense ;
+-Le rapport d'infraction et la main-courante gendarmerie.
 
--les autorités de police judiciaire ;
+2. Agent de la sécurité des mobilités :
 
--les juridictions de jugement ;
+-Les missions et principes d'action de la police route, les postes de contrôle ;
 
--le cadre légal du contrôle d'identité ;
+-Les conduites addictives ;
 
--les compétences des APJA ;
+-L'accident.
 
--le cadre légal du droit d'arrestation ;
+3. Formation aux systèmes d'information et de communication :
 
--l'étude des infractions de voie publique les plus courantes.
+-La procédure radio et le réseau rubis.
 
-2. L'assistance de l'APJA au cours de l'enquête :
+NOTA :
 
--recueil et transmission de l'alerte en cas de crime ou délit ;
-
-3. Transport sur les lieux d'une probable scène de crime :
-
--le gel des lieux ;
-
--la participation aux investigations d'environnement ;
-
--la préservation des traces et indices.
-
-4. Aide matérielle aux enquêteurs dans leurs constatations et investigations :
-
--croquis, photos et scellés ;
-
--perquisitions et saisies.
-
-e) L'APJA dans le domaine de la police de la circulation :
-
-1. Lutte contre l'insécurité routière :
-
--fondements juridiques.
-
-2. Le contrôle d'un véhicule :
-
--pièces afférentes à la conduite et à la circulation ;
-
--équipement et signalisation.
-
-3. La constatation des contraventions au code de la route :
-
--la procédure de l'amende forfaitaire à paiement différé ;
-
--le rapport d'infraction ;
-
--la procédure d'immobilisation.
-
-4. L'alcool au volant :
-
--taux d'alcool et répression ;
-
--moyens de dépistage et de vérification.
-
-5. La vitesse :
-
--répression ;
-
--moyens de contrôle.
-
-6. Les postes de régulation, de surveillance et de contrôle :
-
--place et rôle de l'APJA dans ces dispositifs ;
-
--autoprotection, protection mutuelle ;
-
--utilisation des moyens de police de la route (eurolaser, éthylomètre, éthylotest).
-
-7. Intervention sur un accident de la route :
-
--recueil et transmission de l'alerte.
-
-8. Transport sur les lieux :
-
--l'utilisation des moyens de protection ;
-
--le secours aux victimes ;
-
--le réflexe du compte rendu et sa qualité ;
-
--la protection des biens.
-
-9. Aide matérielle aux enquêteurs dans leurs constatations, la recherche et la préservation des traces et indices :
-
--le croquis d'accident ;
-
--les prises de vues photographiques ;
-
--le relevé des renseignements sur les véhicules ;
-
--le relevé des renseignements sur les personnes impliquées ;
-
--les opérations de dépistage.
-
-f) Les techniques d'accueil et de communication :
-
-1. Règles élémentaires de communication :
-
--notions sur les relations humaines.-Présentation de la charte du gendarme.
-
-2. Les fondamentaux de la communication :
-
--écoute active.-Reformulation.-Questionnement.
-
-3. L'APJA chargé d'accueil :
-
--accueil des usagers et victimes ;
-
--réception et traitement des appels téléphoniques ;
-
--Gestion d'une situation conflictuelle.
-
-4. Cas pratiques :
-
--traitement d'un appel téléphonique.
-
-5. L'accueil d'un usager ou d'une victime :
-
--la courtoisie ;
-
--le réconfort (victime) ;
-
--La capacité d'écoute ;
-
--l'analyse et la gestion de premier niveau d'une situation d'urgence ;
-
--l'attitude face à un interlocuteur mal disposé ;
-
--le réflexe du compte rendu et sa qualité.
-
-6. L'APJA en service externe, les relations quotidiennes avec la population :
-
--la recherche du contact (être accessible) ;
-
--la mise en confiance (recueil du renseignement).
-
-7. Les services répressifs :
-
--l'attitude militaire ;
-
--savoir se présenter et exposer le motif de l'interpellation ;
-
--savoir ne pas se poser en moralisateur ;
-
--Savoir rester poli, affable, patient et calme en présence d'un contrevenant mal disposé ;
-
--avoir le souci de retenir le moins longtemps possible un contrevenant.
-
-g) Aspects socioculturels contemporains de la délinquance.
-
--les publics et quartiers sensibles ;
-
--les bandes ;
-
--les lieux à risque ;
-
--la délinquance des mineurs ;
-
--les violences intrafamiliales ;
-
--les stupéfiants ;
-
--l'immigration irrégulière.
+Conformément à l'article 1er de l’arrêté du 20 février 2017, ces dispositions entrent en vigueur le 3 octobre 2018.
