@@ -1,0 +1,51 @@
+# Mesures de préparation au retrait du Royaume-Uni de l'Union européenne
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36910
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/preparation_retrait_royaume-uni_ue
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-009.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-10-03 : 1er dépôt d'une initiative. (PRJLSNR5S319B0009)
+  - 2018-10-03 : Etude d'impact (ETDISNR5S319B0009)
+  - 2018-10-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-03 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2018-10-30 : Dépôt de rapport (RAPPSNR5S319B0092, PRJLSNR5S319BTC0093)
+  - Discussion en séance publique
+    - 2018-11-06 : Discussion en séance publique
+    - 2018-11-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-11-08 : Dépôt d'une initiative en navette (PRJLANR5L15B1388)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-08 : Renvoi en commission au fond
+      - 2018-11-20 : Nomination de rapporteur
+      - 2018-12-05 : Réunion de commission
+      - 2018-12-05 : Dépôt de rapport (RAPPANR5L15B1461, PRJLANR5L15BTC1461)
+  - Discussion en séance publique
+    - 2018-12-10 : Discussion en séance publique
+    - 2018-12-10 : Discussion en séance publique
+    - 2018-12-10 : Décision
+- Commission Mixte Paritaire
+  - 2018-12-11 : Dépôt d'un projet de loi (PRJLSNR5S319B0189)
+  - 2018-12-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2018-12-18 : Nomination de rapporteur
+    - 2018-12-18 : Dépôt du rapport d'une CMP (RAPPANR5L15B1508, PRJLANR5L15BTC1508)
+    - 2018-12-18 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0212, PRJLSNR5S319BTC0213)
+  - Discussion en séance publique
+    - 2019-01-16 : Discussion en séance publique
+    - 2019-01-16 : Discussion en séance publique
+    - 2019-01-16 : Décision
+  - Discussion en séance publique
+    - 2019-01-17 : Discussion en séance publique
+    - 2019-01-17 : Décision
+  - 2018-12-18 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-01-19 : Promulgation d'une loi
