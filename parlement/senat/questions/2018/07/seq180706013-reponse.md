@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706013
+
+- Question : [SEQ180706013](seq180706013.md) — Échanges de chemins ruraux
+
+## Réponse
+
+*Intérieur, JO du 2018-10-04, page 5035*
+
+L'article L. 161-10 du code rural et de la pêche maritime prévoit que, lorsqu'un chemin rural cesse d'être affecté à l'usage du public et en l'absence d'association syndicale constituée, la vente de ce chemin peut être décidée après enquête par le conseil municipal. Le Conseil d'Etat fait une lecture stricte de cet article et considère (Conseil d'Etat, 20 février 1981, n° 13526 et Conseil d'État, 17 novembre 2010, n° 338338) qu'il exclut toute possibilité d'échange. Selon le Conseil d'État, « le législateur n'a pas entendu ouvrir aux communes, pour l'aliénation des chemins ruraux, d'autres procédures que celle de la vente (…) ». L'impossibilité d'échanger des chemins ruraux implique donc, pour les communes, de procéder à la désaffectation du chemin, ce qui suppose de procéder à une enquête publique organisée selon les mêmes modalités qu'une enquête d'expropriation pour cause d'utilité publique, préalablement à l'aliénation du chemin. Dans le cadre de l'examen par le Parlement de la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages, le Gouvernement avait souhaité prendre en compte la nécessité de protéger les chemins ruraux. Ces dispositions visaient notamment à permettre le recensement par une commune des chemins ruraux situés sur son territoire et la possibilité d'échanger des chemins ruraux. Le Conseil constitutionnel a censuré ces dispositions dans sa décision n° 2016-737 DC du 4 août 2016, au motif qu'elles étaient sans lien avec l'objet initial du projet de loi. Compte tenu du calendrier parlementaire et des textes actuellement en discussion, il n'est pas envisagé de réintroduire, dans l'immédiat, ces dispositions.
