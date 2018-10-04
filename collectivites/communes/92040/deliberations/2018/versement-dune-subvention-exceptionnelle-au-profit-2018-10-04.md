@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Versement d’une subvention exceptionnelle au profit des populations sinistrées d’Indonésie.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-10-04
+- Matière : RELATIONS INTERNATIONALES ET TOURISME
+- Objet : Versement d’une subvention exceptionnelle au profit des populations sinistrées d’Indonésie.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MjUsInB1ciI6ImJsb2JfaWQifX0=--8ba0692179ee0acf150982d6a221ab79e54c5e13/100418_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
