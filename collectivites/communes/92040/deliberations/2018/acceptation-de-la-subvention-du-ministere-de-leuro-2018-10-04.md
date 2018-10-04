@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Acceptation de la subvention du Ministère de l’Europe et des Affaires Etrangères au titre du programme de volontariat franco-allemand avec Weiden
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-10-04
+- Matière : RELATIONS INTERNATIONALES ET TOURISME
+- Objet : Acceptation de la subvention du Ministère de l’Europe et des Affaires Etrangères au titre du programme de volontariat franco-allemand avec Weiden
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NjEsInB1ciI6ImJsb2JfaWQifX0=--5d8d924b85dd8674388b8aea40ee9e0556a073e5/100418_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
