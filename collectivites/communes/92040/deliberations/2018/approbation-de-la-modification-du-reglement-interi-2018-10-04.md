@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification du Règlement intérieur de l’École d’Art d’Issy-les-Moulineaux « Les ARCADES »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-10-04
+- Matière : CULTURE
+- Objet : Approbation de la modification du Règlement intérieur de l’École d’Art d’Issy-les-Moulineaux « Les ARCADES »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NDksInB1ciI6ImJsb2JfaWQifX0=--60801e4e2c47f8f41234d29f486325dec97e18e3/100418_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
