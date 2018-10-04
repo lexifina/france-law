@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du rapport d’activité de la SEMADS pour l’exercice 2017
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-10-04
+- Matière : FINANCES
+- Objet : Approbation du rapport d’activité de la SEMADS pour l’exercice 2017
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NDgsInB1ciI6ImJsb2JfaWQifX0=--44bac74aa482fe731ae8247786302983e34e0692/100418_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
