@@ -10,7 +10,7 @@ CODE
 
 RACE |
 
-RACES CONCERNÉES PAR L'ARTICLE 13 DU PRÉSENT ARRÊTÉ |
+RACES CONCERNÉES PAR L'ARTICLE 13 DU PRESENT ARRETE |
 
 PIRENAICA |
 
@@ -306,6 +306,12 @@ SAOSNOISE |
 
 X |
 
+ZÉBU MAHORAIS |
+
+90 |
+
+|
+
 CANADIENNE |
 
 92 |
@@ -326,10 +332,6 @@ X |
 
 II. - RACES (OU ESPÈCES) BOVINES NON RECONNUES ET CROISEMENTS
 
-LIBELLÉ |
-
-CODE RACE |
-
 BISON |
 
 10 |
@@ -341,6 +343,10 @@ AYRSHIRE |
 BUFFLE |
 
 20 |
+
+STABILISER |
+
+28 |
 
 CHIANINA |
 
@@ -358,7 +364,7 @@ DAIRY SHORTHORN |
 
 42 |
 
-AUTRES RACES TRAITES D'ORIGINE ÉTRANGÈRES |
+Autres races traites d'origine étrangères |
 
 44 |
 
@@ -366,7 +372,7 @@ SOUTH DEVON |
 
 45 |
 
-AUTRES RACES ALLAITANTES D'ORIGINE ÉTRANGÈRES |
+Autres races allaitantes d'origine étrangères |
 
 48 |
 
@@ -386,7 +392,7 @@ N'DAMA |
 
 60 |
 
-PROGRAMME FÉDÉRATION EUROPÉENNE PIE ROUGE |
+Programme Fédération Européenne Pie rouge |
 
 67 |
 
@@ -406,6 +412,6 @@ GELBVIEH |
 
 78 |
 
-PROGRAMME RED HOLSTEIN X ABONDANCE |
+Programme RED HOLSTEIN x ABONDANCE |
 
 91 |
