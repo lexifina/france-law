@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404657
+
+- Question : [SEQ180404657](seq180404657.md) — Sécurisation juridique de la profession réglementée de courtier en vins et spiritueux
+
+## Réponse
+
+*Économie et finances, JO du 2018-10-04, page 5023*
+
+L'ordonnance portant simplification du 17 décembre 2015 et la loi relative à la modernisation de la vie économique du 9 décembre 2016 ont révisé les règles applicables à l'activité de courtiers en vins et spiritueux. En effet, un amendement adopté dans le cadre du projet de loi relatif à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique a partiellement réécrit l'article 3 de l'ordonnance du 17 décembre 2015 et repris la précédente rédaction de l'article 2 de la loi n° 49-1652 du 31 décembre 1949 réglementant la profession de courtiers en vins dits « courtiers de campagne ». L'obligation de « justifier de connaissances et d'une expérience professionnelle, dans des conditions définies par décret », c'est-à-dire la formation et l'examen préalable, ont été rétablies. Une expertise juridique effectuée par la direction des affaires juridiques du ministère de l'économie et des finances fait apparaître que les dispositions des décrets du 27 mars 1951 modifié et du 19 février 2007 relatives à la justification de connaissances et d'une expérience professionnelle peuvent être regardées comme étant toujours en vigueur. Il en va de même pour l'article 1 du décret du 27 mars 1951 concernant les incompatibilités liées à la profession. Seuls le décret en Conseil d'État concernant la déclaration et l'inscription des courtiers sur le registre national ainsi que l'arrêté fixant le modèle de déclaration d'activités devront donc être rédigés. A cet égard, une concertation a été engagée avec les représentants de la profession dans l'objectif de publier ces textes à l'automne.
