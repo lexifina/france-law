@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605478
+
+- Question : [SEQ180605478](seq180605478.md) — Opération de nommage réalisée par Paris La Défense pour la U-Arena de Nanterre
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-10-04, page 5017*
+
+L'établissement public Paris La Défense, créé le 1er janvier 2018 à l'issue de la fusion entre l'établissement public d'aménagement de La Défense Seine-Arche et l'établissement public de gestion de La Défense, est un établissement public local. Dès lors, les interventions de l'État sur les décisions prises par cet établissement portent sur le contrôle de légalité et le contrôle budgétaire, assurés en l'espèce par le préfet de la région Île-de-France. Dans ce cadre, le préfet de région a examiné la légalité de la convention de nommage, conclue entre cet établissement et la société gestionnaire de l'enceinte jusqu'alors dénommée « U Arena » et ayant pour objet de substituer à ce nom celui de « Paris La Défense Arena » et il en est ressorti qu'aucun motif d'illégalité manifeste n'est apparu, qui serait de nature à justifier un déféré préfectoral. En effet, concernant la spécialité de l'établissement, celui-ci est resté dans son champ de compétences en concluant cette convention. Si la mission qui lui est dévolue en matière de promotion porte sur le seul territoire couvert par l'opération d'intérêt national de La Défense, il peut en effet tout à fait exercer la compétence afférente en dehors de ce territoire pour développer l'attractivité du site, à l'instar de ce que peuvent faire nombre d'établissements publics. Concernant la conclusion d'un marché public, il est patent qu'en l'espèce, seule la société gestionnaire susmentionnée pouvait fournir ce service, de telle sorte que l'établissement a pu régulièrement passer, en vertu de l'article 30 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics, un tel marché public sans publicité ou mise en concurrence préalables.
