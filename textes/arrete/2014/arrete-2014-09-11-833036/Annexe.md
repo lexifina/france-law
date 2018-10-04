@@ -160,6 +160,14 @@ c) Sont confirmés dans l'emploi des ouvriers d'Etat régis par le décret du 8 
 
 Une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne est délivrée aux ouvriers d'Etat des familles professionnelles électrotechniciens et climaticiens qui ont fait l'objet d'une évaluation de compétences favorable par le pôle de compétences électrotechnique ou climatisation. Si nécessaire, un complément de formation sera défini sur la base de la note de service DSNA "Cursus générique de formation".
 
+2.2.3. Agents contractuels
+
+Une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne est délivrée aux agents contractuels régis par le décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents contractuels de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat qui :
+
+a) Ont réussi un examen organisé par le secrétariat général et agréé par l'Autorité nationale de surveillance pour la délivrance des qualifications de base électrotechnique ou climatisation ; et
+
+b) Ont suivi une formation pour la délivrance des qualifications de domaine électrotechnique ou climatisation, sur la base de la note de service DSNA Cursus générique de formation.
+
 Titre III
 
 AGRÉMENT DES FORMATIONS ET DES EXAMENS
