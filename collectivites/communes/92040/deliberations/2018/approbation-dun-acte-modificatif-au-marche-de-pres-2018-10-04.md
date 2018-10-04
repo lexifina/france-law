@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un acte modificatif au marché de prestations de contrôle et de sécurité des aires de jeux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-10-04
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation d’un acte modificatif au marché de prestations de contrôle et de sécurité des aires de jeux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NTMsInB1ciI6ImJsb2JfaWQifX0=--659c326cde71799cfb3e71aadf58dd2603f43fc3/100418_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
