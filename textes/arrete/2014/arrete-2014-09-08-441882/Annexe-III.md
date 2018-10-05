@@ -45,3 +45,11 @@ Article 4
 Conditions particulières de délivrance et de validité
 
 L'AEP doit mentionner la ou les catégories prévues à l'article 2 auxquelles le navire appartient.
+
+Article 5
+
+Autorité de délivrance
+
+1. La délivrance de l'AEP senne tournante à un couple armateur-navire peut être déléguée à l'organisation de producteurs à laquelle cet armateur adhère. L'AEP senne tournante est alors délivrée au couple armateur-navire éligible à cette AEP par l'organisation de producteurs à laquelle cet armateur adhère.
+
+2. Pour les armateurs n'adhérant pas à une organisation de producteurs ou pour les armateurs adhérant à une organisation de producteurs à laquelle la délivrance de l'AEP senne tournante n'a pas été déléguée, l'AEP est délivrée par le préfet de région dans les conditions fixées par l'article 3 du présent arrêté.
