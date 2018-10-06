@@ -1,4 +1,8 @@
-# Article Annexe 1
+# Article Annexe I
+
+ANNEXES
+
+ANNEXE 1
 
 Académie agriculture de France
 
@@ -44,15 +48,17 @@ Agence de l'outre-mer pour la mobilité
 
 Agence de services et de paiement
 
-Agence des aires marines protégées et aux parcs naturels marins
-
 Agence du service civique
 
 Agence française de lutte contre le dopage
 
+Agence française pour la biodiversité
+
 Agence nationale de la recherche
 
 Agence nationale de l'habitat
+
+Agence nationale de santé publique
 
 Agence nationale de sécurité du médicament et des produits de santé
 
@@ -64,8 +70,6 @@ Agence nationale des fréquences
 
 Agence nationale des titres sécurisés
 
-Agence nationale pour la cohésion sociale et l'égalité des chances
-
 Agence nationale pour la rénovation urbaine
 
 Agence nationale pour l'amélioration des conditions de travail
@@ -76,57 +80,39 @@ Agence pour l'enseignement français à l'étranger
 
 Agence publique pour l'immobilier de la justice
 
-Agence Régionale de Santé Alsace
-
-Agence Régionale de Santé Aquitaine
-
-Agence régionale de santé Auvergne
-
-Agence régionale de santé Basse-Normandie
-
-Agence régionale de santé Bourgogne
+Agence régionale de santé Auvergne et Rhône-Alpes
 
 Agence régionale de santé Bretagne
 
 Agence régionale de santé Centre
 
-Agence régionale de santé Champagne-Ardenne
-
 Agence régionale de santé Corse
 
-Agence régionale de santé Franche-Comté
+Agence régionale de santé d'Alsace Champagne Ardennes et Lorraine
+
+Agence régionale de santé d'Aquitaine Limousin et Poitou-Charentes
+
+Agence régionale de santé de Bourgogne et Franche-Comté
+
+Agence régionale de santé de Languedoc-Roussillon et Midi-Pyrénées
+
+Agence régionale de santé de Normandie
 
 Agence régionale de santé Guadeloupe
 
 Agence régionale de santé Guyane
 
-Agence régionale de santé Haute-Normandie
-
-Agence régionale de santé Ile-de-France
-
-Agence régionale de santé Languedoc-Roussillon
-
-Agence régionale de santé Limousin
-
-Agence régionale de santé Lorraine
+Agence régionale de Santé Ile-de-France
 
 Agence régionale de santé Martinique
 
-Agence régionale de santé Midi-Pyrénées
-
-Agence régionale de santé Nord-Pas-de-Calais
+Agence régionale de Santé Nord Pas-de-Calais Picardie
 
 Agence régionale de santé océan Indien
 
 Agence régionale de santé Pays de la Loire
 
-Agence régionale de santé Picardie
-
-Agence régionale de santé Poitou-Charente
-
 Agence régionale de santé Provence-Alpes-Côte d'Azur
-
-Agence régionale de santé Rhône-Alpes
 
 Agrosup Dijon (Institut national supérieur des sciences agronomiques de l'alimentation et de l'environnement)
 
@@ -145,8 +131,6 @@ Association pour la gérance des écoles de formation maritime et aquacole
 Association pour la gestion du régime d'assurance des créances des salariés
 
 Association pour le soutien du théâtre privé
-
-Atelier technique des espaces naturels
 
 Autorité de régulation des activités ferroviaires
 
@@ -178,7 +162,7 @@ Centre de ressources, d'expertise et de performance sportives d'Antilles-Guyane
 
 Centre de ressources, d'expertise et de performance sportives de Dijon
 
-Centre de ressources, d'expertise et de performance sportives de la Réunion
+Centre de ressources, d'expertise et de performance sportives de La Réunion
 
 Centre de ressources, d'expertise et de performance sportives de Montpellier
 
@@ -314,8 +298,6 @@ Centre technique du livre de l'enseignement supérieur
 
 Centre universitaire de formation et de recherche de Mayotte
 
-Centre universitaire de formation et de recherche Jean-François Champollion
-
 Chambre nationale de la batellerie artisanale
 
 Chancellerie des universités d'Aix-Marseille
@@ -384,6 +366,8 @@ Cinémathèque française
 
 Cité de la musique - Philharmonie de Paris
 
+Cité de l'architecture et du Patrimoine
+
 Cité nationale de l'histoire de l'immigration
 
 Collège de France
@@ -406,6 +390,8 @@ Comité de protection des personnes Ile-de-France III
 
 Comité de protection des personnes Ile-de-France IV
 
+Comité de protection des personnes Ile-de-France IX
+
 Comité de protection des personnes Ile-de-France V
 
 Comité de protection des personnes Ile-de-France VI
@@ -414,13 +400,11 @@ Comité de protection des personnes Ile-de-France VII
 
 Comité de protection des personnes Ile-de-France VIII
 
-Comité de protection des personnes Ile-de-France IX
-
 Comité de protection des personnes Ile-de-France X
 
 Comité de protection des personnes Ile-de-France XI
 
-Comité de protection des personnes Nord-ouest I
+Comité de protection des personnes Nord-Ouest I
 
 Comité de protection des personnes Nord-Ouest II
 
@@ -462,13 +446,13 @@ Comité de protection des personnes Sud-Méditerranée IV
 
 Comité de protection des personnes Sud-Méditerranée V
 
-Comité de protection des personnes Sud-Ouest et outre-mer I
+Comité de protection des personnes Sud-Ouest et Outremer I
 
-Comité de protection des personnes Sud-Ouest et outre-mer II
+Comité de protection des personnes Sud-Ouest et Outremer II
 
-Comité de protection des personnes Sud-Ouest et outre-mer III
+Comité de protection des personnes Sud-Ouest et Outremer III
 
-Comité de protection des personnes Sud-Ouest et outre-mer IV
+Comité de protection des personnes Sud-Ouest et Outremer IV
 
 Comité professionnel des stocks stratégiques pétroliers
 
@@ -480,23 +464,17 @@ COMUE de Bourgogne - Franche-Comté
 
 COMUE HESAM Université
 
-COMUE Institut polytechnique du Grand Paris
-
 COMUE Languedoc-Roussillon Universités
 
 COMUE Lille Nord de France
 
 COMUE Normandie Université
 
-COMUE Sorbonne Universités
-
 COMUE Université Bretagne Loire
 
 COMUE Université confédérale Léonard de Vinci
 
 COMUE Université Côte d'Azur
-
-COMUE Université de Champagne
 
 COMUE Université de Lyon
 
@@ -518,7 +496,9 @@ COMUE Université Sorbonne Paris Cité
 
 Confédération nationale du mouvement pour le planning familial
 
-Ordre de la Libération (Conseil national des communes " Compagnon de la Libération ")
+Conseil national des communes Compagnon de la Libération
+
+Conseil supérieur de l'Audiovisuel
 
 Conservatoire de l'espace littoral et des rivages lacustres
 
@@ -556,14 +536,6 @@ Ecole des hautes études en santé publique
 
 Ecole des hautes études en sciences sociales
 
-Ecole d'infirmières de Loos
-
-Ecole d'infirmières du Sud-Est de Lyon
-
-Ecole d'infirmières et d'assistantes de service social de Lyon (école Rockefeller)
-
-Ecole d'infirmières Florence Nightingale
-
 Ecole d'ingénieurs SIGMA Clermont
 
 Ecole française d'Extrême-Orient
@@ -580,7 +552,7 @@ Ecole nationale de la magistrature
 
 Ecole nationale de radiotechnique et d'électricité appliquée de Clichy-la-Garenne
 
-Ecole nationale des chartes
+Ecole nationale des Chartes
 
 Ecole nationale des ponts et chaussées
 
@@ -722,29 +694,27 @@ Ensemble orchestral de Paris
 
 EPCS Campus Condorcet
 
-EPCS Consortium national pour l'agriculture, l'alimentation, la santé animale et l'environnement
-
 Etablissement de communication et de production audiovisuelle de la Défense
-
-Etablissement de préparation et de réponse aux urgences sanitaires
 
 Etablissement public Cité de la céramique - Sèvres & Limoges
 
 Etablissement public d'aménagement universitaire de la région Ile-de-France
 
-Etablissement public de financement et de restructuration
-
-Etablissement public de la Cité de l'architecture et du patrimoine
-
 Etablissement public de sécurité ferroviaire
 
 Etablissement public d'insertion de la défense
 
+Etablissement public du château de Fontainebleau
+
 Etablissement public du musée des arts asiatiques Guimet
+
+Etablissement public du musée des civilisations de l'Europe et de la méditerranée
 
 Etablissement public du musée du Louvre
 
 Etablissement public du musée du quai Branly
+
+Etablissement public du musée national Picasso
 
 Etablissement public du palais de justice de Paris
 
@@ -760,25 +730,23 @@ Fondation maison des sciences de l'homme
 
 Fonds de coopération de la jeunesse et de l'éducation populaire
 
+Fonds de dotation du Musée du Louvre
+
 Fonds de financement de la couverture maladie universelle
 
 Fonds de garantie des assurances obligatoires de dommage
 
 Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
 
-Fonds de solidarité
-
 Fonds de solidarité pour le développement
 
 Fonds national de promotion et de communication de l'artisanat
 
-Fonds pour l'insertion des personnes handicapées dans la Fonction Publique
-
-Fonds spécial d'invalidité
+Fonds pour l'insertion des personnes handicapées dans la fonction publique
 
 Fonds stratégique d'investissement
 
-France AgriMer
+France Agrimer
 
 GIP académique : éducation et formation tout au long de la vie
 
@@ -790,7 +758,7 @@ GIP ACOR FCIP Académie de Corse
 
 GIP Agence de mutualisation des universités et des étab. publics d'enseignement sup. et de recherche
 
-GIP Agence europe éducation formation France
+GIP Agence Europe Education Formation France
 
 GIP Agence française de l'adoption
 
@@ -798,9 +766,9 @@ GIP Agence française pour le développement et la promotion de l'agriculture bi
 
 GIP Agence nationale d'appui à la performance des établissements de santé et médico-sociaux
 
-GIP AGEVIF formation Agence de validation, d'insertion, de formation - Poitiers
+GIP AGEVIF formation « Agence de validation, d'insertion, de formation » - Poitiers
 
-Gip ASIP Santé (Agence nationale des systèmes d'information partagés de santé)
+GIP ASIP Santé (Agence nationale des systèmes d'information partagés de santé)
 
 GIP Bibliothèque universitaire des langues et civilisations
 
@@ -818,6 +786,8 @@ GIP Enfance maltraitée
 
 GIP Formation continue et insertion professionnelle - Alsace
 
+GIP Formation continue et insertion professionnelle d'Aquitaine
+
 GIP Formation continue et insertion professionnelle de Basse-Normandie
 
 GIP Formation continue et insertion professionnelle de Bourgogne
@@ -826,21 +796,21 @@ GIP Formation continue et insertion professionnelle de Franche-Comté
 
 GIP Formation continue et insertion professionnelle de la Guyane
 
-GIP Formation continue et insertion professionnelle de l'académie de Créteil
+GIP Formation continue et insertion professionnelle de l'Académie de Créteil
 
-GIP Formation continue et insertion professionnelle de l'académie de la Martinique
+GIP Formation continue et insertion professionnelle de l'Académie de la Martinique
 
 GIP Formation continue et insertion professionnelle de l'académie de La Réunion
 
-GIP Formation continue et insertion professionnelle de l'académie de Limoges
+GIP Formation continue et insertion professionnelle de l'Académie de Limoges
 
-GIP Formation continue et insertion professionnelle de l'académie de Nice
+GIP Formation continue et insertion professionnelle de l'Académie de Nice
 
-GIP Formation continue et insertion professionnelle de l'académie de Rouen
+GIP Formation continue et insertion professionnelle de l'Académie de Rouen
 
 GIP Formation continue et insertion professionnelle de l'académie de Versailles
 
-GIP Formation continue et Insertion professionnelle de Paris
+GIP Formation continue et insertion professionnelle de Paris
 
 GIP Formation continue et insertion professionnelle EXPERIENCE
 
@@ -864,7 +834,21 @@ GIP Université numérique francophone des sciences de la santé et du sport
 
 Grande Chancellerie de la Légion d'honneur
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Corse-du-Sud
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Dordogne
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Haute-Saône
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Haute-Savoie
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de Haute-Loire
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Charente
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Charente-Maritime
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Corrèze
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Creuse
 
@@ -872,55 +856,141 @@ Groupement d'intérêt public Conseil départemental de l'accès au droit de la 
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Guyane
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Haute-Corse
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Haute-Garonne
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Loire
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Loire-Atlantique
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Martinique
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Meuse
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Nièvre
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de La Réunion
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Sarthe
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Savoie
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Somme
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Vienne
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Ain
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Aisne
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Allier
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Ariège
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Aube
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Aude
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Eure
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Hérault
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Ille-et-Vilaine
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Indre
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Oise
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Orne
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Maine-et-Loire
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Mayenne
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit de Mayotte
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Meurthe-et-Moselle
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Moselle
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de Paris
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de Saône-et-Loire
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Seine-Saint-Denis
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Vendée
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit des Alpes-de-Haute-Provence
 
-Groupement d'intérêt public Conseil départemental de l'accès au droit des Côtes d'Armor
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Alpes-Maritimes
 
-Groupement d'intérêt public Conseil départemental de l'accès au droit des Landes
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Bouches-du-Rhône
+
+Groupement d'intérêt public Conseil Départemental de l'accès au droit des Côtes-d'Armor
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Deux-Sèvres
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Hautes-Pyrénées
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Hautes-Alpes
+
+Groupement d'intérêt public Conseil Départemental de l'Accès au Droit des Landes
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Pyrénées-Orientales
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit des Pyrénées-Atlantiques
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit des Yvelines
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit d'Indre-et-Loire
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Bas-Rhin
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Calvados
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Cantal
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Cher
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Doubs
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Finistère
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Gard
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Gers
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Jura
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Loir-et-Cher
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Loiret
 
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Lot-et-Garonne
+
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Morbihan
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Nord
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Pas-de-Calais
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Puy-de-Dôme
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Tarn
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de Tarn-et-Garonne
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Territoire de Belfort
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Val-d'Oise
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Val-de-Marne
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit du Var
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit du Vaucluse
 
 Groupement d'intérêt public d'Onairac : Terre de vie, terres de vignes
 
@@ -938,17 +1008,17 @@ Groupement d'intérêt public Réseau Addictions Guadeloupe
 
 Groupement pour l'évaluation des mesures et composants en eau et assainissement
 
-Haut Conseil du Commissariat aux comptes
+Haut Conseil du commissariat aux Comptes
 
-Haute Autorité de Santé
+Haute Autorité de santé
 
 IFP Energies nouvelles
 
+Institut agronomique, vétérinaire et forestier de France
+
 Institut de formation en soins infirmiers de Marseille
 
-Institut de formation en soins infirmiers de Nîmes
-
-Institut de formation en soins infirmiers Saint-Vincent
+Institut de formation en soins infirmiers St Vincent
 
 Institut de France et fondations
 
@@ -960,9 +1030,7 @@ Institut de radioprotection et de sûreté nucléaire
 
 Institut de recherche pour le développement
 
-Institut de veille sanitaire
-
-Institut des hautes études de défense nationale
+Institut des hautes études de Défense nationale
 
 Institut des hautes études pour la science et la technologie
 
@@ -1012,8 +1080,6 @@ Institut national de l'environnement industriel et des risques
 
 Institut national de police scientifique
 
-Institut national de prévention et d'éducation pour la santé
-
 Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
 
 Institut national de recherches en informatique et automatique
@@ -1052,13 +1118,15 @@ Institut national du sport, de l'expertise et de la performance
 
 Institut national du travail, de l'emploi et de la formation professionnelle
 
-institut national polytechnique de Toulouse
+Institut national polytechnique de Toulouse
 
 Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
 
 Institut national supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (AGROCAMPUS OUEST)
 
-institut polytechnique de Bordeaux
+Institut national universitaire Jean-François Champollion
+
+Institut polytechnique de Bordeaux
 
 Institut polytechnique de Grenoble
 
@@ -1092,17 +1160,9 @@ Musée de l'air et de l'espace
 
 Musée de l'armée
 
-Musée des civilisations de l'Europe et de la Méditerranée
-
-Musée Fontainebleau
-
-Musée Henner
-
-Musée Moreau
+Musée Jean-Jacques Henner - Gustave Moreau
 
 Musée national du sport
-
-Musée Picasso
 
 Muséum national d'histoire naturelle
 
@@ -1116,11 +1176,9 @@ Office de développement de l'économie agricole d'outre-mer
 
 Office français de l'immigration et de l'intégration
 
-Office Français de protection des réfugiés et apatrides
+Office français de protection des réfugiés et apatrides
 
 Office national de la chasse et de la faune sauvage
-
-Office national de l'eau et des milieux aquatiques
 
 Office national des anciens combattants
 
@@ -1146,7 +1204,7 @@ Parc amazonien de Guyane
 
 Parc national de la Guadeloupe
 
-Parc national de la Réunion
+Parc national de La Réunion
 
 Parc national de la Vanoise
 
@@ -1162,7 +1220,7 @@ Parc national des Pyrénées
 
 Parc national du Mercantour
 
-Parcs nationaux de France
+Parcs naturels marins
 
 Service hydrographique et océanographique de la marine
 
@@ -1170,7 +1228,7 @@ Société anonyme de gestion de stocks de sécurité
 
 Société de gestion de garantie et de participation
 
-Société de gestion du Fonds de garantie de l'accession sociale à la propriété
+Société de gestion des financements et de la garantie de l'accession sociale à la propriété
 
 Syndicat mixte de l'orchestre philarmonique des Pays de Loire
 
@@ -1184,13 +1242,17 @@ Théâtre national de l'Opéra-comique
 
 Théâtre national de Strasbourg
 
+Tunnel euro alpin Lyon Turin SAS
+
 Unifrance films
 
 Union centrale des arts décoratifs
 
+Université « Sorbonne Université »
+
 Université Aix-Marseille
 
-Université Bordeaux-III
+Université Bordeaux III
 
 Université Clermont Auvergne
 
@@ -1212,7 +1274,7 @@ Université de Bretagne Sud
 
 Université de Caen
 
-Université de Cergy Pontoise
+Université de Cergy-Pontoise
 
 Université de Chambéry
 
@@ -1221,6 +1283,8 @@ Université de Corse
 Université de la Guyane
 
 Université de La Rochelle
+
+Université de Lille
 
 Université de Lille Artois
 
@@ -1256,7 +1320,7 @@ Université de Saint-Etienne Jean Monnet
 
 Université de Strasbourg
 
-Université de technologie de Belfort-Montbéliard
+Université de technologie de Belfort Montbéliard
 
 Université de technologie de Compiègne
 
@@ -1282,57 +1346,47 @@ Université du Mans
 
 Université Grenoble Alpes
 
-Université Lille-I sciences et technologies
-
-Université Lille-II droit et santé
-
-Université Lille-III sciences humaines lettres et arts
-
 Université Lille littoral
 
-Université Lyon-I
+Université Lyon I
 
-Université Lyon-II
+Université Lyon II
 
-Université Lyon-III
+Université Lyon III
 
-Université Montpellier-III
+Université Montpellier III
 
-Université Paris-I - Panthéon Sorbonne
+Université Paris I Panthéon Sorbonne
 
-Université Paris-II - Panthéon Assas
+Université Paris II Panthéon Assas
 
-Université Paris-III la Sorbonne Nouvelle
+Université Paris III la Sorbonne Nouvelle
 
-Université Paris-IV Sorbonne
+Université Paris IX
 
-Université Paris-V René Descartes
+Université Paris V René Descartes
 
-Université Paris-VI Pierre et Marie Curie
+Université Paris VII Paris Diderot
 
-Université Paris-VII Paris Diderot
+Université Paris VIII
 
-Université Paris-VIII
+Université Paris X Nanterre
 
-Université Paris-IX
+Université Paris XI Paris Sud
 
-Université Paris-X Nanterre
+Université Paris XII Val de Marne
 
-Université Paris-XI Paris Sud
+Université Paris XIII Paris Nord
 
-Université Paris-XII Val-de-Marne
+Université Rennes I
 
-Université Paris-XIII Paris Nord
+Université Rennes II Haute-Bretagne
 
-Université Rennes-I
+Université Toulouse I des sciences sociales
 
-Université Rennes-II Haute-Bretagne
+Université Toulouse II le Mirail
 
-Université Toulouse-I des sciences sociales
-
-Université Toulouse-II le Mirail
-
-Université Toulouse-III Paul Sabatier
+Université Toulouse III Paul Sabatier
 
 Villa Arson
 
