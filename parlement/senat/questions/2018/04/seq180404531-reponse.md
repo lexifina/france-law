@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404531
+
+- Question : [SEQ180404531](seq180404531.md) — Gestion des ressources humaines du département de Mayotte
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-10-11, page 5148*
+
+La récente mission de contrôle de gestion opérée par la chambre régionale des comptes (CRC) de la Réunion et Mayotte en application des dispositions de l'article L. 211-8 du code des juridictions financières a pointé de nombreuses irrégularités en matière de gestion des agents du département de Mayotte. Dans le cadre du rapport publié le 11 décembre 2017, la CRC a invité le conseil départemental à se conformer au droit. Afin de répondre aux préoccupations de la CRC, le préfet et le comptable public local pourront, au titre de leur rôle de conseil et de contrôle de légalité, utilement sensibiliser les ordonnateurs sur les irrégularités constatées et le Gouvernement mobilisera l'ensemble de ses services concernés, afin de mettre un terme à ces pratiques. Toutefois, ce contrôle ne porte que sur la conformité de ces actes avec les dispositions législatives et réglementaires en vigueur et les collectivités territoriales restent, dans ce cadre, libres de définir leurs pratiques de gestion. À ce titre, le Conseil constitutionnel considère que la liberté de gestion des personnels est une composante de la libre administration (Cons. Const. 20 janvier 1984, n° 83-168 DC). Compte tenu des difficultés identifiées, le Gouvernement étudie la possibilité, dans le cadre du Plan d'action pour Mayotte, de mettre en place une mission d'appui en ingénierie au service des collectivités mahoraises. Ces réflexions rejoignent en partie la recommandation selon laquelle les partenaires institutionnels doivent amplifier leur synergie afin d'assurer un contrôle externe plus efficace permettant d'endiguer des pratiques préjudiciables pour les finances publiques.
