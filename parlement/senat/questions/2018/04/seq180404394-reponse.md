@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404394
+
+- Question : [SEQ180404394](seq180404394.md) — Salariés des établissements nationaux et labellisés
+
+## Réponse
+
+*Culture, JO du 2018-10-11, page 5175*
+
+Les établissements nationaux et les structures labellisées portent une responsabilité forte en soutenant la création, la production, la diffusion et la transmission des œuvres au plus grand nombre. Le travail des équipes artistiques est précieux et indispensable pour faire vivre les projets et rendre l'organisation des entreprises plus efficace. C'est pourquoi la politique sociale mise en œuvre par le ministère de la culture dans les établissements culturels se doit d'être volontariste. Le respect du droit du travail et des conventions collectives par les entreprises artistiques et culturelles conditionne le bénéfice du label et de l'octroi de toute subvention publique. Cette exigence est rappelée notamment à l'article 7 du décret n° 2017-432 du 28 mars 2017 relatif au label et conventionnement dans les domaines du spectacle vivant et des arts plastiques, qui prévoit le retrait du label en cas de non respect du code du travail et de la législation sociale. Au-delà du respect des conditions légales, les services du ministère de la culture sont attentifs lors du recrutement d'un dirigeant ou de l'évaluation de son mandat ou de son projet artistique, à ses qualités managériales et au développement de l'organisation du travail en équipe. À l'exemple de la comédie de Béthune, différentes mesures peuvent être mises en place pour permettre le dialogue et apporter des solutions concrètes aux difficultés exprimées telles que l'intervention d'un médiateur ou l'élaboration d'un plan de prévention, dans l'objectif de faire évoluer l'organisation du travail vers une meilleure cohésion des équipes artistiques afin que chacun puisse exercer ses compétences dans le cadre du service public de la culture.
