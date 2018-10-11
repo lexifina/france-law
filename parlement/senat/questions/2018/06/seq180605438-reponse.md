@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605438
+
+- Question : [SEQ180605438](seq180605438.md) — Calcul de l'indemnité pour activités militaires spécifiques
+
+## Réponse
+
+*Armées, JO du 2018-10-11, page 5159*
+
+En application de la loi n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites, la durée minimale de services requise pour ouvrir droit à une pension au titre du code des pensions civiles et militaires de retraite (CPCMR) est, comme le rappelle l'honorable parlementaire, fixée à 2 ans pour les militaires dont le premier engagement a été conclu à compter du 1er janvier 2014. S'agissant des autres militaires, la constitution du droit à pension reste conditionnée à l'accomplissement de 15 années de services. Toutefois, il peut être observé que la loi n° 2014-40 du 20 janvier 2014 n'a pas modifié la durée exigée pour que soit prises en compte dans le calcul de la pension les bonifications opérationnelles prévues aux c (bénéfices de campagne) et d (bonification pour l'exécution d'un service aérien ou sous-marin commandé) de l'article 12 du CPCMR. Les bonifications considérées demeurent en conséquence prises en compte dès lors que la pension rémunère au moins 15 années de services effectifs. Dans ce contexte, il convient de souligner que le décret n° 2015-1456 du 9 novembre 2015 a modifié le décret n° 2008-1113 du 29 octobre 2008 fixant les modalités d'attribution de l'indemnité pour activités militaires spécifiques (IAMS). Cette indemnité, qui permet de compenser la non prise en compte des bonifications susmentionnées dans une pension, est ainsi désormais allouée aux militaires de carrière, sous contrat ou réservistes en cas de départ avant 15 ans de services et non plus en cas de départ sans droit à pension. Les droits des militaires au bénéfice de l'IAMS sont de la sorte préservés quelle que soit la date à laquelle les intéressés se sont engagés.
