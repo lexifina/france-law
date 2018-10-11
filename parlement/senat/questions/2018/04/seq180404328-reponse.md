@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404328
+
+- Question : [SEQ180404328](seq180404328.md) — Cotisation d'assurance maladie et pensions de retraite complémentaire des Français de l'étranger
+
+## Réponse
+
+*Action et comptes publics, JO du 2018-10-11, page 5148*
+
+La situation des personnes percevant des retraites françaises et qui résident dans un autre État faisant partie de l'Union européenne, de l'Espace économique européen ou en Suisse, est différente selon qu'elles perçoivent uniquement des retraites françaises ou également une retraite de leur État de résidence. Cette situation est régie par les règles de coordination prévues par les règlements européens (CE) 883/2004 et 987/2009. Les personnes percevant uniquement des retraites de régimes français restent assurées d'un régime obligatoire d'assurance maladie français. À ce titre, la cotisation d'assurance maladie est prélevée sur l'ensemble de leurs retraites. En revanche, dès lors qu'elles perçoivent également une pension de retraite de leur État de résidence, cet État devient compétent. Ces personnes ne sont donc plus assurées d'un régime obligatoire d'assurance maladie français, mais du régime d'assurance maladie de leur État de résidence. Au cas où des soins s'avéreraient médicalement nécessaires lors d'un séjour en France, la carte européenne d'assurance maladie délivrée par leur État de résidence permettra la prise en charge de ces soins pour le compte de l'État de résidence, ce dernier remboursant ensuite à la France les frais avancés. Ne relevant plus d'un régime d'assurance maladie français, ces personnes ne doivent pas faire l'objet d'un prélèvement de cotisation d'assurance maladie sur leurs retraites françaises, de base et complémentaire. Dans le cas d'un changement de situation, les personnes concernées sont invitées à contacter leurs caisses de retraite afin de les informer de leur situation.
