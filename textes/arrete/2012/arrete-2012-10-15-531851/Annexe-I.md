@@ -92,7 +92,7 @@ Les eaux territoriales françaises comprises entre la limite nord définie au po
 
 30 |
 
-5. Poitou-Charentes
+5. Charente-Maritime
 
 Siège à Marennes |
 
