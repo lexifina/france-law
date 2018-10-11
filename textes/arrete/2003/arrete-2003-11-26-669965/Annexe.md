@@ -22,11 +22,11 @@ Cabinet |
 
 Astreinte (chauffeur). |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
-1 astreinte de fin semaine.
+1 astreinte de fin semaine
 
-1 astreinte de jour férié isolé. |
+1 astreinte de jour férié isolé |
 
 Secrétariat général |
 
@@ -40,19 +40,13 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
-Service des systèmes
-
-d'information
-
-et de la modernisation (SSIM) |
+Service des systèmes d'information et de la modernisation (SSIM) |
 
 Astreinte opérationnelle et technique. |
 
 5 astreintes de semaine. |
 
-Service national
-
-d'ingénierie aéroportuaire (SNIA) |
+Service national d'ingénierie aéroportuaire (SNIA) |
 
 Astreinte de maintenance. |
 
@@ -76,13 +70,15 @@ de l'Aviation Civile |
 
 |
 
-Direction de la formation au pilotage et des vols : |
+Direction de la formation au pilotage et des vols :
+
+Bureau des opérations centralisées
+
+(site de Toulouse) |
 
 Astreinte opérationnelle et technique. |
 
 1 astreinte de fin de semaine et jours fériés. |
-
-Bureau des opérations centralisées (site de Toulouse) |
 
 Centre de Melun |
 
@@ -90,19 +86,13 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses
-
-pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
 1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-Direction des opérations
-
-de la direction des services
-
-de la navigation aérienne |
+Direction des opérations de la direction des services de la navigation aérienne |
 
 |
 
@@ -390,7 +380,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Aérodrome de Cayenne-Félix Eboué |
+Aérodrome de Cayenne-Félix-Eboué |
 
 Astreinte opérationnelle. |
 
@@ -412,9 +402,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service de l'aviation civile
-
-de Saint-Pierre-et-Miquelon |
+Service de l'aviation civile de Saint-Pierre-et-Miquelon |
 
 |
 
@@ -430,9 +418,7 @@ Astreinte technique de centrale énergie. |
 
 1 astreinte de semaine. |
 
-Direction de la sécurité
-
-de l'aviation civile |
+Direction de la sécurité de l'aviation civile |
 
 |
 
@@ -460,9 +446,9 @@ Région Hauts-de-France (Lille, Calais, Le Touquet et Merville) |
 
 Astreinte enquêtes-accidents. |
 
-1 astreinte de semaine. |
+1 astreinte de semaine . |
 
-Région Hauts-de-France (Beauvais) |
+Région Hauts-de-France (Beauvais), |
 
 Astreinte enquêtes-accidents. |
 
@@ -504,9 +490,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Poitiers)
-
-|
+Région Nouvelle-Aquitaine (Poitiers) |
 
 Astreinte enquêtes-accidents. |
 
@@ -584,7 +568,7 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Normandie (Deauville, Le Havre et Rouen) |
+Région Normandie (Deauville, le Havre et Rouen) |
 
 Astreinte enquêtes-accidents. |
 
@@ -650,7 +634,9 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Auvergne-Rhône-Alpes (Clermont-Ferrand) |
+Région Auvergne-Rhône-Alpes
+
+(Clermont-Ferrand) |
 
 Astreinte enquêtes-accidents. |
 
@@ -674,13 +660,17 @@ Astreinte de direction. |
 
 1 astreinte de semaine. |
 
-Région Provence-Alpes-Côte d'Azur (Marseille-Provence) |
+Région Provence-Alpes-Côte d'Azur
+
+(Marseille-Provence) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Provence-Alpes-Côte d'Azur (Nice-Côte d'Azur) |
+Région Provence-Alpes-Côte d'Azur
+
+(Nice-Côte d'Azur) |
 
 Astreinte enquêtes-accidents. |
 
@@ -800,11 +790,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte Direction
-
-de l'aviation civile
-
-en Nouvelle-Calédonie |
+Service mixte Direction de l'aviation civile en Nouvelle-Calédonie |
 
 |
 
@@ -836,7 +822,7 @@ Astreinte opérationnelle. |
 
 Nouméa |
 
-Astreinte technique de centrale énergie. |
+Astreinte technique de centrale énergie |
 
 1 astreinte de semaine. |
 
@@ -854,7 +840,7 @@ SEAC des îles Wallis-et-Futuna |
 
 SEAC |
 
-Astreinte de contrôle technique d'exploitation. |
+Astreinte technique. |
 
 1 astreinte de semaine. |
 
