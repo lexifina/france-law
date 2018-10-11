@@ -40,83 +40,91 @@ De 23 heures à 23 h 29 locales :
 
 2. Capacités des terminaux
 
-Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux, qui correspond au flux maximal de passagers par heure au départ, dont la valeur est mentionnée par terminal dans le tableau ci-après. Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire en regard de cette capacité sur la base de l'appareil envisagé, d'un coefficient de remplissage moyen et de profils types de présentation des passagers en entrée d'aérogare. Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement de ce flux maximal, le coordonnateur, en liaison avec Aéroports de Paris, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
+Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux. Elle correspond aux flux maximaux de passagers au départ par 20 et 120 minutes mentionnés dans le tableau ci-après.
 
-A compter de la saison aéronautique d'été 2017 :
+Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire sur les tranches de 20 minutes et 120 minutes concernées en regard des flux maximaux, sur la base de l'appareil envisagé et d'un coefficient de remplissage moyen.
 
-TERMINAL ET TRAFIC CONCERNÉ |
+Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux flux maximaux, le coordonnateur, en liaison avec le Groupe ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-FLUX MAXIMAL DE PASSAGERS
+A compter de la saison aéronautique d'été 2019 :
 
-par heure au départ
+Terminal |
 
-|
+Flux maximal de passagers par 20 min au départ |
 
-Orly Sud Global (1) |
+Flux maximal de passagers par 120 min au départ |
 
-2 500 |
+Orly 1 |
 
-Orly Sud International (2) |
+1 400 |
+
+4 700 |
+
+Orly 2 |
+
+700 |
+
+2 300 |
+
+Orly 3 |
 
 1 500 |
 
-Orly Ouest-Schengen (3) |
+4 300 |
 
-3 000 |
+Orly 4 |
 
-Orly Ouest-International (2) |
+1 400 |
 
-530 |
-
-(1) Totalité du trafic du terminal Sud.
-
-(2) Trafic à destination de zones géographiques n'appartenant pas à l'espace Schengen.
-
-(3) Trafic à destination de zones géographiques appartenant à l'espace Schengen.
-
-|
+4 200 |
 
 II. - Capacité de l'aéroport de Paris - Charles-de-Gaulle
 
 1. Capacité globale
 
-A compter de la saison aéronautique d'été 2018 :
+A compter de la saison aéronautique d'été 2019 :
 
-HEURES
+Heures Locales |
 
-LOCALES |
+Arrivées par
 
-ARRIVÉES
+10 minutes |
 
-par 10 minutes |
-
-ARRIVÉES
+Arrivées
 
 par heure |
 
-ARRIVÉES
+Arrivées
 
-par tranche de 60 minutes
+par tranche
 
-glissantes par pas
+de 60 minutes
 
-de 10 minutes |
+glissantes par pas de 10 minutes |
 
-DÉPARTS
+Départs par
 
-par 10 minutes |
+10 minutes |
 
-DÉPARTS
+Départs
 
 par heure |
 
-TOTAL
+Départs
+
+par tranche
+
+de 60 minutes
+
+glissantes par pas de 10 minutes |
+
+Total
 
 arrivées + départs
 
 par heure |
 
-0 h à 0 h 59 |
+0 heures à 0 h 59 |
 
 7 (6) |
 
@@ -128,9 +136,11 @@ par heure |
 
 25 |
 
+78 |
+
 40 |
 
-1 h à 1 h 59 |
+1 heures à 1 h 59 |
 
 7 (6) |
 
@@ -142,7 +152,7 @@ par heure |
 
 40 |
 
-2 h à 2 h 59 |
+2 heures à 2 h 59 |
 
 7 (6) |
 
@@ -154,7 +164,7 @@ par heure |
 
 32 |
 
-3 h à 3 h 59 |
+3 heures à 3 h 59 |
 
 7 (6) |
 
@@ -166,7 +176,7 @@ par heure |
 
 32 |
 
-4 h à 4 h 59 |
+4 heures à 4 h 59 |
 
 7 (6) |
 
@@ -178,7 +188,7 @@ par heure |
 
 32 |
 
-5 h à 5 h 59 |
+5 heures à 5 h 59 |
 
 7 (6) |
 
@@ -190,7 +200,7 @@ par heure |
 
 40 |
 
-6 h à 6 h 59 |
+6 heures à 6 h 59 |
 
 11 (1) |
 
@@ -202,7 +212,7 @@ par heure |
 
 67 |
 
-7 h à 7 h 59 |
+7 heures à 7 h 59 |
 
 12 (3) |
 
@@ -214,7 +224,7 @@ par heure |
 
 103 |
 
-8 h à 8 h 59 |
+8 heures à 8 h 59 |
 
 13 (1) |
 
@@ -226,7 +236,7 @@ par heure |
 
 109 |
 
-9 h à 9 h 59 |
+9 heures à 9 h 59 |
 
 12 (3) |
 
@@ -238,7 +248,7 @@ par heure |
 
 120 |
 
-10 h à 10 h 59 |
+10 heures à 10 h 59 |
 
 12 (3) |
 
@@ -250,7 +260,7 @@ par heure |
 
 111 |
 
-11 h à 11 h 59 |
+11 heures à 11 h 59 |
 
 12 (3) |
 
@@ -262,7 +272,7 @@ par heure |
 
 112 |
 
-12 h à 12 h 59 |
+12 heures à 12 h 59 |
 
 12 (3) |
 
@@ -274,7 +284,7 @@ par heure |
 
 111 |
 
-13 h à 13 h 59 |
+13 heures à 13 h 59 |
 
 12 (3) |
 
@@ -286,7 +296,7 @@ par heure |
 
 110 |
 
-14 h à 14 h 59 |
+14 heures à 14 h 59 |
 
 13 (3) |
 
@@ -298,7 +308,7 @@ par heure |
 
 105 |
 
-15 h à 15 h 59 |
+15 heures à 15 h 59 |
 
 13 (1) |
 
@@ -310,7 +320,7 @@ par heure |
 
 108 |
 
-16 h à 16 h 59 |
+16 heures à 16 h 59 |
 
 11 (6) |
 
@@ -322,7 +332,7 @@ par heure |
 
 107 |
 
-17 h à 17 h 59 |
+17 heures à 17 h 59 |
 
 13 (3) |
 
@@ -334,7 +344,7 @@ par heure |
 
 107 |
 
-18 h à 18 h 59 |
+18 heures à 18 h 59 |
 
 13 (1) |
 
@@ -346,11 +356,11 @@ par heure |
 
 111 |
 
-19 h à 19 h 59 |
+19 heures à 19 h 59 |
 
 13 (3) |
 
-63 |
+64 |
 
 12 (3) |
 
@@ -358,31 +368,31 @@ par heure |
 
 109 |
 
-20 h à 20 h 59 |
+20 heures à 20 h 59 |
 
 13 (1) |
 
 56 |
 
-14 (1) |
+14 (2) |
 
 64 |
 
 108 |
 
-21 h à 21 h 59 |
+21 heures à 21 h 59 |
 
 12 (3) |
 
 53 |
 
-13 (1) |
+13 (2) |
 
-53 |
+55 |
 
-97 |
+99 |
 
-22 h à 22 h 59 |
+22 heures à 22 h 59 |
 
 12 (2) |
 
@@ -394,7 +404,7 @@ par heure |
 
 80 |
 
-23 h à 23 h 59 |
+23 heures à 23 h 59 |
 
 8 (6) |
 
