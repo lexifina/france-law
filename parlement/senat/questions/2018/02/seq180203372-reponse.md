@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203372
+
+- Question : [SEQ180203372](seq180203372.md) — Espace réservé au stationnement sécurisé des vélos
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-10-11, page 5165*
+
+L'article R. 111-14-2 du code de la construction et de l'habitation (CCH) est spécifiquement dédié à la recharge des véhicules électriques ou hybrides rechargeables dans les bâtiments d'habitation collectifs. L'article R. 111-14-4 du CCH traite, quant à lui, des espaces réservés au stationnement sécurisé des vélos. Pour mémoire, l'article R. 111-14-4 est ainsi rédigé : « Lorsque les bâtiments neufs à usage principal d'habitation groupant au moins deux logements comprennent un parc de stationnement d'accès réservé aux seuls occupants de l'immeuble, ces bâtiments doivent être équipés d'au moins un espace réservé au stationnement sécurisé des vélos, ce terme désignant, pour l'application du présent article et du suivant, les cycles et les cycles à pédalage assisté tels qu'ils sont définis à l'article R. 311-1 du code de la route. […] » Il y a donc deux conditions pour qu'un projet de construction soit concerné par cet article : le bâtiment est constitué d'au moins deux logements ; le bâtiment comprend un parc de stationnement réservé aux seuls occupants. L'article 3 de l'arrêté du 13 juillet 2016 vient ainsi compléter cet article : « L'espace destiné au stationnement sécurisé des vélos prévu aux articles R. 111-14-4 à R. 111-14-6 du code de la construction et de l'habitation est couvert et se situe de préférence au rez-de-chaussée du bâtiment ou au premier sous-sol. Cet espace peut également être réalisé à l'extérieur du bâtiment, à condition qu'il soit couvert, clos et situé sur la même unité foncière que le bâtiment. » Ainsi, le parc de stationnement peut être réalisé à l'extérieur ou à l'intérieur du bâtiment, à condition qu'il soit clos, couvert et situé sur la même unité foncière du bâtiment.
