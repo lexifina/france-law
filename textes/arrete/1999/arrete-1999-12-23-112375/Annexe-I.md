@@ -1,6 +1,6 @@
 # Article Annexe I
 
-1. Propriétés
+Caractéristiques techniques
 
 PROPRIÉTÉS |
 
@@ -8,111 +8,111 @@ UNITÉ |
 
 LIMITES |
 
-|
+Min. |
+
+Max. |
+
+Indice de cétane mesuré |
 
 |
 
-Minimum |
-
-Maximum |
-
-Indice de cétane mesuré. |
-
-|
-
-51, 0 |
-
-|
-
-Indice de cétane calculé. |
-
-|
-
-46, 0 |
-
-|
-
-Masse volumique (à 15° C). |
-
-kg / m ³ |
-
-820, 0 |
-
-845, 0 |
-
-Hydrocarbures aromatiques polycycliques. |
-
-% (m / m) |
+51,0 |
 
 - |
 
-8, 0 |
+Indice de cétane calculé |
 
-Teneur en soufre. |
+|
 
-mg / kg |
+46,0 |
 
 - |
 
-10, 0 |
+Masse volumique (à 15° C) |
 
-Point d'éclair. |
+kg/ m ³ |
+
+820,0 |
+
+845,0 |
+
+Hydrocarbures aromatiques polycycliques |
+
+% (m/ m) |
+
+- |
+
+8,0 |
+
+Teneur en soufre |
+
+mg/ kg |
+
+- |
+
+10,0 |
+
+Teneur en manganèse |
+
+mg/ l |
+
+- |
+
+2,0 |
+
+Point d'éclair |
 
 ° C |
 
-¹ 55 |
+> 55,0 |
 
 - |
 
-Résidu de carbone (sur le résidu 10 % de distillation). |
+Résidu de carbone (sur le résidu 10 % de distillation) |
 
-% (m / m) |
-
-- |
-
-0, 30 |
-
-Teneur en cendre. |
-
-% (m / m) |
+% (m/ m) |
 
 - |
 
-0, 01 |
+0,30 |
 
-Teneur en eau. |
+Teneur en cendre |
 
-mg / kg |
+% (m/ m) |
+
+- |
+
+0,01 |
+
+Teneur en eau |
+
+mg/ kg |
 
 - |
 
 200 |
 
-Contamination totale. |
+Contamination totale |
 
-mg / kg |
+mg/ kg |
 
 - |
 
 24 |
 
-Corrosion à la lame de cuivre (3 h à 50° C). |
+Corrosion à la lame de cuivre (3 h à 50° C) |
 
 Cotation |
 
 Classe 1 |
 
-|
+Stabilité à l'oxydation |
 
-Stabilité à l'oxydation 1. |
-
-g / m ³ |
+g/ m ³ |
 
 - |
 
 25 |
-
-|
 
 h |
 
@@ -120,19 +120,9 @@ h |
 
 - |
 
-Stabilité à l'oxydation 2 à 115° C
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée
 
-Variation de l'indice d'acide (2).
-
-|
-
-mg KOH / g |
-
-- |
-
-0, 30 |
-
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C. |
+(wsd 1,4) à 60 C |
 
 µm |
 
@@ -140,35 +130,33 @@ Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C. 
 
 460 |
 
-Viscosité à 40° C. |
+Viscosité à 40° C |
 
-mm ² / s |
+mm2/ s |
 
-2, 00 |
+2,000 |
 
-4, 50 |
+4,500 |
 
 Distillation :
 
-% (v / v) évaporé à 250° C ;
+-% (v/ v) récupéré à 250° C ; |
 
-|
-
-% (v / v) |
+% (v/ v) |
 
 - |
 
-¸ 65 |
+< 65 |
 
-% (v / v) évaporé à 350° C ; |
+-% (v/ v) récupéré à 350° C ; |
 
-% (v / v) |
+% (v/ v) |
 
 85 |
 
 - |
 
-point 95 % (V / V) condensé à : |
+-95 % (V/ V) récupéré à : |
 
 ° C |
 
@@ -176,56 +164,16 @@ point 95 % (V / V) condensé à : |
 
 360 |
 
-Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 2010 relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
+Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
 
-% (V / V) |
+% (v/ v) |
 
 - |
 
-7, 0 |
+7,0 |
 
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V / V). Cette spécification, en révision au CEN, est temporaire.
-
-(2) Cette spécification supplémentaire est optionnelle.
-
-|
-
-2. Caractéristiques de tenue au froid
-
-SAISON |
-
-DATE |
-
-CLASSE |
-
-TLF (C, max) |
-
-Eté |
-
-1er avril - 31 octobre |
-
-B |
-
-0° C |
-
-Hiver |
-
-1er novembre - 31 mars |
-
-E |
-
-- 15° C |
-
-Gazole grand froid |
-
-|
-
-F |
-
-- 20° C |
-
-TLF : température limite de filtrabilité. |
+(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (v/ v). |
 
 NOTA :
 
-Conseil d'Etat, décision n° 388438 du 27 juillet 2016, (ECLI:CECHS:2016:388438.20160727), article 1er : L'arrêté interministériel du 31 décembre 2014 modifiant l'arrêté du 23 décembre 1999 relatif aux caractéristiques du gazole et du gazole grand froid (NOR : DEVR1431074A) est annulé.
+Conformément aux dispositions de l'article 9 de l'arrêté du 1er juin 2018 ces dispositions entrent en vigueur le 12 octobre 2018.
