@@ -1,0 +1,385 @@
+# Article Annexe II
+
+PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA SECONDE FRACTION DE L'AIDE PUBLIQUE POUR 2018
+
+PARTIS ET GROUPEMENTS POLITIQUES
+
+représentés au parlement |
+
+NOMBRE DE PARLEMENTAIRES
+
+ouvrant droit au versement
+
+de l'aide publique |
+
+MONTANT
+
+de la seconde fraction de l'aide publique attribuée pour 2018 |
+
+Assemblée
+
+nationale |
+
+Sénat |
+
+Total 2018 |
+
+EN MARCHE ! |
+
+310 |
+
+23 |
+
+333 |
+
+12 414 404,87 € |
+
+LES RÉPUBLICAINS |
+
+103 |
+
+139 |
+
+242 |
+
+9 021 879,82 € |
+
+PARTI SOCIALISTE |
+
+28 |
+
+74 |
+
+102 |
+
+3 802 610,50 € |
+
+UNION DES DÉMOCRATES, RADICAUX ET LIBÉRAUX |
+
+27 |
+
+55 |
+
+82 |
+
+3 057 000,60 € |
+
+MOUVEMENT DÉMOCRATE |
+
+47 |
+
+7 |
+
+54 |
+
+2 013 146,74 € |
+
+PARTI COMMUNISTE FRANÇAIS |
+
+13 |
+
+13 |
+
+26 |
+
+969 292,87 € |
+
+LA FRANCE INSOUMISE |
+
+17 |
+
+1 |
+
+18 |
+
+671 048,91 € |
+
+PARTI RADICAL DE GAUCHE |
+
+5 |
+
+11 |
+
+16 |
+
+596 487,92 € |
+
+PARTI PROGRESSISTE MARTINIQUAIS (PPM) |
+
+4 |
+
+5 |
+
+9 |
+
+335 524,46 € |
+
+FRONT NATIONAL |
+
+7 |
+
+1 |
+
+8 |
+
+298 243,96 € |
+
+RÉGIONS ET PEUPLES SOLIDAIRES |
+
+5 |
+
+0 |
+
+5 |
+
+186 402,48 € |
+
+EUROPE ÉCOLOGIE LES VERTS |
+
+0 |
+
+4 |
+
+4 |
+
+149 121,98 € |
+
+TAPURA HUIRAATIRA |
+
+2 |
+
+2 |
+
+4 |
+
+149 121,98 € |
+
+DEBOUT LA FRANCE |
+
+1 |
+
+2 |
+
+3 |
+
+111 841,49 € |
+
+CALÉDONIE ENSEMBLE |
+
+2 |
+
+1 |
+
+3 |
+
+111 841,49 € |
+
+RASSEMBLEMENT POUR LA CALÉDONIE DANS LA RÉPUBLIQUE |
+
+0 |
+
+2 |
+
+2 |
+
+74 560,99 € |
+
+ARCHIPEL DEMAIN |
+
+0 |
+
+1 |
+
+1 |
+
+37 280,50 € |
+
+CAP SUR L'AVENIR |
+
+1 |
+
+0 |
+
+1 |
+
+37 280,50 € |
+
+MOUVEMENT INDÉPENDANTISTE MARTINIQUAIS |
+
+1 |
+
+0 |
+
+1 |
+
+37 280,50 € |
+
+TAVINI HUIRAATIRA NO TE AO MAOHI - FRONT DE LIBÉRATION DE POLYNÉSIE |
+
+1 |
+
+0 |
+
+1 |
+
+37 280,50 € |
+
+ALLIANCE ÉCOLOGISTE INDÉPENDANTE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LA FRANCE QUI OSE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LUTTE OUVRIÈRE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI ANIMALISTE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+GROUPEMENT FRANCE RÉUNION |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LA FRANCE EN MOUVEMENT |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LES RÉPUBLICAINS ENSEMBLE DANS LA FRANCE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+MOUVEMENT POPULAIRE CALÉDONIEN |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI COMMUNISTE RÉUNIONNAIS |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PROGRÈS 974 |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+RÉZISTANS ÉGALITÉ 974 |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TAHOERAA HUIRAATIRA |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TAU HOTURAU |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+VIVRE LA RÉUNION |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TOTAL DES PARLEMENTAIRES RATTACHÉS |
+
+574 |
+
+341 |
+
+915 |
+
+34 111 653,06 € |
+
+PARLEMENTAIRES NON RATTACHÉS/NON DÉCLARÉS |
+
+2 |
+
+4 |
+
+6 |
+
+223 683,94 € |
