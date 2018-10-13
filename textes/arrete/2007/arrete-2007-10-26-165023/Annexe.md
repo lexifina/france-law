@@ -18,13 +18,25 @@ De 23 heures à 6 h 59 (heure locale) :
 
 2. Départs
 
+A compter de la saison aéronautique d'été 2019
+
+De 6 heures à 6 h 59 (heure locale) :
+
+-18 départs par heure ;
+
+-5 départs par tranche de dix minutes.
+
 De 7 heures à 22 h 59 (heure locale) :
 
-- 30 départs par tranche de soixante minutes glissantes par pas de dix minutes ;
+-30 départs par tranche de soixante minutes glissantes par pas de dix minutes ;
 
-- 7 départs par tranche de dix minutes.
+-7 départs par tranche de dix minutes.
 
-De 23 heures à 6 h 59 (heure locale) : 5 départs par tranche de dix minutes.
+De 23 heures à 5 h 59 (heure locale) :
+
+-12 départs par tranche de soixante minutes glissantes par pas de dix minutes ;
+
+-5 départs par tranche de dix minutes.
 
 3. Mouvements totaux
 
