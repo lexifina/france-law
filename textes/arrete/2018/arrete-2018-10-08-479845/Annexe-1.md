@@ -8,19 +8,11 @@ La zone d'observation renforcée est constituée de la liste des communes listé
 
 INSEE COMMUNE |
 
-NOM COMMUME |
-
-08009 |
-
-AMBLIMONT |
+NOM COMMUNE |
 
 08029 |
 
 AUFLANCE |
-
-08029 |
-
-BAZEILLES |
 
 08065 |
 
@@ -30,41 +22,17 @@ BIEVRES |
 
 BLAGNY |
 
-08083 |
-
-BREVILLY |
-
 08090 |
 
 CARIGNAN |
-
-08136 |
-
-DAIGNY |
 
 08138 |
 
 LES DEUX-VILLES |
 
-08145 |
-
-DOUZY |
-
-08153 |
-
-ESCOMBRES-ET-LE-CHESNOIS |
-
-08159 |
-
-EUILLY-ET-LOMBUT |
-
 08168 |
 
 LA FERTE-SUR-CHIERS |
-
-08179 |
-
-FRANCHEVAL |
 
 08184 |
 
@@ -78,10 +46,6 @@ HERBEUVAL |
 
 LINAY |
 
-08267 |
-
-MAIRY |
-
 08269 |
 
 MALANDRY |
@@ -94,14 +58,6 @@ MARGNY |
 
 MARGUT |
 
-08281 |
-
-MATTON-ET-CLEMENCY |
-
-08289 |
-
-MESSINCOURT |
-
 08291 |
 
 MOGUES |
@@ -110,41 +66,9 @@ MOGUES |
 
 MOIRY |
 
-08294 |
-
-LA MONCELLE |
-
-08311 |
-
-MOUZON |
-
-08336 |
-
-OSNES |
-
-08342 |
-
-POURU-AUX-BOIS |
-
-08343 |
-
-POURU-SAINT-REMY |
-
 08347 |
 
 PUILLY-ET-CHARBEAUX |
-
-08349 |
-
-PURE |
-
-08371 |
-
-RUBECOURT-ET-LAMECOURT |
-
-08375 |
-
-SACHY |
 
 08376 |
 
@@ -158,10 +82,6 @@ SAPOGNE-SUR-MARCHE |
 
 SIGNY-MONTLIBERT |
 
-08444 |
-
-TETAIGNE |
-
 08459 |
 
 TREMBLOIS-LES-CARIGNAN |
@@ -169,10 +89,6 @@ TREMBLOIS-LES-CARIGNAN |
 08466 |
 
 VAUX-LES-MOUZON |
-
-08475 |
-
-VILLERS-CERNAY |
 
 08485 |
 
@@ -548,4 +464,4 @@ VILLECLOYE |
 
 Zone d'observation :
 
-Les communes des départements des Ardennes, de la Meurthe-et-Moselle, de la Meuse et de la Moselle à l'exception des communes situées en zone d'observation renforcée sont classées en zone d'observation.
+Les communes des départements des Ardennes, de Meurthe-et-Moselle, de la Meuse et de la Moselle à l'exception des communes situées en zone d'observation renforcée sont classées en zone d'observation.
