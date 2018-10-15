@@ -4,206 +4,108 @@ TABLEAU I
 
 EMPLOIS DE HAUTE DIRECTION
 
-DESIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
+D'EMPLOIS |
 
-|
+NOMBRE DE POINTS
 
-NOMBRE DE POINTS PAR EMPLOI
+PAR EMPLOI |
 
-|
+Chef d'état-major des armées |
 
-Chef d'état-major des armées
+1 |
 
-|
+200 |
 
-1
+Secrétaire général pour l'administration |
 
-|
+1 |
 
-200
+200 |
 
-|
+Délégué général pour l'armement |
 
-Secrétaire général pour l'administration
+1 |
 
-|
+200 |
 
-1
+Chef d'état-major de l'armée de terre |
 
-|
+1 |
 
-200
+180 |
 
-|
+Chef d'état-major de la marine nationale |
 
-Délégué général pour l'armement
+1 |
 
-|
+180 |
 
-1
+Chef d'état-major de l'armée de l'air |
 
-|
+1 |
 
-200
+180 |
 
-|
+Chef du contrôle général des armées |
 
-Chef d'état-major de l'armée de terre
+1 |
 
-|
+180 |
 
-1
+Major général des armées |
 
-|
+1 |
 
-180
+170 |
 
-|
+Major général de l'armée de terre |
 
-Chef d'état-major de la marine nationale
+1 |
 
-|
+160 |
 
-1
+Major général de la marine nationale |
 
-|
+1 |
 
-180
+160 |
 
-|
+Major général de l'armée de l'air |
 
-Chef d'état-major de l'armée de l'air
+1 |
 
-|
+160 |
 
-1
+Directeur général adjoint de la direction générale de l'armement |
 
-|
+1 |
 
-180
+160 |
 
-|
+Général d'armée (terre), inspecteur général des armées |
 
-Chef du contrôle général des armées
+1 |
 
-|
+140 |
 
-1
+Amiral, inspecteur général des armées |
 
-|
+1 |
 
-180
+140 |
 
-|
+Général d'armée aérienne, inspecteur général des armées |
 
-Major général des armées
+1 |
 
-|
+140 |
 
-1
+Officier général de l'armement, inspecteur général des armées |
 
-|
+1 |
 
-170
-
-|
-
-Major général de l'armée de terre
-
-|
-
-1
-
-|
-
-160
-
-|
-
-Major général de la marine nationale
-
-|
-
-1
-
-|
-
-160
-
-|
-
-Major général de l'armée de l'air
-
-|
-
-1
-
-|
-
-160
-
-|
-
-Directeur général adjoint de la direction générale de l'armement
-
-|
-
-1
-
-|
-
-160
-
-|
-
-Général d'armée (terre), inspecteur général des armées
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Amiral, inspecteur général des armées
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Général d'armée aérienne, inspecteur général des armées
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Officier général de l'armement, inspecteur général des armées
-
-|
-
-1
-
-|
-
-140
-
-|
+140 |

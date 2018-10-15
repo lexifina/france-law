@@ -1,16 +1,18 @@
 # Article Annexe (suite)
 
-TABLEAU II
-
 EMPLOIS DE DIRECTEUR ET ASSIMILÉ
 
-A.-Emplois de directeur
+A. - Emplois de directeur
 
-DESIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI |
 
-NOMBRE D'EMPLOIS |
+NOMBRE
 
-NOMBRE DE POINTS PAR EMPLOI |
+D'EMPLOIS |
+
+NOMBRE DE POINTS
+
+PAR EMPLOI |
 
 Directeur, adjoint au secrétaire général pour l'administration |
 
@@ -66,7 +68,7 @@ Directeur général des relations internationales et de la stratégie |
 
 180 |
 
-Directeur général des systèmes d'information et de communication de la défense |
+Directeur général du numérique et des systèmes d'information et de communication |
 
 1 |
 
@@ -204,13 +206,17 @@ Directeur de la sécurité aéronautique d'Etat |
 
 120 |
 
-B.-Emplois de délégué
+B. - Emplois de délégué
 
-DESIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI |
 
-NOMBRE D'EMPLOIS |
+NOMBRE
 
-NOMBRE DE POINTS PAR EMPLOI |
+D'EMPLOIS |
+
+NOMBRE DE POINTS
+
+PAR EMPLOI |
 
 Délégué à l'information et à la communication de la défense |
 
@@ -218,7 +224,7 @@ Délégué à l'information et à la communication de la défense |
 
 140 |
 
-Délégué à l'accompagnement des restructurations |
+Délégué à la sûreté nucléaire et à la radioprotection des installations classées intéressant la défense |
 
 1 |
 
@@ -228,9 +234,13 @@ C.-Emplois de sous-chef d'état-major à l'état-major des armées
 
 DESIGNATION DE L'EMPLOI |
 
-NOMBRE D'EMPLOIS |
+NOMBRE
 
-NOMBRE DE POINTS PAR EMPLOI |
+D'EMPLOIS |
+
+NOMBRE DE POINTS
+
+PAR EMPLOI |
 
 Sous-chef d'état-major plans |
 
@@ -239,12 +249,6 @@ Sous-chef d'état-major plans |
 140 |
 
 Sous-chef d'état-major opérations |
-
-1 |
-
-140 |
-
-Sous-chef d'état-major relations internationales |
 
 1 |
 

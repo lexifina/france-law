@@ -4,354 +4,188 @@ TABLEAU IV
 
 EMPLOIS DE DIRECTEUR ADJOINT, ADJOINT À UN DIRECTEUR ET ASSIMILÉ
 
-A.-Emplois de directeur-adjoint
+A. - Emplois de directeur-adjoint
 
-DESIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
+D'EMPLOIS |
 
-|
+NOMBRE DE POINTS
 
-NOMBRE DE POINTS PAR EMPLOI
+PAR EMPLOI |
 
-|
+Directeur central adjoint à la direction centrale du service d'infrastructure de la défense |
 
-Directeur central adjoint à la direction centrale du service d'infrastructure de la défense
+1 |
 
-|
+110 |
 
-1
+Sous-directeur, adjoint au directeur du renseignement et de la sécurité de la défense |
 
-|
+1 |
 
-110
+100 |
 
-|
+Directeur général adjoint des relations internationales et de la stratégie (DGRIS) |
 
-Sous-directeur, adjoint au directeur du renseignement et de la sécurité de la défense
+1 |
 
-|
+160 |
 
-1
+Directeur stratégie de défense, prospective et contre prolifération (DGRIS) |
 
-|
+1 |
 
-100
+140 |
 
-|
+Directeur adjoint à la délégation à l'information et à la communication de la défense |
 
-Directeur général adjoint des relations internationales et de la stratégie (DGRIS)
+1 |
 
-|
+100 |
 
-1
+Directeur adjoint à la direction du renseignement militaire |
 
-|
+1 |
 
-160
+100 |
 
-|
+Directeur central adjoint à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
-Directeur stratégie de défense, prospective et contre prolifération (DGRIS)
+1 |
 
-|
+110 |
 
-1
+Directeur adjoint plans à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
-|
+1 |
 
-140
+110 |
 
-|
+Directeur central adjoint du service de santé des armées |
 
-Directeur adjoint à la délégation à l'information et à la communication de la défense
+1 |
 
-|
+110 |
 
-1
+Directeur adjoint des opérations (DGA) |
 
-|
+1 |
 
-100
+100 |
 
-|
+Directeur adjoint du développement international et chef du service des procédures d'exportation et des moyens (DGA) |
 
-Directeur adjoint à la direction du renseignement militaire
+1 |
 
-|
+100 |
 
-1
+Directeur adjoint à la direction générale du numérique et des systèmes d'information et de communication |
 
-|
+2 |
 
-100
+100 |
 
-|
+Directeur adjoint à la direction technique de la direction générale de l'armement |
 
-Directeur central adjoint à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+1 |
 
-|
+100 |
 
-1
+Directeur central adjoint du service du commissariat des armées |
 
-|
+1 |
 
-110
+110 |
 
-|
+Directeur-adjoint à la structure intégrée du maintien en condition opérationnelle des matériels terrestres |
 
-Directeur adjoint plans à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+1 |
 
-|
+100 |
 
-1
+Directeur adjoint à la direction du personnel militaire de la marine |
 
-|
+1 |
 
-110
+100 |
 
-|
+Directeur adjoint à la direction centrale du service de soutien de la flotte |
 
-Directeur central adjoint du service de santé des armées
+1 |
 
-|
+100 |
 
-1
+Adjoint au directeur des ressources humaines de l'armée de l'air |
 
-|
+1 |
 
-110
+100 |
 
-|
+Directeur central adjoint du service des essences des armées |
 
-Directeur adjoint des opérations (DGA)
+1 |
 
-|
+110 |
 
-1
+B. - Emplois d'adjoint à un directeur et assimilé
 
-|
+DÉSIGNATION DE L'EMPLOI |
 
-100
+NOMBRE
 
-|
+D'EMPLOIS |
 
-Directeur adjoint du développement international et chef du service des procédures d'exportation et des moyens (DGA)
+NOMBRE DE POINTS
 
-|
+PAR EMPLOI |
 
-1
+Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense |
 
-|
+2 |
 
-100
+100 |
 
-|
+Adjoint au directeur des ressources humaines de l'armée de terre |
 
-Directeur adjoint à la direction générale du numérique et des systèmes d'information et de communication de la défense
+2 |
 
-|
+100 |
 
-2
+Adjoint au chef du contrôle général des armées |
 
-|
+1 |
 
-100
+100 |
 
-|
+Adjoint opérations à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
-Directeur adjoint à la direction technique de la direction générale de l'armement
+1 |
 
-|
+100 |
 
-1
+Adjoint capacités à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
-|
+1 |
 
-100
+100 |
 
-|
+Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres |
 
-Directeur central adjoint du service du commissariat des armées
+1 |
 
-|
+80 |
 
-1
+Adjoint au directeur, conseiller pour l'organisation et l'administration de la délégation à l'information et à la communication de la défense |
 
-|
+1 |
 
-110
+80 |
 
-|
+Adjoint au chef du service central de la modernisation et de la qualité (DGA/ SMQ) |
 
-Directeur-adjoint à la structure intégrée du maintien en condition opérationnelle des matériels terrestres
+1 |
 
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint à la direction du personnel militaire de la marine
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint à la direction centrale du service de soutien de la flotte
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint à la direction des ressources humaines de l'armée de l'air
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur central adjoint du service des essences des armées
-
-|
-
-1
-
-|
-
-110
-
-|
-
-B.-Emplois d'adjoint à un directeur et assimilé
-
-DESIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
-
-Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
-
-|
-
-2
-
-|
-
-100
-
-|
-
-Chef du service gestion des ressources humaines chargé des finances, du contrôle et des droits individuels (DRHAT)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint au directeur des ressources humaines de l'armée de terre
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint au directeur, conseiller pour l'organisation et l'administration de la délégation à l'information et à la communication de la défense
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au chef du contrôle général des armées
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint opérations à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint capacités à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
-
-|
-
-1
-
-|
-
-100
-
-|
+80 |
