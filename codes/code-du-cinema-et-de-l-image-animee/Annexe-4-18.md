@@ -22,7 +22,7 @@ I. - Dossier administratif :
 
 8° Toute pièce justificative d'un financement public ou privé ;
 
-9° Un devis et un plan de financement de production simplifiés mentionnant les différentes aides déjà obtenues et leur part dans le financement global du projet, ainsi que, pour les œuvres pour les nouveaux médias, faisant apparaître, le cas échéant, les dépenses liées à chacun des supports.
+9° Un devis et un plan de financement de production simplifiés mentionnant les différentes aides déjà obtenues et leur part dans le financement global du projet, ainsi que, pour les œuvres immersives ou interactives, faisant apparaître, le cas échéant, les dépenses liées à chacun des supports.
 
 II. - Dossier artistique :
 
@@ -34,13 +34,13 @@ II. - Dossier artistique :
 
 a) Pour les œuvres d'animation, la note précise le parti pris artistique lié à la narration et à l'élaboration graphique du projet ;
 
-b) Pour les œuvres pour les nouveaux médias, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
+b) Pour les œuvres immersives ou interactives, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
 4° Une note de présentation générale du projet en lien avec le thème de la diversité (thème, situation, personnages, problématiques, etc.) :
 
 a) Pour les séries audiovisuelles, joindre le concept en une page en précisant le format, la cible, la technique, le type de narration (bouclé, feuilletonnant, etc.) ;
 
-b) Pour les œuvres pour les nouveaux médias, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
+b) Pour les œuvres immersives ou interactives, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
 c) Pour les jeux vidéo, la note précise la plate-forme choisie (console, PC, Mac, etc.), le type et le genre de jeu ;
 
@@ -50,7 +50,7 @@ c) Pour les jeux vidéo, la note précise la plate-forme choisie (console, PC, M
 
 a) Pour les œuvres d'animation, fournir la bible graphique ;
 
-b) Pour les œuvres pour les nouveaux médias, fournir un dossier littéraire et graphique développant le concept, exposant les éléments d'écriture propres au genre du projet, la bible graphique pour l'animation et tout élément de scénarisation illustrant les principes de narration ;
+b) Pour les œuvres immersives ou interactives, fournir un dossier littéraire et graphique développant le concept, exposant les éléments d'écriture propres au genre du projet, la bible graphique pour l'animation et tout élément de scénarisation illustrant les principes de narration ;
 
 c) Pour les jeux vidéo, décrire le concept (gameplay, univers graphique et game design), le positionnement par rapport au marché, joindre une description des innovations techniques ou de création et une présentation des outils et de la méthodologie ;
 

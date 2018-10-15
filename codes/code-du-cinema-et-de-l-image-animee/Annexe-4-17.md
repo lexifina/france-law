@@ -22,7 +22,7 @@ I. - Dossier administratif :
 
 8° Toute pièce justificative d'un financement public ou privé ;
 
-9° Un devis et un plan de financement de développement simplifiés mentionnant les différentes aides déjà obtenues et leur part dans le financement global du projet ainsi que, pour les projets d'œuvres pour les nouveaux médias, faisant apparaître, le cas échéant, les dépenses liées à chacun des supports.
+9° Un devis et un plan de financement de développement simplifiés mentionnant les différentes aides déjà obtenues et leur part dans le financement global du projet ainsi que, pour les projets d'œuvres immersives ou interactives, faisant apparaître, le cas échéant, les dépenses liées à chacun des supports.
 
 II. - Dossier artistique :
 
@@ -34,13 +34,13 @@ II. - Dossier artistique :
 
 a) Pour les projets d'œuvres d'animation, la note précise le parti pris artistique lié à la narration et à l'élaboration graphique du projet, et est accompagnée des éléments graphiques ;
 
-b) Pour les projets d'œuvres pour les nouveaux médias, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
+b) Pour les projets d'œuvres immersives ou interactives, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
 4° Une note de présentation générale du projet en lien avec le thème de la diversité (thème, situation, personnages, problématiques, etc.) :
 
 a) Pour les projets de séries audiovisuelles, joindre le concept en une page en précisant le format, la cible, la technique, le type de narration (bouclé, feuilletonnant, etc.) ;
 
-b) Pour les projets d'œuvres pour les nouveaux médias, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
+b) Pour les projets d'œuvres immersives ou interactives, la note précise les principaux éléments artistiques du projet : concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
 5° Le cas échéant, le scénario. Pour les projets de séries audiovisuelles, joindre les scénarios des épisodes déjà écrits ainsi que le résumé des épisodes suivants ;
 
@@ -48,7 +48,7 @@ b) Pour les projets d'œuvres pour les nouveaux médias, la note précise les pr
 
 a) Pour les projets d'œuvres d'animation, fournir les éléments graphiques ;
 
-b) Pour les projets d'œuvres pour les nouveaux médias, un dossier littéraire et graphique développant le concept, exposant les éléments d'écriture propres au genre du projet, la bible graphique pour l'animation et tout élément de scénarisation illustrant les principes de narration ;
+b) Pour les projets d'œuvres immersives ou interactives, un dossier littéraire et graphique développant le concept, exposant les éléments d'écriture propres au genre du projet, la bible graphique pour l'animation et tout élément de scénarisation illustrant les principes de narration ;
 
 7° Tout élément artistique complémentaire jugé pertinent, notamment, le cas échéant, la liste des œuvres précédentes du réalisateur avec un support (DVD, lien Vimeo ou équivalent avec son code d'accès) ;
 
