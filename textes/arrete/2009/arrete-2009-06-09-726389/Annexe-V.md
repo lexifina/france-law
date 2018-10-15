@@ -4,62 +4,36 @@ TABLEAU V
 
 Fonctions relevant de la direction générale de l'armement
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Directeur de DGA Maîtrise de l'information à la direction technique |
 
-Directeur de DGA Maîtrise de l'information à la direction technique
+1 |
 
-|
+80 |
 
-1
+Directeur de DGA Essais en vol à la direction technique |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur de DGA Essais de missiles à la direction technique |
 
-Directeur de DGA Essais en vol à la direction technique
+1 |
 
-|
+80 |
 
-1
+Directeur local du service de soutien de la flotte |
 
-|
-
-80
-
-|
-
-Directeur de DGA Essais de missiles à la direction technique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur local du service de soutien de la flotte
-
-|
-
-1
-
-|
+1 |
 
 80 |

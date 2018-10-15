@@ -4,256 +4,144 @@ TABLEAU IV
 
 Fonctions relevant de l'armée de l'air
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Commandant des forces aériennes |
 
-Commandant des forces aériennes
+1 |
 
-|
+140 |
 
-1
+Commandant de la défense aérienne et des opérations aériennes |
 
-|
+1 |
 
-140
+140 |
 
-|
+Commandant des forces aériennes stratégiques |
 
-Commandant de la défense aérienne et des opérations aériennes
+1 |
 
-|
+140 |
 
-1
+Commandant en second de la défense aérienne et des opérations aériennes |
 
-|
+1 |
 
-140
+100 |
 
-|
+Commandant en second des forces aériennes |
 
-Commandant des forces aériennes stratégiques
+1 |
 
-|
+100 |
 
-1
+Commandant en second des forces aériennes stratégiques |
 
-|
+1 |
 
-140
+100 |
 
-|
+Commandant du centre d'expertise aérienne militaire |
 
-Commandant en second de la défense aérienne et des opérations aériennes
+1 |
 
-|
+100 |
 
-1
+Chef d'état-major du commandant de la défense aérienne et des opérations aériennes |
 
-|
+1 |
 
-100
+80 |
 
-|
+Chef d'état-major du commandement des forces aériennes |
 
-Commandant en second des forces aériennes
+1 |
 
-|
+80 |
 
-1
+Adjoint au commandant de la défense aérienne et des opérations aériennes |
 
-|
+1 |
 
-100
+80 |
 
-|
+Adjoint forces spéciales du commandant des forces aériennes |
 
-Commandant en second des forces aériennes stratégiques
+1 |
 
-|
+80 |
 
-1
+Commandant la brigade aérienne des opérations, général adjoint opérations au commandant de la défense aérienne et des opérations |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant la brigade aérienne de l'aviation de chasse |
 
-Commandant du centre d'expériences aériennes militaires
+1 |
 
-|
+80 |
 
-1
+Commandant la brigade aérienne d'appui et de projection |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant la brigade aérienne du contrôle de l'espace aérien |
 
-Chef d'état-major du commandant de la défense aérienne et des opérations aériennes
+1 |
 
-|
+80 |
 
-1
+Commandant la brigade aérienne des forces de sécurité et d'intervention |
 
-|
+1 |
 
-80
+80 |
 
-|
+Commandant la brigade aérienne des systèmes d'armes et de la logistique |
 
-Chef d'état-major du commandement des forces aériennes
+1 |
 
-|
+80 |
 
-1
+Commandant la brigade aérienne d'appui à la manœuvre aérienne |
 
-|
+1 |
 
-80
+80 |
 
-|
+Commandant les écoles d'officiers de l'armée de l'air |
 
-Adjoint au commandant de la défense aérienne et des opérations aériennes
+1 |
 
-|
+80 |
 
-2
+Commandant les écoles des sous-officiers et militaires du rang de l'armée de l'air |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur du bureau enquêtes accident air |
 
-Commandant la brigade aérienne de l'aviation de chasse
+1 |
 
-|
+80 |
 
-1
+Directeur du centre études, réserves et partenariats de l'armée de l'air |
 
-|
+1 |
 
-80
-
-|
-
-Commandant la brigade aérienne d'appui et de projection
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne du contrôle de l'espace aérien
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne des forces de sécurité et d'intervention
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne des systèmes d'armes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne d'appui à la manœuvre aérienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant les écoles d'officiers de l'armée de l'air
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant les écoles des sous-officiers et militaires du rang de l'armée de l'air
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur du bureau enquêtes accident air
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur du centre d'études stratégiques aérospatiales
-
-|
-
-1
-
-|
-
-80
-
-|
+80 |

@@ -4,460 +4,240 @@ TABLEAU I
 
 Fonctions interarmées
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Inspecteur des armées |
 
-Inspecteur des armées
+1 |
 
-|
+140 |
 
-1
+Directeur de l'enseignement militaire supérieur |
 
-|
+1 |
 
-140
+140 |
 
-|
+Officier général de zone de défense et de sécurité de Paris-Gouverneur militaire de Paris |
 
-Directeur de l'enseignement militaire supérieur
+1 |
 
-|
+140 |
 
-1
+Officier général de zone de défense et de sécurité Est, Sud-Est, Ouest ou sud-ouest |
 
-|
+4 |
 
-140
+120 |
 
-|
+Officier général adjoint à l'inspecteur des armées |
 
-Officier général de zone de défense et de sécurité de Paris-Gouverneur militaire de Paris
+1 |
 
-|
+80 |
 
-1
+Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Nord, Sud, Sud-Est, Sud-Ouest ou Ouest |
 
-|
+7 |
 
-140
+80 |
 
-|
+Commandant de la base de défense d'Ile-de-France |
 
-Officier général de zone de défense et de sécurité Est, Sud-Est, Ouest ou sud-ouest
+1 |
 
-|
+80 |
 
-4
+Commandant de la base de défense de Brest-Lorient ou de Toulon |
 
-|
+2 |
 
-120
+80 |
 
-|
+Chef du groupement de soutien de la base de défense de Brest Lorient ou de Toulon |
 
-Général inspecteur adjoint à l'inspecteur des armées
+2 |
 
-|
+80 |
 
-1
+Officier général de zone de défense et de sécurité Sud ou Nord |
 
-|
+2 |
 
-80
+100 |
 
-|
+Chef de l'état-major particulier du Président de la République |
 
-Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Nord, Sud, Sud-Est, Sud-Ouest ou Ouest
+1 |
 
-|
+180 |
 
-7
+Commandant supérieur outre-mer |
 
-|
+5 |
 
-80
+100 |
 
-|
+Inspecteur des armements nucléaires |
 
-Commandant de la base de défense d'Ile-de-France
+1 |
 
-|
+100 |
 
-1
+Conseiller du Gouvernement pour la défense |
 
-|
+2 |
 
-80
+110 |
 
-|
+Chef de cabinet militaire au cabinet du Premier ministre |
 
-Commandant de la base de défense de Brest-Lorient ou de Toulon
+1 |
 
-|
+140 |
 
-2
+Chef de cabinet militaire au cabinet du ministre des armées |
 
-|
+1 |
 
-80
+140 |
 
-|
+Chef de cabinet du chef d'état-major des armées |
 
-Officier général de zone de défense et de sécurité Sud ou Nord
+1 |
 
-|
+120 |
 
-2
+Chef de l'état-major interarmées de force et d'entraînement |
 
-|
+1 |
 
-100
+100 |
 
-|
+Directeur de l'Ecole de guerre |
 
-Chef de l'état-major particulier du Président de la République
+1 |
 
-|
+100 |
 
-1
+Chef du centre de planification et de conduite des opérations |
 
-|
+1 |
 
-100
+100 |
 
-|
+Commandant des opérations spéciales |
 
-Commandant supérieur outre-mer
+1 |
 
-|
+100 |
 
-5
+Directeur de cabinet du directeur général de la sécurité extérieure |
 
-|
+1 |
 
-100
+100 |
 
-|
+Chef du bureau des officiers généraux |
 
-Inspecteur des armements nucléaires
+1 |
 
-|
+100 |
 
-1
+Commandant du service militaire adapté |
 
-|
+1 |
 
-100
+100 |
 
-|
+Directeur du centre interarmées de concepts, de doctrines et d'expérimentations |
 
-Conseiller du Gouvernement pour la défense
+1 |
 
-|
+100 |
 
-2
+Directeur du centre des hautes études militaires (DEMS) |
 
-|
+1 |
 
-110
+100 |
 
-|
+Directeur de l'école des commissaires des armées |
 
-Chef de cabinet militaire au cabinet du Premier ministre
+1 |
 
-|
+80 |
 
-1
+Commandant interarmées de l'espace |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant le centre national des sports de la défense |
 
-Chef de cabinet militaire au cabinet du ministre de la défense
+1 |
 
-|
+80 |
 
-1
+Adjoint au chef du centre de planification et de conduite des opérations, chargé de la planification des opérations |
 
-|
+1 |
 
-100
+80 |
 
-|
+Adjoint au chef du centre de planification et de conduite des opérations, chargé de la conduite des opérations |
 
-Chef de cabinet du chef d'état-major des armées-Chef de la division affaires générales de l'état-major des armées
+1 |
 
-|
+80 |
 
-1
+Officier général chargé des fréquences |
 
-|
+1 |
 
-120
+80 |
 
-|
+Officier général chargé du retour à la vie civile des officiers généraux |
 
-Chef de l'état-major interarmées de force et d'entraînement
+1 |
 
-|
+80 |
 
-1
+Secrétaire général adjoint au secrétariat général de la mer |
 
-|
+1 |
 
-100
+80 |
 
-|
+Officier général adjoint au commandant de la cyberdéfense |
 
-Directeur de l'Ecole de guerre
+1 |
 
-|
+80 |
 
-1
+Adjoint au commandant des opérations spéciales |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant du centre du soutien des opérations et des acheminements |
 
-Chef du centre de planification et de conduite des opérations
+1 |
 
-|
+80 |
 
-1
+Directeur local de la DIRISI Ile-de-France/ 8e RT |
 
-|
+1 |
 
-100
-
-|
-
-Commandant des opérations spéciales
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de cabinet du directeur général de la sécurité extérieure
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du bureau des officiers généraux
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Commandant du service militaire adapté
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur du centre interarmées de concepts, de doctrines et d'expérimentations
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur du centre des hautes études militaires (DEMS)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'école des commissaires des armées
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant interarmées de l'espace
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant le centre national des sports de la défense
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au chef du centre de planification et de conduite des opérations, chargé de la planification des opérations
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au chef du centre de planification et de conduite des opérations, chargé de la conduite des opérations
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Officier général chargé des fréquences
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Officier général chargé du retour à la vie civile des officiers généraux
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Secrétaire général du Conseil supérieur de la réserve militaire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au commandant des opérations spéciales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant du centre du soutien des opérations et des acheminements
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur local de la DIRISI Ile-de-France/ 8e RT
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur d'établissement du service d'infrastructure de la défense
-
-|
-
-8
-
-|
-
-80
-
-|
+80 |

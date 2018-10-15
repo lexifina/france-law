@@ -4,208 +4,108 @@ TABLEAU III
 
 Fonctions relevant de la marine nationale
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Préfet maritime |
 
-Préfet maritime
+3 |
 
-|
+140 |
 
-3
+Commandant la force d'action navale |
 
-|
+1 |
 
-140
+140 |
 
-|
+Commandant les forces sous-marines et la force océanique stratégique |
 
-Commandant la force d'action navale
+1 |
 
-|
+140 |
 
-1
+Commandant la force de l'aéronautique navale |
 
-|
+1 |
 
-140
+100 |
 
-|
+Commandant la force des fusiliers marins et commandos |
 
-Commandant les forces sous-marines et la force océanique stratégique
+1 |
 
-|
+100 |
 
-1
+Autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement |
 
-|
+1 |
 
-140
+100 |
 
-|
+Autorité de coordination pour les relations internationales |
 
-Commandant la force de l'aéronautique navale
+1 |
 
-|
+100 |
 
-1
+Président de la commission permanente des programmes et des essais des bâtiments de la flotte |
 
-|
+1 |
 
-100
+100 |
 
-|
+Directeur du service logistique de la marine et directeur de l'antenne navale du centre d'expertise du soutien du combattant et des forces |
 
-Commandant la force des fusiliers marins et commandos
+1 |
 
-|
+80 |
 
-1
+Commandant la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors de force |
 
-|
+1 |
 
-100
+80 |
 
-|
+Chef d'état-major du commandant de la force d'action navale |
 
-Autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement
+1 |
 
-|
+80 |
 
-1
+Adjoint organique à Brest au commandant de la force d'action navale |
 
-|
+1 |
 
-100
+80 |
 
-|
+Adjoint au commandant des forces sous-marines et de la force océanique stratégique |
 
-Autorité de coordination pour les relations internationales
+1 |
 
-|
+80 |
 
-1
+Commandant du centre d'études stratégiques de la marine, délégué au rayonnement de la marine et commandant de la marine à Paris |
 
-|
+1 |
 
-100
+80 |
 
-|
+Directeur local du service de soutien de la flotte |
 
-Président de la commission permanente des programmes et des essais des bâtiments de la flotte
+1 |
 
-|
+80 |
 
-1
+Commandant de l'école navale et du groupe des écoles du Poulmic |
 
-|
+1 |
 
-100
-
-|
-
-Directeur du service logistique de la marine et directeur de l'antenne navale du centre d'expertise du soutien du combattant et des forces
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors de force
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef d'état-major du commandant de la force d'action navale
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint organique à Brest au commandant de la force d'action navale
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au commandant des forces sous-marines et de la force océanique stratégique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant du centre d'études stratégiques de la marine, délégué au rayonnement de la marine et commandant de la marine à Paris
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur local du service de soutien de la flotte
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant de l'école navale et du groupe des écoles du Poulmic
-
-|
-
-1
-
-|
-
-80
-
-|
+80 |

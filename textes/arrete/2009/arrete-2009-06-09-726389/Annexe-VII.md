@@ -4,26 +4,18 @@ TABLEAU VII
 
 Fonctions relevant du service des essences des armées
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Directeur de l'exploitation et de la logistique pétrolière interarmées |
 
-Directeur de l'exploitation et de la logistique pétrolière interarmées
-
-|
-
-1
-
-|
+1 |
 
 100 |

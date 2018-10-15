@@ -4,364 +4,204 @@ TABLEAU II
 
 Fonctions relevant de l'armée de terre
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE
 
-NOMBRE D'EMPLOIS
-
-|
+D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-par emploi
+PAR EMPLOI |
 
-|
+Commandant des forces terrestres |
 
-Commandant des forces terrestres
+1 |
 
-|
+140 |
 
-1
+Commandant d'unité spécialisée |
 
-|
+6 |
 
-140
+100 |
 
-|
+Commandant de brigade interarmes |
 
-Commandant de brigade spécialisée
+7 |
 
-|
+100 |
 
-4
+Commandant de la légion étrangère |
 
-|
+1 |
 
-100
+100 |
 
-|
+Commandant de l'aviation légère de l'armée de terre |
 
-Commandant de brigade interarmes
+1 |
 
-|
+100 |
 
-7
+Commandant du corps européen |
 
-|
+1 |
 
-100
+100 |
 
-|
+Commandant du quartier général du corps de réaction rapide-France |
 
-Commandant de la légion étrangère
+1 |
 
-|
+100 |
 
-1
+Commandant de division |
 
-|
+2 |
 
-100
+100 |
 
-|
+Directeur de la section technique de l'armée de terre |
 
-Commandant de l'aviation légère de l'armée de terre
+1 |
 
-|
+100 |
 
-1
+Chef d'état-major du commandement des forces terrestres |
 
-|
+1 |
 
-100
+100 |
 
-|
+Commandant de la brigade franco-allemande |
 
-Commandant du corps européen
+1 |
 
-|
+100 |
 
-1
+Directeur du service de la maintenance industrielle terrestre |
 
-|
+1 |
 
-100
+100 |
 
-|
+Commandant en second des forces terrestres |
 
-Commandant du quartier général du corps de réaction rapide-France
+1 |
 
-|
+100 |
 
-1
+Général-adjoint au commandant des forces terrestres |
 
-|
+1 |
 
-100
+100 |
 
-|
+Chef de division au commandement des forces terrestres |
 
-Commandant d'état-major de forces
+3 |
 
-|
+80 |
 
-2
+Officier général chef du pôle relations internationales |
 
-|
+1 |
 
-100
+80 |
 
-|
+Officier général haut encadrement militaire |
 
-Directeur de la section technique de l'armée de terre
+1 |
 
-|
+80 |
 
-1
+Commandant des écoles militaires de Draguignan |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant des écoles militaires de Bourges |
 
-Chef d'état-major du commandement des forces terrestres
+1 |
 
-|
+80 |
 
-1
+Commandant de l'école du Génie et commandant de la base de défense d'Angers-le Mans-Saumur |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant de l'école de cavalerie Saumur |
 
-Commandant de la brigade franco-allemande
+1 |
 
-|
+80 |
 
-1
+Commandant de l'état-major spécialisé outre-mer et étranger |
 
-|
+1 |
 
-100
+80 |
 
-|
+Général adjoint au commandant du corps de réaction rapide européen |
 
-Directeur du service de la maintenance industrielle terrestre
+1 |
 
-|
+80 |
 
-1
+Chef d'état-major du quartier général du corps de réaction rapide-France |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant des écoles du combat interarmes |
 
-Commandant en second des forces terrestres
+1 |
 
-|
+100 |
 
-1
+Commandant des écoles de Coëtquidan |
 
-|
+1 |
 
-100
+80 |
 
-|
+Commandant de l'école nationale des sous-officiers d'active |
 
-Général-adjoint au commandant des forces terrestres
+1 |
 
-|
+80 |
 
-2
+Directeur de la doctrine et de l'enseignement du commandement |
 
-|
+1 |
 
-100
+80 |
 
-|
+Adjoint à un commandant de division |
 
-Commandant de division au commandement des forces terrestres
+2 |
 
-|
+80 |
 
-7
+Adjoint à un commandant d'unité spécialisée |
 
-|
+4 |
 
-80
+80 |
 
-|
+Adjoint au sous-chef d'état-major plans et programmes de l'état-major de l'armée de terre |
 
-Officier général chargé du pôle relations internationales
+2 |
 
-|
+80 |
 
-1
+Adjoint au sous-chef d'état-major performance et synthèse de l'état-major de l'armée de terre |
 
-|
+2 |
 
-80
-
-|
-
-Commandant des écoles militaires de Draguignan
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant des écoles militaires de Bourges
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant des écoles militaires de Saumur
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au commandant du corps de réaction rapide européen
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef d'état-major du quartier général du corps de réaction rapide-France
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant de la division opérations au quartier général du corps de réaction rapide-France
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant du centre de préparation des forces
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Commandant des écoles de Coëtquidan
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant de l'école nationale des sous-officiers d'active
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur de la doctrine d'emploi des forces
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint à un commandant d'état-major de forces
-
-|
-
-2
-
-|
-
-80
-
-|
-
-Général adjoint synthèse de l'état-major de l'armée de terre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au sous-chef d'état-major plans et programmes de l'état-major de l'armée de terre
-
-|
-
-2
-
-|
-
-80
-
-|
+80 |
