@@ -18,6 +18,8 @@ II. ― Pour le transport de voyageurs :
 
 - certificat d'aptitude professionnelle (CAP) agent d'accueil et de conduite routière, transport de voyageurs ;
 
-- titre professionnel (TP) de conducteur routier du transport routier interurbain de voyageurs (CTRIV) délivré par le ministre chargé de l'emploi et de la formation professionnelle ;
+- titre professionnel (TP) de conducteur routier du transport routier interurbain de voyageurs (CTRIV) délivré par le ministre du travail chargé de la formation professionnelle avant le 7 août 2019 ;
 
-- titre professionnel (TP) d'agent commercial et de conduite du transport routier urbain de voyageurs (ACCTRUV) délivré par le ministre chargé de l'emploi et de la formation professionnelle.
+- titre professionnel (TP) d'agent commercial et de conduite du transport routier urbain de voyageurs (ACCTRUV) délivré par le ministre du travail chargé de la formation professionnelle avant le 7 août 2016 ;
+
+- titre professionnel (TP) de conducteur du transport en commun sur route délivré par le ministre du travail chargé de la formation professionnelle.
