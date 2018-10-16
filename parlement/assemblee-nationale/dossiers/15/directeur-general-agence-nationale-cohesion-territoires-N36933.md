@@ -1,0 +1,61 @@
+# Directeur général de l'Agence nationale de la cohésion des territoires
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N36933
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/directeur_general_agence_nationale_cohesion_territoires
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-043.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-10-16 : 1er dépôt d'une initiative. (PIONSNR5S319B0043)
+  - 2018-10-17 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+  - Discussion en séance publique
+    - 2018-11-08 : Discussion en séance publique
+    - 2018-11-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2018-11-09 : Dépôt d'une initiative en navette (PIONANR5L15B1394)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-09 : Renvoi en commission au fond
+      - 2018-11-21 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-30 : Dépôt de rapport (RAPPANR5L15B1622, PIONANR5L15BTC1622)
+    - Travaux d'une commission saisie pour avis
+      - 2018-11-13 : Saisine pour avis d'une commission
+      - 2018-11-14 : Nomination de rapporteur
+      - 2018-11-14 : Réunion de commission
+      - 2019-01-29 : Réunion de commission
+      - 2019-01-29 : Réunion de commission
+      - 2019-01-29 : Dépôt de rapport (AVISANR5L15B1620)
+  - Discussion en séance publique
+    - 2019-03-11 : Discussion en séance publique
+    - 2019-03-11 : Discussion en séance publique
+    - 2019-03-12 : Discussion en séance publique
+    - 2019-03-12 : Discussion en séance publique
+    - 2019-03-12 : Décision
+- Commission Mixte Paritaire
+  - 2019-03-13 : Dépôt d'un projet de loi (PIONSNR5S319B0377)
+  - 2019-03-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-04-03 : Nomination de rapporteur
+    - 2019-04-03 : Dépôt du rapport d'une CMP (RAPPANR5L15B1835, PIONANR5L15BTC1835)
+    - 2019-04-03 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0431, PIONSNR5S319BTC0432)
+  - Discussion en séance publique
+    - 2019-06-20 : Discussion en séance publique
+    - 2019-06-20 : Décision
+  - Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+  - 2019-04-04 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-07-10 : Saisine du conseil constitutionnel
+  - 2019-07-25 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-07-26 : Promulgation d'une loi
