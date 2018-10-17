@@ -1,0 +1,65 @@
+# Amélioration de la trésorerie des associations
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36916
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/amelioration_tresorerie_associations
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-410.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-10-17 : 1er dépôt d'une initiative. (PIONANR5L15B1329)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-10-17 : Renvoi en commission au fond
+      - 2018-11-07 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2018-11-21 : Dépôt de rapport (RAPPANR5L15B1415, PIONANR5L15BTC1415)
+  - Discussion en séance publique
+    - 2018-11-29 : Discussion en séance publique
+    - 2019-03-26 : Discussion en séance publique
+    - 2019-03-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-03-27 : Dépôt d'une initiative en navette (PIONSNR5S319B0410)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-06-26 : Dépôt de rapport (RAPPSNR5S319B0599, PIONSNR5S319BTC0600)
+  - Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+- deuxième lecture
+  - 2019-07-10 : Dépôt d'une initiative en navette (PIONANR5L15B2127)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-10 : Renvoi en commission au fond
+      - 2019-11-20 : Réunion de commission
+      - 2019-11-27 : Réunion de commission
+      - 2019-11-20 : Dépôt de rapport (RAPPANR5L15B2432, PIONANR5L15BTC2432)
+  - Discussion en séance publique
+    - 2019-11-28 : Discussion en séance publique
+    - 2019-11-28 : Décision
+- deuxième lecture
+  - 2019-11-28 : Dépôt d'une initiative en navette (PIONSNR5S339B0160)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-11-28 : Renvoi en commission au fond
+      - 2021-05-12 : Dépôt de rapport (RAPPSNR5S359B0579, PIONSNR5S359BTC0580)
+  - Discussion en séance publique
+    - 2021-05-20 : Décision
+- troisième lecture
+  - 2021-05-20 : Dépôt d'une initiative en navette (PIONANR5L15B4183)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-20 : Renvoi en commission au fond
+      - 2021-06-02 : Nomination de rapporteur
+      - 2021-06-02 : Réunion de commission
+      - 2021-06-16 : Réunion de commission
+      - 2021-06-16 : Dépôt de rapport (RAPPANR5L15B4263, PIONANR5L15BTC4263)
+  - Discussion en séance publique
+    - 2021-06-24 : Discussion en séance publique
+    - 2021-06-24 : Décision
+- Promulgation de la loi
+  - 2021-07-01 : Promulgation d'une loi
