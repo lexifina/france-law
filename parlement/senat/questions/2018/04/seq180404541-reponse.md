@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404541
+
+- Question : [SEQ180404541](seq180404541.md) — Situation des pharmacies
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-10-18, page 5356*
+
+Le Gouvernement est soucieux de préserver le maillage officinal et de garantir à la population un égal accès aux médicaments sur l'ensemble du territoire. L'ordonnance n° 2018-3 du 3 janvier 2018 « relative à l'adaptation des conditions de création, transfert, regroupement et cession des officines de pharmacie » issue de la loi du 26 janvier 2016 de modernisation de notre système de santé présente des mesures qui répondent aux besoins de la population et aux préoccupations de la profession pharmaceutique. Cette ordonnance ne vise pas à supprimer des officines, son objectif est de favoriser une répartition plus harmonieuse des pharmacies d'officine en assouplissant les règles applicables à leurs transferts et regroupements. Des dispositions permettent de faciliter les regroupements de pharmacies issues de communes en surdensité officinale vers des communes dont le nombre d'habitants par pharmacie fait apparaître un besoin. À cette fin, deux ou plus de deux pharmacies pourront être autorisées à se regrouper en tout point du territoire national, la réglementation antérieure ne leur permettant de s'établir que dans l'une de leurs communes d'origine. La prise en compte, non plus de la seule population résidente, mais également des flux de population et de leurs nouveaux modes de vie, élargira les possibilités pour une pharmacie de se rapprocher d'une maison de santé ou d'un centre commercial de proximité pour répondre au mieux aux besoins de la population. La préservation du monopole officinal prévu par le code de la santé publique s'inscrit dans la même volonté de garantir à la population un accès aux médicaments assorti d'une dispensation sécurisée.
