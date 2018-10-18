@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605787
+
+- Question : [SEQ180605787](seq180605787.md) — Organisation de la semaine scolaire sur quatre jours dans les écoles maternelles et élémentaires publiques
+
+## Réponse
+
+*Éducation nationale, JO du 2018-10-18, page 5336*
+
+L'organisation de la semaine scolaire relève d'un cadre général ou d'un cadre dérogatoire définis aux articles D. 521-10 et suivants du code de l'éducation. La semaine scolaire du cadre général comporte vingt-quatre heures d'enseignement réparties sur neuf demi-journées. Elle inclut le mercredi matin, avec une durée d'enseignement de cinq heures trente par jour au maximum et de trois heures trente par demi-journée. Le ministère ne dispose, avant la rentrée scolaire, que de données déclaratives et non exhaustives. Selon les informations disponibles à la date du 23 juillet 2018, la semaine scolaire du cadre général devrait concerner environ 16 % des organisations du temps scolaire (OTS) des écoles publiques, étant précisé qu'une école primaire dotée à la fois d'une école maternelle et d'une école élémentaire peut comporter deux organisations du temps scolaires différentes. Cela correspond environ à 18 % des effectifs, de l'ordre de 744 000 élèves. S'agissant des OTS dérogatoires, selon les données disponibles à la date du 23 juillet 2018, l'on distingue : celles qui comportent neuf demi-journées (dérogations aux maxima horaires et / ou enseignement le samedi matin) : 3 % des OTS et 3,7 % des effectifs, soit environ 210 000 élèves ; celles qui comptent huit demi-journées, dont cinq matinées (avec regroupement des activités périscolaires sur un après-midi) : 1,4 % des OTS et 1,6 % des effectifs, soit environ 90 000 élèves ; celles qui comprennent huit demi-journées sur quatre jours : environ 84 % des OTS et 82 % des effectifs, soit environ 4,7 millions d'élèves.
