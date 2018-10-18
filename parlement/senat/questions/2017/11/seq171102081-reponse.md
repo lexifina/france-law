@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102081
+
+- Question : [SEQ171102081](seq171102081.md) — Adaptation de la législation sur l'urbanisme au département des Côtes-d'Armor
+
+## Réponse
+
+*Cohésion des territoires, JO du 2018-10-18, page 5306*
+
+La loi littoral participe depuis plus de 30 ans à la protection des espaces naturels littoraux et à la lutte contre leur artificialisation. C'est une loi toujours d'actualité, en ce que le législateur est parti du principe que l'aménagement équilibré de nos littoraux, parfois très différents les uns des autres, suppose d'élaborer, en amont, des projets de territoires à une échelle permettant d'associer à la bande côtière l'interface terre-mer et l'arrière-pays. Les objectifs qu'elle porte, tendant à prévenir le mitage et à préserver les espaces naturels à enjeux, sont plus que jamais d'actualité alors que le réchauffement climatique a des conséquences significatives, à la fois sur les équilibres écologiques et sociaux. Trente ans après l'adoption de la loi Littoral, l'enjeu reste de taille, alors que, sur le littoral, la densité de population est 2,5 fois plus élevée que la moyenne nationale de métropole (2010), que la progression de l'artificialisation des sols était encore, entre 2000 et 2006, 2,7 fois plus importante qu'à l'intérieur des terres, et que la superficie des terres agricoles s'est réduite de 20 % en 30 ans, soit une diminution trois fois plus importante que la moyenne nationale. Le Gouvernement a conscience des difficultés constatées sur le terrain et la pédagogie qui reste à porter auprès des élus locaux. Il a engagé, dans ce cadre, une analyse croisée des difficultés locales afin d'en tirer un retour d'expérience et évaluer, le cas échéant, des ajustements necessaires. Le projet de loi portant évolution du logement, de l'aménagement et du numérique (Elan) a recherché à ce titre la voie d'un équilibre respectant les fondamentaux de la loi littoral.
