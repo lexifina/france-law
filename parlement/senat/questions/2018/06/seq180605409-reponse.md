@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605409
+
+- Question : [SEQ180605409](seq180605409.md) — Situation des équipes d'entraînement des médaillés olympiques et paralympiques
+
+## Réponse
+
+*Sports, JO du 2018-10-18, page 5361*
+
+Contrairement aux primes versées par l'État aux sportifs médaillés, les primes olympiques et paralympiques versées aux entraîneurs par les fédérations sont effectivement soumises à cotisations sociales. Il convient, cependant, de préciser qu'en application de l'article 80 de la loi n° 2015-1785 du 29 décembre 2015, dont les dispositions ont été codifiées à l'article 163-0 A ter du code des impôts, les entraîneurs des sportifs médaillés peuvent bénéficier, pour l'établissement de l'impôt sur le revenu lié à ces primes, d'un étalement sur quatre ans. De manière générale, la question de la valorisation de l'encadrement sportif concourant à la performance est au cœur de la réflexion menée actuellement par le ministère des sports et initiée en septembre 2017 par la ministre dans le cadre de la mission d'étude pour la haute performance sportive confiée à Claude Onesta. Depuis mai 2018, dans la continuité de ces travaux, la mission « Performance 2024 » est ainsi chargée de définir les axes de travail d'un nouvel environnement de la performance et les modalités d'intervention de l'État. Une meilleure identification des entraîneurs de la haute performance est notamment préconisée afin de mieux cibler les dispositifs de nature à accompagner leur montée en compétences, à anticiper leur renouvellement et à sécuriser leur situation financière. Une approche globale de la situation des différents intervenants de la haute performance apparaît en effet incontournable pour répondre au mieux à l'ambition de la France dans la perspective des Jeux olympiques et paralympiques de Tokyo en 2020 et de Paris en 2024.
