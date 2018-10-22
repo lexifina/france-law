@@ -60,17 +60,17 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre d'analyse et d'exploitation
 
-Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+-Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
-Chef d'une division à la direction de la coopération internationale
+-Chef d'une division à la direction de la coopération internationale
 
-Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
+-Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
 
-Chargé de fonction à la mission numérique de la gendarmerie nationale
+-Chargé de fonction à la mission numérique de la gendarmerie nationale
 
-Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
+-Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
-Au service de l'achat, des équipements et de la logistique de la sécurité intérieure, chef du bureau :
+-Au service de l'achat, des équipements et de la logistique de la sécurité intérieure, chef du bureau :
 
 -de la gestion des équipements
 
@@ -80,7 +80,7 @@ Au service de l'achat, des équipements et de la logistique de la sécurité int
 
 2° Inspection générale de la gendarmerie nationale :
 
-Chef du bureau :
+-Chef du bureau :
 
 -d'audit financier administratif et technique
 
@@ -90,7 +90,7 @@ Chef du bureau :
 
 3° Gendarmerie départementale :
 
-Chef de la division des opérations de la région de gendarmerie :
+-Chef de la division des opérations de la région de gendarmerie :
 
 -d'Aquitaine
 
@@ -98,7 +98,7 @@ Chef de la division des opérations de la région de gendarmerie :
 
 -de Bretagne
 
--de Centre-Val-de-Loire
+-de Centre-Val de Loire
 
 -de Corse
 
@@ -108,11 +108,11 @@ Chef de la division des opérations de la région de gendarmerie :
 
 -du Nord-Pas-de-Calais
 
--de Provence-Alpes-Côte-d'Azur
+-de Provence-Alpes-Côte d'Azur
 
 -de Rhône-Alpes
 
-Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
 -du Puy-de-Dôme
 
@@ -128,7 +128,7 @@ Chef de la division des opérations du groupement de gendarmerie départementale
 
 -de la Vienne
 
-Commandant en second du groupement de gendarmerie départementale :
+-Commandant en second du groupement de gendarmerie départementale :
 
 -de l'Ain
 
@@ -234,7 +234,7 @@ Commandant en second du groupement de gendarmerie départementale :
 
 -de la Nièvre
 
--de la Orne
+-de l'Orne
 
 -des Pyrénées-Atlantiques
 
@@ -246,7 +246,7 @@ Commandant en second du groupement de gendarmerie départementale :
 
 -de la Savoie
 
--de Seine-et-Marne
+-de la Seine-et-Marne
 
 -du Tarn
 
@@ -268,7 +268,7 @@ Commandant en second du groupement de gendarmerie départementale :
 
 -des Yvelines
 
-Commandant de la compagnie de gendarmerie départementale :
+-Commandant de la compagnie de gendarmerie départementale :
 
 -d'Aix-en-Provence
 
@@ -350,7 +350,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Evry
 
--de la Flèche
+-de La Flèche
 
 -de Gex
 
@@ -358,7 +358,9 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Grenoble
 
--de l'Isle-Adam
+-de L'Isle-Adam
+
+-de Langon-Toulenne
 
 -de Libourne
 
@@ -426,7 +428,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Rezé
 
--de la Roche-sur-Yon
+-de La Roche-sur-Yon
 
 -de Rochefort
 
@@ -476,7 +478,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de Vitré
 
-Commandant de la section de recherches :
+-Commandant de la section de recherches :
 
 -de Besançon
 
@@ -506,9 +508,9 @@ Commandant de la section de recherches :
 
 4° Outre-mer :
 
-Commandant en second de la gendarmerie de Mayotte
+-Commandant en second de la gendarmerie de Mayotte
 
-Commandant de la section de recherche :
+-Commandant de la section de recherche :
 
 -de Cayenne
 
@@ -518,7 +520,7 @@ Commandant de la section de recherche :
 
 -de Saint-Denis
 
-Commandant de la compagnie de gendarmerie départementale de :
+-Commandant de la compagnie de gendarmerie départementale de :
 
 -de Saint-Paul
 
@@ -526,76 +528,74 @@ Commandant de la compagnie de gendarmerie départementale de :
 
 5° Gendarmeries spécialisées :
 
-Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+-Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
-Commandant en second d'un groupement de gendarmerie de l'air
+-Commandant en second d'un groupement de gendarmerie de l'air
 
-Commandant en second d'un groupement de gendarmerie maritime
+-Commandant en second d'un groupement de gendarmerie maritime
 
-Commandant en second d'un groupement de la gendarmerie des transports aériens
+-Commandant en second d'un groupement de la gendarmerie des transports aériens
 
-Commandant de la section de recherches de la gendarmerie des transports aériens
+-Commandant de la section de recherches de la gendarmerie des transports aériens
 
-Chef de la division des opérations de la gendarmerie de l'air
+-Chef de la division des opérations de la gendarmerie de l'air
 
-Chef de la division des opérations de la gendarmerie maritime
+-Chef de la division des opérations de la gendarmerie maritime
 
-Chef d'état-major de la gendarmerie de l'armement
+-Chef d'état-major de la gendarmerie de l'armement
 
 6° Autres emplois :
 
-Chef d'une division au commandement spécialisé pour la sécurité nucléaire
+-Chef du service de développement et de mise en œuvre des logiciels
 
-Chef du service de développement et de mise en œuvre des logiciels
+-Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
 
-Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
+-Commandant en second du service central de renseignement criminel de la gendarmerie nationale
 
-Commandant en second du service central de renseignement criminel de la gendarmerie nationale
+-Commandant en second de la gendarmerie prévôtale
 
-Commandant en second de la gendarmerie prévôtale
+-Commandant du groupe de sécurité de la présidence de la République
 
-Commandant du groupe de sécurité de la présidence de la République
+-Chef adjoint de l'unité de coordination des forces d'intervention
 
-Chef adjoint de l'unité de coordination des forces d'intervention
+-Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
-Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
+-Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
 
-Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
+-Chef du centre national d'administration de la solde gendarmerie
 
-Chef du centre national d'administration de la solde gendarmerie
+-Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
-Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+-Officier de liaison auprès de l'association des maires de France
 
-Officier de liaison auprès de l'association des maires de France
+-Officier de liaison référent intelligence économique à l'assemblée des départements de France
 
-Officier de liaison référent intelligence économique à l'assemblée des départements de France
+-Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
-Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
+-Commandant en second de l'office central de lutte contre la délinquance itinérante
 
-Commandant en second de l'office central de lutte contre la délinquance itinérante
+-Commandant en second de l'office central de lutte contre le travail illégal
 
-Commandant en second de l'office central de lutte contre le travail illégal
+-Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
 
-Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
+-Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
 
-Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
+-Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
-Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+-Chef du centre de lutte contre les cyber-criminalités numériques
 
-Chef du centre de lutte contre les cyber-criminalités numériques
+-Chef de la trésorerie militaire de la solde gendarmerie
 
-Chef de la trésorerie militaire de la solde gendarmerie
+-Chef de division au service central du renseignement territorial (2 emplois)
 
-Chef de division au service central du renseignement territorial (2 emplois)
+-Chef de division à la direction de la coopération internationale
 
-Chef de division à la direction de la coopération internationale
-
-Chef de division au commandement spécialisé pour la sécurité nucléaire
+-Chef de département au commandement spécialisé pour la sécurité nucléaire
 
 7° Ecoles :
 
-Commandant de groupement à l'école des officiers de la gendarmerie nationale
+-Commandant de groupement à l'école des officiers de la gendarmerie nationale
 
-Commandant du groupement de l'école de guerre
+-Commandant du groupement de l'école de guerre
 
-Commandant du centre d'enseignement supérieur de la gendarmerie
+-Commandant du centre d'enseignement supérieur de la gendarmerie

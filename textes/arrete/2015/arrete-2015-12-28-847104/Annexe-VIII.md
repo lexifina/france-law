@@ -4,7 +4,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Gendarmerie départementale :
 
-Commandant en second de la section de recherches :
+-Commandant en second de la section de recherches :
 
 -de Besançon
 
@@ -34,7 +34,7 @@ Commandant en second de la section de recherches :
 
 -de Rouen
 
-Commandant de l'escadron départemental de sécurité routière :
+-Commandant de l'escadron départemental de sécurité routière :
 
 -des Alpes-de-Haute-Provence
 
@@ -90,7 +90,7 @@ Commandant de l'escadron départemental de sécurité routière :
 
 -des Vosges
 
-Commandant en second de l'escadron départemental de sécurité routière :
+-Commandant en second de l'escadron départemental de sécurité routière :
 
 -de l'Ain
 
@@ -116,7 +116,7 @@ Commandant en second de l'escadron départemental de sécurité routière :
 
 -de la Corrèze
 
--des Côtes d'Armor
+-des Côtes-d'Armor
 
 -de Côte-d'Or
 
@@ -128,7 +128,7 @@ Commandant en second de l'escadron départemental de sécurité routière :
 
 -de l'Eure
 
--de l'Eure-et-Loir
+-d'Eure-et-Loir
 
 -du Finistère
 
@@ -162,15 +162,15 @@ Commandant en second de l'escadron départemental de sécurité routière :
 
 -de la Loire
 
--de Loire-Atlantique
+-de la Loire-Atlantique
 
 -du Loiret
 
--du Loir-et-Cher
+-de Loir-et-Cher
 
 -du Lot
 
--du Lot-et-Garonne
+-de Lot-et-Garonne
 
 -de Maine-et-Loire
 
@@ -206,9 +206,9 @@ Commandant en second de l'escadron départemental de sécurité routière :
 
 -de la Savoie
 
--de Seine-et-Marne
+-de la Seine-et-Marne
 
--de Seine-Maritime
+-de la Seine-Maritime
 
 -de la Somme
 
@@ -224,7 +224,7 @@ Commandant en second de l'escadron départemental de sécurité routière :
 
 -des Yvelines
 
-Commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Abbeville
 
@@ -304,8 +304,6 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Boulay-Moselle
 
--de la Bourboule (jusqu'au 1er septembre 2018)
-
 -de Bourges
 
 -de Bressuire
@@ -337,6 +335,8 @@ Commandant en second de la compagnie de gendarmerie départementale :
 -de Charolles
 
 -de Château-Chinon-Ville
+
+-de Château-Thierry-Nogentel
 
 -de Châteaubriant
 
@@ -522,7 +522,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Moulins
 
--de la Mure
+-de La Mure
 
 -de Neufchâteau
 
@@ -606,7 +606,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Roanne
 
--de la Rochelle
+-de La Rochelle
 
 -de Romorantin-Lanthenay
 
@@ -682,7 +682,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Toul
 
--de la Tour-du-Pin
+-de La Tour-du-Pin
 
 -de Tours
 
@@ -692,7 +692,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Valenciennes
 
--de la Valette du Var
+-de La Valette-du-Var
 
 -de Vendôme
 
@@ -722,79 +722,79 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Yvetot
 
-Commandant d'une brigade départementale de renseignements et d'investigations judiciaires
+-Commandant d'une brigade départementale de renseignements et d'investigations judiciaires
 
-Chef d'un centre d'opérations et de renseignement de la gendarmerie
+-Chef d'un centre d'opérations et de renseignement de la gendarmerie
 
-Chef de centre d'opérations de la gendarmerie
+-Chef de centre d'opérations de la gendarmerie
 
-Chef de détachement territorial au sein d'une section de recherche
+-Chef de détachement territorial au sein d'une section de recherche
 
-Commandant d'un peloton de gendarmerie de montagne
+-Commandant d'un peloton de gendarmerie de montagne
 
-Commandant d'un détachement de peloton de gendarmerie de haute montagne
+-Commandant d'un détachement de peloton de gendarmerie de haute montagne
 
-Commandant d'une communauté de brigades territoriales
+-Commandant d'une communauté de brigades territoriales
 
-Commandant d'une brigade de recherches
+-Commandant d'une brigade de recherches
 
-Commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
+-Commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
 
-Commandant d'une brigade territoriale autonome
+-Commandant d'une brigade territoriale autonome
 
-Commandant d'un peloton d'autoroute
+-Commandant d'un peloton d'autoroute
 
-Commandant d'une brigade motorisée
+-Commandant d'une brigade motorisée
 
-Commandant d'un peloton motorisé
+-Commandant d'un peloton motorisé
 
-Commandant d'un peloton de surveillance et d'intervention gendarmerie
+-Commandant d'un peloton de surveillance et d'intervention gendarmerie
 
 2° Gendarmerie mobile-Garde républicaine :
 
-Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
+-Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
 
-Commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
+-Commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
 
-Commandant d'un peloton de véhicules blindés
+-Commandant d'un peloton de véhicules blindés
 
-Commandant d'un peloton d'intervention outre-mer
+-Commandant d'un peloton d'intervention outre-mer
 
-Commandant de l'escadron de cavalerie hors rang de la garde républicaine
+-Commandant de l'escadron de cavalerie hors rang de la garde républicaine
 
-Commandant de la compagnie de soutien opérationnel de la garde républicaine
+-Commandant de la compagnie de soutien opérationnel de la garde républicaine
 
-Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
+-Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
 
-Commandant de l'escadron de sécurité et d'appui du groupement de gendarmerie mobile de Maisons-Alfort
+-Commandant de l'escadron de sécurité et d'appui du groupement de gendarmerie mobile de Maisons-Alfort
 
 3° Gendarmeries spécialisées :
 
-Commandant en second de la section de recherche de la gendarmerie de l'air
+-Commandant en second de la section de recherche de la gendarmerie de l'air
 
-Commandant en second de la section de recherche de la gendarmerie de l'armement
+-Commandant en second de la section de recherche de la gendarmerie de l'armement
 
-Commandant en second de la section de recherche de la gendarmerie maritime
+-Commandant en second de la section de recherche de la gendarmerie maritime
 
-Commandant en second de la section de recherches de la gendarmerie des transports aériens
+-Commandant en second de la section de recherches de la gendarmerie des transports aériens
 
-Commandant en second d'une compagnie de gendarmerie maritime
+-Commandant en second d'une compagnie de gendarmerie maritime
 
-Commandant en second d'une compagnie de la gendarmerie des transports aériens
+-Commandant en second d'une compagnie de la gendarmerie des transports aériens
 
-Commandant en second d'une compagnie de la gendarmerie de l'armement
+-Commandant en second d'une compagnie de la gendarmerie de l'armement
 
 4° Ecoles :
 
-Commandant d'une compagnie d'instruction au sein d'une école de gendarmerie
+-Commandant d'une compagnie d'instruction au sein d'une école de gendarmerie
 
-Commandant de peloton à l'école des officiers de la gendarmerie nationale
+-Commandant de peloton à l'école des officiers de la gendarmerie nationale
 
-Chef de la classe préparatoire intégrée de la gendarmerie nationale
+-Chef de la classe préparatoire intégrée de la gendarmerie nationale
 
 Commandement des forces aériennes de la gendarmerie :
 
-Commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (20 emplois)
+-Commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (20 emplois)
 
 5° Outre-mer :
 
@@ -832,9 +832,9 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de la Trinité
 
-Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
+-Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
 
-Commandant en second de la section de recherches :
+-Commandant en second de la section de recherches :
 
 -de Cayenne
 
@@ -850,20 +850,20 @@ Commandant en second de la section de recherches :
 
 -de Saint-Denis
 
-Commandant d'une brigade de renseignements et d'investigations judiciaires
+-Commandant d'une brigade de renseignements et d'investigations judiciaires
 
 6° Autres emplois :
 
-Commandant en second de la gendarmerie des voies navigables
+-Commandant en second de la gendarmerie des voies navigables
 
-Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
+-Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
-Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
+-Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois
 
-Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
+-Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 
-Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
-Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
-Chef d'un service expert ressources humaines
+-Chef d'un service expert ressources humaines
