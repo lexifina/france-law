@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505283
+
+- Question : [SEQ180505283](seq180505283.md) — Critères d'attribution du label des « librairies indépendantes de référence »
+
+## Réponse
+
+*Premier ministre, JO du 2018-10-25, page 5447*
+
+Le ministère de la Culture met en œuvre, depuis 2009, un dispositif de labellisation des librairies indépendantes, dont l'objectif est de distinguer les établissements qui contribuent à la diffusion de la création éditoriale et à l'animation culturelle des territoires. Le label de librairie indépendante de référence (LIR) ouvre effectivement la possibilité d'une exonération de cotisation économique territoriale (CET), laissée à la discrétion des collectivités. Cette exonération fiscale, accordée en contrepartie des investissements consentis par les librairies labellisées et concourant à l'animation commerciale et culturelle des villes où elles sont établies, permet ainsi de compenser les charges supportées par ces librairies (proposition d'une offre diversifiée, recours à un personnel qualifié, organisation régulière d'animations de qualité…). En outre, elle contribue à consolider le réseau des commerces de livres sur l'ensemble du territoire. À la suite d'un amendement introduit lors de l'examen au Sénat du projet de loi de finances pour l'année 2018, qui visait à élargir le périmètre des librairies éligibles au label LIR, une mission a bien été confiée à l'inspection générale des affaires culturelles du ministère de la Culture, afin d'une part d'évaluer ce dispositif, et d'autre part de formuler des propositions en réponse aux difficultés spécifiques rencontrées par certaines librairies ne remplissant pas les conditions leur permettant de prétendre à ce label. Le Gouvernement, à la lumière des préconisations de ce rapport, pourrait prochainement envisager une mesure législative visant à aménager le dispositif actuel d'exonération de CET.
