@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906952
+
+- Question : [SEQ180906952](seq180906952.md) — Préconisations du rapport « action publique 2022 » en matière de décentralisation
+
+## Réponse
+
+*Premier ministre, JO du 2018-10-25, page 5448*
+
+Si les propositions ambitieuses du rapport du comité d'action publique 2022 ont constitué un apport essentiel dans la réflexion et l'élaboration des plans de transformation ministériels, elles ne constituent pas la feuille de route du Gouvernement. S'agissant de la répartition des compétences entre l'Etat et les collectivités territoriales, le Premier ministre a adressé, le 24 juillet 2018, une circulaire à l'ensemble des ministres et des préfets relative à l'organisation territoriale des services publics. Elle lance un travail de clarification des compétences qui doit permettre de recentrer et de renforcer l'intervention de l'État territorial sur la base de trois principes clairs. Tout d'abord, partir des attentes des usagers : l'État déconcentré doit être un État au service des besoins concrets et quotidiens de nos concitoyens. Ensuite, se positionner au plus près du terrain. Cela induit que l'État territorial exerce au maximum ses missions au niveau départemental et infra-départemental. Enfin, autoriser la différenciation car l'idée d'un modèle unique d'organisation plaqué sur l'ensemble des territoires a atteint ses limites. Il faut permettre aux services déconcentrés de s'adapter aux spécificités locales. Par ailleurs, certaines compétences qui font l'objet d'une intrication très grande avec les collectivités ont effectivement vocation à être revues. La circulaire du 24 juillet fixe des grandes orientations en mentionnant les champs concernés. Des propositions sont attendues des préfets pour la deuxième quinzaine d'octobre. Elles seront concertées et présentées d'ici la fin de l'année 2018.
