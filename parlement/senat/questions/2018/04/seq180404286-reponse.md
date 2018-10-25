@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404286
+
+- Question : [SEQ180404286](seq180404286.md) — Statut de l'élu local
+
+## Réponse
+
+*Intérieur, JO du 2018-10-25, page 5459*
+
+Le Gouvernement n'ignore pas les problèmes se posant aux élus locaux qui consacrent leur temps et mettent leurs compétences au service de leurs concitoyens. En compensation des sujétions et des responsabilités résultant de leur charge publique, les élus locaux bénéficient de droits et de garanties issus de nombreuses dispositions législatives qui, depuis 1992, constituent un véritable statut de l'élu local. Depuis 2012, plusieurs lois ont successivement renforcé la protection sociale des élus locaux (loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013), facilité la conciliation entre l'exercice d'un mandat local et les vies professionnelle et familiale (loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux de leur mandat), renforcé le régime indemnitaire des élus (loi du 31 mars 2015 précitée et loi n° 2016-1500 du 8 novembre 2016 tendant à permettre le maintien de communes associées en cas de création d'une commune nouvelle), amélioré les modalités de la réinsertion professionnelle des élus locaux et de leur formation (loi du 31 mars 2015 précitée). Le président de la République a annoncé le 23 novembre 2017, à l'occasion de la clôture du congrès des maires, son souhait d'améliorer les conditions d'exercice des mandats locaux. Un chantier est dédié à cette thématique dans le cadre de la conférence nationale des territoires. Il pourra se nourrir des travaux engagés par la délégation du Sénat aux collectivités territoriales. Celle-ci a en effet constitué un groupe de travail qui a conduit une réflexion sur le statut des élus locaux traitant notamment du régime indemnitaire et qui présentera prochainement ses préconisations.
