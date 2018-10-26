@@ -724,15 +724,11 @@ Paris-Caracas ;
 
 Vietnam :
 
-Paris-Da Nang ;
-
 Paris-Hanoï ;
 
-Paris-Hô Chi Minh-Ville ;
+Paris-Hô Chi Minh-Ville,
 
-Paris-Huê ;
-
-Paris-Nha Trang ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie vietnamienne entre un point du territoire français et un point du territoire du Vietnam situé au-delà des points du territoire vietnamien mentionnés ci-dessus.
 
 Zambie :
 
