@@ -118,7 +118,7 @@ TDCP
 
 |
 
-Bisphénol A
+Bisphénol A (b)
 
 |
 
@@ -126,9 +126,7 @@ Bisphénol A
 
 |
 
-0,1 mg/l (limite de migration), conformément aux méthodes établies
-
-par les normes EN 71-10 : 2005 et EN 71-11 : 2005
+0,04 mg/ l (limite de migration), conformément aux méthodes établies par les normes EN 71-10 : 2005 et EN 71-11 : 2005
 
 |
 
@@ -152,9 +150,7 @@ Formamide
 
 |
 
-5 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10 : 2005 et EN 71-11 : 2005
-
-|
+5 mg/ kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10 : 2005 et EN 71-11 : 2005 |
 
 Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin-3-one [n° ce 247-500-7] et de la 2-méthyl-2h-isothiazol-3-one [n° ce 220-239-6] (3:1)
 
@@ -190,6 +186,14 @@ Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin-3-one [n° ce 247-500
 
 |
 
+Phénol (a) |
+
+108-95-2 |
+
+5 mg/ l (limite de migration) dans les matériaux polymères, conformément aux méthodes établies par les normes EN 71-10 : 2005 et EN 71-11 : 2005
+
+10 mg/ kg (teneur limite) pour les utilisations en tant qu'agent conservateur, conformément aux méthodes établies par les normes EN 71-10 : 2005 et EN 71-11 : 2005 |
+
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
 1. Les jouets ne contiennent pas les substances parfumantes allergisantes suivantes :
@@ -204,669 +208,337 @@ parfumante allergisante
 
 |
 
-NUMÉRO CAS
+NUMÉRO CAS |
 
-|
+(1) |
 
-(1)
+Huile de racine d'aunée (Inula helenium) |
 
-|
+97976-35-2 |
 
-Huile de racine d'aunée (Inula helenium)
+(2) |
 
-|
+Allylisothiocyanate |
 
-97976-35-2
+57-06-7 |
 
-|
+(3) |
 
-(2)
+Cyanure de benzyle |
 
-|
+140-29-4 |
 
-Allylisothiocyanate
+(4) |
 
-|
+4 tert-butylphénol |
 
-57-06-7
+98-54-4 |
 
-|
+(5) |
 
-(3)
+Huile de chénopode |
 
-|
+8006-99-3 |
 
-Cyanure de benzyle
+(6) |
 
-|
+Alcool de cyclamen |
 
-140-29-4
+4756-19-8 |
 
-|
+(7) |
 
-(4)
+Maléate diéthylique |
 
-|
+141-05-9 |
 
-4 tert-butylphénol
+(8) |
 
-|
+Dihydrocoumarine |
 
-98-54-4
+119-84-6 |
 
-|
+(9) |
 
-(5)
+2, 4-dihydroxy-3-methylbenzaldéhyde |
 
-|
+6248-20-0 |
 
-Huile de chénopode
+(10) |
 
-|
+3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol) |
 
-8006-99-3
+40607-48-5 |
 
-|
+(11) |
 
-(6)
+4, 6-diméthyle-8-tert-butylcoumarine |
 
-|
+17874-34-9 |
 
-Alcool de cyclamen
+(12) |
 
-|
+Citraconate de diméthyle |
 
-4756-19-8
+617-54-9 |
 
-|
+(13) |
 
-(7)
+7, 11-diméthyle-4, 6, 10-dodécatrien-3-one |
 
-|
+26651-96-7 |
 
-Maléate diéthylique
+(14) |
 
-|
+6, 10-diméthyle-3, 5, 9-undécatrien-2-one |
 
-141-05-9
+141-10-6 |
 
-|
+(15) |
 
-(8)
+Diphénylamine |
 
-|
+122-39-4 |
 
-Dihydrocoumarine
+(16) |
 
-|
+Acrylate d'éthyle |
 
-119-84-6
+140-88-5 |
 
-|
+(17) |
 
-(9)
+Feuille de figuier, fraîche et préparations |
 
-|
+68916-52-9 |
 
-2, 4-dihydroxy-3-methylbenzaldéhyde
+(18) |
 
-|
+trans-2-Hepténal |
 
-6248-20-0
+18829-55-5 |
 
-|
+(19) |
 
-(10)
+trans-2-Hexénal diéthyle acétal |
 
-|
+67746-30-9 |
 
-3, 7-diméthyle-2-octen-1-ol (6, 7-dihydrogéraniol)
+(20) |
 
-|
+trans-2-Hexénal dimethyle acétal |
 
-40607-48-5
+18318-83-7 |
 
-|
+(21) |
 
-(11)
+Alcool hydroabiétylique |
 
-|
+13393-93-6 |
 
-4, 6-diméthyle-8-tert-butylcoumarine
+(22) |
 
-|
+4-éthoxy-phénol |
 
-17874-34-9
+622-62-8 |
 
-|
+(23) |
 
-(12)
+6-décahydro-6-isopropyl-2-naphtol |
 
-|
+34131-99-2 |
 
-Citraconate de diméthyle
+(24) |
 
-|
+7-méthoxycoumarine |
 
-617-54-9
+531-59-9 |
 
-|
+(25) |
 
-(13)
+4-méthoxyphénol |
 
-|
+150-76-5 |
 
-7, 11-diméthyle-4, 6, 10-dodécatrien-3-one
+(26) |
 
-|
+4-(3-méthoxyphényl)-3-butane-2-one |
 
-26651-96-7
+943-88-4 |
 
-|
+(27) |
 
-(14)
+1-(p-méthoxyphényl)-1-pentène-3-one |
 
-|
+104-27-8 |
 
-6, 10-diméthyle-3, 5, 9-undécatrien-2-one
+(28) |
 
-|
+Méthyl trans-2-buténoate |
 
-141-10-6
+623-43-8 |
 
-|
+(29) |
 
-(15)
+Méthyl-6-coumarine |
 
-|
+92-48-8 |
 
-Diphénylamine
+(30) |
 
-|
+Méthyl-7-coumarine |
 
-122-39-4
+2445-83-2 |
 
-|
+(31) |
 
-(16)
+Méthyl-5-2, 3-hexanédione |
 
-|
+13706-86-0 |
 
-Acrylate d'éthyle
+(32) |
 
-|
+Huile de racine de costus (Saussurea lappa Clarke) |
 
-140-88-5
+8023-88-9 |
 
-|
+(33) |
 
-(17)
+7-éthoxy-4-méthylcoumarine |
 
-|
+87-05-8 |
 
-Feuille de figuier, fraîche et préparations
+(34) |
 
-|
+Hexahydrocoumarine |
 
-68916-52-9
+700-82-3 |
 
-|
+(35) |
 
-(18)
+Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch) |
 
-|
+8007-00-9 |
 
-trans-2-Hepténal
+(36) |
 
-|
+2-pentylidène-cyclohexanone |
 
-18829-55-5
+25677-40-1 |
 
-|
+(37) |
 
-(19)
+3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one |
 
-|
+1117-41-5 |
 
-trans-2-Hexénal diéthyle acétal
+(38) |
 
-|
+Huile de verbena (Lippia citriodora Kunth) |
 
-67746-30-9
+8024-12-2 |
 
-|
+(39) |
 
-(20)
+Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène) |
 
-|
+83-66-9 |
 
-trans-2-Hexénal dimethyle acétal
+(40) |
 
-|
+4-phényl-3-buten-2-one |
 
-18318-83-7
+122-57-6 |
 
-|
+(41) |
 
-(21)
+Amyl cinnamal |
 
-|
+122-40-7 |
 
-Alcool hydroabiétylique
+(42) |
 
-|
+Amylcinnamyl alcool |
 
-13393-93-6
+101-85-9 |
 
-|
+(43) |
 
-(22)
+Alcool de benzyle |
 
-|
+100-51-6 |
 
-4-éthoxy-phénol
+(44) |
 
-|
+Salicylate de benzyle |
 
-622-62-8
+118-58-1 |
 
-|
+(45) |
 
-(23)
+Cinnamyl alcool |
 
-|
+104-54-1 |
 
-6-décahydro-6-isopropyl-2-naphtol
+(46) |
 
-|
+Cinnamal |
 
-34131-99-2
+104-55-2 |
 
-|
+(47) |
 
-(24)
+Citral |
 
-|
+5392-40-5 |
 
-7-méthoxycoumarine
+(48) |
 
-|
+Coumarine |
 
-531-59-9
+91-64-5 |
 
-|
+(49) |
 
-(25)
+Eugénol |
 
-|
+97-53-0 |
 
-4-méthoxyphénol
+(50) |
 
-|
+Géraniol |
 
-150-76-5
+106-24-1 |
 
-|
+(51) |
 
-(26)
+Hydroxy-citronellal |
 
-|
+107-75-5 |
 
-4-(3-méthoxyphényl)-3-butane-2-one
+(52) |
 
-|
+Hydroxy-méthylpentylcyclohexènecarboxaldéhyde |
 
-943-88-4
+31906-04-4 |
 
-|
+(53) |
 
-(27)
+Isoeugénol |
 
-|
+97-54-1 |
 
-1-(p-méthoxyphényl)-1-pentène-3-one
+(54) |
 
-|
+Extraits de mousse de chêne |
 
-104-27-8
+90028-68-5 |
 
-|
+(55) |
 
-(28)
+Extraits de mousse d'arbre |
 
-|
-
-Méthyl trans-2-buténoate
-
-|
-
-623-43-8
-
-|
-
-(29)
-
-|
-
-Méthyl-6-coumarine
-
-|
-
-92-48-8
-
-|
-
-(30)
-
-|
-
-Méthyl-7-coumarine
-
-|
-
-2445-83-2
-
-|
-
-(31)
-
-|
-
-Méthyl-5-2, 3-hexanédione
-
-|
-
-13706-86-0
-
-|
-
-(32)
-
-|
-
-Huile de racine de costus (Saussurea lappa Clarke)
-
-|
-
-8023-88-9
-
-|
-
-(33)
-
-|
-
-7-éthoxy-4-méthylcoumarine
-
-|
-
-87-05-8
-
-|
-
-(34)
-
-|
-
-Hexahydrocoumarine
-
-|
-
-700-82-3
-
-|
-
-(35)
-
-|
-
-Baume du Pérou, brut (Exsudation de Myroxylon Pereirae Klotzsch)
-
-|
-
-8007-00-9
-
-|
-
-(36)
-
-|
-
-2-pentylidène-cyclohexanone
-
-|
-
-25677-40-1
-
-|
-
-(37)
-
-|
-
-3, 6, 10-triméthyl-3, 5, 9-undécatrien-2-one
-
-|
-
-1117-41-5
-
-|
-
-(38)
-
-|
-
-Huile de verbena (Lippia citriodora Kunth)
-
-|
-
-8024-12-2
-
-|
-
-(39)
-
-|
-
-Musk ambrette (4-ter-butyl-3-méthoxy-2, 6-dinitro-toluène)
-
-|
-
-83-66-9
-
-|
-
-(40)
-
-|
-
-4-phényl-3-buten-2-one
-
-|
-
-122-57-6
-
-|
-
-(41)
-
-|
-
-Amyl cinnamal
-
-|
-
-122-40-7
-
-|
-
-(42)
-
-|
-
-Amylcinnamyl alcool
-
-|
-
-101-85-9
-
-|
-
-(43)
-
-|
-
-Alcool de benzyle
-
-|
-
-100-51-6
-
-|
-
-(44)
-
-|
-
-Salicylate de benzyle
-
-|
-
-118-58-1
-
-|
-
-(45)
-
-|
-
-Cinnamyl alcool
-
-|
-
-104-54-1
-
-|
-
-(46)
-
-|
-
-Cinnamal
-
-|
-
-104-55-2
-
-|
-
-(47)
-
-|
-
-Citral
-
-|
-
-5392-40-5
-
-|
-
-(48)
-
-|
-
-Coumarine
-
-|
-
-91-64-5
-
-|
-
-(49)
-
-|
-
-Eugénol
-
-|
-
-97-53-0
-
-|
-
-(50)
-
-|
-
-Géraniol
-
-|
-
-106-24-1
-
-|
-
-(51)
-
-|
-
-Hydroxy-citronellal
-
-|
-
-107-75-5
-
-|
-
-(52)
-
-|
-
-Hydroxy-méthylpentylcyclohexènecarboxaldéhyde
-
-|
-
-31906-04-4
-
-|
-
-(53)
-
-|
-
-Isoeugénol
-
-|
-
-97-54-1
-
-|
-
-(54)
-
-|
-
-Extraits de mousse de chêne
-
-|
-
-90028-68-5
-
-|
-
-(55)
-
-|
-
-Extraits de mousse d'arbre
-
-|
-
-90028-67-4
-
-|
+90028-67-4 |
 
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
@@ -886,137 +558,71 @@ NUMÉRO CAS
 
 |
 
-(1)
+(1) |
 
-|
+Alcool anisique |
 
-Alcool anisique
+105-13-5 |
 
-|
+(2) |
 
-105-13-5
+Benzoate de benzyle |
 
-|
+120-51-4 |
 
-(2)
+(3) |
 
-|
+Cinnamate de benzyle |
 
-Benzoate de benzyle
+103-41-3 |
 
-|
+(4) |
 
-120-51-4
+Citronellol |
 
-|
+106-22-9 |
 
-(3)
+(5) |
 
-|
+Farnesol |
 
-Cinnamate de benzyle
+4602-84-0 |
 
-|
+(6) |
 
-103-41-3
+Hexylcinnamaldéhyde |
 
-|
+101-86-0 |
 
-(4)
+(7) |
 
-|
+Lilial |
 
-Citronellol
+80-54-6 |
 
-|
+(8) |
 
-106-22-9
+d-Limonene |
 
-|
+5989-27-5 |
 
-(5)
+(9) |
 
-|
+Linalol |
 
-Farnesol
+78-70-6 |
 
-|
+(10) |
 
-4602-84-0
+Méthyl heptine carbonate |
 
-|
+111-12-6 |
 
-(6)
+(11) |
 
-|
+3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one |
 
-Hexylcinnamaldéhyde
-
-|
-
-101-86-0
-
-|
-
-(7)
-
-|
-
-Lilial
-
-|
-
-80-54-6
-
-|
-
-(8)
-
-|
-
-d-Limonene
-
-|
-
-5989-27-5
-
-|
-
-(9)
-
-|
-
-Linalol
-
-|
-
-78-70-6
-
-|
-
-(10)
-
-|
-
-Méthyl heptine carbonate
-
-|
-
-111-12-6
-
-|
-
-(11)
-
-|
-
-3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one
-
-|
-
-127-51-5
-
-|
+127-51-5 |
 
 3. L'utilisation des substances parfumantes numérotées 41 à 55 de la liste figurant en 1 et celle des substances parfumantes numérotées 1 à 11 de la liste figurant en 2 sont autorisées dans les jeux de table olfactifs, les ensembles cosmétiques et les jeux gustatifs à condition :
 
@@ -1068,306 +674,166 @@ grattée du jouet
 
 |
 
-Aluminium
+Aluminium |
 
-|
+5 625 |
 
-5 625
+1 406 |
 
-|
+70 000 |
 
-1 406
+Antimoine |
 
-|
+45 |
 
-70 000
+11,3 |
 
-|
+560 |
 
-Antimoine
+Arsenic |
 
-|
+3,8 |
 
-45
+0,9 |
 
-|
+47 |
 
-11,3
+Baryum |
 
-|
+1 500 |
 
-560
+375 |
 
-|
+18 750 |
 
-Arsenic
+Bore |
 
-|
+1 200 |
 
-3,8
+300 |
 
-|
+15 000 |
 
-0,9
+Cadmium |
 
-|
+1,3 |
 
-47
-
-|
-
-Baryum
-
-|
-
-1 500
-
-|
-
-375
-
-|
-
-18 750
-
-|
-
-Bore
-
-|
-
-1 200
-
-|
-
-300
-
-|
-
-15 000
-
-|
-
-Cadmium
-
-|
-
-1,3
-
-|
-
-0,3
-
-|
+0,3 |
 
 17 |
 
-Chrome (III)
+Chrome (III) |
+
+37,5 |
+
+9,4 |
+
+460 |
+
+Chrome (VI) |
+
+0,02 |
+
+0,005 |
+
+0,2 |
+
+Cobalt |
+
+10,5 |
+
+2,6 |
+
+130 |
+
+Cuivre |
+
+622,5 |
+
+156 |
+
+7 700 |
+
+Plomb (c) |
+
+2,00
 
 |
 
-37,5
+0,5 |
 
-|
+23 |
 
-9,4
+Manganèse |
 
-|
+1 200 |
 
-460
+300 |
 
-|
+15 000 |
 
-Chrome (VI)
+Mercure |
 
-|
+7,5 |
 
-0,02
+1,9 |
 
-|
+94 |
 
-0,005
+Nickel |
 
-|
+75 |
 
-0,2
+18,8 |
 
-|
+930 |
 
-Cobalt
+Sélénium |
 
-|
+37,5 |
 
-10,5
+9,4 |
 
-|
+460 |
 
-2,6
+Strontium |
 
-|
+4 500 |
 
-130
+1 125 |
 
-|
+56 000 |
 
-Cuivre
+Etain |
 
-|
+15 000 |
 
-622,5
+3 750 |
 
-|
+180 000 |
 
-156
+Etain organique |
 
-|
+0,9 |
 
-7 700
+0,2 |
 
-|
+12 |
 
-Plomb
+Zinc |
 
-|
+3 750 |
 
-13,5
+938 |
 
-|
-
-3,4
-
-|
-
-160
-
-|
-
-Manganèse
-
-|
-
-1 200
-
-|
-
-300
-
-|
-
-15 000
-
-|
-
-Mercure
-
-|
-
-7,5
-
-|
-
-1,9
-
-|
-
-94
-
-|
-
-Nickel
-
-|
-
-75
-
-|
-
-18,8
-
-|
-
-930
-
-|
-
-Sélénium
-
-|
-
-37,5
-
-|
-
-9,4
-
-|
-
-460
-
-|
-
-Strontium
-
-|
-
-4 500
-
-|
-
-1 125
-
-|
-
-56 000
-
-|
-
-Etain
-
-|
-
-15 000
-
-|
-
-3 750
-
-|
-
-180 000
-
-|
-
-Etain organique
-
-|
-
-0,9
-
-|
-
-0,2
-
-|
-
-12
-
-|
-
-Zinc
-
-|
-
-3 750
-
-|
-
-938
-
-|
-
-46 000
-
-|
+46 000 |
 
 Ces valeurs limites ne s'appliquent pas aux jouets ou composants de jouets qui, en raison de leur accessibilité, de leur fonction, de leur volume ou de leur masse, excluent tout danger par succion, léchage, ingestion ou contact prolongé avec la peau lorsqu'ils sont utilisés dans les conditions définies à l'article 3 du décret du 22 février 2010 susvisé.
+
+NOTA :
+
+le (a) entre en vigueur le 4 novembre 2018.
+
+le (b) entre en vigueur le 26 novembre 2018.
+
+le (c) entre en vigueur le 28 octobre 2018.
