@@ -784,6 +784,22 @@ H
 
 H |
 
+6 |
+
+Déclaration de conformité/ Notification de la consommation de fuel-oil
+
+|
+
+H |
+
+H |
+
+H |
+
+H |
+
+H |
+
 3. Certificats de jaugeage des navires délivrés au nom de l'Etat pour tous les navires d'une longueur hors tout supérieure ou égale à 15 mètres :
 
 H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de jaugeage des navires, en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
@@ -874,13 +890,13 @@ H |
 
 Conformément au paragraphe III de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984, la délivrance du certificat de gestion de la sécurité du navire et du certificat de travail maritime peut être déléguée par le ministre chargé de la mer à une société de classification habilitée uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
-Conformément aux articles 3, 4 et 8 du décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires, le renouvellement du certificat international de sûreté du navire peut être délégué par le ministre chargé de la mer à une société de classification habilitée au sens de la sûreté uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
+Conformément à l'article 3-1-III du décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine en mer, la prévention de la pollution, la sûreté et la certification sociale des navires, le renouvellement du certificat international de sûreté du navire peut être délégué par le ministre chargé de la mer à une société de classification habilitée au sens de la sûreté uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
 La carte des zones formellement déconseillées par le ministère des affaires étrangères est disponible sur le lien suivant :
 
 http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/
 
-H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de gestion de la sécurité du navire et du certificat de travail maritime, en application des dispositions du décret n° 84-810 modifié du 30 août 1984, ainsi que la réalisation des visites à bord et la délivrance des certificats internationaux de sûreté du navire en application du décret n° 2007-937 du 15 mai 2007.
+H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de gestion de la sécurité du navire et du certificat de travail maritime, en application des dispositions du décret n° 84-810 modifié du 30 août 1984, ainsi que la réalisation des visites à bord et la délivrance des certificats internationaux de sûreté du navire en application de l'article 3-1-III du décret n° 84-810 du 30 août 1984.
 
 |
 
