@@ -11992,8 +11992,340 @@ R |
 
 2019 |
 
+Armées,
+
+directions
+
+et services
+
+|
+
+Libellé clair
+
+de la formation |
+
+Département
+
+d'origine ou pays étranger
+
+(code) |
+
+Commune
+
+d'origine
+
+libellé INSEE |
+
+Nature
+
+de la
+
+mesure
+
+(D/ T/ R) |
+
+Année
+
+début |
+
+Date de fin d'ouverture des droits durant la période couverte par l'arrêté (2018-2019) |
+
+CABINET DE LA MINISTRE DES ARMEES |
+
+CABMIN |
+
+CABINET DE LA MINISTRE DES ARMEES |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2019 |
+
+CABMIN |
+
+SOUS-DIRECTION DES BUREAUX DES CABINETS |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2019 |
+
+DIRECTION GENERALE DE L'ARMEMENT (DGA) |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-SERVICE DES RECHERCHES ET TECHNOLOGIE DE DEFENSE ET DE SECURITE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-BUREAU DE LA MISSION POUR LA RECHERCHE ET L'INNOVATION SCIENTIFIQUE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION TECHNIQUE-MISSION POUR LE DEVELOPPEMENT DE L'INNOVATION PARTICIPATIVE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-SERVICE DES AFFAIRES INDUSTRIELLES ET DE L'INTELLIGENCE ECONOMIQUE |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DES PLANS, DES PROGRAMMES ET DU BUDGET-SOUS-DIRECTION DES PLANS ET DES PROGRAMMES |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DES PLANS, DES PROGRAMMES ET DU BUDGET-MISSION PERFORMANCES ET CONTROLE DE GESTION |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+Armées,
+
+directions
+
+et services |
+
+Libellé clair
+
+de la formation |
+
+Département
+
+d'origine ou pays étranger
+
+(code) |
+
+Commune
+
+d'origine
+
+libellé INSEE |
+
+Nature
+
+de la
+
+mesure
+
+(D/T/R) |
+
+Année
+
+début |
+
+Date de fin d'ouverture des droits durant la période couverte par l'arrêté (2018-2019) |
+
+CABINET DE LA MINISTRE DES ARMEES |
+
+CABMIN |
+
+CABINET DE LA MINISTRE DES ARMEES |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2019 |
+
+CABMIN |
+
+SOUS-DIRECTION DES BUREAUX DES CABINETS |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2019 |
+
+DIRECTION GENERALE DE L'ARMEMENT (DGA) |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-SERVICE DES RECHERCHES ET TECHNOLOGIE DE DEFENSE ET DE SECURITE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-BUREAU DE LA MISSION POUR LA RECHERCHE ET L'INNOVATION SCIENTIFIQUE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION TECHNIQUE-MISSION POUR LE DEVELOPPEMENT DE L'INNOVATION PARTICIPATIVE |
+
+75 |
+
+PARIS |
+
+D |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DE LA STRATEGIE-SERVICE DES AFFAIRES INDUSTRIELLES ET DE L'INTELLIGENCE ECONOMIQUE |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DES PLANS, DES PROGRAMMES ET DU BUDGET-SOUS-DIRECTION DES PLANS ET DES PROGRAMMES |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
+DGA |
+
+DIRECTION DES PLANS, DES PROGRAMMES ET DU BUDGET-MISSION PERFORMANCES ET CONTROLE DE GESTION |
+
+75 |
+
+PARIS |
+
+R |
+
+2018 |
+
+2018 |
+
 NOTA :
 
-L'arrêté du 12 mars 2018 modifie l’arrêté du 14 décembre 2017. Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page à l'adresse suivante :
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000036732222
+L'arrêté du 22 octobre 2018 modifie l’arrêté du 14 décembre 2017. Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037542340
