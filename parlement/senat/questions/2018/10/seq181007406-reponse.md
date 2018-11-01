@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007406
+
+- Question : [SEQ181007406](seq181007406.md) — Retards dans les réponses aux questions écrites
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2018-11-01, page 5603*
+
+M. le ministre auprès du Premier ministre, chargé des relations avec le Parlement, indique à M. le sénateur que la Conférence des Présidents de la Haute assemblée a décidé, lors de sa réunion du 2 avril 1986, d'instituer une règle permanente de caducité des questions écrites déposées depuis plus de deux ans et n'ayant pas reçu de réponse. En outre, et sur décision de la Conférence des Présidents, les questions peuvent également être frappées de caducité en cas de changement de Gouvernement ou de législature. La Conférence des Présidents du 29 juin 2017 ayant déclaré caduques les questions posées avant cette date, le taux de réponse indiqué par le ministre, comme d'ailleurs les taux de réponse calculés par la division des questions du Sénat, concerne les questions posées par les sénateurs depuis le changement de législature. Il n'est pas possible de calculer un taux de réponse aux questions posées depuis plus de deux ans, la décision de caducité étant intervenue depuis moins de deux ans. M. le ministre auprès du Premier ministre, chargé des relations avec le Parlement, indique à M. le sénateur que la réponse apportée à sa précédente question écrite avait donc pour objet de souligner le travail entrepris par les ministères au cours de l'été, afin de porter le taux de réponse aux questions écrites de 48,6 % avant la suspension estivale des travaux, à 60 % au 25 octobre 2018. Il lui indique l'intention du Gouvernement de poursuivre ces efforts. Au 25 octobre 2018, le ministère de l'éducation nationale a répondu à 61 % des questions posées par les sénateurs, et le ministère de l'intérieur à 57 % de ces questions.
