@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303817
+
+- Question : [SEQ180303817](seq180303817.md) — Éligibilité des centres équestres aux aides de la politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-11-01, page 5602*
+
+Une évolution de la réglementation européenne modifiant le règlement n° 1307/2013 du 13 décembre 2013 permet aux États de suspendre l'application de l'article 9 paragraphe 2 de ce règlement qui définit le critère « agriculteur actif ». En vertu de ce critère, certains agriculteurs sont exclus du bénéfice des aides directes de la politique agricole commune dès lors qu'ils exercent une activité d'une liste négative et ne remplissent pas des critères de rattrapage. Sur la base du retour d'expérience de l'application du critère « agriculteur actif » sur les campagnes 2015 à 2017, la France a saisi l'opportunité offerte par cette modification récente de la réglementation européenne pour ne plus appliquer le caractère « actif » dès la campagne 2018. Du fait du retrait de ce critère « agriculteur actif », les centres équestres sont désormais susceptibles d'être éligibles aux régimes de paiements directs et aux autres aides pour lesquelles ce critère s'applique, sous réserve de vérifier le respect de la définition européenne de l'agriculteur ainsi que les conditions d'éligibilité particulières prévues par chacun de ces différents régimes d'aides. Cette modification de la réglementation européenne n'est toutefois pas d'application rétroactive. Ainsi, les demandes rejetées sur la base du critère « agriculteur actif » de 2015 à 2017 ne pourront pas être rattrapées rétroactivement. Elle ouvre, cependant, la possibilité pour les centres équestres de bénéficier à partir de 2018 d'aides du second pilier, et d'acquérir des droits à paiement de base (par transfert ou dotation s'ils répondent aux critères d'éligibilité spécifiques à chacun des programmes de la réserve).
