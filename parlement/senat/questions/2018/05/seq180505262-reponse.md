@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505262
+
+- Question : [SEQ180505262](seq180505262.md) — Dispositif d'aide aux devoirs « devoirs faits »
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-11-01, page 5585*
+
+Mis en œuvre depuis novembre 2017, « Devoirs faits »propose à tous les élèves volontaires un temps d'étude afin de les accompagner dans la réalisation de leurs devoirs, d'améliorer leurs acquis scolaires et de les conduire vers l'autonomie. Mesure majeure conduite au niveau du collège et proposée à tout collégien, « Devoirs faits »contribue à prévenir le décrochage comme à réduire les inégalités, témoignant ainsi d'une réelle politique de progrès social. Tous les établissements ont pu offrir « Devoirs faits ». Si la première année de mise en œuvre a permis à plus de 25 % des élèves de bénéficier de cette mesure, la deuxième année sera une année de consolidation du dispositif et d'augmentation du nombre d'élèves bénéficiaires. En effet, les moyens qui ont été attribués dès janvier 2018 permettent aux établissements d'anticiper la mise en place en prévoyant les créneaux dans les emplois du temps élèves et enseignants. Dès lors, les contraintes liées aux transports scolaires devraient être surmontées. Intégrée dans le projet d'établissement, la mesure fera sens pour les équipes qui pourront adapter au mieux la mise en œuvre au contexte local. En outre, le ministère réaffirme le caractère prioritaire de cette mesure en déployant de nouveau les moyens pour l'année 2019. Enfin, la direction générale de l'enseignement scolaire renforce le pilotage de la mesure grâce à la réunion d'un comité national de suivi et de pilotage. Ce comité proposera des exemples de régulation du dispositif déclinés aux différentes échelles, des aides aux pilotages ainsi que des outils d'accompagnement et de formation des équipes. L'ensemble de ces actions permettra d'offrir sur tout le territoire une mesure qui répond aux besoins des élèves.
