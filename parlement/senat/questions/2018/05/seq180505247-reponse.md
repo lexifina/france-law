@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505247
+
+- Question : [SEQ180505247](seq180505247.md) — Langues régionales dans la future réforme du lycée
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-11-01, page 5584*
+
+Le ministère de l'éducation nationale est attaché à la préservation et à la transmission des diverses formes du patrimoine linguistique et culturel des régions françaises, et la situation de l'enseignement des langues régionales fait l'objet de la plus grande attention dans les académies et territoires concernés. La circulaire n° 2017-072 du 12 avril 2017 a rappelé cet attachement, ainsi que le cadre du développement progressif de l'enseignement des langues et cultures régionales. La réforme du baccalauréat et du lycée entrant en application à la session 2021 prévoit la possibilité pour le candidat de choisir une langue vivante régionale, en tant qu'enseignement commun au titre de la langue vivante B, et également en tant qu'enseignement optionnel, au titre de la langue vivante C. En ce qui concerne spécifiquement la voie technologique, dans toutes les séries, le choix d'une langue vivante régionale demeure possible au titre de la langue vivante B dans les enseignements communs. Pour l'enseignement optionnel, le choix d'une langue vivante régionale au titre de la langue vivante C est également proposé dans la série « sciences et technologies de l'hôtellerie et de la restauration » (STHR). Par ailleurs, il importe de noter que la langue vivante régionale choisie au titre de la langue vivante B voit son poids en termes de coefficient renforcé. En effet, la langue régionale choisie en tant que langue vivante B constitue l'un des six enseignements communs évalués en épreuves communes de contrôle continu qui représentent ensemble et à poids égal un coefficient de 16 sur 100.
