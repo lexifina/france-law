@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605845
+
+- Question : [SEQ180605845](seq180605845.md) — Situation des mandataires judiciaires à la protection des majeurs
+
+## Réponse
+
+*Justice, JO du 2018-11-01, page 5570*
+
+Lors des Assises nationales de la protection juridique des majeurs en novembre 2017, Mme la Garde des Sceaux, ministre de la justice, a annoncé la mise en place d'un groupe de travail sur la protection juridique des majeurs, chargé de dresser un bilan de la mise en œuvre de la loi du 5 mars 2007, suite aux rapports de la Cour des comptes et du Défenseur des droits en septembre 2016. Une mission interministérielle a été confiée par les ministères de la justice, des solidarités et de la santé en lien avec le secrétariat d'État aux personnes handicapées, à Anne Caron-Déglise, avocate générale à la Cour de cassation. Cette mission s'est appuyée sur les travaux réunissant de nombreux professionnels (magistrats, greffiers, mandataires judiciaires à la protection juridique des majeurs, médecins, représentants d'usagers, avocats, notaires). Le rapport qui résulte de ces travaux a été remis aux ministres le 21 septembre 2018. Il dresse un bilan de l'application de la loi de 2007 et formule 104 propositions pour améliorer la protection des majeurs les plus vulnérables. Certaines propositions figurent d'ores et déjà dans la loi de programmation 2018-2022 et de réforme pour la justice. D'autres préconisations devront s'insérer dans les réflexions en cours sur la question du respect de l'autonomie des personnes vulnérables que mène actuellement le Gouvernement. Mme la Garde des Sceaux, consciente des enjeux pour la protection des plus vulnérables, reste en particulier très attentive aux moyens alloués aux professionnels de la protection juridique des majeurs, qui exercent leurs fonctions dans des conditions parfois extrêmement difficiles.
