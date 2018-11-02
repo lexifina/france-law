@@ -4,1286 +4,852 @@ Liste des centres participant à l'étude relative au traitement du cancer local
 
 Liste principale
 
-CENTRES
+CENTRES |
 
-|
-
-VILLES
-
-|
-
-FINESS JURIDIQUE
-
-|
-
-ÉTABLISSEMENT
-
-|
-
-|
-
-public
-
-|
-
-privé
-
-|
-
-PSPH
-
-|
-
-Clinique du parc Rambot
-
-|
-
-Aix-en-Provence
-
-|
-
-130002447
-
-|
-
-|
-
-√
-
-|
-
-|
-
-Clinique Saint-Etienne
-
-|
-
-Bayonne
-
-|
-
-640012209
-
-|
-
-|
-
-√
-
-|
-
-|
-
-Clinique Saint-Vincent
-
-|
-
-Besançon
-
-|
-
-250000270
-
-|
-
-|
-
-√
-
-|
-
-|
-
-CHU Bordeaux
-
-|
-
-Bordeaux
-
-|
-
-330781196
-
-|
-
-√
-
-|
-
-|
-
-|
-
-Clinique Bel-Air
-
-|
-
-Bordeaux
-
-|
-
-330000027
-
-|
-
-|
-
-√
-
-|
-
-|
-
-Clinique Saint-Augustin
-
-|
-
-Bordeaux
-
-|
-
-330000043
-
-|
-
-|
-
-√
-
-|
-
-|
-
-CHU Caen
-
-|
-
-Caen
-
-|
-
-140000100
-
-|
-
-√
-
-|
-
-|
-
-|
-
-CHR Chambéry
-
-|
-
-Chambéry
-
-|
-
-730000015
-
-|
-
-√
-
-|
-
-|
-
-|
-
-Clinique Pôle Santé République
-
-|
+VILLE |
 
-Clermont-Ferrand
+FINESS
 
-|
+juridique |
 
-630000107
+ETABLISSEMENT |
 
-|
+public |
 
-|
+privé |
 
-√
+ESPIC |
 
-|
+Clinique du parc Rambot |
 
-|
+Aix-en-Provence |
 
-CH Colmar
+130002447 |
 
 |
 
-Colmar
+X |
 
 |
 
-680000973
+Polyclinique du Beaujolais |
 
-|
+Arnas |
 
-√
+690003447 |
 
 |
 
-|
+X |
 
 |
 
-Polyclinique du parc Drevon
+Clinique Saint-Etienne |
 
-|
+Bayonne |
 
-Dijon
+640012209 |
 
 |
 
-210011839
+X |
 
 |
 
-|
+Clinique Saint-Vincent |
 
-|
+Besançon |
 
-√
+250000270 |
 
 |
 
-Clinique du Val d'Ouest
+X |
 
 |
 
-Ecully
+CHRU Besançon |
 
-|
+Besançon |
 
-690000195
+250000015 |
 
-|
+X |
 
 |
 
-√
-
 |
 
-|
+CHU Bordeaux |
 
-CHU Grenoble
+Bordeaux |
 
-|
+330781196 |
 
-Grenoble
+X |
 
 |
-
-380780080
 
 |
 
-√
+Clinique Bel-Air |
 
-|
+Bordeaux |
 
-|
+330000027 |
 
 |
 
-Clinique du Pré
+X |
 
 |
-
-Le Mans
 
-|
+Clinique Saint-Augustin |
 
-720000595
+Bordeaux |
 
-|
+330000043 |
 
 |
 
-√
-
-|
+X |
 
 |
 
-CHRU Lille
+Clinique Tivoli-Ducos |
 
-|
+Bordeaux |
 
-Lille
+330000076 |
 
 |
 
-590780193
+X |
 
 |
-
-√
 
-|
+CHU Caen |
 
-|
+Caen |
 
-|
+140000100 |
 
-Hôpital privé La Louvière
+X |
 
 |
 
-Lille
-
 |
 
-590000204
+CHR Chambéry |
 
-|
+Chambéry |
 
-|
+730000015 |
 
-√
+X |
 
 |
 
 |
 
-CHU Limoges
+Clinique Pôle Santé République |
 
-|
+Clermont-Ferrand |
 
-Limoges
+630000107 |
 
 |
 
-870000015
+X |
 
 |
-
-√
 
-|
+CH Colmar |
 
-|
+Colmar |
 
-|
+680000973 |
 
-Hôpital Edouard Herriot (HCL)
+X |
 
 |
 
-Lyon
-
 |
-
-690781810
 
-|
+Polyclinique du parc Drevon |
 
-√
+Dijon |
 
-|
+210011839 |
 
 |
 
 |
 
-Fondation hôpital Saint-Joseph
-
-|
+X |
 
-Marseille
+CHU Dijon |
 
-|
+Dijon |
 
-130014228
+210780581 |
 
-|
+X |
 
 |
 
 |
 
-√
+Clinique du Val d'Ouest |
 
-|
+Ecully |
 
-CHU Marseille (APHM)
+690000195 |
 
 |
 
-Marseille
+X |
 
 |
 
-130786049
-
-|
+CHU Grenoble |
 
-√
+Grenoble |
 
-|
+380780080 |
 
-|
+X |
 
 |
 
-Clinique Beau Soleil
-
 |
 
-Montpellier
+Hôpital privé Drôme Ardèche |
 
-|
+Guilherand-Granges |
 
-340785856
+070000245 |
 
 |
 
-|
+X |
 
 |
 
-√
+Clinique du Pré |
 
-|
+Le Mans |
 
-Polyclinique Les Bleuets
+720000595 |
 
 |
 
-Reims
+X |
 
 |
 
-510000532
+Clinique Bon Secours |
 
-|
+Le Puy en Velay |
 
-|
+430000372 |
 
 |
 
-√
+X |
 
 |
 
-Clinique Nantes Atlantis
-
-|
+CHRU Lille |
 
-Nantes
+Lille |
 
-|
+590780193 |
 
-440001014
+X |
 
 |
 
 |
-
-√
 
-|
+Hôpital privé La Louvière |
 
-|
+Lille |
 
-CHU Nice
+590000204 |
 
 |
 
-Nice
+X |
 
 |
 
-060785011
+CHU Limoges |
 
-|
+Limoges |
 
-√
+870000015 |
 
-|
+X |
 
 |
 
 |
 
-CHU Nîmes
+Hôpital Edouard Herriot (HCL) |
 
-|
+Lyon |
 
-Nîmes
-
-|
+690781810 |
 
-300780038
+X |
 
 |
 
-√
-
 |
 
-|
+Fondation hôpital Saint-Joseph |
 
-|
+Marseille |
 
-Clinique Saint-Jean de Dieu
+130014228 |
 
 |
 
-Paris
-
 |
 
-750052037
+X |
 
-|
+CHU Marseille (APHM) |
 
-|
+Marseille |
 
-|
+130786049 |
 
-√
+X |
 
 |
 
-Institut mutualiste Montsouris
-
 |
 
-Paris
+Clinique Beau Soleil |
 
-|
+Montpellier |
 
-750150104
+340785856 |
 
 |
 
 |
 
-|
+X |
 
-√
+Clinique Nantes Atlantis |
 
-|
+Nantes |
 
-Hôpital européen Georges Pompidou (AP-HP)
+440001014 |
 
 |
 
-Paris
+X |
 
 |
 
-750712184
+CHU Nice |
 
-|
+Nice |
 
-√
+060785011 |
 
-|
+X |
 
 |
 
 |
-
-Hôpital La Pitié-Salpêtrière (AP-HP)
 
-|
+CHU Nîmes |
 
-Paris
+Nîmes |
 
-|
+300780038 |
 
-750712184
+X |
 
 |
 
-√
-
 |
 
-|
+Clinique Saint-Jean de Dieu |
 
-|
+Paris |
 
-Hôpital Tenon (AP-HP)
+750052037 |
 
 |
 
-Paris
-
 |
 
-750712184
+X |
 
-|
+Institut mutualiste Montsouris |
 
-√
+Paris |
 
-|
+750150104 |
 
 |
 
 |
 
-Hôpital Saint-Joseph
+X |
 
-|
+Hôpital européen Georges Pompidou (AP-HP) |
 
-Paris
+Paris |
 
-|
+750712184 |
 
-750000523
+X |
 
 |
 
 |
 
-|
+Hôpital La Pitié-Salpêtrière (AP-HP) |
 
-√
+Paris |
 
-|
+750712184 |
 
-CHU de Guadeloupe
+X |
 
 |
 
-Pointe-à-Pitre
-
 |
 
-970100228
-
-|
+Hôpital Tenon (AP-HP) |
 
-√
+Paris |
 
-|
+750712184 |
 
-|
+X |
 
 |
 
-CH Pontoise
-
 |
 
-Pontoise
+Hôpital Saint-Joseph |
 
-|
+Paris |
 
-950110080
+750000523 |
 
 |
 
-√
-
 |
 
-|
+X |
 
-|
+CHU de Guadeloupe |
 
-CHU Reims
+Pointe-à-Pitre |
 
-|
+970100228 |
 
-Reims
+X |
 
 |
-
-510000029
 
 |
 
-√
+CH Pontoise |
 
-|
-
-|
+Pontoise |
 
-|
+950110080 |
 
-CH Saintes
+X |
 
 |
-
-Saintes
 
 |
 
-170780175
+Polyclinique Les Bleuets |
 
-|
-
-√
+Reims |
 
-|
+510000532 |
 
 |
 
 |
 
-Clinique Adassa
-
-|
+X |
 
-Strasbourg
+CHU Reims |
 
-|
+Reims |
 
-670780147
+510000029 |
 
-|
+X |
 
 |
 
 |
 
-√
-
-|
+CH Saintes |
 
-Hôpital Foch
+Saintes |
 
-|
+170780175 |
 
-Suresnes
+X |
 
 |
-
-920000650
 
 |
 
-|
+Clinique Adassa |
 
-|
+Strasbourg |
 
-√
+670780147 |
 
 |
-
-Clinique Saint-Michel
 
 |
 
-Toulon
+X |
 
-|
-
-830000212
+Hôpital Foch |
 
-|
+Suresnes |
 
-|
+920000650 |
 
 |
-
-√
 
 |
 
-CHU Toulouse
+X |
 
-|
-
-Toulouse
+Clinique Saint-Michel |
 
-|
+Toulon |
 
-310781406
+830000212 |
 
 |
 
-√
-
 |
 
-|
+X |
 
-|
+CHU Toulouse |
 
-Clinique Saint-Jean du Languedoc
+Toulouse |
 
-|
+310781406 |
 
-Toulouse
+X |
 
 |
 
-310780101
-
 |
 
-|
+Clinique Saint-Jean du Languedoc |
 
-√
+Toulouse |
 
-|
+310780101 |
 
 |
 
-Clinique Pôle Santé
+X |
 
 |
 
-Tours
+Clinique Pasteur |
 
-|
-
-370007528
+Toulouse |
 
-|
+310000096 |
 
 |
 
-√
-
-|
+X |
 
 |
 
-Clinique Vannes Océane
+Clinique Pôle Santé |
 
-|
+Tours |
 
-Vannes
+370007528 |
 
 |
-
-560013989
 
-|
+X |
 
 |
 
-√
-
-|
+Clinique Vannes Océane |
 
-|
+Vannes |
 
-Total
+560013989 |
 
 |
 
-42
+X |
 
 |
 
-|
+Total |
 
-19
+49 |
 
 |
 
-13
+21 |
 
-|
+18 |
 
-10
-
-|
+10 |
 
 Liste complémentaire
 
-CENTRES
+CENTRES |
 
-|
-
-VILLES
-
-|
-
-FINESS JURIDIQUE
-
-|
-
-ÉTABLISSEMENT
-
-|
-
-|
-
-public
-
-|
-
-privé
-
-|
-
-PSPH
-
-|
-
-CHU Amiens
-
-|
-
-Amiens
-
-|
-
-800000044
-
-|
-
-√
-
-|
-
-|
-
-|
-
-CH Aix-en-Provence
-
-|
-
-Aix-en-Provence
-
-|
-
-130041916
-
-|
-
-√
-
-|
-
-|
-
-|
-
-CHU Brest
-
-|
-
-Brest
-
-|
-
-290000017
-
-|
-
-√
-
-|
-
-|
-
-|
-
-Hôpital Henri Mondor (AP-HP)
-
-|
-
-Créteil
-
-|
-
-750712184
-
-|
-
-√
+VILLE |
 
-|
-
-|
-
-|
-
-Institut Paoli Calmettes
-
-|
-
-Marseille
-
-|
-
-130001647
-
-|
-
-|
+FINESS
 
-|
+juridique |
 
-√
+ETABLISSEMENT |
 
-|
+public |
 
-Clinique Diaconat
+privé |
 
-|
+ESPIC |
 
-Mulhouse
+CHU Amiens |
 
-|
+Amiens |
 
-680000643
+800000044 |
 
-|
+X |
 
 |
 
 |
-
-√
 
-|
+CH Aix-en-Provence |
 
-CHU Nantes
+Aix-en-Provence |
 
-|
+130041916 |
 
-Nantes
+X |
 
 |
-
-440000289
 
 |
 
-√
+CHU Brest |
 
-|
-
-|
+Brest |
 
-|
+290000017 |
 
-Clinique Jules Verne
+X |
 
 |
-
-Nantes
 
 |
 
-440041895
+Hôpital Henri Mondor (AP-HP) |
 
-|
-
-|
+Créteil |
 
-√
+750712184 |
 
-|
+X |
 
 |
-
-Clinique de Turin
 
 |
 
-Paris
+Institut Paoli Calmettes |
 
-|
-
-750300154
+Marseille |
 
-|
+130001647 |
 
 |
 
-√
-
 |
 
-|
+X |
 
-Hôpital Cochin (AP-HP)
+Clinique Diaconat |
 
-|
+Mulhouse |
 
-Paris
+680000643 |
 
 |
-
-750712184
 
 |
 
-√
+X |
 
-|
+CHU Nantes |
 
-|
+Nantes |
 
-|
+440000289 |
 
-Hôpital Necker (AP-HP)
+X |
 
 |
 
-Paris
-
 |
 
-750712184
+Clinique Jules Verne |
 
-|
+Nantes |
 
-√
+440041895 |
 
 |
 
-|
+X |
 
 |
 
-Clinique de Navarre
+Clinique de Turin |
 
-|
+Paris |
 
-Pau
+750300154 |
 
 |
-
-640000469
 
-|
+X |
 
 |
 
-√
+Hôpital Cochin (AP-HP) |
 
-|
+Paris |
 
-|
+750712184 |
 
-CH Quimper
+X |
 
 |
 
-Quimper
-
 |
-
-290020700
 
-|
+Hôpital Necker (AP-HP) |
 
-√
+Paris |
 
-|
+750712184 |
 
-|
+X |
 
 |
 
-CHU Rennes
-
 |
 
-Rennes
+Clinique de Navarre |
 
-|
+Pau |
 
-350005179
+640000469 |
 
 |
 
-√
+X |
 
 |
 
-|
-
-|
+CH Quimper |
 
-CHU Rouen
+Quimper |
 
-|
+290020700 |
 
-Rouen
+X |
 
 |
-
-760780239
 
 |
 
-√
+CHU Rennes |
 
-|
-
-|
+Rennes |
 
-|
+350005179 |
 
-Polyclinique Littoral
+X |
 
 |
-
-Saint-Brieuc
 
 |
 
-220000673
+CHU Rouen |
 
-|
+Rouen |
 
-|
+760780239 |
 
-√
+X |
 
 |
 
 |
 
-CHU Tours
+Polyclinique Littoral |
 
-|
+Saint-Brieuc |
 
-Tours
+220000673 |
 
 |
 
-370000481
+X |
 
 |
 
-√
-
-|
+CHU Tours |
 
-|
+Tours |
 
-|
+370000481 |
 
-Total
+X |
 
 |
 
-17
-
 |
 
-|
+Total |
 
-11
+17 |
 
 |
 
-4
+11 |
 
-|
+4 |
 
 2 |
