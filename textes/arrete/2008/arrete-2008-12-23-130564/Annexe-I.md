@@ -18,291 +18,149 @@ d'emplois
 
 |
 
-13
+13 |
 
-|
+Préfecture des Bouches-du-Rhône |
 
-Préfecture des Bouches-du-Rhône
+Adjoint au chef du garage |
 
-|
+1 |
 
-Adjoint au chef du garage
+13 |
 
-|
-
-1
-
-|
-
-13
-
-|
-
-Préfecture des Bouches-du-Rhône
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
-21
-
-|
-
-Préfecture de la Côte-d'Or
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
-33
-
-|
-
-Préfecture de la Gironde
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-33
-
-|
-
-Préfecture de la Gironde
-
-|
-
-Chef de l'équipe logistique
-
-|
-
-1
-
-|
-
-37
-
-|
-
-Préfecture d'Indre-et-Loire
-
-|
+Préfecture des Bouches-du-Rhône |
 
 Intendant de la résidence du préfet |
 
-1
+1 |
 
-|
+21 |
 
-41
+Préfecture de la Côte-d'Or |
 
-|
+Intendant de la résidence du préfet |
 
-Préfecture de Loir-et-Cher
+1 |
 
-|
+33 |
 
-Chef de l'équipe logistique
+Préfecture de la Gironde |
 
-|
+Chef du garage |
 
-1
+1 |
 
-|
+33 |
 
-59
+Préfecture de la Gironde |
 
-|
+Chef de l'équipe logistique |
 
-Préfecture du Nord
+1 |
 
-|
+37 |
 
-Chef du garage
+Préfecture d'Indre-et-Loire |
 
-|
+Intendant de la résidence du préfet |
 
-1
+1 |
 
-|
+41 |
 
-59
+Préfecture de Loir-et-Cher |
 
-|
+Chef de l'équipe logistique |
 
-Préfecture du Nord
+1 |
 
-|
+59 |
 
-Maître d'hôtel de la résidence du préfet
+Préfecture du Nord |
 
-|
+Chef du garage |
 
-1
+1 |
 
-|
+59 |
 
-66
+Préfecture du Nord |
 
-|
+Maître d'hôtel de la résidence du préfet |
 
-Préfecture des Pyrénées-Orientales
+1 |
 
-|
+66 |
 
-Chef du garage
+Préfecture des Pyrénées-Orientales |
 
-|
+Chef du garage |
 
-1
+1 |
 
-|
+67 |
 
-67
+Préfecture du Bas-Rhin |
 
-|
+Intendant de la résidence du préfet |
 
-Préfecture du Bas-Rhin
+1 |
 
-|
+69 |
 
-Intendant de la résidence du préfet
+Préfecture du Rhône |
 
-|
+Chef du garage |
 
-1
+1 |
 
-|
+69 |
 
-69
+Préfecture du Rhône |
 
-|
+Maître d'hôtel de la résidence du préfet |
 
-Préfecture du Rhône
+1 |
 
-|
+81 |
 
-Chef du garage
+Préfecture du Tarn |
 
-|
+Adjoint au chef de l'équipe du service intérieur |
 
-1
+1 |
 
-|
+87 |
 
-69
+Préfecture de la Haute-Vienne |
 
-|
+Chef de l'équipe du service intérieur |
 
-Préfecture du Rhône
+1 |
 
-|
+93 |
 
-Maître d'hôtel de la résidence du préfet
+Préfecture de la Seine-Saint-Denis |
 
-|
+Chef de l'équipe du service intérieur |
 
-1
+1 |
 
-|
+93 |
 
-81
+Préfecture de la Seine-Saint-Denis |
 
-|
+Chef du garage |
 
-Préfecture du Tarn
+1 |
 
-|
+974 |
 
-Adjoint au chef de l'équipe du service intérieur
+Préfecture de La Réunion |
 
-|
+Intendant de la résidence du préfet |
 
-1
-
-|
-
-87
-
-|
-
-Préfecture de la Haute-Vienne
-
-|
-
-Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-93
-
-|
-
-Préfecture de la Seine-Saint-Denis
-
-|
-
-Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-93
-
-|
-
-Préfecture de la Seine-Saint-Denis
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-974
-
-|
-
-Préfecture de La Réunion
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
+1 |
 
 Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
@@ -320,181 +178,93 @@ d'emplois
 
 |
 
-06
+06 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/ Nice/ BMM |
 
-SGAMI de la zone de défense et de sécurité Sud/ Nice/ BMM
+Adjoint au chef de l'atelier |
 
-|
+1 |
 
-Adjoint au chef de l'atelier
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/ Marseille |
 
-1
+Adjoint au chef de l'atelier mécanique |
 
-|
+1 |
 
-13
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/ Marseille/ BMM |
 
-SGAMI de la zone de défense et de sécurité Sud/ Marseille
+Chef de l'atelier carrosserie-peinture |
 
-|
+1 |
 
-Adjoint au chef de l'atelier mécanique
+34 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud/ Montpellier |
 
-1
+Responsable de l'atelier mécanique |
 
-|
+1 |
 
-13
+33 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud Ouest |
 
-SGAMI de la zone de défense et de sécurité Sud/ Marseille/ BMM
+Chef du secteur carrosserie peinture |
 
-|
+1 |
 
-Chef de l'atelier carrosserie-peinture
+77 |
 
-|
+Zone de défense et de sécurité IDF/ Melun |
 
-1
+Adjoint au chef de l'atelier avancé |
 
-|
+1 |
 
-34
+78 |
 
-|
+Zone de défense et de sécurité IDF/ atelier du Chesnay |
 
-SGAMI de la zone de défense et de sécurité Sud/ Montpellier
+Chef d'équipe réparateur "deux roues" au centre de soutien automobile |
 
-|
+1 |
 
-Responsable de l'atelier mécanique
+78 |
 
-|
+Zone de défense et de sécurité IDF |
 
-1
+Adjoint au chef de l'équipe "mécanique générale" |
 
-|
+1 |
 
-33
+95 |
 
-|
+Zone de défense et de sécurité IDF/ Taverny |
 
-SGAMI de la zone de défense et de sécurité Sud Ouest
+Adjoint au chef de l'atelier avancé |
 
-|
+1 |
 
-Chef du secteur carrosserie peinture
+75 |
 
-|
+Zone de défense et de sécurité IDF/ préfecture de police/ DOSTL |
 
-1
+Adjoint opérationnel au responsable du magasin |
 
-|
+1 |
 
-77
+75 |
 
-|
+Zone de défense et de sécurité IDF/ Préfecture de police/ DOSTL/ atelier nord |
 
-Zone de défense et de sécurité IDF/ Melun
+Coordinateur des équipes carrosserie-peinture-sellerie |
 
-|
-
-Adjoint au chef de l'atelier avancé
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Zone de défense et de sécurité IDF/ atelier du Chesnay
-
-|
-
-Chef d'équipe réparateur "deux roues" au centre de soutien automobile
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Zone de défense et de sécurité IDF
-
-|
-
-Adjoint au chef de l'équipe "mécanique générale"
-
-|
-
-1
-
-|
-
-95
-
-|
-
-Zone de défense et de sécurité IDF/ Taverny
-
-|
-
-Adjoint au chef de l'atelier avancé
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/ préfecture de police/ DOSTL
-
-|
-
-Adjoint opérationnel au responsable du magasin
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IDF/ Préfecture de police/ DOSTL/ atelier nord
-
-|
-
-Coordinateur des équipes carrosserie-peinture-sellerie
-
-|
-
-1
-
-|
+1 |
 
 Périmètre gendarmerie nationale
 
@@ -512,21 +282,13 @@ d'emplois
 
 |
 
-29
+29 |
 
-|
+Ecole de gendarmerie de Châteaulin |
 
-Ecole de gendarmerie de Châteaulin
+Adjoint au chef de cuisine |
 
-|
-
-Adjoint au chef de cuisine
-
-|
-
-1
-
-|
+1 |
 
 Périmètre sécurité civile
 
@@ -544,21 +306,13 @@ d'emplois
 
 |
 
-13
+13 |
 
-|
+Direction de la sécurité civile/ ESOL Sud |
 
-Direction de la sécurité civile/ ESOL Sud
+Gestionnaire logistique |
 
-|
-
-Gestionnaire logistique
-
-|
-
-1
-
-|
+1 |
 
 Périmètre de l'administration centrale
 
@@ -576,98 +330,50 @@ d'emplois
 
 |
 
-75
+75 |
 
-|
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
+Responsable de l'atelier reprographie |
 
-|
+1 |
 
-Responsable de l'atelier reprographie
+75 |
 
-|
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-1
+Responsable du pôle "manutention" |
 
-|
+1 |
 
-75
+75 |
 
-|
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
+Responsable de l'entretien et de la lingerie du site de Beauvau |
 
-|
+1 |
 
-Responsable du pôle "manutention"
+75 |
 
-|
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
 
-1
+Adjoint au chef des ateliers |
 
-|
+1 |
 
-75
+87 |
 
-|
+Direction générale de la police nationale/ ECLPN/ Limoges |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
+Responsable de la gestion des matériels |
 
-|
+1 |
 
-Responsable de la section travaux des appartements de fonction
+87 |
 
-|
+Direction des systèmes d'information et decommunication/ SDES/ CNPT/ Limoges |
 
-1
+Adjoint au responsable de la cellule exploitation |
 
-|
-
-75
-
-|
-
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
-
-|
-
-Adjoint au chef des ateliers
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Direction générale de la police nationale/ ECLPN/ Limoges
-
-|
-
-Responsable de la gestion des matériels
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Direction des systèmes d'information et decommunication/ SDES/ CNPT/ Limoges
-
-|
-
-Adjoint au responsable de la cellule exploitation
-
-|
-
-1
-
-|
+1 |

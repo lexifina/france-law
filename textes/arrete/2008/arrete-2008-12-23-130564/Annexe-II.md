@@ -30,7 +30,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Préfecture de l'Aisne |
 
-Maître d'hôtel de la résidence du préfet |
+Chef de garage |
 
 1 |
 
@@ -87,6 +87,14 @@ Chef du garage |
 Préfecture de l'Ariège |
 
 Gestionnaire bâtiments et travaux |
+
+1 |
+
+09 |
+
+Préfecture de l'Ariège |
+
+Chef de garage |
 
 1 |
 
@@ -207,22 +215,6 @@ Chef de l'équipe logistique |
 Préfecture du Doubs |
 
 Chef de cuisine |
-
-1 |
-
-25 |
-
-Préfecture du Doubs |
-
-Chef du garage |
-
-1 |
-
-25 |
-
-Préfecture du Doubs |
-
-Responsable de l'atelier reprographie |
 
 1 |
 
@@ -394,14 +386,6 @@ Chef du garage |
 
 1 |
 
-43 |
-
-Préfecture de la Haute-Loire |
-
-Chef du garage |
-
-1 |
-
 44 |
 
 Préfecture de la Loire-Atlantique |
@@ -470,7 +454,7 @@ Intendant de l'hôtel préfectoral |
 
 Préfecture de la Marne |
 
-Chef du garage de la préfecture |
+Intendant de la résidence du préfet |
 
 1 |
 
@@ -614,7 +598,7 @@ Chef du garage |
 
 Préfecture des Hautes-Pyrénées |
 
-Intendant de la résidence du préfet |
+Chef de garage |
 
 1 |
 
@@ -710,7 +694,7 @@ Chargé de la maintenance, travaux et de l'exploitation |
 
 Préfecture de la Seine-Maritime |
 
-Chef de la logistique |
+Adjoint au chef de la section technique |
 
 1 |
 
@@ -858,6 +842,14 @@ Chef de cuisine |
 
 1 |
 
+90 |
+
+Préfecture du Territoire de Belfort |
+
+Chef de garage et coordinateur technique |
+
+1 |
+
 91 |
 
 Préfecture de l'Essonne |
@@ -938,6 +930,14 @@ Chef du garage |
 
 1 |
 
+974 |
+
+Préfecture de La Réunion |
+
+Chef de l'équipe du service intérieur |
+
+1 |
+
 975 |
 
 Préfecture de Saint-Pierre-et-Miquelon |
@@ -996,17 +996,17 @@ Chef du secteur roulage |
 
 33 |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest |
+SGAMI de la zone de défense et de sécurité Sud-Ouest/ Bordeaux |
 
-Chef du secteur mécanique |
+Adjoint au chef de secteur mécanique 2 roues-nautique de l'atelier régional |
 
 1 |
 
-33 |
+87 |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BAE |
+SGAMI de la zone de défense et de sécurité Sud-Ouest/ Limoges |
 
-Responsable de l'atelier régional de l'armement |
+Adjoint au chef de l'atelier de l'antenne logistique auto |
 
 1 |
 
