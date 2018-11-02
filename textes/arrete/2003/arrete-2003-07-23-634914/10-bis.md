@@ -2,6 +2,6 @@
 
 Les représentants des agents de direction ou agents comptables sont élus au scrutin majoritaire à un tour.
 
-Un arrêté du ministre chargé de la sécurité sociale fixe la date des élections des représentants des agents de direction ou des agents comptables ainsi que la date limite à laquelle les bulletins de vote doivent être postés.
+Le vote a lieu par correspondance. Il peut être réalisé par vote électronique.
 
-Le vote a lieu par correspondance.
+Un arrêté du ministre chargé de la sécurité sociale fixe les dates d'ouverture et de clôture du scrutin, ainsi que la date limite à laquelle les bulletins de vote, le cas échéant, doivent être postés.
