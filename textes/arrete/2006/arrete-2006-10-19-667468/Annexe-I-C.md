@@ -18,7 +18,7 @@ alimentaire
 
 |
 
-CONDITIONS D'EMPLOI/
+CONDITIONS D'EMPLOI /
 
 fonction
 
@@ -50,11 +50,7 @@ Dose techniquement inévitable.
 
 |
 
-Acétolactate décarboxylase issue d'une souche génétiquement modifiée de Bacillus
-
-Licheniformis (JB) contenant le gène codant pour l'acétolactate
-
-décarboxylase de Bacillus brevis |
+Acétolactate décarboxylase issue d'une souche génétiquement modifiée de Bacillus Licheniformis (JB) contenant le gène codant pour l'acétolactate décarboxylase de Bacillus brevis |
 
 Enzymes. |
 
@@ -104,7 +100,27 @@ Dose techniquement inévitable.
 
 |
 
-Alpha amylase d'Aspergillus niger, A. oryzae.
+Acétolactate décarboxylase issue d'une souche génétiquement modifiée de Bacillussubtilis (DP-Ezz65) contenant le gène codant pour l'acétolactate décarboxylase de Bacillus brevis. |
+
+Enzymes. |
+
+Brasserie. |
+
+Hydrolyse de l'alpha-acétolactate précurseur du diacétyle. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Alpha, alpha tréhalase issue d'une souche génétiquement modifiée de Trichoderma reesei (DP-Nzs51) contenant le gène codant l'alpha, alpha tréhalose de Trichoderma reesei. |
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse du tréhalose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Alpha amylase de souches non génétiquement modifiées d'Aspergillus niger, A. oryzae.
 
 |
 
@@ -112,7 +128,7 @@ Enzymes.
 
 |
 
-Biscuiterie, pâtisserie, viennoiserie.
+Biscuiterie, pâtisserie, viennoiserie, panification (à l'exception du pain de tradition française), panification spéciale, produits de la biscotterie.
 
 |
 
@@ -120,57 +136,7 @@ Hydrolyse des liaisons alpha-1,4-glycosidiques des polysaccharides.
 
 |
 
-Dose techniquement inévitable.
-
-|
-
-Alpha amylase d'Aspergillus niger, A. oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Panification.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Alpha amylase d'aspergillus niger, A. oryzae. |
-
-Enzymes. |
-
-Panification spéciale. |
-
-Hydrolyse des liaisons endo-alpha-1-4 - glycosidiques des oligosaccharides et des polysaccharides. |
-
-Dose techniquement inévitable. |
-
-Alpha amylase d'Aspergillus niger, A. oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Produits de la biscotterie.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
+Teneur résiduelle techniquement inévitable.
 
 |
 
@@ -189,6 +155,16 @@ Panification (à l'exception du pain de tradition française) et panification sp
 Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
 Teneur techniquement inévitable. |
+
+Alpha-amylase issue d'une souche non génétiquement modifiée d'Aspergillus oryzae (DP-Bzb41). |
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Alpha-amylase de Bacillus amyloliquefaciens autocloné EBA1-H2A.
 
@@ -311,6 +287,16 @@ Industrie de l'alcool |
 Hydrolyse des liaisons alpha-1-4-
 
 glycosidiques des polysaccharides |
+
+Teneur résiduelle techniquement inévitable. |
+
+Amyloglucosidase (ou glucoamylase) issue d'une souche modifiée génétiquement de Trichoderma reesei (DP-Nzh63) portant le gène codant l'amyloglucosidase de Trichoderma reesei. |
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
 Teneur résiduelle techniquement inévitable. |
 
@@ -584,66 +570,6 @@ Dose techniquement inévitable.
 
 |
 
-Alpha-amylase de Bacillus subtilis, B. licheniformis.
-
-|
-
-Enzymes.
-
-|
-
-Biscuiterie, pâtisserie, viennoiserie.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Alpha-amylase de Bacillus subtilis, B. licheniformis.
-
-|
-
-Enzymes.
-
-|
-
-Produits de la biscotterie.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Alpha-amylase de Bacillus subtilis, Bacillus licheniformis, Aspergillus niger, Aspergillus oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Produits d'hydrolyse de l'amidon Industrie sucrière.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
 Alpha-amylase de Bacillus subtilis, Bacillus licheniformis.
 
 |
@@ -703,6 +629,26 @@ Hydrolyse des liaisons alpha- glycosidiques des polysaccharides.
 Dose techniquement inévitable.
 
 |
+
+Alpha amylase de souche non génétiquement modifiées de Bacillus subtilis, B. licheniformis. |
+
+Enzymes. |
+
+Biscuiterie, pâtisserie, viennoiserie, produits de la biscotterie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
+
+Alpha amylase de souches non génétiquement modifiées de Bacillus subtilis, Bacillus licheniformis, Aspergillus niger, Aspergillus oryzae. |
+
+Enzymes. |
+
+Produits de l'hydrolyse de l'amidon, industrie sucrière, bières, jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops. |
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
 
 Alpha-amylase issue d'une souche non génétiquement modifiée de Microbacterium imperiale (FERM P-11315). |
 
@@ -768,26 +714,6 @@ Dose techniquement inévitable.
 
 |
 
-Aminopeptidase d'Aspergillus oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Hydrolysats de protéines.
-
-|
-
-Hydrolyse des liaisons peptidiques des protéines.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
 Aminopeptidase issue d'une souche non génétiquement modifiée d'Aspergillus oryzae (EX). |
 
 Enzymes. |
@@ -802,65 +728,25 @@ Hydrolyse des liaisons peptidiques des protéines. |
 
 Teneur techniquement inévitable. |
 
-Amyloglucosidase (ou glucamylase) d'Aspergillus niger.
+Amyloglucosidase (ou glucamylase) de souche non génétiquement modifiées d'Aspergillus niger, Aspergillus oryzae. |
 
-|
+Enzymes. |
 
-Enzymes.
+Amidonnerie, production de sirop de glucose, produits d'hydrolyse de l'amidon, industrie sucrière, biscuiterie, pâtisserie, viennoiserie, bières. |
 
-|
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. Dégradation de l'amidon dans le jus de canne. |
 
-Amidonnerie, production de sirop de glucose.
+Teneur techniquement inévitable. |
 
-|
+Amyloglucosidase de souche non génétiquement modifiée d'Aspergillus niger. |
 
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
+Enzymes. |
 
-|
+Cidres et poirés, jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops, panification (à l'exception du pain de tradition française), et panification spéciale. |
 
-Dose techniquement inévitable.
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
-|
-
-Amyloglucosidase (ou glucamylase) d'Aspergillus oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Amidonnerie, production de sirop de glucose.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Amyloglucosidase (ou glucamylase) d'Aspergillus niger, Aspergillus oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Produits d'hydrolyse de l'amidon. Industrie sucrière.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. Dégradation de l'amidon dans le jus de canne.
-
-|
-
-Dose techniquement inévitable.
-
-|
+Teneur techniquement inévitable. |
 
 Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée d'Aspergillus niger (BE) contenant le gène codant l'amyloglucosidase de Talaromyces emersonii. |
 
@@ -890,6 +776,16 @@ Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
 Teneur techniquement inévitable. |
 
+Aminopeptidase de souche non génétiquement modifiée d'Aspergillus oryzae. |
+
+Enzymes. |
+
+Hydrolysats de protéines. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
+
 Amyloglucosidase d'Aspergillus niger (STz18-9) porteur du gène codant pour l'amyloglucosidase d'A. niger.
 
 |
@@ -903,86 +799,6 @@ Industrie de l'alcool, amidonnerie, production de sirop de glucose.
 |
 
 Hydrolyse des liaisons glucosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Amyloglucosidase d'Aspergillus niger, A. oryzae.
-
-|
-
-Enzymes.
-
-|
-
-Biscuiterie, pâtisserie, viennoiserie.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Amyloglucosidase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Cidres et poirés.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Amyloglucosidase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.
-
-|
-
-Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Amyloglucosidase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Panification (à l'exception du pain de tradition française) et panification spéciale.
-
-|
-
-Hydrolyse des liaisons alpha 1-4-glycosidiques des polysaccharides.
 
 |
 
@@ -1070,15 +886,25 @@ Teneur techniquement inévitable.
 
 |
 
+Arabinofuranosidase issue d'une souche génétiquement modifiée de Trichoderma reesei (GV) portant le gène codant l'arabinofuranosidase de Talaromyces pinophilus. |
+
+Enzymes. |
+
+Amidonnerie. |
+
+Hydrolyse des arabinoxylanes, L-arabinanes et arabinogalactanes. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Asparaginase d'Aspergillus niger autocloné. |
 
 Enzymes. |
 
-Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures. |
+Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures. Prétraitement des grains verts de café. |
 
 Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
 
-Dose techniquement inévitable. |
+Teneur résiduelle techniquement inévitable. |
 
 Asparaginase issue d'une souche génétiquement modifiée d'Aspergillus oryzae (SP ou pCaHj621/ BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. |
 
@@ -1139,6 +965,16 @@ A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des
 Dose techniquement inévitable.
 
 |
+
+Aspergillopepsine issue d'une souche génétiquement modifiée de Trichoderma reesei (DP-Nzq40) portant le gène de l'aspergillopepsine de Trichoderma reesei. |
+
+Enzymes. |
+
+Industrie de l'alcool, hydrolysats de protéines. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Bêta amylase (1-4 alpha-D glucane-malto-hydrolase) d'orge non germée.
 
@@ -1222,6 +1058,16 @@ Hydrolyse du lactose. |
 
 Teneur techniquement inévitable. |
 
+Bêta galactosidase issue d'une souche modifiée génétiquement d'Aspergillus oryzae (DP-Bzg59) portant le gène codant la bêta galactosidase d'Aspergillus oryzae. |
+
+Enzymes. |
+
+Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes ; Production de galacto-oligosaccharides. |
+
+Hydrolyse du lactose ; Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Bêta galactosidase de Bacillus circulans (ATCC 31382).
 
 |
@@ -1292,25 +1138,29 @@ Hydrolyse du lactose. |
 
 Teneur techniquement inévitable. |
 
-Bêta-galactosidase (lactase) issue d'une souche génétiquement modifiée de Bacillus licheniformis (BT) contenant le gène codant pour la lactase de Bifidobacterium
+Bêta-galactosidase (lactase) issue d'une souche génétiquement modifiée de Bacillus licheniformis (BT) contenant le gène codant pour la lactase de Bifidobacterium bifidium
 
-bifidium |
+|
 
 Enzymes. |
 
-Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. |
 
-des conditions permettant
-
-d'assurer l'inactivation des enzymes. |
-
-Hydrolyse du
-
-lactose |
+Hydrolyse du lactose |
 
 Teneur résiduelle techniquement inévitable. |
 
-Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
+Bêta galactosidase issue d'une souche modifiée génétiquement de Bacillus subtilis (DP-Ezg70) portant le gène codant la bêta galactosidase de Bifidobacterium bifidum. |
+
+Enzymes. |
+
+Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes ; Production de galacto-oligosaccharides. |
+
+Hydrolyse du lactose ; Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Bêta galactosidases de souches non génétiquement modifiées de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
 |
 
@@ -1326,11 +1176,11 @@ Hydrolyse du lactose. Les enzymes d'Aspergillus niger et d'Aspergillus oryzae pe
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Bêta glucanase d'Aspergillus niger.
+Bêta glucanase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -1346,11 +1196,11 @@ Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Bêta glucanase d'Aspergillus niger.
+Bêta glucanase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -1366,7 +1216,7 @@ Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, art
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1420,7 +1270,7 @@ Dose techniquement inévitable.
 
 |
 
-Bêta glucanases de Bacillus subtilis, Bacillus amyloliquefaciens, Aspergillus niger, Disporotrichum dimorthosporum.
+Bêta glucanases de souches non génétiquement modifiées de Bacillus subtilis, Bacillus amyloliquefaciens, Aspergillus niger, Disporotrichum dimorthosporum.
 
 |
 
@@ -1436,7 +1286,7 @@ Hydrolyse des liaisons bêta 1-3 et 1-4 glycosidiques des bêta glucanes. Ne peu
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1466,7 +1316,7 @@ Hydrolyse des liaisons peptidiques de protéines. |
 
 Teneur résiduelle techniquement inévitable. |
 
-Cellobiase d'Aspergillus niger.
+Cellobiase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -1482,7 +1332,7 @@ Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, art
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1506,7 +1356,7 @@ Dose techniquement inévitable.
 
 |
 
-Cellulase d'Aspergillus niger.
+Cellulase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -1522,7 +1372,7 @@ Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, art
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1530,7 +1380,7 @@ Cellulase issue d'une souche non génétiquement modifiée de Penicillium funicu
 
 Enzymes. |
 
-Amidonnerie, brasserie, industrie de l'alcool |
+Amidonnerie, brasserie, industrie de l'alcool, panification (à l'exception du pain de tradition française), panification spéciale, biscuiterie, pâtisserie, biscotterie, viennoiserie. |
 
 Hydrolyse de la cellulose. |
 
@@ -1549,26 +1399,6 @@ Amidonnerie, production de sirop de glucose.
 |
 
 Hydrolyse de la cellulose.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Cellulase de Trichoderma longibrachiatum (ex-reesei).
-
-|
-
-Enzymes.
-
-|
-
-Panification (à l'exception du pain de tradition française) et panification spéciale.
-
-|
-
-Hydrolyse des substrats pariétaux.
 
 |
 
@@ -1617,6 +1447,26 @@ Dose maximale d'emploi 1 g/kg de matière première à traiter.
 Dose techniquement inévitable.
 
 |
+
+Cellulase de souche non génétiqauement modifiée de Trichoderma longibrachiatum (ex-reesei). |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des substrats pariétaux. |
+
+Teneur techniquement inévitable. |
+
+Cellulase de souche non génétiqauement modifiée de Trichoderma longibrachiatum (ex-reesei). |
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse de la cellulose. |
+
+Teneur techniquement inévitable. |
 
 Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex reesei) A83.
 
@@ -1732,7 +1582,7 @@ Hydrolyse de la caséine. |
 
 Teneur techniquement inévitable. |
 
-Chymosine de Kluyveromyces lactis renfermant un gène de prochymosine B de veau.
+Chymosine de Kluyveromyces lactis (CHY) renfermant un gène de prochymosine B de veau.
 
 |
 
@@ -1740,21 +1590,27 @@ Enzymes.
 
 |
 
-Fromages (sans AOC).
+Produits laitiers fermentés, babeurre, autres spécialités laitières fermentées, fromage frais (quark), fromages (à l'exception de ceux bénéficiant d'une appellation d'origine).
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-Hydrolyse de la caséine.
-
-La dénomination de cette enzyme doit être : "Enzyme coagulante : chymosine produite par Kluyveromyces lactis".
+A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse de la caséine. La dénomination de cette enzyme doit être : " Enzyme coagulante : chymosine produite par Kluyveromyces lactis ".
 
 |
 
 Dose techniquement inévitable.
 
 |
+
+Chymosine issue d'une souche génétiquement modifiée de Kluyveromyces lactis (CIN) renfermant un gène modifié de prochymosine B de veau. |
+
+Enzymes. |
+
+Produits laitiers fermentés, babeurre, autres spécialités laitières fermentées, fromage frais (quark), fromages (à l'exception de ceux bénéficiant d'une appellation d'origine), lait, lactosérum, glaces. |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse de la caséine. La dénomination de cette enzyme doit être : " Enzyme coagulante : chymosine produite par Kluyveromyces lactis ". |
+
+Teneur techniquement inévitable. |
 
 Chymosine d'Escherichia coli K 12 renfermant un gène de prochymosine A de veau.
 
@@ -1884,7 +1740,7 @@ Dose techniquement inévitable.
 
 Enzymes. |
 
-Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. |
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie, amidonnerie. |
 
 Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. |
 
@@ -1919,6 +1775,16 @@ Sucrerie. |
 Hydrolyse des liaisons alpha 1-6 des dextranes. |
 
 Dose techniquement inévitable. |
+
+Endo-1,4-bêta-glucanase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF5261) porteuse du gène codant une endo-bêta-glucanase de Trichoderma reesei. |
+
+Enzymes. |
+
+Brasserie, production d'alcool potable, amidonnerie, traitement des grains de céréales destinés à la production de farine panifiable (à l'exception du pain de tradition française). |
+
+Hydrolyse des liaisons bêta 1-4 des glucanes. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Endo-bêta-glucanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF 624B-1) porteuse du gène codant une bêta glucanase de Bacillus subtilis. |
 
@@ -2082,45 +1948,15 @@ Dose techniquement inévitable.
 
 |
 
-Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase).
+Enzymes débranchant l'amidon de souche non génétiquement modifiée de Bacillus acido-pullulyticus (par exemple pullulanase). |
 
-|
+Enzymes. |
 
-Enzymes.
+Amidonnerie, production de glucose, bières. |
 
-|
+Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. |
 
-Amidonnerie, production de glucose. Bières.
-
-|
-
-Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.
-
-|
-
-Enzymes.
-
-|
-
-Bières.
-
-|
-
-Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.
-
-|
-
-Dose techniquement inévitable.
-
-|
+Teneur techniquement inévitable. |
 
 AUXILIAIRES
 
@@ -2196,9 +2032,7 @@ Enzymes.
 
 |
 
-Sirop de maltose.
-
-Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.
+Biscuiterie, pâtisserie et viennoiserie.
 
 |
 
@@ -2206,9 +2040,19 @@ Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon et d'oligosaccharides.
 
 |
 
-Teneur techniquement inévitable.
+Teneur résiduelle techniquement inévitable.
 
 |
+
+Exo-α-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis contenant le gène de Bacillus stearothermophilus. |
+
+Enzymes. |
+
+Sirop de maltose, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon et d'oligosaccharides. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Exo-α-amylase maltogène (ou 4 α D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SO) contenant le gène modifié codant l'exo-α-amylase maltogène de Bacillus stearothermophilus |
 
@@ -2240,7 +2084,7 @@ Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. |
 
 Teneur techniquement inévitable. |
 
-Exopeptidase d'Aspergillus melleus.
+Exopeptidase de souche non génétiquement modifiée d'Aspergillus melleus.
 
 |
 
@@ -2248,7 +2092,7 @@ Enzymes.
 
 |
 
-Préparations aromatisantes à partir de matières premières laitières.
+Préparations aromatisantes à base de matières premières laitières.
 
 |
 
@@ -2256,7 +2100,7 @@ Protéolyse. Les préparations aromatisantes sont stabilisées par la chaleur af
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2340,7 +2184,7 @@ Dose techniquement inévitable.
 
 |
 
-Glucamylase d'Aspergillus niger.
+Glucamylase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -2356,31 +2200,11 @@ Hydrolyse des liaisons alpha- glycosidiques des polysaccharides.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Glucose isomérase (D-glucose cétol isomérase) de Streptomyces violaceoniger.
-
-|
-
-Enzymes.
-
-|
-
-Sirop de glucose à teneur élevée en fructose.
-
-|
-
-Isomérisation du glucose.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Glucose isomérase de Bacillus coagulans, Actinoplanes missouriensis immobilisée sur support réticulé par du glutaraldéhyde.
+Glucose isomérase (D-glucose cétol isomérase) de souche non génétiquement modifiée de Streptomyces violaceoniger.
 
 |
 
@@ -2396,7 +2220,27 @@ Isomérisation du glucose.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
+
+|
+
+Glucose isomérase de souches non génétiquement modifiées de Bacillus coagulans, Actinoplanes missouriensis immobilisée sur un support réticulé par du glutaraldhéyde.
+
+|
+
+Enzymes.
+
+|
+
+Sirop de glucose à teneur élevée en fructose.
+
+|
+
+Isomérisation du glucose.
+
+|
+
+Teneur techniquement inévitable.
 
 |
 
@@ -2420,7 +2264,7 @@ Dose techniquement inévitable.
 
 |
 
-Glucose isomérase de Streptomyces olivochromogenes, Streptomyces rubiginosus, Streptomyces rubiginosus, immobilisée sur support inerte.
+Glucose isomérase de souches non génétiquement modifiées de Streptomyces olivochromogenes, Streptomyces rubiginosus, immobilisée sur support inerte.
 
 |
 
@@ -2436,7 +2280,7 @@ Isomérisation du glucose.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2450,7 +2294,7 @@ Isomérisation du D-glucose en D-fructose. |
 
 Dose techniquement inévitable. |
 
-Glucose oxydase d'Aspergillus niger.
+Glucose oxydase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -2458,39 +2302,15 @@ Enzymes.
 
 |
 
-Biscuiterie, pâtisserie, viennoiserie.
+Biscuiterie, pâtisserie, viennoiserie, panification (à l'exception du pain de tradition française) et panification spéciale.
 
 |
 
-Amélioration de la machinabilité des pâtes par oxydation du bêta-D- glucose.
-
-L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.
+Amélioration de la machinabilité des pâtes par oxydation du bêta-D-glucose. L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.
 
 |
 
-Dose techniquement inévitable.
-
-|
-
-Glucose oxydase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Panification (à l'exception du pain de tradition française) et panification spéciale.
-
-|
-
-Amélioration de la machinabilité des pâtes par oxydation du béta-D- glucose.
-
-L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.
-
-|
-
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2546,6 +2366,16 @@ L'activité glucose oxydase doit être associée à une activité catalase, en q
 
 Teneur résiduelle techniquement inévitable. |
 
+Glucose oxydase issue d'une souche modifiée génétiquement de Trichoderma reesei (RF11400) portant le gène codant la glucose oxydase de Penicillium amagasakiense. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française), panification spéciale, boulangerie fine, biscuiterie, pâtisserie, viennoiserie. |
+
+Amélioration de la machinabilité des pâtes par oxydation du béta-D-glucose. L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Glucosyltransférase de branchement (amylo-(1, 41, 6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis. |
 
 Enzymes |
@@ -2574,7 +2404,7 @@ Convervion de la L-glutamine en L-glutamate et ammoniac. |
 
 Teneur résiduelle techniquement inévitable |
 
-Hémicellulase d'Aspergillus niger.
+Hémicellulase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -2582,7 +2412,27 @@ Enzymes.
 
 |
 
-Panification (à l'exception du pain de tradition française) et panification spéciale.
+Biscuiterie, pâtisserie, viennoiserie, panification (à l'exception du pain de tradition française) et panification spéciale.
+
+|
+
+Amélioration de la machinabilité des pâtes par oxydation du bêta-D-glucose. L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.
+
+|
+
+Teneur techniquement inévitable.
+
+|
+
+Hémicellulase de souche non génétiquement modifiée d'Aspergillus niger.
+
+|
+
+Enzymes.
+
+|
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, viennoiserie, produits de la biscotterie.
 
 |
 
@@ -2590,67 +2440,7 @@ Hydrolyse des liaisons osidiques des hémicelluloses.
 
 |
 
-Dose techniquement inévitable.
-
-|
-
-Hémicellulase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Biscuiterie, pâtisserie, viennoiserie.
-
-|
-
-Hydrolyse des liaisons osidiques des hémicelluloses.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Hémicellulase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Produits de la biscotterie.
-
-|
-
-Hydrolyse des liaisons osidiques des hémicelluloses.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Hémicellulase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).
-
-|
-
-Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, artichaut et topinambour.
-
-|
-
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2736,7 +2526,7 @@ Dose techniquement inévitable.
 
 |
 
-Inulinase d'Aspergillus niger.
+Inulinase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -2752,11 +2542,11 @@ Hydrolyse de l'inuline. La teneur en dianhydrodifructose doit être inférieure 
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Invertase (et invertase immobilisée sur support immobilisée sur support réticulé par du glutaraldéhyde) de Saccharomyces cerevisiae.
+Invertase (et invertase immobilisée sur support réticulé par du glutaraldéhyde) de souche non génétiquement modifiée de Saccharomyces cerevisiae.
 
 |
 
@@ -2772,11 +2562,11 @@ Hydrolyse du saccharose.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Invertase de Saccharomyces cerevisiae immobilisée sur support réticulé par du glutaraldéhyde.
+Invertase de souche non génétiquement modifiée de Saccharomyces cerevisiae immobilisée sur support réticulé par du glutaraldéhyde.
 
 |
 
@@ -2792,7 +2582,7 @@ Hydrolyse du saccharose.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2836,7 +2626,7 @@ Teneur techniquement inévitable.
 
 |
 
-Lactases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
+Lactases de souches non génétiquement modifiées de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
 |
 
@@ -2854,11 +2644,11 @@ Les enzymes d'Aspergillus niger et d'Aspergillus oryzae peuvent être fixées su
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Lactases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
+Lactases de souches non génétiquement modifiées de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
 |
 
@@ -2876,7 +2666,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -2974,7 +2764,7 @@ Hydrolyse des lipides lors du prétraitement des matières premières utilisées
 
 Teneur résiduelle techniquement inévitable. |
 
-Lipase de Candida rugosa.
+Lipase de souche non génétiquement modifiée de Candida rugosa.
 
 |
 
@@ -2982,7 +2772,7 @@ Enzymes.
 
 |
 
-Production de préparations aromatisantes à partir de matières premières laitières
+Production de préparations aromatisantes à partir de matières premières laitières.
 
 |
 
@@ -2992,7 +2782,7 @@ Les préparations aromatisantes sont stabilisées par la chaleur afin d'assurer 
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3015,6 +2805,36 @@ Panification (à l'exception du pain de tradition française) et panification sp
 Hydrolyse des triglycérides. |
 
 Teneur techniquement inévitable. |
+
+Lipase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF10625) contenant le gène modifié codant la lipase de Fusarium oxysporum. |
+
+Enzymes. |
+
+Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des triglycérides. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Lipase issue d'une souche non génétiquement modifiée de Candida cylindracea (AE-LAYH). |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, production de produits laitiers utilisés à des fins aromatiques et de matières grasses concentrées en EPA et en DHA. |
+
+Hydrolyse des triglycérides. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Lipase issue d'une souche non génétiquement modifiée de Penicillium roqueforti (AE-LRF). |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, production de produits laitiers utilisés à des fins aromatiques, de matières grasses hydrolysées et d'ingrédients pour les préparations aromatisantes. |
+
+Hydrolyse des triglycérides. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum. |
 
@@ -3086,7 +2906,7 @@ Dose techniquement inévitable.
 
 |
 
-Lipase de Rhizopus oryzae.
+Lipase de souche non génétiquement modifiée de Rhizopus oryzae.
 
 |
 
@@ -3104,7 +2924,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3149,6 +2969,16 @@ Enzymes. |
 Production de sirop de glucose |
 
 Hydrolyse des lysophospholipides. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Maltotetraohydrolase (G4-amylase) issue d'une souche génétiquement modifiée de Bacillus licheniformis (DP-Dzr46) portant le gène codant la maltotetraohydrolase de Pseudomonas stutzeri. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française), panification spéciale, biscuiterie, pâtisserie, viennoiserie, biscotterie. |
+
+Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. |
 
 Teneur résiduelle techniquement inévitable. |
 
@@ -3232,7 +3062,7 @@ Dose techniquement inévitable.
 
 |
 
-Pectinases d'Aspergillus niger, Aspergillus wentii.
+Pectinases de souches non génétiquement modifiées d'Aspergillus niger, Aspergillus wentii.
 
 |
 
@@ -3240,7 +3070,7 @@ Enzymes.
 
 |
 
-Cidres et poirés.
+Cidres et poirés, jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.
 
 |
 
@@ -3248,31 +3078,11 @@ Hydrolyse des liaisons osidiques et esters des substances pectiques.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Pectinases d'Aspergillus niger, Aspergillus wentii.
-
-|
-
-Enzymes.
-
-|
-
-Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.
-
-|
-
-Hydrolyse des liaisons osidiques et esters des substances pectiques.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Pectine méthylestérase d'Aspergillus niger.
+Pectine méthylestérase de souche non génétiquement modifiée d'Aspergillus niger.
 
 |
 
@@ -3280,7 +3090,7 @@ Enzymes.
 
 |
 
-Fruits et légumes destinés à la mise en conserve et à la congélation.
+Fruits et légumes destinés à la mise en conserve et à la congélation, préparations de fruits et de tomates.
 
 |
 
@@ -3288,27 +3098,7 @@ Déméthoxylation des pectines (avec formation d'un gel en présence de calcium)
 
 |
 
-Dose techniquement inévitable.
-
-|
-
-Pectine méthylestérase d'Aspergillus niger.
-
-|
-
-Enzymes.
-
-|
-
-Préparations de fruits et de tomates.
-
-|
-
-Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).
-
-|
-
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3367,6 +3157,16 @@ Déméthoxylation des pectines (avec formation d'un gel en présence de calcium)
 Dose techniquement inévitable.
 
 |
+
+Pectine méthylestérase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF6201) portant le gène codant la pectine méthylestérase d'Aspergillus tubigensis. |
+
+Enzymes. |
+
+Jus et purées de fruits et légumes, traitement des fruits et légumes destinés à la mise en conserve et à la congélation, traitement des grains de céréales destinés à la production de farine panifiable (à l'exception du pain de tradition française), prétraitement des grains verts de café. |
+
+Déméthoxylation des pectines (avec formation d'un gel en présence de calcium). |
+
+Teneur résiduelle techniquement inévitable. |
 
 Pentosanase d'Humicola insolens (DSM 1800).
 
@@ -3598,6 +3398,16 @@ Hydrolyse de la fonction ester en position 2 des phospholipides. |
 
 Teneur techniquement inévitable. |
 
+Phospholipase A2 issue d'une souche génétiquement modifiée de Trichoderma reesei (RF8793) codant le gène de la phospholipase A2 d'Aspergillus nishimurae. |
+
+Enzymes. |
+
+Huiles végétales. |
+
+Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004. |
 
 Enzymes. |
@@ -3628,11 +3438,31 @@ Dose techniquement inévitable.
 
 |
 
+Phytase issue d'une souche modifiée génétiquement de Trichoderma reesei (DP-Nzt55) portant le gène codant la phytase de Buttiauxella sp. |
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse des phytates. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. |
 
 Enzymes. |
 
 Jus de fruits. |
+
+Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Polygalacturonase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF6197) portant le gène codant la polygalacturonase d'Aspergillus tubigensis. |
+
+Enzymes. |
+
+Jus et purées de fruits et légumes, traitement des grains de céréales destinés à la fabrication de farine panifiable (à l'exception du pain de tradition française), prétraitement des grains verts de café. |
 
 Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. |
 
@@ -3716,7 +3546,7 @@ Protéase de Bacillus amyloliquefaciens autocloné. |
 
 Enzymes. |
 
-Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. |
+Bières, produits de boulangerie (à l'exception du pain de tradition française) et boulangerie fine, hydrolysats de protéines et d'œufs. |
 
 Hydrolyse des liaisons peptidiques des protéines. |
 
@@ -3766,7 +3596,7 @@ Teneur techniquement inévitable.
 
 |
 
-Protéase de Bacillus licheniformis.
+Protéase de souche non génétiquement modifiée de Bacillus licheniformis.
 
 |
 
@@ -3784,11 +3614,11 @@ Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéase de Bacillus licheniformis.
+Protéase de souche non génétiquement modifiée de Bacillus licheniformis.
 
 |
 
@@ -3806,11 +3636,11 @@ Production de gluten de blé partiellement hydrolysé utilisé comme agent de te
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéase de Bacillus licheniformis.
+Protéase de souche non génétiquement modifiée de Bacillus licheniformis.
 
 |
 
@@ -3818,7 +3648,7 @@ Enzymes.
 
 |
 
-Hydrolysats de protéines de soja et blé.
+Hydrolysats de protéines de soja et de blé.
 
 |
 
@@ -3826,7 +3656,7 @@ Hydrolysats de protéines utilisées pour leurs propriétés fonctionnelles.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3845,6 +3675,16 @@ Panification (à l'exception du pain de tradition française) et panification sp
 Hydrolyse des liaisons peptidiques des protéines. |
 
 Teneur techniquement inévitable. |
+
+Protéase (subtilisine) issue d'une souche génétiquement modifiée de Bacillus subtilis (DP-Ezx62) portant le gène codant la protéase (subtilisine) de Bacillus amyloliquefaciens. |
+
+Enzymes. |
+
+Hydrolysats de protéines. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Protéase issue d'une souche génétiquement modifiée de Bacillus subtilisi (LMGS-23982) porteuse du gène codant une protéase de Thermus aquaticus. |
 
@@ -3866,7 +3706,7 @@ Hydrolyse des liaisons peptidiques des protéines avec une segmentation préfér
 
 Dose techniquement inévitable. |
 
-Protéase de Rhizomucor miehei.
+Protéase de souche non génétiquement modifiée de Rhizomucor miehei.
 
 |
 
@@ -3878,17 +3718,15 @@ Produits de la mer tels qu'œufs de poisson, céphalopodes.
 
 |
 
-Traitement de certains produits de la mer (œufs de poisson, céphalopodes).
-
-Hydrolyse des liaisons peptidiques des protéines.
+Traitement de certains produits de la mer (œufs de poisson, céphalopodes). Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéase Micrococcus caseolyticus.
+Protéase de souche non génétiquement modifiée de Micrococcus caseolyticus.
 
 |
 
@@ -3908,11 +3746,11 @@ Activation des ferments lactiques.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases à résidu sérine de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.
+Protéases à résidu sérine de souches non génétiquement modifiées de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.
 
 |
 
@@ -3928,11 +3766,11 @@ Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases à résidu sérine de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.
+Protéases à résidu sérine de souches non génétiquement modifiées de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.
 
 |
 
@@ -3948,7 +3786,7 @@ Dans les conditions prévues par l'arrêté du 21 décembre 1988.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3972,7 +3810,7 @@ Hydrolyse des liaisons peptidiques des protéines. |
 
 Teneur techniquement inévitable. |
 
-Protéases acides d'Endothia parasitica (Cryphonectria parasitica), Mucor pusillus lindt.
+Protéases acides de souche non génétiquement modifiée de Mucor pusillus lindt.
 
 |
 
@@ -3984,17 +3822,25 @@ Fromages (lait de vache et sans AOC).
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être "enzyme coagulante d'origine microbienne pour fromagerie".
+A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être " enzyme coagulante d'origine microbienne pour fromagerie ".
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases acides de Rhizomucor miehei.
+Protéases acides d'une souche autoclonée de Cryphonectria parasitica (DMS 29549) |
+
+Enzymes. |
+
+Fromages (lait de vache et sans AOC). |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être " enzyme coagulante d'origine microbienne pour fromagerie ". |
+
+Teneur techniquement inévitable. |
+
+Protéases acides de souches non génétiquement modifiées de Rhizomucor miehei.
 
 |
 
@@ -4006,17 +3852,15 @@ Fromages (sans AOC).
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être "enzyme coagulante d'origine microbienne pour fromagerie".
+A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être " enzyme coagulante d'origine microbienne pour fromagerie ".
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases acides d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.
+Protéases acides de souches non génétiquement modifiées d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.
 
 |
 
@@ -4032,11 +3876,11 @@ Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases acides d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.
+Protéases acides de souches non génétiquement modifiées d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.
 
 |
 
@@ -4052,31 +3896,11 @@ Dans les conditions prévues par l'arrêté du 21 décembre 1988.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
-
-|
-
-Enzymes.
-
-|
-
-Biscuiterie, pâtisserie, viennoiserie.
-
-|
-
-Hydrolyse des liaisons peptidiques des protéines.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Protéases de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
+Protéases de souches non génétiquement modifiées de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
 
 |
 
@@ -4084,17 +3908,25 @@ Enzymes.
 
 |
 
-Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.
+Biscuiterie, pâtisserie, viennoiserie, jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.
 
 |
 
-Hydrolyse des liaisons peptidiques des protéines.
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable.
 
 |
 
-Dose techniquement inévitable.
+Protéases de souches non génétiquement modifiées de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii. |
 
-|
+Enzymes. |
+
+Bières. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
 
 Protéases de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.
 
@@ -4136,7 +3968,7 @@ Dose techniquement inévitable.
 
 |
 
-Protéases(métallo-) de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
+Protéases (métallo-) de souches non génétiquement modifiées de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
 
 |
 
@@ -4152,11 +3984,11 @@ Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Protéases(métallo-) de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
+Protéases (métallo-) de souches non génétiquement modifiées de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.
 
 |
 
@@ -4172,7 +4004,7 @@ Dans les conditions prévues par l'arrêté du 21 décembre 1988.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -4226,7 +4058,7 @@ Dose techniquement inévitable.
 
 |
 
-Pullulanase de Bacillus acido- pullulyticus.
+Pullulanase de souche non génétiquement modifiée de Bacillus acido-pullulyticus.
 
 |
 
@@ -4242,7 +4074,7 @@ Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -4288,11 +4120,21 @@ Dose techniquement inévitable.
 
 Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. |
 
-Enzymes |
+Enzymes. |
 
 Brasserie, amidonnerie, alcool. |
 
 Hydrolyse des liaisons 1-6 glycosidiques des polysaccharides. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Pullulanase issue d'une souche génétiquement modifiée de Bacillus licheniformis (BML780PULm104) contenant le gène de la pullulanase de Bacillus deramificans. |
+
+Enzymes. |
+
+Industrie de l'alcool, brasserie, amidonnerie. |
+
+Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. |
 
 Teneur résiduelle techniquement inévitable. |
 
@@ -4306,7 +4148,7 @@ Hydrolyse des liaisons alpha 1-6 glucosides de l'amidon. |
 
 Teneur techniquement inévitable. |
 
-Ribonucléase de Penicillium citrinum.
+Ribonucléase de souche non génétiquement modifiée de Penicillium citrinum.
 
 |
 
@@ -4322,23 +4164,19 @@ Traitement d'extraits de levures. Hydrolyse de polyribonucléotides.
 
 |
 
-Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement.
+Teneur techniquement inévitable.
 
 |
 
-Ribonucléase de Penicillium citrinum sous formes granulée et poudre. |
+Ribonucléase de souche non génétiquement modifiée de Penicillium citrinum sous formes granulée et poudre. |
 
 Enzymes. |
 
 Extraits de levures hydrolysés. |
 
-Traitement d'extraits de levures.
+Traitement d'extraits de levures. Hydrolyse de polyribonucléotides. |
 
-Hydrolyse de polyribonucléotides.
-
-|
-
-Dose techniquement inévitable.L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. |
+Teneur techniquement inévitable. |
 
 Tannase d'Aspergillus oryzae (no 11-5).
 
@@ -4370,19 +4208,13 @@ Hydrolyse des liaisons peptidiques des protéines. |
 
 Teneur techniquement inévitable. |
 
-Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S8112. |
+Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S-8112. |
 
 Enzymes. |
 
 Produits reconstitués à base de poissons et d'autres produits de la mer. |
 
-Formation de liaisons covalentes.
-
-L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme.
-
-Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente de la denrée alimentaire " reconstituée" doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.
-
-|
+Formation de liaisons covalentes. L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme. Conformément au point 7 de la partie A de l'annexe VI du règlement (UE) n° 1169/2011 du 25 octobre 2011 précité, les produits de la pêche qui peuvent donner l'impression d'être faits d'une pièce entière de poisson mais qui, en réalité, consistent en différents morceaux liés ensemble par divers ingrédients, y compris des additifs ou des enzymes alimentaires ou d'autres procédés, portent l'indication suivante, en français : " poisson reconstitué ". |
 
 Teneur résiduelle techniquement inévitable.
 
@@ -4390,7 +4222,17 @@ L'enzyme doit être inactivée dans le produit final.
 
 |
 
-Transglutaminase de Streptoverticillium mobaraense.
+Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S-8112. |
+
+Enzymes. |
+
+Snacks à base de végétaux et protéines d'œufs ou de lait. |
+
+Formation de liaisons covalentes glutamyl-lysine. |
+
+Teneur résiduelle techniquement inévitable. L'enzyme doit être inactivée dans le produit final. |
+
+Transglutaminase de souche non génétiquement modifiée de Streptoverticillium mobaraense.
 
 |
 
@@ -4406,11 +4248,11 @@ Formation de liaisons covalentes glutamyl-lysine.
 
 |
 
-Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit final.
+Teneur techniquement inévitable.
 
 |
 
-Transglutaminase de Streptoverticillum mobaraense.
+Transglutaminase de souche non génétiquement modifiée de Streptoverticillium mobaraense.
 
 |
 
@@ -4422,15 +4264,11 @@ Produits à base de viandes reconstituées.
 
 |
 
-Formation de liaisons covalentes.
-
-L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme.
-
-Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.
+Formation de liaisons covalentes. L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme. Conformément au point 7 de la partie A de l'annexe VI du règlement (UE) n° 1169/2011 du 25 octobre 2011 précité, les produits à base de viande et les préparations de viandes qui peuvent donner l'impression d'être faits d'une pièce entière de viande mais qui, en réalité, consistent en différents morceaux liés ensemble par divers ingrédients, y compris des additifs ou des enzymes alimentaires ou d'autres procédés, portent l'indication suivante, en français : " viande reconstituée ".
 
 |
 
-Dose techniquement inévitable.L'enzyme doit être inactivée dans le produit final.
+Teneur techniquement inévitable.
 
 |
 
@@ -4454,7 +4292,7 @@ Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit f
 
 |
 
-Trypsine.
+Trypsine de souche non génétiquement modifiée.
 
 |
 
@@ -4470,11 +4308,11 @@ Hydrolyse des liaisons peptidiques des protéines. Dans les conditions prévues 
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
-Trypsine.
+Trypsine de souche non génétiquement modifiée.
 
 |
 
@@ -4490,7 +4328,7 @@ Hydrolyse des liaisons peptidiques des protéines.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -4642,7 +4480,7 @@ Xylanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF30
 
 Enzymes. |
 
-Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie ; Industrie de l'alcool, amidonnerie, production de sirop de glucose. |
 
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 
@@ -4743,6 +4581,26 @@ Industrie de l'alcool.
 Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.
 
 |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Xylanase issue d'une souche génétiquement modifiée de Trichoderma reesei (DP-Nzd66) portant le gène codant la xylanase d'Aspergillus niger var. tubigensis. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française), panification spéciale, biscuiterie, pâtisserie, viennoiserie, biscotterie. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Xylanase issue d'une souche génétiquement modifiée de Trichoderma reesei (ER) portant le gène codant la xylanase de Talaromyces leycetanus. |
+
+Enzymes. |
+
+Amidonnerie. |
 
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 

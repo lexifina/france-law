@@ -954,19 +954,29 @@ Ether diméthylique.
 
 |
 
-Solvants d'extraction.
+Solvant d'extraction.
 
 |
 
-Préparation de produits à base de protéines animales dégraissées.
+Préparation de produits à base de protéines animales dégraissées dont la gélatine.
 
 |
 
-0,009 mg/kg dans le produit à base de protéines dégraissées.
+/
 
 |
 
-|
+0,009 mg/ kg dans les produits à base de protéines animales dégraissées dont la gélatine. |
+
+Ether diméthylique. |
+
+Solvant d'extraction. |
+
+Préparation du collagène et de dérivés du collagène, à l'exclusion de la gélatine. |
+
+/ |
+
+3 mg/ kg dans le collagène et les dérivés du collagène, à l'exclusion de la gélatine. |
 
 Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta.
 

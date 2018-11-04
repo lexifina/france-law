@@ -308,7 +308,9 @@ Polymères de l'acide acrylique et de l'acrylate de sodium.
 
 |
 
-Acide acrylique ou acrylate de sodium monomère : pas plus de 2 000 mg/kg.
+Acide acrylique monomère : pas plus de 250mg/ kg
+
+Acrylate de sodium monomère : pas plus de 2 000mg/ kg.
 
 |
 
