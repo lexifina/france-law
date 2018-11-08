@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706224
+
+- Question : [SEQ180706224](seq180706224.md) — Présence de nitrite dans le jambon biologique
+
+## Réponse
+
+*Économie et finances, JO du 2018-11-08, page 5724*
+
+Les nitrites (E250) figurent dans la liste limitative des additifs autorisés en transformation par le règlement (CE) n° 889/2008 modifié portant modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique (liste de l annexe VIII du règlement). Son utilisation permet d'inhiber le développement de bactéries pathogènes (Clostridium botulinum, Listeria monocytogenes, salmonelles) dans les charcuteries et donc de prévenir tout risque sanitaire. Cependant, le règlement UE précise que l'utilisation de cet additif en agriculture biologique est soumis à la condition suivante : « cet additif ne peut être employé que s'il a été démontré à la satisfaction de l'autorité compétente qu'il n'existe aucune alternative technologique donnant les mêmes garanties sanitaires et/ou permettant de maintenir les caractéristiques propres du produit ». Il était admis jusqu'à présent qu'il n'existait pas d'alternative naturelle efficace et satisfaisante. Toutefois, les opérateurs du secteur de la charcuterie travaillent sur d'autres moyens pour conserver les charcuteries sans employer de nitrites. Aussi la drection générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a saisi la Commission nationale de l'agriculture biologique (CNAB) de l'INAO (Institut national de l'origine et de la qualité) afin de faire procéder à un état des lieux de ces travaux. Si les résultats de cette expertise démontraient que des alternatives existent à l'utilisation de nitrates, les autorités compétentes pour l'agriculture biologique en France, à savoir la DGCCRF et l'INAO, seraient alors fondées à ne plus autoriser l'utilisation de cet additif pour la fabrication de produits biologiques.
