@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180202958
+
+- Question : [SEQ180202958](seq180202958.md) — Situation des contribuables détenant une créance issue du « bouclier fiscal »
+
+## Réponse
+
+*Économie et finances, JO du 2018-11-08, page 5705*
+
+En application des articles 5 et 30 de la loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011, la part du droit à restitution acquis en 2011 ou en 2012 en application des dispositions de l'article 1649-0 A du code général des impôts et non imputée sur la cotisation d'impôt de solidarité sur la fortune (ISF) de la même année dans les conditions prévues aux articles 5 et 30 précités constitue une créance sur l'État imputable exclusivement sur les cotisations d'ISF dues au titre des années suivantes. Par exception à ce principe, la restitution du reliquat de la créance née du droit à restitution acquis en 2011 ou 2012 peut être demandée par le contribuable ou ses ayants droit avant le 31 décembre de l'année au titre de laquelle le contribuable titulaire de la créance n'est plus redevable de l'ISF. Compte tenu de l'abrogation de l'ISF par l'article 31 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les contribuables de cet impôt ne seront plus de facto redevables de l'ISF en 2018. Par conséquent, la restitution du reliquat de la créance « bouclier fiscal » 2011 ou 2012 devient de droit pour l'ensemble des contribuables encore titulaires d'une créance, sous réserve de pouvoir justifier de l'existence et du montant du reliquat à cette même date. Les contribuables concernés peuvent donc, entre le 1er janvier et le 31 décembre 2018, demander le remboursement de cette créance dans les conditions prévues par les articles 5 et 30 de la loi de finances rectificative pour 2011 précitée. La demande de restitution est effectuée au moyen de l'imprimé n° 2041 DRBF portant l'original du droit à restitution, annoté le cas échéant des imputations successives sur les ISF des années antérieures.
