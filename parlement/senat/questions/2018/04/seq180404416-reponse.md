@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404416
+
+- Question : [SEQ180404416](seq180404416.md) — Échéance d'application de la taxe de séjour
+
+## Réponse
+
+*Économie et finances, JO du 2018-11-08, page 5713*
+
+La loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017 a introduit deux modifications importantes et complémentaires concernant la taxe de séjour. La première consiste à calculer le montant de la taxe de séjour pour les hébergements sans classement ou en attente de classement en appliquant un pourcentage déterminé par la collectivité au prix de la nuitée et la seconde à obliger les plateformes opérant par voie électronique et qui sont intermédiaires de paiement à collecter et reverser la taxe de séjour. Cette nouvelle réglementation nécessite des adaptations importantes pour les professionnels qui doivent intégrer ces nouveaux paramètres dans leurs systèmes d'information et leur modèle économique. Même si la date du 1er décembre 2018 correspond au début de la saison touristique dans certaines stations de montagne, il n'apparaît pas opportun d'avancer la mise en application de cette réforme, qui concerne l'ensemble des communes touristiques ayant institué la taxe de séjour. Pour des raisons tenant à la simplicité et à la lisibilité de la réglementation, le législateur a préféré conservé le cadre de l'année civile, à l'instar des actes réglementaires qui entrent en vigueur, sauf exception, le 1er janvier ou le 1er juillet. Par ailleurs, le maintien de la mise en œuvre de la réforme au 1er janvier 2019 doit permettre d'une part le recueil par l'administration fiscale de l'ensemble des délibérations et leur mise en ligne et d'autre part aux professionnels d'opérer les adaptations nécessaires en termes d'organisation et de modification de leurs systèmes d'information, dans le cadre du calendrier initialement prévu. Dès l'hiver 2019-2020, le nouveau système sera applicable dès le début de la saison dans les stations de montagne.
