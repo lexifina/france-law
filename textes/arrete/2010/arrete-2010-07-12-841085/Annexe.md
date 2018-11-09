@@ -2,10 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 octobre 2018 :
-
-Saint-Pierre de La Réunion - Maurice.
-
 Jusqu'au 30 avril 2019 :
 
 Saint-Denis de La Réunion - Anjouan (Comores) ;
@@ -57,3 +53,11 @@ Saint-Denis de La Réunion-Guangzhou (Chine).
 Jusqu'au 30 novembre 2022 :
 
 Saint-Denis de La Réunion - Perth (Australie).
+
+Jusqu'au 31 octobre 2023 :
+
+Saint-Pierre de La Réunion-Maurice ;
+
+Saint-Denis de La Réunion-Tuléar (Madagascar)
+
+Saint-Denis de La Réunion-Fort-Dauphin (Madagascar).
