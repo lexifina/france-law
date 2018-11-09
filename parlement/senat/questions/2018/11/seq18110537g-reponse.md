@@ -1,0 +1,39 @@
+# Réponse à la question SEQ18110537G
+
+- Question : [SEQ18110537G](seq18110537g.md) — Nouvelle-Calédonie
+
+## Réponse
+
+*Premier ministre, JO du 2018-11-09, page 15105*
+
+M. Édouard Philippe, Premier ministre. Dimanche, la Nouvelle-Calédonie a voté. Elle a voté massivement ; plus de 80 % du corps électoral s'est prononcé. M. Bruno Sido. De ceux qui avaient le droit de voter !
+
+M. Édouard Philippe, Premier ministre. Elle a voté dans un calme et une sérénité qui ont été notés par tous.
+
+Que ce soient les 250 délégués qui veillaient au bon exercice du droit de vote et au respect de l'ordre public, la commission de contrôle présidée par M. Francis Lamy, ou encore les observateurs dépêchés par le Forum des îles du Pacifique et par l'Organisation des Nations unies, tous ont pu observer que le scrutin s'était déroulé dans des conditions d'organisation remarquables. Je tiens à le souligner, car cette remarquable organisation et le calme dans lequel l'ensemble des forces politiques et des électeurs de Nouvelle-Calédonie se sont prononcés ont eu une conséquence : le résultat acquis dimanche soir n'est contesté par personne.
+
+C'est une excellente nouvelle, qui est due à l'engagement de l'ensemble des forces politiques de Nouvelle-Calédonie, ainsi qu'au remarquable travail d'organisation réalisé à la fois par les services de l'État, par les maires et par l'ensemble de ceux qui se sont engagés et ont concouru à ce travail. Je veux évidemment tous les en remercier.
+
+Peut-être me permettrez-vous, monsieur le sénateur, de mentionner également le comité des sages. Je l'avais moi-même créé de façon à ce que, sous la présidence de Jean Lèques, maire honoraire de Nouméa, des personnalités reconnues en Nouvelle-Calédonie puissent veiller à ce que la tonalité de la campagne respecte le cadre dans lequel les accords de Matignon et de Nouméa avaient été conclus il y a plusieurs décennies.
+
+Je veux souligner, en deuxième lieu, que ce référendum intervient au terme de trente années absolument exceptionnelles. Le processus engagé en 1988 par Michel Rocard, Jean-Marie Tjibaou et Jacques Lafleur, et poursuivi en 1998 sur l'initiative de Lionel Jospin, que je veux également saluer, a su pendant trente ans faire le consensus entre l'ensemble des forces politiques de Nouvelle-Calédonie, mais aussi entre l'ensemble des majorités et des gouvernements qui se sont succédé dans notre pays. J'y vois, mesdames, messieurs les sénateurs, un exemple de continuité de l'action politique qu'il faut relever et dont nous devons tous être collectivement incroyablement fiers.
+
+Eh bien, ce résultat marque la volonté de construire en Nouvelle-Calédonie un rééquilibrage politique et économique par une méthode fondée sur le dialogue, sur le consensus et, dans la mesure du possible, sur le respect des positions exprimées par des forces politiques avec lesquelles on a parfois des divergences que l'on peut d'ailleurs assumer.
+
+Je veux faire remarquer, en troisième lieu, que si cette consultation s'est déroulée dans des conditions remarquables d'ordre, si nous avons assisté dimanche à un tel succès de la démocratie, c'est bien parce que l'ensemble des forces politiques a souhaité que les actes fondateurs de ce processus – les accords de Matignon, puis ceux de Nouméa, qui ont été intégrés dans le droit positif par une loi organique – demeurent la boussole de l'action publique.
+
+Ces accords prévoient que, après la première consultation, certes dans certaines conditions et après certains délais, mais sur la simple initiative d'un tiers des membres du congrès de la Nouvelle-Calédonie, il pourra être procédé à un deuxième référendum, qui poserait la même question que le premier. La loi organique prévoit même la possibilité, après ce deuxième référendum, d'en organiser un troisième sous les mêmes conditions. Ce cadre n'a pas vocation à être modifié ou méconnu, sauf à ce qu'un consensus entre les forces politiques y conduise, tout comme un autre consensus a permis, en 1998, de modifier les conditions issues des accords de Matignon. S'il n'y avait pas ce consensus, il ne serait pas raisonnable de vouloir modifier ce cadre.
+
+Il faut savoir – je pense que nous pouvons nous accorder sur ce point, monsieur le sénateur – que si ce cadre a des avantages considérables – le respect de la paix civile, l'expression démocratique de la volonté des électeurs de Nouvelle-Calédonie –, il présente également – il faut bien reconnaître – un certain nombre, non pas d'inconvénients, mais d'éléments qu'il faut garder en tête.
+
+Premier élément, depuis trente ans, la discussion entre les forces politiques, ainsi qu'entre elles et l'État, s'est beaucoup concentrée sur les questions institutionnelles. C'est bien légitime et on peut le comprendre. Toutefois, en plaçant au premier plan les questions institutionnelles, on a probablement trop largement mis de côté les questions économiques et sociales, celles du rééquilibrage et du développement de la Nouvelle-Calédonie. Or ces questions sont essentielles pour le développement de ce territoire, quels que soient les choix institutionnels faits par les électeurs de Nouvelle-Calédonie. Nous devrons donc veiller à l'avenir – c'est l'engagement que j'ai pris auprès des forces politiques et que j'ai rappelé avec Mme la ministre des outre-mer – à ce que la question du développement économique et social soit posée de façon plus explicite et plus profonde que ce qui a prévalu jusqu'à présent.
+
+Le second élément, qui n'est d'ailleurs pas sans lien avec le premier, est la très grande instabilité qui pourrait s'installer dans l'hypothèse d'un deuxième puis d'un troisième référendum. Tout cela crée une forme d'instabilité qu'il faut avoir à l'esprit si l'on veut permettre des investissements et le développement économique et social de la Nouvelle-Calédonie.
+
+Autrement dit, monsieur le sénateur, ne doutez pas une seconde – je crois d'ailleurs que vous n'en doutez pas – de la volonté du Gouvernement de respecter le cadre juridique dont ont convenu depuis trente ans les forces politiques, ainsi que l'ensemble des gouvernements et des majorités. Nous voulons respecter ce cadre strictement, car il est la condition de la paix civile.
+
+Par ailleurs, soyez assuré de notre volonté de poursuivre le dialogue avec les parties. J'ai moi-même, en me rendant sur place au lendemain du référendum, souhaité rencontrer l'ensemble des forces politiques ; je les ai invitées à Paris, au mois de décembre, pour participer à un comité des signataires afin de tirer collectivement le bilan de cette consultation électorale.
+
+Vous m'interrogez également – pardonnez la longueur de mon propos, mais il me semble que le sujet le mérite amplement – sur les transferts de compétences. Cette question a été instruite et travaillée par l'État avec les forces politiques. Il se trouve qu'elle n'a pas fait l'objet d'un tel consensus que le congrès de la Nouvelle-Calédonie s'en serait saisi pour demander le transfert de compétences spécifiques. Nous en sommes donc là : je n'exclus rien, mais vous comprendrez bien que, en cette matière comme, d'ailleurs, dans toutes les autres, la qualité de la discussion et l'émergence du consensus sont des conditions déterminantes du succès. C'est la raison pour laquelle, pour l'instant, il n'a pas été procédé à des transferts de compétences.
+
+Enfin, monsieur le sénateur, je veux souligner combien, en la matière, il est indispensable que le Gouvernement travaille avec l'ensemble des parlementaires et des forces politiques. C'est pourquoi je me tiens à la disposition de l'ensemble des groupes parlementaires pour faire régulièrement le point sur la question de la Nouvelle-Calédonie. (Applaudissements sur les travées du groupe La République En Marche et du groupe socialiste et républicain, ainsi que sur des travées du groupe du Rassemblement Démocratique et Social Européen et du groupe Union Centriste.)
