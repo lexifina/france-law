@@ -122,6 +122,20 @@ Directeur du centre d'analyse et de contrôle interne
 
 |
 
+Service de santé des armées |
+
+Directeur de la médecine des forces
+
+Directeur des hôpitaux
+
+Directeur de la formation, de la recherche et de l'innovation
+
+Directeur des approvisionnements en produits de santé
+
+Directeur des systèmes d'information et du numérique
+
+|
+
 191.-RECHERCHE DUALE (civile et militaire) |
 
 Armées, direction ou service
