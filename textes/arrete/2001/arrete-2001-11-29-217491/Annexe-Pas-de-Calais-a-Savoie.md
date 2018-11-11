@@ -360,91 +360,51 @@ B
 
 Direction départementale des territoires du Rhône
 
-FONCTIONS EXERCEES
+(A compter du 1er février 2017)
 
-|
+Fonctions exercées |
 
-NIVEAU
+Niveau de qualification
 
-de qualification de l'emploi
+de l'emploi |
 
-|
+Nombre d'emplois |
 
-NOMBRE
+Nombre de points (IM)
 
-d'emplois
+par emploi |
 
-|
+Chef du service habitat et renouvellement urbain |
 
-NOMBRE DE POINTS (IM)
+A |
 
-par emploi
+1 |
 
-|
+40 |
 
-Adjoint au chef de service, en charge de la mission politique de la ville et renouvellement urbain-service habitat et renouvellement urbain
+Responsable de la mission politique de la ville-renouvellement urbain |
 
-|
+A |
 
-A
+1 |
 
-|
+30 |
 
-1
+Chargé de projet au sein de la mission politique de la ville-renouvellement urbain |
 
-|
+A |
 
-40 points
+1 |
 
-|
+30 |
 
-Chargé d'opération
+Chargé de projet renouvellement urbain et missions transversales politique de la ville |
 
-|
+A |
 
-A
+1 |
 
-|
-
-6
-
-|
-
-30 points
-
-|
-
-Chargé d'opération politique de la ville au sein de la cellule politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Assistant au chargé d'opération politique de la ville
-
-|
-
-C
-
-|
-
-3
-
-|
-
-30 points
-
-|
+30 |
 
 Direction départementale des territoires de la Haute-Saône
 
