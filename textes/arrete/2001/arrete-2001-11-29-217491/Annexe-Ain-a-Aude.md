@@ -234,37 +234,21 @@ B
 
 01/09/17 |
 
-Direction départementale des territoires et de la mer des Alpes-Maritimes
+Direction départementale des territoires et de la mer des Alpes-Maritimes (1)
 
-FONCTIONS EXERCÉES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification
+Nombre d'emplois |
 
-de l'emploi
+Nombre de points (IM)
 
-|
+par emploi |
 
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points (IM)
-
-par emploi
-
-|
-
-Adjoint au chef du service logement et construction
-
-|
+Adjoint au chef du service logement et construction |
 
 A |
 
@@ -272,9 +256,7 @@ A |
 
 50 |
 
-Responsable du pôle habitat - Service territorial Est montagne
-
-|
+Responsable du pôle habitat-Service territorial Est montagne |
 
 A |
 
@@ -282,9 +264,7 @@ A |
 
 40 |
 
-Responsable du pôle développement de l'offre de logement - Service logement construction
-
-|
+Responsable du pôle développement de l'offre de logement-Service logement construction |
 
 A |
 
@@ -292,9 +272,7 @@ A |
 
 40 |
 
-Instructeur rénovation urbaine - Service territorial Est montagne
-
-|
+Instructeur rénovation urbaine-Service territorial Est montagne |
 
 B |
 
@@ -302,9 +280,7 @@ B |
 
 30 |
 
-Administrateur de données à la mission foncière - Service logement construction
-
-|
+Administrateur de données à la mission foncière-Service logement construction |
 
 B |
 
@@ -312,9 +288,7 @@ B |
 
 30 |
 
-Chargé du pôle habitat - Service territorial Ouest
-
-|
+Adjoint au chef du pôle mission habitat |
 
 B |
 
@@ -322,9 +296,7 @@ B |
 
 30 |
 
-Instructeur rénovation urbaine - Service territorial Ouest
-
-|
+Instructeur rénovation urbaine-Service territorial Ouest |
 
 B |
 
@@ -332,9 +304,7 @@ B |
 
 30 |
 
-Chargé de mission habitat - Service territorial Est montagne
-
-|
+Chargé de mission habitat-Service territorial Est montagne |
 
 B |
 
@@ -452,7 +422,7 @@ A
 
 |
 
-Direction départementale des territoires de l'Aube (1).
+Direction départementale des territoires de l'Aube (3).
 
 Fonctions exercées |
 
@@ -530,6 +500,8 @@ B
 
 NOTA :
 
-(1) Conformément à l'article 1er de l'arrêté du 6 septembre 2018, les dispositions de l'annexe du présent arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Aube prennent effet au 1er janvier 2016.
+(1) Conformément à l'article 1er de l'arrêté du 31 octobre 2018, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Alpes-maritimes prennent effet au 1er janvier 2017.
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+
+(3) Conformément à l'article 1er de l'arrêté du 6 septembre 2018, les dispositions de l'annexe du présent arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Aube prennent effet au 1er janvier 2016.
