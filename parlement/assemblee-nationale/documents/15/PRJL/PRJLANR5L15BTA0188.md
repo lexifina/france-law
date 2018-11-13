@@ -1,0 +1,13 @@
+# projet de loi de finances rectificative pour 2018
+
+- Type : Projet de loi
+- Sous-type : de finances rectificative
+- Dénomination : Projet de loi
+- Provenance : Séance
+- Statut : ADOPTSEANCE
+- Titre court : PLFR pour 2018
+- Publié le : 2018-11-21
+- Dossier : DLR5L15N36985
+- Auteurs : Assemblée nationale de la 15ème législature
+- Identifiant : PRJLANR5L15BTA0188
+- Législature : 15
