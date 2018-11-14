@@ -1,0 +1,64 @@
+# Office français de la biodiversité
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N36997
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/creation_afb-oncfs
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-274.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-11-14 : 1er dépôt d'une initiative. (PRJLANR5L15B1402)
+  - 2018-11-14 : Etude d'impact (ETDIANR5L15B1402)
+  - 2018-11-14 : Avis du Conseil d'Etat (AVCEANR5L15B1402)
+  - 2018-11-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-14 : Renvoi en commission au fond
+      - 2018-11-21 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2018-12-04 : Réunion de commission
+      - 2018-12-04 : Réunion de commission
+      - 2018-12-05 : Réunion de commission
+      - 2019-01-23 : Réunion de commission
+      - 2018-12-06 : Dépôt de rapport (RAPPANR5L15B1482, PRJLANR5L15BTC1482)
+  - Discussion en séance publique
+    - 2019-01-23 : Discussion en séance publique
+    - 2019-01-23 : Discussion en séance publique
+    - 2019-01-24 : Discussion en séance publique
+    - 2019-01-24 : Discussion en séance publique
+    - 2019-01-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-01-25 : Dépôt d'une initiative en navette (PRJLSNR5S319B0274)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-01-25 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-04-03 : Dépôt de rapport (RAPPSNR5S319B0424, PRJLSNR5S319BTC0425)
+    - Travaux d'une commission saisie pour avis
+      - 2019-01-30 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-03-27 : Dépôt de rapport (AVISSNR5S319B0411)
+  - Discussion en séance publique
+    - 2019-04-10 : Discussion en séance publique
+    - 2019-04-11 : Discussion en séance publique
+    - 2019-04-11 : Décision
+- Commission Mixte Paritaire
+  - 2019-04-12 : Dépôt d'un projet de loi (PRJLANR5L15B1875)
+  - 2019-04-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-25 : Nomination de rapporteur
+    - 2019-06-25 : Dépôt du rapport d'une CMP (RAPPANR5L15B2071, PRJLANR5L15BTC2071)
+    - 2019-06-25 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0590, PRJLSNR5S319BTC0591)
+  - Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Décision
+  - 2019-06-25 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-07-24 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-03-04 : Rapport sur l'application des lois (RINFANR5L15B2734)
