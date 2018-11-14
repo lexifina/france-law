@@ -1,0 +1,66 @@
+# Modification de la loi sur le cinquième alinéa de l'article 13 de la Constitution
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N36996
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/modification_loi_2010-837
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-275.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-11-14 : 1er dépôt d'une initiative. (PRJLANR5L15B1401)
+  - 2018-11-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-14 : Renvoi en commission au fond
+      - 2018-11-28 : Nomination de rapporteur
+      - 2018-11-28 : Réunion de commission
+      - 2018-11-28 : Réunion de commission
+      - 2018-12-12 : Réunion de commission
+      - 2019-01-23 : Réunion de commission
+      - 2018-12-12 : Dépôt de rapport (RAPPANR5L15B1492, PRJLANR5L15BTC1492)
+    - Travaux d'une commission saisie pour avis
+      - 2018-11-15 : Saisine pour avis d'une commission
+      - 2018-11-21 : Nomination de rapporteur
+      - 2018-11-21 : Réunion de commission
+      - 2018-12-04 : Réunion de commission
+      - 2018-12-04 : Réunion de commission
+      - 2018-12-05 : Réunion de commission
+      - 2018-12-06 : Dépôt de rapport (AVISANR5L15B1483)
+  - Discussion en séance publique
+    - 2019-01-23 : Discussion en séance publique
+    - 2019-01-23 : Discussion en séance publique
+    - 2019-01-24 : Discussion en séance publique
+    - 2019-01-24 : Discussion en séance publique
+    - 2019-01-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-01-25 : Dépôt d'une initiative en navette (PRJLSNR5S319B0275)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-01-25 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-04-03 : Dépôt de rapport (RAPPSNR5S319B0424, PRJLSNR5S319BTC0425)
+  - Discussion en séance publique
+    - 2019-04-10 : Discussion en séance publique
+    - 2019-04-11 : Discussion en séance publique
+    - 2019-04-11 : Décision
+- Commission Mixte Paritaire
+  - 2019-04-12 : Dépôt d'un projet de loi (PRJLANR5L15B1876)
+  - 2019-04-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-25 : Nomination de rapporteur
+    - 2019-06-25 : Dépôt du rapport d'une CMP (RAPPANR5L15B2069, PRJLANR5L15BTC2069)
+    - 2019-06-25 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0592, PRJLSNR5S319BTC0593)
+  - Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Décision
+  - 2019-06-25 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-07-17 : Saisine du conseil constitutionnel
+  - 2019-07-25 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-07-26 : Promulgation d'une loi
