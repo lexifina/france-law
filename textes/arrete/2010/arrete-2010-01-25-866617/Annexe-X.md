@@ -8,7 +8,7 @@ La règle générale est d'évaluer l'impact des pressions à l'origine du risqu
 
 Ceci correspond :
 
--pour l'état écologique : à un ou des paramètres physico-chimiques à risque de dépassement des valeurs-seuils (cf. arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique de l'état chimique et du potentiel écologique des eaux de surface), et/ ou la (ou les) substance (s) rejetée (s) en quantité (s) importante (s) (substances autres que les substances de l'état chimique), et/ ou un (ou des) élément (s) hydromorphologique (s) et le (ou les) élément (s) biologique (s) le (s) plus sensible (s) ;
+-pour l'état écologique : à un ou des paramètres physico-chimiques à risque de dépassement des valeurs-seuils (cf. arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique de l'état chimique et du potentiel écologique des eaux de surface), et/ ou la (ou les) substance (s) rejetée (s) en quantité (s) importante (s) (substances autres que les substances de l'état chimique), et/ ou un (ou des) élément (s) hydromorphologique (s) et/ ou le (ou les) élément (s) biologique (s) le (s) plus sensible (s) ;
 
 Et/ ou
 
@@ -20,321 +20,191 @@ Le suivi du compartiment écologique et/ ou chimique est à adapter suivant la n
 
 Dans le cadre du programme de contrôles opérationnels, un suivi peut être réalisé avant la mise en œuvre des programmes de mesures pour établir l'état et identifier les éléments les plus sensibles aux pressions.
 
-Après la mise en œuvre des mesures et dans un délai compatible avec la réalisation de leurs effets sur le milieu, le suivi porte d'abord sur le ou les éléments physico-chimiques, chimiques ou hydromorphologiques les plus sensibles aux pressions à l'origine du risque. Le ou les éléments biologiques les plus sensibles aux pressions sont contrôlés lorsqu'une amélioration de ces éléments physico-chimiques, chimiques ou hydromorphologiques est constatée.
+Après la mise en œuvre des mesures et dans un délai compatible avec la réalisation de leurs effets sur le milieu, le suivi porte d'abord, préférentiellement, sur le ou les éléments physico-chimiques, chimiques ou hydromorphologiques les plus sensibles aux pressions à l'origine du risque. Le ou les éléments biologiques les plus sensibles aux pressions peuvent être contrôlés dans un second temps lorsqu'une amélioration de ces éléments physico-chimiques, chimiques ou hydromorphologiques est constatée.
 
 L'évaluation du retour au bon état écologique et/ ou chimique, ou au bon potentiel écologique, s'effectue :
 
--avec l'ensemble des éléments de qualité qui servent à évaluer cet état, dans le type considéré, conformément aux modalités définies par l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état des eaux. C'est-à-dire sur la base de données issues de suivis directs menés dans le cadre des contrôles opérationnels (pour les éléments les plus sensibles sélectionnés ci-dessus) et de données extrapolées, modélisées ou expertisées (pour les éléments non sensible aux pressions à l'origine du risques) ;
+-avec l'ensemble des éléments de qualité qui servent à évaluer cet état, dans le type considéré, conformément aux modalités définies par l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état des eaux. C'est-à-dire sur la base de données issues de suivis directs menés dans le cadre des contrôles opérationnels (pour les éléments les plus sensibles sélectionnés ci-dessus) et de données mesurées, extrapolées, modélisées ou expertisées (pour les éléments non sensibles aux pressions à l'origine du risques) ;
 
 -sur la base de la chronique de données définies par l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état des eaux.
 
+Les paramètres morphologiques définis pertinents par avis d'expert, sensible (s) aux pressions à l'origine du RNAOE, pourront ainsi être caractérisés en retenant préférentiellement les protocoles des méthodes existantes telles que CARHYCE ou AURAH-CE. Dès lors que l'un de ces protocoles est mis en œuvre, il est recommandé de le réaliser dans son intégralité.
+
+Guide de référence :
+
+-AFB, 2017. CARHYCE : caractérisation de l'hydromorphologie des cours d'eau : protocole de recueil de données hydromorphologiques à l'échelle de la station sur des cours d'eau prospectables à pied. 56 p.
+
+-ONEMA 2013. Protocole d'audit rapide de l'hydromorphologie des cours d'eau (AURAH-CE). Guide, 46 p.
+
 1.2. Sélection des fréquences
 
-La fréquence des contrôles requise pour tout paramètre est déterminée de manière à apporter des données suffisantes pour une évaluation valable de l'état de l'élément de qualité en question. A titre indicatif, les contrôles devraient avoir lieu à des intervalles ne dépassant pas ceux indiqués dans le tableau ci-dessous, à moins que des intervalles plus longs ne se justifient sur la base des connaissances techniques et des avis d'experts. Les fréquences peuvent également dans certains cas être augmentées, par exemple pour les éléments de qualité biologique et chimique les plus sensibles aux pressions afin de suivre la tendance de retour au bon état.
+La fréquence des contrôles requise pour tout paramètre est déterminée de manière à apporter des données suffisantes pour une évaluation valable de l'état de l'élément de qualité en question. A titre indicatif, les contrôles devraient avoir lieu a minima aux fréquences indiquées dans le tableau ci-dessous, à moins que des fréquences moins importantes ne se justifient sur la base des connaissances techniques et des avis d'experts. Les fréquences peuvent également dans certains cas être augmentées, par exemple pour les éléments de qualité biologique et chimique les plus sensibles aux pressions afin de suivre la tendance de retour au bon état.
 
-Tableau 50.-Fréquence des contrôles opérationnels des eaux de surface
+Tableau 61 : fréquences des contrôles opérationnels des eaux de surface
 
 |
 
-COURS D'EAU
+COURS D'EAU |
 
-|
-
-PLAN D'EAU
-
-|
-
-EAUX DE TRANSITION
-
-|
-
-EAUX CÔTIÈRES
-
-|
-
-Biologique
-
-|
-
-Phytoplancton
-
-|
-
-2 fois par an tous les ans (*)
-
-|
-
-4 fois par an tous les 3 ans (*)
-
-|
-
-6 mois
-
-|
-
-6 mois
-
-|
-
-Autre flore aquatique
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-Macro-invertébrés
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-Poissons
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-|
-
-Hydromorphologique
-
-|
-
-Continuité
-
-|
-
-6 ans
-
-|
-
-|
-
-|
-
-|
-
-Hydrologie
-
-|
-
-Continu
-
-|
-
-1 mois
+PLAN D'EAU |
 
-|
-
-|
-
-|
+EAUX DE TRANSITION |
 
-Morphologie
+EAUX CÔTIÈRES |
 
-|
+Biologique |
 
-6 ans
+Phytoplancton |
 
-|
+2 fois par an tous les ans (*) |
 
-6 ans
+4 fois par an tous les 3 ans (*) |
 
-|
+6 mois |
 
-6 ans
+6 mois |
 
-|
+Autre flore aquatique |
 
-6 ans
+3 ans |
 
-|
+3 ans |
 
-Physico-chimique
+3 ans |
 
-|
+3 ans |
 
-Température
+Macro-invertébrés |
 
-|
+3 ans |
 
-4 fois par an tous les ans
+3 ans |
 
-|
+3 ans |
 
-4 fois par an tous les 3 ans
+3 ans |
 
-|
+Poissons |
 
-3 mois
+3 ans |
 
-|
+3 ans |
 
-3 mois
+3 ans |
 
 |
 
-Bilan d'oxygène
+Hydromorphologique |
 
-|
+Continuité |
 
-4 fois par an tous les ans
+6 ans |
 
 |
-
-4 fois par an tous les 3 ans
 
 |
 
-3 mois
-
 |
 
-3 mois
+Hydrologie |
 
-|
+Continu |
 
-Salinité
+1 mois |
 
 |
 
-4 fois par an tous les ans
-
 |
-
-4 fois par an tous les 3 ans
 
-|
+Morphologie |
 
-3 mois
+6 ans |
 
-|
+6 ans |
 
-|
+6 ans |
 
-Nutriments
+6 ans |
 
-|
+Physico-chimique |
 
-4 fois par an tous les ans
+Température |
 
-|
+4 fois par an tous les ans |
 
-4 fois par an tous les 3 ans
+4 fois par an tous les 3 ans |
 
-|
+3 mois |
 
-3 mois
+3 mois |
 
-|
+Bilan d'oxygène |
 
-3 mois
+4 fois par an tous les ans |
 
-|
+4 fois par an tous les 3 ans |
 
-Etat d'acidification
+3 mois |
 
-|
+3 mois |
 
-4 fois par an tous les ans
+Salinité |
 
-|
+4 fois par an tous les ans |
 
-4 fois par an tous les 3 ans
+4 fois par an tous les 3 ans |
 
-|
+3 mois |
 
 |
 
-|
+Nutriments |
 
-Autres polluants
+4 fois par an tous les ans |
 
-|
+4 fois par an tous les 3 ans |
 
-4 fois par an tous les ans
+3 mois |
 
-|
+3 mois |
 
-4 fois par an tous les 3 ans
+Etat d'acidification |
 
-|
+4 fois par an tous les ans |
 
-3 mois
+4 fois par an tous les 3 ans |
 
 |
-
-3 mois
 
 |
 
-Substances prioritaires
-
-|
+Autres polluants |
 
-1 mois
+4 fois par an tous les ans |
 
-|
+4 fois par an tous les 3 ans |
 
-4 fois par an tous les 3 ans
+3 mois |
 
-|
+3 mois |
 
-1 mois
+Substances prioritaires |
 
-|
+1 mois |
 
-1 mois
+4 fois par an tous les 3 ans |
 
-|
+1 mois |
 
-(*) Prévoir les prélèvements en période de croissance de la végétation (mai à octobre pour la métropole)
+1 mois |
 
-|
+(*) Prévoir les prélèvements en période de croissance de la végétation (mai à octobre pour la métropole) |
 
 Les fréquences intra-annuelles et interannuelles sont choisies de manière à parvenir à un niveau de confiance et de précision acceptable. Les fréquences interannuelles sont notamment à adapter en fonction des caractéristiques et de l'état de la masse d'eau ainsi que de la nature des mesures mises en place. L'évaluation de la confiance et de la précision atteinte par le système de contrôle utilisé est indiquée dans le schéma directeur d'aménagement et de gestion des eaux.
 
 Les fréquences de contrôle sont choisies de manière à tenir compte de la variabilité des paramètres résultant des conditions à la fois naturelles et anthropiques. L'époque à laquelle les contrôles sont effectués est déterminée de manière à réduire au minimum l'effet des variations saisonnières sur les résultats, et donc à assurer que les résultats reflètent les modifications subies par la masse d'eau du fait des variations des pressions anthropiques.
 
-Pour constater le retour au bon état de la masse d'eau, les fréquences de contrôle seront accrues, lorsque cela est nécessaire, pour disposer de la chronique de données définies par l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état des eaux. Ainsi, pour constater le retour au bon état la fréquence de contrôle sur les stations du contrôle opérationnelle sera identique à celle réalisée sur les stations de contrôle de surveillance (cf. annexe VI).
+Pour constater le retour au bon état de la masse d'eau, les fréquences de contrôle seront accrues, lorsque cela est nécessaire, pour disposer de la chronique de données définies par l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état des eaux. Ainsi, pour constater le retour au bon état la périodicité et la fréquence de contrôle sur les stations du contrôle opérationnelle sera identique à celles réalisées sur les stations de contrôle de surveillance (cf. annexe VI).
 
 Dès lors que la masse d'eau est évaluée en bon état, le contrôle opérationnel réalisé sur celle-ci pourra être adaptée (e. g fréquence interannuelles assouplies) dans l'attente d'une nouvelle évaluation du risque qui viendra le cas échéant confirmer la possibilité de lever le contrôle opérationnel sur cette masse d'eau, à l'occasion de la mise à jour du programme de contrôle opérationnel du bassin.
 
@@ -342,21 +212,15 @@ Dès lors que la masse d'eau est évaluée en bon état, le contrôle opération
 
 Les tableaux suivants décrivent les paramètres et éléments de qualité à suivre, à titre indicatif, par type d'eaux en fonction du type de pression.
 
-2.1. Eaux côtières (toutes façades)
+Eaux côtières (toutes façades)
 
-Tableau 51.-Paramètres et éléments de qualité à suivre dans les eaux côtières
+Tableau 62 : paramètres et éléments de qualité à suivre dans les eaux côtières
 
-TYPE DE PRESSION
+Type de pression |
 
-|
+Paramètres et éléments de qualité à suivre |
 
-PARAMÈTRES ET ÉLÉMENTS DE QUALITÉ À SUIVRE
-
-|
-
-Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation
-
-|
+Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation |
 
 Eléments physico-chimiques (ATL) :
 
@@ -364,485 +228,309 @@ Eléments physico-chimiques (ATL) :
 
 -suivi hivernal de nutriments dans la masse d'eau
 
--suivi estival de l'oxygène dissous
-
-|
+-suivi estival de l'oxygène dissous |
 
 Eléments biologiques :
 
--phytoplancton ou macroalgues
+-phytoplancton ou macroalgues |
 
-|
-
-Rejets de micropolluants (d'origine domestique ou industrielle ou agricole) : enjeu pollution par les substances toxiques
-
-|
+Rejets de micropolluants (d'origine domestique ou industrielle ou agricole) : enjeu pollution par les substances toxiques |
 
 Eléments chimiques :
 
--substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique
-
-|
+substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique |
 
 Eléments biologiques :
 
-Tous les éléments pertinents du type
+Tous les éléments pertinents du type |
 
-|
-
-Emprises et constructions littorales : enjeu destruction d'habitats côtiers
-
-|
+Emprises et constructions littorales : enjeu destruction d'habitats côtiers |
 
 Eléments hydromorphologiques :
 
-Inventaire et surface des emprises
+Inventaire et surface des emprises |
 
-|
-
-Eléments biologiques :
+Éléments biologiques :
 
 -en fonction de l'habitat détruit (ATL)
 
--herbiers surveillance microsurfacique ou macroalgues (MED)
+-herbiers surveillance microsurfacique ou macroalgues (MED) |
 
-|
-
-Activités nautiques (ancre, arts traînants...) : enjeu pression physique
-
-|
+Activités nautiques (ancre, arts traînants...) : enjeu pression physique |
 
 Eléments biologiques :
 
 -angiospermes et invertébrés (ATL)
 
--herbiers : surveillance microsurfacique (MED)
+-herbiers : surveillance microsurfacique (MED) |
 
-|
-
-Espèces exotiques envahissantes
-
-|
+Espèces exotiques envahissantes |
 
 Eléments biologiques à l'origine de la pression :
 
--caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes)
+caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes) |
 
-|
-
-Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante
-
-|
+Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante |
 
 Activités de dragage, clapage ou rejets :
 
-enjeu turbidité et transport de micropolluants
-
-|
+enjeu turbidité et transport de micropolluants |
 
 Eléments physico-chimiques :
 
--turbidité
-
-|
+turbidité |
 
 Eléments chimiques :
 
--substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique pertinents
-
-|
+substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique pertinent (s) |
 
 Eléments biologiques :
 
--macrophytes ou invertébrés
+macrophytes ou invertébrés |
 
-|
-
-Piétinement
-
-|
+Piétinement |
 
 Eléments biologiques :
 
--macrophytes
-
-|
+macrophytes |
 
 2.2. Eaux de transition (façade Manche Atlantique)
 
-Tableau 52.-Paramètres et éléments de qualité à suivre dans les eaux de transition (façade Manche Atlantique)
+Tableau 63 : paramètres et éléments de qualité à suivre dans les eaux de transition (façade Manche Atlantique)
 
-TYPE DE PRESSION
+Type de pression |
 
-|
+Paramètres et éléments de qualité à suivre |
 
-PARAMÈTRES ET ÉLÉMENTS DE QUALITÉ À SUIVRE
-
-|
-
-Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation
-
-|
+Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation |
 
 Eléments physico-chimiques :
 
--bilan d'oxygène, nutriments
-
-|
+bilan d'oxygène, nutriments |
 
 Eléments biologiques :
 
--macro-invertébrés benthiques, ou macrophytes, ou phytoplancton (pour les masses d'eau de faible turbidité uniquement)
+macro-invertébrés benthiques, ou macrophytes, ou phytoplancton (pour les masses d'eau de faible turbidité uniquement) |
 
-|
-
-Rejets de micropolluants d'origine ponctuelle ou diffuse
-
-|
+Rejets de micropolluants d'origi ne ponctuelle ou diffuse |
 
 Paramètres chimiques :
 
--substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique
-
-|
+substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique |
 
 Eléments biologiques :
 
--tous
+tous |
 
-|
-
-Dégradation thermique
-
-|
+Dégradation thermique |
 
 Eléments physico-chimiques :
 
--température, oxygène
-
-|
+température, oxygène |
 
 Eléments biologiques :
 
--tous
+tous |
 
-|
-
-Pressions sur l'hydrologie (prélèvement d'eau, drainage, régulation du débit)
-
-|
+Pressions sur l'hydrologie (prélèvement d'eau, drainage, régulation du débit) |
 
 Eléments hydromorphologiques :
 
 -quantité et dynamique du débit (abaissement des étiages, modification des crues) ou modifications des écoulements
 
--indicateurs de la dynamique du bouchon vaseux dans les estuaires (position, fréquence d'expulsion)
-
-|
+-indicateurs de la dynamique du bouchon vaseux dans les estuaires (position, fréquence d'expulsion) |
 
 Eléments biologiques :
 
--tous
+tous |
 
-|
-
-Pressions sur la morphologie (altération du lit mineur, des berges, et de la ripisylve)
-
-|
+Pressions sur la morphologie (altération du lit mineur, des berges, et de la ripisylve) |
 
 Eléments hydromorphologiques :
 
--indicateurs d'altérations morphologiques
-
-|
+-indicateurs d'altérations morphologiques |
 
 Eléments physico-chimiques :
 
--oxygène, turbidité
-
-|
+oxygène, turbidité |
 
 Eléments biologiques :
 
--poissons et invertébrés
+-poissons et invertébrés |
 
-|
+Pressions sur le transit sédimentaire (barrages, gravières) |
 
-Pressions sur le transit sédimentaire (barrages, gravières)
+Eléments hydromorphologiques : bathymétrie, granulométrie sédiments |
 
-|
-
-Eléments hydromorphologiques : bathymétrie, granulométrie sédiments
-
-|
-
-Eléments physico-chimiques : turbidité
-
-|
+Eléments physico-chimiques : turbidité |
 
 Eléments biologiques :
 
--macro-invertébrés benthiques, ou poissons
+macro-invertébrés benthiques, ou poissons |
 
-|
-
-Erosion des sols, colmatage
-
-|
+Erosion des sols, colmatage |
 
 Eléments hydromorphologiques :
 
--à définir
-
-|
+à définir |
 
 Eléments physico-chimiques :
 
--turbidité
-
-|
+turbidité |
 
 Eléments biologiques :
 
--macrophytes ou macro-inverébrés ou poissons
+macrophytes ou macro-inverébrés ou poissons |
 
-|
-
-Espèces exotiques envahissantes
-
-|
+Espèces exotiques envahissantes |
 
 Eléments biologiques à l'origine de la pression :
 
--caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes)
+caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes) |
 
-|
-
-Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante
-
-|
+Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante |
 
 2.3. Eaux de transition (façade Méditerranée)
 
-Tableau 53.-Paramètres et éléments de qualité à suivre dans les eaux de transition (façade Méditerranée)
+Tableau 64 : paramètres et éléments de qualité à suivre dans les eaux de transition (façade Méditerranée)
 
-TYPE DE PRESSION
+Type de pression |
 
-|
+Paramètres et éléments de qualité à suivre |
 
-PARAMÈTRES ET ÉLÉMENTS DE QUALITÉ À SUIVRE
-
-|
-
-Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation
-
-|
+Rejets de nutriments d'origine ponctuelle ou diffuse : enjeu eutrophisation |
 
 Eléments physico-chimiques :
 
--oxygène dissous, turbidité, P minéral et total, N minéral et total
-
-|
+oxygène dissous, turbidité, P minéral et total, N minéral et total |
 
 Eléments biologiques :
 
--phytoplancton (biomasse), ou macrovégétaux (macroalgues et angiospermes) ou invertébrés
+phytoplancton (biomasse), ou macrovégétaux (macroalgues et angiospermes) ou invertébrés |
 
-|
-
-Rejets de micropolluants (d'origine domestique ou industrielle ou agricole) : enjeu pollution par les substances toxiques
-
-|
+Rejets de micropolluants (d'origine domestique ou industrielle ou agricole) : enjeu pollution par les substances toxiques |
 
 Eléments chimiques :
 
--substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique
-
-|
+substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique |
 
 Eléments biologiques :
 
--macrophytes (pesticides)
+macrophytes (pesticides) |
 
-|
-
-Pressions sur l'hydromorphologie
-
-|
+Pressions sur l'hydromorphologie |
 
 Eléments hydromorphologiques :
 
--à préciser ultérieurement
-
-|
+à préciser ultérieurement |
 
 Eléments biologiques :
 
--macrophytes principalement
+macrophytes principalement |
 
-|
-
-Espèces exotiques envahissantes
-
-|
+Espèces exotiques envahissantes |
 
 Eléments biologiques à l'origine de la pression :
 
--caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes)
+caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes) |
 
-|
-
-Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante
-
-|
+Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante |
 
 2.4. Cours d'eau
 
-Tableau 54.-Paramètres et éléments de qualité dans les cours d'eau
+Tableau 65 : paramètres et éléments de qualité dans les cours d'eau
 
-TYPE DE PRESSION
+Type de pression |
 
-|
+Paramètres et éléments de qualité à suivre |
 
-PARAMÈTRES ET ÉLÉMENTS DE QUALITÉ À SUIVRE
-
-|
-
-Rejets de macropolluants d'origine ponctuelle ou diffuse
-
-|
+Rejets de macropolluants d'origine ponctuelle ou diffuse |
 
 Eléments physico-chimiques :
 
--bilan d'oxygène, nutriments, effets des proliférations végétales pour les cours d'eau lents, particules en suspension
-
-|
+bilan d'oxygène, nutriments, effets des proliférations végétales pour les cours d'eau lents, particules en suspension |
 
 Eléments biologiques :
 
--macro-invertébrés ou diatomées ou macrophytes (nutriments uniquement), phytoplancton pour les grands cours d'eau
+macro-invertébrés ou diatomées ou macrophytes (nutriments uniquement), phytoplancton pour les grands cours d'eau |
 
-|
-
-Rejets de micropolluants d'origine ponctuelle ou diffuse
-
-|
+Rejets de micropolluants d'origine ponctuelle ou diffuse |
 
 Paramètres :
 
--substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique (a)
-
-|
+substance (s) de l'état chimique ou polluant (s) spécifique (s) de l'état écologique (a) |
 
 Eléments biologiques :
 
--macro-invertébrés ou diatomées
+macro-invertébrés |
 
-|
-
-Pollution par acidification
-
-|
+Pollution par acidification |
 
 Eléments physico-chimiques :
 
--acidification
-
-|
+acidification |
 
 Eléments biologiques :
 
--macro-invertébrés ou diatomées
+macro-invertébrés |
 
-|
-
-Dégradation thermique
-
-|
+Dégradation thermique |
 
 Eléments physico-chimiques :
 
--température
-
-|
+température |
 
 Eléments biologiques :
 
--diatomées ou macrophytes
+diatomées ou macrophytes |
 
-|
-
-Pressions sur l'hydrologie (prélèvement d'eau, drainage, régulation du débit)
-
-|
+Pressions sur l'hydrologie (prélèvement d'eau, drainage, régulation du débit) |
 
 Eléments hydromorphologiques :
 
--quantité et dynamique du débit (abaissement des étiages, modification des crues) ou ralentissement des écoulements
-
-|
+quantité et dynamique du débit (abaissement des étiages, modification des crues) ou ralentissement des écoulements |
 
 Eléments biologiques :
 
--macro-invertébrés ou poissons
-
-|
+macro-invertébrés ou poissons |
 
 Pressions sur la morphologie (altération physique du lit mineur, des berges, et de la ripisylve)
 
 Blocage du transit sédimentaire (barrages, gravières)
 
-Continuité écologique (blocage des organismes aquatiques, obstacle à la continuité écologique)
-
-|
+Continuité écologique (blocage des organismes aquatiques, obstacle à la continuité écologique) |
 
 Eléments hydromorphologiques :
 
--indicateurs d'altérations morphologiques (sinuosité, succession des faciès, débit de plein bord, altération du corridor, granulométrie, incision...)
-
-|
+indicateurs d'altérations morphologiques (sinuosité, succession des faciès, débit de plein bord, altération du corridor, granulométrie, incision...) |
 
 Eléments biologiques :
 
--macro-invertébrés ou poissons
+macro-invertébrés ou poissons |
 
-|
-
-Erosion des sols
-
-|
+Erosion des sols |
 
 Eléments hydromorphologiques :
 
--colmatage
-
-|
+colmatage |
 
 Eléments biologiques :
 
--macro-invertébrés ou poissons
+macro-invertébrés ou poissons |
 
-|
-
-Espèces exotiques envahissantes
-
-|
+Espèces exotiques envahissantes |
 
 Eléments biologiques à l'origine de la pression :
 
--caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes)
+caractéristiques de colonisation par la ou les espèces (recouvrement relatif, profondeur maximale de colonisation, compétition avec les communautés indigènes) |
 
-|
-
-Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante
-
-|
+Eléments biologiques du même compartiment biologique que l'espèce exotique envahissante |
 
 2.5. Plans d'eau
 
-Un suivi préalable pour le contrôle opérationnel des plans d'eau est réalisé avant la mise en œuvre des programmes de mesures pour établir l'état et identifier les éléments les plus sensibles aux pressions.
+Un suivi préalable pour le contrôle opérationnel des plans d'eau peut être réalisé avant la mise en œuvre des programmes de mesures pour établir l'état et identifier les éléments les plus sensibles aux pressions.
 
-Le suivi pour le contrôle opérationnel des plans d'eau porte sur les éléments de qualité de l'annexe VI les plus sensibles aux pressions à l'origine du risque.
+Le suivi pour le contrôle opérationnel des plans d'eau porte sur les éléments de qualité de l'annexe VI les plus sensibles aux pressions à l'origine du risque. En l'absence de recommandations nationales, la sélection des éléments de qualité à suivre se fera par expertise sur la base des recommandations du groupe de travail sur les plans d'eau.
 
 Les suivis des micropolluants et des éléments biologiques seront adaptés à leur pertinence en fonction de l'état et du type de masse d'eau.
 

@@ -2,15 +2,15 @@
 
 PRÉCONISATIONS POUR LES MÉTHODES À UTILISER POUR LE CONTRÔLE DES ÉLÉMENTS DE QUALITÉ, PARAMÈTRES OU GROUPES DE PARAMÈTRES POUR LE PROGRAMME DE SURVEILLANCE DES EAUX DE SURFACE
 
-De manière générale, la période à laquelle les contrôles sont effectués doit être déterminée de manière à réduire au maximum l'effet des variations saisonnières et/ ou des évènements hydrologiques particuliers sur les résultats.
+De manière générale, la période à laquelle les contrôles sont effectués doit être déterminée de manière à réduire au maximum l'effet des variations saisonnières et/ ou des événements hydrologiques particuliers sur les résultats.
 
-Les analyses des eaux, des sédiments et du biote nécessaires à la mise en œuvre et au suivi du programme de surveillance sont effectuées par des laboratoires agrées pour les éléments de qualité et paramètres analysés conformément aux dispositions prévues par l'article L. 212-2-2 du code de l'environnement.
+Les analyses des eaux, des sédiments et du biote nécessaires à la mise en œuvre et au suivi du programme de surveillance sont effectuées par des laboratoires agréés pour les éléments de qualité et paramètres analysés conformément aux dispositions prévues par l'article L. 212-2-2 du code de l'environnement.
 
 Les modalités d'agrément des laboratoires sont définies par l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques au titre du code de l'environnement.
 
-Dans le cas où ces méthodes ne sont pas disponibles ou ne sont pas adaptées aux spécificités des milieux, notamment en outre-mer, le préfet coordonnateur de bassin fixe les méthodes à utiliser dans le bassin et les notifie à l'Office national de l'eau et des milieux aquatiques.
+Dans le cas où ces méthodes ne sont pas disponibles ou ne sont pas adaptées aux spécificités des milieux, notamment en outre-mer, le préfet coordonnateur de bassin fixe les méthodes à utiliser dans le bassin et les notifie à l'Agence française pour la biodiversité.
 
-Dans certains cas, le respect des objectifs de bon état et de non-dégradation des masses d'eau peut nécessiter la mise en œuvre de limites de quantification qui soient inférieures à celles mentionnées dans l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques. La fixation de LQ plus contraignantes pour la mise en œuvre de la surveillance est alors laissée à l'appréciation des bassins.
+Dans certains cas, le respect des objectifs de bon état et de non-dégradation des masses d'eau peut nécessiter la mise en œuvre de limites de quantification (LQ) qui soient inférieures à celles mentionnées dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques. La fixation de LQ plus contraignantes pour la mise en œuvre de la surveillance est alors laissée à l'appréciation des bassins.
 
 1. Description des outils, méthodes d'échantillonnage, de traitement et d'analyse des échantillons pour les cours d'eau
 
@@ -18,25 +18,35 @@ Dans certains cas, le respect des objectifs de bon état et de non-dégradation 
 
 Les méthodes de mesure, de prélèvement et d'analyse à utiliser pour les contrôles des éléments biologiques sont celles indiquées ci-dessous.
 
-Les documents de référence technique indiqués peuvent être, selon les cas, des protocoles techniques, des normes expérimentales ou homologuées, des guides techniques. Certains de ces référentiels étant encore évolutifs, il conviendra d'utiliser les versions et documents d'application les plus à jour. Par exemple, les normes qui auront été publiées en remplacement de protocoles techniques, ainsi que les guides d'application (série GA de l'AFNOR) publiés en appui à l'application des normes.
+Les documents de référence technique indiqués peuvent être, selon les cas, des protocoles techniques, des normes expérimentales ou homologuées, des guides techniques. Certains de ces référentiels étant encore évolutifs, il conviendra d'utiliser les versions et documents d'application les plus à jour. Par exemple, les normes qui auront été publiées en remplacement de protocoles techniques, ainsi que les guides d'application publiés en appui à l'application des normes.
 
-Pour les éléments biologiques, les fréquences de contrôle sont indiquées à l'annexe VI du présent arrêté.
-
-Pour assurer le suivi des opérations de surveillance comme pour permettre la mise en œuvre des prescriptions de démarche qualité, le lieu de chaque mesure hydrobiologique sera tracé avec précision. Les coordonnées géographiques précises des limites du "point de prélèvement" (au sens du dictionnaire SANDRE), exprimées dans le système Lambert 93, seront relevées lors de chaque mesure. Le point exact à considérer est celui précisé dans chaque protocole d'échantillonnage ou de relevé hydrobiologique.
+Pour assurer le suivi des opérations de surveillance comme pour permettre la mise en œuvre des prescriptions de démarche qualité, le lieu de chaque mesure hydrobiologique sera tracé avec précision. Les coordonnées géographiques précises des limites du point de prélèvement (au sens du dictionnaire Sandre), exprimées dans le système Lambert 93, seront relevées lors de chaque mesure. Le point exact à considérer est celui précisé dans chaque protocole d'échantillonnage ou de relevé hydrobiologique.
 
 1.1.1. Phytoplancton
 
-La définition du protocole est uniquement applicable en métropole et en Guyane. Cet élément de qualité biologique est jugé non pertinent pour les DOM insulaires.
+1.1.1.1. Méthode ou principes applicables en métropole
 
 Méthode ou principes d'échantillonnage :
 
--Protocole standardisé d'échantillonnage et de conservation du phytoplancton en grands cours d'eau applicable aux réseaux de mesure DCE, version 2, Cemagref, décembre 2010.
+-XP T90-719-Qualité de l'eau-échantillonnage du phytoplancton dans les eaux intérieures.
 
 Méthodes ou principes de traitement et d'analyse des échantillons :
 
 -Norme européenne : NF EN 15204. Qualité de l'eau-Norme guide pour le dénombrement du phytoplancton par microscopie inversée (méthode Utermöhl) ;
 
--l'application de cette norme doit suivre les prescriptions du détail opératoire précisées dans le chapitre "analyse du phytoplancton" du protocole standardisé en plan d'eau (cf. paragraphe 2.1.1.).
+-l'application de cette norme doit suivre les prescriptions du détail opératoire précisées dans le chapitre 5-analyse du phytoplancton du protocole standardisé d'échantillonnage, de conservation, d'observation et de dénombrement du phytoplancton en plan d'eau pour la mise en œuvre de la DCE en plan d'eau (version 3.3.1) (cf. paragraphe 2.1.1.).
+
+1.1.1.2. Méthode ou principes applicables en Guyane
+
+Méthode ou principes d'échantillonnage :
+
+-XP T90-719-Qualité de l'eau-échantillonnage du phytoplancton dans les eaux intérieures.
+
+Méthodes ou principes de traitement et d'analyse des échantillons :
+
+-Norme européenne : NF EN 15204. Qualité de l'eau-Norme guide pour le dénombrement du phytoplancton par microscopie inversée (méthode Utermöhl) ;
+
+-l'application de cette norme doit suivre les prescriptions du détail opératoire précisées dans le chapitre 5-analyse du phytoplancton du protocole standardisé d'échantillonnage, de conservation, d'observation et de dénombrement du phytoplancton en plan d'eau pour la mise en œuvre de la DCE en plan d'eau (version 3.3.1) (cf. paragraphe 2.1.1.).
 
 1.1.2. Phytobenthos : diatomées
 
@@ -44,1859 +54,987 @@ Méthodes ou principes de traitement et d'analyse des échantillons :
 
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Norme française : NF T90-354. Qualité de l'eau-Echantillonnage, traitement et analyse de diatomées benthiques en cours d'eau et canaux.
 
 1.1.2.2. Méthodes ou principes applicables en Guadeloupe et en Martinique
 
-Guide méthodologique de mise en œuvre des indices diatomique Antilles (IDA). A paraître en 2016.
+Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IDA, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités antillaises de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD) ;
-
--Compte tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique des Antilles françaises, des adaptations du protocole d'échantillonnage sont nécessaires comme la nature du support et la surface à échantillonner (J. GUEGUEN, A. EULIN, E. LEFRANCOIS, S. BOUTRY, J. ROSEBERY, M. COSTE, F. DELMAS. Programme d'étude et de recherche 2009-2012. Mise au point d'un indice de bioindication de la qualité de l'eau des cours d'eau antillais à partir des diatomées : l'IDA. Rapport final-VF (12-03-2013). Irstea-Cemagref, Asconit Consultants).
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-l'indice diatomiqués ntillaisAn (IDA)
 
 1.1.2.3. Méthodes ou principes applicables à La Réunion
 
-Guide méthodologique de mise en œuvre de l'indice diatomique Réunion (IDR). A paraître en 2016.
+Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IDR, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités réunionnaises de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD) ;
-
--Compte tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique de La Réunion, des adaptations du protocole d'échantillonnage sont nécessaires (S. BOUTRY, G. GASSIOLE, J. ROSEBERY, J. L. GIRAUDEL, F. PERES, M. COSTE, F. DELMAS. Mise au point d'un indice diatomique pour les cours d'eau de La Réunion (IDR) : Rapport final sur la démarche d'élaboration de l'indice (Version finale 10-10-2012). Irstea-Cemagref, Asconit Consultants, Université de Bordeaux.
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-d'indice diatomiqueées nion (IDR). ;.
 
 1.1.2.4. Méthodes ou principes applicables à Mayotte
 
-Un indice de bioindication de la qualité de l'eau des cours d'eau mahorais à partir des diatomées est en cours de développement pour le troisième cycle. Dans l'attente de la livraison de cet indicateur et de son guide méthodologique de mise en œuvre, les méthodes à utiliser sont :
+Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Méthode ou principes d'échantillonnage :
+-Guide méthodologique de mise en œuvre de l'indice diatomées Mayotte dès parution ;
 
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD) ;
+-Norme française : NF T90-354. Qualité de l'eau-Échantillonnage, traitement et analyse de diatomées benthiques en cours d'eau et canaux ;
 
--Compte tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique de Mayotte, des adaptations du protocole d'échantillonnage sont nécessaires (nature du support, surface à échantillonner ...).
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Compte-tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique de Mayotte, des adaptations du protocole d'échantillonnage sont nécessaires (nature du support, surface à échantillonner …).
 
 1.1.2.5. Méthodes ou principes applicables en Guyane
 
-Un indice de bioindication de la qualité de l'eau des cours d'eau guyanais à partir des diatomées est en cours de développement pour le troisième cycle DCE. Dans l'attente de la livraison de cet indicateur et de son guide méthodologique de mise en œuvre, les méthodes à utiliser sont :
+Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Méthode ou principes d'échantillonnage :
+-Guide méthodologique de mise en œuvre de l'indice diatomées Guyane dès parution ;
 
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD) ;
+-Norme française : NF T90-354. Qualité de l'eau-Echantillonnage, traitement et analyse de diatomées benthiques en cours d'eau et canaux ;
 
--Compte tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique de Guyane, des adaptations du protocole d'échantillonnage sont nécessaires (nature du support, surface à échantillonner ...).
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Compte-tenu des spécificités de l'environnement tropical insulaire et du peuplement diatomique de Guyane, des adaptations du protocole d'échantillonnage sont nécessaires (nature du support, surface à échantillonner …).
 
 1.1.3. Macrophytes : angiospermes, bryophytes ptéridophytes et macro-algues
 
-La définition du protocole est uniquement applicable en métropole. Ces éléments de qualité biologique sont jugés non pertinents pour les DOM.
+La définition du protocole est uniquement applicable en métropole. Cet élément de qualité biologique est jugé non pertinent pour les DOM.
 
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
 -Norme française : NF T90-395. Qualité de l'eau-Détermination de l'indice biologique macrophytique en rivière (IBMR) ;
 
--Guide méthodologique d'application de l'IBMR-AFNOR GA T90-495 (à paraître).
+-Guide d'application de la norme NF T90-395 (dès son homologation).
 
 1.1.4. Faune benthique invertébrée
 
-1.1.4.1. Méthodes ou principes applicables en métropole
+1.1.4.1 Méthodes ou principes applicables en métropole
 
-Cas des cours d'eau peu profonds :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : XP T90-333 (puis NF T90-333 dès son entrée en vigueur) : Prélèvement des macro-invertébrés aquatiques en rivières peu profondes.
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme française : XP T90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité de l'eau-Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau. Options 2, B et b, c ou d
-
-Cas des cours d'eau profonds :
+Cas des cours d'eau peu profonds
 
 Méthode ou principes d'échantillonnage :
 
--Protocole expérimental d'échantillonnage "invertébrés" en grands cours d'eau, décembre 2009, université de Metz, Cemagref (ou version ultérieure ou norme ultérieure remplaçant ce protocole expérimental).
+-Norme française : NF T90-333 : Qualité de l'eau-Prélèvement des macro-invertébrés aquatiques en rivières peu profondes.
+
+-Guide d'application : FD T90-733 Qualité de l'eau-Guide d'application de la norme NF T90-333.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
 -Norme française : XP T90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité de l'eau-Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau.
 
-Cas des canaux :
+-Guide d'application : GA T90-788 : Qualité de l'eau-Guide d'application de la norme expérimentale XP T90-388 (traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau).
+
+Cas des cours d'eau profonds
 
 Méthode ou principes d'échantillonnage :
 
--Protocole expérimental d'échantillonnage "invertébrés" en grands cours d'eau, décembre 2009, université de Metz, Cemagref (ou version ultérieure ou norme ultérieure remplaçant ce protocole expérimental).
+-Protocole expérimental d'échantillonnage invertébrés en grands cours d'eau, décembre 2009, université de Metz, Cemagref (ou version ultérieure ou norme ultérieure remplaçant ce protocole expérimental).
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
 -Norme française : XP T90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité de l'eau-Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau.
+
+-Guide d'application : GA T90-788 : Qualité de l'eau-Guide d'application de la norme expérimentale XP T90-388 (traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau).
+
+Cas des canaux
+
+Méthode ou principes d'échantillonnage :
+
+-Protocole expérimental d'échantillonnage invertébrés en grands cours d'eau, décembre 2009, université de Metz, Cemagref (ou version ultérieure ou norme ultérieure remplaçant ce protocole expérimental).
+
+Méthode ou principes de traitement et d'analyse des échantillons :
+
+-Norme française : XP T90-388 (puis NF T90-388 dès son homologation) : Qualité de l'eau-Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau.
+
+-Guide d'application : GA T90-788 : Qualité de l'eau-Guide d'application de la norme expérimentale XP T90-388 (traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau).
 
 1.1.4.2. Méthodes ou principes applicables en Guadeloupe et en Martinique
 
-Guide méthodologique de mise en œuvre de l'indice biologique Macroinvertébrés Antilles (IBMA). A paraître en 2016.
+Méthode ou principe d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IBMA, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : XP T90-333 (puis NF T90-333 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Prélèvement des macro-invertébrés aquatiques en rivières peu profondes. 2009 ;
-
--Protocole à adapter en fonction des spécificités de l'environnement étudié (H. Touron-Poncet, C. Bernadet, N. Bargier, R. Céréghino. Programme d'étude 2010-2013. Mise au point d'un indice de bioindication de la qualité de l'eau à partir des macroinvertébrés benthiques commun à la Guadeloupe et à la Martinique. Rapport final 2013-V1 (07-06-2013). Université Paul Sabatier Toulouse III/ Ecolab UMR5245, Asconit Consultants.
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme XP T 90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau. 2010 ;
-
--Protocole à adapter en fonction des spécificités des échantillons antillais (H. Touron-Poncet, C. Bernadet, N. Bargier, R. Céréghino. Programme d'étude 2010-2013. Mise au point d'un indice de bioindication de la qualité de l'eau à partir des macroinvertébrés benthiques commun à la Guadeloupe et à la Martinique. Rapport final 2013-V1 (07-06-2013). Université Paul Sabatier Toulouse III/ Ecolab UMR5245, Asconit Consultants.
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-l'indice biologique macro-invertébrés Antilles-(IBMA).
 
 1.1.4.3. Méthodes ou principes applicables à La Réunion
 
-Guide méthodologique de mise en œuvre de l'indice Macroinvertébrés Réunion (IRM). A paraître en 2016.
+Méthode ou principe d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IBMA, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités réunionnaises de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : XP T90-333 (puis NF T90-333 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Prélèvement des macro-invertébrés aquatiques en rivières peu profondes. 2009 ;
-
--Protocole à adapter en fonction des spécificités de l'environnement étudié, par exemple pour le cas des vallées orientales exposées directement aux typhons (Forcellini M., Grondin H., Mathieu C., Péru N., Richarson M., Sagnes P., Usseglio-Polatera P., Valade P., sous la direction de S. Mérigoux et J. M. Olivier, 2012. Conception d'indices de bio-évaluation de la qualité écologique des rivières de l'île de La Réunion à partir des poissons et des invertébrés benthiques. Rapport final.).
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme XP T 90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau. 2010 ;
-
--Protocole à adapter en fonction des spécificités des échantillons réunionnais (Forcellini M., Grondin H., Mathieu C., Péru N., Richarson M., Sagnes P., Usseglio-Polatera P., Valade P., sous la direction de S. Mérigoux et J. M. Olivier, 2012. Conception d'indices de bio-évaluation de la qualité écologique des rivières de l'île de La Réunion à partir des poissons et des invertébrés benthiques. Rapport final).
+-Guide méthodologique de mise en œuvre d'indices biologiques en outre-mer-l'indice Réunions macro-invertébrés-IRM.
 
 1.1.4.4. Méthodes ou principes applicables à Mayotte
 
-Un indice de bioindication de la qualité de l'eau des cours d'eau de Mayotte à partir des macroinvertébrés benthiques est en cours de développement.
-
-Dans l'attente de la livraison de cet indicateur et de son guide méthodologique de mise en œuvre, les méthodes à utiliser sont :
-
 Méthode ou principes d'échantillonnage :
 
--Norme française : XP T90-333 (puis NF T90-333 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Prélèvement des macro-invertébrés aquatiques en rivières peu profondes. 2009 ;
+-guide méthodologique pour la mise en œuvre de l'indice macro-invertébrés Mayotte dès parution ;
 
--Protocole à adapter en fonction des spécificités de l'environnement étudié (en attente de l'édition du guide ONEMA).
+-Norme française : NF T90-333 : Qualité écologique des milieux aquatiques. Qualité de l'eau. Prélèvement des macro-invertébrés aquatiques en rivières peu profondes, 2009 ;
+
+-Protocole à adapter en fonction des spécificités de l'environnement étudiée l'édition œuvre de l
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
 -Norme XP T 90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau. 2010 ;
 
--Protocole à adapter en fonction des spécificités des échantillons mahorais (en attente de l'édition du guide ONEMA).
+-Protocole à adapter en fonction des spécificités des échantillons mahorais (dès parution du guide de mise en œuvre de l'indice macro-invertébrés Mayotte).
 
 1.1.4.5. Méthodes ou principes applicables en Guyane
 
-Guide méthodologique de mise en œuvre de l'indice Macroinvertébrés Guyane (SMEG). A paraître en 2016.
+Méthode ou principe d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre du SMEG, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités guyanaises de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Norme française : XP T90-333 (puis NF T90-333 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Prélèvement des macro-invertébrés aquatiques en rivières peu profondes. 2009 ;
-
--Protocole à adapter en fonction des spécificités de l'environnement guyanais, des taxons à échantillonner (en attente de l'édition du guide ONEMA).
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Norme XP T 90-388 (puis NF T90-388 dès son entrée en vigueur) : Qualité écologique des milieux aquatiques. Qualité de l'eau. Traitement au laboratoire d'échantillons contenant des macro-invertébrés de cours d'eau. 2010 ;
-
--Protocole à adapter en fonction des spécificités des échantillons et des taxons guyanais (en attente de l'édition du guide ONEMA).
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-Score moyen des éphéméroptères de Guyane (SMEG).
 
 1.1.5. Ichtyofaune (et macro-crustacés pour les DOM insulaires)
 
-1.1.5.1. Méthodes ou principes applicables en métropole
+1.1.5.1 Méthodes ou principes applicables en métropole
 
 Méthode ou principes d'échantillonnage :
 
-Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
+-Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
 -Niveau de détermination : espèce (réf. : Keith P., Persat H., Feunteun E., Allardi J. (coords), 2011. Les poissons d'eau douce de France. Biotope, Mèze ; Museum National d'Histoire Naturelle, Paris (collection Inventaires et biodiversité), 552 p.) ;
 
--Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
+-Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
 
 1.1.5.2. Méthodes ou principes applicables en Guadeloupe et Martinique
 
-Pour le cas où cet élément de qualité serait pertinent et dans l'attente de la définition d'un nouvel indice de bioindication de la qualité de l'eau propre aux cours d'eau antillais à partir des poissons et des macro-crustacés, les protocoles d'échantillonnage et d'analyse compatibles DCE de métropole seront à adapter au mieux aux cas antillais.
+Dans l'attente de la définition d'un nouvel indice de bioindication de la qualité de l'eau propre aux cours d'eau antillais à partir des poissons et des macro-crustacés, les protocoles d'échantillonnage et d'analyse compatibles DCE de métropole seront à adapter au mieux aux cas antillais.
 
 Méthode ou principes d'échantillonnage recommandés :
 
--Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
+-Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
+-Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
 
 1.1.5.3. Méthodes ou principes applicables à La Réunion
 
-Guide méthodologique de mise en œuvre de l'indice Réunion poissons (IRP). A paraître en 2016.
-
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IRP, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités réunionnaises de mise en œuvre sont :
-
 Méthode ou principes d'échantillonnage :
 
--Avant le plan d'échantillonnage, la sectorisation est définie suivant la méthode dite "par ambiances" ;
-
--Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-l'indice Réunion poissons-IRP.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
-
--Niveau de détermination : espèce (réf. : Keith P., Vigneux E., Bosc P., 1999. Atlas des poissons de La Réunion. Edition MNHN, 136 p.).
+-Keith, P., G. Marquet, P. Valade, P. Bosc, and E. Vigneux. 2006. Atlas des poissons et des crustacés d'eau douce des Comores, Mascareignes et Seychelles, Muséum national d'Histoire Naturelle, Paris, Collection Patrimoines Naturels, 65 p.
 
 1.1.5.4. Méthodes ou principes applicables à Mayotte
 
-Pour le cas où cet élément de qualité serait pertinent et dans l'attente de la définition d'un indice de bioindication de la qualité de l'eau propre aux cours d'eau mahorais à partir des poissons, les protocoles d'échantillonnage et d'analyse compatibles DCE de métropole seront à adapter au mieux au cas mahorais.
+Dans l'attente de la définition d'un indice de bioindication de la qualité de l'eau propre aux cours d'eau mahorais à partir des poissons, les protocoles d'échantillonnage et d'analyse compatibles DCE de métropole seront à adapter au mieux au cas mahorais.
 
 Méthode ou principes d'échantillonnage :
 
--Avant le plan d'échantillonnage, la sectorisation est définie suivant la méthode dite "par ambiances" ;
-
--Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
+-Partie échantillonnage de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier les chapitres 4,6 et 7 de la norme.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son entrée en vigueur) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
+-Biométrie-Partie analyse de la norme XP T90-383 (puis NF T90-383 dès son homologation) : échantillonnage des poissons à l'électricité dans le cadre des réseaux de suivi des peuplements de poissons en lien avec la qualité des cours d'eau ; en particulier le chapitre 8.1 de la norme.
 
--Niveau de détermination : espèce (réf. : Keith P., Marquet G., Valade P., Bosc P., Vigneux E. 2006. Atlas des poissons et des crustacés d'eau douce des Comores, Mascareignes et Seychelles. Muséum National d'Histoire Naturelle, Paris. Patrimoines naturels, 250 p.).
+-Niveau de détermination : espèce (réf. : Keith P., Marquet G., Valade P., Bosc P., Vigneux E. 2006. Atlas des poissons et des crustacés d'eau douce des Comores, Mascareignes et Seychelles. Muséum national d'histoire naturelle, Paris. Patrimoines naturels, 250 p.).
 
-1.1.5.5. Méthodes ou principes applicables en Guyane (poissons uniquement)
+1.1.5.6. Méthodes ou principes applicables en Guyane (poissons uniquement)
 
-Guide méthodologique de mise en œuvre de l'indice poissons de Guyane (IPG). A paraître en 2016.
+-Guide méthodologique pour la mise en œuvre d'indices biologiques en outre-mer-l'indice poissons Guyane global-IPG-global.
 
-Dans l'attente de l'édition du guide méthodologique de mise en œuvre de l'IPG, hormis en ce qui concerne l'identification des taxons, les référentiels méthodologiques et les spécificités Guyanaises de mise en œuvre sont :
-
-Méthode ou principes d'échantillonnage :
-
--Méthode standardisée d'échantillonnage des poissons (Tejerina-Garro FL, Mérona B (de), 2000. Gill net sampling standardisation in large rivers of French Guiana (south america). Bull Fr Pêche Piscic 357/358 : 227-240 ;
-
-Méthode ou principes de traitement et d'analyse des échantillons :
-
--Biométrie : Tejerina-Garro FL, Mérona B (de), Oberdorff T, Hugueny B, 2006. A fish-based index of large river quality for French Guiana (South America) : Method and preliminary results. Aquat. Living Resour., 19 : 31-46.
-
--Niveau de détermination : espèce (réf. : Planquette, P., Keith, P., Le Bail, P. Y.-1996-Atlas des poissons d'eau douce de Guyane. Tome 1. Collection du patrimoine naturelle, Paris, 429p./ Keith, P., Le Bail, P. Y., Planquette, P.-2000-Atlas des poissons d'eau douce de Guyane. Tome 2. Fascicule 1. Collection du patrimoine naturelle, Paris, 286p./ Le Bail, P. Y., Keith, P., Planquette, P.-2000-Atlas des poissons d'eau douce de Guyane. Tome 2. Fascicule 2. Collection du patrimoine naturelle, Paris, 307 p.)
+-Niveau de détermination : espèce (réf. : Planquette, P., Keith, P., Le Bail, P. Y.-1996-Atlas des poissons d'eau douce de Guyane. Tome 1. Collection du patrimoine naturelle, Paris, 429p./ Keith, P., Le Bail, P. Y., Planquette, P.-2000-Atlas des poissons d'eau douce de Guyane. Tome 2. Fascicule 1. Collection du patrimoine naturelle, Paris, 286p./ Le Bail, P. Y., Keith, P., Planquette, P.-2000-Atlas des poissons d'eau douce de Guyane. Tome 2. Fascicule 2. Collection du patrimoine naturelle, Paris, 307p.)
 
 1.2. Eléments physico-chimiques
 
-Ces paramètres sont applicables aux DOM (sauf ceux de la matrice sédiment pour La Réunion).
+Ces paramètres sont applicables aux DOM (sauf ceux de la matrice sédiment pour la Réunion).
 
-Tableau 24.-Paramètres physico-chimiques pour les cours d'eau
+Tableau 31 : paramètres physico-chimiques pour les cours d'eau
 
-PARAMÈTRE
+Paramètre
 
-physico-chimique
+Physico-chimique
 
-cible
+Cible |
 
-|
+CSP |
 
-CSP
+Libellé Sandre du paramètre |
 
-|
+CSS |
 
-LIBELLÉ SANDRE DU PARAMÈTRE
+Libellé
 
-|
+Sandre
 
-CSS
+du support |
 
-|
+CSF |
 
-LIBELLÉ SANDRE
+Libellé Sandre de la fraction |
 
-du support
+CSU |
 
-|
+Symbole Sandre
 
-CSF
+Unité |
 
-|
+Groupe 1 (mesuré in situ) |
 
-LIBELLÉ SANDRE DE LA FRACTION
+Température |
 
-|
+1301 |
 
-CSU
+Température de l'Eau |
 
-|
+3 |
 
-SYMBOLE SANDRE
+Eau |
 
-unité
+23 |
 
-|
+Eau brute |
 
-Groupe 1 (mesuré In situ)
+27 |
 
-|
+° C |
 
-Température
+Oxygène dissous |
 
-|
+1311 |
 
-1301
+Oxygène dissous |
 
-|
+3 |
 
-Température de l'Eau
+Eau |
 
-|
+23 |
 
-3
+Eau brute |
 
-|
+175 |
 
-Eau
+mg (O2)/ L |
 
-|
+Saturation en O2 dissous |
 
-23
+1312 |
 
-|
+Taux de saturation en oxygène |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-27
+23 |
 
-|
+Eau brute |
 
-° C
+243 |
 
-|
+% |
 
-Oxygène dissous
+pH |
 
-|
+1302 |
 
-1311
+Potentiel en Hydrogène (pH) |
 
-|
+3 |
 
-Oxygène dissous
+Eau |
 
-|
+23 |
 
-3
+Eau brute |
 
-|
+264 |
 
-Eau
+unité pH |
 
-|
+Conductivité |
 
-23
+1303 |
 
-|
+Conductivité à 25° C |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-175
+23 |
 
-|
+Eau brute |
 
-mg (O2)/ L
+147 |
 
-|
+µS/ cm |
 
-Saturation en O2 dissous
+Groupe 2 (mesuré en laboratoire) |
 
-|
+DBO5 |
 
-1312
+1313 |
 
-|
+Demande Biochimique en oxygène en 5 jours (D. B. O. 5) |
 
-Taux de saturation en oxygène
+3 |
 
-|
+Eau |
 
-3
+23 |
 
-|
+Eau brute |
 
-Eau
+175 |
 
-|
+mg (O2)/ L |
 
-23
+NKJ |
 
-|
+1319 |
 
-Eau brute
+Azote Kjeldahl |
 
-|
+3 |
 
-243
+Eau |
 
-|
+23 |
 
-%
+Eau brute |
 
-|
+168 |
 
-pH
+mg (N)/ L |
 
-|
+P total |
 
-1302
+1350 |
 
-|
+Phosphore total |
 
-Potentiel en Hydrogène (pH)
+3 |
 
-|
+Eau |
 
-3
+23 |
 
-|
+Eau brute |
 
-Eau
+177 |
 
-|
+mg (P)/ L |
 
-23
+MEST |
 
-|
+1305 |
 
-Eau brute
+Matières en suspension |
 
-|
+3 |
 
-264
+Eau |
 
-|
+23 |
 
-unité pH
+Eau brute |
 
-|
+162 |
 
-Conductivité
+mg/ L |
 
-|
+Turbidité (*) |
 
-1303
+1295 |
 
-|
+Turbidité Formazine Néphélométrique |
 
-Conductivité à 25° C
+3 |
 
-|
+Eau |
 
-3
+23 |
 
-|
+Eau brute |
 
-Eau
+232 |
 
-|
+NFU |
 
-23
+Chlorophylle a (***) |
 
-|
+1439 |
 
-Eau brute
+Chlorophylle a |
 
-|
+3 |
 
-147
+Eau |
 
-|
+23 |
 
-µS/ cm
+Eau brute |
 
-|
+133 |
 
-Groupe 2 (mesuré en laboratoire)
+µg/ L |
 
-|
+phéopigments (***) |
 
-DBO5
+1436 |
 
-|
+Phéopigments |
 
-1313
+3 |
 
-|
+Eau |
 
-Demande Biochimique en oxygène en 5 jours (D. B. O. 5)
+23 |
 
-|
+Eau brute |
 
-3
+133 |
 
-|
+µg/ L |
 
-Eau
+DCO (*) |
 
-|
+1314 |
 
-23
+Demande Chimique en Oxygène (D. C. O.) |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+23 |
 
-175
+Eau brute |
 
-|
+175 |
 
-mg (O2)/ L
+mg (O2)/ L |
 
-|
+Groupe 2 bis (mesuré en laboratoire) |
 
-NKJ
+NH4 + |
 
-|
+1335 |
 
-1319
+Ammonium |
 
-|
+3 |
 
-Azote Kjeldahl
+Eau |
 
-|
+3 |
 
-3
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+169 |
 
-Eau
+mg (NH4)/ L |
 
-|
+NO3- |
 
-23
+1340 |
 
-|
+Nitrates |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-168
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-mg (N)/ L
+173 |
 
-|
+mg (NO3)/ L |
 
-P total
+NO2- |
 
-|
+1339 |
 
-1350
+Nitrites |
 
-|
+3 |
 
-Phosphore total
+Eau |
 
-|
+3 |
 
-3
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+171 |
 
-Eau
+mg (NO2)/ L |
 
-|
+PO4 (3-) |
 
-23
+1433 |
 
-|
+Orthophosphates (PO4) |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-177
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-mg (P)/ L
+176 |
 
-|
+mg (PO4)/ L |
 
-MEST
+COD |
 
-|
+1841 |
 
-1305
+Carbone Organique |
 
-|
+3 |
 
-Matières en suspension
+Eau |
 
-|
+3 |
 
-3
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+163 |
 
-Eau
+mg (C)/ L |
 
-|
+Silice dissoute |
 
-23
+1342 |
 
-|
+Silicates |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-162
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-mg/ L
+273 |
 
-|
+mg (SiO2)/ L |
 
-Turbidité*
+Groupe 3 (mesuré en laboratoire) |
 
-|
+Chlorures |
 
-1295
+1337 |
 
-|
+Chlorures |
 
-Turbidité Formazine Néphélométrique
+3 |
 
-|
+Eau |
 
-3
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Eau
+164 |
 
-|
+mg (Cl)/ L |
 
-23
+Sulfates |
 
-|
+1338 |
 
-Eau brute
+Sulfates |
 
-|
+3 |
 
-232
+Eau |
 
-|
+3 |
 
-NFU
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+179 |
 
-Chlorophylle a***
+mg (SO4)/ L |
 
-|
+Bicarbonates |
 
-1439
+1327 |
 
-|
+Hydrogénocarbonates |
 
-Chlorophylle a
+3 |
 
-|
+Eau |
 
-3
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Eau
+274 |
 
-|
+mg (HCO3)/ L |
 
-23
+Calcium |
 
-|
+1374 |
 
-Eau brute
+Calcium |
 
-|
+3 |
 
-133
+Eau |
 
-|
+3 |
 
-µg/ L
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+292 |
 
-phéopigments***
+mg (Ca)/ L |
 
-|
+Magnésium |
 
-1436
+1372 |
 
-|
+Magnésium |
 
-Phéopigments
+3 |
 
-|
+Eau |
 
-3
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Eau
+320 |
 
-|
+mg (Mg)/ L |
 
-23
+Sodium |
 
-|
+1375 |
 
-Eau brute
+Sodium |
 
-|
+3 |
 
-133
+Eau |
 
-|
+3 |
 
-µg/ L
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+326 |
 
-DCO*
+mg (Na)/ L |
 
-|
+Potassium |
 
-1314
+1367 |
 
-|
+Potassium |
 
-Demande Chimique en Oxygène (D. C. O.)
+3 |
 
-|
+Eau |
 
-3
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Eau
+316 |
 
-|
+mg (K)/ L |
 
-23
+Dureté TH (**) |
 
-|
+1345 |
 
-Eau brute
+Dureté totale |
 
-|
+3 |
 
-175
+Eau |
 
-|
+3 |
 
-mg (O2)/ L
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+28 |
 
-Groupe 2 bis (mesuré en laboratoire)
+° f |
 
-|
+TAC |
 
-NH4 +
+1347 |
 
-|
+Titre alcalimétrique complet (T. A. C.) |
 
-1335
+3 |
 
-|
+Eau |
 
-Ammonium
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+28 |
 
-|
+° f |
 
-Eau
+Groupe 4 (mesuré en laboratoire) |
 
-|
+Granulométrie (***) |
 
-3
+6228 |
 
-|
+Particule inférieures à 20 µm de sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+6 |
 
-|
+Sédiments |
 
-169
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-mg (NH4)/ L
+246 |
 
-|
+% poids sec |
 
-NO3-
+Granulométrie (***) |
 
-|
+3054 |
 
-1340
+Particule entre [20,63 [µm de sédiments |
 
-|
+6 |
 
-Nitrates
+Sédiments |
 
-|
+32 |
 
-3
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-Eau
+% poids sec |
 
-|
+Granulométrie (***) |
 
-3
+7042 |
 
-|
+Particule entre [63,150 [µm de sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+6 |
 
-|
+Sédiments |
 
-173
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-mg (NO3)/ L
+246 |
 
-|
+% poids sec |
 
-NO2-
+Granulométrie (***) |
 
-|
+7043 |
 
-1339
+Particule entre [150,200 [µm de sédiments |
 
-|
+6 |
 
-Nitrites
+Sédiments |
 
-|
+32 |
 
-3
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-Eau
+% poids sec |
 
-|
+Granulométrie (***) |
 
-3
+7044 |
 
-|
+Particule supérieures ou égales à 200 µm de sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+6 |
 
-|
+Sédiments |
 
-171
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-mg (NO2)/ L
+246 |
 
-|
+% poids sec |
 
-PO4 (3-)
+Perte au feu (***) |
 
-|
+6578 |
 
-1433
+Perte au feu à 550° C |
 
-|
+6 |
 
-Orthophosphates (PO4)
+Sédiments |
 
-|
+32 |
 
-3
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-Eau
+% poids sec |
 
-|
+Carbone organique total (***) |
 
-3
+1841 |
 
-|
+Carbone Organique |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+6 |
 
-|
+Sédiments |
 
-176
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-mg (PO4)/ L
+160 |
 
-|
+mg/ (kg MS) |
 
-COD
+Groupe 5 (mesuré en laboratoire) |
 
-|
+Aluminium (***) |
 
-1841
+1370 |
 
-|
+Aluminium |
 
-Carbone Organique
+6 |
 
-|
+Sédiments |
 
-3
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-Eau
+160 |
 
-|
+mg/ (kg MS) |
 
-3
+Fer (***) |
 
-|
+1393 |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+Fer |
 
-|
+6 |
 
-163
+Sédiments |
 
-|
+32 |
 
-mg (C)/ L
+Particule < 2 mm de sédiments |
 
-|
+160 |
 
-Silice dissoute
+mg/ (kg MS) |
 
-|
+Manganèse (***) |
 
-1342
+1394 |
 
-|
+Manganèse |
 
-Silicates
+6 |
 
-|
+Sédiments |
 
-3
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-Eau
+160 |
 
-|
+mg/ (kg MS) |
 
-3
+Abréviations : CSP = Code Sandre Paramètre ; CSS = code Sandre support ; CSF = code Sandre fraction ; CSU = code Sandre unité
 
-|
+(*) : paramètres optionnels
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+(**) : paramètres calculés
 
-|
+(***) : paramètres non pertinent à La Réunion (insuffisance de la fraction fine du sédiment, forte variabilité temporelle de la granulométrie y compris en période d'étiage) |
 
-273
-
-|
-
-mg (SiO2)/ L
-
-|
-
-Groupe 3 (mesuré en laboratoire)
-
-|
-
-Chlorures
-
-|
-
-1337
-
-|
-
-Chlorures
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-164
-
-|
-
-mg (Cl)/ L
-
-|
-
-Sulfates
-
-|
-
-1338
-
-|
-
-Sulfates
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-179
-
-|
-
-mg (SO4)/ L
-
-|
-
-Bicarbonates
-
-|
-
-1327
-
-|
-
-Hydrogénocarbonates
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-274
-
-|
-
-mg (HCO3)/ L
-
-|
-
-Calcium
-
-|
-
-1374
-
-|
-
-Calcium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-292
-
-|
-
-mg (Ca)/ L
-
-|
-
-Magnésium
-
-|
-
-1372
-
-|
-
-Magnésium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-320
-
-|
-
-mg (Mg)/ L
-
-|
-
-Sodium
-
-|
-
-1375
-
-|
-
-Sodium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-326
-
-|
-
-mg (Na)/ L
-
-|
-
-Potassium
-
-|
-
-1367
-
-|
-
-Potassium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-316
-
-|
-
-mg (K)/ L
-
-|
-
-Dureté TH**
-
-|
-
-1345
-
-|
-
-Dureté totale
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-28
-
-|
-
-° f
-
-|
-
-TAC
-
-|
-
-1347
-
-|
-
-Titre alcalimétrique complet (T. A. C.)
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-28
-
-|
-
-° f
-
-|
-
-Groupe 4 (mesuré en laboratoire)
-
-|
-
-Granulométrie***
-
-|
-
-6228
-
-|
-
-Particule inférieures à 20 µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie***
-
-|
-
-3054
-
-|
-
-Particule entre [20,63 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie***
-
-|
-
-7042
-
-|
-
-Particule entre [63,150 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie***
-
-|
-
-7043
-
-|
-
-Particule entre [150,200 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie***
-
-|
-
-7044
-
-|
-
-Particule supérieures ou égales à 200 µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Perte au feu***
-
-|
-
-6578
-
-|
-
-Perte au feu à 550° C
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Carbone organique total***
-
-|
-
-1841
-
-|
-
-Carbone Organique
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Groupe 5 (mesuré en laboratoire)
-
-|
-
-Aluminium***
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Fer***
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Manganèse***
-
-|
-
-1394
-
-|
-
-Manganèse
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Abréviations : CSP = Code SANDRE paramètre ; CSS = code SANDRE support ; CSF = code SANDRE fraction ; CSU = code SANDRE unité
-
-* : paramètres optionnels
-
-** : paramètres calculés
-
-*** : paramètres non pertinent à La Réunion (insuffisance de la fraction fine du sédiment, forte variabilité temporelle de la granulométrie y compris en période d'étiage)
-
-|
-
-Définition du groupe 6 : Substances de l'état chimique, polluants spécifiques de l'état écologique et substances pertinentes.
+Définition du groupe 6 : substances de l'état chimique, polluants spécifiques de l'état écologique et substances pertinentes à surveiller.
 
 Ces paramètres et groupes de paramètres sont mesurés en laboratoire.
 
 Pour les paramètres et groupes de paramètres pour lesquels la matrice pertinente est l'eau, la mesure est réalisée sur eau brute (non filtrée), à l'exception des métaux et métalloïdes et des perchlorates mesurés sur la fraction dissoute, obtenue par filtration de l'eau brute à travers un filtre de porosité 0,45 micromètres ou par tout autre traitement préliminaire équivalent.
 
-Période de prélèvement :
-
--Sur support eau :
-
-Pour les groupes 1,2,2 bis et 3 :
-
-Fréquence par plan de gestion : tous les ans ;
-
-Période de prélèvement : toute l'année.
-
-Fréquence annuelle :
-
-Groupes 1,2 et 2 bis : 6 fois par an ;
-
-Groupe 3 : 2 fois par an.
-
-Groupe 6 : les fréquences de contrôle sont définies à l'annexe VI du présent arrêté
-
--Sur support sédiment :
-
-Fréquence par plan de gestion : tous les trois ans ;
-
-Période de prélèvement : en dehors des périodes de hautes eaux.
-
-Fréquence annuelle :
-
-Groupe 4 et 5 : 1 fois par an.
-
-Groupe 6 : les fréquences de contrôle sont définies à l'annexe VI du présent arrêté.
-
-Pour l'application au cuivre, nickel et zinc des modèles de calcul de la fraction dissoute biodisponible de type BLM (Biotic Ligand Model) il est recommandé de réaliser la mesure du pH, du carbone organique dissous et de la concentration en calcium dissous, en même temps que la mesure de la concentration en métal dissous.
-
-Afin de permettre le calcul de la fraction dissoute biodisponible pour le plomb, il est recommandé de réaliser la mesure du carbone organique dissous, en même temps que la mesure de la concentration en plomb dissous.
-
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Conformément au guide relatif à l'application de l'arrêté du 25 janvier 2010 modifié établissant le programme de surveillance de l'état des eaux, pour les eaux douces de surface (cours d'eau, canaux et plans d'eau).
+Pour tous les paramètres, conformément au guide pour la demande de prestation d'échantillonnage et d'analyse physico-chimique dans le cadre de la surveillance DCE publié par le ministère de la Transition écologique et solidaire, dans sa version la plus récente.
 
-Dans l'attente de la publication du guide technique relatif à la mise en œuvre du programme de surveillance, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.
+Dans l'attente de la publication de ce guide, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.
 
 1.3. Eléments hydromorphologiques
 
-La mise en œuvre du programme de surveillance pour les éléments de qualité hydromorphologiques nécessite des analyses à différentes échelles spatiales allant de la masse d'eau à la station. Le contrôle de surveillance et le contrôle opérationnel n'impliquent pas les mêmes échelles d'analyse (respectivement échelle du site d'évaluation et échelle de la masse d'eau). Ainsi, pour chaque élément de qualité sont prescrits ci-dessous les paramètres à suivre, les outils et méthodes de description ainsi que leur utilisation pour le Réseau de Contrôle de Surveillance (RCS). Pour le Contrôle Opérationnel (CO), les solutions méthodologiques adéquates sont à définir en fonction du (des) paramètre (s) hydromorphologique (s) pertinent (s). Trois éléments de qualité sont pris en compte pour l'hydromorphologie :
+Pour chaque élément de qualité sont prescrits ci-dessous les paramètres à suivre, les outils et méthodes de description ainsi que leur utilisation.
+
+Trois éléments de qualité sont pris en compte pour l'hydromorphologie :
 
 -le régime hydrologique (quantité et dynamique du débit, connexion résultante aux eaux souterraines). Il s'agit également d'une composante majeure des conditions environnementales nécessaire à l'interprétation de la biologie ;
 
--la continuité écologique. Il s'agit des dimensions longitudinale et latérale de l'hydrosystème. Elle traduit la migration des organismes aquatiques et la continuité sédimentaire (transferts des flux solides) ;
+-la continuité de la rivière. Il s'agit des dimensions longitudinale et latérale de l'hydrosystème. Elle traduit la migration des organismes aquatiques et la continuité sédimentaire (transferts des flux solides). Pour la surveillance, cet élément de qualité ne peut être considéré qu'en replaçant la station du réseau de contrôle de surveillance (RCS) dans son contexte d'axe ou de linéaire fluvial ;
 
 -les conditions morphologiques (types de chenaux, variations de largeur et de profondeur, faciès et vitesses d'écoulement, état du substrat, état et structure des rives, zone riparienne).
 
-Pour les éléments hydromorphologiques, les fréquences de contrôle sont définies :
+Pour les éléments hydromorphologiques, les fréquences du contrôle de surveillance sont définies à l'annexe VI du présent arrêté.
 
--pour le RCS à l'annexe VI du présent arrêté ;
+1.3.1. Régime hydrologique
 
--pour le CO à l'annexe X du présent arrêté.
+La surveillance peut être initiée en s'appuyant sur le référentiel de mesure des débits suivants :
 
-Ces éléments de qualité sont pertinents pour l'ensemble des types de masses d'eau sauf les canaux pour l'hydrologie.
+-Réseau de mesures national HYDRO ; ministère de l'environnement, de l'énergie et de la mer, 2017. Charte qualité de l'hydrométrie-Guide des bonnes pratiques. France, 83 p. (http :// www. eaufrance. fr/ site-156/ documents/ ? id _ article = 615).
 
-1.3.1. Réseau de Contrôle de Surveillance
+D'autres outils peuvent permettre de comprendre les régimes hydrologiques non influencés de certains sites où il n'existe pas de mesures :
 
-1.3.1.1. Régime hydrologique
+-Reconstitution des chroniques hydrologiques journalières-Méthode de simulation de débits en site non jaugé développée par l'Irstea (http :// carmen. carmencarto. fr/66/ AFB _ Reconstitution-chroniques-hydrologiques. map) et fichier d'avertissement sur les limites des reconstitutions à lire avant utilisation.
 
-La surveillance peut être initiée en s'appuyant sur les méthodes et le référentiel de mesure des débits suivants :
+1.3.2. Continuité de la rivière
 
--Réseau de mesures national HYDRO ;
+La surveillance peut être initiée en s'appuyant sur l'exploitation du référentiel des obstacles à l'écoulement (ROE) et la méthode de recueil d'informations sur la continuité écologique (ICE), qui porte sur la continuité piscicole à la montaison au niveau de chaque obstacle.
 
--ONEMA-CEMAGREF, 2011. Contrôle des débits réglementaires-Application de l'article L. 214-8 du Code de l'Environnement. Guide technique Police de l'eau, 128 p.
+Le ROE permet de recenser les ouvrages faisant obstacles aux écoulements et de calculer des indicateurs de pressions liées à ces structures.
 
-1.3.1.2. Continuité écologique
-
-La surveillance peut être initiée en s'appuyant sur le référentiel des obstacles à l'écoulement (ROE) et le protocole d'informations sur la continuité écologique (ICE), qui porte sur la continuité piscicole à la montaison au niveau de chaque obstacle.
-
-Les méthodes standardisées de suivi et d'évaluation des aspects liées à la dévalaison des organismes vivants et à la continuité sédimentaire ne sont pas disponibles.
+L'ICE permet d'évaluer les problématiques de montaison piscicole par groupe d'espèces au niveau de chaque obstacle suivant des classes de franchissabilité comprises entre 0 et 1. S'agissant de la dévalaison piscicole, au regard de la complexité des mécanismes biologiques et de la nécessité de disposer d'une bonne connaissance de l'hydrologie du cours d'eau, aucune méthode d'évaluation par un indicateur n'existe. ICE se propose toutefois de recueillir les éléments caractéristiques de l'ouvrage, indispensables à la consolidation de l'expertise pour l'appréhension de ces impacts.
 
 Guides de référence :
 
--ONEMA, 2014. Evaluer le franchissement des obstacles par les poissons. Principes et méthodes. Onema, 200 p.
+Pour le référentiel des obstacles à l'écoulement (ROE)
 
--ONEMA, 2014. Informations sur la Continuité Ecologique (ICE) : Protocole d'acquisition des données terrain. Onema,. 65 p.
+-Sandre, 2015. Description des ouvrages faisant obstacle à l'écoulement, Dictionnaire de données, 128 p.
 
--ONEMA, 2014. Référentiel des Obstacles à l'Ecoulement : Guide d'administration et de gestion partenariale des données
+-Sandre, 2015. Obstacles à l'écoulement, Présentation des données, 80 p.
 
--SANDRE, 2012. Obstacles à l'écoulement, Dictionnaire de données, Présentation des données, 80 p.
+-Sandre, 2016. Diffusion du référentiel des obstacles à l'écoulement des obstacles à l'écoulement aux formats simplifiés, 32 p.
 
--SANDRE, 2012. Description des ouvrages faisant obstacle à l'écoulement, Dictionnaire de données, 128 p.
-
-1.3.1.3. Conditions morphologiques
-
-Le protocole de CARactérisation de l'HYdromorphologie des Cours d'Eau (CARHYCE) est mis en œuvre.
-
-Ce protocole permet de mesurer les conditions morphologiques de la rivière à un débit donné et de donner une image descriptive de la station du réseau de contrôle de surveillance. Les paramètres pris en compte dans le protocole sont multiples : géométrie et largeur du lit, profondeur et débit, pente de la ligne d'eau, faciès d'écoulement, granulométrie, substrats organiques, colmatage, nature des matériaux constitutifs des berges et présence d'habitats caractéristiques, stratification, type et épaisseur de ripisylve, continuités longitudinale et latérale.
-
-Les contrôles sont réalisés en période proche des conditions d'étiage et obligatoirement en dehors de périodes d'événements extrêmes (étiages sévères et hautes eaux).
-
-A ce stade de développement du CARHYCE, le protocole ne s'applique que pour les cours d'eau prospectables à pied.
-
-Guide de référence :
-
--ONEMA, 2014. CARHYCE : CARactérisation de l'HYdromorphologie des Cours d'Eau : Protocole de recueil de données hydromorphologiques à l'échelle de la station sur des cours d'eau prospectables à pied, version 2.0. Onema, 40 p.
-
-1.3.2. Réseau de Contrôle Opérationnel
-
-Le contrôle opérationnel est établi après avoir identifié, pour l'état des lieux, les masses d'eau en RNAOE (Risque de Non Atteinte des Objectifs Environnementaux) et les pressions hydromorphologiques à l'origine de ce risque. Le contrôle opérationnel est mis en œuvre pour évaluer i). l'état de ces masses d'eau en RNAOE, ii). les changements d'état suite aux programmes de mesures.
-
-Le contrôle opérationnel se focalise sur le ou les éléments de qualité pertinent (s) en utilisant les méthodes et protocoles adaptés.
-
-1.3.2.1. Régime hydrologique
-
-Le contrôle opérationnel peut être initié en s'appuyant sur les méthodes et le référentiel de mesure des débits :
-
--Réseau de mesures national HYDRO ;
-
--ONEMA-CEMAGREF, 2011. Contrôle des débits réglementaires-Application de l'article L. 214-8 du Code de l'Environnement. Guide technique Police de l'eau, 128 p.
-
-1.3.2.2. Continuité écologique
-
-La surveillance peut être initiée en s'appuyant sur le référentiel des obstacles à l'écoulement (ROE) et le protocole d'informations sur la continuité écologique (ICE), qui porte sur la continuité piscicole à la montaison au niveau de chaque obstacle.
-
-Les méthodes standardisées de suivi et d'évaluation des aspects liées à la dévalaison des organismes vivants et à la continuité sédimentaire ne sont pas disponibles.
-
-Guides de référence :
+Pour la méthode de recueil d'informations sur la continuité écologique (ICE)
 
 -ONEMA, 2014. Evaluer le franchissement des obstacles par les poissons. Principes et méthodes. Onema, 200 p.
 
--ONEMA, 2014. Informations sur la Continuité Ecologique (ICE) : Protocole d'acquisition des données terrain. Onema,. 65 p.
+-ONEMA, 2015. ICE, Informations sur la continuité écologique, Protocole de terrain pour l'acquisition des données, 88 p.
 
--ONEMA, 2014. Référentiel des Obstacles à l'Ecoulement : Guide d'administration et de gestion partenariale des données
+1.3.3. Conditions morphologiques
 
--SANDRE, 2012. Obstacles à l'écoulement, Dictionnaire de données, Présentation des données, 80 p.
+La méthode de caractérisation de l'hydromorphologie des cours d'eau (CARHYCE) est mise en œuvre. Elle permet, par des mesures standardisées sur les cours d'eau, de reconstituer leurs morphologies, de calculer les paramètres de géométrie au jour d'acquisition et à plein bord mais aussi les paramètres relatifs à leur dynamique et à la diversité des formes du lit, ainsi que de caractériser les sédiments. Le traitement des informations collectées permet une estimation du niveau d'altération des paramètres de fonctionnement du cours d'eau au travers d'un indicateur morphologique global (IMG) auquel s'associent des indicateurs plus contextuels sur la structure de la ripisylve et de la granulométrie des sédiments.
 
--SANDRE, 2012. Description des ouvrages faisant obstacle à l'écoulement, Dictionnaire de données, 128 p.
+A ce stade de développement du CARHYCE, le protocole ne s'applique que pour les cours d'eau prospectables à pied. Guide de référence :
 
-1.3.2.3. Conditions morphologiques
-
-Pour le suivi des conditions morphologiques à l'échelle de la masse d'eau, les paramètres les plus pertinents, selon l'avis d'expert, pourront ainsi être pris en compte, en retenant préférentiellement pour caractériser ces paramètres les protocoles des méthodes existantes telles que CARHYCE ou AURAH-CE. Dès lors que l'un de ces protocoles est mis en œuvre, il est recommandé de le réaliser dans son intégralité.
-
-Guides de référence (liste non exhaustive) :
-
--ONEMA, 2014. CARHYCE : CARactérisation de l'HYdromorphologie des Cours d'Eau : Protocole de recueil de données hydromorphologiques à l'échelle de la station sur des cours d'eau prospectables à pied, version 2.0. Onema, 40 p.
-
--ONEMA, 2013. Protocole d'AUdit RApide de l'Hydromorphologie des Cours d'Eau (AURAH-CE). Guide, 46 p.
+-AFB, 2017. CARHYCE : caractérisation de l'hydromorphologie des cours d'eau : protocole de recueil de données hydromorphologiques à l'échelle de la station sur des cours d'eau prospectables à pied. 56 p.
 
 2. Description des outils, méthodes d'échantillonnage, de traitement et d'analyse des échantillons pour les plans d'eau
 
@@ -1904,1907 +1042,983 @@ Guides de référence (liste non exhaustive) :
 
 Les méthodes de mesure, de prélèvement et d'analyse à utiliser pour les contrôles des éléments biologiques sont celles indiquées ci-dessous.
 
-Pour les éléments biologiques, les fréquences de contrôle sont indiquées à l'annexe VI du présent arrêté.
+Les fréquences de contrôle sont indiquées à l'annexe VI du présent arrêté.
 
 2.1.1. Phytoplancton
 
-Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
+Méthode ou principes d'échantillonnage :
 
--Protocole standardisé d'échantillonnage, de conservation, d'observation et de dénombrement du phytoplancton en plan d'eau pour la mise en œuvre de la DCE, version 3.3 septembre 2009, CEMAGREF.
+-XP T90-719-Qualité de l'eau-échantillonnage du phytoplancton dans les eaux intérieures.
+
+Méthode ou principe de traitement et d'analyse des échantillons :
+
+-Norme NF EN 15-204-Norme guide pour le dénombrement du phytoplancton par microscopie inversée (méthode Utermöhl) ;
+
+-Protocole standardisé d'échantillonnage, de conservation, d'observation et de dénombrement du phytoplancton en plan d'eau pour la mise en œuvre de la DCE en plan d'eau (version 3.3.1).
 
 2.1.2. Macrophytes (angiospermes, macro-algues, bryophytes)
 
 Méthode ou principes d'échantillonnage :
 
--Norme française : XP T 90-328 (puis NF T90-328 dès son entrée en vigueur). Echantillonnage des communautés de macrophytes en plans d'eau.
+-Norme française : XP T 90-328 (puis NF T90-328 dès son homologation). Echantillonnage des communautés de macrophytes en plans d'eau ;
+
+-Guide d'application : FD T90-728-Guide d'application de la norme expérimentale XP T90-328 échantillonnage des macrophytes en plans d'eau .
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Norme française : XP T 90-328 (puis NF T90-328 dès son entrée en vigueur). Echantillonnage des communautés de macrophytes en plans d'eau.
+-Norme française : XP T 90-328 (puis NF T90-328 dès son homologation). Echantillonnage des communautés de macrophytes en plans d'eau ;
+
+-Guide d'application : FD T90-728-Guide d'application de la norme expérimentale XP T90-328 échantillonnage des macrophytes en plans d'eau .
 
 2.1.3. Faune benthique invertébrée
 
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
--Méthode en cours de développement, à paraître en 2016 (la méthode sera à appliquer pour le 2e cycle DCE).
+-Protocole test pour les invertébrés en plans d'eau :
+
+Annexe technique : protocole test du rapport relatif au développement d'un indice macro-invertébrés lacustres DCE français (Nicolas Dedieu et Valérie Verneaux-novembre 2017-université de Franche-Comté (ou version ultérieure de ce protocole ou norme ultérieure).
 
 2.1.4. Ichtyofaune
 
 Méthode ou principes d'échantillonnage :
 
--Norme européenne : NF EN 14757 (01-11-2005)-T90-366. Qualité de l'eau-échantillonnage des poissons à l'aide de filets maillants.
+-Norme européenne : NF EN 14757 (juillet 2015)-T90-366. Qualité de l'eau-échantillonnage des poissons à l'aide de filets maillants.
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Norme européenne : NF EN 14757 (01-11-2005)-T90-366. Qualité de l'eau-échantillonnage des poissons à l'aide de filets maillants.
+-Norme européenne : NF EN 14757 (juillet 2015)-T90-366. Qualité de l'eau-échantillonnage des poissons à l'aide de filets maillants.
 
-2.1.5. Diatomées
+2.1.5-Diatomées
 
 Méthode ou principes d'échantillonnage :
 
--IRSTEA, 2013. Echantillonnage des communautés de phytobenthos en plan d'eau, 8p (ou version ultérieure).
+-Irstea, 2013. Echantillonnage des communautés de phytobenthos en plan d'eau, 8 p. (ou version ultérieure ou norme ultérieure remplaçant ce prototype de protocole).
 
 Méthode ou principes de traitement et d'analyse des échantillons :
 
--Norme française : NF T90-354. Qualité de l'eau-Détermination de l'Indice Biologique Diatomées (IBD).
+-Norme française : NF T90-354. Qualité de l'eau-Echantillonnage, traitement et analyse de diatomées benthiques en cours d'eau et canaux.
 
-2.1.6. Cas des départements d'outre mer
+2.1.6-Cas des départements d'outre-mer
 
-En outre-mer, à ce stade des connaissances seule la méthodologie d'échantillonnage du phytoplancton est adaptée. Les autres méthodes ne sont pas nécessairement adaptées aux spécificités des milieux et la pertinence des différents éléments de qualité biologique reste à déterminer. L'ONEMA proposera (en lien avec le pôle ONEMA-IRSTEA d'hydro-écologie des plans d'eau) une méthodologie d'acquisition de données afin de pouvoir qualifier le bon état ou le bon potentiel à dire d'expert.
+En outre-mer, à ce stade des connaissances, seule la méthodologie d'échantillonnage du phytoplancton est transposable. La fréquence de suivi préconisée dans la méthodologie reste à consolider La pertinence des autres éléments de qualité biologique et de leurs protocoles d'échantillonnage devra être précisée. L'AFB proposera (en lien avec le pôle AFB-IRSTEA d'hydro-écologie des plans d'eau) une méthodologie d'acquisition de données afin de pouvoir qualifier le bon état ou le bon potentiel à dire d'expert.
 
 2.2. Eléments physico-chimiques
 
 Ces paramètres sont applicables aux DOM.
 
-Tableau 25.-Paramètres physico-chimiques pour les plans d'eau
+Tableau 32 : paramètres physico-chimiques pour les plans d'eau
 
-PARAMÈTRE
+Paramètre
 
-physico-chimique
+Physico-chimique
 
-cible
+Cible |
 
-|
+CSP |
 
-CSP
+Libellé Sandre du paramètre |
 
-|
+CSS |
 
-LIBELLÉ SANDRE DU PARAMÈTRE
+Libellé Sandre du support |
 
-|
+CSF |
 
-CSS
+Libellé Sandre de la fraction |
 
-|
+CSU |
 
-LIBELLÉ SANDRE
+Symbole Sandre
 
-du support
+Unité (****) |
 
-|
+Groupe 1 (mesuré in situ) |
 
-CSF
+Transparence |
 
-|
+1332 |
 
-LIBELLÉ SANDRE DE LA FRACTION
+Limpidité-Disque de Secchi |
 
-|
+3 |
 
-CSU
+Eau |
 
-|
+23 |
 
-SYMBOLE SANDRE
+Eau brute |
 
-unité****
+13 |
 
-|
+cm |
 
-Groupe 1 (mesuré In situ)
+Température |
 
-|
+1301 |
 
-Transparence
+Température de l'Eau |
 
-|
+3 |
 
-1332
+Eau |
 
-|
+23 |
 
-Limpidité-Disque de Secchi
+Eau brute |
 
-|
+27 |
 
-3
+° C |
 
-|
+Oxygène dissous |
 
-Eau
+1311 |
 
-|
+Oxygène dissous |
 
-23
+3 |
 
-|
+Eau |
 
-Eau brute
+23 |
 
-|
+Eau brute |
 
-13
+175 |
 
-|
+mg (O2)/ L |
 
-cm
+Saturation en O2 dissous |
 
-|
+1312 |
 
-Température
+Taux de saturation en oxygène |
 
-|
+3 |
 
-1301
+Eau |
 
-|
+23 |
 
-Température de l'Eau
+Eau brute |
 
-|
+243 |
 
-3
+% |
 
-|
+pH |
 
-Eau
+1302 |
 
-|
+Potentiel en Hydrogène (pH) |
 
-23
+3 |
 
-|
+Eau |
 
-Eau brute
+23 |
 
-|
+Eau brute |
 
-27
+264 |
 
-|
+unité pH |
 
-° C
+Conductivité |
 
-|
+1303 |
 
-Oxygène dissous
+Conductivité à 25° C |
 
-|
+3 |
 
-1311
+Eau |
 
-|
+23 |
 
-Oxygène dissous
+Eau brute |
 
-|
+147 |
 
-3
+µS/ cm |
 
-|
+Cote à l'échelle |
 
-Eau
+1429 |
 
-|
+Cote à l'échelle lue au moment du prélèvement, ou de l'opération hydrométrique |
 
-23
+3 |
 
-|
+Eau |
 
-Eau brute
+23 |
 
-|
+Eau brute |
 
-175
+111 |
 
-|
+m |
 
-mg (O2)/ L
+Groupe 2 (mesuré en laboratoire) |
 
-|
+NKJ |
 
-Saturation en O2 dissous
+1319 |
 
-|
+Azote Kjeldahl |
 
-1312
+3 |
 
-|
+Eau |
 
-Taux de saturation en oxygène
+23 |
 
-|
+Eau brute |
 
-3
+168 |
 
-|
+mg (N)/ L |
 
-Eau
+P total |
 
-|
+1350 |
 
-23
+Phosphore total |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+23 |
 
-243
+Eau brute |
 
-|
+582 |
 
-%
+µg (P)/ L |
 
-|
+MEST |
 
-pH
+1305 |
 
-|
+Matières en suspension |
 
-1302
+3 |
 
-|
+Eau |
 
-Potentiel en Hydrogène (pH)
+23 |
 
-|
+Eau brute |
 
-3
+162 |
 
-|
+mg/ L |
 
-Eau
+Turbidité |
 
-|
+1295 |
 
-23
+Turbidité Formazine Néphélométrique |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+23 |
 
-264
+Eau brute |
 
-|
+232 |
 
-unité pH
+NFU |
 
-|
+Matière minérale en suspension |
 
-Conductivité
+6048 |
 
-|
+Matière minérale en suspension |
 
-1303
+3 |
 
-|
+Eau |
 
-Conductivité à 25° C
+23 |
 
-|
+Eau brute |
 
-3
+162 |
 
-|
+mg/ L |
 
-Eau
+Chlorophylle a |
 
-|
+1439 |
 
-23
+Chlorophylle a |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+23 |
 
-147
+Eau brute |
 
-|
+133 |
 
-µS/ cm
+µg/ L |
 
-|
+phéopigments |
 
-Cote à l'échelle
+1436 |
 
-|
+Phéopigments |
 
-1429
+3 |
 
-|
+Eau |
 
-Cote à l'échelle lue au moment du prélèvement, ou de l'opération hydrométrique
+23 |
 
-|
+Eau brute |
 
-3
+133 |
 
-|
+µg/ L |
 
-Eau
+Groupe 2 bis (mesuré en laboratoire) |
 
-|
+NH4 + |
 
-23
+1335 |
 
-|
+Ammonium |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-111
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-m
+378 |
 
-|
+µg (NH4)/ L |
 
-Matière Organique Dissoutes Fluorescentes
+NO3- |
 
-|
+1340 |
 
-7615
+Nitrates |
 
-|
+3 |
 
-Fluorescence des Matières Organiques Dissoutes aux UV-A
+Eau |
 
-|
+3 |
 
-3
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+173 |
 
-Eau
+mg (NO3)/ L |
 
-|
+NO2- |
 
-23
+1339 |
 
-|
+Nitrites |
 
-Eau brute
+3 |
 
-|
+Eau |
 
-579
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Ppb QSE
+583 |
 
-|
+µg (NO2)/ L |
 
-Groupe 2 (mesuré en laboratoire)
+PO4 (3-) |
 
-|
+1433 |
 
-NKJ
+Orthophosphates (PO4) |
 
-|
+3 |
 
-1319
+Eau |
 
-|
+3 |
 
-Azote Kjeldahl
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+379 |
 
-3
+µg (PO4)/ L |
 
-|
+COD |
 
-Eau
+1841 |
 
-|
+Carbone Organique |
 
-23
+3 |
 
-|
+Eau |
 
-Eau brute
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-168
+163 |
 
-|
+mg (C)/ L |
 
-mg (N)/ L
+Silice dissoute |
 
-|
+1342 |
 
-P total
+Silicates |
 
-|
+3 |
 
-1350
+Eau |
 
-|
+3 |
 
-Phosphore total
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+273 |
 
-3
+mg (SiO2)/ L |
 
-|
+Groupe 3 (mesuré en laboratoire) |
 
-Eau
+Chlorures |
 
-|
+1337 |
 
-23
+Chlorures |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-582
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+164 |
 
-µg (P)/ L
+mg (Cl)/ L |
 
-|
+Sulfates |
 
-MEST
+1338 |
 
-|
+Sulfates |
 
-1305
+3 |
 
-|
+Eau |
 
-Matières en suspension
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+179 |
 
-|
+mg (SO4)/ L |
 
-Eau
+Bicarbonates |
 
-|
+1327 |
 
-23
+Hydrogénocarbonates |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-162
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+274 |
 
-mg/ L
+mg (HCO3)/ L |
 
-|
+Calcium |
 
-Turbidité
+1374 |
 
-|
+Calcium |
 
-1295
+3 |
 
-|
+Eau |
 
-Turbidité Formazine Néphélométrique
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+292 |
 
-|
+mg (Ca)/ L |
 
-Eau
+Magnésium |
 
-|
+1372 |
 
-23
+Magnésium |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-232
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+320 |
 
-NFU
+mg (Mg)/ L |
 
-|
+Sodium |
 
-Teneur en matière minérale
+1375 |
 
-|
+Sodium |
 
-2835
+3 |
 
-|
+Eau |
 
-Teneur en matière minérale
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+326 |
 
-|
+mg (Na)/ L |
 
-Eau
+Potassium |
 
-|
+1367 |
 
-23
+Potassium |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-162
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+316 |
 
-mg/ L
+mg (K)/ L |
 
-|
+Dureté TH (**) |
 
-Chlorophylle a
+1345 |
 
-|
+Dureté totale |
 
-1439
+3 |
 
-|
+Eau |
 
-Chlorophylle a
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+28 |
 
-|
+° f |
 
-Eau
+TA (***) |
 
-|
+1346 |
 
-23
+Titre alcalimétrique (T. A.) |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-133
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+28 |
 
-µg/ L
+° f |
 
-|
+TAC (***) |
 
-phéopigments
+1347 |
 
-|
+Titre alcalimétrique complet (T. A. C.) |
 
-1436
+3 |
 
-|
+Eau |
 
-Phéopigments
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-3
+28 |
 
-|
+° f |
 
-Eau
+Aluminium |
 
-|
+1370 |
 
-23
+Aluminium |
 
-|
+3 |
 
-Eau brute
+Eau |
 
-|
+3 |
 
-133
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+278 |
 
-µg/ L
+µg (Al)/ L |
 
-|
+Fer |
 
-Groupe 2 bis (mesuré en laboratoire)
+1393 |
 
-|
+Fer |
 
-NH4 +
+3 |
 
-|
+Eau |
 
-1335
+3 |
 
-|
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-Ammonium
+307 |
 
-|
+µg (Fe)/ L |
 
-3
+Manganèse |
 
-|
+1394 |
 
-Eau
+Manganèse |
 
-|
+3 |
 
-3
+Eau |
 
-|
+3 |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+Phase aqueuse de l'eau (filtrée, centrifugée...) |
 
-|
+321 |
 
-378
+µg (Mn)/ L |
 
-|
+Groupe 4 (mesuré en laboratoire) |
 
-µg (NH4)/ L
+Carbone organique total |
 
-|
+1841 |
 
-NO3-
+Carbone Organique |
 
-|
+6 |
 
-1340
+Sédiments |
 
-|
+32 |
 
-Nitrates
+Particule < 2 mm de sédiments |
 
-|
+160 |
 
-3
+mg/ (kg MS) |
 
-|
+NKJ |
 
-Eau
+1319 |
 
-|
+Azote Kjeldahl |
 
-3
+6 |
 
-|
+Sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-173
+160 |
 
-|
+mg/ (kg MS) |
 
-mg (NO3)/ L
+Phosphore total |
 
-|
+1350 |
 
-NO2-
+Phosphore total |
 
-|
+6 |
 
-1339
+Sédiments |
 
-|
+32 |
 
-Nitrites
+Particule < 2 mm de sédiments |
 
-|
+160 |
 
-3
+mg/ (kg MS) |
 
-|
+Perte au feu |
 
-Eau
+6578 |
 
-|
+Perte au feu à 550° C |
 
-3
+6 |
 
-|
+Sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-583
+245 |
 
-|
+% poids sec |
 
-µg (NO2)/ L
+Granulométrie |
 
-|
+6228 |
 
-PO4 (3-)
+Particule inférieures à 20 µm de sédiments |
 
-|
+6 |
 
-1433
+Sédiments |
 
-|
+32 |
 
-Orthophosphates (PO4)
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-3
+% poids sec |
 
-|
+Granulométrie |
 
-Eau
+3054 |
 
-|
+Particule entre [20,63 [µm de sédiments |
 
-3
+6 |
 
-|
+Sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-379
+246 |
 
-|
+% poids sec |
 
-µg (PO4)/ L
+Granulométrie |
 
-|
+7042 |
 
-COD
+Particule entre [63,150 [µm de sédiments |
 
-|
+6 |
 
-1841
+Sédiments |
 
-|
+32 |
 
-Carbone Organique
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-3
+% poids sec |
 
-|
+Granulométrie |
 
-Eau
+7043 |
 
-|
+Particule entre [150,200 [µm de sédiments |
 
-3
+6 |
 
-|
+Sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-163
+246 |
 
-|
+% poids sec |
 
-mg (C)/ L
+Granulométrie |
 
-|
+7044 |
 
-Silice dissoute
+Particule supérieures ou égales à 200 µm de sédiments |
 
-|
+6 |
 
-1342
+Sédiments |
 
-|
+32 |
 
-Silicates
+Particule < 2 mm de sédiments |
 
-|
+246 |
 
-3
+% poids sec |
 
-|
+Groupe 4 bis (mesuré en laboratoire) |
 
-Eau
+PO4 (3-) |
 
-|
+1433 |
 
-3
+Orthophosphates (PO4) |
 
-|
+6 |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+Sédiments |
 
-|
+5 |
 
-273
+Eau interstitielle sédiments |
 
-|
+379 |
 
-mg (SiO2)/ L
+µg (PO4)/ L |
 
-|
+Phosphore total |
 
-Groupe 3 (mesuré en laboratoire)
+1350 |
 
-|
+Phosphore total |
 
-Chlorures
+6 |
 
-|
+Sédiments |
 
-1337
+5 |
 
-|
+Eau interstitielle sédiments |
 
-Chlorures
+582 |
 
-|
+µg (P)/ L |
 
-3
+NH4 + |
 
-|
+1335 |
 
-Eau
+Ammonium |
 
-|
+6 |
 
-3
+Sédiments |
 
-|
+5 |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+Eau interstitielle sédiments |
 
-|
+378 |
 
-164
+µg (NH4)/ L |
 
-|
+Groupe 5 (mesuré en laboratoire) |
 
-mg (Cl)/ L
+Aluminium |
 
-|
+1370 |
 
-Sulfates
+Aluminium |
 
-|
+6 |
 
-1338
+Sédiments |
 
-|
+32 |
 
-Sulfates
+Particule < 2 mm de sédiments |
 
-|
+160 |
 
-3
+mg/ (kg MS) |
 
-|
+Fer |
 
-Eau
+1393 |
 
-|
+Fer |
 
-3
+6 |
 
-|
+Sédiments |
 
-Phase aqueuse de l'eau (filtrée, centrifugée...)
+32 |
 
-|
+Particule < 2 mm de sédiments |
 
-179
+160 |
 
-|
+mg/ (kg MS) |
 
-mg (SO4)/ L
+Manganèse |
 
-|
+1394 |
 
-Bicarbonates
+Manganèse |
 
-|
+6 |
 
-1327
+Sédiments |
 
-|
+32 |
 
-Hydrogénocarbonates
+Particule < 2 mm de sédiments |
 
-|
+160 |
 
-3
+mg/ (kg MS) |
 
-|
+Abréviations : CSP = Code Sandre Paramètre ; CSS = code Sandre support ; CSF = code Sandre fraction ; CSU = code Sandre unité
 
-Eau
+(*) : paramètres optionnels
 
-|
+(**) : paramètres calculés
 
-3
+(***) : TAC (à privilégier) ou TA
 
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-274
-
-|
-
-mg (HCO3)/ L
-
-|
-
-Calcium
-
-|
-
-1374
-
-|
-
-Calcium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-292
-
-|
-
-mg (Ca)/ L
-
-|
-
-Magnésium
-
-|
-
-1372
-
-|
-
-Magnésium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-320
-
-|
-
-mg (Mg)/ L
-
-|
-
-Sodium
-
-|
-
-1375
-
-|
-
-Sodium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-326
-
-|
-
-mg (Na)/ L
-
-|
-
-Potassium
-
-|
-
-1367
-
-|
-
-Potassium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-316
-
-|
-
-mg (K)/ L
-
-|
-
-Dureté TH**
-
-|
-
-1345
-
-|
-
-Dureté totale
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-28
-
-|
-
-° f
-
-|
-
-TA***
-
-|
-
-1346
-
-|
-
-Titre alcalimétrique (T. A.)
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-28
-
-|
-
-° f
-
-|
-
-TAC***
-
-|
-
-1347
-
-|
-
-Titre alcalimétrique complet (T. A. C.)
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-28
-
-|
-
-° f
-
-|
-
-Aluminium
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-278
-
-|
-
-µg (Al)/ L
-
-|
-
-Fer
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-307
-
-|
-
-µg (Fe)/ L
-
-|
-
-Manganèse
-
-|
-
-1394
-
-|
-
-Manganèse
-
-|
-
-3
-
-|
-
-Eau
-
-|
-
-3
-
-|
-
-Phase aqueuse de l'eau (filtrée, centrifugée...)
-
-|
-
-321
-
-|
-
-µg (Mn)/ L
-
-|
-
-Groupe 4 (mesuré en laboratoire)
-
-|
-
-Carbone organique total
-
-|
-
-1841
-
-|
-
-Carbone Organique
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-NKJ
-
-|
-
-1319
-
-|
-
-Azote Kjeldahl
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Phosphore total
-
-|
-
-1350
-
-|
-
-Phosphore total
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Perte au feu
-
-|
-
-6578
-
-|
-
-Perte au feu à 550° C
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-245
-
-|
-
-% poids sec
-
-|
-
-Granulométrie
-
-|
-
-6228
-
-|
-
-Particule inférieures à 20 µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie
-
-|
-
-3054
-
-|
-
-Particule entre [20,63 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie
-
-|
-
-7042
-
-|
-
-Particule entre [63,150 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie
-
-|
-
-7043
-
-|
-
-Particule entre [150,200 [µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Granulométrie
-
-|
-
-7044
-
-|
-
-Particule supérieures ou égales à 200 µm de sédiments
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-246
-
-|
-
-% poids sec
-
-|
-
-Groupe 4 bis (mesuré en laboratoire)
-
-|
-
-PO4 (3-)
-
-|
-
-1433
-
-|
-
-Orthophosphates (PO4)
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-5
-
-|
-
-Eau interstitielle sédiments
-
-|
-
-379
-
-|
-
-µg (PO4)/ L
-
-|
-
-Phosphore total
-
-|
-
-1350
-
-|
-
-Phosphore total
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-5
-
-|
-
-Eau interstitielle sédiments
-
-|
-
-582
-
-|
-
-µg (P)/ L
-
-|
-
-NH4 +
-
-|
-
-1335
-
-|
-
-Ammonium
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-5
-
-|
-
-Eau interstitielle sédiments
-
-|
-
-378
-
-|
-
-µg (NH4)/ L
-
-|
-
-Groupe 5 (mesuré en laboratoire)
-
-|
-
-Aluminium
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Fer
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Manganèse
-
-|
-
-1394
-
-|
-
-Manganèse
-
-|
-
-6
-
-|
-
-Sédiments
-
-|
-
-32
-
-|
-
-Particule < 2 mm de sédiments
-
-|
-
-160
-
-|
-
-mg/ (kg MS)
-
-|
-
-Abréviations : CSP = Code SANDRE paramètre ; CSS = code SANDRE support ; CSF = code SANDRE fraction ; CSU = code SANDRE unité
-
-* : paramètres optionnels
-
-** : paramètres calculés
-
-*** : TAC (à privilégier) ou TA
-
-**** : Le "code SANDRE unité" indique l'unité dans laquelle doit être exprimée la mesure. Cette unité ne remet pas en cause la limite de quantification du paramètre fixée par avis en application de l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
-
-|
+(****) : Le code Sandre unité indique l'unité dans laquelle doit être exprimée la mesure. Cette unité ne remet pas en cause la limite de quantification du paramètre fixée par avis en application de l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques. |
 
 Définition du groupe 6 : Substances de l'état chimique, polluants spécifiques de l'état écologique et substances pertinentes.
 
@@ -3812,103 +2026,69 @@ Ces paramètres et groupes de paramètres sont mesurés en laboratoire.
 
 Pour les paramètres et groupes de paramètres pour lesquels la matrice pertinente est l'eau, la mesure est réalisée sur eau brute (non filtrée), à l'exception des métaux et métalloïdes et des perchlorates mesurés sur la fraction dissoute, obtenue par filtration de l'eau brute à travers un filtre de porosité 0,45 micromètres ou par tout autre traitement préliminaire équivalent.
 
-Fréquence d'analyse et période de prélèvement :
-
-Fréquence par plan de gestion : 1 fois (ou 2 fois dans les cas prévus au tableau 35 de l'annexe VI) ;
-
-Période de prélèvement : selon les paramètres-modalités de suivi à adapter pour les plans d'eau d'altitude.
-
-Groupes 1,2 et 2 bis : 4 fois par an, mêmes périodes que le phytoplancton.
-
-Groupe 3 : 1 fois par an (fin de période de mélange hivernal).
-
-Groupes 4,4 bis et 5 : 1 fois par an (de préférence, fin d'été).
-
-Groupe 6 : la fréquence de contrôle est indiquée à l'annexe VI du présent arrêté
-
-Dans la mesure du possible, les campagnes pour les paramètres des groupes 1 à 3 seront réalisées au jour (+/-1 ou 2 jours) du passage des satellites dont les dates seront communiquées pour chaque plan d'eau par le Pôle Onema-Irstea Plans d'Eau.
-
-Pour l'application au cuivre, nickel et zinc des modèles de calcul de la fraction dissoute biodisponible de type BLM (Biotic Ligand Model) il est recommandé de réaliser la mesure du pH, du carbone organique dissous et de la concentration en calcium dissous, en même temps que la mesure de la concentration en métal dissous.
-
-Afin de permettre le calcul de la fraction dissoute biodisponible pour le plomb, il est recommandé de réaliser la mesure du carbone organique dissous, en même temps que la mesure de la concentration en plomb dissous.
-
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Conformément au guide relatif à l'application de l'arrêté du 25 janvier 2010 modifié établissant le programme de surveillance de l'état des eaux, pour les eaux douces de surface (cours d'eau, canaux et plans d'eau).
+Pour tous les paramètres, conformément au guide pour la demande de prestation d'échantillonnage et d'analyse physico-chimique dans le cadre de la surveillance DCE publié par le ministère de la Transition écologique et solidaire, dans sa version la plus récente.
 
-Dans l'attente de la publication du guide technique relatif à la mise en œuvre du programme de surveillance, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.
+Dans l'attente de la publication de ce guide, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.
 
 2.3. Eléments hydromorphologiques
 
-Pour chaque élément de qualité sont précisés ci-dessous les paramètres à suivre, les outils et méthodes de description. Pour les plans d'eau il n'est pas nécessaire de distinguer le Contrôle de Surveillance (RCS) du Contrôle Opérationnel (RCO). Deux éléments de qualité sont pris en compte :
+Pour chaque élément de qualité sont précisés ci-dessous les paramètres à suivre, les outils et méthodes de description. Deux éléments de qualité sont pris en compte :
 
 -le régime hydrologique (amplitude et dynamique du marnage, quantité et dynamique des débits entrant et sortant, temps de séjour, connexion avec les eaux souterraines) ;
 
 -les conditions morphologiques (état et structure des rives, variation de la profondeur du lac, état et structure du substrat).
 
-Pour les éléments hydromorphologiques, les fréquences de contrôle sont définies :
+Pour les éléments hydromorphologiques, les fréquences du contrôle de surveillance sont définies à l'annexe VI du présent arrêté.
 
--pour le RCS à l'annexe VI du présent arrêté ;
+2.3.1-Régime hydrologique
 
--pour le CO à l'annexe X du présent arrêté.
+A ce jour, il n'existe pas de méthodes standardisées pour la surveillance des paramètres hydrologiques des plans d'eau. Ces données sont globalement déficitaires, ce qui engendre une surveillance et une évaluation incomplète des paramètres hydromorphologiques. Pour les écosystèmes dotés d'une gestion hydraulique contrôlée, il est a minima nécessaire de rechercher les chroniques disponibles (sur le plan de gestion considéré) auprès des gestionnaires locaux, en particulier pour :
 
-Pour les conditions morphologiques, un système d'analyse intégrant les échelles de fonctionnement hydromorphologique a été élaboré pour les plans d'eau. Ce système permet d'apprécier les pressions et les altérations des conditions morphologiques s'exerçant sur les plans d'eau :
+-le suivi des variations de niveaux d'eau (amplitude et dynamique du marnage) ;
 
--à l'échelle du bassin versant (risque d'apport de sédiments fins par érosion des sols, risque de rupture de la continuité avec les tributaires, occupation des sols, infrastructures, imperméabilisation des sols et modifications des flux liquides ...) ;
+-le suivi des débits entrants et sortants (si dispositif de suivi existant).
 
--à l'échelle du plan d'eau (artificialisation des rives, ripisylve, forme et profondeurs de la cuvette, structure et substrat du lit ...) ;
+Les données disponibles doivent être transmises sous format numérique au pôle R & D AFB-Irstea pour être bancarisées dans la base nationale plans d'eau.
 
--en prenant en compte la structure et l'aménagement des corridors qui l'entourent (urbanisation des corridors, fragmentation de la ripisylve, voies de communication dans les corridors...).
+2.3.2-Conditions morphologiques
 
-L'emboîtement de différents outils permet de produire une expertise des altérations des éléments de qualité hydromorphologique fondée sur des paramètres robustes et homogènes au plan national. En outre, il permet également de replacer les altérations des conditions morphologiques observées au niveau du plan d'eau dans le contexte d'aménagement du bassin versant et d'en analyser les causes probables. Plus qu'une simple description c'est donc un système intégrant les échelles d'organisation des processus hydromorphologiques qui a été construit.
+Les protocoles développés et standardisés, à utiliser pour recueillir les données du contrôle de surveillance concernant les conditions morphologiques des plans d'eau sont listés ci-dessous. Ces méthodes sont applicables aux DOM.
 
-Les conditions morphologiques sont déclinées en trois éléments :
+TiFB (DIR)-ALBER = Protocole de terrain consacré à la caractérisation des altérations des berges des plans d'eau.
 
--la structure de la rive ;
-
--la variation de la profondeur du lac ;
-
--la quantité, la structure et le substrat du lit.
-
-Les descriptions de la structure et des aménagements des corridors, des berges, et des habitats des rives sont assurées par les protocoles ALBER (ALtérations des BERges), et CHARLI (Caractérisation des HAbitats (structure physique du lit) des Rives et du Littoral des plans d'eau).
-
-Les variations de formes et de profondeurs du plan d'eau sont décrites par une méthode standardisée de relevés bathymétriques (BATHYMETRIE).
-
-Les paramètres physiques relevés par ces protocoles permettent de caractériser chaque plan d'eau suivi et de mieux comprendre l'influence de l'hydromorphologie sur les résultats biologiques observés. Ces données seront combinées en différentes métriques hydromorphologiques qui permettront de quantifier le niveau d'altération physique par comparaison à des modèles de référence par type de plan d'eau. Ces indicateurs de qualité hydromorphologiques sont en cours de développement au sein du pôle Onema-Irstea d'Aix-en-Provence.
-
-Les protocoles développés et standardisés, à utiliser pour recueillir les données du contrôle de surveillance et du contrôle opérationnel concernant les conditions morphologiques des plans d'eau sont listés ci-dessous. Ces méthodes sont applicables aux DOM.
-
-Protocoles Terrain par les opérateurs de bassin et les DIR :
-
-ALBER = Protocole de terrain consacré à la caractérisation des ALtérations des BERges des plans d'eau. Les données doivent être fournies sous le format numérique SIG préconisé dans le protocole. Ce protocole est en cours de normalisation AFNOR en 2014.
+Norme française : XP T90-714 dès son entrée en vigueur) : Qualité de l'eau-Qualité des milieux-Caractérisation des altérations des berges de plans d'eau.
 
 Guides de référence :
 
-Alleaume S., Baudoin J.-M., Heyd C., Lanoiselée C. et Argillier C., 2014. Protocole de caractérisation des Altérations des Berges-Alber. Projet de norme. Rapport intermédiaire, 17 p.
+Pôle AFB-IRSTEA, 2017. Protocole de caractérisation des altérations des berges.
 
-Onema-Irstea, 2012. Protocole de caractérisation des Altérations des Berges. Rapport Pôle Onema-Irstea, (version 2012.2)
+-CHARLI = Protocole de terrain consacré à la Caractérisation des habitats des rives et du littoral des plans d'eau.
 
-Alleaume et al., 2010. ALBER : Protocole de caractérisation des ALtérations des BERges, 25 p.
-
-CHARLI = Protocole de terrain consacré à la Caractérisation des HAbitats (structure physique du lit) des Rives et du Littoral des plans d'eau. Ce protocole est en cours de normalisation AFNOR en 2014. Les données doivent être fournies sous le format numérique SIG préconisé dans le protocole.
+Norme française : XP T90-718, août 2016 Qualité de l'eau-Qualité des milieux-Caractérisation des habitats des rives et du littoral des plans d'eau.
 
 Guides de référence :
 
-Alleaume S., Baudoin J.-M., Heyd C., Lanoiselée C. et Argillier C., 2014. Protocole de Caractérisation des HAbitats des Rives et du Littoral-Charli. Projet de norme. Rapport intermédiaire, 22 p.
+Pôle AFB-Irstea, 2017. Protocole de caractérisation des habitats des rives et du littorale des plans d'eau.
 
-Onema-Irstea, 2012. Charli : Protocole de Caractérisation des HAbitats des Rives et du Littoral. Rapport Pôle Onema-Irstea, version 2012.3.
-
-Alleaume et al., 2010. CHARLI : Protocole de Caractérisation des HAbitats des Rives et du Littoral. Rapport du pôle ONEMA/ CEMAGREF, 20 p.
-
-BATHYMETRIE = Protocole de terrain d'analyse bathymétrique de la forme et des variations de profondeur du plan d'eau. Les données doivent être fournies sous format numérique. La bathymétrie constitue une donnée initiale et doit être réactualisée dès lors que l'on se trouve dans des systèmes très évolutifs (facteurs naturels ou anthropiques).
+-BATHYMETRIE = Protocole de terrain d'analyse bathymétrique de la forme et des variations de profondeur du plan d'eau. La bathymétrie constitue une donnée initiale et doit être réactualisée dès lors que l'on se trouve dans des systèmes très évolutifs (facteurs naturels ou anthropiques). Cette caractéristique sera appréciée à dire d'expert par les directions régionales de l'AFB.
 
 Guide de référence :
 
 Alleaume et al., 2010. Bathymétrie des plans d'eau. Protocole d'échantillonnage et descripteurs morphométriques. Rapport du pôle ONEMA/ CEMAGREF, 24 p.
 
+-SEDIMENTS = Protocole de terrain de caractérisation des sédiments des fonds lacustres par hydroacoustique. Ce protocole est expérimental, il pourra en conséquence être consolidé au prochain cycle. Le type et la répartition du substrat des fonds lacustres constituent une donnée qui pourra être initiée puis réactualisée dès lors que l'on se trouve dans des systèmes très évolutifs (facteurs naturels ou anthropiques générant une accélération des dépôts sédimentaires et le vieillissement prématuré des plans d'eau : apports de fines, eutrophisation, etc.). Cette caractéristique sera appréciée à dire d'expert par les directions régionales de l'AFB. Les relevés peuvent être réalisés de manière simultanée avec le protocole de relevé bathymétrique, dès lors que le matériel le permet (système RoxAnn).
+
+Guide de référence :
+
+Mouget et al., 2017. Protocole d'utilisation du système RoxAnn © pour la classification des fonds lacustres. Rapport INRA/ Pôle AFB-Irstea, 49 p.
+
 3. Description des outils, méthodes d'échantillonnage, de traitement et d'analyse des échantillons pour les eaux littorales
 
-3.1. Eléments biologiques
+Les méthodes suivantes sont détaillées dans le guide relatif aux règles d'évaluation de l'état des eaux littorales.
+
+3.1. Éléments biologiques
 
 Les méthodes de mesure, de prélèvement et d'analyse à utiliser pour les contrôles des éléments biologiques sont celles indiquées ci-dessous. Les fréquences de contrôle sont indiquées à l'annexe VI du présent arrêté.
 
@@ -3928,33 +2108,47 @@ Localisation du prélèvement : le prélèvement est effectué en sub-surface (0
 
 Mode de prélèvement et de conservation : eau brute prélevée à d'une bouteille de prélèvement de type Niskin (Daniel, 2009).
 
-Méthode d'analyse
+Indicateurs et paramètres :
 
-Les paramètres mesurés sont la biomasse (chlorophylle a), l'abondance (phytoplancton total) et la composition taxinomique.
+L'indicateur phytoplancton (EQB) est composé de 3 indices :
+
+-IB (indice de biomasse), calculé à partir de la concentration en chlorophylle-a du phytoplancton retenu par un filtre GF/ F de 0.7 µm de maille.
+
+-IA (indice d'abondance), calculé comme un pourcentage de blooms acceptables sur la période de gestion (grilles). Ces blooms sont considérés éligibles si les abondances d'un taxon dépassant des seuils définis pour les fractions micro-et nanophytoplanctoniques selon la masse d'eau et la région étudiée. Ce sont donc, les identifications et dénombrements phytoplanctoniques qui serviront à bâtir l'indice IA. Il est utilisé le microscope optique pour les fractions micro-et nanophytoplanctoniques, si ces dernières sont en colonie, ou par la méthode de cytométrie en flux pour le pico-et nanophytoplancton dans le cas des lagunes et eaux oligotrophes.
+
+-IC (indice de composition). Non défini encore par l'UE ni par les États membres. Il pourrait être calculé à partir des identifications et dénombrements phytoplanctoniques, mais présente l'inconvénient que la fraction picophytoplanctonique et une part du nanophytoplancton échappent à l'identification par microscopie optique. Une alternative a été présentée avec les pigments obtenus par chromatographie liquide (HPLC). Voir Lampert (2017).
+
+Méthodes d'analyse :
+
+Les paramètres mesurés sont la biomasse chlorophyllienne (chlorophylle-a), et l'identification et dénombrement des taxons de la fraction microphytoplanctonique et du nanophytoplancton colonial (flores totales et/ ou indicatrices). Dans le cas des lagunes la cytométrie en flux permettra de dénombres le pico-et nanophytoplancton en quelques groupes fonctionnels.
 
 La concentration en chlorophylle-a peut être déterminée après filtration et extraction à l'aide de 3 techniques :
 
--la méthode spectrophotométrique (Aminot et Kérouel, 2004),
+-la méthode spectrophotométrique (Aminot et Kérouel, 2004) ;
 
--la méthode fluorimétrique (Aminot et Kérouel, 2004)
+-la méthode fluorimétrique (Aminot et Kérouel, 2004) ;
 
--la méthode chromatographique (van Heukelem and Thomas, 2001 ; Wright et al., 1991 ; Zapata et al., 2000)
+-la méthode chromatographique HPLC (van Heukelem and Thomas, 2001 ; Wright et al., 1991 ; Zapata et al., 2000).
 
 Les résultats sont exprimés en microgramme par litre d'eau brute.
 
-Dans l'état d'avancement technologique actuel, les mesures de chlorophylle a obtenues à l'aide de capteurs de fluorescence in vivo sont des mesures semi-quantitatives qui ne peuvent pas être interprétées avec la même grille de lecture que les mesures réalisées au laboratoire avec les méthodes décrites ci-dessus.
+Dans l'état d'avancement technologique actuel, les mesures de chlorophylle-a obtenues à l'aide de capteurs de fluorescence in vivo sont des mesures semi-quantitatives qui ne peuvent pas être interprétées avec la même grille de lecture que les mesures réalisées au laboratoire avec les méthodes décrites ci-dessus.
 
-Par contre, dans la mesure où l'équivalence des résultats a été démontrée, il est possible d'utiliser les images satellites pour l'évaluation de la chlorophylle a en masse d'eau côtière.
+Par contre, dans la mesure où l'équivalence des résultats a été démontrée, il est possible d'utiliser les images satellites pour l'évaluation de la chlorophylle-a en masse d'eau côtière.
 
-L'abondance consiste à compter les cellules de picoplancton et de nanoplancton (Sieburth et al., 1978) par cytométrie de flux. Les résultats sont exprimés en nombre de cellules par litre d'eau brute.
+Abondances phytoplanctoniques :
 
-L'identification et le dénombrement des cellules phytoplanctoniques sont effectués sous microscope inversé selon la méthode d'Uthermöhl (1958). Les procédures sont décrites dans la norme NF EN 15204. L'identification se fait au plus précis, espèce ou genre si possible, sinon à un niveau taxonomique supérieur (famille, voire classe). Les résultats sont exprimés en nombre de cellules par litre d'eau brute.
+L'identification et le dénombrement des cellules des fractions micro-et nanophytoplanctoniques (ces dernières en colonie) [flores totales et/ ou indicatrices] sont effectués sous microscope inversé selon la méthode d'Uthermöhl (1958). Les procédures sont décrites dans la norme NF EN 15204. L'identification se fait au plus précis, espèce ou genre si possible, sinon à un niveau taxonomique supérieur (famille, voire classe). Les résultats sont exprimés en nombre de cellules par litre d'eau brute.
 
-Références :
+Par cytométrie de flux, c'est la méthode décrite par Sieburth et al. (1978) qui devra être utilisée. Les résultats sont exprimés en nombre de cellules par litre d'eau brute.
+
+Références
 
 Aminot A. et Kérouel R. (2004). Hydrologie des écosystèmes marins-Paramètres et analyses. Ed. Ifremer, 336p.
 
-Daniel A. (2009). Techniques de prélèvement hydrologique en milieu marin (HYPERLINK " http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html " http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html)
+Daniel A. (2009). Techniques de prélèvement hydrologique en milieu marin (HYPERLINK http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html)
+
+Lampert, Luis. 2017. Calcul d'un indice de composition phytoplanctonique pigmentaire pour les eaux guyanaises (DCE) , juin. http :// archimer. ifremer. fr/ doc/00389/50040/.
 
 Norme NF EN 15204 (2006). Qualité de l'eau-Norme guide pour le dénombrement du phytoplancton par microscopie inversée (méthode Utermöhl). 39 pages.
 
@@ -3976,11 +2170,11 @@ Protocole d'échantillonnage
 
 Concerne les substrats durs en mésolittoral et limite supérieur de l'infralittoral.
 
-Observations et relevés à partir d'un zodiac, positionné à 3 m du bord ; période d'observation Mai-Juin.
+Observations et relevés à partir d'un zodiac, positionné à 3 m du bord ; période d'observation mai-juin.
 
 Méthode d'analyse
 
-Géomorphologie et présence/ absence et abondance des communautés littorales notées directement sur carte ou photos aériennes sur le linéaire côtier découpé en unités de 50m de long.
+Géomorphologie et présence/ absence et abondance des communautés littorales notées directement sur carte ou photos aériennes sur le linéaire côtier découpé en unités de 50 m de long.
 
 Références
 
@@ -3990,7 +2184,7 @@ Thibaut T., Mannoni PA. 2007. Cartographie des paysages marins : encorbellements
 
 Thibaut T., Mannoni P. A., Markovic L., Geoffroy K., Cottalorda J. M. 2008. Préfiguration du réseau macraolgues-Bassin Rhône Méditerranée Corse-Application de la directive Cadre Eau-Rapport d'état écologique des masses d'eau. Contrat Agence de l'Eau RMC-Unsa : 38 p + Atlas cartographique.
 
-Thibaut T. et L. Markovic (2009). Préfiguration du réseau macroalgues-Bassin Rhône Méditerranée.
+Thibaut T. et L. Markovic (2009). Préfiguration du réseau macroalgues-Bassin Rhône Méditerranée
 
 Corse-Application de la directive Cadre Eau-Rapport d'état écologique des masses d'eau-Ensemble du littoral rocheux continental français de Méditerranée. Contrat Agence de l'Eau Rhône Méditerranée Corse/ Université de Nice-Sophia Antipolis, convention 2009 01 11,31 pages.
 
@@ -4002,13 +2196,13 @@ Thibaut T., L. Markovic et A. Blanfune (2011). Préfiguration du réseau macroal
 
 Protocole d'échantillonnage
 
-Données collectées sur photos aériennes prises lors de 3 survols annuels en mai, juillet et septembre en période de vive-eau (coefficient supérieur à 75) ; appareil de type CESSNA ; attitude du vol entre 1 500 et 4 000 pieds ; survols suivis de contrôle terrain si échouages détectables avec récolte d'algues.
+Données collectées sur photos aériennes prises lors de 3 survols annuels en mai, juillet et septembre en période de vive-eau (coefficient supérieur à 75) ; appareil de type CESSNA ; altitude du vol entre 1500 et 4000 pieds ; survols suivis de contrôle terrain si échouages détectables avec récolte d'algues.
 
 Méthode d'analyse
 
-Intégration et géo-référencement des photos aériennes dans un SIG, digitalisation des dépôts d'algues et estimation visuelle du pourcentage de couverture algale dans ces dépôts ; évaluation des surfaces potentiellement colonisables sur carte IGN (1/ 25000e) et sur photos aériennes ; identification des espèces récoltées sous microscope.
+Intégration et géo-référencement des photos aériennes dans un SIG, digitalisation des dépôts d'algues et estimation visuelle du pourcentage de couverture algale dans ces dépôts ; évaluation des surfaces potentiellement colonisables sur carte IGN (1/ 25000e) et sur photos aériennes ; identification des espèces récoltées sous microscope
 
-Références :
+Références
 
 Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale. Rapport AQUAREF 2013-32 p.
 
@@ -4016,17 +2210,17 @@ Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littor
 
 Protocole d'échantillonnage
 
-Evaluation des surfaces couvertes et identification in situ d'espèces algales caractéristiques et opportunistes sur substrat rocheux de l'estran par coefficients de marée supérieurs à 95 entre mars et juillet ; l'analyse se fait dans 3 × 3 quadrats (n = 9) positionnés de manière aléatoire dans chacune des ceintures identifiées de l'estran (2 ou 6 ceintures suivant les secteurs).
+Evaluation des surfaces couvertes et identification in situ d'espèces algales caractéristiques et opportunistes sur substrat rocheux de l'estran par coefficients de marée supérieurs à 95 entre mars et juillet ; l'analyse se fait dans 3x3 quadrats (n = 9) positionnés de manière aléatoire dans chacune des ceintures identifiées de l'estran (2 ou 6 ceintures suivant les secteurs).
 
 Méthode d'analyse
 
-Déterminations algales à l'œil nu, sur sites (si problème, un échantillon est rapporté au laboratoire pour détermination sous loupe binoculaire) ; les superficies sont réalisées à l'oeil nu ou bien à l'aide d'un GPS et du logiciel ARGIS.
+Déterminations algales à l'œil nu, sur sites (si problème, un échantillon est rapporté au laboratoire pour détermination sous loupe binoculaire) ; les superficies sont réalisées à l'oeil nu ou bien à l'aide d'un GPS et du logiciel ARGIS
 
-Références :
+Références
 
-Miossec L., Soudant D. et Le Stum M.-Consolidation et mise au point de méthodes de bio-indication et transfert aux opérateurs. Contributions Hydrobiologie en milieu marin, Rapport Aquaref, 2012.
+Miossec L., Soudant D. et Le Stum M.-Consolidation et mise au point de méthodes de bio-indication et transfert aux opérateurs. Contributions Hydrobiologie en milieu marin, Rapport Aquaref, 2012
 
-3.1.5. Macro-algues de substrat dur subtidal (eaux côtières-façade Manche Atlantique)
+3.1.5. Macro-algues de substrat dur subtidal (eaux côtières-façade Manche Atlantique
 
 Protocole d'échantillonnage
 
@@ -4036,27 +2230,27 @@ Méthode d'analyse
 
 Les déterminations algales se font à l'œil nu, sur sites (si problème, un échantillon est rapporté au laboratoire pour détermination sous microscope et loupe binoculaire) ; les comptages et mesures à différentes profondeurs (comprenant aussi les mesures des longueurs des stipes de Laminaria hyperborea et la surface moyenne des épibioses) sont également réalisés principalement in situ et ex situ lorsque cette espèce est présente en forte densité. De plus, un échantillonnage de la faune de l'infralittoral supérieur et du circalittoral côtier est réalisé.
 
-Références :
+Références
 
-Derrien-Courtel S. et Le Gal A.-Protocole de surveillance DCE pour l'élément de qualité "Macroalgues subtidales"-second cycle de suivi (DCE-2). Rapport du Museum National d'Histoire Naturelle, station de Biologie Marine de Concarneau, janvier 2014.
+Derrien-Courtel S. et Le Gal A.-Protocole de surveillance DCE pour l'élément de qualité Macroalgues subtidales -second cycle de suivi (DCE-2). Rapport du Museum National d'Histoire Naturelle, station de Biologie Marine de Concarneau, janvier 2014.
 
-Le Gal A. et Derrien-Courtel S. Quality Index of Subtidal Macroalgae (QISubMac), a suitable tool for ecological quality status assessment under the scope of European Water Framework Directive. Submitted to Ecological indicators, 23/02/2015.
+Le Gal A. et Derrien-Courtel S. Quality Index of Subtidal Macroalgae (QISubMac), a suitable tool for ecological quality status assessment under the scope of European Water Framework Directive. Submitted to Ecological indicators, 23/02/2015
 
-Miossec L., Soudant D. et Le Stum M.-Consolidation et mise au point de méthodes de bio-indication et transfert aux opérateurs. Contributions Hydrobiologie en milieu marin, Rapport Aquaref, 2012.
+Miossec L., Soudant D. et Le Stum M.-Consolidation et mise au point de méthodes de bio-indication et transfert aux opérateurs. Contributions Hydrobiologie en milieu marin, Rapport Aquaref, 2012
 
 3.1.6. Angiospermes (eaux côtières-façade Méditerranée)
 
 Protocole d'échantillonnage
 
-Prélèvements et observations réalisées en plongée, de préférence en avril ; relevés de la profondeur de la limite inférieure et de l'état dynamique (échelle qualitative) de l'herbier à cette profondeur ; à 15m, relevé du nombre de faisceaux dans des quadrats (0,16 m ² ; 20 quadrats) et prélèvements de faisceaux (n = 20).
+Prélèvements et observations réalisées en plongée, de préférence en avril ; relevés de la profondeur de la limite inférieure et de l'état dynamique (échelle qualitative) de l'herbier à cette profondeur ; à 15m, relevé du nombre de faisceaux dans des quadrats (0,16 m ² ; 20 quadrats) et prélèvements de faisceaux (n = 20)
 
 Méthode d'analyse
 
 Biométrie des feuilles ; pesées des feuilles et des épibiontes des feuilles (poids sec).
 
-Références :
+Références
 
-Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale-CARLIT, macrophytes en lagunes et posidonies-Rapport AQUAREF 2014-13 p (sous presse).
+Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale-CARLIT, macrophytes en lagunes et posidonies-Rapport AQUAREF 2014,13 pages
 
 Gobert S., S. Sartoretto, V. Rico-Raimondino, B. Andral, A. Chery, P. Lejeune et P. Boissery. 2009. Assessment of the ecologicol status of Mediterranean French coastal waters as required by the Water Framework Directive using the Posidonia oceanica Rapid Easy Index : PREI. Marine Pollution Bulletin, 58,1727-1733.
 
@@ -4086,9 +2280,9 @@ Zostera marina
 
 Si problème d'identification des espèces in situ, détermination au laboratoire sous microscope.
 
-Biométrie des échantillons de zostères prélevés ; étuvage des échantillons pour calcul de biomasse (poids sec et poids de cendre) ; biométrie des macroalgues ; pesée des épiphytes présents sur les feuilles ; évaluation en % du wasting disease.
+Biométrie des échantillons de zostères prélevés ; étuvage des échantillons pour calcul de biomasse (poids sec et poids de cendre) ; biométrie des macroalgues ; pesée des épiphytes présents sur les feuilles ; évaluation en pourcentage du wasting disease.
 
-Références :
+Références
 
 Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale. Rapport AQUAREF 2013-32 p.
 
@@ -4106,9 +2300,9 @@ Méthode d'analyse
 
 Si problème d'identification des espèces in situ, détermination au laboratoire sous microscope ; analyse granulométrique et mesure du taux de matière organique (une fois par plan de gestion).
 
-Références :
+Références
 
-Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale-CARLIT, macrophytes en lagunes et posidonies-Rapport AQUAREF 2014-13 p (nb de pages).
+Laurence Miossec-Guide méthodologique des méthodes DCE en hydrobiologie littorale-CARLIT, macrophytes en lagunes et posidonies-Rapport AQUAREF 2014,13 pages.
 
 Lauret M., J. Oheix, V. Derolez et T. Laugier. (2011). Réseau de suivi lagunaire, 2011. Guide de reconnaissance des lagunes du Languedoc-Roussillon : 148 pages.
 
@@ -4116,19 +2310,19 @@ Lauret M., J. Oheix, V. Derolez et T. Laugier. (2011). Réseau de suivi lagunair
 
 Protocole d'échantillonnage
 
--Façade Manche Atlantique (eaux côtières et de transition)
+-Façade Manche Atlantique (eaux côtières et de transition) :
 
--zone intertidale : échantillonnage à l'aide d'un carottier ou d'un quadrat (surfaces entre 0,03 et 0, 1m2-de 5 à 9 réplicats par station) ; tamisage sur maille de 1mm
+-zone intertidale : échantillonnage à l'aide d'un carottier ou d'un quadrat (surfaces entre 0,03 et 0,1 m ²-de 5 à 9 réplicats par station) ; tamisage sur maille de 1 mm ;
 
--zone subtidale : échantillonnage, à l'aide de bennes Van Veen, Smith-Mc Intyre ou Ekman-Birge (surfaces entre 0,025 et 0, 1m2-de 5 et 10 réplicats par station) ; tamisage sur maille de 1mm
+-zone subtidale : échantillonnage, à l'aide de bennes Van Veen, Smith-Mc Intyre ou Ekman-Birge (surfaces entre 0,025 et 0,1 m ²-de 5 et 10 réplicats par station) ; tamisage sur maille de 1mm.
 
--Façade Méditerranée (eaux côtières)
+-Façade Méditerranée (eaux côtières) :
 
--échantillonnage à l'aide de benne Van Veen (surface de 0,025 m2, 5 réplicats par station) en zone subtidale ; tamisage sur maille de 1mm
+-échantillonnage à l'aide de benne Van Veen (surface de 0,025 m ², 5 réplicats par station) en zone subtidale ; tamisage sur maille de 1mm.
 
--Façade Méditerranée (eaux de transition)
+-Façade Méditerranée (eaux de transition) :
 
--prélèvements réalisés à l'aide d'une benne Eckmann-Birge (surface de 0,0225 m ² ; 3 sous-stations par station et 4 réplicats par sous-stations), tamisage sur maille de 1 mm ; prélèvements de sédiments par carottages (n = 3 par station) et mesure du potentiel d'oxydo-réduction avec un eH-mètre Poncelle
+-prélèvements réalisés à l'aide d'une benne Eckmann-Birge (surface de 0,0225 m ² ; 3 sous-stations par station et 4 réplicats par sous-stations), tamisage sur maille de 1 mm ; prélèvements de sédiments par carottages (n = 3 par station) et mesure du potentiel d'oxydo-réduction avec un pH-mètre Poncelle.
 
 Méthode d'analyse
 
@@ -4136,27 +2330,27 @@ Détermination de la faune benthique sous loupe binoculaire, dénombrement et pe
 
 Analyse granulométrique et teneur en matière organique pour les sédiments.
 
-Références :
+Références
 
-Norme NF EN ISO 16665 (Lignes directrices pour l'échantillonnage quantitatif et le traitement d'échantillons de la macrofaune marine des fonds meubles)
+Norme NF EN ISO 16665 (lignes directrices pour l'échantillonnage quantitatif et le traitement d'échantillons de la macrofaune marine des fonds meubles).
 
 3.1.10. Invertébrés benthiques de substrat meuble (La Réunion)
 
 Protocole d'échantillonnage
 
--Echantillonnage à la benne Van Veen ou Smith McIntyre (surface de 0,1 m², 5 réplicats par station pour l'analyse faunistique et 1 pour l'analyse du sédiment), entre 25 et 70 m de profondeur pour le contrôle de surveillance ; tamisage sur maille de 1mm
+-Echantillonnage à la benne Van Veen ou Smith McIntyre (surface de 0,1 m ², 5 réplicats par station pour l'analyse faunistique et 1 pour l'analyse du sédiment), entre 25 et 70 m de profondeur pour le contrôle de surveillance ; tamisage sur maille de 1mm
 
 Méthode d'analyse
 
-Détermination au niveau spécifique ou supra et dénombrement de la faune benthique sous loupe binoculaire ; le paramètre mesuré est l'abondance par taxon.
+Détermination au niveau spécifique ou supra et dénombrement de la faune benthique sous loupe binoculaire ; le paramètre mesuré est, l'abondance par taxon.
 
 Analyse granulométrique et teneur en matière organique pour les sédiments.
 
-Références :
+Références
 
 Norme NF EN ISO 16665 (Lignes directrices pour l'échantillonnage quantitatif et le traitement d'échantillons de la macrofaune marine des fonds meubles)
 
-Ropert Michel, Bigot Lionel, Frouin Patrick, Maurel Laurence, Scolan Pierre, Duval Magali, Le Goff Ronan, Talec Pascal, Turquet Jean, Vermenot Coralie (2012). Fascicule technique pour la mise en œuvre du réseau de contrôle de surveillance DCE " Benthos de Substrats Meubles " à La Réunion. http :// archimer. ifremer. fr/ doc/00168/27913/
+Ropert Michel, Bigot Lionel, Frouin Patrick, Maurel Laurence, Scolan Pierre, Duval Magali, Le Goff Ronan, Talec Pascal, Turquet Jean, Vermenot Coralie (2012). Fascicule technique pour la mise en oeuvre du réseau de contrôle de surveillance DCE Benthos de Substrats Meubles à La Réunion. http :// archimer. ifremer. fr/ doc/00168/27913/
 
 3.1.11. Benthos récifal-pente externe (La Réunion)
 
@@ -4168,17 +2362,31 @@ NB : Actuellement, seul le Line Intercept Transect est nécessaire pour le calcu
 
 Méthode d'analyse
 
-Les paramètres relevés en plongée et synthétisés au bureau sont pour les coraux dur : le recouvrement en corail vivant, le recouvrement en acropores branchus et tabulaires ; pour les algues : le recouvrement en algues dressées et le recouvrement en algues calcaires ; pour les alcyonaires : le recouvrement.
+Les paramètres relevés en plongée et synthétisés au bureau sont pour les coraux dur : le recouvrement en corail vivant, le recouvrement en acropores branchus et tabulaires ; pour les algues le recouvrement en algues dressées et le recouvrement en algues calcaires ; pour les alcyonaires : le recouvrement.
 
 NB : la liste complète des paramètres à relever pour faire évoluer l'indicateur sont pour les coraux : le recouvrement, les groupes fonctionnels, les taxons, les maladies et nécroses, le recrutement ; pour les algues : le recouvrement et les groupes fonctionnels ; pour les invertébrés : l'abondance.
 
-Références :
+Références
 
-Ropert Michel, Bigot Lionel, Chabanet Pascale, Cuet Pascale, Nicet Jean-Benoit, Maurel Laurence, Scolan Pierre, Cambert Harold, Cauvin Bruce, Duval Magali, Le Goff Ronan, Pothin Karine, Mouquet Pascal, Quod Jean-Pascal, Talec Pascal, Turquet Jean, Vermenot Coralie, Zubia Mayalen (2012). Fascicule technique pour la mise en œuvre du réseau de contrôle de surveillance DCE " Benthos de Substrats Durs " à La Réunion. http://archimer.ifremer.fr/doc/00167/27806/
+Ropert Michel, Bigot Lionel, Chabanet Pascale, Cuet Pascale, Nicet Jean-Benoit, Maurel Laurence, Scolan Pierre, Cambert Harold, Cauvin Bruce, Duval Magali, Le Goff Ronan, Pothin Karine, Mouquet Pascal, Quod Jean-Pascal, Talec Pascal, Turquet Jean, Vermenot Coralie, Zubia Mayalen (2012). Fascicule technique pour la mise en œuvre du réseau de contrôle de surveillance DCE Benthos de Substrats Durs à La Réunion. http :// archimer. ifremer. fr/ doc/00167/27806/
 
 Hill J. et Wilkinson C., 2004. Methods for Ecological Monitoring of Coral Reefs. Version 1. Livre 123p.
 
-3.1.12. Poissons (eaux de transition-façade Manche Atlantique)
+3.1.12. Benthos Récifal (Antilles)
+
+Protocole d'échantillonnage
+
+Echantillonnage en plongée sur 6 transects pérennes de 10 m avec relevés de type point intercept (PIT). Identification de la nature du substrat et les taxons présents en un point sous le transect tous les 20 cm.
+
+Méthode d'analyse
+
+Echantillonnage de la composition et de l'abondance relative des peuplements coralliens et des autres organismes benthiques susceptibles d'être en compétition avec les coraux (algues et invertébrés sessiles). Reconnaissance au niveau du genre pour les macroalgues et les coraux. Les résultats permettent de calculer les indices corail et macroalgues . L'indice corail est le rapport couverture corallienne vivante/ substrat colonisable par les coraux .
+
+Références
+
+Bouchon, C., Bouchon-Navaro, Y., Louis, M., 2004. Critère d'évaluation de la dégradation des communautés coralliennes dans la région Caraïbe. Revue d'Ecologie (la Terre et la Vie), 59 (1-2) : 113-121.
+
+Impact Mer, Pareto, Equilibre, 2010. Directive Cadre sur l'eau : Suivi des stations des réseaux de référence et de surveillance des Masses d'Eau côtières et de Transition au titre de l'année 2009.-Volet Biologie. Rapport de synthèse : Réseau de surveillance. Rapport pour : DIREN Martinique, 166 (annexes inclues) pp. 3.1.13. Poissons (eaux de transition-façade Manche Atlantique).
 
 Protocole d'échantillonnage
 
@@ -4208,7 +2416,7 @@ Les captures de chaque trait de chalut sont traitées autant que possible à bor
 
 -Le poids total par espèce et par trait est noté. Pour les individus de plus de 50 g, le poids individuel est aussi relevé. En cas de traitement au laboratoire les poids individuels inférieurs à 50 g sont aussi notés.
 
-Références :
+Références
 
 Lepage M, Girardin M., Bouju V., 2009. Inventaire Poisson dans les eaux de transition. Protocole d'échantillonnage pour les Districts de la façade Atlantique et Manche. Version 3 du 06/04/2009. CEMAGREF, 29 p.
 
@@ -4222,19 +2430,19 @@ Les méthodes de mesure, de prélèvement et d'analyse à utiliser pour les cont
 
 Protocole d'échantillonnage
 
-Les mesures de température, salinité, turbidité et oxygène dissous sont effectuées en sub-surface (0-1 m) de préférence in situ. Les mesures d'oxygène dissous effectuées au fond de la colonne d'eau sont obligatoirement associées à des mesures de température et de salinité. Lorsque le matériel le permet, il est souhaitable d'effectuer un profil de ces trois paramètres sur l'ensemble de la colonne d'eau.
+Les paramètres mesurés, de préférence in situ, en sub-surface (0-1 m) sont la température, la salinité, la turbidité. Les paramètres mesurés au fond de la colonne d'eau sont l'oxygène, la température et la salinité. Lorsque le matériel le permet, il est souhaitable d'effectuer un profil de ces trois paramètres sur l'ensemble de la colonne d'eau.
 
 Méthode d'analyse
 
 Les mesures de température, salinité, turbidité et de l'oxygène sont effectuées in situ à l'aide de sondes (Daniel, 2009). Les mesures de salinité et de turbidité peuvent être toutefois effectuées sur échantillon au laboratoire dans des délais acceptables (Aminot et Kérouel, 2004).
 
-Les sondes doivent faire l'objet d'opérations rigoureuses de métrologie (contrôle, vérification, étalonnage). Les capteurs de turbidité doivent être conformes aux spécifications de la norme NF EN ISO 7027.
+Les sondes doivent faire l'objet d'opérations rigoureuses de métrologie (contrôle, vérification, étalonnage). Les capteurs de turbidité doivent être conformes aux spécifications de la norme NF EN ISO 7027-1.
 
-Références :
+Références
 
-Aminot A. et Kérouel R., 2004. Hydrologie des écosystèmes marins-Paramètres et analyses. Ed. Ifremer, 336 p.
+Aminot A. et Kérouel R., 2004. Hydrologie des écosystèmes marins-Paramètres et analyses. Ed. Ifremer, 336p.
 
-Daniel A. (2009). Techniques de prélèvement hydrologique en milieu marin ( http://envlit.ifremer.fr/var/envlit/storage/documents/dossiers/prelevementhydro/presentation.html)
+Daniel A. (2009). Techniques de prélèvement hydrologique en milieu marin (http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html)
 
 3.2.2. Nutriments
 
@@ -4254,19 +2462,19 @@ Mode de prélèvement et de conservation : eau brute prélevée à l'aide d'une 
 
 Méthode d'analyse
 
-Les nutriments inorganiques dissous (ammonium, nitrate, nitrite, orthophosphate, orthosilicate) et les nutriments dissous totaux (azote total dissous et phosphore total dissous) sont dosés de préférence en flux continu selon les méthodes décrites par Aminot et Kérouel (2007) ou de façon "manuelle" selon les méthodes décrites par Aminot et Kérouel (2004). Ces méthodes ont fait l'objet de fiches méthodes AQUAREF (http :// www. aquaref. fr).
+Les nutriments inorganiques dissous (ammonium, nitrate, nitrite, orthophosphate, orthosilicate) et les nutriments dissous totaux (azote total dissous et phosphore total dissous) sont dosés de préférence en flux continu selon les méthodes décrites par Aminot et Kérouel (2007) ou de façon manuelle selon les méthodes décrites par Aminot et Kérouel (2004). Ces méthodes ont fait l'objet de fiches méthodes AQUAREF (http :// www. aquaref. fr).
 
-Références :
+Références
 
-Aminot A. et Kérouel R. (2004). Hydrologie des écosystèmes marins-Paramètres et analyses. Ed. Ifremer, 336 p.
+Aminot A. et Kérouel R. (2004). Hydrologie des écosystèmes marins-Paramètres et analyses. Ed. Ifremer, 336p.
 
 Aminot A. et Kérouel R. (2007). Dosage automatique des nutriments dans les eaux marines : méthodes en flux continu. Ed. Ifremer, 188 p.
 
 Daniel A. (2009). Techniques de prélèvement hydrologique en milieu marin.
 
-( http://envlit.ifremer.fr/var/envlit/storage/documents/dossiers/prelevementhydro/presentation.html)
+(http :// envlit. ifremer. fr/ var/ envlit/ storage/ documents/ dossiers/ prelevementhydro/ presentation. html)
 
-3.2.3. Micropolluants
+3.2.3 Micropolluants
 
 Ces paramètres et groupes de paramètres sont mesurés en laboratoire.
 
@@ -4276,6 +2484,6 @@ Pour les paramètres et groupes de paramètres pour lesquels la matrice pertinen
 
 Méthode ou principes d'échantillonnage, de traitement et d'analyse des échantillons :
 
-Conformément au guide relatif à la mise en œuvre du programme de surveillance.
+Conformément au guide pour la demande de prestation d'échantillonnage et d'analyse physico-chimique dans le cadre de la surveillance DCE publié par le ministère de la Transition écologique et solidaire, dans sa version la plus récente.
 
-Dans l'attente de la publication du guide technique relatif à la mise en œuvre du programme de surveillance, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.
+Dans l'attente de la publication de ce guide, la réalisation des mesures (échantillonnage, traitement des échantillons, transport et analyse) s'appuiera, dans la mesure du possible, sur le guide des recommandations techniques d'Aquaref dans sa version la plus récente.

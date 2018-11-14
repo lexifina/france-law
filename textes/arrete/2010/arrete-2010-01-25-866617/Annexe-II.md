@@ -4,2117 +4,1511 @@ SUBSTANCES DE L'ÉTAT CHIMIQUE DES EAUX DE SURFACE
 
 ET POLLUANTS SPÉCIFIQUES DE L'ÉTAT ÉCOLOGIQUE DES EAUX DE SURFACE
 
-Tableau 16. - Substances de l'état chimique des eaux de surface
+Le tableau 23 récapitule les codes Sandre et les numéros CAS des substances de l'état chimique devant être surveillées dans les eaux de surface.
 
-Remarque : le tableau ci-dessous récapitule les codes SANDRE et les numéros CAS des substances de l'état chimique devant être surveillées dans les eaux de surface.
+Certaines substances font l'objet d'un double suivi sur la matrice biote et sur la matrice eau, en vue respectivement de la mesure d'une concentration moyenne annuelle et d'une concentration maximale annuelle.
 
-N°
+Pour le DEHP, les chloroalcanes et le pentachlorobenzène, la directive 2013/39/UE préconise un suivi sur eau sur l'ensemble du réseau de contrôle de surveillance. Il est préconisé de suivre ces substances sur biote lorsque cela est possible, compte tenu de leurs propriétés physico-chimiques, de leur potentiel de bioaccumulation et de l'existence d'une norme de qualité environnementale dans le biote. A défaut, le suivi pourra être réalisé sur la matrice eau.
 
-|
-
-CODE SANDRE
-
-|
-
-PARAMÈTRE
-
-|
-
-NUMÉRO CAS (1)
-
-|
-
-1
-
-|
-
-1101
-
-|
-
-Alachlore
-
-|
-
-15972-60-8
-
-|
-
-2
-
-|
-
-1458
-
-|
-
-Anthracène
-
-|
-
-120-12-7
-
-|
-
-3
-
-|
-
-1107
-
-|
-
-Atrazine
-
-|
-
-1912-24-9
-
-|
-
-4
-
-|
-
-1114
-
-|
-
-Benzène
-
-|
-
-71-43-2
-
-|
-
-5
-
-|
-
-|
-
-Diphényléthers bromés
-
-|
-
-|
-
-2915
-
-|
-
-BDE100
-
-|
-
-189084-64-8
-
-|
-
-2912
-
-|
-
-BDE153
-
-|
-
-68631-49-2
-
-|
-
-2911
-
-|
-
-BDE154
-
-|
-
-207122-15-4
-
-|
-
-2920
-
-|
-
-BDE28
-
-|
-
-41318-75-6
-
-|
-
-2919
-
-|
-
-BDE47
-
-|
-
-5436-43-1
-
-|
-
-2916
-
-|
-
-BDE99
-
-|
-
-60348-60-9
-
-|
-
-6
-
-|
-
-1388
-
-|
-
-Cadmium et ses composés
-
-|
-
-7440-43-9
-
-|
-
-6 bis
-
-|
-
-1276
-
-|
-
-Tétrachlorure de carbone
-
-|
-
-56-23-5
-
-|
-
-7
-
-|
-
-1955
-
-|
-
-Chloroalcanes C10-C13
-
-|
-
-85535-84-8
-
-|
-
-8
-
-|
-
-1464
-
-|
-
-Chlorfenvinphos
-
-|
-
-470-90-6
-
-|
-
-9
-
-|
-
-1083
-
-|
-
-Chlorpyrifos (éthylchlorpyrifos)
-
-|
-
-2921-88-2
-
-|
-
-9 bis
-
-|
-
-|
-
-Pesticides cyclodiènes
-
-|
-
-|
-
-1103
-
-|
-
-Aldrine
-
-|
-
-309-00-2
-
-|
-
-1173
-
-|
+Pour les bassins métropolitains, la mise en œuvre du suivi dans la matrice biote est détaillée dans la note technique du 26 décembre 2017 relative au suivi des substances de l'état chimique des eaux de surface dans le biote.
 
-Dieldrine
-
-|
-
-60-57-1
-
-|
-
-1181
-
-|
-
-Endrine
-
-|
-
-72-20-8
-
-|
-
-1207
-
-|
-
-Isodrine
-
-|
-
-465-73-6
-
-|
-
-9 ter
-
-|
-
-|
-
-DDT total et para-para-DDT
-
-|
-
-sans objet
-
-|
-
-1144
-
-|
-
-DDD 44'
-
-|
-
-72-54-8
-
-|
-
-1146
-
-|
-
-DDE 44'
-
-|
-
-72-55-9
-
-|
-
-1147
-
-|
-
-DDT 24'
-
-|
-
-789-02-6
-
-|
-
-1148
-
-|
-
-DDT 44'
-
-|
-
-50-29-3
-
-|
-
-10
-
-|
-
-1161
-
-|
-
-1,2-dichloroéthane
-
-|
-
-107-06-2
-
-|
-
-11
-
-|
-
-1168
-
-|
-
-Dichlorométhane
-
-|
-
-75-09-2
-
-|
-
-12
-
-|
-
-6616
-
-|
-
-Di (2-ethylhexyle)-phthalate (DEHP)
-
-|
-
-117-81-7
-
-|
-
-13
-
-|
-
-1177
-
-|
-
-Diuron
-
-|
-
-330-54-1
-
-|
-
-14
-
-|
-
-|
-
-Endosulfan
-
-|
-
-|
-
-1178
-
-|
-
-Endosulfan alpha
-
-|
-
-959-98-8
-
-|
-
-1179
-
-|
-
-Endosulfan bêta
-
-|
-
-33213-65-9
-
-|
-
-15
-
-|
-
-1191
-
-|
-
-Fluoranthène
-
-|
-
-206-44-0
-
-|
-
-16
-
-|
-
-1199
-
-|
-
-Hexachlorobenzène
-
-|
-
-118-74-1
-
-|
-
-17
-
-|
-
-1652
-
-|
-
-Hexachlorobutadiène
-
-|
-
-87-68-3
-
-|
-
-18
-
-|
-
-|
-
-Hexachlorocyclohexane
-
-|
-
-|
-
-1200
-
-|
-
-Hexachlorocyclohexane alpha
-
-|
-
-319-84-6
-
-|
-
-1201
-
-|
+Pour les bassins ultramarins, la mise en œuvre du suivi dans la matrice biote sera précisée dans une note technique dédiée. Dans l'attente de la parution de ces éléments, le suivi sur biote n'est pas imposé en outremer.
 
-Hexachlorocyclohexane bêta
+Le suivi sur sédiments est destiné à l'évaluation des tendances (cf. annexe VI, paragraphe 8).
 
-|
+Tableau 23 : substances de l'état chimique des eaux de surface
 
-319-85-7
+N° |
 
-|
+Code Sandre |
 
-1202
+Paramètre |
 
-|
+Numéro CAS (1) |
 
-Hexachlorocyclohexane delta
+Matrice |
 
-|
+Eau |
 
-319-86-8
+Biote |
 
-|
+Sédiments |
 
-1203
+1 |
 
-|
+1101 |
 
-Hexachlorocyclohexane gamma
+Alachlore |
 
-|
+15972-60-8 |
 
-58-89-9
+X |
 
 |
-
-19
 
 |
 
-1208
+2 |
 
-|
+1458 |
 
-Isoproturon
+Anthracène |
 
-|
+120-12-7 |
 
-34123-59-6
+X |
 
 |
 
-20
+X |
 
-|
+3 |
 
-1382
+1107 |
 
-|
+Atrazine |
 
-Plomb et ses composés
+1912-24-9 |
 
-|
+X |
 
-7439-92-1
+|
 
 |
 
-21
+4 |
 
-|
+1114 |
 
-1387
+Benzène |
 
-|
+71-43-2 |
 
-Mercure et ses composés
+X |
 
 |
 
-7439-97-6
-
 |
 
-22
+5 |
 
 |
 
-1517
+Diphényléthers bromés |
 
 |
 
-Naphtalène
+X |
 
-|
+X |
 
-91-20-3
+X |
 
-|
+2915 |
 
-23
+BDE100 |
 
-|
+189084-64-8 |
 
-1386
+X |
 
-|
+X |
 
-Nickel et ses composés
+X |
 
-|
+2912 |
 
-7440-02-0
+BDE153 |
 
-|
+68631-49-2 |
 
-24
+X |
 
-|
+X |
 
-1958
+X |
 
-|
+2911 |
 
-Nonylphénols (4-nonylphénol)
+BDE154 |
 
-|
+207122-15-4 |
 
-84852-15-3
+X |
 
-|
+X |
 
-25
+X |
 
-|
+2920 |
 
-1959
+BDE28 |
 
-|
+41318-75-6 |
 
-Octylphénols (4-1,1', 3,3'-tétraméthylbutylphénol)
+X |
 
-|
+X |
 
-140-66-9
+X |
 
-|
+2919 |
 
-26
+BDE47 |
 
-|
+5436-43-1 |
 
-1888
+X |
 
-|
+X |
 
-Pentachlorobenzène
+X |
 
-|
+2916 |
 
-608-93-5
+BDE99 |
 
-|
+60348-60-9 |
 
-27
+X |
 
-|
+X |
 
-1235
+X |
 
-|
+6 |
 
-Pentachlorophénol
+1388 |
 
-|
+Cadmium et ses composés |
 
-87-86-5
+7440-43-9 |
 
+X |
+
 |
 
-28
+X |
 
-|
+6 bis |
 
-|
+1276 |
 
-Hydrocarbures aromatiques polycycliques (HAP)
+Tétrachlorure de carbone |
 
-|
+56-23-5 |
 
-sans objet
+X |
 
 |
 
-1115
-
 |
 
-Benzo (a) pyrène
+7 |
 
-|
+1955 |
 
-50-32-8
+Chloroalcanes C10-C13 |
 
-|
+85535-84-8 |
 
-29
+X |
 
-|
+X |
 
-1263
+X |
 
-|
+8 |
 
-Simazine
+1464 |
 
-|
+Chlorfenvinphos |
 
-122-34-9
+470-90-6 |
 
-|
+X |
 
-29 bis
+|
 
 |
 
-1272
+9 |
 
-|
+1083 |
 
-Tétrachloroéthylène
+Chlorpyrifos (éthylchlorpyrifos) |
 
-|
+2921-88-2 |
 
-127-18-4
+X |
 
 |
 
-29 ter
-
 |
 
-1286
+9 bis |
 
 |
 
-Trichloroéthylène
+Pesticides cyclodiènes |
 
 |
 
-79-01-6
+X |
 
 |
-
-30
 
 |
 
-2879
+1103 |
 
-|
+Aldrine |
 
-Composés du tributylétain (Tributylétain cation)
+309-00-2 |
 
-|
+X |
 
-36643-28-4
+|
 
 |
 
-31
+1173 |
 
-|
+Dieldrine |
 
-|
+60-57-1 |
 
-Trichlorobenzène
+X |
 
 |
 
 |
-
-1630
 
-|
+1181 |
 
-Trichlorobenzène-1,2,3
+Endrine |
 
-|
+72-20-8 |
 
-87-61-6
+X |
 
 |
 
-1283
-
 |
 
-Trichlorobenzène-1,2,4
+1207 |
 
-|
+Isodrine |
 
-120-82-1
+465-73-6 |
 
-|
+X |
 
-1629
+|
 
 |
 
-Trichlorobenzène-1,3,5
+9 ter |
 
 |
 
-108-70-3
+DDT total et para-para-DDT |
 
-|
+sans objet |
 
-32
+X |
 
 |
-
-1135
 
 |
 
-Trichlorométhane
+1144 |
 
-|
+DDD 44' |
 
-67-66-3
+72-54-8 |
 
-|
+X |
 
-33
+|
 
 |
 
-1289
+1146 |
 
-|
+DDE 44' |
 
-Trifluraline
+72-55-9 |
 
-|
+X |
 
-1582-09-8
+|
 
 |
 
-34
+1147 |
 
-|
+DDT 24' |
 
-1172
+789-02-6 |
 
-|
+X |
 
-Dicofol
+|
 
 |
 
-115-32-2
+1148 |
 
-|
+DDT 44' |
 
-35
+50-29-3 |
 
-|
+X |
 
-6561
+|
 
 |
 
-Acide perfluorooctanesulfonique et ses dérivés (perfluorooctanesulfonate PFOS)
+10 |
 
-|
+1161 |
 
-1763-23-1
+1,2-dichloroéthane |
 
-|
+107-06-2 |
 
-36
+X |
 
 |
 
-2028
-
 |
 
-Quinoxyfène
+11 |
 
-|
+1168 |
 
-124495-18-7
+Dichlorométhane |
 
-|
+75-09-2 |
 
-37
+X |
 
 |
 
 |
 
-Dioxines et composés de type dioxine
+12 |
 
-|
+6616 |
 
-|
+Di(2-ethylhexyle)-phthalate (DEHP) |
 
-2566
+117-81-7 |
 
-|
+X |
 
-1,2,3,4,6,7,8,9-Octachlorodibenzodioxine
+X |
 
-|
+X |
 
-3268-87-9
+13 |
 
-|
+1177 |
 
-2575
+Diuron |
 
-|
+330-54-1 |
 
-1,2,3,4,6,7,8-Heptachlorodibenzodioxine
+X |
 
 |
-
-35822-46-9
 
 |
 
-2596
+14 |
 
 |
 
-1,2,3,4,6,7,8-Heptachlorodibenzofurane
+Endosulfan |
 
 |
 
-67562-39-4
+X |
 
 |
 
-2597
-
 |
-
-1,2,3,4,7,8,9-Heptachlorodibenzofurane
 
-|
+1178 |
 
-55673-89-7
+Endosulfan alpha |
 
-|
+959-98-8 |
 
-2571
+X |
 
 |
 
-1,2,3,4,7,8-hexachlorodibenzo [b, e] [1,4] dioxine
-
 |
-
-39227-28-6
 
-|
+1179 |
 
-2591
+Endosulfan bêta |
 
-|
+33213-65-9 |
 
-1,2,3,4,7,8-hexachlorodibenzofurane
+X |
 
 |
 
-70648-26-9
-
 |
-
-2592
 
-|
+15* |
 
-1,2,3,6,7,8-Hexachlorodibenzofurane
+1191 |
 
-|
+Fluoranthène |
 
-57117-44-9
+206-44-0 |
 
-|
+X |
 
-2572
+X |
 
-|
+X |
 
-1,2,3,6,7,8-Hexachlorodibenzo-p-dioxine
+16 |
 
-|
+1199 |
 
-57653-85-7
+Hexachlorobenzène |
 
-|
+118-74-1 |
 
-2594
+X |
 
-|
+X |
 
-1,2,3,7,8,9-Hexachlorodibenzofurane
+X |
 
-|
+17 |
 
-72918-21-9
+1652 |
 
-|
+Hexachlorobutadiène |
 
-2573
+87-68-3 |
 
-|
+X |
 
-1,2,3,7,8,9-Hexachlorodibenzo-p-dioxine
+X |
 
-|
+X |
 
-19408-74-3
+18 |
 
 |
 
-2588
+Hexachlorocyclohexane |
 
 |
 
-1,2,3,7,8-Pentachlorodibenzofurane
+X |
 
 |
 
-57117-41-6
+X |
 
-|
+1200 |
 
-2569
+Hexachlorocyclohexane alpha |
 
-|
+319-84-6 |
 
-1,2,3,7,8-Pentachlorodibenzo-p-dioxine
+X |
 
 |
 
-40321-76-4
+X |
 
-|
+1201 |
 
-2593
+Hexachlorocyclohexane bêta |
 
-|
+319-85-7 |
 
-2,3,4,6,7,8-Hexachlorodibenzofurane
+X |
 
 |
 
-60851-34-5
+X |
 
-|
+1202 |
 
-2589
+Hexachlorocyclohexane delta |
 
-|
+319-86-8 |
 
-2,3,4,7,8-Pentachlorodibenzofurane
+X |
 
 |
 
-57117-31-4
+X |
 
-|
+1203 |
 
-2586
+Hexachlorocyclohexane gamma |
 
-|
+58-89-9 |
 
-2,3,7,8-Tetrachlorodibenzofurane
+X |
 
 |
-
-51207-31-9
 
-|
+X |
 
-2562
+19 |
 
-|
+1208 |
 
-2,3,7,8-Tetrachlorodibenzo-p-Dioxine
+Isoproturon |
 
-|
+34123-59-6 |
 
-1746-01-6
+X |
 
 |
-
-5248
 
 |
 
-Octachlorodibenzofuranne
+20 |
 
-|
+1382 |
 
-39001-02-0
+Plomb et ses composés |
 
-|
+7439-92-1 |
 
-1627
+X |
 
 |
 
-PCB 105
+X |
 
-|
+21 |
 
-32598-14-4
+1387 |
 
-|
+Mercure et ses composés |
 
-5433
+7439-97-6 |
 
-|
+X |
 
-PCB 114
+X |
 
-|
+X |
 
-74472-37-0
+22 |
 
-|
+1517 |
 
-1243
+Naphtalène |
 
-|
+91-20-3 |
 
-PCB 118
+X |
 
 |
 
-31508-00-6
-
 |
 
-1089
+23 |
 
-|
+1386 |
 
-PCB 126
+Nickel et ses composés |
 
-|
+7440-02-0 |
 
-57465-28-8
+X |
 
 |
-
-2032
 
 |
 
-PCB 156
+24 |
 
-|
+1958 |
 
-38380-08-4
+Nonylphénols (4-nonylphénol) |
 
-|
+84852-15-3 |
 
-5435
+X |
 
 |
 
-PCB 157
-
 |
 
-69782-90-7
+25 |
 
-|
+1959 |
 
-5436
+Octylphénols (4-1,1',3,3'-tétraméthylbutylphénol) |
 
-|
+140-66-9 |
 
-PCB 167
+X |
 
 |
-
-52663-72-6
 
 |
 
-1090
+26 |
 
-|
+1888 |
 
-PCB 169
+Pentachlorobenzène |
 
-|
+608-93-5 |
 
-32774-16-6
+X |
 
-|
+X |
 
-1091
+X |
 
-|
+27 |
 
-PCB 77
+1235 |
 
-|
+Pentachlorophénol |
 
-32598-13-3
+87-86-5 |
 
-|
+X |
 
-5432
+|
 
 |
 
-PCB 81
+28 (*) |
 
 |
 
-70362-50-4
+Hydrocarbures aromatiques polycycliques (HAP) |
 
-|
+sans objet |
 
-5434
+X |
 
-|
+X |
 
-PCB123
+X |
 
-|
+1115 |
 
-65510-44-3
+Benzo(a)pyrène |
 
-|
+50-32-8 |
 
-5437
+X |
 
-|
+X |
 
-PCB189
+X |
 
-|
+29 |
 
-39635-31-9
+1263 |
 
-|
+Simazine |
 
-38
+122-34-9 |
 
-|
+X |
 
-1688
+|
 
 |
 
-Aclonifène
+29 bis |
 
-|
+1272 |
 
-74070-46-5
+Tétrachloroéthylène |
 
-|
+127-18-4 |
 
-39
+X |
 
 |
 
-1119
-
 |
 
-Bifénox
+29 ter |
 
-|
+1286 |
 
-42576-02-3
+Trichloroéthylène |
 
-|
+79-01-6 |
 
-40
+X |
 
 |
-
-1935
 
 |
 
-Cybutryne
+30 |
 
-|
+2879 |
 
-28159-98-0
+Composés du tributylétain (Tributylétain cation) |
 
-|
+36643-28-4 |
 
-41
+X |
 
 |
 
-1140
+X |
 
+31 |
+
 |
 
-Cyperméthrine
+Trichlorobenzène |
 
 |
 
-52315-07-8
+X |
 
 |
-
-42
 
 |
 
-1170
+1630 |
 
-|
+Trichlorobenzène-1,2,3 |
 
-Dichlorvos
+87-61-6 |
 
-|
+X |
 
-62-73-7
+|
 
 |
 
-43
+1283 |
 
-|
+Trichlorobenzène-1,2,4 |
 
-|
+120-82-1 |
 
-Hexabromocyclododécane (HBCDD)
+X |
 
 |
 
 |
 
-6651
+1629 |
 
-|
+Trichlorobenzène-1,3,5 |
 
-Alpha 1,2,5,6,9,10-HBCDD
+108-70-3 |
 
-|
+X |
 
-134237-50-6
+|
 
 |
 
-6652
+32 |
 
-|
+1135 |
 
-Beta 1,2,5,6,9,10-HBCDD
+Trichlorométhane |
 
-|
+67-66-3 |
 
-134237-51-7
+X |
 
 |
 
-6653
-
 |
 
-Gamma 1,2,5,6,9,10-HBCDD
+33 |
 
-|
+1289 |
 
-134237-52-8
+Trifluraline |
 
-|
+1582-09-8 |
 
-44
+X |
 
 |
 
 |
 
-Heptachlore et époxyde d'heptachlore
+34 |
 
-|
+1172 |
 
-|
+Dicofol |
 
-1197
+115-32-2 |
 
 |
-
-Heptachlore
 
-|
+X |
 
-76-44-8
+X |
 
-|
+35 |
 
-1748
+6561 |
 
-|
+Acide perfluorooctanesulfonique et ses dérivés (perfluorooctanesulfonate PFOS) |
 
-Heptachlore époxyde exo cis
+1763-23-1 |
 
-|
+X |
 
-1024-57-3
+X |
 
-|
+X |
 
-1749
+36 |
 
-|
+2028 |
 
-Heptachlore époxyde endo trans
+Quinoxyfène |
 
-|
+124495-18-7 |
 
-28044-83-9
+X |
 
 |
-
-45
 
-|
+X |
 
-1269
+37 (**) |
 
 |
 
-Terbutryne
+Dioxines et composés de type dioxine |
 
 |
-
-886-50-0
 
 |
 
-(1) C. A. S. : Chemical Abstract Service.
+X |
 
-|
-
-Tableau 17. - Polluants spécifiques de l'état écologique des eaux de surface
+X |
 
-CODE SANDRE
+2566 |
 
-|
+1,2,3,4,6,7,8,9-Octachlorodibenzodioxine |
 
-NOM SUBSTANCE
+3268-87-9 |
 
 |
-
-NUMÉRO
 
-CAS
+X |
 
-|
-
-BASSINS OU GROUPEMENT DE BASSINS CONCERNÉS
+X |
 
-|
+2575 |
 
-Adour-
+1,2,3,4,6,7,8-Heptachlorodibenzodioxine |
 
-Garonne
+35822-46-9 |
 
 |
 
-Artois-Picaridie
+X |
 
-|
+X |
 
-Loire-bretagne
+2596 |
 
-|
+1,2,3,4,6,7,8-Heptachlorodibenzofurane |
 
-Rhin-Meuse
+67562-39-4 |
 
 |
 
-Rhône-Méditerranée
+X |
 
-|
+X |
 
-Corse
+2597 |
 
-|
+1,2,3,4,7,8,9-Heptachlorodibenzofurane |
 
-Seine-Normandie
+55673-89-7 |
 
 |
 
-Guadeloupe
+X |
 
-|
+X |
 
-Guyane
+2571 |
 
-|
+1,2,3,4,7,8-hexachlorodibenzo[b,e][1,4]dioxine |
 
-Martinique
+39227-28-6 |
 
 |
 
-Mayotte
+X |
 
-|
+X |
 
-Réunion
+2591 |
 
-|
+1,2,3,4,7,8-hexachlorodibenzofurane |
 
-1670
+70648-26-9 |
 
 |
 
-Métazachlore
+X |
 
-|
+X |
 
-67129-08-2
+2592 |
 
-|
+1,2,3,6,7,8-Hexachlorodibenzofurane |
 
-X
+57117-44-9 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2572 |
 
-|
+1,2,3,6,7,8-Hexachlorodibenzo-p-dioxine |
 
-X
+57653-85-7 |
 
 |
-
-X
 
-|
+X |
 
-X
+X |
 
-|
+2594 |
 
-X
+1,2,3,7,8,9-Hexachlorodibenzofurane |
 
-|
+72918-21-9 |
 
 |
 
-|
+X |
 
-|
+X |
 
-|
+2573 |
 
-|
+1,2,3,7,8,9-Hexachlorodibenzo-p-dioxine |
 
-1383
+19408-74-3 |
 
 |
 
-Zinc
+X |
 
-|
+X |
 
-7440-66-6
+2588 |
 
-|
+1,2,3,7,8-Pentachlorodibenzofurane |
 
-X
+57117-41-6 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2569 |
 
-|
+1,2,3,7,8-Pentachlorodibenzo-p-dioxine |
 
-X
+40321-76-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2593 |
 
-|
+2,3,4,6,7,8-Hexachlorodibenzofurane |
 
-X
+60851-34-5 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2589 |
 
-|
+2,3,4,7,8-Pentachlorodibenzofurane |
 
-X
+57117-31-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2586 |
 
-|
+2,3,7,8-Tetrachlorodibenzofurane |
 
-1369
+51207-31-9 |
 
 |
 
-Arsenic
+X |
 
-|
+X |
 
-7440-38-2
+2562 |
 
-|
+2,3,7,8-Tetrachlorodibenzo-p-Dioxine |
 
-X
+1746-01-6 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5248 |
 
-|
+Octachlorodibenzofuranne |
 
-X
+39001-02-0 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+1627 |
 
-|
+PCB 105 |
 
-X
+32598-14-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5433 |
 
-|
+PCB 114 |
 
-X
+74472-37-0 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+1243 |
 
-|
+PCB 118 |
 
-1392
+31508-00-6 |
 
 |
 
-Cuivre
+X |
 
-|
+X |
 
-7440-50-8
+1089 |
 
-|
+PCB 126 |
 
-X
+57465-28-8 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+2032 |
 
-|
+PCB 156 |
 
-X
+38380-08-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5435 |
 
-|
+PCB 157 |
 
-X
+69782-90-7 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5436 |
 
-|
+PCB 167 |
 
-X
+52663-72-6 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+1090 |
 
-|
+PCB 169 |
 
-1389
+32774-16-6 |
 
 |
 
-Chrome
+X |
 
-|
+X |
 
-7440-47-3
+1091 |
 
-|
+PCB 77 |
 
-X
+32598-13-3 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5432 |
 
-|
+PCB 81 |
 
-X
+70362-50-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5434 |
 
-|
+PCB123 |
 
-X
+65510-44-3 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+5437 |
 
-|
+PCB189 |
 
-X
+39635-31-9 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+38 |
 
-|
+1688 |
 
-1136
+Aclonifène |
 
-|
+74070-46-5 |
 
-Chlortoluron
+X |
 
 |
-
-15545-48-9
 
 |
 
-X
+39 |
 
-|
+1119 |
 
-X
+Bifénox |
 
-|
+42576-02-3 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-X
+40 |
 
-|
+1935 |
 
-X
+Cybutryne |
 
-|
+28159-98-0 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+41 |
 
-|
+1140 |
 
-X
+Cyperméthrine |
 
-|
+52315-07-8 |
 
-X
+X |
 
 |
 
-X
-
 |
 
-1105
+42 |
 
-|
+1170 |
 
-Aminotriazole
+Dichlorvos |
 
-|
+62-73-7 |
 
-61-82-5
+X |
 
 |
-
-X
 
 |
 
-X
+43 |
 
 |
 
-X
+Hexabromocyclododécane (HBCDD) |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+6651 |
 
-X
+Alpha 1,2,5,6,9,10-HBCDD |
 
-|
+134237-50-6 |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+6652 |
 
-|
+Beta 1,2,5,6,9,10-HBCDD |
 
-|
+134237-51-7 |
 
-|
+X |
 
-1882
+X |
 
-|
+X |
 
-Nicosulfuron
+6653 |
 
-|
+Gamma 1,2,5,6,9,10-HBCDD |
 
-111991-09-4
+134237-52-8 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
+
+44 |
 
 |
 
-X
+Heptachlore et époxyde d'heptachlore |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+1197 |
 
-X
+Heptachlore |
 
-|
+76-44-8 |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+1748 |
 
-|
+Heptachlore époxyde exo cis |
 
-|
+1024-57-3 |
 
-|
+X |
 
-1667
+X |
 
-|
+X |
 
-Oxadiazon
+1749 |
 
-|
+Heptachlore époxyde endo trans |
 
-19666-30-9
+28044-83-9 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+45 |
 
-|
+1269 |
 
-X
+Terbutryne |
 
-|
+886-50-0 |
 
-X
+X |
 
 |
-
-X
 
 |
 
-X
+(*) substance analysée dans crustacés ou mollusques d'après la directive 2013/39/UE
 
-|
+(**) substance analysée dans le poisson ou crustacé ou mollusque d'après la directive 2013/39/UE
 
-X
+- substance ubiquiste |
 
-|
+(1) C.A.S. : Chemical abstract service
 
-X
+Le tableau 24 récapitule les codes Sandre et les numéros CAS des polluants spécifiques de l'état écologique à surveiller dans les eaux de surface, ainsi que les bassins concernés par cette surveillance.
 
-|
+Tableau 24 : polluants spécifiques de l'état écologique des eaux de surface
 
-X
+Code Sandre |
 
-|
+Nom substance |
 
-X
+Numéro CAS |
 
-|
+Bassins ou groupement de bassins concernés |
 
-X
+Adour-Garonne |
 
-|
+Artois-Picaridie |
 
-X
+Loire-Bretagne |
 
-|
+Rhin-Meuse |
 
-1907
+Rhône-Méditerranée |
 
-|
+Corse |
 
-AMPA
+Seine-Normandie |
 
-|
+Guadeoulpe |
 
-1066-51-9
+Guyane |
 
-|
+Martinique |
 
-X
+Mayotte |
 
-|
+Réunion |
 
-X
+1670 |
 
-|
+Métazachlore |
 
-X
+67129-08-2 |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
+
+X |
 
-X
+X |
 
 |
 
-X
+|
 
 |
 
@@ -2122,203 +1516,205 @@ X
 
 |
 
-X
+1383 |
 
-|
+Zinc |
 
-|
+7440-66-6 |
 
-|
+X |
 
-1506
+X |
 
-|
+X |
 
-Glyphosate
+X |
 
-|
+X |
 
-1071-83-6
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+1369 |
 
-X
+Arsenic |
 
-|
+7440-38-2 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-1113
+1392 |
 
-|
+Cuivre |
 
-Bentazone
+7440-50-8 |
 
-|
+X |
 
-25057-89-0
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+1389 |
 
-|
+Chrome |
 
-|
+7440-47-3 |
 
-|
+X |
 
-1212
+X |
 
-|
+X |
 
-2,4 MCPA
+X |
 
-|
+X |
 
-94-74-6
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+1136 |
 
-X
+Chlortoluron |
 
-|
+15545-48-9 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+1105 |
 
-|
+Aminotriazole |
 
-X
+61-82-5 |
 
-|
+X |
 
-1814
+X |
 
-|
+X |
 
-Diflufenicanil
+X |
 
-|
+X |
 
-83164-33-4
+X |
 
-|
+X |
 
 |
 
-X
+|
 
 |
 
-X
+|
 
 |
 
-X
+1882 |
 
-|
+Nicosulfuron |
+
+111991-09-4 |
 
-X
+X |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -2327,104 +1723,106 @@ X
 |
 
 |
-
-1359
 
 |
 
-Cyprodinil
+1667 |
 
-|
+Oxadiazon |
 
-121552-61-2
+19666-30-9 |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+1907 |
 
-|
+AMPA |
 
-|
+1066-51-9 |
 
-|
+X |
 
-1877
+X |
 
-|
+X |
 
-Imidaclopride
+X |
 
-|
+X |
 
-138261-41-3
+X |
 
+X |
+
 |
 
 |
 
-X
+X |
 
 |
 
 |
 
-|
+1506 |
 
-|
+Glyphosate |
 
-|
+1071-83-6 |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
+
+X |
+
+X |
 
 |
 
 |
 
-1206
+X |
 
 |
 
-Iprodione
-
 |
 
-36734-19-7
+1113 |
 
-|
+Bentazone |
 
-|
+25057-89-0 |
 
-X
+X |
 
 |
 
@@ -2448,76 +1846,84 @@ X
 
 |
 
-1141
+1212 |
 
-|
+2,4 MCPA |
 
-2, 4D
+94-74-6 |
 
-|
+X |
 
-94-75-7
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+1814 |
 
-|
+Diflufenicanil |
 
-X
+83164-33-4 |
 
 |
 
-X
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
+
+X |
 
-X
+X |
 
 |
 
-X
+|
 
 |
 
-1951
+|
 
 |
+
+1359 |
+
+Cyprodinil |
 
-Azoxystrobine
+121552-61-2 |
 
 |
 
-131860-33-8
+X |
 
 |
 
 |
 
-X
+X |
 
+X |
+
 |
 
 |
@@ -2529,9 +1935,17 @@ X
 |
 
 |
+
+1877 |
+
+Imidaclopride |
+
+138261-41-3 |
 
 |
 
+X |
+
 |
 
 |
@@ -2540,23 +1954,27 @@ X
 
 |
 
-1278
+X |
 
 |
-
-Toluène
 
 |
 
-108-88-3
+|
 
 |
 
 |
+
+1206 |
 
+Iprodione |
+
+36734-19-7 |
+
 |
 
-X
+X |
 
 |
 
@@ -2578,35 +1996,45 @@ X
 
 |
 
-1847
+1141 |
 
-|
+2,4D |
 
-Phosphate de tributyle
+94-75-7 |
 
 |
+
+X |
 
-126-73-8
+X |
 
+X |
+
 |
 
 |
 
-X
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-X
+X |
 
-|
+X |
+
+1951 |
 
-X
+Azoxystrobine |
 
+131860-33-8 |
+
 |
+
+X |
 
 |
 
@@ -2620,31 +2048,31 @@ X
 
 |
 
-1584
+|
 
 |
 
-Biphényle
+|
 
 |
 
-92-52-4
+1278 |
 
-|
+Toluène |
 
-|
+108-88-3 |
 
 |
 
 |
 
-|
+X |
 
 |
 
 |
 
-X
+|
 
 |
 
@@ -2658,23 +2086,23 @@ X
 
 |
 
-5526
+1847 |
 
-|
+Phosphate de tributyle |
 
-Boscalid
+126-73-8 |
 
 |
 
-188425-85-6
+X |
 
 |
 
 |
 
-|
+X |
 
-X
+X |
 
 |
 
@@ -2684,11 +2112,15 @@ X
 
 |
 
-X
-
 |
 
 |
+
+1584 |
+
+Biphényle |
+
+92-52-4 |
 
 |
 
@@ -2698,15 +2130,15 @@ X
 
 |
 
-1796
+|
 
 |
 
-Métaldéhyde
+X |
 
 |
 
-108-62-3
+|
 
 |
 
@@ -2714,17 +2146,17 @@ Métaldéhyde
 
 |
 
-X
+5526 |
 
-|
+Boscalid |
 
-|
+188425-85-6 |
 
 |
 
 |
 
-X
+X |
 
 |
 
@@ -2732,31 +2164,29 @@ X
 
 |
 
-|
+X |
 
 |
 
 |
-
-1694
 
 |
 
-Tebuconazole
+|
 
 |
 
-107534-96-3
+1796 |
 
-|
+Métaldéhyde |
 
-|
+108-62-3 |
 
 |
 
 |
 
-X
+X |
 
 |
 
@@ -2764,7 +2194,7 @@ X
 
 |
 
-|
+X |
 
 |
 
@@ -2776,21 +2206,19 @@ X
 
 |
 
-1474
+1694 |
 
-|
+Tebuconazole |
 
-Chlorprophame
+107534-96-3 |
 
 |
-
-107534-96-3
 
 |
 
 |
 
-X
+X |
 
 |
 
@@ -2798,41 +2226,35 @@ X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
 
 |
 
 |
 
-|
+1474 |
 
-|
+Chlorprophame |
+
+101-21-3 |
 
 |
 
-1780
+X |
 
 |
 
-Xylène
-
 |
 
-1330-20-7
+X |
 
-|
+X |
 
-|
+X |
 
 |
 
@@ -2844,11 +2266,11 @@ Xylène
 
 |
 
-X
+1780 |
 
-|
+Xylène |
 
-|
+1330-20-7 |
 
 |
 
@@ -2857,16 +2279,12 @@ X
 |
 
 |
-
-1234
 
 |
 
-Pendiméthaline
-
 |
 
-40487-42-1
+X |
 
 |
 
@@ -2878,11 +2296,11 @@ Pendiméthaline
 
 |
 
-X
+1234 |
 
-|
+Pendiméthaline |
 
-X
+40487-42-1 |
 
 |
 
@@ -2892,73 +2310,57 @@ X
 
 |
 
-|
+X |
 
-|
+X |
 
 |
 
-1209
-
 |
-
-Linuron
 
 |
 
-330-55-2
-
 |
 
 |
 
 |
 
-|
+1209 |
 
-|
+Linuron |
 
-|
+330-55-2 |
 
 |
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
-
-X
 
 |
 
-X
-
 |
 
-1866
+X |
 
-|
+X |
 
-Chlordécone
+X |
 
-|
+X |
 
-143-50-0
+X |
 
-|
+1866 |
 
-|
+Chlordécone |
 
-|
+143-50-0 |
 
 |
 
@@ -2970,31 +2372,25 @@ Chlordécone
 
 |
 
-X
-
 |
 
 |
 
-X
+X |
 
 |
 
-|
+X |
 
 |
 
-1713
-
 |
-
-Thiabendazole
 
-|
+1713 |
 
-148-79-8
+Thiabendazole |
 
-|
+148-79-8 |
 
 |
 
@@ -3002,7 +2398,7 @@ Thiabendazole
 
 |
 
-|
+X |
 
 |
 
@@ -3014,12 +2410,12 @@ Thiabendazole
 
 |
 
-X
-
-|
+X |
 
 |
 
 |
 
 L'unique polluant spécifique de l'état écologique à surveiller en eaux littorales est le chlordécone. Celui-ci est à suivre uniquement en Guadeloupe et en Martinique.
+
+L'ensemble de ces polluants est à suivre dans la matrice eau, à l'exception du chlordécone, dont la matrice de suivi privilégiée est le biote.

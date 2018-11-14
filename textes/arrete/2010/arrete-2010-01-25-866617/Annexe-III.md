@@ -8,5684 +8,3068 @@ Il s'agit de substances recherchées pour répondre aux objectifs du point I de 
 
 Les listes de substances ci-dessous constituent, avec les substances de l'état chimique et les polluants spécifiques, le socle minimal de substances à surveiller pour les eaux de surface, identifiées au terme d'une réflexion menée collectivement au niveau national. Les bassins complètent cette surveillance en fonction des enjeux spécifiques identifiés au niveau de chaque bassin.
 
-Si une substance est identifiée comme polluant spécifique dans un bassin métropolitain, pour tous les bassins métropolitains pour lesquels cette substance n'est pas polluant spécifique, cette substance est surveillée comme substance pertinente.
+Si une substance est identifiée comme polluant spécifique dans un bassin métropolitain, pour tous les bassins métropolitains pour lesquels cette substance n'est pas un polluant spécifique, cette substance est surveillée comme substance pertinente.
 
 Par ailleurs, il peut être choisi de ne pas surveiller les substances pertinentes identifiées comme pesticides dans les tableaux ci-dessous, et dont les usages ne correspondraient à aucune culture présente sur le bassin.
 
-Certaines substances sont identifiées dans les tableaux ci-après comme faisant partie d'une liste A, d'une liste B ou à la fois d'une liste A et d'une liste B.
+Certaines substances sont identifiées dans les tableaux ci-après comme faisant partie d'une liste A, d'une liste B ou à la fois d'une liste A et d'une liste B, suivant les difficultés analytiques identifiées.
 
-Les substances faisant partie de la liste A sont surveillées dès le début de cycle en respectant la limite de quantification (LQ) en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux.
+Les substances faisant partie de la liste A sont surveillées dès le début de cycle en respectant la limite de quantification (LQ) en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
 
 Les substances faisant partie de la liste B sont surveillées à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
 
 Pour les substances faisant partie à la fois de la liste A et de la liste B :
 
--pour les cours d'eau, la première année de surveillance aura lieu lors de la première partie du cycle, soit avant 2019, et la seconde année à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur à la date de surveillance dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques ;
+-pour les cours d'eau, la première année de surveillance aura lieu lors de la première partie du cycle, soit avant 2019, et la seconde année à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur à la date de surveillance dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
 
 -pour les plans d'eau et les eaux littorales, l'année de surveillance aura lieu à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
 
-SUBSTANCES COMMUNES MÉTROPOLE ET DOM
+SUBSTANCES COMMUNES METROPOLE ET DOM
 
 Matrice eau
 
-Tableau 18.-Substances pertinentes communes métropole et DOM à surveiller dans les eaux de surface, matrice eau
+Tableau 25 : substances pertinentes communes métropole et DOM à surveiller dans les eaux de surface, matrice eau
 
-CODE
+Code
 
-SANDRE
+Sandre |
 
-|
+Paramètre |
 
-PARAMÈTRE
+N° CAS |
 
-|
+Famille Chimique |
 
-N° CAS
+Liste |
 
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-USAGE
-
-pesticide
+Usage Pesticide
 
 ou métabolite
 
-de pesticide
+de pesticide |
 
-|
-
-A
-
-|
-
-B
-
-|
-
-1084
-
-|
-
-Cyanures libres
-
-|
-
-|
-
-Autres éléments minéraux
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-1129
-
-|
-
-Carbendazime
-
-|
-
-10605-21-7
-
-|
-
-Carbamates
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1149
-
-|
-
-Deltaméthrine
-
-|
-
-52918-63-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1221
-
-|
-
-Métolachlore
-
-|
-
-51218-45-2
-
-|
-
-Organochlorés
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1376
-
-|
-
-Antimoine
-
-|
-
-7440-36-0
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1385
-
-|
-
-Sélénium
-
-|
-
-7782-49-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1394
-
-|
-
-Manganèse
-
-|
-
-7439-96-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1414
-
-|
-
-Propyzamide
-
-|
-
-23950-58-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1462
-
-|
-
-n-Butyl Phtalate
-
-|
-
-84-74-2
-
-|
-
-Phtalates
-
-|
-
-|
-
-X
-
-|
-
-|
-
-1527
-
-|
-
-Diéthyl phtalate
-
-|
-
-84-66-2
-
-|
-
-Phtalates
-
-|
-
-|
-
-X
-
-|
-
-|
-
-1700
-
-|
-
-Fenpropidine
-
-|
-
-67306-00-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1709
-
-|
-
-Piperonyl butoxyde
-
-|
-
-51-03-6
-
-|
-
-Divers (autres organiques)
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1903
-
-|
-
-Acétochlore
-
-|
-
-34256-82-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-2766
-
-|
+A |
 
-Bisphenol A
+B |
 
-|
+1084 |
 
-80-05-7
+Cyanures libres |
 
 |
 
-Alkylphénols, nonylphénols et bisphénols A
+Autres éléments minéraux |
 
-|
+X |
 
-X
+X |
 
 |
-
-X
 
-|
+1129 |
 
-|
+Carbendazime |
 
-5296
+10605-21-7 |
 
-|
+Carbamates |
 
-Carbamazepine
+X |
 
-|
+X |
 
-298-46-4
+X |
 
-|
+1149 |
 
-Divers (autres organiques)
+Deltaméthrine |
 
-|
+52918-63-5 |
 
-X
+Divers (autres organiques) |
 
 |
 
-|
+X |
 
-|
+X |
 
-5325
+1221 |
 
-|
+Métolachlore |
 
-Diisobutyl phthalate
+51218-45-2 |
 
-|
+Organochlorés |
 
-84-69-5
+X |
 
 |
 
-Phtalates
-
-|
+X |
 
-X
+1376 |
 
-|
+Antimoine |
 
-|
+7440-36-0 |
 
-|
+Métaux et métalloides |
 
-5349
+X |
 
 |
 
-Diclofénac
-
 |
 
-15307-86-5
-
-|
+1385 |
 
-Divers (autres organiques)
+Sélénium |
 
-|
+7782-49-2 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
 |
 
-5350
+1394 |
 
-|
+Manganèse |
 
-Ibuprofène
+7439-96-5 |
 
-|
+Métaux et métalloides |
 
-15687-27-1
+X |
 
 |
 
-Divers (autres organiques)
-
 |
 
-X
+1414 |
 
-|
+Propyzamide |
 
-|
+23950-58-5 |
 
-|
+Divers (autres organiques) |
 
-5353
+X |
 
 |
 
-Ketoprofene
+X |
 
-|
+1462 |
 
-22071-15-4
+n-Butyl Phtalate |
 
-|
+84-74-2 |
 
-Divers (autres organiques)
+Phtalates |
 
 |
 
-X
+X |
 
 |
 
-|
-
-|
+1527 |
 
-5354
+Diéthyl phtalate |
 
-|
+84-66-2 |
 
-Paracétamol
+Phtalates |
 
 |
 
-103-90-2
+X |
 
 |
 
-Divers (autres organiques)
+1700 |
 
-|
+Fenpropidine |
 
-X
+67306-00-7 |
 
-|
+Divers (autres organiques) |
 
-|
+X |
 
 |
 
-5356
+X |
 
-|
+1709 |
 
-Sulfamethoxazole
+Piperonyl butoxyde |
 
-|
+51-03-6 |
 
-723-46-6
+Divers (autres organiques) |
 
-|
+X |
 
-Divers (autres organiques)
+X |
 
-|
+X |
 
-X
+1903 |
 
-|
+Acétochlore |
 
-|
+34256-82-1 |
 
-|
+Divers (autres organiques) |
 
-5375
+X |
 
 |
 
-Oxazepam
+X |
 
-|
+2766 |
 
-604-75-1
+Bisphenol A |
 
-|
+80-05-7 |
 
-Divers (autres organiques)
+Alkylphénols, nonylphénols et bisphénols A |
 
-|
+X |
 
-X
+X |
 
 |
 
-|
+5296 |
 
-|
+Carbamazepine |
 
-5430
+298-46-4 |
 
-|
+Divers (autres organiques) |
 
-Triclosan
+X |
 
 |
-
-3380-34-5
 
 |
 
-Autres phénols
+5325 |
 
-|
+Diisobutyl phthalate |
 
-X
+84-69-5 |
 
-|
+Phtalates |
 
-|
+X |
 
 |
 
-6219
-
 |
 
-Perchlorate
+5349 |
 
-|
+Diclofénac |
 
-14797-73-0
+15307-86-5 |
 
-|
+Divers (autres organiques) |
 
-Autres éléments minéraux
+X |
 
 |
 
-X
-
 |
 
-X
-
-|
+5350 |
 
-|
+Ibuprofène |
 
-6509
+15687-27-1 |
 
-|
+Divers (autres organiques) |
 
-Acide perfluoro-decanoïque
+X |
 
 |
-
-335-76-2
 
 |
 
-PFC (PFOA, PFOS)
+5353 |
 
-|
+Ketoprofene |
 
-|
+22071-15-4 |
 
-X
+Divers (autres organiques) |
 
-|
+X |
 
 |
 
-6533
-
 |
 
-Ofloxacine
+5354 |
 
-|
+Paracétamol |
 
-82419-36-1
+103-90-2 |
 
-|
+Divers (autres organiques) |
 
-Divers (autres organiques)
+X |
 
 |
 
-X
-
 |
 
-|
+5356 |
 
-|
+Sulfamethoxazole |
 
-6644
+723-46-6 |
 
-|
+Divers (autres organiques) |
 
-Ethylparaben
+X |
 
 |
 
-120-47-8
-
 |
 
-Divers (autres organiques)
+5375 |
 
-|
+Oxazepam |
 
-X
+604-75-1 |
 
-|
+Divers (autres organiques) |
 
-X
+X |
 
 |
 
 |
 
-6693
+5430 |
 
-|
+Triclosan |
 
-Propylparaben
+3380-34-5 |
 
-|
+Autres phénols |
 
-94-13-3
+X |
 
 |
 
-Divers (autres organiques)
-
 |
 
-X
+6219 |
 
-|
+Perchlorate |
 
-X
+14797-73-0 |
 
-|
+Autres éléments minéraux |
 
-|
+X |
 
-6695
+X |
 
 |
 
-Methylparaben
-
-|
+6509 |
 
-99-76-3
+Acide perfluoro-decanoïque |
 
-|
+335-76-2 |
 
-Divers (autres organiques)
+PFC (PFOA, PFOS) |
 
 |
 
-X
+X |
 
 |
 
-X
-
-|
+6533 |
 
-|
+Ofloxacine |
 
-6725
+82419-36-1 |
 
-|
+Divers (autres organiques) |
 
-Carbamazepine époxide
+X |
 
 |
-
-36507-30-9
 
 |
 
-Divers (autres organiques)
+6644 |
 
-|
+Ethylparaben |
 
-X
-
-|
+120-47-8 |
 
-|
+Divers (autres organiques) |
 
-|
+X |
 
-6755
+X |
 
 |
 
-Metformine
+6693 |
 
-|
+Propylparaben |
 
-657-24-9
+94-13-3 |
 
-|
+Divers (autres organiques) |
 
-Divers (autres organiques)
+X |
 
-|
+X |
 
 |
 
-X
+6695 |
 
-|
+Methylparaben |
 
-|
+99-76-3 |
 
-6853
+Divers (autres organiques) |
 
-|
+X |
 
-Métolachlore OXA
+X |
 
 |
 
-152019-73-3
+6725 |
 
-|
+Carbamazepine époxide |
 
-Divers (autres organiques)
+36507-30-9 |
 
-|
+Divers (autres organiques) |
 
-X
+X |
 
 |
 
 |
 
-X
-
-|
+6755 |
 
-6854
+Metformine |
 
-|
+657-24-9 |
 
-Métolachlore ESA
+Divers (autres organiques) |
 
 |
 
-171118-09-5
+X |
 
 |
 
-Divers (autres organiques)
-
-|
+6853 |
 
-X
+Métolachlore OXA |
 
-|
+152019-73-3 |
 
-|
+Divers (autres organiques) |
 
-X
+X |
 
 |
-
-6870
 
-|
+X |
 
-2-(3-trifluoromethylphenoxy) nicotinamide
+6854 |
 
-|
+Métolachlore ESA |
 
-4394-00-7
+171118-09-5 |
 
-|
+Divers (autres organiques) |
 
-Divers (autres organiques)
+X |
 
 |
 
-|
+X |
 
-X
+6870 |
 
-|
+2-(3-trifluoromethylphenoxy) nicotinamide |
 
-|
+4394-00-7 |
 
-6989
+Divers (autres organiques) |
 
 |
 
-Triclocarban
+X |
 
 |
 
-101-20-2
+6989 |
 
-|
+Triclocarban |
 
-Divers (autres organiques)
+101-20-2 |
 
-|
+Divers (autres organiques) |
 
 |
 
-X
-
-|
+X |
 
 |
 
 Matrice sédiment
 
-Tableau 19.-Substances pertinentes communes métropole et DOM à surveiller dans les eaux de surface, matrice sédiment
+Tableau 26 : substances pertinentes communes métropole et DOM à surveiller dans les eaux de surface, matrice sédiment
 
-CODE
+Code
 
-SANDRE
+Sandre |
 
-|
-
-PARAMÈTRE
-
-|
-
-N° CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1149
-
-|
-
-Deltaméthrine
-
-|
-
-52918-63-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-1376
-
-|
-
-Antimoine
-
-|
-
-7440-36-0
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1385
-
-|
-
-Sélénium
-
-|
-
-7782-49-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
+Paramètre |
 
-|
-
-|
-
-1394
-
-|
-
-Manganèse
-
-|
-
-7439-96-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
+N° CAS |
 
-|
-
-|
-
-1462
-
-|
-
-n-Butyl Phtalate
-
-|
-
-84-74-2
+Famille Chimique |
 
-|
+Liste |
 
-Phtalates
+A |
 
-|
+B |
 
-X
+1149 |
 
-|
+Deltaméthrine |
 
-|
+52918-63-5 |
 
-1523
+Divers (autres organiques) |
 
 |
 
-Perméthrine
+X |
 
-|
+1376 |
 
-52645-53-1
+Antimoine |
 
-|
+7440-36-0 |
 
-Organochlorés
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-X
+1385 |
 
-|
+Sélénium |
 
-2013
+7782-49-2 |
 
-|
+Métaux et métalloides |
 
-Anthraquinone
+X |
 
 |
 
-84-65-1
-
-|
+1394 |
 
-Anilines et dérivés
+Manganèse |
 
-|
+7439-96-5 |
 
-|
+Métaux et métalloides |
 
-X
+X |
 
 |
 
-5325
+1462 |
 
-|
+n-Butyl Phtalate |
 
-Diisobutyl phthalate
+84-74-2 |
 
-|
+Phtalates |
 
-84-69-5
+X |
 
 |
 
-Phtalates
+1523 |
 
-|
+Perméthrine |
 
-|
+52645-53-1 |
 
-X
+Organochlorés |
 
 |
 
-6369
+X |
 
-|
+2013 |
 
-4-nonylphenol diethoxylate (mélange d'isomères)
+Anthraquinone |
 
-|
+84-65-1 |
 
-27176-93-8
+Anilines et dérivés |
 
 |
 
-Alkylphénols, nonylphénols et bisphénols A
+X |
 
-|
-
-X
+5325 |
 
-|
+Diisobutyl phthalate |
 
-|
+84-69-5 |
 
-6618
+Phtalates |
 
 |
 
-Galaxolide
+X |
 
-|
+6369 |
 
-1222-05-5
+4-nonylphenol diethoxylate (mélange d'isomères) |
 
-|
+27176-93-8 |
 
-Divers (autres organiques)
+Alkylphénols, nonylphénols et bisphénols A |
 
-|
+X |
 
 |
-
-X
 
-|
+6618 |
 
-6989
+Galaxolide |
 
-|
+1222-05-5 |
 
-Triclocarban
+Divers (autres organiques) |
 
 |
 
-101-20-2
-
-|
+X |
 
-Divers (autres organiques)
+6989 |
 
-|
+Triclocarban |
 
-|
+101-20-2 |
 
-X
+Divers (autres organiques) |
 
 |
 
-7497
-
-|
+X |
 
-Monophenyletain cation
+7497 |
 
-|
+Monophenyletain cation |
 
 |
-
-Organométalliques
 
-|
+Organométalliques |
 
 |
 
-X
-
-|
+X |
 
 La surveillance sur sédiment dans les cours d'eau n'est pas pertinente à La Réunion.
 
-Compte tenu de la répartition des sédiments à la Martinique, il est possible que sur certains sites de surveillance les quantités de sédiment ne soient pas suffisantes pour la réalisation d'analyses.
+Compte tenu de la répartition des sédiments à la Martinique et en Guadeloupe, il est possible que sur certains sites de surveillance les quantités de sédiment ne soient pas suffisantes pour la réalisation d'analyses. |
 
-|
-
-SUBSTANCES COMPLÉMENTAIRES POUR LA MÉTROPOLE
+SUBSTANCES COMPLEMENTAIRES POUR LA METROPOLE
 
 Matrice eau
 
-Tableau 20.-Substances pertinentes complémentaires pour la métropole à surveiller dans les eaux de surface, matrice eau
+Tableau 27 : substances pertinentes complémentaires pour la métropole à surveiller dans les eaux de surface, matrice eau
 
-CODE
+Code
 
-SANDRE
+Sandre |
 
-|
+Paramètre |
 
-PARAMÈTRE
+N° CAS |
 
-|
+Famille Chimique |
 
-N° CAS
+Liste |
 
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-USAGE PESTICIDE
+Usage Pesticide
 
 ou métabolite
 
-de pesticide
+de pesticide |
 
-|
-
-A
-
-|
-
-B
-
-|
-
-1108
-
-|
-
-Atrazine déséthyl
-
-|
-
-6190-65-4
-
-|
-
-Triazines et métabolites
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1109
-
-|
-
-Atrazine déisopropyl
-
-|
-
-1007-28-9
-
-|
-
-Triazines et métabolites
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1125
-
-|
-
-Bromoxynil
-
-|
-
-1689-84-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1175
-
-|
-
-Diméthoate
-
-|
-
-60-51-5
-
-|
-
-Organophosphorés
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1209
-
-|
-
-Linuron
-
-|
-
-330-55-2
-
-|
-
-Urées et métabolites
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1210
-
-|
-
-Malathion
-
-|
-
-121-75-5
-
-|
-
-Organophosphorés
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1230
-
-|
-
-Ométhoate
-
-|
-
-1113-02-6
-
-|
-
-Organophosphorés
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1253
-
-|
-
-Prochloraz
-
-|
-
-67747-09-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1261
-
-|
-
-Pyrimiphos-méthyl
-
-|
-
-29232-93-7
-
-|
-
-Organophosphorés
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1268
-
-|
-
-Terbuthylazine
-
-|
-
-5915-41-3
-
-|
-
-Triazines et métabolites
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-1271
-
-|
-
-Tétrachloroéthane-1,1,2,2
-
-|
-
-79-34-5
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1285
-
-|
-
-Trichloroéthane-1,1,2
-
-|
-
-79-00-5
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1361
-
-|
-
-Uranium
-
-|
-
-7440-61-1
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1364
-
-|
-
-Lithium
-
-|
-
-7439-93-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1368
-
-|
-
-Argent
-
-|
-
-7440-22-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-7429-90-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1373
-
-|
-
-Titane
-
-|
-
-7440-32-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1377
-
-|
-
-Béryllium
-
-|
-
-7440-41-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1379
-
-|
-
-Cobalt
-
-|
-
-7440-48-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1380
-
-|
-
-Etain
-
-|
-
-7440-31-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1384
-
-|
-
-Vanadium
-
-|
-
-7440-62-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-7439-89-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
+A |
 
-|
-
-|
-
-1395
-
-|
-
-Molybdène
-
-|
-
-7439-98-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
+B |
 
 |
 
-|
-
-|
-
-1396
-
-|
-
-Baryum
-
-|
-
-7440-39-3
-
-|
+1108 |
 
-Métaux et métalloides
+Atrazine déséthyl |
 
-|
-
-X
+6190-65-4 |
 
-|
+Triazines et métabolites |
 
-|
+X |
 
 |
 
-1406
+X |
 
-|
-
-Lénacile
+1109 |
 
-|
+Atrazine déisopropyl |
 
-2164-08-1
+1007-28-9 |
 
-|
+Triazines et métabolites |
 
-Divers (autres organiques)
+X |
 
 |
 
-X
+X |
 
-|
+1125 |
 
-|
+Bromoxynil |
 
-X
+1689-84-5 |
 
-|
+Divers (autres organiques) |
 
-1465
+X |
 
 |
 
-Acide monochloroacétique
+X |
 
-|
+1175 |
 
-79-11-8
+Diméthoate |
 
-|
+60-51-5 |
 
-Divers (autres organiques)
+Organophosphorés |
 
-|
+X |
 
 |
 
-X
+X |
 
-|
+1209 |
 
-|
+Linuron |
 
-1480
+330-55-2 |
 
-|
+Urées et métabolites |
 
-Dicamba
+X |
 
 |
 
-1918-00-9
+X |
 
-|
+1210 |
 
-Organochlorés
+Malathion |
 
-|
+121-75-5 |
 
-X
+Organophosphorés |
 
 |
 
-|
+X |
 
-X
+X |
 
-|
+1230 |
 
-1489
+Ométhoate |
 
-|
+1113-02-6 |
 
-Phtalate de diméthyle
+Organophosphorés |
 
 |
 
-131-11-3
-
-|
+X |
 
-Phtalates
+X |
 
-|
+1253 |
 
-X
+Prochloraz |
 
-|
+67747-09-5 |
 
-|
+Divers (autres organiques) |
 
 |
 
-1494
+X |
 
-|
+X |
 
-Epichlorohydrine
+1261 |
 
-|
+Pyrimiphos-méthyl |
 
-106-89-8
+29232-93-7 |
 
-|
+Organophosphorés |
 
-Organochlorés
+X |
 
 |
 
-X
-
-|
+X |
 
-|
+1268 |
 
-|
+Terbuthylazine |
 
-1498
+5915-41-3 |
 
-|
+Triazines et métabolites |
 
-Dibromoéthane-1,2
+X |
 
 |
 
-106-93-4
+X |
 
-|
+1271 |
 
-COHV, solvants chlorés, fréons
+Tétrachloroéthane-1,1,2,2 |
 
-|
+79-34-5 |
 
-X
+COHV, solvants chlorés, fréons |
 
-|
+X |
 
 |
 
-X
-
 |
 
-1510
+1285 |
 
-|
+Trichloroéthane-1,1,2 |
 
-Mercaptodiméthur
+79-00-5 |
 
-|
+COHV, solvants chlorés, fréons |
 
-2032-65-7
+X |
 
 |
-
-Carbamates
 
 |
 
-X
-
-|
+1361 |
 
-|
+Uranium |
 
-X
+7440-61-1 |
 
-|
+Métaux et métalloides |
 
-1512
+X |
 
 |
 
-Méthyl tert-butyl Ether
-
 |
-
-1634-04-4
 
-|
+1364 |
 
-Divers (autres organiques)
+Lithium |
 
-|
+7439-93-2 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
 |
 
-1528
+1368 |
 
-|
+Argent |
 
-Pirimicarbe
+7440-22-4 |
 
-|
+Métaux et métalloides |
 
-23103-98-2
+X |
 
 |
-
-Carbamates
 
 |
 
-X
-
-|
+1370 |
 
-|
+Aluminium |
 
-X
+7429-90-5 |
 
-|
+Métaux et métalloides |
 
-1530
+X |
 
 |
 
-Bromure de méthyle
-
 |
 
-74-83-9
+1373 |
 
-|
+Titane |
 
-COHV, solvants chlorés, fréons
+7440-32-6 |
 
-|
+Métaux et métalloides |
 
-X
+X |
 
 |
 
 |
 
-X
+1377 |
 
-|
+Béryllium |
 
-1577
+7440-41-7 |
 
-|
+Métaux et métalloides |
 
-Dinitrotoluène-2,6
+X |
 
 |
-
-606-20-2
 
 |
 
-Benzène et dérivés
+1379 |
 
-|
+Cobalt |
 
-|
+7440-48-4 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
-
-1578
 
 |
 
-Dinitrotoluène-2,4
+1380 |
 
-|
+Etain |
 
-121-14-2
+7440-31-5 |
 
-|
+Métaux et métalloides |
 
-Benzène et dérivés
+X |
 
 |
 
-X
-
 |
 
-|
+1384 |
 
-|
+Vanadium |
 
-1586
+7440-62-2 |
 
-|
+Métaux et métalloides |
 
-Dichloroaniline-3,4
+X |
 
 |
 
-95-76-1
-
 |
-
-Anilines et dérivés
 
-|
+1393 |
 
-X
+Fer |
 
-|
+7439-89-6 |
 
-|
+Métaux et métalloides |
 
-X
+X |
 
 |
-
-1638
 
 |
 
-Méthylphénol-4
+1395 |
 
-|
+Molybdène |
 
-106-44-5
+7439-98-7 |
 
-|
+Métaux et métalloides |
 
-Autres phénols
+X |
 
 |
 
-X
-
 |
 
-|
+1396 |
 
-|
+Baryum |
 
-1640
+7440-39-3 |
 
-|
+Métaux et métalloides |
 
-Méthylphénol-2
+X |
 
 |
 
-95-48-7
-
 |
 
-Autres phénols
+1406 |
 
-|
+Lénacile |
 
-X
+2164-08-1 |
 
-|
+Divers (autres organiques) |
 
-|
+X |
 
 |
 
-1650
+X |
 
-|
+1465 |
 
-Chlorophénol-4
+Acide monochloroacétique |
 
-|
+79-11-8 |
 
-106-48-9
+Divers (autres organiques) |
 
 |
 
-Autres phénols
+X |
 
 |
 
-X
+1480 |
 
-|
+Dicamba |
 
-|
+1918-00-9 |
 
-|
+Organochlorés |
 
-1675
+X |
 
 |
-
-Flurochloridone
 
-|
+X |
 
-61213-25-0
+1489 |
 
-|
+Phtalate de diméthyle |
 
-Divers (autres organiques)
+131-11-3 |
 
-|
+Phtalates |
 
-X
+X |
 
 |
 
 |
 
-X
+1494 |
 
-|
+Epichlorohydrine |
 
-1678
+106-89-8 |
 
-|
+Organochlorés |
 
-Diméthénamide
+X |
 
 |
-
-87674-68-8
 
 |
 
-Organochlorés
-
-|
+1498 |
 
-X
+Dibromoéthane-1,2 |
 
-|
+106-93-4 |
 
-|
+COHV, solvants chlorés, fréons |
 
-X
+X |
 
 |
 
-1744
-
-|
+X |
 
-Epoxiconazole
+1510 |
 
-|
+Mercaptodiméthur |
 
-133855-98-8
+2032-65-7 |
 
-|
+Carbamates |
 
-Triazines et métabolites
+X |
 
 |
 
-X
+X |
 
-|
+1512 |
 
-|
+Méthyl tert-butyl Ether |
 
-X
+1634-04-4 |
 
-|
+Divers (autres organiques) |
 
-1753
+X |
 
 |
-
-Chlorure de vinyle
 
 |
 
-75-01-4
-
-|
+1528 |
 
-COHV, solvants chlorés, fréons
+Pirimicarbe |
 
-|
+23103-98-2 |
 
-X
+Carbamates |
 
-|
+X |
 
 |
 
-|
+X |
 
-1830
+1530 |
 
-|
+Bromure de méthyle |
 
-Atrazine déisopropyl déséthyl
+74-83-9 |
 
-|
+COHV, solvants chlorés, fréons |
 
-3397-62-4
+X |
 
 |
-
-Triazines et métabolites
 
-|
+X |
 
-X
+1577 |
 
-|
+Dinitrotoluène-2,6 |
 
-|
+606-20-2 |
 
-X
+Benzène et dérivés |
 
 |
 
-1892
+X |
 
 |
-
-Rimsulfuron
 
-|
+1578 |
 
-122931-48-0
+Dinitrotoluène-2,4 |
 
-|
+121-14-2 |
 
-Urées et métabolites
+Benzène et dérivés |
 
-|
+X |
 
 |
-
-X
 
 |
 
-X
+1586 |
 
-|
+Dichloroaniline-3,4 |
 
-1924
+95-76-1 |
 
-|
+Anilines et dérivés |
 
-Butyl benzyl phtalate
+X |
 
 |
 
-85-68-7
+X |
 
-|
+1638 |
 
-Phtalates
+Méthylphénol-4 |
 
-|
+106-44-5 |
 
-|
+Autres phénols |
 
-X
+X |
 
 |
 
 |
 
-1929
+1640 |
 
-|
+Méthylphénol-2 |
 
-1-(3,4-dichlorophenyl)-3-methyl-uree
+95-48-7 |
 
-|
+Autres phénols |
 
-3567-62-2
+X |
 
 |
-
-Urées et métabolites
 
 |
 
-X
-
-|
+1650 |
 
-|
+Chlorophénol-4 |
 
-X
+106-48-9 |
 
-|
+Autres phénols |
 
-1945
+X |
 
 |
 
-Isoxaflutole
-
 |
-
-141112-29-0
 
-|
+1675 |
 
-Divers (autres organiques)
+Flurochloridone |
 
-|
+61213-25-0 |
 
-X
+Divers (autres organiques) |
 
-|
+X |
 
 |
-
-X
 
-|
+X |
 
-2023
+1678 |
 
-|
+Diméthénamide |
 
-Flumioxazine
+87674-68-8 |
 
-|
+Organochlorés |
 
-103361-09-7
+X |
 
 |
 
-Divers (autres organiques)
+X |
 
-|
+1744 |
 
-X
+Epoxiconazole |
 
-|
+133855-98-8 |
 
-|
+Triazines et métabolites |
 
-X
+X |
 
 |
 
-2555
-
-|
+X |
 
-Thallium
+1753 |
 
-|
+Chlorure de vinyle |
 
-7440-28-0
+75-01-4 |
 
-|
+COHV, solvants chlorés, fréons |
 
-Métaux et métalloides
+X |
 
 |
 
-X
-
 |
 
-|
+1830 |
 
-|
+Atrazine déisopropyl déséthyl |
 
-2614
+3397-62-4 |
 
-|
+Triazines et métabolites |
 
-Nitrobenzène
+X |
 
 |
 
-98-95-3
-
-|
+X |
 
-Benzène et dérivés
+1892 |
 
-|
+Rimsulfuron |
 
-X
+122931-48-0 |
 
-|
+Urées et métabolites |
 
 |
 
-|
+X |
 
-3159
+X |
 
-|
+1924 |
 
-Atrazine 2-hydroxy-desethyl
+Butyl benzyl phtalate |
 
-|
+85-68-7 |
 
-19988-24-0
+Phtalates |
 
 |
 
-Triazines et métabolites
+X |
 
 |
-
-X
 
-|
+1929 |
 
-|
+1-(3,4-dichlorophenyl)-3-methyl-uree |
 
-X
+3567-62-2 |
 
-|
+Urées et métabolites |
 
-5347
+X |
 
 |
-
-Acide perfluoro-octanoïque
 
-|
+X |
 
-335-67-1
+1945 |
 
-|
+Isoxaflutole |
 
-PFC (PFOA, PFOS)
+141112-29-0 |
 
-|
+Divers (autres organiques) |
 
-X
+X |
 
 |
 
-X
+X |
 
-|
+2023 |
 
-|
+Flumioxazine |
 
-5369
+103361-09-7 |
 
-|
+Divers (autres organiques) |
 
-Acide fénofibrique
+X |
 
 |
 
-42017-89-0
+X |
 
-|
-
-Divers (autres organiques)
+2555 |
 
-|
+Thallium |
 
-X
+7440-28-0 |
 
-|
+Métaux et métalloides |
 
-|
+X |
 
 |
-
-5396
 
 |
 
-Estrone
+2614 |
 
-|
+Nitrobenzène |
 
-53-16-7
+98-95-3 |
 
-|
+Benzène et dérivés |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+X |
 
 |
 
-X
-
 |
 
-|
+3159 |
 
-|
+Atrazine 2-hydroxy-desethyl |
 
-5400
+19988-24-0 |
 
-|
+Triazines et métabolites |
 
-Noréthindrone
+X |
 
 |
 
-68-22-4
+X |
 
-|
+5347 |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+Acide perfluoro-octanoïque |
 
-|
+335-67-1 |
 
-|
+PFC (PFOA, PFOS) |
 
-X
+X |
 
-|
+X |
 
 |
 
-5978
+5369 |
 
-|
+Acide fénofibrique |
 
-Acide perfluoro-n-hexanoÃ ¯ que
+42017-89-0 |
 
-|
+Divers (autres organiques) |
 
-307-24-4
+X |
 
 |
 
-PFC (PFOA, PFOS)
-
 |
 
-X
+5396 |
 
-|
+Estrone |
 
-|
+53-16-7 |
 
-|
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
-6733
+X |
 
 |
 
-Cyclophosphamide
-
 |
 
-50-18-0
+5400 |
 
-|
+Noréthindrone |
 
-Divers (autres organiques)
+68-22-4 |
 
-|
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
 |
-
-X
 
-|
+X |
 
 |
 
-6830
+5978 |
 
-|
+Acide perfluoro-n-hexanoÃ ¯ que |
 
-Acide sulfonique de perfluorohexane
+307-24-4 |
 
-|
+PFC (PFOA, PFOS) |
 
-355-46-4
+X |
 
 |
-
-PFC (PFOA, PFOS)
 
 |
 
-X
-
-|
+6733 |
 
-|
+Cyclophosphamide |
 
-|
+50-18-0 |
 
-6842
+Divers (autres organiques) |
 
 |
 
-Carboxy-ibuprofène
+X |
 
 |
 
-15935-54-3
-
-|
+6830 |
 
-Divers (autres organiques)
+Acide sulfonique de perfluorohexane |
 
-|
+355-46-4 |
 
-|
+PFC (PFOA, PFOS) |
 
-X
+X |
 
 |
 
 |
 
-7011
-
-|
+6842 |
 
-1-Hydroxy Ibuprofène
+Carboxy-ibuprofène |
 
-|
+15935-54-3 |
 
-53949-53-4
+Divers (autres organiques) |
 
 |
-
-Divers (autres organiques)
 
-|
+X |
 
 |
 
-X
+7011 |
 
-|
+1-Hydroxy Ibuprofène |
 
-|
+53949-53-4 |
 
-7594
+Divers (autres organiques) |
 
 |
 
-Bisphenol S
+X |
 
 |
 
-80-09-1
+7594 |
 
-|
+Bisphenol S |
 
-Divers (autres organiques)
+80-09-1 |
 
-|
+Divers (autres organiques) |
 
 |
 
-X
-
-|
+X |
 
 |
 
 Matrice sédiment
 
-Tableau 21.-Substances pertinentes complémentaires pour la métropole à surveiller dans les eaux de surface, matrice sédiment
+Tableau 28 : substances pertinentes complémentaires pour la métropole à surveiller dans les eaux de surface, matrice sédiment
 
-CODE
+Code
 
-SANDRE
+Sandre |
 
-|
-
-PARAMÈTRE
-
-|
-
-N° CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1094
-
-|
-
-Lambda-cyhalothrine
-
-|
-
-91465-08-6
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-1194
-
-|
-
-Flusilazole
-
-|
-
-85509-19-9
-
-|
-
-Triazines et métabolites
-
-|
-
-X
-
-|
-
-|
-
-1234
-
-|
-
-Pendiméthaline
-
-|
-
-40487-42-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-1278
-
-|
-
-Toluène
-
-|
-
-108-88-3
-
-|
-
-Benzène et dérivés
-
-|
-
-X
-
-|
-
-|
-
-1359
-
-|
-
-Cyprodinil
-
-|
-
-121552-61-2
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-1361
-
-|
-
-Uranium
-
-|
-
-7440-61-1
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1364
-
-|
-
-Lithium
-
-|
-
-7439-93-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1368
-
-|
-
-Argent
-
-|
-
-7440-22-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1369
-
-|
-
-Arsenic
-
-|
-
-7440-38-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-7429-90-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1373
-
-|
-
-Titane
-
-|
-
-7440-32-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1377
-
-|
-
-Béryllium
-
-|
-
-7440-41-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1379
-
-|
-
-Cobalt
-
-|
-
-7440-48-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1380
-
-|
-
-Etain
-
-|
-
-7440-31-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1383
-
-|
-
-Zinc
-
-|
-
-7440-66-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1384
-
-|
-
-Vanadium
-
-|
-
-7440-62-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1389
-
-|
-
-Chrome
-
-|
-
-7440-47-3
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1392
-
-|
-
-Cuivre
-
-|
-
-7440-50-8
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-7439-89-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1395
-
-|
-
-Molybdène
-
-|
-
-7439-98-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1396
-
-|
-
-Baryum
-
-|
-
-7440-39-3
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1453
-
-|
-
-Acénaphtène
-
-|
-
-83-32-9
-
-|
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
-
-|
-
-X
-
-|
+Paramètre |
 
-|
-
-1524
-
-|
+N° CAS |
 
-Phénanthrène
+Famille Chimique |
 
-|
-
-85-01-8
-
-|
+Liste |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+A |
 
-|
+B |
 
-X
+1094 |
 
-|
+Lambda-cyhalothrine |
 
-|
+91465-08-6 |
 
-1584
+Divers (autres organiques) |
 
 |
-
-Biphényle
 
-|
+X |
 
-92-52-4
+1194 |
 
-|
+Flusilazole |
 
-Benzène et dérivés
+85509-19-9 |
 
-|
+Triazines et métabolites |
 
-X
+X |
 
 |
 
-|
+1234 |
 
-1618
+Pendiméthaline |
 
-|
+40487-42-1 |
 
-Méthyl-2-Naphtalène
+Divers (autres organiques) |
 
 |
 
-91-57-6
+X |
 
-|
+1278 |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+Toluène |
 
-|
+108-88-3 |
 
-X
+Benzène et dérivés |
 
-|
+X |
 
 |
 
-1631
+1359 |
 
-|
-
-Tetrachlorobenzène-1,2,4,5
+Cyprodinil |
 
-|
+121552-61-2 |
 
-95-94-3
+Divers (autres organiques) |
 
 |
 
-Chlorobenzène et mono-aromatiques halogénés
+X |
 
-|
+1361 |
 
-X
+Uranium |
 
-|
+7440-61-1 |
 
-|
+Métaux et métalloides |
 
-1780
+X |
 
 |
 
-Xylène
-
-|
+1364 |
 
-1330-20-7
+Lithium |
 
-|
+7439-93-2 |
 
-COHV, solvants chlorés, fréons
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-X
+1368 |
 
-|
+Argent |
 
-1814
+7440-22-4 |
 
-|
+Métaux et métalloides |
 
-Diflufenicanil
+X |
 
 |
 
-83164-33-4
+1369 |
 
-|
-
-Divers (autres organiques)
+Arsenic |
 
-|
+7440-38-2 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-1815
+1370 |
 
-|
+Aluminium |
 
-Décabromodiphényl éther
+7429-90-5 |
 
-|
+Métaux et métalloides |
 
-1163-19-5
+X |
 
 |
 
-PBDE et PBB
-
-|
+1373 |
 
-X
+Titane |
 
-|
+7440-32-6 |
 
-|
+Métaux et métalloides |
 
-1924
+X |
 
 |
 
-Butyl benzyl phtalate
-
-|
+1377 |
 
-85-68-7
+Béryllium |
 
-|
+7440-41-7 |
 
-Phtalates
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-X
+1379 |
 
-|
+Cobalt |
 
-1936
+7440-48-4 |
 
-|
+Métaux et métalloides |
 
-Tétrabutylétain
+X |
 
 |
 
-1461-25-2
+1380 |
 
-|
-
-Organométalliques
+Etain |
 
-|
+7440-31-5 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-1952
+1383 |
 
-|
+Zinc |
 
-Oxyfluorfène
+7440-66-6 |
 
-|
+Métaux et métalloides |
 
-42874-03-3
+X |
 
 |
 
-Divers (autres organiques)
-
-|
+1384 |
 
-|
+Vanadium |
 
-X
+7440-62-2 |
 
-|
+Métaux et métalloides |
 
-2010
+X |
 
 |
 
-1,2,3,4-Tetrachlorobenzene
+1389 |
 
-|
+Chrome |
 
-634-66-2
+7440-47-3 |
 
-|
+Métaux et métalloides |
 
-Chlorobenzène et mono-aromatiques halogénés
+X |
 
 |
 
-X
+1392 |
 
-|
-
-|
+Cuivre |
 
-2536
+7440-50-8 |
 
-|
+Métaux et métalloides |
 
-1,2,3,5 tétrachlorobenzène
+X |
 
 |
 
-634-66-2
+1393 |
 
-|
-
-Chlorobenzène et mono-aromatiques halogénés
+Fer |
 
-|
+7439-89-6 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-2542
+1395 |
 
-|
+Molybdène |
 
-Monobutylétain cation
+7439-98-7 |
 
-|
+Métaux et métalloides |
 
-78763-54-9
+X |
 
 |
 
-Organométalliques
-
-|
+1396 |
 
-|
+Baryum |
 
-X
+7440-39-3 |
 
-|
+Métaux et métalloides |
 
-2547
+X |
 
 |
 
-Fluroxypyr-meptyl
-
-|
+1453 |
 
-81406-37-3
+Acénaphtène |
 
-|
+83-32-9 |
 
-Divers (autres organiques)
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-|
+X |
 
 |
 
-X
+1524 |
 
-|
+Phénanthrène |
 
-2555
+85-01-8 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-Thallium
+X |
 
 |
 
-7440-28-0
+1584 |
 
-|
-
-Métaux et métalloides
+Biphényle |
 
-|
+92-52-4 |
 
-X
+Benzène et dérivés |
 
-|
+X |
 
 |
 
-2610
+1618 |
 
-|
+Méthyl-2-Naphtalène |
 
-4-tert-butylphénol
+91-57-6 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-98-54-4
+X |
 
 |
 
-Alkylphénols, nonylphénols et bisphénols A
-
-|
+1631 |
 
-|
+Tetrachlorobenzène-1,2,4,5 |
 
-X
+95-94-3 |
 
-|
+Chlorobenzène et mono-aromatiques halogénés |
 
-3383
+X |
 
 |
 
-Dodécyl phénol
-
-|
+1780 |
 
-27193-86-8
+Xylène |
 
-|
+1330-20-7 |
 
-Alkylphénols, nonylphénols et bisphénols A
+COHV, solvants chlorés, fréons |
 
 |
 
-|
+X |
 
-X
+1814 |
 
-|
+Diflufenicanil |
 
-5360
+83164-33-4 |
 
-|
+Divers (autres organiques) |
 
-Clotrimazole
+X |
 
 |
 
-23593-75-1
+1815 |
 
-|
-
-Divers (autres organiques)
+Décabromodiphényl éther |
 
-|
+1163-19-5 |
 
-|
+PBDE et PBB |
 
-X
+X |
 
 |
 
-5921
+1924 |
 
-|
-
-Tetramethrin
+Butyl benzyl phtalate |
 
-|
+85-68-7 |
 
-7696-12-0
+Phtalates |
 
 |
 
-Divers (autres organiques)
+X |
 
-|
+1936 |
 
-|
+Tétrabutylétain |
 
-X
+1461-25-2 |
 
-|
+Organométalliques |
 
-6215
+X |
 
 |
 
-Diisononyl phtalate
-
-|
+1952 |
 
-28553-12-0
+Oxyfluorfène |
 
-|
+42874-03-3 |
 
-Phtalates
+Divers (autres organiques) |
 
 |
 
-|
+X |
 
-X
+2010 |
 
-|
+1,2,3,4-Tetrachlorobenzene |
 
-6372
+634-66-2 |
 
-|
+Chlorobenzène et mono-aromatiques halogénés |
 
-Triphénylétain cation
+X |
 
 |
 
-668-34-8
+2536 |
 
-|
-
-Organométalliques
+1,2,3,5 tétrachlorobenzène |
 
-|
+634-66-2 |
 
-X
+Chlorobenzène et mono-aromatiques halogénés |
 
-|
+X |
 
 |
 
-6536
+2542 |
 
-|
-
-4-Methylbenzylidene camphor
+Monobutylétain cation |
 
-|
+78763-54-9 |
 
-36861-47-9
+Organométalliques |
 
 |
-
-Divers (autres organiques)
 
-|
+X |
 
-|
+2547 |
 
-X
+Fluroxypyr-meptyl |
 
-|
+81406-37-3 |
 
-6657
+Divers (autres organiques) |
 
 |
 
-Tetrabromobisphenol A bis (2,3-dibromopropyl ether)
+X |
 
-|
+2555 |
 
-21850-44-2
+Thallium |
 
-|
+7440-28-0 |
 
-Divers (autres organiques)
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-X
-
-|
+2610 |
 
-6658
+4-tert-butylphénol |
 
-|
+98-54-4 |
 
-Diisodecyl phthalate
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
-
-26761-40-0
 
-|
+X |
 
-Phtalates
+3383 |
 
-|
+Dodécyl phénol |
 
-|
+27193-86-8 |
 
-X
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
 
-6664
+X |
 
-|
+5360 |
 
-Methyl triclosan
+Clotrimazole |
 
-|
+23593-75-1 |
 
-4640-01-1
+Divers (autres organiques) |
 
 |
-
-Autres phénols
 
-|
+X |
 
-|
+5921 |
 
-X
+Tetramethrin |
 
-|
+7696-12-0 |
 
-6686
+Divers (autres organiques) |
 
 |
-
-Octocrylene
 
-|
+X |
 
-6197-30-4
+6215 |
 
-|
+Diisononyl phtalate |
 
-Divers (autres organiques)
+28553-12-0 |
 
-|
+Phtalates |
 
 |
-
-X
 
-|
+X |
 
-6716
+6372 |
 
-|
+Triphénylétain cation |
 
-Amiodarone
+668-34-8 |
 
-|
+Organométalliques |
 
-1951-25-3
+X |
 
 |
 
-Divers (autres organiques)
+6536 |
 
-|
+4-Methylbenzylidene camphor |
 
-|
+36861-47-9 |
 
-X
+Divers (autres organiques) |
 
 |
 
-7020
+X |
 
-|
+6657 |
 
-Plomb diethyl
+Tetrabromobisphenol A bis (2,3-dibromopropyl ether) |
 
-|
+21850-44-2 |
 
-24952-65-6
+Divers (autres organiques) |
 
 |
-
-Organométalliques
 
-|
+X |
 
-|
+6658 |
 
-X
+Diisodecyl phthalate |
 
-|
+26761-40-0 |
 
-7074
+Phtalates |
 
 |
-
-Dibutyletain cation
 
-|
+X |
 
-14488-53-0
+6664 |
 
-|
+Methyl triclosan |
 
-Organométalliques
+4640-01-1 |
 
-|
+Autres phénols |
 
 |
 
-X
+X |
 
-|
+6686 |
 
-7101
+Octocrylene |
 
-|
+6197-30-4 |
 
-4-sec-Butyl-2,6-di-tert-butylphenol
+Divers (autres organiques) |
 
 |
-
-17540-75-9
 
-|
+X |
 
-Divers (autres organiques)
+6716 |
 
-|
+Amiodarone |
 
-|
+1951-25-3 |
 
-X
+Divers (autres organiques) |
 
 |
 
-7102
+X |
 
-|
+7020 |
 
-Anthanthrene
+Plomb diethyl |
 
-|
+24952-65-6 |
 
-191-26-4
+Organométalliques |
 
 |
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
 
-|
+X |
 
-|
+7074 |
 
-X
+Dibutyletain cation |
 
-|
+14488-53-0 |
 
-7118
+Organométalliques |
 
 |
-
-Diosgenin
 
-|
+X |
 
-512-04-9
+7101 |
 
-|
+4-sec-Butyl-2,6-di-tert-butylphenol |
 
-Divers (autres organiques)
+17540-75-9 |
 
-|
+Divers (autres organiques) |
 
 |
 
-X
+X |
 
-|
+7102 |
 
-7129
+Anthanthrene |
 
-|
+191-26-4 |
 
-Irganox 1076
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
 |
-
-2082-79-3
 
-|
+X |
 
-Divers (autres organiques)
+7118 |
 
-|
+Diosgenin |
 
-|
+512-04-9 |
 
-X
+Divers (autres organiques) |
 
 |
 
-7131
+X |
 
-|
+7129 |
 
-Tetrabromobisphenol A
+Irganox 1076 |
 
-|
+2082-79-3 |
 
-79-94-7
+Divers (autres organiques) |
 
 |
-
-Divers (autres organiques)
 
-|
+X |
 
-|
+7131 |
 
-X
+Tetrabromobisphenol A |
 
-|
+79-94-7 |
 
-7495
+Divers (autres organiques) |
 
 |
-
-Diphényl étain cation
 
-|
+X |
 
-53675-52-8
+7495 |
 
-|
+Diphényl étain cation |
 
-Organométalliques
+53675-52-8 |
 
-|
+Organométalliques |
 
 |
 
-X
-
-|
+X |
 
-SUBSTANCES COMPLÉMENTAIRES POUR LES DOM
+SUBSTANCES COMPLEMENTAIRES POUR LES DOM
 
 Matrice eau
 
-Tableau 22.-Substances pertinentes complémentaires pour les DOM à surveiller dans les eaux de surface, matrice eau
+Tableau 29 : substances pertinentes complémentaires pour les DOM à surveiller dans les eaux de surface, matrice eau
 
-CODE
+Code Sandre |
 
-Sandre
+Paramètre |
 
-|
-
-PARAMÈTRE
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-USAGE PESTICIDE
-
-ou métabolite
-
-de pesticide
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1210
-
-|
-
-Malathion (*)
-
-|
-
-121-75-5
-
-|
-
-Organophosphorés
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-1361
-
-|
-
-Uranium (*)
-
-|
-
-7440-61-1
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1364
-
-|
-
-Lithium (*)
-
-|
-
-7439-93-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1368
-
-|
-
-Argent (*)
-
-|
-
-7440-22-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium (*)
-
-|
-
-7429-90-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1373
-
-|
-
-Titane (*)
-
-|
-
-7440-32-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1377
-
-|
-
-Béryllium (*)
-
-|
-
-7440-41-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1379
-
-|
-
-Cobalt (*)
-
-|
-
-7440-48-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-|
-
-1380
-
-|
+Code CAS |
 
-Etain (*)
+Famille chimique |
 
-|
-
-7440-31-5
+Liste |
 
-|
+Usage pesticide ou métabolite de pesticide |
 
-Métaux et métalloides
-
-|
+A |
 
-X
+B |
 
-|
+1210 |
 
-|
+Malathion (*) |
 
-|
+121-75-5 |
 
-1384
+Organophosphorés |
 
 |
-
-Vanadium (*)
 
-|
+X |
 
-7440-62-2
+X |
 
-|
+1361 |
 
-Métaux et métalloides
+Uranium (*) |
 
-|
+7440-61-1 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
 |
 
-1393
+1364 |
 
-|
+Lithium (*) |
 
-Fer (*)
+7439-93-2 |
 
-|
+Métaux et métalloides |
 
-7439-89-6
+X |
 
 |
-
-Métaux et métalloides
 
 |
 
-X
+1368 |
 
-|
+Argent (*) |
 
-|
+7440-22-4 |
 
-|
+Métaux et métalloides |
 
-1395
+X |
 
 |
-
-Molybdène (*)
 
 |
 
-7439-98-7
+1370 |
 
-|
+Aluminium (*) |
 
-Métaux et métalloides
-
-|
+7429-90-5 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
 |
 
-1396
+1373 |
 
-|
+Titane (*) |
 
-Baryum (*)
+7440-32-6 |
 
-|
+Métaux et métalloides |
 
-7440-39-3
+X |
 
 |
-
-Métaux et métalloides
 
 |
 
-X
+1377 |
 
-|
+Béryllium (*) |
 
-|
+7440-41-7 |
 
-|
+Métaux et métalloides |
 
-1877
+X |
 
 |
 
-Imidaclopride
-
 |
-
-138261-41-3
 
-|
+1379 |
 
-Divers (autres organiques)
+Cobalt (*) |
 
-|
+7440-48-4 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
-
-X
 
 |
 
-1924
+1380 |
 
-|
+Etain (*) |
 
-Butyl benzyl phtalate (*)
+7440-31-5 |
 
-|
+Métaux et métalloides |
 
-85-68-7
+X |
 
 |
 
-Phtalates
-
 |
 
-|
+1384 |
 
-X
+Vanadium (*) |
 
-|
+7440-62-2 |
 
-|
+Métaux et métalloides |
 
-2555
+X |
 
 |
 
-Thallium (*)
-
 |
-
-7440-28-0
 
-|
+1393 |
 
-Métaux et métalloides
+Fer (*) |
 
-|
+7439-89-6 |
 
-X
+Métaux et métalloides |
 
-|
+X |
 
 |
 
 |
 
-5372
+1395 |
 
-|
+Molybdène (*) |
 
-Diazepam (*)
+7439-98-7 |
 
-|
+Métaux et métalloides |
 
-439-14-5
+X |
 
 |
 
-Divers (autres organiques)
-
 |
 
-X
+1396 |
 
-|
+Baryum (*) |
 
-|
+7440-39-3 |
 
-|
+Métaux et métalloides |
 
-5374
+X |
 
 |
 
-Lorazepam (*)
-
 |
 
-846-49-1
+1877 |
 
-|
+Imidaclopride |
 
-Divers (autres organiques)
+138261-41-3 |
 
-|
+Divers (autres organiques) |
 
-X
+X |
 
 |
 
-|
+X |
 
-|
+1924 |
 
-5396
+Butyl benzyl phtalate (*) |
 
-|
+85-68-7 |
 
-Estrone (*)
+Phtalates |
 
 |
 
-53-16-7
+X |
 
 |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+2555 |
 
-|
+Thallium (*) |
 
-X
+7440-28-0 |
 
-|
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-5400
-
 |
 
-Noréthindrone (*)
+5372 |
 
-|
+Diazepam (*) |
 
-68-22-4
+439-14-5 |
 
-|
+Divers (autres organiques) |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+X |
 
 |
 
 |
 
-X
-
-|
+5374 |
 
-|
+Lorazepam (*) |
 
-6366
+846-49-1 |
 
-|
+Divers (autres organiques) |
 
-4-nonylphenol monoethoxylate (mélange d'isomères)
+X |
 
 |
 
 |
 
-Alkylphénols, nonylphénols et bisphénols A
+5396 |
 
-|
+Estrone (*) |
 
-X
+53-16-7 |
 
-|
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
-|
+X |
 
 |
-
-6525
 
 |
 
-Sulfamethazine (*)
+5400 |
 
-|
+Noréthindrone (*) |
 
-57-68-1
-
-|
+68-22-4 |
 
-Divers (autres organiques)
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
 |
 
-X
+X |
 
 |
 
-|
-
-|
+6366 |
 
-7136
+4-nonylphenol monoethoxylate (mélange d'isomères) |
 
 |
-
-Acetazolamide (*)
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-59-66-5
+X |
 
 |
-
-Divers (autres organiques)
 
 |
 
-|
+6525 |
 
-X
+Sulfamethazine (*) |
 
-|
+57-68-1 |
 
-|
+Divers (autres organiques) |
 
-7140
+X |
 
 |
 
-Midazolam (*)
-
 |
 
-59467-70-8
+7136 |
 
-|
+Acetazolamide (*) |
 
-Divers (autres organiques)
+59-66-5 |
 
-|
+Divers (autres organiques) |
 
 |
-
-X
 
-|
+X |
 
 |
-
-7141
 
-|
+7140 |
 
-1,3,5-Benzenetriol (*)
+Midazolam (*) |
 
-|
+59467-70-8 |
 
-108-73-6
+Divers (autres organiques) |
 
 |
-
-Divers (autres organiques)
 
-|
+X |
 
 |
 
-X
+7141 |
 
-|
+1,3,5-Benzenetriol (*) |
 
-|
+108-73-6 |
 
-7594
+Divers (autres organiques) |
 
 |
 
-Bisphenol S (*)
+X |
 
 |
 
-80-09-1
+7594 |
 
-|
+Bisphenol S (*) |
 
-Divers (autres organiques)
+80-09-1 |
 
-|
+Divers (autres organiques) |
 
 |
-
-X
 
-|
+X |
 
 |
 
-(*) Optionnel pour La Réunion
-
-|
+(*) Optionnel pour la Réunion |
 
 Matrice sédiment
 
-Tableau 23.-Substances pertinentes complémentaires pour les DOM à surveiller dans les eaux de surface, matrice sédiment
+Tableau 30 : substances pertinentes complémentaires pour les DOM à surveiller dans les eaux de surface, matrice sédiment
 
-CODE SANDRE
+Code Sandre |
 
-|
-
-PARAMÈTRE
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1210
-
-|
-
-Malathion
-
-|
-
-121-75-5
-
-|
-
-Organophosphorés
-
-|
-
-|
-
-|
-
-1361
-
-|
-
-Uranium
-
-|
-
-7440-61-1
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1364
-
-|
-
-Lithium
-
-|
-
-7439-93-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1368
-
-|
-
-Argent
-
-|
-
-7440-22-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-7429-90-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1373
-
-|
-
-Titane
-
-|
-
-7440-32-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1377
-
-|
-
-Béryllium
-
-|
-
-7440-41-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1379
-
-|
-
-Cobalt
-
-|
-
-7440-48-4
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1380
-
-|
-
-Etain
-
-|
-
-7440-31-5
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1384
-
-|
-
-Vanadium
-
-|
-
-7440-62-2
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1393
-
-|
-
-Fer
-
-|
-
-7439-89-6
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1395
-
-|
-
-Molybdène
-
-|
-
-7439-98-7
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-1396
-
-|
-
-Baryum
-
-|
-
-7440-39-3
-
-|
-
-Métaux et métalloides
-
-|
-
-X
+Paramètre |
 
-|
-
-|
-
-1815
-
-|
-
-Décabromodiphényl éther
-
-|
-
-1163-19-5
-
-|
-
-PBDE et PBB
-
-|
-
-X
-
-|
-
-|
-
-1877
-
-|
-
-Imidaclopride (*)
-
-|
-
-138261-41-3
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-|
-
-1924
-
-|
-
-Butyl benzyl phtalate
-
-|
-
-85-68-7
-
-|
-
-Phtalates
-
-|
-
-|
-
-X
-
-|
-
-2555
-
-|
-
-Thallium
-
-|
-
-7440-28-0
-
-|
-
-Métaux et métalloides
-
-|
-
-X
-
-|
-
-|
-
-2610
-
-|
-
-4-tert-butylphénol
-
-|
-
-98-54-4
-
-|
-
-Alkylphénols, nonylphénols et bisphénols A
-
-|
-
-|
-
-X
-
-|
-
-5360
-
-|
-
-Clotrimazole
-
-|
-
-23593-75-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-X
-
-|
-
-5372
-
-|
-
-Diazepam
-
-|
-
-439-14-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-|
-
-5374
-
-|
-
-Lorazepam
-
-|
-
-846-49-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-|
-
-5396
-
-|
-
-Estrone
-
-|
-
-53-16-7
-
-|
-
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+Code CAS |
 
-|
-
-|
+Famille chimique |
 
-|
+Liste |
 
-5400
+A |
 
-|
+B |
 
-Noréthindrone
+1361 |
 
-|
+Uranium |
 
-68-22-4
+7440-61-1 |
 
-|
+Métaux et métalloides |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
+X |
 
 |
 
-|
+1364 |
 
-|
+Lithium |
 
-5921
+7439-93-2 |
 
-|
+Métaux et métalloides |
 
-Tetramethrin
+X |
 
 |
-
-7696-12-0
 
-|
+1368 |
 
-Divers (autres organiques)
+Argent |
 
-|
+7440-22-4 |
 
-|
+Métaux et métalloides |
 
-X
+X |
 
 |
-
-6366
 
-|
+1370 |
 
-4-nonylphenol monoethoxylate (mélange d'isomères) (*)
+Aluminium |
 
-|
+7429-90-5 |
 
-|
+Métaux et métalloides |
 
-Alkylphénols, nonylphénols et bisphénols A
+X |
 
 |
 
-X
+1373 |
 
-|
-
-|
+Titane |
 
-6525
+7440-32-6 |
 
-|
+Métaux et métalloides |
 
-Sulfamethazine
+X |
 
 |
 
-57-68-1
+1377 |
 
-|
+Béryllium |
 
-Divers (autres organiques)
+7440-41-7 |
 
-|
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-6716
+1379 |
 
-|
+Cobalt |
 
-Amiodarone
+7440-48-4 |
 
-|
+Métaux et métalloides |
 
-1951-25-3
+X |
 
 |
-
-Divers (autres organiques)
 
-|
+1380 |
 
-|
+Etain |
 
-X
+7440-31-5 |
 
-|
+Métaux et métalloides |
 
-7020
+X |
 
 |
 
-Plomb diethyl
-
-|
+1384 |
 
-24952-65-6
+Vanadium |
 
-|
+7440-62-2 |
 
-Organométalliques
+Métaux et métalloides |
 
-|
+X |
 
 |
 
-X
+1393 |
 
-|
+Fer |
 
-7074
+7439-89-6 |
 
-|
+Métaux et métalloides |
 
-Dibutyletain cation
+X |
 
 |
 
-14488-53-0
+1395 |
 
-|
+Molybdène |
 
-Organométalliques
-
-|
+7439-98-7 |
 
-|
+Métaux et métalloides |
 
-X
+X |
 
 |
 
-7099
+1396 |
 
-|
+Baryum |
 
-2,6-di-tert-butyl-4-phenylphenol
+7440-39-3 |
 
-|
+Métaux et métalloides |
 
-2668-47-5
+X |
 
 |
-
-Alkylphénols, nonylphénols et bisphénols A
 
-|
+1815 |
 
-|
+Décabromodiphényl éther |
 
-X
+1163-19-5 |
 
-|
+PBDE et PBB |
 
-7101
+X |
 
 |
 
-4-sec-Butyl-2,6-di-tert-butylphenol
+1924 |
 
-|
-
-17540-75-9
+Butyl benzyl phtalate |
 
-|
+85-68-7 |
 
-Divers (autres organiques)
+Phtalates |
 
 |
 
-|
+X |
 
-X
+2555 |
 
-|
+Thallium |
 
-7102
+7440-28-0 |
 
-|
+Métaux et métalloides |
 
-Anthanthrene
+X |
 
 |
 
-191-26-4
+2610 |
 
-|
+4-tert-butylphénol |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+98-54-4 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
 
-X
+X |
 
-|
+5360 |
 
-7118
+Clotrimazole |
 
-|
+23593-75-1 |
 
-Diosgenin
+Divers (autres organiques) |
 
 |
 
-512-04-9
-
-|
+X |
 
-Divers (autres organiques)
+5921 |
 
-|
+Tetramethrin |
 
-|
+7696-12-0 |
 
-X
+Divers (autres organiques) |
 
 |
 
-7129
+X |
 
-|
+6366 |
 
-Irganox 1076
+4-nonylphenol monoethoxylate (mélange d'isomères) (**) |
 
 |
 
-2082-79-3
+Alkylphénols, nonylphénols et bisphénols A |
 
-|
-
-Divers (autres organiques)
+X |
 
 |
 
-|
+6716 |
 
-X
+Amiodarone |
 
-|
+1951-25-3 |
 
-7131
+Divers (autres organiques) |
 
 |
 
-Tetrabromobisphenol A
+X |
 
-|
-
-79-94-7
+7020 |
 
-|
+Plomb diethyl |
 
-Divers (autres organiques)
+24952-65-6 |
 
-|
+Organométalliques |
 
 |
 
-X
+X |
 
-|
+7074 |
 
-7136
+Dibutyletain cation |
 
-|
+14488-53-0 |
 
-Acetazolamide
+Organométalliques |
 
 |
 
-59-66-5
+X |
 
-|
+7099 |
 
-Divers (autres organiques)
+2,6-di-tert-butyl-4-phenylphenol |
 
-|
+2668-47-5 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
 
-7140
+X |
 
-|
+7101 |
 
-Midazolam
+4-sec-Butyl-2,6-di-tert-butylphenol |
 
-|
+17540-75-9 |
 
-59467-70-8
+Divers (autres organiques) |
 
 |
 
-Divers (autres organiques)
+X |
 
-|
+7102 |
 
-|
+Anthanthrene |
 
-|
+191-26-4 |
 
-7141
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
 |
 
-1,3,5-Benzenetriol
+X |
 
-|
+7118 |
 
-108-73-6
+Diosgenin |
 
-|
+512-04-9 |
 
-Divers (autres organiques)
+Divers (autres organiques) |
 
 |
 
-|
+X |
 
-|
+7129 |
 
-7594
+Irganox 1076 |
 
-|
+2082-79-3 |
 
-Bisphenol S
+Divers (autres organiques) |
 
 |
 
-80-09-1
+X |
 
-|
+7131 |
 
-Divers (autres organiques)
+Tetrabromobisphenol A |
 
-|
+79-94-7 |
 
-|
+Divers (autres organiques) |
 
 |
 
-La surveillance sur sédiment dans les cours d'eau n'est pas pertinente à La Réunion.
+X |
 
-Compte tenu de la répartition des sédiments à la Martinique, il est possible que sur certains sites de surveillance les quantités de sédiment ne soient pas suffisantes pour la réalisation d'analyses.
+La surveillance sur sédiment dans les cours d'eau n'est pas pertinente à la Réunion.
 
-(*) Seuls ces paramètres sont obligatoires à La Réunion. Les autres paramètres sont optionnels pour La Réunion.
+Compte tenu de la répartition des sédiments à la Martinique et en Guadeloupe, il est possible que sur certains sites de surveillance les quantités de sédiment ne soient pas suffisantes pour la réalisation d'analyses.
 
-|
+(**) Seuls ces paramètres sont obligatoires à la Réunion. Les autres paramètres sont optionnels pour la Réunion. |

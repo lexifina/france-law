@@ -1,130 +1,74 @@
 # Article Annexe VIII
 
-DENSITÉS MINIMALES DES SITES , PARAMÈTRES ET FRÉQUENCES POUR LE PROGRAMME DE CONTRÔLE DE SURVEILLANCE DE L'ÉTAT CHIMIQUE DES EAUX SOUTERRAINES
+DENSITÉS MINIMALES DES SITES , PARAMÈTRES ET FRÉQUENCES POUR LE PROGRAMME DE CONTRÔLE DE SURVEILLANCE
+
+DE L'ÉTAT CHIMIQUE DES EAUX SOUTERRAINES
 
 1. Densités minimales
 
-Tableau 43.-Densités minimales pour le réseau de surveillance de l'état chimique des eaux souterraines
+Tableau 53 : densités minimales pour le réseau de surveillance de l'état chimique des eaux souterraines
 
-TYPE DE LA MASSE D'EAU SOUTERRAINE
+TYPE DE LA MASSE D'EAU SOUTERRAINE |
 
-|
+Valeurs guides de
 
-Valeurs guides de densité
+DENSITÉ minimale (2)
 
-minimale (2)
+(nombre de points/ km2) |
 
-(nombre de points/ km2)
+Classes de masses d'eau souterraine |
 
-|
+Nature des écoulements |
 
-Classes de masses d'eau souterraine
+Dominante sédimentaire non alluviale (DS) |
 
-|
+Libre (s) et captif dissociés |
 
-Nature des écoulements
+Entièrement libre (EL) |
 
-|
+Avec présence de karstification |
 
-Dominante sédimentaire non alluviale (DS)
+1/500 |
 
-|
+Sans présence de karstification |
 
-Libre (s) et captif dissociés
+1/500 |
 
-|
+Entièrement captif (EC) |
 
-Entièrement libre (EL)
+1/3000 |
 
-|
+Libre (s) et captif associés |
 
-Avec présence de karstification
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement captifs MC) |
 
-|
+1/3000 |
 
-1/500
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement libres (ML) |
 
-|
+1/500 |
 
-Sans présence de karstification
+Alluvial (A) |
 
-|
+1/500 |
 
-1/500
+Socle (S) |
 
-|
+1/3500 |
 
-Entièrement captif (EC)
+Edifice volcanique (EV) |
 
-|
+1/3500 |
 
-1/3000
+Système hydraulique composite propre aux zones intensément plissées de montagne (IP) |
 
-|
+1/3500 |
 
-Libre (s) et captif associés
+Système imperméable localement aquifère (IL) |
 
-|
-
-Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement captifs MC)
-
-|
-
-1/3000
-
-|
-
-Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement libres (ML)
-
-|
-
-1/500
-
-|
-
-Alluvial (A)
-
-|
-
-1/500
-
-|
-
-Socle (S)
-
-|
-
-1/3500
-
-|
-
-Edifice volcanique (EV)
-
-|
-
-1/3500
-
-|
-
-Système hydraulique composite propre aux zones intensément plissées de montagne (IP)
-
-|
-
-1/3500
-
-|
-
-Système imperméable localement aquifère (IL)
-
-|
-
-Au cas par cas en tenant compte des connaissances sur le fonctionnement hydrodynamique du système
-
-|
+Au cas par cas en tenant compte des connaissances sur le fonctionnement hydrodynamique du système. |
 
 (2) Les densités indicatives données dans le tableau ci-dessus peuvent être toutefois diminuées sur la base des connaissances techniques et des avis d'experts argumentés, si cette diminution n'influe pas sur le niveau de connaissance de l'état de la masse d'eau.
-
-|
 
 2. Paramètres et fréquences
 
@@ -134,13 +78,13 @@ Il convient notamment d'ajouter aux listes ci-dessous les paramètres indicatifs
 
 Certaines substances sont identifiées comme faisant partie d'une liste A, d'une liste B ou à la fois d'une liste A et d'une liste B.
 
-Les substances faisant partie de la liste A sont surveillées dès le début de cycle en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux.
+Les substances faisant partie de la liste A sont surveillées dès le début de cycle en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux.
 
-Les substances faisant partie de la liste B sont surveillées à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
+Les substances faisant partie de la liste B sont surveillées à partir du milieu du cycle, soit à partir de 2019, en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques.
 
-Pour les substances identifiées comme faisant partie la fois de la liste A et de la liste B, la surveillance doit être menée sur les trois premières années du cycle en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques, et la surveillance pour le reste du cycle (à compter de 2019) doit respecter la nouvelle LQ en vigueur dans l'avis l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques, si elle existe.
+Pour les substances identifiées comme faisant partie la fois de la liste A et de la liste B, la surveillance doit être menée sur les trois premières années du cycle en respectant la LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques, et la surveillance pour le reste du cycle (à compter de 2019) doit respecter la nouvelle LQ en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques, si elle existe.
 
-Trois niveaux d'analyses sont à mener pour le contrôle de surveillance de l'état chimique des eaux souterraines :
+- Trois niveaux d'analyses (régulière, photographique et intermédiaire) décrits aux 2.1, 2.2 et 2.3 ci-dessous sont à mener pour le contrôle de surveillance de l'état chimique des eaux souterraines.
 
 2.1. Analyse régulière
 
@@ -148,6279 +92,3417 @@ Réalisée tous les ans sur tous les sites du programme de contrôle de surveill
 
 Les paramètres à analyser à minima dans ce cadre comprennent les paramètres listés dans les deux tableaux ci-dessous :
 
-Tableau 44.-Paramètres de l'analyse régulière du contrôle de surveillance de l'état chimique des eaux souterraines
+Tableau 54 : paramètres de l'analyse régulière du contrôle de surveillance de l'état chimique des eaux souterraines
 
-CODE
+Code
 
-SANDRE
+Sandre |
 
-|
-
-NOM SANDRE
-
-|
-
-CODE CAS
-
-|
-
-FOND
-
-GÉOCHIMIQUE
-
-ÉLEVÉ RECONNU
-
-COMME POSSIBLE
-
-EN FRANCE
-
-|
-
-FRACTION
-
-À ANALYSER
-
-|
-
-LABORATOIRE/ IN SITU
-
-|
-
-LQ
-
-|
-
-UNITÉ
-
-|
-
-1295
-
-|
-
-Turbidité
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
-0,1
-
-|
-
-NFU
-
-|
-
-1301
-
-|
-
-Température
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
--
-
-|
-
-1302
-
-|
-
-pH
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
--
-
-|
-
-1303
-
-|
-
-Conductivité (25°)
-
-|
-
-|
-
-x
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
--
-
-|
-
-1311
-
-|
-
-O2 dissous
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
--
-
-|
-
-1312
-
-|
-
-taux de saturation en O2
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
--
-
-|
-
-1327
-
-|
-
-Bicarbonates
-
-|
-
-71-52-3
-
-|
-
-x
-
-|
-
-Eau filtrée
-
-|
-
-Laboratoire
-
-|
-
-15
-
-|
-
-mg/ l
-
-|
-
-1328
-
-|
-
-Carbonates
-
-|
-
-3812-32-6
-
-|
-
-x
-
-|
-
-Eau filtrée
-
-|
-
-Laboratoire
-
-|
-
-15
-
-|
-
-mg/ l
-
-|
+Nom Sandre |
 
-1330
+Code CAS |
 
-|
-
-Potentiel redox
-
-|
-
-|
-
-|
-
-Eau brute
-
-|
-
-in situ
-
-|
-
--
-
-|
-
-mV ENH
-
-|
-
-1335
-
-|
-
-Ammonium
-
-|
-
-14798-03-9
-
-|
-
-x
-
-|
-
-Eau filtrée
-
-|
-
-Laboratoire
-
-|
-
-0,01
-
-|
-
-mg/ l
-
-|
-
-1337
-
-|
-
-Chlorures
-
-|
-
-16887-00-6
-
-|
-
-x
-
-|
-
-Eau filtrée
-
-|
-
-Laboratoire
-
-|
-
-1
-
-|
-
-mg/ l
-
-|
-
-1338
-
-|
-
-Sulfate
-
-|
-
-14808-79-8
-
-|
-
-x
+Fond géochimique élevé reconnu comme possible en France |
 
-|
-
-Eau filtrée
-
-|
-
-Laboratoire
-
-|
-
-1
-
-|
-
-mg/ l
-
-|
+Fraction à analyser |
 
-1339
+Laboratoire / in situ |
 
-|
+LQ |
 
-Nitrites
+Unité |
 
-|
+1295 |
 
-14797-65-0
+Turbidité |
 
 |
-
-x
 
 |
 
-Eau filtrée
+Eau brute |
 
-|
+in situ |
 
-Laboratoire
-
-|
+0,1 |
 
-0,01
+NFU |
 
-|
+1301 |
 
-mg/ l
+Température |
 
 |
 
-1340
-
 |
-
-Nitrates
 
-|
+Eau brute |
 
-14797-55-8
+in situ |
 
-|
+- |
 
-x
+- |
 
-|
+1302 |
 
-Eau filtrée
+pH |
 
 |
-
-Laboratoire
 
 |
 
-0,5
+Eau brute |
 
-|
+in situ |
 
-mg/ l
-
-|
+- |
 
-1342
+- |
 
-|
+1303 |
 
-Silicates
+Conductivité (25°) |
 
 |
 
-15593-90-5
+x |
 
-|
+Eau brute |
 
-x
+in situ |
 
-|
+- |
 
-Eau filtrée
+- |
 
-|
+1311 |
 
-Laboratoire
+O2 dissous |
 
 |
 
-0,05
-
 |
 
-mg/ l
+Eau brute |
 
-|
+in situ |
 
-1347
+- |
 
-|
+- |
 
-T. A. C.
+1312 |
 
-|
+taux de saturation en O2 |
 
 |
 
 |
 
-Eau filtrée
-
-|
+Eau brute |
 
-Laboratoire
+in situ |
 
-|
+- |
 
--
+- |
 
-|
+1327 |
 
--
+Bicarbonates |
 
-|
+71-52-3 |
 
-1350
+x |
 
-|
+Eau filtrée |
 
-Phosphore total
+Laboratoire |
 
-|
+15 |
 
-7723-14-0
+mg/l |
 
-|
+1328 |
 
-x
+Carbonates |
 
-|
+3812-32-6 |
 
-Eau brute
+x |
 
-|
+Eau filtrée |
 
-Laboratoire
+Laboratoire |
 
-|
+15 |
 
-0,01
+mg/l |
 
-|
+1330 |
 
-mg/ l
+Potentiel redox |
 
 |
-
-1367
 
 |
 
-Potassium
-
-|
+Eau brute |
 
-7440-9-7
+in situ |
 
-|
+- |
 
-x
+mV ENH |
 
-|
+1335 |
 
-Eau filtrée
+Ammonium |
 
-|
+14798-03-9 |
 
-Laboratoire
+x |
 
-|
+Eau filtrée |
 
-1
+Laboratoire |
 
-|
+0,01 |
 
-mg/ l
+mg/l |
 
-|
+1337 |
 
-1372
+Chlorures |
 
-|
+16887-00-6 |
 
-Magnésium
+x |
 
-|
+Eau filtrée |
 
-7439-95-4
+Laboratoire |
 
-|
+1 |
 
-x
+mg/l |
 
-|
+1338 |
 
-Eau filtrée
+Sulfate |
 
-|
+14808-79-8 |
 
-Laboratoire
+x |
 
-|
+Eau filtrée |
 
-1
+Laboratoire |
 
-|
+1 |
 
-mg/ l
+mg/l |
 
-|
+1339 |
 
-1374
+Nitrites |
 
-|
+14797-65-0 |
 
-Calcium
+x |
 
-|
+Eau filtrée |
 
-7440-70-2
+Laboratoire |
 
-|
+0,01 |
 
-x
+mg/l |
 
-|
+1340 |
 
-Eau filtrée
+Nitrates |
 
-|
+14797-55-8 |
 
-Laboratoire
+x |
 
-|
+Eau filtrée |
 
-1
+Laboratoire |
 
-|
+0,5 |
 
-mg/ l
+mg/l |
 
-|
+1342 |
 
-1375
+Silicates |
 
-|
+15593-90-5 |
 
-Sodium
+x |
 
-|
+Eau filtrée |
 
-7440-23-5
+Laboratoire |
 
-|
+0,05 |
 
-x
+mg/l |
 
-|
+1347 |
 
-Eau filtrée
+T.A.C. |
 
 |
 
-Laboratoire
-
 |
 
-1
-
-|
+Eau filtrée |
 
-mg/ l
+Laboratoire |
 
-|
+- |
 
-1393
+- |
 
-|
+1350 |
 
-Fer
+Phosphore total |
 
-|
+7723-14-0 |
 
-7439-89-6
+x |
 
-|
+Eau brute |
 
-x
+Laboratoire |
 
-|
+0,01 |
 
-Eau filtrée
+mg/l |
 
-|
+1367 |
 
-Laboratoire
+Potassium |
 
-|
+7440-9-7 |
 
-1
+x |
 
-|
+Eau filtrée |
 
-µg/ l
+Laboratoire |
 
-|
+1 |
 
-1394
+mg/l |
 
-|
+1372 |
 
-Manganèse
+Magnésium |
 
-|
+7439-95-4 |
 
-7439-96-5
+x |
 
-|
+Eau filtrée |
 
-x
+Laboratoire |
 
-|
+1 |
 
-Eau filtrée
+mg/l |
 
-|
+1374 |
 
-Laboratoire
+Calcium |
 
-|
+7440-70-2 |
 
-1
+x |
 
-|
+Eau filtrée |
 
-1µg/ l
+Laboratoire |
 
-|
+1 |
 
-1399
+mg/l |
 
-|
+1375 |
 
-Chlore total (*)
+Sodium |
 
-|
+7440-23-5 |
 
-|
+x |
 
-|
+Eau filtrée |
 
-Eau brute
+Laboratoire |
 
-|
+1 |
 
-Laboratoire
+mg/l |
 
-|
+1393 |
 
--
+Fer |
 
-|
+7439-89-6 |
 
--
+x |
 
-|
+Eau filtrée |
 
-1433
+Laboratoire |
 
-|
+1 |
 
-Orthophosphates (PO4)
+µg/l |
 
-|
+1394 |
 
-14265-44-2
+Manganèse |
 
-|
+7439-96-5 |
 
-x
+x |
 
-|
+Eau filtrée |
 
-Eau filtrée
+Laboratoire |
 
-|
+1 |
 
-Laboratoire
+1µg/l |
 
-|
+1399 |
 
-0,02
+Chlore total (*) |
 
 |
-
-mg/ l
 
 |
 
-1841
+Eau brute |
 
-|
-
-Carbone organique
+Laboratoire |
 
-|
+- |
 
-|
+- |
 
-|
+1433 |
 
-Eau brute
+Orthophosphates (PO4) |
 
-|
+14265-44-2 |
 
-Laboratoire
+x |
 
-|
+Eau filtrée |
 
-0.3
+Laboratoire |
 
-|
+0,02 |
 
-mg/ l
+mg/l |
 
-|
+1841 |
 
-7073
+Carbone organique |
 
 |
 
-Fluorure
-
 |
-
-16984-48-8
 
-|
+Eau brute |
 
-x
+Laboratoire |
 
-|
+0.3 |
 
-Eau filtrée
+mg/l |
 
-|
+7073 |
 
-Laboratoire
+Fluorure |
 
-|
+16984-48-8 |
 
-0,1
+x |
 
-|
+Eau filtrée |
 
-mg/ l
+Laboratoire |
 
-|
+0,1 |
 
-(*) Uniquement si chloration à la crépine.
+mg/l |
 
-|
+(*) Uniquement si chloration à la crépine
 
 Les paramètres ci-dessous sont à analyser sur eau brute en laboratoire. Le suivi de ces paramètres peut passer en analyse photographique sur les points du RCS soumis à aucunes pressions et sur lesquels aucun micropolluant n'a été quantifié. En effet, pour ces points, le suivi en régulier peut se limiter aux seuls paramètres non micropolluants.
 
-Dans le cas où un fond géochimique élevé est identifié pour l'un des paramètres suivants, le paramètre est à intégrer dans l'analyse régulière du contrôle de surveillance de la masse d'eau concernée : As, Al, Se, Ba, Br, B, Cu, Ni, Zn (3).
+Dans le cas où un fond géochimique élevé est identifié pour l'un des paramètres suivants, le paramètre est à intégrer dans l'analyse régulière du contrôle de surveillance de la masse d'eau concernée : As, Al, Se, Ba, Br, B, Cu, Ni, Zn. (3)
 
-(3) Si la "valeur anomalique" et la variabilité temporelle naturelle des concentrations sont connues et que l'absence d'anthropique (direct ou indirect) est certain (uniquement naturel), alors une campagne par cycle peut s'avérer suffisante.
+Tableau 55 : liste des micropolluants de l'analyse régulière du contrôle de surveillance de l'état chimique des eaux souterraines
 
-Tableau 45. - Liste des micropolluants de l'analyse régulière du contrôle de surveillance de l'état chimique des eaux souterraines
+Code Sandre |
 
-CODE
+Paramètre |
 
-SANDRE
+Code CAS |
 
-|
-
-PARAMÈTRE
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-Optionnel pour les DOM
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1107
-
-|
-
-Atrazine
-
-|
-
-1912-24-9
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1108
-
-|
-
-Atrazine déséthyl
-
-|
-
-6190-65-4
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1109
-
-|
-
-Atrazine déisopropyl
-
-|
-
-1007-28-9
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1113
-
-|
-
-Bentazone
-
-|
-
-25057-89-0
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1177
-
-|
-
-Diuron
-
-|
-
-330-54-1
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1221
-
-|
-
-Métolachlore
-
-|
-
-51218-45-2
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1263
-
-|
-
-Simazine
-
-|
-
-122-34-9
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1506
-
-|
-
-Glyphosate
-
-|
-
-1071-83-6
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1830
-
-|
-
-Atrazine déisopropyl déséthyl
-
-|
-
-3397-62-4
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-x
+Famille chimique |
 
-|
-
-1832
+Liste |
 
-|
+Optionnel
 
-2-hydroxy atrazine
+pour les DOM |
 
-|
+A |
 
-2163-68-0
+B |
 
-|
+1107 |
 
-Triazines et métabolites
+Atrazine |
 
-|
+1912-24-9 |
 
-x
+Triazines et métabolites |
 
-|
+x |
 
 |
 
-x
-
 |
 
-1907
+1108 |
 
-|
+Atrazine déséthyl |
 
-AMPA
+6190-65-4 |
 
-|
+Triazines et métabolites |
 
-1066-51-9
+x |
 
 |
-
-Divers (autres organiques)
 
 |
 
-x
+1109 |
 
-|
+Atrazine déisopropyl |
 
-x
-
-|
+1007-28-9 |
 
-|
+Triazines et métabolites |
 
-1958
+x |
 
 |
-
-4-nonylphenols ramifiés
 
 |
 
-84852-15-3
-
-|
+1113 |
 
-Alkylphénols, nonylphénols et bisphénols A
+Bentazone |
 
-|
+25057-89-0 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-x
+x |
 
-|
+1177 |
 
-2766
-
-|
+Diuron |
 
-Bisphenol A
+330-54-1 |
 
-|
+Urées et métabolites |
 
-80-05-7
+x |
 
 |
-
-Alkylphénols, nonylphénols et bisphénols A
 
 |
 
-x
+1221 |
 
-|
+Métolachlore |
 
-|
+51218-45-2 |
 
-|
+Organochlorés |
 
-3159
+x |
 
 |
-
-Atrazine 2-hydroxy-desethyl
 
 |
 
-19988-24-0
+1263 |
 
-|
+Simazine |
 
-Triazines et métabolites
+122-34-9 |
 
-|
+Triazines et métabolites |
 
-x
+x |
 
 |
 
-|
+x |
 
-x
+1506 |
 
-|
+Glyphosate |
 
-5347
+1071-83-6 |
 
-|
+Divers (autres organiques) |
 
-Acide perfluoro-octanoïque (PFOA) (*)
+x |
 
 |
 
-335-67-1
-
 |
 
-PFC (PFOA, PFOS)
+1830 |
 
-|
+Atrazine déisopropyl déséthyl |
 
-|
+3397-62-4 |
 
-x
+Triazines et métabolites |
 
-|
+x |
 
 |
 
-6561
+x |
 
-|
+1832 |
 
-Perfluorooctane sulfonate (PFOS) (*)
-
-|
+2-hydroxy atrazine |
 
-45298-90-6
+2163-68-0 |
 
-|
+Triazines et métabolites |
 
-PFC (PFOA, PFOS)
+x |
 
 |
-
-x
 
-|
+x |
 
-x
+1907 |
 
-|
+AMPA |
 
-|
+1066-51-9 |
 
-6616
+Divers (autres organiques) |
 
-|
+x |
 
-Di(2-ethylhexyl) phtalate (DEHP)
+x |
 
 |
 
-117-81-7
+1958 |
 
-|
+4-nonylphenols ramifiés |
 
-Phtalates
+84852-15-3 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-x
+x |
 
 |
 
-|
+x |
 
-x
+2766 |
 
-|
+Bisphenol A |
 
-6853
+80-05-7 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-Metolachlor OXA
+x |
 
 |
 
-152019-73-3
-
 |
 
-Organochlorés
+3159 |
 
-|
+Atrazine 2-hydroxy-desethyl |
 
-x
+19988-24-0 |
 
-|
+Triazines et métabolites |
 
-|
+x |
 
 |
 
-6854
+x |
 
-|
+5347 |
 
-Metolachlor ESA
+Acide perfluoro-octanoïque (PFOA) (*) |
 
-|
+335-67-1 |
 
-171118-09-5
+PFC (PFOA, PFOS) |
 
 |
 
-Organochlorés
+x |
 
 |
-
-x
 
-|
+6561 |
 
-|
+Perfluorooctane sulfonate (PFOS) (*) |
 
-|
+45298-90-6 |
 
-5977
+PFC (PFOA, PFOS) |
 
-|
+x |
 
-Acide perfluoro-n-heptanoïque (PFHpA) (*)
+x |
 
 |
 
-375-85-9
+6616 |
 
-|
-
-PFC (PFOA, PFOS)
+Di(2-ethylhexyl) phtalate (DEHP) |
 
-|
+117-81-7 |
 
-|
+Phtalates |
 
-x
+x |
 
 |
 
-|
+x |
 
-5978
+6853 |
 
-|
+Metolachlor OXA |
 
-Acide perfluoro-n-hexanoïque (PFHxA) (*)
+152019-73-3 |
 
-|
+Organochlorés |
 
-307-24-4
+x |
 
 |
 
-PFC (PFOA, PFOS)
-
 |
 
-|
+6854 |
 
-x
+Metolachlor ESA |
 
-|
+171118-09-5 |
 
-|
+Organochlorés |
 
-6550
+x |
 
 |
 
-Acide perfluorodecane sulfonique (PFDS) (*)
-
 |
 
-335-77-3
+5977 |
 
-|
+Acide perfluoro-n-heptanoïque (PFHpA) (*) |
 
-PFC (PFOA, PFOS)
+375-85-9 |
 
-|
+PFC (PFOA, PFOS) |
 
 |
 
-x
+x |
 
 |
 
-x
+5978 |
 
-|
-
-6660
+Acide perfluoro-n-hexanoïque (PFHxA) (*) |
 
-|
+307-24-4 |
 
-Tolyltriazole
+PFC (PFOA, PFOS) |
 
 |
 
-29385-43-1
+x |
 
 |
 
-Divers (autres organiques)
+6550 |
 
-|
+Acide perfluorodecane sulfonique (PFDS) (*) |
 
-|
+335-77-3 |
 
-x
+PFC (PFOA, PFOS) |
 
 |
-
-x
 
-|
+x |
 
-6830
+x |
 
-|
+6660 |
 
-Perfluorohexanesulfonic acid (PFHS) (*)
+Tolyltriazole |
 
-|
+29385-43-1 |
 
-355-46-4
+Divers (autres organiques) |
 
 |
 
-PFC (PFOA, PFOS)
+x |
 
-|
-
-|
+x |
 
-x
+6830 |
 
-|
+Perfluorohexanesulfonic acid (PFHS) (*) |
 
-|
+355-46-4 |
 
-7543
+PFC (PFOA, PFOS) |
 
 |
 
-Benzotriazole
+x |
 
 |
 
-95-14-7
+7543 |
 
-|
+Benzotriazole |
 
-Divers (autres organiques)
+95-14-7 |
 
-|
+Divers (autres organiques) |
 
 |
 
-x
+x |
 
 |
 
-|
+(*) Les PFC passent en surveillance intermédiaire pour la Guyane au vu des pressions anthropiques et le nombre d'habitant au km |
 
-(*) Les PFC passent en surveillance intermédiaire pour la Guyane au vu des pressions anthropiques et le nombre d'habitant au km
-
-|
+(3) Si la valeur anomalique et la variabilité temporelle naturelle des concentrations sont connues et que l'absence d'anthropique (direct ou indirect) est certain (uniquement naturel), alors une campagne par cycle peut s'avérer suffisante.
 
 2.2. Analyse photographique
 
 Réalisée une fois par cycle sur tous les sites du programme de contrôle de surveillance de l'état chimique des eaux souterraines, elle comprend un prélèvement annuel pour les nappes captives, et deux prélèvements dans l'année pour les nappes libres avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux.
 
-2.2.1. Substances communes métropole et DOM
+2.2.1 Substances communes métropole et DOM
 
-Les paramètres a minima à analyser en laboratoire concernant tout le territoire national sont listés dans le tableau ci-dessous. La fraction à analyser est l'eau brute pour tous les paramètres, à l'exception des paramètres de la famille "Métaux/métalloïdes" et des paramètres perchlorates (code SANDRE 6219) et chlorates (code SANDRE 1752) qui sont à analyser sur eau filtrée.
+Les paramètres a minima à analyser en laboratoire concernant tout le territoire national sont listés dans le tableau ci-dessous. La fraction à analyser est l'eau brute pour tous les paramètres, à l'exception des paramètres de la famille Métaux/ métalloïdes et des paramètres perchlorates (code Sandre 6219) et chlorates (code Sandre 1752) qui sont à analyser sur eau filtrée.
 
-Tableau 46. - Paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines communs métropole et DOM
+Tableau 56 : paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines communs métropole et DOM
 
-CODE
+Code Sandre |
 
-SANDRE
+Paramètre |
 
-|
-
-PARAMÈTRE
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1084
-
-|
-
-Cyanures libres
-
-|
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-x
-
-|
-
-1105
-
-|
-
-Aminotriazole
-
-|
-
-61-82-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1122
-
-|
-
-Bromoforme
-
-|
-
-75-25-2
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-x
-
-|
-
-|
-
-1129
-
-|
-
-Carbendazime
-
-|
-
-10605-21-7
-
-|
-
-Carbamates
-
-|
-
-x
-
-|
-
-x
-
-|
-
-1135
-
-|
-
-Chloroforme
-
-|
-
-67-66-3
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-x
-
-|
-
-|
-
-1141
-
-|
-
-2,4-D
-
-|
-
-94-75-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1158
-
-|
-
-Dibromochloromethane
-
-|
-
-124-48-1
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-x
-
-|
-
-|
-
-1167
-
-|
-
-Dichloromonobromométhane
-
-|
-
-75-27-4
-
-|
-
-COHV, solvants chlorés, fréons
-
-|
-
-x
-
-|
-
-|
-
-1185
-
-|
-
-Fénarimol
-
-|
-
-60168-88-9
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1209
-
-|
-
-Linuron
-
-|
-
-330-55-2
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1210
-
-|
-
-Malathion
-
-|
-
-121-75-5
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-1212
-
-|
-
-2,4-MCPA
-
-|
-
-94-74-6
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1228
-
-|
-
-Monuron
-
-|
-
-150-68-5
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1269
-
-|
-
-Terbutryne
-
-|
-
-886-50-0
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1362
-
-|
-
-Bore
-
-|
-
-7440-42-8
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1369
-
-|
-
-Arsenic
-
-|
-
-7440-38-2
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-7429-90-5
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1376
-
-|
-
-Antimoine
-
-|
-
-7440-36-0
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1382
-
-|
-
-Plomb
-
-|
-
-7439-92-1
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1383
-
-|
-
-Zinc
-
-|
-
-7440-66-6
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1385
-
-|
-
-Sélénium
-
-|
-
-7782-49-2
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1386
-
-|
-
-Nickel
-
-|
-
-7440-02-0
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1387
-
-|
-
-Mercure
-
-|
-
-7439-97-6
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1388
-
-|
-
-Cadmium
-
-|
-
-7440-43-9
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1389
-
-|
-
-Chrome
-
-|
-
-7440-47-3
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1390
-
-|
-
-Cyanures totaux
-
-|
-
-57-12-5
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-x
-
-|
-
-1392
-
-|
-
-Cuivre
-
-|
-
-7440-50-8
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1396
-
-|
-
-Baryum
-
-|
-
-7440-39-3
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-1414
-
-|
-
-Propyzamide
-
-|
-
-23950-58-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1462
-
-|
-
-n-Butyl Phtalate (DBP)
-
-|
-
-84-74-2
-
-|
-
-Phtalates
-
-|
-
-x
-
-|
-
-|
-
-1666
-
-|
-
-Oxadixyl
-
-|
-
-77732-09-3
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1670
-
-|
-
-Métazachlore
-
-|
-
-67129-08-2
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1700
-
-|
-
-Fenpropidine
-
-|
-
-67306-00-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1709
-
-|
-
-Piperonyl butoxyde
-
-|
-
-51-03-6
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1752
-
-|
-
-Chlorates
-
-|
-
-14866-68-3
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-|
-
-1814
-
-|
-
-Diflufenicanil
-
-|
-
-83164-33-4
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1877
-
-|
-
-Imidaclopride
-
-|
-
-138261-41-3
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1903
-
-|
-
-Acétochlore
-
-|
-
-34256-82-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1924
-
-|
-
-Butyl benzyl phtalate (BBP)
-
-|
-
-85-68-7
-
-|
-
-Phtalates
-
-|
-
-x
-
-|
-
-|
-
-1951
-
-|
-
-Azoxystrobine
-
-|
-
-131860-33-8
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1954
-
-|
-
-Terbuthylazine hydroxy
-
-|
-
-66753-07-9
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1965
-
-|
-
-asulame
-
-|
-
-3337-71-1
-
-|
-
-Carbamates
-
-|
-
-x
-
-|
-
-|
-
-2011
-
-|
-
-2,6-Dichlorobenzamide
-
-|
-
-2008-58-4
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-2013
-
-|
-
-Anthraquinone
-
-|
-
-84-65-1
-
-|
-
-Anilines et dérivés
-
-|
-
-x
-
-|
-
-|
-
-2051
-
-|
-
-Terbumeton désethyl
-
-|
-
-30125-64-5
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-2773
-
-|
-
-Diméthylamine
-
-|
-
-124-40-3
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-2962
-
-|
-
-Hydrocarbures dissous
-
-|
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5296
-
-|
-
-Carbamazepine
-
-|
-
-298-46-4
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5349
-
-|
-
-Diclofenac
-
-|
-
-15307-86-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5350
-
-|
-
-Ibuprofene
-
-|
-
-15687-27-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5353
-
-|
-
-Ketoprofene
-
-|
-
-22071-15-4
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5354
-
-|
-
-Paracetamol
-
-|
-
-103-90-2
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5356
-
-|
-
-Sulfamethoxazole
-
-|
-
-723-46-6
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-5430
-
-|
-
-Triclosan
-
-|
-
-3380-34-5
-
-|
-
-Autres phénols
-
-|
-
-x
-
-|
-
-|
-
-6219
-
-|
-
-Perchlorate
-
-|
-
-14797-73-0
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-|
-
-6505
-
-|
-
-Bromure
-
-|
-
-24959-67-9
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-|
-
-6533
-
-|
-
-Ofloxacine
-
-|
-
-82419-36-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-6540
-
-|
-
-Ciprofloxacine
-
-|
-
-85721-33-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-6618
-
-|
-
-Galaxolide
-
-|
-
-1222-05-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-6725
-
-|
-
-Carbamazepine epoxide
-
-|
-
-36507-30-9
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-6731
-
-|
-
-Metronidazole
-
-|
-
-443-48-1
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-7012
-
-|
-
-2-Hydroxy Ibuprofen
-
-|
-
-51146-55-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1738
-
-|
-
-Dibromoacétonitrile
-
-|
-
-3252-43-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-2629
-
-|
-
-Ethynyl estradiol
-
-|
-
-57-63-6
-
-|
-
-Stéroles et stéroïdes (oestrogènes, progestogènes)
-
-|
-
-|
-
-x
-
-|
-
-5400
-
-|
-
-Norethindrone
-
-|
-
-68-22-4
-
-|
-
-Stéroles et stéroïdes (oestrogènes, progestogènes)
-
-|
-
-|
-
-x
-
-|
-
-5424
-
-|
-
-Sotalol
-
-|
-
-3930-20-9
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-6519
-
-|
-
-Cafeine
-
-|
-
-58-08-2
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-6735
-
-|
-
-Acide acetylsalicylique
-
-|
-
-50-78-2
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-6755
-
-|
-
-Metformine
-
-|
-
-657-24-9
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-6856
-
-|
-
-Acetochlor ESA
-
-|
-
-187022-11-3
-
-|
-
-Organochlorés
-
-|
-
-|
-
-x
-
-|
-
-6862
-
-|
-
-Acetochlor OXA
-
-|
-
-194992-44-4
-
-|
-
-Divers (autres organiques)
-
-|
-
-|
-
-x
-
-|
-
-7594
-
-|
-
-Bisphenol S
-
-|
-
-80-09-1
-
-|
-
-Alkylphénols, nonylphénols et bisphénols A
-
-|
-
-|
-
-x
-
-|
-
-2.2.2. Substances complémentaires pour la métropole
-
-Les paramètres a minima à analyser en laboratoire sur eau brute, uniquement en métropole, sont les suivants :
-
-Tableau 47. - Paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines complémentaires pour la métropole
-
-CODE
-
-SANDRE
-
-|
-
-PARAMÈTRE
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1082
-
-|
-
-Benzo(a)anthracène
-
-|
-
-56-55-3
-
-|
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
-
-|
-
-x
-
-|
-
-|
-
-1092
-
-|
-
-Prosulfocarbe
-
-|
-
-52888-80-9
-
-|
-
-Carbamates
-
-|
-
-x
-
-|
-
-|
-
-1101
-
-|
-
-Alachlore
-
-|
-
-15972-60-8
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1116
-
-|
-
-Benzo(b)fluoranthène
-
-|
-
-205-99-2
-
-|
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
-
-|
-
-x
-
-|
-
-|
-
-1133
-
-|
-
-Chloridazone
-
-|
-
-1698-60-8
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1136
-
-|
-
-Chlortoluron
-
-|
-
-15545-48-9
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1139
-
-|
-
-Cymoxanil
-
-|
-
-57966-95-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
+Code CAS |
 
-|
-
-|
-
-1150
+Famille chimique |
 
-|
-
-Déméton-O
+Liste |
 
-|
+A |
 
-298-03-3
+B |
 
-|
+1084 |
 
-Organophosphorés
+Cyanures libres |
 
 |
 
-x
+Autres éléments minéraux |
 
-|
+x |
 
-|
+x |
 
-1169
+1105 |
 
-|
+Aminotriazole |
 
-Dichlorprop
+61-82-5 |
 
-|
+Divers (autres organiques) |
 
-120-36-5
+x |
 
 |
 
-Divers (autres organiques)
+1122 |
 
-|
-
-x
+Bromoforme |
 
-|
+75-25-2 |
 
-|
+COHV, solvants chlorés, fréons |
 
-1175
+x |
 
 |
 
-Diméthoate
+1129 |
 
-|
-
-60-51-5
+Carbendazime |
 
-|
+10605-21-7 |
 
-Organophosphorés
+Carbamates |
 
-|
+x |
 
-x
+x |
 
-|
+1135 |
 
-|
+Chloroforme |
 
-1176
+67-66-3 |
 
-|
+COHV, solvants chlorés, fréons |
 
-Dinoterbe
+x |
 
 |
-
-1420-07-1
 
-|
+1141 |
 
-Divers (autres organiques)
+2,4-D |
 
-|
+94-75-7 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1178
+1158 |
 
-|
+Dibromochloromethane |
 
-Endosulfan alpha
+124-48-1 |
 
-|
+COHV, solvants chlorés, fréons |
 
-959-98-8
+x |
 
 |
-
-Organochlorés
 
-|
+1167 |
 
-x
+Dichloromonobromométhane |
 
-|
+75-27-4 |
 
-|
+COHV, solvants chlorés, fréons |
 
-1179
+x |
 
 |
 
-Endosulfan bêta
+1185 |
 
-|
+Fénarimol |
 
-33213-65-9
+60168-88-9 |
 
-|
+Divers (autres organiques) |
 
-Organochlorés
+x |
 
 |
-
-x
 
-|
+1209 |
 
-|
+Linuron |
 
-1184
+330-55-2 |
 
-|
+Urées et métabolites |
 
-Ethofumésate
+x |
 
 |
-
-26225-79-6
 
-|
+1210 |
 
-Divers (autres organiques)
+Malathion |
 
-|
+121-75-5 |
 
-x
+Organophosphorés |
 
-|
+x |
 
 |
 
-1191
+1212 |
 
-|
+2,4-MCPA |
 
-Fluoranthène(*)
+94-74-6 |
 
-|
+Urées et métabolites |
 
-206-44-0
+x |
 
 |
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
 
-|
+1228 |
 
-x
+Monuron |
 
-|
+150-68-5 |
 
-|
+Urées et métabolites |
 
-1197
+x |
 
 |
 
-Heptachlore
+1269 |
 
-|
+Terbutryne |
 
-76-44-8
+886-50-0 |
 
-|
+Triazines et métabolites |
 
-Organochlorés
+x |
 
 |
-
-x
 
-|
+1362 |
 
-|
+Bore |
 
-1204
+7440-42-8 |
 
-|
+Métaux/ métalloïdes |
 
-Indéno(1,2,3-cd)pyrène
+x |
 
 |
-
-193-39-5
 
-|
+1369 |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+Arsenic |
 
-|
+7440-38-2 |
 
-x
+Métaux/ métalloïdes |
 
-|
+x |
 
 |
 
-1206
+1370 |
 
-|
+Aluminium |
 
-Iprodione
+7429-90-5 |
 
-|
+Métaux/ métalloïdes |
 
-36734-19-7
+x |
 
 |
-
-Divers (autres organiques)
 
-|
+1376 |
 
-x
+Antimoine |
 
-|
+7440-36-0 |
 
-|
+Métaux/ métalloïdes |
 
-1208
+x |
 
 |
 
-Isoproturon
+1382 |
 
-|
+Plomb |
 
-34123-59-6
+7439-92-1 |
 
-|
+Métaux/ métalloïdes |
 
-Urées et métabolites
+x |
 
 |
-
-x
 
-|
+1383 |
 
-|
+Zinc |
 
-1215
+7440-66-6 |
 
-|
+Métaux/ métalloïdes |
 
-Métamitrone
+x |
 
 |
-
-41394-05-2
 
-|
+1385 |
 
-Triazines et métabolites
+Sélénium |
 
-|
+7782-49-2 |
 
-x
+Métaux/ métalloïdes |
 
-|
+x |
 
 |
 
-1225
+1386 |
 
-|
+Nickel |
 
-Métribuzine
+7440-02-0 |
 
-|
+Métaux/ métalloïdes |
 
-21087-64-9
+x |
 
 |
-
-Triazines et métabolites
 
-|
+1387 |
 
-x
+Mercure |
 
-|
+7439-97-6 |
 
-|
+Métaux/ métalloïdes |
 
-1253
+x |
 
 |
 
-Prochloraz
+1388 |
 
-|
+Cadmium |
 
-67747-09-5
+7440-43-9 |
 
-|
+Métaux/ métalloïdes |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
-|
+1389 |
 
-|
+Chrome |
 
-1261
+7440-47-3 |
 
-|
+Métaux/ métalloïdes |
 
-Pyrimiphos-méthyl
+x |
 
 |
-
-29232-93-7
 
-|
+1390 |
 
-Organophosphorés
+Cyanures totaux |
 
-|
+57-12-5 |
 
-x
+Autres éléments minéraux |
 
-|
+x |
 
-|
+x |
 
-1268
+1392 |
 
-|
+Cuivre |
 
-Terbuthylazine
+7440-50-8 |
 
-|
+Métaux/ métalloïdes |
 
-5915-41-3
+x |
 
 |
 
-Triazines et métabolites
-
-|
+1396 |
 
-x
+Baryum |
 
-|
+7440-39-3 |
 
-|
+Métaux/ métalloïdes |
 
-1272
+x |
 
 |
 
-Tétrachloroéthylène
+1414 |
 
-|
+Propyzamide |
 
-127-18-4
+23950-58-5 |
 
-|
+Divers (autres organiques) |
 
-COHV, solvants chlorés, fréons
+x |
 
 |
 
-x
+1462 |
 
-|
-
-|
+n-Butyl Phtalate (DBP) |
 
-1278
+84-74-2 |
 
-|
+Phtalates |
 
-Toluene
+x |
 
 |
 
-108-88-3
+1666 |
 
-|
-
-Benzène et dérivés
+Oxadixyl |
 
-|
+77732-09-3 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1284
+1670 |
 
-|
+Métazachlore |
 
-Trichloroéthane-1,1,1
+67129-08-2 |
 
-|
+Organochlorés |
 
-71-55-6
+x |
 
 |
 
-COHV, solvants chlorés, fréons
-
-|
+1700 |
 
-x
+Fenpropidine |
 
-|
+67306-00-7 |
 
-|
+Divers (autres organiques) |
 
-1286
+x |
 
 |
 
-Trichloroéthylène
+1709 |
 
-|
+Piperonyl butoxyde |
 
-79-01-6
+51-03-6 |
 
-|
+Divers (autres organiques) |
 
-COHV, solvants chlorés, fréons
+x |
 
 |
 
-x
+1752 |
 
-|
-
-|
+Chlorates |
 
-1288
+14866-68-3 |
 
-|
+Autres éléments minéraux |
 
-Triclopyr
+x |
 
 |
 
-55335-06-3
+1814 |
 
-|
-
-Divers (autres organiques)
+Diflufenicanil |
 
-|
+83164-33-4 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1359
+1877 |
 
-|
+Imidaclopride |
 
-Cyprodinil
+138261-41-3 |
 
-|
+Divers (autres organiques) |
 
-121552-61-2
+x |
 
 |
 
-Divers (autres organiques)
-
-|
+1903 |
 
-x
+Acétochlore |
 
-|
+34256-82-1 |
 
-|
+Divers (autres organiques) |
 
-1403
+x |
 
 |
 
-Diméthomorphe
+1924 |
 
-|
+Butyl benzyl phtalate (BBP) |
 
-110488-70-5
+85-68-7 |
 
-|
+Phtalates |
 
-Divers (autres organiques)
+x |
 
 |
 
-x
+1951 |
 
-|
-
-|
+Azoxystrobine |
 
-1406
+131860-33-8 |
 
-|
+Divers (autres organiques) |
 
-Lénacile
+x |
 
 |
 
-2164-08-1
+1954 |
 
-|
-
-Divers (autres organiques)
+Terbuthylazine hydroxy |
 
-|
+66753-07-9 |
 
-x
+Triazines et métabolites |
 
-|
+x |
 
 |
 
-1432
+1965 |
 
-|
+asulame |
 
-Pyriméthanil
+3337-71-1 |
 
-|
+Carbamates |
 
-53112-28-0
+x |
 
 |
 
-Divers (autres organiques)
-
-|
+2011 |
 
-x
+2,6-Dichlorobenzamide |
 
-|
+2008-58-4 |
 
-|
+Divers (autres organiques) |
 
-1453
+x |
 
 |
 
-Acénaphtène(*)
+2013 |
 
-|
+Anthraquinone |
 
-83-32-9
+84-65-1 |
 
-|
+Anilines et dérivés |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+x |
 
 |
 
-x
+2051 |
 
-|
-
-|
+Terbumeton désethyl |
 
-1456
+30125-64-5 |
 
-|
+Triazines et métabolites |
 
-Dichloroéthylène-1,2 cis
+x |
 
 |
 
-156-59-2
+2773 |
 
-|
-
-COHV, solvants chlorés, fréons
+Diméthylamine |
 
-|
+124-40-3 |
 
-x
+Divers (autres organiques) |
 
 |
 
-|
+x |
 
-1474
+5296 |
 
-|
+Carbamazepine |
 
-Chlorprophame
+298-46-4 |
 
-|
+Divers (autres organiques) |
 
-101-21-3
+x |
 
 |
 
-Carbamates
-
-|
+5349 |
 
-x
+Diclofenac |
 
-|
+15307-86-5 |
 
-|
+Divers (autres organiques) |
 
-1476
+x |
 
 |
 
-Chrysène(*)
+5350 |
 
-|
+Ibuprofene |
 
-218-01-9
+15687-27-1 |
 
-|
+Divers (autres organiques) |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+x |
 
 |
 
-x
+5353 |
 
-|
-
-|
+Ketoprofene |
 
-1480
+22071-15-4 |
 
-|
+Divers (autres organiques) |
 
-Dicamba
+x |
 
 |
 
-1918-00-9
+5354 |
 
-|
-
-Organochlorés
+Paracetamol |
 
-|
+103-90-2 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1487
+5356 |
 
-|
+Sulfamethoxazole |
 
-Dichloropropène-1,3
+723-46-6 |
 
-|
+Divers (autres organiques) |
 
-542-75-6
+x |
 
 |
 
-COHV, solvants chlorés, fréons
-
-|
+5430 |
 
-x
+Triclosan |
 
-|
+3380-34-5 |
 
-|
+Autres phénols |
 
-1517
+x |
 
 |
 
-Naphtalène(*)
+6219 |
 
-|
+Perchlorate |
 
-91-20-3
+14797-73-0 |
 
-|
+Autres éléments minéraux |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+x |
 
 |
 
-x
+6505 |
 
-|
-
-|
+Bromure |
 
-1519
+24959-67-9 |
 
-|
+Autres éléments minéraux |
 
-Napropamide
+x |
 
 |
 
-15299-99-7
+6533 |
 
-|
-
-Divers (autres organiques)
+Ofloxacine |
 
-|
+82419-36-1 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1524
+6540 |
 
-|
+Ciprofloxacine |
 
-Phénanthrène
+85721-33-1 |
 
-|
+Divers (autres organiques) |
 
-85-01-8
+x |
 
 |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
-
-|
+6618 |
 
-x
+Galaxolide |
 
-|
+1222-05-5 |
 
-|
+Divers (autres organiques) |
 
-1528
+x |
 
 |
 
-Pirimicarbe
+6725 |
 
-|
+Carbamazepine epoxide |
 
-23103-98-2
+36507-30-9 |
 
-|
+Divers (autres organiques) |
 
-Carbamates
+x |
 
 |
 
-x
+6731 |
 
-|
-
-|
+Metronidazole |
 
-1537
+443-48-1 |
 
-|
+Divers (autres organiques) |
 
-Pyrène(*)
+x |
 
 |
 
-129-00-0
+7012 |
 
-|
+2-Hydroxy Ibuprofen |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+51146-55-5 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1738 |
 
-1618
+Dibromoacétonitrile |
 
-|
+3252-43-5 |
 
-Méthyl-2-Naphtalène(*)
+Divers (autres organiques) |
 
 |
 
-91-57-6
+x |
 
-|
-
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+2629 |
 
-|
+Ethynyl estradiol |
 
-x
+57-63-6 |
 
-|
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
 |
 
-1621
+x |
 
-|
+5400 |
 
-Dibenzo(a,h) anthracène(*)
+Norethindrone |
 
-|
+68-22-4 |
 
-53-70-3
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
 |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
-
-|
+x |
 
-x
+5424 |
 
-|
+Sotalol |
 
-|
+3930-20-9 |
 
-1623
+Divers (autres organiques) |
 
 |
 
-Fluorène(*)
+x |
 
-|
+6519 |
 
-86-73-7
+Cafeine |
 
-|
+58-08-2 |
 
-HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés)
+Divers (autres organiques) |
 
 |
 
-x
+x |
 
-|
-
-|
+6735 |
 
-1662
+Acide acetylsalicylique |
 
-|
+50-78-2 |
 
-Sulcotrione
+Divers (autres organiques) |
 
 |
 
-99105-77-8
+x |
 
-|
-
-Divers (autres organiques)
+6755 |
 
-|
+Metformine |
 
-x
+657-24-9 |
 
-|
+Divers (autres organiques) |
 
 |
 
-1680
+x |
 
-|
+6856 |
 
-Cyproconazole
+Acetochlor ESA |
 
-|
+187022-11-3 |
 
-94361-06-5
+Organochlorés |
 
 |
 
-Triazines et métabolites
-
-|
+x |
 
-x
+6862 |
 
-|
+Acetochlor OXA |
 
-|
+194992-44-4 |
 
-1688
+Divers (autres organiques) |
 
 |
 
-Aclonifène
+x |
 
-|
+7007 |
 
-74070-46-5
+Hydrocarbures dissous |
 
 |
-
-Divers (autres organiques)
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+7594 |
 
-1694
+Bisphenol S |
 
-|
+80-09-1 |
 
-Tébuconazole
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
 
-107534-96-3
+x |
 
-|
+2.2.2 Substances complémentaires pour la métropole
 
-Divers (autres organiques)
+Les paramètres a minima à analyser en laboratoire sur eau brute, uniquement en métropole, sont listés dans le tableau suivant.
 
-|
+Tableau 57 : paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines complémentaires pour la métropole
 
-x
+Code Sandre |
 
-|
+Paramètre |
 
-|
+Code CAS |
 
-1708
+Famille chimique |
 
-|
+Liste |
 
-Piclorame
+A |
 
-|
+B |
 
-1918-02-1
+1082 |
 
-|
+Benzo (a) anthracène |
 
-Divers (autres organiques)
+56-55-3 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1092 |
 
-1744
+Prosulfocarbe |
 
-|
+52888-80-9 |
 
-Epoxiconazole
+Carbamates |
 
+x |
+
 |
 
-133855-98-8
+1101 |
 
-|
+Alachlore |
 
-Triazines et métabolites
+15972-60-8 |
 
-|
+Organochlorés |
 
-x
+x |
 
 |
 
-|
+1116 |
 
-1763
+Benzo (b) fluoranthène |
 
-|
+205-99-2 |
+
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-Ethidimuron
+x |
 
 |
 
-30043-49-3
+1133 |
 
-|
+Chloridazone |
 
-Urées et métabolites
+1698-60-8 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1136 |
 
-1765
+Chlortoluron |
 
-|
+15545-48-9 |
 
-Fluroxypyr
+Urées et métabolites |
 
+x |
+
 |
 
-69377-81-7
+1139 |
 
-|
+Cymoxanil |
 
-Divers (autres organiques)
+57966-95-7 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1150 |
 
-1796
+Déméton-O |
 
-|
+298-03-3 |
+
+Organophosphorés |
 
-Métaldéhyde
+x |
 
 |
 
-108-62-3
+1169 |
 
-|
+Dichlorprop |
 
-Divers (autres organiques)
+120-36-5 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1175 |
 
-1797
+Diméthoate |
 
-|
+60-51-5 |
 
-Metsulfuron méthyle
+Organophosphorés |
 
+x |
+
 |
 
-74223-64-6
+1176 |
 
-|
+Dinoterbe |
 
-Urées et métabolites
+1420-07-1 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1178 |
 
-1879
+Endosulfan alpha |
 
-|
+959-98-8 |
+
+Organochlorés |
 
-Metconazole
+x |
 
 |
 
-125116-23-6
+1179 |
 
-|
+Endosulfan bêta |
 
-Triazines et métabolites
+33213-65-9 |
 
-|
+Organochlorés |
 
-x
+x |
 
 |
 
-|
+1184 |
 
-1913
+Ethofumésate |
 
-|
+26225-79-6 |
 
-Thifensulfuron méthyl
+Divers (autres organiques) |
 
+x |
+
 |
 
-79277-27-3
+1191 |
 
-|
+Fluoranthène (*) |
 
-Urées et métabolites
+206-44-0 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1197 |
 
-1940
+Heptachlore |
 
-|
+76-44-8 |
+
+Organochlorés |
 
-Thiafluamide
+x |
 
 |
 
-142459-58-3
+1204 |
 
-|
+Indéno (1,2,3-cd) pyrène |
 
-Divers (autres organiques)
+193-39-5 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1206 |
 
-1959
+Iprodione |
 
-|
+36734-19-7 |
 
-4-tert-Octylphenol
+Divers (autres organiques) |
 
+x |
+
 |
 
-140-66-9
+1208 |
 
-|
+Isoproturon |
 
-Alkylphénols, nonylphénols et bisphénols A
+34123-59-6 |
 
-|
+Urées et métabolites |
 
-x
+x |
 
 |
 
-|
+1215 |
 
-1969
+Métamitrone |
 
-|
+41394-05-2 |
+
+Triazines et métabolites |
 
-mepiquat
+x |
 
 |
 
-15302-91-7
+1225 |
 
-|
+Métribuzine |
 
-Divers (autres organiques)
+21087-64-9 |
 
-|
+Triazines et métabolites |
 
-x
+x |
 
 |
 
-x
+1253 |
 
-|
+Prochloraz |
 
-2008
+67747-09-5 |
 
-|
+Divers (autres organiques) |
 
-Flurtamone
+x |
 
 |
 
-96525-23-4
+1261 |
 
-|
+Pyrimiphos-méthyl |
 
-Divers (autres organiques)
+29232-93-7 |
 
-|
+Organophosphorés |
 
-x
+x |
 
 |
 
-|
+1268 |
 
-2017
+Terbuthylazine |
 
-|
+5915-41-3 |
 
-Clomazone
+Triazines et métabolites |
 
+x |
+
 |
 
-81777-89-1
+1272 |
 
-|
+Tétrachloroéthylène |
 
-Divers (autres organiques)
+127-18-4 |
 
-|
+COHV, solvants chlorés, fréons |
 
-x
+x |
 
 |
 
-|
+1278 |
 
-2045
+Toluene |
 
-|
+108-88-3 |
+
+Benzène et dérivés |
 
-Terbuthylazine désethyl
+x |
 
 |
 
-30125-63-4
+1284 |
 
-|
+Trichloroéthane-1,1,1 |
 
-Triazines et métabolites
+71-55-6 |
 
-|
+COHV, solvants chlorés, fréons |
 
-x
+x |
 
 |
 
-|
+1286 |
 
-2076
+Trichloroéthylène |
 
-|
+79-01-6 |
 
-Mésotrione
+COHV, solvants chlorés, fréons |
 
+x |
+
 |
 
-104206-82-8
+1288 |
 
-|
+Triclopyr |
 
-Aldéhydes et cétones
+55335-06-3 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1359 |
 
-2085
+Cyprodinil |
 
-|
+121552-61-2 |
+
+Divers (autres organiques) |
 
-Sulfosulfuron
+x |
 
 |
 
-141776-32-1
+1403 |
 
-|
+Diméthomorphe |
 
-Urées et métabolites
+110488-70-5 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1406 |
 
-2087
+Lénacile |
 
-|
+2164-08-1 |
 
-Quinmerac
+Divers (autres organiques) |
 
+x |
+
 |
 
-90717-03-6
+1432 |
 
-|
+Pyriméthanil |
 
-Divers (autres organiques)
+53112-28-0 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1453 |
 
-2096
+Acénaphtène (*) |
 
-|
+83-32-9 |
+
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-Trinexapac-ethyl
+x |
 
 |
 
-95266-40-3
+1456 |
 
-|
+Dichloroéthylène-1,2 cis |
 
-Divers (autres organiques)
+156-59-2 |
 
-|
+COHV, solvants chlorés, fréons |
 
-x
+x |
 
 |
 
-|
+1474 |
 
-2534
+Chlorprophame |
 
-|
+101-21-3 |
 
-Prosulfuron
+Carbamates |
 
+x |
+
 |
 
-94125-34-5
+1476 |
 
-|
+Chrysène (*) |
 
-Urées et métabolites
+218-01-9 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1480 |
 
-2546
+Dicamba |
 
-|
+1918-00-9 |
+
+Organochlorés |
 
-Dimétachlore
+x |
 
 |
 
-50563-36-5
+1487 |
 
-|
+Dichloropropène-1,3 |
 
-Organochlorés
+542-75-6 |
 
-|
+COHV, solvants chlorés, fréons |
 
-x
+x |
 
 |
 
-|
+1517 |
 
-2563
+Naphtalène (*) |
 
-|
+91-20-3 |
 
-Iodosulfuron-methyl
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
+x |
+
 |
 
-185119-76-0
+1519 |
 
-|
+Napropamide |
 
-Urées et métabolites
+15299-99-7 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1524 |
 
-2566
+Phénanthrène |
 
-|
+85-01-8 |
+
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-1,2,3,4,6,7,8,9-Octa chlo rodibenzo-p-dioxine(***)
+x |
 
 |
 
-3268-87-9
+1528 |
 
-|
+Pirimicarbe |
 
-PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF)
+23103-98-2 |
 
-|
+Carbamates |
 
-x
+x |
 
 |
 
-|
+1537 |
 
-2575
+Pyrène (*) |
 
-|
+129-00-0 |
 
-1,2,3,4,6,7,8-Hepta chlo rodibenzo-p-dioxine(***)
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
+x |
+
 |
 
-35822-46-9
+1618 |
 
-|
+Méthyl-2-Naphtalène (*) |
 
-PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF)
+91-57-6 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1621 |
 
-2578
+Dibenzo (a, h) anthracène (*) |
 
-|
+53-70-3 |
+
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-mesosulfuron-methyl
+x |
 
 |
 
-208465-21-8
+1623 |
 
-|
+Fluorène (*) |
 
-Urées et métabolites
+86-73-7 |
 
-|
+HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés) |
 
-x
+x |
 
 |
 
-|
+1662 |
 
-2596
+Sulcotrione |
 
-|
+99105-77-8 |
 
-1,2,3,4,6,7,8-Hepta chlo rodibenzofurane(***)
+Divers (autres organiques) |
 
+x |
+
 |
 
-67562-39-4
+1680 |
 
-|
+Cyproconazole |
 
-PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF)
+94361-06-5 |
 
-|
+Triazines et métabolites |
 
-x
+x |
 
 |
 
-|
+1688 |
 
-2597
+Aclonifène |
 
-|
+74070-46-5 |
+
+Divers (autres organiques) |
 
-1,2,3,4,7,8,9-Hepta chlorodibenzofurane
+x |
 
 |
 
-55673-89-7
+1694 |
 
-|
+Tébuconazole |
 
-PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF)
+107534-96-3 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1708 |
 
-2610
+Piclorame |
 
-|
+1918-02-1 |
 
-4-tert-butylphénol
+Divers (autres organiques) |
 
+x |
+
 |
 
-98-54-4
+1744 |
 
-|
+Epoxiconazole |
 
-Alkylphénols, nonylphénols et bisphénols A
+133855-98-8 |
 
-|
+Triazines et métabolites |
 
-x
+x |
 
 |
 
-|
+1763 |
 
-2744
+Ethidimuron |
 
-|
+30043-49-3 |
+
+Urées et métabolites |
 
-Fosthiazate
+x |
 
 |
 
-98886-44-3
+1765 |
 
-|
+Fluroxypyr |
 
-Organophosphorés
+69377-81-7 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+1796 |
 
-2806
+Métaldéhyde |
 
-|
+108-62-3 |
 
-Foramsulfuron
+Divers (autres organiques) |
 
+x |
+
 |
 
-173159-57-4
+1797 |
 
-|
+Metsulfuron méthyle |
 
-Urées et métabolites
+74223-64-6 |
 
-|
+Urées et métabolites |
 
-x
+x |
 
 |
 
-|
+1879 |
 
-2810
+Metconazole |
 
-|
+125116-23-6 |
+
+Triazines et métabolites |
 
-Florasulam
+x |
 
 |
 
-145701-23-1
+1913 |
 
-|
+Thifensulfuron méthyl |
 
-Triazines et métabolites
+79277-27-3 |
 
-|
+Urées et métabolites |
 
-x
+x |
 
 |
 
-|
+1940 |
 
-2915
+Thiafluamide |
 
-|
+142459-58-3 |
 
-pentabromodiphényl éther (congénère 100) (**)
+Divers (autres organiques) |
 
+x |
+
 |
 
-189084-64-8
+1959 |
 
-|
+4-tert-Octylphenol |
 
-PBDE et PBB
+140-66-9 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-x
+x |
 
 |
 
-|
+1969 |
 
-2916
+mepiquat |
 
-|
+15302-91-7 |
 
-Pentabromodiphényl éther (congénère 99) (**)
+Divers (autres organiques) |
 
-|
+x |
 
-60348-60-9
+x |
 
-|
+2008 |
 
-PBDE et PBB
+Flurtamone |
 
-|
+96525-23-4 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-2986
+2017 |
 
-|
+Clomazone |
 
-Imazamox
+81777-89-1 |
 
-|
+Divers (autres organiques) |
 
-114311-32-9
+x |
 
 |
 
-Divers (autres organiques)
+2045 |
 
-|
+Terbuthylazine désethyl |
 
-x
+30125-63-4 |
 
-|
+Triazines et métabolites |
+
+x |
 
 |
 
-5248
+2076 |
 
-|
+Mésotrione |
 
-Octachlorodibenzofuranne
+104206-82-8 |
 
-|
+Aldéhydes et cétones |
 
-39001-02-0
+x |
 
 |
 
-PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF)
+2085 |
 
-|
+Sulfosulfuron |
 
-x
+141776-32-1 |
 
-|
+Urées et métabolites |
 
+x |
+
 |
 
-5299
+2087 |
 
-|
+Quinmerac |
 
-N-Butylbenzene sulfonamide
+90717-03-6 |
 
-|
+Divers (autres organiques) |
 
-3622-84-2
+x |
 
 |
 
-Benzène et dérivés
+2096 |
 
-|
+Trinexapac-ethyl |
 
-|
+95266-40-3 |
+
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-5526
+2534 |
 
-|
+Prosulfuron |
 
-Boscalid
+94125-34-5 |
 
-|
+Urées et métabolites |
 
-188425-85-6
+x |
 
 |
 
-Divers (autres organiques)
+2546 |
 
-|
+Dimétachlore |
 
-x
+50563-36-5 |
 
-|
+Organochlorés |
 
+x |
+
 |
 
-5597
+2563 |
 
-|
+Iodosulfuron-methyl |
 
-Daminozide
+185119-76-0 |
 
-|
+Urées et métabolites |
 
-1596-84-5
+x |
 
 |
 
-Divers (autres organiques)
+2566 |
 
-|
+1,2,3,4,6,7,8,9-Octa chlo rodibenzo-p-dioxine (***) |
 
-x
+3268-87-9 |
 
-|
+PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF) |
+
+x |
 
 |
 
-6390
+2575 |
 
-|
+1,2,3,4,6,7,8-Hepta chlo rodibenzo-p-dioxine (***) |
 
-Thiamethoxam
+35822-46-9 |
 
-|
+PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF) |
 
-153719-23-4
+x |
 
 |
 
-Divers (autres organiques)
+2578 |
 
-|
+mesosulfuron-methyl |
 
-x
+208465-21-8 |
 
-|
+Urées et métabolites |
 
+x |
+
 |
 
-6522
+2596 |
 
-|
+1,2,3,4,6,7,8-Hepta chlo rodibenzofurane (***) |
 
-Erythromycine
+67562-39-4 |
 
-|
+PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF) |
 
-114-07-8
+x |
 
 |
 
-Divers (autres organiques)
+2597 |
 
-|
+1,2,3,4,7,8,9-Hepta chlorodibenzofurane |
 
-x
+55673-89-7 |
 
-|
+PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF) |
+
+x |
 
 |
 
-6720
+2610 |
 
-|
+4-tert-butylphénol |
 
-Tramadol
+98-54-4 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-27203-92-5
+x |
 
 |
 
-Divers (autres organiques)
+2744 |
 
-|
+Fosthiazate |
 
-x
+98886-44-3 |
 
-|
+Organophosphorés |
 
+x |
+
 |
 
-6800
+2806 |
 
-|
+Foramsulfuron |
 
-Alachlor ESA
+173159-57-4 |
 
-|
+Urées et métabolites |
 
-142363-53-9
+x |
 
 |
 
-Organochlorés
+2810 |
 
-|
+Florasulam |
 
-x
+145701-23-1 |
 
-|
+Triazines et métabolites |
+
+x |
 
 |
 
-1699
+2915 |
 
-|
+pentabromodiphényl éther (congénère 100) (**) |
 
-Diquat
+189084-64-8 |
 
-|
+PBDE et PBB |
 
-2764-72-9
+x |
 
 |
 
-Divers (autres organiques)
+2916 |
 
-|
+Pentabromodiphényl éther (congénère 99) (**) |
 
-|
+60348-60-9 |
 
-x
+PBDE et PBB |
 
+x |
+
 |
 
-1816
+2986 |
 
-|
+Imazamox |
 
-Fosetyl
+114311-32-9 |
 
-|
+Divers (autres organiques) |
 
-15845-66-6
+x |
 
 |
 
-Divers (autres organiques)
+5248 |
 
-|
+Octachlorodibenzofuranne |
 
-|
+39001-02-0 |
+
+PCB (arochlors), PCT, Dioxines, Furanes (PCDD, PCDF) |
 
-x
+x |
 
 |
 
-2929
+5299 |
 
-|
+N-Butylbenzene sulfonamide |
+
+3622-84-2 |
 
-Dichlormide
+Benzène et dérivés |
 
 |
 
-37764-25-3
+x |
 
-|
+5526 |
 
-Divers (autres organiques)
+Boscalid |
 
-|
+188425-85-6 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-2978
+5597 |
 
-|
+Daminozide |
 
-Clethodim
+1596-84-5 |
 
-|
+Divers (autres organiques) |
 
-99129-21-2
+x |
 
 |
 
-Divers (autres organiques)
+6390 |
 
-|
+Thiamethoxam |
 
-|
+153719-23-4 |
+
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-5554
+6522 |
 
-|
+Erythromycine |
 
-Chlormequat
+114-07-8 |
 
-|
+Divers (autres organiques) |
 
-7003-89-6
+x |
 
 |
 
-Divers (autres organiques)
+6720 |
 
-|
+Tramadol |
 
-|
+27203-92-5 |
 
-x
+Divers (autres organiques) |
 
+x |
+
 |
 
-5645
+6800 |
 
-|
+Alachlor ESA |
 
-Hydrazide maleique
+142363-53-9 |
 
-|
+Organochlorés |
 
-123-33-1
+x |
 
 |
 
-Divers (autres organiques)
+1699 |
 
-|
+Diquat |
 
-|
+2764-72-9 |
 
-x
+Divers (autres organiques) |
 
 |
 
-6393
+x |
 
-|
+1816 |
 
-Flonicamid
+Fosetyl |
 
-|
+15845-66-6 |
 
-158062-67-0
+Divers (autres organiques) |
 
 |
 
-Divers (autres organiques)
+x |
 
-|
+2929 |
 
-|
+Dichlormide |
+
+37764-25-3 |
 
-x
+Divers (autres organiques) |
 
 |
 
-6520
+x |
 
-|
+2978 |
 
-Cotinine
+Clethodim |
 
-|
+99129-21-2 |
 
-486-56-6
+Divers (autres organiques) |
 
 |
 
-Divers (autres organiques)
+x |
 
-|
+5554 |
 
-|
+Chlormequat |
 
-x
+7003-89-6 |
 
+Divers (autres organiques) |
+
 |
 
-6751
+x |
 
-|
+5645 |
 
-1,7-Dimethylxanthine
+Hydrazide maleique |
 
-|
+123-33-1 |
 
-611-59-6
+Divers (autres organiques) |
 
 |
 
-Divers (autres organiques)
+x |
 
-|
+6393 |
 
-|
+Flonicamid |
+
+158062-67-0 |
 
-x
+Divers (autres organiques) |
 
 |
 
-6855
+x |
 
-|
+6520 |
 
-Alachlor OXA
+Cotinine |
 
-|
+486-56-6 |
 
-171262-17-2
+Divers (autres organiques) |
 
 |
 
-Organochlorés
+x |
 
-|
+6751 |
 
-|
+1,7-Dimethylxanthine |
 
-x
+611-59-6 |
 
+Divers (autres organiques) |
+
 |
 
-7522
+x |
 
-|
+6855 |
 
-Beflubutamide
+Alachlor OXA |
 
-|
+171262-17-2 |
 
-113614-08-7
+Organochlorés |
 
 |
 
-Divers (autres organiques)
+x |
 
-|
+7522 |
 
-|
+Beflubutamide |
 
-x
+113614-08-7 |
 
+Divers (autres organiques) |
+
 |
 
-(*) Pour les HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés), dans un objectif de cohérence analytique et/ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, les substances aux codes sandre suivants sans surcoût : 1524, 1458, 1082, 1116, 1117, 1115 et 1118
+x |
 
-(**) Pour les PBDE et PBB, dans un objectif de cohérence analytique et/ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, sans surcoût, les substances aux codes sandre suivants : 2911, 2912, 2919 et 2920
+(*) Pour les HAP (Hydrocarbures, aromatiques, polycyclique, pyrolytique et dérivés), dans un objectif de cohérence analytique et/ ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, les substances aux codes Sandre suivants sans surcoût : 1524,1458,1082,1116,1117,1115 et 1118
 
-(***) Pour les dioxines et furanes, dans un objectif de cohérence analytique et/ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, sans surcoût, les substances aux codes sandre suivants : 2562, 2569, 2571, 2572, 2573, 2586, 2588, 2589, 2591, 2592, 2593, 2594, 2597
+(**) Pour les PBDE et PBB, dans un objectif de cohérence analytique et/ ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, sans surcoût, les substances aux codes Sandre suivants : 2911,2912,2919 et 2920
 
-|
+(***) Pour les dioxines et furanes, dans un objectif de cohérence analytique et/ ou cohérence avec des listes issues des ESU, il est possible de demander aux laboratoires en plus des substances du tableau, sans surcoût, les substances aux codes Sandre suivants : 2562,2569,2571,2572,2573,2586,2588,2589,2591,2592,2593,2594,2597 |
 
-2.2.3. Substances complémentaires pour les DOM
+2.2.1 Substances complémentaires pour les DOM
 
 Pour les DOM, les paramètres complémentaires à analyser a minima sur eau brute en laboratoire, sont les suivants :
 
-Tableau 48. - Paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines complémentaires pour les DOM
+Tableau 58 : paramètres de l'analyse photographique du contrôle de surveillance de l'état chimique des eaux souterraines complémentaires pour les DOM
 
-CODE
+Code Sandre |
 
-SANDRE
+Paramètre |
 
-|
-
-PARAMÈTRE
-
-|
-
-CODE
-
-CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1104
-
-|
-
-Amétryne
-
-|
-
-834-12-8
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1113
-
-|
-
-Bentazone
-
-|
-
-25057-89-0
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1157
-
-|
-
-Diazinon
-
-|
-
-333-41-5
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-1170
-
-|
-
-Dichlorvos
-
-|
-
-62-73-7
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-1173
-
-|
-
-Dieldrine
-
-|
-
-60-57-1
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1201
-
-|
-
-Hexachlorocyclohexane bêta(*)
-
-|
-
-319-85-7
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1202
-
-|
-
-Hexachlorocyclohexane delta(*)
-
-|
-
-319-86-8
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1203
-
-|
-
-Hexachlorocyclohexane gamma(*)
-
-|
-
-58-89-9
-
-|
-
-Organochlorés
-
-|
-
-x
-
-|
-
-|
-
-1235
-
-|
-
-Pentachlorophénol
-
-|
-
-87-86-5
-
-|
-
-Autres phénols
-
-|
-
-x
-
-|
-
-|
-
-1257
-
-|
-
-Propiconazole
-
-|
+Code CAS |
 
-60207-90-1
+Famille chimique |
 
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1263
-
-|
-
-Simazine
-
-|
-
-122-34-9
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1280
-
-|
-
-Triadiménol
-
-|
-
-55219-65-3
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-1515
+Liste |
 
-|
-
-Métobromuron(*)
-
-|
-
-3060-89-7
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-1540
-
-|
-
-Chlorpyriphos-méthyl
-
-|
-
-5598-13-0
+A |
 
-|
-
-Organophosphorés
-
-|
-
-x
+B |
 
-|
+1104 |
 
-|
+Amétryne |
 
-1673
+834-12-8 |
 
-|
+Triazines et métabolites |
 
-Hexazinone
+x |
 
 |
 
-51235-04-2
+1113 |
 
-|
+Bentazone |
 
-Triazines et métabolites
-
-|
+25057-89-0 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1686
+1157 |
 
-|
+Diazinon |
 
-Bromacil
+333-41-5 |
 
-|
+Organophosphorés |
 
-314-40-9
+x |
 
 |
 
-Divers (autres organiques)
+1170 |
 
-|
+Dichlorvos |
 
-x
-
-|
+62-73-7 |
 
-|
+Organophosphorés |
 
-1704
+x |
 
 |
 
-Imazalil
+1173 |
 
-|
+Dieldrine |
 
-35554-44-0
+60-57-1 |
 
-|
+Organochlorés |
 
-Divers (autres organiques)
+x |
 
 |
 
-x
+1201 |
 
-|
-
-|
+Hexachlorocyclohexane bêta (*) |
 
-1748
+319-85-7 |
 
-|
+Organochlorés |
 
-Heptachlore époxyde exo cis
+x |
 
 |
-
-1024-57-3
 
-|
+1202 |
 
-Organochlorés
+Hexachlorocyclohexane delta (*) |
 
-|
+319-86-8 |
 
-x
+Organochlorés |
 
-|
+x |
 
 |
 
-1749
+1203 |
 
-|
+Hexachlorocyclohexane gamma (*) |
 
-Heptachlore époxyde endo trans
+58-89-9 |
 
-|
+Organochlorés |
 
-28044-83-9
+x |
 
 |
-
-Organochlorés
 
-|
+1235 |
 
-x
+Pentachlorophénol |
 
-|
+87-86-5 |
 
-|
+Autres phénols |
 
-1830
+x |
 
 |
 
-Atrazine déisopropyl déséthyl
+1257 |
 
-|
+Propiconazole |
 
-3397-62-4
+60207-90-1 |
 
-|
+Triazines et métabolites |
 
-Triazines et métabolites
+x |
 
 |
 
-x
+1263 |
 
-|
-
-|
+Simazine |
 
-1832
+122-34-9 |
 
-|
+Triazines et métabolites |
 
-2-hydroxy atrazine
+x |
 
 |
 
-2163-68-0
-
-|
+1280 |
 
-Triazines et métabolites
+Triadiménol |
 
-|
+55219-65-3 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-1866
+1515 |
 
-|
+Métobromuron (*) |
 
-Chlordécone(*)
+3060-89-7 |
 
-|
+Urées et métabolites |
 
-143-50-0
+x |
 
 |
-
-Organochlorés
 
-|
+1540 |
 
-x
+Chlorpyriphos-méthyl |
 
-|
+5598-13-0 |
 
-|
+Organophosphorés |
 
-1905
+x |
 
 |
 
-Difénoconazole
+1673 |
 
-|
+Hexazinone |
 
-119446-68-3
+51235-04-2 |
 
-|
+Triazines et métabolites |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
-|
+1686 |
 
-|
+Bromacil |
 
-1958
+314-40-9 |
 
-|
+Divers (autres organiques) |
 
-4-nonylphenols ramifiés
+x |
 
 |
 
-84852-15-3
+1704 |
 
-|
+Imazalil |
 
-Alkylphénols, nonylphénols et bisphénols A
-
-|
+35554-44-0 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-2009
+1748 |
 
-|
+Heptachlore époxyde exo cis |
 
-Fipronil
+1024-57-3 |
 
-|
+Organochlorés |
 
-120068-37-3
+x |
 
 |
 
-Divers (autres organiques)
+1749 |
 
-|
+Heptachlore époxyde endo trans |
 
-x
-
-|
+28044-83-9 |
 
-|
+Organochlorés |
 
-2847
+x |
 
 |
 
-Didemethylisoproturon
+1830 |
 
-|
+Atrazine déisopropyl déséthyl |
 
-56046-17-4
+3397-62-4 |
 
-|
+Triazines et métabolites |
 
-Urées et métabolites
+x |
 
 |
 
-x
+1832 |
 
-|
-
-|
+2-hydroxy atrazine |
 
-3159
+2163-68-0 |
 
-|
+Triazines et métabolites |
 
-Atrazine 2-hydroxy-desethyl
+x |
 
 |
-
-19988-24-0
 
-|
+1866 |
 
-Triazines et métabolites
+Chlordécone (*) |
 
-|
+143-50-0 |
 
-x
+Organochlorés |
 
-|
+x |
 
 |
 
-6260
+1905 |
 
-|
+Difénoconazole |
 
-1-(2,6-Dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethanesul fonyl-5-aminopyrazole
+119446-68-3 |
 
-|
+Divers (autres organiques) |
 
-120068-36-2
+x |
 
 |
-
-Divers (autres organiques)
 
-|
+1958 |
 
-x
+4-nonylphenols ramifiés |
 
-|
+84852-15-3 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
-6577
+x |
 
 |
 
-Chlordecone-5b-hydro(*)
+2009 |
 
-|
+Fipronil |
 
-53308-47-7
+120068-37-3 |
 
-|
+Divers (autres organiques) |
 
-Organochlorés
+x |
 
 |
 
-x
+2847 |
 
-|
-
-|
+Didemethylisoproturon |
 
-6616
+56046-17-4 |
 
-|
+Urées et métabolites |
 
-Di(2-ethylhexyl)phtalate (DEHP)
+x |
 
 |
 
-117-81-7
-
-|
+3159 |
 
-Phtalates
+Atrazine 2-hydroxy-desethyl |
 
-|
+19988-24-0 |
 
-x
+Triazines et métabolites |
 
-|
+x |
 
 |
 
-7494
+6260 |
 
-|
+1-(2,6-Dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethanesul fonyl-5-aminopyrazole |
 
-Dioctylétain cation
+120068-36-2 |
 
-|
+Divers (autres organiques) |
 
-60004-29-7
+x |
 
 |
-
-Divers (autres organiques)
 
-|
+6577 |
 
-x
+Chlordecone-5b-hydro (*) |
 
-|
+53308-47-7 |
 
-|
+Organochlorés |
 
-6550
+x |
 
 |
 
-Acide perfluorodecane sulfonique (PFDS)
+6616 |
 
-|
+Di (2-ethylhexyl) phtalate (DEHP) |
 
-335-77-3
-
-|
+117-81-7 |
 
-PFC (PFOA, PFOS)
+Phtalates |
 
-|
+x |
 
 |
 
-x
+7494 |
 
-|
+Dioctylétain cation |
 
-6660
+60004-29-7 |
 
-|
+Divers (autres organiques) |
 
-Tolyltriazole
+x |
 
 |
 
-29385-43-1
+6550 |
 
-|
+Acide perfluorodecane sulfonique (PFDS) |
 
-Divers (autres organiques)
+335-77-3 |
 
-|
+PFC (PFOA, PFOS) |
 
 |
 
-x
+x |
 
-|
+6660 |
 
-6824
+Tolyltriazole |
 
-|
+29385-43-1 |
 
-N,N-Dimethyl-N'-p-tolylsulphamide
+Divers (autres organiques) |
 
 |
 
-66840-71-9
-
-|
+x |
 
-Divers (autres organiques)
+6824 |
 
-|
+N, N-Dimethyl-N'-p-tolylsulphamide |
 
-|
+66840-71-9 |
 
-x
+Divers (autres organiques) |
 
 |
 
-(*) Paramètres optionnels à La Réunion
+x |
 
-|
+(*) Paramètres optionnels à La Réunion |
 
 2.3. Analyse intermédiaire
 
@@ -6428,1462 +3510,838 @@ En complément de l'analyse photographique, une analyse complémentaire est à r
 
 Cette analyse intermédiaire complémentaire sur un nombre réduit de point comprend un prélèvement annuel pour les nappes captives, et deux prélèvements dans l'année pour les nappes libres avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux.
 
-Les paramètres a minima à analyser en laboratoire dans ce cadre sont listés dans le tableau ci-dessous. La fraction à analyser est l'eau brute pour tous les paramètres, à l'exception des paramètres de la famille "Métaux/métalloïdes" et des paramètres perchlorates (code SANDRE 6219) et chlorates (code SANDRE 1752), qui sont à analyser sur eau filtrée.
+Les paramètres a minima à analyser en laboratoire dans ce cadre sont listés dans le tableau ci-dessous. La fraction à analyser est l'eau brute pour tous les paramètres, à l'exception des paramètres de la famille Métaux/ métalloïdes et des paramètres perchlorates (code Sandre 6219) et chlorates (code Sandre 1752), qui sont à analyser sur eau filtrée.
 
-Tableau 49. - Paramètres de l'analyse intermédiaire du contrôle de surveillance de l'état chimique des eaux souterraines
+Tableau 59 : paramètres de l'analyse intermédiaire du contrôle de surveillance de l'état chimique des eaux souterraines
 
-|
-
-|
-
-CODE CAS
-
-|
-
-FAMILLE CHIMIQUE
-
-|
-
-LISTE
-
-|
-
-OPTIONNEL
-
-pour les DOM
-
-|
-
-A
-
-|
-
-B
-
-|
-
-1084
-
-|
-
-Cyanures libres
-
-|
-
-|
-
-Autres éléments minéraux
-
-|
-
-x
-
-|
-
-x
-
-|
-
-|
-
-1105
-
-|
-
-Aminotriazole
-
-|
-
-61-82-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1129
-
-|
-
-Carbendazime
-
-|
-
-10605-21-7
-
-|
-
-Carbamates
-
-|
-
-x
-
-|
-
-x
-
-|
-
-|
-
-1136
-
-|
-
-Chlortoluron
-
-|
-
-15545-48-9
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1141
-
-|
-
-2,4-D
-
-|
-
-94-75-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1175
-
-|
-
-Diméthoate
-
-|
-
-60-51-5
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1206
-
-|
-
-Iprodione
-
-|
-
-36734-19-7
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1209
-
-|
-
-Linuron
-
-|
-
-330-55-2
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1210
-
-|
-
-Malathion
-
-|
-
-121-75-5
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1212
-
-|
-
-2,4-MCPA
-
-|
-
-94-74-6
-
-|
-
-Urées et métabolites
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1253
-
-|
-
-Prochloraz
-
-|
-
-67747-09-5
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1261
-
-|
-
-Pyrimiphos-méthyl
-
-|
-
-29232-93-7
-
-|
-
-Organophosphorés
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1268
-
-|
-
-Terbuthylazine
-
-|
-
-5915-41-3
-
-|
-
-Triazines et métabolites
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1278
-
-|
-
-Toluene
-
-|
-
-108-88-3
-
-|
-
-Benzène et dérivés
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1359
-
-|
-
-Cyprodinil
-
-|
-
-121552-61-2
-
-|
-
-Divers (autres organiques)
-
-|
-
-x
-
-|
-
-|
-
-x
-
-|
-
-1369
-
-|
-
-Arsenic
-
-|
-
-7440-38-2
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1370
-
-|
-
-Aluminium
-
-|
-
-7429-90-5
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
+Code Sandre |
 
-|
-
-|
-
-1376
-
-|
-
-Antimoine
-
-|
-
-7440-36-0
-
-|
-
-Métaux/métalloïdes
-
-|
-
-x
-
-|
-
-|
-
-|
-
-1383
-
-|
-
-Zinc
-
-|
-
-7440-66-6
-
-|
-
-Métaux/métalloïdes
+Paramètre |
 
-|
-
-x
-
-|
-
-|
-
-|
-
-1385
-
-|
-
-Sélénium
-
-|
-
-7782-49-2
-
-|
-
-Métaux/métalloïdes
+Code CAS |
 
-|
+Famille chimique |
 
-x
+Liste |
 
-|
+Optionnel
 
-|
+pour les DOM |
 
-|
+A |
 
-1389
+B |
 
 |
 
-Chrome
-
-|
+1084 |
 
-7440-47-3
+Cyanures libres |
 
 |
 
-Métaux/métalloïdes
+Autres éléments minéraux |
 
-|
+x |
 
-x
+x |
 
 |
 
-|
+1105 |
 
-|
+Aminotriazole |
 
-1390
+61-82-5 |
 
-|
+Divers (autres organiques) |
 
-Cyanures totaux
+x |
 
 |
 
-57-12-5
-
 |
 
-Autres éléments minéraux
+1129 |
 
-|
+Carbendazime |
 
-x
+10605-21-7 |
 
-|
+Carbamates |
 
-x
+x |
 
-|
+x |
 
 |
 
-1392
+1136 |
 
-|
+Chlortoluron |
 
-Cuivre
+15545-48-9 |
 
-|
+Urées et métabolites |
 
-7440-50-8
+x |
 
 |
 
-Métaux/métalloïdes
-
-|
+x |
 
-x
+1141 |
 
-|
+2,4-D |
 
-|
+94-75-7 |
 
-|
+Divers (autres organiques) |
 
-1396
+x |
 
 |
-
-Baryum
 
 |
 
-7440-39-3
+1175 |
 
-|
-
-Métaux/métalloïdes
+Diméthoate |
 
-|
+60-51-5 |
 
-x
+Organophosphorés |
 
-|
+x |
 
 |
 
-|
+x |
 
-1406
+1206 |
 
-|
+Iprodione |
 
-Lénacile
+36734-19-7 |
 
-|
+Divers (autres organiques) |
 
-2164-08-1
+x |
 
 |
 
-Divers (autres organiques)
+x |
 
-|
+1209 |
 
-x
+Linuron |
 
-|
+330-55-2 |
 
-|
+Urées et métabolites |
 
-x
+x |
 
 |
 
-1414
-
 |
 
-Propyzamide
+1210 |
 
-|
+Malathion |
 
-23950-58-5
+121-75-5 |
 
-|
+Organophosphorés |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
 |
 
-|
+1212 |
 
-|
+2,4-MCPA |
 
-1462
+94-74-6 |
 
-|
+Urées et métabolites |
 
-n-Butyl Phtalate(DBP)
+x |
 
 |
-
-84-74-2
 
 |
 
-Phtalates
+1253 |
 
-|
+Prochloraz |
 
-x
+67747-09-5 |
 
-|
+Divers (autres organiques) |
 
-|
+x |
 
 |
-
-1474
 
-|
+x |
 
-Chlorprophame
+1261 |
 
-|
+Pyrimiphos-méthyl |
 
-101-21-3
+29232-93-7 |
 
-|
+Organophosphorés |
 
-Carbamates
+x |
 
 |
 
-x
+x |
 
-|
+1268 |
 
-|
+Terbuthylazine |
 
-x
+5915-41-3 |
 
-|
+Triazines et métabolites |
 
-1480
+x |
 
 |
 
-Dicamba
+x |
 
-|
-
-1918-00-9
+1278 |
 
-|
+Toluene |
 
-Organochlorés
+108-88-3 |
 
-|
+Benzène et dérivés |
 
-x
+x |
 
 |
 
-|
+x |
 
-x
+1359 |
 
-|
+Cyprodinil |
 
-1528
+121552-61-2 |
 
-|
+Divers (autres organiques) |
 
-Pirimicarbe
+x |
 
 |
 
-23103-98-2
+x |
 
-|
+1369 |
 
-Carbamates
+Arsenic |
 
-|
+7440-38-2 |
 
-x
+Métaux/ métalloïdes |
 
-|
+x |
 
 |
 
-x
-
 |
 
-1670
+1370 |
 
-|
+Aluminium |
 
-Métazachlore
+7429-90-5 |
 
-|
+Métaux/ métalloïdes |
 
-67129-08-2
+x |
 
 |
-
-Organochlorés
 
 |
 
-x
+1376 |
 
-|
+Antimoine |
 
-|
+7440-36-0 |
 
-|
+Métaux/ métalloïdes |
 
-1694
+x |
 
 |
-
-Tébuconazole
 
 |
 
-107534-96-3
-
-|
+1383 |
 
-Divers (autres organiques)
+Zinc |
 
-|
+7440-66-6 |
 
-x
+Métaux/ métalloïdes |
 
-|
+x |
 
 |
 
-x
-
 |
 
-1700
+1385 |
 
-|
+Sélénium |
 
-Fenpropidine
+7782-49-2 |
 
-|
+Métaux/ métalloïdes |
 
-67306-00-7
+x |
 
 |
-
-Divers (autres organiques)
 
 |
 
-x
+1389 |
 
-|
+Chrome |
 
-|
+7440-47-3 |
 
-|
+Métaux/ métalloïdes |
 
-1709
+x |
 
 |
-
-Piperonyl butoxyde
 
 |
 
-51-03-6
-
-|
+1390 |
 
-Divers (autres organiques)
+Cyanures totaux |
 
-|
+57-12-5 |
 
-x
+Autres éléments minéraux |
 
-|
+x |
 
-|
+x |
 
 |
 
-1744
+1392 |
 
-|
+Cuivre |
 
-Epoxiconazole
+7440-50-8 |
 
-|
+Métaux/ métalloïdes |
 
-133855-98-8
+x |
 
 |
-
-Triazines et métabolites
 
 |
 
-x
-
-|
+1396 |
 
-|
+Baryum |
 
-x
+7440-39-3 |
 
-|
+Métaux/ métalloïdes |
 
-1796
+x |
 
 |
 
-Métaldéhyde
-
 |
 
-108-62-3
+1406 |
 
-|
+Lénacile |
 
-Divers (autres organiques)
+2164-08-1 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
-|
+x |
 
-x
+1414 |
 
-|
+Propyzamide |
 
-1814
+23950-58-5 |
 
-|
+Divers (autres organiques) |
 
-Diflufenicanil
+x |
 
 |
 
-83164-33-4
-
 |
 
-Divers (autres organiques)
+1462 |
 
-|
+n-Butyl Phtalate (DBP) |
 
-x
+84-74-2 |
 
-|
+Phtalates |
 
-|
+x |
 
 |
 
-1877
-
 |
 
-Imidaclopride
+1474 |
 
-|
+Chlorprophame |
 
-138261-41-3
+101-21-3 |
 
-|
+Carbamates |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
-|
+x |
 
-|
+1480 |
 
-|
+Dicamba |
 
-1903
+1918-00-9 |
 
-|
+Organochlorés |
 
-Acétochlore
+x |
 
 |
 
-34256-82-1
+x |
 
-|
-
-Divers (autres organiques)
+1528 |
 
-|
+Pirimicarbe |
 
-x
+23103-98-2 |
 
-|
+Carbamates |
 
-|
+x |
 
 |
-
-1924
 
-|
+x |
 
-Butyl benzyl phtalate (BBP)
+1670 |
 
-|
+Métazachlore |
 
-85-68-7
+67129-08-2 |
 
-|
+Organochlorés |
 
-Phtalates
+x |
 
 |
-
-x
 
 |
 
-|
+1694 |
 
-|
+Tébuconazole |
 
-1951
+107534-96-3 |
 
-|
+Divers (autres organiques) |
 
-Azoxystrobine
+x |
 
 |
-
-131860-33-8
 
-|
+x |
 
-Divers (autres organiques)
+1700 |
 
-|
+Fenpropidine |
 
-x
+67306-00-7 |
 
-|
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-5296
-
 |
 
-Carbamazepine
+1709 |
 
-|
+Piperonyl butoxyde |
 
-298-46-4
+51-03-6 |
 
-|
+Divers (autres organiques) |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
 |
 
-|
+1744 |
 
-|
+Epoxiconazole |
 
-5349
+133855-98-8 |
 
-|
+Triazines et métabolites |
 
-Diclofenac
+x |
 
 |
 
-15307-86-5
+x |
 
-|
+1796 |
 
-Divers (autres organiques)
+Métaldéhyde |
 
-|
+108-62-3 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-|
+x |
 
-5350
+1814 |
 
-|
+Diflufenicanil |
 
-Ibuprofene
+83164-33-4 |
 
-|
+Divers (autres organiques) |
 
-15687-27-1
+x |
 
 |
-
-Divers (autres organiques)
 
 |
 
-x
+1877 |
 
-|
+Imidaclopride |
 
-|
+138261-41-3 |
 
-|
+Divers (autres organiques) |
 
-5353
+x |
 
 |
-
-Ketoprofene
 
 |
 
-22071-15-4
+1903 |
 
-|
-
-Divers (autres organiques)
+Acétochlore |
 
-|
+34256-82-1 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
 |
 
-5354
+1924 |
 
-|
+Butyl benzyl phtalate (BBP) |
 
-Paracetamol
+85-68-7 |
 
-|
+Phtalates |
 
-103-90-2
+x |
 
 |
 
-Divers (autres organiques)
-
 |
 
-x
+1951 |
 
-|
+Azoxystrobine |
 
-|
+131860-33-8 |
 
-|
+Divers (autres organiques) |
 
-5356
+x |
 
 |
 
-Sulfamethoxazole
-
 |
-
-723-46-6
 
-|
+5296 |
 
-Divers (autres organiques)
+Carbamazepine |
 
-|
+298-46-4 |
 
-x
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
 |
 
-5430
+5349 |
 
-|
+Diclofenac |
 
-Triclosan
+15307-86-5 |
 
-|
+Divers (autres organiques) |
 
-3380-34-5
+x |
 
 |
-
-Autres phénols
 
 |
 
-x
+5350 |
 
-|
+Ibuprofene |
 
-|
+15687-27-1 |
 
-|
+Divers (autres organiques) |
 
-5526
+x |
 
 |
-
-Boscalid
 
 |
 
-188425-85-6
+5353 |
 
-|
+Ketoprofene |
 
-Divers (autres organiques)
+22071-15-4 |
 
-|
+Divers (autres organiques) |
 
-x
+x |
 
 |
 
 |
 
-x
+5354 |
 
-|
+Paracetamol |
 
-6219
+103-90-2 |
 
-|
+Divers (autres organiques) |
 
-Perchlorate
+x |
 
 |
 
-14797-73-0
-
 |
 
-Autres éléments minéraux
+5356 |
 
-|
+Sulfamethoxazole |
 
-x
+723-46-6 |
 
-|
+Divers (autres organiques) |
 
-|
+x |
 
 |
 
-6533
-
 |
 
-Ofloxacine
+5430 |
 
-|
+Triclosan |
 
-82419-36-1
+3380-34-5 |
 
-|
+Autres phénols |
 
-Divers (autres organiques)
+x |
 
 |
-
-x
 
 |
 
-|
+5526 |
 
-|
+Boscalid |
 
-6725
+188425-85-6 |
 
-|
+Divers (autres organiques) |
 
-Carbamazepine epoxide
+x |
 
 |
 
-36507-30-9
+x |
 
-|
+6219 |
 
-Divers (autres organiques)
+Perchlorate |
 
-|
+14797-73-0 |
 
-x
+Autres éléments minéraux |
 
-|
+x |
 
 |
 
 |
 
-5400
+6533 |
 
-|
+Ofloxacine |
 
-Norethindrone
+82419-36-1 |
 
-|
+Divers (autres organiques) |
 
-68-22-4
+x |
 
 |
 
-Stéroles et stéroïdes (oestrogènes, progestogènes)
-
 |
 
-|
+6725 |
 
-x
+Carbamazepine epoxide |
 
-|
+36507-30-9 |
 
-|
+Divers (autres organiques) |
 
-6755
+x |
 
 |
 
-Metformine
-
 |
 
-657-24-9
+5400 |
 
-|
+Norethindrone |
 
-Divers (autres organiques)
+68-22-4 |
 
-|
+Stéroles et stéroïdes (oestrogènes, progestogènes) |
 
 |
 
-x
+x |
 
 |
 
-|
+6755 |
 
-7594
+Metformine |
 
-|
+657-24-9 |
 
-Bisphenol S
+Divers (autres organiques) |
 
 |
 
-80-09-1
+x |
 
 |
-
-Alkylphénols, nonylphénols et bisphénols A
 
-|
+7594 |
 
-|
+Bisphenol S |
 
-x
+80-09-1 |
 
-|
+Alkylphénols, nonylphénols et bisphénols A |
 
 |
-
-Tableau 49 bis. - Fréquences de contrôle des substances dans les eaux souterraines
 
-PARAMÈTRES CONTRÔLÉS
+x |
 
 |
 
-NOMBRE D'ANNÉES
+3. Fréquences
 
-DE SUIVI PAR SDAGE
+Tableau 60 : fréquences de suivi des paramètres de l'état chimique des eaux souterraines
 
-|
-
-FRÉQUENCE DES CONTRÔLES PAR ANNÉE
+Paramètres contrôlés |
 
-|
+Nombre d'année de suivi
 
-SITES CONCERNÉS
+par SDAGE |
 
-|
+Fréquence des contrôles par année |
 
-Les substances de l'analyse régulière
+Sites concernés |
 
-|
+Les substances de l'analyse régulière |
 
 Liste A : 6
 
-Liste B : 3 (*)
+Liste B : 3 (*) |
 
-|
+1 pour les nappes captives, 2 pour les nappes libres avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux. |
 
-1 pour les nappes captives, 2 pour les nappes libres avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux.
+Tous |
 
-|
-
-Tous
-
-|
-
-Les substances de l'analyse intermédiaire
-
-|
+Les substances de l'analyse intermédiaire |
 
 Liste A : 2
 
-Liste B : 1(*)
+Liste B : 1 (*) |
 
-|
+25 % des sites du réseau de contrôle de surveillance |
 
-25 % des sites du réseau de contrôle de surveillance
-
-|
-
-Les substances de l'analyse photographique
-
-|
+Les substances de l'analyse photographique |
 
 Liste A : 1
 
-Liste B : 1 ou 0 (en fonction de la date de réalisation de la campagne) (*)
+Liste B : 1 ou 0 (en fonction de la date de réalisation de la campagne) (*) |
 
-|
+Tous |
 
-Tous
-
-|
-
-(*) En l'absence d'une limite de quantification en vigueur dans l'avis relatif aux limites de quantification des couples "paramètre-matrice" de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques en 2019, la substance ne sera pas analysée.
-
-|
+(*) En l'absence d'une limite de quantification en vigueur dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques en 2019, la substance ne sera pas analysée. |

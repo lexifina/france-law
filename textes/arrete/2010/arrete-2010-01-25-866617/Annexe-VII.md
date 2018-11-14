@@ -1,353 +1,193 @@
 # Article Annexe VII
 
-FRÉQUENCES ET VALEURS GUIDES DE DENSITÉS MINIMALES POUR LE RÉSEAU DE SURVEILLANCE DE L'ÉTAT QUANTITATIF DES EAUX SOUTERRAINES
+FRÉQUENCES ET VALEURS GUIDES DE DENSITÉS MINIMALES POUR LE RÉSEAU DE SURVEILLANCE DE L'ÉTAT QUANTITATIF
+
+DES EAUX SOUTERRAINES
 
 1. Densité minimale
 
-Tableau 41. - Densités minimales pour le réseau de surveillance de l'état quantitatif des eaux souterraines
+Tableau 51 : densités minimales pour le réseau de surveillance de l'état quantitatif des eaux souterraines
 
-TYPE DE LA MASSE D'EAU SOUTERRAINE
+TYPE DE LA MASSE D'EAU SOUTERRAINE |
 
-|
+Valeurs guides de
 
-Valeurs guides de densité minimale (1) (nombre de points/km2)
+DENSITÉ minimale1
 
-|
+(nombre de points/ km2) |
 
-Classes de masses d'eau souterraine
+Classes de masses d'eau souterraine |
 
-|
+Nature des écoulements |
 
-Nature des écoulements
+Dominante sédimentaire non alluviale (DS) |
 
-|
+Entièrement libre (EL) |
 
-Dominante sédimentaire non alluviale (DS)
+Avec présence de karstification |
 
-|
+1/500 |
 
-Entièrement libre (EL)
+Sans présence de karstification |
 
-|
+1/500 |
 
-Avec présence de karstification
+Entièrement captif (EC) |
 
-|
+1/3000 |
 
-1/500
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement libres (ML) |
 
-|
+1/500 |
 
-Sans présence de karstification
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement captifs (MC) |
 
-|
+1/3000 |
 
-1/500
+Alluvial (A) |
 
-|
+1/500 |
 
-Entièrement captif (EC)
+Socle (S) |
 
-|
+1/7000 |
 
-1/3000
+Edifice volcanique (EV) |
 
-|
+1/7000 |
 
-Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement libres (ML)
+Système hydraulique composite propre aux zones intensément plissées de montagne (IP) |
 
-|
+1/7000 |
 
-1/500
+Système imperméable localement aquifère (IL) |
 
-|
+à adapter au cas par cas |
 
-Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement captifs (MC)
-
-|
-
-1/3000
-
-|
-
-Alluvial (A)
-
-|
-
-1/500
-
-|
-
-Socle (S)
-
-|
-
-1/7000
-
-|
-
-Édifice volcanique (EV)
-
-|
-
-1/7000
-
-|
-
-Système hydraulique composite propre aux zones intensément plissées de montagne (IP)
-
-|
-
-1/7000
-
-|
-
-Système imperméable localement aquifère (IL)
-
-|
-
-A adapter au cas par cas
-
-|
-
-(1) Les densités indicatives données dans le tableau ci-dessus peuvent être toutefois diminuées sur la base des connaissances techniques et des avis d'experts argumentés, si cette diminution n'influe pas sur le niveau de connaissance de l'état de la masse d'eau.
-
-|
+1. Les densités indicatives données dans le tableau ci-dessus peuvent être toutefois diminuées sur la base des connaissances techniques et des avis d'experts argumentés, si cette diminution n'influe pas sur le niveau de connaissance de l'état de la masse d'eau. |
 
 2. Fréquences de suivi
 
-Tableau 42. - Fréquences de suivi minimales pour le réseau de surveillance de l'état quantitatif des eaux souterraines
+Tableau 52 : fréquences de suivi minimales pour le réseau de surveillance de l'état quantitatif des eaux souterraines
 
-TYPE DE LA MASSE D'EAU SOUTERRAINE
+TYPE DE LA MASSE D'EAU SOUTERRAINE |
 
-|
+Pression
 
-PRESSION
+(présence
 
-(PRÉSENCE DE POMPAGES)
+de pompages) |
 
-|
+Fréquence
 
-FRÉQUENCE MINIMALE
+minimale |
 
-|
+Dominante sédimentaire non alluviale (DS) |
 
-Dominante sédimentaire non alluviale (DS)
+Libre (s) et captif dissociés |
 
-|
+Entièrement libre (EL) |
 
-Libre(s) et captif dissociés
+Avec présence de karstification |
 
-|
+Oui |
 
-Entièrement libre (EL)
+1/ j |
 
-|
+Non |
 
-Avec présence de karstification
+1/ semaine |
 
-|
+Sans présence de karstification |
 
-Oui
+Oui |
 
-|
+1/ semaine |
 
-1/j
+Non |
 
-|
+1/ 15j |
 
-Non
+Entièrement captif (EC) |
 
-|
+Oui |
 
-1/semaine
+1/ mois |
 
-|
+Non |
 
-Sans présence de karstification
+2/ an (*) |
 
-|
+Libre (s) et captif associés |
 
-Oui
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement captifs (MC) |
 
-|
+Oui |
 
-1/semaine
+1/ mois |
 
-|
+Non |
 
-Non
+2/ an (*) |
 
-|
+Une ou des partie (s) libre (s) et une ou des partie (s) captive (s), les écoulements sont majoritairement libres (ML) |
 
-1/15 j
+Oui |
 
-|
+1/ semaine |
 
-Entièrement captif (EC)
+Non |
 
-|
+1/ 15j |
 
-Oui
+Alluvial (A) |
 
-|
+Oui |
 
-1/mois
+1/ semaine |
 
-|
+Non |
 
-Non
+1/ 15j |
 
-|
+Socle (S) |
 
-2/an (*)
+Oui |
 
-|
+1/ semaine |
 
-Libre(s) et captif associés
+Non |
 
-|
+1/ 15j |
 
-Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement captifs (MC)
+Edifice volcanique (EV) |
 
-|
+Oui |
 
-Oui
+1/ semaine |
 
-|
+Non |
 
-1/mois
+1/ 15j |
 
-|
+Système hydraulique composite propre aux zones intensément plissées de montagne (IP) |
 
-Non
+Oui |
 
-|
+1/ semaine |
 
-2/an (*)
+Non |
 
-|
+1/ 15j |
 
-Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement libres (ML)
+Système imperméable localement aquifère (IL) |
 
-|
+Oui |
 
-Oui
+1/ semaine |
 
-|
+Non |
 
-1/semaine
+1/ 15j |
 
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-Alluvial (A)
-
-|
-
-Oui
-
-|
-
-1/semaine
-
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-Socle (S)
-
-|
-
-Oui
-
-|
-
-1/semaine
-
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-Edifice volcanique (EV)
-
-|
-
-Oui
-
-|
-
-1/semaine
-
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-Système hydraulique composite propre aux zones intensément plissées de montagne (IP)
-
-|
-
-Oui
-
-|
-
-1/semaine
-
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-Système imperméable localement aquifère (IL)
-
-|
-
-Oui
-
-|
-
-1/semaine
-
-|
-
-Non
-
-|
-
-1/15 j
-
-|
-
-(*) Avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux
-
-|
+(*) Avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux |
