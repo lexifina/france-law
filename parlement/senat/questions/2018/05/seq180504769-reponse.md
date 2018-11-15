@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504769
+
+- Question : [SEQ180504769](seq180504769.md) — Déroulement des épreuves du baccalauréat et grèves
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-11-15, page 5806*
+
+Depuis le début du conflit à la SNCF, le ministère de l'éducation nationale et de la jeunesse et le ministère de l'enseignement supérieur et de la recherche scientifique ont travaillé en lien étroit avec le ministère en charge des transports afin d'anticiper au mieux les impacts éventuels de la grève sur l'ensemble des examens relevant du second degré et de l'enseignement supérieur. Pour ce qui est du déroulement des épreuves du baccalauréat, des modalités d'échange entre les académies et les responsables des différentes lignes SNCF sont mises en place chaque année afin d'identifier les zones où l'accès aux centres d'épreuves peut être complexe. En conséquence, ce ne sont pas seulement les seules journées des 18 et 22 juin qui ont fait l'objet d'une veille particulière, mais bien l'ensemble de la semaine des épreuves des baccalauréats général, technologique et professionnel, les journées de reprise de service pouvant, parfois, être aussi perturbées que les jours de grève. Ce dispositif spécifique vient s'ajouter à une organisation qui privilégie la proximité des centres d'examens au bénéfice des candidats et qui constitue donc un degré de sécurité supplémentaire en cas de mouvement de grève. Il n'en demeure pas moins que, selon l'intensité de la mobilisation et les contextes locaux, des candidats ont pu se trouver en difficulté pour accéder à leur centre d'examen. En conséquence, des consignes spécifiques ont été transmises à toutes les académies pour rappeler que les candidats en retard sont autorisés à composer jusqu'à une heure après le début normal des épreuves.
