@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706164
+
+- Question : [SEQ180706164](seq180706164.md) — Situation au Soudan du sud
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2018-11-15, page 5810*
+
+La France contribue à l'effort de la communauté internationale en faveur du traitement de la situation humanitaire effectivement très préoccupante au Soudan du sud. Sur le plan politique, la France a apporté son soutien aux efforts de l'IGAD (Intergovernmental authority for development) et de l'UA pour ramener les protagonistes à la table des négociations. Elle était par ailleurs très engagée en faveur de l'établissement d'un embargo sur les armes, qui a finalement pu être adopté aux Nations unies le 15 juillet 2018. Enfin, elle s'est prononcée, à Bruxelles et à New York, en faveur de sanctions individuelles contre plusieurs protagonistes faisant obstacle au processus de paix. La signature entre Salva Kiir et Rieck Machar de la déclaration de Khartoum, le 27 juin 2018, établissant un cessez-le-feu permanent, a été suivie, le 6 juillet, de la conclusion d'un accord sur les arrangements de sécurité et, le 5 août, de la signature d'un accord sur la gouvernance, dont les présidents soudanais et ougandais sont les garants. L'accord de paix final, signé le 12 septembre 2018 par les principales parties sud-soudanaises, reprend ces différents arrangements. Il constitue une avancée politique notable et apporte un réel répit pour la population sud soudanaise. Il se traduit déjà par une accalmie sur le terrain, bien que la situation sécuritaire reste volatile. La France se félicite que l'engagement de l'IGAD et des pays de la région ait conduit à la signature de cet accord de paix le 12 septembre 2018. Celui-ci ouvre un nouveau chapitre vers l'établissement souhaité d'une paix durable au Soudan du Sud. La France continuera à apporter son soutien à l'ensemble des pays de la région pour atteindre cet objectif trop longtemps repoussé.
