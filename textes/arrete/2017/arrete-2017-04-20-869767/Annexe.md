@@ -2,13 +2,15 @@
 
 Direction |
 
-Application des dispositions de l'arrêté à compter de la paie versée en |
+Application des dispositions de l'arrêté
+
+à compter de la paie versée en |
 
 Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
 
 Avril 2017 |
 
-Direction régionale des finances publiques de Nouvelle Aquitaine et du département de la Gironde |
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde |
 
 Mars 2018 |
 
@@ -52,9 +54,21 @@ Direction départementale des finances publiques d'Indre-et-Loire |
 
 Septembre 2017 |
 
+Direction départementale des finances publiques de la Marne |
+
+Janvier 2019 |
+
 Direction départementale des finances publiques du Puy-de-Dôme |
 
 Juin 2018 |
+
+.
+
+Direction |
+
+Application des dispositions de l'arrêté
+
+à compter de la paie versée en |
 
 Direction départementale des finances publiques des Yvelines |
 
