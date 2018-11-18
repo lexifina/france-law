@@ -1,249 +1,139 @@
 # Article Annexe
 
-MODALITÉS DE DÉTERMINATION DE LA PART PAYÉE PAR L'ASSURANCE MALADIE SELON LE CAS
+MODALITÉS DE DÉTERMINATION DE LA PART PAYÉE PAR L'ASSURANCE MALADIE SELON LE CAS - PRESTATIONS RELEVANT DU CHAMP MCO
 
-DONNÉES
+DONNÉES |
 
-|
+VARIABLES |
 
-VARIABLES
+Tarifs des séjours GHS |
 
-|
+GHS |
 
-Tarifs des séjours GHS
+Forfaits journaliers hospitaliers FJH (incluant le forfait journalier ainsi que le forfait journalier de sortie) |
 
-|
+FJH |
 
-GHS
+Forfaits journaliers FJ |
 
-|
+FJ |
 
-Forfaits journaliers hospitalier FJH
+Tarif journalier de prestations |
 
-(incluant le forfait journalier, ainsi que le forfait journalier de sortie)
+TJP |
 
-|
+Durée de séjour DS |
 
-FJH
+DS |
 
-|
+Taux de remboursement TR |
 
-Forfaits journaliers FJ
+TR |
 
-|
+Taux de ticket modérateur TM |
 
-FJ
+= 1-TR |
 
-|
+Ticket modérateur forfaitaire TMF 18 euros |
 
-Durée de séjour DS
+18 euros |
 
-|
+Coefficient géographique CG |
 
-DS
+CG |
 
-|
+Coefficient prudentiel CP |
 
-Taux de remboursement TR
+CP |
 
-|
+Coefficient relatif aux allègements de charges CAC |
 
-TR
+CAC |
 
-|
+CAS DE PATIENT AVEC UN TICKET MODÉRATEUR À 20 % |
 
-Taux de ticket modérateur TM
+Ticket modérateur M _ TM |
 
-|
+M _ TM = (TJP*DS)*(1-TR) |
 
-= 1 - TR
+Forfait journalier hospitalier M _ FJH |
 
-|
+M _ FJH = (FJ × DS) + FJ (1) |
 
-Ticket modérateur forfaitaire TMF 18 euros
+Forfait journalier M _ FJ |
 
-|
+M _ FJ = (FJ × DS) |
 
-18 euros
+Montant payé par l'assurance maladie AMO : |
 
-|
+si M _ TM < M _ FJH |
 
-Coefficient géographique CG
+M _ AMO = (GHS × CG x CP x CAC) × TR- (M _ FJ-M _ TM) |
 
-|
+si M _ TM > M _ FJH |
 
-CG
+M _ AMO = (GHS × CG × x CP x CAC) × TR |
 
-|
+(1) Le patient acquitte le forfait journalier le jour de sortie. |
 
-Coefficient prudentiel CP
+CAS DE PATIENT EXONÉRÉ DU TM
 
-|
+ET NON EXONÉRÉ DU FORFAIT JOURNALIER |
 
-CP
+Ticket modérateur M _ TM |
 
-|
+0 |
 
-CAS DE PATIENT AVEC UN TICKET MODÉRATEUR À 20 %
+Forfait journalier hospitalier M _ FJH |
 
-|
+M _ FJH = (FJ × DS) + FJ |
 
-Ticket modérateur M _ TM
+Montant payé par l'assurance maladie AMO |
 
-|
+M _ AMO = (GHS × CG x CP x CAC) - ((FJ × DS) + FJ) |
 
-M _ TM = (GHS × CG) × TM
+CAS DE PATIENT EXONÉRÉ DU TM ET DU FORFAIT JOURNALIER |
 
-|
+Ticket modérateur M _ TM |
 
-Forfait journalier hospitalier M _ FJH
+0 |
 
-|
+Forfait journalier hospitalier M _ FJH |
 
-M _ FJH = (FJ × DS) + FJ (1)
+0 |
 
-|
+Montant payé par l'assurance maladie AMO |
 
-Forfait journalier M _ FJ
+M _ AMO = GHS × CG x CP x CAC |
 
-|
+CAS DE PATIENT PRIS EN CHARGE À 100 %
 
-M _ FJ = (FJ × DS)
+SOUMIS AU TM DE 18 € ET NON EXONÉRÉ DU FORFAIT JOURNALIER |
 
-|
+Ticket modérateur forfaitaire M _ TMF |
 
-Montant payé par l'assurance maladie AMO :
+18 euros |
 
-|
+Forfait journalier hospitalier M _ FJH |
 
-|
+M _ FJ = (FJ × DS) + FJ |
 
--si M _ TM < M _ FJH
+Montant payé par l'assurance maladie AMO |
 
-|
+M _ AMO = (GHS × CG x CP x CAC) - ((FJ × DS) + FJ) -18 |
 
-M _ AMO = (GHS × CG x CP) × TR - (M _ FJ-M _ TM)
+CAS DE PATIENT PRIS EN CHARGE À 100 %
 
-|
+soumis au TM de 18 € et exonéré du forfait journalier |
 
--si M _ TM > M _ FJH
+Ticket modérateur forfaitaire M _ TMF |
 
-|
+18 euros |
 
-M _ AMO = (GHS × CG × x CP) × TR
+Forfait journalier hospitalier M _ FJH |
 
-|
+0 |
 
-(1) Le patient acquitte le forfait journalier le jour de sortie.
+Montant payé par l'assurance maladie AMO |
 
-CAS DE PATIENT EXONÉRÉ DU TM ET NON EXONÉRÉ DU FORFAIT JOURNALIER
-
-|
-
-Ticket modérateur M _ TM
-
-|
-
-0
-
-|
-
-Forfait journalier hospitalier M _ FJH
-
-|
-
-M _ FJH = (FJ × DS) + FJ
-
-|
-
-Montant payé par l'assurance maladie AMO
-
-|
-
-M _ AMO = (GHS × CG x CP) - ((FJ × DS) + FJ)
-
-|
-
-CAS DE PATIENT EXONÉRÉ DU TM ET DU FORFAIT JOURNALIER
-
-|
-
-Ticket modérateur M _ TM
-
-|
-
-0
-
-|
-
-Forfait journalier hospitalier M _ FJH
-
-|
-
-0
-
-|
-
-Montant payé par l'assurance maladie AMO
-
-|
-
-M _ AMO = GHS × CG x CP
-
-|
-
-CAS DE PATIENT PRIS EN CHARGE À 100 % SOUMIS AU TM DE 18 € ET NON EXONÉRÉ DU FORFAIT JOURNALIER
-
-|
-
-Ticket modérateur forfaitaire M _ TMF
-
-|
-
-18 euros
-
-|
-
-Forfait journalier hospitalier M _ FJH
-
-|
-
-M _ FJ = (FJ × DS) + FJ
-
-|
-
-Montant payé par l'assurance maladie AMO
-
-|
-
-M _ AMO = (GHS × CG x CP) - ((FJ × DS) + FJ) - 18
-
-|
-
-CAS DE PATIENT PRIS EN CHARGE À 100 % SOUMIS AU TM DE 18 € ET EXONÉRÉ DU FORFAIT JOURNALIER
-
-|
-
-Ticket modérateur forfaitaire M _ TMF
-
-|
-
-18 euros
-
-|
-
-Forfait journalier hospitalier M _ FJH
-
-|
-
-0
-
-|
-
-Montant payé par l'assurance maladie AMO
-
-|
-
-M _ AMO = (GHS × CG x CP) - 18
-
-|
+M _ AMO = (GHS × CG x CP x CAC) -18 |
