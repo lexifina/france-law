@@ -54,7 +54,7 @@ ADAPTATIONS DU VÉHICULE
 
 20.06. Frein actionné par la main
 
-20.07. Actionnement du frein avec une force maximale de ... N (*) [par exemple, " 20.07 (300 N) "]
+20.07. Actionnement du frein avec une force maximale de... N (*) [par exemple, " 20.07 (300 N) "]
 
 20.09. Frein de stationnement adapté
 
@@ -114,7 +114,7 @@ ADAPTATIONS DU VÉHICULE
 
 40. Direction adaptée
 
-40.01. Direction avec une force maximale d'actionnement de ... N [par exemple, " 40.01 (140 N) "]
+40.01. Direction avec une force maximale d'actionnement de... N [par exemple, " 40.01 (140 N) "]
 
 40.05. Volant adapté (volant de section plus large/ épaissi, de diamètre réduit, etc.)
 
@@ -162,9 +162,9 @@ ADAPTATIONS DU VÉHICULE
 
 44.08. Hauteur du siège permettant au conducteur assis de poser les deux pieds au sol en même temps et d'équilibrer le motocycle en cours d'arrêt et en position arrêtée
 
-44.09. Force maximale d'actionnement du frein de la roue avant de ... N (*) [par exemple, " 44.09 (140 N) "]
+44.09. Force maximale d'actionnement du frein de la roue avant de... N (*) [par exemple, " 44.09 (140 N) "]
 
-44.10. Force maximale d'actionnement du frein de la roue arrière de ... N (*) [par exemple, " 44.10 (240 N) "]
+44.10. Force maximale d'actionnement du frein de la roue arrière de... N (*) [par exemple, " 44.10 (240 N) "]
 
 44.11. Repose-pieds adapté
 
@@ -198,11 +198,11 @@ CODES POUR USAGE RESTREINT
 
 61. Restreint aux trajets de jour (par exemple, une heure après le lever du soleil et une heure avant le coucher)
 
-62. Restreint aux trajets dans un rayon de ... km du lieu de résidence du titulaire, ou uniquement à l'intérieur d'une ville/ d'une région
+62. Restreint aux trajets dans un rayon de... km du lieu de résidence du titulaire, ou uniquement à l'intérieur d'une ville/ d'une région
 
 63. Conduite sans passagers
 
-64. Restreint aux trajets à vitesse inférieure ou égale à ... km/ h
+64. Restreint aux trajets à vitesse inférieure ou égale à... km/ h
 
 65. Conduite uniquement autorisée accompagnée d'un titulaire de permis de conduire de catégorie au moins équivalente
 
@@ -216,9 +216,9 @@ CODES POUR USAGE RESTREINT
 
 QUESTIONS ADMINISTRATIVES
 
-70. Echange du permis no ... délivré par ... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 70.0123456789. NL ")
+70. Echange du permis n°... délivré par... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 70.0123456789. NL ")
 
-71. Double du permis no ... délivré par ... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 71.987654321. HR ")
+71. Double du permis n°... délivré par... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 71.987654321. HR ")
 
 73. Limité aux véhicules de la catégorie B de type quadricycle à moteur (B1)
 
@@ -242,11 +242,13 @@ QUESTIONS ADMINISTRATIVES
 
 81. Limité aux titulaires d'un permis pour un véhicule de la catégorie A de type motocycle à deux roues qui n'ont pas atteint l'âge de 21 ans
 
-95. Conducteur titulaire du CAP répondant à l'obligation d'aptitude professionnelle prévue par la directive 2003/59/ CE jusqu'au ... [par exemple, " 95 (01.01.12) "]
+95. Conducteur titulaire du CAP répondant à l'obligation d'aptitude professionnelle prévue par la directive 2003/59/ CE jusqu'au... [par exemple, " 95 (01.01.12) "]
 
 96. Véhicules de la catégorie B auxquels est attelée une remorque dont la masse maximale autorisée dépasse 750 kg et où la masse maximale autorisée de l'ensemble est supérieure à 3 500 kg mais inférieure à 4 250 kg
 
-97. Non habilité à conduire un véhicule de la catégorie C1 qui relève du champ d'application du règlement (CEE) no 3821/85
+97. Non habilité à conduire un véhicule de la catégorie C1 qui relève du champ d'application du règlement (CEE) n° 3821/85.
+
+100. Limité aux véhicules équipés d'un dispositif homologué d'anti-démarrage par éthylotest conforme à la norme EN 50436, dans le cadre de l'article R. 224-6 du code de la route (EAD-R. 224-6).
 
 101. Catégorie C limitée à 7 500 kg jusqu'à vingt et un ans.
 
@@ -256,7 +258,7 @@ QUESTIONS ADMINISTRATIVES
 
 105. Dispense du I de l'article R. 413-5, premier alinéa.
 
-106. Soumis à l'application du I de l'article R. 413-5 du .../ .../ ... au .../ .../ ...
+106. Soumis à l'application du I de l'article R. 413-5 du.../.../... au.../.../...
 
 108. Limité aux véhicules de type cyclomoteur à deux ou trois roues pour les titulaires de la catégorie AM qui n'ont pas atteint l'âge de 16 ans.
 
