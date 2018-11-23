@@ -1,0 +1,762 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2018-11-23
+- JO n° : 0271
+- NOR : INPX1802665X
+- Origine : JORF n°0271 du 23 novembre 2018
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037637396
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire de 2018-2019
+
+1. Réunions
+
+Lundi 26 novembre 2018
+
+Commission des affaires sociales :
+
+A 15 h 30 (salle 6351, Affaires sociales) :
+
+- projet de loi de financement de la sécurité sociale pour 2019 (nouvelle lecture) (amendements, art. 88).
+
+Mardi 27 novembre 2018
+
+Commission des affaires étrangères :
+
+A 17 h 30 (salle 4223, 33, rue Saint-Dominique, 2e étage) :
+
+- « L'avenir de la zone euro » (rapport d'information).
+
+Commission du développement durable :
+
+A 17 h 15 (salle 6237, Développement durable) :
+
+- audition de représentants de la Fédération nationale des chasseurs (FNC) sur le projet de création de l'AFB-ONCFS.
+
+Mercredi 28 novembre 2018
+
+Commission des affaires culturelles :
+
+A 9 h 30 (salle 6238, Affaires culturelles) :
+
+- rapport d'information sur l'organisation de la fonction d'évaluation du système éducatif (n° 1265).
+
+Commission des affaires économiques :
+
+A 9 h 30 (salle 6241, Affaires économiques) :
+
+- proposition de loi visant à encadrer le démarchage téléphonique et à lutter contre les appels frauduleux (n° 1284) (rapport).
+
+A 16 h 30 (salle Victor Hugo) :
+
+- présentation, conjointement avec la commission des affaires sociales, la commission du développement durable et de l'aménagement du territoire et la commission des lois, du rapport de la mission d'évaluation de la loi « Macron » (M. Yves Blein, président, MM. Daniel Fasquelle et Philippe Huppé, rapporteurs).
+
+Commission des affaires étrangères :
+
+A 9 h 30 (salle 4223, 33, rue Saint-Dominique, 2e étage) :
+
+- « La diplomatie climatique » (rapport d'information).
+
+Commission des affaires sociales :
+
+A 9 h 30 (salle 6351, Affaires sociales) :
+
+- proposition de loi, adoptée par le Sénat, visant à favoriser la reconnaissance des proches aidants (n° 1353) (rapport) ;
+
+- proposition de loi visant à améliorer la santé visuelle des personnes âgées en perte d'autonomie (n° 1326) (rapport) ;
+
+- proposition de loi relative à la réforme de la Caisse des Français de l'étranger (n° 631) (rapport) ;
+
+- proposition de loi visant à sécuriser l'exercice des praticiens diplômés hors Union européenne (n° 1386) (rapport).
+
+A 16 h 30 (salle Victor Hugo) :
+
+- examen des conclusions de la mission d'information commune conjointe avec la commission des affaires économiques, la commission du développement durable et la commission des lois, sur l'évaluation de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, dite « loi Macron ».
+
+A 18 h 30 (salle 6351, Affaires sociales) :
+
+A 18 h 30, ou à l'issue de la réunion de 16 h 30 :
+
+- proposition de loi, adoptée par le Sénat, visant à favoriser la reconnaissance des proches aidants (n° 1353) (rapport) ;
+
+- proposition de loi visant à améliorer la santé visuelle des personnes âgées en perte d'autonomie (n° 1326) (rapport) ;
+
+- proposition de loi relative à la réforme de la Caisse des Français de l'étranger (n° 631) (rapport) ;
+
+- proposition de loi visant à sécuriser l'exercice des praticiens diplômés hors Union européenne (n° 1386) (rapport).
+
+A 21 h 30 (salle 6351, Affaires sociales) :
+
+- suite de l'ordre du jour du matin :
+
+- proposition de loi, adoptée par le Sénat, visant à favoriser la reconnaissance des proches aidants (n° 1353) (rapport) ;
+
+- proposition de loi visant à améliorer la santé visuelle des personnes âgées en perte d'autonomie (n° 1326) (rapport) ;
+
+- proposition de loi relative à la réforme de la Caisse des Français de l'étranger (n° 631) (rapport) ;
+
+- proposition de loi visant à sécuriser l'exercice des praticiens diplômés hors Union européenne (n° 1386) (rapport).
+
+Commission de la défense :
+
+A 9 h 30 (salle 4123, 33, rue Saint-Dominique) :
+
+- audition de l'ingénieur général Jean Charles Ferré, directeur central du service des essences des armées.
+
+Commission du développement durable :
+
+A 9 heures (salle Lamartine) :
+
+- audition de M. Pierre Dubreuil, directeur général délégué du Museum national d'histoire naturelle, directeur général en charge de la préfiguration du nouvel établissement AFB-ONCFS.
+
+A 10 h 45 (salle Lamartine) :
+
+- table ronde de représentants d'associations environnementales sur le projet de création de l'AFB ONCFS.
+
+A 16 h 30 (salle Victor Hugo) :
+
+- évaluation de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, dite « Loi Macron » (rapport d'information).
+
+Commission des finances :
+
+A 9 h 30 (salle 6350, Finances) :
+
+- projet de loi de finances rectificative pour 2018 (lecture définitive) ;
+
+- audition de M. Antoine Durrleman, président de la sixième chambre de la Cour des comptes, sur le rapport d'enquête réalisé par la Cour, en application du 2° de l'article 58 de la loi organique relative aux lois de finances, sur la dépense fiscale des entreprises relative au mécénat.
+
+Commission spéciale chargée d'examiner le projet de loi habilitant le Gouvernement à prendre par ordonnance les mesures de préparation au retrait du Royaume-Uni de l'Union européenne :
+
+A 10 heures (6e bureau) :
+
+- audition de Mme Nathalie Loiseau, ministre auprès du ministre de l'Europe et des affaires étrangères, chargée des affaires européennes.
+
+Délégation aux collectivités territoriales et à la décentralisation :
+
+A 13 h 30 (salle 6241, Affaires économiques) :
+
+- communication de Mmes Anne Blanc et Véronique Louwagie, co-rapporteures, en conclusion des travaux de la mission flash sur l'efficacité du dispositif des zones de revitalisation rurale à l'aune de la politique européenne ;
+
+- création d'un groupe de travail et saisine pour avis sur la proposition de loi, adoptée par le Sénat, portant création d'une agence nationale de la cohésion des territoires (n° 1393) et la proposition de loi organique, adoptée par le Sénat, relative à la nomination du directeur général de l'agence nationale de la cohésion des territoires (n° 1394), et désignation d'un rapporteur pour avis.
+
+Mission d'information commune sur le foncier agricole :
+
+A 11 heures (salle 6549, 2e étage) :
+
+- présentation et vote sur le rapport de la mission d'information commune sur le foncier agricole.
+
+Jeudi 29 novembre 2018
+
+Commission des affaires économiques :
+
+A 8 h 45 (salle 6241, Affaires économiques) :
+
+- éventuellement, examen en application de l'article 88 du Règlement des amendements restant en discussion sur la proposition de loi pour la protection des activités agricoles et des cultures marines en zone littorale (n° 1417) (M. Jimmy Pahun, rapporteur).
+
+Commission des affaires sociales :
+
+A 9 heures (salle 6351, Affaires sociales) :
+
+- prise en charge des cancers pédiatriques par la recherche, le soutien aux aidants familiaux, la formation des professionnels et le droit à l'oubli (n° 1328) (rapport) (amendements, art. 88).
+
+Commission spéciale chargée d'examiner le projet de loi habilitant le Gouvernement à prendre par ordonnance les mesures de préparation au retrait du Royaume-Uni de l'Union européenne :
+
+A 10 heures (salle 6350, 1er étage Palais-Bourbon) :
+
+- audition de M. Gérald Darmanin, ministre de l'action et des comptes publics ;
+
+- échange de vues sur l'état d'avancement des travaux du rapporteur (réunion non ouverte à la presse).
+
+Délégation aux collectivités territoriales et à la décentralisation :
+
+A 8 h 30 (salle 6238, Affaires culturelles) :
+
+- audition de M. Sébastien Lecornu, ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé des collectivités territoriales.
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 9 h 30 (salle 6241, Affaires économiques) :
+
+- réunion préparatoire.
+
+A 10 h 30 (salle 6241, Affaires économiques) :
+
+- audition, en table ronde, ouverte à la presse, sur l'artisanat dans le secteur de la construction : M. Jean Passini, président de la Commission environnement de la Fédération française du bâtiment (FFB) ; M. Jérôme Gatier, directeur du Plan bâtiment durable ; M. Christophe Boucaux, directeur de la maîtrise d'ouvrage et des politiques patrimoniales de l'Union sociale pour l'habitat (USH), M. Nicolas Cailleau, responsable du département Energie et environnement, direction de la maîtrise d'ouvrage et des politiques patrimoniales, et Mme Francine Albert, conseillère pour les relations avec le Parlement ; M. Christian Mourougane, directeur général adjoint de l'Agence nationale de l'habitat (ANAH) ; M. Pascal Roger, président de la Fédération des services énergie environnement (FEDENE), et M. Frédéric Gharbi-Mazieux, responsable des affaires institutionnelles et territoriales ; M. Benoît Robyns, vice-président transition énergétique et sociétale de l'Université catholique de Lille ; M. Bertrand Derquenne, proviseur du lycée Jacques Le Caron.
+
+Mission d'information commune sur le suivi de la stratégie de sortie du glyphosate :
+
+A 11 heures (salle 6237, Développement durable) :
+
+- audition, ouverte à la presse, de M. Philippe Mauguin, président-directeur général, de M. Xavier Reboud, chargé de mission auprès du directeur scientifique « agriculture », et de M. Marc Gauchée, conseiller du président-directeur général pour les relations parlementaires et institutionnelles de l'Institut national de la recherche agronomique (INRA).
+
+Mercredi 5 décembre 2018
+
+Mission d'information sur les agrocarburants :
+
+A 11 h 30 (3e bureau) :
+
+- réunion constitutive de la mission ;
+
+- désignation du bureau ;
+
+- échange de vues des membres et programme de travail.
+
+2. Ordre du jour prévisionnel
+
+Mardi 27 novembre 2018
+
+Mission d'information sur le terrorisme : lutter contre le financement du terrorisme international :
+
+A 13 h 30 :
+
+- audition de M. Pierre Conesa, essayiste, ancien haut fonctionnaire au ministère de la défense.
+
+Mercredi 28 novembre 2018
+
+Commission des affaires européennes :
+
+A 17 heures (6e bureau) :
+
+- fiscalité du numérique (rapport d'information et conclusions).
+
+Commission des lois :
+
+A 10 heures (salle 6242, Lois) :
+
+- examen, en deuxième lecture, de la proposition de loi, modifiée par le Sénat, visant à faciliter la sortie de l'indivision successorale et à relancer la politique du logement en outre-mer ;
+
+- nomination rapporteur.
+
+A 16 h 30 (salle Victor Hugo, 101, rue de l'Université) :
+
+- examen des conclusions de la mission d'information, commune avec les commissions des affaires économiques, des affaires sociales et du développement durable, sur l'évaluation de la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques (M. Bruno Questel et Mme Cécile Untermaier, rapporteurs au nom de la commission des lois).
+
+Jeudi 29 novembre 2018
+
+Commission des affaires européennes :
+
+A 9 h 30 (6e bureau) :
+
+- audition de Mme Nicole Belloubet, ministre de la justice, garde des sceaux ;
+
+- enjeux de l'industrie européenne de défense (rapport d'information).
+
+Commission des lois :
+
+A 14 h 45 (salle 6242, Lois) :
+
+- proposition de loi relative à l'interdiction des violences éducatives ordinaires (n° 1331) et proposition de loi visant à améliorer la trésorerie des associations (n° 1329) (amendements, art. 88).
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 9 h 30 (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du colonel Pal Berglund, attaché de défense de Norvège en France.
+
+A 11 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition de M. Abdelkader Arbi, aumônerie militaire musulmane.
+
+Lundi 3 décembre 2018
+
+Commission des lois :
+
+A 15 h 45 (salle 6242, Lois) :
+
+- proposition de résolution européenne relative au respect de l'Etat de droit au sein de l'Union européenne (amendements, art. 88).
+
+Mardi 4 décembre 2018
+
+Commission des affaires culturelles :
+
+A 16 h 15 (salle 6238, Affaires culturelles) :
+
+- audition de Mme Frédérique Vidal, ministre de l'enseignement supérieur, de la recherche et de l'innovation, sur Parcoursup.
+
+Commission des affaires économiques :
+
+A 16 h 30 (salle Lamartine) :
+
+- présentation, conjointement avec la commission du développement durable et de l'aménagement du territoire, du rapport de la mission d'information commune sur le foncier agricole (M. Jean-Bernard Sempastous, président, Mme Anne-Laurence Petel et M. Dominique Potier, rapporteurs).
+
+Commission des affaires étrangères :
+
+A 17 heures :
+
+- Compte rendu, ouvert à la presse, de la mission au Liban, du 25 au 28 octobre 2018, d'une délégation de la commission des affaires étrangères conduite par la présidente Mme Marielle de Sarnez et composée de M. Claude Goasguen, Mme Samantha Cazebonne, M. Joachim Son-Forget.
+
+Commission des affaires européennes :
+
+A 17 h 30 (6e bureau) :
+
+- projet de règlement sur l'évaluation des technologies de santé (communication) ;
+
+- Cadre Financier Pluriannuel (CFP) (communication) ;
+
+- projet de libre-échange entre l'Union européenne et le Vietnam (communication).
+
+Commission du développement durable :
+
+A 16 h 30 (salle Lamartine) :
+
+- présentation, conjointe avec la commission des affaires économiques, du rapport de la mission d'information commune sur le foncier agricole.
+
+A 18 h 30 (salle 6237, Développement durable) :
+
+- examen du projet de loi, après engagement de la procédure accélérée, portant création de l'AFB-ONCFS, modifiant les missions des fédérations des chasseurs et renforçant la police de l'environnement (n° 1402) ;
+
+- examen, pour avis, du projet de loi organique, après engagement de la procédure accélérée, modifiant la loi organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution (n° 1401).
+
+A 21 heures (salle 6237, Développement durable) :
+
+- éventuellement, suite de l'examen du projet de loi, après engagement de la procédure accélérée, portant création de l'AFB-ONCFS, modifiant les missions des fédérations des chasseurs et renforçant la police de l'environnement (n° 1402) ;
+
+- éventuellement, suite de l'examen, pour avis, du projet de loi organique, après engagement de la procédure accélérée, modifiant la loi organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution (n° 1401).
+
+Mission d'information sur la radicalisation dans les services publics :
+
+A 10 heures (salle 6549, 2e étage) :
+
+- audition de Mme Anne Josso, secrétaire générale de la Mission interministérielle de vigilance et de lutte contre les dérives sectaires (Miviludes), et de Mme Audrey Keysers, secrétaire générale adjointe chargée de la communication et des relations avec les élus.
+
+Mission d'information sur le secteur spatial de défense :
+
+A 9 h 30 (salle 4013, 33, rue Saint-Dominique) :
+
+- audition de M. Joël Barre, délégué général pour l'armement, de Mme Caroline Laurent, directrice de la stratégie, et de M. Robin Jaulmes, conseiller technique.
+
+Mercredi 5 décembre 2018
+
+Commission des affaires culturelles :
+
+A 9 h 30 (salle 6238, Affaires culturelles) :
+
+- audition de M. Maxime Saada, président du directoire du groupe Canal+.
+
+Commission des affaires économiques :
+
+A 9 h 30 (salle 6241, Affaires économiques) :
+
+- audition de M. Bruno Bonnell sur les conclusions de sa mission temporaire, confiée par le Premier ministre, sur l'industrie dans les territoires.
+
+Commission des affaires étrangères :
+
+A 9 h 30 :
+
+- modification de l'acte portant élection des membres du Parlement européen (n° 1355) (première lecture) (rapport) ;
+
+- audition, ouverte à la presse, de M. Hervé Berville, député, sur son rapport remis au Premier ministre sur « La modernisation de la politique partenariale de développement et de solidarité internationale ».
+
+Commission du développement durable :
+
+A 9 h 30 (salle 6237, Développement durable) :
+
+- suite de l'examen du projet de loi, après engagement de la procédure accélérée, portant création de l'AFB-ONCFS, modifiant les missions des fédérations des chasseurs et renforçant la police de l'environnement (n° 1402) ;
+
+- suite de l'examen du projet de loi organique, après engagement de la procédure accélérée, modifiant la loi organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution (n° 1401).
+
+A 16 h 30 (salle 6237, Développement durable) :
+
+- suite de l'examen du projet de loi, après engagement de la procédure accélérée, portant création de l'AFB-ONCFS, modifiant les missions des fédérations des chasseurs et renforçant la police de l'environnement (n° 1402) ;
+
+- suite de l'examen du projet de loi organique, après engagement de la procédure accélérée, modifiant la loi organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution (n° 1401).
+
+A 21 heures (salle 6237, Développement durable) :
+
+- éventuellement suite de l'examen du projet de loi, après engagement de la procédure accélérée, portant création de l'AFB-ONCFS, modifiant les missions des fédérations des chasseurs et renforçant la police de l'environnement (n° 1402) ;
+
+- éventuellement suite de l'examen du projet de loi organique, après engagement de la procédure accélérée, modifiant la loi organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution (n° 1401).
+
+Commission des finances :
+
+A 16 h 15 (salle 6350, Finances) :
+
+- audition de la Cour des comptes, sur le rapport d'enquête réalisé par la Cour, en application du 2° de l'article 58 de la loi organique relative aux lois de finances, sur les droits d'inscription dans l'enseignement supérieur.
+
+Commission des lois :
+
+A 9 h 30 (salle 6242, Lois) :
+
+- examen de la proposition de résolution tendant à la création d'une commission d'enquête sur la lutte contre les groupuscules d'extrême droite en France (n° 1392).
+
+Jeudi 6 décembre 2018
+
+Commission des affaires économiques :
+
+A 8 h 45 (salle 6241, Affaires économiques) :
+
+- éventuellement, proposition de loi visant à encadrer le démarchage téléphonique et à lutter contre les appels frauduleux (n° 1284) (amendements, art. 88).
+
+Délégation aux collectivités territoriales et à la décentralisation :
+
+A 8 heures (salle 4123, 33, rue Saint-Dominique) :
+
+- audition de M. Jérôme Chartier, premier vice-président de la région Ile-de-France, chargé de la stratégie institutionnelle et des relations internationales.
+
+A 9 heures (salle 4123, 33, rue Saint-Dominique) :
+
+- audition des présidents des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ou de leurs représentants.
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 9 h 30 (salle 4013, 33, rue Saint-Dominique) :
+
+- audition de AIDES.
+
+A 11 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition.
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire : les questions fiscales, avec Mme Bénédicte Peyrol, députée et, sous réserve de confirmation, M. Jean-René Cazeneuve, député, président de la délégation aux collectivités territoriales et à la décentralisation.
+
+A 9 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse, sur l'énergie solaire et photovoltaïque (composition en cours de confirmation).
+
+Mardi 11 décembre 2018
+
+Commission des affaires culturelles :
+
+A 16 h 15 (salle 6238, Affaires culturelles) :
+
+- audition de M. Didier Guillaume, ministre de l'agriculture et de l'alimentation, sur le thème de l'enseignement agricole (enseignement secondaire et supérieur).
+
+Commission des affaires économiques :
+
+A 17 heures (salle Lamartine) :
+
+- audition, conjointe avec la commission du développement durable et de l'aménagement du territoire, et la commission des affaires européennes de M. Jean-Baptiste Lemoyne, secrétaire d'Etat auprès du ministre de l'Europe et des affaires étrangères, sur les accords commerciaux de l'Union européenne.
+
+Commission des affaires étrangères :
+
+A 17 heures :
+
+- audition, ouverte à la presse, de M. Georges Malbrunot, sur « L'Arabie saoudite et son environnement régional ».
+
+Commission des affaires européennes :
+
+A 17 heures (salle Lamartine) :
+
+- accords de libre-échange : audition conjointe avec la commission du développement durable et la commission des affaires économiques, de M. Jean-Baptiste Lemoyne, secrétaire d'Etat auprès du ministre de l'Europe et des affaires étrangères.
+
+Commission du développement durable :
+
+A 17 heures (salle Lamartine) :
+
+- audition, conjointe avec la commission des affaires économiques et la commission des affaires européennes, de M. Jean-Baptiste Lemoyne, secrétaire d'Etat auprès du ministre de l'Europe et des affaires étrangères, sur les accords commerciaux de l'Union européenne.
+
+Mission d'information sur la radicalisation dans les services publics :
+
+A 9 heures (salle 6549, 2e étage) :
+
+- audition de M. Fabien Carrié, chargé de recherche au FRS-FNRS, et de M. Laurent Bonelli, sociologue, maître de conférences à l'université Paris X-Nanterre.
+
+A 10 heures (salle 6549, 2e étage) :
+
+- audition de M. Michel Delpuech, préfet de police de Paris.
+
+Mercredi 12 décembre 2018
+
+Commission des affaires culturelles :
+
+A 9 h 30 (salle 6238, Affaires culturelles) :
+
+- audition de M. Frédéric Jousset, chargé du pilotage du projet de Pass Culture pour les jeunes.
+
+Commission des affaires économiques :
+
+A 9 h 30 (salle Victor Hugo) :
+
+- présentation, conjointement avec la commission des finances et la commission des lois du rapport de la mission d'information commune sur les usages des bloc-chaînes (blockchains) et autres technologies de certification de registres (Mme Laure de la Raudière, rapporteure).
+
+Commission des affaires étrangères :
+
+A 9 h 30 :
+
+- compte rendu, ouvert à la presse, de la mission aux Comores, du 14 au 19 octobre 2018, d'une délégation de la commission des affaires étrangères conduite par Mme Laetitia Saint-Paul et composée de Mme Annie Chapelier, Mme Bérengère Poletti, Mme Monica Michel.
+
+A 17 heures :
+
+- audition de M. Jean-Yves Le Drian, ministre de l'europe et des affaires étrangères.
+
+Commission de la défense :
+
+A 9 h 30 (salle 4123, 33, rue Saint-Dominique) :
+
+- missiles anti-navires (rapport d'information).
+
+Commission des finances :
+
+A 9 h 30 (salle Victor Hugo) :
+
+- mission d'information commune sur les usages des bloc-chaînes (blockchains) et autres technologies de certification de registres (examen, rapport).
+
+A 17 h 30 (salle 6350, Finances) :
+
+- audition de M. Didier Migaud, président, sur le rapport du Conseil des prélèvements obligatoires : Les taxes affectées : des instruments à mieux encadrer.
+
+Commission des lois :
+
+A 9 h 30 (salle Victor Hugo) :
+
+- examen, conjoint avec les commissions des affaires économiques et des finances, de l'économie générale et du contrôle budgétaire, du rapport de la mission d'information commune sur les usages des bloc-chaînes (blockchains) et autres technologies de certification de registres (Mme Laure de La Raudière et M. Jean-Michel Mis, rapporteurs).
+
+Jeudi 13 décembre 2018
+
+Commission des affaires européennes :
+
+A 10 heures (salle 4223, 33, rue Saint-Dominique) :
+
+- politique européenne en matière d'innovation de rupture (table ronde).
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 9 h 30 (salle 4013, 33, rue Saint-Dominique) :
+
+- audition de M. le vice-amiral d'escadre Eric Schérer, inspecteur de la marine nationale.
+
+A 11 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du Pasteur Etienne Waechter, aumônier en chef à l'aumônerie militaire protestante.
+
+Mardi 18 décembre 2018
+
+Commission des affaires culturelles :
+
+A 16 h 15 (salle 6238, Affaires culturelles) :
+
+- présentation du rapport d'information sur la rentrée scolaire à Mayotte et à La Réunion (MM. Bruno Studer et Régis Juanico, rapporteurs).
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 17 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du GCA Gilles Modéré, inspecteur de l'armée de l'air.
+
+Mercredi 19 décembre 2018
+
+Commission des finances :
+
+A 9 h 30 (salle 6350, Finances) :
+
+- « Au cœur de l'économie » : audition de représentants de l'Institut national de la statistique et des études économiques (INSEE), et de la Banque de France sur la conjoncture et un thème d'actualité.
+
+Jeudi 20 décembre 2018
+
+Délégation aux collectivités territoriales et à la décentralisation :
+
+A 8 h 30 (salle 4123, 33, rue Saint-Dominique) :
+
+- audition de Mme Anne Hidalgo, Maire de Paris.
+
+A 9 h 30 (salle 4123, 33, rue Saint-Dominique) :
+
+- audition de représentants des établissements publics territoriaux (EPT) de la métropole du grand Paris.
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 9 h 30 (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du vice-amiral d'escadre Olivier Coupry, inspecteur des armées.
+
+A 11 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du vice-amiral d'escadre Philippe Hello, directeur des ressources humaines du ministère de la défense, et de CA Anne de Clauzade de Mazieux, DP labellisation.
+
+Mercredi 16 janvier 2019
+
+Commission des finances :
+
+A 9 h 30 (salle 6350, Finances) :
+
+- audition de Mme Sophie Errante, présidente de la commission de surveillance de la Caisse des dépôts et consignations, et de M. Éric Lombard, directeur général.
+
+Jeudi 17 janvier 2019
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire.
+
+A 9 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse, sur l'énergie éolienne terrestre (composition en cours de confirmation).
+
+A 11 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse, sur l'énergie éolienne maritime (composition en cours de confirmation).
+
+Jeudi 24 janvier 2019
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire.
+
+A 9 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse, sur la filière hydrogène (composition en cours de confirmation).
+
+A 11 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse, sur la méthanisation (composition en cours de confirmation).
+
+Mardi 29 janvier 2019
+
+Mission d'information sur l'évaluation des dispositifs de lutte contre les discriminations au sein des forces armées :
+
+A 17 heures (salle 4013, 33, rue Saint-Dominique) :
+
+- audition du GCA Thiery Burkhard, inspecteur de l'armée de terre.
+
+Jeudi 31 janvier 2019
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire.
+
+A 9 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse : « voiture propre », état des lieux (composition en cours de confirmation).
+
+A 11 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse : « voiture propre », prospective et recherches (composition en cours de confirmation).
+
+Jeudi 7 février 2019
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire.
+
+A 9 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse : transport maritime (composition en cours de confirmation).
+
+A 11 h 30 (salle de la commission) :
+
+- audition, en table ronde, ouverte à la presse : transport aérien (composition en cours de confirmation).
+
+Jeudi 7 mars 2019
+
+Mission d'information relative aux freins à la transition énergétique :
+
+A 8 h 30 (salle de la commission) :
+
+- réunion préparatoire.
+
+A 9 h 30 (salle de la commission) :
+
+- auditions, en table ronde, ouvertes à la presse.
+
+3. Membres présents ou excusés
+
+Commission des affaires européennes :
+
+Réunion du mercredi 21 novembre 2018, à 16 h 35 :
+
+Présents. - M. Pieyre-Alexandre Anglade, Mme Aude Bono-Vandorme, M. Jean-Louis Bourlanges, M. Bernard Deflesselles, Mme Marguerite Deprez-Audebert, M. Jérôme Lambert, M. Jean-Claude Leclabart, M. Ludovic Mendes, M. Xavier Paluszkiewicz, M. Damien Pichereau, M. Jean-Pierre Pont, Mme Liliana Tanguy, Mme Sabine Thillaye.
+
+Excusés. - Mme Sophie Auconie, Mme Françoise Dumas, M. Alexandre Holroyd, Mme Nicole Le Peih.
+
+Commission des affaires européennes :
+
+Réunion du jeudi 22 novembre 2018, à 9 h 05 :
+
+Présents. - M. Patrice Anato, Mme Aude Bono-Vandorme, M. Jean-Louis Bourlanges, Mme Yolaine de Courson, M. Benjamin Dirx, M. Xavier Paluszkiewicz, M. Joaquim Pueyo, M. Benoit Simian, Mme Sabine Thillaye.
+
+Excusés. - Mme Sophie Auconie, Mme Françoise Dumas, Mme Nicole Le Peih, Mme Liliana Tanguy.
+
+Commission des affaires sociales :
+
+Réunion du mercredi 21 novembre 2018, à 9 h 30 :
+
+Présents. - M. Joël Aviragnet, Mme Delphine Bagarry, Mme Ericka Bareigts, M. Belkhir Belhaddad, Mme Justine Benin, Mme Gisèle Biémouret, M. Julien Borowczyk, Mme Brigitte Bourguignon, Mme Marine Brenier, Mme Blandine Brocard, M. Sébastien Chenu, M. Gérard Cherpion, M. Guillaume Chiche, M. Paul Christophe, Mme Christine Cloarec, Mme Josiane Corneloup, M. Dominique Da Silva, M. Marc Delatte, M. Pierre Dharréville, Mme Jeanine Dubié, Mme Audrey Dufeu Schubert, Mme Nathalie Elimas, Mme Agnès Firmin Le Bodo, Mme Emmanuelle Fontaine-Domeizel, Mme Albane Gaillot, Mme Anne Genetet, Mme Carole Grandjean, M. Jean-Carles Grelier, M. Brahim Hammouche, Mme Monique Iborra, Mme Caroline janvier, Mme Fadila Khattabi, M. Mustapha Laabid, M. Michel Lauzzana, Mme Geneviève Levy, M. Gilles Lurton, M. Sylvain Maillard, M. Thomas Mesnier, M. Thierry Michels, M. Bernard Perrut, M. Laurent Pietraszewski, Mme Claire Pitollat, M. Adrien Quatennens, M. Alain Ramadier, Mme Mireille Robert, Mme Laëtitia Romeiro Dias, Mme Nicole Sanquer, M. Adrien Taquet, Mme Élisabeth Toutut-Picard, Mme Isabelle Valentin, M. Boris Vallaud, Mme Michèle de Vaucouleurs, M. Olivier Véran, M. Francis Vercamer, Mme Annie Vidal, Mme Corinne Vignon, M. Stéphane Viry, Mme Martine Wonner.
+
+Excusés. - Mme Claire Guion-Firmin, Mme Charlotte Lecocq, M. Jean-Philippe Nilor, Mme Nadia Ramassamy, M. Jean-Hugues Ratenon.
+
+Assistaient également à la réunion. - M. Jean-François Eliaou, Mme Isabelle Florennes, Mme Laurence Trastour-Isnart.
+
+Réunion du mercredi 21 novembre 2018, à 17 heures :
+
+Présents. - M. Joël Aviragnet, Mme Delphine Bagarry, M. Belkhir Belhaddad, Mme Justine Benin, Mme Gisèle Biémouret, M. Julien Borowczyk, Mme Brigitte Bourguignon, M. Paul Christophe, M. Marc Delatte, M. Pierre Dharréville, M. Jean-Pierre Door, Mme Audrey Dufeu Schubert, Mme Nathalie Elimas, Mme Emmanuelle Fontaine-Domeizel, Mme Albane Gaillot, Mme Carole Grandjean, M. Jean-Carles Grelier, M. Brahim Hammouche, Mme Monique Iborra, Mme Charlotte Lecocq, M. Gilles Lurton, M. Sylvain Maillard, M. Thomas Mesnier, M. Thierry Michels, M. Laurent Pietraszewski, Mme Claire Pitollat, M. Alain Ramadier, Mme Stéphanie Rist, Mme Mireille Robert, Mme Laëtitia Romeiro Dias, M. Boris Vallaud, Mme Michèle de Vaucouleurs, M. Francis Vercamer, Mme Annie Vidal, Mme Corinne Vignon, Mme Martine Wonner.
+
+Excusés. - Mme Ericka Bareigts, Mme Claire Guion-Firmin, M. Jean-Philippe Nilor, Mme Nadia Ramassamy, M. Jean-Hugues Ratenon, Mme Nicole Sanquer.
+
+Commission de la défense nationale et des forces armées :
+
+Réunion du mercredi 21 novembre 2018, à 16 h 30 :
+
+Présents. - M. Jean-Philippe Ardouin, M. Didier Baichère, M. Xavier Batut, M. Stéphane Baudu, M. Thibault Bazin, M. Christophe Blanchet, M. Jean-Jacques Bridey, M. Philippe Chalumeau, M. André Chassaigne, M. Alexis Corbière, M. Jean-Pierre Cubertafon, M. Yannick Favennec Becot, M. Jean-Jacques Ferrara, M. Jean-Marie Fiévet, M. Thomas Gassilloud, Mme Séverine Gipson, M. Fabien Gouttefarde, M. Jean-Michel Jacques, Mme Anissa Khedher, M. Bastien Lachaud, Mme Frédérique Lardet, M. Jean-Charles Larsonneur, M. Didier Le Gac, M. Jacques Marilossian, M. Philippe Michel-Kleisbauer, Mme Patricia Mirallès, Mme Josy Poueyto, M. Joaquim Pueyo, M. Jean-Louis Thiériot, Mme Laurence Trastour-Isnart, M. Stéphane Travert, Mme Nicole Trisse, M. Patrice Verchère, M. Charles de la Verpillière.
+
+Excusés. - M. François André, M. Pieyre-Alexandre Anglade, M. Florian Bachelier, M. Olivier Becht, Mme Aude Bono-Vandorme, M. Sylvain Brial, Mme Carole Bureau-Bonnard, M. Luc Carvounas, Mme Françoise Dumas, M. Richard Ferrand, Mme Pascale Fontenel-Personne, M. Laurent Furst, M. Claude de Ganay, Mme Manuéla Kéclard-Mondésir, M. Loïc Kervran, M. Jean-Christophe Lagarde, M. Fabien Lainé, M. Gilles Le Gendre, Mme Natalia Pouzyreff, Mme Sabine Thillaye, Mme Alexandra Valetta Ardisson.
+
+Commission du développement durable et de l'aménagement du territoire :
+
+Réunion du mercredi 21 novembre 2018, à 17 heures :
+
+Présents. - Mme Sophie Auconie, M. Jean-Yves Bony, Mme Pascale Boyer, M. Lionel Causse, M. Jean-Charles Colas-Roy, M. Paul-André Colombani, Mme Yolaine de Courson, M. Vincent Descoeur, Mme Patricia Gallerneau, M. Guillaume Garot, M. Yannick Haury, Mme Stéphanie Kerbarh, Mme Florence Lasserre-David, M. Jean-Claude Leclabart, M. Emmanuel Maquet, Mme Sandra marsaud, M. Bruno Millienne, Mme Mathilde Panot, M. Alain Perea, Mme Barbara Pompili, Mme Véronique Riotton, M. Martial Saddier, M. Jean-Marie Sermier, Mme Frédérique Tuffnell, M. Jean-Marc Zulesi.
+
+Excusés. - M. Christophe Arend, Mme Nathalie Bassire, M. Christophe Bouillon, Mme Danielle Brulebois, M. Christian Jacob, Mme Sandrine Le Feur, M. David Lorion, Mme Sophie Panonacle, M. Loïc Prud'homme, Mme Laurianne Rossi, M. Gabriel Serville, Mme Hélène Vainqueur-Christophe, M. Hubert Wulfranc.
+
+Commission des finances, de l'économie générale et du contrôle budgétaire :
+
+Réunion du jeudi 22 novembre 2018, à 9 heures :
+
+Présents. - M. Jean-Louis Bourlanges, M. Jean-Louis Bricout, Mme Émilie Cariou, M. Jean-René Cazeneuve, M. Philippe Chassaing, Mme Marie-Christine Dalloz, M. Benjamin Dirx, Mme Stella Dupont, M. Joël Giraud, Mme Olivia Gregoire, Mme Nadia Hai, M. François Jolivet, M. Daniel Labaronne, M. Mohamed Laqhila, M. Michel Lauzzana, M. Vincent Ledoux, Mme Patricia Lemoine, M. Fabrice Le Vigoureux, Mme Véronique Louwagie, M. Jean-Paul Mattei, Mme Amélie de Montchalin, Mme Cendra Motin, Mme Catherine Osson, M. Xavier Paluszkiewicz, M. Hervé Pellois, Mme Bénédicte Peyrol, Mme Christine Pires Beaune, Mme Sabine Rubin, M. Laurent Saint-Martin, M. Jacques Savatier, M. Benoit Simian, Mme Marie-Christine Verdier-Jouclas, M. Éric Woerth.
+
+Excusés. - M. Marc Le Fur, Mme Valérie Rabault, M. Olivier Serva, M. Philippe Vigier.
+
+Assistaient également à la réunion. - M. Patrice Anato, Mme Aude Bono-Vandorme, Mme Yolaine de Courson, M. Joaquim Pueyo, Mme Sabine Thillaye.
+
+Réunion du jeudi 22 novembre 2018, à 10 h 45 :
+
+Présents. - M. Jean-Louis Bourlanges, M. Jean-Louis Bricout, Mme Émilie Cariou, M. Jean-René Cazeneuve, M. Philippe Chassaing, Mme Marie-Christine Dalloz, M. Benjamin Dirx, Mme Stella Dupont, M. Joël Giraud, Mme Olivia Gregoire, Mme Nadia Hai, M. François Jolivet, M. Daniel Labaronne, M. Mohamed Laqhila, M. Michel Lauzzana, M. Vincent Ledoux, Mme Patricia Lemoine, M. Fabrice Le Vigoureux, Mme Véronique Louwagie, M. Jean-Paul Mattei, Mme Amélie de Montchalin, Mme Cendra Motin, Mme Catherine Osson, M. Xavier Paluszkiewicz, M. Hervé Pellois, Mme Bénédicte Peyrol, Mme Christine Pires Beaune, Mme Sabine Rubin, M. Laurent Saint-Martin, M. Jacques Savatier, M. Benoit Simian, Mme Marie-Christine Verdier-Jouclas, M. Éric Woerth.
+
+Excusés. - M. Marc Le Fur, Mme Valérie Rabault, M. Olivier Serva, M. Philippe Vigier.
+
+Assistaient également à la réunion. - M. Patrice Anato, Mme Aude Bono-Vandorme, Mme Yolaine de Courson, M. Joaquim Pueyo, Mme Sabine Thillaye.
+
+Délégation aux outre-mer :
+
+Réunion du mercredi 21 novembre 2018, à 16 h 30 :
+
+Présents. - M. Lénaïck Adam, Mme Huguette Bello, Mme Justine Benin, Mme Annie Chapelier, M. Raphaël Gérard, Mme Sandrine Josso, M. Mohamed Laqhila, M. Max Mathiasin, Mme Monica Michel, Mme George Pau-Langevin, Mme Cécile Rilhac, Mme Maina Sage, Mme Nicole Sanquer, M. Olivier Serva.
+
+Excusés. - Mme Ericka Bareigts, Mme Nathalie Bassire, M. Sylvain Brial, M. André Chassaigne, M. Stéphane Claireaux, Mme Françoise Dumas, M. Philippe Dunoyer, M. Philippe Gomès, M. Philippe Gosselin, M. Jean-Christophe Lagarde, Mme Charlotte Lecocq, M. David Lorion, Mme Josette Manin, M. Jean-Philippe Nilor, M. Jean-Luc Poudroux, Mme Nadia Ramassamy, M. Jean-Hugues Ratenon.
+
+Assistait également à la réunion. - Mme Frédérique Dumas.
+
+Délégation de l'Assemblée nationale aux droits des femmes et à l'égalité des chances entre les hommes et les femmes :
+
+Réunion du mercredi 21 novembre 2018, à 16 h 20 :
+
+Présents. - Mme Sophie Auconie, Mme Marie-Noëlle Battistel, Mme Valérie Boyer, M. Pierre Cabaré, Mme Céline Calvez, M. Guillaume Chiche, Mme Bérangère Couillard, Mme Pascale Fontenel-Personne, Mme Laurence Gayte, M. Guillaume Gouffier-Cha, M. Mustapha Laabid, Mme Nicole Le Peih, Mme Cécile Muschotti, Mme Isabelle Rauch, Mme Marie-Pierre Rixain, Mme Laëtitia Romeiro Dias, Mme Laurence Trastour-Isnart.
+
+Excusé. - Mme Sophie Panonacle.
+
+Assistaient également à la réunion. - M. Alain David, Mme Stella Dupont, M. Gaël Le Bohec, Mme Sereine Mauborgne, Mme Frédérique Meunier.
+
+Délégation de l'Assemblée nationale aux droits des femmes et à l'égalité des chances entre les hommes et les femmes :
+
+Réunion du jeudi 22 novembre 2018, à 10 h 20 :
+
+Présents. - Mme Valérie Boyer, M. Pierre Cabaré, Mme Annie Chapelier, M. Mustapha Laabid, Mme Laurence Trastour-Isnart.
+
+Excusés. - Mme Sophie Auconie, Mme Nicole Le Peih, Mme Isabelle Rauch, Mme Marie-Pierre Rixain.
+
+Assistaient également à la réunion. - M. Bruno Joncour, Mme Marion Lenne, M. Jean François Mbaye, M. Didier Quentin, Mme Valérie Thomas, Mme Michèle Victory, M. Sylvain Waserman.
