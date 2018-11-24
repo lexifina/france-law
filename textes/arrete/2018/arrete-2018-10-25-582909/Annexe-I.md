@@ -222,7 +222,7 @@ Cet exercice est noté sur 8 points.
 
 Une note inférieure à 4 sur 8 à l'issue des deux essais entraîne l'arrêt la phase 1 de l'épreuve hors circulation (phase de " maîtrise de la motocyclette hors circulation ").
 
-MANIABILITÉ À ALLURE REDUITE |
+MANIABILITÉ À ALLURE RÉDUITE |
 
 1 point |
 
@@ -242,9 +242,9 @@ Aucune reprise d'équilibre avec pied (s) au sol |
 
 |
 
-X |
-
 |
+
+X |
 
 1 reprise d'équilibre avec pied (s) au sol |
 
@@ -264,7 +264,9 @@ X |
 
 1 seul cône renversé ou déplacé |
 
-X |
+X
+
+|
 
 |
 
@@ -280,9 +282,9 @@ A l'aller, l'IPCSR stagiaire atteint la vitesse minimum de 40 km/ h à la ligne 
 
 Il doit au passage en ligne C6 effectuer un freinage d'urgence et immobiliser sa moto :
 
--avant la ligne C5 si la piste est sèche ;
+- avant la ligne C5 si la piste est sèche ;
 
--avant la ligne C4 si la piste est humide.
+- avant la ligne C4 si la piste est humide.
 
 Critères d'évaluation
 
