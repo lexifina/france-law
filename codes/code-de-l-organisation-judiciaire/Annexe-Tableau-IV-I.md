@@ -218,6 +218,10 @@ Saint-Martin |
 
 Tribunal d'instance |
 
+Pointe-à-Pitre |
+
+Tribunal de grande instance |
+
 Cour d'appel de Bastia |
 
 Corse-du-Sud |
@@ -1012,7 +1016,7 @@ Saint-Denis |
 
 Tribunal d'instance |
 
-Saint-Ouen |
+Saint-Ouen* |
 
 Tribunal d'instance |
 
@@ -1228,7 +1232,7 @@ Tribunal de grande instance, tribunal d'instance |
 
 Saint-Malo |
 
-Tribunal de grande instance, conseil de prud'hommes |
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes |
 
 Loire-Atlantique |
 
@@ -1458,4 +1462,8 @@ Tribunal d'instance, conseil de prud'hommes |
 
 Versailles |
 
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes |
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes
+
+|
+
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de Saint-Ouen est désormais dénommée Saint-Ouen-sur-Seine.
