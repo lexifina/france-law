@@ -6,7 +6,7 @@ Les secteurs locatifs sont les suivants :
 
 -logements appartenant ou gérés par les organismes d'habitations à loyer modéré ;
 
--logements appartenant aux sociétés d'économie mixte, aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations, aux collectivités publiques, aux sociétés filiales d'un organisme collecteur de la contribution des employeurs à l'effort de construction et aux filiales de ces organismes autres que celles mentionnées à l'alinéa ci-dessus ;
+-logements appartenant aux sociétés d'économie mixte, aux sociétés immobilières à participation majoritaire de la Caisse des dépôts et consignations, aux collectivités publiques, aux sociétés filiales directes et indirectes de la société mentionnée à l'article L. 313-20 du code de la construction et de l'habitation autres que celles mentionnées à l'alinéa ci-dessus, à un collecteur agréé par le ministre chargé du logement dans des conditions fixées par décret en Conseil d'Etat aux fins de collecter la participation des employeurs à l'effort de construction ;
 
 -logements appartenant aux entreprises d'assurance, aux établissements de crédit, aux sociétés de financement et aux filiales de ces organismes et aux personnes morales autres que celles mentionnées aux deux alinéas précédents ;
 
