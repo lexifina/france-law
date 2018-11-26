@@ -1,0 +1,149 @@
+# Orientation des mobilités (LOM)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37029
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_orientation_mobilites
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-157.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-11-26 : 1er dépôt d'une initiative. (PRJLSNR5S319B0157)
+  - 2019-02-21 : Dépôt d'une lettre rectificative. (LETTSNR5S319B0339)
+  - 2018-11-26 : Etude d'impact (ETDISNR5S319B0157)
+  - 2019-02-21 : Avis du Conseil d'Etat (AVCESNR5S319B0339)
+  - 2018-11-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-11-26 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-03-06 : Dépôt de rapport (RAPPSNR5S319B0368, PRJLSNR5S319BTC0369)
+    - Travaux d'une commission saisie pour avis
+      - 2018-11-27 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-02-20 : Dépôt de rapport (AVISSNR5S319B0347)
+  - Discussion en séance publique
+    - 2019-03-19 : Discussion en séance publique
+    - 2019-03-20 : Discussion en séance publique
+    - 2019-03-21 : Discussion en séance publique
+    - 2019-03-26 : Discussion en séance publique
+    - 2019-03-27 : Discussion en séance publique
+    - 2019-03-28 : Discussion en séance publique
+    - 2019-04-02 : Discussion en séance publique
+    - 2019-04-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-04-03 : Dépôt d'une initiative en navette (PRJLANR5L15B1831)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-03 : Renvoi en commission au fond
+      - 2018-12-04 : Nomination de rapporteur
+      - 2019-05-14 : Réunion de commission
+      - 2019-05-14 : Réunion de commission
+      - 2019-05-16 : Réunion de commission
+      - 2019-05-16 : Réunion de commission
+      - 2019-05-16 : Réunion de commission
+      - 2019-05-17 : Réunion de commission
+      - 2019-05-17 : Réunion de commission
+      - 2019-05-17 : Réunion de commission
+      - 2019-05-20 : Réunion de commission
+      - 2019-05-20 : Réunion de commission
+      - 2019-05-21 : Réunion de commission
+      - 2019-05-21 : Réunion de commission
+      - 2019-05-22 : Réunion de commission
+      - 2019-05-22 : Réunion de commission
+      - 2019-06-03 : Réunion de commission
+      - 2019-06-11 : Réunion de commission
+      - 2019-05-23 : Dépôt de rapport (RAPPANR5L15B1974, PRJLANR5L15BTC1974)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-03 : Saisine pour avis d'une commission
+      - 2019-01-30 : Nomination de rapporteur
+      - 2019-05-07 : Réunion de commission
+      - 2019-05-07 : Dépôt de rapport (AVISANR5L15B1937)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-03 : Saisine pour avis d'une commission
+      - 2019-03-20 : Nomination de rapporteur
+      - 2019-05-13 : Dépôt de rapport (AVISANR5L15B1942)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-03 : Saisine pour avis d'une commission
+      - 2019-04-03 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-05-07 : Dépôt de rapport (AVISANR5L15B1938)
+  - Discussion en séance publique
+    - 2019-06-03 : Discussion en séance publique
+    - 2019-06-03 : Discussion en séance publique
+    - 2019-06-04 : Discussion en séance publique
+    - 2019-06-04 : Discussion en séance publique
+    - 2019-06-05 : Discussion en séance publique
+    - 2019-06-05 : Discussion en séance publique
+    - 2019-06-06 : Discussion en séance publique
+    - 2019-06-06 : Discussion en séance publique
+    - 2019-06-06 : Discussion en séance publique
+    - 2019-06-07 : Discussion en séance publique
+    - 2019-06-07 : Discussion en séance publique
+    - 2019-06-07 : Discussion en séance publique
+    - 2019-06-11 : Discussion en séance publique
+    - 2019-06-11 : Discussion en séance publique
+    - 2019-06-12 : Discussion en séance publique
+    - 2019-06-13 : Discussion en séance publique
+    - 2019-06-13 : Discussion en séance publique
+    - 2019-06-13 : Discussion en séance publique
+    - 2019-06-14 : Discussion en séance publique
+    - 2019-06-14 : Discussion en séance publique
+    - 2019-06-14 : Discussion en séance publique
+    - 2019-06-18 : Discussion en séance publique
+    - 2019-06-18 : Décision
+- Commission Mixte Paritaire
+  - 2019-06-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-07-10 : Nomination de rapporteur
+    - 2019-07-10 : Dépôt du rapport d'une CMP (RAPPANR5L15B2131)
+    - 2019-07-10 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0662, PRJLSNR5S319BTC0663)
+  - 2019-07-11 : Décision de la CMP
+- Nouvelle Lecture
+  - 2019-07-11 : Dépôt d'une initiative en navette (PRJLANR5L15B2135)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-11 : Renvoi en commission au fond
+      - 2019-09-02 : Réunion de commission
+      - 2019-09-02 : Réunion de commission
+      - 2019-09-03 : Réunion de commission
+      - 2019-09-03 : Réunion de commission
+      - 2019-09-10 : Réunion de commission
+      - 2019-09-04 : Dépôt de rapport (RAPPANR5L15B2206, PRJLANR5L15BTC2206)
+  - Discussion en séance publique
+    - 2019-09-10 : Discussion en séance publique
+    - 2019-09-10 : Discussion en séance publique
+    - 2019-09-11 : Discussion en séance publique
+    - 2019-09-11 : Discussion en séance publique
+    - 2019-09-12 : Discussion en séance publique
+    - 2019-09-12 : Discussion en séance publique
+    - 2019-09-17 : Discussion en séance publique
+    - 2019-09-17 : Décision
+- Nouvelle Lecture
+  - 2019-09-18 : Dépôt d'une initiative en navette (PRJLSNR5S319B0730)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-09-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-10-23 : Dépôt de rapport (RAPPSNR5S339B0085, PRJLSNR5S339BTC0086)
+  - Discussion en séance publique
+    - 2019-11-05 : Discussion en séance publique
+    - 2019-11-05 : Décision
+- Lecture définitive
+  - 2019-11-06 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0331)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-11-06 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2019-11-19 : Discussion en séance publique
+    - 2019-11-19 : Discussion en séance publique
+    - 2019-11-19 : Décision
+- Conseil constitutionnel
+  - 2019-11-27 : Saisine du conseil constitutionnel
+  - 2019-11-27 : Saisine du conseil constitutionnel
+  - 2019-12-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-12-24 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-07-29 : Rapport sur l'application des lois (RINFANR5L15B3277)
