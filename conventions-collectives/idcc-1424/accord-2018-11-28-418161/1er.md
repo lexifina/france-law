@@ -1,0 +1,99 @@
+# Article 1er
+
+L'article 4 de la convention collective nationale des réseaux de transports publics urbains de voyageurs (CCNTU) est remplacé par les dispositions suivantes :
+
+« Article 4
+
+Missions de la commission paritaire permanente de négociation et d'interprétation transports urbains
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains exerce les missions suivantes :
+
+Article 4.1
+
+Missions générales
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains :
+
+– représente la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
+
+– exerce un rôle de veille sur les conditions de travail et l'emploi ;
+
+– établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'article L. 2231-5-1 du code du travail. Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du code du travail, en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche, et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées. Il comprend également un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle, des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ainsi qu'un bilan des outils mis à disposition des entreprises pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes.
+
+Article 4.2
+
+Mission de négociation
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains a pour missions de :
+
+– négocier sur les thèmes obligatoires prévus par la loi ;
+
+– proposer et négocier tout accord ou avenant relatif à la convention collective nationale des réseaux de transports publics urbains de voyageurs.
+
+Article 4.3
+
+Mission d'interprétation
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains :
+
+– peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire ;
+
+– est chargée d'étudier et résoudre les difficultés nées de l'application de la convention collective nationale des réseaux de transports publics urbains de voyageurs ;
+
+– est chargée de donner son avis en cas de difficulté d'interprétation de la convention collective nationale des réseaux de transports publics urbains de voyageurs.
+
+Dans tous les cas de différends collectifs, les membres de la commission paritaire permanente de négociation et d'interprétation transports urbains s'engagent à soumettre le litige à l'examen de ladite commission pour lui permettre de donner son avis dans les 15 jours.
+
+Article 4.4
+
+Liens avec l'observatoire paritaire de la négociation collective et du dialogue social
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains délègue à l'observatoire paritaire de la négociation collective et du dialogue social l'établissement du rapport annuel d'activité prévu à l'article L. 2232-9 du code du travail.
+
+Ce rapport est transmis et présenté à la commission paritaire permanente de négociation et d'interprétation transports urbains pour validation. à cette occasion, la commission paritaire permanente de négociation et d'interprétation transports urbains peut formuler toute observation ou demande qu'elle juge nécessaire.
+
+Ce rapport annuel comprend :
+
+– un bilan des accords d'entreprise et d'établissement conclus pour la mise en œuvre d'une disposition législative ou d'une disposition conventionnelle de branche tel que prévu par l'article 3.4 de l'accord de branche du 3 décembre 2007 « sur le développement du dialogue social, la prévention des conflits et la continuité du service public dans les transports urbains de voyageurs ». Il est rappelé que ce bilan prend particulièrement en compte les accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du code du travail ;
+
+– une prise en compte de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche ;
+
+– le cas échéant, des recommandations destinées à répondre aux difficultés identifiées ;
+
+– un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle, des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ainsi qu'un bilan des outils mis à disposition des entreprises pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes.
+
+Pour l'établissement de ce rapport, les accords collectifs d'entreprise et d'établissement conclus pour la mise en œuvre d'une disposition législative ou d'une disposition conventionnelle de branche sont transmis à l'observatoire paritaire de la négociation collective et du dialogue social, qui accuse réception de ces documents :
+
+– soit par voie postale à l'adresse suivante : ONDS-TU, 17, rue d'Anjou, 75008 Paris ;
+
+– soit par courriel à l'adresse suivante : onds@utp.fr.
+
+Les partenaires sociaux rappellent que tout changement d'adresse doit être notifié au ministère chargé du travail.
+
+Lors de la transmission des accords collectifs visés ci-dessus, la partie à l'accord effectuant cette transmission en informe les autres signataires, après suppression des noms et prénoms des négociateurs et des signataires.
+
+Ces documents seront conservés par la commission paritaire permanente de négociation et d'interprétation transports urbains pour une durée de 2 ans et sont consultables par ses membres.
+
+Il est rappelé que le secrétariat est assuré par la ou les organisations patronales représentatives dans la branche des réseaux de transports publics urbains de voyageurs.
+
+Article 4.5
+
+Composition de la commission paritaire permanente de négociation et d'interprétation transports urbains
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains est composée :
+
+– d'une part, de la délégation des représentants des employeurs, désignés par la ou les organisation(s) patronale(s) représentative(s) dans la branche des réseaux de transports publics urbains de voyageurs ;
+
+– d'autre part, des délégations des représentants des salariés désignées par les organisations syndicales reconnues représentatives dans la branche des réseaux de transports publics urbains de voyageurs, dans la limite maximale de quatre représentants par organisation syndicale.
+
+La commission peut être présidée par un représentant du ministère du travail qui dirige les débats.
+
+Article 4.6
+
+Fonctionnement de la commission paritaire permanente de négociation et d'interprétation transports urbains
+
+La commission paritaire permanente de négociation et d'interprétation transports urbains est réunie au moins trois fois par an en vue notamment de mener les négociations obligatoires prévues par le code du travail.
+
+Elle définit son calendrier de négociation dans les conditions prévues à l'article L. 2222-3 du code du travail.
+
+Elle est réunie par son président à la demande de l'une de ses délégations. »
