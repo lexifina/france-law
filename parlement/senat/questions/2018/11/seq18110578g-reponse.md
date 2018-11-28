@@ -1,0 +1,19 @@
+# Réponse à la question SEQ18110578G
+
+- Question : [SEQ18110578G](seq18110578g.md) — Moyens des associations contre les violences faites aux femmes
+
+## Réponse
+
+*Égalité femmes hommes et lutte contre les discriminations, JO du 2018-11-28, page 16898*
+
+Mme Marlène Schiappa, secrétaire d'État auprès du Premier ministre, chargée de l'égalité entre les femmes et les hommes et de la lutte contre les discriminations. Madame la sénatrice Michelle Meunier, je voudrais d'abord rappeler que le budget du programme 137 du budget de l'État, celui qui est consacré aux droits des femmes, a été cette année pour la première fois, exécuté à 100 %. Je n'y suis pas pour rien, évidemment, mais je crois que nous pouvons collectivement remercier le ministre de l'action et des comptes publics, Gérald Darmanin (Bravo ! et applaudissements sur les travées du groupe La République En Marche. – Protestations sur les travées du groupe Les Républicains.), qui a fait en sorte de débloquer cet argent pour les droits des femmes, et ce pour la première fois. Merci, Gérald Darmanin ! (Vives protestations sur les travées du groupe Les Républicains.)Nous avons par ailleurs consacré, avec Mme la ministre du travail, Muriel Pénicaud, 1 million d'euros pour les partenaires sociaux et les associations qui portent des projets contre les violences sexistes et sexuelles au travail. Le Premier ministre, Édouard Philippe, a lancé et financé depuis Matignon, une grande campagne, dotée de 4 millions d'euros, pour interpeller les témoins de ces violences sexistes et sexuelles.
+
+En 2019, c'est 530 millions d'euros que l'État consacrera à l'égalité entre les femmes et les hommes. C'est un record historique ! En 2018, nous avons augmenté considérablement un certain nombre de budgets d'associations comme le Mouvement du Nid qui accompagne des personnes prostituées – plus 150 000 euros pour un budget qui a été doublé –, le Collectif féministe contre le viol – plus 60 000 euros et ensuite plus 100 000 euros –, le planning familial – plus 100 000 euros, c'est plus de 40 % –, Excision, parlons-en ! – plus 300 % pour accompagner un plan voulu par le Premier ministre en vue de lutter contre l'excision –, la Fédération GAMS – budget multiplié par deux.
+
+Toutes les subventions nationales pour les associations qui luttent contre les violences sexistes et sexuelles sont soit maintenues, soit augmentées. En moyenne, c'est plus 21,3 % d'augmentation en faveur de ces associations, y compris le 39 19 – plus 120 000 euros –, etc. Bien sûr, le Gouvernement va mesurer l'efficacité de ces actions fléchées.
+
+Madame la sénatrice, pour ce qui concerne l'hébergement, vous avez raison : nous avons des progrès à faire, et nous ferons ce travail ensemble pour assurer un hébergement à toutes ces femmes. C'est pour cela que nous créons une plateforme de géolocalisation des hébergements d'urgence. Le but – passez-moi l'expression – est de mettre face à face la demande et l'offre d'hébergement existantes, afin que toutes ces femmes puissent être en sécurité. (Applaudissements sur des travées du groupe La République En Marche.)
+
+M. le président. La parole est à Mme Michelle Meunier, pour la réplique.
+
+Mme Michelle Meunier. Madame la secrétaire d'État, par vos propos, vous vous efforcez de nous rassurer, mais la réalité est tout autre. Ainsi, dans le département dont je suis l'élue, la Loire-Atlantique, l'association Solidarité Femmes a vu ses crédits de nuitées d'hôtel diminuer de moitié en 2018. En conséquence, cinquante femmes et une centaine d'enfants sont restés sans solution, et certaines de ces femmes ont été contraintes de retourner vivre auprès d'un ex-mari ou d'un ex-compagnon violent… (Applaudissements sur les travées du groupe socialiste et républicain, ainsi que sur des travées du groupe communiste républicain citoyen et écologiste. – Mme Annick Billon applaudit également.)
