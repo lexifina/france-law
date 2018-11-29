@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806663
+
+- Question : [SEQ180806663](seq180806663.md) — Contrôle des données des détenteurs de jets privés
+
+## Réponse
+
+*Intérieur, JO du 2018-11-29, page 6052*
+
+Le système Advance Passenger Information/Passenger Name Record (API/PNR) France - et son Unité Information Passagers (UIP) - ne traite pas des données des passagers empruntant les vols dits « d'affaires ». Il en est de même dans les autres États de l'Union européenne. Les bases légales du système API/PNR France (données d'enregistrement et données de réservation), tant nationales (articles L. 232-7 et R. 232-12 et suivants du code de la sécurité intérieure) qu'européennes (directive n° 2016/681 du 27 avril 2016 relative à l'utilisation des données des dossiers passagers - PNR - pour la prévention et la détection des infractions terroristes et des formes graves de criminalité, ainsi que pour les enquêtes et les poursuites en la matière), circonscrivent l'envoi des données API/PNR à l'UIP aux seuls vols commerciaux opérés par des compagnies aériennes et utilisant un fournisseur de données. Faire peser cette obligation sur des acteurs qui n'ont pas recours à ce schéma et qui seraient donc dans l'impossibilité technique de s'y conformer, poserait des difficultés. En effet, ils ne générent pas de dossiers passagers au sens des normes PNR.GOV (pour les PNR) et PAXLIST (pour les API) édictées par l'Organisation de l'aviation civile internationale (OACI) et l'Association internationale du transport aérien (International Air Transport Association-IATA). Pour autant, les vols d'affaires font systématiquement l'objet de contrôles de sûreté au départ. Les services de l'État procèdent à un contrôle transfrontière systématique (passage aux fichiers de police, etc.) des personnes (passagers et équipages) à l'arrivée et au départ pour tout vol extra-Schengen. Enfin, la douane est également présente.
