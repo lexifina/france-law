@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404519
+
+- Question : [SEQ180404519](seq180404519.md) — Projet d'implantation d'une prison à Limeil-Brévannes
+
+## Réponse
+
+*Justice, JO du 2018-11-29, page 6054*
+
+Le programme immobilier pénitentiaire prévoit la construction de 15 000 places de prisons supplémentaires afin notamment d'améliorer la prise en charge des détenus et les conditions de travail des personnels. Les nouveaux établissements seront implantés sur les territoires où la densité carcérale est la plus forte, en particulier en Île-de-France. Le programme prévoit de diversifier les établissements pour mieux adapter les régimes de détention à la situation de chaque détenu selon sa peine, son profil, son parcours et ses objectifs de réinsertion. Ainsi, à côté des places très sécurisées ou à sûreté adaptée construites au sein de maisons d'arrêt, de nouvelles structures d'accompagnement vers la sortie, les SAS, seront créées pour accueillir des condamnés à des courtes peines ou des détenus qui finissent leur temps de détention. Situées dans les grandes agglomérations, elles permettront d'accueillir des intervenants extérieurs pour préparer de manière active la sortie, notamment les associations intervenant sur la lutte contre les addictions, la recherche d'emploi, de logement, etc. C'est un établissement de ce type, qui constitue un lieu de détention et non une prison semi-ouverte, qui sera construit dans le Val-de-Marne. En région parisienne, des SAS seront également créées à Noisy-le-Grand, Poissy, Osny et Meaux. Parmi les terrains identifiés dans le cadre des recherches foncières, l'un d'entre eux est situé sur la commune de Limeil-Brévannes. À ce jour, le lieu d'implantation d'un SAS n'a pas encore été arrêté dans le Val de Marne, mais le projet ne pourra être réalisé sur ce site que s'il est compatible avec le téléphérique urbain qui vise à desservir les communes proches.
