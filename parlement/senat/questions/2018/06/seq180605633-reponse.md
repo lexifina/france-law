@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605633
+
+- Question : [SEQ180605633](seq180605633.md) — Définition d'une voie publique routière
+
+## Réponse
+
+*Transports, JO du 2018-11-29, page 6078*
+
+L'article L. 116-2 du code de la voirie routière (CVR), définissant les compétences en termes de constatation d'infraction et d'établissement de procès-verbaux relatifs à la police de la conservation du domaine public routier ainsi que les catégories de voies sur lesquelles elles s'appliquent, emploie le terme de « voie » et non de « domaine ». L'article L. 111-1 du CVR définit le domaine public routier comme l'ensemble des biens du domaine public affectés aux besoins de la circulation terrestre, à l'exception des voies ferrées. Cette définition a été complétée par la doctrine administrative qui a défini l'emprise de la route comme correspondant à la surface du terrain appartenant à la personne publique et affectée à la route ainsi qu'à ses dépendances. L'emprise recouvre donc les accotements et l'assiette de la route, à savoir la chaussée mais également la plate-forme qui est la surface de la route comprenant la chaussée. L'article L. 2111-2 du code général de la propriété des personnes publiques définit les dépendances comme des biens qui font également partie du domaine public et qui en constituent un accessoire indissociable. Dès lors, les biens implantés sur le domaine public qui présentent un lien de dépendance fonctionnelle avec la voie, ou en sont l'accessoire, suivent le sort de cette voie et font également partie du domaine public routier, à défaut de preuve contraire. Ils font l'objet de la même protection au titre de la police de conservation du domaine public routier. Ce peut être des éléments naturels ou artificiels. Le terme de voie employé à l'article L.116-2 du CVR prend donc en compte le sens large rappelé ci-dessus.
