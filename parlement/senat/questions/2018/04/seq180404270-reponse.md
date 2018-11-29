@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404270
+
+- Question : [SEQ180404270](seq180404270.md) — Financement de l'école maternelle obligatoire
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-11-29, page 6047*
+
+La création des écoles maternelles, comme celle des écoles élémentaires, relève de la compétence des communes en application des articles L. 212-1 (qui reprend sur ce point l'article L. 2121-30 du code général des collectivités territoriales) et L. 212-4 du code de l'éducation. Même si le taux de scolarisation des enfants âgés de trois à cinq ans est actuellement de 98,9 %, l'extension de l'instruction obligatoire aux enfants âgés de trois à cinq ans constitue une extension de compétence au sens de l'article 72-2 de la Constitution qui doit, en application des mêmes dispositions, être « accompagnée de ressources déterminées par la loi ». Un article du projet de loi abaissant l'âge de l'instruction obligatoire à 3 ans prévoit donc que l'État attribuera des ressources aux communes qui enregistreraient, durant l'année scolaire 2019-2020 (année scolaire d'entrée en vigueur de l'extension de l'instruction obligatoire) et du fait de cette seule extension de compétence, une augmentation de leurs dépenses obligatoires par rapport à celles qu'elles ont exposées au titre de l'année scolaire2018-2019. L'augmentation des dépenses obligatoires de la commune s'appréciera au niveau de l'ensemble des dépenses relatives aux écoles élémentaires et maternelles publiques et des dépenses de fonctionnement des classes maternelles ou élémentaires des établissements privés sous contrat d'association. Seules les augmentations de dépenses qui résultent de l'extension de l'instruction obligatoire sont de nature à ouvrir un droit à accompagnement. Un décret en Conseil d'État déterminera les modalités d'application de ce dispositif d'accompagnement.
