@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700357
+
+- Question : [SEQ170700357](seq170700357.md) — Enseignement des langues vivantes en primaire
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-11-29, page 6033*
+
+Depuis la rentrée scolaire 2016, l'apprentissage de la première langue vivante débute en classe de cours préparatoire (CP) à raison d'une heure et demie par semaine. Le temps d'exposition des élèves aux langues vivantes au cours de leur scolarité obligatoire a augmenté de cinquante-quatre heures. Le programme d'enseignement des langues vivantes pour le cycle 2, publié au Journal officiel de la République française du 24 novembre 2015, s'organise en premier lieu autour du travail des compétences de la langue orale. Il vise à concevoir un enseignement progressif qui prenne en compte les acquis des élèves et développe des comportements indispensables à l'apprentissage d'une langue vivante : curiosité, écoute, attention, mémorisation, confiance en soi. L'enseignement de langues vivantes est majoritairement assuré par des enseignants du premier degré. Toutefois, afin de favoriser la diversité linguistique, cet enseignement peut ponctuellement être pris en charge par des enseignants du second degré ou par des intervenants extérieurs recrutés après examen de leurs compétences linguistiques et pédagogiques. En effet, la stratégie langues vivantes valorise également la diversité linguistique, en favorisant l'apprentissage d'autres langues que l'anglais dans le premier degré. Ainsi, à la rentrée scolaire 2016, plus de 5 500 écoles élémentaires proposaient une langue vivante étrangère autre que l'anglais. Pour l'année scolaire 2016-2017, 97,3 % des élèves du premier degré apprenaient l'anglais, 4,3 % l'allemand, 2,08 % l'espagnol, 0,77% le portugais, 0,42 % l'italien, 0,22 % le chinois et 0,07 % l'arabe.
