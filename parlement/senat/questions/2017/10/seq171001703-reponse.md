@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001703
+
+- Question : [SEQ171001703](seq171001703.md) — Contrôle des qualifications linguistiques
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-11-29, page 6058*
+
+Dans le cadre du régime de la reconnaissance des qualifications professionnelles, tel que mis en œuvre en application des directives européennes, notamment la directive 2005/36/CE et la directive 2013/55/UE, les qualifications des professionnels de santé font l'objet d'une reconnaissance mutuelle au sein des États membres de l'Union. En droit français, ces dispositions ont été transposées par l'ordonnance n° 2017-50 du 19 janvier 2017, qui précise, pour l'établissement comme pour la libre prestation de services, que le niveau de maîtrise de la langue française doit être proportionné à l'activité à exercer. Ces dispositions ont fait l'objet d'une mention pour chaque profession de santé. Le Gouvernement a souhaité confier l'évaluation du niveau de maîtrise de la langue au contrôle des ordres professionnels, au titre de leurs missions définies par les textes législatifs. Cette exigence est renforcée s'agissant des praticiens et de la profession d'orthophoniste. Dans un arrêt Haïm du 4 juillet 2000 (CJCE, aff. C-424/97, Rec. CJCE I-5123), la Cour de justice des Communautés européennes a admis que l'exigence de connaissance de la langue française, lorsqu'elle répond à une mesure impérieuse d'intérêt général, telle que la fiabilité de la communication du professionnel avec le patient et les autorités, ne s'oppose pas au principe du libre établissement. Il n'est pas envisagé de remettre en cause le dispositif de contrôle ordinal qui est adapté aux caractéristiques de chacune des professions de santé concernées, en ce qu'il conditionne l'inscription au tableau de l'ordre et, en conséquence, l'accès à l'exercice professionnel.
