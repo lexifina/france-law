@@ -4,103 +4,85 @@ Intitulé : infographiste metteur en page.
 
 Niveau : IV.
 
-Code NSF : 322 t-techniques de l'imprimerie et de l'édition.
+Code NSF : 322 t.
 
 Résumé du référentiel d'emploi
 
-L'infographiste metteur en page est un (e) professionnel (le) du secteur de la communication graphique et multimédia dont les activités sont associées à la chaîne graphique de production.
+L'infographiste metteur en page est un professionnel du secteur de la communication graphique et multimédia dont les activités sont associées à la chaîne graphique de production.
 
-Ses principales missions sont de transformer la commande client en visuels et de réaliser des supports de communication répondant à une stratégie qui intègre l'ensemble des formats numériques dans son processus de flux de production. Il (elle) réalise des supports de communication imprimés de différents formats, tailles, orientations et pour différentes plates-formes.
+Ses principales missions sont la transformation de la commande client en visuels et la réalisation de supports de communication répondant à une stratégie qui intègre l'ensemble des formats numériques dans son processus de flux de production. Il réalise des supports de communication de différents formats, tailles, orientations et pour différentes plates-formes.
 
-Il (elle) contribue à la conception de supports de communication numériques, intègre les données pour la réalisation de sites web. Il (elle) réalise des publicités (bannières, lettres électroniques) pour des actions de communication. Il (elle) assure une veille technique et technologique pour augmenter sa productivité, sa technicité pour la réalisation d'infographies et sa capacité de conseil.
+Il prépare la réalisation de supports de communication, contribue à leur conception et participe à leur diffusion. Il assure une veille technique, technologique et concurrentielle pour augmenter sa productivité, sa technicité et sa capacité de conseil en se tenant informé des dernières tendances graphiques.
 
-L'ensemble de ces productions sont réalisées à partir d'un cahier des charges client ou des instructions d'un hiérarchique. Elles correspondent au thème de la communication du client, à son identité visuelle et elles sont respectueuses des droits d'auteur.
+L'ensemble de ces productions est réalisé à partir d'un cahier des charges client ou des instructions de son responsable hiérarchique. Les productions correspondent au thème de la communication du client, à son identité visuelle et elles sont respectueuses des droits d'auteur.
 
-Il (elle) appartient à une équipe, un service dirigé par une ou un responsable technique dénommé (e) : directeur artistique ou chef de production/ projet. Il (elle) est autonome pour les tâches techniques comme la préparation des fichiers, les photomontages, l'exécution de mise en page ou encore l'intégration web, mais il (elle) tient compte des contraintes techniques associées aux supports et aux modes de diffusion. Il (elle) doit rendre compte de son travail à son responsable ou selon son statut directement au client.
+Il appartient à une équipe, à un service, dirigé par un responsable technique dénommé : directeur artistique, chef de fabrication ou chef de studio. Il est autonome pour les tâches techniques comme la préparation des fichiers, les photomontages, l'exécution de mise en page mais il tient compte des contraintes techniques associées aux supports et aux modes de diffusion. Il doit rendre compte de son travail à son responsable ou selon son statut directement au client.
 
-Il (elle) est en relation avec des interlocuteurs internes intervenant sur les commandes des clients tels que le directeur artistique, le chef de projet, le service commercial, le développeur, le rédacteur, les illustrateurs ainsi que des interlocuteurs externes partenaires-prestataires tels que : les imprimeurs, les entreprises de communication, de marquage, de signalétique, de conditionnement, les photographes, les hébergeurs.
+Il est en relation avec des interlocuteurs internes intervenant sur les commandes des clients tels que directeur artistique, responsable du projet, service commercial, service marketing, chargé de communication, développeur, rédacteur, illustrateur, ainsi que des interlocuteurs externes partenaires-prestataires tels que : imprimeurs, entreprises de communication, de marquage, de signalétique, de conditionnement, photographes, hébergeurs.
 
-Cette activité s'exerce en tant que salarié dans un service prépresse, une agence de publicité, un studio de création graphique, dans une structure publique. Ou elle s'exerce en tant qu'indépendant avec différents statuts possibles tels que : auto-entrepreneur, artiste auteur inscrit à la maison des artistes, société unipersonnelle, travailleur indépendant ou intermittent. L'activité nécessite une station assise prolongée et continue face à des écrans. Les horaires sont généralement fixes. Avec le statut d'indépendant, les déplacements en clientèle sont fréquents.
+L'emploi s'exerce en tant que salarié dans un service prépresse, dans la presse, une maison d'édition, une agence de publicité, un studio de création graphique, dans une structure publique ou privée ou en tant qu'indépendant avec différents statuts possibles tels que : micro-entrepreneur, artiste auteur inscrit à la maison des artistes, société unipersonnelle, travailleur indépendant ou intermittent. L'activité nécessite une station assise prolongée et continue face à des écrans. En tant que salarié, les horaires sont généralement fixes ; avec le statut d'indépendant, les déplacements et rencontres en clientèle sont fréquents.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
+1. Elaborer une proposition graphique
 
-1. Réaliser des infographies
+Recueillir et analyser les besoins client.
 
-pour des supports numériques
+Définir une solution graphique.
 
-Préparer la production et les médias (textes, images fixes ou animées...).
+Planifier et organiser la réalisation de supports de communication.
 
-Réaliser des graphismes et des illustrations fixes élaborés.
+2. Réaliser des supports de communication
 
-Réaliser des photomontages complexes.
+Mettre en page des documents simples.
 
-Assurer une veille technique et technologique.
+Mettre en page des documents élaborés.
 
-2. Réaliser des supports de communication imprimés
+Contrôler la conformité du produit et vérifier la livraison.
 
-Contribuer à la conception de maquettes pour des supports de communication imprimés.
+3. Contribuer à la stratégie de communication
 
-Réaliser la mise en page de supports de communication imprimés.
+Assurer une veille technique, technologique et concurrentielle.
 
-Intégrer dans une forme de découpe les infographies et les informations d'identification d'un produit.
+Promouvoir une réalisation graphique.
 
-Finaliser la mise en page de supports de communication en fonction du mode de diffusion.
+Personnaliser un système de gestion dynamique de contenus de sites web.
 
-3. Contribuer à la réalisation de supports
+Adapter des contenus pour le web et les réseaux sociaux
 
-de communication numériques
+Secteur d'activité ou types d'emplois accessibles par le détenteur du titre
 
-Contribuer à la conception de supports de communication numériques intégrant des critères d'ergonomie, d'accessibilité et de référencement.
+Communication ;
 
-Intégrer la mise en page d'un site web à partir de la maquette graphique.
+Edition presse et multimédia ;
 
-Utiliser des systèmes de gestion dynamique de contenu de sites web.
+Imprimeries : de labeur, de presse, d'édition, du papier, carton ;
 
-Assurer la mise à jour et la promotion d'un site web.
+Industrie graphique ;
 
-Secteurs d'activités ou types d'emploi
+Prépresse ;
 
-accessibles par le détenteur du titre
+Presse ;
 
-Les différents secteurs d'activités concernés sont principalement :
+Publicité ;
 
--communication ;
+Administrations ;
 
--édition presse et multimédia ;
+Infographiste ;
 
--imprimeries : de labeur, de presse, d'édition, du papier, carton ;
+Maquettiste PAO ;
 
--industrie graphique ;
+Opérateur prépresse PAO ;
 
--prépresse ;
-
--presse ;
-
--publicité ;
-
--administrations.
-
-Les types d'emplois accessibles sont les suivants :
-
--infographiste ;
-
--maquettiste PAO ;
-
--opérateur prépresse PAO ;
-
--graphiste metteur en page ;
-
--intégrateur web/ multimédia.
+Graphiste metteur en page.
 
 Codes ROME :
 
-E1306-Prépresse ;
+E1306 Prépresse ;
 
-E1305-Préparation et correction en édition et presse ;
+E1305 Préparation et correction en édition et presse ;
 
-E1205-Réalisation de contenus multimédias.
+E1205 Réalisation de contenus multimédias.
 
 Réglementation de l'activité :
 
@@ -110,18 +92,10 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
-Liens avec d'autres certifications :
-
-Néant.
-
 Bases légales et réglementaires :
 
-Code de l'éducation, notamment les articles L. 335-5, L. 335-6,
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-R. 335-13 et R. 338-2 ;
+Arrêté du 22 décembre 2015 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
-
-Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
-
-La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 18 décembre 2013.
+Arrêté du 21 juillet 2016 portant règlement général des sessions d'examen pour l'obtention du titre professionnel du ministère chargé de l'emploi.

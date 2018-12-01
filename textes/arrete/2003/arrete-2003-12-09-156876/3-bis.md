@@ -1,43 +1,29 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau de correspondance figurant ci-dessous :
 
 TITRE PROFESSIONNEL
 
-infographiste metteur en page
+Infographiste metteur en page
 
-(arrêté du 9 décembre 2003)
-
-|
+(arrêté du 9 décembre 2003 susvisé) |
 
 TITRE PROFESSIONNEL
 
-infographiste metteur en page
+Infographiste metteur en page
 
-(présent arrêté)
+(présent arrêté) |
 
-|
+Aucune correspondance |
 
-Préparer des graphismes et photomontages pour des supports numériques
+Elaborer une proposition graphique |
 
-|
+Réaliser des Infographies pour des supports numériques |
 
-Réaliser des infographies pour des supports numériques
+Réaliser des supports de communication |
 
-|
+Réaliser des supports de communication imprimés |
 
-Préparer et finaliser la mise en page d'un document imprimé
+Contribuer à la réalisation de supports de communication numériques |
 
-|
-
-Réaliser des supports de communication imprimés
-
-|
-
-Exécuter la mise en page et la publication d'un site web
-
-|
-
-Contribuer à la réalisation de supports de communication numériques
-
-|
+Contribuer à la stratégie de communication |
