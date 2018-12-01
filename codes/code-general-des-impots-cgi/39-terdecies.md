@@ -42,4 +42,8 @@ a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
 
 b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28 du même code, autre qu'un fonds commun de placement à risques, qu'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou qu'un fonds professionnel de capital investissement, constituée dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par l'entité lors de la cession de titres détenus depuis au moins deux ans.
 
-Lorsque les titres cédés sont des titres de sociétés établies dans un Etat ou territoire non coopératif, le présent 5 ne s'applique pas.
+Lorsque les titres cédés sont des titres de sociétés établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A du présent code autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, le présent 5 ne s'applique pas, sauf si la société de capital-risque apporte la preuve que les opérations de la société établie hors de France dans laquelle est prise la participation correspondent à des opérations réelles qui ont principalement un objet et un effet autres que de permettre la localisation de bénéfices dans un Etat ou territoire non coopératif.
+
+NOTA :
+
+Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de ladite loi.

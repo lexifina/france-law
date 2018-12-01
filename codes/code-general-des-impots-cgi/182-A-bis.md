@@ -10,8 +10,8 @@ IV. – La retenue s'impute sur le montant de l'impôt sur le revenu établi dan
 
 V. – Les dispositions du premier alinéa de l'article 197 B sont applicables pour la fraction des rémunérations déterminée conformément au II qui n'excède pas annuellement la limite supérieure fixée par les III et IV de l'article 182 A.
 
-VI. – Le taux de la retenue est porté à 75 % pour les sommes, autres que les salaires, versées à des personnes domiciliées ou établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, sauf si le débiteur apporte la preuve que ces sommes correspondent à des opérations réelles qui ont principalement un objet et un effet autres que de permettre leur localisation dans un Etat ou territoire non coopératif.
+VI. – Le taux de la retenue est porté à 75 % pour les sommes, autres que les salaires, versées à des personnes domiciliées ou établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A autre que ceux mentionnés au 2° du 2 bis du même article 238-0 A, sauf si le débiteur apporte la preuve que ces sommes correspondent à des opérations réelles qui ont principalement un objet et un effet autres que de permettre leur localisation dans un Etat ou territoire non coopératif. Cette retenue est libératoire de l'impôt sur le revenu et n'est pas remboursable.
 
 NOTA :
 
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de ladite loi.
