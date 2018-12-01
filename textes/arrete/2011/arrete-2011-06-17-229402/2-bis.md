@@ -28,4 +28,10 @@ Ecole nationale supérieure de technique avancées Bretagne ;
 
 Etablissement de communication et de production audiovisuelle de la défense ;
 
-Ordre de la Libération (Conseil national des communes " Compagnon de la Libération ") .
+Ordre de la libération (Conseil national des communes “Compagnon de la Libération”) ;
+
+Ecole navale.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 18 mai 2018, ces dispositions s'appliquent en vue du prochain renouvellement du comité technique ministériel de décembre 2018.
