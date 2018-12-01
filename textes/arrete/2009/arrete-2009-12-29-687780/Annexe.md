@@ -46,13 +46,17 @@ Listeria monocytogenes |
 
 ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort |
 
-Mycotoxines (groupe B3d selon l'annexe I de la directive 96/23/ CE du Conseil) dans les denrées d'origine animale, les denrées d'origine végétale et les aliments pour animaux |
+Mycotoxines dans les denrées alimentaires d'origine animale (groupe B3d selon l'annexe I de la directive 96/23/ CE du Conseil), d'origine végétale et dans les aliments pour animaux. Toxines d'origine végétale dans les aliments pour animaux. |
 
 Service commun des laboratoires-Laboratoire de Rennes |
 
+Toxines d'origine végétale dans les denrées alimentaires |
+
+Service commun des laboratoires-Laboratoire de Strasbourg |
+
 Parasites transmis par les aliments hormis Echinococcus sp. |
 
-ANSES-Laboratoire de santé animale de Maisons-Alfort-Unité mixte de recherche Biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR) |
+ANSES-Laboratoire de santé animale de Maisons-Alfort-Unité mixte de recherche "Biologie moléculaire et immunologie parasitaires et fongiques" (UMR BIPAR) |
 
 Résistance anti-microbienne |
 
@@ -94,13 +98,17 @@ Détection de protéines animales dans les aliments pour animaux |
 
 Service commun des laboratoires-Laboratoire de Rennes |
 
-Dioxines et PCB dans l'alimentation humaine et animale |
+Polluants organiques persistants (POP) halogénés, exceptés les résidus de pesticides, dans les aliments pour animaux et les denrées alimentaires |
 
 Ecole nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (ONIRIS)-Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA)-Nantes |
 
 Hydrocarbures aromatiques polycycliques |
 
 ONIRIS-LABERCA-Nantes |
+
+Contaminants néoformés, partie MCPD, esters de MCPD et de glycidol, furanes et acrylamides |
+
+Service commun des laboratoires-Laboratoire de Paris |
 
 Matériaux au contact des denrées alimentaires |
 
