@@ -2,372 +2,236 @@
 
 .
 
-GRADES
-
-|
+GRADES |
 
 CLASSEMENT HIÉRARCHIQUE
 
-(indices bruts)
+(indices bruts) |
 
-|
-
-OBSERVATIONS
-
-|
-
-A - Services administratifs
-
-|
-
-|
-
-|
-
-Directeur régional
-
-Directeur départemental
-
-Directeur départemental adjoint
-
-Inspecteur principal
-
-|
-
-1015 - HEA
-
-852 - 1015
-
-841 - 966
-
-379 - 801
-
-|
-
-|
-
-B - Services généraux d'exécution
-
-|
-
-|
-
-|
-
-Inspecteur
-
-Inspecteur-élève
-
-Contrôleur divisionnaire
-
-Contrôleur
-
-Agent d'exploitation
-
-Assistant administratif
-
-|
-
-379 - 780
-
-340
-
-425 - 614
-
-326 - 592
-
-318 - 543
-
-318 - 465
-
-|
-
-|
-
-C - Services des installations
-
-|
-
-|
-
-|
-
-Chef technicien
-
-Technicien
-
-Aide-technicien des installations
-
-|
-
-359 - 621
-
-326 - 592
-
-318 - 543
-
-|
-
-|
-
-D - Ouvriers d'Etat
-
-|
-
-|
+A.-Services administratifs |
 
 |
 
-Contremaître
+Directeur régional |
 
-Ouvrier d'Etat
+1027-HEA |
 
-|
-
-318 - 465
-
-318 - 409
-
-|
-
-|
+Directeur départemental |
 
-E - Révision des travaux de bâtiment
+863-1027 |
 
-|
+Directeur départemental adjoint |
 
-|
+853-978 |
 
-|
+Inspecteur principal |
 
-Réviseur en chef
+393-814 |
 
-Réviseur
+B.-Services généraux d'exécution |
 
 |
 
-750 - 966
+Inspecteur |
 
-379 - 780
+393-792 |
 
-|
+Contrôleur divisionnaire |
 
-|
+434-621 |
 
-F - Service du dessin
+Contrôleur |
 
-|
+340-600 |
 
-|
+Agent d'exploitation |
 
-|
+336-548 |
 
-Chef dessinateur
+Assistant administratif |
 
-Dessinateur projeteur
+336-471 |
 
-Dessinateur
+C.-Services des installations |
 
 |
-
-359 - 619
 
-326 - 592
+Chef technicien |
 
-318 - 465
+367-629 |
 
-|
+Technicien |
 
-|
+340-600 |
 
-G - Service des locaux
+Aide-technicien des installations |
 
-|
+336-548 |
 
-|
+D.-Ouvriers d'état |
 
 |
 
-Agent de service
+Contremaître |
 
-|
-
-318 - 409
+336-471 |
 
-|
+Ouvrier d'Etat |
 
-|
+336-419 |
 
-H - Service automobile
+E.-Révision des travaux de bâtiment |
 
 |
 
-|
+Réviseur en chef |
 
-|
+762-978 |
 
-Chef de travaux
+Réviseur |
 
-Contrôleur
+393-792 |
 
-Mécanicien dépanneur
+F.-Service du dessin |
 
 |
-
-425 - 614
 
-326 - 592
+Chef dessinateur |
 
-318 - 465
+367-629 |
 
-|
+Dessinateur projeteur |
 
-|
+340-600 |
 
-I - Emplois comptables
+Dessinateur |
 
-|
+336-471 |
 
-|
+G.-Service des locaux |
 
 |
-
-Chef d'établissement de classe exceptionnelle
-
-Chef d'établissement de classe supérieure
 
-Chef d'établissement hors classe
+Agent de service |
 
-Chef d'établissement de 1re classe
+336-419 |
 
-Chef d'établissement de 2e classe
+H.-Service automobile |
 
-Chef d'établissement de 3e classe
-
-Chef d'établissement de 4e classe
-
 |
 
-841 - 966
+Chef de travaux |
 
-841
+434-621 |
 
-687 - 801
+Contrôleur |
 
-379 - 780
+340-600 |
 
-379 - 691
+Mécanicien dépanneur |
 
-425 - 614
+336-471 |
 
-463 - 574
+I.-Emplois comptables |
 
 |
 
-|
+Chef d'établissement de classe exceptionnelle |
 
-J - Services sociaux
+853-978 |
 
-|
+Chef d'établissement de classe supérieure |
 
-|
+853 |
 
-|
+Chef d'établissement hors classe |
 
-Assistant de service social chef
+699-814 |
 
-Assistant de service social
+Chef d'établissement de 1re classe |
 
-Infirmier ou infirmière en chef
+393-792 |
 
-Infirmier ou infirmière
+Chef d'établissement de 2e classe |
 
-|
+393-702 |
 
-379 - 659
+Chef d'établissement de 3e classe |
 
-323 - 642
+434-621 |
 
-379 - 611
+Chef d'établissement de 4e classe |
 
-326 - 592
+471-581 |
 
-|
+J.-Services sociaux |
 
 |
 
-K - Service de la distribution et de l'acheminement
+Assistant de service social chef |
 
-|
-
-|
+388-667 |
 
-|
+Assistant de service social |
 
-Vérificateur principal
+339-650 |
 
-Vérificateur
+Infirmier ou infirmière en chef |
 
-Conducteur chef du transbordement de 1re classe
+388-619 |
 
-Conducteur chef du transbordement
+Infirmier ou infirmière |
 
-Conducteur de travaux
+340-600 |
 
-Agent d'exploitation
+K.-Service de la distribution
 
-Préposé
+et de l'acheminement |
 
 |
 
-425 - 612
+Vérificateur principal |
 
-365 - 592
+434-621 |
 
-425 - 612
+Vérificateur |
 
-365 - 592
+373-600 |
 
-326 - 592
+Conducteur chef du transbordement de 1re classe |
 
-318 - 465
+434-621 |
 
-318 - 465
-
-|
-
-|
+Conducteur chef du transbordement |
 
-L - Conducteur d'automobiles
+373-600 |
 
-|
+Conducteur de travaux |
 
-|
+340-600 |
 
-|
+Agent d'exploitation |
 
-Conducteur d'automobile de 1re catégorie
+336-471 |
 
-|
+Préposé |
 
-318 - 465
+336-471 |
 
-|
+L.-Conducteur d'automobiles |
 
 |
 
-M - Receveur rural
+Conducteur d'automobile de 1re catégorie |
 
-|
+336-471 |
 
-|
+M.-Receveur rural |
 
 |
 
-Receveur rural
-
-|
+Receveur rural |
 
-326 - 547
+340-555
 
 |
