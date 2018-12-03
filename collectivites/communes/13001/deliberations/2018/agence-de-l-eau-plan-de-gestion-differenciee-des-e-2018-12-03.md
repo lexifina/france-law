@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AGENCE DE L'EAU - PLAN DE GESTION DIFFERENCIEE DES ESPACES VERTS ET DE LA VOIRIE - DEMANDE COMPLEMENTAIRE AU FINANCEMENT DE L'ETUDE ET DEMANDE DE FINANCEMENT DU PLAN DE COMMUNICATION - AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-12-03
+- Séance : Conseil Municipal 1CA
+- Objet : AGENCE DE L'EAU - PLAN DE GESTION DIFFERENCIEE DES ESPACES VERTS ET DE LA VOIRIE - DEMANDE COMPLEMENTAIRE AU FINANCEMENT DE L'ETUDE ET DEMANDE DE FINANCEMENT DU PLAN DE COMMUNICATION - AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-9234-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
