@@ -1,0 +1,75 @@
+# Ecole de la confiance
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37055
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ecole_de_la_confiance
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-323.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-12-05 : 1er dépôt d'une initiative. (PRJLANR5L15B1481)
+  - 2018-12-05 : Etude d'impact (ETDIANR5L15B1481)
+  - 2018-12-05 : Avis du Conseil d'Etat (AVCEANR5L15B1481)
+  - 2018-12-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-05 : Renvoi en commission au fond
+      - 2018-12-05 : Nomination de rapporteur
+      - 2019-01-23 : Réunion de commission
+      - 2019-01-29 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-30 : Réunion de commission
+      - 2019-01-31 : Réunion de commission
+      - 2019-02-11 : Réunion de commission
+      - 2019-01-31 : Dépôt de rapport (RAPPANR5L15B1629, PRJLANR5L15BTC1629)
+  - Discussion en séance publique
+    - 2019-02-11 : Discussion en séance publique
+    - 2019-02-11 : Discussion en séance publique
+    - 2019-02-12 : Discussion en séance publique
+    - 2019-02-12 : Discussion en séance publique
+    - 2019-02-13 : Discussion en séance publique
+    - 2019-02-13 : Discussion en séance publique
+    - 2019-02-14 : Discussion en séance publique
+    - 2019-02-14 : Discussion en séance publique
+    - 2019-02-14 : Discussion en séance publique
+    - 2019-02-15 : Discussion en séance publique
+    - 2019-02-15 : Discussion en séance publique
+    - 2019-02-15 : Discussion en séance publique
+    - 2019-02-19 : Discussion en séance publique
+    - 2019-02-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-02-20 : Dépôt d'une initiative en navette (PRJLSNR5S319B0323)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-04-30 : Dépôt de rapport (RAPPSNR5S319B0473, PRJLSNR5S319BTC0474)
+  - Discussion en séance publique
+    - 2019-05-14 : Discussion en séance publique
+    - 2019-05-15 : Discussion en séance publique
+    - 2019-05-16 : Discussion en séance publique
+    - 2019-05-17 : Discussion en séance publique
+    - 2019-05-21 : Discussion en séance publique
+    - 2019-05-21 : Décision
+- Commission Mixte Paritaire
+  - 2019-05-22 : Dépôt d'un projet de loi (PRJLANR5L15B1956)
+  - 2019-05-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-13 : Nomination de rapporteur
+    - 2019-06-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B2038, PRJLANR5L15BTC2038)
+    - 2019-06-13 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0575, PRJLSNR5S319BTC0576)
+  - Discussion en séance publique
+    - 2019-07-02 : Discussion en séance publique
+    - 2019-07-02 : Décision
+  - Discussion en séance publique
+    - 2019-07-04 : Discussion en séance publique
+    - 2019-07-04 : Décision
+  - 2019-06-14 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-07-05 : Saisine du conseil constitutionnel
+  - 2019-07-25 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-07-26 : Promulgation d'une loi
