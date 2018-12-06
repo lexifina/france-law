@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007078
+
+- Question : [SEQ181007078](seq181007078.md) — Transport d'un cercueil hors de la commune de décès
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2018-12-06, page 6209*
+
+Seules les opérations funéraires visées à l'article L. 2213-14 du code général des collectivités locales (CGCT) font l'objet d'une surveillance et donnent lieu à vacation. Il s'agit des opérations de fermeture et de scellement de cercueil, soit quand celui-ci est destiné à la crémation, soit lorsque le corps est transporté hors de la commune de décès ou de dépôt et qu'aucun membre de la famille n'est présent au moment de ces opérations. Les articles R. 2213-49 et R. 2213-50 du CGCT définissent les modalités de versement des vacations liées à la surveillance des opérations funéraires. Ainsi, dans les communes dôtées d'un régime de police d'État, cette mission relève de la compétence exclusive des fonctionnaires de la police nationale. Le produit de la vacation est alors versé par la commune au Trésor public. Dans les autres communes, les opérations de surveillance sont assurées par un garde-champêtre ou un agent de police municipale délégué par le maire. Le produit de la vacation est intégralement versé par le receveur municipal aux fonctionnaires intéressés. Le dernier alinéa de l'article R. 2213-49 du CGCT confirme le caractère exigible de la vacation dans les communes où la surveillance est réalisée soit par un policier national, soit par un garde-champêtre ou un agent de police municipale. Lorsque la commune ne dispose pas d'un garde-champêtre ou d'une police municipale, le maire ou l'un de ses adjoints délégués, assure la surveillance des opérations funéraires. Dans ce dernier cas seulement, aucune vacation n'est versée par la famille du défunt.
