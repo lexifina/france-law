@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007289
+
+- Question : [SEQ181007289](seq181007289.md) — Diffusion du dispositif directives anticipées
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-12-06, page 6283*
+
+Améliorer la connaissance des dispositifs de la fin de vie est l'une des actions phares portées par le Plan National Soins Palliatifs-Accompagnement de la Fin de vie 2015-2018. C'est dans ce cadre, et dans la suite de la première campagne nationale grand public lancée en 2017, que la sensibilisation des citoyens a été relancée le 15 octobre 2018 avec la campagne « Parlons Fin de Vie ». Elle informe sur les dispositifs des directives anticipées, sur la désignation de la personne de confiance et précise les notions de sédation longue et continue ou encore d'acharnement thérapeutique, pour en améliorer la compréhension. L'ambition de la ministre des solidarités et de la santé est de garantir les droits de chacun de nos concitoyens en promouvant la démarche palliative. Elle s'appuie ainsi sur le centre national des soins palliatifs et de la fin de vie, créé en 2016, qui a mené ses travaux avec des partenaires relais professionnels et associatifs, pour concevoir un portail mettant à disposition les outils pratiques pour nourrir la réflexion de chacun et aider au dialogue avec son médecin sur ce sujet sensible de la fin de vie. Le site du ministère des solidarités et de la santé redirige les internautes vers ce portail. De même, les établissements de santé y trouveront les liens utiles pour actualiser sur leur site, les informations relatives à la fin de vie et les directives anticipées. C'est à l'aune du bilan du Plan National et des enseignements qui en seront tirés, en lien avec l'ensemble des partenaires, que seront identifiées les mesures à reconduire ainsi que les actions nouvelles à porter, dans le cadre d'un prochain plan.
