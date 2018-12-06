@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007091
+
+- Question : [SEQ181007091](seq181007091.md) — Ouverture à la concurrence des concessions hydrauliques
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-12-06, page 6292*
+
+En ce qui concerne les concessions hydroélectriques, le Gouvernement défend une application équilibrée de la loi de transition énergétique, qui a consolidé le régime des concessions et garantit le respect des enjeux de service public de l'hydroélectricité française, grâce à plusieurs outils : le regroupement des concessions dans une même vallée, la prolongation de certaines concessions dans le respect du droit national et européen, et la possibilité de constituer des sociétés d'économie mixte (SEM) lors du renouvellement des concessions lorsque les collectivités locales y sont intéressées. À la différence d'autres pays où les installations hydroélectriques appartiennent aux exploitants privés, le régime concessif permet de garantir que les ouvrages restent durablement la propriété de l'État avec un contrôle fort au travers de la règlementation et du contrat signé entre l'État et le concessionnaire, garantissant ainsi le respect de l'intérêt public. En particulier, en ce qui concerne la sécurité et l'environnement, tous les barrages en France, quel que soit leur exploitant, sont soumis à une réglementation rigoureuse qui fait l'objet de contrôles réguliers par les services de l'État. Par ailleurs, les conditions précises d'exploitation de chaque ouvrage seront fixées dans le cahier des charges de la concession et ses annexes, et devront être respectées par le concessionnaire quel qu'il soit. Le principe de mise en concurrence des concessions échues découle du droit européen et national, le Gouvernement s'y prépare tout en défendant certains principes essentiels liés aux enjeux d'intérêt public de l'hydroélectricité.
