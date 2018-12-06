@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007293
+
+- Question : [SEQ181007293](seq181007293.md) — Répartition des frais de fonctionnement des écoles élémentaires publiques
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-12-06, page 6261*
+
+L'article L. 212-8 du code de l'éducation mentionne que « lorsque les écoles maternelles, les classes enfantines ou les écoles élémentaires publiques d'une commune reçoivent des élèves dont la famille est domiciliée dans une autre commune, la répartition des dépenses de fonctionnement se fait par accord entre la commune d'accueil et la commune de résidence. […] Pour le calcul de la contribution de la commune de résidence, il est tenu compte des ressources de cette commune, du nombre d'élèves de cette commune scolarisés dans la commune d'accueil et du coût moyen par élève calculé sur la base des dépenses de l'ensemble des écoles publiques de la commune d'accueil ». Il résulte de cet article que, lorsque des enfants sont scolarisés dans une commune autre que leur commune de résidence, la répartition des dépenses de fonctionnement se fait par accord entre la commune d'accueil et la commune de résidence, étant précisé que cette répartition doit notamment prendre en compte les ressources de la commune de résidence. Par ailleurs, il est également précisé au second alinéa du même article qu'« à défaut d'accord entre les communes intéressées sur la répartition des dépenses, la contribution de chaque commune est fixée par le représentant de l'État dans le département après avis du conseil départemental de l'éducation nationale ». Par voie de conséquence, le montant du titre exécutoire devra être fixé en fonction de l'accord conclu entre la commune de résidence et la commune d'accueil de l'enfant scolarisé ou, à défaut d'accord, de la décision du représentant de l'État dans le département fixant la contribution.
