@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706153
+
+- Question : [SEQ180706153](seq180706153.md) — Impossibilité pour des élèves de faire leurs devoirs scolaires en utilisant internet
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-12-06, page 6236*
+
+Le Président de la République a fait de la couverture du territoire national par le très haut débit une priorité. En matière d'internet fixe, le Gouvernement entend garantir l'accès au « bon haut débit » (supérieur à 8Mbit/s) à l'ensemble des abonnés d'ici 2020, et développer l'accès au très haut débit (supérieur à 30 Mbit/s) d'ici 2022 pour tous les territoires. À cela s'ajoute un accord historique, conclu en janvier 2018, sur la couverture mobile engageant les quatre opérateurs à déployer chacun 5 000 pylônes relais d'ici 2022 pour « en finir avec les zones blanches ». Certains territoires n'ont encore accès qu'à des débits internet filaires relativement réduits, ce qui limite les capacités des élèves à effectuer des recherches dans le cadre de leur travail scolaire à la maison. Les enseignants sont bien évidemment conscients de ces difficultés et, par mesure d'équité, des possibilités doivent être offertes au sein même des établissements aux élèves qui, pour des raisons d'infrastructures de réseaux ou tout autre raison, n'ont pas d'accès à internet à leur domicile. Il convient d'ajouter que le dispositif « Devoirs faits », mis en place par le ministère de l'éducation nationale en novembre 2017, concourt lui aussi à réduire les inégalités entre les élèves qui n'ont pas tous accès à une aide et à des conditions adaptées pour travailler à la maison. Il s'agit d'un accompagnement gratuit proposé après la classe, au sein du collège, qui permet aux élèves volontaires de faire leurs travaux dans l'établissement en bénéficiant de l'aide d'enseignants, d'assistants d'éducation, de volontaires du Service civique ou encore d'intervenants associatifs spécialisés.
