@@ -18,45 +18,45 @@ par un producteur donné (HL/HA) |
 
 Savoie ou Vins de Savoie |
 
-5 |
+13 |
 
-20 |
+33 |
 
 Savoie ou Vins de Savoie suivi du nom d'une entité géographique plus petite |
 
-5 |
+12 |
 
-18 |
+31 |
 
 Côtes du Rhône |
 
-5 |
+10 |
 
-15 |
+25 |
 
 Côtes du Rhône Villages |
 
-4 |
+8 |
 
-12 |
+22 |
 
 Ventoux |
 
-4 |
+11 |
 
-16 |
+27 |
 
 Cahors |
 
-5 |
+10 |
 
-15 |
+25 |
 
 Bergerac |
 
-6 |
+12 |
 
-20 |
+30 |
 
 Côtes du Marmandais |
 
@@ -66,75 +66,69 @@ Côtes du Marmandais |
 
 Bordeaux |
 
-6 |
+12 |
 
-22 |
+30 |
 
 Bordeaux supérieur |
 
-6 |
+11 |
 
-20 |
-
-Côtes de Bordeaux suivi ou non d'une dénomination géographique complémentaire |
-
-5 |
-
-18 |
+29 |
 
 Graves de Vayres |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Côtes de Bourg |
 
-5 |
+10 |
 
-18 |
+27 |
 
 Médoc |
 
-5 |
+11 |
 
-18 |
+27 |
 
 Haut-Médoc |
 
-5 |
+11 |
 
-18 |
+27 |
 
 Graves |
 
-5 |
+11 |
 
-18 |
+27 |
 
 Saint-Emilion |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Lussac Saint-Emilion |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Puisseguin Saint-Emilion |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Chinon |
 
-5 |
+11 |
 
-15 |
+28 |
 
 Bourgueil |
 
@@ -144,21 +138,21 @@ Bourgueil |
 
 Saint-Nicolas de Bourgueil |
 
-5 |
+11 |
 
-17 |
+27 |
 
 Montagne Saint-Emilion |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Saint-Georges Saint-Emilion |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Bugey suivi de la mention Gamay |
 
@@ -186,33 +180,33 @@ Gaillac |
 
 Lalande de Pomerol |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Pomerol |
 
-5 |
+9 |
 
-18 |
+24 |
 
 Fronsac |
 
-5 |
+10 |
 
-18 |
+26 |
 
 Saint-Emilion grand cru |
 
-4 |
+9 |
 
-18 |
+23 |
 
 Pécharmant |
 
-4 |
+10 |
 
-15 |
+25 |
 
 Rasteau |
 
@@ -222,63 +216,81 @@ Rasteau |
 
 Beaumes de Venise |
 
-3,5 |
+7 |
 
-10 |
+19 |
 
 Vacqueyras |
 
-3,5 |
-
-10 |
-
-Canon-Fronsac
-
-|
-
-5 |
-
-16 |
-
-Margaux
-
-|
-
-5 |
-
-10 |
-
-Moulis
-
-|
-
-6 |
-
-17 |
-
-Listrac-Médoc
-
-|
-
-5 |
+7 |
 
 18 |
 
-Côtes de Duras
+Canon-Fronsac |
 
-|
+10 |
 
-6 |
+26 |
 
-17 |
+Margaux |
 
-Lirac
+11 |
 
-|
+28 |
+
+Moulis |
+
+11 |
+
+28 |
+
+Listrac-Médoc |
+
+11 |
+
+28 |
+
+Côtes de Duras |
+
+11 |
+
+27 |
+
+Lirac |
 
 4 |
 
 12 |
+
+Saumur |
+
+6 |
+
+18 |
+
+Saumur Champigny |
+
+6 |
+
+18 |
+
+Côtes du Rhône suivi du nom d'une entité géographique plus petite |
+
+8 |
+
+20 |
+
+Côtes de Bordeaux |
+
+11 |
+
+27 |
+
+Côtes de Bordeaux suivi du nom d'une entité géographique plus petite |
+
+10 |
+
+26 |
 
 II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
 
@@ -298,7 +310,7 @@ par un producteur donné (hl/ha) |
 
 Muscadet |
 
-8 |
+13 |
 
 20 |
 
@@ -310,33 +322,33 @@ Muscadet sur lie |
 
 Muscadet Sèvre-et-Maine |
 
-8 |
+11 |
 
 20 |
 
 Muscadet Coteaux de la Loire |
 
-8 |
+11 |
 
 20 |
 
 Muscadet Côte de Grandlieu |
 
-8 |
+11 |
 
 20 |
 
 Touraine (sans mention complémentaire) |
 
-7 |
+10 |
 
 20 |
 
 Chinon |
 
-5 |
+11 |
 
-15 |
+28 |
 
 Menetou-Salon |
 
@@ -358,111 +370,111 @@ Reuilly |
 
 Vouvray |
 
-6 |
+10 |
 
-15 |
+25 |
 
 Bourgogne |
 
 7 |
 
-20 |
+34 |
 
 Bourgogne Aligoté |
 
 7 |
 
-21 |
+36 |
 
 Coteaux Bourguignons |
 
 7 |
 
-21 |
+36 |
 
 Bourgogne Chitry |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Côte Chalonnaise |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Côte d'Auxerre |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Côte Saint-Jacques |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Coulanges la Vineuse |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne La Chapelle Notre Dame |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Montrecul |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Le Chapitre |
 
 7 |
 
-19 |
+33 |
 
 Bourgogne Tonnerre |
 
 7 |
 
-18 |
+31 |
 
 Bourgogne Hautes Côtes de Beaune |
 
 6 |
 
-19 |
+30 |
 
 Bourgogne Hautes Côtes de Nuits |
 
 6 |
 
-19 |
+30 |
 
 Petit-Chablis |
 
 10 |
 
-25 |
+30 |
 
 Chablis |
 
 10 |
 
-25 |
+30 |
 
 Chablis accompagnée de la mention Premier cru |
 
 10 |
 
-25 |
+29 |
 
 Beaune |
 
@@ -526,9 +538,9 @@ Pernand-Vergelesses premier cru |
 
 Pouilly-Fuissé |
 
-7 |
+12 |
 
-18 |
+30 |
 
 Pouilly-Fuissé suivi du nom d'une unité géographique plus petite |
 
@@ -582,7 +594,7 @@ Saint-Romain |
 
 6 |
 
-16 |
+28 |
 
 Saint-Véran |
 
@@ -646,97 +658,97 @@ Roussette du Bugey suivi du nom d'une unité géographique plus petite |
 
 Savoie ou Vins de Savoie |
 
-7 |
+14 |
 
-21 |
+35 |
 
 Savoie ou Vins de Savoie suivi du nom d'une unité géographique plus petite à l'exception de Chignin-Bergeron |
 
-7 |
+13 |
 
-20 |
+34 |
 
 Savoie suivi de Chignin-Bergeron |
 
-5 |
+13 |
 
-15 |
+33 |
 
 Roussette de Savoie |
 
-4 |
-
 12 |
+
+32 |
 
 Roussette de Savoie suivi du nom d'une unité géographique plus petite |
 
-2 |
+12 |
 
-6 |
+30 |
 
 Bergerac |
 
-5 |
+13 |
 
-15 |
+33 |
 
 Côtes de Bergerac |
 
-5 |
+11 |
 
-15 |
+27 |
 
 Montravel |
 
-5 |
+11 |
 
-15 |
+29 |
 
 Côtes de Montravel |
 
-5 |
+10 |
 
-15 |
+25 |
 
 Rosette |
 
-5 |
+10 |
 
-15 |
+25 |
 
 Bordeaux |
 
-5 |
+13 |
 
-15 |
+33 |
 
 Entre-deux-mers |
 
-5 |
+13 |
 
-15 |
+32 |
 
 Côtes de Bordeaux - Blaye |
 
-5 |
+12 |
 
-15 |
+31 |
 
 Graves |
 
-5 |
+11 |
 
-15 |
+29 |
 
 Vacqueyras
 
 |
 
-3,5
+7
 
 |
 
-10
+18
 
 |
 
@@ -746,8 +758,38 @@ Alsace |
 
 15 |
 
-Côtes de Duras |
+Bourgogne Côte d'Or |
+
+7 |
+
+19 |
+
+Graves de Vayre |
+
+11 |
+
+27 |
+
+Vézelay |
+
+9 |
+
+27 |
+
+Haut-Poitou |
 
 5 |
 
 15 |
+
+Côtes de Duras (blanc sec) |
+
+12 |
+
+30 |
+
+Côtes de Duras (blanc avec sucre) |
+
+10 |
+
+25 |
