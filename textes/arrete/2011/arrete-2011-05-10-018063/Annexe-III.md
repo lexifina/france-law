@@ -120,9 +120,9 @@ Le directeur des services pénitentiaires d'insertion et de probation et son adj
 
 |
 
-Le directeur interrégional et le directeur interrégional adjoint |
+Le directeur interrégional et le directeur interrégional adjointLe |
 
-Le responsable de chaque service
+responsable de chaque service
 
 |
 
@@ -134,11 +134,11 @@ Service de l'emploi pénitentiaire
 
 |
 
-Le directeur du service de l'emploi pénitentiaire
+Le directeur de l'agence du travail d'intérêt général et de l'insertion professionnelle des personnes placées sous main de justice
 
 |
 
-Le directeur du service de l'emploi pénitentiaire
+Le directeur de l'agence du travail d'intérêt général et de l'insertion professionnelle des personnes placées sous main de justice
 
 |
 

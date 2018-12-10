@@ -4,7 +4,7 @@ PROGRAMME DE L'UNITÉ DE VALEUR N° 1
 
 1. L'organisation de l'administration pénitentiaire :
 
-― les services centraux ; les directions interrégionales des services pénitentiaires ; les établissements pénitentiaires ; les services pénitentiaires d'insertion et de probation, le service de l'emploi pénitentiaire et l'Ecole nationale d'administration pénitentiaire ;
+― les services centraux ; les directions interrégionales des services pénitentiaires ; les établissements pénitentiaires ; les services pénitentiaires d'insertion et de probation, l'agence du travail d'intérêt général et de l'insertion professionnelle des personnes placées sous main de justice et l'Ecole nationale d'administration pénitentiaire ;
 
 ― les personnels de l'administration pénitentiaire, leurs partenaires et leurs missions.
 
