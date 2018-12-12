@@ -1,0 +1,57 @@
+# Dispositions institutionnelles en Polynésie française
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37074
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/dispositions_institutionnelles_polynesie_francaise
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-199.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-12-12 : 1er dépôt d'une initiative. (PRJLSNR5S319B0199)
+  - 2018-12-12 : Etude d'impact (ETDISNR5S319B0199)
+  - 2018-12-12 : Avis du Conseil d'Etat (AVCESNR5S319B0199)
+  - 2018-12-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-02-06 : Dépôt de rapport (RAPPSNR5S319B0292, PRJLSNR5S319BTC0293)
+  - Discussion en séance publique
+    - 2019-02-13 : Discussion en séance publique
+    - 2019-02-19 : Discussion en séance publique
+    - 2019-02-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-02-20 : Dépôt d'une initiative en navette (PRJLANR5L15B1696)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-20 : Renvoi en commission au fond
+      - 2019-02-20 : Nomination de rapporteur
+      - 2019-03-27 : Réunion de commission
+      - 2019-03-27 : Réunion de commission
+      - 2019-04-11 : Réunion de commission
+      - 2019-03-28 : Dépôt de rapport (RAPPANR5L15B1820, PRJLANR5L15BTC1820)
+  - Discussion en séance publique
+    - 2019-04-11 : Discussion en séance publique
+    - 2019-04-11 : Discussion en séance publique
+    - 2019-04-11 : Décision
+- Commission Mixte Paritaire
+  - 2019-04-12 : Dépôt d'un projet de loi (PRJLSNR5S319B0461)
+  - 2019-04-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-05-07 : Nomination de rapporteur
+    - 2019-05-07 : Dépôt du rapport d'une CMP (RAPPANR5L15B1926, PRJLANR5L15BTC1926)
+    - 2019-05-07 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0483, PRJLSNR5S319BTC0484)
+  - Discussion en séance publique
+    - 2019-05-22 : Discussion en séance publique
+    - 2019-05-22 : Décision
+  - Discussion en séance publique
+    - 2019-05-23 : Discussion en séance publique
+    - 2019-05-23 : Décision
+  - 2019-05-07 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-05-27 : Saisine du conseil constitutionnel
+  - 2019-06-27 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-07-05 : Promulgation d'une loi
