@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’activité de la Métropole du Grand Paris pour l’année 2017
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : ADMINISTRATION GENERALE
+- Objet : Présentation du rapport annuel d’activité de la Métropole du Grand Paris pour l’année 2017
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MjcsInB1ciI6ImJsb2JfaWQifX0=--c049ad81066c8ce669ae1c8d0b30ff62df33ccd0/131218_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
