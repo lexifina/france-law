@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Révision du Pacte financier et fiscal
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : FINANCES
+- Objet : Révision du Pacte financier et fiscal
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MjksInB1ciI6ImJsb2JfaWQifX0=--e32cbdf0d64b47b64e54682d84d40e80241f7e2c/131218_09.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
