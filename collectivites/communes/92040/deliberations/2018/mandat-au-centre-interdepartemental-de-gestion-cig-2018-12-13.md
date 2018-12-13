@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Mandat au Centre Interdépartemental de Gestion (CIG) pour la négociation de conventions de participation en matière de protection sociale
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : RESSOURCES HUMAINES
+- Objet : Mandat au Centre Interdépartemental de Gestion (CIG) pour la négociation de conventions de participation en matière de protection sociale
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNjksInB1ciI6ImJsb2JfaWQifX0=--a30a361167b38bbfada3849af22a8998c065c1de/131218_28.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
