@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Évolution de la garantie d’emprunt communale au profit de l’OPH SEINE OUEST HABITAT à la suite d’un réaménagement de sa dette auprès de la Caisse des Dépôts et Consignations
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : FINANCES
+- Objet : Évolution de la garantie d’emprunt communale au profit de l’OPH SEINE OUEST HABITAT à la suite d’un réaménagement de sa dette auprès de la Caisse des Dépôts et Consignations
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNjYsInB1ciI6ImJsb2JfaWQifX0=--695b1ff9fef9e298c5cef7676c3e795354d1630a/131218_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
