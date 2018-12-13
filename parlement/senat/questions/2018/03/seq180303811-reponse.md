@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180303811
+
+- Question : [SEQ180303811](seq180303811.md) — Concours externe de recrutement d'enseignants d'éducation physique et sportive
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-12-13, page 6433*
+
+Le ministère de l'éducation nationale et de la jeunesse souhaite que l'École crée un climat de confiance et offre un cadre protecteur propice aux apprentissages et à l'épanouissement des élèves. Ainsi, la promotion de la santé et du sport s'inscrit dans cette démarche et passe notamment par l'enseignement de l'éducation physique et sportive. Le CAPEPS externe constitue le principal débouché des étudiants de la filière sciences et techniques des activités physiques et sportives (STAPS) qui souhaitent se destiner à une carrière d'enseignant. C'est pourquoi il est également la principale voie d'accès au recrutement en EPS avec près de ¾ des postes offerts. Les taux de pression (inscrits/postes) au CAPEPS externe restent conséquents au fil des sessions, du fait du vivier important que représentent ces étudiants. Par ailleurs, les concours internes, qui viennent compléter les recrutements en EPS permettent à la fois d'offrir une possibilité de titularisation aux contractuels qui exercent déjà dans les établissements scolaires (CAPEPS interne) mais également de garantir une voie de promotion aux enseignants titulaires (agrégation interne). Chaque année les volumes de postes par discipline et par voie de concours sont réévalués à la hausse ou à la baisse en fonction des besoins et dans le respect des emplois votés en loi de finances. S'agissant de la session 2018, la baisse des postes offerts au concours du CAPEPS externe (qui passe de 800 à 630 postes) s'inscrit dans la baisse globale des volumes de postes offerts au recrutement des enseignants, d'éducation et de psychologues du second degré public.
