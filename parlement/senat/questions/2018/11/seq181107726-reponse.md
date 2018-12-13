@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107726
+
+- Question : [SEQ181107726](seq181107726.md) — Réglementation européenne en matière d'abattage et de transformation des volailles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2018-12-13, page 6403*
+
+Le Gouvernement est attaché au développement des circuits de proximité qui répondent à une demande sociétale croissante. À cet égard, les petits abattoirs, qu'ils soient agréés ou non, permettent d'assurer un maillage territorial afin d'assurer l'approvisionnement direct des consommateurs qui plébiscitent de plus en plus ces productions de proximité et permettent aux éleveurs de valoriser leur production. Le Gouvernement entend donc préserver notre modèle actuel et ne prévoit pas d'imposer l'agrément aux établissements d'abattage non agréés (EANA) souhaitant transformer leurs produits. Aujourd'hui, la possibilité de transformer les produits issus des abattoirs non agréés repose sur une dérogation prévue dans la réglementation européenne qui arrive à échéance en 2020. Afin de défendre une pérennisation de la possibilité de transformation des produits issus des EANA, il convient d'apporter des garanties nécessaires au niveau sanitaire et ce en lien avec d'autres États membres, la France n'étant pas la seule à avoir ce type de structure. Aussi, un travail d'harmonisation et de formalisation des pratiques de ces structures est mené par les services de la direction générale de l'alimentation avec les professionnels afin de les aider à aboutir à la rédaction d'un guide de bonnes pratiques spécifique. Ce travail permettra de mettre à disposition des producteurs toutes les informations nécessaires à la conduite de leur activité conformément aux règles en vigueur. Il permettra aussi d'appuyer la position que les autorités françaises souhaitent défendre au niveau européen, à savoir le maintien de la possibilité de transformation des produits des EANA.
