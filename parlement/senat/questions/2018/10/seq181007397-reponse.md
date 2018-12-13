@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007397
+
+- Question : [SEQ181007397](seq181007397.md) — Numéro d'écoute national anonyme et gratuit pour les femmes victimes de violences conjugales
+
+## Réponse
+
+*Égalité femmes hommes et lutte contre les discriminations, JO du 2018-12-13, page 6442*
+
+La prévention contre toutes les violences sexistes et sexuelles constitue une priorité de l'action du Gouvernement. Une nouvelle impulsion de la politique menée en la matière a ainsi été donnée par le Président de la République à l'occasion de la journée internationale pour l'élimination des violences à l'égard des femmes, le 25 novembre 2017, au cours de laquelle a été présenté un grand plan de lutte contre les violences sexistes et sexuelles. Dans ce contexte, les crédits du programme 137 seront en 2018 entièrement consommés, la réserve de précaution, déjà limitée à 3 %, ayant été intégralement levée. Aussi un renforcement des moyens financiers alloués aux associations nationales et locales, porteuses de dispositifs d'accueil et d'accompagnement des femmes victimes de ces violences sur l'ensemble du territoire a été engagé. La Fédération Nationale Solidarité Femmes qui gère le 3919, plateforme nationale d'écoute et d'orientation destinée aux femmes victimes de violences, a bénéficié d'une subvention complémentaire de 120 000 euros. Conformément à la demande exprimée par la FNSF, ce financement a permis le recrutement de trois postes supplémentaires d'écoutantes pour parvenir à un taux de réponse de 100 % des appels reçus par le 3919, afin de ne laisser aucune victime sans réponse. Cet effort témoigne du soutien du Gouvernement au travail réalisé par les partenaires de la société civile, porteurs de ces dispositifs. En 2019, ce sont 530 millions d'euros qui seront consacrés aux politiques publiques d'égalité entre les femmes et les hommes.
