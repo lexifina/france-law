@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du renouvellement des conventions de mise à disposition de personnel communal auprès d’associations isséennes et du Centre Communal d’Action Sociale
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation du renouvellement des conventions de mise à disposition de personnel communal auprès d’associations isséennes et du Centre Communal d’Action Sociale
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MzAsInB1ciI6ImJsb2JfaWQifX0=--ebd6737be34009802bcf5b062f28297c4a49c33e/131218_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
