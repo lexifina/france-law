@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport sur la situation en matière d’égalité femmes-hommes à Issy-les-Moulineaux pour l’année 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : VIE DES FEMMES,DEVELOPPEMENT DURABLE
+- Objet : Présentation du rapport sur la situation en matière d’égalité femmes-hommes à Issy-les-Moulineaux pour l’année 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NjUsInB1ciI6ImJsb2JfaWQifX0=--8cd6f5d2d034ce168e118f7b2bf75ed3dcba7ac4/131218_33.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
