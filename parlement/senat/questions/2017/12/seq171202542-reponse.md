@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171202542
+
+- Question : [SEQ171202542](seq171202542.md) — Logement des personnes âgées et caution solidaire
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2018-12-13, page 6417*
+
+La loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 s'applique aux contrats de location de logements loués vides ou meublés constituant la résidence principale du preneur. L'article 22 de cette loi prévoit la possibilité pour le bailleur de demander, à la signature du contrat de location, le versement d'un dépôt de garantie pour garantir l'exécution des obligations locatives du locataire. Le montant du dépôt de garantie ne peut être supérieur à un mois de loyer principal pour une location nue et à deux mois pour une location meublée (article 25-6 de la loi). La caution se distingue du dépôt de garantie en ce qu'elle permet au bailleur de s'assurer qu'en cas de défaillance de son cocontractant, les obligations de celui-ci seront bien remplies. Ainsi, aux termes de l'article 22-1 de la loi précitée, un cautionnement peut être demandé par le bailleur, sauf si ce dernier a déjà souscrit une assurance ou tout autre forme de garantie, cette disposition ne s'appliquant pas au dépôt de garantie. Qu'il s'agisse du dépôt de garantie ou de la caution, la législation relative aux rapports locatifs ne prévoit pas d'application différenciée en fonction de l'âge ou des ressources des locataires. Le Gouvernement n'envisage pas de modifier la législation en ce sens, une mesure consistant à exclure l'application du dépôt de garantie ou de la caution pour les locataires âgés risquant, au contraire, d'entrainer un effet d'éviction sur ces catégories de personnes fragiles et d'être ainsi contre-productive par rapport à l'objectif recherché.
