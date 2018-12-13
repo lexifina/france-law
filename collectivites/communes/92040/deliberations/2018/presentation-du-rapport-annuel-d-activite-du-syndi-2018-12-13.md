@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d'activité du Syndicat Intercommunal Funéraire de la Région Parisienne pour l’exercice 2017
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : AFFAIRES FUNERAIRES
+- Objet : Présentation du rapport annuel d'activité du Syndicat Intercommunal Funéraire de la Région Parisienne pour l’exercice 2017
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MzMsInB1ciI6ImJsb2JfaWQifX0=--f0e2c815a41043e5795052aa597b7830e280201a/131218_41.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
