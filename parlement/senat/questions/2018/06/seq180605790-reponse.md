@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605790
+
+- Question : [SEQ180605790](seq180605790.md) — Généralisation de la vaccination anti-grippe aux officines
+
+## Réponse
+
+*Solidarités et santé, JO du 2018-12-13, page 6460*
+
+L'expérimentation de la vaccination par les pharmaciens répond notamment à un enjeu de simplification des parcours inscrit dans le plan « priorité prévention » présenté par le Premier ministre le 26 mars 2018 dans le cadre du Comité interministériel pour la santé. Il est important de multiplier les occasions de se faire vacciner et lever tous les freins qui peuvent exister pour participer à cette exigence de protection collective. La première année d'expérimentation de la vaccination antigrippale en Auvergne Rhône Alpes et en Nouvelle Aquitaine par les pharmaciens a montré un engouement fort des pharmaciens pour cette nouvelle mission et une adhésion des patients : presque 60 % des pharmacies des deux régions expérimentatrices ont participé et ce sont près de 160 000 personnes qui ont été vaccinées par leur pharmacien. Le projet de loi de financement de la sécurité sociale pour 2019 généralise cette nouvelle mission à partir de la campagne 2019-2020. D'ici là, ce sont deux nouvelles régions qui rejoignent l'expérimentation dès l'automne 2018 : Hauts de France et Occitanie. Dès cette année, c'est aussi la compétence des infirmières pour cette vaccination qui est élargie. Les textes leur permettant de vacciner contre la grippe les primovaccinés ont été publiés au Journal officiel du 26 septembre 2018. Néanmoins, l'enjeu ne porte pas uniquement sur la vaccination contre la grippe. La ministre a donc saisi la Haute autorité de santé pour ouvrir une réflexion plus grande sur l'élargissement des compétences vaccinales des sages-femmes, infirmières et pharmaciens, pour d'autres vaccinations.
