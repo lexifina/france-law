@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du rapport d’évaluation des charges transférées à la Métropole du Grand Paris pour l’année 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2018-12-13
+- Matière : FINANCES
+- Objet : Approbation du rapport d’évaluation des charges transférées à la Métropole du Grand Paris pour l’année 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNjQsInB1ciI6ImJsb2JfaWQifX0=--20e930540c7b37b66c9f10563a9dd6b3f2a7abb8/131218_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
