@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102089
+
+- Question : [SEQ171102089](seq171102089.md) — Report du dépôt des conventions d'utilité sociale des organismes d'habitat à loyer modéré
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2018-12-13, page 6416*
+
+En application du III de l'article 81 de la loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, les engagements des conventions d'utilité sociale (CUS) 2011-2016 ont été prorogés jusqu'au 31 décembre 2017. Cet article fixe le calendrier des CUS et a prévu que les organismes de logement social (OLS) transmettent au représentant de l'État du département de leur siège un projet de CUS avant le 1er janvier 2018 et concluent une CUS avant le 1er juillet 2018. L'article 52 du projet de loi de finances pour 2018 ainsi que certaines dispositions de la loi portant évolution du logement, de l'aménagement et du numérique (Elan) entraînent des bouleversements importants sur les stratégies financières et patrimoniales des OLS. C'est pourquoi la loi Elan a modifié le calendrier des CUS afin de permettre aux OLS d'intégrer leur nouveau contexte financier. Ce nouveau calendrier est le suivant : avant le 1er juillet 2019, les OLS transmettent au représentant de l'État dans le département de leur siège un projet de CUS. Avant le 31 décembre 2019, ils concluent avec l'État une convention d'une durée de six ans renouvelable, qui prend effet le 1er juillet 2019. Le report est donc d'un an et six mois. Dans la perspective de la réorganisation du tissu des bailleurs sociaux, la loi Elan prévoit également la possibilité d'octroi d'un report d'un an renouvelable une fois pour la conclusion d'une CUS pour les organismes justifiant un projet de rapprochement avec un ou plusieurs autres organismes. Ainsi, les difficultés évoquées ont d'ores et déjà été prises en compte par le législateur.
