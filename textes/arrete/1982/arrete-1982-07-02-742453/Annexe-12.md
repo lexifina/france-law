@@ -30,7 +30,7 @@ En vue de sa qualification, le vérificateur qualifié doit établir un manuel d
 
 ― aux exigences du fabricant de l'EAD.
 
-Outre la qualification d'un vérificateur, l'organisme visé à l'article 18 ter du présent arrêté assure la surveillance du système d'assurance de la qualité du vérificateur.
+Outre la qualification d'un vérificateur, l'organisme visé à l'article 18 ter du présent arrêté ou le Laboratoire national de métrologie et d'essais (LNE) assure la surveillance du système d'assurance de la qualité du vérificateur.
 
 Si le bénéficiaire d'une qualification ne remplit pas ses obligations, si l'une des conditions qui ont présidé à la délivrance de la qualification cesse d'être respectée ou si les prestations du vérificateur ne répondent pas aux exigences réglementaires, la qualification peut être suspendue ou retirée par l'organisme chargé de la qualification des vérificateurs, après que l'intéressé a été invité à lui présenter ses observations.
 

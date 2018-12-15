@@ -8,6 +8,6 @@ L'exploitant de l'autocar assure l'information des conducteurs sur les condition
 
 La mise en œuvre du dispositif préventif d'éthylotest antidémarrage est conforme aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés.
 
-La vérification périodique des dispositifs éthylotest antidémarrage est obligatoire ; elle est effectuée par un vérificateur qualifié par l'organisme mentionné à l'article 18 ter du présent arrêté.
+La vérification périodique des dispositifs éthylotest antidémarrage est obligatoire ; elle est effectuée par un vérificateur qualifié par l'organisme mentionné à l'article 18 ter du présent arrêté ou le Laboratoire national de métrologie et d'essais (LNE).
 
 La périodicité et les conditions de vérification des dispositifs éthylotest antidémarrage ainsi que les conditions de qualification des vérificateurs sont précisées dans l'annexe 12 au présent arrêté.
