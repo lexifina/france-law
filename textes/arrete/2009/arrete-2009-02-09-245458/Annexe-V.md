@@ -286,6 +286,26 @@ NON SPEC
 
 |
 
+Véhicules automoteurs spécialisés. |
+
+VASP |
+
+/ |
+
+Navette urbaine |
+
+NAVURB |
+
+Remorque spécialisée. |
+
+RESP |
+
+02 |
+
+Remorque urbaine |
+
+REMURB |
+
 (*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.
 
 (1) Les sous-catégories et sous-sous-catégories de la catégorie internationale L ne peuvent être affectées qu'aux véhicules conformes au règlement (UE) n° 168/2013.

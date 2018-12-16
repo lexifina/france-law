@@ -4,11 +4,7 @@ ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS
 
 CONFORMES À UN TYPE NATIONAL FRANÇAIS
 
-A l'exclusion des véhicules usagés suivants :
-
-Véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes
-
-et véhicules agricoles autres que tracteurs agricoles ou forestiers
+Pour les véhicules usagés suivants : véhicules d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes et véhicules agricoles ou forestiers conformes à un type national
 
 (Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DREAL, DEAL ou DRIEE)
 
@@ -30,7 +26,7 @@ est du type ayant fait l'objet d'une réception nationale française,
 
 dont le numéro figure à la ligne K, délivrée par la DREAL, DEAL ou DRIEE :
 
-et que les données nécessaires à l'immatriculation en France sont les suivantes (9)
+et que les données nécessaires à l'immatriculation en France sont les suivantes (8)
 
 (A.1) Précédent numéro d'immatriculation (4)
 
@@ -94,8 +90,6 @@ Je certifie en outre que les données complémentaires suivantes du véhicule au
 
 - Puissance conventionnelle maximale à la roue (5) .................... (kW)
 
-- Vitesse maximale par construction : (8) ................................ (km/h)
-
 - la largeur et la longueur n'excèdent pas les limites prévues aux articles R.312-10 et R.312-11 du code de la route
 
 Observations éventuelles : ...........................................
@@ -120,10 +114,4 @@ et fonction
 
 (7) Pour des raisons pratiques cette attestation peut être délivrée en 2 versions spécifiques : l'une pour les véhicules neufs, l'autre pour les véhicules d'occasion
 
-(8) Uniquement pour les tracteurs agricoles ou forestiers qui doivent être conformes à l'article R.311-1 du code de la route. Cet élément est à reporter par la préfecture en mention spéciale sur la carte grise
-
-(9) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation
-
-NOTA :
-
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
+(8) Références communautaires de la directive 1999/37/ CE relative aux documents d'immatriculation.
