@@ -1,0 +1,52 @@
+# Statut de citoyen sauveteur
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37091
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_mort_subite
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-331.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2018-12-17 : 1er dépôt d'une initiative. (PIONANR5L15B1505)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-12-17 : Renvoi en commission au fond
+      - 2019-01-16 : Nomination de rapporteur
+      - 2019-02-06 : Réunion de commission
+      - 2019-02-19 : Réunion de commission
+      - 2019-02-06 : Dépôt de rapport (RAPPANR5L15B1633, PIONANR5L15BTC1633)
+  - Discussion en séance publique
+    - 2019-02-19 : Discussion en séance publique
+    - 2019-02-19 : Discussion en séance publique
+    - 2019-02-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-02-20 : Dépôt d'une initiative en navette (PIONSNR5S319B0331)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-10-16 : Dépôt de rapport (RAPPSNR5S339B0072, PIONSNR5S339BTC0073)
+  - Discussion en séance publique
+    - 2019-10-24 : Discussion en séance publique
+    - 2019-10-24 : Décision
+- deuxième lecture
+  - 2019-10-24 : Dépôt d'une initiative en navette (PIONANR5L15B2363)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-10-24 : Renvoi en commission au fond
+      - 2020-01-29 : Réunion de commission
+      - 2020-01-29 : Dépôt de rapport (RAPPANR5L15B2624, PIONANR5L15BTC2624)
+  - Discussion en séance publique
+    - 2020-02-12 : Discussion en séance publique
+    - 2020-02-12 : Décision
+- deuxième lecture
+  - 2020-02-12 : Dépôt d'une initiative en navette (PIONSNR5S339B0316)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-02-12 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-06-25 : Décision
+- Promulgation de la loi
+  - 2020-07-03 : Promulgation d'une loi
