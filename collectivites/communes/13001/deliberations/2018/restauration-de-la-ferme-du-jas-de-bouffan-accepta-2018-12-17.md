@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — RESTAURATION DE LA FERME DU JAS DE BOUFFAN - ACCEPTATION DU PRINCIPE DE LA MISE A DISPOSITION DES LOCAUX AU BENEFICE DE LA SOCIETE PAUL CEZANNE POUR LE CENTRE CEZANNIEN DE RECHERCHE ET DE DOCUMENTATION
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-12-17
+- Séance : Conseil Municipal 1CA
+- Objet : RESTAURATION DE LA FERME DU JAS DE BOUFFAN - ACCEPTATION DU PRINCIPE DE LA MISE A DISPOSITION DES LOCAUX AU BENEFICE DE LA SOCIETE PAUL CEZANNE POUR LE CENTRE CEZANNIEN DE RECHERCHE ET DE DOCUMENTATION
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10376-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
