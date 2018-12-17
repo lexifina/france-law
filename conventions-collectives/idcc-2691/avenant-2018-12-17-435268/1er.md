@@ -1,0 +1,215 @@
+# Article 1er
+
+1. Nouvelle rédaction de l'article 2.3.1 « Dispositions générales »
+
+« 2.3.1. Dispositions générales
+
+a) Présidence
+
+La présidence de chaque commission, président et vice-président, est assurée à tour de rôle par un représentant des employeurs et un représentant des organisations syndicales de salariés désigné par chaque collège et selon une périodicité définie dans le règlement intérieur des commissions.
+
+b) Règles de validité des décisions des commissions
+
+Pour les accords et les avenants de branche, les règles de majorité et d'opposition sont celles fixées par le code du travail.
+
+Les autres décisions sont prises à la double majorité des collèges, selon les modalités suivantes :
+
+– pour les décisions conventionnelles ayant un impact sur la convention collective ou/ et sur les accords collectifs de branche : à la majorité absolue dans chaque collège calculée selon le pourcentage de représentativité des organisations syndicales ou patronales ;
+
+– pour les autres décisions conventionnelles : à la majorité absolue dans chaque collège calculée :
+
+– – pour les organisations syndicales en nombre d'organisation ;
+
+– – pour les organisations patronales en pourcentage de représentativité.
+
+c) Fonctionnement des commissions
+
+Le secrétariat administratif des commissions paritaires est tenu par la délégation des employeurs sous le contrôle de la Présidence de chaque commission.
+
+Il est élaboré un règlement intérieur concernant l'ensemble des commissions paritaires nationales qui, pour être applicable, doit être approuvé à la majorité absolue des organisations représentatives signataires ou adhérentes à la présente convention collective dans chaque collège. Cette majorité absolue est calculée en pourcentage de représentativité pour le collège employeurs et en nombre d'organisations syndicales pour le collège salariés.
+
+Le règlement intérieur prévoit notamment :
+
+– les modalités de convocation des commissions ;
+
+– l'objet et le contenu du ou des documents paritaires adéquat(s) établi(s), à l'issue des réunions des commissions, à savoir :
+
+– – relevé de décision ;
+
+– – compte rendu de réunion ;
+
+– – tout autre document ;
+
+– la constitution et les modalités de fonctionnement des groupes paritaires techniques et des présidences de chaque commission paritaire.
+
+d) Salariés mandatés
+
+Chaque organisation syndicale de salariés représentative peut désigner trois représentants titulaires et deux suppléants pouvant siéger à la CPPNIC.
+
+Chaque organisation syndicale de salariés représentative et adhérente ou signataire de la convention collective peut désigner deux représentants titulaires et un suppléant pouvant siéger dans les autres commissions paritaires définies au présent titre II.
+
+Ces représentants et leurs suppléants doivent être mandatés par leur organisation syndicale de salariés en début d'année civile. De nouveaux mandatements ou des modifications dans les mandements peuvent intervenir à tout moment avec effet immédiat.
+
+e) Protection des salariés mandatés
+
+Le salarié mandaté bénéficie de la protection prévue par le livre IV du code du travail.
+
+Chaque organisation syndicale de salariés s'engage à en informer par écrit son/ ses employeurs ou son représentant.
+
+f) Rémunération des salariés participant aux réunions des différentes commissions paritaires
+
+(1)
+
+Principe
+
+Pour tout salarié mandaté par une organisation syndicale de salariés convoqué à siéger aux commissions paritaires, groupes techniques ou réunions de présidence de la présente convention collective, la durée des réunions, le temps de déplacement et le temps de préparation des commissions paritaires d'une durée égale à 50 % de la durée de chaque commission sont considérés comme du temps de travail effectif. Le salarié bénéficie donc d'une absence autorisée et rémunérée.
+
+Exception
+
+Pour les salariés enseignants mandatés rémunérés exclusivement en fonction de leurs heures d'activités d'enseignement, il est convenu pour permettre leur présence lors des réunions paritaires, sans perte de salaire, que les heures de réunion, de déplacement et de préparation pour les commissions paritaires sont rémunérées selon le taux de base horaire de l'article 7.6 a de la présente CCN. Les heures d'enseignement non effectuées sont déplacées (selon les modalités conventionnelles) et rémunérées en y intégrant les heures induites.
+
+Si l'employeur ne peut déplacer ces heures d'enseignement, les heures de face-à-face non réalisées sont rémunérées selon le taux de base horaire de l'article 7.6 b de la présente CCN, et, si elles existent les heures de déplacement et de réunions dépassant le nombre d'heures de face-à-face, lors de commission paritaire, groupe technique et réunion de présidence, ainsi que les heures de préparation pour les commissions paritaires sont rémunérées selon le taux de base horaire de l'article 7.6 a de la CCN.
+
+Dans tous les cas et pour tout salarié
+
+Lorsque ces heures constituent des heures complémentaires ou supplémentaires, elles sont majorées aux différents taux légaux ou conventionnels.
+
+Le bénéfice des dispositions du point f du présent article est ouvert aux salariés mandatés sous réserve que les conditions suivantes soient remplies :
+
+– le nombre de salariés mandatés par une même organisation syndicale dont le salaire est maintenu est limité à 3 par réunion pour la CPPNIC et 2 par réunion pour les autres commissions et groupes techniques ;
+
+– les salariés siégeant en commission paritaire, groupe technique ou réunion de présidence sont tenus d'informer leur (s) employeur (s) de leur absence dans un délai compatible avec la bonne exécution de leur travail et de lui/ leur adresser leur convocation, dans les meilleurs délais, après réception.
+
+g) Frais de déplacement
+
+Les frais de déplacements des représentants d'organisations syndicales de salariés et des organisations d'employeurs convoqués et présents aux réunions des commissions paritaires sont pris en charge dans des conditions et modalités fixées par le règlement intérieur de commissions paritaires. »
+
+2. Nouvelle rédaction de l'article 2.3.2 « Commission paritaire permanente nationale de négociation, d'interprétation et de conciliation (CPPNIC) »
+
+« 2.3.2. Commission paritaire permanente nationale de négociation, d'interprétation et de conciliation (CPPNIC)
+
+a) Composition
+
+La commission paritaire permanente de négociation d'interprétation et de conciliation comprend :
+
+– un collège salarié composé de 3 représentants par organisation syndicale de salariés représentative au niveau de la branche ;
+
+– et, un collège employeur composé des représentants des organisations représentatives des employeurs en nombre au plus égal à celui des membres désignés par les organisations syndicales de salariés.
+
+La parité est respectée dès lors que les deux délégations, salariale et patronale, sont représentées.
+
+b) Mission
+
+Cette commission a pour mission de prendre en charge les questions sociales de la branche professionnelle. À cet effet, elle négocie les points relevant de la négociation collective de branche, notamment ceux prévus, à titre obligatoire, par la législation en vigueur. Elle :
+
+– représente la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics ;
+
+– exerce un rôle de veille sur les conditions de travail et l'emploi ;
+
+– établit un rapport annuel d'activité qu'elle verse dans la base de données nationale, ce rapport comprend un bilan des accords collectifs d'entreprise.
+
+(2)
+
+La CPPNIC peut rendre un avis portant sur l'interprétation ou l'application de la convention collective ou d'un accord collectif de branche à la demande :
+
+– d'une juridiction ;
+
+– de tout employeur ou de tout salarié ;
+
+– de tout représentant du personnel élu ou désigné ;
+
+– de toute organisation professionnelle ou syndicale.
+
+Elle a aussi pour mission la conciliation des différends collectifs ou individuels liés à l'application des textes étendus dans le champ conventionnel et qui n'auraient pu être réglés au sein de l'entreprise. Dans le cadre de la prévention des conflits collectifs portant sur l'application de la présente convention collective ou de tout accord de branche, il est recommandé de saisir la commission.
+
+c) Fonctionnement.
+
+La commission paritaire permanente nationale de négociation d'interprétation et de conciliation (CPPNIC) se réunit au moins trois fois par an et à la demande d'une ou de plusieurs organisations représentatives proposant un ordre du jour. Le règlement intérieur en fixe les modalités.
+
+En matière d'interprétation et de conciliation, la commission se réunira selon la procédure d'urgence prévue au règlement intérieur.
+
+d) Modalités de saisine et de fonctionnement pour les saisines en interprétation ou en conciliation
+
+1° La demande se fait par lettre recommandée avec avis de réception adressée à la présidence de la commission permanente paritaire nationale de négociation, d'interprétation et de conciliation (CPPNIC) domiciliée au siège de l'une des fédérations d'employeurs représentatives, à savoir : CPPNIC de la branche EPI s/ FNEP, 9 rue de Turbigo, 75001 Paris ou par courriel à l'adresse figurant sur la fiche de saisine.
+
+Le règlement intérieur :
+
+– décrit le contenu minimum des demandes ;
+
+– fixe le délai de convocation de la CPPNIC comme l'ensemble des modalités de fonctionnement.
+
+2° Dans le cadre d'une procédure de demande d'interprétation :
+
+– les avis d'interprétation portant sur l'application de la convention collective et/ ou des accords de branche et pris par la commission à la majorité absolue selon les modalités de l'article 2.3.1 b sont transmis aux personnes ou organisations ayant saisi la commission ;
+
+– les avis d'interprétation portant modification de la convention collective et/ ou des accords de branche et pris par la commission à la majorité absolue selon les modalités de l'article 2.3.1 b, sont transmis aux personnes ou organisations ayant saisi la commission et
+
+(3) :
+
+– – déposés sous forme d'avenant et soumis à extension ;
+
+– – ou renvoyés à négociation ;
+
+– en cas de désaccord au sein de la commission sur tout ou partie du différend, un procès-verbal fait état des positions respectives qui auront été exprimées.
+
+3° Dans le cadre d'une procédure de demande de conciliation :
+
+– les membres de la commission peuvent décider d'entendre les parties, lesquelles peuvent se faire assister ou représenter par une personne de leur choix appartenant au secteur ou à une organisation syndicale ou patronale ;
+
+– les parties présentes ou représentées sont également invitées à signer un accord transactionnel pour mettre fin au désaccord et un procès-verbal est établi par la CPPNIC pour acter du résultat de la conciliation. »
+
+3. L'article 2.3.3. « Commission paritaire nationale d'interprétation et de conciliation », son titre et ses dispositions sont annulés
+
+« Article 2.3.3 » vide
+
+4. Nouvelle rédaction de l'article 2.3.4 « Commission paritaire nationale de prévoyance (CPNP) »
+
+« 2.3.4. Commission paritaire nationale de prévoyance (CPNP)
+
+La commission paritaire nationale de prévoyance comprend uniquement les organisations syndicales représentatives signataires ou adhérentes de la présente convention. Elle est composée de 2 représentants pour chacune de ces organisations syndicales de salariés et d'un nombre au plus égal de représentants des organisations d'employeurs représentatives signataires ou adhérentes.
+
+La commission paritaire nationale de prévoyance assure :
+
+– le pilotage de la gestion du régime de prévoyance obligatoire mis en place dans l'enseignement privé indépendant et couvrant les prestations incapacité, invalidité, décès et rentes. Les accords relatifs à la prévoyance sont repris au titre VIII de la présente convention ;
+
+– le pilotage de la gestion du régime collectif de santé mis en place dans l'enseignement privé indépendant par un accord de branche spécifique.
+
+5. Complément de rédaction à l'article 2.3.5 « Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) »
+
+Il est ajouté un premier alinéa à l'article 2.3.5 :
+
+« La commission paritaire nationale de l'emploi et de la formation professionnelle comprend uniquement les organisations syndicales représentatives signataires ou adhérentes de la présente convention. Elle est composée de 2 représentants pour chacune de ces organisations syndicales de salariés et d'un nombre au plus égal de représentants des organisations d'employeurs représentatives signataires ou adhérentes. »
+
+6. L'article 2.3.6 : « Création d'un observatoire paritaire de la négociation collective (OPNC) » son titre et ses dispositions sont annulés
+
+« Article 2.3.6 » vide
+
+7. Modifications de l'article 2.3.7 « Financement des commissions paritaires »
+
+L'article 2.3.7 est modifié comme suit :
+
+– le paragraphe b et son contenu sont annulés ;
+
+– le titre « a) Contribution assurant le financement du paritarisme » est retiré de la rédaction de l'article.
+
+L'article 2.3.7 est modifié comme suit :
+
+– au premier alinéa le mot « Elle » est remplacé par :
+
+« La contribution assurant le financement du paritarisme »
+
+– le deuxième alinéa prend la nouvelle rédaction suivante :
+
+« Elle est recouvrée par Humanis Prévoyance auprès des entreprises qui entrent dans le champ d'application de la présente convention et subsidiairement par l'APEPI ou par tout autre organisme légalement habilité et désigné par accord paritaire. »
+
+(1) Le f de l'article 2.3.1 est étendu sous réserve de l'application du principe d'égalité à valeur constitutionnelle résultant de l'article 6 de la Déclaration des droits de l'homme et du citoyen du 26 août 1789 et du 6e alinéa du préambule de la Constitution de 1946, tel qu'interprété par la Cour de Cassation (Cass. soc. 29 mai 2001, Cegelec).
+
+(Arrêté du 3 décembre 2019 - art. 1)
+
+(2) Alinéa étendu sous réserve du respect des dispositions du 3° de l'article 2232-9 du code du travail, dans sa rédaction issue de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel.
+
+(Arrêté du 3 décembre 2019 - art. 1)
+
+(3) Tiret étendu sous réserve du respect de l'article L. 2232-6 du code du travail.
+
+(Arrêté du 3 décembre 2019 - art. 1)
