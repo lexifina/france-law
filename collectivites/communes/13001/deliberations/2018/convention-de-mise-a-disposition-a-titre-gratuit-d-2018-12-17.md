@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE MISE A DISPOSITION A TITRE GRATUIT DE DEUX CONSERVATEURS A LA BIBLIOTHEQUE MEJANES PAR LE MINISTERE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L'INNOVATION, ET LE MINISTERE DE LA CULTURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2018-12-17
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE MISE A DISPOSITION A TITRE GRATUIT DE DEUX CONSERVATEURS A LA BIBLIOTHEQUE MEJANES PAR LE MINISTERE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L'INNOVATION, ET LE MINISTERE DE LA CULTURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10367-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
