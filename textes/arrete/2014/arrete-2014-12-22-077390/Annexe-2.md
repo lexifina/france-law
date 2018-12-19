@@ -114,6 +114,10 @@ Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
 
+- Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161
+
+- Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-162
+
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
 Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.
@@ -134,13 +138,19 @@ Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER172
 
 Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée ainsi que son annexe 1 sont remplacées par les versions figurant à l’annexe 6 dudit arrêté.
 
-- Dispositif d’affichage et d’interprétation des consommations pour un logement chauffé à l’électricité / Fiche d’opération standardisée n° BAR-EQ-113
+- Dispositif d’affichage et d’interprétation des consommations pour un logement chauffé à l’électricité / Fiche d’opération standardisée n° BAR-EQ-113 (Abrogée à compter du 1er janvier 2019)
 
-- Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° BAR-EQ-114
+- Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° BAR-EQ-114 (Abrogée à compter du 1er janvier 2019)
+
+- Dispositif d’affichage et d’interprétation des consommations d’énergie / Fiche d’opération standardisée n° BAR-EQ-115
 
 - Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAR-SE-104
 
+- Contrat de Performance Energétique Services (CPE Services) / Fiche d’opération standardisée n° BAR-SE-105
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
 
@@ -170,4 +180,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A).
+Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).

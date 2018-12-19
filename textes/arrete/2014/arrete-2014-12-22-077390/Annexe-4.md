@@ -14,7 +14,7 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Conduits de lumière naturelle / Fiche d’opération standardisée n° IND-BA-114
 
-- Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° IND-BA-115
+- Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° IND-BA-115 (Abrogée à compter du 1er avril 2019)
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
@@ -56,6 +56,8 @@ Conformément à l’article 5 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 - Matelas pour l’isolation de points singuliers / Fiche d’opération standardisée n° IND-UT-121
 
+Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté.
+
 - Sécheur d’air comprimé à adsorption utilisant un apport calorifique pour sa régénération / Fiche d’opération standardisée n° IND-UT-122
 
 - Moteur premium de classe IE3 / Fiche d’opération standardisée n° IND-UT-123
@@ -70,13 +72,21 @@ Conformément à l’article 8 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311
 
 - Presse à injecter toute électrique ou hybride / Fiche d’opération standardisée n° IND-UT-129
 
+Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté.
+
 - Condenseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-130
 
 - Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
 
 - Moteur asynchrone de classe IE4 / Fiche d’opération standardisée n° IND-UT-132
 
+- Système électronique de pilotage d’un moteur électrique avec récupération d’énergie / Fiche d’opération standardisée n° IND-UT-133
+
+- Système de mesurage d’indicateurs de performance énergétique / Fiche d’opération standardisée n° IND-UT-134
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
 
@@ -102,4 +112,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A).
+Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).

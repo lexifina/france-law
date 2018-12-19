@@ -4,121 +4,129 @@ Secteur transport
 
 - Unité de transport intermodal pour le transport combiné rail-route / Fiche d’opération n° TRA-EQ-101
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Télématique embarquée pour le suivi de la conduite d’un véhicule / Fiche d’opération n° TRA-EQ-103
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Lubrifiant économiseur d’énergie pour véhicules légers / Fiche d’opération n° TRA-EQ-104
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Pneus de véhicules légers à basse résistance au roulement / Fiche d’opération n° TRA-EQ-106
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Unité de transport intermodal pour le transport combiné fluvial-route / Fiche d’opération n° TRA-EQ-107
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Wagon d’autoroute ferroviaire / Fiche d’opération n° TRA-EQ-108
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 Conformément à l’article 5 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références figurant à l'annexe 4 dudit arrêté.
 
 Conformément à l’article 5 de l’arrêté de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant les mêmes références figurant à l'annexe 6 dudit arrêté.
 
+Conformément à l’article 5 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe 8 dudit arrêté.
+
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Automoteur fluvial / Fiche d’opération n° TRA-EQ-110
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi-remorques, remorques et caisse mobiles frigorifiques / Fiche d’opération n° TRA-EQ-111
 
 - Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises / Fiche d’opération n° TRA-EQ-113
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle / Fiche d’opération n° TRA-EQ-114
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Véhicule de transport de marchandises optimisé / Fiche d’opération n° TRA-EQ-115
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Remplacement de véhicules par des véhicules neufs performants pour les particuliers ou les collectivités / Fiche d’opération n° TRA-EQ-117
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Lubrifiant économiseur d’énergie pour la pêche professionnelle / Fiche d’opération n° TRA-EQ-118
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Optimisation de la combustion et de la propreté des moteurs Diesel / Fiche d’opération n° TRA-EQ-119
 
-Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références situées dans l’annexe 6 dudit arrêté.
+Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d'opérations standardisées d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références situées dans l’annexe 6 dudit arrêté.
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Hélice avec tuyère sur une unité de transport fluvial / Fiche d’opération n° TRA-EQ-120
 
+- Vélo à assistance électrique / Fiche d’opération n° TRA-EQ-121
+
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Formation d’un chauffeur de véhicule léger à la conduite économe / Fiche d’opération n° TRA-SE-102
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Station de gonflage des pneumatiques / Fiche d’opération n° TRA-SE-104
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Recreusage des pneumatiques / Fiche d’opération n° TRA-SE-105
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Mesure et optimisation des consommations de carburant d’une unité de transport fluvial / Fiche d’opération n° TRA-SE-106
 
-Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références situées dans l’annexe 6 dudit arrêté.
+Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d'opérations standardisées d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références situées dans l’annexe 6 dudit arrêté.
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Carénage sur une unité de transport fluvial / Fiche d’opération n° TRA-SE-107
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-108
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-109
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-110
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-111
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Service d’autopartage en boucle / Fiche d’opération n° TRA-SE-112
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 - Suivi des consommations de carburants grâce à des cartes privatives / Fiche d’opération n° TRA-SE-113
 
-Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
+Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opérations standardisées d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 292 du 18/12/2018, texte nº 1, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 7 du 10/01/2018, texte nº 4, accessible à l’adresse suivante :
 
@@ -130,7 +138,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgth
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 22 décembre 2016, texte nº 8, accessible à l’adresse suivante :
 
-https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilD-Vx1TFCBg=
+https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 261 du 09/11/2016, texte nº 4, accessible à l’adresse suivante :
 
@@ -162,4 +170,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Se reporter aux modalités d’application prévues par l’article 9 du 22 décembre 2017 (NOR : TRER1736405A).
+Se reporter aux modalités d’application prévues par l’article 7 du 6 décembre 2018 (NOR : TRER1834001A).

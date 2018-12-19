@@ -34,6 +34,8 @@ Réglage des organes d’équilibrage d’une installation de chauffage à eau c
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
 Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n° BAT-TH-103
 
 Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
@@ -60,11 +62,15 @@ Pompe à chaleur de type air/eau ou eau/eau / Fiche d’opération standardisée
 
 Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
 Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-115
 
 Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
 Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
+
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
 Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
@@ -80,15 +86,23 @@ Ventilation mécanique double flux avec échangeur à débit d’air constant ou
 
 Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’opération standardisée n° BAT-TH-127
 
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
 Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
 Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
 
 Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
-Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
 Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
+
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
+Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
+
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
 Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
 
@@ -98,11 +112,17 @@ Système de régulation sur un groupe de production de froid permettant d’avoi
 
 Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-146
 
-Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
+Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
 
-Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114
+Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
 
-Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116
+Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
+
+Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
+
+Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114 (abrogée à compter du 1er avril 2019)
+
+Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116 (abrogée à compter du 1er avril 2019)
 
 Installation frigorifique utilisant du CO2 subcritique ou transcritique / Fiche d’opération standardisée n° BAT-EQ-117
 
@@ -116,19 +136,23 @@ Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d
 
 Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
 Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
 
 Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° BAT-EQ-130
 
 Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-131
 
-Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132
+Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132 (abrogée à compter du 1er avril 2019)
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
 Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
 
@@ -156,4 +180,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A).
+Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).
