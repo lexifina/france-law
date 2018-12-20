@@ -4180,7 +4180,7 @@ D
 
 |
 
-Combustion à l'exclusion des installations visées par les rubriques 2770, 2771 et 2971
+Combustion à l'exclusion des activités visées par les rubriques 2770,2771,2971 ou 2931 et des installations classées au titre de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
 
 |
 
@@ -4192,7 +4192,7 @@ Combustion à l'exclusion des installations visées par les rubriques 2770, 2771
 
 |
 
-A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de biomasse, des produits connexes de scierie issus du b) v) de la définition de biomasse ou lorsque la biomasse est issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
+A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v) de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale est :
 
 |
 
@@ -4204,79 +4204,7 @@ A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz n
 
 |
 
-1. Supérieure ou égale à 20 MW
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-2. Supérieure à 2 MW, mais inférieure à 20 MW
-
-|
-
-DC
-
-|
-
--
-
-|
-
-|
-
-|
-
-B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de biomasse, et si la puissance thermique nominale de l'installation est :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Supérieure ou égale à 20 MW
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-2. Supérieure à 0,1 MW mais inférieure à 20 MW :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou de biogaz autre que celui visé en 2910-C, ou de produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement
+1. Supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 |
 
@@ -4292,67 +4220,7 @@ E
 
 |
 
-b) Dans les autres cas
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la puissance thermique nominale de l'installation est supérieure à 0,1 MW :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Lorsque le biogaz est produit par une installation soumise à autorisation ou par plusieurs installations classées au titre de la rubrique 2781-1
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
-
-|
-
-E
-
-|
-
--
-
-|
-
-|
-
-|
-
-3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
 
 |
 
@@ -4368,7 +4236,47 @@ DC
 
 |
 
-La puissance thermique nominale correspond à la puissance thermique fixée et garantie par le constructeur exprimée en pouvoir calorifique inférieur et susceptible d'être consommée en marche continue.
+B. Lorsque sont consommés seuls ou en mélange des produits différents de ceux visés en A, ou de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Uniquement de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de la biomasse, le biogaz autre que celui visé en 2910-A, ou un produit autre que la biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement, avec une puissance thermique nominale supérieure ou égale à 1 MW, mais inférieure à 50 MW
+
+|
+
+E
+
+|
+
+-
+
+|
+
+|
+
+|
+
+2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale à 0,1 MW, mais inférieure à 50 MW
+
+|
+
+A |
+
+3 |
+
+|
+
+|
+
+La puissance thermique nominale correspond à la somme des puissances thermiques des appareils de combustion pouvant fonctionner simultanément sur le site. Ces puissances sont fixées et garanties par le constructeur, exprimées en pouvoir calorifique inférieur et susceptibles d'être consommées en marche continue.
 
 |
 
@@ -4464,7 +4372,7 @@ iv) Déchets de liège ;
 
 |
 
-v) Déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris notamment les déchets de bois de ce type provenant de déchets de construction ou de démolition.
+v) Déchets de bois, à l'exception des déchets de bois susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement tels que les déchets de bois de ce type provenant de déchets de construction ou de démolition.
 
 |
 
