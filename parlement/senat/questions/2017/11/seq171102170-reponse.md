@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102170
+
+- Question : [SEQ171102170](seq171102170.md) — Traitement des intérêts d'une avance consentie sur un contrat d'assurance vie en matière de revenus fonciers
+
+## Réponse
+
+*Économie et finances, JO du 2018-12-20, page 6611*
+
+Conformément aux dispositions du d du 1° du I de l'article 31 du code général des impôts (CGI), les intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration des propriétés données en location sont déductibles pour la détermination du revenu foncier net imposable à l'impôt sur le revenu. Ainsi, les intérêts résultant d'un emprunt bancaire souscrit en vue de la conservation, de l'acquisition, de la construction, de la réparation ou de l'amélioration d'un bien immobilier sont, toutes conditions étant par ailleurs remplies, déductibles des revenus fonciers. Dès lors que l'avance consentie sur un contrat d'assurance-vie dans les conditions prévues par le deuxième alinéa de l'article L. 132-21 du code des assurances appelle un remboursement à échéance du capital avancé et le paiement d'intérêts à l'organisme créditeur, les intérêts payés à cette occasion, qui s'attachent au remboursement d'une dette, peuvent, à condition que l'avance soit effectivement remboursée à l'assureur au terme du prêt, être admis en déduction pour la détermination du revenu net foncier, dans les conditions prévues aux articles 13 et 31 du CGI. Dans ces conditions, et dès lors que la dette a été contractée pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration d'immeubles donnés en location, les intérêts y afférents, dont le contribuable peut justifier le paiement au cours de l'année d'imposition, sont déductibles pour la détermination du revenu foncier net imposable à l'impôt sur le revenu.
