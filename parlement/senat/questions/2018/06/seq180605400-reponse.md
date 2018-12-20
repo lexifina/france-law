@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605400
+
+- Question : [SEQ180605400](seq180605400.md) — Inquiétudes des professionnels du cirque traditionnel
+
+## Réponse
+
+*Culture, JO du 2018-12-20, page 6605*
+
+Le ministère de la culture est très attentif à la situation du cirque en France. C'est à ce titre qu'il est membre, aux côtés de sept autres ministères (intérieur, économie, finances, emploi et formation professionnelle, éducation nationale, environnement et agriculture), de la Commission nationale des professions foraines et circassiennes, créée par le décret du 29 octobre 2017. Cette Commission pérennise la mission interministérielle dirigée par le préfet Lemaire qui avait été mise en place le 30 juin 2016 pour répondre aux difficultés croissantes rencontrées par les cirques itinérants, notamment pour obtenir des autorisations d'installation de la part des mairies, à laquelle le ministère de la culture a également activement contribué. Si le ministère de la culture reste particulièrement vigilant quant au niveau d'inventivité et de création, il reconnaît que les cirques de tradition sont partie prenante de la richesse de la vie culturelle française et contribuent à la diversité de l'offre de spectacles circassiens sur le territoire. Conscient qu'il s'agit d'un secteur qui se trouve en situation de grande difficulté à l'heure actuelle, le ministère de la culture a prévu d'apporter 500 000 euros d'ici 2022 au secteur du cirque traditionnel, dans le cadre de son plan « culture près de chez vous ». Ce plan d'aide est axé sur le soutien à l'itinérance des cirques de famille et la structuration professionnelle du secteur. Il s'accompagnera de la publication, en 2018, d'un guide de bonnes pratiques, intitulé « droit de cité », qui a vocation à faciliter les relations entre les organisateurs de spectacles itinérants, notamment les cirques traditionnels, et les communes d'accueil.
