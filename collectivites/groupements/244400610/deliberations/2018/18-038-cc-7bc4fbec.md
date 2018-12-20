@@ -1,0 +1,11 @@
+# Cap Atlantique : délibération 18.038 CC — Admissions en non-valeur - budget spanc
+
+- Collectivité : Cap Atlantique
+- SIREN : 244400610
+- Date : 2018-12-20
+- Séance : Conseil Communautaire
+- Matière : 7.1 Finances locales
+- Objet : Admissions en non-valeur - budget spanc
+- Transmis à la préfecture : 2018-12-27
+- Acte publié : https://opendata.cap-atlantique.fr:4333/diffusion\delib\244400610\fichier/18.038_cc_adm_non_valeur_bspanc.zip
+- Jeu de données : https://www.data.gouv.fr/datasets/5cb490e606e3e76fde62e169
