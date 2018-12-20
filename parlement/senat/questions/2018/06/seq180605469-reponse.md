@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605469
+
+- Question : [SEQ180605469](seq180605469.md) — Délais de versement des subventions de l'État aux collectivités
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2018-12-20, page 6595*
+
+Le versement d'avances et d'acomptes au titre de la dotation d'équipement des territoires ruraux (DETR), de la dotation politique de la ville (DPV) et de la dotation de soutien à l'investissement local (DSIL) est régi par l'article R. 2334-30 du code général des collectivités territoriales (CGCT). Cet article prévoit que le versement d'une avance de 30 % est opéré « au vu du document informant le préfet du commencement d'exécution de l'opération » ou bien « lors de la notification de l'arrêté attributif » si l'on se trouve « dans le cas d'une autorisation de commencement anticipé ». Il prévoit également que le versement d'un acompte est possible en fonction de l'avancement de l'opération et au vu des pièces justificatives des paiements à condition que la somme de ce montant et de celui de l'avance ne dépassent pas 80 % du montant prévisionnel de la subvention. Le reliquat de l'opération est, quant à lui, versé à l'achèvement de l'opération. Ces procédures juridiques permettent d'assurer la régularité de l'attribution, de l'utilisation et des versements des subventions pour vérifier que les sommes versées aux collectivités bénéficiaires ne le soient pas pour des projets qui, pour une raison ou pour une autre, ne seraient pas menés à leurs termes. Dès lors, il peut en résulter des délais de paiement incompressibles, qui résultent des règles juridiques destinées à assurer la bonne utilisation des deniers publics. Toutefois, les préfectures sont mobilisées pour assurer le traitement efficace de cette chaîne de la dépense et réduire les délais de versement des subventions aux collectivités bénéficiaires dès que celles-ci attestent de la réalisation effective des opérations.
