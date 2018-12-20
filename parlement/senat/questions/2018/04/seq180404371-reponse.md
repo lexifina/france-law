@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404371
+
+- Question : [SEQ180404371](seq180404371.md) — Centre pénitentiaire des Baumettes 2
+
+## Réponse
+
+*Justice, JO du 2018-12-20, page 6630*
+
+Le ministère de la justice prend la mesure de la gêne occasionnée à certains riverains du centre pénitentiaire des Baumettes et met tout en œuvre pour la réduire. Ainsi, une gestion disciplinaire ferme des tapages est mise en place pour infléchir les comportements (identification des auteurs, saisine de la commission de discipline et affectation des détenus identifiés dans des zones moins exposées). Sensibilisée, la direction de l'établissement entretient par ailleurs depuis septembre 2017 un lien régulier avec les représentants du Comité d'intérêt de quartier. Le chef d'établissement reçoit une délégation du collectif des riverains une fois par mois environ. Au plan immobilier, une série de mesures des émergences sonores a été réalisée dans le voisinage du 6 au 10 juillet 2018 par l'agence publique pour l'immobilier de la justice. Sur la base de ces relevés, deux prototypes ont été installés sur des fenêtres des bâtiments les plus exposés : une grille acoustique a été posée en extérieur sur une fenêtre au mois d'octobre ; une sonde acoustique a été installée afin de mesurer les résultats obtenus. Un châssis de fenêtre spécifique a également été installé fin novembre dans une seconde cellule qui comporte une partie fixe et une partie ouvrante équipée d'un filtre à son ; des tests acoustiques sont en cours. L'objectif est de disposer d'une solution technique efficace susceptible d'être déployée, en particulier, sur les étages élevés des hébergements afin de limiter au maximun les nuisances subies par les riverains. La proposition de rehausser le mur d'enceinte a été écartée après expertise en raison de contraintes urbanistiques, environnementales et techniques, notamment d'exposition au vent.
