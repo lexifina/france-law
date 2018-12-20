@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706150
+
+- Question : [SEQ180706150](seq180706150.md) — Date de mise en application d'une décision de justice
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2018-12-20, page 6590*
+
+Le Conseil d'État a précisé que l'annulation d'un document d'urbanisme prend effet à la date du prononcé du jugement, c'est-à-dire à la date de sa « lecture », qui est mentionnée dans le jugement et donc antérieure à la date de sa notification à la commune (CE, 18 décembre 2009, M. et Mme Abraham, n° 307272). C'est donc cette date qui doit servir de référence pour appliquer l'article L. 600-12 du code de l'urbanisme qui prévoit que « L'annulation ou la déclaration d'illégalité d'un schéma de cohérence territoriale, d'un plan local d'urbanisme (PLU), d'un document d'urbanisme en tenant lieu ou d'une carte communale a pour effet de remettre en vigueur le schéma de cohérence territoriale, le PLU, le document d'urbanisme en tenant lieu ou la carte communale immédiatement antérieur. » Ainsi les autorisations d'occupation du sol délivrées entre la lecture du jugement et la notification à la commune devront être délivrées au regard des règles remises en vigueur à compter de la lecture du jugement d'annulation. Cette solution permet de donner une date objective et facilement identifiable, notamment pour les pétitionnaires, à l'annulation du document d'urbanisme. Elle impliquera certes une vigilance de la commune à la suite de l'audience, mais le maire dispose également de la possibilité de retirer les autorisations qui auraient alors été illégalement accordées entre la date de lecture et de notification. Ce retrait peut intervenir jusqu'à trois mois à compter de la date de l'autorisation (article L. 424-5 du code de l'urbanisme).
