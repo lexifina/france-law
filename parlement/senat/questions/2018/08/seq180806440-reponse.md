@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806440
+
+- Question : [SEQ180806440](seq180806440.md) — Blocage du recrutement d'ouvriers d'État à la DGAC
+
+## Réponse
+
+*Transports, JO du 2018-12-20, page 6656*
+
+La direction générale de l'aviation civile (DGAC) a sollicité pour l'année 2018 une autorisation de recrutements à hauteur de vingt-neuf postes, pour des compétences ouvrières répondant aux missions identifiées comme prioritaires car concourant au maintien en conditions opérationnelles et à la sécurité des infrastructures, équipements et matériels. La conjonction du moratoire décidé depuis 2009 pour le recrutement de personnels sous statut ouvrier et de l'engagement de la concertation sur l'élargissement du recours au contrat dans la fonction publique ont conduit à permettre à la DGAC, pour répondre à ses besoins spécifiques, de procéder à l'embauche d'agents sous contrat à durée indéterminée en application des dispositions de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique, notamment de son article 4 alinéa 1, et de celles de la loi n° 2016-483 du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires. La DGAC a également mené des travaux visant à moderniser le statut de ses personnels ouvriers. Dans ce cadre, un décret et un arrêté relatifs à la rémunération ont été publiés en 2011. Ces travaux ont été poursuivis dans le cadre du protocole d'accord social 2016-2019 et ont permis l'élaboration d'un corpus réglementaire principalement constitué d'un décret et de quatre arrêtés relatifs à la carrière des ouvriers d'État de l'aviation civile, qui ont été transmis pour instruction à la direction générale de l'administration et de la fonction publique le 17 avril 2018, première étape dans le processus de publication au Journal officiel.
