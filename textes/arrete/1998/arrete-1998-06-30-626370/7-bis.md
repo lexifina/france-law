@@ -1,0 +1,5 @@
+# Article 7 bis
+
+Est soumise à la déclaration prévue à l' article L. 412-1 du code de l'environnement l'introduction sur le territoire national en provenance d'un territoire n'appartenant pas à l'Union européenne, des spécimens des espèces figurant aux annexes C ou D du règlement du 9 décembre 1996 susvisé.
+
+Vaut déclaration la notification d'importation présentée au bureau de douane frontalier d'introduction conformément aux conditions fixées par le règlement du 9 décembre 1996 susvisé, selon les modalités précisées par le règlement (CE) n° 865/2006 de la Commission du 4 mai 2006 portant modalités d'application du règlement (CE) n° 338/97 du Conseil relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce modifié, et à l'aide des modèles fixés par le règlement d'exécution (UE) n° 792/2012 de la Commission du 23 août 2012 établissant les règles relatives à la forme des permis, des certificats et autres documents prévus au règlement (CE) n° 338/97 du Conseil relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, et modifiant le règlement (CE) n° 865/2006 de la Commission.
