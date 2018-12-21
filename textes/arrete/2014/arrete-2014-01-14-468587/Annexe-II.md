@@ -1,109 +1,105 @@
 # Article Annexe II
 
-MODÈLES DES FORMULAIRES RELATIFS À L'INFORMATION ET AU CONSENTEMENT DE LA FEMME ENCEINTE À LA RÉALISATION D'UN OU DE PLUSIEURS EXAMENS PERMETTANT D'ÉVALUER LE RISQUE QUE L'EMBRYON OU LE FŒTUS PRÉSENTE UNE AFFECTION SUSCEPTIBLE DE MODIFIER LE DÉROULEMENT OU LE SUIVI DE LA GROSSESSE
+1. Modèle du formulaire pour les examens de biochimie portant sur les marqueurs sériques maternels mentionnés au 1° du I de l'article R. 2131-1 du code de la santé publique
 
-1. Modèle du formulaire pour les examens de biochimie portant sur les marqueurs sériques
+Je soussignée
 
-maternels mentionnés au 1° du I de l'article R. 2131-1 du code de la santé publique
+atteste avoir reçu du médecin, de la sage-femme ou du conseiller en génétique sous la responsabilité du médecin généticien (*) (nom, prénom)
 
-Je soussignée ....................
+au cours d'une consultation en date du :
 
-atteste avoir reçu,
+des informations sur l'examen des marqueurs sériques maternels dont je souhaite bénéficier portant notamment sur :
 
-du médecin ou de la sage-femme (*) (nom, prénom) ....................
+-les caractéristiques de la trisomie 21 ainsi que les modalités de prise en charge des personnes porteuses de trisomie 21 ; le fait que cet examen permette d'évaluer le risque que l'enfant à naître soit atteint d'une maladie d'une particulière gravité, notamment la trisomie 21 ;
 
-au cours d'une consultation médicale en date du ....................
+-les modalités de cet examen :
 
-des informations sur l'examen des marqueurs sériques maternels dont je souhaite bénéficier :
+-une prise de sang est réalisée au cours d'une période précise de la grossesse ;
 
-― cet examen permet d'évaluer le risque que l'enfant à naître soit atteint d'une maladie d'une particulière gravité, notamment la trisomie 21 ;
+-un calcul de risque de trisomie 21 est effectué ; il prend notamment en compte les données de l'échographie prénatale du premier trimestre, lorsque ces résultats sont disponibles et utilisables ;
 
-― une prise de sang est réalisée au cours d'une période précise de la grossesse ;
+-le résultat de cet examen est exprimé en risque pour l'enfant à naître d'être porteur de la trisomie 21. Ce risque ne permet pas à lui seul d'en établir le diagnostic.
 
-― un calcul de risque de trisomie 21 est effectué ; il prend notamment en compte les données de l'échographie prénatale du premier trimestre, lorsque ces résultats sont disponibles et que les mesures échographiques sont estimées fiables ;
+Le résultat du calcul de risque me sera rendu et expliqué par le médecin prescripteur ou un autre praticien ayant l'expérience du dépistage prénatal :
 
-― le résultat est toujours exprimé en risque pour l'enfant à naître d'être atteint de la maladie. Ce risque ne permet pas à lui seul d'en établir le diagnostic ;
+-si le risque est < 1/1000, il est considéré comme suffisamment faible pour arrêter cette procédure de dépistage et poursuivre une surveillance simple de la grossesse même s'il n'écarte pas complètement la possibilité pour le fœtus d'être atteint de l'affection ;
 
-― le résultat du calcul de risque me sera rendu et expliqué par le médecin prescripteur ou un autre praticien ayant l'expérience du dépistage prénatal :
+-si le risque est compris entre 1/51 et 1/1000 : un examen de dépistage portant sur l'ADN fœtal libre circulant dans le sang maternel sera proposé pour compléter le dépistage ;
 
-― si le risque est faible, il n'écarte pas complètement la possibilité pour le fœtus d'être atteint de trisomie 21 ou d'une autre affection ;
+-Si le risque est ≥ 1/50 la réalisation d'un caryotype fœtal à visée diagnostic me sera proposé d'emblée. Cet examen nécessite un prélèvement dit invasif (de liquide amniotique, de villosités choriales ou de sang fœtal).
 
-― si le risque est élevé, un prélèvement (de liquide amniotique, de villosités choriales ou de sang fœtal) me sera proposé. Seul le résultat du caryotype fœtal permettra de confirmer ou non l'existence de l'affection. Les risques, les contraintes et les éventuelles conséquences de chaque technique de prélèvement me seront expliqués.
+Seul le résultat du caryotype fœtal permettra de confirmer ou non l'existence de l'affection.
 
 Je consens à la réalisation du dosage des marqueurs sériques maternels.
-
-Le dosage des marqueurs sériques maternels sera effectué dans un laboratoire de biologie médicale autorisé par l'agence régionale de santé à les pratiquer.
 
 L'original du présent document est conservé dans mon dossier médical.
 
 Une copie de ce document m'est remise ainsi qu'au praticien devant effectuer les dosages biologiques et, le cas échéant, le calcul de risque.
 
-Le laboratoire de biologie médicale dans lequel exerce le praticien ayant effectué les dosages et, le cas échéant, le calcul de risque conserve ce document dans les mêmes conditions que le compte rendu de l'examen.
+Le laboratoire de biologie médicale autorisé par l'agence régionale de santé dans lequel exerce le praticien ayant effectué les dosages et, le cas échéant, le calcul de risque conserve ce document dans les mêmes conditions que le compte rendu de l'examen.
 
-Date : ....................
+Date :
 
 Signature du médecin
 
-ou de la sage-femme
+ou de la sage-femme (*) |
 
-Signature de l'intéressée
+Signature de l'intéressée (*) |
 
 (*) Rayez la mention inutile.
 
-2. Modèle du formulaire pour les échographies obstétricales et fœtales
+DU PROJET D'ARRÊTÉ
 
-mentionnées au 1° du III de l'article R. 2131-1 du code de la santé publique
+1 bis. Modèle du formulaire pour les examens portant sur l'ADN fœtal libre circulant dans le sang maternel, mentionnés 3° du I de l'article R. 2131-1 du code de la santé publique
 
-Je soussignée ....................
+Je soussignée
 
-atteste avoir reçu,du médecin ou de la sage-femme (*) (nom, prénom) ....................
+atteste avoir reçu,
 
-au cours d'une consultation médicale en date du ....................
+du médecin, de la sage-femme ou du conseiller en génétique sous la responsabilité du médecin généticien (*) (nom, prénom)
 
-Des informations sur l'examen échographique dont je souhaite bénéficier :
+au cours d'une consultation en date du
 
-- l'échographie est un examen d'imagerie médicale qui ne présente pas de risque en l'état des connaissances ni pour le fœtus ni pour la femme enceinte lorsqu'il est réalisé dans un cadre médical ;
+des informations sur l'examen portant sur l'ADN fœtal libre circulant dans le sang maternel dont je souhaite bénéficier portant notamment sur :
 
-- l'image du fœtus et de ses annexes (placenta, liquide amniotique...) peut être obtenue à travers la paroi abdominale maternelle ou à travers la paroi vaginale maternelle ;
+- les caractéristiques de la trisomie 21 ainsi les modalités de prise en charge des personnes porteuses de trisomie 21 ;
 
-- cet examen et, de manière plus générale, les échographies de surveillance de la grossesse sont réalisées à des périodes précises de la grossesse ;
+- le fait que cet examen a pour but de préciser le risque que le fœtus soit atteint de trisomie 21 mais que seul le résultat du caryotype fœtal permettra de confirmer ou non l'existence de la trisomie 21 ;
 
-- cet examen permet notamment :
+- le fait qu'une prise de sang sera réalisée.
 
-- de déterminer le plus précisément possible la date de début de la grossesse ;
+Il m'a été expliqué que :
 
-- d'identifier une grossesse multiple ;
+- si l'ADN provenant du chromosome 21 est présent en quantité anormalement élevée, cela signifie qu'il existe une forte probabilité que le fœtus soit atteint de trisomie 21 ;
 
-- d'évaluer et de surveiller le développement du fœtus ;
+- le résultat est soit positif soit négatif, mais il ne permet pas à lui seul d'établir le diagnostic de trisomie 21 ;
 
-- de dépister des éventuelles malformations du fœtus ;
+- le résultat me sera rendu et expliqué par le médecin prescripteur ou un autre praticien ayant l'expérience du dépistage prénatal :
 
-- de localiser le placenta et d'évaluer la quantité de liquide amniotique ;
+- si le résultat est négatif, cela signifie que cet examen n'a pas décelé d'anomalie. Dans cette situation la possibilité que le fœtus soit atteint de trisomie 21 est très faible mais pas totalement nulle ;
 
-- la performance de l'examen peut être limitée par certaines circonstances (épaisseur de la paroi abdominale, position du fœtus...) ;
+- si le résultat est positif, la présence d'une trisomie 21 chez le fœtus est très probable mais pas certaine. Un prélèvement (de liquide amniotique, de villosités choriales ou de sang fœtal) me sera alors proposé afin d'établir le caryotype du fœtus pour confirmer (ou infirmer) le résultat du dépistage à partir de la prise de sang ;
 
-- les mesures effectuées au cours de l'échographie ainsi que les estimations du poids du fœtus sont soumises à des marges d'erreurs liées notamment aux conditions de l'examen ;
+- parfois, en cas d'échec technique sur la première prise de sang, une seconde me sera proposée pour recommencer l'examen portant sur l'ADN fœtal libre circulant dans le sang maternel ;
 
-- l'absence d'anomalie décelée à l'échographie ne permet pas d'affirmer que le fœtus est indemne de toute affection ;
+- dans de rares cas, l'examen de l'ADN fœtal libre dans le sang maternel ne donnera pas de résultat et le praticien me présentera les options possibles.
 
-- une suspicion d'anomalie peut ne pas être confirmée ultérieurement ;
+J'ai été informée que cet examen n'est pas prévu pour révéler d'éventuelles autres affections que la trisomie 21.
 
-- un nouvel examen échographique pourra m'être proposé dans certaines situations pour contrôler la croissance du fœtus ou pour vérifier un aspect inhabituel à l'échographie, ce qui ne signifie pas que le fœtus soit atteint d'une affection ; ce nouvel examen pourra être réalisé par le même échographiste ou par un autre auquel je serai, avec mon accord, adressée ;
+Je consens à la réalisation de l'examen portant sur l'ADN fœtal libre circulant dans le sang maternel.
 
-- dans certains cas, l'affection suspectée ne pourra être confirmée ou précisée que par la réalisation de nouveaux examens qui me seront proposés ; ces nouveaux examens nécessiteront parfois un prélèvement (de liquide amniotique, de villosités choriales ou de sang fœtal) ; les risques, les contraintes et les éventuelles conséquences de chaque technique de prélèvement me seront expliqués.
+L'original du présent document est conservé dans mon dossier médical.
 
-Je consens à la réalisation de l'examen échographique permettant d'évaluer le risque que l'embryon ou le fœtus présente une affection susceptible de modifier le déroulement ou le suivi de la grossesse.
+Une copie de ce document m'est remise ainsi qu'au praticien devant effectuer l'examen.
 
-L'original du présent document est conservé dans mon dossier médical par le médecin ou la sage-femme qui a effectué la première échographie obstétricale et fœtale.
+Le laboratoire de biologie médicale autorisé par l'agence régionale de santé dans lequel exerce le praticien ayant effectué l'examen conserve ce document dans les mêmes conditions que le compte rendu de l'examen.
 
-Une copie de ce document m'est remise. Je devrai la présenter aux médecins et aux sages-femmes qui effectueront, le cas échéant, d'autres échographies permettant d'évaluer le risque que l'embryon ou le fœtus présente une affection susceptible de modifier le déroulement ou le suivi de ma grossesse.
+Date :
 
-Ce document est conservé dans les mêmes conditions que le compte rendu de l'examen.
+Signature du médecin
 
-Date : ....................
+ou de la sage-femme (*) |
 
-Signature du praticien
-
-Signature de l'intéressée
+Signature de l'intéressée (*) |
 
 (*) Rayez la mention inutile.
