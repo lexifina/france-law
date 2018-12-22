@@ -576,9 +576,7 @@ Montpellier
 
 |
 
-Lodève, Lunel, Montpellier (La Paillade).
-
-|
+Lattes (Montpellier Méditerranée Métropole), Lodève, Lunel, Montpellier (La Paillade). |
 
 Pyrénées-Orientales
 
