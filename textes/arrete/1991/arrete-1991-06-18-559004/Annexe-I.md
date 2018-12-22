@@ -5410,17 +5410,9 @@ Mesures d'opacité légèrement instables
 
 Mineure |
 
-8.2.22. a. 2. |
-
-L'opacité dépasse la valeur de réception ou les mesures sont instables |
-
-|
-
-Majeure |
-
 8.2.22. b. 2. |
 
-L'opacité dépasse les limites réglementaires, en l'absence de valeur de réception ou les mesures sont instables |
+L'opacité dépasse les limites réglementaires ou les mesures sont instables |
 
 |
 
@@ -6258,7 +6250,7 @@ A défaut de prescription particulière transmise par le constructeur du véhicu
 
 G. 11. Opacité (point 8.2.22.)
 
-L'opacité des fumées en accélération libre, mesurée par leur coefficient d'absorption, ne doit pas excéder la valeur spécifiée par le constructeur lorsqu'elle existe ou à défaut les valeurs suivantes :
+L'opacité des fumées en accélération libre, mesurée par leur coefficient d'absorption, ne doit pas excéder les valeurs suivantes :
 
 -2,5 m-1 dans le cas des moteurs diesel à aspiration naturelle ;
 
