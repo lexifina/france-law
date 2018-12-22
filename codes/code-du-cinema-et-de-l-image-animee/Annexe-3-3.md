@@ -90,6 +90,8 @@ III.-Documentaire de création :
 
 12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
 
+12° bis Le cas échéant, pour l'application du coefficient prévu au B du II de l'article 311-48, un document détaillant les dépenses correspondant à des moyens artistiques et techniques relevant des genres de la fiction, de l'animation ou de l'adaptation audiovisuelle de spectacle vivant accompagné d'un argumentaire exposant la spécificité de ces dépenses ;
+
 13° Le cas échéant, pour l'attribution des bonifications prévues au III de l'article 311-48 :
 
 a) Toute pièce justificative de l'obtention d'une aide à l'écriture ou au développement ;
@@ -120,7 +122,7 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
-7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
+7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation préalable. Le contrat mentionne le nombre de sessions d'enregistrement du spectacle ;
 
 8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur, chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 

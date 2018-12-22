@@ -4,18 +4,18 @@ Demande d'investissement à la création et à la modernisation d'un établissem
 
 Liste des documents justificatifs :
 
-I.-Pour les travaux effectués :
+I. - Pour les travaux, investissements ou formations effectués :
 
-1° La liste des travaux et investissements effectués ;
+1° La liste des travaux, investissements ou formations effectués ;
 
-2° Une copie des factures des travaux effectués, accompagnées d'une déclaration de règlement souscrite par l'entrepreneur ou le fournisseur.
+2° Une copie des factures, accompagnées d'une déclaration de règlement souscrite par l'entrepreneur, le fournisseur ou le prestataire.
 
-II.-Pour les travaux à effectuer :
+II. - Pour les travaux, investissements ou formations à effectuer :
 
-1° La liste des travaux et investissements à effectuer ;
+1° La liste des travaux, investissements ou formations à effectuer ;
 
-2° Un devis descriptif et estimatif détaillé ;
+2° Un devis détaillé ;
 
-3° La date de commencement et d'achèvement des travaux ;
+3° La date de commencement et d'achèvement des travaux, investissements ou formations ;
 
-4° Les reçus des acomptes des entrepreneurs ou fournisseurs.
+4° Les reçus des acomptes des entrepreneurs, fournisseurs ou prestataires.

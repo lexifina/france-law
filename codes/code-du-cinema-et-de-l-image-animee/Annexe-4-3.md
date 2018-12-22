@@ -4,28 +4,30 @@ Aides à la production avant réalisation (article 411-28)
 
 Liste des documents justificatifs :
 
-1° Le scénario présenté sous la forme d'une continuité dialoguée. Dans le cas d'un projet d'œuvre documentaire : à la place d'une continuité dialoguée, ensemble de documents (note d'intention, textes, photos et images de repérages, séquencier ou continuité non dialoguée, etc.) qui puisse permettre de se former une opinion sur le sujet et le traitement.
+1° Un dossier artistique composé des éléments suivants :
 
-Les éléments communiqués doivent permettre de mieux appréhender la dimension cinématographique du projet en particulier sur les points suivants :
+a) Un bref résumé du projet d'œuvre ;
 
-a) La définition des situations, des personnages et des lieux ;
+b) Le scénario ;
 
-b) Le regard de l'auteur, le point de vue du réalisateur sur le sujet ;
+c) Une note d'intention ;
 
-c) Les enjeux de l'œuvre, le type, le déroulement de la narration et la dramaturgie envisagée ;
+d) Une note de production ;
 
-d) La proposition formelle et le dispositif de mise en scène (articulation entre archives, interviews, témoignages, matière visuelle, etc.) ;
+e) En cas de coproduction avec une entreprise étrangère, tout document préparatoire attestant son intention de contracter avec l'entreprise de production française ;
 
-2° Le synopsis (3 pages maximum) ;
+f) Pour les projets d'œuvre d'animation uniquement : scénarimage partiel ou complet ;
 
-3° Le curriculum-vitae du réalisateur et des auteurs précisant, plus particulièrement, pour les demandes concernant une première œuvre, le parcours des courts métrages réalisés (présence et prix dans les festivals, autres distinctions, diffusion salles et télévisuelle, etc.) ;
+2° Un curriculum vitae :
 
-4° Eventuellement, sous forme de note, les commentaires ou compléments d'information que le demandeur juge utiles pour une meilleure compréhension du projet, qu'il s'agisse d'éléments artistiques, techniques ou financiers ;
+a) Du ou des auteurs du scénario et de l'auteur-réalisateur ;
 
-5° Le cas échéant, des DVD d'œuvres précédemment réalisées ;
+b) De l'entreprise de production (le cas échéant) ;
 
-En outre, si le projet est présenté par une société de production :
+3° L'attestation de l'auteur-réalisateur et, le cas échéant, de l'entreprise de production certifiant que le projet ne fera pas l'objet d'un début de réalisation avant que n'ait été émis l'avis de la commission ;
 
-6° La filmographie de l'entreprise ;
+4° Le contrat d'option ou le contrat de cession des droits d'auteur de l'auteur-réalisateur faisant apparaitre le montant de la rémunération, lorsque la demande est présentée par l'entreprise de production ;
 
-7° Dans le cas d'un projet d'œuvre d'animation, des éléments graphiques.
+5° L'autorisation de l'auteur ou de l'ayant droit (contrat, lettre ou option) si le sujet est tiré d'une œuvre préexistante.
+
+6° La photocopie de la carte d'identité de l'auteur-réalisateur ou du représentant légal de l'entreprise de production.
