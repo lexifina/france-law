@@ -24,7 +24,9 @@ Catégorie B : tout aéromodèle ne respectant pas les caractéristiques de la c
 
 1. Principe d'utilisation des aéromodèles :
 
-1.1) Les aéromodèles de catégorie A sont dispensés de document de navigabilité et sont autorisés à voler sans autre condition relative à leur aptitude au vol et sans autre condition relative aux capacités requises des personnes qui les utilisent que celles définies aux paragraphes 1.3) à 1.6).
+1.1) Les aéromodèles de catégorie A sont dispensés de document de navigabilité et sont autorisés à voler sans autre condition relative à leur aptitude au vol que celles définies aux paragraphes 1.3) à 1.6).
+
+Les télépilotes des aéromodèles de catégorie A répondent aux dispositions de l'arrêté du 12 octobre 2018 relatif à la formation exigée des télépilotes qui utilisent des aéronefs civils circulant sans personne à bord à des fins de loisir.
 
 1.2) Les aéromodèles de catégorie B sont autorisés à voler sous réserve qu'une autorisation de vol ait été délivrée par le ministre chargé de l'aviation civile pour attester de la navigabilité de l'aéromodèle et des capacités requises des personnes qui l'utilisent.
 
@@ -44,11 +46,29 @@ Catégorie B : tout aéromodèle ne respectant pas les caractéristiques de la c
 
 3. Autorisation de vol d'un aéromodèle de catégorie B :
 
-3.1) Pour les aéromodèles de catégorie B ne relevant pas en matière de navigabilité de la réglementation européenne, l'autorisation de vol est délivrée lorsque l'aéromodèle répond au dossier technique établi par le postulant et accepté par le ministre chargé de l'aviation civile, et que le ou les télépilotes qui utilisent l'aéromodèle ont prouvé leurs compétences lors d'une ou plusieurs démonstrations en vol, selon un programme conforme à un programme type figurant en appendice.
+3.1) Pour les aéromodèles de catégorie B ne relevant pas en matière de navigabilité de la réglementation européenne, l'autorisation de vol est délivrée lorsque :
 
-3.2) Pour les aéromodèles de catégorie B qui disposent d'un document de navigabilité valide délivré conformément à la réglementation européenne, l'autorisation de vol est délivrée dès lors que le ou les télépilotes qui utilisent l'aéromodèle ont prouvé leurs compétences lors d'une ou plusieurs démonstrations en vol, selon un programme conforme à un programme type figurant en appendice.
+a) l'aéromodèle répond au dossier technique établi par le postulant et accepté par le ministre chargé de l'aviation civile ; et
 
-3.3) Afin de préparer les vols de démonstrations ci-dessus, une autorisation de vol provisoire valable six mois, renouvelable, est délivrée après vérification du dossier technique et dans un délai maximal d'un mois. Elle ne permet pas le vol de l'aéromodèle lors d'une manifestation aérienne, ni en présence de tiers qui ne seraient pas indispensables à la préparation de ces vols.
+b) le ou les télépilotes qui utilisent l'aéromodèle :
+
+-répondent aux dispositions de l'arrêté du 12 octobre 2018 relatif à la formation exigée des télépilotes qui utilisent des aéronefs civils circulant sans personne à bord à des fins de loisir, et
+
+-ont prouvé leurs compétences lors d'une ou plusieurs démonstrations en vol, selon un programme conforme à un programme type figurant en appendice.
+
+3.2) Pour les aéromodèles de catégorie B qui disposent d'un document de navigabilité valide délivré conformément à la règlementation européenne, l'autorisation de vol est délivrée dès lors que le ou les télépilotes qui utilisent l'aéromodèle :
+
+-répondent aux dispositions de l'arrêté du 12 octobre 2018 relatif à la formation exigée des télépilotes qui utilisent des aéronefs civils circulant sans personne à bord à des fins de loisir, et
+
+-ont prouvé leurs compétences lors d'une ou plusieurs démonstrations en vol, selon un programme conforme à un programme type figurant en appendice.
+
+3.3) Afin de préparer les vols de démonstrations ci-dessus, une autorisation de vol provisoire valable six mois, renouvelable, est délivrée dans un délai maximal d'un mois, après vérification :
+
+-du dossier technique, et
+
+-du fait que le ou les télépilotes répondent aux dispositions de l'arrêté du 12 octobre 2018 relatif à la formation exigée des télépilotes qui utilisent des aéronefs civils circulant sans personne à bord à des fins de loisir.
+
+Cette autorisation de vol provisoire ne permet pas le vol de l'aéromodèle lors d'une manifestation aérienne, ni en présence de tiers qui ne seraient pas indispensables à la préparation de ces vols.
 
 3.4) L'autorisation de vol précise, le cas échéant, les limitations associées au vol de l'aéromodèle.
 
@@ -97,6 +117,8 @@ La demande est accompagnée d'un dossier technique comprenant au moins les chapi
 - mesures de sécurité vis-à-vis des tiers (limitations d'emploi, traitement des pannes et des pertes de contrôle, limitation des risques en cas d'impact…) ;
 
 - mesures de sécurité suite à une perte de la liaison de commande et de contrôle.
+
+La demande est également accompagnée des justificatifs relatifs à l'âge et à la formation théorique du ou des télépilotes.
 
 Le ministre chargé de l'aviation civile s'entoure des experts de son choix pour l'instruction du dossier technique.
 
