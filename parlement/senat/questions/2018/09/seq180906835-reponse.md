@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906835
+
+- Question : [SEQ180906835](seq180906835.md) — Petit déjeuner collectif et gratuit à l'école
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2018-12-27, page 6777*
+
+Le petit déjeuner est un moment essentiel de la journée des enfants et des adolescents. En effet, il permet d'aider les élèves à se concentrer et à apprendre, en apportant l'énergie nécessaire pour la matinée. Le cadre familial constitue le lieu premier de l'apprentissage alimentaire et nutritionnel et l'école vient en complément contribuer à cette éducation. Une fiche dans la mallette des parents est consacrée à l'alimentation et aborde la question du petit déjeuner. Face au constat de l'INSEE (2015) faisant état de 3 millions d'enfants pauvres en France, la stratégie nationale de prévention et de lutte contre la pauvreté du 14 septembre 2018 présente notamment deux mesures dont l'objectif est de garantir au quotidien les droits fondamentaux des enfants : permettre une tarification de la cantine plus accessible, à 1 euro dans les communes de moins de 10 000 habitants ; la mise en place d'une tarification sociale s'inscrit dans l'objectif de garantir à tous un accès à l'alimentation. Cette compétence relève du champ de compétence des collectivités territoriales avec lesquelles une concertation doit être engagée par l'État ; faciliter la distribution de petits déjeuners dans les écoles des territoires fragiles grâce à la mise en place d'un fonds « petits déjeuners », de 12 M€ par an, au bénéfice de territoires prioritaires (écoles situées en REP+ ou à proximité d'un QPV). Cela devrait concerner environ 85 000 enfants par an. La mise en œuvre du programme est prévue pour 2019 et les modalités de l'action sont encore en cours d'élaboration, avec les différents partenaires du ministère concerné.
