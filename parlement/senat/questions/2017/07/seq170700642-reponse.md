@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700642
+
+- Question : [SEQ170700642](seq170700642.md) — Devenir de la commission médicale départementale du permis de conduire du Havre
+
+## Réponse
+
+*Intérieur, JO du 2018-12-27, page 6782*
+
+Dans le cadre de la réforme des préfectures dite « plan préfecture nouvelle génération », la modernisation des commissions médicales a été généralisée à compter du 6 novembre 2017, après une préfiguration de la réforme conduite dans trois départements pilotes. La réforme est principalement axée sur le principe d'une responsabilisation accrue de l'usager contrevenant qui doit désormais s'inscrire en ligne sur le site internet de la préfecture, pour réserver un créneau dans le planning des commissions médicales de son département. La planification des disponibilités des médecins de la commission médicale est simplifiée par l'utilisation systématique d'un module de prise de rendez-vous par internet. La possibilité est également offerte à l'usager de télécharger les documents utiles avant de se présenter devant la commission médicale. Par ailleurs, une signalétique renforcée permet de guider l'usager vers la salle de commission. Il devra avoir en sa possession l'ensemble des éléments médicaux le concernant nécessaires à son examen. La commission médicale transmet son avis au préfet. La mise en œuvre de cette nouvelle procédure n'entraîne pas, par elle-même, la nécessité de modifier le maillage territorial des commissions médicales. En effet, l'implantation des commissions médicales relève d'une décision prise par le préfet, au regard des besoins et contraintes qui apparaissent à l'échelon local. L'évolution éventuelle de ce maillage est soumise à la seule appréciation préfectorale, selon un calendrier qui peut, selon les cas, coïncider avec ou être déconnecté de la mise en œuvre de la réforme.
