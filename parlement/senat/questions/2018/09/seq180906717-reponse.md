@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906717
+
+- Question : [SEQ180906717](seq180906717.md) — Composition des couches pour bébés
+
+## Réponse
+
+*Économie et finances, JO du 2018-12-27, page 6768*
+
+La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) contrôle régulièrement la présence de substances susceptibles de présenter un risque pour la santé dans les couches pour bébés. Ainsi a-t-elle conduit au cours des années 2017 et 2018 de nombreux contrôles et analysé vingt références de couches pour bébés et quatre références de couches pour adultes pour incontinence, à la recherche de ces substances. Aucun colorant azoïque, aucun allergène, aucun hydrocarbure aromatique polycyclique (HAP), aucun phtalate, ni pesticides, ni glyphosate, ni acide aminométhyl phosphonique (AMPA, produit de dégradation du glyphosate), n'ont été identifiés lorsque les conditions d'analyses reproduisaient les conditions d'utilisation réelles des produits. Pour les échantillons de cette enquête dans lesquels des composés recherchés ont été mis en évidence essentiellement des dioxines, furanes et polychlorobiphényles (PCB) de type dioxines il faut souligner que les substances ont été détectées le plus souvent à l'état de traces non quantifiables. Lorsque des teneurs étaient quantifiables, celles-ci étaient très basses et très proches des limites de quantification. L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) a été saisie par la Direction générale de la santé et la DGCCRF en 2017 sur le sujet de la sécurité des couches pour bébé et des couches pour adultes pour incontinence. Elle devrait rendre son avis en début d'année 2019. Cet avis portera plus précisément sur les risques pour la santé liés à l'action des substances chimiques identifiées dans les couches pour bébés mais également dans les couches pour adultes pour incontinence.
