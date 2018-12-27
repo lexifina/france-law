@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505037
+
+- Question : [SEQ180505037](seq180505037.md) — Situation fiscale des veuves d'anciens combattants
+
+## Réponse
+
+*Économie et finances, JO du 2018-12-27, page 6761*
+
+En application du f du 1 de l'article 195 du code général des impôts, le quotient familial des personnes âgées de plus de soixante-quatorze ans et titulaires de la carte du combattant ou d'une pension servie en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre est majoré d'une demi-part supplémentaire. Cette disposition est également applicable aux personnes âgées de plus de soixante-quatorze ans, veuves de personnes remplissant toutes les conditions requises, ce qui suppose que le défunt a bénéficié, au moins au titre d'une année d'imposition, de la demi-part mentionnée ci-dessus. Il s'ensuit que les veuves des personnes titulaires de la carte du combattant n'ayant pas atteint l'âge de soixante-quatorze ans ne peuvent pas bénéficier de cette demi-part supplémentaire. En effet, le maintien de la demi-part au bénéfice de la personne veuve en cas de décès du titulaire de la carte d'ancien combattant après soixante-quatorze ans permet d'éviter que la perte de cette demi-part, dont elle bénéficiait avant le décès, puisse la pénaliser. Il n'est en revanche pas équitable d'accorder un avantage spécifique aux veuves de plus de soixante-quatorze ans de personnes titulaires de la carte du combattant qui n'ont elles-mêmes jamais bénéficié de cette demi-part. Cet avantage constitue une exception au principe du quotient familial, puisqu'il ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité. Dès lors, comme tout avantage fiscal, ce supplément de quotient familial ne peut être préservé que s'il garde un caractère exceptionnel, ce qui fait obstacle à une extension de son champ d'application.
