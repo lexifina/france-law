@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007124
+
+- Question : [SEQ181007124](seq181007124.md) — Difficultés des communes désirant acquérir des parcelles boisées laissées à l'abandon
+
+## Réponse
+
+*Économie et finances, JO du 2018-12-27, page 6768*
+
+L'assiette des droits de succession comprend en principe l'ensemble des biens qui faisaient partie du patrimoine du défunt au jour de son décès, et qui, par le fait de son décès, sont transmis à ses héritiers ou légataires. À cet égard, le montant des droits à acquitter par l'héritier ne saurait constituer un motif suffisant pour justifier l'exonération de tout ou partie du patrimoine transmis. En outre, aux termes de l'article 793 du code général des impôts (CGI), les successions et donations entre vifs de propriétés en nature de bois et forêts sont exonérées de droits de mutation à titre gratuit (DMTG) à concurrence des trois-quarts de leur valeur, sous condition notamment de respecter des engagements de gestion durable. De plus, les règles de droit commun, tel l'abattement de 100 000 € en ligne directe par parent et pour chacun des enfants, prévu à l'article 779 du CGI, s'appliquent. Ces dispositions conduisent à l'exonération de la grande majorité des successions. Le régime actuel des droits de succession ne paraît dès lors pas de nature à faire obstacle à la transmission de bois et forêts. Enfin, il est rappelé qu'en application de l'article 794 du CGI, les régions, les départements, les communes, leurs établissements publics et les établissements publics hospitaliers sont exonérés des droits de mutation à titre gratuit sur les biens qui leur adviennent par donation ou succession affectés à des activités non lucratives. Ces dispositions s'appliquent aux transmissions à titre gratuit, par donation ou legs, de biens forestiers à de telles collectivités qui les affectent à leurs activités non lucratives.
