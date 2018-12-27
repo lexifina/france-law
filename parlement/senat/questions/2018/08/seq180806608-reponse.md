@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806608
+
+- Question : [SEQ180806608](seq180806608.md) — Plan biodiversité
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2018-12-27, page 6818*
+
+Le déclin de la biodiversité et notamment des oiseaux dans les espaces agricoles est un sujet de préoccupation majeure. Le Gouvernement, conscient de cette situation, fait de la lutte contre l'érosion de la biodiversité une priorité d'action au même titre que la lutte contre le changement climatique. Il a adopté, le 4 juillet 2018 en comité interministériel, un plan en faveur de la biodiversité. Ce plan est articulé autour de six axes thématiques, ayant notamment pour objectifs de reconquérir la biodiversité dans les territoires et de protéger et restaurer la nature dans toutes ses composantes. Composé de 90 mesures, il a pour ambition de renforcer l'action de la France pour la préservation de la biodiversité, et de mobiliser l'ensemble de la société pour la restaurer lorsqu'elle est dégradée. Il vise notamment à freiner l'artificialisation des espaces naturels et agricoles et à reconquérir des espaces de biodiversité partout où cela est possible, en ville comme dans les espaces ruraux. La réussite de ce plan passera par une intégration de l'enjeu biodiversité dans l'ensemble des secteurs d'activités. Ainsi, faire de l'agriculture une alliée de la biodiversité et accélérer la transition agro-écologique est l'un des défis de ce nouveau plan biodiversité. La valorisation des services environnementaux rendus par les agriculteurs devrait favoriser la restauration d'un paysage agricole plus attractif pour la faune et la flore sauvages. La diversification des cultures sera encouragée ainsi que le rétablissement des infrastructures agro-écologiques comme les haies, arbres isolés, lisières de bois, prairies permanentes et bandes enherbées. Ces mesures sont destinées à favoriser la restauration de la biodiversité dans les espaces cultivés.
