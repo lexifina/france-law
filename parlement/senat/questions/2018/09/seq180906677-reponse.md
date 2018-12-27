@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906677
+
+- Question : [SEQ180906677](seq180906677.md) — Indemnisation en cas de catastrophe naturelle
+
+## Réponse
+
+*Économie et finances, JO du 2018-12-27, page 6765*
+
+Les franchises applicables à l'extension obligatoire couvrant l'assuré, contre les dommages matériels directs résultant d'une catastrophe naturelle, sont effectivement fixées par voie réglementaire à l'article A. 125-1 du code des assurances. S'agissant des particuliers, les franchises fixées de manière contractuelle, pour des sinistres causés par la réalisation d'autres risques (comme la tempête, l'incendie ou les vols), peuvent donc différer de la franchise « catastrophes naturelles » réglementaire et, dans la plupart des cas, être inférieures. Il convient toutefois de noter que les sinistres catastrophes naturelles sont en moyenne particulièrement coûteux : le sinistre moyen a été de 12 100 € sur la période 2012-2016, contre 1 979 € pour le risque tempête par exemple. La part du sinistre restant à la charge de l'assuré, dans le système actuel, n'est donc en général pas supérieure en cas de catastrophe naturelle subie. Néanmoins, la réflexion qui sera conduite dans le cadre de la réforme du régime d'indemnisation des catastrophes naturelles, annoncée par le président de la République le 29 septembre 2018 à Saint-Martin, inclura les moyens d'améliorer l'articulation de différentes garanties qui composent les contrats d'assurances dommages aux biens. Une réflexion est aussi en cours s'agissant de la lisibilité du système de modulation de franchises « catastrophes naturelles » pour les particuliers, les entreprises et les collectivités. Il convient toutefois de préciser qu'après quadruplement, ce niveau de franchise pour un particulier atteint 1 520 € hors sécheresse, et non 3 040 €.
