@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806435
+
+- Question : [SEQ180806435](seq180806435.md) — Réforme des juridictions sociales
+
+## Réponse
+
+*Justice, JO du 2018-12-27, page 6800*
+
+Devant les tribunaux de grande instance spécialement désignés pour statuer à compter du 1er janvier 2019 sur le contentieux de la sécurité sociale et de l'aide sociale, la procédure restera orale et sans représentation obligatoire. Il s'agit, en effet, de permettre au justiciable, le cas échéant assisté ou représenté dans des conditions souples définies aux articles L. 142-9 du code de la sécurité sociale et L. 134-4 du code de l'action sociale et des familles, de faire valoir ses arguments et verser aux débats les pièces utiles au soutien de la contestation d'une décision d'un organisme de sécurité sociale ou d'une autorité administrative. En revanche, en appel, le litige doit se concentrer sur les questions de droit. Il est par conséquent dans l'intérêt du justiciable d'être représenté par un avocat qui a une connaissance de la procédure en appel et du contentieux de la sécurité sociale, enjeu essentiel du litige. Enfin, le justiciable pourra, sous réserve de relever des plafonds prévus par la loi, bénéficier d'une aide juridique totale ou partielle. Pour l'ensemble de ces raisons, le projet de loi de programmation et pour la réforme de la justice instaure à compter du 1er janvier 2020 la représentation obligatoire devant les cours d'appel spécialement désignées en matière de sécurité sociale et d'aide sociale. Les associations de mutilés et invalides du travail, celles œuvrant dans les domaines des droits économiques et sociaux des usagers ainsi que dans ceux de l'insertion et de la lutte contre l'exclusion et la pauvreté conserveront en revanche le rôle important qui est le leur en première instance aux côtés des justiciables les plus en difficulté.
