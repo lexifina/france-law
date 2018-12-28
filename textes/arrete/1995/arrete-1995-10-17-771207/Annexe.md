@@ -102,84 +102,86 @@ TOTAL |
 
 II. - Corps d'encadrement et d'application de la police nationale
 
-POSTES A RESPONSABILITE DEVOLUS
+POSTES À RESPONSABILITÉ DÉVOLUS À UN MAJOR
 
-A UN MAJOR A L'ECHELON EXCEPTIONNEL |
+À L'ÉCHELON EXCEPTIONNEL |
 
-Rappel nombre
+Rappel
 
-d'emplois 2017 |
-
-Nombre d'emplois 2018 |
-
-Nombre de points
-
-par emploi |
-
-Total des points
+nombre d'emplois
 
 2018 |
 
-Major à l'échelon exceptionnel |
+Nombre d'emplois
 
-2 090 |
-
-2 180 |
-
-10 |
-
-21 800 |
-
-TOTAL |
-
-2 090 |
-
-2 180 |
-
-|
-
-21 800 |
-
-III. - Emplois fonctionnels
-
-CATEGORIES D'EMPLOIS
-
-|
-
-Rappel nombre
-
-d'emplois 2017 |
-
-Nombre d'emplois 2018 |
+2019 |
 
 Nombre de points
 
 par emploi |
 
-Total des points
+Total
 
-2017 |
+des points 2018 |
+
+Major à l'échelon exceptionnel |
+
+2 180 |
+
+2 270 |
+
+10 |
+
+22 700 |
+
+TOTAL |
+
+2 180 |
+
+2 270 |
+
+|
+
+22 700 |
+
+III. - Emplois fonctionnels
+
+CATÉGORIES D'EMPLOIS |
+
+Rappel
+
+nombre d'emplois
+
+2018 |
+
+Nombre d'emplois
+
+2019 |
+
+Nombre de points
+
+par emploi |
+
+Total
+
+des points 2019 |
 
 Responsable d'unité locale de police |
 
-1 053 |
-
 1 106 |
+
+1 159 |
 
 20 |
 
-22 120 |
+23 180 |
 
-TOTAL
-
-|
-
-1 053
-
-|
+TOTAL |
 
 1 106 |
 
+1 159 |
+
 |
 
-22 120 |
+23 180 |
