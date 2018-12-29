@@ -2144,6 +2144,16 @@ Article R. 213-4-1
 
 |
 
+35
+
+|
+
+Décision de suspension des services de navigation aérienne
+
+|
+
+Articles R. 134-7 et R. 134-9-VII |
+
 Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aéroports de Paris
 
 1
