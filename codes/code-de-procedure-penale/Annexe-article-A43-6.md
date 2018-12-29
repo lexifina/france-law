@@ -2,9 +2,7 @@
 
 I.-TARIFS APPLICABLES AUX ACTES DE MÉDECINE LÉGALE
 
-NATURE DE L'ACTE
-
-|
+NATURE DE L'ACTE |
 
 RÉFÉRENCE
 
@@ -12,15 +10,11 @@ de la lettre clé
 
 |
 
-COEFFICIENT
+COEFFICIENT |
 
-|
+INDEMNITÉ COMPLÉMENTAIRE |
 
-INDEMNITÉ COMPLÉMENTAIRE
-
-|
-
-1° Médecine du vivant
+1° Médecine du vivant |
 
 |
 
@@ -28,37 +22,23 @@ INDEMNITÉ COMPLÉMENTAIRE
 
 |
 
-|
+a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport |
 
-a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport
+C |
 
-|
-
-C
+2,5 |
 
 |
 
-2,5
+b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt d'un rapport |
+
+C |
+
+3,5 |
 
 |
 
-|
-
-b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt d'un rapport
-
-|
-
-C
-
-|
-
-3,5
-
-|
-
-|
-
-c) Pour l'examen clinique et la prise de sang prévus aux articles R. 3354-7 à R. 3354-13 du code de la santé publique et pour l'avis donné par l'expert visé à l'article R. 3354-15 du même code, pour l'examen clinique et le prélèvement biologique prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de liquide biologique et le dépistage de stupéfiants prévus par l'article R. 235-4 du même code :
+c) Pour l'examen clinique et la prise de sang prévus aux articles R. 3354-7 à R. 3354-13 du code de la santé publique et pour l'avis donné par l'expert visé à l'article R. 3354-15 du même code, pour l'examen clinique et le prélèvement biologique prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de liquide biologique et le dépistage de stupéfiants prévus par l'article R. 235-4 du même code : |
 
 |
 
@@ -66,33 +46,19 @@ c) Pour l'examen clinique et la prise de sang prévus aux articles R. 3354-7 à 
 
 |
 
-|
+-auxquels il est procédé entre 7 heures et 22 heures ; |
 
-- auxquels il est procédé entre 7 heures et 22 heures ;
+C |
 
-|
-
-C
+1,5 |
 
 |
 
-1,5
+-auxquels il est procédé entre 22 heures et 7 heures ; |
 
-|
+C |
 
-|
-
-- auxquels il est procédé entre 22 heures et 7 heures ;
-
-|
-
-C
-
-|
-
-1,5
-
-|
+1,5 |
 
 10,67 €
 
@@ -100,17 +66,11 @@ Cette indemnité est de 18,45 €, 2 200 FCFP lorsque la mission est réalisée 
 
 |
 
-- auxquels il est procédé les dimanches et jours fériés ;
+-auxquels il est procédé les dimanches et jours fériés ; |
 
-|
+C |
 
-C
-
-|
-
-1,5
-
-|
+1,5 |
 
 7,62 €
 
@@ -118,9 +78,7 @@ Cette indemnité est de 13,42 €, 1 600 FCFP lorsque la mission est réalisée 
 
 |
 
-Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la route, le matériel nécessaire au dépistage est fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au prix unitaire d'acquisition de ce matériel sans pouvoir excéder 25 euros
-
-|
+Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la route, le matériel nécessaire au dépistage est fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au prix unitaire d'acquisition de ce matériel sans pouvoir excéder 25 euros |
 
 |
 
@@ -132,17 +90,13 @@ d) Pour chaque examen prévu par l'article 706-88 du code de procédure pénale
 
 |
 
-C
+C |
+
+2 |
 
 |
 
-2
-
-|
-
-|
-
-2° Autopsies
+2° Autopsies |
 
 |
 
@@ -150,83 +104,49 @@ C
 
 |
 
-|
+a) Pour une description de cadavre |
 
-a) Pour une description de cadavre
+C |
 
-|
-
-C
+2,5 |
 
 |
 
-2,5
+b) Pour une autopsie avant inhumation |
+
+CS |
+
+6 |
 
 |
 
-|
+c) Pour une autopsie après exhumation ou une autopsie de cadavre en état de décomposition avancée |
 
-b) Pour une autopsie avant inhumation
+CS |
 
-|
-
-CS
+10 |
 
 |
 
-6
+d) Pour une autopsie de cadavre de nouveau-né avant inhumation |
+
+CS |
+
+3 |
 
 |
 
-|
+e) Pour une autopsie de cadavre de nouveau-né après exhumation ou une autopsie de cadavre de nouveau-né en état de décomposition avancée |
 
-c) Pour une autopsie après exhumation ou une autopsie de cadavre en état de décomposition avancée
+CS |
 
-|
-
-CS
-
-|
-
-10
-
-|
-
-|
-
-d) Pour une autopsie de cadavre de nouveau-né avant inhumation
-
-|
-
-CS
-
-|
-
-3
-
-|
-
-|
-
-e) Pour une autopsie de cadavre de nouveau-né après exhumation ou une autopsie de cadavre de nouveau-né en état de décomposition avancée
-
-|
-
-CS
-
-|
-
-5
-
-|
+5 |
 
 |
 
 II.-TARIFS APPLICABLES AUX ACTES DE PSYCHIATRIE LÉGALE
 
-NATURE DE L'ACTE
-
-|
+NATURE DE L'ACTE |
 
 RÉFÉRENCE
 
@@ -234,79 +154,47 @@ de la lettre clé
 
 |
 
-COEFFICIENT
+COEFFICIENT |
 
-|
-
-1° Pour une expertise psychiatrique comportant un ou plusieurs examens
-
-|
+1° Pour une expertise psychiatrique comportant un ou plusieurs examens |
 
 |
 
 |
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale.
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. |
 
-|
+CNPSY |
 
-CNPSY
+8 |
 
-|
+b) Acte réalisé par un médecin ne relevant pas du a |
 
-8
+CNPSY |
 
-|
+11 |
 
-b) Acte réalisé par un médecin ne relevant pas du a
-
-|
-
-CNPSY
-
-|
-
-11
-
-|
-
-2° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée pour infraction sexuelle ou une victime d'une telle infraction
+2° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée pour infraction sexuelle ou une victime d'une telle infraction |
 
 |
 
 |
 
-|
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale |
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale
+CNPSY |
 
-|
+8,5 |
 
-CNPSY
+b) Acte réalisé par un médecin ne relevant pas du a |
 
-|
+CNPSY |
 
-8,5
-
-|
-
-b) Acte réalisé par un médecin ne relevant pas du a
-
-|
-
-CNPSY
-
-|
-
-11,5
-
-|
+11,5 |
 
 III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
 
-NATURE DE L'ACTE
-
-|
+NATURE DE L'ACTE |
 
 RÉFÉRENCE
 
@@ -314,123 +202,71 @@ de la lettre clé
 
 |
 
-COEFFICIENT
+COEFFICIENT |
 
-|
-
-1° Pour une expertise psychologique comportant un ou plusieurs examens
-
-|
+1° Pour une expertise psychologique comportant un ou plusieurs examens |
 
 |
 
 |
 
-a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité sociale
+a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité sociale |
 
-|
+CNPSY |
 
-CNPSY
+6,5 |
 
-|
+b) Acte réalisé par une personne ne relevant pas du a |
 
-6,5
+CNPSY |
 
-|
+9,5 |
 
-b) Acte réalisé par une personne ne relevant pas du a
-
-|
-
-CNPSY
-
-|
-
-9,5
-
-|
-
-2° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la qualité de psychologue, intervenant en qualité d'expert unique
+2° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la qualité de psychologue, intervenant en qualité d'expert unique |
 
 |
 
 |
 
-|
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. |
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale.
+CNPSY |
 
-|
+6,5 |
 
-CNPSY
+b) Acte réalisé par un médecin ne relevant pas du a |
 
-|
+CNPSY |
 
-6,5
+9,5 |
 
-|
+3° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en qualité d'expert distinct |
 
-b) Acte réalisé par un médecin ne relevant pas du a
+C |
 
-|
+3,5 |
 
-CNPSY
-
-|
-
-9,5
-
-|
-
-3° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en qualité d'expert distinct
-
-|
-
-C
-
-|
-
-3,5
-
-|
-
-4° Pour la partie psychologique de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en qualité d'expert distinct
+4° Pour la partie psychologique de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en qualité d'expert distinct |
 
 |
 
 |
 
-|
+a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité sociale |
 
-a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité sociale
+CNPSY |
 
-|
+6,5 |
 
-CNPSY
+b) Acte réalisé par une personne ne relevant pas du a |
 
-|
+CNPSY |
 
-6,5
-
-|
-
-b) Acte réalisé par une personne ne relevant pas du a
-
-|
-
-CNPSY
-
-|
-
-9,5
-
-|
+9,5 |
 
 IV.-TARIFS APPLICABLES AUX ACTES DE RADIOLOGIE
 
-NATURE DE L'ACTE
-
-|
+NATURE DE L'ACTE |
 
 RÉFÉRENCE
 
@@ -438,30 +274,16 @@ de la lettre clé
 
 |
 
-COEFFICIENT
+COEFFICIENT |
 
-|
+1° Pour la localisation d'un corps étranger dans un cadavre |
 
-1° Pour la localisation d'un corps étranger dans un cadavre
+Z |
 
-|
+20 |
 
-Z
+2° Pour la localisation d'un corps étranger dans un cadavre putréfié |
 
-|
+Z |
 
-20
-
-|
-
-2° Pour la localisation d'un corps étranger dans un cadavre putréfié
-
-|
-
-Z
-
-|
-
-35
-
-|
+35 |
