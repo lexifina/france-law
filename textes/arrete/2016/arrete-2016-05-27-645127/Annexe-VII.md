@@ -18,13 +18,11 @@ II. - Plafonds de capacité
 
 Les plafonds de capacité des navires éligibles à l'ANP anchois, exprimés en puissance motrice (kW), sont les suivants :
 
-- le plafond de capacité pour l'ensemble des navires détenteurs d'une ANP anchois option " bolinche-prise active " est de 6 605 kW ;
+- le plafond de capacité pour l'ensemble des navires détenteurs d'une ANP anchois option " bolinche-prise active " est de 8 173 kW ;
 
-- le plafond de capacité de l'ensemble des navires détenteurs d'une ANP anchois option " chalut-prise active " est de 30 447 kW ;
+- le plafond de capacité de l'ensemble des navires détenteurs d'une ANP anchois option " chalut-prise active " est de 21 063 kW ;
 
-Depuis le 31 décembre 2008, ce plafond initial est fixé à une capacité maximale exprimée en puissance de 27 402 kW et exprimée en jauge maximale de 7 486 UMS, soit une réduction de 10% par rapport aux plafonds initiaux.
-
-- le plafond de capacité de l'ensemble des navires détenteurs d'une ANP anchois option " chalut-prise occasionnelle " est de 9 440 kW.
+- le plafond de capacité de l'ensemble des navires détenteurs d'une ANP anchois option " chalut-prise occasionnelle " est de 8 425 kW.
 
 III. - Liste des navires éligibles
 
@@ -62,4 +60,4 @@ V. - Limitations de captures associées aux catégories d'ANP anchois
 
 1. Les captures ciblées d'anchois dans la zone CIEM VIII sont autorisées pour tous les navires détenteurs de l'ANP anchois option " chalut - prise active " ainsi que ceux qui sont détenteurs de l'ANP anchois option " bolinche - prise active ", dans la limite du quota d'anchois mis à leur disposition.
 
-2. Les captures occasionnelles d'anchois dans la zone CIEM VIII sont autorisées pour tous les navires détenteurs de l'ANP anchois option " chalut - prise occasionnelle ", dans la limite de 20 tonnes d'anchois par an et du quota d'anchois mis à leur disposition. Cette quantité n'est pas une allocation mais un plafond de captures, sans préjudice des mesures mises en oeuvre par les OP. Cette quantité peut être révisée en fonction du quota d'anchois octroyé à la France chaque année.
+2. Les captures occasionnelles d'anchois dans la zone CIEM VIII sont autorisées pour tous les navires détenteurs de l'ANP anchois option " chalut - prise occasionnelle ", dans la limite de 20 tonnes d'anchois par an et du quota d'anchois mis à leur disposition. Cette quantité n'est pas une allocation mais un plafond de captures, sans préjudice des mesures mises en œuvre par les OP. Cette quantité peut être révisée en fonction du quota d'anchois octroyé à la France chaque année.

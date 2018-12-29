@@ -361,3 +361,5 @@ Engins autres que les hameçons, chalutiers et senneurs de fond |
 -de plus de 400 mètres de profondeur à 800 mètres ;
 
 -à plus de 800 mètres.
+
+5. Par dérogation à l'article 3 du présent arrêté, la délivrance des AEP "pêche ciblée des espèces d'eau profondes" et AEP "de prises accessoires des espèces d'eau profonde" peut être déléguée aux organisations de producteurs sous le contrôle du préfet de région.
