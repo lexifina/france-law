@@ -1,42 +1,10 @@
 # Article Annexe
 
-Branches d'activité des infirmiers, des personnels civils de rééducation et médico-techniques, et des techniciens paramédicaux civils du ministère de la défense |
+Branches d'activité des infirmiers, des personnels civils de rééducation et médico-techniques de catégorie A, et des techniciens paramédicaux civils du ministère de la défense |
 
 NOMBRE DE POINTS |
 
-Masseurs-kinésithérapeutes |
-
-13 |
-
-Psychomotriciens |
-
-13 |
-
-Orthophonistes |
-
-13 |
-
-Orthoptistes |
-
-13 |
-
-Diététiciens |
-
-13 |
-
-Techniciens de laboratoire |
-
-13 |
-
-Manipulateurs d'électroradiologie médicale |
-
-13 |
-
-Préparateurs en pharmacie hospitalière |
-
-13 |
-
-Pédicures-podologues |
+Masseurs-kinésithérapeutes, psychomotriciens, orthophonistes, orthoptistes, diététiciens, techniciens de laboratoire, manipulateurs d'électroradiologie médicale, préparateurs en pharmacie hospitalière, pédicures-podologues du corps des techniciens paramédicaux civils du ministère de la défense |
 
 13 |
 
@@ -48,8 +16,10 @@ Infirmiers civils de soins généraux et infirmiers civils en soins généraux e
 
 10 |
 
-Personnels civils de rééducation et médico-techniques
+Masseurs-kinésithérapeutes, psychomotriciens et orthophonistes du corps des masseurs-kinésithérapeutes, psychomotriciens et orthophonistes du ministère de la défense |
 
-– Ergothérapeutes |
+13 |
+
+Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale du corps des pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale du ministère de la défense |
 
 13 |
