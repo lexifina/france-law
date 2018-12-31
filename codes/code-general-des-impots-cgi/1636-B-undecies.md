@@ -18,4 +18,4 @@ c) Les premier et second alinéas du 2 peuvent être appliqués simultanément.
 
 5. Les communes et les établissements publics de coopération intercommunale ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent les tarifs de cette part dans les conditions prévues à l'article 1639 A.
 
-6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures ménagères ne peut excéder le produit total de cette taxe tel qu'issu des rôles généraux au titre de l'année précédente.
+6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures ménagères ne peut excéder de plus de 10 % le produit total de cette taxe tel qu'issu des rôles généraux au titre de l'année précédente.

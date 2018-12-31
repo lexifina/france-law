@@ -4,7 +4,7 @@ I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice
 
 44 septies, 44 octies, 44 octies A, 44 duodecies,
 
-44 terdecies à 44 sexdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
+44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à la création d'ouvrages réalisés en un seul exemplaire ou en petite série. La création d'ouvrages uniques, réalisés en un exemplaire ou en petite série, se définit selon deux critères cumulatifs :
 
@@ -22,7 +22,7 @@ b) Un ouvrage produit en un exemplaire ou en petite série ne figurant pas à l'
 
 6° Des dépenses liées à l'élaboration d'ouvrages mentionnés au 1° confiées par ces entreprises à des stylistes ou bureaux de style externes.
 
-I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 terdecies à 44 sexdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
+I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 terdecies à 44 septdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à l'activité de restauration du patrimoine ;
 

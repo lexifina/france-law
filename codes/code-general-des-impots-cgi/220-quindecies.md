@@ -1,20 +1,26 @@
 # Article 220 quindecies
 
-I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical ou de variétés mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
+I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
 
 1° Avoir la responsabilité du spectacle, notamment celle d'employeur à l'égard du plateau artistique. Dans le cas d'une coproduction, cette condition est remplie par l'un des coproducteurs au moins ;
 
 2° Supporter le coût de la création du spectacle.
 
-II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical ou de variétés remplissant les conditions cumulatives suivantes :
+II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical remplissant les conditions cumulatives suivantes :
 
-1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical ou de variétés ;
+1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical ;
 
-2° Porter sur un spectacle dont les coûts de création sont majoritairement engagés sur le territoire français ;
+2° Porter sur un spectacle présentant les caractéristiques suivantes :
 
-3° Porter sur des artistes ou groupes d'artistes dont aucun spectacle n'a comptabilisé plus de 12 000 entrées payantes pendant les trois années précédant la demande d'agrément mentionnée au VI, à l'exception des représentations données dans le cadre de festivals ou de premières parties de spectacles.
+a) Présenter des coûts de création majoritairement engagés sur le territoire français ;
 
-III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, engagées pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+b) Comprendre au minimum quatre représentations dans au moins trois lieux différents ;
+
+c) Ne pas être présenté dans un lieu dont la jauge, définie comme l'effectif maximal du public qu'il est possible d'admettre dans ce lieu, est supérieure à un nombre de personnes défini par décret par catégorie de spectacle.
+
+3° (Abrogé).
+
+III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, réalisées avant le 31 décembre 2022 pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses correspondant aux frais de création et d'exploitation du spectacle pour toutes ses représentations, incluant les représentations promotionnelles :
 
@@ -56,7 +62,7 @@ VI. – Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à c
 
 VII. – Sont déduites des bases de calcul du crédit d'impôt :
 
-1° Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses mentionnées au III ;
+1° Les subventions publiques non remboursables reçues par les entreprises calculées sur la base du rapport entre le montant des dépenses éligibles et le montant total des charges de l'entreprise figurant au compte de résultat ;
 
 2° Les aides dites " tours supports " reçues par l'entreprise de la part du producteur phonographique et directement affectées aux dépenses mentionnées au III.
 
@@ -68,4 +74,4 @@ IX. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 
 NOTA :
 
-Ces dispositions s'appliquent aux crédits d'impôts calculés au titre des exercices ouverts à compter du 1er janvier 2016.
+Conformément à l’article 147 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux demandes d'agréments provisoires prévus au VI de l'article 220 quindecies du code général des impôts déposées à compter du 1er janvier 2019.

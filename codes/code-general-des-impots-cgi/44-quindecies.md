@@ -2,6 +2,8 @@
 
 I. – Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2020, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
 
+Dans les zones mentionnées au B du II de l'article 1465 A, le premier alinéa du présent I ne s'applique qu'aux entreprises créées ou reprises jusqu'au 31 décembre 2018.
+
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
 II. – Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
@@ -22,7 +24,7 @@ III. L'exonération ne s'applique pas aux créations et aux reprises d'activité
 
 44 septies, 44 octies, 44 octies A,
 
-44 duodecies, 44 terdecies, 44 quaterdecies ou 44 sexdecies ou d'une prime d'aménagement du territoire.
+44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
 
@@ -34,7 +36,7 @@ Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de r
 
 b) Si, lorsque l'entreprise individuelle a déjà fait l'objet d'une première opération de reprise ou de restructuration ayant conduit au bénéfice de l'exonération mentionnée au I et réalisée au profit du conjoint de l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code civil, de leurs ascendants et descendants ou de leurs frères et sœurs, elle fait de nouveau l'objet d'une telle opération au profit d'une ou de plusieurs personnes précédemment mentionnées.
 
-IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou 44 sexdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
 V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 

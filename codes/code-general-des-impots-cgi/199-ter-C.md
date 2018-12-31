@@ -28,4 +28,4 @@ Ces entreprises peuvent demander le remboursement immédiat de la créance const
 
 NOTA :
 
-Conformément au B du V de l'article 86 de la loi n° 2017-1837 du 30 décembre 2017, modifié par l'article 155 de la loi n° 2018-1317 du 28 décembre 2018 et devenu B du IV dudit article 86, l'article 199 ter C devant être abrogé est rétabli.
+Conformément aux dispositions du B du IV de l'article 86 de la loi n° 2017-1837 du 30 décembre 2017 modifié par l'article 155 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199 ter C telles qu'elles résultent du 2° du I dudit article s'appliquent aux rémunérations versées à compter du 1er janvier 2019.
