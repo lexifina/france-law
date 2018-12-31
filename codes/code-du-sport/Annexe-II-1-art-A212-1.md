@@ -678,7 +678,7 @@ BP JEPS, spécialité "activités physiques pour tous". |
 
 Animation à destination de différents publics à travers notamment la découverte des activités physiques. |
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
+|
 
 BP JEPS, spécialité "activités gymniques de la forme et de la force". |
 
@@ -1404,11 +1404,77 @@ Encadrement en autonomie de la progression accompagnée en chute, dans les condi
 
 |
 
-BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C).
+BP JEPS, spécialité "éducateur sportif", mention "parachutisme", option "saut en tandem" (option C). |
+
+Encadrement en autonomie du saut en tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
 
 |
 
-Encadrement en autonomie du saut en tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport. |
+BP JEPS, spécialité "éducateur sportif", mention "hockey". |
+
+Encadrement, initiation et conduite de cycles d'apprentissage et de séances d'entraînement en hockey. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités du cyclisme" |
+
+Encadrement et animation des activités du cyclisme. |
+
+A l'exclusion :
+
+-de toute pratique compétitive ;
+
+-du VTT de descente (VTT downhill) et des disciplines associées ;
+
+-du VTT pratiqué sur des parcours et pistes nécessitant des techniques de pilotage (sentiers monotraces comportant des obstacles nombreux, importants) ;
+
+-du BMX pratiqué au-delà d'un niveau initiation découverte. |
+
+BP JEPS, spécialité "éducateur sportif", mention "karaté, wushu et disciplines associées". |
+
+Encadrement, animation initiation et préparation aux grades du 1er au 4e dan. Conduite de cycles d'apprentissage en karaté, wushu et disciplines associées jusqu'au premier niveau de compétition fédérale. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "tennis de table". |
+
+Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en tennis de table, jusqu'au premier niveau de compétition fédérale |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "aviron et disciplines associées". |
+
+Encadrement, animation et conduite de cycles d'apprentissage et de séances d'entraînement en aviron et disciplines associées sur tout lieu de pratique. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "char à voile". |
+
+Encadrement et animation d'activités de découverte et d'initiation en char à voile en pratique assise et allongée, en pratique debout et en pratique tractée, sur tout lieu de pratique aménagé ou ouvert. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "surf et disciplines associées". |
+
+Encadrement et animation d'activités de découverte et d'initiation en surf et disciplines associées dont le stand up paddle, sur tout lieu de pratique. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "ski nautique-wakeboard, disciplines associées et tous supports de glisse tractés", option "traction bateau". |
+
+Encadrement, enseignement et animation du ski nautique-wakeboard et disciplines associées et de tous supports de glisse tractés dans l'option, sur tout lieu de pratique |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "ski nautique-wakeboard, disciplines associées et tous supports de glisse tractés", option "traction câble". |
+
+Encadrement, enseignement et animation du ski nautique-wakeboard et disciplines associées et de tous supports de glisse tractés dans l'option, sur tout lieu de pratique |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "pêche de loisirs". |
+
+Encadrement, animation et initiation d'activités de pêche de loisirs et sportive en eau douce et depuis le bord sur le littoral. |
 
 |
 
@@ -2629,6 +2695,60 @@ CQP "technicien sportif de tir à l'arc". |
 Encadrement de séances collectives ou individuelles d'entraînement et de perfectionnement de tir à l'arc jusqu'au niveau national. |
 
 Dans la limite de douze pratiquants. |
+
+CQP "moniteur de roller sports", options : "patinage artistique et danse", "course", "rink-hockey", "roller hockey", "roller freestyle", "roller randonnée" et "roller derby".
+
+|
+
+Initiation aux activités du roller sports dans l'ensemble des options. Encadrement en autonomie dans l'option considérée, jusqu'aux premiers niveaux de compétition inclus.
+
+|
+
+Dans la limite de vingt pratiquants.
+
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte, milieu urbain et skatepark.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
+
+|
+
+CQP "moniteur de roller sports", option "skateboard"
+
+|
+
+Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus.
+
+|
+
+Dans la limite de 20 pratiquants.
+
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark.
+
+|
+
+CQP "animateur de tennis".
+
+|
+
+Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au padel.
+
+|
+
+A l'exclusion de l'entraînement et des pratiques compétitives.
+
+|
+
+CQP "éducateur de tennis".
+
+|
+
+Initiation au tennis en cours collectifs pour tout public.
+
+|
+
+A l'exclusion de l'entraînement et des pratiques compétitives.
+
+|
 
 F. - Diplômes délivrés par le ministère chargé de la santé
 
