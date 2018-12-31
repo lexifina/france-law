@@ -1,0 +1,33 @@
+# Article 1er
+
+« Article 9.1
+
+Commission paritaire permanente de négociation et d'interprétation
+
+Conformément à l'article L. 2232-9 du code du travail, la commission paritaire permanente de négociation et d'interprétation :
+
+1. Représente la branche. La commission est chargée du suivi et de l'évaluation de la convention collective nationale et d'anticiper les évolutions liées à la branche professionnelle. Elle est compétente en matière de révisions de la présente convention et peut la compléter par voie d'avenant. La commission négocie le protocole d'accord sur la gestion du paritarisme.
+
+2. Exerce un rôle de veille sur les conditions de travail et l'emploi.
+
+3. Établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'article L. 2231-5-1 du code du travail. Ce rapport comprend un bilan des accords collectifs d'entreprise transmis à la commission paritaire nationale permanente à l'adresse accord-entrepriseML @ unml. info par les structures. (1)
+
+Elle peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif.
+
+Elle peut également exercer les missions de l'observatoire paritaire mentionné à l'article L. 2232-10 du code du travail.
+
+Elle est composée d'autant de représentants de syndicats employeurs que de représentants de syndicats salariés représentatifs dans la branche professionnelle soit :
+
+– quatre représentants par organisation syndicale de salariés représentative dans la branche professionnelle ;
+
+– et autant de représentants du ou des syndicats employeurs représentatif (s) dans la branche que la totalité des représentants des organisations syndicales de salariés représentatives de la branche.
+
+Chaque délégation peut se faire accompagner d'un conseiller technique.
+
+Elle se réunit au moins trois fois par an en vue des négociations mentionnées au chapitre 1er du titre IV du code du travail.
+
+Elle se réunit également à la demande de tous les membres de la commission dans le mois suivant la formulation de cette demande, ou dans les 3 mois qui suivent la demande d'au moins un des membres. »
+
+(1) Le 3. de l'article 9.1 est étendu sous réserve du respect des dispositions du 3° de l'article L. 2232-9 du code du travail, dans sa rédaction issue de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel.
+
+(Arrêté du 2 juillet 2021 - art. 1)
