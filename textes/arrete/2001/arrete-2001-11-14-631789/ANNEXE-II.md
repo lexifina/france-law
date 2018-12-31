@@ -1,6 +1,8 @@
 # Article ANNEXE II
 
-FRAIS DE FOURRIÈRE |
+FRAIS
+
+de fourrière |
 
 CATÉGORIES DE VÉHICULES |
 
@@ -76,7 +78,7 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
 Voitures particulières |
 
-117,50 |
+119,20 |
 
 Autres véhicules immatriculés |
 
@@ -102,7 +104,7 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
 Voitures particulières |
 
-6,23 |
+6,31 |
 
 Autres véhicules immatriculés |
 
