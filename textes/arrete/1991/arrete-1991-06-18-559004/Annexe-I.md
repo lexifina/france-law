@@ -10,7 +10,7 @@ B. Conditions de réalisation des contrôles
 
 Les contrôles sont réalisés sans démontage, à l'exception de la dépose d'éléments permettant d'accéder au numéro de frappe à froid, à la prise EOBD et au coffre de la batterie de traction ou au réservoir de gaz carburant le cas échéant.
 
-La vérification des points de contrôle est réalisée conformément aux instructions techniques établies par l'organisme technique central et approuvées par le ministre chargé des transports. Pour chacune des fonctions mentionnées au point C, ces instructions définissent les méthodologies de contrôle applicables aux points de contrôle et les défaillances constatables prévues au point D ci-après, associées à des précisions complémentaires éventuelles, non exhaustives. Elles précisent également, le cas échéant, les définitions et prescriptions applicables.
+La vérification des points de contrôle est réalisée conformément aux instructions techniques établies par l'organisme technique central et approuvées par le ministre chargé des transports. Pour chacune des fonctions mentionnées au point C, ces instructions définissent les méthodologies de contrôle applicables aux points de contrôle et les défaillances constatables prévues au point D ci-après, associées à des précisions complémentaires éventuelles, non exhaustives. Elles précisent également, le cas échéant, les définitions, prescriptions, commentaires et informations complémentaires applicables.
 
 Dans le cas où le constructeur d'un véhicule (ou son représentant) détermine des méthodes ou prescriptions particulières adaptées à la technologie dudit véhicule, le constructeur (ou son représentant) les transmet à l'organisme technique central qui les met à la disposition des organismes agréés après validation par le ministre en charge des transports.
 
@@ -156,7 +156,7 @@ Majeure |
 
 0.2. NUMÉRO D'IDENTIFICATION, DE CHÂSSIS OU DE SÉRIE DU VÉHICULE
 
-0.2.1. NUMÉRO D'IDENTIFICATION, DE CHÂSSIS OU DE SERIES DU VEHICULE
+0.2.1. NUMÉRO D’IDENTIFICATION, DE CHÂSSIS OU DE SÉRIE DU VÉHICULE
 
 0.2.1. a. 2. |
 
@@ -382,19 +382,13 @@ Date limite de validité d'épreuve dépassée |
 
 Majeure |
 
-0.6.1.c.2.
+0.6.1. c. 2. |
+
+Non-concordance entre le document d'identification complémentaire et le véhicule |
 
 |
 
-Non-concordance entre le document d’identification complémentaire et le véhicule
-
-|
-
-|
-
-Majeure
-
-|
+Majeure |
 
 0.6.1. d. 1. |
 
@@ -776,21 +770,13 @@ Mineure |
 
 1.1.14. TAMBOURS DE FREINS, DISQUES DE FREINS
 
-1.1.14.a.1.
+1.1.14.a.1. |
 
-|
+Disque ou tambour légèrement usé |
 
-Disque ou tambour légèrement usé
+[Loc.] |
 
-|
-
-[Loc.]
-
-|
-
-Mineure
-
-|
+Mineure |
 
 1.1.14. a. 2. |
 
@@ -1428,19 +1414,13 @@ Manque d'étanchéité : formation de gouttelettes |
 
 Majeure |
 
-2.1.1.f.3.
+2.1.1.f.3. |
+
+Déformation, fissure, cassure |
 
 |
 
-Déformation, fissure, cassure
-
-|
-
-|
-
-Critique
-
-|
+Critique |
 
 2.1.2. FIXATION DU BOÎTIER OU DE LA CRÉMAILLÈRE DE DIRECTION
 
@@ -3230,7 +3210,7 @@ Mineure |
 
 4.18. AUTRES DISPOSITIFS
 
-4.18.1. AUTRES DISPOSITIFS D’֤ÉCLAIRAGE OU DE SIGNALISATION
+4.18.1. AUTRES DISPOSITIFS D'ÉCLAIRAGE OU DE SIGNALISATION
 
 4.18.1. a. 2. |
 
@@ -3256,13 +3236,9 @@ Mauvaise fixation |
 
 Mineure |
 
-4.18.1.c.2.
+4.18.1. c. 2. |
 
-|
-
-Mauvaise fixation : très grand risque de chute
-
-|
+Mauvaise fixation : très grand risque de chute |
 
 [Loc.] |
 
@@ -3298,13 +3274,9 @@ Mauvaise fixation |
 
 Majeure |
 
-5.1.1.b.3.
+5.1.1. b. 3. |
 
-|
-
-Mauvaise fixation : stabilité perturbée, fonctionnement affecté
-
-|
+Mauvaise fixation : stabilité perturbée, fonctionnement affecté |
 
 [Loc.] |
 
@@ -3390,7 +3362,7 @@ Critique |
 
 5.1.3. ROULEMENTS DE ROUES
 
-5.1.3.a.2. |
+5.1.3. a. 2. |
 
 Jeu ou bruit excessif |
 
@@ -3398,7 +3370,7 @@ Jeu ou bruit excessif |
 
 Majeure |
 
-5.1.3.a.3. |
+5.1.3. a. 3. |
 
 Jeu ou bruit excessif : stabilité directionnelle perturbée ; risque de destruction |
 
@@ -3518,13 +3490,9 @@ Majeure |
 
 5.2.3. PNEUMATIQUES
 
-5.2.3.a.2.
+5.2.3. a. 2. |
 
-|
-
-La taille, la capacité de charge ou la catégorie de l’indice de vitesse du pneumatique ne sont pas conformes aux exigences et nuisent à la sécurité routière
-
-|
+La taille, la capacité de charge ou la catégorie de l’indice de vitesse du pneumatique ne sont pas conformes aux exigences et nuisent à la sécurité routière |
 
 [Loc.] |
 
@@ -3554,7 +3522,7 @@ Pneumatiques de structure différente |
 
 Majeure |
 
-5.2.3.d.2. |
+5.2.3. d. 2. |
 
 Pneumatique gravement endommagé, entaillé ou montage inadapté |
 
@@ -3570,7 +3538,7 @@ Corde visible ou endommagée |
 
 Critique |
 
-5.2.3.e.1. |
+5.2.3. e. 1. |
 
 Usure anormale ou présence d'un corps étranger |
 
@@ -4012,21 +3980,13 @@ Corrosion excessive affectant la rigidité du berceau : résistance insuffisante
 
 Critique |
 
-6.1.1.g.1.
+6.1.1.g.1. |
 
-|
+Modification ne permettant pas le contrôle d’une partie du châssis |
 
-Modification ne permettant pas le contrôle d’une partie du châssis
+[Loc.] |
 
-|
-
-[Loc.]
-
-|
-
-Mineure
-
-|
+Mineure |
 
 6.1.1. g. 2. |
 
@@ -4868,41 +4828,33 @@ Majeure |
 
 .
 
-6.2.13.a.2. |
+6.2.13. a. 2. |
 
-Un ouvrant est susceptible de s'ouvrir inopinément ou ne reste pas fermé
-
-|
+Un ouvrant est susceptible de s'ouvrir inopinément ou ne reste pas fermé |
 
 [Loc.] |
 
 Majeure |
 
-6.2.13.b.1. |
+6.2.13. b. 1. |
 
-Détérioration
-
-|
+Détérioration |
 
 [Loc.] |
 
 Mineure |
 
-6.2.13.b.2. |
+6.2.13. b. 2. |
 
-Détérioration susceptible de provoquer des blessures
-
-|
+Détérioration susceptible de provoquer des blessures |
 
 [Loc.] |
 
 Majeure |
 
-6.2.13.c.2. |
+6.2.13. c. 2. |
 
-Ouvrant, charnière, serrure ou gâche manquants ou mal fixés
-
-|
+Ouvrant, charnière, serrure ou gâche manquantes ou mal fixées |
 
 [Loc.] |
 
@@ -5042,21 +4994,17 @@ Le système signale une défaillance via l'interface électronique du véhicule 
 
 Majeure |
 
-7.1.5.c.2. |
+7.1.5. c. 2. |
 
 Coussin gonflable manifestement inopérant |
 
-|
+[Loc.] |
 
 Majeure |
 
-7.1.5.d.1.
+7.1.5. d. 1. |
 
-|
-
-Mauvaise configuration du système de désactivation du coussin gonflable passager
-
-|
+Mauvaise configuration du système de désactivation du coussin gonflable passager |
 
 |
 
@@ -5348,6 +5296,14 @@ Coefficient lambda hors tolérances ou non conforme aux spécifications du const
 
 Majeure |
 
+8.2.12. d. 1. |
+
+Le relevé du système OBD indique une anomalie du dispositif antipollution, sans dysfonctionnement important |
+
+|
+
+Mineure |
+
 8.2.12. d. 2. |
 
 Le relevé du système OBD indique un dysfonctionnement important |
@@ -5400,11 +5356,9 @@ Majeure |
 
 8.2.22. OPACITÉ
 
-8.2.22.a.1. |
+8.2.22. a. 1. |
 
-Mesures d'opacité légèrement instables
-
-|
+Mesures d'opacité légèrement instables |
 
 |
 
@@ -5417,6 +5371,14 @@ L'opacité dépasse les limites réglementaires ou les mesures sont instables |
 |
 
 Majeure |
+
+8.2.22. c. 1 |
+
+Le relevé du système OBD indique une anomalie du dispositif antipollution, sans dysfonctionnement important |
+
+|
+
+Mineure |
 
 8.2.22. c. 2. |
 
@@ -6084,13 +6046,13 @@ La liste des points à contrôler lors des contre-visites est déterminée sur l
 
 La liste des points à contrôler lors des contre-visites complémentaires est déterminée sur la base des défaillances majeures et critiques constatées lors du contrôle technique complémentaire ou de la contre-visite complémentaire précédents.
 
-Lors de chaque contre-visite ou contre-visite complémentaire, les points relatifs à l'identification du véhicule sont à contrôler intégralement.
+Lors de chaque contre-visite ou contre-visite complémentaire, la fonction relative à l'identification du véhicule et le point de contrôle "7.11.1. compteur kilométrique" sont à contrôler intégralement.
 
-Lorsque le résultat d'un contrôle technique est défavorable :
+En complément de l'alinéa précédent, lorsque le résultat d'un contrôle technique est défavorable :
 
 -au titre du point 0.2.1. ou de la défaillance 0.4.1. a. 2., la contre-visite porte sur l'ensemble des points de contrôle applicables au véhicule concerné dans le cadre d'un contrôle technique périodique. Dans le cas d'une contre-visite complémentaire, celle-ci porte sur l'ensemble des points de contrôle applicables au véhicule concerné dans le cadre d'un contrôle technique complémentaire ;
 
--au titre d'au moins un point de contrôle de la fonction 0. Identification du véhicule , la contre-visite ou la contre-visite complémentaire porte sur cette fonction dans son intégralité ;
+-au titre de la défaillance "0.4.1.b.2. Non concordance de l'énergie avec le document d'identification", la contre-visite porte sur les points de contrôle "6.1.2. Tuyaux d'échappement et silencieux" et "6.1.3. Réservoirs et conduites de carburant" et sur la fonction "8. Nuisances" ;
 
 -au titre de la défaillance 0.5.1. a. 2., la contre-visite porte sur les points de contrôle 4.1.2. Orientation (feux de croisement) et 4.5.2. Réglage (feux de brouillard avant) ;
 
@@ -6118,9 +6080,11 @@ Lorsque le résultat d'un contrôle technique est défavorable :
 
 -au titre d'au moins un point de contrôle de la fonction 6. Châssis et accessoires du châssis , la contre-visite porte sur le ou les points de contrôle correspondants ;
 
+- au titre d'au moins un des points de contrôle "6.2.5. Siège conducteur" ou "6.2.6. Autres sièges", la contre-visite porte sur ces deux points de contrôle et sur l'ensemble de points "7.1. Ceintures de sécurité, boucles et systèmes de retenue" ;
+
 -au titre d'au moins un des ensembles de points de contrôle 8.1. Bruit ou 8.2. Emissions à l'échappement , ou d'un des points de contrôle 6.1.2. Tuyau d'échappement et silencieux ou 6.1.3. Réservoir et conduites de carburant (y compris le système de réchauffage du réservoir et des conduites de carburant) , la contre-visite ou contre-visite complémentaire porte sur les ensembles de points de contrôle 8.1. Bruit et 8.2. Émissions à l'échappement ainsi que les points de contrôle 6.1.2. Tuyau d'échappement et silencieux et 6.1.3. Réservoir et conduites de carburant (y compris le système de réchauffage du réservoir et des conduites de carburant) ;
 
-Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte sur l'ensemble de points correspondants.
+Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte également sur l'ensemble de points correspondants.
 
 G. Définitions et prescriptions applicables
 
