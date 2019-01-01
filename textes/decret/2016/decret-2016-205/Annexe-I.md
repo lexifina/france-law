@@ -2,7 +2,7 @@
 
 CONTENU DU DOSSIER À FOURNIR PAR LE CANDIDAT AU CONCOURS EXTERNE
 
-1. Un curriculum vitae détaillé ;
+1. Un curriculum vitae détaillé explicitant notamment, pour les titulaires d'un doctorat souhaitant présenter l'épreuve adaptée, les travaux universitaires, les acquis de l'expérience professionnelle résultant de la formation à la recherche et par la recherche ainsi que le diplôme obtenu ;
 
 2. Une note de 4 pages maximum dactylographiées présentant les stages effectués, les activités et les travaux réalisés ou auxquels le candidat a pris part ainsi que les enseignements qu'il en a tirés et, le cas échéant, un engagement personnel dans une activité associative ou extrascolaire à laquelle il a participé ;
 
