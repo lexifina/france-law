@@ -10,9 +10,9 @@ II. – Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit 
 
 a) Le siège social de l'entreprise ainsi que l'ensemble de son activité et de ses moyens d'exploitation sont implantés dans les zones mentionnées au I. Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 25 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 25 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice ;
 
-b) L'entreprise emploie moins de onze salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée d'au moins six mois à la date de clôture du premier exercice et au cours de chaque exercice de la période d'application du présent article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
+b) L'entreprise emploie moins de onze salariés. L'effectif salarié est apprécié, au titre de chaque exercice, selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale ;
 
-Toutefois, au titre des exercices clos entre le 31 décembre 2015 et le 31 décembre 2018, lorsqu'une entreprise bénéficiant déjà de l'exonération mentionnée au I constate, à la date de clôture de l'exercice, un dépassement du seuil d'effectif mentionné au premier alinéa du présent b, cette circonstance ne lui fait pas perdre le bénéfice de cette exonération pour l'exercice au cours duquel ce dépassement est constaté ainsi que pour les deux exercices suivants ;
+Lorsqu'une entreprise bénéficiant déjà de l'exonération mentionnée au I du présent article constate un franchissement de seuil d'effectif déterminé selon les modalités prévues au II de l'article L. 130-1 du code de la sécurité sociale, cette circonstance lui fait perdre le bénéfice de cette exonération ;
 
 c) L'entreprise n'exerce pas une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles, de pêche maritime ;
 
@@ -20,11 +20,7 @@ d) Le capital de l'entreprise créée ou reprise n'est pas détenu, directement 
 
 e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités préexistantes. L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat caractérise l'extension d'une activité préexistante lorsque l'entreprise créée ou reprenant l'activité bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise est placée dans une situation de dépendance.
 
-III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A,
-
-44 septies, 44 octies, 44 octies A,
-
-44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
+III.-L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies, 44 sexdecies ou 44 septdecies ou d'une prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
 
@@ -41,3 +37,7 @@ IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispos
 V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 VI. – L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
+
+NOTA :
+
+Conformément au III B de l’article 12 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2019.

@@ -6,6 +6,10 @@ Cette disposition n'est pas applicable aux cessions d'immeubles réalisées par 
 
 Les organisations internationales, les Etats étrangers, les banques centrales et les institutions financières publiques de ces Etats sont exonérés de ce prélèvement dans les conditions prévues à l'article 131 sexies.
 
+Le premier alinéa du présent 1 n'est pas applicable à la cession de l'immeuble qui constituait la résidence principale en France du cédant à la date du transfert de son domicile fiscal hors de France dans un Etat membre de l'Union européenne ou dans un Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ainsi qu'une convention d'assistance mutuelle en matière de recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/ UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures et qui n'est pas un Etat ou territoire non coopératif au sens de l'article 238-0 A. Cette exonération s'applique à la double condition que la cession soit réalisée au plus tard le 31 décembre de l'année suivant celle du transfert par le cédant de son domicile fiscal hors de France et que l'immeuble n'ait pas été mis à la disposition de tiers, à titre gratuit ou onéreux, entre ce transfert et la cession. Cette exonération s'applique également à la cession des dépendances immédiates et nécessaires de cet immeuble, à la condition que leur cession intervienne simultanément à celle de l'immeuble.
+
+Un contribuable ne peut bénéficier de l'exonération prévue à l'avant-dernier alinéa du présent 1 s'il a déjà bénéficié de l'exonération au titre de la cession d'un logement prévue au 2° du II de l'article 150 U.
+
 2. Sont soumis au prélèvement mentionné au 1 :
 
 a) Les personnes physiques qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B ;
@@ -36,11 +40,13 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux m
 
 II. – Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
+1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD.
+
+Un contribuable ne peut toutefois bénéficier de l'exonération prévue au 2° du II de l'article 150 U s'il a déjà bénéficié de l'exonération prévue à l'avant-dernier alinéa du 1 du I du présent article ;
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
-Lorsque la plus-value est exonérée en application du 6° du II de l'article 150 U ou par l'application de l'abattement prévu au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-value en report est dû ;
+Lorsque la plus-value est exonérée en application de l'avant-dernier alinéa du 1 du I du présent article ou du 6° du II de l'article 150 U ou par l'application de l'abattement prévu au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-value en report est dû. L'acte de cession soumis à la formalité fusionnée ou présenté à l'enregistrement précise, sous peine de refus du dépôt ou de la formalité d'enregistrement, la nature et le fondement de cette exonération ou de cette absence de taxation ;
 
 3° A l'article 150 UC, au 6 ter de l'article 39 duodecies ou au f du 1° du II de l'article 239 nonies lorsque les plus-values sont réalisées, directement ou indirectement, par un fonds de placement immobilier ou par ses porteurs de parts assujettis à l'impôt sur le revenu.
 
@@ -48,7 +54,7 @@ III. – Lorsque le prélèvement mentionné au I est dû par une personne moral
 
 Par dérogation au III bis et au premier alinéa du présent III, le prélèvement dû par des personnes morales résidentes d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les règles d'assiette et de taux prévues en matière d'impôt sur les sociétés dans les mêmes conditions que celles applicables à la date de la cession aux personnes morales résidentes de France.
 
-III bis.-1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219.
+III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219.
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %.
 
@@ -71,3 +77,5 @@ Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû
 NOTA :
 
 Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
+
+Conformément à l’article 43 II A de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux cessions réalisées à compter du 1er janvier 2019.

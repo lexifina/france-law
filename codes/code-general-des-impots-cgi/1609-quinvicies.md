@@ -4,7 +4,7 @@ I. – Il est institué une contribution supplémentaire à l'apprentissage.
 
 Cette contribution est due par les entreprises de deux cent cinquante salariés et plus qui sont redevables de la taxe d'apprentissage en application de l'article 1599 ter A et dont l'effectif annuel moyen, pour l'ensemble des catégories suivantes, est inférieur à un seuil :
 
-1° Les salariés sous contrat de professionnalisation ou d'apprentissage ;
+1° Les salariés sous contrat de professionnalisation ou d'apprentissage et, pendant l'année suivant la date de fin du contrat de professionnalisation ou d'apprentissage, les salariés embauchés en contrat à durée indéterminée par l'entreprise à l'issue dudit contrat ;
 
 2° Les jeunes accomplissant un volontariat international en entreprise régi par la section 1 du chapitre II du titre II du livre Ier du code du service national ou bénéficiant d'une convention industrielle de formation par la recherche.
 
@@ -28,20 +28,6 @@ Elle est calculée aux taux suivants :
 
 III. ― Pour les entreprises visées à l'article L. 1251-2 du code du travail, les seuils définis au I s'apprécient sans prendre en compte les salariés titulaires d'un contrat de travail mentionné au 2° de l'article L. 1251-1 du même code et la contribution n'est pas due sur les rémunérations versées à ces salariés.
 
-IV. – Les dépenses visées aux articles 1599 ter E, 1599 ter F et 1599 ter G ne sont pas admises en exonération de la contribution mentionnée au I.
+IV. – L'article 1599 ter K est applicable à cette contribution. Pour les établissements mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de leur montant.
 
-Les articles 1599 ter K, 1599 ter L, 1599 ter M et les I et III de l'article 1678 quinquies sont applicables à cette contribution. Pour les établissements mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de leur montant.
-
-V. – Le montant de la contribution mentionnée au I est versé aux organismes collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement insuffisant à la date précitée, le montant de la contribution est versé au comptable public compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée.
-
-Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 et de l'article L. 6241-3 du code du travail.
-
-Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard le 15 juillet de la même année.
-
-NOTA :
-
-Dans sa décision n° 2013-371 QPC du 7 mars 2014 (NOR CSCX1405774S), le Conseil constitutionnel a déclaré le premier alinéa du paragraphe V de l'article 230 H du code général des impôts conforme à la Constitution, sous la réserve énoncée au considérant 9.
-
-Loi n° 2014-891 du 8 août 2014, art. 8 VI, ces dispositions s'appliquent aux impositions dues au titre des rémunérations versées à compter du 1er janvier 2014.
-
-Toutefois, les exonérations attachées aux dépenses libératoires engagées, au titre de ces mêmes impositions, du 1er janvier 2014 jusqu'à la publication de la présente loi sont maintenues sur le fondement des dispositions en vigueur à la date du versement effectif de ces dépenses.
+V. – Cette contribution est recouvrée dans les conditions prévues au III de l'article L. 6131-1 du code du travail.

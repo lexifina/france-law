@@ -6,7 +6,7 @@ I bis. – Ils sont également substitués aux communes membres pour la percepti
 
 1. Du produit des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives :
 
-a) Aux installations de production d'électricité utilisant l'énergie mécanique du vent et aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale, prévue à l'article 1519 D ;
+a) Aux installations de production d'électricité utilisant l'énergie mécanique du vent et aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue à l'article 1519 D ;
 
 b) Aux installations de production d'électricité d'origine nucléaire ou thermique à flamme, prévue à l'article 1519 E ;
 
@@ -17,6 +17,8 @@ d) Aux transformateurs électriques, prévue à l'article 1519 G ;
 e) Aux stations radioélectriques, prévue à l'article 1519 H ;
 
 f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz naturel, aux canalisations de transport de gaz naturel, aux stations de compression du réseau de transport de gaz naturel, aux canalisations de transport d'autres hydrocarbures et aux canalisations de transport de produits chimiques prévue à l'article 1519 HA ;
+
+1 bis. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent, installées à compter du 1er janvier 2019, prévue à l'article 1519 D ;
 
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I ;
 

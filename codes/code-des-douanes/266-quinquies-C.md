@@ -100,6 +100,12 @@ d. Le tarif de la taxe intérieure de consommation applicable aux consommations 
 
 Est considérée comme exposée à un risque important de fuite de carbone en raison des coûts des émissions indirectes une installation dont l'activité relève de l'un des secteurs ou sous-secteurs mentionnés à l'annexe II de la communication 2012/ C 158/04 de la Commission relative aux lignes directrices concernant certaines aides d'Etat dans le contexte du système d'échange de quotas d'émission de gaz à effet de serre après 2012.
 
+e. Le tarif de la taxe applicable à l'électricité consommée par un centre de stockage de données numériques exploité par une entreprise est, pour la fraction des quantités annuelles excédant un gigawattheure et lorsque la consommation totale d'électricité de ce centre est égale ou supérieure à un kilowattheure par euro de valeur ajoutée, fixé à 12 € par mégawattheure.
+
+Un centre de stockage de données numériques s'entend d'une infrastructure immobilière consacrée au stockage physique, au traitement, au transport et à la diffusion de données numériques, dont l'accès est sécurisé, et comprenant des dispositifs spécifiques et dédiés de contrôle de son environnement thermique, de la qualité de son air, d'alimentation en énergie et de prévention des incendies.
+
+f. Le tarif de la taxe applicable à l'électricité consommée par les exploitants d'aérodromes ouverts à la circulation aérienne publique, dont la consommation totale d'électricité est strictement supérieure à 222 wattheures par euro de valeur ajoutée, est fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
+
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
 Ils tiennent une comptabilité des livraisons d'électricité qu'ils effectuent en France et communiquent à l'administration chargée du recouvrement le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire.
@@ -146,6 +152,4 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.
-
-(1) Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions du tableau du deuxième alinéa du B du 8 s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
+Conformément à l’article 69 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons d'électricité intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la consommation finale d'électricité intervient à compter du 1er janvier 2019.

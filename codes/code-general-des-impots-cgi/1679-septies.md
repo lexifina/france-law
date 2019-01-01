@@ -12,7 +12,7 @@ Les redevables peuvent, sous leur responsabilité, réduire le montant de leurs 
 
 Pour l'application des exonérations ou des abattements de cotisations sur la valeur ajoutée des entreprises prévus à l'article 1586 nonies, les entreprises sont autorisées à limiter le paiement des acomptes de leur cotisation sur la valeur ajoutée des entreprises dans la proportion entre :
 
-– d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article 1464 M et des articles 1465 à 1466 F ;
+– d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I bis, de l'article 1464 M et des articles 1465 à 1466 F ;
 
 – et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû au titre de l'année précédente.
 
@@ -22,4 +22,4 @@ L'année suivant celle de l'imposition, le redevable doit procéder à la liquid
 
 NOTA :
 
-Conformément au II de l'article 43 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à compter des impositions établies au titre de 2017.
+Conformément au II de l'article 174 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent à compter des impositions établies au titre de 2019

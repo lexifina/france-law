@@ -2,13 +2,9 @@
 
 I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
-1. Tout exploitant d'une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative :
+1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
-a) Au stockage ou au traitement thermique de déchets non dangereux ;
-
-b) Ou au stockage ou au traitement thermique de déchets dangereux,
-
-et non exclusivement utilisée pour les déchets que l'exploitant produit, ou toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
+b) Toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
 2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
@@ -38,17 +34,41 @@ II. - La taxe ne s'applique pas :
 
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
-1 bis. Aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme matière ;
+1 bis. Aux réceptions de déchets et aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme matière ;
 
-1 ter. Aux installations de stockage des déchets autorisées, au titre du titre Ier du livre V du code de l'environnement, à recevoir des déchets d'amiante liés à des matériaux de construction inertes ayant conservé leur intégrité (amiante-ciment) relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchets d'amiante-ciment reçus ;
+1 ter. Aux réceptions de déchets de matériaux de construction et d'isolation contenant de l'amiante et aux déchets d'équipement de protection individuelle et de moyens de protection collective pollués par des fibres d'amiante ;
 
 1 quater. (Abrogé) ;
 
 1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par arrêté, entre la date de début de sinistre et jusqu'à deux cent quarante jours après la fin du sinistre. Les quantités non taxables font l'objet d'une comptabilité matière séparée ;
 
-1 sexies. Aux installations de co-incinération de déchets non dangereux pour les déchets non dangereux qu'elles réceptionnent ;
+1 sexies. Aux réceptions de déchets non dangereux par les installations de co-incinération ;
 
-1 septies. Aux installations de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération, mentionnées au 9° du I de l'article L. 541-1 du code de l'environnement ;
+1 septies. Aux réceptions, aux fins de la production de chaleur ou d'électricité, de déchets non dangereux préparés, dans une installation autorisée prévue à cet effet, sous forme de combustibles solides de récupération, associés ou non à un autre combustible ;
+
+1 octies. Aux réceptions de résidus issus du traitement de déchets dont la réception a relevé du champ de la taxe lorsque l'une des deux conditions suivantes est remplie :
+
+a) Ces résidus constituent des déchets dangereux et les déchets dont ils sont issus ont fait l'objet d'un traitement thermique ;
+
+b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise les éléments caractérisant cette impossibilité technique ;
+
+1 nonies. Aux réceptions de déchets relevant du champ d'application de l'une des taxes intérieures de consommation prévues respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+
+1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
+
+1 undecies. Aux réceptions de déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine ;
+
+1 duodecies. Aux réceptions de déchets dont la valorisation matière est interdite ou dont l'élimination est prescrite. La liste des déchets concernés est précisée par arrêté conjoint des ministres chargés du budget et de l'environnement ;
+
+1 terdecies. Aux réceptions de déchets en provenance d'un dépôt non autorisé de déchets abandonnés dont les producteurs ne peuvent être identifiés et que la collectivité territoriale chargée de la collecte et du traitement des déchets des ménages n'a pas la capacité technique de prendre en charge. L'impossibilité d'identifier les producteurs et l'incapacité technique de prise en charge des déchets sont constatées, dans des conditions précisées par décret, par arrêté préfectoral, pour une durée ne pouvant excéder trois mois, le cas échéant, renouvelable une fois ;
+
+1 quaterdecies. Aux installations exclusivement utilisées pour les déchets que l'exploitant produit ;
+
+1 quindecies. Aux réceptions de déchets en provenance d'une installation de stockage où ces déchets ont été préalablement réceptionnés et qui :
+
+a) Soit n'est plus exploitée depuis le 1er janvier 1999 ;
+
+b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'est plus exploitée à la date de transfert des déchets ;
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
@@ -62,8 +82,8 @@ II. - La taxe ne s'applique pas :
 
 7. (Abrogé).
 
-III. - Sont exonérées de la taxe mentionnée au I :
+III. - (Abrogé).
 
-1. Les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine.
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
 
-2. Les quantités de déchets de produits mentionnés au second alinéa du 3 de l'article 265, utilisées comme combustible dans les phases de démarrage ou de maintien de la température d'une installation de traitement thermique de déchets dangereux, lorsque cette utilisation est mentionnée dans l'arrêté préfectoral d'autorisation de l'installation.
+Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation d'effet équivalent à cette autorisation.

@@ -16,11 +16,11 @@ d) De la retenue à la source prévue aux b et c du I de l'article 182 B ;
 
 a) De la taxe sur les salaires prévue à l'article 231 ;
 
-b) Des participations mentionnées aux articles 235 bis et 235 ter C ;
+b) De la participation mentionnée à l'article 235 bis ;
 
-c) De la taxe d'apprentissage prévue à l'article 1599 ter A ;
+c) Des contributions mentionnées aux 2° et 3° du I de l'article L. 6131-1 du code du travail ;
 
-d) De la contribution supplémentaire à l'apprentissage prévue à l'article 1609 quinvicies ;
+d) (Abrogé)
 
 3° Sous réserve du 2°, des impôts prévus aux titres Ier à II bis de la deuxième partie du présent livre, à l'exception des taxes foncières sur les propriétés bâties et non bâties et de leurs taxes annexes, lorsque leur fait générateur est directement lié à l'organisation de la compétition sportive internationale.
 

@@ -42,17 +42,9 @@ Désignation des produits |
 
 Unité de perception |
 
-Tarif (en euros) |
+Tarifs (en euros)
 
-2018 |
-
-2019 |
-
-2020 |
-
-2021 |
-
-A compter de 2022 |
+|
 
 2701,2702 et 2704
 
@@ -61,14 +53,6 @@ houilles, lignites et cokes destinés à être utilisés comme combustibles |
 Mégawattheure |
 
 14,62 |
-
-18,02 |
-
-21,43 |
-
-24,84 |
-
-28,25 |
 
 Le montant de la taxe est arrondi à l'euro le plus proche.
 
@@ -97,3 +81,5 @@ La déclaration d'acquittement peut être effectuée par voie électronique ;
 NOTA :
 
 Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
+
+Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.

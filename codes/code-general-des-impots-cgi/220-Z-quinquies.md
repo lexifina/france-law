@@ -8,12 +8,10 @@ La créance est inaliénable et incessible, sauf dans les cas et les conditions 
 
 Dans l'hypothèse où la créance a fait l'objet d'une cession ou d'un nantissement dans les conditions prévues au deuxième alinéa et que le crédit d'impôt fait l'objet d'une reprise dans les conditions prévues au VII de l'article 244 quater X, la reprise est faite auprès :
 
-1° Des organismes ou sociétés mentionnés au 1 du I de l'article 244 quater X, à concurrence du prix de cession ou du nantissement de la créance ;
+1° Des organismes ou sociétés mentionnés au 1 et au 5 du I de l'article 244 quater X, à concurrence du prix de cession ou du nantissement de la créance ;
 
 2° Du cessionnaire ou du bénéficiaire du nantissement de la créance, à concurrence de la différence entre le montant du crédit d'impôt et le prix d'acquisition ou du nantissement de la créance.
 
 NOTA :
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article 220 Z quinquies, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de l'Union européenne.
-
-Le III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 a été modifié par l'article 67 de la loi n° 2014-1655 du 29 décembre 2014. Il en résulte que les dispositions de l'article 220 Z quinquies, dans leur rédaction issue de la loi n° 2013-1278, sont applicables aux investissements réalisés à compter du 1er janvier 2015.
+Conformément à l’article 153 II B de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux acquisitions et constructions d'immeubles ayant fait l'objet d'une déclaration de chantier à compter du 1er janvier 2019.

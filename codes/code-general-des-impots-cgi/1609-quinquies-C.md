@@ -6,7 +6,11 @@ I bis. – Le I est applicable aux communautés de communes ayant, avant le 31 d
 
 II. – 1. Les établissements publics de coopération intercommunale mentionnés au 2 du III de l'article 1379-0 bis sont substitués aux communes membres pour les dispositions relatives à la cotisation foncière des entreprises afférente aux installations de production d'électricité utilisant l'énergie mécanique du vent implantées sur le territoire de ces communes à compter de la publication de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique, et perçoivent le produit de cette taxe.
 
-2. Les établissements publics de coopération intercommunale mentionnés au 1 se substituent également aux communes membres pour les dispositions relatives à la taxe annuelle sur les installations de production d'électricité, prévue à l'article 1519 D, et perçoivent le produit de cette taxe.
+2. Les établissements publics de coopération intercommunale mentionnés au 1 se substituent également aux communes membres pour la perception :
+
+a) Du produit de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique hydraulique situées dans les eaux intérieures ou dans la mer territoriale et aux installations de production d'électricité utilisant l'énergie mécanique du vent installées avant le 1er janvier 2019, prévue à l'article 1519 D ;
+
+b) Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du 1er janvier 2019, prévue au même article 1519 D.
 
 II bis. – Le II est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la deuxième phrase du premier alinéa du même II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette phrase.
 

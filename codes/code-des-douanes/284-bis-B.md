@@ -24,6 +24,8 @@ e) Les groupes générateurs mobiles installés à demeure sur un châssis routi
 
 f) Les engins de forage mobiles installés à demeure sur un châssis routier.
 
-NOTA :
+6° Véhicules historiques et de collection mentionnés à l'article R. 311-1 du code de la route ;
 
-Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe exigible à compter du 1er juillet 2016.
+7° Véhicules utilisés par les cirques ou affectés exclusivement au transport des manèges et autres matériels d'attraction ;
+
+8° Véhicules utilisés par les centres équestres.

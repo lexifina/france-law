@@ -6,53 +6,51 @@ A la condition que le logement soit achevé depuis plus de deux ans à la date d
 
 a) (Abrogé)
 
-b) Aux dépenses mentionnées au premier alinéa du 1° et aux 3° et 4° du présent b, payées entre le 1er janvier 2005 et le 31 décembre 2018, ainsi qu'à celles mentionnées au premier alinéa du 2° du présent b, payées entre le 1er janvier 2005 et le 31 décembre 2017, au titre de :
+b) Aux dépenses mentionnées au présent b, payées entre le 1er janvier 2005 et le 31 décembre 2019, au titre de :
 
-1° L'acquisition de chaudières à haute performance énergétique à l'exception de celles utilisant le fioul comme source d'énergie.;
+1° L'acquisition de chaudières à très haute performance énergétique, à l'exception de celles utilisant le fioul comme source d'énergie, dans la limite d'un plafond de dépenses fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget ;
 
-Toutefois, le crédit d'impôt s'applique aux dépenses, payées entre le 1er janvier et le 30 juin 2018, au titre de l'acquisition de chaudières à très haute performance énergétique utilisant le fioul comme source d'énergie ;
-
-2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de volets isolants ou de portes d'entrée donnant sur l'extérieur ;
-
-Toutefois, le crédit d'impôt s'applique aux dépenses, payées entre le 1er janvier et le 30 juin 2018, au titre de l'acquisition de matériaux d'isolation thermique des parois vitrées, à la condition que ces mêmes matériaux viennent en remplacement de parois en simple vitrage ;
+2° l'acquisition de matériaux d'isolation thermique des parois vitrées, dans la limite d'un plafond de dépenses fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget, et à la condition que ces mêmes matériaux viennent en remplacement de parois en simple vitrage ;
 
 3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses par mètre carré, fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget, ainsi que l'acquisition de matériaux de calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
 
 4° L'acquisition d'appareils de régulation de chauffage ;
 
-c) Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2018, au titre de l'acquisition :
+c) Aux dépenses, payées entre le 1er janvier 2005 et le 31 décembre 2019, au titre de l'acquisition et de la pose :
 
 1° D'équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant une source d'énergie renouvelable, dans la limite d'un plafond de dépenses par mètre carré de capteurs solaires pour les équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant l'énergie solaire thermique, fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget.
 
-Toutefois, pour les dépenses payées au titre de l'acquisition d'un équipement intégrant un équipement de production d'électricité utilisant l'énergie radiative du soleil et un équipement de chauffage ou de production d'eau chaude sanitaire utilisant l'énergie solaire thermique, le crédit d'impôt s'applique sur le coût total de cette acquisition, dans la limite d'une surface de capteurs solaires fixée par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget, et après application à la surface ainsi déterminée d'un plafond de dépenses par mètre carré de capteurs solaires ;
+Toutefois, pour les dépenses payées au titre de l'acquisition et de la pose d'un équipement intégrant un équipement de production d'électricité utilisant l'énergie radiative du soleil et un équipement de chauffage ou de production d'eau chaude sanitaire utilisant l'énergie solaire thermique, le crédit d'impôt s'applique sur le coût total de cette acquisition, dans la limite d'une surface de capteurs solaires fixée par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget, et après application à la surface ainsi déterminée d'un plafond de dépenses par mètre carré de capteurs solaires ;
 
 2° De systèmes de fourniture d'électricité à partir de l'énergie hydraulique ou à partir de la biomasse ;
 
 3° De pompes à chaleur, autres que air/ air, dont la finalité essentielle est la production de chaleur ou d'eau chaude sanitaire, ainsi qu'au coût de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques ;
 
-Toutefois, pour les dépenses payées au titre de l'acquisition de pompes à chaleur dédiées à la production d'eau chaude sanitaire, le crédit d'impôt s'applique dans la limite d'un plafond de dépenses fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget ;
+Toutefois, pour les dépenses payées au titre de l'acquisition et de la pose de pompes à chaleur dédiées à la production d'eau chaude sanitaire, le crédit d'impôt s'applique dans la limite d'un plafond de dépenses fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget ;
 
-d) Aux dépenses, payées entre le 1er janvier 2006 et le 31 décembre 2018, au titre de l'acquisition d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements, à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou de récupération ou par une installation de cogénération, ainsi qu'aux dépenses afférentes à un immeuble situé dans un département d'outre-mer, payées entre le 1er septembre 2014 et le 31 décembre 2018, au titre de l'acquisition d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements, à un réseau de froid, alimenté majoritairement par du froid d'origine renouvelable ou de récupération ;
+d) Aux dépenses, payées entre le 1er janvier 2006 et le 31 décembre 2019, au titre de l'acquisition d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements, à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou de récupération ou par une installation de cogénération, ainsi qu'aux dépenses afférentes à un immeuble situé dans un département d'outre-mer, payées entre le 1er septembre 2014 et le 31 décembre 2019, au titre de l'acquisition d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements, à un réseau de froid, alimenté majoritairement par du froid d'origine renouvelable ou de récupération ;
 
 e) Abrogé
 
-f) Aux dépenses, payées entre le 1er janvier 2009 et le 31 décembre 2018, au titre de :
+f) Aux dépenses, payées entre le 1er janvier 2009 et le 31 décembre 2019, au titre de :
 
 1° (Abrogé)
 
 2° La réalisation, en dehors des cas où la réglementation le rend obligatoire, du diagnostic de performance énergétique défini à l'article L. 134-1 du code de la construction et de l'habitation. Pour un même logement, un seul diagnostic de performance énergétique ouvre droit au crédit d'impôt par période de cinq ans.
 
-g) Aux dépenses payées entre le 1er janvier 2012 et le 31 décembre 2018, au titre de chaudières à micro-cogénération gaz d'une puissance de production électrique inférieure ou égale à 3 kilovolt-ampères par logement ;
+g) Aux dépenses payées entre le 1er janvier 2012 et le 31 décembre 2019, au titre de chaudières à micro-cogénération gaz d'une puissance de production électrique inférieure ou égale à 3 kilovolt-ampères par logement, dans la limite d'un plafond de dépenses fixé par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget ;
 
-h) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2018, au titre de l'acquisition d'appareils permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur ;
+h) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2019, au titre de l'acquisition d'appareils permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur ;
 
-i) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2018, au titre de l'acquisition d'un système de charge pour véhicule électrique ;
+i) Aux dépenses payées entre le 1er septembre 2014 et le 31 décembre 2019, au titre de l'acquisition d'un système de charge pour véhicule électrique ;
 
-j) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre le 1er septembre 2014 et le 31 décembre 2018, au titre de l'acquisition d'équipements ou de matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires ;
+j) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre le 1er septembre 2014 et le 31 décembre 2019, au titre de l'acquisition d'équipements ou de matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires ;
 
-k) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre le 1er septembre 2014 et le 31 décembre 2018, au titre de l'acquisition d'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air ;
+k) Aux dépenses afférentes à un immeuble situé à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, payées entre le 1er septembre 2014 et le 31 décembre 2019, au titre de l'acquisition d'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air ;
 
-l) Aux dépenses payées entre le 1er janvier et le 31 décembre 2018, au titre de la réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique comprenant des propositions de travaux dont au moins une permet d'atteindre un très haut niveau de performance énergétique défini par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget. Pour un même logement, un seul audit énergétique ouvre droit au crédit d'impôt.
+l) Aux dépenses payées entre le 1er janvier 2018 et le 31 décembre 2019, au titre de la réalisation, en dehors des cas où la réglementation le rend obligatoire, d'un audit énergétique comprenant des propositions de travaux dont au moins une permet d'atteindre un très haut niveau de performance énergétique défini par arrêté conjoint des ministres chargés de l'énergie, du logement et du budget. Pour un même logement, un seul audit énergétique ouvre droit au crédit d'impôt ;
+
+m) Aux dépenses payées, entre le 1er janvier 2019 et le 31 décembre 2019, au titre de la dépose d'une cuve à fioul.
 
 1 bis. (Sans objet).
 
@@ -72,11 +70,15 @@ Afin de garantir la qualité de l'audit énergétique mentionné au l du 1, un d
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable.
 
-4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2018, la somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2019, la somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
-5. Le crédit d'impôt est égal à 30 % du montant des matériaux, équipements, appareils et dépenses de diagnostic de performance énergétique et d'audit énergétique mentionnés au 1.
+4 bis. Les dépenses de pose mentionnées au c du 1 et les dépenses de dépose mentionnées au m du même 1 ouvrent droit au crédit d'impôt lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 n'excède pas, au titre de l'avant dernière année précédant celle du paiement de la dépense, un plafond fixé par décret. Ce plafond ne s'applique pas au coût de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques mentionné au 3° du c du 1 du présent article.
 
-Toutefois, pour les dépenses mentionnées au second alinéa des 1° et 2° du b du 1, le crédit d'impôt est égal à 15 %.
+5. Le crédit d'impôt est égal à 30 % du montant des matériaux, équipements, appareils, coûts de main d'œuvre et dépenses de diagnostic de performance énergétique et d'audit énergétique mentionnés au 1.
+
+Toutefois, pour les dépenses mentionnées au 2° du b du 1, le crédit d'impôt est égal à 15 %.
+
+Pour les dépenses mentionnées au m du 1, le crédit d'impôt est égal à 50 %.
 
 5 bis. Abrogé.
 
@@ -94,7 +96,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 3° Dans le cas de l'acquisition et de la pose de matériaux d'isolation thermique des parois opaques, la surface en mètres carrés des parois opaques isolées, en distinguant ce qui relève de l'isolation par l'extérieur de ce qui relève de l'isolation par l'intérieur ;
 
-4° Dans le cas de l'acquisition d'équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant une source d'énergie renouvelable, la surface en mètres carrés des équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant l'énergie solaire thermique ;
+4° Dans le cas de l'acquisition et de la pose d'équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant une source d'énergie renouvelable, la surface en mètres carrés des équipements de chauffage ou de fourniture d'eau chaude sanitaire utilisant l'énergie solaire thermique ;
 
 5° Lorsque les travaux d'installation des équipements, matériaux et appareils y sont soumis, les critères de qualification de l'entreprise mentionnée au a du 1 ter ou de l'entreprise sous-traitante lorsque les travaux sont réalisés dans les conditions mentionnées au b du 1 ter ;
 
@@ -102,7 +104,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 7° Lorsque les travaux sont soumis à des critères de qualification, la date de la visite préalable prévue à l'avant-dernier alinéa du 2, au cours de laquelle l'entreprise qui a installé ou posé les équipements, matériaux ou appareils a validé leur adéquation au logement ;
 
-8° Dans le cas de l'acquisition de matériaux d'isolation thermique des parois vitrées, dans les conditions prévues au second alinéa du 2° du b du 1, la mention par l'entreprise que ces mêmes matériaux ont été posés en remplacement de parois en simple vitrage ;
+8° Dans le cas de l'acquisition de matériaux d'isolation thermique des parois vitrées, dans les conditions prévues au 2° du b du 1, la mention par l'entreprise que ces mêmes matériaux ont été posés en remplacement de parois en simple vitrage ;
 
 9° Dans le cas de dépenses payées au titre des droits et frais de raccordement à un réseau de chaleur ou de froid, la mention du coût des équipements de raccordement compris dans ces mêmes droits et frais ;
 
@@ -121,3 +123,5 @@ Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de c
 NOTA :
 
 Conformément aux dispositions du A du II de l'article 79 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 200 quater s'appliquent aux dépenses payées à compter du 1er janvier 2018.Se reporter aux dispositions du B du II du même article 79 en ce qui concerne les spécificités d'application de l'article 200 quater.
+
+Conformément au III de l'article 182 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions s'appliquent à compter du 1er janvier 2019. Toutefois, l'article 200 quater du code général des impôts, dans sa rédaction applicable aux dépenses mentionnées au premier alinéa du 1° du b et au g du 1 de l'article 200 quater payées en 2018, s'applique également aux dépenses de même nature payées en 2019, pour lesquelles le contribuable justifie de l'acceptation d'un devis et du versement d'un acompte au plus tard le 31 décembre 2018.
