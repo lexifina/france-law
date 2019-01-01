@@ -18,50 +18,48 @@ FOYER |
 
 MONTANT
 
-(en euros)
-
-|
+(en euros) |
 
 Personne seule sans personne à charge |
 
-4 562 |
+4 575 |
 
 Couple sans personne à charge |
 
-6 534 |
+6 553 |
 
 Personne seule ou couple ayant : |
 
 |
 
-- une personne à charge |
+-une personne à charge |
 
-7 793 |
+7 816 |
 
-- deux personnes à charge |
+-deux personnes à charge |
 
-7 969 |
+7 992 |
 
-- trois personnes à charge |
+-trois personnes à charge |
 
-8 274 |
+8 298 |
 
-- quatre personnes à charge |
+-quatre personnes à charge |
 
-8 581 |
+8 606 |
 
-- cinq personnes à charge |
+-cinq personnes à charge |
 
-8 886 |
+8 912 |
 
-- six personnes à charge |
+-six personnes à charge |
 
-9 192 |
+9 219 |
 
-- par personne à charge supplémentaire |
+-par personne à charge supplémentaire |
 
 305 |
 
 NOTA :
 
-Conformément à l'article 16 de l'arrêté du 28 septembre 2017, les présentes dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2017.
+Conformément à l'article 8 de l'arrêté du 27 décembre 2018, les présentes dispositions sont applicables pour les prestations dues à compter du 1er janvier 2019.
