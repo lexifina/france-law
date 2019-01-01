@@ -584,6 +584,24 @@ De laine noire, avec un galon d'argent. |
 
 Blanche, plissée. |
 
+Assesseurs (L. 211-16 et L. 311-16)
+
+MÉDAILLE |
+
+MÉTAL |
+
+AVERS |
+
+RUBAN |
+
+D'un module de 45 mm sur 65 mm, suspendue à un ruban, en sautoir. |
+
+Doré. |
+
+Comportant la mention “ République française ” et la mention du nom de la juridiction à laquelle ils appartiennent entourant le motif d'une balance sur un fond noir et rouge. |
+
+Largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire et verte. |
+
 Directeurs des services de greffe judiciaires et greffiers
 
 AUDIENCE |
