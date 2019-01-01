@@ -24,7 +24,7 @@ III.-Aux seules prestations en nature des assurances maladie et maternité dans 
 
 Article 1er-2
 
-Ayant droit
+Autres bénéficiaires
 
 Ont droit, sous réserve de l'application des règles de maintien des droits et de coordination prévues à la sous-section 2 de la section I du chapitre Ier du titre VI du livre Ier du code de la sécurité sociale et au chapitre II du titre VII du livre Ier du même code :
 
@@ -32,35 +32,25 @@ I.-Au titre des prestations de l'assurance maladie :
 
 1° Les membres de la famille ayants droit au titre de l'assurance maladie des personnes mentionnées au précédent article sont les suivants :
 
-a) Le conjoint légitime de l'affilié lorsqu'il ne peut pas bénéficier par lui-même de la qualité d'assuré social ;
+a) Les enfants mentionnés au 5° de l'article D. 160-14 du code de la sécurité sociale dans les conditions prévues à l'article L. 160-2 du même code ;
 
-b) Les enfants âgés de moins de 21 ans, célibataires, de l'affilié ou de son conjoint ;
+b) Les enfants affiliés au régime spécial qui dépassent au 1er septembre 2018 l'âge mentionné au 5° de l'article D. 160-14, lorsqu'ils poursuivent leurs études dans un établissement d'enseignement supérieur dans les conditions définies à l'article L. 351-14-1 du code de la sécurité sociale, jusqu'à qu'ils aient atteint l'âge de vingt-huit ans ;
 
-c) Les enfants âgés de moins de 21 ans, célibataires, recueillis par l'affilié (ou pupilles de la nation dont l'affilié est tuteur) et à la charge de celui-ci ;
+c) à f) (Abrogés)
 
-d) Les enfants âgés de plus de 21 ans, valides, de l'affilié veuf et invalide (ou de son conjoint), célibataires ou veufs et qui remplissent la double condition d'habiter chez l'affilié et d'être à sa charge ;
+g) Les enfants célibataires âgés de plus de 24 ans de l'affilié ou de son conjoint, habitant chez l'agent ou chez l'ancien agent retraité, et à la charge de celui-ci, qui sont atteints d'une affection grave nécessitant un traitement de longue durée en cours au moment où ils atteignent leur 24e anniversaire et qui les met dans l'incapacité temporaire de travailler, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
 
-e) Les enfants célibataires âgés de plus de 21 ans de l'affilié ou de son conjoint, à la charge de l'affilié ou orphelins de l'affilié ou de son conjoint et qui poursuivent leurs études dans un établissement d'enseignement supérieur dans les conditions définies aux articles L. 381-4 et L. 381-5 du code de la sécurité sociale et dans la limite de l'âge défini aux articles R. 381-5, R. 381-7, R. 381-8 et R. 381-9 du même code ;
+h) Les enfants âgés de plus de 24 ans de l'affilié ou de son conjoint, atteints, au moment de leur 24e anniversaire, d'une incapacité permanente de travailler médicalement attestée et à la charge de l'agent ou de l'ancien agent retraité, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
 
-f) Les enfants célibataires âgés de plus de 21 ans de l'affilié ou de son conjoint, à la charge de l'affilié, ou orphelins de l'affilié ou de son conjoint, poursuivant des études en alternance ou en apprentissage, dans la limite de l'âge défini à l'alinéa précédent ;
-
-g) Les enfants célibataires âgés de plus de 21 ans de l'affilié ou de son conjoint, habitant chez l'agent ou chez l'ancien agent retraité, et à la charge de celui-ci, qui sont atteints d'une affection grave nécessitant un traitement de longue durée en cours au moment où ils atteignent leur 21e anniversaire et qui les met dans l'incapacité temporaire de travailler, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
-
-h) Les enfants âgés de plus de 21 ans de l'affilié ou de son conjoint, atteints, au moment de leur 21e anniversaire, d'une incapacité permanente de travailler médicalement attestée et à la charge de l'agent ou de l'ancien agent retraité, dans la mesure où ils ne sont pas susceptibles d'être couverts par un régime de sécurité sociale ;
-
-i) L'ascendant, le descendant, le collatéral jusqu'au troisièmpe degré ou l'allié au même degré de l'affilié, qui vit sous le toit de celui-ci et qui se consacre exclusivement aux travaux du ménage et à l'éducation d'au moins deux enfants de moins de 14 ans à la charge de l'agent ou de l'ancien agent retraité.
+i) (Abrogé)
 
 2° Peuvent également être admis en qualité d'ayant droit dans les conditions prévues aux articles L. 161-14 et R. 161-8-1 du code de la sécurité sociale :
 
-j) La personne ayant conclu un pacte civil de solidarité avec l'affilié et à sa charge effective, totale et permanente, lorsqu'elle ne peut pas bénéficier par elle-même de la qualité d'assuré social ;
-
-k) La personne qui vit maritalement avec l'affilié célibataire, veuf, séparé ou divorcé et à sa charge effective, totale et permanente, lorsqu'elle ne peut bénéficier par elle-même de la qualité d'assuré social ;
-
-l) La personne, non visée ci-dessus, qui vit depuis au moins un an avec l'affilié et qui est à sa charge effective, totale et permanente.
+j) à l) (Abrogés)
 
 II.-Au titre des prestations de l'assurance maternité :
 
-Les ayants droit à l'assurance maternité sont les personnes définies aux a, b, c, e, f, j, k et l du 1° du présent article.
+Les personnes mentionnées aux a et b du 1° du I.
 
 III. - Au titre des prestations de l'assurance décès et de la prestation spéciale d'accompagnement :
 
@@ -72,9 +62,9 @@ Pour l'application des 1° et 2° du présent article, sont considérés comme �
 
 V.-Dispositions diverses :
 
-L'ouvrant droit au titre d'un droit à pension de vieillesse dérivé n'ouvre pas la qualité d'ayant droit aux personnes visées aux points 1,10 et 11 du I du présent article ni à leurs enfants.
+Les dispositions du présent article ne s'appliquent qu'aux enfants mentionnés au a du 1° du I et à ceux mentionnés aux b, g et h du 1° du I lorsque l'affilié l'est au titre d'un droit à pension de vieillesse dérivé.
 
-Les personnes de nationalité étrangère ne peuvent être admises en qualité d'ayant droit que si elles répondent aux dispositions des articles L. 161-25-2 et R. 111-2 du code de la sécurité sociale.
+Les personnes de nationalité étrangère ne peuvent être admises en qualité d'ayant droit que si elles répondent aux dispositions des articles L. 161-25-2 et R. 115-6 du code de la sécurité sociale.
 
 Chapitre 2
 
@@ -220,7 +210,7 @@ Une allocation journalière d'un montant égal à 1/21 de celui de l'allocation 
 
 VI.-Prestations différentielles en matière d'hospitalisation :
 
-L'agent ou l'ancien agent retraité ouvrant droit aux prestations de prévoyance visées au 2° du III de l'article 1er du décret du 7 mai 2007 reçoit, pour les membres de la famille mentionnés aux a à i de l'article 1.2 de la présente annexe et relevant d'un autre régime de sécurité sociale, le différentiel entre les prestations garanties par le régime spécial de prévoyance du personnel de la SNCF, SNCF Réseau et SNCF Mobilités en matière d'hospitalisation et celles servies par le régime de sécurité sociale dont relèvent les intéressés.
+L'agent ou l'ancien agent retraité ouvrant droit aux prestations de prévoyance visées au 2° du III de l'article 1er du décret du 7 mai 2007 reçoit, pour les membres de la famille mentionnés aux a, b, g et h du 1° du I de l'article 1.2 de la présente annexe et relevant d'un autre régime de sécurité sociale, le différentiel entre les prestations garanties par le régime spécial de prévoyance du personnel de la SNCF, SNCF Réseau et SNCF Mobilités en matière d'hospitalisation et celles servies par le régime de sécurité sociale dont relèvent les intéressés.
 
 A compter du décès de l'agent ou de l'ancien agent retraité, le conjoint survivant perçoit ce différentiel s'il y avait droit au jour du décès.
 
@@ -302,9 +292,11 @@ Décès d'un enfant
 
 Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, reçoivent une allocation égale à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe, en cas de décès :
 
-- d'un enfant de moins de 21 ans ayant la qualité d'ayant droit ; l'enfant mort-né ayant fait l'objet d'une déclaration à l'état civil ouvre droit à l'allocation ;
+- d'un des enfants mentionnés au I de l'article 1er-2 de la présente annexe ;
 
-- d'un enfant de plus de 21 ans maintenu, en application de l'article 1er-2 de la présente annexe, au rang d'ayant droit pour les prestations de l'assurance maladie en raison, soit de sa qualité d'étudiant, soit d'une maladie incurable ou d'une infirmité entraînant une incapacité permanente de travailler, soit d'une affection grave nécessitant un traitement de longue durée en cours au moment où il atteint son 21e anniversaire et qui le met dans l'incapacité temporaire de travailler.
+- de l'enfant mort-né ayant fait l'objet d'une déclaration à l'état civil.
+
+Ces dispositions s'appliquent également à l'enfant du conjoint.
 
 Article 4-5
 
@@ -336,7 +328,7 @@ Article 4-8
 
 Décès d'un ayant droit relevant d'un autre régime
 
-Lorsqu'un ayant droit, mentionné aux articles 4-3 et 4-4 de la présente annexe, est couvert au jour de son décès par un autre régime de sécurité sociale et ouvre droit à des prestations d'assurance décès servies par son régime d'affiliation, l'allocation au décès servie à l'agent ou à l'ancien agent retraité est égale à l'excédent de l'allocation garantie par le régime spécial de la SNCF, SNCF Réseau et SNCF Mobilités sur le montant des prestations décès versé par le régime d'affiliation.
+Abrogé.
 
 Article 4-9
 
@@ -350,7 +342,7 @@ b) Les conjoints titulaires de la réversion d'une des pensions définie aux art
 
 II.-a) Au décès des personnes mentionnées au I a du présent article, leurs ayant droits mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
-b) Au décès des personnes mentionnées au I b du présent article, leurs ayant droits mentionnés à l'article 4.5 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
+b) Au décès des personnes mentionnées au I b du présent article, leurs ayant droits à charge mentionnés à l'article 4.5 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
 Chapitre 5
 
@@ -366,7 +358,7 @@ Lorsqu'un agent en activité, un ancien agent retraité, ou un de leurs ayant dr
 
 En cas d'admission d'un ancien agent retraité ou d'un ayant droit bénéficiaire de l'allocation personnalisée d'autonomie en maison de retraite, en établissement d'hébergement pour personnes âgées dépendantes ou en unité de soins de longue durée, les frais d'hébergement sont pris en charge dans la limite prévue à l'alinéa qui précède.
 
-Cette prestation, non renouvelable, prend effet, en cas d'accord de la caisse, à compter de la date de réception de l'ensemble des éléments nécessaires à l'examen de la demande.
+Cette prestation, non renouvelable, prend effet, en cas d'accord de la caisse, à compter de la date de réception de l'ensemble des éléments nécessaires à l'examen de la demande, qui ne peut être postérieure au décès du bénéficiaire.
 
 II.-Bénéficiaires relevant d'un autre régime de sécurité sociale :
 
