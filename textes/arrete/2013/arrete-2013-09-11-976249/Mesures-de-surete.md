@@ -1440,6 +1440,8 @@ T2
 
 11.2.3.2. : inspection/filtrage du fret et du courrier, et
 
+11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
+
 11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
 
 |
@@ -1862,7 +1864,7 @@ Typologie 2
 
 |
 
-50h15
+59h30
 
 |
 
@@ -1870,7 +1872,7 @@ Typologie 2
 
 |
 
-32h00
+38h00
 
 |
 
@@ -6509,3 +6511,7 @@ Création de la section
 Ancienne section 12-13
 
 |
+
+NOTA :
+
+Se reporter aux modalités d'application prévues aux II et III de l'article 2 de l'arrêté du 14 mai 2018.
