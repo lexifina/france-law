@@ -116,7 +116,7 @@ Le guide de haute montagne :
 
 - met en œuvre des actions de formation et de formation de formateurs ;
 
-- participe aux actions de tutorat, notamment dans le cadre de la formation du brevet d'Etat d'alpinisme ;
+- participe aux actions de tutorat, notamment dans le cadre de la formation du diplôme d'Etat d'alpinisme-guide de haute montagne ;
 
 - évalue l'impact de ses interventions ;
 
