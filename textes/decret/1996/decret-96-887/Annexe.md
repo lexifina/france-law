@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27, 64, 64-1, 64-1-2, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat des dotations annuelles correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27, 64, 64-1, 64-1-2, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat une dotation annuelle correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
@@ -318,13 +318,11 @@ Article 36
 
 La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire ainsi qu'au Conseil national des barreaux et à l'Union nationale des caisses des règlements pécuniaires des avocats :
 
-1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 118 du décret du 19 décembre 1991 précité ;
+1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 117-1-1 du décret du 19 décembre 1991 précité ;
 
 2° Les résultats du compte Emploi des produits financiers et des comptes Rétributions particulières ;
 
-3° Les états récapitulatifs visés à l'article 12 et à l'article 26 établis selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice ;
-
-4° Le rapport du commissaire aux comptes établi conformément à l'article 117-1 du décret susmentionné.
+3° Les états récapitulatifs visés à l'article 12 et à l'article 26 établis selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice.
 
 Article 37
 
