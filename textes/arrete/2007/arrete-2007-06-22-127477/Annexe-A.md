@@ -2,7 +2,9 @@
 
 ORGANISMES OU AUTORITÉS
 
-dont relèvent les personnes habilitées |
+dont relèvent les personnes habilitées
+
+|
 
 PERSONNES HABILITÉES |
 
@@ -166,13 +168,13 @@ Commandants des formations administratives (5) |
 
 MAPA × 0,66 |
 
-Direction générale de l'armement |
+Direction générale de l'armementDirecteur |
 
 |
 
-Directeur de l'agence de l'innovation de défense |
+de l'agence de l'innovation de défenseMAPA |
 
-MAPA x 25 |
+x 25 |
 
 Direction des opérations |
 
@@ -232,13 +234,13 @@ Chef du quartier général |
 
 MAPA × 1 (10) |
 
-Service militaire volontaire-volontariat militaire d'insertion |
+Service militaire volontaire |
 
-Commandement du service militaire volontaire-volontariat militaire d'insertion |
+Commandement du service militaire volontaire |
 
 MAPA × 10 (11) |
 
-(1) L'expression "MAPA x" s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l' article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
+(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l' article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
@@ -258,4 +260,6 @@ MAPA × 10 (11) |
 
 (10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
 
-(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
+(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle.
+
+|
