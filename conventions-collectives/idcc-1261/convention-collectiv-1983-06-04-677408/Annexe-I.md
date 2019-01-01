@@ -1,5 +1,9 @@
 # Article Annexe I
 
+Annexe I
+
+Tableau de garanties ALISFA
+
 Remboursement total dans la limite des frais réels inclus remboursement sécurité sociale (sauf pour les forfaits).
 
 Garanties bases conventionnelles |
@@ -10,7 +14,7 @@ Base + option 1 |
 
 Base + option 2 |
 
-Frais d'hospitalisation limite annuelle de 25 % du pass par an et par bénéficiaire pour le non conventionné (hors ticket modérateur)
+Frais d'hospitalisation limite annuelle de 25 % du PASS par an et par bénéficiaire pour le non conventionné (hors ticket modérateur)
 
 |
 
@@ -22,9 +26,7 @@ Frais de séjour |
 
 300 % BR |
 
-Honoraires (signataires OPTAM*/ OPTAM CO*)
-
-|
+Honoraires (signataires OPTAM*/ OPTAM CO*) |
 
 220 % BR |
 
@@ -50,13 +52,37 @@ Honoraires (non signataires OPTAM*/ OPTAM CO*) |
 
 Actes de chirurgie (ADC) |
 
+|
+
+|
+
+|
+
 Actes d'anesthésie (ADA) |
+
+|
+
+|
+
+|
 
 Actes d'obstétrique (ACO) |
 
+|
+
+|
+
+|
+
 Actes techniques médicaux (ATM) |
 
-Forfait Hospitalier |
+|
+
+|
+
+|
+
+Forfait hospitalier |
 
 100 % FR |
 
@@ -140,21 +166,13 @@ Consultation – visites : spécialistes non signataires OPTAM*/ OPTAM CO* |
 
 200 % BR |
 
-Médecine douce : (acupuncture, ostéopathie, étiopathie …)
+Médecine douce : acupuncture, ostéopathie, étiopathie, homéopathie (praticiens reconnus par les annuaires professionnels) |
 
-Praticiens reconnus par les annuaires professionnels |
+25 €/ séance dans la limite de 3 séances par an/ bénéficiaire |
 
-25 €/ séance dans la limite de
+25 €/ séance dans la limite de 5 séances par an/ bénéficiaire |
 
-3 séances par an/ bénéficiaire |
-
-25 €/ séance dans la limite de
-
-5 séances par an/ bénéficiaire |
-
-50 €/ séance dans la limite de
-
-5 séances par an/ bénéficiaire |
+50 €/ séance dans la limite de 5 séances par an/ bénéficiaire |
 
 Pharmacie |
 
@@ -188,9 +206,7 @@ Auxiliaires médicaux |
 
 175 % BR |
 
-Actes de petite chirurgie (ADC) et actes techniques médicaux (ATM) signataires
-
-OPTAM*/ OPTAM CO* |
+Actes de petite chirurgie (ADC) et actes techniques médicaux (ATM) signataires OPTAM*/ OPTAM CO* |
 
 145 % BR |
 
@@ -198,9 +214,7 @@ OPTAM*/ OPTAM CO* |
 
 220 % BR |
 
-Actes de petite chirurgie (ADC) et actes techniques médicaux (ATM) non signataires
-
-OPTAM*/ OPTAM CO* |
+Actes de petite chirurgie (ADC) et actes techniques médicaux (ATM) non signataires OPTAM*/ OPTAM CO* |
 
 125 % BR |
 
@@ -208,9 +222,7 @@ OPTAM*/ OPTAM CO* |
 
 200 % BR |
 
-Radiologie, actes d'imagerie médicale (ADI) et actes d'échographie (ADE) signataires
-
-OPTAM*/ OPTAM CO* |
+Radiologie, actes d'imagerie médicale (ADI) et actes d'échographie (ADE) signataires OPTAM*/ OPTAM CO* |
 
 120 % BR |
 
@@ -286,21 +298,27 @@ Onlays/ inlays |
 
 250 % BR |
 
-Orthodontie :
+Orthodontie : |
 
-– acceptée par la sécurité sociale
+|
+
+|
+
+|
+
+– acceptée par la sécurité sociale |
+
+250 % BR |
+
+250 % BR |
+
+350 % BR |
 
 – refusée par la sécurité sociale |
 
-250 % BR
-
 – |
 
-250 % BR
-
 – |
-
-350 % BR
 
 250 % BR |
 
@@ -320,15 +338,47 @@ Implantologie (par an et par bénéficiaire) |
 
 12 % PMSS |
 
-Prothèses dentaires remboursées (1) : limité à 3 prothèses par an et par bénéficiaire (équivalent SPR50) |
+|
+
+|
+
+|
+
+Prothèses dentaires remboursées |
 
 Remboursées par la sécurité sociale : dents du sourire (incisives, canines, prémolaires) |
 
 370 % BR |
 
-470 % BR |
+Dans la limite
+
+de 1 000 €
+
+par an et par
+
+bénéficiaire (1) |
 
 470 % BR |
+
+Dans la limite
+
+de 1 250 €
+
+par an et par
+
+bénéficiaire (1) |
+
+470 %
+
+BR |
+
+Dans la limite
+
+de 1 500 €
+
+par an et
+
+par bénéficiaire (1) |
 
 Remboursées par la sécurité sociale : dents de fond de bouche |
 
@@ -336,7 +386,9 @@ Remboursées par la sécurité sociale : dents de fond de bouche |
 
 320 % BR |
 
-370 % BR |
+370 %
+
+BR |
 
 Inlays-core |
 
@@ -344,13 +396,15 @@ Inlays-core |
 
 200 % BR |
 
-250 % BR |
+250 %
+
+BR |
 
 Optique
 
 |
 
-Conformément au décret n° 204-1374 du 18 novembre 2014, le remboursement du renouvellement d'un équipement optique, composé de 2 verres et d'une monture,
+Conformément au décret n° 2014-1374 du 18 novembre 2014, le remboursement du renouvellement d'un équipement optique, composé de 2 verres et d'une monture,
 
 n'est possible qu'au-delà d'un délai de 24 mois suivant l'acquisition du précédent équipement pour les adultes, ce délai est ramené à 12 mois pour les mineurs ou en cas d'évolution de la vue médicalement constatée. |
 
@@ -434,11 +488,11 @@ Patchs anti-tabac (par an et par bénéficiaire) |
 
 4 % PMSS |
 
-(*) : OPTAM/ OPTAM-CO » : option pratique tarifaire maîtrisée/ option pratique tarifaire maîtrisée – Chirurgie obstétrique. Elles remplacent, à compter du 1er janvier 2017, le contrat d'accès aux soins (CAS).
+(*) : OPTAM/ OPTAM-CO » : option pratique tarifaire maîtrisée/ option pratique tarifaire maîtrisée – chirurgie obstétrique. elles remplacent, à compter du 1er janvier 2017, le contrat d'accès aux soins (CAS).
 
 Les garanties concernées visent toutefois l'ensemble des dispositifs de pratique tarifaire maîtrisée mentionnées à l'article L. 871-1 du code de la sécurité sociale, y compris le CAS durant sa période provisoire de coexistence avec l'OPTAM/ l'OPTAM-CO.
 
-(1) Au-delà des 3 prothèses, la garantie qui s'applique est de 125 % BR pour chaque acte conformément au décret n° 2014-1025 du 8 septembre 2014. |
+(1) au-delà du forfait annuel, la garantie qui s'applique est de 125 % BR pour chaque acte conformément au décret n° 2014-1025 du 8 septembre 2014. |
 
 Grille n° 1 |
 
@@ -456,9 +510,7 @@ LPP
 
 Rbt SS |
 
-Rbt
-
-Ass. |
+Rbt Ass. |
 
 Code LPP |
 
@@ -468,9 +520,7 @@ LPP
 
 Rbt SS |
 
-Rbt
-
-Ass. |
+Rbt Ass. |
 
 Verres simple foyer, sphérique |
 
@@ -492,7 +542,9 @@ Sphère de – 6 à + 6 |
 
 75,00 € |
 
-Sphère de – 6,25 à – 10 ou de + 6,25 à + 10 |
+Sphère de – 6,25 à – 10 ou de + 6,25
+
+à + 10 |
 
 2243304,2243540,2291088,2297441 |
 
@@ -548,7 +600,7 @@ Cylindre < + 4 sphère de – 6 à + 6 |
 
 85,00 € |
 
-Cylindre < + 4 sphère < – 6 ou > b + 6 |
+Cylindre < + 4 sphère < – 6 ou > + 6 |
 
 2219381,2283953 |
 
@@ -584,7 +636,7 @@ Cylindre > + 4 sphère de – 6 à + 6 |
 
 135,00 € |
 
-Cylindre > + 4 sphère < – 6 ou > v + 6 |
+Cylindre > + 4 sphère < – 6 ou > + 6 |
 
 2206800,2245036 |
 
@@ -744,7 +796,9 @@ Sphère de – 6 à + 6 |
 
 90,00 € |
 
-Sphère de – 6,25 à – 10 ou de + 6,25 à + 10 |
+Sphère de – 6,25 à – 10 ou de + 6,25 à
+
++ 10 |
 
 2243304,2243540,2291088,2297441 |
 
@@ -780,7 +834,7 @@ Sphère < – 10 ou > + 10 |
 
 130,00 € |
 
-Verres Simple Foyer, Sphéro-cylindriques |
+Verres simple foyer, sphéro-cylindriques |
 
 Cylindre < + 4 sphère de – 6 à + 6 |
 
@@ -948,7 +1002,7 @@ Monture |
 
 150,00 € |
 
-Grille n° 3 |
+Grille N° 3 |
 
 Mineurs < 18 ans |
 
@@ -958,13 +1012,13 @@ Type de verre |
 
 Code LPP |
 
-LPP < 18 ans |
+LPP
+
+< 18 ans |
 
 Rbt SS |
 
-Rbt
-
-Ass. |
+Rbt Ass. |
 
 Code LPP |
 
@@ -974,9 +1028,7 @@ LPP
 
 Rbt SS |
 
-Rbt
-
-Ass. |
+Rbt Ass. |
 
 Verres simple foyer, sphérique |
 
