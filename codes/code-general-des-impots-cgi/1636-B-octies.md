@@ -14,6 +14,8 @@ A compter des impositions établies au titre de l'année 2016, les recettes que 
 
 A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation sont, pour l'application du I du présent article, minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à l'ensemble des communes situées dans le ressort de l'établissement public foncier.
 
+A compter des impositions établies au titre de l'année 2019, les recettes que la taxe foncière sur les propriétés bâties a procurées sur le territoire de la Ville de Paris sont, pour l'application du I, minorées de la part que cette taxe a procurée au titre de l'année 2018 au département de Paris.
+
 III. – Le produit fiscal à recouvrer dans chacune des communes membres au profit d'un syndicat de communes est réparti entre les taxes foncières, la taxe d'habitation et la cotisation foncière des entreprises proportionnellement aux recettes que chacune de ces taxes procurerait à la commune si l'on appliquait les taux de l'année précédente aux bases de l'année d'imposition.
 
 IV. – Pour l'application du III, les recettes afférentes à la cotisation foncière des entreprises sont majorées de la part, calculée à partir du seul taux communal, du montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) et du 1 du III de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), indexé chaque année comme la dotation forfaitaire prévue par l'article L. 2334-7 du code général des collectivités territoriales, du montant de la compensation prévue pour l'année d'imposition au B de l'article 26 de la loi de finances pour 2003 précitée en contrepartie de la réduction de la fraction imposable des recettes visée au 2° de l'article 1467, ainsi qu'à compter des impositions établies au titre de l'année 2011, de la différence entre, d'une part, la compensation relais communale, versée au titre de l'année 2010 en contrepartie de la suppression de la taxe professionnelle en application du II de l'article 1640 B, afférente aux établissements situés sur le territoire de la commune et, d'autre part, le produit de la cotisation foncière des entreprises au titre de l'année 2010 afférent à ces mêmes établissements.
@@ -28,4 +30,4 @@ Pour l'application du III, le produit fiscal à recouvrer est minoré de la part
 
 NOTA :
 
-Aux termes de l'article 73 II de la loi n° n° 2016-1918 du 29 décembre 2016, ces dispositions s'appliquent à compter des impositions dues au titre de 2018.
+Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter des impositions établies au titre de 2019.
