@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par les directives (UE) 2016/2309 et (UE) 2018/217 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Cet accord, y compris les amendements en vigueur au 1er janvier 2019, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -48,6 +48,8 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
 
+- dispositions spéciales relatives aux transports de certains déchets contaminés par de l'amiante non lié (paragraphe 3.9).
+
 Dispositions particulières relatives à la formation de l'équipage du véhicule (paragraphe 4).
 
 Dispositions relatives aux contrôles des transports par route des marchandises dangereuses (paragraphe 5).
@@ -60,7 +62,7 @@ Lorsqu'il est fait référence à une partie, section, sous-section ou à un par
 
 2. Dispositions particulières applicables à tous les transports par route de marchandises dangereuses
 
-2.1. Missions respectives des différents intervenants lors des opérations de chargement et de déchargement.
+2.1. Missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement
 
 Outre les dispositions prévues au 1.4, les dispositions suivantes s'appliquent. Elles précisent notamment les dispositions des 7.5.1.2 et 7.5.1.3.
 
@@ -120,9 +122,11 @@ Les dispositions du 2.1.1 de la présente annexe I ne s'appliquent pas.
 
 Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou la vidange) de veiller au préalable à ce qu'une formation spécifique du conducteur à l'usage de ce type d'installation ait été assurée. A défaut, l'établissement doit assurer cette formation. Une description détaillée de la formation reçue doit être conservée par le conducteur et par le responsable de l'établissement où s'effectue le remplissage ou la vidange.
 
-2.2. Chargement, déchargement.
+L'établissement au sein duquel s'effectue le remplissage ou la vidange désigne à cet effet un conseiller à la sécurité conformément aux dispositions de l'article 6 du présent arrêté.
 
-2.2.1. Lieux de chargement et de déchargement.
+2.2 Chargement, remplissage, déchargement.
+
+2.2.1. Lieux de chargement, de remplissage et de déchargement.
 
 Les prescriptions suivantes complètent ou modifient les dispositions du 7. 5 et du 8.5, et s'appliquent, sauf cas de force majeure, dès lors que les transports visés dépassent les quantités définies au 1.1.3.6.
 
@@ -160,7 +164,7 @@ Toutefois, sont autorisés :
 
 2.2.1.3. Citernes.
 
-Sont interdits sur la voie publique le chargement ou la vidange de citernes ainsi que la prise d'échantillon dans ces citernes.
+Sont interdits sur la voie publique le remplissage ou la vidange de citernes ainsi que la prise d'échantillon dans ces citernes.
 
 Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au chargement et à la vidange :
 
@@ -184,6 +188,8 @@ Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéde
 
 Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3.5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et/ ou atelier de réparation.
 
+Est autorisée, sous réserve de la décision préfectorale prévue au 2.2.1.4, la vidange d'une ou de plusieurs citernes de transport de gaz naturel liquéfié du n° ONU 1972, aux fins des opérations de soutage d'un navire ou d'un bateau, ou d'alimentation d'un moteur auxiliaire fixe de génération d'électricité placé sur un navire ou un bateau, sur un emplacement relevant de la voie publique situé dans un port maritime ou fluvial.
+
 2.2.1.4. Des dérogations aux dispositions du 2.2.1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2.2.1.2 et 2.2.1.3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
 2.2.2. Conditions de chargement ou de déchargement des citernes.
@@ -206,7 +212,7 @@ Sans préjudice des prescriptions des 8.4 et 8.5, les dispositions suivantes s'a
 
 2.3.1.1. Dispositions relatives aux transports dépassant les quantités définies au 1.1.3.6.
 
-Le véhicule en stationnement doit être garé de façon à éviter au maximum tout risque d'être endommagé par d'autres véhicules ; il doit pouvoir être évacué sans nécessiter de manœuvre.
+Le véhicule en stationnement doit être garé de façon à éviter au maximum tout risque d'être endommagé par d'autres véhicules ; il doit pouvoir être évacué sans nécessiter de manœuvre. Notamment les remorques sont attelées à un véhicule motorisé.
 
 Lorsque le conducteur quitte son véhicule en stationnement, il doit disposer à l'intérieur de la cabine une pancarte bien visible de l'extérieur, sur laquelle sont inscrits :
 
@@ -252,11 +258,11 @@ Sont concernés par les dispositions de la présente section :
 
 et
 
-- dont la capacité est supérieure à trente places de stationnement destinées aux véhicules transportant des marchandises dangereuses, au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1 ci-dessous, ou qui accueillent plus de cinq véhicules transportant des gaz inflammables ou du GPL au sens du tableau 2.3.2.1 ci-dessous.
+- susceptibles d'accueillir habituellement plus de trente véhicules transportant des marchandises dangereuses, au sens et en quantités ou capacités supérieures à celles mentionnées dans le tableau 2.3.2.1 ci-dessous, ou plus de cinq véhicules transportant des gaz inflammables ou du GPL au sens du tableau 2.3.2.1 ci-dessous.
 
 Ces prescriptions s'appliquent, avec les mêmes critères de seuil, aux zones de stationnement de véhicules transportant des marchandises dangereuses dans l'emprise des installations classées pour la protection de l'environnement, sauf règles particulières définies par arrêté ministériel ou fixées par arrêté préfectoral.
 
-Ne sont pas considérés comme stationnant habituellement dans un parc, les véhicules en transit susceptibles d'y stationner de façon exceptionnelle et non programmée pour une durée maximale permettant de satisfaire aux interdictions de circuler (week end, jours fériés …) ou de respecter les prescriptions relatives au temps de repos du conducteur. Ces véhicules, qui ne sont pas pris en compte dans les seuils définis plus haut, peuvent stationner dans les parcs, sans que s'appliquent les prescriptions de la présente section.
+Ne sont pas considérés comme stationnant habituellement dans un parc, les véhicules en transit susceptibles d'y stationner de façon exceptionnelle et non programmée pour une durée maximale permettant de satisfaire aux interdictions de circuler (week end, jours fériés …) ou de respecter les prescriptions relatives au temps de repos du conducteur , ainsi que les véhicules en attente de réparation. Ces véhicules, qui ne sont pas pris en compte dans les seuils définis plus haut, peuvent stationner dans les parcs, sans que s'appliquent les prescriptions de la présente section.
 
 Tableau 2.3.2.1 Liste des marchandises dangereuses
 
@@ -316,13 +322,15 @@ Le parc de stationnement est entouré par une clôture ou un mur, d'une hauteur 
 
 La clôture est assortie d'un dispositif anti-intrusion de type haie ou concertina au sol. La présence d'un mur de hauteur au moins 2,30 m accompagné sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) dispense de cette disposition.
 
-Ce dispositif est mis en place autour du parc. Les accès de la clôture sont verrouillables et répondent à l'une des caractéristiques suivantes :
+Ce dispositif est mis en place autour du parc. Les accès de la clôture sont verrouillables et répondent à l'une des caractéristiques minimales suivantes :
 
-- hauteur minimale de 1,80 m, assortie du dispositif anti-intrusion de type concertina en hauteur ;
+- portail rigide non grillagé, d'une hauteur minimale de 1,80 m, reposant sur un sol en béton ou un sol en revêtement de type routier sur une couche de base en grave lié aptes à supporter le passage de poids lourds de 44 tonnes ;
 
-- hauteur minimale de 2,30 m, accompagnée sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) ;
+- portail d'une hauteur minimale de 1,80 m, assortie du dispositif anti-intrusion de type concertina en hauteur ;
 
-- hauteur minimale de 2,50 m sans dispositif de lutte contre l'intrusion.
+- portail d'une hauteur minimale de 2,30 m, accompagnée sur le dessus d'un dispositif de lutte contre l'intrusion (piques …) ;
+
+- portail d'une hauteur minimale de 2,50 m sans dispositif de lutte contre l'intrusion.
 
 Lorsqu'une zone de stationnement accueillant la totalité des véhicules transportant des gaz inflammables ou toxiques ou du GPL au sens et en quantités ou capacités supérieures à celles du tableau du 2.3.2.1 est identifiable au sein du parc, les dispositions des deux précédents alinéas peuvent être restreintes à cette zone.
 
@@ -446,6 +454,10 @@ Ils actionnent un dispositif sonore qui permet l'alerte du voisinage.
 
 Les surveillants et préposés qui sont amenés à intervenir sur le site, ainsi que, le cas échéant, les conducteurs, bénéficient d'une formation adaptée dans le cadre du chapitre 1.3 de l'ADR. Celle-ci porte sur les procédures définissant la conduite à tenir (lever de doute, alerte de l'exploitant, déclenchement de l'alerte, modalité de mise en œuvre des moyens incendies, informations des services de lutte contre l'incendie incluant plan de stationnement et estimation des quantités de marchandises dangereuses visées au 2.3.2.4.3, modalités d'utilisation des moyens de lutte contre l'incendie …).
 
+2.3.2.9. Rapport annuel du conseiller à la sécurité.
+
+Le rapport annuel du conseiller à la sécurité comprend un recensement des parcs de stationnement de l'entreprise soumis aux présentes dispositions, à la date de la visite de l'entreprise.
+
 2.3.3. Mesures à prendre en cas d'incident ou d'accident.
 
 En complément du 1.4.1.2, les dispositions suivantes s'appliquent :
@@ -480,7 +492,7 @@ b) L'expéditeur.
 
 2.4.1. Agent agréé de convoyage pour le transport de marchandises de la classe 1.
 
-Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositions des articles R. 2352-1, R. 2352-22, R. 2352-47, R. 2352-73 et suivants et R. 2353-2 du code de la défense, les transports de marchandises de la classe 1 dans des unités de transport EX / III en quantités supérieures aux limites fixées dans le tableau du 7. 5. 5. 2. 1 pour les unités de transport EX / II ne peuvent se faire qu'avec la présence à bord d'un agent agréé de convoyage en plus du conducteur.
+Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositions des articles R. 2352-1, R. 2352-22, R. 2352-47, R. 2352-73 et suivants et R. 2353-2 du code de la défense, les transports de marchandises de la classe 1 en quantités supérieures aux limites fixées dans le tableau du 7. 5. 5. 2. 1 pour les unités de transport EX / II ne peuvent se faire qu'avec la présence à bord d'un agent agréé de convoyage en plus du conducteur.
 
 Sont reconnues pour exercer cette fonction :
 
@@ -526,9 +538,9 @@ e) En dehors du personnel de bord, il est interdit de transporter des voyageurs 
 
 2.5.3. Si dans le cadre du calcul des quantités visées au 1.1.3.6 la masse nette de matières ou d'objets affectés au n° ONU 3291 ne peut être connue, les quantités transportées sont exprimées en litres, sur la base de la contenance en eau nominale de chaque emballage remis au transport. Ces informations figurent dans le document de transport prévu au 5.4.1.1.1.
 
-2.6. Dispositions spéciales relatives à la classe 7.
+2.6. Dispositions spéciales relatives aux matières radioactives.
 
-2.6.1. Les unités de transport comprenant au moins un véhicule immatriculé en France et chargées de matières radioactives de la classe 7 doivent être munies de moyens de télécommunication leur permettant d'entrer en liaison avec les services de secours, de gendarmerie ou de police ainsi qu'avec le transporteur, l'expéditeur, le destinataire.
+2.6.1. Les unités de transport comprenant au moins un véhicule immatriculé en France et chargées de matières radioactives sont munies de moyens de télécommunication leur permettant d'entrer en liaison avec les services de secours, de gendarmerie ou de police ainsi qu'avec le transporteur, l'expéditeur, le destinataire.
 
 2.6.2. Une consigne doit préciser au conducteur les numéros de téléphone des services ou entreprises visés au 2.6.1 de la présente annexe I.
 
@@ -566,7 +578,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 3.2. Informations concernant le transport.
 
-3.2.1. Le transport pour compte propre de marchandises dangereuses autres que les matières radioactives, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
+3.2.1. Le transport pour compte propre de marchandises dangereuses autres que les artifices de divertissement selon le 3.4.2 de la présente annexe I et les matières radioactives, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
 
 3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
 
@@ -578,7 +590,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 Pour les transports de marchandises dangereuses effectués à partir du lieu de déchargement des navires les ayant transportées par voie maritime en colis au sens du code maritime international des marchandises dangereuses (code IMDG), il convient de se reporter au 1.1.4.2.2.
 
-3.3. Dispositions spéciales relatives aux transports agricoles.
+3.3. Dispositions spéciales relatives aux transports liés à des activités agricoles.
 
 3.3.1. Les transports effectués à l'aide de véhicules agricoles, tels qu'ils sont définis à l'article R. 311-1 du code de la route, sont assujettis à l'ensemble des dispositions du présent arrêté, sauf dans les cas suivants :
 
@@ -592,13 +604,15 @@ b) Pour les transports de matières ci-après :
 
 - engrais conformes aux normes françaises ou européennes et jusqu'à 12 tonnes par envoi, sauf l'ammoniac ;
 
-- matières de la classe 4.2 des n° s ONU 1363,1374,1386 et 2217, jusqu'à 12 tonnes par envoi ;
+- matières de la classe 4.2 des nos ONU 1363,1374,1386 et 2217, jusqu'à 12 tonnes par envoi ;
 
 - appâts imprégnés de matières toxiques (classe 6.1), jusqu'à 12 tonnes par envoi,
 
-réalisés pour les besoins de son exploitation par un agriculteur ou son employé, âgé au moins de 18 ans, seules s'appliquent les prescriptions concernant l'emballage, le marquage et l'étiquetage des colis (4.1 et 5.2, ou 3.4) et les transports en vrac (7.3).
+réalisés pour les besoins d'activités agricoles, seules s'appliquent les prescriptions concernant l'emballage, le marquage et l'étiquetage des colis (4.1 et 5.2, ou 3.4) et les transports en vrac (7.3) ;
 
-c) Pour les transports des autres marchandises dangereuses réalisés pour les besoins de son exploitation par un agriculteur ou son employé, âgé au moins de 18 ans, la formation prescrite au 8.2.1 n'est pas requise.
+c) Pour les transports des autres marchandises dangereuses réalisés pour les besoins d'activités agricoles, la formation prescrite au 8.2.1 n'est pas requise.
+
+Les transports visés aux b et c ci-dessus ne peuvent être effectués que par des personnes âgées au moins de 18 ans.
 
 3.3.2. Le transport de produits phytopharmaceutiques, conditionnés pour la vente au détail, en quantité nette n'excédant pas 50 kg ou 50 l par unité de transport est exempté des prescriptions du présent arrêté.
 
@@ -610,35 +624,37 @@ En application du 7.5.5.2.3, le transport d'explosifs du groupe de compatibilit�
 
 3.4.2. Transport des artifices de divertissement.
 
-Sans préjudice des autres dispositions du présent arrêté, les prescriptions suivantes complètent ou modifient les dispositions des 5.4.1.1, 7.2.4, 8.1.2 et 8.2. Elles sont applicables aux transports des artifices de divertissement dont la masse nette totale de matière explosible contenue dans le chargement ne dépasse pas :
+Sans préjudice des autres dispositions du présent arrêté, les artifices de divertissement dont la masse nette totale de matière explosible contenue dans le chargement excède les limites définies au 1.1.3.6 mais ne dépasse pas :
 
-- 100 kg pour l'ensemble des artifices des n os ONU 0333, 0334 et 0335 ;
+-100 kg pour l'ensemble des artifices des nos ONU 0333,0334 et 0335 ;
 
-- 333 kg pour l'ensemble des artifices des n os ONU 0333, 0334, 0335 et 0336, sans dépasser la limite de 100 kg mentionnée à l'alinéa précédent.
+-333 kg pour l'ensemble des artifices des nos ONU 0333,0334,0335 et 0336, sans dépasser la limite de 100 kg mentionnée à l'alinéa précédent,
+
+peuvent être transportés sous le régime d'exemption du 1.1.3.6 à condition de respecter les dispositions complémentaires des 3.4.2.1 à 3.4.2.3 suivants.
 
 3.4.2.1. Documents de bord.
 
 Lorsque, conformément aux 3.4.2.2 et 3.4.2.3 de la présente annexe I ci-après, les dispositions des 7.2.4 et 8.2 ne sont pas entièrement respectées, le document de transport prévu au 5.4.1.1 doit porter la mention suivante : Transport effectué selon le 3.4.2 de l'annexe I de l'arrêté TMD.
 
-En outre, dans ce cas, le certificat de formation du conducteur visé au 3.4.2.3 de la présente annexe I et les certificats de classement au transport des artifices chargés dans le véhicule doivent être joints aux autres documents de bord prescrits au 8.1.2.
+En outre, dans ce cas, le certificat de formation du conducteur visé au 3.4.2.3 de la présente annexe I et les certificats d'agrément de classification des artifices chargés dans le véhicule doivent être joints aux autres documents de bord prescrits au 8.1.2.
 
 3.4.2.2. Véhicules utilisés.
 
-A défaut d'utiliser des véhicules agréés EX / II comme le prévoit la disposition spéciale V2 au 7.2.4, les transports doivent être effectués dans des véhicules à moteur qui répondent aux conditions suivantes :
+Les transports sont effectués dans des véhicules agréés EX/ II ou des véhicules à moteur qui répondent aux conditions suivantes :
 
-- le véhicule doit être couvert et doté d'un compartiment de chargement sans fenêtre, séparé de la cabine par une cloison continue qui peut être d'origine ou aménagée par l'exploitant, mais sans être nécessairement étanche ;
+- le véhicule est couvert et doté d'un compartiment de chargement sans fenêtre, séparé de la cabine par une cloison continue qui peut être d'origine ou aménagée par l'exploitant, mais sans être nécessairement étanche ;
 
-- les ouvertures doivent être fermées par des portes ou des panneaux ajustés verrouillables ;
+- les ouvertures sont fermées par des portes ou des panneaux ajustés verrouillables ;
 
-- le moteur doit être un moteur à allumage par compression.
+- le moteur est un moteur à allumage par compression.
 
 3.4.2.3. Formation du conducteur.
 
-A défaut d'être titulaire du certificat de formation défini au 8.2 et comportant la spécialisation pour le transport des matières et objets de la classe 1, le conducteur doit posséder :
+Le conducteur est titulaire du certificat de formation défini au 8.2 comportant la spécialisation pour le transport des matières et objets de la classe 1, ou à défaut il possède :
 
-- soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé délivré en application des dispositions de l'arrêté du 17 mars 2008 relatif à la mise en œuvre des artifices de divertissement du groupe K4 ;
+-soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé ;
 
-- soit un certificat de formation spécifique délivré par un organisme agréé à délivrer pour la classe 1 les certificats de formation conformes au 8.2. Ce certificat s'inspire du modèle figurant au 8.2.2.8.3 de l'ADR applicable jusqu'au 31 décembre 2010. Les conditions de validité et de renouvellement de ce certificat sont les mêmes que celles des certificats conformes au 8.2.
+-soit un certificat de formation spécifique délivré par un organisme agréé à délivrer pour la classe 1 les certificats de formation conformes au 8.2. Ce certificat s'inspire du modèle figurant au 8.2.2.8.3 de l'ADR applicable jusqu'au 31 décembre 2010. Les conditions de validité et de renouvellement de ce certificat sont les mêmes que celles des certificats conformes au 8.2.
 
 Le contenu de la formation spécifique visée ci-dessus doit au moins comporter les éléments suivants :
 
@@ -658,13 +674,9 @@ g) Exercices d'extinction de feu.
 
 La durée minimale des formations initiale et de recyclage est de huit séances au sens du 4 de la présente annexe I.
 
-3.4.2.4. Plans de sûreté.
-
-Les dispositions relatives au 1.10.3.2 ne s'appliquent pas à ces transports.
-
 3.5. Dispositions spéciales relatives aux réservoirs fixes de stockage de GPL.
 
-Les réservoirs fixes de stockage, d'un volume n'excédant pas 8 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a du n° ONU 1965 peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou atelier de réparation, si la masse du réservoir et du produit contenu est inférieure ou égale à 1 600 kg. Dans ce cas :
+Les réservoirs fixes de stockage, d'un volume n'excédant pas 8 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a du n° ONU 1965 peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou atelier de réparation ainsi que pour leur trajet de retour, si la masse du réservoir et du produit contenu est inférieure ou égale à 1 600 kg. Dans ce cas :
 
 1. Les unités de transport sont de type FL, tel que défini au 9.1.1.2. Les véhicules dont la date de première mise en circulation est postérieure au 30 juin 1993 sont soumis aux dispositions du 3.6 de la présente annexe I.
 
@@ -694,7 +706,89 @@ Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou
 
 3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange.
 
-Pour les unités de transport qui transportent des marchandises dangereuses correspondant à un seul numéro ONU, il est permis d'indiquer sur les panneaux de couleur orange prescrits au 5.3.2.1.1 le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
+Dans le cas du transport des marchandises dangereuses correspondant à un seul numéro ONU et qui ne sont pas destinés à être transportés sous utilisation exclusive, il est permis d'indiquer, sur les panneaux de couleur orange situés à l'avant et à l'arrière de l'unité de transport et prescrits au 5.3.2.1.1, le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
+
+3.9. Dispositions spéciales relatives au transport de déchets issus de chantiers routiers ou de de chantiers de démolition ou de réhabilitation d'immeubles sinistrés, contaminés par l'amiante non lié des n° ONU 2212 ou 2590
+
+Par dérogation aux dispositions du chapitre 7.3 et de la colonne (17) du Tableau A du chapitre 3.2 de l'ADR et sous réserve de respecter les prescriptions suivantes, le transport en vrac de déchets ou objets visés au 3.9.1 ci-dessous est autorisé dans des véhicules découverts, depuis le chantier de travaux routiers ou le chantier de désamiantage ou de réhabilitation d'ouvrages ou d'immeubles sinistrés où ces déchets sont générés vers un centre agréé de stockage de déchets. Les dispositions des codes VC1 à VC3 du 7.3.3 de l'ADR ne sont pas applicables.
+
+3.9.1. Déchets admissibles
+
+Sont admissibles exclusivement :
+
+- les déchets solides issus de chantiers routiers, tels que fraisats d'enrobés, etc., contaminés par l'amiante non lié ;
+
+ou
+
+- les déchets solides contaminés par l'amiante non lié issus de chantiers de démolition ou de réhabilitation d'ouvrages ou d'immeubles après sinistre. Ces déchets comprennent :
+
+- des terres contaminées par l'amiante non lié après sinistre, ou
+
+- des déchets de chantiers ou des objets contaminés par l'amiante non lié provenant d'ouvrages ou d'immeubles sinistrés, si leurs dimensions ou leur masse les rendent compatibles avec les prescriptions du 3.9.2 ci dessous.
+
+La méthode d'emballage visée au 3.9.2 ci dessous n'est utilisée que si les déchets de chantiers ou les objets contaminés par l'amiante non lié visés ci-dessus ne peuvent, du fait de leurs dimensions, être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
+
+Il est interdit de mélanger aux déchets emballés selon la méthode visée au 3.9.2 ci-dessous des déchets (par exemple déchet de flocage contenant de l'amiante non lié) ou des objets (par exemple équipement de protection individuelle contaminé par l'amiante non lié) qui, du fait de leurs dimensions, peuvent être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
+
+Il est interdit de mélanger aux déchets emballés selon la méthode visée au 3.9.2 d'autres déchets, solides ou non, dangereux ou non, non contaminés par de l'amiante non lié.
+
+3.9.2. Méthode d'emballage
+
+Les déchets visés au 3.9.1 ci-dessus sont emballés dans des grands sacs dits “ conteneurs-bags ”, aux dimensions d'une benne, conformes aux dispositions des 4.1.1.1,4.1.1.2 et 4.1.1.6 de l'ADR. Il est interdit d'utiliser plusieurs conteneurs-bags de dimensions plus réduites dans une même benne pour le transport des déchets visés au 3.9.1.
+
+Les conteneurs-bags visés plus haut sont constitués au minimum de deux enveloppes, solidaires ou non. L'enveloppe intérieure est rendue étanche aux poussières afin d'empêcher la libération de fibres d'amiante en quantité dangereuse pendant le transport. L'enveloppe extérieure assure une fonction de résistance mécanique du conteneur-bag chargé avec les déchets, face aux chocs et aux sollicitations habituelles en cours de transport, notamment lors du transbordement de la benne chargée de son conteneur bag entre engins de transports ou entre engins de transport et entrepôts.
+
+Les conteneurs-bags résistent également au poinçonnement ou à la déchirure que les déchets ou objets contaminés visés au 3.9.1 qui y sont emballés sont susceptibles de provoquer du fait de leurs angles ou aspérités.
+
+Les conteneurs-bags disposent d'un système de fermeture suffisamment étanche pour éviter l'envol de fibres d'amiante en quantité dangereuse pendant le transport.
+
+La masse maximale de déchets par emballage indiquée par le fabricant du conteneur-bag pour la résistance de ce dernier est respectée.
+
+Les déchets issus de chantiers routiers contaminés par l'amiante non lié ou les terres contaminées par l'amiante non lié sont emballés dans un conteneur-bag unique, à condition de respecter la masse maximale admissible de déchets ainsi emballés définie plus haut.
+
+Les déchets ou objets contaminés par l'amiante non lié, issus de chantiers de réhabilitation ou de démolition d'ouvrages ou d'immeubles sinistrés sont emballés dans un emballage constitué par un conteneur-bag doublé d'un second du même type. La masse totale de déchets ainsi emballés est limitée à 7 tonnes maximum par emballage ainsi constitué.
+
+3.9.3. Chargement-déchargement
+
+Les engins de transport sont équipés de bennes amovibles de type “ ampli roll ” ou de bennes “ TP ”. Les bennes équipées de systèmes de fermeture automatique des portes arrières ainsi que les bennes à enrochement sont prohibées. Les bennes ne comportent aucune aspérité intérieure (échelle intérieure …) susceptible de déchirer l'emballage lors du déchargement.
+
+Lors d'un transbordement, toute manoeuvre visant à transférer un conteneur-bag chargé de déchets d'une benne dans une autre est interdite.
+
+La procédure de chargement et de déchargement des conteneurs-bags répond aux prescriptions relatives à la protection des travailleurs contre le risque d'exposition à l'amiante prévues par les articles R. 4412-94 et suivants du code du travail.
+
+Le déchargement des conteneurs-bags s'effectue de préférence avec la benne de transport déposée à terre.
+
+Le déchargement par bennage de conteneurs-bag chargés de déchets de chantier ou d'objets contaminés par l'amiante non lité issus d'ouvrages ou d'immeubles sinistrés est interdit.
+
+Le bennage de conteneurs-bags chargés de déchets issus de chantiers routiers contaminés par l'amiante non lié ou de terres contaminées par l'amiante non lié est autorisé, à condition de respecter un protocole de déchargement établi conjointement par l'entreprise de transport et l'exploitant du centre agréé de stockage agréé, visant à se prémunir de tout déchirement de l'emballage lors du déchargement.
+
+3.9.4. Prescriptions complémentaires
+
+Chaque transport fait l'objet d'un “ chargement complet ” au sens du 1.2.1.
+
+Le document de transport visé au 5.4.1 comprend, outre la désignation officielle de transport pour l'amiante, les mentions suivantes :
+
+-“ Déchets de chantiers routiers contaminés à l'amiante non lié ” ou “ Déchets de chantier de réhabilitation après sinistre contaminés à l'amiante non lié ” ou “ Déchets de chantier de démolition après sinistre contaminés à l'amiante non lié ” selon le cas,
+
+-“ Transport effectué selon les dispositions du 3.9 de l'annexe I de l'arrêté TMD ”,
+
+- Adresse de départ (adresse du chantier de travaux publics ou de désamiantage après sinistre) et adresse d'arrivée (adresse du centre agréé de stockage de déchets) du transport.
+
+S'il est utilisé en lieu et place du document de transport visé ci-dessus, le bordereau d'élimination des déchets comprendra, outre la désignation officielle de transport pour l'amiante non lié, la mention “ Déchet contenant de l'amiante non lié, transport selon le 3.9 de l'annexe I de l'arrêté TMD ”.
+
+Le document de transport ou le bordereau d'élimination des déchets susvisé est en outre accompagné des documents suivants :
+
+- copie de la fiche technique du type de conteneur-bag utilisé, à en-tête du fabricant ou du distributeur des conteneurs-bags, mentionnant les dimensions de cet emballage ainsi que la masse maximale de déchets à laquelle il résiste ;
+
+- copie du certificat d'acceptation préalable des déchets visé à l'article 8 de l'arrêté du 30 décembre 2002 relatif au stockage de déchets dangereux, émis par le centre agréé de stockage de déchets destinataire du transport. Ce certificat d'acceptation préalable mentionne explicitement l'adresse du chantier de travaux publics routiers ou de désamiantage après sinistre d'où les déchets transportés sont issus ainsi que le mode d'emballage (simple ou double conteneur-bag) prévu par la méthode visée au 3.9.2 ci-dessus ;
+
+- copie le cas échéant de la procédure de déchargement visée au 3.9.3 ci-dessus selon le cas.
+
+Les conteneurs-bags sont dispensés du marquage et de l'étiquetage visés au chapitre 5.2 de l'ADR. Un ou plusieurs marquages conformes à l'annexe I du décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de l'amiante apparaissent de manière visible sur les conteneurs-bags.
+
+Le véhicule de transport respecte les prescriptions de placardage des 5.3.1.1 et 5.3.1.4 et de signalisation du 5.3.2.
+
+Les autres prescriptions de l'ADR applicables au transport d'amiante non lié sont respectées.
 
 4. Dispositions particulières relatives à la formation de l'équipage du véhicule.
 
@@ -826,16 +920,6 @@ Spécialisation produits pétroliers
 
 4.4.3. Le conducteur titulaire d'un certificat de formation spécialisée peut suivre une formation de recyclage restreinte dont le champ est entièrement couvert par son certificat précédent. Dans ce cas, le certificat est renouvelé pour les spécialisations couvertes par le recyclage.
 
-4.5. Dispositions transitoires concernant les certificats de formation.
-
-4.5.1. (supprimé)
-
-4.5.2. (supprimé)
-
-4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations " citernes " ou " citernes gaz " en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation " citernes " étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20.
-
-4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations " citernes " et " citernes gaz " en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation " citernes " étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus.
-
 5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
 
 5.1. Les contrôles mentionnés au 1.8.1 sont effectués conformément à l'article 3 du règlement (CEE) n° 4060/89 et à l'article 1er du règlement (CEE) n° 3912/92, ainsi qu'aux dispositions des 5.1 à 5.6 de la présente annexe I.
@@ -957,9 +1041,3 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
-
-NOTA :
-
-Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
-
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.

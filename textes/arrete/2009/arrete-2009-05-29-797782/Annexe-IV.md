@@ -30,7 +30,7 @@ APPENDICE IV.1 : DISPOSITIONS RELATIVES AUX FLEXIBLES
 
 Les flexibles utilisés pour le remplissage ou la vidange des citernes de transport de matières dangereuses à l'état liquide satisfont aux prescriptions du présent appendice.
 
-Ne sont pas visés les flexibles construits à double paroi sous vide et les manchettes anti-vibrations.
+Ne sont pas visés les flexibles construits à double paroi sous vide, ainsi que les manchettes anti-vibrations d'une longueur inférieure à 50 cm.
 
 1.2. Définitions.
 
@@ -46,9 +46,9 @@ Dans les prescriptions qui suivent, on entend par :
 
 (3-2) Variantes du type : diamètre, épaisseur et longueur du tuyau, type et matières des raccords, matières des tuyaux s'ils sont entièrement métalliques ;
 
-(4) Constructeur : personne physique ou morale qui a la responsabilité de la conception et de la réalisation du flexible ;
+(4) “Supprimé” ;
 
-(5) Fabricant : personne physique ou morale qui a confectionné le tuyau ;
+(5) “Supprimé” ;
 
 (6) Pms (pression maximale de service) : valeur maximale de la pression effective qui peut être atteinte sans être dépassée lors de l'utilisation ;
 
@@ -56,7 +56,7 @@ Dans les prescriptions qui suivent, on entend par :
 
 (8) Epreuve d'étanchéité : épreuve consistant à soumettre le flexible à une pression effective égale à la pression maximale de service mais au moins égale à 400 kPa (4 bar) ;
 
-(9) Etat descriptif : document établi par le constructeur et validé par l'organisme agréé, comportant pour chaque flexible ou type de flexible au minimum les renseignements suivants :
+(9) Etat descriptif : document établi par le fabricant du flexible et validé par l'organisme agréé, comportant pour chaque flexible ou type de flexible au minimum les renseignements suivants :
 
 - éléments d'identité ;
 
@@ -70,7 +70,7 @@ Dans les prescriptions qui suivent, on entend par :
 
 (10) Xa : organisme agréé selon la procédure visée à l'article 19 du présent arrêté ;
 
-(11) IS : service interne d'inspection du constructeur intervenant sous la surveillance d'un organisme agréé Xa.
+(11) IS : service interne d'inspection du fabricant du flexible intervenant sous la surveillance d'un organisme agréé Xa.
 
 2. Construction.
 
@@ -78,9 +78,9 @@ Dans les prescriptions qui suivent, on entend par :
 
 (1) Les flexibles sont construits en matériaux appropriés exempts de fragilité dans les conditions normales de leur utilisation.
 
-(2) Le choix des matériaux constitutifs du flexible est laissé à l'appréciation du constructeur sous sa responsabilité. Le constructeur établit la liste des matières dangereuses compatibles avec ces matériaux dans les conditions normales de leur utilisation.
+(2) Le choix des matériaux constitutifs du flexible est laissé à l'appréciation du fabricant du flexible sous sa responsabilité. Il établit la liste des matières dangereuses compatibles avec ces matériaux dans les conditions normales de leur utilisation.
 
-(3) La pression d'éclatement est garantie par le constructeur du flexible comme au moins égale à 3 fois la pression maximale de service.
+(3) La pression d'éclatement est garantie par le fabricant du flexible comme au moins égale à 3 fois la pression maximale de service.
 
 (4) A l'exception des flexibles équipés de raccords en polypropylène utilisés pour le transfert des matières des classes 6.1 et 8 d'un point d'éclair supérieur à 60° C, les flexibles ont par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 106 ohms.
 
@@ -100,9 +100,9 @@ Les flexibles réalisés à partir de tuyaux qui ne sont pas en caoutchouc répo
 
 - chapitre 10 : Marquage.
 
-2.3. Flexibles pour les matières de la classe 2 des nos ONU 1011,1075,1965,1969 et 1978.
+2.3. Flexibles pour les gaz de pétrole liquéfiés (GPL) de la classe 2.
 
-Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 : 2004.
+Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 : 2017.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
@@ -110,77 +110,63 @@ Les flexibles sont conformes à la norme NF EN 12434 : 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 : 2013, ou à la norme NF EN 1761 : 1999, ou à la norme NF EN 1765 : 2005, ou à la norme NF EN 13765 + A1 : 2015, ou à la norme NF EN ISO 1825 : 2011.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 : 2013, ou à la norme NF EN 1761 : 1999, ou à la norme NF EN 1765 : 2005, ou à la norme NF EN 13765 : 2018, ou à la norme NF EN ISO 1825 : 2011.
 
 2.6. Flexibles pour les matières chimiques liquides.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 : 2011, ou à la norme NF EN 13765 + A1 : 2015.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 : 2011, ou à la norme NF EN 13765 : 2018.
 
-3. Procédure d'évaluation de la conformité des flexibles.
+2.7. Les flexibles réalisés à partir de tuyaux métalliques onduleux peuvent être conformes aux types 1 ou 2 selon la norme NF EN ISO 10380 : 2012.
 
-Les procédures pour l'évaluation de la conformité visées au 1.8.7 sont effectuées par l'organisme compétent conformément aux dispositions ci-après :
+3. Procédure d'évaluation de la conformité des flexibles
 
--les essais de type sont répétés et leurs résultats enregistrés au moins une fois tous les cinq ans ou chaque fois qu'une modification est apportée aux matériaux (sauf variante couverte par l'essai de type) et/ ou à la méthode de fabrication ;
+Par analogie, les procédures pour l'évaluation de la conformité visées au 1.8.7 sont appliquées pour les flexibles par l'organisme compétent conformément aux dispositions ci-après :
 
--nonobstant les dispositions du 1.8.7.2, l'agrément de type a une durée de cinq ans au maximum ;
+- les essais de type sont répétés et leurs résultats enregistrés au moins une fois tous les cinq ans ou chaque fois qu'une modification est apportée aux matériaux (sauf variante couverte par l'essai de type) et/ou à la méthode de fabrication ;
 
--les contrôles des 1.8.7.3 et 1.8.7.4 incluent la vérification de la conformité des flexibles par rapport aux dispositions du présent appendice. Cette vérification s'applique aux constructeurs de flexibles et aux fabricants de tuyaux ;
+- nonobstant les dispositions du 1.8.7.2, l'agrément de type a une durée de 5 ans au maximum ;
 
--un constructeur de flexible peut bénéficier des essais de type réalisés par un autre constructeur ;
+- les contrôles des 1.8.7.3 et 1.8.7.4 incluent la vérification de la conformité des flexibles par rapport aux dispositions du présent appendice. Cette vérification s'applique aux fabricants de flexibles et aux fabricants de tuyaux. ;
 
--chaque flexible est accompagné de son état descriptif, de son certificat de conformité délivrés par le constructeur, et de son attestation de contrôle initial délivré par les organismes compétents ;
+- un fabricant de flexible peut bénéficier des essais de type réalisés par un autre constructeur fabricant de flexible ou un fabricant de tuyau ;
 
--en cas de refus, l'organisme agréé informe l'autorité compétente.
+- chaque flexible est accompagné de son état descriptif, de sa déclaration de conformité délivrés par le fabricant du flexible, et de son attestation de contrôle initial délivrée par l'organisme compétent ;
 
-3.1. Lorsque les flexibles sont conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.6 du présent appendice, les dispositions suivantes s'appliquent :
+- en cas de refus, l'organisme agréé informe l'autorité compétente.
 
-Procédure
+3.1. Lorsque les flexibles sont conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.7 du présent appendice, les dispositions suivantes s'appliquent :
 
-|
+Procédure |
 
-Organisme compétent
+Organisme compétent |
 
-|
+Agrément de type (1.8.7.2) |
 
-Agrément de type (1.8.7.2)
+Xa |
 
-|
+Supervision de la fabrication (1.8.7.3) |
 
-Xa
+Xa ou IS |
 
-|
+Contrôles et épreuves initiaux (1.8.7.4) |
 
-Supervision de la fabrication (1.8.7.3)
+Xa ou IS |
 
-|
+Un fabricant de flexible peut mettre en place un service interne d'inspection IS conformément au 1.8.7.6 sous réserve :
 
-Xa ou IS
+- d'avoir une activité mensuelle de fabrication et de contrôle ;
 
-|
+- que l'IS soit indépendant du processus de conception, des opérations de fabrication, de la réparation et de la maintenance ;
 
-Contrôles et épreuves initiaux (1.8.7.4)
-
-|
-
-Xa ou IS
-
-|
-
-Un constructeur peut mettre en place un service interne d'inspection IS conformément au 1.8.7.6 sous réserve :
-
--d'avoir une activité hebdomadaire continue de fabrication et de contrôle ;
-
--que l'IS soit indépendant du processus de conception, des opérations de fabrication, de la réparation et de la maintenance ;
-
--qu'en cas de sous-traitance il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance, et que les essais prévus aux 1.8.7.3 et 1.8.7.4 sont réalisés par l'IS.
+- qu'en cas de sous-traitance, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance, et que les essais prévus aux 1.8.7.3 et 1.8.7.4 sont réalisés par l'IS.
 
 L'organisme Xa doit en plus du cadre de la surveillance des activités d'un IS défini au 1.8.7.6 :
 
--procéder à un nombre suffisant de visites de surveillance permettant de garantir que les flexibles fabriqués sont conformes aux dispositions du présent appendice ;
+- procéder à un nombre suffisant de visites de surveillance permettant de garantir que les flexibles fabriqués sont conformes aux dispositions du présent appendice ;
 
--convenir et enregistrer la marque apposée sur les flexibles à l'issue des contrôles initiaux ;
+- convenir et enregistrer la marque apposée sur les flexibles à l'issue des contrôles initiaux ;
 
--conserver une copie des justificatifs démontrant la conformité des flexibles.
+- conserver une copie des justificatifs démontrant la conformité des flexibles.
 
 Dans le cadre du 1.8.7.4, les flexibles sont soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la Pms.
 
@@ -198,7 +184,7 @@ Dans le cadre du 1.8.7.2, les essais de type suivants doivent être réalisés s
 
 -un essai de tenue à la pression d'éclatement au cours duquel il est vérifié que le flexible supporte une pression au moins égale à 3 fois la pression maximale de service.
 
-Dans le cadre du 1.8.7.3, le constructeur met à disposition tous les documents pertinents selon le type de flexible et le mode de fabrication du flexible. En cas de sous-traitance, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance. L'organisme vérifie chez le sous-traitant au moins une fois par an que les dispositions garanties par le constructeur sont respectées.
+Dans le cadre du 1.8.7.3, le constructeur met à disposition tous les documents pertinents selon le type de flexible et le mode de fabrication du flexible. En cas de sous-traitance, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance. L'organisme vérifie chez le sous-traitant au moins une fois par an que les dispositions garanties par le fabricant du flexible sont respectées.
 
 Dans le cadre du 1.8.7.4, les flexibles sont soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la Pms.
 
@@ -218,7 +204,7 @@ Les dispositions du 1.8.7.5 s'appliquent aux cas suivants sous le contrôle d'un
 
 4.3. Réparations et transformations.
 
-Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le constructeur ou un réparateur habilité par lui. Les dispositions du 1.8.7.5 s'appliquent sous le contrôle d'un organisme Xa.
+Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le fabricant du flexible du ou un réparateur habilité par lui. Les dispositions du 1.8.7.5 s'appliquent sous le contrôle d'un organisme Xa.
 
 Après réparation ou transformation, l'épreuve de pression hydraulique initiale est renouvelée à une pression égale à la pression d'épreuve initiale. Mention en est portée sur la fiche de suivi.
 
@@ -234,9 +220,9 @@ Les épreuves donnent lieu, quel qu'en soit le résultat, à l'établissement d'
 
 5.1. Chaque tuyau doit porter de façon indélébile les indications suivantes :
 
-- marque identifiant le modèle du tuyau défini par le fabricant ;
+- marque identifiant le modèle du tuyau défini par le fabricant du tuyau ;
 
-- nom ou sigle du fabricant ;
+- nom ou sigle du fabricant du tuyau ;
 
 - pression maximale de service ;
 
@@ -250,15 +236,15 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 5.2. Sur chaque raccord du flexible doivent être portées de façon indélébile les indications suivantes :
 
-- nom ou sigle du constructeur ;
+- nom ou sigle du fabricant du flexible;
 
-- numéro de construction ;
+- numéro de fabrication ;
 
 - pression d'épreuve (bar) ;
 
 - date (mois, année) de l'épreuve initiale et le cas échéant de celle effectuée à la suite d'une réparation ou d'une transformation, précédée de la lettre R ;
 
-- poinçon du constructeur ou de l'organisme agréé.
+- poinçon du fabricant du flexible ou de l'organisme agréé.
 
 6. Service
 
@@ -458,9 +444,19 @@ Le rapport annuel comprend le tableau suivant.
 
 Nom de l'entreprise
 
+|
+
+|
+
 Adresse du siège social de l'entreprise
 
+|
+
+|
+
 Année concernée par le rapport
+
+|
 
 |
 
@@ -474,11 +470,13 @@ Fonction : conseiller à la sécurité
 
 |
 
-Interne ☐
+Interne □
 
 |
 
-Externe ☐
+Externe □
+
+|
 
 |
 
@@ -500,7 +498,11 @@ Mode(s) de transport
 
 |
 
+|
+
 Et/ou classe(s) de marchandises dangereuses
+
+|
 
 |
 
@@ -514,29 +516,45 @@ Et/ou géographique
 
 Visite(s) effectuée(s) sur site(s) (voir détail au point 4.1 du présent appendice) (1)
 
-Identité du ou des conseillers ayant effectué la ou les visites :
+Nombre de visite(s) :
 
 |
 
-Nombre de visite(s) :
+Nom et prénom :
+
+|
+
+Identité du ou des conseillers ayant effectué la ou les visites si ce n'est pas le rédacteur du rapport :
+
+|
 
 Numéro(s) de certificat(s) :
 
-Date(s) de validité :
+|
 
-Signature(s) :
+Rapport établi le :
 
 |
 
-Rapport annuel établi le : Transmis à l’entreprise le :
+Transmis à l'entreprise le :
 
 A (nom et fonction) :
+
+|
 
 Signature du conseiller à la sécurité
 
 |
 
-Le conseiller à la sécurité s’assure de la réception du présent rapport annuel par l'entreprise et en conserve une trace par tout moyen approprié
+Le conseiller à la sécurité s'assure de la réception du présent rapport annuel par l'entreprise et en conserve une trace par tout moyen approprié.
+
+|
+
+Synthèse du rapport :
+
+La synthèse du rapport annuel donne une vision globale de la situation et de la conformité réglementaire de l'entreprise dans ses activités liées au transport de marchandises dangereuses (y compris l'expédition, l'emballage, le chargement, le remplissage et le déchargement).
+
+Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les axes d'amélioration sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi
 
 |
 
@@ -546,17 +564,17 @@ Le conseiller à la sécurité s’assure de la réception du présent rapport a
 
 1.1. Gestion administrative et opérationnelle des activités liées au transport
 
-Le rapport décrit l'organisation de l'entreprise dans sa gestion administrative et opérationnelle du transport de marchandises dangereuses en positionnant son activité : transporteur, emballeur, chargeur, remplisseur, déchargeur. Il contient une description générale de l'entreprise intégrant les opérations liées au transport de marchandises dangereuses visées au 1.8.3.1.
+Le rapport décrit l'organisation de l'entreprise dans sa gestion administrative et opérationnelle du transport de marchandises dangereuses en positionnant son activité : transporteur, emballeur, chargeur, remplisseur, déchargeur, expéditeur. Il contient une description générale de l'entreprise intégrant les opérations liées au transport de marchandises dangereuses visées au 1.8.3.1.
 
 Le cas échéant, d'autres éléments peuvent être intégrés, notamment :
 
-― le nombre total de personnes concernées par l'activité "marchandises dangereuses" si cette activité n'est pas la seule et unique de l'entreprise ;
+- le nombre total de personnes concernées par l'activité marchandises dangereuses si cette activité n'est pas la seule et unique de l'entreprise ;
 
-― le nombre de sites, adresses, activités selon le chapitre 1.4 et les classes de marchandises dangereuses concernées ;
+- le nombre de sites, adresses, activités selon le chapitre 1.4 et les classes de marchandises dangereuses concernées ;
 
-― les services concernés par le transport de marchandises dangereuses et fonctions (détails donnés si nécessaire et en fonction de la taille de l'entreprise) ;
+- les services concernés par le transport de marchandises dangereuses et fonctions (détails donnés si nécessaire et en fonction de la taille de l'entreprise) ;
 
-― l'existence d'une politique de transport "marchandises dangereuses" (en lien avec une politique QHSE, par exemple).
+- l'existence d'une politique de transport marchandises dangereuses (en lien avec une politique QHSE par exemple).
 
 1.2. Place du conseiller à la sécurité dans l'organisation
 
@@ -572,39 +590,39 @@ Afin de quantifier les activités de l'entreprise liées aux marchandises danger
 
 Le relevé des activités de transport de marchandises dangereuses des classes 1 et 7 s'appuie, le cas échéant, sur les données transmises par ailleurs, de façon plus détaillée, à l'autorité compétente.
 
-Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1,2.1.2,2.1.3,2.1.4 et 2.1.5 du présent appendice. Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3. Dans le cas d'opérations de transport successives au sein d'une même entreprise, la quantification des marchandises dangereuses chargées, transportées et déchargées pourra être limitée à la première opération de transport réalisée.
+Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.5 et 2.1.6 du présent appendice. Certains tableaux peuvent être regroupés dans un seul tableau reprenant les éléments exigés pour chacune des opérations, sous réserve de préciser les activités concernées.
+
+Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3. Dans le cas d'opérations de transport successives au sein d'une même entreprise, la quantification des marchandises dangereuses chargées, transportées et déchargées pourra être limitée à la première opération de transport réalisée.
 
 Les informations relatives aux marchandises susvisées comprennent la mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage et figurent :
 
--soit dans des colonnes supplémentaires ajoutées aux tableaux ;
+- soit dans des colonnes supplémentaires ajoutées aux tableaux ;
 
--soit dans une liste annexée au rapport annuel si la ventilation par numéro ONU dans ces derniers s'avère impossible.
+- soit dans une liste annexée au rapport annuel si la ventilation par numéro ONU dans ces derniers s'avère impossible.
 
 Toutefois celles-ci peuvent faire l'objet de regroupements, par catégories génériques homogènes de marchandises dont les propriétés et les conditions de transport sont similaires, et suivant des principes clairement définis. Dans ce cas la liste exhaustive des numéros ONU n'est pas nécessaire si après regroupement les données listées sont suffisamment précises pour permettre au conseiller de remplir les missions listées au 1.8.3.3.
 
 Les numéros ONU correspondant à des entrées dont les caractéristiques et conditions de transport ne permettent pas un rattachement à une catégorie générique visée à l'alinéa précédent doivent être listés précisément.
 
-La mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage figure :
-
-― soit dans des colonnes supplémentaires ajoutées aux tableaux ;
-
-― soit dans une liste annexée au rapport annuel si la ventilation par numéro ONU dans ces derniers s'avère impossible.
-
 2.1.1. Marchandises dangereuses emballées
 
 Le relevé des activités comprend au minimum les informations contenues dans le tableau présenté ci-dessous.
 
-CLASSE (1) |
+Classe (1)
 
-ÉTIQUETTE(S) (2) |
+|
 
-TYPE
+Étiquette(s) (2)
 
-de conditionnement (3) |
+|
 
-QUANTITÉS TOTALES
+Type de conditionnement (3)
 
-annuelles (4) |
+|
+
+Quantités totales annuelles (4)
+
+|
 
 |
 
@@ -628,27 +646,45 @@ annuelles (4) |
 
 Le relevé des activités de chargement ou de remplissage comprend au minimum les informations contenues dans le tableau présenté ci-dessous.
 
-CLASSE (1) |
+Classe (1)
 
-ÉTIQUETTE(S) (2) |
+|
 
-TYPE DE CONTENANT (3) |
+Étiquette(s) (2)
 
-QUANTITÉS TOTALES
+|
 
-annuelles |
+Type de contenant (3)
 
-Colis |
+|
 
-Vrac |
+Quantités totales annuelles (4)
 
-Citerne |
+|
 
-R |
+Colis
 
-F |
+|
 
-N |
+Vrac
+
+|
+
+Citerne
+
+|
+
+R
+
+|
+
+F
+
+|
+
+N
+
+|
 
 |
 
@@ -682,17 +718,33 @@ Le relevé des activités de transport comprend au minimum les informations cont
 
 2.1.3.1. Mode routier
 
-CLASSE (1) |
+Classe (1)
 
-ÉTIQUETTE(S) (2) |
+|
 
-QUANTITÉS TOTALES ANNUELLES (3) |
+Étiquette(s) (2)
 
-Colis |
+|
 
-Vrac |
+Quantités totales annuelles (3)
 
-Citerne |
+|
+
+|
+
+|
+
+Colis
+
+|
+
+Vrac
+
+|
+
+Citerne
+
+|
 
 |
 
@@ -714,15 +766,29 @@ Citerne |
 
 2.1.3.2. Mode ferroviaire
 
-CLASSE (1) |
+Classe (1)
 
-ÉTIQUETTE(S) (2) |
+|
 
-QUANTITÉS TOTALES ANNUELLES (3) |
+Étiquette(s) (2)
 
-Wagons |
+|
 
-UTI |
+Quantités totales annuelles (3)
+
+|
+
+|
+
+|
+
+Wagons
+
+|
+
+UTI
+
+|
 
 |
 
@@ -742,15 +808,29 @@ UTI |
 
 2.1.3.3. Par voies de navigation intérieures
 
-CLASSE (1) |
+Classe (1)
 
-ÉTIQUETTE(S) (2) |
+|
 
-QUANTITÉS TOTALES ANNUELLES (3) |
+Étiquette(s) (2)
 
-Bateau à cargaison sèche |
+|
 
-Bateau-citerne |
+Quantités totales annuelles (3)
+
+|
+
+|
+
+|
+
+Bateau à cargaison sèche
+
+|
+
+Bateau-citerne
+
+|
 
 |
 
@@ -764,27 +844,41 @@ Bateau-citerne |
 
 (2) Colonne à remplir obligatoirement dans le cas de la classe 7.
 
-(3) Indiquer les quantités de marchandises concernées en fonction du type de bateau utilisé.
+(3) Indiquer les quantités de marchandises concernées sen fonction du type de bateau utilisé.
 
 |
 
 2.1.4. Marchandises dangereuses déchargées
 
-Le relevé des activités de transport comprend au minimum les informations contenues dans le tableau présenté ci-dessous.
+Le relevé des activités de déchargement comprend au minimum les informations contenues dans le tableau présenté ci-dessous.
 
-CLASSE (1) |
-
-ÉTIQUETTE(S) (2) |
-
-QUANTITÉS TOTALES ANNUELLES (3)
+Classe (1)
 
 |
 
-R |
+Étiquette(s) (2)
 
-F |
+|
 
-N |
+Quantité totale annuelle (3)
+
+|
+
+|
+
+|
+
+R
+
+|
+
+F
+
+|
+
+N
+
+|
 
 |
 
@@ -804,35 +898,171 @@ N |
 
 |
 
-2.1.5. Autres opérations
+2.1.5. Marchandises dangereuses expédiées
 
-Les relevés des opérations supplémentaires à celles décrites au 1.8.3.1, notamment celles relevant des intervenants repris aux 1.4.2 et 1.4.3, et non mentionnées dans les tableaux précédents, sont réalisés à l'aide de tableaux appropriés contenant les informations pertinentes.
+Le relevé des activités d'expédition comprend au minimum les informations contenues dans les tableaux présentés ci-dessous pour chaque mode concerné.
+
+2.1.5.1. Mode routier
+
+Classe (1)
+
+|
+
+Étiquette(s) (2)
+
+|
+
+Quantité totale annuelle (3)
+
+|
+
+|
+
+|
+
+Colis
+
+|
+
+Vrac
+
+|
+
+Citerne
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) Indiquer la classe.
+
+(2) Colonne à remplir obligatoirement dans le cas de la classe 7.
+
+(3) Indiquer les quantités de marchandises concernées.
+
+|
+
+2.1.5.2. Mode ferroviaire
+
+Classe (1)
+
+|
+
+Étiquette(s) (2)
+
+|
+
+Quantité totale annuelle (3)
+
+|
+
+|
+
+|
+
+Wagons
+
+|
+
+UTI
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) Indiquer la classe.
+
+(2) Colonne à remplir obligatoirement dans le cas de la classe 7.
+
+(3) Indiquer les quantités de marchandises concernées selon qu'il s'agit de wagons et/ou d'UTI (unités de transport intermodales).
+
+|
+
+2.1.5.3. Par voies de navigation intérieures
+
+Classe (1)
+
+|
+
+Étiquette(s) (2)
+
+|
+
+Quantité totale annuelle (3)
+
+|
+
+|
+
+|
+
+Bateau à cargaison sèche
+
+|
+
+Bateau-citerne
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) Indiquer la classe.
+
+(2) Colonne à remplir obligatoirement dans le cas de la classe 7.
+
+(3) Indiquer les quantités de marchandises concernées en fonction du type de bateau utilisé.
+
+|
+
+2.1.6. Autres opérations
+
+Les relevés des opérations supplémentaires à celles décrites au 1.8.3.1, notamment celles relevant des intervenants repris aux 1.4.2 et 1.4.3, et non mentionnées dans les tableaux précédents sont réalisés à l'aide de tableaux appropriés contenant les informations pertinentes.
 
 2.2. Marchandises dangereuses à haut risque
 
 Le rapport annuel comprend le tableau suivant.
 
-L’entreprise est-elle concernée par les marchandises reprises dans le tableau du 1.10.3.1.2 ?
+L'entreprise est-elle concernée par les marchandises reprises dans le tableau du 1.10.3.1.2 ?
 
 |
 
-OUI ☐
+OUI □
 
 |
 
-NON ☐
+NON □
 
 |
 
-L’entreprise est-elle concernée par les marchandises reprises dans le tableau du 1.10.3.1.3 ?
+L'entreprise est-elle concernée par les marchandises reprises dans le tableau du 1.10.3.1.3 ?
 
 |
 
-OUI ☐
+OUI □
 
 |
 
-NON ☐
+NON □
 
 |
 
@@ -844,7 +1074,7 @@ Emballeur
 
 |
 
-☐
+□
 
 |
 
@@ -852,7 +1082,7 @@ Remplisseur
 
 |
 
-☐
+□
 
 |
 
@@ -860,7 +1090,7 @@ Expéditeur
 
 |
 
-☐
+□
 
 |
 
@@ -868,7 +1098,7 @@ Chargeur
 
 |
 
-☐
+□
 
 |
 
@@ -876,7 +1106,7 @@ Destinataire
 
 |
 
-☐
+□
 
 |
 
@@ -884,7 +1114,7 @@ Transporteur
 
 |
 
-☐
+□
 
 |
 
@@ -892,7 +1122,7 @@ Déchargeur
 
 |
 
-☐
+□
 
 |
 
@@ -904,7 +1134,7 @@ Autre (à préciser) :
 
 |
 
-Préciser, le cas échéant, les marchandises dangereuses et ou classes de danger concernées, et en cas de pluralité, le(s) site(s) concerné(s) :
+Préciser, le cas échéant, les marchandises dangereuses et/ou classes de danger concernées, et en cas de pluralité, le(s) site(s) concerné(s) :
 
 |
 
@@ -912,11 +1142,11 @@ L'entreprise est-elle soumise au plan de sûreté prévu au 1.10.3.2 ?
 
 |
 
-OUI ☐
+OUI □
 
 |
 
-NON ☐
+NON □
 
 |
 
@@ -924,11 +1154,11 @@ Si oui, est-il établi ?
 
 |
 
-OUI ☐
+OUI □
 
 |
 
-NON ☐
+NON □
 
 |
 
@@ -936,13 +1166,21 @@ Le cas échéant, pour les matières radioactives, les dispositions du 1.10.5 so
 
 |
 
-OUI ☐
+OUI □
 
 |
 
-NON ☐
+NON □
 
 |
+
+2.3. Dispositions relatives aux parcs de stationnement selon le 2.3.2 de l'annexe I du présent arrêté
+
+L'entreprise dispose-t-elle de parcs de stationnement soumis aux exigences du 2.3.2 ?
+
+OUI □ NON □
+
+Si oui, nombre de parcs de stationnement concernés :
 
 3. Déclarations, rapports, résumé et bilan des différents événements et/ou accidents
 
@@ -956,7 +1194,7 @@ Liste des événements déclarés
 
 |
 
-Nombre d’événements déclarés :
+Nombre d'événements déclarés :
 
 |
 
@@ -968,23 +1206,23 @@ Lieu
 
 |
 
-Mode concerné(1)
+Mode concerné (1)
 
 |
 
-Opération concernée(2)
+Opération concernée (2)
 
 |
 
-Marchandises dangereuses concernées(3)
+Marchandises dangereuses concernées (3)
 
 |
 
-Quantités impliquées(4)
+Quantités impliquées (4)
 
 |
 
-Critères du 1.8.5 remplis(5)
+Critères du 1.8.5 remplis (5)
 
 |
 
@@ -1008,7 +1246,7 @@ D
 
 |
 
-T(6)
+T (6)
 
 |
 
@@ -1017,6 +1255,10 @@ E
 |
 
 Re
+
+|
+
+Ex
 
 |
 
@@ -1068,33 +1310,23 @@ Re
 
 |
 
+|
+
 (1) R = route, F = Fer, N = Voies de navigation intérieures.
 
-|
-
-(2) C = Chargement, D = Déchargement, T = Transport, E = Emballage, Re = Remplissage.
-
-|
+(2) C = Chargement, D = Déchargement, T = Transport, E = Emballage, Re = Remplissage, Ex = Expédition.
 
 (3) Numéro ONU et le cas échéant groupe d'emballage.
 
-|
-
 (4) En cas de perte de la ou des marchandise(s) dangereuse(s).
 
-|
-
-(5) Critère 1 : Dommages corporels, Critère 2 : Perte de marchandise dangereuse, Critère 3 : Dommages matériels ou à l’environnement, Critère 4 : Intervention des autorités.
-
-|
+(5) Critère 1 : Dommages corporels, Critère 2 : Perte de Marchandise Dangereuse, Critère 3 : Dommages matériels ou à l'environnement, Critère 4 : Intervention des autorités.
 
 (6) Cette case concerne également les opérations de location de véhicule avec conducteur.
 
 |
 
-Nota : Lorsque l’analyse du ou des événement(s) a entraîné la proposition d’actions pour l’amélioration de la sécurité, celles-ci doivent être indiquées dans la partie 5 de cet appendice (au sein des paragraphes énumérés de 5.1 à 5.13).
-
-|
+Nota. - Lorsque l'analyse du ou des événement(s) a entraîné la proposition d'actions pour l'amélioration de la sécurité, celles-ci doivent être indiquées dans la partie 5 de cet appendice
 
 3.2. Accidents soumis à la rédaction d'un rapport d'accident au titre du 4 de l'article 6 du présent arrêté
 
@@ -1102,15 +1334,13 @@ Le rapport liste les accidents soumis à la rédaction d'un rapport d'accident e
 
 Liste des accidents ayant fait l'objet d'un rapport
 
-Liste des accidents ayant fait l’objet d’un rapport
+|
+
+Accidents ne répondant pas aux critères du 1.8.5.3 mais ayant fait l'objet d'un rapport à la direction de l'entreprise.
 
 |
 
-Accidents ne répondant pas aux critères du 1.8.5.3 mais ayant fait l’objet d’un rapport à la direction de l’entreprise.
-
-|
-
-Nombre d’accidents :
+Nombre d'accidents :
 
 |
 
@@ -1122,19 +1352,23 @@ Lieu
 
 |
 
-Mode concerné(1)
+Mode concerné (1)
 
 |
 
-Opération concernée(2)
+Opération concernée (2)
 
 |
 
-Marchandises dangereuses concernées(3)
+Marchandises dangereuses concernées (3)
 
 |
 
-Quantités impliquées(4)
+Quantités impliquées (4)
+
+|
+
+|
 
 |
 
@@ -1158,7 +1392,7 @@ D
 
 |
 
-T(5)
+T (5)
 
 |
 
@@ -1167,6 +1401,16 @@ E
 |
 
 Re
+
+|
+
+Ex
+
+|
+
+|
+
+|
 
 |
 
@@ -1196,27 +1440,17 @@ Re
 
 (1) R = route, F = Fer, N = Voies de navigation intérieures.
 
-|
-
-(2) C = Chargement, D = Déchargement, T = Transport, E = Emballage, Re = Remplissage.
-
-|
+(2) C = Chargement, D = Déchargement, T = Transport, E = Emballage, Re = Remplissage, Ex = Expédition.
 
 (3) Numéro ONU et le cas échéant groupe d'emballage.
 
-|
-
 (4) En cas de perte de la ou des marchandise(s) dangereuse(s).
-
-|
 
 (5) Cette case concerne également les opérations de location de véhicule avec conducteur.
 
 |
 
-Nota : Lorsque l’analyse du ou des accident(s) a entraîné la proposition d’actions pour l’amélioration de la sécurité, celles-ci doivent être indiquées dans la partie 5 de cet appendice (au sein des paragraphes énumérés de 5.1 à 5.13).
-
-|
+Nota. - Lorsque l'analyse du ou des accident(s) a entraîné la proposition d'actions pour l'amélioration de la sécurité, celles-ci doivent être indiquées dans la partie 5 de cet appendice.
 
 3.3. Evénements relatifs au transport de marchandises dangereuses de la classe 7
 
@@ -1230,7 +1464,7 @@ Nombre d'événements intéressants (EIT) (*) :
 
 |
 
-(*) EIT : Ecarts aux exigences réglementaires qui n'entraînent pas de dégradation des fonctions de sûreté et dont les incidences sont faibles. Ces EIT sont alors classés "hors échelle" sur l'échelle INES et ne nécessitent pas de compte rendu d'événement significatif.
+(*) EIT : Ecarts aux exigences réglementaires qui n'entraînent pas de dégradation des fonctions de sûreté et dont les incidences sont faibles. Ces EIT sont alors classés hors échelle sur l'échelle INES et ne nécessitent pas de compte rendu d'événement significatif.
 
 |
 
@@ -1240,75 +1474,13 @@ Nombre d'événements intéressants (EIT) (*) :
 
 Le tableau de synthèse ci-après est rempli afin d'obtenir un récapitulatif clair de toutes les visites ou interventions du conseiller à la sécurité effectuées dans l'entreprise sur le thème du transport de marchandises dangereuses (MD).
 
-Ce tableau est divisé en thèmes correspondant aux tâches du conseiller à la sécurité visées au 1.8.3.3, décrites dans la partie 5 du présent appendice et numérotées de 5.1 à 5.13.
+Ce tableau est divisé en colonnes correspondant aux tâches du conseiller à la sécurité visées au 1.8.3.3, décrites dans la partie 5 du présent appendice.
 
-Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu. Les thèmes qui sont abordés par intervention ou visite sont simplement cochés.
+Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu (si plusieurs sites par exemple). Les tâches qui auront été traitées par intervention ou visite sont simplement cochées.
 
-Le cas échéant, il est possible, en fonction des activités de l'entreprise, que certains thèmes indiqués soient sans objet. Dans ce cas, les cases correspondantes de la ligne " sans objet " sont cochées. Le rapport comprend alors les justifications appropriées.
+Le cas échéant, il est possible, en fonction des activités de l'entreprise, que certaines tâches indiquées soient sans objet. Dans ce cas, les cases correspondantes de la ligne sans objet sont cochées. Le rapport comprend alors les justifications appropriées.
 
-THÈMES
-
-(TÂCHES DU CONSEILLER)
-
-|
-
-5.1
-
-|
-
-5.2
-
-|
-
-5.3
-
-|
-
-5.4
-
-|
-
-5.5
-
-|
-
-5.6
-
-|
-
-5.7
-
-|
-
-5.8
-
-|
-
-5.9
-
-|
-
-5.10
-
-|
-
-5.11
-
-|
-
-5.12
-
-|
-
-5.13
-
-|
-
-AUTRES (*)
-
-|
-
-Désignation
+Tâches du conseiller
 
 |
 
@@ -1328,15 +1500,15 @@ Formation du personnel
 
 |
 
-Procédures d'urgence pour incidents/ accidents MD
+Procédures d'urgence pour incidents/accidents MD
 
 |
 
-Analyse des incidents/ accidents/ infractions graves
+Analyse des incidents/accidents/infractions graves
 
 |
 
-Mesures pour éviter la répétition d'accidents/ incidents/ infractions graves
+Mesures pour éviter la répétition d'accidents/ incidents/infractions graves
 
 |
 
@@ -1364,15 +1536,11 @@ Plan de sûreté prévu au 1.10.3.2
 
 |
 
-|
-
-Thème (s) sans objet pour l'entreprise
+Autres (*)
 
 |
 
-|
-
-|
+Tâches sans objet pour l'entreprise
 
 |
 
@@ -1398,11 +1566,15 @@ Thème (s) sans objet pour l'entreprise
 
 |
 
-Visite (s)
+|
 
 |
 
-Thèmes abordés
+|
+
+Visite(s)
+
+|
 
 |
 
@@ -1506,7 +1678,9 @@ Lieu
 
 |
 
-(*) Si cette rubrique est renseignée, préciser la nature du thème concerné par l'intervention ;
+(*) Si cette rubrique est renseignée, préciser la nature la tâche concernée par l'intervention
+
+|
 
 4.2. Rappel des autres travaux ou audits réalisés pouvant avoir une incidence sur les activités liées au transport de marchandises dangereuses
 
@@ -1514,185 +1688,209 @@ Un rappel des autres travaux ou audits effectués ayant eu des incidences sur le
 
 La nature de ses travaux et audits ainsi que les personnes ou organismes (salariés, CHSCT, organismes extérieurs) les ayant effectués sont précisés qu'il s'agisse notamment :
 
-― d'audits internes ;
+- d'audits internes ;
 
-― d'audits externes (par exemple de type ISO, SQAS) ;
+- d'audits externes (par exemple de type ISO, SQAS) ;
 
-― d'inspections à thèmes.
+- d'inspections à thèmes…
 
-5. Résumé des recommandations du conseiller
-
-à la sécurité durant l'année
+5. Résumé des actions et vérifications réalisées par le conseiller à la sécurité durant l'année
 
 Le rapport annuel contient :
 
-― une description des actions principales dans lesquelles le conseiller à la sécurité s'est investi au cours de l'année et qui lui ont permis d'examiner les pratiques de l'entreprise dans les différentes activités impliquées et d'évaluer leur conformité par rapport aux obligations réglementaires ;
+- Une description des actions principales dans lesquelles le conseiller à la sécurité s'est investi au cours de l'année et qui lui ont permis d'examiner les pratiques de l'entreprise dans les différentes activités impliquées, et d'évaluer leur conformité par rapport aux obligations réglementaires.
 
-― les recommandations qui ont été réalisées par le conseiller à la sécurité pour chacune des treize tâches décrites au 1.8.3.3.
+- Les vérifications qui ont été réalisées par le conseiller à la sécurité pour chacune des 13 tâches décrites au 1.8.3.3.
 
-Chaque point, numéroté de 5.1 à 5.13 est renseigné par le conseiller à la sécurité.
+Chaque action ou vérification réalisée par le conseiller à la sécurité est détaillée dans les six thèmes suivants. Les exemples associés à chacun de ces thèmes listent à titre indicatif les moyens permettant de présenter l'exécution des tâches décrites au 1.8.3.3.
 
-Des exemples de thèmes, associés à chacun de ces points sont listés ci-dessous à titre indicatif.
+Thème 1 : Procédés visant au respect des règles relatives à l'identification des marchandises dangereuses transportées
 
-5.1. Les procédés visant au respect des règles relatives à l'identification des marchandises dangereuses transportées
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
 
-Exemples de thèmes :
+- détermination ou récupération des informations concernant la classification des marchandises dangereuses, y compris les déchets ;
 
-― détermination ou récupération des informations concernant la classification des marchandises dangereuses, y compris les déchets ;
+- classification et autorisation au transport des marchandises dangereuses, y compris les déchets ;
 
-― classification des marchandises dangereuses, y compris les déchets ;
+gestion des fiches de données de sécurité (FDS), notamment les informations relatives au transport ;
 
-― gestion des fiches de données de sécurité (FDS), notamment les informations relatives au transport.
+identification des marchandises dangereuses déchargées (en particulier les matières premières).
 
-5.2. La pratique de l'entreprise concernant la prise en compte dans l'achat des moyens de transport de tout besoin particulier
+Thème 2 : Prise en compte des prescriptions réglementaires dans les processus d'achat concernant les prestations, les engins de transport, les accessoires des postes de chargement/ remplissage/déchargement et les contenants, ainsi que la gestion des parcs de stationnement soumis aux exigences du 2.3.2 de l'annexe I du présent arrêté.
 
-relatif aux marchandises dangereuses transportées
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
 
-Exemple de thèmes :
+Examen des pratiques liées :
+
+- aux procédures concernant la gestion des sous-traitants ;
+
+- à la conformité de l'entreprise sous-traitante ou intervenante au regard de la désignation d'un conseiller à la sécurité si celui-ci est requis par la réglementation ;
+
+- le cas échéant, à l'utilisation d'un contrat de transport ou contrat commercial relatif au transport de marchandises dangereuses ;
+
+- à la conformité de prestation par rapport au cahier des charges et à la réglementation.
 
 Examen des pratiques d'achat relatives à :
 
-― l'achat des moyens de transport (véhicules citernes, conteneurs-citernes, etc.) ;
+- l'existence d'un cahier des charges mentionnant les obligations de chaque intervenant en cas de prestation ou de spécifications techniques ;
 
-― l'achat des accessoires liés au moyen de transport ou au poste de chargement/déchargement : flexible, raccords, autres accessoires ;
+- l'achat des prestations réalisées par les sous-traitants ou les autres intervenants ;
 
-― l'achat des contenants (emballages, GRV...).
+- l'achat des accessoires liés au moyen de transport ou au poste de chargement/ remplissage/déchargement : flexible, raccords, autres accessoires ;
 
-5.3. Les procédés permettant de vérifier le matériel utilisé pour le transport de matières dangereuses
+- l'achat des contenants (emballages, GRV…) ;
 
-ou pour les opérations de chargement ou de déchargement
+- l'achat des moyens de transport (véhicules-citernes, conteneurs-citernes, etc.) ;
 
-Exemple de thèmes :
+- la conformité de l'entreprise choisie au regard des réglementations régissant le transport de marchandises pour compte d'autrui.
 
-Examen et vérification de l'existence d'un moyen de contrôle de la conformité du matériel utilisé par :
+Examen des dispositions réglementaires concernant les parcs de stationnement soumis aux exigences du 2.3.2 de l'annexe I.
 
-― l'entreprise en fonction de ses activités (tel que emballages, engin de transport, accessoires pour les postes de chargement/déchargement, etc.) ;
+Thème 3 : Vérification de l'existence de moyens de contrôle des emballages et des engins de transport ainsi que des procédures d'emballage, chargement, remplissage, vidange et déchargement
 
-― le transporteur (contrôle au chargement/déchargement ou au remplissage du matériel) si ce n'est pas l'entreprise elle-même.
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
 
-5.4. Le fait que les employés concernés de l'entreprise ont reçu une formation appropriée, y compris à propos des modifications
+Examen de l'existence d'un moyen de contrôle de la conformité du matériel utilisé par :
 
-à la réglementation, et que cette formation est inscrite sur leur dossier
+- l'entreprise en fonction de ses activités (tel que les emballages, citernes mobiles, engins de transport, etc.) ;
 
-Exemple de thèmes :
+- l'entreprise concernant les accessoires des postes de chargement/remplissage/ déchargement, etc.) ;
 
-Vérification de l'existence et du suivi (nature de la formation et validité) de :
+- le transporteur pour le chargement et le déchargement ou le remplissage et la vidange si ce n'est pas l'entreprise elle-même (flexible).
 
-― la formation des conducteurs ;
+Examen de l'existence :
 
-― la formation du personnel concerné (encadrement ou exécution) par : l'organisation du transport/le conditionnement/l'emballage/l'étiquetage/le remplissage/le chargement ou déchargement (cf. chapitre 1.3)/l'expédition/la sensibilisation à la sûreté (cf. chapitre 1.10).
+- des consignes écrites prévues au 5.4.3 (pour les transporteurs) ;
 
-A cette fin, les tableaux suivants sont utilisés :
+- des consignes détaillées de remplissage/vidange aux postes ;
 
-Formation pour les conducteurs selon le chapitre 8.2 de l'ADR :
+- d'instructions de placardage, de signalisation et d'apposition de marques sur les véhicules ;
 
-TYPE DE FORMATION |
+- de procédures concernant les opérations d'emballage, de chargement (y compris le calage et l'arrimage), de remplissage, de vidange, de déchargement pour le personnel aux postes et les conducteurs (si concernés) ;
 
-NOMBRE DE PERSONNES TITULAIRES
+- d'un moyen de contrôle du respect des consignes et/ou d'une liste de contrôle aux postes de chargement, de remplissage et de déchargement.
 
-d'un certificat de conducteur ADR |
+Examen de la mise en œuvre des :
 
-Formation de base
+- points à contrôler pour les intervenants repris notamment au 2.1 des annexes I, II et III du présent arrêté ;
+
+- points à contrôler pour les transporteurs avant tout chargement ou remplissage (vérification des équipements prescrits par les règlements et documents de bord…).
+
+Thème 4 : Formation et sensibilisation du personnel
+
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
+
+Examen de l'existence, de la pertinence et du suivi (contenu de la formation et validité) ;
+
+- d'un système d'information/de sensibilisation du personnel sur les risques liés aux marchandises dangereuses (réunion de sécurité, formations spécifiques, réunion annuelle, etc.) ;
+
+- des formations.
+
+Pour les formations, les tableaux suivants sont utilisés :
+
+Formation pour les conducteurs selon le 8.2 de l'ADR.
+
+TYPE DE FORMATION
+
+|
+
+NOMBRE DE PERSONNES TITULAIRES D'UN CERTIFICAT DE CONDUCTEUR ADR
+
+|
+
+Formation de BASE
 
 |
 
 |
 
-Spécialisation citernes
+Spécialisation CITERNES
 
 |
 
 |
 
-Spécialisation classe 1
+Spécialisation Classe 1
 
 |
 
 |
 
-Spécialisation classe 7
+Spécialisation Classe 7
 
 |
 
 |
 
-Spécialisation citernes produits pétroliers
+Spécialisation PRODUITS PETROLIERS
 
 |
 
 |
 
-Spécialisation citernes GPL
+Spécialisation GPL
 
 |
 
 |
 
-Spécialisation citernes gaz
+Formation pour les experts selon le 8.2 de l'ADN.
+
+TYPE DE FORMATION
+
+|
+
+NOMBRE DE PERSONNES TITULAIRES D'UNE ATTESTATION D'EXPERT
+
+|
+
+Formation de BASE
 
 |
 
 |
 
-Spécialisation citernes (hors classe 2)
+- Marchandises sèches
 
 |
 
 |
 
-Formation pour les experts selon le chapitre 8.2 de l'ADN :
-
-TYPE DE FORMATION |
-
-NOMBRE DE PERSONNES TITULAIRES
-
-d'une attestation d'expert |
-
-Formation de base
+- Bateau-citerne
 
 |
 
 |
 
-― marchandises sèches
+- Combiné
 
 |
 
 |
 
-― bateau-citerne
+Spécialisation GAZ
 
 |
 
 |
 
-― combiné
+Spécialisation CHIMIE
 
 |
 
 |
 
-Spécialisation gaz
+Examen de l'existence, de la pertinence et du suivi (contenu de la formation et validité) de la formation du personnel concerné (encadrement ou exécution) par : l'expédition, l'organisation du transport, le conditionnement, l'emballage, l'étiquetage, le remplissage ou la vidange, le chargement ou déchargement (voir le chapitre 1.3), la sensibilisation à la sûreté (voir le chapitre 1.10).
+
+Pour la formation des intervenants selon le 1.3, le tableau suivant est utilisé :
+
+NOMBRE DE PERSONNES CONCERNEES
 
 |
 
-|
-
-Spécialisation chimie
+NOMBRE DE PERSONNES FORMEES DANS L'ANNEE
 
 |
-
-|
-
-Formation des intervenants selon le chapitre 1.3 :
-
-NOMBRE DE PERSONNES
-
-concernées |
-
-NOMBRE DE PERSONNES
-
-formées dans l'année |
 
 |
 
@@ -1700,141 +1898,63 @@ formées dans l'année |
 
 Pour la formation complémentaire spécifique du personnel intervenant dans le transport des marchandises dangereuses selon le 1.3.2.2.1 du RID, le tableau fera apparaître les différents groupes auxquels se rattachent les personnels concernés.
 
-Formation à la radioprotection pour la classe 7 selon le 1.7.2.5 :
+|
 
-NOMBRE DE PERSONNES FORMÉES |
+Pour la formation à la radioprotection et au transport de matières radioactives de la classe 7 selon le 1.7.2.5, le tableau suivant est utilisé :
+
+NOMBRE DE PERSONNES FORMEES
 
 |
 
 |
 
-5.5. La mise en œuvre de procédures d'urgence appropriées aux accidents ou incidents éventuels pouvant porter atteinte à la sécurité pendant le transport de marchandises dangereuses ou pendant les opérations de chargement ou de déchargement
+Thème 5 : Gestion, analyse et mesures correctives des événements sécurité
 
-Exemple de thèmes :
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
 
-Vérification de :
+Examen de l'existence :
 
-― l'identification des opérations à risque et préconisations sécurité ;
+- de procédures concernant l'identification des opérations à risque et préconisations sécurité ;
 
-― l'identification des moyens d'intervention et leur bon fonctionnement à tout moment ;
+- d'un processus / procédure permettant la collecte, la circulation des informations et leur analyse dans l'entreprise suite à un incident, événement ou infraction grave ;
 
-― l'existence d'une procédure d'urgence, testée périodiquement ;
+- d'une procédure ou consigne permettant l'information du conseiller à la sécurité en cas d'accident ou d'événement relevant du 1.8.3.6 ou remplissant les critères du 1.8.5, en particulier lorsque celui-ci est un prestataire externe à l'entreprise ;
 
-― l'information des opérationnels concernés par l'existence de cette (ces) procédure(s) ;
+- d'une méthode d'analyse des incidents / événements et la mise en place d'actions préventives et correctives suivies ;
 
-― la formation des opérationnels en charge d'intervenir en cas d'incident/accident à ce sujet ;
+- d'une formation à la méthode d'analyse pour le personnel concerné ;
 
-― l'efficacité et de la mise à jour de cette (ces) procédure(s) ;
+- d'un système permettant de suivre les actions, avec désignation de responsables ;
 
-― l'existence d'un plan d'urgence interne des gares de triage.
+- d'un système de retour d'expérience, permettant de connaître les types et nombre d'incidents / accident / événements et leur traitement / conclusion, et notamment les plus significatifs ;
 
-5.6. Le recours à des analyses et, si nécessaire, la rédaction de rapports concernant les accidents, les incidents ou les infractions graves constatés au cours du transport de marchandises dangereuses ou pendant les opérations de chargement ou de déchargement
+- d'une procédure d'identification des moyens d'intervention et leur bon fonctionnement à tout moment ;
 
-Exemple de thèmes :
+- d'une procédure d'urgence et de sa mise en œuvre (tests périodiques) ;
 
-Vérification de l'existence :
+- de la formation du personnel concerné par cette (ces) procédure(s) d'urgence ;
 
-― d'un système permettant la collecte, la circulation et l'analyse des informations dans l'entreprise suite à un incident, événement ou infraction grave ;
+- d'un plan d'urgence interne des gares de triage.
 
-― d'une méthode d'analyse des incidents/événements avec mise en place d'actions préventives et correctives suivies, et que le personnel concerné est formé à cette méthode ;
+Thème 6 : Existence du plan de sûreté prévu au 1.10.3.2.
 
-― d'une procédure ou consigne permettant l'information du conseiller à la sécurité en cas d'accident ou d'événement relevant du 1.8.3.6 ou remplissant les critères de la section 1.8.5, en particulier lorsque celui-ci est un prestataire externe à l'entreprise.
+La réalisation des tâches décrites sous ce thème peut être illustrée selon les activités concernées de l'entreprise par la description des points suivants :
 
-5.7. La mise en place de mesures appropriées pour éviter
+Examen :
 
-la répétition d'accidents, d'incidents ou d'infractions graves
+- des pratiques de l'entreprise concernant la sûreté ;
 
-Exemple de thèmes :
+- de l'application des obligations générales de sûreté (1.10.1 à 1.10.3) ;
 
-Vérification de :
+- du plan de sûreté conforme au 1.10.3.2.2 si l'entreprise est concernée, (identification des marchandises dangereuses à haut risque, et nomination d'un responsable sûreté).
 
-― l'application d'une méthode d'analyse des incidents, événements ou infractions graves intégrant le choix et la mise en œuvre de mesures de prévention et/ou protection pour en éviter le renouvellement ;
-
-― l'existence d'un système permettant de suivre les actions, avec désignation de responsables ;
-
-― l'existence d'un système de retour d'expérience, permettant de connaître les types et nombre d'incidents/accident/événements et leur traitement/conclusion, notamment les plus significatifs.
-
-5.8. La prise en compte des prescriptions législatives et des besoins particuliers relatifs au transport de marchandises dangereuses concernant le choix et l'utilisation de sous-traitants ou autres intervenants
-
-Exemple de thèmes :
-
-Vérification de :
-
-― la procédure d'affrètement du transport ;
-
-― la conformité de l'entreprise choisie au regard des réglementations régissant le transport de marchandises pour compte d'autrui ;
-
-― l'existence de cahier des charges ou contrat commercial, de procédures concernant la commande de sous-traitants ;
-
-― l'existence de procédures de choix et achat de prestations liées à des cas spécifiques en raison de la nature particulière de la marchandise dangereuse ;
-
-― la conformité de l'entreprise sous-traitante ou intervenante au regard de la désignation d'un conseiller à la sécurité si celui-ci est requis par la réglementation ;
-
-― l'utilisation d'un contrat de transport ou contrat commercial.
-
-5.9. La vérification que le personnel affecté au transport des marchandises dangereuses, au chargement ou au déchargement de ces marchandises dispose de procédures d'exécution et de consignes détaillées
-
-Exemple de thèmes :
-
-Vérification de l'existence, de la pertinence, de la mise à disposition, de la mise à jour, de la mise en application :
-
-― des consignes écrites prévues au 5.4.3 ;
-
-― de consignes détaillées de chargement/déchargement (affichage aux postes) et consignes en cas d'événement ;
-
-― d'instructions de placardage, de signalisation et d'apposition de marques sur les véhicules pour les conducteurs ;
-
-― d'instructions concernant les opérations d'emballages et/ou de chargement pour le personnel aux postes et les conducteurs (si concernés) ;
-
-5.10. La mise en place d'actions pour la sensibilisation aux risques liés au transport des marchandises dangereuses,
-
-au chargement ou au déchargement de ces dernières
-
-Exemple de thèmes :
-
-Vérification de l'existence d'un système d'information/de sensibilisation du personnel sur les risques liés aux marchandises dangereuses (réunion de sécurité, formations spécifiques, réunion annuelle, exercice incendie/sécurité, etc.).
-
-5.11. La mise en place de procédés de vérification afin d'assurer la présence, à bord des moyens de transport, des documents et des équipements de sécurité devant accompagner les transports et la conformité de ces documents et de ces équipements avec la réglementation
-
-Exemple de thèmes :
-
-Vérification de l'existence, de la pertinence, de la mise à jour, de la mise en application de :
-
-― points à contrôler pour les intervenants repris au 2.1 des annexes I, II et III notamment ;
-
-― points à contrôler (vérification du matériel et documents à bord...) pour les transporteurs avant tout chargement.
-
-5.12. La mise en place de procédés de vérification afin d'assurer le respect des prescriptions relatives aux opérations de chargement et de déchargement
-
-Exemple de thèmes :
-
-Vérification de l'existence d'un moyen de contrôle du respect des consignes ou d'une liste de contrôle aux postes de chargement/déchargement.
-
-5.13. L'existence du plan de sûreté prévu au 1.10.3.2
-
-Exemples de thèmes :
-
-― vérification et examen des pratiques de l'entreprise concernant la sûreté ;
-
-― exonérations ou obligations de plan de sûreté ;
-
-― application des obligations générales de sûreté (1.10.1 à 1.10.3) ;
-
-― existence d'un plan de sûreté si l'entreprise est concernée, identification des marchandises dangereuses à haut risque, et nomination d'un responsable sûreté.
-
-6. Résumé des propositions d'actions/d'axes d'améliorations à prévoir
+6. Résumé des propositions d'actions / d'axes d'améliorations à prévoir
 
 Les propositions faites pour l'amélioration de la sécurité sont détaillées dans les comptes rendus ou rapports de visite ou rapports d'audits du conseiller à la sécurité, ou par tout autre moyen dont il dispose, notamment dans le cas des conseillers à la sécurité internes.
 
 Un bilan des propositions d'action est réalisé en ne retenant que les points les plus importants à améliorer par l'entreprise.
 
-Le cas échéant, une notion de hiérarchisation de ces propositions sera faite en termes d'urgence ou de criticité.
-
-7. Conclusion
-
-La conclusion du rapport annuel donne une vision globale de la situation et de la conformité réglementaire de l'entreprise dans ses activités liées au transport de marchandises dangereuses (y compris le chargement et le déchargement).
-
-Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les axes d'amélioration sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi.
+Le cas échéant, une notion de hiérarchisation de ces propositions sera faite en terme d'urgence ou de criticité.
 
 APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
@@ -2262,7 +2382,7 @@ APPENDICE IV.6 : CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
 
 (Voir article 25.3)
 
-1. Les modalités des contrôles par magnétoscopie des citernes visées au 3 d de l'article 25 du présent arrêté sont définies par la norme NF EN ISO 17638 d'avril 2010. Les critères d'acceptation sont ceux du niveau 1 de la norme NF EN ISO 23278 d'avril 2010.
+1. Les modalités des contrôles par magnétoscopie des citernes visées au 3 d de l'article 25 du présent arrêté sont définies par la norme NF EN ISO 17638 : 2016. Les critères d'acceptation sont ceux du niveau 1 de la norme NF EN ISO 23278 : 2015.
 
 Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN ISO 9712.
 
@@ -2360,419 +2480,223 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 
 3. Tableau relatif aux contrôles et essais à réaliser sur les équipements ADR lors des visites techniques initiales effectuées en application de l'article 14 et méthode d'examen
 
-Ensemble
+Ensemble |
 
-|
+Point examiné |
 
-Point examiné
-
-|
-
-Type de défaut
-
-|
+Type de défaut |
 
 Méthode d'examen
 
-Moyens mis en œuvre
+Moyens mis en œuvre |
 
-|
-
-Référence ADR, arrêté TMD et autres textes
-
-|
-
-1. Identification
-
-|
-
-1.1. Notice(s) descriptive(s), fiche de réception européenne et ses annexes, certificat(s) de conformité, ou procès verbal de RTI et justificatifs de conformité
-
-|
-
-État, présence et conformité
-
-|
-
-Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme)
-
-|
-
-9.1.2.2
-
-6.8.2.3
-
-|
-
-2. Équipements de sécurité
-
-|
-
-2.1. Freinage
-
-|
-
-Présence et conformité
-
-|
-
-Contrôle des documents permettant d'établir la conformité aux règlements et directives applicables. Vérification de la concordance avec la chaîne cinématique du véhicule
-
-|
-
-9.2.3
-
-|
-
-3. Équipement électrique
-
-|
-
-3.1. Installations électriques
-
-|
-
-État, présence et conformité
-
-|
-
-Examen visuel
-
-|
-
-9.2.2
-
-|
-
-3.2. Batteries
-
-|
-
-État, fixation, présence et conformité
-
-|
-
-Examen visuel.
-
-|
-
-3.3. Coffre à batteries
-
-|
-
-3.4. Canalisations (gaines et câbles)
-
-|
-
-3.5. Barrière de sécurité
-
-|
-
-Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive
-
-|
-
-3.6. Chronotachygraphe
-
-|
-
-Présence et conformité
-
-|
-
-Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive
-
-|
-
-4. Commandes de sécurité intérieures
-
-|
-
-4.1. Commande d'ouverture du coupe-batterie
-
-|
-
-État, fonctionnement, fixation, présence et conformité
-
-|
-
-Mise en action. Examen visuel
-
-|
-
-9.2.2.8
+Référence ADR, arrêté TMD et autres textes |
 
-|
-
-5. Commandes de sécurité extérieures
-
-|
-
-5.1. Dispositif d'ouverture du coupe-batterie
-
-|
-
-État, fonctionnement, fixation, présence et conformité
-
-|
-
-Mise en action. Examen visuel
-
-|
-
-9.2.2.8.2
-
-si présence
-
-|
-
-6. Prévention des risques d'incendie
-
-|
-
-6.1. Supprimé
-
-|
+1. Identification |
 
-Présence et conformité
+1.1. Notice(s) descriptive(s), fiche de réception européenne et ses annexes, certificat(s) de conformité, ou procès-verbal de RTI et justificatifs de conformité |
 
-|
-
-Examen visuel
-
-|
-
-Supprimé
-
-|
-
-6.2. Réservoir
-
-|
-
-9.2.4.3
+Etat, présence et conformité |
 
-|
-
-6.3. Chauffage autonome cabine
-
-|
-
-Contrôle de l'attestation de montage
-
-|
-
-9.2.4.7
-
-|
+Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme) |
 
-6.4. Ralentisseur
-
-|
+9.1.2.2, 6.8.2.3, 6.9.4.4 |
 
-|
+2. Équipements de sécurité |
 
-9.2.4.6
+2.1. Freinage |
 
-|
+Présence et conformité |
 
-6.5. Échappement
+Contrôle des documents permettant d'établir la conformité aux règlements et directives applicables. Vérification de la concordance avec la chaîne cinématique du véhicule |
 
-|
+9.2.3 |
 
-Examen visuel et, le cas échéant, en visite initiale, contrôle des attestations
+3. Équipement électrique |
 
-|
+3.1. Installations électriques |
 
-9.2.4.5
+Etat, présence et conformité |
 
-|
+Examen visuel |
 
-6.6. Moteur (y compris aux Haire)
+9.2.2,
 
-|
+9.7.8 |
 
-9.2.4.4
+3.2. Batteries |
 
-|
+Etat, fixation, présence et conformité |
 
-7. Citernes
+3.3. Coffre à batteries |
 
-|
+3.4. Canalisations (gaines et câbles) |
 
-7.1. Attestation de contrôle initial, intermédiaire ou périodique
+3.5. Barrière de sécurité |
 
-|
+Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive |
 
-Présence et conformité
+3.6. Chronotachygraphe |
 
-|
+Présence et conformité |
 
-Concordance de la citerne avec les documents fournis. Vérification de leur validité.
+4. Commandes de sécurité intérieures |
 
-|
+4.1. Commande d'ouverture du coupe-batterie |
 
-6.8.2.4.5
+Etat, fonctionnement, fixation, présence et conformité |
 
-|
+Mise en action. Examen visuel |
 
-7.2. Plan de chargement
+9.2.2.8 |
 
-|
+5. Commandes de sécurité extérieures |
 
-Présence et conformité
+5.1. Dispositif d'ouverture du coupe-batterie |
 
 |
 
 |
-
-7.3. Marquage
 
-|
+9.2.2.8.2 si présence |
 
-État, fixation, présence et conformité
+6. Prévention des risques d'incendie |
 
-|
+6.1. Supprimé |
 
-Examen visuel
+Présence et conformité |
 
 |
-
-6.8.2.5
 
-6.8.3.5
-
 |
 
-7.4. Partie extérieure de l'enveloppe
-
-|
+6.2. Réservoirs et bouteilles de carburant |
 
-État, présence et conformité
+Examen visuel |
 
-|
+9.2.4.3, 9.7.7 |
 
-|
+6.3. Chauffage à combustion |
 
-7.5. Isolation thermique
+Contrôle de l'attestation de montage |
 
-|
+9.2.4.7 |
 
-6.8.2.2
+6.4. Frein d'endurance (ralentisseur) |
 
-6.8.3.2
+Examen visuel et, le cas échéant, en visite initiale, contrôle des attestations |
 
-|
+9.2.4.6 |
 
-7.6. Équipements de service
+6.5. Dispositif d'échappement |
 
-|
+9.2.4.5 |
 
-7.7. Équipements COV
+6.6. Moteur (y compris auxiliaire) |
 
-|
+9.2.4.4 |
 
-AM 19/12/1995
+7. Citernes |
 
-|
+7.1. Attestation de contrôle initial, intermédiaire ou périodique |
 
-7.8. Protections supérieures
+Concordance de la citerne avec les documents fournis. Vérification de leur validité |
 
-|
+6.8.2.4.5, 6.9.5.1.2 |
 
-6.8.2.1.28
+7.2. Plan de chargement |
 
 |
 
-7.9. Protection latérale
+7.3. Marquage |
 
-|
+Etat, fixation, présence et conformité |
 
-|
+Examen visuel |
 
-7.10. Protection arrière
+6.8.2.5, 6.8.3.5, 6.9.6 |
 
-|
+7.4. Partie extérieure de l'enveloppe |
 
-9.7.6
+Etat, présence et conformité |
 
 |
 
-7.11. Liaison équipotentielle
+7.5. Isolation thermique |
 
-|
+6.8.2.2, 6.8.3.2 |
 
-6.8.2.1.27
+7.6. Équipements de service |
 
-|
+7.7. Équipements COV |
 
-7.12. Fixations
+AM 19/12/1995 |
 
-|
+7.8. Protections supérieures |
 
-|
+6.8.2.1.28 |
 
-7.13. Flexibles
+7.9. Protection latérale |
 
 |
 
-Contrôle de la fiche de suivi, du procès verbal d'épreuve hydraulique et, le cas échéant, du procès verbal d'épreuve d'étanchéité
+7.10. Protection arrière |
 
-|
+9.7.6 |
 
-Appendice IV. 1
+7.11. Connexion électrique |
 
-|
+6.8.2.1.27 |
 
-8. Explosifs
+7.12. Fixations |
 
-|
+9.7.3 |
 
-8.1. Caisse
+7.13. Flexibles |
 
 |
 
-État, fixation, présence et conformité
+Contrôle de la fiche de suivi, de l'attestation de contrôle initial, intermédiaire ou périodique |
 
-|
+Appendice IV.1 |
 
-Examen visuel
+7.14. Liaison équipotentielle
 
-|
+8. Explosifs |
 
-9.3.1
+8.1. Caisse |
 
-9.3.3
+Etat, fixation, présence et conformité |
 
-9.3.4
+Examen visuel |
 
-|
+9.3.1, 9.3.3 9.3.4 |
 
-8.2. Porte
+8.2. Porte |
 
-|
+Etat, présence et conformité |
 
-État, présence et conformité
+9.3.3 9.3.4 |
 
-|
+8.3. Éclairage intérieur |
 
-9.3.3
+Etat, fonctionnement, présence et conformité |
 
-9.3.4
+9.3.7 |
 
-|
+8.4. Chauffage à combustion |
 
-8.3. Éclairage intérieur
+Etat, présence et conformité |
 
-|
+9.3.2 |
 
-État, fonctionnement, présence et conformité
+8.5. Moteur et sources externes de chaleur et compartiment de chargement |
 
-|
+9.3.5 9.3.6 |
 
-9.3.7
+8.6. Prescriptions en matière de sécurité |
 
-|
+9.7.9 |
 
 APPENDICE IV.8 : PRESCRIPTIONS APPLICABLES À LA MISE SOUS PRESSION DE GAZ DES CITERNES ÉQUIPÉES DE COUVERCLES AMOVIBLES
 
@@ -2955,9 +2879,3 @@ Un document spécifique décrit les mesures à prendre au cours des opérations 
 -la marche à suivre en cas d'erreur de déchargement.
 
 Ce document est présent en permanence à bord de l'unité de transport effectuant les livraisons visées par le présent appendice. Il ne se substitue pas aux consignes écrites prévues au 5.4.3.
-
-NOTA :
-
-Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
-
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.
