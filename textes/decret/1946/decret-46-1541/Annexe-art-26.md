@@ -2,23 +2,35 @@
 
 Paragraphe 1.
 
-Les agents statutaires bénéficient des prestations familiales légales dans les conditions prévues par le livre V du code de la sécurité sociale.
+Les salariés statutaires bénéficient, au titre du présent statut, des avantages familiaux suivants :
 
-Ils bénéficient également, au titre du présent statut, des avantages familiaux suivants :
+-Pour leur mariage ou la conclusion de leur pacte civil de solidarité, d'une prime d'union, équivalente à un mois de la rémunération principale brute du salarié.
 
-Pour leur mariage, une indemnité égale à deux mois de leur salaire.
+Cette prime d'union ne peut être versée qu'une seule fois par bénéficiaire.
 
-A la naissance d'un enfant, une indemnité égale :
+-A la naissance d'un enfant survenant dans leur foyer, d'une prime d'un montant égal à 1,5 mois de la rémunération principale brute mensuelle pour le premier enfant et à 1 mois de la rémunération principale brute mensuelle pour le deuxième enfant et chacun des suivants.
 
--pour le 1er enfant, à 100 % du salaire mensuel ;
+Les bénéficiaires du congé de paternité et d'accueil de l'enfant peuvent prétendre au bénéfice de cette prime de naissance, de même que les salariés qui adoptent un enfant qu'il s'agisse d'une adoption simple ou d'une adoption plénière.
 
--pour chacun des 2e et 3e enfants, à 150 % du salaire mensuel ;
-
--pour le 4e enfant et chacun des suivants, à 200 % du salaire mensuel.
+Les modalités de calcul et de versement des primes visées ci-dessus sont fixées par accord collectif de branche étendu. Leur montant ne peut être inférieur ni supérieur à, respectivement, un plancher et un plafond définis par accord collectif de branche étendu.
 
 Paragraphe 2.
 
-Un sursalaire familial dont le taux et les conditions d'attribution sont fixés par les textes d'application du présent statut est applicable au personnel visé au présent statut.
+Un forfait familial est accordé aux salariés statutaires en activité de service qui ont la charge d'un enfant.
+
+Pour bénéficier du forfait familial, l'ouvrant-droit doit remplir les conditions cumulatives suivantes :
+
+-avoir la charge de l'enfant ;
+
+-être dans l'une des situations suivantes : soit avoir un lien de filiation avec l'enfant, soit justifier que l'enfant est présent au foyer du bénéficiaire.
+
+Le forfait familial est versé uniquement à l'ouvrant droit qui remplit les conditions pour en bénéficier, et ne peut être versé à des tiers.
+
+Lorsque chacun des membres d'un couple pourrait prétendre au bénéfice du forfait familial, celui-ci n'est versé qu'à un seul d'entre eux.
+
+Le forfait familial est versé mensuellement pour chaque enfant à charge. Il est versé à compter du premier jour du mois qui suit la naissance ou l'adoption de l'enfant au titre duquel il est accordé et prend fin au terme du mois au cours duquel intervient le vingtième anniversaire de cet enfant.
+
+Le montant ainsi que les modalités de revalorisation du forfait familial sont fixés par accord de branche collectif étendu.
 
 Paragraphe 3.
 
@@ -28,9 +40,9 @@ Toute fausse déclaration faite par un agent dans le but de bénéficier d'avant
 
 Paragraphe 4.
 
-Les agents titulaires d'une pension de vieillesse ou d'invalidité du régime spécial des industries électriques et gazières qui ne sont pas couverts sur le plan familial par une institution dont ils pourraient dépendre en raison d'une nouvelle activité bénéficient des avantages familiaux susvisés, au même titre et aux mêmes taux que les agents en activité disposant d'un classement identique à celui dont ils bénéficiaient au moment de leur départ en inactivité.
+Les agents titulaires d'une pension de vieillesse, y compris pension de réversion, ou d'invalidité du régime spécial des industries électriques et gazières qui ne sont pas couverts sur le plan familial par une institution dont ils pourraient dépendre en raison d'une nouvelle activité bénéficient des avantages familiaux susvisés, au même titre et aux mêmes taux que les agents en activité disposant d'un classement identique à celui dont ils bénéficiaient au moment de leur départ en inactivité.
 
-Pour les agents titulaires d'une pension de vieillesse du régime spécial des industries électriques et gazières, le bénéfice des avantages familiaux prévus aux paragraphes 1 et 2 du présent article est conditionné à une ancienneté minimale de quinze années, le cas échéant période d'invalidité comprise.
+Pour les agents titulaires d'une pension de vieillesse, y compris pension de réversion, du régime spécial des industries électriques et gazières, le bénéfice des avantages familiaux prévus aux paragraphes 1 et 2 du présent article est conditionné à une ancienneté minimale de quinze années, le cas échéant période d'invalidité comprise.
 
 Sont décomptées au titre de l'ancienneté les périodes suivantes :
 
@@ -56,6 +68,6 @@ Abrogé.
 
 Paragraphe 6.
 
-Les conjoints et enfants d'agents décédés en situation d'inactivité et qui remplissaient la condition d'ancienneté définie au deuxième alinéa du paragraphe 4 ci-dessus, de même que les conjoints et enfants d'agents décédés en activité de service conservent les droits aux avantages familiaux dont le décédé bénéficiait à leur titre avant son décès.
+Les conjoints , partenaires de pacte civil de solidarité ou concubins, et enfants d'agents décédés en situation d'inactivité et qui remplissaient la condition d'ancienneté définie au deuxième alinéa du paragraphe 4 ci-dessus, de même que les conjoints, partenaires de pacte civil de solidarité ou concubins, et enfants d'agents décédés en activité de service conservent les droits aux avantages familiaux dont le décédé bénéficiait à leur titre avant son décès.
 
 Dans le cas d'orphelins totaux, les avantages en cause seront doublés et mandatés au nom des ascendants du décédé ou de toute personne ou institution prenant en charge lesdits orphelins totaux.
