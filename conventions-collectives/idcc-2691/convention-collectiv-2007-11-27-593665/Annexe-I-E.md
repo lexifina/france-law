@@ -1,0 +1,135 @@
+# Article Annexe I-E
+
+ANNEXE I - E
+
+Grille de salaires du personnel enseignant des entreprises de l'enseignement privé à distance (EAD)
+
+(en 2018 et jusqu'à l'application des minima 2019)
+
+Niveau |
+
+Échelon A |
+
+Échelon B |
+
+Échelon C |
+
+|
+
+Salaire
+
+mensuel |
+
+Salaire
+
+annuel |
+
+Salaire
+
+mensuel |
+
+Salaire
+
+annuel |
+
+Salaire
+
+mensuel |
+
+Salaire
+
+annuel |
+
+EAD 1 |
+
+1 760,11 |
+
+21 121,30 |
+
+1 848,11 |
+
+22 177,36 |
+
+1 940,52 |
+
+23 286,23 |
+
+EAD 2 |
+
+1 885,83 |
+
+22 629,96 |
+
+1 980,12 |
+
+23 761,46 |
+
+2 079,13 |
+
+24 949,53 |
+
+EAD 3 |
+
+1 948,69 |
+
+23 384,29 |
+
+2 046,13 |
+
+24 553,51 |
+
+2 148,43 |
+
+25 781,18 |
+
+EAD 4 |
+
+2 011,55 |
+
+24 138,62 |
+
+2 112,13 |
+
+25 345,56 |
+
+2 217,74 |
+
+26 612,83 |
+
+Barème des minima de la correction à domicile sans indemnité de congés payés (en 2018 et jusqu'à l'application des minima 2019)
+
+Taux horaire |
+
+Échelon |
+
+Euros |
+
+Tarif pour une correction de 5 minutes |
+
+Échelon |
+
+Euros |
+
+A |
+
+10,56 |
+
+A |
+
+0,88 |
+
+B |
+
+11,09 |
+
+B |
+
+0,92 |
+
+C |
+
+11,64 |
+
+C |
+
+0,97 |
