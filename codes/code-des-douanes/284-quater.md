@@ -10,7 +10,7 @@ Toutefois, la circulation de véhicules dont le poids total en charge dépasse l
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
-4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 1 000 euros.
+4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et sanctions prévues en matière de droits de douane.
 
