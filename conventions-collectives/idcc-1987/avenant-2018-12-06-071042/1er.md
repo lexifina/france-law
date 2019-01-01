@@ -1,0 +1,137 @@
+# Article 1er
+
+L'article 10 de l'annexe I « Ouvriers. – Employés » de la convention collective nationale des « Pâtes alimentaires sèches et du couscous non préparé » est modifié comme suit :
+
+« Une prime d'ancienneté est attribuée aux ouvriers et aux employés. Cette prime est calculée en appliquant au montant horaire du coefficient du salarié, selon le barème de la prime d'ancienneté ci-dessous, un taux déterminé en fonction de son ancienneté :
+
+– 3 % après 3 ans d'ancienneté ;
+
+– 6 % après 6 ans d'ancienneté ;
+
+– 9 % après 9 ans d'ancienneté ;
+
+– 12 % après 12 ans d'ancienneté ;
+
+– 15 % après 15 ans d'ancienneté.
+
+Barème de calcul de la prime d'ancienneté applicable au 1er janvier 2019
+
+(En euros.)
+
+Coefficient |
+
+Montant horaire
+
+Prime d'ancienneté |
+
+135 |
+
+8,09 |
+
+140 |
+
+8,11 |
+
+145 |
+
+8,14 |
+
+150 |
+
+8,16 |
+
+155 |
+
+8,18 |
+
+160 |
+
+8,20 |
+
+165 |
+
+8,21 |
+
+170 |
+
+8,23 |
+
+175 |
+
+8,35 |
+
+180 |
+
+8,47 |
+
+185 |
+
+8,61 |
+
+190 |
+
+8,75 |
+
+195 |
+
+8,91 |
+
+200 |
+
+9,07 |
+
+210 |
+
+9,40 |
+
+220 |
+
+9,72 |
+
+230 |
+
+10,05 |
+
+240 |
+
+10,37 |
+
+250 |
+
+10,70 |
+
+260 |
+
+11,00 |
+
+270 |
+
+11,32 |
+
+280 |
+
+11,63 |
+
+290 |
+
+11,94 |
+
+300 |
+
+12,26 |
+
+310 |
+
+12,58 |
+
+320 |
+
+12,90 |
+
+330 |
+
+13,22 |
+
+340 |
+
+13,54 |
