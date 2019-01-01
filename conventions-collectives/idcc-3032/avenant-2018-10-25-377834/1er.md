@@ -1,0 +1,39 @@
+# Article 1er
+
+L'article 7 intitulé « Taux de cotisations » est désormais rédigé comme suit :
+
+« Article 7
+
+Taux de cotisations
+
+Taux de cotisation |
+
+Tranche A/ Tranche B |
+
+Décès |
+
+0,11 % |
+
+Rente éducation |
+
+0,05 % |
+
+Incapacité de travail |
+
+0,31 % |
+
+2de période de maintien de salaire (*) |
+
+0,13 % |
+
+Invalidité |
+
+0,20 % |
+
+Total prévoyance |
+
+0,80 % |
+
+(*) Cotisation à charge exclusive de l'employeur. |
+
+La cotisation prévoyance est répartie à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié. Ces cotisations sont prélevées sur la masse salariale brute des salariés concernés par le présent régime et travaillant au sein de chaque entreprise entrant dans le champ d'application du présent accord. »
