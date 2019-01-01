@@ -58,7 +58,7 @@ U1C |
 
 CCF |
 
-Ponctuelle écrite |
+Ponctuelle pratique |
 
 3 h 30 min |
 
@@ -72,7 +72,7 @@ U1S |
 
 CCF |
 
-Ponctuelle écrite |
+Ponctuelle pratique |
 
 3 h 30 min |
 
@@ -114,7 +114,9 @@ UG1 |
 
 CCF |
 
-Ponctuelle écrite et orale |
+Ponctuelle écrite
+
+et orale |
 
 2 h 15 min |
 
@@ -154,6 +156,12 @@ Ponctuelle orale |
 
 Ponctuelle orale |
 
-20 min + 20 min préparation |
+20 min + 20 min
+
+préparation |
 
 (1) Seuls les points excédant 10 sur 20 sont pris en compte pour le calcul de la note moyenne. |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 8 février 2018, ces dispositions entrent en vigueur à compter de la session 2019 du certificat d'aptitude professionnelle.

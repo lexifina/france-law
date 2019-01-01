@@ -68,21 +68,11 @@ Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par
 
 L'inspecteur de l'éducation nationale de la spécialité veille au bon déroulement de l'évaluation qui est organisée sous la responsabilité du chef d'établissement.
 
-3.2 Forme ponctuelle
+3.2. Forme ponctuelle
 
-Épreuve pratique d'une durée de 3 h 30 minutes dont 30 minutes conseillées pour la lecture du sujet.
+Épreuve écrite d'une durée de 3 h 30 minutes dont 30 minutes conseillées pour la lecture du sujet.
 
-L'épreuve concerne les mêmes objectifs, sous la forme d'une épreuve pratique d'une durée de 3 h 30 et permet aux examinateurs d'évaluer le niveau de maîtrise attendu des compétences C1 et C2.
-
-Le support de l'épreuve est décrit au paragraphe 2.
-
-Le (ou les) dossier (s) fournis aux candidats seront validés par l'IEN-ET responsable de la filière.
-
-L'épreuve se déroule dans un établissement public formant à un CAP Réalisations industrielles en chaudronnerie ou soudage . Les candidats auront la possibilité de prendre connaissance des environnements numériques de travail de l'établissement en amont de l'épreuve.
-
-La commission d'interrogation est composée de deux professeurs des enseignements professionnels et d'un professionnel. La présence du professionnel est fortement recommandée, toutefois la commission pourra exceptionnellement statuer en l'absence de celui-ci.
-
-La même fiche type d'évaluation que pour le contrôle en cours de formation est utilisée. Seule cette dernière sera systématiquement transmise au jury.
+Une fiche nationale d'évaluation, mise au point chaque année en fonction du sujet par l'Inspection Générale, est diffusée aux services rectoraux des examens et concours. Seule cette dernière sera systématiquement utilisée pour la correction de l'épreuve.
 
 Épreuve EP1 option soudage (Unité U1S) :
 
@@ -148,21 +138,11 @@ Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par
 
 L'inspecteur de l'éducation nationale de la spécialité veille au bon déroulement de l'évaluation qui est organisée sous la responsabilité du chef d'établissement.
 
-3.2 Forme ponctuelle
+3.2. Forme ponctuelle
 
-Épreuve pratique d'une durée de 3 h 30 minutes dont 30 minutes conseillées pour la lecture du sujet.
+Épreuve écrite d'une durée de 3 h 30 minutes dont 30 minutes conseillées pour la lecture du sujet.
 
-L'épreuve concerne les mêmes objectifs, sous la forme d'une épreuve pratique d'une durée de 3 h 30 et permet aux examinateurs d'évaluer le niveau de maîtrise attendu des compétences C1 et C2.
-
-Le support de l'épreuve est décrit au paragraphe 2.
-
-Le (ou les) dossier (s) fournis aux candidats seront validés par l'IEN-ET responsable de la filière.
-
-L'épreuve se déroule dans un établissement public formant à un CAP Réalisations industrielles en chaudronnerie ou soudage . Les candidats auront la possibilité de prendre connaissance des environnements numériques de travail de l'établissement en amont de l'épreuve.
-
-La commission d'interrogation est composée de deux professeurs des enseignements professionnels et d'un professionnel. La présence du professionnel est fortement recommandée, toutefois la commission pourra exceptionnellement statuer en l'absence de celui-ci.
-
-La même fiche type d'évaluation que pour le contrôle en cours de formation est utilisée. Seule cette dernière sera systématiquement transmise au jury.
+Une fiche nationale d'évaluation, mise au point chaque année en fonction du sujet par l'Inspection Générale, est diffusée aux services rectoraux des examens et concours. Seule cette dernière sera systématiquement utilisée pour la correction de l'épreuve.
 
 Épreuve EP2 option chaudronnerie (Unité U2C)
 
@@ -441,3 +421,7 @@ Langue vivante
 Coefficient : 1
 
 L'épreuve facultative de langue vivante est définie par l'arrêté du 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général et l'arrêté du 8 juillet 2003 fixant le programme d'enseignement des langues vivantes étrangères pour les certificats d'aptitude professionnelle.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 8 février 2018, ces dispositions entrent en vigueur à compter de la session 2019 du certificat d'aptitude professionnelle.
