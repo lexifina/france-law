@@ -42,6 +42,10 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 12. Résultat de l'exercice (excédentaire ou déficitaire).
 
+120. Résultat de l'exercice (bénéfice).
+
+129. Résultat de l'exercice (perte).
+
 13. Subventions d'investissement.
 
 131. Subventions d'investissement rattachées aux actifs amortissables.
@@ -52,7 +56,7 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 1318. Autres subventions d'équipement.
 
-13181 Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage (CFA).
+13181. Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage (CFA).
 
 13188 Autres.
 
@@ -100,21 +104,49 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 1511. Provisions pour litiges.
 
+15111. Provisions pour litiges (non budgétaires).
+
+15112. Provisions pour litiges (budgétaires).
+
 1514. Provisions pour amendes et pénalités.
+
+15141. Provisions pour amendes et pénalités (non budgétaires).
+
+15142. Provisions pour amendes et pénalités (budgétaires).
 
 1515. Provisions pour pertes de change.
 
+15151. Provisions pour pertes et change (non budgétaires).
+
+15152. Provisions pour pertes et change (budgétaires).
+
 1518. Autres provisions pour risques.
+
+15181. Autres provisions pour risques (non budgétaires).
+
+15182. Autres provisions pour risques (budgétaires).
 
 157. Provisions pour charges à répartir sur plusieurs exercices.
 
 1572. Provisions pour grosses réparations.
 
-158. Autres provisions pour risques et charges.
+15721. Provisions pour grosses réparations (non budgétaires).
 
-1582. Provisions pour congés payés.
+15722. Provisions pour grosses réparations (budgétaires).
 
-1588. Autres.
+158. Autres provisions pour charges.
+
+1582. Provisions pour CET.
+
+15821. Provisions pour CET (non budgétaires).
+
+15822. Provisions pour CET (budgétaires).
+
+1588. Autres provisions pour charges.
+
+15881. Autres provisions pour charges (non budgétaires).
+
+15882. Autres provisions pour charges (budgétaires).
 
 16. Emprunts et dettes assimilées.
 
@@ -130,6 +162,8 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 165. Dépôts et cautionnements reçus.
 
+166. Refinancement de dette.
+
 167. Emprunts et dettes assorties de conditions particulières.
 
 168. Autres emprunts et dettes assimilées.
@@ -142,11 +176,23 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 169. Primes de remboursements des obligations.
 
+18. Compte de liaison : affectation est créé ;
+
+181. Compte de liaison : affectation à ….
+
+19. Neutralisations et régularisations d'opérations.
+
+192. Plus ou moins-values sur cessions d'immobilisations.
+
 CLASSE 2. - COMPTES D'IMMOBILISATIONS
 
 20. Immobilisations incorporelles.
 
 203. Frais d'études, de recherche et de développement.
+
+204. Subventions d'équipement versées.
+
+2044. Subventions d'équipement en nature.
 
 205. Concessions et droits similaires, brevets, licences, marques, procédés, droits et valeurs similaires.
 
@@ -172,6 +218,8 @@ CLASSE 2. - COMPTES D'IMMOBILISATIONS
 
 2135. Installations générales, agencements, aménagements des constructions.
 
+2138. Autres constructions.
+
 214. Constructions sur sol d'autrui.
 
 2141. Constructions sur sol d'autrui. - Bâtiments publics.
@@ -180,7 +228,7 @@ CLASSE 2. - COMPTES D'IMMOBILISATIONS
 
 215. Installations, matériel et outillage techniques.
 
-216. OEuvres d'art.
+216. Œuvres d'art.
 
 218. Autres immobilisations corporelles.
 
@@ -260,6 +308,10 @@ Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni
 
 2803. Frais d'études, de recherche et de développement.
 
+2804. Subventions d'équipement versées.
+
+28044. Subventions d'équipement en nature.
+
 2805. Concessions et droits similaires, brevets, licences, droits et valeurs similaires.
 
 2808. Autres immobilisations incorporelles.
@@ -276,6 +328,8 @@ Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni
 
 28135. Installations générales, agencements, aménagements des constructions.
 
+28138. Autres constructions.
+
 2814. Constructions sur sol d'autrui.
 
 28141. Constructions sur sol d'autrui. - Bâtiments publics.
@@ -288,7 +342,7 @@ Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni
 
 28181. Installations générales, agencements et aménagements divers
 
-Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni bénéficiaire d'une mise à disposition..
+Dans des constructions dont le CNFPT n'est ni propriétaire, ni affectataire, ni bénéficiaire d'une mise à disposition.
 
 28182. Matériel de transport.
 
@@ -428,11 +482,15 @@ CLASSE 4. - COMPTES DE TIERS
 
 40472 Fournisseurs - Cessions, oppositions.
 
+40473. Fournisseurs-Pénalités de retard d'exécution des marchés.
+
 405. Fournisseurs d'immobilisations. - Lettre-change relevé (LCR).
 
 408. Fournisseurs. - Factures non parvenues.
 
 409. Fournisseurs débiteurs.
+
+4091. Avances versées sur commandes.
 
 4096. Fournisseurs. - Créances pour emballages et matériels à rendre.
 
@@ -484,6 +542,8 @@ CLASSE 4. - COMPTES DE TIERS
 
 4214. Personnel. - Rémunérations dues. - Exercices antérieurs.
 
+425. Personnel-Avances et acomptes.
+
 427. Personnel. - Oppositions.
 
 428. Personnel. - Charges à payer et produits à recevoir.
@@ -530,6 +590,10 @@ CLASSE 4. - COMPTES DE TIERS
 
 442. Etat. - Impôts et taxes recouvrables sur des tiers.
 
+4421. Prélèvement à la source-Impôt sur le revenu.
+
+4428. Autres.
+
 443. Opérations particulières avec l'Etat et les collectivités publiques.
 
 4431. Dépenses.
@@ -573,6 +637,10 @@ CLASSE 4. - COMPTES DE TIERS
 4486. Charges à payer.
 
 4487. Produits à recevoir.
+
+451. Compte de rattachement avec … (à subdiviser par budget annexe).
+
+452. Budget annexe-Activités accessoires.
 
 458. Opérations sous mandat.
 
@@ -641,6 +709,8 @@ CLASSE 4. - COMPTES DE TIERS
 47138. Autres.
 
 4714. Cotisations des collectivités locales.
+
+4716. Recettes ACOSS.
 
 4718. Autres recettes à régulariser.
 
@@ -721,6 +791,8 @@ CLASSE 5. - COMPTES FINANCIERS
 51. Trésor, établissements financiers et assimilés.
 
 511. Valeurs à l'encaissement.
+
+5112. Chèques à l'encaissement.
 
 5115. Cartes bancaires à l'encaissement.
 
@@ -866,6 +938,10 @@ CLASSE 6. - COMPTES DE CHARGES
 
 6135. Locations mobilières.
 
+61351. Droits d'utilisation de logiciels.
+
+61358. Autres locations mobilières.
+
 614. Charges locatives et de copropriété.
 
 615. Entretien et réparations.
@@ -908,11 +984,13 @@ CLASSE 6. - COMPTES DE CHARGES
 
 621. Personnel extérieur au service.
 
-622. Rémunérations d'intermédiaires et honoraires.
-
 6215. Personnel affecté par la collectivité de rattachement.
 
 6218. Autre personnel extérieur.
+
+622. Rémunérations d'intermédiaires et honoraires.
+
+6224. Frais de gestion et de recouvrement de l'ACOSS.
 
 6225. Indemnités au comptable et aux régisseurs.
 
@@ -921,8 +999,6 @@ CLASSE 6. - COMPTES DE CHARGES
 6227. Frais d'actes et de contentieux.
 
 6228. Diverses rémunérations d'intermédiaires.
-
-6287. Remboursements de frais.
 
 623. Publicité, publications, relations publiques.
 
@@ -977,6 +1053,8 @@ CLASSE 6. - COMPTES DE CHARGES
 6282. Frais de gardiennage.
 
 6283. Frais de nettoyage des locaux.
+
+6287. Remboursements de frais.
 
 6288. Autres.
 
@@ -1090,17 +1168,23 @@ CLASSE 6. - COMPTES DE CHARGES
 
 64718. Autres charges sociales diverses.
 
+64719. Remboursement sur autres charges sociales-Personnel de l'établissement.
+
 6472. Autres personnels.
 
 64725. Médecine du travail, pharmacie.
 
 64728. Autres charges sociales diverses.
 
+64729. Remboursement sur autres charges sociales-Autre personnel.
+
 648. Autres charges de personnel.
 
 6481. Personnel de l'établissement.
 
 6482. Autres personnels.
+
+6489. Remboursement sur autres charges de personnel.
 
 65. Autres charges de gestion courante.
 
@@ -1168,6 +1252,10 @@ Comptes ouverts uniquement dans le budget de l'IRL.
 
 6611. Intérêts des emprunts et dettes.
 
+66111. Intérêts réglés à l'échéance.
+
+66112. Intérêts-Rattachement des ICNE.
+
 6615. Intérêts des comptes courants et de dépôts créditeurs.
 
 6616. Intérêts bancaires et sur opérations de financement (escompte, ...).
@@ -1203,6 +1291,8 @@ Comptes ouverts uniquement dans le budget de l'IRL.
 6748. Autres subventions exceptionnelles.
 
 675. Valeurs comptables des éléments d'actif cédés.
+
+676. Différences sur réalisations (positives) transférées en section d'investissement.
 
 678. Autres charges exceptionnelles.
 
@@ -1350,11 +1440,15 @@ Compte réservé au budget annexe de l'IRL..
 
 771. Produits exceptionnels sur opérations de gestion.
 
+7712. Facturation aux collectivités des agents inscrits et absents aux sessions de formation;
+
 7713. Libéralités reçues.
 
 7714. Recouvrement sur créances admises en non-valeur.
 
 7715. Subventions d'équilibre.
+
+7716. Produits sur exercices antérieurs.
 
 7717. Dégrèvements d'impôts.
 
@@ -1364,9 +1458,15 @@ Compte réservé au budget annexe de l'IRL..
 
 775. Produits des cessions d'éléments d'actif.
 
+776. Différences sur réalisations (négatives) transférées en section d'investissement.
+
 777. Quote-part des subventions d'investissement virée au résultat de l'exercice.
 
 778. Autres produits exceptionnels.
+
+7786. Pénalités-majorations sur cotisations.
+
+7788. Produits exceptionnels divers.
 
 78. Reprises sur amortissements et provisions.
 
