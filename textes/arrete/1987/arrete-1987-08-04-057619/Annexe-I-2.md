@@ -2,11 +2,11 @@
 
 BARÈME DE MARGE DU PHARMACIEN D'OFFICINE
 
-Pour la partie du prix fabricant HT
+POUR LA PARTIE DU PRIX FABRICANT HT
 
 comprise entre |
 
-Coefficient HT à partir du 1er janvier 2018 |
+COEFFICIENT HT À PARTIR DU 1er JANVIER 2019 |
 
 0 et 1,91 € |
 
@@ -14,16 +14,20 @@ Coefficient HT à partir du 1er janvier 2018 |
 
 1,92 et 22,90 € |
 
-21,4 % |
+13 % |
 
 22,91 et 150,00 € |
 
-8,5 % |
+6 % |
 
-150,01 et 1515,00 € |
+150,01 et 1 600,00 € |
 
 6 % |
 
-Supérieur à 1515,00 € |
+Supérieur à 1 600,00 € |
 
 0 % |
+
+NOTA :
+
+Conformément à l’article 1er de l’arrêté du 12 novembre 2018 (NOR : SSAS1826534A), ces dispositions entrent en vigueur à compter du 1er janvier 2019.
