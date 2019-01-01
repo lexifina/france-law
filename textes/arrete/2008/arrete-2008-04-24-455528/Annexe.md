@@ -312,29 +312,29 @@ Topographie de produits semi-conducteurs : |
 
 27 |
 
-8. Registre du commerce et des sociétés |
+8. Registre national du commerce et des sociétés |
 
 |
 
-Immatriculation principale d'une personne physique requise pour cause de création d'établissement. |
+Immatriculation principale d'une personne physique requise pour cause de création d'établissement |
 
-gratuit |
+Gratuit |
 
 Immatriculation d'une personne morale (constitution sans activité ou avec création d'établissement) |
 
-gratuit |
+Gratuit |
 
 Immatriculation principale requise suite à la prise d'un fonds en location gérance : |
 
-5,90 |
+|
 
 - personne physique |
 
-11,60 |
+Gratuit |
 
 - personne morale |
 
-|
+Gratuit |
 
 Immatriculation principale requise suite à achat ou apport d'un fonds de commerce (mutation à titre onéreux) et pour toute autre cause (donation, transmission de patrimoine, héritage, transfert hors ressort), ou faisant suite à la caducité d'une inscription précédente : |
 
@@ -342,15 +342,15 @@ Immatriculation principale requise suite à achat ou apport d'un fonds de commer
 
 - personne physique |
 
-5,90 |
+Gratuit |
 
 - personne morale |
 
-11,60 |
+Gratuit |
 
 Immatriculation secondaire requise suite à création (personne physique ou morale) |
 
-gratuit |
+Gratuit |
 
 Immatriculation secondaire requise suite à achat ou apport d'un fonds de commerce (mutation à titre onéreux) : |
 
@@ -358,11 +358,11 @@ Immatriculation secondaire requise suite à achat ou apport d'un fonds de commer
 
 - personne physique |
 
-5,90 |
+Gratuit |
 
 - personne morale |
 
-11,60 |
+Gratuit |
 
 Toute inscription complémentaire : |
 
@@ -390,7 +390,7 @@ Toute inscription modificative y compris transfert autre que transfert hors ress
 
 Radiation au registre du commerce et des sociétés (personne physique ou morale) |
 
-gratuit |
+Gratuit |
 
 Dépôts des comptes annuels pour les sociétés |
 
@@ -402,7 +402,7 @@ Dépôt d'actes pour les personnes morales : |
 
 - acte constitutif |
 
-gratuit |
+Gratuit |
 
 - acte modificatif |
 
@@ -414,11 +414,11 @@ Conversion du capital social d'une société à l'euro près : |
 
 - inscription modificative |
 
-gratuit |
+Gratuit |
 
 - acte modificatif |
 
-gratuit |
+Gratuit |
 
 9. Indications géographiques |
 
