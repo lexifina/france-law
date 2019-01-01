@@ -12,10 +12,6 @@ A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 |
 
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
-
-|
-
 Désignation de la rubrique
 
 |
@@ -25,14 +21,6 @@ A, E, D, C (1)
 |
 
 Rayon (2)
-
-|
-
-Capacité de l'activité
-
-|
-
-Coef.
 
 |
 
@@ -48,10 +36,6 @@ Soude ou potasse caustique (emploi ou stockage de lessives de).
 
 |
 
-|
-
-|
-
 Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassium.
 
 |
@@ -60,19 +44,7 @@ Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassiu
 
 |
 
-A. Quelle que soit la capacité
-
-|
-
-6
-
-|
-
 La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -92,19 +64,11 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure à 100 t, mais inférieure ou égale à 250 t
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -123,10 +87,6 @@ Définitions :
 -Les termes substance radioactive d'origine naturelle , activité , radioactivité , radionucléide et source radioactive scellée sont définis dans l'annexe 13-7 de la première partie du code de la santé publique ;
 
 - QNS : calcul du coefficient Q tel que défini à l'article R. 1333-106 du code de la santé publique pour les substances radioactives non scellées uniquement.
-
-|
-
-|
 
 |
 
@@ -158,10 +118,6 @@ D
 
 |
 
-|
-
-|
-
 1735
 
 |
@@ -178,14 +134,6 @@ A
 
 |
 
-La quantité étant supérieure ou égale à 1 tonne
-
-|
-
-5
-
-|
-
 2101
 
 |
@@ -198,15 +146,7 @@ Bovins (activité d'élevage, transit, vente, etc. de).
 
 |
 
-|
-
-|
-
 1. Elevage de veaux de boucherie et/ ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
-
-|
-
-|
 
 |
 
@@ -226,19 +166,11 @@ A
 
 |
 
-|
-
-|
-
 b) De 401 à 800 animaux
 
 |
 
 E
-
-|
-
-|
 
 |
 
@@ -254,15 +186,7 @@ D
 
 |
 
-|
-
-|
-
 2. Elevage de vaches laitières (c'est-à-dire dont le lait est, au moins en partie, destiné à la consommation humaine) :
-
-|
-
-|
 
 |
 
@@ -282,19 +206,11 @@ A
 
 |
 
-|
-
-|
-
 b) De 151 à 400 vaches
 
 |
 
 E
-
-|
-
-|
 
 |
 
@@ -310,15 +226,7 @@ D
 
 |
 
-|
-
-|
-
 3. Elevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
-
-|
-
-|
 
 |
 
@@ -334,15 +242,7 @@ D |
 
 |
 
-|
-
-|
-
 4. Transit et vente de bovins, y compris les marchés et centres d'allotement, lorsque la présence des animaux est inférieure ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
-
-|
-
-|
 
 |
 
@@ -358,19 +258,11 @@ D |
 
 |
 
-|
-
-|
-
 2102
 
 |
 
 Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées à d'autres rubriques :
-
-|
-
-|
 
 |
 
@@ -390,15 +282,7 @@ A
 
 |
 
-|
-
-|
-
 2. Autres installations que celles visées au 1 et détenant :
-
-|
-
-|
 
 |
 
@@ -416,10 +300,6 @@ E
 
 |
 
-|
-
-|
-
 b) De 50 à 450 animaux-équivalents
 
 |
@@ -430,19 +310,11 @@ D
 
 |
 
-|
-
-|
-
 Nota.-Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent.
 
 Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents.
 
 Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0,2 animal-équivalent.
-
-|
-
-|
 
 |
 
@@ -462,10 +334,6 @@ Lapins (activité d'élevage, transit, vente, etc., de).
 
 |
 
-|
-
-|
-
 1. plus de 20 000 animaux sevrés
 
 |
@@ -475,10 +343,6 @@ A
 |
 
 1
-
-|
-
-|
 
 |
 
@@ -492,19 +356,11 @@ D
 
 |
 
-|
-
-|
-
 2111
 
 |
 
 Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
-
-|
-
-|
 
 |
 
@@ -524,19 +380,11 @@ A
 
 |
 
-|
-
-|
-
 2. Autres installations que celles visées au 1 et détenant un nombre d'emplacements pour les volailles et gibier à plumes supérieur à 30 000
 
 |
 
 E
-
-|
-
-|
 
 |
 
@@ -552,15 +400,7 @@ D
 
 |
 
-|
-
-|
-
 Nota.-Pour le " 1. " et le " 2. ", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement. Pour le " 3. ", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents : caille = 0,125 ; pigeon, perdrix = 0,25 ; coquelet = 0,75 ; poulet léger = 0,85 ; poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ; poulet lourd = 1,15 ; canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ; dinde légère = 2,20 ; dinde médium, dinde reproductrice, oie = 3 ; dinde lourde = 3,50 ; palmipèdes gras en gavage = 7.
-
-|
-
-|
 
 |
 
@@ -580,10 +420,6 @@ Couvoirs
 
 |
 
-|
-
-|
-
 Capacité logeable d'eau moins 100 000 œufs
 
 |
@@ -594,19 +430,11 @@ D
 
 |
 
-|
-
-|
-
 2113
 
 |
 
 Carnassiers à fourrure (établissements d'élevage, vente, transit, etc., d'animaux)
-
-|
-
-|
 
 |
 
@@ -626,10 +454,6 @@ A
 
 |
 
-|
-
-|
-
 2. de 100 à 2 000 animaux
 
 |
@@ -640,19 +464,11 @@ D
 
 |
 
-|
-
-|
-
 2120
 
 |
 
 Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de) à l'exclusion des établissements de soins et de toilettage et des rassemblements occasionnels tels que foires, expositions et démonstrations canines.
-
-|
-
-|
 
 |
 
@@ -672,10 +488,6 @@ A
 
 |
 
-|
-
-|
-
 2. de 10 à 50 animaux
 
 |
@@ -684,17 +496,9 @@ D
 
 |
 
-|
-
-|
-
-|
+- |
 
 Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
-
-|
-
-|
 
 |
 
@@ -714,10 +518,6 @@ Piscicultures
 
 |
 
-|
-
-|
-
 1. piscicultures d'eau douce (à l'exclusion des étangs empoissonnés, où l'élevage est extensif, sans nourrissage ou avec apport de nourriture exceptionnel), la capacité de production étant supérieure à 20 t/ an
 
 |
@@ -730,15 +530,7 @@ A
 
 |
 
-|
-
-|
-
 2. piscicultures d'eau de mer, la capacité de production étant :
-
-|
-
-|
 
 |
 
@@ -758,10 +550,6 @@ A
 
 |
 
-|
-
-|
-
 b) supérieure à 5 t/ an, mais inférieure ou égale à 20 t/ an
 
 |
@@ -772,21 +560,17 @@ D
 
 |
 
-|
-
-|
-
 2140
 
 |
 
-Animaux d'espèces non domestiques (installations fixes et permanentes de présentation au public de), à l'exclusion des magasins de vente au détail et des installations présentant au public des animaux d'espèces non domestiques correspondant aux activités suivantes :
+Animaux d’espèces non domestiques (installations fixes et permanentes de présentation au public de), à l’exclusion des magasins de vente au détail et des installations présentant au public des animaux d’espèces non domestiques correspondant aux activités suivantes :
 
--présentation de poissons et d'invertébrés aquatiques, les capacités cumulées des aquariums et des bassins présentés au public étant inférieures à 10 000 litres de volume total brut ;
+- présentation de poissons et d’invertébrés aquatiques, les capacités cumulées des aquariums et des bassins présentés au public étant inférieures à 10 000 litres de volume total brut ;
 
--présentation au public d'animaux dont les espèces figurent dans la liste prévue par l'article R. 413-6 du code de l'environnement ;
+- présentation au public d’animaux dont les espèces figurent dans la liste prévue par l’article R. 413-6 du code de l’environnement ;
 
--présentation au public d'arthropodes.
+- présentation au public d’arthropodes.
 
 |
 
@@ -798,15 +582,7 @@ A
 
 |
 
-|
-
-|
-
-Nota : sont visées les installations présentes sur un même site au moins 90 jours par an consécutifs ou non et dont l'activité de présentation au public est d'au moins 7 jours par an sur ce site
-
-|
-
-|
+Nota : sont visées les installations présentes sur un même site au moins 90 jours par an consécutifs ou non et dont l’activité de présentation au public est d’au moins 7 jours par an sur ce site.
 
 |
 
@@ -826,15 +602,7 @@ Coléoptères, diptères, orthoptères (activité d'élevage de) à l'exclusion 
 
 |
 
-|
-
-|
-
 1. Lorsque le substrat utilisé pour l'élevage contient des sous-produits animaux, la quantité maximale d'insectes susceptible d'être produite étant : |
-
-|
-
-|
 
 |
 
@@ -848,10 +616,6 @@ A |
 
 3 |
 
-|
-
-|
-
 b) Supérieure à 1 kg/j et inférieure ou égale à 150 kg/j
 
 |
@@ -860,15 +624,7 @@ DC |
 
 |
 
-|
-
-|
-
 2. Autres installations que celles visées au 1, la quantité maximale d'insectes susceptible d'être produite étant :
-
-|
-
-|
 
 |
 
@@ -884,19 +640,11 @@ A |
 
 3 |
 
-|
-
-|
-
 b) Supérieure à 100 kg/j et inférieure ou égale à 15 t/j
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -912,15 +660,7 @@ Silos et installations de stockage en vrac de céréales, grains, produits alime
 
 |
 
-|
-
-|
-
 1. Silos plats :
-
-|
-
-|
 
 |
 
@@ -938,10 +678,6 @@ E
 
 |
 
-|
-
-|
-
 b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
 
 |
@@ -952,15 +688,7 @@ DC
 
 |
 
-|
-
-|
-
 2. Autres installations :
-
-|
-
-|
 
 |
 
@@ -980,10 +708,6 @@ A
 
 |
 
-|
-
-|
-
 b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
 
 |
@@ -994,15 +718,7 @@ DC
 
 |
 
-|
-
-|
-
 Les critères caractérisant les termes silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels.
-
-|
-
-|
 
 |
 
@@ -1022,10 +738,6 @@ Engrais, amendements et supports de culture (fabrication des) à partir de mati�
 
 |
 
-|
-
-|
-
 1. Lorsque la capacité de production est supérieure ou égale à 10 t/ j
 
 |
@@ -1038,19 +750,11 @@ A
 
 |
 
-|
-
-|
-
 2. Lorsque la capacité de production est supérieure à 1 t/ j et inférieure à 10 t/ j
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -1068,19 +772,11 @@ Fumiers, engrais et supports de culture (dépôts de) renfermant des matières o
 
 |
 
-|
-
-|
-
 Le dépôt étant supérieur à 200 m ³
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -1098,68 +794,6 @@ D |
 
 |
 
-|
-
-|
-
-2180
-
-|
-
-Etablissements de fabrication et dépôts de tabac
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être emmagasinée étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 25 t
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-2. supérieure à 5 t mais inférieure ou égale à 25 t
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 2210
 
 |
@@ -1172,19 +806,9 @@ Abattage d'animaux
 
 |
 
-|
-
-|
-
 Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
 |
-
-|
-
-|
-
-1. Le poids de carcasses susceptibles d'être abattues étant :
 
 |
 
@@ -1202,12 +826,6 @@ A
 
 |
 
-a) supérieur à 100 t/ j
-
-|
-
-8
-
 |
 
 |
@@ -1216,25 +834,7 @@ a) supérieur à 100 t/ j
 
 |
 
-b) supérieur à 20 t/ j, mais inférieur ou égal à 100 t/ j
-
 |
-
-5
-
-|
-
-|
-
-|
-
-|
-
-c) supérieur à 5 t/ j, mais inférieur ou égal à 20 t/ j
-
-|
-
-2
 
 |
 
@@ -1248,15 +848,11 @@ D
 
 |
 
-|
-
-|
-
 2220
 
 |
 
-Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion des activités classées par ailleurs et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes.
+Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, torréfaction, fermentation, etc., à l'exclusion des activités classées par ailleurs et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes.
 
 La quantité de produits entrants étant :
 
@@ -1268,11 +864,7 @@ La quantité de produits entrants étant :
 
 |
 
-|
-
-|
-
-a) Supérieure à 20 t/j
+a) Supérieure à 20 t/ j
 
 |
 
@@ -1282,19 +874,11 @@ E
 
 |
 
-|
-
-|
-
-b) Supérieure à 2 t/j, mais inférieure ou égale à 20 t/j
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -1308,11 +892,7 @@ D
 
 |
 
-|
-
-|
-
-a) Supérieure à 10 t/j
+a) Supérieure à 10 t/ j
 
 |
 
@@ -1322,19 +902,11 @@ E
 
 |
 
-|
-
-|
-
-b) Supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 10 t/ j
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -1354,10 +926,6 @@ La quantité de produits entrants étant :
 
 |
 
-|
-
-|
-
 1. Supérieure à 4 t/j
 
 |
@@ -1368,19 +936,11 @@ E
 
 |
 
-|
-
-|
-
 2. Supérieure à 500 kg/j, mais inférieure ou égale à 4 t/j
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -1398,27 +958,15 @@ La capacité journalière de traitement exprimée en litres de lait ou litres é
 
 |
 
-|
-
-|
-
 1. Supérieure à 70 000 l/j |
 
 E |
 
 |
 
-|
-
-|
-
 2. Supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -1450,19 +998,11 @@ Ne sont pas considérées comme traitement et transformation les opérations sui
 
 |
 
-|
-
-|
-
 2240
 
 |
 
 Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion des activités qui relèvent des rubriques 2631, 2791, 3410 ou 3642.
-
-|
-
-|
 
 |
 
@@ -1478,15 +1018,7 @@ A |
 
 1 |
 
-|
-
-|
-
 B) Autres installations que celles visées au A, dont la capacité de production est :
-
-|
-
-|
 
 |
 
@@ -1500,17 +1032,9 @@ B) Autres installations que celles visées au A, dont la capacité de production
 
 |
 
-|
-
-|
-
 a) Supérieure à 20 t/j |
 
 E |
-
-|
-
-|
 
 |
 
@@ -1520,15 +1044,7 @@ D |
 
 |
 
-|
-
-|
-
 2-Autres installations
-
-|
-
-|
 
 |
 
@@ -1542,19 +1058,11 @@ E |
 
 |
 
-|
-
-|
-
 b) Supérieure à 200 kg/j, mais inférieure ou égale à 10 t/j
 
 (*) : Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -1578,23 +1086,11 @@ A
 
 |
 
-1. La capacité de production exprimée en alcool absolu étant supérieure à 30 000 l/ j
-
-|
-
-5
-
-|
-
 2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
 
 |
 
 E
-
-|
-
-|
 
 |
 
@@ -1610,15 +1106,7 @@ D
 
 |
 
-|
-
-|
-
 Nota.-Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/ j de capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
-
-|
-
-|
 
 |
 
@@ -1638,10 +1126,6 @@ Préparation, conditionnement de vins.
 
 |
 
-|
-
-|
-
 A. Installations dont les activités sont classées au titre de la rubrique 3642.
 
 |
@@ -1654,15 +1138,7 @@ A
 
 |
 
-|
-
-|
-
 B. Autres installations que celles visées au A, la capacité de production étant :
-
-|
-
-|
 
 |
 
@@ -1680,10 +1156,6 @@ E
 
 |
 
-|
-
-|
-
 2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
 
 |
@@ -1694,155 +1166,13 @@ D
 
 |
 
-|
-
-|
-
-2252
-
-|
-
-Cidre (préparation, conditionnement de)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 10 000 hl/ an
-
-|
-
-A
-
-|
-
-1
-
-|
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/ an
-
-|
-
-1
-
-|
-
-2. supérieure à 250 hl/ an, mais inférieure ou égale à 10 000 hl/ an
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-2253
-
-|
-
-Boissons (préparation, conditionnement de) bière, jus de fruits, autres boissons, à l'exclusion des eaux minérales, eaux de source, eaux de table et des activités visées par les rubriques 2230,2250,2251 et 2252
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 20 000 l/ j
-
-|
-
-A
-
-|
-
-1
-
-|
-
-1. La capacité de l'installation étant supérieure à 50 000 hl/ an
-
-|
-
-1
-
-|
-
-2. supérieure à 2 000 l/ j, mais inférieure ou égale à 20 000 l/ j
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 2260
 
 |
 
-Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221 ou 3642.
+Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage, décortication ou séchage par contact direct avec les gaz de combustion des substances végétales et de tous produits organiques naturels, à l'exclusion des installations dont les activités sont réalisées et classées au titre de l'une des rubriques 21xx, 22xx, 23xx, 24xx, 27xx ou 3642.
 
-|
-
-|
-
-|
-
-|
-
-|
-
-La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
-
-|
-
-|
+1. Pour les activités relevant du travail mécanique, la puissance maximale de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
 
 |
 
@@ -1854,11 +1184,11 @@ a) Supérieure à 500 kW
 
 |
 
-A |
-
-2 |
+E
 
 |
+
+-
 
 |
 
@@ -1866,7 +1196,11 @@ b) Supérieure à 100 kW mais inférieure ou égale à 500 kW
 
 |
 
-D
+DC |
+
+- |
+
+2. Pour les activités relevant du séchage par contact direct, la puissance thermique nominale de l'installation étant :
 
 |
 
@@ -1874,7 +1208,17 @@ D
 
 |
 
-|
+a) Supérieure ou égale à 20 MW |
+
+E |
+
+- |
+
+b) Supérieure à 1 MW mais inférieure à 20 MW |
+
+DC |
+
+- |
 
 2265
 
@@ -1888,15 +1232,7 @@ Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 |
 
-|
-
-|
-
 Le volume total des réacteurs ou fermenteurs étant :
-
-|
-
-|
 
 |
 
@@ -1916,19 +1252,11 @@ A
 
 |
 
-|
-
-|
-
 2. supérieur à 30 m ³, mais inférieur ou égal à 100 m ³
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -1948,10 +1276,6 @@ La capacité de production étant :
 
 |
 
-|
-
-|
-
 1. Supérieure à 2 t/j
 
 |
@@ -1960,19 +1284,11 @@ A |
 
 1 |
 
-|
-
-|
-
 2. Supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -1988,15 +1304,7 @@ Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou syn
 
 |
 
-|
-
-|
-
 La quantité de fibres susceptible d'être traitée étant :
-
-|
-
-|
 
 |
 
@@ -2016,10 +1324,6 @@ A
 
 |
 
-|
-
-|
-
 2. supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/ j
 
 |
@@ -2030,19 +1334,11 @@ D
 
 |
 
-|
-
-|
-
 2315
 
 |
 
 Fabrication de fibres végétales artificielles et produits manufacturés dérivés
-
-|
-
-|
 
 |
 
@@ -2062,19 +1358,11 @@ A
 
 |
 
-|
-
-|
-
 2321
 
 |
 
 Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécanique, cordages, cordes et ficelles.
-
-|
-
-|
 
 |
 
@@ -2092,10 +1380,6 @@ D
 
 |
 
-|
-
-|
-
 2330
 
 |
@@ -2108,19 +1392,9 @@ Teinture, impression, apprêt, enduction, blanchiment et délavage de matières 
 
 |
 
-|
-
-|
-
 La quantité de fibres et de tissus susceptible d'être traitée étant :
 
 |
-
-|
-
-|
-
-1. La quantité de fibres et de tissus susceptible d'être traitée étant :
 
 |
 
@@ -2138,25 +1412,9 @@ A
 
 |
 
-a) supérieure à 20 t/ j
-
-|
-
-3
-
 |
 
 |
-
-|
-
-|
-
-b) supérieure à 5 t/ j, mais inférieure ou égale à 20 t/ j
-
-|
-
-1
 
 |
 
@@ -2165,10 +1423,6 @@ b) supérieure à 5 t/ j, mais inférieure ou égale à 20 t/ j
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -2188,19 +1442,11 @@ La capacité de lavage de linge étant :
 
 |
 
-|
-
-|
-
 1. Supérieure à 5 t/ j
 
 |
 
 E
-
-|
-
-|
 
 |
 
@@ -2216,19 +1462,11 @@ D
 
 |
 
-|
-
-|
-
 2345
 
 |
 
 Utilisation de solvants pour le nettoyage à sec et le traitement des textiles ou vêtements ; la capacité nominale (1) totale des machines présentes dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2248,10 +1486,6 @@ A
 
 |
 
-|
-
-|
-
 2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
 
 |
@@ -2262,15 +1496,7 @@ DC
 
 |
 
-|
-
-|
-
 (1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour l'industrie textile et matériel connexe " Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de capacité de consommation d'une machine. "
-
-|
-
-|
 
 |
 
@@ -2292,27 +1518,15 @@ La capacité de production étant :
 
 |
 
-|
-
-|
-
 a) Supérieure à 5t/j |
 
 A |
 
 1 |
 
-|
-
-|
-
 b) Supérieure à 100 kg /j, mais inférieure ou égale à 5t/j |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -2328,19 +1542,9 @@ Teinture et pigmentation de peaux
 
 |
 
-|
-
-|
-
 La capacité de production étant :
 
 |
-
-|
-
-|
-
-1. La capacité de production étant :
 
 |
 
@@ -2358,25 +1562,9 @@ A
 
 |
 
-a) supérieure à 20 t/ j
-
-|
-
-3
-
 |
 
 |
-
-|
-
-|
-
-b) supérieure à 5 t/ j, mais inférieure ou égale à 20 t/ j
-
-|
-
-1
 
 |
 
@@ -2385,10 +1573,6 @@ b) supérieure à 5 t/ j, mais inférieure ou égale à 20 t/ j
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -2406,19 +1590,11 @@ Dépôts de peaux y compris les dépôts de peaux salées en annexe des abattoir
 
 |
 
-|
-
-|
-
 La capacité de stockage étant supérieure à 10 t
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -2438,10 +1614,6 @@ La puissance maximum de l'ensemble des machines pouvant concourir simultanément
 
 |
 
-|
-
-|
-
 1. supérieure à 200 kW
 
 |
@@ -2454,19 +1626,11 @@ A
 
 |
 
-|
-
-|
-
 2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -2484,15 +1648,7 @@ Ateliers ou l'on travaille le bois ou matériaux combustibles analogues à l'exc
 
 |
 
-|
-
-|
-
 La puissance maximum de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2508,10 +1664,6 @@ E |
 
 |
 
-|
-
-|
-
 2. Supérieure à 50 kW, mais inférieure ou égale à 250 kW
 
 |
@@ -2522,19 +1674,11 @@ D
 
 |
 
-|
-
-|
-
 2415
 
 |
 
 Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
-
-|
-
-|
 
 |
 
@@ -2554,14 +1698,6 @@ A
 
 |
 
-1. La quantité susceptible d'être présente dans l'installation étant supérieure à 10 000 l
-
-|
-
-3
-
-|
-
 2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/ an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
 
 |
@@ -2572,19 +1708,11 @@ DC
 
 |
 
-|
-
-|
-
 2420
 
 |
 
 Charbon de bois (fabrication du)
-
-|
-
-|
 
 |
 
@@ -2604,15 +1732,7 @@ A
 
 |
 
-|
-
-|
-
 2. par des procédés de fabrication à fonctionnement en discontinu, la capacité totale des enceintes ou s'effectue le carbonisation étant :
-
-|
-
-|
 
 |
 
@@ -2632,19 +1752,11 @@ A
 
 |
 
-|
-
-|
-
 b) inférieure ou égale à 100 m ³
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -2664,10 +1776,6 @@ La capacité de production étant :
 
 |
 
-|
-
-|
-
 a) Supérieure à 10 t/j
 
 |
@@ -2676,19 +1784,11 @@ A |
 
 1 |
 
-|
-
-|
-
 b) Supérieure à 1 t/j et inférieure ou égale à 10 t/j
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -2708,10 +1808,6 @@ DC
 
 |
 
-|
-
-|
-
 2445
 
 |
@@ -2724,15 +1820,7 @@ Transformation du papier, carton
 
 |
 
-|
-
-|
-
 La capacité de production étant :
-
-|
-
-|
 
 |
 
@@ -2752,19 +1840,11 @@ A
 
 |
 
-|
-
-|
-
 2. supérieure à 1 t/ j, mais inférieure ou égale à 20 t/ j
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -2782,15 +1862,7 @@ Imprimeries ou ateliers de reproduction graphique sur tout support tel que méta
 
 |
 
-|
-
-|
-
 A) Offset utilisant des rotatives à séchage thermique, héliogravure, flexographie et opérations connexes aux procédés d'impression quels qu'ils soient comme la fabrication de complexes par contrecollage ou le vernissage si la quantité totale de produits consommée pour revêtir le support est :
-
-|
-
-|
 
 |
 
@@ -2806,10 +1878,6 @@ A |
 
 2 |
 
-|
-
-|
-
 b) Supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j
 
 |
@@ -2822,10 +1890,6 @@ D
 
 |
 
-|
-
-|
-
 B) Autres procédés, y compris les techniques offset non visées en A/ si la quantité d'encres consommée est :
 
 |
@@ -2834,21 +1898,13 @@ B) Autres procédés, y compris les techniques offset non visées en A/ si la qu
 
 |
 
-|
-
-|
-
-a) Supérieure ou égale à 400 kg/j
+a) Supérieure à 400 kg/j
 
 |
 
 A |
 
 2 |
-
-|
-
-|
 
 b) Supérieure à 100 kg/j mais inférieure ou égale à 400 kg/j
 
@@ -2858,15 +1914,7 @@ D |
 
 - |
 
-|
-
-|
-
 Nota : pour les produits qui contiennent moins de 10% de solvants organiques au moment de leur emploi, la quantité à retenir pour établir le classement correspond à la quantité consommée dans l'installation, divisée par deux.
-
-|
-
-|
 
 |
 
@@ -2886,10 +1934,6 @@ Carrière ou autre extraction de matériaux (exploitation de).
 
 |
 
-|
-
-|
-
 1. Exploitation de carrières, à l'exception de celles visées au 5 et 6
 
 |
@@ -2902,8 +1946,6 @@ A
 
 |
 
-1. La capacité nominale de production étant :
-
 |
 
 |
@@ -2914,51 +1956,17 @@ A
 
 |
 
-a) supérieure ou égale à 500 000 t/ an
-
-|
-
-8
-
 |
 
 |
 
 |
-
-|
-
-b) supérieure ou égale à 150 000 t/ an, mais inférieure à 500 000 t/ an
-
-|
-
-4
-
-|
-
-|
-
-|
-
-|
-
-c) supérieure ou égale à 50 000 t/ an, mais inférieure à 150 000 t/ an.
-
-|
-
-2
 
 |
 
 2. sans objet
 
 |
-
-|
-
-|
-
-2. Sans objet
 
 |
 
@@ -2976,8 +1984,6 @@ A
 
 |
 
-3. La capacité nominale de production étant :
-
 |
 
 |
@@ -2988,39 +1994,11 @@ A
 
 |
 
-a) supérieure ou égale à 500 000 t/ an
-
-|
-
-8
-
 |
 
 |
 
 |
-
-|
-
-b) supérieure ou égale à 150 000 t/ an mais inférieure à 500 000 t/ an
-
-|
-
-4
-
-|
-
-|
-
-|
-
-|
-
-c) supérieure ou égale à 50 000 t/ an mais inférieure à 150 000 t/ an.
-
-|
-
-2
 
 |
 
@@ -3036,8 +2014,6 @@ A
 
 |
 
-4. La capacité nominale de production étant :
-
 |
 
 |
@@ -3048,39 +2024,11 @@ A
 
 |
 
-a) supérieure ou égale à 500 000 t/ an
-
-|
-
-8
-
 |
 
 |
 
 |
-
-|
-
-b) supérieure ou égale à 150 000 t/ an mais inférieure à 500 000 t/ an
-
-|
-
-4
-
-|
-
-|
-
-|
-
-|
-
-c) supérieure ou égale à 50 000 t/ an mais inférieure à 150 000 t/ an.
-
-|
-
-2
 
 |
 
@@ -3094,17 +2042,7 @@ D
 
 |
 
-|
-
--
-
-|
-
 6. Carrières de pierre, de sable et d'argile destinées :
-
-|
-
-|
 
 |
 
@@ -3120,15 +2058,7 @@ D
 
 |
 
-|
-
-|
-
 -ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
-
-|
-
-|
 
 |
 
@@ -3146,12 +2076,6 @@ DC
 
 |
 
-|
+NOTA :
 
--
-
-|
-
-(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
-
-(2) Rayon d'affichage en kilomètres.
+Par la décision n° 426528 du 30 décembre 2020 du Conseil d'Etat statuant au contentieux (ECLI:FR:CECHR:2022:429341.20220728), les dispositions figurant dans les rubriques 2120 et 2140 et au 3 de la rubrique 2731 de l'annexe I du décret n° 2018-900 du 22 octobre 2018 modifiant la nomenclature des installations classées pour la protection de l'environnement (NOR : TREP1806523D) sont annulées.

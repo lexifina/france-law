@@ -8,10 +8,6 @@ A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 |
 
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
-
-|
-
 Désignation de la rubrique
 
 |
@@ -24,23 +20,11 @@ Rayon (2)
 
 |
 
-Capacité de l'activité
-
-|
-
-Coef.
-
-|
-
 4701
 
 |
 
 Nitrate d'ammonium.
-
-|
-
-|
 
 |
 
@@ -60,15 +44,7 @@ Nitrate d'ammonium.
 
 |
 
-|
-
-|
-
 La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -84,19 +60,11 @@ A |
 
 3 |
 
-|
-
-|
-
 b) Supérieure ou égale à 100 t, mais inférieure à 350 t
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -108,15 +76,7 @@ DC |
 
 |
 
-|
-
-|
-
 La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -132,10 +92,6 @@ A |
 
 3 |
 
-|
-
-|
-
 b) Supérieure ou égale à 100 t, mais inférieure à 350 t
 
 |
@@ -144,17 +100,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 350 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 500 t.
-
-|
-
-|
 
 |
 
@@ -174,10 +122,6 @@ Engrais solides simples et composés à base de nitrate d'ammonium correspondant
 
 |
 
-|
-
-|
-
 I. - Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
 - de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
@@ -190,15 +134,7 @@ I. - Engrais composés à base de nitrate d'ammonium susceptibles de subir une d
 
 |
 
-|
-
-|
-
 Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
-
-|
-
-|
 
 |
 
@@ -220,10 +156,6 @@ II. - Engrais simples et composés solides à base de nitrate d'ammonium (un eng
 
 |
 
-|
-
-|
-
 III. - Mélange d'engrais simples solides à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 % et dans lesquels la teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % en poids.
 
 |
@@ -232,15 +164,7 @@ III. - Mélange d'engrais simples solides à base de nitrate d'ammonium avec de 
 
 |
 
-|
-
-|
-
 La quantité totale d'engrais répondant à au moins un des trois critères I, II ou III ci-dessus susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -258,19 +182,11 @@ A
 
 |
 
-|
-
-|
-
 b) Supérieure ou égale à 500 t, mais inférieure à 1 250 t
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -284,15 +200,7 @@ DC
 
 |
 
-|
-
-|
-
 IV. - Engrais simples et composés solides à base de nitrate d'ammonium ne répondant pas aux critères I, II ou III (engrais simples et engrais composés non susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au nitrate d'ammonium est inférieure à 24,5 %).
-
-|
-
-|
 
 |
 
@@ -305,10 +213,6 @@ La quantité totale d'engrais susceptible d'être présente dans l'installation 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -348,10 +252,6 @@ Nitrate d'ammonium : matières hors spécifications ou produits correspondant au
 
 |
 
-|
-
-|
-
 Cette rubrique s'applique :
 
 - aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux mélanges à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 4701,4702-II et 4702-III ;
@@ -359,10 +259,6 @@ Cette rubrique s'applique :
 - aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
 
 - aux engrais visés dans les rubriques 4702-I, 2e alinéa, 4702-II qui ne satisfont pas aux exigences de l'annexe III-2 (**).
-
-|
-
-|
 
 |
 
@@ -382,10 +278,6 @@ A
 
 |
 
-|
-
-|
-
 (*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à base de nitrate d'ammonium et à forte teneur en azote du règlement européen n° 2003/2003.
 
 (**) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003.
@@ -396,17 +288,9 @@ A
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -426,15 +310,7 @@ Nitrate de potassium et engrais composés à base de nitrate de potassium (sous 
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -450,10 +326,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 1 250 t mais inférieure à 5 000 t
 
 |
@@ -462,17 +334,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 10 000 t.
-
-|
-
-|
 
 |
 
@@ -492,15 +356,7 @@ Nitrate de potassium et engrais composés à base de nitrate de potassium (sous 
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -516,10 +372,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 t mais inférieure à 1 250 t
 
 |
@@ -528,17 +380,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 1 250 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
-
-|
-
-|
 
 |
 
@@ -558,15 +402,7 @@ Pentoxyde d'arsenic, acide (V) arsénique et/ ou ses sels (numéro CAS 1303-28-2
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -582,10 +418,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 50 kg mais inférieure à 1 t
 
 |
@@ -594,17 +426,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 1 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
-
-|
-
-|
 
 |
 
@@ -624,10 +448,6 @@ Trioxyde d'arsenic, acide (III) arsénieux et/ ou ses sels (numéro CAS 1327-53-
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 1 kg
 
 |
@@ -636,15 +456,7 @@ A |
 
 3 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 0,1 t.
-
-|
-
-|
 
 |
 
@@ -664,15 +476,7 @@ Brome (numéro CAS 7726-95-6).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -688,10 +492,6 @@ A |
 
 1 |
 
-|
-
-|
-
 2. Supérieure ou égale à 2 t mais inférieure à 20 t
 
 |
@@ -700,17 +500,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 20 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 100 t.
-
-|
-
-|
 
 |
 
@@ -730,15 +522,7 @@ Chlore (numéro CAS 7782-50-5).
 
 |
 
-|
-
-|
-
 La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -754,10 +538,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 kg mais inférieure à 500 kg
 
 |
@@ -766,17 +546,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 25 t.
-
-|
-
-|
 
 |
 
@@ -796,15 +568,7 @@ Composés de nickel sous forme pulvérulente inhalable : monoxyde de nickel, dio
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -820,10 +584,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 kg mais inférieure à 200 kg
 
 |
@@ -832,15 +592,7 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
-
-|
-
-|
 
 |
 
@@ -860,10 +612,6 @@ Ethylèneimine (numéro CAS 151-56-4).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 kg
 
 |
@@ -872,17 +620,9 @@ A |
 
 3 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
-
-|
-
-|
 
 |
 
@@ -902,15 +642,7 @@ Fluor (numéro CAS 7782-41-4).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -926,10 +658,6 @@ A |
 
 1 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 kg mais inférieure à 10 t
 
 |
@@ -938,17 +666,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
-
-|
-
-|
 
 |
 
@@ -968,15 +688,7 @@ Formaldéhyde (concentration > 90 %) (numéro CAS 50-00-0).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -992,10 +704,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 kg mais inférieure à 5 t
 
 |
@@ -1004,17 +712,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1034,15 +734,7 @@ Hydrogène (numéro CAS 133-74-0).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1058,10 +750,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 kg mais inférieure à 1 t
 
 |
@@ -1070,17 +758,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1100,15 +780,7 @@ Chlorure d'hydrogène (gaz liquéfié) (numéro CAS 7647-01-0).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1124,10 +796,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 200 kg mais inférieure à 1 t
 
 |
@@ -1136,17 +804,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 25 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 250 t.
-
-|
-
-|
 
 |
 
@@ -1166,15 +826,7 @@ Plombs alkyls.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1194,10 +846,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 kg mais inférieure à 5 t
 
 |
@@ -1206,17 +854,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1238,15 +878,7 @@ La quantité totale susceptible d'être présente dans les installations (*) y c
 
 |
 
-|
-
-|
-
 1. Pour le stockage en récipients à pression transportables :
-
-|
-
-|
 
 |
 
@@ -1262,10 +894,6 @@ A |
 
 1 |
 
-|
-
-|
-
 b. Supérieure ou égale à 6 t mais inférieure à 35 t
 
 |
@@ -1276,15 +904,7 @@ DC
 
 |
 
-|
-
-|
-
 2. Pour les autres installations :
-
-|
-
-|
 
 |
 
@@ -1300,10 +920,6 @@ A |
 
 1 |
 
-|
-
-|
-
 b. Supérieure ou égale à 6 t mais inférieure à 50 t
 
 |
@@ -1312,19 +928,11 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 (à l'exclusion des stations de compression connexes aux canalisations de transport) : 50 t
 
 Quantité seuil haut au sens de l'article R. 511-10 (à l'exclusion des stations de compression connexes aux canalisations de transport) : 200 t
 
 (*) Une station d'interconnexion d'un réseau de transport de gaz n'est pas considérée comme une installation classée au titre de la rubrique 4718
-
-|
-
-|
 
 |
 
@@ -1344,15 +952,7 @@ Acétylène (numéro CAS 74-86-2).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1368,10 +968,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 250 kg mais inférieure à 1 t
 
 |
@@ -1380,17 +976,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1410,15 +998,7 @@ Oxyde d'éthylène (numéro CAS 75-21-8).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1434,10 +1014,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 kg mais inférieure à 5 t
 
 |
@@ -1446,17 +1022,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1476,15 +1044,7 @@ Oxyde de propylène (numéro CAS 75-56-9).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1500,10 +1060,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 kg mais inférieure à 5 t
 
 |
@@ -1512,17 +1068,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
-
-|
-
-|
 
 |
 
@@ -1542,15 +1090,7 @@ Méthanol (numéro CAS 67-56-1).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1566,10 +1106,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 50 t mais inférieure à 500 t
 
 |
@@ -1578,17 +1114,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
-
-|
-
-|
 
 |
 
@@ -1608,15 +1136,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 5 000 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1632,10 +1152,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 g mais inférieure à 2 kg
 
 |
@@ -1644,15 +1160,7 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 0,01 t.
-
-|
-
-|
 
 |
 
@@ -1672,15 +1180,7 @@ Isocyanate de méthyle (numéro CAS 624-83-9).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1696,10 +1196,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 1,5 kg mais inférieure à 30 kg
 
 |
@@ -1708,15 +1204,7 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 0,15 t.
-
-|
-
-|
 
 |
 
@@ -1736,15 +1224,7 @@ Oxygène (numéro CAS 7782-44-7).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1760,10 +1240,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 2 t mais inférieure à 200 t
 
 |
@@ -1772,17 +1248,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 200 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -1802,15 +1270,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1826,10 +1286,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 kg mais inférieure à 10 t
 
 |
@@ -1838,17 +1294,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 100 t.
-
-|
-
-|
 
 |
 
@@ -1868,15 +1316,7 @@ Dichlorure de carbonyle (phosgène) (numéro CAS 75-44-5).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1892,10 +1332,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 60 kg mais inférieure à 300 kg
 
 |
@@ -1904,17 +1340,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 0,3 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 0,75 t.
-
-|
-
-|
 
 |
 
@@ -1934,15 +1362,7 @@ Arsine (trihydrure d'arsenic) (numéro CAS 7784-42-1).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -1958,10 +1378,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 kg mais inférieure à 200 kg
 
 |
@@ -1970,17 +1386,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 0,2 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
-
-|
-
-|
 
 |
 
@@ -2000,15 +1408,7 @@ Phosphine (trihydrure de phosphore) (numéro CAS 7803-51-2).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2024,10 +1424,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 kg mais inférieure à 200 kg
 
 |
@@ -2036,17 +1432,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 0,2 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
-
-|
-
-|
 
 |
 
@@ -2066,15 +1454,7 @@ Dichlorure de soufre (numéro CAS 10545-99-0).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2090,10 +1470,6 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 kg mais inférieure à 200 kg
 
 |
@@ -2102,15 +1478,7 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 1 t.
-
-|
-
-|
 
 |
 
@@ -2130,15 +1498,7 @@ Trioxyde de soufre (numéro CAS 7446-11-9).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2154,10 +1514,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 200 kg mais inférieure à 2 t
 
 |
@@ -2166,17 +1522,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 15 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 75 t.
-
-|
-
-|
 
 |
 
@@ -2196,15 +1544,7 @@ Polychlorodibenzofuranes et polychlorodibenzodioxines (y compris TCDD), calculé
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2224,10 +1564,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 g mais inférieure à 200 g
 
 |
@@ -2238,15 +1574,7 @@ D
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 0,001 t.
-
-|
-
-|
 
 |
 
@@ -2268,15 +1596,7 @@ Cancérogènes spécifiques suivants ou les mélanges contenant les cancérogèn
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2296,10 +1616,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 1 kg mais inférieure à 400 kg
 
 |
@@ -2308,17 +1624,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 0,5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
-
-|
-
-|
 
 |
 
@@ -2340,10 +1648,6 @@ essences et naphtas ; kérosènes (carburants d'aviation compris) ; gazoles (gaz
 
 |
 
-|
-
-|
-
 La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
 
 |
@@ -2352,15 +1656,7 @@ La quantité totale susceptible d'être présente dans les installations y compr
 
 |
 
-|
-
-|
-
 1. Pour les cavités souterraines et les stockages enterrés :
-
-|
-
-|
 
 |
 
@@ -2380,19 +1676,11 @@ A
 
 |
 
-|
-
-|
-
 b) Supérieure ou égale à 1 000 t mais inférieure à 2 500 t
 
 |
 
 E |
-
-|
-
-|
 
 |
 
@@ -2404,15 +1692,7 @@ DC |
 
 |
 
-|
-
-|
-
 2. Pour les autres stockages :
-
-|
-
-|
 
 |
 
@@ -2432,19 +1712,11 @@ A
 
 |
 
-|
-
-|
-
 b) Supérieure ou égale à 100 t d'essence ou 500 t au total, mais inférieure à 1 000 t au total
 
 |
 
 E |
-
-|
-
-|
 
 |
 
@@ -2456,17 +1728,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 2 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 25 000 t.
-
-|
-
-|
 
 |
 
@@ -2486,15 +1750,7 @@ Ammoniac.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2510,10 +1766,6 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-|
-
-|
-
 a) Supérieure ou égale à 1,5 t
 
 |
@@ -2521,10 +1773,6 @@ a) Supérieure ou égale à 1,5 t
 A |
 
 3 |
-
-|
-
-|
 
 b) Supérieure ou égale à 150 kg mais inférieure à 1,5 t
 
@@ -2534,15 +1782,7 @@ DC |
 
 |
 
-|
-
-|
-
 2. Pour les récipients de capacité unitaire inférieure ou égale à 50 kg :
-
-|
-
-|
 
 |
 
@@ -2558,10 +1798,6 @@ A |
 
 3 |
 
-|
-
-|
-
 b) Supérieure ou égale à 150 kg mais inférieure à 5 t
 
 |
@@ -2570,17 +1806,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 50 t
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
-|
 
 |
 
@@ -2600,15 +1828,7 @@ Trifluorure de bore (numéro CAS 7637-07-2).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2628,10 +1848,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 kg mais inférieure à 5 t
 
 |
@@ -2640,17 +1856,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
-
-|
-
-|
 
 |
 
@@ -2670,15 +1878,7 @@ Sulfure d'hydrogène (numéro CAS 7783-06-4).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2698,10 +1898,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 500 kg mais inférieure à 5 t
 
 |
@@ -2710,17 +1906,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
-
-|
-
-|
 
 |
 
@@ -2740,15 +1928,7 @@ Pipéridine (numéro CAS 110-89-4).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2764,10 +1944,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 5 t mais inférieure à 50 t
 
 |
@@ -2776,17 +1952,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
-|
 
 |
 
@@ -2806,15 +1974,7 @@ Bis (2-dimethylaminoéthyl) (méthyl) amine (numéro CAS 3030-47-5).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2830,10 +1990,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 5 t mais inférieure à 50 t
 
 |
@@ -2842,17 +1998,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
-|
 
 |
 
@@ -2872,15 +2020,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2896,10 +2036,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 5 t mais inférieure à 50 t
 
 |
@@ -2908,17 +2044,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
-|
 
 |
 
@@ -2938,15 +2066,7 @@ Les mélanges d'hypochlorite de sodium classés dans la catégorie de toxicité 
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -2962,10 +2082,6 @@ A |
 
 1 |
 
-|
-
-|
-
 2. Supérieure ou égale à 20 t mais inférieure à 200 t
 
 |
@@ -2974,17 +2090,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 200 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
-
-|
-
-|
 
 |
 
@@ -3004,15 +2112,7 @@ Propylamine (numéro CAS 107-10-8) (sauf lorsque cette substance est exploitée 
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3028,10 +2128,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 500 t
 
 |
@@ -3040,17 +2136,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -3070,15 +2158,7 @@ Acrylate de tert-butyl (numéro CAS 1663-39-4) (sauf lorsque cette substance est
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3094,10 +2174,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 20 t mais inférieure à 200 t
 
 |
@@ -3106,17 +2182,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 200 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
-
-|
-
-|
 
 |
 
@@ -3136,15 +2204,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3160,10 +2220,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 500 t
 
 |
@@ -3172,17 +2228,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -3202,15 +2250,7 @@ Tétrahydro-3,5-diméthyl-1,3,5, thiadiazine-2-thione (dazomet) (numéro CAS 533
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3226,10 +2266,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 10 t mais inférieure à 100 t
 
 |
@@ -3238,17 +2274,9 @@ DC |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
-
-|
-
-|
 
 |
 
@@ -3268,15 +2296,7 @@ Acrylate de méthyle (numéro CAS 96-33-3) (sauf lorsque cette substance est exp
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3292,10 +2312,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 500 t
 
 |
@@ -3304,17 +2320,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -3334,15 +2342,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3358,10 +2358,6 @@ A |
 
 3 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 500 t
 
 |
@@ -3370,17 +2366,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -3400,15 +2388,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3428,10 +2408,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 500 t
 
 |
@@ -3440,17 +2416,9 @@ D |
 
 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 500 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 2 000 t.
-
-|
-
-|
 
 |
 
@@ -3470,10 +2438,6 @@ Perchlorate d'ammonium (numéro CAS 7790-98-9).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 500 kg
 
 |
@@ -3482,17 +2446,9 @@ A |
 
 3 |
 
-|
-
-|
-
 Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
-
-|
-
-|
 
 |
 
@@ -3512,10 +2468,6 @@ Alcools de bouche d'origine agricole et leurs constituants (distillats, infusion
 
 |
 
-|
-
-|
-
 1. La quantité susceptible d'être présente étant supérieure ou égale à 5 000 t
 
 |
@@ -3524,15 +2476,7 @@ A |
 
 2 |
 
-|
-
-|
-
 2. Dans les autres cas et lorsque le titre alcoométrique volumique est supérieur 40 % : la quantité susceptible d'être présente étant :
-
-|
-
-|
 
 |
 
@@ -3552,19 +2496,11 @@ A
 
 |
 
-|
-
-|
-
 b) Supérieure ou égale à 50 m³
 
 |
 
 DC |
-
-|
-
-|
 
 |
 
@@ -3576,15 +2512,7 @@ Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
 
 |
 
-|
-
-|
-
 Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t. |
-
-|
-
-|
 
 |
 
@@ -3602,15 +2530,7 @@ Houille, coke, lignite, charbon de bois, goudron, asphalte, brais et matières b
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -3626,185 +2546,11 @@ A |
 
 1 |
 
-|
-
-|
-
 2. Supérieure ou égale à 50 t mais inférieure à 500 t
 
 |
 
 D |
-
-|
-
-|
-
-|
-
-4802
-
-|
-
-Gaz à effet de serre fluorés visés à l'annexe I du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visées par la rubrique 2564, de la fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Le volume des équipements susceptibles de contenir des fluides étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) Supérieure à 800 l
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-b) Supérieure à 80 l, mais inférieure ou égale à 800 l
-
-|
-
-D |
-
-|
-
-|
-
-|
-
-2. Emploi dans des équipements clos en exploitation.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg
-
-|
-
-DC
-
-|
-
-|
-
-|
-
-|
-
-b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure à 200 kg
-
-|
-
-D |
-
-|
-
-|
-
-|
-
-3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1) Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) En récipient de capacité unitaire supérieure ou égale à 400 l |
-
-D
-
-|
-
-|
-
-|
-
-|
-
-b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l
-
-|
-
-D |
-
-|
-
-|
-
-|
-
-2) Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à 150 kg quel que soit le conditionnement
-
-|
-
-D |
-
-|
-
-|
 
 |
 

@@ -8,10 +8,6 @@ A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
 |
 
-B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
-
-|
-
 Désignation de la rubrique
 
 |
@@ -24,23 +20,11 @@ Rayon (2)
 
 |
 
-Capacité de l'activité
-
-|
-
-Coef.
-
-|
-
 1413
 
 |
 
 Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs alimentant des moteurs, ou autres appareils, de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le débit total en sortie du système de compression étant :
-
-|
-
-|
 
 |
 
@@ -60,10 +44,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieur ou égal à 80 m³/h, mais inférieur à 2 000 m³/h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t
 
 |
@@ -74,15 +54,7 @@ DC
 
 |
 
-|
-
-|
-
 Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.
-
-|
-
-|
 
 |
 
@@ -102,10 +74,6 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
 
 |
 
-|
-
-|
-
 1. Installations de remplissage de bouteilles ou conteneurs
 
 |
@@ -118,15 +86,7 @@ A
 
 |
 
-|
-
-|
-
 2. Installations desservant un stockage de gaz inflammable (stockage souterrain compris) :
-
-|
-
-|
 
 |
 
@@ -146,10 +106,6 @@ A
 
 |
 
-|
-
-|
-
 b) Autres installations que celles visées au 2.a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine
 
 |
@@ -159,10 +115,6 @@ A
 |
 
 1
-
-|
-
-|
 
 |
 
@@ -176,19 +128,11 @@ DC
 
 |
 
-|
-
-|
-
 3. Installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes de sécurité (jauges et soupapes)
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -206,19 +150,19 @@ A
 
 |
 
-|
+1416 |
 
-|
+Stations-service : installations, ouvertes ou non au public, où l'hydrogène gazeux est transféré dans les réservoirs de véhicules, la quantité journalière d'hydrogène distribuée étant supérieure ou égale à 2 kg/ jour. |
+
+DC |
+
+- |
 
 1421
 
 |
 
 Installation de remplissage d'aérosols inflammables de catégorie 1 et 2
-
-|
-
-|
 
 |
 
@@ -240,10 +184,6 @@ A
 
 |
 
-|
-
-|
-
 2. Aérosols inflammables non visés par le point 1 et contenant des liquides inflammables de catégorie 2 et 3, le débit maximal de l'installation étant supérieur ou égal à 100 m³/h
 
 |
@@ -253,10 +193,6 @@ A
 |
 
 1
-
-|
-
-|
 
 |
 
@@ -272,15 +208,7 @@ Liquides inflammables, liquides de point éclair compris entre 60° C et 93° C 
 
 |
 
-|
-
-|
-
 1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de l'installation étant :
-
-|
-
-|
 
 |
 
@@ -296,19 +224,11 @@ A |
 
 1 |
 
-|
-
-|
-
 b) Supérieur ou égal à 5 m³/h, mais inférieur à 100 m³/h
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -326,15 +246,7 @@ A
 
 |
 
-|
-
-|
-
 (1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre chargé des installations classées.
-
-|
-
-|
 
 |
 
@@ -346,11 +258,7 @@ A
 
 |
 
-Stations-service : installations, ouvertes ou non au public, où les carburants sont transférés de réservoirs de stockage fixes dans les réservoirs à carburant de véhicules à moteur, de bateaux ou d'aéronefs.
-
-|
-
-|
+Stations-service : installations, ouvertes ou non au public, où les carburants sont transférés de réservoirs de stockage fixes dans les réservoirs à carburant de véhicules.
 
 |
 
@@ -359,10 +267,6 @@ Stations-service : installations, ouvertes ou non au public, où les carburants 
 |
 
 Le volume annuel de carburant liquide distribué étant :
-
-|
-
-|
 
 |
 
@@ -382,10 +286,6 @@ E
 
 |
 
-|
-
-|
-
 23. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³
 
 |
@@ -398,17 +298,9 @@ DC
 
 |
 
-|
-
-|
-
 Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.
 
 Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13 kPa ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, exceptés le gaz de pétrole liquéfié (GPL) et les carburants pour l'aviation.
-
-|
-
-|
 
 |
 
@@ -428,15 +320,7 @@ Liquides de point éclair compris entre 60 °C et 93 °C (1), à l'exception des
 
 |
 
-|
-
-|
-
 La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines étant :
-
-|
-
-|
 
 |
 
@@ -456,10 +340,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieure ou égale à 100 t mais inférieure à 1 000 t
 
 |
@@ -470,15 +350,7 @@ DC
 
 |
 
-|
-
-|
-
 (1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre chargé des installations classées.
-
-|
-
-|
 
 |
 
@@ -498,15 +370,7 @@ Solides inflammables (stockage ou emploi de).
 
 |
 
-|
-
-|
-
 La quantité susceptible d'être présente dans l'installation étant :
-
-|
-
-|
 
 |
 
@@ -518,19 +382,9 @@ La quantité susceptible d'être présente dans l'installation étant :
 
 |
 
-A
-
-|
+A |
 
 1
-
-|
-
-1. Quelle que soit la capacité
-
-|
-
-6
 
 |
 
@@ -541,14 +395,6 @@ A
 D
 
 |
-
-|
-
-2. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 1 t
-
-|
-
-4
 
 |
 
@@ -566,10 +412,6 @@ D
 
 |
 
-|
-
-|
-
 1510
 
 |
@@ -582,15 +424,7 @@ Entrepôts couverts (stockage de matières ou produits combustibles en quantité
 
 |
 
-|
-
-|
-
 Le volume des entrepôts étant :
-
-|
-
-|
 
 |
 
@@ -610,10 +444,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieur ou égal à 50 000 m³ mais inférieur à 300 000 m³ ;
 
 |
@@ -624,19 +454,11 @@ E
 
 |
 
-|
-
-|
-
 3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -654,15 +476,7 @@ Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de c
 
 |
 
-|
-
-|
-
 Le volume susceptible d'être stocké étant :
-
-|
-
-|
 
 |
 
@@ -682,10 +496,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ;
 
 |
@@ -696,19 +506,11 @@ E
 
 |
 
-|
-
-|
-
 3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
 
 |
 
 DC
-
-|
-
-|
 
 |
 
@@ -726,15 +528,7 @@ Papiers, cartons ou matériaux combustibles analogues, y compris les produits fi
 
 |
 
-|
-
-|
-
 Le volume susceptible d'être stocké étant :
-
-|
-
-|
 
 |
 
@@ -754,10 +548,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ;
 
 |
@@ -768,19 +558,11 @@ E
 
 |
 
-|
-
-|
-
 3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
 
 |
 
 D
-
-|
-
-|
 
 |
 
@@ -800,10 +582,6 @@ D
 
 |
 
-|
-
-|
-
 1532
 
 |
@@ -816,15 +594,7 @@ Bois ou matériaux combustibles analogues y compris les produits finis condition
 
 |
 
-|
-
-|
-
 Le volume susceptible d'être stocké étant :
-
-|
-
-|
 
 |
 
@@ -844,10 +614,6 @@ A
 
 |
 
-|
-
-|
-
 2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³
 
 |
@@ -858,19 +624,11 @@ E
 
 |
 
-|
-
-|
-
 3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³
 
 |
 
 D |
-
-|
-
-|
 
 |
 
