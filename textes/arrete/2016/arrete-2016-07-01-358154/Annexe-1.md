@@ -8,25 +8,25 @@ OFFICIERS |
 
 Ain |
 
-11 |
+7 |
 
-5 |
+2 |
 
 Aisne |
 
-10 |
-
 5 |
+
+2 |
 
 Allier |
 
-6 |
-
 3 |
+
+1 |
 
 Alpes-de-Haute-Provence |
 
-3 |
+2 |
 
 1 |
 
@@ -38,111 +38,111 @@ Hautes-Alpes |
 
 Alpes-Maritimes |
 
-19 |
+11 |
 
-9 |
+4 |
 
 Ardèche |
 
-6 |
-
 3 |
+
+1 |
 
 Ardennes |
 
-5 |
-
 3 |
+
+1 |
 
 Ariège |
 
-3 |
+2 |
 
 1 |
 
 Aube |
 
-5 |
-
 3 |
+
+1 |
 
 Aude |
 
-6 |
+4 |
 
-3 |
+1 |
 
 Aveyron |
 
-5 |
+3 |
 
-2 |
+1 |
 
 Bouches-du-Rhône |
 
-34 |
+21 |
 
-17 |
+7 |
 
 Calvados |
 
-12 |
+7 |
 
-6 |
+2 |
 
 Cantal |
 
-3 |
+2 |
 
 1 |
 
 Charente |
 
-6 |
+4 |
 
-3 |
+1 |
 
 Charente-Maritime |
 
-11 |
-
-6 |
-
-Cher |
-
-5 |
-
-3 |
-
-Corrèze |
-
-4 |
+7 |
 
 2 |
 
-Corse-du-Sud |
+Cher |
 
 3 |
+
+1 |
+
+Corrèze |
+
+2 |
+
+1 |
+
+Corse-du-Sud |
+
+2 |
 
 1 |
 
 Haute-Corse |
 
-3 |
+2 |
 
 1 |
 
 Côte-d'Or |
 
-9 |
-
 5 |
+
+2 |
 
 Côtes-d'Armor |
 
-11 |
+6 |
 
-5 |
+2 |
 
 Creuse |
 
@@ -152,147 +152,147 @@ Creuse |
 
 Dordogne |
 
-7 |
-
 4 |
+
+1 |
 
 Doubs |
 
-9 |
+6 |
 
-5 |
+2 |
 
 Drôme |
 
-9 |
+5 |
 
-4 |
+2 |
 
 Eure |
 
-10 |
+6 |
 
-5 |
+2 |
 
 Eure-et-Loir |
 
-8 |
-
 4 |
+
+1 |
 
 Finistère |
 
-16 |
+9 |
 
-8 |
+3 |
 
 Gard |
 
-12 |
+8 |
 
-6 |
+3 |
 
 Haute-Garonne |
 
-22 |
+14 |
 
-11 |
+5 |
 
 Gers |
 
-3 |
-
 2 |
+
+1 |
 
 Gironde |
 
-25 |
+16 |
 
-13 |
+5 |
 
 Hérault |
 
-18 |
+12 |
 
-9 |
+4 |
 
 Ille-et-Vilaine |
 
-17 |
+11 |
 
-9 |
+4 |
 
 Indre |
 
-4 |
-
 2 |
+
+1 |
 
 Indre-et-Loire |
 
-10 |
+6 |
 
-5 |
+2 |
 
 Isère |
 
-22 |
-
-11 |
-
-Jura |
-
-5 |
-
-2 |
-
-Landes |
-
-7 |
-
-3 |
-
-Loir-et-Cher |
-
-6 |
-
-3 |
-
-Loire |
-
 13 |
-
-7 |
-
-Haute-Loire |
 
 4 |
 
+Jura |
+
+3 |
+
+1 |
+
+Landes |
+
+4 |
+
+1 |
+
+Loir-et-Cher |
+
+3 |
+
+1 |
+
+Loire |
+
+8 |
+
+3 |
+
+Haute-Loire |
+
 2 |
+
+1 |
 
 Loire-Atlantique |
 
-23 |
+14 |
 
-11 |
+5 |
 
 Loiret |
 
-12 |
-
-6 |
-
-Lot |
-
-3 |
+7 |
 
 2 |
 
+Lot |
+
+2 |
+
+1 |
+
 Lot-et-Garonne |
 
-6 |
-
 3 |
+
+1 |
 
 Lozère |
 
@@ -302,318 +302,322 @@ Lozère |
 
 Maine-et-Loire |
 
-14 |
+8 |
 
-7 |
+3 |
 
 Manche |
 
-9 |
+5 |
 
-4 |
+2 |
 
 Marne |
 
-10 |
+6 |
 
-5 |
+2 |
 
 Haute-Marne |
 
-3 |
-
 2 |
+
+1 |
 
 Mayenne |
-
-5 |
-
-3 |
-
-Meurthe-et-Moselle |
-
-13 |
-
-6 |
-
-Meuse |
-
-3 |
-
-2 |
-
-Morbihan |
-
-13 |
-
-6 |
-
-Moselle |
-
-18 |
-
-9 |
-
-Nièvre |
-
-4 |
-
-2 |
-
-Nord |
-
-46 |
-
-23 |
-
-Oise |
-
-14 |
-
-7 |
-
-Orne |
-
-5 |
-
-3 |
-
-Pas-de-Calais |
-
-26 |
-
-13 |
-
-Puy-de-Dôme |
-
-11 |
-
-6 |
-
-Pyrénées-Atlantiques |
-
-12 |
-
-6 |
-
-Hautes-Pyrénées |
-
-4 |
-
-2 |
-
-Pyrénées-Orientales |
-
-8 |
-
-4 |
-
-Bas-Rhin |
-
-19 |
-
-10 |
-
-Haut-Rhin |
-
-13 |
-
-7 |
-
-Rhône |
-
-30 |
-
-15 |
-
-Haute-Saône |
-
-4 |
-
-2 |
-
-Saône-et-Loire |
-
-10 |
-
-5 |
-
-Sarthe |
-
-10 |
-
-5 |
-
-Savoie |
-
-7 |
-
-4 |
-
-Haute-Savoie |
-
-13 |
-
-7 |
-
-Paris |
-
-39 |
-
-19 |
-
-Seine-Maritime |
-
-22 |
-
-11 |
-
-Seine-et-Marne |
-
-23 |
-
-11 |
-
-Yvelines |
-
-25 |
-
-12 |
-
-Deux-Sèvres |
-
-7 |
-
-3 |
-
-Somme |
-
-10 |
-
-5 |
-
-Tarn |
-
-7 |
-
-3 |
-
-Tarn-et-Garonne |
-
-4 |
-
-2 |
-
-Var |
-
-18 |
-
-9 |
-
-Vaucluse |
-
-10 |
-
-5 |
-
-Vendée |
-
-11 |
-
-6 |
-
-Vienne |
-
-8 |
-
-4 |
-
-Haute-Vienne |
-
-7 |
-
-3 |
-
-Vosges |
-
-7 |
-
-3 |
-
-Yonne |
-
-6 |
-
-3 |
-
-Territoire de Belfort |
 
 3 |
 
 1 |
 
-Essonne |
-
-21 |
-
-11 |
-
-Hauts-de-Seine |
-
-27 |
-
-14 |
-
-Seine-Saint-Denis |
-
-26 |
-
-13 |
-
-Val-de-Marne |
-
-23 |
-
-12 |
-
-Val-d'Oise |
-
-20 |
-
-10 |
-
-Guadeloupe |
+Meurthe-et-Moselle |
 
 7 |
 
-4 |
+2 |
 
-Martinique |
+Meuse |
 
-7 |
+2 |
+
+1 |
+
+Morbihan |
+
+8 |
 
 3 |
 
-Guyane |
+Moselle |
+
+11 |
 
 4 |
 
+Nièvre |
+
 2 |
 
-La Réunion |
+1 |
 
-13 |
+Nord |
+
+27 |
+
+9 |
+
+Oise |
+
+8 |
+
+3 |
+
+Orne |
+
+3 |
+
+1 |
+
+Pas-de-Calais |
+
+15 |
+
+5 |
+
+Puy-de-Dôme |
+
+7 |
+
+2 |
+
+Pyrénées-Atlantiques |
+
+7 |
+
+2 |
+
+Hautes-Pyrénées |
+
+2 |
+
+1 |
+
+Pyrénées-Orientales |
+
+5 |
+
+2 |
+
+Bas-Rhin |
+
+11 |
+
+4 |
+
+Haut-Rhin |
+
+8 |
+
+3 |
+
+Rhône |
+
+19 |
 
 6 |
 
-Mayotte |
-
-4 |
+Haute-Saône |
 
 2 |
 
-Totaux |
+1 |
 
-1 140 |
+Saône-et-Loire |
 
-570 |
+6 |
+
+2 |
+
+Sarthe |
+
+6 |
+
+2 |
+
+Savoie |
+
+4 |
+
+1 |
+
+Haute-Savoie |
+
+8 |
+
+3 |
+
+Paris |
+
+22 |
+
+7 |
+
+Seine-Maritime |
+
+13 |
+
+4 |
+
+Seine-et-Marne |
+
+14 |
+
+5 |
+
+Yvelines |
+
+15 |
+
+5 |
+
+Deux-Sèvres |
+
+4 |
+
+1 |
+
+Somme |
+
+6 |
+
+2 |
+
+Tarn |
+
+4 |
+
+1 |
+
+Tarn-et-Garonne |
+
+3 |
+
+1 |
+
+Var |
+
+11 |
+
+4 |
+
+Vaucluse |
+
+6 |
+
+2 |
+
+Vendée |
+
+7 |
+
+2 |
+
+Vienne |
+
+4 |
+
+1 |
+
+Haute-Vienne |
+
+4 |
+
+1 |
+
+Vosges |
+
+4 |
+
+1 |
+
+Yonne |
+
+3 |
+
+1 |
+
+Territoire de Belfort |
+
+2 |
+
+1 |
+
+Essonne |
+
+13 |
+
+4 |
+
+Hauts-de-Seine |
+
+16 |
+
+5 |
+
+Seine-Saint-Denis |
+
+17 |
+
+6 |
+
+Val-de-Marne |
+
+14 |
+
+5 |
+
+Val-d'Oise |
+
+13 |
+
+4 |
+
+Guadeloupe |
+
+4 |
+
+1 |
+
+Martinique |
+
+4 |
+
+1 |
+
+Guyane |
+
+3 |
+
+1 |
+
+La Réunion |
+
+9 |
+
+3 |
+
+Mayotte |
+
+3 |
+
+1 |
+
+TOTAUX |
+
+687 |
+
+233 |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 29 août 2018, les présentes dispositions sont applicables à compter de la promotion du 1er janvier 2019 et aux candidatures présentées au titre de cette même promotion.

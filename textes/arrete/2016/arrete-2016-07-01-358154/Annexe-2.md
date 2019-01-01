@@ -6,252 +6,258 @@ CHEVALIERS |
 
 OFFICIERS |
 
-COMMANDEURS |
+COMMANDEURS
+
+|
 
 Aix-Marseille |
 
-228 |
+142 |
 
-114 |
+47 |
 
 8 |
 
 Amiens |
 
-158 |
+95 |
 
-79 |
+32 |
 
 5 |
 
 Besançon |
 
-104 |
+58 |
 
-52 |
+19 |
 
 4 |
 
 Bordeaux |
 
-246 |
+149 |
 
-123 |
+50 |
 
 8 |
 
 Caen |
 
-122 |
+68 |
 
-61 |
+23 |
 
 4 |
 
 Clermont-Ferrand |
 
-128 |
+63 |
 
-64 |
+21 |
 
 4 |
 
 Corse |
 
-24 |
+14 |
 
-12 |
+5 |
 
 1 |
 
 Créteil |
 
-338 |
+225 |
 
-169 |
+75 |
 
 12 |
 
 Dijon |
 
-138 |
+74 |
 
-69 |
+25 |
 
 5 |
 
 Grenoble |
 
-252 |
+160 |
 
-126 |
+53 |
 
 9 |
 
 Guadeloupe |
 
-48 |
+28 |
 
-24 |
+9 |
 
 1 |
 
 Guyane |
 
-28 |
+22 |
 
-14 |
+7 |
 
 1 |
 
 Lille |
 
-364 |
+218 |
 
-182 |
+73 |
 
 12 |
 
 Limoges |
 
-70 |
+32 |
 
-35 |
+11 |
 
 3 |
 
 Lyon |
 
-266 |
+164 |
 
-133 |
+55 |
 
 9 |
 
 Martinique |
 
-40 |
+22 |
 
-20 |
+7 |
 
 1 |
 
 Montpellier |
 
-216 |
+128 |
 
-108 |
+43 |
 
 7 |
 
 Nancy-Metz |
 
-218 |
+113 |
 
-109 |
+38 |
 
 7 |
 
 Nantes |
 
-268 |
+178 |
 
-134 |
+59 |
 
 10 |
 
 Nice |
 
-146 |
+91 |
 
-73 |
+30 |
 
 5 |
 
 Orléans-Tours |
 
-192 |
+117 |
 
-96 |
+39 |
 
 7 |
 
 Paris |
 
-298 |
+122 |
 
-149 |
+41 |
 
 11 |
 
 Poitiers |
 
-132 |
+79 |
 
-66 |
+26 |
 
 5 |
 
 Reims |
 
-136 |
+65 |
 
-68 |
+22 |
 
 5 |
 
 Rennes |
 
-242 |
+157 |
 
-121 |
+52 |
 
 8 |
 
 La Réunion |
 
-48 |
+57 |
 
-24 |
+19 |
 
 1 |
 
 Rouen |
 
-154 |
+90 |
 
-77 |
+30 |
 
 5 |
 
 Strasbourg |
 
-152 |
+89 |
 
-76 |
+30 |
 
 5 |
 
 Toulouse |
 
-232 |
+140 |
 
-116 |
+47 |
 
 8 |
 
 Versailles |
 
-402 |
+275 |
 
-201 |
+92 |
 
 14 |
 
-Totaux |
+TOTAUX |
 
-5 390 |
+3 235 |
 
-2 695 |
+1 080 |
 
 185 |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 29 août 2018, les présentes dispositions sont applicables à compter de la promotion du 1er janvier 2019 et aux candidatures présentées au titre de cette même promotion.
