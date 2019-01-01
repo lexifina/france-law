@@ -24,6 +24,8 @@ Directeur de l'agence de l'innovation de défense
 
 |
 
+.
+
 146.-ÉQUIPEMENT DES FORCES |
 
 Armées, direction ou service
@@ -55,6 +57,20 @@ Directeur de l'unité de management Cœlacanthe
 Directeur de l'unité de management opérations d'armement terrestres
 
 |
+
+.
+
+167.-LIENS ENTRE LA NATION ET SON ARMÉE |
+
+Armées, direction ou service |
+
+Autorités concernées |
+
+Direction du service national et de la jeunesse |
+
+Commandant du service militaire volontaire |
+
+.
 
 178.-PRÉPARATION ET EMPLOI DES FORCES |
 
@@ -136,6 +152,8 @@ Directeur des systèmes d'information et du numérique
 
 |
 
+.
+
 191.-RECHERCHE DUALE (civile et militaire) |
 
 Armées, direction ou service
@@ -153,6 +171,8 @@ Direction générale de l'armement
 Directeur de l'agence de l'innovation de défense
 
 |
+
+.
 
 212.-SOUTIEN DE LA POLITIQUE DE LA DÉFENSE |
 
