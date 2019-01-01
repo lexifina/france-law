@@ -1,0 +1,3 @@
+# Article 1er
+
+Le RNCSA du 1er semestre 2019 est ci-annexé. Outre la mise à jour semestrielle qu'il comporte, la série 9 « Inventaire », qui listait les certifications et habilitations inscrites à l'inventaire et éligibles au compte personnel de formation (CPF), est supprimée car toutes les certifications inscrites au répertoire national des certifications professionnelles (RNCP) et au répertoire spécifique (ex-inventaire) seront éligibles au CPF à partir du 1er janvier 2019, par application de la loi « pour la liberté de choisir son avenir professionnel » du 5 septembre 2018 en vertu de laquelle les listes de branche éligibles au CPF sont supprimées à compter de cette date.
