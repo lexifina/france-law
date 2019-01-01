@@ -1,5 +1,7 @@
 # Article Annexe I
 
+ANNEXE I
+
 AUTRES ASSIGNATIONS
 
 A. - Assignations du ministère de l'intérieur et du ministère des outre-mer
@@ -50,7 +52,7 @@ Pour les opérations relatives aux dépenses afférentes aux marchés publics fa
 
 DÉPARTEMENT DE RÉSIDENCE
 
-du centre de services partagés régional |
+du centre de services partagés |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
@@ -70,23 +72,23 @@ COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
 SEINE-MARITIME |
 
-Direction départementale des finances publiques du Calvados pour les opérations de l'ancien CSP du Calvados |
+Direction départementale des finances publiques du Calvados |
 
 CÔTE-D'OR |
 
-Direction départementale des finances publiques du Doubs pour les opérations de l'ancien CSP du Doubs |
+Direction départementale des finances publiques du Doubs |
 
 GIRONDE |
 
-Direction départementale des finances publiques de la Haute-Vienne pour les opérations de l'ancien CSP de la Haute-Vienne |
+Direction départementale des finances publiques de la Haute-Vienne |
 
 BAS-RHIN |
 
-Direction départementale des finances publiques de la Marne pour les opérations de l'ancien CSP de la Marne |
+Direction départementale des finances publiques de la Marne |
 
 RHÔNE |
 
-Direction départementale des finances publiques du Puy-de-Dôme pour les opérations de l'ancien CSP du Puy-de-Dôme |
+Direction départementale des finances publiques du Puy-de-Dôme |
 
 Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2018, aux dépenses dont le fait générateur est antérieur au 1er janvier 2018, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2018 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2018.
 
@@ -98,19 +100,19 @@ COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
 HAUTE-GARONNE |
 
-Direction départementale des finances publiques de l'Hérault pour les opérations de l'ancien CSP de l'Hérault |
+Direction départementale des finances publiques de l'Hérault |
 
 BAS-RHIN |
 
-Direction départementale des finances publiques de la Moselle pour les opérations de l'ancien CSP de la Moselle |
+Direction départementale des finances publiques de la Moselle |
 
 NORD |
 
-Direction départementale des finances publiques de la Somme pour les opérations de l'ancien CSP de la Somme |
+Direction départementale des finances publiques de la Somme |
 
 GIRONDE |
 
-Direction départementale des finances publiques de la Vienne pour les opérations de l'ancien CSP de la Vienne |
+Direction départementale des finances publiques de la Vienne |
 
 Pour les opérations relatives aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
 
@@ -192,7 +194,7 @@ du centre de services partagés |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-Le responsable de la plate-forme interrégionale d'Ile-de-France (Savigny-sur-Orge) |
+Le responsable de la délégation interrégionale du secrétariat général d'Ile-de-France (Savigny-sur-Orge) |
 
 Direction départementale des finances publiques des Hauts-de-Seine pour les opérations :
 
@@ -202,7 +204,19 @@ Direction départementale des finances publiques des Hauts-de-Seine pour les op�
 
 Direction départementale des finances publiques des Yvelines pour les opérations du ressort de la cour d'appel de Versailles relevant du programme 310 |
 
-C. - Assignations du ministère de la transition écologique et solidaire, du ministère de la cohésion des territoires et du ministère de l'agriculture et de l'alimentation.
+Pour les opérations relatives aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+Le responsable de la délégation interrégionale du secrétariat général de Bordeaux |
+
+Direction départementale des finances publiques des Pyrénées-Atlantiques |
+
+C. - Assignations du ministère de la transition écologique et solidaire, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de l'agriculture et de l'alimentation
 
 Pour les opérations relatives aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
 
@@ -265,6 +279,36 @@ Direction départementale des finances publiques de l'Oise |
 SEINE-MARITIME |
 
 Direction départementale des finances publiques de l'Eure |
+
+Pour les opérations relatives aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de prestations comptables mutualisées
+
+(siège ou antenne) |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+MOSELLE |
+
+Direction départementale des finances publiques des Vosges |
+
+BAS-RHIN sauf pour les opérations mentionnées à la ligne suivante |
+
+Direction départementale des finances publiques du Haut-Rhin |
+
+BAS-RHIN pour les ordres de payer et de recouvrer émis par les directions départementales des territoires de Meurthe-et-Moselle, de la Meuse, de la Moselle et des Vosges hors exécution des marchés publics et dépenses d'intervention notifiés avant le 1er mars 2016 (traités par le centre de prestations comptables mutualisées de la Moselle) |
+
+Direction départementale des finances publiques des Vosges |
+
+RHÔNE pour les départements suivants : Ain, Drôme, Rhône |
+
+Direction départementale des finances publiques de l'Ain |
+
+VIENNE |
+
+Direction départementale des finances publiques de la Charente-Maritime |
 
 D. - Assignations des centres de services partagés interministériels situés en métropole (hors Corse)
 
