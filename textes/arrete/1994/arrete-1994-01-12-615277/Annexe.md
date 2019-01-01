@@ -32,6 +32,16 @@ Opérations Héraclès, Pamir et Epidote
 
 |
 
+Algérie
+
+|
+
+Dans le cadre des missions menées en Algérie après le 2 juillet 1962 conformément aux accords d'Evian |
+
+3 juillet 1962 |
+
+1er juillet 1964 |
+
 Bosnie-Herzégovine
 
 |
