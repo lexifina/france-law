@@ -34,7 +34,7 @@ Vitrage fissuré ou décoloré |
 
 Mineure |
 
-3.2.1. a. 2 |
+3.2.1.a.2 |
 
 Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essuie-glaces ou de vision des rétroviseurs extérieurs |
 
@@ -42,7 +42,7 @@ Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essui
 
 Majeure |
 
-3.2.1. a. 3 |
+3.2.1.a.3 |
 
 Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essuie-glaces : visibilité fortement entravée |
 
@@ -50,7 +50,7 @@ Vitrage fissuré ou décoloré, à l'intérieur de la zone de balayage des essui
 
 Critique |
 
-3.2.1. b. 1 |
+3.2.1.b.1 |
 
 Vitrage autre que le pare-brise et les vitres latérales avant non conforme aux exigences |
 
@@ -58,7 +58,7 @@ Vitrage autre que le pare-brise et les vitres latérales avant non conforme aux 
 
 Mineure |
 
-3.2.1. b. 2 |
+3.2.1.b.2 |
 
 Pare-brise ou vitres latérales avant non conformes aux exigences |
 
@@ -66,7 +66,7 @@ Pare-brise ou vitres latérales avant non conformes aux exigences |
 
 Majeure |
 
-3.2.1. c. 2 |
+3.2.1.c.2 |
 
 Vitrage dans un état inacceptable |
 
@@ -74,7 +74,7 @@ Vitrage dans un état inacceptable |
 
 Majeure |
 
-3.2.1. c. 3 |
+3.2.1.c.3 |
 
 Vitrage dans un état inacceptable : visibilité fortement entravée |
 
@@ -86,7 +86,7 @@ Critique |
 
 3.3.1. MIROIRS OU DISPOSITIFS RÉTROVISEURS
 
-3.3.1. a. 2 |
+3.3.1.a.2 |
 
 Dispositif rétroviseur manquant ou fixé de manière non conforme aux exigences |
 
@@ -94,7 +94,7 @@ Dispositif rétroviseur manquant ou fixé de manière non conforme aux exigences
 
 Majeure |
 
-3.3.1. a. 3 |
+3.3.1.a.3 |
 
 Plus d'un dispositif rétroviseur obligatoire manquant |
 
@@ -102,7 +102,7 @@ Plus d'un dispositif rétroviseur obligatoire manquant |
 
 Critique |
 
-3.3.1. b. 1 |
+3.3.1.b.1 |
 
 Miroir ou dispositif légèrement endommagé ou mal fixé |
 
@@ -110,7 +110,7 @@ Miroir ou dispositif légèrement endommagé ou mal fixé |
 
 Mineure |
 
-3.3.1. b. 2 |
+3.3.1.b.2 |
 
 Miroir ou dispositif inopérant, fortement endommagé ou mal fixé |
 
@@ -118,7 +118,7 @@ Miroir ou dispositif inopérant, fortement endommagé ou mal fixé |
 
 Majeure |
 
-3.3.1. c. 2 |
+3.3.1.c.2 |
 
 Champ de vision nécessaire non couvert |
 
@@ -130,7 +130,7 @@ Majeure |
 
 3.4.1. ESSUIE-GLACE DU PARE-BRISE
 
-3.4.1. a. 2 |
+3.4.1.a.2 |
 
 Essuie-glace inopérant ou manquant ou non conforme aux exigences |
 
@@ -138,7 +138,7 @@ Essuie-glace inopérant ou manquant ou non conforme aux exigences |
 
 Majeure |
 
-3.4.1. b. 1 |
+3.4.1.b.1 |
 
 Balai d'essuie-glace défectueux |
 
@@ -146,7 +146,7 @@ Balai d'essuie-glace défectueux |
 
 Mineure |
 
-3.4.1. b. 2 |
+3.4.1.b.2 |
 
 Balai d'essuie-glace manquant ou manifestement défectueux |
 
@@ -166,7 +166,7 @@ Mauvais fonctionnement |
 
 Mineure |
 
-3.5.1. a. 2 |
+3.5.1.a.2 |
 
 Lave-glace inopérant |
 
@@ -200,7 +200,7 @@ Lampe/ source lumineuse défectueuse ou manquante |
 
 Mineure |
 
-4.1.1. a. 2 |
+4.1.1.a.2 |
 
 Lampe/ source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
@@ -208,7 +208,7 @@ Lampe/ source lumineuse défectueuse ou manquante : visibilité fortement rédui
 
 Majeure |
 
-4.1.1. b. 1 |
+4.1.1.b.1 |
 
 Système de projection légèrement défectueux (réflecteur et glace) |
 
@@ -216,7 +216,7 @@ Système de projection légèrement défectueux (réflecteur et glace) |
 
 Mineure |
 
-4.1.1. b. 2 |
+4.1.1.b.2 |
 
 Système de projection (réflecteur et glace) fortement défectueux ou manquant |
 
@@ -224,7 +224,7 @@ Système de projection (réflecteur et glace) fortement défectueux ou manquant 
 
 Majeure |
 
-4.1.1. c. 2 |
+4.1.1.c.2 |
 
 Mauvaise fixation du feu |
 
@@ -234,7 +234,7 @@ Majeure |
 
 4.1.2. ORIENTATION (FEUX DE CROISEMENT)
 
-4.1.2. a. 2 |
+4.1.2.a.2 |
 
 L'orientation d'un feu de croisement n'est pas dans les limites prescrites par les exigences |
 
@@ -242,7 +242,7 @@ L'orientation d'un feu de croisement n'est pas dans les limites prescrites par l
 
 Majeure |
 
-4.1.2. b. 2 |
+4.1.2.b.2 |
 
 Le système signale une défaillance via l'interface électronique du véhicule |
 
@@ -260,7 +260,7 @@ Le commutateur ne fonctionne pas conformément aux exigences (nombre de feux all
 
 Mineure |
 
-4.1.3. a. 2 |
+4.1.3.a.2 |
 
 Le commutateur ne fonctionne pas conformément aux exigences (nombre de feux allumés en même temps) : dépassement de l'intensité lumineuse maximale autorisée à l'avant |
 
@@ -268,7 +268,7 @@ Le commutateur ne fonctionne pas conformément aux exigences (nombre de feux all
 
 Majeure |
 
-4.1.3. b. 2 |
+4.1.3.b.2 |
 
 Fonctionnement du dispositif de commande perturbé |
 
@@ -276,7 +276,7 @@ Fonctionnement du dispositif de commande perturbé |
 
 Majeure |
 
-4.1.3. c. 2 |
+4.1.3.c.2 |
 
 Le système signale une défaillance via l'interface électronique du véhicule |
 
@@ -286,7 +286,7 @@ Majeure |
 
 4.1.4. CONFORMITÉ AVEC LES EXIGENCES (PHARES)
 
-4.1.4. a. 2 |
+4.1.4.a.2 |
 
 Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
@@ -294,7 +294,7 @@ Feu, couleur émise, position, intensité ou marquage non conforme aux exigences
 
 Majeure |
 
-4.1.4. b. 2 |
+4.1.4.b.2 |
 
 Présence de produits sur la glace ou la source lumineuse qui réduit manifestement l'intensité lumineuse ou modifie la couleur émise |
 
@@ -302,7 +302,7 @@ Présence de produits sur la glace ou la source lumineuse qui réduit manifestem
 
 Majeure |
 
-4.1.4. c. 2 |
+4.1.4.c.2 |
 
 Source lumineuse et lampe non compatibles |
 
@@ -312,7 +312,7 @@ Majeure |
 
 4.1.5. DISPOSITIFS DE RÉGLAGE DE LA PORTÉE (PHARES)
 
-4.1.5. a. 2 |
+4.1.5.a.2 |
 
 Dispositif inopérant |
 
@@ -320,7 +320,7 @@ Dispositif inopérant |
 
 Majeure |
 
-4.1.5. b. 2 |
+4.1.5.b.2 |
 
 Le dispositif manuel ne peut être actionné depuis le siège du conducteur |
 
@@ -328,7 +328,7 @@ Le dispositif manuel ne peut être actionné depuis le siège du conducteur |
 
 Majeure |
 
-4.1.5. c. 2 |
+4.1.5.c.2 |
 
 Le système signale une défaillance via l'interface électronique du véhicule |
 
@@ -346,7 +346,7 @@ Dispositif inopérant |
 
 Mineure |
 
-4.1.6. a. 2 |
+4.1.6.a.2 |
 
 Dispositif inopérant sur lampe à décharge |
 
@@ -366,7 +366,7 @@ Dysfonctionnement d'une source lumineuse |
 
 Mineure |
 
-4.2.1. a. 2 |
+4.2.1.a.2 |
 
 Source lumineuse défectueuse ou absente |
 
@@ -374,7 +374,7 @@ Source lumineuse défectueuse ou absente |
 
 Majeure |
 
-4.2.1. b. 2 |
+4.2.1.b.2 |
 
 Glace défectueuse |
 
@@ -382,7 +382,7 @@ Glace défectueuse |
 
 Majeure |
 
-4.2.1. c. 1 |
+4.2.1.c.1 |
 
 Mauvaise fixation |
 
@@ -390,7 +390,7 @@ Mauvaise fixation |
 
 Mineure |
 
-4.2.1. c. 2 |
+4.2.1.c.2 |
 
 Mauvaise fixation : très grand risque de détachement |
 
@@ -408,7 +408,7 @@ Le commutateur ne fonctionne pas conformément aux exigences |
 
 Mineure |
 
-4.2.2. a. 2 |
+4.2.2.a.2 |
 
 Le commutateur ne fonctionne pas conformément aux exigences : les feux de position arrière et latéraux peuvent être éteints lorsque les feux principaux sont allumés |
 
@@ -416,7 +416,7 @@ Le commutateur ne fonctionne pas conformément aux exigences : les feux de posit
 
 Majeure |
 
-4.2.2. b. 2 |
+4.2.2.b.2 |
 
 Fonctionnement du dispositif de commande perturbé |
 
@@ -434,7 +434,7 @@ Feu, position, intensité ou marquage non conforme aux exigences |
 
 Mineure |
 
-4.2.3. a. 2 |
+4.2.3.a.2 |
 
 Feu de couleur autre que blanc à l'avant ou rouge à l'arrière ; intensité lumineuse fortement réduite |
 
@@ -442,7 +442,7 @@ Feu de couleur autre que blanc à l'avant ou rouge à l'arrière ; intensité lu
 
 Majeure |
 
-4.2.3. b. 2 |
+4.2.3.b.2 |
 
 Présence de produits sur la glace ou la source lumineuse qui réduit manifestement l'intensité lumineuse |
 
@@ -462,7 +462,7 @@ Source lumineuse défectueuse |
 
 Mineure |
 
-4.3.1. a. 2 |
+4.3.1.a.2 |
 
 Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
@@ -470,7 +470,7 @@ Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
 Majeure |
 
-4.3.1. a. 3 |
+4.3.1.a.3 |
 
 Toutes les sources lumineuses ne fonctionnent pas |
 
@@ -478,7 +478,7 @@ Toutes les sources lumineuses ne fonctionnent pas |
 
 Critique |
 
-4.3.1. b. 1 |
+4.3.1.b.1 |
 
 Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
@@ -486,7 +486,7 @@ Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
 Mineure |
 
-4.3.1. b. 2 |
+4.3.1.b.2 |
 
 Glace fortement défectueuse (lumière émise affectée) |
 
@@ -494,7 +494,7 @@ Glace fortement défectueuse (lumière émise affectée) |
 
 Majeure |
 
-4.3.1. c. 1 |
+4.3.1.c.1 |
 
 Mauvaise fixation du feu |
 
@@ -502,7 +502,7 @@ Mauvaise fixation du feu |
 
 Mineure |
 
-4.3.1. c. 2 |
+4.3.1.c.2 |
 
 Mauvaise fixation du feu : très grand risque de détachement |
 
@@ -512,7 +512,7 @@ Majeure |
 
 4.3.2. COMMUTATION (FEUX STOP)
 
-4.3.2. a. 2 |
+4.3.2.a.2 |
 
 Le commutateur ne fonctionne pas conformément aux exigences |
 
@@ -520,7 +520,7 @@ Le commutateur ne fonctionne pas conformément aux exigences |
 
 Majeure |
 
-4.3.2. a. 3 |
+4.3.2.a.3 |
 
 Totalement inopérante |
 
@@ -528,7 +528,7 @@ Totalement inopérante |
 
 Critique |
 
-4.3.2. b. 2 |
+4.3.2.b.2 |
 
 Fonctionnement du dispositif de commande perturbé |
 
@@ -536,7 +536,7 @@ Fonctionnement du dispositif de commande perturbé |
 
 Majeure |
 
-4.3.2. c. 2 |
+4.3.2.c.2 |
 
 Le système signale une défaillance via l'interface électronique du véhicule |
 
@@ -554,7 +554,7 @@ Feu, position, intensité ou marquage non conforme aux exigences |
 
 Mineure |
 
-4.3.3. a. 2 |
+4.3.3.a.2 |
 
 Feu de couleur autre que rouge ; intensité lumineuse fortement réduite |
 
@@ -574,7 +574,7 @@ Source lumineuse défectueuse |
 
 Mineure |
 
-4.4.1. a. 2 |
+4.4.1.a.2 |
 
 Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
@@ -582,7 +582,7 @@ Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
 Majeure |
 
-4.4.1. b. 1 |
+4.4.1.b.1 |
 
 Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
@@ -590,7 +590,7 @@ Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
 Mineure |
 
-4.4.1. b. 2 |
+4.4.1.b.2 |
 
 Glace fortement défectueuse (lumière émise affectée) |
 
@@ -598,7 +598,7 @@ Glace fortement défectueuse (lumière émise affectée) |
 
 Majeure |
 
-4.4.1. c. 1 |
+4.4.1.c.1 |
 
 Mauvaise fixation |
 
@@ -606,7 +606,7 @@ Mauvaise fixation |
 
 Mineure |
 
-4.4.1. c. 2 |
+4.4.1.c.2 |
 
 Mauvaise fixation : très grand risque de détachement |
 
@@ -624,7 +624,7 @@ Le commutateur ne fonctionne pas conformément aux exigences |
 
 Mineure |
 
-4.4.2. a. 2 |
+4.4.2.a.2 |
 
 Totalement inopérant |
 
@@ -634,7 +634,7 @@ Majeure |
 
 4.4.3. CONFORMITÉ AVEC LES EXIGENCES (INDICATEUR DE DIRECTION ET FEUX DE SIGNAL DE DÉTRESSE)
 
-4.4.3. a. 2 |
+4.4.3.a.2 |
 
 Feu, couleur émise, position, intensité ou marquage non conforme aux exigences |
 
@@ -664,7 +664,7 @@ Source lumineuse défectueuse |
 
 Mineure |
 
-4.5.1. a. 2 |
+4.5.1.a.2 |
 
 Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
@@ -672,7 +672,7 @@ Source lumineuse défectueuse ou manquante : visibilité fortement réduite |
 
 Majeure |
 
-4.5.1. b. 1 |
+4.5.1.b.1 |
 
 Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
@@ -680,7 +680,7 @@ Glace légèrement défectueuse (pas d'influence sur la lumière émise) |
 
 Mineure |
 
-4.5.1. b. 2 |
+4.5.1.b.2 |
 
 Glace fortement défectueuse (lumière émise affectée) |
 
@@ -688,7 +688,7 @@ Glace fortement défectueuse (lumière émise affectée) |
 
 Majeure |
 
-4.5.1. c. 1 |
+4.5.1.c.1 |
 
 Mauvaise fixation |
 
@@ -696,7 +696,7 @@ Mauvaise fixation |
 
 Mineure |
 
-4.5.1. c. 2 |
+4.5.1.c.2 |
 
 Mauvaise fixation : très grand risque de détachement ou d'éblouissement |
 
@@ -706,7 +706,7 @@ Majeure |
 
 4.5.2. RÉGLAGE (FEUX DE BROUILLARD AVANT)
 
-4.5.2.a.1 |
+4.5.2. a. 1 |
 
 Mauvaise orientation horizontale d'un feu de brouillard avant |
 
@@ -716,7 +716,7 @@ Mineure |
 
 4.5.3. COMMUTATION (FEUX DE BROUILLARD AVANT ET ARRIÈRE)
 
-4.5.3.a.1 |
+4.5.3. a. 1 |
 
 Le commutateur ne fonctionne pas conformément aux exigences |
 
@@ -746,7 +746,7 @@ Majeure |
 
 4.6.1. ÉTAT ET FONCTIONNEMENT (FEU DE MARCHE ARRIÈRE)
 
-4.6.1.a.1 |
+4.6.1. a. 1 |
 
 Source lumineuse défectueuse |
 
@@ -790,7 +790,7 @@ Majeure |
 
 4.6.3. COMMUTATION (FEU DE MARCHE ARRIÈRE)
 
-4.6.3.a.1 |
+4.6.3. a. 1 |
 
 Le commutateur ne fonctionne pas conformément aux exigences |
 
@@ -810,7 +810,7 @@ Majeure |
 
 4.7.1. ÉTAT ET FONCTIONNEMENT (DISPOSITIF D'ÉCLAIRAGE DE LA PLAQUE D'IMMATRICULATION ARRIÈRE)
 
-4.7.1.a.1 |
+4.7.1. a. 1 |
 
 Le feu émet de la lumière directe vers l'arrière |
 
@@ -852,7 +852,7 @@ Majeure |
 
 4.7.2. CONFORMITÉ AVEC LES EXIGENCES (DISPOSITIF D'ÉCLAIRAGE DE LA PLAQUE D'IMMATRICULATION ARRIÈRE)
 
-4.7.2.a.1 |
+4.7.2. a. 1 |
 
 Non conforme aux exigences |
 
@@ -864,7 +864,7 @@ Mineure |
 
 4.8.1. ÉTAT (CATADIOPTRES, MARQUAGE DE VISIBILITÉ RÉFLÉCHISSANT ET PLAQUES RÉFLÉCHISSANTES ARRIÈRE)
 
-4.8.1.a.1 |
+4.8.1. a. 1 |
 
 Dispositif défectueux ou endommagé |
 
@@ -3526,7 +3526,7 @@ L'équipement monté par le constructeur est manifestement absent, modifié ou d
 
 Majeure |
 
-8.2.11. b. 2 |
+8.2.11.b.2 |
 
 Fuites susceptibles d'affecter les mesures des émissions |
 
@@ -3536,6 +3536,14 @@ Majeure |
 
 8.2.12. ÉMISSIONS DES MOTEURS À ALLUMAGE COMMANDÉ
 
+8.2.12.d.1 |
+
+Le relevé du système OBD indique une anomalie du dispositif antipollution, sans dysfonctionnement important |
+
+|
+
+Mineure |
+
 8.2.12.d.2 |
 
 Le relevé du système OBD indique un dysfonctionnement important |
@@ -3544,7 +3552,7 @@ Le relevé du système OBD indique un dysfonctionnement important |
 
 Majeure |
 
-8.2.12. e. 1 |
+8.2.12.e.1 |
 
 Connexion impossible sans dysfonctionnement du témoin OBD |
 
@@ -3552,7 +3560,7 @@ Connexion impossible sans dysfonctionnement du témoin OBD |
 
 Mineure |
 
-8.2.12. g. 2 |
+8.2.12.g.2 |
 
 Fumée excessive |
 
@@ -3562,7 +3570,7 @@ Majeure |
 
 8.2.21. ÉQUIPEMENTS DE RÉDUCTION DES ÉMISSIONS À L'ÉCHAPPEMENT POUR MOTEUR À ALLUMAGE PAR COMPRESSION
 
-8.2.21. a. 2 |
+8.2.21.a.2 |
 
 L'équipement monté par le constructeur est manifestement absent, modifié ou défectueux |
 
@@ -3570,7 +3578,7 @@ L'équipement monté par le constructeur est manifestement absent, modifié ou d
 
 Majeure |
 
-8.2.21. b. 2 |
+8.2.21.b.2 |
 
 Fuites susceptibles d'affecter les mesures des émissions |
 
@@ -3580,17 +3588,17 @@ Majeure |
 
 8.2.22. OPACITÉ
 
-8.2.22. a. 1 |
+8.2.22.a.1. |
 
-Mesures d'opacité légèrement instables
-
-|
+Mesures d'opacité légèrement instables |
 
 |
 
-Mineure |
+Mineure
 
-8.2.22. a. 2 |
+|
+
+8.2.22.a.2 |
 
 L'opacité dépasse la valeur de réception ou les mesures sont instables |
 
@@ -3598,7 +3606,7 @@ L'opacité dépasse la valeur de réception ou les mesures sont instables |
 
 Majeure |
 
-8.2.22. b. 2 |
+8.2.22.b.2 |
 
 L'opacité dépasse les limites réglementaires, en l'absence de valeur de réception ou les mesures sont instables |
 
@@ -3606,7 +3614,15 @@ L'opacité dépasse les limites réglementaires, en l'absence de valeur de réce
 
 Majeure |
 
-8.2.22. c. 2 |
+8.2.22.c.1 |
+
+Le relevé du système OBD indique une anomalie du dispositif antipollution, sans dysfonctionnement important |
+
+|
+
+Mineure |
+
+8.2.22.c.2 |
 
 Le relevé du système OBD indique un dysfonctionnement important |
 
@@ -3614,7 +3630,7 @@ Le relevé du système OBD indique un dysfonctionnement important |
 
 Majeure |
 
-8.2.22. d. 1 |
+8.2.22.d.1 |
 
 Connexion impossible sans dysfonctionnement du témoin OBD |
 
@@ -3622,7 +3638,7 @@ Connexion impossible sans dysfonctionnement du témoin OBD |
 
 Mineure |
 
-8.2.22. e. 2 |
+8.2.22.e.2 |
 
 Contrôle impossible des émissions à l'échappement |
 
@@ -3630,7 +3646,7 @@ Contrôle impossible des émissions à l'échappement |
 
 Majeure |
 
-8.2.22. f. 2 |
+8.2.22.f.2 |
 
 Fumée excessive |
 
@@ -4154,7 +4170,7 @@ Majeure |
 
 9.10.1. a. 3 |
 
-Protection des portes non conformes aux exigences concernant cette forme de transport : non fonctionnement |
+Protection des portes non conforme aux exigences concernant cette forme de transport : non fonctionnement |
 
 [Loc] |
 
