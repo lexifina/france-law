@@ -4,13 +4,15 @@ LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 1RE CATÉGORIE
 
 DIR |
 
-RÉFÉRENCE |
+REFERENCE |
 
 FAMILLE |
 
-LIBELLÉ |
+LIBELLE |
 
-13 |
+DATE D'EFFET |
+
+Bouches-du-Rhône |
 
 013018 |
 
@@ -18,7 +20,9 @@ Trésorerie spécialisée |
 
 MARSEILLE MUN. ET METROPOLE AMP |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013038 |
 
@@ -26,7 +30,9 @@ SIE |
 
 AIX-EN-PROVENCE SUD |
 
-21 |
+01/01/2019 |
+
+Côte-d'Or |
 
 021016 |
 
@@ -34,7 +40,9 @@ SIE |
 
 DIJON NORD |
 
-30 |
+01/01/2019 |
+
+Gard |
 
 030006 |
 
@@ -42,7 +50,9 @@ SPF |
 
 NIMES 1 |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
 
 031097 |
 
@@ -50,7 +60,9 @@ SPF |
 
 TOULOUSE 3 |
 
-33 |
+01/06/2019 |
+
+Gironde |
 
 033017 |
 
@@ -58,7 +70,9 @@ Trésorerie spécialisée |
 
 BORDEAUX MUNICIPALE ET METROPOLE |
 
-34 |
+01/01/2019 |
+
+Hérault |
 
 034020 |
 
@@ -66,7 +80,9 @@ SIP |
 
 MONTPELLIER II |
 
-34 |
+01/01/2019 |
+
+Hérault |
 
 034023 |
 
@@ -74,7 +90,9 @@ SPF |
 
 MONTPELLIER 2 |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035050 |
 
@@ -82,7 +100,9 @@ Trésorerie spécialisée |
 
 CONTROLE AUTOMATISE |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044052 |
 
@@ -90,7 +110,9 @@ SIP |
 
 NANTES CENTRE |
 
-56 |
+01/01/2019 |
+
+Morbihan |
 
 056019 |
 
@@ -98,7 +120,9 @@ Trésorerie spécialisée |
 
 VANNES MUNICIPALE |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059078 |
 
@@ -106,7 +130,9 @@ SPF |
 
 LILLE 3 |
 
-63 |
+01/01/2019 |
+
+Puy-de-Dôme |
 
 063074 |
 
@@ -114,7 +140,9 @@ SPF |
 
 CLERMONT-FERRAND |
 
-66 |
+03/06/2019 |
+
+Pyrénées-Orientales |
 
 066039 |
 
@@ -122,7 +150,9 @@ SPF |
 
 PERPIGNAN 1 |
 
-67 |
+18/06/2019 |
+
+Bas-Rhin |
 
 067053 |
 
@@ -130,7 +160,9 @@ SIP |
 
 STRASBOURG OUEST |
 
-68 |
+01/01/2019 |
+
+Haut-Rhin |
 
 068038 |
 
@@ -138,7 +170,9 @@ SIE |
 
 MULHOUSE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069017 |
 
@@ -146,7 +180,9 @@ SIE |
 
 LYON CENTRE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069019 |
 
@@ -154,7 +190,9 @@ Trésorerie spécialisée |
 
 LYON MUNICIPALE-METROPOLE LYON |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069022 |
 
@@ -162,7 +200,9 @@ Trésorerie spécialisée |
 
 LYON HOSPICES CIVILS |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069071 |
 
@@ -170,7 +210,9 @@ SIE |
 
 LYON BERTHELOT |
 
-74 |
+01/01/2019 |
+
+Haute-Savoie |
 
 074045 |
 
@@ -178,7 +220,9 @@ SIP-SIE |
 
 SEYNOD |
 
-74 |
+01/01/2019 |
+
+Haute-Savoie |
 
 074047 |
 
@@ -186,7 +230,9 @@ SPF |
 
 ANNECY |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075010 |
 
@@ -194,15 +240,19 @@ SIP |
 
 PARIS 7E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075051 |
 
 SIE |
 
-PARIS 1E |
+PARIS 1ER |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075057 |
 
@@ -210,7 +260,9 @@ SIE |
 
 PARIS 9E OUEST |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075066 |
 
@@ -218,23 +270,29 @@ Trésorerie spécialisée |
 
 CENTRE D'ACTION SOCIALE DE PARIS |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075088 |
 
 SIE |
 
-PARIS 8E CHAMPS -ELYSEES |
+PARIS 8E CHAMPS-ELYSEES |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075091 |
 
 SIE |
 
-PARIS 8E EUROPE-ROME |
+PARIS 8E ROME MADELEINE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075703 |
 
@@ -242,7 +300,9 @@ SIE |
 
 PARIS 17E TERNES |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075707 |
 
@@ -250,7 +310,9 @@ SIE |
 
 PARIS 7E |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077061 |
 
@@ -258,7 +320,9 @@ SPF |
 
 MEAUX |
 
-83 |
+01/01/2019 |
+
+Var |
 
 083043 |
 
@@ -266,7 +330,9 @@ SPF |
 
 TOULON 2 |
 
-87 |
+01/01/2019 |
+
+Haute-Vienne |
 
 087040 |
 
@@ -274,7 +340,9 @@ SIE |
 
 LIMOGES |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092025 |
 
@@ -282,7 +350,9 @@ SIP |
 
 NANTERRE-RUEIL |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092026 |
 
@@ -290,23 +360,19 @@ Trésorerie spécialisée |
 
 NANTERRE MUNICIPALE |
 
-92 |
+01/01/2019 |
 
-092041 |
-
-Trésorerie spécialisée |
-
-HAUTS-DE-SEINE HABITAT-OPH |
-
-92 |
+Hauts-de-Seine |
 
 092047 |
 
 PRS |
 
-HAUTS-DE-SEINE - NANTERRE |
+HAUTS-DE-SEINE-NANTERRE |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092059 |
 
@@ -314,7 +380,9 @@ SIE |
 
 NEUILLY |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092063 |
 
@@ -322,7 +390,9 @@ SIE |
 
 ISSY-LES-MOULINEAUX |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092071 |
 
@@ -330,7 +400,9 @@ SPF |
 
 NANTERRE 3 |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092073 |
 
@@ -338,7 +410,9 @@ SPF |
 
 VANVES 2 |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104001 |
 
@@ -346,7 +420,9 @@ Trésorerie mixte |
 
 LE PORT |
 
-A45 |
+01/01/2019 |
+
+DGE |
 
 940001 |
 
@@ -354,10 +430,4 @@ SIE |
 
 POSTE COMPTABLE DE LA DGE |
 
-TAF |
-
-178000 |
-
-Trésorerie étranger |
-
-WASHINGTON |
+01/01/2019 |

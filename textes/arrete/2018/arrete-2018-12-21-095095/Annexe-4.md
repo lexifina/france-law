@@ -4,21 +4,15 @@ LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 3E CATÉGORIE
 
 DIR |
 
-RÉFÉRENCE |
+REFERENCE |
 
 FAMILLE |
 
-LIBELLÉ |
+LIBELLE |
 
-01 |
+DATE D'EFFET |
 
-001006 |
-
-Trésorerie spécialisée |
-
-BOURG-EN-BRESSE MUNICIPALE |
-
-06 |
+Alpes-Maritimes |
 
 006016 |
 
@@ -26,7 +20,9 @@ Trésorerie spécialisée |
 
 NICE CENTRE HOSPITALIER |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006031 |
 
@@ -34,7 +30,9 @@ SIE |
 
 ANTIBES |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006037 |
 
@@ -42,23 +40,29 @@ SIE |
 
 NICE EST-OUEST |
 
-06 |
+01/01/2019 |
 
-006038 |
+Alpes-Maritimes |
+
+006040 |
 
 SIE |
 
-NICE CENTRE |
+NICE CENTRE-COLLINES |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006041 |
 
 SIE |
 
-NICE EXTERIEUR |
+NICE EXTERIEUR-PAILLON |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006047 |
 
@@ -66,7 +70,9 @@ SPF |
 
 NICE 1 |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006102 |
 
@@ -74,7 +80,9 @@ Trésorerie spécialisée |
 
 ANTIBES MUNICIPALE |
 
-06 |
+01/01/2019 |
+
+Alpes-Maritimes |
 
 006107 |
 
@@ -82,7 +90,19 @@ Trésorerie spécialisée |
 
 CANNES MUNICIPALE |
 
-11 |
+01/01/2019 |
+
+Aube |
+
+010036 |
+
+Trésorerie spécialisée |
+
+TROYES MUNICIPALE |
+
+01/01/2019 |
+
+Aude |
 
 011002 |
 
@@ -90,7 +110,9 @@ SPF |
 
 CARCASSONNE |
 
-11 |
+01/01/2019 |
+
+Aude |
 
 011047 |
 
@@ -98,7 +120,9 @@ SIP |
 
 NARBONNE |
 
-11 |
+01/01/2019 |
+
+Aude |
 
 011054 |
 
@@ -106,23 +130,29 @@ SIE |
 
 NARBONNE |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013014 |
 
 SIP |
 
-MARSEILLE 11E / 12E |
+MARSEILLE 11E/ 12E |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013016 |
 
 SIP |
 
-MARSEILLE 2E/15E/16E |
+MARSEILLE 2E/ 15E/ 16E |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013017 |
 
@@ -130,7 +160,9 @@ Trésorerie spécialisée |
 
 AMENDES DES BOUCHES DU RHONE |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013027 |
 
@@ -138,15 +170,19 @@ SIP-SIE |
 
 LA CIOTAT |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013034 |
 
 SIE |
 
-MARSEILLE 5EME/6EME |
+MARSEILLE 5E/ 6E |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013043 |
 
@@ -154,7 +190,9 @@ SIE |
 
 SALON DE PROVENCE |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013049 |
 
@@ -162,7 +200,9 @@ SPF |
 
 AIX-EN-PROVENCE 1 |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013101 |
 
@@ -170,7 +210,9 @@ SIP |
 
 AIX-EN-PROVENCE NORD |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013103 |
 
@@ -178,7 +220,9 @@ Trésorerie spécialisée |
 
 MUNICIPALE D AIX ET CAMPAGNE |
 
-13 |
+01/01/2019 |
+
+Bouches-du-Rhône |
 
 013214 |
 
@@ -186,7 +230,9 @@ Trésorerie spécialisée |
 
 ISTRES |
 
-14 |
+01/01/2019 |
+
+Calvados |
 
 014013 |
 
@@ -194,7 +240,9 @@ Trésorerie spécialisée |
 
 CAEN MUNICIPALE |
 
-14 |
+01/01/2019 |
+
+Calvados |
 
 014014 |
 
@@ -202,7 +250,19 @@ Trésorerie spécialisée |
 
 CAEN CHU |
 
-17 |
+01/01/2019 |
+
+Calvados |
+
+014016 |
+
+SIE |
+
+CAEN NORD |
+
+01/01/2019 |
+
+Charente-Maritime |
 
 017009 |
 
@@ -210,7 +270,9 @@ SIP |
 
 LA ROCHELLE |
 
-17 |
+01/01/2019 |
+
+Charente-Maritime |
 
 017011 |
 
@@ -218,7 +280,9 @@ Trésorerie spécialisée |
 
 LA ROCHELLE MUNICIPALE |
 
-17 |
+01/01/2019 |
+
+Charente-Maritime |
 
 017037 |
 
@@ -226,7 +290,9 @@ Trésorerie spécialisée |
 
 SAINTES ET BANLIEUE MUNICIPALE |
 
-18 |
+01/01/2019 |
+
+Cher |
 
 018042 |
 
@@ -234,7 +300,9 @@ Trésorerie spécialisée |
 
 BOURGES HÔPITAUX |
 
-19 |
+01/01/2019 |
+
+Corrèze |
 
 019026 |
 
@@ -242,7 +310,9 @@ Trésorerie spécialisée |
 
 BRIVE MUNICIPALE |
 
-2B |
+01/01/2019 |
+
+Haute-Corse |
 
 02B024 |
 
@@ -250,7 +320,9 @@ SIE |
 
 BASTIA |
 
-21 |
+01/01/2019 |
+
+Côte-d'Or |
 
 021011 |
 
@@ -258,7 +330,9 @@ SIP |
 
 DIJON NORD |
 
-21 |
+01/01/2019 |
+
+Côte-d'Or |
 
 021013 |
 
@@ -266,7 +340,9 @@ Trésorerie spécialisée |
 
 DIJON MUNICIPALE |
 
-21 |
+01/01/2019 |
+
+Côte-d'Or |
 
 021064 |
 
@@ -274,7 +350,9 @@ SPF |
 
 DIJON 1 |
 
-22 |
+03/10/2019 |
+
+Côtes-d'Armor |
 
 022058 |
 
@@ -282,7 +360,19 @@ SIE |
 
 SAINT-BRIEUC |
 
-25 |
+01/01/2019 |
+
+Dordogne |
+
+024071 |
+
+SPF |
+
+PÉRIGUEUX |
+
+01/02/2019 |
+
+Doubs |
 
 025005 |
 
@@ -290,7 +380,19 @@ Trésorerie spécialisée |
 
 GRAND BESANCON |
 
-25 |
+01/01/2019 |
+
+Doubs |
+
+025013 |
+
+SIP |
+
+BESANCON |
+
+01/01/2019 |
+
+Doubs |
 
 025052 |
 
@@ -298,7 +400,9 @@ SIE |
 
 BESANCON |
 
-26 |
+01/01/2019 |
+
+Drôme |
 
 026027 |
 
@@ -306,7 +410,9 @@ Trésorerie spécialisée |
 
 VALENCE AGGLOMERATION |
 
-26 |
+01/01/2019 |
+
+Drôme |
 
 026046 |
 
@@ -314,7 +420,9 @@ SIP |
 
 VALENCE |
 
-26 |
+01/01/2019 |
+
+Drôme |
 
 026050 |
 
@@ -322,7 +430,9 @@ SPF |
 
 VALENCE 1 |
 
-28 |
+01/01/2019 |
+
+Eure-et-Loir |
 
 028009 |
 
@@ -330,7 +440,9 @@ SIE |
 
 CHARTRES |
 
-28 |
+01/01/2019 |
+
+Eure-et-Loir |
 
 028025 |
 
@@ -338,7 +450,9 @@ Trésorerie mixte |
 
 MAINTENON |
 
-28 |
+01/01/2019 |
+
+Eure-et-Loir |
 
 028043 |
 
@@ -346,7 +460,9 @@ SPF |
 
 CHARTRES 1 |
 
-28 |
+01/01/2019 |
+
+Eure-et-Loir |
 
 028047 |
 
@@ -354,7 +470,9 @@ Trésorerie spécialisée |
 
 HOSPITALIERE DEPARTEMENTALE |
 
-29 |
+01/01/2019 |
+
+Finistère |
 
 029003 |
 
@@ -362,15 +480,19 @@ SIP |
 
 BREST IROISE |
 
-29 |
+01/01/2019 |
+
+Finistère |
 
 029004 |
 
 Trésorerie spécialisée |
 
-BREST MUNICIPALE ET COM. URB |
+BREST METROPOLE |
 
-29 |
+01/01/2019 |
+
+Finistère |
 
 029005 |
 
@@ -378,7 +500,9 @@ Trésorerie spécialisée |
 
 BREST CHU |
 
-29 |
+01/01/2019 |
+
+Finistère |
 
 029026 |
 
@@ -386,7 +510,9 @@ Trésorerie spécialisée |
 
 MORLAIX MUNICIPALE |
 
-29 |
+01/01/2019 |
+
+Finistère |
 
 029052 |
 
@@ -394,7 +520,9 @@ SPF |
 
 BREST 1 |
 
-30 |
+01/01/2019 |
+
+Gard |
 
 030018 |
 
@@ -402,15 +530,19 @@ Trésorerie spécialisée |
 
 NIMES AGGLOMERATION |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
 
 031001 |
 
 PRS |
 
-HAUTE - GARONNE |
+HAUTE-GARONNE |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
 
 031028 |
 
@@ -418,7 +550,19 @@ SIP |
 
 TOULOUSE RANGUEIL |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
+
+031032 |
+
+Trésorerie spécialisée |
+
+L'UNION |
+
+01/01/2019 |
+
+Haute-Garonne |
 
 031034 |
 
@@ -426,15 +570,19 @@ Trésorerie spécialisée |
 
 TOULOUSE AMENDES |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
 
 031070 |
 
 SIE |
 
-TOULOUSE-MIRAIL |
+TOULOUSE MIRAIL |
 
-31 |
+01/01/2019 |
+
+Haute-Garonne |
 
 031092 |
 
@@ -442,23 +590,19 @@ SIP |
 
 BALMA |
 
-31 |
+01/01/2019 |
 
-031096 |
-
-SPF |
-
-TOULOUSE 2 |
-
-33 |
+Gironde |
 
 033014 |
 
 SIP |
 
-BORDEAUX CENTRE AMONT |
+BORDEAUX |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033015 |
 
@@ -466,7 +610,9 @@ SIE |
 
 CENON |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033037 |
 
@@ -474,7 +620,9 @@ SIE |
 
 PESSAC-TALENCE |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033044 |
 
@@ -482,7 +630,9 @@ SIE |
 
 MERIGNAC |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033077 |
 
@@ -490,7 +640,9 @@ Trésorerie spécialisée |
 
 LIBOURNE |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033087 |
 
@@ -498,7 +650,9 @@ SIP |
 
 MERIGNAC |
 
-33 |
+01/01/2019 |
+
+Gironde |
 
 033091 |
 
@@ -506,15 +660,9 @@ SIE |
 
 LIBOURNE |
 
-33 |
+01/01/2019 |
 
-033093 |
-
-SPF |
-
-BORDEAUX 1 |
-
-34 |
+Hérault |
 
 034017 |
 
@@ -522,7 +670,9 @@ Trésorerie spécialisée |
 
 MAUGUIO |
 
-34 |
+01/01/2019 |
+
+Hérault |
 
 034029 |
 
@@ -530,15 +680,19 @@ SIP |
 
 SETE |
 
-34 |
+01/01/2019 |
 
-034033 |
+Hérault |
 
-Trésorerie mixte |
+034049 |
 
-AGDE |
+SIE |
 
-34 |
+GRAND BÉZIERS |
+
+01/01/2019 |
+
+Hérault |
 
 034052 |
 
@@ -546,7 +700,9 @@ SIE |
 
 MONTPELLIER II |
 
-34 |
+01/01/2019 |
+
+Hérault |
 
 034059 |
 
@@ -554,7 +710,9 @@ SIE |
 
 MONTPELLIER SUD-EST |
 
-34 |
+01/01/2019 |
+
+Hérault |
 
 034090 |
 
@@ -562,7 +720,9 @@ Trésorerie spécialisée |
 
 HERAULT |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035006 |
 
@@ -570,7 +730,9 @@ Trésorerie mixte |
 
 RENNES BANLIEUE EST |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035029 |
 
@@ -578,7 +740,9 @@ SIP |
 
 RENNES OUEST |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035033 |
 
@@ -586,7 +750,9 @@ Trésorerie spécialisée |
 
 RENNES CHU |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035047 |
 
@@ -594,7 +760,9 @@ Trésorerie spécialisée |
 
 SAINT-MALO MUNICIPALE |
 
-35 |
+01/01/2019 |
+
+Ille-et-Vilaine |
 
 035090 |
 
@@ -602,7 +770,9 @@ Trésorerie spécialisée |
 
 ILLE-ET-VILAINE |
 
-37 |
+01/01/2019 |
+
+Indre-et-Loire |
 
 037010 |
 
@@ -610,7 +780,9 @@ SIP |
 
 TOURS NORD-OUEST |
 
-37 |
+01/01/2019 |
+
+Indre-et-Loire |
 
 037035 |
 
@@ -618,7 +790,9 @@ SIE |
 
 TOURS NORD-OUEST |
 
-37 |
+01/01/2019 |
+
+Indre-et-Loire |
 
 037042 |
 
@@ -626,7 +800,9 @@ Trésorerie spécialisée |
 
 TOURS CHU |
 
-37 |
+01/01/2019 |
+
+Indre-et-Loire |
 
 037044 |
 
@@ -634,7 +810,9 @@ Trésorerie spécialisée |
 
 OPH VAL TOURAINE HABITAT |
 
-37 |
+01/01/2019 |
+
+Indre-et-Loire |
 
 037045 |
 
@@ -642,7 +820,19 @@ Trésorerie spécialisée |
 
 TOURS HABITAT |
 
-38 |
+01/01/2019 |
+
+Isère |
+
+038035 |
+
+Trésorerie mixte |
+
+SAINT-EGREVE |
+
+01/01/2019 |
+
+Isère |
 
 038043 |
 
@@ -650,7 +840,19 @@ Trésorerie mixte |
 
 LE TOUVET |
 
-38 |
+01/01/2019 |
+
+Isère |
+
+038062 |
+
+SIE |
+
+GRENOBLE-CHARTREUSE-GRESI |
+
+01/01/2019 |
+
+Isère |
 
 038090 |
 
@@ -658,7 +860,9 @@ Trésorerie spécialisée |
 
 ISERE |
 
-38 |
+01/01/2019 |
+
+Isère |
 
 038110 |
 
@@ -666,7 +870,19 @@ Trésorerie spécialisée |
 
 BOURGOIN-JALLIEU COLLECTIVITES |
 
-40 |
+01/01/2019 |
+
+Jura |
+
+039015 |
+
+Trésorerie spécialisée |
+
+LONS MUNICIPALE ET AMENDES |
+
+01/01/2019 |
+
+Landes |
 
 040008 |
 
@@ -674,7 +890,9 @@ Trésorerie spécialisée |
 
 MONT-DE-MARSAN AGGLOMERATION |
 
-40 |
+01/01/2019 |
+
+Landes |
 
 040009 |
 
@@ -682,7 +900,9 @@ Trésorerie spécialisée |
 
 MONT-DE-MARSAN DAGAS |
 
-40 |
+01/01/2019 |
+
+Landes |
 
 040029 |
 
@@ -690,7 +910,9 @@ Trésorerie mixte |
 
 SAINT-VINCENT-DE-TYROSSE |
 
-40 |
+01/01/2019 |
+
+Landes |
 
 040039 |
 
@@ -698,7 +920,19 @@ SIP |
 
 DAX |
 
-41 |
+01/01/2019 |
+
+Landes |
+
+040040 |
+
+SPF |
+
+MONT-DE-MARSAN |
+
+18/03/2019 |
+
+Loir-et-Cher |
 
 041001 |
 
@@ -706,7 +940,9 @@ SIP |
 
 BLOIS |
 
-41 |
+01/01/2019 |
+
+Loir-et-Cher |
 
 041003 |
 
@@ -714,7 +950,9 @@ Trésorerie spécialisée |
 
 BLOIS AGGLOMERATION |
 
-41 |
+01/01/2019 |
+
+Loir-et-Cher |
 
 041038 |
 
@@ -722,7 +960,9 @@ SIE |
 
 BLOIS |
 
-42 |
+01/01/2019 |
+
+Loire |
 
 042017 |
 
@@ -730,15 +970,9 @@ Trésorerie spécialisée |
 
 SAINT-ETIENNE CHU |
 
-42 |
+01/01/2019 |
 
-042210 |
-
-Trésorerie spécialisée |
-
-ROANNE MUNICIPALE |
-
-43 |
+Haute-Loire |
 
 043023 |
 
@@ -746,7 +980,9 @@ Trésorerie spécialisée |
 
 LE PUY VILLE |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044015 |
 
@@ -754,7 +990,9 @@ SIP |
 
 NANTES NORD |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044057 |
 
@@ -762,7 +1000,9 @@ PRS |
 
 LOIRE-ATLANTIQUE |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044058 |
 
@@ -770,7 +1010,9 @@ SPF |
 
 NANTES 1 |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044059 |
 
@@ -778,7 +1020,9 @@ SPF |
 
 NANTES 2 |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044104 |
 
@@ -786,7 +1030,9 @@ Trésorerie mixte |
 
 LA BAULE-ESCOUBLAC |
 
-44 |
+01/01/2019 |
+
+Loire-Atlantique |
 
 044111 |
 
@@ -794,7 +1040,9 @@ SIP |
 
 SAINT-NAZAIRE |
 
-45 |
+01/01/2019 |
+
+Loiret |
 
 045020 |
 
@@ -802,7 +1050,9 @@ Trésorerie spécialisée |
 
 ORLEANS CENTRES HOSPITALIERS |
 
-45 |
+01/01/2019 |
+
+Loiret |
 
 045055 |
 
@@ -810,7 +1060,9 @@ SIP |
 
 ORLEANS OUEST |
 
-49 |
+01/01/2019 |
+
+Maine-et-Loire |
 
 049004 |
 
@@ -818,7 +1070,9 @@ Trésorerie spécialisée |
 
 ANGERS CHU |
 
-49 |
+01/01/2019 |
+
+Maine-et-Loire |
 
 049045 |
 
@@ -826,7 +1080,9 @@ Trésorerie spécialisée |
 
 CHOLET MUNICIPALE ET VEZINS |
 
-49 |
+01/01/2019 |
+
+Maine-et-Loire |
 
 049060 |
 
@@ -834,7 +1090,9 @@ SPF |
 
 ANGERS 1 |
 
-51 |
+01/01/2019 |
+
+Marne |
 
 051044 |
 
@@ -842,7 +1100,9 @@ SIE |
 
 REIMS |
 
-51 |
+01/01/2019 |
+
+Marne |
 
 051212 |
 
@@ -850,7 +1110,9 @@ Trésorerie spécialisée |
 
 REIMS ETS HOSPITALIERS |
 
-53 |
+01/01/2019 |
+
+Mayenne |
 
 053033 |
 
@@ -858,15 +1120,19 @@ SIE |
 
 LAVAL |
 
-54 |
+01/01/2019 |
+
+Meurthe-et-Moselle |
 
 054015 |
 
 Trésorerie spécialisée |
 
-NANCY C.H.U |
+NANCY C. H. U |
 
-54 |
+01/01/2019 |
+
+Meurthe-et-Moselle |
 
 054017 |
 
@@ -874,15 +1140,19 @@ SPF |
 
 NANCY |
 
-56 |
+13/05/2019 |
+
+Morbihan |
 
 056034 |
 
 Trésorerie spécialisée |
 
-LORIENT HÔPITAUX-HLM |
+LORIENT HÔPITAUX |
 
-56 |
+01/01/2019 |
+
+Morbihan |
 
 056038 |
 
@@ -890,15 +1160,19 @@ Trésorerie spécialisée |
 
 PONTIVY |
 
-56 |
+01/01/2019 |
+
+Morbihan |
 
 056047 |
 
 SIE |
 
-VANNES GOLFE |
+VANNES |
 
-57 |
+01/01/2019 |
+
+Moselle |
 
 057030 |
 
@@ -906,15 +1180,19 @@ Trésorerie spécialisée |
 
 METZ MUNICIPALE |
 
-57 |
+01/01/2019 |
+
+Moselle |
 
 057061 |
 
 Trésorerie spécialisée |
 
-METZ-THIONVILLE ETS HOSP |
+METZ-THIONVILLE ETS. HOSP |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059015 |
 
@@ -922,7 +1200,9 @@ PRS |
 
 NORD |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059018 |
 
@@ -930,7 +1210,9 @@ SIP |
 
 GRAND LILLE EST |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059028 |
 
@@ -938,7 +1220,9 @@ Trésorerie mixte |
 
 MARCQ-EN-BAROEUL |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059045 |
 
@@ -946,7 +1230,9 @@ SIP |
 
 TOURCOING |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059057 |
 
@@ -954,7 +1240,9 @@ SIP |
 
 LILLE OUEST |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059060 |
 
@@ -962,7 +1250,9 @@ SIE |
 
 GRAND LILLE EST |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059062 |
 
@@ -970,7 +1260,9 @@ SIE |
 
 ROUBAIX NORD |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059065 |
 
@@ -978,7 +1270,9 @@ SIE |
 
 TOURCOING |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059077 |
 
@@ -986,7 +1280,9 @@ SPF |
 
 LILLE 2 |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059305 |
 
@@ -994,7 +1290,9 @@ Trésorerie spécialisée |
 
 DOUAI MUNICIPALE |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059407 |
 
@@ -1002,23 +1300,19 @@ SIP |
 
 DUNKERQUE |
 
-59 |
+01/01/2019 |
+
+Nord |
 
 059408 |
 
 Trésorerie spécialisée |
 
-DUNKERQUE MUNICIPALE ET COM.URB |
+DUNKERQUE MUNICIPALE ET COM. URB |
 
-59 |
+01/01/2019 |
 
-059512 |
-
-Trésorerie mixte |
-
-SAINT-AMAND-LES-EAUX |
-
-60 |
+Oise |
 
 060007 |
 
@@ -1026,7 +1320,9 @@ Trésorerie spécialisée |
 
 BEAUVAIS MUNICIPALE |
 
-60 |
+01/01/2019 |
+
+Oise |
 
 060014 |
 
@@ -1034,7 +1330,9 @@ SPF |
 
 SENLIS |
 
-60 |
+02/04/2019 |
+
+Oise |
 
 060047 |
 
@@ -1042,7 +1340,9 @@ Trésorerie spécialisée |
 
 COMPIEGNE MUNICIPALE |
 
-61 |
+01/01/2019 |
+
+Orne |
 
 061002 |
 
@@ -1050,7 +1350,9 @@ Trésorerie spécialisée |
 
 ALENCON VILLE ET CAMPAGNE |
 
-62 |
+01/01/2019 |
+
+Pas-de-Calais |
 
 062003 |
 
@@ -1058,7 +1360,9 @@ SIP |
 
 ARRAS OUEST |
 
-62 |
+01/01/2019 |
+
+Pas-de-Calais |
 
 062061 |
 
@@ -1066,7 +1370,9 @@ Trésorerie spécialisée |
 
 BETHUNE MUNICIPALE ET BANLIEUE |
 
-62 |
+01/01/2019 |
+
+Pas-de-Calais |
 
 062090 |
 
@@ -1074,15 +1380,9 @@ Trésorerie spécialisée |
 
 PAS-DE-CALAIS |
 
-63 |
+01/01/2019 |
 
-063008 |
-
-SIP |
-
-CLERMONT-FERRAND SUD-OUEST |
-
-63 |
+Puy-de-Dôme |
 
 063012 |
 
@@ -1090,7 +1390,19 @@ Trésorerie spécialisée |
 
 CLERMONT-FERRAND CHU |
 
-63 |
+01/01/2019 |
+
+Puy-de-Dôme |
+
+063015 |
+
+SIP |
+
+CLERMONT-FERRAND SUD |
+
+01/01/2019 |
+
+Puy-de-Dôme |
 
 063067 |
 
@@ -1098,7 +1410,9 @@ SIE |
 
 CLERMONT-FERRAND NORD |
 
-63 |
+01/01/2019 |
+
+Puy-de-Dôme |
 
 063090 |
 
@@ -1106,7 +1420,9 @@ Trésorerie spécialisée |
 
 PUY-DE-DOME |
 
-64 |
+01/01/2019 |
+
+Pyrénées-Atlantiques |
 
 064026 |
 
@@ -1114,7 +1430,9 @@ Trésorerie spécialisée |
 
 PAU MUNICIPALE |
 
-64 |
+01/01/2019 |
+
+Pyrénées-Atlantiques |
 
 064036 |
 
@@ -1122,15 +1440,29 @@ Trésorerie spécialisée |
 
 BAYONNE MUNICIPALE |
 
-64 |
+01/01/2019 |
+
+Pyrénées-Atlantiques |
+
+064056 |
+
+SIE |
+
+PAU |
+
+01/01/2019 |
+
+Pyrénées-Atlantiques |
 
 064060 |
 
 SIP |
 
-PAU NORD |
+PAU |
 
-64 |
+01/01/2019 |
+
+Pyrénées-Atlantiques |
 
 064064 |
 
@@ -1138,7 +1470,19 @@ SPF |
 
 BAYONNE 1 |
 
-66 |
+11/06/2019 |
+
+Pyrénées-Orientales |
+
+066001 |
+
+Trésorerie mixte |
+
+ARGELES-SUR-MER |
+
+01/01/2019 |
+
+Pyrénées-Orientales |
 
 066014 |
 
@@ -1146,7 +1490,9 @@ Trésorerie spécialisée |
 
 PERPIGNAN MUNICIPALE |
 
-66 |
+01/01/2019 |
+
+Pyrénées-Orientales |
 
 066029 |
 
@@ -1154,7 +1500,9 @@ Trésorerie spécialisée |
 
 PERPIGNAN HLM |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067047 |
 
@@ -1162,7 +1510,9 @@ SIP-SIE |
 
 SELESTAT |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067073 |
 
@@ -1170,7 +1520,9 @@ SIE |
 
 STRASBOURG OUEST |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067076 |
 
@@ -1178,7 +1530,9 @@ SIE |
 
 SCHILTIGHEIM |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067080 |
 
@@ -1186,7 +1540,9 @@ Trésorerie spécialisée |
 
 GRAND EST |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067090 |
 
@@ -1194,7 +1550,9 @@ Trésorerie spécialisée |
 
 BAS-RHIN |
 
-67 |
+01/01/2019 |
+
+Bas-Rhin |
 
 067117 |
 
@@ -1202,15 +1560,19 @@ SIP-SIE |
 
 SAVERNE |
 
-68 |
+01/01/2019 |
 
-068112 |
+Haut-Rhin |
+
+068102 |
 
 SIP |
 
-MULHOUSE PLAINE |
+MULHOUSE |
 
-68 |
+01/01/2019 |
+
+Haut-Rhin |
 
 068124 |
 
@@ -1218,7 +1580,9 @@ Trésorerie spécialisée |
 
 SUD ALSACE GROUPE HOSPITALIER |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069003 |
 
@@ -1226,15 +1590,19 @@ PRS |
 
 RHÔNE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069023 |
 
 SIE |
 
-LYON 3EME ARRT |
+LYON 3E ARRT |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069034 |
 
@@ -1242,7 +1610,9 @@ SIP |
 
 VILLEURBANNE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069035 |
 
@@ -1250,15 +1620,19 @@ Trésorerie spécialisée |
 
 VILLEURBANNE MUNICIPALE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069056 |
 
 Trésorerie spécialisée |
 
-VILLEFRANCHE RIVOLI |
+VILLEFRANCHE COLLECTIVITES |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069062 |
 
@@ -1266,7 +1640,9 @@ SIE |
 
 CALUIRE |
 
-69 |
+01/01/2019 |
+
+Rhône |
 
 069065 |
 
@@ -1274,23 +1650,19 @@ SIE |
 
 LYON VAISE-TETE D'OR |
 
-69 |
+01/01/2019 |
 
-069067 |
+Rhône |
 
-SIE |
+069078 |
 
-LYON EST |
+SPF |
 
-71 |
+LYON 3 |
 
-071017 |
+04/11/2019 |
 
-Trésorerie spécialisée |
-
-MACON MUNICIPALE |
-
-71 |
+Saône-et-Loire |
 
 071026 |
 
@@ -1298,15 +1670,19 @@ SIE |
 
 CHALON-SUR-SAONE |
 
-71 |
+01/01/2019 |
 
-071050 |
+Saône-et-Loire |
+
+071076 |
 
 Trésorerie spécialisée |
 
-CHALON-SUR-SAONE MUNICIPALE |
+MACON HOPITAL |
 
-72 |
+01/09/2019 |
+
+Sarthe |
 
 072029 |
 
@@ -1314,7 +1690,19 @@ SIP |
 
 LE MANS NORD-EST |
 
-73 |
+01/01/2019 |
+
+Sarthe |
+
+072034 |
+
+Trésorerie spécialisée |
+
+HOSPITALIERE DU MANS |
+
+01/09/2019 |
+
+Savoie |
 
 073010 |
 
@@ -1322,7 +1710,9 @@ Trésorerie spécialisée |
 
 CHAMBERY MUNICIPALE |
 
-73 |
+01/01/2019 |
+
+Savoie |
 
 073037 |
 
@@ -1330,7 +1720,9 @@ Trésorerie spécialisée |
 
 CHAMBERY ETS HOSPITALIERS |
 
-73 |
+01/01/2019 |
+
+Savoie |
 
 073045 |
 
@@ -1338,7 +1730,9 @@ SIE |
 
 CHAMBERY |
 
-73 |
+01/01/2019 |
+
+Savoie |
 
 073046 |
 
@@ -1346,7 +1740,9 @@ SIE |
 
 MOUTIERS |
 
-73 |
+01/01/2019 |
+
+Savoie |
 
 073050 |
 
@@ -1354,7 +1750,9 @@ SPF |
 
 CHAMBERY 1 |
 
-73 |
+01/01/2019 |
+
+Savoie |
 
 073051 |
 
@@ -1362,7 +1760,9 @@ SPF |
 
 CHAMBERY 2 |
 
-74 |
+01/01/2019 |
+
+Haute-Savoie |
 
 074004 |
 
@@ -1370,7 +1770,19 @@ Trésorerie spécialisée |
 
 ANNECY MUNICIPALE |
 
-74 |
+01/09/2019 |
+
+Haute-Savoie |
+
+074025 |
+
+Trésorerie mixte |
+
+SAINT-JULIEN-EN-GENEVOIS |
+
+01/01/2019 |
+
+Haute-Savoie |
 
 074036 |
 
@@ -1378,7 +1790,9 @@ SIE |
 
 ANNECY |
 
-74 |
+01/01/2019 |
+
+Haute-Savoie |
 
 074039 |
 
@@ -1386,7 +1800,9 @@ SIE |
 
 BONNEVILLE |
 
-74 |
+01/01/2019 |
+
+Haute-Savoie |
 
 074090 |
 
@@ -1394,7 +1810,9 @@ Trésorerie spécialisée |
 
 HAUTE-SAVOIE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075008 |
 
@@ -1402,7 +1820,9 @@ SIP |
 
 PARIS 6E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075014 |
 
@@ -1410,7 +1830,9 @@ SIP |
 
 PARIS 9E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075019 |
 
@@ -1418,7 +1840,9 @@ SIP |
 
 PARIS 11E LEDRU-ROLLIN |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075024 |
 
@@ -1426,15 +1850,19 @@ SIP |
 
 PARIS 13E MAISON BLANCHE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075029 |
 
 SIP |
 
-PARIS 15E GRENELLE JAVEL |
+PARIS 15E GRENELLE-JAVEL |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075032 |
 
@@ -1442,7 +1870,9 @@ SIP |
 
 PARIS 16E PORTE DAUPHINE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075037 |
 
@@ -1450,7 +1880,9 @@ SIP |
 
 PARIS 17E REIMS |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075042 |
 
@@ -1458,23 +1890,19 @@ SIP |
 
 PARIS 19E BUTTES CHAUMONT |
 
-75 |
+01/01/2019 |
 
-075052 |
-
-SIE |
-
-PARIS 2E BONNE NOUVELLE |
-
-75 |
+Paris |
 
 075053 |
 
 SIE |
 
-PARIS 2E VIVIENNE |
+PARIS 2E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075056 |
 
@@ -1482,7 +1910,9 @@ SIE |
 
 PARIS 9E EST |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075058 |
 
@@ -1490,7 +1920,9 @@ SIE |
 
 PARIS 10E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075064 |
 
@@ -1498,7 +1930,9 @@ Trésorerie spécialisée |
 
 PARIS CENTRES HOSPITALIERS SPEC. |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075086 |
 
@@ -1506,7 +1940,9 @@ SIE |
 
 PARIS 20E CHARONNE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075089 |
 
@@ -1514,7 +1950,9 @@ SIE |
 
 PARIS 8E EUROPE-HAUSSMANN |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075094 |
 
@@ -1522,7 +1960,9 @@ SIE |
 
 PARIS 8E ROULE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075704 |
 
@@ -1530,7 +1970,9 @@ SIE |
 
 PARIS 17E MONCEAU EPINETTES |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075706 |
 
@@ -1538,15 +1980,19 @@ SIE |
 
 PARIS 18E GDES CARRIERES |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075708 |
 
 SIE |
 
-PARIS 15E SAINT-LAMBERT |
+PARIS 15E EST |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075709 |
 
@@ -1554,7 +2000,9 @@ SIE |
 
 PARIS 15E GRENELLE-JAVEL |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075714 |
 
@@ -1562,7 +2010,9 @@ SIE |
 
 PARIS 16E PORTE DAUPHINE |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075716 |
 
@@ -1570,7 +2020,9 @@ SIE |
 
 PARIS 6E |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075802 |
 
@@ -1578,15 +2030,9 @@ SPF |
 
 PARIS 2 |
 
-75 |
+01/01/2019 |
 
-075803 |
-
-SPF |
-
-PARIS 3 |
-
-75 |
+Paris |
 
 075804 |
 
@@ -1594,7 +2040,9 @@ SPF |
 
 PARIS 4 |
 
-75 |
+01/01/2019 |
+
+Paris |
 
 075808 |
 
@@ -1602,7 +2050,9 @@ SPF |
 
 PARIS 8 |
 
-76 |
+01/01/2019 |
+
+Seine-Maritime |
 
 076038 |
 
@@ -1610,7 +2060,9 @@ Trésorerie spécialisée |
 
 ROUEN CHU |
 
-76 |
+01/01/2019 |
+
+Seine-Maritime |
 
 076044 |
 
@@ -1618,15 +2070,19 @@ Trésorerie mixte |
 
 SOTTEVILLE-LES-ROUEN |
 
-76 |
+01/01/2019 |
+
+Seine-Maritime |
 
 076209 |
 
 SIP |
 
-LE HAVRE OCEANE |
+LE HAVRE |
 
-76 |
+01/01/2019 |
+
+Seine-Maritime |
 
 076216 |
 
@@ -1634,7 +2090,9 @@ Trésorerie mixte |
 
 LILLEBONNE |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077015 |
 
@@ -1642,7 +2100,9 @@ Trésorerie spécialisée |
 
 MELUN VAL DE SEINE SEC PU LOCAL |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077046 |
 
@@ -1650,7 +2110,9 @@ SIE |
 
 LAGNY-SUR-MARNE |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077047 |
 
@@ -1658,15 +2120,19 @@ SIE |
 
 MEAUX |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077211 |
 
 Trésorerie spécialisée |
 
-LAGNY-SUR-MARNE SECTEUR LOCAL |
+LAGNY CH FRANCILIEN |
 
-77 |
+01/01/2019 |
+
+Seine-et-Marne |
 
 077219 |
 
@@ -1674,7 +2140,9 @@ SIP |
 
 MEAUX |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078037 |
 
@@ -1682,7 +2150,9 @@ Trésorerie spécialisée |
 
 VERSAILLES MUNICIPALE |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078046 |
 
@@ -1690,7 +2160,9 @@ SIP |
 
 SAINT-QUENTIN-EN-YVELINES EST |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078048 |
 
@@ -1698,7 +2170,9 @@ PRS |
 
 YVELINES |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078051 |
 
@@ -1706,7 +2180,9 @@ SIE |
 
 POISSY |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078056 |
 
@@ -1714,7 +2190,9 @@ SIE |
 
 SAINT-GERMAIN-EN-LAYE NORD |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078060 |
 
@@ -1722,7 +2200,9 @@ SIE |
 
 VERSAILLES SUD |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078062 |
 
@@ -1730,7 +2210,9 @@ SIE |
 
 ST-QUENTIN EST |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078109 |
 
@@ -1738,7 +2220,9 @@ Trésorerie spécialisée |
 
 MANTES COLLECTIVITES LOCALES |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078114 |
 
@@ -1746,23 +2230,29 @@ SIP |
 
 POISSY |
 
-78 |
+01/01/2019 |
+
+Yvelines |
 
 078115 |
 
 Trésorerie spécialisée |
 
-SARTROUVILLE COLLECTIV. LOCALES |
+HOUILLES COLLECTIVITES LOCALES |
 
-79 |
+01/01/2019 |
+
+Deux-Sèvres |
 
 079030 |
 
 Trésorerie spécialisée |
 
-NIORT-SEVRE MUNICIPALE - AMENDES |
+NIORT-SEVRE MUNICIPALE-AMENDES |
 
-80 |
+01/01/2019 |
+
+Somme |
 
 080008 |
 
@@ -1770,7 +2260,9 @@ Trésorerie spécialisée |
 
 AMIENS ETS HOSP. |
 
-81 |
+01/09/2019 |
+
+Tarn |
 
 081021 |
 
@@ -1778,7 +2270,9 @@ Trésorerie spécialisée |
 
 CASTRES VILLE |
 
-82 |
+01/01/2019 |
+
+Tarn-et-Garonne |
 
 082017 |
 
@@ -1786,7 +2280,9 @@ Trésorerie spécialisée |
 
 MONTAUBAN MUNICIPALE |
 
-83 |
+01/01/2019 |
+
+Var |
 
 083022 |
 
@@ -1794,7 +2290,9 @@ Trésorerie mixte |
 
 LA VALETTE-DU-VAR |
 
-83 |
+01/01/2019 |
+
+Var |
 
 083032 |
 
@@ -1802,7 +2300,9 @@ SIE |
 
 DRAGUIGNAN |
 
-83 |
+01/01/2019 |
+
+Var |
 
 083090 |
 
@@ -1810,7 +2310,9 @@ Trésorerie spécialisée |
 
 VAR |
 
-83 |
+01/01/2019 |
+
+Var |
 
 083110 |
 
@@ -1818,15 +2320,9 @@ Trésorerie spécialisée |
 
 ESTEREL |
 
-83 |
+01/01/2019 |
 
-083111 |
-
-Trésorerie mixte |
-
-GRIMAUD |
-
-84 |
+Vaucluse |
 
 084035 |
 
@@ -1834,7 +2330,9 @@ SIE |
 
 AVIGNON |
 
-84 |
+01/01/2019 |
+
+Vaucluse |
 
 084037 |
 
@@ -1842,7 +2340,9 @@ SIE |
 
 CARPENTRAS |
 
-85 |
+01/01/2019 |
+
+Vendée |
 
 085009 |
 
@@ -1850,15 +2350,9 @@ Trésorerie mixte |
 
 MONTAIGU |
 
-85 |
+01/01/2019 |
 
-085036 |
-
-Trésorerie spécialisée |
-
-CÔTE DE LUMIERE |
-
-85 |
+Vendée |
 
 085037 |
 
@@ -1866,7 +2360,9 @@ Trésorerie mixte |
 
 SAINT-GILLES-CROIX-DE-VIE |
 
-85 |
+01/01/2019 |
+
+Vendée |
 
 085045 |
 
@@ -1874,15 +2370,19 @@ SIE |
 
 LA ROCHE-SUR-YON |
 
-86 |
+01/01/2019 |
+
+Vienne |
 
 086016 |
 
 Trésorerie spécialisée |
 
-POITIERS MUNICIPALE |
+POITIERS |
 
-87 |
+01/01/2019 |
+
+Haute-Vienne |
 
 087014 |
 
@@ -1890,7 +2390,9 @@ Trésorerie spécialisée |
 
 LIMOGES MUNICIPALE |
 
-87 |
+01/01/2019 |
+
+Haute-Vienne |
 
 087015 |
 
@@ -1898,7 +2400,9 @@ Trésorerie spécialisée |
 
 LIMOGES CHU INTERHOSPITALIER |
 
-89 |
+01/01/2019 |
+
+Yonne |
 
 089004 |
 
@@ -1906,7 +2410,19 @@ Trésorerie spécialisée |
 
 AUXERRE ETS HOSP. |
 
-91 |
+01/01/2019 |
+
+Yonne |
+
+089009 |
+
+Trésorerie mixte |
+
+CHABLIS |
+
+01/01/2019 |
+
+Essonne |
 
 091005 |
 
@@ -1914,7 +2430,9 @@ Trésorerie spécialisée |
 
 BRUNOY |
 
-91 |
+01/01/2019 |
+
+Essonne |
 
 091040 |
 
@@ -1922,7 +2440,9 @@ SIE |
 
 CORBEIL |
 
-91 |
+01/01/2019 |
+
+Essonne |
 
 091045 |
 
@@ -1930,7 +2450,9 @@ SIE |
 
 MASSY |
 
-91 |
+01/01/2019 |
+
+Essonne |
 
 091090 |
 
@@ -1938,7 +2460,9 @@ Trésorerie spécialisée |
 
 ESSONNE |
 
-91 |
+01/01/2019 |
+
+Essonne |
 
 091118 |
 
@@ -1946,7 +2470,9 @@ SIP |
 
 JUVISY |
 
-91 |
+01/01/2019 |
+
+Essonne |
 
 091121 |
 
@@ -1954,7 +2480,9 @@ SIP |
 
 PALAISEAU |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092018 |
 
@@ -1962,7 +2490,9 @@ Trésorerie spécialisée |
 
 GENNEVILLIERS |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092027 |
 
@@ -1970,7 +2500,9 @@ SIP |
 
 NEUILLY |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092030 |
 
@@ -1978,7 +2510,9 @@ Trésorerie spécialisée |
 
 PUTEAUX MUNICIPALE |
 
-92 |
+01/09/2019 |
+
+Hauts-de-Seine |
 
 092042 |
 
@@ -1986,7 +2520,9 @@ Trésorerie spécialisée |
 
 HAUTS-DE-SEINE AMENDES |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092055 |
 
@@ -1994,15 +2530,9 @@ SIE |
 
 LEVALLOIS-PERRET |
 
-92 |
+01/01/2019 |
 
-092056 |
-
-SIE |
-
-NANTERRE LA DEFENSE |
-
-92 |
+Hauts-de-Seine |
 
 092057 |
 
@@ -2010,7 +2540,9 @@ SIE |
 
 NANTERRE-RUEIL |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092069 |
 
@@ -2018,7 +2550,9 @@ SPF |
 
 NANTERRE 1 |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092072 |
 
@@ -2026,7 +2560,9 @@ SPF |
 
 VANVES 1 |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092101 |
 
@@ -2034,23 +2570,19 @@ Trésorerie spécialisée |
 
 ANTONY |
 
-92 |
+01/09/2019 |
 
-092105 |
-
-Trésorerie mixte |
-
-CLAMART |
-
-92 |
+Hauts-de-Seine |
 
 092111 |
 
 SIP |
 
-SCEAUX NORD |
+SCEAUX |
 
-92 |
+01/01/2019 |
+
+Hauts-de-Seine |
 
 092112 |
 
@@ -2058,7 +2590,9 @@ SIP |
 
 SEVRES |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093016 |
 
@@ -2066,7 +2600,9 @@ Trésorerie spécialisée |
 
 MONTREUIL MUNICIPALE |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093018 |
 
@@ -2074,7 +2610,9 @@ SIP |
 
 NOISY-LE-SEC |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093032 |
 
@@ -2082,7 +2620,9 @@ Trésorerie spécialisée |
 
 BOBIGNY MUNICIPALE |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093034 |
 
@@ -2090,7 +2630,9 @@ Trésorerie mixte |
 
 NOISY-LE-GRAND |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093041 |
 
@@ -2098,7 +2640,9 @@ PRS |
 
 SEINE-SAINT-DENIS |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093043 |
 
@@ -2106,7 +2650,9 @@ SIE |
 
 AUBERVILLIERS |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093048 |
 
@@ -2114,7 +2660,9 @@ SIE |
 
 MONTREUIL |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093053 |
 
@@ -2122,7 +2670,9 @@ SIE |
 
 NOISY-LE-SEC |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093056 |
 
@@ -2130,7 +2680,9 @@ SIE |
 
 SAINT-DENIS |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093101 |
 
@@ -2138,7 +2690,9 @@ SIP |
 
 AUBERVILLIERS |
 
-93 |
+01/01/2019 |
+
+Seine-Saint-Denis |
 
 093107 |
 
@@ -2146,7 +2700,9 @@ Trésorerie spécialisée |
 
 SAINT-DENIS MUNICIPALE |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094007 |
 
@@ -2154,7 +2710,9 @@ SIP |
 
 CRETEIL |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094027 |
 
@@ -2162,7 +2720,9 @@ Trésorerie spécialisée |
 
 VITRY-SUR-SEINE MUNICIPALE |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094035 |
 
@@ -2170,7 +2730,9 @@ Trésorerie spécialisée |
 
 VAL-DE-MARNE AMENDES-TAXES D'URB |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094036 |
 
@@ -2178,7 +2740,9 @@ Trésorerie spécialisée |
 
 CRETEIL MUNICIPALE |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094042 |
 
@@ -2186,7 +2750,9 @@ SIE |
 
 CRETEIL |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094050 |
 
@@ -2194,7 +2760,9 @@ SIE |
 
 VINCENNES |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094104 |
 
@@ -2202,7 +2770,9 @@ Trésorerie spécialisée |
 
 NORD VAL-DE-MARNE |
 
-94 |
+01/01/2019 |
+
+Val-de-Marne |
 
 094109 |
 
@@ -2210,7 +2780,9 @@ Trésorerie spécialisée |
 
 SAINT-MAUR-DES-FOSSES MUNICIPALE |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095033 |
 
@@ -2218,7 +2790,9 @@ Trésorerie spécialisée |
 
 CERGY COLLECTIVITES |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095038 |
 
@@ -2226,7 +2800,9 @@ SIP |
 
 CERGY-PONTOISE EST |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095045 |
 
@@ -2234,7 +2810,9 @@ SIE |
 
 CERGY-PONTOISE EST |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095047 |
 
@@ -2242,7 +2820,9 @@ SIE |
 
 GARGES-LES-GONESSE EXTERIEUR |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095055 |
 
@@ -2250,7 +2830,9 @@ SIE |
 
 ARGENTEUIL |
 
-95 |
+01/01/2019 |
+
+Val-d'Oise |
 
 095090 |
 
@@ -2258,7 +2840,9 @@ Trésorerie spécialisée |
 
 VAL-D'OISE |
 
-971 |
+01/01/2019 |
+
+Guadeloupe |
 
 101018 |
 
@@ -2266,7 +2850,9 @@ Trésorerie spécialisée |
 
 POINTE-A-PITRE HOSPITALIERE |
 
-972 |
+01/01/2019 |
+
+Martinique |
 
 103004 |
 
@@ -2274,15 +2860,19 @@ Trésorerie spécialisée |
 
 FORT-DE-FRANCE CTRE HOSP. |
 
-972 |
+01/01/2019 |
+
+Martinique |
 
 103017 |
 
 SIE |
 
-FORT-DE-FRANCE - SCHOELCHER |
+FORT-DE-FRANCE-SCHOELCHER |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104009 |
 
@@ -2290,7 +2880,9 @@ Trésorerie spécialisée |
 
 SAINT-PIERRE |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104011 |
 
@@ -2298,7 +2890,9 @@ Trésorerie mixte |
 
 LE TAMPON |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104013 |
 
@@ -2306,7 +2900,9 @@ Trésorerie spécialisée |
 
 SAINT-DENIS MALE ET AMENDES |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104014 |
 
@@ -2314,7 +2910,9 @@ Trésorerie spécialisée |
 
 CHR DE LA REUNION |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104017 |
 
@@ -2322,7 +2920,9 @@ SIP |
 
 SAINT-PIERRE-DE-LA-REUNION |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104024 |
 
@@ -2330,7 +2930,9 @@ SIE |
 
 ST-PIERRE-DE-LA-REUNION |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104025 |
 
@@ -2338,7 +2940,9 @@ SPF |
 
 SAINT-DENIS-DE-LA-REUNION |
 
-974 |
+01/01/2019 |
+
+La Réunion |
 
 104090 |
 
@@ -2346,7 +2950,9 @@ Trésorerie spécialisée |
 
 REUNION |
 
-987 |
+01/01/2019 |
+
+Polynésie française |
 
 161006 |
 
@@ -2354,18 +2960,4 @@ Trésorerie spécialisée |
 
 PAIERIE DE POLYNESIE FRANCAISE |
 
-TAF |
-
-119000 |
-
-Trésorerie étranger |
-
-TUNISIE |
-
-TAF |
-
-121000 |
-
-Trésorerie étranger |
-
-SENEGAL |
+01/01/2019 |
