@@ -8,10 +8,10 @@ L'échelonnement indiciaire applicable aux emplois fonctionnels répertoriés da
 
 5e échelon : groupe hors échelle A ;
 
-4e échelon : indice brut 1021 ;
+4e échelon : indice brut 1027 ;
 
-3e échelon : indice brut 971 ;
+3e échelon : indice brut 977 ;
 
-2e échelon : indice brut 906 ;
+2e échelon : indice brut 912 ;
 
-1er échelon : indice brut 857.
+1er échelon : indice brut 862.
