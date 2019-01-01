@@ -1,6 +1,6 @@
 # Article unique
 
-Le présent accord a la nature juridique d'un texte complémentaire en ce sens qu'il ne modifie en rien les dispositions de l'accord de branche et de ses annexes. Il a pour objet de préciser, jusqu'à la fin de l'année 2018, les conditions de mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP relatif aux RCP.
+Le présent accord a la nature juridique d'un texte complémentaire en ce sens qu'il ne modifie en rien les dispositions de l'accord de branche et de ses annexes. Il a pour objet de préciser, jusqu'à la fin de l'année 2019, les conditions de mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP relatif aux RCP.
 
 Constatant l'échec des discussions initiées en vue de la mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP, les partenaires sociaux décident, pour la durée de l'accord, que l'intermédiaire de la société de perception et de répartition de droits d'artistes-interprètes est suspendu. En conséquence, les RCP sont versées aux artistes musiciens par la société de perception et de répartition de droits de producteurs de phonogrammes compétente.
 
