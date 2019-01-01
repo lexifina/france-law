@@ -1,0 +1,41 @@
+# Article 1er
+
+L'article 3.2.1 « Incapacité. − Indemnisation de la maternité » de l'accord de prévoyance susvisé est remplacé par le suivant :
+
+« Article 3.2.1
+
+Maintien de salaire. − Incapacité. – Indemnisation de la maternité et de la paternité
+
+Garantie maintien de salaire
+
+L'indemnisation au titre du maintien de salaire intervient dès le 1er jour en cas d'arrêt de travail pour accident du travail, maladie professionnelle.
+
+L'indemnisation au titre du maintien de salaire intervient à partir du 4e jour (franchise) en cas de maladie ou d'accident de la vie privée.
+
+Chaque jour de franchise, sauf en cas de rechute justifiée par un certificat médical, donne lieu à une réduction calculée sur la base de 1/30 du salaire net mensuel.
+
+Jusqu'au 150e jour d'arrêt de travail continu, la garantie maintien de salaire assure à l'employeur une indemnisation couvrant ses obligations conventionnelles de maintien de salaire, à savoir l'indemnisation de tout salarié sans condition d'ancienneté à hauteur du salaire net qu'il aurait perçu s'il avait continué à exercer son activité normale, compte tenu notamment des prestations brutes versées par la sécurité sociale et de la franchise ci-dessus prévue. Le versement de l'indemnité est assuré par l'employeur, selon la même périodicité que le salaire.
+
+L'employeur perçoit, pour remplir cette obligation et maintenir le salaire, une indemnité égale à :
+
+– 89 % du traitement de référence brut sur tranche A ;
+
+– 100 % du traitement de référence brut sur tranche B,
+
+sous déduction des prestations brutes versées par la sécurité sociale.
+
+Le traitement de référence est défini à l'article 3.
+
+En sus de cette indemnisation, l'employeur perçoit une indemnité forfaitaire versée au titre du remboursement des charges sociales patronales dues sur les prestations complémentaires mentionnées ci-dessus. Cette indemnité est égale à 47 % des prestations versées au titre des tranches A et B.
+
+Cette indemnisation spécifique pour la couverture des charges sociales est maintenue tant que le bénéficiaire des indemnités journalières fait encore partie de l'effectif de l'entreprise couverte, et au plus tard jusqu'au 150e jour d'arrêt de travail continu.
+
+Il est rappelé que les prestations versées jusqu'au 150e jour d'arrêt de travail sont soumises à cotisations sociales, hors l'indemnité forfaitaire de remboursement des charges sociales.
+
+Garantie incapacité temporaire, maternité, paternité
+
+L'indemnisation au titre de l'incapacité temporaire intervient en relais des obligations conventionnelles de maintien de salaire (soit à compter du 151e jour d'arrêt de travail continu ou, le cas échéant, en relais de la cessation du contrat de travail survenant avant ce délai) et au plus tard jusqu'au 1 095e jour d'arrêt de travail.
+
+L'indemnisation au titre de la maternité ou de la paternité intervient dès le 1er jour d'arrêt de travail. Elle s'entend pour la durée légale desdits congés.
+
+Le salarié concerné bénéficiera de 83 % de son salaire brut, déduction faite des indemnités brutes versées par la sécurité sociale, sans que la somme ainsi versée ne puisse dépasser le salaire net qu'il aurait perçu s'il avait continué à exercer son activité. »
