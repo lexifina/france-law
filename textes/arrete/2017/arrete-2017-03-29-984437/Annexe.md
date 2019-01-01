@@ -120,7 +120,7 @@ Conseiller prospective et stratégie.
 
 Conseiller, chef du pôle judiciaire.
 
-Conseiller prospective et stratégie.
+Conseiller stratégie, coopérations et prévention.
 
 2. Direction des ressources et des compétences de la police nationale :
 
@@ -250,6 +250,8 @@ Adjoint au chef du service central de la police technique et scientifique.
 
 Préfecture de police-Direction de l'ordre public et de la circulation :
 
+Sous-directeur de la protection des institutions, des gardes et des transferts de l'agglomération parisienne.
+
 Sous-directeur régional de la circulation et de la sécurité routières.
 
 Sous-directeur de l'ordre public de l'agglomération parisienne.
@@ -267,8 +269,6 @@ Sous-directeur du soutien opérationnel.
 Sous-directeur des services spécialisés de l'agglomération.
 
 Sous-directeur régional de police des transports.
-
-Sous-directeur de la police d'investigation territoriale
 
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
