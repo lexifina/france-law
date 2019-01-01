@@ -16,4 +16,4 @@ f. Description de l'activité ;
 
 g. Numéro d'identification fiscal national ;
 
-h. Déclaration attestant, le cas échéant, que l'entreprise n'est pas identifiée dans un Etat membre de la Communauté européenne aux fins de la taxe sur la valeur ajoutée.
+h. Déclaration attestant, le cas échéant, que l'entreprise n'a pas établi le siège de son activité économique sur le territoire de l'Union européenne et qu'elle n'y dispose pas d'un établissement stable.
