@@ -1,25 +1,25 @@
 # Article 1er
 
-– Sur les classifications :
+Sur les classifications :
 
-–– architecture du dispositif et champ d'application ;
+– architecture du dispositif et champ d'application ;
 
-–– principes valables pour l'ensemble des salariés de la branche ;
+– principes valables pour l'ensemble des salariés de la branche ;
 
-–– méthode de classement des emplois ;
+– méthode de classement des emplois ;
 
-–– mode opératoire d'application dont pesée des emplois ;
+– mode opératoire d'application dont pesée des emplois ;
 
-–– suivi de la mise en œuvre, moyens de recours ;
+– suivi de la mise en œuvre, moyens de recours ;
 
-–– dispositifs d'évolution professionnelle y compris en lien avec la GPEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
+– dispositifs d'évolution professionnelle y compris en lien avec la GPEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
 
-– Sur les rémunérations :
+Sur les rémunérations :
 
-–– définition des minima, structuration des rémunérations, principe d'évolution et garanties associées dont égalité salariale ;
+– définition des minima, structuration des rémunérations, principe d'évolution et garanties associées dont égalité salariale ;
 
-–– la part de l'évolution des rémunérations résultant d'automaticités ;
+– la part de l'évolution des rémunérations résultant d'automaticités ;
 
-–– la part de l'évolution des rémunérations résultant de la politique salariale décidée dans l'entreprise dont la part variable et l'intéressement.
+– la part de l'évolution des rémunérations résultant de la politique salariale décidée dans l'entreprise dont la part variable et l'intéressement.
 
 Dispositifs d'information et de formation sur le résultat de la négociation.

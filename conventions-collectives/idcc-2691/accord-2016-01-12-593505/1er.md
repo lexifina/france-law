@@ -2,7 +2,9 @@
 
 L'intégration de nouvelles entreprises dans la convention collective de l'enseignement privé indépendant (ex-hors contrat), IDCC 2691, par dénonciation de l'application de la convention collective FESIC amène certains écarts dans la définition des cadres et dans l'application des cotisations AGIRC.
 
-L'intégration de nouvelles entreprises dans la convention collective de l'enseignement privé indépendant – IDCC 2691 – par changement de statut (les EESC) ou par intégration dans le nouveau champ de la convention collective (les CFA ou UFA) peut amener certains écarts dans la définition des cadres et dans l'application des cotisations AGIRC.
+L'intégration de nouvelles entreprises dans la convention collective de l'enseignement privé indépendant (IDCC 2691) par changement de statut (les EESC) ou par intégration dans le nouveau champ de la convention collective (les CFA ou UFA) peut amener certains écarts dans la définition des cadres et dans l'application des cotisations AGIRC.
+
+L'intégration de nouvelles entreprises dans la convention collective de l'enseignement privé indépendant (IDCC 2691) par dénonciation de l'application de la convention collective EPNL amène certains écarts dans la définition des cadres.
 
 Ainsi lorsque :
 
