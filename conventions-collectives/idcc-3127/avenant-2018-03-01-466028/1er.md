@@ -1,0 +1,25 @@
+# Article 1er
+
+Le présent avenant a pour objet de supprimer l'article 2 de l'annexe II « Positionnement des emplois-repères-salaires » de la partie V « Classification » et d'ajouter une 3e section dans cette partie V et un article 7 rédigés ainsi :
+
+« Section 3
+
+Prime d'ancienneté
+
+Article 7
+
+Modalités d'application
+
+Le présent article prévoit, dans chaque entreprise, le versement par l'employeur d'une prime d'ancienneté à tous les salariés disposant de 2 années d'ancienneté au sein de l'entreprise quels que soient le poste occupé et le taux horaire.
+
+Le montant de cette prime est de 5 centimes par heure de travail effectif, ou heures assimilées comme telles.
+
+Cette prime est majorée de 5 centimes dès lors qu'un salarié dispose de 5 années d'ancienneté dans l'entreprise.
+
+Afin de pouvoir identifier le versement mensuel de cette prime, cette dernière devra faire l'objet d'une ligne spécifique sur le bulletin de salaire des salariés.
+
+Un accord d'entreprise ne peut déroger de façon moins favorable à cette prime d'ancienneté (1) ».
+
+(1) Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 septembre 2017, alinéa exclu de l'extension. En effet, dès lors que les stipulations conventionnelles de branche visent une prime d'ancienneté, et qu'elles disposent qu'on ne peut y déroger dans un sens moins favorable, ces stipulations ne peuvent avoir pour objet et légalement pour effet de faire obstacle à la conclusion d'accords d'entreprise sur le fondement des dispositions de l'article L. 2253-3 du code du travail et dans les domaines tels que définis par ces mêmes dispositions.
+
+(Arrêté du 29 mai 2019 - art. 1)
