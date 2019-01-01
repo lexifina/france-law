@@ -1,151 +1,41 @@
 # Article Annexe
 
-DÉSIGNATION
+Désignation de l'emploi |
 
-DE L'EMPLOI
+Niveau de responsabilité |
 
-|
+Nombre d'emplois |
 
-NIVEAU
+Nombre de points |
 
-de responsabilité
+Conseiller technique national |
 
-|
+A |
 
-NOMBRE
+1 |
 
-d'emplois
+30 |
 
-|
+Adjoint au conseiller technique national |
 
-DATE D'ENTRÉE
+A |
 
-en vigueur
+2 |
 
-|
+30 |
 
-NOMBRE
+Conseiller technique régional |
 
-de points
+A |
 
-|
+17 |
 
-Conseiller technique national
+30 |
 
-|
+Assistant de service social chargé de l'accompagnement social du personnel |
 
-A
+A ou B |
 
-|
+163 |
 
-1
-
-|
-
-1er août 1990
-
-|
-
-20
-
-|
-
-Conseiller technique régional
-
-|
-
-A ou B
-
-|
-
-3
-
-|
-
-1er août 1993
-
-|
-
-10
-
-|
-
-Conseiller technique régional
-
-|
-
-A ou B
-
-|
-
-3
-
-|
-
-1er août 1994
-
-|
-
-10
-
-|
-
-Conseiller technique régional
-
-|
-
-A ou B
-
-|
-
-3
-
-|
-
-1er août 1995
-
-|
-
-10
-
-|
-
-Conseiller technique régional
-
-|
-
-A ou B
-
-|
-
-2
-
-|
-
-1er août 1996
-
-|
-
-10
-
-|
-
-Conseiller technique régional
-
-|
-
-A ou B
-
-|
-
-7
-
-|
-
-1er mars 2000
-
-|
-
-10
-
-|
+23 |

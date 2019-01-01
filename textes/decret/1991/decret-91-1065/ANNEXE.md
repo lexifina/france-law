@@ -399,3 +399,25 @@ Emploi de responsable technique messagerie et réseaux.
 Emploi de chef de centre de production de la carte nationale d'identité.
 
 Emploi de chef de magasin central et atelier national des systèmes d'information et de communication et de l'informatique.
+
+Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire au titre de la huitième tranche ;
+
+Personnels du service social ;
+
+Fonctions de conseiller technique national ;
+
+Fonctions de conseiller technique pour le service social, adjoint au conseiller technique national ;
+
+Fonctions de conseiller technique régional ;
+
+Fonctions d'assistant de service social chargé de l'accompagnement social du personnel.
+
+Personnels exerçant une mission de sécurité routière dans les services déconcentrés du ministère de l'intérieur :
+
+Fonctions d'encadrement ;
+
+Fonctions impliquant une technicité particulière.
+
+NOTA :
+
+Conformément au premier alinéa de l’article 3 du décret n° 2022-593, ces dispositions entrent en vigueur le 1er janvier 2019.

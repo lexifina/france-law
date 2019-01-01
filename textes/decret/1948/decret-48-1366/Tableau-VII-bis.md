@@ -4,207 +4,75 @@ INDEMNITÉ ALLOUÉE POUR TENIR COMPTE DE L'EXÉCUTION DES TRAVAUX DE NATURE EXCE
 
 Indemnité de sujétions spéciales de police
 
-DÉSIGNATION DES BÉNÉFICIAIRES
+DÉSIGNATION DES BÉNÉFICIAIRES |
 
-|
+MONTANT DE L'INDEMNITÉ
 
-MONTANT DE L'INDEMNITÉ EN POURCENTAGE
+EN POURCENTAGE
 
-de la solde de base soumis à retenues pour pension
+de la solde de base soumis à retenues pour pension |
 
-|
+Au 1er janvier 2019 |
 
-Au 1er janvier 2017
+Au 1er janvier 2020 |
 
-|
+Directeur général de la gendarmerie nationale et major général de la gendarmerie |
 
-Au 1er janvier 2018
+17 |
 
-|
+17,5 |
 
-Au 1er janvier 2019
+Autres généraux de gendarmerie |
 
-|
+21 |
 
-Au 1er janvier 2020
+21,5 |
 
-|
+Colonels de gendarmerie |
 
-Directeur général de la gendarmerie nationale et major général de la gendarmerie
+21 |
 
-|
+21,5 |
 
-15,5
+Lieutenants-colonels de gendarmerie |
 
-|
+21 |
 
-16
+21,5 |
 
-|
+Chefs d'escadron de gendarmerie |
 
-16,5
+23 |
 
-|
+23,5 |
 
-17
+Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice supérieur à l'indice brut 585 |
 
-|
+27 |
 
-Autres généraux de gendarmerie
+27,5 |
 
-|
+Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice inférieur ou égal à l'indice brut 585 |
 
-19,5
+28 |
 
-|
+28,5 |
 
-20
+Elèves admis en formation initiale ou complémentaire à l'Ecole des officiers
 
-|
+de la gendarmerie nationale |
 
-20,5
+10 |
 
-|
+Militaires non officiers de gendarmerie autres que les élèves gendarmes |
 
-21
+28 |
 
-|
+28,5 |
 
-Colonels de gendarmerie
+Elèves gendarmes |
 
-|
-
-19,5
-
-|
-
-20
-
-|
-
-20,5
-
-|
-
-21
-
-|
-
-Lieutenants-colonels de gendarmerie
-
-|
-
-19,5
-
-|
-
-20
-
-|
-
-20,5
-
-|
-
-21
-
-|
-
-Chefs d'escadron de gendarmerie
-
-|
-
-21,5
-
-|
-
-22
-
-|
-
-22,5
-
-|
-
-23
-
-|
-
-Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice supérieur à l'indice brut 585
-
-|
-
-25,5
-
-|
-
-26
-
-|
-
-26,5
-
-|
-
-27
-
-|
-
-Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale ayant un indice inférieur ou égal à l'indice brut 585
-
-|
-
-26,5
-
-|
-
-27
-
-|
-
-27,5
-
-|
-
-28
-
-|
-
-Elèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale
-
-|
-
-10
-
-|
-
-Militaires non officiers de gendarmerie autres que les élèves gendarmes
-
-|
-
-26,5
-
-|
-
-27
-
-|
-
-27,5
-
-|
-
-28
-
-|
-
-Elèves gendarmes
-
-|
-
-12
-
-|
+12 |
 
 Observation :
 

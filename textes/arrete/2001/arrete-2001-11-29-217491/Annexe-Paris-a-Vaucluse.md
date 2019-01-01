@@ -822,27 +822,25 @@ B
 
 |
 
-Direction départementale des territoires de Vaucluse
+Direction départementale des territoires de Vaucluse (6)
 
-FONCTIONS EXERCÉES |
+Fonctions exercées |
 
-NIVEAU
-
-de qualification
+Niveau de qualification
 
 de l'emploi |
 
-NOMBRE
+Nombre
 
 d'emplois |
 
-NOMBRE
+Nombre
 
 de points (IM)
 
 par emploi |
 
-Chef de l'unité habitat observatoire, rénovation urbaine, délégation territoriale ANRU - service ville logement habitat |
+Chef de l'unité connaissance politique de la ville et du foncier (COVIF)-service ville logement habitat |
 
 A |
 
@@ -850,7 +848,7 @@ A |
 
 23 |
 
-Chef de l'unité logement social - service ville logement habitat |
+Chef de l'unité logement social-service ville logement habitat |
 
 A |
 
@@ -858,7 +856,7 @@ A |
 
 17 |
 
-Chargé d'études et d'opérations, référent rénovation urbaine - unité habitat observatoire, rénovation urbaine - service ville logement habitat |
+Adjoint au chef d'unité, renouvellement urbain et habitat (RUHA), responsable financier et contrôle interne-service ville logement habitat |
 
 B |
 
@@ -866,7 +864,7 @@ B |
 
 15 |
 
-Gestionnaire au pôle connaissance - unité logement social - service ville logement habitat |
+Assistant des unités COVIF et RUHA-service ville logement habitat |
 
 C |
 
@@ -885,3 +883,5 @@ NOTA :
 (4) Arrêté du 10 avril 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er septembre 2016 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
 
 (5) Arrêté du 10 avril 2017, art. 2 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2017 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement et du logement en Ile-de-France.
+
+(6) Arrêté du 12 décembre 2019, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2019 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
