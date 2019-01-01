@@ -1,1 +1,3 @@
 # Article 27 bis
+
+Pendant le congé de paternité et d'accueil de l'enfant visé à l'article L. 1225-35 du code du travail, le salarié ayant plus de 1 an de présence à la date de la naissance de l'enfant reçoit une allocation destinée à compléter les indemnités journalières de la sécurité sociale jusqu'à concurrence de son plein salaire net.
