@@ -1,6 +1,6 @@
 # Article 1681 quater A
 
-A. La cotisation foncière des entreprises et les taxes additionnelles sont recouvrées, soit dans les conditions prévues à l'article 1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements mensuels opérés conformément à l'article 1681 D.
+A. La cotisation foncière des entreprises et les taxes additionnelles sont recouvrées, soit dans les conditions prévues à l'article 1679 quinquies, soit, sur demande du contribuable, au moyen de prélèvements mensuels opérés conformément à l'article 1680 A.
 
 B. De janvier à octobre, chaque prélèvement est égal au dixième du montant des taxes mises en recouvrement au titre de l'année précédente jusqu'au 31 décembre de cette même année, éventuellement diminuées du montant du dégrèvement attendu au titre de l'article 1647 B sexies.
 
@@ -20,8 +20,8 @@ D. Il est mis fin aux prélèvements mensuels dès qu'ils ont atteint le montant
 
 E. (Transféré sous l'article 1762 A).
 
-F. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+F. Un décret fixe les modalités d'application du présent article.
 
 NOTA :
 
-Loi n° 2010-1658 du 29 décembre 2010, article 55 III-C : Ces dispositions s'appliquent aux rôles généraux de cotisation foncière des entreprises émis au titre de l'année 2011 et des années suivantes et aux rôles supplémentaires de cotisation foncière des entreprises et de taxe professionnelle mis en recouvrement à compter du 30 novembre 2011.
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
