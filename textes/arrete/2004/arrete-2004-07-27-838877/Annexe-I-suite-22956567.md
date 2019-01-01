@@ -756,15 +756,15 @@ E. - Points à contrôler lors des contre-visites
 
 La liste des points à contrôler lors des contre-visites est déterminée sur la base de toutes les défaillances constatées lors du contrôle technique ou de la contre-visite précédents.
 
-Lors de chaque contre-visite, les points relatifs à l'identification du véhicule sont à contrôler intégralement.
+Lors de chaque contre-visite, la fonction relative à l'identification du véhicule et les points de contrôle “ 7.9.1. Chronotachygraphe ” et “ 7.11.1. Compteur kilométrique ” sont à contrôler intégralement.
 
 Tout véhicule ayant fait l'objet d'un contrôle à l'aide du dispositif pour le contrôle du freinage prévu au 2 du A de l'annexe III du présent arrêté est également contrôlé à l'aide d'un dispositif pour le contrôle du freinage lors de la contre-visite, dès lors que celle-ci porte au moins sur le contrôle de la fonction " 1. Équipements de freinage ".
 
-Lorsque le résultat d'un contrôle technique est défavorable :
+En complément de l'alinéa précédent, lorsque le résultat d'un contrôle technique est défavorable :
 
 - au titre du point 0.2.1. ou de la défaillance 0.4.1. a. 2., la contre-visite porte sur l'ensemble des points de contrôle applicables au véhicule concerné dans le cadre d'un contrôle technique périodique ;
 
-- au titre d'au moins un point de contrôle de la fonction " 0. Identification du véhicule ", la contre-visite porte sur cette fonction dans son intégralité ;
+- au titre de la défaillance “ 0.4.1. b. 2. Non concordance de l'énergie avec le document d'identification ”, la contre-visite porte sur les points de contrôle “ 6.1.2. Tuyaux d'échappement et silencieux ” et “ 6.1.3. Réservoirs et conduites de carburant ” et sur la fonction “ 8. Nuisances ” ;
 
 - au titre de la défaillance 0.5.1. a. 2., la contre-visite porte sur les points de contrôle " 4.1.2. Orientation (feux de croisement) " et " 4.5.2. Réglage (feux de brouillard avant) " ;
 
@@ -786,11 +786,13 @@ Lorsque le résultat d'un contrôle technique est défavorable :
 
 - au titre d'au moins un point de contrôle de la fonction " 6. Châssis et accessoires du châssis ", la contre-visite porte sur le ou les points de contrôle correspondants ;
 
+- au titre d'au moins un des points de contrôle “ 6.2.5. Siège conducteur ” ou “ 6.2.6. Autres sièges ”, la contre-visite porte sur ces deux points de contrôle et sur l'ensemble de points “ 7.1. Ceintures de sécurité, boucles et systèmes de retenue ” ;
+
 - au titre d'au moins un des ensembles de points de contrôle " 8.1. Bruit " ou " 8.2. Emissions à l'échappement ", ou d'un des points de contrôle " 6.1.2. Tuyau d'échappement et silencieux " ou " 6.1.3. Réservoir et conduites de carburant ", la contre-visite porte sur les ensembles de points de contrôle " 8.1. Bruit " et " 8.2. Emissions à l'échappement " ainsi que les points de contrôle " 6.1.2. Tuyau d'échappement et silencieux " et " 6.1.3. Réservoir et conduites de carburant " ;
 
 - au titre du point de contrôle “ 14.1.1. Certificat d'agrément TMD ”, la contre-visite porte sur la fonction “ 14. Contrôles supplémentaires pour véhicules de transport de marchandises dangereuses soumis à certificat d'agrément ” dans son intégralité ;
 
-Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte sur l'ensemble de points correspondants.
+Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte également sur l'ensemble de points correspondants.
 
 En cas de défaillance mineure constatée pour toute fonction autre que la fonction " 1. Équipements de freinage " lors du contrôle technique ayant conduit au résultat défavorable, la contre-visite porte sur le point de contrôle correspondant. Pour celles relatives à la fonction " 1. Équipements de freinage ", la contre-visite porte sur l'intégralité de cette fonction.
 

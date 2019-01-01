@@ -146,6 +146,8 @@ Les défaillances majeures
 
 Les défaillances mineures
 
+Les commentaires
+
 En cas de contre-visite, suite à un contrôle technique périodique, “ la connaissance de l'ensemble des défaillances constatées sur ce véhicule nécessite de disposer également du procès-verbal de contrôle technique périodique ”.
 
 Lorsque le contrôle a entraîné la validation de commentaires spécifiques conformément aux instructions techniques prévues à l'annexe I du présent arrêté, les mentions correspondantes sont imprimées sur le procès-verbal à la suite des défaillances et niveaux de gravité.
@@ -155,6 +157,8 @@ En cas de discordance entre le numéro de série relevé sur la plaque construct
 En cas de discordance entre le numéro de frappe à froid relevé sur le châssis et le numéro de série relevé sur le document d'identification, “ Numéro de frappe à froid relevé sur le châssis : ”, suivi du numéro de frappe à froid relevé sur le châssis.
 
 Lorsque le contrôle a été réalisé dans les conditions prévues à l'article 45 du présent arrêté, “ Validité du présent contrôle technique limitée exclusivement au territoire suivant : xxxxxx ”, xxxxxx correspondant au territoire concerné.
+
+En cas de constat de l'une des défaillances 8.2.12.d.1, 8.2.12.d.2, 8.2.22.c.1 ou 8.2.22.c.2, la mention “ Code (s) défaut (s) standard (s) relevé (s) concernant le dispositif antipollution : ” suivie de la liste de l'ensemble des codes défauts standards relevés à l'aide du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes prévu au point 5 du A de l'annexe III du présent arrêté, dès lors que ceux-ci concernent les éléments surveillés du dispositif antipollution du véhicule et les niveaux d'émissions par rapport aux valeurs limites applicables.
 
 15. Les mesures réalisées et les valeurs limites correspondantes :
 
