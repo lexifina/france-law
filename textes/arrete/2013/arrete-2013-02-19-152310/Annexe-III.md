@@ -210,7 +210,7 @@ La durée de l'audit relative à l'option 3 s'applique aussi bien au cas d'un pr
 
 Si un prestataire est déjà certifié ISO 9001, alors chacune des durées du tableau ci-dessus est réduite de 0,5 jour.
 
-7-3. Nombre de sites audités
+7-3. Nombre de sites audités dans le cas d'une même personne morale demandant la certification de plusieurs de ses établissements
 
 Dans le cas d'un audit initial, le nombre de sites à auditer est de √x, arrondi à l'entier supérieur, x étant le nombre de sites inclus dans le périmètre de la certification.
 
@@ -303,6 +303,8 @@ CERTIFICAT
 Le présent certificat atteste que le prestataire [Nom du prestataire][Adresse du prestataire] est certifié par la société [Nom de l'organisme certificateur] selon les spécificités du référentiel fixé par l'article 23 de l'arrêté du 15 février 2012 relatif à l'exécution de travaux à proximité des réseaux en tant que "prestataire en localisation des réseaux" pour l'option : [selon le cas : "géoréférencement", ou "détection", ou "géoréférencement & détection"].
 
 La présent certificat est valide du [jj/mm/aaaa 2] au [jj/mm/aaaa 2 + 6 ans] sous réserve de la réalisation de l'audit de surveillance triennal.
+
+Date de l'audit de certification ou de renouvellement : [jj/ mm/ aaaa 3]
 
 Les sites du prestataire sus désigné inclus dans le périmètre de la certification sont les suivants :
 
