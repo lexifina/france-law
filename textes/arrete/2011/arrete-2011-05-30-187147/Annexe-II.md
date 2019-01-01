@@ -374,7 +374,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -service de la qualité ;
 
--centre technique des systèmes d'information ;
+-service des systèmes numériques de l'armement ;
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
@@ -382,7 +382,9 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre de la sécurité de défense et des systèmes d'information ;
 
--DGA techniques navales. |
+-DGA techniques navales.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -822,7 +824,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -service de la qualité ;
 
--centre technique des systèmes d'information ;
+-service des systèmes numériques de l'armement ;
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
@@ -1306,7 +1308,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -service de la qualité ;
 
--centre technique des systèmes d'information ;
+-service des systèmes numériques de l'armement ;
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 
@@ -1736,7 +1738,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -service de la qualité ;
 
--centre technique des systèmes d'information ;
+-service des systèmes numériques de l'armement ;
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement ;
 

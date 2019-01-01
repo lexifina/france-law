@@ -118,7 +118,7 @@ MAPA x 10
 
 |
 
-Centre technique des systèmes d'information
+Service des systèmes numériques de l'armement
 
 |
 
