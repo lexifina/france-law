@@ -2,7 +2,7 @@
 
 I-Les membres de la commission départementale des valeurs locatives des locaux professionnels mentionnée à l'article 1650 B du code général des impôts, autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
 
-II.-Les membres du conseil de Paris sont désignés par celui-ci, siégeant en formation de conseil départemental, dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
+II.-Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
 
 Les membres du conseil départemental sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers départementaux.
 

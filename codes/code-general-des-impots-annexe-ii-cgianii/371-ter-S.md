@@ -2,7 +2,7 @@
 
 I.-Les décisions prises par la commission départementale des valeurs locatives des locaux professionnels en application du 3 du I de l'article 1504 du code général des impôts ou du II de l'article 1518 ter du même code et par la commission départementale des impôts directs locaux en application du II ou du III de l'article 1504 précité sont notifiées :
 
-1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée délibérante de la collectivité territoriale unique, ainsi qu'au président du conseil de la Métropole de Lyon ;
+1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée délibérante de la collectivité territoriale unique, au président du conseil de la Métropole de Lyon, ainsi qu'au maire de Paris ;
 
 2° Aux maires des communes et aux présidents des établissements publics de coopération intercommunale à fiscalité propre du département.
 
@@ -12,13 +12,21 @@ Les décisions prises par la commission départementale des valeurs locatives de
 
 II.-Les arrêtés pris en application du II, du III ou du IV de l'article 1504 précité sont notifiés :
 
-1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée délibérante de la collectivité territoriale unique, ainsi qu'au président du conseil de la Métropole de Lyon ;
+1° Au président du conseil départemental, ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée délibérante de la collectivité territoriale unique, au président du conseil de la Métropole de Lyon, ainsi qu'au maire de Paris ;
 
 2° Aux maires des communes et aux présidents des établissements publics de coopération intercommunale à fiscalité propre du département ;
 
 3° Au président de la commission départementale des valeurs locatives des locaux professionnels et au président de la commission départementale des impôts directs locaux.
 
-III.
+III.- Les tarifs pris en application du
+
+I de l'article 1518 ter du code général des impôts
+
+sont notifiés :
+
+1° Au président du conseil départemental ou, le cas échéant, en Martinique ou en Guyane, au président de l'assemblée délibérante de la collectivité territoriale unique, au président du conseil de la Métropole de Lyon, ainsi qu'au maire de Paris ;
+
+2° Aux maires des communes et aux présidents des établissements publics de coopération intercommunale à fiscalité propre du département.
 
 IV.-Les décisions et les arrêtés mentionnés aux I à III sont publiés au recueil des actes administratifs de la préfecture du département.
 
