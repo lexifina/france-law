@@ -164,9 +164,25 @@ L'intérieur de la rame doit avoir un éclairement d'une valeur de 150 lux.
 
 d) Marches
 
+- Pour tous les véhicules à l'exception de ceux circulant sur les lignes du réseau express régional (RER) en Ile-de-France :
+
 Si une marche intérieure ou plus est indispensable, sa hauteur doit être comprise entre 150 et 200 mm et sa profondeur minimum de 280 mm. Le nez des marches doit être d'une couleur bien contrastée par rapport au sol conformément au paragraphe 3.4, et anti-dérapant. Une main courante doit être installée au moins d'un côté, à 900 mm ± 50 mm, parallèle à la ligne tangente aux nez de marches s'il y en plus d'une, et doit être de couleur contrastée par rapport à son support conformément au paragraphe 3.4 et être anti-dérapant, de diamètre compris entre 30 et 40 mm et dégagée de la paroi d'au moins 45 mm.
 
 S'il y a plus de deux marches, deux mains courantes doivent être installées de part et d'autre du cheminement.
+
+- Pour les véhicules circulant sur les lignes du réseau express régional (RER) en Ile-de-France :
+
+- Dans les rames à deux niveaux, les marches intérieures (autres que les marches d'accès extérieur) ont une hauteur maximale de 208 mm et une profondeur minimale de 215 mm, mesurée au niveau de l'axe central de l'escalier.
+
+Au minimum, les première et dernière marches doivent être signalées au moyen d'une bande contrastante d'une profondeur de 45 mm à 55 mm, s'étendant sur toute la largeur des marches aussi bien sur l'avant que sur le haut du nez de marche.
+
+Les escaliers possédant plus de 3 marches doivent être équipés de mains courantes des deux côtés et à deux hauteurs différentes.
+
+La main courante la plus haute doit être placée à une hauteur comprise entre 850 mm et 1 000 mm mesurée par rapport à l'aplomb du nez de marche.
+
+La main courante la plus basse doit être placée à une hauteur comprise entre 500 mm et 750 mm mesurée par rapport à l'aplomb du nez de marche.
+
+Les mains courantes doivent avoir un contraste visuel de luminance d'au moins 70 % par rapport à leur environnement.
 
 e) Pente intérieure
 
