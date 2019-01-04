@@ -2,25 +2,21 @@
 
 LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS RADAR ET DES INDICATEURS DE VITESSE DE GIRATION
 
-Conformément au modèle donné par la partie VI, lettre D, de l'annexe 3 de l'arrêté du 30 décembre 2008 susvisé, la liste des sociétés installatrices est définie comme suit :
-
 |
 
 SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS POUR
+APPAREILS AGRÉÉS
 
-lesquels la société reçoit l'habilitation |
+pour lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-56, avenue Pierre-Berthelot,
-
-14000 Caen |
+56, avenue Pierre Berthelot, 14000 Caen |
 
 Appareils radar :
 
@@ -36,7 +32,9 @@ ALPHATRON MARINE FRANCE |
 
 Route Industrielle, Centre Routier,
 
-ZI Portuaire, 76700 Gonfreville-l'Orcher |
+ZI Portuaire,
+
+76700 Gonfreville l'Orcher |
 
 Appareils radar :
 
@@ -58,9 +56,7 @@ Alphaturn MF (R-4-092) |
 
 MAP Marine |
 
-1, quai de la Grande-Bigue, bât. B,
-
-13002 Marseille |
+1, quai de la Grande Bigue, bât. B, 13002 Marseille |
 
 Appareils radar :
 
@@ -74,7 +70,7 @@ Radio Zeeland |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand,
+68, boulevard Jules Durand,
 
 76056 Le Havre |
 
@@ -94,7 +90,7 @@ AlphaTurn (River) MFM/ MFL 90°/ min 300°/ min + EBF01a (e-01-086) |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine,
+21, rue Paul Verlaine,
 
 76700 Harfleur |
 
@@ -102,7 +98,7 @@ Appareils radar :
 
 JRC JMA 610-6/-7/-9 (R-4-015) ;
 
-Furuno RHRS-2014 (R-4-021) ;
+Furuno RHRS-2014 (R-4-021 ;
 
 JFS-364/ JFS 364 C (R-4-002) ;
 
@@ -110,7 +106,9 @@ Swiss Radar Precision Navigator II (R-4-018) ;
 
 Furuno RHRS-2005 RC (R-4-008) ;
 
-JMA-609/7,/9 (R-4-011)
+JMA-609/7,/9 (R-4-011) ;
+
+Sperry Decca MK 6217 RT/6219 (R-4-009)
 
 Indicateurs de vitesse de giration :
 
@@ -164,9 +162,9 @@ ICOM |
 
 THEMYS |
 
-Quartier de la chaume, CD
+Quartier de la chaume, CD 45,
 
-45, pont de l'Etoile,
+pont de l'Etoile,
 
 13360 Roquevaire |
 
