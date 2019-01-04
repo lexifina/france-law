@@ -58,6 +58,10 @@ Jusqu'au 31 octobre 2023 :
 
 Saint-Pierre de La Réunion-Maurice ;
 
-Saint-Denis de La Réunion-Tuléar (Madagascar)
+Saint-Denis de La Réunion-Tuléar (Madagascar) ;
 
 Saint-Denis de La Réunion-Fort-Dauphin (Madagascar).
+
+Jusqu'au 31 décembre 2023 :
+
+Saint-Denis de La Réunion-Rodrigues (Maurice).
