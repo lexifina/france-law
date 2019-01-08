@@ -1,6 +1,6 @@
 # Article 1er
 
-a) Champ d'application professionnel (code NAF 95.0Z)
+a) Champ d'application professionnel (code NAF 95. 0Z)
 
 La présente convention collective règle les rapports entre les particuliers employeurs et leurs salariés. Le caractère spécifique de cette profession est de s'exercer au domicile privé du particulier employeur avec toutes les conséquences qui en découlent.
 
@@ -22,17 +22,17 @@ Les contractants reconnaissent la liberté d'opinion et la liberté syndicale.
 
 d) Durée de la convention, dénonciation, modification et révision
 
-La convention collective nationale est conclue pour une durée indéterminée. Chacune des parties a la possibilité de la dénoncer en partie ou en totalité, par pli recommandé, avec avis de réception et préavis de 3 mois (1).
+La convention collective nationale est conclue pour une durée indéterminée. Chacune des parties a la possibilité de la dénoncer en partie ou en totalité, par pli recommandé, avec avis de réception et préavis de 3 mois
+
+(1)
+
+.
 
 Conformément au code du travail, la dénonciation doit être notifiée par son auteur aux autres signataires de la convention et déposée auprès des services du ministère du travail.
 
 Dans ce cas, la convention ou la partie de la convention dénoncée restera en vigueur jusqu'à la signature d'un nouvel accord et au maximum pendant 1 an.
 
-La commission paritaire nationale (ou mixte) est composée des représentants des particuliers employeurs (FEPEM) et des organisations syndicales représentatives sur le plan national.
-
-Toute demande de modification ou de révision sera portée devant la commission paritaire nationale de la présente convention. La commission paritaire devra alors être convoquée dans un délai de 1 mois.
-
-Ses modalités de fonctionnement sont déterminées d'un commun accord entre les parties.
+Toute demande de modification ou de révision sera portée devant la commission paritaire permanente de négociation et d'interprétation (CPPNI) prévue à l'article 1er h de la présente convention. La CPPNI devra alors être convoquée dans un délai de 1 mois.
 
 e) Avantages acquis
 
@@ -48,9 +48,89 @@ g) Entrée en application
 
 La présente convention collective sera applicable à compter de la parution au Journal officiel de son arrêté d'extension.
 
-h) Périodicité de la négociation
+h) Commission paritaire permanente de négociation et d'interprétation
 
-Les parties signataires se rencontrent au moins une fois par an pour négocier les salaires, au moins une fois tous les 5 ans pour examiner la nécessité de réviser les classifications, ou à la demande de la partie la plus diligente.
+1. Organisation de la commission paritaire permanente de négociation et d'interprétation
+
+1.1. Secrétariat de la CPPNI
+
+Le secrétariat de la CPPNI est assuré par le secrétariat paritaire de la branche des salariés du particulier employeur.
+
+L'adresse e-mail du secrétariat de la CPPNI est la suivante : secretariatbranche@fepem.fr.
+
+Il est notamment chargé de :
+
+– l'envoi aux représentants siégeant au sein de la CPPNI des convocations et documents de travail ;
+
+– la rédaction et la diffusion des procès-verbaux.
+
+Les modalités relatives à l'envoi des convocations sont prévues par le règlement intérieur.
+
+1.2. Composition de la CPPNI
+
+La CPPNI est composée d'un collège « salariés » et d'un collège « employeurs ».
+
+En tant qu'instance paritaire, la CPPNI se compose d'un nombre égal de représentants des organisations syndicales et d'employeurs représentatives dans la branche des salariés du particulier employeur.
+
+Le collège « salariés » est composé de :
+
+– 3 représentants désignés par chaque organisation syndicale représentative dans le champ d'application de la convention collective nationale des salariés du particulier employeur.
+
+Le collège « employeurs » est composé :
+
+– d'un nombre de représentants désignés par l'organisation professionnelle d'employeurs représentative égal au total des représentants désignés par les organisations syndicales représentatives dans la branche.
+
+(2)
+
+La CPPNI dans son rôle d'interprétation sera composée :
+
+– d'un représentant titulaire et d'un représentant suppléant désignés parmi les représentants à la CPPNI par chaque organisation syndicale représentative dans le champ d'application de la convention collective nationale des salariés du particulier employeur ;
+
+– et d'un nombre égal de représentants de l'organisation professionnelle d'employeurs représentative.
+
+(3)
+
+Le règlement intérieur précise les modalités de désignation des représentants de la CPPNI ainsi que la durée des mandats.
+
+1.3. Fonctionnement de la CPPNI
+
+Le règlement intérieur établi par la CPPNI détermine les modalités et les moyens de son fonctionnement.
+
+2. Missions de la CPPNI
+
+2.1. Mission de négociation
+
+La CPPNI est une instance de négociation. Dans ce cadre, les organisations syndicales et professionnelles membres de la commission négocient et concluent les accords collectifs de branche ainsi que leurs avenants ou annexes.
+
+La CPPNI définit le calendrier des réunions de négociation dans les conditions prévues à l'article L. 2222-3 du code du travail et organise les travaux.
+
+En application des dispositions de l'article L. 2232-9 du code du travail, la commission se réunit au moins trois fois par an en vue des négociations de branche annuelles, triennales et quinquennales prévues aux articles L. 2241-1 et suivants du code du travail.
+
+Des réunions supplémentaires peuvent être organisées, d'un commun accord entre le collège salarié et le collège employeur.
+
+Par ailleurs, la CPPNI pourra se réunir en commission technique paritaire restreinte, d'un commun accord entre les 2 collèges, en vue de préparer une négociation ou de procéder à l'examen technique de sujets faisant l'objet de négociations au sein de la CPPNI.
+
+Cette dernière en précisera l'organisation.
+
+Conformément à l'article L. 2261-20 du code du travail, à la demande de l'une des organisations syndicales d'employeurs et de salariés représentatives, ou de sa propre initiative, l'autorité administrative peut provoquer la réunion d'une commission mixte paritaire.
+
+Lorsque deux de ces organisations en font la demande, l'autorité administrative convoque la commission mixte paritaire.
+
+2.2. Missions d'intérêt général
+
+La CPPNI est chargée de représenter la branche vis-à-vis des pouvoirs publics.
+
+Elle exerce un rôle de veille sur les conditions de travail et l'emploi. Dans ce cadre elle pourra notamment s'appuyer sur le rapport de branche ainsi que sur les différents bilans établis par les commissions paritaires (CPNEFP, CPT, etc.)
+
+Elle établit un rapport annuel d'activité sur les négociations menées au niveau de la branche.
+
+2.3. Mission d'interprétation
+
+La CPPNI veille au respect et à l'application de la présente convention collective, de ses avenants et annexes et étudie les difficultés d'interprétation et d'application pouvant résulter de leur mise en œuvre.
+
+Sur saisine, elle émet des avis d'interprétation.
+
+Le règlement intérieur définit notamment les modalités de saisine et les règles de recueil de l'avis des représentants siégeant au sein de la CPPNI dans le cadre de sa mission d'interprétation.
 
 i) Présence aux réunions paritaires
 
@@ -58,26 +138,12 @@ Des heures de liberté prises sur le temps de travail, non rémunérées ou réc
 
 Les partenaires sociaux conviennent de se donner les moyens financiers du fonctionnement paritaire de la branche selon les modalités définies ultérieurement en annexe.
 
-j) Conciliation et interprétation
-
-Les organisations signataires s'engagent à constituer une commission paritaire nationale de conciliation et d'interprétation dont le siège est fixé à Paris.
-
-Cette commission a pour but et rôle de tenter de concilier les parties en proposant toutes mesures utiles, notamment à l'occasion de l'interprétation de la convention collective nationale.
-
-La commission ne peut être saisie de conflits collectifs ou individuels (mettant en cause l'interprétation d'un article) que par l'une des organisations membres de la commission.
-
-Elle comprendra un représentant de chacune des organisations syndicales de salariés et un nombre égal de représentants désignés par l'organisation patronale dans le champ d'application de la convention collective nationale de travail des salariés du particulier employeur.
-
-La présidence, dont la durée est limitée à 1 an, est assurée alternativement par un représentant des organisations salariales et par un représentant de l'organisation patronale, choisis parmi les organisations signataires de la présente convention.
-
-La commission est convoquée à la diligence du président et doit se réunir dans le délai de 1 mois après la demande.
-
-Le secrétaire de séance sera désigné d'un commun accord entre les parties.
-
-Les modalités de fonctionnement de la commission sont déterminées d'un commun accord entre les parties.
-
-Les solutions proposées doivent réunir l'unanimité des membres présents de la commission.
-
-En tout état de cause, les parties peuvent porter leurs différends devant les juridictions compétentes.
-
 (1) Alinéa étendu sous réserve de l'application de l'article L. 132-8 du code du travail (arrêté du 2 mars 2000, art. 1er).
+
+(2) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2261-19 du code du travail.
+
+(Arrêté du 29 mai 2019-art. 1)
+
+(3) Alinéa étendu sous réserve du respect du principe d'égalité tel qu'interprété par la Cour de cassation (Cass. soc. 29 mai 2001, Cegelec).
+
+(Arrêté du 29 mai 2019 - art. 1)
