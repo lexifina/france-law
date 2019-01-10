@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505239
+
+- Question : [SEQ180505239](seq180505239.md) — Lisibilité du ou des pays d'origine du miel commercialisé en France
+
+## Réponse
+
+*Économie et finances, JO du 2019-01-10, page 138*
+
+Le Gouvernement est très attentif à l'information des consommateurs au sujet du miel. La mention du ou des pays d'origine où cette denrée est récoltée est étroitement encadrée par le droit européen, qui a été transposé en France (directive 2001/110/CE transposées décret du 30 juin 2003). Cette mention doit figurer sur l'étiquetage du produit mis à la vente, la réglementation permettant l'usage de la mention mélange de miels originaires/non originaires de l'Union européenne lorsque le miel est issu d'un mélange de miel de plus de deux origines différentes. Les dispositions de la loi n° 2018 du 30 octobre 2018 qui prévoyaient des obligations plus contraignantes sur ce point ont été censurées par le Conseil constitutionnel dans sa décision du 25 octobre 2018. Soucieux de répondre aux attentes des consommateurs, le Gouvernement a toutefois engagé des travaux règlementaires afin de renforcer leur information au sujet de l'origine du miel. Par ailleurs, les corps de contrôle de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) sont très vigilants quant au respect par les acteurs des règles en vigueur, qu'ils contrôlent régulièrement. Une enquête diligentée en 2017 dans le domaine de la commercialisation du miel a visé 317 établissements et a donné lieu à l'analyse de 262 prélèvements. Des anomalies ont été constatées dans 32 % des établissements principalement pour défauts d'étiquetage, combinés à d'autres manquements tels que des défauts de qualité ou incohérence florale. Ces diverses anomalies ont donné lieu à des lettres d'avertissements, à des injonctions de remise en conformité de l'étiquetage et 26 opérateurs ont fait l'objet de suites pénales.
