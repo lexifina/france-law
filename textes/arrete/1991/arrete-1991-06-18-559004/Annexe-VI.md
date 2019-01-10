@@ -80,17 +80,17 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.8. Le réseau archive pendant au moins quatre ans tous les documents relatifs à son action, sans préjudice des autres réglementations en vigueur.
 
-2.9. Le réseau communique à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France avant le 15 de chaque mois, pour le mois suivant, le programme d'audits des installations de contrôle et des contrôleurs qui lui sont rattachés. Ces informations peuvent être communiquées par tout système d'information dématérialisé.
+2.9. Le réseau communique au ministre chargé des transports avant le 15 de chaque mois, pour le mois suivant, le programme d'audits des installations de contrôle et des contrôleurs qui lui sont rattachés. Ces informations peuvent être communiquées par tout système d'information dématérialisé.
 
-2.10. Le réseau communique au ministre chargé des transports et à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France le manuel qualité et l'ensemble des procédures prévues ci-dessus et leurs mises à jour dans le délai d'un mois maximum après leur approbation.
+2.10. Le réseau communique au ministre chargé des transports le manuel qualité et l'ensemble des procédures prévues ci-dessus et leurs mises à jour dans le délai d'un mois maximum après leur approbation.
 
 3. Surveillance des installations de contrôle
 
 3.1. Le réseau se fait rendre compte régulièrement des opérations de surveillance effectuées (audit des installations de contrôle, contrôle statistique, contrôle de la formation, etc.) et procède à la mise en place des actions correctives éventuellement nécessaires, ainsi qu'à la prise des sanctions indispensables.
 
-3.2. (abrogé)
+3.2. (Abrogé)
 
-3.2.1. (abrogé)
+3.2.1. (Abrogé)
 
 3.2.2. Il traite et dresse tous états relatifs, notamment :
 
@@ -100,4 +100,4 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 - A la nature et à la gravité des défaillances constatées, par type de véhicule, et/ou par contrôleur, et/ou par centre de contrôle, etc. ;
 
-3.2.3. Il exploite ces états pour attirer 1'attention des responsables des installations de contrôle sur la nécessité de prévenir ou de rectifier certaines déviations, et pour éclairer et valoriser les audits des installations de contrôle.
+3.2.3. Il exploite ces états pour attirer l'attention des responsables des installations de contrôle sur la nécessité de prévenir ou de rectifier certaines déviations, et pour éclairer et valoriser les audits des installations de contrôle.

@@ -1,6 +1,6 @@
 # Article ANNEXE II b
 
-La direction régionale et interdépartementale de l'énergie et de l'environnement (DRIEE) (*)/La direction régionale de l'environnement, de l'aménagement et du logement (DREAL) (*)/La direction de l'environnement, de l'aménagement et du logement (DEAL) (*)/Le constructeur (*) :
+La direction régionale et interdépartementale de l'énergie et de l'environnement (DRIEE) (*)/La direction régionale de l'environnement, de l'aménagement et du logement (DREAL) (*)/La direction de l'environnement, de l'aménagement et du logement (DEAL) (*)/Le Centre national de réception des véhicules (CNRV) (*)/Le constructeur (*) :
 
 Numéro de réception par type nationale du véhicule tracteur :
 
@@ -82,6 +82,6 @@ Passagers dans la troisième remorque :
 
 Date :
 
-Signature : DRIEE-DREAL-DEAL-Constructeur (*)
+Signature : DRIEE-DREAL-DEAL-CNRV-Constructeur (*)
 
 (*) Barrer la mention inutile.

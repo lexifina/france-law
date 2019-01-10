@@ -334,7 +334,7 @@ Organismes d'audit
 
 I. - Demande initiale d'agrément
 
-Le dossier de demande initiale d'agrément prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central.
+Le dossier de demande initiale d'agrément prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports et à l'organisme technique central.
 
 II. - Modification du dossier d'agrément
 
@@ -342,7 +342,7 @@ Toute modification du dossier d'agrément est portée à la connaissance du mini
 
 III. - Demande de renouvellement d'agrément
 
-Le dossier de demande de renouvellement prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
+Le dossier de demande de renouvellement prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
 
 APPENDICE 1 : FICHE RECAPITULATIVE RELATIVE A LA QUALIFICATION ET A L'EXPERIENCE PROFESSIONNELLE
 

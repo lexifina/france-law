@@ -38,7 +38,7 @@ certifie que le véhicule neuf/usagé (1) défini ci dessous :
 
 - a fait l'objet de l'adaptation réversible en genre national VASP et carrosserie nationale DERIV VP pour l'usage spécial prévu à l'annexe 1-A de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules ;
 
-- est conforme aux dispositions contenues dans la déclaration enregistrée à la DRIEE d'Ile-de-France sous le numéro
+- est conforme aux dispositions contenues dans la déclaration enregistrée au Centre national de réception des véhicules sous le numéro
 
 Les caractéristiques du véhicule neuf/usagé (1) adapté sont :
 
@@ -122,7 +122,7 @@ certifie que le véhicule usagé :
 
 (J.3) Carrosserie nationale : DERIV VP
 
-a subi les adaptations le rendant conforme à son type d'origine conformément aux dispositions contenues dans la déclaration enregistrée à la DRIEE d'Ile de France sous le numéro
+a subi les adaptations le rendant conforme à son type d'origine conformément aux dispositions contenues dans la déclaration enregistrée au Centre national de réception des véhicules sous le numéro
 
 et que les données modifiant le certificat d'immatriculation sont les suivantes :
 

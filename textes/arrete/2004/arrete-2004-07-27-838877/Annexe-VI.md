@@ -78,9 +78,9 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 2.5. Le réseau archive pendant au moins quatre ans tous les documents relatifs à son action, sans préjudice des autres réglementations en vigueur.
 
-2.6. Le réseau communique à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France avant le 15 de chaque mois, pour le mois suivant, le programme d'audits des installations de contrôle et des contrôleurs. Ces informations peuvent être communiquées par tout système d'information dématérialisé.
+2.6. Le réseau communique au ministre chargé des transports avant le 15 de chaque mois, pour le mois suivant, le programme d'audits des installations de contrôle et des contrôleurs. Ces informations peuvent être communiquées par tout système d'information dématérialisé.
 
-2.7. Le réseau communique au ministre chargé des transports et à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France le manuel qualité et l'ensemble des procédures prévues ci-dessus et leurs mises à jour dans le délai d'un mois maximum après leur approbation.
+2.7. Le réseau communique au ministre chargé des transports le manuel qualité et l'ensemble des procédures prévues ci-dessus et leurs mises à jour dans le délai d'un mois maximum après leur approbation.
 
 3. Surveillance des installations de contrôle
 
