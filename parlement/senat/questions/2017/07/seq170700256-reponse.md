@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700256
+
+- Question : [SEQ170700256](seq170700256.md) — Qualification de donation indirecte dans un contrat d'assurance-vie
+
+## Réponse
+
+*Économie et finances, JO du 2019-01-10, page 131*
+
+La réponse ministérielle dite « Ciot » n° 78192 du 23 février 2016 admet, pour les successions ouvertes à compter du 1er janvier 2016, que la valeur de rachat d'un contrat d'assurance-vie, souscrit avec des fonds communs des époux et non dénoué lors de la liquidation de la communauté conjugale à la suite du décès de l'un des époux bénéficiaire, ne soit pas, au plan fiscal, intégrée à l'actif de la communauté conjugale et ne constitue donc pas un élément de l'actif successoral pour le calcul des droits de mutation dus par les héritiers de l'époux prédécédé. Cette réponse, qui porte ainsi sur la détermination de l'actif successoral pour l'établissement des droits dus par les héritiers de l'époux prédécédé, est sans incidence sur la qualification éventuelle de donation indirecte, taxable aux droits de mutation à titre gratuit au nom du donataire, de la transmission réalisée via le contrat d'assurance vie au bénéfice de l'autre conjoint. Elle ne saurait donc permettre de présumer qu'un contrat co-souscrit par des époux communs en biens dont le dénouement normal est le décès du second conjoint ne peut constituer une donation indirecte. En effet, de manière générale, la souscription d'un contrat d'assurance-vie est susceptible de constituer une donation indirecte en l'absence d'éléments contredisant l'intention libérale du souscripteur. Or, compte tenu notamment du large éventail de possibilités offertes par les contrats d'assurance-vie, rien n'exclut a priori l'intention libérale de l'un des époux co-souscripteurs. L'absence de qualification de donation indirecte ne pouvant être présumée, la régularité d'une telle opération doit être appréciée au cas par cas au vu des circonstances de fait de l'espèce.
