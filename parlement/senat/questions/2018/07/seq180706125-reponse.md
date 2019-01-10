@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706125
+
+- Question : [SEQ180706125](seq180706125.md) — Frais de mise à jour des statuts de sociétés
+
+## Réponse
+
+*Économie et finances, JO du 2019-01-10, page 141*
+
+L'obligation de dépôt du document relatif au bénéficiaire effectif prévue à l'article L. 561-46 du code monétaire et financier est une mesure de stricte transposition de l'article 30 de la directive 2015/849 du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme issue de l'article 8 de l'ordonnance du 1er décembre 2016 renforçant le dispositif français de lutte contre le blanchiment et le financement du terrorisme. La directive impose que des informations adéquates, exactes et actuelles sur les bénéficiaires effectifs des sociétés et autres entités juridiques constituées sur leur territoire soient conservées dans un registre central. Ainsi, dès que les informations relatives au bénéficiaire effectif sont modifiées, une mise à jour au document déposé au registre doit être réalisée. Aucune autre formalité déjà existante ne permettrait de remplir cette obligation, à savoir d'identifier systématiquement la ou les personnes physiques qui contrôlent en dernier lieu, directement ou indirectement, la société. Concernant le tarif du dépôt du document relatif au bénéficiaire effectif, celui-ci rémunère les prestations réalisées par le greffier du tribunal de commerce, et en particulier les diligences supplémentaires qu'il met en œuvre lors du dépôt d'un document modificatif ou complémentaire. Ce tarif a été arrêté conformément aux principes instaurés par la loi du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques. Il a d'ailleurs fait l'objet, en application de ces principes et comme l'ensemble des tarifs des greffiers de tribunaux de commerce, d'une baisse de 5 % le 1er mai 2018.
