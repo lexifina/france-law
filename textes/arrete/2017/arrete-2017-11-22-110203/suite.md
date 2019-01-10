@@ -326,45 +326,25 @@ Pari "Quinté Plus"
 
 Article 89
 
-1) Pour certaines épreuves, désignées sur le programme officiel, des paris dénommés "Quinté Plus" peuvent être organisés.
+Pour certaines épreuves, désignées sur le programme officiel, des paris dénommés “ Quinté Plus ” peuvent être organisés.
 
-Un pari "Quinté Plus" consiste à désigner cinq chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
+Un pari “ Quinté Plus ” consiste à désigner cinq chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
-Le pari "Quinté Plus" peut également être proposé sous une dénomination commerciale spécifique portée à la connaissance des parieurs. Les dispositions du présent règlement applicables au pari "Quinté Plus" sont applicables au pari proposé sous la dénomination commerciale correspondante.
+Le pari “ Quinté Plus ” peut également être proposé sous une dénomination commerciale spécifique portée à la connaissance des parieurs. Les dispositions du présent règlement applicables au pari “ Quinté Plus ” sont applicables au pari proposé sous la dénomination commerciale correspondante.
 
-Un pari "Quinté Plus" est payable si au moins trois des cinq chevaux choisis occupent les trois premières places de l'épreuve, sauf cas prévu au c) ci-dessous.
+Un pari “ Quinté Plus ” est payable si au moins trois des cinq chevaux choisis occupent les trois premières places de l'épreuve.
 
-Toutefois, lorsque le nombre de chevaux ayant effectivement participé à la course est inférieur à sept, tous les paris "Quinté Plus" engagés sur cette épreuve sont remboursés.
+Toutefois, lorsque le nombre de chevaux ayant effectivement participé à la course est inférieur à sept, tous les paris “ Quinté Plus ” engagés sur cette épreuve sont remboursés.
 
-a) Il donne lieu à un rapport dit "Quinté Plus Ordre" si les cinq chevaux choisis occupent les cinq premières places et si l'ordre stipulé par le parieur pour les cinq chevaux désignés est conforme à l'ordre de classement des chevaux à l'arrivée de l'épreuve.
+a) Il donne lieu à un rapport dit “ Quinté Plus Ordre ” si les cinq chevaux choisis occupent les cinq premières places et si l'ordre stipulé par le parieur pour les cinq chevaux désignés est conforme à l'ordre de classement des chevaux à l'arrivée de l'épreuve.
 
-b) Il donne lieu à un rapport dit "Quinté Plus Désordre", lorsque l'ordre stipulé par le parieur pour les cinq chevaux désignés est différent de l'ordre de classement des chevaux à l'arrivée de l'épreuve.
+b) Il donne lieu à un rapport dit “ Quinté Plus Désordre ”, si les cinq chevaux choisis occupent les cinq premières places et si l'ordre stipulé par le parieur pour les cinq chevaux désignés est différent de l'ordre de classement des chevaux à l'arrivée de l'épreuve.
 
-c) En outre, toutes les combinaisons de cinq chevaux comportant quatre chevaux classés parmi les cinq premières places de l'épreuve, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces quatre chevaux, et un cheval classé à un rang supérieur au cinquième donnent lieu, sauf cas prévus à l'article 99, à un rapport dit :
+c) En outre, toutes les combinaisons de cinq chevaux comportant quatre chevaux classés aux quatre premières places, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces quatre chevaux, et un cheval classé à un rang supérieur au cinquième donnent lieu à un rapport dit “ Bonus 4 ”, sauf cas prévus à l'article 99.
 
-1. "Bonus 4" si ces quatre chevaux se sont classés aux quatre premières places de l'épreuve ;
-
-2. "Bonus 4sur5" si un de ces quatre chevaux s'est classé à la cinquième place ;
-
-d) De même, toutes les combinaisons de cinq chevaux comportant trois chevaux classés aux trois premières places de l'épreuve, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces trois chevaux, et deux chevaux classés tous deux à des rangs supérieurs au cinquième, donnent lieu à un rapport dit "Bonus 3" sauf cas prévus à l'article 99.
+d) De même, toutes les combinaisons de cinq chevaux comportant trois chevaux classés aux trois premières places de l'épreuve, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces trois chevaux, et deux chevaux classés tous deux à des rangs supérieurs au quatrième, donnent lieu à un rapport dit “ Bonus 3 ” sauf cas prévus à l'article 99.
 
 Chaque cheval participant à la course est traité séparément dans la détermination des combinaisons payables.
-
-2) Un "N° Plus" de 0001 à 3000 déterminé aléatoirement par le système central du groupement, est attribué lors de l'enregistrement du pari, à chaque combinaison unitaire ou formule "Quinté Plus" au sens de l'article 98, engagée par le parieur.
-
-3) Après le départ confirmé de la course servant de support au pari "Quinté Plus", le système central du groupement sélectionne de manière aléatoire un numéro et un seul compris entre 0001 et 3000, inclusivement, dénommé "N° Plus Gagnant".
-
-Lorsqu’une combinaison "Quinté Plus" donnant lieu à un rapport "Quinté Plus Ordre" visé au a) du 1) du présent article comporte le "N° Plus Gagnant" elle donne droit également au paiement du rapport "Tirelire" selon les modalités définies à l’article 96.
-
-a) Lorsqu’un pari "Quinté Plus" comporte la combinaison visée au b) du 1) du présent article et le "N° Plus Gagnant", il donne droit à dix fois le rapport "Quinté Plus Désordre".
-
-b) Lorsqu’un pari "Quinté Plus" comporte la combinaison visée au 1. du c) du 1) du présent article et le "N° Plus Gagnant", il donne droit à dix fois le rapport "Bonus 4".
-
-c) Lorsqu’un pari "Quinté Plus" comporte la combinaison visée au 2. du c) du 1) du présent article et le "N° Plus Gagnant", il donne droit à dix fois le rapport "Bonus 4sur5".
-
-d) Lorsqu’un pari "Quinté Plus" comporte la combinaison visée au d) du 1) du présent article et le "N° Plus Gagnant", il donne droit à dix fois le rapport "Bonus 3".
-
-e) Après application du II de l’article 91, si le pari engagé par le parieur comporte un ou plusieurs chevaux non-partants, les termes "rapport Bonus 4", "rapport Bonus 4sur5" et "rapport Bonus 3" visés aux 1. du c) du 1), 2. du c) du 1) et d) du 1) du présent article, s’entendent au sens du total des rapports "Bonus 4", "Bonus 4sur5" et "Bonus 3" résultant de l’application du I de l’article 91.
 
 Article 90
 
@@ -484,39 +464,7 @@ h) Dans le cas de dead-heat de deux chevaux ou plus classés à la quatrième pl
 
 i) Dans le cas de dead-heat de deux chevaux ou plus à la cinquième place, les combinaisons payables sont les combinaisons comportant le cheval classé premier, le cheval classé deuxième, le cheval classé troisième, le cheval classé quatrième et un cheval classé à un rang supérieur au cinquième.
 
-III. – Dans le cas d'arrivée dead-heat, les combinaisons payables au rapport "Bonus 4sur5" sont les suivantes, sauf cas prévu à l'article 99 :
-
-a) Dans le cas de dead-heat de quatre chevaux classés à la première place et de un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant trois des chevaux classés premiers, avec deux des chevaux classés cinquièmes, ou celles comportant trois des chevaux classés premiers avec un des chevaux classés cinquièmes, et avec un cheval classé à un rang supérieur au cinquième.
-
-b) Dans le cas de dead-heat de trois chevaux classés à la première place et de deux chevaux ou plus classés à la quatrième place, les combinaisons payables sont les combinaisons comportant deux des trois chevaux classés à la première place avec deux des chevaux classés à la quatrième place et avec un cheval classé à un rang supérieur au cinquième ou celles comportant deux des trois chevaux classés à la première place avec trois des chevaux classés à la quatrième place.
-
-c) Dans le cas de dead-heat de trois chevaux classés à la première place, d'un seul cheval classé à la quatrième place et de un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant les trois chevaux classés à la première place avec deux des chevaux classés à la cinquième place, ou celles comportant les trois chevaux classés à la première place avec un des chevaux classés cinquième et un des chevaux classés au-delà de la cinquième place, ou celles comportant deux des chevaux classés premiers, avec le cheval classé quatrième et avec deux des chevaux classés cinquièmes, ou celles comportant deux des chevaux classés premiers, avec le cheval classé quatrième, avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-d) Dans le cas de dead-heat de deux chevaux classés à la première place et de trois chevaux ou plus classés à la troisième place, les combinaisons payables sont les combinaisons comportant un des chevaux classés à la première place, avec quatre des chevaux classés à la troisième place, ou celles comportant un des chevaux classés à la première place, avec trois des chevaux classés à la troisième place et avec un cheval classé à un rang supérieur au cinquième.
-
-e) Dans le cas de dead-heat de deux chevaux classés à la première place, de deux chevaux classés à la troisième place et de un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant les deux chevaux classés à la première place avec l’un des deux chevaux classés à la troisième place et avec deux des chevaux classés à la cinquième place, ou celles comportant les deux chevaux classés à la première place avec l’un des deux chevaux classés à la troisième place avec un des chevaux classés à la cinquième place et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant un des deux chevaux classés à la première place avec les deux chevaux classés à la troisième place et avec deux des chevaux classés à la cinquième place, ou celles comportant un des deux chevaux classés à la première place avec les deux chevaux classés à la troisième place avec un des chevaux classés à la cinquième place et avec un cheval classé à un rang supérieur au cinquième.
-
-f) Dans le cas de dead-heat de deux chevaux classés à la première place, d'un cheval classé à la troisième place et de deux chevaux ou plus classés à la quatrième place, les combinaisons payables sont les combinaisons composées des deux chevaux classés à la première place et avec trois des chevaux classés à la quatrième place, ou celles comportant les deux chevaux classés à la première place avec deux des chevaux classés à la quatrième place et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant un des chevaux classés à la première place, avec le cheval classé à la troisième place et avec trois des chevaux classés à la quatrième place, ou celles comportant un des chevaux classés à la première place, avec le cheval classé à la troisième place avec deux des chevaux classés à la quatrième place et avec un cheval classé à un rang supérieur au cinquième.
-
-g) Dans le cas de dead-heat de deux chevaux classés à la première place, d'un cheval classé à la troisième place, d'un cheval classé à la quatrième place et de un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant les deux chevaux classés à la première place avec le cheval classé à la troisième place et avec deux chevaux classés à la cinquième place, ou celles comportant les deux chevaux classés à la première place avec le cheval classé à la troisième place avec un des chevaux classés à la cinquième place et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant les deux chevaux classés à la première place avec le cheval classé à la quatrième place et avec deux chevaux classés à la cinquième place, ou celles comportant les deux chevaux classés à la première place avec le cheval classé à la quatrième place avec un des chevaux classés à la cinquième place et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant un des deux chevaux classés à la première place avec le cheval classé à la troisième place avec le cheval classé à la quatrième place et avec deux chevaux classés à la cinquième place, ou celles comportant un des deux chevaux classés à la première place avec le cheval classé à la troisième place avec le cheval classé à la quatrième place avec un des chevaux classés à la cinquième place et avec un cheval classé à un rang supérieur au cinquième.
-
-h) Dans le cas de dead-heat de quatre chevaux ou plus classés à la deuxième place, les combinaisons payables sont les combinaisons comportant cinq des chevaux classés deuxièmes, ou celles comportant quatre des chevaux classés à la deuxième place avec un cheval classé à un rang supérieur au cinquième.
-
-i) Dans le cas de dead-heat de trois chevaux classés à la deuxième place et d'un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant les trois chevaux classés deuxièmes avec deux des chevaux classés cinquièmes, ou celles comportant les trois chevaux classés deuxièmes avec l'un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec deux des chevaux classés deuxièmes avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec deux des chevaux classés deuxièmes avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-j) Dans le cas de dead-heat de deux chevaux classés à la deuxième place et de deux chevaux ou plus classés à la quatrième place, les combinaisons payables sont les combinaisons comportant le cheval classé premier avec un des chevaux classés deuxièmes avec deux des chevaux classés à la quatrième place et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec un des chevaux classés deuxièmes avec trois des chevaux classés quatrièmes, ou celles comportant les deux chevaux classés deuxièmes avec trois des chevaux classés quatrièmes, ou celles comportant les deux chevaux classés deuxièmes avec deux des chevaux classés quatrièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-k) Dans le cas de dead-heat de deux chevaux classés à la deuxième place, d'un cheval classé à la quatrième place et d'un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons comportant le cheval classé premier avec les deux chevaux classés deuxièmes avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec les deux chevaux classés deuxièmes avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec un des chevaux classés deuxièmes avec le cheval classé quatrième et avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec un des chevaux classés deuxièmes avec le cheval classé quatrième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant les deux chevaux classés deuxièmes avec le cheval classé quatrième avec deux des chevaux classés cinquièmes, ou celles comportant les deux chevaux classés deuxièmes avec le cheval classé quatrième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-l) Dans le cas de dead-heat de trois chevaux ou plus classés à la troisième place, les combinaisons payables sont les combinaisons composées du cheval classé premier et de quatre des chevaux classés troisièmes, ou celles comportant le cheval classé premier avec trois des chevaux classés troisièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé deuxième avec quatre des chevaux classés troisièmes, ou celles comportant le cheval classé deuxième avec trois des chevaux classés troisièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-m) Dans le cas de dead-heat de deux chevaux classés à la troisième place et d'un ou plusieurs chevaux classés à la cinquième place, les combinaisons payables sont les combinaisons du cheval classé premier avec les deux chevaux classés troisièmes et deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec les deux chevaux classés troisièmes avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé deuxième, avec les deux chevaux classés troisièmes avec deux des chevaux classés à la cinquième place, ou celles comportant le cheval classé deuxième avec les deux chevaux classés troisièmes avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier, le cheval classé deuxième, un des chevaux classés troisièmes et avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier, le cheval classé deuxième, un des chevaux classés troisièmes, un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-n) Dans le cas de dead-heat de deux chevaux ou plus à la quatrième place, les combinaisons payables sont les combinaisons composées du cheval classé premier, du cheval classé deuxième, et de trois des chevaux classés quatrièmes, ou celles comportant le cheval classé premier, le cheval classé deuxième, deux des chevaux classés quatrièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec le cheval classé troisième avec trois des chevaux classés quatrièmes, ou celles comportant le cheval classé premier avec le cheval classé troisième avec deux des chevaux classés quatrièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé deuxième, le cheval classé troisième et trois des chevaux classés quatrièmes, ou celles comportant le cheval classé deuxième avec le cheval classé troisième avec deux des chevaux classés quatrièmes et avec un cheval classé à un rang supérieur au cinquième.
-
-o) Dans le cas de dead-heat de deux chevaux ou plus classés à la cinquième place, les combinaisons payables sont les combinaisons du cheval classé premier, du cheval classé deuxième, du cheval classé troisième et de deux chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec le cheval classé deuxième avec le cheval classé troisième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec le cheval classé deuxième avec le cheval classé quatrième avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec le cheval classé deuxième avec le cheval classé quatrième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé premier avec le cheval classé troisième avec le cheval classé quatrième avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé premier avec le cheval classé troisième avec le cheval classé quatrième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième, ou celles comportant le cheval classé deuxième avec le cheval classé troisième avec le cheval classé quatrième avec deux des chevaux classés cinquièmes, ou celles comportant le cheval classé deuxième avec le cheval classé troisième avec le cheval classé quatrième avec un des chevaux classés cinquièmes et avec un cheval classé à un rang supérieur au cinquième
-
-IV. – Dans le cas d'arrivée dead-heat, les combinaisons payables au rapport "Bonus 3" sont les suivantes, sauf cas prévu à l'article 99 :
+III. – Dans le cas d'arrivée dead-heat, les combinaisons payables au rapport "Bonus 3" sont les suivantes, sauf cas prévu à l'article 99 :
 
 a) Dans le cas de dead-heat de trois chevaux ou plus à la première place, les combinaisons payables sont toutes les combinaisons comportant trois chevaux classés premiers et deux chevaux classés tous deux à des rangs supérieurs au cinquième.
 
@@ -536,7 +484,7 @@ b) Lorsqu'une combinaison "Quinté Plus" comporte deux chevaux non-partants parm
 
 c) Lorsqu'une combinaison "Quinté Plus" comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à quatre fois le rapport "Bonus 4", sous réserve que les quatre chevaux ayant participé à la course aient été classés aux quatre premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée.
 
-d) Lorsqu'une combinaison "Quinté Plus" autre que celles visées au c) ci-dessus, comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à quatre fois le rapport "Bonus 4sur5" sous réserve que les quatre chevaux ayant participé à la course aient été classés parmi les cinq premières places de l'épreuve sans tenir compte de leur ordre respectif d’arrivée.
+d) Lorsqu'une combinaison “ Quinté Plus ” comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à deux fois le rapport “ Bonus 3 ”, sous réserve que trois des chevaux ayant participé à la course aient été classés aux trois premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée et que le quatrième cheval ait été classé à un rang supérieur au quatrième.
 
 e) Lorsqu'une combinaison "Quinté Plus" comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à deux fois le rapport "Bonus 3", sous réserve que trois des chevaux ayant participé à la course aient été classés aux trois premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée et que le quatrième cheval ait été classé à un rang supérieur au cinquième.
 
@@ -552,205 +500,147 @@ Article 92
 
 Calcul des rapports
 
-Pour l’ensemble du présent article, les enjeux sur la ou les combinaisons payables "Bonus 4", "Bonus 4sur5" et "Bonus 3", s’entendent y compris, le cas échéant, celles résultant de l’application des dispositions des b) à e) du I de l'article 91.
+Pour l'ensemble du présent article, les enjeux sur la ou les combinaisons payables “ Bonus 4 ” et “ Bonus 3 ” s'entendent y compris, le cas échéant, de celles résultant de l'application des dispositions des b à d du I de l'article 91.
 
 Le montant des paris remboursés puis celui de la déduction proportionnelle sur enjeux sont déduits du montant des enjeux, on obtient ainsi la masse à partager.
 
-6 % au maximum de cette masse à partager peuvent être réservés pour constituer un "Fonds de réserve Quinté Plus" selon les dispositions de l'article 95. On obtient ainsi le solde à partager. Le taux effectif appliqué est porté à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari "Quinté Plus" par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
+10 % au maximum de cette masse à partager peuvent être réservés pour constituer un “ Fonds de réserve Quinté Plus ” selon les dispositions de l'article 95. On obtient ainsi le solde à partager. Le taux effectif appliqué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari “ Quinté Plus ” par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
 
-Pour l’ensemble des dispositions suivantes et sauf stipulation contraire, le terme "enjeux", quand il est appliqué à des combinaisons payables, s’entend des enjeux payables nets de déduction proportionnelle sur enjeux.
+Pour l'ensemble des dispositions suivantes et sauf stipulation contraire, le terme “ enjeux ”, quand il est appliqué à des combinaisons payables, s'entend des enjeux payables nets de déduction proportionnelle sur enjeux.
 
-La valeur nette du coefficient de réservation défini à l’article 20 est égale à 0,8. Dans la suite de cet article, on entend par coefficient de réservation la valeur brute de ce coefficient.
+La valeur nette du coefficient de réservation défini à l'article 20 est égale à 0,8. Dans la suite de cet article, on entend par coefficient de réservation la valeur brute de ce coefficient.
 
-I. – Proportion minimum des rapports "Quinté Plus".
+I. - Proportion minimum des rapports “ Quinté Plus ”
 
-Sauf cas d'arrivée dead-heat prévus au a) du I de l'article 90, la proportion minimale entre un rapport brut commun "Quinté Plus Ordre" et "Quinté Plus Désordre" qui s’applique aux mêmes cinq chevaux est définie par le ratio entre 50 et le nombre de permutations de ces cinq chevaux, payables à un rapport "Quinté Plus Ordre", tels que définis ci-après :
+Sauf cas d'arrivée dead-heat prévus au a du I de l'article 90, la proportion minimale entre un rapport brut commun “ Quinté Plus Ordre ” et “ Quinté Plus Désordre ” qui s'applique aux mêmes cinq chevaux est définie par le ratio entre 50 et le nombre de permutations de ces cinq chevaux, payables à un rapport “ Quinté Plus Ordre ”, tels que définis ci-après :
 
-Cas d’arrivée
+Cas d'arrivée |
 
-|
+Nombre de permutations dans l'ordre exact |
 
-Nombre de permutations dans l’ordre exact
+Ratio |
 
-|
+Cas d'arrivée normale et cas d'arrivée dead-heat prévu au p du I de l'article 90. |
 
-Ratio
+1 |
 
-|
+50/1 |
 
-Cas d'arrivée normale et cas d'arrivée dead-heat prévu au p) du I de l'article 90.
+Cas d'arrivée dead-heat prévus aux b et i du I de l'article 90. |
 
-|
+24 |
 
-1
+50/24 |
 
-|
+Cas d'arrivée dead-heat prévus aux c et e du I de l'article 90. |
 
-50/1
+12 |
 
-|
+50/12 |
 
-Cas d'arrivée dead-heat prévus aux b) et i) du I de l'article 90.
+Cas d'arrivée dead-heat prévus aux d, j et m du I de l'article 90. |
 
-|
+6 |
 
-24
+50/6 |
 
-|
+Cas d'arrivée dead-heat prévus aux f, g et k du I de l'article 90. |
 
-50/24
+4 |
 
-|
+50/4 |
 
-Cas d'arrivée dead-heat prévus aux c) et e) du I de l'article 90.
+cas d'arrivée dead-heat prévus aux h, l, n et o du I de l'article 90. |
 
-|
+2 |
 
-12
+50/2 |
 
-|
+cas d'arrivée dead-heat prévus au a du I de l'article 90. |
 
-50/12
+120 |
 
-|
+1 |
 
-Cas d'arrivée dead-heat prévus aux d), j) et m) du I de l'article 90.
+II. - Excédent à répartir
 
-|
+a) Le total des enjeux sur la ou les combinaisons payables à un rapport “ Quinté Plus Ordre ” est multiplié par le ratio défini au I du présent article, correspondant au cas d'arrivée traité. A ce montant est ajouté le total des enjeux sur les autres combinaisons payables de ce pari. Le produit résultant de la multiplication du résultat ainsi obtenu par la valeur du coefficient de réservation fixée au cinquième alinéa du présent article est retiré du solde à partager pour déterminer l'excédent à répartir.
 
-6
+b) Si le montant de l'excédent à répartir est négatif, la fraction de la masse à partager réservée pour constituer le “ Fonds de réserve Quinté Plus ”, visée au troisième alinéa du présent article, est diminuée du montant nécessaire pour que l'excédent à répartir soit égal à zéro.
 
-|
+c) Si l'opération citée ci-avant ne permet pas d'obtenir un excédent à répartir égal à zéro et que l'excédent à répartir ainsi obtenu est inférieur ou égal en valeur absolue au montant total de la déduction proportionnelle sur enjeux, celle-ci est réduite à due proportion pour que l'excédent à répartir soit égal à zéro.
 
-50/6
+Si ce montant est négatif et supérieur en valeur absolue au montant total de la déduction proportionnelle sur enjeux, les calculs de répartition se font conformément aux dispositions prévues au b de l'article 94.
 
-|
+d) Si le montant de l'excédent à répartir est supérieur ou égal à zéro :
 
-Cas d'arrivée dead-heat prévus aux f), g) et k) du I de l'article 90.
+- 11,50 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Ordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Ordre ” ;
 
-|
+- 47,10 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Désordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Désordre ” ;
 
-4
+- 14,30 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 4 ”, sont affectés au calcul du rapport incrémental “ Bonus 4 ” ;
 
-|
+- 27,10 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 3 ”, sont affectés au calcul du rapport incrémental “ Bonus 3 ”.
 
-50/4
+III. - Calcul des rapports bruts communs avant application de l'article 97 dans le cas d'une arrivée normale
 
-|
+a) Rapport “ Bonus 3 ”
 
-cas d'arrivée dead-heat prévus aux h), l), n) et o) du I de l'article 90.
+Les enjeux sur les combinaisons payables à un rapport “ Bonus 3 ” sont ajoutés aux enjeux sur les combinaisons payables à un rapport “ Bonus 4 ”, aux enjeux sur les combinaisons payables à un rapport “ Quinté Plus Désordre ” et au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport “ Quinté Plus Ordre ”.
 
-|
+La répartition de l'excédent à répartir “ Bonus 3 ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Bonus 3 ”.
 
-2
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 3 ” est alors égal au total du montant du rapport incrémental “ Bonus 3 ” augmenté de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l'article 94.
 
-|
+b) Rapport “ Bonus 4 ”
 
-50/2
+Les enjeux sur les combinaisons payables à un rapport “ Bonus 4 ” sont ajoutés aux enjeux sur les combinaisons payables à un rapport “ Quinté Plus Désordre ” et au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport “ Quinté Plus Ordre ”.
 
-|
+La répartition de l'excédent à répartir “ Bonus 4 ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Bonus 4 ”.
 
-cas d'arrivée dead-heat prévus au a) du I de l'article 90.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 4 ” est alors égal au total du montant du rapport incrémental “ Bonus 4 ” augmenté du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l'article 94.
 
-|
+c) Rapport “ Quinté Plus Désordre ”
 
-120
+Les enjeux sur les combinaisons payables à un rapport “ Quinté Plus Désordre ” sont ajoutés au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport “ Quinté Plus Ordre ”.
 
-|
+La répartition de l'excédent à répartir “ Quinté Plus Désordre ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Quinté Plus Désordre ”.
 
-1
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Désordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
-|
+d) Rapport “ Quinté Plus Ordre ”
 
-II. – Excédent à répartir.
+L'excédent à répartir “ Quinté Plus Ordre ” est divisé par le total des enjeux sur la combinaison payable à un rapport “ Quinté Plus Ordre ”.
 
-a) Le total des enjeux sur la ou les combinaisons payables à un rapport "Quinté Plus Ordre" est multiplié par le ratio défini au I du présent article, correspondant au cas d’arrivée traité. A ce montant est ajouté le total des enjeux sur les autres combinaisons payables de ce pari. Le produit résultant de la multiplication du résultat ainsi obtenu par la valeur du coefficient de réservation fixée au cinquième alinéa du présent article est retiré du solde à partager pour déterminer l’excédent à répartir.
+Le quotient ainsi obtenu constitue le rapport brut incrémental du rapport “ Quinté Plus Ordre ”.
 
-b) Si le montant de l’excédent à répartir est négatif, la fraction de la masse à partager réservée pour constituer le "Fonds de réserve Quinté Plus", visée au troisième alinéa du présent article, est diminuée du montant nécessaire pour que l’excédent à répartir soit égal à zéro.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Ordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ” augmenté de la somme, multipliée par le ratio défini au I du présent article, du montant du rapport incrémental “ Quinté Plus Désordre ”, du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
-c) Si l’opération citée ci-avant ne permet pas d’obtenir un excédent à répartir égal à zéro, et que l’excédent à répartir ainsi obtenu est inférieur ou égal en valeur absolue au montant total de la déduction proportionnelle sur enjeux, celle-ci est réduite à due proportion pour que l’excédent à répartir soit égal à zéro.
+IV. - Calcul des rapports bruts communs avant application de l'article 97 dans les cas d'arrivée dead-heat
 
-Si ce montant est négatif et supérieur en valeur absolue au montant total de la déduction proportionnelle sur enjeux, les calculs de répartition se font conformément aux dispositions prévues au b) de l’article 94.
+a) Rapports “ Bonus 3 ” et “ Bonus 4 ”
 
-d) Si le montant de l’excédent à répartir est supérieur ou égal à zéro :
+Dans tous les cas d'arrivée dead-heat, le calcul de ces rapports est effectué conformément aux dispositions des a et b du III du présent article.
 
-- 4 % de cet excédent à répartir, appelés excédent à répartir "Quinté Plus Ordre", sont affectés au calcul du ou des rapports incrémentaux "Quinté Plus Ordre" ;
+b) Rapport “ Quinté Plus Désordre ”
 
-- 31 % de cet excédent à répartir, appelés excédent à répartir "Quinté Plus Désordre", sont affectés au calcul du ou des rapports incrémentaux "Quinté Plus Désordre " ;
+L'excédent à répartir “ Quinté Plus Désordre ” est divisé en autant de parts égales qu'il y a de combinaisons payables différentes par les chevaux qui les composent.
 
-- 10 % de cet excédent à répartir, appelés excédent à répartir "Bonus 4", sont affectés au calcul du rapport incrémental "Bonus 4" ;
+Chacune de ces parts est ensuite respectivement répartie au prorata du montant des enjeux sur chaque combinaison payable au rapport “ Quinté Plus Désordre ”, augmenté du produit du ratio déterminé au I du présent article correspondant au cas d'arrivée traité par les enjeux sur la ou les combinaisons payables “ Quinté Plus Ordre ”, comportant les mêmes chevaux.
 
-- 16 % de cet excédent à répartir, appelés excédent à répartir "Bonus 4sur5", sont affectés au calcul du rapport incrémental "Bonus 4sur5" ;
+Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport “ Quinté Plus Désordre ” de chacune des combinaisons payables, différentes par les chevaux qui les composent.
 
-- 39 % de cet excédent à répartir, appelés excédent à répartir "Bonus 3", sont affectés au calcul du rapport incrémental "Bonus 3".
+Le rapport brut commun “ Quinté Plus Désordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” de la combinaison payable comportant les mêmes cinq chevaux, augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
-III. – Calcul des rapports bruts communs avant application de l’article 97 dans le cas d’une arrivée normale.
+c) Rapport “ Quinté Plus Ordre ”
 
-a) Rapport "Bonus 3".
+L'excédent à répartir “ Quinté Plus Ordre ” est divisé en autant de parts égales qu'il y a de combinaisons payables différentes par les chevaux qui les composent.
 
-Les enjeux sur les combinaisons payables à un rapport "Bonus 3" sont ajoutées aux enjeux sur les combinaisons payables à un rapport "Bonus 4sur5", aux enjeux sur les combinaisons payables à un rapport "Bonus 4", aux enjeux sur les combinaisons payables à un rapport "Quinté Plus Désordre" et au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport "Quinté Plus Ordre".
+Chacune de ces parts est ensuite répartie au prorata des enjeux sur chaque combinaison payable au rapport “ Quinté Plus Ordre ” composée des mêmes cinq chevaux.
 
-La répartition de l’excédent à répartir "Bonus 3" au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport "Bonus 3".
+Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport “ Quinté Plus Ordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent.
 
-S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Bonus 3" est alors égal au total du montant du rapport incrémental "Bonus 3" augmenté de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l’article 94.
-
-b) Rapport "Bonus 4sur5".
-
-Les enjeux sur les combinaisons payables à un rapport "Bonus 4sur5" sont ajoutées aux enjeux sur les combinaisons payables à un rapport "Bonus 4", aux enjeux sur les combinaisons payables à un rapport "Quinté Plus Désordre" et au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport "Quinté Plus Ordre".
-
-La répartition de l’excédent à répartir "Bonus 4sur5" au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport "Bonus 4sur5".
-
-S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Bonus 4sur5" est alors égal au total du montant du rapport incrémental "Bonus 4sur5" augmenté du montant du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l’article 94.
-
-c) Rapport "Bonus 4".
-
-Les enjeux sur les combinaisons payables à un rapport "Bonus 4" sont ajoutées aux enjeux sur les combinaisons payables à un rapport "Quinté Plus Désordre" et au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport "Quinté Plus Ordre".
-
-La répartition de l’excédent à répartir "Bonus 4" au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport "Bonus 4".
-
-S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Bonus 4" est alors égal au total du montant du rapport incrémental "Bonus 4" augmenté du montant du rapport incrémental "Bonus 4sur5", du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l’article 94.
-
-d) Rapport "Quinté Plus Désordre".
-
-Les enjeux sur les combinaisons payables à un rapport "Quinté Plus Désordre" sont ajoutées au produit du ratio défini au I du présent article par les enjeux sur la combinaison payable à un rapport "Quinté Plus Ordre".
-
-La répartition de l’excédent à répartir "Quinté Plus Désordre" au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport "Quinté Plus Désordre".
-
-S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Quinté Plus Désordre" est alors égal au total du montant du rapport incrémental "Quinté Plus Désordre" augmenté du montant du rapport incrémental "Bonus 4", du montant du rapport incrémental "Bonus 4sur5", du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
-
-e) Rapport "Quinté Plus Ordre".
-
-L’excédent à répartir "Quinté Plus Ordre" est divisé par le total des enjeux sur la combinaison payable à un rapport "Quinté Plus Ordre".
-
-Le quotient ainsi obtenu constitue le rapport brut incrémental du rapport "Quinté Plus Ordre".
-
-S’il existe des enjeux payables à ce rang de rapport, le rapport brut commun "Quinté Plus Ordre" est alors égal au total du montant du rapport incrémental "Quinté Plus Ordre" augmenté de la somme, multipliée par le ratio défini au I du présent article, du montant du rapport incrémental "Quinté Plus Désordre", du montant du rapport incrémental "Bonus 4", du montant du rapport incrémental "Bonus 4sur5", du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
-
-IV. – Calcul des rapports bruts communs avant application de l’article 97 dans les cas d’arrivée dead-heat.
-
-a) Rapports "Bonus 3", "Bonus 4sur 5" et "Bonus 4".
-
-Dans tous les cas d’arrivée dead-heat, le calcul de ces rapports est effectué conformément aux dispositions des a), b) et c) du III du présent article.
-
-b) Rapport "Quinté Plus Désordre".
-
-L’excédent à répartir "Quinté Plus Désordre" est divisé en autant de parts égales qu'il y a de combinaisons payables différentes par les chevaux qui les composent.
-
-Chacune de ces parts est ensuite respectivement répartie au prorata du montant des enjeux sur chaque combinaison payable au rapport "Quinté Plus Désordre", augmenté du produit du ratio déterminé au I du présent article correspondant au cas d’arrivée traité par les enjeux sur la ou les combinaisons payables "Quinté Plus Ordre", comportant les mêmes chevaux.
-
-Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport "Quinté Plus Désordre" de chacune des combinaisons payables, différentes par les chevaux qui les composent.
-
-Le rapport brut commun "Quinté Plus Désordre" de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental "Quinté Plus Désordre" de la combinaison payable comportant les mêmes cinq chevaux, augmenté du montant du rapport incrémental "Bonus 4", du montant du rapport incrémental "Bonus 4sur5", du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
-
-c) Rapport "Quinté Plus Ordre".
-
-L’excédent à répartir "Quinté Plus Ordre" est divisé en autant de parts égales qu'il y a de combinaisons payables différentes par les chevaux qui les composent.
-
-Chacune de ces parts est ensuite répartie au prorata des enjeux sur chaque combinaison payable au rapport "Quinté Plus Ordre" composée des mêmes cinq chevaux.
-
-Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport "Quinté Plus Ordre" de chacune des combinaisons payables différentes par les chevaux qui les composent.
-
-Le rapport brut commun "Quinté Plus Ordre" de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental "Quinté Plus Ordre", augmenté de la somme, multipliée par le ratio défini au I du présent article correspondant au cas d’arrivée traité, du rapport incrémental "Quinté Plus Désordre" des mêmes cinq chevaux augmenté du montant du rapport incrémental "Bonus 4", du montant du rapport incrémental "Bonus 4sur5", du rapport incrémental "Bonus 3" et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
+Le rapport brut commun “ Quinté Plus Ordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ”, augmenté de la somme, multipliée par le ratio défini au I du présent article correspondant au cas d'arrivée traité, du rapport incrémental “ Quinté Plus Désordre ” des mêmes cinq chevaux augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
 Article 93
 
@@ -782,7 +672,7 @@ Un coefficient de réservation contraint est déterminé par la pondération de 
 
 Pour l’ensemble des dispositions suivantes et sauf stipulation contraire, le terme "enjeux", quand il est appliqué à des combinaisons payables, s’entend des enjeux payables nets de déduction proportionnelle sur enjeux.
 
-Le total des paiements des enjeux bruts payables à un rapport "Bonus 3", "Bonus 4sur5", "Bonus 4" et des enjeux bruts de la ou des combinaisons payables à un rapport "Quinté Plus Désordre" au rapport minimum en France visé à l’article 20, soit 1,10 €, est retiré de la masse à partager obtenue ci-avant.
+Le total des paiements des enjeux bruts payables à un rapport "Bonus 3", "Bonus 4" et des enjeux bruts de la ou des combinaisons payables à un rapport "Quinté Plus Désordre" au rapport minimum en France visé à l’article 20, soit 1,10 €, est retiré de la masse à partager obtenue ci-avant.
 
 De ce montant, est déduit le produit résultant de la multiplication du total des enjeux sur les diverses combinaisons payables à un rapport "Quinté Plus Ordre" par le coefficient de réservation contraint.
 
@@ -808,37 +698,19 @@ Si l’un des rapports nets obtenus est inférieur à 1,10 €, tous les paris d
 
 Article 95
 
-"Fonds de réserve Quinté Plus"
+“ Fonds de réserve Quinté Plus ”
 
-Le "Fonds de réserve Quinté Plus" résultant de l’application des dispositions du a) du 1) du I de l'article 21, du deuxième alinéa de l'article 92 et des dispositions de l’article 99, est mis en réserve pour constituer une "Tirelire" visée à l’article 96 et/ou un supplément visé à l’article 97.
+Le “ Fonds de réserve Quinté Plus ” résultant de l'application des dispositions du a du 1 du I de l'article 21 et du troisième alinéa de l'article 92 est mis en réserve pour constituer un supplément visé à l'article 97.
 
-Article 96
+Le “ Fonds de réserve Quinté Plus ” peut également être abondé ponctuellement, au-delà de son montant disponible, de dotations spécifiques d'annonceurs ou du groupement.
 
-"Tirelire"
-
-a) Une "Tirelire" constituée par amputation du "Fonds de réserve Quinté Plus" par multiple entier de 1 000 € net à l’issue des opérations de répartition de chaque "Quinté Plus" est redistribuée selon les modalités définies au b) ci-dessous, lors du premier "Quinté Plus" suivant celui sur lequel la "Tirelire" a été constituée.
-
-La "Tirelire" peut également être abondée ponctuellement par une amputation spécifique supplémentaire du "Fonds de réserve Quinté Plus" et redistribuée, lors d’un "Quinté Plus" déterminé, selon les modalités définies au b) ci-dessous.
-
-Dans le cas où, lors de ce "Quinté Plus" aucune combinaison payables à un rapport "Quinté Plus Ordre" ne comporterait le "N° Plus Gagnant", ou dans le cas où ce "Quinté Plus" ne serait pas organisé, l’abondement supplémentaire, visé à l’alinéa ci-dessus, est réaffecté au "Fonds de réserve Quinté Plus".
-
-b) Sauf cas prévu au troisième alinéa ci-dessous, le montant de la "Tirelire" distribué ne peut être supérieur au montant du "Fonds de réserve Quinté Plus" disponible. Il est divisé en autant de parts égales qu’il y a d’enjeux sur la ou les combinaisons payables à un rapport "Quinté Plus Ordre" comportant le "N° Plus Gagnant" déterminé selon les modalités définies au premier alinéa du 3) de l’article 89.
-
-Le quotient ainsi obtenu constitue le rapport brut commun "Tirelire" pour chacun des enjeux sur la ou les combinaisons payables à un rapport "Quinté Plus Ordre" comportant le "N° Plus Gagnant".
-
-La "Tirelire" peut également être abondée ponctuellement au-delà du montant du "Fonds de réserve Quinté Plus" disponible, de dotations spécifiques d’annonceurs ou du groupement sur décision prise par son conseil d’administration.
-
-Dans le cas où aucune des combinaisons payables à un rapport "Quinté Plus Ordre" ne comporte le "N° Plus Gagnant", ou dans le cas où il n’est pas organisé de "Quinté Plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire" constitué sur l’épreuve considérée est réaffecté au "Fonds de réserve Quinté Plus".
-
-Le montant de la "Tirelire" ainsi que la journée sur laquelle il est mis en jeu sont portés à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari "Quinté Plus" de la journée considérée.
-
-S’il est fait application des dispositions prévues à l’article 18 ou à l’article 24, le montant de la "Tirelire" éventuellement déjà communiqué est rectifié et porté à la connaissance des parieurs dans les meilleurs délais.
+Article 96 (Supprimé)
 
 Article 97
 
 Supplément sur le rapport brut commun "Quinté Plus Ordre"
 
-Un montant supplémentaire, dont le nom commercial retenu par le groupement est porté à la connaissance des parieurs, affecté aux combinaisons payables à un rapport "Quinté Plus Ordre" visé au a) du 1) de l’article 89, peut être proposé aux parieurs lors de certaines journées.
+Un montant supplémentaire, dont le nom commercial retenu par le groupement est porté à la connaissance des parieurs, affecté aux combinaisons payables à un rapport "Quinté Plus Ordre" visé au a) de l’article 89, peut être proposé aux parieurs lors de certaines journées.
 
 Le montant de ce supplément, constitué par amputation du "Fonds de réserve Quinté Plus" par multiple entier de 1 000 € net, ne peut être supérieur au montant du "Fonds de réserve Quinté Plus" disponible.
 
@@ -920,13 +792,11 @@ Pour l’ensemble des dispositions du présent article les termes "enjeu" ou "en
 
 b) S’il n'y a cumulativement aucun enjeu sur la combinaison payable au rapport "Quinté Plus Ordre" et au rapport "Quinté Plus Désordre", ou, en cas de dead-heat, pour l’une des combinaisons payables au rapport "Quinté Plus Ordre" et la même payable au rapport "Quinté Plus Désordre", l’excédent à répartir "Quinté Plus Ordre" et l’excédent à répartir "Quinté Plus Désordre" afférents à cette combinaison sont affectés à la détermination du rapport "Bonus 4".
 
-2. a) Si, après application des dispositions du b) du 1 ci-avant, il n'y a aucun enjeu également sur aucune des combinaisons payables au rapport "Bonus 4", la totalité de l’excédent à répartir "Bonus 4" est affectée au calcul du rapport "Bonus 4sur5".
+2. a) Si, après application des dispositions du b du 1 ci-avant, il n'y a aucun enjeu également sur aucune des combinaisons payables au rapport “ Bonus 4 ”, la totalité de l'excédent à répartir “ Bonus 4 ” est affectée au calcul du rapport “ Bonus 3 ”.
 
-b) Si, après application des dispositions du a) ci-avant, il n'y a aucun enjeu également sur aucune des combinaisons payables au rapport "Bonus 4sur5", la totalité de l’excédent à répartir "Bonus 4sur5" est affectée au calcul du rapport "Bonus 3".
+b) Si enfin, il n'y a aucun enjeu sur aucune des combinaisons payables aux rapports “ Quinté Plus Ordre ”, “ Quinté Plus Désordre ”, “ Bonus 4 ” et “ Bonus 3 ”, tous les paris du présent chapitre sont remboursés.
 
-c) Si enfin, il n’y a aucun enjeu sur aucune des combinaisons payables aux rapports "Quinté Plus Ordre", "Quinté Plus Désordre", "Bonus 4", "Bonus 4sur5" et "Bonus 3", tous les paris du présent chapitre sont remboursés.
-
-3. a) Lorsqu'une course ne comporte que quatre chevaux classés à l'arrivée, les excédents à répartir "Quinté Plus Ordre", "Quinté Plus Désordre" et "Bonus 4sur5" sont ajoutés à l’excédent à répartir "Bonus 4" pour constituer un excédent à répartir unique qui est réparti entre tous les parieurs ayant désigné l'une des combinaisons comportant les quatre chevaux classés sans tenir compte de l'ordre d'arrivée. S'il n'y a aucun enjeu sur aucune de ces combinaisons payables, il est constitué une masse unique répartie dans les conditions énoncées au b) ci-dessous.
+3. a) Lorsqu'une course ne comporte que quatre chevaux classés à l'arrivée, les excédents à répartir “ Quinté Plus Ordre ” et “ Quinté Plus Désordre ” sont ajoutés à l'excédent à répartir “ Bonus 4 ” pour constituer un excédent à répartir unique qui est réparti entre tous les parieurs ayant désigné l'une des combinaisons comportant les quatre chevaux classés sans tenir compte de l'ordre d'arrivée. S'il n'y a aucun enjeu sur aucune de ces combinaisons payables, il est constitué une masse unique répartie dans les conditions énoncées au b ci-dessous.
 
 b) Lorsqu'une course ne comporte que trois chevaux classés à l'arrivée, le solde à partager est réparti entre tous les parieurs ayant désigné l'une des combinaisons comportant les trois chevaux classés sans tenir compte de l'ordre d'arrivée.
 
@@ -3110,21 +2980,7 @@ Le titulaire du compte clôturé dans les conditions définies à l’alinéa pr
 
 Article 178
 
-La loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, s’applique aux informations transmises qui revêtent un caractère obligatoire pour l’ouverture d’un compte dont le destinataire est le groupement.
-
-Les informations nominatives recueillies dans le cadre de la demande d’ouverture de compte ne peuvent pas être cédées ou mises à disposition d’organismes extérieurs à des fins commerciales.
-
-Ces informations peuvent faire l’objet de communication aux seuls destinataires déclarés à la Commission nationale de l’informatique et des libertés, pour les seules nécessités de gestion, de prises de paris ou d’actions commerciales du groupement.
-
-Le titulaire de compte bénéficie, conformément aux dispositions des articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 précitée, d’un droit d’accès, de rectification et d’opposition au traitement à des fins de marketing, pour les données le concernant auprès du groupement.
-
-Il adresse sa demande à :
-
-PMU Service Client
-
-TSA 61 501
-
-75 734 Paris Cedex 15.
+Les dispositions de l'article 7-1 s'appliquent aux informations transmises qui revêtent un caractère obligatoire pour l'ouverture d'un compte dont le destinataire est le groupement.
 
 Article 179
 
@@ -3320,7 +3176,7 @@ Un parieur déjà en compte peut accéder au service de prise de paris par messa
 
 Les autres parieurs intéressés font une demande d’ouverture de compte courant auprès du groupement, selon les modalités définies au chapitre 4 du présent titre. Pour pouvoir bénéficier de ce service, le formulaire spécial d'ouverture de compte mentionné à l’article 176 doit impérativement préciser le numéro de téléphone portable du parieur en compte à partir duquel il souhaite enregistrer ses paris.
 
-Les parieurs intéressés autorisent le groupement, dans le respect des dispositions de la loi n° 78‑17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à utiliser et à transmettre leur numéro de téléphone portable à ses sous-traitants et partenaires pour les besoins de l'enregistrement de leurs paris.
+Les parieurs intéressés autorisent le groupement, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, à utiliser et à transmettre leur numéro de téléphone portable à ses sous-traitants et partenaires pour les besoins de l'enregistrement de leurs paris.
 
 Le montant minimum et maximum à engager et les types de paris proposés par message texte sont portés à la connaissance du parieur. Toute modification ultérieure du montant d’enjeu minimum ou maximum ainsi que toute modification de type de pari proposé sont notifiées par écrit au parieur en compte.
 
@@ -3590,7 +3446,7 @@ Le porteur doit présenter tout document écrit probant de son identité :
 
 - lorsqu'un porteur fait opposition à un support dans les conditions prévues à l'article 201-8 ainsi qu'à la clôture d'un support dans les conditions prévues à l'article 201-9.
 
-Le paiement est alors opéré après enregistrement, par le groupement, des nom, prénom, date de naissance, de l'adresse, du type et du numéro de la pièce d'identité du porteur ainsi que du montant des sommes qu'il a gagnées. Ces informations sont conservées pendant cinq ans.
+Le paiement est alors opéré conformément aux dispositions du e de l'article 25.
 
 Article 201-7
 
@@ -3600,11 +3456,7 @@ Le groupement est soumis aux dispositions du code monétaire et financier et not
 
 De la même façon et dans ce cadre, le groupement peut suspendre temporairement les transactions financières, le paiement des gains ou le fonctionnement d'un support.
 
-La loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'applique aux informations nominatives, fournies au groupement ou aux sociétés de courses, qui revêtent un caractère obligatoire pour tout paiement par chèque.
-
-Ces informations ne sont pas cédées ou mises à disposition d'organismes extérieurs à des fins commerciales. Ces informations peuvent faire l'objet de communication aux seuls destinataires déclarés à la Commission nationale de l'informatique et des libertés, pour les seules nécessités de gestion ou d'actions commerciales du groupement.
-
-Cette loi garantit au porteur un droit d'accès, de rectification ou d'opposition au traitement de ses données personnelles à des fins de marketing auprès du groupement. Dans ce cas, il adresse sa demande à : PMU Service client, TSA 61501,75734 Paris Cedex 15.
+Les dispositions de l'article 7-1 s'appliquent aux informations nominatives, fournies au groupement ou aux sociétés de courses, qui revêtent un caractère obligatoire pour tout paiement par chèque.
 
 Article 201-8
 
@@ -3720,21 +3572,21 @@ Article 205
 
 Retraits des gains
 
-Pour effectuer un retrait le porteur doit présenter son support électronique à un guichet d’un hippodrome offrant cette possibilité et s’authentifier.
+Pour effectuer un retrait le porteur doit présenter son support électronique à un guichet d'un hippodrome offrant cette possibilité et s'authentifier.
 
 Le porteur ne peut retirer que des gains de son support électronique.
 
 Le règlement des sommes dont le retrait est demandé par le porteur sur son solde créditeur est fait par chèques ou en espèces dans les conditions fixées ci-dessous :
 
-- Tous les retraits d’un montant unitaire supérieur à 2 000 € sont exclusivement payables par monnaie scripturale. Pour tout retrait d’un gain effectué par monnaie scripturale, y compris ceux effectués à la demande du porteur, le paiement est opéré uniquement sur présentation de tout document écrit probant de l’identité du porteur et après enregistrement par la société de courses ou son prestataire ayant effectué le paiement, des nom, prénom, date de naissance, de l’adresse, du type et du numéro de la pièce d’identité du porteur de ce support électronique ainsi que du montant des sommes qu’il a gagnées. Ces informations sont conservées pendant cinq ans.
+- tous les retraits d'un montant unitaire supérieur à 2 000 € sont exclusivement payables par monnaie scripturale. Pour tout retrait d'un gain effectué par monnaie scripturale, y compris ceux effectués à la demande du porteur, la société de courses ou son prestataire est tenu de s'assurer, par la présentation de tout document écrit probant, de l'identité du porteur percevant des sommes supérieures à 2 000 € à la fin d'une transaction de paris et d'enregistrer les nom et adresse du porteur, ainsi que le montant des sommes qu'il a perçues. Ces informations sont conservées pendant cinq ans. La société de courses ou son prestataire vérifie l'identité du porteur par la présentation de l'original d'un document officiel en cours de validité comportant sa photographie et soit par la prise d'une copie de ce document, soit par la collecte des mentions suivantes : les nom, prénoms, date et lieu de naissance de la personne, ainsi que la nature, les date et lieu de délivrance du document et les nom et qualité de l'autorité ou de la personne qui a délivré le document et, le cas échéant, l'a authentifié ;
 
-- Tout paiement peut, à l'initiative de la société de courses ou de son prestataire, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
+-tout paiement peut, à l'initiative de la société de courses ou de son prestataire, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
 
-La loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés s’applique aux informations nominatives, fournies à la société de courses ou à son prestataire, qui revêtent un caractère obligatoire pour toute identification du porteur d’un support électronique.
+La loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'applique aux informations nominatives, fournies à la société de courses ou à son prestataire, qui revêtent un caractère obligatoire pour toute identification du porteur d'un support électronique.
 
-Ces informations ne sont pas cédées ou mises à disposition d’organismes extérieurs à des fins commerciales. Elles peuvent faire l’objet de communication aux seuls destinataires déclarés à la Commission nationale de l’informatique et des libertés, pour les seules nécessités de gestion de la société de courses.
+Ces informations ne sont ni cédées ni mises à disposition d'organismes extérieurs à des fins commerciales. Elles peuvent faire l'objet de communication aux seuls destinataires identifiés pour les seules nécessités de gestion de la société de courses.
 
-Cette loi garantit au porteur un droit d’accès, de rectification ou d’opposition au traitement de ses données personnelles à des fins de marketing, auprès de la société de courses ou de son prestataire ayant effectué le paiement à l’occasion duquel ces informations ont été collectées.
+Les dispositions des articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée précitée garantissent au porteur tout droit lié au traitement de ses données personnelles, notamment les droits d'accès, de rectification ou d'opposition à des fins de marketing, auprès de la société de courses ou de son prestataire ayant effectué le paiement à l'occasion duquel ces informations ont été collectées.
 
 Article 206
 
@@ -3852,25 +3704,27 @@ Après versement de l'enjeu, l'enregistrement du pari est matérialisé par l'é
 
 Chaque récépissé comporte, notamment, les éléments d'identification suivants :
 
-a) la référence du poste d'enregistrement ;
+a) La date et le numéro de la réunion ainsi que le nom de l'hippodrome ;
 
-b) le jour et l'heure de la date d'émission ;
+b) Le numéro de la course et l'heure prévisionnelle de départ ;
 
-c) un numéro séquentiel ;
+c) Le type et la formule de pari engagé ;
 
-d) la date et le numéro de la réunion ;
+d) Les numéros des chevaux ;
 
-e) le numéro de la course ;
+e) Le cas échéant, tout élément relatif au service ou spécifique au pari ;
 
-f) le montant de l'enjeu versé ;
+f) Le montant de l'enjeu versé ;
 
-g) les numéros des chevaux ;
+g) La référence du poste d'enregistrement ;
 
-h) le type et la formule de pari engagé ;
+h) Un code de sécurité ;
 
-i) un code de sécurité ;
+i) Le jour et l'heure de la date d'émission ;
 
-j) un sceau cryptographique.
+j) Une référence séquentielle ;
+
+k) Un sceau cryptographique ou un code QR.
 
 Le parieur est tenu de contrôler immédiatement la conformité des éléments imprimés sur le ou les récépissés avec le ou les paris qu'il souhaite engager, aucune réclamation sur ce point ne pouvant, par la suite, être admise.
 
@@ -3906,9 +3760,11 @@ Article 211
 
 Le présent règlement est applicable en Nouvelle-Calédonie dans les conditions suivantes :
 
-a) à l’article 25, le montant : 300 € est remplacé par 36 000 francs CFP, et le montant : 2 000 € est remplacé par 240 000 francs CFP ;
+a) A l'article 25, le montant de 300 € est remplacé par le montant de 36 000 francs CFP, et aux articles 14 et 25, le montant de 2 000 € est remplacé par le montant de 240 000 francs CFP ;
 
-b) les autres montants exprimés en euros dans le présent règlement sont remplacés par leur contre-valeur en monnaie locale.
+b) Les autres montants exprimés en euros dans le présent règlement sont remplacés par leur contre-valeur en monnaie locale ;
+
+c) Dans les postes d'enregistrement implantés en Nouvelle-Calédonie, le montant des sommes engagées à la fin d'une transaction de paris ne peut être supérieur à 240 000 francs CFP.
 
 ANNEXE
 
