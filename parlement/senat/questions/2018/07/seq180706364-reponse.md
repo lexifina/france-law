@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706364
+
+- Question : [SEQ180706364](seq180706364.md) — Conditions de travail des parlementaires
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-01-10, page 112*
+
+Les travaux du Comité Action publique 2022 (CAP 22) ont été conduits selon une méthode de travail visant à responsabiliser les ministères : des itérations régulières ont ainsi été organisées avec eux tout au long du processus de construction des propositions. À l'issue des travaux, les membres du Comité ont remis leurs recommandations à chaque ministère et les échanges se sont poursuivis jusqu'aux arbitrages. Ceux-ci ont donné lieu à l'élaboration d'un plan de transformation pour chaque ministère, dans lesquels on retrouve près de 75 % des recommandations du Comité, qu'il s'agisse des politiques publiques ou de l'organisation des services publics : réforme de l'audiovisuel public, réforme du système de santé, transformation de l'administration fiscale, accompagnement des entreprises par les chambres de commerce et de l'industrie. Ces plans de transformation ont été publiés le 29 octobre 2018 à l'occasion du 2ème Comité interministériel de la transformation publique, dans la Stratégie pour la transformation publique du Gouvernement, qui présente les grands axes de la transformation publique engagée. Le rapport du CAP 22 a ainsi constitué un support aux échanges avec les ministères et l'ensemble de ces travaux se sont concrétisés dans les plans de transformation. Le Gouvernement avait annoncé qu'il communiquerait d'abord progressivement les réformes qu'il engageait, afin de faire porter les débats sur la nature profonde de chacune des réformes et que le rapport serait publié à l'issue de l'ensemble des annonces. C'est aujourd'hui chose faite puisque le rapport est disponible en ligne (et notamment sur www.modernisation.gouv.fr).
