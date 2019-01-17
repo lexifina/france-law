@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806571
+
+- Question : [SEQ180806571](seq180806571.md) — Nombre de mandats successifs des membres de la délégation du personnel du comité social et économique
+
+## Réponse
+
+*Travail, JO du 2019-01-17, page 338*
+
+L'article L. 2314-33 du code du travail dispose que les membres de la délégation du personnel du comité social et économique sont élus pour quatre ans. Il précise que dans les entreprises dont l'effectif est compris entre cinquante et trois cents salariés, le nombre de mandats successifs est limité à trois, sauf si le protocole pré-électoral en dispose autrement. Dans les entreprises de plus de trois cents salariés, cette limitation à trois mandats successifs ne peut faire l'objet de dérogations. Par ces dispositions, le Gouvernement a souhaité assurer un renouvellement régulier des élus au sein des instances représentatives du personnel des plus grandes entreprises afin de garantir un dialogue social de qualité et au plus proche de la situation des salariés de l'entreprise. En revanche, dans les entreprises de moins de cinquante salariés, de nombreux procès-verbaux de carence sont établis à chaque cycle électoral faute de candidats aux élections professionnelles (63 % des entreprises de moins de vingt salariés et 35 % des entreprises dont l'effectif est compris entre vingt et quarante-neuf salariés sont dépourvues d'instances représentatives du personnel selon la dernière Enquête réponse de la DARES). Afin d'encourager le dialogue social dans ces entreprises et éviter que les salariés ne puissent perdre une représentation aussi fondamentale, le Gouvernement n'a pas souhaité apporter de limitation dans le nombre de mandats successifs auxquels un élu du personnel peut prétendre. Ainsi, le nombre de mandats successifs n'est pas limité dans ces entreprises et le protocole pré-électoral ne peut prévoir de dérogations.
