@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605766
+
+- Question : [SEQ180605766](seq180605766.md) — Mesures envisagées afin de réduire l'addiction aux jeux vidéo chez les jeunes
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-01-17, page 323*
+
+Les jeux vidéo apparaissent comme une des pratiques d'écrans les plus courantes à l'adolescence : au collège comme au lycée, la majorité des élèves déclare y jouer au moins une fois par semaine (86 %). Après la 3ème, cette pratique se recentre le plus souvent sur un ou deux jeux favoris. Ce processus s'accompagne parfois d'une intensification, ce qui peut avoir des conséquences négatives sur la santé et le bien-être du jeune. Face à ce phénomène, plusieurs mesures de prévention de tous les usages excessifs et addictions ont été inscrites dans le plan national de santé publique « Priorité prévention ». Ce dernier prévoit un renforcement des consultations jeunes consommateurs sur le territoire, pour accueillir les jeunes et leurs familles, notamment lorsqu'ils sont en difficulté avec leur consommation mais aussi avec leurs utilisations des jeux vidéo. Il prévoit également de généraliser dans les établissements scolaires les « ambassadeurs élèves » dont le rôle est de partager des messages de prévention et de promotion de la santé. Enfin, les programmes de développement des compétences psychosociales de l'enfant et de l'adolescent vont se poursuivre dans les écoles et les collèges, en lien avec le socle commun de connaissances, de compétences et de culture, et avec les enseignements. Il s'agit de permettre au jeune de faire des choix éclairés en matière de santé et d'exploiter ses facultés intellectuelles et physiques en ayant confiance en sa capacité à réussir et à progresser. En outre, le Haut conseil de la santé publique a été saisi afin qu'il produise des recommandations de bonnes pratiques en matière d'utilisation des écrans chez les jeunes de 0 à 18 ans.
