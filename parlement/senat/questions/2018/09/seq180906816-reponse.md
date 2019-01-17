@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906816
+
+- Question : [SEQ180906816](seq180906816.md) — Réalisation d'un stage à l'issue des études supérieures
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2019-01-17, page 301*
+
+Régies par la loi n° 2014-788 du 10 juillet 2014 tendant au développement, à l'encadrement des stages et à l'amélioration du statut des stagiaires, complétée par le décret n° 2014-1420 du 27 novembre 2014 modifié par le décret n° 2017-1652 du 30 novembre 2017, les conditions de réalisation d'un stage tendent à assurer un accompagnement pédagogique de qualité et à améliorer le statut des étudiants stagiaires. Afin de lutter contre les dérives, la réglementation impose « un volume pédagogique d'enseignement supérieur effectué en présence des élèves ou des étudiants de 50 heures au minimum par année d'enseignement ». Actuellement, les formations uniquement à distance ne peuvent pas proposer de stage. Qu'il soit obligatoire (participant à la diplomation) ou qu'il soit facultatif (non indispensable pour l'obtention du diplôme), le stage est un dispositif de professionnalisation d'un cursus, inscrit dans sa maquette de formation. À ce jour, les évolutions réglementaires ne portent pas sur l'octroi d'une convention de stage hors cursus par un établissement à ses diplômés ou sur l'extension des durées des conventions de stage au-delà de l'année universitaire. Après l'obtention de son diplôme et avant de trouver un contrat de travail, un jeune a la possibilité, de développer son expérience professionnelle grâce aux différentes formes du service civique : l'engagement volontaire de service civique, le volontariat associatif, le volontariat international en administration ou en entreprise, le volontariat de solidarité international, le service volontaire européen ou le service civique des sapeurs-pompiers.
