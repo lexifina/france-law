@@ -3456,7 +3456,7 @@ TOTAL PETROCHEMICALS France
 
 |
 
-TOTAL PETROCHEMICALS France - usine de Carling Saint-Avold
+TOTAL PETROCHEMICALS France-usine de Carling Saint-Avold
 
 |
 
@@ -3480,19 +3480,19 @@ TOTAL PETROCHEMICALS France - usine de Carling Saint-Avold
 
 |
 
-39 257
+24 044
 
 |
 
-38 467
+23 562
 
 |
 
-37 673
+23 073
 
 |
 
-1 868 187
+1 823 469
 
 |
 
@@ -4998,9 +4998,9 @@ Lafarge Ciments - usine de Contes |
 
 FR000000000000594 |
 
-DALKIA |
+SA ENGIE Energie Services |
 
-DALKIA-ex COMETHERM-Chaufferie Saint Augustin |
+Chaufferie Saint Augustin |
 
 6 378 |
 
@@ -5550,9 +5550,9 @@ Lyondell Chimie France SAS |
 
 FR000000000000621 |
 
-BPO ou BASELL POLYOLEFINES |
+CPB-Compagnie Pétrochimique de Berre |
 
-Usine chimique de Berre |
+Unités PVC, Kraton et Additifs situées à l'Usine Chimique de Berre (UCB) |
 
 353 000 |
 
@@ -5562,21 +5562,21 @@ Usine chimique de Berre |
 
 334 398 |
 
-328 061 |
+127 149 |
 
-321 665 |
+124 670 |
 
-315 187 |
+122 159 |
 
-308 688 |
+119 640 |
 
-2 648 533 |
+1 868 550 |
 
 FR000000000000622 |
 
-BPO ou BASELL POLYOLEFINES |
+BASELL POLYOLEFINES (BPO) |
 
-Usine chimique de l'Aubette |
+Unités de l'Usine Chimique de l'Aubette et les unités EBD et DIB situées à l'Usine Chimique de Berre (UCB) |
 
 845 760 |
 
@@ -5586,15 +5586,15 @@ Usine chimique de l'Aubette |
 
 801 189 |
 
-786 010 |
+986 922 |
 
-770 684 |
+967 679 |
 
-755 165 |
+948 193 |
 
-739 592 |
+928 640 |
 
-6 345 679 |
+7 125 662 |
 
 FR000000000000623 |
 
@@ -7794,7 +7794,7 @@ FR000000000000724
 
 |
 
-Aéroports De Paris - CDG Energie et Logistique - Pôle Production d'Energie
+Aéroports De Paris-CDG Energie et Logistique-Pôle Production d'Energie
 
 |
 
@@ -7814,27 +7814,27 @@ CTFE Bâtiment 5400
 
 |
 
-38 774
+24 525
 
 |
 
-33 422
+21 140
 
 |
 
-28 244
+17 865
 
 |
 
-23 233
+14 695
 
 |
 
-18 402
+11 640
 
 |
 
-292 257
+240 047
 
 |
 

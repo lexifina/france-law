@@ -944,7 +944,7 @@ FR-new-05201630
 
 |
 
-AGRALIA - Saint-Paul-les-DAX
+AGRALIA-Saint Paul les DAX
 
 |
 
@@ -964,27 +964,27 @@ AGRALIA Laluque
 
 |
 
-1 216
+608
 
 |
 
-1 048
+524
 
 |
 
-885
+443
 
 |
 
-727
+364
 
 |
 
-575
+288
 
 |
 
-9 165
+6 941
 
 |
 
@@ -4932,19 +4932,19 @@ ARMSTRONG BUILDING PRODUCTS SAS
 
 |
 
-23 907
+29 542
 
 |
 
-22 466
+27 096
 
 |
 
-21 065
+24 727
 
 |
 
-239 740
+253 667
 
 |
 
@@ -5576,11 +5576,11 @@ FR-new-06102436
 
 |
 
-Kerneos
+IMERYS ALUMINATES SA
 
 |
 
-Kerneos Aluminate technologies usine du Teil
+IMERYS ALUMINATES - technologies usine du Teil
 
 |
 
@@ -8496,11 +8496,11 @@ FR-new-06401040
 
 |
 
-Kerneos
+IMERYS ALUMINATES SA
 
 |
 
-Kerneos usine de Fos-sur-Mer
+IMERYS ALUMINATES SA-Usine de Fos sur Mer
 
 |
 
@@ -11360,11 +11360,11 @@ FR-new-07000631
 
 |
 
-Vallourec Drilling Products France
+NOV GRANT PRIDECO
 
 |
 
-Vallourec Drilling France Aulnoye Aymeries
+Usine d'Aulnoye-Aymeries
 
 |
 
@@ -12084,19 +12084,19 @@ Venator France sas-usine de Calais
 
 |
 
-126 210
+-
 
 |
 
-123 669
+-
 
 |
 
-121 119
+-
 
 |
 
-1 117 460
+746 462
 
 |
 
@@ -13760,11 +13760,11 @@ FR-new-25200001
 
 |
 
-AREVA NP
+FRAMATOME
 
 |
 
-AREVA NP
+FRAMATOME
 
 |
 
@@ -14115,6 +14115,126 @@ ICT France
 129 370
 
 |
+
+FR-new-06410871 |
+
+Lyondell Basell Services France SAS |
+
+LBSF-Lyondell Basell Services France |
+
+- |
+
+- |
+
+- |
+
+- |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+FR-new-03012500 |
+
+Dalkia |
+
+Estia chaleur |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03012743 |
+
+Dalkia |
+
+COGESTAR 3 |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-05208343 |
+
+TERÉGA |
+
+Station de compression de Sauveterre-de-Guyenne |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03012705 |
+
+KNAUF INSULATION |
+
+KNAUF INSULATION site de Ilange |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 NOTA :
 

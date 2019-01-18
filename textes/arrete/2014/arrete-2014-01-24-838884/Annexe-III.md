@@ -945,3 +945,57 @@ Aubert et Duval-site de Pamiers
 16 452
 
 |
+
+FR-new-10400104
+
+|
+
+NOVAPEX
+
+|
+
+NOVAPEX |
+
+- |
+
+1 332 |
+
+1 443 |
+
+1 417 |
+
+1 391 |
+
+1 365 |
+
+1 339 |
+
+1 313 |
+
+9 600 |
+
+FR-new-05904909 |
+
+SOLVAY Opérations France
+
+|
+
+SLV-Ta-SOLEXIS |
+
+- |
+
+- |
+
+352 |
+
+675 |
+
+662 |
+
+650 |
+
+638 |
+
+625 |
+
+3 602 |

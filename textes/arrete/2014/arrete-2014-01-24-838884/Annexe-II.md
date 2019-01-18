@@ -1496,11 +1496,11 @@ FR000000000000047
 
 |
 
-VILLE D'AMIENS
+AMIENS ENERGIES
 
 |
 
-Chaufferie Opac Nord "Le Pigeonnier"
+Chaufferie OPAC Nord " Le Pigeonnier "
 
 |
 
@@ -7784,11 +7784,11 @@ FR000000000000220
 
 |
 
-IMERYS TC site de Limonest
+EDILIANS
 
 |
 
-IMERYS TC site de Pargny-sur-Saulx Cul-de-Fer
+EDILIANS site de Pargny-sur-Saulx Cul-de-Fer
 
 |
 
@@ -8840,7 +8840,7 @@ FR000000000000246
 
 |
 
-WEPA TROYES
+WEPA France
 
 |
 
@@ -9992,11 +9992,11 @@ FR000000000000278
 
 |
 
-Ahlstrom Specialties SAS
+AHLSTROM-MUNKSJO SPECIALITIES
 
 |
 
-Ahlstrom Specialties
+AHLSTROM-MUNKSJO SPECIALITIES
 
 |
 
@@ -11768,11 +11768,11 @@ FR000000000000319
 
 |
 
-IMERYS TC
+EDILIANS
 
 |
 
-IMERYS TC Site de COMMENAILLES
+EDILIANS Site de COMMENAILLES
 
 |
 
@@ -13400,11 +13400,11 @@ FR000000000000364
 
 |
 
-EMIN LEYDIER
+SAICA EL
 
 |
 
-Emin Leydier usine de Champblain
+SAICA EL-Usine de Champblain
 
 |
 

@@ -5504,11 +5504,11 @@ FR000000000000889
 
 |
 
-IMERYS TC
+EDILIANS
 
 |
 
-IMERYS Terre Cuite site Léguevin
+EDILIANS Site Léguevin
 
 |
 
@@ -10736,11 +10736,11 @@ FR000000000001049
 
 |
 
-SIAé - Atelier Industrielle de l'Aéronautique de Clermont-Ferrand
+MINISTERE DES ARMEES
 
 |
 
-SIAé/AIA-CLERMONT-FERRAND
+Chaufferie AIACF
 
 |
 
@@ -11438,19 +11438,19 @@ Essity Opérations France Usine de Gien
 
 |
 
-49 234
+62 578
 
 |
 
-48 184
+61 259
 
 |
 
-47 136
+59 941
 
 |
 
-420 794
+460 018
 
 |
 
@@ -13282,11 +13282,11 @@ FR000000000001131
 
 |
 
-COGESTAR 2
+COGESTAR 3
 
 |
 
-COGESTAR 2 - LTR
+COGESTAR 3-LTR
 
 |
 
@@ -13790,19 +13790,19 @@ SAEM PSRM
 
 |
 
-6 195
+-
 
 |
 
-6 070
+-
 
 |
 
-5 945
+-
 
 |
 
-51 006
+32 796
 
 |
 
@@ -14240,11 +14240,11 @@ FR000000000001155
 
 |
 
-Inéos Enterprises France SAS
+VALTRIS ENTREPRISE France SAS
 
 |
 
-INEOS ENTERPRISES France SAS
+VALTRIS ENTREPRISE France SAS
 
 |
 
