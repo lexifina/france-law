@@ -1678,12 +1678,6 @@ Dordogne |
 
 |
 
-Saintes-Thénac |
-
-Charente-Maritime |
-
-|
-
 Saint-Etienne Loire |
 
 Loire |

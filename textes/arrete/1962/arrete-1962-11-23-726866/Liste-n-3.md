@@ -980,6 +980,28 @@ Ille-et-Vilaine |
 
 Les conditions d'utilisation de l'aérodrome sont portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. Ces conditions sont validées par les services de la direction de la sécurité de l'aviation civile Ouest. |
 
+Saintes-Thénac
+
+|
+
+Charente-Maritime |
+
+Cet aérodrome est réservé :
+
+1° aux aéronefs d'Etat français ;
+
+2° aux aéronefs d'Etat étrangers ;
+
+3° aux aéronefs basés ou détachés ;
+
+4° aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
+
+5° aux aéronefs légers et activités liés aux aéroclubs basés, dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+
+6° aux aéronefs légers basés sur les aérodromes voisins dans un rayon de quatre-vingt milles nautiques ;
+
+7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Sallanches - Mont-Blanc |
 
 Haute-Savoie |
