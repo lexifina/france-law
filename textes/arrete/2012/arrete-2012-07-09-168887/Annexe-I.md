@@ -12,7 +12,7 @@ II. ― Les actes de l'administration :
 
 ― connaissance des actes de l'administration, de la hiérarchie des normes et des contrôles auxquels les textes sont soumis ;
 
-― connaissance générale sur la révision générale des politiques publiques.
+― connaissances générales sur la réforme de l'organisation de l'Etat.
 
 III. ― Règles statutaires de la fonction publique d'Etat et gestion des ressources humaines :
 
