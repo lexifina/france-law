@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806622
+
+- Question : [SEQ180806622](seq180806622.md) — Allègements fiscaux accordés aux collectivités
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-01-24, page 410*
+
+Les compensations d'exonération de fiscalité locale et les dotations de l'État aux collectivités territoriales appartiennent au périmètre des concours financiers de l'État au sens de l'article 16 de la loi de programmation des finances publiques 2018-2022, qui prévoit que toute hausse d'un concours doit être « gagée » par une diminution équivalente d'un ou de plusieurs autres concours. Dès lors, la hausse des dotations peut conduire à une baisse des compensations d'exonérations. Néanmoins, conscient des effets que peuvent entrainer ces ajustements, le législateur, sous l'impulsion du Gouvernement, a pris plusieurs mesures. Tout d'abord, le législateur a agi sur les niveaux de compensation, soit en ne minorant pas certaines compensations d'exonérations, soit en figeant certaines autres compensations. Par exemple, la compensation d'exonération de taxe d'habitation pour les personnes dites de conditions modestes ne fait pas l'objet de minoration. Par ailleurs, la minoration des compensations relatives à l'abattement de 30 % de la base d'imposition à la taxe foncière sur les propriétés bâties des logements sociaux situés dans un quartier prioritaire de la politique de la ville et à l'exonération de taxe foncière sur les propriétés non bâties en faveur des terrains situés dans un site Natura 2000 a été figée, respectivement au taux de 2014 et de 2016. De cette manière, le Gouvernement cherche à limiter les effets de ces ajustements entre les différents territoires. Enfin, il convient de rappeler que la réduction de 30 % de la taxe d'habitation pour 80 % des contribuables fait l'objet d'un dégrèvement, et donc d'une compensation à l'euro pour les collectivités concernés.
