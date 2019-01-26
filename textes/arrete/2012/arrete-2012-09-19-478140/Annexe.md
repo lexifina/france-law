@@ -20,21 +20,9 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
-// |
-
-// |
-
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
 
 ADOFIA, 24, rue des Vignoles, 75020 PARIS |
 
@@ -46,55 +34,17 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
-
-AFORVIA, ZI de Kergostiou, CS 53,29393 QUIMPERLE Cedex |
-
-Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
-
-15 novembre 2013 |
-
-14 novembre 2018 |
-
-Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
-
-Opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
-
-RPA, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
-
-21 septembre 2017 |
-
-20 septembre 2022 |
 
 ALIQUA, 3, chemin du Paradis, 27220 La Boissière |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-27 janvier 2014 |
+15 octobre 2018 |
 
-26 janvier 2019 |
+14 octobre 2023 |
 
 RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
 
 ASTEC IAA, 14 lotissement les Aubépines, 71250 CLUNY |
 
@@ -106,27 +56,25 @@ Opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sa
 
 Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement |
 
-// |
-
-// |
-
 Opérateur, porcins, manipulations et soins, mise à mort |
-
-// |
-
-// |
 
 Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
 
-// |
-
-// |
-
 Opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement |
 
-// |
+RPA, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement |
 
-// |
+1er février 2019 |
+
+31 janvier 2024 |
+
+RPA, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement |
+
+RPA, porcins, manipulations et soins, mise à mort |
+
+RPA, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+RPA, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement |
 
 Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
 
@@ -136,29 +84,25 @@ RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans
 
 31 janvier 2023 |
 
-RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
+Opérateur, ratites-manipulation et soins-mise à mort |
 
-30 septembre 2013 |
-
-29 septembre 2018 |
-
-Avipole Formation, Zoopôle les Croix, rue Camille Guérin, 22400 PLOUFRAGAN |
-
-Opérateur, Ratites-manipulation et soins-mise à mort |
-
-15 décembre 2017
-
-|
+15 décembre 2017 |
 
 14 décembre 2022 |
+
+RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
+
+15 octobre 2018 |
+
+14 octobre 2023 |
 
 CFPPA du Gers, 32300 MIRANDE |
 
 Opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-1er juillet 2013 |
+15 octobre 2018 |
 
-30 juin 2018 |
+14 octobre 2023 |
 
 DEFI, 109, rue Laënnec, 69008 LYON |
 
@@ -170,17 +114,43 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 DUC, Grande Rue, 89771 CHAILLEY Cedex |
 
 Opérateur, volailles-manipulation et soins |
 
-19 mai 2014 |
+15 octobre 2018 |
 
-18 mai 2019 |
+14 octobre 2023 |
+
+École des métiers BIGARD-EMB, Groupe Bigard, ZI de Kergostiou, CS 70053,29393 QUIMPERLÉ Cedex |
+
+RPA, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
+
+21 septembre 2017 |
+
+20 septembre 2022 |
+
+Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
+
+15 octobre 2018 |
+
+14 octobre 2023 |
+
+Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
+
+Opérateur, porcins-manipulation et soins-mise à mort |
+
+RPA, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
+
+1er février 2019 |
+
+31 janvier 2024 |
+
+RPA, porcins-manipulation et soins-mise à mort |
+
+1er février 2019 |
+
+31 janvier 2024 |
 
 Institut de l'élevage, 149, rue de Bercy, 75020 PARIS |
 
@@ -192,15 +162,7 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
 
 IFIP, Institut du porc, 3-5, rue Lespagnol, 75020 PARIS |
 
@@ -212,35 +174,19 @@ RPA et opérateur, porcins-manipulation et soins-mise à mort |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
 
 Institut de formation des métiers du secteur associatif juif-SIF, 9, rue Vauquelin, 75005 PARIS |
 
 Opérateur, bovins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-1er août 2013 |
+15 octobre 2018 |
 
-31 juillet 2018 |
+14 octobre 2023 |
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 Opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
 
 JPA, Josselin Porc Abattage, ZI La belle alouette, 56120 JOSSELIN |
 
@@ -260,10 +206,6 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 Marc LE MÉZO, 5, rue du Genévrier, 84000 AVIGNON |
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
@@ -272,13 +214,7 @@ Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans �
 
 31 juillet 2019 |
 
-RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière,
-
-BP 539
-
-85500 LES HERBIERS
-
-|
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539,85500 LES HERBIERS |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
@@ -288,31 +224,11 @@ RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complém
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
 
 RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
-RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière,
-
-BP 539
-
-85500 LES HERBIERS
-
-|
-
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
 28 octobre 2014 |
 
@@ -322,15 +238,9 @@ RG Consulting France, La Martinais, 22130 CORSEUL |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-15 novembre 2013 |
+15 octobre 2018 |
 
-14 novembre 2018 |
-
-RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort-complément sans étourdissement |
-
-// |
-
-// |
+14 octobre 2023 |
 
 Opérateur, animaux à fourrure-mise à mort |
 
@@ -338,33 +248,49 @@ Opérateur, animaux à fourrure-mise à mort |
 
 31 mai 2022 |
 
+SDBF, 1 Allée Frédéric Chopin, 35760 SAINT-GREGOIRE |
+
+Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
+
+15 octobre 2018 |
+
+14 octobre 2023 |
+
+Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
+
+Opérateur, porcins-manipulation et soins-mise à mort |
+
+Opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
+
 SECURITEAM, 12, rue Nationale, 41150 RILLY-SUR-LOIRE |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
-30 septembre 2013 |
+15 octobre 2018 |
 
-29 septembre 2018 |
+14 octobre 2023 |
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
 
 SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'UNION |
 
 RPA et opérateur, volailles-manipulation et soins-mise à mort-complément sans étourdissement |
 
-15 novembre 2013 |
+15 octobre 2018 |
 
-14 novembre 2018 |
+14 octobre 2023 |
+
+RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
+
+1er février 2019 |
+
+31 janvier 2024 |
+
+RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
+
+RPA et opérateur, lagomorphes/ rongeurs-manipulation et soins-mise à mort |
 
 SVA Jean ROZÉ, rue Victor-Baltard, BP 90237,35500 VITRÉ |
 
@@ -376,26 +302,14 @@ Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément san
 
 Opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean Rostand, BP 7,22440 PLOUFRAGAN |
 
 RPA et opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement |
 
-30 septembre 2013 |
+15 octobre 2018 |
 
-29 septembre 2018 |
+14 octobre 2023 |
 
 RPA et opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement |
 
-// |
-
-// |
-
 RPA et opérateur, porcins-manipulation et soins-mise à mort |
-
-// |
-
-// |
