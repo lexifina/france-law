@@ -4,1951 +4,985 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES VÉGÉTALES
 
 Chapitre Ier. - Territoire métropolitain
 
-GROUPE
+GROUPE |
 
-|
-
-ESPÈCE
-
-|
+ESPÈCE |
 
 LE CAS ÉCHÉANT, RÉGION
 
-faisant l'objet d'un programme collectif
+faisant l'objet d'un programme collectif |
 
-|
+Arthropode |
 
-Arthropode
+Acleris gloverana |
 
-|
+- |
 
-Acleris gloverana
+Arthropode |
 
-|
+Acleris variana |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Aculops fuchsiae |
 
-|
+- |
 
-Acleris variana
+Arthropode |
 
-|
+Aleurocanthus spiniferus |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Anastrepha ludens |
 
-|
+- |
 
-Aculops fuchsiae
+Arthropode |
 
-|
+Anthonomus bisignifer |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Aonidiella citrina |
 
-|
+- |
 
-Aleurocanthus spiniferus
+Arthropode |
 
-|
+Bactrocera carambolae |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Bactrocera cucumis |
 
-|
+- |
 
-Anastrepha ludens
+Arthropode |
 
-|
+Bactrocera cucurbitae |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Bactrocera dorsalis |
 
-|
+- |
 
-Anthonomus bisignifer
+Arthropode |
 
-|
+Bactrocera invadens |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Bactrocera tsuneonis |
 
-|
+- |
 
-Aonidiella citrina
+Arthropode |
 
-|
+Bactrocera zonata |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Bemisia tabaci (populations non UE) |
 
-|
+- |
 
-Bactrocera carambolae
+Arthropode |
 
-|
+Blitopertha orientalis |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Circulifer tenellus |
 
-|
+- |
 
-Bactrocera cucumis
+Arthropode |
 
-|
+Conotrachelus nenuphar |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Cydia inopinata |
 
-|
+- |
 
-Bactrocera cucurbitae
+Arthropode |
 
-|
+Dacus ciliatus |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Dendroctonus ponderosae |
 
-|
+- |
 
-Bactrocera dorsalis
+Arthropode |
 
-|
+Diabrotica barberi |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Diabrotica virgifera zeae |
 
-|
+- |
 
-Bactrocera invadens
+Arthropode |
 
-|
+Diaphorina citri |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Dryocosmus kuriphilus |
 
-|
+- |
 
-Bactrocera tsuneonis
+Arthropode |
 
-|
+Eutetranychus orientalis |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Ips calligraphus |
 
-|
+- |
 
-Bactrocera zonata
+Arthropode |
 
-|
+Ips pini |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Liriomyza huidobrensis |
 
-|
+- |
 
-Bemisia tabaci (populations non UE)
+Arthropode |
 
-|
+Liriomyza sativae |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Liriomyza trifolii |
 
-|
+- |
 
-Blitopertha orientalis
+Arthropode |
 
-|
+Lopholeucaspis japonica |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Megaplatypus mutatus |
 
-|
+- |
 
-Circulifer tenellus
+Arthropode |
 
-|
+Naupactus leucoloma |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Nemorimyza maculosa |
 
-|
+- |
 
-Conotrachelus nenuphar
+Arthropode |
 
-|
+Opogona sacchari |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Paysandisia archon |
 
-|
+- |
 
-Cydia inopinata
+Arthropode |
 
-|
+Pissodes strobi |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Rhagoletis cingulata |
 
-|
+- |
 
-Dacus ciliatus
+Arthropode |
 
-|
+Rhagoletis completa |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Rhagoletis indifferens |
 
-|
+- |
 
-Dendroctonus ponderosae
+Arthropode |
 
-|
+Rhagoletis pomonella |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Rhynchophorus palmarum |
 
-|
+- |
 
-Diabrotica barberi
+Arthropode |
 
-|
+Scirtothrips dorsalis |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Spodoptera eridania |
 
-|
+- |
 
-Diabrotica virgifera zeae
+Arthropode |
 
-|
+Spodoptera frugiperda |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Spodoptera littoralis |
 
-|
+- |
 
-Diaphorina citri
+Arthropode |
 
-|
+Spodoptera litura |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Thrips palmi |
 
-|
+- |
 
-Dryocosmus kuriphilus
+Arthropode |
 
-|
+Toxoptera citricidus |
 
--
+- |
 
-|
+Arthropode |
 
-Arthropode
+Trioza erytreae |
 
-|
+- |
 
-Eutetranychus orientalis
+Arthropode |
 
-|
+Xylosandrus crassiusculus |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Acidovorax citrulli |
 
-|
+- |
 
-Ips calligraphus
+Bactérie |
 
-|
+Burkholderia caryophylli |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Candidatus Liberibacter africanus |
 
-|
+- |
 
-Ips pini
+Bactérie |
 
-|
+Candidatus Liberibacter americanus |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Clavibacter michiganensis subsp. insidiosus |
 
-|
+- |
 
-Liriomyza huidobrensis
+Bactérie |
 
-|
+Clavibacter michiganensis subsp. michiganensis |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Erwinia amylovora |
 
-|
+- |
 
-Liriomyza sativae
+Bactérie |
 
-|
+Pseudomonas syringae pv. actinidiae |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Pseudomonas syringae pv. persicae |
 
-|
+- |
 
-Liriomyza trifolii
+Bactérie |
 
-|
+Spiroplasma citri |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Xanthomonas arboricola pv. pruni (X. campestris pv. pruni) |
 
-|
+- |
 
-Lopholeucaspis japonica
+Bactérie |
 
-|
+Xanthomonas axonopodis pv. phaseoli (X. campestris pv. phaseoli) |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Xanthomonas fragariae |
 
-|
+- |
 
-Megaplatypus mutatus
+Bactérie |
 
-|
+Xanthomonas oryzae pv. oryzae (X. campestris pv. oryzae) |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Xanthomonas translucens pv. translucens |
 
-|
+- |
 
-Naupactus leucoloma
+Bactérie |
 
-|
+Xanthomonas vesicatoria (X. campestris pv. vesicatoria) |
 
--
+- |
 
-|
+Bactérie |
 
-Arthropode
+Xylophilus ampelinus |
 
-|
+- |
 
-Nemorimyza maculosa
+Champignon |
 
-|
+Alternaria mali |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Anisogramma anomala |
 
-|
+- |
 
-Opogona sacchari
+Champignon |
 
-|
+Atropellis pinicola |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Atropellis piniphila |
 
-|
+- |
 
-Paysandisia archon
+Champignon |
 
-|
+Botryosphaeria berengeriana f. sp. pyricola |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Botryosphaeria laricina |
 
-|
+- |
 
-Pissodes strobi
+Champignon |
 
-|
+Chrysomyxa arctostaphyli |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Colletrotrichum acutatum |
 
-|
+- |
 
-Rhagoletis cingulata
+Champignon |
 
-|
+Diaporthe vaccinii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Elsinoe australis |
 
-|
+- |
 
-Rhagoletis completa
+Champignon |
 
-|
+Elsinoe fawcettii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Endocronartium harknessii |
 
-|
+- |
 
-Rhagoletis indifferens
+Champignon |
 
-|
+Fusarium oxysporum f. sp. albedinis |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Glomerella gossypii |
 
-|
+- |
 
-Rhagoletis pomonella
+Champignon |
 
-|
+Guignardia citricarpa |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Gymnosporangium asiaticum |
 
-|
+- |
 
-Rhynchophorus palmarum
+Champignon |
 
-|
+Gymnosporangium clavipes |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Gymnosporangium globosum |
 
-|
+- |
 
-Scirtothrips dorsalis
+Champignon |
 
-|
+Gymnosporangium juniperi-virginianae |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Gymnosporangium yamadae |
 
-|
+- |
 
-Spodoptera eridania
+Champignon |
 
-|
+Melampsora farlowii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Mycosphaerella chrysanthemi |
 
-|
+- |
 
-Spodoptera frugiperda
+Champignon |
 
-|
+Mycosphaerella dearnessii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Mycosphaerella gibsonii |
 
-|
+- |
 
-Spodoptera littoralis
+Champignon |
 
-|
+Mycosphaerella laricis-leptolepidis |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Phaeoramularia angolensis |
 
-|
+- |
 
-Spodoptera litura
+Champignon |
 
-|
+Phellinus weirii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Phoma andigena var. andina (Phoma andina) |
 
-|
+- |
 
-Thrips palmi
+Champignon |
 
-|
+Phyllosticta solitaria |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Phymatotrichopsis omnivora |
 
-|
+- |
 
-Toxoptera citricidus
+Champignon |
 
-|
+Plasmopara halstedii |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Puccinia horiana |
 
-|
+- |
 
-Trioza erytreae
+Champignon |
 
-|
+Puccinia menthae |
 
--
+- |
 
-|
+Champignon |
 
-Arthropode
+Puccinia pittieriana |
 
-|
+- |
 
-Xylosandrus crassiusculus
+Champignon |
 
-|
+Septoria lycopersici var. malagutii |
 
--
+- |
 
-|
+Champignon |
 
-Bactérie
+Thecaphora solani |
 
-|
+- |
 
-Acidovorax citrulli
+Champignon |
 
-|
+Venturia nashicola |
 
--
+- |
 
-|
+Nématode |
 
-Bactérie
+Aphelenchoides besseyi |
 
-|
+- |
 
-Burkholderia caryophylli
+Nématode |
 
-|
+Ditylenchus dipsaci |
 
--
+- |
 
-|
+Nématode |
 
-Bactérie
+Heterodera carotae |
 
-|
+- |
 
-Candidatus Liberibacter africanus
+Nématode |
 
-|
+Punctodera chalcoensis |
 
--
+- |
 
-|
+Nématode |
 
-Bactérie
+Radopholus citrophilus |
 
-|
+- |
 
-Candidatus Liberibacter americanus
+Nématode |
 
-|
+Radopholus similis |
 
--
+- |
 
-|
+Nématode |
 
-Bactérie
+Xiphinema americanum (sensus stricto) |
 
-|
+- |
 
-Clavibacter michiganensis subsp. insidiosus
+Phytoplasme |
 
-|
+Candidatus Phytoplasma mali |
 
--
+- |
 
-|
+Phytoplasme |
 
-Bactérie
+Candidatus Phytoplasma prunorum |
 
-|
+- |
 
-Clavibacter michiganensis subsp. michiganensis
+Phytoplasme |
 
-|
+Candidatus Phytoplasma pyri |
 
--
+- |
 
-|
+Phytoplasme |
 
-Bactérie
+Candidatus Phytoplasma solani (maize redness) |
 
-|
+- |
 
-Erwinia amylovora
+Phytoplasme |
 
-|
+Candidatus Phytoplasma ulmi (Mycoplasme de la nécrose du phloème d'Ulmus) |
 
--
+- |
 
-|
+Phytoplasme |
 
-Bactérie
+Peach X-disease phytoplasma |
 
-|
+- |
 
-Pseudomonas syringae pv. actinidiae
+Viroïde |
 
-|
+Chrysanthemum stunt viroïde (CSVd) |
 
--
+- |
 
-|
+Viroïde |
 
-Bactérie
+Citrus exocortis viroïde (CEVd) |
 
-|
+- |
 
-Pseudomonas syringae pv. persicae
+Viroïde |
 
-|
+Columnea latent viroïde (CLVd) |
 
--
+- |
 
-|
+Viroïde |
 
-Bactérie
+Pepper chat fruit viroïde (PCFVd) |
 
-|
+- |
 
-Spiroplasma citri
+Viroïde |
 
-|
+Tomato apical stunt viroïde (TASVd) |
 
--
+- |
 
-|
+Viroïde |
 
-Bactérie
+Tomato chlorotic dwarf viroïde (TCDVd) |
 
-|
+- |
 
-Xanthomonas arboricola pv. pruni (X. campestris pv. pruni)
+Viroïde |
 
-|
+Tomato planta macho viroïde (TPMVd) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+American plum line pattern virus (APLPV) |
 
-|
+- |
 
-Xanthomonas axonopodis pv. phaseoli (X. campestris pv. phaseoli)
+Virus |
 
-|
+Andean potato latent virus (APLV) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+Andean potato mottle virus (APMoV) |
 
-|
+- |
 
-Xanthomonas fragariae
+Virus |
 
-|
+Arabis mosaic virus (ArMV) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+Arracacha virus B oca strain (AVB) |
 
-|
+- |
 
-Xanthomonas oryzae pv. oryzae (X. campestris pv. oryzae)
+Virus |
 
-|
+Beet curly top virus (BCTV) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+Beet leaf curl virus (BLCV) |
 
-|
+- |
 
-Xanthomonas translucens pv. translucens
+Virus |
 
-|
+Blueberry scorch virus (BlSV) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+Cherry leaf roll virus (CLRV) |
 
-|
+- |
 
-Xanthomonas vesicatoria (X. campestris pv. vesicatoria)
+Virus |
 
-|
+Cherry rasp leaf virus (CRLV) |
 
--
+- |
 
-|
+Virus |
 
-Bactérie
+Chrysanthemum stem necrosis virus (CSNV) |
 
-|
+- |
 
-Xylophilus ampelinus
+Virus |
 
-|
+Citrus mosaic virus (CMBV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Citrus tatter leaf virus (CTLV) |
 
-|
+- |
 
-Alternaria mali
+Virus |
 
-|
+Citrus tristeza virus (CTV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Cucumber vein yellowing virus (CVYV) |
 
-|
+- |
 
-Anisogramma anomala
+Virus |
 
-|
+Cucurbit yellow stunting disorder virus (CYSDV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Little cherry virus (Little cherry pathogen) |
 
-|
+- |
 
-Atropellis pinicola
+Virus |
 
-|
+Peach mosaic virus |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Peach rosette mosaic virus |
 
-|
+- |
 
-Atropellis piniphila
+Virus |
 
-|
+Pepino mosaic virus (PepMV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Potato black ringspot virus (PBRSV) |
 
-|
+- |
 
-Botryosphaeria berengeriana f. sp. pyricola
+Virus |
 
-|
+Potato yellow dwarf virus (PYDV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Potato yellowing virus (PYV) |
 
-|
+- |
 
-Botryosphaeria laricina
+Virus |
 
-|
+Raspberry leaf curl virus (RLCV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Strawberry crinkle virus (SCrV) |
 
-|
+- |
 
-Chrysomyxa arctostaphyli
+Virus |
 
-|
+Strawberry latent C virus |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Strawberry latent ringspot virus (SLRSV) |
 
-|
+- |
 
-Colletrotrichum acutatum
+Virus |
 
-|
+Strawberry mild yellow edge virus (SMYEV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Strawberry Vein Banding Virus (SVBV) |
 
-|
+- |
 
-Diaporthe vaccinii
+Virus |
 
-|
+Tobacco ringspot virus (TRSV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Tomato black ring virus (TBRV) |
 
-|
+- |
 
-Elsinoe australis
+Virus |
 
-|
+Tomato chlorosis virus (ToCV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Tomato infectious chlorosis virus (TiCV) |
 
-|
+- |
 
-Elsinoe fawcettii
+Virus |
 
-|
+Tomato mottle virus (ToMoV) |
 
--
+- |
 
-|
+Virus |
 
-Champignon
+Tomato ringspot virus (TomRSV) |
 
-|
+- |
 
-Endocronartium harknessii
+Virus |
 
-|
+Tomato spotted wilt virus (TSWV) |
 
--
-
-|
-
-Champignon
-
-|
-
-Fusarium oxysporum f. sp. albedinis
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Glomerella gossypii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Guignardia citricarpa
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Gymnosporangium asiaticum
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Gymnosporangium clavipes
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Gymnosporangium globosum
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Gymnosporangium juniperi-virginianae
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Gymnosporangium yamadae
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Melampsora farlowii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Mycosphaerella chrysanthemi
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Mycosphaerella dearnessii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Mycosphaerella gibsonii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Mycosphaerella laricis-leptolepidis
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Phaeoramularia angolensis
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Phellinus weirii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Phoma andigena var. andina (Phoma andina)
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Phyllosticta solitaria
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Phymatotrichopsis omnivora
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Plasmopara halstedii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Puccinia horiana
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Puccinia menthae
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Puccinia pittieriana
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Septoria lycopersici var. malagutii
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Thecaphora solani
-
-|
-
--
-
-|
-
-Champignon
-
-|
-
-Venturia nashicola
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Aphelenchoides besseyi
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Ditylenchus dipsaci
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Punctodera chalcoensis
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Radopholus citrophilus
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Radopholus similis
-
-|
-
--
-
-|
-
-Nématode
-
-|
-
-Xiphinema americanum (sensus stricto)
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Candidatus Phytoplasma mali
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Candidatus Phytoplasma prunorum
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Candidatus Phytoplasma pyri
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Candidatus Phytoplasma solani (maize redness)
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Candidatus Phytoplasma ulmi (Mycoplasme de la nécrose du phloème d'Ulmus)
-
-|
-
--
-
-|
-
-Phytoplasme
-
-|
-
-Peach X-disease phytoplasma
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Chrysanthemum stunt viroïde (CSVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Citrus exocortis viroïde (CEVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Columnea latent viroïde (CLVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Pepper chat fruit viroïde (PCFVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Tomato apical stunt viroïde (TASVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Tomato chlorotic dwarf viroïde (TCDVd)
-
-|
-
--
-
-|
-
-Viroïde
-
-|
-
-Tomato planta macho viroïde (TPMVd)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-American plum line pattern virus (APLPV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Andean potato latent virus (APLV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Andean potato mottle virus (APMoV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Arabis mosaic virus (ArMV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Arracacha virus B oca strain (AVB)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Beet curly top virus (BCTV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Beet leaf curl virus (BLCV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Blueberry scorch virus (BlSV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Cherry leaf roll virus (CLRV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Cherry rasp leaf virus (CRLV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Chrysanthemum stem necrosis virus (CSNV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Citrus mosaic virus (CMBV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Citrus tatter leaf virus (CTLV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Citrus tristeza virus (CTV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Cucumber vein yellowing virus (CVYV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Cucurbit yellow stunting disorder virus (CYSDV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Little cherry virus (Little cherry pathogen)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Peach mosaic virus
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Peach rosette mosaic virus
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Pepino mosaic virus (PepMV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Potato black ringspot virus (PBRSV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Potato yellow dwarf virus (PYDV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Potato yellowing virus (PYV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Raspberry leaf curl virus (RLCV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Strawberry crinkle virus (SCrV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Strawberry latent C virus
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Strawberry latent ringspot virus (SLRSV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Strawberry mild yellow edge virus (SMYEV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Strawberry Vein Banding Virus (SVBV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tobacco ringspot virus (TRSV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato black ring virus (TBRV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato chlorosis virus (ToCV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato infectious chlorosis virus (TiCV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato mottle virus (ToMoV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato ringspot virus (TomRSV)
-
-|
-
--
-
-|
-
-Virus
-
-|
-
-Tomato spotted wilt virus (TSWV)
-
-|
-
--
-
-|
+- |
 
 Virus
 
@@ -1958,6 +992,4 @@ Tomato yellow leaf curl virus (TYLCV)
 
 |
 
--
-
-|
+- |
