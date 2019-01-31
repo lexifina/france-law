@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906783
+
+- Question : [SEQ180906783](seq180906783.md) — Réduction du ratio de productivité de l'aide aux bovins allaitants
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-01-31, page 562*
+
+L'aide aux bovins allaitants (ABA) est accordée aux 139 premières vaches d'un troupeau allaitant, respectant un taux de productivité (caractère allaitant) de 0,8 veau par vache. Ce seuil correspond à la moyenne française de la productivité des élevages. Ce n'est toutefois pas un critère d'inéligibilité : les éleveurs ne respectant pas ce seuil bénéficient de l'aide pour une partie de leurs vaches. L'ABA est une aide dégressive, structurée sur trois niveaux de montants unitaires qui s'appliquent par tranches en fonction du nombre de vaches. L'institut de l'élevage note une baisse de 300 000 naissances entre mars 2017 et mars 2018. Les raisons de cette baisse ne sont pas établies. Elle pourrait s'expliquer, en partie, par une baisse du nombre de femelles allaitantes et, principalement, par des avortements liés à des conditions météorologiques ou à des problèmes de fourrages et sanitaires ou par des retards de naissances. Pour autant, il n'est pas possible de mesurer l'impact de ces retards de naissances sur l'éligibilité des élevages à l'ABA. En effet, le seuil de 0,8 retenu pour l'accès à cette aide avait été fixé à un niveau ne remettant pas en cause l'éligibilité d'élevages subissant des aléas modérés. En outre, aucun élément objectif ne permet de justifier une baisse de ce seuil. Par ailleurs, des dérogations au respect de ce seuil peuvent être accordées au cas par cas lors de l'instruction, lorsque des cas de force majeure sont avérés. En tout état de cause, ce seuil ne conduit pas à exclure des éleveurs du bénéfice de l'aide mais seulement à plafonner l'effectif primé.
