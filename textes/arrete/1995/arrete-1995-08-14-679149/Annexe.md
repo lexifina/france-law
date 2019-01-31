@@ -18,23 +18,23 @@ b) Les modèles de demande et de titre d'acquisition et de détention entrant en
 
 7. Récépissé de déclaration d'acquisition et de détention d'armes et de munitions par un fonctionnaire, agent public ou officier (volets 1 et 2)
 
-8. Déclaration d'acquisition, vente, cession ou mise en possession des armes de la catégorie C
+8. (Abrogé)
 
 9. Récépissé de déclaration d'acquisition, vente, cession ou mise en possession des armes de la catégorie C
 
 10. Autorisation de complément de stock de munitions
 
-11. Récépissé de déclaration justificative ou de présentation de permis de transfert concernant l'acquisition d'armes ou de munitions de la catégorie C et du 1° de la catégorie D remis à un non-résident
+11. Récépissé de déclaration justificative ou de présentation de permis de transfert concernant l'acquisition d'armes ou de munitions de la catégorie C et du 1° de la catégorie D remis à un non-résident (1)
 
 12. Autorisation de détention d'armes, d'éléments d'arme et de munitions
 
-13. Demande d'enregistrement d'acquisition, vente, cession entre particuliers ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D
+13. (Abrogé)
 
-14. Demande d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D
+14. (Abrogé)
 
-15. Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D (personne physique)
+15. (Abrogé)
 
-16. Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D (personne morale)
+16. (Abrogé)
 
 17. Attestation délivrée par la Fédération française de tir au tireur sportif pratiquant le tir sportif de vitesse
 
@@ -42,16 +42,16 @@ c) Les modèles de demande d'autorisation de fabrication ou de commerce ou d'int
 
 1. Demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B (personne morale).
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038070861
+
 2. Demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B (personne physique).
 
-Vous pouvez consulter les modèles dans le JO n° 206 du 05/09/2013 texte numéro 19 à l'adresse suivante :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038070861
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130905&numTexte=19&pageDebut=14989&pageFin=15019
-
-et dans le JO n° 169 du 21 juillet 2017, texte n° 4, à l'adresse suivante :
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000035250738
+d) Modèle de formulaire de déclaration d'acquisition, vente, cession ou mise en possession d'arme ou d'élément d'arme de la catégorie C.
 
 NOTA :
 
-Aux termes du 2° de l'article 3 de l'arrêté du 13 juillet 2017, les 2 et 3 du b de l'annexe de l'arrêté du 14 août 1995 sont abrogés en tant qu'ils concernent les modèles de demande d'autorisation de fabrication ou de commerce ou d'intermédiation d'armes, de munitions et de leurs éléments de catégories A1 et B.
+(1) Aux termes du 2° de l'article 4 de l'arrêté du 28 janvier 2019, le modèle de formulaire mentionné au 11 du b est abrogé en tant qu'il concerne le récépissé de déclaration justificative ou de présentation de permis de transfert concernant l'acquisition d'armes ou de munitions du 1° de la catégorie D remis à un non-résident.
+
+Conformément à l'article 5 de l'arrêté du 28 janvier 2019, le modèle de formulaire de déclaration d'acquisition, vente, cession ou mise en possession d'arme ou d'élément d'arme de la catégorie C mentionné au d figure en annexe VI dudit arrêté.
