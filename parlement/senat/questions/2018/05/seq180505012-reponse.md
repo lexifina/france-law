@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505012
+
+- Question : [SEQ180505012](seq180505012.md) — Fuites d'eau sur canalisations après compteur
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-01-31, page 592*
+
+Si, en effet, l'article L. 2224-12-4 du code général des collectivités territoriales mentionne qu'en cas de fuites d'eau après compteur, « l'abonné n'est pas tenu au paiement de la consommation excédant le double de sa consommation moyenne, s'il produit au service d'eau potable une attestation d'une entreprise de plomberie indiquant qu'il a fait procéder à la réparation d'une fuite sur ses canalisations », le décret n° 2012-1078 du 24 septembre 2012 précise qu'il s'agit des seules « augmentations de volume d'eau consommée dues à une fuite sur une canalisation d'eau potable après compteur, à l'exclusion des fuites dues à des appareils ménagers et des équipements sanitaires ou de chauffage ». Le clapet anti-pollution et les joints sont des équipements obligatoires, aussi en cas de fuite il semble envisageable que l'abonné ne soit pas redevable de la consommation excédentaire. C'est par ailleurs le sens de la décision n° 2018-145 du défenseur des droits recommandant de procéder à un dégrèvement sur les factures, tant sur la consommation d'eau potable que sur la redevance d'assainissement collectif, suite à une nette augmentation de consommation d'eau et à la détection d'une fuite au niveau du clapet anti-pollution après compteur dans le regard. En revanche, les filtres anti-retour et l'adoucisseur sont des appareils de « confort » et pourraient ainsi rentrer dans la catégorie des appareils ménagers. L'énoncé « accessoires de canalisation » restant assez imprécis, il semblerait pertinent d'interroger une personne spécialiste des installations sanitaires sur la signification exacte de ces termes.
