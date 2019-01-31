@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007035
+
+- Question : [SEQ181007035](seq181007035.md) — Refus de la justice suisse de transmettre des informations fiscales
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-01-31, page 553*
+
+La France a adressé, le 11 mai 2016, une demande d'assistance administrative à la Suisse afin de connaître les noms des titulaires de comptes et ayants droit, présumés domiciliés en France, figurant sur une liste de comptes ouverts auprès de la banque UBS Suisse. L'administration fiscale suisse a émis une ordonnance de production de pièces le 10 juin 2016 à l'encontre d'UBS. À la suite de la production de pièces par UBS, l'administration fiscale suisse a considéré, le 9 février 2018, que la demande française était admissible et a notifié cette décision aux personnes concernées. Cette décision de l'administration fiscale suisse a été contestée, par UBS et par les personnes physiques directement concernées, devant le Tribunal administratif fédéral (TAF). Par décision du 31 juillet 2018, le TAF a admis ce recours et rejeté la demande française d'assistance. Les juges ont estimé que la demande française ne précise pas les raisons qui permettent de penser que les contribuables visés n'ont pas respecté leurs obligations fiscales, le simple fait de détenir un compte bancaire en Suisse ne suffisant à étayer une telle supposition. La France n'ayant qualité pour interjeter appel de la décision du TAF devant le Tribunal fédéral, elle a transmis à l'administration fiscale suisse des éléments destinés à alimenter l'appel qu'elle a formé devant le Tribunal fédéral. En termes de coopération fiscale, la Suisse devrait prochainement adresser à la France, dans le cadre des échanges automatiques, des renseignements relatifs aux comptes financiers détenus par des résidents français en Suisse.
