@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700580
+
+- Question : [SEQ170700580](seq170700580.md) — Améliorations fiscales pour les établissements publics de coopération culturelle
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-01-31, page 544*
+
+L'article L. 1431-1 du code général des collectivités territoriales (CGCT) dispose que les établissements publics de coopération culturelle (EPCC) peuvent être composés des collectivités territoriales, de leurs groupements, de l'État et des établissements publics nationaux et sont chargés « de la création et la gestion d'un service public culturel présentant un intérêt pour chacune des personnes morales en cause et contribuant à la réalisation des objectifs nationaux dans le domaine de la culture ». Quand un EPCC n'est pas exclusivement composé de bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA), les dépenses réalisées par ce dernier ne peuvent être éligibles au bénéfice du FCTVA. L'article L. 1615-2 du CGCT désigne expressément les bénéficiaires du FCTVA. Or, l'Etat n'est pas mentionné parmi les attributaires du fonds. Dès lors, un EPCC dont l'État est membre ne peut percevoir le FCTVA. Il convient en outre de rappeler que le FCTVA, dès sa création, a eu pour vocation de soutenir l'investissement des collectivités locales. L'élargissement progressif des bénéficiaires du FCTVA s'est toujours limité au secteur local ; l'élargissement à l'État contreviendrait alors à l'objectif premier du FCTVA. Par ailleurs, la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, prévoit que les EPCC sont ajoutés à la liste des exceptions à l'assujettissement à la taxe sur les salaires énumérées à l'article L. 231 du code général des impôts. Les EPCC ne sont donc plus soumis à la taxe sur les salaires depuis le 1er janvier 2018.
