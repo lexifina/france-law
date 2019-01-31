@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605686
+
+- Question : [SEQ180605686](seq180605686.md) — Situation financière des communes rurales
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-01-31, page 549*
+
+L'article 5 de la loi de finances pour 2018 instaure un nouveau dégrèvement qui, s'ajoutant aux exonérations existantes, permettra à environ 80 % des foyers d'être dispensés du paiement de la TH au titre de leur résidence principale en 2020. Le Gouvernement proposera au Parlement une refonte de la fiscalité locale qui consolidera le pouvoir fiscal des maires et attribuera à chaque collectivité territoriale et groupement de communes un niveau de recettes équivalent à celles perçues avant la refonte de la fiscalité locale. Dès lors, les communes et les établissements publics de coopération intercommunale conserveront, à terme, leur capacité d'effectuer les investissements nécessaires à la dynamisation des zones rurales. Le Gouvernement est particulièrement attentif au dynamisme des territoires ruraux. C'est pourquoi il continue de soutenir massivement l'investissement local atteint en 2019, tant au titre de la dotation d'équipement des territoires ruraux (DETR) que de la dotation de soutien à l'investissement local (DSIL). La suppression de la réserve parlementaire a, d'ailleurs, permis d'abonder la masse totale de la DETR pour que celle-ci atteigne 1,046 milliard en 2018 et en 2019. En outre, la DSIL, créée en 2016 pour apporter un soutien exceptionnel aux projets d'investissement portés par les communes et les établissements publics de coopération intercommunale indépendamment de leur taille ou de leurs caractéristiques financières, a été reconduite en 2017. La loi de finances pour 2018 a pérennisé cette dotation qui a désormais vocation à s'inscrire durablement dans le paysage des dispositifs de soutien aux investissements du bloc communal. Elle s'élève à 570 millions d'euros en 2019.
