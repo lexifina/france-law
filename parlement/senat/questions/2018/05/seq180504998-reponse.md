@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504998
+
+- Question : [SEQ180504998](seq180504998.md) — Report de la date limite de dépôt des dossiers de la politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-01-31, page 560*
+
+L'article 13 du règlement d'exécution (UE) n° 809/2014 fixe au 15 mai de chaque année la date limite de dépôt de la demande d'aide. Cette date peut être reportée uniquement en cas de circonstances particulières dûment justifiées par l'État membre. À la différence des campagnes antérieures, les agriculteurs disposaient en 2018 dès le début avril de l'ensemble des outils leur permettant de déclarer leurs demandes d'aides dans les délais réglementaires. Pour la campagne 2018, la télédéclaration des aides s'est déroulée dans de très bonnes conditions. Ce résultat positif est notamment dû aux améliorations apportées à Telepac pour garantir la meilleure qualité de service aux exploitants agricoles. Ces améliorations ont porté sur l'ergonomie des outils de déclaration afin de faciliter la navigation dans l'outil mais aussi sur la mise en place d'alertes qui guident l'usager et permettent de fiabiliser les déclarations et d'éviter certaines erreurs de déclaration. Par ailleurs, le Gouvernement s'est engagé le 21 juin 2017 à un retour à la normale pour le calendrier de versement des aides du premier pilier de la politique agricole commune 2018. La télédéclaration amorçant la campagne de gestion des aides, son bon déroulement et le respect de son calendrier était un des éléments du retour à la normale du calendrier de paiement. Pour la campagne 2019, de la même manière, la date limite de dépôt des dossiers est fixée au 15 mai 2019. Les exploitants devront déposer leur demande au cours de la période de télédéclaration de six semaines, du 1er avril au 15 mai 2019.
