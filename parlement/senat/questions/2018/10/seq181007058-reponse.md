@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007058
+
+- Question : [SEQ181007058](seq181007058.md) — Suppression de la clause de conscience spécifique à l'IVG
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-01-31, page 587*
+
+L'interruption volontaire de grossesse (IVG) est un droit de la femme, un droit humain. Ce droit, inscrit dans notre patrimoine juridique, est une question de liberté, de respect et de dignité des femmes. Il a sauvé la santé et la vie de milliers de femmes. Ce droit garantit l'accès à l'information, à des services de soins dédiés mais aussi à des interruptions de grossesse sécurisées, volontaires ou pour des raisons médicales. La loi de modernisation de notre système de santé du 26 janvier 2016 a amélioré les conditions d'accès à l'IVG, en supprimant notamment le délai de réflexion de sept jours au profit d'un délai librement choisi par la femme. Lors des débats parlementaires concernant la loi suscitée, la clause de conscience n'a pas été remise en cause dès lors qu'elle contribue au juste équilibre établi par la loi Veil. Aujourd'hui, il n'y a pas de volonté de revenir sur cet équilibre. La clause de conscience est un droit pour les professionnels de santé qui, pour une raison personnelle, ne souhaitent pas pratiquer cet acte. Toutefois, comme le prévoit le code de la santé publique (article L. 2212-8), le praticien qui fait valoir ce droit « doit informer, sans délai, l'intéressée de son refus, et lui communiquer immédiatement le nom de praticiens ou de sages-femmes susceptibles de réaliser cette intervention ». Cette information et cette orientation sont impératives pour permettre à la femme d'exercer son droit. Concernant l'égal accès des femmes à l'IVG, un état des lieux est demandé aux agences régionales de santé afin d'identifier les difficultés rencontrées et d'y remédier.
