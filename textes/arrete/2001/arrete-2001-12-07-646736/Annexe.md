@@ -26,13 +26,13 @@ A
 
 |
 
-1 299
+1 394
 
 |
 
 20 à 50 points
 
-(dans la limite de 32 747 points)
+(dans la limite de 34 932 points)
 
 |
 
@@ -40,13 +40,13 @@ B
 
 |
 
-1 141
+1 072
 
 |
 
 10 à 30 points
 
-(dans la limite de 17 115 points)
+(dans la limite de 16 078 points)
 
 |
 
@@ -70,6 +70,6 @@ Nombre de points
 
 |
 
-53 043
+54 191
 
 |

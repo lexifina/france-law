@@ -54,7 +54,7 @@ A |
 
 5° Assistant de service social dont l'exercice des missions comporte des sujétions particulières. |
 
-B |
+A |
 
 127 |
 
