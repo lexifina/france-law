@@ -1,14 +1,12 @@
 # Article ANNEXE III-A
 
-ANNEXE III-A
-
 CERTIFICATIONS DÉLIVRÉES PAR L'ÉTAT
 
-Les dispositions sont applicables aux personnes titulaires des qualifications mentionnées ou ayant obtenu les exigences préalables à l'entrée en formation, les exigences préalables à la mise en situation pédagogique ou les unités capitalisables (UC) correspondantes des DEJEPS « perfectionnement sportif » mentions « dressage » ou « concours de saut d'obstacles » ou « concours complet ».
+Les dispositions sont applicables aux personnes titulaires des qualifications mentionnées ou ayant obtenu les exigences préalables à l'entrée en formation, les exigences préalables à la mise en situation pédagogique ou les unités capitalisables (UC) correspondantes des DEJEPS perfectionnement sportif mentions dressage ou concours de saut d'obstacles ou concours complet .
 
 Vous avez obtenu |
 
-Equivalences dans le DEJEPS « sports équestres » |
+Equivalences dans le DEJEPS sports équestres |
 
 EPEF
 
@@ -40,13 +38,13 @@ UC 4 |
 
 Dispense
 
-« CS initiation »
+CS initiation
 
 (3) |
 
 Dispense
 
-« CS optimisation »
+CS optimisation
 
 (4) |
 
@@ -64,7 +62,7 @@ X |
 
 |
 
-|
+X |
 
 |
 
@@ -90,7 +88,7 @@ X |
 
 |
 
-Candidats ayant obtenu ou une ou plusieurs unités capitalisables (UC) du DEJEPS « perfectionnement sportif » mentions « dressage » ou « concours de saut d'obstacles » ou « concours complet » |
+Candidats ayant obtenu ou une ou plusieurs unités capitalisables (UC) du DEJEPS perfectionnement sportif mentions dressage ou concours de saut d'obstacles ou concours complet |
 
 |
 
@@ -102,7 +100,7 @@ Obtient de droit la ou les UC correspondantes |
 
 (1) Exigences préalables à l'entrée en formation.
 
-(2) Exigences préalables à la mise en situation pédagogique.
+(2) Exigences préalables à la mise en situation professionnelle.
 
 (3) Conduite d'une séance d'initiation.
 

@@ -2,9 +2,9 @@
 
 ANNEXE III
 
-DISPENSES ET ÉQUIVALENCES DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ « PERFECTIONNEMENT SPORTIF » MENTION « SPORTS ÉQUESTRES »
+DISPENSES ET ÉQUIVALENCES DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ PERFECTIONNEMENT SPORTIF MENTION SPORTS ÉQUESTRES
 
-Les dispenses peuvent porter sur tout ou partie des tests préalables à l'entrée en formation, des tests préalables à la mise en situation pédagogique ou de tout ou partie d'une modalité certificative d'une unité capitalisable (UC).
+Les dispenses peuvent porter sur tout ou partie des tests préalables à l'entrée en formation, des tests préalables à la mise en situation professionnelle ou de tout ou partie d'une modalité certificative d'une unité capitalisable (UC).
 
 Il convient de se reporter aux tableaux figurant dans les annexes III-A à III- E selon les cas :
 
@@ -12,7 +12,7 @@ ANNEXE III-A :
 
 Certifications délivrées par l'Etat :
 
-Les dispositions sont applicables aux personnes titulaires des qualifications mentionnées ou ayant obtenu les EPEF, EPMSP ou UC correspondantes des DEJEPS « perfectionnement sportif » mentions « dressage » ou « concours de saut d'obstacles » ou « concours complet ».
+Les dispositions sont applicables aux personnes titulaires des qualifications mentionnées ou ayant obtenu les EPEF, EPMSP ou UC correspondantes des DEJEPS perfectionnement sportif mentions dressage ou concours de saut d'obstacles ou concours complet .
 
 ANNEXE III-B :
 
@@ -40,4 +40,4 @@ ANNEXE III-D : s'applique au candidat titulaire d'une certification délivrée p
 
 ANNEXE III-E : s'applique au candidat titulaire d'un certificat de qualification professionnelle (CQP) délivré par la Commission paritaire nationale de l'emploi - Entreprises Equestres (CPNE-EE).
 
-(*) CQP EAE : certificat de qualification professionnelle « enseignant animateur d'équitation ».
+(*) CQP EAE : certificat de qualification professionnelle enseignant animateur d'équitation .
