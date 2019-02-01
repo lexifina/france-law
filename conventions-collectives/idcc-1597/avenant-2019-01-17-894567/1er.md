@@ -1,0 +1,3 @@
+# Article 1er
+
+Suite à l'achèvement de la démarche de restructuration menée au niveau national, les organisations d'employeurs et les organisations de salariés de la région Grand Est, se sont de nouveau réunies en date du 17 janvier 2019 à Nancy pour déterminer les salaires mensuels minimaux des ouvriers du bâtiment de la région Grand Est, nouvelle grande région issue le 1er janvier 2016 de la fusion administrative de l'Alsace, Champagne-Ardenne et Lorraine, conformément à l' article 1-3 de la convention collective nationale du 7 mars 2008 des ouvriers employés par les entreprises du bâtiment du Grand Est visées par le décret du 1er mars 1962, c'est-à-dire occupant jusqu'à de 10 salariés.
