@@ -26,17 +26,11 @@ Si la livraison de lait n'a pas lieu habituellement pendant tout le mois, pour l
 
 5. Le laboratoire dispose des capacités analytiques en routine pour mettre en œuvre l'analyse de l'échantillon de lait conformément aux dispositions du point 3 ci-dessus.
 
-6. Le laboratoire est accrédité par le Comité français d'accréditation (COFRAC), selon le document LAB REF 15, ou par un autre organisme membre de la Coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant l'activité considérée, pour la réalisation des analyses de germes à 30 °C, de cellules somatiques et de résidus d'antibiotiques dans le lait.
+6. (Abrogé)
 
-7. Le laboratoire réalise, sous accréditation, les analyses selon les méthodes reconnues par le ministère en charge de l'agriculture (DGAl).
+7. (Abrogé)
 
-8. Le laboratoire participe à l'ensemble des essais interlaboratoires d'aptitude (EILAs) organisés ou coordonnés par les LNR :
-
-- LNR lait et produits laitiers pour les germes à 30 °C et les cellules somatiques ;
-
-- LNR résidus de médicaments vétérinaires pour les résidus d'antibiotiques.
-
-La participation à ces essais interlaboratoires est obligatoire, indépendamment de la participation du laboratoire à d'autres essais interlaboratoires organisés par d'autres organismes ou par les organisations interprofessionnelles mentionnées à l'article L. 632-1 ou à l'article L. 632-9 ou à l'article L. 632-12 du code rural et de la pêche maritime.
+8. (Abrogé)
 
 9. Le laboratoire est tenu d'utiliser le système d'information Infolabo¢, ou tout système d'information équivalent, permettant au producteur de lait ou à son mandataire, et à l'acheteur de lait ou à son mandataire d'accéder à ses résultats d'analyses en temps réel par simple connexion informatique.
 
