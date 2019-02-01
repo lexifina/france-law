@@ -168,6 +168,24 @@ e) Données relatives à la gestion administrative et opérationnelle de l'éloi
 
 11° Nécessité d'une surveillance particulière au regard de l'ordre public ou de la protection de l'individu concerné ; volonté manifeste ou exprimée de l'étranger de faire obstacle à son éloignement (O/N).
 
+D. - Données relatives aux ressortissants étrangers se déclarant mineurs et privés temporairement ou définitivement de la protection de leur famille et évalués majeurs par le président du conseil départemental en application des dispositions des articles L. 221-2-2 et R. 221-11 du code de l'action sociale et des familles :
+
+a) Commune de rattachement de l'intéressé ou adresse de l'organisme d'accueil auprès duquel celui-ci est domicilié ;
+
+b) Conseil départemental chargé de l'évaluation ;
+
+c) Date et conditions d'entrée en France ;
+
+d) Numéro de procédure attribué par le traitement AEM et numéro de procédure du service de l'aide sociale à l'enfance ;
+
+e) Date de la fin de l'évaluation par le président du conseil départemental ;
+
+f) Résultat de cette décision, notamment l'indication de la majorité ;
+
+g) Existence d'une saisine de l'autorité judiciaire par une personne évaluée majeure et date de la mesure d'assistance éducative lorsqu'une telle mesure est prononcée ;
+
+h) Date de la notification au préfet de département et, à Paris, au préfet de police de la date de la fin de l'évaluation par le président du conseil départemental ou de la saisine par le président de l'autorité judiciaire.
+
 Section 2
 
 Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation
