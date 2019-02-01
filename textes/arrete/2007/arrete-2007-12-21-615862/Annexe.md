@@ -104,9 +104,9 @@ Réceptionniste polyvalent en hôtellerie.
 
 Technicien de maintenance en audiovisuel.
 
-TITRES DÉLIVRÉS PAR L'ASSEMBLÉE PERMANENTE
+TITRES DÉLIVRÉS PAR
 
-DES CHAMBRES DE MÉTIERS ET DE L'ARTISANAT (APCM)
+CMA France
 
 Brevets de maîtrise
 

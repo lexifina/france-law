@@ -1,6 +1,6 @@
 # Article 21 bis
 
-L'assemblée permanente des chambres de métiers et de l'artisanat centralise, au sein du répertoire national des métiers :
+CMA France centralise, au sein du répertoire national des métiers :
 
 1° Les données informatiques des répertoires tenus par chaque chambre ;
 
