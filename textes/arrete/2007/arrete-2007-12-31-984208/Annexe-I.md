@@ -34,12 +34,6 @@ Cet entretien porte sur la séance conduite par le candidat et les éléments is
 
 Le document numérique, la séance et l'entretien visent à évaluer la capacité à diriger un système d'entrainement en tennis (UC3).
 
-Epreuve certificative de l'UC 4
+Epreuve certificative de l'UC4 :
 
-L'épreuve est organisée en centre de formation et consiste en un entretien.
-
-Le jour de l'épreuve, le candidat remet aux évaluateurs un document numérique, intégrant une ou plusieurs vidéos, de 10 minutes au maximum qui fait apparaître des situations pédagogiques de séances organisées dans sa structure d'alternance nécessitant une prise en compte de la sécurité des pratiquants et des tiers.
-
-Avant l'entretien, les évaluateurs visionnement, à partir de l'ordinateur fourni par le candidat, le document numérique susmentionné.
-
-L'entretien d'une durée de 20 minutes au maximum porte sur les éléments issus du document numérique et notamment sur la prise en compte de la sécurité des pratiquants et des tiers.
+L'épreuve est organisée en centre de formation et consiste en un entretien d'une durée comprise entre 15 minutes au minimum et 30 minutes au maximum portant sur les problématiques liées à la sécurité des pratiquants et des tiers.
