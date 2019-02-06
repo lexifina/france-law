@@ -1,0 +1,53 @@
+# Droit de résiliation sans frais de contrats de complémentaire santé
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37206
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/droit_resiliation_contrats_complementaire_sante
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-417.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-02-06 : 1er dépôt d'une initiative. (PIONANR5L15B1660)
+  - 2019-02-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-06 : Renvoi en commission au fond
+      - 2019-02-19 : Nomination de rapporteur
+      - 2019-02-19 : Réunion de commission
+      - 2019-03-20 : Réunion de commission
+      - 2019-03-27 : Réunion de commission
+      - 2019-03-20 : Dépôt de rapport (RAPPANR5L15B1772, PIONANR5L15BTC1772)
+  - Discussion en séance publique
+    - 2019-03-27 : Discussion en séance publique
+    - 2019-03-27 : Discussion en séance publique
+    - 2019-03-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-03-28 : Dépôt d'une initiative en navette (PIONSNR5S319B0417)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-04-10 : Dépôt de rapport (RAPPSNR5S319B0440, PIONSNR5S319BTC0441)
+  - Discussion en séance publique
+    - 2019-05-02 : Discussion en séance publique
+    - 2019-05-02 : Décision
+- Commission Mixte Paritaire
+  - 2019-05-02 : Dépôt d'un projet de loi (PIONANR5L15B1920)
+  - 2019-05-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-05-15 : Nomination de rapporteur
+    - 2019-05-15 : Dépôt du rapport d'une CMP (RAPPANR5L15B1948, PIONANR5L15BTC1948)
+    - 2019-05-15 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0507, PIONSNR5S319BTC0508)
+  - Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Décision
+  - Discussion en séance publique
+    - 2019-07-04 : Discussion en séance publique
+    - 2019-07-04 : Décision
+  - 2019-05-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-07-14 : Promulgation d'une loi
