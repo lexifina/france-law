@@ -1,0 +1,11 @@
+# projet de loi  sur le projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, autorisant l'approbation de la décision (UE, EURATOM) 2018/994 du Conseil du 13 juillet 2018 modifiant l'acte portant élection des membres du Parlement européen au suffrage universel direct, annexé à la décision 76/787/CECA, CEE, Euratom du Conseil du 20 septembre 1976 (n°227).
+
+- Type : Projet de loi
+- Sous-type : autorisant la ratification d'une convention
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Modification de l'acte portant élection des membres du Parlement européen
+- Déposé le : 2019-02-06
+- Dossier : DLR5L15N36955
+- Auteurs : M. Richard Yung (rapporteur), Commission des affaires étrangères, de la défense et des forces armées
+- Identifiant : PRJLSNR5S319BTC0298
