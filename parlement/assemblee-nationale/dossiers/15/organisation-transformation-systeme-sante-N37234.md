@@ -1,0 +1,91 @@
+# Organisation et transformation du système de santé
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37234
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/organisation_transformation_systeme_sante
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-404.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-02-13 : 1er dépôt d'une initiative. (PRJLANR5L15B1681)
+  - 2019-02-13 : Etude d'impact (ETDIANR5L15B1681)
+  - 2019-02-13 : Avis du Conseil d'Etat (AVCEANR5L15B1681)
+  - 2019-02-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-13 : Renvoi en commission au fond
+      - 2019-02-06 : Nomination de rapporteur
+      - 2019-02-06 : Réunion de commission
+      - 2019-03-05 : Réunion de commission
+      - 2019-03-12 : Réunion de commission
+      - 2019-03-12 : Réunion de commission
+      - 2019-03-13 : Réunion de commission
+      - 2019-03-13 : Réunion de commission
+      - 2019-03-13 : Réunion de commission
+      - 2019-03-14 : Réunion de commission
+      - 2019-03-14 : Réunion de commission
+      - 2019-03-18 : Réunion de commission
+      - 2019-03-14 : Dépôt de rapport (RAPPANR5L15B1767, PRJLANR5L15BTC1767)
+    - Travaux d'une commission saisie pour avis
+      - 2019-02-19 : Saisine pour avis d'une commission
+      - 2019-02-13 : Nomination de rapporteur
+      - 2019-02-13 : Réunion de commission
+      - 2019-03-11 : Réunion de commission
+      - 2019-03-11 : Dépôt de rapport (AVISANR5L15B1762)
+  - Discussion en séance publique
+    - 2019-03-18 : Discussion en séance publique
+    - 2019-03-18 : Discussion en séance publique
+    - 2019-03-19 : Discussion en séance publique
+    - 2019-03-19 : Discussion en séance publique
+    - 2019-03-20 : Discussion en séance publique
+    - 2019-03-20 : Discussion en séance publique
+    - 2019-03-21 : Discussion en séance publique
+    - 2019-03-21 : Discussion en séance publique
+    - 2019-03-21 : Discussion en séance publique
+    - 2019-03-22 : Discussion en séance publique
+    - 2019-03-22 : Discussion en séance publique
+    - 2019-03-22 : Discussion en séance publique
+    - 2019-03-26 : Discussion en séance publique
+    - 2019-03-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-03-26 : Dépôt d'une initiative en navette (PRJLSNR5S319B0404)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-26 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-05-22 : Dépôt de rapport (RAPPSNR5S319B0524, PRJLSNR5S319BTC0525)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-10 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-05-21 : Dépôt de rapport (AVISSNR5S319B0516)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-10 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-05-21 : Dépôt de rapport (AVISSNR5S319B0515)
+  - Discussion en séance publique
+    - 2019-06-03 : Discussion en séance publique
+    - 2019-06-04 : Discussion en séance publique
+    - 2019-06-05 : Discussion en séance publique
+    - 2019-06-06 : Discussion en séance publique
+    - 2019-06-07 : Discussion en séance publique
+    - 2019-06-11 : Discussion en séance publique
+    - 2019-06-11 : Décision
+- Commission Mixte Paritaire
+  - 2019-06-13 : Dépôt d'un projet de loi (PRJLANR5L15B2034)
+  - 2019-06-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-20 : Nomination de rapporteur
+    - 2019-06-20 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0586, PRJLSNR5S319BTC0587)
+    - 2019-06-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B2064, PRJLANR5L15BTC2064)
+  - Discussion en séance publique
+    - 2019-07-10 : Discussion en séance publique
+    - 2019-07-10 : Discussion en séance publique
+    - 2019-07-10 : Décision
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Décision
+  - 2019-06-21 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-07-24 : Promulgation d'une loi
