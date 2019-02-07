@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du marché de fourniture de matériels et équipements sportifs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : COMMANDE PUBLIQUE
+- Objet : Approbation du marché de fourniture de matériels et équipements sportifs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2NzIsInB1ciI6ImJsb2JfaWQifX0=--869784684732f4766fcba71713a1e93d3f0cca91/06022020_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
