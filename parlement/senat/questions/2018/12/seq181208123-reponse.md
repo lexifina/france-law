@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208123
+
+- Question : [SEQ181208123](seq181208123.md) — Cas des patients diabétiques en coma hypoglycémique
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-02-07, page 706*
+
+À ce jour, les ampoules de glucose à 30 % (G30 %) ne peuvent être obtenues par les infirmiers auprès des pharmacies pour leur usage professionnel. En effet, les ampoules de G30 % sont classées sur la Liste I des substances vénéneuses prévue à l'article L. 5132-1 du code de la santé publique. De ce fait, elles ne peuvent pas être délivrées aux infirmiers pour usage professionnel car elles ne sont pas visées par l'arrêté du 23 décembre 2013 fixant la liste des médicaments prévue à l'article R. 5132-6 du même code que les pharmaciens peuvent délivrer sur commande à usage professionnel d'un infirmier. Cet arrêté ne mentionne que l'adrénaline injectable. Compte tenu des protocoles de prise en charge médicale qui préconisent dans des cas particuliers avec une prescription médicale individuelle actualisée, écrite, qualitative et quantitative, datée et signée, l'administration de solution de glucose hypertonique en cas d'hypoglycémie chez un patient diabétique avec altération de l'état de conscience, la nécessité de mettre à disposition des infirmiers des ampoules de G 30 % pour leur usage professionnel retient toute l'attention du ministère des solidarités et de la santé et sera analysée lors d'une prochaine actualisation de l'arrêté. Il convient de préciser que chez tout patient diabétique connu, inconscient, l'injection de glucagon en intramusculaire ou sous-cutané (disponible en kit) est facilement réalisable par la famille, c'est un geste plus simple chez les patients présentant une agitation associée que l'injection intraveineuse directe d'une ou deux ampoules de soluté de glucose à 30 %. Il faut s'assurer de la disponibilité de ce kit au domicile du patient diabétique (et de sa prescription par le médecin traitant).
