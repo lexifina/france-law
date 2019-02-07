@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Choix de la procédure pour la mise en place du futur dispositif de couverture du risque prévoyance pour les agents
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : RESSOURCES HUMAINES
+- Objet : Choix de la procédure pour la mise en place du futur dispositif de couverture du risque prévoyance pour les agents
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzQsInB1ciI6ImJsb2JfaWQifX0=--7cd327810abca0702fffb630cba6c144f623f0b1/07082019_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
