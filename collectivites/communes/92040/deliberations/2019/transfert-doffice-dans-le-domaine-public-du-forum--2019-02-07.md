@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Transfert d’office dans le domaine public du Forum des Epinettes
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : ESPACES PUBLICS
+- Objet : Transfert d’office dans le domaine public du Forum des Epinettes
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMjEsInB1ciI6ImJsb2JfaWQifX0=--6f33228b91e5ae76bc81eee7414ee1b8666cb1ef/06022020_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
