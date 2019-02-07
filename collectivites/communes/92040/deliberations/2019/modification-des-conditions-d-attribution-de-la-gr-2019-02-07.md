@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification des conditions d'attribution de la gratification relative au label ou à la certification qualité
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification des conditions d'attribution de la gratification relative au label ou à la certification qualité
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NzAsInB1ciI6ImJsb2JfaWQifX0=--9a2ec4411e25934174d746b6cc22cf5bbdc30a31/07082019_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
