@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Subventions aux associations pour l’année 2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : FINANCES
+- Objet : Subventions aux associations pour l’année 2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMTMsInB1ciI6ImJsb2JfaWQifX0=--844fc5f382b495e4dbe5b15f9849c81867d579cd/06022020_04.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
