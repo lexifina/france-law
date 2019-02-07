@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des conventions à passer avec le Syndicat des Copropriétaires « Les Terrasses Rodin » et le Syndicat principal Plateau Egalité pour l’entretien des abords du Forum des Epinettes ouverts au public
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : ESPACES PUBLICS
+- Objet : Approbation des conventions à passer avec le Syndicat des Copropriétaires « Les Terrasses Rodin » et le Syndicat principal Plateau Egalité pour l’entretien des abords du Forum des Epinettes ouverts au public
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMDksInB1ciI6ImJsb2JfaWQifX0=--1292214f8066dea1a603292df73cbdda34775e0a/06022020_25.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
