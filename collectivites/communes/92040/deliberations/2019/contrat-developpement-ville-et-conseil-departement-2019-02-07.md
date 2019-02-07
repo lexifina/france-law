@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Contrat développement Ville et Conseil départemental des Hauts-de-Seine
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : FINANCES
+- Objet : Contrat développement Ville et Conseil départemental des Hauts-de-Seine
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NzQsInB1ciI6ImJsb2JfaWQifX0=--4ade65bd76db08bfdc7380f8de56ad2ac847f283/07082019_07.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
