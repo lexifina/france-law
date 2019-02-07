@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d'un appel d'offres relatif aux prestations de nettoyage des locaux et des cours
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Lancement d'un appel d'offres relatif aux prestations de nettoyage des locaux et des cours
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2MzgsInB1ciI6ImJsb2JfaWQifX0=--9141d7afca0e2f096e117303b387702f424d7d60/07082019_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
