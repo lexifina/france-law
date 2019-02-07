@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Garantie d'emprunt SA HLM NOVIGERE
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : FINANCES
+- Objet : Garantie d'emprunt SA HLM NOVIGERE
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5NzMsInB1ciI6ImJsb2JfaWQifX0=--c096f4df60dbfd75cb7d91a2216d8a61ca076be0/07082019_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
