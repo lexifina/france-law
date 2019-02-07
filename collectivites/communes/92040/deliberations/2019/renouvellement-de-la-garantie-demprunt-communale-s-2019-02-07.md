@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de la garantie d’emprunt communale suite au transfert de deux lignes de prêts à l’OPH Seine Ouest Habitat dans le cadre des opérations d’acquisition situées au 27 rue du Moulin de Pierre et au 194 avenue de Verdun
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : FINANCES
+- Objet : Renouvellement de la garantie d’emprunt communale suite au transfert de deux lignes de prêts à l’OPH Seine Ouest Habitat dans le cadre des opérations d’acquisition situées au 27 rue du Moulin de Pierre et au 194 avenue de Verdun
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMDcsInB1ciI6ImJsb2JfaWQifX0=--f80d25f20de55a4bddcc74abe26ef72f3ce82b3c/06022020_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
