@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Bilan et déploiement du télétravail
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : RESSOURCES HUMAINES
+- Objet : Bilan et déploiement du télétravail
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzIsInB1ciI6ImJsb2JfaWQifX0=--c07d6b192017964542983e430964fe81c68369b9/07082019_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
