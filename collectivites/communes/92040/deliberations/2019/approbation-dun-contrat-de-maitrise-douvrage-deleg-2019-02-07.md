@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un contrat de maîtrise d’ouvrage déléguée pour une partie des travaux 2020 du Palais des Arts et des Congrès d’Issy Charles Aznavour
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : CULTURE
+- Objet : Approbation d’un contrat de maîtrise d’ouvrage déléguée pour une partie des travaux 2020 du Palais des Arts et des Congrès d’Issy Charles Aznavour
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5MDYsInB1ciI6ImJsb2JfaWQifX0=--e1b7847a123249b39b317ee5dceeb33c7169be28/06022020_09.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
