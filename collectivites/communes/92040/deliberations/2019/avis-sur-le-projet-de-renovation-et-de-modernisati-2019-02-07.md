@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Avis sur le projet de rénovation et de modernisation du Parc des expositions de la Porte de Versailles (phase 3)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : URBANISME
+- Objet : Avis sur le projet de rénovation et de modernisation du Parc des expositions de la Porte de Versailles (phase 3)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMTQsInB1ciI6ImJsb2JfaWQifX0=--9ae1922ca02d9cfc96b7644149668a9a3e71ba9b/06022020_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
