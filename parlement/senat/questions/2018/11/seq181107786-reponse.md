@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107786
+
+- Question : [SEQ181107786](seq181107786.md) — Avenir de la filière du houblon
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-02-07, page 684*
+
+La filière houblon est une filière importante en France. L'Alsace représente 95 % des surfaces cultivées en France, soit 450 hectares (ha). Le Nord-Pas-de-Calais représente 20 ha. On observe depuis quelques années des plantations de houblonnières qui tendent à se développer hors de ces deux régions traditionnelles notamment en Pays-de-la-Loire, en Bretagne, en Bourgogne et en Auvergne-Rhône-Alpes. La filière a travaillé à l'ouverture vers de nouveaux marchés notamment par l'élargissement de la gamme variétale. La dynamique de la filière se traduit aussi ces dernières années par le développement de micro brasseries. Pour autant, les planteurs de houblon peuvent être en difficulté aujourd'hui pour rentabiliser leur exploitation face à des cours du houblon très volatiles qui ne couvrent pas toujours les coûts de production. Afin de préserver une production française de houblon de qualité, le Gouvernement a maintenu l'aide couplée à la culture du houblon. Le montant de l'aide couplée s'élève à 661 €/ha en 2017 et 68 producteurs en ont bénéficié. L'Alsace, dont la production de houblon est très liée à l'activité brassicole de la région, est la principale bénéficiaire de cet accompagnement financier car 60 % des planteurs se situent dans le Bas-Rhin. Cette aide s'ajoute aux aides découplées dont peuvent bénéficier les planteurs de houblon. Par ailleurs, la filière houblon bénéficie également des outils du développement rural. Les mesures prévues visent notamment à soutenir les exploitations de diversification agricole dont fait partie le houblon, à maintenir une dynamique d'installation et développer les cultures à forte valeur ajoutée et contribuant à un taux d'emploi élevé à l'hectare.
