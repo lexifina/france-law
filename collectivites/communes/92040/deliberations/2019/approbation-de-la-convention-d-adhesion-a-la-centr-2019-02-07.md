@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la convention d'adhésion à la centrale d'achat du SIFUREP
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : AFFAIRES FUNERAIRES
+- Objet : Approbation de la convention d'adhésion à la centrale d'achat du SIFUREP
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NzIsInB1ciI6ImJsb2JfaWQifX0=--3a3606408a19c3a69e7f096e56f9ca28b32d1366/07082019_27.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
