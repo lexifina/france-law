@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation du taux de vacation d'un psychologue du travail
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : RESSOURCES HUMAINES
+- Objet : Fixation du taux de vacation d'un psychologue du travail
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyNzMsInB1ciI6ImJsb2JfaWQifX0=--bf180118dc8293d0f9529baafdb9337a9da39078/07082019_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
