@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du Projet Scientifique et Culturel du Musée Français de la Carte à Jouer et Galerie d’Histoire de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : CULTURE
+- Objet : Approbation du Projet Scientifique et Culturel du Musée Français de la Carte à Jouer et Galerie d’Histoire de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MTcsInB1ciI6ImJsb2JfaWQifX0=--ac14ad292b6774668efbdf5e72b4a8b97e4a5922/06022020_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
