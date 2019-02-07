@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation financière de la Ville au titre des actions de prévention pour l’année 2020 dans le cadre du Contrat Local de Sécurité
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : FINANCES
+- Objet : Participation financière de la Ville au titre des actions de prévention pour l’année 2020 dans le cadre du Contrat Local de Sécurité
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MTYsInB1ciI6ImJsb2JfaWQifX0=--a86aad1601a8cb7a4ced2860601f23e23525f773/06022020_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
