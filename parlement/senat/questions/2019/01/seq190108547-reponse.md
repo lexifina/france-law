@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108547
+
+- Question : [SEQ190108547](seq190108547.md) — Statut spécifique pour les filles des femmes auxquelles le Distilbène a été prescrit durant une grossesse
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-02-07, page 709*
+
+Le Gouvernement est particulièrement soucieux de prévenir les conséquences sanitaires de l'exposition in utero au diéthylstilbestrol (DES), dès lors que les risques potentiels sont identifiés à partir de recommandations médicales solides. En mars 2014, la Haute autorité de santé (HAS) dans son avis relatif au « dépistage du cancer du sein en France : identification des femmes à haut risque et modalités de dépistage » n'a pas trouvé de niveau de preuve suffisant et a ainsi classé l'exposition au DES parmi les facteurs de risque pour lesquels aucun dépistage spécifique du cancer du sein n'est justifié, à rebours de l'étude réalisée par l'association « réseau DES » à la même période. S'agissant du risque de cancer du col de l'utérus, l'Agence française de sécurité sanitaire des produits de santé, souhaitant renouveler la sensibilisation des professionnels de santé sur les modalités de dépistage et de prise en charge de ces patientes, préconisait en 2011 un suivi gynécologique annuel. La HAS n'a pas émis de recommandations en la matière, en l'absence de littérature scientifique récente. Compte tenu de ces incertitudes quant aux recommandations médicales à appliquer, cela ne s'est pas traduit par une modification de la prise en charge. Il convient de rappeler que la quasi-totalité des assurées bénéficient d'une couverture intégrale du frottis cervico-utérin dès lors qu'elles sont couvertes par un contrat de complémentaire santé dit responsable et ce sans limitation de périodicité. En tout état de cause, le Gouvernement portera une attention marquée à ce sujet dans les mois à venir, pour prendre le cas échéant les dispositions législatives qui s'avèreraient nécessaires.
