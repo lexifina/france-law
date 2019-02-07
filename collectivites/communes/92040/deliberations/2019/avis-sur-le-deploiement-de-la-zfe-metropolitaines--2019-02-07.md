@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Avis sur le déploiement de la ZFE métropolitaines dans les communes limitrophes - Meudon, Paris et Vanves
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-02-07
+- Matière : DEVELOPPEMENT DURABLE
+- Objet : Avis sur le déploiement de la ZFE métropolitaines dans les communes limitrophes - Meudon, Paris et Vanves
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1NzEsInB1ciI6ImJsb2JfaWQifX0=--61ba748b4bbc3d5927df3e26254a311509840523/07082019_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
