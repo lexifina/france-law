@@ -1,8 +1,4 @@
-# Article Annexe I
-
-ANNEXES
-
-ANNEXE 1
+# Article Annexe 1
 
 Académie agriculture de France
 
@@ -674,7 +670,7 @@ Ecole nationale supérieure maritime
 
 Ecole normale sociale de l'ouest d'Angers
 
-Ecole normale supérieure de Cachan
+Ecole normale supérieure Paris-Saclay
 
 Ecole normale supérieure de Lyon
 
@@ -766,7 +762,7 @@ GIP Agence française pour le développement et la promotion de l'agriculture bi
 
 GIP Agence nationale d'appui à la performance des établissements de santé et médico-sociaux
 
-GIP AGEVIF formation « Agence de validation, d'insertion, de formation » - Poitiers
+GIP AGEVIF formation Agence de validation, d'insertion, de formation - Poitiers
 
 GIP ASIP Santé (Agence nationale des systèmes d'information partagés de santé)
 
@@ -1248,7 +1244,7 @@ Unifrance films
 
 Union centrale des arts décoratifs
 
-Université « Sorbonne Université »
+Université Sorbonne Université
 
 Université Aix-Marseille
 

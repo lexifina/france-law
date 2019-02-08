@@ -1,6 +1,6 @@
 # Article Annexe VII bis
 
-Horaire hebdomadaire des classes préparatoires à l'école normale supérieure de Cachan,
+Horaire hebdomadaire des classes préparatoires à l'Ecole normale supérieure Paris-Saclay,
 
 section C, département arts-création industrielle
 

@@ -78,7 +78,7 @@ Ecole nationale des chartes
 
 |
 
-Ecole normale supérieure de Cachan
+Ecole normale supérieure Paris-Saclay
 
 |
 
