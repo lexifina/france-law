@@ -8,6 +8,8 @@ I. Organisation régionale du dépistage néonatal recourant à des examens de b
 
 A. Organisation des CRDN
 
+Le logo du programme national de dépistage néonatal doit être appliqué sur l'ensemble des supports de communication du CRDN. Ce logo est mis à la disposition des CRDN par le ministère chargé de la santé.
+
 B. Financement des CRDN
 
 II. Missions du CRDN
