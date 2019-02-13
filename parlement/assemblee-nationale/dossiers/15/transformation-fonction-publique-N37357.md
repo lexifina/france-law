@@ -1,0 +1,77 @@
+# Transformation de la fonction publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37357
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/transformation_fonction_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-532.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-03-27 : 1er dépôt d'une initiative. (PRJLANR5L15B1802)
+  - 2019-03-27 : Etude d'impact (ETDIANR5L15B1802)
+  - 2019-03-27 : Avis du Conseil d'Etat (AVCEANR5L15B1802)
+  - 2019-03-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-27 : Renvoi en commission au fond
+      - 2019-02-13 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-04-10 : Réunion de commission
+      - 2019-05-02 : Réunion de commission
+      - 2019-05-02 : Réunion de commission
+      - 2019-05-02 : Réunion de commission
+      - 2019-05-03 : Réunion de commission
+      - 2019-05-03 : Réunion de commission
+      - 2019-05-03 : Dépôt de rapport (RAPPANR5L15B1924, PRJLANR5L15BTC1924)
+  - Discussion en séance publique
+    - 2019-05-13 : Discussion en séance publique
+    - 2019-05-13 : Discussion en séance publique
+    - 2019-05-14 : Discussion en séance publique
+    - 2019-05-14 : Discussion en séance publique
+    - 2019-05-16 : Discussion en séance publique
+    - 2019-05-16 : Discussion en séance publique
+    - 2019-05-16 : Discussion en séance publique
+    - 2019-05-17 : Discussion en séance publique
+    - 2019-05-17 : Discussion en séance publique
+    - 2019-05-17 : Discussion en séance publique
+    - 2019-05-20 : Discussion en séance publique
+    - 2019-05-20 : Discussion en séance publique
+    - 2019-05-21 : Discussion en séance publique
+    - 2019-05-21 : Discussion en séance publique
+    - 2019-05-28 : Discussion en séance publique
+    - 2019-05-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-05-29 : Dépôt d'une initiative en navette (PRJLSNR5S319B0532)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-29 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-06-12 : Dépôt de rapport (RAPPSNR5S319B0570, PRJLSNR5S319BTC0571)
+  - Discussion en séance publique
+    - 2019-06-18 : Discussion en séance publique
+    - 2019-06-19 : Discussion en séance publique
+    - 2019-06-20 : Discussion en séance publique
+    - 2019-06-25 : Discussion en séance publique
+    - 2019-06-26 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Décision
+- Commission Mixte Paritaire
+  - 2019-06-28 : Dépôt d'un projet de loi (PRJLANR5L15B2083)
+  - 2019-06-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-04-03 : Nomination de rapporteur
+    - 2019-07-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B2115, PRJLANR5L15BTC2115)
+    - 2019-07-04 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0633, PRJLSNR5S319BTC0634)
+  - Discussion en séance publique
+    - 2019-07-18 : Décision
+  - Discussion en séance publique
+    - 2019-07-23 : Discussion en séance publique
+    - 2019-07-23 : Décision
+  - 2020-02-27 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-07-24 : Saisine du conseil constitutionnel
+  - 2019-08-01 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-08-06 : Promulgation d'une loi
