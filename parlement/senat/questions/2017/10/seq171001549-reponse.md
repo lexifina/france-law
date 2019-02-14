@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001549
+
+- Question : [SEQ171001549](seq171001549.md) — Délai de recours contre un arrêté municipal
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-02-14, page 831*
+
+Les décisions individuelles en matière de personnel transmissibles au contrôle de légalité, dans le cadre de l'article L. 2131-1 du code général des collectivités territoriales (CGCT), n'acquièrent pas de caractère exécutoire en l'absence de transmission, selon les termes du même article. Toutefois, le point de départ du délai de quatre mois pendant lequel l'administration peut retirer une décision individuelle explicite créatrice de droits, si elle est illégale, est la prise de décision de cet acte, en l'occurrence sa date de signature, et non la date de son entrée en vigueur (CE 23 juillet 2014, n° 371460). En effet, l'article L. 242-1 du code des relations entre le public et l'administration, rendu applicable aux relations entre l'administration et ses agents par l'article L. 100-1 du même code, dispose que « L'administration ne peut abroger ou retirer une décision créatrice de droits de sa propre initiative ou sur la demande d'un tiers que si elle est illégale et si l'abrogation ou le retrait intervient dans le délai de quatre mois suivant la prise de cette décision. » Une fois ce délai passé, l'exception d'illégalité à l'encontre d'un tel acte n'est recevable que si l'acte ou la décision ultérieure contestée constitue une même opération complexe, l'illégalité de l'acte initial pouvant être alors invoquée en dépit de son caractère définitif. C'est au juge administratif, saisi au contentieux, qu'il appartiendrait d'apprécier cette notion d'opération complexe pour statuer sur l'illégalité d'une nomination ou d'un avancement illégal devenu définitif.
