@@ -1,0 +1,13 @@
+# Réponse à la question SEQ19020656G
+
+- Question : [SEQ19020656G](seq19020656g.md) — Rétablissement de l'ordre républicain
+
+## Réponse
+
+*Intérieur  (M. le SE auprès du ministre), JO du 2019-02-15, page 2472*
+
+M. Laurent Nunez, secrétaire d'État auprès du ministre de l'intérieur. Monsieur le sénateur Cadic, vous avez raison de souligner que le mouvement dit « des gilets jaunes » a pris une tournure désormais réduite à des manifestations de voie publique. Ces manifestations se déroulent tous les samedis après-midi et, dans bon nombre de villes, elles dégénèrent, parfois au début, parfois à la fin. Quand je dis qu'elles « dégénèrent », c'est un euphémisme : quelques centaines d'individus s'en prennent à nos institutions, aux mairies, aux préfectures, aux forces de l'ordre, aux parlementaires, de manière extrêmement violente et agressive, ce qui nous conduit à déployer des dispositifs policiers partout en France pour chaque manifestation.Convenez que ce mouvement est totalement inédit. Nous n'avons pas connu cela depuis plusieurs dizaines d'années, avec des manifestations jamais déclarées, infiltrées, vous avez raison de le souligner, par les milieux de l'ultra-gauche, parfois par les milieux de l'ultra-droite, avec des « gilets jaunes » radicalisés et qui, quand ils manifestent sur la voie publique et font dégénérer ces manifestations, ne représentent plus maintenant qu'eux-mêmes.
+
+J'étais encore hier soir à Dijon pour saluer le courage et l'abnégation des fonctionnaires de police et des militaires de la gendarmerie nationale qui font face à ce mouvement. Tous les samedis, nous déployons, avec Christophe Castaner, des effectifs de voie publique qui encadrent ces manifestations et interviennent chaque fois qu'elles dégénèrent, procédant à des interpellations pour mettre un terme aux exactions. Depuis le 17 novembre dernier, nous avons, au total, interpellé 8 400 personnes sur lesquelles 7 500 ont été mises en garde à vue et 1 800 ont été condamnées.
+
+Comptez bien sur notre détermination pour poursuivre cette action sur la voie publique et ces investigations judiciaires ultérieures qui permettent de confondre de nombreux casseurs plusieurs jours, voire plusieurs semaines après les actes. Soyez assuré que nous sommes totalement déterminés à mettre un terme à ces exactions. Sachez-le, nous attendons beaucoup des dispositions législatives que nous souhaitons voir adoptées et qui nous permettront d'écarter les casseurs des manifestations. (Applaudissements sur les travées du groupe La République En Marche, ainsi que sur des travées du groupe du Rassemblement Démocratique et Social Européen, du groupe Union Centriste et du groupe Les Indépendants – République et Territoires.)
