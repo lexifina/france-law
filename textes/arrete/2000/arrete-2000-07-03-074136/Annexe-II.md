@@ -22,7 +22,7 @@ Aquitaine
 
 Aquitaine Isol, route de la Gare, 64170 Lacq : de 1970 à 1981 ;
 
-Ahlstrom Paper Group, usine de Rottersac, 24150 Lalinde : de 1956 à 1997 ;
+Ahlstrom Paper Group, usine de Rottersac, 24150 Lalinde : de 1956 à 1997 puis SADEFA INDUSTRIE, FUMEL TECHNOLOGIE, F2A, FUMET D, SAS METALTEMPLE AQUITAINE (SIRET 81070253000017), 1, avenue de l'Usine, 47500 Fumel, de 1998 à 2012 ;
 
 Bernard Dumas SA : 4, rue de la Papeterie, 24100 Creysse, de 1953 à 1987 ;
 
