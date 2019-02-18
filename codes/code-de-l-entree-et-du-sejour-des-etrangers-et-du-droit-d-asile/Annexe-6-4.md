@@ -2,13 +2,15 @@
 
 Section 1
 
-Catégories de données à caractère personnel susceptibles d'être enregistrées
+Catégories de données à caractère personnel et informations susceptibles d'être enregistrées
 
 A. - Données générales
 
 1° Etat civil de l'étranger ; nationalité ;
 
 2° Numéro AGDREF2 et autres numéros de dossiers administratifs ;
+
+2° bis Mot de passe choisi par l'usager ;
 
 3° Pour les titulaires d'un titre de voyage : taille, couleur des yeux ;
 
@@ -62,7 +64,13 @@ B. - Données relatives au droit au séjour, au droit au travail et au titre de 
 
 12° Groupe d'appartenance à la protection temporaire ; données relatives à la gestion administrative de la demande de transfert, de rapprochement familial ou de réadmission des bénéficiaires de la protection temporaire à l'intérieur de l'Union européenne et état-civil des membres de famille ;
 
-13° Références de la procédure d'accès à la nationalité française.
+13° Références de la procédure d'accès à la nationalité française ;
+
+14° Montant et date de paiement des taxes dont l'étranger est redevable ;
+
+15° Identifiant unique du timbre dématérialisé ;
+
+16° Numéro de réservation lié à l'achat du timbre dématérialisé.
 
 C. - Données relatives à la procédure d'éloignement
 
@@ -319,3 +327,7 @@ Images numérisées de sa photographie et de deux empreintes digitales.
 C. - Données contenues dans le composant électronique de la carte de frontalier
 
 Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de frontalier) ainsi que les images numérisées de deux empreintes digitales.
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.
