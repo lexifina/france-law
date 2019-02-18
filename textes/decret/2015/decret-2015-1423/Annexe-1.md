@@ -462,9 +462,7 @@ Décret n° 2001-634 du 17 juillet 2001 pris pour l'application de l'ordonnance 
 
 Décret n° 2002-1219 du 27 septembre 2002 pris pour l'application de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie
 
-Décret n° 2008-1176 du 13 novembre 2008 relatif aux attributions des chefs de mission diplomatique et des chefs de poste consulaire en matière de visas
-
-Arrêté du 19 mai 2009 relatif aux formalités que doivent accomplir auprès de l'Office français de l'immigration et de l'intégration les titulaires de certaines catégories de visa pour un séjour en France d'une durée supérieure à trois mois |
+Décret n° 2008-1176 du 13 novembre 2008 relatif aux attributions des chefs de mission diplomatique et des chefs de poste consulaire en matière de visas |
 
 Document de séjour (titres de séjour, autorisations provisoires de séjour et récépissés) |
 
@@ -535,12 +533,6 @@ Article R. 723-2 |
 Visa délivré par le préfet de Mayotte |
 
 Article L. 832-2 |
-
-Validation du visa de long séjour valant titre de séjour |
-
-Article R. 311-3
-
-Arrêté du 19 mai 2009 |
 
 Enregistrement de la demande d'asile et recours gracieux et hiérarchiques auprès de l'OFPRA |
 
@@ -885,3 +877,7 @@ Echange de permis de conduire étranger |
 Arrêté du 8 février 1999
 
 Arrêté du 12 janvier 2012 |
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.

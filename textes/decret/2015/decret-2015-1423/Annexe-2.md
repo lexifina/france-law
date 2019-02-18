@@ -32,8 +32,6 @@ Décret n° 2002-1219 du 27 septembre 2002 pris pour l'application de l'ordonnan
 
 Décret n° 2008-1176 du 13 novembre 2008 relatif aux attributions des chefs de mission diplomatique et des chefs de poste consulaire en matière de visas
 
-Arrêté du 19 mai 2009 relatif aux formalités que doivent accomplir auprès de l'Office français de l'immigration et de l'intégration les titulaires de certaines catégories de visa pour un séjour en France d'une durée supérieure à trois mois
-
 |
 
 Paiement des taxes et droits de timbre relatifs aux titres de séjour |
@@ -53,3 +51,7 @@ Arrêté du 20 avril 2012 fixant les conditions d'établissement, de délivrance
 Demandes de permis de conduire (sous réserve des expérimentations en cours) |
 
 Article R. 221-1 |
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.
