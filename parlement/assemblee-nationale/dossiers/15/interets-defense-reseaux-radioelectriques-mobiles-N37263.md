@@ -1,0 +1,57 @@
+# Sécurité nationale et exploitation des réseaux radioélectriques mobiles
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37263
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/interets_defense_reseaux_radioelectriques_mobiles
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-454.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-02-20 : 1er dépôt d'une initiative. (PIONANR5L15B1722)
+  - 2019-03-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-20 : Renvoi en commission au fond
+      - 2019-03-13 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-04-10 : Réunion de commission
+      - 2019-04-03 : Dépôt de rapport (RAPPANR5L15B1832, PIONANR5L15BTC1832)
+    - Travaux d'une commission saisie pour avis
+      - 2019-03-20 : Saisine pour avis d'une commission
+      - 2019-03-27 : Nomination de rapporteur
+      - 2019-03-27 : Réunion de commission
+      - 2019-04-02 : Réunion de commission
+      - 2019-04-02 : Dépôt de rapport (AVISANR5L15B1830)
+  - Discussion en séance publique
+    - 2019-04-10 : Discussion en séance publique
+    - 2019-04-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-04-11 : Dépôt d'une initiative en navette (PIONSNR5S319B0454)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-11 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-06-19 : Dépôt de rapport (RAPPSNR5S319B0579)
+    - Travaux d'une commission saisie pour avis
+      - 2019-05-15 : Saisine pour avis d'une commission
+  - Discussion en séance publique
+    - 2019-06-26 : Discussion en séance publique
+    - 2019-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2019-06-26 : Dépôt d'un projet de loi (PIONANR5L15B2081)
+  - 2019-06-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-07-03 : Nomination de rapporteur
+    - 2019-07-03 : Dépôt du rapport d'une CMP (RAPPANR5L15B2112, PIONANR5L15BTC2112)
+    - 2019-07-03 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0631, PIONSNR5S319BTC0632)
+  - Discussion en séance publique
+    - 2019-07-18 : Discussion en séance publique
+    - 2019-07-18 : Décision
+  - Discussion en séance publique
+    - 2019-07-24 : Discussion en séance publique
+    - 2019-07-24 : Décision
+  - 2019-07-04 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-08-01 : Promulgation d'une loi
