@@ -1,0 +1,28 @@
+# TCA - Taxe sur l'édition des ouvrages de librairie
+
+- Identifiant : BOI-TCA-EOL-20190220
+- Publié le : 2019-02-20
+- Type : Commentaire
+- Série : TCA, EOL
+- Bureau : DGFIP
+- Page officielle : https://bofip.impots.gouv.fr/bofip/152-PGP.html/identifiant=BOI-TCA-EOL-20190220
+- Directeur de publication : Bruno Parent, directeur général des finances publiques
+
+## Texte
+
+TCA - Taxe sur l'édition des ouvrages de librairie
+
+Le 25° du III de
+l'article
+26 de la loi n°2018-1317 du 28 décembre 2018 de finances pour 2019 a supprimé les dispositions portant sur la taxe sur l'édition des ouvrages de librairie codifiées au a de
+l'article 1609 undecies du code général des impôts (CGI).
+
+Ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur intervient à
+compter du 1er janvier 2019.
+
+Le fait générateur de la taxe sur les ouvrages d'édition est constitué par la vente des ouvrages
+concernés. Il intervient dans les conditions prévues par les dispositions du a du 1 et du a du 2 de l'article 269 du CGI et de
+l'article 293 A du CGI.
+
+Les commentaires contenus dans le présent BOI sont retirés à compter de la date de publication mentionnée
+ci-dessus. Pour prendre connaissance des commentaires antérieurs, vous pouvez consulter les différentes versions précédentes de ce document dans l'onglet « Versions publiées du document ».
