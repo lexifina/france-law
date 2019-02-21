@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107657
+
+- Question : [SEQ181107657](seq181107657.md) — Cadre d'emploi des directeurs de police municipale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-02-21, page 1014*
+
+Les cadres d'emplois des différentes filières de la fonction publique territoriale ne sont pas obligatoirement structurés de façon identique. La création d'un cadre d'emplois de direction doit être justifiée par la nature et l'étendue des missions et le niveau des responsabilités. Le cadre d'emplois des directeurs de police a fait l'objet d'évolution depuis sa création en 2006. La carrière des directeurs de police municipale a été revalorisée par deux décrets du 23 décembre 2014 avec la création du grade d'avancement de directeur principal de police municipale dont le dernier échelon culmine à l'indice brut 810 au 1er janvier 2017. Au titre de la mise en œuvre du protocole sur les parcours professionnels, les carrières et les rémunérations (PPCR), les directeurs de police municipale bénéficieront d'une revalorisation d'environ treize points d'indice majoré d'ici 2020. De même, les directeurs principaux de police municipale bénéficieront d'une revalorisation d'ici 2020 de dix points d'indice majoré. Dans le cadre du rapport remis au Premier ministre et au ministre de l'intérieur par les députés Alice Thourot et Jean-Michel Fauvergue à la suite de leur nomination comme parlementaires en mission, rapport intitulé « D'un continuum de sécurité vers une sécurité globale », des élus, des associations d'élus, des acteurs des collectivités territoriales et des représentants des personnels de police municipale ont été consultés. Les propositions de ce rapport, notamment celle sur la revalorisation des titres et grades de la police municipale, font l'objet d'une large concertation, en particulier dans le cadre de la commission consultative des polices municipales.
