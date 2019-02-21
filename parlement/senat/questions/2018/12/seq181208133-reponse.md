@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208133
+
+- Question : [SEQ181208133](seq181208133.md) — Frais de déplacement pour les services de soins à domicile
+
+## Réponse
+
+*Action et comptes publics (M. le SE auprès du ministre), JO du 2019-02-21, page 977*
+
+L'article 10 du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels de l'État, qui s'applique aussi aux collaborateurs occasionnels du service public, prévoit la possibilité de versement d'indemnités kilométriques aux agents utilisant leur véhicule terrestre à moteur dans le cadre de leurs déplacements professionnels. Le barème, fixé par un arrêté du 3 juillet 2006, a fait l'objet en 2008 d'une revalorisation qui a permis d'établir un barème des indemnités kilométriques en métropole s'échelonnant de 0,18 € à 0,43 € le kilomètre, en fonction de la puissance fiscale des véhicules et du nombre de kilomètres parcourus. Conscient des difficultés que peuvent rencontrer les agents publics dans un contexte de progression des prix, le ministre a annoncé à l'issue du rendez-vous salarial du 18 juin 2018, pour la première fois depuis 2008, une revalorisation de l'indemnité kilométrique de 17 % soit le cumul de l'inflation. Le projet d'arrêté portant cette revalorisation est en cours de publication. À titre plus général, la question de l'offre de services de soins dans les territoires ruraux s'inscrit principalement dans le cadre de la stratégie de transformation de notre système de santé portée par la ministre des solidarités et de la santé. La question des mesures permettant de soutenir les agents des collectivités dans leurs missions et d'entretenir l'intérêt pour les emplois concernés relève le cas échéant du dialogue entre l'État et les employeurs locaux, dans le respect scrupuleux des prérogatives de ces derniers.
