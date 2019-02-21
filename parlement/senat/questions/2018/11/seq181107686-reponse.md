@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107686
+
+- Question : [SEQ181107686](seq181107686.md) — Subventionnement par les départements des groupements de défense sanitaire
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-02-21, page 1002*
+
+La loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (dite « loi NOTRe ») a eu des conséquences en matière de financements des groupements de défense sanitaire. La modification de l'article L. 3211-1 du code général des collectivités territoriales par l'article 94 de la loi NOTRe a effectivement supprimé la clause de compétence générale des départements. Ils ne peuvent donc intervenir que dans les domaines que la loi leur attribue. Or les conseils départementaux n'ont pas de compétence particulière en matière d'élevage, que ce soit dans le domaine économique ou sanitaire. Pour autant, le ministère chargé de l'agriculture ne peut en conclure que les décisions des départements cités seraient illégales. Des subventions peuvent en effet être accordées par le conseil régional aux conseils départementaux pour un objet précis qui entre dans le champ des compétences du département (détection et accompagnement des éleveurs en détresse dans le cadre de ses prérogatives en matière sociale par exemple). De plus, les décisions du conseil départemental ou de son président sont soumises au contrôle de légalité par le préfet qui, à la connaissance du ministère chargé de l'agriculture, n'a pas jugé utile de déférer les décisions en question au juge administratif. Dès lors, le ministère chargé de l'agriculture a et continue à encourager les services à mobiliser les conseils régionaux pour qu'ils acceptent de prendre le relais des financements départementaux, étant donné le rôle de ces derniers dans le développement économique des régions. Les services du ministère chargé de l'agriculture restent particulièrement attentifs sur le sujet.
