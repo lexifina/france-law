@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108439
+
+- Question : [SEQ190108439](seq190108439.md) — Soutenir la production de luzerne déshydratée
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-02-21, page 1007*
+
+La filière de déshydratation de luzerne répond aux enjeux de diversification des cultures et d'intégration de légumineuses dans les rotations des exploitations de grandes cultures. À ce titre, cette filière bénéficie d'une aide couplée au titre du premier pilier de la politique agricole commune. En France les modèles de production agricole et la spécialisation croissante des zones de productions animales et végétales ont conduit à une forte dépendance en matières riches en protéines d'une part, principalement du soja, et en fertilisants minéraux d'autre part. Comme le Président de la République en a fait le constat dans son discours du 25 janvier 2018, il s'agit là de flux massifs qui ne permettent pas aujourd'hui de garantir une véritable souveraineté alimentaire. Cette double dépendance est également la cause structurelle de nombre des problèmes environnementaux auxquels est confrontée notre agriculture. Face à ce défi il est autant nécessaire de relancer la production de protéines végétales sur nos territoires, en particulier de légumineuses, que d'agir sur nos systèmes d'élevage et leur alimentation. C'est pourquoi la France s'est dotée dès 2014 d'un plan protéines. Conformément aux annonces du Président de la République, et sur la base des enseignements tirés de ce plan, une nouvelle stratégie sur les protéines sera mise en place. Cette ambition doit également être menée à l'échelle européenne. C'est pourquoi la France a proposé lors du Conseil du 28 janvier 2019 une déclaration, soutenue par de nombreux États membres, demandant à la Commission un véritable plan d'actions sur le sujet des protéines.
