@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102042
+
+- Question : [SEQ171102042](seq171102042.md) — Distance des panneaux publicitaires
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-02-21, page 1036*
+
+L'existence du règlement local de publicité (RLP) est prévue par l'article 581-14 du code de l'environnement. Il est établi par les élus locaux. Le règlement local de publicité peut effectivement être plus restrictif que le règlement national. Il donne donc la possibilité aux maires ou aux présidents d'intercommunalité en cas de RLP intercommunaux de trouver au plan local et avec la participation des acteurs du territoire, le juste équilibre entre la nécessité de la publicité pour le développement des activités économiques, la qualité du cadre de vie et l'attractivité du territoire induit par ses paysages. L'élaboration d'un règlement local de publicité à une échelle intercommunale permet souvent de disposer d'une assistance technique de plus grande qualité sur ce point. L'approbation d'un RLP est un acte d'autant plus important pour la collectivité qu'il investit son exécutif du pouvoir de police spécial de la publicité. Il faut toutefois rappeler le principe de liberté d'expression, à l'article L. 581-1 des dispositions du code de l'environnement, que « chacun a le droit d'exprimer et de diffuser des informations et idées, quelle qu'en soit la nature, par le moyen, de la publicité, d'enseignes et de préenseignes, conformément aux lois en vigueur et sous réserve des dispositions du présent chapitre ». Les dispositions citées ci-dessus apportent donc une limitation aux pouvoirs de l'autorité en charge de l'élaboration des règles locales. Elles devront nécessairement être motivées par un objectif d'intérêt général et rester proportionnées à l'obtention des résultats escomptés. Par ailleurs il ne sera pas possible d'agir sur l'information divulguée hors les cas de trouble à l'ordre public, mais seulement sur les supports.
