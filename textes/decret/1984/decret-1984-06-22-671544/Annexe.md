@@ -4,14 +4,12 @@ Annexe non publiée.
 
 NOTA :
 
-(1) (2) Les plans annexés au présent décret peuvent être consultés :
+(1) Ce plan peut être consulté :
 
-(1) (2) Au service central de sûreté des installations nucléaires, 99, rue de Grenelle, 75700 Paris.
+- au siège de l'Autorité de sûreté nucléaire, 15, rue Louis-Lejeune, 92120 Montrouge ;
 
-(1) (2) A la direction régionale de l’industrie et de la recherche, région Rhône Alpes, 11, rue Curie, 69456 LYON CEDEX 3.
+- à la division territoriale de l'Autorité de sûreté nucléaire, 5, place Jules-Ferry, 69006 Lyon ;
 
-(1) A la préfecture de la Drôme, boulevard Vauban, 26010 Valence.
+- à la division territoriale de l'Autorité de sûreté nucléaire, 36, boulevard des Dames, 13235 Marseille Cedex 2 ;
 
-(2) A la direction régionale de l’industrie et de la recherche, région Provence-Alpes-Côte d’Azur, 37, boulevard Périer, 13285 MARSEILLE CEDEX 8.
-
-(2) A la préfecture de Vaucluse, 4, rue Viala, 84021 AVIGNON CEDEX.
+- à la préfecture de Vaucluse, 2, avenue de la Folie, 84000 Avignon.
