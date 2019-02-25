@@ -32,7 +32,7 @@ DÉSIGNATION DES REPRÉSENTANTS DE L'ADMINISTRATION
 
 Article 4
 
-Les représentants de l'administration, titulaires ou suppléants, sont nommés par arrêté du ministre chargé de l'environnement.
+Les représentants de l'administration, titulaires ou suppléants, sont nommés par décision du directeur général de l'agence de l'eau.
 
 Ils sont choisis parmi les fonctionnaires exerçant des fonctions de catégorie A et les agents non titulaires de droit public exerçant des fonctions de niveau équivalent.
 
