@@ -1,3 +1,0 @@
-# Article 1er
-
-Pour les besoins du présent accord, la vidéo à la demande se définit comme un service permettant la mise à disposition (telle que la visualisation ou le téléchargement) d'une ou de plusieurs émissions concernées à l'initiative individuelle du consommateur de l'endroit et au moment qu'il choisit, sur tous récepteurs fixes (tels que téléviseurs, écrans d'ordinateurs, consoles de jeux) ou tous récepteurs mobiles (tels que téléphones, agendas électroniques), par tous moyens tels que le câble, le satellite, l'internet ou tout autre réseau ou moyen de communication électronique, et ce quelles que soient les normes utilisées.
