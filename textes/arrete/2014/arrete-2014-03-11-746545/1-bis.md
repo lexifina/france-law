@@ -1,0 +1,5 @@
+# Article 1 bis
+
+Le directeur régional des finances publiques en région Provence-Alpes-Côte d'Azur est désigné pour exercer le contrôle budgétaire a posteriori prévu à l' article L. 719-9 du code de l'éducation de :
+
+- l'Ecole de l'air.
