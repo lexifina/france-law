@@ -50,7 +50,7 @@ Numéro INSEE : 735-0
 
 Code APE : 59-08.
 
-Commerce de gros de pièces détachées et accessoires pour automobil Numéro INSEE : 744-0
+Commerce de gros de pièces détachées et accessoires pour automobile Numéro INSEE : 744-0
 
 Code APE : 58-01.
 
@@ -125,3 +125,11 @@ Les numéros INSEE et les codes APE sont donnés à titre indicatif. Dans le cas
 Code NAF de rattachement : 52.6 H.
 
 Commerce de produits et services par automates sur des lieux privés ou ouverts au public incluant - selon les cas - maintenance technique des matériels et logistique des approvisionnements principalement alimentaires.
+
+– Entreprises de commerce de gros en confiserie, biscuiterie, chocolaterie et alimentation fine ;
+
+– Groupements ou centrales d'achats des entreprises de commerce de gros de confiserie et alimentation fine ;
+
+– Négociants-distributeurs de levure ;
+
+– Centrales d'achats des négociants-distributeurs de levure.
