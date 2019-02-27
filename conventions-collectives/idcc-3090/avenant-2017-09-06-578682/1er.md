@@ -44,11 +44,7 @@ Par conséquent, les salariés embauchés pour une durée inférieure ne peuvent
 
 Nombre de jours travaillés
 
-Le contrat de travail détermine le nombre de jours travaillés sur la base duquel le forfait est défini et ne peut pas dépasser 216 jours par an, incluant la journée de solidarité et sauf renonciation à des jours de repos.
-
-Ce plafond de jours travaillés correspond à une année complète de travail d'un cadre justifiant d'un droit intégral à congés payés, hors congés payés conventionnels.
-
-En cas d'embauche ou départ de l'entreprise en cours d'année, le nombre de jours de travail est réduit en conséquence en tenant compte du nombre de mois de travail effectué.
+Le contrat de travail détermine le nombre de jours travaillés sur la base duquel le forfait est défini et ne peut pas dépasser 216 jours par an, incluant la journée de solidarité et sauf renonciation à des jours de repos. Ce plafond de jours travaillés correspond à 1 année complète de travail d'un salarié justifiant d'un droit intégral à congés payés, hors congés payés conventionnels lesquels viennent en déduction de ce plafond. En cas d'arrivée ou de départ en cours d'année, le nombre de jours travaillés et de jours de repos est calculé pro rata temporis en tenant compte de la date d'entrée dans l'entreprise et des droits à congés payés. Pour le nouvel embauché l'incidence des congés payés sur le forfait annuel sera prise en compte également la 2e année.
 
 Les périodes d'absence pour congé maternité, paternité et adoption et pour maladie ou accident professionnels, ou tout autre congé assimilé par la loi ou la présente convention collective à du temps de travail effectif, sont pris en compte au titre des jours travaillés.
 
@@ -60,7 +56,15 @@ Rémunération
 
 La rémunération est fixée sur l'année et est versée par douzième indépendamment du nombre de jours travaillés dans le mois.
 
-Elle ne peut être inférieure à une rémunération équivalente à 130 % du salaire minimum conventionnel correspondant à la catégorie professionnelle à laquelle appartient l'intéressé, ni dans le cas d'un salarié qui n'était pas précédemment au régime des forfaits en jours à 110 % de son salaire brut de base antérieur.
+Elle ne peut être inférieure à une rémunération équivalente à 130 % du salaire minimum conventionnel correspondant à la catégorie professionnelle à laquelle appartient l'intéressé, ni dans le cas d'un salarié qui n'était pas précédemment au régime des forfaits en jours, à 110 % de son salaire brut de base antérieur.
+
+En cas d'absence entraînant une réduction de salaire, pour procéder à la retenue sur salaire à appliquer, la rémunération mensuelle sera déduite sur la base d'un salaire journalier reconstitué.
+
+La valeur d'une journée de travail est ainsi définie en divisant le salaire mensuel brut forfaitaire par 21 ; la valeur de 1 demi-journée est obtenue en divisant ce salaire par 42.
+
+Cette même valorisation sera retenue pour calculer le premier salaire en cas d'entrée en cours de mois ou le dernier salaire en cas de sortie en cours de mois.
+
+En cas de rupture du contrat de travail, quelle qu'en soit la raison, avant la fin de la période de référence applicable, il sera procédé, suivant le cas, soit à un versement complémentaire, soit à l'imputation, sur les sommes dues, de la valeur en salaire de l'écart entre le total des rémunérations mensuelles versées et la rémunération correspondant au nombre de jours de travail réellement effectués.
 
 Modalités de décompte du temps de travail
 
@@ -72,7 +76,7 @@ A cet effet, un document mensuel de contrôle est établi, faisant apparaître l
 
 Modalités de suivi et d'évaluation de la charge de travail
 
-Le salarié ayant conclu une convention de forfait en jours ne relève pas des durées maximales quotidiennes et hebdomadaires de travail (art. L. 3121-18,20,22,27 du code du travail) mais bénéficie des dispositions relatives aux temps de repos quotidien et hebdomadaire prévus par le code du travail.
+Le salarié ayant conclu une convention de forfait en jours ne relève pas des durées maximales quotidiennes et hebdomadaires de travail (art. L. 3121-18, 20, 22, 27 du code du travail) mais bénéficie des dispositions relatives aux temps de repos quotidien et hebdomadaire prévus par le code du travail.
 
 Il est rappelé que ces durées sont les suivantes :
 
