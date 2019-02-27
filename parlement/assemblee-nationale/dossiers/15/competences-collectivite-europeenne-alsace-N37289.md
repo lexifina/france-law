@@ -1,0 +1,61 @@
+# Collectivité européenne d'Alsace
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37289
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/competences_collectivite_europeenne_alsace
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-358.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-02-27 : 1er dépôt d'une initiative. (PRJLSNR5S319B0358)
+  - 2019-02-27 : Etude d'impact (ETDISNR5S319B0358)
+  - 2019-02-27 : Avis du Conseil d'Etat (AVCESNR5S319B0358)
+  - 2019-02-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-02-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-03-27 : Dépôt de rapport (RAPPSNR5S319B0412, PRJLSNR5S319BTC0413)
+  - Discussion en séance publique
+    - 2019-04-02 : Discussion en séance publique
+    - 2019-04-03 : Discussion en séance publique
+    - 2019-04-04 : Discussion en séance publique
+    - 2019-04-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-04-05 : Dépôt d'une initiative en navette (PRJLANR5L15B1844)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-05 : Renvoi en commission au fond
+      - 2019-05-07 : Nomination de rapporteur
+      - 2019-05-07 : Réunion de commission
+      - 2019-05-15 : Réunion de commission
+      - 2019-06-11 : Réunion de commission
+      - 2019-06-18 : Réunion de commission
+      - 2019-06-18 : Réunion de commission
+      - 2019-06-19 : Réunion de commission
+      - 2019-06-19 : Dépôt de rapport (RAPPANR5L15B2039, PRJLANR5L15BTC2039)
+  - Discussion en séance publique
+    - 2019-06-24 : Discussion en séance publique
+    - 2019-06-24 : Discussion en séance publique
+    - 2019-06-25 : Discussion en séance publique
+    - 2019-06-25 : Discussion en séance publique
+    - 2019-06-26 : Discussion en séance publique
+    - 2019-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2019-06-27 : Dépôt d'un projet de loi (PRJLSNR5S319B0620)
+  - 2019-06-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-07-11 : Nomination de rapporteur
+    - 2019-07-11 : Dépôt du rapport d'une CMP (RAPPANR5L15B2134, PRJLANR5L15BTC2134)
+    - 2019-07-11 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0667, PRJLSNR5S319BTC0668)
+  - Discussion en séance publique
+    - 2019-07-23 : Discussion en séance publique
+    - 2019-07-23 : Décision
+  - Discussion en séance publique
+    - 2019-07-25 : Discussion en séance publique
+    - 2019-07-25 : Décision
+  - 2019-07-11 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-08-02 : Promulgation d'une loi
