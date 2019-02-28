@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304072
+
+- Question : [SEQ180304072](seq180304072.md) — Suppression des arrêts du Thalys à Lille-Europe dès 2019 sur la ligne Paris - Amsterdam
+
+## Réponse
+
+*Transports, JO du 2019-02-28, page 1157*
+
+La principale raison d'être de Thalys est de développer une mobilité internationale de longue distance entre les Pays-Bas, l'Allemagne, la Belgique et la France, dans le but de créer une alternative efficace au mode aérien. En ce qui concerne la liaison directe Lille – Amsterdam, Thalys constate une chute régulière de la fréquentation depuis son ouverture en avril 2014, avec 22 % de voyageurs en moins par rapport à 2015. Malgré une politique tarifaire incitative (80 % de petits prix au départ de Lille contre 30 % en moyenne sur l'ensemble des liaisons du réseau Thalys), la demande reste très faible sur cette liaison (le taux d'occupation moyen des trains est de 25 %). Face à cette situation, Thalys a décidé de ne pas renouveler cette offre de transport en 2019. En parallèle, les liaisons entre Lille et Amsterdam avec correspondance (en gare de Bruxelles-Midi) présentent un réel intérêt pour les voyageurs, notamment en raison de fréquences plus adaptées à leurs besoins (en moyenne quinze liaisons entre Lille et Bruxelles, puis quatorze entre Bruxelles et Amsterdam), incluant la possibilité d'aller-retours dans la journée. De plus, grâce aux correspondances bien organisées, les temps de parcours restent sensiblement identiques, avec un temps total compris entre 2 h 30 et 3 h (selon les horaires) contre 2 h 35 par la liaison directe. Enfin, il convient de noter que les liaisons ferroviaires entre les Pays-Bas et la France relèvent de relations internationales qui sont ouvertes à la concurrence. Ainsi, tout opérateur intéressé peut proposer un service de transport de voyageurs entre ces territoires.
