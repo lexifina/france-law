@@ -972,19 +972,19 @@ AGRALIA Laluque
 
 |
 
-443
+-
 
 |
 
-364
+-
 
 |
 
-288
+-
 
 |
 
-6 941
+5 846
 
 |
 
@@ -1112,23 +1112,23 @@ EURALIS CEREALES SOLFERINO
 
 |
 
-954
+477
 
 |
 
-806
+403
 
 |
 
-662
+331
 
 |
 
-523
+262
 
 |
 
-8 345
+6 873
 
 |
 
@@ -1404,19 +1404,19 @@ EURALIS CEREALES LESCAR
 
 |
 
-1 532
+766
 
 |
 
-1 258
+629
 
 |
 
-996
+498
 
 |
 
-15 866
+13 973
 
 |
 
@@ -1912,11 +1912,11 @@ Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-1 458
+1 459
 
 |
 
-1 305
+1 306
 
 |
 
@@ -1936,15 +1936,15 @@ Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-1 139
+605
 
 |
 
-900
+478
 
 |
 
-11 139
+10 186
 
 |
 
@@ -2742,7 +2742,7 @@ CECAB
 
 FR-new-05518409 |
 
-SYNUTRA |
+SYNUTRA FRANCE INTERNATIONAL |
 
 SYNUTRA |
 
@@ -3104,11 +3104,11 @@ FR-new-05602388
 
 |
 
-COLAS RHONE ALPES AUVERGNE
+COLAS PROJECTS
 
 |
 
-COLAS RHONE ALPES AUVERGNE (POSTE TSM28)
+COLAS PROJECT TSM 25 n° 3
 
 |
 
@@ -3880,15 +3880,15 @@ VIVESCIA-site de PRINGY
 
 |
 
-945
+237
 
 |
 
-749
+188
 
 |
 
-11 241
+9 972
 
 |
 
@@ -4640,23 +4640,23 @@ Tuberie de Déville
 
 |
 
-17 955
+4 911
 
 |
 
-17 604
+4 815
 
 |
 
-17 250
+4 718
 
 |
 
-16 894
+4 622
 
 |
 
-201 897
+151 260
 
 |
 
@@ -4792,15 +4792,15 @@ Atelier d'acide nitrique N7
 
 |
 
-39 925
+79 849
 
 |
 
-39 102
+78 203
 
 |
 
-422 562
+501 587
 
 |
 
@@ -7040,11 +7040,11 @@ Fr-new-06111198
 
 |
 
-COLAS MIDI MEDITERRANEE
+COLAS PROJECTS
 
 |
 
-COLAS MIDI MEDITERRANEE (POSTE ASTEC 300)
+COLAS PROJECT ASTEC 300
 
 |
 
@@ -7776,11 +7776,11 @@ FR-new-06208919
 
 |
 
-COLAS NORD-EST
+COLAS PROJECTS
 
 |
 
-COLAS NORD EST-poste mobile TSM25XLM-R n° 2
+COLAS PROJECT TSM 25 n° 2
 
 |
 
@@ -7824,11 +7824,11 @@ FR-new-06209168
 
 |
 
-COLAS NORD-EST
+COLAS PROJECTS
 
 |
 
-COLAS NORD EST-poste mobile TSM25XLM-R n° 1
+COLAS PROJECT TSM 25 n° 1
 
 |
 
@@ -8134,9 +8134,9 @@ KERVALIS
 
 FR-new-06306623 |
 
-COLAS CENTRE OUEST |
+COLAS PROJECTS |
 
-COLAS CENTRE OUEST-Centrale TSM 25 |
+COLAS PROJECT TSM 25 n° 4 |
 
 483 |
 
@@ -8832,7 +8832,7 @@ FR-new-06412416 |
 
 ENGIE Energie Services (ENGIE Cofely) |
 
-Alteo - Gardanne |
+Unité de cogénération du site altéo gardanne |
 
 / |
 
@@ -8844,13 +8844,13 @@ Alteo - Gardanne |
 
 / |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
 FR-new-06500377
 
@@ -11576,7 +11576,7 @@ FR-new-07000683
 
 |
 
-Aluminium Dunkerque SA
+LIBERTY ALUMINIUM DUNKERQUE
 
 |
 
@@ -12104,11 +12104,11 @@ FR-new-07000962
 
 |
 
-Kerneos
+IMERYS ALUMINATE TECHNOLOGIES
 
 |
 
-Kerneos usine de Dunkerque
+Usine de Dunkerque
 
 |
 
@@ -13602,15 +13602,15 @@ DESCARTES BIOMASSE INDUSTRIE - DBI |
 
 / |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+0 |
 
 FR-new-10300065
 
@@ -14217,6 +14217,54 @@ FR-new-03012705 |
 KNAUF INSULATION |
 
 KNAUF INSULATION site de Ilange |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03801009 |
+
+DALKIA |
+
+DALKIA Harnes |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06520960 |
+
+COGESTAR 3 |
+
+Installation de cogénération-CEA Saclay |
 
 / |
 

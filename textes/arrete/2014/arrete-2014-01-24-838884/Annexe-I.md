@@ -496,28 +496,6 @@ INTERXION France
 
 INTERXION France PAR7 data center de La Courneuve |
 
-FR-new-06517753
-
-|
-
-LINKCITY
-
-|
-
-LINKCITY data center de Villetaneuse |
-
-FR-new-06900399
-
-|
-
-ALBIOMA CARAÏBES
-
-|
-
-ALBIOMA CARAÏBES
-
-|
-
 FR-new-06900563
 
 |

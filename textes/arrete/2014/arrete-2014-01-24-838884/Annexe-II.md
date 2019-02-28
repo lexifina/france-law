@@ -1448,11 +1448,11 @@ FR000000000000046
 
 |
 
-AJINOMOTO EUROLYSINE SAS
+AJINOMOTO ANIMAL NUTRITION EUROPE
 
 |
 
-AJINOMOTO EUROLYSINE SAS
+AJINOMOTO ANIMAL NUTRITION EUROPE
 
 |
 
@@ -4840,15 +4840,15 @@ Chaufferie de Bioux
 
 |
 
-7 484
+-
 
 |
 
-5 921
+-
 
 |
 
-97 525
+84 120
 
 |
 
@@ -9032,11 +9032,11 @@ FR000000000000250
 
 |
 
-EMIN LEYDIER
+SAICA EL
 
 |
 
-EMIN LEYDIER usine de Nogent-sur-Seine
+Usine de Nogent sur Seine
 
 |
 
@@ -9856,39 +9856,39 @@ Usine Renault de Cléon
 
 |
 
-20 535
+19 076
 
 |
 
-19 408
+17 462
 
 |
 
-11 121
+8 705
 
 |
 
-11 409
+4 213
 
 |
 
-11 677
+4 132
 
 |
 
-11 931
+4 053
 
 |
 
-12 164
+3 972
 
 |
 
-12 374
+3 892
 
 |
 
-110 619
+65 505
 
 |
 

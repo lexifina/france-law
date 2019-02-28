@@ -124,6 +124,30 @@ BRUYERES
 
 |
 
+FR000000000000120 |
+
+Coopérative ISIGNY Sainte mère |
+
+COOPERATIVE ISIGNY SAINTE MERE |
+
+0 |
+
+0 |
+
+4 041 |
+
+9 920 |
+
+9 738 |
+
+9 555 |
+
+9 373 |
+
+9 191 |
+
+51 818 |
+
 FR000000000000306
 
 |
@@ -946,13 +970,9 @@ Aubert et Duval-site de Pamiers
 
 |
 
-FR-new-10400104
+FR-new-10400104 |
 
-|
-
-NOVAPEX
-
-|
+NOVAPEX |
 
 NOVAPEX |
 
@@ -976,9 +996,7 @@ NOVAPEX |
 
 FR-new-05904909 |
 
-SOLVAY Opérations France
-
-|
+SOLVAY Opérations France |
 
 SLV-Ta-SOLEXIS |
 
@@ -999,3 +1017,27 @@ SLV-Ta-SOLEXIS |
 625 |
 
 3 602 |
+
+FR-new-06600541 |
+
+SAS PAREFEUILLE PROVENCE |
+
+PAREFEUILLE SAS |
+
+- |
+
+- |
+
+- |
+
+- |
+
+3 476 |
+
+3 411 |
+
+3 345 |
+
+3 280 |
+
+13 512 |
