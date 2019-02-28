@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107875
+
+- Question : [SEQ181107875](seq181107875.md) — Étude d'impact sur le retour du loup en France
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-02-28, page 1154*
+
+Lors de l'état des lieux ayant mené à la publication en févier 2018 du plan national d'actions (PNA) « Loup et activités d'élevage » 2018-2023, de nombreuses études ont été réalisées. Dès 2016, deux expertises collectives scientifiques sur la biologie du loup et sur les aspects sociologiques de sa présence ont été rédigées par le Muséum national d'Histoire naturelle (MNHN) et l'office national de la chasse et de la faune sauvage (ONCFS). Le diagnostic du plan d'actions précédent a permis d'établir un rapport sur l'impact financier de la prédation lupine (protection, indemnisation des éleveurs), sur l'impact aux troupeaux (dommages), sur la répartition nationale des dommages. Des études continueront à alimenter la réflexion et à orienter l'actuel plan d'actions, dont les résultats seront examinés dans trois ans. Ces études, contrôlées par un comité scientifique, porteront entre autres sur la pression de prédation du loup subie par la faune sauvage et la faune domestique en intégrant les pratiques des hommes (chasse, élevage) et sur les impacts des tirs sur la baisse de prédation et l'évolution de la population lupine. Le ministère de l'agriculture et de l'alimentation va par ailleurs lancer une étude prospective de l'impact à long terme du développement du loup sur le pastoralisme. Dans le cadre du déploiement actuel du PNA, le suivi biologique de la population de loups sera révisé et renforcé. Il fait actuellement l'objet d'un audit par les inspecteurs généraux des ministères chargés de l'environnement et de l'agriculture. Enfin, la communication, la diffusion de l'information seront fluidifiées pour que chacun dispose de connaissances solides et validées par l'ensemble des acteurs.
