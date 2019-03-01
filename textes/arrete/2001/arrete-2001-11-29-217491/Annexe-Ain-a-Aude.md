@@ -244,11 +244,9 @@ de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM)
+Nombre de points (IM) par emploi |
 
-par emploi |
-
-Adjoint au chef du service logement et construction |
+Adjoint au chef du service habitat et renouvellement urbain |
 
 A |
 
@@ -256,7 +254,7 @@ A |
 
 50 |
 
-Responsable du pôle habitat-Service territorial Est montagne |
+Chef du pôle politiques locales de l'habitat et renouvellement urbain |
 
 A |
 
@@ -264,7 +262,7 @@ A |
 
 40 |
 
-Responsable du pôle développement de l'offre de logement-Service logement construction |
+Chef du pôle social et foncier |
 
 A |
 
@@ -272,7 +270,7 @@ A |
 
 40 |
 
-Instructeur rénovation urbaine-Service territorial Est montagne |
+Chargé de projets ANRU et référent réglementaire |
 
 B |
 
@@ -280,7 +278,7 @@ B |
 
 30 |
 
-Administrateur de données à la mission foncière-Service logement construction |
+Chargé d'études données logement |
 
 B |
 
@@ -288,7 +286,7 @@ B |
 
 30 |
 
-Adjoint au chef du pôle mission habitat |
+Adjoint au chef de pôle logement social et foncier |
 
 B |
 
@@ -296,7 +294,7 @@ B |
 
 30 |
 
-Instructeur rénovation urbaine-Service territorial Ouest |
+Chargé de projet ANRU |
 
 B |
 
@@ -304,7 +302,7 @@ B |
 
 30 |
 
-Chargé de mission habitat-Service territorial Est montagne |
+Chargé d'études planification de l'habitat |
 
 B |
 
@@ -500,7 +498,7 @@ B
 
 NOTA :
 
-(1) Conformément à l'article 1er de l'arrêté du 31 octobre 2018, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Alpes-maritimes prennent effet au 1er janvier 2017.
+(1) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Alpes-maritimes prennent effet au 1er septembre 2017.
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
