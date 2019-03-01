@@ -8,6 +8,8 @@ Directeur de cabinet.
 
 Conseiller stratégie et prospective de la police nationale.
 
+Conseiller stratégie et prospective de la police nationale.
+
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -93,8 +95,6 @@ Directeur adjoint des ressources humaines.
 Directeur de l'école nationale supérieure de la police.
 
 14. Divers :
-
-Directeur de l'institut national de police scientifique.
 
 Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
 
