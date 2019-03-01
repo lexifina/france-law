@@ -1,266 +1,104 @@
 # Article Annexe Bouches-du-Rhône à Gard
 
-Direction départementale des territoires et de la mer des Bouches-du-Rhône
+Direction départementale des territoires et de la mer des Bouches-du-Rhône (9)
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification
+Nombre d'emplois |
 
-de l'emploi
+Nombre de points (IM) par emploi |
 
-|
+Adjoint au directeur départemental des territoires, chargé du pilotage et de la coordination politique de la ville |
 
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Adjoint au directeur départemental des territoires, chargé du pilotage et de la coordination des services dans la mise en œuvre de la politique de la ville
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chef du service habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Adjoint au chef du service habitat et chef du pôle renouvellement urbain
-
-|
-
-A
-
-|
-
-1
-
-|
-
-24 points
-
-|
-
-Chef du pôle habitat privé-service habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-24 points
-
-|
-
-Chef du service territorial Sud
-
-|
-
-A
-
-|
-
-1
-
-|
-
-24 points
-
-|
-
-Chef du service territorial d'Arles
-
-|
-
-A
-
-|
-
-1
-
-|
-
-24 points
-
-|
-
-Chef du service territorial Est
-
-|
-
-A
-
-|
+A |
 
 1 |
 
-24 points |
+40 |
 
-Adjoint au chef de pôle renouvellement urbain, en charge de la politique de la ville et renouvellement urbain-service habitat
+Adjoint au chef du service habitat et chef du pôle renouvellement urbain |
 
-|
+A |
 
-B
+1 |
 
-|
+30 |
 
-1
+Chargé de mission " renouvellement urbain "-pôle renouvellement urbain |
 
-|
+A |
 
-30 points
+4 |
 
-|
+26 |
 
-Chargé d'instruction au pôle rénovation urbaine, référent pour l'appui méthodologique sur les centres anciens-service habitat
+Chef du service territorial Est |
 
-|
+A |
 
-B
+1 |
 
-|
+25 |
 
-1
+Adjoint au chef de pôle renouvellement urbain, en charge de la politique de la ville et renouvellement urbain-service habitat |
 
-|
+B |
 
-25 points
+1 |
 
-|
+30 |
 
-Chargé d'instruction au pôle rénovation urbaine, référent pour l'appui méthodologique sur les avenants des PRU-service habitat
+Chargé d'opérations " ANRU ", référent avenants et pilotage convention-service habitat-pôle renouvellement urbain |
 
-|
+B |
 
-B
+1 |
 
-|
+25 |
 
-1
+Chargé d'opération financière " ANRU "-Instruction des dossiers à enjeux ; service habitat-pôle renouvellement urbain |
 
-|
+B |
 
-25 points
+2 |
 
-|
+20 |
 
-Chargé d'étude rénovation urbaine, financement du logement-unité planification logement au pôle politiques territoriales-service territorial Sud
+Responsable d'unité habitat ville-service territorial Est-pôle politique de l'aménagement et de l'habitat |
 
-|
+B |
 
-B
+1 |
 
-|
+20 |
 
-1
+Chargé d'opération " ANRU "-service habitat-pôle renouvellement urbain |
 
-|
+B |
 
-20 points
+1 |
 
-|
+20 |
 
-Responsable d'unité habitat ville au pôle politique de l'aménagement et de l'habitat-service territorial Est
+Charge d'étude planification aménagement, adjoint à la rénovation urbaine-service territorial Centre |
 
-|
+B |
 
-B
+1 |
 
-|
+20 |
 
-1
+Charge d'étude au sein du pôle politiques urbaines-service territorial d'Arles |
 
-|
+B |
 
-20 points
+1 |
 
-|
-
-Responsable d'unité habitat et fiscalité au pôle conseil et connaissance du territoire-service territorial Centre
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé d'étude au pôle planification aménagement, référent pour la rénovation urbaine-service territorial Centre
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé d'étude au pôle politiques urbaines, référent politique de la ville et patrimoine-service territorial d'Arles
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale des territoires et de la mer du Calvados
 
@@ -1369,3 +1207,5 @@ NOTA :
 (7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
 
 (8) En application de l'article 1 de l'arrêté du 5 décembre 2016, entre en vigueur à compter du 1er janvier 2016, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
+
+(9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
