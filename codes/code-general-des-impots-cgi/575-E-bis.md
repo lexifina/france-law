@@ -4,55 +4,137 @@ I.-Les tabacs manufacturés vendus au détail ou importés en Corse sont soumis 
 
 Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A et dans la limite d'un contingent de 1 200 tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575.
 
-Pour les différents groupes de produits, la part spécifique pour mille unités ou mille grammes ainsi que le taux proportionnel applicables en Corse sont fixés conformément au tableau ci-après :
+Pour les différents groupes de produits mentionnés à l'article 575, le taux proportionnel, la part spécifique et le minimum de perception sont, pour chacune des périodes au cours de laquelle le droit devient exigible, fixés conformément au tableau ci-après :
 
-(En pourcentage)
+Groupe de produits |
 
-GROUPE DE PRODUITS |
+Du 1er mars 2019
 
-TAUX PROPORTIONNEL
+au 31 octobre 2019 |
 
-(en %) |
+Du 1er novembre 2019
 
-PART SPÉCIFIQUE
+au 29 février 2020 |
 
-(en euros) |
+Du 1er mars 2020
+
+au 31 octobre 2020 |
+
+A compter
+
+du 1er novembre 2020 |
 
 Cigarettes |
 
-42,9 |
+Taux proportionnel (en %) |
 
-32,5 |
+44,4 |
+
+45,8 |
+
+47,3 |
+
+48,8 |
+
+Part spécifique pour mille unités (en euros) |
+
+36,3 |
+
+40,1 |
+
+43,9 |
+
+47,6 |
 
 Cigares et cigarillos |
 
-15,2 |
+Taux proportionnel (en %) |
 
-27,5 |
+17,8 |
+
+20,4 |
+
+22,9 |
+
+25,5 |
+
+Part spécifique pour mille unités (en euros) |
+
+31,9 |
+
+36,4 |
+
+40,9 |
+
+45,4 |
 
 Tabacs fine coupe destinés à rouler les cigarettes |
 
-21,7 |
+Taux proportionnel (en %) |
 
-34,4 |
+25,1 |
+
+28,5 |
+
+31,9 |
+
+35,2 |
+
+Part spécifique pour mille grammes (en euros) |
+
+40,4 |
+
+46,3 |
+
+52,3 |
+
+58,3 |
 
 Autres tabacs à fumer |
 
-30,3 |
+Taux proportionnel (en %) |
 
-5,8 |
+32,9 |
+
+35,5 |
+
+38,1 |
+
+40,8 |
+
+Part spécifique pour mille grammes (en euros) |
+
+8,7 |
+
+11,6 |
+
+14,5 |
+
+17,5 |
 
 Tabacs à priser |
 
-27,6 |
+Taux proportionnel (en %) |
 
-0 |
+31,4 |
+
+35,2 |
+
+39,0 |
+
+42,8 |
 
 Tabacs à mâcher |
 
-20,1 |
+Taux proportionnel (en %) |
 
-0 |
+22,7 |
+
+25,2 |
+
+27,8 |
+
+30,4 |
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué en Corse est au moins égal à 75 % des prix de vente continentaux des mêmes produits.
 
@@ -67,3 +149,7 @@ IV.-Le droit de consommation est recouvré dans les conditions prévues par les 
 V.-Le produit du droit de consommation est affecté à la collectivité de Corse pour le financement de travaux de mise en valeur de la Corse.
 
 VI.-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
+
+NOTA :
+
+Conformément aux dispositions du A du III de l'article 207 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 575 E bis telles qu'elles résultent du 4° du I dudit article entrent en vigueur le 1er mars 2019.

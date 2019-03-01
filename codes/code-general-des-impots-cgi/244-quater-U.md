@@ -4,7 +4,7 @@ I. – 1. Les établissements de crédit et les sociétés de financement mentio
 
 2. Les travaux mentionnés au 1 sont constitués :
 
-1° Soit de travaux qui correspondent à une combinaison d'au moins deux des catégories suivantes :
+1° Soit de travaux qui correspondent à au moins une des catégories suivantes :
 
 a) Travaux d'isolation thermique performants des toitures ;
 
@@ -70,7 +70,7 @@ VI. – Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 b
 
 VI bis.-L'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à un syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 précitée ainsi que les travaux réalisés sur les parties et équipements communs de l'immeuble lorsqu'au moins 75 % des quotes-parts de copropriété sont compris dans des lots affectés à l'usage d'habitation, détenus par l'une des personnes mentionnées aux 3° et 4° du 3 du I du présent article et utilisés ou destinés à être utilisés en tant que résidence principale, et sous réserve des adaptations prévues au présent VI bis.
 
-Les travaux mentionnés au premier alinéa du présent VI bis sont constitués des travaux mentionnés aux 1°, 2° et 3° du 2 du I ainsi que de travaux qui correspondent à l'une des catégories mentionnées au 1° du même 2.
+Les travaux mentionnés au premier alinéa du présent VI bis sont constitués des travaux mentionnés aux 1°, 2° et 3° du 2 du I.
 
 L'avance prévue au premier alinéa du présent VI bis ne peut être consentie au titre d'un logement lorsque celui-ci a déjà bénéficié d'une avance remboursable prévue au présent article pour ce même logement.
 
@@ -85,3 +85,7 @@ L'offre d'avance doit être émise dans un délai d'un an à compter de l'émiss
 La somme des montants de l'avance émise au titre du présent VI ter et de l'avance émise au titre du VI bis ne peut excéder la somme de 30 000 € au titre d'un même logement
 
 VII. – Un décret fixe les modalités d'application du présent article et notamment les modalités de calcul du crédit d'impôt et de détermination du taux mentionné au II, ainsi que les caractéristiques financières et les conditions d'attribution de l'avance remboursable sans intérêt.
+
+NOTA :
+
+Conformément aux dispositions du III de l'article 184 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater U telles qu'elles résultent du deuxième alinéa du b du 1° et du b du 2° du I dudit article s'appliquent aux offres d'avances émises à compter du 1er mars 2019.
