@@ -23,3 +23,5 @@ Cadre d'emplois des psychologues territoriaux.
 Cadre d'emplois des directeurs de police municipale.
 
 Cadre d'emplois de conception et de direction des sapeurs-pompiers professionnels.
+
+Cadre d'emplois des capitaines, commandants et lieutenants-colonels de sapeurs-pompiers professionnels.
