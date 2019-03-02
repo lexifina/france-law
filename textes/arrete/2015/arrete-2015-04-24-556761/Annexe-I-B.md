@@ -6,8 +6,6 @@ LISTE DES DÉPARTEMENTS
 
 Côtes-d'Armor.
 
-Loire-Atlantique.
-
 Meurthe-et-Moselle.
 
 Morbihan.

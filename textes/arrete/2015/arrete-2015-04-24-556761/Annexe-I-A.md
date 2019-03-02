@@ -6,11 +6,7 @@ LISTE DES DÉPARTEMENTS
 
 Ain.
 
-Aisne.
-
 Allier.
-
-Hautes-Alpes.
 
 Alpes-Maritimes.
 
@@ -54,8 +50,6 @@ Nièvre.
 
 Orne.
 
-Puy-de-Dôme.
-
 Pyrénées-Orientales.
 
 Bas-Rhin.
@@ -67,8 +61,6 @@ Rhône.
 Savoie.
 
 Haute-Savoie.
-
-Tarn.
 
 Vaucluse.
 

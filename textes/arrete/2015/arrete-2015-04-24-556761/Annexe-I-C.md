@@ -20,8 +20,6 @@ Indre.
 
 Jura.
 
-Loir-et-Cher.
-
 Meuse.
 
 Oise.

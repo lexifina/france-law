@@ -4,6 +4,8 @@ LISTE DES DÉPARTEMENTS
 
 (en application de l'article 1er, point 1°, quatrième tiret, du présent arrêté)
 
+Aisne.
+
 Ariège.
 
 Bouches-du-Rhône.
@@ -24,6 +26,8 @@ Gard.
 
 Gironde.
 
+Hautes-Alpes.
+
 Haute-Saône.
 
 Hérault.
@@ -33,6 +37,10 @@ Ille-et-Vilaine.
 Indre-et-Loire.
 
 Landes.
+
+Loir-et-Cher.
+
+Loire-Atlantique.
 
 Lot-et-Garonne.
 
@@ -50,6 +58,8 @@ Nord.
 
 Pas-de-Calais.
 
+Puy-de-Dôme.
+
 Pyrénées-Atlantiques.
 
 Hautes-Pyrénées.
@@ -61,6 +71,8 @@ Seine-Maritime.
 Seine-et-Marne.
 
 Somme.
+
+Tarn.
 
 Val-d'Oise.
 
