@@ -4,43 +4,31 @@ CONCOURS SUR ÉPREUVES OUVERT AUX VOLONTAIRES DE LA GENDARMERIE, AUX ADJOINTS DE
 
 (2° de l'article 13-1 du décret du 12 septembre 2008 susvisé)
 
-I. - Nature, forme et programmes des épreuves d'admissibilité
+I. - Nature, forme et programmes des épreuves d'admissibilité.
 
-Les épreuves écrites comprennent :
-
-- une épreuve de connaissances professionnelles (durée : 3 heures ; coefficient 5) ;
-
-- une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2).
-
-1.1. Epreuve de connaissances professionnelles.
+La phase d'admissibilité comprend une épreuve de connaissances professionnelles (durée : 3 heures ; coefficient 7).
 
 Cette épreuve consiste pour le candidat à répondre à plusieurs questions, avec ou sans documentation, sur des problématiques relatives à la sécurité intérieure et à la défense. Les questions portent sur le programme défini au paragraphe IV de la présente annexe.
 
 Il est attendu des candidats qu'ils aient une bonne connaissance des textes qui régissent le travail des agents de police judiciaire adjoints (APJA) de la gendarmerie et de leur environnement professionnel.
 
-Cette épreuve a également pour objectif d'évaluer l'expression écrite du candidat. Les réponses aux questions devront être organisées (introduction-argumentation-conclusion). Une attention particulière sera portée à la maîtrise de la langue française.
+Cette épreuve a également pour objectif d'évaluer l'expression écrite du candidat. Les réponses aux questions devront être organisées (introduction - argumentation - conclusion). Une attention particulière sera portée à la maîtrise de la langue française.
 
-1.2. Epreuve d'aptitude professionnelle.
+II. - Nature, forme et programmes des épreuves d'admission.
 
-Cette épreuve consiste en un QCM portant sur des suites ou des ensembles logiques à résoudre.
+La phase d'admission comprend :
 
-Elle vise à évaluer le potentiel intellectuel général des candidats, et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse par le développement d'un système de raisonnement logique.
+2.1. Evaluation de l'aptitude professionnelle.
 
-II.-Inventaires de personnalité
+Elle vise à évaluer le potentiel intellectuel général des candidats et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse, par le développement d'un système de raisonnement logique.
 
-En même temps que les épreuves d'admissibilité, les candidats sont soumis à deux inventaires de personnalité destinés à préparer, pour les candidats admissibles, leur entretien individuel avec un ou plusieurs psychologues. Les inventaires de personnalité sont corrigés uniquement pour les candidats admissibles.
+Destinée à préparer leur entretien individuel avec un ou plusieurs psychologues, cette évaluation n'est pas une épreuve du concours ; aucune préparation n'est nécessaire.
 
-Ces inventaires n'étant pas une épreuve du concours, aucune préparation n'est nécessaire.
+2.2. Inventaires de personnalité.
 
-III.-Nature, forme et programmes des épreuves d'admission
+Destinés à préparer leur entretien individuel avec un ou plusieurs psychologues, deux inventaires de personnalité sont réalisés. Il ne s'agit pas d'épreuves du concours ; aucune préparation n'est nécessaire.
 
-Les épreuves d'admission comprennent :
-
--une épreuve orale d'entretien avec le jury (25 minutes d'entretien ; coefficient 7) ;
-
--l'épreuve physique gendarmerie (coefficient 3).
-
-3.1. Epreuve d'entretien avec le jury
+2.3. Epreuve orale d'entretien avec le jury (durée : 10 minutes de préparation et 20 minutes d'entretien ; coefficient 7).
 
 Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel préalablement déposé ou transmis par voie postale (en lettre recommandée avec accusé de réception) par le candidat auprès du service organisateur du concours à une date fixée par l'arrêté d'ouverture du concours. Le dossier est transmis au jury par le service organisateur.
 
@@ -48,19 +36,17 @@ Le fait de ne pas respecter les formalités et délais de transmission du dossie
 
 Le jury a toute latitude pour élargir la discussion.
 
-Elle vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale.
+L'épreuve vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale.
 
 Le modèle de dossier est disponible sur le site internet de la gendarmerie nationale : www.lagendarmerierecrute.fr.
 
-Les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
-
-3.2. Epreuve physique gendarmerie
+2.4. Epreuve physique gendarmerie (coefficient 3).
 
 Il s'agit d'un parcours d'obstacles destiné à tester le potentiel physique du candidat dans des situations qu'il est susceptible de rencontrer dans un contexte opérationnel. Il est réalisé en tenue de sport.
 
 Les conditions de déroulement et le barème de cette épreuve sont définis en annexe IV du présent arrêté.
 
-IV.-Programme des épreuves d'admissibilité et d'admission des questions destinées à apprécier les connaissances professionnelles du candidat.
+III.-Programme des épreuves d'admissibilité et d'admission des questions destinées à apprécier les connaissances professionnelles du candidat.
 
 a) Préparation militaire opérationnelle :
 
@@ -173,7 +159,3 @@ d) Sécurité des territoires et des mobilités :
 3. Formation aux systèmes d'information et de communication :
 
 -La procédure radio et le réseau rubis.
-
-NOTA :
-
-Conformément à l'article 1er de l’arrêté du 20 février 2017, ces dispositions entrent en vigueur le 3 octobre 2018.
