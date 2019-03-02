@@ -8,7 +8,7 @@ Sont affiliés au régime spécial de retraites des industries électriques et g
 
 Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
 
-Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4, et 5, les bonifications éventuelles n'étant pas prises en compte.
+Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4, et au I de l'article 5, les bonifications éventuelles n'étant pas prises en compte.
 
 Pour le décompte de la durée minimale d'affiliation et de la durée minimale de services, les périodes d'activité à temps partiel sont décomptées comme des périodes d'activité à temps plein.
 
@@ -98,7 +98,7 @@ Article 5
 
 Validation gratuite des périodes prises en compte pour le calcul de la durée d'assurance et pour la liquidation
 
-Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs tels que définis à l'article 2 entre dans la constitution du droit à pension, dans la limite de douze trimestres maximum par enfant né, adopté ou recueilli à partir du 1er juillet 2008, à condition que le titulaire de la pension ait bénéficié :
+I.- Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs tels que définis à l'article 2 entre dans la constitution du droit à pension, dans la limite de douze trimestres maximum par enfant né, adopté ou recueilli à partir du 1er juillet 2008, à condition que le titulaire de la pension ait bénéficié :
 
 a) D'un temps partiel accordé de droit pour élever un enfant ;
 
@@ -107,6 +107,8 @@ b) D'un congé parental d'éducation ;
 c) D'un congé de présence parentale ;
 
 d) D'un congé sans solde pour élever un enfant de moins de huit ans prévu à l'article 20 du statut national.
+
+II.- Entrent dans la constitution du droit à pension de vieillesse les périodes pendant lesquelles l'agent a perçu un revenu de remplacement, une allocation ou une rémunération mentionnés au 2° de l'article L. 351-3 du code de la sécurité sociale.
 
 Article 6
 
@@ -274,7 +276,7 @@ Majoration de durée d'assurance pour accouchement
 
 Pour chacun de leurs enfants nés à compter du 1er juillet 2008, les agents féminins bénéficient au titre de l'accouchement d'une majoration de durée d'assurance de deux trimestres pour le premier enfant de la fratrie et de quatre trimestres pour les autres enfants.
 
-Cette majoration de durée d'assurance ne peut se cumuler avec la durée d'assurance prise en compte au titre de l'article 5 lorsque celle-ci conduit à augmenter la durée d'assurance d'une durée au moins égale à la majoration pour accouchement accordée. Elle ne peut par ailleurs se cumuler avec une majoration de durée d'assurance attribuée au titre du même enfant par un autre régime d'assurance vieillesse de base.
+Cette majoration de durée d'assurance ne peut se cumuler avec la durée d'assurance prise en compte au titre du I de l'article 5 lorsque celle-ci conduit à augmenter la durée d'assurance d'une durée au moins égale à la majoration pour accouchement accordée. Elle ne peut par ailleurs se cumuler avec une majoration de durée d'assurance attribuée au titre du même enfant par un autre régime d'assurance vieillesse de base.
 
 Article 15
 
@@ -1902,4 +1904,4 @@ Tout emploi qui n'est pas classé en services actifs est classé en services sé
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2018-214 du 29 mars 2018, l'article 43 de l'annexe 3 dans sa rédaction antérieure au présent décret demeure applicable aux assurés dont les droits ont été rétablis à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités territoriales avant l'entrée en vigueur dudit décret.
+Conformément à l'article 4 du décret n° 2019-148 du 27 février 2019, les dispositions des articles 1er à 3 dudit décret s'appliquent aux périodes mentionnées au II de l'article 5 de l'annexe 3 du statut national du personnel des industries électriques et gazières annexé au décret du 22 juin 1946, dans sa rédaction issue du même décret, intervenues avant la date de liquidation de la pension de vieillesse, lorsque celle-ci intervient postérieurement au lendemain de la publication dudit décret.
