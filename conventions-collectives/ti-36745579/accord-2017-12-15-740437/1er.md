@@ -1,0 +1,13 @@
+# Article 1er
+
+Le présent accord vise à contribuer à la conciliation entre l'intérêt des salariés et celui des entreprises en matière de « droits familiaux ». Il crée, modifie et organise un ensemble des dispositions autour de quatre piliers :
+
+1. De nouveaux dispositifs de conciliation des temps pour les parents (chapitre Ier) ;
+
+2. Une adaptation des mesures de soutien financier à la charge d'enfant (chapitre II) ;
+
+3. De nouveaux droits pour soutenir les aidants familiaux (chapitre III) ;
+
+4. Une évolution des primes et congés liés aux événements familiaux qui prend en compte les évolutions sociétales de la famille (chapitre IV).
+
+Les dispositions existantes en matière de droits familiaux sont de nature diverse : statut national du personnel des IEG, textes de branche et accords collectifs de branche. Le présent accord, d'une part, détaille les modifications à apporter aux dispositions réglementaires ou conventionnelles pour parvenir à ces objectifs, d'autre part, crée de nouvelles dispositions conventionnelles qui s'ajoutent ou se substituent aux dispositifs actuels.
