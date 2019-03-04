@@ -1,10 +1,8 @@
-# Article LEGIARTI000037247297
+# Article Annexe I
 
-ANNEXES
+LISTE DES EMPLOIS DU MINISTÈRE DE L'INTÉRIEUR CONCERNÉS PAR L'OBLIGATION DE TRANSMISSION PRÉALABLE DE LA DÉCLARATION D'INTÉRÊTS À PRÉVUE À L'ARTICLE 25 TER DE LA LOI NO 83-634 DU 13 JUILLET 1983 PORTANT DROITS ET OBLIGATIONS DES FONCTIONNAIRES
 
-ANNEXE I
-
-Périmètre de l'administration centrale et des services à compétence nationale
+Au sein de l'administration centrale et des services à compétence nationale
 
 SERVICES |
 
@@ -18,9 +16,9 @@ Sous-directeur des polices administratives |
 
 Direction des Ressources Humaines (DRH) |
 
-Sous- directeur du recrutement et de la formation |
+Sous-directeur du recrutement et de la formation |
 
-Sous -directeur de l'action sociale et de l'accompagnement du personnel |
+Sous-directeur de l'action sociale et de l'accompagnement du personnel |
 
 Direction de l'Evaluation de la Performance et des Affaires Financières et Immobilières (DEPAFI) |
 
@@ -79,3 +77,41 @@ Sous-directeur de la protection des usagers de la route |
 Service des achats, des équipements et de la logistique de la sécurité intérieure (SAELSI) |
 
 Sous-directeur des achats |
+
+Direction des ressources et des compétences de la police nationale (DRCPN) |
+
+Sous-directeur de la prévention, de l'accompagnement et du soutien |
+
+Au sein des établissements publics
+
+SERVICES |
+
+FONCTIONS OU EMPLOIS |
+
+Ecole Nationale Supérieure de Police (ENSP) |
+
+Directeur |
+
+Office Français de Protection des Réfugiés et des Apatrides (OFPRA) |
+
+Directeur général |
+
+Agence Nationale de traitement automatisé des infractions (ANTAI) |
+
+Directeur |
+
+Ecole nationale supérieure des officiers de sapeurs pompiers (ENSOSP) |
+
+Directeur |
+
+Conseil National des Activités Privées de Sécurité (CNAPS) |
+
+Directeur |
+
+Institut National de la Police Scientifique (INPS) |
+
+Directeur |
+
+L'Agence de l'outre-mer pour la mobilité (LADOM) |
+
+Directeur général |
