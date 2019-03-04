@@ -1,56 +1,46 @@
 # Article Annexe
 
-Ainsi que leurs filiales et participations
+1° Entités suivantes, ainsi que leurs filiales et participations :
 
-Aéroport de Bâle-Mulhouse.
+Aéroport de Bordeaux-Mérignac.
 
-Aéroport de Bordeaux-Mérignac
+Aéroport de La Réunion-Roland Garros.
 
-Aéroport de La Réunion-Roland Garros
+Aéroport de Marseille-Provence.
 
-Aéroport Marseille-Provence
+Aéroport de Montpellier-Méditerranée.
 
-Aéroport de Montpellier-Méditerranée
+Aéroport de Strasbourg-Entzheim.
+
+Aéroport de Toulouse-Blagnac.
+
+Aéroport Martinique-Aimé Césaire.
 
 Aéroports de Paris (ADP).
 
-Aéroport de Strasbourg-Entzheim
-
-Aéroport Toulouse-Blagnac
-
-Airbus Defence and Space Holding France SAS
-
-Airbus DS Geo
+Airbus Group SE.
 
 Air France-KLM.
 
-AREVA.
-
-Arianegroup SAS
+Areva.
 
 Arte France.
 
-Bpifrance SA
-
-EPIC Bpifrance
+Bpifrance EPIC.
 
 Caisse nationale des autoroutes.
 
 Casino d'Aix-les-Bains.
 
-Charbonnages de France (CDF).
+Chantiers de l'Atlantique.
 
-Civi.pol conseil.
+Civipol conseil.
 
 CNP-Assurances.
 
 Compagnie générale maritime et financière (CGMF).
 
-Consortium de réalisation (CDR)
-
-Dassault Aviation
-
-Naval Group
+Consortium de réalisation (CDR).
 
 Défense conseil international (DCI).
 
@@ -58,11 +48,9 @@ Dexia.
 
 Electricité de France (EDF).
 
+ENGIE.
+
 Eramet.
-
-Airbus group SE
-
-Expertises Immobilières & Associés (EIA)
 
 Fonds pour le développement d'une politique intermodale des transports dans le massif alpin (FDPITMA).
 
@@ -70,41 +58,35 @@ France Médias Monde.
 
 France Télévisions.
 
-FSI Equation
-
-ENGIE
-
-GEAST
+FSI Equation.
 
 GIAT Industries.
 
-Grand port maritime de Bordeaux
+Grand port maritime de Bordeaux.
 
-Grand port maritime de Dunkerque
+Grand port maritime de Dunkerque.
 
-Grand port maritime de la Guadeloupe
+Grand port maritime de la Guadeloupe.
 
-Grand port maritime de la Guyane
+Grand port maritime de la Guyane.
 
-Grand port maritime de la Martinique
+Grand port maritime de la Martinique.
 
-Grand port maritime de la Réunion
+Grand port maritime de La Réunion.
 
-Grand port maritime de La Rochelle
+Grand port maritime de La Rochelle.
 
-Grand port maritime de Marseille
+Grand port maritime de Marseille.
 
-Grand port maritime de Rouen
+Grand port maritime de Nantes Saint-Nazaire.
 
-Grand port maritime du Havre
+Grand port maritime de Rouen.
 
-Grand port maritime de Nantes Saint-Nazaire
+Grand port maritime du Havre.
 
-Holding SP
+IN Groupe.
 
-Imprimerie nationale.
-
-KNDS NV
+KNDS NV.
 
 Laboratoire français du fractionnement et des biotechnologies (LFB).
 
@@ -114,76 +96,86 @@ La Monnaie de Paris.
 
 La Poste.
 
-New Areva holding
+Naval Group.
 
-Nexter Systems
-
-Nouvelle Société de Réalisation de Défaisance (NSRD)
-
-ODAS.
+Odas.
 
 Orange.
 
-Port autonome de Paris
+Orano.
+
+Port autonome de Paris.
 
 Radio France.
 
-Régie autonome des transports parisiens (RATP).
+RATP.
 
 Renault SA.
 
-SNCF Réseau
-
 Safran.
 
-Safran Ceramics
+Semmaris.
 
-SEMMARIS.
+SNCF.
 
-Société aéroportuaire Guadeloupe pôle Caraïbes
+SNCF Réseau.
 
-Société Aéroport Martinique-Aimé Césaire
+SNCF Mobilités.
+
+SNPE.
+
+Société aéroportuaire de Guadeloupe Pôle Caraïbes.
 
 Société concessionnaire française pour la construction et l'exploitation du tunnel routier sous le Mont-Blanc (ATMB-Autoroutes et tunnel du Mont-Blanc).
 
-Société de financement local (SFIL)
+Société des autoroutes Rhône-Alpes (AREA).
 
-Société de gestion de garanties et de participations (SGGP).
+Société de financement local (SFIL).
 
-SOGEPA
-
-Société des autoroutes Rhône-Alpes (AREA)
+SOGEPA.
 
 Société des chemins de fer luxembourgeois.
 
-Société française d'exportation de systèmes avancés (SOFRESA).
+Société française d'exportation de systèmes avancés (Sofresa).
 
 Société française du tunnel routier du Fréjus (SFTRF).
 
 Société internationale de la Moselle.
 
-SNCF Mobilités
+Société de prise de participation de l'Etat (SPPE).
 
-SNCF
+Société de valorisation foncière et immobilière (Sovafim).
 
-SNPE.
+Société pour le logement intermédiaire.
+
+Société technique pour l'énergie atomique.
+
+Sofema.
+
+Thales.
+
+2° Autres entités dans lesquelles l'Etat détient une seule action :
+
+Adit.
+
+Airbus Defence and Space Holding France SAS.
+
+Airbus DS Geo.
+
+ArianeGroup SAS.
+
+Bpifrance SA.
+
+Dassault Aviation.
+
+GEAST.
+
+Nexter systems.
+
+Safran Ceramics.
 
 Société nationale maritime Corse Méditerranée (SNCM).
 
-Société pour le logement intermédiaire
-
-Société de prise de participation de l'Etat (SPPE).
-
-Société de valorisation foncière et immobilière (SOVAFIM).
-
-Sofema
-
-Solinter holding
-
-STX France
-
-Technicatome
-
-Thales.
+Solinter holding.
 
 TSA.
