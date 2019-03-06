@@ -1,0 +1,65 @@
+# Taxe sur les services numériques et impôt sur les sociétés (taxe GAFA)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37309
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/creation_taxe_services_numeriques
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-452.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-03-06 : 1er dépôt d'une initiative. (PRJLANR5L15B1737)
+  - 2019-03-06 : Etude d'impact (ETDIANR5L15B1737)
+  - 2019-03-06 : Avis du Conseil d'Etat (AVCEANR5L15B1737)
+  - 2019-03-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-06 : Renvoi en commission au fond
+      - 2019-03-13 : Nomination de rapporteur
+      - 2019-03-13 : Réunion de commission
+      - 2019-04-02 : Réunion de commission
+      - 2019-04-03 : Réunion de commission
+      - 2019-04-08 : Réunion de commission
+      - 2019-04-03 : Dépôt de rapport (RAPPANR5L15B1838, PRJLANR5L15BTC1838)
+    - Travaux d'une commission saisie pour avis
+      - 2019-03-12 : Saisine pour avis d'une commission
+      - 2019-03-13 : Nomination de rapporteur
+      - 2019-03-27 : Réunion de commission
+      - 2019-03-27 : Dépôt de rapport (AVISANR5L15B1819)
+    - Travaux d'une commission saisie pour avis
+      - 2019-03-14 : Saisine pour avis d'une commission
+      - 2019-03-19 : Nomination de rapporteur
+      - 2019-03-26 : Réunion de commission
+      - 2019-03-26 : Dépôt de rapport (AVISANR5L15B1800)
+  - Discussion en séance publique
+    - 2019-04-08 : Discussion en séance publique
+    - 2019-04-08 : Discussion en séance publique
+    - 2019-04-09 : Discussion en séance publique
+    - 2019-04-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-04-10 : Dépôt d'une initiative en navette (PRJLSNR5S319B0452)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-10 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-05-15 : Dépôt de rapport (RAPPSNR5S319B0496, PRJLSNR5S319BTC0497)
+  - Discussion en séance publique
+    - 2019-05-21 : Discussion en séance publique
+    - 2019-05-21 : Décision
+- Commission Mixte Paritaire
+  - 2019-05-23 : Dépôt d'un projet de loi (PRJLANR5L15B1975)
+  - 2019-05-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-26 : Nomination de rapporteur
+    - 2019-06-26 : Dépôt du rapport d'une CMP (RAPPANR5L15B2080, PRJLANR5L15BTC2080)
+    - 2019-06-26 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0615, PRJLSNR5S319BTC0616)
+  - Discussion en séance publique
+    - 2019-07-04 : Discussion en séance publique
+    - 2019-07-04 : Décision
+  - Discussion en séance publique
+    - 2019-07-11 : Discussion en séance publique
+    - 2019-07-11 : Décision
+  - 2019-06-27 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-07-24 : Promulgation d'une loi
