@@ -1,6 +1,6 @@
 # Article 266 sexies
 
-I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
+I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
@@ -30,7 +30,7 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise po
 
 10. (Abrogé)
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas :
 
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
@@ -52,7 +52,7 @@ a) Ces résidus constituent des déchets dangereux et les déchets dont ils sont
 
 b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise les éléments caractérisant cette impossibilité technique ;
 
-1 nonies. Aux réceptions de déchets relevant du champ d'application de l'une des taxes intérieures de consommation prévues respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits énergétiques prévue respectivement aux articles 265, 266 quater, 266 quinquies et 266 quinquies B ;
 
 1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
 
@@ -82,8 +82,8 @@ b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'e
 
 7. (Abrogé).
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
+IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
 
 Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation d'effet équivalent à cette autorisation.
