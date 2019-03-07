@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208325
+
+- Question : [SEQ181208325](seq181208325.md) — Attaques des épicéas par les scolytes en région Bourgogne-Franche-Comté
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-03-07, page 1257*
+
+Face aux inquiétudes et sollicitations des interprofessions forêt-bois Grand-Est et Bourgogne-Franche-Comté, le ministère de l'agriculture et de l'alimentation a initié en novembre un état des lieux cartographique par télédétection des dégâts imputables aux attaques d'insectes de l'été et de l'automne 2018 dans ces deux régions. La première cartographie réalisée par le service régional de traitement d'image et de télédétection (Sertit) de l'Université de Strasbourg vient d'être fournie aux opérateurs forestiers publics et privés. Il s'agit de l'état des lieux sur la base des photos satellites prises fin septembre 2018 des surfaces rougies (manifestation du dépérissement consécutif aux attaques de scolytes). Une actualisation de cet état des lieux est prévue sur la base de photos satellites prises au cours du premier trimestre 2019 car les rougissements consécutifs aux attaques de la saison 2018 se sont poursuivis depuis fin septembre. La mise à disposition de ces cartographies poursuit un objectif à visée opérationnelle. Elle doit permettre aux forestiers de localiser les bois scolytés pour plus de réactivité et d'efficacité dans l'organisation des chantiers d'exploitation, anticiper la mise en place d'aires de stockage mutualisées et structurer la commercialisation. Un travail est en cours pour définir une méthode de suivi par télédétection de la progression des scolytes. Elle sera disponible à partir d'avril 2019. C'est sur la base de cette observation objective du développement des scolytes qu'il conviendra d'étudier les actions à entreprendre, en complément de celles déjà initiées par les interprofessions forêt-bois Grand-Est et Bourgogne-Franche-Comté.
