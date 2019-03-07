@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208731
+
+- Question : [SEQ190208731](seq190208731.md) — Hausse des prix des produits alimentaires au 1er février 2019
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-03-07, page 1261*
+
+Le relèvement du seuil de revente à perte, qui est entré en vigueur le 1er février 2019 s'inscrit pleinement dans les objectifs de la loi sur l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous : redonner de la valeur aux produits agricoles, faire cesser la guerre des prix entre les distributeurs, destructrice de valeur, et mieux répartir la valeur au sein de la chaîne. Cette disposition vise les produits dits « d'appel », vendus à une très faible marge, voire nulle, par la grande distribution et représentant 7 % des produits alimentaires. Le relèvement du seuil de revente à perte permettra au distributeur de rééquilibrer ses marges sur l'ensemble des produits alimentaires vendus en rayon, et ainsi de redonner de la valeur et du prix aux productions agricoles. En effet, avant le relèvement du seuil de revente à perte, les distributeurs rattrapaient leurs marges nulles voire faibles sur les produits d'appels par des marges importantes généralement sur les produits agricoles. Ce rééquilibrage des marges devrait s'opérer sans substantiellement modifier le prix global du panier du consommateur. Ce relèvement du seuil de revente à perte à 10 % pour les produits agricoles et alimentaires fera l'objet d'une évaluation des services du ministère de l'agriculture et de l'alimentation et du ministère de l'économie, qui réuniront régulièrement les parties prenantes. Le ministère veillera à ce que les distributeurs tiennent leurs engagements et contribuent à une meilleure rémunération des producteurs agricoles.
