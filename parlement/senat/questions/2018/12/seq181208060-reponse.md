@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208060
+
+- Question : [SEQ181208060](seq181208060.md) — Pérennité de la chasse à la glu
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-03-07, page 1309*
+
+La directive « oiseaux » du 30 novembre 2009 concernant la conservation des oiseaux sauvages prévoit dans son article 9 la possibilité de déroger aux principes généraux de protection qu'elle établit. Cette dérogation permet dans des conditions strictement contrôlées et de manière sélective, la capture, la détention ou toute autre exploitation judicieuse de certains oiseaux en petites quantités. Sur la base de ces dispositions, un arrêté ministériel fixe dans les départements concernés les conditions particulières d'exercice des chasses traditionnelles aux gluaux. Ces textes renvoient à des arrêtés ministériels annuels la fixation de quotas par département ainsi que, le cas échéant, « la détermination de spécifications techniques propres à un département ». Pour la saison 2018-2019, il a été fixé un quota égal aux prélèvements réalisés lors de la saison précédente, soit 2 900 individus. Il est à préciser que les quotas des années antérieures (5 000 individus environ) sont largement au-dessus des prélèvements effectivement réalisés. Le Gouvernement a conduit ces derniers mois une grande réflexion sur la chasse dont les principales mesures ont été annoncées le 28 août 2018. L'objectif de cette réforme vise à moderniser l'organisation de la chasse, assurer la protection de la biodiversité et mieux prendre en compte le bien-être animal. Ainsi une première mesure a été prise sur les chasses traditionnelles, le ministre de la transition écologique et solidaire ayant décidé de fixer les quotas de 2018 au niveau des prélèvements réalisés en 2017. Cette décision tient également compte des résultats d'une consultation publique réalisée en 2018 et entérine la tendance à la réduction progressive des prélèvements depuis plusieurs années.
