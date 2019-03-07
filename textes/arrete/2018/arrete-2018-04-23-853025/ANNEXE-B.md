@@ -10,9 +10,13 @@ Jours et heures obligatoires
 
 pour le débarquement/
 
-transbordement (heure locale) |
+Transbordement
 
-Délai de notification préalable (si différent de 4 heures) |
+(heure locale) |
+
+Délai de notification préalable
+
+(si différent de 4 heures) |
 
 Restrictions supplémentaires
 
@@ -72,7 +76,9 @@ ROSCOFF |
 
 29680 |
 
-Tous les jours de 6 h à 22 h |
+Tous les jours
+
+de 6 heures à 22 heures |
 
 8 heures |
 
@@ -82,7 +88,9 @@ BREST |
 
 29200 |
 
-Tous les jours de 6 h à 22 h |
+Tous les jours
+
+de 6 heures à 22 heures |
 
 8 heures |
 
@@ -142,7 +150,11 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 h à 5 h et de 9 h à minuit |
+Tous les jours
+
+de 0 heure à 5 heures
+
+et de 9 heures à minuit |
 
 |
 
@@ -188,7 +200,9 @@ YEU |
 
 |
 
-SAINT-GILLES-CROIX-DE-VIE |
+SAINT-GILLES-
+
+CROIX-DE-VIE |
 
 85800 |
 
@@ -248,6 +262,16 @@ ARCACHON |
 
 |
 
+BAYONNE |
+
+64100 |
+
+|
+
+|
+
+Quai du port de commerce de Bayonne |
+
 SAINT-JEAN-DE-LUZ |
 
 64500 |
@@ -258,7 +282,9 @@ SAINT-JEAN-DE-LUZ |
 
 |
 
-HENDAYE |
+HENDAYE
+
+|
 
 64700 |
 

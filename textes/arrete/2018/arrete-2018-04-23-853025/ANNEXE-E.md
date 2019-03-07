@@ -6,13 +6,19 @@ Nom du port |
 
 Code postal |
 
-Jours et heures
+Jours et heures obligatoires
 
-obligatoires pour le débarquement/ transbordement (heure locale) |
+pour le débarquement
+
+/ transbordement
+
+(heure locale) |
 
 Lieu (x) obligatoire (s)
 
-pour le débarquement/ transbordement |
+pour le débarquement
+
+/ transbordement |
 
 Délai
 
@@ -34,7 +40,7 @@ GRANVILLE |
 
 Pour les navires non titulaires d'une AEP thon rouge : du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
-Quai de la Criée Quai Ouest |
+Quai de la Criée, Quai Ouest |
 
 12 heures |
 
@@ -54,7 +60,9 @@ Quai Lawton Collins |
 
 |
 
-SAINT QUAY PORTRIEUX |
+SAINT QUAY
+
+PORTRIEUX |
 
 22410 |
 
@@ -70,7 +78,7 @@ BREST |
 
 29200 |
 
-Lundi au vendredi (hors jours fériés) de 8 h 30 à 22 heures |
+Sans restriction horaire en semaine. Débarquements interdits le week-end et les jours fériés. |
 
 Quai de la criée |
 
@@ -82,7 +90,7 @@ LE GUILVINEC |
 
 29730 |
 
-Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+Sans restriction horaire en semaine. Débarquements interdits le week-end et les jours fériés. |
 
 Quai de la Criée |
 
@@ -94,7 +102,7 @@ DOUARNENEZ |
 
 29100 |
 
-Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+Sans restriction horaire en semaine. Débarquements interdits le week-end et les jours fériés. |
 
 Quai de la Criée
 
@@ -108,7 +116,7 @@ CONCARNEAU |
 
 29900 |
 
-Lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+Sans restriction horaire en semaine. Débarquements interdits le week-end et les jours fériés. |
 
 Quai de la Criée |
 
@@ -124,7 +132,7 @@ Tous les jours de 9 heures à 17 heures |
 
 Quais du port de Keroman |
 
-6 heures pour les ligneurs
+2 heures pour les ligneurs
 
 12 heures pour les autres navires |
 
@@ -138,7 +146,7 @@ Tous les jours de 9 heures à 17 heures |
 
 Port Maria |
 
-6 heures pour les ligneurs
+2 heures pour les ligneurs
 
 12 heures pour les autres navires |
 
@@ -148,7 +156,7 @@ LA TURBALLE |
 
 44420 |
 
-Pour les navires non titulaires d'une AEP thon rouge : Lundi au vendredi (hors jours fériés) de 9 heures à 17 heures. |
+Pour les navires non titulaires d'une AEP : Lundi au vendredi (hors jours fériés) de 9 heures à 17 heures. |
 
 Quais du port de la Turballe |
 
@@ -164,7 +172,7 @@ Pour les navires titulaires d'une AEP thon rouge : sans contrainte horaire |
 
 Quais du port de la Turballe |
 
-6 heures pour les chalutiers et 4 heures pour les ligneurs |
+6 heures pour les chalutiers et 2 heures pour les ligneurs |
 
 |
 
@@ -172,7 +180,7 @@ LES SABLES-D'OLONNE |
 
 85180 |
 
-Du lundi au vendredi-de 9 heures à 18 heures
+Du lundi au vendredi de 9 heures à 18 heures
 
 Le dimanche de 9 heures à 15 heures |
 
@@ -222,7 +230,7 @@ ARCACHON |
 
 33120 |
 
-Du lundi au vendredi-de 8 heures à 17 heures |
+Du lundi au vendredi de 8 heures à 17 heures |
 
 Port de pêche
 
@@ -232,13 +240,27 @@ Quai de la Criée |
 
 |
 
-SAINT-JEAN-DE-LUZ |
+BAYONNE |
+
+64100 |
+
+Tous les jours de 6 heures à 22 heures |
+
+Quai du port de commerce de Bayonne |
+
+|
+
+Navires de taille supérieure à 22 mètres seulement |
+
+SAINT-JEAN
+
+-DE-LUZ |
 
 64500 |
 
-Pour les navires titulaires d'une AEP thon rouge, tous les jours de 4 h à 24 h ;
+Pour les navires titulaires d'une AEP thon rouge, tous les jours de 4 heures à 24 heures ;
 
-Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au jeudi de 10 h à 17 h. |
+Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au jeudi de 10 heures à 17 heures |
 
 Quai de la Criée |
 
@@ -294,7 +316,9 @@ De 9 heures à 12 heures et 13 h 30 à 17 h 30 |
 
 |
 
-PORT-LA-NOUVELLE |
+PORT-
+
+LA-NOUVELLE |
 
 11210 |
 
@@ -310,7 +334,7 @@ GRUISSAN |
 
 11430 |
 
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
 
 |
 
@@ -322,7 +346,7 @@ LEUCATE |
 
 11370 |
 
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9 h 30 à 12 heures et de 15 heures à 17 heures |
 
 |
 
@@ -364,7 +388,7 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9h00 à 11h00 et de 16 h00 à 20h00 |
+Tous les jours de 9h00 à 11 heures et de 16 heures à 20 heures |
 
 Quai des Pompes |
 
@@ -384,6 +408,18 @@ Quai des pêcheurs |
 
 |
 
+CARNON |
+
+34280 |
+
+Tous les jours de 7 heures à 10 heures et de 16 heures à 19 heures |
+
+Quai Auguste Meunier |
+
+|
+
+|
+
 GRAU-DU-ROI |
 
 30240 |
@@ -398,7 +434,9 @@ Quai du 19 Mars 1962 |
 
 |
 
-LES SAINTES-MARIES-DE-LA-MER |
+LES SAINTES-MARIES-
+
+DE-LA-MER |
 
 13460 |
 
@@ -414,7 +452,7 @@ PORT SAINT LOUIS DU RHONE |
 
 13230 |
 
-De 8h à 11h et de 15h30 à 18h30 |
+De 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
 
 |
 
@@ -458,6 +496,30 @@ Port de Saumaty |
 
 |
 
+MARSEILLE |
+
+13008 |
+
+Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+
+|
+
+|
+
+|
+
+CARRY-LE-ROUET |
+
+13620 |
+
+Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+
+|
+
+|
+
+|
+
 SANARY |
 
 83110 |
@@ -494,13 +556,25 @@ De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
 
 |
 
-CANNES |
+MENTON |
 
-06400 |
+06500 |
 
 Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
 
-Vieux-port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf |
+|
+
+|
+
+|
+
+CROS DE CAGNES |
+
+06800 |
+
+Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+
+|
 
 |
 
@@ -510,7 +584,7 @@ SARI-SOLENZARA |
 
 20145 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 Port communal de plaisance et de pêche |
 
@@ -522,7 +596,7 @@ BONIFACIO |
 
 20169 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -534,7 +608,7 @@ BASTIA |
 
 20200 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -546,7 +620,7 @@ SAINT-FLORENT |
 
 20217 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -558,7 +632,7 @@ CALVI |
 
 20260 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -570,7 +644,7 @@ PORTO-VECCHIO |
 
 20137 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -582,7 +656,7 @@ SANTA-MARIA-POGHJU |
 
 20221 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
@@ -594,7 +668,7 @@ COGOLIN |
 
 83310 |
 
-Tous les jours de 8h30 à 11h30 et de 14 heures à 16 heures |
+Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
 
 |
 
@@ -630,7 +704,7 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8h à 18h |
+Tous les jours de 8 heures à 18 heures |
 
 |
 
