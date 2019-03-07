@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007426
+
+- Question : [SEQ181007426](seq181007426.md) — Cadre d'emploi des agents de surveillance de la voie publique
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-03-07, page 1273*
+
+Les agents de surveillance de la voie publique (ASVP) ne sont pas inclus dans un cadre d'emplois spécifique de la fonction publique territoriale, contrairement aux agents de police municipale ou aux gardes champêtres. Agents titulaires d'un cadre d'emplois administratif ou technique de la fonction publique territoriale, ou agents non titulaires, les ASVP interviennent sur la voie publique après agrément par le procureur de la République et assermentation par le tribunal de police. La compétence de verbalisation des ASVP est limitée, notamment aux domaines du stationnement hors stationnement gênant, de la propreté des voies et espaces publics, ou de la lutte contre le bruit. La création d'un cadre d'emplois pour les ASVP ne semble pas pertinente dans la mesure où les missions de ces agents sont restreintes. Or, la vocation d'un cadre d'emplois de la fonction publique territoriale est, par nature, de couvrir un ensemble de fonctions et d'emplois. Par ailleurs, les missions confiées aux ASVP, ainsi que leur origine professionnelle, demeurent très variables d'une collectivité territoriale à l'autre. Par conséquent, le Gouvernement n'envisage pas de créer un cadre d'emplois des agents de surveillance de la voie publique. Toutefois, afin de leur offrir des perspectives de carrière, une voie leur est désormais offerte d'accéder au cadre d'emplois des agents de police municipale par un concours interne dédié, depuis la modification apportée en mars 2017 à l'article 4 du décret n° 2006-1391 du 17 novembre 2006 portant statut particulier du cadre d'emplois des agents de police municipale.
