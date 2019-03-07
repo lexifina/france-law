@@ -12,4 +12,6 @@ ORGANISMES AUTORISÉS À DÉLIVRER DES BAGUES DESTINÉES À L'IDENTIFICATION DES
 
 5° Fédération départementale des chasseurs des Bouches-du-Rhône ;
 
-6° Fédération départementale des chasseurs de l'Hérault.
+6° Fédération départementale des chasseurs de l'Hérault ;
+
+7° Fédération départementale des chasseurs de la Charente Maritime.
