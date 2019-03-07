@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208746
+
+- Question : [SEQ190208746](seq190208746.md) — Plafonnement des promotions à 34 % dans le cadre de la loi Egalim
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-03-07, page 1261*
+
+L'ordonnance sur l'encadrement des promotions a interdit, à partir du 1er janvier, tout avantage promotionnel supérieur à 34 % du prix de vente promu, ou l'octroi à titre gracieux de toute quantité supplémentaire dans une même proportion. Cette mesure était fortement attendue par le milieu agricole. Lors des états généraux de l'alimentation, les parties prenantes avaient alerté sur la forte augmentation du nombre de promotions portant sur les produits alimentaires dans la grande distribution. Ces promotions souvent importantes (comme un produit gratuit pour un produit acheté) contribuaient à déséquilibrer fortement les relations commerciales au sein de la chaîne de production alimentaire, au détriment des producteurs agricoles et étaient destructrices de valeur. Des promotions trop fortes et fréquentes font, en effet, perdre au consommateur la valeur réelle du produit et contribuent au gaspillage alimentaire. Il a donc été décidé d'encadrer les promotions afin de redonner de la valeur aux produits agricoles et de faire cesser la guerre des prix entre les distributeurs. Avec l'encadrement en volume à 34 %, l'offre commerciale, « 1 produit acheté, 1 produit offert » est interdite depuis le 1er janvier : seule l'offre pour « 2 produits achetés, 1 offert » est désormais possible. Cet encadrement en valeur s'accompagne d'un encadrement en volume des promotions. À partir du 1er mars 2019, les avantages promotionnels accordés par le fournisseur ou le distributeur seront limités à 25 % du chiffre d'affaires prévisionnel ou du volume prévisionnel du produit prévu par le contrat.
