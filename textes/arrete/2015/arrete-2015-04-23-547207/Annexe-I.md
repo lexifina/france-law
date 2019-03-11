@@ -124,17 +124,17 @@ Directeur du service logistique de la marine
 
 Service du commissariat des armées |
 
-Directeur du centre interarmées d'administration des opérations
+Directeur du centre interarmées du soutien “ administration des opérations ”
 
 Directeurs du commissariat en opération extérieure
 
-Directeur du centre d'expertise de soutien général des armées
+Directeur du centre interarmées du soutien “ multiservices ”
 
-Directeur du centre d'expertise du soutien du combattant et des forces
+Directeur du centre interarmées du soutien “ équipements commissariat ”
 
-Directeur du centre d'expertise de la restauration et de l'hébergement interarmées
+Directeur du centre interarmées du soutien “ restauration et loisirs ”
 
-Directeur du centre d'analyse et de contrôle interne
+Directeur du centre interarmées du soutien “ métiers et contrôle interne ”
 
 |
 

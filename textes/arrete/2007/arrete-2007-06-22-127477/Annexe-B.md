@@ -18,7 +18,7 @@ Sans limitation |
 
 Direction centrale du service du commissariat des armées |
 
-Directeur du centre interarmées d'administration des opérations |
+Directeur du centre interarmées du soutien “administration des opérations” |
 
 MAPA × 50 |
 
@@ -30,7 +30,7 @@ Directeurs du commissariat en opération extérieure |
 
 MAPA × 150 |
 
-Directeur du centre d'expertise du soutien du combattant et des forces |
+Directeur du centre interarmées du soutien “équipements commissariat” |
 
 Sans limitation |
 

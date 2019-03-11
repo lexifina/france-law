@@ -6,7 +6,7 @@ ORGANISMES |
 
 TRIBUNAUX ADMINISTRATIFS |
 
-Centre d'expertise du soutien juridique (1) |
+centre interarmées du soutien “ juridique ” (1) |
 
 Cergy-Pontoise, Melun, Montreuil, Paris, Versailles. |
 
@@ -26,6 +26,6 @@ Service local du contentieux de Toulon |
 
 Bastia, Grenoble, Lyon, Marseille, Montpellier, Nice, Nîmes, Toulon. |
 
-(1) Le centre d'expertise du soutien juridique est également compétent pour les dossiers de contentieux administratif initiés par le service local du contentieux de Villacoublay avant sa dissolution.
+(1) Le centre interarmées du soutien “ juridique ” est également compétent pour les dossiers de contentieux administratif initiés par le service local du contentieux de Villacoublay avant sa dissolution.
 
 |

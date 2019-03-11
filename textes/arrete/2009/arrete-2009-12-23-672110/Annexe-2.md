@@ -1,10 +1,10 @@
 # Article Annexe 2
 
-RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1ER, ENTRE LE CENTRE D'EXPERTISE DU SOUTIEN JURIDIQUE, LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT D'OUTRE-MER ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
+RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 1ER, ENTRE LE CENTRE INTERARMEES DU SOUTIEN “ JURIDIQUE ”, LES SERVICES LOCAUX DU CONTENTIEUX, LES DIRECTIONS DU COMMISSARIAT D'OUTRE-MER ET LES DIRECTIONS DU COMMISSARIAT EN OPÉRATION EXTÉRIEURE
 
 SPHÈRE DE COMPÉTENCE |
 
-Centre d'expertise du soutien juridique (1) |
+centre interarmées du soutien “ juridique ” (1) |
 
 Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense. |
 
@@ -38,7 +38,7 @@ Règlement des dommages causés ou subis sur le territoire métropolitain par le
 
 Services locaux du contentieux |
 
-Règlement des dommages causés ou subis sur le territoire métropolitain ne relevant pas de la compétence du centre d'expertise du soutien juridique |
+Règlement des dommages causés ou subis sur le territoire métropolitain ne relevant pas de la compétence du centre interarmées du soutien “ juridique ” |
 
 Forces, services ou personnel mentionnés au I de l'article 1er, hors formations spécialisées de la gendarmerie placées pour emploi auprès du ministère de la défense (BdD dans le ressort de laquelle est affecté le personnel ou stationné le matériel impliqués (2) ou lieu de survenance en cas de dommage aérien). |
 
@@ -214,12 +214,12 @@ Pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur 
 
 Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1. |
 
-(1) Le centre d'expertise du soutien juridique est également compétent pour le traitement des dossiers de règlement de dommages initiés par le service local du contentieux de Villacoublay avant sa dissolution.
+(1) Le centre interarmées du soutien “ juridique ” est également compétent pour le traitement des dossiers de règlement de dommages initiés par le service local du contentieux de Villacoublay avant sa dissolution.
 
 (2) Y compris les bâtiments de la marine nationale et les membres de leur équipage. Le SLC compétent est celui correspondant à la BdD dans laquelle se situe le port-base du bâtiment.
 
 (3) A l'exception du règlement des dommages subis par des agents à l'occasion d'une mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est celui correspondant au lieu d'affectation de l'agent impliqué.
 
-(4) A l'exception du règlement des dommages subis par les agents en mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est le centre d'expertise du soutien juridique.
+(4) A l'exception du règlement des dommages subis par les agents en mission sur ce (s) territoire (s). Dans ce cas, l'organisme compétent est le centre interarmées du soutien “ juridique ”.
 
-(5) Les dommages subis à titre personnel par un militaire sont du ressort du centre d'expertise du soutien juridique. |
+(5) Les dommages subis à titre personnel par un militaire sont du ressort du centre interarmées du soutien “ juridique ”. |

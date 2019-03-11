@@ -26,19 +26,19 @@ Sans limitation |
 
 Direction centrale du service du commissariat des armées |
 
-Directeur du centre d'expertise de soutien général des armées |
+Directeur du centre interarmées du soutien “multiservices” |
 
 Sans limitation |
 
-Directeurs des plates-formes achats finances |
+Directeurs des plates-formes commissariat |
 
 Sans limitation |
 
-Directeur du centre d'expertise de la restauration et de l'hébergement interarmées |
+Directeur du centre interarmées du soutien “restauration et loisirs” |
 
 Sans limitation |
 
-Directeur du service spécialisé de la logistique et du transport |
+Directeur de la plate-forme affrètement et transport |
 
 Sans limitation |
 
