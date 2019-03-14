@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107703
+
+- Question : [SEQ181107703](seq181107703.md) — Pratique de la pêche électrique
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-03-14, page 1401*
+
+La pêche électrique fait partie des méthodes de pêche interdites en Europe en vertu de l'article 31 du règlement CE n° 850/98, dit règlement « mesures techniques ». A été introduit en 2007 l'article 31 bis qui autorise, par dérogation, la pratique de pêche électrique en mer du Nord, sous certaines conditions. La France n'y a pas recours. La Commission européenne a présenté une proposition de révision du règlement « mesures techniques » en mars 2016. Lors du vote en plénière les 15 et 16 janvier 2018, le Parlement européen s'est cependant prononcé pour l'interdiction de la pêche électrique. L'Assemblée nationale a également voté à l'unanimité une résolution en ce sens le 6 mars 2018 et le Gouvernement a immédiatement repris cette position à son compte dans le cadre des échanges au sein du Conseil en vue de l'adoption du règlement révisant les mesures techniques. Cette mobilisation a porté ses fruits puisque le trilogue du 13 février 2019 a conclu un accord entre institutions européennes sur la révision du règlement « mesures techniques ». Le Gouvernement se félicite de l'accord ainsi trouvé, qui prévoit : la suppression de la dérogation des « 5% » au 1er juillet 2021. L'introduction d'une telle période de transition permettra d'assurer la reconversion des navires concernés. Durant cette période, aucune nouvelle licence ne pourra être accordée ; la possibilité pour un État membre d'interdire immédiatement la pêche électrique dans les eaux sous sa souveraineté (12 milles marins), possibilité que la France mettra en œuvre dans ses eaux ; un encadrement strict des conditions de recours à des navires commerciaux à des fins de mise en œuvre de programmes scientifiques.
