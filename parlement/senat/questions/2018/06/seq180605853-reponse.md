@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605853
+
+- Question : [SEQ180605853](seq180605853.md) — Réforme de la complémentaire santé concernant les soins optiques
+
+## Réponse
+
+*Économie et finances, JO du 2019-03-14, page 1414*
+
+Les fabricants de montures sont au nombre d'environ 130 entreprises en France pour 142 sites recensés dont 24 de production et 21 de recherche. Parmi ces entreprises, 36 sont dans le Jura et 20 dans l'Ain. Elles emploient environ 1 550 personnes. Les montures avec reste à charge, cœur de cible des lunettiers français, leur permettent de réaliser environ 50 % de leur chiffre d'affaires, l'autre moitié étant fait à l'export, le Gouvernement s'est engagé à inciter les mutuelles à promouvoir dans leurs paniers de soins des montures produites en France. En outre, la mise en place dans le cadre de la réforme d'un devis normalisé permettant d'identifier l'origine européenne ou extra-européenne des montures permettra aux patients d'être correctement informés sur le lieu de fabrication. L'innovation, le design et la certification des montures françaises sont autant d'atouts pour la filière française, qui vont lui permettre de rester compétitive en s'appuyant sur le design des produits et leur niveau de qualité (induit par la durée de la garantie à assurer). Diffuser auprès des patients et des mutuelles qu'un achat français est la garantie supplémentaire d'une réparation rapide et d'un achat durable est aussi un des moyens de conforter cette filière d'excellence. Enfin la mise en place d'un observatoire des dépenses d'optique, prévue par la réforme, va permettre un suivi de la filière et d'adapter, le cas échéant, le dispositif prévu. Ce dernier vise aussi à mieux garantir l'accès aux soins des patients les plus fragiles économiquement, tout en maîtrisant les dépenses de santé.
