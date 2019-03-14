@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180504901
+
+- Question : [SEQ180504901](seq180504901.md) — Statut juridique de l'habitation en France des Français de l'étranger
+
+## Réponse
+
+*Économie et finances, JO du 2019-03-14, page 1414*
+
+Conformément aux dispositions des articles 1407 et 1408 du code général des impôts (CGI), la taxe d'habitation est établie au nom des personnes qui ont, à quelque titre que ce soit, la disposition ou la jouissance des locaux meublés affectés à l'habitation. Les personnes qui n'ont pas leur domicile fiscal en France, mais y disposent d'une ou plusieurs habitations, sont donc redevables de la taxe. En outre, l'habitation principale s'entend du logement dans lequel le contribuable réside habituellement et effectivement avec sa famille et où se situe le centre de ses intérêts professionnels et matériels ou, lorsque l'un des conjoints exerce une profession qui l'oblige à de fréquents déplacements, le logement dans lequel sa famille, et notamment son conjoint, réside en permanence. Dès lors, les contribuables établis hors de France ne peuvent bénéficier des avantages prévus en faveur de l'habitation principale, à moins que leur famille ne réside de façon permanente dans le logement situé en France. Ils bénéficient alors des allègements de base d'imposition de droit commun, notamment de l'abattement obligatoire pour charges de famille et des abattements facultatifs pris sur délibération des collectivités locales. S'agissant des taxes foncières sur les propriétés bâties ou non bâties, ces taxes sont dues par le propriétaire des biens, et dans les mêmes conditions, qu'il soit établi en France ou à l'étranger. En tout état de cause, le droit conventionnel, comme le droit européen, ne pourrait être compatible avec une disposition fiscale privilégiant certains contribuables non-résidents en raison de leur nationalité.
