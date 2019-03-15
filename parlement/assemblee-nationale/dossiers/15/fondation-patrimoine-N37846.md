@@ -1,0 +1,55 @@
+# Fondation du Patrimoine
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37846
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/fondation_patrimoine
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl18-381.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-03-15 : 1er dépôt d'une initiative. (PIONSNR5S319B0381)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-10-17 : Dépôt de rapport (RAPPSNR5S339B0075, PIONSNR5S339BTC0076)
+  - Discussion en séance publique
+    - 2019-10-23 : Discussion en séance publique
+    - 2019-10-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-10-24 : Dépôt d'une initiative en navette (PIONANR5L15B2361)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-10-24 : Renvoi en commission au fond
+      - 2020-01-08 : Nomination de rapporteur
+      - 2020-01-08 : Réunion de commission
+      - 2020-01-22 : Réunion de commission
+      - 2020-01-29 : Réunion de commission
+      - 2020-01-22 : Dépôt de rapport (RAPPANR5L15B2617, PIONANR5L15BTC2617)
+  - Discussion en séance publique
+    - 2020-01-30 : Discussion en séance publique
+    - 2020-01-30 : Décision
+- deuxième lecture
+  - 2020-01-30 : Dépôt d'une initiative en navette (PIONSNR5S339B0287)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-30 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-02-17 : Dépôt de rapport (RAPPSNR5S359B0373, PIONSNR5S359BTC0374)
+  - Discussion en séance publique
+    - 2021-03-02 : Discussion en séance publique
+    - 2021-03-02 : Décision
+- deuxième lecture
+  - 2021-03-02 : Dépôt d'une initiative en navette (PIONANR5L15B3934)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-02 : Renvoi en commission au fond
+      - 2021-05-12 : Réunion de commission
+      - 2021-05-12 : Dépôt de rapport (RAPPANR5L15B4150, PIONANR5L15BTC4150)
+  - Discussion en séance publique
+    - 2021-05-20 : Discussion en séance publique
+    - 2021-05-20 : Décision
+- Promulgation de la loi
+  - 2021-06-04 : Promulgation d'une loi
