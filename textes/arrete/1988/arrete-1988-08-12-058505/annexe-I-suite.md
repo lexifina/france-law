@@ -1776,15 +1776,11 @@ a) patte anti-retour b), c) et d) bagues métalliques serties.
 
 |
 
-48
-
-|
+48 |
 
 Entreprise Jean-Nicolas Ducatillon (59) |
 
-DUCATILLON
-
-|
+DUCATILLON |
 
 d) = 2
 
@@ -1792,9 +1788,7 @@ c) = 20
 
 |
 
-780
-
-|
+780 |
 
 a) Patte antiretour
 
@@ -2795,169 +2789,5 @@ Dimension de la palette : 5 cm de diamètre
 |
 
 Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
-
-|
-
-6
-
-|
-
-1
-
-|
-
-Bidon à rat musqué, à double fond.
-
-|
-
-Sans objet (voir observations).
-
-|
-
-Sans objet.
-
-|
-
-Voir caractéristiques (tolérance de 15 mm sur les dimensions indiquées).
-
-|
-
-D.D.A.F. 14 sur la paroi extérieure.
-
-|
-
-Fût de hauteur h comprise entre 50 et 100 cm, aménagé conformément au descriptif déposé à la direction de la protection de la nature.
-
-Hauteur de l'emplacement du plateau supérieur : 0,5 h.
-
-Distance entre les deux plateaux : 0,1 à 0,15 h.
-
-Diamètres supérieur et inférieur de l'anchon : 120 et 90 mm.
-
-Profondeur minimale du bas de l'anchon sous le plateau inférieur : 100 mm.
-
-|
-
-Ces pièges réalisés sous le contrôle de la D.D.A.F. du Calvados.
-
-Pour la capture du rat musqué, exclusivement.
-
-Le niveau de l'eau, en l'absence d'animal capturé, doit affleurer le plateau inférieur.
-
-|
-
-|
-
-2
-
-|
-
-Piège à ragondins et rats musqués.
-
-|
-
-Communauté de communes du bocage mayennais, Gorron (53).
-
-|
-
-|
-
-Fût cylindrique : Hauteur : 0,89m ;
-
-Diamètre 0,69 m.
-
-Cage : Longueur :
-
-70 cm ;
-
-Largeur :
-
-33 cm ;
-
-Hauteur : 24 cm.
-
-|
-
-SIVM Gorron sur la partie supérieure du fût à 10 cm du haut, suivi d'un numéro d'ordre inscrit sur un registre tenu par la communauté des communes.
-
-|
-
-Piège formé d'un fût cylindrique surmonté d'un grillage (hauteur : 20 cm), muni à fa base d'une cage.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les pièges ne sont utilisés que pour la capture des ragondins ou des rats musqués.
-
-Le piège doit être immergé de telle façon que la cage soit recouverte d'au moins 10 cm d'eau.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3
-
-|
-
-Pièges pour ragondins et rats musqués.
-
-|
-
-Association des piégeurs agréés de la Seine-Maritime, Bihorel (76).
-
-|
-
-|
-
-Fût cylindrique: Hauteur:0,61 m;
-
-Diamètre :
-
-0,35 m.
-
-|
-
-APASM
-
-|
-
-Piège grillagé formé d'un fût cylindrique muni d'une ouverture en entonnoir dans sa partie supérieure.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les pièges ne sont utilisés que pour la capture des ragondins ou des rats musqués.
-
-Le piège doit être immergé de telle façon que la cage soit couverte d'au moins 10 cm d'eau.
 
 |
