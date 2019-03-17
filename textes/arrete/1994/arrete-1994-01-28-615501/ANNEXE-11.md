@@ -1,6 +1,6 @@
 # Article ANNEXE , 11
 
-L'assemblée générale de l'association se réunit au moins une fois par an avant le 15 avril sur convocation de son président annoncée dans un journal de presse locale un mois à l'avance ; les membres de l'association peuvent également demander à être convoqués par voie postale à leurs frais.
+L'assemblée générale de l'association se réunit au moins une fois par an avant le 30 juin sur convocation de son président annoncée dans un journal de presse locale un mois à l'avance ; les membres de l'association peuvent également demander à être convoqués par voie postale à leurs frais.
 
 Son bureau de séance est celui du conseil d'administration.
 
