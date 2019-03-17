@@ -1,6 +1,10 @@
 # Article Annexe
 
-Electricité de France ( EDF ) société anonyme et (...)
+Electricité de France ("EDF") société anonyme
+
+et
+
+(…)
 
 MODÈLE D'ACCORD-CADRE POUR L'ACCÈS RÉGULÉ À L'ÉLECTRICITÉ NUCLÉAIRE HISTORIQUE
 
@@ -18,7 +22,7 @@ PRÉAMBULE
 
 4.1. Dossier de demande d'ARENH
 
-4.2. Notification des Cessions Annuelles d'Electricité et de garanties de capacité.
+4.2. Notification des Cessions Annuelles d'Electricité et de garanties de capacité
 
 5. Livraisons annuelles
 
@@ -110,7 +114,7 @@ Annexe II : Modèle de garantie-Garantie d'Affilié
 
 Annexe III : Modèle de garantie-Garantie Approuvée
 
-ACCORD-CADRE POUR L'ACCÈS RÉGULÉ À L'ÉLECTRICITE NUCLÉAIRE HISTORIQUE
+ACCORD-CADRE POUR L'ACCÈS RÉGULÉ À L'ÉLECTRICITÉ NUCLÉAIRE HISTORIQUE
 
 Entre :
 
@@ -118,7 +122,7 @@ Entre :
 
 et
 
-2. (...), (ci-après l' Acheteur ).
+2. (…), (ci-après l' Acheteur ),
 
 ci-après dénommées individuellement ou ensemble une Partie ou les Parties.
 
@@ -178,7 +182,7 @@ Afin de permettre à la CRE de procéder aux notifications mentionnées à l'art
 
 4.2. Notification des Cessions annuelles d'électricité et de garanties de capacité
 
-En application de l'article R. 336-19 du code de l'énergie, la CRE notifie à l'Acheteur les Quantités et Profils des Produits cédés par EDF au titre de l'ARENH sur la période de livraison à venir (ci-après la Notification de cession annuelle d'électricité et de garanties de capacité ").
+En application de l'article R. 336-19 du code de l'énergie, la CRE notifie à l'Acheteur les Quantités et Profils des Produits cédés par EDF au titre de l'ARENH sur la période de livraison à venir (ci-après la Notification de cession annuelle d'électricité et de garanties de capacité ).
 
 Cette Notification de Cession annuelle d'électricité et de garanties de capacité précise notamment :
 
@@ -196,7 +200,7 @@ Cette Notification de Cession annuelle d'électricité et de garanties de capaci
 
 En application de ce même article R. 336-19 du code de l'énergie, la CRE notifie simultanément à EDF l'agrégation des Quantités de Produits Cédés pour l'ensemble des Acheteurs sur la période.
 
-A compter de la réception de la Notification de Cession annuelle d'électricité et de garanties de capacité, l'Acheteur s'engage à prendre livraison de la totalité des Produits cédés, objets de la Notification
+A compter de la réception de la Notification de Cession annuelle d'électricité et de garanties de capacité, l'Acheteur s'engage à prendre livraison de la totalité des Produits cédés, objets de la Notification.
 
 A compter de la réception de la notification par la CRE de la quantité d'électricité qui doit être injectée au titre de l'ARENH chaque demi-heure de la période de livraison à venir et de la quantité de garanties de capacité qui doivent être transférées au titre de l'ARENH pour la période de livraison à venir, EDF s'engage à livrer la quantité d'énergie ainsi que la quantité de garanties de capacité notifiées par la CRE correspondant à l'agrégation des Notifications de Cession annuelle d'électricité et de garanties de capacité.
 
@@ -242,7 +246,7 @@ Les montants mentionnés dans le présent accord-cadre sont expressément stipul
 
 En vue de la correcte application des articles 38,39 et 195 de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, les parties font les déclarations suivantes :
 
-a) Déclarations du Vendeur.
+a) Déclarations du Vendeur
 
 Le Vendeur déclare à l'Acheteur que l'établissement qui réalise les livraisons des Produits cédés prévues par l'accord-cadre, ainsi que son numéro intra-communautaire de TVA sont les suivants :
 
@@ -252,7 +256,7 @@ N° de TVA du Vendeur : (EDF = FR 03552081317)
 
 Le Vendeur déclare à l'Acheteur que l'établissement ci-dessus constitue le lieu où il a établi le siège de son activité économique pour les besoins de la TVA.
 
-b) Déclarations de l'Acheteur.
+b) Déclarations de l'Acheteur
 
 L'Acheteur déclare au Vendeur, pour les seuls besoins de la TVA, qu'au titre de ses achats de Produits cédés il constitue un assujetti revendeur dont le numéro intra-communautaire de TVA et le lieu d'établissement qui acquiert les Produits cédés sont les suivants :
 
@@ -274,7 +278,7 @@ Lorsqu'une des Parties a fait une déclaration erronée ou incomplète ou n'a pa
 
 7. Autres taxes
 
-Tous les montants prévus au présent accord-cadre sont exclusifs de toute taxe (notamment mais non exclusivement, toutes taxes sur les biens et les services, taxes à la consommation et taxes sur énergies ...), présente ou future, due au titre de la vente d'électricité aux consommateurs finals. Le traitement, au regard de ces autres taxes, des ventes de Produits cédés prévues au présent accord-cadre est déterminé conformément aux dispositions en vigueur dans l'Etat où ces ventes sont taxables. Si le Vendeur est tenu de collecter une de ces taxes au titre des montants dus par l'Acheteur, l'Acheteur devra payer au Vendeur un montant additionnel égal à la taxe due, sous réserve que le Vendeur fournisse à l'Acheteur tout document pertinent (existant en vertu de la législation applicable dans l'Etat de taxation) en rapport avec cette taxe.
+Tous les montants prévus au présent accord-cadre sont exclusifs de toute taxe (notamment mais non exclusivement, toutes taxes sur les biens et les services, taxes à la consommation et taxes sur énergies …), présente ou future, due au titre de la vente d'électricité aux consommateurs finals. Le traitement, au regard de ces autres taxes, des ventes de Produits cédés prévues au présent accord-cadre est déterminé conformément aux dispositions en vigueur dans l'Etat où ces ventes sont taxables. Si le Vendeur est tenu de collecter une de ces taxes au titre des montants dus par l'Acheteur, l'Acheteur devra payer au Vendeur un montant additionnel égal à la taxe due, sous réserve que le Vendeur fournisse à l'Acheteur tout document pertinent (existant en vertu de la législation applicable dans l'Etat de taxation) en rapport avec cette taxe.
 
 8. Facturation, règlement et suivi de la facturation
 
@@ -326,7 +330,7 @@ Au cas où la contestation ne serait pas résolue dans un délai de trente (30) 
 
 8.4.2. Procédure en cas d'erreur manifeste ou grossière
 
-Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou la facture relative au Complément de prix, visées aux articles 8.1 et 8.2 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (date d'envoi faisant foi) qui suivent la réception de la facture.
+Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou la facture relative au Complément de prix, visées aux articles 8.1 et 8.2 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (la date d'envoi faisant foi) qui suivent la réception de la facture.
 
 Si la CDC, agissant au nom et pour le compte d'EDF, convient du caractère manifestement erroné du montant contesté, elle adresse dans les cinq (5) jours ouvrés qui suivent la réception de la contestation une facture rectificative. L'Acheteur paiera à la Date d'échéance les montants figurant dans la facture rectificative.
 
@@ -418,9 +422,13 @@ Les obligations des Parties sont suspendues pendant la durée de l'événement d
 
 11. Cession-Transfert de l'accord-cadre
 
-Le présent accord-cadre est cessible ou transférable (à titre gratuit ou onéreux et sous quelque forme que ce soit), sous réserve que le nouvel acheteur soit titulaire du récépissé délivré par la CRE et respecte les dispositions de l'article 9 du présent accord-cadre.
+Le présent accord-cadre est cessible ou transférable (à titre gratuit ou onéreux et sous quelque forme que ce soit), sous réserve que le nouvel acheteur soit titulaire du récépissé délivré par la CRE et respecte les dispositions de l'article 9 du présent accord-cadre. La cession ou le transfert a pour effet la reprise par le cessionnaire de tous les droits et obligations du cédant.
 
-Ce transfert ne pourra intervenir qu'à l'échéance d'une Cession annuelle d'électricité et de garantie de capacité.
+La cession ou le transfert ne peut intervenir qu'à l'échéance d'une Cession annuelle d'électricité et de garantie de capacité.
+
+Par exception, la cession ou le transfert peut intervenir au cours de la Cession annuelle d'électricité et de garantie de capacité en cas de retrait de l'Union européenne du pays dans lequel l'Acheteur est établi.
+
+L'Acheteur notifie la cession ou le transfert de l'accord-cadre à la Commission de régulation de l'énergie et à Electricité de France sans délai et, au plus tard, cinq (5) jours ouvrés après sa réalisation.
 
 12. Durée
 
@@ -480,11 +488,11 @@ La résiliation prendra effet le quinzième (15e) jour calendaire suivant le jou
 
 L'Acheteur a la faculté de résilier l'accord-cadre dans les cas suivants :
 
-A) En cas de modification du prix prévu à l'article L. 337-13 du code de l'énergie strictement supérieure à 2 % ;
+A.-En cas de modification du prix prévu à l'article L. 337-13 du code de l'énergie strictement supérieure à 2 % ;
 
-B) En cas de modification substantielle de l'accord-cadre ;
+B.-En cas de modification substantielle de l'accord-cadre ;
 
-C) En cas d'évolution de la réglementation relative à l'ARENH autre que visée aux points A et B, affectant substantiellement et défavorablement l'équilibre de ses conditions d'approvisionnement.
+C.-En cas d'évolution de la réglementation relative à l'ARENH autre que visée aux points A et B, affectant substantiellement et défavorablement l'équilibre de ses conditions d'approvisionnement.
 
 Par exception, les stipulations du C ne sont pas applicables en cas de modification de l'article R. 336-16 du code de l'énergie effectuée avant le 1er avril 2017.
 
@@ -498,11 +506,11 @@ Lorsqu'une cessation de livraison d'électricité au titre de l'ARENH est consta
 
 Cette modalité s'applique dans toutes les situations induisant une cessation de transfert d'ARENH, notamment :
 
--Le défaut de remise d'une Garantie conforme par l'Acheteur ;
+-le défaut de remise d'une Garantie conforme par l'Acheteur ;
 
--La suspension ou résiliation de l'accord-cadre ;
+-la suspension ou résiliation de l'accord-cadre ;
 
--Le défaut de paiement.
+-le défaut de paiement.
 
 15. Modification-Adaptation
 

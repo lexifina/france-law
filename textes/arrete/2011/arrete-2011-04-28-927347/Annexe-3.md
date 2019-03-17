@@ -6,7 +6,7 @@ Garantie Approuvée
 
 Garantie Autonome à Première Demande.
 
-Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le Garant ou Nous), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (accord-cadre) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la Garantie).
+Nous soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
 
 PRÉAMBULE
 
@@ -40,9 +40,9 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le [⁎] et prendra fin le 
 
 7. Le Garant s'engage à communiquer à la CDC, toute modification de sa notation financière dans les 24 heures suivant la date officielle de cette modification lorsque l'une quelconque des notations financières ci-dessous ne respecte plus le critère minimum correspondant :
 
--Notation financière court terme : P-2 (Moody's court terme) ou A-2 (Standard & Poors court terme) ;
+-notation financière court terme : P-2 (Moody's court terme) ou A-2 (Standard & Poors court terme) ;
 
--Notation financière long terme : Baa1 (Moody's long terme) ou BBB + (Standard & Poors long terme et Fitch Ratings long terme).
+-notation financière long terme : Baa1 (Moody's long terme) ou BBB + (Standard & Poors long terme et Fitch Ratings long terme).
 
 8. Le Garant ne peut céder aucun de ses droits ou obligations au titre de la Garantie sans l'accord écrit préalable de la CDC.
 
@@ -60,7 +60,7 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le [⁎] et prendra fin le 
 
 Les intérêts de retard échus et non payés seront capitalisés avec le montant impayé au titre duquel ils sont dus si, au sens de l'article 1343-2 du code civil, ces intérêts sont dus pour au moins une année entière.
 
-11-1. Les parties peuvent modifier le présent contrat par avenant portant sur la date de validité de la garantie et sur le montant de la garantie. L'avenant est conforme au modèle annexé à l'accord-cadre.
+11-1. Les parties peuvent modifier le présent contrat par avenant portant sur la date de validité de la garantie et sur le montant de la garantie. L'avenant est conforme au modèle annexé à l'Accord-cadre.
 
 12. Aucune renonciation à la mise en œuvre d'une ou plusieurs des dispositions de la Garantie ne sera valable, à moins qu'elle n'ait été formulée par écrit et signée par la CDC. Aucun retard, ni aucune opposition, de la part de la CDC ne saura constituer une renonciation ou être interprétée comme telle. Les droits et pouvoirs, ainsi que l'interprétation faite par la CDC de ces droits et pouvoirs au titre de la Garantie s'ajoutent à, et ne sauraient être exclusifs de, ou se substituer à ceux qui lui sont conférés par la loi, tout autre contrat ou toute autre sûreté dont EDF bénéficierait.
 
