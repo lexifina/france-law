@@ -1,3 +1,5 @@
-# Article Annexe
+# Article Annexe I
 
-(1) Les règlement et programme d’examen seront publiés au Bulletin officiel du ministère de l’éducation, du ministère des universités et du ministère de la jeunesse, des sports et des loisirs.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038234848
