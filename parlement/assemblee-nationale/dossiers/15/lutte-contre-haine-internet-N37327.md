@@ -1,0 +1,90 @@
+# Lutte contre la haine sur internet
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37327
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_haine_internet
+- Sénat : https://www.senat.fr/dossier-legislatif/ppl18-645.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-03-20 : 1er dépôt d'une initiative. (PIONANR5L15B1785)
+  - 2019-03-20 : Avis du Conseil d'Etat (AVCEANR5L15B1785)
+  - 2019-05-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-03-20 : Renvoi en commission au fond
+      - 2019-04-03 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-04-30 : Réunion de commission
+      - 2019-06-19 : Réunion de commission
+      - 2019-06-19 : Réunion de commission
+      - 2019-07-03 : Réunion de commission
+      - 2019-06-19 : Dépôt de rapport (RAPPANR5L15B2062, PIONANR5L15BTC2062)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-04 : Saisine pour avis d'une commission
+      - 2019-04-03 : Nomination de rapporteur
+      - 2019-04-03 : Réunion de commission
+      - 2019-06-05 : Réunion de commission
+      - 2019-06-05 : Dépôt de rapport (AVISANR5L15B1989)
+  - Discussion en séance publique
+    - 2019-07-03 : Discussion en séance publique
+    - 2019-07-03 : Discussion en séance publique
+    - 2019-07-04 : Discussion en séance publique
+    - 2019-07-04 : Discussion en séance publique
+    - 2019-07-09 : Discussion en séance publique
+    - 2019-07-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-07-09 : Dépôt d'une initiative en navette (PIONSNR5S319B0645)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-12-11 : Dépôt de rapport (RAPPSNR5S339B0197, PIONSNR5S339BTC0198)
+  - Discussion en séance publique
+    - 2019-12-17 : Discussion en séance publique
+    - 2019-12-17 : Décision
+- Commission Mixte Paritaire
+  - 2019-12-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-01-08 : Nomination de rapporteur
+    - 2020-01-08 : Dépôt du rapport d'une CMP (RAPPANR5L15B2558)
+    - 2020-01-08 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0239, PIONSNR5S339BTC0240)
+  - 2020-01-09 : Décision de la CMP
+- Nouvelle Lecture
+  - 2019-12-18 : Dépôt d'une initiative en navette (PIONANR5L15B2534)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-12-18 : Renvoi en commission au fond
+      - 2020-01-14 : Réunion de commission
+      - 2020-01-21 : Réunion de commission
+      - 2020-01-15 : Dépôt de rapport (RAPPANR5L15B2583, PIONANR5L15BTC2583)
+  - Discussion en séance publique
+    - 2020-01-21 : Discussion en séance publique
+    - 2020-01-21 : Discussion en séance publique
+    - 2020-01-22 : Discussion en séance publique
+    - 2020-01-22 : Décision
+- Nouvelle Lecture
+  - 2020-01-22 : Dépôt d'une initiative en navette (PIONSNR5S339B0270)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-02-05 : Dépôt de rapport (RAPPSNR5S339B0299, PIONSNR5S339BTC0300)
+  - Discussion en séance publique
+    - 2020-02-26 : Discussion en séance publique
+    - 2020-02-26 : Décision
+- Lecture définitive
+  - 2020-02-28 : Dépôt d'une initiative en navette (PIONANR5L15BTA0388)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-02-28 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-05-13 : Discussion en séance publique
+    - 2020-05-13 : Décision
+- Conseil constitutionnel
+  - 2020-05-18 : Saisine du conseil constitutionnel
+  - 2020-06-18 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-06-24 : Promulgation d'une loi
