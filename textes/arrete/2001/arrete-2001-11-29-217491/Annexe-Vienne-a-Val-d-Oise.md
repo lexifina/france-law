@@ -2,7 +2,7 @@
 
 Direction départementale de l'équipement de la Vienne
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
@@ -132,7 +132,7 @@ C
 
 Direction départementale des territoires (2) de l'Yonne
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
@@ -154,7 +154,7 @@ par emploi
 
 |
 
-Adjoint au chef de service urbanisme, habitat, renouvellement urbain |
+Adjoint au chef de service habitat, bâtiment et sécurité, responsable mission ANRU |
 
 A
 
@@ -168,9 +168,31 @@ A
 
 |
 
-Chargé du conventionnement des études d'habitat et de l'instruction des dossiers de la politique de la ville
+Direction départementale de la cohésion sociale et de la protection des populations de l'Yonne
+
+FONCTIONS EXERCÉES
 
 |
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chargé du conventionnement des études d'habitat et de l'instruction des dossiers de la politique de la ville |
 
 B
 
@@ -186,7 +208,7 @@ B
 
 Direction départementale de l'équipement et de l'agriculture (1) du territoire de Belfort
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
@@ -714,7 +736,7 @@ B
 
 Direction départementale des territoires du Val-d'Oise
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
@@ -859,3 +881,5 @@ Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le prés
 Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour la préfecture de la région Ile-de-France de la préfecture de Paris.
 
 Conformément à l'article 1er de l'arrêté du 28 juillet 2017 (TERK1722360A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur le 1er janvier 2017.
+
+Conformément à l'article 1er de l'arrêté du 26 février 2019 (TREK1905850A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Yonne entrent en vigueur le 1er octobre 2017.
