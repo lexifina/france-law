@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007387
+
+- Question : [SEQ181007387](seq181007387.md) — Remplacement de fonctionnaires territoriaux titulaires dans les communes de moins de mille habitants
+
+## Réponse
+
+*Action et comptes publics (M. le SE auprès du ministre), JO du 2019-03-21, page 1552*
+
+La disponibilité est une position dans laquelle un fonctionnaire peut être placé pour une longue période. Ainsi, un fonctionnaire peut bénéficier d'une disponibilité pour convenances personnelles pour une durée totale de dix années ou d'une disponibilité pour suivre son conjoint qui peut être renouvelée sans limitation tant que les conditions sont remplies. Dans l'attente du recrutement d'un fonctionnaire, l'article 3-2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale permet toutefois aux employeurs territoriaux de recruter sur des emplois permanents des agents contractuels. Toutefois, le recours à un contractuel n'ayant pas vocation à être pérennisé, la durée de ce contrat est limitée à deux ans au total. Dans les communes de moins de 1 000 habitants, l'article 3-3 de la loi n° 84-53 du 26 janvier 1984 précitée, prévoit qu'à titre dérogatoire, des emplois permanents de secrétaire de mairie et à temps non complet, lorsque la quotité de temps de travail est inférieure à 50 %, peuvent être occupés de manière permanente par des agents contractuels. Le projet de loi de transformation de la fonction publique, actuellement examiné par les instances consultatives de la fonction publique, prévoit l'assouplissement de ces dispositions de manière à permettre aux collectivités concernées le recrutement de contractuel, par dérogation au principe de l'occupation des emplois permanents par des fonctionnaires, pour l'ensemble de leurs emplois.
