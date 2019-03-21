@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208369
+
+- Question : [SEQ181208369](seq181208369.md) — Risques de perturbations des éoliennes sur les radars militaires
+
+## Réponse
+
+*Armées, JO du 2019-03-21, page 1559*
+
+La loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte prévoit un décret d'application précisant les règles d'implantation des éoliennes vis-à-vis des installations militaires, en particulier des équipements de surveillance (radars). Les critères actuels d'autorisation des parcs éoliens reposent sur des études de cas datant de 2009, qui ne correspondent plus aux projets actuels où la taille des éoliennes a doublé. Sur demande de la ministre de l'environnement, de l'énergie, et de la mer, chargée des relations internationales sur le climat, la rédaction de ce décret a été repoussée après la fin de la période d'expérimentation de l'outil DEMPERE (DÉMonstrateur de Perturbation des Éoliennes sur les Radars Électromagnétiques). Ce démonstrateur de simulation est destiné à mettre en évidence et quantifier les phénomènes de faux plots, de désensibilisation au voisinage des parcs éoliens et les pertes de détection. Ces phénomènes doivent être pris en compte car ils peuvent avoir un impact direct sur la capacité à conduire la mission de sûreté aérienne dans le cadre de la posture permanente de sûreté aérienne. Depuis l'été 2018, les travaux DEMPERE ont porté principalement sur les dépouillements des expérimentations qui se sont tenues au cours du premier semestre 2018. À ce jour, les points de comparaison essais-simulation apparaissent insuffisants pour apprécier correctement la représentativité de la simulation. Ces travaux vont donc se poursuivre. Les prochaines étapes permettront de statuer sur le niveau de représentativité de DEMPERE, via l'exploitation des expérimentations (fin du 1er semestre 2019) et d'élaborer de nouveaux critères pour l'instruction des projets éoliens de grande dimension.
