@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007275
+
+- Question : [SEQ181007275](seq181007275.md) — Obligations déclaratives des entreprises
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-03-21, page 1547*
+
+La mise à jour des valeurs locatives des propriétés bâties repose principalement sur un système déclaratif. Afin d'éviter la perte de recettes fiscales pour les collectivités locales, la fiabilisation des bases de fiscalité locale constitue la priorité des services fonciers de la direction générale des finances publiques (DGFiP) qui utilise différentes sources d'informations. L'activité des géomètres du cadastre est repositionnée sur davantage de travaux fiscaux (suivi des permis de construire en lien avec les services de l'urbanisme, vérification sur place de l'évaluation cadastrale de certains locaux et participation accrue aux commissions locales et départementales par exemple). Les actions de fiabilisation menées en partenariat avec les collectivités locales sont renforcées. Des référents « optimisation des bases fiscales » ont été nommés dans tous les départements. Des conventions de partenariat entre les directions départementales des finances publiques et les collectivités locales sont également proposées voire, le cas échéant, la création d'une force opérationnelle mixte (« task force ») pour les axes de contrôle nécessitant un investissement particulier. La collecte et le contrôle des déclarations fiscales des propriétés bâties relèvent de la compétence exclusive de la DGFiP. Si les collectivités locales n'ont pas cette compétence, l'échange d'informations avec l'administration fiscale, notamment à partir des infractions constatées par les agents municipaux ou intercommunaux, est mis en place. L'administration fiscale s'engage dans le cadre de ces partenariats à tenir régulièrement informées les collectivités locales de l'état d'avancement du traitement des signalements qui lui sont ainsi transmis.
