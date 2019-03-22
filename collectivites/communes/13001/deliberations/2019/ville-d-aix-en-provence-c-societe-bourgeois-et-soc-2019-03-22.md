@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — VILLE D'AIX-EN-PROVENCE C/ SOCIETE BOURGEOIS ET SOCIETE CENTRE SUD ECHAFAUDAGE - DESORDRES ESCALIER HOTEL CHATEAURENARD- PROTOCOLE TRANSACTIONNEL - AUTORISATION DE SIGNATURE A MADAME LE MAIRE OU A SON DELEGUE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2019-03-22
+- Séance : Conseil Municipal 1CA
+- Objet : VILLE D'AIX-EN-PROVENCE C/ SOCIETE BOURGEOIS ET SOCIETE CENTRE SUD ECHAFAUDAGE - DESORDRES ESCALIER HOTEL CHATEAURENARD- PROTOCOLE TRANSACTIONNEL - AUTORISATION DE SIGNATURE A MADAME LE MAIRE OU A SON DELEGUE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10677-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
