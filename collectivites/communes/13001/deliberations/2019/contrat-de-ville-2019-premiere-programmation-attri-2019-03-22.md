@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONTRAT DE VILLE 2019 - PREMIÈRE PROGRAMMATION-ATTRIBUTIONS DE SUBVENTIONS - CONVENTION GLOBALISÉE 2019-2021 AVEC LE CENTRE INTERNATIONAL DES ARTS ET CULTURES URBAINES (CIACU) - AVENANTS- AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2019-03-22
+- Séance : Conseil Municipal 1CA
+- Objet : CONTRAT DE VILLE 2019 - PREMIÈRE PROGRAMMATION-ATTRIBUTIONS DE SUBVENTIONS - CONVENTION GLOBALISÉE 2019-2021 AVEC LE CENTRE INTERNATIONAL DES ARTS ET CULTURES URBAINES (CIACU) - AVENANTS- AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10720-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
