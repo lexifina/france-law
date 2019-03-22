@@ -70,6 +70,8 @@ Lorsque plusieurs sigles concernent une même opération, ils sont concaténés 
 
 - pour le SIREN et la raison sociale du sous-traitant : le cas échéant lorsque la fiche d'opération standardisée le mentionne, le sous-traitant qui a réalisé les travaux.
 
+- pour le SIREN et la raison sociale de l'organisme de contrôle : l'identité de cet organisme est indiquée lorsque l'opération fait l'objet d'un contrôle obligatoire.
+
 Pour le cas d'un regroupement :
 
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
@@ -78,4 +80,4 @@ Pour le cas d'un regroupement :
 
 NOTA :
 
-Conformément à l'article 6 de l'arrêté du 8 février 2016, les présentes dispositions entrent en vigueur pour toutes les demandes de certificats d'économies d'énergie adressées à l'autorité administrative compétente à compter du 1er avril 2016.
+Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2018 faisant l'objet d'une demande de certificats d'économies d'énergie à compter du 1er octobre 2019.

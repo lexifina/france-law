@@ -20,6 +20,8 @@ Les pièces justificatives relatives aux opérations d'économies d'énergie con
 
 – le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
+Lorsqu'une pièce justificative est signée au nom d'une personne morale, elle comporte les nom, prénom et qualité du signataire.(1)
+
 1. Identification du bénéficiaire de l'opération
 
 L'identification du bénéficiaire de l'opération est justifiée, selon le cas, par :
@@ -126,7 +128,7 @@ Le contrat de partenariat décrit :
 
 Le contrat de partenariat est daté et signé par les parties avant la contractualisation de l'opération entre le bénéficiaire et le partenaire.
 
-Les contrats et documents exigés peuvent être signés électroniquement, sous réserve du respect des conditions prévues par le décret n° 2001-272 du 30 mars 2001 susvisé et des dispositions du décret n° 2011-434 du 20 avril 2011 susvisé, et des textes pris en application de ce décret.
+Les contrats et documents exigés peuvent être signés électroniquement, sous réserve du respect des conditions prévues par le décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique et des dispositions du décret n° 2011-434 du 20 avril 2011 susvisé, et des textes pris en application de ce décret.
 
 Le demandeur archive l'ensemble des contrats liés à la réalisation de l'opération permettant de faire le lien entre le demandeur et le bénéficiaire : contrats de partenariat et de mandat et contractualisation de la réalisation de l'opération.
 
@@ -392,6 +394,4 @@ Le bénéficiaire de l'opération établit la liste des ménages en situation de
 
 NOTA :
 
-Conformément au II de l'article 2 du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique, les références au décret n° 2001-272 du 30 mars 2001, contenues dans des dispositions de nature réglementaire, sont remplacées par les références à ce même décret n° 2017-1416 du 28 septembre 2017.
-
-Conformément à l'article 31 de l'arrêté du 29 décembre 2017, ces dispositions sont applicables aux opérations d'économie d'énergie engagées à compter du 1er janvier 2018.
+(1) Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions s'appliquent à toutes les pièces justificatives signées à compter du 1er juillet 2019.
