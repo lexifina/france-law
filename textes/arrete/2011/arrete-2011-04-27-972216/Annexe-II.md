@@ -28,9 +28,9 @@ Destinée à préparer leur entretien individuel avec un ou plusieurs psychologu
 
 Destinés à préparer leur entretien individuel avec un ou plusieurs psychologues, deux inventaires de personnalité sont réalisés. Il ne s'agit pas d'épreuves du concours ; aucune préparation n'est nécessaire.
 
-2.3. Epreuve orale d'entretien avec le jury (durée : 10 minutes de préparation et 20 minutes d'entretien ; coefficient 7).
+2.3. Epreuve orale d'entretien avec le jury (durée : 25 minutes d'entretien ; coefficient 7).
 
-Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel préalablement déposé ou transmis par voie postale (en lettre recommandée avec accusé de réception) par le candidat auprès du service organisateur du concours à une date fixée par l'arrêté d'ouverture du concours. Le dossier est transmis au jury par le service organisateur.
+Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel préalablement déposé ou transmis par voie postale (en lettre recommandée avec accusé de réception) ou par voie électronique par le candidat auprès du service organisateur du concours à une date fixée par l'arrêté d'ouverture du concours. Le dossier est transmis au jury par le service organisateur.
 
 Le fait de ne pas respecter les formalités et délais de transmission du dossier professionnel entraîne l'élimination du candidat. Aucune pièce complémentaire transmise par le candidat hors délai ne sera prise en compte.
 
