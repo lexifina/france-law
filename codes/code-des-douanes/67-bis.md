@@ -1,10 +1,10 @@
 # Article 67 bis
 
-I.-Sans préjudice de l'application des dispositions des articles 60,61,62,63,63 bis, 63 ter et 64, afin de constater les délits douaniers, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret procèdent sur l'ensemble du territoire national, après en avoir informé le procureur de la République et sauf opposition de ce magistrat, à la surveillance de personnes contre lesquelles il existe une ou plusieurs raisons plausibles de les soupçonner d'être les auteurs d'un délit douanier ou d'y avoir participé comme complices ou intéressés à la fraude au sens de l'article 399.
+I.-Sans préjudice de l'application des dispositions des articles 60,61,62,63,63 bis, 63 ter et 64, afin de constater les délits douaniers, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent procéder sur l'ensemble du territoire national, après en avoir informé le procureur de la République et sauf opposition de ce magistrat, à la surveillance de personnes contre lesquelles il existe une ou plusieurs raisons plausibles de les soupçonner d'être les auteurs d'un délit douanier ou d'y avoir participé comme complices ou intéressés à la fraude au sens de l'article 399.
 
 Les mêmes dispositions sont applicables pour la surveillance de l'acheminement ou du transport des objets, biens ou produits tirés de la commission de ces infractions ou servant à les commettre.
 
-L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, selon le cas, au procureur de la République près le tribunal de grande instance dans le ressort duquel les opérations de surveillance sont susceptibles de débuter ou au procureur de la République saisi en application des dispositions de l'article 706-76 du code de procédure pénale.
+L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, au procureur de la République près le tribunal de grande instance dans le ressort duquel les opérations de surveillance sont susceptibles de débuter.
 
 II.-Lorsque les investigations le justifient, le procureur de la République peut autoriser qu'il soit procédé, sous son contrôle, à une opération d'infiltration dans les conditions prévues par le présent article afin :
 
