@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108490
+
+- Question : [SEQ190108490](seq190108490.md) — Intégration des personnes « fichées S » dans le fichier des personnes interdites d'acquisition et de détention d'armes
+
+## Réponse
+
+*Intérieur, JO du 2019-03-28, page 1681*
+
+Utilisée pour procéder à la surveillance de ceux qui peuvent, par leur activité, représenter à un moment ou à un autre un risque de trouble à l'ordre public ou une atteinte à la sûreté de l'État, la fiche « S » est une fiche signalétique du fichier des personnes recherchées alimentée principalement par la direction générale de la sécurité intérieure. Le fichier national des interdits d'acquisition et de détention d'armes (FINIADA) est un fichier relatif aux personnes interdites d'acquisition et de détention d'armes créé par le décret n° 2011-374 du 5 avril 2011 dont l'objectif est de garantir que des personnes présentant un danger grave pour autrui ou pour elles-mêmes, ainsi que des personnes constituant une menace pour l'ordre et la sécurité publics, ne puissent plus acquérir une arme. L'article L. 312-16 du code de la sécurité intérieure énumère les cas dans lesquels le FINIADA recense les personnes interdites d'acquisition et de détention d'armes. L'inscription dans la fiche « S » n'emporte pas automatiquement inscription dans le FINIADA. Il n'en demeure pas moins qu'une personne faisant l'objet d'une fiche « S » peut se voir interdire l'acquisition et la détention d'armes à la suite d'une condamnation pénale ou d'une mesure administrative prononcée par le représentant de l'État dans le département à titre préventif ou lorsque le comportement ou l'état de santé de la personne présente un danger grave pour elle-même ou pour autrui, ou pour des raisons d'ordre public ou de sécurité des personnes. En tout état de cause, la situation de ces personnes fichées « S » est régulièrement réexaminée, notamment au regard d'une éventuelle détention d'armes.
