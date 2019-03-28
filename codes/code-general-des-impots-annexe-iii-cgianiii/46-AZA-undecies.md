@@ -44,6 +44,8 @@ e) Pour les logements que le contribuable acquiert réhabilités, les documents 
 
 f) Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux accompagnée d'une pièce attestant de sa réception en mairie ainsi qu'une note précisant la nature de l'affectation précédente des locaux.
 
+g) Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés au 5° du B du I de l'article 199 novovicies du code général des impôts, une note récapitulant les travaux réalisés ainsi que leur montant. Le contribuable tient à la disposition de l'administration les documents permettant de justifier du respect des conditions prévues au III de l'article 2 quindecies B et au 3° de l'article 46 AZA octies-0 A.
+
 I bis. – Pour les investissements réalisés à compter du 1er septembre 2014 :
 
 1. Lorsque le contribuable proroge son engagement de location mentionné au I de l'article 199 novovicies du code général des impôts dans les conditions prévues au VII bis du même article, pour une première période triennale, il joint à sa déclaration des revenus de l'année au cours de laquelle intervient le terme de l'engagement initial :

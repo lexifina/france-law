@@ -15,3 +15,21 @@ Pour justifier du respect de la condition prévue à l'alinéa précédent, le c
 a) Soit de ceux qui bénéficient d'un des labels mentionnés au a du 2° du I de l'article 46 AZA octies ;
 
 b) Soit de ceux qui respectent les exigences de performance énergétique globale dans les mêmes conditions et selon les mêmes modalités que celles définies au b du 2° du I de l'article 46 AZA octies.
+
+3° Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés au 5° du B du I de l'article 199 novovicies du code général des impôts :
+
+a) Soit de ceux qui permettent d'atteindre une diminution de la consommation conventionnelle d'énergie primaire du bâtiment définie par un arrêté conjoint des ministres chargé du budget et du logement et d'atteindre une consommation conventionnelle d'énergie primaire après travaux inférieure à un seuil défini par ce même arrêté ;
+
+b) Soit de ceux qui respectent les exigences de performance énergétique, définies par l'arrêté mentionné au a du présent 3°, pour au moins deux des cinq catégories suivantes, et qui permettent d'atteindre une consommation conventionnelle d'énergie primaire après travaux inférieure à un seuil défini par ce même arrêté :
+
+1. isolation de la toiture ;
+
+2. isolation des murs donnant sur l'extérieur ;
+
+3. isolation des parois vitrés donnant sur l'extérieur ;
+
+4. systèmes de chauffage ;
+
+5. système de production d'eau chaude sanitaire.
+
+Les modalités de justification du respect des exigences prévues au a et au b du présent 3° sont définies par ce même arrêté.
