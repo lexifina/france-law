@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208987
+
+- Question : [SEQ190208987](seq190208987.md) — Congé maladie
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-03-28, page 1665*
+
+En application de l'article 17 du décret n° 87-602 du 30 juillet 1987 pris pour l'application de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et relatif à l'organisation des comités médicaux, aux conditions d'aptitude physique et au régime des congés de maladie des fonctionnaires territoriaux, lorsque, à l'expiration de la première période de six mois consécutifs de congé de maladie, le fonctionnaire est inapte à reprendre son service, le comité médical est saisi pour avis de toute demande de prolongation de ce congé dans la limite des six mois restant à courir. Le secrétariat du comité médical peut organiser le contrôle médical ou l'expertise médicale de l'agent, notamment sous la forme d'une convocation à une consultation par un médecin agréé. Le fonctionnaire qui ne peut se rendre à la consultation qui lui a été indiquée ou ne sera pas présent lors d'une visite qui lui a été notifiée, doit immédiatement en informer l'organisme dont elle émane afin que, si les circonstances le justifient, la date du contrôle soit modifiée ou la consultation remplacée par une visite. Une demande de justification doit être adressée au fonctionnaire qui ne se rend pas à la consultation ou n'est pas présent lors de la visite, qu'il ait été ou non informé de cette dernière. Les agents bénéficiaires d'un congé de maladie doivent se soumettre au contrôle exercé par l'autorité territoriale. L'absence injustifiée autorise celle-ci à interrompre le versement de la rémunération du fonctionnaire. Le Conseil d'État exige néanmoins que l'employeur puisse démontrer la volonté manifeste de l'agent de se soustraire au contrôle médical (Conseil d'État n° 78592 du 24 octobre 1990 et n° 90417 du 14 janvier 1991).
