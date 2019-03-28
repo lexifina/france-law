@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203161
+
+- Question : [SEQ180203161](seq180203161.md) — Places proposées pour l'accueil de migrants
+
+## Réponse
+
+*Intérieur, JO du 2019-03-28, page 1677*
+
+Le président de la caisse centrale des activités sociales des personnels des industries électriques et gazières a été reçu par les services du ministère de l'intérieur en septembre 2018. Cet entretien a été l'occasion de saluer de nouveau l'effort consenti par la caisse au plus fort de la crise migratoire en libérant 1 500 places d'hébergement au sein de leurs centres de vacances. La mobilisation de telles structures, utilisables uniquement hors vacances scolaires, a constitué une contribution précieuse pour répondre à des besoins d'hébergements ponctuels. Le ministère de l'intérieur entend toutefois privilégier les ressources pérennes du dispositif national d'accueil (DNA) qui permettent un accompagnement des demandeurs d'asile dans la durée. Ainsi, le parc d'hébergement pour demandeurs d'asile et réfugiés a été augmenté de 7 500 places en 2018 portant celui-ci à 91 799 places. 5 500 nouvelles places d'hébergement pour demandeurs d'asile et réfugiés seront créées en 2019. Le ministre de l'intérieur travaille également à la structuration du DNA afin que chaque personne puisse être orientée vers une structure correspondant à sa situation et son besoin de prise en charge : les centres d'accueil et d'évaluation des situations pour une mise à l'abri, une évaluation de la situation administrative et une orientation adaptée vers d'autres dispositifs d'hébergement ; les hébergements d'urgence pour demandeurs d'asile pour ceux sous procédure « Dublin » ou en procédure accélérée ; les centres d'accueil pour demandeurs d'asile qui sont le dispositif pilier pour les demandeurs d'asile en procédure normale et qui pourvoient un accompagnement renforcé.
