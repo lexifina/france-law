@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007451
+
+- Question : [SEQ181007451](seq181007451.md) — Ligne de train de nuit Paris-Portbou
+
+## Réponse
+
+*Transports, JO du 2019-03-28, page 1710*
+
+Les deux lignes de trains de nuit Paris-Briançon et Paris-Rodez/Toulouse –?Latour-de-Carol desservent des territoires enclavés sans offre alternative de transport de longue distance. L'État s'est donc engagé pour la pérennité de ces deux lignes : la convention d'exploitation sera reconduite au-delà 2020 et l'ensemble des voitures sera rénové afin d'assurer la robustesse et la sécurité des rames, mais aussi pour répondre à la demande légitime des voyageurs d'amélioration du confort. Le calendrier du processus industriel de rénovation est toujours à l'étude. Les livraisons devraient s'échelonner en 2021 et 2022. Il avait été jugé par la commission « TET d'avenir » en 2015 que la ligne de nuit Paris-Cerbère-Portbou desservait des territoires qui disposaient déjà d'une offre de transport ferroviaire de longue distance. C'est pour cela, et au regard du déficit d'exploitation important, que la commission avait proposé de ne plus réaliser cette desserte. Malgré les conclusions de la commission, l'État est resté ouvert à des solutions de financement innovantes ou des partenariats avec les collectivités afin de conserver des dessertes de nuit qui leur sembleraient indispensables. C'est ainsi que l'État et la région Occitanie ont trouvé un accord afin de prolonger le train de nuit Paris-Toulouse par une branche Toulouse-Cerbère-Portbou pendant les week-ends et les vacances scolaires des académies de Toulouse, Montpellier et Paris, et ce jusqu'au terme de la convention d'exploitation le 31 décembre 2020. L'opportunité de poursuivre cet accord pour les années suivantes sera discutée entre l'État et la région Occitanie. Si un accord était trouvé, cette desserte bénéficierait des voitures rénovées qui seront mises en circulation.
