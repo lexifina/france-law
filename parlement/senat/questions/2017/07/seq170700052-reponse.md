@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700052
+
+- Question : [SEQ170700052](seq170700052.md) — Interconnectivité des données biométriques entre les services de police
+
+## Réponse
+
+*Intérieur, JO du 2019-03-28, page 1676*
+
+Dans le cadre de la lutte contre l'immigration irrégulière, les forces de police ont accès aux données alphanumériques de l'application de gestion des dossiers des ressortissants étrangers en France (AGDREF), qui ne contient pas de photo, ainsi qu'aux données biométriques de l'application « Visabio » utilisée pour le traitement des demandes de visa. Les données biométriques liées à un titre de séjour (photographie et empreintes digitales) sont enregistrées dans le système biométrique national (SBNA) qui est un module additionnel d'AGDREF. Or, les forces de l'ordre disposeront au premier semestre 2019 d'un accès à SBNA qui leur permettra de vérifier, à partir des empreintes digitales d'un étranger démuni de document, s'il dispose ou non d'un titre inscrit dans AGDREF. Il convient toutefois de souligner que les empreintes digitales ne sont enregistrées dans la base centrale que depuis sa mise en service dans les préfectures, entre décembre 2017 et mars 2018, selon les sites. Les textes européens prennent en compte la même préoccupation. Ils imposent que le système d'information Schengen (SIS) soit alimenté à l'avenir par les empreintes digitales des personnes signalées. Les futurs règlements SIS prévoient à terme l'obligation d'effectuer des consultations par l'empreinte digitale, en cas de doute sur l'identité des personnes. D'autres textes, en cours de négociation, vont permettre l'interopérabilité des systèmes d'information de sécurité (SIS, Europol, Interpol-SLTD) et de gestion des frontières (EURODAC, VIS, ETIAS, SES, voire ECRIS-TCN60) et favoriseront ainsi la détection des identités multiples par le nom et/ou l'empreinte digitale.
