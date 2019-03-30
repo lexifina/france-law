@@ -50,7 +50,7 @@ Les examinateurs compétents sélectionnés par les organismes de certification 
 
 - ne pas avoir eu de lien, de quelque nature que ce soit, susceptible d'entacher leur éthique, avec les candidats.
 
-Ils justifient des mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention, et d'une expérience professionnelle en lien avec le domaine du diagnostic technique qui est à l'ordre du jour de l'examen (a, b, c, d, e ou f de l'article 1er du présent arrêté).
+Ils justifient des mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
 
 3. Exigences relatives à la certification avec mention
 

@@ -34,7 +34,7 @@ Après recevabilité de la demande d'accréditation par l'instance nationale d'a
 
 1.4. Compétence des auditeurs
 
-L'organisme certificateur candidat à l'accréditation dispose d'un processus de sélection et de désignation des personnes réalisant les audits en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces personnes réalisant les audits ont les mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention, et d'une expérience professionnelle en lien avec le domaine du diagnostic technique qui est à l'ordre du jour de l'examen (a, b, c, d, e ou f de l'article 1er du présent arrêté).
+L'organisme certificateur candidat à l'accréditation dispose d'un processus de sélection et de désignation des personnes réalisant les audits en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces personnes réalisant les audits ont les mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
 
 1.5. Suspension ou retrait de l'accréditation des organismes de certification
 
@@ -86,7 +86,7 @@ A l'issue de la revue de la demande de certification, l'organisme certificateur 
 
 1° La notification de la recevabilité de la demande de certification ;
 
-2° Un programme d'audit « sur site » tels que définis au 2.6 de la présente annexe, assorti de sa durée prévisionnelle, cette durée étant adaptée à la portée demandée.
+2° Un programme d'audit sur site tels que définis au 2.6 de la présente annexe, assorti de sa durée prévisionnelle, cette durée étant adaptée à la portée demandée.
 
 1.6.2. Activités de formation à titre transitoire
 
@@ -94,7 +94,7 @@ A l'issue de la revue de la demande de certification, l'organisme certificateur 
 
 1° La notification de la recevabilité de la demande de certification ;
 
-2° Un programme d'audits « sur site » tels que définis au 2.6 de la présente annexe, assorti de sa durée prévisionnelle, cette durée étant adaptée à la portée demandée.
+2° Un programme d'audits sur site tels que définis au 2.6 de la présente annexe, assorti de sa durée prévisionnelle, cette durée étant adaptée à la portée demandée.
 
 Dès réception d'une décision positive de recevabilité émanant de l'organisme de certification, les organismes de formation peuvent recevoir des inscriptions en vue de la 1re session de formation dans le cadre du champ de la certification.
 
@@ -134,7 +134,7 @@ De plus, les modules de formation continue assurent un rappel des nouveautés l�
 
 2.3. Compétences des formateurs
 
-L'organisme de formation candidat à la certification dispose d'un processus de sélection et de désignation des formateurs en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces formateurs ont les mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention, et d'une expérience professionnelle en lien avec le domaine du diagnostic technique qui est à l'ordre du jour de l'examen (a, b, c, d, e ou f de l'article 1er du présent arrêté).
+L'organisme de formation candidat à la certification dispose d'un processus de sélection et de désignation des formateurs en tenant compte des exigences en matière d'indépendance et d'impartialité ainsi que de leurs compétences. L'organisme s'assure que ces formateurs ont les mêmes pré-requis que ceux exigés en annexe 3 pour les candidats à la certification avec mention et sans mention pour le domaine énergie.
 
 2.4. Validation de la formation
 
@@ -162,9 +162,9 @@ Etape 1 |
 
 Audit initial |
 
-L'audit initial comprend un volet « documentaire » et un volet « sur site » réalisés durant la première session de formation dispensée à des stagiaires, couverte par le champ de la certification. Il est planifié en concertation avec l'organisme de formation. Jusqu'à l'obtention de sa certification, l'organisme de formation n'est pas autorisé à organiser d'autres sessions de formation. |
+L'audit initial comprend un volet documentaire et un volet sur site réalisés durant la première session de formation dispensée à des stagiaires, couverte par le champ de la certification. Il est planifié en concertation avec l'organisme de formation. Jusqu'à l'obtention de sa certification, l'organisme de formation n'est pas autorisé à organiser d'autres sessions de formation. |
 
-Les volets « documentaire » et « sur site » de l'audit initial peuvent être réalisés simultanément. |
+Les volets documentaire et sur site de l'audit initial peuvent être réalisés simultanément. |
 
 La décision relative à l'audit initial est prise au plus tard neuf mois à compter de la notification de la recevabilité positive (étape 0). |
 
@@ -172,9 +172,9 @@ Etape 2 |
 
 Audit de surveillance |
 
-L'audit de surveillance est réalisé deux ans après la décision de certification. Il comprend un volet « documentaire » et un volet « sur site » réalisés durant une session de formation dispensée à des stagiaires, couverte par le champ de la certification.
+L'audit de surveillance est réalisé deux ans après la décision de certification. Il comprend un volet documentaire et un volet sur site réalisés durant une session de formation dispensée à des stagiaires, couverte par le champ de la certification.
 
-Les volets « documentaire » et « sur site » de l'audit de surveillance peuvent être réalisés simultanément. Cet audit est réalisé au plus tard avant la fin de la troisième année après l'attribution de la certification suite à l'audit initial, ou suite au renouvellement de la certification.
+Les volets documentaire et sur site de l'audit de surveillance peuvent être réalisés simultanément. Cet audit est réalisé au plus tard avant la fin de la troisième année après l'attribution de la certification suite à l'audit initial, ou suite au renouvellement de la certification.
 
 L'audit de surveillance peut être planifié ou inopiné. |
 
@@ -182,13 +182,13 @@ Etape 3 |
 
 Audit de renouvellement |
 
-L'audit de renouvellement est composé d'un volet « documentaire » et d'un volet « sur site » réalisés durant une session de formation, correspondant au champ de la certification. Les volets « documentaire » et « sur site » de l'audit de renouvellement peuvent être réalisés simultanément. Cet audit est réalisé de façon à ce que la décision de renouvellement de certification soit prise avant l'expiration de la certification. L'audit de renouvellement peut être planifié ou inopiné. |
+L'audit de renouvellement est composé d'un volet documentaire et d'un volet sur site réalisés durant une session de formation, correspondant au champ de la certification. Les volets documentaire et sur site de l'audit de renouvellement peuvent être réalisés simultanément. Cet audit est réalisé de façon à ce que la décision de renouvellement de certification soit prise avant l'expiration de la certification. L'audit de renouvellement peut être planifié ou inopiné. |
 
 2.6. Contenu des audits de certification
 
-2.6.1. Audit « sur site »
+2.6.1. Audit sur site
 
-L'audit « sur site » est composé :
+L'audit sur site est composé :
 
 - un audit du système de la validation des modules de formation et du suivi des formations, ainsi que des compétences des intervenants ;
 

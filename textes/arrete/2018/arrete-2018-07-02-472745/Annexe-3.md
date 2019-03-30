@@ -6,23 +6,15 @@ COMPÉTENCES DES PERSONNES PHYSIQUES EXIGÉES DANS LE CADRE DE LA CERTIFICATION
 
 1. Prérequis de certification
 
-1.1. Dans le cas de la certification sans mention
+Les candidats à la certification avec mention, et sans mention dans le domaine énergie, fournissent :
 
-Pour le domaine énergie sans mention, les candidats à la certification fournissent :
+-soit la preuve par tous moyens d'une expérience professionnelle de trois ans de technicien ou agent de maîtrise du bâtiment ou dans des fonctions d'un niveau professionnel équivalent dans le domaine des techniques du bâtiment ;
 
-- soit la preuve par tous moyens d'une expérience professionnelle de trois ans de technicien ou agent de maîtrise du bâtiment ou dans des fonctions d'un niveau professionnel équivalent dans le domaine des techniques du bâtiment ;
+-soit un diplôme sanctionnant une formation du niveau de l'enseignement post-secondaire d'une durée minimale de deux ans à temps plein ou d'une durée équivalente à temps partiel dans le domaine des techniques du bâtiment, dispensée dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de niveau équivalent, ou un titre professionnel équivalent ;
 
-- soit un diplôme sanctionnant une formation du niveau de l'enseignement post-secondaire d'une durée minimale de deux ans à temps plein ou d'une durée équivalente à temps partiel dans le domaine des techniques du bâtiment, dispensée dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de niveau équivalent, ou un titre professionnel équivalent ;
+-soit la preuve par tous moyens des compétences exigées par un Etat de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour une activité de diagnostic comparable, ces preuves ayant été obtenues dans un de ces Etats ;
 
-- soit la preuve par tous moyens des compétences exigées par un Etat de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour une activité de diagnostic de performance énergétique comparable, ces preuves ayant été obtenues dans un de ces Etats ;
-
-- soit toute preuve de la détention de connaissances équivalentes en lien avec les techniques du bâtiment.
-
-1.2. Dans le cas de la certification avec mention
-
-Pour les domaines de diagnostic plomb, amiante et énergie, les candidats à la certification avec mention possèdent un diplôme sanctionnant une formation du niveau de l'enseignement post-secondaire d'une durée minimale de deux ans à temps plein ou d'une durée équivalente à temps partiel dans le domaine des techniques du bâtiment, dispensée dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de niveau équivalent, ou un titre professionnel équivalent ou toute preuve de la détention de connaissances équivalentes en lien avec les techniques du bâtiment. Ce diplôme ou titre doit être complété par la preuve par tous moyens d'une expérience professionnelle dans le domaine des techniques du bâtiment. Les durées minimales d'expérience professionnelle pour les personnes titulaires d'un diplôme ou titre sanctionnant une formation d'une durée de cinq, trois et deux ans sont respectivement de un, deux et trois ans.
-
-Les preuves de compétences exigées par un Etat de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen pour une activité de diagnostic comparable sont réputées équivalentes, ces preuves ayant été obtenues dans un de ces Etats.
+-soit toute preuve de la détention de connaissances équivalentes en lien avec les techniques du bâtiment.
 
 2. Obligation de formation
 
@@ -130,7 +122,7 @@ Sait rédiger des rapports en langue française qui constituent la matérialisat
 
 4.1.3. Programme complémentaire pour la certification avec mention
 
-La personne certifiée titulaire de la mention « diagnostic du risque d'intoxication par le plomb des peintures et contrôles des travaux en présence de plomb » dispose, en sus des compétences mentionnées aux 4.1.1 et 4.1.2 de la présente annexe, des compétences suivantes :
+La personne certifiée titulaire de la mention diagnostic du risque d'intoxication par le plomb des peintures et contrôles des travaux en présence de plomb dispose, en sus des compétences mentionnées aux 4.1.1 et 4.1.2 de la présente annexe, des compétences suivantes :
 
 Connaît le rôle, les obligations et les responsabilités des différents intervenants dans le cadre des mesures d'urgence contre le saturnisme infantile.
 
@@ -370,7 +362,7 @@ La personne physique candidate à la certification démontre qu'elle :
 
 4.5.3. Programme complémentaire pour la certification avec mention
 
-La personne certifiée titulaire de la mention « diagnostic de performance énergétique à l'immeuble ou des bâtiments à usage principal autre que d'habitation » démontre qu'elle possède, en sus des compétences mentionnées aux 4.5.1 et 4.5.2 de la présente annexe, les connaissances suivantes appliquées aux immeubles et aux bâtiments à usage principal autre que d'habitation, tenant compte de leurs spécificités et de leur niveau de complexité :
+La personne certifiée titulaire de la mention diagnostic de performance énergétique à l'immeuble ou des bâtiments à usage principal autre que d'habitation démontre qu'elle possède, en sus des compétences mentionnées aux 4.5.1 et 4.5.2 de la présente annexe, les connaissances suivantes appliquées aux immeubles et aux bâtiments à usage principal autre que d'habitation, tenant compte de leurs spécificités et de leur niveau de complexité :
 
 Les généralités sur le bâtiment :
 
