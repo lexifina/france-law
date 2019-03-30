@@ -1,7 +1,5 @@
 # Article Annexe
 
-<
-
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -136,11 +134,7 @@ Article 2 (dernier alinéa du 1°).
 
 |
 
-Décret n
-
-°
-
-2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain
+Décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain
 
 1
 
@@ -212,11 +206,7 @@ Articles 35 et 40.
 
 |
 
-Décret n
-
-°
-
-2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
+Décret n° 2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
 
 substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental
 
@@ -510,11 +500,7 @@ Article 2, alinéa 1.
 
 |
 
-Décret n
-
-°
-
-2011-708 du 21 juin 2011 modifiant le code de la consommation en ce qui concerne la mise sur
+Décret n° 2011-708 du 21 juin 2011 modifiant le code de la consommation en ce qui concerne la mise sur
 
 le marché et l’utilisation des aliments pour animaux
 
@@ -632,11 +618,7 @@ Article 16
 
 |
 
-Décret n
-
-°
-
-2006-1279 du 19 octobre 2006 relatif à la sécurité du transport ferroviaire et à l’interopérabilité
+Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité du transport ferroviaire et à l’interopérabilité
 
 des systèmes ferroviaires
 
@@ -846,11 +828,7 @@ Articles 15, 17, 18, 19 et 20-I.
 
 |
 
-Décret n
-
-°
-
-2006-600 du 23 mai 2006 (obligations)
+Décret n° 2006-600 du 23 mai 2006 (obligations)
 
 1
 
@@ -886,9 +864,7 @@ Article 9, alinéas 1 et 2.
 
 |
 
-Décret n°
-
-2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
+Décret n° 2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
 
 substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental
 
@@ -930,11 +906,7 @@ Articles 26 et 28.
 
 |
 
-Décret n
-
-°
-
-2006-1464 du 28 novembre 2006 relatif à la promotion des économies d’énergie dans les
+Décret n° 2006-1464 du 28 novembre 2006 relatif à la promotion des économies d’énergie dans les
 
 messages publicitaires des entreprises du secteur énergétique
 
@@ -1018,11 +990,7 @@ Article R. 214-148.
 
 |
 
-Décret n
-
-°
-
-2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion des déchets ménagers issus de
+Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion des déchets ménagers issus de
 
 produits chimiques pouvant présenter un risque significatif pour la santé et l’environnement
 
@@ -1688,11 +1656,7 @@ Décharge gracieuse de responsabilité concernant des personnes tenues au paieme
 
 au-delà des seuils de compétence des trésoriers-payeurs généraux prévus par le
 
-a
-
-de l’article R. 247-10 du livre des
-
-procédures fiscales.
+a de l’article R. 247-10 du livre des procédures fiscales.
 
 |
 
@@ -2632,6 +2596,12 @@ Article 276 de l'annexe II.
 
 |
 
+5 bis |
+
+Décisions d'octroi d'une aide à la transformation aux syndicats professionnels représentant nationalement les buralistes |
+
+Décret n° 2018-895 du 17 octobre 2018 modifié portant création d'une aide à la transformation des débits de tabacs |
+
 6
 
 |
@@ -2916,13 +2886,9 @@ Règlement (CE) n°
 
 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle
 
-des exportations, des transferts, du courtage et du transit de biens et technologies à double usage, décret
+des exportations, des transferts, du courtage et du transit de biens et technologies à double usage,
 
-n
-
-°
-
-2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au transfert de
+décret n° 2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au transfert de
 
 biens et technologies à double usage.
 
@@ -3046,11 +3012,9 @@ Règlement (CE) n
 
 423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures restrictives à
 
-l’encontre de l’Iran, décret n
+l’encontre de l’Iran,
 
-°
-
-2008-83 du 24 janvier 2008 modifié relatif aux mesures restrictives à l’encontre
+décret n° 2008-83 du 24 janvier 2008 modifié relatif aux mesures restrictives à l’encontre
 
 de l’Iran prévues par le règlement (CE) n
 
@@ -3090,11 +3054,7 @@ Article 4 du décret.
 
 |
 
-Décret n
-
-°
-
-2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au
+Décret n° 2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au
 
 transfert de biens et technologies à double usage
 
@@ -3142,9 +3102,9 @@ du décret
 
 du 13 décembre 2001.
 
-Article 5 et 6 du décret
+Article 5 et
 
-du 30 novembre 1944.
+6 du décret du 30 novembre 1944.
 
 |
 
@@ -3162,11 +3122,7 @@ du 13 décembre 2001.
 
 |
 
-Décret n
-
-°
-
-2008-83 du 24 janvier 2008 relatif aux mesures restrictives à l’encontre de l’Iran prévues par le
+Décret n° 2008-83 du 24 janvier 2008 relatif aux mesures restrictives à l’encontre de l’Iran prévues par le
 
 règlement (CE) n
 
@@ -3192,11 +3148,7 @@ du 24 janvier 2008.
 
 Décisions entrant dans le champ de compétences de la direction générale de la modernisation de l’Etat
 
-Décret n
-
-°
-
-2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
+Décret n° 2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
 
 n
 
@@ -3338,11 +3290,7 @@ Article 2, alinéa 2.
 
 |
 
-Décret n
-
-°
-
-2006-595 du 23 mai 2006 relatif à l’attribution du label “entreprise du patrimoine vivant”
+Décret n° 2006-595 du 23 mai 2006 relatif à l’attribution du label “entreprise du patrimoine vivant”
 
 1
 
@@ -4940,13 +4888,7 @@ Article R. 224-40.
 
 |
 
-Décret n
-
-°
-
-2010-1663
-
-du 29 décembre 2010 relatif aux obligations d’économies d’énergie dans le cadre du dispositif des certificats
+Décret n° 2010-1663 du 29 décembre 2010 relatif aux obligations d’économies d’énergie dans le cadre du dispositif des certificats
 
 d’économies d’énergie
 
@@ -5000,11 +4942,7 @@ Article 8, alinéas 2 et 3.
 
 Mesures prises par le ministre chargé de l’énergie
 
-Décret n
-
-°
-
-2010-1664 du 29 décembre 2010 relatif aux
+Décret n° 2010-1664 du 29 décembre 2010 relatif aux
 
 certificats d’économies d’énergie
 
