@@ -398,7 +398,7 @@ Chef d'études documentaires
 
 |
 
-7 -Institut national de recherches pédagogiques (INRP)
+7 - (Supprimé)
 
 |
 
@@ -406,27 +406,7 @@ Chef d'études documentaires
 
 |
 
-Directeur
-
-|
-
-HEC - HEE
-
-|
-
-|
-
-Secrétaire général
-
-|
-
-841 - HEB
-
-|
-
-|
-
-8 - Office national d'information sur les enseignements et professions (ONISEP)
+8 - (Supprimé)
 
 |
 
@@ -434,69 +414,9 @@ Secrétaire général
 
 |
 
-Directeur
+9 - (Supprimé)
 
 |
-
-HEC - HEE
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-841 - HEB
-
-|
-
-|
-
-Secrétaire général
-
-|
-
-841 - HEB
-
-|
-
-|
-
-9 - Centre national de documentation pédagogique (CNDP)
-
-|
-
-|
-
-|
-
-Directeur général
-
-|
-
-HEC - HEE
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-841 - HEB
-
-|
-
-|
-
-Secrétaire général
-
-|
-
-841 - HEB
 
 |
 
@@ -544,29 +464,9 @@ Abrogé
 
 |
 
-12 - Centre d'études et de recherches sur les qualifications (CEREQ)
+12 - (Supprimé)
 
 |
-
-|
-
-|
-
-Directeur
-
-|
-
-HEC - HED
-
-|
-
-|
-
-Secrétaire général
-
-|
-
-841 - HEB
 
 |
 
@@ -584,39 +484,9 @@ Observations
 
 |
 
-13 - Centre international d'études pédagogiques (CIEP)
+13 - (Supprimé)
 
 |
-
-|
-
-|
-
-Directeur général
-
-|
-
-HEC - HED
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-841 - HEA
-
-|
-
-|
-
-Secrétaire général
-
-|
-
-841 - HEA
 
 |
 
