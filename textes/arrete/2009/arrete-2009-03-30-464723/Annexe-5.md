@@ -2,6 +2,6 @@
 
 Formulaire de demande d'un éco-prêt Habiter Mieux.
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0303 du 31/12/2015, texte nº 313 à l'adresse suivante
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031741495
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038262257
