@@ -162,7 +162,9 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 Tableau A
 
-Nombre de personnes composant le ménage |
+Nombre de personnes
+
+composant le ménage |
 
 Plafonds de revenus du ménage en Ile-de-France (€) |
 
@@ -170,43 +172,45 @@ Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-19 875 |
+20 470 |
 
-14 360 |
+14 790 |
 
 2 |
 
-29 171 |
+30 044 |
 
-21 001 |
+21 630 |
 
 3 |
 
-35 032 |
+36 080 |
 
-25 257 |
+26 013 |
 
 4 |
 
-40 905 |
+42 128 |
 
-29 506 |
+30 389 |
 
 5 |
 
-46 798 |
+48 198 |
 
-33 774 |
+34 784 |
 
 Par personne supplémentaire |
 
-+ 5 882 |
++ 6 059 |
 
-+ 4 257 |
++ 4 385 |
 
 Tableau B
 
-Nombre de personnes composant le ménage |
+Nombre de personnes
+
+composant le ménage |
 
 Plafonds de revenus du ménage en Ile-de-France (€) |
 
@@ -214,39 +218,39 @@ Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-24 194 |
+24 918 |
 
-18 409 |
+18 960 |
 
 2 |
 
-35 510 |
+36 572 |
 
-26 923 |
+27 729 |
 
 3 |
 
-42 648 |
+43 924 |
 
-32 377 |
+33 346 |
 
 4 |
 
-49 799 |
+51 289 |
 
-37 826 |
+38 958 |
 
 5 |
 
-56 970 |
+58 674 |
 
-43 297 |
+44 592 |
 
 Par personne supplémentaire |
 
-+ 7 162 |
++ 7 377 |
 
-+ 5 454 |
++ 5 617 |
 
 Fait à
 
@@ -420,7 +424,9 @@ NB : ne sont comptabilisés que les ménages pour lesquels au moins une pièce j
 
 Tableau A
 
-Nombre de personnes composant le ménage |
+Nombre de personnes
+
+composant le ménage |
 
 Plafonds de revenus du ménage en Ile-de-France (€) |
 
@@ -428,43 +434,45 @@ Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-19 875 |
+20 470 |
 
-14 360 |
+14 790 |
 
 2 |
 
-29 171 |
+30 044 |
 
-21 001 |
+21 630 |
 
 3 |
 
-35 032 |
+36 080 |
 
-25 257 |
+26 013 |
 
 4 |
 
-40 905 |
+42 128 |
 
-29 506 |
+30 389 |
 
 5 |
 
-46 798 |
+48 198 |
 
-33 774 |
+34 784 |
 
 Par personne supplémentaire |
 
-+ 5 882 |
++ 6 059 |
 
-+ 4 257 |
++ 4 385 |
 
 Tableau B
 
-Nombre de personnes composant le ménage |
+Nombre de personnes
+
+composant le ménage |
 
 Plafonds de revenus du ménage en Ile-de-France (€) |
 
@@ -472,39 +480,39 @@ Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-24 194 |
+24 918 |
 
-18 409 |
+18 960 |
 
 2 |
 
-35 510 |
+36 572 |
 
-26 923 |
+27 729 |
 
 3 |
 
-42 648 |
+43 924 |
 
-32 377 |
+33 346 |
 
 4 |
 
-49 799 |
+51 289 |
 
-37 826 |
+38 958 |
 
 5 |
 
-56 970 |
+58 674 |
 
-43 297 |
+44 592 |
 
 Par personne supplémentaire |
 
-+ 7 162 |
++ 7 377 |
 
-+ 5 454 |
++ 5 617 |
 
 Liste des ménages modestes bénéficiant de l'opération (une ligne par ménage) :
 
@@ -574,10 +582,30 @@ Pour les personnes morales, son cachet et la signature du représentant.
 
 Mentions finales
 
-Les informations recueillies font l'objet de traitements informatiques destinés à éviter les double-comptes de certificats d'économies d'énergie et à évaluer le dispositif des certificats d'économies d'énergie. Le destinataire des données est le ministère en charge de l'énergie. Conformément à la loi Informatique et libertés du 6 janvier 1978 modifiée, vous bénéficiez d'un droit d'accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant à : ministère en charge de l'énergie, DGEC, certificats d'économies d'énergie, 92055 La Défense Cedex. Vous pouvez également, pour des motifs légitimes, vous opposer aux traitements des données vous concernant.
+Les informations recueillies font l'objet de traitements informatiques pour le ministère chargé de l'énergie, sous la responsabilité de la Direction générale de l'énergie et du climat, destinés au contrôle des demandes de certificats d'économies d'énergie (CEE) et à évaluer le dispositif des CEE. Dans ce cadre, vous êtes susceptible d'être contacté, à l'initiative du ministère chargé de l'énergie, pour l'évaluation ou la réalisation d'un contrôle sur place de la bonne réalisation de l'opération. En signant le présent document, vous reconnaissez votre consentement au traitement de vos données.
+
+Conformément à la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, vous bénéficiez d'un droit d'accès et de rectification aux informations qui vous concernent. Vous pouvez également, pour des motifs légitimes, vous opposer aux traitements des données vous concernant.
+
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter le responsable de traitement de ces données à l'adresse suivante :
+
+Direction générale de l'énergie et du climat,
+
+Ministère de la transition écologique et solidaire,
+
+92055 La Défense Cedex
+
+ou par courriel : cee@developpement-durable.gouv.fr
+
+ou le délégué à la protection des données à l'adresse suivante : dpd.daj.sg@developpement-durable.gouv.fr.
+
+Si vous estimez, après avoir contacté le responsable de traitement ou le délégué indiqué ci-dessus, que vos droits ne sont pas respectés, vous avez également la possibilité d'adresser une réclamation relative aux traitements mis en œuvre à la Commission nationale de l'informatique et des libertés.
 
 [Mention CNIL du demandeur]
 
 De plus, il est rappelé aux signataires de la présente attestation sur l'honneur que toute fausse déclaration expose notamment aux sanctions prévues au code pénal (article 441-7) :
 
 "Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié."
+
+NOTA :
+
+Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions entrent en vigueur le 1er avril 2019. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er octobre 2019.
