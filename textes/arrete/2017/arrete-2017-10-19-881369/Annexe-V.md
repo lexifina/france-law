@@ -1,39 +1,89 @@
 # Article Annexe V
 
-MÉTHODES D'ÉCHANTILLONNAGE ET D'ANALYSES DES EAUX DE BAIGNADE
+Caractéristiques de performance des méthodes de mesure pour les analyses de radioactivité des eaux destinées à la consommation humaine, des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine et des eaux minérales naturelles utilisées à des fins thérapeutiques en établissement thermal
 
-A. - Echantillonnage en vue d'analyses microbiologiques
+Les méthodes d'analyse des paramètres de radioactivité respectent les limites de détection du tableau ci-après.
 
-Dans la mesure du possible, les prélèvements sont effectués 30 centimètres en dessous de la surface de l'eau et dans une colonne d'eau profonde d'au moins 1 mètre.
+Paramètres |
 
-Les flacons pour l'échantillonnage subissent une stérilisation en autoclave pendant au moins 15 minutes à 121 °C, ou subissent une stérilisation sèche à 160 °C - 170 °C pendant au moins 1 heure, ou sont des récipients d'échantillonnage irradiés provenant directement du fabricant.
+Limite de détection
 
-Le volume du récipient d'échantillonnage dépend de la quantité d'eau nécessaire pour chaque paramètre à contrôler. Le contenu minimal est de 250 mL.
+(Notes 1 et 2) |
 
-Le matériau des récipients d'échantillonnage doit être translucide.
+Tritium (H) |
 
-Pour éviter toute contamination accidentelle de l'échantillon, le préleveur applique une technique de prélèvement aseptique pour éviter toute contamination accidentelle de l'échantillon lors du remplissage du récipient jusqu'à sa fermeture.
+10 Bq/L |
 
-L'échantillon est clairement identifié à l'encre indélébile sur le récipient et sur le formulaire d'échantillonnage.
+Radon (Rn) 222 |
 
-Les échantillons d'eau sont protégés de l'exposition à la lumière, en particulier de la lumière directe du soleil, à tous les stades du transport.
+10 Bq/L |
 
-Les échantillons sont conservés à une température d'environ 5 °C ± 3 °C dans une enceinte réfrigérée.
+Activité alpha globale |
 
-Le délai entre le prélèvement et l'analyse doit être aussi court que possible et limité à 6 heures pour les eaux de mer. Les échantillons sont analysés le jour même de leur prélèvement. En cas d'impossibilité pour des raisons pratiques telles que des contraintes géographiques, ce délai peut être dépassé après dérogation accordée lors de l'établissement du programme de surveillance et de contrôle sanitaire, les échantillons sont alors traités au plus tard dans les 24 heures. Dans l'intervalle, ils sont stockés dans l'obscurité et à une température de 5 °C ± 3 °C.
+0,04 Bq/L |
 
-B. - Méthodes d'analyses
+Activité bêta globale |
 
-Les méthodes d'analyse des eaux définies dans le tableau ci-après sont réputées satisfaire aux exigences de l'article 4 du présent arrêté. Les millésimes des normes sont précisés dans un avis publié au Journal officiel de la République française.
+0,4 Bq/L |
 
-Paramètres à analyser |
+Américium (Am) 241 |
 
-Méthodes d'analyse |
+0,06 Bq/L |
 
-Escherichia coli (E. coli) |
+Carbone (C) 14 |
 
-NF EN ISO 9308-3 |
+20 Bq/L |
 
-Entérocoques intestinaux |
+Césium (Cs) 134 |
 
-NF EN ISO 7899-1 |
+0,5 Bq/L |
+
+Césium (Cs) 137 |
+
+0,5 Bq/L |
+
+Cobalt (Co) 60 |
+
+0,5 Bq/L |
+
+Iode (I) 131 |
+
+0,5 Bq/L |
+
+Plomb (Pb) 210 |
+
+0,02 Bq/L |
+
+Plutonium (Pu) 238,239 et 240 |
+
+0,04 Bq/L |
+
+Polonium (Po) 210 |
+
+0,01 Bq/L |
+
+Radium (Ra) 226 |
+
+0,04 Bq/L |
+
+Radium (Ra) 228 |
+
+0,02 Bq/L (Note 3) |
+
+Strontium (Sr) 90 |
+
+0,4 Bq/L |
+
+Uranium (U) 238 |
+
+0,02 Bq/L |
+
+Uranium (U) 234 |
+
+0,02 Bq/L |
+
+Note 1. La limite de détection est calculée avec des probabilités d'erreurs du 1er et du 2e type de 0,05 chacune au maximum selon la norme NF ISO 11929 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon toute autre méthode considérée comme équivalente.
+
+Note 2. Les incertitudes de mesure sont calculées et rapportées sous forme d'incertitudes types complètes ou d'incertitudes types élargies avec un facteur d'élargissement de 1,96 au minimum selon le guide NF ISO/ CEI 98-3 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon tout autre référentiel considéré comme équivalent.
+
+Note 3. Cette limite de détection s'applique uniquement au contrôle initial de la dose indicative (DI) pour une nouvelle ressource en eau ; si le contrôle initial indique qu'il n'est pas plausible que le Ra-228 dépasse 20 % de la concentration dérivée, la limite de détection peut être portée à 0,08 Bq/L pour les mesures spécifiques de routine du Ra-228, jusqu'à ce qu'un éventuel nouveau contrôle de la DI soit requis.

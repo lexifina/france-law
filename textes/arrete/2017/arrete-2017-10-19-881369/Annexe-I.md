@@ -1,10 +1,10 @@
 # Article Annexe I
 
-MÉTHODES D'ANALYSE DES EAUX DESTINÉES À LA CONSOMMATION HUMAINE ET DES EAUX BRUTES (EAUX DOUCES SUPERFICIELLES ET EAUX SOUTERRAINES) UTILISÉES POUR LA PRODUCTION D'EAUX DESTINÉES À LA CONSOMMATION HUMAINE
+Méthodes d'analyse des eaux destinées à la consommation humaine, des eaux brutes (eaux douces superficielles et eaux souterraines) utilisées pour la production d'eaux destinées à la consommation humaine et des eaux minerales naturelles utilisées a des fins thérapeutiques dans un établissement thermal
 
-A. - Méthodes pour l'analyse des eaux destinées à la consommation humaine
+A. Méthodes pour l'analyse des eaux destinées à la consommation humaine et pour les eaux minérales naturelles utilisées à des fins thérapeutiques dans un établissement thermal
 
-Les méthodes d'analyse des eaux destinées à la consommation humaine mentionnées dans le tableau ci-après sont réputées satisfaire aux exigences des II et III de l'article 2 du présent arrêté. Les millésimes des normes sont précisés dans un avis publié au Journal officiel de la République française.
+Les méthodes d'analyse des eaux destinées à la consommation humaine et des eaux minérales naturelles utilisées à des fins thérapeutiques dans un établissement thermal mentionnées dans le tableau ci-après sont réputées satisfaire aux exigences des alinéas III à V de l'article 2 du présent arrêté. Les millésimes des normes sont précisés dans un avis publié au Journal officiel de la République française.
 
 Paramètres à analyser |
 
@@ -12,19 +12,19 @@ Méthode d'analyse |
 
 Paramètres microbiologiques |
 
-Escherichia coli (E. coli) et bactéries coliformes |
+Escherichia coli (E. coli) * et bactéries coliformes* |
 
 NF EN ISO 9308-1 (indice T90-414) ou NF EN ISO 9308-2 |
 
-Entérocoques |
+Entérocoques intestinaux |
 
 NF EN ISO 7899-2 |
 
-Numération de germes aérobies revivifiables à 22 °C |
+Numération des micro-organismes revivifiables à 22 °C |
 
 NF EN ISO 6222 |
 
-Numération de germes aérobies revivifiables à 36 °C |
+Numération des micro-organismes revivifiables à 36 °C |
 
 NF EN ISO 6222 |
 
@@ -34,23 +34,21 @@ NF EN ISO 16266 |
 
 Spores de micro-organismes anaérobies sulfito-réducteurs |
 
-NF EN 26461-2 dans les conditions suivantes :
+NF EN 26461-2
 
-- l'analyse est faite après pasteurisation de l'échantillon
-
-- l'analyse est faite en filtrant 100 mL d'échantillon |
+L'analyse est faite après pasteurisation de l'échantillon ;. |
 
 Cryptosporidium-Giardia |
 
 NF T 90-455
 
-Sauf en cas de colmatage des substrats de filtration, l'analyse est réalisée sur un volume de 100 L |
+Sauf en cas de colmatage des substrats de filtration, l'analyse est réalisée sur un volume de 100 L. |
 
 Entérovirus |
 
-Concentration : XP T 90-451
+Concentration : NF T 90-451
 
-Dénombrement : XP T 90-451 ou NF EN 14 486 |
+Dénombrement : NF T 90-451 ou NF EN 14 486 |
 
 Legionella |
 
@@ -78,9 +76,9 @@ Equilibre calcocarbonique |
 
 Calculé selon la méthode Legrand-Poirier, qui nécessite :
 
-- la mesure in situ du pH et de la température de l'eau
+-la mesure in situ du pH et de la température de l'eau
 
-- le dosage des éléments majeurs de la balance ionique (TAC, Ca2+, Mg2+, Na+, K+, Cl-, SO42-, NO3-) |
+-le dosage des éléments majeurs de la balance ionique (TAC, Ca2 +, Mg2 +, Na +, K +, Cl-, SO42-, NO3-) |
 
 Oxydabilité au permanganate de potassium |
 
@@ -94,9 +92,11 @@ Turbidité |
 
 NF EN ISO 7027-1 |
 
-B. - Méthodes pour l'analyse des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine
+* Concernant les eaux minérales naturelles conditionnées, un dénombrement des bactéries coliformes et des E. coli doit être réalisé systématiquement à 36 +/-2 °C et 44 +/-1 °C.
 
-Les méthodes d'analyse des eaux brutes définies dans le tableau ci-après sont réputées satisfaire aux exigences des II et III de l'article 2 du présent arrêté. Les millésimes des normes sont précisés dans un avis publié au Journal officiel de la République française.
+B. Méthodes spécifiques pour l'analyse des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine
+
+Les méthodes d'analyse des eaux brutes définies dans le tableau ci-après sont réputées satisfaire aux exigences des alinéas III et IV de l'article 2 du présent arrêté. Les millésimes des normes sont précisés dans un avis publié au Journal officiel de la République française.
 
 Paramètres à analyser |
 
@@ -112,15 +112,13 @@ Sauf en cas de colmatage des substrats de filtration, l'analyse sera réalisée 
 
 Entérocoques |
 
-NF EN ISO 7899-1 (ressources superficielles)
-
-NF EN ISO 7899-2 (ressources souterraines*) |
+NF EN ISO 7899-1 (ressources superficielles) NF EN ISO 7899-2 (ressources souterraines*) |
 
 Entérovirus |
 
-Concentration : XP T 90-451
+Concentration : NF T 90-451
 
-Dénombrement : XP T 90-451 ou NF EN 14 486 |
+Dénombrement : NF T 90-451 ou NF EN 14 486 |
 
 Escherichia coli (E. coli) |
 
@@ -130,7 +128,7 @@ NF EN ISO 9308-1 (ressources souterraines*) |
 
 Salmonelles |
 
-NF EN ISO 19250 |
+NF EN ISO 19250. Les confirmations biochimiques et sérologiques doivent être réalisées afin que le résultat soit exprimé en Salmonelles confirmées. |
 
 Paramètres physico-chimiques |
 
@@ -158,9 +156,7 @@ NF EN 1484 |
 
 Demande biochimique en oxygène après 5 jours (DBO5) à 20 °C |
 
-NF EN 1899-1
-
-NF EN 1899-2
+NF EN 1899-1 NF EN 1899-2
 
 ISO 5815-2 |
 
@@ -168,9 +164,7 @@ Demande chimique en oxygène (DCO) (O2)
 
 ST-DCO |
 
-NF T90-101
-
-ISO 15705 |
+NF T90-101 ISO 15705 |
 
 Hydrocarbures dissous ou émulsionnés (indice) |
 

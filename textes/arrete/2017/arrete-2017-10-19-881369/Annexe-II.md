@@ -1,8 +1,8 @@
 # Article Annexe II
 
-MÉTHODES DE MESURE DES ACTIVITÉS DES ÉLÉMENTS RADIOACTIFS DES EAUX DESTINÉES À LA CONSOMMATION HUMAINE ET DES EAUX BRUTES UTILISÉES POUR LA PRODUCTION D'EAUX DESTINÉES À LA CONSOMMATION HUMAINE
+Méthodes de mesure pour les analyses de radioactivité des eaux destinées à la consommation humaine, des eaux brutes utilisées pour la production d'eaux destinées à la consommation humaine et des eaux minerales naturelles utilisées a des fins thérapeutiques en établissement thermal
 
-Les méthodes d'analyse des eaux définies dans le tableau ci-après sont réputées satisfaire aux exigences du point IV de l'article 2 du présent arrêté. Les millésimes des normes mentionnées dans le tableau ci-après sont précisés dans un avis publié au Journal officiel de la République française.
+Les méthodes d'analyse des eaux définies dans le tableau ci-après sont réputées satisfaire aux exigences de l'alinéa VI de l'article 2 du présent arrêté. Les millésimes des normes mentionnées dans le tableau ci-après sont précisés dans un avis publié au Journal officiel de la République française.
 
 Paramètres à analyser |
 
@@ -38,7 +38,7 @@ NF EN ISO 10704 |
 
 NF EN ISO 11704 |
 
-NF ISO 9697 |
+NF EN ISO 9697 |
 
 Américium (Am) 241 |
 
@@ -78,6 +78,8 @@ Plutonium (Pu) 238, 239 et 240 |
 
 NF ISO 13167 |
 
+NF ISO 20899 |
+
 Polonium (Po) 210 |
 
 NF EN ISO 13161 |
@@ -108,7 +110,7 @@ NF M60-805-1 |
 
 NF M60-805-2 |
 
-NF M60-805-3 |
+NF ISO 13169 |
 
 NF M60-805-4 |
 
@@ -122,7 +124,7 @@ NF M60-805-1 |
 
 NF M60-805-2 |
 
-NF M60-805-3 |
+NF ISO 13169 |
 
 NF M60-805-4 |
 

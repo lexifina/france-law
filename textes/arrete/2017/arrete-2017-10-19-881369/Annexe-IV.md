@@ -1,91 +1,269 @@
 # Article Annexe IV
 
-LIMITES DE DÉTECTION POUR LES PARAMÈTRES DE RADIOACTIVITÉ
+Caractéristiques de performance des méthodes d'analyse des eaux minérales naturelles
 
-Les méthodes d'analyse des paramètres de radioactivité respectent les limites de détection du tableau ci-après.
+Les méthodes d'analyse des paramètres dans les eaux minérales naturelles conditionnées, distribuées en buvette publique ou utilisées à des fins thérapeutiques dans les établissements thermaux respectent les caractéristiques de performance spécifiées dans les tableaux ci-après.
+
+A. Paramètres issus de la directive 2003/40/ CE
 
 Paramètres |
 
-Limites de détection
+Valeur
 
-(Notes 1 et 2) |
+paramétrique |
 
-Tritium (H) |
+Justesse
 
-10 Bq/L |
+(en % de la valeur
 
-Radon (Rn) 222 |
+paramétrique) |
 
-10 Bq/L |
+Fidélité (en % de la valeur
 
-Activité alpha globale |
+paramétrique) |
 
-0,04 Bq/L |
+Limite de détection
 
-Activité bêta globale |
+(en % de la valeur
 
-0,4 Bq/L |
+paramétrique) |
 
-Américium (Am) 241 |
+Limite de quantification |
 
-0,06 Bq/L |
+Antimoine |
 
-Carbone (C) 14 |
+5 µg/L |
 
-20 Bq/L |
+25 |
 
-Césium (Cs) 134 |
+25 |
 
-0,5 Bq/L |
+25 |
 
-Césium (Cs) 137 |
+2 µg/L jusqu'au 31 décembre 2019
 
-0,5 Bq/L |
+1,5 µg/L à partir du 1er janvier 2020 |
 
-Cobalt (Co) 60 |
+Arsenic |
 
-0,5 Bq/L |
+10 µg/L |
 
-Iode (I) 131 |
+10 |
 
-0,5 Bq/L |
+10 |
 
-Plomb (Pb) 210 |
+10 |
 
-0,02 Bq/L |
+5 µg/L jusqu'au 31 décembre 2019
 
-Plutonium (Pu) 238, 239 et 240 |
+3 µg/L à partir du 1er janvier 2020 |
 
-0,04 Bq/L |
+Baryum |
 
-Polonium (Po) 210 |
+1 mg/L |
 
-0,01 Bq/L |
+25 |
 
-Radium (Ra) 226 |
+25 |
 
-0,04 Bq/L |
+10 |
 
-Radium (Ra) 228 |
+0,1 mg/L |
 
-0,02 Bq/L
+Cadmium |
 
-(Note 3) |
+3 µg/L |
 
-Strontium (Sr) 90 |
+10 |
 
-0,4 Bq/L |
+10 |
 
-Uranium (U) 238 |
+10 |
 
-0,02 Bq/L |
+1 µg/L |
 
-Uranium (U) 234 |
+Chrome |
 
-0,02 Bq/L |
+50 µg/L |
 
-Note 1. - La limite de détection est calculée avec des probabilités d'erreurs du 1er et du 2e types de 0,05 chacune au maximum selon la norme NF ISO 11929 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon toute autre méthode considérée comme équivalente.
+10 |
 
-Note 2. - Les incertitudes de mesure sont calculées et rapportées sous forme d'incertitudes types complètes ou d'incertitudes types élargies avec un facteur d'élargissement de 1,96 au minimum selon le guide NF ISO/CEI 98-3 dont le millésime est précisé dans un avis publié au Journal officiel de la République française ou selon tout autre référentiel considéré comme équivalent.
+10 |
 
-Note 3. - Cette limite de détection s'applique uniquement au contrôle initial de la dose indicative (DI) pour une nouvelle ressource en eau ; si le contrôle initial indique qu'il n'est pas plausible que le Ra-228 dépasse 20 % de la concentration dérivée, la limite de détection peut être portée à 0,08 Bq/L pour les mesures spécifiques de routine du Ra-228, jusqu'à ce qu'un éventuel nouveau contrôle de la DI soit requis.
+10 |
+
+6 µg/L |
+
+Cuivre |
+
+1 mg/L |
+
+10 |
+
+10 |
+
+5 |
+
+0,05 mg/L |
+
+Cyanures totaux |
+
+70 µg/L |
+
+10 |
+
+10 |
+
+10 |
+
+20 µg/L |
+
+Fluorures |
+
+5 mg/L |
+
+10 |
+
+10 |
+
+4 |
+
+0,2 mg/L |
+
+Manganèse |
+
+500 µg/L |
+
+10 |
+
+10 |
+
+5 |
+
+25 µg/L |
+
+Mercure |
+
+1 µg/L |
+
+20 |
+
+10 |
+
+20 |
+
+0,3 µg/L |
+
+Nickel |
+
+20 µg/L |
+
+10 |
+
+10 |
+
+10 |
+
+10 µg/L |
+
+Nitrates (en NO3-) |
+
+50 mg/L |
+
+10 |
+
+10 |
+
+10 |
+
+5 mg/L |
+
+Nitrites (en NO2-) |
+
+0,1 mg/L |
+
+10 |
+
+10 |
+
+10 |
+
+0,05 mg/L |
+
+Plomb |
+
+10 µg/L |
+
+10 |
+
+10 |
+
+10 |
+
+3 µg/L |
+
+Sélénium |
+
+10 µg/L |
+
+10 |
+
+10 |
+
+10 |
+
+5 µg/L |
+
+B. Paramètres complémentaires permettant d'apprécier la pureté originelle des eaux minérales naturelles
+
+Les limites de quantification des méthodes d'analyse des paramètres mentionnés ci-après doivent permettre d'analyser des concentrations inférieures ou égales aux objectifs de pureté.
+
+Paramètres |
+
+Limite de quantification |
+
+Incertitude en % exprimée
+
+à la valeur de l'objectif de pureté |
+
+Trichloroéthylène |
+
+0,5 µg/L |
+
+50 |
+
+Tétrachloréthylène |
+
+0,5 µg/L |
+
+50 |
+
+Chloroforme |
+
+1 µg/L |
+
+50 |
+
+Bromoforme |
+
+1 µg/L |
+
+50 |
+
+Dibromochlorométhane |
+
+1 µg/L |
+
+50 |
+
+Bromodichlorométhane |
+
+1 µg/L |
+
+50 |
+
+Pour les autres micropolluants organiques, les méthodes d'analyse mises en œuvre permettent de mesurer, avec une incertitude inférieure ou égale à 50 %, des concentrations inférieures ou égales à 30 % des limites de qualité et références de qualité fixées au tableau B-2 de l'annexe I de l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
+
+C. Autres paramètres
+
+Les méthodes d'analyse des paramètres non mentionnés dans les parties A et B de la présente annexe doivent a minima respecter les caractéristiques de performances de l'annexe III du présent arrêté (caractéristiques de performance pour les eaux destinées à la consommation humaine).
