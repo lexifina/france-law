@@ -1,80 +1,84 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2018
-
-Rythme Sud
+AU 1ER AVRIL 2019
 
 Pays de résidence (rythme sud) |
 
-Enfants de moins de 10 ans |
+Enfants
 
-Enfants de 10 à 15 ans |
+de moins de 10 ans |
 
-Enfants de plus de 15 ans |
+Enfants
+
+de 10 à 15 ans |
+
+Enfants
+
+de plus de 15 ans |
 
 ARGENTINE |
 
 a) Montant annuel |
 
-6905 |
+5 437 |
 
-7217 |
+5 689 |
 
-7884 |
+6 194 |
 
 b) Droits de première inscription |
 
-1112 |
+757 |
 
-1112 |
+757 |
 
-1112 |
+757 |
 
 BOLIVIE |
 
 a) Montant annuel |
 
-5087 |
+5 598 |
 
-5198 |
+5 722 |
 
-5310 |
+5 846 |
 
 b) Droits de première inscription |
 
-1310 |
+1 464 |
 
-1344 |
+1 501 |
 
-1377 |
+1 538 |
 
 BRESIL (Rio) |
 
 a) Montant annuel |
 
-10162 |
+9 823 |
 
-10442 |
+9 979 |
 
-10515 |
+10 139 |
 
 b) Droits de première inscription |
 
-787 |
+759 |
 
-689 |
+772 |
 
-816 |
+785 |
 
 BRESIL (Sao Paulo) |
 
 a) Montant annuel |
 
-9980 |
+9 569 |
 
-10871 |
+10 419 |
 
-10871 |
+10 419 |
 
 b) Droits de première inscription |
 
@@ -88,88 +92,88 @@ CHILI |
 
 a) Montant annuel |
 
-6980 |
+7 005 |
 
-6980 |
+7 005 |
 
-6980 |
+7 005 |
 
 b) Droits de première inscription |
 
-3361 |
+3 402 |
 
-3361 |
+3 402 |
 
-3361 |
+3 402 |
 
 COSTA RICA |
 
 a) Montant annuel |
 
-4339 |
+4 694 |
 
-4339 |
+4 694 |
 
-4339 |
+4 694 |
 
 b) Droits de première inscription |
 
-345 |
+360 |
 
-345 |
+360 |
 
-345 |
+360 |
 
 PEROU |
 
 a) Montant annuel |
 
-6186 |
+7 158 |
 
-6186 |
+6 528 |
 
-6186 |
+6 528 |
 
 b) Droits de première inscription |
 
-715 |
+882 |
 
-639 |
+647 |
 
-401 |
+406 |
 
 URUGUAY |
 
 a) Montant annuel |
 
-8188 |
+7 991 |
 
-9030 |
+8 655 |
 
-9420 |
+9 047 |
 
 b) Droits de première inscription |
 
-245 |
+284 |
 
-427 |
+467 |
 
-427 |
+467 |
 
 VANUATU |
 
 a) Montant annuel |
 
-4532 |
+4 650 |
 
-5136 |
+5 273 |
 
-5672 |
+5 826 |
 
 b) Droits de première inscription |
 
-681 |
+668 |
 
-681 |
+668 |
 
-681 |
+668 |
