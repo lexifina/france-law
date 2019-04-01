@@ -10,6 +10,8 @@ Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 - Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103
 
+Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1834746A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er avril 2019.
+
 - Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104
 
 - Isolation des toitures terrasses / Fiche d’opération standardisée n° BAR-EN-105
@@ -150,6 +152,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0008 du 10/01/2019, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=u7rGf9s03QdWLxlTlXxBZO6yplGEb0Xgie4-T-nS53g=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
@@ -180,4 +184,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).
+Conformément à l'article 2 de l'arrêté du 31 décembre 2018, ces dispositions entrent en vigueur le 1er avril 2019 et s'appliquent aux opérations standardisées d'économies d'énergie engagées à partir de cette date.
