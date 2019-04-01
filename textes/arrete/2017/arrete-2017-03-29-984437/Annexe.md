@@ -8,8 +8,6 @@ Directeur de cabinet.
 
 Conseiller stratégie et prospective de la police nationale.
 
-Conseiller stratégie et prospective de la police nationale.
-
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -98,6 +96,8 @@ Directeur de l'école nationale supérieure de la police.
 
 Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
 
+Directeur de l'institut national de police scientifique.
+
 II.-Emplois de contrôleur général des services actifs de la police nationale
 
 1. Direction générale de la police nationale :
@@ -122,6 +122,8 @@ Conseiller, chef du pôle judiciaire.
 
 Conseiller stratégie, coopérations et prévention.
 
+Conseiller prospective et stratégie.
+
 2. Direction des ressources et des compétences de la police nationale :
 
 Chef du département du management et de la gestion des commissaires de police.
@@ -133,8 +135,6 @@ Sous-directeur du développement des compétences.
 4. Inspection générale de la police nationale :
 
 Chef de l'unité de coordination des enquêtes.
-
-Chef du cabinet de l'amélioration de la maîtrise de l'activité et des risques AMARIS.
 
 Chef de la délégation de l'inspection générale de la police nationale Marseille.
 
@@ -224,6 +224,8 @@ Directeur zonal de la police aux frontières Sud à Marseille.
 
 Directeur de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget.
 
+Chef d'état-major.
+
 9. Direction centrale des compagnies républicaines de sécurité :
 
 Sous-directeur des opérations.
@@ -284,13 +286,9 @@ Sous-directeur chargé des services territoriaux.
 
 Préfecture de police : Direction du renseignement :
 
-Directeur adjoint du renseignement, chef d'état-major.
+Directeur adjoint du renseignement.
 
 Sous-directeur chargé du renseignement territorial de l'agglomération parisienne.
-
-Préfecture de police : Direction opérationnelle des services techniques et logistiques :
-
-Directeur adjoint des services techniques et logistiques et chef d'état-major.
 
 Préfecture de police-Divers :
 
