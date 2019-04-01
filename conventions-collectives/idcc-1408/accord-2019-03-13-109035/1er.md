@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord a pour objet de désigner l'opérateur des entreprises de proximité qui sera agréé sur le secteur 10 comme l'opérateur de compétences de la branche du « négoce et distribution de combustibles solides, liquides, gazeux, produits pétroliers » au titre de leur contribution légale de participation à la formation professionnelle et à l'alternance, et, le cas échéant, comme collecteur et gestionnaire pour les contributions supplémentaires versées soit en application d'un accord collectif professionnel et national, soit à titre volontaire par les employeurs, pour la formation de leur personnel.
