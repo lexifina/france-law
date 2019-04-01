@@ -1,0 +1,465 @@
+# Article 1er
+
+L'annexe 1 est modifiée et rédigée ainsi :
+
+« Annexe 1 à l'article 1er
+
+Tableau des garanties complémentaires santé
+
+Les prestations du présent accord respectent l'ensemble des obligations liées aux contrats solidaires et responsables.
+
+Aussi, il ne prend pas en charge les pénalités appliquées en cas de non-respect du parcours de soins, de même que la participation forfaitaire et les franchises médicales mentionnées à l'article L. 160-13 du code de la sécurité sociale.
+
+Il répond également aux exigences du décret du 18 novembre 2014 relatif au contenu des contrats responsables : prise en charge du ticket modérateur et du forfait journalier, planchers et plafonds pour les frais d'optiques, plafonnement des dépassements d'honoraires des médecins non adhérents à l'un des dispositifs de pratique tarifaire maîtrisée (DPTM) prévu à l'article L. 871-1 du code de la sécurité sociale (OPTAM/ OPTAM-CO).
+
+Accord santé de l'Eure
+
+Nature des risques |
+
+Remboursements du régime obligatoire |
+
+Remboursements
+
+complémentaires |
+
+Remboursements totaux |
+
+Frais médicaux |
+
+Honoraires de praticiens : généralistes, spécialistes toutes spécialités |
+
+70 % BR |
+
+30 % BR |
+
+100 % BR |
+
+Dépassements d'honoraires :
+
+– médecins adhérents aux DPTM (1)
+
+– médecins non adhérents aux DPTM (y compris non conventionnés) (1) |
+
+–
+
+– |
+
+70 % BR
+
+50 % BR |
+
+70 % BR
+
+50 % BR |
+
+Sages-femmes |
+
+70 % BR |
+
+100 % BR |
+
+170 % BR |
+
+Auxiliaires médicaux |
+
+60 % BR |
+
+100 % BR |
+
+160 % BR |
+
+Analyses, examens de laboratoires |
+
+de 60 % BR à 100 % BR |
+
+de 100 % BR à 60 % BR |
+
+160 % BR |
+
+Radiologie, électroradiographie, imagerie médicale et ostéodensitométrie (2) |
+
+70 % BR |
+
+30 % BR |
+
+100 % BR |
+
+Actes de prévention responsables (3) |
+
+de 35 % BR à 70 % BR |
+
+de 30 % BR à 65 % BR |
+
+100 % BR |
+
+Autres actes techniques (2) |
+
+70 % BR |
+
+30 % BR |
+
+100 % BR |
+
+Honoraires de médecines douces : ostéopathie, chiropractie, acupuncture, étiopathie, microkinésithérapie, sophrologie |
+
+– |
+
+30 €/2 fois/ an |
+
+30 €/2 fois/ an |
+
+Consultations diététiques/ an/ bénéficiaire |
+
+– |
+
+28 € |
+
+28 € |
+
+Pharmacie |
+
+Médicaments à service médical rendu « majeur ou important » |
+
+65 % BR |
+
+35 % BR |
+
+100 % BR |
+
+Médicaments à service médical rendu « modéré » |
+
+30 % BR |
+
+70 % BR |
+
+100 % BR |
+
+Médicaments à service médical rendu « faible » |
+
+15 % BR |
+
+85 % BR |
+
+100 % BR |
+
+Sevrage tabagique |
+
+de 0 € à 150 € |
+
+50 € |
+
+de 50 € à 200 € |
+
+Hospitalisation |
+
+Frais de soins et de séjour |
+
+80 % BR ou 100 % BR |
+
+0 % BR ou 20 % BR |
+
+100 % BR |
+
+Honoraires de praticien
+
+Dépassements d'honoraires :
+
+– médecins adhérents aux DPTM (1)
+
+– médecins non adhérents aux DPTM (y compris non conventionnés) (1) |
+
+80 % BR ou 100 % BR
+
+–
+
+– |
+
+0 % BR ou 20 % BR
+
+100 % FR
+
+100 % BR |
+
+100 % BR
+
+100 % FR
+
+100 % BR |
+
+Honoraires de praticien en chirurgie
+
+Dépassements d'honoraires :
+
+– médecins adhérents aux DPTM (1)
+
+– médecins non adhérents aux DPTM (y compris non conventionnés) (1) |
+
+80 % BR ou 100 % BR
+
+–
+
+– |
+
+0 % BR ou 20 % BR
+
+180 % BR
+
+100 % BR |
+
+100 % BR
+
+180 % BR
+
+100 % BR |
+
+Chambre particulière hors maternité |
+
+– |
+
+50 €/ jour limité à 60j/ an |
+
+50 €/ jour limité à 60j/ an |
+
+Frais d'accompagnant (enfant de moins de 16 ans) |
+
+– |
+
+30 €/ jour limité à 60j/ an |
+
+30 €/ jour limité à 60j/ an |
+
+Maternité (5) |
+
+– |
+
+1/3 PMSS |
+
+1/3 PMSS |
+
+Chambre particulière (maternité) |
+
+– |
+
+25 €/ jour |
+
+25 €/ jour |
+
+Forfait journalier |
+
+– |
+
+FR |
+
+FR |
+
+Optique |
+
+Monture, verres : un équipement tous les 2 ans (à compter de la date d'acquisition) sauf pour les enfants de moins de 18 ans et les personnes dont la vue évolue. Maxi 150 € pour la monture. |
+
+Équipement : 2 verres simples (4) + monture |
+
+60 % BR |
+
+230 € |
+
+60 % BR + 230 € |
+
+Équipement : 1 verre simple et 1 verre complexe ou 1 verre très complexe (4) + monture |
+
+60 % BR |
+
+275 € |
+
+60 % BR + 275 € |
+
+Équipement : 2 verres complexes ou 2 verres très complexes ou 1 verre complexe et 1 verre très complexe (4) + monture |
+
+60 % BR |
+
+350 € |
+
+60 % BR + 350 € |
+
+Lentilles remboursées par le RO |
+
+60 % BR |
+
+40 % BR + 100 €/ an/ bénéficiaire |
+
+100 % BR + 100 €/ an/ bénéficiaire |
+
+Lentilles non remboursées par le RO |
+
+– |
+
+100 €/ an/ bénéficiaire |
+
+100 €/ an/ bénéficiaire |
+
+Dentaire |
+
+Frais de soins |
+
+70 % BR |
+
+30 % BR |
+
+100 % BR |
+
+Honoraires |
+
+70 % BR |
+
+30 % BR |
+
+100 % BR |
+
+Prothèses dentaires remboursées par le RO (y compris couronne implanto-portée) |
+
+70 % BR |
+
+140 % BR + crédit 300 €/ an/ bénéficiaire |
+
+210 % BR + crédit 300 €/ an/ bénéficiaire |
+
+Inlay Onlays |
+
+70 % BR |
+
+225 % BR |
+
+295 % BR |
+
+Inlay Cores |
+
+70 % BR |
+
+225 % BR |
+
+295 % BR |
+
+Orthodontie remboursée par le RO |
+
+70 % BR ou 100 % BR |
+
+230 % BR ou 200 % BR |
+
+300 % BR |
+
+Orthodontie non remboursée par le RO |
+
+– |
+
+200 €/ an/ bénéficiaire |
+
+200 €/ an/ bénéficiaire |
+
+Implantologie (hors couronne implanto-­ portée)
+
+Parodontologie |
+
+– |
+
+200 € |
+
+200 € |
+
+|
+
+0 % BR ou 70 % BR |
+
+75 € |
+
+0 % BR ou 70 % BR + 75 € |
+
+Appareillage |
+
+Fournitures médicales, pansements, gros et petits appareillages, orthopédie, prothèses sauf prothèses auditives et dentaires |
+
+60 % BR ou 100 % BR |
+
+100 % BR ou 60 % BR |
+
+160 % BR |
+
+Prothèses auditives remboursées par le RO |
+
+60 % BR |
+
+30 % BR + 150 €/ bénéficiaire/ oreille/3 an |
+
+100 % BR + 150 €/ bénéficiaire/ oreille/3 an |
+
+Cures thermales |
+
+Frais remboursés par le régime de base : honoraires médicaux (1), transport, hébergement, surveillance |
+
+65 % BR ou 70 % BR |
+
+30 % BR ou 35 % BR |
+
+100 % BR |
+
+Forfait thermal complémentaire |
+
+– |
+
+125 € |
+
+125 € |
+
+Divers |
+
+Transports pris en charge par le RO |
+
+65 % BR ou 70 % BR |
+
+100 % BR ou 95 % BR |
+
+165 % BR |
+
+Forfait actes lourds (6) |
+
+– |
+
+FR |
+
+FR |
+
+Vaccins et moyens contraceptifs prescrits non pris en charge par le RO/ an/ bénéficiaire |
+
+|
+
+50 € |
+
+50 € |
+
+BR =   base de remboursement ; PMSS =   plafond mensuel de la sécurité sociale ; FR =   frais réels.
+
+(1) Le remboursement diffère selon que le médecin est adhérent ou non à l'un des dispositifs de pratique tarifaire maîtrisée (DPTM) prévu à l'article L. 871-1 du code de la sécurité sociale (OPTAM/ OPTAM-CO).
+
+(2) Pour les éventuels dépassements, se référer aux dépassements d'honoraires des praticiens généralistes.
+
+(3) Actes de prévention : tous les actes de prévention sont pris en charge au titre du contrat (pour information liste annexée ci-dessous à la date du 18/11/2014) : scellement des sillons avant 14 ans ; détartrage annuel effectué en 2 séances maximum ; bilan du langage avant 14 ans ; dépistage de l'hépatite B ; dépistage des troubles de l'audition après 50 ans ; ostéodensitométrie pour les femmes de plus de 50 ans ; vaccinations (diphtérie, tétanos, poliomyélite, coqueluche, hépatite B, BCG, rubéole, pneumocoques, selon âge).
+
+(4) Verres simples : sphère comprise entre – 6 ou + 6 dioptries et/ ou cylindre >   + 4 dioptries.
+
+Verres simple foyer (sphère >   – 6,00 ou + 6,00 dioptries ou cylindre <   =   4 dioptries).
+
+Verres complexes :
+
+– verres simple foyer (sphère >   – 6,00 ou + 6,00 dioptries ou cylindre >   + 4,00 dioptries) ;
+
+– verres multifocaux ;
+
+– verres progressifs.
+
+Verres très complexes :
+
+– verres multifocaux ou progressifs sphéro-cylindriques dont la sphère est hors zone de – 8,00 à + 8,00 dioptries ;
+
+– verres multifocaux ou progressifs sphériques dont la sphère est hors zone de – 4,00 à + 4,00 dioptries.
+
+(5) Dans la limite des frais réellement engagés.
+
+(6) Forfait acte lourd : il s'agit d'un ticket modérateur d'ordre public et forfaitaire (18 € en 2018). Il est dû par le patient au praticien pour tout acte technique dont le montant est supérieur à 120 €. » |
