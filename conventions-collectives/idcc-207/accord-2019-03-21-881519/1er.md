@@ -1,0 +1,5 @@
+# Article 1er
+
+Le présent accord a pour objet de désigner l'opérateur de compétence OPCO 2I, au sein de la SPP (section paritaire professionnelle) actuellement dénommée « Textile » dont le nom sera revu ultérieurement, comme l'opérateur de compétences de la branche industrie des cuirs et peaux (IDCC 207) au titre de sa contribution légale de participation professionnelle et à l'alternance, et, le cas échéant, comme opérateur de compétences pour les contributions supplémentaires versées, soit en application d'un accord collectif professionnel et national, soit à titre volontaire, par les employeurs, pour la formation de leur personnel.
+
+Conformément à l'article L. 6332-11-1 du code du travail issu de la loi n° 2018-771, le présent accord prévoit que la part de collecte non affectée au financement du compte personnel de formation des travailleurs indépendants et du conseil en évolution professionnelle est gérée au sein d'une section particulière de l'opérateur de compétences désigné par cet accord.
