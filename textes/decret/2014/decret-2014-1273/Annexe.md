@@ -982,24 +982,6 @@ Articles 16 et 18 |
 
 1 an |
 
-Décision de l'ASN prise en application des articles 18 et 25 du décret n° 2007-1557 du 2/11/2007 (lorsque prise sur demande) |
-
-Articles 18 et 25 |
-
-1 an |
-
-Autorisation de courte durée d'une INB |
-
-Article 22 |
-
-6 mois |
-
-Décisions et certificats requis pour le transport de substances radioactives |
-
-Article 62 |
-
-1 an |
-
 Arrêté du 7 février 2012 fixant les règles générales relatives aux installations nucléaires de base
 
 |
@@ -1511,7 +1493,3 @@ Agrément des feux de balisage d'obstacles installés sur les éoliennes |
 Article 3.1 de l'annexe |
 
 |
-
-NOTA :
-
-Conformément à l'article 8 du décret n° 2016-1925 du 28 décembre 2016, ces dispositions entrent en vigueur à la date d'entrée en vigueur des arrêtés prévus, pour chacune des catégories d'équipement concernées, par l'article 1er dudit décret, et au plus tard le 1er janvier 2018.

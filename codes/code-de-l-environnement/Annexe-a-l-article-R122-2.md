@@ -50,9 +50,9 @@ Installations nucléaires de base (INB)
 
 |
 
-2. Installations nucléaires de base (dans les conditions prévues au titre IV de la loi n° 2006-686 du 13 juin 2006 et de ses décrets d'application, notamment en matière de modification ou d'extension en application de l'article 31 du décret n° 2007-1557 du 2 novembre 2007). |
+2. Installations nucléaires de base (dans les conditions prévues au titre IX du livre V du présent code, notamment en matière de modification ou d'extension en application de l'article R. 593-47). |
 
-Installations soumises à une autorisation de création, une autorisation de courte durée, une autorisation de mise à l'arrêt définitif et de démantèlement ou une autorisation de mise à l'arrêt définitif et de passage en phase de surveillance. |
+Création d'une installation, y compris pour une courte durée, démantèlement d'une installation ou passage en phase de surveillance d'une installation consacrée au stockage de déchets radioactifs, mentionnés aux articles L. 593-7, L. 593-37, L. 593-28 et L. 593-31 du code de l'environnement. |
 
 |
 
@@ -596,10 +596,6 @@ NOTA :
 
 du 8 décembre 2017 (
 
-ECLI:FR:CECHR:2017:404391.20171208), Art. 1 : Au a) de la rubrique 44 du tableau annexé à l’article R. 122-2 du code de l’environnement, sont annulés les mots : " d’une emprise supérieure ou égale à 4 hectares " et au d) de la même rubrique, les mots : " susceptibles d’accueillir plus de 5 000 personnes ".
+ECLI:FR:CECHR:2017:404391.20171208), Art. 1 :
 
-Par décision n° 425424 du 15 avril 2021 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHR:2021:425424.20210415 les dispositions du 6° de l’article 1er du décret n° 2018-435 du 4 juin 2018, modifiant des catégories de projets, plans et programmes relevant de l’évaluation environnementale (NOR : TRED1802557D), sont annulées.
-
-Ce même décret est annulé en tant qu’il ne prévoit pas de dispositions permettant qu’un projet susceptible d’avoir une incidence notable sur l’environnement pour d’autres caractéristiques que sa dimension puisse être soumis à une évaluation environnementale.
-
-Il est enjoint au Premier ministre de prendre, dans un délai de 9 mois à compter de la notification de la présente décision, les dispositions permettant qu’un projet susceptible d’avoir une incidence notable sur l’environnement ou la santé humaine pour d’autres caractéristiques que sa dimension, notamment sa localisation, puisse être soumis à une évaluation environnementale.
+Au a) de la rubrique 44 du tableau annexé à l’article R. 122-2 du code de l’environnement, sont annulés les mots : " d’une emprise supérieure ou égale à 4 hectares " et au d) de la même rubrique, les mots : " susceptibles d’accueillir plus de 5 000 personnes ".
