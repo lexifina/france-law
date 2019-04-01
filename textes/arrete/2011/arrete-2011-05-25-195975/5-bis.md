@@ -2,9 +2,7 @@
 
 Les travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants sont réalisés à l'aide des solutions suivantes :
 
-- pose d'une chaudière à combustible fossile à haute performance énergétique, à l'exception de celle utilisant le fioul comme source d'énergie, conforme aux exigences définies au a du 2 de l'article 18 bis susmentionné, accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation du chauffage ;
-
-- pose d'une chaudière à très haute performance énergétique utilisant le fioul comme source d'énergie, entre le 1er janvier et le 30 juin 2018, conformes aux exigences définies au a bis du 2 de l'article 18 bis susmentionné, accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation de chauffage ;
+- pose d'une chaudière à très haute performance énergétique, à l'exception de celle utilisant le fioul comme source d'énergie, conforme aux exigences définies au a du 2 de l'article 18 bis susmentionné, accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation du chauffage ;
 
 - pose d'une pompe à chaleur conforme aux exigences définies au 1° du b du 3 de l'article 18 bis susmentionné ainsi qu'à l'exigence définie au premier alinéa de ce même b, accompagnée d'un dispositif de programmation du chauffage ;
 
