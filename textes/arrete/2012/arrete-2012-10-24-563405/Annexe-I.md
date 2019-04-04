@@ -386,7 +386,7 @@ Paris-Sapporo ;
 
 Paris-Tokyo ;
 
-ainsi que toute liaison exploitée en partage de codes avec une compagnie japonaise entre un point du territoire français et un point du territoire du Japon situé au-delà d'un des points du territoire japonais mentionnés ci-dessus.
+ainsi que toute liaison exploitée en partage de codes soit avec une compagnie japonaise entre un point du territoire français et un point du territoire du Japon situé au-delà d'un des points du territoire japonais mentionnés ci-dessus, soit avec une compagnie sud-coréenne entre un point du territoire français et un point du territoire japonais au-delà de Séoul (Corée du Sud).
 
 Kazakhstan :
 
@@ -712,6 +712,8 @@ Ukraine :
 
 Paris-Kiev ;
 
+Paris-Odessa ;
+
 ainsi que toute liaison exploitée en partage de codes avec une compagnie ukrainienne entre un point du territoire français et un point du territoire d'Ukraine situé au-delà du point du territoire ukrainien mentionné ci-dessus.
 
 Uruguay :
@@ -771,6 +773,8 @@ Pointe-à-Pitre-Miami ;
 Pointe-à-Pitre-San Juan ;
 
 Saint-Martin-San Juan ;
+
+ainsi que toute liaison exploitée en partage de codes avec une compagnie des Etats-Unis entre un point du territoire français des Antilles et de la Guyane et un point du territoire des Etats-Unis situé au-delà d'un des points sous la souveraineté des Etats-Unis mentionné ci-dessus.
 
 Haïti :
 
