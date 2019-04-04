@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190209077
+
+- Question : [SEQ190209077](seq190209077.md) — Hausse des prix alimentaires et meilleure rémunération des agriculteurs
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-04-04, page 1813*
+
+Le dispositif de relèvement du seuil de revente à perte, entré en vigueur le 1er février 2019, vise les produits dit « produits d'appel », vendus à une très faible marge, voire nulle, par la grande distribution, représentant 7 % des produits alimentaires. Le relèvement du seuil de revente à perte permettra au distributeur de rééquilibrer ses marges sur l'ensemble des produits alimentaires vendus en rayon, et ainsi de redonner de la valeur et du prix aux productions agricoles qui étaient souvent surmargées. Ce rééquilibrage des marges devrait s'opérer sans substantiellement modifier le prix global du panier du consommateur, puisque certains produits devraient voir leurs marges baisser. Les premières analyses effectuées indiquent qu'il n'y a pas eu d'effet significatif sur le pouvoir d'achat des consommateurs. Cette disposition s'accompagne d'un encadrement des promotions en volume et en valeur. Si les objectifs de ces dispositions sont compromis, l'ordonnance sur le seuil de revente à perte et sur l'encadrement des promotions prévoit la possibilité de prendre un décret pour suspendre les mesures. Toutes ces dispositions sont prévues dans le cadre d'une expérimentation mise en place sur deux ans. Cette expérimentation fera l'objet d'un suivi attentif des services du ministère de l'agriculture et de l'alimentation et du ministère de l'économie et des finances, qui réuniront régulièrement les parties prenantes. Le ministère de l'agriculture et de l'alimentation veillera à ce que les distributeurs tiennent leurs engagements et œuvrent à une meilleure rémunération des producteurs agricoles. L'évaluation de ces mesures devra permettre d'apprécier leurs effets avant d'envisager la pertinence de leur pérennisation.
