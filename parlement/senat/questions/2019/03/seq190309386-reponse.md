@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309386
+
+- Question : [SEQ190309386](seq190309386.md) — Développement de la production de protéines végétales
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-04-04, page 1817*
+
+Le ministère de l'agriculture et de l'alimentation a lancé le 11 février 2019 une large concertation destinée à élaborer une stratégie nationale sur les protéines végétales. Il s'agit, en identifiant les leviers permettant de réduire la dépendance de notre agriculture aux importations de matières riches en protéines et de fertilisants minéraux, de répondre à la fois aux défis environnementaux et climatiques et de consolider la souveraineté alimentaire européenne. Pour y parvenir, il sera nécessaire d'agir sur l'alimentation animale, en valorisant mieux certaines sources alternatives de protéines telles que les prairies, les légumineuses fourragères et les protéagineux, afin de renforcer l'autonomie protéique des exploitations d'élevage et des territoires. Il sera également nécessaire d'accompagner le développement de filières de légumineuses. Les évolutions des tendances de consommation en alimentation humaine constituent en cela une opportunité. On observe en effet un développement rapide des marchés du bio, des produits animaux issus d'élevages nourris localement, et des produits alimentaires à base de protéines végétales. Bien que plus faibles en volumes, ces débouchés sont nettement plus rémunérateurs pour les producteurs et pourront donc constituer un moteur de la transition que la future stratégie devra accompagner. Dans le cadre de la concertation, plusieurs chantiers concernant les leviers des filières, de la recherche et des politiques publiques sont en cours et présenteront leurs résultats en mai. L'objectif est de pouvoir élaborer sur cette base la stratégie pour une publication à l'été 2019.
