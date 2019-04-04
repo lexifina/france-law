@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404607
+
+- Question : [SEQ180404607](seq180404607.md) — Frais de collage des affiches électorales
+
+## Réponse
+
+*Intérieur, JO du 2019-04-04, page 1826*
+
+L'article R. 39 du code électoral mentionne au titre des dépenses de propagande officielle remboursées aux candidats et dans les quantités qu'il fixe, d'une part, les frais d'impression des bulletins de vote, des professions de foi et des affiches électorales, d'autre part, les frais d'affichage qui correspondent à l'apposition des affiches électorales des candidats sur les emplacements mis à leur disposition par les mairies en application des dispositions de l'article L. 51 du même code. Ces prestations sont remboursées sur pièces justificatives constituées en pratique par la production de factures émanant, selon les prestations remboursées, d'imprimeurs ou d'afficheurs, dans la limite d'un tarif maximal. L'article R. 39 du code électoral, modifié par l'article 18 du décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, précise que les tarifs maxima de remboursement seront établis non plus par un arrêté préfectoral mais par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'économie. L'arrêté ministériel du 4 mai 2017 est pris en application de l'article R. 39 du code électoral. Il prévoit, comme les arrêtés intervenus successivement à chaque échéance électorale depuis les élections municipales de mars 2014, que seules les prestations effectuées par des entreprises professionnelles ouvrent droit à remboursement des frais d'affichage, à l'exclusion de tout organisme occasionnel ou de toute personne morale de droit public. Ainsi, le candidat peut recourir à des bénévoles ou militants, mais si cette prestation n'a pas engendré de facturation, elle n'ouvre pas droit à remboursement.
