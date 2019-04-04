@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309638
+
+- Question : [SEQ190309638](seq190309638.md) — Avenir de la médecine homéopathique et de l'homéopathie en France
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-04-04, page 1837*
+
+Le ministère des solidarités et de la santé attend l'avis de la commission de la transparence sur le maintien des conditions de remboursement de l'homéopathie d'ici le deuxième trimestre 2019. Le ministère souhaite recueillir l'avis de la commission de transparence quant au bien-fondé des conditions de prise en charge et du remboursement des médicaments homéopathiques. L'avis devra se baser sur l'efficacité de ces produits et leurs effets indésirables, leur place dans la stratégie thérapeutique, la gravité des affections auxquelles ils sont destinés, leur caractère préventif, curatif ou symptomatique, et leur intérêt pour la santé publique. Ainsi, la loi de financement de la sécurité sociale pour 2019 prévoit à l'article 65 de préciser les règles de prise en charge de l'homéopathie. Cette mesure doit permettre à la commission de la transparence de rendre un avis global sur le bien-fondé de la prise en charge de ces médicaments. De plus, le décret n° 2019-195 du 15 mars 2019 relatif aux conditions d'évaluation et de prise en charge par l'assurance maladie de médicaments homéopathiques publié au JO du 17 mars 2019 précise les critères d'évaluation des médicaments homéopathiques par la commission de la transparence de la Haute Autorité de santé. Pour l'application de ces dispositions, ces médicaments homéopathiques peuvent faire l'objet d'une évaluation d'ensemble ou être regroupés en catégories homogènes. Le texte précise, en lien avec les conclusions de cette évaluation, les conditions dans lesquelles ces médicaments homéopathiques peuvent être admis, maintenus ou le cas échéant, après procédure contradictoire, exclus de la prise en charge par l'assurance maladie.
