@@ -52,6 +52,22 @@ Sont combinées et intégrées dans les comptes combinés de chaque branche du r
 
 Les organismes nationaux, entités combinantes, et les entités combinées concernées définissent conventionnellement dans un document écrit la ventilation par branche, activité ou régime des actifs, passifs, fonds propres et résultats (de telle manière que la somme des prorata d'intégration soit égale à 100 %) afin de donner une meilleure image fidèle de la réalité des activités économiques de l'entité partagée.
 
+En ce qui concerne les caisses générales de sécurité sociale, la ventilation des opérations de gestion administrative, par branche, activité ou régime, s'effectue selon les modalités suivantes :
+
+- Sur la base des informations transmises par les caisses générales de sécurité sociale, la Caisse nationale de l'assurance maladie centralise l'ensemble des charges et produits de gestion administrative de ces caisses.
+
+- La Caisse nationale de l'assurance maladie notifie aux caisses nationales concernées, pour comptabilisation dans les différents comptes combinés qu'elles établissent, la part des opérations de gestion administrative qui leur est respectivement imputable, après application de la clé de répartition suivante :
+
+Pour les branches du régime général :
+
+- CNAM-branche maladie : 71 % ;
+
+- CNAV-branche vieillesse : 21 %.
+
+Pour le régime de la mutualité sociale agricole
+
+- CCMSA : 8 %.
+
 c) Autres entités :
 
 Sont également combinées toutes entités qui, financées indirectement par des dotations allouées par l'organisme national ou par des crédits provenant des entités mentionnées aux a et b ci-dessus, assurent des prestations de services au bénéfice desdites entités, ou toutes autres entités contrôlées en droit ou en fait par l'organisme national ou par une ou des entités précédemment mentionnées et financées de la même manière et exécutant des prestations de services de toute nature au bénéfice des assurés sociaux et dont l'incidence est significative dans les comptes combinés pour assurer leur image fidèle.
@@ -68,7 +84,7 @@ en vue de la constitution des comptes combinés
 
 Les entités combinées garantissent la transmission de toutes les informations nécessaires ou utiles à l'établissement des comptes combinés annuels, dans les délais fixés par l'entité combinante.
 
-Les conditions et modalités de diffusion de ces données sont définies soit par une circulaire annuelle ou lettre-réseau émanant de l'autorité compétente de l'entité combinante, soit par la convention de combinaison mentionnée au II, a-2, ci-dessus.
+Les conditions et modalités de diffusion de ces données sont définies soit par une circulaire annuelle ou lettre-réseau émanant de l'autorité compétente de l'entité combinante, soit par la convention de combinaison mentionnée au II, a-2, ci-dessus. La transmission des informations et des notifications mentionnées au b du II, relatives aux dépenses de gestion administrative des caisses générales de sécurité sociale, est effectuée conformément aux modalités définies dans le calendrier commun d'établissement des comptes fixé par la mission comptable permanente mentionnée à l'article D. 114-4-3 du code de la sécurité sociale.
 
 IV. - Règles de combinaison
 
