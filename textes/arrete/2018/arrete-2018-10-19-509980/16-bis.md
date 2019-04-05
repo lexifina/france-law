@@ -1,10 +1,8 @@
 # Article 16 bis
 
-Une zone blanche est constituée telles que définie en annexe 2 du présent arrêté.
-
 Sans préjudice des dispositions des articles 14 à 16 du présent arrêté, les mesures suivantes sont appliquées dans la zone blanche :
 
-1. les sangliers trouvés morts ou tirés sont collectés et acheminés vers un centre d'équarrissage. Le circuit de collecte des cadavres est mis en place par le préfet dans le respect des conditions de biosécurité.
+1. (Supprimé).
 
 2. Chaque emplacement de sanglier mort du fait d'une action de chasse est géo-localisé et notifié au préfet quotidiennement.
 
