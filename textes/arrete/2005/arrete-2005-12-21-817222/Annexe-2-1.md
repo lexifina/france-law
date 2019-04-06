@@ -8,18 +8,14 @@ Lorsque le préfet de département ou, à Paris, le préfet de police, décide d
 
 Ce stage s'étend sur la période de six à douze mois correspondant à la durée de la prescription de l'EAD. Il comporte :
 
-- deux consultations médicales, une en début et une en fin de stage, effectuées par un médecin addictologue de proximité ;
+-une séance d'accueil individuel, comportant un entretien avec un professionnel qualifié de l'établissement spécialisé en addictologie (d'une durée de l'ordre de quarante-cinq minutes) ;
 
-- six séances collectives, de deux heures, à visée psycho-éducative et de renforcement des compétences psychosociales, animées par des intervenants spécialisés en addictologie.
+-une première consultation médicale à la suite de l'entretien initial, effectuée par un médecin intervenant dans l'établissement (d'une durée de l'ordre de quarante-cinq minutes) ;
+
+-cinq séances collectives à visée psycho-éducative et de renforcement des compétences psychosociales, animées par les professionnels compétents de l'établissement (d'une durée de l'ordre d'une heure et demie à deux heures) ;
+
+-une nouvelle consultation médicale en fin de stage, effectuée par un médecin intervenant dans l'établissement (d'une durée de l'ordre de quarante-cinq minutes).
 
 La réalisation de ce stage donne lieu à l'établissement d'une attestation qui sera remise par le conducteur à la commission médicale lors du contrôle prévu pour le renouvellement de son permis de conduire.
 
 Devant la persistance d'un mésusage d'alcool, constatée lors de la visite réalisée à l'issue de la période d'aptitude temporaire sous protocole EAD, la prescription du dispositif peut être proposée par les médecins de la commission médicale.
-
-NOTA :
-
-Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions sont applicables à titre expérimental à compter du 1er décembre 2016 et jusqu'au 31 décembre 2018, dans les départements de la Drôme, de la Marne et du Nord.
-
-Un rapport d'évaluation est rendu trois mois au plus tard avant la fin de cette période expérimentale.
-
-Conformément à l'article 5 de l'arrêté du 30 octobre 2016, ces dispositions entrent en vigueur le 1er janvier 2019 dans tous les départements.
