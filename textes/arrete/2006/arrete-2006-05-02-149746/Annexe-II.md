@@ -4,7 +4,7 @@ Référentiel professionnel
 
 Certificat de spécialisation activités d'escalade
 
-Les différents éléments descriptifs du référentiel professionnel pour la création d'un certificat de spécialisationactivités d'escalade sont précisés dans les arrêtés portant création des différentes spécialités du brevet professionnel de la jeunesse, de l'éducation populaire et du sport(BPJEPS) délivré par le ministère de la jeunesse et des sports définies à l'annexe I.
+Les différents éléments descriptifs du référentiel professionnel pour la création d'un certificat de spécialisationactivités d'escalade sont précisés dans les arrêtés portant création des différentes spécialités et mentions du brevet professionnel de la jeunesse, de l'éducation populaire et du sport(BPJEPS) délivré par le ministère de la jeunesse et des sports définies à l'annexe I.
 
 Toutefois, il convient de compléter cette description par les éléments suivants :
 
