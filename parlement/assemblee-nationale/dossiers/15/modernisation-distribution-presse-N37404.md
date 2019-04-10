@@ -1,0 +1,53 @@
+# Modernisation de la distribution de la presse
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37404
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/modernisation_distribution_presse
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-451.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-04-10 : 1er dépôt d'une initiative. (PRJLSNR5S319B0451)
+  - 2019-04-10 : Etude d'impact (ETDISNR5S319B0451)
+  - 2019-04-10 : Avis du Conseil d'Etat (AVCESNR5S319B0451)
+  - 2019-04-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-10 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-05-15 : Dépôt de rapport (RAPPSNR5S319B0501, PRJLSNR5S319BTC0502)
+  - Discussion en séance publique
+    - 2019-05-22 : Discussion en séance publique
+    - 2019-05-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-05-23 : Dépôt d'une initiative en navette (PRJLANR5L15B1978)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-23 : Renvoi en commission au fond
+      - 2019-06-11 : Nomination de rapporteur
+      - 2019-06-11 : Réunion de commission
+      - 2019-07-15 : Réunion de commission
+      - 2019-07-23 : Réunion de commission
+      - 2019-07-15 : Dépôt de rapport (RAPPANR5L15B2142, PRJLANR5L15BTC2142)
+  - Discussion en séance publique
+    - 2019-07-23 : Discussion en séance publique
+    - 2019-07-23 : Discussion en séance publique
+    - 2019-07-23 : Décision
+- Commission Mixte Paritaire
+  - 2019-07-25 : Dépôt d'un projet de loi (PRJLSNR5S319B0698)
+  - 2019-07-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-09-24 : Nomination de rapporteur
+    - 2019-09-24 : Dépôt du rapport d'une CMP (RAPPANR5L15B2251, PRJLANR5L15BTC2251)
+    - 2019-09-24 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0737, PRJLSNR5S319BTC0738)
+  - Discussion en séance publique
+    - 2019-09-26 : Discussion en séance publique
+    - 2019-09-26 : Décision
+  - Discussion en séance publique
+    - 2019-10-08 : Discussion en séance publique
+    - 2019-10-08 : Décision
+  - 2019-09-25 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-10-18 : Promulgation d'une loi
