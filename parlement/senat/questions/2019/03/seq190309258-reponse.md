@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309258
+
+- Question : [SEQ190309258](seq190309258.md) — Cohérence du dispositif de soutien au tissu associatif des Français à l'étranger avec le contexte politique international
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2019-04-11, page 1968*
+
+L'intérêt pour le nouveau dispositif d'accompagnement de projets locaux conduits par des Français à l'étranger, venu remplacer la réserve parlementaire en 2018, a été très fort. Alors même que le Soutien au tissu associatif des Français à l'étranger (STAFE) a été lancé dans un délai extrêmement réduit, 302 projets émanant de 112 postes ont pu être étudiés par la commission nationale réunie le 28 septembre 2018. Certains membres élus ont effectivement relevé les difficultés rencontrées par quelques porteurs de projets, en termes de bonne compréhension des objectifs poursuivis, comme de conditions d'éligibilité : l'administration les a entendues et a répondu à la fois par un éclaircissement et par un assouplissement des nouvelles instructions encadrant la campagne 2019. Le Gouvernement attache une importance particulière à ce que les entreprises françaises se saisissent des opportunités ouvertes par de nouveaux accords commerciaux, à l'image de l'accord UE-Japon entré en vigueur en février. En revanche, comme son nom l'indique, le STAFE est exclusivement destiné au Soutien du réseau associatif œuvrant à l'étranger au bénéfice des Français, dans un objectif majeur de facilitation de l'insertion socio-économique des compatriotes. En tant que tel, le STAFE ne s'adresse donc pas aux entreprises françaises implantées à l'étranger. Pour autant, les projets émanant des Chambres de commerce au statut associatif, venant en appui à des entreprises françaises, seront étudiés s'ils remplissent l'ensemble des critères d'éligibilité contenus dans les instructions.
