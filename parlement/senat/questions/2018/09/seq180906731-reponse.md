@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180906731
+
+- Question : [SEQ180906731](seq180906731.md) — Jet de déchets par les automobilistes sur le réseau autoroutier
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-04-11, page 1997*
+
+Le ministre d'État, ministre de la transition écologique et solidaire, est très sensible aux nuisances et enjeux paysagers et environnementaux associés aux décharges sauvages. La secrétaire d'État placée auprès du ministre d'État, ministre de la transition écologique et solidaire, a ainsi mis en place un groupe de travail, en lien avec les collectivités, qui s'est réuni pour la première fois le 22 mai 2018 afin de mettre à disposition des collectivités des outils plus performants pour lutter contre ces phénomènes. Ces outils pourront être de nature juridique, technique ou numérique. Il s'agit ici d'un engagement de la feuille de route pour une économie circulaire, adoptée par le Gouvernement en avril 2018. Trois grands chantiers sont actuellement en cours. Premièrement, une étude visant à mieux connaître les déchets sauvages et à identifier les bonnes pratiques de prévention et de lutte contre les dépôts sauvages est en cours de réalisation, sous le pilotage de l'agence de l'environnement et de la maîtrise de l'énergie (Ademe). Les résultats de cette étude seront publiés au premier trimestre 2019. Deuxièmement, le groupe de travail est chargé d'identifier des modifications législatives et réglementaires pour lutter plus efficacement contre les dépôts illégaux de déchets. Les travaux de ce groupe de travail se poursuivent et les pistes identifiées permettront d'alimenter un projet de loi dédié à l'économie circulaire 2019. Troisièmement, un guide regroupant des outils pour aider à sanctionner l'abandon de déchets, notamment les procédures de sanctions existantes, sera élaboré dans le courant de l'année 2019.
