@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605509
+
+- Question : [SEQ180605509](seq180605509.md) — Desserte des petites gares
+
+## Réponse
+
+*Transports, JO du 2019-04-11, page 2004*
+
+La gare de Caussade est actuellement desservie, sauf périodes exceptionnelles (fermetures de la ligne pour travaux par exemple), par deux lignes de train d'équilibre du territoire (TET) : la ligne de jour Paris-Limoges-Toulouse à raison de deux allers-retours quotidiens et la ligne de nuit Paris –?Toulouse –?Latour-de-Carol pendant les week-ends. Afin d'améliorer l'attractivité de la ligne Paris-Limoges-Toulouse, l'État a élaboré un schéma directeur dont les orientations ont été validées par la ministre chargée des transports. Celui-ci prévoit à court terme (au cours du deuxième semestre 2020) la mise en service du Wi-Fi sur la ligne et, à moyen terme (à l'horizon 2025), une amélioration de temps de parcours grâce à la mise en service d'un nouveau matériel roulant ayant des standards de confort plus élevés et de meilleures capacités de freinage et d'accélération. Ces gains de temps de parcours n'auront que peu d'impact sur les temps de trajets entre Caussade et Cahors ou entre Caussade et Toulouse, mais pourraient atteindre une trentaine de minutes entre Paris et Toulouse, améliorant ainsi les déplacements longue distance depuis ou à destination de Caussade, et plus globalement au niveau du département du Tarn-et-Garonne. Le schéma directeur propose bien par ailleurs le maintien des dessertes existantes en gare de Caussade à l'horizon 2025. Enfin, comme l'a récemment indiqué le Gouvernement en réponse à l'insertion de la Cour des comptes intitulée « Les trains Intercités : une réforme à achever » à son rapport public annuel 2019, un déconventionnement des lignes TET structurantes et des lignes de nuit n'est pas acceptable. Le Gouvernement reste attentif à ce que le niveau de service ferroviaire soit en mesure de répondre aux besoins de mobilité.
