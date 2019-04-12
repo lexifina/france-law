@@ -2,7 +2,7 @@
 
 Sans préjudice des dispositions des articles 14 à 16 du présent arrêté, les mesures suivantes sont appliquées dans la zone blanche :
 
-1. (Supprimé).
+1. Les sangliers morts suite à action de chasse sont collectés vers un centre d'équarrissage. Le circuit de collecte est mis en place par le préfet dans le respect des conditions de biosécurité.
 
 2. Chaque emplacement de sanglier mort du fait d'une action de chasse est géo-localisé et notifié au préfet quotidiennement.
 

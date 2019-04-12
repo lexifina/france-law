@@ -2,6 +2,8 @@
 
 ZONE BLANCHE
 
+Les communes et parties de territoires de communes situées entre la frontière franco-belge et le tracé GPS défini ci-dessous constituent la zone blanche.
+
 Département |
 
 Tronçon |

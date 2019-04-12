@@ -8,9 +8,9 @@ N° INSEE |
 
 DEPARTEMENT |
 
-Partie située en Zone Blanche
+Partie de la commune
 
-(annexe 2) |
+située en Zone Blanche |
 
 BIEVRES |
 
@@ -18,7 +18,7 @@ BIEVRES |
 
 ARDENNES |
 
-NON |
+non |
 
 BLAGNY |
 
@@ -26,7 +26,7 @@ BLAGNY |
 
 ARDENNES |
 
-NON |
+non |
 
 CARIGNAN |
 
@@ -34,7 +34,7 @@ CARIGNAN |
 
 ARDENNES |
 
-NON |
+oui |
 
 FROMY |
 
@@ -42,7 +42,7 @@ FROMY |
 
 ARDENNES |
 
-OUI |
+oui |
 
 LA FERTE-SUR-CHIERS |
 
@@ -50,7 +50,7 @@ LA FERTE-SUR-CHIERS |
 
 ARDENNES |
 
-NON |
+non |
 
 LES DEUX-VILLES |
 
@@ -58,7 +58,7 @@ LES DEUX-VILLES |
 
 ARDENNES |
 
-OUI |
+oui |
 
 LINAY |
 
@@ -66,7 +66,7 @@ LINAY |
 
 ARDENNES |
 
-OUI |
+oui |
 
 MALANDRY |
 
@@ -74,15 +74,7 @@ MALANDRY |
 
 ARDENNES |
 
-NON |
-
-MATTON-ET-CLEMENCY |
-
-08281 |
-
-ARDENNES |
-
-OUI |
+non |
 
 MARGUT |
 
@@ -90,7 +82,15 @@ MARGUT |
 
 ARDENNES |
 
-OUI |
+oui |
+
+MATTON-ET-CLEMENCY |
+
+08281 |
+
+ARDENNES |
+
+oui |
 
 PUILLY-ET-CHARBEAUX |
 
@@ -98,7 +98,7 @@ PUILLY-ET-CHARBEAUX |
 
 ARDENNES |
 
-OUI |
+oui |
 
 SAILLY |
 
@@ -106,7 +106,7 @@ SAILLY |
 
 ARDENNES |
 
-NON |
+non |
 
 SIGNY-MONTLIBERT |
 
@@ -114,7 +114,15 @@ SIGNY-MONTLIBERT |
 
 ARDENNES |
 
-OUI |
+oui |
+
+TREMBLOIS-LES-CARIGNAN |
+
+08459 |
+
+ARDENNES |
+
+oui |
 
 VAUX-LES-MOUZON |
 
@@ -122,7 +130,7 @@ VAUX-LES-MOUZON |
 
 ARDENNES |
 
-NON |
+non |
 
 VILLY |
 
@@ -130,7 +138,7 @@ VILLY |
 
 ARDENNES |
 
-NON |
+non |
 
 BASLIEUX |
 
@@ -138,7 +146,7 @@ BASLIEUX |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 BAZAILLES |
 
@@ -146,7 +154,7 @@ BAZAILLES |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 BEUVEILLE |
 
@@ -154,7 +162,7 @@ BEUVEILLE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 BOISMONT |
 
@@ -162,7 +170,7 @@ BOISMONT |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 BREHAIN-LA-VILLE |
 
@@ -170,375 +178,7 @@ BREHAIN-LA-VILLE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
-
-CRUSNES |
-
-54149 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-DONCOURT-LES-LONGUYON |
-
-54172 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-FILLIERES |
-
-54194 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-GRAND-FAILLY |
-
-54236 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-LAIX |
-
-54290 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-MORFONTAINE |
-
-54385 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-PETIT-FAILLY |
-
-54420 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-PIERREPONT |
-
-54428 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-SAINT-JEAN-LES-LONGUYON |
-
-54476 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-THIL |
-
-54521 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-TIERCELET |
-
-54525 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-VILLE-AU-MONTOIS |
-
-54568 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-VILLERUPT |
-
-54580 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-AUTREVILLE-SAINT-LAMBERT |
-
-55018 |
-
-MEUSE |
-
-NON |
-
-BAALON |
-
-55025 |
-
-MEUSE |
-
-NON |
-
-BROUENNES |
-
-55083 |
-
-MEUSE |
-
-NON |
-
-CESSE |
-
-55095 |
-
-MEUSE |
-
-NON |
-
-CHAUVENCY-LE-CHATEAU |
-
-55109 |
-
-MEUSE |
-
-NON |
-
-CHAUVENCY-SAINT-HUBERT |
-
-55110 |
-
-MEUSE |
-
-NON |
-
-DELUT |
-
-55149 |
-
-MEUSE |
-
-NON |
-
-HAN-LES-JUVIGNY |
-
-55226 |
-
-MEUSE |
-
-NON |
-
-INOR |
-
-55250 |
-
-MEUSE |
-
-NON |
-
-IRE-LE-SEC |
-
-55252 |
-
-MEUSE |
-
-NON |
-
-JAMETZ |
-
-55255 |
-
-MEUSE |
-
-NON |
-
-JUVIGNY-SUR-LOISON |
-
-55262 |
-
-MEUSE |
-
-NON |
-
-LAMOUILLY |
-
-55275 |
-
-MEUSE |
-
-NON |
-
-LOUPPY-SUR-LOISON |
-
-55306 |
-
-MEUSE |
-
-NON |
-
-LUZY-SAINT-MARTIN |
-
-55310 |
-
-MEUSE |
-
-NON |
-
-MARTINCOURT-SUR-MEUSE |
-
-55323 |
-
-MEUSE |
-
-NON |
-
-MARVILLE |
-
-55324 |
-
-MEUSE |
-
-NON |
-
-MONTMEDY |
-
-55351 |
-
-MEUSE |
-
-OUI |
-
-MOULINS-SAINT-HUBERT |
-
-55362 |
-
-MEUSE |
-
-NON |
-
-MOUZAY |
-
-55364 |
-
-MEUSE |
-
-NON |
-
-NEPVANT |
-
-55377 |
-
-MEUSE |
-
-NON |
-
-OLIZY-SUR-CHIERS |
-
-55391 |
-
-MEUSE |
-
-NON |
-
-POUILLY-SUR-MEUSE |
-
-55408 |
-
-MEUSE |
-
-NON |
-
-QUINCY-LANDZECOURT |
-
-55410 |
-
-MEUSE |
-
-NON |
-
-REMOIVILLE |
-
-55425 |
-
-MEUSE |
-
-NON |
-
-RUPT-SUR-OTHAIN |
-
-55450 |
-
-MEUSE |
-
-NON |
-
-STENAY |
-
-55502 |
-
-MEUSE |
-
-NON |
-
-THONNE-LES-PRES |
-
-55510 |
-
-MEUSE |
-
-NON |
-
-THONNE-LE-THIL |
-
-55509 |
-
-MEUSE |
-
-OUI |
-
-THONNELLE |
-
-55511 |
-
-MEUSE |
-
-OUI |
-
-VIGNEUL-SOUS-MONTMEDY |
-
-55552 |
-
-MEUSE |
-
-NON |
-
-ALLONDRELLE-LA-MALMAISON |
-
-54011 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
-
-CHARENCY-VEZIN |
-
-54118 |
-
-MEURTHE-ET-MOSELLE |
-
-NON |
+non |
 
 CHENIERES |
 
@@ -546,7 +186,7 @@ CHENIERES |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 COLMEY |
 
@@ -554,7 +194,7 @@ COLMEY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 CONS-LA-GRANDVILLE |
 
@@ -562,7 +202,7 @@ CONS-LA-GRANDVILLE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 COSNES-ET-ROMAIN |
 
@@ -570,7 +210,15 @@ COSNES-ET-ROMAIN |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
+
+CRUSNES |
+
+54149 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 CUTRY |
 
@@ -578,15 +226,23 @@ CUTRY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
-EPIEZ-SUR-CHIERS |
+DONCOURT-LES-LONGUYON |
 
-54178 |
+54172 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
+
+FILLIERES |
+
+54194 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 FRESNOIS-LA-MONTAGNE |
 
@@ -594,15 +250,15 @@ FRESNOIS-LA-MONTAGNE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
-GORCY |
+GRAND-FAILLY |
 
-54234 |
+54236 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 HAUCOURT-MOULAINE |
 
@@ -610,7 +266,7 @@ HAUCOURT-MOULAINE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 HERSERANGE |
 
@@ -618,7 +274,7 @@ HERSERANGE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 HUSSIGNY-GODBRANGE |
 
@@ -626,7 +282,15 @@ HUSSIGNY-GODBRANGE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
+
+LAIX |
+
+54290 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 LEXY |
 
@@ -634,7 +298,7 @@ LEXY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 LONGLAVILLE |
 
@@ -642,7 +306,7 @@ LONGLAVILLE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 LONGUYON |
 
@@ -650,7 +314,7 @@ LONGUYON |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 LONGWY |
 
@@ -658,7 +322,7 @@ LONGWY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 MEXY |
 
@@ -666,7 +330,7 @@ MEXY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 MONTIGNY-SUR-CHIERS |
 
@@ -674,7 +338,7 @@ MONTIGNY-SUR-CHIERS |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 MONT-SAINT-MARTIN |
 
@@ -682,15 +346,31 @@ MONT-SAINT-MARTIN |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
-OTHE |
+MORFONTAINE |
 
-54412 |
+54385 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
+
+PETIT-FAILLY |
+
+54420 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
+
+PIERREPONT |
+
+54428 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 REHON |
 
@@ -698,15 +378,15 @@ REHON |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
-SAINT-PANCRE |
+SAINT-JEAN-LES-LONGUYON |
 
-54485 |
+54476 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 SAULNES |
 
@@ -714,15 +394,23 @@ SAULNES |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
-TELLANCOURT |
+THIL |
 
-54514 |
+54521 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
+
+TIERCELET |
+
+54525 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 UGNY |
 
@@ -730,15 +418,15 @@ UGNY |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
-VILLE-HOUDLEMONT |
+VILLE-AU-MONTOIS |
 
-54572 |
+54568 |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 VILLERS-LA-CHEVRE |
 
@@ -746,7 +434,7 @@ VILLERS-LA-CHEVRE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 VILLERS-LA-MONTAGNE |
 
@@ -754,7 +442,7 @@ VILLERS-LA-MONTAGNE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+non |
 
 VILLERS-LE-ROND |
 
@@ -762,7 +450,15 @@ VILLERS-LE-ROND |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
+
+VILLERUPT |
+
+54580 |
+
+MEURTHE-ET-MOSELLE |
+
+non |
 
 VILLETTE |
 
@@ -770,7 +466,7 @@ VILLETTE |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
 VIVIERS-SUR-CHIERS |
 
@@ -778,52 +474,252 @@ VIVIERS-SUR-CHIERS |
 
 MEURTHE-ET-MOSELLE |
 
-NON |
+oui |
 
-BAZEILLES-SUR-OTHAIN |
+AUTREVILLE-SAINT-LAMBERT |
 
-55034 |
-
-MEUSE |
-
-NON |
-
-ECOUVIEZ |
-
-55169 |
+55018 |
 
 MEUSE |
 
-OUI |
+non |
 
-FLASSIGNY |
+BAALON |
 
-55188 |
-
-MEUSE |
-
-NON |
-
-VELOSNES |
-
-55544 |
+55025 |
 
 MEUSE |
 
-NON |
+non |
 
-VERNEUIL-GRAND |
+BROUENNES |
 
-55546 |
-
-MEUSE |
-
-OUI |
-
-VILLECLOYE |
-
-55554 |
+55083 |
 
 MEUSE |
 
-NON |
+non |
+
+CESSE |
+
+55095 |
+
+MEUSE |
+
+non |
+
+CHAUVENCY-LE-CHATEAU |
+
+55109 |
+
+MEUSE |
+
+non |
+
+CHAUVENCY-SAINT-HUBERT |
+
+55110 |
+
+MEUSE |
+
+non |
+
+DELUT |
+
+55149 |
+
+MEUSE |
+
+non |
+
+HAN-LES-JUVIGNY |
+
+55226 |
+
+MEUSE |
+
+non |
+
+INOR |
+
+55250 |
+
+MEUSE |
+
+non |
+
+IRE-LE-SEC |
+
+55252 |
+
+MEUSE |
+
+oui |
+
+JAMETZ |
+
+55255 |
+
+MEUSE |
+
+non |
+
+JUVIGNY-SUR-LOISON |
+
+55262 |
+
+MEUSE |
+
+non |
+
+LAMOUILLY |
+
+55275 |
+
+MEUSE |
+
+non |
+
+LOUPPY-SUR-LOISON |
+
+55306 |
+
+MEUSE |
+
+non |
+
+LUZY-SAINT-MARTIN |
+
+55310 |
+
+MEUSE |
+
+non |
+
+MARTINCOURT-SUR-MEUSE |
+
+55323 |
+
+MEUSE |
+
+non |
+
+MARVILLE |
+
+55324 |
+
+MEUSE |
+
+oui |
+
+MONTMEDY |
+
+55351 |
+
+MEUSE |
+
+oui |
+
+MOULINS-SAINT-HUBERT |
+
+55362 |
+
+MEUSE |
+
+non |
+
+MOUZAY |
+
+55364 |
+
+MEUSE |
+
+non |
+
+NEPVANT |
+
+55377 |
+
+MEUSE |
+
+non |
+
+OLIZY-SUR-CHIERS |
+
+55391 |
+
+MEUSE |
+
+non |
+
+POUILLY-SUR-MEUSE |
+
+55408 |
+
+MEUSE |
+
+non |
+
+QUINCY-LANDZECOURT |
+
+55410 |
+
+MEUSE |
+
+non |
+
+REMOIVILLE |
+
+55425 |
+
+MEUSE |
+
+non |
+
+RUPT-SUR-OTHAIN |
+
+55450 |
+
+MEUSE |
+
+non |
+
+STENAY |
+
+55502 |
+
+MEUSE |
+
+non |
+
+THONNE-LES-PRES |
+
+55510 |
+
+MEUSE |
+
+non |
+
+THONNE-LE-THIL |
+
+55509 |
+
+MEUSE |
+
+oui |
+
+THONNELLE |
+
+55511 |
+
+MEUSE |
+
+oui |
+
+VIGNEUL-SOUS-MONTMEDY |
+
+55552 |
+
+MEUSE |
+
+non |
