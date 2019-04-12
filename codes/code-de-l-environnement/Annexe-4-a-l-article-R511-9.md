@@ -208,23 +208,11 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 2521
 
 |
 
-Enrobage au bitume de matériaux routiers (centrale d')
+Enrobage au bitume de matériaux routiers (centrale d') :
 
 |
 
@@ -232,19 +220,19 @@ Enrobage au bitume de matériaux routiers (centrale d')
 
 |
 
-1. à chaud
+1. A chaud
 
 |
 
-A
+E
 
 |
 
-2
+-
 
 |
 
-2. à froid, la capacité de l'installation étant :
+2. A froid, la capacité de l'installation étant :
 
 |
 
@@ -252,19 +240,19 @@ A
 
 |
 
-a) supérieure à 1 500 t/j
+a) Supérieure à 1 500 t/ j
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
-b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
+b) Supérieure à 100 t/ j, mais inférieure ou égale à 1 500 t/ j
 
 |
 
@@ -272,7 +260,7 @@ D
 
 |
 
-|
+- |
 
 2522
 
@@ -598,24 +586,6 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 2. supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
 
 |
@@ -655,18 +625,6 @@ A
 |
 
 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -856,7 +814,7 @@ DC
 
 |
 
-Nettoyage, dégraissage, décapage de surfaces quelconques par des procédés utilisant des liquides organohalogénés ou des solvants organiques.
+Nettoyage, dégraissage, décapage de surfaces par des procédés utilisant des liquides organohalogénés ou des solvants organiques, à l'exclusion des activités classées au titre de la rubrique 3670.
 
 |
 
@@ -864,125 +822,7 @@ Nettoyage, dégraissage, décapage de surfaces quelconques par des procédés ut
 
 |
 
-A. Pour les liquides organohalogénés ou des solvants organiques volatils (1), le volume équivalent des cuves de traitement étant :
-
-|
-
-|
-
-|
-
-1. Supérieur à 1 500 l
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. Supérieur à 200 l, mais inférieur ou égal à 1 500 l
-
-|
-
-DC
-
-|
-
-|
-
-3. Supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60, R61 ou des solvants halogénés de mention de danger H341 ou étiquetés R40 sont utilisés dans une machine non fermée (2)
-
-|
-
-DC
-
-|
-
-|
-
-B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant supérieur à 200 l
-
-|
-
-DC
-
-|
-
-|
-
-(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
-
-|
-
-|
-
-|
-
-(2) Une machine est considérée comme fermée si les seules ouvertures en phase de traitement sont celles servant à l'aspiration des effluents gazeux.
-
-|
-
-|
-
-|
-
-(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et d'élimination.
-
-|
-
-|
-
-|
-
-2565
-
-|
-
-Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-abrasion, etc.) de surfaces quelconques par voie électrolytique ou chimique, à l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage visé par la rubrique 2563.
-
-|
-
-|
-
-|
-
-1. Lorsqu'il y a mise en œuvre :
-
-|
-
-|
-
-|
-
-a) De cadmium
-
-|
-
-A
-
-|
-
-1
-
-|
-
-b) De cyanures, le volume des cuves étant supérieur à 200 l
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+1. Hors procédé sous vide, le volume des cuves affectées au traitement étant :
 
 |
 
@@ -994,17 +834,105 @@ a) Supérieur à 1 500 l
 
 |
 
-A
+E
 
 |
 
-1
+-
+
+|
+
+b) Supérieur à 20 l mais inférieur ou égal à 1 500 l pour les solvants organiques à mention de danger H340, H350, H350i, H360D, H360F ou les liquides organohalogénés à mention de danger H341 ou H351, au sens du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/ CEE et 1999/45/ CE et modifiant le règlement (CE) n° 1907/2006
+
+|
+
+DC
+
+|
+
+- |
+
+c) Supérieur à 200 l mais inférieur ou égal à 1 500 l pour les autres liquides organohalogénés ou solvants organiques
+
+|
+
+DC
+
+|
+
+- |
+
+2. Pour les procédés sous vide, le volume des cuves affectées au traitement étant supérieur à 200 l
+
+|
+
+DC
+
+|
+
+- |
+
+2565
+
+|
+
+Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-abrasion, etc.) de surfaces par voie électrolytique ou chimique, à l'exclusion des activités classées au titre des rubriques 2563, 2564, 3260 ou 3670.
 
 |
 
 |
 
 |
+
+1. Lorsqu'il y a mise en œuvre de :
+
+|
+
+|
+
+|
+
+a) Cadmium
+
+|
+
+E
+
+|
+
+-
+
+|
+
+b) Cyanures, le volume des cuves affectées au traitement étant supérieur à 200 l
+
+|
+
+E
+
+|
+
+-
+
+|
+
+2. Procédé utilisant des liquides, le volume des cuves affectées au traitement étant :
+
+|
+
+|
+
+|
+
+a) Supérieur à 1 500 l
+
+|
+
+E
+
+|
+
+-
 
 |
 
@@ -1016,19 +944,9 @@ DC
 
 |
 
-|
+- |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium ou de cyanures
-
-|
-
-DC
-
-|
-
-|
-
-4. Vibro-abrasion, le volume total des cuves de travail étant supérieur à 200 l
+3. Traitement en phase gazeuse ou autres traitements
 
 |
 
@@ -1036,7 +954,17 @@ DC
 
 |
 
+- |
+
+4. Vibro-abrasion, le volume des cuves affectées au traitement étant supérieur à 200 l
+
 |
+
+DC
+
+|
+
+- |
 
 2566
 
@@ -2122,12 +2050,6 @@ A
 
 |
 
-|
-
-|
-
-|
-
 2731
 
 |
@@ -2515,24 +2437,6 @@ A
 |
 
 3
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -3325,18 +3229,6 @@ A
 |
 
 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -6699,7 +6591,3 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
-
-NOTA :
-
-Par la décision n° 426528 du 30 décembre 2020 du Conseil d'Etat statuant au contentieux (ECLI:FR:CECHR:2022:429341.20220728), les dispositions figurant dans les rubriques 2120 et 2140 et au 3 de la rubrique 2731 de l'annexe I du décret n° 2018-900 du 22 octobre 2018 modifiant la nomenclature des installations classées pour la protection de l'environnement (NOR : TREP1806523D) sont annulées.
