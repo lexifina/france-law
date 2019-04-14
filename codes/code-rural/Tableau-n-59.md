@@ -2,9 +2,7 @@
 
 Hémopathies malignes provoquées par les pesticides (1)
 
-DÉSIGNATION DES MALADIES
-
-|
+DÉSIGNATION DES MALADIES |
 
 DÉLAI DE PRISE
 
@@ -18,15 +16,13 @@ travaux susceptibles de provoquer ces maladies
 
 |
 
-Lymphome malin non hodgkinien.
+Lymphome malin non hodgkinien, dont la leucémie lymphoïde chronique et le myélome multiple .
 
 |
 
-10 ans (sous réserve d'une durée d'exposition de 10 ans).
+10 ans (sous réserve d'une durée d'exposition de 10 ans). |
 
-|
-
-Travaux exposant habituellement aux composés organochlorés, aux composés organophosphorés, au carbaryl, au toxaphène ou à l'atrazine :
+Travaux exposant habituellement aux pesticides :
 
 - lors de la manipulation ou l'emploi de ces produits, par contact ou par inhalation ;
 
