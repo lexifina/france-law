@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d'offres ouvert relatif à la fourniture de titres restaurant pour le personnel municipal et du CCAS
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-04-18
+- Matière : RESSOURCES HUMAINES
+- Objet : Lancement d’un appel d'offres ouvert relatif à la fourniture de titres restaurant pour le personnel municipal et du CCAS
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NzUsInB1ciI6ImJsb2JfaWQifX0=--e663306ef2a23e3aab96f77dac0b454ab7469be1/180419_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
