@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Affectation des résultats de l’année 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-04-18
+- Matière : FINANCES
+- Objet : Affectation des résultats de l’année 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NzAsInB1ciI6ImJsb2JfaWQifX0=--737c308df0520af17db047e4f9bc708b3c32b60f/180419_06.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
