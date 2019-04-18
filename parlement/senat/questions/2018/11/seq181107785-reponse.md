@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107785
+
+- Question : [SEQ181107785](seq181107785.md) — Conséquences de l'augmentation des prix des carburants en milieu rural
+
+## Réponse
+
+*Économie et finances, JO du 2019-04-18, page 2137*
+
+Le Gouvernement a pleinement pris en compte la charge que représentent les augmentations de taxes sur les carburants dans un contexte de montée du cours du pétrole pour les Français les plus modestes et les plus dépendants de l'automobile : la hausse de la fiscalité sur les carburants et sur le gaz prévue pour 2019 a été ainsi annulée. Des mesures d'accompagnement renforcées, telles que le relèvement du barème kilométrique pour les véhicules jusqu'à quatre chevaux fiscaux, l'augmentation et l'extension du chèque énergie, et le doublement de la prime à la conversion pour les plus modestes et pour les « gros rouleurs », ont également été décidées. Ces enjeux dépassent en réalité le seul cadre de la fiscalité sur les carburants et posent des questions plus générales relatives au pouvoir d'achat. Conformément à l'engagement du Premier ministre, les tarifs régulés de l'électricité et du gaz ont été gelés pendant l'hiver. Les mesures annoncées par le Président de la République le 10 décembre 2018 permettent de soutenir le pouvoir d'achat en 2019 : augmentation de 100 euros du salaire des travailleurs au SMIC, défiscalisation et désocialisation des heures supplémentaires et des primes de fin d'année, et exemption de la hausse de la CSG pour les retraités touchant moins de 2 000 euros. Enfin, le Président de la République a souhaité l'ouverture du grand débat national, qui est l'occasion de réfléchir collectivement à des solutions complémentaires sur la transition écologique et la fiscalité, ainsi que sur l'organisation de l'État et le fonctionnement de notre démocratie.
