@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la nouvelle convention de partenariat entre la Ville et l’association « Cultures du Cœur »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-04-18
+- Matière : CULTURE
+- Objet : Approbation de la nouvelle convention de partenariat entre la Ville et l’association « Cultures du Cœur »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4NzMsInB1ciI6ImJsb2JfaWQifX0=--1ec3a18b661b8b76fa134ec85da4c07e05a8b08d/180419_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
