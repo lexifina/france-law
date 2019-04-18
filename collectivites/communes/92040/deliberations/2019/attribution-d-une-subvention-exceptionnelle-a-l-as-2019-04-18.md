@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution d'une subvention exceptionnelle à l'association sportive Ararat Issy
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-04-18
+- Matière : FINANCES
+- Objet : Attribution d'une subvention exceptionnelle à l'association sportive Ararat Issy
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1ODAsInB1ciI6ImJsb2JfaWQifX0=--0da641dffc6e1fc9e941f234f8cf61c63974ed45/180419_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
