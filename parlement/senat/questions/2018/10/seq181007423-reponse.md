@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007423
+
+- Question : [SEQ181007423](seq181007423.md) — Communautés de communes et stations classées de tourisme
+
+## Réponse
+
+*Économie et finances, JO du 2019-04-18, page 2135*
+
+Le classement en station de tourisme constitue une reconnaissance de l'excellence de l'offre touristique sur le territoire d'une commune. Celle-ci doit remplir un ensemble de critères précis et contraignants qui exigent un fort investissement en termes de moyens et d'animation de la filière touristique. Les stations de montagne constituent un cas particulier en ce que le périmètre de la station de sports d'hiver, au sommet d'un massif, est partagée sur le territoire de plusieurs communes. Ce cas très particulier est donc traité de manière dérogatoire par l'article L. 134-3 du code du tourisme qui permet le classement d'un groupement de commune ou d'une fraction d'un tel groupement lorsque le territoire est équipé pour la pratique du ski. Toutefois, ce dispositif dérogatoire où le classement est accordé à plusieurs communes sur la base d'une demande unique ne peut bénéficier qu'aux seules communes ayant réellement une vocation touristique et apportant à la station une plus-value en termes d'hébergements ou d'équipements touristiques. Il n'y a pas de justification à étendre automatiquement aux autres communes appartenant au même établissement public de coopération intercommunale les avantages liés au classement en station de tourisme, alors qu'elles ne contribuent pas objectivement à la qualité supérieure de la destination. Dans le cadre d'une demande de classement d'une station intercommunale de tourisme, classement qui n'est à ce jour pas encore intervenu, il convient donc de fixer avec beaucoup de soin le périmètre retenu, afin d'inclure uniquement les communes ayant une vocation touristique dans le cadre de la station de sports d'hiver considérée.
