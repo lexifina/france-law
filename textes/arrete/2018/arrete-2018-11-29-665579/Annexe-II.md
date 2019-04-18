@@ -1,6 +1,6 @@
 # Article Annexe II
 
-ANNEXE II
+NNEXE II
 
 LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 
@@ -32,13 +32,15 @@ Direction générale des étrangers en France |
 
 Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
+Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers. |
+
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
 |
 
 Direction des finances, de la commande publique et de la performance |
 
-Chargé de mission pour la mise en place du centre de services partagés Chorus au sein du bureau du budget de l'Etat. |
+Chef du centre de services partagés Chorus au sein du bureau du budget de l'Etat. |
 
 Direction des ressources humaines |
 
@@ -96,7 +98,7 @@ Directeur des migrations et de l'intégration. |
 
 Seine-et-Marne |
 
-Directeur de la citoyenneté et de la réglementation. |
+Directeur de l'immigration et de l'intégration. |
 
 Directeur de la coordination des services de l'Etat. |
 

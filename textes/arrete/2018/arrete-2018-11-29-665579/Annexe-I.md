@@ -14,11 +14,7 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
@@ -74,7 +70,7 @@ Chef du bureau des titres d'identité et de voyage au sein de la sous-direction 
 
 Chef du bureau du contentieux des étrangers au sein du service du conseil juridique et du contentieux. |
 
-50 |
+60 |
 
 1 |
 
@@ -90,13 +86,19 @@ Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direct
 
 1 |
 
-Adjoint au chef du bureau des polices administratives au sein de la sous-direction des polices administratives. |
+Chef du bureau des établissements de jeux au sein de la sous-direction des polices administratives. |
 
 30 |
 
 1 |
 
-Chef du bureau des établissements de jeux au sein de la sous-direction des polices administratives. |
+Chef de cabinet. |
+
+30 |
+
+1 |
+
+Chef du bureau du droit et du contentieux européen, international et institutionnel au sein de la sous-direction du conseil juridique et du contentieux. |
 
 30 |
 
@@ -198,6 +200,12 @@ Chef du bureau des ressources mutualisées. |
 
 1 |
 
+Chef du bureau de la synthèse budgétaire et des opérateurs au sein de la sous-direction de la synthèse et du pilotage budgétaires. |
+
+30 |
+
+1 |
+
 Direction des ressources humaines |
 
 Chef du bureau du centre national de la formation au sein de la sous-direction du recrutement et de la formation. |
@@ -206,9 +214,9 @@ Chef du bureau du centre national de la formation au sein de la sous-direction d
 
 1 |
 
-Chef du bureau des affaires financières et de l'évaluation de la dépense au sein de sous-direction de l'action sociale et de l'accompagnement du personnel. |
+Chef du bureau des affaires financières et de l'évaluation de la dépense au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
-30 |
+50 |
 
 1 |
 
@@ -274,7 +282,7 @@ Chef de cabinet. |
 
 1 |
 
-Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique. |
+Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique |
 
 30 |
 
@@ -307,12 +315,6 @@ Chef du département des réserves opérationnelles de la police nationale au se
 1 |
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
-
-30 |
-
-1 |
-
-Adjoint au chef du bureau des affaires juridiques et statutaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
 30 |
 
@@ -364,7 +366,9 @@ Chef de la division de la formation aux fonctions administratives, techniques et
 
 50 |
 
-1 |
+1
+
+|
 
 Chef du bureau des politiques sociales. |
 
@@ -384,6 +388,26 @@ Adjoint au chef de la division des finances et de la logistique à la sous-direc
 
 1 |
 
+Chef de la division de la logistique au sein de la sous-direction de la lutte contre la criminalité organisée et de la délinquance financière. |
+
+30 |
+
+1 |
+
+Chef du bureau de la modernisation et de valorisation des ressources humaines à la direction des ressources et des compétences de la police nationale. |
+
+50 |
+
+1 |
+
+Direction générale de la sécurité intérieure |
+
+Un poste. |
+
+50 |
+
+1 |
+
 Direction générale des outre-mer |
 
 Chef du bureau des ressources et de la coordination. |
@@ -398,7 +422,7 @@ Adjoint au chef du bureau du droit public et des affaires institutionnelles à l
 
 1 |
 
-Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'état. |
+Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'Etat. |
 
 30 |
 
@@ -412,13 +436,19 @@ Chef du bureau de la vie économique, de l'emploi et de la formation à la sous-
 
 Direction générale des étrangers en France |
 
-Chef du bureau de la circulation transfrontalière à la sous-direction de la lutte contre l'immigration irrégulière de la direction de l'immigration. |
+Chef du département de l'accès à la procédure d'asile au sein de la direction de l'asile. |
+
+60 |
+
+1 |
+
+Chef du bureau de la gestion mutualisée des fonds européens au sein du service du pilotage et des systèmes d'information. |
 
 30 |
 
 1 |
 
-Chef du département de l'accès à la procédure d'asile au sein de la direction de l'asile. |
+Chef du bureau des décrets de naturalisation au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
 30 |
 
@@ -430,25 +460,25 @@ Adjoint au sous-directeur de l'accès à la nationalité française au sein de l
 
 1 |
 
-Chef du bureau des naturalisations à la sous-direction de l'accès à la nationalité française de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
-
-- |
-
-1 |
-
 Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
 - |
 
 1 |
 
-Délégué général de la commission interministérielle pour le logement des populations immigrées au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+Chef du bureau de l'appui au pilotage au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
 - |
 
 1 |
 
-Chargé de mission budget, finances et affaires générales. |
+Chef du bureau des ressources humaines au sein du service du pilotage et des systèmes d'information. |
+
+- |
+
+1 |
+
+Adjoint au chef du bureau de la rétention et de l'éloignement au sein de la sous-direction de la lutte contre l'immigration irrégulière de la direction de l'immigration. |
 
 - |
 
@@ -476,7 +506,7 @@ Adjoint au chef du département de la maîtrise des risques et du contrôle inte
 
 1 |
 
-Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale. |
+Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
 
 20 |
 
@@ -488,7 +518,19 @@ Chef du bureau de la stratégie de communication interne du service d'informatio
 
 1 |
 
-Délégation à la sécurité et à la circulation routières |
+Chef du bureau de la réglementation et de la fonction militaire au sein de la sous direction de la politique des ressources humaines. |
+
+30 |
+
+1 |
+
+Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous direction de la politique des ressources humaines. |
+
+20 |
+
+1 |
+
+Délégation à la sécurité routière |
 
 Chef du bureau de la réglementation du permis de conduire et de l'organisation des examens à la sous-direction de l'éducation routière et du permis de conduire. |
 
@@ -544,11 +586,7 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
@@ -662,11 +700,7 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
@@ -732,9 +766,15 @@ Chef du service de prospective et de pilotage au sein de la sous-direction des p
 
 1 |
 
+Chef du bureau de la gestion des carrières des gradés, gardiens et adjoints de sécurité au sein de la sous-direction des personnels. |
+
+50 |
+
+1 |
+
 Service des affaires immobilières |
 
-Chef du département juridique et budgétaire. |
+Chef du département juridique et budgétaire |
 
 50 |
 
@@ -796,8 +836,6 @@ Chef du 10e bureau au sein de la sous-direction de l'administration des étrange
 
 1 |
 
-|
-
 Chef du 12e bureau au sein de la sous-direction de l'administration des étrangers. |
 
 60 |
@@ -807,12 +845,6 @@ Chef du 12e bureau au sein de la sous-direction de l'administration des étrange
 Direction des transports et de la protection du public |
 
 Chef du bureau des taxis et des transports publics au sein de la sous-direction des déplacements et de l'espace public. |
-
-50 |
-
-1 |
-
-Chef du bureau des objets trouvés et des scellés au sein de la sous-direction des déplacements et de l'espace public. |
 
 50 |
 
@@ -850,6 +882,12 @@ Chef du service de gestion opérationnelle des personnels et des équipements au
 
 1 |
 
+Chef du bureau de gestion opérationnelle au sein de la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis. |
+
+20 |
+
+1 |
+
 Direction opérationnelle des services techniques et logistiques |
 
 Chef du service des finances, des achats et des moyens, adjoint au sous-directeur des ressources et des compétences. |
@@ -860,7 +898,7 @@ Chef du service des finances, des achats et des moyens, adjoint au sous-directeu
 
 Direction de l'ordre public et de la circulation |
 
-Chef de cabinet. |
+Chef de cabinet |
 
 50 |
 
@@ -868,7 +906,7 @@ Chef de cabinet. |
 
 Direction du renseignement de la préfecture de police |
 
-Chef de la division des affaires générales. |
+Chef de la division des affaires générales |
 
 30 |
 
@@ -882,17 +920,21 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
 13 DDSP des Bouches-du-Rhône |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
+
+30 |
+
+1 |
+
+13 DIPJ des Bouches-du-Rhône |
+
+Chef de la division de la logistique. |
 
 30 |
 
@@ -900,7 +942,7 @@ Chef de service de gestion opérationnelle. |
 
 14 DDSP du Calvados |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 20 |
 
@@ -908,13 +950,21 @@ Chef de service de gestion opérationnelle. |
 
 30 Direction centrale du recrutement et de la formation de la police nationale |
 
-Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud. |
+Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud |
 
 20 |
 
 1 |
 
 33 DDSP de la Gironde |
+
+Chef de service de gestion opérationnelle |
+
+30 |
+
+1 |
+
+34 DDSP de l'Hérault |
 
 Chef de service de gestion opérationnelle. |
 
@@ -924,7 +974,7 @@ Chef de service de gestion opérationnelle. |
 
 44 DDSP de la Loire-Atlantique |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -932,7 +982,7 @@ Chef de service de gestion opérationnelle. |
 
 57 DDSP de la Moselle |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -948,7 +998,7 @@ Chef de service de gestion opérationnelle |
 
 62 DDSP du Pas-de-Calais |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -956,7 +1006,7 @@ Chef de service de gestion opérationnelle. |
 
 67 DDSP du Bas-Rhin |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -964,7 +1014,7 @@ Chef de service de gestion opérationnelle. |
 
 69 DDSP du Rhône |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 50 |
 
@@ -972,7 +1022,7 @@ Chef de service de gestion opérationnelle. |
 
 69 Ecole nationale supérieure de la police |
 
-Secrétaire général. |
+Secrétaire général |
 
 30 |
 
@@ -980,7 +1030,7 @@ Secrétaire général. |
 
 76 DDSP de la Seine-Maritime |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -988,7 +1038,7 @@ Chef de service de gestion opérationnelle. |
 
 77 DDSP de la Seine-et-Marne |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -996,7 +1046,7 @@ Chef de service de gestion opérationnelle. |
 
 78 DDSP des Yvelines |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1004,7 +1054,7 @@ Chef de service de gestion opérationnelle. |
 
 91 DDSP de l'Essonne |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1012,7 +1062,15 @@ Chef de service de gestion opérationnelle. |
 
 95 DDSP du Val-d'Oise |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
+
+30 |
+
+1 |
+
+95 DPAF Roissy |
+
+Chef de la division de l'administration et des finances. |
 
 30 |
 
@@ -1026,17 +1084,21 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
 69 Région zonale de gendarmerie Rhône-Alpes |
 
-Chef du bureau de l'accompagnement du personnel. |
+Chef du bureau de l'accompagnement du personnel |
+
+30 |
+
+1 |
+
+75 Région zonale de gendarmerie d'Ile-de-France |
+
+Chef du bureau des compétences. |
 
 30 |
 
@@ -1050,17 +1112,13 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer |
 
 TA de Paris. |
 
-Greffier en chef. |
+Greffier en chef |
 
 60 |
 
@@ -1068,7 +1126,7 @@ Greffier en chef. |
 
 CAA de Paris. |
 
-Greffier en chef. |
+Greffier en chef |
 
 60 |
 
@@ -1076,7 +1134,7 @@ Greffier en chef. |
 
 CAA de Bordeaux. |
 
-Greffier en chef. |
+Greffier en chef |
 
 60 |
 
@@ -1084,7 +1142,7 @@ Greffier en chef. |
 
 TA de Versailles. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1092,7 +1150,7 @@ Greffier en chef. |
 
 CAA de Versailles. |
 
-Greffier en chef. |
+Greffier en chef |
 
 50 |
 
@@ -1100,7 +1158,7 @@ Greffier en chef. |
 
 TA de Lyon. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1108,7 +1166,7 @@ Greffier en chef. |
 
 CAA de Lyon. |
 
-Greffier en chef. |
+Greffier en chef |
 
 60 |
 
@@ -1116,7 +1174,7 @@ Greffier en chef. |
 
 TA de Nantes. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1124,7 +1182,7 @@ Greffier en chef. |
 
 CAA de Nancy. |
 
-Greffier en chef. |
+Greffier en chef |
 
 50 |
 
@@ -1132,7 +1190,7 @@ Greffier en chef. |
 
 CAA de Nantes. |
 
-Greffier en chef. |
+Greffier en chef |
 
 50 |
 
@@ -1140,7 +1198,7 @@ Greffier en chef. |
 
 TA de Cergy-Pontoise. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1148,7 +1206,7 @@ Greffier en chef. |
 
 TA de Melun. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1156,7 +1214,7 @@ Greffier en chef. |
 
 TA de Grenoble. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1164,7 +1222,7 @@ Greffier en chef. |
 
 TA de Marseille. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1172,7 +1230,7 @@ Greffier en chef. |
 
 CAA de Marseille. |
 
-Greffier en chef. |
+Greffier en chef |
 
 60 |
 
@@ -1180,7 +1238,7 @@ Greffier en chef. |
 
 TA de Lille. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1188,7 +1246,7 @@ Greffier en chef. |
 
 TA de Montreuil. |
 
-Greffier en chef. |
+Greffier en chef |
 
 30 |
 
@@ -1198,15 +1256,11 @@ Greffier en chef. |
 
 Localisation des emplois |
 
-Nombre de postes à forte
-
-responsabilité ouvrant droit à la NBI par taux de NBI |
+Nombre de postes à forte responsabilité ouvrant droit à la NBI par taux de NBI |
 
 Nombre d'emplois
 
 de CAIOM |
-
-|
 
 60 points |
 
@@ -1215,8 +1269,6 @@ de CAIOM |
 30 points |
 
 20 points |
-
-|
 
 01 Ain |
 
@@ -1584,23 +1636,23 @@ de CAIOM |
 
 - |
 
-3 |
+4 |
 
 - |
 
-3 |
+4 |
 
 31 Haute-Garonne |
 
 - |
 
-6 |
+7 |
 
 - |
 
 - |
 
-6 |
+7 |
 
 32 Gers |
 
@@ -1764,11 +1816,11 @@ de CAIOM |
 
 - |
 
-4 |
+5 |
 
 - |
 
-4 |
+5 |
 
 46 Lot |
 
@@ -2052,11 +2104,11 @@ de CAIOM |
 
 - |
 
-- |
+1 |
 
 - |
 
-7 |
+8 |
 
 70 Haute-Saône |
 
@@ -2144,7 +2196,7 @@ de CAIOM |
 
 77 Seine-et-Marne |
 
-6 |
+7 |
 
 - |
 
@@ -2152,7 +2204,7 @@ de CAIOM |
 
 - |
 
-6 |
+7 |
 
 78 Yvelines |
 
@@ -2362,9 +2414,9 @@ de CAIOM |
 
 5 |
 
-- |
-
 1 |
+
+- |
 
 - |
 
