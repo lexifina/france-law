@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif aux prestations d’audit, d’archivage, de destruction et d’externalisation de la conservation des archives courantes et intermédiaires de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-04-18
+- Matière : PATRIMOINE,PROTOCOLE, ANIMATION ET EVENEMENTIEL
+- Objet : Lancement d’un appel d’offres ouvert relatif aux prestations d’audit, d’archivage, de destruction et d’externalisation de la conservation des archives courantes et intermédiaires de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5ODUsInB1ciI6ImJsb2JfaWQifX0=--e707498ffa6500d25560663efac57b45565fc551/180419_34.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
