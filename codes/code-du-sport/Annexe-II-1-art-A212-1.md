@@ -1478,6 +1478,46 @@ Encadrement, animation et initiation d'activités de pêche de loisirs et sporti
 
 |
 
+BP JEPS, spécialité "éducateur sportif", mention "voile multi-supports jusqu'à 6 milles nautiques d'un abri". |
+
+Encadrement et animation d'activités de découverte et d'initiation de la voile sur l'ensemble des supports.
+
+Entraînement jusqu'au niveau de compétition national, sur l'ensemble des supports voile.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion de l'activité croisière.
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+BP JEPS, spécialité "éducateur sportif", mention "voile croisière jusqu'à 200 milles nautiques d'un abri". |
+
+Encadrement et animation d'activités de découverte et d'initiation en voile croisière. Entraînement jusqu'au niveau de compétition national en voile croisière. Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des embarcations légères.
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+Certificats complémentaires (CC) associés au BP JEPS, spécialité "éducateur sportif" |
+
+Certificat complémentaire
+
+"voile multi-supports à moins de 6 milles nautiques d'un abri". |
+
+Encadrement et animation d'activités de découverte et d'initiation de la voile sur l'ensemble des supports. Entraînement jusqu'au niveau de compétition national, sur l'ensemble des supports voile.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+Certificat complémentaire "voile croisière jusqu'à 200 milles nautiques d'un abri". |
+
+Encadrement et animation d'activités de découverte et d'initiation en voile croisière.
+
+Entraînement jusqu'au niveau de compétition national, en voile croisière. Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
 C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
 
 supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
@@ -1848,6 +1888,52 @@ A l'exclusion du temps scolaire contraint.
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
+D-5. - Titres à finalité professionnelle délivrés par la Fédération française de handball
+
+INTITULÉ DU TITRE |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Educateur de handball, mention "entraîneur territorial". |
+
+Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage et d'entraînement de joueurs et d'équipes de handball jusqu'au plus haut niveau régional. |
+
+|
+
+Educateur de handball, mention "animateur des pratiques socio-éducatives et sociétales".
+
+|
+
+Encadrement, conception et conduite de séances d'animation, de cycles d'initiation, d'apprentissage de tout public, dans les différentes offres de pratique de handball. |
+
+|
+
+Entraîneur de handball.
+
+|
+
+Encadrement, enseignement, entraînement en handball jusqu'au niveau national. |
+
+|
+
+Entraîneur de handball du secteur professionnel, mention "entraîneur professionnel".
+
+|
+
+Encadrement, enseignement et entraînement de joueurs et joueuses professionnels en handball, dans une équipe professionnelle ou auprès d'une sélection nationale. |
+
+|
+
+Entraîneur de handball du secteur professionnel, mention "entraîneur-formateur".
+
+|
+
+Encadrement, enseignement et entraînement de joueurs en formation en handball, dans une structure de formation d'un club professionnel ou fédérale. |
+
+|
+
 E. - Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
@@ -1938,17 +2024,11 @@ Sur des parcours connus et reconnus.
 
 CQP "animateur de tir à l'arc". |
 
-Encadrement en autonomie du tir à l'arc, par la découverte et l'animation. |
+Encadrement en autonomie des activités d'animation de tir à l'arc pour tout public. |
 
-Dans la limite de 12 pratiquants ;
+Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat.
 
-Durant la période allant du début des vacances de printemps à la fin des vacances d'été, conformément aux dates du calendrier des vacances scolaires fixé par les ministères de l'enseignement supérieur et de l'éducation nationale ;
-
-A l'exclusion du temps scolaire contraint ;
-
-Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
-
-|
+Dans la limite de 6 pratiquants par groupe, pour le tir en parcours. |
 
 CQP "assistant moniteur de voile". |
 
@@ -2382,6 +2462,14 @@ Encadrement de séances collectives de tennis de table, de l'initiation jusqu'au
 
 |
 
+CQP "moniteur de tennis de table".
+
+|
+
+Encadrement de séances collectives de tennis de table de l'initiation, jusqu'aux premiers niveaux de compétition inclus. |
+
+|
+
 CQP "moniteur de tir sportif".
 
 |
@@ -2696,57 +2784,63 @@ Encadrement de séances collectives ou individuelles d'entraînement et de perfe
 
 Dans la limite de douze pratiquants. |
 
-CQP "moniteur de roller sports", options : "patinage artistique et danse", "course", "rink-hockey", "roller hockey", "roller freestyle", "roller randonnée" et "roller derby".
+CQP "moniteur de roller sports", options : "patinage artistique et danse", "course", "rink-hockey", "roller hockey", "roller freestyle", "roller randonnée" et "roller derby". |
 
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options. Encadrement en autonomie dans l'option considérée, jusqu'aux premiers niveaux de compétition inclus.
-
-|
+Initiation aux activités du roller sports dans l'ensemble des options. Encadrement en autonomie dans l'option considérée, jusqu'aux premiers niveaux de compétition inclus. |
 
 Dans la limite de vingt pratiquants.
 
 Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte, milieu urbain et skatepark.
 
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
 
-|
+CQP "moniteur de roller sports", option "skateboard" |
 
-CQP "moniteur de roller sports", option "skateboard"
-
-|
-
-Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus.
-
-|
+Encadrement en autonomie du skateboard, jusqu'aux premiers niveaux de compétition inclus. |
 
 Dans la limite de 20 pratiquants.
 
-Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark.
+Dans des espaces dédiés : gymnase, plateau sportif, piste de roller, voie verte et skatepark. |
+
+CQP "animateur de tennis". |
+
+Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au padel. |
+
+A l'exclusion de l'entraînement et des pratiques compétitives. |
+
+CQP "éducateur de tennis". |
+
+Initiation au tennis en cours collectifs pour tout public. |
+
+A l'exclusion de l'entraînement et des pratiques compétitives. |
+
+CQP "initiateur voile".
 
 |
 
-CQP "animateur de tennis".
+Animation et initiation de la voile sur l'ensemble des supports, jusqu'au premier niveau de compétition.
+
+Encadrement et animation du stand up paddle (SUP) |
+
+Sous l'autorité d'un titulaire :
+
+- d'une certification professionnelle d'encadrement des activités physiques ou sportives en voile de niveau IV ou supérieur
+
+ou
+
+- d'une certification professionnelle d'encadrement des activités physiques ou sportives de niveau IV minimum et d'un CQP "initiateur voile".
+
+Cette autorité s'exerce sur un nombre maximal de 10 titulaires du CQP et dans la limite de 140 pratiquants.
+
+Dans la limite de 60 milles nautiques pour l'activité croisière.
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+CQP "animateur de course d'orientation".
 
 |
 
-Encadrement de séances de découverte du tennis en cours collectifs pour tout public. Initiation au beach-tennis et au padel.
-
-|
-
-A l'exclusion de l'entraînement et des pratiques compétitives.
-
-|
-
-CQP "éducateur de tennis".
-
-|
-
-Initiation au tennis en cours collectifs pour tout public.
-
-|
-
-A l'exclusion de l'entraînement et des pratiques compétitives.
+Animation et initiation des activités de course d'orientation jusqu'au niveau jaune de compétition départementale. |
 
 |
 
