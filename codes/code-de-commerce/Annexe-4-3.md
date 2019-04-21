@@ -14,7 +14,7 @@ d) La liste des Etats dans lesquels l'opération a été ou sera notifiée et le
 
 e) Le cas échéant, le mandat des conseils ou personnes chargées de la notification ;
 
-f) Un résumé de l'opération ne contenant ni information confidentielle ni secret d'affaires, destiné à être publié sur le site internet du ministre chargé de l'économie en application de l'article L. 430-3.
+f) Un résumé de l'opération ne contenant ni information confidentielle ni secret d'affaires, destiné à être publié sur le site internet de l'Autorité de la concurrence en application de l'article L. 430-3.
 
 2. Présentation des entreprises concernées et des groupes auxquels elles appartiennent, comprenant, pour chacune des entreprises ou groupes :
 
@@ -48,7 +48,7 @@ Un marché concerné est considéré comme affecté :
 
 -si deux ou plusieurs entreprises ou groupes visés au point 2 du présent formulaire exercent des activités sur ce marché et que leurs parts cumulées atteignent 25 % ou plus ;
 
--ou si une entreprise au moins visée au point 2 exerce des activités sur ce marché et qu'une autre de ces entreprises ou groupe exerce des activités sur un marché situé en amont ou en aval ou connexe, qu'il y ait ou non des relations de fournisseur à client entre ces entreprises, dès lors que, sur l'un ou l'autre de ces marchés, l'ensemble des entreprises ou groupes visés au point 2 atteignent 25 % ou plus.
+-ou si une entreprise au moins visée au point 2 exerce des activités sur ce marché et qu'une autre de ces entreprises ou groupe exerce des activités sur un marché situé en amont ou en aval ou connexe, qu'il y ait ou non des relations de fournisseur à client entre ces entreprises, dès lors que, sur l'un ou l'autre de ces marchés, l'ensemble des entreprises ou groupes visés au point 2 atteignent 30 % ou plus.
 
 Un marché peut également être affecté du fait de la disparition d'un concurrent potentiel due à l'opération.
 

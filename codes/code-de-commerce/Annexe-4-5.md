@@ -12,29 +12,21 @@ Exercice
 
 N
 
-clos le :
-
-|
+clos le : |
 
 Exercice
 
 N-1
 
-clos le :
-
-|
+clos le : |
 
 Exercice
 
 N-2
 
-clos le :
+clos le : |
 
-|
-
-Comptes de résultat
-
-|
+Comptes de résultat |
 
 |
 
@@ -42,21 +34,15 @@ Comptes de résultat
 
 |
 
-|
+Chiffre d'affaires total hors taxes
 
-|
+Chiffre d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne
 
-|
-
-Chiffres d'affaires total hors taxes
-
-Chiffres d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne
-
-Chiffre d'affaire hors taxes réalisé auprès des clients situés en France
+Chiffre d'affaires hors taxes réalisé auprès des clients situés en France
 
 Valeur ajoutée brute
 
-Excédent brut d'exploitation
+Excédent brut d'exploitation |
 
 |
 
@@ -64,47 +50,23 @@ Excédent brut d'exploitation
 
 |
 
-|
+Eléments du bilan |
 
-|
+Brut |
 
-|
+Net |
 
-|
+Brut |
 
-Eléments du Bilan
+Net |
 
-|
+Brut |
 
-Brut
-
-|
-
-Net
-
-|
-
-Brut
-
-|
-
-Net
-
-|
-
-Brut
-
-|
-
-Net
-
-|
+Net |
 
 Immobilisations incorporelles utilisées pour l'activité
 
-Immobilisations corporelles utilisées pour l'activité
-
-|
+Immobilisations corporelles utilisées pour l'activité |
 
 |
 
@@ -125,52 +87,6 @@ Disponibilités relatives à l'activité
 Dettes financières relatives à l'activité
 
 Autres dettes relatives à l'activité
-
-|
-
-|
-
-|
-
-|
-
-Investissement et cessions
-
-|
-
-|
-
-|
-
-|
-
-Acquisition d'immobilisations corporelles et incorporelles
-
-Prix de cessions des immobilisations corporelles et incorporelles cédées
-
-|
-
-|
-
-|
-
-|
-
-Autres renseignements
-
-|
-
-|
-
-|
-
-|
-
-Dépenses de recherche et développement
-
-Dépenses de publicité
-
-Effectifs moyens
 
 |
 
