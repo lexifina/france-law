@@ -1,23 +1,85 @@
 # Article Annexe V
 
-Dispense d'épreuve du CAP Accompagnant éducatif petite enfance (AEPE)
+Dispenses d'épreuves du CAP Accompagnement éducatif petite enfance (AEPE)
 
 Epreuves du CAP AEPE |
 
-Ministère des sports
+Certificat professionnel de
 
-Certificat professionnel de la jeunesse, de l'éducation populaire et du sport (CP JEPS) mention "animateur d'activités et de vie quotidienne" |
+la jeunesse, de l'éducation populaire et du sport (CP JEPS)
 
-EP 1 : Accompagner le développement du jeune enfant |
+mention "animateur d'activités et de vie quotidienne" |
+
+Titre Assistant (e) de vie
+
+aux familles |
+
+Brevet d'études professionnelles agricoles Services aux personnes |
+
+CAP Services aux
+
+personnes et vente en espace rural |
+
+BEP
+
+Accompagnement, soins et services à la personne |
+
+Mention
+
+complémentaire Aide à domicile |
+
+Ministère responsable de la certification |
+
+Sports |
+
+Emploi |
+
+Agriculture et alimentation |
+
+Agriculture et alimentation |
+
+Education nationale et jeunesse |
+
+Education nationale et jeunesse |
+
+EP1 : Accompagner le développement |
 
 |
 
-EP2 : Exercer son activité en accueil collectif |
+Dispense |
 
-Les titulaires du CP JEPS mention "animateur d'activités et de vie quotidienne" sont dispensés de l'EP2 du CAP AEPE (*) |
+Dispense |
 
-EP3 : exercer son activité en accueil individuel |
+Allègement |
+
+Dispense |
 
 |
 
-(*) Dispense accordée. |
+EP2 : Exercer son activité en accueil |
+
+Dispense |
+
+|
+
+|
+
+|
+
+Dispense |
+
+|
+
+EP3 : Exercer son activité en accueil individuel |
+
+|
+
+Dispense |
+
+Dispense |
+
+Dispense |
+
+|
+
+Dispense |
