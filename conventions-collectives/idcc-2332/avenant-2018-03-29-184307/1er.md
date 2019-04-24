@@ -1,0 +1,11 @@
+# Article 1er
+
+Le préambule est modifié comme suit :
+
+« Préambule
+
+La présente convention collective nationale des entreprises d'architecture élargie à la maîtrise d'œuvre affirme que l'exercice réglementé de la profession d'architecte exige de celles et ceux qui participent à cette activité l'apport de toutes leurs qualités, tant humaines que professionnelles, en vue de faire face aux nécessités liées à l'évolution des techniques et des besoins de la société.
+
+Cette convention collective nationale définit les rapports entre employeurs et salariés des entreprises relevant du champ défini à l'article I. 2, quelle que soit leur forme juridique.
+
+Elle se fonde notamment sur le respect d'une déontologie, à travers l'accomplissement intégral des devoirs professionnels, sur la défense de l'intérêt public dans la mise en œuvre de l'architecture et de l'aménagement du territoire, ainsi qu'à travers les droits et devoirs concourant à une optimisation des conditions de travail, la valorisation et le renforcement des compétences afin de faciliter l'amélioration permanente des entreprises et de les doter des capacités indispensables pour leur assurer pertinence et compétitivité. »
