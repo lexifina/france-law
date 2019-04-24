@@ -1,0 +1,93 @@
+# Restauration de Notre-Dame de Paris
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37436
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/souscription_nationale_restauration_notre-dame_paris
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-492.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-04-24 : 1er dépôt d'une initiative. (PRJLANR5L15B1881)
+  - 2019-04-24 : Etude d'impact (ETDIANR5L15B1881)
+  - 2019-04-24 : Avis du Conseil d'Etat (AVCEANR5L15B1881)
+  - 2019-04-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-24 : Renvoi en commission au fond
+      - 2019-04-29 : Nomination de rapporteur
+      - 2019-04-29 : Réunion de commission
+      - 2019-05-02 : Réunion de commission
+      - 2019-05-10 : Réunion de commission
+      - 2019-05-02 : Dépôt de rapport (RAPPANR5L15B1918, PRJLANR5L15BTC1918)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-24 : Saisine pour avis d'une commission
+      - 2019-04-29 : Nomination de rapporteur
+      - 2019-04-29 : Réunion de commission
+      - 2019-04-29 : Réunion de commission
+      - 2019-04-30 : Dépôt de rapport (AVISANR5L15B1885)
+  - Discussion en séance publique
+    - 2019-05-10 : Discussion en séance publique
+    - 2019-05-10 : Discussion en séance publique
+    - 2019-05-10 : Discussion en séance publique
+    - 2019-05-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-05-13 : Dépôt d'une initiative en navette (PRJLSNR5S319B0492)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-05-22 : Dépôt de rapport (RAPPSNR5S319B0521, PRJLSNR5S319BTC0522)
+    - Travaux d'une commission saisie pour avis
+      - 2019-04-30 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-05-22 : Dépôt de rapport (AVISSNR5S319B0519)
+  - Discussion en séance publique
+    - 2019-05-27 : Discussion en séance publique
+    - 2019-05-28 : Discussion en séance publique
+    - 2019-05-27 : Décision
+- Commission Mixte Paritaire
+  - 2019-05-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-06-04 : Nomination de rapporteur
+    - 2019-06-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B1987)
+    - 2019-06-04 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0543, PRJLSNR5S319BTC0544)
+  - 2019-06-05 : Décision de la CMP
+- Nouvelle Lecture
+  - 2019-05-28 : Dépôt d'une initiative en navette (PRJLANR5L15B1980)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-05-28 : Renvoi en commission au fond
+      - 2019-06-26 : Réunion de commission
+      - 2019-07-02 : Réunion de commission
+      - 2019-06-26 : Dépôt de rapport (RAPPANR5L15B2073, PRJLANR5L15BTC2073)
+    - Travaux d'une commission saisie pour avis
+      - 2019-06-14 : Saisine pour avis d'une commission
+      - 2019-04-29 : Nomination de rapporteur
+      - 2019-06-25 : Réunion de commission
+      - 2019-06-25 : Dépôt de rapport (AVISANR5L15B2072)
+  - Discussion en séance publique
+    - 2019-07-02 : Discussion en séance publique
+    - 2019-07-02 : Discussion en séance publique
+    - 2019-07-02 : Décision
+- Nouvelle Lecture
+  - 2019-07-03 : Dépôt d'une initiative en navette (PRJLSNR5S319B0627)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-03 : Renvoi en commission au fond
+      - 2019-07-08 : Dépôt de rapport (RAPPSNR5S319B0640, PRJLSNR5S319BTC0641)
+  - Discussion en séance publique
+    - 2019-07-10 : Discussion en séance publique
+    - 2019-07-10 : Décision
+- Lecture définitive
+  - 2019-07-11 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0303)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-11 : Renvoi en commission au fond
+      - 2019-07-16 : Réunion de commission
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Décision
+- Promulgation de la loi
+  - 2019-07-29 : Promulgation d'une loi
