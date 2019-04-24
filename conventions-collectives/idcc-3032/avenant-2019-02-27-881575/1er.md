@@ -1,0 +1,43 @@
+# Article 1er
+
+L'article 5 est modifié comme suit :
+
+« Peuvent adhérer au régime à titre facultatif en réglant leur cotisation les ayants droit adulte ou enfant :
+
+– le conjoint, partenaire lié par un Pacs ou concubin n'ayant pas de revenu d'activité supérieur au montant du RSA (base « couple », indépendamment du nombre d'enfant (s) à charge) ;
+
+– les enfants du participant, de son conjoint, de son partenaire lié par un Pacs ou de son concubin, s'ils sont effectivement à la charge du participant, c'est-à-dire si celui-ci pourvoit à leurs besoins et assure leur entretien, et satisfaisant à l'une des conditions suivantes :
+
+–– être âgés de moins de 18 ans, non salariés, ayant la qualité d'ayant droit au sens de la sécurité sociale du participant, de son conjoint, de son partenaire lié par un Pacs ou de son concubin ;
+
+Cas particulier des enfants âgés de 18 ans à moins de 21 ans, non salariés et ayant la qualité d'ayant droit au sens de la sécurité sociale du participant, de son conjoint, de son partenaire lié par un Pacs ou de son concubin, dans le cadre de la réforme de la protection maladie universelle : ces ayants droit majeurs déjà à charge au sens de la sécurité sociale au 1er janvier 2016 conservent la qualité d'ayant droit au sens de la sécurité sociale pendant la période transitoire instaurée par la protection maladie universelle et au plus tard jusqu'au 31 décembre 2019 tant que leur situation ne subit pas de changement durant cette période ;
+
+–– être âgés de moins de 21 ans, être non-salariés, bénéficier d'une immatriculation en propre en tant qu'assuré du régime de sécurité sociale et reconnus à charge par l'administration fiscale du participant ;
+
+–– être âgés de moins de 26 ans et :
+
+––– être à la recherche d'un premier emploi et inscrits à ce titre au Pôle emploi ;
+
+––– ou exercer une activité rémunérée leur procurant un revenu mensuel inférieur au RSA mensuel ;
+
+––– ou bénéficier d'un contrat d'apprentissage ou de professionnalisation sous réserve de fournir annuellement tout justificatif de leur situation ;
+
+–– être âgés de moins de 26 ans, être non-salariés, reconnus à charge par l'administration fiscale ou non imposables et justifier de la poursuite d'études secondaires ou supérieures à temps plein dans un établissement public ou privé ;
+
+–– quel que soit leur âge, sous réserve qu'ils soient atteints d'une infirmité telle qu'ils ne peuvent se livrer à aucune activité rémunératrice et que l'invalidité ait été reconnue avant leur 21e anniversaire ;
+
+– les enfants remplissant l'une des conditions énumérée ci-dessus au titre desquels le salarié verse une pension alimentaire venant en déduction dans le calcul de l'impôt sur le revenu ;
+
+– les enfants à naître au moment du décès du salarié. Ne peuvent être considérés comme enfants à naître que les enfants qui sont nés viables, dans les 300 jours du décès du participant ;
+
+– les ascendants, descendants du participant ou ceux de son conjoint, concubin, partenaire lié par un Pacs, vivant sous le toit du participant sous réserve de fournir annuellement tout justificatif de leur situation.
+
+–– cas particulier des ascendants et descendants figurant sur la carte de sécurité sociale du participant ou de son conjoint ou de son partenaire lié par un Pacs ou de son concubin, dans le cadre de la réforme de la protection universelle maladie : ces ayants droit à charge au sens de la sécurité sociale pendant la période transitoire instaurée par la protection universelle maladie et au plus tard jusqu'au 31 décembre 2019 tant que leur situation ne subit pas de changement durant cette période. Ils sont considérés comme personne à charge au titre du présent contrat.
+
+Concernant les personnes couvertes à titre facultatif, les droits à garanties sont ouverts au plus tôt :
+
+– à la même date que ceux du salarié si le choix est fait lors de l'affiliation de ce dernier ;
+
+– au premier jour du mois qui suit la date de réception par l'organisme assureur de la demande d'extension si elle est faite à une date différente de l'affiliation du salarié.
+
+En tout état de cause, les personnes couvertes à titre facultatif par l'extension du régime bénéficient du même niveau de garanties que le salarié. La cotisation finançant l'extension de la garantie frais de santé aux ayants droit est à la charge exclusive du salarié. Elle doit être payée à l'organisme assureur. »
