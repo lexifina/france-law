@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203015
+
+- Question : [SEQ180203015](seq180203015.md) — Mention « viande halal »
+
+## Réponse
+
+*Économie et finances, JO du 2019-04-25, page 2251*
+
+Le règlement (CE) n° 1099/2009 du Conseil du 24 septembre 2009 sur la protection des animaux au moment de leur mise à mort et le code rural et de la pêche maritime (article R. 214-70) prescrivent l'obligation d'étourdissement des animaux avant leur abattage, à l'exception notamment de l'abattage rituel. L'autorisation de déroger à l'obligation d'étourdissement, lorsque celui-ci n'est pas compatible avec les prescriptions rituelles relevant du libre exercice du culte, résulte du respect du principe de laïcité inscrit dans la constitution française. Afin de limiter cette pratique, les exploitants des abattoirs doivent, conformément à l'arrêté du 28 décembre 2011 relatif aux conditions d'autorisation des établissements d'abattage à déroger à l'obligation d'étourdissement, tenir à jour un système d'enregistrement permettant de vérifier que l'usage de la dérogation correspond bien à des commandes commerciales ou à des ventes qui le nécessitent. L'abattage sans étourdissement est considéré comme nécessaire dès lors qu'une partie au moins de la carcasse est destinée au circuit rituel. Les enregistrements sont mis à disposition des services vétérinaires qui vérifient la bonne tenue des registres et la véracité des informations. Les obligations en termes d'étiquetage des viandes ressortent du domaine harmonisé des règles d'information fixées par l'Union européenne. Les produits issus d'animaux abattus sans étourdissement préalable sont soumis aux dispositions générales d'étiquetage, de composition et de conformité du règlement (UE) n° 1169/2011 relatif à l'information des consommateurs sur les denrées alimentaires. Le principe de l'étiquetage obligatoire des viandes suivant le mode d'abattage des animaux n'a pas été retenu lors du vote de ce règlement.
