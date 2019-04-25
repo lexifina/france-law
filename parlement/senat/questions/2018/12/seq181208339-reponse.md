@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208339
+
+- Question : [SEQ181208339](seq181208339.md) — Prélèvements sur un compte bancaire étranger pour l'acquittement de l'impôt sur la fortune immobilière
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-04-25, page 2245*
+
+La loi de finances pour 2016 a fixé le seuil à partir duquel les usagers doivent payer leur impôt de manière dématérialisée à 10 000 € en 2016, 2 000 € en 2017, 1 000 € en 2018 et 300 € en 2019 - article 1681 sexies du code général des impôts (CGI). En application de l'article 1738 du CGI, une pénalité de 0,2 % d'un montant minimal de 15 euros est encourue en cas de non-respect de cette obligation. Il existe trois moyens de paiement dématérialisé : le paiement direct en ligne, le prélèvement mensuel et le prélèvement à l'échéance. Concernant le paiement de l'impôt sur la fortune immobilière, seul le paiement direct en ligne est actuellement possible, la souscription d'un contrat de prélèvement mensuel ou à l'échéance ne pouvant pas être proposée à ce stade, pour des raisons techniques. Ce paiement en ligne peut être effectué à partir d'un compte bancaire français ou étranger de la zone SEPA, dès lors que l'établissement bancaire teneur du compte accepte les prélèvements SEPA. Attentif aux difficultés rencontrées, le ministre de l'action et des comptes publics a demandé à l'administration fiscale de procéder à l'annulation de la majoration de 0,2 % pour défaut de paiement par un mode de paiement non dématérialisé en 2018, dans le cadre du paiement de leur taxe foncière et de leur taxe d'habitation. Cette mesure de bienveillance est maintenue pour toutes les impositions émises au cours de l'année 2019. Enfin, la loi pour un État au service d'une société de confiance prévoit que les contribuables personnes physiques qui résident dans des zones blanches sont dispensés de l'obligation de télépaiement de leurs impôts jusqu'au 31 décembre 2024.
