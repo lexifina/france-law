@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309500
+
+- Question : [SEQ190309500](seq190309500.md) — Faible compensation par l'État du coût des recensements pour les communes
+
+## Réponse
+
+*Économie et finances, JO du 2019-04-25, page 2269*
+
+Le recensement de la population permet de calculer les populations légales de chaque commune et de produire des données socio-démographiques fines pour chacune d'entre elles. Ces données sont utiles aux acteurs publics et répondent à de nombreux besoins locaux. Le recensement est ainsi considéré comme une opération à coût partagé entre l'Insee et les communes. Dans un contexte général contraint sur les finances publiques, l'Insee met tout en œuvre pour alléger la charge de travail des communes et réduire le coût du recensement. Le recensement par internet constitue une des principales mesures permettant de réduire ce coût. En 2019, 60 % de la population concernée par l'enquête a répondu par internet, évitant ainsi de nombreux déplacements aux agents recenseurs. D'autres initiatives de dématérialisation ont également été mises en place récemment pour continuer à réaliser des économies, ainsi qu'une innovation actuellement en test permettant de réaliser une partie de l'enquête par dépôt de documents dans les boîtes aux lettres, permettant de réduire encore la charge de travail des agents recenseurs. Parallèlement, l'Insee et la Commission nationale d'évaluation du recensement de la population (CNERP) restent attentifs aux questions de coût des enquêtes de recensement. Une précédente étude sur ce sujet avait été réalisée en 2007-2008 et montré un partage de l'ordre de 50 % entre les communes et 50 % entre l'État. Cette démarche sera réactualisée cette année et abordera de manière large les coûts du recensement et les allègements de charge qui pourraient encore être mis en œuvre. La CNERP y sera associée et les résultats seront débattus en son sein.
