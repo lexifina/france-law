@@ -318,7 +318,7 @@ Entreprise générale d'isolation Edouard POUJAUD, 30, avenue Mirabeau, La Mède
 
 Eternit, établissement de Caronte, Croix-Sainte, 13500 Martigues : de 1957 à 1978 ;
 
-Heraud SA, La Malautière, RN 7, 84700 Sorgues : de 1945 à 1984 ;
+SOCIETE METALLURGIQUE HERAUD FRERES (n° SIRET 28684129002), puis SOCIETE HERAUD (n° SIRET 28684129002), puis HERAUD SA (n° SIRET 542620372), puis SOCIETE ERO (n° SIRET 542620372), La Malautière, RN 7, 84700 SORGUES, de 1945 à 1984 ;
 
 Isolfeu 13/Wanner, 13220 Châteauneuf-lès-Martigues : de 1944 à 1966 ;
 
