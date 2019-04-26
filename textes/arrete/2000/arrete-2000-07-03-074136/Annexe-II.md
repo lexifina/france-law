@@ -566,6 +566,10 @@ Wanner/ Wanner Isofi Isolation/ Wanner Industrie, ancienne route de Duclair, 763
 
 WITCO, rue Gravetel, 76320 Saint-Pierre-lès-Elbeuf, de 1972 à 1989.
 
+Occitanie
+
+La Cellulose d'Aquitaine (CDA) SIRET N° 54578061100012, puis Société d'Exploitation de la cellulose d'Aquitaine (SECA) SIRET N° 32085272600027, puis La Cellulose du Rhône et d'Aquitaine (CDRA) SIRET N° 54207272300019 et SIRET N° 54207272300035, puis PyrénéCell (Saint-Gaudens) SIRET N° 39931827800021, puis TEMBEC Saint-Gaudens SA SIRET N° 39931827800021, puis FIBRE EXCELLENCE SIRET N° 39931827800021. Usine de Saint-Gaudens, Rue du Président-Saragat, 31800 SAINT-GAUDENS : De 1958 à 1998
+
 Pays de la Loire
 
 ACB/ Alstom Fluides et Mécanique, boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1986 à 1990 ;
