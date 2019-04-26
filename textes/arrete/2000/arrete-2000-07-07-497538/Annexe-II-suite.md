@@ -1060,6 +1060,14 @@ Société méditerranéenne de carénage (SOMECAR) :
 
 - centre de réparation navale Mourepiane, 13016 Marseille : de 1981 à 1992.
 
+Société Méditerranéenne Electricité Electronique Electrotechnique - M3E
+
+17B boulevard Arthur Michaud
+
+13015 Marseille
+
+(SIRET N° 423 082 593 00033) : De 1999 à 2010
+
 Société nationale Corse-Méditerranée (SNCM) 61, boulevard des Dames, 18, rue Mazenod, 17, avenue Robert-Schuman, 13002 Marseille : De 1950 à 2014.
 
 Société nationale Corse-Méditerranée (SNCM), 42, rue Ruffi, bât. G, CS 50372, 13331 Marseille Cedex 03 et 13003 Marseille, Hangar 216, porte 4, GPMM 13315 Marseille et 13003 Marseille : A compter de l'année 2014.
