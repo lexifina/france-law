@@ -570,11 +570,11 @@ Chaufferie de l'Ile-d'Amour
 
 FR000000000000393 |
 
-AHLSTROM Brignoud
+AHLSTROM-MUNKSJÖ BRIGNOUD
 
 |
 
-AHLSTROM Brignoud
+AHLSTROM-MUNKSJÖ BRIGNOUD
 
 |
 
@@ -894,11 +894,11 @@ CENTRE HOSPITALIER LE VINATIER
 
 FR000000000000410 |
 
-Lafarge Ciments
+LAFARGEHOLCIM CIMENTS
 
 |
 
-Lafarge Ciments - usine de Val-d'Azergues
+LAFARGEHOLCIM CIMENTS-Usine de Val d'Azergues
 
 |
 
@@ -1024,21 +1024,21 @@ Arkema
 
 37 180 |
 
-36 455 |
+25 002 |
 
-35 720 |
+24 498 |
 
-34 985 |
+23 995 |
 
-300 164 |
+266 499 |
 
 FR000000000000416 |
 
-IMERYS TOITURE
+EDILIANS
 
 |
 
-IMERYS TOITURE site de Quincieux
+EDILIANS site de quincieux
 
 |
 
@@ -1118,11 +1118,11 @@ Rhodia Opérations usine de Saint-Fons
 
 FR000000000000419 |
 
-IMERYS TC SAS
+EDILIANS
 
 |
 
-IMERYS TC site de Sainte-Foy-l'Argentière
+EDILIANS Site de Ste Foy l'Argentière
 
 |
 
@@ -1980,11 +1980,11 @@ Usine NovaCarb de La Madeleine
 
 FR000000000000459 |
 
-LONGLAVILLE DURAFIBER TECHNOLOGIES (DFT) SAS
+GLANZSTOFF LONGLAVILLE SAS
 
 |
 
-DURAFIBER TECHNOLOGIES SAS-Longlaville
+GLANZSTOFF établissement de LONGLAVILLE
 
 |
 
@@ -3686,11 +3686,11 @@ FR000000000000534
 
 |
 
-Lafarge Ciments
+LAFARGEHOLCIM CIMENTS
 
 |
 
-Lafarge Ciments - usine de Saint-Pierre-La-Cour
+LAFARGEHOLCIM CIMENTS-Usine de Saint Pierre La Cour
 
 |
 
@@ -3800,23 +3800,23 @@ Terminal méthanier de Montoir de Bretagne
 
 |
 
-1 651
+18 104
 
 |
 
-1 394
+15 286
 
 |
 
-1 145
+12 560
 
 |
 
-906
+9 936
 
 |
 
-51 423
+102 213
 
 |
 
@@ -4974,9 +4974,9 @@ CPCU-Saint-Ouen III à St-Ouen 93
 
 FR000000000000593 |
 
-Lafarge Ciments |
+LAFARGEHOLCIM CIMENTS |
 
-Lafarge Ciments - usine de Contes |
+LAFARGEHOLCIM CIMENTS-Usine de Contes |
 
 245 941 |
 
@@ -5670,9 +5670,9 @@ Raffinerie de Berre
 
 FR000000000000625 |
 
-ASCO INDUSTRIE |
+ASCOMETAL FOS-SUR-MER SAS |
 
-ASCO Industrie-Usine de Fos |
+Usine de Fos |
 
 76 802 |
 
@@ -5954,9 +5954,9 @@ Centrale de cogénération SETHELEC d'Arles |
 
 FR000000000000639 |
 
-Lafarge Ciments |
+LAFARGEHOLCIM CIMENTS |
 
-Lafarge Ciments - usine de La Malle |
+LAFARGEHOLCIM CIMENTS-Usine de La Malle |
 
 393 400 |
 

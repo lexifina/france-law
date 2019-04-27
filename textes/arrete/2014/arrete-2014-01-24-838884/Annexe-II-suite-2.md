@@ -2240,11 +2240,11 @@ FR000000000000789
 
 |
 
-Lafarge Ciments
+LAFARGEHOLCIM CIMENTS
 
 |
 
-Lafarge Ciments - usine de Port-la-Nouvelle
+LAFARGEHOLCIM CIMENTS-Usine de Port La Nouvelle
 
 |
 
@@ -4544,11 +4544,11 @@ FR000000000000857
 
 |
 
-Imerys TC site de DAMIATTE
+EDILIANS site de DAMIATTE
 
 |
 
-IMERYS TC DAMIATTE
+EDILIANS DAMIATTE
 
 |
 
@@ -5216,11 +5216,11 @@ FR000000000000880
 
 |
 
-Lafarge Ciments
+LAFARGEHOLCIM CIMENTS
 
 |
 
-Lafarge Ciments - usine de Martres
+LAFARGEHOLCIM CIMENTS-Usine de Martres
 
 |
 
@@ -6656,11 +6656,11 @@ FR000000000000932
 
 |
 
-Ahlstrom Specialties, usine de Bousbecque
+AHLSTROM-MUNKSJÖ SPECIALTIES, usine de Bousbecque
 
 |
 
-Ahlstrom Specialties, usine de Bousbecque
+AHLSTROM-MUNKSJÖ SPECIALTIES, usine de Bousbecque
 
 |
 
@@ -8048,11 +8048,11 @@ FR000000000000968
 
 |
 
-Université des Sciences et Technologies de Lille
+DALKIA
 
 |
 
-DUSVA
+CHAUFFERIE de l'USTL
 
 |
 
@@ -8624,11 +8624,11 @@ FR000000000000983
 
 |
 
-IMERYS TC
+EDILIANS
 
 |
 
-IMERYS PHALEMPIN
+EDILIANS PHALEMPIN
 
 |
 
@@ -9824,11 +9824,11 @@ FR000000000001012
 
 |
 
-Imerys TC
+EDILIANS
 
 |
 
-Imerys TC site de Wardecques
+EDILIANS Site de Wardrecques
 
 |
 
@@ -10112,11 +10112,11 @@ FR000000000001024
 
 |
 
-AHLSTROM SPECIALTIES
+AHLSTROM-MUNKSJÖ SPECIALTIES
 
 |
 
-AHLSTROM SPECIALTIES USINE DE SAINT-SEVERIN
+AHLSTROM-MUNKSJÖ SPECIALTIES USINE DE SAINT-SEVERIN
 
 |
 
@@ -10960,15 +10960,15 @@ Lhoist France Centre et Sud-Ouest usine de Saint-Gaultier
 
 |
 
-144 586
+72 293
 
 |
 
-141 605
+70 803
 
 |
 
-1 214 966
+1 071 871
 
 |
 
@@ -11168,11 +11168,11 @@ FR000000000001064
 
 |
 
-STORENGY
+STORENGY FRANCE
 
 |
 
-STORENGY Stockage souterrain de Céré-la-Ronde
+STORENGY Stockage souterrain de Céré la Ronde
 
 |
 
@@ -11180,7 +11180,7 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-2 441
+2 442
 
 |
 
@@ -11188,7 +11188,7 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-1 892
+1 893
 
 |
 
@@ -11200,15 +11200,15 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-130
+2 131
 
 |
 
-103
+1 686
 
 |
 
-12 215
+15 801
 
 |
 
@@ -11360,13 +11360,11 @@ FR000000000001070
 
 |
 
-DS SMITH
-
-CHOUANARD
+DS SMITH PAPER COULLONS
 
 |
 
-DS Smith Chouanard
+DS SMITH PAPER COULLONS
 
 |
 
@@ -11938,7 +11936,7 @@ FR000000000001083
 
 |
 
-STORENGY
+STORENGY FRANCE
 
 |
 
@@ -11970,15 +11968,15 @@ STORENGY Stockage souterrain de CHEMERY
 
 |
 
-4 687
+13 694
 
 |
 
-3 708
+10 834
 
 |
 
-145 543
+161 677
 
 |
 

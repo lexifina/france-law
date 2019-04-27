@@ -688,15 +688,15 @@ Union Invivo côté terre
 
 |
 
-1 161
+581
 
 |
 
-918
+459
 
 |
 
-14 632
+13 593
 
 |
 
@@ -1504,15 +1504,15 @@ YARA FRANCE usine de Pardies
 
 |
 
-36 366
+-
 
 |
 
-35 616
+-
 
 |
 
-305 582
+233 600
 
 |
 
@@ -1928,7 +1928,7 @@ Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-871
+872
 
 |
 
@@ -2368,15 +2368,15 @@ Coopérative agricole Terre d'alliances
 
 |
 
-460
+230
 
 |
 
-364
+182
 
 |
 
-9 444
+9 032
 
 |
 
@@ -5792,23 +5792,23 @@ COOPERATIVE DAUPHINOISE
 
 |
 
-765
+383
 
 |
 
-646
+323
 
 |
 
-531
+266
 
 |
 
-420
+210
 
 |
 
-6 692
+5 512
 
 |
 
@@ -10400,15 +10400,15 @@ UNION INVIVO - SILO D'OTTMARSHEIM
 
 |
 
-795
+398
 
 |
 
-629
+315
 
 |
 
-10 021
+9 310
 
 |
 
@@ -10924,7 +10924,7 @@ VIVADOUR
 
 |
 
-VIVADOUR LE HOUGA
+VIVADOUR route de Nogaro 32460 LE HOUGA
 
 |
 
@@ -10960,15 +10960,15 @@ VIVADOUR LE HOUGA
 
 |
 
-645
+323
 
 |
 
-510
+255
 
 |
 
-8130
+7 553
 
 |
 
@@ -12862,11 +12862,11 @@ CARTONNERIES DE LA BOEME |
 
 830 |
 
-813 |
+- |
 
-796 |
+- |
 
-6 833 |
+5 224 |
 
 FR-new-07205920
 
@@ -14142,9 +14142,9 @@ LBSF-Lyondell Basell Services France |
 
 FR-new-03012500 |
 
-Dalkia |
+ESTIA RESEAUX DE CHALEUR |
 
-Estia chaleur |
+Chaufferies du Plateau de Haye |
 
 / |
 
@@ -14166,9 +14166,9 @@ Estia chaleur |
 
 FR-new-03012743 |
 
-Dalkia |
-
 COGESTAR 3 |
+
+Cogénération McCain |
 
 / |
 
@@ -14238,9 +14238,9 @@ KNAUF INSULATION site de Ilange |
 
 FR-new-03801009 |
 
-DALKIA |
+COGESTAR 3 |
 
-DALKIA Harnes |
+Dalkia Harnes |
 
 / |
 
@@ -14283,6 +14283,78 @@ Installation de cogénération-CEA Saclay |
 / |
 
 / |
+
+FR-new-06412998 |
+
+ECOSLOPS |
+
+ECOSLOPS La Mède |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06308843 |
+
+ERENA |
+
+ERENA-Centrale Californie |
+
+- |
+
+- |
+
+- |
+
+- |
+
+4 514 |
+
+3 603 |
+
+2 963 |
+
+2 347 |
+
+13 427 |
+
+FR-new-05200010 |
+
+POLYREY SAS |
+
+POLYREY SAS |
+
+- |
+
+- |
+
+789 |
+
+1 259 |
+
+1 085 |
+
+7 032 |
+
+5 784 |
+
+4 581 |
+
+20 530 |
 
 NOTA :
 

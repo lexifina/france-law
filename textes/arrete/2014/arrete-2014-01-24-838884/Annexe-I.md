@@ -112,18 +112,6 @@ EDF Centrale de Martigues
 
 |
 
-FR000000000000694
-
-|
-
-Electricité de France
-
-|
-
-CPT de Porcheville
-
-|
-
 FR000000000000737
 
 |
@@ -705,5 +693,13 @@ Electricité de Mayotte
 |
 
 EDM Centrale de Longoni
+
+|
+
+FR-new-10013537 |
+
+DATA CENTER ORANGE |
+
+DATA CENTER ORANGE
 
 |
