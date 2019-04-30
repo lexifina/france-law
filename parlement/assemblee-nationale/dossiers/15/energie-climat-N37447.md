@@ -1,0 +1,81 @@
+# Energie et climat
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37447
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/energie_climat
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-622.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-04-30 : 1er dépôt d'une initiative. (PRJLANR5L15B1908)
+  - 2019-06-12 : Dépôt d'une lettre rectificative. (LETTANR5L15B2032)
+  - 2019-04-30 : Etude d'impact (ETDIANR5L15B1908)
+  - 2019-06-12 : Avis du Conseil d'Etat (AVCEANR5L15B2032)
+  - 2019-04-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-04-30 : Renvoi en commission au fond
+      - 2019-05-07 : Nomination de rapporteur
+      - 2019-05-07 : Réunion de commission
+      - 2019-06-18 : Réunion de commission
+      - 2019-06-18 : Réunion de commission
+      - 2019-06-19 : Réunion de commission
+      - 2019-06-19 : Réunion de commission
+      - 2019-06-20 : Réunion de commission
+      - 2019-06-25 : Réunion de commission
+      - 2019-06-20 : Dépôt de rapport (RAPPANR5L15B2063, PRJLANR5L15BTC2063)
+    - Travaux d'une commission saisie pour avis
+      - 2019-05-02 : Saisine pour avis d'une commission
+      - 2019-05-07 : Nomination de rapporteur
+      - 2019-05-07 : Réunion de commission
+      - 2019-06-05 : Réunion de commission
+      - 2019-06-12 : Réunion de commission
+      - 2019-06-12 : Dépôt de rapport (AVISANR5L15B2031)
+  - Discussion en séance publique
+    - 2019-06-26 : Discussion en séance publique
+    - 2019-06-26 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-27 : Discussion en séance publique
+    - 2019-06-28 : Discussion en séance publique
+    - 2019-06-28 : Discussion en séance publique
+    - 2019-06-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-07-01 : Dépôt d'une initiative en navette (PRJLSNR5S319B0622)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-01 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-07-10 : Dépôt de rapport (RAPPSNR5S319B0657, PRJLSNR5S319BTC0658)
+    - Travaux d'une commission saisie pour avis
+      - 2019-05-29 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-07-09 : Dépôt de rapport (AVISSNR5S319B0646)
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-17 : Discussion en séance publique
+    - 2019-07-18 : Discussion en séance publique
+    - 2019-07-18 : Décision
+- Commission Mixte Paritaire
+  - 2019-07-19 : Dépôt d'un projet de loi (PRJLANR5L15B2180)
+  - 2019-07-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-07-25 : Nomination de rapporteur
+    - 2019-07-25 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0699, PRJLSNR5S319BTC0700)
+    - 2019-07-25 : Dépôt du rapport d'une CMP (RAPPANR5L15B2193, PRJLANR5L15BTC2193)
+  - Discussion en séance publique
+    - 2019-09-11 : Discussion en séance publique
+    - 2019-09-11 : Décision
+  - Discussion en séance publique
+    - 2019-09-26 : Discussion en séance publique
+    - 2019-09-26 : Décision
+  - 2019-07-25 : Décision de la CMP
+- Conseil constitutionnel
+  - 2019-10-10 : Saisine du conseil constitutionnel
+  - 2019-11-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2019-11-08 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2021-02-17 : Rapport sur l'application des lois (RINFANR5L15B3890)
