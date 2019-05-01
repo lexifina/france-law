@@ -1,0 +1,5 @@
+# Article 1er
+
+Un article 6 est ajouté :
+
+« Les partenaires sociaux ont considéré qu'un accord de salaire n'avait pas à comporter les stipulations spécifiques mentionnées à l'article L. 2232-10-1. En effet, celui-ci doit s'appliquer quelle que soit la taille de l'entreprise, a fortiori dans une branche composée presque exclusivement d'entreprises de moins de 50 salariés. »
