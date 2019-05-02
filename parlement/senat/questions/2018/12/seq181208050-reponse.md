@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208050
+
+- Question : [SEQ181208050](seq181208050.md) — Avis de l'agence européenne de sécurité alimentaire sur la consommation de levure de riz rouge
+
+## Réponse
+
+*Économie et finances, JO du 2019-05-02, page 2382*
+
+L'emploi de la levure de riz rouge (LRR) dans les compléments alimentaires n'est pas harmonisé à ce jour. Dans le cadre de ses missions de protection des consommateurs, la DGCCRF a établi des règles nationales reposant sur une teneur maximale en monacoline K, molécule active de ce champignon, en se fondant notamment sur la base d'un avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) de 2014, accompagnées d'avertissements à destination des populations fragiles, pour tenir compte de l'existence d'effets indésirables associés à la consommation de cette molécule. En juin 2018, l'Autorité européenne de sécurité des aliments (AESA) a rendu un avis portant sur la sécurité d'emploi de cet ingrédient dans lequel elle met en évidence ces mêmes effets indésirables. Sur le fondement de cet avis, la Commission européenne a initié une réflexion avec les États membres afin d'adopter des mesures de gestion pertinentes à l'échelle européenne, au cours de laquelle les autorités françaises ont défendu l'approche nationale adoptée en soulignant son caractère proportionné. D'autres États membres ont en revanche soutenu la nécessité d'une interdiction de l'emploi de la levure de riz rouge dans les compléments alimentaires. A ce stade, aucune proposition n'a été transmise par la Commission européenne aux États membres sur ce dossier. Dans l'attente d'une proposition de texte soumise au vote des États membres sur l'utilisation de la levure de riz rouge dans les compléments alimentaires, les autorités nationales continueront de défendre les orientations prises au niveau français, fondées sur l'établissement d'une teneur maximale et d'avertissements appropriés.
