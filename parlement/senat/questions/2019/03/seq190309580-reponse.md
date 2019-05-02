@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309580
+
+- Question : [SEQ190309580](seq190309580.md) — Concertation lors de ventes de biens agricoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-05-02, page 2375*
+
+En vue de répondre à la préoccupation visant à mieux harmoniser l'action des sociétés d'aménagement foncier et d'établissement rural (SAFER) avec celle des pouvoirs publics locaux, la loi n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt a créé, au sein du conseil d'administration des SAFER, un deuxième collège dont la vocation spécifique est de représenter les collectivités territoriales de la zone régionale d'action des SAFER et, le cas échéant, les établissements rattachés à ces collectivités. Le deuxième collège vient s'ajouter au premier collège qui comprend les organisations syndicales et les chambres régionales d'agriculture ainsi qu'au troisième collège qui représente en son sein l'État et les actionnaires de la SAFER. Indispensable lieu d'échange entre les SAFER et les élus locaux, le deuxième collège vise, notamment, à favoriser une mise en cohérence de l'action des SAFER avec les projets portés par les collectivités territoriales. Il convient de souligner également que les collectivités territoriales sont représentées au sein des comités techniques départementaux. Les programmes pluriannuels d'activité des SAFER (PPAS) constituent des instruments permettant d'adapter l'action de ces dernières au contexte territorial, notamment à travers l'action du comité régional d'élaboration des PPAS, au sein duquel les collectivités locales (conseil régional, conseils départementaux) sont représentées. Le Gouvernement veillera à ce que les collectivités territoriales soient associées de façon plus étroite à l'élaboration des nouveaux PPAS afin de renforcer la cohérence entre l'action des SAFER et celle des collectivités territoriales.
