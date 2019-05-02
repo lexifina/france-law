@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190409810
+
+- Question : [SEQ190409810](seq190409810.md) — Mesures disparates au sein des services départementaux d'incendie et de secours
+
+## Réponse
+
+*Intérieur, JO du 2019-05-02, page 2397*
+
+La santé et la sécurité lors des interventions des sapeurs-pompiers, notamment lorsqu'ils sont exposés à des risques de toxicité liés aux fumées d'incendie, constituent une priorité du ministère de l'intérieur. Ainsi, pour faire face aux risques mis en évidence par le rapport de la Caisse nationale de retraites des agents des collectivités locales en mars 2017, le ministère de l'intérieur a engagé une démarche de prévention des risques permanente et soutenue. Dès novembre 2017, les orientations stratégiques ont été fixées par le Gouvernement et un guide de doctrine opérationnelle, relatif à la prévention contre les risques de toxicité liés aux fumées d'incendie, a été publié en mars 2018. Il permet aux services d'incendie et de secours de mettre en place des dispositions de protections adaptées, sur l'ensemble du territoire. L'annexe B de ce guide précise le dispositif juridique qui impose à l'employeur de respecter les préconisations du constructeur pour utiliser les équipements de protection individuelle. Ces documents privilégient notamment le port du masque sur une peau rasée, pour en garantir le parfait fonctionnement. Ce guide de bonnes pratiques fait l'objet d'un suivi régulier permettant d'évaluer sa mise en œuvre et de le mettre à jour pour intégrer le risque d'exposition lors des feux d'espaces naturels, contexte dans lequel les appareils de protection respiratoire ne sont pas adaptés. Par ailleurs, l'arrêté du 8 avril 2015 fixant les tenues, uniformes, équipements, insignes et attributs des sapeurs-pompiers, est en cours de révision afin d'intégrer cette recommandation.
