@@ -1542,6 +1542,18 @@ En application sur la peau
 
 |
 
+Bismuth
+
+|
+
+Solution buvable |
+
+|
+
+2 mg |
+
+20 mg |
+
 Bromoforme :
 
 |
