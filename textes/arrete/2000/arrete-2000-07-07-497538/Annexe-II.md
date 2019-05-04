@@ -646,7 +646,7 @@ Lorient forge marine (Le Dref Patrice). 17, quai du Pourquoi-Pas, 56100 Lorient.
 
 Lorient industrie, 13, rue P.-Martin, 29200 Brest : depuis sa création.
 
-Lorient industries 14 rue des Frères-Lumière, ZI LannGazec, 56600 Lanester. De 1981 à 1997
+Lorient industries, 14 rue des Frères-Lumière, ZI LannGazec, 56600 Lanester. De 1981 à 1997
 
 Lorient Naval et industries :
 
@@ -660,31 +660,15 @@ Maison Grouhel Camaret :
 
 - Le Sillon, 29570 Camaret-sur-Mer : de 1958 à 1978, puis Société Mecamar Camaret : depuis 1978.
 
-MIM (Montage industriel et maritime), 1, rue Blaveau, puis 8, rue des Colonies, puis 3, rue du Colonel-Berthaud, 29200 Brest : de 1986 à 1997
-
 MBR (Marine Bretagne Réparation), 3, quai Armand-Considere, 29200 Brest : de sa création à 1998.
-
-Naval Iroise, quai de Cambarel-Lanildut, 29236 Porspoder : de 1982 à 1993.
 
 MECAMAR. Rue Alain-Colas, 29200 Brest. Depuis 1996.
 
-Naviplast/Sodirev, rue de l'Ingénieur-Verrière, port de pêche, 56100 Lorient : de 1960 à 1973, puis Naviplast Marine Industrie, 1, rue Erwan-Marrec, 56100 Lorient : de 1974 à 2005.
+Meca Diesel, 7, rue du Professeur-Legendre et quai Carnot, 29900 Concarneau, de 1985 à 2004.
 
-Peron Albert La Pointe de Rocamandour, 29570 Camaret-sur-Mer de 1960 à 1990.
+Meca Diesel, quai du Moros, rive droite, 29900 Concarneau, depuis 2004.
 
-PLASTIQUES DE L'OUEST-PLASTIQUES DE BRETAGNE. Pen Mané, 56570 Locmiquelic, puis rue Daniel-Trudaine, 56000 Lanester.
-
-De 1961 à 1981.
-
-Poly Alu Forge Cariou, terre-plein du Port, 29730 Le Guilvinec : depuis 1987
-
-SARL Abiven/Heleu/EURL Heleu, Kérivin, 29290 Milizac, puis rue de l'Elorn, 29200 Brest : depuis 1980
-
-SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
-
-SARL Gueguen Pierre, 33, avenue de la Perrière, 56100 Lorient, de 1962 à 1987.
-
-SARL Saint-Gué Electronique/SA Saint-Gué Electronique, 53, rue de la Joie, 29760 Saint-Guénolé, Penmarc'h, de 1983 à 1996.
+Mécanique Marine LE PAPE Pierre, 355, rue Ar Veil, Kerity, 29760 PENMARC'H, (SIRET N° 376 179 354 00018) : de 1979 à 1982.
 
 Metabois :
 
@@ -694,11 +678,11 @@ Meunier port/Meunier naval, 2, rue Victor-Fenoux, 29200 Brest : depuis 1987.
 
 MIDOTEC, quai de la Douane, 29200 Brest, puis 28, rue du Pont-Neuf, 29215 Guipavas : de 1985 à 1988.
 
-MIM (Montage industriel et maritime) 8, rue des Colonies, puis 3, rue du Colonel-Berthaud, 29200 Brest : de 1986 à 1997.
+MIM (Montage industriel et maritime), 1, rue Blaveau, puis 8, rue des Colonies, puis 3, rue du Colonel-Berthaud, 29200 Brest : de 1986 à 1997
 
 Naval Iroise, quai de Cambarel-Lanildut, 29236 Porspoder : de 1982 à 1993.
 
-Naviplast/Sodirev/Naviplast MarineIndustrie, rue de l'Ingénieur-Verrière, port de pêche, 56100 Lorient, puis 1, rue Erwan-Marrec, 56100 Lorient, depuis 1960.
+Naviplast/Sodirev, rue de l'Ingénieur-Verrière, port de pêche, 56100 Lorient : de 1960 à 1973, puis Naviplast Marine Industrie, 1, rue Erwan-Marrec, 56100 Lorient : de 1974 à 2005.
 
 Nettoyage mécanique :
 
@@ -707,6 +691,12 @@ Nettoyage mécanique :
 New Marine :
 
 - 3, rue de Kerandre, 56700 Hennebont : depuis 1983.
+
+Peron Albert La Pointe de Rocamandour, 29570 Camaret-sur-Mer de 1960 à 1990.
+
+PLASTIQUES DE L'OUEST-PLASTIQUES DE BRETAGNE. Pen Mané, 56570 Locmiquelic, puis rue Daniel-Trudaine, 56000 Lanester.
+
+De 1961 à 1981.
 
 Peinture navale, puis Société Brestoise peinture navale, rue Chevillotte, 29200 Brest : de 1945 à 1984.
 
@@ -727,12 +717,6 @@ Radio Océan Centre Allantique BP 168, route de Coray 29000 Quimper. De 1969 à 
 SA Atelier mécanique Chavannes-Merceron-Ballery, 9, rue du Professeur-Legendre, 29110 Concarneau, de 1959 à 1974.
 
 SA établissements Chavannes-Merceron-Ballery, 9, rue du Professeur-Legendre, 29110 Concarneau, de 1974 à 1981.
-
-SARL Diesel Marine Bretagne, 7, rue du Professeur-Legendre, 29110 Concarneau, de 1981 à 1985.
-
-Meca Diesel, 7, rue du Professeur-Legendre et quai Carnot, 29900 Concarneau, de 1985 à 2004.
-
-Meca Diesel, quai du Moros, rive droite, 29900 Concarneau, depuis 2004.
 
 SA Brestoise de La Perriere, rue de l'Elorn, 29200 Brest : de 1984 à 1985.
 
@@ -756,19 +740,27 @@ SA Robic et Corlay frères, 11, place Saint-Louis, 56410 Etel : de 1966 à 1975
 
 SAMI SFAT, puis SFAT, 106, rue Lazare-Carnot, 56100 Lorient : depuis 1987.
 
+SARL Abiven/Heleu/EURL Heleu, Kérivin, 29290 Milizac, puis rue de l'Elorn, 29200 Brest : depuis 1980
+
 Boursicot René, 47, rue Edouard-Herriot, puis Boursicot Hervé, 47 rue Edouard-Herriot, puis 34, rue Edouard-Herriot, 56400 Le Bono, puis SARL Boursicot, 34, rue Edouard-Herriot, 56400 Le Bono : de 1950 à 2010.
 
 SARL Chantier naval du Magouer :
 
 - ER Velin, 56680 Plouhinec : depuis 1991.
 
+SARL Diesel Marine Bretagne, 7, rue du Professeur-Legendre, 29110 Concarneau, de 1981 à 1985.
+
 SARL Dourmap et Cie :
 
 - 127, rue de l'Ecole-Navale, 29200 Brest : depuis 1999.
 
+SARL Gueguen Pierre, 33, avenue de la Perrière, 56100 Lorient, de 1962 à 1987.
+
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
 SARL Michel LE BEC mécanique marine Terre-plein Ouest, port de Lesconil , 29740 Plobannalec De 1980 à 2000.
+
+SARL Saint-Gué Electronique/SA Saint-Gué Electronique, 53, rue de la Joie, 29760 Saint-Guénolé, Penmarc'h, de 1983 à 1996.
 
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
