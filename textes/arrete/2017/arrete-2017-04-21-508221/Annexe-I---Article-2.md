@@ -14,10 +14,6 @@ DES chirurgie viscérale et digestive :
 
 - endoscopie chirurgicale.
 
-DES neurochirurgie :
-
-- neurochirurgie pédiatrique.
-
 DES ophtalmologie :
 
 - chirurgie ophtalmopédiatrique et strabologique.
@@ -33,12 +29,6 @@ Co-DES anesthésie-réanimation/médecine intensive-réanimation :
 - réanimation pédiatrique du DES AR ;
 
 - réanimation pédiatrique du DES MIR.
-
-DES hépato-gastro-entérologie :
-
-- endoscopie de niveau 2 ;
-
-- proctologie.
 
 DES médecine cardio-vasculaire :
 
@@ -91,3 +81,7 @@ DES de biologie médicale (options précoces au sens de l'article 6 de l'arrêt�
 - agents infectieux ;
 
 - biologie de la reproduction.
+
+NOTA :
+
+Conformément à l'article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
