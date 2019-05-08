@@ -90,11 +90,11 @@ Article 6
 
 Garantie financière
 
-Tous les contrats de formation à la conduite et à la sécurité routière à l'exclusion de ceux préparant aux catégories C1, C1E, C, CE , D1, D1E, D et DE du permis conduire et des actions financées par les organismes collecteurs paritaires agréés mentionnés à l' article L. 6332-1 du code du travail , les organismes paritaires agréés mentionnés à l' article L. 6333-1 du code du travail , l'Etat, les régions, pôle emploi et l'association mentionnée à l' article L. 5214-1 du code du travail de l'école de conduite ou de l'association labellisée sont couverts par une garantie financière .
+Tous les contrats de formation à la conduite et à la sécurité routière à l'exclusion de ceux préparant aux catégories C1, C1E, C, CE, D1, D1E, D et DE du permis conduire et des actions financées par les organismes collecteurs paritaires agréés mentionnés à l'article L. 6332-1 du code du travail, les organismes paritaires agréés mentionnés à l'article L. 6333-1 du code du travail, l'Etat, les régions, Pôle emploi et l'association mentionnée à l'article L. 5214-1 du code du travail de l'école de conduite ou de l'association labellisée sont couverts par une garantie financière.
 
 Cette garantie financière prévoit le remboursement des prestations non consommées pour tous les contrats de formation en cours, à l'exception de ceux mentionnés au premier alinéa du présent article, au moment où l'exploitation de l'école de conduite ou de l'association labellisée serait rendue impossible du fait d'une décision administrative ou judiciaire entraînant une fermeture définitive ou ininterrompue d'au moins trois mois.
 
-La garantie financière doit couvrir au moins 30 % de la part du chiffre d'affaires TTC annuel de l'année N-1 réalisé par l'école de conduite ou l'association labellisée au titre des formations dispensées par l'école de conduite ou l'association à l'exclusion de celles prévues au premier alinéa du présent article .
+La garantie financière doit couvrir au moins 30 % de la part du chiffre d'affaires T. T. C annuel de l'année N-1 réalisé par l'école de conduite ou l'association labellisée au titre des formations dispensées par l'école de conduite ou l'association à l'exclusion de celles prévues au premier alinéa du présent article.
 
 Ce remboursement est effectué directement au titulaire du contrat de formation par l'organisme garant.
 
@@ -116,11 +116,13 @@ L'attestation annuelle de la garantie financière doit faire apparaître, a mini
 
 5° La liste des formations dispensées par l'école de conduite ou l'association entrant dans le périmètre de la garantie financière ;
 
-6° La mention "Le montant de la garantie couvre au moins 30 % de la part du chiffre d'affaires annuel TTC de l'année N-1 réalisé au titre desdites formations dans les conditions prévues par l'article 6 de la convention de labellisation faisant l'objet de l'annexe 4 de l'arrêté du 26 février 2018 portant création du label “ qualité des formations au sein des écoles de conduite ”. Cette garantie prévoit le remboursement des prestations non consommées pour tous les contrats de formation en cours au moment où l'exploitation de l'école de conduite serait rendue impossible du fait d'une décision administrative ou judiciaire entraînant une fermeture définitive ou ininterrompue d'au moins trois mois.
+6° La mention "Le montant de la garantie couvre au moins 30 % de la part du chiffre d'affaires annuel TTC de l'année N-1 réalisé au titre desdites formations dans les conditions prévues par l'article 6 de la convention de labellisation faisant l'objet de l'annexe 4 de l'arrêté du 26 février 2018 portant création du label "qualité des formations au sein des écoles de conduite". Cette garantie prévoit le remboursement des prestations non consommées pour tous les contrats de formation en
+
+cours au moment où l'exploitation de l'école de conduite serait rendue impossible du fait d'une décision administrative ou judiciaire entraînant une fermeture définitive ou ininterrompue d'au moins 3 mois.
 
 Ce remboursement est effectué directement par l'organisme garant au titulaire du contrat de formation."
 
-7° La date de validité de la garantie financière : Cette garantie est valable du JJ MM AAAA au JJ MM AAAA. ;
+7° La date de validité de la garantie financière : Cette garantie est valable du JJ MM au JJ AAAA. ;
 
 8° La signature et le cachet de l'organisme garant.
 
@@ -146,8 +148,8 @@ Le présent contrat de labellisation est établi en deux exemplaires.
 
 Lu et approuvé (mention manuscrite)
 
-A/ Le
+A, le
 
-L'exploitant de l'école de conduite ou de l'association labellisée
+L'exploitant de l'école de conduite ou de l'association labellisée,
 
-Le préfet de département ou son représentant
+Le préfet de département ou son représentant,

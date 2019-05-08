@@ -34,7 +34,7 @@ L'enseignement de la conduite, à titre onéreux, constitue une activité régle
 
 1.3. La finalité du label "qualité des formations au sein des écoles de conduite"
 
-L'Etat a décidé la création et la mise à disposition d'un label gratuit qui repose sur une démarche volontaire des écoles de conduite et des associations agréées. Ce label validé par le Conseil national de l'emploi, de la formation et de l'orientation professionnelles (CNEFOP) répond aux six critères mentionnés au point 1.1.
+L'Etat a décidé la création et la mise à disposition d'un label gratuit qui repose sur une démarche volontaire des écoles de conduite et des associations agréées. Ce label validé par le Conseil nationale de l'emploi, de la formation et de l'orientation professionnelles (CNEFOP) répond aux six critères mentionnés au point 1.1.
 
 Ainsi, la création du label "qualité des formations au sein des écoles de conduite" répond à plusieurs enjeux notamment pour le consommateur, les écoles de conduite, les associations, l'Etat et les financeurs :
 
@@ -46,7 +46,7 @@ Ainsi, la création du label "qualité des formations au sein des écoles de con
 
 1.4. Les engagements de l'Etat
 
-Par ce processus d'assurance qualité, l'Etat s'engage à reconnaître par un label la qualité des formations dans l'ensemble des écoles de conduite et des associations labellisées, à octroyer des contreparties en termes d'accès à certaines formations et à promouvoir ces établissements à travers le site internet de la délégation à la sécurité routière.
+Par ce processus d'assurance qualité, l'Etat s'engage à reconnaître par un label la qualité des formations dans l'ensemble des écoles de conduite et des associations labellisées, à octroyer des contreparties en termes d'accès à certaines formations et à promouvoir ces établissements à travers le site Internet de la délégation à la sécurité routière.
 
 L'Etat s'engage également à organiser des audits afin de s'assurer du respect des critères du label.
 
@@ -58,39 +58,41 @@ Le demandeur doit déposer, de manière dématérialisée sur la boîte de messa
 
 2.2. L'entretien conseil
 
-Un entretien conseil au sein du service départemental en charge de l'éducation routière peut être organisé à la demande de l'exploitant de l'école de conduite ou l'association agréée. Cet entretien conseil a pour objectif de guider l'exploitant dans la constitution du dossier en vue d'obtenir la labellisation.
+Un entretien conseil au sein du service départemental en charge de l'éducation routière, peut être organisé à la demande de l'exploitant de l'école de conduite ou l'association agréée. Cet entretien conseil a pour objectif de guider l'exploitant dans la constitution du dossier en vue d'obtenir la labellisation.
 
 2.3. La constitution du dossier
 
 Toute demande doit être constituée des pièces suivantes :
 
-2.3.1. La demande d'adhésion au dispositif du label (formulaire figurant à l'annexe 3) ;
+2.3.1. La demande d'adhésion au dispositif du label (formulaire figurant à l'annexe 3)
 
-2.3.2. Les critères de qualité mentionnés ci-dessous faisant l'objet d'une déclaration sur l'honneur s'engageant à (figurant à l'annexe 3) :
+2.3.2. Les critères de qualité mentionnés ci-dessous faisant l'objet d'une déclaration sur l'honneur s'engageant à (figurant à l'annexe 3)
 
--Critère n° 1.2 : transmettre chaque année une attestation annuelle à jour de la garantie financière ;
+Critère n° 1.2 : Transmettre chaque année une attestation annuelle à jour de la garantie financière ;
 
--Critère n° 1.4 : afficher les horaires des cours théoriques ;
+Critère n° 1.4 : Afficher les horaires des cours théoriques ;
 
--Critère n° 1.5 : proposer un rendez-vous post-permis pour les conducteurs novices ;
+Critère n° 1.5 : Promouvoir un rendez-vous post-permis pour les conducteurs novices ;
 
--Critère n° 2.1 : soumettre à l'élève une proposition détaillée et chiffrée de la formation proposée, faisant apparaître le contenu de l'offre sur la base de l'évaluation, réalisée préalablement, et les coûts unitaires de chaque prestation complémentaire en cas de nécessité de dépassement de cette offre ;
+Critère n° 2.1 : Soumettre à l'élève une proposition détaillée et chiffrée de la formation proposée, faisant apparaître le contenu de l'offre sur la base de l'évaluation, réalisée préalablement, et les coûts unitaires de chaque prestation complémentaire en cas de nécessité de dépassement de cette offre ;
 
--Critère n° 2.4 : assurer la traçabilité de l'assiduité des élèves à la formation pour les tiers légitimes (financeurs, parents, représentant légal …) qui en font la demande ;
+Critère n° 2.4 : Assurer la traçabilité de l'assiduité des élèves à la formation pour les tiers légitimes (financeurs, parents, représentant légal …) qui en font la demande ;
 
--Critère n° 3.2 : utiliser systématiquement le livret d'apprentissage ou ses équivalents numériques ;
+Critère n° 3.2 : Utiliser systématiquement le livret d'apprentissage ou ses équivalents numériques ;
 
--Critère n° 3.3 : disposer de moyens pédagogiques en adéquation avec l'offre de formation.
+Critère n° 3.3 : Disposer de moyens pédagogiques en adéquation avec l'offre de formation.
 
 Si l'établissement dispose d'un simulateur, la présence systématique d'un enseignant est obligatoire, à l'exception du travail de la compétence 1 "maîtriser le maniement du véhicule de la catégorie B du permis de conduire dans un trafic faible ou nul" mentionnée à l'arrêté du 29 juillet 2013 relatif au livret d'apprentissage de la catégorie B du permis de conduire.
 
--Critère n° 4.2 : mettre en place la formation continue des enseignants de la conduite et de la sécurité routière par tous les moyens disponibles et répondant aux critères de la formation professionnelle tels que définis à l'article R. 6316-1 du code du travail ;
+Critère n° 4.2 : Mettre en place la formation continue des enseignants de la conduite et de la sécurité routière par tous les moyens disponibles et répondant aux critères de la formation professio
 
--Critère n° 5.1 : valoriser l'apprentissage anticipé de la conduite ou supervisée pour le candidat de la catégorie B du permis de conduire ;
+nnelle tels que définis à l' article R. 6316-1 du code du travail ;
 
--Critère n° 5.3 : faire accompagner l'élève par un enseignant de la conduite et de la sécurité routière ou par un stagiaire en formation préparatoire au titre professionnel d'enseignant de la conduite et de la sécurité routière de la catégorie du permis de conduire concernée à chaque présentation à l'examen pratique, sauf circonstance dûment justifiée ;
+Critère n° 5.1 : Valoriser l'apprentissage anticipé de la conduite ou supervisée pour le candidat de la catégorie B du permis de conduire ;
 
--Critère n° 5.4 : établir et rendre disponible, à toute personne en faisant la demande, un bilan annuel sur une année glissante apportant les informations suivantes :
+Critère n° 5.3 : Faire accompagner l'élève par un enseignant de la conduite et de la sécurité routière ou par un stagiaire en formation préparatoire au titre professionnel d'enseignant de la conduite et de la sécurité routière de la catégorie du permis de conduire concernée à chaque présentation à l'examen pratique, sauf circonstance dûment justifiée ;
+
+Critère n° 5.4 : Etablir et rendre disponible, à toute personne en faisant la demande, un bilan annuel sur une année glissante apportant les informations suivantes :
 
 -taux de réussite par filière (AAC, supervisée, traditionnelle) et par catégorie ;
 
@@ -100,45 +102,47 @@ Afficher la possibilité à toute personne en faisant la demande de recevoir com
 
 L'autorité administrative s'engage à fournir le taux de réussite en première présentation à toute école de conduite qui en fait la demande pour compléter son bilan ;
 
--Critère n° 6.2 : exploiter les avis certifiés par un organisme tiers indépendant, recueillis de manière électronique, des élèves ou à défaut le questionnaire de satisfaction et mettre en place un processus d'amélioration continue.
+Critère n° 6.2 : Exploiter les avis certifiés par un organisme tiers indépendant, recueillis de manière électronique, des élèves ou à défaut le questionnaire de satisfaction et mettre en place un processus d'amélioration continue.
 
 Rendre disponible, auprès des élèves qui en font la demande les avis rendus ;
 
--Critère n° 6.3 : gérer les réclamations.
+Critère n° 6.3 : Gérer les réclamations.
 
-2.3.3. Les critères de qualité mentionnés ci-dessous faisant l'objet de la production de copies relatives aux éléments :
+2.3.3. Les critères de qualité mentionnés ci-dessous faisant l'objet de la production de copies relatives aux éléments
 
--Critère n° 1.1 : copie du procédé d'évaluation utilisé au sein de l'école de conduite ou de l'association et mis à la disposition du public (description détaillée) ;
+Critère n° 1.1 : Copie du procédé d'évaluation utilisé au sein de l'école de conduite ou de l'association et mis à la disposition du public (description détaillée) ;
 
--Critère n° 1.2 : copie de la souscription à un dispositif de garantie financière, renouvelé annuellement, en cours de validité et couvrant, à hauteur de 30 % du chiffre d'affaires TTC, l'ensemble des élèves et des formations réalisées par l'école de conduite ou l'association à l'exclusion de celles préparant aux catégories C1, C1E, C, CE , D1, D1E, D et DE du permis conduire et des actions financées par les organismes collecteurs paritaires agréés mentionnés à l' article L. 6332-1 du code du travail , les organismes paritaires agréés mentionnés à l' article L. 6333-1 du code du travail , l'Etat, les régions, Pôle emploi et l'association mentionnée à l' article L. 5214-1 du code du travail ;
+Critère n° 1.2 : Copie de la souscription à un dispositif de garantie financière, renouvelé annuellement, en cours de validité et couvrant, à hauteur de 30 % du chiffre d'affaires T. T. C., l'ensemble des élèves et des formations réalisées par l'école de conduite ou l'association à l'exclusion de celles préparant aux catégories C1, C1E, C, CE , D1, D1E, D et DE du permis conduire et des actions financées par les organismes collecteurs paritaires agréés mentionnés à l' article L. 6332-1 du code du travail , les organismes paritaires agréés mentionnés à l' article L. 6333-1 du code du travail , l'Etat, les régions, Pôle emploi et l'association mentionnée à l' article L. 5214-1 du code du travail ;
 
--Critère n° 1.3 : copie du ou des programme (s) détaillé (s) théorique ou pratique pour chaque formation ;
+Critère n° 1.3 : Copie du ou des programme (s) détaillé (s) théorique ou pratique pour chaque formation ;
 
--Critère n° 1.4 : copie des horaires des cours théoriques ;
+Critère n° 1.4 : Copie des horaires des cours théoriques ;
 
--Critère n° 2.2 : copie de la documentation détaillée exposant les enjeux de la formation préparatoire à l'examen du permis de conduire, son déroulement et les conditions de passage des épreuves de l'examen ;
+Critère n° 2.2 : Copie de la documentation détaillée exposant les enjeux de la formation préparatoire à l'examen du permis de conduire, son déroulement et les conditions de passage des épreuves de l'examen ;
 
--Critère n° 2.3 : copie du règlement intérieur ;
+Critère n° 2.3 : Copie du règlement intérieur ;
 
--Critère n° 2.5 : copies de supports retraçant le suivi pédagogique de trois élèves ;
+Critère n° 2.5 : Copies de supports retraçant le suivi pédagogique de trois élèves ;
 
--Critère n° 3.1 : copie d'un exemple de parcours de formation comportant systématiquement :
+Critère n° 3.1 : Copie d'un exemple de parcours de formation comportant :
 
--des cours collectifs exposant, notamment, les grands thèmes de la sécurité routière (alcool et stupéfiants, vitesse, défaut de port de la ceinture de sécurité, distracteurs …) dispensés en présentiel par des enseignants de la conduite et de la sécurité routière (le cas échéant, les spécificités de la conduite et de la sécurité des motocyclettes et des véhicules du "groupe lourd") ;
+-le cas échéant, des cours collectifs exposant, notamment, les grands thèmes de la sécurité routière (alcool et stupéfiants, vitesse, défaut de port de la ceinture de sécurité, distracteurs …) animés par des enseignants de la conduite et de la sécurité routière (le cas échéant, les spécificités de la conduite et de la sécurité des motocyclettes et des véhicules du "groupe lourd") ;
 
 -un apprentissage de la conduite progressif, prenant en compte la variété des situations de conduite (conduite sur voie rapide, de nuit ou dans un environnement dégradé, par temps de pluie par exemple) ;
 
--Critère n° 3.2 : copies des livrets d'apprentissage de trois élèves conducteurs ayant suivi une formation pratique d'une durée de 15 heures minimum en circulation ;
+L'acceptabilité du parcours de formation par l'élève n'est pas un impératif dans son cursus de formation.
 
--Critère n° 4.1 : copie de la liste à jour des enseignants et de la ou les personne (s) chargé (es) des relations avec les élèves ;
+Critère n° 3.2 : Copies des livrets d'apprentissage de trois élèves conducteurs ayant suivi une formation pratique d'une durée de 15 heures minimum en circulation ;
 
--Critère n° 5.2 : copie, le cas échéant, du lieu et des conditions d'usage de la piste (le temps de déplacement entre ce lieu et l'école de conduite ou l'association, la capacité d'accueil du lieu, la disponibilité …) pour les formations aux catégories de permis de conduire suivantes : AM, A1, A2, A, ainsi que pour la conduite des véhicules de catégorie L5e ;
+Critère n° 4.1 : Copie de la liste à jour des enseignants et de la ou les personne (s) chargé (es) des relations avec les élèves ;
 
--Critère n° 5.5 : adresse ou lien renvoyant vers le site ou la page internet de l'établissement reprenant l'ensemble des informations devant être mises à la disposition du public ;
+Critère n° 5.2 : Copie, le cas échéant, du lieu et des conditions d'usage de la piste (le temps de déplacement entre ce lieu et l'école de conduite ou l'association, la capacité d'accueil du lieu, la disponibilité …) pour les formations aux catégories de permis de conduire suivantes : AM, A1, A2, A, ainsi que pour la conduite des véhicules de catégorie L5e ;
 
--Critère n° 6.1 : copie du contrat passé avec l'organisme tiers indépendant ou, le cas échéant, copie du questionnaire de satisfaction ;
+Critère n° 5.5 : Adresse ou lien renvoyant vers le site ou la page Internet de l'établissement reprenant l'ensemble des informations devant être mises à la disposition du public ;
 
--Déclaration sur l'honneur comportant des éléments déclaratifs.
+Critère n° 6.1 : Copie du contrat passé avec l'organisme tiers indépendant ou, le cas échéant, copie du questionnaire de satisfaction ;
+
+Déclaration sur l'honneur comportant des éléments déclaratifs.
 
 2.4. L'instruction du dossier
 
@@ -156,7 +160,7 @@ Tout dossier incomplet sera automatiquement rejeté.
 
 La vérification de la conformité de la demande d'adhésion au critère d'éligibilité et aux critères de qualité porte sur :
 
--le critère d'éligibilité, l'école de conduite ou l'association doit être titulaire d'un agrément préfectoral en cours de validité ;
+-le critère d'éligibilité, l'école de conduite ou l'association doit être titulaire d'un agrément préfectoral en cours de validité.
 
 -les critères de qualité énumérés au point 2.3 du présent guide.
 
@@ -164,13 +168,13 @@ La vérification de la conformité de la demande d'adhésion au critère d'élig
 
 Le degré de l'évaluation sur les pièces transmises est le suivant :
 
-▪ Point exact : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle respecte les critères de qualité, ce qui génère un avis favorable ;
+Point exact : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle respecte les critères de qualité, ce qui génère un avis favorable ;
 
-▪ Point alerte : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle ne respecte pas tout ou partie des critères de qualité. Il existe deux niveaux d'alerte :
+Point alerte : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle ne respecte pas tout ou partie des critères de qualité. Il existe deux niveaux d'alerte :
 
-Alerte mineure : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle ne respecte que partiellement les critères de qualité, dans la limite de cinq critères non conformes ou partiellement conformes, ce qui génère un avis réservé ;
+Alerte mineure : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle ne respecte que partiellement les critères de qualité, dans la limite de 5 critères non conformes ou partiellement conformes, ce qui génère un avis réservé ;
 
-Alerte majeure : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle n'atteint pas les critères de qualité, c'est-à-dire plus de cinq critères non conformes ou partiellement conformes, ce qui génère un avis défavorable.
+Alerte majeure : les éléments apportés par l'école de conduite ou l'association agréée montrent qu'elle n'atteint pas les critères de qualité, c'est-à-dire plus de 5 critères non conformes ou partiellement conformes, ce qui génère un avis défavorable.
 
 3. La notification de la décision
 
@@ -190,7 +194,7 @@ L'école de conduite ou l'association agréée peut adhérer au label gratuit "q
 
 3.2.2. Décision réservée
 
-Il est porté à la connaissance du demandeur les critères pour lesquels la demande de labellisation a été jugée non conforme. Le demandeur doit produire, dans un délai de deux mois, des éléments portant la preuve de la mise en conformité de sa demande à ces critères. Si les nouveaux éléments sur ces critères, transmis dans le délai, apportent la preuve de leur conformité, la décision réservée devient favorable à la labellisation. Si les éléments sont transmis hors délai ou si un seul critère est à nouveau non conforme, la décision réservée devient défavorable à la labellisation.
+Il est porté à la connaissance du demandeur les critères pour lesquels la demande de labellisation a été jugée non-conforme. Le demandeur doit produire, dans un délai de deux mois, des éléments portant la preuve de la mise en conformité de sa demande à ces critères. Si les nouveaux éléments sur ces critères, transmis dans le délai, apportent la preuve de leur conformité, la décision réservée devient favorable à la labellisation. Si les éléments sont transmis hors délai ou si un seul critère est à nouveau non conforme, la décision réservée devient défavorable à la labellisation.
 
 3.2.3. Décision défavorable
 
@@ -202,7 +206,7 @@ La décision défavorable motivée est notifiée au demandeur. Ce dernier ne pou
 
 Le préfet du lieu d'implantation de l'école de conduite ou de l'association agréée ordonne, sur site, deux fois dans les trois ans un audit de suivi :
 
--un premier audit dans les six mois suivant la signature du contrat de labellisation ;
+-un premier audit dans les 6 mois suivant la signature du contrat de labellisation ;
 
 -un second audit, suivant les mêmes modalités que le précédent, avant l'échéance du label par l'école de conduite ou l'association labellisée.
 
