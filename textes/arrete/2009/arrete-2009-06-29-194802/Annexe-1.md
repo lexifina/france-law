@@ -1,109 +1,87 @@
-# Article Annexe 1
+# Article Annexe
 
-GRILLE DE NOTATION DE LA SCOLARITÉ DES ÉLÈVES GARDIENS DE LA PAIX DES 240E, 242E ET 243E PROMOTIONS
+GRILLE D'ÉVALUATION DE LA SCOLARITÉ DES ÉLÈVES GARDIENS DE LA PAIX À COMPTER DE LA 253E PROMOTION
 
-INTITULÉ
+NATURE |
 
-|
+POINTS |
 
-POINTS
+NATURE
 
-|
+DES EPREUVES |
 
-Comportement
+APPLICATIONS INFORMATIQUES PROFESSIONNELLES |
 
-|
+50 |
 
-100
+Cas pratiques
 
-|
+QCM ou QRC
 
-Evaluation armement
+Simulations
 
-|
+Oral
 
-70
+Devoirs sur table
 
-|
+Tests de condition physique
 
-Evaluation tir 1
+Épreuves techniques |
 
-|
+DÉVELOPPEMENT DE LA CONDITION PHYSIQUE OPÉRATIONNELLE/ ÉVALUATION CARDIO POLICE 1 |
 
-100
+20 |
 
-|
+DÉVELOPPEMENT DE LA CONDITION PHYSIQUE OPÉRATIONNELLE/ ÉVALUATION
 
-Evaluation tir 2
+CARDIO POLICE 2 |
 
-|
+20 |
 
-130
+CONTRÔLE NATIONAL D'ARMEMENT |
 
-|
+20 |
 
-Evaluation TDI 1
+PORT ET EMPLOI DE L'ARME DE SERVICE EN DOTATION INDIVIDUELLE |
 
-|
+APTE/ INAPTE |
 
-50
+CONTRÔLE NATIONAL EMPLOI DES ARMES : ARME INDIVIDUELLE EN DOTATION COLLECTIVE |
 
-|
+40 |
 
-EvaluationTDI 2
+CONTRÔLE NATIONAL EMPLOI DES ARMES : ARME DE SERVICE EN DOTATION INDIVIDUELLE |
 
-|
+40 |
 
-150
+HABILITATION AU PORT ET A L'EMPLOI DES BÂTONS DE POLICE |
 
-|
+HABILITE/ NON HABILITE |
 
-Développement de la condition physique opérationnelle/ Evaluation parcours police
+CONTRÔLE NATIONAL DES TECHNIQUES DE DÉFENSE ET D'INTERPELLATION
 
-|
+ATELIER 1 |
 
-100
+20 |
 
-|
+CONTRÔLE NATIONAL DES TECHNIQUES DE DÉFENSE ET D'INTERPELLATION
 
-Evaluation informatique
+ATELIER 2 |
 
-|
+40 |
 
-50
+CONTRÔLE NATIONAL ÉCRIT |
 
-|
+300 |
 
-Contrôle national écrit NR 1 incluant les fondamentaux
+CONTRÔLE NATIONAL DE SIMULATION |
 
-|
+250 |
 
-200
+COMPORTEMENT-IMPLICATION |
 
-|
-
-Contrôle national écrit NR 2
-
-|
-
-200
-
-|
-
-Contrôle national de simulation
-
-|
-
-200
-
-|
-
-Total des points
-
-|
-
-1 350 |
+-100 à + 100 |
 
 NOTA :
 
-Conformément aux dispositions de l'article 12 de l'arrêté du 29 février 2016, les présentes dispositions entrent en vigueur à compter de la 237e promotion des élèves gardiens de la paix de la police nationale.
+Conformément à l'article 10 de l’arrêté du 30 avril 2019, ces dispositions entrent en vigueur à compter de l'incorporation de la 253e promotion des élèves gardiens de la paix de la police nationale.
