@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309674
+
+- Question : [SEQ190309674](seq190309674.md) — Suicide d'un enseignant à Eaubonne
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2019-05-09, page 2514*
+
+La sérénité à l'école est une exigence républicaine afin de garantir la qualité de l'éducation pour tous les élèves de France mais aussi les conditions d'exercice les meilleures pour l'ensemble des personnels du ministère de l'éducation nationale et de la jeunesse. Un climat scolaire apaisé passe par l'unité de tous les acteurs, l'exercice serein de l'autorité et la qualité des réponses apportées en cas de manquement aux règles. Aucune forme de violence ne peut être tolérée au sein de l'école. Un travail important a été accompli et sera poursuivi et approfondi. Le 31 octobre dernier, des premières mesures concernant la lutte contre les violences en milieu scolaire dans la classe et l'établissement ont été annoncées. La nécessité de soutenir et d'accompagner les professeurs en cas d'agression a été réaffirmée. Il s'agit également de systématiser le signalement de chaque incident et d'en assurer le suivi au sein des écoles et des établissements. Un bilan annuel des incidents et des réponses apportées, ainsi rassemblés sur un seul document, sera présenté en fin d'année scolaire au conseil d'administration. L'enquête déployée par la direction de l'évaluation, de la prospective et de la performance (DEPP), en avril 2019 auprès de 17 000 personnels du second degré, nous permettra de disposer, dans quelques semaines, d'un état des lieux précis des atteintes aux personnes. Des formations à l'exercice de l'autorité sont également développées et proposées aux professeurs et aux personnels d'encadrement. Le plan d'actions pour la protection de l'école qui est en cours de finalisation au niveau interministériel intègrera de nouvelles mesures concernant précisément les modalités de responsabilisation des familles et d'accompagnement à la parentalité.
