@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309733
+
+- Question : [SEQ190309733](seq190309733.md) — Avis du CNEN sur la simplification des normes sportives
+
+## Réponse
+
+*Sports, JO du 2019-05-09, page 2532*
+
+L'article R. 322-5 du code du sport prévoit que dans tout établissement où est pratiquée une activité physique ou sportive doit être affichée, en un lieu visible de tous, une copie des diplômes et titres des personnes exerçant dans l'établissement les fonctions d'éducateur sportif et des cartes professionnelles qu'elles détiennent. Cette disposition a pour objet d'informer les pratiquants des prérogatives professionnelles des éducateurs sportifs qui les entrainent ou qui enseignent les activités physiques et sportives proposées par l'établissement qu'ils fréquentent. Depuis 2016, le ministère des sports a mis en place de nouvelles cartes professionnelles pour les éducateurs sportifs. Ces cartes sont réalisées sur des supports plus modernes, de type carte bancaire, qui sont envoyées aux adresses personnelles des éducateurs. Chacune d'elles comprend un flashcode qui permet, en le scannant à l'aide d'un smartphone ou d'une tablette numérique, d'accéder à des informations actualisées du titulaire de la carte, notamment en ce qui concerne ses qualifications. Chacun peut ainsi s'assurer que cet éducateur remplit bien toutes les conditions requises pour exercer son activité dans le respect de la sécurité des pratiquants. Ces informations sont également accessibles depuis le site http://eapspublic.sports.gouv.fr. Ainsi, il est prévu de remplacer l'obligation d'affichage actuellement en vigueur par une obligation d'informer chaque pratiquant de la possibilité de consulter la situation des éducateurs au moyen du site internet mentionné ci-dessus. Ce projet tire les conséquences de l'avis favorable émis le 13 juin 2018 par le Conseil national d'évaluation des normes relatif à la simplification des normes en matière sportive.
