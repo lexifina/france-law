@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180806637
+
+- Question : [SEQ180806637](seq180806637.md) — Inclusion scolaire dans les établissements appartenant au réseau de l'agence pour l'enseignement français à l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2019-05-09, page 2515*
+
+L'Agence pour l'enseignement français à l'étranger est attentive à l'accueil et à la scolarisation des élèves à besoins éducatifs particuliers, dont font partie les élèves en situation de handicap. Elle a ainsi créé en juin 2016 l'Observatoire pour les élèves à besoins éducatifs particuliers (OBEP). Une contribution de 300 000 € à destination des enfants boursiers français à besoins particuliers a été créée en 2018 et mise en place pour la campagne 2017-2018 du rythme nord et 2018 du rythme sud des bourses scolaires. Ces bourses, destinées à couvrir la prise en charge des accompagnants de ces élèves, sont calculées et attribuées en deuxième période de campagne, une fois la rentrée effectuée et des dossiers dûment complétés. Pour l'année 2017-2018 (rythme nord) et 2018 (rythme sud), 85 bourses permettant la prise en charge d'auxiliaire de vie scolaire (AVS) ont ainsi été accordées pour un montant de 269 000€. Cette contribution a été reconduite en 2019 pour la campagne 2018/2019 (rythme nord) et 2019 (rythme sud) : 105 bourses ont été accordées pour des élèves à besoins éducatifs particuliers, soit une augmentation de l'ordre de 23,5 % par rapport à la campagne précédente. Ces bourses représentent un montant de 343 000 €. Elles seront financées par la contribution de 300 000€ et, de manière complémentaire, sur la dotation globale de l'Agence pour l'enseignement français à l'étranger (AEFE) dédiée aux bourses scolaires. Le montant de cette contribution à destination des enfants boursiers français à besoins particuliers pourrait être réévaluée en 2020 pour prendre en compte l'augmentation des demandes et les moyens réellement consommés.
