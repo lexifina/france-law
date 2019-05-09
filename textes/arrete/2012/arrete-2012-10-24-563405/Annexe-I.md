@@ -744,7 +744,19 @@ Zimbabwe :
 
 Paris-Hararé ;
 
-Paris-Victoria Falls.
+Paris-Victoria Falls ;
+
+Algérie :
+
+Nantes-Oran (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l' article R. 330-9 du code de l'aviation civile ) ;
+
+Liban :
+
+Lyon-Beyrouth (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l' article R. 330-9 du code de l'aviation civile ) ;
+
+Tunisie :
+
+Nantes-Tunis.
 
 3.2. De/ vers les Antilles et la Guyane
 
