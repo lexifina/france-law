@@ -56,9 +56,7 @@ c) Certificat de conformité à un type CE : certificat conforme aux disposition
 
 a) Indications complémentaires au certificat de conformité 74/150/CE : indications selon modèle indiqué en annexe 11, à joindre au certificat de conformité conforme à la directive 74/150/CE ;
 
-b) Certificat de conformité d'origine : certificat de conformité délivré dans le pays d'achat ;
-
-c) Indications complémentaires nécessaires pour les véhicules neufs non prêts à l'emploi ayant fait l'objet d'une réception communautaire : données du tableau émis par l'Union technique de l'automobile, du motocycle et du cycle (UTAC/OTC) figurant à l'annexe 17 du présent arrêté, à joindre au certificat de conformité conforme à la directive 2007/46/CE.
+b) Indications complémentaires nécessaires pour les véhicules neufs non prêts à l'emploi ayant fait l'objet d'une réception communautaire : données du tableau émis par l'Union technique de l'automobile, du motocycle et du cycle (UTAC/OTC) figurant à l'annexe 17 du présent arrêté, à joindre au certificat de conformité conforme à la directive 2007/46/CE.
 
 3.3. Attestations d'identification
 
@@ -114,7 +112,7 @@ g) Attestation d'adaptation réversible conforme à l'annexe 1-C de l'arrêté d
 
 h) Attestation de conformité en cas de modification des niveaux de performance d'un type de véhicule, neuf ou usagé, de genre MTT1 ou MTT2 le rendant conforme à un autre type de véhicule de genre MTT2 ou inversement, suivant le modèle présenté en annexe 18 ;
 
-i) Certificat de conformité conforme à l'annexe 1 de l'arrêté du 13 avril 2016 relatif à la puissance des motocyclettes définies à l'article R. 311-1 du code de la route, pour les véhicules neufs de la catégorie L3 ou L4 faisant l'objet d'une opération de débridage ;
+i) Certificat de conformité conforme à l'annexe III ter de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules automobiles en cas de transformation en série d'un type de véhicules sous la responsabilité du constructeur ou à l'annexe 1 de l'arrêté du 13 avril 2016 relatif à la puissance des motocyclettes définies à l'article R. 311-1 du code de la route, pour les véhicules de la catégorie L3 ou L4 faisant l'objet d'une opération de débridage ;
 
 j) Attestation d'adaptation réversible véhicule école conforme à l'annexe 1-A de l'arrêté du 27 juin 2017 relatif à l'adaptation réversible des véhicules destinés à l'enseignement ou à l'apprentissage de la conduite, pour les véhicules neufs ou usagés de la catégorie M1, genre VP, ou de la catégorie N1, genre CTTE faisant l'objet d'une transformation réversible dite “ adaptation réversible véhicule école.” ;
 

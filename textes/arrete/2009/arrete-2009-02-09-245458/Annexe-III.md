@@ -138,6 +138,8 @@ Autre F3 poss : ... kg (1).
 
 Autre G1 poss : ... kg (1).
 
+Autre K poss : … (1).
+
 Ralentiss. + ... kg.
 
 Feu sp. Bleu cat B.

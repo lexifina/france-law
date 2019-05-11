@@ -1,40 +1,32 @@
 # Article Annexe XIII
 
-ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS COMPLETS
+ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS COMPLETS OU COMPLÉTÉS CONFORMES À UN TYPE COMMUNAUTAIRE
 
-OU COMPLÉTÉS CONFORMES À UN TYPE COMMUNAUTAIRE
+(Papier à en-tête du constructeur ou de son représentant ou de la DREAL/DEAL/DRIEE)
 
-(Papier à en-tête du constructeur ou de son représentant accrédité
+Je soussigné (Nom, Prénom)
 
-en France ou de la DREAL/DEAL/DRIEE)
+- Constructeur du véhicule ou son représentant (1) (2)
 
-Je soussigné (nom, prénom)
-
-Constructeur du véhicule ou son représentant dûment accrédité en France (1) (6)
-
-DREAL/DEAL/DRIEE (1) (6)
+- DREAL/DEAL/DRIEE (1)
 
 (dans la mesure où elle dispose des moyens techniques d'identification)
 
-certifie que le véhicule : NEUF - USAGÉ (1) (7) ci-dessous décrit a fait l'objet d'une réception communautaire :
+certifie que le véhicule ci-dessous décrit
 
-- valide à la date de délivrance de la présente attestation (1) (3) ;
+a fait l'objet d'une réception communautaire valide à la date de la première mise en circulation dont le numéro figure à la ligne K
 
-- valide à la date de la première mise en circulation (1) (4),
+et que les données nécessaires à l'immatriculation en France sont les suivantes (3) :
 
-dont le numéro figure à la ligne K,
-
-et que les données nécessaires à l'immatriculation en France sont les suivantes (9) :
-
-(A.1) Précédent numéro d'immatriculation (4)
+(A.1) Précédent numéro d'immatriculation
 
 Pays de provenance
 
-(B) Date de première immatriculation (4)
+(B) Date de première immatriculation
 
 (D.1) Marque
 
-(D.2) Type, variante, version
+(D.2) Type, Variante, Version
 
 (D.2.1) Code national d'identification du type
 
@@ -62,7 +54,7 @@ Pays de provenance
 
 (K) Numéro de la réception par type
 
-(P.1) Cylindrée (en cm³)
+(P.1) Cylindrée (en cm3)
 
 (P.2) Puissance nette maximale (en kW)
 
@@ -74,9 +66,9 @@ Pays de provenance
 
 (S.1) Nombre de places assises, y compris celle du conducteur
 
-(U.1) Niveau sonore à l'arrêt (en dB[A])
+(U.1) Niveau sonore à l'arrêt (en dB (A))
 
-(U.2) Vitesse du moteur (en tours par mn-¹)
+(U.2) Vitesse du moteur (en tours par min-1)
 
 (V7) CO2 (g/km)
 
@@ -84,28 +76,24 @@ Pays de provenance
 
 Je certifie en outre que les données complémentaires suivantes du véhicule autorisent son immatriculation en France :
 
-Puissance conventionnelle maximale à la roue (5) ...... (kW)
+- Puissance conventionnelle maximale à la roue (4) (kW)
 
-Vitesse maximale par construction : (8) ....... (km/h)
+- Vitesse maximale par construction : (5) (km/h)
 
-La largeur et la longueur n'excèdent pas les limites prévues aux articles R. 312-10 et R. 312-11 du code de la route.
+- La largeur et la longueur n'excèdent pas les limites prévues aux articles R. 312-10 et R. 312-11 du code de la route
 
 Observations éventuelles :
 
-A ..........................., le .......................................... Signature et fonction : .......................
+A , le
+
+Signature et fonction :
 
 (1) Rayer la mention inutile.
 
-(2) Mention concernant les véhicules neufs.
+(2) L'attestation relative aux véhicules d'un PTAC supérieur à 3 500 kg n'est délivrée que par le constructeur ou son représentant.
 
-(3) Mention concernant les véhicules usagés.
+(3) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
 
-(4) Uniquement pour les cyclomoteurs à trois roues carrossés, motocyclettes, tricycles, quadricycles légers et lourds à moteur. Conformément à l'article R. 311-1 du code de la route, la puissance d'une motocyclette ne doit pas excéder 73,6 kW (100 ch).
+(4) Uniquement pour les cyclomoteurs à trois roues carrossés, motocyclettes, tricycles, quadricycles légers et lourds à moteur.
 
-(5) L'attestation relative aux véhicules d'un PTAC supérieur à 3 500 kg n'est délivrée que par le constructeur ou son représentant.
-
-(6) Pour des raisons pratiques, cette attestation peut être délivrée en deux versions spécifiques : l'une pour les véhicules neufs, l'autre pour les véhicules d'occasion.
-
-(7) Uniquement pour les véhicules des catégories O1 et O2, si nécessaire.
-
-(8) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
+(5) Uniquement pour les véhicules des catégories O1 et O2, si nécessaire.
