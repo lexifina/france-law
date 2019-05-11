@@ -388,29 +388,61 @@ NATURE
 
 |
 
-1. Exécution d'une des étapes de production d'un objet céramique, au choix du candidat exprimé lors de l'inscription (dix heures) :
+1. Exécution d'une étape de production d'un objet céramique. Le candidat choisit, lors de son inscription, l'étape de production sur laquelle il souhaite passer l'épreuve pratique d'admission parmi celles ouvertes au concours dans la liste des 27 étapes suivantes (10 heures) :
 
-L'épreuve portera sur l'une ou plusieurs des étapes de production réparties dans les six catégories énumérées ci-dessous :
+-préparation chimique de couleur, émaux ou métaux précieux et formulation des pâtes ;
 
-a) Technologie-chimie :
+-préparation des pâtes ;
 
-― préparation chimique de couleurs, émaux, métaux précieux et formulation des pâte ;
+-enfournement et cuissons ;
 
-― préparation des pâtes et couvertes.
+-dessin d'épures ;
 
-b) Technologie-cuisson : enfournement et cuisson.
+-sculpture-modelage de figures ;
 
-c) Façonnage : modelage de figures, modelage de formes, moulage-tournage plâtre, moulage-réparage, petit coulage, grand coulage, tournage, calibrage, garnissage-découpage, polissage-ajustage ;
+-sculpture-modelage de formes ;
 
-d) Dessin : dessin d'épure, dessin de modèle ;
+-moulage-tournage plâtre ;
 
-e) Décoration : émaillage, gravure, impression, décalquage impression, impression offset, décalquage offset, pose de fond, peinture, filage dorure, brunissage ;
+-moulage-reparage ;
 
-f) Montage-ciselure ;
+-petit coulage ;
 
-2. Réalisation d'un dessin à main levée d'après modèle (quatre heures).
+-grand coulage ;
 
-L'arrêté d'ouverture du concours fixe les étapes de production sur lesquelles l'épreuve pratique peut porter.
+-tournage ;
+
+-calibrage ;
+
+-garnissage et découpage ;
+
+-émaillage ;
+
+-gravure ;
+
+-impression ;
+
+-décalquage impression ;
+
+-impression offset ;
+
+-décalquage offset ;
+
+-pose de fonds ;
+
+-peinture ;
+
+-dorure-filage ;
+
+-brunissage ;
+
+-tri-polissage et ajustage ;
+
+-polissage biscuit ;
+
+-polissage décoration ;
+
+-montage ciselure.
 
 |
 
@@ -451,6 +483,24 @@ DURÉE
 NATURE
 
 |
+
+Aquariologiste |
+
+Durée : 2 heures.
+
+Le candidat gère librement son temps dans le cadre des différents exercices proposés par le jury.
+
+|
+
+1) Mise en place d'un aquarium (filtre, chauffage, bulleur, éclairage, décor ainsi que tout élément nécessaire qui sera mis à disposition du candidat) pour plusieurs espèces animales. Une attention particulière doit être portée à l'esthétisme de la présentation.
+
+Pour cet exercice, le jury devra être présent.
+
+2) Réalisation d'un ensemble de tâches spécifiques à la maintenance et la surveillance du bien-être et de la bonne santé des espèces animales. Pour chaque session, le jury peut opter soit pour un exercice de dissection soit pour un exercice d'analyse des paramètres de la qualité de l'eau. Tout le matériel de dissection (dont l'animal décédé) et d'analyse (dont PH-mètre, oxymètre, salinomètre, kit d'analyse d'éléments chimiques) est fourni au candidat.
+
+a) le jury peut demander au candidat de procéder à une dissection. Cet exercice a pour objectif de préparer les poissons pour permettre la détermination de la cause de la mort du poisson et déterminer si celle-ci est naturelle. Il pourra également être demandé des schémas au candidat. Cet exercice pourra faire l'objet d'un compte rendu écrit par le candidat.
+
+b) le jury peut demander de procéder à l'analyse des paramètres de la qualité de l'eau et à l'établissement d'un tableau des mesures. Cet exercice fera l'objet d'un compte rendu écrit par le candidat. |
 
 Peintre décorateur
 

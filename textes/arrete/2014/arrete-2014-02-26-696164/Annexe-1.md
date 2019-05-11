@@ -438,6 +438,34 @@ Evolution des techniques de présentation des collections dans les musées.
 
 Programme relatif aux techniques des spécialités
 
+Aquariologiste :
+
+-la connaissance de la faune et de la flore aquatiques ;
+
+-la connaissance des spécificités des écosystèmes aquatiques (la rivière, l'étang, l'estran, les lacs, les zones humides, le milieu marin) ; de la protection et de la restauration des milieux aquatiques ;
+
+-la connaissance en biologie des êtres vivants et leurs modes de vie ;
+
+-la connaissance des espèces (le classement des animaux, l'alimentation, les pathologies), leurs caractéristiques (la qualité de l'eau, le décor, le courant, la lumière), leurs comportements (la cohabitation entre espèces) ; des grandes familles de poissons ; des animaux dangereux en aquariologie ;
+
+-le rôle de la réglementation : la règlementation sur les espèces, sur la présentation des animaux de la faune non domestique, des pratiques et le rôle de l'intervention publique (Union européenne ; niveaux international, national et régional) ;
+
+-les notions de chimie de l'eau : principaux paramètres physico-chimiques et leurs unités, qualité physico-chimique d'une eau ; le cycle de l'azote ;
+
+-les connaissances scientifiques et techniques relatives à la nutrition et à l'alimentation des espèces aquacoles ;
+
+-la connaissance en traitement de l'eau : système (s) de pompage, de filtration, de thermorégulation, de stérilisation ;
+
+-l'élevage : les méthodes d'élevage actuelles ; les facteurs limitants, les compétiteurs et les prédateurs (parasite, microbiologie) ; les connaissances des paramètres biologiques et techniques, les protocoles de travail ; les traitements antiparasitaires ; le bien-être animal ; les conditions de conservation des espèces ;
+
+-les équipements et installations : différents types possibles selon les espèces ; éléments constitutifs (matériaux, type de systèmes : hydraulique, aéraulique, thermique, hydraulique ; types de moteurs : thermique, électrique) ; outils d'analyse, de description et de choix des équipements ; nettoyage ;
+
+-la maintenance préventive, corrective et palliative de 1er niveau des équipements et installations dans le respect des contraintes d'hygiène et de sécurité et de protection de l'environnement et dans un objectif de sauvegarde de la production ; les traitements sanitaires ;
+
+-les règles d'hygiène et de sécurité : obligations réglementaires, équipements de protection individuelle consignes affichées, actions de prévention ;
+
+-les présentations muséales en biologie animale et végétale.
+
 Peintre-décorateur :
 
 Evolution des styles de décoration et des matériaux.
