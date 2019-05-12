@@ -6,7 +6,7 @@ I.-Identification (Nom, adresse et coordonnées) de l'antenne médicale de prév
 
 II.-Identification (Nom, prénom, date et lieu de naissance) du sportif :
 
-III.-Motif des entretiens (Décision disciplinaire : fédération compétente ou AFLD, date de notification de la sanction, durée de la sanction, motif de la sanction) :
+III.-Motif des entretiens (Décision disciplinaire : date de notification de la sanction, durée de la sanction, motif de la sanction) :
 
 IV.-Réalisation des entretiens (Date et lieu de réalisation de l'entretien) :
 
