@@ -1,488 +1,278 @@
 # Article Annexe 240-A.1
 
-Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'armement et de sécurité, sans se substituer aux articles pertinents du chapitre 240-2.
+Le tableau ci-dessous résume les dispositions d'embarquement du matériel d'armement et de sécurité des navires de plaisance, sans se substituer aux articles pertinents du chapitre 2.
 
-MATÉRIEL
+Matériel |
 
-|
-
-BASIQUE
-
-|
-
-CÔTIER
-
-|
-
-SEMI-HAUTURIER
-
-|
-
-HAUTURIER
-
-|
-
-Equipement individuel de flottabilité
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Un dispositif lumineux
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Moyens mobiles de lutte contre l'incendie
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Dispositif d'assèchement manuel
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Dispositif de remorquage
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Ligne de mouillage (si masse lège ≥ 250 kg)
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Annuaire des marées
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-Pavillon national (hors eaux territoriales)
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
-
-|
-
-x
+Basique |
 
-|
-
-Dispositif de repérage et d'assistance pour personne à la mer
-
-|
-
-|
+Côtier |
 
-x
+Semi-hauturier |
 
-|
+Hauturier |
 
-x
+Équipement individuel de flottabilité |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-Trois feux rouges à main
+x |
 
-|
+Un dispositif lumineux |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+x |
 
-|
+Équipements mobiles de lutte contre l'incendie |
 
-x
+x |
 
-|
+x |
 
-Compas magnétique
+x |
 
-|
+x |
 
-|
+Dispositif d'assèchement manuel |
 
-x
+x |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+Dispositif de remorquage |
 
-|
+x |
 
-Cartes marines officielles
+x |
 
-|
+x |
 
-|
+x |
 
-x
+Ligne de mouillage (si masse lège ≥ 250 kg) |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+x |
 
-|
+Annuaire des marées |
 
-Règlement international pour prévenir les abordages en mer
+x |
 
-|
+x |
 
-|
+x |
 
-x
+x |
 
-|
+Pavillon national (hors eaux territoriales) |
 
-x
+x |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-Description du système de balisage
+Dispositif de repérage et d'assistance pour personne à la mer de type "bouée fer à cheval" ou "bouée couronne" |
 
 |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+Trois feux rouges à main |
 
 |
 
-x
+x |
 
-|
+x |
 
-Trois fusées à parachute et deux fumigènes ou une VHF fixe
+x |
 
-|
+Compas magnétique |
 
 |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+Cartes marines officielles |
 
 |
-
-Radeau de survie
 
-|
+x |
 
-|
+x |
 
-|
+x |
 
-x
+Règlement international pour prévenir les abordages en mer |
 
 |
 
-x
+x |
 
-|
+x |
 
-Matériel pour faire le point
+x |
 
-|
+Description du système de balisage |
 
 |
 
-|
+x |
 
-x
+x |
 
-|
+x |
 
-x
+Radeau de survie |
 
 |
 
-Livre des feux
-
 |
 
-|
+x |
 
-|
+x |
 
-x
+Matériel pour faire le point |
 
 |
 
-x
-
 |
 
-Journal de bord
+x |
 
-|
+x |
 
-|
+Livre des feux |
 
 |
 
-x
-
 |
-
-x
 
-|
+x |
 
-Dispositif de réception des bulletins météorologiques
+x |
 
-|
+Journal de bord |
 
 |
 
 |
 
-x
+x |
 
-|
+x |
 
-x
+Dispositif de réception des bulletins météorologiques |
 
 |
 
-Harnais et longe par navire pour les non-voiliers
-
 |
 
-|
+x |
 
-|
+x |
 
-x
+Harnais et sa sauvegarde (longe) par navire pour les non voiliers |
 
 |
 
-x
-
 |
 
-Harnais et longe par personne embarquée pour les voiliers
+x |
 
-|
+x |
 
-|
+Harnais et sa sauvegarde (longe) par personne embarquée pour les voiliers |
 
 |
 
-x
-
 |
-
-x
 
-|
+x |
 
-Trousse de secours conforme à l'article 240-2.16
+x |
 
-|
+Trousse de secours conforme à l'article 240-2.16 |
 
 |
 
 |
 
-x
+x |
 
-|
+x |
 
-x
+Dispositif lumineux pour la recherche et le repérage de nuit (projecteur de recherche) |
 
 |
-
-Dispositif lumineux pour la recherche et le repérage de nuit
 
 |
 
-|
+x |
 
-|
+x |
 
-x
+VHF fixe |
 
 |
-
-x
 
 |
 
-Radiobalise de localisation des sinistres
+x |
 
-|
+x |
 
-|
+Radiobalise de localisation des sinistres |
 
 |
 
 |
 
-x
-
 |
-
-VHF fixe
 
-|
+x |
 
-|
+VHF portative |
 
 |
-
-x (à partir du 1er janvier 2017)
 
 |
 
-x
-
 |
 
-VHF portative
+x |
 
-|
+Dispositif de communication par satellite (recommandé) |
 
 |
 
@@ -490,6 +280,4 @@ VHF portative
 
 |
 
-x
-
-|
+x |
