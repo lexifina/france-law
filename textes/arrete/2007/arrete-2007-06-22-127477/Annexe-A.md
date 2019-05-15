@@ -228,12 +228,6 @@ Directeur du service technique de l'aviation civile |
 
 Sans limitation (7) (8) (9) |
 
-Quartier général du cabinet du ministre de la défense |
-
-Chef du quartier général |
-
-MAPA × 1 (10) |
-
 Service militaire volontaire |
 
 Commandement du service militaire volontaire |
