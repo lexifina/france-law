@@ -414,4 +414,146 @@ A offre de contrôle équivalente, gain de productivité lié à la multi qualif
 
 20 % |
 
+Pour l'ENAC, les critères de conformité aux options 4 et 5 sont définis ci-après. Pour qu'une option soit satisfaite, l'ensemble des critères doit être respecté.
+
+|
+
+OPTION 4 |
+
+OPTION 5 |
+
+Planification des semaines de travail |
+
+|
+
+|
+
+Nombre de semaines pendant lesquelles les mesures de flexibilité sont activées par l'établissement (sécables en 3 périodes maximum). |
+
+16 |
+
+8 |
+
+Nombre de semaines pendant lesquelles les mesures de flexibilité sont activées par agent |
+
+12 |
+
+6 |
+
+Nombre de jours hebdomadaires travaillés par agent lorsque les mesures de flexibilité sont activées |
+
+5 |
+
+5 |
+
+Temps de travail hebdomadaire par agent lorsque les mesures de flexibilité sont activées |
+
+42 |
+
+42 |
+
+Nombre d'heures de contact élèves hebdomadaire hors créneau de secours (dans la limite deux semaines consécutives) par agent lorsque les mesures de flexibilité sont activées |
+
+28 |
+
+28 |
+
+Amplitude horaire journalière maximale par agent lorsque les mesures de flexibilité sont activées |
+
+10h15 |
+
+10h15 |
+
+Nombre maximal de créneaux de deux heures de simulation journaliers (hors créneau de secours).
+
+A noter :
+
+Ne sont pas concernés les créneaux de simulation corrective et les créneaux programmés pour les élèves redoublants
+
+Dans le cadre des tests, les évaluations pourront être organisées en deux créneaux de 3 heures consécutives en dehors de toute mesure de flexibilité. |
+
+3 |
+
+3 |
+
+Durée consécutive d'instruction sur simulateur hors créneau de secours |
+
+4h |
+
+4h |
+
+Gestion des congés |
+
+|
+
+|
+
+Nombre minimal de semaines de congés à poser en période favorable |
+
+4 |
+
+3 |
+
+Nombre de semaines de congés fixées par l'ENAC |
+
+2 |
+
+2 |
+
+Anticipation des demandes de congés pendant la période de charge au plus tard trois mois précédant celle-ci. |
+
+3 mois |
+
+8 semaines |
+
+Récupération dirigées :
+
+Les récupérations consécutives à la mise en œuvre des mesures de flexibilité sont à poser en période favorable. |
+
+La totalité |
+
+50 % |
+
+Gestion des maintiens de compétences et formations |
+
+|
+
+|
+
+Programmation des périodes de maintien de compétences en période favorable |
+
+La totalité (sauf contrainte exceptionnelle et/ ou réglementaire) |
+
+2/3 |
+
+Renforts |
+
+|
+
+|
+
+Nombre de renforts potentiels par des STDI du département ATM pendant les périodes de charge |
+
+7 |
+
+4 |
+
+Performance |
+
+|
+
+|
+
+Ecart moyen sur la semaine, en période où il y a un besoin, entre :
+
+- le nombre de créneaux de simulation programmables par ICA avec l'expérimentation
+
+- le nombre de créneaux de simulation programmables par ICA sans expérimentation (créneau de 2 heures) |
+
+5 créneaux |
+
+2 créneaux
+
+|
+
 .
