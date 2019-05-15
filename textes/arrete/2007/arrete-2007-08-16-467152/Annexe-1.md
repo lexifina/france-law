@@ -1,58 +1,66 @@
 # Article Annexe 1
 
-DOSSIER DE DÉCLARATION DES ORGANISMES ASSURANT POUR LES BESOINS DE LEURS PROPRES PROGRAMMES DE RECHERCHE LA CONSERVATION ET LA PRÉPARATION DE TISSUS ET DE CELLULES ISSUS DU CORPS HUMAIN ET DE LEURS DÉRIVÉS, DES ORGANES, DU SANG, DE SES COMPOSANTS OU DE SES PRODUITS DÉRIVÉS, Y COMPRIS LA CONSTITUTION ET L'UTILISATION DE COLLECTIONS D'ÉCHANTILLONS BIOLOGIQUES HUMAINS (ARTICLES L. 1243-3 ET R. 1243-49 ET SUIVANTS DU CODE DE LA SANTÉ PUBLIQUE)
+DOSSIER DE DÉCLARATION DE PROJET D'ACTIVITÉ PRÉVUE AUX ARTICLES L. 1243-3 ET R. 1243-49 ET SUIVANTS DU CODE DE LA SANTÉ PUBLIQUE
 
-Le dossier est à adresser par lettre recommandée avec demande d'avis de réception ou à déposer contre récépissé, accompagné d'un courrier signé par le représentant légal de l'organisme, dans les conditions suivantes :
+La déclaration est constituée d'une lettre signée du représentant légal de l'organisme déposant et du dossier justificatif établi selon le modèle ci-dessous, saisis au moyen du téléservice CODECOH disponible à l'adresse internet suivante : https://appliweb.dgri.education.fr/appli_web/codecoh/IdentCodec.jsp.
 
-- 5 exemplaires au ministre de l'enseignement supérieur et de la recherche, direction générale de la recherche et de l'innovation, 1, rue Descartes, 75231 Paris Cedex 05 ;
+La lettre du représentant légal de l'organisme présente l'activité, atteste que le signataire a bien approuvé le dossier justificatif. Le dossier ainsi constitué est transmis au moyen du téléservice au ministre chargé de la recherche et, le cas échéant, au directeur général de l'agence régionale de santé ou au ministre de la défense.
 
-- et, lorsque l'organisme est un établissement de santé, 5 exemplaires au directeur de l'agence régionale de l'hospitalisation territorialement compétente ou, s'il s'agit d'un hôpital des armées, au ministre de la défense.
+Numéro de déclaration : |
 
-Lorsque plusieurs sites géographiquement distincts sont concernés, les parties II et III sont à compléter pour chacun des sites.
+N° |
 
-Vous pouvez consulter le tableau à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000274626
+|
 
-PARTIE I
+Modification de déclaration en cours :
 
-RENSEIGNEMENTS ADMINISTRATIFS RELATIFS À L'ENTITÉ
+□ oui □ non
 
-JURIDIQUE PRÉSENTANT LA DÉCLARATION
+Pour les parties II et III, seuls les items modifiés par rapport à la déclaration en cours sont renseignés. Les rubriques inchangées comportent la mention inchangé cf. dossier DC n° … . |
 
-1. Statut juridique (cocher la ou les cases correspondantes) :
+N° de déclaration en cours : |
 
-Etablissement de santé :
+Date : |
 
-Etablissement public de santé.
+Partie I : renseignements administratifs relatifs à l'entité juridique présentant la déclaration
 
-Etablissement privé participant au service public hospitalier.
+1. Statut juridique :
 
-Etablissement privé.
+Cocher la ou les cases correspondantes.
 
-N° FINESS :
+□ Etablissement de santé
 
-Agence régionale de l'hospitalisation de rattachement :
+□ Etablissement public de santé
 
-Hôpital des armées.
+□ Etablissement privé participant au service public hospitalier
 
-Etablissement public à caractère scientifique et technologique.
+□ Etablissement privé
 
-Etablissement public d'enseignement supérieur.
+n° FINESS :
 
-Autre établissement public.
+Agence régionale de santé de rattachement :
 
-Fondation reconnue d'utilité publique.
+□ Hôpital d'instruction des Armées ou autre entité relevant du ministère de la défense
 
-Groupement d'intérêt public.
+□ Etablissement public à caractère scientifique et technologique
 
-Société commerciale.
+□ Etablissement public d'enseignement supérieur
 
-N° K bis :
+□ Autre établissement public
 
-Association :
+□ Fondation reconnue d'utilité publique
 
-N° APE :
+□ Groupement d'intérêt public
 
-Autres (préciser) :
+□ Société commerciale
+
+n° K bis :
+
+□ Association
+
+n° APE :
+
+□ Autres (préciser) :
 
 2. Nom et adresse de l'organisme :
 
@@ -62,23 +70,37 @@ Adresse :
 
 Téléphone :
 
-Télécopie :
+Adresse électronique destinataire des courriels du téléservice :
 
-Adresse électronique :
+Représentant légal :
 
-Nom du représentant légal :
+Civilité : Madame □ Monsieur □
+
+Nom :
+
+Prénom :
 
 Titre et fonctions :
 
-3. Sites concernés par la demande (cocher la case correspondante) :
+3. Sites concernés par la déclaration :
 
-La déclaration concerne un seul site : le cas échéant, préciser sa localisation géographique si elle est différente de celle de l'entité juridique.
+Cocher la case correspondante.
 
-La déclaration concerne plusieurs sites : préciser les coordonnées des sites concernés et compléter, pour chaque site, les parties II et III.
+□ La déclaration concerne un seul site.
 
-4. Coordonnées du responsable scientifique ou du responsable scientifique coordonnateur des activités déclarées :
+Le cas échéant, préciser sa localisation géographique si elle est différente de celle de l'entité juridique.
+
+□ La déclaration concerne plusieurs sites.
+
+Préciser les coordonnées des sites concernés et compléter, pour chaque site, les parties II et III.
+
+4. Coordonnées du responsable scientifique ou du responsable scientifique coordonnateur des activités faisant l'objet de la déclaration :
+
+Civilité : Madame □ Monsieur □
 
 Nom :
+
+Prénom :
 
 Titre et fonctions :
 
@@ -86,158 +108,358 @@ Adresse :
 
 Téléphone :
 
-Télécopie :
+Seconde adresse électronique destinataire des courriels du téléservice :
 
-Adresse électronique :
-
-5. Comité de protection des personnes saisi :
-
-(Comité territorialement compétent pour le lieu où le responsable scientifique ou, le cas échéant, le responsable scientifique coordonnateur exerce ses fonctions.)
-
-PARTIE II
-
-DOSSIER TECHNIQUE
+Partie II : dossier technique
 
 Nom du site :
 
-1. Activité(s) faisant l'objet de la déclaration (cocher la ou les cases correspondantes) :
+1. Activité (s) faisant l'objet de la déclaration :
 
-Préparation.
+Cocher la ou les cases correspondantes.
 
-Conservation.
+□ Préparation
 
-Utilisation.
+□ Conservation
 
-Constitution de collections d'échantillons biologiques (*).
+□ Utilisation
 
-(*) Article L. 1243-3 du code de la santé publique : "Les termes "collections d'échantillons biologiques humains désignent la réunion, à des fins scientifiques, de prélèvements biologiques effectués sur un groupe de personnes identifiées et sélectionnées en fonction des caractéristiques cliniques ou biologiques d'un ou plusieurs membres du groupe, ainsi que des dérivés de ces prélèvements."
+□ Constitution de collections d'échantillons biologiques (*)
 
-2. Pour la déclaration d'activités existantes, date de démarrage de l'activité :
+(*) Article L. 1243-3 du code de la santé publique : "les termes “ collections d'échantillons biologiques humains ” désignent la réunion, à des fins scientifiques, de prélèvements biologiques effectués sur un groupe de personnes identifiées et sélectionnées en fonction des caractéristiques cliniques ou biologiques d'un ou plusieurs membres du groupe, ainsi que des dérivés de ces prélèvements.
 
-3. Locaux :
+2. Locaux :
 
 a) Adresse :
 
-b) Surface dédiée aux activités déclarées :
+b) Surface dédiée aux activités déclarées
 
 c) Procédure de nettoyage et décontamination des locaux et des équipements (préciser) :
 
 d) Systèmes et circuits d'élimination des déchets :
 
-4. Equipements techniques utilisés pour les activités faisant l'objet de la déclaration :
+3. Equipements techniques utilisés pour les activités faisant l'objet de la déclaration :
 
 a) Description des équipements et matériels dédiés aux activités :
 
-de préparation (préciser)
+□ de préparation (préciser)
 
-de conservation (préciser)
+□ de conservation (préciser)
 
-d'utilisation (préciser)
+□ d'utilisation (préciser)
 
-b) Existence d'un système de contrôle de la qualité :
+b) Démarche qualité :
 
-Oui (préciser) Non (préciser)
+Décrire précisément la démarche qualité mise en œuvre ou envisagée
 
-c) Existence de dispositifs de sécurité pour la conservation :
+c) Dispositif de sécurité pour la conservation :
 
-Oui (préciser) Non (préciser)
+Décrire précisément les équipements et procédures de sécurité
 
-5. Personnel :
+4. Personnel :
 
-a) Nom de la personne responsable de la protection du personnel sur le site :
+a) Nombre de personnes affectées aux activités faisant l'objet de la demande d'autorisation avec mention de leur qualification :
 
-b) Procédure de protection des personnels amenés à manipuler les échantillons (préciser la nature du risque et les mesures prises) :
+b) Description des formations suivies par le personnel dans les domaines touchant aux activités concernées (transport de matières dangereuses, assurance qualité, préparation des échantillons, gestion des bases de données, autoclave, travail en P2, etc) :
+
+c) Personne responsable de la protection du personnel sur le site :
+
+Civilité : Madame □ Monsieur □
+
+Nom :
+
+Prénom :
+
+Titre et fonctions :
+
+Téléphone :
+
+Adresse électronique
+
+d) Procédure de protection des personnels amenés à manipuler les échantillons (préciser la nature du risque et les mesures prises) :
+
+5. Conditions et matériel de transport :
+
+En cas de transit sur plusieurs sites, préciser les conditions et matériels de transport :
 
 6. Gestion des activités :
 
 a) Description des moyens utilisés pour la gestion des échantillons ou des collections et des données associées :
 
-Support informatique.
+b) Système de Codage et règles de confidentialité :
 
-Autre moyen (préciser) :
+c) Modalités d'étiquetage et d'identification des ressources :
 
-b) Situation au regard de la législation sur le traitement de données à caractère personnel :
+d) Modalités de gestion des documents justificatifs du recueil de consentement ou de l'absence d'opposition des donneurs :
 
-Procédure auprès de la CNIL (préciser) :
+e) Existence de conditions particulières d'accès aux échantillons : □ Oui □ Non
 
-S'il a été désigné, nom du correspondant à la protection des données à caractère personnel :
+Dans l'affirmative, préciser ces conditions.
+
+f) Situation au regard de la législation sur le traitement de données à caractère personnel :
+
+Procédure auprès de la CNIL : □ oui □ non (préciser)
+
+Le cas échéant, nom et prénom du délégué à la protection des données :
 
 7. Existence d'autres activités sur le même site :
 
 L'organisme effectuant la déclaration exerce-t-il sur le même site des activités de conservation ou de préparation à des fins thérapeutiques de tissus et cellules issus du corps humain, d'organes, du sang, de ses composants ou produits dérivés ?
 
-Oui Non
+□ Oui □ Non
 
-Dans l'affirmative, des procédures ont-elles été mises en place afin d'assurer une séparation des activités permettant d'éviter les risques de contamination et d'assurer la sécurité des produits ?
-
-Oui (préciser) Non (préciser)
+Dans l'affirmative, préciser les procédures mises en place afin d'assurer une séparation des activités permettant d'éviter les risques de contamination et d'assurer la sécurité des produits :
 
 8. Relations avec d'autres organismes, sous-traitance :
 
-a) Pour effectuer les activités déclarées, y a-t-il mise à disposition de moyens techniques par un autre organisme ?
+a) Pour effectuer les activités déclarées, y a-t-il mise à disposition de moyens matériels ou techniques par un autre organisme ?
 
-Oui Non
+□ Oui □ Non
 
-Dans l'affirmative, joindre les conventions passées entre l'organisme déclarant et cet organisme ou tout document précisant les modes de collaboration.
+Dans l'affirmative, préciser et joindre les conventions passées entre l'organisme déclarant et cet organisme ou tout document précisant les modes de collaboration.
+
+Pièces à joindre :
 
 b) Certaines des activités sont-elles sous-traitées ?
 
-Oui Non
+□ Oui □ Non
 
-Dans l'affirmative, préciser dans chaque rubrique du présent dossier technique, la part des activités sous-traitées.
+Dans l'affirmative, préciser la part des activités sous-traitées.
 
-PARTIE III
-
-RENSEIGNEMENTS SCIENTIFIQUES
+Partie III : renseignements scientifiques
 
 Nom du site :
 
-En cas de détention de collections, les rubriques 2 à 7 sont à remplir pour chacune des collections.
+La demande peut concerner une ou plusieurs collections ou des échantillons qui ne sont pas organisés en collection (cf. définition à la rubrique II. 1). Les rubriques 2 à 4 sont à remplir pour chaque collection et, le cas échéant, pour les échantillons non organisés en collection. Dans ce dernier cas, le tableau à la rubrique 2 ci-dessous, portera l'intitulé série d'échantillons (cocher la case correspondante).
 
 1. Nombre de collections :
 
 2. Nature des échantillons :
 
-Vous pouvez consulter le tableau à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000274626
+□ Collection (nommer la collection) :
 
-Nota. - Les cellules souches embryonnaires humaines provenant d'embryons conçus in vitro dans le cadre d'une assistance médicale à la procréation et pour lesquels il n'existe plus de projet parental font l'objet d'une procédure distincte (autorisation de conservation prévue par les articles L. 2151-7 et R. 2151-18 et suivants du code de la santé publique).
+□ Série d'échantillons |
 
-3. Modalités d'obtention des échantillons :
+Origine |
 
-(Préciser notamment si leur provenance est interne ou externe à l'organisme ou s'il s'agit d'échantillons importés)
+Organes |
 
-4. Consentement des donneurs :
+Tissus, composants ou
 
-Recueil du consentement (description de la procédure) :
+produits dérivés (préciser) |
 
-Vérification de l'absence d'opposition (description de la procédure) :
+Cellules, lignées, composants ou
 
-Echantillons anonymisés de façon irréversible (préciser) :
+produits dérivés, fluides (préciser) |
 
-5. Existence de données associées :
+Cerveau |
 
-Cliniques.
+|
 
-Anatomopathologiques.
+|
 
-Biologiques.
+|
 
-6. Programme(s) de recherche :
+Cœur-poumons |
 
-Description succincte (4 000 caractères maximum) :
+|
 
-Si l'activité déclarée n'inclut pas la constitution ou l'utilisation de collections d'échantillons biologiques et porte uniquement sur des échantillons anonymisés de façon irréversible, l'organisme peut indiquer seulement la thématique générale de recherche.
+|
 
-7. Devenir envisagé des échantillons ou de la collection à la fin des travaux de recherche :
+|
 
-Conservation sur site.
+Valves cardiaques |
 
-Transfert à une autre équipe de recherche appartenant au même organisme.
+|
 
-Transfert à un autre organisme pour les programmes de recherche de cet organisme.
+|
 
-Destruction.
+|
 
-Date, nom et signature du représentant légal de l'organisme demandeur
+Vaisseaux, veines, artères |
 
-Date, nom et signature du responsable scientifique ou du responsable scientifique coordonnateur des activités
+|
+
+|
+
+|
+
+Foie |
+
+|
+
+|
+
+|
+
+Pancréas |
+
+|
+
+|
+
+|
+
+Intestins |
+
+|
+
+|
+
+|
+
+Reins |
+
+|
+
+|
+
+|
+
+Vessie |
+
+|
+
+|
+
+|
+
+Muscles |
+
+|
+
+|
+
+|
+
+Os massifs/fragments osseux |
+
+|
+
+|
+
+|
+
+Tendons, ligaments |
+
+|
+
+|
+
+|
+
+Peau |
+
+|
+
+|
+
+|
+
+Cornées |
+
+|
+
+|
+
+|
+
+Sang périphérique |
+
+|
+
+|
+
+|
+
+Moelle osseuse |
+
+|
+
+|
+
+|
+
+Sang de cordon |
+
+|
+
+|
+
+|
+
+Placenta |
+
+|
+
+|
+
+|
+
+Embryons/foetus issus d'interruption de grossesse |
+
+|
+
+|
+
+|
+
+Autres (préciser) |
+
+|
+
+|
+
+|
+
+Nota. - Les embryons conçus in vitro dans le cadre d'une assistance médicale à la procréation et pour lesquels il n'existe plus de projet parental et les cellules souches embryonnaires humaines font l'objet d'une procédure distincte (autorisation de conservation prévue par les articles L. 2151-7 et R. 2151-18 et suivants du code de la santé publique).
+
+3. Titre du projet ou programme de recherche
+
+4. Résumé :
+
+Préciser la justification, le contexte, les objectifs et la méthodologie (4000 caractères maximum).
+
+5. Origine et modalités d'obtention des échantillons :
+
+a) Préciser le contexte dans lequel les échantillons ont été prélevés ou collectés et obtenus.
+
+b) Si les échantillons sont conservés à l'issue d'une ou plusieurs recherches impliquant la personne humaine telles que définies à l'article L. 1121-1, joindre copie des avis rendus par les comités de protection des personnes et, le cas échéant, copie des autorisations délivrées en application des mêmes dispositions :
+
+A compléter pour chaque recherche concernée.
+
+Titre de la recherche impliquant la personne humaine :
+
+Date de fin de la recherche impliquant la personne humaine :
+
+Pièces à joindre :
+
+c) Si la provenance des échantillons est externe à l'organisme déclarant, préciser les organismes fournisseurs, leurs coordonnées, le nom de la personne responsable, le cas échéant, le numéro de déclaration d'activité obtenu au titre de l'article L. 1243-3 du code la santé publique, le numéro d'autorisation d'activité obtenu au titre de l'article L. 1243-4 du code de la santé publique, le numéro d'autorisation d'importation obtenu au titre des articles R. 1235-7 à R. 1235-11 du code de la santé publique :
+
+d) Echantillons anonymisés : □ Oui □ Non (préciser)
+
+6. Information et consentement des donneurs :
+
+□ Information et recueil du consentement. Décrire la/les procédure(s) :
+
+□ Information et vérification de l'absence d'opposition. Décrire la/les procédure(s) :
+
+Joindre tout document permettant de s'assurer que les personnes dont sont issus les éléments biologiques ont été dûment informées de leur conservation à des fins scientifiques pour l'exercice de l'activité décrite dans le présent dossier, qu'elles y ont consenti ou qu'elles n'y sont pas opposées.
+
+Pièces à joindre :
+
+7. Existence de données associées :
+
+□ Cliniques
+
+□ Anatomopathologiques
+
+□ Biologiques
+
+8. Durée envisagée de conservation des échantillons :
+
+9. Devenir envisagé des échantillons ou de la collection à la fin des travaux de recherche :
+
+□ Projet de transfert à une autre équipe de recherche dans le cadre d'un projet de recherche commun. Préciser
+
+□ Projet de destruction, échéance envisagée
