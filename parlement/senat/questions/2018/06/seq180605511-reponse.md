@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605511
+
+- Question : [SEQ180605511](seq180605511.md) — État des servitudes risques et d'information sur les sols
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-05-16, page 2632*
+
+Les articles L. 125-5 et R. 125-26 encadre les modalités d'information des acquéreurs et des locataires sur l'état des risques et pollutions auquel le bien acheté ou loué est exposé. Comme indiqué dans la notice relative à l'établissement de l'état des risques et des pollutions disponible sur le site du ministère de la transition écologique et solidaire (https://www.ecologique-solidaire.gouv.fr/prevention-des-risques-naturels#e5), les informations à communiquer sont mises à disposition via des arrêtés publiés sur le site internet de la préfecture de département du bien concerné. Ce sont ces informations qui font foi et qui sont juridiquement opposables. Le site Géorisques a été conçu comme un outil informatif et pédagogique sur les risques. L'information actuellement disponible sur le site internet Géorisques ne permet donc pas de renseigner l'état des risques. Il n'a pas de valeur juridique, comme indiqué sur le site à l'attention des visiteurs. La rubrique consacrée à l'état des risques (http://www.georisques.gouv.fr/etat-des-risques-naturels-miniers-et-technologiques?codeInsee=91691) renvoie explicitement vers les informations publiées sur les sites Internet des préfectures. Consciente toutefois du besoin d'un service exploitant toutes les possibilités offertes par les outils numériques et permettant un accès plus rapide et plus facile à l'information que les arrêtés disponibles sur les sites internet des préfectures, la direction générale de la prévention des risques a engagé une démarche en ce sens qui permettra de répondre aux besoins des usagers.
