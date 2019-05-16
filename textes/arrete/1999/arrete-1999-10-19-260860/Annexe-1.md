@@ -38,21 +38,29 @@ De 23 heures à 23 h 29 locales :
 
 - aucun départ sur la dernière tranche de 10 minutes.
 
-2. Capacités des terminaux
+2. Capacité des terminaux
 
-Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux. Elle correspond aux flux maximaux de passagers au départ par 20 et 120 minutes mentionnés dans le tableau ci-après.
+Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux. Elle correspond aux nombres maximaux de passagers au départ par 20 et 120 minutes mentionnés dans le tableau ci-après.
 
-Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire sur les tranches de 20 minutes et 120 minutes concernées en regard des flux maximaux, sur la base de l'appareil envisagé et d'un coefficient de remplissage moyen.
+Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire sur les tranches de 20 minutes et 120 minutes concernées en regard des nombres maximaux, sur la base de l'appareil envisagé et d'un coefficient de remplissage moyen.
 
-Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux flux maximaux, le coordonnateur, en liaison avec le Groupe ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
+Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux nombres maximaux, le coordonnateur, en liaison avec le Groupe ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-A compter de la saison aéronautique d'été 2019 :
+A compter de la saison aéronautique d'hiver 2019/2020
 
 Terminal |
 
-Flux maximal de passagers par 20 min au départ |
+Nombre maximal
 
-Flux maximal de passagers par 120 min au départ |
+de passagers
+
+par 20 min au départ |
+
+Nombre maximal
+
+de passagers
+
+par 120 min au départ |
 
 Orly 1 |
 
@@ -62,9 +70,9 @@ Orly 1 |
 
 Orly 2 |
 
-700 |
+350 |
 
-2 300 |
+950 |
 
 Orly 3 |
 
