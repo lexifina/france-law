@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700705
+
+- Question : [SEQ170700705](seq170700705.md) — Détresse budgétaire des élus locaux
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-05-16, page 2605*
+
+Le Gouvernement entend nouer avec les collectivités locales une relation nouvelle, fondée sur la confiance. Celle-ci s'est traduite par un arrêt de la minoration unilatérale de la dotation globale de fonctionnement telle qu'elle avait été pratiquée entre 2014 et 2017 et par la stabilisation des concours financiers de l'État aux collectivités locales. C'est ainsi que la dotation globale de fonctionnement (DGF) est, à périmètre constant, stable en 2018 comme en 2019. L'association des collectivités locales au redressement des comptes publics ne se traduit pas par un objectif de baisse de leurs dépenses mais par une volonté de maîtrise de la progression de celles-ci par rapport à leur augmentation tendancielle, comme le prévoit l'article 13 de la loi n° 2018-32 du 22 janvier 2018 de programmation des finances publiques pour les années 2018 à 2022. L'article 29 de la même loi propose, aux 322 collectivités dont les dépenses sont les plus importantes, la signature de contrats de maîtrise de la dépense publique, issus d'une large concertation avec les élus locaux et selon des modalités validées par le Conseil Constitutionnel. Par ailleurs, concomitamment à la mise en place de cette démarche contractuelle, le Gouvernement maintient à un niveau particulièrement élevé le soutien à l'investissement des collectivités territoriales alors même que l'augmentation de ce soutien avait, initialement, pour objet d'éviter les effets dépressifs de la baisse de la DGF sur les investissements des collectivités. Pour l'exercice 2019, ce sont 1,046 milliard d'euros qui a ainsi été inscrit en loi de finances initiales au titre de la dotation d'équipement des territoires ruraux et 570 millions d'euros au titre de la dotation de soutien à l'investissement local.
