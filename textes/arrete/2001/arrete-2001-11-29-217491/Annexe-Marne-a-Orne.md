@@ -896,13 +896,15 @@ C |
 
 13 points |
 
-Direction départementale de l'équipement et de l'agriculture (2) de l'Oise
+Direction départementale des territoires de l'Oise
 
 Fonctions exercées |
 
 Niveau de qualification de l'emploi |
 
-Nombre d'emplois |
+Nombre
+
+d'emplois |
 
 Nombre de points (IM) par emploi |
 
@@ -914,7 +916,7 @@ A |
 
 40 |
 
-Responsable du bureau renouvellement urbain et ingénierie financière-Service de l'habitat, du logement et du renouvellement urbain à Beauvais |
+Responsable du bureau renouvellement urbain et ingénierie financière-service de l'habitat, du logement et du renouvellement urbain à Beauvais |
 
 A |
 
@@ -922,7 +924,7 @@ A |
 
 20 |
 
-Responsable du bureau habitat durable-Service de l'habitat, du logement et du renouvellement urbain à Beauvais |
+Responsable du bureau habitat durable-service de l'habitat, du logement et du renouvellement urbain à Beauvais |
 
 A |
 
@@ -930,7 +932,7 @@ A |
 
 20 |
 
-Délégué territorial Nord-Est à Compiègne |
+Délégué territorial Nord-Est adjoint à Compiègne, chargé de la politique de la ville |
 
 A |
 
@@ -938,7 +940,7 @@ A |
 
 20 |
 
-Délégué territorial Ouest à Beauvais |
+Délégué territorial Ouest adjoint à Beauvais, chargé de la politique de la ville |
 
 A |
 
@@ -946,7 +948,7 @@ A |
 
 20 |
 
-Délégué territorial adjoint Sud-Est à Senlis |
+Délégué territorial Sud-Est adjoint à Senlis, chargé de la politique de la ville |
 
 B |
 
@@ -954,7 +956,7 @@ B |
 
 25 |
 
-Délégué territorial adjoint Nord-Est à Compiègne |
+Délégué territorial Nord-Est adjoint à Compiègne, chargé de la politique de la ville |
 
 B |
 
@@ -1005,3 +1007,5 @@ NOTA :
 Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1725827A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle entrent en vigueur le 1er octobre 2017.
 
 Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1722358A), les dispositions dudit arrêté entrent en vigueur le 1er janvier 2016 pour ce qui concerne la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale de la Nouvelle-Aquitaine.
+
+Conformément à l'article 1er de l'arrêté du 7 mai 2019, les dispositions dudit arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Oise entrent en vigueur le 1er janvier 2018.
