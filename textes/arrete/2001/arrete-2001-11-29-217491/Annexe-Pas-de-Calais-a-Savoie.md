@@ -2,27 +2,19 @@
 
 Direction départementale des territoires et de la mer du Pas-de-Calais
 
-(A compter du 1er janvier 2018)
-
 FONCTIONS EXERCÉES |
 
-Niveau
-
-de qualification
+NIVEAU DE QUALIFICATION
 
 de l'emploi |
 
-Nombre
+NOMBRE D'EMPLOIS |
 
-d'emplois |
-
-Nombre
-
-de points (IM)
+NOMBRE DE POINTS (IM)
 
 par emploi |
 
-Responsable d'unité habitat-renouvellement urbain (Boulogne)-Service habitat renouvellement urbain |
+Adjoint au chef de service habitat renouvellement urbain |
 
 A |
 
@@ -30,23 +22,7 @@ A |
 
 30 |
 
-Adjoint au chef de service habitat renouvellement urbain-Service habitat renouvellement urbain |
-
-A |
-
-1 |
-
-30 |
-
-Responsable d'unité rénovation et qualité urbaine-Service habitat renouvellement urbain |
-
-A |
-
-1 |
-
-30 |
-
-Chargé de mission politique de la ville-Service habitat renouvellement urbain |
+Chargé de mission-référent "Engagement pour le renouveau du bassin minier" (ERBM UNESCO) |
 
 A |
 
@@ -54,7 +30,23 @@ A |
 
 25 |
 
-Adjoint au responsable de l'unité rénovation et qualités urbaines-chargé d'instruction et de suivi financier rénovation urbaine et politique de la ville-Service habitat renouvellement urbain |
+Responsable de l'unité habitat renouvellement urbain (Boulogne-sur-Mer) |
+
+A |
+
+1 |
+
+30 |
+
+Responsable de l'unité rénovation qualité urbaine |
+
+A |
+
+1 |
+
+30 |
+
+Adjoint au responsable de l'unité rénovation qualité urbaine-chargé d'instruction et de suivi financier |
 
 B |
 
@@ -62,7 +54,7 @@ B |
 
 20 |
 
-Adjoint au responsable de l'unité rénovation et qualités urbaines-chargé du suivi opérationnel rénovation urbaine des projets de l'Artois-Service habitat renouvellement urbain |
+Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi |
 
 B |
 
@@ -70,7 +62,7 @@ B |
 
 20 |
 
-Chargé d'instruction et de suivi financier rénovation urbaine et politique de la ville-Service habitat renouvellement urbain |
+Chargé d'instruction financière-unité rénovation qualité urbaine |
 
 B |
 
@@ -78,7 +70,7 @@ B |
 
 20 |
 
-Assistant d'études à l'unité habitat renouvellement urbain (Boulonnais)-Service habitat renouvellement urbain |
+Assistant d'études boulonnais référent " lutte contre l'habitat indigne" (LHI)-unité habitat renouvellement urbain |
 
 B |
 
@@ -608,4 +600,4 @@ B
 
 NOTA :
 
-Conformément aux dispositions de l'article 1er de l’arrêté du 27 mars 2018, l'annexe pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Pas-de-Calais, est remplacée, à effet du 1er septembre 2016.
+Conformément aux dispositions de l'article 1er de l'arrêté du 15 mai 2019, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des terrotoires et de la mer du Pas-de-Calais, les dispositions de l'annexe sont remplacées à effet du 1er janvier 2019.
