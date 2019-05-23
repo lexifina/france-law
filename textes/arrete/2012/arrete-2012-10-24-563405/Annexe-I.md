@@ -216,6 +216,8 @@ Paris-Kunming ;
 
 Paris-Pékin ;
 
+Paris-Qingdao.
+
 Paris-Shanghai ;
 
 Paris-Wuhan ;
