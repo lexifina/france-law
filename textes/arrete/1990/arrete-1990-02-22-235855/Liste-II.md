@@ -2762,24 +2762,6 @@ Voie orale
 
 |
 
-Flurbiprofène
-
-|
-
-Pastille à sucer
-
-|
-
-|
-
-0,00875
-
-|
-
-0,140
-
-|
-
 Formol (formaldéhyde)
 
 |
