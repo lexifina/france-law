@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208925
+
+- Question : [SEQ190208925](seq190208925.md) — Déneigement des voies communales
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-05-23, page 2740*
+
+Les voies communales appartiennent au domaine public routier communal, conformément à l'article L. 141-1 du code de la voirie routière. En application de l'article L. 141-8 du même code, les dépenses d'entretien de ces voies constituent des dépenses obligatoires mises à la charge des communes au sens de l'article L. 2321-2 du code général des collectivités territoriales (CGCT). L'entretien de ces voies comprend leur déneigement. S'agissant de l'entretien des routes départementales traversant une agglomération, ces routes appartiennent au domaine public routier du département, qui a la charge de les entretenir en application de l'article L. 131-2 du code de la voirie routière (CAA Lyon, 22 juin 1993, n° 92LY00167). Néanmoins, le maire peut également être amené à intervenir sur ces voies, dans la mesure où il est titulaire de la police municipale visant à assurer la sûreté et la commodité de passage dans les rues (article L. 2212-2 du CGCT). À l'intérieur d'une agglomération, les opérations de déneigement relèvent donc des prérogatives du gestionnaire de la voie concernée mais également de l'exercice du pouvoir de police du maire. Il est donc nécessaire qu'une coordination soit réalisée entre les différents acteurs concernés. Ainsi, dans le cadre d'un contentieux, le juge apprécierait la responsabilité des collectivités concernées. La responsabilité du département pourrait être engagée pour un défaut d'entretien normal de la route départementale, en cas d'absence de déneigement de cette voie. Par ailleurs, celle de la commune pourrait également l'être au titre d'une carence dans l'exercice du pouvoir de police municipale du maire.
