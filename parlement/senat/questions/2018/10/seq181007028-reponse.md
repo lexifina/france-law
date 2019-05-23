@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007028
+
+- Question : [SEQ181007028](seq181007028.md) — Contamination du chaume
+
+## Réponse
+
+*Économie et finances, JO du 2019-05-23, page 2753*
+
+Depuis 1982, le régime des catastrophes naturelles vise à garantir aux assurés une protection contre les dommages matériels directs dus à des évènements climatiques ou géologiques de fréquence rare (critère de « l'intensité anormale d'un agent naturel »), réputés non assurables et n'ayant pu être évités, selon l'article L. 125-1 du code des assurances. À cette fin, des communes doivent formuler pour leurs administrés assurés des demandes administratives de reconnaissance auprès des services de l'État. Ces demandes sont instruites scientifiquement, puis les dossiers sont examinés par une commission interministérielle dédiée, qui formule ensuite des avis juridiquement non contraignants à l'endroit des ministres chargés de prendre des arrêtés de reconnaissance et de non-reconnaissance de l'état de catastrophe naturelle dans les communes demanderesses. Un arrêté de reconnaissance signifie ainsi qu'une commune a subi sur son territoire un évènement naturel de fréquence rare, inassurable et inévitable. À ce jour, aucune demande de commune de Loire-Atlantique portant sur ce phénomène n'a été reçue par la commission interministérielle. En tout état de cause, le développement de champignons et de cyanobactéries dans le marais de la Brière ne saurait en effet être qualifié d'évènement climatique ou géologique caractérisé par la manifestation de l'intensité anormale d'un agent naturel, au sens de la jurisprudence des arrêtés de reconnaissance. Par ailleurs, ni l'inassurabilité, ni l'aspect inévitable de ce phénomène, même à la suite de mesures de traitement préventif ou d'entretien des toits, n'ont été à ce jour prouvés.
