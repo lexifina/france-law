@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309294
+
+- Question : [SEQ190309294](seq190309294.md) — Jour de carence et congé maternité dans la fonction publique
+
+## Réponse
+
+*Action et comptes publics (M. le SE auprès du ministre), JO du 2019-05-23, page 2722*
+
+Dans un objectif d'alignement avec le secteur privé et afin de lutter contre les absences de très courte durée qui sont source de désorganisation des services publics, le délai de carence a été instauré dans la fonction publique par l'article 115 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018. Ce délai de carence d'une durée d'un jour s'applique au premier jour du congé maladie accordé aux agents publics. Conformément à l'action 4.2 de l'axe 4 « Mieux accompagner les situation de grossesse, la parentalité et l'articulation des temps de vie professionnelle et personnelle » de l'accord sur l'égalité professionnelle entre les femmes et les hommes dans la fonction publique du 30 novembre 2018, le Gouvernement s'est engagé à ne pas faire peser sur les agents publics en état de grossesse les conséquences du délai de carence. En effet, si l'état de grossesse ne constitue pas un état pathologique, il génère une situation de vulnérabilité notamment au regard des traitements médicaux que la femme enceinte peut prendre entrainant ainsi une exposition particulière au risque de maladie nécessitant un arrêt de travail. Ainsi, l'article 32 du projet de loi de transformation de la fonction publique, actuellement examiné à l'Assemblée nationale, ajoute un cas de non application du délai de carence en insérant un 5° au II de l'article 115 de la loi de finances pour 2018 pour les cas de congés de maladie prescrits pour les agents publics en état de grossesse postérieurement à la déclaration de grossesse à leur employeur et jusqu'au congé pour maternité.
