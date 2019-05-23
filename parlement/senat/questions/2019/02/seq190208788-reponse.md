@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208788
+
+- Question : [SEQ190208788](seq190208788.md) — Caducité des plans d'occupation des sols au 31 décembre 2019
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-05-23, page 2729*
+
+La caducité des plans d'occupation des sols (POS) est programmée depuis la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) qui annonçait le remplacement progressif de ces documents par des plans locaux d'urbanisme (PLU). La loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (Alur) a ensuite mis en place les modalités de cette caducité en laissant encore trois ans aux communes pour transformer leur POS en PLU. Un report a également été autorisé pour permettre aux communautés qui sont devenues compétentes en matière de PLU, et qui ont lancé l'élaboration d'un PLU intercommunal (PLUI) avant le 31 décembre 2015, de pouvoir conserver leur POS jusqu'à l'approbation de leur PLUI, et au plus tard le 31 décembre 2019. Ces dispositifs ont laissé du temps aux territoires pour anticiper la caducité de leur POS et conduire les procédures nécessaires et il n'est donc pas envisagé de nouveaux reports. Au 31 décembre 2018, 1 102 communes disposent encore d'un POS opposable dans le cadre d'une procédure d'élaboration de PLUI. Si ces procédures n'aboutissent pas avant le 31 décembre 2019, le règlement national d'urbanisme (RNU) s'y appliquera, jusqu'à l'approbation d'un PLUI par leur établissement public de coopération intercommunale (EPCI) d'appartenance. Les services déconcentrés de l'État accompagnent ces territoires depuis plusieurs années pour leur permettre de se doter des documents d'urbanisme pertinent au regard de leurs projets de développement.
