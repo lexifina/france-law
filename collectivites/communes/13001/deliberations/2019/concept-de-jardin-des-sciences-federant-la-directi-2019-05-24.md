@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONCEPT DE "JARDIN DES SCIENCES" FÉDÉRANT LA DIRECTION ARCHÉOLOGIE ET MUSÉUM, LE PLANÉTARIUM ET LES ASSOCIATIONS A CARACTÈRE SCIENTIFIQUE DE LA VILLE - LANCEMENT D'UNE ÉTUDE SUR LA CONFIGURATION ET LES MODALITÉS DE SA MISE EN OEUVRE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2019-05-24
+- Séance : Conseil Municipal 1CA
+- Objet : CONCEPT DE "JARDIN DES SCIENCES" FÉDÉRANT LA DIRECTION ARCHÉOLOGIE ET MUSÉUM, LE PLANÉTARIUM ET LES ASSOCIATIONS A CARACTÈRE SCIENTIFIQUE DE LA VILLE - LANCEMENT D'UNE ÉTUDE SUR LA CONFIGURATION ET LES MODALITÉS DE SA MISE EN OEUVRE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10804-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
