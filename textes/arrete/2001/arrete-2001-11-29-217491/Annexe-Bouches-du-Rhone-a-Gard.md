@@ -756,7 +756,7 @@ par emploi
 
 |
 
-Responsable de l'unité gestion des aides à la pierre
+Chef du service habitat, construction ville
 
 |
 
@@ -1206,6 +1206,6 @@ NOTA :
 
 (7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
 
-(8) En application de l'article 1 de l'arrêté du 5 décembre 2016, entre en vigueur à compter du 1er janvier 2016, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
+(8) En application de l'article 1 de l'arrêté du 7 mai 2019, entre en vigueur à compter du 1er mars 2019, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
 
 (9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
