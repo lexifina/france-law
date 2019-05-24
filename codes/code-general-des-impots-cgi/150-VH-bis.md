@@ -1,8 +1,8 @@
 # Article 150 VH bis
 
-I. – Sous réserve des dispositions propres aux bénéfices professionnels, les plus-values réalisées par les personnes physiques domiciliées fiscalement en France au sens de l'article 4 B, directement ou par personne interposée, lors d'une cession à titre onéreux d'actifs numériques mentionnés au VI du présent article ou de droits s'y rapportant sont passibles de l'impôt sur le revenu dans les conditions prévues au présent article.
+I. – Sous réserve des dispositions propres aux bénéfices professionnels, les plus-values réalisées par les personnes physiques domiciliées fiscalement en France au sens de l'article 4 B, directement ou par personne interposée, lors d'une cession à titre onéreux d'actifs numériques mentionnés à l'article L. 54-10-1 du code monétaire et financier ou de droits s'y rapportant sont passibles de l'impôt sur le revenu dans les conditions prévues au présent article.
 
-II. – A. – Les dispositions du I ne sont pas applicables, au titre de l'année d'échange, aux opérations d'échange sans soulte entre actifs numériques définis au même I ou droits s'y rapportant.
+II. – A. – Les dispositions du I du présent article ne sont pas applicables, au titre de l'année d'échange, aux opérations d'échange sans soulte entre actifs numériques définis au même I ou droits s'y rapportant.
 
 B. – Les personnes réalisant des cessions dont la somme des prix, tels que définis au A du III, n'excède pas 305 € au cours de l'année d'imposition hors opérations mentionnées au A du présent II, sont exonérées.
 
@@ -28,14 +28,4 @@ Les redevables portent sur la déclaration annuelle prévue à l'article 170 le 
 
 B. – Un décret détermine les obligations déclaratives incombant aux redevables et aux personnes interposées mentionnées au I.
 
-VI. – Les actifs numériques comprennent :
-
-1° Les jetons, à l'exclusion de ceux remplissant les caractéristiques des instruments financiers mentionnés à l'article L. 211-1 du code monétaire et financier et des bons de caisse mentionnés à l'article L. 223-1 du même code.
-
-Pour l'application du premier alinéa du présent 1°, constitue un jeton tout bien incorporel représentant, sous forme numérique, un ou plusieurs droits, pouvant être émis, inscrits, conservés ou transférés au moyen d'un dispositif d'enregistrement électronique partagé permettant d'identifier, directement ou indirectement, le propriétaire dudit bien ;
-
-2° Toute représentation numérique d'une valeur qui n'est pas émise ou garantie par une banque centrale ou par une autorité publique, qui n'est pas nécessairement attachée à une monnaie ayant cours légal et qui ne possède pas le statut juridique d'une monnaie, mais qui est acceptée par des personnes physiques ou morales comme un moyen d'échange et qui peut être transférée, stockée ou échangée électroniquement.
-
-NOTA :
-
-Conformément à l’article 41 II Ade la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2019.
+VI. – (Abrogé).

@@ -60,6 +60,4 @@ Ces dispositions sont applicables pour la détermination des résultats des exer
 
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2.
 
-NOTA :
-
-Conformément aux dispositions du IV de l'article 31 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions telles qu'elles résultent du I dudit article s'appliquent à compter du premier jour du deuxième mois qui suit la publication de ladite loi.
+11. Les plus-values mentionnées au 1 sont minorées du montant résultant de l'engagement de partage dû en application des articles L. 23-11-1 à L. 23-11-4 du code de commerce.

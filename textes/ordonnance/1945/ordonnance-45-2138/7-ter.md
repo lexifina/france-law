@@ -10,7 +10,9 @@ Les associations ayant pour objet l'activité d'expertise comptable sont seules 
 
 Les dirigeants et les administrateurs de ces associations doivent justifier, dans les conditions définies par le décret mentionné à l'article 84 bis, avoir satisfait à leurs obligations fiscales et sociales.
 
-Les ressources de ces associations sont constituées des cotisations et des rémunérations pour services rendus, versées par les adhérents et, le cas échéant, de subventions publiques.
+Les ressources de ces associations sont constituées des cotisations et des rémunérations pour services rendus, versées par les adhérents et, le cas échéant, de subventions publiques dont le montant est convenu par un contrat écrit librement et préalablement à l'exercice des missions.
+
+Des rémunérations complémentaires, liées à la réalisation d'un objectif préalablement déterminé, sont possibles mais ne doivent en aucun cas conduire à compromettre l'indépendance des associations ou à les placer en situation de conflit d'intérêts. Ces rémunérations complémentaires peuvent s'appliquer à toutes missions à l'exception de celles mentionnées aux deux premiers alinéas de l'article 2 ou de celles participant à la détermination de l'assiette fiscale ou sociale de l'adhérent.
 
 II. - Les associations de gestion et de comptabilité et les sociétés pluri-professionnelles d'exercice sont soumises aux dispositions législatives et réglementaires relatives à la profession d'expert-comptable.
 
@@ -19,9 +21,3 @@ Leur activité est soumise à un contrôle dans les conditions fixées par le d�
 Tout adhérent qui formulerait sciemment une demande de travaux ou d'activités contraires à la déontologie de l'ordre des experts-comptables doit être exclu de l'association. S'il n'est pas exclu, la commission mentionnée à l'article 49 bis peut être saisie par tout salarié de l'association inscrit au tableau de l'ordre des experts-comptables.
 
 III. - Les associations de gestion et de comptabilité et les sociétés pluri-professionnelles d'exercice versent des contributions annuelles calculées de manière identique aux cotisations professionnelles versées par les membres de l'ordre selon des modalités de détermination et de versement fixées par l'arrêté portant règlement intérieur de l'ordre, prévu à l'article 60.
-
-NOTA :
-
-Conformément aux dispositions de l'article 13 de l'ordonnance n° 2016-394 du 31 mars 2016, les dispositions du chapitre IV du titre II de ladite ordonnance à l'exception du 7° de l'article 8, entrent en vigueur à une date qui sera fixée par décret en Conseil d'Etat pris pour l'application des dispositions législatives que ce chapitre modifie, et au plus tard le 1er juillet 2017.
-
-Le décret n° 2017-799 du 5 mai 2017 en son article 2 a fixé cette date au lendemain du jour de sa publication au Journal officiel de la République française, soit le 8 mai 2017.
