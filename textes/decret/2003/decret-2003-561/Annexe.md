@@ -4,7 +4,7 @@
 
 NOTA :
 
-(1) Décret n° 2018-355 du 14 mai 2018 : Le tableau résultant des modifications énoncées aux articles 1er, 2, 3, 4, 5 et 6 du présent décret est disponible sur le site internet
+(1) Décret n° 2019-516 du 23 mai 2019 : Le tableau résultant des modifications énoncées aux articles 1er, 2, 3 et 4 du présent décret est disponible sur le site internet
 
 www.insee.fr
 
