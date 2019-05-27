@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord s'applique à l'ensemble des entreprises de la branche du tourisme social et familial. Par ailleurs et en référence à l'article L. 2261-23-1 du code du travail, les dispositions contenues dans le présent avenant ne nécessitent pas la mise en place d'un accord type par la branche ni d'adaptation spécifique pour leur mise en œuvre au sein des entreprises de moins de 50 salariés. Pour autant, il est apparu essentiel aux partenaires sociaux signataires d'accorder une attention particulière et un soutien dédié aux entreprises de moins de 50 salariés dans le cadre de la commission de suivi instaurée à l'article 11, qui produira un outillage adapté.
