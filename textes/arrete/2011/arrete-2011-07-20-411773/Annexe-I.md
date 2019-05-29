@@ -1,41 +1,29 @@
 # Article Annexe I
 
-1. Mission se déroulant dans :
-
-- les communes de la région Ile-de-France ;
-
-- les communes suivantes et leurs communes limitrophes desservies par des moyens de transport publics de voyageurs : Bordeaux, Lille, Lyon, Marseille, Montpellier, Nantes, Nice, Rennes, Strasbourg et Toulouse.
-
-Indemnité de repas
+MISSION EN MÉTROPOLE
 
 |
 
-15,25 euros
+Taux de base |
 
-|
+Grandes villes et communes
 
-Indemnité d'hébergement
+de la région Ile-de-France |
 
-|
+Commune de Paris |
 
-70 euros
+Hébergement |
 
-|
+70,00 € |
 
-2. Mission se déroulant dans les autres communes de la France métropolitaine.
+90,00 € |
 
-Indemnité de repas
+110,00 € |
 
-|
+Repas |
 
-15,25 euros
+15,25 € |
 
-|
+Pour l'application de ces taux, sont considérées comme grandes villes les communes dont la population légale est égale ou supérieure à 200 000 habitants.
 
-Indemnité d'hébergement
-
-|
-
-55 euros
-
-|
+Le taux d'hébergement prévu ci-dessus est fixé dans tous les cas à 120 € pour les militaires reconnus en qualité de travailleurs handicapés et en situation de mobilité réduite.

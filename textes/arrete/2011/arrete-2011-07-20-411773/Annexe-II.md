@@ -2,38 +2,24 @@
 
 MISSION OUTRE-MER
 
-1. Mission se déroulant en Martinique, à la Guadeloupe, en Guyane, à La Réunion, à Mayotte ou à Saint-Pierre-et-Miquelon :
-
-Indemnité de repas
-
 |
 
-15,75 €
+Martinique, Guadeloupe, Guyane, La Réunion, Mayotte,
 
-|
+Saint-Pierre-et-Miquelon, Saint-Martin, Saint-Barthélemy |
 
-Indemnité d'hébergement
+Nouvelle-Calédonie, Wallis et Futuna, Polynésie française |
 
-|
+Hébergement |
 
-58,50 €
+70,00 € |
 
-|
+90,00 € |
 
-2. Mission se déroulant en Nouvelle-Calédonie, dans les îles de Wallis et Futuna et en Polynésie française :
+Repas |
 
-Indemnité de repas
+15,75 € |
 
-|
+21,00 € |
 
-21,00 €
-
-|
-
-Indemnité d'hébergement
-
-|
-
-78,00 €
-
-|
+Le taux d'hébergement prévu ci-dessus est fixé dans tous les cas à 120 € pour les militaires reconnus en qualité de travailleurs handicapés et en situation de mobilité réduite.
