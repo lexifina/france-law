@@ -1542,18 +1542,6 @@ En application sur la peau
 
 |
 
-Bismuth
-
-|
-
-Solution buvable |
-
-|
-
-2 mg |
-
-20 mg |
-
 Bromoforme :
 
 |
@@ -4256,23 +4244,15 @@ Voie orale
 
 |
 
-Nifuroxazide
+Nifuroxazide |
+
+Voie orale |
 
 |
 
-Voie orale
+0,2 g soit 200 mg |
 
-|
-
-|
-
-0,2 g soit 200 mg
-
-|
-
-2,4
-
-|
+2,4 |
 
 Nitrique, acide
 

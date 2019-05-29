@@ -914,6 +914,16 @@ Autres formes
 
 |
 
+bismuth |
+
+Solution buvable |
+
+|
+
+2mg |
+
+20 mg |
+
 Bromoforme
 
 |
