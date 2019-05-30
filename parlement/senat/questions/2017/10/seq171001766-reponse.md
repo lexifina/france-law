@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001766
+
+- Question : [SEQ171001766](seq171001766.md) — Modalités de la garde alternée
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-05-30, page 2876*
+
+Les prestations familiales, à l'exception des allocations familiales, ne peuvent être partagées entre les deux parents dont l'enfant fait l'objet d'une mesure de résidence alternée, en application de la règle de l'unicité de l'allocataire. L'enfant doit en effet être rattaché administrativement à l'un ou à l'autre de ses parents, désigné comme allocataire unique, indépendamment du temps qu'il passe réellement auprès de l'un ou de l'autre. Cependant, les parents ont la possibilité de demander conjointement une alternance de l'allocataire après une période minimale d'un an. Prendre en compte la résidence alternée pour le calcul du droit aux prestations familiales soumises à condition de ressource conduirait à une réduction du montant global des prestations octroyées à l'un des deux parents, alors même que l'autre parent ne pourrait pas en bénéficier, dès lors qu'il dispose de revenus supérieurs aux plafonds de ressources spécifiques à chaque prestation. Un tel partage pourrait donc s'avérer contraire à l'intérêt de l'enfant. Si une extension du principe du partage des allocations familiales à l'ensemble des prestations familiales n'est pas dépourvue de pertinence, le partage des prestations familiales serait source de complexité compte tenu des règles propres à chaque prestation et donc de lourdeur en gestion. Les modalités de ce partage mériteraient une expertise approfondie afin de dégager une solution équitable entre toutes les familles quelle que soit leur situation matrimoniale (familles monoparentales, familles séparées recomposées, familles vivant en couple…) ou le mode de résidence choisi pour l'enfant après la séparation (résidence alternée, garde exclusive chez l'un des deux parents avec un droit de visite et d'hébergement élargi, résidence alternée).
