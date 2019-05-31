@@ -16,7 +16,7 @@ NOMBRE DE POINTS
 
 PAR EMPLOI |
 
-Sous-directeur des bureaux des cabinets |
+Sous-directeur des cabinets |
 
 1 |
 
