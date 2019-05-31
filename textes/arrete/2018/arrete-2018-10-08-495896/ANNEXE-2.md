@@ -1,5 +1,7 @@
 # Article ANNEXE 2
 
+ANNEXE 2
+
 Pour la taxonomie, les références utilisées sont celles mentionnées à l'annexe VIII du règlement 865/2006 du 4 mai 2006 susvisé, sauf pour les oiseaux pour lesquels la référence utilisée est :
 
 Gill, F and D Donsker (Eds). 2018. IOC World Bird List (v 8.1). http://www.worldbirdnames.org/
@@ -8,7 +10,7 @@ Remarques :
 
 - s.o.: sans objet ; le régime concerné ne s'applique pas à l'espèce ou au groupe d'espèces désigné, lorsque les effectifs sont compris entre les seuils indiqués ;
 
-- l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article.
+- l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article. Un régime particulier de détention est également prévu, au bénéfice de l'antériorité, lorsque les conditions fixées par le I de l'article R. 411-39 du code de l'environnement sont satisfaites ; la détention des spécimens concernés est alors dispensée de certificat de capacité et d'autorisation d'ouverture.
 
 Noms scientifiques (Noms vernaculaires) |
 
@@ -718,9 +720,7 @@ De 1 à 40 |
 
 41 et plus |
 
-- Toutes les autres espèces de Rodentia, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Rodentia, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 40 |
 
@@ -792,9 +792,7 @@ s.o. |
 
 1 et plus |
 
-- Toutes les autres espèces de Lagomorpha, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Lagomorpha, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 40 |
 
@@ -882,9 +880,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Mustélidés dont le poids adulte est inférieur à 6 kilogrammes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 susvisé ou sont protégés en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Mustélidés dont le poids adulte est inférieur à 6 kilogrammes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 susvisé ou sont protégés en application de l'article L. 411-1 du code de l'environnement |
 
 s.o. |
 
@@ -924,9 +920,7 @@ s.o. |
 
 1 et plus |
 
-- Toutes les autres espèces de Carnivora, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Carnivora, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 6 |
 
@@ -1070,9 +1064,7 @@ s.o. |
 
 1 et plus |
 
-- Toutes les autres espèces d'Artiodactyla, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces d'Artiodactyla, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 6 |
 
@@ -1152,9 +1144,7 @@ s.o. |
 
 101 et plus |
 
-- Toutes les autres espèces de Tinamiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Tinamiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 s.o. |
 
@@ -1290,9 +1280,7 @@ De 1 à 100 |
 
 101 et plus |
 
-- Toutes les autres espèces d'Ansériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces d'Ansériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -1316,9 +1304,7 @@ s.o. |
 
 1 et plus |
 
-- Cracidés (Hoccos, ortalides et pénélopes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Cracidés (Hoccos, ortalides et pénélopes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 s.o. |
 
@@ -1342,9 +1328,7 @@ s.o. |
 
 s.o. |
 
-- Tétraoninés (Tétras, lagopèdes, cupidon), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Tétraoninés (Tétras, lagopèdes, cupidon), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 s.o. |
 
@@ -1544,9 +1528,7 @@ De 1 à 100 |
 
 101 et plus |
 
-- Toutes les autres espèces de Galliformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Galliformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -1626,9 +1608,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et protégés en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et protégés en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 6 |
 
@@ -1820,9 +1800,7 @@ De 1 à 25 |
 
 26 et plus |
 
-- Toutes les autres espèces de Gruiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Gruiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 25 |
 
@@ -1838,9 +1816,7 @@ s.o. |
 
 |
 
-- Charadriidés (Vanneaux, gravelots), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Charadriidés (Vanneaux, gravelots), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 25 |
 
@@ -1944,9 +1920,7 @@ De 1 à 100 |
 
 101 et plus |
 
-- Toutes les autres espèces de Columbiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Columbiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -2082,9 +2056,7 @@ s.o. |
 
 |
 
-- Capitonidés (Cabézons), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Capitonidés (Cabézons), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -2092,9 +2064,7 @@ s.o. |
 
 11 et plus |
 
-- Ramphastidés (Toucans, toucanets), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Ramphastidés (Toucans, toucanets), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 s.o. |
 
@@ -2102,9 +2072,7 @@ s.o. |
 
 1 et plus |
 
-- Mégalaimidés (Barbus), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Mégalaimidés (Barbus), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -2112,9 +2080,7 @@ s.o. |
 
 11 et plus |
 
-- Lybiidés (Barbicans), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Lybiidés (Barbicans), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -2122,9 +2088,7 @@ s.o. |
 
 11 et plus |
 
-- Toutes les autres espèces de piciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de piciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 6 |
 
@@ -2756,9 +2720,7 @@ s.o. |
 
 1 et plus |
 
-- Méliphagidés (Méliphages), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Méliphagidés (Méliphages), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -2814,9 +2776,7 @@ s.o. |
 
 51 et plus |
 
-- Autres Pycnonotidés (Bulbuls), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Pycnonotidés (Bulbuls), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 50 |
 
@@ -2824,9 +2784,7 @@ s.o. |
 
 51 et plus |
 
-- Timaliidés (Timalies), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Timaliidés (Timalies), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 50 |
 
@@ -2834,9 +2792,7 @@ s.o. |
 
 51 et plus |
 
-- Autres Zostéropidés (Zostérops), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Zostéropidés (Zostérops), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 50 |
 
@@ -2844,9 +2800,7 @@ s.o. |
 
 51 et plus |
 
-- Irénidés (Irènes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Irénidés (Irènes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 50 |
 
@@ -2854,9 +2808,7 @@ s.o. |
 
 51 et plus |
 
-- Autres Sturnidés (Etourneaux, martins, mainates), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Sturnidés (Etourneaux, martins, mainates), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 50 |
 
@@ -2930,9 +2882,7 @@ s.o. |
 
 101 et plus |
 
-- Plocéidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Plocéidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -2956,9 +2906,7 @@ s.o. |
 
 s.o. |
 
-- Autres Estrildidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Estrildidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -2982,9 +2930,7 @@ s.o. |
 
 s.o. |
 
-- Autres Fringillidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Fringillidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -3008,9 +2954,7 @@ s.o. |
 
 1 et plus |
 
-- Embérizidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Embérizidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 100 |
 
@@ -3050,9 +2994,7 @@ s.o. |
 
 1 et plus |
 
-- Toutes les autres espèces de Passériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Toutes les autres espèces de Passériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 6 |
 
@@ -3460,9 +3402,7 @@ s.o. |
 
 1 et plus |
 
-- Autres espèces de Sauria, lorsque leur taille adulte est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Sauria, lorsque leur taille adulte est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 25 |
 
@@ -3470,9 +3410,7 @@ s.o. |
 
 26 et plus |
 
-- Autres espèces de Sauria, lorsque leur taille adulte est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Sauria, lorsque leur taille adulte est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -3888,9 +3826,7 @@ s.o. |
 
 1 et plus |
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Serpentes, lorsque leur taille adulte est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 25 |
 
@@ -3898,9 +3834,7 @@ s.o. |
 
 26 et plus |
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Serpentes, lorsque leur taille adulte est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -4212,9 +4146,7 @@ s.o. |
 
 1 et plus |
 
-- Autres espèces de Testudines, lorsque leur taille adulte est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Testudines, lorsque leur taille adulte est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 25 |
 
@@ -4222,9 +4154,7 @@ s.o. |
 
 26 et plus |
 
-- Autres espèces de Testudines, lorsque leur taille adulte est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres espèces de Testudines, lorsque leur taille adulte est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 10 |
 
@@ -4408,9 +4338,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Anoures, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Anoures, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 40 |
 
@@ -4482,9 +4410,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Caudata, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Caudata, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 40 |
 
@@ -4548,9 +4474,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Gymnophiona, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Gymnophiona, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 De 1 à 40 |
 
@@ -4606,9 +4530,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Scorpaeniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Scorpaeniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4640,9 +4562,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Perciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Perciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4666,9 +4586,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Cypriniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Cypriniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4676,9 +4594,7 @@ s.o. |
 
 s.o. |
 
-- Autres Ostéichtyens, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Ostéichtyens, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4744,9 +4660,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Mollusques, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Mollusques, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4769,6 +4683,14 @@ Decapoda (Crustacés) |
 |
 
 |
+
+-Eriocheir sinensis (Crabe chinois) (*) |
+
+s. o |
+
+s. o |
+
+1 et plus |
 
 - Orconectes limosus (Écrevisse américaine) (*) |
 
@@ -4866,9 +4788,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Araneae, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Araneae, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
@@ -4908,9 +4828,7 @@ s.o. |
 
 1 et plus |
 
-- Autres Arthropodes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
-
-|
+- Autres Arthropodes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
 
 1 et plus |
 
