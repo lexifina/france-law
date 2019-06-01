@@ -8,7 +8,7 @@ a) Par le ministre chargé du budget :
 
 2° Ou, lorsque la demande est présentée par une personne morale mentionnée à l'article 344-0 A de l'annexe III au code général des impôts ;
 
-3° Ou, lorsque la demande porte pour une même opération, sur des déficits dont le montant global est supérieur à 1,5 million d'euros ;
+3° Ou, lorsque la demande porte pour une même opération, sur des déficits dont le montant global est supérieur à 10 millions d'euros ;
 
 4° Ou lorsque l'opération présente des difficultés particulières ou est évoquée par le ministre ;
 
@@ -17,3 +17,5 @@ b) Dans les autres cas, par le directeur départemental ou, le cas échéant, r�
 NOTA :
 
 Arrêté du 16 décembre 2016, article 2 : Ces dispositions s'appliquent aux demandes d'agrément reçues par l'administration fiscale à compter du 1er janvier 2017.
+
+Conformément à l'article 2 de l'arrêté du 14 mai 2019, ces dispositions s'appliquent aux demandes d'agrément reçues par l'administration fiscale à compter du 1er juin 2019.
