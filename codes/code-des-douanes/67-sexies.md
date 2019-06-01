@@ -4,7 +4,7 @@ I. ― Les entreprises de fret express, exerçant les activités mentionnées au
 
 Sont exclues de la transmission mentionnée au premier alinéa :
 
-1° Les données mentionnées au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+1° Les données mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
 
 2° Les données relatives aux marchandises faisant l'objet d'importations en provenance d'Etats non membres de l'Union européenne ou d'exportations à destination de ces mêmes Etats.
 
@@ -35,3 +35,7 @@ Ce décret précise notamment :
 6° Les modalités d'exercice par les personnes concernées de leur droit d'accès et de rectification des données.
 
 V. ― Les données faisant l'objet des traitements mentionnés au II sont conservées pendant un délai maximal de deux ans à compter de leur enregistrement.
+
+NOTA :
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019.
