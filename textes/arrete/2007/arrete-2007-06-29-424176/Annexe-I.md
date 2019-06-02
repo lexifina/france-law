@@ -1,651 +1,339 @@
 # Article Annexe I
 
-LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES,
+LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES, CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS
 
-CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS
-
-CODE
-
-|
+CODE |
 
 LIBELLÉ
 
-spécialité
+spécialité |
 
-|
-
-DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)
-
-permettant de se présenter dans la spécialité
-
-|
-
-5
-
-|
-
-Biologie médicale.
-
-|
-
-DES de biologie médicale ou équivalent tel que défini à l'article 5-II 4 b du présent arrêté.
-
-|
-
-8
-
-|
-
-Chirurgie générale.
-
-|
-
-DES de chirurgie générale.
-
-|
-
-60
-
-|
-
-Chirurgie viscérale et digestive.
-
-|
-
-DESC de chirurgie viscérale et digestive.
-
-|
-
-10
-
-|
-
-Chirurgie infantile.
-
-|
-
-DESC de chirurgie infantile.
-
-|
-
-9
-
-|
-
-Chirurgie maxillo-faciale.
-
-|
-
-DESC de chirurgie maxillo-faciale et stomatologie. DESC de chirurgie de la face et du cou.
-
-|
-
-53
-
-|
-
-Chirurgie orthopédique et traumatologie.
-
-|
-
-DESC de chirurgie orthopédique et traumatologie.
-
-|
-
-11
-
-|
-
-Chirurgie plastique reconstructrice et esthétique.
-
-|
-
-DESC de chirurgie plastique reconstructrice et esthétique.
-
-|
-
-12
-
-|
-
-Chirurgie thoracique et cardio-vasculaire.
-
-|
-
-DESC de chirurgie thoracique et cardio-vasculaire.
-
-|
-
-47
-
-|
+DIPLÔME (S), CERTIFICAT (S) OU TITRE (S)
 
-Chirurgie urologique.
+permettant de se présenter dans la spécialité |
 
-|
-
-DESC de chirurgie urologique.
-
-|
-
-58
-
-|
-
-Chirurgie vasculaire.
-
-|
-
-DESC de chirurgie vasculaire.
-
-|
-
-18
-
-|
-
-Gynécologie et obstétrique.
-
-|
-
-DES de gynécologie-obstétrique.
-
-|
-
-29
-
-|
-
-Neurochirurgie.
-
-|
-
-DES de neurochirurgie.
-
-|
-
-33
-
-|
-
-Ophtalmologie.
-
-|
-
-DES d'ophtalmologie.
-
-|
+5 |
 
-35
+Biologie médicale. |
 
-|
+DES de biologie médicale ou équivalent tel que défini à l'article 5-II 4 b du présent arrêté. |
 
-Oto-rhino-laryngologie.
+8 |
 
-|
+Chirurgie générale. |
 
-DES d'oto-rhino-laryngologie et chirurgie cervico-faciale.
+DES de chirurgie générale. |
 
-|
+60 |
 
-46
+Chirurgie viscérale et digestive. |
 
-|
+DESC de chirurgie viscérale et digestive. DES de chirurgie viscérale et digestive |
 
-Stomatologie
+10 |
 
-|
+Chirurgie pédiatrique. |
 
-DES de stomatologie
+DESC de chirurgie infantile. DES de chirurgie pédiatrique |
 
-|
+9 |
 
-73
+Chirurgie maxillo-faciale. |
 
-|
+DESC de chirurgie maxillo-faciale et stomatologie. DESC de chirurgie de la face et du cou. DES de chirurgie maxillo-faciale |
 
-Chirurgie orale
+53 |
 
-|
+Chirurgie orthopédique et traumatologie. |
 
-DES de chirurgie orale
+DESC de chirurgie orthopédique et traumatologie. DES de chirurgie orthopédique et traumatologique |
 
-|
+11 |
 
-2
+Chirurgie plastique reconstructrice et esthétique. |
 
-|
+DESC de chirurgie plastique reconstructrice et esthétique. DES de chirurgie plastique reconstructrice et esthétique |
 
-Anatomie et cytologie pathologiques.
+12 |
 
-|
+Chirurgie thoracique et cardio-vasculaire. |
 
-DES d'anatomie et cytologie pathologiques.
+DESC de chirurgie thoracique et cardio-vasculaire. DES de chirurgie thoracique et cardio-vasculaire |
 
-|
+47 |
 
-3
+Urologie |
 
-|
+DESC de chirurgie urologique. DES d'urologie |
 
-Anesthésie-réanimation.
+58 |
 
-|
+Chirurgie vasculaire. |
 
-DES d'anesthésie-réanimation.
+DESC de chirurgie vasculaire. DES de Chirurgie vasculaire |
 
-|
+18 |
 
-7
+Gynécologie-obstétrique. |
 
-|
+DES de gynécologie-obstétrique. |
 
-Cardiologie et maladies vasculaires.
+29 |
 
-|
+Neurochirurgie. |
 
-DES de cardiologie et maladies vasculaires.
+DES de neurochirurgie. |
 
-|
+33 |
 
-13
+Ophtalmologie. |
 
-|
+DES d'ophtalmologie. |
 
-Dermatologie et vénéréologie.
+35 |
 
-|
+Oto-rhino-laryngologie-Chirurgie cervico-faciale |
 
-DES de dermatologie et vénéréologie.
+DES d'oto-rhino-laryngologie et chirurgie cervico-faciale. |
 
-|
+46 |
 
-16
+Stomatologie |
 
-|
+DES de stomatologie |
 
-Endocrinologie et métabolisme.
+73 |
 
-|
+Chirurgie orale |
 
-DES d'endocrinologie et métabolisme.
+DES de chirurgie orale |
 
-|
+2 |
 
-20
+Anatomie et cytologie pathologiques. |
 
-|
+DES d'anatomie et cytologie pathologiques. |
 
-Gastro-entérologie et hépatologie.
+3 |
 
-|
+Anesthésie-réanimation. |
 
-DES de gastro-entérologie et hépatologie.
+DES d'anesthésie-réanimation. |
 
-|
+7 |
 
-40
+Médecine cardiovasculaire |
 
-|
+DES de cardiologie et maladies vasculaires. DES de médecine cardiovasculaire |
 
-Génétique médicale.
+13 |
 
-|
+Dermatologie et vénéréologie. |
 
-DES de génétique médicale.
+DES de dermatologie et vénéréologie. |
 
-|
+16 |
 
-76
+Endocrinologie-diabétologie-nutrition |
 
-|
+DES d'endocrinologie et métabolisme. DES d'endocrinologie, diabète, maladies métaboliques. DES d'endocrinologie-diabétologie-nutrition |
 
-Gériatrie.
+20 |
 
-|
+Hépato-gastro-entérologie |
 
-DESC de gériatrie. Capacité de gérontologie.
+DES de gastro-entérologie et hépatologie. DES d'hépato-gastro-entérologie |
 
-|
+40 |
 
-21
+Génétique médicale. |
 
-|
+DES de génétique médicale. |
 
-Hématologie.
+76 |
 
-|
+Gériatrie. |
 
-DES d'hématologie.
+DESC de gériatrie. DES de gériatrie |
 
-|
+21 |
 
-19
+Hématologie. |
 
-|
+DES d'hématologie. |
 
-Hémobiologie transfusion.
+19 |
 
-|
+Hémobiologie transfusion. |
 
-DES d'hématologie. DESC d'hémobiologie transfusion. Capacité de technologie transfusionnelle.
+DES d'hématologie. DESC d'hémobiologie transfusion. Capacité de technologie transfusionnelle. |
 
 |
 
-(Modifié par arrêté du 14 septembre 2007, NOR : SJSH0765698A, art.1er)
+(Modifié par arrêté du 14 septembre 2007, [NOR : SJSH0765698A], art. 1er)
 
-CODE
-
-|
+CODE |
 
 LIBELLÉ
 
-spécialité
+spécialité |
 
-|
+DIPLÔME (S), CERTIFICAT (S) OU TITRE (S)
 
-DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)
+permettant de se présenter dans la spécialité |
 
-permettant de se présenter dans la spécialité
+14 |
 
-|
+Hygiène hospitalière. |
 
-14
+DES de biologie médicale. DES de santé publique. DES de pharmacie. DESC de pathologie infectieuse et tropicale, clinique et biologique. DESC de biologie des agents infectieux. |
 
-|
+24 |
 
-Hygiène hospitalière.
+Maladies infectieuses et maladies tropicales. |
 
-|
+DESC de pathologie infectieuse et tropicale, clinique et biologique. DES de maladies infectieuses et maladies tropicales. |
 
-DES de biologie médicale. DES de santé publique. DES de pharmacie. DESC de pathologie infectieuse et tropicale, clinique et biologique. DESC de biologie des agents infectieux.
+77 |
 
-|
+Médecine d'urgence. |
 
-57
+DESC de médecine d'urgence. Capacité de médecine d'urgence. DES de médecine d'urgence |
 
-|
+17 |
 
-Immunologie clinique.
+gynécologie médicale. |
 
-|
+DES de gynécologie médicale. DES de gynécologie-obstétrique. |
 
-DES d'hématologie. DES de médecine interne. DESC d'allergologie et immunologie clinique.
+23 |
 
-|
+Médecine et santé au travail. |
 
-24
+DES de médecine du travail. DES de médecine et santé au travail |
 
-|
+71 |
 
-Maladies infectieuses, maladies tropicales.
+Médecine générale. |
 
-|
+DES de médecine générale. Qualification en médecine générale annexée au diplôme d'Etat de docteur en médecine. |
 
-DES de médecine interne. DESC de pathologie infectieuse et tropicale, clinique et biologique.
+25 |
 
-|
+Médecine interne et immunologie clinique. |
 
-77
+DES de médecine interne. DES de médecine interne et immunologie clinique |
 
-|
+26 |
 
-Médecine d'urgence.
+Médecine légale et expertises médicales |
 
-|
+DESC de médecine légale et expertises médicales. Capacité de pratiques médico-judiciaires. DES de médecine légale et expertises médicales |
 
-DESC de médecine d'urgence. Capacité de médecine d'urgence.
+44 |
 
-|
+Médecine physique et de réadaptation. |
 
-17
+DES de médecine physique et de réadaptation. |
 
-|
+28 |
 
-Médecine de la reproduction et gynécologie médicale.
+Néphrologie. |
 
-|
+DES de néphrologie. |
 
-DES de gynécologie médicale. DESC de médecine de la reproduction. DES de gynécologie-obstétrique.
+30 |
 
-|
+Neurologie. |
 
-23
+DES de neurologie. |
 
-|
+6 |
 
-Médecine du travail.
+Oncologie. |
 
-|
+DES d'oncologie |
 
-DES de médecine du travail.
+36 |
 
-|
+Pédiatrie. |
 
-71
+DES de pédiatrie. |
 
-|
+59 |
 
-Médecine générale.
+Pharmacologie clinique et toxicologie. |
 
-|
+Diplôme d'Etat de docteur en pharmacie. DESC de pharmacologie clinique et évaluation des thérapeutiques. |
 
-DES de médecine générale qualification en médecine générale annexée au diplôme d'Etat de docteur en médecine.
+38 |
 
-|
+Pneumologie. |
 
-25
+DES de pneumologie. |
 
-|
+42 |
 
-Médecine interne.
+Oncologie radiothérapique. |
 
-|
+DES d'oncologie, option radiothérapique. |
 
-DES de médecine interne.
+43 |
 
-|
+Médecine intensive-Réanimation. |
 
-26
+DESC de réanimation. DESC de réanimation médicale. DES de médecine intensive réanimation |
 
-|
+45 |
 
-Médecine légale.
+Rhumatologie. |
 
-|
+DES de rhumatologie. |
 
-DESC de médecine légale et expertises médicales. Capacité de pratiques médico-judiciaires.
+56 |
 
-|
+Santé publique. |
 
-44
+DES de santé publique et médecine sociale. DES de santé publique |
 
-|
+75 |
 
-Médecine physique et de réadaptation.
+Odontologie polyvalente. |
 
-|
+Diplôme d'Etat de docteur en chirurgie dentaire. |
 
-DES de médecine physique et de réadaptation.
+72 |
 
-|
+Pharmacie polyvalente et pharmacie hospitalière. |
 
-28
+Diplôme d'Etat de docteur en pharmacie. |
 
-|
+74 |
 
-Néphrologie.
+Psychiatrie. |
 
-|
+DES de psychiatrie. |
 
-DES de néphrologie.
+27 |
 
-|
+Médecine nucléaire. |
 
-30
+DES de médecine nucléaire. |
 
-|
+41 |
 
-Neurologie.
+Radiologie et imagerie médicale |
 
-|
+DES de radiodiagnostic et imagerie médicale. DES de radiologie et imagerie médicale |
 
-DES de neurologie.
+15 |
 
-|
+Allergologie |
 
-6
+DES d'allergologie. DESC d'allergologie et d'immunologie clinique |
 
-|
+22 |
 
-Oncologie médicale.
+Médecine vasculaire |
 
-|
-
-DES d'oncologie, option onco-hématologie. DES d'oncologie, option oncologie médicale.
-
-|
-
-36
-
-|
-
-Pédiatrie.
-
-|
-
-DES de pédiatrie.
-
-|
-
-59
-
-|
-
-Pharmacologie clinique et toxicologie.
-
-|
-
-Diplôme d'Etat de docteur en pharmacie. DESC de pharmacologie clinique et évaluation des thérapeutiques.
-
-|
-
-38
-
-|
-
-Pneumologie.
-
-|
-
-DES de pneumologie.
-
-|
-
-42
-
-|
-
-Oncologie radiothérapique.
-
-|
-
-DES d'oncologie, option radiothérapique.
-
-|
-
-43
-
-|
-
-Réanimation.
-
-|
-
-DESC de réanimation
-
-|
-
-45
-
-|
-
-Rhumatologie.
-
-|
-
-DES de rhumatologie.
-
-|
-
-56
-
-|
-
-Santé publique.
-
-|
-
-DES de santé publique et médecine sociale.
-
-|
-
-75
-
-|
-
-Odontologie polyvalente.
-
-|
-
-Diplôme d'Etat de docteur en chirurgie dentaire.
-
-|
-
-72
-
-|
-
-Pharmacie polyvalente et pharmacie hospitalière.
-
-|
-
-Diplôme d'Etat de docteur en pharmacie.
-
-|
-
-74
-
-|
-
-Psychiatrie polyvalente.
-
-|
-
-DES de psychiatrie.
-
-|
-
-27
-
-|
-
-Médecine nucléaire.
-
-|
-
-DES de médecine nucléaire.
-
-|
-
-41
-
-|
-
-Radiologie.
-
-|
-
-DES de radiodiagnostic et imagerie médicale.
-
-|
+DES de médecine vasculaire. DESC de médecine vasculaire |
