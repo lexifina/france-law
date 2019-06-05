@@ -202,15 +202,17 @@ Cadre de santé paramédical |
 
 1 |
 
-Personnels civils de rééducation et médico-techniques du ministère de la défense et infirmiers civils en soins généraux et spécialisés du ministère de la défense |
+Corps des masseurs-kinésithérapeutes, psychomotriciens et orthophonistes, corps des pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale et corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense.
 
-Au regard des effectifs des corps représentés, la part de femmes représentées est de 85,71 % et la part d'hommes représentés est de 14,29 %. |
+|
+
+Au regard des effectifs des corps représentés, la part de femmes représentées est de 83,18 % et la part d'hommes représentés est de 16,82 %. |
 
 Collège n° 1
 
-Personnel civil de rééducation et médico-technique
+Masseurs-kinésithérapeutes, psychomotriciens et orthophonistes de classe supérieure.
 
-de classe supérieure |
+Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale de classe supérieure. |
 
 1 |
 
@@ -222,11 +224,15 @@ de classe supérieure |
 
 Collège n° 2
 
-Personnel civil de rééducation et médico-technique de classe normale
+Masseurs-kinésithérapeutes, psychomotriciens et orthophonistes de classe normale.
 
-Infirmier civil en soins généraux et spécialisés de 2e grade
+Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale de classe normale.
 
-Infirmier civil en soins généraux et spécialisés de 1er grade |
+Infirmier civil en soins généraux et spécialisés de 3e grade.
+
+Infirmier civil en soins généraux et spécialisés de 2e grade.
+
+Infirmier civil en soins généraux et spécialisés de 1er grade. |
 
 2 |
 
@@ -238,13 +244,13 @@ Infirmier civil en soins généraux et spécialisés de 1er grade |
 
 Techniciens paramédicaux civils du ministère de la défense et infirmiers civils de soins généraux du ministère de la défense |
 
-Au regard des effectifs du corps, la part de femmes représentées est de 75,47 % et la part d'hommes représentés est de 24,53 %. |
+Au regard des effectifs du corps, la part de femmes représentées est de 77,99 % et la part d'hommes représentés est de 22,01 %. |
 
 Collège n° 1
 
-Technicien paramédical civil de classe supérieure
+Technicien paramédical civil de classe supérieure.
 
-Infirmier civil de soins généraux de classe supérieure |
+Infirmier civil de soins généraux de classe supérieure. |
 
 2 |
 
@@ -256,7 +262,7 @@ Infirmier civil de soins généraux de classe supérieure |
 
 Collège n° 2
 
-Technicien paramédical civil de classe normale |
+Technicien paramédical civil de classe normale. |
 
 2 |
 

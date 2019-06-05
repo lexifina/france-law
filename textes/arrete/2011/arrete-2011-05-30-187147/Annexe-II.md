@@ -1796,9 +1796,7 @@ Secrétaire administratif de classe normale |
 
 Techniciens paramédicaux civils du ministère de la défense
 
-AUTORITÉ
-
-ASSURANT
+AUTORITÉ ASSURANT
 
 la présidence de la CAPL |
 
@@ -1816,7 +1814,7 @@ Titulaires |
 
 Suppléants |
 
-Au regard des effectifs du corps, la part de femmes représentées est de 78,59 % et la part d'hommes représentés est de 21,41 %. |
+Au regard des effectifs du corps, la part de femmes représentées est de 78,49 % et la part d'hommes représentés est de 21,51 %. |
 
 CAPL/ TPC
 
@@ -1826,27 +1824,27 @@ Présidence :
 
 Le directeur du CMG de Saint-Germain-en-
 
-Laye |
+Laye. |
 
 Territoire métropole, outre-mer et à l'étranger. |
 
-Technicien paramédical civil de classe supérieure |
+Technicien paramédical civil de classe supérieure. |
 
 2 |
 
 2 |
 
-4 représentants
-
-titulaires
+4 représentants titulaires
 
 et
 
-4 représentants
+4 représentants suppléants. |
 
-suppléants |
+Technicien paramédical civil de classe
 
-Technicien paramédical civil |
+normale
+
+|
 
 2 |
 
