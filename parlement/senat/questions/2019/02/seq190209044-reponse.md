@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190209044
+
+- Question : [SEQ190209044](seq190209044.md) — Impact financier des algues sargasses sur le budget des collectivités territoriales de Guadeloupe et Martinique
+
+## Réponse
+
+*Outre-mer, JO du 2019-06-06, page 2973*
+
+Depuis 2011, les Antilles sont régulièrement impactées par les échouages des algues sargasses. En 2018, les échouages furent particulièrement massifs et les services de l'État se sont pleinement mobilisés dans la lutte contre ce phénomène, aux côtés des collectivités. Visant une organisation efficace dans l'emploi des moyens et une gestion cohérente de la capacité collective d'intervention face à ce phénomène pour lequel les prévisions envisagent son intensification sur les prochaines années, le Gouvernement s'est doté en octobre 2018 d'un plan national de prévention et de lutte contre les sargasses dont la mise en œuvre, en association avec les différentes parties prenantes, a vocation à s'inscrire dans la durée. En 2018, l'État a financé deux fonds de 3 millions d'euros (soit 6 millions d'euros) pour la collecte et l'achat de petits équipements et contribuera pour 2019 à hauteur de 3,5 millions d'euros conformément au grand plan d'équipement des collectivités annoncé lors de la visite des ministres de la transition écologique et solidaire et des outre-mer pour la période 2018-2019. S'agissant du coût de fonctionnement de ces équipements, l'État y contribuera en 2019 à hauteur d'un million d'euros. L'État participera également au financement des barges de collecte en Guadeloupe, ainsi qu'à leur fonctionnement à titre expérimental à hauteur de 500 000 euros par an sur 3 ans. Enfin l'État s'est engagé auprès de la Région Guadeloupe à cofinancer la Rencontre Internationale de haut niveau sur les sargasses qui devrait réunir les États caribéens au mois d'octobre 2019.
