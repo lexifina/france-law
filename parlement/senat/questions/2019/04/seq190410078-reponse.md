@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410078
+
+- Question : [SEQ190410078](seq190410078.md) — Protection des marques de territoire
+
+## Réponse
+
+*Économie et finances, JO du 2019-06-06, page 2958*
+
+Le nom d'une collectivité participe de l'identité d'un territoire. Les collectivités territoriales doivent donc être en mesure de se défendre contre les usurpations mercantiles de leur nom ou de leur image. L'article 73 de la loi n° 2014-344 du 17 mars 2014 relative à la consommation dite « loi Hamon » a renforcé la protection des collectivités territoriales dans ce domaine, en leur permettant de s'opposer aux dépôts de marque qui porteraient atteinte à leur nom, leur image, ou leur renommée ainsi qu'en cas d'atteinte à une indication géographique qui comporterait leur nom. Un droit d'alerte gratuit a également été créé au bénéfice des collectivités territoriales et des établissements publics de coopération intercommunale qui peuvent demander à l'institut national de la propriété industrielle d'être alertés en cas de dépôt d'une demande d'enregistrement d'une marque contenant leur dénomination. Par ailleurs, les indications géographiques protégeant les produits industriels et artisanaux (IGPIA), créées par la loi du 17 mars 2014, contribuent également à la protection des noms géographiques, en couvrant des produits originaires d'une zone géographique ou d'un lieu délimité et qui possèdent une qualité déterminée, une réputation ou d'autres caractéristiques qui peuvent être attribuées essentiellement à cette origine géographique. Enfin, l'identité de nos territoires peut également être valorisée à travers l'action des entités publiques locales, dont la dénomination sera mieux protégée dans le cadre de la transposition de la directive (UE) 2015/2436 du 16 décembre 2015 qui instaure un nouveau droit antérieur, assorti d'un droit d'opposition.
