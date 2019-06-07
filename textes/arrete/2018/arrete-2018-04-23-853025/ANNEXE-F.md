@@ -2,19 +2,27 @@
 
 ESPADON
 
-Nom du port |
+NOM DU PORT |
 
-Code postal |
+CODE
 
-Jours et heures obligatoires
+POSTAL |
 
-pour le débarquement/ transbordement
+JOURS ET HEURES
+
+obligatoires
+
+pour le débarquement/
+
+transbordement
 
 (heure locale) |
 
-Lieu (x) obligatoire (s)
+LIEU (X) OBLIGATOIRE (S)
 
-pour le débarquement/ transbordement |
+pour le débarquement/
+
+transbordement |
 
 PORT-VENDRES |
 
@@ -64,7 +72,7 @@ LEUCATE |
 
 11370 |
 
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9 h 30 à 12 h et de 15 heures à 17 heures |
 
 |
 
@@ -72,7 +80,7 @@ GRUISSAN |
 
 11430 |
 
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 9 h 30 à 12 h et de 15 heures à 17 heures |
 
 |
 
@@ -102,7 +110,7 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
+Tous les jours de 9 h 00 à 11 h 00 et de 16 h 00 à 20 h 00 |
 
 Quai des Pompes |
 
@@ -114,19 +122,17 @@ Tous les jours de 8 heures à 11 heures et de 17 heures à 21 heures |
 
 Quai des pêcheurs |
 
-GRAU-DU-ROI |
+LE GRAU-DU-ROI |
 
 30240 |
 
-De 8 h 30 à 10 h 30 et de 17 h 30 à 21 heures |
+De 8 h 30 à 12 h 30 et de 17 h 00 à 19 heures |
 
 Quai du Général de Gaulle (rive droite)
 
 Quai du 19 Mars 1962 |
 
-LES SAINTES-MARIES-
-
-DE-LA-MER |
+LES SAINTES-MARIES-DE-LA-MER |
 
 13460 |
 
@@ -158,11 +164,21 @@ De 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
 
 Port de Saumaty |
 
+MARSEILLE |
+
+13008 |
+
+Tous les jours de 8 heures à 11 heures et de 15h30 à 18h30 |
+
+La Madrague de Montredon |
+
 CARRY LE ROUET |
 
 13620 |
 
-De 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+De 8 heures à 11 heures
+
+et de 15 h 30 à 18 h 30 |
 
 |
 
@@ -178,7 +194,9 @@ SANARY |
 
 83110 |
 
-De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+De 8 h 30 à 11 h 30
+
+et de 14 heures à 16 heures |
 
 |
 
@@ -186,7 +204,9 @@ TOULON |
 
 83100 |
 
-De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+De 8 h 30 à 11 h 30
+
+et de 14 heures à 16 heures |
 
 Quai des Pêcheurs |
 
@@ -194,7 +214,9 @@ LES SALINS D'HYERES |
 
 83400 |
 
-De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+De 8 h 30 à 11 h 30
+
+et de 14 heures à 16 heures |
 
 |
 
@@ -210,7 +232,9 @@ SAINT-RAPHAËL |
 
 83700 |
 
-De 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+De 8 h 30 à 11 h 30
+
+et de 14 heures à 16 heures |
 
 |
 
@@ -218,7 +242,9 @@ COGOLIN |
 
 83310 |
 
-Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+Tous les jours de 8h30 à 11h30
+
+et de 14 heures à 16 heures |
 
 |
 
@@ -226,7 +252,9 @@ CANNES |
 
 06400 |
 
-Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+Tous les jours de 9 heures à 12 heures
+
+et de 18 heures à 22 heures |
 
 Vieux-port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf |
 
@@ -242,7 +270,9 @@ CAGNES-SUR-MER |
 
 06800 |
 
-Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+Tous les jours de 9 heures à 12 heures
+
+et de 18 heures à 22 heures |
 
 Port du Cros-de-Cagnes |
 
@@ -258,7 +288,9 @@ THEOULE-SUR-MER |
 
 06590 |
 
-Tous les jours de 9 heures à 12 heures et de 18 heures à 22 heures |
+Tous les jours de 9 heures à 12 heures
+
+et de 18 heures à 22 heures |
 
 Port de la Figueirette |
 
@@ -286,7 +318,7 @@ Lundi au vendredi de 8 heures à 18 heures |
 
 |
 
-L'ILE ROUSSE |
+L'ILE-ROUSSE |
 
 20220 |
 
@@ -314,7 +346,7 @@ PORTO-VECCHIO |
 
 20137 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 |
 
@@ -330,7 +362,7 @@ AJACCIO |
 
 20000 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 Port de pêche |
 
@@ -338,7 +370,7 @@ CENTURI |
 
 20238 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 |
 
@@ -346,7 +378,7 @@ GALERIA |
 
 20245 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au vendredi-de 8 heures à 18 heures |
 
 |
 
@@ -354,6 +386,4 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8 heures à 18 heures |
-
-|
+Tous les jours de 8h à 18h |
