@@ -40,9 +40,9 @@ Cours ou ateliers de pratique artistique et culturelle |
 
 Ensemble de cours ou ateliers, qui prennent appui sur un art (danse, théâtre, arts plastiques, écriture…) et font appel à la créativité individuelle ou collective. Sont exclus les cours ou activités organisés dans le cadre des missions d'éducation artistique ou culturelle relevant directement ou indirectement du ministère de l'éducation nationale |
 
-Evénement ; carte d'abonnement ; services numériques |
+Evénement ; carte d'abonnement ; services numériques ; bons d'achat |
 
-Aucune |
+Proposé par un acteur culturel d'un secteur inclus dans l'un des autres domaines des activités éligibles |
 
 Cinéma |
 
@@ -56,9 +56,7 @@ Audiovisuel / Vidéo |
 
 Définitions des services audiovisuels des articles 1 et 2 de la loi n° 86-1067 du 30 septembre 1986
 
-Code du cinéma et de l'image animée
-
-|
+Code du cinéma et de l'image animée |
 
 Achat d'œuvre ; carte d'abonnement ; services numériques |
 
@@ -70,7 +68,7 @@ Musique |
 
 / |
 
-Evénement ; carte d'abonnement (salles de musique, studios) ; achat d'œuvres musicales (supports physiques ou numériques)
+Evénement ; carte d'abonnement (salles de musique, studios) ; achat d'œuvres musicales (supports physiques ou numériques) ; œuvres musicales imprimées (partitions)
 
 Services numériques |
 
@@ -80,7 +78,7 @@ Pas de biens d'occasion. |
 
 Instruments de musique |
 
-Objet conçu, façonné et utilisé dans le seul but de produire de la musique |
+Objet conçu, façonné et utilisé dans le seul but de produire de la musique à l'exclusion de tout accessoire lié à l'instrument et appareil de diffusion sonore |
 
 Biens matériels ou bons d'achat valables uniquement pour l'achat ou la location d'un instrument de musique
 
@@ -90,7 +88,7 @@ Retrait dans un point de vente pour les biens matériels |
 
 Livre |
 
-Tous les livres hors manuels scolaires |
+Tous les livres hors manuels scolaires et livres parascolaires définis respectivement par les codes 3000 et 3013 de la Commission de liaison interprofessionnelle du livre (CLIL) |
 
 Carte d'abonnement ; achat de livres matériels neufs ou de livres numériques ; services numériques |
 
@@ -114,9 +112,7 @@ Evénement ; carte d'abonnement ; achats de jeux numériques ; services numériq
 
 Exclusion des registres violents et pornographiques (critères CNC et FNJV). |
 
-Dédicaces, rencontres et conférences
-
-culturelles |
+Dédicaces, rencontres, conférences culturelles et ateliers de médiation culturelle |
 
 / |
 

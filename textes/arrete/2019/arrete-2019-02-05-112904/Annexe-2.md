@@ -1,21 +1,13 @@
 # Article Annexe 2
 
-I. - Les territoires retenus pour l'expérimentation du pass Culture sont les suivants : les départements du Bas-Rhin (67), du Finistère (29), de la Guyane (973), de l'Hérault (34) et de la Seine-Saint-Denis (93).
+I.-Les territoires retenus pour l'expérimentation du pass Culture sont les suivants : la région Bretagne, les départements des Ardennes (08), du Bas-Rhin (67), du Doubs (25), de la Guyane (973), de l'Hérault (34), de la Nièvre (58), du Val-de-Marne (94), de Saône-et-Loire (71), de la Seine-Saint-Denis (93), de Vaucluse (84).
 
-II. - Pour chacun des territoires mentionnés au I, le nombre de comptes personnels numériques pouvant être ouverts est le suivant :
+II.-Sont éligibles à l'expérimentation de l'ouverture d'un compte personnel numérique les personnes ayant présenté la demande mentionnée au c de l'article 1er de l'arrêté du 5 février 2019 à compter de la date d'entrée en vigueur de l'arrêté du 31 mai 2019 modifiant l'arrêté du 5 février 2019 pris en application des articles 2,3 et 4 du décret n° 2019-66 du 1er février 2019 relatif à l'expérimentation du pass Culture .
 
-1° Pour le département du Bas-Rhin, 2 898 comptes ;
-
-2° Pour le département du Finistère, 2 581 comptes ;
-
-3° Pour le département de la Guyane, 704 comptes ;
-
-4° Pour le département de l'Hérault, 2 936 comptes ;
-
-5° Pour le département de la Seine-Saint-Denis, 3 558 comptes.
-
-III. - Sont éligibles à l'expérimentation de l'ouverture d'un compte personnel numérique les personnes :
+III.-Demeurent éligibles à l'expérimentation de l'ouverture d'un compte personnel numérique les personnes :
 
 1° Ayant présenté la demande mentionnée au c de l'article 1er de l'arrêté du 5 février 2019 avant le 25 janvier 2019 ;
 
-2° Nées entre le 1er novembre 1999 et le 31 décembre 2000.
+2° Nées entre le 1er novembre 1999 et le 31 décembre 2000 ;
+
+3° Résidant habituellement dans les départements du Bas-Rhin (67), du Finistère (29), de la Guyane (973), de l'Hérault (34), de la Seine-Saint-Denis (93).
