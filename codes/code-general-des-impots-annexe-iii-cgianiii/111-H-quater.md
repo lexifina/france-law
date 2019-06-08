@@ -1,6 +1,6 @@
 # Article 111 H quater
 
-I. – Pour les opérations réalisées sous le régime de suspension de droits d'accise sous couvert du document mentionné au I de l'article 302 M du code général des impôts, la justification de l'apurement des expéditions prévue aux articles 302 O et 302 P du code précité doit être apportée par les destinataires des produits ou, pour les exportations, par les expéditeurs eux-mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois.
+I. – Pour les opérations réalisées sous le régime de suspension de droits d'accise sous couvert du document mentionné au I de l'article 302 M du code général des impôts, la justification de l'apurement des expéditions prévue à l'article 302 P du code précité doit être apportée par les destinataires des produits ou, pour les exportations, par les expéditeurs eux-mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois.
 
 L'apurement de chaque opération est dans tous les cas attesté par le destinataire des produits ou par les autorités compétentes des Etats membres de l'Union européenne sur le certificat de réception ou d'exportation en case C des documents d'accompagnement mentionnés au I de l'article 302 M du code précité, dans les conditions et modalités déterminées par l'administration.
 
@@ -27,3 +27,7 @@ L'apurement de chaque opération est attestée :
 2° Pour les exportations, par le rapport d'exportation mentionné au II de l'article 111 H quaterdecies ou en cas d'indisponibilité du service de suivi informatique des mouvements de marchandises soumises à accise par le document papier contenant les mêmes données et attestant de la sortie effective du territoire fiscal de l'Union européenne des produits conformément aux dispositions de l'article 111 H quindecies.
 
 III. – Un état des opérations n'ayant pas fait l'objet d'un apurement dans les délais prévus à l'article 302 P du code général des impôts doit être adressé au service des douanes et droits indirects par les expéditeurs des produits, au plus tard le 10 du troisième mois suivant celui des expéditions, sur la base d'une déclaration mensuelle dont les modalités, le modèle et le contenu sont déterminés par arrêté du ministre chargé du budget.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 81-I-9° de la loi n° 2015-1785 du 29 décembre 2015.

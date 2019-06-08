@@ -2,7 +2,7 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2018, à 16,96 € en zone A bis, 12,59 € dans le reste de la zone A, 10,15 € en zone B 1 et 8,82 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2019, à 17,17 € en zone A bis, 12,75 € dans le reste de la zone A, 10,28 € en zone B 1 et 8,93 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,7 +14,7 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2018, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2019, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE |
 
@@ -26,107 +26,101 @@ Reste de la zone A
 
 (en €) |
 
-Zone
-
-B 1
+Zone B 1
 
 (en €) |
 
-Zone
-
-B 2
+Zone B 2
 
 (en €) |
 
-Zone
-
-C
+Zone C
 
 (en €) |
 
 Personne seule |
 
-37 508 |
+38 236 |
 
-37 508 |
+38 236 |
 
-30 572 |
+31 165 |
 
-27 515 |
+28 049 |
 
-27 515 |
+28 049 |
 
 Couple |
 
-56 058 |
+57 146 |
 
-56 058 |
+57 146 |
 
-40 826 |
+41 618 |
 
-36 743 |
+37 456 |
 
-36 743 |
+37 456 |
 
 Personne seule ou couple ayant une personne à charge |
 
-73 486 |
+74 912 |
 
-67 386 |
+68 693 |
 
-49 097 |
+50 049 |
 
-44 187 |
+45 044 |
 
-44 187 |
+45 044 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-87 737 |
+89 439 |
 
-80 716 |
+82 282 |
 
-59 270 |
+60 420 |
 
-53 344 |
+54 379 |
 
-53 344 |
+54 379 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-104 390 |
+106 415 |
 
-95 553 |
+97 407 |
 
-69 725 |
+71 078 |
 
-62 753 |
+63 970 |
 
-62 753 |
+63 970 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-117 466 |
+119 745 |
 
-107 527 |
+109 613 |
 
-78 579 |
+80 103 |
 
-70 721 |
+72 093 |
 
-70 721 |
+72 093 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 13 087 |
++ 13 341 |
 
-+ 11 981 |
++ 12 213 |
 
-+ 8 766 |
++ 8 936 |
 
-+ 7 888 |
++ 8 041 |
 
-+ 7 888 |
++ 8 041 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 

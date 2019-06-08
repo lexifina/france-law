@@ -1,6 +1,6 @@
 # Article 111 H ter
 
-I. – Pour l'application des articles 614 et 614 A du code général des impôts, la validation des documents d'accompagnement mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas :
+I. – Pour l'application de l'article 614 du code général des impôts, la validation des documents d'accompagnement mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas :
 
 1° Au moyen du visa du service des douanes et droits indirects ;
 
@@ -55,3 +55,7 @@ VIII. – Les autorisations accordées en vertu du III de l'article 302 M du cod
 3° En cas de modification de la réglementation entraînant la suppression de l'usage des matériels ou logiciels de validation informatiques sécurisés, des machines à timbrer, de tout autre matériel mécanique ou des documents d'accompagnement prévalidés mentionnés à l'article 302 M du même code.
 
 IX. – Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les documents d'accompagnement mentionnés au I et au II de l'article 302 M du code général des impôts sont fixées par arrêté.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 81-I-9° de la loi n° 2015-1785 du 29 décembre 2015.

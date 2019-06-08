@@ -10,6 +10,6 @@ a) Des conseillers départementaux en cas de renouvellement général des consei
 
 b) Des conseillers métropolitains en cas de renouvellement général du conseil de la Métropole de Lyon ;
 
-c) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux ;
+c) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux.
 
 La commission suspend ses travaux le vendredi précédant le renouvellement général des conseils départementaux ou des conseils municipaux. Les travaux de la commission reprennent au plus tard une semaine après la désignation des nouveaux membres de la commission.

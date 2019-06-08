@@ -38,19 +38,7 @@ d. Les augmentations et diminutions des dépréciations comptables en cours d'ex
 
 II. – Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des éléments auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du code général des impôts.
 
-III. – L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque opération de scission, la dénomination et l'adresse de la société scindée ainsi que la date de l'approbation de la scission par les assemblées générales et, pour chaque associé :
-
-1° Son nom ou sa dénomination ;
-
-2° Son adresse ;
-
-3° Le nombre de titres grevés de l'engagement de conservation :
-
-a) Attribués à la suite de l'opération de scission ;
-
-b) Détenus sur toute la période couverte par l'exercice ;
-
-c) Le cas échéant, cédés au cours de l'exercice.
+III. – (Sans objet)
 
 IV. – L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner pour chacune des immobilisations qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel l'option a été exercée :
 
@@ -59,3 +47,9 @@ IV. – L'état dont la production est prévue au deuxième alinéa de l'article
 2° La valeur fiscale servant pour le calcul du résultat imposable de cessions ultérieures ;
 
 3° La valeur réévaluée.
+
+NOTA :
+
+Le III devient sans objet.
+
+Modification effectuée en conséquence de l'article 35-2° de la loi n° 2018-1317 du 28 décembre 2018.

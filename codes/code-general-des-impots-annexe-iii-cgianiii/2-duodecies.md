@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2018, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,63 € par mètre carré en zone A, 12,18 € en zone B et 8,83 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Pour ces mêmes conventions, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au présent alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D précité. Les plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté.
+a) Pour les baux conclus en 2019, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,86 € par mètre carré en zone A, 12,33 € en zone B et 8,94 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Pour ces mêmes conventions, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au présent alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D précité. Les plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
@@ -10,7 +10,7 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2019, les plafonds annuels de ressources sont les suivants :
 
 Composition du foyer locataire |
 
@@ -24,59 +24,59 @@ Zone C (en €) |
 
 Personne seule |
 
-47 488 |
+48 409 |
 
-36 702 |
+37 414 |
 
-32 116 |
+32 739 |
 
 Couple |
 
-70 971 |
+72 348 |
 
-49 010 |
+49 961 |
 
-43 166 |
+44 003 |
 
 Personne seule ou couple ayant une personne à charge |
 
-85 311 |
+86 966 |
 
-58 937 |
+60 080 |
 
-51 676 |
+52 679 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-102 189 |
+104 171 |
 
-71 147 |
+72 527 |
 
-62 541 |
+63 754 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-120 974 |
+123 321 |
 
-83 693 |
+85 317 |
 
-73 401 |
+74 825 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-136 126 |
+138 767 |
 
-94 321 |
+96 151 |
 
-82 799 |
+84 405 |
 
 Majoration par personne à charge à partir de la cinquième |
 
-+ 15 174 |
++ 15 468 |
 
-+ 10 519 |
++ 10 723 |
 
-+ 9 405 |
++ 9 587 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'évolution annuelle de l'indice des prix à la consommation hors tabac et arrondis à l'euro le plus proche. Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
 

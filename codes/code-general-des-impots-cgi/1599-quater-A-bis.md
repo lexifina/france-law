@@ -18,7 +18,7 @@ Métro |
 
 Motrice et remorque |
 
-13 112 |
+13 282 |
 
 Autre matériel |
 
@@ -26,11 +26,11 @@ Autre matériel |
 
 Automotrice et motrice |
 
-24 596 |
+24 916 |
 
 Remorque |
 
-5 133 |
+5 200 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 
@@ -46,4 +46,4 @@ V. – La composante de l'imposition forfaitaire sur les entreprises de réseaux
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 37-VI B (4°) de la loi n° 2012-1510 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 37-VI B 4° de la loi n° 2012-1510 du 29 décembre 2012.

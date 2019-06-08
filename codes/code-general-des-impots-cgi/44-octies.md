@@ -4,7 +4,7 @@ I. Les contribuables qui exercent ou créent des activités avant le 31 décembr
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location d'immeubles à usage d'habitation, ainsi qu'aux contribuables exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
 
-L'exonération ne s'applique pas aux créations d'activités dans les zones franches urbaines-territoires entrepreneurs consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies ou 44 quindecies dans les zones de revitalisation rurale définies à l'article 1465 A ou dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, ou de la prime d'aménagement du territoire.
+L'exonération ne s'applique pas aux créations d'activités dans les zones franches urbaines-territoires entrepreneurs consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies ou 44 quindecies dans les zones de revitalisation rurale définies à l'article 1465 A ou de la prime d'aménagement du territoire.
 
 Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine-territoire entrepreneur mais exercée en tout ou partie en dehors des zones franches urbaines-territoires entrepreneurs, l'exonération s'applique si ce contribuable emploie au moins un salarié sédentaire à temps plein, ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité ou si ce contribuable réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines-territoires entrepreneurs.
 
@@ -53,3 +53,7 @@ Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou por
 L'exonération s'applique à l'exercice ou la création d'activités résultant d'une reprise, d'un transfert, d'une concentration ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont bénéficié du régime prévu au présent article, l'exonération ne s'applique que pour sa durée restant à courir.
 
 Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines-territoires entrepreneurs mentionnées au présent VI avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, précité.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 27-2° b et de l'article 30-II de la loi n° 2014-173 du 21 février 2014.

@@ -18,7 +18,7 @@ a) Par des personnes physiques ;
 
 b) Ou par une société dont le capital est détenu pour 50 % au moins par des personnes physiques ;
 
-c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque, à la condition qu'il n'existe pas de lien de dépendance au sens des trois derniers alinéas du 12 de l'article 39 entre les entreprises et ces dernières sociétés ou ces fonds.
+c) Ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre les entreprises et ces dernières sociétés ou ces fonds.
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création et des quatre années suivantes ;
 
@@ -28,4 +28,6 @@ Ces entreprises peuvent demander le remboursement immédiat de la créance const
 
 NOTA :
 
-Conformément aux dispositions du B du IV de l'article 86 de la loi n° 2017-1837 du 30 décembre 2017 modifié par l'article 155 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199 ter C telles qu'elles résultent du 2° du I dudit article s'appliquent aux rémunérations versées à compter du 1er janvier 2019.
+Au c du 2° du II, les mots : "des trois derniers alinéas" deviennent sans objet.
+
+Modification effectuée en conséquence de l'article 37-I-1° a de la loi n° 2018-1317 du 28 décembre 2018.

@@ -12,7 +12,7 @@ II.-Le montant de la contribution est fixé à :
 
 1° 0,54 € par hectolitre pour les eaux minérales naturelles ou artificielles, eaux de source et autres eaux potables, eaux de laboratoire filtrées, stérilisées ou pasteurisées, ainsi que pour les boissons autres que les sirops, les jus de fruits ou de légumes et les nectars de fruits, lorsque ces produits sont livrés en fûts, bouteilles ou boîtes ;
 
-2° 3 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la nomenclature combinée du tarif des douanes, sans être des denrées destinées à des fins médicales spéciales ou des aliments hyperprotéinés destinés aux personnes dénutries, lorsque ces produits sont conditionnés dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel, ou sont préalablement assemblés et présentés dans des récipients non destinés à la vente au détail afin d'être consommables en l'état. Ce montant est relevé au 1er janvier de chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres après la virgule, le second chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq ;
+2° 3,03 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la nomenclature combinée du tarif des douanes, sans être des denrées destinées à des fins médicales spéciales ou des aliments hyperprotéinés destinés aux personnes dénutries, lorsque ces produits sont conditionnés dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel, ou sont préalablement assemblés et présentés dans des récipients non destinés à la vente au détail afin d'être consommables en l'état. Ce montant est relevé au 1er janvier de chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres après la virgule, le second chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq ;
 
 Pour les produits relevant à la fois du 1° et du 2°, chacun des deux montants est dû.
 
@@ -51,3 +51,5 @@ VI.-Le produit de la contribution mentionnée au I est affecté à la branche me
 NOTA :
 
 Conformément à l’article 199 V C de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 1613 quater telles qu'elles résultent du 5° du I dudit article s’appliquent aux impositions dont le fait générateur intervient à compter du 1er janvier 2019.
+
+Modifications effectuées en conséquence des articles 2-II et 4 de l'arrêté du 10 décembre 2018.
