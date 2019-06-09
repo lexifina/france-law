@@ -642,12 +642,6 @@ Var |
 
 |
 
-Dax-Seyresse |
-
-Landes |
-
-|
-
 Deauville-Normandie |
 
 Calvados |

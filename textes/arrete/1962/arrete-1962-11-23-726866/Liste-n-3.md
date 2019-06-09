@@ -254,6 +254,24 @@ Les pilotes non titulaires de la qualification montagne devront se conformer aux
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
+Dax-Seyresse |
+
+Landes |
+
+Cet aérodrome est réservé :
+
+1° Prioritairement à l'accueil du trafic militaire et d'Etat ;
+
+2° Aux activités particulières qui y sont autorisées ;
+
+3° Aux aéronefs basés ou détachés ;
+
+4° Aux aéronefs basés sur les aérodromes voisins dans un rayon de quarante milles nautiques.
+
+Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation (ou convention) d'occupation relèvent du point n° 3.
+
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+
 Dieuze-Guéblange |
 
 Moselle |
@@ -980,9 +998,7 @@ Ille-et-Vilaine |
 
 Les conditions d'utilisation de l'aérodrome sont portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. Ces conditions sont validées par les services de la direction de la sécurité de l'aviation civile Ouest. |
 
-Saintes-Thénac
-
-|
+Saintes-Thénac |
 
 Charente-Maritime |
 
