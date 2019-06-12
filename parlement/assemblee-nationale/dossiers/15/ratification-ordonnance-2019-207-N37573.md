@@ -1,0 +1,55 @@
+# Agence nationale du sport et organisation des J.O. 2024
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37573
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2019-207
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-573.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-06-12 : 1er dépôt d'une initiative. (PRJLSNR5S319B0573)
+  - 2019-06-12 : Etude d'impact (ETDISNR5S319B0573)
+  - 2019-06-12 : Avis du Conseil d'Etat (AVCESNR5S319B0573)
+  - 2019-06-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-06-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-06-26 : Dépôt de rapport (RAPPSNR5S319B0597, PRJLSNR5S319BTC0598)
+    - Travaux d'une commission saisie pour avis
+      - 2019-06-18 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-06-25 : Dépôt de rapport (AVISSNR5S319B0596)
+  - Discussion en séance publique
+    - 2019-07-02 : Discussion en séance publique
+    - 2019-07-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-07-03 : Dépôt d'une initiative en navette (PRJLANR5L15B2106)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-03 : Renvoi en commission au fond
+      - 2019-06-26 : Nomination de rapporteur
+      - 2019-06-26 : Réunion de commission
+      - 2019-07-16 : Réunion de commission
+      - 2019-07-10 : Dépôt de rapport (RAPPANR5L15B2128, PRJLANR5L15BTC2128)
+  - Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Discussion en séance publique
+    - 2019-07-16 : Décision
+- Commission Mixte Paritaire
+  - 2019-07-18 : Dépôt d'un projet de loi (PRJLSNR5S319B0679)
+  - 2019-07-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-07-23 : Nomination de rapporteur
+    - 2019-07-23 : Dépôt du rapport d'une CMP (RAPPANR5L15B2181, PRJLANR5L15BTC2181)
+    - 2019-07-23 : Dépôt du rapport d'une CMP (RAPPSNR5S319B0691, PRJLSNR5S319BTC0692)
+  - Discussion en séance publique
+    - 2019-07-24 : Discussion en séance publique
+    - 2019-07-24 : Décision
+  - Discussion en séance publique
+    - 2019-07-25 : Décision
+  - 2019-07-23 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-08-01 : Promulgation d'une loi
