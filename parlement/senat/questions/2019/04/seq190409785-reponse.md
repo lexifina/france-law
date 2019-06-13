@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190409785
+
+- Question : [SEQ190409785](seq190409785.md) — Choix des périodes de mise en place des cultures relatives aux surfaces d'intérêt écologique
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-06-13, page 3075*
+
+Le passage à une définition individuelle des périodes de présence obligatoire des cultures dérobées constituerait une source importante de complexité supplémentaire de la gestion de la campagne de la politique agricole commune (PAC), en particulier en ce qui concerne l'organisation et la réalisation par l'agence de services et de paiement des contrôles sur place puisque les périodes de contrôle, potentiellement très étalées dans le temps, varieraient en fonction des exploitations. Une telle option remettrait donc en cause le calendrier de versement du paiement vert, notamment de son avance au 16 octobre. Dans ces conditions, le ministère de l'agriculture et de l'alimentation a privilégié une solution qui n'ajoute pas de complexité : il a choisi de maintenir en 2019 une période de présence obligatoire départementale et de garantir le versement d'une avance en octobre au titre du paiement vert. En effet, les exploitants restent attachés à un versement le plus tôt possible des différentes aides et le ministère de l'agriculture et de l'alimentation reste attentif au respect du calendrier de paiement dans un contexte de résorption des retards. À ce sujet, le retard de paiement des aides du premier pilier de la PAC et de l'indemnité compensatoire de handicap naturel a été entièrement résorbé et le calendrier de versement des aides est aujourd'hui revenu à une situation normale. Pour les mesures agroenvironnementales et climatiques et les aides à l'agriculture biologique, les paiements des campagnes 2016 et 2017 sont en cours de finalisation et la campagne 2018 a retrouvé un calendrier normal, avec le début des paiements dès mars 2019.
