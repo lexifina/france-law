@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700707
+
+- Question : [SEQ170700707](seq170700707.md) — Contrats de prêt et victimes d'attentats
+
+## Réponse
+
+*Économie et finances, JO du 2019-06-13, page 3087*
+
+La prise en charge des victimes d'actes terroristes ou de leurs ayants droit constitue une priorité du Gouvernement. Le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGTI) garantit ainsi la réparation intégrale de leurs dommages corporels dans les délais fixés par le code des assurances, en particulier une prise en charge simplifiée et améliorée des premiers besoins financiers des victimes ou de leurs proches. Afin de faciliter ce processus d'indemnisation et offrir un service de qualité et de proximité à toutes les victimes, plusieurs mesures ont d'ores et déjà été mises en œuvre conformément aux engagements pris dans le cadre de la convention signée entre le FGTI et l'État en mars 2017, notamment la mise à disposition pour chaque victime d'un interlocuteur dédié destinée à personnaliser le suivi des dossiers. Concernant les soins, les victimes directes bénéficient d'une prise en charge dérogatoire, à 100 % du tarif de sécurité sociale, de tous les soins qui ont été ou seront prodigués en lien avec l'attentat et une prise en charge des soins psychiatriques pendant une durée de deux ans. Depuis mai 2017, le dispositif complémentaire de prise en charge des traumatismes psychiques a évolué et été étendu à tous les attentats, pour les personnes qui se trouvaient à proximité d'un attentat sans pour autant avoir été inscrites sur la liste partagée des victimes. Par ailleurs, le plan d'actions interministériel en faveur des victimes, présenté lors Comité interministériel de l'aide aux victimes du 10 novembre 2017, vise à améliorer la prise en charge psychologique, le parcours de soin des victimes et leur accompagnement dans leur parcours professionnel.
