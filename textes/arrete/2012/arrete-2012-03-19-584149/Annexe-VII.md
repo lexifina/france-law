@@ -4,7 +4,7 @@ SIGNALISATION À MAIN
 
 Article 1er-Signaux à main de manœuvre
 
-Article 2-Signal à main de départ
+Article 2-Signal à main d'Autorisation de Mouvement (AuM) à l'usage exclusif du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations
 
 Article 3-Signal d'arrêt à main
 
@@ -20,11 +20,11 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&nu
 
 Article 2
 
-Signal à main de départ
+Signal à main d'Autorisation de Mouvement (AuM) à l'usage exclusif du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations
 
-Le signal à main de départ est constitué :
+Le signal à main d'AuM est constitué :
 
-le jour : par le guidon de départ vert et blanc élevé verticalement et balancé légèrement dans le sens transversal ;
+le jour : par une palette verte et blanche élevée verticalement et balancée légèrement dans le sens transversal ;
 
 la nuit : par le même geste avec le feu vert d'une lanterne.
 
@@ -206,11 +206,9 @@ Article 103
 
 Le disque
 
-Le disque présente :
+Vous pouvez consulter l'image dans le fac-similé à l'adresse suivante :
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038578814
 
 Le disque commande au conducteur :
 
@@ -218,9 +216,9 @@ Règle générale :
 
 1. De se mettre aussitôt que possible en marche à vue ;
 
-2. S'il n'a pas rencontré jusque là de signal lui commandant l'arrêt, de marquer un arrêt :
+2. S'il n'a pas rencontré jusque-là de signal lui commandant l'arrêt, de marquer un arrêt :
 
--avant le premier appareil de voie (aiguille ou traversée) protégé par le disque,
+-avant le premier appareil de voie (aiguille ou traversée) protégé par le disque ;
 
 -ou bien au poste, si un tel appareil de voie se trouve au-delà du poste ou si le poste n'en comporte pas ;
 
@@ -228,7 +226,7 @@ Règle générale :
 
 -lorsque le poste protégé par le disque comporte un signal de cantonnement (sémaphore ou carré) commandant l'entrée du canton suivant, quel que soit son emplacement par rapport au poste, qu'après avoir franchi ce signal ouvert ;
 
--lorsque le poste protégé par le disque ne comporte pas un tel signal de cantonnement, qu'après avoir reçu directement l'autorisation de départ donnée sous la forme manuelle ou, à défaut, qu'après avoir reçu verbalement de l'agent commandant le signal l'autorisation de se remettre en marche.
+-lorsque le poste protégé par le disque ne comporte pas un tel signal de cantonnement, qu'après avoir reçu l'autorisation de mouvement donnée par le représentant du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations dans les conditions définies à la documentation d'exploitation.
 
 En l'absence d'agent chargé de la gestion des circulations, et seulement dans le cas d'un établissement qui n'est pas désigné poste de cantonnement à la documentation d'exploitation (point a de l'article 77), le conducteur est autorisé à se remettre en marche de lui-même après s'être assuré que rien ne s'y oppose, notamment en ce qui concerne la position de l'aiguille ou des aiguilles situées sur son parcours dans la zone du poste intéressé. Dans ce cas, le conducteur poursuit alors l'observation de la marche à vue au-delà de l'aiguille ou de la dernière aiguille intéressée pour ne reprendre sa marche normale, si rien ne s'y oppose, qu'après avoir parcouru une distance au moins égale à la distance de couverture des obstacles sur la section de ligne considérée.
 
@@ -238,15 +236,15 @@ En voie unique, lorsqu'il précède une gare, le disque commande de plus au cond
 
 S'il existe un signal de cantonnement (sémaphore ou carré) commandant la sortie de la gare, et si ce signal est ouvert, le conducteur peut ensuite reprendre sa marche normale, si rien ne s'y oppose.
 
-S'il n'en est pas ainsi, le conducteur ne peut se remettre en marche qu'après avoir reçu directement l'autorisation de départ délivrée sous la forme manuelle ou par écrit par le responsable du service de la circulation.
+S'il n'en est pas ainsi, le conducteur ne peut se remettre en marche qu'après avoir reçu l'autorisation de mouvement donnée par le représentant du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations dans les conditions définies à la documentation d'exploitation.
 
 Prescriptions complémentaires :
 
--En double voie, en l'absence d'agent chargé de la gestion des circulations (gare temporaire fermée au service par exemple) dans un poste protégé par un disque et ne comportant pas un signal de cantonnement, le conducteur peut recevoir, par écrit ou par dépêche, du responsable du service de la circulation de la gare précédente, l'ordre de se remettre en marche dans les conditions précisées par cet ordre.
+-en double voie, en l'absence d'agent chargé de la gestion des circulations (gare temporaire fermée au service par exemple) dans un poste protégé par un disque et ne comportant pas un signal de cantonnement, le conducteur peut recevoir, par écrit ou par dépêche, du responsable du service de la circulation de la gare précédente, l'ordre de se remettre en marche dans les conditions précisées par cet ordre.
 
--Dans le cas d'un disque protégeant plusieurs postes successifs et en l'absence d'un nouveau disque au départ de l'un de ces postes, l'agent chargé de la gestion des circulationsd'un tel poste peut donner au conducteur, s'il y a lieu, l'ordre verbal d'opérer comme s'il avait rencontré un disque protégeant le poste suivant.
+-dans le cas d'un disque protégeant plusieurs postes successifs et en l'absence d'un nouveau disque au départ de l'un de ces postes, l'agent chargé de la gestion des circulations d'un tel poste peut donner au conducteur, s'il y a lieu, l'ordre verbal d'opérer comme s'il avait rencontré un disque protégeant le poste suivant.
 
--En voie unique, en l'absence d'agent chargé de la gestion des circulations (gare temporaire fermée au service par exemple) dans un poste protégé par un disque et ne comportant pas un signal de cantonnement, le conducteur peut recevoir, par écrit ou par dépêche, du responsable du service de la circulation de l'une des gares encadrantes, l'ordre de se remettre en marche dans les conditions précisées par cet ordre.
+-en voie unique, en l'absence d'agent chargé de la gestion des circulations (gare temporaire fermée au service par exemple) dans un poste protégé par un disque et ne comportant pas un signal de cantonnement, le conducteur peut recevoir, par écrit ou par dépêche, du responsable du service de la circulation de l'une des gares encadrantes, l'ordre de se remettre en marche dans les conditions précisées par cet ordre.
 
 Article 104
 
@@ -296,11 +294,9 @@ Article 301
 
 L'avertissement
 
-L'avertissement présente :
+Vous pouvez consulter l'intégralité du texte avec ses images à l'adresse suivante :
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038578814
 
 Règle générale :
 
@@ -316,13 +312,13 @@ Règle particulière (ne s'applique pas aux gares de jonction voie unique/ doubl
 
 En voie unique, lorsqu'il précède une gare, l'avertissement peut être utilisé pour annoncer un signal d'arrêt à main ou un guidon d'arrêt présenté au voisinage du point habituel d'arrêt des trains en gare. Il peut également être utilisé pour annoncer, s'il y a lieu, un TIV de rappel 30 (ou 40) implanté au droit de l'aiguille d'entrée de la gare.
 
-En voie Banalisée à une seule voie la documentation d'exploitation précise si les dispositions de la voie unique s'appliquent ou si le conducteur doit respecter une autre règle.
+En voie banalisée à une seule voie la documentation d'exploitation précise si les dispositions de la voie unique s'appliquent ou si le conducteur doit respecter une autre règle.
 
 Un tel avertissement commande de plus au conducteur, après s'être conformé, le cas échéant, à l'indication donnée par le TIV de rappel 30 (ou 40) implanté au droit de l'aiguille d'entrée, de s'arrêter obligatoirement en gare.
 
 S'il existe un signal de cantonnement (sémaphore ou carré) commandant la sortie de la gare, et si ce signal est ouvert, le conducteur peut ensuite reprendre sa marche normale, si rien ne s'y oppose.
 
-S'il n'en est pas ainsi, le conducteur ne peut se remettre en marche qu'après avoir reçu directement l'autorisation de départ délivrée sous la forme manuelle ou par écrit par le responsable du service de la circulation.
+S'il n'en est pas ainsi, le conducteur ne peut se remettre en marche qu'après avoir reçu l'autorisation de mouvement donnée par le représentant du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations dans les conditions définies à la documentation d'exploitation.
 
 Prescription complémentaire :
 
@@ -572,29 +568,19 @@ Article 510
 
 Signaux de chantier
 
-Les parties de voie (chantiers de travaux ...) sur lesquelles une limitation temporaire de vitesse doit être observée sont normalement précédées par deux TIV fixes de chantier :
+Les parties de voie (chantiers de travaux … ) sur lesquelles une limitation temporaire de vitesse doit être observée sont normalement précédées par deux TIV fixes de chantier :
 
--un TIV à distance de forme circulaire, à chiffres noirs sur fond blanc, éclairé la nuit et muni d'un dispositif permettant la répétition dans les cabines de conduite ;
+-un TIV à distance de forme circulaire, à chiffres noirs sur fond blanc, éclairé la nuit ou lumineux et muni d'un dispositif permettant la répétition dans les cabines de conduite ;
 
-lorsque la vitesse autorisée est inférieure ou égale à 40 km/ h, ce TIV est accompagné d'un disque jaune présentant, pour observation de nuit, un feu jaune ;
+-lorsque la vitesse autorisée est inférieure ou égale à 40 km/ h, ce TIV est accompagné d'un disque jaune présentant, pour observation de nuit, un feu jaune ;
 
-le TIV à distance et le feu jaune du disque sont munis d'un éclairage intermittent cadencé ;
+-le TIV à distance et le feu jaune du disque sont munis d'un éclairage intermittent cadencé ;
 
--un TIV d'exécution de forme circulaire, à chiffres blancs sur fond noir, éclairé la nuit ou réflectorisé, implanté à l'origine de la partie de voie à franchir à vitesse limitée.
+-un TIV d'exécution de forme circulaire, à chiffres blancs sur fond noir, éclairé la nuit, réflectorisé ou lumineux, implanté à l'origine de la partie de voie à franchir à vitesse limitée.
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
+Vous pouvez consulter l'intégralité du texte avec ses images à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
-
-Le TIV à distance, ainsi que le TIV d'exécution, commande au conducteur de ne pas dépasser la vitesse indiquée sur le tableau, en kilomètres à l'heure, au franchissement de la partie de voie intéressée.
-
-Un tableau blanc de forme circulaire, éclairé la nuit ou réflectorisé, indique la fin de la partie de voie à parcourir à vitesse limitée. Le conducteur ne doit reprendre sa marche normale, si rien ne s'y oppose, que lorsque le dernier véhicule de son train a franchi ce tableau.
-
-Lorsqu'une aiguille prise en pointe (aiguille de bifurcation par exemple) se trouve entre le TIV à distance et l'origine de la partie de voie à parcourir à vitesse limitée, le tableau ci-après est implanté en talon de l'aiguille, sur la branche de l'itinéraire non concerné par la limitation temporaire de vitesse, afin que les trains intéressés puissent reprendre leur vitesse normale le plus tôt possible.
-
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038578814
 
 Article 511
 
@@ -726,11 +712,11 @@ Ce tableau (TLC) est utilisé à la sortie de certains faisceaux de voies de ser
 
 Ce tableau peut présenter :
 
--soit la lettre "T", en blanc sur fond noir, pour indiquer au conducteur ayant à exécuter un mouvement en direction d'une voie pouvant être en impasse que rien ne s'oppose au mouvement ;
+-soit la lettre “ T ”, en blanc sur fond noir, pour indiquer au conducteur ayant à exécuter un mouvement en direction d'une voie pouvant être en impasse que rien ne s'oppose au mouvement ;
 
-lorsque la sortie du faisceau est commandée par un signal de groupe, la lettre "T" clignote si au moment de sa présentation le signal de groupe est fermé ;
+-lorsque la sortie du faisceau est commandée par un signal de groupe, la lettre “ T ” clignote si au moment de sa présentation le signal de groupe est fermé ;
 
--soit, s'il y a lieu, le signal lumineux de départ.
+-soit, s'il y a lieu, le signal lumineux d'autorisation de mouvement constitué par un voyant clignotant mi-blanc, mi-vert.
 
 Dans certaines gares d'arrêt général ou au départ de certains groupes de voies principales d'arrêt général, le TLC à trois indications peut être utilisé pour commander, en lieu et place des carrés habituellement prévus à cet effet, la sortie de chacune des voies d'un groupe de voies principales convergentes.
 
@@ -794,25 +780,23 @@ Signaux en liaison avec le départ des trains
 
 Article 1101
 
-Signal lumineux de départ
+Signal lumineux d'autorisation de mouvement
 
-Le signal lumineux de départ (SLD) est utilisé à la sortie de certaines voies. Il est constitué par la présentation d'un voyant clignotant mi-blanc, mi-vert.
+Le signal lumineux d'autorisation de mouvement, constitué par un voyant clignotant mi-blanc, mi-vert, est utilisé à la sortie de certaines voies.
 
-Ce signal constitue l'autorisation de départ.
+Ce signal constitue l'autorisation de mouvement.
 
 Article 1102
 
-Plaque mi-blanche mi-verte
-
-Lorsqu'un signal carré de sortie est complété par une plaque mi-blanche mi-verte, cette dernière indique au conducteur que l'ouverture du signal constitue l'autorisation de départ.
+(Supprimé).
 
 Article 1103
 
-Plaque demande de départ
+Plaque demande DD
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
+Vous pouvez consulter l'intégralité du texte avec ses images à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038578814
 
 Chapitre 12
 
@@ -1189,3 +1173,7 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&nu
 Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+
+NOTA :
+
+Conformément à l’article 6 de l’arrêté du 11 juin 2019, les dispositions résultant des dispositions des articles 4 et 5 dudit arrêté sont applicables après mise en conformité de la documentation d'exploitation correspondante des exploitants ferroviaires et au plus tard le 15 décembre 2019.
