@@ -56,6 +56,8 @@ Directeur de l'unité de management Cœlacanthe
 
 Directeur de l'unité de management opérations d'armement terrestres
 
+Directeur de l'unité de management socle numérique
+
 |
 
 .
