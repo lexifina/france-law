@@ -28,7 +28,7 @@ I. – 1. Pour l'application de l'article 242 sexies du code général des impô
 
 13° Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration.
 
-2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199 undecies A, 199 undecies C, 217 undecies, 244 quater W ou 244 quater X du code général des impôts, la personne morale précise, en outre :
+2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199 undecies A, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X du code général des impôts, la personne morale précise, en outre :
 
 1° Si l'investissement consiste en l'acquisition, la construction ou la réhabilitation de logements ;
 

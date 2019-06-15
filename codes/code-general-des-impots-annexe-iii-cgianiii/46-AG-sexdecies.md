@@ -2,17 +2,17 @@
 
 I. – Les plafonds annuels de ressources mentionnés au 2° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-21 du code de la construction et de l'habitation ;
+1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-21 du code de la construction et de l'habitation ;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à 81, 25 % des plafonds annuels de ressources mentionnés au 2 de l'article 46 AG duodecies et applicables sur ces territoires.
 
 II. – Les plafonds annuels de loyers mentionnés au 3° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-21 du code de la construction et de l'habitation ;
+1° (Abrogé) ;
 
-2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le département de Guadeloupe ;
+2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-21 du code de la construction et de l'habitation dans le département de Guadeloupe ;
 
-3° Abrogé ;
+3° (Abrogé) ;
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à 90 % des plafonds annuels de loyers mentionnés au 1 de l'article 46 AG duodecies et applicables sur ces territoires.
 
@@ -20,17 +20,17 @@ III. – 1. La part minimale mentionnée au 5° du I de l'article 199 undecies C
 
 2. Les plafonds annuels de ressources mentionnés au 5° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-7 du code de la construction et de l'habitation ;
+1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-7 du code de la construction et de l'habitation ;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à dix treizièmes des plafonds annuels de ressources mentionnés au 2° du I.
 
 3. Les plafonds annuels de loyers mentionnés au 5° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° Dans les départements d'outre-mer, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-7 du code de la construction et de l'habitation ;
+1° (Abrogé) ;
 
-2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le département de Guadeloupe ;
+2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-7 du code de la construction et de l'habitation dans le département de Guadeloupe ;
 
-3° Abrogé ;
+3° (Abrogé) ;
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, aux deux tiers des plafonds annuels de loyers mentionnés au 4° du II.
 
@@ -60,7 +60,7 @@ VI. – Le prix de revient mentionné au II de l'article 199 undecies C du code 
 
 VII. – 1. Pour l'application des dispositions de l'article 199 undecies C du code général des impôts, les ressources du locataire, les personnes composant son foyer ou à sa charge et la surface à prendre en compte sont déterminées ainsi qu'il est dit aux articles 46 AG duodecies et 46 AG terdecies.
 
-2. Les travaux de réhabilitation mentionnés au VI de l'article 199 undecies C du code général des impôts s'entendent de ceux qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
+2. Les travaux de réhabilitation mentionnés au VI et au VI bis de l'article 199 undecies C du code général des impôts s'entendent de ceux qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
 NOTA :
 

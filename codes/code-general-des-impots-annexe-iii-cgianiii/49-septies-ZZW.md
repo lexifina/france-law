@@ -6,4 +6,4 @@ Le comptable de la direction générale des finances publiques adresse à l'éta
 
 1° A réception de la notification de la cession ou du nantissement de la créance, un certificat indiquant si la créance mentionnée au premier alinéa a déjà fait ou non l'objet d'une cession ou d'un nantissement antérieur ;
 
-2° A réception de la déclaration spéciale faisant état d'une cession ou d'un nantissement de créance mentionné au premier alinéa souscrite par l'organisme bénéficiaire du crédit d'impôt prévu à l'article 244 quater X du code général des impôts, un certificat de créance mentionnant le montant à hauteur duquel la cession ou le nantissement peut être pris en compte.
+2° A réception de la déclaration spéciale faisant état d'une cession ou d'un nantissement de créance mentionné au premier alinéa souscrite par l'organisme ou l'entreprise soumise à l'impôt sur les sociétés bénéficiaire du crédit d'impôt prévu à l'article 244 quater X du code général des impôts, un certificat de créance mentionnant le montant à hauteur duquel la cession ou le nantissement peut être pris en compte.
