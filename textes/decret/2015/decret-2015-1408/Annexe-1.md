@@ -164,97 +164,49 @@ Dérogation (décision provisoire) à une spécification technique d'interopéra
 
 Directive européenne 2008/57/ CE du 17 juin 2008, annexe IX
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, articles 36 et 37 |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires |
 
 Dérogation à une spécification technique d'interopérabilité (sur réseau transeuropéen) article 9, points a, c, e |
 
 Directive européenne 2008/57/ CE du 17 juin 2008, annexe IX
 
-Décret 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, articles 36 et 37 |
-
-Demande de certificat de sécurité (délivrance, modification, renouvellement partie A ou B), y compris les demandes d'autorisation portant sur la sécurité d'exercer des activités ferroviaires sur les réseaux comparables |
-
-Directive 2004/49/ CE du 29 avril 2004
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (articles 20 et 21)
-
-Arrêté du 14 avril 2008 |
-
-Demande de certificat de sécurité section frontière Partie B (délivrance, modification, renouvellement) |
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 22)
-
-Arrêté du 14 avril 2008 (articles 4-1 et 4-2) |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires |
 
 Demande d'agrément de sécurité-sécurité ferroviaire |
 
 Directive 2004/49/ CE du 29 avril 2004
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 19) |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires |
 
-Demande d'avis dossier de conception de sécurité véhicule-sécurité ferroviaire |
+Demande d'avis dossier de définition de la sécurité pour les installations fixes-sécurité ferroviaire |
 
-Directive 2008/57/ CE du 17 juin 2008
+Directive (UE) 2016/797 du 11 mai 2016
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (articles 44 et 46)
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire (article 198) |
 
-Arrêté du 23 juillet 2012 modifié (article 6 et annexe II) |
+Demande d'approbation dossier préliminaire de sécurité pour les installations fixes |
 
-Demande d'autorisation de mise en exploitation commerciale véhicule (dossier de sécurité)-sécurité ferroviaire |
+Directive (UE) 2016/797 du 11 mai 2016
 
-Directive 2008/57/ CE du 17 juin 2008
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire (article 198) |
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire
+Demande d'autorisation de mise en service pour les installations fixes (dossier de sécurité)-sécurité ferroviaire |
 
-Arrêté du 23 juillet 2012 modifié |
+Directive (UE) 2016/797 du 11 mai 2016
 
-Demande d'autorisation de mise en exploitation commerciale d'un véhicule déjà autorisé dans un autre Etat membre de l'UE ou Etat appliquant des règles équivalentes à celles de l'UE en vertu d'accords conclus avec celle-ci (dossier technique de sécurité)-sécurité ferroviaire |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire (article 198) |
 
-Directive 2008/57/ CE du 17 juin 2008
+Demande d'autorisation de mise en service d'installations fixes pour les voies ferrées portuaires et de mise en service pour les installations fixes déjà autorisée dans un autre Etat membre de l'UE ou Etat appliquant des règles équivalentes à celles de l'UE en vertu d'accords conclus avec celle-ci (dossier technique de sécurité)-sécurité ferroviaire |
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 54)
+Directive (UE) 2016/797 du 11 mai 2016
 
-Arrêté du 23 juillet 2012 modifié (article 10 et annexe V) |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire (article 199) |
 
-Demande d'autorisation de mise en exploitation commerciale d'un véhicule déjà autorisé et qui fait l'objet d'une modification substantielle (dossier technique de sécurité)-sécurité ferroviaire |
+Dossier de présentation du projet pour les installations fixes en cas de renouvellement ou de réaménagement-sécurité ferroviaire |
 
-Directive 2008/57/ CE du 17 juin 2008
+Directive (UE) 2016/797 du 11 mai 2016
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 55)
-
-Arrêté du 23 juillet 2012 modifié (article 10 et annexe V) |
-
-Demande d'avis dossier de définition de la sécurité infrastructure-sécurité ferroviaire |
-
-Directive 2008/57/ CE du 17 juin 2008
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (articles 44 et 47)
-
-Arrêté du 23 juillet 2012 modifié (article 7 et annexe I) |
-
-Demande d'approbation dossier préliminaire de sécurité infrastructure |
-
-Directive 2008/57/ CE du 17 juin 2008
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (articles 44 et 48)
-
-Arrêté du 23 juillet 2012 modifié (article 8 et annexe III) |
-
-Demande d'autorisation de mise en exploitation commerciale infrastructure (dossier de sécurité)-sécurité ferroviaire |
-
-Directive 2008/57/ CE du 17 juin 2008
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (articles 44 et 51)
-
-Arrêté du 23 juillet 2012 modifié (article 9 et annexe IV) |
-
-Demande d'autorisation de mise en exploitation commerciale infrastructure déjà autorisée dans un autre Etat membre de l'UE ou Etat appliquant des règles équivalentes à celles de l'UE en vertu d'accords conclus avec celle-ci (dossier technique de sécurité)-sécurité ferroviaire |
-
-Directive 2008/57/ CE du 17 juin 2008
-
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 54)
-
-Arrêté du 23 juillet 2012 modifié (article 10 et annexe V) |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire (article 200) |
 
 Demande d'agrément des citernes de transport de marchandises dangereuses-sécurité ferroviaire |
 
@@ -270,7 +222,7 @@ Code des transports-Article R. 5352-3
 
 Demande de circulation exceptionnelle-sécurité ferroviaire |
 
-Décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire (article 10) |
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires |
 
 Désignation d'une installation de sécurité simple-sécurité ferroviaire |
 

@@ -520,20 +520,6 @@ Article D. 221-2.
 
 Mesures prises par les ministres chargés des transports et de l'industrie
 
-Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/ CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
-
-1
-
-|
-
-Désignation des organismes habilités à mettre en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification CE des sous-systèmes.
-
-|
-
-Art. 16
-
-|
-
 Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques
 
 1
@@ -545,20 +531,6 @@ Habilitation des organismes à évaluer la conformité des constituants et sous-
 |
 
 Article 15
-
-|
-
-Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
-
-1
-
-|
-
-Habilitation des organismes mettant en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification " CE " des sous-systèmes.
-
-|
-
-Article 16
 
 |
 
@@ -972,17 +944,17 @@ Article 7
 
 |
 
-Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
+Décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire
 
 1
 
 |
 
-Dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
+Non application des règles nationales.
 
 |
 
-Article 9
+Article 6
 
 |
 
@@ -990,13 +962,21 @@ Article 9
 
 |
 
-Refus de transmission à la Commission européenne d'une demande de dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
+Non application des spécifications techniques d'interopérabilité.
 
 |
 
-Article 10
+Article 7
 
 |
+
+3 |
+
+Notification et désignation des organismes d'évaluation de la conformité.
+
+|
+
+Article 13 |
 
 Code des transports :
 
@@ -1017,72 +997,6 @@ Article R. 3111-37 (10°) |
 Délivrance des autorisations pour l'exécution de services internationaux de transport routier de voyageurs lorsque la demande d'autorisation est effectuée en France. |
 
 Article R. 3111-57 |
-
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
-
-1
-
-|
-
-Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
-
-|
-
-Art. 4, 5 et 13
-
-|
-
-2
-
-|
-
-Délivrance, suspension temporaire et retrait des certificats de sécurité.
-
-|
-
-Art. 4, 15 et 16
-
-|
-
-Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
-
-1
-
-|
-
-Agrément des organismes ou services techniques indépendants.
-
-|
-
-Art. 5
-
-|
-
-2
-
-|
-
-Approbation du dossier préliminaire de sécurité.
-
-|
-
-Art. 7 et 8
-
-|
-
-3
-
-|
-
-Autorisation de mise en exploitation, suspension temporaire et
-
-retrait d'autorisations.
-
-|
-
-Art. 12, 13 et 26
-
-|
 
 Code de la route
 
@@ -1243,22 +1157,6 @@ régulariser sa situation financière.
 |
 
 Articles 10 et 12
-
-|
-
-2
-
-|
-
-Délivrance du certificat de sécurité pour l'utilisation du
-
-réseau ferré national ;
-
-Retrait et suspension du certificat de sécurité.
-
-|
-
-Articles 15 et 16
 
 |
 
