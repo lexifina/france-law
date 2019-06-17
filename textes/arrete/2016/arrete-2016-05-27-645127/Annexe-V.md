@@ -1,20 +1,20 @@
 # Article Annexe V
 
-DISPOSITIONS PARTICULIÈRES À L'AUTORISATION EUROPÉENNE DE PÊCHE POUR L'EXERCICE DE LA PÊCHE DANS LA ZONE DE GESTION DU STOCK DE SOLE DE LA MANCHE OCCIDENTALE
+Dispositions particulières à l'autorisation européenne de pêche pour l'exercice de la pêche en Manche occidentale aux engins chaluts à perche et filets fixes
 
 I. - Champ d'application et objet
 
-1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone de gestion du stock de sole de la Manche occidentale telle que définie au point 2 du présent article, avec l'un des engins réglementés définis au point 3 du présent article, est conditionné à la détention d'une autorisation européenne de pêche, ci-après dénommée “AEP sole Manche Ouest”, dans les conditions prévues par le règlement (CE) n° 509/2007 du Conseil du 7 mai 2007 établissant un plan pluriannuel pour l'exploitation durable du stock de sole dans la Manche Ouest susvisé.
+1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone de gestion du stock de sole de la Manche occidentale telle que définie au point 2 du présent article, avec l'un des engins réglementés définis au point 3 du présent article, est conditionné à la détention d'une autorisation européenne de pêche, ci-après dénommée “ AEP Manche Ouest ”.
 
 2. La zone de gestion du stock de sole de la Manche occidentale est la division CIEM VII e.
 
-3. Les engins réglementés sont les engins soumis à un régime de gestion de l'effort de pêche visés au point 2 de l'article 5 du règlement (CE) n° 509/2007 du Conseil du 7 mai 2007 établissant un plan pluriannuel pour l'exploitation durable du stock de sole dans la Manche Ouest et à l'annexe dédiée du règlement européen (UE) établissant pour chaque année les possibilités de pêche pour certains stocks halieutiques et groupes de stocks halieutiques, à savoir :
+3. Les engins réglementés sont les engins soumis à un régime de gestion de l'effort de pêche visé au point 2 de l'article 12 du règlement (UE) n° 2019/472 du Parlement européen et du Conseil du 19 mars 2019 établissant un plan pluriannuel pour les stocks pêchés dans les eaux occidentales et les eaux adjacentes ainsi que pour les pêcheries exploitant ces stocks et à l'annexe du règlement européen (UE) établissant pour chaque année les possibilités de pêche pour certains stocks halieutiques et groupes de stocks halieutiques, à savoir :
 
-- les chaluts à perche d'un maillage supérieur ou égal à 80 mm
+- les chaluts à perche d'un maillage supérieur ou égal à 80 mm ;
 
-- les filets et trémails (fixes, maillants et emmêlants) d'un maillage inférieur ou égal à 220 mm.
+- les filets et trémails (fixes, maillants, emmêlants) d'un maillage inférieur ou égal à 220 mm.
 
-4. Tout navire pêchant dans la zone de gestion du stock de sole de la Manche occidentale avec l'un des engins réglementés définis au point I. 3. doit impérativement disposer d'une AEP sole Manche Ouest en cours de validité.
+4. Tout navire pêchant dans la zone de gestion du stock de sole de la Manche occidentale avec l'un des engins réglementés définis au point I. 3. doit impérativement disposer d'une AEP Manche Ouest en cours de validité.
 
 5. Le régime de gestion de l'effort de pêche s'impose à tout navire qui pêche dans la zone de gestion du stock de sole de la Manche occidentale avec l'un des engins réglementés et maillages décrits au point I. 3, à l'exception des navires qui répondent aux conditions cumulatives suivantes qui en sont exemptés :
 
@@ -24,7 +24,7 @@ I. - Champ d'application et objet
 
 II. - Plafond de capacité
 
-La capacité totale des navires pouvant bénéficier de l'AEP sole Manche Ouest ne doit pas être supérieure, par groupe d'engins réglementés, au plafond de capacité maximale, exprimé en kW, constitué :
+La capacité totale des navires pouvant bénéficier de l'AEP Manche Ouest ne doit pas être supérieure, par groupe d'engins réglementés, au plafond de capacité maximale, exprimé en kW, constitué :
 
 - pour les navires de longueur hors tout supérieure ou égale à 10 mètres : par la somme des puissances motrices des navires ayant pêché dans la zone de gestion du stock de sole de la Manche occidentale avec l'un des engins réglementés au sens de l'article 1 de la présente annexe au cours des années 2002, 2003 ou 2004 ;
 
@@ -32,7 +32,7 @@ La capacité totale des navires pouvant bénéficier de l'AEP sole Manche Ouest 
 
 III. - Liste des navires éligibles
 
-1. La liste initiale des navires éligibles à l'AEP sole Manche Ouest est composée :
+1. La liste initiale des navires éligibles à l'AEP Manche Ouest est composée :
 
 - des navires de longueur hors tout supérieure ou égale à 10 mètres ayant pêché dans la zone de gestion du stock de sole de Manche occidentale avec l'un des engins réglementés au sens de l'article 1 de la présente annexe au cours des années 2002, 2003 ou 2004 ;
 

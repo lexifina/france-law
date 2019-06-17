@@ -28,16 +28,6 @@ Tous engins |
 
 Néant. |
 
-Règlement (CE) n° 811/2004 du Conseil du 21 avril 2004 instituant des mesures de reconstitution du stock de merlu du nord |
-
-Merlu commun (code FAO : HKE) |
-
-CIEM III ― IV ― VII ― VIII a, b, d, e et Eaux communautaires des zones CIEM V b et VI a |
-
-Tous engins |
-
-Débarquement de plus de deux tonnes de merlu en ports désignés |
-
 Point 15.2 et suivants de l'annexe 3 sur les mesures techniques du règlement (CE) n° 43/2009 du conseil du 16 janvier 2009 établissant pour 2009 les possibilités de pêche et les conditions associées pour certains stocks halieutiques, applicables dans les eaux communautaires et, pour les navires communautaires, dans les eaux soumises à des limitations de captures |
 
 Toutes espèces |
@@ -125,3 +115,23 @@ Zones CIEM V, VI, VII, VIII, IX et X et les zones Copace 34.1.1, 34.1.2 et 34.2.
 Tous engins |
 
 Si un ou des plafonds d'effort de pêche attribués à la France en application du règlement (CE) n° 1415/2004 sont susceptibles d'être dépassés, l'activité des navires des armateurs détenteurs de l'autorisation peut être soumise à des restrictions afin de garantir le respect par la France des plafonds d'effort de pêche qui la concernent |
+
+Règlement (UE) n° 2019/472 du Parlement européen et du Conseil du 19 mars 2019 établissant un plan pluriannuel pour les stocks pêchés dans les eaux occidentales et les eaux adjacentes ainsi que pour les pêcheries exploitant ces stocks |
+
+Espèces énumérées à l'article 1er du règlement (UE) n° 2019/472 (**)
+
+|
+
+Zone CIEM FAO 27 (les stocks précis encadrés par cette autorisation sont visés à l'article 1er du règlement (UE) n° 2019/472)
+
+|
+
+Tous engins
+
+|
+
+Néant.
+
+|
+
+(**) Bar (loup) européen (Dicentrarchus labrax), baudroie (Lophiidae), cabillaud (Gadus morhua), cardines (Lepidorhombus spp.), dorade rose (Pagellus bogaraveo), églefin (Melanograllyus), grenadier de roche (Coryphaenoides rupestris), langoustine (Nephrops norvegicus), lingue bleue (Molva dypterygia), lieu jaune (Pollachius pollachius), merlan (Merlangius merlangus), merlu (Merluccius merluccius), plie commune (Pleuronectes platessa), sabre noir (Aphanopus carbo), sole commune (Solea solea). |
