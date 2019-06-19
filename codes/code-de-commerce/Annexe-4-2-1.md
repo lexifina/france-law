@@ -1,6 +1,6 @@
 # Article Annexe 4-2-1
 
-Juridictions commerciales compétentes en application de l'article L. 442-6 du code de commerce
+Juridictions commerciales compétentes en application du III de l'article L. 442-4 du code de commerce
 
 des procédures qui sont applicables aux personnes, commerçants ou artisans
 
@@ -12,66 +12,34 @@ et des tribunaux mixtes de commerce
 
 RESSORT |
 
-Marseille
+Marseille |
 
-|
+Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
 
-Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
+Bordeaux |
 
-|
+Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
 
-Bordeaux
+Tourcoing |
 
-|
+Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |
 
-Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
+Fort-de-France |
 
-|
+Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. |
 
-Tourcoing
+Lyon |
 
-|
+Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. |
 
-Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
+Nancy |
 
-|
+Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. |
 
-Fort-de-France
+Paris |
 
-|
+Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles. |
 
-Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
+Rennes |
 
-|
-
-Lyon
-
-|
-
-Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
-
-|
-
-Nancy
-
-|
-
-Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
-
-|
-
-Paris
-
-|
-
-Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles.
-
-|
-
-Rennes
-
-|
-
-Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
-
-|
+Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |

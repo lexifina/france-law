@@ -1,6 +1,6 @@
 # Article Annexe 4-2-2
 
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 442-6,
+JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4,
 
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
@@ -12,66 +12,34 @@ de grande instance
 
 RESSORT |
 
-Marseille.
+Marseille. |
 
-|
+Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
 
-Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
+Bordeaux. |
 
-|
+Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
 
-Bordeaux.
+Lille. |
 
-|
+Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |
 
-Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
+Fort-de-France. |
 
-|
+Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France. |
 
-Lille.
+Lyon. |
 
-|
+Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. |
 
-Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
+Nancy. |
 
-|
+Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. |
 
-Fort-de-France.
+Paris. |
 
-|
+Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles. |
 
-Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France.
+Rennes. |
 
-|
-
-Lyon.
-
-|
-
-Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
-
-|
-
-Nancy.
-
-|
-
-Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
-
-|
-
-Paris.
-
-|
-
-Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles.
-
-|
-
-Rennes.
-
-|
-
-Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
-
-|
+Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |
