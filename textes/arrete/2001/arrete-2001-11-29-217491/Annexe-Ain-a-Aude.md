@@ -364,7 +364,7 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de l'Ardèche
+Direction départementale des territoires de l'Ardèche (4)
 
 FONCTIONS EXERCEES
 
@@ -388,7 +388,7 @@ par emploi
 
 |
 
-Chef du service habitat et construction
+Chef du service ingénierie habitat
 
 |
 
@@ -404,7 +404,7 @@ A
 
 |
 
-Chef de la cellule ville et politique sociale du logement
+Chef de l'unité logement public
 
 |
 
@@ -498,8 +498,8 @@ B
 
 NOTA :
 
-(1) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Alpes-maritimes prennent effet au 1er septembre 2017.
-
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 (3) Conformément à l'article 1er de l'arrêté du 6 septembre 2018, les dispositions de l'annexe du présent arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Aube prennent effet au 1er janvier 2016.
+
+(4) Conformément à l'article 1er de l'arrêté du 7 juin 2019, les dispositions de l'annexe du présent arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Ardèche prennent effet au 1er janvier 2019.
