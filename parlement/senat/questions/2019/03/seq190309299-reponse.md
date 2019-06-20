@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309299
+
+- Question : [SEQ190309299](seq190309299.md) — Indemnités kilométriques octroyées aux conciliateurs de justice
+
+## Réponse
+
+*Justice, JO du 2019-06-20, page 3240*
+
+La Garde des Sceaux souhaite préalablement rappeler son attachement à l'institution des conciliateurs de justice dont les conditions d'exercice des fonctions sont au cœur des préoccupations du ministère de la justice, dans un contexte de promotion des modes amiables de règlement des différends. Les conciliateurs de justice exercent leur mission à titre bénévole en application de l'article 1er du décret n° 78-381 du 20 mars 1978 relatif à leur statut. Toutefois, leurs frais de déplacement sont indemnisés selon les modalités prévues pour les personnels civils de l'État par le décret n° 2006-71 du 3 juillet 2006. Ainsi, les frais de transport sont remboursés soit sur la base du tarif de transport public de voyageurs le moins onéreux, soit sur la base d'indemnités kilométriques. Par un décret n° 2019-139 du 26 février 2019 et plusieurs arrêtés du même jour, le Gouvernement a revalorisé les conditions et modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'État. Le barème des indemnités kilométriques et les indemnités de mission ont à ce titre été augmentés. Cette revalorisation sera donc applicable aux conciliateurs de justice qui verront leur situation progresser une nouvelle fois. En effet, l'arrêté du 31 août 2017 avait déjà étendu, spécialement pour les conciliateurs de justice, le droit au remboursement aux déplacements effectués au sein d'une même commune et dans les communes limitrophes, lorsqu'elles sont desservies par les transports publics. Ces avancées notables confirment la détermination avec laquelle le ministère de la justice entend porter ce sujet.
