@@ -154,7 +154,7 @@ DES de génétique médicale. |
 
 Gériatrie. |
 
-DESC de gériatrie. DES de gériatrie |
+DESC de gériatrie. Capacité de gérontologie. DES de gériatrie. |
 
 21 |
 
