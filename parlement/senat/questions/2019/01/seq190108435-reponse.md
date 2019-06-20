@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108435
+
+- Question : [SEQ190108435](seq190108435.md) — Intégration des places des maisons d'enfants à caractère social dans le recensement des logements locatifs sociaux
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-06-20, page 3218*
+
+Dans le cadre de la discussion parlementaire préalable à la promulgation de la loi du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique (Elan), le législateur a procédé à quelques ajustements du dispositif issu de la loi relative à la solidarité et au renouvellement urbains (SRU) tout en conservant son équilibre, s'agissant de son périmètre d'application et du niveau des obligations assignées aux communes en matière de logement social. Ce dispositif vise à développer une offre de logements locatifs sociaux pérennes accessibles à tous les ménages disposant de ressources modestes. Il en va de la satisfaction des besoins en logements de nos concitoyens les plus fragiles, tout autant que de l'effectivité de la mixité sociale dans nos villes, ce dont le Gouvernement a fait l'une de ses priorités. Les maisons d'enfants à caractère social ont vocation à répondre à une situation spécifique en hébergeant sur une courte durée des enfants présentant des difficultés particulières (troubles psychiques, psychiatriques, violences familiales, etc.). S'il convient de soutenir sans réserve les communes qui accueillent sur leur territoire ces foyers, ceux-ci ne sauraient entrer dans le décompte SRU des logements sociaux. En effet, ces établissements, qui ont pris le rôle anciennement dévolu aux orphelinats, ne répondent pas aux objectifs de développement d'une offre locative sociale pérenne poursuivis par le dispositif SRU. En conséquence, le Gouvernement n'est pas favorable à la prise en compte des maisons d'enfants à caractère social dans l'inventaire SRU des logements sociaux.
