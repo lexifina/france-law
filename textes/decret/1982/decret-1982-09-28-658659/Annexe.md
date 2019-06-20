@@ -1,11 +1,9 @@
 # Article Annexe
 
-(1) Le plan annexé au présent décret peut être consulté :
+(1) Ce plan peut être consulté :
 
-Au service central de sûreté des installations nucléaires, 99, rue de Grenelle, 75700 Paris ;
+- au siège de l'Autorité de sûreté nucléaire (ASN), 15, rue Louis-Lejeune, 92120 Montrouge ;
 
-A la direction du gaz, de l’électricité et du charbon, 3 et 5, rue Barbet-de-Jouy, 75700 Paris ;
+- à la division territoriale de l'Autorité de sûreté nucléaire (ASN), 50, avenue du Général-Patton, 51000 Châlons-en-Champagne ;
 
-A la direction interdépartementale de l’industrie Picardie-Champagne- Ardennes, 44, rue Alexandre-Dumas, 80026 AMIENS CEDEX ;
-
-A la préfecture de l’Aube, place de la Libération, 10025 TROYES CEDEX.
+- à la préfecture de l'Aube, 2, rue Pierre-Labonde, 10000 Troyes.
