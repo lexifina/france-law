@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410064
+
+- Question : [SEQ190410064](seq190410064.md) — Fonds de compensation pour la taxe sur la valeur ajoutée et location longue durée de véhicules
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-06-20, page 3206*
+
+Le fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) est principalement destiné à soutenir les dépenses d'investissement des collectivités. Le FCTVA compense en effet, de manière forfaitaire, la TVA acquittée par les collectivités sur leurs dépenses réelles d'investissement et, depuis 2016, sur les dépenses d'entretien des bâtiments publics et de la voirie qui participent de l'entretien du patrimoine des collectivités. Or la location longue durée n'est pas une dépense d'investissement, mais une dépense de fonctionnement. Conformément aux règles budgétaires et comptables, les dépenses qui ont pour résultat l'entrée dans le patrimoine d'une collectivité d'un nouvel élément d'une certaine consistance, destiné à y rester durablement, sont considérées comme des dépenses d'investissement. La location de longue durée des véhicules ne donnant pas lieu à l'augmentation du patrimoine de la collectivité, elle constitue une dépense de fonctionnement. Le FCTVA facilite l'achat de véhicules à faible émission de gaz à effet de serre, soutenant ainsi l'objectif de la transition énergétique et de la croissance verte. L'article 37 de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte a fixé des objectifs d'achat ou de renouvellement de véhicules de moins de 3,5 tonnes à faible émission de gaz à effet de serre, dans la proportion minimale de 20 % pour les collectivités territoriales et leurs groupements. L'atteinte de cet objectif est soutenue par le biais du FCTVA qui contribue ainsi au renouvellement du parc automobile en le rendant plus efficace énergétiquement et moins polluant.
