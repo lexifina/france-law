@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309728
+
+- Question : [SEQ190309728](seq190309728.md) — Gestion préventive de l'anthonome du poirier
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-06-20, page 3208*
+
+L'anthonome du poirier (anthonomus pyri) est un danger sanitaire de troisième catégorie pour lequel les mesures de prévention, de surveillance ou de lutte relèvent de l'initiative privée. En production conventionnelle, il ne constitue pas un problème et ne fait l'objet d'aucune intervention spécifique car les applications d'insecticides visant les pucerons et les tordeuses permettent de contrôler ce parasite. En agriculture biologique et cultures peu traitées avec des insecticides, en l'absence d'intervention spécifique, l'anthonome est un véritable problème qui peut causer des pertes de plus de 50 % des fruits. L'anthonome du poirier fait l'objet d'un suivi dans le cadre de la surveillance biologique du territoire. Aucune situation alarmante n'a été remontée par ce réseau pour l'année 2018 dans la région Centre Val-de-Loire. Les bulletins de santé du végétal font le point chaque année de mars à mai sur la présence de ce ravageur et donnent des conseils pour sa surveillance afin de mieux cibler les traitements permettant sa maîtrise. En agriculture conventionnelle, des produits autorisés sur l'usage contre les coléoptères phytophages sont disponibles. En agriculture biologique, pour une intervention spécifique, le spinosad est efficace contre ce ravageur et est une matière active figurant à l'annexe II du règlement (CE) 889/2008. Par ailleurs des antagonistes naturels de l'anthonome, comme la punaise anthocoris nemoralis très présente dans les vergers de poiriers et certains champignons du genre beauveria, pourraient constituer à moyen terme des méthodes de régulation naturelle efficaces.
