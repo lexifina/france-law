@@ -1,0 +1,11 @@
+# Donges : délibération 18 — Création de postes et mise à jour du tableau des effectifs
+
+- Collectivité : Donges
+- SIREN : 214400525
+- Code INSEE : 44052
+- Date : 2019-06-20
+- Matière : 4.1 Fonction publique,Personnel titulaires et stagiaires de la F.P.T.
+- Objet : Création de postes et mise à jour du tableau des effectifs
+- Transmis à la préfecture : 2019-06-25
+- Acte publié : https://ville-donges.dematdoc.eu/public/14?&filters=14%7C121%7CD%C3%A9lib%C3%A9ration%20Conseil%20municipal
+- Jeu de données : https://www.data.gouv.fr/datasets/5ce2bd1e06e3e707af260cd9
