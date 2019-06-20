@@ -18,12 +18,6 @@ Secrétaire général du Gouvernement |
 
 200 |
 
-Secrétaire général pour la modernisation de l'action publique |
-
-1 |
-
-180 |
-
 Directeur, adjoint au secrétaire général du Gouvernement |
 
 1 |
@@ -54,13 +48,7 @@ Directeur du service d'information du Gouvernement |
 
 160 |
 
-Directeur interministériel pour l'accompagnement des transformations publiques au secrétariat général pour la modernisation de l'action publique |
-
-1 |
-
-160 |
-
-Directeur interministériel du numérique et du système d'information et de communication de l'Etat au secrétariat général pour la modernisation de l'action publique |
+Directeur interministériel du numérique et du système d'information et de communication de l'Etat |
 
 1 |
 
@@ -72,25 +60,13 @@ Président de la mission interministérielle de lutte contre la drogue et les co
 
 160 |
 
-Chef de service à la direction des services administratifs et financiers |
+Directeur, adjoint au directeur des services administratifs et financiers |
 
 1 |
 
-120 |
+160 |
 
-Chef du service des stratégies interministérielles de modernisation au secrétariat général pour la modernisation de l'action publique |
-
-1 |
-
-120 |
-
-Chef du service de l'appui aux transformations au secrétariat général pour la modernisation de l'action publique |
-
-1 |
-
-120 |
-
-Chef du service de la performance des services numériques au secrétariat général pour la modernisation de l'action publique |
+Chef du service de la performance des services numériques à la direction interministérielle du numérique et du système d'information et de communication de l'Etat |
 
 1 |
 
@@ -107,12 +83,6 @@ Chef de service à la direction de l'information légale et administrative |
 1 |
 
 120 |
-
-Sous-directeur du pilotage des services déconcentrés à la direction des services administratifs et financiers |
-
-1 |
-
-110 |
 
 Sous-directeur de la programmation et des affaires financières à la direction des services administratifs et financiers |
 
@@ -143,6 +113,30 @@ Expert de haut niveau ou directeur de projet |
 7 |
 
 80 |
+
+Sous-directeur, chargé du service de la législation et de la qualité du droit au sein du secrétariat général du Gouvernement
+
+|
+
+1 |
+
+110 |
+
+Sous-directeur des systèmes d'information de la direction de l'information légale et administrative
+
+|
+
+1 |
+
+110 |
+
+Sous-directeur des sites historiques et des transports de la direction des services administratifs et financiers
+
+|
+
+1 |
+
+110 |
 
 B. Fonctions exercées au Secrétariat général de la défense et de la sécurité nationale
 
@@ -216,7 +210,7 @@ Sous-directeur de la prospective et de la planification de sécurité |
 
 110 |
 
-Sous-directeur en charge de la protection et de la sécurité de la défense |
+Sous-directeur en charge de la protection et de la sécurité de la défense nationale |
 
 1 |
 
@@ -229,30 +223,6 @@ Sous-directeur de l'administration générale et des ressources humaines |
 110 |
 
 Sous-directeur des finances |
-
-1 |
-
-110 |
-
-Sous-directeur des relations extérieures et de la coordination à l'agence nationale de la sécurité des systèmes d'information |
-
-1 |
-
-110 |
-
-Sous-directeur de l'expertise à l'agence nationale de la sécurité des systèmes d'information |
-
-1 |
-
-110 |
-
-Sous-directeur du centre opérationnel de la sécurité des systèmes d'information à l'agence nationale de la sécurité des systèmes d'information |
-
-1 |
-
-110 |
-
-Sous-directeur des systèmes d'information sécurisés à l'agence nationale de la sécurité des systèmes d'information |
 
 1 |
 
@@ -282,92 +252,14 @@ Commissaire général à la stratégie et à la prospective |
 
 180 |
 
-Directeur, commissaire général adjoint à la stratégie et la prospective |
+Chef de service, commissaire général adjoint à la stratégie et la prospective |
 
 1 |
 
-160 |
+120 |
 
 Expert de haut niveau ou directeur de projet |
 
 1 |
 
 80 |
-
-D. Fonctions exercées au Commissariat général à l'égalité des territoires
-
-DESIGNATION DE L'EMPLOI |
-
-NOMBRE
-
-D'EMPLOIS |
-
-NOMBRE
-
-de points par emploi |
-
-Commissaire général à l'égalité des territoires |
-
-1 |
-
-180 |
-
-Directeur de la ville et de la cohésion urbaine |
-
-1 |
-
-160 |
-
-Directeur des stratégies territoriales |
-
-1 |
-
-160 |
-
-Directeur du développement des capacités des territoires |
-
-1 |
-
-160 |
-
-Chef du service de la ville et de la cohésion urbaine |
-
-1 |
-
-120 |
-
-Chef de service, chargé des systèmes territoriaux et de l'accès au service |
-
-1 |
-
-120 |
-
-Sous-directeur, secrétaire général du commissariat général à l'égalité des territoires |
-
-1 |
-
-110 |
-
-Sous-directeur du renouvellement urbain, du développement économique et de l'emploi |
-
-1 |
-
-110 |
-
-Sous-directeur de la cohésion et du développement social |
-
-1 |
-
-110 |
-
-Sous-directeur de l'observation et des analyses statistiques |
-
-1 |
-
-110 |
-
-Sous-directeur des mutations économiques, de l'emploi et de l'innovation |
-
-1 |
-
-110 |
