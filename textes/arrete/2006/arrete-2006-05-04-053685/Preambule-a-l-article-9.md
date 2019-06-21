@@ -1,4 +1,4 @@
-# Article Préambule à l'article 9
+# Article Préambule à l'article 10
 
 Les règles de circulation et dispositions concernant les véhicules, applicables aux transports exceptionnels, qu'ils soient effectués sous couvert de déclaration préalable, d'autorisation individuelle ou d'autorisation de portée locale, sont précisées dans les articles 10 à 16 du présent arrêté.
 
@@ -10,11 +10,11 @@ Le transporteur doit :
 
 - respecter, hors agglomération, en fonction des caractéristiques des réseaux empruntés et du respect des conditions de sécurité, tant pour le convoi que pour l'ensemble des usagers de la route, une interdistance entre deux convois de l'ordre de 150 m en règle générale. Toutefois, lorsque les caractéristiques des réseaux empruntés ne le permettent pas ou en cas de mauvaise visibilité, cette interdistance peut être réduite ponctuellement jusqu'à 50 m ;
 
-- se ranger dès que la route le permet pour faciliter la manoeuvre des véhicules qui suivent le convoi en attente de dépassement ;
+- se ranger dès que la route le permet pour faciliter la manœuvre des véhicules qui suivent le convoi en attente de dépassement ;
 
 - baliser son convoi avec des dispositifs adaptés, implantés à une distance suffisante pour garantir la sécurité des usagers en cas de panne ou d'arrêt et dégager ou faire dégager le plus vite possible la chaussée ;
 
-- en cas d'obstacle non prévisible entraînant l'arrêt du convoi, avertir sans délai le service instructeur du département du point d'arrêt concerné.
+- en cas d'obstacle non prévisible entraînant l'arrêt du convoi, avertir sans délai le service instructeur du département ou pour les convois visés à l'article 17-7, l'échelon opérationnel des transports de l'Institut de radioprotection et de sûreté nucléaire, ainsi que les forces de l'ordre, du point d'arrêt concerné.
 
 La circulation d'un train de convois peut être autorisée, dans le cadre d'une autorisation de portée locale ou sur demande du pétitionnaire dans le cadre d'une autorisation individuelle, dans les conditions suivantes :
 
@@ -24,6 +24,6 @@ La circulation d'un train de convois peut être autorisée, dans le cadre d'une 
 
 - convois de 1re catégorie et de 2e catégorie d'une largeur inférieure ou égale à 3 m, dans la limite de deux convois ;
 
-- autres convois sur proposition des services instructeurs ou des gestionnaires des voiries. Ces transports feront l'objet d'une étude au cas par cas.
+- autres convois sur proposition des services instructeurs ou des gestionnaires de voirie. Ces transports feront l'objet d'une étude au cas par cas.
 
-Lorsque la circulation d'un train de convois est autorisée en application des dispositions ci-dessus, l'interdistance entre deux convois d'un même train de convois devra être de l'ordre de 50 m hors ouvrages d'art que les convois franchiront de manière isolée avec l'accompagnement prévu.
+Lorsque la circulation d'un train de convois est autorisée en application des dispositions ci-dessus, l'interdistance entre deux convois d'un même train de convois devra être de l'ordre de 50 m hors ouvrages d'art. Les convois franchiront les ouvrages d'art de manière isolée avec l'accompagnement prévu.

@@ -1,3 +1,3 @@
-# Article Annexes
+# Article Annexes I à IV
 
-Les annexes sont publiées au Bulletin officiel du ministère des transports, de l'équipement, du tourisme et de la mer.
+Les annexes sont publiées sur le site internet de la délégation à la sécurité routière http :// www. securite-routiere. gouv. fr.
