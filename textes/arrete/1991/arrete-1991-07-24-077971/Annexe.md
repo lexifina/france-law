@@ -642,7 +642,7 @@ Toute balise à déclenchement manuel (ELT/S ou PLB) doit être rangée de mani�
 
 2.11.2.3.
 
-Les avions et les hélicoptères dont le certificat de navigabilité individuel a été délivré pour la première fois après le 1er juillet 2008 seront dotés d'au moins un ELT automatique.
+Les avions et les hélicoptères dont le certificat de navigabilité individuel pour une configuration maximale de plus de six passagers a été délivré pour la première fois après le 1er juillet 2008 sont dotés d'au moins un ELT automatique.
 
 2.11.3. Hélicoptères utilisés dans le cadre d'une activité particulière ou survolant des régions inhospitalières
 
