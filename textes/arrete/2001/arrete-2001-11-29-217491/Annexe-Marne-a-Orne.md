@@ -352,7 +352,7 @@ B
 
 |
 
-Direction départementale de l'équipement de la Meuse
+Direction départementale des territoires de la Meuse
 
 FONCTIONS EXERCEES
 
@@ -376,7 +376,7 @@ par emploi
 
 |
 
-Suivi de la politique du logement
+Chef du service urbanisme et habitat
 
 |
 
@@ -384,13 +384,23 @@ A
 
 |
 
-2
+1
 
 |
 
 10 points
 
 |
+
+Responsable de l'unité habitat
+
+|
+
+A |
+
+1 |
+
+10 points |
 
 Direction départementale de l'équipement et de l'agriculture (2) du Morbihan
 
