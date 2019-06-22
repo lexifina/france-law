@@ -32,16 +32,6 @@ C.-Fonctions exercées au Commissariat général à la stratégie et à la prosp
 
 1° Commissaire général à la stratégie et à la prospective.
 
-2° Directeur, commissaire général adjoint à la stratégie et à la prospective.
+2° Chef de service d'administration centrale.
 
 3° Expert de haut niveau et directeur de projet.
-
-D.-Fonctions exercées au commissariat général à l'égalité des territoires :
-
-1° Commissaire général à l'égalité des territoires.
-
-2° Directeur d'administration centrale.
-
-3° Chef de service.
-
-4° Sous-directeur d'administration centrale.
