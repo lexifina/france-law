@@ -2,6 +2,38 @@
 
 SAC MÉDICAL D'URGENCE
 
+Le sac médical d'urgence doit être présent à bord des navires à passagers n'ayant pas l'obligation d'embarquer un médecin au titre de l'article 217-2.02.
+
+La présence du sac médical d'urgence n'est pas obligatoire sur les navires de desserte côtière et les vedettes à passagers qui ne sont jamais à plus d'une heure d'un port.
+
+En cas d'urgence médicale sur les navires à passagers n'ayant pas obligation d'embarquer un médecin, le capitaine peut faire appel à un médecin éventuellement présent parmi les passagers.
+
+Cette compétence médicale peut permettre d'améliorer l'efficacité des soins médicaux dispensés aux passagers blessés/malades, à conditions que :
+
+1. L'appel d'un médecin ne retarde pas les premiers soins que doit dispenser le personnel du navire en attendant l'arrivée du médecin ;
+
+et que :
+
+2. Le Capitaine prenne toutes les mesures raisonnables pour vérifier les qualifications de la personne qui se présente comme médecin avant de l'autoriser à dispenser des soins médicaux au patient.
+
+Le “Sac Médical d'Urgence” permet l'intervention du médecin en situation d'urgence car le patient doit être traité immédiatement sur place avant d'être transféré à l'infirmerie du navire pour recevoir des soins médicaux complémentaires. En l'absence de médecin, il pourra être utilisé par un infirmier/infirmière diplômé(e), un personnel paramédical qualifié ou le personnel responsable des soins à bord, après téléconsultation médicale.
+
+Ce “Sac Médical d'Urgence” doit :
+
+1. Etre portable ;
+
+2. Contenir les médicaments et le matériel médical essentiels pour faire face à une urgence médicale immédiatement, ainsi que les indications nécessaires pour son utilisation ;
+
+3. Etre conservé dans un endroit sûr ;
+
+4. Porter une étiquette avec la mention suivante : “les médicaments de ce sac doivent être utilisés par un médecin qualifié ou un infirmier/une infirmière diplômés, un personnel paramédical qualifié ou le personnel du navire ayant la charge des soins médicaux à bord sous le contrôle direct d'un médecin à bord du navire ou après consultation/prescription télémédicale par un service de consultation télémédicale (par exemple le CCMM)” et ;
+
+5. Etre conservé sous la garde ou la responsabilité du Capitaine. Son contenu sera régulièrement vérifié ; il sera rendu compte de tout médicament ou matériel utilisé en situation d'urgence et ce médicament ou matériel devra être remplacé dés que possible. Une fiche d'observation médicale sera renseignée pour toute utilisation.
+
+Conformément aux règles de l'OMI (STCW)/OIT, le Capitaine reste la seule personne responsable de la décision finale (soins à bord, déroutement du navire, évacuation médicale). Il/elle peut à tout moment obtenir une consultation télémédicale auprès du CCMM soit pour confirmer les mesures préconisées par le passager médecin soit pour aider l'infirmier/infirmière, le personnel paramédical ou le personnel du navire à dispenser les meilleurs soins médicaux possibles. Une téléconsultation avec un tel Centre officiel offre une protection au malade, au capitaine du navire et au passager médecin.
+
+Les deux ampoules de morphine du sac doivent être stockées dans le coffre du commandant. Les médicaments et matériel du sac peuvent être prélevés sur la dotation réglementaire du bord quand ils y sont inscrits.
+
 SAC MÉDICAL D'URGENCE : médicaments
 
 Principe Actif Dénomination Commune Internationale (DCI)

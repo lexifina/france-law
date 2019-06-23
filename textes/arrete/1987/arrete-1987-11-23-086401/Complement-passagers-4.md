@@ -186,13 +186,15 @@ unité |
 
 |
 
-Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) Erreur : source de la référence non trouvée |
+Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
 
 boîte |
 
 1 |
 
-avec lancettes capillaires sécurisées |
+avec lancettes capillaires sécurisées,
+
+conditionnées à l'unité et non en barillet |
 
 4. Trousses de premier secours (1) |
 
@@ -261,6 +263,8 @@ paire |
 taille M et L |
 
 (26) Ce matériel est obligatoire lorsque le navire est autorisé à transporter 400 passagers et plus.
+
+A la suite d'une contamination avérée du réseau d'eau potable du navire par un micro-organisme, il est nécessaire de procéder à un nettoyage mécanique des caisses à eau, puis à une sur-chloration. A la suite de cette sur-chloration, l'eau doit être brassée pendant au moins deux heures puis évacuée de la caisse à eau polluée. Pour mémoire, un litre d'eau de javel concentrée à 9 % contient 100 gr de chlore et permet d'obtenir une chloration à environ 5 mgr/l d'une caisse à eau d'une contenance de 20 m³.
 
 NOTA :
 

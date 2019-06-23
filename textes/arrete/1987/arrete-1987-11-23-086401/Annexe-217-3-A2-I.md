@@ -11,5 +11,3 @@ AVERTISSEMENT
 3. Certains matériels médicaux et objets de pansement cités peuvent être remplacés par des équivalents si le marché le permet.
 
 4. Sauf cas de force majeure, les médicaments relevant de la réglementation des stupéfiants, de la réglementation de la liste I ou de celle de la liste II ne peuvent être utilisés que sur prescription médicale.
-
-5. Conformément à l'article L. 5126-5 du code de la santé publique, les pharmacies des établissements de santé et des groupements de coopération sanitaire peuvent approvisionner en médicaments réservés à l'usage hospitalier les officines dans le cadre d'approvisionnement des entreprises maritimes exploitantes de navires sur présentation du bon de commande correspondant.
