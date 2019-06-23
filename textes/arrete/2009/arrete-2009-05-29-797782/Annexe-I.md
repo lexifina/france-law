@@ -710,7 +710,7 @@ Dans le cas du transport des marchandises dangereuses correspondant à un seul n
 
 3.9. Dispositions spéciales relatives au transport de déchets issus de chantiers routiers ou de de chantiers de démolition ou de réhabilitation d'immeubles sinistrés, contaminés par l'amiante non lié des n° ONU 2212 ou 2590
 
-Par dérogation aux dispositions du chapitre 7.3 et de la colonne (17) du Tableau A du chapitre 3.2 de l'ADR et sous réserve de respecter les prescriptions suivantes, le transport en vrac de déchets ou objets visés au 3.9.1 ci-dessous est autorisé dans des véhicules découverts, depuis le chantier de travaux routiers ou le chantier de désamiantage ou de réhabilitation d'ouvrages ou d'immeubles sinistrés où ces déchets sont générés vers un centre agréé de stockage de déchets. Les dispositions des codes VC1 à VC3 du 7.3.3 de l'ADR ne sont pas applicables.
+Par dérogation aux dispositions du chapitre 7.3 et de la colonne (17) du Tableau A du chapitre 3.2 de l'ADR et sous réserve de respecter les prescriptions suivantes, le transport en vrac de déchets ou objets visés au 3.9.1 ci-dessous est autorisé dans des véhicules découverts, depuis le chantier de travaux routiers ou le chantier de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés où ces déchets sont générés vers un centre agréé de stockage de déchets. Les dispositions des codes VC1 à VC3 du 7.3.3 de l'ADR ne sont pas applicables.
 
 3.9.1. Déchets admissibles
 
@@ -726,15 +726,15 @@ ou
 
 - des déchets de chantiers ou des objets contaminés par l'amiante non lié provenant d'ouvrages ou d'immeubles sinistrés, si leurs dimensions ou leur masse les rendent compatibles avec les prescriptions du 3.9.2 ci dessous.
 
-La méthode d'emballage visée au 3.9.2 ci dessous n'est utilisée que si les déchets de chantiers ou les objets contaminés par l'amiante non lié visés ci-dessus ne peuvent, du fait de leurs dimensions, être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
+Les dispositions relatives au transport visées au 3.9.2 ci-dessous ne sont utilisées que si les déchets de chantiers ou les objets contaminés par l'amiante non lié visés ci-dessus ne peuvent, du fait de leurs dimensions, être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
 
-Il est interdit de mélanger aux déchets emballés selon la méthode visée au 3.9.2 ci-dessous des déchets (par exemple déchet de flocage contenant de l'amiante non lié) ou des objets (par exemple équipement de protection individuelle contaminé par l'amiante non lié) qui, du fait de leurs dimensions, peuvent être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
+Il est interdit de mélanger aux déchets visés par les présentes dispositions des déchets (par exemple déchets de flocage contenant de l'amiante non lié) ou des objets (par exemple équipements de protection individuelle contaminés par l'amiante non lié) qui, du fait de leurs dimensions, peuvent être emballés conformément aux instructions d'emballage P002 du 4.1.4.1 ou IBC08 du 4.1.4.2.
 
-Il est interdit de mélanger aux déchets emballés selon la méthode visée au 3.9.2 d'autres déchets, solides ou non, dangereux ou non, non contaminés par de l'amiante non lié.
+Il est interdit de mélanger aux déchets visés par les présentes dispositions d'autres déchets, solides ou non, dangereux ou non, non contaminés par de l'amiante non lié.
 
-3.9.2. Méthode d'emballage
+3.9.2. Dispositions relatives au transport
 
-Les déchets visés au 3.9.1 ci-dessus sont emballés dans des grands sacs dits “ conteneurs-bags ”, aux dimensions d'une benne, conformes aux dispositions des 4.1.1.1,4.1.1.2 et 4.1.1.6 de l'ADR. Il est interdit d'utiliser plusieurs conteneurs-bags de dimensions plus réduites dans une même benne pour le transport des déchets visés au 3.9.1.
+Les déchets visés au 3.9.1 ci-dessus sont transportés dans des grands sacs dits “ conteneurs-bags ”, aux dimensions d'une benne, conformes aux dispositions des 7.3.1.3,7.3.1.4,7.3.1.7 et 7.3.1.8 de l'ADR. Il est interdit d'utiliser plusieurs conteneurs-bags de dimensions plus réduites dans une même benne pour le transport des déchets visés au 3.9.1.
 
 Les conteneurs-bags visés plus haut sont constitués au minimum de deux enveloppes, solidaires ou non. L'enveloppe intérieure est rendue étanche aux poussières afin d'empêcher la libération de fibres d'amiante en quantité dangereuse pendant le transport. L'enveloppe extérieure assure une fonction de résistance mécanique du conteneur-bag chargé avec les déchets, face aux chocs et aux sollicitations habituelles en cours de transport, notamment lors du transbordement de la benne chargée de son conteneur bag entre engins de transports ou entre engins de transport et entrepôts.
 
@@ -742,15 +742,15 @@ Les conteneurs-bags résistent également au poinçonnement ou à la déchirure 
 
 Les conteneurs-bags disposent d'un système de fermeture suffisamment étanche pour éviter l'envol de fibres d'amiante en quantité dangereuse pendant le transport.
 
-La masse maximale de déchets par emballage indiquée par le fabricant du conteneur-bag pour la résistance de ce dernier est respectée.
+La masse maximale de déchets indiquée par le fabricant du conteneur-bag pour la résistance de ce dernier est respectée.
 
-Les déchets issus de chantiers routiers contaminés par l'amiante non lié ou les terres contaminées par l'amiante non lié sont emballés dans un conteneur-bag unique, à condition de respecter la masse maximale admissible de déchets ainsi emballés définie plus haut.
+Les déchets issus de chantiers routiers contaminés par l'amiante non lié ou les terres contaminées par l'amiante non lié sont transportés dans un conteneur-bag unique, à condition de respecter la masse maximale admissible de déchets définie plus haut.
 
-Les déchets ou objets contaminés par l'amiante non lié, issus de chantiers de réhabilitation ou de démolition d'ouvrages ou d'immeubles sinistrés sont emballés dans un emballage constitué par un conteneur-bag doublé d'un second du même type. La masse totale de déchets ainsi emballés est limitée à 7 tonnes maximum par emballage ainsi constitué.
+Les déchets ou objets contaminés par l'amiante non lié, issus de chantiers de réhabilitation ou de démolition d'ouvrages ou d'immeubles sinistrés sont transportés dans un conteneur-bag doublé d'un second du même type. La masse totale de déchets est limitée à 7 tonnes maximum.
 
 3.9.3. Chargement-déchargement
 
-Les engins de transport sont équipés de bennes amovibles de type “ ampli roll ” ou de bennes “ TP ”. Les bennes équipées de systèmes de fermeture automatique des portes arrières ainsi que les bennes à enrochement sont prohibées. Les bennes ne comportent aucune aspérité intérieure (échelle intérieure …) susceptible de déchirer l'emballage lors du déchargement.
+Les engins de transport sont équipés de bennes amovibles de type “ ampli roll ” ou de bennes “ TP ”. Les bennes équipées de systèmes de fermeture automatique des portes arrières ainsi que les bennes à enrochement sont prohibées. Les bennes ne comportent aucune aspérité intérieure (échelle intérieure …) susceptible de déchirer le conteneur-bag lors du déchargement.
 
 Lors d'un transbordement, toute manoeuvre visant à transférer un conteneur-bag chargé de déchets d'une benne dans une autre est interdite.
 
@@ -758,9 +758,9 @@ La procédure de chargement et de déchargement des conteneurs-bags répond aux 
 
 Le déchargement des conteneurs-bags s'effectue de préférence avec la benne de transport déposée à terre.
 
-Le déchargement par bennage de conteneurs-bag chargés de déchets de chantier ou d'objets contaminés par l'amiante non lité issus d'ouvrages ou d'immeubles sinistrés est interdit.
+Le déchargement par bennage de conteneurs-bag chargés de déchets de chantier ou d'objets contaminés par l'amiante non lié issus d'ouvrages ou d'immeubles sinistrés est interdit.
 
-Le bennage de conteneurs-bags chargés de déchets issus de chantiers routiers contaminés par l'amiante non lié ou de terres contaminées par l'amiante non lié est autorisé, à condition de respecter un protocole de déchargement établi conjointement par l'entreprise de transport et l'exploitant du centre agréé de stockage agréé, visant à se prémunir de tout déchirement de l'emballage lors du déchargement.
+Le bennage de conteneurs-bags chargés de déchets issus de chantiers routiers contaminés par l'amiante non lié ou de terres contaminées par l'amiante non lié est autorisé, à condition de respecter un protocole de déchargement établi conjointement par l'entreprise de transport et l'exploitant du centre de stockage agréé, visant à se prémunir de tout déchirement du conteneur-bag lors du déchargement.
 
 3.9.4. Prescriptions complémentaires
 
@@ -772,7 +772,7 @@ Le document de transport visé au 5.4.1 comprend, outre la désignation officiel
 
 -“ Transport effectué selon les dispositions du 3.9 de l'annexe I de l'arrêté TMD ”,
 
-- Adresse de départ (adresse du chantier de travaux publics ou de désamiantage après sinistre) et adresse d'arrivée (adresse du centre agréé de stockage de déchets) du transport.
+- Adresse de départ (adresse du chantier de travaux publics ou de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés) et adresse d'arrivée (adresse du centre agréé de stockage de déchets) du transport.
 
 S'il est utilisé en lieu et place du document de transport visé ci-dessus, le bordereau d'élimination des déchets comprendra, outre la désignation officielle de transport pour l'amiante non lié, la mention “ Déchet contenant de l'amiante non lié, transport selon le 3.9 de l'annexe I de l'arrêté TMD ”.
 
@@ -780,13 +780,13 @@ Le document de transport ou le bordereau d'élimination des déchets susvisé es
 
 - copie de la fiche technique du type de conteneur-bag utilisé, à en-tête du fabricant ou du distributeur des conteneurs-bags, mentionnant les dimensions de cet emballage ainsi que la masse maximale de déchets à laquelle il résiste ;
 
-- copie du certificat d'acceptation préalable des déchets visé à l'article 8 de l'arrêté du 30 décembre 2002 relatif au stockage de déchets dangereux, émis par le centre agréé de stockage de déchets destinataire du transport. Ce certificat d'acceptation préalable mentionne explicitement l'adresse du chantier de travaux publics routiers ou de désamiantage après sinistre d'où les déchets transportés sont issus ainsi que le mode d'emballage (simple ou double conteneur-bag) prévu par la méthode visée au 3.9.2 ci-dessus ;
+- copie du certificat d'acceptation préalable des déchets visé à l'article 8 de l'arrêté du 30 décembre 2002 relatif au stockage de déchets dangereux, émis par le centre agréé de stockage de déchets destinataire du transport. Ce certificat d'acceptation préalable mentionne explicitement l'adresse du chantier de travaux publics routiers ou de démolition ou de réhabilitation d'ouvrages ou d'immeubles sinistrés d'où les déchets transportés sont issus ainsi que le conditionnement utilisé (simple ou double conteneur-bag) prévu par les dispositions visées au 3.9.2 ci-dessus ;
 
 - copie le cas échéant de la procédure de déchargement visée au 3.9.3 ci-dessus selon le cas.
 
 Les conteneurs-bags sont dispensés du marquage et de l'étiquetage visés au chapitre 5.2 de l'ADR. Un ou plusieurs marquages conformes à l'annexe I du décret n° 88-466 du 28 avril 1988 relatif aux produits contenant de l'amiante apparaissent de manière visible sur les conteneurs-bags.
 
-Le véhicule de transport respecte les prescriptions de placardage des 5.3.1.1 et 5.3.1.4 et de signalisation du 5.3.2.
+Le véhicule de transport respecte les prescriptions de placardage des 5.3.1.1 et 5.3.1.4 et de signalisation du 5.3.2 applicables au transport en vrac.
 
 Les autres prescriptions de l'ADR applicables au transport d'amiante non lié sont respectées.
 

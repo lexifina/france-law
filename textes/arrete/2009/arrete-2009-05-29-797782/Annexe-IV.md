@@ -6,7 +6,7 @@ Cette annexe comporte les appendices suivants :
 
 2. Appendice IV.2. - Liste de contrôle (voir 5.3 de l'annexe I du présent arrêté).
 
-3. Appendice IV. 3. - Tableau de rapport statistique (voir 5.6 de l'annexe I du présent arrêté).
+3. Appendice IV.3. - Tableau de rapport statistique (voir 5.6 de l'annexe I du présent arrêté).
 
 4. Appendice IV.4. - Rapport annuel du conseiller à la sécurité (voir article 6).
 
@@ -106,7 +106,7 @@ Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyau
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
-Les flexibles sont conformes à la norme NF EN 12434 : 2001.
+Les flexibles sont conformes à la norme NF EN ISO 21012 : 2018 .
 
 2.5. Flexibles pour les carburants de la classe 3.
 
@@ -170,7 +170,7 @@ L'organisme Xa doit en plus du cadre de la surveillance des activités d'un IS d
 
 Dans le cadre du 1.8.7.4, les flexibles sont soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la Pms.
 
-3.2. Lorsque les flexibles ne sont pas conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.6 du présent appendice, les procédures visées aux 1.8.7.2,1.8.7.3 et 1.8.7.4 sont réalisées par un organisme Xa.
+3.2. Lorsque les flexibles ne sont pas conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.7 du présent appendice, les procédures visées aux 1.8.7.2,1.8.7.3 et 1.8.7.4 sont réalisées par un organisme Xa.
 
 Dans le cadre du 1.8.7.2, les essais de type suivants doivent être réalisés sur trois exemplaires de flexibles identiques couvrant un type de flexibles et ses variantes :
 
@@ -2490,19 +2490,31 @@ Méthode d'examen
 
 Moyens mis en œuvre |
 
-Référence ADR, arrêté TMD et autres textes |
+Référence
+
+ADR, arrêté
+
+TMD
+
+et autres textes |
 
 1. Identification |
 
-1.1. Notice(s) descriptive(s), fiche de réception européenne et ses annexes, certificat(s) de conformité, ou procès-verbal de RTI et justificatifs de conformité |
+1.1. Notice (s) descriptive (s), fiche de réception européenne et ses annexes, certificat (s) de conformité, ou procès-verbal de RTI et justificatifs de conformité |
 
 Etat, présence et conformité |
 
 Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme) |
 
-9.1.2.2, 6.8.2.3, 6.9.4.4 |
+9.1.2.2,
 
-2. Équipements de sécurité |
+6.8.2.3,
+
+6.9.4.4 |
+
+2. Equipements
+
+de sécurité |
 
 2.1. Freinage |
 
@@ -2512,7 +2524,7 @@ Contrôle des documents permettant d'établir la conformité aux règlements et 
 
 9.2.3 |
 
-3. Équipement électrique |
+3. Equipement électrique |
 
 3.1. Installations électriques |
 
@@ -2558,7 +2570,9 @@ Mise en action. Examen visuel |
 
 |
 
-9.2.2.8.2 si présence |
+9.2.2.8.2 si
+
+présence |
 
 6. Prévention des risques d'incendie |
 
@@ -2574,7 +2588,7 @@ Présence et conformité |
 
 Examen visuel |
 
-9.2.4.3, 9.7.7 |
+9.2.4.3,9.7.7 |
 
 6.3. Chauffage à combustion |
 
@@ -2602,7 +2616,9 @@ Examen visuel et, le cas échéant, en visite initiale, contrôle des attestatio
 
 Concordance de la citerne avec les documents fournis. Vérification de leur validité |
 
-6.8.2.4.5, 6.9.5.1.2 |
+6.8.2.4.5,
+
+6.9.5.1.2 |
 
 7.2. Plan de chargement |
 
@@ -2614,7 +2630,11 @@ Etat, fixation, présence et conformité |
 
 Examen visuel |
 
-6.8.2.5, 6.8.3.5, 6.9.6 |
+6.8.2.5,
+
+6.8.3.5,
+
+6.9.6 |
 
 7.4. Partie extérieure de l'enveloppe |
 
@@ -2624,13 +2644,17 @@ Etat, présence et conformité |
 
 7.5. Isolation thermique |
 
-6.8.2.2, 6.8.3.2 |
+6.8.2.2,
 
-7.6. Équipements de service |
+6.8.3.2 |
 
-7.7. Équipements COV |
+7.6. Equipements de service |
 
-AM 19/12/1995 |
+7.7. Equipements COV |
+
+AM
+
+19/12/1995 |
 
 7.8. Protections supérieures |
 
@@ -2654,13 +2678,25 @@ AM 19/12/1995 |
 
 7.13. Flexibles |
 
-|
-
 Contrôle de la fiche de suivi, de l'attestation de contrôle initial, intermédiaire ou périodique |
 
-Appendice IV.1 |
+Appendice
 
-7.14. Liaison équipotentielle
+IV. 1 |
+
+7.14. Liaison équipotentielle |
+
+Examen visuel |
+
+9.7.4 |
+
+7.15. Stabilité du véhicule-citerne |
+
+Présence et conformité |
+
+Concordance du véhicule avec les documents fournis |
+
+9.7.5 |
 
 8. Explosifs |
 
@@ -2670,15 +2706,19 @@ Etat, fixation, présence et conformité |
 
 Examen visuel |
 
-9.3.1, 9.3.3 9.3.4 |
+9.3.1,9.3.3
+
+9.3.4 |
 
 8.2. Porte |
 
 Etat, présence et conformité |
 
-9.3.3 9.3.4 |
+9.3.3
 
-8.3. Éclairage intérieur |
+9.3.4 |
+
+8.3. Eclairage intérieur |
 
 Etat, fonctionnement, présence et conformité |
 
@@ -2692,7 +2732,9 @@ Etat, présence et conformité |
 
 8.5. Moteur et sources externes de chaleur et compartiment de chargement |
 
-9.3.5 9.3.6 |
+9.3.5
+
+9.3.6 |
 
 8.6. Prescriptions en matière de sécurité |
 

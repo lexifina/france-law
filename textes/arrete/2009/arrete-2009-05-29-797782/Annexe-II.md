@@ -286,7 +286,7 @@ Lorsque cette remise en conformité nécessite des mesures pour lesquelles toute
 
 2.3.3.7. Bilans annuels.
 
-Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (ministère de l'environnement, de l'énergie et de la mer, 92055 La Défense Cedex.
+Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (ministère de la transition écologique et solidaire, 92055 La Défense Cedex.
 
 2.3.4. Plan d'urgence interne des gares de triage.
 
@@ -324,7 +324,7 @@ Lorsque les wagons de matières et objets explosibles proviennent d'un embranche
 
 2.5.2. Manœuvres.
 
-Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1), 1.5 ou 1.6 ne doivent pas, au cours des manœuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n° s 2.1,3,4.1,4.2,4.3,5.1 ou 5.2.
+Outre les prescriptions du 7.5.3, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1), 1.5 ou 1.6 ne doivent pas, au cours des manœuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n° s 2.1,3,4.1,4.2,4.3,5.1 ou 5.2.
 
 2.5.3. Séjour temporaire dans les gares de départ et d'arrivée.
 
