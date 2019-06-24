@@ -1,0 +1,8 @@
+# Lieusaint : délibération — Mise à jour du tableau des effectifs – Création de postes
+
+- Collectivité : Lieusaint
+- SIREN : 217702513
+- Code INSEE : 77251
+- Date : 2019-06-24
+- Objet : Mise à jour du tableau des effectifs – Création de postes
+- Jeu de données : https://www.data.gouv.fr/datasets/sommaire-des-deliberations-2018@lieusaint-grandparissud
