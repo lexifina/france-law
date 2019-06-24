@@ -1,0 +1,8 @@
+# Lieusaint : délibération — Signature d’une convention entre la ville et le Conseil Départemental de Seine-et-Marne pour l’adhésion au Fonds Solidarité Logement
+
+- Collectivité : Lieusaint
+- SIREN : 217702513
+- Code INSEE : 77251
+- Date : 2019-06-24
+- Objet : Signature d’une convention entre la ville et le Conseil Départemental de Seine-et-Marne pour l’adhésion au Fonds Solidarité Logement
+- Jeu de données : https://www.data.gouv.fr/datasets/sommaire-des-deliberations-2018@lieusaint-grandparissud
