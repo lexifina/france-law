@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410160
+
+- Question : [SEQ190410160](seq190410160.md) — Projet de décret relatif aux aménagements légers et impact sur la thalassothérapie
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-06-27, page 3408*
+
+L'article 45 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique modifie l'article L. 121-24 du code de l'urbanisme afin de mettre à jour la liste des aménagements légers autorisés dans les espaces remarquables ou caractéristiques du littoral. Cet article dispose, dans son premier alinéa, que « des aménagements légers […] peuvent être implantés dans ces espaces et milieux lorsqu'ils sont nécessaires à leur gestion, à leur mise en valeur notamment économique ou, le cas échéant, à leur ouverture au public, et qu'ils ne portent pas atteinte au caractère remarquable du site ». La liste limitative et les caractéristiques de tels aménagement sont définies par décret en Conseil d'État. Ainsi, le décret n° 2019-482 du 21 mai 2019 relatif aux aménagements légers autorisés dans les espaces remarquables ou caractéristiques du littoral et des milieux nécessaires au maintien des équilibres biologiques diffère de la version initialement mise en consultation en ce qu'il insère un c) au 4° de l'article R. 121-5 du code de l'urbanisme rédigé comme suit : « c) À la condition que leur localisation dans ces espaces corresponde à des nécessités techniques, les canalisations nécessaires aux services publics ou aux activités économiques, dès lors qu'elles sont enfouies et qu'elles laissent le site dans son état naturel après enfouissement, et que l'emprise au sol des aménagements réalisés n'excède pas cinq mètres carrés. » L'installation de systèmes de pompage de l'eau de mer nécessaires aux établissements de thalassothérapie demeure donc possible dans le respect des conditions prévues par la règlementation.
