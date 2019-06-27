@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510415
+
+- Question : [SEQ190510415](seq190510415.md) — Reprise des exploitations agricoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-06-27, page 3380*
+
+Le renouvellement des générations et la vitalité des zones rurales est une des six priorités portées par la France dans le cadre des négociations de la future politique agricole commune (PAC). Le renouvellement des générations constitue un enjeu économique et démographique central pour l'économie agricole, les filières et la durabilité de l'agriculture. Il s'agit d'une condition essentielle au maintien de territoires ruraux attractifs et dynamiques, de même qu'au maintien d'une diversité d'entreprises pourvoyeuses d'emplois dans le secteur agricole et agroalimentaire. Ainsi, pour le Gouvernement la politique en faveur de l'installation et du renouvellement des générations est une des priorités dans le cadre des négociations de la PAC post 2020. La France soutient les instruments proposés par la Commission dans le premier et le second pilier. Les outils existants dans la programmation actuelle sont maintenus et leur mise en œuvre est simplifiée. Au sein du premier pilier, le paiement découplé en faveur des jeunes agriculteurs permet de majorer l'aide à l'hectare pendant les premières années d'installation. Cet outil est complété par la dotation en faveur de l'installation des jeunes agriculteurs du second pilier. Par ailleurs, partant du constat que les installations sont de plus en plus tardives, en particulier pour les femmes, la France souhaite inclure la possibilité d'aider les « nouveaux installés » à travers le second pilier. Cette aide permettra d'aider des agricultrices et agriculteurs qui s'installent pour la première fois après quarante ans. S'agissant du budget alloué à ces dispositifs, la proposition de la Commission européenne prévoit d'allouer un minimum de 2 % du budget de la PAC en faveur des outils dédiés aux jeunes agriculteurs.
