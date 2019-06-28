@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — DEMANDE EXONÉRATION MARCHE TEXTILE POUR FÉVRIER 2019 A MONSIEUR JEAN-MARC GHARIBIAN
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2019-06-28
+- Séance : Conseil Municipal 1CA
+- Objet : DEMANDE EXONÉRATION MARCHE TEXTILE POUR FÉVRIER 2019 A MONSIEUR JEAN-MARC GHARIBIAN
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-10864-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
