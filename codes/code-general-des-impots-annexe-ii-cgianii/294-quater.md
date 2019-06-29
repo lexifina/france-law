@@ -1,17 +1,11 @@
 # Article 294 quater
 
-Chacun des héritiers, donataires ou légataires mentionnés au c de l'article 787 B du code général des impôts et au b de l'article 787 C du même code adresse dans les trois mois qui suivent le 31 décembre de chaque année, au service des impôts dont dépend le domicile du défunt ou celui du lieu de dépôt de l'acte de donation ou de la déclaration de don manuel, une attestation certifiant que :
+I.-Pour les biens mentionnés à l'article 787 C du code général des impôts, chacun des héritiers, donataires ou légataires mentionnés au b de cet article remet la déclaration de succession, la déclaration de don manuel ou l'acte de donation mentionnant l'engagement de conservation prévu à ce même b au service des impôts compétent pour l'enregistrer dans les délais prévus pour cet enregistrement.
 
-a) Pour les biens mentionnés à l'article 787 B, les obligations prévues aux c et d de cet article étaient remplies au 31 décembre de chaque année et précisant l'identité de l'associé qui satisfait à la condition prévue au d précité.
+Il lui joint une attestation certifiant que la condition prévue au a de cet article est remplie.
 
-Toutefois, dans le cas prévu au f de l'article 787 B, l'année de l'apport, chacun des héritiers, légataires ou donataires associés de la société bénéficiaire de l'apport joint à l'attestation prévue au a une copie de l'engagement de conservation de cette société. La société bénéficiaire adresse, dans les conditions prévues au premier alinéa, une attestation certifiant que les conditions prévues au f sont satisfaites.
+II.-En cas de demande de l'administration ainsi qu'au terme de l'engagement prévu au b de l'article 787 C du code général des impôts, chacun des héritiers, donataires ou légataires mentionnés au même b adresse au service des impôts à l'origine de la demande ou, au terme de l'engagement, à celui dont dépend le domicile du défunt ou à celui du lieu de dépôt de l'acte de donation ou de la déclaration de don manuel, une attestation certifiant que les obligations prévues aux b et c de l'article précité étaient remplies depuis la date de transmission et jusqu'à la date de la demande ou jusqu'au terme de ces obligations.
 
-De même, en cas d'opération de fusion, de scission ou d'augmentation de capital telles que prévues aux g et h de l'article 787 B, chacun des héritiers, donataires ou légataires ayant bénéficié du régime prévu par l'article précité certifie chaque année qu'il a conservé les titres reçus à l'issue de l'opération.
+La transmission intervient dans les trois mois de la demande du service des impôts et du terme de l'engagement de conservation mentionné au même b.
 
-Dans le cas prévu au i de l'article 787 B précité, le donateur doit fournir une copie de l'acte de donation et adresser, dans les conditions prévues au premier alinéa du présent article, une attestation certifiant que les obligations mentionnées au premier alinéa du présent a sont satisfaites.
-
-b) Pour les biens mentionnés à l'article 787 C, les obligations prévues aux b et c de cet article étaient remplies au 31 décembre de chaque année.
-
-Dans le cas prévu au d de l'article 787 C du même code, le donataire doit fournir une copie de l'acte de donation et adresser, dans les conditions prévues au premier alinéa du présent article, une attestation certifiant que les obligations mentionnées au premier alinéa du présent b sont satisfaites.
-
-Cette attestation individuelle est produite à compter du point de départ de l'engagement individuel de conservation de quatre ans des biens dont la transmission à titre gratuit a été partiellement exonérée, et jusqu'à l'expiration de celui-ci.
+III.-Dans le cas prévu au d de l'article 787 C du code général des impôts, le donateur joint à l'attestation mentionnée au II une copie de l'acte de donation et une attestation certifiant que les obligations prévues aux b et c de cet article étaient remplies depuis la date de transmission de l'ensemble des biens affectés à l'exploitation de l'entreprise et jusqu'à la date de la demande ou du terme des obligations précitées.
