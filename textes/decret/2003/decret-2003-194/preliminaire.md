@@ -6,7 +6,7 @@ Le présent décret ne s'applique pas aux embranchements particuliers. Toutefois
 
 II. - Au sens du présent décret, on entend par :
 
-1° "Gestionnaire d'infrastructure", toute entité ou entreprise chargée notamment de l'établissement, de la gestion et de l'entretien de l'infrastructure ferroviaire, y compris la gestion du trafic, et du système de signalisation et de contrôle-commande ; les fonctions de gestionnaire de l'infrastructure sur tout ou partie d'un réseau peuvent être exercées par plusieurs entités ou entreprises ;
+1° "Gestionnaire d'infrastructure", toute entité ou entreprise responsable de l'exploitation, de l'entretien et du renouvellement de l'infrastructure ferroviaire sur un réseau et chargée de la participation à son développement conformément aux politiques nationales en matière de développement et de financement de l'infrastructure ;
 
 2° "Entreprise ferroviaire", toute entreprise à statut privé ou public et titulaire de la licence mentionnée à l'article L. 2122-10 du code des transports, fournissant des prestations de transport de marchandises ou de voyageurs par chemin de fer, la traction devant obligatoirement être assurée par cette entreprise ; ce terme recouvre aussi les entreprises qui assurent uniquement la traction ;
 
