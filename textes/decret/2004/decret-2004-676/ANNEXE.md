@@ -28,7 +28,7 @@ Cour d'appel
 
 Tribunaux supérieurs d'appel
 
-1. Président
+1. Président.
 
 2. Procureur de la République.
 
@@ -40,7 +40,9 @@ Tribunaux de grande instance
 
 2 bis. Procureur de la République financier.
 
-3. Magistrat chargé d'un secrétariat général
+2 ter. Procureur de la République antiterroriste.
+
+3. Magistrat chargé d'un secrétariat général.
 
 Tribunaux de première instance
 
@@ -54,4 +56,4 @@ Directeur de l'Ecole nationale des greffes.
 
 Inspection générale de la justice
 
-Inspecteur général, chef de l'inspection générale de la justice
+Inspecteur général, chef de l'inspection générale de la justice.
