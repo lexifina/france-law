@@ -44,6 +44,8 @@ Magistrat chargé d'un secrétariat général dans une cour d'appel ou dans un t
 
 Vice-procureur de la République financier près le tribunal de grande instance de Paris chargé d'un secrétariat général.
 
+Vice-procureur de la République antiterroriste près le tribunal de grande instance de Paris chargé d'un secrétariat général.
+
 |
 
 38

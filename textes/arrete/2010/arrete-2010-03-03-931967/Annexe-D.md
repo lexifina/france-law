@@ -2,9 +2,7 @@
 
 ATTRIBUTION DE LA PRIME FORFAITAIRE AUX CHEFS DE COUR D'APPEL, DE TRIBUNAL SUPÉRIEUR D'APPEL, DE TRIBUNAL DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE
 
-EMPLOIS
-
-|
+EMPLOIS |
 
 TAUX DE LA PRIME FORFAITAIRE
 
@@ -22,11 +20,11 @@ Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, Nanterre, Paris, Pont
 
 Procureur de la République financier.
 
-|
-
-50 %
+Procureur de la République antiterroriste.
 
 |
+
+50 % |
 
 Chefs de cour des cours d'appel de :
 
@@ -38,9 +36,7 @@ Aix-en-Provence, Amiens, Angers, Béthune, Boulogne-sur-mer, Caen, Clermont-Ferr
 
 |
 
-48 %
-
-|
+48 % |
 
 Chefs de cour des cours d'appel de :
 
@@ -52,9 +48,7 @@ Agen, Angoulême, Arras, Avignon, Bayonne, Beauvais, Besançon, Béziers, Blois,
 
 |
 
-45 %
-
-|
+45 % |
 
 Chefs du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon.
 
@@ -64,6 +58,4 @@ Ajaccio, Albertville, Albi, Alençon, Alès, Annecy, Argentan, Auch, Aurillac, A
 
 |
 
-42 %
-
-|
+42 % |
