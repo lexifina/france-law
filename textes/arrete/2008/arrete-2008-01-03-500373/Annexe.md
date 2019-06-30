@@ -140,23 +140,23 @@ Président et procureur de la République : Saint-Pierre-et-Miquelon
 
 Tribunaux de grande instance et tribunaux de première instance
 
-DÉSIGNATION DE L'EMPLOI |
-
-NOMBRE d'emplois |
+Désignation de l'emploi |
 
 NOMBRE
 
-de points par emploi
+d'emplois |
 
-|
+NOMBRE
 
-Président, procureur de la République et procureur de la République financier : tribunal de grande instance de Paris |
+de points
 
-3 |
+par emploi |
 
-160
+Président, procureur de la République, procureur de la République financier, procureur de la République antiterroriste : tribunal de grande instance de Paris |
 
-|
+4 |
+
+160 |
 
 Président et procureur de la République : tribunaux de grande instance de Bobigny, Lyon, Marseille et Nanterre |
 
@@ -184,7 +184,7 @@ Président et procureur de la République : tribunaux de grande instance et trib
 
 Magistrat chargé d'un secrétariat général : tribunal de grande instance de Paris |
 
-3 |
+4 |
 
 80 |
 
