@@ -50,18 +50,6 @@ Liste |
 
 73,11 % |
 
-Centre de prestations et d'ingénierie informatiques |
-
-8 |
-
-8 |
-
-Liste |
-
-24,58 % |
-
-75,42 % |
-
 Centre national des ponts de secours |
 
 4 |
