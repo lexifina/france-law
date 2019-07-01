@@ -14,7 +14,9 @@ Le montant de l'indemnité est égal à 82 % du traitement de base journalier de
 
 Le traitement de base journalier est obtenu en divisant par le nombre de jours calendaires le traitement de base mensuel défini à l'article 2, paragraphe 2.
 
-En aucun cas, le montant des sommes versées, quelle qu'en soit la nature, à l'assuré en congé de paternité, soit par l'adhérente ou par son intermédiaire après précompte des cotisations dues, soit directement à l'assuré après rupture du contrat de travail, ne peut être supérieur au salaire net perçu au cours des 12 derniers mois civils de pleine activité ramené à la période d'arrêt de travail indemnisé, y compris les éléments variables du salaire (gratifications, mois double....).
+L'indemnité est versée par l'intermédiaire de l'employeur ou, en cas de rupture du contrat de travail, directement à l'assuré.
+
+En aucun cas, le montant des sommes versées à l'assuré en congé de paternité, quelle qu'en soit la nature (salaires versés par l'employeur, sommes versées en application de la convention collective dont il relève, du code de la sécurité sociale et du présent régime), après précompte des cotisations sociales dues mais avant impôt sur le revenu, ne peut être supérieur au salaire net perçu au cours des 12 derniers mois civils de pleine activité ramené à la période d'arrêt de travail indemnisé, y compris les éléments variables du salaire (gratifications, mois double …). Le salaire net est le salaire net de cotisations sociales mais avant impôt sur le revenu.
 
 C. - Durée du paiement
 
