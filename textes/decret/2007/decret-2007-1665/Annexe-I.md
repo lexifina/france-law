@@ -1,571 +1,293 @@
 # Article Annexe I
 
-DÉNOMINATION
+Dénomination
 
-des directions
+des directions interrégionales (DI) |
 
-interrégionales (DI)
+Dénomination
 
-|
+des directions régionales (DR) et des services |
 
-DÉNOMINATION
+Ressort territorial des directions régionales et services |
 
-des directions régionales (DR) et des services
+Régions
 
-|
+ou collectivités |
 
-RESSORT TERRITORIAL DES DIRECTIONS RÉGIONALES ET SERVICES
-
-|
-
-Régions ou collectivités
-
-|
-
-Départements ou zones maritimes
-
-|
+Départements |
 
 DI Nouvelle-Aquitaine
 
-(Siège : Bordeaux)
+(Siège : Bordeaux) |
 
-|
+DR Bordeaux |
 
-DR Bordeaux
+Nouvelle-Aquitaine |
 
-|
+Dordogne, Gironde, Lot-et-Garonne |
 
-Nouvelle-Aquitaine
+DR Bayonne |
 
-|
+Landes, Pyrénées-Atlantiques |
 
-Dordogne, Gironde, Lot-et-Garonne
+DR Poitiers |
 
-|
-
-DR Bayonne
-
-|
-
-Landes, Pyrénées-Atlantiques
-
-|
-
-DR Poitiers
-
-|
-
-Charente, Charente-Maritime, Deux-Sèvres, Vienne, Corrèze, Creuse, Haute-Vienne
-
-|
+Charente, Charente-Maritime, Deux-Sèvres, Vienne, Corrèze, Creuse, Haute-Vienne |
 
 DI Bourgogne-Franche-Comté, Centre-Val de Loire
 
-(Siège : Dijon)
+(Siège : Dijon) |
 
-|
+DR Dijon |
 
-DR Dijon
+Bourgogne-Franche-Comté |
 
-|
+Côte-d'Or, Nièvre, Saône-et-Loire, Yonne |
 
-Bourgogne-Franche-Comté
+DR Besançon |
 
-|
+Doubs, Jura, Haute-Saône, Territoire de Belfort |
 
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne
+DR Centre-Val de Loire |
 
-|
+Centre-Val de Loire |
 
-DR Besançon
-
-|
-
-Doubs, Jura, Haute-Saône, Territoire de Belfort
-
-|
-
-DR Centre-Val de Loire
-
-|
-
-Centre-Val de Loire
-
-|
-
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
-
-|
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret |
 
 DI Hauts-de-France
 
-(Siège : Lille)
+(Siège : Lille) |
 
-|
+DR Dunkerque |
 
-DR Dunkerque
+Hauts-de-France |
 
-|
+Nord (arrondissement de Dunkerque), Pas-de-Calais |
 
-Hauts-de-France
+DR Lille |
 
-|
+Nord (arrondissements de Lille, de Valenciennes, de Cambrai, d'Avesnes-sur-Helpe et de Douai) |
 
-Nord (arrondissement de Dunkerque), Pas-de-Calais
+DR Amiens |
 
-|
-
-DR Lille
-
-|
-
-Nord (arrondissements de Lille, de Valenciennes, de Cambrai, d'Avesnes-sur-Helpe et de Douai)
-
-|
-
-DR Amiens
-
-|
-
-Aisne, Oise, Somme
-
-|
+Aisne, Oise, Somme |
 
 DI Auvergne-Rhône-Alpes
 
-(Siège : Lyon)
+(Siège : Lyon) |
 
-|
+DR Clermont-Ferrand |
 
-DR Clermont-Ferrand
+Auvergne-Rhône-Alpes |
 
-|
+Allier, Cantal, Haute-Loire, Puy-de-Dôme |
 
-Auvergne-Rhône-Alpes
+DR Chambéry |
 
-|
+Savoie, Isère (arrondissement de Grenoble), Haute-Savoie (arrondissement de Bonneville) |
 
-Allier, Cantal, Haute-Loire, Puy-de-Dôme
+DR Annecy |
 
-|
+Ain, Haute-Savoie (arrondissements de Saint-Julien-en-Genevois, de Thonon-les-Bains et d'Annecy) |
 
-DR Chambéry
+DR Lyon |
 
-|
-
-Savoie, Isère (arrondissement de Grenoble), Haute-Savoie (arrondissement de Bonneville)
-
-|
-
-DR Annecy
-
-|
-
-Ain, Haute-Savoie (arrondissements de Saint-Julien-en-Genevois, de Thonon-les-Bains et d'Annecy)
-
-|
-
-DR Lyon
-
-|
-
-Ardèche, Drôme, Loire, Isère (arrondissements de Vienne et de La Tour-du-Pin), Rhône
-
-|
+Ardèche, Drôme, Loire, Isère (arrondissements de Vienne et de La Tour-du-Pin), Rhône |
 
 DI Provence-Alpes-Côte d'Azur, Corse
 
-(Siège : Marseille)
+(Siège : Marseille) |
 
-|
+DR Marseille |
 
-DR Marseille
+Provence-Alpes-Côte d'Azur |
 
-|
+Bouches-du-Rhône (cantons d'Allauch, d'Arles, d'Aubagne, de Berre-l'Etang, de Gardanne, d'Istres, de La Ciotat, de Marignane, de Marseille 1 à 12, de Martigues, de Salon-de-Provence 2, de Vitrolles) |
 
-Provence-Alpes-Côte d'Azur
+DR Aix-en-Provence |
 
-|
+Bouches-du Rhône (cantons d'Aix-en-Provence 1 et 2, de Châteaurenard, de Pélissanne, de Salon-de-Provence 1, de Trets), Var, Vaucluse, Alpes-de-Haute-Provence, Hautes-Alpes |
 
-Bouches-du-Rhône (cantons d'Allauch, d'Arles, d'Aubagne, de Berre-l'Etang, de Gardanne, d'Istres, de La Ciotat, de Marignane, de Marseille 1 à 12, de Martigues, de Salon-de-Provence 2, de Vitrolles)
+DR Nice |
 
-|
+Alpes-Maritimes |
 
-DR Aix-en-Provence
+DR Corse |
 
-|
+Corse |
 
-Bouches-du Rhône (cantons d'Aix-en-Provence 1 et 2, de Châteaurenard, de Pélissanne, de Salon-de-Provence 1, de Trets), Var, Vaucluse, Alpes-de-Haute-Provence, Hautes-Alpes
-
-|
-
-DR Nice
-
-|
-
-Alpes-Maritimes
-
-|
-
-DR Marseille garde-côtes
-
-|
-
-Rayon maritime des douanes et zone contiguë des façades maritimes des régions Occitanie, Provence-Alpes-Côte d'Azur et Corse
-
-|
-
-DR Corse
-
-|
-
-Corse
-
-|
-
-Corse-du-Sud, Haute-Corse
-
-|
+Corse-du-Sud, Haute-Corse |
 
 DI Grand Est
 
-(Siège : Metz)
+(Siège : Metz) |
 
-|
+DR Reims |
 
-DR Reims
+Grand Est |
 
-|
+Ardennes, Aube, Marne, Haute-Marne |
 
-Grand Est
+DR Nancy |
 
-|
+Meurthe-et-Moselle, Meuse, Moselle, Vosges |
 
-Ardennes, Aube, Marne, Haute-Marne
+DR Mulhouse |
 
-|
+Haut-Rhin |
 
-DR Nancy
+DR Strasbourg |
 
-|
-
-Meurthe-et-Moselle, Meuse, Moselle, Vosges
-
-|
-
-DR Mulhouse
-
-|
-
-Haut-Rhin
-
-|
-
-DR Strasbourg
-
-|
-
-Bas-Rhin
-
-|
+Bas-Rhin |
 
 DI Occitanie
 
-(Siège : Montpellier)
+(Siège : Montpellier) |
 
-|
+DR Montpellier |
 
-DR Montpellier
+Occitanie |
 
-|
+Gard, Hérault, Lozère |
 
-Occitanie
+DR Perpignan |
 
-|
+Aude, Pyrénées-Orientales |
 
-Gard, Hérault, Lozère
+DR Toulouse |
 
-|
-
-DR Perpignan
-
-|
-
-Aude, Pyrénées-Orientales
-
-|
-
-DR Toulouse
-
-|
-
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
-
-|
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne |
 
 DI Bretagne, Pays de la Loire
 
-(Siège : Nantes)
+(Siège : Nantes) |
 
-|
+DR Bretagne |
 
-DR Bretagne
+Bretagne |
 
-|
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
 
-Bretagne
+DR Pays de la Loire |
 
-|
+Pays de la Loire |
 
-Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
-
-|
-
-DR Pays de la Loire
-
-|
-
-Pays de la Loire
-
-|
-
-Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
-
-|
-
-DR Nantes garde-côtes
-
-|
-
-Rayon maritime des douanes et zone contiguë des façades maritimes des régions Pays de la Loire, Bretagne et Nouvelle-Aquitaine
-
-|
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée |
 
 DI Ile-de-France
 
-(Siège : Paris)
+(Siège : Paris) |
 
-|
+DR Paris |
 
-DR Paris
+Ile-de-France |
 
-|
+Paris |
 
-Ile-de-France
+DR Paris-Est |
 
-|
+Seine-Saint-Denis (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (sauf l'aéroport de Paris-Charles-de-Gaulle), Val-de-Marne (sauf l'aéroport de Paris-Orly) |
 
-Paris
+DR Paris-Ouest |
 
-|
+Hauts-de-Seine, Yvelines, Essonne (sauf l'aéroport de Paris-Orly), Val-d'Oise (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget) |
 
-DR Paris-Est
+DI Paris-aéroports (Siège : Roissy) |
 
-|
+DR Orly |
 
-Seine-Saint-Denis (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (sauf l'aéroport de Paris-Charles-de-Gaulle), Val-de-Marne (sauf l'aéroport de Paris-Orly)
+Ile-de-France |
 
-|
+Val-de-Marne (uniquement l'aéroport de Paris-Orly), Essonne (uniquement l'aéroport de Paris-Orly) |
 
-DR Paris-Ouest
+DR Roissy-fret |
 
-|
+Seine-Saint-Denis (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget) |
 
-Hauts-de-Seine, Yvelines, Essonne (sauf l'aéroport de Paris-Orly), Val-d'Oise (sauf les aéroports de Paris-Charles-de-Gaulle et du Bourget)
+DR Roissy-voyageurs |
 
-|
-
-DI Paris-aéroports (Siège : Roissy)
-
-|
-
-DR Orly
-
-|
-
-Ile-de-France
-
-|
-
-Val-de-Marne (uniquement l'aéroport de Paris-Orly), Essonne (uniquement l'aéroport de Paris-Orly)
-
-|
-
-DR Roissy-fret
-
-|
-
-Seine-Saint-Denis (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget)
-
-|
-
-DR Roissy-voyageurs
-
-|
-
-Seine-Saint-Denis (uniquement les aéroports de Paris-Charles de Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget)
-
-|
+Seine-Saint-Denis (uniquement les aéroports de Paris-Charles de Gaulle et du Bourget), Seine-et-Marne (uniquement l'aéroport de Paris-Charles-de-Gaulle), Val-d'Oise (uniquement les aéroports de Paris-Charles-de-Gaulle et du Bourget) |
 
 DI Normandie
 
-(Siège : Rouen)
+(Siège : Rouen) |
 
-|
+DR Caen |
 
-DR Caen
+Normandie |
 
-|
+Calvados, Manche, Orne |
 
-Normandie
+DR Le Havre |
 
-|
+Seine-Maritime (arrondissement du Havre) |
 
-Calvados, Manche, Orne
+DR Rouen |
 
-|
-
-DR Le Havre
-
-|
-
-Seine-Maritime (arrondissement du Havre)
-
-|
-
-DR Rouen
-
-|
-
-Eure, Seine-Maritime (arrondissements de Rouen et de Dieppe)
-
-|
-
-DR Rouen garde-côtes
-
-|
-
-Rayon maritime des douanes et zone contiguë des façades maritimes des régions Hauts-de-France et Normandie
-
-|
+Eure, Seine-Maritime (arrondissements de Rouen et de Dieppe) |
 
 DI Antilles-Guyane
 
-(Siège : Fort-de-France)
+(Siège : Fort-de-France) |
+
+DR Guadeloupe |
+
+Guadeloupe |
+
+Guadeloupe |
+
+Saint-Barthélemy
+
+et Saint-Martin |
 
 |
 
-DR Guadeloupe
+DR Guyane |
+
+Guyane |
+
+Guyane |
+
+DR Martinique |
+
+Martinique |
+
+Martinique |
 
 |
 
-Guadeloupe
+DR La Réunion |
+
+La Réunion |
+
+La Réunion |
+
+DR Mayotte |
+
+Mayotte |
 
 |
 
-Guadeloupe
+DR Nouvelle-Calédonie |
+
+Nouvelle-Calédonie |
 
 |
 
-Saint-Barthélemy et Saint-Martin
+DR Polynésie française |
+
+Polynésie française |
 
 |
 
-|
+Service de Wallis-et-Futuna |
 
-DR Guyane
-
-|
-
-Guyane
+Iles Wallis et Futuna |
 
 |
 
-Guyane
+Service de Saint-Pierre-et-Miquelon |
 
-|
-
-DR Martinique
-
-|
-
-Martinique
-
-|
-
-Martinique
-
-|
-
-DR Antilles garde-côtes
-
-|
-
-Rayon maritime des douanes et zone contiguë des façades maritimes de la Martinique, de la Guadeloupe, de la Guyane, de Saint-Barthélemy et de Saint-Martin
-
-|
-
-|
-
-DR La Réunion
-
-|
-
-La Réunion
-
-|
-
-La Réunion
-
-|
-
-DR Mayotte
-
-|
-
-Mayotte
-
-|
-
-|
-
-DR Nouvelle-Calédonie
-
-|
-
-Nouvelle-Calédonie
-
-|
-
-|
-
-DR Polynésie française
-
-|
-
-Polynésie française
-
-|
-
-|
-
-Service de Wallis-et-Futuna
-
-|
-
-Iles Wallis et Futuna
-
-|
-
-|
-
-Service de Saint-Pierre-et-Miquelon
-
-|
-
-Saint-Pierre-et-Miquelon
-
-|
+Saint-Pierre-et-Miquelon |
 
 |
