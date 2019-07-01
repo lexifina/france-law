@@ -2,7 +2,7 @@
 
 Vérifications techniques
 
-§ 1. Dans les établissements dont l'effectif du public admis est égal ou supérieur aux seuils fixés à l'article REF 3 (§ 2) les vérifications techniques à la construction et pour tous travaux soumis à permis de construire ou à l'autorisation prévue à l'article R. 123-23 du code de la construction et de l'habitation doivent être effectuées par des personnes ou organismes agréés.
+§ 1. Dans les établissements dont l'effectif du public admis est égal ou supérieur aux seuils fixés à l'article REF 3 (§ 2) les vérifications techniques à la construction et pour tous travaux soumis à permis de construire ou à l'autorisation prévue à l'article L. 111-8 du code de la construction et de l'habitation doivent être effectuées par des personnes ou organismes agréés.
 
 § 2. Dans les autres établissements, ces vérifications peuvent être effectuées par des techniciens compétents sous la responsabilité du constructeur ou de l'exploitant.
 

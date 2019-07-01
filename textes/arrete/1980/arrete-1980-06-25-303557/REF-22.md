@@ -2,7 +2,7 @@
 
 Isolement volume-recueil
 
-§ 1. Dans le cas de deux bâtiments distincts, ceux-ci doivent être distants de 8 mètres au moins. Les conditions d'accès sont déterminées après avis de la commission départementale de sécurité.
+§ 1. Dans le cas de deux bâtiments distincts, ceux-ci doivent être distants de 8 mètres au moins. Les conditions d'accès sont déterminées après avis de la commission de sécurité.
 
 L'accès au volume-recueil doit être facile et possible sans utilisation d'équipement particulier.
 

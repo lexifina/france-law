@@ -11,3 +11,5 @@ Les cheminées à foyer ouvert ou fermé et inserts fonctionnant exclusivement a
 § 3. En aggravation des dispositions de l'article CH 5, le local renfermant les générateurs de chaleur ne doit comporter aucune communication avec le reste de l'établissement.
 
 § 4. En aggravation des dispositions de l'article CH 48, les appareils de production-émission à combustion doivent être solidement fixés au sol et isolés des parties inflammables voisines par un espace libre d'au moins 1 mètre, sur toute la hauteur du local.
+
+§ 5. Les refuges utilisant des systèmes de chauffage à combustible doivent disposer d'un ou plusieurs détecteurs de monoxyde de carbone conformes aux normes en vigueur et implantés dans les lieux de couchage.

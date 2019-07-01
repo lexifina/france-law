@@ -2,7 +2,7 @@
 
 Locaux à risques particuliers
 
-En application de l'article CO 27 (§ 2), et après avis de la commission départementale de sécurité, peuvent être classés :
+En application de l'article CO 27 (§ 2), et après avis de la commission de sécurité, peuvent être classés :
 
 a) Locaux à risques importants :
 

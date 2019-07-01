@@ -2,28 +2,28 @@
 
 Hébergement des mineurs
 
-§ 1. L'hébergement des mineurs, en dehors de leur famille, est autorisé dans les établissements qui respectent simultanément les caractéristiques suivantes :
+§ 1. L'hébergement des mineurs, en dehors du cadre familial, est autorisé dans les refuges gardés. Il est autorisé dans les refuges non gardés si les mineurs sont accompagnés d'une personne remplissant les conditions définies au § 3.
 
-- refuge gardé ;
+Le refuge doit disposer d'un équipement d'alarme conforme à l'article REF 38 et d'un système d'alerte conforme à l'article REF 39.
 
-- refuge disposant d'un système d'alarme conforme à l'article REF 38 et d'un système d'alerte conforme à l'article REF 39 ;
+L'hébergement des mineurs est autorisé au rez-de-chaussée. Il n'est autorisé dans les autres niveaux que si le niveau où les mineurs sont hébergés dispose d'un escalier protégé ou d'une sortie donnant directement sur l'extérieur.
 
-- refuge sous avis favorable d'exploitation de la commission de sécurité ;
+§ 2. En situation d'inaccessibilité des secours, notamment en raison des conditions climatiques prévisibles, en complément des dispositions mentionnées au paragraphe 1, les refuges doivent disposer d'un espace clos dans les conditions fixées à l'article REF 21.
 
-- refuge à jour de ses visites périodiques.
+§ 3. Dans les refuges non gardés, l'accompagnateur des mineurs doit s'informer auprès de l'exploitant, du gestionnaire ou du propriétaire des spécificités du lieu d'hébergement. Il doit recueillir des informations portant sur :
 
-Dans ces établissements :
+- l'espace clos de mise à l'abri lorsqu'il existe, les issues, les locaux techniques et les organes de coupure des fluides ;
 
-- l'hébergement des mineurs est limité au rez-de-chaussée. Dans le cas où l'établissement dispose d'un escalier encloisonné ou si le niveau supérieur dispose d'une sortie donnant directement sur l'extérieur, il peut s'effectuer en étage.
+- les moyens de secours du refuge (détecteurs d'incendie, détecteurs de monoxyde de carbone, équipement d'alarme et extincteurs) et les dispositions permettant de s'assurer de leur fonctionnement.
 
-§ 2. En situation d'enneigement et en aggravation du paragraphe 1, les refuges doivent, en outre, répondre à une des exigences complémentaires suivantes :
+L'accompagnateur doit :
 
-- le refuge dispose d'un espace clos dans les conditions fixées par l'article REF 21 : dans ce cas, une colonne de secours doit atteindre le refuge en moins de deux heures ;
+- être instruit à l'utilisation des moyens de secours, à la prévention incendie et à la conduite à tenir pour la mise en sécurité d'un groupe de mineurs lors d'un incendie en refuge ;
 
-- le refuge ne dispose pas d'un espace clos dans les conditions fixées par l'article REF 21 : dans ce cas, il doit être accessible par une colonne de secours en moins de trente minutes à partir d'une voie carrossable en permanence. Durant cette situation d'enneigement, les mineurs de moins de 11 ans ne peuvent y être hébergés.
+- informer les mineurs sur la conduite à tenir en cas d'incendie ;
 
-§ 3. Le maire recense les refuges qui remplissent l'ensemble des conditions ci-dessus. Sur la base de cette déclaration, le préfet établit une liste départementale des refuges accessibles aux mineurs en précisant ceux qui le sont en situation d'enneigement. Cette liste est régulièrement tenue à jour.
+- posséder des piles ou des accumulateurs pour pallier le déchargement de ceux de l'équipement d'alarme et des détecteurs d'incendie ou de monoxyde de carbone ;
 
-NOTA :
+- posséder un moyen d'alerte adapté au lieu (téléphone portable si la couverture réseau est suffisante, radio permettant de contacter les secours ou téléphone satellite).
 
-Conseil d'Etat, décision n° 387529 du 31 mars 2017, Art. 2 : L’arrêté du 20 octobre 2014 du ministre de l’intérieur portant modification du règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public est annulé en tant que son article 1 introduit au §1 de l’article REF 7 de l'arrêté du 25 juin 1980 modifié portant approbation des dispositions générales du règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public les mots " ‑ la durée du séjour dans un même refuge ne peut dépasser deux nuitées consécutives " et en tant qu’il introduit au même article un §4.
+§ 4. Le maire recense les refuges qui remplissent l'ensemble des conditions mentionnées au présent article. Sur la base de ce recensement, le préfet établit une liste départementale des refuges accessibles aux mineurs en précisant ceux qui le sont en situation d'inaccessibilité des secours. Cette liste est régulièrement tenue à jour.

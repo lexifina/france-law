@@ -1,7 +1,9 @@
 # Article REF 38
 
-Système d'alarme
+Système de sécurité incendie
 
-Le système d'alarme de type 4 tel que prévu à l'article REF 18 doit être réalisé après avis de la commission départementale de sécurité.
+En complément de l'article REF 18, l'équipement d'alarme de type 4 doit être réalisé après avis de la commission de sécurité.
 
 L'établissement doit disposer de piles ou d'accumulateurs en réserve.
+
+Dans certains établissements, disposant notamment d'une alimentation électrique fiable, un système de sécurité de catégorie A peut être exigé, après avis motivé de la commission de sécurité.
