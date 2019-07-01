@@ -54,11 +54,11 @@ Article 84
 
 Chevaux non-partants
 
-1. a) Sont remboursées les combinaisons unitaires de 4 chevaux qui comportent un cheval ou plus n’ayant pas pris part à la course.
+1. a) Sont remboursées les combinaisons unitaires de 4 chevaux qui comportent un cheval ou plus non-partants.
 
-b) Sont remboursées les combinaisons unitaires de 5 chevaux qui comportent deux chevaux ou plus n’ayant pas pris part à la course.
+b) Sont remboursées les combinaisons unitaires de 5 chevaux qui comportent deux chevaux ou plus non-partants.
 
-c) Sont remboursées les combinaisons unitaires de 6 chevaux qui comportent trois chevaux ou plus n’ayant pas pris part à la course.
+c) Sont remboursées les combinaisons unitaires de 6 chevaux qui comportent trois chevaux ou plus non-partants.
 
 2. a) Les combinaisons unitaires de 5 chevaux qui comportent un cheval non partant sont transformées en combinaisons unitaires de 4 chevaux.
 
@@ -316,7 +316,7 @@ Article 88
 
 Cas particuliers
 
-1. Lorsque dans une épreuve où fonctionne ce pari, il n’y a aucun enjeu sur la combinaison payable des quatre premiers chevaux classés ou, en cas de dead-heat, sur aucune des combinaisons payables des chevaux classés aux quatre premières places, la masse à partager de ce pari est réservée pour constituer une "Tirelire" qui est redistribuée conformément aux dispositions du d) du 1) I de l’article 21, ou en cas d’excédent à répartir contraint, conformément aux dispositions du c) du 2) du I de l’article 21.
+1. Lorsque dans une épreuve où fonctionne ce pari, il n’y a aucun enjeu sur la combinaison payable des quatre premiers chevaux classés ou, en cas de dead-heat, sur aucune des combinaisons payables des chevaux classés aux quatre premières places, la masse à partager de ce pari est réservée pour constituer une "Tirelire" qui est redistribuée conformément aux dispositions du d) du 1) du I de l’article 21, ou en cas d’excédent à répartir contraint, conformément aux dispositions du c) du 2) du I de l’article 21.
 
 2. Tous les paris du présent chapitre sont remboursés lorsqu’une course comporte moins de quatre chevaux classés à l’arrivée.
 
@@ -334,7 +334,7 @@ Le pari “ Quinté Plus ” peut également être proposé sous une dénominati
 
 Un pari “ Quinté Plus ” est payable si au moins trois des cinq chevaux choisis occupent les trois premières places de l'épreuve.
 
-Toutefois, lorsque le nombre de chevaux ayant effectivement participé à la course est inférieur à sept, tous les paris “ Quinté Plus ” engagés sur cette épreuve sont remboursés.
+Toutefois, lorsque le nombre de chevaux ayant effectivement participé à la course est inférieur à sept, tous les paris “ Quinté Plus ” engagés sur cette épreuve, à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91, sont remboursés.
 
 a) Il donne lieu à un rapport dit “ Quinté Plus Ordre ” si les cinq chevaux choisis occupent les cinq premières places et si l'ordre stipulé par le parieur pour les cinq chevaux désignés est conforme à l'ordre de classement des chevaux à l'arrivée de l'épreuve.
 
@@ -478,31 +478,25 @@ Article 91
 
 Chevaux non-partants
 
-I. – a) Sont remboursées les combinaisons "Quinté Plus" dont trois chevaux ou davantage n'ont pas pris part à la course.
+I. – a) Sont remboursées les combinaisons unitaires “ Quinté Plus ”, en ce compris chaque combinaison unitaire “ Quinté Plus ” composant un pari en formules “ combinées ” ou formules “ champ ” telles que définies à l'article 98, dont au moins deux chevaux sont non-partants.
 
-b) Lorsqu'une combinaison "Quinté Plus" comporte deux chevaux non-partants parmi les cinq chevaux désignés, elle donne droit à quatre fois le rapport "Bonus 3", sous réserve que les trois chevaux ayant participé à la course aient été classés aux trois premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée.
+b) Une combinaison unitaire “ Quinté Plus ”, en ce compris chaque combinaison unitaire “ Quinté Plus ” composant un pari en formules “ combinées ” ou formules “ champ ” telles que définies à l'article 98, qui comporte un cheval non partant est requalifiée en pari “ Quarté Plus ”, si la course support du pari “ Quinté Plus ” offre ce pari, et est traitée conformément aux dispositions du chapitre 7 du présent titre pour les quatre chevaux restés partants. Dans le cas contraire, la combinaison unitaire est remboursée.
 
-c) Lorsqu'une combinaison "Quinté Plus" comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à quatre fois le rapport "Bonus 4", sous réserve que les quatre chevaux ayant participé à la course aient été classés aux quatre premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée.
-
-d) Lorsqu'une combinaison “ Quinté Plus ” comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à deux fois le rapport “ Bonus 3 ”, sous réserve que trois des chevaux ayant participé à la course aient été classés aux trois premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée et que le quatrième cheval ait été classé à un rang supérieur au quatrième.
-
-e) Lorsqu'une combinaison "Quinté Plus" comporte un cheval non-partant parmi les cinq chevaux désignés, elle donne droit à deux fois le rapport "Bonus 3", sous réserve que trois des chevaux ayant participé à la course aient été classés aux trois premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée et que le quatrième cheval ait été classé à un rang supérieur au cinquième.
+c) Toutefois, les règles énoncées au b ci-dessus ne s'appliquent pas aux formules champ total et champ partiel prévues à l'article 98 dont la totalité des chevaux de base sont non-partants. Dans ce cas, les formules correspondantes sont remboursées.
 
 f) Toutefois, les règles énoncées aux b), c) et d) ci-dessus ne s'appliquent pas aux formules champ total et champ partiel prévues à l'article 98 dont la totalité des chevaux de base sont non-partants. Dans ce cas, les formules correspondantes sont remboursées.
 
 II. – Les parieurs ont la possibilité pour le pari "Quinté Plus" de désigner un cheval de complément, conformément aux dispositions du II de l'article 12.
 
-Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du I ci-dessus.
+Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux non-partants, le pari est traité selon les dispositions du I ci-dessus.
 
-Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
+Si le parieur a désigné un cheval de complément partant et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
 
 Article 92
 
 Calcul des rapports
 
-Pour l'ensemble du présent article, les enjeux sur la ou les combinaisons payables “ Bonus 4 ” et “ Bonus 3 ” s'entendent y compris, le cas échéant, de celles résultant de l'application des dispositions des b à d du I de l'article 91.
-
-Le montant des paris remboursés puis celui de la déduction proportionnelle sur enjeux sont déduits du montant des enjeux, on obtient ainsi la masse à partager.
+Le montant des paris remboursés et des enjeux résultant de l'application des dispositions du b du I de l'article 91 est déduit du montant des enjeux du pari “ Quinté Plus ”. Le total obtenu est diminué de la déduction proportionnelle sur enjeux. On obtient ainsi la masse à partager.
 
 10 % au maximum de cette masse à partager peuvent être réservés pour constituer un “ Fonds de réserve Quinté Plus ” selon les dispositions de l'article 95. On obtient ainsi le solde à partager. Le taux effectif appliqué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari “ Quinté Plus ” par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
 
@@ -564,7 +558,7 @@ cas d'arrivée dead-heat prévus au a du I de l'article 90. |
 
 II. - Excédent à répartir
 
-a) Le total des enjeux sur la ou les combinaisons payables à un rapport “ Quinté Plus Ordre ” est multiplié par le ratio défini au I du présent article, correspondant au cas d'arrivée traité. A ce montant est ajouté le total des enjeux sur les autres combinaisons payables de ce pari. Le produit résultant de la multiplication du résultat ainsi obtenu par la valeur du coefficient de réservation fixée au cinquième alinéa du présent article est retiré du solde à partager pour déterminer l'excédent à répartir.
+a) Le total des enjeux sur la ou les combinaisons payables à un rapport “ Quinté Plus Ordre ” est multiplié par le ratio défini au I du présent article, correspondant au cas d'arrivée traité. A ce montant est ajouté le total des enjeux sur les autres combinaisons payables de ce pari. Le produit résultant de la multiplication du résultat ainsi obtenu par la valeur du coefficient de réservation fixée au quatrième alinéa du présent article est retiré du solde à partager pour déterminer l'excédent à répartir.
 
 b) Si le montant de l'excédent à répartir est négatif, la fraction de la masse à partager réservée pour constituer le “ Fonds de réserve Quinté Plus ”, visée au troisième alinéa du présent article, est diminuée du montant nécessaire pour que l'excédent à répartir soit égal à zéro.
 
@@ -590,7 +584,7 @@ Les enjeux sur les combinaisons payables à un rapport “ Bonus 3 ” sont ajou
 
 La répartition de l'excédent à répartir “ Bonus 3 ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Bonus 3 ”.
 
-S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 3 ” est alors égal au total du montant du rapport incrémental “ Bonus 3 ” augmenté de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l'article 94.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 3 ” est alors égal au total du montant du rapport incrémental “ Bonus 3 ” augmenté de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions de l'article 94.
 
 b) Rapport “ Bonus 4 ”
 
@@ -598,7 +592,7 @@ Les enjeux sur les combinaisons payables à un rapport “ Bonus 4 ” sont ajou
 
 La répartition de l'excédent à répartir “ Bonus 4 ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Bonus 4 ”.
 
-S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 4 ” est alors égal au total du montant du rapport incrémental “ Bonus 4 ” augmenté du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions de l'article 94.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Bonus 4 ” est alors égal au total du montant du rapport incrémental “ Bonus 4 ” augmenté du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions de l'article 94.
 
 c) Rapport “ Quinté Plus Désordre ”
 
@@ -606,7 +600,7 @@ Les enjeux sur les combinaisons payables à un rapport “ Quinté Plus Désordr
 
 La répartition de l'excédent à répartir “ Quinté Plus Désordre ” au prorata du total ainsi obtenu constitue le rapport brut incrémental du rapport “ Quinté Plus Désordre ”.
 
-S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Désordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Désordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
 d) Rapport “ Quinté Plus Ordre ”
 
@@ -614,7 +608,7 @@ L'excédent à répartir “ Quinté Plus Ordre ” est divisé par le total des
 
 Le quotient ainsi obtenu constitue le rapport brut incrémental du rapport “ Quinté Plus Ordre ”.
 
-S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Ordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ” augmenté de la somme, multipliée par le ratio défini au I du présent article, du montant du rapport incrémental “ Quinté Plus Désordre ”, du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
+S'il existe des enjeux payables à ce rang de rapport, le rapport brut commun “ Quinté Plus Ordre ” est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ” augmenté de la somme, multipliée par le ratio défini au I du présent article, du montant du rapport incrémental “ Quinté Plus Désordre ”, du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
 IV. - Calcul des rapports bruts communs avant application de l'article 97 dans les cas d'arrivée dead-heat
 
@@ -630,7 +624,7 @@ Chacune de ces parts est ensuite respectivement répartie au prorata du montant 
 
 Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport “ Quinté Plus Désordre ” de chacune des combinaisons payables, différentes par les chevaux qui les composent.
 
-Le rapport brut commun “ Quinté Plus Désordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” de la combinaison payable comportant les mêmes cinq chevaux, augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
+Le rapport brut commun “ Quinté Plus Désordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Désordre ” de la combinaison payable comportant les mêmes cinq chevaux, augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
 c) Rapport “ Quinté Plus Ordre ”
 
@@ -640,7 +634,7 @@ Chacune de ces parts est ensuite répartie au prorata des enjeux sur chaque comb
 
 Chacun des quotients ainsi obtenus constitue le rapport brut incrémental du rapport “ Quinté Plus Ordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent.
 
-Le rapport brut commun “ Quinté Plus Ordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ”, augmenté de la somme, multipliée par le ratio défini au I du présent article correspondant au cas d'arrivée traité, du rapport incrémental “ Quinté Plus Désordre ” des mêmes cinq chevaux augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au cinquième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
+Le rapport brut commun “ Quinté Plus Ordre ” de chacune des combinaisons payables différentes par les chevaux qui les composent et pour lesquelles il existe des enjeux, est alors égal au total du montant du rapport incrémental “ Quinté Plus Ordre ”, augmenté de la somme, multipliée par le ratio défini au I du présent article correspondant au cas d'arrivée traité, du rapport incrémental “ Quinté Plus Désordre ” des mêmes cinq chevaux augmenté du montant du rapport incrémental “ Bonus 4 ”, du montant du rapport incrémental “ Bonus 3 ” et de la valeur du coefficient de réservation fixée au quatrième alinéa du présent article, sous réserve des dispositions des articles 93 et 94.
 
 Article 93
 
@@ -666,9 +660,9 @@ b) Dans le cas prévu au deuxième alinéa du c) du II de l’article 92, ou si,
 
 Le taux de déduction proportionnelle sur enjeux pour le pari "Quinté Plus" est alors égal au taux minimal fixé au troisième alinéa de l’article 20.
 
-Le montant des paris remboursés puis celui de cette nouvelle déduction proportionnelle sur enjeux sont déduits du montant des enjeux, pour obtenir la masse à partager.
+Le montant des paris remboursés et des enjeux résultant de l'application des dispositions du b du I de l'article 91 est déduit du montant des enjeux du pari “ Quinté Plus ”. Le total obtenu est diminué de cette nouvelle déduction proportionnelle sur enjeux. On obtient ainsi la masse à partager.
 
-Un coefficient de réservation contraint est déterminé par la pondération de la valeur brute du coefficient de réservation fixée au cinquième alinéa de l’article 92 par le quotient résultant de la division de la masse à partager déterminée au premier alinéa de l’article 92 par la masse à partager déterminée à l’alinéa précédent.
+Un coefficient de réservation contraint est déterminé par la pondération de la valeur brute du coefficient de réservation fixée au quatrième alinéa de l’article 92 par le quotient résultant de la division de la masse à partager déterminée au premier alinéa de l’article 92 par la masse à partager déterminée à l’alinéa précédent.
 
 Pour l’ensemble des dispositions suivantes et sauf stipulation contraire, le terme "enjeux", quand il est appliqué à des combinaisons payables, s’entend des enjeux payables nets de déduction proportionnelle sur enjeux.
 
@@ -684,7 +678,7 @@ Le quotient ainsi obtenu constitue le rapport incrémental "Quinté Plus Ordre".
 
 Le rapport brut commun "Quinté Plus Ordre" est alors égal au rapport incrémental "Quinté Plus Ordre" augmenté du coefficient de réservation contraint, fixé au quatrième alinéa du b) du présent article.
 
-Si le rapport net obtenu est inférieur à 1,10 €, tous les paris du présent chapitre sont remboursés, sauf en cas d'abondement prévu à l’article 22.
+Si le rapport net obtenu est inférieur à 1,10 €, tous les paris du présent chapitre sont remboursés, à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91, sauf en cas d'abondement prévu à l’article 22.
 
 ii. Dans le cas d’une arrivée dead-heat, par le nombre de combinaisons, différentes par les chevaux qui les composent, payables à un rapport "Quinté Plus Ordre".
 
@@ -694,7 +688,7 @@ Chacun des quotients ainsi obtenus constitue pour chaque combinaison des mêmes 
 
 Le rapport brut commun "Quinté Plus Ordre" de chaque combinaison considérée est alors égal au rapport incrémental "Quinté Plus Ordre" augmenté du coefficient de réservation contraint, fixé au quatrième alinéa du b) du présent article.
 
-Si l’un des rapports nets obtenus est inférieur à 1,10 €, tous les paris du présent chapitre sont remboursés, sauf en cas d'abondement prévu à l’article 22.
+Si l’un des rapports nets obtenus est inférieur à 1,10 €, tous les paris du présent chapitre sont remboursés, à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91, sauf en cas d'abondement prévu à l’article 22.
 
 Article 95
 
@@ -794,15 +788,15 @@ b) S’il n'y a cumulativement aucun enjeu sur la combinaison payable au rapport
 
 2. a) Si, après application des dispositions du b du 1 ci-avant, il n'y a aucun enjeu également sur aucune des combinaisons payables au rapport “ Bonus 4 ”, la totalité de l'excédent à répartir “ Bonus 4 ” est affectée au calcul du rapport “ Bonus 3 ”.
 
-b) Si enfin, il n'y a aucun enjeu sur aucune des combinaisons payables aux rapports “ Quinté Plus Ordre ”, “ Quinté Plus Désordre ”, “ Bonus 4 ” et “ Bonus 3 ”, tous les paris du présent chapitre sont remboursés.
+b) Si enfin, il n'y a aucun enjeu sur aucune des combinaisons payables aux rapports “ Quinté Plus Ordre ”, “ Quinté Plus Désordre ”, “ Bonus 4 ” et “ Bonus 3 ”, tous les paris du présent chapitre sont remboursés à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91.
 
 3. a) Lorsqu'une course ne comporte que quatre chevaux classés à l'arrivée, les excédents à répartir “ Quinté Plus Ordre ” et “ Quinté Plus Désordre ” sont ajoutés à l'excédent à répartir “ Bonus 4 ” pour constituer un excédent à répartir unique qui est réparti entre tous les parieurs ayant désigné l'une des combinaisons comportant les quatre chevaux classés sans tenir compte de l'ordre d'arrivée. S'il n'y a aucun enjeu sur aucune de ces combinaisons payables, il est constitué une masse unique répartie dans les conditions énoncées au b ci-dessous.
 
 b) Lorsqu'une course ne comporte que trois chevaux classés à l'arrivée, le solde à partager est réparti entre tous les parieurs ayant désigné l'une des combinaisons comportant les trois chevaux classés sans tenir compte de l'ordre d'arrivée.
 
-A défaut d’enjeu sur ces combinaisons payables, tous les paris du présent chapitre sont remboursés.
+A défaut d’enjeu sur ces combinaisons payables, tous les paris du présent chapitre sont remboursés à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91.
 
-c) Lorsqu'une course comporte moins de trois chevaux classés à l'arrivée, tous les paris du présent chapitre sont remboursés.
+c) Lorsqu'une course comporte moins de trois chevaux classés à l'arrivée, tous les paris du présent chapitre sont remboursés à l'exception des paris résultant de l'application des dispositions du b du I de l'article 91.
 
 CHAPITRE 11
 
@@ -878,7 +872,7 @@ Article 102
 
 Chevaux non partants
 
-I. – a) Sont remboursées les combinaisons dans lesquelles deux chevaux ou davantage n'ont pas pris part à la course.
+I. – a) Sont remboursées les combinaisons dans lesquelles deux chevaux ou davantage sont non-partants.
 
 b) Lorsqu'une combinaison de ce pari comporte un cheval non partant parmi les cinq chevaux désignés, elle donne lieu à un rapport "Spécial", sous réserve que les quatre chevaux ayant participé à la course aient été classés aux quatre premières places de l'épreuve, sans tenir compte de leur ordre respectif d'arrivée.
 
@@ -886,9 +880,9 @@ c) Toutefois, les règles énoncées au b) ci-dessus ne s'appliquent pas aux for
 
 II. – Les parieurs ont la possibilité pour ce pari de désigner un cheval de complément, conformément aux dispositions du II de l'article 12.
 
-Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du I ci-dessus.
+Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux non-partants, le pari est traité selon les dispositions du I ci-dessus.
 
-Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
+Si le parieur a désigné un cheval de complément partant et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
 
 Article 103
 
@@ -1146,11 +1140,9 @@ Article 109
 
 Chevaux non-partants
 
-I. – a) Sont remboursées les combinaisons "Trio" dont les trois chevaux n'ont pas pris part à la course.
+I. – a) Sont remboursées les combinaisons "Trio" dont les trois chevaux sont non-partants.
 
 b) Lorsqu'une combinaison "Trio" comporte deux chevaux non-partants parmi les trois chevaux désignés, elle donne lieu à un rapport "Trio 2 NP", sous réserve que le troisième cheval de cette combinaison soit classé premier à l'arrivée de la course.
-
-En aucun cas un rapport "Trio 2 NP" n'est réglé aux combinaisons comportant deux chevaux non-partants et un cheval faisant écurie avec l'un des chevaux classés premiers.
 
 c) Lorsqu'une combinaison "Trio" comporte un cheval non-partant parmi les trois chevaux désignés, elle donne lieu à un rapport "Trio 1 NP", sous réserve que les deux chevaux de cette combinaison ayant participé à la course aient été classés aux deux premières places de l'épreuve.
 
@@ -1158,9 +1150,9 @@ d) Toutefois, les règles de traitement énoncées aux b) et c) ci-dessus ne s'a
 
 II. Les parieurs ont la possibilité pour le pari "Trio" de désigner un cheval de complément, conformément aux dispositions du II de l'article 12.
 
-Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du I ci-dessus.
+Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux non-partants, le pari est traité selon les dispositions du I ci-dessus.
 
-Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
+Si le parieur a désigné un cheval de complément partant et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
 
 Article 110
 
@@ -1262,11 +1254,9 @@ Article 115
 
 Chevaux non partants
 
-I. – a) Sont remboursées les combinaisons "Trio Ordre" dont les trois chevaux n’ont pas pris part à la course.
+I. – a) Sont remboursées les combinaisons "Trio Ordre" dont les trois chevaux sont non-partants.
 
 b) Lorsqu’une combinaison "Trio Ordre" comporte deux chevaux non partants parmi les trois chevaux désignés, elle donne lieu à un rapport "Trio Ordre 2 NP", sous réserve que le cheval de cette combinaison ayant participé à la course soit classé premier à l'arrivée de la course.
-
-En aucun cas, un rapport "Trio Ordre 2 NP" n’est réglé aux combinaisons comportant deux chevaux non partants et un cheval faisant écurie avec l’un des chevaux classés premiers.
 
 c) Lorsqu’une combinaison "Trio Ordre" comporte un cheval non partant parmi les trois chevaux désignés, elle donne lieu à un rapport "Trio Ordre 1 NP", sous réserve que les deux chevaux de cette combinaison ayant participé à la course aient été classés aux deux premières places de l'épreuve et qu’ils aient été désignés dans l’ordre exact d’arrivée par le parieur.
 
@@ -1274,9 +1264,9 @@ d) Toutefois, les règles de traitement énoncées aux b) et c) ci-dessus ne s�
 
 II. – Les parieurs ont la possibilité pour le pari "Trio Ordre" de désigner un cheval de complément, conformément aux dispositions du II de l’article 12.
 
-Si le parieur n’a pas désigné de cheval de complément ou si le cheval de complément désigné est non partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du I ci-dessus.
+Si le parieur n’a pas désigné de cheval de complément ou si le cheval de complément désigné est non partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux non-partants, le pari est traité selon les dispositions du I ci-dessus.
 
-Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non partants, les dispositions du I ci-dessus sont applicables.
+Si le parieur a désigné un cheval de complément partant et si, après que ce cheval ait remplacé un cheval non partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non partants, les dispositions du I ci-dessus sont applicables.
 
 Article 116
 
@@ -1384,7 +1374,7 @@ Article 121
 
 Cas de chevaux non-partants
 
-I. – a) Sont remboursées les combinaisons dont au moins trois chevaux n'ont pas pris part à la course.
+I. – a) Sont remboursées les combinaisons dont au moins trois chevaux sont non-partants.
 
 b) Lorsqu'une combinaison comporte deux chevaux non-partants parmi les quatre chevaux désignés, elle est réglée à un rapport "Spécial 2 NP", sous réserve que les deux chevaux ayant participés à la course aient été classés aux deux premières places de l'épreuve, et qu’ils aient été désignés dans l’ordre exact d'arrivée.
 
@@ -1394,9 +1384,9 @@ d) Toutefois, la règle énoncée aux b) et c) ci-dessus ne s'applique pas aux f
 
 II. – Les parieurs ont la possibilité de désigner un cheval de complément, conformément aux dispositions du II de l'article 12.
 
-Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du I ci-dessus.
+Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant, et si, dans ce dernier cas, cumulativement, le pari engagé par le parieur comporte un ou plusieurs autres chevaux non-partants, le pari est traité selon les dispositions du I ci-dessus.
 
-Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
+Si le parieur a désigné un cheval de complément partant et si, après que ce cheval ait remplacé un cheval non-partant, le pari engagé par le parieur comporte, de plus, un ou plusieurs autres chevaux non-partants, les dispositions du I ci-dessus sont applicables.
 
 Article 122
 
@@ -2234,7 +2224,7 @@ Les dispositions des articles 20 à 23 du titre I ne sont pas applicables aux pa
 
 Pour le calcul des rapports des paris définis au présent titre, la réglementation en vigueur s'entend comme celle en vigueur dans le pays où la répartition est effectuée. Ce pays peut être celui où la course se déroule ou un pays différent. Le pays où est effectuée la répartition est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement.
 
-Pour chaque type de pari, le "rapport" définit la somme à payer aux parieurs sur la base d'une unité de mise de 1 €.
+Pour chaque type de pari, le "rapport" définit la somme à payer aux parieurs sur la base d'une unité de mise de 1 €, les gains étant proportionnels aux enjeux.
 
 Les rapports bruts sont déterminés par la répartition des enjeux centralisés, après application des déductions de toute nature autorisées par la réglementation en vigueur dans le pays où la répartition est effectuée.
 
