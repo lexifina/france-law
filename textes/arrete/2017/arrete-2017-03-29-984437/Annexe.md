@@ -122,8 +122,6 @@ Conseiller, chef du pôle judiciaire.
 
 Conseiller stratégie, coopérations et prévention.
 
-Conseiller prospective et stratégie.
-
 2. Direction des ressources et des compétences de la police nationale :
 
 Chef du département du management et de la gestion des commissaires de police.
@@ -146,7 +144,7 @@ Sous-directeur de la lutte contre la cybercriminalité.
 
 Sous-directeur chargé de l'anti-terrorisme.
 
-Sous-directeur de la lutte contre la criminalité organisée et la délinquance financière.
+Sous-directeur de la lutte contre la criminalité organisée.
 
 Sous-directeur des ressources, de l'évaluation et de la stratégie.
 
@@ -157,6 +155,8 @@ Directeur interrégional de police judiciaire, directeur du service régional à
 Directeur interrégional de police judiciaire, directeur du service régional à Lyon.
 
 Directeur régional de police judiciaire à Versailles.
+
+Sous-directeur de la lutte contre la criminalité financière.
 
 6. Direction générale de la sécurité intérieure :
 
