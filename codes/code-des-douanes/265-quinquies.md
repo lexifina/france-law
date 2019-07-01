@@ -26,6 +26,10 @@ Supercarburants
 
 |
 
-11 et 11 bis
+11,11 bis et 11 ter
 
 |
+
+NOTA :
+
+Conformément à l’article 66 IV de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux carburants pour lesquels la taxe devient exigible à compter du 1er juillet 2019. Toutefois, pour les majorations prévues aux articles 265 A bis et 265 A ter du code des douanes, ils s’appliquent aux carburants pour lesquels la taxe devient exigible à compter du 1er janvier 2020.
