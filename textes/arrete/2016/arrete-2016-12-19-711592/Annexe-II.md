@@ -2,626 +2,342 @@
 
 UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI DE DROIT COMMUN
 
-DÉPARTEMENT OU COLLECTIVITÉ
+Département
 
-|
+ou collectivité |
 
-UNITÉS
+Unités |
 
-|
+01-Ain |
 
-01 - Ain
+Communautés de brigades d'Ambérieu-en-bugey, de Belley, de Thoiry, de Trévoux
 
-|
+Brigades territoriales autonomes de Chatillon-en-Michaille, de Miribel, de Montluel et d'Ornex |
 
-Communautés de brigades d'Ambérieu-en-Bugey, de Belley, de Thoiry et de Trévoux
+02-Aisne |
 
-Brigades territoriales autonomes de Chatillon-en-Michaille, de Miribel, de Montluel et d'Ornex
+Communautés de brigades de Chauny et de Villers-Cotterêts |
 
-|
+06-Alpes-Maritimes |
 
-02 - Aisne
+Communauté de brigades de La Trinité
 
-|
+Brigade territoriale autonome de Vence |
 
-Communautés de brigades de Chauny et de Villers-Cotterêts
+07-Ardèche |
 
-|
+Communauté de brigades de Le Teil |
 
-06 - Alpes-Maritimes
+08-Ardennes |
 
-|
+Communautés de brigades de Rethel et de Revin |
 
-Communautés de brigades de La Trinité
+09-Ariège |
 
-Brigade territoriale autonome de Vence
+Brigade territoriale autonome de Saint-Girons |
 
-|
+10-Aube |
 
-07 - Ardèche
+Communautés de brigades de Bar-sur-Aube et de Romilly-sur-Seine |
 
-|
+11-Aude |
 
-Communautés de brigades de Le Teil
+Communautés de brigades de Limoux et de Lézignan-Corbières |
 
-|
+12-Aveyron |
 
-08 - Ardennes
+Communautés de brigades de Villefranche-de-Rouergue |
 
-|
+13-Bouches-du-Rhône |
 
-Communautés de brigades de Rethel et de Revin
+Brigades territoriales autonomes d'Aubagne, de Berre-l'Etang, de Bouc-Bel-Air, de Carry-le-Rouet, de Châteaurenard, de Gardanne et d'Orgon |
 
-|
+18-Cher |
 
-09 - Ariège
+Communauté de brigades de Saint-Amand-Montrond |
 
-|
+2A-Corse-du-Sud |
 
-Brigade territoriale autonome de Saint-Girons
+Brigade territoriale autonome de Porto-Vecchio |
 
-|
+21-Côte-d'Or |
 
-10 - Aube
+Brigade territoriale autonome de Quetigny |
 
-|
+22-Côtes-d'Armor |
 
-Communautés de brigades de Bar-sur-Aube et de Romilly-sur-Seine
+Brigade territoriale autonome de Dinan |
 
-|
+24-Dordogne |
 
-11 - Aude
+Communauté de brigades de Terrasson-Lavilledieu |
 
-|
-
-Communautés de brigades de Limoux et de Lézignan-Corbières
-
-|
-
-12 - Aveyron
-
-|
-
-Brigade territoriale autonome de Villefranche-de-Rouergue
-
-|
-
-13 - Bouches-du-Rhône
-
-|
-
-Brigades territoriales autonomes d'Aubagne, de Berre-l'Etang, de Bouc-Bel-Air, de Carry-le-Rouet, de Châteaurenard, de Gardanne et d'Orgon
-
-|
-
-18 - Cher
-
-|
-
-Communauté de brigades de Saint-Amand-Montrond
-
-|
-
-2A - Corse-du-Sud
-
-|
-
-Brigade territoriale autonome de Porto-Vecchio
-
-|
-
-21 - Côte-d'Or
-
-|
-
-Brigade territoriale autonome de Quetigny
-
-|
-
-22 - Côtes-d'Armor
-
-|
-
-Brigade territoriale autonome de Dinan
-
-|
-
-24 - Dordogne
-
-|
-
-Communauté de brigades de Terrasson-Lavilledieu
-
-|
-
-25 - Doubs
-
-|
+25-Doubs |
 
 Communauté de brigades d'Etupes
 
-Brigades territoriales autonomes de Bavans et de Béthoncourt
+Brigades territoriales autonomes de Bavans et de Béthoncourt |
 
-|
+26-Drôme |
 
-26 - Drôme
+Communautés de brigades de Saint-Vallier et de Loriol-sur-Drôme
 
-|
+Brigades territoriales autonomes de Donzère et de Pierrelatte |
 
-Communautés de brigades de Saint-Vallier et de Loriol-sur-Drôme.
-
-Brigades territoriales autonomes de Donzère et de Pierrelatte
-
-|
-
-27 - Eure
-
-|
+27-Eure |
 
 Communautés de brigades de Bernay et de Pont-Audemer
 
-Brigade territoriale autonome de Les Andelys
+Brigade territoriale autonome de Les Andelys |
 
-|
+28-Eure et Loir |
 
-28 - Eure-et-Loir
+Communautés de brigades de Châteaudun, de Dreux et de Nogent-le-Rotrou |
 
-|
+30-Gard |
 
-Communautés de brigades de Châteaudun, de Dreux et de Nogent-le-Rotrou
+Communautés de brigades de Saint Ambroix, d'Anduze, de Pont-Saint-Esprit, d'Uzès
 
-|
+Brigades territoriales autonomes de La Grand-Combe et de Saint-Gilles |
 
-30 - Gard
-
-|
-
-Communautés de brigades de Saint-Ambroix, d'Anduze, de Pont-Saint-Esprit, d'Uzès
-
-Brigades territoriales autonomes de La Grand-Combe et de Saint-Gilles
-
-|
-
-31 - Haute-Garonne
-
-|
+31-Haute-Garonne |
 
 Communauté de brigades de Cugnaux
 
-Brigades territoriales autonomes de Muret, de Portet-sur-Garonne et de Saint-Orens
+Brigades territoriales autonomes de Muret, de Portet-sur-Garonne et de Saint-Orens |
 
-|
-
-33 - Gironde
-
-|
+33-Gironde |
 
 Communautés de brigades de Castillon-la-Bataille et de Coutras
 
-Brigades territoriales autonomes de Libourne et Sainte-Foy-la-Grande
+Brigades territoriales autonomes de Libourne et de Sainte-Foy-la-Grande |
 
-|
-
-34 - Hérault
-
-|
+34-Hérault |
 
 Communautés de brigades de Lodève, de Bédarieux
 
-Brigades territoriales autonomes de Lunel et de Mauguio
+Brigades territoriales autonomes de Lunel et de Mauguio |
 
-|
+35-Ille-et-Vilaine |
 
-35 - lle et Vilaine
+Brigade territoriale autonome de Redon |
 
-|
+36-Indre |
 
-Brigade territoriale autonome de Redon
+Communauté de brigades d'Issoudun |
 
-|
+37-Indre-et-Loire |
 
-36 - Indre
+Brigade territoriale autonome d'Amboise |
 
-|
-
-Communauté de brigades d'Issoudun
-
-|
-
-37 - Indre-et-Loire
-
-|
-
-Brigade territoriale autonome d'Amboise
-
-|
-
-38 - Isère
-
-|
+38-Isère |
 
 Communauté de brigades de Saint-Marcellin
 
-Brigades territoriales autonomes de Pont-de-Chéruy et de Villefontaine
+Brigades territoriales autonomes de Pont-de-Chéruy et de Villefontaine |
 
-|
+39-Jura |
 
-39 - Jura
+Communauté de brigades de Saint-Claude |
 
-|
+41-Loir-et-cher |
 
-Communauté de brigades de Saint-Claude
+Brigade territoriale autonome de Romorantin-Lanthenay |
 
-|
+42-Loire |
 
-41 - Loir-et-Cher
+Brigade territoriale autonome de Montbrison |
 
-|
-
-Brigade territoriale autonome de Romorantin-Lanthenay
-
-|
-
-42 - Loire
-
-|
-
-Brigades territoriales autonomes de Montbrison
-
-|
-
-44 - Loire-Atlantique
-
-|
+44-Loire-Atlantique |
 
 Communauté de brigades de Châteaubriant
 
-Brigades territoriales autonomes de Bouguenais, de La Chapelle-sur-Erdre et de Montoir-de-Bretagne
+Brigades territoriales autonomes de Bouguenais, de La Chapelle-sur-Erdre et de Montoir-de-Bretagne |
 
-|
+45-Loiret |
 
-45 - Loiret
+Brigades territoriales autonomes de Gien, de Sully-sur-Loire et de Pithiviers |
 
-|
+47-Lot-et-Garonne |
 
-Brigades territoriales autonomes de Gien, de Sully-sur-Loire et de Pithiviers
+Communauté de brigades de Tonneins et de Sainte-Livrade-sur-Lot
 
-|
+Brigade territoriale autonome de Marmande |
 
-47 - Lot-et-Garonne
+50-Manche |
 
-|
+Brigade territoriale autonome d'Avranches |
 
-Communautés de brigades de Tonneins et de Sainte-Livrade-sur-Lot
+51-Marne |
 
-Brigade territoriale autonome de Marmande
+Communauté de brigades de Vitry-le-François |
 
-|
+54-Meurthe-et-Moselle |
 
-50 - Manche
+Brigade territoriale autonome de Frouard |
 
-|
+56-Morbihan |
 
-Brigade territoriale autonome d'Avranches
+Brigade territoriale autonome d'Auray |
 
-|
-
-51 - Marne
-
-|
-
-Communauté de brigades de Vitry-le-François.
-
-|
-
-54 - Meurthe-et-Moselle
-
-|
-
-Brigade territoriale autonome de Frouard
-
-|
-
-56 - Morbihan
-
-|
-
-Brigade territoriale autonome d'Auray
-
-|
-
-57 - Moselle
-
-|
+57-Moselle |
 
 Communautés de brigades de Guénange et de Morhange
 
-Brigades territoriales autonomes de Behren-lès-Forbach, de Creutzwald, de Fameck, de Farébersviller, de Folschviller, et d'Uckange
+Brigades territoriales autonomes de Behren-lès-Forbach, de Creutzwald, de
 
-Pelotons de surveillance et d'intervention de la gendarmerie de Creutzwald et de Thionville
+Fameck, de Farébersviller, de Folschviller et d'Uckange
 
-|
+Pelotons de surveillance et d'intervention de la gendarmerie de Creutzwald et de Thionville |
 
-58 - Nièvre
+58-Nièvre |
 
-|
+Communauté de brigades de Cosne-Cours-sur-Loire |
 
-Communauté de brigades de Cosne-Cours-sur-Loire
+59-Nord |
 
-|
+Brigades territoriales autonomes de Caudry, de Fourmies et de Thumeries |
 
-59 - Nord
+60-Oise |
 
-|
+Communautés de brigades de Clermont, de Crépy-en-Valois, de Méru, de Noyon, et de Pont-Sainte-Maxence
 
-Brigades territoriales autonomes de Caudry, de Fourmies et de Thumeries
+Brigades territoriales autonomes de Chambly et de Liancourt |
 
-|
+61-Orne |
 
-60 - Oise
+Communauté de brigades de La Ferté-Macé |
 
-|
+62-Pas-de-Calais |
 
-Communautés de brigades de Clermont, de Crépy-en-Valois, de Méru, de Noyon et de Pont-Sainte-Maxence
+Brigades territoriales autonomes de Marquise, d'Aire-sur-la-Lys et d'Etaples |
 
-Brigades territoriales autonomes de Chambly et de Liancourt
+63-Puy-de-Dôme |
 
-|
+Communauté de brigades de Thiers |
 
-61 - Orne
+64-Pyrénées-Atlantiques |
 
-|
+Communauté de brigades de Mourenx |
 
-Communauté de brigades de La Ferté-Macé
-
-|
-
-62 - Pas-de-Calais
-
-|
-
-Brigades territoriales autonomes de Marquise, d'Aire-sur-la-Lys et d'Etaples
-
-|
-
-63 - Puy-de-Dôme
-
-|
-
-Communauté de brigades de Thiers
-
-|
-
-64 - Pyrénées-Atlantiques
-
-|
-
-Communauté de brigades de Mourenx
-
-|
-
-66 - Pyrénées-Orientales
-
-|
+66-Pyrénées-Orientales |
 
 Communauté de brigades de Port-Vendres
 
-Brigade territoriale autonome d'Elne
+Brigade territoriale autonome d'Elne |
 
-|
+67-Bas-Rhin |
 
-67 - Bas-Rhin
+Communauté de brigades de Saverne |
 
-|
+68-Haut-Rhin |
 
-Communauté de brigades de Saverne
+Brigades territoriales autonomes d'Illzach et de Wittelsheim |
 
-|
-
-68 - Haut-Rhin
-
-|
-
-Brigades territoriales autonomes d'Illzach et de Wittelsheim
-
-|
-
-69 - Rhône
-
-|
+69-Rhône |
 
 Communauté de brigades de Fontaines-sur-Saône
 
-Brigades territoriales autonomes de Brignais, de Neuville-sur-Saône, de Belleville et de Tarare
+Brigades territoriales autonomes de Brignais, de Neuville-sur-Saône, de Belleville et de Tarare |
 
-|
-
-70 - Haute-Saône
-
-|
+70-Haute-Saône |
 
 Communauté de brigades de Luxeuil-les-Bains
 
-Brigades territoriales autonomes de Lure et de Gray
+Brigades territoriales autonomes de Lure et de Gray |
 
-|
+71-Saône-et-Loire |
 
-71 - Saône-et-Loire
+Communauté de brigades d'Autun |
 
-|
+72-Sarthe |
 
-Communauté de brigades d'Autun
+Brigade territoriale autonome de Sablé-sur-Sarthe |
 
-|
+74-Haute-Savoie |
 
-72 - Sarthe
+Brigades territoriales autonomes de Scionzier, de Saint-Julien-en-Genevois et de Bonneville |
 
-|
+76-Seine-Maritime |
 
-Brigade territoriale autonome de Sablé-sur-Sarthe
+Brigade territoriale autonome de Pavilly |
 
-|
+78-Yvelines |
 
-74 - Haute-Savoie
+Brigades territoriales autonomes d'Ecquevilly et de Magny-les-Hameaux |
 
-|
+79-Deux-Sèvres |
 
-Brigades territoriales autonomes de Scionzier, de Saint-Julien-en-Genevois et de Bonneville
+Brigade territoriale autonome de Bressuire |
 
-|
+81-Tarn |
 
-76 - Seine-Maritime
+Brigades territoriales autonomes de Graulhet et de Gaillac |
 
-|
+82-Tarn-et-Garonne |
 
-Brigade territoriale autonome de Pavilly
+Communautés de brigades de Caussade et de Moissac |
 
-|
-
-78 - Yvelines
-
-|
-
-Brigades territoriales autonomes de Ecquevilly et Magny-les-Hameaux
-
-|
-
-79 - Deux-Sèvres
-
-|
-
-Brigade territoriale autonome de Bressuire
-
-|
-
-81 - Tarn
-
-|
-
-Brigades territoriales autonomes de Graulhet et de Gaillac
-
-|
-
-82 - Tarn-et-Garonne
-
-|
-
-Communauté de brigades de Caussade et de Moissac
-
-|
-
-83 - Var
-
-|
+83-Var |
 
 Communautés de brigades des Arcs et du Luc
 
-Brigade territoriale autonome de Brignoles
+Brigade territoriale autonome de Brignoles |
 
-|
+84-Vaucluse |
 
-84 - Vaucluse
+Communauté de brigades du Perthuis
 
-|
+Brigades territoriales autonomes de Bollène, d'Apt, du Pontet, de l'Isle-sur-la-Sorgue, de Sorgues, de Saint Saturnin-lès-Avignon et de Valréas |
 
-Communauté de brigades du Pertuis
+85-Vendée |
 
-Brigades territoriales autonomes de Bollène, d'Apt, du Pontet, de l'Isle-sur-La-Sorgue, de Sorgues et de Valréas
+Brigade territoriale autonome de Fontenay-le-Comte |
 
-|
+89-Yonne |
 
-85 - Vendée
+Communautés de brigades d'Avallon et de Saint-Florentin |
 
-|
+90-Territoire-de-Belfort |
 
-Brigade territoriale autonome de Fontenay-Le-Comte
+Communauté de brigades de Belfort |
 
-|
-
-89 - Yonne
-
-|
-
-Communauté de brigades d'Avallon et de Saint-Florentin
-
-|
-
-90 - Territoire de Belfort
-
-|
-
-Communauté de brigades de Belfort
-
-|
-
-91 - Essonne
-
-|
+91-Essonne |
 
 Communautés de brigades de Bondoufle et de Saint-Pierre-du-Perray
 
-Brigade territoriale autonome d'Egly
+Brigade territoriale autonome d'Egly |
 
-|
+95-Val-d'Oise |
 
-95 - Val-d'Oise
+Brigades territoriales autonomes de Fosses, de Louvres et de Persan |
 
-|
+971-Guadeloupe |
 
-Brigades territoriales autonomes de Fosses, de Louvres et de Persan
+Communauté de brigades de Saint-Matin
 
-|
+Brigades territoriales autonomes de Baie-Mahault, de Capesterre-Belle-Eau, de Sainte-Rose, de Saint-Claude, et Le Moule |
 
-971 - Guadeloupe
-
-|
-
-Communauté de brigades Saint-Martin
-
-Brigades territoriales autonomes de Baie-Mahault, de Capesterre-Belle-Eau, de Sainte-Rose, de Saint-Claude et Le Moule
-
-|
-
-972 - Martinique
-
-|
+972-Martinique |
 
 Communautés de brigades de Le Lorrain, de Le Marin, de Rivière-Salée, de Robert, de Saint-Pierre et de Schœlcher
 
-Brigades territoriales autonomes de La Trinité et de Sainte-Marie
+Brigades territoriales autonomes de La Trinité et de Sainte-Marie |
 
-|
+973-Guyane |
 
-973 - Guyane
+Brigades territoriales autonomes de Matoury, de Macouria, de Remire-Montjoly et de Kourou |
 
-|
+974-Réunion |
 
-Brigades territoriales autonomes de Matoury, de Macouria, de Remire-Montjoly et de Kourou
+Communautés de brigades de Saint-Benoît, de Saint-Leu, du Tampon, de Saint-Joseph
 
-|
+Brigades territoriales autonomes de la Plaine-des-Cafres, de la Possession de Les Trois-Bassins, de Saint-Louis et de Saint-Paul, de Sainte-Marie et de Sainte-Suzanne |
 
-974 - Réunion
+976-Mayotte |
 
-|
+Brigades territoriales autonomes de Mamoudzou, de Koungou, de Pamandzi, de Sada, de M'tsamboro, de M'zouazia |
 
-Communautés de brigades de Saint-Benoît, de Sainte-Marie, de Saint-Leu, du Tampon et de Saint-Joseph
+987-Polynésie Française |
 
-Brigades territoriales autonomes de La Plaine-des-Cafres, de La Possession, de Les Trois-Bassins, de Saint-Louis, et de Saint-Paul
-
-|
-
-976 - Mayotte
-
-|
-
-Brigades territoriales autonomes de Mamoudzou, de Pamandzi, de Sada, de M'tsamboro et de M'zouazia
-
-|
-
-987 - Polynésie française
-
-|
-
-Brigades territoriales autonomes d'Arue, de Faaa, de Moorea, de Paea, de Papara et de Punaauia
-
-|
+Brigades territoriales autonomes d'Arue, de Faaa, de Moorea, de Paea, de Papara et de Punaauia |
