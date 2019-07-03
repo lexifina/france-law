@@ -1,0 +1,71 @@
+# Article Annexe III
+
+MODE DE CALCUL DE LA COMPENSATION POUR L'ESPÈCE CAPRINE
+
+Densité |
+
+Handicap naturel |
+
+Compensation par lot d'IA |
+
+Forte (1) |
+
+Hors handicap naturel ou défavorisé simple |
+
+0,00 € |
+
+Forte |
+
+Piémont (P) |
+
+23,00 € |
+
+Forte |
+
+Montagne (M) |
+
+98,00 € |
+
+Forte |
+
+Haute Montagne (HM) |
+
+115,00 € |
+
+Forte |
+
+Ile (ILE) et DOM |
+
+115,00 € |
+
+Faible (2) |
+
+Hors handicap naturel ou défavorisé simple |
+
+138,00 € |
+
+Faible |
+
+Piémont (P) |
+
+161,00 € |
+
+Faible |
+
+Montagne (M) |
+
+242,00 € |
+
+Faible |
+
+Haute Montagne (HM) |
+
+265,00 € |
+
+Faible (ILE) et DOM |
+
+265,00 € |
+
+1) Supérieure à 10 IA/km2 ;
+
+2) Jusqu'à 10 IA/km2.
