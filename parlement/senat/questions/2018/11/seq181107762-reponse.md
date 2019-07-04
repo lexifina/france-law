@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107762
+
+- Question : [SEQ181107762](seq181107762.md) — Hôpital Raymond Poincaré à Garches
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-07-04, page 3550*
+
+L'hôpital Raymond Poincaré à Garches fait partie d'un des groupements hospitaliers de l'Assistance Publique des Hôpitaux de Paris. Le service de réanimation pédiatrique et les services de pédiatrie de l'établissement de manière plus générale ont connu ces dernières années des mutations à l'égard de la gouvernance médicale et une évolution de leur activité. Grâce aux progrès de la réanimation notamment, les séjours des enfants se sont raccourcis, permettant ainsi de les accueillir dans des structures médicales plus légères. Certains enfants peuvent parfois suivre une scolarité. Ces évolutions dans la prise en charge des patients, concomitante avec une adaptation des règles des temps de travail à l'Assistance Publique Hôpitaux de Paris ont pu provoquer un sentiment d'alourdissement du travail des professionnels. Une réflexion sur les organisations a donc été initiée par la direction du groupe hospitalier. Elle a ainsi lancé, avec le comité d'hygiène, de sécurité et des conditions de travail, une étude en décembre 2017. Celle-ci a abouti en juillet 2018 à un plan d'actions articulé autour de quatre axes : management et communication dans le service, répartition des missions et des tâches, formation et développement des compétences, intervention externes. Des actions ont déjà été mises en place : les plannings ont été délégués à des infirmiers référents et des formations ainsi que des groupes de paroles ont débuté. Les groupes de travail poursuivent leurs réflexions. Les échanges ont permis de reprendre un nouveau dialogue et de créer un lien renouvelé entre direction, cadres paramédicaux et médicaux.
