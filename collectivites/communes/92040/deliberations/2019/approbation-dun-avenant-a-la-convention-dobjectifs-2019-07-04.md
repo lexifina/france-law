@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant à la convention d’objectifs et de financement conclue avec la Caisse d’Allocations Familiales des Hauts-de-Seine en faveur des établissements d'accueil du jeune enfant (EAJE)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-07-04
+- Matière : PETITE ENFANCE
+- Objet : Approbation d’un avenant à la convention d’objectifs et de financement conclue avec la Caisse d’Allocations Familiales des Hauts-de-Seine en faveur des établissements d'accueil du jeune enfant (EAJE)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1ODYsInB1ciI6ImJsb2JfaWQifX0=--3fd74729960e6c573d84013b05b9fdb48e64a12c/040719_20.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
