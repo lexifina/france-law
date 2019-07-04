@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108608
+
+- Question : [SEQ190108608](seq190108608.md) — Possibilité d'anonymiser les plaintes de sapeurs-pompiers agressés lors de leurs missions
+
+## Réponse
+
+*Justice, JO du 2019-07-04, page 3545*
+
+L'article 15-4 du code de procédure pénale, permet sous certaines conditions, l'identification d'un enquêteur par son numéro de matricule dans les procédures auxquelles il participe. Cette identification par un numéro est ensuite également possible en tant que partie civile si l'enquêteur est victime d'une infraction dans le cadre de cette procédure. Mais il ne s'agit là que d'une conséquence de cette règle procédurale, ce qui implique que ce dispositif n'est pas transposable à la catégorie d'agents publics à laquelle appartiennent les sapeurs-pompiers. De plus, il n'apparaît pas possible sans instaurer une rupture d'égalité devant la loi, de traiter les sapeurs-pompiers différemment des autres catégories de personnes chargées d'une mission de service public. Cela étant, les articles 10-2 et 40-4-1 du code de procédure pénale permettaient déjà une protection des sapeurs-pompiers victimes d'infractions, ces derniers pouvant en effet, comme toutes les victimes, déclarer lors d'un dépôt de plainte ou d'une constitution de partie civile, l'adresse d'un tiers, avec l'accord exprès de celui-ci. Cela leur permettait donc de se domicilier à leur adresse professionnelle, avec l'accord préalable de leur responsable hiérarchique. La loi du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice est venue renforcer de façon significative l'effectivité de ce droit en supprimant l'exigence d'un tel accord préalable, pour toutes les personnes chargées d'une mission de service public, ce qui est donc le cas des sapeurs-pompiers, lorsque ces personnes sont victimes d'infractions commises en raison de leurs fonctions ou de leur mission.
