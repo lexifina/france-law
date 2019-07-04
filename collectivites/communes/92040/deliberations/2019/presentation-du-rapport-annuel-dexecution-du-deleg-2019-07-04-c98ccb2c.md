@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour l'exploitation de la crèche « Les P’tits Zouaves ». Exercice 2018
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-07-04
+- Matière : PETITE ENFANCE
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour l'exploitation de la crèche « Les P’tits Zouaves ». Exercice 2018
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2NTIsInB1ciI6ImJsb2JfaWQifX0=--f433ab811271e57924b92fa6b061f609b60e6886/040719_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
