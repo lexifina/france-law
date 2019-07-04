@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent avenant modifie les rémunérations minima garanties des gérants mandataires, les indemnités des heures passées en réunion, des heures de délégation et les indemnisations des gérants mandataires participant aux réunions paritaires.
