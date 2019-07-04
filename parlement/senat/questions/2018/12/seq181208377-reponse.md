@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208377
+
+- Question : [SEQ181208377](seq181208377.md) — Coût d'instruction des demandes d'autorisation d'urbanisme
+
+## Réponse
+
+*Ville et logement, JO du 2019-07-04, page 3563*
+
+Le coût de l'instruction des demandes d'autorisation d'urbanisme ne peut, sans une disposition législative en ce sens, être mis à la charge du pétitionnaire au moyen d'une taxe qui serait perçue à l'occasion du dépôt d'une demande d'autorisation. Une telle disposition n'apparaît pas souhaitable et a d'ailleurs été récemment écartée par le Parlement. En effet, le III de l'article 62 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique a modifié l'article L. 423-1 du code de l'urbanisme pour permettre aux communes et à leurs groupements de recourir, sous de strictes conditions, à des prestataires privés. Dans ce cadre, le législateur a pris soin de préciser que les missions ainsi confiées à une personne privée « ne doivent entraîner aucune charge financière pour les pétitionnaires ». Autrement dit, il n'est pas apparu opportun de reporter le coût de l'instruction sur le demandeur. Les communes, notamment celles qui disposent de moyens humains et financiers modestes, peuvent confier l'instruction des actes d'urbanisme à une structure mutualisée avec laquelle elle conventionne, de sorte à réaliser des économies d'échelle, par exemple l'intercommunalité à laquelle elle appartient. Cette faculté est d'ailleurs de plus en plus fréquemment utilisée, le maire restant par ailleurs compétent pour signer les actes. On recense ainsi 895 centres instructeurs (CI) mutualisés, c'est à dire chargés de plus d'une commune, soit 32 % des CI hors services déconcentrés de l'État. Ils couvrent déjà 21 590 communes (62 % du total) et près de 40 millions d'habitants. Dans l'immense majorité des cas, ces centres sont constitués à l'échelle de l'intercommunalité.
