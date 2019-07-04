@@ -388,7 +388,13 @@ Paris-Sapporo ;
 
 Paris-Tokyo ;
 
-ainsi que toute liaison exploitée en partage de codes soit avec une compagnie japonaise entre un point du territoire français et un point du territoire du Japon situé au-delà d'un des points du territoire japonais mentionnés ci-dessus, soit avec une compagnie sud-coréenne entre un point du territoire français et un point du territoire japonais au-delà de Séoul (Corée du Sud).
+ainsi que toute liaison exploitée en partage de codes :
+
+-soit avec une compagnie japonaise entre un point du territoire français et un point du territoire du Japon situé au-delà d'un des points du territoire japonais mentionnés ci-dessus ;
+
+-soit avec une compagnie sud-coréenne entre un point du territoire français et un point du territoire japonais au-delà de Séoul (Corée du Sud) ;
+
+-soit avec une compagnie chinoise entre un point du territoire français et un point du territoire japonais au-delà de Shanghai (Chine).
 
 Kazakhstan :
 
