@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510407
+
+- Question : [SEQ190510407](seq190510407.md) — Mesures à prendre suite aux refus d'appliquer la loi en matière de contrats d'obsèques
+
+## Réponse
+
+*Économie et finances, JO du 2019-07-04, page 3523*
+
+L'enquête relative au respect des dispositions de l'arrêté du 11 janvier 1999 relatif à l'information sur les prix des prestations funéraires, conduite par les services de la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) en 2018 (sur le fondement de l'article L. 112-1 du code de la consommation), a conclu à un taux d'anomalies de 66,9 %, c'est-à-dire que 66,9 % des établissements contrôlés ne respectaient pas une ou plusieurs prescriptions légales. Ce taux élevé d'anomalies recouvre une grande diversité d'infractions. On ne peut pas en déduire qu'une même obligation réglementaire ne serait pas respectée par deux établissements sur trois. Les suites données à ces infractions se sont traduites par des sanctions proportionnées à la gravité de l'infraction constatée, dans leur grande majorité des avertissements ou des injonctions, et peu d'amendes administratives, réservées aux cas les plus graves. Pour sécuriser le cadre légal existant, la DGCCRF a d'ores et déjà rappelé aux fédérations professionnelles du secteur les obligations auxquelles sont tenus leurs adhérents en matière d'information du consommateur. Par ailleurs, il a été décidé de confier au Conseil National de la Consommation le pilotage d'un groupe de travail sur les prestations funéraires et les modèles de devis, dont les travaux seront lancés le second semestre 2019, afin de favoriser l'appropriation par les professionnels des dispositions applicables. Les services de la DGCCRF demeurent vigilants, pour assurer le respect de la réglementation dans ce secteur particulier où le consommateur, affecté par un décès, se trouve dans une situation de vulnérabilité.
