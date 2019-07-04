@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la convention relative à la mise en place du Projet Educatif Territorial (PEdT) de la commune
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-07-04
+- Matière : EDUCATION
+- Objet : Approbation de la convention relative à la mise en place du Projet Educatif Territorial (PEdT) de la commune
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1OTEsInB1ciI6ImJsb2JfaWQifX0=--2722b0bb160b6eecb1b8ec97544496a5e371c45a/040719_30.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
