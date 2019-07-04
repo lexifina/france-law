@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Désignation de deux représentants du Conseil municipal au sein de l’association issue de la fusion entre ALPIRIM et TRAIT D’UNION
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-07-04
+- Matière : VIE SOCIALE
+- Objet : Désignation de deux représentants du Conseil municipal au sein de l’association issue de la fusion entre ALPIRIM et TRAIT D’UNION
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4ODMsInB1ciI6ImJsb2JfaWQifX0=--3f7d08f3bbf3185ac118afd789845635d0afcc83/040719_38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
