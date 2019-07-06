@@ -694,7 +694,7 @@ Var
 
 |
 
-La Garde-Freinet
+La Garde-Freinet (1)
 
 |
 
@@ -754,7 +754,7 @@ Var
 
 |
 
-La Môle
+La Môle (1)
 
 |
 
@@ -814,7 +814,7 @@ Var
 
 |
 
-Le Plan-de-la-Tour
+Le Plan-de-la-Tour (1)
 
 |
 
@@ -1355,18 +1355,6 @@ Vienne
 |
 
 Montamisé
-
-|
-
-86
-
-|
-
-Vienne
-
-|
-
-Poitiers
 
 |
 
@@ -3670,7 +3658,7 @@ Corse-du-Sud
 
 |
 
-Albitreccia
+Albitreccia (1)
 
 |
 
@@ -4186,7 +4174,7 @@ Corse-du-Sud
 
 |
 
-Grosseto-Prugna
+Grosseto-Prugna (1)
 
 |
 
@@ -4234,7 +4222,7 @@ Corse-du-Sud
 
 |
 
-Lecci
+Lecci (1)
 
 |
 
@@ -4510,7 +4498,7 @@ Corse-du-Sud
 
 |
 
-Pietrosella
+Pietrosella (1)
 
 |
 
@@ -7443,3 +7431,7 @@ Chisa
 |
 
 C Reste du territoire
+
+NOTA :
+
+(1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.

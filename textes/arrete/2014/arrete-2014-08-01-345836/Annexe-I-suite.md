@@ -6766,18 +6766,6 @@ Maine-et-Loire
 
 |
 
-Angers
-
-|
-
-49
-
-|
-
-Maine-et-Loire
-
-|
-
 Avrillé
 
 |
