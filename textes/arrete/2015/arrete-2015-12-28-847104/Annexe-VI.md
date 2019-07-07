@@ -32,6 +32,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Porte parole du directeur général de la gendarmerie nationale
 
+-Chargé de mission nouvelle politique de rémunération des militaires-retraites à la direction des personnels militaires de la gendarmerie nationale (1 emploi)
+
 -Au service de l'achat, des équipements et de la logistique de la sécurité intérieure, chef du :
 
 -bureau de l'administration des marchés
@@ -52,27 +54,19 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 2° A l'inspection générale de la gendarmerie nationale, le chef du :
 
--bureau du contrôle de l'environnement de la santé et de la sécurité au travail (jusqu'au 31 décembre 2018)
+-bureau de l'audit de la santé et la sécurité au travail
 
--bureau de l'audit de la santé et la sécurité au travail (à compter du 1er janvier 2019)
+-bureau de l'audit de la sécurité des systèmes d'information
 
--bureau du contrôle de la sécurité des systèmes d'information (jusqu'au 31 décembre 2018)
+-bureau déontologie, autorités administratives indépendantes
 
--bureau de l'audit de la sécurité des systèmes d'information (à compter du 1er janvier 2019)
+-bureau des signalements et des réclamations
 
--bureau contrôle et évaluation des fichiers (jusqu'au 31 décembre 2018)
-
--bureau de l'audit de la protection et la gouvernance des données (à compter du 1er janvier 2019)
-
--bureau déontologie, autorités administratives indépendantes (à compter du 1er janvier 2019)
-
--bureau des signalements et des réclamations (à compter du 1er janvier 2019)
-
--groupe des inspecteurs santé et sécurité au travail (à compter du 1er janvier 2019)
+-groupe des inspecteurs santé et sécurité au travail
 
 3° Gendarmerie départementale :
 
--Commandant d'un groupe d'intervention régional
+-Commandant d'un groupe interministériel de recherches
 
 -Commandant de la section de recherches en second :
 
@@ -80,7 +74,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Amiens
 
--d'Angers
+-d'Angers (jusqu'au 31 décembre 2019)
 
 -de Bordeaux
 
@@ -162,8 +156,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Bayeux
 
--de Bayonne
-
 -de Beaune
 
 -de Beauvais
@@ -234,7 +226,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Cherbourg-en-Cotentin
 
--de Chinonné
+-de Chinon
 
 -de Cholet
 
@@ -368,8 +360,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mamers
 
--de Mauléon-Licharre
-
 -de Mauriac
 
 -de Mayenne
@@ -404,7 +394,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Moulins
 
--de La Mure
+-de la Mure
 
 -de Neufchâteau
 
@@ -488,7 +478,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Roanne
 
--de La Rochelle
+-de la Rochelle
 
 -de Romorantin-Lanthenay
 
@@ -574,7 +564,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Valenciennes
 
--de La Valette-du-Var
+-de la Valette du Var
 
 -de Vendôme
 
@@ -618,7 +608,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Calvados
 
--de la Côte-d'Or
+-de Côte-d'Or
 
 -de l'Eure
 
@@ -634,7 +624,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Isère
 
--de la Loire-Atlantique
+-de Loire-Atlantique
 
 -du Loiret
 
@@ -656,9 +646,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Savoie
 
--de la Seine-et-Marne
+-de Seine-et-Marne
 
--de la Seine-Maritime
+-de Seine-Maritime
 
 -de la Somme
 
@@ -680,9 +670,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -aux systèmes d'information et de communication de la gendarmerie
 
--à la sécurité publique (jusqu'au 31 décembre 2018)
-
--à la sécurité du quotidien et au commandement (à compter du 1er janvier 2019)
+-à la sécurité du quotidien et au commandement
 
 -Commandant du centre de formation du corps de soutien technique et administratif de la gendarmerie nationale
 
@@ -712,7 +700,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 6° Outre-mer :
 
-Commandant de la compagnie de gendarmerie départementale :
+-Commandant de la compagnie de gendarmerie départementale :
 
 -d'Archipels-Papeete
 
@@ -764,7 +752,7 @@ Chef d'état-major du commandement la gendarmerie :
 
 -pour la Polynésie française
 
--de la Réunion
+-de La Réunion
 
 7° Autres emplois :
 
@@ -772,15 +760,13 @@ Chef d'état-major du commandement la gendarmerie :
 
 -Commandant du centre national de soutien logistique
 
--Chef du bureau budget emploi formation du commandement des réserves de la gendarmerie nationale
+-Chef de bureau au sein du commandement des réserves de la gendarmerie nationale (2 emplois)
 
--Chef du bureau des ressources humaines du commandement des réserves de la gendarmerie nationale
+-Au sein des forces aériennes de la gendarmerie nationale, le chef :
 
-Forces aériennes de la gendarmerie nationale :
+-de la division des opérations
 
--Chef de la division des opérations
-
--Chef de la division de l'appui opérationnel
+-de la division de l'appui opérationnel
 
 -Commandant d'un groupement des forces aériennes de gendarmerie
 
@@ -792,7 +778,7 @@ Forces aériennes de la gendarmerie nationale :
 
 -Directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
--Officier de liaison à la mission de lutte anti-drogue
+-Officier de liaison chargé de mission police de sécurité du quotidien et reconquête républicaine au secrétariat général du ministère de l'intérieur
 
 -Officier de liaison chargé de mission études statutaires à la mission de gouvernance ministérielle des ressources humaines du ministère de l'intérieur
 

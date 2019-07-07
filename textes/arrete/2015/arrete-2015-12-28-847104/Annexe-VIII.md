@@ -6,6 +6,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second de la section de recherches :
 
+-d'Angers (à compter du 1er janvier 2020)
+
 -de Besançon
 
 -de Bourges
@@ -23,6 +25,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Metz
 
 -de Nancy
+
+-de Nantes (à compter du 1er janvier 2020)
 
 -de Nîmes
 
@@ -116,7 +120,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Corrèze
 
--des Côtes-d'Armor
+-des Côtes d'Armor
 
 -de Côte-d'Or
 
@@ -128,7 +132,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Eure
 
--d'Eure-et-Loir
+-de l'Eure-et-Loir
 
 -du Finistère
 
@@ -162,15 +166,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Loire
 
--de la Loire-Atlantique
+-de Loire-Atlantique
 
 -du Loiret
 
--de Loir-et-Cher
+-du Loir-et-Cher
 
 -du Lot
 
--de Lot-et-Garonne
+-du Lot-et-Garonne
 
 -de Maine-et-Loire
 
@@ -206,9 +210,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Savoie
 
--de la Seine-et-Marne
+-de Seine-et-Marne
 
--de la Seine-Maritime
+-de Seine-Maritime
 
 -de la Somme
 
@@ -279,8 +283,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Bastia
 
 -de Bayeux
-
--de Bayonne
 
 -de Beaune
 
@@ -486,8 +488,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mamers
 
--de Mauléon-Licharre
-
 -de Mauriac
 
 -de Mayenne
@@ -522,7 +522,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Moulins
 
--de La Mure
+-de la Mure
 
 -de Neufchâteau
 
@@ -606,7 +606,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Roanne
 
--de La Rochelle
+-de la Rochelle
 
 -de Romorantin-Lanthenay
 
@@ -682,7 +682,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Toul
 
--de La Tour-du-Pin
+-de la Tour-du-Pin
 
 -de Tours
 
@@ -692,7 +692,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Valenciennes
 
--de La Valette-du-Var
+-de la Valette du Var
 
 -de Vendôme
 
@@ -760,7 +760,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant d'un peloton d'intervention outre-mer
 
--Commandant de l'escadron de cavalerie hors rang de la garde républicaine
+-Commandant du quatrième escadron du régiment de cavalerie de la garde républicaine
 
 -Commandant de la compagnie de soutien opérationnel de la garde républicaine
 
@@ -858,7 +858,7 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
--Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois
+-Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
 
 -Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 

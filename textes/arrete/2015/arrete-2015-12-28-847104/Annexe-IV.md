@@ -4,9 +4,11 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--Chargé de mission au cabinet du directeur général de la gendarmerie nationale (7 emplois)
+-Chargé de mission au cabinet du directeur général de la gendarmerie nationale (6 emplois)
 
 -Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (6 emplois)
+
+-Coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
 
 -Chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
 
@@ -60,19 +62,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
 
--Chargé de fonction à l'inspection générale de la gendarmerie nationale (2 emplois)
+-Chargé de fonction à l'inspection générale de la gendarmerie nationale (1 emploi)
 
--Chef du bureau des enquêtes judiciaires (à compter du 1er janvier 2019)
+-Chef du bureau :
+
+-des enquêtes administratives
+
+-des enquêtes judiciaires
 
 3° Gendarmerie départementale :
 
--Chef d'état-major de la région de gendarmerie d'Ile-de-France
+-Chef d'état-major de la région de gendarmerie d'Ile de France
 
 -Officier adjoint commandement d'une région de gendarmerie
 
 -Officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
 
--Officier adjoint territorial à la région de gendarmerie des Pays de la Loire, du Centre-Val de Loire, de Midi-Pyrénées et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+-Officier adjoint territorial à la région de gendarmerie de Pays-de-la-Loire, de Centre-Val-de-Loire, de Midi-Pyrénées et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
 
 -Commandant du groupement de gendarmerie départementale :
 
@@ -104,7 +110,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Tarn-et-Garonne
 
--du Territoire de Belfort
+-du Territoire-de-Belfort
 
 -Commandant en second du groupement de gendarmerie départementale :
 
@@ -196,6 +202,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
 
+-Adjoint au chef de la fonction retour d'expérience auprès du commandant des écoles de la gendarmerie nationale (1 emploi)
+
 -Conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
 
 -Officier de liaison auprès du secrétariat général de la mer (1 emploi)
@@ -215,6 +223,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Chargé de mission auprès de l'inspecteur des armements nucléaires
 
 -Chargé de mission auprès du directeur général de la sécurité intérieure (1 emploi)
+
+-Chef de la mission gendarmerie au sein de la direction de programme procédure pénale numérique
 
 -Chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
 

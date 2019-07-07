@@ -44,11 +44,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 2° Inspection générale de la gendarmerie nationale :
 
--Chargé de mission, conseiller technique/ particulier à l'inspection générale de la gendarmerie nationale (7 emplois jusqu'au 31 décembre 2018)
+-Inspecteur chargé d'études et de mission, conseiller technique/ particulier à l'inspection générale de la gendarmerie nationale (6 emplois)
 
--Inspecteur chargé d'études et de mission, conseiller technique/ particulier à l'inspection générale de la gendarmerie nationale (6 emplois à compter du 1er janvier 2019)
-
--Chef de la division du recueil et de l'analyse des signalements (à compter du 1er janvier 2019)
+-Chef de la division du recueil et de l'analyse des signalements
 
 3° Gendarmerie départementale :
 
@@ -82,7 +80,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Cher
 
--de la Corrèze
+-de Corrèze
 
 -des Côtes-d'Armor
 
@@ -106,7 +104,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Haute-Corse
 
--de la Haute-Saône
+-de la Haute Saône
 
 -de la Haute-Savoie
 
@@ -118,7 +116,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Landes
 
--de Loir-et-Cher
+-du Loir-et-Cher
 
 -de la Loire
 
@@ -146,7 +144,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Savoie
 
--de la Seine-et-Marne
+-de Seine-et-Marne
 
 -du Tarn
 
@@ -156,7 +154,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Vaucluse
 
--de la Vendée
+-de Vendée
 
 -des Vosges
 
@@ -170,7 +168,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Amiens
 
--d'Angers
+-d'Angers (jusqu'au 31 décembre 2019)
 
 -de Bordeaux
 
@@ -246,6 +244,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second du soutien opérationnel de la gendarmerie nationale
 
+-Chef de la fonction retour d'expérience auprès du commandant des écoles de la gendarmerie nationale
+
 -Directeur adjoint du commandement spécialisé pour la sécurité nucléaire
 
 -Chargé de mission action territoriale auprès de l'agence nationale de la sécurité des systèmes d'information (1 emploi)
@@ -269,8 +269,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Adjoint gendarmerie et conseiller sécurité intérieure du chef du cabinet militaire du ministre des armées
 
 -Officier de liaison auprès du préfet chargé de la lutte contre la cyber-criminalité (1 emploi)
-
--Chargé de mission gendarmerie auprès du secrétariat général du ministère de l'intérieur
 
 -Coordonnateur national de la protection
 

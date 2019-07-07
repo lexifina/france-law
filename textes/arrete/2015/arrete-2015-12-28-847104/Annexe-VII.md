@@ -1,407 +1,423 @@
 # Article Annexe VII
 
-LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION
-
-ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE VII
+LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE VII
 
 1° Administration centrale :
 
-– Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (7 emplois)
+-Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (7 emplois)
 
-– Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
+-Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
 
-– Chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (1 emploi)
+-Chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (1 emploi)
 
-– Chef du service de diffusion de la gendarmerie
+-Chef du service de diffusion de la gendarmerie
 
 2° Inspection générale de la gendarmerie nationale :
 
-– Chef de cabinet (à compter du 1er janvier 2019)
+-Chef de cabinet
 
 3° Gendarmerie départementale :
 
-– Commandant de la compagnie fluviale de gendarmerie de Strasbourg
+-Commandant de la compagnie fluviale de gendarmerie de Strasbourg
 
-– Commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
-– d'Aix-en-Provence
+-d'Aix-en-Provence
 
-– d'Alès
+-d'Alès
 
-– d'Angers
+-d'Angers
 
-– d'Annecy
+-d'Annecy
 
-– de L'Arbresle
+-de l'Arbresle
 
-– d'Arles
+-d'Arles
 
-– d'Arras
+-d'Arras
 
-– d'Aubagne
+-d'Aubagne
 
-– d'Auxerre
+-d'Auxerre
 
-– d'Avesnes-sur-Helpe
+-d'Avesnes-sur-Helpe
 
-– d'Avignon
+-d'Avignon
 
-– de Besançon
+-de Bayonne
 
-– de Béziers
+-de Besançon
 
-– de Bonneville
+-de Béziers
 
-– de Bouliac
+-de Bonneville
 
-– de Bourg-en-Bresse
+-de Bouliac
 
-– de Bourgoin-Jallieu
+-de Bourg-en-Bresse
 
-– de Brignoles
+-de Bourgoin-Jallieu
 
-– de Brive-la-Gaillarde
+-de Brignoles
 
-– de Bron
+-de Brive-la-Gaillarde
 
-– de Caen
+-de Bron
 
-– de Calais
+-de Caen
 
-– de Cambrai
+-de Calais
 
-– de Cannes
+-de Cambrai
 
-– de Carcassonne
+-de Cannes
 
-– de Castelnau-le-Lez
+-de Carcassonne
 
-– de Castres
+-de Castelnau-le-Lez
 
-– de Chambéry
+-de Castres
 
-– de Chantilly
+-de Chambéry
 
-– de Château-Gontier
+-de Chantilly
 
-– de Colmar
+-de Château-Gontier
 
-– de Commercy
+-de Colmar
 
-– de Compiègne
+-de Commercy
 
-– de Coulommiers
+-de Compiègne
 
-– de Crest
+-de Coulommiers
 
-– de Dax
+-de Crest
 
-– de Douai
+-de Dax
 
-– de Draguignan
+-de Douai
 
-– d'Etampes
+-de Draguignan
 
-– d'Evry
+-d'Etampes
 
-– de La Flèche
+-d'Evry
 
-– de Gex
+-de la Flèche
 
-– de Givors
+-de Gex
 
-– de Grenoble
+-de Givors
 
-– de L'Isle-Adam
+-de Grenoble
 
-– de Langon-Toulenne
+-de l'Isle-Adam
 
-– de Libourne
+-de Langon-Toulenne
 
-– de Lille
+-de Libourne
 
-– de Lorient
+-de Lille
 
-– de Lunel
+-de Lorient
 
-– de Lure
+-de Lunel
 
-– de Lyon
+-de Lure
 
-– du Mans
+-de Lyon
 
-– de Mantes-la-Jolie
+-du Mans
 
-– de Marmande
+-de Mantes-la-Jolie
 
-– de Meaux
+-de Marmande
 
-– de Mérignac
+-de Meaux
 
-– de Méru
+-de Mérignac
 
-– de Metz
+-de Méru
 
-– de Meylan
+-de Metz
 
-– de Montbéliard
+-de Meylan
 
-– de Montbrison
+-de Montbéliard
 
-– de Montmorency
+-de Montbrison
 
-– de Mulhouse
+-de Montmorency
 
-– de Muret
+-de Mulhouse
 
-– de Nancy
+-de Muret
 
-– de Nantes
+-de Nancy
 
-– de Narbonne
+-de Nantes
 
-– de Nîmes
+-de Narbonne
 
-– de Niort
+-de Nîmes
 
-– d'Orléans
+-de Niort
 
-– de Palaiseau
+-d'Orléans
 
-– de Perpignan
+-de Palaiseau
 
-– de Pertuis
+-de Perpignan
 
-– de Pézenas
+-de Pertuis
 
-– de Rambouillet
+-de Pézenas
 
-– de Remiremont
+-de Rambouillet
 
-– de Rennes
+-de Remiremont
 
-– de Rezé
+-de Rennes
 
-– de La Roche-sur-Yon
+-de Rezé
 
-– de Rochefort
+-de la Roche-sur-Yon
 
-– de Rodez
+-de Rochefort
 
-– de Romans-sur-Isère
+-de Rodez
 
-– des Sables-d'Olonne
+-de Romans-sur-Isère
 
-– de Saint-Brieuc
+-des Sables-d'Olonne
 
-– de Saint-Germain-en-Laye
+-de Saint-Brieuc
 
-– de Saint-Nazaire
+-de Saint-Germain-en-Laye
 
-– de Salon-de-Provence
+-de Saint-Nazaire
 
-– de Senlis
+-de Salon-de-Provence
 
-– de Sens
+-de Senlis
 
-– de Soultz-Guebwiller
+-de Sens
 
-– de Strasbourg
+-de Soultz-Guebwiller
 
-– de Thionville
+-de Strasbourg
 
-– de Toulouse-Mirail
+-de Thionville
 
-– de Toulouse-Saint-Michel
+-de Toulouse-Mirail
 
-– de Tournon-sur-Rhône
+-de Toulouse-Saint-Michel
 
-– de Trévoux
+-de Tournon-sur-Rhône
 
-– de Vannes
+-de Trévoux
 
-– du Vauvert
+-de Vannes
 
-– de Vesoul
+-du Vauvert
 
-– de Vienne
+-de Vesoul
 
-– de Villefranche-de-Lauragais
+-de Vienne
 
-– de Villefranche-sur-Saône
+-de Villefranche-de-Lauragais
 
-– de Vitré
+-de Villefranche-sur-Saône
 
-– Commandant de la section de recherches :
+-de Vitré
 
-– de Bourges
+-Commandant de la section de recherches de Bourges
 
-– Commandant de l'escadron départemental de sécurité routière :
+-Commandant de l'escadron départemental de sécurité routière :
 
-– de l'Allier
+-de l'Allier
 
-– de l'Aube
+-de l'Aube
 
-– de l'Aude
+-de l'Aude
 
-– de la Charente-Maritime
+-de la Charente-Maritime
 
-– du Cher
+-du Cher
 
-– de la Corrèze
+-de la Corrèze
 
-– des Côtes-d'Armor
+-des Côtes-d'Armor
 
-– de la Dordogne
+-de la Dordogne
 
-– du Doubs
+-du Doubs
 
-– de la Drôme
+-de la Drôme
 
-– d'Eure-et-Loir
+-d'Eure-et-Loir
 
-– du Finistère
+-du Finistère
 
-– du Gard
+-du Gard
 
-– du Haut-Rhin
+-du Haut-Rhin
 
-– de la Haute-Marne
+-de la Haute-Marne
 
-– de la Haute-Vienne
+-de la Haute-Vienne
 
-– d'Ille-et-Vilaine
+-d'Ille-et-Vilaine
 
-– de l'Indre
+-de l'Indre
 
-– du Jura
+-du Jura
 
-– des Landes
+-des Landes
 
-– de Loir-et-Cher
+-de Loir-et-Cher
 
-– de la Loire
+-de la Loire
 
-– du Lot
+-du Lot
 
-– de Lot-et-Garonne
+-de Lot-et-Garonne
 
-– de la Manche
+-de la Manche
 
-– de Meurthe-et-Moselle
+-de Meurthe-et-Moselle
 
-– du Morbihan
+-du Morbihan
 
-– de l'Orne
+-de l'Orne
 
-– des Pyrénées-Atlantiques
+-des Pyrénées-Atlantiques
 
-– des Pyrénées-Orientales
+-des Pyrénées-Orientales
 
-– du Rhône
+-du Rhône
 
-– de Saône-et-Loire
+-de Saône-et-Loire
 
-– de Vaucluse
+-de Vaucluse
 
-– de la Vendée
+-de la Vendée
 
-– de la Vienne
+-de la Vienne
 
-– de l'Yonne
+-de l'Yonne
 
-– des Yvelines
+-des Yvelines
 
-– Commandant de brigade interdépartementale de renseignements et d'investigations judiciaires de la région de gendarmerie d'Ile-de-France
+-Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
 
-– Commandant d'un peloton de gendarmerie de haute montagne
+-Commandant de brigade interdépartementale de renseignements et d'investigations judiciaires de la région de gendarmerie d'Ile-de-France
 
-– Commandant d'une section d'appui judiciaire
+-de Nouvelle-Aquitaine
 
-– Chef d'un service départemental du renseignement territorial
+-de Bretagne
 
-– Commandant d'un peloton spécialisé de protection de la gendarmerie
+-de Corse
 
-– Commandant d'un peloton spécial de sécurité
+-d'Ile-de-France
 
-4° Gendarmerie mobileb – Garde républicaine :
+-de Grand Est
 
-– Commandant en second d'un groupement de gendarmerie mobile
+-d'Occitanie
 
-– Commandant d'un escadron de gendarmerie mobile
+-des Hauts-de-France
 
-– Commandant en second d'un régiment de la garde républicaine
+-de Provence-Alpes-Côte d'Azur
 
-– Commandant de la compagnie de sécurité et d'honneur :
+-d'Auvergne-Rhône-Alpes
 
-– 1/1 du premier régiment d'infanterie
+-Commandant de la section d'appui judiciaire située au chef-lieu du groupement de gendarmerie ayant le statut de formation administrative de l'Hérault
 
-– 2/1 du premier régiment d'infanterie
+-Commandant d'un peloton de gendarmerie de haute montagne-Chef d'un service départemental du renseignement territorial
 
-– 3/1 du premier régiment d'infanterie
+-Commandant d'un peloton spécialisé de protection de la gendarmerie
 
-– 1/2 du deuxième régiment d'infanterie
+-Commandant d'un peloton spécial de sécurité
 
-– 2/2 du deuxième régiment d'infanterie
+4° Gendarmerie mobile-Garde républicaine :
 
-– 3/2 du deuxième régiment d'infanterie
+-Commandant en second d'un groupement de gendarmerie mobile
 
-– 4/2 du deuxième régiment d'infanterie
+-Commandant d'un escadron de gendarmerie mobile
 
-– Commandant de la compagnie de sécurité et d'intervention du premier régiment d'infanterie
+-Commandant en second d'un régiment de la garde républicaine
 
-– Commandant de la compagnie de sécurité :
+-Commandant de la compagnie de sécurité et d'honneur :
 
-– de la présidence de la République
+-1/1 du premier régiment d'infanterie
 
-– de l'hôtel Matignon
+-2/1 du premier régiment d'infanterie
 
-– des palais nationaux
+-3/1 du premier régiment d'infanterie
 
-– Commandant de l'escadron motocycliste de la garde républicaine
+-1/2 du deuxième régiment d'infanterie
 
-– Commandant du premier escadron du régiment de cavalerie de la garde républicaine
+-2/2 du deuxième régiment d'infanterie
 
-– Commandant du deuxième escadron du régiment de cavalerie de la garde républicaine
+-3/2 du deuxième régiment d'infanterie
 
-– Commandant du troisième escadron du régiment de cavalerie de la garde républicaine
+-4/2 du deuxième régiment d'infanterie
 
-– Commandant du centre d'instruction de cavalerie de la garde républicaine
+-Commandant de la compagnie de sécurité et d'intervention du premier régiment d'infanterie
 
-5° Outre-mer :
+-Commandant de la compagnie de sécurité :
 
-– Commandant de la section de recherches :
+-de la présidence de la République
 
-– de Nouméa
+-de l'hôtel Matignon
 
-– de Pamandzi
+-des palais nationaux
 
-– de Papeete
+-Commandant de l'escadron motocycliste de la garde républicaine
 
-– Commandant en second de la compagnie de gendarmerie départementale :
+-Commandant du premier escadron du régiment de cavalerie de la garde républicaine
 
-– de Saint-Paul
+-Commandant du deuxième escadron du régiment de cavalerie de la garde républicaine
 
-– de Saint-Pierre
+-Commandant du troisième escadron du régiment de cavalerie de la garde républicaine
 
-– Chef d'état-major du commandement de la gendarmerie pour Saint-Pierre-et-Miquelon
+-Commandant du centre d'instruction de cavalerie de la garde républicaine
+
+5° Outre mer :
+
+Commandant de la section de recherches :
+
+-de Nouméa
+
+-de Pamandzi
+
+-de Papeete
+
+Commandant en second de la compagnie de gendarmerie départementale :
+
+-de Saint-Paul
+
+-de Saint-Pierre
+
+Chef d'état-major du commandement de la gendarmerie pour Saint Pierre et Miquelon
 
 6° Gendarmeries spécialisées :
 
-– Commandant d'un patrouilleur de la gendarmerie maritime
+-Commandant d'un patrouilleur de la gendarmerie maritime
 
-– Commandant de la section de recherches de la gendarmerie de l'armement
+-Commandant de la section de recherches de la gendarmerie de l'armement
 
-– Commandant du groupe de protection de la gendarmerie de l'armement
+-Commandant du groupe de protection de la gendarmerie de l'armement
 
 7° Autres emplois :
 
-– Chef du centre de soutien automobile de la gendarmerie de Satory
+-Chef du centre de soutien automobile de la gendarmerie de Satory
 
-– Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
+-Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
 
-– Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
+-Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
 
-– Commandant de la gendarmerie des voies navigables
+-Commandant de la gendarmerie des voies navigables
 
-– Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française
+-Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française

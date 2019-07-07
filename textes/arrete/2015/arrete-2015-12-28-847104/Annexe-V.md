@@ -60,13 +60,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -chef du centre d'analyse et d'exploitation
 
+-Coordonnateur santé et sécurité au travail
+
+-Chargé de fonction à la mission numérique de la gendarmerie nationale
+
 -Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
 -Chef d'une division à la direction de la coopération internationale
 
 -Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
-
--Chargé de fonction à la mission numérique de la gendarmerie nationale
 
 -Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
@@ -82,11 +84,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef du bureau :
 
--d'audit financier administratif et technique
+-d'audit financier, administratif et technique
 
--des enquêtes administratives
-
--des enquêtes judiciaires (jusqu'au 31 décembre 2018)
+-de l'audit, de la protection et la gouvernance des données
 
 3° Gendarmerie départementale :
 
@@ -98,17 +98,17 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Bretagne
 
--de Centre-Val de Loire
+-de Centre-Val-de-Loire
 
 -de Corse
 
--d'Ile-de-France
+-d'Ile de France
 
 -de Lorraine
 
 -du Nord-Pas-de-Calais
 
--de Provence-Alpes-Côte d'Azur
+-de Provence-Alpes-Côte-d'Azur
 
 -de Rhône-Alpes
 
@@ -128,7 +128,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Vienne
 
--Commandant en second du groupement de gendarmerie départementale :
+-Commandant en second du groupement de gendarmerie départementale
 
 -de l'Ain
 
@@ -234,7 +234,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Nièvre
 
--de l'Orne
+-de la Orne
 
 -des Pyrénées-Atlantiques
 
@@ -246,7 +246,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Savoie
 
--de la Seine-et-Marne
+-de Seine-et-Marne
 
 -du Tarn
 
@@ -291,6 +291,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -d'Avesnes-sur-Helpe
 
 -d'Avignon
+
+-de Bayonne
 
 -de Besançon
 
@@ -350,7 +352,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Evry
 
--de La Flèche
+-de la Flèche
 
 -de Gex
 
@@ -358,7 +360,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Grenoble
 
--de L'Isle-Adam
+-de l'Isle-Adam
 
 -de Langon-Toulenne
 
@@ -428,7 +430,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Rezé
 
--de La Roche-sur-Yon
+-de la Roche-sur-Yon
 
 -de Rochefort
 
@@ -480,6 +482,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant de la section de recherches :
 
+-d'Angers (à compter du 1er janvier 2020)
+
 -de Besançon
 
 -de Caen
@@ -495,6 +499,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Metz
 
 -de Nancy
+
+-de Nantes (à compter du 1er janvier 2020)
 
 -de Nîmes
 
@@ -565,6 +571,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Chef du centre national d'administration de la solde gendarmerie
 
 -Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+
+-Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
 
 -Officier de liaison auprès de l'association des maires de France
 
