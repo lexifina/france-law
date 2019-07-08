@@ -834,12 +834,6 @@ Guyane |
 
 Réservé aux compagnies de transport aérien et aux aéronefs et pilotes satisfaisant aux conditions de restriction publiées par la voie de l'information aéronautique. |
 
-Renneville |
-
-Haute-Garonne |
-
-Hélistation réservée aux hélicoptères basés en Midi-Pyrénées et à ceux venant à l'atelier d'entretien. |
-
 Rethel-Perthes |
 
 Ardennes |
