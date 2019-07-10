@@ -1,0 +1,70 @@
+# Règlement du budget 2019
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39596
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reglement_comptes_2019
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-505.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-05-02 : 1er dépôt d'une initiative. (PRJLANR5L15B2899)
+  - 2020-05-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-02 : Renvoi en commission au fond
+      - 2019-07-10 : Nomination de rapporteur
+      - 2020-05-05 : Réunion de commission
+      - 2020-05-27 : Réunion de commission
+      - 2020-05-27 : Dépôt de rapport (RAPPANR5L15B3011)
+  - Discussion en séance publique
+    - 2020-06-10 : Discussion en séance publique
+    - 2020-06-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-06-11 : Dépôt d'une initiative en navette (PRJLSNR5S339B0505)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-11 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-06-17 : Dépôt de rapport (RAPPSNR5S339B0528)
+  - Discussion en séance publique
+    - 2020-07-08 : Discussion en séance publique
+    - 2020-07-08 : Décision
+- Commission Mixte Paritaire
+  - 2020-07-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-07-09 : Nomination de rapporteur
+    - 2020-07-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B3194)
+    - 2020-07-09 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0615, PRJLSNR5S339BTC0616)
+  - 2020-07-09 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-07-09 : Dépôt d'une initiative en navette (PRJLANR5L15B3192)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-09 : Renvoi en commission au fond
+      - 2020-07-10 : Réunion de commission
+      - 2020-07-10 : Dépôt de rapport (RAPPANR5L15B3198)
+  - Discussion en séance publique
+    - 2020-07-16 : Décision
+- Nouvelle Lecture
+  - 2020-07-17 : Dépôt d'une initiative en navette (PRJLSNR5S339B0653)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-17 : Renvoi en commission au fond
+      - 2020-07-22 : Dépôt de rapport (RAPPSNR5S339B0665)
+  - Discussion en séance publique
+    - 2020-07-22 : Discussion en séance publique
+    - 2020-07-22 : Décision
+- Lecture définitive
+  - 2020-07-23 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0462)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-23 : Renvoi en commission au fond
+      - 2020-07-23 : Réunion de commission
+      - 2020-07-23 : Dépôt de rapport (RAPPANR5L15B3249)
+  - Discussion en séance publique
+    - 2020-07-23 : Discussion en séance publique
+    - 2020-07-23 : Décision
+- Promulgation de la loi
+  - 2020-07-30 : Promulgation d'une loi
