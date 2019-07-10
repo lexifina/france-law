@@ -3500,6 +3500,16 @@ Dispositif transdermique
 
 |
 
+Nifuroxazide |
+
+Voie orale |
+
+|
+
+0,2 g soit 200 mg |
+
+2,4 |
+
 Nitroglycérine
 
 |
@@ -4733,3 +4743,5 @@ Toutes formes
 NOTA :
 
 Conseil d'Etat, décision n° 397644 du 31 mars 2017 (ECLI:FR:CECHR:2017:397644.20170331), Art. 1 : L’arrêté du 8 septembre 2015 modifiant l’arrêté du 22 février 1990 portant exonération à la réglementation des substances vénéneuses destinées à la médecine humaine est annulé en tant qu’il n’a pas fixé à 2 milligrammes le seuil en deçà duquel les produits contenant de la mélatonine sont dispensés de l’application des dispositions des articles R. 5132-1 à R. 5132-26 du code de la santé publique.
+
+Au deuxième alinéa de l'article 1 et à l’article 2 de l’arrêté du 4 juillet 2019, le mot nifuroxazine est remplacé par le mot nifuroxazide .
