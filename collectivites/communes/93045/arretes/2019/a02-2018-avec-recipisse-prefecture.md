@@ -1,0 +1,11 @@
+# Les Lilas : arrêté a02-2018-avec-recipisse-prefecture. — a02-2018-avec-recipisse-prefecture..pdf
+
+- Collectivité : Les Lilas
+- SIREN : 219300456
+- Code INSEE : 93045
+- Date : 2019-07-10 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : a02-2018-avec-recipisse-prefecture..pdf
+- Pages : 2
+- Acte publié : https://static.data.gouv.fr/resources/arretes-du-maire-2018-daj/20190710-104541/arrete-2018-3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5d25a5ab634f4141c574f496
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
