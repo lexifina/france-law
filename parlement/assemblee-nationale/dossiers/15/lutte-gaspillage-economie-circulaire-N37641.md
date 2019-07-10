@@ -1,0 +1,89 @@
+# Lutte contre le gaspillage et économie circulaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37641
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_gaspillage_economie_circulaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-660.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-07-10 : 1er dépôt d'une initiative. (PRJLSNR5S319B0660)
+  - 2019-07-10 : Etude d'impact (ETDISNR5S319B0660)
+  - 2019-07-10 : Avis du Conseil d'Etat (AVCESNR5S319B0660)
+  - 2019-07-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-10 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-09-17 : Dépôt de rapport (RAPPSNR5S319B0727)
+    - Travaux d'une commission saisie pour avis
+      - 2019-07-17 : Saisine pour avis d'une commission
+      - Nomination de rapporteur
+      - 2019-09-17 : Dépôt de rapport (AVISSNR5S319B0726)
+  - Discussion en séance publique
+    - 2019-09-24 : Discussion en séance publique
+    - 2019-09-25 : Discussion en séance publique
+    - 2019-09-26 : Discussion en séance publique
+    - 2019-09-27 : Discussion en séance publique
+    - 2019-09-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-09-30 : Dépôt d'une initiative en navette (PRJLANR5L15B2274)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-09-30 : Renvoi en commission au fond
+      - 2019-09-18 : Nomination de rapporteur
+      - 2019-11-20 : Réunion de commission
+      - 2019-11-25 : Réunion de commission
+      - 2019-11-26 : Réunion de commission
+      - 2019-11-26 : Réunion de commission
+      - 2019-11-27 : Réunion de commission
+      - 2019-11-27 : Réunion de commission
+      - 2019-11-27 : Réunion de commission
+      - 2019-11-28 : Réunion de commission
+      - 2019-11-28 : Réunion de commission
+      - 2019-11-28 : Réunion de commission
+      - 2019-11-29 : Réunion de commission
+      - 2019-12-09 : Réunion de commission
+      - 2019-12-13 : Réunion de commission
+      - 2019-12-18 : Réunion de commission
+      - 2019-11-29 : Dépôt de rapport (RAPPANR5L15B2454, PRJLANR5L15BTC2454)
+    - Travaux d'une commission saisie pour avis
+      - 2019-10-15 : Saisine pour avis d'une commission
+      - 2019-10-09 : Nomination de rapporteur
+      - 2019-11-19 : Réunion de commission
+      - 2019-11-19 : Réunion de commission
+  - Discussion en séance publique
+    - 2019-12-09 : Discussion en séance publique
+    - 2019-12-09 : Discussion en séance publique
+    - 2019-12-10 : Discussion en séance publique
+    - 2019-12-10 : Discussion en séance publique
+    - 2019-12-11 : Discussion en séance publique
+    - 2019-12-11 : Discussion en séance publique
+    - 2019-12-13 : Discussion en séance publique
+    - 2019-12-13 : Discussion en séance publique
+    - 2019-12-13 : Discussion en séance publique
+    - 2019-12-18 : Discussion en séance publique
+    - 2019-12-18 : Discussion en séance publique
+    - 2019-12-19 : Discussion en séance publique
+    - 2019-12-19 : Discussion en séance publique
+    - 2019-12-19 : Discussion en séance publique
+    - 2019-12-19 : Décision
+- Commission Mixte Paritaire
+  - 2019-12-23 : Dépôt d'un projet de loi (PRJLSNR5S339B0218)
+  - 2019-12-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-01-08 : Nomination de rapporteur
+    - 2020-01-08 : Dépôt du rapport d'une CMP (RAPPANR5L15B2553, PRJLANR5L15BTC2553)
+    - 2020-01-08 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0230, PRJLSNR5S339BTC0231)
+  - Discussion en séance publique
+    - 2020-01-21 : Discussion en séance publique
+    - 2020-01-21 : Décision
+  - Discussion en séance publique
+    - 2020-01-30 : Décision
+  - 2020-01-09 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-02-10 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-09-30 : Rapport sur l'application des lois (RINFANR5L15B3386)
