@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208758
+
+- Question : [SEQ190208758](seq190208758.md) — Situation des établissements de santé réunionnais
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-07-11, page 3731*
+
+La ministre des solidarités et de la santé est très attentive à la question de l'accès aux soins des populations résidant à la Réunion et dans les départements et territoires d'Outre-mer. À ce titre, les établissements de santé concourant à la prise en charge des populations sur ces territoires bénéficient d'une majoration importante de leur financement au travers notamment de l'application d'un coefficient géographique qui intègre de manière étendue les surcoûts spécifiques aux Outre-mer. Il est fixé à 31 % pour la Réunion, niveau le plus élevé parmi les zones géographiques qui en bénéficient. S'ajoutent également l'éligibilité aux missions d'intérêt général (auxquelles s'applique ce coefficient) et un soutien important, soit au travers d'aides en trésorerie, soit par le financement de projets d'investissement. Le Centre hospitalier universitaire de Saint-Denis a ainsi reçu un avis favorable en janvier 2018 pour son projet d'investissement et bénéficiera d'une aide nationale de 40 millions d'euros, sous réserve du respect des recommandations faites par le Comité interministériel de performance et de la modernisation de l'offre de soins. Enfin, l'un des chantiers majeurs de la stratégie de transformation du système de santé consiste à revoir l'ensemble des modalités de financement des acteurs et d'engager une réforme de la tarification hospitalière. Pour amorcer ces évolutions, une mission dédiée a été confiée à Jean-Marc Aubert en 2018. Cette mission a rendu son rapport fin janvier 2019. Celui-ci contient des propositions pour faire évoluer les modalités de financement des établissements de santé et notamment celles des établissements ultra-marins. Ces propositions sont en cours d'examen et de concertation.
