@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410067
+
+- Question : [SEQ190410067](seq190410067.md) — Rendre obligatoire la participation aux cérémonies de naturalisation
+
+## Réponse
+
+*Intérieur, JO du 2019-07-11, page 3723*
+
+Les cérémonies d'accueil dans la citoyenneté française sont régies par les articles 21-28 et 21-29 du code civil qui mentionnent le caractère obligatoire de leur organisation. Toutes les personnes acquérant la nationalité française, à l'exception de celles ayant souscrit une déclaration sur le fondement de l'article 21-13 du code civil (personne jouissant de la possession d'état de Français), doivent ainsi être conviées à une cérémonie d'accueil dans la citoyenneté française par le représentant de l'État dans le département ou par le maire, en sa qualité d'officier d'état civil, si le préfet répond favorablement à sa demande d'autorisation d'organiser la cérémonie (articles 21-28 et 21-29 du code civil). Le législateur a ainsi voulu solenniser l'acquisition de la nationalité française, qui ne se réduit pas à une démarche administrative et représente un choix de vie important pour nos nouveaux concitoyens. Si la possibilité offerte au récipiendaire d'obtenir ses titres d'identité avant la cérémonie peut avoir, localement, une incidence sur le taux de présence aux cérémonies d'accueil, les plateformes de naturalisation et les préfectures organisatrices de ces cérémonies s'accordent cependant pour souligner l'attachement des participants au caractère symbolique de cet évènement. Le ministre de l'intérieur exerce, à cet égard, une surveillance attentive du taux de présence aux cérémonies d'accueil dans la citoyenneté française, qui reste élevé dans la très grande majorité des préfectures. Dans ces conditions, il n'est pas envisagé de rendre obligatoire la participation des récipiendaires de la nationalité française à ces cérémonies.
