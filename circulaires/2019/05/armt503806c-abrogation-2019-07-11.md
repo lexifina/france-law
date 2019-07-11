@@ -1,0 +1,137 @@
+# CIRCULAIRE N° 503806/ARM/RH-AT/SDR/BC/RDT relative aux concours des chefs de musique de 2e classe dans les armées en 2020, épreuves d’admissibilité et d’admission, modalités d’inscription, modalités et procédures d’intégration, programmes.
+
+- État : abrogée (au 2019-07-11)
+- NOR : ARMT503806C
+- Numéro : 503806
+- Date de signature : 2019-05-15
+- Mise en ligne : 2019-07-08
+- Auteur : Direction des ressources humaines de l'armée de terre
+- Signataire : sous-directeur du recrutement, Benoît CHAVANAT.
+- Destinataires : Direction des ressources humaines de l'armée de terre
+- Ministères : 79
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles
+- Mots-clés : Défense, anciens combattants
+- Publication JO / BO : BOC n°93 du 11/6/2019
+- Remplace : Circulaire N° 503806/ARM/RH-AT/SDR/BC/RDT du 13 juin 2018 relative aux concours des chefs de musique de 2e classe dans les armées en 2019, épreuves
+d'admissibilité et d'admission, modalités d'inscription, modalités et procédures d'intégration, programmes.
+- Annexes : 0
+- Identifiant : 44791 (PDF officiel : pdf/2019/07/cir_44791.pdf)
+
+## Résumé
+
+CIRCULAIRE relative aux concours des chefs de musique de 2e classe dans les armées en 2020, épreuves d’admissibilité et d’admission, modalités d’inscription, modalités et procédures d’intégration, programmes.
+
+## Texte
+
+Certifié conforme à l'original produit
+BULLETIN OFFICIEL DES ARMÉES
+Édition Chronologique n° 93 du 11 juin 2019
+TEXTE RÉGLEMENTAIRE TEMPORAIRE 
+Texte 5 
+CIRCULAIRE N° 503806/ARM/RH-AT/SDR/BC/RDT
+relative aux concours des chefs de musique de 2e classe dans les armées en 2020, épreuves d’admissibilité et d’admission, modalités d’inscription, modalités et procédures
+d’intégration, programmes.
+Du 15 mai 2019
+
+DIRECTION DES RESSOURCES HUMAINES DE L'ARMÉE DE TERRE :
+Sous-direction recrutement ; Bureau concours
+CIRCULAIRE N° 503806/ARM/RH-AT/SDR/BC/RDT relative aux concours des chefs de musique de 2e
+classe dans les armées en 2020, épreuves d’admissibilité et d’admission, modalités d’inscription,
+modalités et procédures d’intégration, programmes.
+Du 15 mai 2019
+NOR A R M T 1 9 5 4 0 5 8 C
+Référence(s) :
+Texte(s) abrogé(s) :
+Référence de publication :
+Préambule
+En 2020, sont organisés, au titre des a) et b) du point 1. de l’article 4. du décret n° 2008-931 précité du 12 septembre 2008 modiﬁé, portant statuts particuliers des
+corps des chefs de musique et des sous-chefs de musique dans les armées et la gendarmerie nationale, un concours visant au recrutement interne et un concours
+visant au recrutement externe des chefs de musique dans les armées.
+Les épreuves, communes aux deux concours, sont organisées par le bureau concours de la sous-direction du recrutement de la direction des ressources humaines
+de l'armée de terre (DRHAT/SDR/BC).
+Les conditions de candidature, la nature et le programme des épreuves sont détaillés dans le décret de première référence et dans l’arrêté de troisième référence,
+notamment dans son annexe III.
+1. DATES ET LIEUX DES CONCOURS SUR ÉPREUVES.
+1.1. Épreuves d’admissibilité.
+1.1.1. Détail des épreuves.
+Le détail des épreuves est explicité dans l’annexe III. de l’arrêté de troisième référence.
+Les annales sont disponibles à l’adresse suivante :
+https://www.facebook.com/commaterre/
+1.1.2. Déroulement.
+Les épreuves d'admissibilité se déroulent du 13 au 17 janvier 2020 inclus au commandement des musiques de l’armée de terre (COMMAT), quartier Joffre Drouot à
+Versailles (quartier Satory), dans l’ordre suivant :
+L’ordre des épreuves et leurs horaires sont indicatifs et susceptibles d’être modifiés pour tenir compte des circonstances.
+Les candidats doivent obligatoirement détenir et présenter une pièce d’identité officielle en cours de validité.
+L’entrée en salle d’épreuve s’effectue une demi-heure avant le début de l’épreuve.
+Les résultats de l'admissibilité sont diffusés en semaine 5/2020, sur le site internet suivant : http://www.recrutement.terre.defense.gouv.fr/.
+1.1.3. Divers.
+L’alimentation et l’hébergement sont à la charge des candidats.
+Décret N° 2008-931 du 12 septembre 2008 portant statuts particuliers des corps des chefs de musique et des sous-chefs de musique dans les armées et la
+gendarmerie nationale.
+
+Arrêté du 20 décembre 2012 relatif à la détermination et au contrôle de l'aptitude médicale à servir du personnel militaire.
+
+Arrêté du 30 janvier 2018 fixant les conditions et les modalités de recrutement des chefs de musique dans les armées.
+
+Instruction N° 1700/DEF/DCSSA/PC/MA du 31 juillet 2014 relative à la détermination et au contrôle de l'aptitude médicale à servir du personnel militaire.
+
+Circulaire N° 503806/ARM/RH-AT/SDR/BC/RDT du 13 juin 2018 relative aux concours des chefs de musique de 2e classe dans les armées en 2019, épreuves
+d'admissibilité et d'admission, modalités d'inscription, modalités et procédures d'intégration, programmes.
+
+1 jour : culture générale (durée : 4h.) ; début de l’épreuve : 13h30 ;
+er
+2 jour : 1 partie de l’épreuve d’écriture musicale : harmonisation et écriture en style fugué d’une basse donnée (durée : 9h.) ; début de l’épreuve : 8h45 ;
+e
+re
+3 jour : 2 partie de l’épreuve d’écriture musicale : harmonisation d’un chant donné et d’un choral (durée : 10h.) ; début de l’épreuve : 8h30 ;
+e
+e
+4 jour : orchestration d’une pièce musicale (durée : 12h.) ; début de l’épreuve : 8h00 ;
+e
+5 jour : anglais (durée : 2h.) ; début de l’épreuve : 8h30 ;
+e
+
+1.2. Épreuves d’admission.
+1.2.1. Programme.
+Le programme limitatif de l'épreuve de travail et direction d'un orchestre d'harmonie du concours organisé en 2020, tel que fixé par le COMMAT, porte sur :
+1.2.2. Déroulement.
+Les épreuves d’admission ont lieu au COMMAT entre le 3 et le 7 février 2020 inclus.
+La convocation aux épreuves d'admission est effectuée par voie télématique.
+Les résultats de l'admission sont diffusés au plus tard en semaine 8/2020, sur le site : http://www.recrutement.terre.defense.gouv.fr/.
+2. INSCRIPTIONS.
+Le dossier de candidature, commun aux deux concours, est accessible sur demande à l’adresse suivante : concours.rdt@gmail.com
+Les candidatures, composées du dossier d’inscription et des pièces justiﬁcatives, doivent être adressées entre le 16 septembre et le 15 novembre 2019 minuit,
+terme de rigueur, à la DRHAT/SDR/BC, cachet de la poste faisant foi.
+Les candidatures du personnel visé au b) du point 1. de l’article 4. du décret n° 2008-931 du 12 septembre 2008 modiﬁé précité (recrutement interne) sont doublées
+d’un formulaire unique de demande (FUD) adressé à DRHAT/SDGP/BCCM, pour information.
+Les candidats doivent impérativement préciser au titre de quel concours ils s’inscrivent.
+Aucune inscription n’est admise au-delà des échéances précisées supra.
+3. AUTORISATION À CONCOURIR.
+Les candidats dont les dossiers sont incomplets ou tardifs se voient adresser un refus d’autorisation à concourir par lettre recommandée avec accusé de réception.
+Les candidats autorisés à concourir, ayant fourni lors de leur inscription une adresse électronique, reçoivent conﬁrmation par courriel ; les autres candidats,
+autorisés à concourir, sont convoqués par courrier. Cette autorisation vaut convocation aux épreuves d’admissibilité. Le personnel militaire est également
+convoqué par message.
+4. PROCÉDURE D'INTÉGRATION DANS LES ÉCOLES.
+Les lauréats des concours intègrent le stage de formation des chefs de musique dans les armées au 1 semestre de l'année 2020 (mars), à une date qui leur est
+précisée ultérieurement. Ils se rendent aux Ecoles de Saint-Cyr Coëtquidan pour y commencer une formation militaire d’officier.
+Les lauréats doivent être munis, lors de leur rentrée, d’un certiﬁcat médical établi par un médecin du service de santé des armées, datant de moins d’un an,
+conformément à l’instruction de quatrième référence.
+L’admission n’est définitivement prononcée qu’après vérification de l’aptitude physique à la carrière de chef de musique de 2 classe.
+Les lauréats renonçant au bénéﬁce du concours doivent en informer, a minima par courriel, la DRHAT/SDR/BC aﬁn de permettre l’appel des lauréats suivants sur les
+listes complémentaires.
+5. ABROGATION.
+La circulaire n° 503806/ARM/RH-AT/SDR/BC/RDT du 13 juin 2018 relative aux concours des chefs de musique dans les armées en 2019, épreuves d’admissibilité et
+d’admission, modalités d’inscription, modalités et procédures d’intégration, programmes est abrogée.
+6. PUBLICATION.
+La présente circulaire est publiée au Bulletin officiel des armées.
+l’ouverture de « l’italienne à Alger » de Gioacchino Rossini, arrangement José Schyns aux éditions HAFABRA Music ;
+Credentium de Jan van der Roost aux éditions de Haske ;
+Symphonic Suite from On the Waterfront, arrangement Jay Bocook aux éditions Hal Leonard.
+er
+e
+
+Pour la ministre des armées et par délégation :
+ Le général de brigade, 
+ sous-directeur du recrutement,
+Benoît CHAVANAT.
