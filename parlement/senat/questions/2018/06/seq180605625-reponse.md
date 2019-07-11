@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180605625
+
+- Question : [SEQ180605625](seq180605625.md) — Devenir des produits défectueux retirés ou rappelés
+
+## Réponse
+
+*Économie et finances, JO du 2019-07-11, page 3709*
+
+La réglementation place les opérateurs comme premiers responsables de la sécurité des denrées qu'ils mettent sur le marché. S'ils ont connaissance qu'un produit qu'ils ont mis sur le marché est dangereux pour le consommateur, ils doivent mettre en œuvre des procédures de rappel et en informer les autorités. Dans le cadre de leur mission de protection du consommateur, les services de l'État vérifient les mesures de rappel mises en œuvre par les professionnels et peuvent, en cas de défaillance du professionnel, les lui imposer. Il appartient alors à l'opérateur de faire prendre en charge les produits retirés ou rappelés par une filière adaptée. Il y a lieu de distinguer les produits dangereux pouvant être utilisés à d'autres fins des produits dangereux qui deviennent véritablement des déchets au sens de l'article L. 541-1-1 du code de l'environnement. Dans ce dernier cas, les produits rappelés et leur gestion en tant que déchets incombe à l'opérateur qui a procédé à leur rappel. Ainsi, dans le cas particulier où les produits rappelés constituent des déchets dangereux, le code de l'environnement impose des obligations de traitement adaptées au niveau de dangerosité des déchets, ainsi que des dispositifs de contrôle des filières de traitement. Il convient alors que l'opérateur avertisse le consommateur de la nécessité absolue de rapporter le produit à son point de vente habituel afin qu'il puisse être retraité de manière adéquate. Les services de l'État pourraient contrôler dans ce cas que la communication associée au rappel mentionne clairement ce point, le cas échéant. Il va de soi que les corps de contrôle de l'État veillent très attentivement au respect des obligations par l'ensemble des acteurs à tous les stades de la chaine économique.
