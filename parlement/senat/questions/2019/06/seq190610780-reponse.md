@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190610780
+
+- Question : [SEQ190610780](seq190610780.md) — Rattrapage de facturation des consommateurs
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-07-11, page 3734*
+
+Dans son dernier rapport annuel publié le 14 mai 2019, le médiateur national de l'énergie (MNE), autorité publique indépendante créée par la loi n° 2006-1537 du 7 décembre 2006 relative au secteur de l'énergie, qui a pour missions de proposer des solutions amiables aux litiges entre les entreprises du secteur de l'énergie et leur clients, souligne que la limitation des rattrapages de facturation d'énergie à quatorze mois de consommation, introduite dans la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte, « a constitué une réelle avancée pour les Français. La régularisation de plusieurs années de consommation pouvait plonger les plus modestes d'entre eux dans des difficultés financières insurmontables ». Cette mesure a été codifiée à l'article L. 224-11 du code de la consommation. Le MNE constate que les litiges dont il est saisi à ce sujet sont souvent liés à un défaut d'adaptation des systèmes de facturation des fournisseurs, ne leur permettant pas de répondre de façon optimale à cette évolution législative. Lorsque le consommateur n'a pas réussi à se faire entendre de son fournisseur, la saisine de ses services permet dans la plupart des cas de régler le litige sur la base de recommandations de solutions ou d'accords amiables, évitant ainsi les recours contentieux. Avec le déploiement des compteurs communicants qui transmettent automatiquement des index de consommations réelles, la question des rattrapages de factures ne se posera plus. En 2021 tous les Français seront équipés de compteurs « Linky » pour leur consommation d'électricité et en 2023 de compteurs « Gazpar » pour le gaz.
