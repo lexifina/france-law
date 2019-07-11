@@ -36,11 +36,41 @@ e) "Repas associatif" : repas organisé, en dehors de l'usage domestique privé,
 
 Section II
 
-Exigences applicables au gibier sauvage
+Exigences applicables au gibier sauvage consommé lors de repas de chasse ou de repas associatif
 
-consommé lors de repas de chasse ou de repas associatif
+1. La petite quantité de gibier que le chasseur ou le premier détenteur peut remettre directement au repas de chasse ou au repas associatif correspond au gibier tué au cours d'une journée de chasse réalisée par ce chasseur ou ce premier détenteur.
 
-Le gibier sauvage consommé lors de repas de chasse ou de repas associatif doit, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section VI. Le gibier ne pourra être consommé lors de repas de chasse ou de repas associatif qu'après obtention d'un résultat négatif du laboratoire agréé.
+2. L'ensemble du petit et grand gibier sauvage remis directement à un repas de chasse ou à un repas associatif doit satisfaire aux exigences suivantes :
+
+a) Etre identifié individuellement pour le grand gibier ou par lot pour le petit gibier et de manière unique afin que la traçabilité puisse être assurée depuis la mise à mort sur le lieu de chasse jusqu'à la remise au repas de chasse et au repas associatif.
+
+b) Le numéro d'identification attribué à chaque pièce ou lot de gibier doit commencer par le numéro du département dans lequel le gibier a été chassé, puis être complété par le numéro d'ordre de la pièce ou du lot de gibier. Dans le cas des espèces soumises à un plan de chasse, le numéro d'identification sera le numéro du dispositif de marquage du plan de chasse à condition qu'il soit unique dans le département.
+
+c) Les informations relatives à la traçabilité de chaque pièce ou lot de gibier doivent pouvoir être contrôlées par les services vétérinaires. Les informations devant accompagner la pièce ou le lot de gibier sont les suivantes :
+
+i) Nom du chasseur ou du premier détenteur ;
+
+ii) Espèce de gibier ;
+
+iii) Numéro d'identification de l'animal ou du lot d'animaux ;
+
+iv) Lieu de mise à mort par action de chasse ;
+
+v) Date et heure de mise à mort par action de chasse ;
+
+vi) Identification du centre de collecte éventuel ;
+
+vii) Destination de la pièce ou du lot de gibier.
+
+3. La dépouille ou plumaison par le chasseur ou le premier détenteur avant la cession au repas de chasse ou au repas associatif est interdite.
+
+La cession au repas de chasse ou au repas associatif ne concerne que des pièces entières de gibier sauvage. La découpe de gibier sauvage non dépouillé ou plumé est interdite exception faite lors de la chasse en montagne lorsque le transport du grand gibier s'avère impossible sans une découpe préalable de l'animal.
+
+4. La congélation de gibier sauvage non dépouillé ou non plumé est interdite.
+
+5. La remise directe au repas de chasse ou au repas associatif, par le chasseur ou le premier détenteur, d'abats de gibier sauvage est interdite dans la mesure où ceux-ci n'ont pas subi l'inspection post mortem en établissement de traitement.
+
+6. Le gibier sauvage consommé lors de repas de chasse ou de repas associatif doit, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section VI. Le gibier ne pourra être consommé lors de repas de chasse ou de repas associatif qu'après obtention d'un résultat négatif du laboratoire agréé.
 
 Section III
 
@@ -48,7 +78,15 @@ Exigences applicables au gibier sauvage remis directement par le chasseur ou le 
 
 1. La petite quantité de gibier que le chasseur ou le premier détenteur peut remettre directement au consommateur final correspond au gibier tué au cours d'une journée de chasse réalisée par ce chasseur ou ce premier détenteur.
 
-2. Le gibier sauvage remis directement au consommateur final peut, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section VI.
+2. La dépouille ou plumaison par le chasseur ou le premier détenteur avant la cession au consommateur final est interdite.
+
+La cession au consommateur final ne concerne que des pièces entières de gibier sauvage. La découpe de gibier sauvage non dépouillé ou plumé est interdite exception faite lors de la chasse en montagne lorsque le transport du grand gibier s'avère impossible sans une découpe préalable de l'animal.
+
+3. La congélation de gibier sauvage non dépouillé ou non plumé est interdite.
+
+4. La remise directe au consommateur final, par le chasseur ou le premier détenteur, d'abats de gibier sauvage est interdite dans la mesure où ceux-ci n'ont pas subi l'inspection post mortem en établissement de traitement.
+
+5. Le gibier sauvage remis directement au consommateur final peut, s'il s'agit d'une espèce sensible à la trichinellose, avoir fait l'objet d'une recherche de larves de trichines telle que décrite à la section VI.
 
 Le chasseur ou le premier détenteur doit informer le consommateur final du risque de trichine lié à la consommation de viande de sanglier dans le cas où aucune recherche de larves de trichines n'a été réalisée. Cette disposition peut être étendue par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture à d'autres parasites présents dans la viande de sanglier.
 

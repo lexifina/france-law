@@ -432,46 +432,34 @@ APPENDICE 3 DE L'ANNEXE VII : INFORMATIONS DEVANT FIGURER SUR LA FICHE DE COMPTE
 
 Concernant le gibier sauvage examiné :
 
-- espèce ;
+-espèce ;
 
-- lieu de mise à mort par action de chasse ;
+-lieu de mise à mort par action de chasse ;
 
-- date et heure de mise à mort par action de chasse ;
+-date et heure de mise à mort par action de chasse ;
 
-- éviscération : sur le lieu de mise à mort ou dans un centre de collecte ;
+-éviscération : sur le lieu de mise à mort ou dans un centre de collecte ou dans un local de chasse ;
 
-- délai moyen entre la mise à mort et l'éviscération.
+-heure de l'éviscération.
 
 Concernant la personne formée :
 
-- nom et prénom de la personne formée ayant réalisé l'examen initial ;
+-nom et prénom de la personne formée ayant réalisé l'examen initial ;
 
-- numéro d'enregistrement de la personne formée à la Fédération départementale des chasseurs.
+-numéro d'enregistrement de la personne formée à la fédération départementale des chasseurs.
 
 Concernant l'examen initial :
 
-- date et heure de réalisation de l'examen initial ;
+-date et heure de réalisation de l'examen initial ;
 
-- destination du gibier : établissement de traitement ou centre de collecte ou commerce de détail ;
+-destination du gibier : établissement de traitement du gibier ou consommateur final ou repas de chasse ou repas associatif ou commerce de détail local ;
 
-- carcasse accompagnée des abats blancs ? des abats rouges ? de la tête ?
-
-- anomalies observées sur les abats rouges : identification de la carcasse et de l'organe anormal ;
-
-- anomalies observées sur le tube digestif : identification de la carcasse et type d'anomalie ;
-
-- aspect putréfié du tube digestif et odeur de pourriture à l'ouverture de la cavité abdominale ;
-
-- souillure due à une perforation mal nettoyée (balle d'estomac ou de panse) ou due à une mauvaise éviscération ;
-
-- hémorragie sur le tube digestif ;
-
-- taille, forme et aspect à la section des ganglions mésentériques anormaux ;
-
-- mise en évidence d'un ou plusieurs abcès sur le tube digestif.
+-anomalies observées sur la tête, la carcasse, le cœur, les poumons, le foie, la rate, l'estomac, les intestins, les reins : identification de la carcasse et de l'organe anormal et description de l'anomalie observée.
 
 Signatures :
 
-- signature du détenteur du gibier ;
+-signature du détenteur du gibier ;
 
-- signature de la personne formée ayant réalisé l'examen initial.
+-signature de la personne formée ayant réalisé l'examen initial.
+
+La fiche d'accompagnement du gibier sauvage comprenant le compte rendu de l'examen initial doit être conforme au modèle présenté par instruction publiée au Bulletin officiel du ministère chargé de l'agriculture.

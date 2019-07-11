@@ -86,7 +86,7 @@ Si l'exploitant constate qu'un animal présente un état de souffrance important
 
 16. La liste des lésions anatomo-pathologiques et autres anomalies à mettre en lien avec les motifs de saisie réglementaires figurant au 1 du chapitre V de la section II de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004 ainsi que les modalités de leur enregistrement dans des bases de données appropriées permettant d'établir le lien avec les informations d'abattage des animaux concernés et de leur transmission aux détenteurs d'animaux figurent dans des instructions publiées au Bulletin officiel du ministre chargé de l'agriculture.
 
-17. Conformément au 3 du chapitre V et au 3 du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, le transport et la découpe des carcasses d'ongulés domestiques peuvent être effectués en cours de refroidissement sous réserve du respect des conditions suivantes :
+17. Conformément au 3 du chapitre V et au 3a du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004 , le transport et la découpe des carcasses d'ongulés domestiques aux fins de la production de produits spécifiques peuvent être effectués en cours de refroidissement sous réserve du respect des conditions suivantes :
 
 a) En ce qui concerne l'abattoir :
 
@@ -103,6 +103,60 @@ i) La température des carcasses au moment du déchargement est égale ou infér
 ii) La température des viandes à l'issue de la découpe est égale ou inférieure à 7° C en tous points ;
 
 iii) Une procédure écrite validée par le préfet décrivant précisément la mise en œuvre de ces dispositions est intégrée au plan de maîtrise sanitaire de l'établissement destinataire.
+
+18. Conformément au 5 du chapitre V et au 3b du chapitre VII du règlement (CE) n° 853/2004 du 29 avril 2004, la sortie et le transport de carcasses, de demi-carcasses, de quartiers, de demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine peuvent être réalisés à des températures supérieures à 7° C à cœur sous réserve du respect des conditions suivantes :
+
+a) Une autorisation est préalablement délivrée à l'exploitant de l'abattoir par le préfet du département d'implantation de l'établissement :
+
+i) L'autorisation est délivrée selon les paramètres de durées de transport et d'espèces définis réglementairement ;
+
+ii) La demande d'autorisation est adressée par l'exploitant de l'abattoir à l'aide du formulaire CERFA n° 15958 publié sur le site internet du ministère chargé de l'agriculture ;
+
+iii) Pour que la demande soit recevable, elle doit être accompagnée d'un dossier justifiant le respect des conditions sanitaires pour sortir de l'abattoir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur. Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise le contenu du dossier et les modalités d'attribution des autorisations correspondantes ;
+
+iv) Le renouvellement de la demande d'autorisation n'est pas nécessaire. Toutefois, toute modification importante en lien avec le dossier et le plan de maîtrise sanitaire doit entraîner son actualisation et sa notification auprès du préfet ;
+
+v) L'autorisation ne peut être accordée qu'aux établissements dont le dossier d'autorisation est complet et jugé recevable et pour lesquels la conformité aux conditions a été constatée après examen du dossier. En cas de non-délivrance de l'autorisation, les points de non-conformité sont notifiés à l'exploitant. L'exploitant de l'établissement devra répondre à ses éléments point par point ;
+
+vi) L'autorisation peut être suspendue voire retirée en cas de constats de non-conformités relevées lors d'un contrôle officiel ;
+
+vii) Les établissements autorisés à sortir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
+
+b) Une autorisation est préalablement délivrée à la société de transport nationale par le préfet de son département d'implantation ;
+
+i) L'autorisation est délivrée selon les paramètres de durées de transport définis réglementairement ;
+
+ii) L'autorisation est délivrée à la société de transport pour son parc de véhicule ;
+
+iii) La demande d'autorisation est adressée par l'exploitant de la société de transport à l'aide du formulaire CERFA n° 15960 publié sur le site internet du ministère chargé de l'agriculture ;
+
+iv) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités d'attribution des autorisations correspondantes ;
+
+v) L'autorisation ne peut être accordée qu'aux établissements dont la demande d'autorisation est complète et jugée recevable ;
+
+vi) L'autorisation peut être suspendue voire retirée en cas de constats de non-conformités relevées lors d'un contrôle officiel ;
+
+vii) Les établissements autorisés à transporter des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en trois morceaux de gros maximum à des températures supérieures à 7° C à cœur, sont inscrits sur des listes publiées sur le site internet du ministère chargé de l'agriculture.
+
+c) Une autorisation pour les transporteurs de l'Union européenne chargeant des viandes provenant d'abattoirs français est préalablement délivrée par le vétérinaire officiel de l'abattoir correspondant :
+
+i) L'autorisation est délivrée selon les paramètres de durées de transport définis réglementairement ;
+
+ii) L'autorisation est délivrée pour un véhicule et pour un seul chargement ;
+
+iii) La demande d'autorisation est adressée par le transporteur à l'aide du formulaire CERFA n° 15961 publié sur le site internet du ministère chargé de l'agriculture ;
+
+iv) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités d'attribution des autorisations correspondantes ;
+
+v) L'autorisation ne peut être accordée qu'aux transporteurs dont la demande d'autorisation est complète et jugée recevable.
+
+d) Une déclaration est adressée par l'exploitant du secteur alimentaire souhaitant recevoir des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur, au préfet du département d'implantation de son établissement :
+
+i) La déclaration est adressée par l'exploitant du secteur alimentaire destinataire des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur, à l'aide du formulaire CERFA n° 15959 publié sur le site internet du ministère chargé de l'agriculture avant de recevoir pour la première fois les viandes ;
+
+ii) Une instruction publiée au Bulletin officiel du ministère chargé de l'agriculture précise les modalités de cette déclaration.
+
+e) Ces obligations s'appliquent à compter de la publication du présent arrêté. Cependant, les dispositions applicables avant l'entrée en vigueur du présent arrêté et concernant le transport et la découpe de carcasses d'ongulés domestiques à des températures supérieures à 7° C à cœur restent autorisées jusqu'au 30 septembre 2019 afin de permettre aux professionnels d'obtenir les autorisations nécessaires pour sortir et transporter des carcasses, des demi-carcasses, des quartiers, des demi-carcasses découpées en 3 morceaux de gros maximum d'animaux des espèces bovine, ovine, caprine et porcine à des températures supérieures à 7° C à cœur.
 
 Section II
 
@@ -238,7 +292,7 @@ La marque de salubrité utilisée dans les abattoirs d'ongulés domestiques ou d
 
 -dans la partie inférieure, les lettres CE.
 
-La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
+La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm. Les dimensions et les caractères de la marque peuvent être réduits pour le marquage des agneaux, des chevreaux et des porcelets sous réserve que les caractères demeurent parfaitement lisibles.
 
 B.-Marque de salubrité communautaire avec restriction de mise sur le marché pour des raisons de police sanitaire (figure B) :
 
@@ -479,5 +533,13 @@ B. - Plan d'intervention lorsque l'examen d'échantillons révèle la présence 
 Conformément à l'article 7 du chapitre II du règlement d'exécution (UE) 2015/1375 de la Commission du 10 août 2015, les modalités de suivi et de gestion d'un cas non négatif ou positif sont précisées par arrêté du ministre chargé de l'agriculture et par instruction technique publiée au Bulletin officiel du ministère chargé de l'agriculture. Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif ou confirmé positif.
 
 C. - Fiche de transmission de prélèvements pour la recherche de larves de trichine réalisée dans le cadre d'un contrôle officiel.
+
+APPENDICE 8 DE L'ANNEXE V
+
+MODALITÉS DE GESTION DES FOIES ET REINS DE SOLIPÈDES DOMESTIQUES
+
+1. Les foies et les reins de tous les solipèdes domestiques, quel que soit leur âge, sont déclarés impropres à la consommation humaine lorsque les animaux sont originaires du territoire national (ou lorsqu'ils ont été élevés sur celui-ci au moins 3 mois), la mise en œuvre des plans de surveillance et de contrôle prévus par la réglementation ayant permis de constater la présence de cadmium à des teneurs supérieures aux valeurs réglementaires dans ces organes.
+
+2. Les foies et les reins de tous les solipèdes domestiques seront donc systématiquement retirés et éliminés en sous-produits de catégorie 1 conformément à l'article 8, point d du règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux).
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037047275
