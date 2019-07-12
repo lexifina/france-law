@@ -4,7 +4,7 @@ AUTORITÉS |
 
 PROGRAMMES |
 
-Directeur du centre interarmées du soutien “ administration des opérations ” |
+Directeur du centre interarmées du soutien administration des opérations |
 
 P. 144, P. 146, P. 169, P. 178, P. 191, P. 212 |
 
@@ -56,31 +56,31 @@ Directeur du centre d'administration ministériel des indemnités de déplacemen
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Nord-Est (Metz) |
+Directeur de la plate-forme commissariat Est (stationnée à Metz) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Ile-de-France (Saint-Germain-en-Laye) |
+Directeur de la plate-forme commissariat Paris (stationnée à Saint-Germain-en-Laye) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Ouest (Brest) |
+Directeur de la plate-forme commissariat Brest |
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Centre-Ouest (Rennes) |
+Directeur de la plate-forme commissariat Ouest (stationnée à Rennes) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Centre-Est (Lyon) |
+Directeur de la plate-forme commissariat Sud-Est (stationnée à Lyon) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Sud-Ouest (Bordeaux) |
+Directeur de la plate-forme commissariat Sud-Ouest (stationnée à Bordeaux) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plate-forme commissariat Sud-Est (Toulon) |
+Directeur de la plate-forme commissariat Sud (stationnée à Toulon) |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
@@ -92,11 +92,15 @@ Directeur du service exécutant de la solde unique |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
+Directeur adjoint de l'établissement national de la solde |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |
+
 Directeur de la plate-forme affrètement et transport |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
-Directeur de la plateforme achats-finances-Santé |
+Directeur de la plate-forme achats-finances-Santé |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
