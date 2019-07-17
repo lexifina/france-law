@@ -1,0 +1,74 @@
+# Engagement dans la vie locale et action publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37659
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/engagement_vie_locale_proximite_action_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl18-677.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-07-17 : 1er dépôt d'une initiative. (PRJLSNR5S319B0677)
+  - 2019-09-11 : Dépôt d'une lettre rectificative. (LETTSNR5S319B0719)
+  - 2019-07-17 : Etude d'impact (ETDISNR5S319B0677)
+  - 2019-09-11 : Avis du Conseil d'Etat (AVCESNR5S319B0719)
+  - 2019-07-17 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-07-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-10-02 : Dépôt de rapport (RAPPSNR5S339B0012, PRJLSNR5S339BTC0013)
+  - Discussion en séance publique
+    - 2019-10-08 : Discussion en séance publique
+    - 2019-10-09 : Discussion en séance publique
+    - 2019-10-10 : Discussion en séance publique
+    - 2019-10-15 : Discussion en séance publique
+    - 2019-10-16 : Discussion en séance publique
+    - 2019-10-17 : Discussion en séance publique
+    - 2019-10-22 : Discussion en séance publique
+    - 2019-10-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-10-23 : Dépôt d'une initiative en navette (PRJLANR5L15B2357)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-10-23 : Renvoi en commission au fond
+      - 2019-09-09 : Nomination de rapporteur
+      - 2019-11-05 : Réunion de commission
+      - 2019-11-06 : Réunion de commission
+      - 2019-11-06 : Réunion de commission
+      - 2019-11-07 : Réunion de commission
+      - 2019-11-07 : Réunion de commission
+      - 2019-11-18 : Réunion de commission
+      - 2019-11-08 : Dépôt de rapport (RAPPANR5L15B2401, PRJLANR5L15BTC2401)
+    - Travaux d'une commission saisie pour avis
+      - 2019-10-23 : Saisine pour avis d'une commission
+      - 2019-10-16 : Nomination de rapporteur
+  - Discussion en séance publique
+    - 2019-11-18 : Discussion en séance publique
+    - 2019-11-18 : Discussion en séance publique
+    - 2019-11-19 : Discussion en séance publique
+    - 2019-11-19 : Discussion en séance publique
+    - 2019-11-20 : Discussion en séance publique
+    - 2019-11-20 : Discussion en séance publique
+    - 2019-11-21 : Discussion en séance publique
+    - 2019-11-21 : Discussion en séance publique
+    - 2019-11-21 : Discussion en séance publique
+    - 2019-11-26 : Discussion en séance publique
+    - 2019-11-26 : Décision
+- Commission Mixte Paritaire
+  - 2019-11-28 : Dépôt d'un projet de loi (PRJLSNR5S339B0161)
+  - 2019-11-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-12-11 : Nomination de rapporteur
+    - 2019-12-11 : Dépôt du rapport d'une CMP (RAPPANR5L15B2499, PRJLANR5L15BTC2499)
+    - 2019-12-11 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0203, PRJLSNR5S339BTC0204)
+  - Discussion en séance publique
+    - 2019-12-18 : Discussion en séance publique
+    - 2019-12-18 : Décision
+  - Discussion en séance publique
+    - 2019-12-19 : Discussion en séance publique
+    - 2019-12-19 : Décision
+  - 2019-12-12 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-12-27 : Promulgation d'une loi
