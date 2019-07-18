@@ -4,7 +4,7 @@ La prime de vacances est calculée en fonction du nombre d'heures de travail eff
 
 Le taux de l'indemnité horaire est égal à :
 
-valeur du salaire minima conventionnel, premier niveau premier échelon, au 31 mai de l'année en cours/1 820 heures
+– valeur du salaire minima conventionnel, deuxième niveau premier échelon (IIA), au 31 mai de l'année en cours / 1 820 heures.
 
 Le montant de la prime de vacances est égal au produit du taux ainsi obtenu avec le nombre d'heures de travail effectif réalisées par le salarié sur la période de référence précisée ci-dessus.
 
