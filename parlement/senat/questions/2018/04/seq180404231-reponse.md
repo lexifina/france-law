@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180404231
+
+- Question : [SEQ180404231](seq180404231.md) — Agriculture et liberté d'usage des semences au service de la biodiversité
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-07-18, page 3856*
+
+La préservation des ressources phytogénétiques est un enjeu essentiel pour garantir la disponibilité de la biodiversité cultivée pour l'avenir et répondre ainsi notamment aux enjeux du réchauffement climatique et d'une agriculture plus durable. Le ministère de l'agriculture et de l'alimentation met en œuvre depuis plusieurs années des actions et des financements spécifiques pour contribuer à cette conservation. Concernant l'obligation d'inscription au catalogue européen, un certain nombre de mesures, à la fois nationales et européennes, ont été prises ces dernières années afin de simplifier l'inscription au catalogue européen et de rendre gratuit le coût d'inscription pour les variétés du domaine public, qui sont le plus souvent des variétés anciennes. Il est important d'identifier et de caractériser un minimum les variétés anciennes dans l'intérêt de la préservation des ressources phytogénétiques comme de celui des acheteurs, qui sont en droit d'avoir des garanties lors de leurs achats. Comme indiqué par le ministre chargé de l'agriculture en février 2019 à l'assemblée nationale, le ministère chargé de l'agriculture est prêt à revoir les exigences d'inscription au catalogue dans le cadre de la commercialisation aux amateurs. La procédure actuelle, même gratuite, peut effectivement s'avérer lourde pour de petites associations. Par ailleurs, le nouveau règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l'étiquetage des produits biologiques prévoit la possibilité de commercialiser, à partir de 2021, du matériel hétérogène biologique. Cela contribuera également au maintien de la diversité des ressources phytogénétiques cultivées.
