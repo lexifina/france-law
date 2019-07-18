@@ -1,14 +1,16 @@
-# Article Annexe II
+# Article Annexe 2
+
+ANNEXE II
 
 PROGRAMME DES ÉPREUVES D'ADMISSIBILITÉ
 
-1. Programme de l'épreuve de " mathématiques et d'analyse de processus " du concours " sciences "
+1. Programme de l'épreuve de "mathématiques et d'analyse de processus" du concours "sciences"
 
 Mathématiques.
 
 Calculs numériques :
 
-- nombres entiers, entiers relatifs, rationnels, réels, complexes. Les ensembles N, Z, Θ, P, X ;
+- nombres entiers, entiers relatifs, rationnels, réels, complexes. Les ensembles peuvent être consultés à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516 ;
 
 - manipulations sur les puissances fractionnaires et négatives d'un nombre réel ou complexe ;
 
@@ -20,9 +22,11 @@ Calculs numériques :
 
 - somme, produit, quotient de nombres complexes ;
 
-- forme trigonométrique d'un nombre complexe (écriture eȹ = cosҩ + i.sinҩ, relation eȹ.eȹ' = e(ȹ +ȹ) , formule de Moivre) ;
+- forme trigonométrique d'un nombre complexe
 
-- racines n ième d'un nombre complexe ;
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
+
+- racines nième d'un nombre complexe ;
 
 - résolution dans C d'équations à coefficients complexes ;
 
@@ -38,7 +42,7 @@ Equations, inéquations :
 
 - résolution d'une inéquation ou d'un système d'inéquations linéaires et représentation graphique de l'ensemble des solutions ;
 
-- résolution d'équations se ramenant à des équations de la forme cos x = a ou sin x = a .
+- résolution d'équations se ramenant à des équations de la forme cos x = a ou sin x = a.
 
 Suites numériques :
 
@@ -46,17 +50,15 @@ Suites numériques :
 
 - suites adjacentes et théorème des suites adjacentes ;
 
-- propriété fondamentale : toute suite croissante et majorée (resp. décroissante et minorée) est convergente ;
+- propriété fondamentale : "toute suite croissante et majorée (resp. décroissante et minorée) est convergente" ;
 
 - opération sur les limites de suites ;
 
-- composition d'une suite de limite ʎ par une fonction ƒ continue au point ʎ ;
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - suites arithmétiques, géométriques : identification de ces suites, détermination de leur composants caractéristiques et expression de leur terme général. Application aux suites arithmético-géométriques ;
 
-- étude de suites récurrentes vérifiant une relation un + 1 = ƒ(un) ;
-
-- étude de suites récurrentes vérifiant une relation un + 2 = a.un + 1 + bun, où a et b sont des réels données ;
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - séries géométriques, somme d'une série géométrique (lorsqu'elle converge), somme partielle.
 
@@ -82,7 +84,7 @@ Limite et continuité :
 
 - opération sur les limites ;
 
-- composée d'une fonction de limite ʎ par une fonction continue au point ʎ ;
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - propriété des fonctions continues sur un intervalle (fermé ou non, borné ou non) ;
 
@@ -98,7 +100,7 @@ Dérivation :
 
 - distinction entre nombre dérivé et dérivée d'une fonction : diverses notations seront utilisées pour désigner la dérivée :
 
-Vous pouvez consulter l'image à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140927&numTexte=33&pageDebut=&pageFin
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - interprétation géométrique du nombre dérivé ;
 
@@ -112,7 +114,7 @@ Vous pouvez consulter l'image à l'adresse suivante : http://www.legifrance.gouv
 
 - calcul des dérivées successives : diverses notations seront utilisées pour désigner les dérivées :
 
-Vous pouvez consulter l'image à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140927&numTexte=33&pageDebut=&pageFin
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - points stationnaires et points d'inflexion ;
 
@@ -128,15 +130,15 @@ Fonctions usuelles :
 
 - domaine de définition, représentation graphique, expression de la dérivée, comportement asymptotique, des fonctions suivantes :
 
-- fonctions valeur absolue, partie entière, polynômes, fractions rationnelles, radicales, etc.;
+- fonctions valeur absolue, partie entière, polynômes, fractions rationnelles, radicales, etc. ;
 
 - fonctions trigonométriques ;
 
-- fonctions exponentielles, logarithme et puissance ;
+- fonctions exponentielle, logarithme et puissance,
 
 - équation fonctionnelle caractéristique des fonctions exponentielle et logarithme ;
 
-- croissance comparée des fonctions exponentielles, puissance et logarithme.
+- croissance comparée des fonctions exponentielle, puissance et logarithme.
 
 Intégration :
 
@@ -158,7 +160,7 @@ Intégration :
 
 - changements de variables affines ;
 
-- étude d'une fonction de la forme x → ʃ xaƒ(t) dt lorsque ƒ n'a pas de primitive parmi les fonctions usuelles.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 Equations différentielles :
 
@@ -172,9 +174,9 @@ Théorie des ensembles :
 
 - produit cartésien de deux ensembles ;
 
-- nombre des applications d'un ensemble fini dans un autre, nombre des injections, arrangements. Nombre des parties de cardinal donné d'un ensemble fini, combinaisons ;
+- nombres des applications d'un ensemble fini dans un autre, nombre des injections, arrangements. Nombre des parties de cardinal donné d'un ensemble fini, combinaisons ;
 
-- formule du Binôme et triangle de Pascal.
+- formule du binôme et triangle de Pascal.
 
 Probabilités :
 
@@ -196,7 +198,7 @@ Géométrie dans le plan et l'espace :
 
 - utilisation des nombres complexes pour résoudre des problèmes faisant intervenir des translations, des rotations et des homothéties.
 
-Opérations dans P2 et P3 :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038772516.
 
 - expression d'un vecteur, distinction entre vecteurs et scalaires, combinaisons linéaires de vecteurs (la notion d'espace vectoriel n'a pas besoin d'être conceptualisée) ;
 
@@ -204,9 +206,9 @@ Opérations dans P2 et P3 :
 
 - droites vectorielles, plans vectoriels : génération et équations ;
 
-- vecteurs colinéaires, coplanaires, indépendance linéaire.
+- vecteurs colinéaires, coplanaires, indépendance linéaire ;
 
-Applications linéaires de Pn (n = 2 ou 3) dans Pp (p = 2 ou 3) :
+- applications linéaires de Pn (n = 2 ou 3) dans Pp (p = 2 ou 3) ;
 
 - détermination des applications linéaires par les images des éléments de la base canonique.
 
@@ -250,7 +252,7 @@ Démonstration :
 
 - détermination de la contraposée d'une affirmation.
 
-Le recours à des tableaux et graphiques peut soutenir une argumentation ou présenter des résultats, dès lors qu'un commentaire en précise clairement la signification. La qualité de la rédaction, la clarté et la précision des raisonnements, la justification de tout résultat (par un théorème ou un calcul ou bien le fruit d'un raisonnement logique), la cohérence globale des réponses sont autant de gages de bonne compréhension, et comptent pour une part non négligeable dans l'appréciation de la copie. En probabilités, il convient de justifier les calculs par des formules conventionnelles, préalablement citées : un arbre de probabilité ne constitue pas une preuve. On n'utilisera pas de symboles mathématiques dans les phrases. Les symboles logiques (=>, <=, <=>…) relient des propositions.
+Le recours à des tableaux et graphiques peut soutenir une argumentation ou présenter des résultats, dès lors qu'un commentaire en précise clairement la signification. La qualité de la rédaction, la clarté et la précision des raisonnements, la justification de tout résultat (par un théorème ou un calcul ou bien le fruit d'un raisonnement logique), la cohérence globale des réponses sont autant de gages de bonne compréhension, et comptent pour une part non négligeable dans l'appréciation de la copie. En probabilités, il convient de justifier les calculs par des formules conventionnelles, préalablement citées : un arbre de probabilité ne constitue pas une preuve. On n'utilisera pas de symboles mathématiques dans les phrases. Les symboles logiques (=>, <=, <=>, …) relient des propositions.
 
 Les copies satisfaisantes sur l'ensemble de ces points seront valorisées.
 
@@ -294,7 +296,7 @@ Opérations sur les tableaux :
 
 - recherche d'un élément ;
 
-- méthodes de tris (tri simple, tri par propagation, tri par insertion).
+- méthodes de tri (tri simple, tri par propagation, tri par insertion).
 
 Notions de procédures et de fonctions :
 
@@ -304,7 +306,7 @@ Notions de procédures et de fonctions :
 
 - paramètres (passage par valeur, passage par adresse).
 
-2. Programme de l'épreuve de sciences physiques du concours sciences
+2. Programme de l'épreuve de "sciences physiques" du concours "sciences"
 
 Physique.
 
@@ -352,7 +354,7 @@ Décroissance radioactive :
 
 - composition, isotopie, notation ;
 
-- la radioactivité α (alpha), et β (bêta), les émissions γ (gamma) ;
+- la radioactivité & et ß, les émissions y ;
 
 - lois de conservation de la charge électrique ;
 
@@ -360,7 +362,7 @@ Décroissance radioactive :
 
 - activité.
 
-Noyaux - masse - énergie :
+Noyaux - masse-énergie :
 
 - équivalence masse - énergie ;
 
@@ -368,7 +370,7 @@ Noyaux - masse - énergie :
 
 - fission - fusion (domaines) ;
 
-- bilan de masse et d'énergie (condition à réaliser pour obtenir l'amorçage de réaction de fission ou de fusion).
+- bilan de masse et d'énergie (condition à réaliser pour obtenir l'amorçage de réaction de fission ou de fusion.
 
 Electromagnétisme.
 
@@ -458,7 +460,7 @@ Vecteurs position, vitesse et accélération :
 
 Composition des mouvements :
 
-- composition des vitesses, des accélérations (mouvements relatifs, d'entrainement, accélération de Coriolis).
+- composition des vitesses, des accélérations (mouvements relatifs, d'entraînement, accélération de Coriolis).
 
 Cinématique du solide.
 
@@ -528,7 +530,7 @@ Amplificateur opérationnel (Aop) :
 
 - calcul sur les montages à Aop idéal.
 
-3. Programme de l'épreuve de sciences économiques du concours sciences économiques et sociales
+3. Programme de l'épreuve de "sciences économiques" du concours "sciences économiques et sociales"
 
 Microéconomie.
 
@@ -536,7 +538,7 @@ Il s'agit de savoir appréhender des questions concrètes en termes d'équilibre
 
 Contenu du programme de microéconomie.
 
-Titre Ier : les mécanismes du marché : notion d'offre (théorie du producteur, production et coût), notion de demande (théorie du consommateur), prix d'équilibre, déplacements de l'équilibre
+Titre Ier : les mécanismes du marché : notion d'offre (théorie du producteur, production et coût), notion de demande (théorie du consommateur), prix d'équilibre, déplacements de l'équilibre.
 
 Titre II : les marchés et la formation des prix : déterminants et conséquences de la structure des marchés :
 
@@ -564,7 +566,7 @@ Contenu du programme de macroéconomie :
 
 - l'économie de l'Union européenne.
 
-4. Programme de l'épreuve de mathématiques appliquées du concours sciences économiques et sociales
+4. Programme de l'épreuve de "mathématiques appliquées" du concours" sciences économiques et sociales"
 
 Calculs numériques :
 
@@ -628,15 +630,9 @@ Limite et continuité :
 
 - opération sur les limites ;
 
-- composée d'une fonction de limite
+- composée d'une fonction de limite λ par une fonction continue au point λ ;
 
-Vous pouvez consulter l'image à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140927&numTexte=33&pageDebut=&pageFin
-
-par une fonction continue au point
-
-Vous pouvez consulter l'image à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140927&numTexte=33&pageDebut=&pageFin
-
-- comportement asymptotique d'une fonction, aspect graphique (la recherche systématique de l'asymptote n'est pas exigée. On se limitera à la reconnaissance de l'asymptote) ;
+- comportement asymptotique d'une fonction, aspect graphique. (La recherche systématique de l'asymptote n'est pas exigée. On se limitera à la reconnaissance de l'asymptote) ;
 
 - théorème des valeurs intermédiaires.
 
@@ -688,7 +684,7 @@ Probabilités :
 
 Statistiques :
 
-- définitions des paramètres de statistiques descriptives (mode, moyenne, médiane, dispersion, étendue, quartiles, variance, écart-type) ;
+- définitions des paramètres de statistiques descriptives (mode, moyenne, médiane, dispersion, étendue, quartiles, variance, écart type) ;
 
 - application numérique de ces paramètres compatible avec une calculatrice scientifique non programmable, non graphique ;
 
@@ -706,7 +702,7 @@ Démonstration :
 
 - distinction entre axiome et théorème.
 
-5. Programme de l'épreuve de langue vivante 2 du concours Lettres
+5. Programme de l'épreuve de langue vivante 2 du concours "lettres"
 
 Allemand.
 
@@ -848,7 +844,7 @@ Arabe.
 
 Liste des points à maîtriser :
 
-A. Morphologie.
+A. - Morphologie
 
 1. Le verbe : conjugaison des verbes simples et augmentés, à racines saines et malades , trilitères et quadrilatères, à l'actif et au passif, au singulier, pluriel et duel :
 
@@ -882,7 +878,7 @@ A. Morphologie.
 
 - la déclinaison des pluriels externes, du duel.
 
-B. Syntaxe.
+B. - Syntaxe
 
 1. Définition du nom par l'article ou l'annexion.
 
@@ -898,7 +894,7 @@ B. Syntaxe.
 
 - ordre des mots et accords ;
 
-- fonctionnement avec inna, la'alla, anna, ka'anna, etc.;
+- fonctionnement avec inna, la'alla, anna, ka'anna, etc. ;
 
 - l'expression du temps dans la phrase nominale : kâna et les accords dans la phrase ;
 
@@ -978,38 +974,38 @@ Connaître :
 
 Maîtrise du vocabulaire de base pour parler des relations internationales, de la géopolitique et des problèmes de société.
 
-6. Programme de l'épreuve histoire des relations internationales et géopolitique du concours lettres
+6. Programme de l'épreuve "histoire des relations internationales et géopolitique" du concours" lettres"
 
-HRI : Les relations internationales en Europe de 1648 à 1989.
+HRI : les relations internationales en Europe de 1648 à 1989.
 
 Il sera demandé aux candidats de :
 
 - maîtriser les notions importantes qu'implique cette question : équilibre des puissances, diplomatie européenne, congrès de paix, principe dynastique, monarchie absolue, économie et mercantilisme, pacifisme au XVIIIe siècle, révolutions (américaine et française), irruption du principe national ;
 
-Géopolitique :
-
 - connaître la chronologie des conflits dans ses grandes lignes ainsi que les modalités de leur règlement politique.
+
+Géopolitique :
 
 L'eau dans le monde :
 
-1. Le cycle de l'eau pour introduire l'idée d'une absence de répartition dans la ressource à l'échelle de la planète. Les grands bassins versants (Amazone, Mississippi, Congo, Nil, Danube, Rhin et fleuves chinois).
+1° Le cycle de l'eau pour introduire l'idée d'une absence de répartition dans la ressource à l'échelle de la planète. Les grands bassins versants (Amazone, Mississippi, Congo, Nil, Danube, Rhin et fleuves chinois).
 
-2. L'agriculture, première consommatrice dans le monde. Les besoins augmentent en ville.
+2° L'agriculture, première consommatrice dans le monde. Les besoins augmentent en ville.
 
-3. L'eau nécessaire à la production d'électricité. Pollution et dépollution.
+3° L'eau nécessaire à la production d'électricité. Pollution et dépollution.
 
 Le pétrole dans le monde :
 
-1. Les principaux gisements : géologie sommaire et contraintes de l'extraction.
+1° Les principaux gisements : géologie sommaire et contraintes de l'extraction.
 
-2. Les réserves fluctuent au rythme de l'évolution des cours pétroliers, et de la consommation mondiale.
+2° Les réserves fluctuent au rythme de l'évolution des cours pétroliers, et de la consommation mondiale.
 
-3. Les routes utilisées pour le transport du pétrole (voie maritime et tubes), les ports et les industries (raffinage).
+3° Les routes utilisées pour le transport du pétrole (voie maritime et tubes), les ports et les industries (raffinage).
 
 Les migrations internationales :
 
-1. Les foyers de départ (transition démographique) et les destinations d'arrivée (vieillissement démographique).
+1° Les foyers de départ (transition démographique) et les destinations d'arrivée (vieillissement démographique).
 
-2. Un besoin en main d'œuvre contrarié par une politique migratoire devenue restrictive. Des frontières à surveiller pour les pays d'accueil. Un encouragement pour les flux clandestins.
+2° Un besoin en main-d'œuvre contrarié par une politique migratoire devenue restrictive. Des frontières à surveiller pour les pays d'accueil. Un encouragement pour les flux clandestins.
 
-3. Des effets économiques contrastés : transferts (d'argent, de compétence) et trafics. Un phénomène à replacer dans le contexte général de mondialisation.
+3° Des effets économiques contrastés : transferts (d'argent, de compétence) et trafics. Un phénomène à replacer dans le contexte général de mondialisation.
