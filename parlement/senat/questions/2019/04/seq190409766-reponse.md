@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190409766
+
+- Question : [SEQ190409766](seq190409766.md) — Prochaine réforme des congés bonifiés
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-07-18, page 3855*
+
+La réforme des congés bonifiés a été annoncée par le Président de la République lors de son discours en Guyane à l'ouverture des Assises des Outre-Mer le 28 octobre 2017. Dans le cadre de la restitution de ces mêmes assises le 28 juin 2018 il a confirmé cette attention en annonçant une réforme du dispositif qui sera effective à compter de 2020 avec un principe simple : les congés seront moins longs mais désormais tous les deux ans. Cette réforme ne se fera évidemment pas sans une concertation approfondie avec les organisations syndicales représentatives et les employeurs des trois versants de la fonction publique. Le Gouvernement souhaite ainsi la mettre en place prochainement et l'animation en a été confiée au ministère des Outre-mer. Il s'agira d'évaluer un dispositif dont les caractéristiques sont demeurées globalement inchangées depuis 1978 et d'en identifier les évolutions pertinentes tant il est évident que ce dispositif n'est plus adapté à notre temps, à nos modes de transports et de congés. Cette réforme vise à moderniser ce droit tout en répondant aux enjeux d'efficacité et de continuité des services publics. Dans ce cadre, le Gouvernement estime que la bonification de congés de trente-cinq jours qui perdurait pour des raisons historiques ne se justifie plus aujourd'hui et que seuls les temps de transport réels devront être pris en considération. À l'inverse, la réforme des congés bonifiés n'intègrera pas la question du centre des intérêts matériels et moraux, notion dont l'application dépasse le strict cadre des congés bonifiés. Enfin, cette réforme sera conduite au niveau réglementaire sans qu'il ne soit besoin de mobiliser le Parlement sur cette question puisqu'aucun de ses aspects ne suppose l'intervention de la loi.
