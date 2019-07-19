@@ -84,4 +84,4 @@ Administratif |
 
 |
 
-Ce tableau est proposé à titre indicatif et peut être ajusté en fonction des catégories de personnel intervenant dans la SCMR.
+Ce tableau est proposé à titre indicatif et peut être ajusté en fonction des catégories de personnel intervenant dans la SCMR (médiateur pair, etc.).
