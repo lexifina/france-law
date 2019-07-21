@@ -61,3 +61,15 @@ Ces dispositions sont applicables pour la détermination des résultats des exer
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2.
 
 11. Les plus-values mentionnées au 1 sont minorées du montant résultant de l'engagement de partage dû en application des articles L. 23-11-1 à L. 23-11-4 du code de commerce.
+
+12. Le régime fiscal des plus ou moins-values prévu au présent article s'applique aux cessions de titres d'une société issue d'une opération de fusion ou de scission sans échange de titres au sens du 3° du II de l'article L. 236-3 du code de commerce.
+
+Lorsque la plus ou moins-value mentionnée au premier alinéa du présent 12 relève du régime des plus ou moins-values à long terme, mais que les titres de la société absorbée ou scindée ont été acquis depuis moins de deux ans à la date de la cession, la plus ou moins-value correspondant à la quote-part de valeur de ces titres ajoutée à celle des titres de la société bénéficiaire des apports réalisés lors de l'opération de fusion ou de scission, est calculée distinctement. La plus ou moins-value ainsi calculée est considérée comme une plus ou moins-value à court terme.
+
+Lorsque la plus ou moins-value mentionnée au premier alinéa du présent 12 relève du régime des plus ou moins-values à court terme, mais que les titres de la société absorbée ou scindée, éligibles au régime des plus ou moins-values à long terme, ont été acquis depuis plus de deux ans à la date de la cession, la plus ou moins-value correspondant à la quote-part de valeur de ces titres ajoutée à celle des titres de la société bénéficiaire des apports réalisés lors de l'opération de fusion ou de scission est calculée distinctement. La plus ou moins-value ainsi calculée est considérée comme une plus ou moins-value à long terme.
+
+La plus ou moins-value correspondant à la quote-part de valeur des titres de la société absorbée ou scindée mentionnée aux deuxième et troisième alinéas du présent 12 est égale à la différence entre, d'une part, la fraction du prix de cession des titres mentionnés au premier alinéa du présent 12 obtenue après application du rapport entre la valeur vénale des titres de la société absorbée ou scindée et la somme de cette même valeur et de la valeur vénale des titres de la société absorbante ou bénéficiaire au jour de la fusion ou de la scission et, d'autre part, le prix de revient des titres de la société absorbée ou scindée.
+
+NOTA :
+
+Conformément au II de l'article 43 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter du 21 juillet 2019.
