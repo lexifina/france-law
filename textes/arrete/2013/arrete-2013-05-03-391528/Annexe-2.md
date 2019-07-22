@@ -2,6 +2,6 @@
 
 MODÈLE DE CERTIFICAT DE NAVIGABILITÉ
 
-Vous pouvez consulter le modèle dans le fac-similé du JO nº 0301 du 30/12/2014, texte nº 48.
+Vous pouvez consulter les modifications apportées au modèle dans la version électronique authentifiée publiée au JO n° 0168 du 21/07/2019 :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141230&numTexte=48&pageDebut=23002&pageFin=23006
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000038792998
