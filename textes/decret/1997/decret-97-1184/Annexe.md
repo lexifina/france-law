@@ -44,23 +44,11 @@ Code de la défense
 
 |
 
-Décisions portant admission aux sessions nationales et régionales de l'institut.
+Décisions portant admission aux sessions nationales de l'Institut des hautes études de la défense nationale.
 
 |
 
 Article R. 1132-15
-
-|
-
-2
-
-|
-
-Décisions portant attribution du titre d'ancien auditeur.
-
-|
-
-Article R. 1132-18
 
 |
 
