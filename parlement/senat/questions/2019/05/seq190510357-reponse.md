@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510357
+
+- Question : [SEQ190510357](seq190510357.md) — Service militaire universel et préparation militaire marine
+
+## Réponse
+
+*Armées (Mme la SE auprès de la ministre), JO du 2019-07-25, page 4009*
+
+Le service national universel (SNU) voulu par le Président de la République a pour objectif de promouvoir auprès des jeunes la citoyenneté, la culture de l'engagement et l'esprit de défense. Dans ce cadre, il permettra de diffuser les valeurs républicaines et de sensibiliser la jeunesse au rôle que jouent les armées. Pour autant, ce n'est pas un service militaire. En conseil des ministres du 27 juin 2018, le schéma d'un SNU en quatre étapes a été présenté : une phase 0 de préparation et d'information lors de la scolarité obligatoire ; une phase 1 obligatoire d'hébergement collectif de 12 jours ; une phase 2 obligatoire de mission d'intérêt général de 12 jours ou 84 heures et une phase 3 d'engagement volontaire. Lors de la phase 1 d'hébergement collectif, une présentation des missions du ministère des armées et son rôle dans la politique de défense sera faite auprès de tous les jeunes lors d'une journée commune intitulée « défense et mémoire nationales ». Le dispositif de préparation militaire y sera présenté ainsi qu'à l'occasion des « forums de l'engagement » qui se tiendront durant cette phase. En effet, les actuelles préparations militaires, organisées par les trois armées, seront préservées et proposées dans le cadre de la phase de mission d'intérêt général, aux jeunes qui souhaitent découvrir la vie militaire et préparer un éventuel engagement au sein des armées, ou dans le cadre de la réserve opérationnelle, lors de la phase d'engagement volontaire. Le SNU n'entre donc pas en concurrence avec les dispositifs existants et leur donnera une visibilité supplémentaire. Par ailleurs, les préparations militaires permettront de valider la seconde phase obligatoire du SNU.
