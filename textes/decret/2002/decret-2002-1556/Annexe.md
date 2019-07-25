@@ -120,7 +120,7 @@ Les dettes contractées par un époux n'engagent pas son conjoint, à l'exceptio
 
 Changement de régime matrimonial
 
-Quel que soit le régime matrimonial choisi au moment du mariage, les époux peuvent au bout de deux ans, dans l'intérêt de la famille, décider de le modifier ou d'en changer par acte notarié. Lorsque l'un ou l'autre des époux a des enfants mineurs, l'acte notarié est obligatoirement soumis à l'homologation du tribunal du domicile des époux.
+Quel que soit le régime matrimonial choisi au moment du mariage, les époux peuvent, dans l'intérêt de la famille, décider de le modifier ou d'en changer par acte notarié. Lorsque l'un ou l'autre des époux a des enfants mineurs sous le régime de l'administration légale, le notaire peut saisir le juge des tutelles s'il estime que le changement de régime matrimonial compromet manifestement et substantiellement les intérêts patrimoniaux du mineur ou porte un préjudice à ceux-ci.
 
 Cas où l'un des conjoints est de nationalité étrangère ou a son domicile à l'étranger
 
