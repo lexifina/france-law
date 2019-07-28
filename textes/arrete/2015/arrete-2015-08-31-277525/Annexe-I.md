@@ -1,2420 +1,1330 @@
 # Article Annexe I
 
-N°
+N° |
 
-|
-
-FONCTION
-
-|
-
-CATÉGORIE
-
-|
-
-FORMAT D'UNITÉ
+Fonction |
 
-fonctionnelle exprimé
+Catégorie |
 
-en unités
+unité fonctionnelle |
 
-du système international
-
-|
-
-FAMILLE
-
-|
-
-SOLUTION
-
-|
+Unité déclarée |
 
-NUMÉROTATION
+Famille |
 
-de la famille
+Solution |
 
-|
+Numérotation de la famille |
 
-1
+1 |
 
-|
+Appareillage d'installation pour les réseaux d'énergie électrique et de communication
 
-Appareillage d'installation
+≤ 63 Ampères |
 
-pour les réseaux
+Appareillage mural |
 
-d'énergie électrique
+Unité |
 
-et de communication
+Unité |
 
-≤ 63 ampères
+Automatismes |
 
-|
+Détecteurs de présence |
 
-Appareillage mural
+01.01.01.01 |
 
-|
+Thermostats |
 
-Unité
+01.01.01.02 |
 
-|
+Variateurs |
 
-Automatismes
+01.01.01.03 |
 
-|
+Boîtes d'appareillage |
 
-Détecteurs de présence
+Pour cloison sèche |
 
-|
+01.01.02.01 |
 
-01.01.01.01
+Pour maçonnerie |
 
-|
+01.01.02.02 |
 
-Thermostats
+Commandes |
 
-|
+Interrupteurs |
 
-01.01.01.02
+01.01.03.01 |
 
-|
+Poussoirs |
 
-Variateurs
+01.01.03.02 |
 
-|
+Autres : VMC, volet roulant… |
 
-01.01.01.03
+01.01.03.03 |
 
-|
+Plaques et supports |
 
-Boîtes d'appareillage
+Sous-ensemble d'appareillage mural |
 
-|
+01.01.04.01 |
 
-Pour cloison sèche
+Prises |
 
-|
+Prises de courant faible |
 
-01.01.02.01
+01.01.05.01 |
 
-|
+Prises de courant fort |
 
-Pour maçonnerie
+01.01.05.02 |
 
-|
+Prises diverses (TV, HP, informatique…) |
 
-01.01.02.02
+01.01.05.03 |
 
-|
+Signalisation |
 
-Commandes
+Diffusion sonore : haut-parleur |
 
-|
+01.01.06.01 |
 
-Interrupteurs
+Diffusion sonore : sonnette et carillon |
 
-|
+01.01.06.02 |
 
-01.01.03.01
+Voyants |
 
-|
+01.01.06.03 |
 
-Poussoirs
+Accessoires |
 
-|
+Télécommandes, obturateurs, griffes |
 
-01.01.03.02
+01.01.07.01 |
 
-|
+Appareillage modulaire destiné aux enveloppes |
 
-Autres : VMC, volet roulant…
+Unité |
 
-|
+Unité |
 
-01.01.03.03
+Appareillage général de protection |
 
-|
+Connexions |
 
-Plaques et supports
+01.02.01.01 |
 
-|
+Disjoncteurs |
 
-Sous-ensemble d'appareillage mural
+01.02.01.02 |
 
-|
+Disjoncteurs de branchement |
 
-01.01.04.01
+01.02.01.03 |
 
-|
+Interrupteurs / sectionneurs |
 
-Prises
+01.02.01.04 |
 
-|
+Inverseurs de source |
 
-Prises de courant faible
+01.02.01.05 |
 
-|
+Relais différentiel |
 
-01.01.05.01
+01.02.01.06 |
 
-|
+Protection contre la foudre |
 
-Prises de courant fort
+Parafoudres |
 
-|
+01.02.02.01 |
 
-01.01.05.02
+Parafoudres téléphoniques |
 
-|
+01.02.02.02 |
 
-Prises diverses (TV, HP, informatique…)
+Protection de ligne |
 
-|
+Coupe-circuits |
 
-01.01.05.03
+01.02.03.01 |
 
-|
+Disjoncteurs divisionnaires |
 
-Signalisation
+01.02.03.02 |
 
-|
+Disjoncteurs moteurs |
 
-Diffusion sonore : haut-parleur
+01.02.03.03 |
 
-|
+Fusibles |
 
-01.01.06.01
+01.02.03.04 |
 
-|
+Protection différentielle |
 
-Diffusion sonore : sonnette et carillon
+Blocs différentiels |
 
-|
+01.02.04.01 |
 
-01.01.06.02
+Disjoncteurs différentiels |
 
-|
+01.02.04.02 |
 
-Voyants
+Interrupteurs différentiels |
 
-|
+01.02.04.03 |
 
-01.01.06.03
+Gestion de l'éclairage |
 
-|
+Interrupteurs crépusculaires |
 
-Accessoires
+01.02.05.01 |
 
-|
+Gestion solaire |
 
-Télécommandes, obturateurs, griffes
+01.02.05.02 |
 
-|
+Variateurs |
 
-01.01.07.01
+01.02.05.03 |
 
-|
+Gestion d'énergie |
 
-Appareillage modulaire destiné aux enveloppes
+Délesteurs |
 
-|
+01.02.06.01 |
 
-Unité
+Gestionnaires d'énergie |
 
-|
+01.02.06.02 |
 
-Appareillage général de protection
+Gestion des ouvrants et volets |
 
-|
+Gestion des ouvrants et volets |
 
-Connexions
+01.02.07.01 |
 
-|
+Gestion du temps |
 
-01.02.01.01
+Inters horaires |
 
-|
+01.02.08.01 |
 
-Disjoncteurs
+Minuteries |
 
-|
+01.02.08.02 |
 
-01.02.01.02
+Relais temporisés |
 
-|
+01.02.08.03 |
 
-Disjoncteurs de branchement
+Gestion thermique (chauffage, ventilation) |
 
-|
+Thermostats |
 
-01.02.01.03
+01.02.09.01 |
 
-|
+Mesure |
 
-Interrupteurs / sectionneurs
+Compteurs d'énergie |
 
-|
+01.02.10.01 |
 
-01.02.01.04
+Capteurs pluie, soleil,… |
 
-|
+01.02.10.02 |
 
-Inverseurs de source
+Voltmètres, ampèremètres |
 
-|
+01.02.10.03 |
 
-01.02.01.05
+Organes de commande |
 
-|
+Boutons-poussoirs |
 
-Relais différentiel
+01.02.11.01 |
 
-|
+Contacteurs |
 
-01.02.01.06
+01.02.11.02 |
 
-|
+Interrupteurs, inverseurs, commutateurs… |
 
-Protection contre la foudre
+01.02.11.03 |
 
-|
+Télérupteurs |
 
-Parafoudres
+01.02.11.04 |
 
-|
+Organes de signalisation |
 
-01.02.02.01
+Carillons et sonneries |
 
-|
+01.02.12.01 |
 
-Parafoudres téléphoniques
+Voyants |
 
-|
+01.02.12.02 |
 
-01.02.02.02
+Domotique et systèmes communicants |
 
-|
+Unité |
 
-Protection de ligne
+Unité |
 
-|
+Réseaux multimédias et VDI (Voix-Données-Image) |
 
-Coupe-circuits
+Appareillage modulaire pour domotique |
 
-|
+01.03.01.01 |
 
-01.02.03.01
+Appareillage terminal pour domotique |
 
-|
+01.03.01.02 |
 
-Disjoncteurs divisionnaires
+Répartiteurs signalisation / détection |
 
-|
+01.03.01.03 |
 
-01.02.03.02
+Points d'accès Wi-Fi |
 
-|
+01.03.01.04 |
 
-Disjoncteurs moteurs
+Enveloppes |
 
-|
+Unité |
 
-01.02.03.03
+Unité |
 
-|
+Armoires |
 
-Fusibles
+Armoires polyester |
 
-|
+01.04.01.01 |
 
-01.02.03.04
+Armoires métalliques |
 
-|
+01.04.01.02 |
 
-Protection différentielle
+Connexions |
 
-|
+01.04.01.03 |
 
-Blocs différentiels
+Equipements pour armoire |
 
-|
+01.04.01.04 |
 
-01.02.04.01
+Coffrets |
 
-|
+Cache-bornes |
 
-Disjoncteurs différentiels
+01.04.02.01 |
 
-|
+Coffrets encastrés |
 
-01.02.04.02
+01.04.02.02 |
 
-|
+Coffrets étanches |
 
-Interrupteurs différentiels
+01.04.02.03 |
 
-|
+Coffrets saillie |
 
-01.02.04.03
+01.04.02.04 |
 
-|
+Coffrets VDI |
 
-Gestion de l'éclairage
+01.04.02.05 |
 
-|
+Boîtes de dérivation |
 
-Interrupteurs crépusculaires
+01.04.02.06 |
 
-|
+Autres |
 
-01.02.05.01
+Pupitres, gestion thermique des enveloppes |
 
-|
+01.04.03.01 |
 
-Gestion solaire
+Solutions de cheminement des câbles |
 
-|
+Mètre |
 
-01.02.05.02
+Unité |
 
-|
+Systèmes de chemins de câbles et d'échelles à câbles |
 
-Variateurs
+Chemins de câble fil |
 
-|
+01.05.01.01 |
 
-01.02.05.03
+Chemins de câble dalle |
 
-|
+01.05.01.02 |
 
-Gestion d'énergie
+Echelles à câbles |
 
-|
+01.05.01.03 |
 
-Délesteurs
+Systèmes de goulottes et conduits |
 
-|
+Conduits |
 
-01.02.06.01
+01.05.02.01 |
 
-|
+Conduits profilés |
 
-Gestionnaires d'énergie
+01.05.02.02 |
 
-|
+Tubes et conduits rigides |
 
-01.02.06.02
+01.05.02.03 |
 
-|
+Goulottes de distribution |
 
-Gestion des ouvrants et volets
+01.05.02.04 |
 
-|
+Goulottes de sol |
 
-Gestion des ouvrants et volets
+01.05.02.05 |
 
-|
+Goulottes d'installation |
 
-01.02.07.01
+01.05.02.06 |
 
-|
+Moulures et plinthes |
 
-Gestion du temps
+01.05.02.07 |
 
-|
+Unité |
 
-Inters horaires
+Unité |
 
-|
+Autres produits ponctuels pour le cheminement des câbles |
 
-01.02.08.01
+Gaine Technique Logement (GTL) |
 
-|
+01.05.03.01 |
 
-Minuteries
+Boîtes de sol |
 
-|
+01.05.03.02 |
 
-01.02.08.02
+Nourrices, colonnes et colonnettes |
 
-|
+01.05.03.03 |
 
-Relais temporisés
+Goulottes de câblage pour armoire |
 
-|
+01.05.03.04 |
 
-01.02.08.03
+Autres et accessoires |
 
-|
+01.05.03.05 |
 
-Gestion thermique (chauffage, ventilation)
+Autres |
 
 |
 
-Thermostats
-
 |
 
-01.02.09.01
+Connexion / raccordement (hors enveloppe) |
 
-|
+Blocs de jonction |
 
-Mesure
+01.06.01.01 |
 
-|
+Connecteurs |
 
-Compteurs d'énergie
+01.06.01.02 |
 
-|
+Prises industrielles |
 
-01.02.10.01
+01.06.01.03 |
 
-|
+Alimentations |
 
-Capteurs pluie, soleil,…
+Transformateurs |
 
-|
+01.06.02.01 |
 
-01.02.10.02
+Sources centrales |
 
-|
+01.06.02.02 |
 
-Voltmètres, ampèremètres
+Appareillage électrique mobile |
 
-|
+Baladeuse |
 
-01.02.10.03
+01.06.03.01 |
 
-|
+Blocs multiprises, prises gigogne, autres |
 
-Organes de commande
+01.06.03.02 |
 
-|
+Motorisation d'ouverture de volets |
 
-Boutons-poussoirs
+Motorisation d'ouverture de porte, de portail… |
 
-|
+01.06.04.01 |
 
-01.02.11.01
+Motorisation volet roulant |
 
-|
+01.06.04.02 |
 
-Contacteurs
+Divers |
 
 |
 
-01.02.11.02
-
 |
-
-Interrupteurs, inverseurs, commutateurs…
 
 |
 
-01.02.11.03
-
 |
-
-Télérupteurs
 
-|
+01.00.00.00 |
 
-01.02.11.04
+2 |
 
-|
+Fils et câbles |
 
-Organes de signalisation
+Réseaux d'énergie |
 
 |
 
-Carillons et sonneries
-
 |
 
-01.02.12.01
+Câbles moyenne tension |
 
 |
-
-Voyants
 
-|
+02.01.01.01 |
 
-01.02.12.02
+Câbles basse tension < 1kV |
 
 |
-
-Domotique et systèmes
 
-communicants
+02.01.02.01 |
 
-|
-
-Unité
+Accessoires réseaux d'énergie |
 
 |
 
-Réseaux multimédias et VDI (Voix-Données-Image)
-
-|
+02.01.03.01 |
 
-Appareillage modulaire pour domotique
+Transfert d'énergie et de données à l'intérieur du bâtiment |
 
 |
 
-01.03.01.01
-
 |
 
-Appareillage terminal pour domotique
+Fils et câbles d'énergie |
 
 |
-
-01.03.01.02
 
-|
+02.02.01.01 |
 
-Répartiteurs signalisation / détection
+Câbles de communication Cuivre et Fibres optiques |
 
 |
-
-01.03.01.03
 
-|
+02.02.02.01 |
 
-Points d'accès Wi-Fi
+Accessoires dans le bâtiment |
 
 |
-
-01.03.01.04
 
-|
+02.02.03.01 |
 
-Enveloppes
+Autres fils et câbles |
 
 |
-
-Unité
 
 |
 
-Armoires
+Non isolés |
 
 |
 
-Armoires polyester
+02.03.01.01 |
 
-|
-
-01.04.01.01
+Câbles chauffants |
 
 |
 
-Armoires métalliques
-
-|
+02.03.02.01 |
 
-01.04.01.02
+Divers |
 
 |
 
-Connexions
-
 |
-
-01.04.01.03
 
 |
 
-Equipements pour armoire
-
 |
-
-01.04.01.04
 
-|
+02.00.00.00 |
 
-Coffrets
+3 |
 
-|
+Sécurité des personnes et contrôle d'accès |
 
-Cache-bornes
+Détection et contrôle d'accès |
 
-|
+Unité |
 
-01.04.02.01
+Unité |
 
-|
+Système de détection contre l'intrusion |
 
-Coffrets encastrés
+Matériel de détection contre l'intrusion |
 
-|
+03.01.01.01 |
 
-01.04.02.02
+Matériel de commande (clavier, télécommande…) |
 
-|
+03.01.01.02 |
 
-Coffrets étanches
+Centrales d'alarme |
 
-|
+03.01.01.03 |
 
-01.04.02.03
+Matériel de signalisation (sirène, transmetteur…) |
 
-|
+03.01.01.04 |
 
-Coffrets saillie
+Système de contrôle d'accès |
 
-|
+Portiers audio |
 
-01.04.02.04
+03.01.02.01 |
 
-|
+Portiers vidéo |
 
-Coffrets VDI
+03.01.02.02 |
 
-|
+Vidéo-surveillance |
 
-01.04.02.05
+Unité |
 
-|
+Unité |
 
-Boîtes de dérivation
+Système de vidéo-surveillance |
 
-|
+Equipements pour la capture d'image (caméras) |
 
-01.04.02.06
+03.02.01.01 |
 
-|
+Equipements pour la gestion de l'image |
 
-Autres
+03.02.01.02 |
 
-|
+Interconnexions |
 
-Pupitres, gestion thermique
+03.02.01.03 |
 
-des enveloppes
+Divers |
 
 |
-
-01.04.03.01
 
 |
 
-Solutions de cheminement des câbles
-
 |
-
-Mètre
 
 |
 
-Systèmes de chemins de câbles et d'échelles à câbles
-
-|
+03.00.00.00 |
 
-Chemins de câble fil
+4 |
 
-|
+Sécurité du bâtiment |
 
-01.05.01.01
+Système d'éclairage de sécurité |
 
-|
+Unité |
 
-Chemins de câble dalle
+Unité |
 
-|
+Ambiance |
 
-01.05.01.02
+Blocs autonomes d'éclairage de sécurité (B.A.E.S) |
 
-|
+04.01.01.01 |
 
-Echelles à câbles
+Luminaire pour source centrale (L.S.C) |
 
-|
+04.01.01.02 |
 
-01.05.01.03
+Blocs à phare |
 
-|
+04.01.01.03 |
 
-Systèmes de goulottes et conduits
+Evacuation |
 
-|
+Blocs autonomes d'éclairage de sécurité (B.A.E.S) |
 
-Conduits
+04.01.02.01 |
 
-|
+Blocs autonomes d'éclairage d'habitation (B.A.E.H) |
 
-01.05.02.01
+04.01.02.02 |
 
-|
+Bloc Bi-fonctions (B.A.E.S + B.A.E.H) |
 
-Conduits profilés
+04.01.02.03 |
 
-|
+Luminaire pour source centrale (L.S.C) |
 
-01.05.02.02
+04.01.02.04 |
 
-|
+B.A.E.S + D.L (dispositif lumineux) |
 
-Tubes et conduits rigides
+04.01.02.05 |
 
-|
+B.A.E.S + D.B.R (dispositif de balisage renforcé) |
 
-01.05.02.03
+04.01.02.06 |
 
-|
+L.S.C + D.B.R |
 
-Goulottes de distribution
+04.01.02.07 |
 
-|
+Eclairage de secours |
 
-01.05.02.04
+Blocs autonomes d'éclairage d'habitation (B.A.E.H) |
 
-|
+04.01.03.01 |
 
-Goulottes de sol
+Bloc bi-fonctions (B.A.E.S + B.A.E.H) |
 
-|
+04.01.03.02 |
 
-01.05.02.05
+Intervention |
 
-|
+Blocs autonomes portables d'intervention (B.A.P.I) |
 
-Goulottes d'installation
+04.01.04.01 |
 
-|
+Alimentation |
 
-01.05.02.06
+Source centrale pour luminaire d'éclairage de sécurité |
 
-|
+04.01.05.01 |
 
-Moulures et plinthes
+Sécurité incendie |
 
-|
+Unité |
 
-01.05.02.07
+Unité |
 
-|
+Sécurité incendie et alarme technique |
 
-Unité
+Détecteurs Avertisseurs autonomes de fumée |
 
-|
+04.02.01.01 |
 
-Autres produits ponctuels pour le cheminement des câbles
+Détecteurs et alarmes techniques (inondation, gaz…) |
 
-|
+04.02.01.02 |
 
-Gaine technique logement (GTL)
+Détecteurs avertisseurs autonomes de monoxyde de carbone |
 
-|
+04.02.01.03 |
 
-01.05.03.01
+Détecteurs et alarmes techniques |
 
-|
+04.02.01.04 |
 
-Boîtes de sol
+Divers |
 
 |
-
-01.05.03.02
 
 |
 
-Nourrices, colonnes et colonnettes
-
 |
-
-01.05.03.03
 
 |
 
-Goulottes de câblage pour armoire
+04.00.00.00 |
 
-|
+5 |
 
-01.05.03.04
+Equipements de génie climatique |
 
-|
+Chauffage et/ou rafraîchissement et/ou production d'eau chaude sanitaire |
 
-Autres et accessoires
+kW |
 
-|
+unité |
 
-01.05.03.05
+Chaudière (chauffage seul) |
 
-|
+Chaudière gaz |
 
-Autres
+05.01.01.01 |
 
-|
+Chaudière fioul |
 
-|
+05.01.01.02 |
 
-Connexion / raccordement (hors enveloppe)
+Chaudière hybride |
 
-|
+05.01.01.03 |
 
-Blocs de jonction
+Chaudière biomasse |
 
-|
+05.01.01.04 |
 
-01.06.01.01
+kW |
 
-|
+unité |
 
-Connecteurs
+Chaudière mixte (chauffage et eau chaude sanitaire) |
 
-|
+Chaudière gaz |
 
-01.06.01.02
+05.01.02.01 |
 
-|
+Chaudière fioul |
 
-Prises industrielles
+05.01.02.02 |
 
 |
 
-01.06.01.03
+unité |
 
 |
-
-Alimentations
 
-|
+Appareils indépendants à biomasse |
 
-Transformateurs
+05.01.02.03 |
 
-|
+kW |
 
-01.06.02.01
+unité |
 
-|
+Pompe à chaleur |
 
-Sources centrales
+Pompe à chaleur à compresseur électrique |
 
-|
+05.01.03.01 |
 
-01.06.02.02
+Pompe à chaleur hybride |
 
-|
+05.01.03.02 |
 
-Appareillage électrique mobile
+kW |
 
-|
+unité |
 
-Baladeuse
+Emetteur à eau |
 
-|
+Radiateur |
 
-01.06.03.01
+05.01.04.01 |
 
-|
+Sèche-serviettes |
 
-Blocs multiprises, prises gigogne, autres
+05.01.04.02 |
 
-|
+kW |
 
-01.06.03.02
+unité |
 
-|
+Chauffage à énergie électrique directe à poste fixe visible |
 
-Motorisation d'ouverture de volets
+Convecteur |
 
-|
+05.01.05.01 |
 
-Motorisation d'ouverture de porte, de portail…
+Rayonnant |
 
-|
+05.01.05.02 |
 
-01.06.04.01
+Radiateur |
 
-|
+05.01.05.03 |
 
-Motorisation volet roulant
+Appareil avec fonction secondaire sèche-serviette |
 
-|
+05.01.05.04 |
 
-01.06.04.02
+Production d'eau chaude sanitaire |
 
-|
+Litre |
 
-Divers
+unité |
 
-|
+Chauffe-eau individuel à accumulation |
 
-|
+Chauffe-eau électrique |
 
-|
+05.02.01.01 |
 
-|
+Chauffe-eau thermodynamique |
 
-01.00.00.00
+05.02.01.02 |
 
-|
+Chauffe-eau gaz |
 
-2
+05.02.01.03 |
 
-|
+Chauffe-eau solaire individuel |
 
-Fils et câbles
+05.02.01.04 |
 
-|
+Unités terminales de confort |
 
-Réseaux d'énergie
+kW |
 
-|
+unité |
 
-|
+Ventilo-convecteurs |
 
-Câbles moyenne tension
+Ventilo-convecteurs |
 
-|
+05.03.01.01 |
 
-|
+m3 |
 
-02.01.01.01
+unité |
 
-|
+Poutres climatiques |
 
-Câbles basse tension < 1kV
+Poutres climatiques passives (EN 15518) |
 
-|
+05.03.02.01 |
 
-|
+Poutres climatiques actives (EN 15116) |
 
-02.01.02.01
+05.03.02.02 |
 
-|
+kW |
 
-Accessoires réseaux d'énergie
+unité |
 
-|
+Radiateurs dynamiques |
 
-|
+Radiateurs dynamiques |
 
-02.01.03.01
+05.03.03.01 |
 
-|
+Conduits et accessoires de réseaux |
 
-Transfert d'énergie et de données à l'intérieur du bâtiment
+mL de conduit |
 
 |
 
 |
-
-Fils et câbles d'énergie
 
-|
+Conduits flexibles |
 
-|
+05.04.01.01 |
 
-02.02.01.01
+Conduits rigides |
 
-|
+05.04.01.02 |
 
-Câbles de communication
+Coudes et accessoires |
 
-Cuivre et fibres optiques
+05.04.01.03 |
 
-|
-
-|
-
-02.02.02.01
-
-|
-
-Accessoires dans le bâtiment
-
-|
-
-|
-
-02.02.03.01
-
-|
-
-Autres fils et câbles
-
-|
-
-|
-
-Non isolés
-
-|
-
-|
-
-02.03.01.01
-
-|
-
-Câbles chauffants
-
-|
-
-|
-
-02.03.02.01
-
-|
-
-Divers
-
-|
-
-|
-
-|
-
-|
-
-02.00.00.00
-
-|
-
-3
-
-|
-
-Sécurité des personnes et contrôle d'accès
-
-|
-
-Détection et contrôle d'accès
-
-|
-
-Unité
-
-|
-
-Système de détection contre l'intrusion
-
-|
-
-Matériel de détection contre l'intrusion
-
-|
-
-03.01.01.01
-
-|
-
-Matériel de commande
-
-(clavier, télécommande…)
-
-|
-
-03.01.01.02
-
-|
-
-Centrales d'alarme
-
-|
-
-03.01.01.03
-
-|
-
-Matériel de signalisation (sirène,
-
-transmetteur…)
-
-|
-
-03.01.01.04
-
-|
-
-Système de contrôle d'accès
-
-|
-
-Portiers audio
-
-|
-
-03.01.02.01
-
-|
-
-Portiers vidéo
-
-|
-
-03.01.02.02
-
-|
-
-Vidéo-surveillance
-
-|
-
-Unité
-
-|
-
-Système de vidéo-surveillance
-
-|
-
-Equipements pour la capture d'image (caméras)
-
-|
-
-03.02.01.01
-
-|
-
-Equipements pour la gestion de l'image
-
-|
-
-03.02.01.02
-
-|
-
-Interconnexions
-
-|
-
-03.02.01.03
-
-|
-
-Divers
-
-|
-
-|
-
-|
-
-|
-
-03.00.00.00
-
-|
-
-4
-
-|
-
-Sécurité du bâtiment
-
-|
-
-Système d'éclairage de sécurité
-
-|
-
-Unité
-
-|
-
-Ambiance
-
-|
-
-Blocs autonomes d'éclairage de sécurité (BAES)
-
-|
-
-04.01.01.01
-
-|
-
-Luminaire pour source centrale (LSC)
-
-|
-
-04.01.01.02
-
-|
-
-Blocs à phare
-
-|
-
-04.01.01.03
-
-|
-
-Evacuation
-
-|
-
-Blocs autonomes d'éclairage de sécurité (BAES)
-
-|
-
-04.01.02.01
-
-|
-
-Blocs autonomes d'éclairage d'habitation (BAEH)
-
-|
-
-04.01.02.02
-
-|
-
-Bloc Bi-fonctions (BAES + BAEH)
-
-|
-
-04.01.02.03
-
-|
-
-Luminaire pour source centrale (LCS)
-
-|
-
-04.01.02.04
-
-|
-
-BAES + DL (dispositif lumineux)
-
-|
-
-04.01.02.05
-
-|
-
-BAES + DBR (dispositif de balisage renforcé)
-
-|
-
-04.01.02.06
-
-|
-
-LCS + DBR
-
-|
-
-04.01.02.07
-
-|
-
-Eclairage de secours
-
-|
-
-Blocs autonomes d'éclairage d'habitation (BAEH)
-
-|
-
-04.01.03.01
-
-|
-
-Bloc bi-fonctions (BAES + BAEH)
-
-|
-
-04.01.03.02
-
-|
-
-Intervention
-
-|
-
-Blocs autonomes portables
-
-d'intervention (BAPI)
-
-|
-
-04.01.04.01
-
-|
-
-Alimentation
-
-|
-
-Source centrale pour luminaire d'éclairage de sécurité
-
-|
-
-04.01.05.01
-
-|
-
-Sécurité incendie
-
-|
-
-Unité
-
-|
-
-Sécurité incendie et alarme technique
-
-|
-
-Détecteurs Avertisseurs autonomes
-
-de fumée
-
-|
-
-04.02.01.01
-
-|
-
-Détecteurs et alarmes techniques
-
-(inondation, gaz…)
-
-|
-
-04.02.01.02
-
-|
-
-Détecteurs avertisseurs autonomes de monoxyde de carbone
-
-|
-
-04.02.01.03
-
-|
-
-Détecteurs et alarmes techniques
-
-|
-
-04.02.01.04
-
-|
-
-Divers
-
-|
-
-|
-
-|
-
-|
-
-04.00.00.00
-
-|
-
-5
-
-|
-
-Equipements
-
-de génie climatique
-
-|
-
-Chauffage et/ou rafraîchissement et/ou production d'eau chaude sanitaire
-
-|
-
-kWh
-
-|
-
-Chaudière (chauffage seul)
-
-|
-
-Chaudière gaz
-
-|
-
-05.01.01.01
-
-|
-
-Chaudière fioul
-
-|
-
-05.01.01.02
-
-|
-
-Chaudière hybride
-
-|
-
-05.01.01.03
-
-|
-
-Chaudière biomasse
-
-|
-
-05.01.01.04
-
-|
-
-kWh
-
-|
-
-Chaudière mixte (chauffage et eau chaude sanitaire)
-
-|
-
-Chaudière gaz
-
-|
-
-05.01.02.01
-
-|
-
-Chaudière fioul
-
-|
-
-05.01.02.02
-
-|
-
-|
-
-|
-
-Appareils indépendants à biomasse
-
-|
-
-05.01.02.03
-
-|
-
-kWh
-
-|
-
-Pompe à chaleur
-
-|
-
-Pompe à chaleur à compresseur
-
-électrique
-
-|
-
-05.01.03.01
-
-|
-
-Pompe à chaleur hybride
-
-|
-
-05.01.03.02
-
-|
-
-W
-
-|
-
-Emetteur à eau
-
-|
-
-Radiateur
-
-|
-
-05.01.04.01
-
-|
-
-Sèche-serviettes
-
-|
-
-05.01.04.02
-
-|
-
-m2
-
-|
-
-Chauffage à énergie électrique directe à poste fixe visible
-
-|
-
-Convecteur
-
-|
-
-05.01.05.01
-
-|
-
-Rayonnant
-
-|
-
-05.01.05.02
-
-|
-
-Radiateur
-
-|
-
-05.01.05.03
-
-|
-
-Appareil avec fonction secondaire sèche-serviette
-
-|
-
-05.01.05.04
-
-|
-
-Production d'eau chaude
-
-sanitaire
-
-|
-
-Litre
-
-|
-
-Chauffe-eau individuel à accumulation
-
-|
-
-Chauffe-eau électrique
-
-|
-
-05.02.01.01
-
-|
-
-Chauffe-eau thermodynamique
-
-|
-
-05.02.01.02
-
-|
-
-Chauffe-eau gaz
-
-|
-
-05.02.01.03
-
-|
-
-Chauffe-eau solaire individuel
-
-|
-
-05.02.01.04
-
-|
-
-Unités terminales de confort
-
-|
-
-kW
-
-|
-
-Ventilo-convecteurs
-
-|
-
-Ventilo-convecteurs
-
-|
-
-05.03.01.01
-
-|
-
-m3
-
-|
-
-Poutres climatiques
-
-|
-
-Poutres climatiques passives (EN 15518)
-
-|
-
-05.03.02.01
-
-|
-
-Poutres climatiques actives (EN 15116)
-
-|
-
-05.03.02.02
-
-|
-
-kW
-
-|
-
-Radiateurs dynamiques
-
-|
-
-Radiateurs dynamiques
-
-|
-
-05.03.03.01
-
-|
-
-Conduits et accessoires de réseaux
-
-|
-
-mL de conduit
-
-|
-
-|
-
-Conduits flexibles
-
-|
-
-05.04.01.01
-
-|
-
-Conduits rigides
-
-|
-
-05.04.01.02
-
-|
-
-Coudes et accessoires
-
-|
-
-05.04.01.03
-
-|
-
-Diffusion d'air
-
-|
+Diffusion d'air |
 
 m3/h
 
-|
-
-|
-
-Terminaux passifs
-
-|
-
-05.05.01.01
-
-|
-
-Diffuseurs
-
-|
-
-05.05.01.02
-
-|
-
-Entrées d'air
-
-|
-
-05.05.01.03
-
-|
-
-Bouches d'extraction et d'insufflation
-
-|
-
-05.05.01.04
-
-|
-
-Traitement d'air
-
-|
-
-m3/h
-
-|
-
-|
-
-Centrale de traitement d'air
-
-|
-
-05.06.01.01
-
-|
-
-Centrale double flux
-
-|
-
-05.06.01.02
-
-|
-
-Filtres à air
-
-|
-
-05.06.01.03
-
-|
-
-Caisson de ventilation
-
-|
-
-m3/h
-
-|
-
-|
-
-VMC simple flux
-
-|
-
-05.07.01.01
-
-|
-
-VMC double flux
-
-|
-
-05.07.01.02
-
-|
-
-Caisson de ventilation
-
-|
-
-05.07.01.03
-
-|
-
-Production de froid
-
-|
-
-kW
-
-|
-
-|
-
-Groupe de production d'eau glacée
-
-|
-
-05.08.01.01
-
-|
-
-Tour de refroidissement
-
-|
-
-05.08.01.02
-
-|
-
-Aéroréfrigérants
-
-|
-
-05.08.01.03
-
-|
-
-Divers
-
-|
-
-|
-
-|
-
-|
-
-05.00.00.00
-
-|
-
-6
-
-|
-
-Production locale d'électricité
-
-|
-
-Générateur d'électricité
-
-|
-
-kWh
-
-|
-
-Modules photovoltaïques
-
-|
-
-Silicium cristallin (monocristallin,
-
-polycristallin)
-
-|
-
-06.01.01.01
-
-|
-
-Couches minces
-
-|
-
-06.01.01.02
-
-|
-
-Aérogénérateurs
-
-|
-
-Horizontal
-
-|
-
-06.01.02.01
+ou
 
-|
-
-Vertical
-
-|
-
-06.01.02.02
-
-|
-
-Conversion et régulation
-
-|
-
-kWh
-
-|
-
-Conversion
-
-|
-
-Onduleurs synchrones
-
-|
-
-06.02.01.01
-
-|
-
-Onduleurs autonomes
-
-|
-
-06.02.01.02
-
-|
-
-Convertisseur DC/DC
-
-|
-
-06.02.01.03
-
-|
-
-Convertisseur AC/DC
-
-|
-
-06.02.01.04
+dm2 |
 
-|
-
-Régulation
-
-|
-
-Contrôleur de charge
-
-|
-
-06.02.02.01
-
-|
-
-Stockage
-
-|
-
-kWh
+unité |
 
 |
 
-Batterie électrochimique
+Terminaux passifs |
 
-|
+05.05.01.01 |
 
-Plomb - acide
+Diffuseurs |
 
-|
+05.05.01.02 |
 
-06.03.01.01
+Entrées d'air |
 
-|
+05.05.01.03 |
 
-Lithium - ion
+Bouches d'extraction et d'insufflation |
 
-|
+05.05.01.04 |
 
-06.03.01.02
+Traitement d'air |
 
-|
+m3/h |
 
-Autres
+unité |
 
 |
 
-06.03.01.03
+Centrale de traitement d'air |
 
-|
+05.06.01.01 |
 
-Divers
+Centrale double flux |
 
-|
+05.06.01.02 |
 
-|
+Filtres à air |
 
-06.03.02.01
+05.06.01.03 |
 
-|
+Caisson de ventilation |
 
-Monitoring
+m3/h |
 
-|
+unité |
 
 |
-
-Monitoring
 
-|
+VMC simple flux |
 
-Equipements de monitoring
+05.07.01.01 |
 
-|
+VMC double flux |
 
-06.04.01.01
+05.07.01.02 |
 
-|
+Caisson de ventilation |
 
-Divers
+05.07.01.03 |
 
-|
+Production de froid |
 
-|
+kW |
 
-|
+unité |
 
 |
 
-06.00.00.00
-
-|
+Groupe de production d'eau glacée |
 
-7
+05.08.01.01 |
 
-|
+Tour de refroidissement |
 
-Matériel d'éclairage
+05.08.01.02 |
 
-|
+Aéroréfrigérants |
 
-Matériels pour l'éclairage intérieur et leurs alimentations
+05.08.01.03 |
 
-|
+Divers |
 
 |
 
-Encastrés
-
 |
-
-Encastrés intérieurs linéaires pour
 
-éclairage tertiaire
-
 |
-
-07.01.01.01
 
 |
 
-Encastrés intérieurs non-linéaires pour éclairage tertiaire
+05.00.00.00 |
 
-|
+6 |
 
-07.01.01.02
+Production locale d'électricité |
 
-|
+Générateur d'électricité |
 
-Encastrés intérieurs pour éclairage
+kWh |
 
-d'accentuation (spots)
+unité |
 
-|
+Modules photovoltaïques |
 
-07.01.01.03
+Silicium cristallin (monocristallin, polycristallin) |
 
-|
+06.01.01.01 |
 
-|
+Couches minces |
 
-Appliques
+06.01.01.02 |
 
-|
+Aérogénérateurs |
 
-Plafonniers, suspensions intérieurs linéaires pour éclairage tertiaire ou industriel
+Horizontal |
 
-|
+06.01.02.01 |
 
-07.01.02.01
+Vertical |
 
-|
+06.01.02.02 |
 
-Appliques murales linéaires intérieures fonctionnelles
+Conversion et régulation |
 
-|
+kWh |
 
-07.01.02.02
+unité |
 
-|
+Conversion |
 
-Plafonniers, appliques murales, suspensions intérieures décoratives
+Onduleurs synchrones |
 
-|
+06.02.01.01 |
 
-07.01.02.03
+Onduleurs autonomes |
 
-|
+06.02.01.02 |
 
-Hublots intérieurs
+Convertisseur DC/DC |
 
-|
+06.02.01.03 |
 
-07.01.02.04
+Convertisseur AC/DC |
 
-|
+06.02.01.04 |
 
-Réglettes intérieures (ne comportent pas de dispositif optique, contrairement aux produits linéaires)
+Régulation |
 
-|
+Contrôleur de charge |
 
-07.01.02.05
+06.02.02.01 |
 
-|
+Stockage |
 
-Projecteurs intérieurs en applique ou sur rail ou suspensions, pour éclairage
+kWh |
 
-d'accentuation
+unité |
 
-|
+Batterie électrochimique |
 
-07.01.02.06
+Plomb - acide |
 
-|
+06.03.01.01 |
 
-Luminaires intérieurs étanches
+Lithium - ion |
 
-|
+06.03.01.02 |
 
-07.01.02.07
+Autres |
 
-|
+06.03.01.03 |
 
-Barrettes et bandes flexibles à LED (alimentation incluse)
+Divers |
 
 |
-
-07.01.02.08
 
-|
+06.03.02.01 |
 
-Suspensions
+Monitoring |
 
 |
-
-Armatures industrielles
 
 |
 
-07.01.03.01
+Monitoring |
 
-|
+Equipements de monitoring |
 
-Structures en ligne continue pour
+06.04.01.01 |
 
-éclairage industriel ou commercial
+Divers |
 
 |
 
-07.01.03.02
-
 |
-
-Supports
 
 |
 
-Rails d'alimentation pour projecteurs
-
 |
 
-07.01.04.01
+06.00.00.00 |
 
-|
+7 |
 
-Matériels pour l'éclairage extérieur et leurs alimentations
+Matériel d'éclairage |
 
-|
+Matériels pour l'éclairage intérieur et leurs alimentations |
 
-|
+Lumen |
 
-Projecteurs
+unité |
 
-|
+Encastrés |
 
-Projecteurs sportifs et grands espaces
+Encastrés intérieurs linéaires pour éclairage tertiaire |
 
-|
+07.01.01.01 |
 
-07.02.01.01
+Encastrés intérieurs non-linéaires pour éclairage tertiaire |
 
-|
+07.01.01.02 |
 
-Projecteurs extérieurs pour éclairage décoratif
+Encastrés intérieurs pour éclairage d'accentuation (spots) |
 
-|
+07.01.01.03 |
 
-07.02.01.02
+Appliques |
 
-|
+Plafonniers, Suspensions intérieurs linéaires pour éclairage tertiaire ou industriel |
 
-Luminaires pour éclairage extérieur
+07.01.02.01 |
 
-autres que projecteurs
+Appliques murales linéaires intérieures fonctionnelles |
 
-|
+07.01.02.02 |
 
-Luminaires pour éclairage décoratif
+Plafonniers, Appliques murales, Suspensions intérieures décoratives |
 
-|
+07.01.02.03 |
 
-07.02.02.01
+Hublots intérieurs |
 
-|
+07.01.02.04 |
 
-Luminaires pour éclairage fonctionnel
+Réglettes intérieures (ne comportent pas de dispositif optique, contrairement aux produits linéaires) |
 
-|
+07.01.02.05 |
 
-07.02.02.02
+Projecteurs intérieurs en applique ou sur rail ou suspensions, pour éclairage d'accentuation |
 
-|
+07.01.02.06 |
 
-Lanternes de style
+Luminaires intérieurs étanches |
 
-|
+07.01.02.07 |
 
-07.02.02.03
+Barrettes et bandes flexibles à LED (alimentation incluse) |
 
-|
+07.01.02.08 |
 
-Projecteurs encastrés
+Suspensions |
 
-|
+Armatures industrielles |
 
-Projecteurs extérieurs à encastrer dans le sol ou les murs
+07.01.03.01 |
 
-|
+Structures en ligne continue pour éclairage industriel ou commercial |
 
-07.02.03.01
+07.01.03.02 |
 
-|
+unité |
 
-Encastrés pour balisage
+unité |
 
-|
+Supports |
 
-Luminaires extérieurs de balisage à encastrer dans le sol ou les murs
+Rails d'alimentation pour projecteurs |
 
-|
+07.01.04.01 |
 
-07.02.04.01
+Matériels pour l'éclairage extérieur et leurs alimentations |
 
-|
+Lumen |
 
-Bornes et colonnes
+unité |
 
-|
+Projecteurs |
 
-Bornes extérieures décoratives
+Projecteurs sportifs et grands espaces |
 
-|
+07.02.01.01 |
 
-07.02.05.01
+Projecteurs extérieurs pour éclairage décoratif |
 
-|
+07.02.01.02 |
 
-Colonnes lumineuses extérieures
+Luminaires pour éclairage extérieur autres que projecteurs |
 
-décoratives
+Luminaires pour éclairage décoratif |
 
-|
+07.02.02.01 |
 
-07.02.05.02
+Luminaires pour éclairage fonctionnel |
 
-|
+07.02.02.02 |
 
-Luminaires étanches IP > 54
+Lanternes de style |
 
-|
+07.02.02.03 |
 
-Appliques murales et hublots étanches
+Projecteurs encastrés |
 
-|
+Projecteurs extérieurs à encastrer dans le sol ou les murs |
 
-07.02.06.01
+07.02.03.01 |
 
-|
+Encastrés pour balisage |
 
-Encastrés immergeables pour piscines ou fontaines
+Luminaires extérieurs de balisage à encastrer dans le sol ou les murs |
 
-|
+07.02.04.01 |
 
-07.02.06.02
+Bornes et colonnes |
 
-|
+Bornes extérieures décoratives |
 
-Projecteurs immergeables pour piscines ou fontaines
+07.02.05.01 |
 
-|
+Colonnes lumineuses extérieures décoratives |
 
-07.02.06.03
+07.02.05.02 |
 
-|
+Luminaires étanches IP > 54 |
 
-Mâts et supports
+Appliques murales et hublots étanches |
 
-|
+07.02.06.01 |
 
-Mâts
+Encastrés immergeables pour piscines ou fontaines |
 
-|
+07.02.06.02 |
 
-07.02.07.01
+Projecteurs immergeables pour piscines ou fontaines |
 
-|
+07.02.06.03 |
 
-Crosses
+unité |
 
-|
+unité |
 
-07.02.07.02
+Mâts et supports |
 
-|
+Mâts |
 
-Supports divers pour luminaire extérieur
+07.02.07.01 |
 
-|
+Crosses |
 
-07.02.07.03
+07.02.07.02 |
 
-|
+Supports divers pour luminaire extérieur |
 
-Divers
+07.02.07.03 |
 
-|
+Divers |
 
 |
 
 |
 
 |
-
-07.00.00.00
 
 |
 
-00
+07.00.00.00 |
 
-|
-
-Autres
+00 |
 
-|
+Autres |
 
-Divers
+Divers |
 
 |
 
@@ -2424,6 +1334,4 @@ Divers
 
 |
 
-00.00.00
-
-|
+00.00.00 |
