@@ -6,13 +6,13 @@ Les objectifs minimums de qualité à respecter pour l'évaluation de la qualit�
 
 |
 
-SO2, NO2, NOX, CO |
+SO2, NO2, NOx, CO |
 
 C6H6 |
 
-PM10, PM2,5 ET PB |
+PM10, PM2, 5 et Pb |
 
-O3, NO ET NO2 |
+O3, NO et NO2 |
 
 1. Mesures fixes (1) |
 
@@ -40,7 +40,7 @@ Saisie minimale de données (2) |
 
 Période minimale : |
 
-- sites urbains de fond et sous influence du trafic routier |
+-sites urbains de fond et sous influence du trafic routier |
 
 - |
 
@@ -50,7 +50,7 @@ Période minimale : |
 
 - |
 
-- sites sous influence industrielle |
+-sites sous influence industrielle |
 
 - |
 
@@ -72,7 +72,7 @@ Incertitude |
 
 30 % |
 
-Saisie minimale de données |
+Saisie minimale de données (2) |
 
 90 % |
 
@@ -92,7 +92,7 @@ Période minimale |
 
 > 10 % en été |
 
-3. Incertitude du modèle |
+3. Incertitude de la modélisation |
 
 Par heure |
 
@@ -144,7 +144,7 @@ Moyennes annuelles |
 
 75 % |
 
-(1) Des mesures aléatoires peuvent être utilisées pour le benzène, le plomb et les particules au lieu de mesures continues, s'il est démontré que l'incertitude, y compris l'incertitude liée à l'échantillonnage aléatoire, respecte l'objectif de qualité des données de 25% et que la période prise en compte reste supérieure à la période minimale fixée pour les mesures indicatives. L'échantillonnage aléatoire est réparti uniformément sur l'année pour éviter de biaiser les résultats. L'incertitude liée à l'échantillonnage aléatoire peut être quantifiée selon la procédure décrite dans la norme ISO 11222 (2002), Qualité de l'air - détermination de l'incertitude de mesure de la moyenne temporelle de mesurages de la qualité de l'air . Si des mesures aléatoires sont utilisées pour évaluer les exigences liées à la valeur limite applicable aux PM10, le 90,4e percentile est inférieur ou égal à 50 μg/m3.
+(1) Des mesures aléatoires peuvent être utilisées pour le benzène, le plomb et les particules au lieu de mesures continues, s'il est démontré que l'incertitude, y compris l'incertitude liée à l'échantillonnage aléatoire, respecte l'objectif de qualité des données de 25 % et que la période prise en compte reste supérieure à la période minimale fixée pour les mesures indicatives. L'échantillonnage aléatoire doit être réparti uniformément sur l'année pour éviter de biaiser les résultats. L'incertitude liée à l'échantillonnage aléatoire peut être quantifiée selon la procédure décrite dans la norme ISO 11222 (2002), Qualité de l'air-détermination de l'incertitude de mesure de la moyenne temporelle de mesurages de la qualité de l'air . Si des mesures aléatoires sont utilisées pour évaluer les exigences liées à la valeur limite applicable aux PM10, il convient d'utiliser le 90, 4e percentile (qui doit être inférieur ou égal à 50 μ g/ m3) plutôt que le nombre de dépassements qui subit fortement l'influence de la couverture des données.
 
 (2) Les exigences concernant la saisie minimale de données pour les mesures fixes ne comprennent pas les pertes d'information dues à l'étalonnage régulier ou à l'entretien normal des instruments.
 
@@ -156,11 +156,11 @@ Moyennes annuelles |
 
 |
 
-BENZO [A] PYRENE |
+BENZO [A] PYRÈNE |
 
 ARSENIC, CADMIUM ET NICKEL |
 
-HAP AUTRES QUE LE BENZO [A] PYRENE, MERCURE GAZEUX TOTAL |
+HAP AUTRES QUE LE BENZO [A] PYRÈNE, MERCURE GAZEUX TOTAL |
 
 DÉPÔT TOTAL |
 
@@ -240,7 +240,7 @@ DÉPÔT TOTAL |
 
 (3) Les mesures indicatives sont des mesures effectuées avec une régularité réduite mais qui correspondent aux autres objectifs en matière de qualité des données. |
 
-L'incertitude des méthodes d'évaluation, exprimée avec un degré de fiabilité de 95%, est évaluée conformément aux normes existantes et au référentiel technique national.
+L'incertitude des méthodes d'évaluation, exprimée avec un intervalle de confiance de 95%, est évaluée conformément aux normes existantes et au référentiel technique national.
 
 Un échantillonnage sur vingt-quatre heures est indispensable pour mesurer le benzo [a] pyrène et d'autres hydrocarbures aromatiques polycycliques. Les échantillons individuels prélevés sur une période allant jusqu'à un mois peuvent être combinés et analysés en tant qu'échantillon composé, à condition que la méthode garantisse que les échantillons sont stables pour cette période et que la qualité de l'extraction est conforme aux exigences des normes en vigueur. L'échantillonnage est uniformément réparti sur les jours de la semaine.
 
@@ -250,7 +250,7 @@ Pour la mesure des taux de dépôt, des prélèvements mensuels ou hebdomadaires
 
 Les mesures de qualité de l'air sont réalisées dans les conditions suivantes :
 
-- pour la mesure des polluants gazeux, le volume doit être normalisé à une température de 293 K et à une pression atmosphérique de 101,3 kPa ;
+- pour la mesure des polluants gazeux, le volume est normalisé à une température de 293 K et à une pression atmosphérique de 101,3 kPa ;
 
 - pour les particules et les substances à analyser dans les particules (métaux lourds, HAP), le volume d'échantillonnage se rapporte aux conditions ambiantes de température et de pression atmosphérique pendant la période de prélèvement.
 

@@ -74,9 +74,7 @@ Seuil d'évaluation supérieur |
 
 Seuil d'évaluation inférieur |
 
-60 %
-
-75 µg/m3, à ne pas dépasser plus de 3 fois par année civile |
+40 % 50 µg/ m3, à ne pas dépasser plus de 3 fois par année civile |
 
 40 %
 
@@ -128,7 +126,7 @@ Objectif environnemental |
 
 Valeur limite en moyenne annuelle |
 
-Valeur cible en moyenne annuelle |
+Valeur limite en moyenne annuelle |
 
 Valeur cible en moyenne annuelle |
 
@@ -150,7 +148,7 @@ Seuil d'évaluation supérieur |
 
 60 %
 
-3,4 ng/m3 |
+3,6 ng/m3 |
 
 60 %
 
@@ -214,13 +212,13 @@ Au moins trois années de la période quinquennale de l'évaluation préliminair
 
 Les mesures fixes sont employées, avec la possibilité de les compléter par de la modélisation ou de la mesure indicative. |
 
-SEI Concentration SES |
+SEI < Concentration ≤ SES |
 
 Les mesures fixes sont employées, avec la possibilité de les combiner avec de la modélisation ou de la mesure indicative. |
 
-Concentration < SEI |
+Concentration ≤ SEI |
 
-La modélisation ou les techniques d'estimation objective sont suffisantes. |
+La modélisation ou les techniques d'estimation objective sont suffisantes. La mesure fixe ou indicative reste possible. |
 
 O3 |
 
@@ -240,7 +238,7 @@ Cette évaluation est réalisée sur un ou plusieurs sites représentatifs de la
 
 Les dépassements des seuils d'évaluation supérieurs et inférieurs sont déterminés d'après les concentrations mesurées au cours des cinq années précédant la mise en place du régime de surveillance.
 
-Un seuil d'évaluation est considéré comme ayant été dépassé s'il a été dépassé pendant au moins trois de ces cinq années, quel que soit le point de prélèvement.
+Pour tous les polluants concernés, à l'exception de l'ozone, un seuil d'évaluation est considéré comme ayant été dépassé s'il a été dépassé pendant au moins trois de ces cinq années, quel que soit le point de prélèvement. Pour l'ozone, l'objectif de qualité est considéré comme ayant été dépassé s'il a été dépassé au cours d'une de ces cinq années.
 
 Le régime de surveillance peut être mis en œuvre plus rapidement lorsque les concentrations observées dans la ZAS restent dans le même intervalle des seuils d'évaluation durant trois années.
 
