@@ -1,39 +1,27 @@
 # Article Annexe 1
 
-NOMBRE DE POSTES COMPTABLES PROJETÉ DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES AU 31/12/19
+NOMBRE DE POSTES COMPTABLES PROJETÉ DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES AU 31 DÉCEMBRE 2019
 
-Catégorie du poste comptable
-
-|
+Catégorie du poste comptable |
 
 Nombre de postes |
 
-Groupe 1 (C1)
-
-|
+Groupe 1 (C1) |
 
 839 |
 
-Groupe 2 (C+)
+Groupe 2 (C +) |
 
-|
+46 |
 
-45 |
+Groupe 3 (C2) |
 
-Groupe 3 (C2)
+1497 |
 
-|
+Groupe 4 (C3) |
 
-1 497 |
+905 |
 
-Groupe 4 (C3)
-
-|
-
-906 |
-
-Groupe 5 (C4)
-
-|
+Groupe 5 (C4) |
 
 156 |
