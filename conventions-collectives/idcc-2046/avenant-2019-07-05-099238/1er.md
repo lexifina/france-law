@@ -1,0 +1,9 @@
+# Article 1er
+
+L'article 4.2.1 « Préambule » est désormais rédigé comme suit :
+
+« 4.2.1.   Préambule
+
+Les conditions d'élection et de fonctionnement ainsi que les attributions du comité social et économique sont celles qui résultent du code du travail.
+
+Il revient aux centres qui en remplissent les conditions d'organiser, selon la périodicité légale, les élections de la délégation du personnel au comité social et économique. »
