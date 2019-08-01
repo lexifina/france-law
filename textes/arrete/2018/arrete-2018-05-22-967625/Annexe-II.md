@@ -1,14 +1,10 @@
 # Article Annexe II
 
-COMMISSIONS ADMINISTRATIVES
-
-PARITAIRES LOCALES N° 1
+COMMISSIONS ADMINISTRATIVES PARITAIRES LOCALES N° 1
 
 Inspecteurs des finances publiques |
 
-Effectif
-
-au 1er janvier 2018 |
+Effectif au 1er janvier 2018 |
 
 % Hommes |
 
@@ -16,13 +12,9 @@ au 1er janvier 2018 |
 
 Inspecteur des finances publiques |
 
-Nombre de sièges
+Nombre de sièges de représentants du personnel |
 
-de représentants du personnel |
-
-Nombre de sièges
-
-de représentants de l'administration |
+Nombre de sièges de représentants de l'administration |
 
 code |
 
@@ -42,9 +34,9 @@ Direction Départementale des Finances Publiques de l'AIN |
 
 104 |
 
-51,92% |
+51,92 % |
 
-48,08% |
+48,08 % |
 
 3 |
 
@@ -60,9 +52,9 @@ Direction Départementale des Finances Publiques de l'AISNE |
 
 101 |
 
-58,42% |
+58,42 % |
 
-41,58% |
+41,58 % |
 
 3 |
 
@@ -78,9 +70,9 @@ Direction Départementale des Finances Publiques de l'ALLIER |
 
 78 |
 
-47,44% |
+47,44 % |
 
-52,56% |
+52,56 % |
 
 2 |
 
@@ -96,9 +88,9 @@ Direction Départementale des Finances Publiques des ALPES DE HAUTE-PROVENCE |
 
 39 |
 
-43,59% |
+43,59 % |
 
-56,41% |
+56,41 % |
 
 2 |
 
@@ -114,9 +106,9 @@ Direction Départementale des Finances Publiques des HAUTES-ALPES |
 
 49 |
 
-48,98% |
+48,98 % |
 
-51,02% |
+51,02 % |
 
 2 |
 
@@ -132,9 +124,9 @@ Direction Départementale des Finances Publiques des ALPES-MARITIMES |
 
 331 |
 
-37,76% |
+37,76 % |
 
-62,24% |
+62,24 % |
 
 4 |
 
@@ -150,9 +142,9 @@ Direction Départementale des Finances Publiques de l'ARDECHE |
 
 68 |
 
-39,71% |
+39,71 % |
 
-60,29% |
+60,29 % |
 
 2 |
 
@@ -168,9 +160,9 @@ Direction Départementale des Finances Publiques des ARDENNES |
 
 62 |
 
-46,77% |
+46,77 % |
 
-53,23% |
+53,23 % |
 
 2 |
 
@@ -186,9 +178,9 @@ Direction Départementale des Finances Publiques de l'ARIEGE |
 
 47 |
 
-40,43% |
+40,43 % |
 
-59,57% |
+59,57 % |
 
 2 |
 
@@ -204,9 +196,9 @@ Direction Départementale des Finances Publiques de l'AUBE |
 
 71 |
 
-45,07% |
+45,07 % |
 
-54,93% |
+54,93 % |
 
 2 |
 
@@ -222,9 +214,9 @@ Direction Départementale des Finances Publiques de l'AUDE |
 
 87 |
 
-42,53% |
+42,53 % |
 
-57,47% |
+57,47 % |
 
 3 |
 
@@ -240,9 +232,9 @@ Direction Départementale des Finances Publiques de l'AVEYRON |
 
 73 |
 
-47,95% |
+47,95 % |
 
-52,05% |
+52,05 % |
 
 2 |
 
@@ -258,9 +250,9 @@ Direction Régionale des Finances Publiques des BOUCHES-DU-RHONE |
 
 424 |
 
-35,85% |
+35,85 % |
 
-64,15% |
+64,15 % |
 
 4 |
 
@@ -276,9 +268,9 @@ Direction Départementale des Finances Publiques du CALVADOS |
 
 141 |
 
-44,68% |
+44,68 % |
 
-55,32% |
+55,32 % |
 
 3 |
 
@@ -294,9 +286,9 @@ Direction Départementale des Finances Publiques du CANTAL |
 
 41 |
 
-41,46% |
+41,46 % |
 
-58,54% |
+58,54 % |
 
 2 |
 
@@ -312,9 +304,9 @@ Direction Départementale des Finances Publiques de la CHARENTE |
 
 79 |
 
-36,71% |
+36,71 % |
 
-63,29% |
+63,29 % |
 
 2 |
 
@@ -330,9 +322,9 @@ Direction Départementale des Finances Publiques de la CHARENTE-MARITIME |
 
 136 |
 
-44,85% |
+44,85 % |
 
-55,15% |
+55,15 % |
 
 3 |
 
@@ -348,9 +340,9 @@ Direction Départementale des Finances Publiques du CHER |
 
 68 |
 
-38,24% |
+38,24 % |
 
-61,76% |
+61,76 % |
 
 2 |
 
@@ -366,9 +358,9 @@ Direction Départementale des Finances Publiques de la CORREZE |
 
 63 |
 
-44,44% |
+44,44 % |
 
-55,56% |
+55,56 % |
 
 2 |
 
@@ -384,9 +376,9 @@ Direction Régionale des Finances Publiques de la COTE D'OR |
 
 139 |
 
-35,97% |
+35,97 % |
 
-64,03% |
+64,03 % |
 
 3 |
 
@@ -402,9 +394,9 @@ Direction Départementale des Finances Publiques des COTES-D'ARMOR |
 
 125 |
 
-48,00% |
+48,00 % |
 
-52,00% |
+52,00 % |
 
 3 |
 
@@ -420,9 +412,9 @@ Direction Départementale des Finances Publiques de la CREUSE |
 
 45 |
 
-53,33% |
+53,33 % |
 
-46,67% |
+46,67 % |
 
 2 |
 
@@ -438,9 +430,9 @@ Direction Départementale des Finances Publiques de la DORDOGNE |
 
 87 |
 
-45,98% |
+45,98 % |
 
-54,02% |
+54,02 % |
 
 3 |
 
@@ -456,9 +448,9 @@ Direction Départementale des Finances Publiques du DOUBS |
 
 112 |
 
-48,21% |
+48,21 % |
 
-51,79% |
+51,79 % |
 
 3 |
 
@@ -474,9 +466,9 @@ Direction Départementale des Finances Publiques de la DROME |
 
 114 |
 
-40,35% |
+40,35 % |
 
-59,65% |
+59,65 % |
 
 3 |
 
@@ -492,9 +484,9 @@ Direction Départementale des Finances Publiques de l'EURE |
 
 100 |
 
-48,00% |
+48,00 % |
 
-52,00% |
+52,00 % |
 
 3 |
 
@@ -510,9 +502,9 @@ Direction Départementale des Finances Publiques d'EURE-ET-LOIR |
 
 99 |
 
-38,38% |
+38,38 % |
 
-61,62% |
+61,62 % |
 
 3 |
 
@@ -528,9 +520,9 @@ Direction Départementale des Finances Publiques du FINISTERE |
 
 169 |
 
-39,64% |
+39,64 % |
 
-60,36% |
+60,36 % |
 
 4 |
 
@@ -546,9 +538,9 @@ Direction Régionale des Finances Publiques de CORSE-DU-SUD |
 
 53 |
 
-35,85% |
+35,85 % |
 
-64,15% |
+64,15 % |
 
 2 |
 
@@ -564,9 +556,9 @@ Direction Départementale des Finances Publiques de HAUTE-CORSE |
 
 52 |
 
-55,77% |
+55,77 % |
 
-44,23% |
+44,23 % |
 
 2 |
 
@@ -582,9 +574,9 @@ Direction Départementale des Finances Publiques du GARD |
 
 143 |
 
-41,96% |
+41,96 % |
 
-58,04% |
+58,04 % |
 
 3 |
 
@@ -600,9 +592,9 @@ Direction Régionale des Finances Publiques de la HAUTE-GARONNE |
 
 287 |
 
-36,24% |
+36,24 % |
 
-63,76% |
+63,76 % |
 
 4 |
 
@@ -618,9 +610,9 @@ Direction Départementale des Finances Publiques du GERS |
 
 49 |
 
-48,98% |
+48,98 % |
 
-51,02% |
+51,02 % |
 
 2 |
 
@@ -636,9 +628,9 @@ Direction Régionale des Finances Publiques de la GIRONDE |
 
 334 |
 
-34,13% |
+34,13 % |
 
-65,87% |
+65,87 % |
 
 4 |
 
@@ -654,9 +646,9 @@ Direction Départementale des Finances Publiques de l'HERAULT |
 
 231 |
 
-41,99% |
+41,99 % |
 
-58,01% |
+58,01 % |
 
 4 |
 
@@ -672,9 +664,9 @@ Direction Régionale des Finances Publiques d'ILLE-ET-VILAINE |
 
 237 |
 
-37,55% |
+37,55 % |
 
-62,45% |
+62,45 % |
 
 4 |
 
@@ -690,9 +682,9 @@ Direction Départementale des Finances Publiques de l'INDRE |
 
 54 |
 
-35,19% |
+35,19 % |
 
-64,81% |
+64,81 % |
 
 2 |
 
@@ -708,9 +700,9 @@ Direction Départementale des Finances Publiques d'INDRE-ET-LOIRE |
 
 120 |
 
-49,17% |
+49,17 % |
 
-50,83% |
+50,83 % |
 
 3 |
 
@@ -726,9 +718,9 @@ Direction Départementale des Finances Publiques de l'ISERE |
 
 261 |
 
-39,08% |
+39,08 % |
 
-60,92% |
+60,92 % |
 
 4 |
 
@@ -744,9 +736,9 @@ Direction Départementale des Finances Publiques du JURA |
 
 63 |
 
-47,62% |
+47,62 % |
 
-52,38% |
+52,38 % |
 
 2 |
 
@@ -762,9 +754,9 @@ Direction Départementale des Finances Publiques des LANDES |
 
 88 |
 
-43,18% |
+43,18 % |
 
-56,82% |
+56,82 % |
 
 3 |
 
@@ -780,9 +772,9 @@ Direction Départementale des Finances Publiques de LOIR-ET-CHER |
 
 69 |
 
-44,93% |
+44,93 % |
 
-55,07% |
+55,07 % |
 
 2 |
 
@@ -798,9 +790,9 @@ Direction Départementale des Finances Publiques de la LOIRE |
 
 148 |
 
-43,92% |
+43,92 % |
 
-56,08% |
+56,08 % |
 
 3 |
 
@@ -816,9 +808,9 @@ Direction Départementale des Finances Publiques de la HAUTE-LOIRE |
 
 55 |
 
-50,91% |
+50,91 % |
 
-49,09% |
+49,09 % |
 
 2 |
 
@@ -834,9 +826,9 @@ Direction Régionale des Finances Publiques de LOIRE-ATLANTIQUE |
 
 259 |
 
-44,40% |
+44,40 % |
 
-55,60% |
+55,60 % |
 
 4 |
 
@@ -852,9 +844,9 @@ Direction Régionale des Finances Publiques du LOIRET |
 
 161 |
 
-37,89% |
+37,89 % |
 
-62,11% |
+62,11 % |
 
 4 |
 
@@ -870,9 +862,9 @@ Direction Départementale des Finances Publiques du LOT |
 
 46 |
 
-54,35% |
+54,35 % |
 
-45,65% |
+45,65 % |
 
 2 |
 
@@ -888,9 +880,9 @@ Direction Départementale des Finances Publiques de LOT-ET-GARONNE |
 
 72 |
 
-41,67% |
+41,67 % |
 
-58,33% |
+58,33 % |
 
 2 |
 
@@ -906,9 +898,9 @@ Direction Départementale des Finances Publiques de la LOZERE |
 
 29 |
 
-51,72% |
+51,72 % |
 
-48,28% |
+48,28 % |
 
 2 |
 
@@ -924,9 +916,9 @@ Direction Départementale des Finances Publiques de MAINE-ET-LOIRE |
 
 143 |
 
-47,55% |
+47,55 % |
 
-52,45% |
+52,45 % |
 
 3 |
 
@@ -942,9 +934,9 @@ Direction Départementale des Finances Publiques de la MANCHE |
 
 101 |
 
-44,55% |
+44,55 % |
 
-55,45% |
+55,45 % |
 
 3 |
 
@@ -960,9 +952,9 @@ Direction Départementale des Finances Publiques de la MARNE |
 
 133 |
 
-45,11% |
+45,11 % |
 
-54,89% |
+54,89 % |
 
 3 |
 
@@ -978,9 +970,9 @@ Direction Départementale des Finances Publiques de la HAUTE-MARNE |
 
 51 |
 
-47,06% |
+47,06 % |
 
-52,94% |
+52,94 % |
 
 2 |
 
@@ -996,9 +988,9 @@ Direction Départementale des Finances Publiques de la MAYENNE |
 
 65 |
 
-49,23% |
+49,23 % |
 
-50,77% |
+50,77 % |
 
 2 |
 
@@ -1014,9 +1006,9 @@ Direction Départementale des Finances Publiques de MEURTHE-ET-MOSELLE |
 
 139 |
 
-45,32% |
+45,32 % |
 
-54,68% |
+54,68 % |
 
 3 |
 
@@ -1032,9 +1024,9 @@ Direction Départementale des Finances Publiques de la MEUSE |
 
 48 |
 
-47,92% |
+47,92 % |
 
-52,08% |
+52,08 % |
 
 2 |
 
@@ -1050,9 +1042,9 @@ Direction Départementale des Finances Publiques du MORBIHAN |
 
 143 |
 
-43,36% |
+43,36 % |
 
-56,64% |
+56,64 % |
 
 3 |
 
@@ -1068,9 +1060,9 @@ Direction Départementale des Finances Publiques de la MOSELLE |
 
 213 |
 
-43,66% |
+43,66 % |
 
-56,34% |
+56,34 % |
 
 4 |
 
@@ -1086,9 +1078,9 @@ Direction Départementale des Finances Publiques de la NIEVRE |
 
 58 |
 
-34,48% |
+34,48 % |
 
-65,52% |
+65,52 % |
 
 2 |
 
@@ -1104,9 +1096,9 @@ Direction Régionale des Finances Publiques du NORD |
 
 475 |
 
-48,84% |
+48,84 % |
 
-51,16% |
+51,16 % |
 
 4 |
 
@@ -1122,9 +1114,9 @@ Direction Départementale des Finances Publiques de l'OISE |
 
 148 |
 
-37,16% |
+37,16 % |
 
-62,84% |
+62,84 % |
 
 3 |
 
@@ -1136,13 +1128,13 @@ Direction Départementale des Finances Publiques de l'OISE |
 
 610 |
 
-Direction Départementale des Finances Publiques de l' ORNE |
+Direction Départementale des Finances Publiques de l'ORNE |
 
 68 |
 
-45,59% |
+45,59 % |
 
-54,41% |
+54,41 % |
 
 2 |
 
@@ -1158,9 +1150,9 @@ Direction Départementale des Finances Publiques du PAS-DE-CALAIS |
 
 230 |
 
-52,17% |
+52,17 % |
 
-47,83% |
+47,83 % |
 
 4 |
 
@@ -1176,9 +1168,9 @@ Direction Régionale des Finances Publiques du PUY-DE-DOME |
 
 130 |
 
-41,54% |
+41,54 % |
 
-58,46% |
+58,46 % |
 
 3 |
 
@@ -1194,9 +1186,9 @@ Direction Départementale des Finances Publiques des PYRENEES-ATLANTIQUES |
 
 151 |
 
-37,75% |
+37,75 % |
 
-62,25% |
+62,25 % |
 
 4 |
 
@@ -1212,9 +1204,9 @@ Direction Départementale des Finances Publiques des HAUTES-PYRENEES |
 
 64 |
 
-45,31% |
+45,31 % |
 
-54,69% |
+54,69 % |
 
 2 |
 
@@ -1230,9 +1222,9 @@ Direction Départementale des Finances Publiques des PYRENEES-ORIENTALES |
 
 108 |
 
-48,15% |
+48,15 % |
 
-51,85% |
+51,85 % |
 
 3 |
 
@@ -1248,9 +1240,9 @@ Direction Régionale des Finances Publiques du BAS-RHIN |
 
 257 |
 
-45,14% |
+45,14 % |
 
-54,86% |
+54,86 % |
 
 4 |
 
@@ -1266,9 +1258,9 @@ Direction Départementale des Finances Publiques du HAUT-RHIN |
 
 146 |
 
-48,63% |
+48,63 % |
 
-51,37% |
+51,37 % |
 
 3 |
 
@@ -1284,9 +1276,9 @@ Direction Régionale des Finances Publiques du RHONE |
 
 398 |
 
-38,19% |
+38,19 % |
 
-61,81% |
+61,81 % |
 
 4 |
 
@@ -1302,9 +1294,9 @@ Direction Départementale des Finances Publiques de la HAUTE-SAONE |
 
 51 |
 
-41,18% |
+41,18 % |
 
-58,82% |
+58,82 % |
 
 2 |
 
@@ -1320,9 +1312,9 @@ Direction Départementale des Finances Publiques de SAONE-ET-LOIRE |
 
 109 |
 
-38,53% |
+38,53 % |
 
-61,47% |
+61,47 % |
 
 3 |
 
@@ -1338,9 +1330,9 @@ Direction Départementale des Finances Publiques de la SARTHE |
 
 109 |
 
-44,04% |
+44,04 % |
 
-55,96% |
+55,96 % |
 
 3 |
 
@@ -1356,9 +1348,9 @@ Direction Départementale des Finances Publiques de SAVOIE |
 
 126 |
 
-48,41% |
+48,41 % |
 
-51,59% |
+51,59 % |
 
 3 |
 
@@ -1374,9 +1366,9 @@ Direction Départementale des Finances Publiques de la HAUTE-SAVOIE |
 
 173 |
 
-42,20% |
+42,20 % |
 
-57,80% |
+57,80 % |
 
 4 |
 
@@ -1392,9 +1384,9 @@ Direction Régionale des Finances Publiques de PARIS |
 
 1096 |
 
-44,07% |
+44,07 % |
 
-55,93% |
+55,93 % |
 
 4 |
 
@@ -1410,9 +1402,9 @@ Direction Régionale des Finances Publiques de SEINE-MARITIME |
 
 256 |
 
-44,14% |
+44,14 % |
 
-55,86% |
+55,86 % |
 
 4 |
 
@@ -1428,9 +1420,9 @@ Direction Départementale des Finances Publiques de SEINE-ET-MARNE |
 
 260 |
 
-35,77% |
+35,77 % |
 
-64,23% |
+64,23 % |
 
 4 |
 
@@ -1446,9 +1438,9 @@ Direction Départementale des Finances Publiques des YVELINES |
 
 328 |
 
-31,40% |
+31,40 % |
 
-68,60% |
+68,60 % |
 
 4 |
 
@@ -1464,9 +1456,9 @@ Direction Départementale des Finances Publiques des DEUX-SEVRES |
 
 81 |
 
-48,15% |
+48,15 % |
 
-51,85% |
+51,85 % |
 
 3 |
 
@@ -1482,9 +1474,9 @@ Direction Départementale des Finances Publiques de la SOMME |
 
 128 |
 
-53,91% |
+53,91 % |
 
-46,09% |
+46,09 % |
 
 3 |
 
@@ -1500,9 +1492,9 @@ Direction Départementale des Finances Publiques du TARN |
 
 91 |
 
-51,65% |
+51,65 % |
 
-48,35% |
+48,35 % |
 
 3 |
 
@@ -1518,9 +1510,9 @@ Direction Départementale des Finances Publiques de TARN-ET-GARONNE |
 
 53 |
 
-37,74% |
+37,74 % |
 
-62,26% |
+62,26 % |
 
 2 |
 
@@ -1536,9 +1528,9 @@ Direction Départementale des Finances Publiques du VAR |
 
 246 |
 
-35,77% |
+35,77 % |
 
-64,23% |
+64,23 % |
 
 4 |
 
@@ -1554,9 +1546,9 @@ Direction Départementale des Finances Publiques du VAUCLUSE |
 
 123 |
 
-43,09% |
+43,09 % |
 
-56,91% |
+56,91 % |
 
 3 |
 
@@ -1572,9 +1564,9 @@ Direction Départementale des Finances Publiques de la VENDEE |
 
 122 |
 
-46,72% |
+46,72 % |
 
-53,28% |
+53,28 % |
 
 3 |
 
@@ -1590,9 +1582,9 @@ Direction Départementale des Finances Publiques de la VIENNE |
 
 101 |
 
-43,56% |
+43,56 % |
 
-56,44% |
+56,44 % |
 
 3 |
 
@@ -1608,9 +1600,9 @@ Direction Départementale des Finances Publiques de la HAUTE-VIENNE |
 
 97 |
 
-41,24% |
+41,24 % |
 
-58,76% |
+58,76 % |
 
 3 |
 
@@ -1626,9 +1618,9 @@ Direction Départementale des Finances Publiques des VOSGES |
 
 81 |
 
-40,74% |
+40,74 % |
 
-59,26% |
+59,26 % |
 
 3 |
 
@@ -1644,9 +1636,9 @@ Direction Départementale des Finances Publiques de l'YONNE |
 
 75 |
 
-37,33% |
+37,33 % |
 
-62,67% |
+62,67 % |
 
 2 |
 
@@ -1662,9 +1654,9 @@ Direction Départementale des Finances Publiques du TERRITOIRE-DE-BELFORT |
 
 34 |
 
-44,12% |
+44,12 % |
 
-55,88% |
+55,88 % |
 
 2 |
 
@@ -1680,9 +1672,9 @@ Direction Départementale des Finances Publiques de l'ESSONNE |
 
 251 |
 
-32,67% |
+32,67 % |
 
-67,33% |
+67,33 % |
 
 4 |
 
@@ -1698,9 +1690,9 @@ Direction Départementale des Finances Publiques des HAUTS-DE-SEINE |
 
 460 |
 
-42,83% |
+42,83 % |
 
-57,17% |
+57,17 % |
 
 4 |
 
@@ -1716,9 +1708,9 @@ Direction Départementale des Finances Publiques de SEINE-SAINT-DENIS |
 
 342 |
 
-47,66% |
+47,66 % |
 
-52,34% |
+52,34 % |
 
 4 |
 
@@ -1734,9 +1726,9 @@ Direction Départementale des Finances Publiques du VAL-DE-MARNE |
 
 301 |
 
-38,21% |
+38,21 % |
 
-61,79% |
+61,79 % |
 
 4 |
 
@@ -1752,9 +1744,9 @@ Direction Départementale des Finances Publiques du VAL-D'OISE |
 
 249 |
 
-37,35% |
+37,35 % |
 
-62,65% |
+62,65 % |
 
 4 |
 
@@ -1770,9 +1762,9 @@ Direction Régionale des Finances Publiques de GUADELOUPE |
 
 103 |
 
-44,66% |
+44,66 % |
 
-55,34% |
+55,34 % |
 
 3 |
 
@@ -1788,9 +1780,9 @@ Direction Régionale des Finances Publiques de MARTINIQUE |
 
 98 |
 
-37,76% |
+37,76 % |
 
-62,24% |
+62,24 % |
 
 3 |
 
@@ -1806,9 +1798,9 @@ Direction Régionale des Finances Publiques de GUYANE |
 
 39 |
 
-58,97% |
+58,97 % |
 
-41,03% |
+41,03 % |
 
 2 |
 
@@ -1824,9 +1816,9 @@ Direction Régionale des Finances Publiques de LA REUNION |
 
 135 |
 
-59,26% |
+59,26 % |
 
-40,74% |
+40,74 % |
 
 3 |
 
@@ -1842,9 +1834,9 @@ Direction Régionale des Finances Publiques de MAYOTTE |
 
 18 |
 
-77,78% |
+77,78 % |
 
-22,22% |
+22,22 % |
 
 2 |
 
@@ -1860,9 +1852,9 @@ Direction des Finances Publiques DE POLYNESIE FRANCAISE |
 
 24 |
 
-50,00% |
+50,00 % |
 
-50,00% |
+50,00 % |
 
 2 |
 
@@ -1874,13 +1866,13 @@ Direction des Finances Publiques DE POLYNESIE FRANCAISE |
 
 988 |
 
-Direction des Finances publiques de NOUVELLE-CALEDONIE |
+Direction des Finances publiques de NOUVELLE CALEDONIE |
 
 29 |
 
-48,28% |
+48,28 % |
 
-51,72% |
+51,72 % |
 
 2 |
 
@@ -1896,9 +1888,9 @@ Service de la Documentation Nationale du Cadastre |
 
 28 |
 
-71,43% |
+71,43 % |
 
-28,57% |
+28,57 % |
 
 2 |
 
@@ -1914,9 +1906,9 @@ Direction des vérifications nationales et internationales |
 
 325 |
 
-67,38% |
+67,38 % |
 
-32,62% |
+32,62 % |
 
 4 |
 
@@ -1932,9 +1924,9 @@ Direction nationale d'interventions domaniales |
 
 103 |
 
-54,37% |
+54,37 % |
 
-45,63% |
+45,63 % |
 
 3 |
 
@@ -1950,9 +1942,9 @@ Direction nationale des vérifications de situations fiscales |
 
 188 |
 
-40,96% |
+40,96 % |
 
-59,04% |
+59,04 % |
 
 4 |
 
@@ -1968,9 +1960,9 @@ Direction nationale d'enquêtes fiscales |
 
 242 |
 
-62,81% |
+62,81 % |
 
-37,19% |
+37,19 % |
 
 4 |
 
@@ -1986,9 +1978,9 @@ Direction des grandes entreprises |
 
 158 |
 
-44,30% |
+44,30 % |
 
-55,70% |
+55,70 % |
 
 4 |
 
@@ -2004,9 +1996,9 @@ Direction Impôts Service |
 
 34 |
 
-41,18% |
+41,18 % |
 
-58,82% |
+58,82 % |
 
 2 |
 
@@ -2022,9 +2014,9 @@ A55 |
 
 351 |
 
-45,58% |
+45,58 % |
 
-54,42% |
+54,42 % |
 
 4 |
 
@@ -2040,9 +2032,9 @@ Direction spécialisée des finances publiques pour l'Assistance Publique, Hôpi
 
 25 |
 
-28,00% |
+28,00 % |
 
-72,00% |
+72,00 % |
 
 2 |
 
@@ -2058,9 +2050,9 @@ Direction spécialisée des finances publiques pour l'Étranger |
 
 23 |
 
-30,43% |
+30,43 % |
 
-69,57% |
+69,57 % |
 
 2 |
 
@@ -2076,9 +2068,9 @@ Service d'Appui aux Ressources Humaines (SARH) |
 
 18 |
 
-27,78% |
+27,78 % |
 
-72,22% |
+72,22 % |
 
 2 |
 
@@ -2094,9 +2086,9 @@ Direction des impôts des non résidents (DINR) |
 
 66 |
 
-42,42% |
+42,42 % |
 
-57,58% |
+57,58 % |
 
 2 |
 
@@ -2108,13 +2100,13 @@ Direction des impôts des non résidents (DINR) |
 
 B38 |
 
-Services centraux (SCBCM - Direction créances spéciales du Trésor - SRE - Délégations) |
+Services centraux (SCBCM-Direction créances spéciales du Trésor-SRE-Délégations) |
 
 2022 |
 
-54,25% |
+54,25 % |
 
-45,75% |
+45,75 % |
 
 4 |
 
@@ -2130,9 +2122,9 @@ Direction de contrôle fiscal Île-de-France |
 
 568 |
 
-49,82% |
+49,82 % |
 
-50,18% |
+50,18 % |
 
 4 |
 
@@ -2148,9 +2140,9 @@ Direction de contrôle fiscal Sud-Est |
 
 202 |
 
-46,53% |
+46,53 % |
 
-53,47% |
+53,47 % |
 
 4 |
 
@@ -2166,9 +2158,9 @@ Direction de contrôle fiscal Sud Pyrénées |
 
 162 |
 
-45,68% |
+45,68 % |
 
-54,32% |
+54,32 % |
 
 4 |
 
@@ -2184,9 +2176,9 @@ Direction de contrôle fiscal Sud-Ouest |
 
 157 |
 
-49,04% |
+49,04 % |
 
-50,96% |
+50,96 % |
 
 4 |
 
@@ -2202,9 +2194,9 @@ Direction de contrôle fiscal Centre-Ouest |
 
 242 |
 
-52,89% |
+52,89 % |
 
-47,11% |
+47,11 % |
 
 4 |
 
@@ -2220,9 +2212,9 @@ Direction de contrôle fiscal Est |
 
 191 |
 
-55,50% |
+55,50 % |
 
-44,50% |
+44,50 % |
 
 4 |
 
@@ -2238,9 +2230,9 @@ Direction de contrôle fiscal Nord |
 
 241 |
 
-53,11% |
+53,11 % |
 
-46,89% |
+46,89 % |
 
 4 |
 
@@ -2256,9 +2248,9 @@ Direction de contrôle fiscal Centre-Est |
 
 308 |
 
-51,62% |
+51,62 % |
 
-48,38% |
+48,38 % |
 
 4 |
 
@@ -2274,9 +2266,9 @@ Direction des Services Informatiques Sud-Est Outre Mer |
 
 46 |
 
-65,22% |
+65,22 % |
 
-34,78% |
+34,78 % |
 
 2 |
 
@@ -2292,9 +2284,9 @@ Direction des Services Informatiques Sud-Ouest |
 
 89 |
 
-65,17% |
+65,17 % |
 
-34,83% |
+34,83 % |
 
 3 |
 
@@ -2306,13 +2298,13 @@ Direction des Services Informatiques Sud-Ouest |
 
 D44 |
 
-Direction des Services Informatiques Ouest |
+Direction des Services Informatiques Centre Ouest |
 
 89 |
 
-78,65% |
+78,65 % |
 
-21,35% |
+21,35 % |
 
 3 |
 
@@ -2326,47 +2318,29 @@ D59 |
 
 Direction des Services Informatiques Nord |
 
-51 |
+94 |
 
-84,31% |
+81,91 % |
 
-15,69% |
+18,09 % |
 
-2 |
+3 |
 
-2 |
+3 |
 
-2 |
+3 |
 
-2 |
-
-D63 |
-
-Direction des Services Informatiques Pays du Centre |
-
-47 |
-
-78,72% |
-
-21,28% |
-
-2 |
-
-2 |
-
-2 |
-
-2 |
+3 |
 
 D67 |
 
-Direction des Services Informatiques Est |
+Direction des Services Informatiques Grand Est |
 
-44 |
+57 |
 
-72,73% |
+71,93 % |
 
-27,27% |
+28,07 % |
 
 2 |
 
@@ -2378,31 +2352,13 @@ Direction des Services Informatiques Est |
 
 D69 |
 
-Direction des Services Informatiques Rhône-Alpes-Est-Bourgogne |
+Direction des Services Informatiques Rhône-Alpes Auvergne Bourgogne |
 
-67 |
+109 |
 
-76,12% |
+75,23 % |
 
-23,88% |
-
-2 |
-
-2 |
-
-2 |
-
-2 |
-
-D77 |
-
-Direction des Services Informatiques Paris-Champagne |
-
-101 |
-
-74,26% |
-
-25,74% |
+24,77 % |
 
 3 |
 
@@ -2414,13 +2370,13 @@ Direction des Services Informatiques Paris-Champagne |
 
 D78 |
 
-Direction des Services Informatiques Paris-Normandie |
+Direction des Services Informatiques Île-de-France |
 
-89 |
+108 |
 
-67,42% |
+65,74 % |
 
-32,58% |
+34,26 % |
 
 3 |
 
