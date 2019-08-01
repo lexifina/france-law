@@ -1,0 +1,47 @@
+# Article 1er
+
+Le présent avenant annule et remplace l'article 13.2 de la CCN de la coiffure par un article 13.2 rédigé comme suit :
+
+« Article 13.2
+
+Congés pour événements familiaux
+
+Les congés pour événements familiaux sont les suivants :
+
+Événement familial |
+
+Durée du congé |
+
+Chaque naissance survenue au foyer du salarié ou pour l'arrivée d'un enfant placé en vue de son adoption (ces jours ne se cumulent pas avec les congés accordés pour le même enfant dans le cadre du congé de maternité) |
+
+3 jours |
+
+Mariage du salarié ou conclusion d'un Pacs par le salarié |
+
+4 jours |
+
+Mariage ou Pacs d'un enfant |
+
+1 jour |
+
+Décès d'un enfant |
+
+5 jours |
+
+Décès d'un grand-parent ou d'un petit-enfant |
+
+1 jour |
+
+Décès du conjoint, du concubin ou du partenaire lié par un Pacs, du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une sœur |
+
+3 jours |
+
+Annonce de la survenue d'un handicap chez un enfant |
+
+2 jours |
+
+Ces congés devront être pris au moment des événements en cause. Ils constituent une autorisation d'absence sans réduction de la rémunération et sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel. Ils sont attribués indistinctement sans condition d'ancienneté dans l'entreprise. (1)»
+
+(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 3142-1 du code du travail telles qu'interprétées par la Cour de cassation (Cass. soc., 16 décembre 1998, n° 96-43.323).
+
+(Arrêté du 15 juillet 2019 - art. 1)
