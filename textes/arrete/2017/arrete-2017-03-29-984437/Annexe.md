@@ -74,8 +74,6 @@ Directeur adjoint de l'ordre public et de la circulation, chef de l'état-major.
 
 Préfecture de police : Direction de la sécurité de proximité de l'agglomération parisienne :
 
-Directeur territorial de la sécurité de proximité de Paris.
-
 Directeur adjoint de la sécurité de proximité de l'agglomération parisienne.
 
 Directeur territorial de la sécurité de proximité de la Seine-Saint-Denis.
@@ -83,6 +81,10 @@ Directeur territorial de la sécurité de proximité de la Seine-Saint-Denis.
 Préfecture de police-Direction de la police judiciaire :
 
 Directeur adjoint de la police judiciaire chargé des brigades centrales.
+
+Préfecture de police : Direction du renseignement :
+
+Directeur adjoint du renseignement.
 
 Préfecture de police-Divers :
 
@@ -272,6 +274,8 @@ Sous-directeur des services spécialisés de l'agglomération.
 
 Sous-directeur régional de police des transports.
 
+Directeur territorial de la sécurité de proximité de Paris.
+
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
 Directeur territorial de la sécurité de proximité du Val-de-Marne.
@@ -285,8 +289,6 @@ Sous-directeur chargé des affaires économiques et financières.
 Sous-directeur chargé des services territoriaux.
 
 Préfecture de police : Direction du renseignement :
-
-Directeur adjoint du renseignement.
 
 Sous-directeur chargé du renseignement territorial de l'agglomération parisienne.
 
