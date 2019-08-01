@@ -12,6 +12,14 @@ de rattachement |
 
 PÉRIMÈTRE |
 
+%
+
+|
+
+%
+
+|
+
 NOMBRE DE SIÈGES |
 
 Comité(s) technique(s)
@@ -20,81 +28,61 @@ au(x) quel(s) le CHSCT
 
 apporte son concours |
 
+Hommes |
+
+Femmes |
+
 Titulaires |
 
 Suppléants |
 
-CHSCT de la Direction Nationale du Renseignement et des Enquêtes Douanières et du Service National de Douane Judiciaire |
+CHSCT de la direction nationale du renseignement et des enquêtes douanières et du service d'enquêtes judiciaires des finances |
 
-Chefs de la Direction Nationale du Renseignement et des Enquêtes Douanières et du Service National de Douane Judiciaire |
+Chefs de la direction nationale du renseignement et des enquêtes douanières et du service d'enquêtes judiciaires des finances |
 
-Services à compétence nationales Direction Nationale du Renseignement et des Enquêtes Douanières et Service National de Douane Judiciaire |
+Direction nationale du renseignement et des enquêtes douanières et service d'enquêtes judiciaires des finances |
 
-6 |
+|
 
-6 |
-
-Comités techniques des Services à compétence nationales de la Direction Nationale du Renseignement et des Enquêtes Douanières et du Service National de Douane Judiciaire |
-
-CHSCT Aéronavale Marseille |
-
-Directeur régional des douanes et droits indirects |
-
-Direction régionale de Marseille garde-côtes |
+|
 
 6 |
 
 6 |
 
-Comité technique de service déconcentré de la direction interrégionale des douanes et droits indirects de Provence-Alpes-Côte d'Azur, Corse |
-
-CHSCT Aéronavale Nantes |
-
-Directeur régional des douanes et droits indirects |
-
-Direction régionale Nantes garde-côtes |
-
-6 |
-
-6 |
-
-Comité technique de service déconcentré de la direction interrégionale des douanes et droits indirects de Bretagne, pays de la Loire |
-
-CHSCT Aéronavale Rouen |
-
-Directeur régional des douanes et droits indirects |
-
-Direction régionale Rouen garde-côtes |
-
-6 |
-
-6 |
-
-Comité technique de service déconcentré de la direction interrégionale des douanes et droits indirects de Normandie |
-
-CHSCT Aéronavale Antilles-Guyane |
-
-Directeur régional des douanes et droits indirects |
-
-Direction régionale Antilles garde-côtes |
-
-5 |
-
-5 |
-
-Comité technique de service déconcentré de la direction interrégionale des douanes et droits indirects Antilles-Guyane |
+Comité technique du SCN direction nationale du renseignement et des enquêtes douanières et Comité technique du SCN service d'enquêtes judiciaires des finances |
 
 CHSCT spécial d'Ile-de-France |
 
-Directeur interrégional des douanes et droits indirects |
+Directeur interrégional d'Ile-de-France des douanes et droits indirects |
 
-Service aéro terrestre, Brigade Scanner Mobile Spéciale, Maintenance aéronautique, Brigade de surveillance du ministère ; centre de liaison interservices (CLI) - centre opérationnel douanier terrestre (CODT), service technique automobile (STA) ; cellule d'instruction avion des douanes (CIAD) ; cellule d'instruction hélicoptère des douanes (CIHD) |
+Brigade scanner mobile spéciale (BSMS), Brigade de surveillance du ministère (BSM), Centre opérationnel douanier (CODT), Service technique automobile (STA) |
+
+82,32 |
+
+17,68 |
 
 6 |
 
 6 |
 
 Comité technique de service déconcentré de la direction interrégionale des douanes et droits indirects d'Ile-de-France |
+
+CHSCT de la direction nationale garde-côtes des douanes |
+
+Directeur de la direction nationale garde-côtes des douanes |
+
+Direction nationale garde-côtes des douanes |
+
+|
+
+|
+
+6 |
+
+6 |
+
+Comité technique de la direction nationale garde-côtes des douanes |
 
 b) Direction générale des finances publiques
 
@@ -130,113 +118,89 @@ Direction Impôts Service |
 
 Comité technique du service à compétence nationale de la direction impôts service |
 
-CHSCT de la Direction des Services Informatiques du Sud-Est-Outremer |
+CHSCT de la Direction des Services Informatiques de Centre Ouest |
 
 Chef du service |
 
-Direction des services informatiques Sud Est-Outremer |
+Direction des Services Informatiques de Centre Ouest |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Sud-Est-Outremer |
+Comité technique du service à compétence nationale de la direction des services Informatiques de Centre Ouest |
 
-CHSCT de la Direction des Services Informatiques du Sud-Ouest |
+CHSCT de la Direction des Services Informatiques du Grand Est |
 
 Chef du service |
 
-Direction des services informatiques Sud-Ouest |
+Direction des Services Informatiques du Grand Est |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Sud-Ouest |
-
-CHSCT de la Direction des Services Informatiques de l'Ouest |
-
-Chef du service |
-
-Direction des services informatiques Ouest |
-
-6 |
-
-6 |
-
-Comité technique du service à compétence nationale de la direction des services Informatiques Ouest |
-
-CHSCT de la Direction des Services Informatiques de Paris-Champagne |
-
-Chef du service |
-
-Direction des services informatiques Paris-Champagne |
-
-6 |
-
-6 |
-
-Comité technique du service à compétence nationale de la direction des services Informatiques Paris-Champagne |
-
-CHSCT de la Direction des Services Informatiques des Pays du Centre |
-
-Chef du service |
-
-Direction des services informatiques Pays du Centre |
-
-6 |
-
-6 |
-
-Comité technique du service à compétence nationale de la direction des services Informatiques Pays du Centre |
+Comité technique du service à compétence nationale de la direction des services Informatiques du Grand Est |
 
 CHSCT de la Direction des Services Informatiques du Nord |
 
 Chef du service |
 
-Direction des services informatiques Nord |
+Direction des Services Informatiques du Nord |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Nord |
+Comité technique du service à compétence nationale de la direction des services Informatiques du Nord |
 
-CHSCT de la Direction des Services Informatiques de l'Est |
+CHSCT de la Direction des Services Informatiques de l'Ile-de-France |
 
 Chef du service |
 
-Direction des services informatiques Est |
+Direction des Services Informatiques de l'Ile-de-France |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Est |
+Comité technique du service à compétence nationale de la direction des services Informatiques de l'Ile-de-France |
 
-CHSCT de la Direction des Services Informatiques de Rhône-Alpes Est Bourgogne |
+CHSCT de la Direction des Services Informatiques de Rhône-Alpes Auvergne Bourgogne |
 
 Chef du service |
 
-Direction des services informatiques Rhône-Alpes Est Bourgogne |
+Direction des Services Informatiques de Rhône-Alpes Auvergne Bourgogne |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Rhône-Alpes-Est Bourgogne |
+Comité technique du service à compétence nationale de la direction des services Informatiques de Rhône-Alpes Auvergne Bourgogne |
 
-CHSCT de la Direction des Services Informatiques de Paris-Normandie |
+CHSCT de la Direction des Services Informatiques de Sud-Est Outre-Mer |
 
 Chef du service |
 
-Direction des services informatiques Paris-Normandie |
+Direction des Services Informatiques de Sud-Est Outre-Mer |
 
 6 |
 
 6 |
 
-Comité technique du service à compétence nationale de la direction des services Informatiques Paris-Normandie |
+Comité technique du service à compétence nationale de la direction des services Informatiques de Sud-Est Outre-Mer |
+
+CHSCT de la Direction des Services Informatiques du Sud-Ouest |
+
+Chef du service |
+
+Direction des Services Informatiques du Sud-Ouest |
+
+6 |
+
+6 |
+
+Comité technique du service à compétence nationale de la direction des services Informatiques du Sud-Ouest |
 
 c) Service commun des laboratoires
 
@@ -271,3 +235,9 @@ Service Commun des Laboratoires |
 6 |
 
 Comité technique spécial de service du Service Commun des Laboratoires |
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 23 juillet 2019, ces dispositions entrent en vigueur à l'issue des élections partielles organisées du 18 au 21 novembre 2019.
+
+Le comité d'hygiène, de sécurité et des conditions de travail commun à la direction nationale du renseignement et des enquêtes douanières et au service national de la douane judiciaire demeure compétent jusqu'au renouvellement des représentants du personnel.
