@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208951
+
+- Question : [SEQ190208951](seq190208951.md) — Conséquences de la mise en place du prélèvement automatique à la source en cas de changement de situation
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-08-01, page 4106*
+
+Le prélèvement à la source de l'impôt sur le revenu est une réforme du recouvrement de l'impôt sur le revenu dont l'objectif est de rendre le paiement de l'impôt contemporain de la perception des revenus. La force du prélèvement à la source réside dans l'« effet assiette » pour les revenus versés par des tiers collecteurs, tels que les salaires ou les pensions de retraite. Ainsi, de manière automatique et instantanée, le prélèvement diminue en cas de baisse de revenu. Pour les personnes qui partent en retraite et qui subissent le plus souvent une diminution de revenu, l'impôt baisse au même moment que le revenu dès lors que l'assiette sur laquelle le taux de prélèvement s'applique connaît un fléchissement. Cet « effet assiette » peut être amplifié par l'« effet taux ». En cas de baisse significative du revenu, les contribuables ont en effet la possibilité de solliciter une modulation à la baisse de leur taux de prélèvement à la source. À l'appui d'une estimation des revenus qu'ils percevront au titre de l'année en cours, ils peuvent demander à l'administration un recalcul de leur taux de prélèvement, tenant compte de leur situation nouvelle. En l'absence de modulation à la baisse du taux de prélèvement, celui-ci est recalculé par l'administration fiscale à l'issue de la déclaration des revenus de l'année précédente. Ainsi, une personne partie en retraite en juillet 2018 verra son taux calculé sur la base de sa situation et de ses revenus de 2018 en septembre 2019 et transmis à cette même période à son ou ses organismes de retraite.
