@@ -2080,39 +2080,39 @@ Election directe Scrutin de liste |
 
 Directions des services informatiques (DISI) |
 
-Comité Technique de la DISI EST |
+Comité Technique de la DISI du Grand Est |
 
 Chef de service à compétence nationale |
 
 Service à compétence nationale |
 
-60,29 |
+58,97 |
 
-39,71 |
+41,03 |
 
-6 |
+7 |
 
-6 |
+7 |
 
 Election directe Scrutin de liste |
 
-Comité Technique de la DISI NORD |
+Comité Technique de la DISI du Nord |
 
 Chef de service à compétence nationale |
 
 Service à compétence nationale |
 
-58,80 |
+61,41 |
 
-41,20 |
+38,59 |
 
-6 |
+7 |
 
-6 |
+7 |
 
 Election directe Scrutin de liste |
 
-Comité Technique de la DISI OUEST |
+Comité Technique de la DISI de Centre Ouest |
 
 Chef de service à compétence nationale |
 
@@ -2128,67 +2128,19 @@ Service à compétence nationale |
 
 Election directe Scrutin de liste |
 
-Comité Technique de la DISI PARIS CHAMPAGNE |
+Comité Technique de la DISI de Rhône-Alpes Auvergne Bourgogne |
 
 Chef de service à compétence nationale |
 
 Service à compétence nationale |
 
-57,08 |
+60,64 |
 
-42,92 |
-
-8 |
-
-8 |
-
-Election directe Scrutin de liste |
-
-Comité Technique de la DISI PARIS NORMANDIE |
-
-Chef de service à compétence nationale |
-
-Service à compétence nationale |
-
-55,14 |
-
-44,86 |
+39,36 |
 
 7 |
 
 7 |
-
-Election directe Scrutin de liste |
-
-Comité Technique de la DISI PAYS-DU-CENTRE |
-
-Chef de service à compétence nationale |
-
-Service à compétence nationale |
-
-51,29 |
-
-48,71 |
-
-6 |
-
-6 |
-
-Election directe Scrutin de liste |
-
-Comité Technique de la DISI RHONE-ALPES-EST BOURGOGNE |
-
-Chef de service à compétence nationale |
-
-Service à compétence nationale |
-
-70,91 |
-
-29,09 |
-
-6 |
-
-6 |
 
 Election directe Scrutin de liste |
 
@@ -2221,5 +2173,21 @@ Service à compétence nationale |
 7 |
 
 7 |
+
+Election directe Scrutin de liste |
+
+Comité Technique de la DISI de l'Ile-de-France |
+
+Chef de service à compétence nationale |
+
+Service à compétence nationale |
+
+59,46 |
+
+40,54 |
+
+8 |
+
+8 |
 
 Election directe Scrutin de liste |

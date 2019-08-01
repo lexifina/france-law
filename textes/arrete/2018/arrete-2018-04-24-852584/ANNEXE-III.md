@@ -116,13 +116,15 @@ Election directe Scrutin de liste |
 
 Comité technique de service déconcentré de la direction interrégionale Bretagne, Pays de la Loire |
 
-Directeur interrégional |
+Directeur
+
+interrégional |
 
 Direction interrégionale |
 
-64,01 |
+56,39 |
 
-35,99 |
+43,61 |
 
 8 |
 
@@ -244,13 +246,15 @@ Election directe Scrutin de liste |
 
 Comité technique de service déconcentré de la direction interrégionale Antilles-Guyane (à l'exception de DR Guadeloupe DR Guyane) |
 
-Directeur interrégional |
+Directeur
+
+interrégional |
 
 Direction interrégionale |
 
-67,11 |
+60,78 |
 
-32,89 |
+39,22 |
 
 6 |
 
@@ -436,18 +440,40 @@ SCN direction nationale du recrutement et de la formation professionnelle |
 
 Election directe Scrutin de liste |
 
-Comité technique du SCN service national de la douane judiciaire |
+Comité technique du SCN service d'enquêtes judiciaires des finances |
 
-Chef du service |
+Chef de service |
 
-SCN service national de la douane judiciaire |
+SCN service d'enquêtes judiciaires des finances |
 
-66,53 |
+64,95 |
 
-33,47 |
+35,05 |
 
 6 |
 
 6 |
 
 Election directe Scrutin de liste |
+
+Comité technique du SCN direction nationale garde-côtes des douanes |
+
+Chef du service |
+
+SCN direction
+
+nationale garde-côtes des douanes |
+
+86,04 |
+
+13,96 |
+
+8 |
+
+8 |
+
+Election directe Scrutin de liste |
+
+NOTA :
+
+Conformément aux dispositions de l'article 9 de l'arrêté du 23 juillet 2019, le comité technique compétent pour le service à compétence nationale service national de la douane judiciaire demeure compétent pour le service à compétence nationale dénommé service d'enquêtes judiciaires des finances jusqu'à son renouvellement.
