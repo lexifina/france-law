@@ -40,7 +40,7 @@ Gard |
 
 Réservé au vol à voile, au parachutisme et aux avions de servitude. |
 
-Avranches - Le Val-Saint-Père |
+Avranches-Le Val-Saint-Père |
 
 Manche |
 
@@ -62,7 +62,7 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères. |
 
-Basse-Terre - Le Baillif |
+Basse-Terre-Le Baillif |
 
 Guadeloupe |
 
@@ -74,7 +74,7 @@ Vendée |
 
 Les conditions d'utilisation de l'aérodrome sont portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. Ces conditions sont validées par les services de la direction de la sécurité de l'aviation civile Ouest. |
 
-Bédarieux - La Tour-sur-Orb |
+Bédarieux-La Tour-sur-Orb |
 
 Hérault |
 
@@ -82,7 +82,7 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Sud-Est. |
 
-Belleville - Villié-Morgon |
+Belleville-Villié-Morgon |
 
 Rhône |
 
@@ -100,7 +100,7 @@ L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les 
 
 L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
-Belvès - Saint-Pardoux |
+Belvès-Saint-Pardoux |
 
 Dordogne |
 
@@ -170,13 +170,13 @@ Jura |
 
 Réservé aux pilotes qui y sont basés et à ceux qui sont autorisés répondant aux conditions suivantes :
 
-- avoir plus de 250 heures de vol ; |
+-avoir plus de 250 heures de vol ; |
 
 |
 
 |
 
-- avoir au préalable reconnu la plate-forme avec un instructeur habilité ou possédant la qualification montagne
+-avoir au préalable reconnu la plate-forme avec un instructeur habilité ou possédant la qualification montagne
 
 Utilisable par les hélicoptères. |
 
@@ -222,9 +222,11 @@ Cet aérodrome est réservé :
 
 4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
 
-5° Aux aéronefs légers et activités liés à l'aéroclub "Les Ailes Cognaçaises - aéroclub de Cognac" dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+5° Aux aéronefs légers et activités liés à l'aéroclub " Les Ailes Cognaçaises-aéroclub de Cognac " dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
 
-6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique.
+
+|
 
 Corlier |
 
@@ -270,7 +272,9 @@ Cet aérodrome est réservé :
 
 Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation (ou convention) d'occupation relèvent du point n° 3.
 
-Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome.
+
+|
 
 Dieuze-Guéblange |
 
@@ -284,7 +288,7 @@ Dunkerque-Les Moëres |
 
 Nord |
 
-Réservé aux avions, aux hélicoptères et aéronefs ultralégers motorisés basés dans les départements suivants : Nord, Pas-de-Calais, Somme, Aisne et Oise. Utilisable par les pilotes en provenance d'autres départements, après avoir été nommément autorisés par le délégué régional de l'aviation civile Nord - Pas-de-Calais. |
+Réservé aux avions, aux hélicoptères et aéronefs ultralégers motorisés basés dans les départements suivants : Nord, Pas-de-Calais, Somme, Aisne et Oise. Utilisable par les pilotes en provenance d'autres départements, après avoir été nommément autorisés par le délégué régional de l'aviation civile Nord-Pas-de-Calais. |
 
 Enghien-Moisselles |
 
@@ -308,7 +312,9 @@ Cet aérodrome est réservé :
 
 Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation ou convention d'occupation relèvent du point n° 3.
 
-Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome.
+
+|
 
 Etrépagny |
 
@@ -316,7 +322,7 @@ Eure |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
-Eu-Mers - Le Tréport |
+Eu-Mers-Le Tréport |
 
 Seine-Maritime |
 
@@ -336,15 +342,17 @@ Cet aérodrome est réservé :
 
 4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
 
-5° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+5° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique.
 
-Falaise - Monts-d'Eraines |
+|
+
+Falaise-Monts-d'Eraines |
 
 Calvados |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
-Florac - Sainte-Enimie |
+Florac-Sainte-Enimie |
 
 Lozère |
 
@@ -360,17 +368,17 @@ Haute-Corse
 
 Cet aérodrome est réservé :
 
-- aux aéronefs basés en Corse ;
+-aux aéronefs basés en Corse ;
 
-- aux aéronefs d'Etat ;
+-aux aéronefs d'Etat ;
 
-- aux aéronefs dont les pilotes ont effectué au moins un vol à l'arrivée et au départ de l'aérodrome dans les douze mois précédents.
+-aux aéronefs dont les pilotes ont effectué au moins un vol à l'arrivée et au départ de l'aérodrome dans les douze mois précédents.
 
 Des autorisations exceptionnelles d'utilisation de la plate-forme peuvent être accordées dans les conditions suivantes :
 
-- la demande d'autorisation doit être transmise à l'exploitant pour une instruction préalable avec un délai minimum de trois jours ouvrables ;
+-la demande d'autorisation doit être transmise à l'exploitant pour une instruction préalable avec un délai minimum de trois jours ouvrables ;
 
-- après consultation de l'autorité militaire, l'exploitant transmet la demande d'autorisation à la délégation de la direction de la sécurité de l'aviation civile Sud-Est en Corse.
+-après consultation de l'autorité militaire, l'exploitant transmet la demande d'autorisation à la délégation de la direction de la sécurité de l'aviation civile Sud-Est en Corse.
 
 L'autorisation exceptionnelle d'utilisation de l'aérodrome est alors traitée par la délégation de la direction de la sécurité de l'aviation civile Sud-Est en Corse.
 
@@ -422,7 +430,9 @@ Cet aérodrome est réservé :
 
 6° à l'accueil du trafic aérien civil dans le cadre d'activités industrielles dans les conditions fixées par l'autorité militaire ;
 
-7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique.
+
+|
 
 Itxassou |
 
@@ -510,75 +520,27 @@ La Môle |
 
 Var |
 
-Réservé aux aéronefs français ou étrangers et aux pilotes français ou étrangers satisfaisant aux conditions suivantes : |
+Réservé aux aéronefs français ou étrangers et aux pilotes français ou étrangers satisfaisant aux conditions suivantes :
+
+A. Au titre des restrictions applicables aux aéronefs
+
+Pour tous les vols réalisés par des avions de Groupe 1 [au sens de l’arrêté portant agrément de l’aérodrome de La Môle (Var)], l’exploitant dépose auprès de la direction de la sécurité de l'aviation civile Sud-Est (DSAC/SE), au moins un mois avant le début de l’exploitation, un dossier de démonstration de performances au décollage et à l'atterrissage et comportant le programme de formation et de maintien des compétences des équipages. L’utilisation de l’aérodrome est possible après l’obtention de l’accusé de réception de la DSAC/SE et le cas échéant, après la réalisation jugée satisfaisante, d’un vol sous supervision d’un pilote inspecteur désigné par le directeur de la DSAC/SE.
+
+B. Au titre des restrictions applicables aux commandants de bord
+
+1° S’agissant des avions de Groupe 1, avoir suivi la formation décrite dans le dossier déposé auprès de la DSAC/SE et avoir effectué dans les six mois précédant le premier vol à la Môle un vol de reconnaissance de l’aérodrome comme pilote aux commandes, sur le type ou classe d’avions concerné, avec instructeur.
+
+2° S’agissant des avions de Groupe 2 [au sens de l’arrêté portant agrément de l’aérodrome de La Môle (Var)], avoir effectué, dans les six mois précédant le premier vol à La Môle une reconnaissance de l’aérodrome comme pilote aux commandes, sur le type ou classe d’avions concerné, avec un instructeur agréé par le directeur de la DSAC/SE.
+
+N'est utilisable que dans les conditions de vent fixées par le directeur de l'aviation civile Sud-Est.
+
+Pour les avions du Groupe 1, les atterrissages s’effectuent uniquement face à l’ouest et les décollages exclusivement face à l’est.
+
+Pour les avions du Groupe 2, le choix de la piste pour les décollages et atterrissages est fait en application des informations aéronautiques à disposition des équipages.
+
+L’aérodrome n’est pas utilisable par les avions si la piste est contaminée.
 
 |
-
-|
-
-A. - Au titre des restrictions
-
-applicables aux aéronefs
-
-Accessible aux avions légers et aux giravions tant en aviation générale qu'en transport public, sans autres prescriptions que celles soumises aux dispositions des arrêtés des 24 juillet 1991, 5 novembre 1987 et 25 février 1985 modifiés. |
-
-|
-
-|
-
-Accessible aux avions lourds tant en aviation générale qu'en transport public, au sens des arrêtés du 24 juillet 1991 et 5 novembre 1987 modifiés, sur autorisation spéciale délivrée par le directeur de l'aviation civile Sud-Est. |
-
-|
-
-|
-
-B. - Au titre des restrictions
-
-applicables aux commandants de bord
-
-a) Pour une exploitation en aviation générale, le commandant de bord doit : |
-
-|
-
-|
-
-- avoir effectué dans les deux derniers mois une reconnaissance du site comme pilote aux commandes accompagné d'un instructeur agréé à cet effet par le directeur de la sécurité de l'aviation civile Sud-Est, qui l'aura reconnu apte à l'issue de cette reconnaissance et aura porté mention de cette aptitude sur le carnet de vol ; |
-
-|
-
-|
-
-- ou être titulaire de la qualification montagne avion ;
-
-- ou avoir utilisé l'aérodrome comme pilote aux commandes au cours des vingt-quatre derniers mois. |
-
-|
-
-|
-
-b) Pour une exploitation en transport public, le commandant de bord doit :
-
-- avoir effectué dans les deux derniers mois, sous le contrôle d'un instructeur dont l'entreprise peut attester qu'il est familier avec les caractéristiques de l'aérodrome, une reconnaissance sur le site de toutes les procédures d'utilisation prévues par l'exploitant sur le type d'aéronef concerné ; |
-
-|
-
-|
-
-- ou, pour l'utilisation d'un avion léger seulement, être titulaire de la qualification montagne avion ;
-
-- ou avoir utilisé l'aérodrome comme commandant de bord aux commandes au cours des douze derniers mois ; |
-
-|
-
-|
-
-- et, pour l'utilisation d'un avion lourd, avoir suivi une formation hors ligne définie par l'exploitant portant notamment sur l'étude des cartes, des trajectoires, des obstacles dans les trouées opérationnelles et au voisinage de l'aérodrome, des caractéristiques aérologiques et des performances normales et dégradées de l'avion. |
-
-|
-
-|
-
-N'est utilisable que dans des limites de vent fixées par le directeur de l'aviation civile Sud-Est. |
 
 La Montagne Noire |
 
@@ -608,7 +570,7 @@ Pyrénées-Atlantiques |
 
 Réservé aux activités de l'école de parachutisme qui y est installée et aux aéronefs de servitude associés. |
 
-La Tour-du-Pin - Cessieu |
+La Tour-du-Pin-Cessieu |
 
 Isère |
 
@@ -626,7 +588,7 @@ Réservé au vol à voile et aux avions de servitude.
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Sud-Est. |
 
-Les Saintes - Terre-de-Haut |
+Les Saintes-Terre-de-Haut |
 
 Guadeloupe |
 
@@ -716,7 +678,7 @@ Les pilotes non titulaires de la qualification montagne devront se conformer aux
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
-Méribel- Robert Merloz |
+Méribel-Robert Merloz |
 
 Savoie |
 
@@ -798,7 +760,9 @@ Cet aérodrome est réservé :
 
 Les aéronefs et activités liés à un aéroclub bénéficiant d'une autorisation ou convention d'occupation relèvent du point n° 3.
 
-Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la comptabilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome. |
+Les aéronefs ne relevant pas des points n° 2 à 4 pourront être exceptionnellement autorisés par le directeur d'aérodrome, sous réserve de la comptabilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome.
+
+|
 
 Pithiviers |
 
@@ -850,7 +814,7 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères dans des conditions définies par la direction de la sécurité de l'aviation civile Sud. |
 
-Riberac - Tourette |
+Riberac-Tourette |
 
 Dordogne |
 
@@ -880,7 +844,7 @@ L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les 
 
 L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
-Saint-Affrique - Belmont |
+Saint-Affrique-Belmont |
 
 Aveyron |
 
@@ -914,13 +878,13 @@ Sur cette base, le programme de formation des pilotes en vue d'une exploitation 
 
 Les exigences du présent article ne sont pas applicables aux aéronefs ultralégers motorisés.
 
-Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des services aériens par avion de/vers l'aérodrome de Saint-Barthélemy soumettent au préalable à l'autorisation de la direction de la sécurité de l'aviation civile Antilles-Guyane un dossier de démonstration de performances à l'atterrissage, dans des conditions publiées par la voie de l'information aéronautique.
+Les transporteurs aériens publics sollicitant l'autorisation d'exploiter des services aériens par avion de/ vers l'aérodrome de Saint-Barthélemy soumettent au préalable à l'autorisation de la direction de la sécurité de l'aviation civile Antilles-Guyane un dossier de démonstration de performances à l'atterrissage, dans des conditions publiées par la voie de l'information aéronautique.
 
 Il peut être dérogé aux conditions d'utilisation prévues aux articles 1er et 2 par décision de la direction de la sécurité de l'aviation civile Antilles-Guyane.
 
 |
 
-Saint-Dizier - Robinson |
+Saint-Dizier-Robinson |
 
 Haute-Marne |
 
@@ -934,9 +898,11 @@ Cet aérodrome est réservé :
 
 4° Aux aéronefs loués ou affrétés au profit d'autorités militaires ou gouvernementales françaises ou étrangères ;
 
-5° Aux aéronefs légers et activités liés à l'aéroclub de Saint-Dizier - Robinson, dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
+5° Aux aéronefs légers et activités liés à l'aéroclub de Saint-Dizier-Robinson, dans la limite des disponibilités, de leur capacité physique et dans les conditions fixées par une convention locale avec le directeur de l'aérodrome ;
 
-6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+6° Aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique.
+
+|
 
 Sainte-Léocadie |
 
@@ -1012,7 +978,7 @@ Cet aérodrome est réservé :
 
 7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
 
-Sallanches - Mont-Blanc |
+Sallanches-Mont-Blanc |
 
 Haute-Savoie |
 
@@ -1082,15 +1048,15 @@ Savoie |
 
 Réservé aux pilotes répondant à l'une des conditions suivantes :
 
-- utiliser de manière habituelle les aéronefs qui y sont basés ; |
+-utiliser de manière habituelle les aéronefs qui y sont basés ; |
 
 |
 
 |
 
-- utiliser de manière habituelle les aéronefs basés sur les aérodromes voisins ;
+-utiliser de manière habituelle les aéronefs basés sur les aérodromes voisins ;
 
-- disposer d'une qualification de vol en montagne. |
+-disposer d'une qualification de vol en montagne. |
 
 |
 
@@ -1112,13 +1078,13 @@ Hélistation.
 
 Réservée :
 
-- aux hélicoptères en provenance de Point-à-Pitre - Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Point-à-Pitre - Le Raizet ; provenance de Pointe-à-Pitre - Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Pointe-à-Pitre - Le Raizet ; |
+-aux hélicoptères en provenance de Point-à-Pitre-Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Point-à-Pitre-Le Raizet ; provenance de Pointe-à-Pitre-Le Raizet ou n'ayant pas quitté la Guadeloupe depuis leur dernier décollage de Pointe-à-Pitre-Le Raizet ; |
 
 |
 
 |
 
-- aux hélicoptères à destination de Point-à-Pitre - Le Raizet ou devant atterrir à Point-à-Pitre - Le Raizet avant de quitter la Guadeloupe. Destination de Pointe-à-Pitre - Le Raizet ou devant atterrir à Pointe-à-Pitre - Le Raizet avant de quitter la Guadeloupe. |
+-aux hélicoptères à destination de Point-à-Pitre-Le Raizet ou devant atterrir à Point-à-Pitre-Le Raizet avant de quitter la Guadeloupe. Destination de Pointe-à-Pitre-Le Raizet ou devant atterrir à Pointe-à-Pitre-Le Raizet avant de quitter la Guadeloupe. |
 
 |
 
@@ -1126,7 +1092,7 @@ Réservée :
 
 (Saint-Martin et Saint-Barthélémy ne font pas partie de la Guadeloupe au sein de la présente consigne d'utilisation). |
 
-Toulouse - Bourg-Saint-Bernard |
+Toulouse-Bourg-Saint-Bernard |
 
 Haute-Garonne |
 
@@ -1174,7 +1140,7 @@ Gironde |
 
 Réservé aux aéronefs qui y sont basés.
 
-Hauteur de tour de piste limitée à 200 mètres/sol. |
+Hauteur de tour de piste limitée à 200 mètres/ sol. |
 
 Vierzon-Méreau |
 
@@ -1196,7 +1162,7 @@ Yvelines |
 
 |
 
-Yvetot - Baons-le-Comte |
+Yvetot-Baons-le-Comte |
 
 Seine-Maritime |
 
