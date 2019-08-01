@@ -8,7 +8,59 @@ A. - Assignations du ministère de l'intérieur et du ministère des outre-mer
 
 1. Préfectures
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2014, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2014 et aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2014.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er juillet 2018, aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+BOUCHES-DU-RHÔNE |
+
+Direction départementale des finances publiques du Vaucluse pour les opérations des anciens CSP du Var et du Vaucluse |
+
+CÔTE-D'OR |
+
+Direction départementale des finances publiques de Saône-et-Loire pour les opérations de l'ancien CSP de Saône-et-Loire |
+
+Direction départementale des finances publiques de Saône-et-Loire pour les opérations de l'ancien CSP de la Nièvre |
+
+HAUTE-GARONNE |
+
+Direction départementale des finances publiques du Gard pour les opérations de l'ancien CSP du Gard |
+
+Direction départementale des finances publiques du Tarn pour les opérations de l'ancien CSP du Tarn |
+
+GIRONDE |
+
+Direction départementale des finances publiques de Dordogne pour les opérations de l'ancien CSP de Dordogne |
+
+ILLE-ET-VILAINE |
+
+Direction départementale des finances publiques du Morbihan pour les opérations de l'ancien CSP du Finistère |
+
+LOIRE-ATLANTIQUE |
+
+Direction départementale des finances publiques de Maine-et-Loire pour les opérations des anciens CSP de Maine-et-Loire et de la Sarthe |
+
+LOIRET |
+
+Direction départementale des finances publiques d'Indre-et-Loire pour les opérations de l'ancien CSP d'Indre-et-Loire |
+
+NORD |
+
+Direction départementale des finances publiques de l'Oise pour les opérations de l'ancien CSP de l'Oise |
+
+PARIS |
+
+Direction départementale des finances publiques de Seine-et-Marne pour les opérations de l'ancien CSP de Seine-et-Marne |
+
+Direction départementale des finances publiques de Seine-Saint-Denis pour les opérations de l'ancien CSP de Seine-Saint-Denis |
+
+Direction départementale des finances publiques du Val-d'Oise pour les opérations de l'ancien CSP du Val-d'Oise |
+
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er août 2019, aux ordres de recouvrer pris en charge et non soldés au 1er août 2019, aux dépenses dont le fait générateur est antérieur au 1er août 2019 et aux intérêts moratoires dont le fait générateur est antérieur au 1er août 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -20,25 +72,49 @@ BAS-RHIN |
 
 Direction départementale des finances publiques du Haut-Rhin pour les opérations de l'ancien CSP du Haut-Rhin |
 
+Direction départementale des finances publiques de la Marne |
+
 Direction départementale des finances publiques de Meurthe-et-Moselle pour les opérations de l'ancien CSP de Meurthe-et-Moselle |
 
+Direction départementale des finances publiques de la Moselle |
+
 Direction départementale des finances publiques des Vosges pour les opérations de l'ancien CSP des Vosges |
-
-GIRONDE |
-
-Direction départementale des finances publiques des Pyrénées-Atlantiques pour les opérations de l'ancien CSP des Pyrénées-Atlantiques |
-
-|
-
-PARIS |
-
-Direction départementale des finances publiques des Yvelines pour les opérations de l'ancien CSP des Yvelines |
-
-Direction départementale des finances publiques des Hauts-de-Seine pour les opérations de l'ancien CSP des Hauts-de-Seine |
 
 BOUCHES-DU-RHÔNE |
 
 Direction départementale des finances publiques des Alpes-Maritimes pour les opérations de l'ancien CSP des Alpes-Maritimes |
+
+COTE-D'OR |
+
+Direction départementale des finances publiques du Doubs |
+
+HAUTE-GARONNE |
+
+Direction départementale des finances publiques de l'Hérault |
+
+|
+
+GIRONDE |
+
+Direction départementale des finances publiques de la Vienne |
+
+Direction départementale des finances publiques de la Haute-Vienne |
+
+Direction départementale des finances publiques des Pyrénées-Atlantiques pour les opérations de l'ancien CSP des Pyrénées-Atlantiques |
+
+NORD |
+
+Direction départementale des finances publiques de la Somme |
+
+PARIS |
+
+Direction départementale des finances publiques de l'Essonne pour les opérations de l'ancien CSP de l'Essonne |
+
+Direction départementale des finances publiques des Hauts-de-Seine pour les opérations de l'ancien CSP des Hauts-de-Seine |
+
+Direction départementale des finances publiques du Val-de-Marne pour les opérations de l'ancien CSP du Val-de-Marne |
+
+Direction départementale des finances publiques des Yvelines pour les opérations de l'ancien CSP des Yvelines |
 
 RHÔNE |
 
@@ -46,133 +122,17 @@ Direction départementale des finances publiques de l'Ain pour les opérations d
 
 Direction départementale des finances publiques de l'Isère pour les opérations des anciens CSP de l'Ardèche, de la Drôme et de l'Isère |
 
+Direction départementale des finances publiques du Puy-de-Dôme |
+
 Direction départementale des finances publiques de Savoie pour les opérations des anciens CSP de la Savoie et de la Haute-Savoie |
-
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2015, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2015 et aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2015.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
-
-PARIS |
-
-Direction départementale des finances publiques de l'Essonne pour les opérations de l'ancien CSP de l'Essonne |
-
-Direction départementale des finances publiques du Val-de-Marne pour les opérations de l'ancien CSP du Val-de-Marne |
-
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2017, aux dépenses dont le fait générateur est antérieur au 1er janvier 2017, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2017 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2017.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
 SEINE-MARITIME |
 
 Direction départementale des finances publiques du Calvados |
 
-CÔTE-D'OR |
-
-Direction départementale des finances publiques du Doubs |
-
-GIRONDE |
-
-Direction départementale des finances publiques de la Haute-Vienne |
-
-BAS-RHIN |
-
-Direction départementale des finances publiques de la Marne |
-
-RHÔNE |
-
-Direction départementale des finances publiques du Puy-de-Dôme |
-
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2018, aux dépenses dont le fait générateur est antérieur au 1er janvier 2018, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2018 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2018.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
-
-HAUTE-GARONNE |
-
-Direction départementale des finances publiques de l'Hérault |
-
-BAS-RHIN |
-
-Direction départementale des finances publiques de la Moselle |
-
-NORD |
-
-Direction départementale des finances publiques de la Somme |
-
-GIRONDE |
-
-Direction départementale des finances publiques de la Vienne |
-
-Pour les opérations relatives aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
-
-GIRONDE |
-
-Direction départementale des finances publiques de Dordogne pour les opérations de l'ancien CSP de Dordogne |
-
-CÔTE-D'OR |
-
-Direction départementale des finances publiques de Saône-et-Loire pour les opérations de l'ancien CSP de Saône-et-Loire |
-
-ILLE-ET-VILAINE |
-
-Direction départementale des finances publiques du Morbihan pour les opérations de l'ancien CSP du Finistère |
-
-LOIRET |
-
-Direction départementale des finances publiques d'Indre-et-Loire pour les opérations de l'ancien CSP d'Indre-et-Loire |
-
-HAUTE-GARONNE |
-
-Direction départementale des finances publiques du Gard pour les opérations de l'ancien CSP du Gard |
-
-LOIRE-ATLANTIQUE |
-
-Direction départementale des finances publiques de Maine-et-Loire pour les opérations des anciens CSP de Maine-et-Loire et de la Sarthe |
-
-NORD |
-
-Direction départementale des finances publiques de l'Oise pour les opérations de l'ancien CSP de l'Oise |
-
-BOUCHES-DU-RHÔNE |
-
-Direction départementale des finances publiques du Vaucluse pour les opérations des anciens CSP du Var et du Vaucluse |
-
-CÔTE-D'OR |
-
-Direction départementale des finances publiques de Saône-et-Loire pour les opérations de l'ancien CSP de la Nièvre |
-
-PARIS |
-
-Direction départementale des finances publiques de Seine-et-Marne pour les opérations de l'ancien CSP de Seine-et-Marne |
-
-Direction départementale des finances publiques de Seine-Saint-Denis pour les opérations de l'ancien CSP de Seine-Saint-Denis |
-
-Direction départementale des finances publiques du Val-d'Oise pour les opérations de l'ancien CSP du Val-d'Oise |
-
-HAUTE-GARONNE |
-
-Direction départementale des finances publiques du Tarn pour les opérations de l'ancien CSP du Tarn |
-
 2. Secrétariat général pour l'administration de la police (SGAP) de la région Ile-de-France
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2014, aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2014 et aux engagements juridiques pris avant le 31 décembre 2013 non transférés :
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er août 2019, aux ordres de recouvrer pris en charge et non soldés au 1er août 2019, aux dépenses dont le fait générateur est antérieur au 1er août 2019 et aux intérêts moratoires dont le fait générateur est antérieur au 1er août 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -186,7 +146,19 @@ Direction départementale des finances publiques des Yvelines pour les opératio
 
 B. - Assignations du ministère de la justice
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2014 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2014.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er janvier 2019, aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés |
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
+
+Le responsable de la délégation interrégionale du secrétariat général de Bordeaux |
+
+Direction départementale des finances publiques des Pyrénées-Atlantiques |
+
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er août 2019, aux ordres de recouvrer pris en charge et non soldés au 1er août 2019, aux dépenses dont le fait générateur est antérieur au 1er août 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er août 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -204,21 +176,9 @@ Direction départementale des finances publiques des Hauts-de-Seine pour les op�
 
 Direction départementale des finances publiques des Yvelines pour les opérations du ressort de la cour d'appel de Versailles relevant du programme 310 |
 
-Pour les opérations relatives aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
-
-Le responsable de la délégation interrégionale du secrétariat général de Bordeaux |
-
-Direction départementale des finances publiques des Pyrénées-Atlantiques |
-
 C. - Assignations du ministère de la transition écologique et solidaire, du ministère de la cohésion des territoires et des relations avec les collectivités territoriales et du ministère de l'agriculture et de l'alimentation
 
-Pour les opérations relatives aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er juillet 2018, aux ordres de recouvrer pris en charge et non soldés au 1er juillet 2018, aux dépenses dont le fait générateur est antérieur au 1er juillet 2018 et aux intérêts moratoires dont le fait générateur est antérieur au 1er juillet 2018.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -228,9 +188,9 @@ du centre de prestations comptables mutualisées
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-RHÔNE pour les départements suivants : Isère, Savoie, Haute-Savoie |
+BOUCHES-DU-RHÔNE |
 
-Direction départementale des finances publiques de l'Isère |
+Direction départementale des finances publiques du Vaucluse |
 
 CÔTE-D'OR |
 
@@ -243,14 +203,6 @@ Direction départementale des finances publiques du Morbihan |
 ILLE-ET-VILAINE |
 
 Direction départementale des finances publiques du Morbihan |
-
-PUY-DE-DOME pour les départements suivants : Ardèche, Loire |
-
-Direction départementale des finances publiques de l'Ain |
-
-BOUCHES-DU-RHÔNE |
-
-Direction départementale des finances publiques du Vaucluse |
 
 HAUTE-GARONNE |
 
@@ -276,11 +228,19 @@ NORD pour les opérations relevant de l'ancien centre de prestations comptables 
 
 Direction départementale des finances publiques de l'Oise |
 
+PUY-DE-DOME pour les départements suivants : Ardèche, Loire |
+
+Direction départementale des finances publiques de l'Ain |
+
+RHÔNE pour les départements suivants : Isère, Savoie, Haute-Savoie |
+
+Direction départementale des finances publiques de l'Isère |
+
 SEINE-MARITIME |
 
 Direction départementale des finances publiques de l'Eure |
 
-Pour les opérations relatives aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er janvier 2019, aux dépenses dont le fait générateur est antérieur au 1er janvier 2019, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2019 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -290,15 +250,15 @@ du centre de prestations comptables mutualisées
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-MOSELLE |
-
-Direction départementale des finances publiques des Vosges |
-
 BAS-RHIN sauf pour les opérations mentionnées à la ligne suivante |
 
 Direction départementale des finances publiques du Haut-Rhin |
 
 BAS-RHIN pour les ordres de payer et de recouvrer émis par les directions départementales des territoires de Meurthe-et-Moselle, de la Meuse, de la Moselle et des Vosges hors exécution des marchés publics et dépenses d'intervention notifiés avant le 1er mars 2016 (traités par le centre de prestations comptables mutualisées de la Moselle) |
+
+Direction départementale des finances publiques des Vosges |
+
+MOSELLE |
 
 Direction départementale des finances publiques des Vosges |
 
@@ -312,37 +272,21 @@ Direction départementale des finances publiques de la Charente-Maritime |
 
 D. - Assignations des centres de services partagés interministériels situés en métropole (hors Corse)
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2017, aux dépenses dont le fait générateur est antérieur au 1er janvier 2017, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2017 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2017.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er août 2019, aux ordres de recouvrer pris en charge et non soldés au 1er août 2019, aux dépenses dont le fait générateur est antérieur au 1er août 2019 et aux intérêts moratoires dont le fait générateur est antérieur au 1er août 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
 du centre de services partagés |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
-
-DOUBS |
-
-Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or pour les opérations de l'ancien CSP de la Côte-d'Or |
-
-RHÔNE |
-
-Direction départementale des finances publiques du Puy-de-Dôme pour les opérations de l'ancien CSP du Puy-de-Dôme |
 
 CALVADOS |
 
 Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime pour les opérations de l'ancien CSP de la Seine-Maritime |
 
-MARNE |
+DOUBS |
 
-Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin pour les opérations de l'ancien CSP du Bas-Rhin |
-
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2018, aux dépenses dont le fait générateur est antérieur au 1er janvier 2018, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2018 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2018.
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés |
-
-COMPTABLE PRINCIPAL ASSIGNATAIRE |
+Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or pour les opérations de l'ancien CSP de la Côte-d'Or |
 
 HERAULT |
 
@@ -350,7 +294,13 @@ Direction régionale des finances publiques d'Occitanie et du département de la
 
 MARNE |
 
+Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin pour les opérations de l'ancien CSP du Bas-Rhin |
+
 Direction départementale des finances publiques de la Moselle pour les opérations de l'ancien CSP de la Moselle |
+
+RHÔNE |
+
+Direction départementale des finances publiques du Puy-de-Dôme pour les opérations de l'ancien CSP du Puy-de-Dôme |
 
 SOMME |
 
@@ -360,13 +310,11 @@ VIENNE |
 
 Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde pour les opérations de l'ancien CSP de la Gironde |
 
-VIENNE |
-
 Direction départementale des finances publiques de la Haute-Vienne pour les opérations de l'ancien CSP de la Haute-Vienne |
 
 E. - Assignations des services des douanes
 
-Pour les opérations relatives aux dépenses afférentes aux marchés publics faisant l'objet d'une avance ou d'une retenue de garantie non dénouée au 1er janvier 2017, aux dépenses dont le fait générateur est antérieur au 1er janvier 2017, aux intérêts moratoires dont le fait générateur est antérieur au 1er janvier 2017 et aux ordres de recouvrer pris en charge et non soldés au 1er janvier 2017.
+Pour les opérations relatives aux marchés publics faisant l'objet d'un indu non régularisé au 1er août 2019, aux ordres de recouvrer pris en charge et non soldés au 1er août 2019, aux dépenses dont le fait générateur est antérieur au 1er août 2019 et aux intérêts moratoires dont le fait générateur est antérieur au 1er août 2019.
 
 DÉPARTEMENT DE RÉSIDENCE
 
