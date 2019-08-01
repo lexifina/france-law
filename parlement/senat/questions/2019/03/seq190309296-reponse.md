@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309296
+
+- Question : [SEQ190309296](seq190309296.md) — Stratégie nationale de lutte contre les perturbateurs endocriniens
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-08-01, page 4129*
+
+La nouvelle stratégie nationale sur les perturbateurs endocriniens (SNPE2), élaborée en 2018 avec les parties prenantes et qui a fait l'objet d'une consultation publique du 14 janvier au 8 février 2019 sera prochainement publiée. L'objectif principal de cette stratégie est de réduire l'exposition de la population et de l'environnement aux perturbateurs endocriniens. Pour répondre à cet objectif, treize mesures phares ont été proposées. La première mesure concerne la publication en 2021 d'une liste de substances perturbateurs endocriniens. L'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) établira dans un premier temps une liste de substances potentiellement perturbateurs endocriniens (PE) à partir des listes déjà existantes aux niveaux européen et international. Ces substances seront ensuite évaluées au fur et à mesure afin de les catégoriser en fonction du niveau de preuve (PE avérés, présumés, suspectés). Les discussions avec les parties prenantes dans le cadre de l'élaboration de la nouvelle stratégie, ont souligné l'intérêt de disposer d'une telle liste validée scientifiquement. Ainsi les acteurs locaux pourraient l'utiliser pour déployer des actions, notamment pour communiquer sur les substances potentiellement perturbateurs endocriniens en fonction du niveau de connaissance. D'autre part, cette liste permettra également à partir des évaluations réalisées, par l'Anses notamment, de proposer des mesures de gestion dans les différentes règlementations sectorielles européennes. Cette liste sera publiée sur les sites des ministères chargés de l'écologie et de la santé et sera mise à jour régulièrement en fonction des nouvelles connaissances.
