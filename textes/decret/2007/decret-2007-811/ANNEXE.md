@@ -304,7 +304,7 @@ Les régisseurs et leurs suppléants sont nommés par décision de l'ordonnateur
 
 Article 29
 
-Les règles d'organisation, de fonctionnement et de contrôle des régies, les règles de cautionnement sont déterminées par la commission administrative centrale dans le respect des conditions fixées par le décret 92-681 du 20 juillet 92 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Les règles d'organisation, de fonctionnement et de contrôle des régies, les règles de cautionnement sont déterminées par la commission administrative centrale dans le respect des conditions fixées par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et d'avances des organismes publics.
 
 Chapitre III
 
