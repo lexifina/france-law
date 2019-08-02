@@ -428,9 +428,9 @@ Objet du contrôle :
 
 - calculée grâce au débit mesuré lors de la mesure périodique de la pollution rejetée selon les modalités du point 6.3 de la présente annexe (Mesure périodique de la pollution rejetée) et à la section de la cheminée.
 
-6.2.4. Valeurs limites d'émission (autres installations que les turbines, moteurs et générateurs de chaleur directe)
+6.2.4. Valeurs limites d'émission (installations de combustion autres que les turbines, moteurs et générateurs de chaleur directe)
 
-Les valeurs limites d'émissions du présent point sont applicables aux autres installations que les turbines, moteurs et générateurs de chaleur directe, dont les chaudières.
+Les valeurs limites d'émissions du présent point sont applicables aux installations de combustion autres que les turbines, moteurs et générateurs de chaleur directe, dont les chaudières.
 
 Le volume des effluents gazeux est exprimé en mètres cubes normaux (Nm3), rapportés à des conditions normalisées de température (273,15 K) et de pression (101,3 kPa) après déduction de la vapeur d'eau (gaz secs).
 
@@ -922,7 +922,7 @@ NOx : 200 |
 
 IV. - Les installations utilisant un combustible solide respectent la valeur limite suivante :
 
-- en dioxines et furanes : 0,1 ng ng I-TEQ/Nm3.
+- en dioxines et furanes : 0,1 ng I-TEQ/Nm3.
 
 Les installations déclarées après le 1er janvier 1998 utilisant de la biomasse respectent les valeurs limites suivantes :
 
@@ -974,7 +974,7 @@ Combustibles gazeux |
 
 15 (4) |
 
-50 (2) (3) |
+50 (2) (3) (5) |
 
 - |
 
@@ -1007,6 +1007,12 @@ NOx : 75 |
 Installation consommant du gaz naturel ou du biométhane |
 
 SO2 : - |
+
+(5) |
+
+Jusqu'au 31 décembre 2029, installations utilisées pour faire fonctionner des stations de compression de gaz nécessaires pour assurer la sûreté et la sécurité d'un système national de transport de gaz |
+
+NOx : 300 |
 
 II. - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses aux installations de combustion fonctionnant plus de 500 heures par an et :
 
@@ -1152,7 +1158,7 @@ Combustibles liquides |
 
 Fioul lourd : 565 |
 
-225 (1) (2) (3) |
+225 (1) (2) (3) (8) |
 
 Fioul lourd : 40 |
 
@@ -1211,6 +1217,12 @@ NOx : 190 |
 Installation consommant du gaz naturel ou du biométhane |
 
 SO2 : - |
+
+(8) |
+
+Jusqu'au 20 décembre 2028, pour les installations déclarées avant le 20 décembre 2018 dont la durée de fonctionnement est inférieure à 500 h/ an |
+
+NOx : 750 |
 
 II. - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses aux installations de combustion fonctionnant plus de 500 heures par an et :
 
@@ -1552,7 +1564,7 @@ Les modalités d'échantillonnage sont définies de façon à garantir la repré
 
 II. - La mesure des poussières n'est pas exigée lorsque les combustibles consommés sont exclusivement des combustibles gazeux ou du fioul domestique. La mesure des oxydes de soufre n'est pas exigée si le combustible est du gaz naturel, du biométhane, fioul domestique ou de la biomasse exclusivement ligneuse faisant partie de la biomasse telle que définie au a) de la définition de biomasse.
 
-III. - Pour les appareils de combustion visés au point 1.4, des mesures périodiques sont réalisées a minima toutes les 1 500 heures d'exploitation. La fréquence des mesures périodiques n'est, en tout état de cause, pas inférieure à une fois tous les cinq ans.
+III. - Pour les appareils de combustion fonctionnant moins de 500 h par an, des mesures périodiques sont réalisées a minima toutes les 1 500 heures d'exploitation. La fréquence des mesures périodiques n'est, en tout état de cause, pas inférieure à une fois tous les cinq ans.
 
 IV. - Le premier contrôle est effectué quatre mois au plus tard après la mise en service de l'installation. A cette occasion, les teneurs en composés organiques volatils (hors méthane) et en formaldéhyde sont déterminées lorsque ces polluants sont réglementés.
 

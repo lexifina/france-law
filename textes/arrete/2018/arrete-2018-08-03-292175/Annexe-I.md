@@ -42,7 +42,7 @@ b) Les déchets ci-après :
 
 " Heures d'exploitation " : période de temps, exprimée en heures, au cours de laquelle une installation de combustion est en exploitation et rejette des émissions dans l'air, à l'exception des phases de démarrage et d'arrêt ;
 
-" Installation de combustion " : tout groupe d'appareils de combustion exploités par un même exploitant et situés sur un même site (enceinte de l'établissement) sauf à ce que l'exploitant démontre que les appareils ne pourraient pas être techniquement et économiquement raccordés à une cheminée commune. Pour les installations dont la déclaration initiale a été accordée avant le 1er juillet 1987, les appareils de combustion non raccordés à une cheminée commune peuvent être considérés de fait comme ne pouvant pas être techniquement et économiquement raccordés à une cheminée commune ;
+" Installation de combustion " : tout groupe d'appareils de combustion exploités par un même exploitant et situés sur un même site (enceinte de l'établissement) sauf à ce que l'exploitant démontre que les appareils ne pourraient pas être techniquement et économiquement raccordés à une cheminée commune. Pour les installations dont la déclaration initiale a été accordée avant le 1er juillet 1987 et pour les installations de puissance inférieure à 2 MW qui ne relevaient pas de la réglementation ICPE avant le 20 décembre 2018, les appareils de combustion non raccordés à une cheminée commune peuvent être considérés de fait comme ne pouvant pas être techniquement et économiquement raccordés à une cheminée commune ;
 
 " Moteur " : un moteur à gaz, un moteur diesel ou un moteur à double combustible ;
 
@@ -120,7 +120,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les documents prévus aux points 1.1.2, 2.7, 2.16, 3.5, 3.6, 3.7, 3.8, 4.1, 4.2, 4.5, 4.6, 5.1.2, 5.9 et 7.5 ;
 
-- un relevé du nombre d'heures d'exploitation par an de l'installation calculé tel qu'indiqué au point 1.8 de la présente annexe, sur une période d'au moins six ans ;
+- un relevé du nombre d'heures d'exploitation par an de l'installation sur une période d'au moins six ans ;
 
 - l'engagement de l'exploitant à faire fonctionner son ou ses appareils de combustion moins de 500 heures par an, si pertinent ;
 
@@ -146,9 +146,9 @@ Objet du contrôle :
 
 - vérification que le nombre d'heures d'exploitation par an est inférieur à 500 heures pour les appareils de combustion pour lesquels l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an (le non-respect de ce point relève d'une non-conformité majeure).
 
-1.4. Appareils fonctionnant moins de 500 heures par an
+1.4. Appareils fonctionnant en secours de l'alimentation électrique principale
 
-Les dispositions des points 2.3, 2.5, 3.9, 5.2 (deuxième alinéa), 5.9, 5.10 (deuxième alinéa), 6.2.2 A et B, 6.2.3, 6.2.4, 6.2.5, 6.2.6, 6.4, 8.3 et 8.4 de la présente annexe ne s'appliquent pas aux appareils de combustion destinés uniquement à alimenter des systèmes de sécurité ou à prendre le relais de l'alimentation principale du site en cas de défaillance accidentelle de celle-ci, et pour lesquelles l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an.
+Les dispositions des points 2.3, 2.5, 3.9, 5.2 (deuxième alinéa), 5.9, 5.10 (deuxième alinéa), 6.2.2 A et B, 6.2.3, 6.2.4, 6.2.5, 6.2.6, 6.3, 6.4, 8.3 et 8.4 de la présente annexe ne s'appliquent pas aux appareils de combustion destinés uniquement à alimenter des systèmes de sécurité ou à prendre le relais de l'alimentation principale du site en cas de défaillance accidentelle de celle-ci, et pour lesquelles l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an.
 
 1.5. Installations exploitées dans les zones non-interconnectées
 
@@ -156,7 +156,11 @@ Les dispositions du point 6 de la présente annexe s'appliquent aux moteurs exis
 
 1.6. Modification d'une installation déclarée avant le 1er janvier 1998 ou d'une installation de puissance thermique nominale totale inférieure ou égale à 2 MW au 19 décembre 2018 mise en service avant le 20 décembre 2018
 
-Les dispositions des points 2.1 à 2.5, 2.11 et 2.15 de la présente annexe ne s'appliquent pas en cas de remplacement d'appareils de combustion ou de modification si elles concernent des dispositions constructives.
+Les dispositions des points 2.1 à 2.5, 2.6 (3e alinéa), 2.11 et 2.15 de la présente annexe ne s'appliquent pas en cas de remplacement d'appareils de combustion ou de modification si elles concernent des dispositions constructives.
+
+1.7. Installation nouvelle dont la puissance thermique nominale est inférieure ou égale à 2 MW ayant fait l'objet d'une demande de permis de construire avant le 20 décembre 2018.
+
+Les dispositions des points 2.1 à 2.5,2.6 (3e alinéa), 2.11 et 2.15 de la présente annexe ne s'appliquent pas aux installations nouvelles dont la puissance thermique nominale est inférieure ou égale à 2 MW ayant fait l'objet d'une demande de permis de construire avant le 20 décembre 2018 si elles concernent des dispositions constructives.
 
 2. Implantation-aménagement
 
@@ -168,7 +172,7 @@ Les appareils de combustion sont implantés de manière à prévenir tout risque
 
 - 10 mètres des installations mettant en œuvre des matières combustibles ou inflammables, y compris les stockages aériens de combustibles liquides ou gazeux destinés à l'alimentation des appareils de combustion présents dans l'installation.
 
-A défaut de satisfaire à cette obligation d'éloignement lors de sa mise en service, l'installation respecte les dispositions du deuxième alinéa du point 2.4.2 de la présente annexe.
+A défaut de satisfaire à cette obligation d'éloignement lors de la mise en service des appareils de combustion, les locaux abritant l'installation respectent les dispositions du deuxième alinéa du point 2.4.2 de la présente annexe.
 
 Les appareils de combustion destinés à la production d'énergie (tels que les chaudières, les turbines ou les moteurs, associés ou non à une postcombustion), sont implantés, sauf nécessité d'exploitation justifiée par l'exploitant, dans un local uniquement réservé à cet usage et répondant aux règles d'implantation ci-dessus.
 
@@ -176,9 +180,9 @@ Lorsque les appareils de combustion sont placés en extérieur, des capotages, o
 
 Objet du contrôle :
 
-- distance entre l'installation et les limites de propriété ;
+- distance entre les appareils de combustion et les limites de propriétés ;
 
-- distance entre l'installation et des installations mettant en œuvre des matières combustibles ou inflammables ou justificatif des caractéristiques de comportement au feu ;
+- distance entre les appareils de combustion et des installations mettant en œuvre des matières combustibles ou inflammables ou justificatif des caractéristiques de comportement au feu ;
 
 - implantation des appareils de combustion destinés à la production d'énergie dans un local réservé à cet usage ;
 
@@ -422,7 +426,7 @@ Objet du contrôle :
 
 Un dispositif de détection de gaz, déclenchant, selon une procédure préétablie, une alarme en cas de dépassement des seuils de danger, est mis en place dans les installations utilisant un combustible gazeux, exploitées sans surveillance permanente ou bien implantées en sous-sol. Ce dispositif coupe l'arrivée du combustible et interrompt l'alimentation électrique, à l'exception de l'alimentation des matériels et des équipements destinés à fonctionner en atmosphère explosive, de l'alimentation en très basse tension et de l'éclairage de secours, sans que cette manœuvre puisse provoquer d'arc ou d'étincelle pouvant déclencher une explosion. Un dispositif de détection d'incendie équipe les installations implantées en sous-sol.
 
-L'emplacement des détecteurs est déterminé par l'exploitant en fonction des risques de fuite et d'incendie. Leur situation est repérée sur un plan. Ils sont contrôlés régulièrement et les résultats de ces contrôles sont consignés par écrit. La fiabilité des détecteurs est adaptée aux exigences du point 2.12 de la présente annexe. Des étalonnages sont régulièrement effectués.
+L'emplacement des détecteurs est déterminé par l'exploitant en fonction des risques de fuite et d'incendie. Leur situation est repérée sur un plan. Ils sont contrôlés régulièrement et les résultats de ces contrôles sont consignés par écrit. La fiabilité des détecteurs est adaptée aux exigences du point 2.13 de la présente annexe. Des étalonnages sont régulièrement effectués.
 
 Toute détection de gaz, au-delà de 60 % de la LIE, conduit à la mise en sécurité de toute installation susceptible d'être en contact avec l'atmosphère explosive, sauf les matériels et équipements dont le fonctionnement pourrait être maintenu conformément aux dispositions prévues au point 2.7 de la présente annexe.
 
@@ -500,7 +504,7 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 - les consignes pour les démarrages et les arrêts : les phases de démarrage et d'arrêt des installations de combustion sont aussi courtes que possible.
 
-Les consignes relatives aux périodes de démarrages et d'arrêts sont être disponibles :
+Les consignes relatives aux périodes de démarrages et d'arrêts sont disponibles :
 
 - dès la mise en service des appareils de combustion mis en service après le 20 décembre 2018 ;
 
@@ -528,7 +532,7 @@ Les installations sont exploitées sous la surveillance permanente d'un personne
 
 Par dérogation aux dispositions ci-dessus, l'exploitation sans surveillance humaine permanente est admise :
 
-- pour les générateurs de vapeur ou d'eau surchauffée, lorsqu'ils répondent aux dispositions de l'arrêté ministériel du 15 mars 2000 susvisé ;
+- pour les générateurs de vapeur ou d'eau surchauffée, lorsqu'ils répondent aux dispositions de l'arrêté ministériel du 20 novembre 2017 relatif au suivi des équipements sous pression et des récipients à pression simples ;
 
 - pour les autres appareils de combustion, si le mode d'exploitation assure une surveillance permanente de l'installation permettant au personnel soit d'agir à distance sur les paramètres de fonctionnement des appareils et de les mettre en sécurité en cas d'anomalies ou de défauts, soit de l'informer de ces derniers afin qu'il intervienne directement sur le site.
 
@@ -596,7 +600,7 @@ Objet du contrôle :
 
 - présence et implantation des appareils d'incendie (bouches poteaux) (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence et implantation de deux extincteurs au moins par appareil de combustion, avec un maximum exigible de quatre (deux dans le cas d'utilisation d'un combustible gazeux seulement) lorsque la puissance de l'installation (somme des puissances des appareils de combustion constituant l'installation) est inférieure à 10 MWth et de six (trois dans le cas d'utilisation d'un combustible gazeux seulement) dans le cas contraire (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence et implantation d'un extincteur par appareil de combustion (avec un maximum exigible de deux extincteurs)
 
 - présence d'une mention : " Ne pas utiliser sur flamme gaz " auprès des extincteurs ;
 
