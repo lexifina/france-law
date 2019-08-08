@@ -1,0 +1,3 @@
+# Article 62 ter
+
+Les agents qui occupent des emplois présentant des risques d'usure professionnelle bénéficient d'un entretien de carrière, dans les conditions fixées par décret en Conseil d'Etat.

@@ -4,15 +4,17 @@ Le Conseil commun de la fonction publique connaît de toute question d'ordre gé
 
 Il est saisi des projets de loi, d'ordonnance et de décret communs à au moins deux des trois fonctions publiques.
 
+Lorsque le projet de texte comporte, en outre, des dispositions propres à l'une des fonctions publiques, le conseil commun peut également être consulté sur ces dispositions, après accord du président du Conseil supérieur de la fonction publique territoriale ou du Conseil supérieur de la fonction publique hospitalière selon la fonction publique concernée, dès lors qu'elles présentent un lien avec les dispositions communes.
+
 Le rapport annuel mentionné au dernier alinéa du I de l'article L. 323-8-6-1 du code du travail est soumis au Conseil commun de la fonction publique.
 
-La consultation du Conseil commun de la fonction publique, lorsqu'elle est obligatoire, remplace celle des conseils supérieurs de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière.
+La consultation du Conseil commun de la fonction publique, lorsqu'elle est obligatoire ou lorsqu'elle intervient en application du troisième alinéa du présent article, remplace celle des conseils supérieurs de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière.
 
 Le Conseil commun de la fonction publique est présidé par le ministre chargé de la fonction publique ou son représentant.
 
 Il comprend :
 
-1° Des représentants des organisations syndicales de fonctionnaires désignés par celles-ci ; les sièges sont répartis entre les organisations syndicales proportionnellement au nombre des voix obtenues par chacune d'elles lors des dernières élections pour la désignation des membres des comités techniques dans les trois fonctions publiques et des organismes consultatifs permettant d'assurer la représentation des personnels en vertu de dispositions législatives spécifiques ;
+1° Des représentants des organisations syndicales de fonctionnaires désignés par celles-ci ; les sièges sont répartis entre les organisations syndicales proportionnellement au nombre des voix obtenues par chacune d'elles lors des dernières élections pour la désignation des membres des comités sociaux dans les trois fonctions publiques et des organismes consultatifs permettant d'assurer la représentation des personnels en vertu de dispositions législatives spécifiques ;
 
 2° Des représentants :
 
@@ -30,4 +32,4 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 NOTA :
 
-Conformément à l'article 48 II de la loi n° 2016-483 du 20 avril 2016, le 2° de l'article 9 ter entre en vigueur à compter de la publication du décret pris pour son application et, au plus tard, six mois après la promulgation de la présente loi.
+Conformément au A du II de l'article 94 de la loi n° 2019-828 du 6 août 2019, les dispositions résultant de l'article 4 de ladite loi entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.

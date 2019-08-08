@@ -1,0 +1,9 @@
+# Article 7 bis
+
+Les administrations de l'Etat et les établissements publics de l'Etat autres que ceux à caractère industriel et commercial peuvent, pour mener à bien un projet ou une opération identifié, recruter un agent par un contrat à durée déterminée dont l'échéance est la réalisation du projet ou de l'opération.
+
+Le contrat est conclu pour une durée minimale d'un an et une durée maximale fixée par les parties dans la limite de six ans. Il peut être renouvelé pour mener à bien le projet ou l'opération, dans la limite d'une durée totale de six ans.
+
+Le contrat prend fin avec la réalisation de l'objet pour lequel il a été conclu, après un délai de prévenance fixé par décret en Conseil d'Etat. Toutefois, après l'expiration d'un délai d'un an, il peut être rompu par décision de l'employeur lorsque le projet ou l'opération pour lequel il a été conclu ne peut pas se réaliser, sans préjudice des cas de démission ou de licenciement.
+
+Les modalités d'application du présent article, notamment les modalités de mise en œuvre d'une indemnité de rupture anticipée du contrat, sont prévues par décret en Conseil d'Etat.
