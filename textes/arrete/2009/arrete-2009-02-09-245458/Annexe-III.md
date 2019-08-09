@@ -126,8 +126,6 @@ Véhicule zone franche de Haute-Savoie.
 
 Equip. Accumulat. : +... kg.
 
-Pl convoi 6 km/h maxi : ... places.
-
 Autre J3 poss. : .............
 
 Autre J1 poss. : .............
@@ -156,21 +154,11 @@ Places modulables de ... à...
 
 [Mention DREAL, DEAL ou DRIEE (2).].
 
-Essieux posés en charge.
-
 TE possible (3).
 
 TE exclusif.
 
 Véhicule école.
-
-Transport sanitaire.
-
-Taxi.
-
-Dépannage.
-
-Transport public de personnes de moins de 10 places.
 
 V max (remorque) :... km/ h
 
