@@ -62,9 +62,7 @@ CLAUDIN SERVICE |
 
 69250 Albigny-sur-Saône |
 
--Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS
-
-(R-4-301) |
+-Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
 6 |
 
@@ -74,15 +72,15 @@ DISCOUNT MARINE |
 
 92106 Boulogne Billancourt |
 
--Voyager X3 Combined Class A/ Inland AIS Transceiver (R-4-207) *
+-Voyager X3 Combined Class A/ Inland AIS Transceiver
+
+(R-4-207) *
 
 -OceanSat Combined Class A/ Inland AIS Transceiver (R-4-209) *
 
 -Poseidon Combined Class A/ Inland AIS Transceiver (R-4-210) *
 
--em-trak AIS100A combined Class A/ Inland AIS Transceiver
-
-(R-4-215) *
+-em-trak AIS100A combined Class A/ Inland AIS Transceiver (R-4-215) *
 
 -em-trak A100 Combined Class A/ Inland AIS Transceiver (R-4-308)
 
@@ -100,7 +98,9 @@ FLUVIAL ELEC |
 
 -Em-track A 100 Combined Class A
 
-/ Inland AIS Transceiver (R-4-308) |
+/ Inland AIS Transceiver (R-4-308)
+
+-A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
 8 |
 
@@ -128,9 +128,7 @@ LORRAINE NAUTISME |
 
 2, rue des Alliés-57050 Metz |
 
--Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS
-
-(R-4-301) |
+-Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
 11 |
 
@@ -252,4 +250,4 @@ CD 45-Pont de l'Etoile-
 
 -Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
-* Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS Intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+* Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
