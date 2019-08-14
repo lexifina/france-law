@@ -2,6 +2,8 @@
 
 LISTE DES EXAMENS DE BIOLOGIE MÉDICALE QUE L'INFIRMIER EXERÇANT EN PRATIQUE AVANCÉE EST AUTORISÉ À PRESCRIRE POUR LES PATHOLOGIES DONT IL ASSURE LE SUIVI
 
+I.-Examens sanguins
+
 HEMATOLOGIE :
 
 - Hémogramme (numération des hématies, des leucocytes et des plaquettes, dosage de l'hémoglobine, hématocrite, volume globulaire moyen, paramètres érythrocytaires, formule leucocytaire).
@@ -29,6 +31,8 @@ HORMONOLOGIE :
 - TSH ;
 
 - Parathormone (dans le cadre du domaine d'intervention en néphrologie).
+
+-Béta-HCG
 
 ENZYMOLOGIE :
 
@@ -90,7 +94,21 @@ BIOCHIMIE :
 
 - Gaz du sang.
 
-URINES :
+DOSAGES MEDICAMENTEUX :
+
+- Lithium ;
+
+- Acide Valproïque ;
+
+- Carbamazépine ;
+
+- Clozapine ;
+
+TOXICOLOGIE :
+
+- Recherche de toxiques ;
+
+II.-Examens urinaires
 
 - Protéinurie ;
 
@@ -113,3 +131,5 @@ URINES :
 - Recherche de sang (hématies et/ou hémoglobine) ;
 
 - Glycosurie.
+
+Recherche de produits toxiques

@@ -32,6 +32,8 @@ Appareillage, irrigation et surveillance d'une plaie, d'une fistule ou d'une sto
 
 Branchement, surveillance et débranchement d'une dialyse rénale, péritonéale ou d'un circuit d'échanges plasmatique.
 
+Utilisation de techniques de médiation à visée thérapeutique.
+
 NOTA :
 
 Au deuxième alinéa les mots " prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux" doivent être lus comme débutant à la ligne
