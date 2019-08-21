@@ -40,75 +40,83 @@ Dans le cas où il n’y a qu’un acte à réaliser, celui-ci peut être exécu
 
 Article 2.2 Les soins consécutifs à l’examen de prévention
 
-Entrent dans le champ du dispositif, les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, conformément à la liste fixée en annexe 29 de la convention nationale.
+Entrent dans le champ du dispositif, les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, conformément à la liste fixée en annexe 29 de la convention nationale. Les traitements orthodontiques et prothétiques sont exclus de ce dispositif.
 
 Article 2.3 Les tarifs des honoraires du dispositif de prévention
 
-Les tarifs ne peuvent pas faire l’objet de dépassements d’honoraires.
+Les tarifs pratiqués dans ce cadre ne peuvent pas faire l'objet de dépassements d'honoraires.
 
-Le montant de l’examen de prévention bucco-dentaire à destination des 6, 9, 12, 15 et 18 ans, dans le cadre du programme MT’dents est fixé à 30€. Les forfaits avec radiographies sont affectés des montants suivants :
+La rémunération de l'examen de prévention bucco-dentaire est valorisée à 30 €.
 
-- examen avec réalisation d’un ou deux clichés : 42 euros,
+Il est complété si nécessaire par des radiographies intrabuccales, quelle que soit la technique utilisée.
 
-- examen avec réalisation de trois ou quatre clichés : 54 euros.
+Dans ce cas, la rémunération forfaitaire de l'examen et des radiographies est la suivante :
 
-Article 3 Modalités pratiques
+-Examen avec réalisation de 1 ou 2 clichés : 42 euros
 
-Dans le mois qui précède la date d'anniversaire de l'assuré ou de l'ayant droit, la caisse d'Assurance Maladie dont il relève lui envoie l'imprimé unique de prise en charge pré identifié accompagné d'un courrier d'invitation à l'examen de prévention, personnalisé en fonction de l'âge.
+-Examen avec réalisation de 3 ou 4 clichés : 54 euros
 
-Le courrier d'invitation peut être adressé en son nom propre si l'adolescent est lui-même l'assuré ou à ses parents si l'adolescent est à leur charge.
+-Examen avec réalisation d'une radio panoramique : 54 euros
 
-Les soins de prévention bucco-dentaire peuvent être réalisés en accès spécifique. Pour bénéficier des avantages du dispositif, l'enfant ou l'adolescent consulte le médecin stomatologiste de son choix, ou du choix de ses parents, dans les 6 mois qui suivent la date de son anniversaire. Il présente alors au praticien l'imprimé de prise en charge, pré identifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+L'examen et les radiographies qui y sont associées le cas échéant sont facturés à tarifs opposables et en dispense d'avance de frais.
 
-Après la réalisation de cet examen, le médecin stomatologiste complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assuré pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure "renseignements médicaux" est à conserver par le médecin stomatologiste dans le dossier du patient. Pour ce qui concerne les enfants de 6 et 12 ans, ces renseignements sont également portés par le médecin stomatologiste dans le carnet de santé.
+Ces dispositions n'entreront en vigueur pour les patients âgés de 3 ans qu'à compter du 1er avril 2019
 
-Pour bénéficier d’une prise en charge à 100 %, le programme de soins établi, le cas échéant, lors de l'examen, doit être commencé dans les 3 mois qui suivent cet examen et s’achever dans les 6 mois suivant la date de début des soins.
+Article 3 Modalités pratiques de l'examen bucco-dentaire de prévention
 
-La procédure de dispense d’avance des frais s’applique à l’examen de prévention pour toutes les tranches d’âge, ainsi qu’aux soins consécutifs pour les 6 et 12 ans (article L. 2132-2-1 du code de la santé publique).
+Dans le mois qui précède la date d'anniversaire de l'assuré ou de l'ayant droit, la caisse d'assurance maladie dont il relève lui envoie l'imprimé unique de prise en charge pré identifié accompagné d'un courrier d'invitation à l'examen de prévention, personnalisé en fonction de l'âge.
+
+Le courrier d'invitation peut être adressé en son nom propre si l'adolescent/ le jeune adulte est lui-même l'assuré ou à ses parents ou son représentant légal si l'adolescent est à leur charge.
+
+Les soins de prévention bucco-dentaire peuvent être réalisés en accès spécifique. Pour bénéficier des avantages du dispositif, l'enfant, l'adolescent ou le jeune adulte consulte le chirurgien-dentiste de son choix, ou du choix de ses parents ou de son représentant légal, dans les 6 mois qui suivent la date d'anniversaire. Il présente alors au praticien l'imprimé de prise en charge, pré identifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+
+La facture de l'examen doit être télétransmise. En cas d'impossibilité, le praticien complète la partie supérieure de l'imprimé de prise en charge et l'adresse à la caisse d'affiliation de l'assuré pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure renseignements médicaux est à conserver par le praticien dans le dossier du patient. Ces renseignements sont également portés par le praticien dans le carnet de santé.
+
+Pour bénéficier d'une prise en charge à 100 %, le programme de soins établi, le cas échéant, lors de l'examen, doit être commencé dans les 4 mois qui suivent cet examen et s'achever dans les 6 mois suivant la date de début des soins.
 
 Article 4 Engagements des parties
 
-Article 4.1 Les engagements du médecin stomatologiste et du spécialiste en chirurgie orale ou maxillo-faciale
+Article 4.1
 
-Le médecin stomatologiste ou spécialiste en chirurgie orale ou maxillo-faciale s’engage à :
+Les engagements du médecin stomatologiste et du spécialiste en chirurgie orale ou maxillo-faciale
 
-- respecter les clauses du présent texte et à faire bénéficier ses patients des tarifs conventionnels comme prévu à la présente convention en s’interdisant l’usage des dépassements d’honoraires visés par la convention,
+Le médecin spécialiste en soins et actes bucco-dentaires s'engage à :
 
-- permettre au patient d’accéder à l’ensemble des avantages prévus dans le dispositif,
+-respecter les clauses du présent texte et à faire bénéficier ses patients des tarifs conventionnels comme prévu à la convention nationale sans l'usage des dépassements d'honoraires visés par la convention (DE et DP) ;
 
-- informer son patient et son représentant légal, s’il est présent, de l’état bucco-dentaire constaté et, le cas échéant, du nombre de dents à traiter et de la nature des soins à engager, tout en précisant les priorités,
+-permettre au patient d'accéder à l'ensemble des avantages prévus dans le dispositif ;
 
-- accompagner sa démarche de conseils d’hygiène et de prévention en soulignant l’intérêt d’un traitement précoce, d’un suivi régulier et de la continuité des soins,
+-informer son patient et son représentant légal, s'il est présent, de l'état bucco-dentaire constaté et, le cas échéant, du nombre de dents à traiter et de la nature des soins à engager, tout en précisant les priorités ;
 
-- participer à l’évaluation du dispositif en :
+-accompagner sa démarche de conseils d'hygiène et de prévention en soulignant l'intérêt d'un traitement précoce, d'un suivi régulier et de la continuité des soins ;
 
-- conservant dans le dossier médical du patient les "renseignements médicaux" relatifs à l'examen de prévention et au programme de soins éventuels ;
+-participer à l'évaluation du dispositif en :
 
-- transmettant ces renseignements au service médical à sa demande ;
+-conservant dans le dossier médical du patient les renseignements médicaux relatifs à l'examen de prévention et au programme de soins éventuels ;
 
-- répondant à toute enquête ou recueil d’informations réalisés sur la base des modalités définies dans le cadre de la convention dentaire,
+-transmettant ces renseignements au service médical à sa demande ;
 
-- répondant aux modalités de suivi indiquées ci-après,
+-répondant à toute enquête ou recueil d'informations réalisé selon les modalités définies entre les parties signataires et conformément aux modalités de suivi indiquées ci-après ;
 
-- participer à la campagne de prévention bucco-dentaire.
+-participer la campagne de prévention bucco-dentaire.
 
 Article 4.2 Les engagements de l'UNCAM
 
-L'UNCAM s’engage à :
+l'UNCAM s'engage à :
 
-- faire bénéficier les patients concernés par le dispositif de la procédure de dispense d’avance des frais pour l’examen de prévention annuel et son complément radiologique éventuel;
+-faire bénéficier les patients concernés par le dispositif de la procédure de dispense d'avance des frais pour l'examen de prévention et son complément radiologique éventuel ;
 
-- honorer directement l’examen annuel de prévention et son complément radiologique éventuel des médecins stomatologistes ou spécialistes en chirurgie orale ou maxillo-faciale;
+-honorer directement l'examen de prévention et son complément radiologique éventuel aux médecins stomatologistes ou spécialistes en chirurgie orale ou maxillo-faciale ;
 
-- mettre en place une gestion active des bénéficiaires du dispositif de manière à les suivre au plus près et à les inciter à y participer;
+-mettre en place, en partenariat avec les syndicats signataires, une gestion active des bénéficiaires du dispositif de manière à les suivre au plus près et à les inciter à y participer ;
 
-- accompagner la mise en œuvre du dispositif de prévention de campagnes d’information destinées aux assurés, aux bénéficiaires potentiels et aux médecins stomatologistes ou spécialistes en chirurgie orale ou maxillo-faciale;
+-accompagner, en partenariat avec les syndicats signataires, la mise en œuvre du dispositif de prévention de campagnes d'information destinées aux assurés, aux bénéficiaires potentiels et aux médecins ;
 
-- restituer aux médecins stomatologistes ou spécialistes en chirurgie orale ou maxillo-faciale dans le cadre des commissions paritaires locales les informations et analyses pertinentes résultant des évaluations,
+-restituer aux médecins concernés dans le cadre des commissions paritaires conventionnelles les informations et analyses pertinentes résultant des évaluations ;
 
-- émettre l’ordre de virement de la facturation dans un délai maximum de 15 jours à compter de la réception du support de facturation dûment complété;
+-émettre l'ordre de virement de la facturation dans un délai maximum de quinze jours à compter de la réception du support de facturation dûment complété ;
 
-- en cas de support électronique, ce délai est ramené à 5 jours.
+-en cas de support électronique, ce délai est ramené à cinq jours.
 
 Article 5 Evaluation du dispositif
 
@@ -200,13 +208,15 @@ Dans ce cas, la rémunération forfaitaire de l’examen et des radiographies es
 
 L’examen et les radiographies qui y sont associées le cas échéant sont facturés à tarifs opposables.
 
-Article 8 Mise en œuvre du dispositif
+Article 8
 
-À compter de la réception de la déclaration de grossesse de l'assurée ou de l'ayant droit, la caisse d'assurance maladie dont elle relève lui envoie l'imprimé unique de prise en charge pré-identifié accompagné d'une invitation à participer à cet examen de prévention.
+Mise en œuvre du dispositif
 
-Pour bénéficier des avantages du dispositif, la femme enceinte doit consulter le médecin de son choix, à compter de son 4ème mois de grossesse et ce, jusqu’à 12 jours après l’accouchement. Elle présente alors au praticien l'imprimé de prise en charge pré-identifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+A compter de la réception de la déclaration de grossesse de l'assurée ou de l'ayant droit, la caisse d'assurance maladie dont elle relève lui envoie l'imprimé unique de prise en charge pré-identifié accompagné d'une invitation à participer à cet examen de prévention.
 
-La facture de l’examen doit être télétransmise. En cas d’impossibilité, le médecin complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assurée pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure renseignements médicaux est à conserver par le médecin dans le dossier de la patiente.
+Pour bénéficier des avantages du dispositif, la femme enceinte doit consulter le médecin spécialiste en soins et actes bucco-dentaires de son choix, à compter de son 4e mois de grossesse et ce, jusqu'à 12 jours après l'accouchement. Elle présente alors au praticien l'imprimé de prise en charge pré-identifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+
+La facture de l'examen doit être télétransmise. En cas d'impossibilité, le praticien complète la partie supérieure de l'imprimé de prise en charge et l'adresse à la caisse d'affiliation de l'assurée pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure renseignements médicaux est à conserver par le praticien dans le dossier de la patiente.
 
 Article 9 Evaluation et suivi du dispositif
 
@@ -217,3 +227,77 @@ L'ensemble des acteurs étant amenés à participer à cette évaluation, les m�
 Les partenaires conventionnels conviennent, à ce titre, d'étudier l'application et le suivi du dispositif dans le cadre des instances conventionnelles.
 
 Un bilan annuel sera réalisé dans le cadre de la Commission Paritaire Nationale définie à l’article 80 de la présente convention.
+
+Article 10 De nouvelles prises en charge pour les patients diabétiques
+
+Les partenaires conventionnels s'accordent sur la nécessité d'élargir le dépistage bucco-dentaire au profit des patients les plus à risques.
+
+Ainsi, pour les patients diabétiques, les maladies parodontales représentent une des complications les plus importantes du diabète. En mai 2010, une revue systématique Cochrane confirme que les soins parodontaux permettent de réduire de 0,4 % le taux d'hémoglobine glyquée chez les patients diabétiques démontrant avec un niveau de preuve important, l'effet bénéfique de traitements buccaux sur une maladie chronique. Conformément aux recommandations de la HAS de 2007, une visite annuelle chez le chirurgien-dentiste est préconisée pour le suivi des patients diabétiques.
+
+Dans le cadre de cette visite annuelle, l'incitation au dépistage et au suivi bucco-dentaire doit être renforcée.
+
+Article 10-1
+
+Population concernée
+
+Patients diabétiques ayant une ALD diabète reconnue au moment de la consultation, ayant droit ou assurés sociaux et remplissant les conditions d'ouverture des droits aux prestations de l'Assurance Maladie.
+
+Article 10.2
+
+Professionnels concernés
+
+Les médecins stomatologistes et spécialistes en chirurgie orale ou maxillo-faciale libéraux et salariés relevant des dispositions de la convention nationale participent à cette action de prévention.
+
+Article 11
+
+Prise en charge d'un bilan parodontal et des soins liés à une pathologie parodontale
+
+Les partenaires conventionnels s'accordent sur la nécessité de prévoir la prise en charge d'un bilan parodontal suivi le cas échéant de soins parodontaux au profit des patients diabétiques ayant réalisé leur visite annuelle et au cours de laquelle une pathologie parodontale a été détectée.
+
+Ils proposent la prise en charge de ce bilan par son inscription, pour les patients diabétiques, conformément à la décision UNCAM du 16 février 2019 modifiant la liste visée à l'article L. 162-1-7 du code de la sécurité sociale.
+
+Ce bilan dont la description sera validée par la CHAP serait valorisé à hauteur de 50 €.
+
+De plus, les partenaires conventionnels s'accordent sur la nécessité de prendre en charge certains soins consécutifs à ce bilan parodontal au profit des patients concernés par une pathologie parodontale détectée à cette occasion.
+
+Ils conviennent ainsi de valoriser à ce titre l'acte d'assainissement parodontal à hauteur de 80 € par sextant.
+
+Ces dispositions sont entrés en vigueur au 1er avril 2019, par décision UNCAM du 16 février 2019 portant modification de la liste des actes et prestations de l'article L. 162-1-7 du code de la sécurité sociale .
+
+Article 12
+
+Mesures spécifiques pour les personnes en situation de handicap sévère
+
+Les partenaires conventionnels conviennent de la difficulté de prise en charge, vigile, de patients atteints de handicap sévère, rendant difficiles voire impossibles les soins au fauteuil en cabinet. La sédation consciente, pour certains patients, peut être une alternative à une prise en charge sous anesthésie générale.
+
+Afin d'améliorer l'accès aux soins de ces publics particulièrement fragiles, les partenaires conventionnels s'accordent sur la nécessité d'une part, de valoriser la prise en charge par les médecin stomatologiste et spécialiste en chirurgie orale ou maxillo-faciale de ville, de cette patientèle spécifique, et d'autre part, de prévoir la prise en charge, par l'Assurance Maladie des techniques de sédation consciente, telle que l'utilisation du MEOPA, utilisées par des médecin stomatologiste et spécialiste en chirurgie orale ou maxillo-faciale formés à son utilisation et en respectant l'ensemble des conditions réglementaires encadrant son usage.
+
+Article 12-1
+
+Patients concernés
+
+Les enfants handicapés dont les personnes qui en assument la charge sont bénéficiaires de l'allocation d'éducation de l'enfant handicapé [AEEH] ou de l'aide pour prise en charge d'un patient bénéficiaire de la prestation de compensation du handicap [PCH] atteints de handicap physique, sensoriel, mental, cognitif ou psychique sévère, de polyhandicap ou d'un trouble de santé invalidant.
+
+Cette population éligible à cette mesure peut être amenée à évoluer. Ainsi, toute évolution décidée dans le cadre de la convention nationale des chirurgiens-dentistes pourra faire l'objet d'une transposition par le biais de la signature d'un avenant à la présente convention.
+
+Article 12.2
+
+Valorisation de la prise en charge des patients en situation de handicap et des techniques de sédation consciente utilisées dans ce cadre
+
+Les partenaires conventionnels souhaitent permettre la prise en charge par l'Assurance Maladie obligatoire de la technique de sédation consciente aux soins par utilisation de MEOPA, en faveur des patients en situation de handicap afin de faciliter leur prise en charge par le chirurgien-dentiste.
+
+Cette prise en charge se matérialise par la valorisation d'un supplément facturable une fois par séance avec ou sans MEOPA à hauteur de 100 €.
+
+Ces dispositions sont entrées en vigueur au 1er avril 2019, conformément à la décision UNCAM du 16 février 2019 modifiant la liste des actes et prestations telle que prévue à l'article L. 162-1-7 du Code de la sécurité sociale.
+
+Article 13
+
+Mesures spécifiques pour la prise en charge des patients sous anticoagulant
+
+Les partenaires conventionnels s'accordent à valoriser la prise en charge, par les médecins stomatologistes et par les médecins spécialistes en chirurgie orale ou maxillo-faciale libéraux, des patients bénéficiant d'un traitement anticoagulant, dont la pathologie rend l'administration des soins bucco-dentaires et notamment des soins chirurgicaux (actes d'avulsions), plus complexes que pour des patients ne bénéficiant pas de tels traitements.
+
+Ils proposent ainsi de valoriser, au profit des professionnels concernés, l'application d'un supplément pour tous les soins chirurgicaux prodigués aux patients en ALD bénéficiant d'un traitement par médicament anticoagulant : anti-vitamine K (AVK) ou Anticoagulant oraux directs (AOD).
+
+Le montant de ce supplément s'élève à 20 euros par séance. La liste des principes actifs des médicaments concernés est mise en ligne sur "ameli. fr".
+
+Ces dispositions sont conformes à la décision UNCAM du 16 février 2019.

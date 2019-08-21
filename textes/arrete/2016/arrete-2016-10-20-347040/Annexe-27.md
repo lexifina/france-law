@@ -1,40 +1,30 @@
 # Article Annexe 27
 
-MONTANT MAXIMAL DES DEPASSEMENTS APPLICABLES AUX BENEFICIAIRES DU DROIT A LA PROTECTION COMPLEMENTAIRE EN MATIERE DE SANTE VISES A L’ARTICLE L. 861-1 DU CODE DE LA SECURITE SOCIALE
+MONTANT MAXIMAL DES DÉPASSEMENTS APPLICABLES AUX BÉNÉFICIAIRES DU DROIT À LA PROTECTION COMPLÉMENTAIRE EN MATIÈRE DE SANTÉ VISÉS À L'ARTICLE L. 861-1 DU CODE DE LA SÉCURITÉ SOCIALE ET AUX BÉNÉFICIAIRES DE L'AIDE AU PAIEMENT D'UNE COMPLÉMENTAIRE SANTÉ VISÉ À L'ARTICLE L. 863-1 DU CODE DE LA SÉCURITÉ SOCIALE
 
-Article 1 Prothèses dentaires incluses dans le panier de soins CMU C et montants maxima pris en charge
+Applicable sous réserve des dispositions de l'article L. 162-1-7 du code de la sécurité sociale
+
+Prothèses dentaires incluses dans le panier de soins CMU-C/ ACS et montants maximaux pris en charge
+
+a) Ne concerne que la facturation aux patients CMU-C
 
 Codes CCAM |
 
 Libellés |
 
-Codes CMUC
+Codification (a) |
 
-transposés
+Tarif
 
-|
+de responsabilité (1) |
 
-Tarif de responsabilité
+Dépassement maximum autorisé en sus du tarif de responsabilité (2-1) (a) |
 
-(en €)
-
-(1) |
-
-Dépassement maximum autorisé
-
-(en €)
-
-(2) - (1) |
-
-Montant maximum autorisé
-
-(en €)
-
-(2) |
+Montant maximum proposition (2) |
 
 |
 
-Prothèses conjointes |
+Restauration |
 
 |
 
@@ -43,138 +33,142 @@ Prothèses conjointes |
 |
 
 |
+
+HBMD351 |
+
+Restauration d'une dent sur 2 faces ou plus par matériau incrusté [inlay-onlay] composite ou en alliage non précieux |
+
+FDC |
+
+100 |
+
+150 |
+
+250 |
+
+|
+
+Prothèses fixées |
+
+|
+
+|
+
+|
+
+|
+
+HBLD490 |
+
+Pose d'une couronne dentaire transitoire pour couronne dentoportée "sans reste à charge" Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680) Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive |
+
+FDC |
+
+10 |
+
+30 |
+
+40 |
 
 HBLD038 |
 
-Pose d'une couronne dentaire métallique |
+Pose d'une couronne dentaire dentoportée en alliage non précieux |
 
-FDC1 |
+FDC |
 
-107,50 |
+107,5 |
 
-122,50 |
+120 |
 
-230,00 |
+130 |
 
-HBLD036 |
+HBLD634 |
 
-Pose d'une couronne dentaire céramométallique ou en équivalents minéraux
+Pose d'une couronne dentaire dentoportée céramométallique sur une incisive, une canine ou une première prémolaire |
 
-(CMUC uniquement pour pose de couronnes dentaires céramométalliques, pour incisives, canines et 1eres prémolaires) |
+FDC |
 
-FDC3 |
+107,5 |
 
-107,50 |
+120 |
 
-267,50 |
+310 |
 
-375,00 |
+HBLD350 |
+
+Pose d'une couronne dentaire dentoportée céramique-monolithique (zircone) sur une dent autre qu'une molaire |
+
+FDC |
+
+120 |
+
+280 |
+
+400 |
+
+HBLD680 |
+
+Pose d'une couronne dentaire dentoportée céramique monolithique autre que zircone pour incisives, canines et premières prémolaires |
+
+FDC |
+
+120 |
+
+310 |
+
+430 |
 
 HBGD027 |
 
 Ablation d'une prothèse dentaire scellée unitaire ou plurale |
 
-FDC5 |
+FDC |
 
-38,70 |
+38,7 |
 
-0,00 |
+1,5 |
 
-38,70 |
+40,2 |
 
-HBLD007 |
+HBLD090 |
 
-Pose d'une infrastructure coronoradiculaire métallique coulée sans clavette sur une dent |
+Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoporté sans "reste à charge" Avec ou sans clavette À l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042) Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680)-bridge de base tout métallique (HBLD033)-bridge de base céramométallique pour remplacement d'une incisive (HBLD785) Prise en charge limitée à l'infrastructure coronoradiculaire métallique coulée |
 
-FDC38 |
+FDC |
 
-122,55 |
+90 |
 
-0,00 |
+40 |
 
-122,55 |
-
-HBLD261 |
-
-Pose d'une infrastructure coronoradiculaire métallique coulée avec clavette sur une dent |
-
-FDC39 |
-
-144,05 |
-
-0,00 |
-
-144,05 |
-
-HBLD040 |
-
-Pose d'une prothèse plurale comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique ou en équivalents minéraux, et un élément intermédiaire métallique
-
-- Hors éléments céramocéramiques
-
-- Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires
-
-|
-
-FDC1+FDC1+FDC3 |
-
-279,50 |
-
-555,50 |
-
-835,00 |
-
-HBLD043 |
-
-Pose d'une prothèse plurale comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique ou en équivalents minéraux, et un élément intermédiaire céramométallique ou en équivalents minéraux
-
-- Hors éléments céramocéramiques
-
-- Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires
-
-|
-
-FDC1+FDC3+FDC3 |
-
-279,50 |
-
-700,50 |
-
-980,00 |
+130 |
 
 HBLD033 |
 
-Pose d'une prothèse plurale comportant 2 piliers d'ancrage métalliques et un élément intermédiaire métallique |
+Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage métalliques et 1 élément intermédiaire métallique |
 
-FDC1+FDC1+FDC1 |
+FDC |
 
-279,50 |
+279,5 |
 
-410,50 |
+470,73 |
 
-690,00 |
+750,23 |
 
-HBLD023 |
+HBLD040 |
 
-Pose d'une prothèse plurale comportant 2 piliers d'ancrage céramométalliques ou en équivalents minéraux et un élément intermédiaire céramométallique ou en équivalents minéraux
+Pose d'une prothèse plurale [bridge] comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique, et 1 élément intermédiaire métallique |
 
-- Hors éléments céramocéramiques
+FDC |
 
-- Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires
+279,5 |
 
-|
+637 |
 
-FDC3+FDC3+FDC3 |
-
-279,50 |
-
-845,50 |
-
-1125,00 |
+916,5 |
 
 |
 
-Prothèses adjointes |
+-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
 |
 
@@ -184,1151 +178,1363 @@ Prothèses adjointes |
 
 |
 
-HBLD131 |
+HBLD043 |
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 1 à 3 dents |
+Pose d'une prothèse plurale [bridge] comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique, et 1 élément intermédiaire céramométallique |
 
-FDA6+FDA22 |
+FDC |
 
-193,00 |
+279,5 |
 
-299,50 |
+803,28 |
 
-493,00 |
+1082,78 |
 
-HBLD332 |
+|
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 4 dents |
+-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
-FDA7+FDA22 |
+|
 
-204,25 |
+|
 
-444,75 |
+|
 
-649,00 |
+|
 
-HBLD452 |
+HBLD785 |
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 5 dents |
+Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage céramométalliques et 1 élément intermédiaire céramométallique pour le remplacement d'une incisive
 
-FDA8+FDA22 |
+-bridge de base avec piliers d'ancrage sur incisives ou canines uniquement |
 
-215,00 |
+FDC |
 
-434,00 |
+279,5 |
 
-649,00 |
+956,26 |
 
-HBLD474 |
+1235,76 |
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 6 dents |
+HBLD227 |
 
-FDA9+FDA22 |
+Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage céramométalliques et 1 élément intermédiaire céramométallique pour le remplacement d'une dent autre qu'une incisive |
 
-225,75 |
+FDC |
 
-423,25 |
+279,5 |
 
-649,00 |
+956,26 |
 
-HBLD075 |
+1235,76 |
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 7 dents |
+|
 
-FDA10+FDA22 |
+-Eléments céramométalliques : uniquement pour incisives, canines et premières prémolaires |
 
-236,50 |
+|
 
-497,50 |
+|
 
-734,00 |
+|
 
-HBLD470 |
+|
 
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 8 dents |
+|
 
-FDA11+FDA22 |
+Prothèses amovibles |
 
-247,25 |
+|
 
-486,75 |
+|
 
-734,00 |
+|
+
+|
+
+HBLD364 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 1 à 3 dents |
+
+FDA |
+
+64,5 |
+
+210,5 |
+
+275 |
+
+HBLD476 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 4 dents |
+
+FDA |
+
+75,25 |
+
+234,75 |
+
+310 |
+
+HBLD224 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 5 dents |
+
+FDA |
+
+86 |
+
+264 |
+
+350 |
+
+HBLD371 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 6 dents |
+
+FDA |
+
+96,75 |
+
+253,25 |
+
+350 |
+
+HBLD123 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 7 dents |
+
+FDA |
+
+107,5 |
+
+292,5 |
+
+400 |
+
+HBLD270 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 8 dents |
+
+FDA |
+
+118,25 |
+
+281,75 |
+
+400 |
+
+HBLD148 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 9 dents |
+
+FDA |
+
+129 |
+
+271 |
+
+400 |
+
+HBLD231 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 10 dents |
+
+FDA |
+
+139,75 |
+
+280,25 |
+
+420 |
+
+HBLD215 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 11 dents |
+
+FDA |
+
+150,5 |
+
+269,5 |
+
+420 |
+
+HBLD262 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 12 dents |
+
+FDA |
+
+161,25 |
+
+258,75 |
+
+420 |
+
+HBLD232 |
+
+Pose d'une prothèse amovible de transition à plaque base résine, comportant 13 dents |
+
+FDA |
+
+172 |
+
+278 |
+
+450 |
+
+HBLD032 |
+
+Pose d'une prothèse amovible de transition unimaxillaire complète à plaque base résine |
+
+FDA |
+
+182,75 |
+
+317,25 |
+
+500 |
+
+HBLD259 |
+
+Pose d'une prothèse amovible de transition bimaxillaire complète à plaque base résine |
+
+FDA |
+
+365,5 |
+
+634,5 |
+
+1000 |
 
 HBLD101 |
 
 Pose d'une prothèse amovible définitive à plaque base résine, comportant 9 dents |
 
-FDA12 |
+FDA |
 
-129,00 |
+129 |
 
-305,00 |
+351 |
 
-434,00 |
-
-HBLD435 |
-
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 9 dents |
-
-FDA12+FDA22 |
-
-258,00 |
-
-476,00 |
-
-734,00 |
+480 |
 
 HBLD138 |
 
 Pose d'une prothèse amovible définitive à plaque base résine, comportant 10 dents |
 
-FDA13 |
+FDA |
 
 139,75 |
 
-294,25 |
+340,25 |
 
-434,00 |
-
-HBLD079 |
-
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 10 dents |
-
-FDA13+FDA22 |
-
-268,75 |
-
-465,25 |
-
-734,00 |
+480 |
 
 HBLD083 |
 
 Pose d'une prothèse amovible définitive à plaque base résine, comportant 11 dents |
 
-FDA14 |
+FDA |
 
-150,50 |
+150,5 |
 
-366,50 |
+419,5 |
 
-517,00 |
-
-HBLD203 |
-
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 11 dents |
-
-FDA14+FDA22 |
-
-279,50 |
-
-537,50 |
-
-817,00 |
+570 |
 
 HBLD370 |
 
 Pose d'une prothèse amovible définitive à plaque base résine, comportant 12 dents |
 
-FDA15 |
+FDA |
 
 161,25 |
 
-355,75 |
+408,75 |
 
-517,00 |
-
-HBLD112 |
-
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 12 dents |
-
-FDA15+FDA22 |
-
-290,25 |
-
-526,75 |
-
-817,00 |
+570 |
 
 HBLD349 |
 
 Pose d'une prothèse amovible définitive à plaque base résine, comportant 13 dents |
 
-FDA16 |
+FDA |
 
-172,00 |
+172 |
 
-345,00 |
+398 |
 
-517,00 |
-
-HBLD308 |
-
-Pose d'une prothèse amovible définitive à châssis métallique, comportant 13 dents |
-
-FDA16+FDA22 |
-
-301,00 |
-
-516,00 |
-
-817,00 |
+570 |
 
 HBLD031 |
 
 Pose d'une prothèse amovible définitive complète unimaxillaire à plaque base résine |
 
-FDA17 |
+FDA |
 
 182,75 |
 
-473,25 |
+545,25 |
 
-656,00 |
+728 |
 
 HBLD035 |
 
 Pose d'une prothèse amovible définitive complète bimaxillaire à plaque base résine |
 
-FDA17*2 |
+FDA |
 
-365,50 |
+365,5 |
 
-946,50 |
+1090,5 |
 
-1312,00 |
+1456 |
+
+HBLD131 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 1 à 3 dents |
+
+FDA |
+
+193,5 |
+
+362,5 |
+
+556 |
+
+HBLD332 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 4 dents |
+
+FDA |
+
+204,25 |
+
+510,75 |
+
+715 |
+
+HBLD452 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 5 dents |
+
+FDA |
+
+215 |
+
+500 |
+
+715 |
+
+HBLD474 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 6 dents |
+
+FDA |
+
+225,75 |
+
+489,25 |
+
+715 |
+
+HBLD075 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 7 dents |
+
+FDA |
+
+236,5 |
+
+513,5 |
+
+750 |
+
+HBLD470 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 8 dents |
+
+FDA |
+
+247,25 |
+
+502,75 |
+
+750 |
+
+HBLD435 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 9 dents |
+
+FDA |
+
+258 |
+
+492 |
+
+750 |
+
+HBLD079 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 10 dents |
+
+FDA |
+
+268,75 |
+
+481,25 |
+
+750 |
+
+HBLD203 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 11 dents |
+
+FDA |
+
+279,5 |
+
+570,5 |
+
+850 |
+
+HBLD112 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 12 dents |
+
+FDA |
+
+290,25 |
+
+559,75 |
+
+850 |
+
+HBLD308 |
+
+Pose d'une prothèse amovible définitive à châssis métallique, comportant 13 dents |
+
+FDA |
+
+301 |
+
+549 |
+
+850 |
 
 HBLD047 |
 
 Pose d'une prothèse amovible définitive complète unimaxillaire à châssis métallique |
 
-FDA17+FDA22 |
+FDA |
 
 311,75 |
 
-644,25 |
+745,25 |
 
-956,00 |
+1057 |
 
 HBLD046 |
 
 Pose d'une prothèse amovible définitive complète bimaxillaire à châssis métallique |
 
-(FDA17+FDA22)*2 |
+FDA |
 
-623,50 |
+623,5 |
 
-1288,50 |
+1490,5 |
 
-1912,00 |
+2114 |
 
 HBLD048 |
 
 Pose d'une prothèse amovible définitive complète unimaxillaire à plaque base résine et d'une prothèse amovible définitive complète unimaxillaire à châssis métallique |
 
-FDA17*2+FDA22 |
+FDA |
 
-494,50 |
+494,5 |
 
-1117,50 |
+1290,5 |
 
-1612,00 |
+1785 |
 
 YYYY176 |
 
 Supplément pour pose d'une dent contreplaquée sur une prothèse amovible à plaque base résine |
 
-FDA18 |
+FDA |
 
-21,50 |
+21,5 |
 
-0,00 |
+1,41 |
 
-21,50 |
+22,91 |
 
 YYYY275 |
 
 Supplément pour pose de 2 dents contreplaquées sur une prothèse amovible à plaque base résine |
 
-FDA18 x 2 |
+FDA |
 
-43,00 |
+43 |
 
-0,00 |
+2,82 |
 
-43,00 |
+45,82 |
 
 YYYY246 |
 
 Supplément pour pose de 3 dents contreplaquées sur une prothèse amovible à plaque base résine |
 
-FDA18 x 3 |
+FDA |
 
-64,50 |
+64,5 |
 
-0,00 |
+4,22 |
 
-64,50 |
+68,72 |
 
 YYYY478 |
 
 Supplément pour pose de 4 dents contreplaquées sur une prothèse amovible à plaque base résine |
 
-FDA18 x 4 |
+FDA |
 
-86,00 |
+86 |
 
-0,00 |
+5,63 |
 
-86,00 |
+91,63 |
 
 YYYY426 |
 
 Supplément pour pose de 5 dents contreplaquées sur une prothèse amovible à plaque base résine |
 
-FDA18 x 5 |
+FDA |
 
-107,50 |
+107,5 |
 
-0,00 |
+7,04 |
 
-107,50 |
+114,54 |
 
 YYYY389 |
 
 Supplément pour pose de 6 dents contreplaquées sur une prothèse amovible à plaque base résine |
 
-FDA18 x 6 |
+FDA |
 
-129,00 |
+129 |
 
-0,00 |
+8,45 |
 
-129,00 |
+137,45 |
 
 YYYY159 |
 
 Supplément pour pose d'une dent contreplaquée ou massive à une prothèse amovible sur châssis métallique |
 
-FDA23 |
+FDA |
 
 32,25 |
 
-0,00 |
+2,11 |
 
-32,25 |
+34,36 |
 
 YYYY329 |
 
 Supplément pour pose de 2 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*2 |
+FDA |
 
-64,50 |
+64,5 |
 
-0,00 |
+4,22 |
 
-64,50 |
+68,72 |
 
 YYYY258 |
 
 Supplément pour pose de 3 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*3 |
+FDA |
 
 96,75 |
 
-0,00 |
+6,34 |
 
-96,75 |
+103,09 |
 
 YYYY259 |
 
 Supplément pour pose de 4 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*4 |
+FDA |
 
-129,00 |
+129 |
 
-0,00 |
+8,45 |
 
-129,00 |
+137,45 |
 
 YYYY440 |
 
 Supplément pour pose de 5 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*5 |
+FDA |
 
 161,25 |
 
-0,00 |
+10,56 |
 
-161,25 |
+171,81 |
 
 YYYY447 |
 
 Supplément pour pose de 6 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*6 |
+FDA |
 
-193,50 |
+193,5 |
 
-0,00 |
+12,67 |
 
-193,50 |
+206,17 |
 
 YYYY142 |
 
 Supplément pour pose de 7 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*7 |
+FDA |
 
 225,75 |
 
-0,00 |
+14,79 |
 
-225,75 |
+240,54 |
 
 YYYY158 |
 
 Supplément pour pose de 8 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*8 |
+FDA |
 
-258,00 |
+258 |
 
-0,00 |
+16,9 |
 
-258,00 |
+274,9 |
 
 YYYY476 |
 
 Supplément pour pose de 9 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*9 |
+FDA |
 
 290,25 |
 
-0,00 |
+19,01 |
 
-290,25 |
+309,26 |
 
 YYYY079 |
 
 Supplément pour pose de 10 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*10 |
+FDA |
 
-322,50 |
+322,5 |
 
-0,00 |
+21,12 |
 
-322,50 |
+343,62 |
 
 YYYY184 |
 
 Supplément pour pose de 11 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*11 |
+FDA |
 
 354,75 |
 
-0,00 |
+23,24 |
 
-354,75 |
+377,99 |
 
 YYYY284 |
 
 Supplément pour pose de 12 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*12 |
+FDA |
 
-387,00 |
+387 |
 
-0,00 |
+25,35 |
 
-387,00 |
+412,35 |
 
 YYYY236 |
 
 Supplément pour pose de 13 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*13 |
+FDA |
 
 419,25 |
 
-0,00 |
+27,46 |
 
-419,25 |
+446,71 |
 
 YYYY353 |
 
 Supplément pour pose de 14 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique |
 
-FDA23*14 |
+FDA |
 
-451,50 |
+451,5 |
 
-0,00 |
+29,57 |
 
-451,50 |
+481,07 |
 
 HBMD020 |
 
-Réparation d'une prothèse dentaire amovible en résine, fêlée ou fracturée |
+Réparation d'une prothèse dentaire amovible en résine sans renfort métallique, fêlée ou fracturée |
 
-FDR19 |
+FDR |
 
-21,50 |
+21,5 |
 
-43,50 |
+53,5 |
 
-65,00 |
+75 |
+
+HBMD356 |
+
+Réparation d'une prothèse dentaire amovible en résine avec renfort métallique, fêlée ou fracturée |
+
+FDR |
+
+21,5 |
+
+58,5 |
+
+80 |
 
 HBMD017 |
 
 Adjonction ou remplacement d'un élément d'une prothèse dentaire amovible |
 
-FDR20 |
+FDR |
 
-21,50 |
+21,5 |
 
-43,50 |
+63,5 |
 
-65,00 |
+85 |
 
 HBMD114 |
 
 Adjonction ou remplacement de 2 éléments d'une prothèse dentaire amovible |
 
-FRD20+FDR21 |
+FDR |
 
 32,25 |
 
-65,25 |
+77,75 |
 
-97,50 |
+110 |
 
 HBMD322 |
 
 Adjonction ou remplacement de 3 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*2 |
+FDR |
 
-43,00 |
+43 |
 
-87,00 |
+97 |
 
-130,00 |
+140 |
 
 HBMD404 |
 
 Adjonction ou remplacement de 4 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*3 |
+FDR |
 
 53,75 |
 
-108,75 |
+116,25 |
 
-162,50 |
+170 |
 
 HBMD245 |
 
 Adjonction ou remplacement de 5 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*4 |
+FDR |
 
-64,50 |
+64,5 |
 
-130,50 |
+135,5 |
 
-195,00 |
+200 |
 
 HBMD198 |
 
 Adjonction ou remplacement de 6 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*5 |
+FDR |
 
 75,25 |
 
-152,25 |
+164,75 |
 
-227,50 |
+240 |
 
 HBMD373 |
 
 Adjonction ou remplacement de 7 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*6 |
+FDR |
 
-86,00 |
+86 |
 
-174,00 |
+194 |
 
-260,00 |
+280 |
 
 HBMD228 |
 
 Adjonction ou remplacement de 8 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*7 |
+FDR |
 
 96,75 |
 
-195,75 |
+223,25 |
 
-292,50 |
+320 |
 
 HBMD286 |
 
 Adjonction ou remplacement de 9 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*8 |
+FDR |
 
-107,50 |
+107,5 |
 
-217,50 |
+252,5 |
 
-325,00 |
+360 |
 
 HBMD329 |
 
 Adjonction ou remplacement de 10 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*9 |
+FDR |
 
 118,25 |
 
-239,25 |
+281,75 |
 
-357,50 |
+400 |
 
 HBMD226 |
 
 Adjonction ou remplacement de 11 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*10 |
+FDR |
 
-129,00 |
+129 |
 
-261,00 |
+311 |
 
-390,00 |
+440 |
 
 HBMD387 |
 
 Adjonction ou remplacement de 12 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*11 |
+FDR |
 
 139,75 |
 
-282,75 |
+340,25 |
 
-422,50 |
+480 |
 
 HBMD134 |
 
 Adjonction ou remplacement de 13 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*12 |
+FDR |
 
-150,50 |
+150,5 |
 
-304,50 |
+369,5 |
 
-455,00 |
+520 |
 
 HBMD174 |
 
 Adjonction ou remplacement de 14 éléments d'une prothèse dentaire amovible |
 
-FDR20+FDR21*13 |
+FDR |
 
 161,25 |
 
-326,25 |
+398,75 |
 
-487,50 |
+560 |
+
+HBKD396 |
+
+Changement d'1 facette d'une prothèse dentaire amovible |
+
+FDR |
+
+17,2 |
+
+22,8 |
+
+40 |
+
+HBKD431 |
+
+Changement de 2 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+34,4 |
+
+35,6 |
+
+70 |
+
+HBKD300 |
+
+Changement de 3 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+51,6 |
+
+48,4 |
+
+100 |
+
+HBKD212 |
+
+Changement de 4 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+68,8 |
+
+61,2 |
+
+130 |
+
+HBKD462 |
+
+Changement de 5 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+86 |
+
+74 |
+
+160 |
+
+HBKD213 |
+
+Changement de 6 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+103,2 |
+
+86,8 |
+
+190 |
+
+HBKD140 |
+
+Changement de 7 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+120,4 |
+
+99,6 |
+
+220 |
+
+HBKD244 |
+
+Changement de 8 facettes d'une prothèse dentaire amovible |
+
+FDR |
+
+137,6 |
+
+112,4 |
+
+250 |
 
 HBMD008 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, sans démontage d'éléments |
 
-FDR25 |
+FDR |
 
 32,25 |
 
-32,75 |
+42,75 |
 
-65,00 |
+75 |
 
 HBMD002 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage d'un élément |
 
-FDR25+FDR26 |
+FDR |
 
-38,70 |
+38,7 |
 
-32,75 |
+46,3 |
 
-71,45 |
+85 |
 
 HBMD488 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 2 éléments |
 
-FDR25+FDR26*2 |
+FDR |
 
 45,15 |
 
-32,75 |
+49,85 |
 
-77,90 |
+95 |
 
 HBMD469 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 3 éléments |
 
-FDR25+FDR26*3 |
+FDR |
 
-51,60 |
+51,6 |
 
-32,75 |
+53,4 |
 
-84,35 |
+105 |
 
 HBMD110 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 4 éléments |
 
-FDR25+FDR26*4 |
+FDR |
 
 58,05 |
 
-32,75 |
+56,95 |
 
-90,80 |
+115 |
 
 HBMD349 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 5 éléments |
 
-FDR25+FDR26*5 |
+FDR |
 
-64,50 |
+64,5 |
 
-32,75 |
+60,5 |
 
-97,25 |
+125 |
 
 HBMD386 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 6 éléments |
 
-FDR25+FDR26*6 |
+FDR |
 
 70,95 |
 
-32,75 |
+64,05 |
 
-103,70 |
+135 |
 
 HBMD339 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 7 éléments |
 
-FDR25+FDR26*7 |
+FDR |
 
-77,40 |
+77,4 |
 
-32,75 |
+67,6 |
 
-110,15 |
+145 |
 
 HBMD459 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 8 éléments |
 
-FDR25+FDR26*8 |
+FDR |
 
 83,85 |
 
-32,75 |
+71,15 |
 
-116,60 |
+155 |
 
 HBMD438 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 9 éléments |
 
-FDR25+FDR26*9 |
+FDR |
 
-90,30 |
+90,3 |
 
-32,75 |
+74,7 |
 
-123,05 |
+165 |
 
 HBMD481 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 10 éléments |
 
-FDR25+FDR26*10 |
+FDR |
 
 96,75 |
 
-32,75 |
+78,25 |
 
-129,50 |
+175 |
 
 HBMD449 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 11 éléments |
 
-FDR25+FDR26*11 |
+FDR |
 
-103,20 |
+103,2 |
 
-32,75 |
+81,8 |
 
-135,95 |
+185 |
 
 HBMD312 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 12 éléments |
 
-FDR25+FDR26*12 |
+FDR |
 
 109,65 |
 
-32,75 |
+85,35 |
 
-142,40 |
+195 |
 
 HBMD289 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 13 éléments |
 
-FDR25+FDR26*13 |
+FDR |
 
-116,10 |
+116,1 |
 
-32,75 |
+88,9 |
 
-148,85 |
+205 |
 
 HBMD400 |
 
 Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 14 éléments |
 
-FDR25+FDR26*14 |
+FDR |
 
 122,55 |
 
-32,75 |
+92,45 |
 
-155,30 |
+215 |
 
 HBMD249 |
 
 Adjonction ou changement d'un élément soudé sur une prothèse dentaire amovible sur châssis métallique |
 
-FDR24 |
+FDR |
 
-43,00 |
+43 |
 
-0,00 |
+27 |
 
-43,00 |
+70 |
 
 HBMD292 |
 
 Adjonction ou changement de 2 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*2 |
+FDR |
 
-86,00 |
+86 |
 
-0,00 |
+24 |
 
-86,00 |
+110 |
 
 HBMD188 |
 
 Adjonction ou changement de 3 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*3 |
+FDR |
 
-129,00 |
+129 |
 
-0,00 |
+21 |
 
-129,00 |
+150 |
 
 HBMD432 |
 
 Adjonction ou changement de 4 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*4 |
+FDR |
 
-172,00 |
+172 |
 
-0,00 |
+18 |
 
-172,00 |
+190 |
 
 HBMD283 |
 
 Adjonction ou changement de 5 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*5 |
+FDR |
 
-215,00 |
+215 |
 
-0,00 |
+15 |
 
-215,00 |
+230 |
 
 HBMD439 |
 
 Adjonction ou changement de 6 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*6 |
+FDR |
 
-258,00 |
+258 |
 
-0,00 |
+12 |
 
-258,00 |
+270 |
 
 HBMD425 |
 
 Adjonction ou changement de 7 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*7 |
+FDR |
 
-301,00 |
+301 |
 
-0,00 |
+9 |
 
-301,00 |
+310 |
 
 HBMD444 |
 
 Adjonction ou changement de 8 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*8 |
+FDR |
 
-344,00 |
+344 |
 
-0,00 |
+6 |
 
-344,00 |
+350 |
 
 HBMD485 |
 
 Adjonction ou changement de 9 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*9 |
+FDR |
 
-387,00 |
+387 |
 
-0,00 |
+3 |
 
-387,00 |
+390 |
 
 HBMD410 |
 
 Adjonction ou changement de 10 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*10 |
+/// |
 
-430,00 |
+430 |
 
-0,00 |
+0 |
 
-430,00 |
+430 |
 
 HBMD429 |
 
 Adjonction ou changement de 11 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*11 |
+/// |
 
-473,00 |
+473 |
 
-0,00 |
+0 |
 
-473,00 |
+473 |
 
 HBMD281 |
 
 Adjonction ou changement de 12 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*12 |
+/// |
 
-516,00 |
+516 |
 
-0,00 |
+0 |
 
-516,00 |
+516 |
 
 HBMD200 |
 
 Adjonction ou changement de 13 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*13 |
+/// |
 
-559,00 |
+559 |
 
-0,00 |
+0 |
 
-559,00 |
+559 |
 
 HBMD298 |
 
 Adjonction ou changement de 14 éléments soudés d'une prothèse dentaire amovible sur châssis métallique |
 
-FDR24*14 |
+/// |
 
-602,00 |
+602 |
 
-0,00 |
+0 |
 
-602,00 |
-
-HBKD396 |
-
-Remplacement d'une facette d'une prothèse dentaire amovible |
-
-FDR27 |
-
-17,20 |
-
-0,00 |
-
-17,20 |
-
-HBKD431 |
-
-Remplacement de 2 facettes d'une prothèse dentaire amovible |
-
-FDR27*2 |
-
-34,40 |
-
-0,00 |
-
-34,90 |
-
-HBKD300 |
-
-Remplacement de 3 facettes d'une prothèse dentaire amovible |
-
-FDR27*3 |
-
-51,60 |
-
-0,00 |
-
-51,60 |
-
-HBKD212 |
-
-Remplacement de 4 facettes d'une prothèse dentaire amovible |
-
-FDR27*4 |
-
-68,80 |
-
-0,00 |
-
-68,80 |
-
-HBKD462 |
-
-Remplacement de 5 facettes d'une prothèse dentaire amovible |
-
-FDR27*5 |
-
-86,00 |
-
-0,00 |
-
-86,00 |
-
-HBKD213 |
-
-Remplacement de 6 facettes d'une prothèse dentaire amovible |
-
-FDR27*6 |
-
-103,20 |
-
-0,00 |
-
-103,20 |
-
-HBKD140 |
-
-Remplacement de 7 facettes d'une prothèse dentaire amovible |
-
-FDR27*7 |
-
-120,40 |
-
-0,00 |
-
-120,40 |
-
-HBKD244 |
-
-Remplacement de 8 facettes d'une prothèse dentaire amovible |
-
-FDR27*8 |
-
-137,60 |
-
-0,00 |
-
-137,60 |
-
-Article 2 Actes d’orthopédie dento-faciale inclus dans le panier de soins CMU C (non transposés en CCAM) et ses montants maxima pris en charge
-
-ANNEXE 15.
-
-Libellés |
-
-Codes CMUC
-
-transposés
-
-|
-
-Tarif de responsabilité
-
-(en €)
-
-(1) |
-
-Dépassement maximum autorisé
-
-(en €)
-
-(2) - (1) |
-
-Montant maximum autorisé
-
-(en €)
-
-(2) |
+602 |
 
 Orthopédie dento-faciale |
 
@@ -1340,15 +1546,23 @@ Orthopédie dento-faciale |
 
 |
 
-Traitement des dysmorphoses, par période de six
-
-mois, dans la limite de six périodes :
-
-– sans multiattaches
+|
 
 |
 
-FDO28 |
+Traitement des dysmorphoses, par période de six mois, dans la limite de six périodes : |
+
+|
+
+|
+
+|
+
+|
+
+-sans multiattaches |
+
+FDO |
 
 193,50 |
 
@@ -1356,13 +1570,21 @@ FDO28 |
 
 333,00 |
 
-Traitement des dysmorphoses :
+|
 
-– avec multiattaches
+Traitement des dysmorphoses : |
 
 |
 
-FDO29 |
+|
+
+|
+
+|
+
+-avec multiattaches |
+
+FDO |
 
 193,50 |
 
@@ -1370,9 +1592,11 @@ FDO29 |
 
 464,00 |
 
+|
+
 Séance de surveillance (au maximum deux par semestre) |
 
-FDO31 |
+|
 
 10,75 |
 
@@ -1380,41 +1604,47 @@ FDO31 |
 
 10,75 |
 
-Contention après traitement orthodontique :
+|
 
-– 1re année
-
-– 2e année
+Contention après traitement orthodontique : |
 
 |
 
-FDO32
-
-FDO33
+|
 
 |
 
-161,25
-
-107,50
+|
 
 |
 
-0
-
-0
+-1re année |
 
 |
 
-161,25
+161,25 |
 
-107,50
+0 |
+
+161,25 |
 
 |
 
-Disjonction intermaxillaire rapide pour dysmorphose maxillaire en cas d’insuffisance respiratoire confirmée |
+-2e année |
 
-FDO36 |
+|
+
+107,50 |
+
+0 |
+
+107,50 |
+
+|
+
+Disjonction intermaxillaire rapide pour dysmorphose maxillaire en cas d'insuffisance respiratoire confirmée |
+
+|
 
 387,00 |
 
@@ -1422,41 +1652,47 @@ FDO36 |
 
 387,00 |
 
-Orthopédie des malformations consécutives au bec de lièvre total ou à la division palatine :
+|
 
-– forfait annuel, par année
-
-– en période d’attente
+Orthopédie des malformations consécutives au bec de lièvre total ou à la division palatine : |
 
 |
 
-FDO34
-
-FDO35
+|
 
 |
 
-430,00
-
-129,00
+|
 
 |
 
-0
-
-0
+-forfait annuel, par année |
 
 |
 
-430,00
+430,00 |
 
-129,00
+0 |
+
+430,00 |
 
 |
 
-Traitement d’orthopédie dento-faciale avec multiattaches au-delà du seizième anniversaire, préalable à une intervention chirurgicale portant sur les maxillaires pour une période de six mois non renouvelable, |
+-en période d'attente |
 
-FDO37 |
+|
+
+129,00 |
+
+0 |
+
+129,00 |
+
+|
+
+Traitement d'orthopédie dento-faciale avec multiattaches au-delà du seizième anniversaire, préalable à une intervention chirurgicale portant sur les maxillaires pour une période de six mois non renouvelable, |
+
+FDO |
 
 193,50 |
 

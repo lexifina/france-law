@@ -14,7 +14,7 @@ L’observatoire des pratiques tarifaires est mis en place dans les 3 mois suiva
 
 Lors de sa réunion d’installation, l’observatoire adopte un règlement intérieur.
 
-L’observatoire se réunit chaque trimestre.
+L'Observatoire se réunit autant que de besoin et a minima une fois par an.
 
 Article 3 Rôle de l’observatoire
 

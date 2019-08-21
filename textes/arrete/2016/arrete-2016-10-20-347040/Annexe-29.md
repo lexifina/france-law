@@ -1,6 +1,8 @@
 # Article Annexe 29
 
-LISTE DES SOINS CONSECUTIFS PRIS EN CHARGE AU TITRE DU DISPOSITIF D’EXAMEN BUCCO-DENTAIRE DES JEUNES VISES A L’ ARTICLE 21 DE LA CONVENTION MEDICALE
+LISTE DES SOINS CONSÉCUTIFS PRIS EN CHARGE AU TITRE DU DISPOSITIF D'EXAMEN BUCCO-DENTAIRE DES JEUNES
+
+VISÉ À L'ARTICLE 21 DE LA CONVENTION NATIONALE
 
 Chapitre et Codes |
 
@@ -12,59 +14,59 @@ Radiographie de la bouche |
 
 HBQK389 |
 
-Radiographie intrabuccale rétroalvéolaire et/ou rétrocoronaire d'un secteur de 1 à 3 dents contigües |
+Radiographie intrabuccale rétroalvéolaire et/ ou rétrocoronaire d'un secteur de 1 à 3 dents contigües |
 
 HBQK191 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 2 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 2 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK331 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 3 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 3 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK443 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 4 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 4 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK428 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 5 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 5 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK480 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 6 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 6 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK430 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 7 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 7 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK142 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 8 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 8 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK046 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 9 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 9 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK065 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 10 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 10 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK424 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 11 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 11 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK476 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 12 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 12 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK093 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 13 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 13 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK041 |
 
-Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 14 secteurs distincts de 1 à 3 dents contigües |
+Radiographies intrabuccales rétroalvéolaires et/ ou rétrocoronaires de 14 secteurs distincts de 1 à 3 dents contigües |
 
 HBQK002 |
 
@@ -85,6 +87,10 @@ Autogreffe d'un germe ou d'une dent retenue, dans un site naturel ou préparé c
 07.02.02.04 |
 
 Prophylaxie buccodentaire |
+
+HBLD045 |
+
+Application de vernis fluoré sur les 2 arcades dentaires |
 
 HBBD005 |
 
@@ -122,53 +128,53 @@ HBJD001 |
 
 Détartrage et polissage des dents |
 
+HBFD010 |
+
+Parage de plaie de la pulpe d'une dent avec coiffage |
+
 07.02.02.05 |
 
 Restauration des tissus durs de la dent |
 
-HBMD043 |
+HBMD351 |
 
-Restauration d’une dent sur 1 face par matériau incrusté [inlay-onlay] |
+Restauration d'une dent sur 2 faces ou plus par matériau incrusté [inlay-onlay] composite ou en alliage non précieux |
 
-HBMD046 |
+HBMD460 |
 
-Restauration d’une dent sur 2 faces par matériau incrusté [inlay-onlay] |
-
-HBMD055 |
-
-Restauration d’une dent sur 3 faces ou plus par matériau incrusté [inlay-onlay] |
+Restauration d'une dent sur 2 faces ou plus par matériau incrusté [inlay-onlay] céramique ou en alliage précieux |
 
 HBMD058 |
 
-Restauration d’une dent d’un secteur incisivocanin sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire |
+Restauration d'une dent d'un secteur incisivocanin sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire |
 
 HBMD050 |
 
-Restauration d’une dent d’un secteur incisivocanin sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire |
+Restauration d'une dent d'un secteur incisivocanin sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire |
 
 HBMD054 |
 
-Restauration d’une dent d’un secteur incisivocanin sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire |
+Restauration d'une dent d'un secteur incisivocanin sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire |
 
 HBMD044 |
 
-Restauration d'une dent d’un secteur incisivocanin sur 1 angle par matériau inséré en phase plastique, sans ancrage radiculaire |
+Restauration d'une dent d'un secteur incisivocanin sur 1 angle par matériau inséré en phase plastique, sans ancrage radiculaire |
 
 HBMD047 |
 
-Restauration d'une dent d’un secteur incisivocanin sur 2 angles par matériau inséré en phase plastique, sans ancrage radiculaire |
+Restauration d'une dent d'un secteur incisivocanin sur 2 angles par matériau inséré en phase plastique, sans ancrage radiculaire |
 
 HBMD053 |
 
-Restauration d’une dent d’un secteur prémolomolaire sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire |
+Restauration d'une dent d'un secteur prémolomolaire sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire |
 
 HBMD049 |
 
-Restauration d’une dent d’un secteur prémolomolaire sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire |
+Restauration d'une dent d'un secteur prémolomolaire sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire |
 
 HBMD038 |
 
-Restauration d’une dent d’un secteur prémolomolaire sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire |
+Restauration d'une dent d'un secteur prémolomolaire sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire |
 
 HBMD042 |
 
@@ -184,27 +190,27 @@ Exérèse de la pulpe camérale [Biopulpotomie] d'une dent temporaire |
 
 HBFD017 |
 
-Exérèse de la pulpe vivante d’une incisive ou d’une canine temporaire |
+Exérèse de la pulpe vivante d'une incisive ou d'une canine temporaire |
 
 HBFD019 |
 
-Exérèse de la pulpe vivante d’une molaire temporaire |
+Exérèse de la pulpe vivante d'une molaire temporaire |
 
 HBFD033 |
 
-Exérèse de la pulpe vivante d’une incisive ou d’une canine permanente |
+Exérèse de la pulpe vivante d'une incisive ou d'une canine permanente |
 
 HBFD021 |
 
-Exérèse de la pulpe vivante d’une première prémolaire maxillaire |
+Exérèse de la pulpe vivante d'une première prémolaire maxillaire |
 
 HBFD035 |
 
-Exérèse de la pulpe vivante d’une prémolaire autre que la première prémolaire maxillaire |
+Exérèse de la pulpe vivante d'une prémolaire autre que la première prémolaire maxillaire |
 
 HBFD008 |
 
-Exérèse de la pulpe vivante d’une molaire permanente |
+Exérèse de la pulpe vivante d'une molaire permanente |
 
 HBFD015 |
 
@@ -216,35 +222,35 @@ Exérèse du contenu canalaire non vivant d'une molaire temporaire |
 
 HBFD458 |
 
-Exérèse du contenu canalaire non vivant d’une incisive ou d'une canine permanente immature |
+Exérèse du contenu canalaire non vivant d'une incisive ou d'une canine permanente immature |
 
 HBFD395 |
 
-Exérèse du contenu canalaire non vivant d’une première prémolaire maxillaire immature |
+Exérèse du contenu canalaire non vivant d'une première prémolaire maxillaire immature |
 
 HBFD326 |
 
-Exérèse du contenu canalaire non vivant d’une prémolaire immature autre que la première prémolaire maxillaire |
+Exérèse du contenu canalaire non vivant d'une prémolaire immature autre que la première prémolaire maxillaire |
 
 HBFD150 |
 
-Exérèse du contenu canalaire non vivant d’une molaire permanente immature |
+Exérèse du contenu canalaire non vivant d'une molaire permanente immature |
 
 HBFD001 |
 
-Exérèse du contenu canalaire non vivant d’une incisive ou d’une canine permanente |
+Exérèse du contenu canalaire non vivant d'une incisive ou d'une canine permanente |
 
 HBFD297 |
 
-Exérèse du contenu canalaire non vivant d’une première prémolaire maxillaire |
+Exérèse du contenu canalaire non vivant d'une première prémolaire maxillaire |
 
 HBFD003 |
 
-Exérèse du contenu canalaire non vivant d’une prémolaire autre que la première prémolaire maxillaire |
+Exérèse du contenu canalaire non vivant d'une prémolaire autre que la première prémolaire maxillaire |
 
 HBFD024 |
 
-Exérèse du contenu canalaire non vivant d’une molaire permanente |
+Exérèse du contenu canalaire non vivant d'une molaire permanente |
 
 07.02.02.08 |
 
@@ -352,7 +358,7 @@ Avulsion de 20 dents temporaires sur arcade |
 
 HBGD042 |
 
-Avulsion d’1 dent temporaire retenue, incluse ou réincluse |
+Avulsion d'1 dent temporaire retenue, incluse ou réincluse |
 
 HBGD026 |
 
@@ -740,7 +746,7 @@ Avulsion d'une dent en désinclusion avec couronne sous muqueuse en position pal
 
 HBGD358 |
 
-Avulsion de 2 dents en désinclusion avec couronnes sous muqueuses en position palatine et/ou linguale |
+Avulsion de 2 dents en désinclusion avec couronnes sous muqueuses en position palatine et/ ou linguale |
 
 HBGD003 |
 
@@ -840,4 +846,4 @@ Radiographies intrabuccales rétroalvéolaires sur un secteur de 1 à 3 dents co
 
 HBQK061 |
 
-Radiographie intrabuccale rétroalvéolaire et/ou rétrocoronaire d'un secteur de 1 à 3 dents contigües, perinterventionnelle et/ou finale, en dehors d'un acte thérapeutique endodontique |
+Radiographie intrabuccale rétroalvéolaire et/ ou rétrocoronaire d'un secteur de 1 à 3 dents contigües, perinterventionnelle et/ ou finale, en dehors d'un acte thérapeutique endodontique |

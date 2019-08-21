@@ -2,13 +2,13 @@
 
 REGLEMENT INTERIEUR TYPE DES COMMISSIONS PARITAIRES
 
-Les dispositions du présent règlement intérieur sont applicables à la commission paritaire nationale, à l’observatoire des mesures conventionnelles, au comité technique paritaire permanente national chargé de la simplification, aux commissions paritaires régionales et aux commissions paritaires locales définis aux articles 80 et suivants de la convention médicale.
+Les dispositions du présent règlement intérieur sont applicables à la commission paritaire nationale, au comité technique paritaire permanente national chargé de la simplification, aux commissions paritaires régionales et aux commissions paritaires locales définis aux articles 80 et suivants de la convention médicale.
 
 Article 1 Organisation de la commission paritaire nationale, des commissions paritaires régionales et locales
 
 Article 1.1. Secrétariat de la commission
 
-Le secrétariat et les moyens nécessaires au fonctionnement sont mis en place par l'UNCAM pour la CPN, le CTPPN et l’observatoire des mesures conventionnelles par le représentant régional auprès du régime général (coordonnateur) pour la CPR et par l’une des caisses membres de la commission pour la CPL.
+Le secrétariat et les moyens nécessaires au fonctionnement sont mis en place par l'UNCAM pour la CPN, le CTPPN par le représentant régional auprès du régime général (coordonnateur) pour la CPR et par l’une des caisses membres de la commission pour la CPL.
 
 Le secrétariat assure les tâches administratives de l'instance.
 
@@ -33,6 +33,10 @@ La section professionnelle est composée de 12 représentants titulaires des org
 Les sièges de la section professionnelle sont répartis par accord entre les organisations syndicales représentatives des médecins libéraux signataires de la présente convention.
 
 En l’absence d’accord, les sièges sont répartis entre les organisations syndicales représentatives signataires de la présente convention sur la base des derniers résultats nationaux aux élections aux Unions Régionales de Professionnels de Santé mentionnées aux articles L 4031-1 à L 4031-7 du code de la santé publique, en utilisant le quotient électoral constitué par le nombre de voix exprimées recueillies nationalement, divisé par le nombre de siège à pourvoir, la répartition des restes s'effectuant au plus fort reste et chaque organisation syndicale reconnue représentative signataire de la présente convention étant assurée de disposer d'au moins un siège.
+
+A titre exceptionnel, dans les départements/ régions où il existe une carence de désignation par une ou plusieurs représentations, les représentants d'une organisation professionnelle siégeant en CPL/ CPR peuvent être installés dans d'autres départements/ régions que ceux où sont implantés les CPL/ CPR au sein desquels ils siègent.
+
+Si malgré les dispositions précédentes et après contact avec les organisations syndicales concernées, il apparaissait une carence de désignation de représentants d'une organisation professionnelle, la totalité des sièges vacants pourrait alors être attribuée en CPL/ CPR aux représentants des autres organisations syndicales représentatives des médecins libéraux, signataires de la présente convention et représentées dans le département ou la région.
 
 La section sociale est composée de 12 représentants titulaires de l'UNCAM.
 
