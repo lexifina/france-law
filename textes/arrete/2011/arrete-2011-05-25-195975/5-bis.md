@@ -8,6 +8,16 @@ Les travaux d'installation, de régulation ou de remplacement de systèmes de ch
 
 - pose d'une chaudière à micro-cogénération gaz conforme aux exigences du g du 2 de l'article 200 quater du code général des impôts, accompagnée d'un dispositif de programmation du chauffage ;
 
+-pose d'une chaudière bois conforme aux exigences définies au 6° du a du 3 de l'article 18 bis susmentionné, accompagnée d'un dispositif de programmation du chauffage ;
+
+-pose d'un ou plusieurs poêles à bois, foyers fermés ou inserts de cheminée intérieurs ou cuisinières utilisées comme mode de chauffage conformes aux exigences définies au 5° du a du 3 de l'article 18 bis susmentionné ;
+
+-pose d'un système utilisant l'énergie solaire pour la production de chauffage conforme aux exigences définies au 1° du a du 3 de l'article 18 bis susmentionné ;
+
+-pose d'un système utilisant l'énergie solaire pour la production d'eau chaude sanitaire et, le cas échéant, le chauffage, conforme aux exigences définies au 1° du a du 3 de l'article 18 bis susmentionné ;
+
+-pose d'une pompe à chaleur dédiée à la production d'eau chaude sanitaire conforme aux exigences définies au 2° du b du 3 de l'article 18 bis susmentionné, ainsi qu'à l'exigence définie au premier alinéa de ce même b ;
+
 - installation ou remplacement d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements, à un réseau de chaleur alimenté majoritairement par des énergies renouvelables ou de récupération ou par une installation de cogénération définis au c du 3 de l'article 18 bis susmentionné ;
 
 - installation ou remplacement d'équipements de raccordement ou, au titre des droits et frais de raccordement pour leur seule part représentative du coût de ces mêmes équipements,à un réseau de froid alimenté majoritairement par des énergies renouvelables ou de récupération définis au a du 4 de l'article 18 bis susmentionné.
@@ -18,11 +28,19 @@ Peuvent être associés à ces travaux :
 
 - l'acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des équipements de chauffage ou de production d'eau chaude sanitaire définis au c du 2 de l'article 18 bis susmentionné ;
 
-- l'acquisition et l'installation d'appareils permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur.
+- l'acquisition et l'installation d'appareils permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur ;
+
+-la dépose d'une cuve à fioul dans les conditions définies au 3 bis du I de l'article 18 bis de l'annexe 4 du code général des impôts.
 
 L'entreprise réalisant les travaux mentionnés aux deuxième et quatrième alinéas du présent article est titulaire d'un signe de qualité correspondant à la catégorie 1 de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts. L'entreprise réalisant les travaux mentionnés au troisième alinéa du présent article est titulaire d'un signe de qualité correspondant à la catégorie 7 de l'article 1er du décret susmentionné, à l'exception de l'entreprise réalisant la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques qui est titulaire d'un signe de qualité correspondant à la catégorie 8 de l'article 1er du décret susmentionné.
 
-Les travaux induits, indissociablement liés aux travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants définis au présent article, mentionnés à l'article R. 319-17 sont :
+L'entreprise réalisant les travaux mentionnés aux cinquième et sixième alinéas est titulaire d'un signe de qualité correspondant à la catégorie 6 de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts.
+
+L'entreprise réalisant les travaux mentionnés aux septième et huitième alinéas du présent article est titulaire d'un signe de qualité correspondant à la catégorie 5 mentionnée à l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du même code.
+
+L'entreprise réalisant les travaux mentionnés au neuvième alinéa du présent article est titulaire d'un signe de qualité correspondant à la catégorie 7 de l'article 1er du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du même.
+
+Les travaux nécessaires, indissociablement liés aux travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants définis au présent article, mentionnés à l'article R. 319-17 sont :
 
 - les éventuels travaux d'adaptation des émetteurs de chaleur à eau chaude et des réseaux de distribution ;
 
