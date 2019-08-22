@@ -1,0 +1,521 @@
+# Article Annexe III au titre VI
+
+Annexe III au titre VI
+
+Classement professionnel et rémunération de la convention collective nationale (modifié par l'avenant n° 1 du 31 octobre 2001)
+
+(Modifié par l'avenant n° …)
+
+Missions locales et PAIO
+
+Référentiel des compétences
+
+Liste des compétences
+
+1. Axe conseil en insertion
+
+1.1. Recevoir le public en entretien (cotation 8)
+
+1.2. Établir un diagnostic individuel sur la situation du public reçu (cotation 10)
+
+1.3. Informer et aider à l'orientation du public cible (cotation 11)
+
+1.4. Être référent dans un domaine spécifique (cotation 11)
+
+1.5. Accompagner le public dans son parcours d'insertion (cotation 11)
+
+2. Axe accueil
+
+2.1. Accueillir le public (cotation 6)
+
+2.2. Informer, recueillir la demande et orienter (cotation 7)
+
+2.3. Animer un espace d'accueil et d'information (cotation 7)
+
+3. Axe partenarial
+
+3.1. Représenter la structure dans le cadre stratégique (cotation 14)
+
+3.2. Représenter la structure en apportant une contribution technique (cotation 10)
+
+3.3. Construire, développer un réseau de partenaires (cotation 12)
+
+3.4. Négocier (cotation 14)
+
+4. Axe technique
+
+4.1. Organiser des réunions techniques internes et externes (cotation 11)
+
+4.2. Organiser la gestion administrative de la structure (cotation 7)
+
+4.3. Assurer une veille sur l'activité d'insertion (cotation 10)
+
+4.4. Outiller l'activité d'insertion (cotation 12)
+
+4.5. Documenter (cotation 8)
+
+4.6. Accompagner collectivement un groupe dans son parcours (cotation 12)
+
+4.7. Appui au recrutement et à l'intégration dans l'emploi (cotation 13)
+
+5. Axe ingénierie de projet
+
+5.1. Élaborer des projets de changements, piloter des projets institutionnels (cotation 15)
+
+5.2. Concevoir et piloter des projets (cotation 14)
+
+5.3. Mettre en œuvre des projets (cotation 11)
+
+6. Axe stratégique
+
+6.1. Assurer une veille stratégique (cotation 13)
+
+6.2. Proposer des orientations (cotation 14)
+
+7. Axe managérial
+
+7.1. Piloter la mission locale (cotation 16)
+
+7.2. Animer et coordonner une équipe (cotation 12)
+
+7.3. Piloter les politiques de ressources humaines (cotation 13)
+
+7.4. Sécuriser l'environnement juridique de la structure (cotation 14)
+
+7.5. Accompagner l'évolution professionnelle des salariés (cotation 15)
+
+8. Axe gestionnaire
+
+8.1. Mettre en œuvre la gestion budgétaire et financière (cotation 11)
+
+8.2. Gérer le budget et analyser la situation financière de la structure (cotation 11)
+
+8.3. Formaliser les outils de gestion de la structure (cotation 11)
+
+8.4. Assurer un suivi administratif (cotation 5)
+
+8.5. Organiser la vie de la structure (cotation 12)
+
+8.6. Tenir la comptabilité (cotation 10)
+
+8.7. Assurer le suivi administratif du personnel (cotation 10)
+
+8.8. Gérer l'informatique de la structure (cotation 11)
+
+8.9. Mettre en place des indicateurs, analyser, suivre et anticiper les informations financières de la structure (cotation 15)
+
+9. Axe communication
+
+9.1. Concevoir une politique de communication (cotation 13)
+
+9.2. Participer à l'élaboration de supports de communication (cotation 8)
+
+9.3. Assurer la mise en œuvre technique de la communication (cotation 10)
+
+9.4. Élaborer des outils de communication interne et externe (cotation 11)
+
+10. Axe maintenance et hygiène des espaces
+
+10.1. Entretien et hygiène des locaux (cotation 5)
+
+10.2. Entretien des espaces verts (cotation 5)
+
+Liste des compétences transversales
+
+A. 1. Entretien et maintenance des bâtiments
+
+A. 2. Transmettre et accompagner
+
+Détail des items par activité
+
+1. Axe conseil en insertion
+
+1.1. Recevoir le public en entretien (cotation 8)
+
+Recevoir le public individuellement ou collectivement.
+
+Établir une relation professionnelle adaptée au public dans le cadre de l'accompagnement global et la maintenir tout au long du parcours.
+
+1.2. Établir un diagnostic individuel sur la situation du public reçu (cotation 10)
+
+Réaliser avec le public un état de ses expériences, de ses atouts et de ses difficultés relatifs à sa situation.
+
+Analyser les attentes et besoins du public en prenant en compte l'ensemble de sa situation.
+
+1.3. Informer et aider à l'orientation du public cible (cotation 11)
+
+Informer individuellement et collectivement le public.
+
+Orienter vers le partenaire interne ou externe adapté à la situation du public et en assurer le suivi.
+
+Assurer l'adéquation entre la demande du public et l'offre des dispositifs.
+
+Proposer des prestations en termes d'accompagnement global soit directement réalisées par la structure, soit réalisées par d'autres partenaires.
+
+Assurer un suivi du public en lien avec les partenaires du territoire.
+
+1.4. Être référent dans un domaine spécifique (cotation 11)
+
+Transmettre au public reçu des informations spécifiques (santé, logement, accès au droit) et aider à son orientation sur des besoins spécifiques.
+
+Conduire des entretiens individuels, collectifs sur un thème spécifique et définir le cas échéant des solutions, des orientations et/ ou mettre en œuvre un accompagnement adapté.
+
+Assurer la transmission d'informations auprès des partenaires.
+
+1.5. Accompagner le public dans son parcours d'insertion (cotation 11)
+
+Construire avec le public les actions et les étapes de son parcours.
+
+Accompagner le public dans la réalisation de ses démarches.
+
+Ajuster les engagements pris tout au long de l'accompagnement ; en évaluer la réalisation.
+
+2. Axe accueil
+
+2.1. Accueillir le public (cotation 6)
+
+Accueillir, prendre en compte tout public et gérer les flux.
+
+Instaurer une relation de respect et s'assurer de la confidentialité des données.
+
+2.2. Informer, recueillir la demande et orienter (cotation 7)
+
+Recueillir et enregistrer la demande et les informations relatives à la situation individuelle du public.
+
+Informer et orienter le public reçu.
+
+Apprécier l'urgence d'une demande.
+
+2.3. Animer un espace d'accueil et d'information (cotation 7)
+
+Animer les lieux et organiser l'accès à l'information.
+
+Accompagner le public dans la recherche d'information.
+
+3. Axe partenarial
+
+3.1. Représenter la structure dans le cadre stratégique (cotation 14)
+
+Représenter la structure dans ses orientations stratégiques auprès des différents partenaires.
+
+Entretenir, coordonner et animer un réseau de partenaires dans le cadre des orientations stratégiques de la structure.
+
+3.2. Représenter la structure en apportant une contribution technique (cotation 10)
+
+Représenter techniquement la structure dans des réunions de travail.
+
+Assurer une assistance technique auprès des partenaires.
+
+3.3. Construire, développer un réseau de partenaires (cotation 12)
+
+Constituer un réseau de partenaires.
+
+Animer un réseau de partenaires sur un projet.
+
+Recueillir et actualiser un fichier ou une base de données.
+
+3.4. Négocier (cotation 14)
+
+Comprendre les enjeux stratégiques des partenaires.
+
+Participer à la préparation, la rédaction, la négociation, la mise en œuvre, le suivi et l'évaluation des conventions.
+
+Gérer des situations complexes : représentation globale, enjeux financiers, logiques d'acteurs, légitimité …
+
+4. Axe technique
+
+4.1. Organiser des réunions techniques internes et externes (cotation 11)
+
+Préparer des rencontres et des ateliers.
+
+Animer des rencontres et des ateliers.
+
+4.2. Organiser la gestion administrative de la structure (cotation 7)
+
+Rédiger des documents administratifs.
+
+Planifier, assurer la logistique.
+
+Gérer des emplois du temps.
+
+Effectuer des travaux administratifs.
+
+4.3. Assurer une veille sur l'activité d'insertion (cotation 10)
+
+Se tenir informé des idées, problématiques, expériences relatives à l'insertion des jeunes.
+
+Participer à l'analyse de l'adéquation des dispositifs des jeunes.
+
+Entretenir des relations avec les partenaires.
+
+4.4. Outiller l'activité d'insertion (cotation 12)
+
+Collecter et vérifier les informations concernant l'activité d'insertion.
+
+Rédiger des notes de synthèse et les mettre à jour.
+
+Actualiser les outils de suivi.
+
+Concevoir ou participer à l'élaboration d'outils de repérage, d'analyse et de suivi de l'évolution des parcours, accessibles au public visé (jeunes, employeurs, partenaires …).
+
+4.5. Documenter (cotation 8)
+
+Collecter l'information sur les supports les plus adaptés et innovants.
+
+Synthétiser l'information sur les supports les plus adaptés et innovants.
+
+Diffuser l'information sur les supports les plus adaptés et innovants.
+
+4.6. Accompagner collectivement un groupe dans son parcours (cotation 12)
+
+Élaborer le programme d'animation du groupe.
+
+Planifier les actions d'animation et les interventions.
+
+Coordonner les actions et les intervenants.
+
+Assurer le suivi personnalisé des parcours des membres du groupe.
+
+Rendre compte des actions conduites avec le groupe et chaque membre.
+
+4.7. Appui au recrutement et à l'intégration dans l'emploi (cotation 13)
+
+Un appui au recrutement de candidats.
+
+Une aide au maintien dans l'emploi.
+
+Développer et maintenir un partenariat avec les entreprises et les employeurs.
+
+5. Axe ingénierie de projet
+
+5.1. Élaborer des projets de changements, piloter des projets institutionnels (cotation 15)
+
+S'adapter en temps réel aux évolutions internes et externes.
+
+Innover (dans les dispositifs, dans l'environnement, dans le management, dans les ressources humaines).
+
+Piloter les changements en lien avec les évolutions des politiques publiques.
+
+5.2. Concevoir et piloter des projets (cotation 14)
+
+Élaborer, chiffrer et piloter des projets.
+
+Participer à la recherche de financement et de partenaire.
+
+Assurer l'évaluation.
+
+Contribuer à l'expérimentation et à l'innovation au niveau local.
+
+5.3. Mettre en œuvre des projets (cotation 11)
+
+Participer à des expérimentations et à des projets locaux dans le domaine de l'insertion.
+
+Participer à l'animation et à la mise en œuvre du projet en utilisant tous les outils adaptés.
+
+Rendre compte à la direction de la mise en œuvre, de l'évaluation et des préconisations à la fin du projet.
+
+6. Axe stratégique
+
+6.1. Assurer une veille stratégique (cotation 13)
+
+Assurer une veille sociale, économique et législative.
+
+Assurer une veille locale, régionale, nationale et internationale.
+
+Traduire ces veilles en stratégie partenariale.
+
+Conduire des réunions et des entretiens stratégiques.
+
+6.2. Proposer des orientations (cotation 14)
+
+Produire des notes d'orientations prospectives.
+
+Traduire les notes prospectives en propositions d'actions.
+
+Prendre en compte les contraintes de temps et budgétaires.
+
+7. Axe managérial
+
+7.1. Piloter la mission locale (cotation 16)
+
+Préparer en lien avec le président l'organisation des instances associatives.
+
+Mise en œuvre des orientations stratégiques avec les professionnels.
+
+Rendre compte de ses délégations de pouvoirs et de responsabilités.
+
+7.2. Animer et coordonner une équipe (cotation 12)
+
+Fixer les objectifs en donnant du sens à l'activité par rapport aux missions.
+
+Animer, organiser et superviser le travail d'une équipe.
+
+Évaluer le personnel.
+
+Aider l'équipe sur des aspects méthodologiques et sur leurs pratiques en matière d'insertion des jeunes.
+
+7.3. Piloter les politiques de ressources humaines (cotation 13)
+
+Recruter le personnel.
+
+Gérer les relations avec le personnel et ses représentants.
+
+Élaborer la politique de formation.
+
+Évaluer le personnel.
+
+7.4. Sécuriser l'environnement juridique de la structure (cotation 14)
+
+Maîtriser et actualiser les dispositions légales, réglementaires et juridiques.
+
+Mettre en œuvre la réglementation juridique.
+
+Assurer une veille juridique.
+
+Conseiller la gouvernance.
+
+7.5. Accompagner l'évolution professionnelle des salariés (cotation 15)
+
+Accompagner l'acquisition de nouvelles compétences.
+
+Accompagner l'intégration professionnelle des salariés.
+
+8. Axe gestionnaire
+
+8.1. Mettre en œuvre la gestion budgétaire et financière (cotation 11)
+
+Veiller à l'équilibre budgétaire.
+
+Traduire dans le budget les orientations politiques du conseil d'administration.
+
+8.2. Gérer le budget et analyser la situation financière de la structure (cotation 11)
+
+Établir, interpréter, exploiter les états comptables et financiers.
+
+Compléter le rapport d'activité et le montage des dossiers sur le plan financier.
+
+Gérer la trésorerie.
+
+8.3. Formaliser les outils de gestion de la structure (cotation 11)
+
+Élaborer et mettre en œuvre des outils et les procédures de gestion.
+
+Mettre en place et exploiter les tableaux de bord.
+
+Gérer la trésorerie.
+
+8.4. Assurer un suivi administratif (cotation 5)
+
+Constituer et mettre à jour les dossiers.
+
+Transmettre les informations administratives aux organismes partenaires.
+
+Organiser les invitations et les convocations.
+
+8.5. Organiser la vie de la structure (cotation 12)
+
+Assurer le suivi de la vie associative : CA, AG, faire les appels à cotisations de l'association.
+
+Assurer le suivi et le soutien logistique de l'organisation des réunions.
+
+Rassembler les informations données pour réaliser le suivi de l'activité de la structure (bilan …).
+
+Veiller à l'application des obligations légales et réglementaires.
+
+8.6. Tenir la comptabilité (cotation 10)
+
+Tenir la comptabilité générale.
+
+Réaliser les opérations quotidiennes de gestion.
+
+Tenir la comptabilité analytique.
+
+8.7. Assurer le suivi administratif du personnel (cotation 10)
+
+Assurer le suivi administratif des dossiers du personnel.
+
+Recevoir et traiter les informations relatives aux congés payés, aux absences diverses, aux arrêts maladie, au suivi de formations, à l'ARTT …
+
+8.8. Gérer l'informatique de la structure (cotation 11)
+
+Installer, entretenir, faire évoluer et sécuriser les systèmes, le matériel et les logiciels informatiques.
+
+Réaliser des requêtes sur les différentes bases de données.
+
+Créer et actualiser de nouveaux outils informatiques (Internet, logiciel.) et numériques.
+
+Former à l'utilisation des outils informatiques et numériques.
+
+Assurer une assistance technique auprès des réseaux territoriaux.
+
+8.9. Mettre en place des indicateurs, analyser, suivre et anticiper les informations financières de la structure (cotation 15)
+
+Mettre en place les outils de suivi analytique et prospectif des finances de la structure.
+
+Réaliser un diagnostic de la situation financière.
+
+Élaborer et planifier une stratégie pluriannuelle de financement.
+
+Rendre compte de la gestion.
+
+Maîtriser les enjeux budgétaires.
+
+9. Axe communication
+
+9.1. Concevoir une politique de communication (cotation 13)
+
+Proposer une stratégie de communication.
+
+Mettre en œuvre le plan de communication.
+
+9.2. Participer à l'élaboration de supports de communication (cotation 8)
+
+Participer à l'élaboration de communication interne et externe adaptée au public visé.
+
+9.3. Assurer la mise en œuvre technique de la communication (cotation 10)
+
+Coordonner la mise en œuvre des supports de communication.
+
+Organiser les manifestations extérieures.
+
+Collecter et coordonner la remontée de l'ensemble des informations internes et externes à des fins de communication.
+
+9.4. Élaborer des outils de communication interne et externe (cotation 11)
+
+Rédiger et proposer des textes et illustrations pour des supports internes et externes.
+
+Assurer une veille de l'information.
+
+Promouvoir et utiliser les nouveaux supports numériques.
+
+Assurer l'archivage numérique des informations.
+
+10. Axe entretien des locaux
+
+10.1. Entretien et hygiène des locaux (cotation 5)
+
+Balayer, aspirer, laver les sols, les vitres des différents locaux.
+
+connaître et respecter les règles de sécurité et les protocoles d'hygiène en collectivité.
+
+10.2. Entretien des espaces verts (cotation 5)
+
+Jardiner et entretenir les massifs.
+
+Tondre la pelouse, tailler les haies et les arbustes.
+
+Liste des compétences transversales
+
+A. 1. – Entretien et maintenance des bâtiments
+
+Réaliser des petits travaux d'entretien (peinture, électricité, plomberie, etc.).
+
+Diagnostiquer une panne sur une installation (éclairage, chauffage, sanitaires).
+
+Vérifier le fonctionnement de l'installation sanitaire, de chauffage central et de production d'eau chaude.
+
+A. 2. – Transmettre et accompagner
+
+Transférer un savoir-faire.
+
+Tutorer des nouveaux embauchés ou des stagiaires et participer au jury si besoin.

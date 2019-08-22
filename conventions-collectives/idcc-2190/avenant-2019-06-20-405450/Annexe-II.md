@@ -1,0 +1,493 @@
+# Article Annexe II
+
+Annexe II
+
+Modifiée par l'avenant n°
+
+Conception du système de classification du secteur professionnel des missions locales et des PAIO
+
+Liste des emplois repères
+
+Métier |
+
+Emplois repères |
+
+Maintenance et hygiène des espaces |
+
+Agent d'hygiène et de maintenance des locaux et des espaces verts |
+
+|
+
+|
+
+|
+
+|
+
+Insertion sociale et professionnelle |
+
+Chargé d'accueil et d'animation |
+
+Conseiller en insertion sociale et professionnelle |
+
+Chargé de projet |
+
+|
+
+Information communication |
+
+Chargé de documentation |
+
+Chargé d'information et de communication |
+
+|
+
+|
+
+|
+
+Gestion |
+
+Assistant administratif |
+
+Assistant de gestion |
+
+Assistant de direction |
+
+Assistant financier |
+
+Assistant informatique |
+
+Encadrement |
+
+Responsable administratif et financier |
+
+Responsable des ressources humaines |
+
+Responsable de secteur |
+
+Directeur |
+
+|
+
+|
+
+Agent d'hygiène et de maintenance des locaux et des espaces verts |
+
+Maintenance et hygiène des espaces |
+
+Compétences socles
+
+10.1 Entretien et hygiène des locaux (5)
+
+10.2 Entretien des espaces verts (5) |
+
+|
+
+Chargé d'accueil et d'animation |
+
+Conseiller en insertion sociale et professionnelle |
+
+Chargé de projet |
+
+Insertion sociale et professionnelle |
+
+Compétences socles |
+
+2.1. Accueillir le public (6) |
+
+1.1. Recevoir le public en entretien (8) |
+
+3.1. Représenter la structure dans le cadre stratégique (14) |
+
+2.2. Informer, recueillir la demande et orienter (7) |
+
+1.2. Établir un diagnostic individuel sur la situation du public reçu (10) |
+
+3.2. Représenter la structure en apportant une contribution technique (10) |
+
+8.4. Assurer un suivi administratif (5) |
+
+1.3. Informer et aider à l'orientation du public cible (11) |
+
+3.3. Construire, développer un réseau de partenaires (12) |
+
+|
+
+1.4. Être référent dans un domaine spécifique (11) |
+
+3.4. Négocier (14) |
+
+|
+
+1.5. Accompagner le public dans son parcours d'insertion (11) |
+
+4.4. Outiller l'activité d'insertion (12) |
+
+|
+
+2.2. Informer, recueillir la demande et orienter (7) |
+
+5.2. Concevoir et piloter des projets (14) |
+
+|
+
+8.4. Assurer un suivi administratif (5) |
+
+5.3. Mettre en œuvre des projets (11) |
+
+|
+
+|
+
+8.4. Assurer un suivi administratif (5) |
+
+Compétences complémentaires |
+
+2.3. Animer un espace d'accueil et d'information (7) |
+
+4.3. Assurer une veille sur l'activité d'insertion (10) |
+
+1.1. Recevoir le public en entretien (8) |
+
+4.5. Documenter (8) |
+
+3.3. Construire, développer un réseau de partenaires (12) |
+
+1.2. Établir un diagnostic individuel sur la situation du public reçu (10) |
+
+|
+
+4.1. Organiser des réunions techniques internes et externes (11) |
+
+1.3 Informer et aider à l'orientation du public cible (11) |
+
+|
+
+4.4. Outiller l'activité d'insertion (12) |
+
+1.5. Accompagner le public dans son parcours d'insertion (11) |
+
+|
+
+4.6. Accompagner collectivement un groupe dans son parcours (12) |
+
+4.3. Assurer une veille sur l'activité d'insertion (10) |
+
+|
+
+4.7. Appui au recrutement et à l'intégration dans l'emploi (13) |
+
+4.6. Accompagner collectivement un groupe dans son parcours (12) |
+
+|
+
+5.3. Mettre en œuvre des projets (11) |
+
+6.2. Proposer des orientations (14) |
+
+|
+
+9.2. Participer à l'élaboration de supports de communication (8) |
+
+7.5. Accompagner l'évolution professionnelle des salariés (15) |
+
+|
+
+|
+
+9.2. Participer à l'élaboration de supports de communication (8) |
+
+|
+
+|
+
+9.3. Assurer la mise en œuvre technique de la communication (10) |
+
+Compétences transversales |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 2. Transmettre, accompagne |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+|
+
+Chargé de documentation |
+
+Chargé d'information et de communication |
+
+Information communication |
+
+Compétences socles |
+
+2.3. Animer un espace d'accueil et d'information (7) |
+
+4.5. Documenter (8) |
+
+4.5. Documenter (8) |
+
+8.4. Assurer un suivi administratif (5) |
+
+8.4. Assurer un suivi administratif (5) |
+
+9.2. Participer à l'élaboration de supports de communication (8) |
+
+9.2. Participer à l'élaboration de supports de communication (8) |
+
+9.3. Assurer la mise en œuvre technique de la communication (10) |
+
+Compétences complémentaires |
+
+2.1. Accueillir le public (6) |
+
+2.1. Accueillir le public (6) |
+
+4.3. Assurer une veille sur l'activité d'insertion (10) |
+
+2.2. Informer, recueillir la demande et orienter (7) |
+
+|
+
+2.3. Animer un espace d'accueil et d'information (7) |
+
+|
+
+9.4. Élaborer des outils de communication interne et externe (11) |
+
+Compétences transversales |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+|
+
+Assistant administratif |
+
+Assistant de gestion |
+
+Assistant de direction |
+
+Assistant financier |
+
+Assistant informatique |
+
+Gestion |
+
+Compétences socles |
+
+8.4. Assurer un suivi administratif (5) |
+
+8.4. Assurer un suivi administratif (5) |
+
+8.4. Assurer un suivi administratif (5) |
+
+8.2. Gérer le budget et analyser la situation financière de la structure (11) |
+
+3.2. Représenter la structure en apportant une contribution technique (10) |
+
+|
+
+8.6. Tenir la comptabilité (10) |
+
+8.7. Assurer le suivi administratif du personnel (10) |
+
+8.3. Formaliser les outils de gestion de la structure (11) |
+
+8.4. Assurer un suivi administratif (5) |
+
+|
+
+8.7. Assurer le suivi administratif du personnel (10) |
+
+9.3. Assurer la mise en œuvre technique de la communication (10) |
+
+8.6. Tenir la comptabilité (10) |
+
+8.8. Gérer l'informatique de la structure (11) |
+
+|
+
+|
+
+|
+
+8.4. Assurer un suivi administratif (5) |
+
+|
+
+Compétences complémentaires |
+
+2.1. Accueillir le public (6) |
+
+4.2. Organiser la gestion administrative de la structure (7) |
+
+8.5. Organiser la vie de la structure (12) |
+
+8.7. Assurer le suivi administratif du personnel (10) |
+
+4.4. Outiller l'activité d'insertion (12) |
+
+4.2. Organiser la gestion administrative de la structure (7) |
+
+8.3. Formaliser les outils de gestion de la structure (11) |
+
+8.6. Tenir la comptabilité (10) |
+
+8.5. Organiser la vie de la structure (12) |
+
+9.4. Élaborer des outils de communication interne et externe (11) |
+
+Compétences transversales |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 1. Entretien et maintenance des bâtiments |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+A. 2. Transmettre, accompagner |
+
+|
+
+Responsable administratif et financier |
+
+Responsable des ressources humaines |
+
+Responsable de secteur |
+
+Encadrement |
+
+Compétences socles |
+
+4.2. Organiser la gestion administrative de la structure (7) |
+
+4.2. Organiser la gestion administrative de la structure (7) |
+
+3.1. Représenter la structure dans le cadre stratégique (14) |
+
+5.2. Concevoir et piloter des projets (14) |
+
+5.2. Concevoir et piloter des projets (14) |
+
+3.2. Représenter la structure en apportant une contribution technique (10) |
+
+6.2. Proposer des orientations (14) |
+
+6.2. Proposer des orientations (14) |
+
+3.3. Construire, développer un réseau de partenaires (12) |
+
+8.1. Mettre en œuvre la gestion budgétaire et financière (11) |
+
+7.2. Animer et coordonner une équipe (12) |
+
+3.4 Négocier (14) |
+
+8.2. Gérer le budget et analyser la situation financière de la structure (11) |
+
+7.3. Piloter les politiques de ressources humaines (13) |
+
+4.1. Organiser des réunions techniques internes et externes (11) |
+
+8.3. Formaliser les outils de gestion de la structure (11) |
+
+8.3. Formaliser les outils de gestion de la structure (11) |
+
+4.4. Outiller l'activité d'insertion (12) |
+
+8.4. Assurer un suivi administratif (5) |
+
+8.4. Assurer un suivi administratif (5) |
+
+5.1. Élaborer des projets de changements, piloter des projets institutionnels (15) |
+
+|
+
+|
+
+6.2. Proposer des orientations (14) |
+
+|
+
+|
+
+7.2. Animer et coordonner une équipe (12) |
+
+Compétences complémentaires |
+
+7.2. Animer et coordonner une équipe (12) |
+
+7.5. Accompagner l'évolution professionnelle des salariés (15) |
+
+7.5. Accompagner l'évolution professionnelle des salariés (15) |
+
+8.9. Mettre en place des indicateurs, analyser, suivre et anticiper les informations financières de la structure (15) |
+
+|
+
+9.2. Participer à l'élaboration de supports de communication (8) |
+
+|
+
+Directeur |
+
+Encadrement |
+
+Compétences socles |
+
+3.1. Représenter la structure dans le cadre stratégique (14) |
+
+3.3. Construire, développer un réseau de partenaires (12) |
+
+3.4. Négocier (14) |
+
+4.4. Outiller l'activité d'insertion (12) |
+
+5.1. Élaborer des projets de changements, piloter des projets institutionnels (15) |
+
+6.1. Assurer une veille stratégique (13) |
+
+6.2. Proposer des orientations (14) |
+
+7.1. Piloter la mission locale (16) |
+
+7.2. Animer et coordonner une équipe (12) |
+
+7.3. Piloter les politiques de ressources humaines (13) |
+
+7.4. Sécuriser l'environnement juridique de la structure (14) |
+
+7.5. Accompagner l'évolution professionnelle des salariés (15) |
+
+8.1. Mettre en œuvre la gestion budgétaire et financière (11) |
+
+8.3. Formaliser les outils de gestion de la structure (11) |
+
+9.1. Concevoir une politique de communication (13) |
+
+8.9. Mettre en place les indicateurs, analyser, suivre et anticiper les informations financières de la structure (15) |
