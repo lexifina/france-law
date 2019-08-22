@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208141
+
+- Question : [SEQ181208141](seq181208141.md) — Formation en théologie délivrée par l'université de Lorraine
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2019-08-22, page 4316*
+
+La mention « théologie » du diplôme national de licence figure dans la nomenclature des mentions publiée par arrêté du 22 janvier 2014. Cette mention, qui ne résulte pas de l'accord du 18 décembre 2008 conclu entre la République française et le Saint-Siège, ne soulève aucune difficulté d'ordre juridique. L'article L. 613-1 du code de l'éducation prévoit que « le cadre national des formations, fixé par arrêté du ministre chargé de l'enseignement supérieur, après avis du Conseil national de l'enseignement supérieur et de la recherche, comprend la liste des mentions des diplômes nationaux regroupés par grands domaines ainsi que les règles relatives à l'organisation des formations ». L'article 3 de l'arrêté cité fixant le cadre national des formations conduisant à la délivrance des diplômes nationaux de licence, de licence professionnelle et de master, prévoit que « l'intitulé des diplômes visés par le présent arrêté est défini par un nom de domaine et de mention. Les nomenclatures de mention des diplômes nationaux de licence, de licence professionnelle et de master sont fixées par arrêté ». C'est conformément à ces dispositions que l'arrêté précité fixant la nomenclature des mentions du diplôme national de licence prévoit en annexe une liste de ces mentions : la mention « théologie » apparaît entre les mentions « philosophie » et « sciences sociales ». Dans les trois départements du Bas-Rhin, du Haut-Rhin et de la Moselle, un diplôme national de licence de théologie, et par suite, la mention de ce diplôme dans l'arrêté susvisé fixant la nomenclature des mentions du diplôme national de licence, s'impose.
