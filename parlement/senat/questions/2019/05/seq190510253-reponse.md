@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510253
+
+- Question : [SEQ190510253](seq190510253.md) — Prélèvement à la source effectué par les entreprises
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-08-22, page 4298*
+
+La règle de l'arrondi prévue aux articles 1657 et 1724 du code général des impôts est un principe forgé par la loi qui dispose que, comme pour la plupart des impôts des professionnels, l'arrondi du montant total de prélèvement à la source (PAS) à reverser par le collecteur s'effectue à l'euro le plus proche et ce, pour chaque déclaration ou fraction de déclaration. Ce principe est ainsi appliqué par les entreprises lors du dépôt de certains impôts auto-liquidés comme la TVA. En effet, les TVA collectées et déductibles sont calculées au centime près pour chaque facturation et le reversement à l'administration fiscale s'opère à l'euro le plus proche sur les déclarations mensuelles, trimestrielles ou annuelles. Pour cette raison, le principe de l'arrondi n'est pas de nature à remettre en cause la sincérité des comptes de l'entreprise. Ce point ayant été abordé avec les éditeurs du logiciel avant la réforme, il convient désormais que les entreprises résolvent cette difficulté avec leurs éditeurs de paye afin qu'ils se conforment à la réglementation lors du dépôt des déclarations sociales nominatives (DSN) sur le site du Groupement d'intérêt public Modernisation des Déclarations Sociales (GIP-MDS). La mise en recouvrement des créances de PAS de faible montant, dues à un défaut d'arrondi par les entreprises, vise à matérialiser les créances du Trésor mais aussi à informer les entreprises de l'irrégularité de leurs pratiques. Afin de réduire les coûts du recouvrement tant pour les entreprises que pour l'administration, la mise en recouvrement de ces créances de faible montant est désormais effectuée selon une périodicité annuelle.
