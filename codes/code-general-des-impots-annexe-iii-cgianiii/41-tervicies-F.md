@@ -1,6 +1,6 @@
-# Article 91 quindecies
+# Article 41 tervicies F
 
-Pour l'application du 5 du VIII de l'article 167 bis du code général des impôts, l'impôt acquitté hors de France est imputable sur les prélèvements sociaux et l'impôt sur le revenu dans les conditions de ce même 5 sous réserve que :
+Pour l'application du 5 du VIII de l'article 167 bis du code général des impôts, l'impôt acquitté hors de France est imputable, dans les conditions de ce même 5, sous réserve que :
 
 a) L'impôt acquitté hors de France soit un impôt personnel sur le revenu assis sur les plus-values de cession de valeurs mobilières ou de droits sociaux ;
 
