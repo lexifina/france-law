@@ -6,7 +6,9 @@ Ministère de l'éducation nationale, de l'enseignement supérieur et de la rech
 
 Attestation de validation du stage professionnel permettant de faire usage professionnel du titre de psychologue
 
-Master mention psychologie, spécialité
+Master mention psychologie, spécialité ou parcours :
+
+Lieu de stage :
 
 Le stage accompli par M. est validé par les responsables du stage :
 
