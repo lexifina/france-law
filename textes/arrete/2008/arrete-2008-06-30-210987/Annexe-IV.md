@@ -92,7 +92,7 @@ L'annuaire des produits certifiés au sens de la norme NF EN 17065 : 2012 est co
 
 1.9. Evaluation de surveillance
 
-L'évaluation de surveillance au sens de la norme NF EN 17065 : 2012 consiste en la vérification du respect par les opérateurs des conditions prévues à l'article R. 543-99 du code de l'environnement. L'organisme agréé effectue, pour ce faire, au moins un audit par opérateur à qui il a délivré l'attestation de capacité pendant la période de validité de celle-ci. Lors de cet audit l'organisme agréé réalise au moins :
+L'évaluation de surveillance au sens de la norme NF EN 17065 : 2012 consiste en la vérification du respect par les opérateurs des conditions prévues à l'article R. 543-99 du code de l'environnement. L'organisme agréé effectue, pour ce faire, au moins un audit par opérateur à qui il a délivré l'attestation de capacité pendant la période de validité de celle-ci. L'audit est réalisé au plus tôt un an après la délivrance ou le renouvellement de l'attestation de capacité et au plus tard un an avant la fin de validité de celle-ci. Lors de cet audit l'organisme agréé réalise au moins :
 
 - une vérification exhaustive du registre du personnel et de ses capacités professionnelles, telles qu'elles sont mentionnées à l'article R. 543-106 du code de l'environnement, notamment par la vérification que les personnes mentionnées sur les fiches d'intervention figurent au registre du personnel et, lorsque l'opérateur fait appel à de la sous-traitance, que les personnes intervenant en sous-traitance disposent desdites capacités professionnelles ;
 
@@ -112,41 +112,23 @@ ou titre équivalent déclaré par l'opérateur
 
 |
 
-NOMBRE MINIMUM DE FICHES CONTRÔLÉES LORS DE LA VISITE DE SURVEILLANCE
+NOMBRE MINIMUM DE FICHES CONTRÔLÉES LORS DE LA VISITE DE SURVEILLANCE |
 
-|
+1 à 5 inclus |
 
-1 à 5 inclus
+20 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches |
 
-|
+6 à 10 inclus |
 
-20 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches
+40 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches |
 
-|
+11 à 30 inclus |
 
-6 à 10 inclus
+60 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches |
 
-|
+Plus de 30 |
 
-40 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches
-
-|
-
-11 à 30 inclus
-
-|
-
-60 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches
-
-|
-
-Plus de 30
-
-|
-
-80 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches
-
-|
+80 fiches si le nombre de fiches disponibles est supérieur, à défaut l'intégralité des fiches |
 
 - un contrôle du bon traitement des plaintes.
 
