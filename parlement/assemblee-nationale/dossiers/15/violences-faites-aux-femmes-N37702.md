@@ -1,0 +1,55 @@
+# Violences au sein de la famille
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37702
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/Violences_faites_aux_femmes
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-057.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-08-28 : 1er dépôt d'une initiative. (PIONANR5L15B2201)
+  - 2019-09-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-08-28 : Renvoi en commission au fond
+      - 2019-09-17 : Nomination de rapporteur
+      - 2019-09-17 : Réunion de commission
+      - 2019-10-02 : Réunion de commission
+      - 2019-10-09 : Réunion de commission
+      - 2019-10-02 : Dépôt de rapport (RAPPANR5L15B2283, PIONANR5L15BTC2283)
+  - Discussion en séance publique
+    - 2019-10-10 : Discussion en séance publique
+    - 2019-10-10 : Discussion en séance publique
+    - 2019-10-10 : Discussion en séance publique
+    - 2019-10-15 : Discussion en séance publique
+    - 2019-10-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-10-15 : Dépôt d'une initiative en navette (PIONSNR5S339B0057)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-10-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-10-30 : Dépôt de rapport (RAPPSNR5S339B0096, PIONSNR5S339BTC0097)
+  - Discussion en séance publique
+    - 2019-11-06 : Discussion en séance publique
+    - 2019-11-06 : Décision
+- Commission Mixte Paritaire
+  - 2019-11-07 : Dépôt d'un projet de loi (PIONANR5L15B2398)
+  - 2019-11-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2019-11-27 : Nomination de rapporteur
+    - 2019-11-28 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0156, PIONSNR5S339BTC0157)
+    - 2019-11-28 : Dépôt du rapport d'une CMP (RAPPANR5L15B2453, PIONANR5L15BTC2453)
+  - Discussion en séance publique
+    - 2019-12-11 : Discussion en séance publique
+    - 2019-12-11 : Décision
+  - Discussion en séance publique
+    - 2019-12-18 : Discussion en séance publique
+    - 2019-12-18 : Décision
+  - 2019-11-28 : Décision de la CMP
+- Promulgation de la loi
+  - 2019-12-28 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2020-10-14 : Rapport sur l'application des lois (RINFANR5L15B3431)
