@@ -1,4 +1,4 @@
-# Article LEGIARTI000037857803
+# Article Annexe IV
 
 ANNEXE IV
 
@@ -24,7 +24,7 @@ Secrétaire général |
 
 19 - Corrèze |
 
-EPLEFPA Edgard Pisani-Tulle Naves |
+EPLEFPA Edgard Pisani - Tulle Naves |
 
 Agent comptable |
 
@@ -36,17 +36,15 @@ Agent comptable |
 
 31 - Haute-Garonne |
 
-EPLEFPA Toulouse |
-
-Secrétaire général |
-
-31 - Haute-Garonne |
-
 LEGTA Ondes |
 
 Agent comptable |
 
-37 - Indre-et-Loire |
+EPLEFPA Toulouse |
+
+Secrétaire général |
+
+37 - Indre et Loire |
 
 EPLEFPA Amboise |
 
@@ -60,17 +58,21 @@ Secrétaire général |
 
 68 - Haut-Rhin |
 
-EPLEFPA
-
-Rouffach-Wintzenheim |
+EPLEFPA Rouffach-Wintzenheim |
 
 Secrétaire général de l'EPLEFPA les Sillons - Rouffach |
 
 74 - Haute-Savoie |
 
-CFPPA La Roche-sur-Foron |
+CFPPA La Roche sur Foron |
 
-Directeur de CFPPA avec 2 sites |
+Directeur de CFPPA avec deux sites |
+
+84 - Vaucluse |
+
+EPL Carpentras |
+
+Secrétaire général |
 
 98 - Nouvelle-Calédonie |
 

@@ -1,6 +1,4 @@
-# Article LEGIARTI000037857797
-
-ANNEXES
+# Article Annexe I
 
 ANNEXE I
 
@@ -12,13 +10,11 @@ Fonctions |
 
 Cabinet du ministre |
 
-Chef du bureau du Cabinet |
+Chef du bureau du cabinet |
 
 Conseiller chargé de l'enseignement, de la recherche et des relations sociales |
 
-Conseil général de l'alimentation, de l'agriculture
-
-et des espaces ruraux |
+Conseil général de l'alimentation, de l'agriculture et des espaces ruraux |
 
 Chef du bureau des affaires générales |
 
@@ -26,9 +22,9 @@ Direction générale de la performance économique et environnementale des entre
 
 Chef du bureau Grandes cultures, semences végétales et produits transformés |
 
-Chef de bureau Bioéconomie |
-
 Chef du bureau du lait et sélection animale |
+
+Chef de bureau Bioéconomie |
 
 Direction générale de l'alimentation |
 
@@ -40,9 +36,7 @@ Adjoint à la sous-directrice de la politique de l'alimentation |
 
 Chef du bureau Management par la qualité et coordination des contrôles |
 
-Direction générale de l'enseignement
-
-et de la recherche |
+Direction générale de l'enseignement et de la recherche |
 
 Chef du bureau des relations contractuelles |
 
@@ -52,9 +46,15 @@ Secrétariat général |
 
 Directeur de projet au service de la modernisation |
 
+Directeur de projets informatiques |
+
 Chef du bureau - responsable de la mission de pilotage du programme 215 |
 
 Secrétaire national du réseau d'appui aux personnes et aux structures |
+
+Secrétariat général
+
+(suite) |
 
 Chef du département de la communication et des réseaux à la délégation à l'information et à la communication |
 
@@ -74,14 +74,12 @@ Chef du centre de service comptable et financier au service des affaires financi
 
 Chef de la mission Contrôle de gestion au service de la modernisation |
 
-Chef du département accompagnement au sein du bureau méthodes, du support et de la qualité au service de la modernisation |
-
 Chef du département infrastructures et services au service de la modernisation |
-
-Directeur de projets informatiques |
 
 Chargé de mission auprès du chef du service des ressources humaines |
 
 Chef du bureau du pilotage de la rémunération au service des ressources humaines |
 
-Chef du bureau de gestion des personnels contractuels au service des ressources humaines |
+Chef du bureau administration du personnel à la mission des affaires générales |
+
+Chef du bureau des pensions au service des ressources humaines |

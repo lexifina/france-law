@@ -1,4 +1,4 @@
-# Article LEGIARTI000038156744
+# Article Annexe V
 
 ANNEXE V
 
@@ -8,33 +8,25 @@ Etablissements |
 
 Fonctions |
 
-Délégations régionales de l'Agence de services
+Directions régionales de l'Agence de services
 
 et de paiement |
 
 Directeur régional délégué de la direction régionale Auvergne-Rhône-Alpes |
 
-Directeur régional de la direction régionale Hauts-de-France |
-
-Directeur régional de la direction régionale Grand Est |
+Directeur régional de la direction régionale Grand-Est |
 
 Directeur régional délégué Nouvelle-Aquitaine - Site de Poitiers |
 
 Directeur régional Martinique |
 
-Directeur régional Guadeloupe
+Directeur régional Guadeloupe |
 
-(à compter du 1er septembre 2018) |
+Directeur régional Mayotte |
 
-Directeur régional Mayotte
+Directeur régional délégué - site de Besançon |
 
-(à compter du 1er octobre 2018) |
-
-Siège de l'Agence de services
-
-et de paiement (ASP) |
-
-Directeur des ressources humaines |
+Siège de l'Agence de services et de paiement (ASP) |
 
 Chef du service Gestion administrative - paie à la direction des ressources humaines |
 
@@ -46,21 +38,31 @@ Chef du service des contrôles en exploitations surfaces et animaux à la direct
 
 Directeur de la direction financière, juridique et logistique |
 
-Institut Français du Cheval et de l'Equitation (IFCE) |
+Institut français du cheval et de l'équitation (IFCE) |
 
 Directeur de l'appui à la filière et de la stratégie à Saumur |
 
 Directeur de projet développement des techniques de reproduction et d'élevage à Saint-Lô |
 
-Institut National de l'Origine et de la Qualité (INAO) |
+Institut national de l'origine et de la qualité (INAO) |
 
 Délégué territorial Nord-Est |
 
-Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA) |
+Responsable du service juridique et international |
+
+Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
+
+(IRSTEA) |
 
 Directeur de l'unité de recherche |
 
-Ingénieur chercheur spécialiste Pollutions diffuses Reconnue COSE |
+Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
+
+(IRSTEA)
+
+(suite) |
+
+Ingénieur chercheur spécialiste Pollutions diffuses reconnue COSE |
 
 Directeur adjoint de la direction de l'innovation |
 
@@ -78,9 +80,9 @@ Directeur adjoint d'unité mixte de recherche |
 
 Responsable pôle de recherche |
 
-Services territoriaux de l'établissement national
+Directeur adjoint de l'unité de recherche HYCAR |
 
-des produits de l'agriculture et de la mer (FranceAgriMer) |
+Services territoriaux de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) |
 
 Chef du service FranceAgriMer - Hauts-de-France |
 
@@ -88,26 +90,22 @@ Inspecteur général des services d'appui aux régions |
 
 Chef du pôle territorial FranceAgriMer Normandie |
 
-Chef du service régional FranceAgriMer Bourgogne-Franche-Comté |
+Chef du service régional FranceAgriMer Bourgogne-Franche Comté |
 
 Chef du service FranceAgriMer à la DRAAF d'Auvergne-Rhônes-Alpes |
 
 Adjoint au chef du service FranceAgriMer Occitanie |
 
-Chef du service territorial FAM Nouvelle-Aquitaine |
+Chef du service territorial FranceAgriMer Nouvelle Aquitaine |
 
-Siège de l'établissement national des produits
-
-de l'agriculture et de la mer (FranceAgriMer) |
+Siège de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) |
 
 Secrétaire général |
 
 Chef du service Arborial au secrétariat général |
 
-Chef du service Programmes opérationnels et promotion à la direction des interventions |
+Chef du service programmes opérationnels et promotion à la direction des interventions |
 
 Chef de la délégation nationale de Libourne à la direction des interventions |
 
 Adjoint au chef de service Contrôles et normalisation à la direction des interventions |
-
-Chef de l'unité structuration de données à la direction marchés, études et prospective |

@@ -1,14 +1,14 @@
-# Article LEGIARTI000037857801
+# Article Annexe III
 
 ANNEXE III
 
 LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT SUPÉRIEUR DU MINISTÈRE DE L'AGRICULTURE ET DE L'ALIMENTATION
 
-Etablissements |
+Établissements |
 
 Fonctions |
 
-Ecole Nationale Supérieure de Paysage à Versailles (ENSP) |
+Ecole nationale supérieure de paysage à Versailles (ENSP) |
 
 Directeur de l'enseignement et de la vie étudiante |
 
@@ -16,10 +16,10 @@ L'Institut des sciences et industries du vivant et de l'environnement, Paris (Ag
 
 Responsable des ressources humaines |
 
-Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg (ENGEES) |
+Agrocampus Ouest - site de Rennes |
+
+Directeur des affaires financières |
+
+Ecole nationale du génie de l'eau et de l'environnement de Strasbourg (ENGEES) |
 
 Directeur des études |
-
-Agrocampus Ouest site de Rennes |
-
-Directeur des Affaires Financières |
