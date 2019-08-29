@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180203094
+
+- Question : [SEQ180203094](seq180203094.md) — Conséquences de la disparition au 31 mars 2019 du conseil régional d'Alsace de l'ordre des médecins
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-08-29, page 4410*
+
+Le décret n° 2017-1418 du 29 septembre 2017 portant adaptation du régime électoral des ordres des professions de santé a modifié le ressort territorial des conseils régionaux afin qu'ils correspondent aux délimitations des régions et des collectivités administratives. Cette modification a eu notamment pour effet de supprimer le conseil régional d'Alsace de l'Ordre des médecins au profit du conseil régional Grand Est. Néanmoins, une telle suppression n'affecte pas pour autant la représentation de l'Alsace. En premier lieu, les départements du Haut-Rhin et du Bas-Rhin sont toujours représentés au sein du conseil régional Grand Est ; les membres titulaires du conseil régional étant élus par les membres titulaires des conseils départementaux (article L. 4124-11 du code de la santé publique). En second lieu, la région Grand Est est représentée au sein du Conseil national par deux binômes, élus par les membres des conseils départementaux (article L. 4132-1 du code de la santé publique). L'élection de ces binômes relève du fonctionnement interne de l'Ordre des médecins et s'effectue par le libre jeu électoral. Le binôme représente l'ensemble de la région, et notamment l'Alsace. Il reviendra en tant que de besoin aux conseils départementaux et au conseil régional d'alerter les représentants de la région Grand Est au Conseil national sur les particularités médicales locales et le régime spécifique de sécurité sociale. En tout état de cause, le Conseil national a été renouvelé par moitié en juin 2019 et l'Alsace est bien représentée au Conseil national à travers les deux binômes Grand Est.
