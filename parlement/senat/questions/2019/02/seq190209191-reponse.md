@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190209191
+
+- Question : [SEQ190209191](seq190209191.md) — Baisse des tarifs hospitaliers
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-08-29, page 4418*
+
+Les établissements de santé privés à but non lucratif sont des acteurs majeurs de l'offre de soins hospitalière, auxquels le Gouvernement est très attaché. À périmètre inchangé, la campagne 2019 a été marquée pour tous les établissements de santé, y compris les établissements privés à but non lucratif, par une augmentation inédite des tarifs de + 0,5 % par rapport à 2018. Cette évolution est identique pour toutes les catégories d'établissements avant prise en compte des allègements fiscaux et sociaux. L'application du coefficient de reprise des allègements fiscaux et sociaux explique le taux d'évolution de - 1,6 % pour les établissements de santé privé à but non lucratif. Or la reprise des bénéfices du crédit d'impôt de taxe sur les salaires (CITS) est, d'un point de vue juridique, une mesure nécessaire pour satisfaire l'obligation d'égalité de traitement entre établissements de santé. En effet, depuis 2013, les allégements de charges dont bénéficient certains établissements privés de santé ont été pris en compte dans le cadre des constructions tarifaires et budgétaires. L'État a ainsi été amené à tenir compte des incidences des dispositifs fiscaux du crédit d'impôt pour la compétitivité et l'emploi (CICE) et du pacte de responsabilité pour l'ensemble des secteurs. Le CITS n'a quant à lui été instauré qu'en 2017, selon un dispositif analogue au CICE. Dès lors, il était obligatoire de prévoir un mécanisme identique de reprise de ces allègements de charge dans le cadre des constructions tarifaires. Toutefois, dans un souci de soutenabilité pour les établissements privés à but non lucratif, les effets liés au CITS, dont ces établissements bénéficient à plein depuis 2017, n'ont été repris qu'à hauteur de 30 % en 2018 puis 50 % en 2019.
