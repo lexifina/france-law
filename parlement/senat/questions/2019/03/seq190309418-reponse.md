@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309418
+
+- Question : [SEQ190309418](seq190309418.md) — Évolution du tarif « livres et brochures » pour l'envoi de livres à l'étranger
+
+## Réponse
+
+*Culture, JO du 2019-08-29, page 4407*
+
+Le Gouvernement est attentif à la promotion de la culture française dans le monde, en particulier par la circulation de livres. Le ministère de la culture demeure vigilant quant aux évolutions récentes de l'offre « Livres et brochures » de La Poste, qui se situe hors du champ du service universel postal. Il peut être rappelé que ce service ne correspond pas à une obligation juridique imposée à La Poste, mais relève bien d'une offre commerciale libre. Presque inchangées depuis sa création en 2002, ses conditions ont fait l'objet, en 2017 puis en 2018, de plusieurs réajustements de la grille tarifaire, en raison du déficit financier croissant induit pour l'entreprise et du respect du droit de la concurrence. À ce jour cependant, l'offre « Livres et brochures » demeure relativement attractive pour les professionnels du livre. Ainsi, d'après les données de La Poste, la baisse du seuil maximum de 5 kilogrammes à 2 kilogrammes devrait concerner moins de 10 % du trafic sur cette offre, tandis que la moyenne des envois de livres et brochures s'établit à 850 grammes. Pour les envois supérieurs à 2 kilogrammes, l'entreprise propose soit, si cela est possible, de scinder les colis, soit des sacs spéciaux « Sacs de livres et brochures ». Le ministère de la culture continuera d'appeler le Groupe La Poste, ainsi que les entreprises concurrentes offrant des services commerciaux d'envois de livres vers l'étranger, à bien informer leurs clients sur leurs offres et à se montrer attentifs à la compétitivité des entreprises françaises du livre dans une économie mondiale très concurrentielle.
