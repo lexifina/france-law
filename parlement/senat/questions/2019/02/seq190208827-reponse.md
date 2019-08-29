@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208827
+
+- Question : [SEQ190208827](seq190208827.md) — Impayés des frais de restauration scolaire
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-08-29, page 4412*
+
+Les dispositions du code de la sécurité sociale, plus précisément celles de l'article L. 553-4, prévoient que si prestations familiales sont par principe incessibles et insaisissables, sauf pour le recouvrement des prestations indûment versées à la suite d'une manœuvre frauduleuse ou d'une fausse déclaration de l'allocataire, certaines prestations (l'allocation de base, la prestation partagée d'éducation de l'enfant, les allocations familiales, le complément familial, l'allocation de rentrée scolaire et l'allocation de soutien familial) peuvent toutefois être saisies pour le paiement des dettes alimentaires. La Cour de cassation a, dans plusieurs décisions des années 1980, jugé que les frais de cantines constituaient une dette alimentaire, et que l'absence de règlement par les parents pouvaient donner lieu à saisie –arrêt sur ces prestations par la commune gestionnaire, dans le respect du barème de recouvrement fixé par la réglementation. Les communes disposent donc déjà des moyens juridiques de faire face aux impayés de cantine scolaire par la mobilisation des prestations familiales lorsque les familles en bénéficient par ailleurs. Elles utilisent régulièrement cette procédure dite de saisie administrative à tiers détenteur, non seulement pour des dettes de cantine mais aussi pour des dettes de garde d'enfant, de transport scolaire, ou encore de colonies de vacances, par l'intermédiaire des trésoreries agissant pour leur compte qui saisissent le directeur comptable et financier de la caisse d'allocations familiales pour effectuer des retenues sur les prestations servies aux familles débitrices.
