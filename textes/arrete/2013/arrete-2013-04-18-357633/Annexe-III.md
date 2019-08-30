@@ -6,9 +6,9 @@ Catégorie de personnel |
 
 Affectation |
 
-Direction des finances publiques chargée de la paie
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paie sans ordonnancement préalable |
 
 Personnel civil mis à disposition de la Fondation France libre, de la Mutuelle civile de la défense, de la Mutuelle nationale militaire, de la Présidence de la République, des services du Premier ministre et du Cercle national des armées |
 
@@ -66,13 +66,13 @@ Catégorie de personnel |
 
 Affectation |
 
-Direction des finances publiques chargée de la paie
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paie sans ordonnancement préalable |
 
 Personnel civil affecté hors administration centrale relevant du centre de gestion ministériel de Rennes |
 
-Calvados, Cher, Côtes-d'Armor,
+Calvados, Cher, Côtes d'Armor,
 
 Eure, Eure-et-Loir, Finistère,
 
@@ -138,6 +138,14 @@ Gironde |
 
 Ille-et-Vilaine |
 
+Catégorie de personnel |
+
+Affectation |
+
+Direction des finances publiques chargée
+
+de la paie sans ordonnancement préalable |
+
 Personnel civil agent non titulaire recruté au titre de la loi du 11 janvier 1984 affecté hors administration centrale dans un établissement du service de santé des armées et relevant du centre ministériel de gestion de Saint-Germain-en -Laye |
 
 Tous départements |
@@ -156,11 +164,7 @@ Ille-et-Vilaine |
 
 Personnel civil affecté hors administration centrale relevant du centre de gestion ministériel de Toulon |
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes,
-
-Aude, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Gard,
-
-Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse |
+Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Aude, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Gard, Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse |
 
 Gironde |
 
@@ -170,9 +174,7 @@ Paris |
 
 Personnel civil affecté hors administration centrale relevant du centre de gestion ministériel de Toulon par délégation du centre ministériel de gestion de Lyon |
 
-Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie,
-
-Haute-Savoie |
+Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
 
 Gironde |
 
@@ -216,6 +218,12 @@ Ain, Finistère, Morbihan |
 
 Ille-et-Vilaine |
 
+Officiers généraux d'administration centrale |
+
+Tous départements |
+
+Paris |
+
 Officiers généraux de 2e section effectuant des vacations |
 
 Tous départements |
@@ -248,10 +256,10 @@ Personnel à statut ouvrier hors administration centrale en poste à l'étranger
 
 Djibouti, Dakar |
 
-Paris à compter du 1er décembre 2018 |
+Paris |
 
 Personnels militaires de la direction générale de l'armement en poste à l'étranger |
 
 |
 
-Paris à compter du 1er décembre 2018 |
+Paris |

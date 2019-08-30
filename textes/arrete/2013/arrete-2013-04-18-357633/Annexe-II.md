@@ -2,7 +2,7 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A. - Ministère de l'Europe et des affaires étrangères
+A.-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
@@ -12,9 +12,9 @@ sans ordonnancement préalable |
 
 Personnels en fonctions sur le territoire national |
 
-Etranger |
+Étranger |
 
-B. - Ministère de la culture
+B.-Ministère de la culture
 
 Catégorie de personnel |
 
@@ -26,11 +26,11 @@ Personnels affectés dans les directions régionales des affaires culturelles |
 
 Paris |
 
-Personnels des Ecoles Normales Supérieures d'Architecture |
+Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C. - Ministère de l'agriculture et de l'alimentation
+C.-Ministère de l'agriculture et de l'alimentation
 
 Catégorie de personnels |
 
@@ -46,19 +46,15 @@ Personnels des services déconcentrés de métropole |
 
 Hauts-de-Seine |
 
-Personnels des services déconcentrés des collectivités d'outre-mer régies
-
-par l'article 73 de la Constitution hors Mayotte |
+Personnels des services déconcentrés des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
 Hauts-de-Seine |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel
-
-de gestion créé par arrêté du 2 août 2010 |
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 |
 
 Hauts-de-Seine |
 
-D. - Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
+D.-Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
 Académie |
 
@@ -72,9 +68,9 @@ Seine-Saint-Denis |
 
 Paris (enseignement du 1er et du 2nd degré) |
 
-E. - Ministère de l'économie et des finances et ministère de l'action et des comptes publics
+E.-Ministère de l'économie et des finances et ministère de l'action et des comptes publics
 
-1°) Direction générale de la concurrence de la consommation et de la répression des fraudes
+1° Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 Service ou catégorie de personnel |
 
@@ -82,9 +78,7 @@ Direction des finances publiques chargée de la paye
 
 sans ordonnancement préalable |
 
-Services déconcentrés de métropole et des collectivités d'outre-mer régies
-
-par l'article 73 de la Constitution hors Mayotte |
+Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
 Hauts-de-Seine |
 
@@ -92,7 +86,7 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-2°) Direction générale des douanes et droits indirects
+2° Direction générale des douanes et droits indirects
 
 Service ou catégorie de personnel |
 
@@ -152,15 +146,15 @@ Centre informatique des douanes d'Osny |
 
 Gironde |
 
-Ecole nationale des brigades des douanes de La Rochelle |
+École nationale des brigades des douanes de La Rochelle |
 
 Gironde |
 
-Ecole nationale des douanes de Rouen |
+École nationale des douanes de Rouen |
 
 Gironde |
 
-Ecole nationale des douanes de Tourcoing |
+École nationale des douanes de Tourcoing |
 
 Gironde |
 
@@ -174,15 +168,15 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-3°) Direction générale des finances publiques
+3° Direction générale des finances publiques
 
 Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable à compter du 1er janvier 2019 |
+de la paye sans ordonnancement préalable |
 
 Services centraux |
 
@@ -312,9 +306,9 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable à compter du 1er janvier 2019 |
+de la paye sans ordonnancement préalable |
 
 Corrèze |
 
@@ -340,7 +334,7 @@ Metz |
 
 Moselle |
 
-Côtes-d'Armor |
+Côtes d'Armor |
 
 Saint-Brieuc |
 
@@ -748,7 +742,7 @@ Tours |
 
 Indre-et-Loire |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Metz |
 
@@ -854,9 +848,9 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable à compter du 1er janvier 2019 |
+de la paye sans ordonnancement préalable |
 
 Direction nationale de vérification de situations fiscales (Pantin) |
 
@@ -864,19 +858,23 @@ Noisy-le-Grand |
 
 Paris |
 
-Direction des vérifications nationales et internationales (Pantin) |
+Direction des vérifications nationales
+
+et internationales (Pantin) |
 
 Noisy-le-Grand |
 
 Paris |
 
-Ecole nationale des finances publiques |
+École nationale des finances publiques |
 
 Noisy-le-Grand |
 
 Paris |
 
-Service d'appui aux ressources humaines (Noisy-le-Grand) |
+Service d'appui aux ressources humaines
+
+(Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
@@ -958,7 +956,9 @@ Noisy-le-Grand |
 
 Paris |
 
-Direction des créances spéciales du Trésor (Châtellerault) |
+Direction des créances spéciales du Trésor
+
+(Châtellerault) |
 
 Bordeaux |
 
@@ -968,17 +968,17 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable à compter du 1er janvier 2019 |
+de la paye sans ordonnancement préalable |
 
-Direction spécialisée des finances publiques pour l'Assistance publique-hôpitaux de Paris |
+Direction spécialisée des finances publiques pour l'Assistance publique-Hôpitaux de Paris |
 
 Noisy-le-Grand |
 
 Paris |
 
-Direction spécialisée des finances publiques pour l'Etranger (Nantes) |
+Direction spécialisée des finances publiques pour l'Étranger (Nantes) |
 
 Saint-Brieuc |
 
@@ -994,7 +994,7 @@ Directions de contrôle fiscal |
 
 Centre-Est (Lyon) |
 
-Saint-Etienne |
+Saint-Étienne |
 
 Isère |
 
@@ -1040,17 +1040,17 @@ Montpellier |
 
 Hérault |
 
-F. - Ministère de l'intérieur
+F.-Ministère de l'intérieur
 
-1°) Administration territoriale de l'Etat
+1° Administration territoriale de l'Etat
 
 Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1192,7 +1192,7 @@ Est (Metz) |
 
 Moselle |
 
-Côtes-d'Armor |
+Côtes d'Armor |
 
 Ouest (Rennes) |
 
@@ -1226,9 +1226,9 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Eure |
 
@@ -1608,7 +1608,7 @@ Est (Metz) |
 
 Moselle |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Est (Metz) |
 
@@ -1668,15 +1668,17 @@ La Réunion |
 
 La Réunion |
 
-2°) Direction générale de la police nationale
+2° Direction générale de la police nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1714,13 +1716,15 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Personnels du corps de commandement de la police nationale en poste en Île-de-France |
 
@@ -1770,15 +1774,17 @@ La Réunion |
 
 La Réunion |
 
-3°) Personnels civils de la direction générale de la gendarmerie nationale
+3° Personnels civils de la direction générale de la gendarmerie nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1822,13 +1828,15 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
+
+ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée
 
-sans ordonnancement préalable |
+de la paye sans ordonnancement préalable |
 
 Guadeloupe |
 
@@ -1854,7 +1862,7 @@ La Réunion |
 
 La Réunion |
 
-4°) Autres
+4° Autres
 
 Service ou catégorie de personnel |
 
@@ -1878,7 +1886,7 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G. - Services du Premier ministre - Juridictions administratives et financières
+G.-Services du Premier ministre-Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
@@ -1898,7 +1906,7 @@ Chambres régionales des comptes |
 
 Paris |
 
-H. - Ministère de la transition écologique et solidaire
+H.-Ministère de la transition écologique et solidaire
 
 Service ou catégorie de personnel |
 
@@ -1914,17 +1922,17 @@ Corps des attachés d'administration hors réseau scientifique |
 
 Paris |
 
-Corps des ingénieurs des travaux publics de l'Etat hors réseau scientifique |
+Corps des ingénieurs des travaux publics de l'État hors réseau scientifique |
 
 Val-de-Marne |
 
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique - Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
+Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'État, lieutenants de port, adjoints techniques des administrations de l'État, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
 
 Val-de-Marne |
 
-Corps des dessinateurs de l'équipement |
+Membres du corps des dessinateurs de l'équipement en poste dans les services déconcentrés de métropole et dans les collectivités d'outre-mer régies par l'article 73 de la Constitution |
 
-Val-de-Marne à compter du 1er mars 2019 |
+Val-de-Marne |
 
 Personnels de catégorie B et C ou à statut ouvrier affectés à la direction interrégionale de la mer Manche Est Mer du Nord |
 
@@ -1934,9 +1942,9 @@ Personnels de catégorie B et C ou à statut ouvrier affectés à la direction r
 
 Puy-de-Dôme |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du Territoire de Belfort |
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du territoire-de-Belfort |
 
-Côte-d'Or |
+Côte d'Or |
 
 Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin |
 
@@ -1988,7 +1996,7 @@ Haute-Vienne |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Doubs |
 
-Côte-d'Or |
+Côte d'Or |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Gard |
 
@@ -2000,7 +2008,7 @@ Haute-Garonne |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Jura |
 
-Côte-d'Or |
+Côte d'Or |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire |
 
@@ -2044,7 +2052,7 @@ Moselle |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône |
 
-Côte-d'Or |
+Côte d'Or |
 
 Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres |
 
@@ -2054,9 +2062,9 @@ Personnels de catégorie B et C affectés à la préfecture et dans les directio
 
 Haute-Vienne |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Territoire de Belfort |
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Territoire-de-Belfort |
 
-Côte-d'Or |
+Côte d'Or |
 
 Personnels de catégorie B et C ou à statut ouvrier en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution |
 
@@ -2078,7 +2086,7 @@ Direction interdépartementale des routes Nord |
 
 Somme |
 
-Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin |
+École nationale des travaux publics de l'État de Vaulx-en-Velin |
 
 Val-de-Marne |
 
@@ -2086,7 +2094,11 @@ Service Technique des Remontées Mécaniques et des Transports Guidés de Grenob
 
 Rhône |
 
-I. - Ministère des solidarités et de la santé et ministère des sports
+Centre national de réception des véhicules de Montlhéry |
+
+Val-de-Marne |
+
+I-Ministère des solidarités et de la santé et ministère des sports
 
 Service |
 
@@ -2104,21 +2116,39 @@ Paris |
 
 Direction de la jeunesse, des sports et de la cohésion sociale de Guadeloupe |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
 Direction de la jeunesse, des sports et de la cohésion sociale de Guyane |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
 Direction de la jeunesse, des sports et de la cohésion sociale de Martinique |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
+
+Service |
+
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Direction de la jeunesse, des sports et de la cohésion sociale de La Réunion |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
-J. - Ministère du travail
+Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE) affectés aux Directions de la jeunesse, des sports et de la cohésion sociale de Guadeloupe |
+
+Paris |
+
+Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE)) affectés à la Direction de la jeunesse, des sports et de la cohésion sociale de Guyane |
+
+Paris |
+
+Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE)) affectés à la Direction de la jeunesse, des sports et de la cohésion sociale de Martinique |
+
+Paris |
+
+J.-Ministère du travail
 
 Service |
 
@@ -2136,16 +2166,16 @@ Paris |
 
 Direction des entreprises, de la concurrence, de la consommation et de l'emploi de Guadeloupe |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
 Direction des entreprises, de la concurrence, de la consommation et de l'emploi de Guyane |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
 Direction des entreprises, de la concurrence, de la consommation et de l'emploi de Martinique |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
 
 Direction des entreprises, de la concurrence, de la consommation et de l'emploi de La Réunion |
 
-Seine-Saint-Denis à compter du 1er juillet 2019 |
+Seine-Saint-Denis |
