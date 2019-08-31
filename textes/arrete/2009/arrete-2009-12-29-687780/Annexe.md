@@ -14,7 +14,7 @@ Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement e
 
 Campylobacter spp. |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Microbiologie des coquillages |
 
@@ -58,7 +58,7 @@ ANSES-Laboratoire de Fougères |
 
 Salmonella spp. |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Staphylocoques à coagulase positive,
 
@@ -112,13 +112,17 @@ Eléments traces métalliques dans les denrées alimentaires d'origine animale (
 
 ANSES-Laboratoire de sécurité des aliments-Site de Maisons-Alfort |
 
-Eléments traces métalliques dans les denrées alimentaires d'origine végétale |
+Eléments traces métalliques et composés azotés dans les denrées alimentaires d'origine végétale |
 
 Service commun des laboratoires-Laboratoire de Bordeaux Pessac |
 
-Eléments traces métalliques dans les aliments pour animaux |
+Eléments traces métalliques et composés azotés dans les aliments pour animaux |
 
 Service commun des laboratoires-Laboratoire de Rennes |
+
+Composés azotés dans les denrées alimentaires d'origine animale (groupe B3c selon l'annexe I de la directive 96/23/ CE du Conseil) |
+
+Service commun des laboratoires-Laboratoire de Montpellier |
 
 Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a sauf PCB et dioxines et B3b selon l'annexe I de la directive 96/23/ CE du Conseil) |
 
@@ -164,7 +168,7 @@ ANSES-Laboratoire de santé animale-Site de Dozulé |
 
 Botulisme aviaire |
 
-ANSES-Laboratoire de Ploufragan/ Plouzané-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-site de Ploufragan |
 
 Brucelloses animales
 
@@ -175,6 +179,10 @@ ANSES-Laboratoire de santé animale-Site de Maisons-Alfort |
 Chlamydiose aviaire |
 
 ANSES-Laboratoire de santé animale-Site de Maisons-Alfort |
+
+Diarrhée virale bovine (BVD) |
+
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Niort |
 
 Dourine |
 
@@ -218,11 +226,11 @@ ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Niort |
 
 Influenza aviaire |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Influenza porcin |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Leucose bovine enzootique |
 
@@ -230,7 +238,7 @@ ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Niort |
 
 Maladie d'Aujeszky |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Maladie hémorragique épizootique du cerf |
 
@@ -242,11 +250,15 @@ IFREMER-Laboratoire de génétique et pathologie des mollusques marins-La Trembl
 
 Maladie de Newcastle |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Maladie vésiculeuse des suidés |
 
 ANSES-Laboratoire de santé animale-Site de Maisons-Alfort |
+
+Maladies réglementées des poissons |
+
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Plouzané |
 
 Métrite contagieuse des équidés |
 
@@ -258,11 +270,7 @@ ANSES-Laboratoire de santé animale-Site de Maisons-Alfort |
 
 Mycoplasmoses aviaires |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
-
-Maladies réglementées des poissons |
-
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Peste bovine |
 
@@ -278,11 +286,11 @@ CIRAD-Montpellier |
 
 Peste porcine africaine |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Peste porcine classique |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Poxvirus des ruminants,
 
@@ -302,7 +310,7 @@ ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Niort |
 
 Salmonelloses aviaires |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan/ Plouzané |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Santé des abeilles |
 
@@ -406,7 +414,7 @@ ANSES-Laboratoire de la santé des végétaux
 
 Unité mycologie-Station de Malzéville (près de Nancy) |
 
-Champignons sensu stricto, ainsi que les organismes généralement assimilés (i. e. Oomycètes, Plasmodiophoromycètes).
+Champignons sensu stricto, ainsi que les organismes généralement assimilés (i. e. Oomycètes, Plasmodiophoromycètes)
 
 Nématodes phytopathogènes
 
