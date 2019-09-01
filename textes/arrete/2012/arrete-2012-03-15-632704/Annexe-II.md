@@ -33,3 +33,27 @@ Titulaires d'emplois de direction de l'administration territoriale de l'Etat iss
 (décret n° 2009-360 du 31 mars 2009 modifié).
 
 |
+
+Direction générale du Trésor : services centraux, à compétence nationale, déconcentrés et à l'étranger.
+
+|
+
+Attachés économiques
+
+(décret n° 97-511 modifié du 21 mai 1997 modifié).
+
+Conseillers économiques
+
+(décret n° 2004-1260 du 25 novembre 2004). |
+
+Ministres conseillers pour les affaires économiques
+
+(décret n° 2004-1259 du 25 novembre 2004).
+
+Contractuels en service à l'étranger
+
+(décret n° 69-697 du 18 juin 1969 modifié).
+
+Volontaires internationaux en administration
+
+(articles L. 122-1 et suivants du code du service national). |
