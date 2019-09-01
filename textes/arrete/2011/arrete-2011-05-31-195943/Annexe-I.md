@@ -30,7 +30,9 @@ En cas de perte, tout duplicata de carnet :
 
 Carnet de prélèvement
 
-Le carnet doit permettre l'enregistrement de chaque bécasse prélevée au moyen de l'identification :
+Le carnet doit permettre :
+
+― l'enregistrement de chaque bécasse prélevée au moyen de l'identification :
 
 1° De chaque oiseau avec le numéro unique du carnet du chasseur ayant réalisé le prélèvement ;
 
