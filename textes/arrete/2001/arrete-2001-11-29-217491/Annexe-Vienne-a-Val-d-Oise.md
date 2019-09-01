@@ -736,139 +736,73 @@ B
 
 Direction départementale des territoires du Val-d'Oise
 
-FONCTIONS EXERCÉES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Chef du service de l'habitat, de la rénovation urbaine et du bâtiment |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
+50 |
 
-|
+Adjoint au chef du service de l'habitat, de la rénovation urbaine et du bâtiment |
 
-Responsable du service de l'habitat, de la rénovation urbaine et du bâtiment
+A |
 
-|
+1 |
 
-A
+50 |
 
-|
+Responsable du pôle rénovation urbaine |
 
-1
+A |
 
-|
+1 |
 
-50 points
+50 |
 
-|
+Responsable du pôle parc social |
 
-Adjoint au responsable du service de l'habitat, de la rénovation urbaine et du bâtiment
+A |
 
-|
+1 |
 
-A
+50 |
 
-|
+Chargé de mission-Pôle rénovation urbaine |
 
-1
+B |
 
-|
+2 |
 
-50 points
+30 |
 
-|
+Chargé d'études rénovation urbaine-Pôle rénovation urbaine |
 
-Adjoint au responsable du service de l'habitat, de la rénovation urbaine et du bâtiment, en charge de la rénovation urbaine
+B |
 
-|
+2 |
 
-A
+30 |
 
-|
+Chargé d'études rénovation urbaine, Taxes foncières sur les propriétés bâties (TFPB)-Pôle rénovation urbaine |
 
-1
+B |
 
-|
+1 |
 
-50 points
-
-|
-
-Responsable du pôle parc social
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-Chargé de mission au pôle rénovation urbaine
-
-|
-
-B
-
-|
-
-2
-
-|
-
-30 points
-
-|
-
-Chargé d'études référent rénovation urbaine au pôle rénovation urbaine
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Instructeur des dossiers hébergement, résidences sociales et opérations ANRU au pôle parc social
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
+30 |
 
 NOTA :
 
