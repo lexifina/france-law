@@ -1,6 +1,6 @@
-# Article Annexe II à l'article R353-127
+# Article Annexe II à l'article D353-127
 
-Annexe de l'article 2 de l'annexe I à l'article R. 353-127.
+Annexe de l'article 2 de l'annexe I à l'article D. 353-127.
 
 1. Locaux visés par la présente convention.
 

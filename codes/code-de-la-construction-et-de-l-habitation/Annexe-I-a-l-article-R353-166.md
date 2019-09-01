@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R353-166
+# Article Annexe I à l'article D353-166
 
 Le préfet de ... agissant au nom de l'Etat et ... (personne physique identifiée conformément aux dispositions de l'article 5 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière) dénommé ci-après le bailleur sont convenus de ce qui suit :
 

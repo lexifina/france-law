@@ -26,7 +26,7 @@ Objet de la convention
 
 La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles R. 353-154 à R. 353-165 du code de la construction et de l'habitation, pour le logement-foyer de [nom et adresse de l'établissement] dont le programme est annexé à la présente convention.
 
-La signature de la présente convention conditionne pendant sa durée l'ouverture du droit à l'aide personnalisée au logement (APL) dans les conditions définies au livre III du titre V du code de la construction et de l'habitation et de ses textes d'application.
+La signature de la présente convention conditionne pendant sa durée l'ouverture du droit à l'aide personnalisée au logement (APL) dans les conditions définies au livre VIII du code de la construction et de l'habitation et de ses textes d'application.
 
 Si la présente convention est signée par un établissement public de coopération intercommunale ou un département signataire d'une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, le président de l'établissement public de coopération intercommunale ou le président du conseil général adresse au préfet une copie de la convention ouvrant droit à l'APL.
 
@@ -88,7 +88,7 @@ Les modalités de gestion de ces réservations sont les suivantes :
 
 Les modalités de choix des personnes accueillies sont les suivantes :
 
-Le gestionnaire s'engage à ce qu'au moins 75 % des ménages entrant dans les lieux disposent de ressources annuelles n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions du II de l'article R. 331-1 du code de la construction et de l'habitation.
+Le gestionnaire s'engage à ce qu'au moins 75 % des ménages entrant dans les lieux disposent de ressources annuelles n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions du II de l'article D. 331-1 du code de la construction et de l'habitation.
 
 L'annexe II précise ces engagements ainsi que l'ensemble des actions menées au bénéfice des résidents.
 
@@ -148,9 +148,9 @@ Article 7
 
 Dispositions spécifiques en cas d'impayés pour un bénéficiaire de l'aide personnalisée au logement (APL)
 
-En application de l'article R. 351-64 du code de la construction et de l'habitation, lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à l'organisme mentionné à l'article L. 351-14 du code de la construction et de l'habitation et, le cas échéant, à la commission spécialisée de coordination des actions de prévention des expulsions locatives par le gestionnaire percevant l'APL pour son compte.
+En application de l'article R. 824-31 du code de la construction et de l'habitation, lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et, le cas échéant, à la commission spécialisée de coordination des actions de prévention des expulsions locatives par le gestionnaire percevant l'APL pour son compte.
 
-Le gestionnaire s'engage à poursuivre par tous les moyens le recouvrement de sa créance, dès lors qu'un impayé est constitué au sens de l'article R. 351-64 cité ci-dessus, en lui notifiant, par lettre recommandée avec accusé de réception, le montant de cette créance ainsi que les conditions de résiliation du contrat d'occupation et le risque de suspension du versement de l'APL ; cette suspension ne peut intervenir que sur décision de l'organisme mentionné à l'article L. 351-14 du code de la construction et de l'habitation et après avis de la commission spécialisée de coordination précitée.
+Le gestionnaire s'engage à poursuivre par tous les moyens le recouvrement de sa créance, dès lors qu'un impayé est constitué au sens de l'article R. 824-31 cité ci-dessus, en lui notifiant, par lettre recommandée avec accusé de réception, le montant de cette créance ainsi que les conditions de résiliation du contrat d'occupation et le risque de suspension du versement de l'APL ; cette suspension ne peut intervenir que sur décision de l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et après avis de la commission spécialisée de coordination précitée.
 
 Article 8
 
@@ -288,9 +288,9 @@ Avant le 15 novembre de chaque année, le gestionnaire s'engage à adresser aux 
 
 Il s'engage à prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes payeurs afin de faciliter l'établissement et le dépôt des dossiers de demande d'APL. Il s'engage à signaler immédiatement tout départ du résident bénéficiant de l'APL à l'organisme payeur concerné.
 
-Le gestionnaire s'engage à fournir à l'organisme payeur concerné toutes justifications concernant le paiement de la redevance. En cas d'impayé constitué au sens de l'article 7, il en avise immédiatement l'organisme payeur, l'organisme mentionné à l'article L. 351-14 du code de la construction et de l'habitation et, le cas échéant, la commission spécialisée de coordination des actions de prévention des expulsions locatives en indiquant les démarches entreprises auprès du résident défaillant.
+Le gestionnaire s'engage à fournir à l'organisme payeur concerné toutes justifications concernant le paiement de la redevance. En cas d'impayé constitué au sens de l'article 7, il en avise immédiatement l'organisme payeur, l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et, le cas échéant, la commission spécialisée de coordination des actions de prévention des expulsions locatives en indiquant les démarches entreprises auprès du résident défaillant.
 
-Avant le 15 novembre de chaque année, le gestionnaire s'engage à fournir aux organismes liquidateurs la liste des bénéficiaires non à jour de leurs obligations, en indiquant la date à laquelle l'organisme mentionné à l'article L. 351-14 du code de la construction et de l'habitation et la commission spécialisée de coordination des actions de prévention des expulsions locatives ont été saisis et en certifiant que la liste fournie est exhaustive ou que, le cas échéant, tous les bénéficiaires sont à jour.
+Avant le 15 novembre de chaque année, le gestionnaire s'engage à fournir aux organismes liquidateurs la liste des bénéficiaires non à jour de leurs obligations, en indiquant la date à laquelle l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et la commission spécialisée de coordination des actions de prévention des expulsions locatives ont été saisis et en certifiant que la liste fournie est exhaustive ou que, le cas échéant, tous les bénéficiaires sont à jour.
 
 Article 17
 
@@ -298,7 +298,7 @@ Résiliation de la convention
 
 En cas d'inexécution par le gestionnaire de ses engagements contractuels, l'administration, après mise en demeure par lettre recommandée avec avis de réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la résiliation de la présente convention.
 
-Il sera fait application des dispositions prévues à l'article R. 353-174 du code de la construction et de l'habitation. Pour les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée par la convention, diminuée de l'APL, prise en charge désormais par le gestionnaire.
+Il sera fait application des dispositions prévues à l'article D. 353-174 du code de la construction et de l'habitation. Pour les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée par la convention, diminuée de l'APL, prise en charge désormais par le gestionnaire.
 
 La résiliation par l'Etat, dans les conditions prévues à l'article L. 353-6, de la convention ouvrant le droit à l'aide personnalisée au logement est, sous réserve du respect par l'occupant des obligations prévues par le contrat de location, sans incidence sur les stipulations de ce contrat. Toutefois, à compter de la date à laquelle la résiliation est devenue définitive, l'aide personnalisée au logement n'est plus versée et la redevance exigible déterminée dans les conditions fixées par la convention est diminuée du montant de l'aide qui aurait été due au contrat des logements, prise en charge par le bailleur.
 
@@ -344,13 +344,13 @@ II.-Nature du programme conventionné :
 
 [Rayer la mention inutile]
 
-Variante 1 : programme existant dont la construction a été financée dans les conditions du 1° de l'article R. 351-56 du code de la construction et de l'habitation.
+Variante 1 : programme existant dont la construction a été financée dans les conditions du 1° de l'article R. 832-21 du code de la construction et de l'habitation.
 
-Variante 2 : programme existant dont l'amélioration ou l'acquisition suivie d'une amélioration est financée dans les conditions prévues au 2° de l'article R. 351-56 du code de la construction et de l'habitation.
+Variante 2 : programme existant dont l'amélioration ou l'acquisition suivie d'une amélioration est financée dans les conditions prévues au 2° de l'article R. 832-21 du code de la construction et de l'habitation.
 
 Description du programme des travaux :
 
-Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 351-56 du code de la construction et de l'habitation.
+Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 832-21 du code de la construction et de l'habitation.
 
 III.-Composition du programme :
 

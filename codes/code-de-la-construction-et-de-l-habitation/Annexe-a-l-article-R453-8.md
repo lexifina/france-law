@@ -1,4 +1,4 @@
-# Article Annexe à l'article R453-8
+# Article Annexe à l'article D453-8
 
 Titre Ier : Encours de production en accession à la propriété et fonds propres venant en couverture de l'activité de vente.
 

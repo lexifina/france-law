@@ -1,4 +1,4 @@
-# Article Annexe III à l'article R353-166
+# Article Annexe III à l'article D353-166
 
 Article 1er.
 
@@ -10,7 +10,7 @@ Article 2.
 
 Le logement doit être loué nu à des personnes physiques à titre de résidence principale et occupé au moins huit mois par an. Il ne peut faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
 
-Le logement est loué à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-42 du code de la construction et de l'habitation.
+Le logement est loué à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article D. 331-42 du code de la construction et de l'habitation.
 
 Article 3.
 

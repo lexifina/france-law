@@ -1,4 +1,4 @@
-# Article Annexe II à l'article R353-59
+# Article Annexe II à l'article D353-59
 
 Description de l'opération de ....
 
@@ -12,9 +12,9 @@ A. - Locaux auxquels s'applique la présente convention.
 
 1. Nombre des logements locatifs par type de logement avec numéro des logements :
 
-1.1. Nombre de logements réservés à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article R. 331-12 pour l'attribution des logements sociaux (art. 7 de la convention).
+1.1. Nombre de logements réservés à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article D. 331-12 pour l'attribution des logements sociaux (art. 7 de la convention).
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article R. 331-12 pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (art. 7 de la convention).
+1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article D. 331-12 pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (art. 7 de la convention).
 
 2. Surface habitable :
 
@@ -56,7 +56,7 @@ Date d'achèvement de la construction ou certificat de conformité :
 
 Fait à ..., le ....
 
-Lorsque la convention fixe le loyer maximum de chaque logement en application du 1° et du 2° de l'article R. 353-16, les dispositions du 3 du document prévu par l'article 1er à la présente convention et relatives à la composition de l'opération sont remplacées par les dispositions suivantes :
+Lorsque la convention fixe le loyer maximum de chaque logement en application du 1° et du 2° de l'article D. 353-16, les dispositions du 3 du document prévu par l'article 1er à la présente convention et relatives à la composition de l'opération sont remplacées par les dispositions suivantes :
 
 Composition de l'opération.
 
@@ -66,23 +66,23 @@ A. - Locaux auxquels s'applique la présente convention.
 
 1. Nombre des logements locatifs par type de logements avec numéro des logements :
 
-1.1. Nombre de logements réservés à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article R. 331-12 pour l'attribution des logements sociaux (art. 7 de la convention) :
+1.1. Nombre de logements réservés à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article D. 331-12 pour l'attribution des logements sociaux (art. 7 de la convention) :
 
 - nombre de logements prévus au premier alinéa du III a de l'article 7,
 
 - nombre de logements prévus au second alinéa du III a de l'article 7.
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article R. 331-12 pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (art. 7 de la convention).
+1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article D. 331-12 pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (art. 7 de la convention).
 
 1 bis. Surface utile :
 
 2. Surface habitable totale (art. R. 111-2) :
 
-3. Surface totale des annexes entrant dans le calcul de la surface utile (art. R. 353-16 (2°)) :
+3. Surface totale des annexes entrant dans le calcul de la surface utile (art. D. 353-16 (2°)) :
 
-3 bis. Liste de ces annexes, conforme à l'arrêté modifié du 9 mai 1995 du ministre du logement pris en application de l'article R. 353-16 :
+3 bis. Liste de ces annexes, conforme à l'arrêté modifié du 9 mai 1995 du ministre du logement pris en application de l'article D. 353-16 :
 
-4. Surface totale utile de l'opération (art. R. 353-16 (2°)) :
+4. Surface totale utile de l'opération (art. D. 353-16 (2°)) :
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 
@@ -106,7 +106,7 @@ Loyer maximum du logement (col. 7) (col. 4 (a), col. 5 (a), col. 6 (a))
 
 Ce sont les annexes ou parties d'annexes qui n'entrent pas dans le calcul de la surface utile, soit : les emplacements réservés au stationnement des véhicules, les terrasses, cours et jardins, faisant l'objet d'une jouissance exclusive.
 
-Type d'annexe définie à l'article R. 353-16, dernier alinéa du 2°
+Type d'annexe définie à l'article D. 353-16, dernier alinéa du 2°
 
 Loyer maximum conventionné de l'annexe en euros par mois.
 

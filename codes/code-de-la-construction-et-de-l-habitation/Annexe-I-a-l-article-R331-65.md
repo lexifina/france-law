@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R331-65
+# Article Annexe I à l'article D331-65
 
 Entre le Crédit foncier de France agissant pour le compte de l'Etat et représenté par...,
 
@@ -14,7 +14,7 @@ Article 1er.
 
 Habilitation de l'organisme prêteur à consentir des prêts conventionnés.
 
-En application de l'article R. 331-65 du code précité, la présente convention habilite l'organisme prêteur à consentir des prêts conventionnés.
+En application de l'article D. 331-65 du code précité, la présente convention habilite l'organisme prêteur à consentir des prêts conventionnés.
 
 L'organisme prêteur s'engage à consentir des prêts conventionnés dans les conditions prévues par la réglementation en vigueur et par la présente convention.
 
@@ -22,13 +22,13 @@ Article 2.
 
 Objet.
 
-Les prêts conventionnés peuvent être accordés pour financer les opérations visées à l'article R. 331-63 du code précité.
+Les prêts conventionnés peuvent être accordés pour financer les opérations visées à l'article D. 331-63 du code précité.
 
 Article 3.
 
 Bénéficiaires.
 
-Les prêts conventionnés sont consentis aux personnes visées aux articles R. 331-66 et R. 331-67 du code précité qui offrent des garanties, et une solvabilité suffisantes.
+Les prêts conventionnés sont consentis aux personnes visées aux articles D. 331-66 et D. 331-67 du code précité qui offrent des garanties, et une solvabilité suffisantes.
 
 L'organisme prêteur s'engage à proposer en permanence ces prêts aux candidats emprunteurs qui, à la date de leur demande de prêt, remplissent, outre les conditions visées au premier alinéa, celles requises pour bénéficier de l'aide personnalisée au logement (A. P. L.) prévue par le livre III, titre V, du code précité (1re et 2e parties).
 
@@ -80,9 +80,9 @@ Article 8.
 
 Conditions de taux d'intérêt et de remboursement.
 
-Parmi les barèmes de prêts conventionnés, l'organisme prêteur doit prévoir des formules de prêts à taux fixe ou progressif qui doivent être assortis, conformément aux prescriptions de l'article R. 331-72 du code précité, d'annuités progressives.
+Parmi les barèmes de prêts conventionnés, l'organisme prêteur doit prévoir des formules de prêts à taux fixe ou progressif qui doivent être assortis, conformément aux prescriptions de l'article D. 331-72 du code précité, d'annuités progressives.
 
-En outre, l'organisme prêteur peut proposer des prêts à taux fixe et à annuités constantes ainsi que des prêts à taux révisable, ces derniers devant être consentis aux conditions prévues à l'article R. 331-74 du code précité. La révisabilité du taux est déclenchée par l'évolution d'un ou plusieurs index (Index à choisir par l'organisme prêteur sur la liste ci-après :
+En outre, l'organisme prêteur peut proposer des prêts à taux fixe et à annuités constantes ainsi que des prêts à taux révisable, ces derniers devant être consentis aux conditions prévues à l'article D. 331-74 du code précité. La révisabilité du taux est déclenchée par l'évolution d'un ou plusieurs index (Index à choisir par l'organisme prêteur sur la liste ci-après :
 
 Taux de base bancaire ;
 
@@ -114,9 +114,9 @@ Article 8 bis.
 
 1° Les prêts conventionnés à annuité progressive consentis avant le 31 décembre 1983 peuvent, par convention entre les parties, être aménagés et leur durée initiale prolongée :
 
-jusqu'à vingt-cinq ans au maximum dans le cas d'opérations prévues aux 1° et 3° de l'article R. 331-63 du code susvisé ;
+jusqu'à vingt-cinq ans au maximum dans le cas d'opérations prévues aux 1° et 3° de l'article D. 331-63 du code susvisé ;
 
-jusqu'à quinze ans au maximum dans le cas d'opérations prévues aux 2° et 4° de l'article R. 331-63 du même code.
+jusqu'à quinze ans au maximum dans le cas d'opérations prévues aux 2° et 4° de l'article D. 331-63 du même code.
 
 Cette faculté est subordonnée à la condition que le taux effectif global du prêt initialement fixé ne soit pas augmenté.
 

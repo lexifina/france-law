@@ -1,8 +1,8 @@
-# Article Annexe I à l'article R353-90
+# Article Annexe I à l'article D353-90
 
-Convention type conclue entre l'Etat et … (1) en application de l' article L. 351-2 (3°) du code de la construction et de l'habitation pour le programme de... (2)
+Convention type conclue entre l'Etat et … (1) en application des articles L. 353-1 et L. 831-1 (3°) du code de la construction et de l'habitation pour le programme de... (2)
 
-Le ministre chargé du logement, agissant au nom de l'Etat et représenté par le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l' article L. 301-5-2 du code de la construction et de l'habitation , ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales , par le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
+Le ministre chargé du logement, agissant au nom de l'Etat et représenté par le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, par le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
 
 d'une part,
 
@@ -18,23 +18,23 @@ Article 1er
 
 Objet de la convention.
 
-1.1. Cas d'une opération de construction de logements bénéficiant du taux de T. V. A. réduit mentionné au I de l'article 278 sexies du code général des impôts .
+1.1. Cas d'une opération de construction de logements bénéficiant du taux de T. V. A. réduit mentionné au I de l'article 278 sexies du code général des impôts.
 
-La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L. 353-12, L. 353-20 et L. 353-21 du code de la construction et de l'habitation pour le programme de … décrit plus précisément dans le document joint à la présente convention, faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation, pour la construction de logements à usage locatif.
+La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L. 353-12, L. 353-20 et L. 353-21 du code de la construction et de l'habitation pour le programme de … décrit plus précisément dans le document joint à la présente convention, faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles D. 331-3 et D. 331-6 du code de la construction et de l'habitation, pour la construction de logements à usage locatif.
 
 1.2. Cas d'une opération d'acquisition de logements bénéficiant du taux de TVA réduit mentionné au 3 du I de l'article 278 sexies du code général des impôts par un bailleur autre qu'un organisme d'habitations à loyer modéré ou qu'une société d'économie mixte.
 
-La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L. 353-12, L. 353-20 et L. 353-21 du code de la construction et de l'habitation pour le programme de … décrit plus précisément dans le document joint à la présente convention, ayant fait l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.
+La présente convention a pour objet de fixer les droits et les obligations des parties prévus par les articles L. 353-1 à L. 353-12, L. 353-20 et L. 353-21 du code de la construction et de l'habitation pour le programme de … décrit plus précisément dans le document joint à la présente convention, ayant fait l'objet d'une décision favorable prise dans les conditions prévues aux articles D. 331-3 et D. 331-6 du code de la construction et de l'habitation.
 
 La présente convention est conclue à l'occasion de l'acquisition d'un ou plusieurs logements construits dans les conditions de l'alinéa ci-dessus et dont la vente est soumise à la TVA dans les conditions du 3 du I de l'article 278 sexies du code général des impôts. Elle reprend les droits et obligations fixés dans la convention n° … signée le … et publiée le … entre … et … pour le programme de...
 
 En particulier, le loyer maximum du ou des logements, révisé dans les conditions de la convention passée avec le précédent propriétaire, est inchangé.
 
-La présente convention ouvre, pendant sa durée, le droit à l'aide personnalisée au logement (APL) dans les conditions définies par le titre V du livre III du code de la construction et de l'habitation.
+La présente convention ouvre, pendant sa durée, le droit à l'aide personnalisée au logement (APL) dans les conditions définies par le livre VIII du code de la construction et de l'habitation.
 
 1.3. Vente des logements bénéficiant du taux réduit de TVA mentionné au 3 du I de l'article 278 sexies du code général des impôts.
 
-Lors de la vente à un bailleur par le constructeur d'un logement bénéficiant du taux réduit de TVA, une nouvelle convention entre l'Etat et l'acquéreur sera signée, du type de la présente convention. Toutefois, conformément à l' article R. 353-1 du code de la construction et de l'habitation , si cet acquéreur est un organisme d'habitations à loyer modéré, la convention signée sera conforme à l'annexe I à cet article ; conformément à l' article R. 353-59 du code de la construction et de l'habitation , si cet acquéreur est une société d'économie mixte, la convention signée sera conforme à l'annexe à cet article.
+Lors de la vente à un bailleur par le constructeur d'un logement bénéficiant du taux réduit de TVA, une nouvelle convention entre l'Etat et l'acquéreur sera signée, du type de la présente convention. Toutefois, conformément à l'article D. 353-1 du code de la construction et de l'habitation, si cet acquéreur est un organisme d'habitations à loyer modéré, la convention signée sera conforme à l'annexe I à cet article ; conformément à l'article D. 353-59 du code de la construction et de l'habitation, si cet acquéreur est une société d'économie mixte, la convention signée sera conforme à l'annexe à cet article.
 
 Article 2
 
@@ -60,7 +60,7 @@ Lors de la vente de chaque logement bénéficiant de ce taux réduit de TVA par 
 
 3.2. Autres mutations.
 
-Pour les mutations autres que celles citées à l'article 3.1, la présente convention est transférée de plein droit aux propriétaires successifs du ou des logements en application de l' article L. 353-4 du code de la construction et de l'habitation . Le changement de propriétaire donne lieu à la signature d'un avenant.
+Pour les mutations autres que celles citées à l'article 3.1, la présente convention est transférée de plein droit aux propriétaires successifs du ou des logements en application de l'article L. 353-4 du code de la construction et de l'habitation. Le changement de propriétaire donne lieu à la signature d'un avenant.
 
 3.3. Publicité des mutations.
 
@@ -70,13 +70,13 @@ Article 4
 
 Régime des rapports locatifs applicables aux logements conventionnés.
 
-Les logements objets de la présente convention sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 , dans les conditions prévues par le III de son article 40 et le cas échéant le VIII du même article, aux dispositions du code de la construction et de l'habitation et aux stipulations de la présente convention.
+Les logements objets de la présente convention sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, dans les conditions prévues par le III de son article 40 et le cas échéant le VIII du même article, aux dispositions du code de la construction et de l'habitation et aux stipulations de la présente convention.
 
 Article 5
 
 Aide personnalisée au logement (APL).
 
-Le bénéfice de l'APL est ouvert ou modifié respectivement à compter de la date d'effet de la convention ou de ses avenants conformément aux articles L. 351-3-1 et R. 351-3 du code de la construction et de l'habitation.
+Le bénéfice de l'APL est ouvert ou modifié respectivement à compter de la date d'effet de la convention ou de ses avenants conformément aux articles R. 823-10 à R. 823-14, R. 831-2 et R. 831-3 du code de la construction et de l'habitation.
 
 II.-Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de location des logements.
 
@@ -98,17 +98,17 @@ Les logements sont loués non meublés à des personnes physiques, à titre de r
 
 Ils ne peuvent être loués ou occupés à quelque titre que ce soit ni par les ascendants ou les descendants, ni par ceux du conjoint, ni par le conjoint du signataire de la convention.
 
-Les logements libres de toute occupation sont loués à des ménages dont les ressources annuelles n'excèdent pas les plafonds de ressources prévus à l' article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux.
+Les logements libres de toute occupation sont loués à des ménages dont les ressources annuelles n'excèdent pas les plafonds de ressources prévus à l'article D. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux.
 
 Article 8
 
 Montants des loyers maximums et modalités de révision.
 
-Le montant du loyer maximum mentionné à l' article R. 353-16 du code de la construction et de l'habitation est fixé à... € le mètre carré par mois. Il est fixé pour chaque logement dans le document intitulé Composition du programme annexé à la présente convention.
+Le montant du loyer maximum mentionné à l'article D. 353-16 du code de la construction et de l'habitation est fixé à... € le mètre carré par mois. Il est fixé pour chaque logement dans le document intitulé Composition du programme annexé à la présente convention.
 
 Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner lieu à la perception d'un loyer accessoire, dans les conditions définies dans le document intitulé Composition du programme annexé à la présente convention.
 
-Les loyers maximums sont révisés chaque année, le 1er janvier, dans les conditions prévues à l' article L. 353-9-2 du code de la construction et de l'habitation .
+Les loyers maximums sont révisés chaque année, le 1er janvier, dans les conditions prévues à l'article L. 353-9-2 du code de la construction et de l'habitation.
 
 Article 9
 
@@ -118,7 +118,7 @@ Le loyer pratiqué pour chaque logement conventionné, dont la valeur est fixée
 
 Dans la limite de ce loyer maximum, le loyer pratiqué :
 
-1° est révisé chaque année le 1er janvier en cours de contrat de location, dans les conditions prévues à l' article L. 353-9-3 du code de la construction et de l'habitation ;
+1° est révisé chaque année le 1er janvier en cours de contrat de location, dans les conditions prévues à l'article L. 353-9-3 du code de la construction et de l'habitation ;
 
 2° peut être réévalué dans les conditions prévues par le code de la construction et de l'habitation.
 
@@ -134,7 +134,7 @@ Article 11
 
 Information des locataires en cas de changement de propriétaire.
 
-En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet ou, le cas échéant, du président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse, partie à la présente convention, des locataires et des organismes liquidateurs de l'APL, le ou les nouveaux propriétaires leur font connaître leur identification dans les conditions conformes soit à l'article 5, soit à l' article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
+En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet ou, le cas échéant, du président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse, partie à la présente convention, des locataires et des organismes liquidateurs de l'APL, le ou les nouveaux propriétaires leur font connaître leur identification dans les conditions conformes soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
 
 Article 12
 
@@ -142,7 +142,7 @@ Information des locataires en cas de modification ou de résiliation de la conve
 
 Le bailleur informe les locataires de toute modification apportée à la convention ayant des incidences sur leurs relations contractuelles.
 
-Quelle qu'en soit la cause, le bailleur informe le locataire de la date prévue pour l'expiration de la convention. En cas de résiliation de la convention aux torts du bailleur, il porte à la connaissance des locataires la teneur de l' article L. 353-6 du code de la construction et de l'habitation .
+Quelle qu'en soit la cause, le bailleur informe le locataire de la date prévue pour l'expiration de la convention. En cas de résiliation de la convention aux torts du bailleur, il porte à la connaissance des locataires la teneur de l'article L. 353-6 du code de la construction et de l'habitation.
 
 Article 13
 
@@ -160,13 +160,13 @@ Modalités du paiement du loyer.
 
 Le loyer est payé mensuellement à terme échu.
 
-Le bailleur indique sur la quittance le montant du loyer principal, du ou des loyers accessoires, des charges locatives et, le cas échéant, le montant de l'APL, si celle-ci est versée directement au bailleur conformément à l' article L. 351-9 du code de la construction et de l'habitation , et le montant de la contribution pour le partage des économies de charges.
+Le bailleur indique sur la quittance le montant du loyer principal, du ou des loyers accessoires, des charges locatives et, le cas échéant, le montant de l'APL, si celle-ci est versée directement au bailleur conformément au 1° de l'article L. 832-1 du code de la construction et de l'habitation, et le montant de la contribution pour le partage des économies de charges.
 
-En application du même article, pour chaque appel de loyer, le bailleur déduit, s'il y a lieu, le montant de l'APL qu'il perçoit pour le compte du locataire du montant du loyer et des dépenses accessoires de logement.
+En application de l'articleL. 832-2 du code de la construction et de l'habitation, pour chaque appel de loyer, le bailleur déduit, s'il y a lieu, le montant de l'APL qu'il perçoit pour le compte du locataire du montant du loyer et des dépenses accessoires de logement.
 
 Lorsque l'organisme liquidateur de l'APL verse au bailleur des rappels d'aide personnalisée pour le compte de locataires, le bailleur affecte ces sommes au compte de ces derniers. Si après affectation il en résulte un surplus, le bailleur le reverse au locataire dans le délai d'un mois.
 
-En cas d'impayé constitué au sens de l' article R. 351-30 du code de la construction et de l'habitation , et lorsque l'APL est versée en tiers payant, le bailleur doit informer l'organisme payeur de la situation du locataire dans un délai de deux mois après la constitution de l'impayé.
+En cas d'impayé constitué au sens de l' article R. 824-1 du code de la construction et de l'habitation , et lorsque l'APL est versée en tiers payant, le bailleur doit informer l'organisme payeur de la situation du locataire dans un délai de deux mois après la constitution de l'impayé.
 
 Article 15
 
@@ -180,7 +180,7 @@ Article 16
 
 Régime des rapports locatifs applicables aux logements.
 
-Lorsque la présente convention est conclue en application du 3° de l'article L. 351-2 du code de la construction et de l'habitation pour une résidence universitaire définie à l'article L. 631-12 du même code, les logements de la résidence universitaire sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs, dans les conditions prévues par les III et VIII de l'article 40, aux dispositions du code de la construction et de l'habitation et aux stipulations de la présente convention.
+Lorsque la présente convention est conclue en application de l'article L. 353-1 et du 3° de l'article L. 831-1 du code de la construction et de l'habitation pour une résidence universitaire définie à l'article L. 631-12 du même code, les logements de la résidence universitaire sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs, dans les conditions prévues par les III et VIII de l'article 40, aux dispositions du code de la construction et de l'habitation et aux stipulations de la présente convention.
 
 Les stipulations particulières suivantes s'appliquent :
 
@@ -188,7 +188,7 @@ Les stipulations particulières suivantes s'appliquent :
 
 Les logements sont loués nus ou meublés à des étudiants, des personnes de moins de trente ans en formation ou en stage et des personnes titulaires d'un contrat de professionnalisation ou d'apprentissage, à titre de résidence principale, et occupés au moins huit mois par an. A titre exceptionnel, des logements peuvent être loués à des enseignants et des chercheurs.
 
-Les logements peuvent également être loués dans les conditions prévues aux quatrième et cinquième alinéas du I de l'article L. 442-8-1 du code de la construction et de l'habitation .
+Les logements peuvent également être loués dans les conditions prévues aux quatrième et cinquième alinéas du I de l'article L. 442-8-1 du code de la construction et de l'habitation.
 
 2° Modalités de fixation et de révision du loyer pratiqué des logements de la résidence universitaire.
 
@@ -228,7 +228,7 @@ Obligations générales.
 
 -une attestation concernant le montant du loyer applicable à chaque logement concerné par la présente convention, à compter du 1er juillet de l'année en cours ;
 
--un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou, le cas échéant, la liste des bénéficiaires d'APL non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la date à laquelle l'organisme payeur a été saisi en cas d'impayé constitué selon la définition fixée par l'article R. 351-30 du code de la construction et de l'habitation.
+-un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou, le cas échéant, la liste des bénéficiaires d'APL non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la date à laquelle l'organisme payeur a été saisi en cas d'impayé constitué selon la définition fixée par l'article R. 824-1 du code de la construction et de l'habitation.
 
 Ces transmissions peuvent s'effectuer grâce à un dispositif de collecte dématérialisé.
 
@@ -238,13 +238,13 @@ Article 19
 
 Obligations en cas d'impayé.
 
-En application des articles L. 351-12 , R. 351-20 et R. 351-30 du code de la construction et de l'habitation, le bailleur auprès duquel l'aide est versée signale à l'organisme payeur lorsqu'un allocataire ne règle pas la part de la dépense de logement restant à sa charge, dans un délai de deux mois après la constitution de l'impayé défini au I de l'article R. 351-30 précité, sauf si la somme due a été réglée entre-temps en totalité. Le bailleur doit justifier qu'il poursuit par tous les moyens possibles le recouvrement de sa créance. En outre, il communique le montant de l'impayé constitué au moment de la saisine de l'organisme payeur.
+En application des articles L. 824-1, D. 823-15 et R. 824-4 du code de la construction et de l'habitation, le bailleur auprès duquel l'aide est versée signale à l'organisme payeur lorsqu'un allocataire ne règle pas la part de la dépense de logement restant à sa charge, dans un délai de deux mois après la constitution de l'impayé défini à l'article R. 824-1 précité, sauf si la somme due a été réglée entre-temps en totalité. Le bailleur doit justifier qu'il poursuit par tous les moyens possibles le recouvrement de sa créance. En outre, il communique le montant de l'impayé constitué au moment de la saisine de l'organisme payeur.
 
 Parallèlement, en cas d'impayé, le bailleur doit poursuivre le recouvrement de sa créance en notifiant au locataire défaillant par lettre recommandée avec accusé de réception le montant de cette créance. Il doit également informer le locataire de la saisine de l'organisme payeur.
 
-La commission de coordination des actions de prévention des expulsions locatives (CCAPEX) est systématiquement informée par l'organisme payeur des APL en vue de prévenir leurs éventuelles suspensions par une mobilisation coordonnée des outils de prévention ( article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement).
+La commission de coordination des actions de prévention des expulsions locatives (CCAPEX) est systématiquement informée par l'organisme payeur des APL en vue de prévenir leurs éventuelles suspensions par une mobilisation coordonnée des outils de prévention (article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement).
 
-La CCAPEX est réputée avoir été régulièrement saisie lorsque le bailleur a préalablement signalé l'impayé à l'organisme payeur des APL selon les modalités définies à l'article R. 351-30 précité.
+La CCAPEX est réputée avoir été régulièrement saisie lorsque le bailleur a préalablement signalé l'impayé à l'organisme payeur des APL selon les modalités définies à l'article R. 824-4 précité.
 
 VI.-Dispositions relatives à l'application de la convention.
 
@@ -260,7 +260,7 @@ Inexécution de la convention par le bailleur.
 
 1° En application de l'article 284 du code général des impôts, les bailleurs qui ont, au taux réduit de la taxe sur la valeur ajoutée, acquis un logement social ou imposé la livraison à soi-même d'un logement locatif social ou de travaux d'amélioration, de transformation ou d'aménagement portant sur un logement locatif social sont redevables d'un complément de taxe sur la valeur ajoutée égal à la différence entre le taux réduit et le taux normal lorsque les conditions de taxation de vente ou de livraison à soi-même au taux réduit ne sont pas ou plus remplies.
 
-2° En application de l' article L. 353-2 du code de la construction et de l'habitation , des sanctions administratives peuvent être mises en œuvre.
+2° En application de l'article L. 353-2 du code de la construction et de l'habitation, des sanctions administratives peuvent être mises en œuvre.
 
 En application de l' article L. 353-11 du code de la construction et de l'habitation , le contrôle de l'application de la présente convention est assuré par l'Agence nationale de contrôle du logement social, que le préfet est tenu de saisir en cas de manquement constaté.
 
@@ -310,13 +310,13 @@ A.-Locaux auxquels s'applique la présente convention.
 
 2. Surface habitable totale (article R. 111-2 du code de la construction et de l'habitation) :
 
-3. Surface totale des annexes entrant dans le calcul de la surface utile (article R. 353-16 2° du code de la construction et de l'habitation) :
+3. Surface totale des annexes entrant dans le calcul de la surface utile (article D. 353-16 2° du code de la construction et de l'habitation) :
 
-3 bis. Liste de ces annexes, conforme à l'arrêté du 9 mai 1995 modifié du ministre du logement pris en application de l'article R. 353-16 précité :
+3 bis. Liste de ces annexes, conforme à l'arrêté du 9 mai 1995 modifié du ministre du logement pris en application de l'article D. 353-16 précité :
 
 3 ter. Surface des locaux collectifs résidentiels :
 
-4. Surface utile totale de l'opération (article R. 353-16 (2°) précité) :
+4. Surface utile totale de l'opération (article D. 353-16 (2°) précité) :
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 
@@ -472,4 +472,8 @@ Le préfet, le président de l'établissement public de coopération intercommun
 
 (4) Le bailleur doit avoir, préalablement à sa signature, paraphé chacune des pages.
 
-(5) Etablie conformément à l' article 7 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+(5) Etablie conformément à l'article 7 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+NOTA :
+
+Conformément aux dispositions de l'article 17 du décret n° 2019-831 du 3 août 2019, ces dispositions entrent en vigueur le 1er septembre 2019.

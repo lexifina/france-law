@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R353-32
+# Article Annexe I à l'article D353-32
 
 Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction et de l'habitation, représenté par le préfet,
 
@@ -46,7 +46,7 @@ Art. 4 - Montant maximum du loyer et modalités de révision.
 
 Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface habitable, ne doit pas excéder le loyer maximum, qui est fixé à .. euros mensuels par mètre carré de surface habitable.
 
-Cette surface est calculée selon les modalités définies à l'article R. 353-40 du code de la construction et de l'habitation.
+Cette surface est calculée selon les modalités définies à l'article D. 353-40 du code de la construction et de l'habitation.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
 
@@ -72,6 +72,6 @@ Si les logements conventionnés font l'objet d'une mise en copropriété, le cop
 
 Dans le cas où certains des logements conventionnés feraient l'objet de mutation à titre gratuit ou onéreux, le quota défini ci-dessus serait opposable au propriétaire ; cependant, ce quota n'est pas opposable au propriétaire qui, ancien locataire ou occupant de bonne foi des lieux, acquiert la propriété de son logement dans les conditions définies par le décret n° 77-742 du 30 juin 1977 pris pour l'application de l'article 10 de la loi n° 75-1351 du 31 décembre 1975 modifiée relative à la protection des occupants de locaux à usage d'habitation.
 
-Art. 7 - Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe à la convention type annexée à l'article R. 353-32 dont il déclare avoir pris connaissance et reconnaît qu'une copie lui a été remise.
+Art. 7 - Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe à la convention type annexée à l'article D. 353-32 dont il déclare avoir pris connaissance et reconnaît qu'une copie lui a été remise.
 
 (1) Personne physique ou morale identifiée conformément aux dispositions, selon le cas, des articles 5 ou 6 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.

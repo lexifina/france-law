@@ -1,10 +1,10 @@
-# Article Annexe II à l'article R353-1
+# Article Annexe II à l'article D353-1
 
 Le préfet de ..., agissant au nom de l'Etat et ..., dénommé ci-après le bailleur, sont convenus de ce qui suit :
 
 Article 1er.
 
-La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles L. 353-1 à L. 353-17 pour la cité de promotion familiale de ... financée dans les conditions prévues par l'article R. 353-2 II, et décrite dans le document joint à la présente convention.
+La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles L. 353-1 à L. 353-17 pour la cité de promotion familiale de ... financée dans les conditions prévues par l'article D. 353-2 II, et décrite dans le document joint à la présente convention.
 
 La gestion des logements faisant l'objet de la présente convention est assurée :
 
@@ -40,19 +40,19 @@ Le locataire ne bénéficie plus, en application de l'article 10 (11°) de la lo
 
 Article 6.
 
-Le prix mensuel du loyer maximum visé au 2°, b, et au 3° de l'article R. 353-16 est fixé à ... F le mètre carré et à ... F le mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
+Le prix mensuel du loyer maximum visé au 2°, b, et au 3° de l'article D. 353-16 est fixé à ... F le mètre carré et à ... F le mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
 
 Le loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
 
 Dans la limite du loyer maximum et des dispositions prises en application du titre IV de la loi n° 82-526 du 22 juin 1982, le loyer pratiqué peut être majoré au plus de ... p. 100 par an ; les majorations peuvent intervenir le 1er janvier et le 1er juillet de chaque année.
 
-Le nouveau loyer notifié en application de l'article L. 353-16 peut faire l'objet d'une remise au profit des locataires dans les lieux ; elle est exprimée en un pourcentage du nouveau loyer fixé et révisé dans les conditions mentionnées ci-dessus. Ce pourcentage est identique pour chaque locataire. Il peut être modifié aux dates de révision du loyer ; sa valeur, son évolution et sa date d'extinction sont fixées dans le décompte de surface corrigée ou de surface utile prévu par l'article R. 353-19.
+Le nouveau loyer notifié en application de l'article L. 353-16 peut faire l'objet d'une remise au profit des locataires dans les lieux ; elle est exprimée en un pourcentage du nouveau loyer fixé et révisé dans les conditions mentionnées ci-dessus. Ce pourcentage est identique pour chaque locataire. Il peut être modifié aux dates de révision du loyer ; sa valeur, son évolution et sa date d'extinction sont fixées dans le décompte de surface corrigée ou de surface utile prévu par l'article D. 353-19.
 
 Article 7.
 
 Le bailleur s'engage à demander la révision de la présente convention par avenant lorsque, l'action socio-éducative n'étant plus exercée, le programme conventionné perd la qualification de "cité de promotion familiale". Cet avenant doit intervenir au plus tard dans un délai de trois mois à compter de la suppression définitive de l'action socio-éducative. Lorsque la gestion est confiée à un organisme, la subrogation contractuelle prévue à l'article 1er prend fin à la date de révision de la convention.
 
-Dans ce cas, la convention révisée doit être conforme à la convention type prévue à l'annexe I de l'article R. 353-1 du code précité.
+Dans ce cas, la convention révisée doit être conforme à la convention type prévue à l'annexe I de l'article D. 353-1 du code précité.
 
 Article 8.
 

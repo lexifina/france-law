@@ -1,4 +1,4 @@
-# Article Annexe III à l'article R353-1
+# Article Annexe III à l'article D353-1
 
 Description de l'opération de... (2)
 
@@ -12,13 +12,13 @@ A.-Locaux auxquels s'applique la présente convention.
 
 1. Nombre des logements locatifs par type de logement :
 
-1.1. Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux (article 8 de la présente convention) :
+1.1. Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article D. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux (article 8 de la présente convention) :
 
 -nombre de logements prévus au premier alinéa du a du 3° de l'article 8 de la présente convention.
 
 -nombre de logements prévus au deuxième alinéa du a du 3° de l'article 8 de la présente convention.
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au 1er alinéa de l'article R. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 8 de la présente convention).
+1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au 1er alinéa de l'article D. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 8 de la présente convention).
 
 2. Surface habitable :
 
@@ -72,7 +72,7 @@ Le bailleur (6),
 
 Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon ou du conseil exécutif de Corse,
 
-Document prévu par l'article 1er des annexes I et II à l' article R. 353-1 du code de la construction et de l'habitation lorsque le loyer maximum des logements est exprimé en surface utile.
+Document prévu par l'article 1er des annexes I et II à l' article D. 353-1 du code de la construction et de l'habitation lorsque le loyer maximum des logements est exprimé en surface utile.
 
 Description de l'opération de … (2)
 
@@ -88,23 +88,23 @@ A.-Locaux auxquels s'applique la présente convention.
 
 1. Nombre des logements locatifs par type de logements :
 
-1.1. Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux (article 8 de la présente convention) :
+1.1. Nombre de logements à attribuer à des personnes dont les ressources n'excèdent pas 60 % des plafonds de ressources prévus au premier alinéa de l'article D. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux (article 8 de la présente convention) :
 
 -nombre de logements prévus au premier alinéa du a du 3° de l'article 8 de la présente convention.
 
 -nombre de logements prévus au deuxième alinéa du a du 3° de l'article 8 de la présente convention.
 
-1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article R. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 8 de la présente convention)
+1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article D. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 8 de la présente convention)
 
 2. Surface habitable totale (art. R. 111-2 du code de la construction et de l'habitation) :
 
-3. Surface totale des annexes entrant dans le calcul de la surface utile ( art. R. 353-16 (2°) du code de la construction et de l'habitation ) :
+3. Surface totale des annexes entrant dans le calcul de la surface utile ( art. D. 353-16 (2°) du code de la construction et de l'habitation ) :
 
-3 bis. Liste de ces annexes, conforme à l'arrêté modifié du 9 mai 1995 du ministre du logement pris en application de l'article R. 353-16 précité :
+3 bis. Liste de ces annexes, conforme à l'arrêté modifié du 9 mai 1995 du ministre du logement pris en application de l'article D. 353-16 précité :
 
 3 ter. Surface des locaux collectifs résidentiels :
 
-4. Surface utile totale de l'opération (art. R. 353-16 (2°) précité) :
+4. Surface utile totale de l'opération (art. D. 353-16 (2°) précité) :
 
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour le calcul du loyer :
 

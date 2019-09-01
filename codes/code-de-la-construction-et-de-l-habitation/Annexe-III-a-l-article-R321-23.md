@@ -1,10 +1,10 @@
-# Article Annexe III à l'article R321-23
+# Article Annexe III à l'article D321-23
 
 CONVENTION-TYPE APPLICABLE AU SECTEUR LOCATIF INTERMÉDIAIRE ET AU SECTEUR LOCATIF SOCIAL PORTANT SUR UN IMMEUBLE OU SUR UN OU PLUSIEURS LOGEMENTS BÉNÉFICIANT DE SUBVENTIONS POUR TRAVAUX
 
 Convention conclue entre l'ANAH et M. (ou la société)
 
-en application des articles L. 321-4 du code de la construction et de l'habitation-CCH (n'ouvrant pas droit au bénéfice de l'aide personnalisée au logement), L. 321-8 du CCH (ouvrant droit au bénéfice de l'aide personnalisée au logement) et R. 321-23 du code de la construction et de l'habitation (annexe III relative au conventionnement avec travaux portant sur un immeuble ou sur un ou plusieurs logements).
+en application des articles L. 321-4 du code de la construction et de l'habitation-CCH (n'ouvrant pas droit au bénéfice de l'aide personnalisée au logement), L. 321-8 du CCH (ouvrant droit au bénéfice de l'aide personnalisée au logement) et D. 321-23 du code de la construction et de l'habitation (annexe III relative au conventionnement avec travaux portant sur un immeuble ou sur un ou plusieurs logements).
 
 L'ANAH, représentée par :
 
@@ -138,7 +138,7 @@ Le bailleur s'engage à informer les professionnels chargés de la vente ou de l
 
 VIII. – Sanctions et litiges
 
-Sanctions : En cas de non-respect des dispositions de la convention ou en cas de résiliation de la convention, le bailleur s'expose à des sanctions prévues par l'article R. 321-22-1 du code de la construction et de l'habitation et le règlement général de l'ANAH sans préjudice d'éventuelles sanctions fiscales ainsi qu'à la remise en cause des avantages liés à la convention. En outre, en cas de fausse déclaration ou de manœuvre frauduleuse, le bailleur, s'expose également à des poursuites judiciaires éventuelles.
+Sanctions : En cas de non-respect des dispositions de la convention ou en cas de résiliation de la convention, le bailleur s'expose à des sanctions prévues par l'article D. 321-22-1 du code de la construction et de l'habitation et le règlement général de l'ANAH sans préjudice d'éventuelles sanctions fiscales ainsi qu'à la remise en cause des avantages liés à la convention. En outre, en cas de fausse déclaration ou de manœuvre frauduleuse, le bailleur, s'expose également à des poursuites judiciaires éventuelles.
 
 Litiges : En cas de contestation sur la mise en œuvre de la présente convention, le litige est porté devant le tribunal administratif dans le ressort duquel se situe l'immeuble.
 
@@ -616,7 +616,7 @@ Observations (*****) |
 
 |
 
-(*) Entrant dans le calcul de la surface habitable dite fiscale définie par l'article R. 321-27 du CCH (la moitié des annexes dans la limite de 8 m2).
+(*) Entrant dans le calcul de la surface habitable dite fiscale définie par l'article D. 321-27 du CCH (la moitié des annexes dans la limite de 8 m2).
 
 (**) La surface fiscale totale du logement est égale à la surface habitable (1) + la surface des annexes (2).
 
@@ -864,7 +864,7 @@ Observations (*****) |
 
 |
 
-(*) Entrant dans le calcul de la surface habitable dite fiscale définie par l'article R. 321-27 du CCH (la moitié des annexes dans la limite de 8 m2).
+(*) Entrant dans le calcul de la surface habitable dite fiscale définie par l'article D. 321-27 du CCH (la moitié des annexes dans la limite de 8 m2).
 
 (**) La surface fiscale totale du logement est égale à la surface habitable (1) + la surface des annexes (2).
 

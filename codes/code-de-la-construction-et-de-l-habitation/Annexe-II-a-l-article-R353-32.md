@@ -1,6 +1,6 @@
-# Article Annexe II à l'article R353-32
+# Article Annexe II à l'article D353-32
 
-Document prévu par l'article 1er de l'annexe à l'article R. 353-32.
+Document prévu par l'article 1er de l'annexe à l'article D. 353-32.
 
 Description de programme de ...
 

@@ -14,7 +14,7 @@ Société coopérative d'habitations à loyer modéré de location-attribution (
 
 3. Objet social.
 
-La société a pour objet, conformément à l'article R. 422-34, d'assurer la gestion des immeubles construits au profit de ses membres, jusqu'au terme des contrats qu'elle a conclus pour la réalisation desdits immeubles.
+La société a pour objet, conformément à l'article D. 422-34, d'assurer la gestion des immeubles construits au profit de ses membres, jusqu'au terme des contrats qu'elle a conclus pour la réalisation desdits immeubles.
 
 Elle peut, d'une façon générale, effectuer toutes opérations utiles à la réalisation de son objet social, ou pour lesquelles elle est ou sera habilitée par les textes législatifs ou réglementaires s'y rapportant.
 

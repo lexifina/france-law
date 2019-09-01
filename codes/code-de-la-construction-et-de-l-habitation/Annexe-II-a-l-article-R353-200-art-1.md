@@ -1,4 +1,4 @@
-# Article Annexe II à l'article R353-200, art. 1
+# Article Annexe II à l'article D353-200, art. 1
 
 Description du programme de ....
 

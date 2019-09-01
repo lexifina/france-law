@@ -1,4 +1,4 @@
-# Article Annexe II à l'article R353-166, art. 1
+# Article Annexe II à l'article D353-166, art. 1
 
 I. - Description du logement :
 

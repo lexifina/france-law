@@ -1,4 +1,4 @@
-# Article Annexe III à l'article R353-127
+# Article Annexe III à l'article D353-127
 
 Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction et de l'habitation, représenté par le préfet d'une part, et M. ... (1) ou ... et la société ... (1) représentée par ... dénommé(e) ci-après le bailleur, d'autre part, son convenus de ce qui suit :
 
@@ -10,7 +10,7 @@ Article 1er.
 
 Objet de la convention.
 
-La présente convention a pour objet de fixer les droits et les obligations des parties prévues par les articles L. 353-1 à L. 353-13 du code de la construction et de l'habitation pour le programme de ... acquis et améliorés au moyen d'un prêt conventionné dans les conditions prévues par les articles R. 331-63 à R. 331-77 du code précité.
+La présente convention a pour objet de fixer les droits et les obligations des parties prévues par les articles L. 353-1 à L. 353-13 du code de la construction et de l'habitation pour le programme de ... acquis et améliorés au moyen d'un prêt conventionné dans les conditions prévues par les articles D. 331-63 à D. 331-77 du code précité.
 
 La gestion des logements faisant l'objet de la présente convention est assurée :
 
@@ -20,7 +20,7 @@ Soit par ... personne ou organisme agréé(e) par arrêté en date du 9 mars 197
 
 Les travaux d'amélioration doivent conduire à mettre les logements en conformité totale avec des normes minimales d'habitabilité définies par arrêté du 1er mars 1978, sauf en cas d'impératifs techniques tenant à la structure de l'immeuble.
 
-La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement dans les conditions définies dans le livre III, titre V (1ère partie) du code précité.
+La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement dans les conditions définies dans le livre VIII du même code.
 
 Article 2.
 

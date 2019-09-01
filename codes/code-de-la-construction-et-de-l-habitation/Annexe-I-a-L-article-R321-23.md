@@ -1,10 +1,10 @@
-# Article Annexe I à L'article R321-23
+# Article Annexe I à L'article D321-23
 
 CONVENTION-TYPE APPLICABLE AU SECTEUR LOCATIF INTERMÉDIAIRE PORTANT SUR UN LOGEMENT NE BÉNÉFICIANT PAS DE SUBVENTION POUR TRAVAUX
 
 Convention conclue entre l'ANAH et M. (ou la société)
 
-en application des articles L. 321-4 et R. 321-23 du code de la construction et de l'habitation (annexe I relative au conventionnement en secteur locatif intermédiaire) n'ouvrant pas droit au bénéfice de l'aide personnalisée au logement (APL).
+en application des articles L. 321-4 et D. 321-23 du code de la construction et de l'habitation (annexe I relative au conventionnement en secteur locatif intermédiaire) n'ouvrant pas droit au bénéfice de l'aide personnalisée au logement (APL).
 
 L'ANAH, représentée par :
 
@@ -136,7 +136,7 @@ Le bailleur s'engage à informer les professionnels chargés de la vente ou de l
 
 VII. – Sanctions et litiges
 
-Sanctions : En cas de non-respect des dispositions de la convention ou en cas de résiliation de la convention, le bailleur s'expose à des sanctions prévues par l'article R. 321-22-1 du code de la construction et de l'habitation et le règlement général de l'ANAH sans préjudice d'éventuelles sanctions fiscales ainsi qu'à la remise en cause des avantages liés à la convention. En outre, en cas de fausse déclaration ou de manœuvre frauduleuse, le bailleur, s'expose également à des poursuites judiciaires éventuelles.
+Sanctions : En cas de non-respect des dispositions de la convention ou en cas de résiliation de la convention, le bailleur s'expose à des sanctions prévues par l'article D. 321-22-1 du code de la construction et de l'habitation et le règlement général de l'ANAH sans préjudice d'éventuelles sanctions fiscales ainsi qu'à la remise en cause des avantages liés à la convention. En outre, en cas de fausse déclaration ou de manœuvre frauduleuse, le bailleur, s'expose également à des poursuites judiciaires éventuelles.
 
 http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&idArticle=LEGIARTI000021796046&dateTexte=&categorieLien=cid
 

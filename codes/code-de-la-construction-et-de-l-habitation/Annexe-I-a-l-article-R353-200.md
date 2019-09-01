@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R353-200
+# Article Annexe I à l'article D353-200
 
 Le préfet de ... agissant au nom de l'Etat, d'une part, et ... (1), dénommé ci-après le bailleur, sont convenus de ce qui suit :
 
@@ -22,7 +22,7 @@ Variante n° 2 (autres cas) : elle prend effet à compter de sa publication au f
 
 Article 3.
 
-Le prix mensuel du loyer maximum visé à l'article R. 353-208 est fixé à ... F le mètre carré :
+Le prix mensuel du loyer maximum visé à l'article D. 353-208 est fixé à ... F le mètre carré :
 
 Variante n° 1 (organisme d'habitations à loyer modéré) : de surface corrigée (2) et (3) ;
 

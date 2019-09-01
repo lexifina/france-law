@@ -1,4 +1,4 @@
-# Article Annexe V à l'article R353-127
+# Article Annexe V à l'article D353-127
 
 I. - Engagements à l'égard de l'Etat.
 
@@ -64,7 +64,7 @@ Article 7.
 
 Obligation d'information à l'égard du locataire ou de l'occupant.
 
-Le bailleur pour la réalisation des travaux définis suivant le cas à l'article 1er de l'annexe II à l'article R. 353-127 ou à l'article 2 de l'annexe III à l'article R. 353-127 s'engage à informer les locataires ou les occupants et à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
+Le bailleur pour la réalisation des travaux définis suivant le cas à l'article 1er de l'annexe II à l'article D. 353-127 ou à l'article 2 de l'annexe III à l'article D. 353-127 s'engage à informer les locataires ou les occupants et à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
 
 Lorsque l'exécution des travaux ne nécessite pas le départ des occupants, le bailleur s'engage à se conformer, selon le cas :
 
@@ -168,7 +168,7 @@ Durée du bail et délai-congé.
 
 Le bail est conclu pour une durée de trois ans. Toutefois, s'il est conclu au cours des trois premières années de la convention, sa durée est limitée à la durée restant à courir jusqu'au 30 juin suivant la troisième année de la date de signature de la convention.
 
-Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 5 des annexes I et II à l'article R. 353-127 et de l'article 6 de l'annexe III à l'article R. 353-127 il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
+Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 5 des annexes I et II à l'article D. 353-127 et de l'article 6 de l'annexe III à l'article D. 353-127 il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
 
 Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment, sous réserve d'un préavis de trois mois, ramené à un mois en cas de changement de résidence pour raisons professionnelles ou familiales graves.
 

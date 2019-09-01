@@ -1,4 +1,4 @@
-# Article Annexe IV à l'article R353-1
+# Article Annexe IV à l'article D353-1
 
 Article 1er.
 
@@ -12,7 +12,7 @@ Article 3.
 
 Les logements doivent être loués nus à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par an. Ils ne peuvent faire l'objet de sous-location, sous réserve des articles L. 442-8-1 à L. 442-8-4 du code de la construction et de l'habitation.
 
-Lors de leur mise en service et au fur et à mesure de leur vacance, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-20. Toutefois, cette disposition ne s'applique pas aux logements financés dans les conditions prévues par la section III du chapitre unique du titre III du livre III.
+Lors de leur mise en service et au fur et à mesure de leur vacance, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article D. 331-20. Toutefois, cette disposition ne s'applique pas aux logements financés dans les conditions prévues par la section III du chapitre unique du titre III du livre III.
 
 Article 4.
 
@@ -66,7 +66,7 @@ Article 13.
 
 A compter de la date de signature de la convention ou de la date d'achèvement des travaux, le bailleur notifie, par lettre recommandée avec demande d'avis de réception ou par acte extrajudiciaire, aux locataires ou occupants de bonne foi dans les lieux ou réintégrés à la suite d'un relogement temporaire, un nouveau loyer qui est applicable de plein droit dès sa notification.
 
-A cette notification est joint un décompte détaillé de surface corrigée établie d'après le modèle type annexé à l'article R. 353-19.
+A cette notification est joint un décompte détaillé de surface corrigée établie d'après le modèle type annexé à l'article D. 353-19.
 
 Le bailleur est tenu de remettre à tout nouveau locataire ce même décompte de surface corrigée, annexé au contrat de location.
 

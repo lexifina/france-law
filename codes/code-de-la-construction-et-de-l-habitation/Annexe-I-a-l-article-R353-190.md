@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R353-190
+# Article Annexe I à l'article D353-190
 
 Article 1er.
 
@@ -28,7 +28,7 @@ Article 4.
 
 Transfert du patrimoine.
 
-Six mois au moins avant l'expiration du délai mentionné à, l'article 3 ci-dessus, les parties signataires de la présente convention s'engagent à se réunir pour fixer en commun les modalités du transfert prévu par la convention conclue avec la collectivité locale mentionnée à l'article 1er de l'annexe à l'article R. 353-190.
+Six mois au moins avant l'expiration du délai mentionné à, l'article 3 ci-dessus, les parties signataires de la présente convention s'engagent à se réunir pour fixer en commun les modalités du transfert prévu par la convention conclue avec la collectivité locale mentionnée à l'article 1er de l'annexe à l'article D. 353-190.
 
 II. - Engagements particuliers applicables du présent programme conventionné.
 
@@ -46,13 +46,13 @@ Pour répondre à cette obligation, le bailleur s'engage à signaler aux service
 
 Le programme visé par la présente convention ayant pour objet principal le relogement de familles ou de personnes rendu nécessaire par la réalisation de l'opération d'aménagement urbain qui a été confiée par ailleurs au bailleur par la commune de ... les pourcentages mentionnés à l'alinéa 1 ci-dessus ne s'appliqueront pas aux familles ainsi relogées pendant toute la durée de leur occupation.
 
-Dans ce cas et par dérogation à l'article 2 de l'annexe à la présente convention, ces personnes ne sont pas soumises au plafond de ressources prévu par l'article R. 331-20.
+Dans ce cas et par dérogation à l'article 2 de l'annexe à la présente convention, ces personnes ne sont pas soumises au plafond de ressources prévu par l'article D. 331-20.
 
 Article 6.
 
 Montant maximum du loyer et modalités de révision.
 
-Le prix mensuel du loyer maximum visé à l'article R. 353-72 est fixé à ... F le mètre carré et à ... F le mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
+Le prix mensuel du loyer maximum visé à l'article D. 353-72 est fixé à ... F le mètre carré et à ... F le mètre carré pour les logements sur lesquels la convention prévoit de faire porter l'impact du financement très social.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
 
@@ -78,4 +78,4 @@ Le programme visé par la présente convention ayant pour but principal le relog
 
 Article 8.
 
-Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe à la convention type annexée à l'article R. 353-190.
+Le bailleur s'engage à respecter les dispositions de portée générale reproduites en annexe à la convention type annexée à l'article D. 353-190.

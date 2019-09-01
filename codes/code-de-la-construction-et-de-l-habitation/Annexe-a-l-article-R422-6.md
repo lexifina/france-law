@@ -14,9 +14,9 @@ La société a pour objet :
 
 1° D'assister, à titre de prestataire de services, des personnes physiques et des sociétés de construction constituées en application du titre Ier du livre II du code de la construction et de l'habitation, pour la réalisation et la gestion d'immeubles d'habitation ou à usage professionnel et d'habitation ou destinés à cet usage en accession à la propriété ainsi que pour la réalisation de travaux portant sur des immeubles existants et destinés à un usage d'habitation ou à un usage professionnel et d'habitation ;
 
-2° De réaliser ou d'acquérir et d'améliorer, soit en qualité de maître d'ouvrage, soit par l'intermédiaire de sociétés civiles de construction mentionnées au précédent alinéa, en vue de leur vente à des personnes physiques, à titre de résidence principale, et de gérer, notamment en qualité de syndic, des immeubles à usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III de l'article R. 443-34 du code précité ;
+2° De réaliser ou d'acquérir et d'améliorer, soit en qualité de maître d'ouvrage, soit par l'intermédiaire de sociétés civiles de construction mentionnées au précédent alinéa, en vue de leur vente à des personnes physiques, à titre de résidence principale, et de gérer, notamment en qualité de syndic, des immeubles à usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III de l'article D. 443-34 du code précité ;
 
-3° En vue de leur location-accession dans les conditions fixées par la loi n° 84-595 du 12 juillet 1984 modifiée définissant la location-accession à la propriété immobilière, de construire, acquérir, réaliser des travaux et gérer des immeubles à usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III de l'article R. 443-34 du code de la construction et de l'habitation ;
+3° En vue de leur location-accession dans les conditions fixées par la loi n° 84-595 du 12 juillet 1984 modifiée définissant la location-accession à la propriété immobilière, de construire, acquérir, réaliser des travaux et gérer des immeubles à usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III de l'article D. 443-34 du code de la construction et de l'habitation ;
 
 4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues au 6° de l'article L. 421-3 du code de la construction et de l'habitation ;
 
@@ -72,7 +72,7 @@ La société a pour objet :
 
 30° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association, des immeubles à usage principal d'habitation destinés à la location ;
 
-31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'articleL. 313-34 du code de la construction et de l'habitation précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
+31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
 
 32° De réaliser en vue de leur vente, dans les conditions prévues à l'article L. 261-3 du code de la construction et de l'habitation, pour le compte de personnes publiques ou privées, des immeubles à usage principal d'habitation dont elle peut provisoirement détenir l'usufruit selon les modalités définies aux articles L. 253-1 à L. 253-5 du même code ;
 

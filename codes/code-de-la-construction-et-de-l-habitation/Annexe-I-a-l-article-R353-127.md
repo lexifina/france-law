@@ -1,4 +1,4 @@
-# Article Annexe I à l'article R353-127
+# Article Annexe I à l'article D353-127
 
 Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction et de l'habitation, représenté par le préfet, d'une part, et M. ... (1) ou
 
@@ -14,9 +14,9 @@ Objet de la convention.
 
 La présente convention a pour objet de fixer les droits et les obligations des parties prévues par les articles L. 353-1 à L. 353-13 du code de la construction et de l'habitation pour le programme de logements neufs de :
 
-Variante 1, dont la construction est financée au moyen d'un prêt conventionné dans les conditions définies par les articles R. 331-63 à R. 331-77 du code précité.
+Variante 1, dont la construction est financée au moyen d'un prêt conventionné dans les conditions définies par les articles D. 331-63 à D. 331-77 du code précité.
 
-Variante 2, dont l'acquisition est financée au moyen d'un prêt conventionné dans les conditions définies par les articles R. 331-63 à R. 331-77 du code précité.
+Variante 2, dont l'acquisition est financée au moyen d'un prêt conventionné dans les conditions définies par les articles D. 331-63 à D. 331-77 du code précité.
 
 La gestion des logements faisant l'objet de la présente convention est assurée :
 
@@ -24,7 +24,7 @@ Soit par le bailleur lui-même ;
 
 Soit par ... personne ou organisme agréé(e) par arrêté en date du 9 mars 1978 portant agrément des personnes ou organismes habilités à gérer des immeubles faisant l'objet d'une convention régie par les articles L. 353-1 à L. 353-13 du code précité.
 
-La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement dans les conditions définies dans le livre III, titre V (1ère partie) du code précité.
+La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement dans les conditions définies dans le livre VIII du même code.
 
 Article 2.
 
@@ -108,7 +108,7 @@ Article 5.
 
 Montant maximum du loyer et modalités de révision.
 
-Le prix mensuel du loyer maximum visé à l'article R. 353-134 est fixé à ... F le mètre carré.
+Le prix mensuel du loyer maximum visé à l'article D. 353-134 est fixé à ... F le mètre carré.
 
 Ce loyer maximum évolue chaque année, le 1er juillet, en fonction des variations de l'indice du coût de la construction publié par l'INSEE entre l'indice du quatrième trimestre précédant l'année de revision et l'indice du quatrième trimestre de l'année antérieure à l'année précédant l'année de revision.
 

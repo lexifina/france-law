@@ -1,4 +1,4 @@
-# Article Annexe III à l'article R353-32
+# Article Annexe III à l'article D353-32
 
 Engagements de portée générale applicables à tout programme conventionné.
 
@@ -6,7 +6,7 @@ I. - Engagements à l'égard de l'Etat.
 
 Article 1er.
 
-Maintenance des logements à usage locatif. Les logements faisant l'objet de la présente convention doivent être maintenus à usage locatif dans les conditions conformes à celles fixées par ladite convention jusqu'à la date prévue pour son expiration, sous réserve des dispositions de l'article 6 de l'annexe à l'article R. 353-32.
+Maintenance des logements à usage locatif. Les logements faisant l'objet de la présente convention doivent être maintenus à usage locatif dans les conditions conformes à celles fixées par ladite convention jusqu'à la date prévue pour son expiration, sous réserve des dispositions de l'article 6 de l'annexe à l'article D. 353-32.
 
 Article 2.
 
@@ -28,13 +28,13 @@ Le bailleur doit faciliter, notamment en cas de vacances des logements, les éch
 
 Pour les locataires dans les lieux à l'entrée en vigueur de la convention, aucun respect de plafond de ressources n'est exigé.
 
-Au fur et à mesure des vacances, les logements sont loués à des familles dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article R. 331-20.
+Au fur et à mesure des vacances, les logements sont loués à des familles dont les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions prévues par l'article D. 331-20.
 
 Article 4.
 
 Révision.
 
-La présente convention pourra être révisée tous les trois ans à la demande de l'une ou l'autre partie, et notamment à la demande du bailleur en ce qui concerne ses obligations relatives à la réalisation des travaux en cas de refus du nouveau bail par le locataire ou de refus d'octroi de l'aide de l'agence nationale de l'habitat, dans les conditions prévues à l'article 1er de l'annexe à l'article R. 353-32.
+La présente convention pourra être révisée tous les trois ans à la demande de l'une ou l'autre partie, et notamment à la demande du bailleur en ce qui concerne ses obligations relatives à la réalisation des travaux en cas de refus du nouveau bail par le locataire ou de refus d'octroi de l'aide de l'agence nationale de l'habitat, dans les conditions prévues à l'article 1er de l'annexe à l'article D. 353-32.
 
 Article 5.
 
@@ -52,7 +52,7 @@ Sanctions.
 
 En cas de dissimulation ou fraude pour imposer ou tenter d'imposer au locataire un loyer dépassant le prix fixé par la convention, le bailleur sera passible des sanctions pénales prévues à l'article L. 353-10.
 
-En application de l'article L. 353-2 dudit code, en cas de non-respect de ses obligations contractuelles telles que dépassement du plafond de ressources fixé pour les nouveaux locataires, insuffisance ou manque d'information à l'égard des locataires ou des organismes chargés de la liquidation de l'aide personnalisée au logement ou non-respect de la réservation définie à l'article 4 de l'annexe à l'article R. 353-32, et après mise en demeure restée sans effet après un délai de six mois, le bailleur s'engage à verser au fonds national de l'habitation une somme égale à 5 p. 100 du montant des loyers dus au titre des logements faisant l'objet de la présente convention.
+En application de l'article L. 353-2 dudit code, en cas de non-respect de ses obligations contractuelles telles que dépassement du plafond de ressources fixé pour les nouveaux locataires, insuffisance ou manque d'information à l'égard des locataires ou des organismes chargés de la liquidation de l'aide personnalisée au logement ou non-respect de la réservation définie à l'article 4 de l'annexe à l'article D. 353-32, et après mise en demeure restée sans effet après un délai de six mois, le bailleur s'engage à verser au fonds national de l'habitation une somme égale à 5 p. 100 du montant des loyers dus au titre des logements faisant l'objet de la présente convention.
 
 Dans le cas de non-respect du quota pour reprise pour occupation personnelle, le bailleur s'engage à verser au fonds national de l'habitation une somme correspondante, pour chacun des logements indûment occupés, au loyer maximum dû pour toute la durée de l'infraction.
 
@@ -78,7 +78,7 @@ Article 9.
 
 Exécution des travaux.
 
-Le bailleur, pour la réalisation des travaux définis dans le document prévu par l'article 1er de l'annexe à l'article R. 353-32, s'engage à informer les locataires ou les occupants et à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
+Le bailleur, pour la réalisation des travaux définis dans le document prévu par l'article 1er de l'annexe à l'article D. 353-32, s'engage à informer les locataires ou les occupants et à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
 
 Lorsque l'exécution des travaux ne nécessite pas le départ des occupants, le bailleur s'engage à se conformer, selon le cas :
 
@@ -184,7 +184,7 @@ Durée du bail et délai-congé.
 
 Le bail est conclu pour une durée de trois ans. Toutefois, s'il est conclu au cours des trois premières années de la convention, sa durée est limitée à la durée restant à courir jusqu'au 30 juin suivant la troisième année de la date de prise d'effet de la convention.
 
-Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 5 de la convention type annexée à l'article R. 353-32, il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
+Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 5 de la convention type annexée à l'article D. 353-32, il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
 
 Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment sous réserve d'un préavis de trois mois, ramené à un mois en cas de changement de résidence pour raisons familiales graves ou raisons professionnelles.
 

@@ -1,4 +1,4 @@
-# Article Annexe III à l'article R353-190
+# Article Annexe III à l'article D353-190
 
 Engagements de portée générale applicables à tout programme conventionné.
 
@@ -14,11 +14,11 @@ Il s'engage au plus tard dès la mise en service des logements ou dès la date d
 
 Article 2.
 
-Conditions d'occupation et de peuplement des logements sous réserve de l'option mentionnée à l'article 5 de l'annexe à l'article R. 353-190.
+Conditions d'occupation et de peuplement des logements sous réserve de l'option mentionnée à l'article 5 de l'annexe à l'article D. 353-190.
 
 Les logements soumis à la présente convention doivent être loués nus à des personnes physiques, à titre de résidence principale et occupés au moins huit mois par an. Ils ne peuvent faire l'objet de sous-location sauf au profit de personnes ayant passé avec le locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes. Ils doivent répondre aux conditions d'occupation suffisante telles que définies en application de l'article R. 441-3.
 
-Lors de la mise en service et au fur et à mesure des vacances, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond prévu pour l'entrée dans les logements locatifs sociaux en application de l'article R. 331-20.
+Lors de la mise en service et au fur et à mesure des vacances, les logements sont loués à des personnes dont les ressources annuelles n'excèdent pas le plafond prévu pour l'entrée dans les logements locatifs sociaux en application de l'article D. 331-20.
 
 Sous réserve de l'obtention de l'autorisation administrative prévue par l'article L. 631-7, le bailleur s'engage à ne pas faire obstacle à une utilisation des logements en partie à usage professionnel, dans la mesure où le locataire satisfait aux conditions d'occupation et de peuplement.
 
@@ -28,7 +28,7 @@ Article 3.
 
 Mise en gestion du programme.
 
-Lorsque le bailleur n'assure pas lui-même la gestion du programme conventionné, dans les conditions mentionnées à l'article 3 de l'annexe à l'article R. 353-190, il s'engage à donner au gestionnaire un mandat écrit reproduisant l'ensemble des obligations contenues dans la présente convention, et habilitant le gestionnaire à percevoir l'aide personnalisée au logement.
+Lorsque le bailleur n'assure pas lui-même la gestion du programme conventionné, dans les conditions mentionnées à l'article 3 de l'annexe à l'article D. 353-190, il s'engage à donner au gestionnaire un mandat écrit reproduisant l'ensemble des obligations contenues dans la présente convention, et habilitant le gestionnaire à percevoir l'aide personnalisée au logement.
 
 Le bailleur s'engage à informer le préfet, les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement et les locataires de la mise en gestion du programme ou de tout changement de gestionnaire.
 
@@ -74,7 +74,7 @@ Article 9.
 
 Obligation d'information à l'égard du locataire ou de l'occupant.
 
-Le bailleur, pour la réalisation des travaux définis dans le document prévu à l'article 1er de l'annexe à l'article R. 353-190 s'engage à informer les locataires ou les occupants à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
+Le bailleur, pour la réalisation des travaux définis dans le document prévu à l'article 1er de l'annexe à l'article D. 353-190 s'engage à informer les locataires ou les occupants à respecter les droits que ceux-ci tiennent des dispositions législatives ou réglementaires en vigueur.
 
 Lorsque l'exécution des travaux ne nécessite pas le départ des occupants, le bailleur s'engage à se conformer, selon le cas :
 
@@ -174,7 +174,7 @@ Durée du bail et délai-congé.
 
 Le bail est conclu pour une durée de trois ans. Toutefois, s'il est conclu au cours des trois premières années de la convention, sa durée est limitée à la durée restant à courir jusqu'au 30 juin suivant la troisième année de la date de signature de la convention.
 
-Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 6 de l'annexe à l'article R. 353-190, il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
+Pendant la durée de la convention en cours au moment de la conclusion du bail, sous réserve des dispositions de l'article 6 de l'annexe à l'article D. 353-190, il est reconduit tacitement, sauf dénonciation expresse du locataire, pour des périodes également de trois ans, dans la mesure où ce dernier se conforme aux obligations de l'article 1728 du code civil rappelées dans le bail.
 
 Au cours de chaque période triennale, le locataire peut résilier le bail à tout moment sous réserve d'un préavis de trois mois, ramené à un mois en cas de changement de résidence pour raisons professionnelles ou familiales graves.
 
