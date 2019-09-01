@@ -1,77 +1,33 @@
 # Article 23 bis
 
-La commission de validation des accords collectifs (ci-dessous " commission paritaire de validation ") conclus entre les entreprises et les représentants élus au comité d'entreprise ou les délégués du personnel, conformément aux dispositions des articles L. 2232-21 et suivants du code du travail, est créée sous l'égide de la commission nationale d'interprétation et de conciliation (CNIC). Cette commission fonctionne selon les principes suivants :
+1. Transmission des accords d'entreprise
 
-1. Rôle de la commission
+Conformément aux dispositions légales et réglementaires, la partie la plus diligente transmet à la CPPNI les conventions et accords d'entreprise conclus dans le cadre du titre II « Durée du travail, répartition et aménagement des horaires », des chapitres Ier « Repos quotidien » et III « Jours fériés » du titre III « Repos et jours fériés » et des titres IV « Congés payés et autres congés » et V « Compte épargne-temps » du livre Ier « Durée du travail, repos et congé » de la troisième partie du code du travail.
 
-Le rôle de la commission est de contrôler, en vue de leur validation, que les accords collectifs conclus en application des articles du code du travail précités qui lui sont soumis n'enfreignent pas les dispositions législatives, réglementaires ou conventionnelles en vigueur.
+Elle informe les autres signataires de ces conventions et accords de cette transmission.
 
-Conformément au principe posé par l'article L. 2232-22 du code du travail, le contrôle de la commission ne peut pas porter sur l'opportunité de l'accord.
+Après suppression par la partie la plus diligente des noms et prénoms des négociateurs et des signataires, ces conventions et accords sont transmis à l'adresse de la CPPNI mentionnée ci-après : cppni.ccntr@gmail.com.
 
-2. Composition de la commission
+Conformément aux dispositions légales et réglementaires, la CPPNI accuse réception des conventions et accords transmis.
 
-La commission paritaire de validation est composée :
+Simultanément, les conventions et accords réceptionnés sont transmis à l'ensemble des organisations patronales et syndicales représentatives, membres de l'observatoire paritaire de la négociation collective de la branche.
 
-- d'un représentant titulaire et d'un représentant suppléant de chaque organisation syndicale de salariés représentative dans la branche ;
+2. Élaboration du rapport annuel d'activité
 
-- d'un nombre égal de représentants des organisations professionnelles représentatives des employeurs.
+L'observatoire paritaire de la négociation collective de la branche établit un rapport annuel d'activité pour le compte de la CPPNI. Ce rapport est versé dans la base de données nationale et son contenu est fixé au paragraphe 23.3. c de la CCNP.
 
-Le cas échéant, chaque organisation syndicale peut se faire assister par une personne qualifiée issue du secteur concerné par les accords soumis à validation.
+Il est souligné que l'observatoire paritaire de la négociation collective de la branche n'a pas vocation à valider, ni interpréter, ni analyser l'opportunité des accords d'entreprises réceptionnés.
 
-Les salariés désignés par leur organisation syndicale pour siéger à la commission paritaire de validation bénéficient, sur justificatif et sous réserve de respecter un délai de prévenance d'au moins 8 jours calendaires, d'une autorisation d'absence pour participer aux réunions de cette commission, celles-ci ne s'imputent pas sur le nombre de jours prévus à l'article 6.1.3 de la CCNP.
+Dans le cadre de cette mission, l'observatoire paritaire de la négociation collective de la branche se réunit au moins deux fois par an dans le respect d'un calendrier établi en CPPNI et jusqu'à quatre fois par an.
 
-La participation des salariés d'entreprise aux réunions de la commission paritaire de validation entraîne le maintien de leur salaire et la prise en charge de leurs frais dans les conditions prévues à l'article 6.1.3 susvisé.
+3. Composition de l'observatoire paritaire de la négociation collective de la branche
 
-Lorsqu'un des membres de la commission fait partie de l'entreprise dans laquelle l'accord collectif soumis à validation a été conclu, ce membre ne peut pas siéger à la réunion de la commission lors de l'examen de cet accord.
+La composition de l'observatoire paritaire de la négociation collective de la branche s'effectue en application des principes et règles énoncées au 23.6 de la CCNP.
 
-3. Fréquence des réunions de la commission
+Les salariés désignés à cet effet par leur organisation syndicale bénéficient, sur justificatif et sous réserve de respecter un délai de prévenance d'au moins 1 semaine, d'une autorisation d'absence pour participer aux réunions de cette commission.
 
-La commission paritaire de validation se réunit une fois par trimestre dans le respect d'un calendrier établi en CNIC.
+La participation des salariés d'entreprise aux réunions de la commission paritaire entraîne le maintien de leur salaire et la prise en charge de leurs frais dans les conditions prévues à l'article 23.6 de la CCNP.
 
-4. Présidence de la commission
+4. Fonctionnement de l'observatoire paritaire de la négociation collective de la branche
 
-La présidence de la commission paritaire de validation est assurée par le président de la commission nationale d'interprétation et de conciliation (CNIC) de la convention collective nationale des transports routiers et des activités auxiliaires du transport.
-
-5. Secrétariat de la commission
-
-Le secrétariat de la commission paritaire de validation est assuré par le secrétariat du président de la commission nationale d'interprétation et de conciliation (CNIC) de la convention collective nationale des transports routiers et des activités auxiliaires du transport.
-
-Le dossier de demande de validation doit comporter les éléments suivants :
-
-- une copie de l'information préalable, prévue par l'article L. 2232-21 du code du travail, adressée par lettre recommandée avec avis de réception par l'employeur au siège national de chacune des organisations syndicales représentatives des salariés de la branche, de sa décision d'engager des négociations collectives ;
-
-- un exemplaire original de l'accord soumis à validation en version papier et un exemplaire en version numérique ;
-
-- une copie du formulaire CERFA de procès-verbal des dernières élections des représentants du personnel ayant conclu l'accord ;
-
-- le cas échéant, si ceci n'apparaît pas clairement dans l'accord, le nom et l'adresse de l'entreprise, la nature de l'instance représentative au sein de laquelle l'accord a été signé, le nom des élus de cette instance ayant signé l'accord.
-
-Le secrétariat accuse réception du dossier dès qu'il est complet.
-
-Le secrétariat notifie les décisions de la commission.
-
-6. Décisions de la commission
-
-Pour chaque accord qui lui est soumis, la commission paritaire de validation rend, conformément aux dispositions légales :
-
-- un avis de validation ;
-
-- ou un avis motivé de rejet.
-
-Conformément aux dispositions légales :
-
-- si la commission décide de ne pas valider l'accord, celui-ci est réputé non écrit ;
-
-- à défaut de réponse dans le délai de 4 mois à compter de l'avis de réception de l'envoi du dossier complet (paragraphe 5 ci-dessus), l'accord est réputé validé.
-
-7. Règlement intérieur
-
-La commission paritaire de validation des accords est régie par un règlement intérieur qui précise, notamment, les modalités :
-
-- de convocation des membres, y compris les délais ;
-
-- d'information des membres sur les dossiers inscrits à l'ordre du jour, y compris les délais d'envoi des documents ;
-
-- d'organisation et de déroulement des réunions ;
-
-- de prise de décision, les règles de vote et la forme de la notification des décisions de la commission.
+L'observatoire paritaire de la négociation collective de la branche est présidé par une présidence paritaire conformément aux dispositions de l'article 23.7.1 de la CCNP.
