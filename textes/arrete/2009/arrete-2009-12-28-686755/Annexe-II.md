@@ -538,13 +538,13 @@ Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'u
 
 A. - Epreuves écrites d'admissibilité
 
-1° Analyse et exploitation pédagogique d'un système pluritechnique.
+1° Analyse et exploitation pédagogique d'un système pluritechnologique.
 
 L'épreuve est commune à toutes les options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
 
-L'épreuve a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique.
+L'épreuve a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnologique.
 
-Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative à l'enseignement de technologie du collège ou aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
+Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative aux enseignements non spécifiques de la spécialité ingénierie, innovation et développement durable du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) ” et/ ou de l'enseignement des sciences de l'ingénieur du lycée général, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
 
 Durée de l'épreuve : cinq heures ; coefficient 2.
 
@@ -558,7 +558,7 @@ Durée de l'épreuve : quatre heures ; coefficient 1.
 
 B. - Epreuves d'admission
 
-1° Activité pratique et exploitation pédagogique d'un système pluritechnique :
+1° Activité pratique et exploitation pédagogique d'un système pluritechnologique :
 
 Pour certaines options, le candidat détermine, au moment de l'inscription, un domaine d'activité parmi deux qui lui sont proposés :
 
@@ -570,17 +570,17 @@ Pour certaines options, le candidat détermine, au moment de l'inscription, un d
 
 Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
-Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité de l'agrégation. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
+Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité de l'agrégation. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements spécifiques liés à la spécialité du cycle terminal ingénierie, innovation et développement durable du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) ” du lycée et à l'enseignement de spécialité sciences de l'ingénieur, des programmes de CPGE ou des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
 
 L'épreuve a pour but d'évaluer l'aptitude du candidat à :
 
 - mettre en œuvre des matériels ou équipements, associés si besoin à des systèmes informatiques de pilotage, de traitement, de simulation, de représentation ;
 
-- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus afin d'analyser et vérifier les performances d'un système technique ;
+- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus afin d'analyser et vérifier les performances d'un système pluritechnologique ;
 
 - exploiter les résultats obtenus et formuler des conclusions.
 
-- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours des activités pratiques relatives à un système technique.
+- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours des activités pratiques relatives à un système pluritechnologique.
 
 Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des activités pratiques qui lui ont permis de construire sa proposition pédagogique.
 
@@ -592,11 +592,11 @@ Durée de la préparation : une heure ; durée totale de l'épreuve : une heure 
 
 L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un domaine de l'option préparée, suivie d'un entretien (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes au maximum).
 
-L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée. L'authenticité et l'actualité du support sont des éléments importants.
+L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en cycle terminal du lycée, en sections de techniciens supérieurs et instituts universitaires de technologie. L'authenticité et l'actualité du support sont des éléments importants.
 
 L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
 
-En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège ou en lycée.
+En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes.
 
 Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
 

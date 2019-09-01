@@ -558,21 +558,19 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 3° Composition en langue française sur un sujet de littérature italienne ou sur un sujet relatif à la civilisation italienne, dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
-La maîtrise de la langue italienne et de la langue française est prise en compte dans la notation des épreuves d'admissibilité.
-
 B. - Epreuves orales d'admission
 
-1° Leçon en langue italienne sur une question se rapportant au programme (durée de la préparation : cinq heures ; durée de la leçon : quarante-cinq minutes ; coefficient 6).
+1° Leçon en langue italienne sur une question se rapportant au programme, suivie d'un entretien en langue italienne avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
 
-2° Leçon en langue française sur une question se rapportant au programme (durée de la préparation : cinq heures ; durée de la leçon : quarante-cinq minutes ; coefficient 6).
+2° Leçon en langue française sur une question se rapportant au programme, suivie d'un entretien en langue française avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante-cinq minutes [leçon : quarante minutes ; entretien : quinze minutes] ; coefficient 6).
 
 3° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
 
 -la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
 
--la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire d'un point de grammaire choisi par le jury et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+-la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire d'un point de grammaire choisi par le jury et portant sur ce même texte (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
@@ -580,9 +578,7 @@ Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqué
 
 Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposition du candidat.
 
-5° A l'issue des épreuves orales, le jury attribue une note de maîtrise de la langue italienne et de la langue française, qui s'ajoute aux notes des épreuves d'admission (coefficient 3).
-
-Le programme du concours fait l'objet d'une publication annuelle sur le site internet du ministère chargé de l'éducation nationale.
+La maîtrise de la langue italienne et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
 Langue et culture japonaises
 
@@ -1224,7 +1220,7 @@ A. - Epreuves écrites d'admissibilité
 
 L'épreuve est commune à toutes les options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
 
-Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique automatique.
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnologique automatique.
 
 Durée : six heures ; coefficient 1.
 
@@ -1232,7 +1228,7 @@ Durée : six heures ; coefficient 1.
 
 L'épreuve est spécifique à l'option choisie.
 
-A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de synthétiser ses connaissances pour modéliser un système technique dans le domaine de la spécialité du concours dans l'option choisie en vue de prédire ou de vérifier son comportement et ses performances.
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de synthétiser ses connaissances pour modéliser un système pluritechnologique dans le domaine de la spécialité du concours dans l'option choisie en vue de prédire ou de vérifier son comportement et ses performances.
 
 Durée : six heures ; coefficient 1.
 
@@ -1240,25 +1236,25 @@ Durée : six heures ; coefficient 1.
 
 L'épreuve est spécifique à l'option choisie.
 
-A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier les compétences d'un candidat à synthétiser ses connaissances pour proposer ou justifier des solutions de conception et d'industrialisation d'un système technique dans le domaine de la spécialité du concours dans l'option choisie.
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier les compétences d'un candidat à synthétiser ses connaissances pour proposer ou justifier des solutions de conception et d'industrialisation d'un système pluritechnologique dans le domaine de la spécialité du concours dans l'option choisie.
 
 Durée : six heures ; coefficient 1.
 
 B. - Epreuves d'admission
 
-1° Exploitation pédagogique d'une activité pratique relative à l'approche globale d'un système pluritechnique :
+1° Exploitation pédagogique d'une activité pratique relative à l'approche globale d'un système pluritechnologique :
 
 Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 L'épreuve fait appel à des connaissances technologiques et scientifiques communes à l'ensemble des options.
 
-Le support de l'activité pratique proposée est un système pluritechnique et permet une analyse systémique globale. L'exploitation pédagogique proposée, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques transversaux du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" et/ou sciences de l'ingénieur de la voie scientifique (SSI) du lycée et des classes préparatoires aux grandes écoles.
+Le support de l'activité pratique proposée est un système pluritechnologique et permet une analyse systémique globale. L'exploitation pédagogique proposée, directement liée aux activités pratiques réalisées, est relative aux enseignements non spécifiques de la spécialité ingénierie, innovation et développement durable du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) ” et/ ou de l'enseignement des sciences de l'ingénieur du lycée général et des classes préparatoires aux grandes écoles.
 
 L'épreuve a pour but d'évaluer l'aptitude du candidat à :
 
 - mettre en œuvre et conduire une expérimentation, une analyse de comportement d'un système réel ou d'un équipement, notamment à l'aide de systèmes informatiques associés à des logiciels de traitement, de simulation, de représentation ;
 
-- analyser et vérifier ou comparer les performances de tout ou partie de ce système pluritechnique, notamment à partir de modèles de comportement et de mesures ;
+- analyser et vérifier ou comparer les performances de tout ou partie de ce système pluritechnologique, notamment à partir de modèles de comportement et de mesures ;
 
 - justifier ou critiquer les solutions constructives retenues et les choix relatifs à la réalisation (hypothèses, comparaison multicritère des choix techniques et des organisations, évaluations économiques, etc.) en regard du cahier des charges ;
 
@@ -1270,21 +1266,21 @@ Le candidat est amené au cours de sa présentation orale à expliciter sa déma
 
 Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Activité pratique et exploitation pédagogique relatives à l'approche spécialisée d'un système pluritechnique
+2° Activité pratique et exploitation pédagogique relatives à l'approche spécialisée d'un système pluritechnologique :
 
 Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
-Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité du concours dans l'option choisie. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
+Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité du concours dans l'option choisie. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements spécifiques liés à la spécialité ingénierie, innovation et développement durable du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) ” du lycée et aux programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
 
 L'épreuve a pour but d'évaluer l'aptitude du candidat à :
 
 - mettre en œuvre des matériels ou équipements, associés si besoin à des systèmes informatiques de pilotage, de traitement, de simulation, de représentation ;
 
-- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus, dans la spécialité du concours, afin d'analyser et vérifier les performances d'un système technique ;
+- conduire une expérimentation, une analyse de fonctionnement d'une solution, d'un procédé, d'un processus, dans la spécialité du concours, afin d'analyser et vérifier les performances d'un système pluritechnologique ;
 
 - exploiter les résultats obtenus et formuler des conclusions ;
 
-- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours d'activités pratiques relatives à un système technique.
+- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé à un niveau de classe donné et présenter de manière détaillée un ou plusieurs points-clefs des séances de formation constitutives. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours d'activités pratiques relatives à un système pluritechnologique.
 
 Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des activités pratiques qui lui ont permis de construire sa proposition pédagogique.
 
@@ -1300,7 +1296,7 @@ Le dossier présenté par le candidat est relatif à un système technique dont 
 
 L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre de son enseignement.
 
-En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier totalement le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'études et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège ou en lycée.
+En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve ainsi que les investigations et développements qu'il a conduits pour s'en approprier totalement le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'études et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes.
 
 Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
 
