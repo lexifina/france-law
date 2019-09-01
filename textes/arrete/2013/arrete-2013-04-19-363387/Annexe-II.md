@@ -160,13 +160,13 @@ Leçon et travail pratique.
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
-Le support du travail pratique proposé est pluritechnique et permet une démarche systémique intégrant un développement relatif à la dominante. La leçon, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) ou aux sciences de l'ingénieur de la voie scientifique du lycée.
+L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système pluritechnologique et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques non spécifiques du cycle terminal “ sciences et technologies de l'industrie et du développement durable (STI2D) du lycée ” ou à l'enseignement des sciences de l'ingénieur du lycée général.
 
 L'épreuve a pour but d'évaluer l'aptitude du candidat à :
 
 - concevoir et à) organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques relatifs à un système technique ;
 
-- analyser et vérifier les performances de tout ou partie d'un système pluritechnique, notamment à partir de modèles de comportement et de mesures ;
+- analyser et vérifier les performances de tout ou partie d'un système pluritechnologique, notamment à partir de modèles de comportement et de mesures ;
 
 - conduire une expérimentation, une analyse de fonctionnement d'une solution ;
 

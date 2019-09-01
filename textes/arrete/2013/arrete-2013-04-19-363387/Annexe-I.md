@@ -376,13 +376,13 @@ L'ensemble des épreuves du concours vise à évaluer les capacités des candida
 
 A. - Epreuves d'admissibilité
 
-1° Analyse et exploitation pédagogique d'un système pluritechnique.
+1° Analyse et exploitation pédagogique d'un système pluritechnologique.
 
 L'épreuve est commune à toutes les options.
 
-Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et technologiques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances d'un système pluritechnique des points de vue matière, énergie et information afin de valider tout ou partie de la réponse, au besoin exprimée par un cahier des charges.
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et technologiques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances d'un système pluritechnologique des points de vue matière, énergie et information afin de valider tout ou partie de la réponse, au besoin exprimée par un cahier des charges.
 
-Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative à l'enseignement de technologie du collège ou aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
+Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative à l'enseignement de technologie du collège ou aux enseignements technologiques non spécifiques du cycle terminal “sciences et technologies de l'industrie et du développement durable (STI2D)” ou à l'enseignement de sciences de l'ingénieur du lycée général, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
 
 Durée : cinq heures ; coefficient 2.
 
@@ -402,13 +402,13 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 4.
 
-L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système pluritechnique et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements transversaux technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) du lycée ou aux sciences de l'ingénieur de la voie scientifique du lycée.
+L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système pluritechnologique et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques non spécifiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou à l'enseignement des sciences de l'ingénieur du lycée général.
 
 2° Epreuve d'entretien à partir d'un dossier.
 
 Durée de totale de l'épreuve : une heure ; coefficient 2.
 
-L'épreuve est basée sur un entretien avec le jury à partir d'un dossier technique, scientifique et pédagogique réalisé par le candidat, suivi d'un entretien (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes). Elle a pour but de vérifier que le candidat est capable de rechercher des supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement au collège ou en lycée.
+L'épreuve est basée, dans l'option choisie, sur un entretien avec le jury à partir d'un dossier technique, scientifique et pédagogique réalisé par le candidat, suivi d'un entretien (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes). Elle a pour but de vérifier que le candidat est capable de rechercher des supports pluritechnologiques de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement au collège ou en lycée.
 
 L'entretien qui succède à la présentation du candidat permet au jury d'approfondir les points qu'il juge utiles. Il permet en outre d'apprécier la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
