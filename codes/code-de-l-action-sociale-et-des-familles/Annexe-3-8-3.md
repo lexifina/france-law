@@ -120,7 +120,7 @@ Sous-section 2.1 : Le logement et ses abords
 
 Il convient d'apprécier :
 
-2.1.1. La conformité du logement aux normes fixées par le premier alinéa de l'article R. 831-13-1 du code de la sécurité sociale et par le décret n° 2002-120 du 30 janvier 2002 et le respect des règles d'hygiène favorisant un accueil de qualité ;
+2.1.1. La conformité du logement aux normes fixées par l'article R. 822-25 du code de la construction et de l'habitation et par le décret n° 2002-120 du 30 janvier 2002 et le respect des règles d'hygiène favorisant un accueil de qualité ;
 
 2.1.2. L'existence d'une pièce réservée à chaque personne ou couple accueilli, sous le toit du demandeur, d'une superficie minimale de 9 m2 pour une personne seule et 16 m2 pour un couple, équipée d'une fenêtre accessible donnant directement sur l'extérieur et située à proximité d'une salle d'eau et de toilettes partagées ou privées adaptées, le cas échéant, aux personnes à mobilité réduite ;
 
