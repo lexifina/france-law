@@ -28,6 +28,6 @@ III.-Sont exonérés de la contribution les revenus tirés de la location :
 
 11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par décret, lorsque ces travaux ont été financés à hauteur d'au moins 15 % de leur montant par une subvention versée par l'Agence nationale de l'habitat, pour les quinze années suivant celle de l'achèvement des travaux.
 
-12° Des logements qui ont fait l'objet, après une vacance continue de plus de douze mois, d'une mise en location assortie d'une convention conclue à compter du 1er juillet 2004 en l'application du 4° de l'article L. 351-2 du code de la construction et de l'habitation, le bénéfice de l'exonération s'appliquant jusqu'au 31 décembre de la troisième année suivant celle de la conclusion du bail.
+12° Des logements qui ont fait l'objet, après une vacance continue de plus de douze mois, d'une mise en location assortie d'une convention conclue à compter du 1er juillet 2004 en l'application du 4° de l'article L. 831-1 du code de la construction et de l'habitation, le bénéfice de l'exonération s'appliquant jusqu'au 31 décembre de la troisième année suivant celle de la conclusion du bail.
 
 IV. et V. (Abrogés).

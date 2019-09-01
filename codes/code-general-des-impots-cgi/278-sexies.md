@@ -2,17 +2,17 @@
 
 Les taux réduits de taxe sur la valeur ajoutée sont ceux mentionnés à l'article 278 sexies-0 A pour les opérations suivantes, réalisées dans le cadre de la politique sociale du logement :
 
-I. 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de l'habitation ou aux personnes bénéficiaires, au moment de la livraison, d'un prêt mentionné à l'article R. 331-1 du même code pour la construction de logements visés aux 3° et 5° de l'article L. 351-2 dudit code ;
+I. 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitations à loyer modéré visés à l'article L. 411-2 du code de la construction et de l'habitation ou aux personnes bénéficiaires, au moment de la livraison, d'un prêt mentionné à l'article R. 331-1 du même code pour la construction de logements visés aux 3° et 5° de l'article L. 831-1 dudit code ;
 
-2. Les livraisons de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du même code et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date, lorsque l'acquéreur bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale pour la rénovation urbaine et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article L. 351-2 du même code ;
+2. Les livraisons de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 831-1 du même code et qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date, lorsque l'acquéreur bénéficie pour cette acquisition d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale pour la rénovation urbaine et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article L. 831-1 du même code ;
 
-3. Le premier apport de logements sociaux à usage locatif dont la construction a fait l'objet d'une livraison à soi-même mentionnée au II, réalisé dans les cinq ans de l'achèvement de la construction au profit d'un organisme d'habitations à loyer modéré visé à l'article L. 411-2 du code de la construction et de l'habitation, à la condition que l'acte d'apport prévoie le transfert de la société cédante à la société bénéficiaire de l'apport, du prêt prévu à l'article R. 331-1 du même code et de la convention mentionnée aux 3° ou 5° de l'article L. 351-2 du même code ;
+3. Le premier apport de logements sociaux à usage locatif dont la construction a fait l'objet d'une livraison à soi-même mentionnée au II, réalisé dans les cinq ans de l'achèvement de la construction au profit d'un organisme d'habitations à loyer modéré visé à l'article L. 411-2 du code de la construction et de l'habitation, à la condition que l'acte d'apport prévoie le transfert de la société cédante à la société bénéficiaire de l'apport, du prêt prévu à l'article R. 331-1 du même code et de la convention mentionnée aux 3° ou 5° de l'article L. 831-1 du même code ;
 
 4. Les livraisons de logements destinés à être occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, qui font l'objet, dans des conditions fixées par décret, d'une convention et d'une décision d'agrément prise par le représentant de l'Etat dans le département ;
 
 5. Les livraisons de logements aux structures d'hébergement temporaire ou d'urgence faisant l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département et destinées aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation ;
 
-6. Les livraisons de logements sociaux à usage locatif à l'association mentionnée à l'article L. 313-34 du même code, lorsqu'elle a conclu avec l'Etat une convention en application du 4° de l'article L. 351-2 dudit code ;
+6. Les livraisons de logements sociaux à usage locatif à l'association mentionnée à l'article L. 313-34 du même code, lorsqu'elle a conclu avec l'Etat une convention en application du 4° de l'article L. 831-1 dudit code ;
 
 7. Les livraisons de logements à usage locatif à l'association mentionnée à l'article L. 313-34 du même code ou à des sociétés civiles immobilières dont cette association détient la majorité des parts lorsque ces logements sont destinés à être occupés par des ménages dont le total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du même code et sont situés soit dans des quartiers faisant l'objet de la convention pluriannuelle prévue aux articles 10 ou 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, soit entièrement situés à une distance de moins de 300 mètres de la limite de ces quartiers ;
 
@@ -22,7 +22,7 @@ I. 1. Les livraisons de terrains à bâtir consenties aux organismes d'habitatio
 
 9. (Périmé) ;
 
-10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, lorsque l'usufruitier bénéficie d'un prêt prévu à l'article R. 331-1 du même code et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article L. 351-2 du même code ;
+10. Les cessions de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 3° et 5° de l'article L. 831-1 du code de la construction et de l'habitation, lorsque l'usufruitier bénéficie d'un prêt prévu à l'article R. 331-1 du même code et a conclu avec l'Etat une convention en application des 3° ou 5° de l'article L. 831-1 du même code ;
 
 11. Les livraisons d'immeubles et les travaux réalisés en application d'un contrat unique de construction de logements dans le cadre d'une opération d'accession à la propriété à usage de résidence principale, destinés à des personnes physiques dont les ressources à la date de signature de l'avant-contrat ou du contrat préliminaire ou, à défaut, à la date du contrat de vente ou du contrat ayant pour objet la construction du logement ne dépassent pas les plafonds prévus à la première phrase du dixième alinéa de l'article L. 411-2 du code de la construction et de l'habitation et situés dans des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée ou entièrement situés à une distance de moins de 300 mètres de la limite de ces quartiers ;
 
@@ -41,7 +41,3 @@ III. – 1. Les livraisons à soi-même de travaux portant sur les locaux mentio
 2. (Abrogé) ;
 
 IV. – (Abrogé).
-
-NOTA :
-
-Conformément à l'article 12 II A de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018. Toutefois, il ne s'applique pas aux encaissements pour lesquels la taxe sur la valeur ajoutée est exigible avant cette date.

@@ -4,7 +4,7 @@ I. – Il est institué une taxe sur les plus-values réalisées dans les condit
 
 La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant.
 
-Le produit de la taxe est affecté au fonds mentionné à l'article L. 351-6 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+Le produit de la taxe est affecté au fonds mentionné à l'article L. 811-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 II. – La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux articles 150 V à 150 VD ou au II de l'article 244 bis A.
 
@@ -26,57 +26,57 @@ De 50 001 à 60 000
 
 |
 
-2 % PV-(60 000-PV) × 1/20 |
+2 % PV-(60 000-PV) × 1/ 20De |
 
-De 60 001 à 100 000
-
-|
-
-2 % PV |
-
-De 100 001 à 110 000
+60 001 à 100 000
 
 |
 
-3 % PV-(110 000-PV) × 1/10 |
+2 % PVDe |
 
-De 110 001 à 150 000
-
-|
-
-3 % PV |
-
-De 150 001 à 160 000
+100 001 à 110 000
 
 |
 
-4 % PV-(160 000-PV) × 15/100 |
+3 % PV-(110 000-PV) × 1/ 10De |
 
-De 160 001 à 200 000
-
-|
-
-4 % PV |
-
-De 200 001 à 210 000
+110 001 à 150 000
 
 |
 
-5 % PV-(210 000-PV) × 20/100 |
+3 % PVDe |
 
-De 210 001 à 250 000
-
-|
-
-5 % PV |
-
-De 250 001 à 260 000
+150 001 à 160 000
 
 |
 
-6 % PV-(260 000-PV) × 25/100 |
+4 % PV-(160 000-PV) × 15/ 100De |
 
-Supérieur à 260 000
+160 001 à 200 000
+
+|
+
+4 % PVDe |
+
+200 001 à 210 000
+
+|
+
+5 % PV-(210 000-PV) × 20/ 100De |
+
+210 001 à 250 000
+
+|
+
+5 % PVDe |
+
+250 001 à 260 000
+
+|
+
+6 % PV-(260 000-PV) × 25/ 100Supérieur |
+
+à 260 000
 
 |
 
