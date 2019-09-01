@@ -54,9 +54,9 @@ II-1. Première épreuve orale : mise en situation professionnelle
 
 dans un domaine au choix du candidat
 
-Cette épreuve vise à évaluer les compétences scientifiques, didactiques et pédagogiques du candidat dans un domaine d'enseignement relevant des missions ou des programmes de l'école élémentaire ou de l'école maternelle, choisi au moment de l'inscription au concours parmi les domaines suivants : sciences et technologie, histoire, géographie, histoire des arts, arts visuels, éducation musicale, enseignement moral et civique.
+Cette épreuve vise à évaluer les compétences scientifiques, didactiques et pédagogiques du candidat dans un domaine d'enseignement relevant des missions ou des programmes de l'école élémentaire ou de l'école maternelle, choisi au moment de l'inscription au concours parmi les domaines suivants : sciences et technologie, histoire, géographie, histoire des arts, arts visuels, éducation musicale, enseignement moral et civique, langues vivantes étrangères (allemand, anglais, espagnol ou italien, au choix du candidat au moment de l'inscription).
 
-Le candidat remet préalablement au jury un dossier de dix pages au plus, portant sur le sujet qu'il a choisi. Ce dossier pourra être conçu à l'aide des différentes possibilités offertes par les technologies de l'information et de la communication usuelles, y compris audiovisuelles (format Compact Disc ). Il est adressé au président du jury sous format papier accompagné le cas échéant d'un support numérique Compact Disc , dans un délai et selon des modalités fixées par le jury.
+Le candidat remet préalablement au jury un dossier de dix pages au plus, annexes comprises (hors page de garde et, le cas échéant, sommaire et bibliographie), portant sur le sujet qu'il a choisi. Ce dossier pourra être conçu à l'aide des différentes possibilités offertes par les technologies de l'information et de la communication usuelles, y compris audiovisuelles. Il est adressé au président du jury sous format papier accompagné, le cas échéant, d'un support numérique (clé USB), dans un délai et selon des modalités fixées par le jury.
 
 Ce dossier se compose de deux ensembles :
 
@@ -69,6 +69,14 @@ L'épreuve comporte :
 ― la présentation du dossier par le candidat (vingt minutes) ;
 
 ― un entretien avec le jury portant, d'une part, sur les aspects scientifiques, pédagogiques et didactiques du dossier et de sa présentation, et, d'autre part, sur un élargissement et/ou un approfondissement dans le domaine considéré (quarante minutes), pouvant notamment porter sur sa connaissance réfléchie des différentes théories du développement de l'enfant.
+
+Lorsque le choix du candidat porte sur le domaine des langues vivantes étrangères, la présentation du dossier (vingt minutes) se déroule en français. L'entretien avec le jury se déroule :
+
+- en français pour sa partie relative aux aspects scientifiques, pédagogiques et didactiques du dossier et de sa présentation (vingt minutes) ;
+
+- dans la langue vivante étrangère choisie par le candidat au moment de l'inscription pour sa partie portant sur un élargissement et/ ou un approfondissement dans le domaine considéré (vingt minutes), pouvant notamment porter sur la connaissance du candidat de la langue et de la culture choisies ainsi que sur sa réflexion sur la mise en œuvre d'une pédagogie des langues étrangères dans le premier degré.
+
+Le niveau minimum de maîtrise attendu de la langue vivante est le niveau B2 du cadre européen commun de référence pour les langues.
 
 L'épreuve est notée sur 60 points : 20 points pour la présentation du dossier par le candidat, 40 points pour l'entretien avec le jury.
 
