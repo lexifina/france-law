@@ -106,10 +106,6 @@ Commissions nautiques locales. |
 
 Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques. |
 
-Comité spécialisé de la formation professionnelle maritime. |
-
-Article R. 342-6 du code de l'éducation. |
-
 Commission consultative pour la délivrance de l'attestation de capacité professionnelle à l'exercice de la profession de transporteur public de marchandises par bateau de navigation intérieure. |
 
 Arrêté du 28 juillet 1992 fixant la liste des diplômes permettant à leur titulaire d'obtenir l'attestation de capacité à la profession de transporteur public de marchandises par bateau de navigation intérieure. |
@@ -181,3 +177,7 @@ Articles D. 1252-1 à D. 1252-7 du code des transports (décret n° 2014-530 du 
 Conseil national de la protection de la nature. |
 
 Articles R. 133-1 et suivants du code de l'environnement. |
+
+NOTA :
+
+Conformément aux dispositions du II de l'article 16 du décret n° 2019-640 du 25 juin 2019, ces dispositions entrent en vigueur au 1er septembre 2019.
