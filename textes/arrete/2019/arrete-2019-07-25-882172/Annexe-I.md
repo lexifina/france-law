@@ -1,18 +1,16 @@
 # Article Annexe I
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS COMMUNES AUX ARMÉES ET AUX FORMATIONS RATTACHÉES
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS COMMUNES AUX ARMÉES ET AUX FORMATIONS RATTACHÉES
 
-1. Formation de l'enseignement supérieur :
+1. FORMATION DE L'ENSEIGNEMENT SUPERIEUR :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -42,17 +40,15 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 (*) Hors formations de l'enseignement militaire supérieur. |
 
-2. Management :
+2. MANAGEMENT :
 
-INTITULÉ DE LA FORMATION |
+INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -62,19 +58,25 @@ Enseignement militaire du second degré (EMS2) (*). |
 
 2 |
 
-Centre des hautes études militaires (CHEM) ou formation équivalente de l'enseignement militaire supérieur au-dessus de l'EMS2 au Royal College and Defense Studies (RCDS Londres), au National Defense University (NDU, Washington) et au Higher Command and Staff Course (HSCS, Schrivenham). |
+Centre des hautes études militaires (CHEM) ou formation équivalente de l'enseignement militaire supérieur au-dessus de l'EMS2 au Royal College and Defense Studies (RCDS, Londres), au National Defense University (NDU, Washington) et au Higher Command and Staff Course (HSCS, Schrivenham). |
 
 4 |
 
 2 |
 
-Toutes les autres formations de l'enseignement militaire supérieur au-dessus de l'EMS2 en France ou à l'étranger, à l'exception de la formation du CHEMI. |
+Enseignement militaire supérieur au-dessus de l'EMS2 au NATO Defense college. |
+
+2 |
+
+1 |
+
+Toutes les autres formations de l'enseignement militaire supérieur au-dessus de l'EMS2 en France ou à l'étranger, y compris les sessions nationales de l'IHEDN, à l'exception de la formation du CHEMI. |
 
 4 |
 
 1 |
 
-Formations de l'enseignement militaire du 1er degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major). |
+Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major). |
 
 4 |
 
@@ -92,51 +94,51 @@ Formation de qualification (diplôme d'état-major). |
 
 1 |
 
+Formation des managers d'hôpital d'instruction des armées (HIA). |
+
+4 |
+
+3 |
+
 (*) Formations de l'enseignement militaire du second degré d'une durée de quatre mois minimum. |
 
-|
-
-|
-
-3. Ressources humaines :
+3. RESSOURCES HUMAINES :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Diplôme d'Etat d'alpinisme - Guide de haute montagne. |
+Diplôme d'Etat d'alpinisme-Guide de haute montagne. |
 
 5 |
 
 3 |
 
-Diplôme d'Etat de ski - Moniteur national de ski alpin |
+Diplôme d'Etat de ski-Moniteur national de ski alpin. |
 
 4 |
 
 3 |
 
-Diplôme d'Etat de ski - Moniteur national de ski nordique de fond |
+Diplôme d'Etat de ski-Moniteur national de ski nordique de fond. |
 
 4 |
 
 3 |
 
-Diplôme d'Etat d'alpinisme accompagnateur en moyenne montagne (DEA-AMM) |
+Diplôme d'Etat d'alpinisme accompagnateur en moyenne montagne (DEA-AMM). |
 
 3 |
 
 2 |
 
-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport mention " escalade " |
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport mention " escalade ". |
 
 4 |
 
@@ -238,63 +240,61 @@ Stage d'expert en technique d'optimisation du potentiel (TOP). |
 
 3 |
 
-4. Santé :
+4. SANTE :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
 Formations appelées à être sanctionnées par un certificat ou un diplôme permettant d'accéder à un corps relevant du statut des militaires infirmiers et techniciens des hôpitaux des armées. |
 
-Double de la période de formation |
+Double de la période
+
+de formation |
 
 1 |
 
-Validation de cinq semestres (acquisition de 150 ECTS) préparant à l'acquisition du diplôme d'État d'infirmier. |
+Validation de cinq semestres (acquisition de 150 ECTS) préparant à l'acquisition du diplôme d'Etat d'infirmier. |
 
-Double de la période de formation |
+Double de la période
+
+de formation |
 
 1 |
 
-5. Infrastructure :
+5. INFRASTRUCTURE :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Formation de spécialité 2e niveau conducteur de travaux. |
+Formation de spécialité deuxième niveau conducteur de travaux. |
 
 5 |
 
 2 |
 
-6. Prévention et gestion des risques :
+6. PREVENTION ET GESTION DES RISQUES :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -394,21 +394,19 @@ Equipier feux de forêt (ou IV formations marine). |
 
 1 |
 
-7. Soutien opérationnel :
+7. SOUTIEN OPERATIONNEL :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Formation intervention sur munitions et explosifs conventionnels deuxième niveau CMD 2 (Conventional Munition Disposal). |
+Formation intervention sur munitions et explosifs conventionnels CMD (Conventional Munition Disposal). |
 
 3 |
 
@@ -420,7 +418,7 @@ Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive
 
 3 |
 
-Formation intervention sur munitions spéciales / NRBC BCMD (Biological Chemical Munition Disposal). |
+Formation intervention sur munitions spéciales/ CBRN-EOD (Chemical Biological Radiological Nuclear-Explosive Ordnance Disposal). |
 
 2 |
 
@@ -456,13 +454,13 @@ Formation d'adaptation T12 contrôle matériel levage (ou vérificateur des appa
 
 2 |
 
-Qualifications acheminement interarmées (QAIA) de 2e niveau. |
+Qualifications acheminement interarmées (QAIA) de deuxième niveau. |
 
 2 |
 
 1 |
 
-Qualifications acheminement interarmées (QAIA) de 3e niveau. |
+Qualifications acheminement interarmées (QAIA) de troisième niveau. |
 
 2 |
 
@@ -480,17 +478,21 @@ Formation logistique du 3e degré (QLIA 3). |
 
 1 |
 
-8. SIC (systèmes d'information et de communication) :
+Diplôme d'Etat d'ambulancier. |
+
+3 |
+
+2 |
+
+8. SYSTEMES D'INFORMATION ET DE COMMUNICATION (SIC) :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -500,47 +502,21 @@ Maître système des réseaux de satellites. |
 
 2 |
 
-Stage supérieur des formations SAP. |
-
-3 |
-
-1 |
-
-Formation technique Air Command and Control System (ACCS). |
-
-4 |
-
-1 |
-
-Formation SOC (Security Operation Center). |
-
-3 |
-
-2 |
-
 Formation d'adaptation analyste défense |
 
 4 |
 
 2 |
 
-Formation en investigation numérique |
-
-4 |
-
-2 |
-
-9. Renseignement :
+9. RENSEIGNEMENT :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -556,19 +532,13 @@ Formation officier renseignement interprète analyste (ORIA). |
 
 1 |
 
-Stage d'utilisateur du système d'aide à l'interprétation multicapteurs. |
-
-3 |
-
-2 |
-
-Analyste renseignement d'origine électromagnétique (ROEM) du premier niveau. |
+Analyste renseignement d'origine électromagnétique du 1er niveau (ANAROEM-1). |
 
 4 |
 
 1 |
 
-Analyste renseignement d'origine électromagnétique (ROEM) du deuxième niveau. |
+Analyste renseignement d'origine électromagnétique du 2e niveau (ANAROEM-2). |
 
 4 |
 
@@ -586,11 +556,11 @@ Interprète d'image de premier niveau. |
 
 2 |
 
-Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images. Interprète image de second niveau. |
+Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images. Interprète image de second niveau. Certificat d'interprétation d'imagerie d'origine spatiale (IMOSPA). |
 
-4 |
+5 |
 
-1 |
+2 |
 
 Certificat de renseignement de deuxième niveau. |
 
@@ -598,23 +568,47 @@ Certificat de renseignement de deuxième niveau. |
 
 1 |
 
-Stage du certificat d'opérateur d'écoute du premier niveau. |
-
-3 |
-
-1 |
-
-Stage du certificat d'opérateur d'écoute du deuxième niveau. |
+Stage du certificat d'opérateur d'écoute du 1er niveau (OPECOUT-1). |
 
 4 |
 
 1 |
 
-Certificat d'opérateur linguiste d'interception. |
+Stage du certificat d'opérateur d'écoute du 2e niveau (OPECOUT-2). |
 
-5 |
+4 |
+
+1 |
+
+Formation de linguiste d'écoute en langue arabe. |
+
+6 |
 
 2 |
+
+Formation de linguiste d'écoute en langue russe. |
+
+6 |
+
+2 |
+
+Formation de linguiste d'écoute en langue chinoise. |
+
+6 |
+
+2 |
+
+Formation de linguiste d'écoute en langue persane. |
+
+6 |
+
+2 |
+
+Formation de linguiste d'écoute en langue européenne. |
+
+4 |
+
+1 |
 
 Formation inspecteur de sécurité de la défense (ISD). |
 
@@ -634,17 +628,15 @@ Conseiller en sûreté et sécurité en milieu industriel. |
 
 1 |
 
-10. Opérations en milieu aéronautique :
+10. OPERATIONS EN MILIEU AERONAUTIQUE :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -708,7 +700,7 @@ Formation qualification de type pilote sur hélicoptère EC 725/225. |
 
 2 |
 
-Formation météorologiste de premier niveau. |
+Formation initiale de technicien des métiers de la météorologie. |
 
 6 |
 
@@ -750,41 +742,39 @@ Stage sauveteur plongeur hélicoptère. |
 
 1 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Instrument Rating Instructor (IRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 3 |
 
 3 |
 
-Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Type Rating Instructor (TRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 2 |
 
 2 |
 
-Formation Class Rating Instructor (CRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Class Rating Instructor (CRI) pilote avion/ hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
 
 2 |
 
 2 |
 
-Formation radio de bord calibration 1351 |
+Formation radio de bord calibration 1351. |
 
 6 |
 
 2 |
 
-11. Opérations en milieu terrestre :
+11. OPERATIONS EN MILIEU TERRESTRE :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -806,17 +796,15 @@ Formation pilote parachute biplace emport passager. |
 
 2 |
 
-12. Systèmes de forces, systèmes d'armes et équipement :
+12. SYSTEMES DE FORCES, SYSTEMES D'ARMES ET EQUIPEMENT :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 

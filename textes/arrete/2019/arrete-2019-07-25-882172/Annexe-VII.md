@@ -1,18 +1,16 @@
 # Article Annexe VII
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE DE SANTÉ DES ARMÉES
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE DE SANTÉ DES ARMÉES
 
-1. Formation des officiers :
+1. FORMATION DES OFFICIERS :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -34,17 +32,15 @@ Suivi d'au moins trois modules de formation à l'Institut français de l'audit e
 
 3 |
 
-2. Prévention et gestion des risques :
+2. PREVENTION ET GESTION DES RISQUES :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -66,19 +62,35 @@ Formation au service de sécurité incendie et assistance à personnes (SSIAP) d
 
 1 |
 
-3. Divers :
+3. DIVERS :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
+
+Brevet supérieur de médecine aéronautique. |
+
+3 |
+
+2 |
+
+Brevet européen de médecine aéronautique. |
+
+3 |
+
+2 |
+
+Cours de médecine appliquée aux sous-marins nucléaires lanceurs d'engins. |
+
+3 |
+
+2 |
 
 Formation de l'enseignement supérieur validée par le diplôme universitaire (DU) technicien de l'information médicale. |
 

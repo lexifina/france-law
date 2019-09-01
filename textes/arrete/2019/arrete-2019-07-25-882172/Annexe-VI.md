@@ -1,28 +1,26 @@
 # Article Annexe VI
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA GENDARMERIE NATIONALE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA GENDARMERIE NATIONALE
 
-1. Formations des officiers :
+1. FORMATIONS DES OFFICIERS :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Centre des hautes études du ministère de l'Intérieur (CHEMI). |
+Centre des hautes études du ministère de l'intérieur (CHEMI). |
 
 4 |
 
 2 |
 
-Scolarité dans le cadre de l'enseignement supérieur du deuxième degré autre que l'École de guerre. |
+Scolarité dans le cadre de l'enseignement supérieur du deuxième degré autre que l'Ecole de guerre. |
 
 2 |
 
@@ -34,47 +32,45 @@ Suivi d'au moins trois modules de formation à l'Institut français de l'audit e
 
 3 |
 
-Session FBI à Quantico - États-Unis. |
+Session FBI à Quantico-Etats-Unis. |
 
 2 |
 
 1 |
 
-Strategic command course à Ascot - Royaume-Uni. |
+Strategic Command Course à Ascot-Royaume-Uni. |
 
 2 |
 
 1 |
 
-2. Formations communes aux officiers et sous-officiers :
+2. FORMATIONS COMMUNES AUX OFFICIERS ET SOUS-OFFICIERS :
 
-a) Enseignement supérieur :
+2.1. Enseignement supérieur :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Licence professionnelle N'TECH (nouvelles technologies) |
+Licence professionnelle N'TECH (nouvelles technologies). |
 
 5 |
 
 1 |
 
-Formation délinquance économique et financière niveau 3 (DEFI 3) (Centre national de formation de la police judiciaire - CNFPJ) |
+Formation délinquance économique et financière niveau 3 (DEFI 3) (Centre national de formation de la police judiciaire-CNFPJ). |
 
 4 |
 
 1 |
 
-Diplôme universitaire Analyse des risques et menaces contemporaines, option analyse criminelle opérationnelle (ACO - ANACRIM) |
+Diplôme universitaire Analyse des risques et menaces contemporaines, option analyse criminelle opérationnelle (ACO-ANACRIM). |
 
 3 |
 
@@ -86,17 +82,21 @@ Formation de l'enseignement supérieur validant deux semestres de la licence ou 
 
 1 |
 
-b) Opérations en milieu terrestre :
+Diplôme universitaire Analyse de documents-Mention Fraude documentaire. |
+
+2 |
+
+1 |
+
+2.2. Opérations en milieu terrestre :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -112,29 +112,27 @@ Brevet de spécialiste montagne. |
 
 1 |
 
-Formation des formateurs de formateurs de secourisme (instructeur) / (Cellule Nationale de Formation au Secourisme) |
+Formation des formateurs de formateurs de secourisme (instructeur)/ (Cellule nationale de formation au secourisme). |
 
 5 |
 
 1 |
 
-Formation des formateurs de formateurs des sauveteurs secouristes du travail (Institut National de Recherche et de Sécurité) |
+Formation des formateurs de formateurs des sauveteurs secouristes du travail (Institut national de recherche et de sécurité). |
 
 5 |
 
 1 |
 
-c) Sécurité publique :
+2.3. Sécurité publique :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -150,13 +148,19 @@ Stage de moniteur d'intervention professionnelle. |
 
 1 |
 
-Stage de moniteur d'intervention professionnelle et de franchissement opérationnel. |
+Stage d'instructeur d'intervention professionnelle. |
 
-3 |
+4 |
 
 1 |
 
-Stage d'instructeur d'intervention professionnelle. |
+Stage de moniteur de franchissement opérationnel. |
+
+2 |
+
+1 |
+
+Stage d'instructeur de franchissement opérationnel. |
 
 4 |
 
@@ -186,17 +190,21 @@ Stage de formation des sous-officiers motocyclistes. |
 
 1 |
 
-d) Opérations en milieu aéronautique :
+Stage de formation des pilotes de véhicules rapides d'intervention (VRI). |
+
+2 |
+
+1 |
+
+2.4. Opérations en milieu aéronautique :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -244,27 +252,25 @@ Formation initiale à la qualification de type pilote Visual Flight Rules H (145
 
 (*) Evolution vers un emploi IFR. |
 
-3. Soutien opérationnel :
+3. SOUTIEN OPERATIONNEL :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Brevet élémentaire de spécialiste (BES) - Toutes spécialités. |
+Brevet élémentaire de spécialiste (BES)-Toutes spécialités. |
 
 4 |
 
 2 |
 
-Brevet supérieur de spécialiste (BSS) - Toutes spécialités. |
+Brevet supérieur de spécialiste (BSS)-Toutes spécialités. |
 
 4 |
 

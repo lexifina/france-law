@@ -1,20 +1,18 @@
 # Article Annexe III
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE TERRE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE TERRE
 
-1. Formations des officiers :
+1. FORMATIONS DES OFFICIERS :
 
-a) Management :
+1.1. Management :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -30,23 +28,21 @@ Formation en langues rares (chinois, russe, arabe). |
 
 2 |
 
-Centre des hautes études du ministère de l'Intérieur (CHEMI). |
+Centre des hautes études du ministère de l'intérieur (CHEMI). |
 
 4 |
 
 1 |
 
-b) Opérations en milieu aéronautique :
+1.2. Opérations en milieu aéronautique :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -104,17 +100,15 @@ Formation de mécanicien volant d'appareil à voilure tournante. |
 
 2 |
 
-c) Opérations en milieu terrestre :
+1.3. Opérations en milieu terrestre :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -136,17 +130,15 @@ Formation au saut opérationnel à très grande hauteur. |
 
 1 |
 
-d) Infrastructure :
+1.4. Infrastructure :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -156,25 +148,17 @@ Certificat technique d'opérations d'infrastructure. |
 
 2 |
 
-e) Prévention et gestion des risques :
+1.5. Prévention et gestion des risques :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
-
-Chef de section sauveteur déblayeur (SDE 3). |
-
-3 |
-
-1 |
 
 Sauveteur groupe de reconnaissance et d'intervention en milieu périlleux (IMP 2). |
 
@@ -224,31 +208,7 @@ Monitorat surface non libre 3e degré (SNL 3). |
 
 1 |
 
-Chef de salle (TRS 3). |
-
-2 |
-
-1 |
-
-Officier de transmissions (TRS 4). |
-
-2 |
-
-1 |
-
 Monitorat aux techniques d'engagement. |
-
-2 |
-
-1 |
-
-Officier SIC (SIC 6). |
-
-2 |
-
-1 |
-
-Commandant des SIC (SIC 7). |
 
 2 |
 
@@ -272,19 +232,17 @@ Conseiller technique risques radiologiques (RAD 4). |
 
 2 |
 
-2. Formations des sous-officiers :
+2. FORMATIONS DES SOUS-OFFICIERS :
 
 2.1. Règles générales :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -302,17 +260,15 @@ Formation de spécialité du 2e niveau. |
 
 2.2. Règles particulières :
 
-a) Soutien opérationnel :
+2.2.1. Soutien opérationnel :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -466,23 +422,21 @@ Formation maintenance des climatiseurs des véhicules et shelters de la gamme ta
 
 2 |
 
-Formation d'adaptation sous-officier mouvements -transits |
+Formation d'adaptation sous-officier mouvements-transits. |
 
 2 |
 
 2 |
 
-b) Renseignement :
+2.2.2. Renseignement :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -494,27 +448,37 @@ Formation de spécialité de 1er niveau technicien guerre électronique détecti
 
 Formation de spécialité du 2e niveau Perfectionnement sous-officier géographe option topographie. |
 
-5 |
+4 |
 
 2 |
 
 Formation de spécialité du 2e niveau Perfectionnement sous-officier géographe option cartographie. |
 
+4 |
+
+2 |
+
+Formation de spécialiste du 1er degré système drone tactique |
+
 5 |
 
 2 |
 
-c) Prévention et gestion des risques :
+Formation de spécialiste du 2e degré système drone tactique |
+
+5 |
+
+2 |
+
+2.2.3. Prévention et gestion des risques :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -602,25 +566,7 @@ Certificat de compétences de conception et encadrement de formation. |
 
 1 |
 
-Opérateur de transmissions (TRS2). |
-
-2 |
-
-1 |
-
-Opérateur CO-CSO (SIC4). |
-
-2 |
-
-1 |
-
 Monitorat aux techniques d'engagement. |
-
-2 |
-
-1 |
-
-Officier SIC (SIC 6). |
 
 2 |
 
@@ -638,37 +584,63 @@ Formations garde du corps niveau 2 et 3 |
 
 1 |
 
-d) Systèmes d'information et de communication :
+2.2.4. Systèmes d'information et de communication :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Formation d'adaptation maître réseau télécom |
+Formation de spécialité de 1er niveau Emploi des Supports de Télécommunications (EST). |
 
-3 |
+4 |
 
-2 |
+1 |
 
-e) Communication et culture :
+Formation de spécialité de 1er niveau Emploi des réseaux IP (EDR). |
+
+4 |
+
+1 |
+
+Formation de spécialité de 1er niveau Emploi des systèmes d'information (ESI). |
+
+4 |
+
+1 |
+
+Formation de spécialité de 1er niveau Réalisation des systèmes d'information (RSI). |
+
+4 |
+
+1 |
+
+Formation de spécialité de 1er niveau Emploi des réseaux mobiles (ERM). |
+
+4 |
+
+1 |
+
+Formation de spécialité de 1er niveau Liaisons de données tactiques (LDT). |
+
+4 |
+
+1 |
+
+2.2.5. Communication et culture :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -678,21 +650,19 @@ Formation de spécialité de 2e niveau métiers de l'image. |
 
 2 |
 
-f) Opérations en milieu terrestre :
+2.2.6. Opérations en milieu terrestre :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Formation mixte EPI/EPC de moniteur parachutiste. |
+Formation mixte EPI/ EPC de moniteur parachutiste. |
 
 3 |
 
@@ -734,17 +704,21 @@ Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la d�
 
 1 |
 
-g) Opérations en milieu aéronautique :
+Primo formation de chef-largueur et largueur sur C130J. |
+
+3 |
+
+1 |
+
+2.2.7. Opérations en milieu aéronautique :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -766,35 +740,27 @@ Formation de mécanicien volant d'appareil à voilure tournante. |
 
 2 |
 
-Attestation d'adaptation de pilote de drone - Système de drone tactique |
+Attestation d'adaptation de pilote de drone-Système de drone tactique |
 
 2 |
 
 2 |
 
-3. Formations des militaires du rang :
+3. FORMATIONS DES MILITAIRES DU RANG :
 
-a) Divers :
+3.1. Divers :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Diplôme d'État d'ambulancier. |
-
-3 |
-
-2 |
-
-Formation de qualification à la conduite de véhicule de transport de marchandises dangereuses classe 3 - produits pétroliers. |
+Formation de qualification à la conduite de véhicule de transport de marchandises dangereuses classe 3-produits pétroliers. |
 
 2 |
 
@@ -830,23 +796,21 @@ Conducteur portique à conteneur. |
 
 1 |
 
-Formation amenant à l'obtention d'un baccalauréat professionnel spécialité Aéronautique , toutes options. |
+Formation amenant à l'obtention d'un baccalauréat professionnel spécialité " Aéronautique ", toutes options. |
 
 5 |
 
-2 |
+3 |
 
-b) Prévention et gestion des risques :
+3.2. Prévention et gestion des risques :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -886,19 +850,13 @@ Pédagogie appliquée à l'emploi de formateur de formateurs (PAE FF). |
 
 1 |
 
-Pédagogie appliquée à l'emploi de formateur en prévention et secours civiques (PAE FPSC) |
+Pédagogie appliquée à l'emploi de formateur en prévention et secours civiques (PAE FPSC). |
 
 2 |
 
 1 |
 
-Pédagogie appliquée à l'emploi de formateur aux premiers secours (PAE FPS) |
-
-2 |
-
-1 |
-
-Opérateur de transmission (TRS2). |
+Pédagogie appliquée à l'emploi de formateur aux premiers secours (PAE FPS). |
 
 2 |
 
@@ -910,33 +868,25 @@ Monitorat aux techniques d'engagement. |
 
 1 |
 
-Opérateur CO - CSO (SIC 4). |
-
-2 |
-
-1 |
-
 Instructorat incendie. |
 
 3 |
 
 1 |
 
-c) Opérations en milieu terrestre :
+3.3. Opérations en milieu terrestre :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
-Formation d'adaptation complémentaire qualifiante maître de chien - aide dresseur. |
+Formation d'adaptation complémentaire qualifiante maître de chien-aide dresseur. |
 
 3 |
 
@@ -966,7 +916,7 @@ Formation au saut opérationnel à très grande hauteur. |
 
 1 |
 
-Plongeur de bord - Formation de base à la plongée à l'air. |
+Plongeur de bord-Formation de base à la plongée à l'air. |
 
 2 |
 

@@ -1,18 +1,16 @@
 # Article Annexe X
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE D'INFRASTRUCTURE DE LA DÉFENSE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE D'INFRASTRUCTURE DE LA DÉFENSE
 
-Formation de l'enseignement supérieur :
+FORMATION DE L'ENSEIGNEMENT SUPERIEUR :
 
 INTITULE DE LA FORMATION |
 
-Durée du lien
+DUREE DU LIEN
 
-au service
+au service (années) |
 
-(années) |
-
-Coefficient
+COEFFICIENT
 
 multiplicateur |
 
@@ -28,7 +26,7 @@ Formation complémentaire au diplôme d'architecte d'une durée de quatre mois c
 
 2 |
 
-Suivi d'au moins trois modules de formation à l'école nationale de l'aviation civile (ENAC). |
+Suivi d'au moins trois modules de formation à l'Ecole nationale de l'aviation civile (ENAC). |
 
 4 |
 
