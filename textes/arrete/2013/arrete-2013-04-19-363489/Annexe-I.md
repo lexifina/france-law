@@ -14,7 +14,7 @@ L'épreuve a pour but d'évaluer la capacité du candidat à situer son action p
 
 Durée : cinq heures ; coefficient 2.
 
-2° Dissertation ou étude de cas à partir de documents portant sur l'enseignement de l'éducation physique et sportive dans le second degré.
+2° Composition à partir de documents permettant une mise en contexte de l'enseignement de l'éducation physique et sportive dans le second degré.
 
 L'épreuve a pour but d'évaluer la capacité du candidat à mobiliser les connaissances scientifiques issues des champs de la didactique, de la pédagogie, des sciences humaines et sociales, des sciences du vivant, des connaissances techniques et professionnelles nécessaires à la compréhension des conditions d'enseignement et d'apprentissage favorisant les acquisitions des élèves dans les établissements du second degré.
 
@@ -54,7 +54,7 @@ Durée de préparation : une heure ; durée de l'entretien : une heure.
 
 Cette partie de l'épreuve conduit le candidat à développer un projet d'intervention professionnelle répondant aux situations proposées par le jury. Elle suppose de sa part une mobilisation de ses connaissances académiques et professionnelles, de faire appel à une connaissance approfondie de l'APSA choisie comme activité de spécialité et de disposer d'une capacité de prise de distance requise dans la représentation qu'il développe de son métier futur. Le dossier fourni au candidat est spécifique de l'APSA qu'il a choisie comme activité de spécialité lors de l'inscription au concours. Le projet d'intervention devra permettre de résoudre le problème posé par les éléments du dossier.
 
-Au cours de l'entretien, le candidat devra justifier les choix didactiques et pédagogiques retenus en vue d'accroître la réussite des élèves.
+Au cours de l'entretien, le candidat devra justifier les choix didactiques et pédagogiques retenus en vue d'accroître la réussite des élèves. Le jury abordera durant l'entretien les aspects sécuritaires et la gestion des accidents liés à la pratique de l'activité de spécialité choisie par le candidat.
 
 b) Prestations physiques :
 
