@@ -10,6 +10,8 @@ Vous pouvez consulter les clichés dans le JO n° 200 du 29/08/2013 texte numér
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130829&numTexte=54&pageDebut=14632&pageFin=14723
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039001472
+
 Section II. - SIGNAUX AUXILIAIRES
 
 Les signaux principaux peuvent être complétés par les signaux auxiliaires suivant :
