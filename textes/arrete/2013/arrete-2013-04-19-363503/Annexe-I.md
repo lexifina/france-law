@@ -520,6 +520,82 @@ L'épreuve prend appui sur un ou plusieurs documents écrits consacrés à un su
 
 Cette épreuve permet au candidat de montrer sa capacité à s'exprimer avec aisance en langue des signes française en continu et en interaction en présentant et en défendant un point de vue argumenté, ainsi que sa capacité à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
+Section langues kanak : ajië, drehu, nengone, paicî
+
+Au titre d'une session, le concours peut être ouvert pour une ou plusieurs de ces quatre langues. Dans ce second cas, les candidats font l'objet d'un classement distinct selon la langue kanak au titre de laquelle ils concourent, qu'ils choisissent au moment de l'inscription.
+
+Les épreuves en langue kanak se déroulent dans la langue au titre de laquelle les candidats concourent ; toutefois, les éléments culturels concernent la culture kanak dans son ensemble.
+
+L'ensemble des épreuves du concours vise à évaluer les capacités du candidat au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
+
+A. – Epreuves écrites d'admissibilité
+
+1° Composition et traduction.
+
+L'épreuve se compose de deux ensembles :
+
+a) Une composition en langue kanak à partir d'un dossier constitué de documents de littérature et/ ou de civilisation portant sur l'un des thèmes ou axes choisis dans l'ensemble des programmes de collège et de lycée. A cette composition peut être ajoutée une question complémentaire sur l'exploitation dans le cadre des enseignements de la problématique retenue.
+
+Pour cette épreuve, un thème (programmes de collège) et quatre axes (programmes de lycée) sont inscrits au programme du concours. Le thème est renouvelé tous les deux ans, les axes par moitié chaque année. Ce programme fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale ;
+
+b) Au choix du jury, une traduction en français d'un texte en langue kanak et/ ou une traduction en langue kanak d'un texte en français, accompagnée (s) d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre.
+
+Durée : cinq heures ; coefficient 2.
+
+2° Epreuve à options.
+
+Le candidat a le choix, lors de l'inscription au concours, entre les options suivantes : français, histoire et géographie, mathématiques, anglais, espagnol.
+
+Option français : première épreuve écrite d'admissibilité du CAPES externe de lettres.
+
+Option histoire et géographie : première épreuve écrite d'admissibilité du CAPES externe d'histoire et géographie.
+
+Option mathématiques : première épreuve écrite d'admissibilité du CAPES externe de mathématiques dans l'option mathématiques.
+
+Option anglais ou espagnol : première épreuve écrite d'admissibilité du CAPES externe de langues vivantes étrangères (anglais ou espagnol).
+
+L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
+
+Coefficient 2.
+
+B. – Epreuves d'admission
+
+Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
+
+1° Epreuve de mise en situation professionnelle.
+
+L'épreuve prend appui sur un dossier proposé par le jury, composé de documents se rapportant à l'un des thèmes ou axes de l'ensemble des programmes de collège et de lycée. Ces documents peuvent être de nature différente : textes, documents iconographiques, enregistrements audio ou vidéo, documents scientifiques, didactiques, pédagogiques, extraits de manuels ou travaux d'élèves.
+
+L'épreuve comporte deux parties :
+
+– une première partie en langue kanak consistant en un exposé comportant la présentation, l'étude et la mise en relation des documents. L'exposé est suivi d'un entretien en langue kanak durant lequel le candidat est amené à justifier sa présentation et à développer certains éléments de son argumentation ;
+
+– une seconde partie en langue française consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques qu'ils mobilisent, de l'intérêt culturel et de civilisation qu'ils présentent ainsi que des activités langagières qu'ils permettent de mettre en pratique selon la situation d'enseignement choisie, suivie d'un entretien en français au cours duquel le candidat est amené à justifier ses choix.
+
+Chaque partie compte pour moitié dans la notation.
+
+La qualité de l'expression en langue française et dans la langue de l'option est prise en compte dans l'évaluation de chaque partie de l'épreuve.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 4.
+
+2° Epreuve d'entretien à partir d'un dossier.
+
+L'épreuve porte :
+
+-d'une part, sur un document de compréhension fourni par le jury, document audio ou vidéo authentique en langue kanak en lien avec l'un des thèmes ou axes de l'ensemble des programmes de collège et de lycée ;
+
+-d'autre part, sur un dossier fourni par le jury portant sur un thème ou axe de ces programmes et composé de productions d'élèves (écrites et orales) et de documents relatifs aux situations d'enseignement et au contexte institutionnel.
+
+La première partie de l'entretien se déroule en langue kanak. Elle permet de vérifier la compréhension du document authentique à partir de sa présentation et de l'analyse de son intérêt.
+
+La seconde partie de l'entretien se déroule en français. Elle permet de vérifier, à partir de l'analyse des productions d'élèves (dans leurs dimensions linguistique, culturelle et pragmatique) ainsi que des documents complémentaires, la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+
+Le document audio ou vidéo et l'enregistrement d'une production orale d'élève n'excéderont pas chacun trois minutes.
+
+La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
+
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure (trente minutes maximum pour chaque partie) ; coefficient 4.
+
 Section lettres : lettres classiques, lettres modernes
 
 L'ensemble des épreuves vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
@@ -763,6 +839,56 @@ L'épreuve prend appui sur un dossier fourni par le jury, comprenant des documen
 Pendant vingt minutes, le candidat expose ses réponses aux questions posées dans le dossier. L'entretien avec le jury prend appui sur la présentation faite par le candidat, en particulier sur les exercices qu'il a proposés, aussi bien en ce qui concerne leur résolution que leur intégration dans une séquence pédagogique. L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Durée de la préparation : deux heures et demie ; durée de l'épreuve : une heure ; coefficient 2.
+
+Section numérique et sciences informatiques
+
+L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
+
+Le programme des épreuves est constitué du programme d'enseignement de sciences numériques et technologie (SNT) de la classe de seconde générale et technologique et des programmes d'enseignement de spécialité de numérique et sciences informatiques (NSI) du cycle terminal de la voie générale du lycée. Les notions traitées dans ces programmes doivent pouvoir être abordées avec un recul correspondant au niveau M1 du cycle master.
+
+A. - Epreuves écrites d'admissibilité
+
+1° Première épreuve d'admissibilité.
+
+Le sujet est constitué d'un ou plusieurs problèmes. L'épreuve consiste en leur analyse et leur résolution.
+
+Cette épreuve évalue la maîtrise des savoirs académiques. Elle sollicite également les capacités de raisonnement et d'argumentation du candidat.
+
+Durée : cinq heures ; coefficient 1.
+
+2° Deuxième épreuve d'admissibilité.
+
+Cette épreuve s'appuie sur un ou plusieurs documents pour un ou plusieurs niveaux de classe déterminés par le jury. Elle consiste en leur exploitation et leur analyse guidées par un questionnement précis. Elle vise à évaluer l'aptitude à mobiliser des savoirs disciplinaires et didactiques dans une activité d'enseignement, ainsi que les capacités d'analyse, de synthèse et d'argumentation. Cette épreuve comprend une réflexion sur les dimensions éthiques, juridiques, économiques ou environnementales.
+
+Durée : cinq heures ; coefficient 1.
+
+B. - Epreuves d'admission
+
+Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, technologiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
+
+1° Epreuve de mise en situation professionnelle.
+
+L'épreuve consiste en un exposé du candidat suivi d'un entretien avec le jury.
+
+Lors de sa préparation, le candidat a accès à un environnement informatique indiqué sur le site internet du ministère chargé de l'éducation nationale.
+
+L'épreuve permet d'apprécier la capacité du candidat à maîtriser et organiser des notions sur un thème donné, à les exposer de façon convaincante et à mobiliser l'environnement informatique à bon escient.
+
+Le candidat choisit un sujet parmi deux qu'il tire au sort. Pendant trente minutes, il présente un exposé sur le thème retenu illustré par une ou plusieurs propositions d'activité pouvant utiliser l'environnement informatique. Cet exposé est suivi d'un entretien portant sur la présentation du candidat ou sur tout autre aspect en lien avec le sujet choisi.
+
+Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure (exposé : trente minutes, entretien avec le jury : trente minutes) ; coefficient 2.
+
+2° Epreuve sur dossier.
+
+L'épreuve repose sur une présentation d'un dossier réalisé par le candidat, suivie d'un entretien avec le jury. L'épreuve doit permettre d'apprécier la capacité du candidat à présenter de manière réfléchie un ou plusieurs projets ou réalisations informatiques, et à en extraire des exploitations pédagogiques pertinentes pour son enseignement au lycée.
+
+L'épreuve permet d'apprécier la capacité du candidat à mobiliser les notions et concepts des programmes en mettant en œuvre une pédagogie de projet et en se montrant attentif aux dimensions éthiques, juridiques, économiques ou environnementales des problèmes abordés.
+
+L'entretien permet au jury d'approfondir les points qu'il juge utiles. Il permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+
+Le dossier est transmis au jury par voie électronique (format PDF) au moins dix jours avant le début des épreuves d'admission.
+
+Durée totale de l'épreuve : une heure (présentation : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 Section philosophie
 

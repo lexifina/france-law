@@ -180,6 +180,24 @@ Durée de la préparation : trois heures ; durée de l'épreuve : une heure et d
 
 Dix minutes maximum imputables sur la durée totale des entretiens pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet échange se déroule en langue des signes française.
 
+Section langues kanak : ajië, drehu, nengone, paicî
+
+Au titre d'une session, le concours peut être ouvert pour une ou plusieurs de ces quatre langues. Dans ce second cas, les candidats font l'objet d'un classement distinct selon la langue kanak au titre de laquelle ils concourent, qu'ils choisissent au moment de l'inscription.
+
+Les épreuves en langue kanak se déroulent dans la langue au titre de laquelle les candidats concourent ; toutefois, les éléments culturels concernent la culture kanak dans son ensemble.
+
+A. – Epreuve d'admissibilité
+
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
+
+B. – Epreuve d'admission
+
+Exploitation pédagogique de documents en langue kanak (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en langue kanak suivi d'un entretien en langue kanak comportant l'explication en français de faits de langue.
+
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet échange se déroule en langue kanak.
+
 Section langues vivantes étrangères
 
 A. - Epreuve d'admissibilité
@@ -289,6 +307,26 @@ L'entretien a pour base la situation d'enseignement proposée. Lors de l'entreti
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure et quinze minutes maximum (exposé : trente minutes maximum ; entretien : quarante-cinq minutes maximum) ; coefficient 2.
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Section numérique et sciences informatiques
+
+A.-Epreuve d'admissibilité
+
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
+
+B.-Epreuve d'admission
+
+A partir d'un sujet remis par le jury, l'épreuve consiste en un exposé du candidat suivi d'un entretien avec le jury.
+
+Elle permet d'évaluer l'aptitude du candidat à concevoir et à organiser une séquence de formation pour un objectif pédagogique et un niveau de classe donnés.
+
+Lors de sa préparation, le candidat a accès à un environnement informatique indiqué sur le site internet du ministère chargé de l'éducation nationale.
+
+Le sujet proposé se réfère au programme d'enseignement de sciences numériques et technologie (SNT) de la classe de seconde générale et technologique et aux programmes d'enseignement de spécialité de numérique et sciences informatiques (NSI) du cycle terminal de la voie générale du lycée.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Durée de préparation : trois heures ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 Section philosophie
 

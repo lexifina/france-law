@@ -92,6 +92,18 @@ Seconde épreuve orale d'admission du concours externe du CAPES de mathématique
 
 L'épreuve d'admission doit, en outre, permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles dans ses réponses aux questions du jury.
 
+Section numérique et sciences informatiques
+
+A.-Epreuve d'admissibilité
+
+Première épreuve écrite d'admissibilité du concours externe du CAPES de numérique et sciences informatiques (coefficient 1).
+
+B.-Epreuve d'admission
+
+Deuxième épreuve d'admission du concours externe du CAPES de numérique et sciences informatiques (coefficient 1).
+
+L'épreuve d'admission doit, en outre, permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles à la problématique du sujet et dans ses réponses aux questions du jury.
+
 Section sciences économiques et sociales
 
 A. - Epreuve d'admissibilité
