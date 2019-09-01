@@ -84,7 +84,11 @@ Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 - Système de mesurage d’indicateurs de performance énergétique / Fiche d’opération standardisée n° IND-UT-134
 
+- Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0202 du 31/08/2019, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=w75r1aFNZtgSLs1AgZIXbd_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
@@ -112,4 +116,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).
+Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A).

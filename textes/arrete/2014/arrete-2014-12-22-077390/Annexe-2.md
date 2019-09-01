@@ -122,6 +122,8 @@ Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163
 
+- Rénovation globale d’une maison individuelle (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-164
+
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
 Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.
@@ -154,6 +156,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0202 du 31/08/2019, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=w75r1aFNZtgSLs1AgZIXbd_gRqcUA3qn9Cpuf_2cwJA=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0133 du 09/06/2019, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Q_vQ16VVzxXuswcUNhlLjHWJxxTi3iGaJHtrBnqWc5M=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0008 du 10/01/2019, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=u7rGf9s03QdWLxlTlXxBZO6yplGEb0Xgie4-T-nS53g=
@@ -185,3 +189,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A).

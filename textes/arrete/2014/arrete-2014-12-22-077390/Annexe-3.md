@@ -2,155 +2,167 @@
 
 Secteur tertiaire
 
-Isolation de combles ou de toitures / Fiche d’opération n° BAT-EN-101
+-Isolation de combles ou de toitures / Fiche d’opération n° BAT-EN-101
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
-Isolation des murs / Fiche d’opération standardisée n° BAT-EN-102
+-Isolation des murs / Fiche d’opération standardisée n° BAT-EN-102
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
-Isolation d’un plancher / Fiche d’opération standardisée n° BAT-EN-103
+-Isolation d’un plancher / Fiche d’opération standardisée n° BAT-EN-103
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
-Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
+-Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
-Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
+-Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
 
-Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
+-Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
-Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
+-Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
 
-Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-109
+-Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-109
 
-Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
+-Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
 
-Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
+-Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
-Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
+-Contrat de Performance Energétique Services (CPE Services) Chauffage / Fiche d’opération standardisée n° BAT-SE-104
+
+-Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n° BAT-TH-103
+-Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n° BAT-TH-103
 
-Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
+Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
-Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
+-Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
 
-Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106 (Abrogée à compter du 1er avril 2018)
+-Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
+
+-Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
-Système de régulation par programmation d’intermittence / Fiche d’opération standardisée n° BAT-TH-108
+-Système de régulation par programmation d’intermittence / Fiche d’opération standardisée n° BAT-TH-108
 
-Optimiseur de relance en chauffage collectif / Fiche d’opération standardisée n° BAT-TH-109
+-Optimiseur de relance en chauffage collectif / Fiche d’opération standardisée n° BAT-TH-109
 
-Récupérateur de chaleur à condensation / Fiche d’opération standardisée n° BAT-TH-110
+Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
-Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-111
+-Récupérateur de chaleur à condensation / Fiche d’opération standardisée n° BAT-TH-110
 
-Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° BAT-TH-112
+-Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-111
+
+-Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° BAT-TH-112
 
 Conformément à l’article 2 de l’arrêté du 2 juin 2016 (NOR : DEVR1611811A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
-Pompe à chaleur de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-113
+-Pompe à chaleur de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-113
 
 Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-115
+-Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-115
 
 Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), l’annexe 1 de la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
-Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
+-Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
+-Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
-Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
+-Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
 
-Programmateur d’intermittence pour la climtisation (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-122
+-Programmateur d’intermittence pour la climtisation (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-122
 
-Ventilation mécanique simple flux à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-125
+-Ventilation mécanique simple flux à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-125
 
-Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-126
+-Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-126
 
-Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’opération standardisée n° BAT-TH-127
-
-Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
-
-Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
-
-Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
-
-Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
+-Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’opération standardisée n° BAT-TH-127
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
+-Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
+
+-Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
+
+-Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
+-Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
-
-Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
-
-Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
-
-Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-146
-
-Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
-
-Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
-
-Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
-
-Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
-
-Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114 (abrogée à compter du 1er avril 2019)
-
-Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116 (abrogée à compter du 1er avril 2019)
-
-Installation frigorifique utilisant du CO2 subcritique ou transcritique / Fiche d’opération standardisée n° BAT-EQ-117
-
-Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° BAT-EQ-123
-
-Fermeture des meubles frigorifiques de vente à température positive / Fiche d’opération standardisée n° BAT-EQ-124
-
-Fermetures des meubles frigorifiques de vente à température négative/ Fiche d’opération standardisée n° BAT-EQ-125
-
-Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d’opération standardisée n° BAT-EQ-126 (Abrogée à compter du 1er avril 2018)
-
-Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
+-Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
+-Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
 
-Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° BAT-EQ-130
+-Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
-Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-131
+-Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
 
-Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132 (abrogée à compter du 1er avril 2019)
+-Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-146
+
+Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
+
+-Système de confinement des allées froides et allées chaudes dans un Data center / Fiche d’opération standardisée n° BAT-TH-153
+
+-Récupération instantanée de chaleur sur eaux grises / Fiche d’opération standardisée n° BAT-TH-154
+
+-Isolation de points singuliers d’un réseau / Fiche d’opération standardisée n° BAT-TH-155
+
+-Freecooling par eau de refroidissement en substitution d’un groupe froid pour la climatisation / Fiche d’opération standardisée n° BAT-TH-156
+
+-Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
+
+-Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114 (abrogée à compter du 1er avril 2019)
+
+-Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116 (abrogée à compter du 1er avril 2019)
+
+-Installation frigorifique utilisant du CO2 subcritique ou transcritique / Fiche d’opération standardisée n° BAT-EQ-117
+
+-Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° BAT-EQ-123
+
+-Fermeture des meubles frigorifiques de vente à température positive / Fiche d’opération standardisée n° BAT-EQ-124
+
+-Fermetures des meubles frigorifiques de vente à température négative/ Fiche d’opération standardisée n° BAT-EQ-125
+
+-Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d’opération standardisée n° BAT-EQ-126 (Abrogée à compter du 1er avril 2018)
+
+-Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
+
+Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
+-Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
+
+-Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° BAT-EQ-130
+
+-Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-131
+
+-Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132 (abrogée à compter du 1er avril 2019)
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
-Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
+-Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0202 du 31/08/2019, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=w75r1aFNZtgSLs1AgZIXbd_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
 
@@ -180,4 +192,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 7 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A).
+Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A).
