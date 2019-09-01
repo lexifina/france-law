@@ -98,6 +98,10 @@ LVC (a) (b) |
 
 3 heures |
 
+Langue des signes française |
+
+3 heures |
+
 LCA : latin (h) |
 
 3 heures |
@@ -255,6 +259,14 @@ b) 1 enseignement parmi : |
 LVC (a) (b) |
 
 3 heures |
+
+Langue des signes française
+
+|
+
+3 heures
+
+|
 
 LCA : latin (k) |
 
