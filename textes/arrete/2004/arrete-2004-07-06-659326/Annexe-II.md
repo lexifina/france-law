@@ -22,7 +22,7 @@ C'est l'occasion pour le candidat :
 
 2-1 Candidats relevant de la voie scolaire
 
-La durée totale obligatoire de 16 semaines est répartie sur les deux années de formation :
+La durée totale obligatoire de 14 semaines est répartie sur les deux années de formation :
 
 - 8 semaines en première année
 
@@ -36,7 +36,7 @@ La formation fait l'objet d'un contrat conclu entre l'apprenti et son employeur 
 
 2-3 Candidats relevant de la voie de la formation continue
 
-La durée de la formation en entreprise est de 16 semaines, toutefois les candidats de la formation continue peuvent être dispensés des périodes de formation en entreprise s'ils justifient d'au moins six mois d'activité dans le secteur du diplôme.
+La durée de la formation en entreprise est de 14 semaines, toutefois les candidats de la formation continue peuvent être dispensés des périodes de formation en entreprise s'ils justifient d'au moins six mois d'activité dans le secteur du diplôme.
 
 3. PLANIFICATION DES PÉRIODES DE FORMATION EN MILIEU PROFESSIONNEL
 
@@ -55,3 +55,7 @@ La concertation entre l'équipe pédagogique et les tuteurs des structures d'acc
 3-3 L'évaluation des acquis de la PFMP
 
 Elle se fait selon les modalités précisées dans le règlement d'examen.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 22 juillet 2019, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2019.

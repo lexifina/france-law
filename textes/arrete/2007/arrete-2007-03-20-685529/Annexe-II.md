@@ -10,7 +10,7 @@ Durée
 
 |
 
-La durée totale obligatoire de la période de formation en milieu professionnel (PFMP) au sein d’une entreprise de poissonnerie est de seize semaines, réparties sur les deux années de formation :
+La durée totale obligatoire de la période de formation en milieu professionnel (PFMP) au sein d’une entreprise de poissonnerie est de quatorze semaines, réparties sur les deux années de formation :
 
 six semaines en fin de première année de formation ;
 
@@ -62,7 +62,7 @@ Durée
 
 |
 
-La durée de la formation en milieu professionnel est de seize semaines.
+La durée de la formation en milieu professionnel est de quatorze semaines.
 
 Toutefois, les candidats de la formation continue peuvent être dispensés des périodes de formation en milieu professionnel s’ils justifient d’une expérience professionnelle d’au moins six mois dans le secteur d’activités concerné.
 
@@ -79,3 +79,7 @@ Durée
 En cas de positionnement (prononcé dans les mêmes conditions que celles définies par l’arrêté du 9 mai 1995 relatif au positionnement en vue de la préparation du baccalauréat professionnel, du brevet professionnel et du brevet de technicien supérieur), la durée minimale de la formation en milieu professionnel est de huit semaines pour les candidats issus de la voie scolaire et de la formation continue.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 22 juillet 2019, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2019.
