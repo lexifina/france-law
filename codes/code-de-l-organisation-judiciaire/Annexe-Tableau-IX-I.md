@@ -80,7 +80,7 @@ Angers
 
 |
 
-Ressort des tribunaux d'instance d'Angers, Cholet et Saumur
+Ressort des tribunaux d'instance d'Angers et Cholet
 
 |
 
