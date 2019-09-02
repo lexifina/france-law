@@ -1,10 +1,10 @@
 # Article Annexe 2
 
-LISTE DES SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL RELEVANT DE CHAQUE CHAMP PROFESSIONNEL
+LISTE DES SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL RELEVANT DE CHAQUE FAMILLE DE MÉTIERS
 
 SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL |
 
-CHAMPS PROFESSIONNELS
+FAMILLES DE MÉTIERS
 
 et classes de seconde professionnelle |
 
@@ -42,10 +42,8 @@ Technicien conseil vente en alimentation |
 
 Technicien conseil vente en produits de jardin |
 
-Bio-industries de transformation (*) |
+Bio-industries de transformation |
 
 Alimentation-Bio-industrie-Laboratoire |
 
 Laboratoire contrôle qualité |
-
-(*) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale |
