@@ -1,8 +1,6 @@
 # Article Annexe 2
 
-Niveaux du cycle 4
-
-Volumes horaires des enseignements obligatoires applicables aux élèves des niveaux du cycle 4 de collège
+VOLUMES HORAIRES DES ENSEIGNEMENTS OBLIGATOIRES APPLICABLES AUX ÉLÈVES DES NIVEAUX DU CYCLE 4 DE COLLÈGE
 
 ENSEIGNEMENTS |
 
@@ -38,7 +36,7 @@ Français |
 
 4 heures |
 
-Histoire - Géographie - Enseignement moral et civique |
+Histoire-Géographie-Enseignement moral et civique |
 
 3 heures |
 
@@ -94,10 +92,10 @@ Physique-Chimie |
 
 1,5 heure |
 
-Total (* *) |
+Total (**) |
 
 26 heures, dont 4 heures d'enseignements complémentaires |
 
 (*) Chacun de ces enseignements peut être organisé à raison de 2 heures hebdomadaires sur un semestre.
 
-(* *) S'y ajoutent au moins 10 heures annuelles de vie de classe par niveau. |
+(**) S'y ajoutent au moins 10 heures annuelles de vie de classe par niveau, ainsi que, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement, 12 heures annuelles d'accompagnement à l'orientation en classe de quatrième et 36 heures annuelles en classe de troisième. |
