@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170700475
+
+- Question : [SEQ170700475](seq170700475.md) — Échéances de versement des subventions aux communes
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-09-05, page 4490*
+
+Le décret n° 2018-428 du 1er juin 2018 relatif aux dotations de l'État aux collectivités territoriales a harmonisé certaines des modalités de gestion de la dotation d'équipement des territoires ruraux (DETR), de la dotation politique de la ville (DPV) et de la dotation de soutien à l'investissement local (DSIL). Celles-ci sont notamment codifiées à l'article R. 2334-30 du code général des collectivités territoriales (CGCT). La réglementation actuelle semble adaptée à la conduite des projets puisqu'aucune collectivité bénéficiaire d'une attribution au titre de l'une de ces dotations ne se trouve dans l'obligation de verser, par anticipation, l'intégralité du montant de la dépense subventionnable d'un projet dont elle est maître de l'ouvrage. Par ailleurs, dès le commencement d'exécution d'une opération subventionnée, une avance représentant jusqu'à 30 % du montant prévisionnel de la subvention pourra être versée par le préfet au bénéficiaire. Ensuite, tout au cours de l'exécution des travaux relatifs à cette opération, le bénéficiaire de la subvention pourra prétendre au versement d'acomptes. Ceux-ci ne pourront excéder 80 % du montant prévisionnel de la subvention. Leur versement sera conditionné par l'avancement de l'opération, justifié par la fourniture de pièces justificatives des paiements effectués par le bénéficiaire. Le solde de la subvention sera versé à l'achèvement de l'opération. Ainsi, ce seuil de 80 % permet d'éviter le versement intégral de la subvention en une unique fois, ce qui fragiliserait la gestion budgétaire de ces dotations et exposerait les collectivités à des reprises de crédits si les projets ne pouvaient être menés à leur terme.
