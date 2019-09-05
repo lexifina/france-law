@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190611036
+
+- Question : [SEQ190611036](seq190611036.md) — Code électoral et campagnes de promotion des réalisations d'une collectivité
+
+## Réponse
+
+*Intérieur, JO du 2019-09-05, page 4541*
+
+Le deuxième alinéa de l'article L. 52-1 du code électoral dispose qu'à « compter du premier jour du sixième mois précédant le mois au cours duquel il doit être procédé à des élections générales, aucune campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité ne peut être organisée sur le territoire des collectivités intéressées par le scrutin ». Le législateur, en encadrant la communication institutionnelle, ne prive pas pour autant les élus de la possibilité d'informer leurs administrés des affaires les intéressant. Néanmoins, la communication des collectivités ne doit pas être constitutive d'une propagande électorale et relayer les thèmes de campagne d'un candidat (Conseil constitutionnel, 21 novembre 2002, AN Val- d'Oise 5e circ. n° 2002-2672). Ainsi, un bulletin municipal doit présenter un caractère neutre et informatif et être consacré à des projets ou à des manifestations intéressant la vie locale. Ce document doit présenter un contenu habituel des réalisations ou de la gestion de la collectivité, revêtir une présentation semblable aux précédentes éditions (Conseil constitutionnel, 20 janvier 2003, AN Hauts-de-Seine 5e circ. 2002-2654). S'agissant des manifestations, elles sont autorisées dès lors qu'elles ont un caractère habituel, traditionnel et ne sont pas assorties d'actions destinées à influencer les électeurs (Conseil constitutionnel, 13 décembre 2007, AN Bouches-du-Rhône 1re circ.). Ces événements ne doivent notamment pas faire référence à l'élection à venir ou à la présentation des projets qu'il est envisagé de mener après l'élection.
