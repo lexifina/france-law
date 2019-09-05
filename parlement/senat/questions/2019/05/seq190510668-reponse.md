@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510668
+
+- Question : [SEQ190510668](seq190510668.md) — Lutte contre la diffusion de propos violents et dégradants
+
+## Réponse
+
+*Intérieur, JO du 2019-09-05, page 4548*
+
+La loi du 29 juillet 1881 sur la liberté de la presse prévoit des dispositions sanctionnant les provocations à la haine, à la discrimination et à la violence, ainsi que les injures et diffamations, à l'égard d'une personne ou d'un groupe de personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance à une ethnie, une nation, une race ou une religion déterminée. Ainsi, selon la jurisprudence, même si le rap est un style artistique permettant un recours possible à une certaine dose d'exagération, des propos s'en prenant à la France, éclairés par l'ensemble du texte, peuvent être considérés comme une provocation publique à la haine, à la discrimination et à la violence à l'égard des Français et être sanctionnés sur le fondement du huitième alinéa de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse lorsque ces propos sont de nature à susciter des sentiments de haine et d'hostilité. Lorsque des faits portés à sa connaissance lui semblent constitutifs d'une infraction pénale, et plus particulièrement lorsqu'il s'agit d'appels manifestes à la violence ou à la haine, le ministère de l'intérieur veille à en limiter la diffusion y compris en les signalant systématiquement à l'autorité judiciaire. C'est ainsi que le clip vidéo évoqué a été signalé au procureur de la République de Paris. Il appartiendra alors aux tribunaux judiciaires de décider d'une réponse pénale adaptée, sachant que le 8ème alinéa de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse sanctionne le délit de provocation précité d'une peine d'emprisonnement d'un an et une amende de 45 000 €.
