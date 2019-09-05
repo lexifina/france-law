@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711600
+
+- Question : [SEQ190711600](seq190711600.md) — Simplification des démarches administratives pour les associations bénévoles
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-09-05, page 4562*
+
+La centralisation des dispositifs impact emploi et du chèque emploi associatif (CEA) est un projet en cours d'expertise. Cependant, si ce dispositif unique venait à être mis en place, il serait préférable de s'appuyer sur le modèle du CEA. En effet, le CEA offre aux associations un service de simplification des formalités liées à l'embauche et à la gestion des salariés. En ce sens, il enregistre les données salariales transmises par les associations concernant les bulletins de salaire et réalise le bulletin et le chèque en paiement. Ce type de dispositif existe également pour les autres employeurs. Le dispositif emploi service va plus loin dans ses missions. En effet, outre le fait de proposer un accompagnement global (logiciel de paie, rédaction du contrat de travail, calcul des salaires…) dans le cadre de la réalisation des tâches administratives liées à l'embauche, des tiers de confiance conseillent les associations. Cependant, le rôle des unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) ne consiste qu'en la simplification des formalités qui pèsent sur les associations employeurs et non en la réalisation de taches périphériques comme le conseil des associations. Toutefois, si cette unification était décidée, le rôle des tiers de confiance pourrait être maintenu notamment dans le cadre des ressources humaines. Il ne semble, cependant, pas nécessaire de les rattacher à un tel dispositif, géré par les URSSAF. De plus, il convient de souligner que le dispositif impact emploi est un dispositif payant contrairement au CEA ce qui explique également le choix de tendre vers ce second dispositif.
