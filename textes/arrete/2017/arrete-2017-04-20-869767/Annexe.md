@@ -2,15 +2,25 @@
 
 Direction |
 
-Application des dispositions de l'arrêté
+Application des dispositions de l'arrêté à compter de la paie versée en |
 
-à compter de la paie versée en |
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône |
 
-Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
+Octobre 2019 |
+
+Direction régionale des finances publiques de Corse et du département de la Corse-du-Sud |
+
+Octobre 2019 |
+
+Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte d'Or |
 
 Avril 2017 |
 
-Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde |
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne |
+
+Octobre 2019 |
+
+Direction régionale des finances publiques de Nouvelle Aquitaine et du département de la Gironde |
 
 Mars 2018 |
 
@@ -26,17 +36,33 @@ Direction régionale des finances publiques des Hauts-de-France et du départeme
 
 Août 2018 |
 
-Direction régionale des finances publiques de Grand Est et du département du Bas-Rhin |
+Direction régionale des finances publiques de Grand-Est et du département du Bas-Rhin |
 
 Août 2018 |
 
-Direction régionale des finances publiques d'Ile-de-France et du département de Paris |
+Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône |
+
+Octobre 2019 |
+
+Direction régionale des finances publiques d'Île-de-France et du département de Paris |
 
 Juin 2018 |
+
+Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime |
+
+Octobre 2019 |
+
+Direction régionale des finances publiques de la Martinique |
+
+Octobre 2019 |
 
 Direction régionale des finances publiques de La Réunion |
 
 Septembre 2017 |
+
+Direction départementale des finances publiques des Alpes-Maritimes |
+
+Octobre 2019 |
 
 Direction départementale des finances publiques du Calvados |
 
@@ -54,21 +80,21 @@ Direction départementale des finances publiques d'Indre-et-Loire |
 
 Septembre 2017 |
 
+Direction départementale des finances publiques de l'Isère |
+
+Octobre 2019 |
+
 Direction départementale des finances publiques de la Marne |
 
 Janvier 2019 |
 
+Direction départementale des finances publiques de la Moselle |
+
+Octobre 2019 |
+
 Direction départementale des finances publiques du Puy-de-Dôme |
 
 Juin 2018 |
-
-.
-
-Direction |
-
-Application des dispositions de l'arrêté
-
-à compter de la paie versée en |
 
 Direction départementale des finances publiques des Yvelines |
 
@@ -82,6 +108,18 @@ Direction départementale des finances publiques de la Haute-Vienne |
 
 Juin 2018 |
 
+Direction départementale des finances publiques des Hauts-de-Seine |
+
+Septembre 2019 |
+
+Direction départementale des finances publiques de Seine-Saint-Denis |
+
+Octobre 2019 |
+
 Direction départementale des finances publiques du Val-de-Marne |
 
 Septembre 2017 |
+
+Direction spécialisée des finances publiques pour l'étranger |
+
+Octobre 2019 |
