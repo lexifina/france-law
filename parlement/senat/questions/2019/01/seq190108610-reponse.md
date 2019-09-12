@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108610
+
+- Question : [SEQ190108610](seq190108610.md) — Cas des habitants non raccordables au réseau d'assainissement
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-12, page 4682*
+
+Les immeubles non raccordables à un réseau public d'assainissement sont : soit des immeubles qui n'ont pas accès directement ou par l'intermédiaire de voies privées ou de servitudes de passage à un tel réseau, disposé pour recevoir les eaux usées domestiques ; soit des immeubles qui bénéficient d'une exonération du maire à l'obligation de raccordement au réseau public d'assainissement, dans les conditions prévues au deuxième alinéa de l'article L.1331-1 du code de la santé publique. L'article L. 1331-1-1 du code la santé publique prévoit que ces immeubles soient équipés d'une installation d'assainissement non collectif. L'article L. 2224-8 du code général des collectivités territoriales (CGCT) dispose que la commune assure le contrôle de ces installations. À ce titre, le propriétaire de l'immeuble contribue au financement du service public d'assainissement non collectif (SPANC), dans les conditions prévues aux articles L. 2224-12-2 et R. 2224-19 du CGCT. Si, lors de ce contrôle, il apparaît que les eaux usées ne sont pas raccordées à une installation d'assainissement non collectif conforme à la réglementation (par exemple si tout ou partie de ces eaux usées sont raccordées à un réseau de collecte des eaux pluviales), le propriétaire de l'immeuble fait procéder aux travaux de mise en conformité dans un délai de 4 ans suivant la notification du document établi à la suite du contrôle. Au vu de ces éléments, il ne semble pas nécessaire de modifier les mesures législatives ou réglementaires applicables aux immeubles non raccordables au réseau public d'assainissement.
