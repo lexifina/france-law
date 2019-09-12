@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706134
+
+- Question : [SEQ180706134](seq180706134.md) — Remise en cause du taux réduit de TVA pour les travaux de rénovation énergétique
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-12, page 4680*
+
+La précarité énergétique est l'un des enjeux essentiels des années à venir, dans un contexte de raréfaction des sources d'énergies fossiles et d'augmentation prévisible des prix de l'énergie. L'observatoire national de la précarité énergétique, piloté par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), estime ainsi que plus de 3 millions de ménages sont en situation de précarité énergétique dans notre pays. 5,8 millions de ménages ont d'ailleurs bénéficié du chèque énergie en 2019. Le Gouvernement entend par conséquent mobiliser les ressources budgétaires pour soutenir les travaux de rénovation énergétique des résidences principales, notamment en direction des ménages modestes et très modestes propriétaires occupants de leurs logements. L'Agence nationale de l'habitat (Anah) propose ainsi à ces ménages des dispositifs d'aide à la rénovation énergétique, proportionnés aux moyens des ménages bénéficiaires : « Habiter Mieux Agilité » et « Habiter Mieux Sérénité ». Les aides de l'Anah sont complétées par le Crédit d'impôt pour la transition énergétique (CITE), qui bénéficie également à l'ensemble des propriétaires occupant leur résidence principale, engageant des travaux de rénovation énergétique de leur logement. À noter, en 2019, le CITE soutient à nouveau le remplacement des fenêtres simple vitrage par des fenêtres double vitrage, à hauteur de 15 % du montant des travaux, dans la limite de 100 €. La loi de finances pour l'année 2019 a également bien acté le maintien du taux réduit de TVA de 5,5 % pour la réalisation des travaux de rénovation énergétique des logements construits ou achevés depuis plus de 2 ans.
