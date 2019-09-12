@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190209082
+
+- Question : [SEQ190209082](seq190209082.md) — Détention et utilisation des animaux vivants d'espèces non domestiques dans les établissements de spectacles itinérants
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-12, page 4684*
+
+La détention des ours en captivité au sein des établissements de présentation au public itinérants est strictement réglementée en France, notamment par l'arrêté ministériel du 18 mars 2011 fixant les conditions de détention et d'utilisation des animaux vivants d'espèces non domestiques dans les établissements de spectacles itinérants. Des conditions précises de captivité en mode itinérant pour ces plantigrades sont énoncées au sein de cet arrêté, et plus précisément encore au sein des annexes II et III de ce texte, à la fois pour permettre la sécurité du public et du personnel lié à ces animaux d'une part, mais également pour permettre un hébergement respectueux de ces carnivores d'autre part. C'est ainsi qu'il est, par exemple, réglementairement prévu une période de repos en installations fixes d'au minimum six mois, pour les ours qui travaillent en établissement de présentation au public itinérante. Toutefois, au regard de la préoccupation croissante de la société sur la place des animaux sauvages dans les établissements itinérants, le ministère de la transition écologique et solidaire a lancé officiellement en avril dernier un groupe de travail sur le bien-être animal de la faune sauvage en captivité, au sein duquel la question de la présentation des ours dans les spectacles itinérants a été abordée en présence de représentants des professionnels et d'associations de protection animale. Ces travaux ont été restitués au ministre le 3 juillet dernier. La ministre présentera, à la rentrée prochaine, des mesures concrètes pour améliorer encore le bien-être des animaux sauvages en captivité dans le cadre des activités de présentation au public itinérantes.
