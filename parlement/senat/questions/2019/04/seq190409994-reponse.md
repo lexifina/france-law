@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190409994
+
+- Question : [SEQ190409994](seq190409994.md) — Déclaration de marchés publics sans suite
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-09-12, page 4653*
+
+En application de l'article R. 2185-2 du code de la commande publique, reprenant les dispositions de l'article 98 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics, l'acheteur public qui déclare sans suite une procédure de passation d'un marché public doit communiquer dans les plus brefs délais les motifs de sa décision de ne pas attribuer le marché ou de recommencer la procédure aux opérateurs économiques y ayant participé. Hormis pour les marchés publics portant sur des services juridiques de représentation légale d'un client par un avocat dans le cadre d'une procédure juridictionnelle ou de consultation juridique fournis par un avocat en vue de la préparation d'une telle procédure, lesquels ne sont pas soumis aux dispositions de l'article R. 2185-2 du code de la commande publique en application de l'article R. 2123-8 du même code, il n'existe pas d'exception à l'obligation de motiver une décision déclarant sans suite une procédure de passation d'un marché public. Un défaut ou une insuffisance de motivation constitue une illégalité susceptible d'être soulevée à l'appui du recours contentieux dont peut faire l'objet une telle décision (CJUE 18 juin 2002 “Hospital Ingenieure Krankenhaustechnik Planungs Gmbh c/ Stadt Wien”, aff. C-92/00 ; C.E. 18 mars 2005 “Société Cyclergie”, n° 238752). L'illégalité de cette décision peut également être invoquée à l'occasion d'un recours contre la passation d'un nouveau marché public fondée sur l'abandon de la procédure précédente (C.E. 3 octobre 2012 “Département des Hauts-de-Seine”, n° 359921).
