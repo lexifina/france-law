@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711687
+
+- Question : [SEQ190711687](seq190711687.md) — Affaissement de la chaussée de l'autoroute A4 au nord-est de Metz
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-12, page 4687*
+
+L'affaissement de la chaussée de l'autoroute A4 survenu le 3 avril dernier au Nord-Est de Metz, sur la commune de Failly, en Moselle, est lié à l'affaissement d'un remblai en terre sur lequel repose la chaussée. Ce remblai est constitué notamment de matériaux argileux, particulièrement sensibles aux phénomènes hydriques. Dans le passé, ce remblai, situé entre les points de répères (PR) 323+800 et 324+100, a été traité à plusieurs reprises à la suite de glissements survenus en 1988, 1998, 2001 et 2010. En ce qui concerne l'événement d'avril 2019, les premiers signes d'affaissement sont apparus en novembre 2018, avec la fissuration de la bande d'arrêt d'urgence (BAU), et ont donné lieu à une étude géotechnique spécifique. Celle-ci a révélé des infiltrations d'eau favorisant l'érosion de sa surface du remblai. À la fin du mois de mars 2019, le phénomène évolue rapidement à la suite de fortes précipitations. Le 3 avril, le remblai s'affaisse brutalement, neutralisant la bande d'arrêt d'urgence (BAU). Les travaux de reprise, aussitôt lancés par la société Sanef, débutent immédiatement pour se terminer un mois plus tard, le 3 mai. Ce traitement du talus a nécessité environ 20 000 tonnes de matériaux drainants pour constituer une solution compatible avec le futur élargissement d'A4 en cours dans ce secteur. À ce titre, l'étude d'avant-projet autoroutier en cours de réalisation par le concessionnaire dans le cadre de l'opération d'élargissement prendra en compte ce phénomène pour garantir la stabilité à terme de l'ensemble du remblai en intégrant la reprise de l'intégralité de l'assainissement de la zone.
