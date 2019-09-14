@@ -434,11 +434,11 @@ section 16 n° 115, section 16 n° 6 en partie
 
 Saône-et-Loire (71) |
 
-Maison forestière de Maupre et garage |
+Maison forestière de Maupré et garage |
 
 Charolles |
 
-ZD 93, ZD 94, ZD 95, ZD 96 en partie
+ZD 94, ZD 95, ZD 235, ZD 237
 
 |
 
@@ -494,7 +494,11 @@ Maison forestière Les Curieux |
 
 Saint-Nom-la Bretêche |
 
-A 1 en partie, A 3, A 4, A 5
+A 1 en partie,
+
+A 3 en partie,
+
+A 4, A 5
 
 |
 

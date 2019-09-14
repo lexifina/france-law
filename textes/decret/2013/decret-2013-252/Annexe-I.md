@@ -86,7 +86,7 @@ Voussac
 
 |
 
-ZS82 - ZS94 - ZT 36
+ZS82-ZS94-ZT 36
 
 |
 
@@ -127,6 +127,28 @@ Maison forestière des Landes blanches
 Braize |
 
 C 54 en partie et C 55 |
+
+|
+
+Maison forestière de Baignerault
+
+|
+
+Saint-Bonnet-Tronçais |
+
+C 343, C 344 |
+
+|
+
+Maison forestière de Cabottes et garage
+
+|
+
+Le Brethon |
+
+ZA 55 en partie,
+
+ZA 56, ZA 57, ZA 58 |
 
 Alpes-de-Haute-Provence (04)
 
@@ -178,6 +200,92 @@ C 330
 
 |
 
+|
+
+Gîte des Subis
+
+|
+
+St-André-les-Alpes |
+
+E 14 en partie,
+
+E 15 en partie |
+
+|
+
+Gîte du Tréou
+
+|
+
+St-Pons |
+
+D 284 |
+
+|
+
+Gîte du Jas Neuf
+
+|
+
+St-Etienne-les-Orgues |
+
+A 23, A 25 en partie |
+
+|
+
+Gîte du Jas de Berle et dépendances
+
+|
+
+St-Etienne-les-Orgues |
+
+B 101 en partie,
+
+B 102 en partie,
+
+B 103 |
+
+|
+
+Jas des Bayles
+
+|
+
+Valbelle |
+
+YE 062 en partie,
+
+YE 063 en partie,
+
+YE 064 en partie,
+
+YE 065 en partie,
+
+YE 068 en partie |
+
+|
+
+Gîte de Beau Fayée
+
+|
+
+Valbelle |
+
+YC 0197,
+
+YC 0304 en partie |
+
+|
+
+Maison forestière du Serre
+
+|
+
+Les Dourbes - Digne-les Bains |
+
+Section B01 parcelle 284, Section B01 parcelle 285 en partie |
+
 Hautes-Alpes (05)
 
 |
@@ -194,41 +302,35 @@ B674, B675, B668, B672 en partie dans la limite d'un usage normal du bien
 
 |
 
-Alpes-Maritimes (06)
+|
+
+Maison forestière de Jubéo
 
 |
 
-Maison forestière de Bleyne
+Savournon |
+
+E 546, E 547 |
 
 |
 
-Le Mas
+Magasin du Merdarel des Tancs
 
 |
 
-D510 et D544 en partie dans la limite du terrain clôturé actuel
+Jarjayes |
+
+B 0160 en partie |
 
 |
 
-|
-
-Pavillon de la Chasse
+Maison forestière du Brusq
 
 |
 
-Cannes
+Val Buëch-Méouge |
 
-|
-
-DL 191
-
-DL 193
-
-DL 196
-
-DL 198
-
-|
+034 section G01 parcelle 2, 034 section G01 parcelle 3 en partie |
 
 Ardennes (08)
 
@@ -346,6 +448,18 @@ H7, H6
 
 |
 
+Calvados (14) |
+
+Maison forestière de la Malbrèche
+
+|
+
+Montfiquet |
+
+A 9, A 10 en partie
+
+A 46 |
+
 Charente (16)
 
 |
@@ -441,6 +555,18 @@ Maison forestière de Guerigny
 Vignoux sur Barangeon |
 
 AB 56 en partie, AB 57, AB 58 |
+
+|
+
+Maison forestière de Bon Aigle
+
+|
+
+Vierzon |
+
+K 124, K 125, K 126,
+
+K 127 en partie |
 
 Côte-d'Or (21)
 
@@ -540,7 +666,13 @@ Maison forestière du Landez
 
 Le Tronquay |
 
-B 21 en partie, B 22, B 23, B 24, B 25 en partie |
+B 19 en partie,
+
+B 22, B 23,
+
+B 24 en partie,
+
+B 25 en partie |
 
 Eure-et-Loir (28)
 
@@ -714,6 +846,16 @@ F165, F166, F167
 
 |
 
+|
+
+Maison forestière de la Blanque
+
+|
+
+Le Soulié |
+
+D 0060 |
+
 Ille-et-Vilaine (35)
 
 |
@@ -876,7 +1018,9 @@ Supt
 
 |
 
-C102
+C 102,
+
+C 54 en partie (ancienne numérotation) ou C 133 (nouvelle numérotation)
 
 |
 
@@ -903,6 +1047,20 @@ Maison forestière des Gallips
 Mimizan |
 
 T 109 en partie |
+
+|
+
+Maison forestière de Lespecier
+
+|
+
+Mimizan |
+
+V 45 en partie,
+
+V 44 en partie,
+
+V46 |
 
 Loir-et-Cher (41)
 
@@ -960,7 +1118,7 @@ Le Gavre
 
 |
 
-E605 - E585 - E 619
+E605-E585-E 619
 
 |
 
@@ -976,7 +1134,7 @@ Lorris
 
 |
 
-BK105 - BK106
+BK105-BK106
 
 |
 
@@ -1081,6 +1239,50 @@ Maison forestière des Houssieres
 Ingrannes |
 
 D14, D15 |
+
+|
+
+Maison forestière de Thifontaine
+
+|
+
+Bouzy la foret |
+
+AC 65 en partie, AC 66, AC 67, AC 124 |
+
+|
+
+Maison forestière de Sainte Radegonde
+
+|
+
+Nibelle |
+
+AT 29, AT 30 en partie |
+
+|
+
+Maison forestière du Haut des Bruyères
+
+|
+
+Ingrannes |
+
+D 141, D 142 en partie |
+
+|
+
+Maison forestière du Carrefroy
+
+|
+
+Montereau |
+
+L 93,
+
+L 95 en partie,
+
+L 285, L 286 |
 
 Lozère (48)
 
@@ -1252,7 +1454,7 @@ AZ55 en partie dans la limite du jardin attenant
 
 |
 
-Bâtiment n° 720 - Gymnase
+Bâtiment n° 720-Gymnase
 
 |
 
@@ -1280,7 +1482,7 @@ AN 16 en partie, AN 17, AN 18
 
 |
 
-Campus - bâtiments de formation,
+Campus-bâtiments de formation,
 
 restauration et hébergement |
 
@@ -1290,7 +1492,7 @@ AI 66 |
 
 |
 
-Campus - bâtiments d'hébergement et bureaux
+Campus-bâtiments d'hébergement et bureaux
 
 |
 
@@ -1300,7 +1502,7 @@ AI 68 |
 
 |
 
-Campus - pavillons Balency
+Campus-pavillons Balency
 
 |
 
@@ -1310,7 +1512,7 @@ AI 69 |
 
 |
 
-Campus - loge du gardien
+Campus-loge du gardien
 
 |
 
@@ -1320,7 +1522,7 @@ AI 70 |
 
 |
 
-Campus - château d'eau
+Campus-château d'eau
 
 |
 
@@ -1330,7 +1532,7 @@ AI 71 |
 
 |
 
-Campus - voiries |
+Campus-voiries |
 
 Velaine-en-Haye |
 
@@ -1344,7 +1546,7 @@ et AI 82 |
 
 |
 
-Campus - parkings
+Campus-parkings
 
 |
 
@@ -1370,7 +1572,9 @@ Maison forestière de Grammont et annexe
 
 Baccarat |
 
-B37, B36 en partie |
+BE 36 en partie,
+
+BE 37 |
 
 |
 
@@ -1414,7 +1618,7 @@ AV 9, AV 10 en partie |
 
 |
 
-Maisons forestières Aubepine (MF 11,12,13,14 &15)
+Maisons forestières Aubepine (MF 11,12,13,14 & 15)
 
 |
 
@@ -1478,7 +1682,7 @@ Dabo
 
 |
 
-B295/151 - B297/160
+B295/151-B297/160
 
 |
 
@@ -1692,6 +1896,16 @@ Theding |
 
 section 22 n° 190, section 22 n° 216 |
 
+|
+
+Maison forestière du Goderberg
+
+|
+
+Halstroff |
+
+Section 2 parcelle 146 |
+
 Nièvre (58)
 
 |
@@ -1734,7 +1948,7 @@ Locquignol
 
 |
 
-A106 en partie dans la limite du jardin attenant - A107 - A108 |
+A106 en partie dans la limite du jardin attenant-A107-A108 |
 
 |
 
@@ -1780,7 +1994,7 @@ Carlepont
 
 |
 
-Section B n°s 48, 49 et 50 en partie dans la limite du jardin attenant
+Section B n° s 48,49 et 50 en partie dans la limite du jardin attenant
 
 |
 
@@ -1890,7 +2104,7 @@ H 69
 
 |
 
-Maison forestière de Saint-Nicolas-de-Courson N° 1
+Ensemble immobilier de Saint-Nicolas-de-Courson composé d'une abbaye classée au titre des Monuments historiques et de deux maisons forestières (Maisons forestières de Saint-Nicolas-de-Courson N° 1 et N° 2)
 
 |
 
@@ -1898,29 +2112,27 @@ Morienval
 
 |
 
-H 158
+H 62 en partie,
 
-H 68 en partie
+H 66 en partie,
 
-|
+H 67 en partie,
 
-|
+H 68,
 
-Maison forestière de Saint-Nicolas-de-Courson N° 2
+H 69 en partie,
 
-|
+H 158 et H 159 (ancienne numérotation)
 
-Morienval
+ou
 
-|
+H 180, H 183,
 
-H 66 en partie
+H 184, H 186,
 
-H 67
+H 188, H 189,
 
-H 159
-
-|
+H 190, H 192 et H 193 (nouvelle numérotation) |
 
 |
 
@@ -1960,7 +2172,7 @@ Saint-Léger-aux-Bois
 
 |
 
-C396 - C397
+C396-C397
 
 |
 
@@ -2021,6 +2233,34 @@ Lacroix-Saint-Ouen |
 AK 116
 
 |
+
+|
+
+Maison forestière de Ver
+
+|
+
+Ver sur Launette |
+
+A 17 et A 18 en partie |
+
+|
+
+Maison forestière du Rond-Point
+
+|
+
+Fouquenies |
+
+AI 4 en partie,
+
+AI 5,
+
+AI 6 en partie |
+
+Le Mont-St-Adrien |
+
+A 24 en partie |
 
 Orne (61)
 
@@ -2114,7 +2354,7 @@ Maison forestière de Radon
 
 |
 
-Radon |
+Ecouves |
 
 AC 63, AC 64 |
 
@@ -2127,6 +2367,26 @@ Maison forestière des Ratelets et garage
 Tourouvre-au-Perche |
 
 H127, H128 en partie, H 502 |
+
+|
+
+Maison forestière de la Herse
+
+|
+
+Belforêt-en-Perche |
+
+154 E 01 parcelle 10 en partie et 154 E 01 parcelle 11 |
+
+|
+
+Maison forestière Le Canard
+
+|
+
+L'orée d'Ecouves |
+
+172 ZB 01 parcelle 136 |
 
 Pas-de-Calais (62)
 
@@ -2171,6 +2431,26 @@ Clairmarais |
 D 208, D 209, D 304 en partie
 
 |
+
+|
+
+Maison forestière de la Haute Forêt
+
+|
+
+Desvres |
+
+AB 0054 et AB 0055 en partie |
+
+|
+
+Maison forestière de Winsquedal
+
+|
+
+Tournehem-sur-la-Hem |
+
+C 0016 et C 0017 |
 
 Puy-de-Dôme (63)
 
@@ -2306,7 +2586,7 @@ Niederbronn-les-Bains
 
 |
 
-Section 31, 316, 317
+Section 31,316,317
 
 |
 
@@ -2428,6 +2708,26 @@ Wangenbourg Engenthal |
 
 section 10 n° 85, section 10 n° 87, section 10 n° 90 |
 
+|
+
+Maison forestière de Lutterbach
+
+|
+
+Voellerdingen |
+
+Section 07 parcelle 0033 en partie |
+
+|
+
+Maison forestière de Schoenbourg
+
+|
+
+Schoenbourg |
+
+Section 01 parcelle 1 en partie |
+
 Haut-Rhin (68)
 
 |
@@ -2453,6 +2753,16 @@ Maison forestière de l'ile Napoleon et annexe
 Rixheim |
 
 AO6 en partie |
+
+Saône-et-Loire (71) |
+
+Maison forestière de la Gravière
+
+|
+
+Pourlans |
+
+000 A 01 parcelles 7 et 8 |
 
 Sarthe (72)
 
@@ -2482,7 +2792,7 @@ Montreuil-le-Chétif
 
 |
 
-ZK81 - ZK82
+ZK81-ZK82
 
 |
 
@@ -2513,6 +2823,16 @@ Ségrie
 A340 en partie, A339 en partie et A341 en partie dans la limite d'un usage normal du bien
 
 |
+
+|
+
+Maison forestière de Chédouet
+
+|
+
+Villeneuve-en-Perseigne |
+
+D 18, D 19, D 20 en partie |
 
 Savoie (73)
 
@@ -2700,9 +3020,55 @@ Maison forestière de Montpensier
 
 |
 
-Realcamp |
+Réalcamp |
 
-AB 2, AB 3, AB 130 en partie |
+AB 2 en partie,
+
+AB 3,
+
+AB 131 en partie |
+
+|
+
+Maison forestière de la Heuze
+
+|
+
+Bellencombre |
+
+AM 63 en partie et AM 64 |
+
+|
+
+Maison forestière Le Landel
+
+|
+
+La Feuillie |
+
+L 67 en partie et L 68 |
+
+|
+
+Maison forestière du Quesnay
+
+|
+
+Vatteville-la-Rue |
+
+F 249 en partie |
+
+|
+
+Maison forestière de Saint Nicolas
+
+|
+
+La Londe |
+
+C 504 en partie, C 505,
+
+C 506 et C 507 |
 
 Seine-et-Marne (77)
 
@@ -2742,7 +3108,7 @@ C46
 
 |
 
-Maison forestière des faisans dite du "Mans" et dépendances
+Maison forestière des faisans dite du " Mans " et dépendances
 
 |
 
@@ -2806,7 +3172,19 @@ Maison forestière de Maintenon et annexes
 
 Fontainebleau |
 
-D 14, D 15 en partie, D 16 en partie |
+D 14 en partie,
+
+D 15 en partie |
+
+|
+
+Pavillon extérieur de la Faisanderie
+
+|
+
+Fontainebleau |
+
+AX 79 en partie |
 
 Yvelines (78)
 
@@ -3106,7 +3484,25 @@ Logement rue Joseph Bertrand
 
 Viroflay |
 
+A 08 en partie,
+
 A 10 |
+
+|
+
+Maison forestière de la Porte Dauphine
+
+|
+
+Chambourcy |
+
+D 3 en partie,
+
+D 4, D 5,
+
+C 546 en partie,
+
+C 548 en partie |
 
 Deux-Sèvres (79)
 
@@ -3148,7 +3544,7 @@ Villiers-en-Bois
 
 |
 
-A242 - A243
+A242-A243
 
 |
 
@@ -3235,6 +3631,26 @@ F 54
 F 55
 
 |
+
+Var (83) |
+
+Maison forestière du Trayas
+
+|
+
+Saint-Raphaël |
+
+BO 20 en partie |
+
+|
+
+Gîte de Brantes
+
+|
+
+Brantes |
+
+D 0157 |
 
 Vosges (88)
 
@@ -3377,6 +3793,34 @@ Saint-Martin-du-Tertre
 B 01
 
 |
+
+|
+
+Fort de Domont
+
+|
+
+Domont
+
+|
+
+C 164 en partie |
+
+Piscop
+
+|
+
+C 9999 en partie |
+
+|
+
+Maison forestière Le Bois Corbon Sud
+
+|
+
+Saint-Prix |
+
+AO 28, AO 29 en partie |
 
 La Réunion (974) |
 
