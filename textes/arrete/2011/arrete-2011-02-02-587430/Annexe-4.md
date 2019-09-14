@@ -72,9 +72,7 @@ DISCOUNT MARINE |
 
 92106 Boulogne Billancourt |
 
--Voyager X3 Combined Class A/ Inland AIS Transceiver
-
-(R-4-207) *
+-Voyager X3 Combined Class A/ Inland AIS Transceiver (R-4-207) *
 
 -OceanSat Combined Class A/ Inland AIS Transceiver (R-4-209) *
 
@@ -226,13 +224,15 @@ SIECMI |
 
 Sud Communication |
 
-95, rue Rajol-
+317, rue Antoine de Saint Exupéry-
 
-Espace Fréjorgues Est-
+Espace Fréjorgues Ouest-
 
 34130 Mauguio |
 
--ICOM |
+-AIS A KAT-100 Combined Class A/ Inland AIS Transceiver (R-4-217) *
+
+-KAT330 Combined Class A/ Inland AIS Transceiver (R-4-317) |
 
 18 |
 
@@ -250,4 +250,4 @@ CD 45-Pont de l'Etoile-
 
 -Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
-* Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS Intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
