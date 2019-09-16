@@ -216,11 +216,11 @@ Directeur départemental de la sécurité publique à Cergy-Pontoise (95).
 
 8. Direction centrale de la police aux frontières :
 
-Sous-directeur des affaires internationales, transfrontières et de la sûreté.
+Sous-directeur des frontières.
 
 Sous-directeur des ressources.
 
-Sous-directeur de l'immigration irrégulière et des services territoriaux.
+Sous-directeur de l'immigration et de l'éloignement.
 
 Directeur zonal de la police aux frontières Sud à Marseille.
 
@@ -274,7 +274,7 @@ Sous-directeur des services spécialisés de l'agglomération.
 
 Sous-directeur régional de police des transports.
 
-Directeur territorial de la sécurité de proximité de Paris.
+Directeur territorial de la sécurité de proximité de Paris
 
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
