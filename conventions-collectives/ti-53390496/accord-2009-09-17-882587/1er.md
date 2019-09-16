@@ -2,11 +2,23 @@
 
 Champ d'application professionnel
 
-Le présent accord s'applique sur le département du Gers aux :
+Le présent accord est applicable à l'ensemble des employeurs et des salariés :
 
-Salariés agricoles relevant du présent accord, non affiliés à l'AGIRC.
+– des exploitations agricoles proprement dites (polyculture-élevage) ;
 
-Et aux employeurs des exploitations agricoles proprement dites, des exploitations de cultures spécialisées (viticulture, cultures maraîchères, cultures fruitières), des entreprises de battage, de moissonnage-battage, de motoculture, des entreprises du territoire, des CUMA.
+– des exploitations de cultures spécialisées (viticulture, cultures maraîchères, cultures fruitières, cultures légumières) ;
+
+– des exploitations d'élevage ;
+
+– des coopératives de cultures en commun et d'utilisation en commun de matériel agricole ;
+
+– des entreprises du territoire ;
+
+– des activités touristiques (agritourisme) ou de loisirs qui se situent dans le prolongement de l'activité ;
+
+– des établissements de toute nature dirigés par le chef d'exploitation agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent le prolongement de l'acte de production.
+
+Le présent accord est applicable à ces mêmes salariés, qu'ils soient au service d'exploitants individuels, de groupements ou de sociétés.
 
 Champ d'application territorial
 
