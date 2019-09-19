@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007256
+
+- Question : [SEQ181007256](seq181007256.md) — Extraction aurifère en Guyane
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-19, page 4810*
+
+Le débat public sur le projet de mine d'or industrielle Montagne d'or s'est achevé en juillet 2018. La commission du débat public a rendu son rapport le 7 septembre 2018. Le bilan indique que plusieurs questions interrogent fortement la faisabilité du projet : absence de consensus territorial ou national sur le principe de l'exploitation des mines d'or ; aménagement de la piste et approvisionnement énergétique peu réalistes ; pas de démonstration de la capacité du maître d'ouvrage à maîtriser les risques. Comme l'a confirmé le conseil de défense écologique de mai 2019, le projet est, en l'état, manifestement incompatible avec les exigences de protection de l'environnement – préservation de la biodiversité et lutte contre le changement climatique – défendues par le Gouvernement et exigées par les Français. En l'état, ce projet ne pourra donc pas être accepté. Le conseil de défense écologique a demandé à ce que la réforme du code minier soit présentée en Conseil des ministres fin 2019. Cette réforme révisera les procédures d'instruction des demandes de titres et des travaux miniers pour une meilleure prise en compte des enjeux environnementaux dès les phases initiales et tout au long du projet minier, dans un objectif d'insertion renforcée des activités minières dans les territoires, prenant en compte dès l'amont les attentes des populations. Le dossier Montagne d'or ne doit pas faire perdre de vue que la biodiversité en Guyane est fortement impactée par l'orpaillage illégal. Les résultats encourageants du dispositif Harpie ces derniers mois doivent être consolidés. C'est pourquoi la réforme du code minier comportera un renforcement des moyens juridiques et des sanctions pour mieux lutter contre l'orpaillage illégal.
