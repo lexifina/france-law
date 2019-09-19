@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190309426
+
+- Question : [SEQ190309426](seq190309426.md) — Conditions du développement du transport collectif sur l'axe Morlaix-Roscoff
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-09-19, page 4815*
+
+Le Gouvernement a pleinement conscience de l'importance de la liaison Morlaix – Roscoff, tant pour les collectivités territoriales que pour les usagers privés d'un service ferroviaire depuis les intempéries de juin 2018. La mobilisation de l'ensemble des acteurs concernés a permis d'offrir depuis le 2 janvier 2019, une desserte routière de substitution aux usagers de cette ligne ferroviaire qui, à l'instar de nombreuses lignes de desserte fine du territoire à l'échelle nationale, a subi un déficit d'entretien pendant des années. L'État demeurera aux côtés des collectivités territoriales, au premier rang desquelles les régions, pour préserver ces lignes dans le cadre des contrats de plan État-région (CPER), dans tous les territoires où le mode de transport ferroviaire trouve sa pertinence. Néanmoins, face aux importants coûts de régénération évoqués et dans un contexte budgétaire contraint, il convient de rechercher des solutions innovantes, adaptées aux infrastructures et aux enjeux des territoires desservis. Le Gouvernement a ainsi confié à M. François Philizot une mission visant à établir et partager avec les parties prenantes – dont les régions et SNCF Réseau - un état des lieux de la situation aux niveaux national et régional, à identifier les différentes solutions techniques, organisationnelles, financières et contractuelles pour assurer la pérennité des lignes de desserte fine des territoires, puis à décliner à l'échelle régionale les solutions ainsi identifiées. C'est dans le cadre de cette démarche que des réponses devront être apportées aux problématiques spécifiques de cette ligne.
