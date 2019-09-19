@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007462
+
+- Question : [SEQ181007462](seq181007462.md) — Prise en charge des appareils auditifs pour les enfants atteints d'aplasie
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-09-19, page 4804*
+
+Le Gouvernement est conscient des difficultés rencontrées par certaines familles pour appareiller leurs enfants atteints d'aplasie majeure de l'oreille. Les prothèses auditives ostéo-intégrées sont composées de deux éléments : la partie implantable, prise en charge totalement par l'assurance maladie, sans reste à charge pour le patient et la partie processeur externe, prise en charge depuis son évaluation par la haute autorité de santé en 2009 à hauteur de 900 € par patient pour laquelle il persiste du reste à charge car les prix ne sont pas encadrés. Ces appareils sont pris en charge dans les indications de surdité pour lesquelles un appareillage traditionnel (comme les aides auditives du 100 % santé) est inefficace ou impossible. Par ailleurs, actuellement, des financements complémentaires sont généralement disponibles pour ces appareils, auprès notamment des assurances maladie complémentaires, des maisons départementales des personnes handicapées et des fonds de solidarité des caisses d'assurance maladie. Conscients de l'importance de l'amélioration de la prise en charge de ces patients atteints d'aplasie, le ministère des solidarités et de la santé étudie le sujet avec le Comité Economique des Produits de santé depuis plusieurs mois. Afin de tenir compte des évolutions de prise en charge récentes avec le 100 % santé, des discussions avec les syndicats d'audioprothésistes et les fabricants de prothèses ostéo-intégrées devraient être finalisées prochainement. L'objectif poursuivi est d'encadrer les conditions de prise en charge, d'une part en encadrant les prix de vente de ces produits et d'autre part en améliorant les conditions de prises en charge du processeur pour les enfants.
