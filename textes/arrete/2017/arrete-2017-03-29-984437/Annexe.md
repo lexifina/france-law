@@ -160,6 +160,10 @@ Directeur régional de police judiciaire à Versailles.
 
 Sous-directeur de la lutte contre la criminalité financière.
 
+Préfigurateur de l'office anti-stupéfiants.
+
+Adjoint au préfigurateur de l'office anti-stupéfiants.
+
 6. Direction générale de la sécurité intérieure :
 
 Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
@@ -274,7 +278,7 @@ Sous-directeur des services spécialisés de l'agglomération.
 
 Sous-directeur régional de police des transports.
 
-Directeur territorial de la sécurité de proximité de Paris
+Directeur territorial de la sécurité de proximité de Paris.
 
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
