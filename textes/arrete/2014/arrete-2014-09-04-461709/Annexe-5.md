@@ -300,7 +300,7 @@ Lorsque le secteur d'application mentionné dans une fiche d'opération standard
 
 7. Non-cumul avec d'autres dispositifs
 
-La demande comporte une attestation sur l'honneur du bénéficiaire de l'opération précisant que les économies d'énergie réalisées n'ont pas permis de réduire les émissions de gaz à effet de serre d'une installation classée mentionnée à l'article L. 229-5 du code de l'environnement exploitée, au sens de l'article L. 511-1 du code de l'environnement, par le bénéficiaire.
+Pour les opérations standardisées, la demande comporte une attestation sur l'honneur du bénéficiaire de l'opération précisant que les économies d'énergie réalisées n'ont pas permis de réduire les émissions de gaz à effet de serre d'une installation classée mentionnée à l'article L. 229-5 du code de l'environnement exploitée, au sens de l'article L. 511-1 du code de l'environnement, par le bénéficiaire.
 
 La demande comporte une attestation sur l'honneur du bénéficiaire mentionnant que l'opération n'a pas bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie.
 
@@ -395,3 +395,5 @@ Le bénéficiaire de l'opération établit la liste des ménages en situation de
 NOTA :
 
 (1) Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions s'appliquent à toutes les pièces justificatives signées à compter du 1er juillet 2019.
+
+Conformément à l'article 12 de l’arrêté du 20 septembre 2019 : Seules les actions ayant conduit à engager des opérations à compter du 1er janvier 2019 peuvent donner lieu à la délivrance de certificats d'économies d'énergie en application de l'article D. 221-20 du code de l'énergie.

@@ -46,4 +46,18 @@ Dans certains cas, notamment lorsque l'opération concernée ne correspond pas �
 
 11° L'identification du secteur d'activité principal de l'opération, parmi les secteurs agriculture, résidentiel, tertiaire, industrie, réseaux ou transport.
 
-II. - Dans le cas où l'opération spécifique correspond à la location d'un équipement et est conforme sur tous les autres points aux exigences d'une fiche d'opération standardisée pour une durée de location inférieure à la durée de vie conventionnelle de l'opération standardisée, la demande est faite en un seul exemplaire et comporte, à la place des pièces prévues au I, l'ensemble des pièces justificatives liées à la fiche d'opération standardisée concernée prévues par l'annexe 5.
+12° Lorsque l'opération est réalisée en application de l'article D. 221-20 du code de l'énergie :
+
+-la décision de certification du système de management de l'énergie, conforme à la norme NF EN ISO 50001 : 2018 ou toute norme équivalente ou la remplaçant, en cours de validité délivrée par un organisme de certification au nom du bénéficiaire et pour le site géographique concerné par l'opération précisant l'identité de l'entité titulaire du certificat, l'adresse précise du site certifié, le référentiel et le périmètre de la certification, et la durée de validité du certificat ;
+
+-les éléments justifiant que l'installation satisfait aux critères de cogénération à haut rendement fixés à l'annexe II de la directive 2012/27 UE relative à l'efficacité énergétique lorsque l'opération est réalisée dans une installation produisant de l'électricité et de la chaleur ;
+
+-la description et les résultats du plan de mesure et de vérification prévu au II de l'article susvisé ;
+
+-la justification des facteurs d'émission mis en œuvre avant et après l'opération lorsqu'il est fait usage de la bonification prévue à l'article 5 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
+
+II.-Dans le cas où l'opération spécifique correspond à la location d'un équipement et est conforme sur tous les autres points aux exigences d'une fiche d'opération standardisée pour une durée de location inférieure à la durée de vie conventionnelle de l'opération standardisée, et à l'exception des opérations relevant de l'article D. 221-20 du code de l'énergie, la demande est faite en un seul exemplaire et comporte, à la place des pièces prévues au I, l'ensemble des pièces justificatives liées à la fiche d'opération standardisée concernée prévues par l'annexe 5.
+
+NOTA :
+
+Conformément à l'article 12 de l’arrêté du 20 septembre 2019 : Seules les actions ayant conduit à engager des opérations à compter du 1er janvier 2019 peuvent donner lieu à la délivrance de certificats d'économies d'énergie en application de l'article D. 221-20 du code de l'énergie.
