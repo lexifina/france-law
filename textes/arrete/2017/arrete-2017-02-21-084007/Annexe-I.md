@@ -16,11 +16,115 @@ Programme de l'enseignement de la biologie dans les classes préparatoires aux g
 
 PROGRAMME DE LA SPÉCIALITÉ CHIMIE ANALYTIQUE
 
-Programme de chimie de la première année des classes préparatoires scientifiques de la voie PCSI, option PC.
+I.-Chimie générale.
 
-Programme de chimie de seconde année des classes préparatoires scientifique filière PC.
+A.-Atomistique et liaison chimique :
 
-Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité chimie.
+-structure de l'atome, masse atomique, isotopes, noyaux stables et radioactifs, radioactivité ;
+
+-modèle de Bohr, niveaux d'énergie, nombres quantiques, règles de remplissage des couches électroniques ;
+
+-familles d'éléments, construction de la classification périodique des éléments ;
+
+-énergie d'ionisation, électroaffinité, électronégativité, rayons ioniques, évolution de ces différentes grandeurs, pouvoir polarisant, polarisabilité ;
+
+-modèle ondulatoire de l'atome, orbitales atomiques, recouvrement, orbitales moléculaires (LCAO), diagrammes des niveaux d'énergie dans les molécules diatomiques ;
+
+-liaison chimique : nature et propriétés, liaison covalente, ionique, métallique et liaisons faibles ;
+
+-géométrie des molécules, VSEPR (Gillespie) ;
+
+-les états de la matière.
+
+B.-Chimie en solution :
+
+-équilibres acido-basiques ;
+
+-réactions d'oxydo-réduction ;
+
+-solubilité, systèmes biphasiques, coefficient de partage ;
+
+-réactions de précipitation ;
+
+-complexation.
+
+II.-Chimie organique.
+
+-Les liaisons chimiques du carbone.
+
+-Formules développées-isomérie plane-stéréo-isomérie.
+
+-Classement des réactions en chimie organique.
+
+-Les principaux groupements fonctionnels : nomenclature, caractérisation.
+
+III.-Chimie analytique.
+
+A.-Techniques de base :
+
+-concept de mole et équation chimique ;
+
+-généralités sur les composés minéraux : nomenclature, combinaisons chimiques avec les éléments hydrogène et oxygène, hydroxydes, halogénures, nitrates, carbonates, sulfates-caractérisation ;
+
+-les techniques : utilisation des balances, précision des mesures de volumes, préparation des solutions, dilutions, dosages volumétriques : (initiation aux dosages potentiométriques, pH-métriques, conductimétriques, d'oxydo-réduction, ionométriques).
+
+B.-Méthodes séparatives :
+
+1. Notions fondamentales : grandeurs fondamentales, partage, adsorption, échanges d'ions, interactions phases/ solutés ;
+
+2. Les techniques :
+
+-cristallisation, distillations, extractions (liquide/ liquide, liquide/ solide), entraînement à la vapeur ;
+
+-chromatographie sur couche mince ;
+
+-chromatographie en phase gazeuse (CPG) : technologie et paramètres opératoires ;
+
+-chromatographie en phase liquide (HPLC) : technologie et paramètres opératoires ;
+
+-chromatographie ionique ;
+
+-électrophorèse capillaire ;
+
+-analyse qualitative et quantitative en chromatographie.
+
+C.-Méthodes spectrales :
+
+1. Notions fondamentales : interactions rayonnement-matière, loi de Beer-Lambert ;
+
+2. Les techniques :
+
+-spectrométrie d'absorption de l'ultraviolet et du visible ;
+
+-spectrométrie infrarouge et raman ;
+
+-spectrométrie de fluorescence X ;
+
+-spectrométries d'absorption et d'émission atomiques ;
+
+-spectrométrie de masse (simple ou en tandem) ;
+
+-plasma par couplage inductif (ICP) ;
+
+-fluorescence et chimiluminescence.
+
+D.-Méthodes couplées :
+
+-chromatographie en phase gazeuse (CPG) couplée à la spectrométrie de masse (simple ou en tandem) ;
+
+-chromatographie en phase liquide (HPLC) couplée à la spectrométrie de masse (simple ou en tandem) ;
+
+E.-Préparation des échantillons :
+
+IV.-L'Hygiène et Sécurité en laboratoire.
+
+Connaissance des sigles et des pictogrammes.
+
+Risques rencontrés au laboratoire.
+
+Equipements individuels et collectifs de sécurité.
+
+V.-La démarche qualité au laboratoire.
 
 PROGRAMME DE LA SPÉCIALITÉ HYGIÈNE ET SÉCURITÉ
 
@@ -304,11 +408,13 @@ Convertisseurs statiques.
 
 PROGRAMME DE LA SPÉCIALITÉ IDENTITÉ JUDICIAIRE
 
-I. - Méthodologie de gestion de scène d'infraction.
+I.-Méthodologie de gestion de scène d'infraction.
+
+Les différents niveaux de scène d'infraction (niveau 1 et 2).
 
 La préservation des traces et indices.
 
-Le protocole d'intervention.
+Les protocoles d'intervention.
 
 La prise en compte de la scène d'infraction.
 
@@ -318,21 +424,27 @@ La fixation des lieux.
 
 Le prélèvement des traces et indices.
 
-Le dossier technique de scène d'infraction.
+Le dossier technique de scène d'infraction-CRIM'IN.
 
-Rôle du coordinateur de police technique et scientifique.
+Le cas particulier de la tuerie de masse ou multi-sites.
 
-II. - Photographie.
+Rôle du coordinateur de police technique et scientifique-Rôle du manager PTS.
+
+II.-Photographie.
 
 La lumière.
 
 L'appareil photographique (composition, fonctionnement, supports d'enregistrement).
 
-Les éclairages (naturel, artificiel : flash, filtres, luminescence).
+Les différents appareils photographiques utilisés en IJ.
 
-La photographie judiciaire (sur une scène d'infraction - en studio).
+Les éclairages (naturel, artificiels : flash, filtres, luminescence).
 
-III. - Plan.
+La photographie judiciaire (sur les différents types de scènes d'infraction-en studio).
+
+Systèmes de reproduction panoramique.
+
+III.-Plan.
 
 Les différentes catégories de plan.
 
@@ -340,11 +452,9 @@ Les techniques de levée de cotes.
 
 L'établissement du plan de scène d'infraction.
 
-IV. - Dactyloscopie.
+IV.-Dactyloscopie.
 
 Généralités.
-
-Les fichiers dactyloscopiques.
 
 Le dessin épidermique.
 
@@ -356,17 +466,21 @@ La démonstration d'identité.
 
 Les traces papillaires :
 
-- généralités ;
+-généralités ;
 
-- recherche et révélation des traces papillaires ;
+-recherche et révélation des traces papillaires ;
 
-- le prélèvement d'objets porteurs de traces papillaires.
+-le prélèvement d'objets porteurs de traces papillaires ;
 
-V. - Signalisation.
+-doctrine en matière de révélation de traces papillaires.
+
+V.-Signalisation.
 
 Le cadre juridique.
 
-Le processus et les documents relatifs à la signalisation des individus (GASPARD).
+Le processus et les documents relatifs à la signalisation des individus.
+
+GASPARD NG-Les bornes de signalisation.
 
 Le signalement descriptif.
 
@@ -376,9 +490,11 @@ La photographie signalétique.
 
 Le prélèvement buccal (kit FTA).
 
+Le prélèvement d'odeurs corporelles.
+
 Les fichiers informatisés d'identification.
 
-VI. - Prélèvement des traces et indices.
+VI.-Prélèvement des traces et indices.
 
 Méthodologie des prélèvements.
 
@@ -388,167 +504,181 @@ Conservation.
 
 Possibilités d'exploitation, compatibilité et séquences de traitement.
 
+VII.-CRIM'IN.
+
+Scène liée à la délinquance de masse.
+
+Scène délictuelle & criminelle.
+
 PROGRAMME DE LA SPÉCIALITÉ INFORMATIQUE DÉVELOPPEMENT LOGICIEL
 
-I. - Informatique générale.
+I.-Informatique générale.
 
-A. - Architecture des systèmes :
+A.-Architecture des systèmes :
 
-- codage de l'information ;
+-Codage de l'information ;
 
-- microprocesseur ;
+-Architecture matérielle (microprocesseur, mémoire, bus) ;
 
-- bus et mémoire ;
+-Périphériques et connectiques.
 
-- périphériques.
+B.-Architecture physique et logique des réseaux :
 
-B. - Architecture physique et logique des réseaux :
+-Topologie des réseaux ;
 
-- topologie des réseaux ;
+-Ethernet et TCP/ IP (adresses IP et masque de sous-réseau) ;
 
-- réseau TCP/IP - Ethernet ;
+-IPv4et Ipv6 ;
 
-- services réseaux (DHCP, DNS…) ;
+-Services réseaux (Web, DHCP, DNS, Spanning tree, …) ;
 
-- commutateurs, routeurs, VLAN.
+-Commutation et VLAN ;
 
-C. - Bases de données :
+-Routage (routeurs, interfaces virtuelles, routage, NAT/ PAT …).
 
-- administration des bases de données relationnelles ;
+C.-Algorithmie et programmation :
 
-- langage SQL.
+-Programmation objet, procédurale et évènementielle ;
 
-D. - Droit de l'informatique.
+-Fonctions et procédures ;
 
-E. - Informatique et liberté.
+-Langage de script.
 
-II. - Développement.
+D.-Base de données :
 
-A. - Algorithmie et structures de données :
+-Administration de bases de données relationnelles ;
 
-- types de données élémentaires et abstraits ;
+-Langage SQL : Administration, Manipulation, Interrogation.
 
-- structure de contrôle et structure données ;
+E.-Domaines complémentaires :
 
-- algorithme itératif et récursif ;
+-Droit de l'informatique ;
 
-- complexité.
+-Informatique et liberté ;
 
-B. - Production logiciel :
+-Sécurité informatique.
 
-- processus de compilation et de génération d'un programme exécutable ;
+II.-Développement.
 
-- librairies statiques et dynamiques ;
+A.-Environnement et test :
 
-- environnement de développement (éditeur, compilateur, debugger, versioning) ;
+-Test unitaire ;
 
-- test unitaire et d'intégration.
+-Test d'intégration ;
 
-C. - Programmation procédurale, objet et événementielle :
+-Processus de compilation et génération d'un programme exécutable ;
 
-- fonctions et procédures ;
+-Environnement de développement (éditeur, versionning) ;
 
-- classes, héritage, polymorphisme et surcharge ;
+-Méthodes de gestion de projet.
 
-- réutilisation, patterns ;
+B.-Programmation objet :
 
-- interception et gestion d'événements ;
+-Classes, héritages, polymorphisme, surcharge ;
 
-- programmation web.
+-Réutilisation, patterns.
 
-D. - Analyse et conception :
+C.-Méthodes et analyse :
 
-- méthodes ;
+-Modélisation des données ;
 
-- langage de modélisation ;
+-Modélisation des objets ;
 
-- modélisation objets.
+-Modèle MVC.
 
-E. - Sécurité des applications.
+D.-Programmation Web et webservices.
 
 PROGRAMME DE LA SPÉCIALITÉ INFORMATIQUE SYSTÈMES ET RÉSEAUX
 
-I. - Informatique générale.
+I.-Informatique générale.
 
-A. - Architecture des systèmes :
+A.-Architecture des systèmes :
 
-- codage de l'information ;
+-Codage de l'information ;
 
-- microprocesseur ;
+-Architecture matérielle (microprocesseur, mémoire, bus) ;
 
-- bus et mémoire ;
+-Périphériques et connectiques.
 
-- périphériques.
+B.-Architecture physique et logique des réseaux :
 
-B. - Architecture physique et logiques des réseaux :
+-Topologie des réseaux ;
 
-- topologie des réseaux ;
+-Ethernet et TCP/ IP (adresses IP et masque de sous réseau) ;
 
-- réseau TCP/IP - Ethernet ;
+-Ipv4 et Ipv6 ;
 
-- services réseaux (DHCP, DNS) ;
+-Services réseaux (Web, DHCP, DNS, Spanning tree …) ;
 
-- commutateurs, routeurs, VLAN.
+-Commutation et VLAN ;
 
-C. - Bases de données :
+-Routage (routeurs, interfaces virtuelles, routage, NAT/ PAT …).
 
-- administration des bases de données relationnelles ;
+C.-Algorithmie et programmation :
 
-- langage SQL.
+-Programmation objet, procédurale et évènementielle ;
 
-D. - Droit de l'informatique.
+-Fonctions et procédures ;
 
-E. - Informatique et liberté.
+-Langage de script.
 
-II. - Systèmes et réseaux.
+D.-Base de données :
 
-A. - Administration et supervision des réseaux locaux :
+-Administration de bases de données relationnelles ;
 
-- adressage IP et masque de sous-réseau ;
+-Langage SQL : Administration, Manipulation, Interrogation.
 
-- routage ;
+E.-Domaines complémentaires :
 
-- surveillance des éléments actifs et des ressources ;
+-Droit de l'informatique ;
 
-- gestion des utilisateurs réseaux et des ressources sous Active Directory et Linux ;
+-Informatique et liberté ;
 
-- administration des systèmes de messagerie ;
+-Sécurité informatique.
 
-- gestion d'annuaires.
+II.-Systèmes et réseaux
 
-B. - Sécurité des systèmes et des réseaux :
+A.-Administration des systèmes :
 
-- antivirus ;
+-Administration des utilisateurs et des ressources (Active directory et Linux) ;
 
-- mise à jour système.
+-Administration des systèmes de messagerie ;
 
-C. - Installation et maintenance des serveurs et des systèmes d'exploitation :
+-Virtualisation des systèmes (serveurs et clients) ;
 
-- environnement Microsoft Active Directory ;
+-Script systèmes (DOS, shell Linux, PowerShell) ;
 
-- environnement Linux.
+-Déploiement, installation et maintenance d'un poste de travail ;
 
-D. - Exploitation des bases de données :
+-Maintenance des serveurs et des systèmes (Microsoft, Linux).
 
-- administration et maintenance d'un SGBDR ;
+B.-Sécurité et performances des réseaux :
 
-- organisation des données dans un SGBDR.
+-Antivirus et mises à jour ;
 
-E. - Programmation en langage scripté :
+-Continuité de service et tolérance de panne ;
 
-- environnement MS-DOS ;
+-Cluster à basculement ;
 
-- environnement Shell sous Linux.
+-Cluster de répartition de charge ;
 
-F. - Installation et maintenance d'un poste de travail.
+-Qos et Voip ;
 
-G. - Architecture des systèmes d'information :
+-Relais DHCP.
 
-- stockage (DAS, NAS, SAN) ;
+C.-Supervision, sécurité et réseaux locaux :
 
-- virtualisation des systèmes ;
+-Surveillance des éléments actifs du réseau ;
 
-- sauvegarde et restauration.
+-Routage dynamique ;
+
+-Stockage réseau (DAS, NAS, SAN) ;
+
+-Sauvegarde et restauration ;
+
+-Contrôle des accès (Pare feu, VPN, DMZ, accès distants, portail captif) ;
+
+-Authentification.
 
 PROGRAMME DE LA SPÉCIALITÉ TRAITEMENT DU SIGNAL
 
@@ -567,3 +697,7 @@ B. - Techniques de traitement de signal :
 C. - Utilisation d'un logiciel de traitement de signal (Matlab…).
 
 D. - Analyse statistique.
+
+NOTA :
+
+Conformément à l'article 4 de l’arrêté du 10 septembre 2019, ces dispositions prennent effet à compter du concours ouvert au titre de l'année 2020.
