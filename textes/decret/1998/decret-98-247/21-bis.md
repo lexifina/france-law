@@ -12,6 +12,4 @@ CMA France centralise, au sein du répertoire national des métiers :
 
 Son président délivre, sur support papier ou par voie électronique, à toute personne qui en fait la demande, des copies ou extraits relatifs à l'inscription d'une personne au répertoire national ainsi qu'aux actes et documents comptables déposés, moyennant le paiement de redevances. Il délivre également des certificats attestant qu'au jour de la demande une personne ne figure pas dans les immatriculations portées au répertoire national.
 
-Un arrêté du ministre chargé de l'artisanat fixe la liste des données contenues dans les extraits et certificats mentionnés au présent article.
-
 Les frais supportés au titre de la conservation du double original mentionné au troisième alinéa sont couverts par un droit fixé par arrêté du ministre chargé de l'artisanat, acquitté par chaque chambre.

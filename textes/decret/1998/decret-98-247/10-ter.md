@@ -8,8 +8,10 @@ Lorsque la personne immatriculée s'est engagée à recruter un salarié qualifi
 
 Le président de la chambre de métiers vérifie, au vu des éléments communiqués, le respect des obligations de qualification.
 
-II.-Toute personne physique ou morale soumise à l'obligation d'immatriculation au répertoire des métiers indique, dans sa déclaration, le nombre de ses salariés.
+I bis.-Pour être immatriculées, les personnes physiques et morales qui exercent l'activité de transporteur fluvial de marchandises justifient du respect de la condition de capacité professionnelle prévue aux articles R. * 4421-1 et suivants du code des transports.
 
-III.-Lors de sa demande d'immatriculation, la personne physique déclare, le cas échéant, qu'elle relève du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale.
+II.-Lors de sa demande d'immatriculation, la personne physique ou morale indique, dans sa déclaration, le nombre de ses salariés.
+
+III.-Lors de la demande d'immatriculation, la personne physique ou morale déclare, le cas échéant, qu'elle-même ou son dirigeant relève du régime prévu à l'article L. 613-7 du code de la sécurité sociale.
 
 IV.-Les éléments déclarés en application du présent article ne font pas l'objet d'une mention au répertoire des métiers.

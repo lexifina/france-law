@@ -4,63 +4,63 @@ LISTE DES ACTIVITÉS RELEVANT DE L'ARTISANAT AVEC LEUR CORRESPONDANCE DANS LE CO
 
 Activités relevant de l'artisanat de l'alimentation
 
-Transformation et conservation de la viande et préparation de produits à base de viande, 10. 1.
+Transformation et conservation de la viande et préparation de produits à base de viande, 10.1.
 
-Transformation et conservation de poissons, de crustacés et de mollusques, 10. 2.
+Transformation et conservation de poissons, de crustacés et de mollusques, 10.2.
 
-Transformation et conservation de fruits et légumes, 10. 3 (sauf produits de la quatrième gamme).
+Transformation et conservation de fruits et légumes, 10.3 (sauf produits de la quatrième gamme).
 
-Fabrication d'huiles et graisses végétales et animales, 10. 4.
+Fabrication d'huiles et graisses végétales et animales, 10.4.
 
-Fabrication de produits laitiers, 10. 5.
+Fabrication de produits laitiers, 10.5.
 
-Travail des grains, fabrication de produits amylacés, 10. 6.
+Travail des grains, fabrication de produits amylacés, 10.6.
 
-Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, 10. 7 (sauf terminaux de cuisson, 10. 71 B).
+Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, 10.7 (sauf terminaux de cuisson, 10.71 B).
 
-Fabrication d'autres produits alimentaires, 10. 8.
+Fabrication d'autres produits alimentaires, 10.8.
 
-Fabrication d'aliments pour animaux, 10. 9.
+Fabrication d'aliments pour animaux, 10.9.
 
-Fabrication d'eaux-de-vie naturelles et de spiritueux (inclus dans 11. 01 Z).
+Fabrication d'eaux-de-vie naturelles et de spiritueux (inclus dans 11.01 Z).
 
-Fabrication de vins effervescents (inclus dans 11. 02 A).
+Fabrication de vins effervescents (inclus dans 11.02 A).
 
-Fabrication d'autres boissons, 11. 03 à 11. 07.
+Fabrication d'autres boissons, 11.03 à 11.07.
 
-Commerce de détail de viandes et de produits à base de viande en magasin spécialisé, 47. 22.
+Commerce de détail de viandes et de produits à base de viande en magasin spécialisé, 47.22.
 
-Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé dont préparations à partir de ces produits (inclus dans 47. 23).
+Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé dont préparations à partir de ces produits (inclus dans 47.23).
 
 Commerce de détail et transformation de produits à base de lait ou de fromage en magasin spécialisé, dont préparations à base de ces produits (inclus dans 47.29).
 
-Commerce de détail de viande, produits à base de viandes sur éventaires et marchés (inclus dans 47. 81).
+Commerce de détail de viande, produits à base de viandes sur éventaires et marchés (inclus dans 47.81).
 
-Commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés dont préparations à partir de ces produits (inclus dans 47. 81).
+Commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés dont préparations à partir de ces produits (inclus dans 47.81).
 
 Commerce de détail et transformation de produits à base de lait ou de fromage sur éventaire et marché, dont préparations à base de ces produits (inclus dans 47.81).
 
-Fabrication de plats prêts à consommer, à emporter, associée à la vente au détail (inclus dans 56. 10 C).
+Fabrication de plats prêts à consommer, à emporter, associée à la vente au détail (inclus dans 56.10 C).
 
 Activités relevant de l'artisanat du bâtiment
 
-Orpaillage (inclus dans 07. 29).
+Orpaillage (inclus dans 07.29).
 
 Autres industries extractives, 08.
 
-Activités de soutien aux autres industries extractives (inclus dans 09. 90).
+Activités de soutien aux autres industries extractives (inclus dans 09.90).
 
-Incinération des déchets non dangereux et production de cendres et scories associés (inclus dans 38. 21 Z).
+Incinération des déchets non dangereux et production de cendres et scories associés (inclus dans 38.21 Z).
 
-Désamiantage, enlèvement des peintures à base de plomb (inclus dans 39. 00).
+Désamiantage, enlèvement des peintures à base de plomb (inclus dans 39.00).
 
-Construction de bâtiments résidentiels et non résidentiels, 41. 2.
+Construction de bâtiments résidentiels et non résidentiels, 41.2.
 
 Génie civil, 42 (sauf promotion immobilière de lotissements fonciers viabilisés).
 
 Travaux de construction spécialisés, 43.
 
-Installation de systèmes d'alarme et activités associées de surveillance (inclus dans 80. 20 Z).
+Installation de systèmes d'alarme et activités associées de surveillance (inclus dans 80.20 Z).
 
 Activités relevant de l'artisanat de fabrication
 
@@ -74,23 +74,23 @@ Travail du bois et fabrication d'articles en bois et en liège, en vannerie et s
 
 Industrie du papier et du carton, 17.
 
-Imprimerie de labeur, 18. 12.
+Imprimerie de labeur, 18.12.
 
-Activités de prépresse, 18. 13.
+Activités de prépresse, 18.13.
 
-Reliure et activités connexes, 18. 14.
+Reliure et activités connexes, 18.14.
 
-Reproduction d'enregistrements, 18. 2.
+Reproduction d'enregistrements, 18.2.
 
-Production de brai et de coke de brai (inclus dans 19. 10).
+Production de brai et de coke de brai (inclus dans 19.10).
 
-Agglomération de la tourbe (inclus dans 19. 20).
+Agglomération de la tourbe (inclus dans 19.20).
 
 Industrie chimique, 20.
 
-Fabrication d'édulcorants de synthèse (inclus dans 21. 10).
+Fabrication d'édulcorants de synthèse (inclus dans 21.10).
 
-Fabrication d'ouates, bandes, gazes et pansements à usage médical et de substances radioactives de diagnostic (inclus dans 21. 20).
+Fabrication d'ouates, bandes, gazes et pansements à usage médical et de substances radioactives de diagnostic (inclus dans 21.20).
 
 Fabrication de produits en caoutchouc et en plastique, 22.
 
@@ -116,78 +116,76 @@ Autres industries manufacturières, 32 (sauf fabrication de lunettes correctrice
 
 Réparation et installation de machines et d'équipements, 33.
 
-Collecte des déchets nucléaires (inclus dans 38. 12).
+Collecte des déchets nucléaires (inclus dans 38.12).
 
-Traitement et élimination des déchets nucléaires radioactifs (inclus dans 38. 22).
+Traitement et élimination des déchets nucléaires radioactifs (inclus dans 38.22).
 
-Démantèlement d'épaves, 38. 31.
+Démantèlement d'épaves, 38.31.
 
-Récupération de déchets triés, 38. 32.
+Récupération de déchets triés, 38.32.
 
-Edition d'imprimés fiduciaires, imprimés commerciaux, formulaires imprimés (inclus dans 58. 19).
+Edition d'imprimés fiduciaires, imprimés commerciaux, formulaires imprimés (inclus dans 58.19).
 
 Activités relevant de l'artisanat de service
 
-Maréchalerie (inclus dans 01. 62).
+Maréchalerie (inclus dans 01.62).
 
-Entretien de fosses septiques (inclus dans 37. 00).
+Entretien de fosses septiques (inclus dans 37.00).
 
-Entretien et réparation de véhicules automobiles, 45. 2.
+Entretien et réparation de véhicules automobiles, 45.2.
 
-Entretien et réparation de motocycles (inclus dans 45. 4).
+Entretien et réparation de motocycles (inclus dans 45.4).
 
-Préparation de plantes et de fleurs et compositions florales en magasins spécialisés (inclus dans 47. 76).
+Préparation de plantes et de fleurs et compositions florales en magasins spécialisés (inclus dans 47.76).
 
-Préparation de plantes et de fleurs et compositions florales sur éventaires et marchés (inclus dans 47. 89).
+Préparation de plantes et de fleurs et compositions florales sur éventaires et marchés (inclus dans 47.89).
 
-Transports de voyageurs par taxis y compris à moto et par véhicules de remise, 49. 32.
+Transports de voyageurs par taxis y compris à moto et par véhicules de remise, 49.32.
 
-Services de déménagement, 49. 42.
+Services de déménagement, 49.42.
 
-Services de remorquage et d'assistance routière (inclus dans 52. 21).
+Transports fluviaux de fret, 50.40
 
-Contrôle technique automobile, 71. 20 A.
+Services de remorquage et d'assistance routière (inclus dans 52.21).
 
-Pose d'affiches (inclus dans 73. 11).
+Contrôle technique automobile, 71.20 A.
 
-Activités d'étalagiste (inclus dans 74. 10).
+Pose d'affiches (inclus dans 73.11).
 
-Activités photographiques, 74. 2 (sauf photojournalisme).
+Activités d'étalagiste (inclus dans 74.10).
 
-Nettoyage courant des bâtiments, 81. 21.
+Activités photographiques, 74.2 (sauf photojournalisme).
 
-Nettoyage industriel et autres activités de nettoyage des bâtiments dont ramonage, 81. 22.
+Nettoyage courant des bâtiments, 81.21.
 
-Désinfection, désinsectisation, dératisation, 81. 29 A.
+Nettoyage industriel et autres activités de nettoyage des bâtiments dont ramonage, 81.22.
 
-Autres nettoyages, 81. 29 B (sauf services de voirie et de déneigement).
+Désinfection, désinsectisation, dératisation, 81.29 A.
 
-Services administratifs divers, 82. 11 (limité aux services administratifs de bureau combinés).
+Autres nettoyages, 81.29 B (sauf services de voirie et de déneigement).
 
-Travaux à façon divers, 82. 19 (limité à la duplication et l'expédition de documents et au secrétariat à façon).
+Services administratifs divers, 82.11 (limité aux services administratifs de bureau combinés).
 
-Activités de conditionnement, 82. 92.
+Travaux à façon divers, 82.19 (limité à la duplication et l'expédition de documents et au secrétariat à façon).
 
-Ambulances, 86. 90 A.
+Activités de conditionnement, 82.92.
 
-Spectacle de marionnettes (inclus dans 90. 01).
+Ambulances, 86.90 A.
 
-Restauration d'objets d'art (inclus dans 90. 03 A).
+Spectacle de marionnettes (inclus dans 90.01).
 
-Réparation d'ordinateurs et d'équipements de communication, 95. 1.
+Restauration d'objets d'art (inclus dans 90.03 A).
 
-Réparation de biens personnels et domestiques, 95. 2.
+Réparation d'ordinateurs et d'équipements de communication, 95.1.
 
-Blanchisserie-teinturerie dont nettoyage et garde de fourrures, 96. 01 (sauf libre-service).
+Réparation de biens personnels et domestiques, 95.2.
 
-Coiffure, 96. 02 A.
+Blanchisserie-teinturerie dont nettoyage et garde de fourrures, 96.01 (sauf libre-service).
 
-Soins de beauté dont le modelage esthétique de bien-être et de confort sans finalité médicale, 96. 02 B.
+Coiffure, 96.02 A.
 
-Embaumement, soins mortuaires, thanatopraxie (inclus dans 96. 03).
+Soins de beauté dont le modelage esthétique de bien-être et de confort sans finalité médicale, 96.02 B.
 
-Toilettage, éducation comportementaliste et pension pour animaux de compagnie (inclus dans 96. 09).
+Embaumement, soins mortuaires, thanatopraxie (inclus dans 96.03).
 
-NOTA :
-
-Conformément à l'article 40 II du décret n° 2017-861 du 9 mai 2017, les personnes qui, à la date d'entrée en vigueur du présent décret, exercent l'activité d'éducation comportementaliste ou de pension pour animaux de compagnie et sont tenues de s'immatriculer au répertoire des métiers en application de l'article 37 présentent leur demande d'immatriculation au plus tard le 1er octobre 2017 au centre de formalités des entreprises compétent en application des articles R. 123-3 et R. 123-4 du code de commerce.
+Toilettage, éducation comportementaliste et pension pour animaux de compagnie (inclus dans 96.09).

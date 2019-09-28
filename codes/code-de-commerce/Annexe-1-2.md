@@ -14,8 +14,6 @@ Immatriculation principale au registre du commerce et des sociétés.
 
 Immatriculation au répertoire des métiers.
 
-Immatriculation au registre des entreprises de la batellerie artisanale.
-
 Immatriculation au registre des agents commerciaux.
 
 Inscription au répertoire national des entreprises et des établissements.
@@ -62,8 +60,6 @@ Immatriculation principale au registre du commerce et des sociétés.
 
 Immatriculation au répertoire des métiers.
 
-Immatriculation au registre de la batellerie artisanale.
-
 Inscription au répertoire national des entreprises et des établissements.
 
 Déclaration d'existence au service des impôts.
@@ -103,8 +99,6 @@ III. - Etablissements
 1. Ouverture :
 
 Mention au répertoire des métiers.
-
-Mention au registre de la batellerie artisanale.
 
 Immatriculation secondaire ou inscription complémentaire au registre du commerce et des sociétés.
 

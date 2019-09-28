@@ -32,7 +32,7 @@ I.-Lors de sa demande d'immatriculation, la personne physique déclare, pour êt
 
 15° En cas de reprise du fonds d'une entreprise, les nom, nom d'usage, pseudonyme, prénoms ou la dénomination sociale et le numéro unique d'identification prévu à l'article 3 de la loi du 11 février 1994 susvisée du précédent exploitant ;
 
-16° S'il en est utilisé, le nom commercial et l'enseigne ;
+16° S'il en est utilisé, le nom professionnel ou commercial et l'enseigne ;
 
 17° En cas de propriété indivise des éléments d'exploitation, les nom, nom d'usage, pseudonyme, prénoms et domicile des personnes physiques ou dénomination sociale et adresse des personnes morales indivisaires ;
 
@@ -44,7 +44,7 @@ I.-Lors de sa demande d'immatriculation, la personne physique déclare, pour êt
 
 21° Si elle le souhaite, le nom de domaine de son ou ses sites internet, ainsi que ses coordonnées téléphoniques et électroniques ;
 
-22° Si elle le souhaite, qu'elle remplit les conditions pour se prévaloir de la qualité d'artisan ou d'artisan d'art.
+22° Si elle le souhaite, qu'elle remplit les conditions pour se prévaloir de la qualité d'artisan ou d'artisan d'art ou qu'elle s'est vu attribuer le titre de maître artisan.
 
 II.-Lors de son immatriculation, la personne morale déclare, pour être mentionnés au répertoire des métiers :
 
@@ -72,12 +72,12 @@ II.-Lors de son immatriculation, la personne morale déclare, pour être mention
 
 12° En cas de reprise du fonds d'une entreprise, les nom, nom d'usage, pseudonyme, prénoms ou la dénomination sociale et le numéro unique d'identification prévu à l'article 3 de la loi du 11 février 1994 susvisée du précédent exploitant ;
 
-13° S'il en est utilisé, le nom commercial et l'enseigne ;
+13° S'il en est utilisé, le nom professionnel ou commercial et l'enseigne ;
 
 14° Les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, domicile personnel et nationalité, selon le cas, des directeurs généraux, directeurs généraux délégués, membres du directoire, président du directoire, directeur général unique, associés et tiers ayant le pouvoir de diriger, gérer ou engager à titre habituel la personne morale, administrateurs, président du conseil d'administration et président du conseil de surveillance, personnes habilitées à représenter l'association vis-à-vis des tiers aux termes des statuts ou, si l'une des personnes mentionnées ci-dessus est une personne morale, sa dénomination sociale et sa forme juridique ;
 
 15° Si elle le souhaite, le nom de domaine de son ou ses sites internet, ainsi que ses coordonnées téléphoniques et électroniques ;
 
-16° Si elle le souhaite, que l'un de ses dirigeants remplit les conditions pour se prévaloir de la qualité d'artisan ou d'artisan d'art.
+16° Si elle le souhaite, que l'un de ses dirigeants remplit les conditions pour se prévaloir de la qualité d'artisan ou d'artisan d'art ou s'est vu attribuer le titre de maître artisan.
 
 III.-Est un établissement secondaire, au sens du présent décret, tout établissement permanent, distinct du siège social ou du principal établissement, poursuivant une activité figurant dans la liste annexée au présent décret et dirigé par l'assujetti, un préposé ou une personne ayant le pouvoir d'engager cet établissement vis-à-vis des tiers.

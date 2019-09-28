@@ -4,9 +4,11 @@ Lorsque le président de la chambre est informé par une autorité administrativ
 
 Les personnes physiques sont radiées à l'issue d'un délai de trois mois après la date de l'accusé de réception et les personnes morales dans le délai de trois mois après leur radiation du registre du commerce et des sociétés.
 
-Les personnes n'ayant pas transmis les éléments prévus aux articles 10 ter et 12 dans le délai de trois mois à compter de leur immatriculation ou du changement de situation affectant leurs obligations en matière de qualification professionnelle sont radiées d'office.
+Les personnes n'ayant pas transmis les éléments prévus au troisième alinéa du I de l'article 10 ter dans le délai de trois mois à compter de leur immatriculation sont radiées d'office. Sont également radiées d'office les personnes qui, en cas de changement de situation affectant leurs obligations en matière de qualification professionnelle, n'ont pas transmis les éléments requis dans les délais prévus aux quatrième et cinquième alinéas de l'article 12.
 
 Sont également radiées d'office les personnes qui, au vu des éléments transmis, ne respectent pas leurs obligations en matière de qualification professionnelle.
+
+Toutefois, lorsque ces obligations sont satisfaites pour une ou plusieurs activités donnant lieu à immatriculation, seule est supprimée la mention des activités pour lesquelles ces obligations ne sont pas remplies.
 
 Les personnes qui atteignent le seuil de cinquante salariés mentionné aux quatrième et cinquième alinéas du I de l'article 19 de la loi du 5 juillet 1996 susvisée sont radiées d'office au terme du délai mentionné au sixième alinéa du même article.
 
