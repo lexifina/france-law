@@ -1,0 +1,45 @@
+# Article Annexe II
+
+INFORMATIONS MINIMALES QUE DOIT CONTENIR LA DEMANDE DE PERMIS D'ACCÈS À LA BAIE DE GRANVILLE
+
+Je soussigné,
+
+demeurant,
+
+armateur du navire
+
+immatriculé,
+
+d'une longueur hors tout de ................. mètres,
+
+d'un tonnage de tjb/UMS,
+
+d'une puissance de kW,
+
+exploité/immatriculé au port de,
+
+utilisant des arts (1) :
+
+- traînants (chaluts, dragues…) ;
+
+- dormants (filets, casiers…),
+
+demande un permis d'accès pour la zone de la baie de Granville pour l'année .......
+
+Présentation du projet professionnel :
+
+Lorsque ces informations sont pertinentes, pour les navires riverains uniquement :
+
+Zone B
+
+Zone C
+
+Zone D (fileyeurs malouins)
+
+Zone D1 (bulotiers)
+
+Fait à , le
+
+Signature
+
+(1) Rayer la mention inutile.
