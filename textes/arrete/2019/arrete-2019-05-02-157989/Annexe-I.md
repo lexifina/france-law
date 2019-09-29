@@ -80,7 +80,7 @@ Médecine cardiovasculaire |
 
 Médecine d'urgence |
 
-25 |
+65 |
 
 Médecine et santé au travail |
 
