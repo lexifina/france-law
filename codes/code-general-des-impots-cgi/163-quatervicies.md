@@ -6,27 +6,21 @@ a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code
 
 b) A titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs ;
 
-c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité.
+c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité ;
+
+d) Sauf application de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier, aux plans d'épargne retraite mentionnés à l'article L. 224-1 du même code, qui correspondent à des versements mentionnés au 1° de l'article L. 224-2 dudit code et qui ne sont pas déduits en application des articles 154 bis ou 154 bis-0 A.
 
 2. – a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre de cette dernière année, entre :
 
 1° une fraction égale à 10 % de ses revenus d'activité professionnelle tels que définis au II, retenus dans la limite de huit fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale ou, si elle est plus élevée, une somme égale à 10 % du montant annuel du plafond précité ;
 
-2° et le montant cumulé des cotisations ou primes déductibles en application du 2° de l'article 83 ou, au titre de la retraite supplémentaire, du 2°-0 bis et, au titre de la retraite, du 2°-0 ter y compris les versements de l'employeur, des cotisations ou primes déductibles au titre du 1° du II de l'article 154 bis, de l'article 154 bis-0 A et du 13° du II de l'article 156 compte non tenu de leur fraction correspondant à 15 % de la quote-part du bénéfice comprise entre une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, ainsi que des sommes versées par l'entreprise ou le salarié au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81.
+2° et le montant cumulé des cotisations ou primes déductibles en application du 2° de l'article 83 ou aux plans d'épargne retraite qui sont au titre de la retraite, du 2°-0 ter y compris les versements de l'employeur, des cotisations ou primes déductibles au titre du 1° du II de l'article 154 bis, de l'article 154 bis-0 A et du 13° du II de l'article 156 compte non tenu de leur fraction correspondant à 15 % de la quote-part du bénéfice comprise entre une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, ainsi que des sommes versées aux plans d'épargne retraite qui sont exonérées en application du 18° de l'article 81.
 
 Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte.
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
 
-c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2014, dans la limite de :
-
-1° six années de cotisations au titre de chacune des années 2005 et 2006 ;
-
-2° quatre années de cotisations au titre de chacune des années 2007 à 2009 incluse ;
-
-3° deux années de cotisations au titre de chacune des années 2010 à 2014 incluse.
-
-Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public, en activité, affiliées après le 31 décembre 2004.
+c) (Abrogé).
 
 d) Les personnes qui, pour des raisons qui ne sont pas liées à la mise en oeuvre de procédures judiciaires, fiscales ou douanières, n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient bénéficient au titre de cette dernière année d'un plafond complémentaire de déduction égal au triple du montant de la différence définie au a.
 
@@ -41,3 +35,7 @@ Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 te
 NOTA :
 
 Conformément au IV de l’article 126 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 163 quatervicies telles qu'elles résultent du III dudit article s’appliquent au bénéfice des exploitants qui bénéficient de dotations d'installation aux jeunes agriculteurs octroyées à compter du 1er janvier 2019.
+
+Conformément au I de l’article 9 de l’ordonnance n° 2019-766 du 24 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2020.
+
+Aux termes du II de l'article 9 du décret n° 2019-807 du 30 juillet 2019, la date d'entrée en vigueur mentionnée au I de l'article 9 de l'ordonnance n° 2019-766 du 24 juillet 2019 portant réforme de l'épargne retraite est fixée au 1er octobre 2019.
