@@ -2,7 +2,13 @@
 
 1. Entreprises concernées par l'accord collectif de prévoyance
 
-Le présent accord est applicable de manière obligatoire à l'ensemble des employeurs et des salariés non cadres des entreprises relevant de la convention collective de travail polyculture élevage du 28 février 1983 de Seine-Maritime.
+Le présent accord est applicable de manière obligatoire à l'ensemble des employeurs et des salariés non cadres des entreprises relevant :
+
+– de la convention collective de travail de la polyculture et de l'élevage du 28 février 1983 de Seine-Maritime ;
+
+– de la convention collective régionale des exploitations horticoles de Haute-Normandie (départements de la Seine-Maritime et de l'Eure) du 2 octobre 1967 ;
+
+– de la convention collective des branches spécialisées de l'horticulture et pépinières du département de l'Orne du 24 septembre 1969.
 
 2. Bénéficiaires
 
