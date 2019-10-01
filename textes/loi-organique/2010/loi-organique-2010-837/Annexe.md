@@ -34,7 +34,9 @@ Direction générale
 
 |
 
-Agence de l'environnement et de la maîtrise de l'énergie |
+Agence de l'environnement et de la maîtrise de l'énergie
+
+|
 
 Présidence du conseil d'administration |
 
@@ -62,7 +64,7 @@ Autorité des normes comptables |
 
 Présidence |
 
-Autorité de régulation des activités ferroviaires et routières |
+Autorité de régulation des activités férroviaires et routières |
 
 Présidence |
 
@@ -261,3 +263,7 @@ Présidence déléguée du directoire
 Voies navigables de France |
 
 Présidence du conseil d'administration |
+
+NOTA :
+
+Aux termes de l’article 1er de l’ordonnance n°2019-761 du 24 juillet 2019 relative au régulateur des redevances aéroportuaires, dans les textes législatifs et réglementaires en vigueur, les mots : "Autorité de régulation des activités ferroviaires et routières" sont remplacés par les mots : "Autorité de régulation des transports".

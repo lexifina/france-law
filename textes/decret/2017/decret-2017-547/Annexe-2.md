@@ -2,24 +2,24 @@
 
 AUTRES EMPLOIS
 
-- secrétaire général de l'Autorité de contrôle prudentiel et de résolution ;
+-secrétaire général de l'Autorité de contrôle prudentiel et de résolution ;
 
-- rapporteur général de l'Autorité de la concurrence ;
+-rapporteur général de l'Autorité de la concurrence ;
 
-- secrétaire général de l'Autorité de régulation des activités ferroviaires et routières ;
+-secrétaire général de l' Autorité de régulation des transports ;
 
-- directeur général de l'Autorité de régulation des communications électroniques et des postes ;
+-directeur général de l'Autorité de régulation des communications électroniques et des postes ;
 
-- secrétaire général de l'Autorité des marchés financiers ;
+-secrétaire général de l'Autorité des marchés financiers ;
 
-- directeur général de l'Autorité de régulation des jeux en ligne ;
+-directeur général de l'Autorité de régulation des jeux en ligne ;
 
-- directeur général des services de la Commission de régulation de l'énergie ;
+-directeur général des services de la Commission de régulation de l'énergie ;
 
-- directeur de la Haute Autorité de santé ;
+-directeur de la Haute Autorité de santé ;
 
-- secrétaire général de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet ;
+-secrétaire général de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet ;
 
-- directeur général du Conseil supérieur de l'audiovisuel ;
+-directeur général du Conseil supérieur de l'audiovisuel ;
 
-- directeur général de l'Autorité de sûreté nucléaire.
+-directeur général de l'Autorité de sûreté nucléaire.
