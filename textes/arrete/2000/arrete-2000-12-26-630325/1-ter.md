@@ -1,9 +1,0 @@
-# Article 1 ter
-
-I. - Le montant du salaire mentionné au 1° du III de l'article R. 532-8 du code de la sécurité sociale est fixé à 1 326,53 €.
-
-II. - Le montant du salaire ou l'addition des deux salaires mentionnés au 2° du III de l'article R. 532-8 du code de la sécurité sociale est fixé à 1 989,81 €.
-
-NOTA :
-
-Conformément à l'article 8 de l'arrêté du 27 décembre 2018, les présentes dispositions sont applicables pour les prestations dues à compter du 1er janvier 2019.
