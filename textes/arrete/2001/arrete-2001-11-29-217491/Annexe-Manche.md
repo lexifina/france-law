@@ -1,16 +1,16 @@
 # Article Annexe Manche
 
-Direction départementale des territoires et de la mer de la Manche
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LA MANCHE
 
-FONCTIONS EXERCÉES |
+Fonctions exercées |
 
-NIVEAU DE QUALIFICATION DE L'EMPLOI |
+Niveau de qualification de l'emploi |
 
-NOMBRE D'EMPLOIS |
+Nombre d'emplois |
 
-NOMBRE DE POINTS (IM) PAR EMPLOI |
+Nombre de points (IM) par emploi |
 
-Responsable du service habitat constuction et ville |
+Chargé de mission de la politique de la ville, de la rénovation urbaine et des opérations immobilières de l'Etat |
 
 A |
 
