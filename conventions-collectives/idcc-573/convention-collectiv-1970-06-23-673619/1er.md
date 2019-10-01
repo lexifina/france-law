@@ -133,3 +133,21 @@ Commerce de produits et services par automates sur des lieux privés ou ouverts 
 – Négociants-distributeurs de levure ;
 
 – Centrales d'achats des négociants-distributeurs de levure.
+
+Commerce de gros de textiles :
+
+– commerce de gros de tissus pour l'habillement ;
+
+– commerce de gros de linge de maison, rideaux et d'autres articles ménagers textiles :
+
+– vente en gros de tissus d'ameublement, rideaux, voilages ;
+
+– vente en gros de linge de lit, de table, de toilette ou de cuisine.
+
+Commerce de gros de tapis :
+
+– vente en gros de tapis et carpettes.
+
+Commerce de gros de revêtements de sols :
+
+– vente en gros de moquettes.

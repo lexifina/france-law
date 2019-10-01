@@ -1,0 +1,49 @@
+# Article 1er
+
+Les partenaires sociaux conviennent que l'ensemble des dispositions de la convention collective nationale des commerces de gros n° 3044 s'appliquent aux salariés et employeurs des entreprises du secteur du :
+
+– commerce de gros de textiles ;
+
+– commerce de gros de tapis ;
+
+– commerce de gros de revêtements de sols.
+
+Toutefois, sont maintenues les dispositions de la convention collective nationale 3047 listées ci-après, considérées comme plus favorables pour les salariés :
+
+Les dispositions de l'article 19 relatives au travail exceptionnel des jours fériés
+
+(1) :
+
+« Les jours fériés sont chômés et payés. Si par suite de circonstances exceptionnelles, un salarié est appelé à travailler, soit un dimanche, soit un jour férié, les heures ainsi effectuées sont rémunérées à partir des heures normales de base majorées de 100 %. Les heures effectuées le dimanche ou un jour férié donnent lieu à un repos compensateur équivalent à prendre dans la semaine qui suit. » ;
+
+Les dispositions suivantes de l'article 20 relatives aux congés payés :
+
+« Les congés payés sont attribués aux salariés, dans les conditions déterminées par la législation en vigueur. Des congés supplémentaires pour ancienneté sont accordés aux salariés, à raison de :
+
+– 1 jour ouvré, après 10 ans d'ancienneté ;
+
+– 2 jours ouvrés après 15 ans d'ancienneté.
+
+Au gré du salarié, ces jours de congé pourront être remplacés par une indemnité compensatrice calculée proportionnellement à celle correspondant au congé normal ou inscrits au crédit d'un compte épargne-temps. S'ils sont effectivement pris, ils ne peuvent entraîner une réduction du salaire habituel des intéressés.
+
+En cas de maladie survenant pendant que le salarié est en congé annuel, les jours de maladie inclus dans cette période ne sont pas déduits de la durée du congé. Toutefois, en cas de maladie survenue pendant les congés payés et entraînant un arrêt de travail de 90 jours au moins, le salarié pourra reporter les jours de maladie indemnisés pendant son congé sur une période ultérieure, en respectant les modalités générales de prise des congés payés. »
+
+Les dispositions de l'article 18 relatives aux heures supplémentaires effectuées de nuit :
+
+« Les heures supplémentaires définies par application de la législation relative à la durée du travail sont payées à un tarif majoré dans les conditions suivantes : 100 % de majoration pour les heures supplémentaires effectuées de nuit (de 21 heures à 6 heures). »
+
+Ces dispositions sont maintenues pour les salariés dont le contrat est en cours à la date d'entrée en vigueur du présent accord, pour une période de 12 mois à compter de cette date.
+
+Concernant les classifications, les partenaires sociaux conviennent d'appliquer celles de la convention collective nationale 3044 à l'expiration d'un délai de transition et au plus tard le 1er janvier 2020.
+
+Concernant les minima conventionnels :
+
+Les salariés relevant de la convention collective nationale 3047 en poste au moment de la fusion des deux conventions collectives nationales, dont les minima conventionnels sont inférieurs à ceux de la convention collective nationale 3044 se verront appliquer les minima de la convention collective nationale 3044 au plus tard le 1er janvier 2020.
+
+Les salariés relevant de la convention collective nationale 3047 en poste au moment de la fusion des deux conventions collectives nationales, dont les minima conventionnels sont supérieurs à ceux de la convention collective nationale 3044, conserveront cette rémunération.
+
+Les minima conventionnels de la convention collective nationale 3047 s'appliqueront aux salariés entrant dans des entreprises relevant de la convention collective nationale 3047 à partir de la date d'entrée en vigueur du présent accord jusqu'au 1er janvier 2020 au plus tard.
+
+(1) Les stipulations du troisième alinéa de l'article 1 relatives au maintien des dispositions de l'article 19 sont étendues sous réserve du respect des articles L. 3132-3 à L. 3132-30 du code du travail.
+
+(Arrêté du 18 décembre 2020 - art. 1)
