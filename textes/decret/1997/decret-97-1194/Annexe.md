@@ -150,9 +150,9 @@ hormis les titres miniers en mer dans les régions d'outre-mer
 
 |
 
-Articles 23, 49, 50,
+Articles 23,49,50,
 
-51, 52 et 53.
+51,52 et 53.
 
 |
 
@@ -184,7 +184,7 @@ hormis les titres miniers en mer dans les régions d'outre-mer.
 
 |
 
-Article 43, 4
+Article 43,4
 
 °.
 
@@ -246,7 +246,7 @@ Autorisation de création et d'agrément d'installations nucléaires de base et 
 
 |
 
-Articles 3, 3 bis et 6 ter.
+Articles 3,3 bis et 6 ter.
 
 |
 
@@ -422,7 +422,7 @@ Articles R. *141-7 et R. *144-4 (5°).
 
 |
 
-Décret n°83-816 du 13 septembre 1983 relatif au domaine confié à la Société nationale des chemins de fer français
+Décret n° 83-816 du 13 septembre 1983 relatif au domaine confié à la Société nationale des chemins de fer français
 
 1
 
@@ -568,9 +568,9 @@ Arrêté d'autorisation et récépissé de déclaration concernant les rejets d'
 
 |
 
-Autorisation : articles 11, 13.
+Autorisation : articles 11,13.
 
-Récépissés : articles 16, 17 et 18.
+Récépissés : articles 16,17 et 18.
 
 |
 
@@ -610,7 +610,7 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 
 |
 
-Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes. Décision conjointe avec le ministre chargé des transports
+Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification " CE " des sous-systèmes. Décision conjointe avec le ministre chargé des transports
 
 |
 
@@ -630,7 +630,7 @@ Habilitation des organismes mettant en oeuvre la procédure d’évaluation de l
 
 de l’aptitude à l’emploi des constituants d’interopérabilité et la procédure de vérification
 
-“CE” des sous-systèmes. Décision conjointe avec le ministre chargé des transports.
+“ CE ” des sous-systèmes. Décision conjointe avec le ministre chargé des transports.
 
 |
 
@@ -648,7 +648,7 @@ Désignation des organismes habilités à contrôler la conformité de certains 
 
 |
 
-Article R.665-27.
+Article R. 665-27.
 
 |
 
@@ -824,7 +824,7 @@ Décisions prises en matière de permis exclusifs de carrières : octroi, refus 
 
 |
 
-Articles 15, 17, 18, 19 et 20-I.
+Articles 15,17,18,19 et 20-I.
 
 |
 
@@ -880,7 +880,7 @@ rejet, prolongation, mutation et extension.
 
 |
 
-Articles 7, 15, 31 et 32.
+Articles 7,15,31 et 32.
 
 |
 
@@ -918,7 +918,7 @@ Mise en demeure et sanctions.
 
 |
 
-Article 4 (alinéas 1, 2 et 3).
+Article 4 (alinéas 1,2 et 3).
 
 |
 
@@ -970,9 +970,9 @@ d’exportation et de transit de déchets radioactifs.
 
 |
 
-Article R. 542-36 du code
+Article R. 542-36 du
 
-de l’environnement.
+code de l’environnement.
 
 |
 
@@ -1170,7 +1170,7 @@ Décisions relatives à la gestion des personnes n'appartenant pas à l'administ
 
 Décision entrant dans le champ des compétences de la direction du budget
 
-Loi n° 93-20 du 7 janvier 1993 relative à l'institution d'une garantie de l'Etat pour certaines expositions temporaires d'œuvres d'art. - Décret n° 93-947 du 23 juillet 1993
+Loi n° 93-20 du 7 janvier 1993 relative à l'institution d'une garantie de l'Etat pour certaines expositions temporaires d'œuvres d'art.-Décret n° 93-947 du 23 juillet 1993
 
 1
 
@@ -1196,7 +1196,7 @@ Agrément et refus d'agrément administratif à une entreprise se proposant de p
 
 |
 
-Articles L. 321-1, L. 321-10, R. 321–1 et R. 321-4.
+Articles L. 321-1, L. 321-10, R. 321 – 1 et R. 321-4.
 
 |
 
@@ -1220,7 +1220,7 @@ Décisions d'opposition aux opérations de prise, extension ou cession de partic
 
 |
 
-Article R.322-11-1.
+Article R. 322-11-1.
 
 |
 
@@ -1232,7 +1232,7 @@ Autorisation de poursuite des activités d'une société d'assurance mutuelle ag
 
 |
 
-Article R.322-134.
+Article R. 322-134.
 
 |
 
@@ -1302,7 +1302,7 @@ Compte d'affectation des produits de cession de titres, parts et droits de soci�
 
 |
 
-Loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992), article 71, et lois de finances pour 1994, 1995 et 1996.
+Loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992), article 71, et lois de finances pour 1994,1995 et 1996.
 
 |
 
@@ -1316,7 +1316,7 @@ Décision d’inscrire une agence de notation sur la liste prévue à l’articl
 
 |
 
-Article D.* 213-4.
+Article D. * 213-4.
 
 |
 
@@ -1334,7 +1334,7 @@ pénalité.
 
 |
 
-Article R.* 221-7.
+Article R. * 221-7.
 
 |
 
@@ -1344,7 +1344,7 @@ Décision de frapper les contrevenants aux dispositions des articles L. 221-13 �
 
 |
 
-Article R.* 221-57.
+Article R. * 221-57.
 
 |
 
@@ -1356,7 +1356,7 @@ populaire.
 
 |
 
-Article R.* 221-67.
+Article R. * 221-67.
 
 |
 
@@ -1368,7 +1368,7 @@ livret jeune.
 
 |
 
-Article R.* 221-82.
+Article R. * 221-82.
 
 |
 
@@ -1378,7 +1378,7 @@ Signature de la convention avec l’organisme délivrant des livrets jeune.
 
 |
 
-Article R.* 221-99.
+Article R. * 221-99.
 
 |
 
@@ -1388,7 +1388,7 @@ Retrait d’habilitation d’un organisme délivrant le livret jeune.
 
 |
 
-Article R.* 221-102.
+Article R. * 221-102.
 
 |
 
@@ -1398,7 +1398,7 @@ Autorisation de remettre des amendes encourues en application de l’article L. 
 
 |
 
-Article D.* 351-4.
+Article D. * 351-4.
 
 |
 
@@ -1412,7 +1412,7 @@ sociétés privées qui ont pour objet statutaire de contribuer directement au d
 
 |
 
-Article R.* 516-22.
+Article R. * 516-22.
 
 |
 
@@ -1426,7 +1426,7 @@ nouveaux produits d’épargne et de placements financiers.
 
 |
 
-Article R.* 518-44.
+Article R. * 518-44.
 
 |
 
@@ -1458,7 +1458,7 @@ Article 1.
 
 |
 
-Décret n° 60-703 du 15 juillet 1960 portant organisation du compte spécial "Prêts du fonds de développement économique et social"
+Décret n° 60-703 du 15 juillet 1960 portant organisation du compte spécial " Prêts du fonds de développement économique et social "
 
 1
 
@@ -1870,7 +1870,7 @@ Habilitation des associations à délivrer des carnets TIR et à se porter cauti
 
 |
 
-Article 6 §1.
+Article 6 § 1.
 
 |
 
@@ -1880,7 +1880,7 @@ Habilitation des personnes physiques et morales à utiliser des carnets TIR.
 
 |
 
-Article 6 §4.
+Article 6 § 4.
 
 |
 
@@ -1946,7 +1946,7 @@ la Communauté européenne.
 
 |
 
-Articles 21, 82, 89 et 90 du code des douanes
+Articles 21,82,89 et 90 du code des douanes
 
 communautaire.
 
@@ -1992,15 +1992,15 @@ communautaire).
 
 |
 
-Articles 85 à 90, 100, 103, 105, 106, 108, 109, 110, 111,
+Articles 85 à 90,100,103,105,106,108,109,110,111,
 
-115 à 119, 122, 123, 125, 128, 132, 138, 139, 140,
+115 à 119,122,123,125,128,132,138,139,140,
 
-147, 149, 154, 155 et 157 du code des douanes
+147,149,154,155 et 157 du code des douanes
 
 communautaire.
 
-Articles 229, 268, 269 §1, 270, 272 §1, 275, 276, 500 à 504, 506, 508, 510, 511 à 514, 515 à 517, 520 à 521, 523, 526, 527, 533, 534, 537 à 539, 540, 541 à 546, 547 bis , 553, 555 à 562, 563 à 578, 579, 581, 586, 588 et 590 à 592 des dispositions d’application du code des douanes communautaire.
+Articles 229,268,269 § 1,270,272 § 1,275,276,500 à 504,506,508,510,511 à 514,515 à 517,520 à 521,523,526,527,533,534,537 à 539,540,541 à 546,547 bis, 553,555 à 562,563 à 578,579,581,586,588 et 590 à 592 des dispositions d’application du code des douanes communautaire.
 
 |
 
@@ -2014,7 +2014,7 @@ bilatéraux ou multilatéraux entre les Etats membres de l’Union européenne.
 
 |
 
-Article 97 §2
+Article 97 § 2
 
 a
 
@@ -2030,11 +2030,11 @@ Autorisation de création d’une zone franche.
 
 |
 
-Article 167 §1 du code des douanes communautaire.
+Article 167 § 1 du code des douanes communautaire.
 
-Article 800 des dispositions d’application du code des
+Article 800 des dispositions d’application du
 
-douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2052,7 +2052,7 @@ Articles 236 et 239 du code des douanes
 
 communautaire.
 
-Articles 871, 875, 905 et 908 §3 des dispositions
+Articles 871,875,905 et 908 § 3 des dispositions
 
 d’application du code des douanes communautaire.
 
@@ -2066,9 +2066,9 @@ Agrément des imprimeurs de certificats.
 
 |
 
-Article 50 § 3 des dispositions d’application du code
+Article 50 § 3 des dispositions d’application du
 
-des douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2086,9 +2086,9 @@ Article 156
 
 bis
 
-des dispositions d’application du code
+des dispositions d’application du
 
-des douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2102,7 +2102,7 @@ Article 313
 
 ter
 
-§1 des dispositions d’application du
+§ 1 des dispositions d’application du
 
 code des douanes communautaire.
 
@@ -2132,9 +2132,9 @@ Agrément des imprimeries pour réaliser l’impression et l’assemblage des fo
 
 |
 
-Article 327 §7 des dispositions d’application du code
+Article 327 § 7 des dispositions d’application du
 
-des douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2146,7 +2146,7 @@ conteneurs.
 
 |
 
-Articles 372, 413, 414, 426 des dispositions
+Articles 372,413,414,426 des dispositions
 
 d’application du code des douanes communautaire.
 
@@ -2158,9 +2158,9 @@ Agrément des scellés spéciaux par type.
 
 |
 
-Article 386 des dispositions d’application du code des
+Article 386 des dispositions d’application du
 
-douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2174,9 +2174,9 @@ niveau 2).
 
 |
 
-Article 445 §1 des dispositions d’application du code
+Article 445 § 1 des dispositions d’application du
 
-des douanes communautaire.
+code des douanes communautaire.
 
 |
 
@@ -2204,9 +2204,9 @@ Article 457
 
 bis
 
-des dispositions d’application du code
+des dispositions d’application du
 
-des douanes communautaire.
+code des douanes communautaire.
 
 Article 38 de la convention douanière de Genève
 
@@ -2230,7 +2230,7 @@ BASE JURIDIQUE |
 
 Décisions en matière de renseignement tarifaire contraignant ou de renseignement contraignant en matière d'origine. |
 
-Articles 33 et 34, paragraphes 4, 5, 7, 8 et 11, du code des douanes de l'Union européenne. |
+Articles 33 et 34, paragraphes 4,5,7,8 et 11, du code des douanes de l'Union européenne. |
 
 2 |
 
@@ -2248,7 +2248,7 @@ Article 34, paragraphe 9, du code des douanes de l'Union européenne. |
 
 Remise ou remboursement de droits en application de décisions de la Commission européenne. |
 
-Articles 116, paragraphe 3, 119 et 120 du code des douanes de l'Union européenne et 101 du règlement délégué. |
+Articles 116, paragraphe 3,119 et 120 du code des douanes de l'Union européenne et 101 du règlement délégué. |
 
 5 |
 
@@ -2394,11 +2394,7 @@ Abrogation, suspension et refus de renouvellement de la décision. |
 
 Article L. 335-16, L. 521-17-3, L. 614-37, L. 623-41, L. 716-8-6, L. 722-15 et article R. 335-9. |
 
-Règlement (CE) n
-
-°
-
-1236/2005 du Conseil du 27 juin 2005 concernant le commerce de certains biens
+Règlement (CE) n° 1236/2005 du Conseil du 27 juin 2005 concernant le commerce de certains biens
 
 susceptibles d’être utilisés en vue d’infliger la peine capitale, la torture ou d’autres peines ou traitements cruels,
 
@@ -2544,7 +2540,7 @@ Agrément des personnes morales qui souhaitent bénéficier de décisions d'auto
 
 |
 
-Article 291-II (2°) et arrêté du 30 décembre 1983 fixant le régime d'exonération fiscale afférent à certaines importations de biens, articles 38, 40, 43, 48, 51, 59, 81 et 89.
+Article 291-II (2°) et arrêté du 30 décembre 1983 fixant le régime d'exonération fiscale afférent à certaines importations de biens, articles 38,40,43,48,51,59,81 et 89.
 
 |
 
@@ -2882,9 +2878,7 @@ Règlements de la Communauté européenne que la direction générale de la comp
 
 des services, est chargée d’appliquer
 
-Règlement (CE) n°
-
-428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle
+Règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle
 
 des exportations, des transferts, du courtage et du transit de biens et technologies à double usage,
 
@@ -2942,7 +2936,7 @@ et 2 du décret.
 
 3 |
 
-Décision de mise en application des articles 4, 5 et 6 du règlement
+Décision de mise en application des articles 4,5 et 6 du règlement
 
 n
 
@@ -2952,7 +2946,7 @@ n
 
 |
 
-Articles 4, 5, 6, 9.2
+Articles 4,5,6,9.2
 
 et 10.1 du règlement.
 
@@ -2968,7 +2962,7 @@ du décret.
 
 Délivrance, suspension, modification, retrait et abrogation des
 
-autorisations délivrées sur le fondement des articles 4, 5, 6 du
+autorisations délivrées sur le fondement des articles 4,5,6 du
 
 règlement n
 
@@ -2978,7 +2972,7 @@ règlement n
 
 |
 
-Articles 4, 5, 6, 9.2
+Articles 4,5,6,9.2
 
 et 10.1 du règlement.
 
@@ -3006,21 +3000,15 @@ Article 8 du décret.
 
 |
 
-Règlement (CE) n
-
-°
-
-423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures restrictives à
+Règlement (CE) n° 423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures restrictives à
 
 l’encontre de l’Iran,
 
 décret n° 2008-83 du 24 janvier 2008 modifié relatif aux mesures restrictives à l’encontre
 
-de l’Iran prévues par le règlement (CE) n
+de l’Iran prévues par le
 
-°
-
-423/2007 du Conseil du 19 avril 2007.
+règlement (CE) n° 423/2007 du Conseil du 19 avril 2007.
 
 1
 
@@ -3062,13 +3050,9 @@ transfert de biens et technologies à double usage
 
 |
 
-Autorisation d’exportation mise en œuvre en application de l’article 8 du
+Autorisation d’exportation mise en œuvre en application de l’
 
-règlement (CE) n
-
-°
-
-428/2009 du 5 mai 2009.
+article 8 du règlement (CE) n° 428/2009 du 5 mai 2009.
 
 |
 
@@ -3076,9 +3060,9 @@ Article 1
 
 er
 
-du décret
+du
 
-du 13 décembre 2001.
+décret du 13 décembre 2001.
 
 Articles 5 et 6 du décret
 
@@ -3098,9 +3082,9 @@ Article 1
 
 er
 
-du décret
+du
 
-du 13 décembre 2001.
+décret du 13 décembre 2001.
 
 Article 5 et
 
@@ -3116,19 +3100,15 @@ des catégories de biens et technologies soumises à autorisation.
 
 |
 
-Article 2-1 du décret
+Article 2-1 du
 
-du 13 décembre 2001.
+décret du 13 décembre 2001.
 
 |
 
 Décret n° 2008-83 du 24 janvier 2008 relatif aux mesures restrictives à l’encontre de l’Iran prévues par le
 
-règlement (CE) n
-
-°
-
-423/2007 du Conseil du 19 avril 2007
+règlement (CE) n° 423/2007 du Conseil du 19 avril 2007
 
 1
 
@@ -3140,15 +3120,15 @@ des catégories de biens et technologies soumises à autorisation.
 
 |
 
-Article 2-1 du décret
+Article 2-1 du
 
-du 24 janvier 2008.
+décret du 24 janvier 2008.
 
 |
 
 Décisions entrant dans le champ de compétences de la direction générale de la modernisation de l’Etat
 
-Décret n° 2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
+Décret n° 2010-112 du 2 février 2010 pris pour l’application des articles 9,10 et 12 de l’ordonnance
 
 n
 
@@ -3290,13 +3270,13 @@ Article 2, alinéa 2.
 
 |
 
-Décret n° 2006-595 du 23 mai 2006 relatif à l’attribution du label “entreprise du patrimoine vivant”
+Décret n° 2006-595 du 23 mai 2006 relatif à l’attribution du label “ entreprise du patrimoine vivant ”
 
 1
 
 |
 
-Attribution du label “entreprise du patrimoine vivant”.
+Attribution du label “ entreprise du patrimoine vivant ”.
 
 |
 
@@ -3362,13 +3342,13 @@ Article 7, alinéa 5.
 
 Décisions entrant dans le champ des compétences de la direction du budget et de la direction du Trésor :
 
-- décisions relatives à l'octroi et la mise en œuvre des garanties accordées par l'Etat ;
+-décisions relatives à l'octroi et la mise en œuvre des garanties accordées par l'Etat ;
 
-- décisions relatives aux participations financières de l'Etat et aux organismes dont le champ de compétence est local ou qui n'ont pas la personnalité morale et qui sont placés, à la date de publication du décret, sous la tutelle ou le contrôle dit ministre chargé de l'économie, des finances et de l'industrie.
+-décisions relatives aux participations financières de l'Etat et aux organismes dont le champ de compétence est local ou qui n'ont pas la personnalité morale et qui sont placés, à la date de publication du décret, sous la tutelle ou le contrôle dit ministre chargé de l'économie, des finances et de l'industrie.
 
 Décisions entrant dans le champ des compétences de la direction du Trésor et de la direction des relations économiques extérieures :
 
-- décisions relatives aux relations financières internationales autres que celles entre la France et les Etats étrangers, les institutions communautaires ou les organisations internationales.
+-décisions relatives aux relations financières internationales autres que celles entre la France et les Etats étrangers, les institutions communautaires ou les organisations internationales.
 
 Décisions entrant dans le champ des compétences direction des postes et des télécommunications
 
@@ -3422,7 +3402,7 @@ Autorisation d'accès pour les visites et stages dans les établissements à ré
 
 |
 
-Articles 5, 6 et 7.
+Articles 5,6 et 7.
 
 |
 
@@ -3550,7 +3530,7 @@ Décisions individuelles prises en application de la réglementation des apparei
 
 Article 10 bis.
 
-Arrêté du 26 février 1974 portant application de la réglementation des appareils à pression aux chaudières nucléaires à eau, articles 35, 44 (paragraphe 3), 45 et 47 bis.
+Arrêté du 26 février 1974 portant application de la réglementation des appareils à pression aux chaudières nucléaires à eau, articles 35,44 (paragraphe 3), 45 et 47 bis.
 
 |
 
@@ -3774,19 +3754,31 @@ Article 3 (2°).
 
 |
 
-Décret n° 96-1061 du 5 décembre 1996 relatif au contrôle de la fabrication et du commerce de certaines substances susceptibles d'être utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes
+Décret n° 2019-917 du 30 août 2019 relatif au contrôle de la fabrication et du commerce des précurseurs de drogues
 
-1
+1 |
 
-|
+Délivrance, modification, suspension et retrait de l'agrément des opérateurs. |
 
-Agrément, modification de l'agrément et retrait de l'agrément des opérateurs.
+Articles 3,4,5 et 6 |
 
-|
+1 |
 
-Articles 2, 9 et 10.
+Délivrance, modification, suspension et retrait de l'enregistrement des opérateurs |
 
-|
+Articles 9,11,13 et 15 |
+
+1 |
+
+Délivrance, suspension et retrait des autorisations d'exportation des opérateurs |
+
+Articles 7,12,16 et 17 |
+
+1 |
+
+Délivrance, suspension et retrait des autorisations d'importation des opérateurs |
+
+Article 8 |
 
 Règlement (CEE) n° 3030/93 du Conseil du 12 octobre 1993 modifié, relatif au régime commun applicable aux importations de certains produits textiles originaires des pays tiers
 
@@ -3962,7 +3954,7 @@ Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité
 
 |
 
-Articles 4 et 6. 3.
+Articles 4 et 6.3.
 
 |
 
@@ -4432,7 +4424,7 @@ Retrait du marché de produits dangereux.
 
 |
 
-Articles 1er-8, 8 et 9.
+Articles 1er-8,8 et 9.
 
 |
 
@@ -4514,7 +4506,7 @@ Article 11.
 
 |
 
-Arrêté du 12 août 1991 portant application de la directive 90/396/CEE relative aux appareils à gaz
+Arrêté du 12 août 1991 portant application de la directive 90/396/ CEE relative aux appareils à gaz
 
 1
 
@@ -4528,7 +4520,7 @@ Article 6.
 
 |
 
-Arrêté du 9 mai 1994 relatif au rendement des chaudières à eau chaude pris pour l'application de la directive 92/42/CEE
+Arrêté du 9 mai 1994 relatif au rendement des chaudières à eau chaude pris pour l'application de la directive 92/42/ CEE
 
 1
 
@@ -4636,7 +4628,7 @@ Arrêté du 28 décembre 1966 sur le supercarburant (art. 2).
 
 Arrêté du 29 août 1967 sur le fuel oil domestique (art. 2).
 
-Arrêté du 24 janvier 1994 sur le supercarburant sans plomb (art.2).
+Arrêté du 24 janvier 1994 sur le supercarburant sans plomb (art. 2).
 
 |
 
@@ -4734,7 +4726,7 @@ Décisions relatives à l'importation, au transfert et au transit de déchets ra
 
 |
 
-Articles 7, 13 19, 25 et 29.
+Articles 7,13 19,25 et 29.
 
 |
 
@@ -4776,7 +4768,7 @@ Décisions prises en matière de permis exclusifs de recherche de mines d'hydroc
 
 |
 
-Articles 13, 28, 29, 30, 31 et 32.
+Articles 13,28,29,30,31 et 32.
 
 |
 
@@ -4826,7 +4818,7 @@ Code des marchés publics
 
 |
 
-Décision d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et des établissements publics autres que ceux ayant un caractère industriel et commercial en cas d'inexactitude des renseignements prévus aux 2, 3, 4, 5 et 6 de l'article 50 du code des marchés publics.
+Décision d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et des établissements publics autres que ceux ayant un caractère industriel et commercial en cas d'inexactitude des renseignements prévus aux 2,3,4,5 et 6 de l'article 50 du code des marchés publics.
 
 |
 
@@ -4954,7 +4946,7 @@ Agrément d’un plan d’actions d’économies d’énergie
 
 |
 
-.Article 5.
+. Article 5.
 
 |
 
