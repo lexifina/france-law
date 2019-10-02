@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — biens immobiliers (acquisition onéreuse ou gratuite)
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2019-10-02
+- Matière : 3.1.1 Biens immobiliers (acquisition onéreuse ou gratuite)
+- Objet : biens immobiliers (acquisition onéreuse ou gratuite)
+- Transmis à la préfecture : 2019-10-02
+- Votants : 31
+- Pour : 31
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-16457.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
