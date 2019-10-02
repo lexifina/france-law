@@ -1,3 +1,9 @@
 # Article 3 ter
 
-Toutefois les dispositions du présent décret ne font pas obstacle au principe de libre circulation des appareils mobiles de chauffage à combustible liquide et de leurs pièces de rechange conformes aux normes ou aux spécifications techniques ou aux procédés de fabrication prévus dans les réglementations d'un autre Etat membre de la Communauté, ou partie à l'accord sur l'Espace économique européen ou en Turquie, assurant un niveau de sécurité équivalent à celui garanti par le présent décret.
+Les dispositions du présent décret ne font pas obstacle à la commercialisation des appareils mobiles de chauffage à combustible liquide, et à leurs pièces de rechange, légalement fabriqués ou commercialisés dans un autre Etat membre de l'Union européenne ou en Turquie, ou légalement fabriqués dans un Etat partie à l'accord instituant l'Espace économique européen, assurant un niveau de sécurité équivalent à celui exigé par le présent décret.
+
+NOTA :
+
+Conformément à l'article 12 du décret n° 2019-1007 du 30 septembre 2019 : Les produits conformes aux décrets mentionnés aux articles 1er à 11 du présent décret, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, peuvent être mis sur le marché jusqu'au 1er octobre 2020 et être commercialisés jusqu'à épuisement des stocks.
+
+Les attestations de conformité délivrées à la suite d'un examen de type par un organisme satisfaisant aux prescriptions des décrets mentionnés aux articles 1er à 11 du présent décret, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, restent valides.
