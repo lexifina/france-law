@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811954
+
+- Question : [SEQ190811954](seq190811954.md) — Projets d'unités de méthanisation
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-10-03, page 5063*
+
+La ministre de la transition écologique et solidaire souhaite le développement de la méthanisation en France. Le caractère vertueux de la méthanisation n'est plus à démontrer et il est très cohérent avec la volonté du Gouvernement de favoriser l'économie circulaire, notamment à travers la valorisation des déchets. Plusieurs groupes de travail ont été mis en place et ont identifié des outils économiques, administratifs et techniques pour développer la méthanisation à la ferme, en collectivité ou sur des projets privés. Sur le sujet mentionné, à savoir l'établissement d'un inventaire précis par territoire des différentes ressources méthanisables, il existe aujourd'hui une telle démarche que l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) a initiée en développant une méthodologie associée : la démarche ConcerTO. Il s'agit d'une démarche de concertation avec les autres acteurs du territoire concernés par des gisements de matière organique ou des besoins de matière organique pour leur projet. Un guide ConcerTO a d'ailleurs été élaboré et est disponible depuis le début de l'année. Fin 2019, quatre à cinq territoires volontaires et prêts à se lancer dans cette animation territoriale seront sélectionnés par l'agence. Un accompagnement d'animation sur chaque territoire sera réalisé, afin d'aider à mettre en œuvre la démarche, mais également pour faire progresser et améliorer le guide ConcerTO. Ainsi, des outils existent et un accompagnement est possible. Le succès de leur mise en place dépendra de leur appropriation par les acteurs territoriaux et de leur capacité à partager les informations.
