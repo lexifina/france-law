@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711568
+
+- Question : [SEQ190711568](seq190711568.md) — Calcul de la population de référence pour les élections municipales de 2020
+
+## Réponse
+
+*Intérieur, JO du 2019-10-03, page 5046*
+
+L'article R. 25-1 du code électoral dispose que le chiffre de population auquel il convient de se référer en matière électorale est le dernier chiffre de population municipale authentifié avant l'élection, soit au 1er janvier 2020 pour les prochaines élections municipales. Ces chiffres sont établis conformément aux articles 156 à 158 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité et aux dispositions du décret n° 2003-485 du 5 juin 2003 relatif au recensement de la population. La collecte des données est organisée et contrôlée par l'Institut national de la statistique et des études économiques et les populations légales sont calculées chaque année (n) en décembre. Ces dernières ont pour date de référence le 1er janvier de l'année (n-2) et sont juridiquement en vigueur du 1er janvier au 31 décembre de l'année (n+1). Ce décalage est difficilement compressible en raison du temps nécessaire au recensement de la population. En outre, afin de préserver l'égalité de traitement entre les communes, la population légale, publiée annuellement, doit se référer à la même année pour l'ensemble des communes. Ainsi la population légale en vigueur au 1er janvier 2019 correspond aux données de la population au 1er janvier 2016 authentifiées par le décret n° 2018-1328 du 28 décembre 2018. Au 1er janvier 2020, la population authentifiée aura pour date de référence le 1er janvier 2017. Ce sont ces chiffres qui permettront de faire la distinction entre les communes relevant du scrutin majoritaire uninominal de celles relevant du scrutin de liste. Il n'est donc pas envisagé de remettre en cause les règles relatives aux populations légales de référence pour les élections municipales, qui auront lieu dans quelques mois.
