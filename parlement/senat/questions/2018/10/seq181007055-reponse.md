@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181007055
+
+- Question : [SEQ181007055](seq181007055.md) — Droits de perception lors de la transformation de certaines clauses des contrats obsèques
+
+## Réponse
+
+*Économie et finances, JO du 2019-10-03, page 5020*
+
+Les contrats d'assurance obsèques sont de deux types : les contrats en capital qui permettent la prise en charge du financement des obsèques sans disposition concernant l'organisation de celles-ci et les formules de prestations d'obsèques à l'avance qui les prévoient spécifiquement. Ces contrats en prestations impliquent l'action conjointe d'un assureur et d'un opérateur funéraire. C'est le contrat de prestations funéraires qui établit un descriptif détaillé et personnalisé des prestations en conformité avec les dispositions de l'article L. 2223-34-1 du code général des collectivités territoriales. La loi impose également aux fournisseurs de prestations d'obsèques de prévoir la possibilité pour l'assuré de changer de prestations ou d'opérateur funéraire tout au long de la vie du contrat (article L. 2223-35-1) et précise que le ou les changements effectués à fournitures et prestations équivalentes ne donne lieu à la perception de frais autres que les seuls frais de gestion prévus par les conditions générales souscrites. Le non-respect de ces dispositions est sanctionné pénalement. Les services de l'État sont chargés, chacun en ce qui les concerne, de faire appliquer cette réglementation. La direction générale de la concurrence, de la consommation et de la répression des fraudes en particulier, à l'occasion des enquêtes diligentées dans le secteur de l'assurance obsèques, vérifie pour sa part le respect des règles en matière de protection des consommateurs, sur le fondement notamment des dispositions du code de la consommation relatives aux pratiques commerciales trompeuses.
