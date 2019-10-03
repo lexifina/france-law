@@ -1,0 +1,27 @@
+# Ordonnance n° 2019-1015 du 2 octobre 2019 réformant la régulation des jeux d'argent et de hasard
+
+- Type : ordonnance publiee
+- Législature : XVème législature
+- Ouvert le : 2019-10-03
+- Mis à jour le : 2019-10-03
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000039168176
+
+## Ordonnance n° 2019-1015 du 2 octobre 2019 réformant la régulation des jeux d'argent et de hasard
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039167499
+
+## Rapport au Président de la République relatif à l'ordonnance n° 2019-1015 du 2 octobre 2019 réformant la régulation des jeux d'argent et de hasard
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039167492
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 2 octobre 2019](https://www.gouvernement.fr/conseil-des-ministres/2019-10-02/regulation-des-jeux-d-argent-et-de-hasard) Le ministre de l’action et des comptes publics a présenté une ordonnance réformant la régulation des jeux d’argent et de hasard. Depuis 1836, les activités de jeux d’argent et de hasard sont prohibées en France. Toutefois, afin de lutter contre le développement du jeu illégal, des exceptions à ce principe se sont progressivement structurées autour de quatre pôles, rigoureusement encadrés : le pôle des casinos, sous tutelle du ministère de l’intérieur ; le pôle des paris dans le réseau physique de distribution hippiques, sous tutelle des ministères de l’agriculture et du budget, et sportifs, sous tutelle du ministère du budget ; le pôle des jeux de loterie, sous tutelle du ministère du budget ; le pôle des jeux en ligne – paris sportifs et hippiques, poker – sous tutelle de l’autorité nationale de régulation des jeux en ligne (ARJEL). Le Gouvernement souhaite aujourd’hui clarifier l’organisation de la régulation des jeux d’argent et de hasard, afin de la rendre plus efficace : - L’ordonnance codifie en premier lieu les quatre objectifs de la politique de l’État en matière de jeux d’argent et de hasard au sein du code de la sécurité intérieure : prévenir le jeu excessif et assurer la protection des mineurs ; assurer l’intégrité des opérations de jeu ; prévenir les activités frauduleuses ou criminelles ; veiller à l’équilibre entre les différentes filières de jeu. - Elle consacre également dans la loi les définitions précises des différents segments de jeux exploités, afin que chaque acteur puisse développer ses activités dans un périmètre propre et sécurisé. Ainsi, l’offre de jeux sous droits exclusifs de La Française des jeux (FDJ) comme celle des casinos font notamment l’objet d’une définition juridique précise, qui n’existait pas en droit. L’autorité nationale des jeux (ANJ) deviendra l’acteur principal de la régulation des jeux d’argent et de hasard en France. Cette nouvelle autorité administrative indépendante sera dotée de pouvoirs renforcés, sur un périmètre de compétences élargi : S’agissant de FDJ et du Pari mutuel urbain (PMU), l’exploitation de tout nouveau jeu sera conditionnée à l’autorisation préalable de l’ANJ. Cette autorisation pourra être retirée à tout moment si les objectifs de la politique des jeux ne sont plus respectés. Par ailleurs, FDJ et le PMU devront soumettre annuellement à l’approbation de l’ANJ leur programme des jeux, leur stratégie promotionnelle, leur plan d’actions en vue de prévenir le jeu excessif, le jeu des mineurs, la fraude ou encore le blanchiment des capitaux et le financement du terrorisme. Enfin, en dernier ressort, le ministre du budget pourra suspendre ou interdire un jeu pour un motif tiré de la sauvegarde de l’ordre public, comme il peut déjà le faire aujourd’hui ; Sur le secteur en concurrence des paris sportifs en ligne, l’ANJ reprendra à son compte la mission de délivrer les agréments aux opérateurs de jeux ou de paris en ligne, aujourd’hui exercée par l’ARJEL. Elle verra ses pouvoirs d’encadrement renforcés : l’autorité sera en effet capable de prescrire à un opérateur le retrait de toute communication commerciale incitant à jouer de façon excessive ; Sur le secteur des casinos : les compétences de l’ANJ porteront sur la lutte contre le jeu excessif. La régulation de cette activité pour ses autres aspects continuera en revanche de relever du ministère de l’intérieur, en raison de ses spécificités. Enfin, cette réforme précise les modalités de la privatisation de FDJ et organise le contrôle étroit que l’État conservera sur la société : Sur les instances de direction, en restant présent au sein de l’entreprise à travers un commissaire du Gouvernement présent au conseil d’administration aux côtés des administrateurs représentants l’État, doté du pouvoir de s’opposer aux décisions problématiques de l’entreprise ; Sur les dirigeants, en délivrant un agrément de l’État aux dirigeants, retirable à tout moment ; Sur les activités quotidiennes de l’entreprise, en prévoyant le respect par l’entreprise d’un cahier des charges et d’une convention fixant un ensemble d’obligations concernant l’exploitation des droits exclusifs ; Sur les actionnaires, en conditionnant toute montée au capital de plus de 10 % d’un nouvel actionnaire à l’autorisation préalable de l’État.
+- Dossiers législatifs
+  - [Dossier législatif du projet de loi de ratification](https://www.legifrance.gouv.fr/affichLoiPreparation.do?idDocument=JORFDOLE000039295384&type=general&typeLoi=proj&legislature=15)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
