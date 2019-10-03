@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190409827
+
+- Question : [SEQ190409827](seq190409827.md) — Fourmi manioc en Guadeloupe
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-10-03, page 5062*
+
+La fourmi manioc (Acromyrmex octospinosus) est une espèce introduite accidentellement en Guadeloupe en 1954 et ayant connu une expansion rapide. Elle figure sur la liste des espèces exotiques envahissantes. Cette espèce provoque des dégâts importants tant sur les cultures vivrières et maraîchères que sur la biodiversité. Ainsi elle représente un enjeu majeur. La lutte contre cette espèce invasive par des pesticides et produits chimiques et notamment l'utilisation de l'aldrine ou du chlordécone a été abandonnée. Ces produits nocifs sont aujourd'hui interdits à cause de leur toxicité pour l'environnement, la biodiversité et la santé humaine. Afin d'y remédier, le ministère de la transition écologique et solidaire a décidé de subventionner des actions de recherche visant à valider des méthodes de lutte sur le plan de leur efficacité et de leur innocuité sur l'environnement. Une fois que des méthodes auront été validées, une stratégie efficace et durable pourra être mise en place et s'accompagner, si nécessaire, sur une base réglementaire. De plus, le ministère s'appuie sur les travaux de chercheurs et des organismes publics comme l'office national de la forêt pour obtenir des résultats efficaces dans la lutte contre cette espèce. Ce fonctionnement réticulaire s'est traduit par des résultats encourageants. En effet, de nouveaux moyens plus écologiques sont proposés par les chercheurs d'IBIOS (équipe du laboratoire Bioemco). Ces solutions sont basées sur le comportement des insectes et sur leur particularité de vie, notamment la culture de champignons. L'objectif de long terme est de proposer des solutions de lutte efficaces mais respectueuses de la santé et de l'environnement et qui s'intègrent dans un schéma de développement durable de la Guadeloupe.
