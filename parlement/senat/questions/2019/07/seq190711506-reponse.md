@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711506
+
+- Question : [SEQ190711506](seq190711506.md) — Élections municipales de 2020
+
+## Réponse
+
+*Intérieur, JO du 2019-10-03, page 5044*
+
+La loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires a modifié les dispositions de l'article L.252 du code électoral en abaissant de 3 500 à 1 000 habitants le seuil de population d'une commune à partir duquel les conseillers municipaux sont élus au scrutin de liste avec une obligation d'alternance stricte entre les candidats de sexe différent. Si le maintien d'un scrutin majoritaire à deux tours au sein des communes de moins de 1 000 habitants peut soulever des difficultés matérielles au moment du dépouillement, son maintien se justifie pour autant. Le Conseil constitutionnel a souligné, dans sa décision n° 2013-667 du 16 mai 2013, qu'un abaissement du seuil de 1 000 habitants pour l'application du scrutin de liste soulèverait des difficultés constitutionnelles. En effet, la composition de listes sera rendue excessivement difficile dans les petites communes rurales et le principe constitutionnel de pluralisme des courants d'idées et d'opinions ne pourra plus être garanti. Le panachage et le scrutin majoritaire se justifient pleinement dans les communes où le faible nombre d'habitants conduit en outre à une plus grande personnalisation du scrutin. De plus, le décompte des voix dans les communes de moins de 1 000 habitants est individuel, les candidats ayant obtenu le plus grand nombre de suffrages exprimés au second tour, ou la majorité absolue au premier, sont élus au sein du conseil municipal. Enfin, une modification du mode de scrutin des élections à quelques mois du prochain renouvellement général des conseillers municipaux risquerait de nuire à la bonne compréhension des normes électorales par les citoyens.
