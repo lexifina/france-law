@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190611159
+
+- Question : [SEQ190611159](seq190611159.md) — Respect des sanctions de gels des avoirs prononcées par l'Organisation des Nations unies pour faits de terrorisme
+
+## Réponse
+
+*Économie et finances, JO du 2019-10-03, page 5029*
+
+En application des articles L. 562-1 et suivants du code monétaire et financier, les établissements financiers agréés en France, dont la succursale de la Qatar National Bank en France, sont tenus d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation et d'en informer immédiatement le ministre chargé de l'économie. Par la résolution 1267 (1999), le Conseil de Sécurité des Nations Unies a créé un comité chargé d'appliquer des mesures restrictives ciblées (gel des avoirs, interdiction de voyager et embargo sur les armes) aux Talibans. Le mandat du Comité 1267 a été précisé par les résolutions 1988 (2011), 1989 (2011) et 2253 (2015) pour viser les personnes et entités associées à Al-Qaida et à l'État Islamique d'Irak et du Levant (Daesh). Les désignations du Comité 1267 sont applicables sans délais par l'ensemble des États Membres de l'ONU dès leur publication par les Nations Unies. Le règlement UE 2002/881 donne force de droit aux désignations effectuées par le Comité 1267 au sein de l'Union européenne. Chaque décision du Comité 1267 est applicable dès publication du règlement d'exécution correspondant. Ainsi, la désignation de M. Khalifa Al-Subaiy par le Comité 1267 Conseil de Sécurité des Nations Unies est applicable en France depuis la publication du règlement (CE) 1109/2008 du 6.11.2008, modifié par les règlements (UE) 110/2010 du 5.02.2010, (UE) 1142/2012 du 3.12.2012, (UE) 2015/480 du 20.03.2015. Depuis l'entrée en vigueur de ces règlements d'exécution, aucun établissement financier agréé en France n'a déclaré détenir des avoirs appartenant à M. Khalifa Al-Subaiy.
