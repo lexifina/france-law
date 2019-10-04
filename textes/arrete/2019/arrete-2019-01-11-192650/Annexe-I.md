@@ -82,6 +82,18 @@ Direction des ressources et des compétences de la police nationale (DRCPN) |
 
 Sous-directeur de la prévention, de l'accompagnement et du soutien |
 
+Direction centrale du recrutement et de la formation de la police nationale (DCRFPN)
+
+|
+
+Directeur central adjoint |
+
+Direction centrale de la police aux frontières (DCPAF)
+
+|
+
+Directeur central adjoint |
+
 Au sein des établissements publics
 
 SERVICES |
