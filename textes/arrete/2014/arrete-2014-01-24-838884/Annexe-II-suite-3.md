@@ -1904,11 +1904,11 @@ FR-new-05209657
 
 |
 
-Entreprise Malet-Grands Chantiers-PE 17
+SPIE BATIGNOLLES MALET
 
 |
 
-Entreprise Malet-Grands Chantiers-PE 17
+SPIE BATIGNOLLES MALET-Grands Chantiers-PE 17
 
 |
 
@@ -2244,7 +2244,7 @@ COOPERATIVE BOURGOGNE DU SUD
 
 |
 
-Coopérative Bourgogne du Sud site de Chalon-sur-Saône
+COOPERATIVE AGRICOLE BOURGOGNE DU SUD-Site de Chalon sur Saône
 
 |
 
@@ -2272,15 +2272,11 @@ Coopérative Bourgogne du Sud site de Chalon-sur-Saône
 
 |
 
-571
+143 |
 
-|
+113 |
 
-452
-
-|
-
-7 197
+6 430
 
 |
 
@@ -2742,9 +2738,9 @@ CECAB
 
 FR-new-05518409 |
 
-SYNUTRA FRANCE INTERNATIONAL |
+NUTRIBABIG |
 
-SYNUTRA |
+NUTRIBABIG-usine de Carhaix |
 
 / |
 
@@ -5048,7 +5044,7 @@ FR-new-05904912
 
 |
 
-INOVYN France
+INOVYN France SAS
 
 |
 
@@ -5076,19 +5072,19 @@ SLV-Ta-EDS1
 
 |
 
-142 346
+140 980
 
 |
 
-139 463
+138 125
 
 |
 
-136 569
+135 258
 
 |
 
-1 172 352
+1 168 337
 
 |
 
@@ -5096,9 +5092,7 @@ FR-new-05904913
 
 |
 
-SOLVAY Opérations France
-
-|
+SOLVAY OPERATIONS France, Etablissement de Tavaux |
 
 SLV-Ta-SFF
 
@@ -5124,19 +5118,19 @@ SLV-Ta-SFF
 
 |
 
-10 806
+12 172
 
 |
 
-10 588
+11 926
 
 |
 
-10 370
+11 681
 
 |
 
-88 974
+92 989
 
 |
 
@@ -5240,7 +5234,7 @@ FR-new-05904916
 
 |
 
-INOVYN France
+INOVYN France SAS
 
 |
 
@@ -5268,19 +5262,17 @@ SLV-Ta-POC
 
 |
 
-35 126
+30 811
 
 |
 
-34 419
+30 082
 
 |
 
-33 710
+29 358 |
 
-|
-
-289 227
+276 223
 
 |
 
@@ -5416,15 +5408,15 @@ Coopérative agricole Terre d'alliances
 
 |
 
-484
+121
 
 |
 
-383
+96
 
 |
 
-6 100
+5 450
 
 |
 
@@ -5464,15 +5456,15 @@ Coopérative agricole Terre d'alliances
 
 |
 
-742
+186
 
 |
 
-586
+147
 
 |
 
-9 344
+8 349
 
 |
 
@@ -5560,27 +5552,25 @@ Coopérative agricole Terre d'alliances
 
 |
 
-1 160
+290
 
 |
 
-918
+230
 
 |
 
-13 648
-
-|
+12 090 |
 
 FR-new-06102436
 
 |
 
-IMERYS ALUMINATES SA
+IMERYS ALUMINATE
 
 |
 
-IMERYS ALUMINATES - technologies usine du Teil
+IMERYS ALUMINATE-Usine du Teil
 
 |
 
@@ -6184,15 +6174,15 @@ Coopérative agricole Terre d'alliances
 
 |
 
-360
+180
 
 |
 
-285
+143
 
 |
 
-7 387
+7 065
 
 |
 
@@ -6584,11 +6574,11 @@ FR-new-06105222
 
 |
 
-ELKEM BLUESTAR SILICONES France SAS
+Dalkia
 
 |
 
-Elkem Silicones Roussillon
+Chaufferie Elkem Roussillon
 
 |
 
@@ -6824,11 +6814,11 @@ FR-new-06108774
 
 |
 
-RHODIA ACETOW FRANCE
+CERDIA France 85SAS
 
 |
 
-RHODIA ACETOW ROUSSILLON
+CERDIA France SAS ROUSSILLON
 
 |
 
@@ -8152,9 +8142,9 @@ COLAS PROJECT TSM 25 n° 4 |
 
 152 |
 
-120 |
+0 |
 
-2 022 |
+1 902 |
 
 FR-new-06308843 |
 
@@ -9032,15 +9022,15 @@ Atelier ammoniac Grandpuits
 
 |
 
-281 374
+562 747
 
 |
 
-275 571
+551 142
 
 |
 
-3 884 683
+4 441 627
 
 |
 
@@ -10112,15 +10102,15 @@ CAC OTTMARSHEIM
 
 |
 
-2 253
+1127
 
 |
 
-1 782
+891
 
 |
 
-28 404
+26 387
 
 |
 
@@ -10272,11 +10262,11 @@ FR-new-06700533
 
 |
 
-ARMBRUSTER FRERES SA
+ARMBRUSTER FRERES
 
 |
 
-ARMBRUSTER Ottmarsheim
+ARMBRUSTER OTTMARSHEIM
 
 |
 
@@ -10284,37 +10274,35 @@ ARMBRUSTER Ottmarsheim
 
 |
 
-2 342
+2342
 
 |
 
-2 074
+2074
 
 |
 
-1 815
+1815
 
 |
 
-1 564
+1564
 
 |
 
-1 320
+1320
 
 |
 
-1 085
+543
 
 |
 
-858
+429
 
 |
 
-13 675
-
-|
+12 704 |
 
 FR-new-06700555
 
@@ -10448,17 +10436,15 @@ GUSTAVE MULLER - site d'OTTMARSHEIM
 
 |
 
-1 183
+592
 
 |
 
-936
+468
 
 |
 
-14 924
-
-|
+13 865 |
 
 FR-new-06700653
 
@@ -10544,15 +10530,15 @@ GUSTAVE MULLER - site de VOLGELSHEIM
 
 |
 
-540
+270
 
 |
 
-427
+214
 
 |
 
-6 807
+6 324
 
 |
 
@@ -10736,15 +10722,13 @@ ARMBRUSTER Strasbourg
 
 |
 
-813
+407
 
 |
 
-643
+322 |
 
-|
-
-10 247
+9 520
 
 |
 
@@ -11026,23 +11010,23 @@ Airbus Defence & Space (Astrium) |
 
 Airbus Defence & Space (Astrium) |
 
-/ |
+536 |
 
-/ |
+517 |
 
-/ |
+500 |
 
-/ |
+482 |
 
-/ |
+466 |
 
-/ |
+449 |
 
-/ |
+432 |
 
-/ |
+416 |
 
-/ |
+3 798 |
 
 FR-new-06803365
 
@@ -14355,6 +14339,222 @@ POLYREY SAS |
 4 581 |
 
 20 530 |
+
+FR-new-03103394 |
+
+EUROVIA GRANDS TRAVAUX GPI |
+
+TRX 100 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06400913 |
+
+IMERYS SALIN |
+
+IMERYS-Salin-de-Giraud |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-05800439 |
+
+CHEVRON ORONITE S. A. S |
+
+CHEVRON ORONITE Gonfreville l'Orcher |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-52900449 |
+
+Société Industrielle Laitière du Léon |
+
+SILL SAS (Plouvien) |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06400895 |
+
+OMYA SAS |
+
+OMYA-Site d'Orgon |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-10012929 |
+
+CHARTRES METROPOLE ENERGIES SPL |
+
+CHARTRES METROPOLE ENERGIES |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06802412 |
+
+SETMI |
+
+SETMI |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06802942 |
+
+Centre Hospitalier Universitaire de Toulouse |
+
+Hôpital PURPAN |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03801634 |
+
+ENTREPRISE MALET |
+
+Entreprise Malet-Grands Chantiers-PE 15 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
 
 NOTA :
 

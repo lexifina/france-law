@@ -2624,11 +2624,11 @@ FR000000000000800
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Vergèze
+OI France SAS Vergèze
 
 |
 
@@ -2672,11 +2672,11 @@ FR000000000000801
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Béziers
+OI France SAS Béziers
 
 |
 
@@ -3344,11 +3344,11 @@ FR000000000000824
 
 |
 
-CITYA ETIGE LOGEMENT
+Weiblen Immeubles SARL.
 
 |
 
-CHAUFFERIE PORTE DE BALE Etige Logement
+Weiblen Immeubles SARL.
 
 |
 
@@ -3380,11 +3380,11 @@ CHAUFFERIE PORTE DE BALE Etige Logement
 
 |
 
-1 335
+0
 
 |
 
-21 285
+19 950
 
 |
 
@@ -8864,11 +8864,11 @@ FR000000000000990
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Wingles
+OI France SAS Wingles
 
 |
 
@@ -9488,7 +9488,7 @@ FR000000000001005
 
 |
 
-ALTIFORT FRANCE
+ASCOVAL
 
 |
 
@@ -11824,15 +11824,15 @@ MARS PF France
 
 |
 
-4 276
+0
 
 |
 
-3 382
+0
 
 |
 
-53 901
+46 243
 
 |
 
@@ -12564,7 +12564,7 @@ BOUYER LEROUX
 
 |
 
-BOUYER LEROUX St Marcellin en Forez
+BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
@@ -12572,7 +12572,7 @@ BOUYER LEROUX St Marcellin en Forez
 
 |
 
-16 116
+16 115
 
 |
 
@@ -12592,15 +12592,15 @@ BOUYER LEROUX St Marcellin en Forez
 
 |
 
-9 152
+3 662
 
 |
 
-8 964
+3 587
 
 |
 
-89 103
+78 235
 
 |
 

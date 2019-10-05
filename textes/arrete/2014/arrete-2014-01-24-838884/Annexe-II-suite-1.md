@@ -810,11 +810,11 @@ VERALLIA France-Usine de Saint-Romain-le-Puy |
 
 FR000000000000407 |
 
-OI Manufacturing France
+OI-France
 
 |
 
-OI Manufacturing Veauche
+OI France Site de Veauche
 
 |
 
@@ -1146,11 +1146,11 @@ EDILIANS Site de Ste Foy l'Argentière
 
 FR000000000000422 |
 
-COFELY GDF SUEZ
+DALKIA
 
 |
 
-COFELY Sud-Est - VAULX-EN-VELIN
+Chaufferie urbaine de Vaux en Velin
 
 |
 
@@ -1868,11 +1868,11 @@ COFELY Cogénération Solvay
 
 FR000000000000455 |
 
-SOLVAY OPERATIONS FRANCE
+SOLVAY OPERATIONS France
 
 |
 
-SOLVAY OPERATIONS FRANCE
+SOLVAY ENERGY SERVICES-Cogénération Dombasle
 
 |
 
@@ -2878,11 +2878,11 @@ PAPETERIES DE CLAIREFONTAINE
 
 FR000000000000502 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Gironcourt
+OI France SAS Gironcourt
 
 |
 
@@ -6114,11 +6114,11 @@ EURENCO |
 
 10 989 |
 
-10 409 |
+- |
 
-9 845 |
+- |
 
-95 362 |
+75 108 |
 
 FR000000000000648 |
 

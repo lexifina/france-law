@@ -124,18 +124,6 @@ EDF - CETAC Site Gennevilliers
 
 |
 
-FR000000000000868
-
-|
-
-SERC
-
-|
-
-SERC - CENTRALE THERMIQUE - Travers de la Bouyssière
-
-|
-
 FR000000000000892
 
 |
@@ -701,5 +689,13 @@ FR-new-10013537 |
 DATA CENTER ORANGE |
 
 DATA CENTER ORANGE
+
+|
+
+FR-new-05518083 |
+
+Compagnie électrique de Bretagne |
+
+Compagnie électrique de Bretagne CCG
 
 |

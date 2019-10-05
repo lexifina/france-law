@@ -2216,11 +2216,11 @@ FR000000000000069
 
 |
 
-CONDAT
+CONDAT (HOLDING)
 
 |
 
-CONDAT SAS
+CONDAT (HOLDING)
 
 |
 
@@ -2280,7 +2280,7 @@ CHAUX DE SAINT-ASTIER
 
 |
 
-35 985
+35 986
 
 |
 
@@ -2296,15 +2296,15 @@ CHAUX DE SAINT-ASTIER
 
 |
 
-33 294
+19 830
 
 |
 
-32 608
+19 420
 
 |
 
-279 771
+253 120
 
 |
 
@@ -2744,11 +2744,11 @@ FR000000000000084
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Vayres
+OI France SAS Vayres
 
 |
 
@@ -7496,11 +7496,11 @@ FR000000000000213
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Puy-Guillaume
+OI France SAS Puy-Guillaume
 
 |
 
@@ -8072,11 +8072,11 @@ FR000000000000226
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Reims
+OI France SAS Reims
 
 |
 
@@ -9276,7 +9276,7 @@ Yara France
 
 |
 
-Yara France - usine du Havre
+Yara France - Usine du Havre
 
 |
 
@@ -9304,15 +9304,15 @@ Yara France - usine du Havre
 
 |
 
-242 530
+485 059
 
 |
 
-237 529
+475 057
 
 |
 
-3 348 401
+3 828 458
 
 |
 
@@ -9416,11 +9416,13 @@ FR000000000000260
 
 |
 
-COFELY GDF SUEZ
+METROPOLE ROUEN NORMANDIE
+
+Régie publique de l'énergie calorifique
 
 |
 
-ZAC NOBEL BOZEL
+Chaufferie urbaine de Le Petit Quevilly
 
 |
 
@@ -9428,35 +9430,35 @@ ZAC NOBEL BOZEL
 
 |
 
-7 356
+1 870
 
 |
 
-6 517
+1 657
 
 |
 
-5 704
+1 450
 
 |
 
-4 916
+1 249
 
 |
 
-4 155
+1 056
 
 |
 
-3 418
+869
 
 |
 
-2 707
+688
 
 |
 
-42 993
+17 059
 
 |
 
@@ -10280,11 +10282,11 @@ FR000000000000284
 
 |
 
-DALKIA
+SOCIETE VALMY DEFENSE SVD82
 
 |
 
-Chaufferie Urbaine de Rouen Bihorel
+Chaufferie Urbaine de Rouen-Bihorel
 
 |
 
@@ -11080,15 +11082,15 @@ Taranis du Rouvray
 
 |
 
-5 911
+3 672
 
 |
 
-4 952
+3 179
 
 |
 
-68 351
+64 339
 
 |
 
@@ -11432,11 +11434,11 @@ FR000000000000311
 
 |
 
-VILLE DE BESANÇON - SEVE
+CAGB-Communauté d'Agglomération du Grand Besançon
 
 |
 
-SECIP - BESANÇON
+CAGB-Communauté d'Agglomération du Grand Besançon
 
 |
 
@@ -12152,7 +12154,7 @@ FR000000000000329
 
 |
 
-SOLVAY Opérations France
+SOLVAY Tavaux
 
 |
 
@@ -12180,19 +12182,19 @@ SLV-Ta-EDS2
 
 |
 
-97 277
+101 592
 
 |
 
-95 210
+99 547
 
 |
 
-93 142
+97 494
 
 |
 
-802 397
+815 401
 
 |
 
@@ -13256,11 +13258,11 @@ FR000000000000359
 
 |
 
-OI Manufacturing France
+OI France SAS
 
 |
 
-OI Manufacturing Labégude
+OI France SAS Labégude
 
 |
 
