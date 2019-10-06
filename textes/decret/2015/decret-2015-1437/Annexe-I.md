@@ -2,7 +2,7 @@
 
 LISTE DES PIÈCES JUSTIFICATIVES POUVANT ÊTRE EXIGÉES DE CHACUN DES CANDIDATS À LA LOCATION
 
-A. - Une pièce justificative d'identité en cours de validité, comportant la photographie et la signature du titulaire parmi les documents suivants :
+A. - Une pièce justificative d'identité en cours de validité, comportant la photographie du titulaire parmi les documents suivants :
 
 1. Carte nationale d'identité française ou étrangère.
 
