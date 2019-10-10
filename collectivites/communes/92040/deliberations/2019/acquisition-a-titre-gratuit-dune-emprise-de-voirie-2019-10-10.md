@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Acquisition à titre gratuit d’une emprise de voirie constituant partie du chemin de Bretagne
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : ESPACES PUBLICS
+- Objet : Acquisition à titre gratuit d’une emprise de voirie constituant partie du chemin de Bretagne
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MDAsInB1ciI6ImJsb2JfaWQifX0=--1d076492c45371af633bcc214aed2ef40b3b65d0/101019_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
