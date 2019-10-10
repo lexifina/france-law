@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification des taux de remboursement des frais de déplacement temporaire pour les agents municipaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : RESSOURCES HUMAINES
+- Objet : Modification des taux de remboursement des frais de déplacement temporaire pour les agents municipaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5OTksInB1ciI6ImJsb2JfaWQifX0=--0760103b0a7dcac4ab7b613eed6025d4302a1a99/101019_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
