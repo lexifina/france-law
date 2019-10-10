@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de la convention de partenariat entre Bibliothèques sans Frontières, la Ville d’Issy-les-Moulineaux et le CLAVIM en vue d’une collecte de livres au sein de l’Espace Andrée Chédid
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : PETITE ENFANCE,JEUNESSE ET FAMILLE
+- Objet : Renouvellement de la convention de partenariat entre Bibliothèques sans Frontières, la Ville d’Issy-les-Moulineaux et le CLAVIM en vue d’une collecte de livres au sein de l’Espace Andrée Chédid
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5OTcsInB1ciI6ImJsb2JfaWQifX0=--bfa9f867f8cb81506963258a954854fc14c6946c/101019_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
