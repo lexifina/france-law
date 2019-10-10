@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Évolution de la garantie d’emprunt communale au profit d’HLM AXIMO à la suite d’un réaménagement de sa dette auprès de la Caisse des Dépôts et Consignations
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : FINANCES
+- Objet : Évolution de la garantie d’emprunt communale au profit d’HLM AXIMO à la suite d’un réaménagement de sa dette auprès de la Caisse des Dépôts et Consignations
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4OTIsInB1ciI6ImJsb2JfaWQifX0=--4b7fc273ad864356f5c9475251fcc53fa504292c/101019_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
