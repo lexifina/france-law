@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mise à disposition d’un agent du Centre Interdépartemental de Gestion de la Grande Couronne de la Région d'Île-de-France pour une mission d’assistance à l’archivage
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation d’une convention de mise à disposition d’un agent du Centre Interdépartemental de Gestion de la Grande Couronne de la Région d'Île-de-France pour une mission d’assistance à l’archivage
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMDAsInB1ciI6ImJsb2JfaWQifX0=--47895b2cba40dfcaa4e9b854c436984a0303caa7/101019_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
