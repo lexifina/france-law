@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention cadre de partenariat « Smart Plateforme » entre la Région Ile-de-France et la Ville d’Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-10-10
+- Matière : VILLE NUMERIQUE
+- Objet : Approbation d’une convention cadre de partenariat « Smart Plateforme » entre la Région Ile-de-France et la Ville d’Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyOTQsInB1ciI6ImJsb2JfaWQifX0=--646f821958f888c84c4dc35ee76eba2ba5c46da8/101019_02.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
