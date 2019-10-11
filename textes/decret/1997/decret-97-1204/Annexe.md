@@ -332,13 +332,19 @@ Article R. 221-15
 
 |
 
-Etablissement de la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre.
+Etablissement de la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre et détermination de la quantité de quotas pour chaque exploitant.
 
 |
 
-Article R. 229-9
+Article R. 229-8
 
 |
+
+|
+
+Détermination de la quantité de quotas gratuits affectés à un nouvel entrant |
+
+Article R. 229-9 |
 
 |
 
@@ -347,36 +353,6 @@ Affectation de quotas en raison d'une forte augmentation de production d'une ins
 |
 
 Article R. 229-12
-
-|
-
-|
-
-Autorisation de conserver le bénéfice des quotas d'émission de gaz à effet de serre, en cas d'arrêt de l'exploitation d'une installation.
-
-|
-
-Article R. 229-16
-
-|
-
-|
-
-Modification de la répartition annuelle des quotas en cas de variation exceptionnelle de l'activité d'une installation.
-
-|
-
-Article R. 229-18
-
-|
-
-|
-
-Autorisation de mise en commun de la gestion des quotas délivrés au titre de leurs installations à des exploitants exerçant la même activité.
-
-|
-
-Article R. 229-25
 
 |
 
@@ -419,6 +395,24 @@ Suspension et cessation de la délivrance des unités de réduction des émissio
 Article R. 229-44
 
 |
+
+|
+
+Demande de restitution de quotas indûment perçus |
+
+Articles L. 229-8 et R. 229-8 |
+
+|
+
+Suspension de l'allocation de quotas |
+
+Articles L. 229-9 et R. 229-8 |
+
+|
+
+Annulation de quotas |
+
+Article R. 229-23 |
 
 Livre III |
 
