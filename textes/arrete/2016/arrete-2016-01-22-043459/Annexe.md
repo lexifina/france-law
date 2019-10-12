@@ -1,3 +1,5 @@
 # Article Annexe
 
-L'annexe au présent arrêté sera publiée au Bulletin officiel de la jeunesse et des sports.
+Vous pouvez consulter l'intégralité du texte avec ses images dans le JO du 11 octobre n° 237 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039202491
