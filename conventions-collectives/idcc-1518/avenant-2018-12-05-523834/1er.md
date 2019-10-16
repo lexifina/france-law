@@ -1,0 +1,133 @@
+# Article 1er
+
+L' article 1.5 de l'annexe I est modifié comme suit :
+
+« Article 1.5
+
+Grille de classification
+
+a) Définitions des critères classants
+
+L'autonomie :
+
+C'est la capacité de décider et d'agir qui est demandée au salarié dans l'exercice de son activité au sein de la structure. Elle s'apprécie à partir de 3 éléments : la nature des instructions, la nature des contrôles et le degré d'initiative dans la réalisation.
+
+La responsabilité :
+
+C'est la charge confiée par délégation au salarié sur un ou plusieurs domaines d'action (programmation des opérations, gestion du personnel, gestion de budget …) pour laquelle il doit rendre compte et répondre de ses actes professionnels.
+
+La technicité :
+
+Les compétences sont ici définies comme l'ensemble des savoirs et savoir-faire requis pour tenir le poste de travail. Elles incluent les connaissances générales, les connaissances techniques, les savoir-faire procéduraux et relationnels.
+
+Le relationnel :
+
+Il recouvre la capacité à interagir avec ses interlocuteurs. La nature et la difficulté des échanges déterminent le niveau en fonction des compétences mobilisées à cette fin.
+
+b) Grille générale de classification
+
+Groupe |
+
+Coefficient |
+
+Autonomie |
+
+Responsabilité |
+
+Technicité |
+
+Relationnel |
+
+A |
+
+245 |
+
+Les consignes et processus sont mis en œuvre. Le contrôle est permanent. |
+
+Responsabilité des biens (matériel, outils, salle éventuellement) confiés au salarié et/ ou des personnes extérieures dont le salarié a la charge (public accueilli). Peut avoir la gestion d'un fond de caisse. |
+
+Compétences élémentaires impliquant la mise en œuvre de procédures simples |
+
+Echanges professionnels courants |
+
+B |
+
+255 |
+
+Compétences professionnelles pratiques dans le cadre d'une activité généralement simple. |
+
+Les échanges sont variés et s'adressent à des interlocuteurs différents |
+
+C |
+
+280 (si le poste comporte habituellement la coordination du travail de quelques personnes, le salarié bénéficie de 10 points supplémentaires) |
+
+Le salarié peut interpréter et adapter les processus. Le contrôle est périodique. |
+
+Responsabilité d'un budget prescrit.
+
+Peut assurer la coordination/ le conseil d'autres salariés |
+
+Compétences techniques et relationnelles nécessaires à la maîtrise d'un domaine d'activité |
+
+D |
+
+300 |
+
+Responsabilité d'un budget prescrit.
+
+Participe à l'élaboration des procédures de l'équipe/ du service.
+
+Implique des fonctions de coordination et de « contrôle » d'autres salariés. |
+
+Les échanges supposent une capacité à argumenter et à désamorcer les conflits |
+
+E |
+
+350 |
+
+Le salarié peut créer lui-même ses processus. Le salarié rend compte au terme de sa mission et est évalué sur les écarts entre les attendus et le réalisé. Le contrôle s'effectue a posteriori. |
+
+Participe à l'élaboration des directives et/ ou d'un budget limité à son périmètre d'action et est responsable de son exécution. Il peut assurer la responsabilité hiérarchique d'autres salariés dans le cadre d'une délégation de responsabilité. |
+
+Compétences élargies impliquant une très bonne maîtrise d'un ou plusieurs domaines d'intervention |
+
+Capacité de représentation en externe (partenaires, prestataires, institutions), diplomatie. |
+
+F |
+
+375 |
+
+Capacité à engager l'organisation vis-à-vis de l'externe, négociation. |
+
+G |
+
+400 |
+
+L'autonomie est inhérente au statut de cadre. Elle est définie en fonction du poste occupé dans la structure. Le salarié rend compte au terme de sa mission et est évalué sur les écarts entre les attendus et le réalisé. Le contrôle s'effectue obligatoirement a posteriori. |
+
+Définit et assume la politique économique de la structure et/ ou assume la responsabilité hiérarchique et disciplinaire et/ ou assume la responsabilité juridique de l'activité mise en œuvre.
+
+Assure la représentation de la structure dans tout ou partie de ces compétences. |
+
+Expertise dans un ou plusieurs domaines de compétences.
+
+Au groupe G, peut assurer des missions de développement sur un secteur d'activité ou ponctuellement sur plusieurs secteurs d'activités. |
+
+H |
+
+450 |
+
+Expertise dans un ou plusieurs domaines de compétences.
+
+Au groupe H, il détermine et pilote la stratégie de développement. |
+
+I |
+
+Salarié répondant à la définition de cadre dirigeant |
+
+|
+
+Les salariés dont les critères autonomie, responsabilité, technicité répondent aux groupes E et F sont différenciés en fonction du critère « Relationnel » de la grille générale de classification. Lorsque la « capacité à engager l'organisation vis-à-vis de l'externe, négociation » est reconnue au salarié ce dernier est positionné au groupe F.
+
+Les salariés dont les critères autonomie, responsabilité, relationnel répondent aux groupes G et H sont différenciés en fonction du critère « Technicité » de la grille générale de classification. Lorsque la « capacité à déterminer et piloter la stratégie de développement » est reconnue au salarié, ce dernier est positionné au groupe H. »
