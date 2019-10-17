@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711351
+
+- Question : [SEQ190711351](seq190711351.md) — Lycées agricoles
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2019-10-17, page 5290*
+
+Sous l'autorité du ministre en charge de l'agriculture, les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt (DRAAF) exercent l'autorité académique sur l'enseignement technique et supérieur agricole. En coordination avec le directeur académique des services de l'éducation nationale (DASEN) et le chef des services académiques d'information et d'orientation (CSAIO), ils définissent la politique d'orientation et d'affectation de l'académie dans le respect du cadre réglementaire national. Les règles concernant la continuité des parcours des élèves issus des classes de troisièmes agricoles relèvent de cette concertation. L'affectation des élèves tient compte des vœux qu'ils expriment et des capacités d'accueil des établissements, elle relève de la compétence du DASEN. Lors de l'affectation en seconde professionnelle agricole au lycée de Courcelles Chaussy, le bonus accordé aux élèves de troisième prépa-pro n'a pas fonctionné pour les élèves de troisième prépa-pro de ce lycée. La direction départementale des services de l'éducation nationale (DSDEN) de Moselle en charge de l'affectation n'ayant pas repéré ce problème avant la commission d'affectation, les élèves ont été positionnés en liste supplémentaire. La situation a été corrigée depuis : les élèves ont pu obtenir une affectation en lien avec leur barème rectifié et une évolution des capacités d'accueil. Dans les autres lycées agricoles de l'académie, le barème réalisé au niveau académique prévoyant une bonification pour les élèves de troisième prépa-professionnelle, y compris de l'enseignement agricole, a été appliqué correctement dès la commission d'affectation.
