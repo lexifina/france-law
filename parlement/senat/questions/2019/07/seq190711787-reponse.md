@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711787
+
+- Question : [SEQ190711787](seq190711787.md) — Taxe d'enlèvement des ordures ménagères dans les territoires ruraux
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-10-17, page 5309*
+
+La feuille de route relative à l'économie circulaire du Gouvernement publiée en avril 2018 prévoit la facilitation du déploiement de la tarification incitative de la collecte des déchets. En effet, dans l'ensemble des pays où une telle tarification a été adoptée, elle a contribué à la réduction de la production de déchets, qui est avant tout la priorité en la matière. Plusieurs dispositifs existent, permettant de traduire concrètement cette tarification incitative. Le premier d'entre eux est la redevance, qui est directement calculée sur la quantité de déchets collectée. Dans ce cadre, la surface habitée n'est pas prise en compte dans la somme demandée pour rémunérer le service de collecte. Il permet de répondre à la question de l'éventuelle inadéquation entre la taille des habitations et le niveau de vie réel des habitants. Créée il y a quelques années, la tarification pour enlèvement des ordures ménagères incitative a permis, pour les collectivités qui le souhaitaient, d'introduire une plus grande part d'incitation dans la tarification de la collecte des déchets. Afin de maintenir le principe de la tarification, il a néanmoins été juridiquement nécessaire de maintenir une part fixe, qui a été adossée à la surface du foncier bâti, sinon le dispositif rebasculait dans une logique de redevance qui existait déjà. Pour autant, il est tout à fait possible, à l'intérieur du territoire de la collectivité ou de l'établissement public compétent en matière de collecte des déchets, de définir des zonages avec une tarification de la part fixe, au mètre carré, différente selon les zones. Cela permet de différencier les niveaux de revenus des habitants par un critère autre que la surface habitée.
