@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108557
+
+- Question : [SEQ190108557](seq190108557.md) — Participation des agents publics dans les associations
+
+## Réponse
+
+*Éducation nationale et jeunesse (M. le SE auprès du ministre), JO du 2019-10-17, page 5291*
+
+Convaincu de la contribution majeure des associations au projet d'une société plus inclusive et solidaire, le Gouvernement souhaite sceller un pacte de confiance fort entre les associations, les pouvoirs publics et les entreprises, mais aussi initier une réflexion de fond sur la place de l'engagement associatif dans notre société. Dans le prolongement du rapport qui a été remis le 8 juin 2019 au Premier ministre, le secrétaire d'État auprès du ministre de l'éducation nationale et de la jeunesse, a présenté au mouvement associatif une feuille de route pour le développement de la vie associative, déclinée en un ensemble de mesures visant à répondre concrètement aux défis et attentes exprimées par les acteurs du monde associatif. Ces réponses s'articulent selon trois grands axes dont celui de faire de l'engagement l'affaire de tous. La mesure 10 vise à envisager le mécénat de compétences pour les agents publics, qui existe déjà pour les salariés du secteur privé. L'objet est de renforcer notamment les liens naturels entre les pouvoirs publics et les acteurs des territoires. Des travaux commencent avec le ministère de l'action et des comptes publics afin d'envisager selon quelles modalités et sous quelles conditions serait possible une évolution de la mise à disposition d'agents publics déjà possible sous des conditions législatives et réglementaires encadrées. En tout état de cause, le mécénat de compétences reconnu comme du mécénat en nature par le bulletin officiel des impôts n'est d'ores et déjà possible qu'au profit d'associations d'intérêt général conformément à l'article 238 bis du code général des impôts.
