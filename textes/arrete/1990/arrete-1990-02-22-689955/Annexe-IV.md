@@ -22,35 +22,35 @@ BZP ou benzylpipérazine
 
 Les cannabinoïdes suivants, ainsi que leurs isomères, stéréo-isomères, esters, éthers et sels :
 
-5F-AB-FUPPYCA (ou AZ-037) ou N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-5-(4-fluorophenyl)-1H-pyrazole-3-carboxamide ;
+-5F-AB-FUPPYCA (ou AZ-037) ou N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-5-(4-fluorophenyl)-1H-pyrazole-3-carboxamide ;
 
-A-836,339 ou N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-1-carboxamide ;
+-A-836,339 ou N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-1-carboxamide ;
 
-AB-CHFUPYCA (ou AB-CHMFUPPYCA) ou N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-1-carboxamide ;
+-AB-CHFUPYCA (ou AB-CHMFUPPYCA) ou N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-1-carboxamide ;
 
-ADSB-FUB-187 ou 7-chloro-N-[(2S)-1-[2-(cyclopropylsulfonylamino) ethylamino]-3,3-dimethyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl) methyl] indazole-3-carboxamide ;
+-ADSB-FUB-187 ou 7-chloro-N-[(2S)-1-[2-(cyclopropylsulfonylamino) ethylamino]-3,3-dimethyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl) methyl] indazole-3-carboxamide ;
 
-CB-13 (ou CRA-13 ou SAB-378) ou naphthalen-1-yl-(4-pentyloxynaphthalen-1-yl) methanone ;
+-CB-13 (ou CRA-13 ou SAB-378) ou naphthalen-1-yl-(4-pentyloxynaphthalen-1-yl) methanone ;
 
-EG-018 naphthalen-1-yl (9-pentyl-9H-carbazol-3-yl) methanone ;
+-EG-018 naphthalen-1-yl (9-pentyl-9H-carbazol-3-yl) methanone ;
 
-HU-210 ou (6aR, 10aR)-9-(hydroxyméthyl)-6,6-diméthyl-3-(2-méthyloctan-2-yl)-6a, 7,10, 10a-tétrahydrobenzo [c] chromen-1-ol ;
+-HU-210 ou (6aR, 10aR)-9-(hydroxyméthyl)-6,6-diméthyl-3-(2-méthyloctan-2-yl)-6a, 7,10, 10a-tétrahydrobenzo [c] chromen-1-ol ;
 
-HU-243 ou (6aR, 9R, 10aR)-9-(hydroxyméthyl)-6,6-diméthyl-3-(2-méthyloctan-2-yl)-6a, 7,8,9,10, 10a-hexahydrobenzo [c] chromen-1-ol ;
+-HU-243 ou (6aR, 9R, 10aR)-9-(hydroxyméthyl)-6,6-diméthyl-3-(2-méthyloctan-2-yl)-6a, 7,8,9,10, 10a-hexahydrobenzo [c] chromen-1-ol ;
 
-FUBIMINA (ou BIM-2201 ou BZ-2201 ou FTHJ) ou 1-(5-fluoropentyl)-1H-benzo [d] imidazol-2-yl) (naphthalen-1-yl) methanone ;
+-FUBIMINA (ou BIM-2201 ou BZ-2201 ou FTHJ) ou 1-(5-fluoropentyl)-1H-benzo [d] imidazol-2-yl) (naphthalen-1-yl) methanone ;
 
-JTE-7-31 ou 2-[2-(4-hydroxyphenyl) ethyl]-5-methoxy-4-(pentylamino)-2,3-dihydro-1H-isoindol-1-one ;
+-JTE-7-31 ou 2-[2-(4-hydroxyphenyl) ethyl]-5-methoxy-4-(pentylamino)-2,3-dihydro-1H-isoindol-1-one ;
 
-WIN 55,212-2 ou (R)-(+)-[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl) pyrrolo [1,2,3-de]-1,4-benzoxazin-6-yl]-1-napthalenylmethanone.
+-WIN 55,212-2 ou (R)-(+)-[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl) pyrrolo [1,2,3-de]-1,4-benzoxazin-6-yl]-1-napthalenylmethanone.
 
 Ainsi que toute molécule appartenant à la famille des :
 
-Indol-3-yl methanone
+-Indol-3-yl methanone
 
-avec un substitut sur l'azote du noyau indole de type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau indole de type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-avec un groupement (par ailleurs substitué ou non), sur le carbone du pont méthanone de type naphtyl, benzyl, phényl, cyclopropyl, adamantyl.
+-avec un groupement (par ailleurs substitué ou non), sur le carbone du pont méthanone de type naphtyl, benzyl, phényl, cyclopropyl, adamantyl.
 
 Notamment :
 
@@ -92,7 +92,7 @@ JWH-167 ou 1-​ (1-​ pentyl-​ 1H-​ indol-​ 3-​ yl)-​ 2-​ phényl-
 
 JWH-201 ou 2-(4-méthoxyphényl)-1-(1-pentylindol-3-yl) éthanone ;
 
-JWH-250 ou 1-pentyl-3-(2-méthoxyphénylacétyl) indole ou 1-​ (1-​ pentyl-​ 1H-​ indol-​ 3-​ yl)-2-​ (2-​ méthoxyphényl)-​ éthanone ;
+JWH-250 ou 1-pentyl-3-(2-méthoxyphénylacétyl) indole ou 1-​ (1-​ pentyl-​ 1H-​ indol-​ 3-​ yl)-​ 2-​ (2-​ méthoxyphényl)-​ éthanone ;
 
 JWH-251 ou 1-pentyl-3-(2-méthylphenylacétyl) indole ou 2-​ (2-​ méthylphényl)-​ 1-​ (1-​ pentyl-​ 1H-​ indol-​ 3-​ yl)-​ éthanone ;
 
@@ -102,9 +102,7 @@ AM-694 ou 1-(5-fluoropentyl)-3-(2-iodobenzoyl) indole ou [1-​ (5-​ fluoropen
 
 AM-679 ou (2-iodophenyl) (1-pentyl-​ 1H-indol-3-​ yl)-​ méthanone ;
 
-AM-2233 ou (2-​ iodophenyl) [1-(1-méthyl-​ 2-piperidinyl) méthyl]-1H-indol-​ 3-yl]-méthanone ;
-
-UR-144 ou (1-pentylindol-3-yl)-(2,2,3,3-tetramethylcyclopropyl) methanone ;
+AM-2233 ou (2-​ iodophenyl) [1-​ (1-méthyl-​ 2-piperidinyl) méthyl]-1H-indol-​ 3-yl]-méthanone ;
 
 5Cl-UR-144 ou [1-(5-chloropentyl)-1H-indol-3-yl] (2,2,3,3-tetramethylcyclopropyl) methanone ;
 
@@ -118,11 +116,11 @@ AM-1220 ou (1-((1-methyl-2-piperidinyl) methyl)-1H-indol-3-yl)-1-naphthalenylmet
 
 AM-1248 ou (1-[(N-methylpiperidin-2-yl) methyl]-3-(adamant-1-oyl) indole).
 
-Indazol-3-yl methanone
+-Indazol-3-yl methanone
 
-avec un substitut sur l'azote en position 1 du noyau indazole de type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote en position 1 du noyau indazole de type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-avec un groupement (par ailleurs substitué ou non), sur le carbone du pont méthanone de type naphtyl, benzyl, phényl, cyclopropyl, adamantyl.
+-avec un groupement (par ailleurs substitué ou non), sur le carbone du pont méthanone de type naphtyl, benzyl, phényl, cyclopropyl, adamantyl.
 
 Notamment :
 
@@ -130,37 +128,37 @@ THJ-018 ou 1-naphthalenyl (1-pentyl-1H-indazol-3-yl)-methanone ;
 
 THJ-2201 ou [1-(5-Fluoropentyl)-1H-indazol-3-yl] (1-naphthyl) methanone.
 
-Naphthoylpyrroles ou dérivés du pyrrole-3-yl (1-naphtyl) methanone
+-Naphthoylpyrroles ou dérivés du pyrrole-3-yl (1-naphtyl) methanone
 
-avec un substitut sur l'azote du noyau pyrrole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau pyrrole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau pyrrole soit par ailleurs substitué ou non ;
+-que le noyau pyrrole soit par ailleurs substitué ou non ;
 
-que le noyau naphthyl soit par ailleurs substitué ou non.
+-que le noyau naphthyl soit par ailleurs substitué ou non.
 
 Notamment :
 
-JWH-030 ou 1-​ naphthalenyl (1-​ pentyl-​ 1H-​ pyrrol-​ 3-​ yl)-​ methanone ;
+JWH-030 ou 1-naphthalenyl (1-pentyl-1H-pyrrol-3-yl)-methanone ;
 
-JWH-145 ou 1-​ naphthalenyl (1-​ pentyl-​ 5-​ phenyl-​ 1H-​ pyrrol-​ 3-​ yl)-​ methanone ;
+JWH-145 ou 1-naphthalenyl (1-pentyl-5-phenyl-1H-pyrrol-3-yl)-methanone ;
 
-JWH-146 ou (1-​ heptyl-​ 5-​ phenyl-​ 1H-​ pyrrol-​ 3-​ yl)-​ 1-​ naphthalenyl-​ methanone ;
+JWH-146 ou (1-heptyl-5-phenyl-1H-pyrrol-3-yl)-1-naphthalenyl-methanone ;
 
-JWH-147 ou (1-​ hexyl-​ 5-​ phenyl-​ 1H-​ pyrrol-​ 3-​ yl) ​ 1-​ naphthalenyl-​ methanone ;
+JWH-147 ou (1-hexyl-5-phenyl-1H-pyrrol-3-yl)-1-naphthalenyl-methanone ;
 
 JWH-307 ou (5-(2-fluorophenyl)-1-pentylpyrrol-3-yl)-naphthalen-1-yl-methanone ;
 
 JWH-368 ou [5-​ (3-​ fluorophenyl)-​ 1-​ pentyl-​ 1H-​ pyrrol-​ 3-​ yl]-​ 1-​ naphthalenyl-​ methanone ;
 
-JWH-370 ou [5-​ (2-​ methylphenyl)-​ 1-​ pentyl-​ 1H-​ pyrrol-​ 3-​ yl]-​ 1-​ naphthalenyl-​ methanone.
+JWH-370 ou [5-(2-methylphenyl)-1-pentyl-1H-pyrrol-3-yl]-1-naphthalenyl-methanone.
 
-Naphthylméthylindoles ou dérivés du indol-3-yl-(1-naphthyl) méthane
+-Naphthylméthylindoles ou dérivés du indol-3-yl-(1-naphthyl) méthane
 
-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkènyl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkènyl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indole soit par ailleurs substitué ou non ;
+-que le noyau indole soit par ailleurs substitué ou non ;
 
-que le noyau naphthyl soit par ailleurs substitué ou non.
+-que le noyau naphthyl soit par ailleurs substitué ou non.
 
 Notamment :
 
@@ -170,23 +168,23 @@ JWH-184 ou 3-[(4-méthyl-1-naphthalènyl) méthyl]-1-pentyl-1H-indole ou 1-penty
 
 JWH-185 ou 3-[(4-méthoxy-1-naphthalènyl) méthyl]-1-pentyl-1H-indole.
 
-Naphthylidèneindènes et Naphthylméthylindènes ou dérivés du 1-(1-naphthylméthylene) indène et dérivés du 1-(1-naphthylméthyl) indène
+-Naphthylidèneindènes et Naphthylméthylindènes ou dérivés du 1-(1-naphthylméthylene) indène et dérivés du 1-(1-naphthylméthyl) indène
 
-avec un substitut en position 3 du noyau indène type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, methyl-oxane, cycloalkyléthyl, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut en position 3 du noyau indène type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, methyl-oxane, cycloalkyléthyl, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indène soit par ailleurs substitué ou non ;
+-que le noyau indène soit par ailleurs substitué ou non ;
 
-que le noyau naphthyl soit par ailleurs substitué ou non.
+-que le noyau naphthyl soit par ailleurs substitué ou non.
 
 Notamment :
 
 JWH-176 ou 1-([(1E)-3-pentylinden-1-ylidine] methyl) naphthalene.
 
-Cyclohexylphénols ou dérivés du 2-(3-hydroxycyclohexyl) phénol
+-Cyclohexylphénols ou dérivés du 2-(3-hydroxycyclohexyl) phénol
 
-avec un substitut en position 5 du noyau phénol type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut en position 5 du noyau phénol type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau cyclohexyl soit par ailleurs substitué ou non.
+-que le noyau cyclohexyl soit par ailleurs substitué ou non.
 
 Notamment :
 
@@ -200,13 +198,13 @@ CP 47,497-C8 ou (5-(1,1-diméthyloctyl)-2-[(1R, 3S)-3-hydroxycyclohexyl]-phénol
 
 CP 47,497-C9 ou (5-(1,1-diméthylnonyl)-2-[(1R, 3S)-3-hydroxycyclohexyl]-phénol.
 
-Dérivés du 3-carboxylate indole
+-Dérivés du 3-carboxylate indole
 
-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indole soit par ailleurs substitué ou non ;
+-que le noyau indole soit par ailleurs substitué ou non ;
 
-avec un groupement (par ailleurs substitué ou non), sur l'oxygène du pont carboxylate de type 8-quinolinyl ou 1-naphtalenyl.
+-avec un groupement (par ailleurs substitué ou non), sur l'oxygène du pont carboxylate de type 8-quinolinyl ou 1-naphtalenyl.
 
 Notamment :
 
@@ -214,21 +212,19 @@ PB-22 ou QUPIC ou 1-pentyl-1H-indole-3-carboxylic acid 8-quinolinyl ester ;
 
 BB-22 ou QUCHIC ou 1-(cyclohexylmethyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester ;
 
-5F-PB-22 ou 5F-QUPIC ou 1-pentyfluoro-1H-indole-3-carboxylic acid 8-quinolinyl ester ;
-
 FUB-PB-22 ou quinolin-8-yl 1-[(4-fluorophenyl) methyl]-1H-indole-3-carboxylate) ;
 
 FDU-PB-22 ou naphthalen-1-yl 1-[(4-fluorophenyl) methyl]-1H-indole-3-carboxylate ;
 
 NM-2201 ou CBL-2201 ou naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate.
 
-Dérivés du 3-carboxylate indazole
+-Dérivés du 3-carboxylate indazole
 
-avec un substitut sur l'azote en position 1 du noyau indazole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote en position 1 du noyau indazole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indazole soit par ailleurs substitué ou non ;
+-que le noyau indazole soit par ailleurs substitué ou non ;
 
-avec un groupement (par ailleurs substitué ou non), sur l'oxygène du pont carboxylate de type 8-quinolinyl ou 1-naphtalenyl.
+-avec un groupement (par ailleurs substitué ou non), sur l'oxygène du pont carboxylate de type 8-quinolinyl ou 1-naphtalenyl.
 
 Notamment :
 
@@ -242,13 +238,13 @@ SDB-005 ou naphthalen-1-yl 1-pentyl-1H-indazole-3-carboxylate ;
 
 5F-SDB-005 ou 1-(5-Fluoro-pentyl)-1H-indazole-3-carboxylic acid naphthalen-1-yl ester.
 
-Dérivés du 3-carboxamide indole
+-Dérivés du 3-carboxamide indole
 
-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indole soit par ailleurs substitué ou non ;
+-que le noyau indole soit par ailleurs substitué ou non ;
 
-avec l'azote du pont carboxamide intégré dans un cycle ou portant un substitut de type cumyl, naphtyl, adamantanyl, benzyl, bicyclo [2.2.1] heptanyl, ou portant un groupement de type 1-alkoxy-1-oxo-butan-2-yl, 1-amino-1-oxo-butan-2-yl, que ce groupement soit lui-même substitué ou non en position 3 par un ou deux substituts de type alkyl, cycloalkyl ou phenyl.
+-avec l'azote du pont carboxamide intégré dans un cycle ou portant un substitut de type cumyl, naphtyl, adamantanyl, benzyl, bicyclo [2.2.1] heptanyl, ou portant un groupement de type 1-alkoxy-1-oxo-butan-2-yl, 1-amino-1-oxo-butan-2-yl, que ce groupement soit lui-même substitué ou non en position 3 par un ou deux substituts de type alkyl, cycloalkyl ou phenyl.
 
 Notamment :
 
@@ -282,35 +278,25 @@ MMB-CHMICA ou AMB-CHMICA ou methyl N-[1-(cyclohexylmethyl)-1H-indole-3-carbonyl)
 
 5F-MDMB-PICA ou N-[[1-(5-fluoropentyl)-1H-indol-3-yl] carbonyl]-3-methyl-L-valine, methyl ester.
 
-Dérivés du 3-carboxamide indazole
+-Dérivés du 3-carboxamide indazole
 
-avec un substitut sur l'azote en position 1 du noyau indazole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote en position 1 du noyau indazole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indazole soit par ailleurs substitué ou non ;
+-que le noyau indazole soit par ailleurs substitué ou non ;
 
-avec l'azote du pont carboxamide intégré dans un cycle ou portant un substitut de type cumyl, naphtyl, adamantanyl, benzyl, bicyclo [2.2.1] heptanyl, ou portant un groupement de type 1-alkoxy-1-oxo-butan-2-yl, 1-amino-1-oxo-butan-2-yl, que ce groupement soit lui-même substitué ou non en position 3 par un ou deux substituts de type alkyl, cycloalkyl ou phenyl.
+-avec l'azote du pont carboxamide intégré dans un cycle ou portant un substitut de type cumyl, naphtyl, adamantanyl, benzyl, bicyclo [2.2.1] heptanyl, ou portant un groupement de type 1-alkoxy-1-oxo-butan-2-yl, 1-amino-1-oxo-butan-2-yl, que ce groupement soit lui-même substitué ou non en position 3 par un ou deux substituts de type alkyl, cycloalkyl ou phenyl.
 
 Notamment :
 
 AB-FUBINACA ou N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(2-fluorophenyl) methyl]-1H-indazole-3-carboxamide ;
 
-AB-CHMINACA ou N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl) indazole-3-carboxamide ;
-
-AB-PINACA ou N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-pentyl-1H-indazole-3-carboxamide ;
-
 5F-AB-PINACA ou N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-fluoropentyl) indazole-3-carboxamide ;
-
-ADB-CHMINACA ou MAB-CHMINACA ou N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl) indazole-3-carboxamide ;
-
-ADB-FUBINACA ou N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide ;
 
 MDMB-FUBINACA ou MDMB (N)-Bz-F ou FUB-MDMB ou methyl (2S)-2-{ [1-[(4-fluorophenyl) methyl] indazole-3-carbonyl] amino }-3,3-dimethylbutanoate ;
 
 ADB-PINACA ou N-(1-Amino-3,3-dimethyl-1-oxo-2-butanyl)-1-pentyl-1H-indazole-3-carboxamide ;
 
 5F-ADB-PINACA ou N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide ;
-
-5F-ADB ou 5F-MDMB-PINACA ou methyl (S)-2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate ;
 
 5F-AMB ou 5F-MMB-PINACA ou 5F-AMB-PINACA ou methyl (2S)-2-{ [1-(5-fluoropentyl) indazole-3-carbonyl] amino }-3-methylbutanoate ;
 
@@ -319,8 +305,6 @@ ADB-PINACA ou N-(1-Amino-3,3-dimethyl-1-oxo-2-butanyl)-1-pentyl-1H-indazole-3-ca
 APINACA ou AKB-48 ou N-(1-adamantyl)-1-pentylindazole-3-carboxamide) ;
 
 FUB-APINACA ou FUB-AKB-48 ou N-(adamantan-1-yl)-1-[(4-fluorophenyl) methyl]-1H-indazole-3-carboxamide ;
-
-AMB-FUBINACA ou FUB-AMB ou MMB-FUBINACA ou methyl (2S)-2-{ [1-[(4-fluorophenyl) methyl] indazole-3-carbonyl] amino }-3-methylbutanoate ;
 
 5F-APP-PINACA ou FU-PX ou PX-2 ou PPA (N)-2201 ou (R)-N-(1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide ;
 
@@ -334,25 +318,25 @@ MN-18 ou N-(naphthalen-1-yl)-1-pentyl-1H-indazole-3-carboxamide ;
 
 5F-MN18 ou 1-​ (5-​ fluoropentyl)-​ N-​ 1-​ naphthalenyl-​ 1H-​ indazole-​ 3-​ carboxamide.
 
-Carboxamide pyrrolo [3,2-c] pyridine ou dérivés du 3-carboxamide pyrrolo [3,2-c] pyridine
+-Carboxamide pyrrolo [3,2-c] pyridine ou dérivés du 3-carboxamide pyrrolo [3,2-c] pyridine
 
-avec un substitut sur l'azote en position 1 du noyau pyrrolo [3,2-c] pyridine type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote en position 1 du noyau pyrrolo [3,2-c] pyridine type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau pyrrolo [3,2-c] pyridine soit par ailleurs substitué ou non ;
+-que le noyau pyrrolo [3,2-c] pyridine soit par ailleurs substitué ou non ;
 
-avec un substitut sur l'azote du pont carboxamide de type naphtyl, substitué ou non.
+-avec un substitut sur l'azote du pont carboxamide de type naphtyl, substitué ou non.
 
 Notamment :
 
 5F-PCN ou 5F-MN-21 ou 1-(5-fluoropentyl)-N-(naphthalen-1-yl)-1H-pyrrolo [3,2-c] pyridine-3-carboxamide.
 
-Thiazolyl indole ou dérivés du 3-(4-thiazolyl) indole
+-Thiazolyl indole ou dérivés du 3-(4-thiazolyl) indole
 
-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
+-avec un substitut sur l'azote du noyau indole type alkyl, haloalkyl, halobenzyl, alkényl, cycloalkylméthyl, cycloalkyléthyl, methyl-oxane, 1-(N-méthylpiperidin-2-yl) méthyl ou 2-(4-morpholinyl) éthyl ;
 
-que le noyau indole soit par ailleurs substitué ou non ;
+-que le noyau indole soit par ailleurs substitué ou non ;
 
-que le noyau thiazole soit par ailleurs substitué ou non.
+-que le noyau thiazole soit par ailleurs substitué ou non.
 
 Notamment :
 
@@ -375,8 +359,6 @@ Lévophacétopérane et ses sels
 Lisdexamphétamine et ses sels
 
 MBDB ou N-méthyl-1-(3,4- méthylènedioxyphényl)-2-butanamine et ses sels dans tous les cas où ils peuvent exister
-
-4-fluoroamphétamine
 
 Toute molécule dérivée de la cathinone, ses sels et ses stéréoisomères, avec :
 
@@ -534,27 +516,17 @@ RH-34 ou 3-[2-(2-méthoxybenzylamino)éthyl]-1H-quinazoline-2,4-dione
 
 - 4-méthoxybutyr (yl) fentanyl ;
 
-- acryl (oyl) fentanyl ;
-
 - beta-hydroxythiofentanyl ;
-
-- carfentanil ou carfentanyl ;
 
 - despropionylfentanyl ;
 
 - despropionyl-2-fluorofentanyl ;
 
-- furanylfentanyl ;
-
 - isobutyr (yl) fentanyl ;
 
 - méthoxyacétylfentanyl ;
 
-- ocfentanil ou ocfentanyl ;
-
 - para-chloroisobutyrfentanyl ou 4-chloroisobutyrfentanyl ;
-
-- para-fluoroisobutyr (yl) fentanyl ou 4-fluoroisobutyr (yl) fentanyl ou 4F-iBF ;
 
 - tétrahydrofuranylfentanyl ou THF-F ;
 

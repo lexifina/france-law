@@ -237,3 +237,21 @@ Tilidine
 Trimépéridine
 
 U-47700 ou 3,4-dichloro-N-[2-(dimethylamino) cyclohexyl]-N-methylbenzamide
+
+-acryl (oyl) fentanyl
+
+-carfentanil ou carfentanyl
+
+-Furanylfentanyl ou N-phenyl-N-[1-(2-phenylethyl) piperidin-4-yl] furan-2-carboxamideocfentanil ou ocfentanyl ;
+
+-para-fluoroisobutyr (yl) fentanyl ou pFIBF ou 4-fluoroisobutyr (yl) fentanyl ou 4 FIBF ;
+
+-tetrahydrofuranylfentanyl ou THF-F ;
+
+-Methoxyacetylfentanyl ou 2-methoxy-N-phenyl-N-[1-(2-phenylethyl) piperidin-4-yl] acetamide,
+
+-Cyclopropylfentanyl ou (d) N-phenyl-N-[1-(2-phenylethyl) piperidin-4-yl] cyclopropanecarboxamide,
+
+-Parafluorobutyrylfentanyl,
+
+-Orthofluorofentanyl

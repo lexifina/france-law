@@ -10,6 +10,16 @@ Cette annexe comprend :
 
 - les préparations de ces substances, à l'exception de celle nommément désignées ci-dessous ;
 
+-AB-CHMINACA ou N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl) indazole-3-carboxamide ;
+
+-AB-PINACA ou N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-pentyl-1H-indazole-3-carboxamide ;
+
+-ADB-CHMINACA ou MAB-CHMINACA ou N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide ;
+
+-5F-ADB ou 5F-MDMB-PINACA ou methyl (S)-2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate ;
+
+-ADB-FUBINACA ou N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide ;
+
 2-CB ou 4-bromo-2,5 diméthoxyphénéthylamine
 
 4-MEC ou 4-méthylethcathinone ou 2-éthylamino-1-(4-méthylphényl)-1-propanone
@@ -34,6 +44,8 @@ Benzphétamine, à l'exception de ses préparations autres qu'injectables
 
 *Cathinone
 
+-CUMYL-4CN-BINACA ou 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide ;
+
 *DET ou N,N-diéthyltryptamine
 
 Dexamfétamine
@@ -57,6 +69,10 @@ Etilamfétamine
 *Etryptamine
 
 Fénétylline
+
+-4-Fluoroamphétamine ou 4-FA ;
+
+-FUB-AMB (MMB-FUBINACA, AMB-FUBINACA) ou methyl (2S)-2-{ [1-[(4-fluorophenyl) methyl] indazole-3-carbonyl] amino }-3-methylbutanoate ;
 
 GHB ou acide gamma-hydroxybutyrique, à l'exception des préparations injectables
 
@@ -92,7 +108,11 @@ Méthylphénidate
 
 *N-éthylténamphétamine (MDEA)
 
+-N-ETHYLNORPENTYLONE (Ephylone)
+
 *Parahexyl
+
+-5F-PB-22 ou 5F-QUPIC ou 1-pentyfluoro-1H-indole-3-carboxylic acid 8-quinolinyl ester ;
 
 Pentazocine
 
@@ -125,6 +145,8 @@ Sécobarbital
 *Ténocyclidine ou TCP
 
 *TMA ou dl-triméthoxy-3,4,5 -méthylphényléthylamine
+
+-UR-144 ou (1-pentylindol-3-yl)-(2,2,3,3-tetramethylcyclopropyl) methanone ;
 
 XLR-11 ou 5F-UR-144 ou (1-(5-fluoropentyl)-1H-indol-3-yl) (2,2,3,3-tetramethylcyclopropyl) methanone
 
