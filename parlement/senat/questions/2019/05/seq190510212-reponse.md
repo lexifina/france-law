@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510212
+
+- Question : [SEQ190510212](seq190510212.md) — Atteinte au droit à l'éducation
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2019-10-17, page 5285*
+
+La loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance porte des mesures ambitieuses pour favoriser la réussite de tous les élèves et améliorer encore la qualité et l'efficacité du service public de l'éducation. Elle porte la concrétisation de l'ambition républicaine du Gouvernement pour l'école – élévation du niveau général des élèves et justice sociale – et renforce l'appareil législatif sur lequel l'ensemble de la communauté éducative peut désormais s'appuyer pour rendre effectif le droit de chaque enfant présent sur notre territoire d'accéder à l'école. En abaissant l'âge du début d'instruction, désormais obligatoire pour chaque enfant âgé de 3 à 16 ans, ladite loi garantit un égal droit d'accès à la scolarisation de tous les enfants, sans aucune distinction, et avec la prise en compte des besoins éducatifs particuliers. Elle consolide par ailleurs (article 12) la portée des dispositions de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maitrisée, un droit d'asile effectif et une intégration réussie. Elle renforce le pouvoir d'intervention du directeur académique des services de l'éducation nationale en cas de refus d'inscription d'un élève sur la liste scolaire de la part du maire sans motif légitime. La loi pour une école de la confiance rend également obligatoire la formation de tout jeune jusqu'à l'âge de sa majorité. À l'issue de la période d'instruction obligatoire, tout jeune âgé de plus de 16 ans peut ainsi élever son niveau de formation, afin de mieux s'insérer dans la vie sociale et professionnelle et d'exercer sa citoyenneté. Cette mesure sera mise en œuvre dès la rentrée 2020.
