@@ -112,7 +112,7 @@ Commission compétente en matière de transports
 
 |
 
-Président de l'Autorité de régulation des communications électroniques et des postes
+Président de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse
 
 |
 
