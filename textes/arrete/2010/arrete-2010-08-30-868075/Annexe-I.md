@@ -6,21 +6,19 @@ INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L’ENVIRONNEMENT SOUMISES À DÉC
 
 SOUS LA RUBRIQUE N° 1414-3
 
-Vous pouvez consulter l'intégralité de cette annexe en accédant au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie.: https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0026977/met_20130014_0
-
-100_0003.pdf
-
 Définitions
 
-Station-service : toute installation où les carburants sont transférés de réservoirs de stockage fixes vers les réservoirs à carburant de véhicules à moteur, de bateaux ou d'aéronefs.
+" Station-service " : toute installation où les carburants sont transférés de réservoirs de stockage fixes vers les réservoirs à carburant de véhicules à moteur, de bateaux ou d'aéronefs.
 
-Libre-service surveillé : une installation peut être considérée comme étant en libre-service surveillé lorsque le transfert du produit est effectué sous la surveillance directe ou indirecte d'un personnel d'exploitation de permanence, présent sur le site, connaissant le fonctionnement des installations et capable de mettre en œuvre les moyens de première intervention en matière d'incendie et de protection de l'environnement. L'installation est considérée en libre-service surveillé seulement si la personne effectuant le transfert de produit est distincte de la personne assurant la surveillance.
+" Libre-service surveillé " : une installation peut être considérée comme étant en libre-service surveillé lorsque le transfert du produit est effectué sous la surveillance directe ou indirecte d'un personnel d'exploitation de permanence, présent sur le site, connaissant le fonctionnement des installations et capable de mettre en œuvre les moyens de première intervention en matière d'incendie et de protection de l'environnement. L'installation est considérée en libre-service surveillé seulement si la personne effectuant le transfert de produit est distincte de la personne assurant la surveillance.
 
-Libre-service sans surveillance : installations en libre-service autres que celles considérées comme surveillées.
+" Libre-service sans surveillance " : installations en libre-service autres que celles considérées comme surveillées.
 
 Ne sont pas considérées comme étant en libre-service les installations de remplissage et d'avitaillement dont l'accès et l'usage des installations sont strictement réservés à un personnel spécialement formé à cet effet et aux risques des produits manipulés.
 
-Aire de remplissage : surface accessible à la circulation des véhicules englobant les zones situées à moins de 1,5 mètre de la paroi des appareils de distribution dans le sens de la circulation sur 2,2 mètres.
+“ Aire de distribution ” : surface accessible à la circulation des véhicules englobant les zones situées à moins de 1,5 mètre de la paroi des appareils de distribution et sur 2,2 mètres dans le sens de la circulation. Ces valeurs sont portées respectivement à 3 mètres et 4 mètres dans le cas de la distribution de gaz naturel liquéfié (GNL). ;
+
+“ Récipient à pression transportable ” : récipient couvert par la section 11 du chapitre VII du titre V du livre V du code de l'environnement : bouteilles, tubes, fûts à pression … Les camions citernes ne sont pas considérés comme des récipients à pression transportables au sens du présent arrêté. ;
 
 1. Dispositions générales
 
@@ -70,10 +68,6 @@ Objet du contrôle :
 
 - présentation du récépissé de la déclaration et des prescriptions générales ;
 
-- vérification du débit total au regard du débit déclaré ou de la masse de gaz de l'installation au regard de la masse déclarée ;
-
-- vérification que le débit total ou la masse de gaz de l'installation est inférieur au palier supérieur du régime déclaratif tel que défini à l’annexe de l’article R511-9 du code de l’environnement (le non-respect de ce point relève d’une non-conformité majeure) ;
-
 - présentation des plans à jour d'éventuelles modifications (le non-respect de ce point relève d’une non-conformité majeure) ;
 
 - présentation des arrêtés préfectoraux relatifs à l'installation, s'il y en a.
@@ -96,43 +90,41 @@ Lors de la cessation complète ou partielle de l'activité au titre de laquelle 
 
 2.1. Règles d'implantation
 
-a) L'installation est implantée de telle façon que les distances minimales suivantes, mesurées horizontalement à partir des parois des appareils de distribution, sont observées :
+a) L'installation est implantée de telle façon que les distances minimales suivantes, mesurées horizontalement à partir des parois des appareils de distribution, sont observées ;
 
-- vingt mètres d'un établissement recevant du public de la première à la quatrième catégorie ;
+- vingt mètres d'un établissement recevant du public de la première à la 4e catégorie ;
 
-- sept mètres d'un établissement recevant du public de la cinquième catégorie (magasin de vente dépendant de l'installation par exemple).
+- sept mètres d'un établissement recevant du public de la 5e catégorie (magasin de vente dépendant de l'installation, par exemple). Pour les appareils de distribution de GNL, cette distance est réduite à six mètres.
 
 Dans le cas particulier d'un appareil de distribution nautique, les distances susmentionnées sont respectivement portées à :
 
 - vingt-huit mètres au lieu de vingt mètres ;
 
-- dix mètres au lieu de sept mètres.
+- dix mètres au lieu de six et sept mètres.
 
-b) Une distance minimale de neuf mètres entre les parois des appareils de distribution et les limites de propriété est observée. Cette distance minimale est réduite à cinq mètres si la limite de propriété est une voie de communication publique.
+b) Une distance minimale de neuf mètres entre les parois des appareils de distribution et les limites de propriété est observée. Pour les appareils de distribution de GNL, cette distance est réduite à six mètres. Dans le cas particulier d'un appareil de distribution nautique, ces distances sont portées à treize mètres.
+
+Ces distances minimales sont réduites à cinq mètres si la limite de propriété est une voie de communication publique. Dans le cas particulier d'un appareil de distribution nautique, cette distance est portée à sept mètres.
 
 Les distances minimales suivantes, mesurées horizontalement à partir des parois des appareils de distribution, sont également observées :
 
-- cinq mètres des issues ou ouvertures des locaux administratifs ou techniques de l'installation ;
+- cinq mètres des issues ou ouvertures des locaux administratifs ou techniques de l'installation.
 
-- cinq mètres des parois des appareils de distribution d'hydrocarbures liquides. Cette distance n'est toutefois pas exigée si les conditions suivantes sont réunies :
+Pour les appareils de distribution de GNL, cette distance est portée à six mètres ; cette disposition est applicable aux installations déclarées après le 1er janvier 2020. Dans le cas particulier d'un appareil de distribution nautique, cette distance est portée à sept mètres :
 
-- les parties hydrauliques des appareils de distribution de gaz inflammable liquéfié et d'hydrocarbures liquides sont séparées par une cloison métallique assurant une bonne étanchéité. Si la paroi des appareils est étanche, elle peut jouer le rôle de cloison métallique ;
+- cinq mètres des parois des appareils de distribution d'hydrocarbures liquides. Dans le cas particulier d'un appareil de distribution nautique, cette distance est portée à sept mètres. Cette distance n'est toutefois pas exigée si les deux conditions suivantes sont réunies :
 
-- la distribution simultanée d'hydrocarbures liquides et de gaz inflammable liquéfié du même côté de l'îlot tel que défini au point 2.12 est impossible ;
+* les parties hydrauliques des appareils de distribution de gaz inflammable liquéfié et d'hydrocarbures liquides sont séparées par une cloison métallique assurant une bonne étanchéité. Si la paroi des appareils est étanche, elle peut jouer le rôle de cloison métallique ;
 
-- cinq mètres des aires d'entreposage de bouteilles de gaz inflammable liquéfié ;
+* la distribution simultanée d'hydrocarbures liquides et de gaz inflammable liquéfié du même côté de l'îlot tel que défini au point 2.12 est impossible ;
 
-- neuf mètres des bouches de remplissage, des évents et des parois d'un réservoir aérien d'hydrocarbures liquides, ou cinq mètres de bouches de remplissage et des évents d'un réservoir enterré d'hydrocarbures liquides ;
+- dix mètres des aires de stockage de récipients à pression transportables de gaz inflammable liquéfié. Pour les installations déclarées avant le 1er janvier 2020, si la quantité stockée est inférieure à 6T, cette distance est réduite à 6 mètres ;
 
-- neuf mètres des bouches de remplissage, des orifices d'évacuation à l'air libre des soupapes et des parois d'un réservoir aérien de gaz inflammable liquéfié, ou cinq mètres des bouches de remplissage et des orifices d'évacuation à l'air libre des soupapes d'un réservoir enterré ou sous-talus de gaz inflammable liquéfié.
+- neuf mètres des orifices de remplissage, des évents et des parois d'un réservoir aérien d'hydrocarbures liquides, ou cinq mètres des orifices de remplissage et des évents d'un réservoir enterré d'hydrocarbures liquides. Pour les appareils de distribution de GNL, cette distance est réduite à cinq mètres. Dans le cas particulier d'un appareil de distribution nautique, cette distance est portée à treize mètres ;
 
-Dans le cas particulier d'un appareil de distribution nautique et pour chaque cas sus-cité, les distances susmentionnées sont respectivement portées à :
+- neuf mètres des orifices de remplissage, des orifices d'évacuation à l'air libre des soupapes et des parois d'un réservoir aérien de gaz inflammable liquéfié, ou cinq mètres des orifices de remplissage et des orifices d'évacuation à l'air libre des soupapes d'un réservoir enterré ou sous talus de gaz inflammable liquéfié. Pour les appareils de distribution de GNL, cette distance est réduite à cinq mètres. Dans le cas particulier d'un appareil de distribution nautique, cette distance est portée à treize mètres. Ces distances peuvent être réduites à deux mètres cinquante lorsqu'un mur REI 120 est placé entre l'appareil de distribution et le réservoir, à deux mètres maximum de la paroi de ce dernier. Ce mur doit être d'au moins deux mètres cinquante de haut et quatre mètres de long, et dépasser d'au moins cinquante centimètres à la fois la hauteur du réservoir et, de part et d'autre, la longueur de la paroi du réservoir orientée vers l'appareil de distribution.
 
-- sept mètres au lieu de cinq mètres ;
-
-- treize mètres au lieu de neuf mètres.
-
-c) Dans le cas particulier d'un appareil de distribution privatif, la distance par rapport aux parois d'un réservoir aérien de gaz inflammable liquéfié peut être de quatre mètres et de six mètres par rapport aux bouches de remplissage et aux orifices d'évacuation à l'air libre des soupapes de ce réservoir, si l'appareil satisfait en plus les conditions suivantes :
+c) Dans le cas particulier d'un appareil de distribution privatif autre que celui distribuant du GNL, la distance par rapport aux parois d'un réservoir aérien de gaz inflammable liquéfié peut être de quatre mètres et de six mètres par rapport aux orifices de remplissage et aux orifices d'évacuation à l'air libre des soupapes de ce réservoir, si l'appareil satisfait en plus les conditions suivantes :
 
 - ses parois sont séparées par une distance minimale de quinze mètres des limites de propriétés et voies de communication publiques ;
 
@@ -140,7 +132,7 @@ c) Dans le cas particulier d'un appareil de distribution privatif, la distance p
 
 - il est situé sur un îlot spécifiquement dédié au gaz inflammable liquéfié ;
 
-- il est associé à une seule aire de remplissage ;
+- il est associé à une seule aire de distribution ;
 
 - le réservoir de stockage qui lui est associé est d'une capacité telle qu'il n'est pas soumis à la législation des installations classées pour la protection de l'environnement.
 
@@ -158,15 +150,15 @@ Objet du contrôle :
 
 - respect des distances entre les parois des appareils de distribution et les parois des appareils de distribution d'hydrocarbures liquides, sinon vérifier la présence d'une cloison métallique séparant les appareils de distribution de gaz inflammable liquéfié et d'hydrocarbures liquides et vérifier que la distribution simultanée d'hydrocarbures liquides et de gaz inflammable liquéfié du même côté de l'îlot tel que défini au point 2.12 de la présente annexe n'est pas possible (le non-respect de ce point relève d’une non-conformité majeure) ;
 
-- respect des distances entre les parois des appareils de distribution et les aires d'entreposage de bouteilles de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure) ;
+- respect des distances entre les parois des appareils de distribution et les aires de stockage de récipients à pression transportables de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure) ;
 
-- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les évents et les parois d'un réservoir aérien d'hydrocarbures liquides (le non-respect de ce point relève d’une non-conformité majeure) ;
+- respect des distances entre les parois des appareils de distribution et les orifices de remplissage, les évents et les parois d'un réservoir aérien d'hydrocarbures liquides (le non-respect de ce point relève d’une non-conformité majeure) ;
 
-- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les évents d'un réservoir enterré d'hydrocarbures (le non-respect de ce point relève d’une non-conformité majeure) ;
+- respect des distances entre les parois des appareils de distribution et les orifices de remplissage et les évents d'un réservoir enterré d'hydrocarbures (le non-respect de ce point relève d’une non-conformité majeure) ;
 
-- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les orifices d'évacuation à l'air libre des soupapes et les parois d'un réservoir aérien de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure) ;
+- respect des distances entre les parois des appareils de distribution et les orifices de remplissage, les orifices d'évacuation à l'air libre des soupapes et les parois d'un réservoir aérien de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure) ;
 
-- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les orifices d'évacuation à l'air libre des soupapes d'un réservoir enterré ou sous-talus de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure).
+- respect des distances entre les parois des appareils de distribution et les orifices de remplissage et les orifices d'évacuation à l'air libre des soupapes d'un réservoir enterré ou sous-talus de gaz inflammable liquéfié (le non-respect de ce point relève d’une non-conformité majeure).
 
 2.2. Intégration dans le paysage
 
@@ -182,7 +174,7 @@ Objet du contrôle :
 
 2.4. Comportement au feu des bâtiments
 
-Les appareils de distribution et les aires de remplissage qui leur sont associées ne peuvent être situés qu'en plein air, ou sous une structure de plain pied, ouverte au minimum sur un coté et recouverte par une toiture couvrant totalement ou partiellement l'aire de remplissage.
+Les appareils de distribution et les aires de distribution qui leur sont associées ne peuvent être situés qu'en plein air, ou sous une structure de plain pied, ouverte au minimum sur un coté et recouverte par une toiture couvrant totalement ou partiellement l'aire de distribution.
 
 Si cette structure comporte au moins deux parois latérales, un espace libre d'au minimum vingt centimètres de haut entre les parois et le sol et entre les parois et la toiture est assuré afin de permettre une ventilation permanente et naturelle de l'air et du gaz inflammable liquéfié.
 
@@ -216,7 +208,7 @@ Objet du contrôle :
 
 2.7.2. Dispositif de coupure générale
 
-L'installation électrique comporte un dispositif de coupure générale permettant d'interrompre, en cas de fausse manœuvre, d'incident ou d'inobservation des consignes de sécurité, l'ensemble du circuit électrique à l'exception des systèmes d'éclairage de secours non susceptibles de provoquer une explosion, et permettant d'obtenir l'arrêt total de la distribution et la mise en sécurité de l'installation. Plus spécifiquement, pour un appareil de distribution privatif, son déclenchement agit sur la vanne de sectionnement aval du groupe de pompage mentionnée au point 2.13.
+L'installation électrique comporte un dispositif de coupure générale permettant d'interrompre, en cas de fausse manœuvre, d'incident ou d'inobservation des consignes de sécurité, l'ensemble du circuit électrique à l'exception des systèmes de surveillance et de secours non susceptibles de provoquer une explosion, et permettant d'obtenir l'arrêt total de la distribution et la mise en sécurité de l'installation. Plus spécifiquement, pour un appareil de distribution privatif, son déclenchement agit sur la vanne de sectionnement aval du groupe de pompage mentionnée au point 2.13.
 
 Un essai du bon fonctionnement du dispositif de coupure générale est réalisé au moins une fois par an.
 
@@ -230,15 +222,21 @@ Objet du contrôle :
 
 2.7.2.1. Prescriptions complémentaires pour le cas d'une exploitation en libre-service sans surveillance :
 
-Pour les installations en libre-service sans surveillance, ce dispositif de coupure générale peut être actionné à partir d'au moins deux commandes positionnées, pour la première, à proximité de l'appareil de distribution et, pour la deuxième, à proximité de la commande manuelle doublant le dispositif de déclenchement automatique de lutte fixe contre l'incendie permettant l'arrêt des pompes et la fermeture des électrovannes afin d'isoler le circuit de distribution et la tuyauterie de distribution du réservoir de stockage. La manœuvre du dispositif de coupure générale est retransmise afin d'aviser une personne nommément désignée. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque par le responsable.
+Le dispositif de coupure générale peut être actionné à partir d'au moins deux commandes positionnées :
+
+- pour la première, à proximité de l'appareil de distribution ;
+
+- pour la deuxième, à proximité de la commande manuelle doublant le dispositif de déclenchement automatique de lutte fixe contre l'incendie permettant l'arrêt des pompes et la fermeture des électrovannes ; ou à proximité du réservoir alimentant l'appareil de distribution.
+
+La manœuvre du dispositif de coupure générale déclenche une alarme retransmise à la personne désignée par l'exploitant définie au 3.1. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque par le responsable.
 
 Objet du contrôle :
 
-- présence de deux commandes positionnées, pour la première, à proximité de l'appareil de distribution et, pour la deuxième, à proximité de la commande manuelle doublant le dispositif de déclenchement automatique de lutte fixe contre l'incendie et de fermeture automatique des électrovannes (le non-respect de ce point relève d’une non-conformité majeure).
+- présence de deux commandes d'actionnement du dispositif de coupure générale (le non-respect de ce point relève d'une non-conformité majeure). ;
 
 2.8. Mise à la terre des équipements
 
-Les équipements métalliques (réservoirs, cuves, canalisations) sont mis à la terre conformément à la norme NF C15-100, version décembre 2002, compte tenu notamment de la nature explosive ou inflammable des produits.
+Les équipements métalliques (réservoirs, cuves, canalisations) sont mis à la terre conformément aux normes applicables à la date d'installation, compte tenu notamment de la nature explosive ou inflammable des produits.
 
 Sous réserve des impératifs techniques qui peuvent résulter de la mise en place de dispositifs de protection cathodique, les installations fixes de transfert de gaz inflammables liquéfiés ainsi que les charpentes et enveloppes métalliques seront reliées électriquement entre elles ainsi qu'à une prise de terre unique. La continuité des liaisons présente une résistance inférieure à 1 ohm et la résistance de la prise de terre sera inférieure à 10 ohms.
 
@@ -246,7 +244,7 @@ Sous réserve des impératifs techniques qui peuvent résulter de la mise en pla
 
 La disposition du sol s'oppose à une accumulation éventuelle de gaz inflammables liquéfiés en tout point où leur présence serait une source de danger ou cause d'aggravation de danger (ouvertures de caves, fosses, trous d'homme, passages de câbles électriques en sol, caniveaux, regards, bouches d'égout par exemple), et particulièrement dans les parties visées au point 4.3.
 
-Le sol de l'aire de remplissage est étanche, A1 (incombustible) et disposé ou conçu de telle sorte que des produits liquides répandus accidentellement ne puissent l'atteindre ou puissent être recueillis afin d'être récupérés et recyclés ou, en cas d'impossibilité, traités conformément au point 5.5 et au titre 7.
+Le sol de l'aire de distribution est étanche, A1 (incombustible) ou en revêtement bitumineux du type routier et disposé ou conçu de telle sorte que des produits liquides répandus accidentellement ne puissent l'atteindre ou puissent être recueillis afin d'être récupérés et recyclés ou, en cas d'impossibilité, traités conformément au point 5.5 et au titre 7.
 
 2.10. (*)
 
@@ -262,7 +260,7 @@ Les pistes et les chenaux d'accès ne sont pas en impasse. Toutefois pour les ap
 
 - l'appareil de distribution ne soit pas placé dans l'axe de marche du chariot ;
 
-- un dispositif mécanique au sol (rail, haricot en béton, plots, par exemple), infranchissable transversalement par le chariot, guide l'accès à l'appareil de distribution en marche arrière exclusivement, de sorte que le chariot évolue parallèlement à celui-ci lorsqu'il atteint l'aire de remplissage ;
+- un dispositif mécanique au sol (rail, haricot en béton, plots, par exemple), infranchissable transversalement par le chariot, guide l'accès à l'appareil de distribution en marche arrière exclusivement, de sorte que le chariot évolue parallèlement à celui-ci lorsqu'il atteint l'aire de distribution ;
 
 - des butées d'arrêt soient implantées ;
 
@@ -274,15 +272,17 @@ Objet du contrôle :
 
 - vérification de l'aménagement et de la construction des appareils de distribution (le non-respect de ce point relève d’une non-conformité majeure).
 
-2.12.2. Aménagement de l'aire de remplissage
+2.12.2. Aménagement de l'aire de distribution
 
-Pour chaque appareil de distribution, une aire de remplissage est matérialisée sur le sol. Deux aires de remplissage associées à la distribution de gaz inflammable liquéfié sont distantes d'au moins d'un mètre.
+Pour chaque appareil de distribution de réservoirs de chariots de manutention, une aire de distribution est matérialisée sur le sol.
 
-Dans le cas particulier d'appareil de distribution nautique, une zone de remplissage centrée sur l'appareil de distribution est clairement matérialisée sur trois mètres de la berge ou du ponton obligatoirement solidaire de celle-ci. Tant que possible, et ce en fonction des caractéristiques des bateaux à alimenter et sans préjudice de la réglementation en vigueur relative à la circulation sur les voies navigables, cette zone est identifiée dans l'eau par deux dispositifs adéquats au moins (par exemple : bouées) placés à une distance minimum de trois mètres de la berge ou du ponton, de sorte qu'une aire de remplissage rectangulaire soit définie. La signalisation de ces dispositifs est conforme aux normes ou règlements en vigueur et indique l'interdiction de passage dans l'aire de remplissage en dehors de l'utilisation de l'appareil de distribution de gaz inflammables liquéfiés. Deux bollards (i.e. bornes d'amarrage) au moins, correctement dimensionnés au vu des caractéristiques des bateaux à remplir, sont mis en place de part et d'autre de la zone de remplissage, sur la berge ou le ponton.
+Deux aires de distribution associées à la distribution de gaz inflammable liquéfié sont distantes d'au moins d'un mètre. Plusieurs appareils de distribution peuvent être associés à une unique aire de distribution.
+
+Dans le cas particulier d'appareil de distribution nautique, une zone de remplissage centrée sur l'appareil de distribution est clairement matérialisée sur trois mètres de la berge ou du ponton obligatoirement solidaire de celle-ci. Tant que possible, et ce en fonction des caractéristiques des bateaux à alimenter et sans préjudice de la réglementation en vigueur relative à la circulation sur les voies navigables, cette zone est identifiée dans l'eau par deux dispositifs adéquats au moins (par exemple : bouées) placés à une distance minimum de trois mètres de la berge ou du ponton, de sorte qu'une aire de distribution rectangulaire soit définie. La signalisation de ces dispositifs est conforme aux normes ou règlements en vigueur et indique l'interdiction de passage dans l'aire de distribution en dehors de l'utilisation de l'appareil de distribution de gaz inflammables liquéfiés. Deux bollards (i.e. bornes d'amarrage) au moins, correctement dimensionnés au vu des caractéristiques des bateaux à remplir, sont mis en place de part et d'autre de la zone de remplissage, sur la berge ou le ponton.
 
 2.12.3. Construction des appareils de distribution
 
-Les socles des appareils de distribution sont ancrés et situés sur un îlot d'au moins 0,15 mètre de hauteur. Le socle et l'îlot peuvent être ventilés dans le cas particulier d'une installation de l'appareil sur ponton pour la distribution nautique. Si l'appareil de distribution est implanté sur un îlot spécifique aux gaz inflammables liquéfiés, il est disposé de telle sorte qu'un espace libre de 0,50 mètre au minimum est aménagé entre l'appareil et les véhicules - le cas échéant, le bateau - situés sur l'aire de remplissage.
+Les socles des appareils de distribution sont ancrés et protégés contre les heurts de véhicules, par exemple au moyen d'îlots d'au moins 0,15 mètre de hauteur, de bornes ou de butoirs de roues. Le socle et l'îlot peuvent être ventilés dans le cas particulier d'une installation de l'appareil sur ponton pour la distribution nautique. Si l'appareil de distribution est implanté sur un îlot spécifique aux gaz inflammables liquéfiés, il est disposé de telle sorte qu'un espace libre de 0,50 mètre au minimum est aménagé entre l'appareil et les véhicules - le cas échéant, le bateau - situés sur l'aire de distribution.
 
 Chacune des extrémités de l'îlot est équipée d'un moyen de protection contre les heurts des véhicules (bornes, arceaux de sécurité, butoirs de roues par exemple). L'appareil de distribution nautique est de plus protégé mécaniquement de façon à éviter tout heurt avec un éventuel bateau en marche incidente. Lorsque, de plus, celui-ci est implanté sur ponton, ce dernier est rendu inaccessible à tout véhicule par des moyens appropriés, l'îlot n'est pas requis et le socle, solidaire du ponton, peut être ventilé.
 
@@ -294,23 +294,29 @@ Toute perte d'énergie de commande des appareillages électriques ou de pilotage
 
 Dans le cas de paiement par billets, toutes dispositions sont prises pour que les actes de malveillance éventuels n'aient pas de conséquence sur les appareils de distribution.
 
-Pour les installations en libre-service sans surveillance, le volume en gaz inflammable liquéfié délivré par opération par les appareils de distribution en libre-service sans surveillance est limité à 120 litres de gaz inflammable liquéfié.
+Pour les installations autres que celles distribuant du GNL, le volume en gaz inflammable liquéfié délivré par opération par les appareils de distribution en libre-service sans surveillance est limité à 120 litres de gaz inflammable liquéfié.
+
+Pour les installations distribuant du GNL, la quantité délivrée par opération par les appareils de distribution en libre-service sans surveillance est limitée à 400 kilogrammes.
 
 2.13. Installations connexes
 
 Si le groupe de pompage destiné au transfert de carburant liquéfié entre le réservoir de stockage et les appareils de distribution est en fosse, celle-ci est maçonnée et protégée contre les intempéries.
 
-De plus, une ventilation mécanique à laquelle est asservi le fonctionnement de la (ou des) pompe(s) (ou tout autre procédé présentant les mêmes garanties) est installée pour éviter l'accumulation de vapeurs inflammables. A défaut, la ventilation mécanique peut être remplacée par au moins deux appareils de contrôle de la teneur en gaz, placés au point bas des fosses ou caniveaux, auxquels est asservi un dispositif d'arrêt des pompes et la fermeture des électrovannes permettant d'isoler le circuit de distribution et la tuyauterie de distribution du réservoir de stockage, dès que la teneur dépasse 20 % de la limite inférieure d'explosivité, et déclenchant dans ce cas une alarme sonore ou lumineuse.
+De plus, une ventilation mécanique à laquelle est asservi le fonctionnement de la (ou des) pompe(s) (ou tout autre procédé présentant les mêmes garanties) est installée pour éviter l'accumulation de vapeurs inflammables. A défaut, la ventilation mécanique peut être remplacée par au moins deux appareils de contrôle de la teneur en gaz, placés judicieusement en fonction des caractéristiques du gaz à détecter, auxquels est asservi un dispositif d'arrêt des pompes et la fermeture des électrovannes permettant d'isoler le circuit de distribution et la tuyauterie de distribution du réservoir de stockage, dès que la teneur dépasse au plus 25 % de la limite inférieure d'explosivité, et déclenchant dans ce cas une alarme permettant d'avertir la personne désignée par l'exploitant définie au 3.1. Ces détecteurs sont maintenus en bon état et vérifiés une fois par an. Une consigne décrit les actions à mettre en œuvre en cas de déclenchement de la détection.
 
 L'accès au dispositif de pompage et à ses vannes de sectionnement est aisé pour le personnel d'exploitation.
 
-Dans le cas d'une installation en libre-service sans surveillance, le déclenchement des alarmes et systèmes de détection précités sont retransmis afin d'aviser une personne nommément désignée. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque par le responsable.
+Dans le cas d'une installation en libre-service sans surveillance, le déclenchement des alarmes et systèmes de détection précités sont retransmis afin d'aviser la personne désignée par l'exploitant définie au 3.1. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque par le responsable.
+
+Objet du contrôle :
+
+Effectivité d'une ventilation mécanique ou, à défaut, présence d'au moins deux détecteurs contrôlant la teneur en gaz, placés judicieusement en fonction des caractéristiques du gaz à détecter (le non-respect de ce point relève d'une non-conformité majeure).
 
 3. Exploitation-entretien
 
 3.1. Surveillance de l'exploitation
 
-L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant, présente sur le site et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés.
+L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés.
 
 3.2. Contrôle de l'utilisation des appareils de distribution
 
@@ -372,17 +378,15 @@ a) L'installation est dotée de moyens de secours contre l'incendie appropriés 
 
 - d'un dispositif permettant de rappeler à tout instant aux tiers les consignes de sécurité et les conduites à tenir en cas de danger ou d'incident, au besoin par l'intermédiaire d'un ou de plusieurs haut-parleurs ;
 
-- deux extincteurs à poudre polyvalente homologués 21 A233 B et C situés à moins de vingt mètres des appareils de distribution, pour chaque groupe d'appareils comprenant de un à trois appareils. Ces extincteurs peuvent être pris en compte pour la protection du stockage si la distance entre celui-ci et les extincteurs est au plus égale à vingt mètres ;
+- deux extincteurs à poudre polyvalente homologués 21 A233 B et C ou équivalent situés à moins de vingt mètres des appareils de distribution, pour chaque groupe d'appareils comprenant de un à trois appareils. Ces extincteurs peuvent être pris en compte pour la protection du stockage si la distance entre celui-ci et les extincteurs est au plus égale à vingt mètres ;
 
-- pour chaque îlot de distribution, d'un extincteur homologué 233 B ;
+- pour chaque îlot de distribution, d'un extincteur homologué 233 B ou équivalent ;
 
-- pour chaque local technique, d'un extincteur homologué 233 B ;
+- pour chaque local technique, d'un extincteur homologué 233 B ou équivalent ;
 
-- pour le tableau électrique, d'un extincteur à gaz carbonique (2 kilogrammes) ;
+- pour le tableau électrique, d'un extincteur à gaz carbonique (2 kilogrammes).
 
-- sur l'installation, d'au moins une couverture spéciale anti-feu.
-
-b) L'exclusion des installations situées sur le même site qu'une installation relevant de la rubrique 1435 régulièrement mise en service avant le 17 avril 2010, les installations nouvelles de remplissage ou de distribution de gaz inflammables liquéfiés et associées à au moins un réservoir aérien de gaz inflammables liquéfiés sont dotées :
+b) L'exclusion des installations situées sur le même site qu'une installation relevant de la rubrique 1435 régulièrement mise en service avant le 17 avril 2010 ou déclarée au titre de la rubrique 4718-2, les installations nouvelles de remplissage ou de distribution de gaz inflammables liquéfiés et associées à au moins un réservoir aérien de gaz inflammables liquéfiés sont dotées :
 
 - d'un ou de plusieurs appareils d'incendie (prise d'eau, poteaux par exemple) d'un réseau public ou privé, d'un débit minimal de 60 m³/h pendant une durée d'au moins deux heures, situé à moins de deux cents mètres de l'installation ;
 
@@ -396,17 +400,17 @@ A défaut, une réserve d'eau, propre au site, et destinée à l'extinction, est
 
 Ces prescriptions ne s'appliquent pas aux installations privatives de distribution.
 
-c) Les installations fonctionnant en libre-service sans surveillance sont équipées de dispositifs automatiques fixes de lutte contre l'incendie et de fermeture des électrovannes situées sur les tuyauteries d'alimentation en gaz inflammables liquéfiés permettant d'isoler totalement le circuit de distribution et la tuyauterie de distribution du réservoir de stockage. Le déclenchement du dispositif de lutte fixe contre l'incendie entraîne obligatoirement la fermeture des électrovannes.
+c) Les installations fonctionnant en libre-service sans surveillance sont équipées de dispositifs automatiques fixes de lutte contre l'incendie et de fermeture des électrovannes situées sur les tuyauteries d'alimentation en phase liquide des gaz inflammables liquéfiés permettant d'isoler totalement le circuit de distribution et la tuyauterie de distribution du réservoir de stockage. Le déclenchement du dispositif de lutte fixe contre l'incendie entraîne obligatoirement la fermeture des électrovannes.
 
-Une vanne située au plus près du réservoir doit pouvoir être fermée manuellement. Elle est d'accès facile pour la personne en charge de la surveillance, les services de secours et le fournisseur de gaz.
+Une vanne située au plus près du réservoir doit pouvoir être fermée par un dispositif déclenché manuellement. Ce dispositif est d'accès facile pour la personne en charge de la surveillance, les services de secours et le fournisseur de gaz.
 
-Une commande de mise en œuvre manuelle d'accès facile double le dispositif de déclenchement automatique fixe de lutte contre l'incendie et de fermeture automatique des électrovannes. Cette commande est installée en dehors de l'aire de remplissage en un endroit accessible au préposé éventuel à l'exploitation ainsi qu'à tout autre personne. Cette commande engendre la fermeture de l'électrovanne située en amont du flexible de remplissage et de l'électrovanne située en aval du stockage. Le système de fermeture manuelle de chacune de ces deux vannes est clairement identifié par un écriteau.
+Une commande de mise en œuvre manuelle d'accès facile double le dispositif de déclenchement automatique fixe de lutte contre l'incendie et de fermeture automatique des électrovannes. Cette commande est installée en dehors de l'aire de distribution en un endroit accessible à la personne désignée par l'exploitant définie au 3.1 ainsi qu'à tout autre personne. Cette commande engendre la fermeture de l'électrovanne située en amont du flexible de remplissage et de l'électrovanne située en aval du stockage. Le système de fermeture manuelle de chacune de ces deux vannes est clairement identifié par un écriteau.
 
 d) Conformément aux référentiels en vigueur et au moins une fois par an, tous les dispositifs sont entretenus par un technicien compétent et leur bon fonctionnement vérifié. Les rapports d'entretien et de vérification sont tenus à la disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques.
 
-Le personnel est formé à l'utilisation des moyens de lutte contre l'incendie.
+Le personnel est formé à l'utilisation des moyens de lutte contre l'incendie et à la conduite à tenir en cas d'incendie.
 
-Dans le cas d'une installation en libre-service sans surveillance, la mise en service du dispositif automatique de lutte fixe contre l'incendie et de fermeture des électrovannes est retransmise afin d'aviser une personne nommément désignée. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque et de retour aux conditions normales d'exploitation par le responsable.
+Dans le cas d'une installation en libre-service sans surveillance, la mise en service du dispositif automatique de lutte fixe contre l'incendie et de fermeture des électrovannes est retransmise afin d'aviser la personne désignée par l'exploitant définie au 3.1. La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque et de retour aux conditions normales d'exploitation par le responsable.
 
 Objet du contrôle :
 
@@ -426,9 +430,7 @@ Objet du contrôle :
 
 4.4. Matériel électrique de sécurité
 
-Dans les parties de l'installation visées au point 4.3, les installations électriques sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et réalisées conformément aux réglementations en vigueur.
-
-Par ailleurs, le matériel électrique implanté dans l'appareil de distribution, celui utilisé pour les appareils de contrôle de la teneur en gaz mentionnés au point 2.13 ainsi que celui utilisé pour le fonctionnement du moteur des pompes ou l'isolation des lignes de transfert du produit en phase liquide ou gazeuse (électrovannes) sont entièrement constitués de matériels utilisables dans les atmosphères susceptibles de conduire à une explosion.
+Dans les parties de l'installation mentionnées à l'article 4.3 et recensées comme pouvant être à l'origine d'une explosion, les appareils et systèmes de protection destinés à être utilisés en atmosphères explosibles sont conformes aux dispositions des articles R. 557-7-1 à R. 557-7-9 du code de l'environnement. L'exploitant tient à jour leur inventaire, et dispose des justificatifs de conformité.
 
 4.5. Interdiction des feux
 
@@ -470,13 +472,13 @@ Les prescriptions à observer par le client de l'installation sont affichées so
 
 - l'obligation d'arrêter le moteur et de couper le contact du véhicule ;
 
-- l'interdiction de remplir des réservoirs mobiles ;
+- l'interdiction de remplir des réservoirs mobiles autres que les réservoirs alimentant des moteurs ou autres appareils d'utilisation pourvus d'organes de sécurité (jauge et soupape) ;
 
 - l'interdiction de procéder lui-même au remplissage du véhicule.
 
-S'agissant des installations en libre-service, à l'exception du dernier tiret, ces consignes de sécurité sont affichées à l'attention du client et transmises, le cas échéant, à la personne nommément désignée.
+S'agissant des installations en libre-service, à l'exception du dernier tiret, ces consignes de sécurité sont affichées à l'attention du client et transmises, le cas échéant, à la personne désignée par l'exploitant définie au 3.1.
 
-Le préposé à l'exploitation est en mesure de rappeler à tout moment aux usagers les consignes de sécurité.
+La personne désignée par l'exploitant définie au 3.1 est en mesure de rappeler à tout moment aux usagers les consignes de sécurité.
 
 Objet du contrôle :
 
@@ -510,9 +512,11 @@ Objet du contrôle :
 
 4.9.1. Canalisations de liaison entre l'appareil de distribution et le réservoir à partir duquel il est alimenté
 
-Ces canalisations sont enterrées de façon à les protéger des chocs mécaniques. Dans le cas des installations déclarées avant le 1er octobre 1998 et dans le cas d'un appareil de distribution privatif répondant aux critères particuliers énoncés à l'avant-dernier paragraphe du point 2.1.B, les canalisations peuvent être aériennes pour autant qu'elles soient efficacement protégées contre les chocs mécaniques.
+Ces canalisations sont enterrées ou placées en caniveau de façon à les protéger des chocs mécaniques. Dans le cas des installations déclarées avant le 1er octobre 1998 et dans le cas d'un appareil de distribution privatif répondant aux critères particuliers énoncés à l'avant-dernier paragraphe du point 2.1.B, les canalisations peuvent être aériennes pour autant qu'elles soient efficacement protégées contre les chocs mécaniques.
 
 La liaison des canalisations avec l'appareil de distribution s'effectue sous l'appareil.
+
+Les canalisations de liaison entre les réservoirs de stockage de GNL et les distributeurs sont adaptés aux sollicitations thermiques auxquelles elles peuvent être soumises (isolant thermique, lyres de dilatation etc.).
 
 D'autre part, elles comportent un point faible (raccord cassant) destiné à se rompre en cas d'arrachement accidentel de l'appareil et, dans le cas de la distribution nautique nécessitant un ponton, un deuxième point faible, dans le sol de la berge au niveau de la jonction berge-ponton, destiné à se rompre en cas d'arrachement du ponton. Des dispositifs automatiques, placés de part et d'autre de ce(s deux) point(s) faible(s), interrompent tout débit liquide ou gazeux en cas de rupture. En amont, ces dispositifs sont doublés par des vannes, placées sous le niveau du sol, et, le cas échéant, sous le socle de l'appareil de distribution implanté sur ponton, dont une - deux dans le cas d'un appareil de distribution nautique implanté sur ponton - au moins est à sécurité positive et asservie au dispositif d'arrêt d'urgence prévu aux points 2.7.2, 4.9.6 et 4.9.7. Elles sont également commandables manuellement.
 
@@ -522,7 +526,7 @@ Lorsque l'appareil est alimenté par une canalisation fonctionnant en refoulemen
 
 4.9.2. Remplissage des réservoirs
 
-Le raccordement du flexible au véhicule ou au bateau et le remplissage du réservoir ne s'effectuent qu'à l'aplomb de l'aire de remplissage.
+Le raccordement du flexible au véhicule ou au bateau et le remplissage du réservoir ne s'effectuent qu'à l'aplomb de l'aire de distribution.
 
 Préalablement à la connexion du flexible pour l'opération de remplissage, l'agent d'exploitation s'assure du bon arrimage du bateau aux dispositifs prévus au point 2.12.2.
 
@@ -538,27 +542,33 @@ A la fin de chaque remplissage, l'appareil de distribution se verrouille automat
 
 Le flexible comporte :
 
-- un raccord cassant à l'une de ses extrémités ;
+- un raccord cassant à l'une de ses extrémités résistant aux sollicitations thermiques auxquelles il peut être soumis ;
 
-- un raccord déboitable destiné à se détacher en cas de traction anormale sur le flexible ;
+- un raccord déboîtable destiné à se détacher en cas de traction anormale sur le flexible. Cette disposition est applicable dans le cas de la distribution de GNL à partir du 1er janvier 2021 ;
 
 - en amont et en aval des points faibles précités, un dispositif automatique qui, en cas de rupture, arrête le débit en amont et empêche la vidange à l'air libre du produit contenu en aval.
 
+Le raccord déboîtable peut être remplacé par un ou des dispositifs assurant le même niveau de sécurité.
+
 Le pistolet est muni d'un dispositif automatique qui, lors du remplissage, interdit le débit si le pistolet n'est pas raccordé à l'orifice de remplissage du réservoir du véhicule.
 
-Le flexible est conçu et contrôlé conformément à la norme NF EN 1762, édition de mai 2004 ou pour les installations antérieures à cette date, l'édition en vigueur le jour de la déclaration. Sa longueur est inférieure ou égale à cinq mètres, et son volume intérieur est inférieur ou égal à 0,65 litre, sauf dans le cas de la distribution nautique où sa longueur maximum est de huit mètres et son volume intérieur inférieur ou égal à 1,04 litre. Un dispositif approprié empêche que celui-ci ne subisse une usure due à un contact répété avec le sol, et, dans le cas de la distribution nautique, qu'il ne puisse se trouver comprimé entre le bateau et la berge ou le ponton (interposition de pneus, bouées, etc.).
+Dans les cas autres que la distribution de GNL, la longueur du flexible est inférieure ou égale à cinq mètres, et son volume intérieur est inférieur ou égal à 1,1 litre, sauf dans le cas de la distribution nautique, où sa longueur maximum est de huit mètres et son volume intérieur inférieur ou égal à 1,76 litre.
 
-Le flexible est changé après toute dégradation.
+Dans le cas du GNL, la longueur du flexible est inférieure ou égale à trois mètres cinquante, et son volume intérieur est inférieur ou égal à 1,7 litre, sauf dans le cas de la distribution nautique où sa longueur maximum est de huit mètres et son volume intérieur inférieur ou égal à 3,9 litre.
 
-Les flexibles sont entretenus en bon état de fonctionnement et remplacés au plus tard six ans après leur date de fabrication. Les flexibles sont équipés de dispositifs de manière qu'ils ne traînent pas sur l'aire de remplissage.
+Dans tous les cas, les flexibles sont conçus et contrôlés conformément aux normes en vigueur. Ils sont entretenus en bon état de fonctionnement, inspectés visuellement toutes les semaines et sont remplacés après toute dégradation et à minima dans les fréquences définies par les normes en vigueur.
+
+Les flexibles sont équipés de dispositifs appropriés empêchant que le flexible ne subisse une usure due à un contact répété ou prolongé avec le sol, et, dans le cas de la distribution nautique, qu'il ne puisse se trouver comprimé entre le bateau et la berge ou le ponton (interposition de pneus, bouées, etc.).
 
 Les rapports d'entretien et de vérification seront tenus à la disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques.
 
 Objet du contrôle :
 
-- état et date de remplacement des flexibles (le non-respect de ce point relève d’une non-conformité majeure) ;
+- présence d'un raccord cassant, d'un raccord déboîtable ou tout autre dispositif assurant le même niveau de sécurité, et d'un dispositif automatique qui, en cas de rupture, arrête le débit en amont et empêche la vidange à l'air libre du produit contenu en aval (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- non frottement au sol de flexibles (le non-respect de ce point relève d’une non-conformité majeure) ;
+- état et date de remplacement des flexibles (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- non-frottement au sol de flexibles (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence des rapports d'entretien.
 
@@ -570,9 +580,9 @@ Dans le cas particulier d'un appareil de distribution privatif, dépourvu de mes
 
 4.9.5. Organe limiteur de débit
 
-Un organe limitant le débit de remplissage à 4,8 mètres cubes par heure est installé à l'amont du flexible.
+Un organe limitant le débit de remplissage à 4,8 mètres cubes par heure est installé à l'amont du flexible. Dans le cas du GNL, ce dispositif limite le débit à 9,6 mètres cubes par heure.
 
-A chaque interruption de remplissage, un système assure l'arrêt du groupe motopompe après temporisation.
+A chaque interruption de remplissage, un système assure l'arrêt du groupe motopompe, s'il existe, après temporisation.
 
 4.9.6. Prestations complémentaires pour le cas d'une exploitation en libre-service
 
@@ -588,15 +598,15 @@ Objet du contrôle :
 
 L'appareil de distribution est équipé :
 
-- d'un dispositif d'arrêt d'urgence situé à proximité de l'appareil et permettant d'alerter instantanément la personne nommément désignée et de provoquer la coupure de l'ensemble des installations destinées à la distribution de gaz inflammables liquéfiés assurant ainsi leur mise en sécurité ;
+- d'un dispositif d'arrêt d'urgence situé à proximité de l'appareil et permettant d'alerter instantanément la personne désignée par l'exploitant définie au 3.1 et de provoquer la coupure de l'ensemble des installations destinées à la distribution de gaz inflammables liquéfiés assurant ainsi leur mise en sécurité ;
 
-- d'un système de détection de gaz installé de manière à pouvoir détecter toute fuite de gaz dans les meilleurs délais. En cas de détection de gaz inflammable à une concentration supérieure à 20 % de la limite inférieure d'explosivité (LIE), les détecteurs entraînent automatiquement l'arrêt des pompes, la fermeture des électrovannes permettant d'isoler le circuit de distribution et la tuyauterie de distribution et déclenchent une alarme sonore ou lumineuse. La mise en défaut des détecteurs entraîne également la mise en sécurité de l'installation ;
+- d'un système de détection de gaz installé de manière à pouvoir détecter toute fuite de gaz dans les meilleurs délais. La détection de gaz inflammable à une concentration supérieure à un seuil au plus égal à 25 % de la limite inférieure d'explosivité (LIE) entraîne automatiquement l'arrêt de la distribution et la mise en sécurité de l'installation. Cette disposition peut être remplacée par la disposition suivante : la détection de gaz inflammable à une concentration supérieure à un seuil au plus égal à 20 % de la LIE, entraîne automatiquement une alarme retransmise à la personne désignée par l'exploitant définie au 3.1. La détection de gaz inflammable à une concentration supérieure à un seuil au plus égal à 40 % de la LIE, entraîne automatiquement l'arrêt de la distribution et la mise en sécurité de l'installation. La mise en défaut du système de détection entraîne également la mise en sécurité de l'installation. ;
 
-- d'un dispositif de communication permettant d'alerter immédiatement la personne nommément désignée de l'installation.
+- d'un dispositif de communication permettant d'alerter immédiatement la personne désignée par l'exploitant définie au 3.1 de l'installation.
 
-Le déclenchement de ces dispositifs permettent d'alerter instantanément la personne nommément désignée, de déclencher une alarme sonore et de provoquer la coupure de l'ensemble des installations destinées à la distribution de gaz inflammables liquéfiés assurant ainsi leur mise en sécurité.
+Le déclenchement de ces dispositifs permettent d'alerter instantanément la personne désignée par l'exploitant définie au 3.1, de déclencher une alarme sonore et de provoquer la coupure de l'ensemble des installations destinées à la distribution de gaz inflammables liquéfiés assurant ainsi leur mise en sécurité.
 
-Une commande de mise en œuvre manuelle d'accès facile double le dispositif permettant d'arrêter l'alimentation en gaz de l'installation de distribution. Cette commande est installée en dehors de l'aire de remplissage en un endroit accessible au préposé éventuel à l'exploitation ainsi qu'à tout autre personne. Cette commande engendre la fermeture de l'électrovanne située en amont du flexible de remplissage et de l'électrovanne située en aval du stockage.
+Une commande de mise en œuvre manuelle d'accès facile double le dispositif permettant de provoquer la coupure de l'ensemble des installations destinées à la distribution de gaz inflammables liquéfiés. Cette commande est installée en dehors de l'aire de distribution, en un endroit accessible à la personne désignée par l'exploitant définie au 3.1 ainsi qu'à toute autre personne. Un écriteau en permet la localisation précise. Cette commande déclenche l'isolement du circuit de distribution et de la tuyauterie de distribution du réservoir de stockage.
 
 La remise en service de l'installation ne peut se faire qu'après constat de l'absence de risque et de retour aux conditions normales d'exploitation par le responsable.
 
@@ -768,4 +778,4 @@ tous les produits dangereux ainsi que tous les déchets sont valorisés ou évac
 
 les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon elles sont neutralisées par remplissage avec un solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1414-3 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature. "
+[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1414-3 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature. "
