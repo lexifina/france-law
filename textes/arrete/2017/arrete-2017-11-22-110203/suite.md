@@ -2216,7 +2216,7 @@ LES PARIS PROPOSÉS EN MASSE COMMUNE INTERNATIONALE REPARTIE PAR LES OPERATEURS 
 
 CHAPITRE 1er
 
-Dispositions particulières applicables au calcul des rapports
+Dispositions particulières applicables au calcul des rapports et au paiement
 
 Article 137
 
@@ -2234,11 +2234,25 @@ Les déductions de toute nature autorisées par la réglementation en vigueur da
 
 Les modalités d’arrondi des rapports selon le pays où la répartition est effectuée sont portées à la connaissance des parieurs au plus tard lors du début des opérations d’enregistrement du pari considéré. Les sommes résultant de l’application de cette disposition, dénommées arrondis sur rapports, sont affectées au produit brut des paris, entendu comme la différence entre le total des enjeux diminué des sommes reversées aux parieurs gagnants.
 
-Lorsque le rapport calculé est inférieur au rapport minimum autorisé par la réglementation en vigueur dans le pays où la répartition est effectuée, le paiement est fait sur la base de ce rapport minimum par unité de mise par amputation du produit brut des paris à l’issue des calculs de répartition de la course considérée. Le rapport minimum appliqué en France aux différents types de paris visés au présent titre pour un pays donné est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d’affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
+Lorsque le rapport calculé est inférieur au rapport minimum autorisé par la réglementation en vigueur dans le pays où la répartition est effectuée, le paiement est fait sur la base de ce rapport minimum par unité de mise :
+
+- par défaut, par amputation du produit brut des paris à l'issue des calculs de répartition de la course considérée ;
+
+- par exception, par amputation successive des déductions mentionnées au présent article puis des parts de la masse à partager affectées aux calculs des autres rapports.
+
+Dans ce dernier cas, cette modalité particulière pour les pays concernés est portée à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
+
+Le rapport minimum appliqué en France aux différents types de paris visés au présent titre pour un pays donné est porté à la connaissance des parieurs par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du groupement.
 
 Le paiement des gains est arrondi au centime d’euro inférieur ou supérieur le plus proche. Les millièmes résultants de l’application de ces règles sont affectés au produit brut des paris défini par les dispositions réglementaires en vigueur.
 
-Pour un type de pari donné, après application des règles énoncées ci-avant, si le montant total des paiements est supérieur au montant de la masse à partager, le groupement, procède, sauf abondement par amputation du produit brut des paris, au remboursement des paris correspondants.
+Pour un type de pari donné, après application des règles énoncées ci-avant, si le montant total des paiements est supérieur au montant de la masse à partager, l'opérateur étranger en charge de la répartition, procède, sauf abondement par amputation du produit brut des paris, au remboursement des paris correspondants.
+
+Article 137-1
+
+Par dérogation au second alinéa de l'article 24, en cas de difficultés techniques rendant impossible le calcul de rapports le jour même par l'opérateur étranger en charge de la répartition, les paris concernés sont remboursés.
+
+Cette modalité particulière pour les pays concernés est portée à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 
 CHAPITRE 2
 
@@ -3080,7 +3094,7 @@ Le parieur en compte peut, en outre, choisir, selon des modalités portées à s
 
 II. – Le parieur en compte ne peut engager de paris sur son compte que dans la limite de son solde créditeur et pour autant que celui-ci soit au moins égal au plus faible minimum d’enjeu fixé pour le ou les paris qu’il engage. Le groupement ne peut être tenu pour responsable des paris qui n’auraient pu être engagés par suite d'un désaccord sur ce solde créditeur.
 
-III. – Le parieur en compte transmet ses ordres de paris au groupement qui les enregistre et lui délivre un reçu non payable sous réserve des dispositions de l’article 173. Le reçu comporte le détail des opérations effectuées sur le compte conformément aux ordres transmis ainsi que le détail du ou de chacun des paris engagés. Par l’acceptation du reçu, le parieur en compte reconnaît la conformité des opérations à ses ordres.
+III. – Le parieur en compte transmet ses ordres de paris au groupement qui les enregistre et lui délivre automatiquement un reçu non payable, sous réserve des dispositions de l'article 173 et sauf en cas de message optionnel affiché sur l'écran de réception. Le reçu comporte le détail des opérations effectuées sur le compte conformément aux ordres transmis ainsi que le détail du ou de chacun des paris engagés. Par l'acceptation du reçu, le parieur en compte reconnaît la conformité des opérations à ses ordres. Dans le cas où le parieur en compte refuse l'édition du reçu, il lui appartient de s'assurer de la conformité des opérations à ses ordres par la consultation de ces dernières sur son compte via les équipements le permettant, dans les postes d'enregistrement définis au présent titre ou dans les hippodromes connectés au système central du groupement fonctionnant en temps réel, ou en se connectant sur le site internet ou l'application mobile du groupement dédiés à la gestion de son compte.
 
 IV. – Aucune réclamation concernant une erreur éventuelle dans la délivrance ou l’établissement du reçu n’est admise après que le parieur en compte a quitté le poste d’enregistrement du groupement ou le guichet de l’hippodrome offrant ce service.
 
