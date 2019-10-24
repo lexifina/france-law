@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410151
+
+- Question : [SEQ190410151](seq190410151.md) — Retrait de postes à l'association départementale des pupilles de l'enseignement public de Seine-Maritime
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2019-10-24, page 5397*
+
+Le décret n° 2007-221 du 19 février 2007, pris en application de l'article L. 312-1-II du code de l'action sociale et des familles (CASF), définit le niveau de qualification requis des professionnels chargés de la direction des établissements ou services sociaux ou médicosociaux. Ainsi, les candidats à ces fonctions doivent être titulaire d'une certification de niveau I enregistrée au répertoire national des certifications professionnelles (RNCP) prévu à l'article L. 335-6 du code de l'éducation. Le diplôme de directeur d'établissement d'éducation adaptée et spécialisée (DDEEAS) ne satisfait pas aux conditions permettant un enregistrement de droit au RNCP, comme c'est le cas pour les diplômes universitaires de type licence ou master. Le ministère de l'éducation nationale étudie donc actuellement les modalités de création d'un nouveau diplôme, de niveau master, avec la collaboration de l'INSHEA (Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés) et de l'université de Paris Ouest - Nanterre-La Défense. Simultanément, le ministère de l'éducation nationale et de la jeunesse et le ministère en charge des affaires sociales collaborent à l'examen des situations individuelles des personnels en poste. Ainsi, les cinq directeurs détachés auprès de l'association départementale des pupilles de l'enseignement public de Seine-Maritime (ADPEP) ne remplissaient pas les conditions relatives à ce cadre d'emploi, ce qui a conduit au retrait de ces postes.
