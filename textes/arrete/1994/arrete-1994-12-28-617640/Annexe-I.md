@@ -56,7 +56,7 @@ Ecole nationale supérieure de physique de Marseille ;
 
 Ecole nationale supérieure de physique de Strasbourg ;
 
-Ecole centrale de Lille ;
+Centrale Lille Institut ;
 
 Ecole supérieure d'électricité ;
 

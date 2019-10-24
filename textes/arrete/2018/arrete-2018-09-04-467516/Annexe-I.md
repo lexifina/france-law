@@ -150,7 +150,7 @@ Centrale Supélec
 
 Centre de coopération international en recherche agronomique pour le développement
 
-Centre de documentation pédagogique - Réseau CANOPE
+Centre de documentation pédagogique-Réseau CANOPE
 
 Centre de recherches en nutrition humaine de Lyon
 
@@ -360,7 +360,7 @@ Charbonnages de France
 
 Cinémathèque française
 
-Cité de la musique - Philharmonie de Paris
+Cité de la musique-Philharmonie de Paris
 
 Cité de l'architecture et du Patrimoine
 
@@ -456,7 +456,7 @@ Commissariat à l'énergie atomique et aux énergies alternatives
 
 COMUE d'Aquitaine
 
-COMUE de Bourgogne - Franche-Comté
+COMUE de Bourgogne-Franche-Comté
 
 COMUE HESAM Université
 
@@ -474,7 +474,7 @@ COMUE Université Côte d'Azur
 
 COMUE Université de Lyon
 
-COMUE Université de recherche Paris sciences et lettres - PSL Research University
+COMUE Université de recherche Paris sciences et lettres-PSL Research University
 
 COMUE Université fédérale de Toulouse Midi Pyrénées
 
@@ -516,7 +516,7 @@ Echanges et productions radiophoniques
 
 Ecofor (recherche écosystèmes forestiers)
 
-Ecole centrale de Lille
+Centrale Lille Institut
 
 Ecole centrale de Lyon
 
@@ -692,7 +692,7 @@ EPCS Campus Condorcet
 
 Etablissement de communication et de production audiovisuelle de la Défense
 
-Etablissement public Cité de la céramique - Sèvres & Limoges
+Etablissement public Cité de la céramique-Sèvres & Limoges
 
 Etablissement public d'aménagement universitaire de la région Ile-de-France
 
@@ -762,7 +762,7 @@ GIP Agence française pour le développement et la promotion de l'agriculture bi
 
 GIP Agence nationale d'appui à la performance des établissements de santé et médico-sociaux
 
-GIP AGEVIF formation Agence de validation, d'insertion, de formation - Poitiers
+GIP AGEVIF formation Agence de validation, d'insertion, de formation-Poitiers
 
 GIP ASIP Santé (Agence nationale des systèmes d'information partagés de santé)
 
@@ -780,7 +780,7 @@ GIP Education et formation tout au long de la vie
 
 GIP Enfance maltraitée
 
-GIP Formation continue et insertion professionnelle - Alsace
+GIP Formation continue et insertion professionnelle-Alsace
 
 GIP Formation continue et insertion professionnelle d'Aquitaine
 
@@ -810,7 +810,7 @@ GIP Formation continue et insertion professionnelle de Paris
 
 GIP Formation continue et insertion professionnelle EXPERIENCE
 
-GIP Formation de l'académie de Rennes - GIPFAR
+GIP Formation de l'académie de Rennes-GIPFAR
 
 GIP Formation et certification pour l'insertion professionnelle
 
@@ -820,7 +820,7 @@ GIP Formation tout au long de la vie
 
 GIP Formation tout au long de la vie et insertion professionnelle de l'académie d'Orléans-Tours
 
-GIP FORMAVIE - Académie de Montpellier
+GIP FORMAVIE-Académie de Montpellier
 
 GIP Insertion
 
@@ -1102,7 +1102,7 @@ Institut national des sciences appliquées Centre-Val de Loire
 
 Institut national des sciences appliquées de Rennes
 
-Institut national des sciences appliquées de Rouen - Normandie
+Institut national des sciences appliquées de Rouen-Normandie
 
 Institut national des sciences appliquées de Toulouse
 
@@ -1156,7 +1156,7 @@ Musée de l'air et de l'espace
 
 Musée de l'armée
 
-Musée Jean-Jacques Henner - Gustave Moreau
+Musée Jean-Jacques Henner-Gustave Moreau
 
 Musée national du sport
 

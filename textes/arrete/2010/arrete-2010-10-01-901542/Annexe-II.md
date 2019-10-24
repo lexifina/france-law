@@ -66,7 +66,7 @@ Lille
 
 |
 
-Ecole centrale de Lille
+Centrale Lille Institut
 
 |
 
@@ -82,7 +82,7 @@ Toulouse
 
 |
 
-Institut national polytechnique de Toulouse - Ecole nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications
+Institut national polytechnique de Toulouse-Ecole nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications
 
 Institut national des sciences appliquées de Toulouse
 
@@ -200,7 +200,7 @@ Orléans-Tours
 
 |
 
-Université d'Orléans - Ecole polytechnique de l'université d'Orléans
+Université d'Orléans-Ecole polytechnique de l'université d'Orléans
 
 |
 

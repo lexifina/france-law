@@ -56,7 +56,7 @@ Ecole nationale supérieure de physique de Marseille ;
 
 Ecole nationale supérieure de physique de Strasbourg ;
 
-Ecole centrale de Lille ;
+Centrale Lille Institut ;
 
 Ecole supérieure d'électricité ;
 
@@ -94,4 +94,4 @@ et un diplôme de troisième cycle obtenu dans une spécialité mentionnée au b
 
 e) Diplôme universitaire d'ingénieur biomédical et hospitalier délivré conjointement par l'université de technologie de Compiègne et l'Ecole nationale de la santé publique (reconnu comme mastère depuis 1987) ;
 
-Mastère spécialisé "Ingénierie et management des technologies de santé" délivré par l'Ecole des hautes études en santé publique conjointement avec l'université de technologie de Compiègne.
+Mastère spécialisé " Ingénierie et management des technologies de santé " délivré par l'Ecole des hautes études en santé publique conjointement avec l'université de technologie de Compiègne.

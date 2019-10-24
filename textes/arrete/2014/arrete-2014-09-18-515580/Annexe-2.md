@@ -44,7 +44,7 @@ Université de Lille
 
 Ecole polytechnique universitaire
 
-Ecole centrale de Lille
+Centrale Lille Institut
 
 |
 
@@ -68,7 +68,7 @@ Poitiers
 
 |
 
-Ecole centrale de Lille
+Centrale Lille Institut
 
 Ecole nationale supérieure de mécanique et d'aérotechnique
 
