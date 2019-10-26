@@ -960,33 +960,49 @@ Echelons |
 
 Indice brut
 
-au 1er janvier 2017 |
+au
+
+1er janvier 2017 |
 
 Indice majoré
 
-au 1er janvier 2017 |
+au
 
-Indice majoré incluant
+1er janvier 2017 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2017 |
+incluant la prime
+
+de feu
+
+au
+
+1er janvier 2017 |
 
 Indice brut
 
-au 1er janvier 2019 |
+au
+
+1er janvier 2019 |
 
 Indice majoré
 
-au 1er janvier 2019 |
+au
 
-Indice majoré incluant
+1er janvier 2019 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2019 |
+incluant la prime
 
-9e |
+de feu
+
+au
+
+1er janvier 2019 |
+
+9 |
 
 979 |
 
@@ -1000,7 +1016,7 @@ au 1er janvier 2019 |
 
 950 |
 
-8e |
+8 |
 
 916 |
 
@@ -1014,7 +1030,7 @@ au 1er janvier 2019 |
 
 894 |
 
-7e |
+7 |
 
 857 |
 
@@ -1028,7 +1044,7 @@ au 1er janvier 2019 |
 
 839 |
 
-6e |
+6 |
 
 807 |
 
@@ -1042,7 +1058,7 @@ au 1er janvier 2019 |
 
 794 |
 
-5e |
+5 |
 
 755 |
 
@@ -1056,7 +1072,7 @@ au 1er janvier 2019 |
 
 747 |
 
-4e |
+4 |
 
 708 |
 
@@ -1070,7 +1086,7 @@ au 1er janvier 2019 |
 
 704 |
 
-3e |
+3 |
 
 659 |
 
@@ -1078,13 +1094,13 @@ au 1er janvier 2019 |
 
 655 |
 
-626 |
+665 |
 
-525 |
+555 |
 
-625 |
+660 |
 
-2e |
+2 |
 
 593 |
 
@@ -1098,7 +1114,7 @@ au 1er janvier 2019 |
 
 601 |
 
-1er |
+1 |
 
 533 |
 
@@ -1420,33 +1436,49 @@ Echelons |
 
 Indice brut
 
-au 1er janvier 2017 |
+au
+
+1er janvier 2017 |
 
 Indice majoré
 
-au 1er janvier 2017 |
+au
 
-Indice majoré incluant
+1er janvier 2017 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2017 |
+incluant la prime
+
+de feu
+
+au
+
+1er janvier 2017 |
 
 Indice brut
 
-au 1er janvier 2019 |
+au
+
+1er janvier 2019 |
 
 Indice majoré
 
-au 1er janvier 2019 |
+au
 
-Indice majoré incluant
+1er janvier 2019 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2019 |
+incluant la prime
 
-8e |
+de feu
+
+au
+
+1er janvier 2019 |
+
+8 |
 
 HEA3 |
 
@@ -1484,7 +1516,7 @@ HEA |
 
 1059 |
 
-7e |
+7 |
 
 1022 |
 
@@ -1492,19 +1524,13 @@ HEA |
 
 983 |
 
-1022 |
+1027 |
 
-826 |
+830 |
 
-983 |
+988 |
 
-6e |
-
-946 |
-
-768 |
-
-914 |
+6 |
 
 946 |
 
@@ -1512,7 +1538,13 @@ HEA |
 
 914 |
 
-5e |
+954 |
+
+773 |
+
+920 |
+
+5 |
 
 891 |
 
@@ -1520,19 +1552,13 @@ HEA |
 
 864 |
 
-891 |
+898 |
 
-726 |
+731 |
 
-864 |
+870 |
 
-4e |
-
-825 |
-
-676 |
-
-804 |
+4 |
 
 825 |
 
@@ -1540,7 +1566,13 @@ HEA |
 
 804 |
 
-3e |
+831 |
+
+681 |
+
+810 |
+
+3 |
 
 755 |
 
@@ -1548,13 +1580,13 @@ HEA |
 
 741 |
 
-755 |
+762 |
 
-623 |
+628 |
 
-741 |
+747 |
 
-2e |
+2 |
 
 708 |
 
@@ -1568,7 +1600,7 @@ HEA |
 
 704 |
 
-1er |
+1 |
 
 659 |
 
@@ -1576,11 +1608,11 @@ HEA |
 
 655 |
 
-626 |
+665 |
 
-525 |
+555 |
 
-625 |
+660 |
 
 Directeur départemental adjoint de SDIS de catégorie B
 
@@ -1588,33 +1620,49 @@ Echelons |
 
 Indice brut
 
-au 1er janvier 2017 |
+au
+
+1er janvier 2017 |
 
 Indice majoré
 
-au 1er janvier 2017 |
+au
 
-Indice majoré incluant
+1er janvier 2017 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2017 |
+incluant la prime
+
+de feu
+
+au
+
+1er janvier 2017 |
 
 Indice brut
 
-au 1er janvier 2019 |
+au
+
+1er janvier 2019 |
 
 Indice majoré
 
-au 1er janvier 2019 |
+au
 
-Indice majoré incluant
+1er janvier 2019 |
 
-la prime de feu
+Indice majoré
 
-au 1er janvier 2019 |
+incluant la prime
 
-7e |
+de feu
+
+au
+
+1er janvier 2019 |
+
+7 |
 
 HEA3 |
 
@@ -1652,7 +1700,7 @@ HEA |
 
 1059 |
 
-6e |
+6 |
 
 1022 |
 
@@ -1660,19 +1708,13 @@ HEA |
 
 983 |
 
-1022 |
+1027 |
 
-826 |
+830 |
 
-983 |
+988 |
 
-5e |
-
-946 |
-
-768 |
-
-914 |
+5 |
 
 946 |
 
@@ -1680,7 +1722,13 @@ HEA |
 
 914 |
 
-4e |
+954 |
+
+773 |
+
+920 |
+
+4 |
 
 891 |
 
@@ -1688,19 +1736,13 @@ HEA |
 
 864 |
 
-891 |
+898 |
 
-726 |
+731 |
 
-864 |
+870 |
 
-3e |
-
-825 |
-
-676 |
-
-804 |
+3 |
 
 825 |
 
@@ -1708,7 +1750,13 @@ HEA |
 
 804 |
 
-2e |
+831 |
+
+681 |
+
+810 |
+
+2 |
 
 755 |
 
@@ -1716,13 +1764,13 @@ HEA |
 
 741 |
 
-755 |
+762 |
 
-623 |
+628 |
 
-741 |
+747 |
 
-1er |
+1 |
 
 708 |
 
