@@ -110,6 +110,8 @@ Les examinateurs sont un enseignant de sciences économiques, sociales et de ges
 
 Le candidat sans document écrit obligatoire ne pourra prétendre à passer l'épreuve E6.
 
+Le document écrit obligatoire est composé d'un dossier individuel et d'une fiche synthétique rédigés par le candidat.
+
 Épreuve E7 : pratiques professionnelles
 
 Elle valide les capacités C7 à C11.
@@ -139,6 +141,8 @@ Les examinateurs sont un enseignant de sciences économiques, sociales et de ges
 - un enseignant d'agronomie et un enseignant d'agroéquipement et un professionnel du secteur (*) pour le support de formation "grandes cultures".
 
 L'épreuve a une durée maximale de 30 minutes.
+
+L'ensemble de documents produits par le candidat est composé de fiches et constitue un dossier écrit. Le dossier est remis par le candidat en 3 exemplaires en amont de l'épreuve selon les modalités définies par l'autorité académique en charge de l'organisation pour transmission préalable aux examinateurs. La date de restitution des dossiers, définie nationalement, est précisée au candidat par l'autorité académique. Tout candidat qui n'aura pas transmis son dossier selon les modalités définies par l'autorité académique ne sera pas autorisé à présenter l'épreuve E7. Le candidat sera alors considéré comme "absent" à l'épreuve.
 
 Définition des épreuves facultatives n° 1 et n° 2
 
