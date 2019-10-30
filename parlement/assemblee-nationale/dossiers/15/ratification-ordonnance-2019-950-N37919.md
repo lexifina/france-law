@@ -1,0 +1,58 @@
+# Code de la justice pénale des mineurs
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N37919
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2019-950
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-228.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-10-30 : 1er dépôt d'une initiative. (PRJLANR5L15B2367)
+  - 2019-10-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-10-30 : Renvoi en commission au fond
+      - 2019-12-04 : Nomination de rapporteur
+      - 2019-12-04 : Réunion de commission
+      - 2019-12-11 : Réunion de commission
+      - 2020-12-01 : Réunion de commission
+      - 2020-12-01 : Réunion de commission
+      - 2020-12-02 : Réunion de commission
+      - 2020-12-02 : Dépôt de rapport (RAPPANR5L15B3637, PRJLANR5L15BTC3637)
+  - Discussion en séance publique
+    - 2020-12-10 : Discussion en séance publique
+    - 2020-12-10 : Discussion en séance publique
+    - 2020-12-10 : Discussion en séance publique
+    - 2020-12-11 : Discussion en séance publique
+    - 2020-12-11 : Discussion en séance publique
+    - 2020-12-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-12-14 : Dépôt d'une initiative en navette (PRJLSNR5S359B0228)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-14 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-01-20 : Dépôt de rapport (RAPPSNR5S359B0291, PRJLSNR5S359BTC0292)
+  - Discussion en séance publique
+    - 2021-01-27 : Discussion en séance publique
+    - 2021-01-27 : Décision
+- Commission Mixte Paritaire
+  - 2021-01-28 : Dépôt d'un projet de loi (PRJLANR5L15B3819)
+  - 2021-01-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-02-04 : Nomination de rapporteur
+    - 2021-02-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B3831, PRJLANR5L15BTC3831)
+    - 2021-02-04 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0341, PRJLSNR5S359BTC0342)
+  - Discussion en séance publique
+    - 2021-02-16 : Discussion en séance publique
+    - 2021-02-16 : Décision
+  - Discussion en séance publique
+    - 2021-02-15 : Discussion en séance publique
+    - 2021-02-15 : Discussion en séance publique
+    - 2021-02-16 : Discussion en séance publique
+    - 2021-02-16 : Décision
+  - 2021-02-04 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-02-26 : Promulgation d'une loi
