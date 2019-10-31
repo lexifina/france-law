@@ -3040,7 +3040,7 @@ DC
 
 |
 
-Accumulateurs (ateliers de charge d')
+Accumulateurs électriques (ateliers de charge d') :
 
 |
 
@@ -3048,11 +3048,33 @@ Accumulateurs (ateliers de charge d')
 
 |
 
-La puissance maximale de courant continu utilisable pour cette opération étant supérieure à 50 kW
+|
+
+1. Lorsque la charge produit de l'hydrogène, la puissance maximale de courant continu utilisable pour cette opération (1) étant supérieure à 50 kW
 
 |
 
 D
+
+|
+
+- |
+
+|
+
+2. Lorsque la charge ne produit pas d'hydrogène, la puissance maximale de courant utilisable pour cette opération (1) étant supérieure à 600 kW, à l'exception des infrastructures de recharge pour véhicules électriques ouvertes au public définies par le décret n° 2017-26 du 12 janvier 2017 relatif aux infrastructures de recharge pour véhicules électriques et portant diverses mesures de transposition de la directive 2014/94/ UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs
+
+|
+
+D |
+
+- |
+
+|
+
+(1) Puissance de charge délivrable cumulée de l'ensemble des infrastructures des ateliers.
+
+|
 
 |
 
@@ -3134,7 +3156,7 @@ DC
 
 |
 
-Moteurs à explosion, à combustion interne ou à réaction, turbines à combustion (ateliers d'essais sur banc de) :
+Moteurs à combustion interne ou à réaction, turbines à combustion (ateliers d'essais sur banc de) :
 
 |
 
@@ -3142,7 +3164,7 @@ Moteurs à explosion, à combustion interne ou à réaction, turbines à combust
 
 |
 
-Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou turbines simultanément en essais est supérieure à 150 kW ou lorsque la poussée dépasse 1,5 kN
+1. Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou turbines simultanément en essais est supérieure à 150 kW
 
 |
 
@@ -3154,7 +3176,17 @@ A
 
 |
 
-Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
+2. Lorsque la poussée totale des moteurs et des turbines est supérieure à 1,5 kN et que l'activité n'est pas classée au titre du 1.
+
+|
+
+A |
+
+2 |
+
+|
+
+Nota.-Cette activité ne donne pas lieu à classement sous la rubrique 2910.
 
 |
 
@@ -3428,7 +3460,7 @@ Installation terrestre de production d'électricité à partir de l'énergie mé
 
 |
 
-1. Comprenant au moins un aérogénérateur dont le mât a une hauteur supérieure ou égale à 50 m
+1. Comprenant au moins un aérogénérateur dont la hauteur du mât et de la nacelle au-dessus du sol est supérieure ou égale à 50 m
 
 |
 
@@ -3440,7 +3472,7 @@ A
 
 |
 
-2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée :
+2. Comprenant uniquement des aérogénérateurs dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à 50 m et au moins un aérogénérateur dont la hauteur du mât et de la nacelle au-dessus du sol est supérieure ou égale à 12 m, lorsque la puissance totale installée est :
 
 |
 
@@ -3468,7 +3500,7 @@ D
 
 |
 
-|
+- |
 
 3000
 
@@ -3668,7 +3700,7 @@ A
 
 |
 
-Transformation des métaux non ferreux :
+Production, transformation des métaux et alliages non ferreux :
 
 |
 
@@ -3676,7 +3708,25 @@ Transformation des métaux non ferreux :
 
 |
 
-a) Production de métaux bruts non ferreux à partir de minerais, de concentrés ou de matières premières secondaires par procédés métallurgiques, chimiques ou électrolytiques
+|
+
+1. Production de métaux bruts non ferreux à partir de minerais, de concentrés ou de matières premières secondaires par procédés métallurgiques, chimiques ou électrolytiques
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+2. Plomb et cadmium :
+
+a) Fusion, y compris alliage, incluant les produits de récupération, avec une capacité de fusion supérieure à 4 tonnes par jour
 
 |
 
@@ -3688,15 +3738,67 @@ A
 
 |
 
-b) Fusion, y compris alliage, de métaux non ferreux incluant les produits de récupération et exploitation de fonderies de métaux non ferreux, avec une capacité de fusion supérieure à 4 tonnes par jour pour le plomb et le cadmium ou à 20 tonnes par jour pour tous les autres métaux
+|
+
+b) Exploitation de fonderies (1), avec une capacité de fusion supérieure à 4 tonnes par jour
 
 |
 
-A
+A |
+
+3 |
 
 |
 
-3
+c) Fusion, y compris alliage, incluant les produits de récupération et exploitation de fonderies (2), avec une capacité de fusion supérieure à 4 tonnes par jour
+
+|
+
+A |
+
+3 |
+
+|
+
+3. Autres métaux non ferreux :
+
+a) Fusion, y compris alliage, incluant les produits de récupération, avec une capacité de fusion supérieure à 20 tonnes par jour
+
+|
+
+A |
+
+3 |
+
+|
+
+b) Exploitation de fonderies (1), avec une capacité de fusion supérieure à 20 tonnes par jour
+
+|
+
+A |
+
+3 |
+
+|
+
+c) Fusion, y compris alliage, incluant les produits de récupération et exploitation de fonderies (2), avec une capacité de fusion supérieure à 20 tonnes par jour
+
+|
+
+A |
+
+3 |
+
+|
+
+(1) Lorsqu'il y a production de produits moulés sans production de métal.
+
+(2) Lorsqu'il y a production de métal et de produits moulés.
+
+|
+
+|
 
 |
 
@@ -3722,25 +3824,17 @@ A
 
 Production de ciment, de chaux et d'oxyde de magnésium :
 
-|
+1. Production de clinker (ciment) :
 
 |
 
 |
 
-a) Production de clinker (ciment) dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour ou d'autres types de fours avec une capacité de production supérieure à 50 tonnes par jour
+|
 
 |
 
-A
-
-|
-
-3
-
-|
-
-b) Production de chaux dans des fours avec une production supérieure à 50 tonnes par jour
+a) Dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour
 
 |
 
@@ -3752,7 +3846,9 @@ A
 
 |
 
-c) Production d'oxyde de magnésium dans des fours avec une capacité supérieure à 50 tonnes par jour
+|
+
+b) Dans d'autres types de fours avec une capacité de production supérieure à 50 tonnes par jour
 
 |
 
@@ -3763,6 +3859,30 @@ A
 3
 
 |
+
+|
+
+2. Production de chaux dans des fours avec une production supérieure à 50 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+3. Production d'oxyde de magnésium dans des fours avec une capacité supérieure à 50 tonnes par jour
+
+|
+
+A |
+
+3 |
 
 3330
 
@@ -4234,7 +4354,9 @@ Nota. - lorsque la seule activité de traitement des déchets exercée est la di
 
 |
 
-Installation de stockage de déchets autre que celles mentionnées aux rubriques 2720 et 2760-3, recevant plus de 10 tonnes de déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes
+Installations de stockage de déchets autres que celles mentionnées aux rubriques 2720 et 2760-3 :
+
+1. Installations d'une capacité totale supérieure à 25 000 tonnes
 
 |
 
@@ -4245,6 +4367,16 @@ A
 3
 
 |
+
+|
+
+2. Autres installations que celles classées au titre du 1 lorsqu'elles reçoivent plus de 10 tonnes de déchets par jour
+
+|
+
+A |
+
+3 |
 
 3550
 
@@ -4386,7 +4518,9 @@ Traitement et transformation, à l'exclusion du seul conditionnement, des matiè
 
 |
 
-1. Uniquement de matières premières animales (autre que le lait exclusivement), avec une capacité de production supérieure à 75 t de produits finis par jour
+|
+
+1. Uniquement de matières premières animales (autre que le lait exclusivement), avec une capacité de production supérieure à 75 tonnes de produits finis par jour
 
 |
 
@@ -4398,7 +4532,29 @@ A
 
 |
 
-2. Uniquement de matières premières végétales, avec une capacité de production supérieure à 300 t de produits finis par jour ou 600 t par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an
+|
+
+2. Uniquement de matières premières végétales, avec une capacité de production :
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 300 tonnes de produits finis par jour
+
+|
+
+A |
+
+3 |
+
+|
+
+b) Supérieure à 600 tonnes de produits finis par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an
 
 |
 
@@ -4410,39 +4566,9 @@ A
 
 |
 
-3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour, supérieure à :
-
 |
 
-|
-
-|
-
-- 75 si A est égal ou supérieur à 10, ou
-
-|
-
-A
-
-|
-
-3
-
-|
-
-- [300-(22,5 × A)] dans tous les autres cas
-
-où "A" est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis.
-
-|
-
-|
-
-|
-
-Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
-
-Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.
+3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour :
 
 |
 
@@ -4452,9 +4578,41 @@ Nota 2. - La présente rubrique ne s'applique pas si la matière première est s
 
 |
 
-(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+a) Supérieure à 75 si A est égal ou supérieur à 10
 
-(2) Rayon d'affichage en kilomètres.
+|
+
+A |
+
+3 |
+
+|
+
+b) Supérieure à [300-(22,5 x A)] dans tous les autres cas
+
+|
+
+A |
+
+3 |
+
+|
+
+où A est la proportion de matière animale (en pourcentage de masse) dans la quantité entrant dans le calcul de la capacité de production de produits finis
+
+|
+
+|
+
+|
+
+|
+
+Nota.-
+
+L'emballage n'est pas compris dans la masse finale du produit.
+
+La présente rubrique ne s'applique pas si la matière première est seulement du lait.
 
 |
 
@@ -4544,15 +4702,43 @@ Nota. - Par "volailles", on entend : les poulets, poules, dindes, pintades, cana
 
 |
 
-Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou d'imprégnation, avec une capacité de consommation de solvant organique supérieure à 150 kilogrammes par heure ou à 200 tonnes par an
+Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou d'imprégnation, avec une capacité de consommation de solvant organique :
 
 |
 
-A
+|
 
 |
 
-3
+|
+
+1. Supérieure à 150 kg par heure
+
+|
+
+A |
+
+3 |
+
+|
+
+2. Supérieure à 200 tonnes par an pour les autres installations que celles classées au titre du 1
+
+|
+
+A |
+
+3 |
+
+|
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement
+
+(2) Rayon d'affichage en kilomètres
+
+|
+
+|
 
 |
 

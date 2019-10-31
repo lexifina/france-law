@@ -12,7 +12,7 @@ Désignation de la rubrique
 
 |
 
-A, E, D, S, C (1)
+A, E, D, C (1)
 
 |
 
@@ -24,7 +24,9 @@ Rayon (2)
 
 |
 
-Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs alimentant des moteurs, ou autres appareils, de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité), le débit total en sortie du système de compression étant :
+Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoirs alimentant des moteurs, ou autres appareils, de véhicules ou engins de transport fonctionnant au gaz naturel ou biogaz et comportant des organes de sécurité) :
+
+1. Le débit total en sortie du système de compression étant :
 
 |
 
@@ -32,7 +34,9 @@ Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoir
 
 |
 
-1. Supérieur ou égal à 2 000 m³/h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t
+|
+
+a) Supérieur ou égal à 2 000 m3/ h
 
 |
 
@@ -44,13 +48,47 @@ A
 
 |
 
-2. Supérieur ou égal à 80 m³/h, mais inférieur à 2 000 m³/h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t
-
 |
+
+b) Supérieur ou égal à 80 m3/ h, mais inférieur à 2 000 m3/ h |
 
 DC
 
 |
+
+-
+
+|
+
+|
+
+2. La masse totale de gaz contenu dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 10 t lorsque l'installation n'est pas classée au titre du 1. a
+
+|
+
+A |
+
+1 |
+
+|
+
+b) Supérieure à 1 t, mais inférieure ou égale à 10 t lorsque l'installation n'est pas classée au titre du 1
+
+|
+
+DC |
+
+- |
 
 |
 
@@ -74,6 +112,8 @@ Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
 
 |
 
+|
+
 1. Installations de remplissage de bouteilles ou conteneurs
 
 |
@@ -86,7 +126,11 @@ A
 
 |
 
+|
+
 2. Installations desservant un stockage de gaz inflammable (stockage souterrain compris) :
+
+|
 
 |
 
@@ -106,7 +150,9 @@ A
 
 |
 
-b) Autres installations que celles visées au 2.a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine
+|
+
+b) Autres installations que celles classées au titre du 2. a, lorsque le nombre maximal d'opérations de chargement ou de déchargement est supérieur ou égal à 20 par jour
 
 |
 
@@ -118,11 +164,29 @@ A
 
 |
 
-c) Autres installations que celles visées aux 2.a et 2.b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour
+|
+
+c) Autres installations que celles classées au titre du 2. a ou du 2. b, lorsque le nombre maximal d'opérations de chargement ou de déchargement est supérieur ou égal à 75 par semaine
+
+|
+
+A
+
+|
+
+1 |
+
+|
+
+d) Autres installations que celles classées au titre du 2. a, du 2. b ou du 2. c, lorsque le nombre maximal d'opérations de chargement ou de déchargement est supérieur ou égal à 2 par jour
 
 |
 
 DC
+
+|
+
+-
 
 |
 
@@ -136,19 +200,19 @@ DC
 
 |
 
+-
+
+|
+
 |
 
 4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID)
 
 |
 
-A
+A |
 
-|
-
-1
-
-|
+1 |
 
 1416 |
 
