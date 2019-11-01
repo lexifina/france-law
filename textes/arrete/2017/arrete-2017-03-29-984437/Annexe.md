@@ -64,7 +64,7 @@ Chef du service de la protection.
 
 11. Service central de la police technique et scientifique :
 
-Chef du service central de la police technique et scientifique.
+Chef du service central de la police technique et scientifique, préfigurateur du service à compétence nationale de la police technique et scientifique.
 
 12. Préfecture de police :
 
