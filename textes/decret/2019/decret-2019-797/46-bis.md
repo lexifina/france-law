@@ -4,7 +4,7 @@ Les catégories de cas mentionnées à l'article 46 sont celles mentionnées aux
 
 § 1 - Cas de départ volontaire d'un emploi précédemment occupé
 
-Une ouverture de droit aux allocations ou un rechargement ou une reprise des droits peut être accordé au salarié qui a quitté volontairement son emploi, et dont l'état de chômage se prolonge contre sa volonté, sous réserve que les conditions suivantes soient réunies :
+Une ouverture de droit aux allocations ou un rechargement ou une reprise des droits peut être accordé au salarié qui a quitté volontairement son emploi ou au salarié démissionnaire en cessation d'inscription comme demandeur d'emploi au moment du contrôle prévu au II de l'article L. 5426-1-2 du code du travail, et dont l'état de chômage se prolonge contre sa volonté, sous réserve que les conditions suivantes soient réunies :
 
 a) L'intéressé doit avoir quitté l'emploi au titre duquel les allocations lui ont été refusées, depuis au moins 121 jours ou, lorsqu'il s'agit d'une demande de rechargement des droits au titre de l'article 28, avoir épuisé ses droits depuis au moins 121 jours ;
 
@@ -62,7 +62,7 @@ Le maintien du versement des allocations au titre du §3 de l'article 9 peut êt
 
 § 4 - Remise des allocations et des prestations indûment perçues
 
-Les instances paritaires peuvent être saisies d'une demande de remise de dette ou d'une demande de remboursement échelonné par les personnes qui auraient perçu indûment tout ou partie des allocations et/ou des prestations ou qui auraient fait sciemment des déclarations inexactes ou présenté des attestations mensongères, en vue d'obtenir le bénéfice ou la continuation du service des prestations, et doivent en conséquence rembourser à l'assurance chômage les sommes indûment perçues par elles, sans préjudice éventuellement des sanctions pénales résultant de l'application de la législation en vigueur.
+Les instances paritaires peuvent être saisies d'une demande de remise de dette ou d'un recours contre une décision de Pôle emploi en matière de remboursement échelonné par les personnes qui auraient perçu indûment tout ou partie des allocations et/ou des prestations ou qui auraient fait sciemment des déclarations inexactes ou présenté des attestations mensongères, en vue d'obtenir le bénéfice ou la continuation du service des prestations, et doivent en conséquence rembourser à l'assurance chômage les sommes indûment perçues par elles, sans préjudice éventuellement des sanctions pénales résultant de l'application de la législation en vigueur.
 
 § 5 - Assignation en redressement ou liquidation judiciaire
 
