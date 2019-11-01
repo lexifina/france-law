@@ -76,7 +76,7 @@ UE 1B : séméiologie. - urgences.
 
 III. - Connaissances de la spécialité de chirurgie orale :
 
-2 unités d'enseignement de la spécialité organisées sous la responsabilité des enseignants des sous-sections 55-03 et 57-02 du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques.
+2 unités d'enseignement de la spécialité organisées sous la responsabilité des enseignants des sous-sections 55-03 et 57-02 du Conseil national des universités pour les disciplines de santé.
 
 UE 7 : avulsions : simples, complexes, de racines, de dents incluses, enclavées. Prise en charge des patients à risque.
 
@@ -262,7 +262,7 @@ UE 6B : cancérologie et hématologie :
 
 III. - Connaissances de la spécialité de chirurgie orale :
 
-7 unités d'enseignement de la spécialité organisées sous la responsabilité des enseignants des sous-sections 55-03 et 57-02 du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques :
+7 unités d'enseignement de la spécialité organisées sous la responsabilité des enseignants des sous-sections 55-03 et 57-02 du Conseil national des universités pour les disciplines de santé :
 
 UE 9 : Inclusions surnuméraires, ectopiques, transplantations. Chirurgie du péri-apex et des kystes des maxillaires odontogènes ou non odontogènes.
 
@@ -330,7 +330,7 @@ Conformément à l'article 32 de l'arrêté du 18 octobre 2017 :
 
 - activité en centre de simulation) ;
 
-- examen national pour les connaissances complémentaires niveau II : un examen écrit national portant sur le programme et/ou par un contrôle continu, par un jury est composé d'enseignants titulaires des sous-sections 55-03 et 57-02 du conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques à part égales.
+- examen national pour les connaissances complémentaires niveau II : un examen écrit national portant sur le programme et/ou par un contrôle continu, par un jury est composé d'enseignants titulaires des sous-sections 55-03 et 57-02 du Conseil national des universités pour les disciplines de santé à part égales.
 
 Modalités de l'évaluation des compétences :
 
