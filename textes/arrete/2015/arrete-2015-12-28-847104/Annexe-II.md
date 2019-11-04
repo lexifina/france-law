@@ -4,67 +4,69 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--Officier général, adjoint au major général de la gendarmerie nationale
+-officier général, adjoint au major général de la gendarmerie nationale
 
--Chef de cabinet du directeur général de la gendarmerie nationale
+-chef de cabinet du directeur général de la gendarmerie nationale
 
--Chef de la mission du pilotage et de la performance
+-chef de la mission du pilotage et de la performance
 
--Chef de la mission numérique de la gendarmerie nationale
+-chef de la mission numérique de la gendarmerie nationale
 
--Commandant des réserves de la gendarmerie
+-commandant des réserves de la gendarmerie
 
--Conseiller communication du directeur général de la gendarmerie nationale, commandant du service d'information et de relations publiques des armées-gendarmerie
+-conseiller communication du directeur général de la gendarmerie nationale, commandant du service d'information et de relations publiques des armées-gendarmerie
 
--Adjoint au directeur des opérations et de l'emploi
+-adjoint au directeur des opérations et de l'emploi
 
--Adjoint au directeur des personnels militaires de la gendarmerie nationale
+-adjoint au directeur des personnels militaires de la gendarmerie nationale
 
--Adjoint au directeur des soutiens et des finances
+-adjoint au directeur des soutiens et des finances
 
--Directeur adjoint de la coopération internationale
+-directeur adjoint de la coopération internationale
 
--Chef de la mission des hauts potentiels
+-chef de la mission des hauts potentiels
 
--Secrétaire général du conseil de la fonction militaire de la gendarmerie
+-secrétaire général du conseil de la fonction militaire de la gendarmerie
 
--Sous-directeur au sein de la direction générale de la gendarmerie nationale
+-sous-directeur au sein de la direction générale de la gendarmerie nationale
 
--Sous-directeur au sein du service de l'achat des équipements et de la logistique de la sécurité intérieure
+-sous-directeur au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
--Sous-directeur au sein de la direction de la coopération internationale (direction active de la police nationale)
+-sous-directeur au sein de la direction de la coopération internationale (direction active de la police nationale)
 
--Sous-directeur au sein du service des technologies et des systèmes d'information de la sécurité intérieure
+-sous-directeur au sein du service des technologies et des systèmes d'information de la sécurité intérieure
 
--Officier général, chargé de mission auprès du directeur général de la gendarmerie nationale
+-officier général, chargé de mission auprès du directeur général de la gendarmerie nationale
 
--Officier général, chargé de mission auprès du major général de la gendarmerie nationale
+-officier général, chargé de mission auprès du major général de la gendarmerie nationale
 
--Chargé de mission, chef de cabinet adjoint, auprès du directeur général de la gendarmerie nationale
+-chargé de mission, chef de cabinet adjoint, auprès du directeur général de la gendarmerie nationale
 
--Directeur de projet auprès du directeur général de la gendarmerie nationale (3 emplois)
+-directeur de projet auprès du directeur général de la gendarmerie nationale (2 emplois)
 
--Directeur de projet auprès du major général de la gendarmerie nationale (2 emplois)
+-directeur de projet auprès du major général de la gendarmerie nationale (2 emplois)
 
--Expert de haut niveau auprès du directeur général de la gendarmerie nationale (2 emplois)
+-expert de haut niveau auprès du directeur général de la gendarmerie nationale (2 emplois)
 
 2° Inspection générale de la gendarmerie nationale :
 
--Chef adjoint de l'inspection générale de la gendarmerie nationale
+-chef adjoint de l'inspection générale de la gendarmerie nationale
 
--Chef du département des inspecteurs chargés d'étude et de missions-Chef de la division des audits, inspections et études
+-chef du département des inspecteurs chargés d'étude et de missions
 
--Chef de la division des enquêtes internes
+-chef de la division des audits, inspections et études
 
--Expert de haut niveau auprès du chef de l'inspection générale de la gendarmerie nationale (1 emploi)
+-chef de la division des enquêtes internes
+
+-chef de la division du recueil et de l'analyse des signalements
 
 3° Gendarmerie départementale :
 
--Commandant en second d'une région de gendarmerie située au siège de la zone de défense et de sécurité
+-commandant en second d'une région de gendarmerie située au siège de la zone de défense et de sécurité
 
--Commandant d'une région de gendarmerie non zonale
+-commandant d'une région de gendarmerie non zonale
 
--Commandant adjoint de région de gendarmerie, commandant du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-commandant adjoint de région de gendarmerie, commandant du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
 -du Bas-Rhin
 
@@ -84,7 +86,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Vienne
 
--Commandant du groupement de gendarmerie départementale :
+-commandant du groupement de gendarmerie départementale :
 
 -des Bouches-du-Rhône
 
@@ -104,13 +106,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 4° Gendarmerie mobile-Garde républicaine :
 
--Commandant de la garde républicaine
+-commandant de la garde républicaine
 
 5° Outre-mer :
 
--Commandant en second de la gendarmerie d'outre-mer
+-commandant en second de la gendarmerie d'outre-mer
 
--Commandant de la gendarmerie :
+-commandant de la gendarmerie :
 
 -de Guadeloupe
 
@@ -126,36 +128,38 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 6° Gendarmeries spécialisées :
 
--Commandant de la gendarmerie de l'air
+-commandant de la gendarmerie de l'air
 
--Commandant de la gendarmerie maritime
+-commandant de la gendarmerie maritime
 
--Commandant de la gendarmerie des transports aériens
+-commandant de la gendarmerie des transports aériens
 
 7° Ecoles :
 
--Commandant en second du commandement des écoles de la gendarmerie nationale
+-commandant en second du commandement des écoles de la gendarmerie nationale
 
--Commandant de l'école des officiers de la gendarmerie nationale
+-commandant de l'école des officiers de la gendarmerie nationale
 
--Commandant d'une école de gendarmerie
+-commandant d'une école de gendarmerie
 
--Commandant du centre national d'entraînement des forces de gendarmerie
+-commandant du centre national d'entraînement des forces de gendarmerie
+
+-chef de la fonction retour d'expérience auprès du commandant des écoles de la gendarmerie nationale
 
 8° Autres emplois :
 
--Commandant des forces aériennes de la gendarmerie nationale
+-commandant des forces aériennes de la gendarmerie nationale
 
--Commandant du groupe d'intervention de la gendarmerie nationale
+-commandant du groupe d'intervention de la gendarmerie nationale
 
--Commandant du pôle judiciaire de la gendarmerie nationale
+-commandant du pôle judiciaire de la gendarmerie nationale
 
--Commandant du soutien opérationnel de la gendarmerie nationale
+-commandant du soutien opérationnel de la gendarmerie nationale
 
--Directeur du commandement spécialisé pour la sécurité nucléaire
+-directeur du commandement spécialisé pour la sécurité nucléaire
 
--Directeur adjoint à la direction du renseignement et de la sécurité de la défense
+-directeur adjoint à la direction du renseignement et de la sécurité de la défense
 
--Directeur adjoint à la direction du renseignement militaire
+-directeur adjoint à la direction du renseignement militaire
 
--Secrétaire général du conseil supérieur de la garde nationale.
+-secrétaire général du conseil supérieur de la garde nationale
