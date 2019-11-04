@@ -760,13 +760,11 @@ X |
 
 X |
 
-Tableau IV. - Titres permettant d'exercer des fonctions à la machine à bord de tout navire
+Tableau IV.-Titres permettant d'exercer des fonctions à la machine à bord de tout navire
 
 |
 
-NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 250 KW3
-
-|
+NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 250 KW3 |
 
 NAVIRES D'UNE PUISSANCE PROPULSIVE INFÉRIEURE À 750 KW |
 
@@ -822,7 +820,11 @@ X |
 
 X |
 
-|
+X 4 |
+
+X4 |
+
+X4 |
 
 |
 
@@ -842,11 +844,7 @@ X |
 
 |
 
-|
-
-|
-
-Brevet de capitaine 200 (1) |
+Brevet de capitaine 200 1 |
 
 X |
 
@@ -854,11 +852,11 @@ X |
 
 X |
 
-|
+X 4 |
 
-|
+X4 |
 
-|
+X4 |
 
 |
 
@@ -892,11 +890,11 @@ X |
 
 X |
 
-|
+X5 |
 
-|
+X5 |
 
-|
+X5 |
 
 |
 
@@ -912,31 +910,31 @@ X |
 
 Brevet d'officier chef de quart machine limité à 200 milles des côtes |
 
-X(2) |
+X2 |
 
 |
 
 |
 
-X(2) |
+X2 |
 
 |
 
 |
 
-X(2) |
+X2 |
 
 |
 
 |
 
-X(2) |
+X2 |
 
 |
 
 |
 
-X(2) |
+X2 |
 
 |
 
@@ -974,7 +972,7 @@ X |
 
 |
 
-Brevet de chef de quart de navire de mer |
+Brevet d'officier chef de quart de navire de mer |
 
 X |
 
@@ -1008,21 +1006,21 @@ X |
 
 Brevet de second mécanicien 3000 kW limité à 200 milles des côtes |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
 |
 
@@ -1040,23 +1038,23 @@ X(2) |
 
 Brevet de chef mécanicien 3000 kW limité à 200 milles des côtes |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
-X(2) |
+X2 |
 
 |
 
@@ -1326,11 +1324,15 @@ X |
 
 X |
 
-(1) Valable également pour les brevets de capitaine 200 voile, capitaine 200 yacht et capitaine 200 pêche.
+1 Valable également pour les brevets de capitaine voile 200, capitaine yacht 200 et capitaine 200 pêche.
 
-(2) Jusqu'à 200 milles des côtes.
+2 Jusqu'à 200 milles des côtes.
 
-(3) Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de chef mécanicien à bord des navires d'une puissance propulsive inférieure à 160 kW.
+3 Les titulaires du certificat d'aptitude au commandement à la petite pêche peuvent exercer des fonctions de chef mécanicien à bord des navires d'une puissance propulsive inférieure à 160 kW.
+
+4 Les titulaires du brevet de mécanicien 250 kW et du brevet de capitaine 200 peuvent également exercer les fonctions définies dans le présent tableau à bord des navires de longueur hors tout inférieure à 12 mètres, effectuant dans les eaux territoriales un service en mer de moins de douze heures et équipés de deux moteurs hors-bord d'une puissance propulsive inférieure à 250 kW chacun et permettant d'assurer la vitesse de sécurité du navire.
+
+5 Les titulaires du brevet de mécanicien 750 kW peuvent exercer des fonctions définies dans le présent tableau à bord des navires armés au commerce exerçant des activités de transport de passagers effectuant dans les eaux territoriales un service en mer de moins de douze heures, équipés de deux moteurs d'une puissance propulsive inférieure à 750 kW chacun et permettant d'assurer la vitesse de sécurité du navire.
 
 Tableau V. - Titres permettant d'exercer des fonctions opérationnelles ou d'appui en matière d'électronique et d'électrotechnique à bord de navires de plus de 750 kW
 
