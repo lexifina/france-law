@@ -68,7 +68,7 @@ b) Liste des équipements et matériels pédagogiques : salles de cours équipé
 
 VI. ― Capacité de formation
 
-a) Nombre maximal d'étudiants à accueillir en première année de formation qui correspond à la capacité d'accueil agréée.
+a) Nombre maximal d'étudiants à accueillir qui correspond à la capacité d'accueil agréée.
 
 VII. ― Place dans le schéma régional
 
@@ -79,3 +79,7 @@ a) Place dans l'environnement territorial, au regard des besoins de la populatio
 b) Positionnement dans l'environnement économique et social de la région.
 
 c) Positionnement dans les démarches de partenariat et de réseaux interprofessionnels.
+
+NOTA :
+
+Conformément à l’article 16, I de arrêté du 4 novembre 2019, ces dispositions sont applicables à compter de la rentrée universitaire 2020.
