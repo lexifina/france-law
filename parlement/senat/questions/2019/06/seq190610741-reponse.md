@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190610741
+
+- Question : [SEQ190610741](seq190610741.md) — Application de la loi littoral en outre-mer
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-11-07, page 5648*
+
+Dans le respect du principe de libre accès à la plage consacré par la loi littoral du 3 janvier 1986, le public peut emprunter le sentier du littoral pour accéder à la mer et le long du rivage. Ce sentier désigne à la fois la servitude de passage des piétons sur les propriétés privées et le passage sur des domaines publics appartenant à l'État, aux collectivités territoriales ou au Conservatoire de l'espace littoral et des rivages lacustres. La servitude longitudinale au titre de l'article L. 121-31 du code de l'urbanisme s'applique de droit sans qu'il soit besoin de prendre des dispositions particulières. Son tracé peut être modifié ou suspendu à titre exceptionnel et dans les cas strictement définis par les articles R. 121-12 et R. 121-13 du code de l'urbanisme. Dans les Antilles où la majeure partie de la population se concentre sur les littoraux, la préservation d'un accès aux rivages, libre et gratuit, présente un enjeu social et environnemental majeur auquel le Gouvernement est très attaché. C'est pourquoi, face aux difficultés de cheminement qui peuvent se présenter, les services locaux de l'État veillent, en ayant parfois recours à des contraventions de grande voirie (article R. 121-32 du code de l'urbanisme), à faire cesser les occupations sans titre et à faire enlever les obstacles créés de manière illicite. Dans les autres cas où une modification ou une suspension du tracé est rendue nécessaire, ils s'attachent à mettre en œuvre, en collaboration avec les collectivités territoriales et d'autres acteurs du territoire, des solutions alternatives permettant de garantir l'accès aux rivages et à leurs paysages exceptionnels.
