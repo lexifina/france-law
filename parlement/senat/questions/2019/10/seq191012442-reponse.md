@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012442
+
+- Question : [SEQ191012442](seq191012442.md) — Fonds stratégique de la forêt et du bois
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-11-07, page 5620*
+
+Le fonds stratégique de la forêt et du bois (FSFB) a été créé par l'article 47 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014. Il est abondé essentiellement par des crédits de l'État provenant du programme 149 « Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture » mais également par la compensation défrichement et une partie de la taxe additionnelle à la taxe sur le foncier non bâti (TATFNB) ou « centimes forestiers ». Le FSFB soutient l'investissement forestier, l'animation territoriale et la recherche-développement. Parmi les mesures d'investissement, la desserte forestière constitue un enjeu majeur pour accéder aux massifs, exploiter le bois afin d'approvisionner l'aval de la filière, et contribuer à l'objectif de mobilisation de bois supplémentaire fixé par le programme national forêt bois 2016-2026. L'aide à la création de dessertes forestières s'adresse aux propriétaires forestiers privés et aux communes propriétaires. Pour être éligibles, les communes et les propriétaires privés doivent notamment respecter des conditions relatives à la gestion durable et à l'impact sur l'environnement. Les crédits provenant du budget de l'État sont répartis chaque année entre les régions, en fonction de la demande des directions régionales de l'alimentation, de l'agriculture et de la forêt. Le FSFB mobilise des cofinancements européens du fonds européen agricole pour le développement rural suivant les stratégies retenues par les conseils régionaux qui sont autorités de gestion. Les crédits issus de la compensation défrichement et de la TATFNB sont retournés à chaque région émettrice.
