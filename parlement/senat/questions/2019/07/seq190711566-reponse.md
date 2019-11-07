@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711566
+
+- Question : [SEQ190711566](seq190711566.md) — Suppression de services publics en zone rurale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-11-07, page 5624*
+
+Conformément au principe constitutionnel de libre administration, les collectivités locales sont libres du choix des investissements qu'elles réalisent et, le cas échéant, de solliciter des subventions à ce titre. Ce libre choix s'exerce, dans le cadre législatif et réglementaire en vigueur, au regard des moyens de chaque collectivité et de sa capacité à assumer les conséquences financières, souvent pluriannuelles, de tels investissements, a fortiori quand elles sont propriétaires de ces biens. D'ailleurs, certaines règles applicables à l'investissement local ont précisément pour objet de garantir la soutenabilité financière des projets d'équipement pour leur maître d'ouvrage. Si une commune est amenée à devoir réaliser des investissements pour changer la destination d'un bâtiment dont elle est propriétaire, il lui est alors pleinement possible de solliciter une subvention auprès des services préfectoraux. Le Gouvernement maintient, en 2019, ces dotations de soutien à un niveau historiquement élevé : la dotation d'équipement des territoires ruraux s'élève ainsi à 1 046 millions d'euros (contre 616 millions d'euros en 2014) et la dotation de soutien à l'investissement local, créée en 2016, a été pérennisée et s'élève à 570 millions d'euros. Le Gouvernement est particulièrement attentif à la présence des services publics sur le territoire. Notamment, il accorde la plus grande importance à ce que les évolutions des services publics, parfois évidemment nécessaires, soient réalisées dans le dialogue et la concertation avec les acteurs concernés et notamment les maires.
