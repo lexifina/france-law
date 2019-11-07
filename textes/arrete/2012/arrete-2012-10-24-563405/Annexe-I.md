@@ -394,7 +394,7 @@ ainsi que toute liaison exploitée en partage de codes :
 
 -soit avec une compagnie sud-coréenne entre un point du territoire français et un point du territoire japonais au-delà de Séoul (Corée du Sud) ;
 
--soit avec une compagnie chinoise entre un point du territoire français et un point du territoire japonais au-delà de Shanghai (Chine).
+-soit avec une compagnie chinoise entre un point du territoire français et un point du territoire japonais au-delà de Shanghai (Chine) ou au-delà de Pékin (Chine).
 
 Kazakhstan :
 
@@ -526,7 +526,7 @@ Paris-Mascate ;
 
 Ouganda :
 
-Paris-Entebbe ;
+Paris-Kampala ;
 
 Ouzbékistan :
 
@@ -766,6 +766,26 @@ Tunisie :
 
 Nantes-Tunis.
 
+Colombie :
+
+Paris-Carthagène ;
+
+Indonésie :
+
+Paris-Medan ;
+
+Iles Féroé :
+
+Paris-Vagar ;
+
+Japon :
+
+Paris-Okinawa ;
+
+Turquie :
+
+Nantes-Istanbul.
+
 3.2. De/ vers les Antilles et la Guyane
 
 Barbade :
@@ -777,6 +797,8 @@ Dominique :
 Pointe-à-Pitre-Marigot ;
 
 Saint-Martin-Marigot ;
+
+Fort-de-France-Roseau ;
 
 Etats-Unis :
 
