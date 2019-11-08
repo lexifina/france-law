@@ -24,7 +24,7 @@ Les tuteurs doivent attester :
 
 (1) Exigences préalables à l'entrée en formation
 
-(2) Exigences préalables à la mise en situation pédagogique
+(2) Exigences préalables à la mise en situation professionnelle
 
 (*) CSO : concours de saut d'obstacles
 

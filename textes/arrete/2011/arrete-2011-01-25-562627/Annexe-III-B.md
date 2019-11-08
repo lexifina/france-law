@@ -52,7 +52,7 @@ X |
 
 |
 
-Le candidat titulaire de l'attestation de réussite aux épreuves de la partie commune du brevet d'Etat d'éducateur sportif du deuxième degré option " équitation ". |
+Le candidat titulaire de l'attestation de réussite aux épreuves de la partie commune du brevet d'Etat d'éducateur sportif du deuxième degré. |
 
 |
 
