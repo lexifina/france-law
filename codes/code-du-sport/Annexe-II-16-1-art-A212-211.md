@@ -216,7 +216,7 @@ Exercices sous voilure :
 
 A l'issue du saut, le candidat doit être en capacité de décrire en français le déroulement de la sortie d'avion de chaque évaluateur, en utilisant les termes techniques appropriés.
 
-D.-Mention “ parachutisme ” du DE JEPS
+D.- Mention “ activités du parachutisme ” du DE JEPS
 
 L'épreuve d'aptitude vise à vérifier la capacité du candidat à encadrer en sécurité l'activité d'une école de parachutisme.
 
