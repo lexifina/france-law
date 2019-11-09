@@ -12,398 +12,156 @@ Néant.
 
 SÉCURITÉ ET DÉFENSE NATIONALE
 
-Code pénal
-
-1
-
-|
-
-Décisions d'autorisation relatives à la fabrication, l'importation, l'exposition, l'offre, la location ou la vente des appareils d'interception ou de détection à distance des conversations.
-
-|
-
-Article R. 226-3
-
-|
-
-2
-
-|
-
-Décisions d'autorisation relatives à l'acquisition ou la détention des appareils d'interception ou de détection à distance des conversations.
-
-|
-
-Article R. 226-7
-
-|
-
 Code de la défense
-
-1
-
-|
-
-Décisions portant admission aux sessions nationales de l'Institut des hautes études de la défense nationale.
-
-|
-
-Article R. 1132-15
-
-|
-
-Code de la défense
-
-1
-
-|
-
-Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
-
-|
-
-Article R. 2342-3
-
-|
-
-2
-
-|
-
-Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention.
-
-|
-
-Article R. 2342-3
-
-|
-
-3
-
-|
-
-Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention.
-
-|
-
-Article R. 2342-19
-
-|
-
-4
-
-|
-
-Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
-
-|
-
-Article R. 2342-19
-
-|
-
-5
-
-|
-
-Décisions imposant aux opérateurs d'importance vitale un contrôle de leurs systèmes d'information.
-
-|
-
-Article R. 1332-41-12
-
-|
-
-Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
-
-1
-
-|
-
-Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.
-
-|
-
--premier alinéa de l'article 8
-
-|
-
-2
-
-|
-
-Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.
-
-|
-
--premier alinéa de l'article 12 et deuxième alinéa de l'article 14
-
-|
-
-Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
-
-1
-
-|
-
-Délivrance, suspension et retrait de la qualification de produits de sécurité.
-
-|
-
-Article 9
-
-|
-
-2
-
-|
-
-Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance.
-
-|
-
-Premier alinéa de l'article 10 et article 13
-
-|
-
-3
-
-|
-
-Délivrance, suspension et retrait de la qualification de prestataires de services de confiance.
-
-|
-
-Second alinéa de l'article 19
-
-|
-
-Décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale :
-
-1
-
-|
-
-Délivrance, suspension et abrogation de la qualification des produits de sécurité.
-
-|
-
-Deuxième et troisième alinéas de l'article 7
-
-|
-
-2
-
-|
-
-Délivrance, suspension et abrogation de la qualification des prestataires de service de confiance.
-
-|
-
-Deuxième alinéa de l'article 14 et second alinéa de l'article 15
-
-|
-
-3
-
-|
-
-Délivrance, suspension et abrogation de l'agrément des centres d'évaluation.
-
-|
-
-Deuxième alinéa de l'article 19 et second alinéa de l'article 20
-
-|
-
-Décret n° 2018-384 du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique et pris pour l'application du titre Ier de la loi n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité :
 
 1 |
 
-Décisions de désignation et de fin de désignation des opérateurs de services essentiels |
+Décisions portant admission aux sessions nationales de l'Institut des hautes études de la défense nationale. |
 
-Articles 3 et 6 |
-
-2 |
-
-Décisions imposant aux opérateurs de services essentiels un contrôle |
-
-Article 13 |
-
-3 |
-
-Décisions imposant aux fournisseurs de service numérique d'informer le public d'un incident |
-
-Article 21 |
-
-4 |
-
-Décisions imposant aux fournisseurs de service numérique un contrôle |
-
-Article 22 |
-
-Titre II du livre III de la deuxième partie réglementaire du code de la défense :
-
-1 |
-
-Décisions relatives à l'autorisation d'accès au service public réglementé |
-
-Article R. 2323-2 |
+Article R. 1132-15 |
 
 2 |
 
-Décisions relatives à l'autorisation de développement et de fabrication en matière de service public réglementé |
+Décisions imposant aux opérateurs d'importance vitale un contrôle de leurs systèmes d'information. |
 
-Article R. 2323-2 |
+Article R. 1332-41-12 |
 
 3 |
 
-Décisions relatives à l'autorisation d'exportation en matière de service public réglementé |
+Décisions relatives aux autorisations préalables au transfert de matières nucléaires d'une activité soumise au contrôle de sécurité d'Euratom vers une activité non soumise à ce contrôle et inversement. |
 
-Article R. 2323-2 |
+Article R. 1333-26 |
 
 4 |
 
-Décisions relatives à l'agrément d'une communauté d'utilisateurs du service public réglementé |
+Décisions relatives à l'autorisation d'accès au service public réglementé. |
+
+Article R. 2323-2 |
+
+5 |
+
+Décisions relatives à l'autorisation de développement et de fabrication en matière de service public réglementé. |
+
+Article R. 2323-2 |
+
+6 |
+
+Décisions relatives à l'autorisation d'exportation en matière de service public réglementé. |
+
+Article R. 2323-2 |
+
+7 |
+
+Décisions relatives à l'agrément d'une communauté d'utilisateurs du service public réglementé. |
 
 Article R. 2323-6 |
 
-5 |
+8 |
 
 Modification, suspension et abrogation des agréments de communautés d'utilisateurs du service public réglementé |
 
 Article R. 2323-7 |
 
-6 |
+9 |
 
-Modification, suspension, abrogation et retrait des autorisations relatives au service public réglementé |
+Modification, suspension, abrogation et retrait des autorisations relatives au service public réglementé. |
 
 Article R. 2323-9 |
 
-Titre III du livre III de la deuxième partie réglementaire du code de la défense :
+10 |
 
-1
+Décisions relatives aux licences individuelles et globales d'exportation. |
 
-|
+Article R. 2335-11 |
 
-Décisions relatives aux licences individuelles et globales d'exportation
+11 |
 
-|
+Décisions relatives aux licences individuelles et globales de transfert. |
 
-Article R. 2335-11
+Article R. 2335-23 |
 
-|
+12 |
 
-2
+Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. |
 
-|
+Article R. 2335-43 |
 
-Décisions relatives aux licences individuelles et globales de transfert
+13 |
 
-|
+Modification, suspension, retrait et abrogation des licences individuelles ou globales d'exportation ou de transfert ainsi que des autorisations de transit de matériels de guerre. |
 
-Article R. 2335-23
+Articles R. 2335-15, R. 2335-27 et R. 2335-45 |
 
-|
+14 |
 
-3
+Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction. |
 
-|
+Article R. 2342-3 |
 
-Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
+15 |
 
-|
+Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention. |
 
-Article R. 2335-43
+Article R. 2342-3 |
 
-|
+16 |
 
-4
+Décisions d'autorisation d'exportation et de transfert intracommunautaire de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. |
 
-|
+Article R. 2342-20 |
 
-Modification, suspension, retrait et abrogation des licences individuelles ou globales d'exportation ou de transfert ainsi que des autorisations de transit de matériels de guerre.
+Loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales
 
-|
+1 |
 
-Articles R. 2335-15, R. 2335-27 et R. 2335-45
+Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale. |
 
-|
+Articles 23 à 25 |
+
+Décret n° 80-247 du 3 avril 1980 relatif aux activités d'études et de recherches dans le domaine de la fusion thermonucléaire par confinement inertiel
+
+1 |
+
+Décisions autorisant la réalisation d'études et recherches bénéficiant de façon directe ou indirecte d'une aide ou d'un financement publics dans le domaine de la fusion thermonucléaire par confinement inertiel. |
+
+Article 2, second alinéa |
+
+Décret n° 2018-384 du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique et pris pour l'application du titre Ier de la loi n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité
+
+1 |
+
+Décisions de désignation et de fin de désignation des opérateurs de services essentiels. |
+
+Articles 3 et 6 |
+
+2 |
+
+Décisions imposant aux opérateurs de services essentiels un contrôle. |
+
+Article 13 |
+
+3 |
+
+Décisions imposant aux fournisseurs de service numérique d'informer le public d'un incident. |
+
+Article 21 |
+
+4 |
+
+Décisions imposant aux fournisseurs de service numérique un contrôle. |
+
+Article 22 |
 
 DIVERS
 
-Code de l'urbanisme
+1 |
 
-1
-
-|
-
-Décisions relatives à l'agrément prévu par l'article R. 510-1 du code de l'urbanisme, prise sur recours du ministre intéressé à la suite d'un refus d'agrément opposé par le comité de décentralisation à une opération réalisée par un service de l'Etat ou une personne publique ou privée soumise à son contrôle.
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services du Premier ministre. |
 
 |
 
-Article R. 510-2 (1°), deuxième alinéa
+2 |
+
+Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services du Premier ministre. |
 
 |
-
-2
-
-|
-
-Décisions de nomination des membres et du président du comité de décentralisation.
-
-|
-
-Article R. 510-3 et A. 510-3
-
-|
-
-Code des marchés publics
-
-1
-
-|
-
-Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'article 50 du code des marchés publics.
-
-|
-
-Article 42
-
-|
-
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
-
-1
-
-|
-
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
-
-|
-
-Article 8
-
-|
-
-1
-
-|
-
-Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services du Premier ministre.
-
-|
-
-|
-
-2
-
-|
-
-Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services du Premier ministre.
-
-|
-
-|
-
-Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
