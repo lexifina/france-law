@@ -1,0 +1,51 @@
+# Modification de la loi sur l'application du cinquième alinéa, article 13 de la Constitution
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N37969
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/modification_loi_alinea5_article13_constitution
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-120.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-11-13 : 1er dépôt d'une initiative. (PRJLSNR5S339B0120)
+  - 2019-11-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-11-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2019-12-11 : Dépôt de rapport (RAPPSNR5S339B0194, PRJLSNR5S339BTC0195)
+  - Discussion en séance publique
+    - 2019-12-17 : Discussion en séance publique
+    - 2019-12-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2019-12-18 : Dépôt d'une initiative en navette (PRJLANR5L15B2535)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-12-18 : Renvoi en commission au fond
+      - 2019-12-11 : Nomination de rapporteur
+      - 2020-01-15 : Réunion de commission
+      - 2020-01-21 : Réunion de commission
+      - 2020-01-15 : Dépôt de rapport (RAPPANR5L15B2588, PRJLANR5L15BTC2588)
+  - Discussion en séance publique
+    - 2020-01-22 : Discussion en séance publique
+    - 2020-01-22 : Décision
+- Commission Mixte Paritaire
+  - 2020-01-23 : Dépôt d'un projet de loi (PRJLSNR5S339B0271)
+  - 2020-01-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-02-04 : Nomination de rapporteur
+    - 2020-02-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B2632, PRJLANR5L15BTC2632)
+    - 2020-02-04 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0294, PRJLSNR5S339BTC0295)
+  - Discussion en séance publique
+    - 2020-02-11 : Discussion en séance publique
+    - 2020-02-11 : Décision
+  - Discussion en séance publique
+    - 2020-02-26 : Décision
+  - 2020-02-05 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-02-28 : Saisine du conseil constitutionnel
+  - 2020-03-26 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-03-30 : Promulgation d'une loi
