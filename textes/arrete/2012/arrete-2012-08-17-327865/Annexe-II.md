@@ -94,4 +94,8 @@ Au-delà de 18 apprenants, en formation initiale comme en formation continue, un
 
 6. Conditions d'admission en formation
 
-Cette unité d'enseignement est accessible à toute personne majeure détenant un certificat de compétences de pédagogie appliquée à un emploi et à jour des dispositions réglementaires de maintien des acquis et de formation continue s'y rapportant.
+Cette unité d'enseignement est accessible à toute personne majeure détenant :
+
+-soit un certificat de compétences de pédagogie appliquée à un emploi et à jour des dispositions réglementaires de maintien des acquis et de formation continue s'y rapportant ;
+
+-soit l'attestation de pédagogie initiale et commune de formateur telle que définie par l'arrêté du 8 août 2012 pour les personnes exerçant des activités de formation dans le cadre des missions de sécurité civile faisant l'objet d'un agrément B ou C . Dans ce cas, la formation continue fait l'objet d'un dispositif propre à chaque organisme de formation lorsqu'il est prévu.
