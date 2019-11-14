@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107868
+
+- Question : [SEQ181107868](seq181107868.md) — Conditions de réunion des conseils consulaires
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2019-11-14, page 5722*
+
+Les conseils consulaires, créés par loi du 22 juillet 2013 qui a réformé la représentation des Français établis hors de France, et composés d'un à neuf conseillers consulaires élus au suffrage universel, participent sous la présidence de l'ambassadeur ou du consul général, à la mise en place des politiques conduites pour les Français de l'étranger (enseignement, aides sociales, emploi et formation professionnelle, sécurité, etc.). Concernant le délai de convocation des membres du conseil consulaire, une extension au-delà de vingt et un jours semble difficile. En effet, les postes doivent aussi organiser leur travail pour pouvoir mettre en place la réunion du conseil. Le délai de vingt et un jours semble le plus souvent suffisant ; il n'en reste pas moins qu'il est régulièrement rappelé aux postes diplomatiques et consulaires de veiller à fixer une date qui convienne à tous, en concertation avec les élus consulaires. Après enquête de l'Agence pour l'enseignement français à l'étranger (AEFE) auprès de plusieurs postes, il apparaît que les pratiques signalées, à savoir de ne pas mentionner les conseillers comme « excusés » quand ils le sont, ou la qualité de vice-président du conseil consulaire d'un membre élu, existent effectivement dans un certain nombre de conseils. Les instructions et formulaires à destination des postes pour la prochaine campagne de bourses seront en conséquence précisés sur ces points. Une case « excusé » sera insérée dans la feuille de présence et un modèle de procès-verbal mentionnant explicitement la qualité de vice-président du conseil consulaire au regard du nom du conseiller consulaire, sera mis à la disposition des postes, afin d'éviter toute confusion et d'harmoniser la présentation des procès-verbaux.
