@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012874
+
+- Question : [SEQ191012874](seq191012874.md) — Baisse des dépenses en biologie médicale
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-11-14, page 5737*
+
+Pour l'avenir de la biologie médicale française, il importe de concilier deux impératifs : la contrainte pesant sur les finances publiques et le maintien d'un haut niveau de performance du secteur en matière d'innovation et de service rendu au patient. Les protocoles d'accord pluriannuels signés depuis 2014 ont permis de répondre à ce double objectif. Un premier protocole couvrant la période 2014-2016 a ainsi fixé un taux de croissance de 0,25 % par an pour les dépenses de biologie en ville. Face au constat positif partagé par les partenaires, de stabilisation et de prévisibilité des dépenses, l'assurance maladie et les syndicats signataires ont souhaité prolonger ce protocole d'accord pour la période 2017-2019. Des négociations sont en cours entre l'assurance maladie et les partenaires syndicaux pour signer un nouveau protocole d'accord pour les années 2020-2022 sur des bases similaires, étant entendu que le Gouvernement est attaché à la préservation d'un modèle et d'un service de proximité et adapté à chaque territoire. À cet effet et dans le cadre du pacte de refondation des urgences, la ministre des solidarités et de la santé a pris, le 9 septembre 2019, des engagements sur le développement de la biologie délocalisée pour répondre aux enjeux d'innovation et de proximité du secteur. Les nouvelles technologies en nanomatériaux améliorent la sensibilité des tests et permettent une miniaturisation des plates-formes de diagnostic. Dans ce cadre, un desserrement des conditions de mise en œuvre de la biologie délocalisée, limitée à la pratique des examens simples et automatisés et placée sous la supervision des biologistes est pertinente. Il permettra d'apporter une réponse complémentaire aux enjeux de proximité et de réponse aux besoins urgents.
