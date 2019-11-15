@@ -12,6 +12,6 @@ Mobilier.
 
 Peinture (de chevalet et murale).
 
-Photographie.
+Photographie et image numérique.
 
 Sculpture.
