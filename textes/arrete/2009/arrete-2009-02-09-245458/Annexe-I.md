@@ -46,11 +46,15 @@ d) Certificat international pour automobiles : certificat en cours de validité 
 
 3.1. Certificats de conformité
 
+I.
+
 a) Document dit 3 en 1 (partie certificat de conformité) ;
 
 b) Certificat de conformité à un type national : certificat délivré par le constructeur ou son représentant accrédité en France, précédé de la notice descriptive du véhicule et du procès-verbal de réception par type établi par un service chargé des réceptions ;
 
 c) Certificat de conformité à un type CE : certificat conforme aux dispositions de la directive 70/156/ CEE ou 74/150/ CE ou 92/61/ CE ou 2002/24/ CE ou 2003/37/ CE ou 2007/46/ CE ou du règlement (UE) 167/2013 ou (UE) 168/2013 délivré par le constructeur, le cas échéant, dans une autre langue que le français.
+
+II. Sans préjudice des dispositions du I, le certificat de conformité à un type CE peut être délivré par le constructeur sous forme de données électroniques structurées suivant les dispositions prévues par le règlement (UE) 2018/858 relatif à la réception et à la surveillance du marché des véhicules à moteurs et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE.
 
 3.2. Autres certificats
 
