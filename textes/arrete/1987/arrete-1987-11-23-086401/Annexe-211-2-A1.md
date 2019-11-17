@@ -8,7 +8,7 @@ Une courbe des bras de levier de redressement sera établie pour chacun des cas 
 
 1. Chaque courbe sera établie en considérant comme fermées toutes les ouvertures pouvant être rendues étanches aux intempéries, exception faite de celles dont la position ouverte est nécessaire à l'exploitation du navire en pêche.
 
-2. L'entrepont de travail ne peut en aucun cas être considéré comme espace fermé, c'est-à-dire pris en compte comme volume soumis à la poussée hydrostatique dans les inclinaisons immergeant le livet du pont principal, lorsque les portes d'accès à cet entrepont sont ouvertes pour les besoins d'exploitation du navire en mer.
+2. L'entrepont de travail ou volume considéré comme exposé aux intempéries par l'autorité compétente du fait des caractéristiques de l'engin de pêche, ne peut en aucun cas être considéré comme espace fermé, c'est-à-dire pris en compte comme volume soumis à la poussée hydrostatique dans les inclinaisons immergeant le livet du pont principal, lorsque les portes d'accès à cet entrepont de travail sont ouvertes pour les besoins d'exploitation du navire en mer.
 
 3. Le panneau d'accès de la cale à poisson équipé d'un surbau de 600 mm ne devra en aucun cas permettre l'envahissement de la cale pour un angle de gîte inférieur à 40°.
 
