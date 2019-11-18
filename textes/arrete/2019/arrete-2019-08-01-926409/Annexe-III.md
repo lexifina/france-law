@@ -36,6 +36,8 @@ Brevet de technicien supérieur (BTS), obtenus dans les spécialités suivantes 
 
 - Techniques physiques pour l'industrie et le laboratoire.
 
+- Analyses de biologie médicale
+
 Diplômes universitaires de technologie (DUT) obtenus dans les spécialités suivantes :
 
 - Chimie
@@ -53,8 +55,6 @@ Diplômes universitaires de technologie (DUT) obtenus dans les spécialités sui
 - Hygiène, sécurité, environnement
 
 - Mesures physiques
-
-- Packaging, emballage et conditionnement
 
 - Qualité, logistique industrielle et organisation
 
