@@ -56,13 +56,13 @@ Le niveau de compétence attendu de l'opérateur de repérage relève a minima d
 
 1.4.1. Formation théorique : contenu et durée minimum
 
-Si l'opérateur de repérage est titulaire de la certification avec mention selon l'arrêté du 25 juillet 2016 définissant les critères de certification des compétences des personnes physiques opérateurs de repérages, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux dans les immeubles bâtis et les critères d'accréditation des organismes de certification :
+Si l'opérateur de repérage est titulaire de la certification avec mention selon l'arrêté du 8 novembre 2019 relatif aux compétences des personnes physiques opérateurs de repérage, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux, dans les immeubles bâtis :
 
 -un jour de formation sur les spécificités de la norme NF X 46-101 : janvier 2019 ;
 
 -deux jours de formation relative à l'architecture navale
 
-Si l'opérateur de repérage justifie d'une expérience d'au moins trois ans dans un poste technique relevant du domaine maritime ou fluvial, et conséquemment n'est pas titulaire de la certification avec mention selon l'arrêté du 25 juillet 2016 précité :
+Si l'opérateur de repérage justifie d'une expérience d'au moins trois ans dans un poste technique relevant du domaine maritime ou fluvial, et conséquemment n'est pas titulaire de la certification avec mention selon l'arrêté du 8 novembre 2019 précité :
 
 -trois jours de formation sur le cadre général réglementaire et normatif en matière d'amiante ;
 
@@ -107,3 +107,7 @@ A l'occasion de cette évaluation, l'opérateur de repérage démontre qu'il pos
 1.6. Validation de la formation
 
 L'organisme de formation délivre, à l'issue de la formation, une attestation de compétence établissant le succès du suivi de la formation.
+
+NOTA :
+
+Par décision no 436420 du 30 décembre 2021 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHS:2021:436420.20211230, l'arrêté du 8 novembre 2019 relatif aux compétences des personnes physiques opérateurs de repérage, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux, dans les immeubles bâtis (NOR : LOGL1923205A) est annulé.

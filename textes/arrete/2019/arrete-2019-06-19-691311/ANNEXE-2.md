@@ -6,7 +6,7 @@ I.-Exigences générales :
 
 Les opérateurs de repérage de l'amiante doivent satisfaire aux exigences de compétences suivantes :
 
--soit être titulaire de la certification avec mention selon l'arrêté du 25 juillet 2016 précité ;
+-soit être titulaire de la certification avec mention selon l'arrêté du 8 novembre 2019 précité ;
 
 -soit justifier d'une expérience d'au moins trois ans dans un poste technique relevant du domaine maritime ou fluvial ;
 
@@ -51,3 +51,7 @@ II.-A l'issue de la formation, l'opérateur de repérage doit être capable de :
 -choisir un laboratoire disposant de l'accréditation permettant de procéder à l'analyse des produits et matériaux contenant de l'amiante ;
 
 -disposer des compétences lui permettant de procéder à l'estimation de la quantité de matériaux et produits contenant de l'amiante selon les modalités définies par l'annexe I de l'arrêté du 19 décembre 2011 relatif au diagnostic portant sur la gestion des déchets issus de la démolition de catégories de bâtiments.
+
+NOTA :
+
+Par décision no 436420 du 30 décembre 2021 du Conseil d’Etat statuant au contentieux, ECLI:FR:CECHS:2021:436420.20211230, l'arrêté du 8 novembre 2019 relatif aux compétences des personnes physiques opérateurs de repérage, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux, dans les immeubles bâtis (NOR : LOGL1923205A) est annulé.
