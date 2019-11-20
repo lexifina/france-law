@@ -286,7 +286,7 @@ La taxe est perçue par modification présentée, qu'elle soit demandée ou noti
 
 |
 
-a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008 |
+a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008 |
 
 Quelle que soit la procédure : 2 500 € |
 
@@ -294,7 +294,9 @@ b) Pour les modifications de type II au sens du règlement précité, à l'excep
 
 Quelle que soit la procédure : 3 500 € |
 
-6° Toute demande de modification d'une autorisation de mise sur le marché sollicitée en application des articles R. 5121-41 et R. 5121-46 du code de la santé publique |
+6° Toute demande de modification d'une autorisation de mise sur le marché sollicitée en application des articles R. 5121-41 et R. 5121-46 du code de la santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un changement de nom ou d'adresse de l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.
+
+|
 
 Quelle que soit la procédure : 2 500 € |
 
@@ -378,7 +380,7 @@ La taxe est perçue par modification présentée, qu'elle soit demandée ou noti
 
 |
 
-a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008 |
+a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008 |
 
 2 500 € |
 
@@ -386,7 +388,9 @@ b) Pour les modifications de type II au sens du règlement précité, à l'excep
 
 3 500 € |
 
-7° Toute demande de modification d'une autorisation de mise sur le marché bénéficiant de la reconnaissance par au moins un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen mentionnée au 4° de l'article 1635 bis AE du code général des impôts, sollicitée en application des articles 61 (3) de la Directive 2001/83/ CE du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, R. 5121-41 et R. 5121-46 du code de la santé publique |
+7° Toute demande de modification d'une autorisation de mise sur le marché bénéficiant de la reconnaissance par au moins un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen mentionnée au 4° de l'article 1635 bis AE du code général des impôts, sollicitée en application des articles 61 (3) de la Directive 2001/83/ CE du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, R. 5121-41 et R. 5121-46 du code de la santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un changement de nom ou d'adresse de l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.
+
+|
 
 2 500 € |
 
