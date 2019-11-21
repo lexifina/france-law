@@ -12,9 +12,9 @@ Les entreprises versent obligatoirement à l'AFDAS les contributions dues en app
 
 Les partenaires sociaux de la branche recommandent aux entreprises, dans un souci de solidarité professionnelle et de promotion de nos secteurs et de nos professions, d'acquitter leur taxe d'apprentissage auprès de l'AFDAS au cas où il serait agréé au titre d'organisme collecteur de ladite taxe.
 
-1.4. Taux des contributions légales (hors intermittents du spectacle/IDS) par taille d'entreprise au titre de la formation professionnelle continue
+1.4. Taux des contributions légales (hors intermittents du spectacle/ IDS) par taille d'entreprise au titre de la formation professionnelle continue
 
-Toutes les entreprises qui en sont redevables versent obligatoirement à l'AFDAS la contribution légale de 1 % calculée, en application de l'article L. 6322-37 du code du travail, sur la masse salariale versée aux titulaires d'un contrat à durée déterminée (CDD), pour financer le congé individuel de formation (CIF) de cette catégorie de salariés.
+Toutes les entreprises qui en sont redevables versent obligatoirement a ̀ l'AFDAS la contribution légale de 1 % calculée, en application de l'article L. 6322-37 du code du travail, sur la masse salariale versée aux titulaires d'un contrat à durée déterminée (CDD), pour financer le congé individuel de formation (CIF) de cette catégorie de salariés.
 
 1.4.1. Entreprises occupant moins de 10 salariés (hors IDS)
 
@@ -72,19 +72,23 @@ Les entreprises occupant au moins 10 salariés doivent consacrer au financement 
 
 Dans le cadre de la promotion et du développement de la formation professionnelle dans son secteur et des actions qui en sont consécutives, les partenaires sociaux de la branche s'accordent sur le maintien d'une contribution conventionnelle qui est mutualisée au sein de l'AFDAS et qui concerne toutes les entreprises de la branche, quelle que soit leur taille.
 
-Cette contribution est exclusivement réservée au financement d'actions bénéficiant aux entreprises et aux salariés de la branche des loisirs, au sein de l'AFDAS, et reste entièrement acquise à la branche, et est gérée au sein d'une section professionnelle paritaire propre à la branche. Le conseil de gestion, après discussions avec la commission paritaire nationale emploi et formation (CPNEF), définira chaque année les actions financées prioritairement par cette contribution conventionnelle.
+Cette contribution est exclusivement réservée au financement d'actions bénéficiant aux entreprises et salariés de la branche des Loisirs, au sein de l'AFDAS, et reste entièrement acquise à la branche. Elle est gérée au sein d'une commission paritaire de gestion des contributions conventionnelles propre à la branche. La commission, après discussions avec la commission paritaire nationale emploi et formation (CPNEF), définira chaque année les actions financées prioritairement par cette contribution conventionnelle.
+
+Il sera demandé à l'OPCO un bilan statistique et qualitatif de l'utilisation de cette contribution.
 
 Par ailleurs, les partenaires sociaux se réservent la possibilité, par voie d'avenant, de revoir les règles d'affectation de cette contribution conventionnelle, suivant les orientations et priorités de formation professionnelle décidées au sein de la branche.
 
-1.5.1. Entreprises occupant moins de 10 salariés (hors IDS)
+À titre transitoire, le taux applicable pour les entreprises de moins de 11 salariés au titre des masses salariales versées en 2019 d'une part, et, éventuellement au titre des masses salariales versées en 2020 à défaut d'un accord ultérieur, s'appliquera comme suit :
 
-Les entreprises occupant moins de 10 salariés doivent consacrer au financement de la formation professionnelle une contribution conventionnelle de 0,35 % du montant des salaires versés aux salariés sous CDI et aux salariés sous CDD, répartie de la façon suivante :
+1.5.1. Entreprises occupant moins de 11 salariés (hors intermittents du spectacle)
 
-1. 0,10 % au titre du congé individuel de formation (CIF).
+Les entreprises occupant moins de 11 salariés doivent consacrer au financement de la formation professionnelle une contribution conventionnelle de 0,35 % du montant des salaires versés aux salariés sous CDI et aux salariés sous CDD, répartie de la façon suivante :
 
-2. 0,10 % au titre du plan de formation conventionnel.
+1.   0,20 % au titre du plan de développement des compétences conventionnel.
 
-3. 0,15 % au titre de la professionnalisation.
+2.   0,15 % au titre des formations en alternance (contrat d'apprentissage
+
+(2), contrat de professionnalisation, action de reconversion et promotion par l'alternance).
 
 1.5.2. Entreprises occupant au moins 10 salariés (hors IDS)
 
@@ -108,7 +112,7 @@ Le versement affecté au titre du plan de formation conventionnel est « collect
 
 1.6. Contributions volontaires
 
-Toutes les entreprises (– 10/+ 10) de la branche ont la possibilité, si elles le souhaitent, à titre individuel, d'effectuer un versement volontaire à l'AFDAS, au-delà de la contribution légale et de la contribution conventionnelle qui leur incombent.
+Toutes les entreprises (– 10/ + 10) de la branche ont la possibilité, si elles le souhaitent, à titre individuel, d'effectuer un versement volontaire à l'AFDAS, au-delà de la contribution légale et de la contribution conventionnelle qui leur incombent.
 
 Ces sommes ne sont pas mutualisées et sont totalement tenues à disposition de l'entreprise, minorées le cas échéant de frais de gestion de structure, et permettent la mise en œuvre d'un ensemble de services (conseils, appui technique, gestion, visites...) au profit de ladite entreprise par l'AFDAS.
 
@@ -117,3 +121,7 @@ Ces sommes ne sont pas mutualisées et sont totalement tenues à disposition de 
 Toutes les entreprises ayant atteint ou franchi le seuil de 10 salariés, qui relèvent de cet accord, versent à l'AFDAS les contributions dues au titre des entreprises de 10 salariés et plus (1 %), majorées, le cas échéant, de la part conventionnelle inscrite dans le présent accord de branche, et ce dès la première année d'atteinte de cet effectif.
 
 Aucun système d'exonération dû au passage du seuil n'est applicable dans le présent accord.
+
+(2) Les termes « contrats d'apprentissage » de l'article 1.5.1 sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 6332-1-2 du code du travail.
+
+(Arrêté du 15 février 2021 - art. 1)
