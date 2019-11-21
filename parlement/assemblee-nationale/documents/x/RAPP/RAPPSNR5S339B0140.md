@@ -1,0 +1,10 @@
+# rapport  sur le projet de loi de finances, adopté, par l'Assemblée nationale, pour 2020 (n°139).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport  sur le projet de loi de finances, adopté, par l'Assemblée nationale, pour 2020 (n°139).
+- Déposé le : 2019-11-21
+- Dossier : DLR5L15N37615
+- Auteurs : M. Albéric de Montgolfier (rapporteur), M. Patrice Joly (rapporteur), M. Vincent Delahaye (rapporteur), M. Rémi Féraud (rapporteur), M. Jacques Genest (rapporteur), M. Alain Houpert (rapporteur), M. Yannick Botrel (rapporteur), M. Yvon Collin (rapporteur), M. Jean-Claude Requier (rapporteur), M. Marc Laménie (rapporteur), M. Philippe Dallier (rapporteur), M. Bernard Delcros (rapporteur), M. Didier Rambaud (rapporteur), M. Vincent Éblé (rapporteur), M. Julien Bargeton (rapporteur), M. Dominique de Legge (rapporteur), M. Michel Canévet (rapporteur), M. Jean-François Husson (rapporteur), Mme Christine Lavarde (rapporteur), M. Vincent Capo-Canellas (rapporteur), Mme Frédérique Espagnac (rapporteur), M. Bernard Lalande (rapporteur), Mme Nathalie Goulet (rapporteur), M. Gérard Longuet (rapporteur), M. Claude Nougein (rapporteur), M. Thierry Carcenac (rapporteur), M. Sébastien Meurant (rapporteur), M. Jean Bizet (rapporteur), M. Antoine Lefèvre (rapporteur), M. Roger Karoutchi (rapporteur), M. Nuihau Laurey (rapporteur), M. Georges Patient (rapporteur), M. Victorin Lurel (rapporteur), M. Jérôme Bascher (rapporteur), M. Philippe Adnot (rapporteur), M. Jean-François Rapin (rapporteur), Mme Sylvie Vermeillet (rapporteur), M. Charles Guené (rapporteur), M. Claude Raynal (rapporteur), M. Pascal Savoldelli (rapporteur), M. Philippe Dominati (rapporteur), M. Jean-Marc Gabouty (rapporteur), M. Jean Pierre Vogel (rapporteur), M. Arnaud Bazin (rapporteur), M. Éric Bocquet (rapporteur), M. Éric Jeansannetas (rapporteur), M. Emmanuel Capus (rapporteur), Mme Sophie Taillé-Polian (rapporteur), Commission des finances
+- Identifiant : RAPPSNR5S339B0140
