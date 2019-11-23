@@ -6,15 +6,21 @@ Cotations nationales et régionales des agneaux de boucherie
 
 Semaine n° du au
 
-Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
+Prix entrée abattoir (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
 
 |
 
-COTATIONS RÉGIONALES
+|
+
+Cotations régionales
 
 |
 
-COTATIONS NATIONALES
+Cotations nationales
+
+|
+
+|
 
 |
 
@@ -82,7 +88,7 @@ Plus de 22 kg
 
 |
 
-2 (CIRE)
+2 (Ciré)
 
 |
 
@@ -170,7 +176,7 @@ O
 
 |
 
-3 (COUVERT)
+3 (Couvert)
 
 |
 
@@ -258,7 +264,7 @@ O
 
 |
 
-4 (GRAS)
+4 (Gras)
 
 |
 
@@ -345,219 +351,3 @@ O
 |
 
 |
-
-.
-
-Cotations nationales et régionales des brebis de boucherie
-
-Semaine n° du au
-
-Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
-
-|
-
-COTATIONS RÉGIONALES
-
-|
-
-COTATIONS NATIONALES
-
-|
-
-Bassin Nord
-
-|
-
-Bassin Sud
-
-|
-
-Etat d'engraissement
-
-|
-
-Conformation
-
-|
-
-Moins de 30 kg
-
-|
-
-Plus de 30 kg
-
-|
-
-Moins de 30 kg
-
-|
-
-Plus de 30 kg
-
-|
-
-Moins de 30 kg
-
-|
-
-Plus de 30 kg
-
-|
-
-2 (CIRE)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 (COUVERT)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-4 (GRAS)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.

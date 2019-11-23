@@ -1,24 +1,22 @@
 # Article Annexe I
 
-TYPOLOGIES D'OVINS POUR LESQUELLES LES OPÉRATEURS DU RÉSEAU
-
-VISÉS À L'ARTICLE 2 DU PRÉSENT ARRÊTÉ DOIVENT COMMUNIQUER LES INFORMATIONS
-
-Agneaux
+TYPOLOGIES D'OVINS POUR LESQUELLES LES OPÉRATEURS DU RÉSEAU VISÉS À L'ARTICLE 2 DU PRÉSENT ARRÊTÉ DOIVENT COMMUNIQUER LES INFORMATIONS
 
 |
 
-RELEVÉS DE PRIX |
+|
+
+Relevés de prix |
+
+|
+
+|
 
 13 à 16 kg |
 
-16 à 19 kg
+16 à 19 kg |
 
-|
-
-19 à 22 kg
-
-|
+19 à 22 kg |
 
 Plus de 22 kg |
 
@@ -26,349 +24,77 @@ Etat d'engraissement |
 
 Conformation |
 
-Prix moyen
-
-|
+Prix moyen |
 
 Effectif |
-
-Poids fiscal moyen
-
-|
-
-Prix moyen
-
-|
-
-Effectif
-
-|
 
 Poids fiscal moyen |
 
-Prix moyen
+Prix moyen |
 
-|
+Effectif |
 
-Effectif
-
-|
-
-Poids fiscal moyen
-
-|
+Poids fiscal moyen |
 
 Prix moyen |
 
 Effectif |
 
-Poids fiscal moyen
-
-|
-
-2 (CIRE)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 (COUVERT)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-4 (GRAS)
-
-|
-
-U
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-R
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-O
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Brebis
-
-|
-
-RELEVÉS DE PRIX |
-
-Moins de 30 kg |
-
-Plus de 30 kg |
-
-Etat d'engraissement |
-
-Conformation |
+Poids fiscal moyen |
 
 Prix moyen |
 
 Effectif |
 
-Poids fiscal moyen
+Poids fiscal moyen |
 
+2 (Ciré) |
+
+U |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 |
 
-Prix moyen
+R |
 
 |
 
-Effectif
+|
+
+|
 
 |
 
-Poids fiscal moyen
+|
 
 |
 
-2 (CIRE)
+|
 
 |
 
-U
+|
 
 |
 
@@ -376,6 +102,8 @@ U
 
 |
 
+O |
+
 |
 
 |
@@ -384,7 +112,7 @@ U
 
 |
 
-R
+|
 
 |
 
@@ -399,8 +127,10 @@ R
 |
 
 |
+
+3 (Couvert) |
 
-O
+U |
 
 |
 
@@ -416,14 +146,18 @@ O
 
 |
 
-3 (COUVERT)
+|
+
+|
 
 |
 
-U
+|
 
 |
 
+R |
+
 |
 
 |
@@ -436,7 +170,7 @@ U
 
 |
 
-R
+|
 
 |
 
@@ -448,11 +182,13 @@ R
 
 |
 
+O |
+
 |
 
 |
 
-O
+|
 
 |
 
@@ -468,12 +204,16 @@ O
 
 |
 
-4 (GRAS)
+|
 
 |
 
-U
+4 (Gras) |
 
+U |
+
+|
+
 |
 
 |
@@ -488,13 +228,15 @@ U
 
 |
 
-R
+|
 
 |
 
 |
 
 |
+
+R |
 
 |
 
@@ -504,7 +246,7 @@ R
 
 |
 
-O
+|
 
 |
 
@@ -519,3 +261,5 @@ O
 |
 
 |
+
+O |

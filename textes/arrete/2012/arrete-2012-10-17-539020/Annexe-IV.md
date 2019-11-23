@@ -10,7 +10,7 @@ Prix global d'achat : prix global réellement payé au fournisseur. Le cas éch�
 
 Grille d'individualisation des prix : c'est l'outil qui permet à l'opérateur d'individualiser les prix des animaux par typologie. Il s'agit :
 
--de la grille commerciale interne à l'entreprise pour la semaine S, lorsqu'une telle grille existe à des fins d'achat d'animaux à la tête par l'opérateur. Cette grille doit être complète, c'est-à-dire comprendre un prix différencié pour chacune des 36 typologies pour les agneaux et des 18 typologies pour les brebis prévues par la grille figurant à l'annexe I de l'arrêté du 19 décembre 2013 modifiant l'arrêté du 17 octobre 2012 fixant les modalités d'établissement des cotations pour le marché des ovins entrée abattoir ;
+-de la grille commerciale interne à l'entreprise pour la semaine S, lorsqu'une telle grille existe à des fins d'achat d'animaux à la tête par l'opérateur. Cette grille doit être complète, c'est-à-dire comprendre un prix différencié pour chacune des 36 typologies d'ovins de moins de douze mois prévues par la grille figurant à l'annexe I du présent arrêté.
 
 -à défaut d'une grille commerciale interne, de la grille de cotation nationale publiée par FranceAgriMer pour la semaine S-1.
 
