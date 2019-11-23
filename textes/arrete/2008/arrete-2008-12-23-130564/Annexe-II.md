@@ -236,9 +236,9 @@ Chef de garage |
 
 28 |
 
-Préfecture d'Eure-et-Loir |
+Préfecture de l'Eure-et-Loir |
 
-Chef de cuisine |
+Chef de garage |
 
 1 |
 
@@ -255,14 +255,6 @@ Chef de l'équipe du service intérieur |
 Préfecture du Finistère |
 
 Maître d'hôtel de la résidence du préfet |
-
-1 |
-
-29 |
-
-Préfecture du Finistère |
-
-Chef du garage |
 
 1 |
 
@@ -294,7 +286,7 @@ Chef de l'équipe du service intérieur |
 
 Préfecture de la Gironde |
 
-Chef de l'équipe du service de sécurité incendie |
+Adjoint au chef du service technique commun |
 
 1 |
 
@@ -442,6 +434,14 @@ Chef de cuisine |
 
 1 |
 
+49 |
+
+Préfecture du Maine-et-Loire |
+
+Adjoint au chef du bureau logistique et courrier |
+
+1 |
+
 50 |
 
 Préfecture de la Manche |
@@ -486,7 +486,7 @@ Maître d'hôtel de la résidence du préfet |
 
 Préfecture de la Meuse |
 
-Chef du garage |
+Adjoint au chef du service intérieur |
 
 1 |
 
@@ -566,7 +566,7 @@ Chef du garage |
 
 Préfecture de l'Orne |
 
-Responsable de la section jardins |
+Responsable de la section courrier-reprographie-accueil |
 
 1 |
 
@@ -902,7 +902,7 @@ Chef d'atelier |
 
 Préfecture de la Seine-Saint-Denis |
 
-Chef de l'atelier reprographie |
+Adjoint au chef de l'atelier technique |
 
 1 |
 

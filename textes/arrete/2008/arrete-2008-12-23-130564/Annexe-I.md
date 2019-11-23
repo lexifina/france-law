@@ -54,7 +54,7 @@ Chef du garage |
 
 Préfecture de la Gironde |
 
-Chef de l'équipe logistique |
+Chef de cuisine |
 
 1 |
 
@@ -262,7 +262,7 @@ Adjoint opérationnel au responsable du magasin |
 
 Zone de défense et de sécurité IDF/ Préfecture de police/ DOSTL/ atelier nord |
 
-Coordinateur des équipes carrosserie-peinture-sellerie |
+Chef de la cellule accueil contentieux volant |
 
 1 |
 
@@ -310,7 +310,7 @@ d'emplois
 
 Direction de la sécurité civile/ ESOL Sud |
 
-Gestionnaire logistique |
+Adjoint au responsable du service approvisionnements |
 
 1 |
 
