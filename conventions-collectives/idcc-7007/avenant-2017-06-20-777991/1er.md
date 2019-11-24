@@ -42,6 +42,10 @@ Catégorie “ ouvriers et employés ” au-delà du coefficient 128
 
 Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale.
 
+Catégorie techniciens agents de maîtrise :
+
+Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale.
+
 1.4. Modalités de renouvellement
 
 Le renouvellement se fera dans les conditions suivantes :
