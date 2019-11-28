@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190208764
+
+- Question : [SEQ190208764](seq190208764.md) — Suppression d'emplois au sein de la direction générale des finances publiques dans les territoires
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-11-28, page 5910*
+
+La démarche de construction du nouveau réseau de proximité des finances publiques initiée par le ministre de l'action publique et des comptes public le 6 juin 2019 a vocation à augmenter d'au moins 30 % le nombre de points de contact entre la DGFiP et les usagers, qu'il s'agisse des particuliers, des entreprises, des hôpitaux ou des collectivités territoriales. La finalité n'est en aucun cas de fermer des services publics, de même qu'en aucun cas, il n'est prévu de maintenir un unique service des impôts des entreprises dans chaque département. Cette démarche vise à rompre avec les pratiques précédentes, où les évolutions ne consistaient qu'en des fermetures de services publics, décidées annuellement, le plus souvent depuis Paris, sans visibilité territoriale d'ensemble et sans que les élus, la population et les agents ne soient véritablement associés, ni même parfois bien informés en amont. Il s'agit donc de dépasser la forme traditionnelle de présence de la DGFiP (un immeuble pour la seule DGFiP, des plages d'ouverture au public « standard » et sans rendez-vous), pour offrir aux usagers particuliers un service adapté : ces accueils de proximité doivent couvrir l'ensemble des bassins de vie, et en tout état de cause être plus nombreux que les points de présence actuels ; le service doit être rendu dans les périodes où cela est utile, et de préférence sur rendez-vous, pour éviter les pertes de temps des uns et des autres : l'usager est reçu à l'heure dite sans attendre et pour un entretien préparé à l'avance ce qui lui évite de devoir renouveler sa démarche.
