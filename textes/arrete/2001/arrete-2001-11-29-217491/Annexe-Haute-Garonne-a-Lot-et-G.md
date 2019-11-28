@@ -560,59 +560,45 @@ A
 
 Direction départementale de l'équipement et de l'agriculture (2) de la Loire
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre d'emplois |
 
-de qualification de l'emploi
+Nombre de points (IM) par emploi |
 
-|
+Date d'effet |
 
-NOMBRE
+Adjoint au chef du service habitat en charge de la cellule rénovation urbaine |
 
-d'emplois
+A |
 
-|
+1 |
 
-NOMBRE DE POINTS (IM)
+50 |
 
-par emploi
+01/03/2019 |
 
-|
+Adjoint au responsable de la cellule rénovation urbaine-service habitat |
 
-Chef de la cellule économique et politique de la ville
+B |
 
-|
+1 |
 
-A
+30 |
 
-|
+01/01/2013 |
 
-1
+Chargé d'opérations rénovation urbaine en charge de la gestion financière-cellule rénovation urbaine-service habitat |
 
-|
+B |
 
-50 points
+1 |
 
-|
+30 |
 
-Chargé de mission politique de la ville
-
-|
-
-B
-
-|
-
-2
-
-|
-
-30 points
-
-|
+01/01/2019 |
 
 Direction départementale de l'équipement et de l'agriculture (2) de la Loire-Atlantique
 
