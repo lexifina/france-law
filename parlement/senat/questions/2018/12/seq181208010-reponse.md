@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181208010
+
+- Question : [SEQ181208010](seq181208010.md) — Amélioration de la sécurité des vélos vis-à-vis des poids lourds
+
+## Réponse
+
+*Transports (M. le SE auprès de la ministre), JO du 2019-11-28, page 5946*
+
+Les équipements spécifiques de détection et d'avertissement de la présence d'usagers vulnérables sur les poids lourds permettent effectivement de réduire le nombre d'accidents. Dans ce même but, le règlement européen dit GSR2 relatif à la sécurité générale des véhicules, qui devrait être publié sous peu, prévoit l'installation obligatoire sur les véhicules lourds de dispositifs avancés de détection d'angles morts pour les nouveaux types de véhicules à partir de 2022 et à partir de 2024 pour les véhicules neufs dont le modèle est déjà homologué. Ce règlement s'applique ainsi uniquement aux véhicules neufs. Ces systèmes avancés devront être capables de détecter des piétons et des cyclistes se trouvant à proximité immédiate de l'avant ou du côté droit du véhicule et d'avertir de leur présence ou d'éviter une collision avec ces usagers vulnérables de la route. Les parlementaires ont introduit dans la loi d'orientation des mobilités, en cours de discussion, un article qui prévoit qu'à compter du 1er juillet 2020, les véhicules de plus de 3,5 tonnes seront équipés d'une signalisation matérialisant la position des angles morts apposée sur le véhicule. Cette signalisation sera apposée selon des modalités adaptées pour une visibilité la plus grande possible, en particulier pour les cyclistes, les piétons et les utilisateurs d'engins de déplacement personnels. Le non-respect de cette obligation sera puni d'une amende, fixée par décret. Cette disposition est une réponse concrète pour améliorer la sécurité des cyclistes. Elle doit être confirmée par le vote de la loi.
