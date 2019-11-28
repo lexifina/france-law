@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012742
+
+- Question : [SEQ191012742](seq191012742.md) — Nécessaire simplification de l'article L. 52-11 du code électoral
+
+## Réponse
+
+*Intérieur, JO du 2019-11-28, page 5936*
+
+La décision de la Cour de cassation n° 1997 du 1er octobre 2019 (n° 18-86 428) ne conclut pas à l'illégalité manifeste du décret n° 2009-1730 du 30 décembre 2009 portant majoration du plafond des dépenses électorales, pris en application du dernier alinéa de l'article L. 52-11 du code électoral. En effet, lorsque dans sa décision, la Cour de cassation évoque l'illégalité manifeste dudit décret, elle se borne à reprendre les moyens invoqués par les parties. Ni dans ses conclusions ni dans son dispositif, la Cour ne remet en cause la légalité du décret évoqué. En outre, le dernier alinéa de l'article L. 52-11 gèle, à partir de 2012 et jusqu'à ce que le déficit public des administrations publiques soit nul, l'actualisation des plafonds de dépenses électorales. Il interdit donc déjà le principe d'une revalorisation par voie réglementaire du plafond des dépenses tant qu'il existe un déficit budgétaire. Le décret du 30 décembre 2009 revalorisant le plafond des dépenses par un coefficient de 1,23 est intervenu avant la disposition introduite par la loi n° 2011-1977 du 28 décembre 2011 qui n'a pas entendu remettre en cause cette dernière actualisation. Compte tenu du grand nombre d'élections auxquelles s'applique l'article L. 52-11, une actualisation des termes du tableau inclus dans cet article impliquerait par cohérence une révision périodique de tous les plafonds de dépenses électorales, y compris, le cas échéant, celui de l'élection présidentielle, qui ne peut être modifié que par une loi organique. En conséquence, la modification demandée de l'article L. 52-11 du code électoral n'apparaît pas requise.
