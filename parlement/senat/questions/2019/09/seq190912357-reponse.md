@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912357
+
+- Question : [SEQ190912357](seq190912357.md) — Absence de ministre ou de secrétaire d'État chargé des anciens combattants
+
+## Réponse
+
+*Armées (Mme la SE auprès de la ministre), JO du 2019-11-28, page 5929*
+
+Par décret du 21 juin 2017 relatif à la composition du Gouvernement, le Président de la République a, sur proposition du Premier ministre, nommé Madame Geneviève Darrieussecq secrétaire d'État auprès de la ministre des armées. Conformément au décret n° 2017-1150 du 10 juillet 2017, la secrétaire d'État connaît de toutes les affaires que lui confie la ministre des armées. À ce titre, elle a notamment la responsabilité des questions relatives aux anciens combattants, aux victimes de guerre et aux rapatriés. Elle pilote également la politique mémorielle, ainsi que la préparation et la mise en œuvre des mesures témoignant de la reconnaissance de la Nation envers les personnes affectées par la guerre et les opérations extérieures. Dans ce cadre, sa mission consiste à proposer des évolutions concernant les dispositifs de soutien en faveur des anciens combattants. La secrétaire d'État est en outre chargée de la tutelle de l'Office national des anciens combattants et victimes de guerre dont elle préside le conseil d'administration. Il est également précisé que les programmes 167 « Liens entre la Nation et son armée » et 169 « Reconnaissance et réparation en faveur du monde combattant », relevant de la mission interministérielle « Anciens combattants, mémoire et liens avec la Nation », sont placés sous la responsabilité de la secrétaire d'État auprès de la ministre des armées. En conséquence, les missions actuelles de la secrétaire d'État au sein du Gouvernement ne traduisent aucun rétrécissement de ses attributions par rapport à celles dévolues à ses prédécesseurs.
