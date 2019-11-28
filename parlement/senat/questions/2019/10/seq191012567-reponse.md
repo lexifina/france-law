@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012567
+
+- Question : [SEQ191012567](seq191012567.md) — Moyens juridiques pour endiguer la propagation de flavescence dorée sur les propriétés privées abandonnées
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-11-28, page 5926*
+
+La flavescence dorée est un organisme nuisible à la vigne, classé organisme de quarantaine au niveau européen et danger sanitaire de première catégorie par l'arrêté du 15 décembre 2014. La lutte contre cet organisme nuisible est réglementée par l'arrêté du 19 décembre 2013, qui impose, entre autres, une lutte obligatoire contre l'insecte vecteur dans toutes les vignes situées en périmètre de lutte (article 4 de l'arrêté du 19 décembre 2013). Cette lutte doit être mise en œuvre par les propriétaires ou détenteurs de vigne et respecter les prescriptions diffusées par la direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) du lieu considéré (article 13 de l'arrêté du 19 décembre 2013). En cas de refus du propriétaire ou de l'exploitant d'effectuer ces mesures de lutte dans les délais prescrits, un agent habilité prend les mesures nécessaires à leur exécution en vertu de l'article L. 251-10 du code rural et de la pêche maritime. Une notification de cette exécution d'office est préalablement adressée aux intéressés par le service régional de l'alimentation de la DRAAF, avec copie au préfet de département et au maire de la commune des territoires sur lesquels les opérations doivent avoir lieu. Les dépenses inhérentes à leur application sont à la charge des exploitants ou propriétaires. Dans tous les cas, la problématique des vignes non cultivées et/ou abandonnées devrait, en tout premier lieu, faire l'objet d'une médiation entre acteurs locaux, afin de rechercher une solution amiable. La procédure d'exécution d'office ne devrait être envisagée qu'en dernier recours, en cas d'échec de la médiation.
