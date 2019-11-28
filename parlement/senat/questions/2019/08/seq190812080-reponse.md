@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190812080
+
+- Question : [SEQ190812080](seq190812080.md) — Transparence du mode de calcul de l'indice de parité de pouvoir d'achat
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2019-11-28, page 5932*
+
+L'indice de parité de pouvoir d'achat (IPPA) est calculé à partir de données objectives fournies pour chaque poste par l'agence Mercer Consulting : un indice coût vie, calculé sur la base d'un indice de 100 pour Paris et portant sur un panier de consommation et des services, ainsi qu'un tableau des coûts moyens des logements de différentes catégories, par localisation. Le coût du logement est comparé à celui de Paris pour le ramener à un autre indice de base 100. L'IPPA final est constitué de 70 % de l'indice coût vie et de 30 % de l'indice coût logement, chacun pondéré par le taux de chancellerie entre l'euro et la monnaie locale. Il convient de noter que, si l'Agence pour l'enseignement français à l'étranger (AEFE) transmet les IPPA aux différents postes diplomatiques et consulaires, celui-ci est calculé au sein du ministère de l'Europe et des affaires étrangères (MEAE). Les données utilisées dans le calcul de cet indice sont acquises par le ministère de l'Europe et des affaires étrangères dans le cadre d'un marché avec Mercer Consulting ; le ministère n'en est pas propriétaire. Plus précisément, le contrat entre les deux parties stipule que « le Titulaire (le MEAE) s'engage pour lui ou toute autre personne agissant pour son compte à tenir confidentielle toute information expressément prévue au présent accord-cadre et à ne faire, dans les mêmes conditions, aucune révélation sur les missions qui lui sont confiées. » Pour ces raisons tenant au contrat qui lie le MEAE au prestataire, une publication sur le site de l'AEFE, ou sur tout site internet consultable par le public, des indices IPPA et des chiffres les composant n'est pas envisageable.
