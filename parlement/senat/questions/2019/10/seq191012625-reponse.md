@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012625
+
+- Question : [SEQ191012625](seq191012625.md) — Liste des autorités par pays qui acceptent de remplir les certificats de vie
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2019-11-28, page 5933*
+
+La direction des Français à l'étranger et de l'administration consulaire (DFAE) confirme qu'une liste des autorités locales habilitées à délivrer des certificats de vie pouvant être reconnues par les caisses françaises a été établie conjointement par le réseau diplomatique et consulaire et la direction de la sécurité sociale (DSS). Pour mémoire, cette liste évolue constamment pour tenir compte des remontées concrètes de tous les acteurs impliqués dans l'administration des Français de l'étranger, qu'ils soient institutionnels ou associatifs. Aussi elle n'est pas diffusée en tant que telle. En revanche, chaque poste a été destinataire des informations le concernant et a été invité à faire figurer ces informations sur son site internet en indiquant la liste des autorités locales compétentes. Cette instruction va par ailleurs être rappelée à tous les postes lors de l'envoi des instructions de rentrée. La DSS a prévu d'en faire une mise à jour annuelle. Si, dans le cadre de leur mandat, les élus des Français de l'étranger venaient à identifier une autorité locale compétente en matière de délivrance ou de visa de certificats de vie autre que celles déjà indiquées par les postes consulaires, la DFAE les invite à la lui signaler, afin qu'elle puisse être prise en compte lors de la mise à jour des instructions. Par ailleurs, il est utile de préciser que l'Assurance Retraite (https://www.lassuranceretraite.fr/, site de la sécurité sociale sur la retraite) met à la disposition des usagers une carte géographique interactive, détaillant par pays les autorités locales habilitées à délivrer des certificats de vie à la rubrique « Ma retraite à l'étranger » de son site internet.
