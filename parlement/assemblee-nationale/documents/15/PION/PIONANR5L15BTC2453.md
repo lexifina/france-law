@@ -1,0 +1,12 @@
+# proposition de loi la commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion de la proposition de loi visant à agir contre les violences au sein de la famille.
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Statut : ADOPTCOM
+- Titre court : Agir contre les violences au sein de la famille
+- Déposé le : 2019-11-28
+- Dossier : DLR5L15N37702
+- Auteurs : M. Aurélien Pradié (rapporteur), Mme Marie Mercier (rapporteur), Commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion de la proposition de loi visant à agir contre les violences au sein de la famille
+- Identifiant : PIONANR5L15BTC2453
+- Législature : 15
