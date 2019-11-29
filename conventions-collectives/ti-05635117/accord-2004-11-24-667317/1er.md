@@ -1,15 +1,19 @@
 # Article 1er
 
-Le fonds professionnel pour l'emploi dans le travail temporaire a pour objet :
+Le fonds professionnel pour l'emploi dans le travail temporaire (FPE-TT) est un organisme paritaire ayant pour objet :
 
-- de renforcer les moyens des entreprises de travail temporaire en faveur d'actions, notamment de formation, qu'elles relèvent ou non du livre IX du code du travail, et toutes autres actions en lien avec l'emploi de type passage d'habilitation, accompagnement dans des démarches de certification de validation des acquis et de l'expérience (VAE) ou autres ;
+– de contribuer au maintien de l'employabilité des salariés intérimaires en contrat de mission et en contrat à durée indéterminée ;
 
-- de compléter les aides à la formation dans le cadre des contrats et périodes de professionnalisation et des contrats spécifiques du travail temporaire mis en place dans le cadre de l'article L. 981-4 du code du travail ;
+– de contribuer à l'organisation des parcours et des évolutions professionnelles des salariés intérimaires en contrat de mission et en contrat à durée indéterminée ;
 
-- d'aider les entreprises de travail temporaire à proposer des missions aux salariés rencontrant des difficultés d'insertion dans le marché du travail, notamment les travailleurs handicapés et les bénéficiaires du revenu minimum d'insertion (RMI) et de l'allocation spécifique de solidarité (ASS) ;
+– de renforcer les moyens financiers des ETT/ETTI en faveur de tout type d'actions en lien avec :
 
-- de développer, notamment en ce qui concerne les demandeurs d'emploi, des partenariats pour l'insertion à l'emploi par l'intérim ;
+–– le développement des compétences dans le cadre notamment des contrats d'alternance (contrats de professionnalisation et contrats d'apprentissage) et des contrats spécifiques (CIPI et CDPI) ;
 
-- de disposer de moyens pour financer des études permettant à la profession de disposer d'informations relatives à l'emploi dans la branche.
+–– l'accès à l'emploi ;
 
-Les actions de formation réalisées dans les entreprises utilisatrices, en dehors du cadre prévu par l'accord du 8 juin 2000 relatif à la mise en place d'actions de formation professionnelle dans les entreprises utilisatrices, ne peuvent pas être financées par le FPE-TT.
+–– le maintien dans l'emploi ;
+
+– de gérer le financement conventionnel supplémentaire dédié aux salariés intérimaires en contrat à durée indéterminée ;
+
+– de financer des études permettant aux partenaires sociaux de la branche de disposer d'informations relatives à l'emploi.
