@@ -42,17 +42,11 @@ Sables naturels de toute espèce, même colorés, à l'exclusion des sables mét
 
 |
 
-25-13-11
+25-13-10
 
 |
 
 Pierre ponce.
-
-|
-
-25-13-19
-
-|
 
 |
 
@@ -104,14 +98,6 @@ Oxyde de zinc.
 
 |
 
-28-24-20
-
-|
-
-Minium et mine orange.
-
-|
-
 Chapitre 31
 
 |
@@ -133,20 +119,6 @@ Tous produits de cette position.
 |
 
 Tous produits de ces positions.
-
-|
-
-32-12-90-11
-
-|
-
-Tous produits de ces positions.
-
-|
-
-32-12-90-19
-
-|
 
 |
 
@@ -203,14 +175,6 @@ Ex 39-25
 |
 
 Articles d'équipement pour la construction en matières plastiques, non dénommés ni compris ailleurs (éléments fixes uniquement).
-
-|
-
-40-11
-
-|
-
-Chambres à air et pneumatiques, pour véhicules à traction animale.
 
 |
 
@@ -290,7 +254,7 @@ Bois marquetés et bois incrustés.
 
 |
 
-Ex 44-21-90
+Ex-44-21-91
 
 |
 
@@ -351,14 +315,6 @@ Chappes d'étanchéité du numéro ci-contre.
 |
 
 Tous produits de ces positions.
-
-|
-
-68-12-90
-
-|
-
-Carreaux de revêtement à base d'amiante.
 
 |
 
@@ -634,21 +590,9 @@ Autres ouvrages en aluminium, autres.
 
 |
 
-Ex 78-03
+Ex-78-06 |
 
-|
-
-Barres creuses en plomb.
-
-|
-
-78-05
-
-|
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en plomb.
-
-|
+Autres ouvrages en plomb (barres creuses, tubes, tuyaux et accessoires de tuyauterie uniquement) |
 
 Ex 79-04
 
@@ -666,21 +610,9 @@ Tôles, feuilles et bandes en zinc pour la construction.
 
 |
 
-79-06
+Ex-79-07 |
 
-|
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en zinc.
-
-|
-
-79-07-10
-
-|
-
-Gouttières, faîtages, lucarnes et autres ouvrages façonnés, en zinc pour le bâtiment.
-
-|
+Autres ouvrages en zinc (tubes, tuyaux et accessoires de tuyauterie, gouttières, faîtages, lucarnes et autres ouvrages façonnés pour le bâtiment uniquement) |
 
 Ex 79-07-90
 
@@ -698,13 +630,9 @@ Barres creuses en étain.
 
 |
 
-80-06
+Ex-80-07 |
 
-|
-
-Tubes, tuyaux et accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en étain.
-
-|
+Autres ouvrages en étain (tubes, tuyaux et accessoires de tuyauterie uniquement) |
 
 82-07-13
 
@@ -1088,7 +1016,7 @@ Tous produits de cette position.
 
 |
 
-85-07 à 85-08
+85-07
 
 |
 
@@ -1104,17 +1032,15 @@ Tous produits de ces positions.
 
 |
 
-85-25-10
+85-17-12 |
+
+Téléphones pour réseaux cellulaires et autres réseaux sans fil. |
+
+85-25-50
 
 |
 
 Appareils d'émission pour la radiotéléphonie, la radiotélégraphie, la radiodiffusion ou la télévision, même incorporant un appareil de réception ou un appareil d'enregistrement ou de reproduction du son.
-
-|
-
-85-25-20
-
-|
 
 |
 
@@ -1366,7 +1292,7 @@ Autres sièges en pierre.
 
 |
 
-Ex 94-03-80
+Ex 94-03-89
 
 |
 
