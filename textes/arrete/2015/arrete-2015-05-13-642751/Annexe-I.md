@@ -10,17 +10,11 @@ Nom : Prénom :
 
 Diplômes obtenus :
 
-DIPLÔMES/TITRES/ATTESTATIONS
+DIPLÔMES/TITRES/ATTESTATIONS |
 
-|
+DATE D'OBTENTION |
 
-DATE D'OBTENTION
-
-|
-
-MENTION
-
-|
+MENTION |
 
 |
 
@@ -42,17 +36,11 @@ MENTION
 
 Formation/stage :
 
-INTITULÉ
+INTITULÉ |
 
-|
+ORGANISME |
 
-ORGANISME
-
-|
-
-PÉRIODE
-
-|
+PÉRIODE |
 
 |
 
@@ -74,17 +62,11 @@ PÉRIODE
 
 Expérience professionnelle :
 
-PÉRIODE
+PÉRIODE |
 
-|
+EMPLOYEUR |
 
-EMPLOYEUR
-
-|
-
-ACTIVITÉ(S)
-
-|
+ACTIVITÉ(S) |
 
 |
 
@@ -109,3 +91,7 @@ Renseignements complémentaires (travaux de recherche, responsabilités associat
 Principales compétences développées :
 
 Motivations pour la carrière d'administrateur de l'INSEE (1 page maximum) :
+
+Pour les candidats titulaires d'un doctorat (domaine de la thèse présentée, résumé de la thèse et listes des articles publiés pendant la thèse ou postérieurement en lien avec la thèse)
+
+(2 pages maximum)
