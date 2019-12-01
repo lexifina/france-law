@@ -2,7 +2,7 @@
 
 1. Contrat de travail
 
-Conformément aux dispositions de l'article L. 3123-14 du code du travail, le contrat de travail à temps partiel est un contrat écrit. Sans préjudice des dispositions de l'article 18 « Embauchage » de la présente convention collective nationale, il mentionne :
+Conformément aux dispositions de l'article L. 3123-14 du code du travail, le contrat de travail à temps partiel est un contrat écrit. Sans préjudice des dispositions de l'article 18 « Embauche » de la présente convention collective nationale, il mentionne :
 
 -la qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue et, sauf pour les salariés relevant d'un accord collectif d'entreprise conclu en application de l'article L. 3122-2 du code du travail relatif à la répartition de la durée du travail sur une période supérieure à la semaine et au plus égale à l'année, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;
 
