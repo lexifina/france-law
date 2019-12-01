@@ -1,0 +1,19 @@
+# Article Annexe I
+
+Annexe I
+
+Trame d'accord d'entreprise relatif à la santé au travail
+
+NB : l'accord ou le plan d'action repose sur un diagnostic préalable des situations de pénibilité et doit prévoir les mesures de prévention des risques qui en découlent ainsi que les modalités de suivi de leur mise en œuvre effective. Chaque thème retenu est assorti d'objectifs chiffrés dont la réalisation est mesurée au moyen d'indicateurs. Ces derniers sont communiqués, au moins annuellement, aux membres du CSE (art. D. 4162-2 du code du travail).
+
+Préambule
+
+Rappel des enjeux de l'entreprise en matière de prévention
+
+Le préambule n'est pas obligatoire mais il peut, par exemple, être l'occasion pour les parties signataires d'expliquer pourquoi elles ont conclu l'accord, et/ou de rappeler les valeurs qu'elles partagent, ou encore d'affirmer des engagements communs.
+
+Sa rédaction est souvent liée à ce qui a pu être dit ou souhaité au cours des négociations et qui fait l'objet d'un consensus entre les parties.
+
+Il est en outre recommandé de rappeler, dans le préambule, le cadre légal et de branche dans lequel l'accord est conclu.
+
+D'autres éléments peuvent être ajoutés tels que des chiffres clés sur la santé au travail, des engagements et mesures déjà en place, un rappel sur les modalités de préparation de l'accord (diagnostic partagé, groupes de travail…).
