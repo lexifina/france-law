@@ -36,6 +36,8 @@ Volley :
 
 Autres équivalences :
 
+Le titulaire du titre à finalité professionnelle (TFP) “ éducateur de handball ” mention “ animateur de pratiques socio-éducatives et sociétales ” ou mention “ entraîneur territorial ” délivré par la Fédération française de handball obtient les UC1, UC2, UC3, UC4, et UC7 pour toutes les mentions de la spécialité “ activités sports collectifs ” du brevet professionnel de la jeunesse, de l'éducation populaire du sport.
+
 Le titulaire du diplôme fédéral 1 délivré par la Fédération française de hockey obtient les UC 1 et UC 8 du brevet professionnel de la jeunesse, de l'éducation populaire du sport spécialité " activités sports collectifs " mention " hockey ".
 
 Le titulaire du diplôme fédéral 2 délivré par la Fédération française de hockey obtient les UC 1, UC 2 et UC 8 du brevet professionnel de la jeunesse, de l'éducation populaire du sport " activités sports collectifs " mention " hockey ".
