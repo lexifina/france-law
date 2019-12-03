@@ -1,0 +1,52 @@
+# Protection des victimes de violences conjugales
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N38334
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_victimes_violences_conjugales
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-285.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-12-03 : 1er dépôt d'une initiative. (PIONANR5L15B2478)
+  - 2019-12-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-12-03 : Renvoi en commission au fond
+      - 2019-12-11 : Nomination de rapporteur
+      - 2019-12-11 : Réunion de commission
+      - 2020-01-15 : Réunion de commission
+      - 2020-01-15 : Réunion de commission
+      - 2020-01-28 : Réunion de commission
+      - 2020-02-05 : Réunion de commission
+      - 2020-01-15 : Dépôt de rapport (RAPPANR5L15B2587, PIONANR5L15BTC2587)
+  - Discussion en séance publique
+    - 2020-01-28 : Discussion en séance publique
+    - 2020-01-28 : Discussion en séance publique
+    - 2020-01-29 : Discussion en séance publique
+    - 2020-01-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-01-30 : Dépôt d'une initiative en navette (PIONSNR5S339B0285)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-30 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-06-03 : Dépôt de rapport (RAPPSNR5S339B0482, PIONSNR5S339BTC0483)
+  - Discussion en séance publique
+    - 2020-06-09 : Décision
+- Commission Mixte Paritaire
+  - 2020-06-10 : Dépôt d'un projet de loi (PIONANR5L15B3072)
+  - 2020-06-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-07-09 : Nomination de rapporteur
+    - 2020-07-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B3195, PIONANR5L15BTC3195)
+    - 2020-07-09 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0617, PIONSNR5S339BTC0618)
+  - Discussion en séance publique
+    - 2020-07-16 : Décision
+  - Discussion en séance publique
+    - 2020-07-21 : Discussion en séance publique
+    - 2020-07-21 : Décision
+  - 2020-07-09 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-07-30 : Promulgation d'une loi
