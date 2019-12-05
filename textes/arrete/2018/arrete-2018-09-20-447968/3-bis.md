@@ -1,0 +1,3 @@
+# Article 3 bis
+
+Les titulaires des UC 1 et 2 du brevet professionnel de la jeunesse, de l'éducation populaire et du sport visé aux articles D. 212-20 et suivants du code du sport obtiennent de droit l'équivalence des unités capitalisables 1, 2, 3 et 4 du brevet professionnel de la jeunesse, de l'éducation populaire et du sport créé par le décret n° 2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports et par l'arrêté du 18 avril 2002 portant organisation du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports.
