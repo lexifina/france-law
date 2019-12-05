@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190108521
+
+- Question : [SEQ190108521](seq190108521.md) — Devenir de la surveillance générale
+
+## Réponse
+
+*Transports (M. le SE auprès de la ministre), JO du 2019-12-05, page 6049*
+
+La réforme ferroviaire d'août 2014 a, en matière de sûreté dans les transports, pris acte de l'arrivée de nouveaux exploitants sur les marchés de transport de voyageurs, d'abord internationaux puis nationaux. Mettant à la disposition de tous les compétences et le savoir-faire de la SUGE, elle a permis au service interne de sécurité de la SNCF de réaliser des prestations pour d'autres exploitants de services de transport ferroviaire que la seule SNCF. En contrepartie de ce service, la SUGE est, d'abord, confortée dans la programmation de son action par des contrats annuels et, ensuite, rémunérée à un niveau équitable, contrôlé annuellement par l'ARAFER. Dans un contexte d'ouverture à la concurrence des différentes activités liées au transport ferroviaire, aucune obligation de recours à la SUGE n'a donc été imposée. Au demeurant, en raison de son très grand savoir-faire ainsi que de son expérience, la SUGE conserve une attractivité et une situation privilégiée sur ce marché. La nouvelle réforme ferroviaire, initiée par la loi du 27 juin 2018 pour un nouveau pacte ferroviaire, permet, d'une part, aux gestionnaires d'infrastructures et, d'autre part, aux autorités organisatrices de transport ferroviaire de commander des prestations à la SUGE. Le décret du 18 décembre 2018 se limite à traduire au niveau réglementaire cette extension de la liste des bénéficiaires, qui permet à la SUGE d'élargir son vivier de clients potentiels et de gagner une meilleure assise. Dès lors, il n'apparaît pas utile d'instaurer une contribution obligatoire ou toute autre modalité de financement de ce service au moyen de ressources publiques.
