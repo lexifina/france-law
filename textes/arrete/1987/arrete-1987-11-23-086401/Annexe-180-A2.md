@@ -1,10 +1,8 @@
 # Article Annexe 180-A.2
 
-PROCEDURES POUR LES VISITES SPÉCIFIQUES
+Procédures relatives aux visites (visées aux articles 180-03 et 180-05)
 
-(visées aux articles 180-05 et 180-07)
-
-1 Les visites spécifiques ont pour objet de vérifier, sur la base des certificats,
+1 Les visites des navires ont pour objet de vérifier, sur la base des certificats,
 
 la conformité des navires aux exigences légales, et notamment en matière de construction, de compartimentage et de stabilité, d'équipements et d'installations électriques, de chargement, de protection contre l'incendie, de nombre maximum de passagers, d'engins de sauvetage et de transport de marchandises dangereuses, de radiocommunications et de navigation sont respectées et comprennent, le cas échéant, les éléments suivants :
 
@@ -40,9 +38,9 @@ la conformité des navires aux exigences légales, et notamment en matière de c
 
 - l'essai des appareils à gouverner principal et auxiliaire du navire ou engin.
 
-2 Les visites spécifiques comportent la vérification du système d'entretien planifié à bord.
+2 (Supprimé)
 
-3 Les visites spécifiques portent plus particulièrement sur le degré de familiarisation de l'équipage avec les procédures de sécurité et d'urgence ainsi que sur leur efficacité à les
+3 Les visites des navires portent plus particulièrement sur le degré de familiarisation de l'équipage avec les procédures de sécurité et d'urgence ainsi que sur leur efficacité à les
 
 appliquer, l'entretien, la composition de l'équipage, les méthodes de travail, la sécurité des passagers, les opérations sur la passerelle, les opérations liées à la cargaison et aux véhicules. Les visites comportent également une vérification de la capacité des marins de comprendre et, si nécessaire, de donner des ordres et des instructions ainsi que de faire rapport dans la langue de travail commune indiquée dans le journal de bord, ainsi que des documents prouvant que les membres de l'équipe ont suivi avec succès une formation spéciale, particulièrement en ce qui concerne :
 
@@ -56,4 +54,4 @@ appliquer, l'entretien, la composition de l'équipage, les méthodes de travail,
 
 - La visite spécifique comprend une évaluation de la fatigue et une évaluation destinée à déterminer si le système d'affectation du personnel entraîne une fatigue excessive, particulièrement pour le personnel de veille.
 
-4 Les certificats de compétence des membres de l'équipage délivrés par des États tiers ne sont reconnus que s'ils sont conformes à la règle 1/10 de la Convention internationale sur les normes de formation des gens de mer, de délivrance des brevets de veille, 1978 (STCW).
+4 Les brevets d'aptitude des membres d'équipage travaillant à bord des navires qui relèvent de la présente directive sont conformes aux dispositions de la directive 2008/106/CE modifié du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau minimal de formations des gens de mer.

@@ -1,14 +1,10 @@
 # Article Annexe 180-A.3
 
-GUIDE INDICATIF A L'INTENTION DES INSPECTEURS QUALIFIÉS
-
-EFFECTUANT DES VISITES AU COURS D'UNE TRAVERSÉE RÉGULIÈRE
-
-(visées à l'article 180-07, paragraphe 1)
+Procédures relatives à la conduite des visites au cours d'un service régulier (visées à l'article 180-05).
 
 1 Informations concernant les passagers
 
-Vérifier si le nombre de passagers pour lequel le transbordeur roulier ou l'engin à passagers à grande vitesse (ci-après dénommé navire est certifié n'est pas dépassé; si le système d'enregistrement des informations relatives aux passagers est conforme aux réglementations et est efficace.
+Vérifier si le nombre de passagers pour lequel le navire roulier à passagers ou l'engin à passagers à grande vitesse (ci-après dénommé navire est certifié n'est pas dépassé; si le système d'enregistrement des informations relatives aux passagers est conforme aux réglementations en vigueur et est efficace.
 
 Déterminer comment les informations concernant le nombre total de passagers sont transmises au capitaine et, le cas échéant, comment les passagers effectuant une double traversée sans aller à terre sont inclus dans le total pour le voyage de retour.
 
@@ -38,7 +34,7 @@ Vérifier en outre si les données relatives au tirant d'eau, aux franc-bords et
 
 Vérifier si toute cargaison de marchandises dangereuses ou polluantes est transportée conformément aux réglementations pertinentes et, notamment, si une déclaration concernant les marchandises dangereuses et polluantes est fournie, accompagnée d'un manifeste ou d'un plan d'arrimage indiquant leur emplacement à bord, si le transport de la cargaison en question est autorisé sur les navires à passagers et si les marchandises dangereuses et polluantes sont convenablement marquées, étiquetées, arrimées et séparées du reste de la cargaison.
 
-Vérifier si les véhicules transportant des marchandises dangereuses et polluantes sont identifiés et arrimés de façon adéquate ; si, en cas de transport de marchandises dangereuses et polluantes, une copie du manifeste ou du plan d'arrimage est disponible à terre, si le capitaine a connaissance des exigences en matière de notification conformément à la directive 93/75/CEE, dans sa version modifiée, et des instructions relatives aux procédures d'urgence à suivre et aux premiers secours en cas d'incident impliquant des marchandises dangereuses ou des polluants marins.
+Vérifier si les véhicules transportant des marchandises dangereuses et polluantes sont identifiés et arrimés de façon adéquate ; si, en cas de transport de marchandises dangereuses et polluantes, une copie du manifeste ou du plan d'arrimage est disponible à terre, si le capitaine a connaissance des exigences en matière de notification conformément à la directive 2002/59/CE du Parlement européen et du Conseil relative à la mise en place d'un système communautaire de suivi du trafic des navires et d'information, et abrogeant la directive 93/75/CEE du Conseil, dans sa version modifiée, et des instructions relatives aux procédures d'urgence à suivre et aux premiers secours en cas d'incident impliquant des marchandises dangereuses ou des polluants marins.
 
 Vérifier si le système de ventilation des ponts-garages fonctionne à tout moment, si la ventilation est renforcée lorsque le moteur des véhicules est en marche et s'il existe sur la passerelle un dispositif indiquant que la ventilation des ponts-garages fonctionne.
 
@@ -96,15 +92,11 @@ Vérifier s'il existe un éclairage de secours supplémentaire lorsque la régle
 
 16 Moyens d'évacuation
 
-Vérifier si les moyens d'évacuation sont indiqués conformément aux règles applicables et sont illuminés par les sources d'électricité principale et de secours. Déterminer quelles sont les mesures prises pour que les véhicules n'entravent pas les voies d'évacuation lorsque celles-ci traversent les ponts-garages.
+Vérifier si les moyens d'évacuation sont indiqués y compris les voies d'évacuation conformément aux règles applicables et sont illuminés par les sources d'électricité principale et de secours. Déterminer quelles sont les mesures prises pour que les véhicules n'entravent pas les voies d'évacuation lorsque celles-ci traversent les ponts-garages.
 
 Vérifier si les issues, particulièrement celles des boutiques, qui se sont déjà trouvées obstruées par une quantité excessive de marchandises, restent dégagées.
 
-17 Manuel des opérations
-
-Vérifier si des copies du manuel des opérations sont fournies au capitaine et à chaque officier supérieur et si d'autres copies sont mises à la disposition de tous les membres de l'équipage.
-
-Vérifier s'il existe des listes de contrôle couvrant les préparatifs de l'appareillage et d'autres opérations.
+17 (Supprimé)
 
 18 Propreté de la salle des machines
 
@@ -116,7 +108,7 @@ Vérifier si les moyens de traitement et d'élimination des détritus sont satis
 
 20 Entretien planifié
 
-Toutes les compagnies doivent prévoir des prescriptions spécifiques pour l'entretien planifié de tous les éléments liés à la sécurité, y compris la porte d'étrave, la porte arrière et les ouvertures latérales ainsi que leurs dispositifs de fermeture, la salle des machines et l'équipement de sécurité. Tous les éléments doivent être vérifiés périodiquement, afin que les normes de sécurité soient maintenues au niveau le plus élevé. Il doit exister des procédures d'enregistrement des défauts et de confirmation qu'on y a remédié de façon appropriée, afin que le capitaine et la personne à terre désignée au sein de la structure d'encadrement de la compagnie soient au courant de ces défauts et soient informés, dans un délai déterminé, lorsqu'ils ont été rectifiés. La vérification périodique du fonctionnement des dispositifs de fermeture des portes d'étrave intérieure et extérieure doit comprendre l'inspection des indicateurs, de l'équipement de surveillance et des dalots dans les espaces situés entre la visière d'étrave et la porte intérieure, et plus particulièrement les mécanismes de fermeture ainsi que leur système hydraulique.
+Toutes les compagnies doivent prévoir des prescriptions spécifiques pour l'entretien planifié de tous les éléments liés à la sécurité, y compris la porte d'étrave, la porte arrière et les ouvertures latérales ainsi que leurs dispositifs de fermeture, la salle des machines et l'équipement de sécurité. Vérifier qu'il existe des plans pour que tous les éléments doivent être vérifiés périodiquement, afin que les normes de sécurité soient maintenues au niveau le plus élevé. Il doit exister des procédures d'enregistrement des défauts et de confirmation qu'on y a remédié de façon appropriée, afin que le capitaine et la personne à terre désignée au sein de la structure d'encadrement de la compagnie soient au courant de ces défauts et soient informés, dans un délai déterminé, lorsqu'ils ont été rectifiés. La vérification périodique du fonctionnement des dispositifs de fermeture des portes d'étrave intérieure et extérieure doit comprendre l'inspection des indicateurs, de l'équipement de surveillance et des dalots dans les espaces situés entre la visière d'étrave et la porte intérieure, et plus particulièrement les mécanismes de fermeture ainsi que leur système hydraulique.
 
 21 En cours de navigation
 
