@@ -274,7 +274,7 @@ Saumur Champigny |
 
 18 |
 
-Côtes du Rhône suivi du nom d'une entité géographique plus petite |
+Côtes du Rhône Villages suivi du nom d'une entité géographique plus petite |
 
 8 |
 
@@ -291,6 +291,18 @@ Côtes de Bordeaux suivi du nom d'une entité géographique plus petite |
 10 |
 
 26 |
+
+Cairanne |
+
+7 |
+
+19 |
+
+Fitou |
+
+9 |
+
+22,5 |
 
 II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
 
@@ -793,3 +805,33 @@ Côtes de Duras (blanc avec sucre) |
 10 |
 
 25 |
+
+Touraine suivi de la dénomination géographique complémentaire Chenonceaux |
+
+5 |
+
+15 |
+
+Givry |
+
+4 |
+
+18 |
+
+Givry complété par la mention "premier cru" |
+
+4 |
+
+17 |
+
+Mercurey |
+
+7 |
+
+17 |
+
+Mercurey complété par la mention "premier cru" |
+
+7 |
+
+16 |
