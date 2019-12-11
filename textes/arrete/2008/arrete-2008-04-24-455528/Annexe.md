@@ -188,7 +188,9 @@ Supplément pour paiement tardif |
 
 50 % des taxes impayées avec un minimum de 62 euros et un maximum correspondant à 50 % de la taxe internationale de dépôt |
 
-4. Marques de fabrique, de commerce ou de service |
+4. Marques de produits ou de services
+
+|
 
 |
 
@@ -196,39 +198,77 @@ Dépôt : |
 
 |
 
-- premier dépôt jusqu'à trois classes (sous forme papier) |
+-pour une classe |
 
-250 |
+190 |
 
-- premier dépôt jusqu'à trois classes (sous forme électronique) |
+-pour une classe (marque collective ou marque de garantie) |
 
-210 |
+350 |
 
-- par classe de produit ou de services (au-delà de trois) |
+-par classe de produits ou de services (au-delà de la première) |
 
-42 |
+40 |
 
-Régularisation, rectification d'erreur matérielle |
+Régularisation, rectification d'erreur matérielle
+
+|
 
 104 |
 
-Opposition |
+Opposition : |
 
-325 |
+400 |
 
-Renouvellement jusqu'à trois classes |
+-par droit supplémentaire invoqué (au-delà du premier) |
 
-250 |
+150 |
 
-- par classe de produit ou de services (au-delà de trois) |
+Demande en nullité ou en déchéance : |
 
-42 |
+600 |
 
-Demande d'inscription au registre international des marques |
+-par droit supplémentaire invoqué en nullité (au-delà du premier) |
+
+150 |
+
+Division de la demande d'enregistrement ou de l'enregistrement |
+
+150 |
+
+Renouvellement :
+
+|
+
+|
+
+-pour une classe
+
+|
+
+290 |
+
+-pour une classe (marque collective ou marque de garantie)
+
+|
+
+450 |
+
+-par classe de produits ou de services (au-delà de la première)
+
+|
+
+40 |
+
+Demande d'inscription au registre international des marques
+
+|
 
 62 |
 
-Requête en relevé de déchéance (1) |
+Requête en relevé de déchéance (1)
+
+|
 
 156 |
 
@@ -436,4 +476,4 @@ Demande de modification du cahier des charges homologué |
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 10 juin 2015, les présentes dispositions entrent en vigueur le 1er juillet 2015. Toutefois, sauf disposition contraire prévue dans les lois et décrets en vigueur, les taux en vigueur antérieurement au 1er juillet 2015 demeurent applicables dans le cas où une notification ou un avertissement a été adressé avant le 1er juillet 2015, sauf si les taux prévus par l'article 3 du présent arrêté leur sont inférieurs.
+Conformément à l'article 3 de l'arrêté du 9 décembre 2019 (NOR : ECOI1935260A), les dispositions de l'article 2 relatives aux redevances applicables aux demandes en nullité ou en déchéance entrent en vigueur le 1er avril 2020. Toutefois, sauf disposition contraire prévue par les lois et décrets en vigueur, lorsqu'une notification ou un avertissement adressé avant l'entrée en vigueur de l'arrêté du 9 décembre 2019 porte sur une redevance d'un montant inférieur à celui prévu par cet arrêté, le montant en vigueur antérieurement continue à s'appliquer à cette notification ou à cet avertissement.
