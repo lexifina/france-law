@@ -100,7 +100,7 @@ DAE |
 
 DS |
 
-DS selon les dispositions art. 62 du décret STPG |
+DS selon les dispositions art. 105 du décret STPG |
 
 Partie 1 |
 

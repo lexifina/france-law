@@ -54,7 +54,7 @@
 
 5.2. Responsabilités des intervenants avec les modalités de coordination et de contrôle.
 
-5.3. Intervention des OQA.
+5.3. Intervention des OQA (notamment les plans d'évaluation).
 
 6. Dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.
 

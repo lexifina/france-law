@@ -82,6 +82,8 @@
 
 5.6.3. Démonstration des critères d'indépendance des OQA fixés à l'article 16 du décret n° n° 2017-440 du 30 mars 2017
 
+5.6.4. Plan d'évaluation des OQA.
+
 6. Personnes à mobilité réduite.
 
 6.1. Description des dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.

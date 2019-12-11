@@ -121,3 +121,7 @@ Description des dispositions prises destinées à assurer la sécurité des pers
 Assurance.
 
 Attestation ou engagement d'assurance en responsabilité civile de l'exploitant.
+
+Fourniture des rapports de sécurité des OQA :
+
+Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées à l'annexe 3.

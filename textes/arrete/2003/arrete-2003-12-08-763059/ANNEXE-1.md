@@ -71,3 +71,7 @@ Nature des modifications prévues sur les équipements permettant d'alimenter le
 Personnes à mobilité réduite :
 
 Description des dispositions prises destinées à assurer la sécurité des personnes à mobilité réduite.
+
+Fourniture du rapport de sécurité des OQA :
+
+Fourniture du rapport de sécurité des OQA comportant notamment les conclusions mentionnées à l'annexe 3.

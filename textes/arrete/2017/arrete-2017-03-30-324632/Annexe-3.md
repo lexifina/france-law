@@ -44,4 +44,4 @@ VI. - Tests et essais
 
 2. Programme des tests et essais prévus
 
-VII. - Fourniture du rapport d'évaluation de la sécurité de l'organisme qualifié accrédité
+VII. - Fourniture du rapport d'évaluation de la sécurité de l'organisme mentionné à l' article 57 du décret du 30 mars 2017 susvisé

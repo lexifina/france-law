@@ -64,7 +64,7 @@ Partie I.-Cas d'une demande concernant la mise en service d'un véhicule nouveau
 
 5.2. Responsabilités des intervenants avec les modalités de coordination et de contrôle.
 
-5.3. Intervention des OQA.
+5.3. Intervention des OQA (notamment les plans d'évaluation).
 
 6. Dispositions prévues destinées à assurer la sécurité des personnes à mobilité réduite.
 
@@ -163,6 +163,8 @@ Partie II.-Cas des systèmes de transport en attente de leur première mise en e
 5.4.1. Liste des OQA intervenus lors des phases de conception, de réalisation, de tests et d'essais.
 
 5.4.2. Démonstration des critères d'indépendance des OQA fixés à l'article 16 du décret n° 2017-440 du 30 mars 2017.
+
+5.4.3. Plan d'évaluation des OQA.
 
 6. Personnes à mobilité réduite.
 
@@ -282,7 +284,9 @@ Ce diagnostic doit couvrir la période des dix dernières années précédant l'
 
 5.2. Démonstration des critères d'indépendance des OQA fixés à l'article 16 du décret n° 2017-440 du 30 mars 2017.
 
-5.3. Démarche et organisation mises en œuvre pour la qualité et la sécurité lors des évolutions du système de transport identifiées au 2.9 ci-avant.
+5.3. Plan d'évaluation des OQA.
+
+5.4. Démarche et organisation mises en œuvre pour la qualité et la sécurité lors des évolutions du système de transport identifiées au 2.9 ci-avant.
 
 6. Personnes à mobilité réduite.
 

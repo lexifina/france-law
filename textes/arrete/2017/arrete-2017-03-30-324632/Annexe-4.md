@@ -16,7 +16,7 @@ II. - Analyse des risques et définition du sous-système de transition
 
 1. Description et justification des évolutions éventuelles du sous-système de transition
 
-2. Identification des risques croisés et mesures de couverture mises en place
+2. Identification des risques croisés et mesures de couverture à mettre en place
 
 3. Description du sous-système de transition et localisation des équipements éventuels
 
@@ -50,4 +50,4 @@ VI. - Tests et essais
 
 3. Conditions particulières de réalisation des tests et essais
 
-VII. - Fourniture du rapport d'évaluation de la sécurité de l'organisme qualifié accrédité
+VII. - Fourniture du rapport d'évaluation de la sécurité de l'organisme mentionné à l'article 57 du décret du 30 mars 2017 susvisé
