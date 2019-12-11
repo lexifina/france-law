@@ -488,9 +488,7 @@ Dépôt du document relatif au bénéficiaire effectif mentionné au deuxième a
 
 84-2 |
 
-Dépôt du document modificatif ou complémentaire au document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier
-
-|
+Dépôt du document modificatif ou complémentaire au document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier |
 
 85 |
 
@@ -570,7 +568,7 @@ Rédaction de la déclaration de créance et le certificat constatant cette déc
 
 101 |
 
-Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de fabrique et de commerce, aux dessins et modèles industriels |
+Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles industriels |
 
 102 |
 
@@ -896,13 +894,13 @@ Dénonciation d'opposition au créancier premier saisissant et au débiteur, pr�
 
 10 |
 
-Dénonciation d'opposition et sommation au créancier premier saisissant de notifier toute proposition amiable de vente, prévue à l'article R. 221-46 du code des procédures civiles d'exécution |
+Dénonciation d'opposition et sommation au créancier premier saisissant de notifier toute proposition amiable de vente, prévue à l'article R. 221-46 du code des procédures civiles d'exécution
+
+|
 
 11 |
 
-Sommation au créancier premier saisissant de procéder aux formalités de mise en vente forcée, prévue à l'article R. 221-46 du code des procédures civiles d'exécution
-
-|
+Sommation au créancier premier saisissant de procéder aux formalités de mise en vente forcée, prévue à l'article R. 221-46 du code des procédures civiles d'exécution |
 
 12 |
 
@@ -952,7 +950,9 @@ Dénonciation au débiteur de la saisie conservatoire des créances, prévue à 
 
 20 |
 
-Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution |
+Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution
+
+|
 
 21 |
 
@@ -982,9 +982,7 @@ Dénonciation au débiteur du procès-verbal de saisie conservatoire de meubles 
 
 25 |
 
-Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution
-
-|
+Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles d'exécution |
 
 26 |
 
@@ -1258,9 +1256,7 @@ Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'e
 
 Saisie-revendication des biens meubles corporels |
 
-Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution
-
-|
+Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution |
 
 66 |
 
@@ -1296,7 +1292,7 @@ Acte de saisie, prévu aux articles L. 123-2et R. 123-9du code de l'aviation civ
 
 Saisie-contrefaçon |
 
-Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du code de la propriété intellectuelle
+Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-4-6 du code de la propriété intellectuelle
 
 |
 
@@ -1308,13 +1304,13 @@ Commandement de payer valant saisie, prévu aux articles R. 321-1et R. 321-5du c
 
 71 |
 
-Commandement de payer au débiteur principal avec mention du commandement valant saisie délivré au tiers détenteur, prévu à l'article R. 321-5 du code des procédures civiles d'exécution |
+Commandement de payer au débiteur principal avec mention du commandement valant saisie délivré au tiers détenteur, prévu à l'article R. 321-5 du code des procédures civiles d'exécution
+
+|
 
 72 |
 
-Dénonciation au conjoint lorsque le bien est le siège du logement de la famille et qu'il appartient en propre à l'un des époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution
-
-|
+Dénonciation au conjoint lorsque le bien est le siège du logement de la famille et qu'il appartient en propre à l'un des époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution |
 
 73 |
 
@@ -1380,7 +1376,9 @@ Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec 
 
 Saisie-appréhension et d'une saisie-revendication |
 
-Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution |
+Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution
+
+|
 
 83 |
 
@@ -1392,9 +1390,7 @@ Sommation au tiers de remettre le bien, prévue à l'article R. 222-7 du code de
 
 Saisie-appréhension des biens placés dans un coffre-fort |
 
-Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution
-
-|
+Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures civiles d'exécution |
 
 85 |
 
@@ -1544,7 +1540,9 @@ Acte de consignation et mainlevée totale ou partielle de saisie-vente, après l
 
 Offres réelles |
 
-Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile |
+Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile
+
+|
 
 106 |
 
@@ -1560,15 +1558,15 @@ Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du
 
 |
 
-Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile
-
-|
+Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile |
 
 108 |
 
 |
 
-Procès-verbal de destruction, prévu à l'article R. 433-6 du code des procédures civiles d'exécution |
+Procès-verbal de destruction, prévu à l'article R. 433-6 du code des procédures civiles d'exécution
+
+|
 
 109 |
 
@@ -1902,13 +1900,13 @@ Saisie-attribution |
 
 |
 
-Requête au secrétariat-greffe du juge de l'exécution aux fins de délivrance d'un certificat de non-contestation, prévue à l'article R. 211-6 du code des procédures civiles d'exécution |
+Requête au secrétariat-greffe du juge de l'exécution aux fins de délivrance d'un certificat de non-contestation, prévue à l'article R. 211-6 du code des procédures civiles d'exécution
+
+|
 
 156 |
 
-Etablissement du certificat de non-contestation par l'huissier de justice qui a procédé à la saisie, prévue à l'article R. 211-6 du code des procédures civiles d'exécution
-
-|
+Etablissement du certificat de non-contestation par l'huissier de justice qui a procédé à la saisie, prévue à l'article R. 211-6 du code des procédures civiles d'exécution |
 
 157 |
 
@@ -1932,13 +1930,13 @@ Information aux parties de la difficulté d'exécution et des lieux, jour et heu
 
 160 |
 
-Réquisition du concours de la force publique au préfet, prévue à l'article R. 153-1 du code des procédures civiles d'exécution |
+Réquisition du concours de la force publique au préfet, prévue à l'article R. 153-1 du code des procédures civiles d'exécution
+
+|
 
 161 |
 
-Notification au procureur et au créancier du refus du concours de la force publique, prévue à l'article R. 153-1 du code des procédures civiles d'exécution
-
-|
+Notification au procureur et au créancier du refus du concours de la force publique, prévue à l'article R. 153-1 du code des procédures civiles d'exécution |
 
 162 |
 
@@ -1976,7 +1974,9 @@ exécutoire
 
 |
 
-Notification à la personne tenue de délivrer ou de restituer le bien de l'acte de la remise volontaire ou de l'appréhension du bien, prévue à l'article R. 222-5 et au second alinéa de l'article R. 222-10 du code des procédures civiles d'exécution |
+Notification à la personne tenue de délivrer ou de restituer le bien de l'acte de la remise volontaire ou de l'appréhension du bien, prévue à l'article R. 222-5 et au second alinéa de l'article R. 222-10 du code des procédures civiles d'exécution
+
+|
 
 167 |
 
@@ -1990,9 +1990,7 @@ Requête au juge de l'exécution aux fins d'une autorisation spéciale d'appréh
 
 169 |
 
-Notification au tiers de l'acte de saisie-appréhension, prévue au premier alinéa de l'article R. 222-10 du code des procédures civiles d'exécution
-
-|
+Notification au tiers de l'acte de saisie-appréhension, prévue au premier alinéa de l'article R. 222-10 du code des procédures civiles d'exécution |
 
 170 |
 
@@ -2072,9 +2070,7 @@ Notification à la personne expulsée de la consignation du produit de la vente,
 
 181 |
 
-Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle, prévue au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution
-
-|
+Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle, prévue au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution |
 
 182 |
 
@@ -2566,7 +2562,9 @@ Récépissé ou arrêté de compte de tutelle, par acte séparé |
 
 35 |
 
-Etablissement du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil |
+Etablissement du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil
+
+|
 
 36 |
 
@@ -2578,9 +2576,7 @@ Révocation, par le mandant, du mandat posthume ou du mandat de protection futur
 
 38 |
 
-Renonciation, par le mandataire, au mandat posthume ou au mandat de protection future prévu au troisième alinéa de l'article 477 du code civil
-
-|
+Renonciation, par le mandataire, au mandat posthume ou au mandat de protection future prévu au troisième alinéa de l'article 477 du code civil |
 
 39 |
 
@@ -2812,7 +2808,9 @@ Contrat de construction mentionné au chapitre Ier du titre III du livre II du c
 
 88 |
 
-Contrat de promotion immobilière mentionné à l'article 1831-1 du code civil |
+Contrat de promotion immobilière mentionné à l'article 1831-1 du code civil
+
+|
 
 89 |
 
@@ -3126,9 +3124,7 @@ Devis et marché vente en dehors du cas prévu à l'article 1831-1 du code civil
 
 154 |
 
-Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil
-
-|
+Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil |
 
 155 |
 
@@ -4050,7 +4046,9 @@ Publication au service de la publicité foncière de la décision de justice ord
 
 10 |
 
-Rédaction de la dénonciation au conjoint du commandement de payer en application du premier alinéa de l'article R. 321-1 du code des procédures civiles d'exécution |
+Rédaction de la dénonciation au conjoint du commandement de payer en application du premier alinéa de l'article R. 321-1 du code des procédures civiles d'exécution
+
+|
 
 11 |
 
@@ -4204,7 +4202,9 @@ Prestations de postulation réalisées en matière de sûretés judiciaires |
 
 Actes |
 
-Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec demande d'obtention d'un titre exécutoire, en application de l'article R. 531-1 du code des procédures civiles d'exécution |
+Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec demande d'obtention d'un titre exécutoire, en application de l'article R. 531-1 du code des procédures civiles d'exécution
+
+|
 
 42 |
 
