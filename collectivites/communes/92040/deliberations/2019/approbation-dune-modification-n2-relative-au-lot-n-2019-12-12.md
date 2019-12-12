@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une modification n°2 relative au lot n° 4 (assurance statutaire) du marché d’assurances de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation d’une modification n°2 relative au lot n° 4 (assurance statutaire) du marché d’assurances de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMDQsInB1ciI6ImJsb2JfaWQifX0=--93ae4ad21e6a03a7b88a5d3b729ac896a253663b/121219_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
