@@ -1,126 +1,6 @@
 # Article ANNEXE
 
-TITRE Ier : LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
-
-Ordonnance royale du 3 mars 1825 relative aux presbytères modifiée par le décret de décentralisation administrative du 25 mars 1852 (tableau A, 45°)
-
-1
-
-|
-
-Distraction des parties superflues d'un presbytère lorsqu'il y a opposition de l'autorité diocésaine.
-
-|
-
-1er alinéa de l'article 1er.
-
-|
-
-CULTES ALSACE-MOSELLE
-
-Ordonnance royale du 25 mai 1844 portant règlement pour l'organisation du culte israélite
-
-1
-
-|
-
-Confirmation de l'élection des membres laïques des consistoires israélites.
-
-|
-
-1er alinéa de l'article 24 et alinéa 2 de l'article 65.
-
-|
-
-2
-
-|
-
-Autorisation d'ouverture d'un oratoire particulier.
-
-|
-
-Article 63.
-
-|
-
-Décret du 26 mars 1852 modifié portant réorganisation des cultes protestants
-
-1
-
-|
-
-Dissolution du conseil presbytéral.
-
-|
-
-Article 1-8.
-
-|
-
-2
-
-|
-
-Opposition à la désignation des présidents de consistoires.
-
-|
-
-3e alinéa de l'article 3.
-
-|
-
-3
-
-|
-
-Nomination d'un membre laïque et d'un inspecteur ecclésiastique au directoire de l'Eglise de la confession d'Augsbourg.
-
-|
-
-Article 11.
-
-|
-
-Décret du 19 mars 1859 sur les cultes non reconnus
-
-1
-
-|
-
-Autorisation pour l'exercice public d'un culte non reconnu.
-
-|
-
-1er alinéa de l'article 3.
-
-|
-
-2
-
-|
-
-Révocation des autorisations pour l'exercice public d'un culte non reconnu.
-
-|
-
-1er alinéa de l'article 4.
-
-|
-
-Décret du 23 novembre 1994 portant déconcentration en matière de désaffectation des édifices cultuels dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle
-
-1
-
-|
-
-Désaffectation des édifices cultuels lorsqu'il n'y a pas accord de l'autorité religieuse.
-
-|
-
-Article 1er.
-
-|
+TITRE Ier (Abrogé)
 
 TITRE II : LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE DE L'INTÉRIEUR
 
@@ -253,6 +133,26 @@ Décision d'homologation des circuits de vitesse.
 Article 17.
 
 |
+
+HOMOLOGATION DES ÉQUIPEMENTS ROUTIERS
+
+Code de la voirie routière
+
+1 |
+
+Attestation d'équivalence et homologation des équipements routiers.
+
+Suspension et annulation de cette attestation ou homologation. |
+
+Articles R. 119-5 (II et III),
+
+R. 119-11. |
+
+2 |
+
+Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. |
+
+Article R. 119-5 IV |
 
 ÉTRANGERS ET CIRCULATION TRANSFRONTIÈRE
 
@@ -596,101 +496,7 @@ Baccara chemin de fer : agrément du modèle de sabot et de panier.
 
 CULTES ALSACE-MOSELLE
 
-Décret impérial du 30 décembre 1809 modifié concernant les fabriques des églises
-
-1
-
-|
-
-Révocation d'un conseil de fabrique d'église.
-
-|
-
-Article 8-1.
-
-|
-
-Ordonnance royale du 25 mai 1844 portant règlement pour l'organisation du culte israélite
-
-1
-
-|
-
-Révocation d'un membre laïque du consistoire israélite.
-
-|
-
-2e alinéa de l'article 11.
-
-|
-
-2
-
-|
-
-Dissolution d'un consistoire israélite.
-
-|
-
-Article 23.
-
-|
-
-Décret du 26 mars 1852 modifié portant réorganisation des cultes protestants
-
-1
-
-|
-
-Dispense pour l'élection au conseil presbytéral des paroisses de moins de 60 électeurs.
-
-|
-
-Dernier alinéa de l'article 1-2
-
-|
-
-Décret du 19 mars 1859 sur les cultes non reconnus
-
-1
-
-|
-
-Suspension provisoire des autorisations pour l'exercice public d'un culte non reconnu.
-
-|
-
-2e alinéa de l'article 4.
-
-|
-
-Arrêté du 10 septembre 1852 portant règlement pour la formation des conseils presbytéraux et des consistoires dans les églises réformées et dans celles de la confession d'Augsbourg
-
-1
-
-|
-
-Admission de pasteurs auxiliaires et suffragants, d'aumôniers des lycées ou collèges, d'hospices et prisons aux séances du conseil presbytéral et du consistoire avec voix consultative.
-
-|
-
-Article 5.
-
-|
-
-Arrêté du 3 mai 1922 portant règlement pour l'obtention de l'aptitude aux fonctions pastorales dans les églises protestantes des départements du Haut-Rhin, du Bas-Rhin et de la Moselle
-
-1
-
-|
-
-Nomination des membres de la commission pour l'examen pro ministerio.
-
-|
-
-2e alinéa de l'article 5.
-
-|
+(Abrogé)
 
 COLLECTIVITÉS LOCALES
 
