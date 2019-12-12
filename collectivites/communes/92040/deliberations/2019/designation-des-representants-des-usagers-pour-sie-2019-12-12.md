@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Désignation des représentants des usagers pour siéger à la Commission Consultative des Services Publics Locaux (CCSPL), section restauration scolaire, pour l’année 2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : EDUCATION
+- Objet : Désignation des représentants des usagers pour siéger à la Commission Consultative des Services Publics Locaux (CCSPL), section restauration scolaire, pour l’année 2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMDYsInB1ciI6ImJsb2JfaWQifX0=--d3a25e456d9b14ce8648287ade1982eb27570d8a/121219_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
