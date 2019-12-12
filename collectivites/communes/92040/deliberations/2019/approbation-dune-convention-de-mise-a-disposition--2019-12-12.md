@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mise à disposition partielle de la Direction Territoriale Est et du service patrimoine arboré par l’Établissement Public Territorial Grand Paris Seine Ouest (GPSO)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’une convention de mise à disposition partielle de la Direction Territoriale Est et du service patrimoine arboré par l’Établissement Public Territorial Grand Paris Seine Ouest (GPSO)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMDQsInB1ciI6ImJsb2JfaWQifX0=--aef4d712684d16c666c67956c2120e6edd51d7de/121219_40.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
