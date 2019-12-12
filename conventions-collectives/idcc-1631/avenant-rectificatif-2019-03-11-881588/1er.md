@@ -1,0 +1,5 @@
+# Article 1er
+
+L'article 2.5 de l'avenant n° 36 sus-désigné intitulé « Réunions de la commission paritaire permanente de négociation et d'interprétation de la branche », est précisé et modifié dans son paragraphe 5 relatif aux « Crédits d'heures de délégation » selon la rédaction suivante :
+
+« Les salariés des entreprises de la branche ayant reçu mandat d'une organisation syndicale représentative en vue de siéger à la CPPNI et dans les autres instances paritaires de la branche bénéficient d'un crédit disponible de 10 heures de délégation pour la préparation de chaque réunion de la CPPNI. Les heures de délégation sont de plein de droit considérées comme temps de travail et payées à l'échéance normale par l'employeur. Les heures utilisées pour participer à des réunions de CPPNI ne sont pas imputables sur les temps de délégation pour préparation des réunions de la CPPNI. Les parties signataires rappellent que les représentants des organisations syndicales représentatives de salariés au sein de la CPPNI obtiendront, pour siéger à ces commissions, des autorisations d'absence selon les dispositions définies plus haut. »
