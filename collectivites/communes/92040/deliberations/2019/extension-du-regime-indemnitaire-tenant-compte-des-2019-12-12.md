@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Extension du Régime Indemnitaire tenant compte des Fonctions, des Sujétions, de l’Expertise et de l’Engagement Professionnel (RIFSEEP) à de nouveaux cadres d’emplois
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : RESSOURCES HUMAINES
+- Objet : Extension du Régime Indemnitaire tenant compte des Fonctions, des Sujétions, de l’Expertise et de l’Engagement Professionnel (RIFSEEP) à de nouveaux cadres d’emplois
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMDIsInB1ciI6ImJsb2JfaWQifX0=--8c335c6fdae149987a092c0061d52447458bdb1d/121219_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
