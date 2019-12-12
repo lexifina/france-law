@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de lancement de la procédure de concession de service public pour la gestion et l’exploitation des crèches « Les Lavandières », « Arche de Noé » et « L’Oiseau Bleu »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : PETITE ENFANCE
+- Objet : Autorisation de lancement de la procédure de concession de service public pour la gestion et l’exploitation des crèches « Les Lavandières », « Arche de Noé » et « L’Oiseau Bleu »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MDYsInB1ciI6ImJsb2JfaWQifX0=--43d119183786f1434da6276c3274ca938cb4624c/121219_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
