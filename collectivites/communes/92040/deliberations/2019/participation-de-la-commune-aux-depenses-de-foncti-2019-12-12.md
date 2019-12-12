@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Participation de la commune aux dépenses de fonctionnement d’établissements d’enseignement privé pour l’année scolaire 2019-2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : EDUCATION
+- Objet : Participation de la commune aux dépenses de fonctionnement d’établissements d’enseignement privé pour l’année scolaire 2019-2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMDUsInB1ciI6ImJsb2JfaWQifX0=--6088d87c9ecd9270c02ac7d846dbe2651e3b22bf/121219_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
