@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Ajustements portés aux montants des subventions versées aux associations en 2019
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : FINANCES
+- Objet : Ajustements portés aux montants des subventions versées aux associations en 2019
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MDIsInB1ciI6ImJsb2JfaWQifX0=--10d56e3d64dc396941fecd149e0819ca9623bf06/121219_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
