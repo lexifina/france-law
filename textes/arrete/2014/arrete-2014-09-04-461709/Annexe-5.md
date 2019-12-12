@@ -302,9 +302,15 @@ Lorsque le secteur d'application mentionné dans une fiche d'opération standard
 
 Pour les opérations standardisées, la demande comporte une attestation sur l'honneur du bénéficiaire de l'opération précisant que les économies d'énergie réalisées n'ont pas permis de réduire les émissions de gaz à effet de serre d'une installation classée mentionnée à l'article L. 229-5 du code de l'environnement exploitée, au sens de l'article L. 511-1 du code de l'environnement, par le bénéficiaire.
 
-La demande comporte une attestation sur l'honneur du bénéficiaire mentionnant que l'opération n'a pas bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie.
+La demande comporte une attestation sur l'honneur du bénéficiaire mentionnant que :
+
+– l'opération n'a pas bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie ; ou que
+
+– l'opération a bénéficié d'une aide à l'investissement de la part de l'Agence de l'environnement et de la maîtrise de l'énergie dont le calcul et la décision d'attribution ont pris en compte la délivrance de certificats d'économies d'énergie.
 
 Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'attestation définie à l'annexe 7.
+
+Lorsque l'opération relève du dernier alinéa de l'article R. 221-19 du code de l'énergie, fait partie des pièces justificatives de l'opération l'extrait de la convention de financement signée par l'Agence de l'environnement et de la maîtrise de l'énergie, comportant la mention que la subvention de l'Agence de l'environnement et de la maîtrise de l'énergie a été calculée et décidée en prenant en compte les incitations perceptibles dans le cadre du dispositif des certificats d'économies d'énergie pour cette opération.
 
 8. Opérations réalisées au bénéfice de ménages en situation de précarité énergétique
 

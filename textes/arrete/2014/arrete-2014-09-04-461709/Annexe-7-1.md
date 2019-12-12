@@ -64,7 +64,7 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste su
 
 -que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement dont je suis l'exploitant ;
 
--qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération.
+-qu'aucune aide à l'investissement de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) n'a été reçue ou ne sera sollicitée pour cette opération ou qu'une aide à l'investissement de l'ADEME a été reçue ou sollicitée et que le calcul et la décision d'attribution de cette aide prennent en compte la délivrance de certificats d'économies d'énergie.
 
 Fait à
 

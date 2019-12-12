@@ -58,7 +58,7 @@ a) "ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décem
 
 b) "GPE ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité au bénéfice de ménages en situation de grande précarité énergétique ;
 
-c) "SME", pour la bonification prévue à l'article 5 de l'arrêté du 29 décembre 2014 susvisé ;
+c) "ETS", pour la bonification prévue à l'article 5 de l'arrêté du 29 décembre 2014 susvisé ;
 
 d) "CPE", pour la bonification prévue à l'article 6 de l'arrêté du 29 décembre 2014 susvisé ;
 
