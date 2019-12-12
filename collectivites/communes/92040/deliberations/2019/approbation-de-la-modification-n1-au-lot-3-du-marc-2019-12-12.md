@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au lot °3 du marché de travaux d’aménagement du Forum des Epinettes
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2019-12-12
+- Matière : ESPACES PUBLICS
+- Objet : Approbation de la modification n°1 au lot °3 du marché de travaux d’aménagement du Forum des Epinettes
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MTQsInB1ciI6ImJsb2JfaWQifX0=--bcee0a6777518dbfa1a2d6aa1426f978c1efe97c/121219_39.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
