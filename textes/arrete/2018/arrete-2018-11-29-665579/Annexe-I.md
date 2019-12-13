@@ -1,7 +1,5 @@
 # Article Annexe I
 
-ANNEXES
-
 ANNEXE I
 
 LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
@@ -12,9 +10,17 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+de NBI |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer |
 
@@ -144,12 +150,6 @@ Chef de la mission catastrophes naturelles au sein de la sous-direction de la pr
 
 Direction des systèmes d'information et de communication |
 
-Chef du bureau des affaires juridiques au sein de la sous-direction de l'administration générale et de l'achat. |
-
-50 |
-
-1 |
-
 Chef du bureau du budget et de la programmation financière au sein de la sous-direction de l'administration générale et de l'achat. |
 
 30 |
@@ -168,7 +168,7 @@ Chef de la coordination fonctionnelle. |
 
 1 |
 
-Direction de l'évaluation de la performance et des affaires financières et immobilières |
+La direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
 
 Chef du bureau de la gestion des sites de l'administration centrale au sein de la sous-direction des affaires immobilières. |
 
@@ -176,15 +176,27 @@ Chef du bureau de la gestion des sites de l'administration centrale au sein de l
 
 1 |
 
-Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières. |
+Chef du bureau stratégie et performance achat au sein de la sous-direction stratégie et pilotage de la performance achat du service de l'achat, de l'innovation et de la logistique |
+
+50 |
+
+1 |
+
+Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique |
+
+50 |
+
+1 |
+
+Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique |
 
 30 |
 
 1 |
 
-Chef du bureau de la commande publique et de la performance des achats au sein de la sous-direction des programmes et de l'achat. |
+Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières. |
 
-50 |
+30 |
 
 1 |
 
@@ -220,7 +232,9 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des politiques sociales au sein de sous-direction de l'action sociale et de l'accompagnement du personnel. |
+Chef du bureau du pilotage des
+
+politiques sociales au sein de sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
 50 |
 
@@ -356,7 +370,7 @@ Chef du bureau du pilotage des structures de soutien. |
 
 1 |
 
-Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
+Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale . |
 
 50 |
 
@@ -366,11 +380,9 @@ Chef de la division de la formation aux fonctions administratives, techniques et
 
 50 |
 
-1
+1 |
 
-|
-
-Chef du bureau des politiques sociales. |
+Chef du bureau des politiques ministérielles de l'enfance et du logement à la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 30 |
 
@@ -422,7 +434,7 @@ Adjoint au chef du bureau du droit public et des affaires institutionnelles à l
 
 1 |
 
-Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'Etat. |
+Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, de la prospective et de la dépense de l'état. |
 
 30 |
 
@@ -562,14 +574,6 @@ Adjoint au chef du département de contrôle automatisé. |
 
 1 |
 
-Service de l'achat, des équipements et de la logistique de la sécurité intérieure |
-
-Chef du bureau de la maintenance des équipements à la sous-direction de la logistique. |
-
-30 |
-
-1 |
-
 Institut national de police scientifique |
 
 Secrétaire général. |
@@ -584,9 +588,17 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+de NBI |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer |
 
@@ -698,11 +710,19 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+de NBI |
 
-et de l'outre-mer |
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur et
+
+de l'outre-mer |
 
 Service du cabinet |
 
@@ -782,15 +802,15 @@ Chef du département juridique et budgétaire |
 
 Direction de la police générale |
 
-Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du 1er bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
 60 |
 
 1 |
 
-Chef du 3e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
-50 |
+60 |
 
 1 |
 
@@ -835,6 +855,8 @@ Chef du 10e bureau au sein de la sous-direction de l'administration des étrange
 50 |
 
 1 |
+
+|
 
 Chef du 12e bureau au sein de la sous-direction de l'administration des étrangers. |
 
@@ -918,11 +940,19 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+de NBI |
 
-et de l'outre-mer |
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur et
+
+de l'outre-mer |
 
 13 DDSP des Bouches-du-Rhône |
 
@@ -1082,9 +1112,17 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+de NBI |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer |
 
@@ -1096,9 +1134,9 @@ Chef du bureau de l'accompagnement du personnel |
 
 1 |
 
-75 Région zonale de gendarmerie d'Ile-de-France |
+94 Région zonale de gendarmerie d'Île-de-France |
 
-Chef du bureau des compétences. |
+Chef du bureau de l'accompagnement du personnel. |
 
 30 |
 
@@ -1112,7 +1150,13 @@ Fonctions |
 
 Points de NBI |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer |
 
@@ -1256,7 +1300,9 @@ Greffier en chef |
 
 Localisation des emplois |
 
-Nombre de postes à forte responsabilité ouvrant droit à la NBI par taux de NBI |
+Nombre de postes à forte responsabilité
+
+ouvrant droit à la NBI par taux de NBI |
 
 Nombre d'emplois
 
