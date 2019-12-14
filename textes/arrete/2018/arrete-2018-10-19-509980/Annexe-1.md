@@ -723,3 +723,7 @@ VIGNEUL-SOUS-MONTMEDY |
 MEUSE |
 
 non |
+
+Font également partie de la zone d'observation, les communes et parties de territoires de communes suivantes, du département des Ardennes, situées entre la frontière franco-belge, la route nationale 58 et la route départementale 8043 :
+
+BAZEILLES (08053), DAIGNY (08136), DOUZY (08145), ESCOMBRES-ET-LE CHESNOIS (08153), FRANCHEVAL (08179), LA CHAPELLE (08101), LA MONCELLE (08294), MESSINCOURT (08289), OSNES (08336), POURU-AUX-BOIS (08342), POURU-SAINT-REMY (08343), PURE (08349), RUBECOURT-ET-LAMECOURT (08371), SACHY (08375), VILLERS-CERNAY (08475).
