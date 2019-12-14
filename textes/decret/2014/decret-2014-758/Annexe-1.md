@@ -1393,3 +1393,123 @@ Corse
 Toutes les communes de la région
 
 |
+
+COMMUNES INTÉGRÉES AUX ZONES D'AIDE À FINALITÉ RÉGIONALE PERMANENTES (2014-2020) FIGURANT À L'ANNEXE 1 DU DÉCRET N° 2014-758 DU 2 JUILLET 2014 RELATIF AUX ZONES D'AIDE À FINALITÉ RÉGIONALE ET AUX ZONES D'AIDE À L'INVESTISSEMENT DES PETITES ET MOYENNES ENTREPRISES POUR LA PÉRIODE 2014-2020
+
+CODE
+
+EUROSTAT
+
+des régions
+
+et départements |
+
+NOMS DES RÉGIONS ET DES DÉPARTEMENTS
+
+Code INSEE (COG2012) et nom des communes éligibles
+
+(P : zonage partiel-cantons ou zone éligible au sein de la commune) |
+
+FR21 |
+
+Grand Est |
+
+FR411 |
+
+Meurthe-et-Moselle |
+
+|
+
+54382 Mont Saint-Martin |
+
+FR422 |
+
+Haut-Rhin |
+
+|
+
+68036 Biesheim |
+
+|
+
+68172 Kunheim |
+
+|
+
+68231 Neuf-Brisach |
+
+|
+
+68351 Vogelgrun |
+
+|
+
+68352 Volgelsheim |
+
+|
+
+68379 Wolfgantzen |
+
+FR22 |
+
+Hauts-de-France |
+
+FR221 |
+
+Aisne |
+
+|
+
+2312 La Flamengrie |
+
+FR301 |
+
+Nord |
+
+|
+
+59290 Haut-Lieu |
+
+FR26 |
+
+Bourgogne-Franche-Comté |
+
+FR432 |
+
+Jura |
+
+|
+
+39256 Tavaux |
+
+FR61 |
+
+Nouvelle-Aquitaine |
+
+FR632 |
+
+Creuse |
+
+|
+
+23036 Bussière-Dunoise |
+
+|
+
+23040 La Celle-sous-Gouzon |
+
+|
+
+23124 Marsac |
+
+FR71 |
+
+Auvergne-Rhône-Alpes |
+
+FR 724 |
+
+Puy-de-Dôme |
+
+|
+
+63300 Riom |
