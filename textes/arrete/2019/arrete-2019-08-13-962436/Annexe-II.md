@@ -200,7 +200,7 @@ Chef du service de l'économie agricole et développement des territoires |
 
 DDT |
 
-Adjoint au chef du service de l'économie agricole |
+Chef du service de l'économie agricole |
 
 53 - Mayenne |
 
