@@ -142,10 +142,6 @@ Conseil national de l'information géographique. |
 
 Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géographique. |
 
-Comité technique de l'utilisation des produits pétroliers. |
-
-Décret n° 62-1297 du 7 novembre 1962 portant règlement d'administration publique, en ce qui concerne les règles techniques d'utilisation et les caractéristiques des produits pétroliers. |
-
 Commission mixte du statut de la RATP. |
 
 Décret n° 60-1362 du 19 décembre 1960 créant une commission mixte chargée d'élaborer le statut du personnel de la Régie autonome des transports parisiens (art. 1er). |
