@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171001688
+
+- Question : [SEQ171001688](seq171001688.md) — Commune nouvelle et majoration de la dotation globale de fonctionnement
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-12-19, page 6246*
+
+Les collectivités locales doivent disposer du montant de leur dotation globale de fonctionnement (DGF) en temps utile pour le vote de leur budget. Par conséquent, le montant alloué à chaque commune au titre d'une année donnée doit être communiqué au 31 mars. Pour assurer le respect de cette date et l'égalité de traitement entre l'ensemble des collectivités, il est nécessaire de fixer une date de référence unique pour apprécier les périmètres communaux qui seront pris en compte dans les calculs. Cette date est fixée au 1er janvier de l'année de répartition. À titre d'illustration, une commune nouvelle créée le 1er janvier 2018 bénéficiera, sous réserve de son éligibilité, des dispositions du « pacte de stabilité » en 2018, 2019 et 2020, les montants perçus en 2017 par les anciennes communes servant de point de référence au calcul. À l'inverse, une commune nouvelle créée le 1er juin 2018 n'a logiquement pas pu percevoir de DGF en tant que commune nouvelle en 2018. En effet, la DGF 2018 a été calculée sur le fondement du périmètre communal existant au 1er janvier 2018, date à laquelle la fusion n'avait pas encore eu lieu. Cette commune nouvelle percevra donc pour la première fois la DGF en 2019 et bénéficiera donc des dispositions dérogatoires du « pacte de stabilité » en 2019, 2020 et 2021, sur la base des montants alloués en 2018 aux anciennes communes. La date de création de la commune a donc un impact sur la première année d'application du pacte mais n'implique jamais de « proratiser » le calcul des dotations versées.
