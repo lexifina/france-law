@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811825
+
+- Question : [SEQ190811825](seq190811825.md) — Assistants de régulation médicale des services d'aide médicale urgente
+
+## Réponse
+
+*Solidarités et santé, JO du 2019-12-19, page 6284*
+
+Le Gouvernement a souhaité profondément rénover les conditions d'exercice du métier d'assistant de régulation médicale (ARM). Il a ainsi engagé, voilà plus d'un an, une démarche d'ampleur à destination de cette profession. Dans ce cadre, la formation d'adaptation à l'emploi (FAE) de 259 heures, non validante et appliquée de manière disparate sur le territoire qui existe aujourd'hui a été jugée comme ne répondant plus aux besoins des professionnels ni aux nouveaux enjeux de la régulation médicale. Ainsi, à l'issue d'une phase de concertation engagée en 2018 avec l'ensemble des professionnels concernés, une nouvelle formation des ARM a été mise en place depuis septembre 2019. Ce nouveau dispositif consiste en une formation initiale d'une année, délivrée par des structures agréées par le ministère chargé de la santé, qui doivent satisfaire à des appels à projets exigeants. Cette nouvelle formation est désormais obligatoire avant l'entrée en fonctions des futurs ARM recrutés dans les centres 15. Des dispositions transitoires et spécifiques sont par ailleurs prévues, afin que les agents qui exercent aujourd'hui leurs fonctions dans un centre puissent bénéficier de cette formation. En cohérence avec cette évolution, le régime indemnitaire des ARM a été revalorisé, afin de rendre compte des compétences nouvelles de cette profession. C'est ainsi qu'une prime de 120 euros bruts a été créée cet automne. Sa création a été publiée au Journal officiel le 5 novembre 2019, avec une effectivité sur les payes de novembre. Son bénéfice est ouvert à l'ensemble des professionnels en exercice dans un centre de régulation.
