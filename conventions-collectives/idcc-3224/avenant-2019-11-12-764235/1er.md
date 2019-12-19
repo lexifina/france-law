@@ -1,0 +1,21 @@
+# Article 1er
+
+Les dispositions du préambule de la convention collective nationale de la distribution et du commerce de gros des papiers cartons sont supprimées et remplacées par les dispositions suivantes :
+
+« Préambule
+
+La présente convention collective annule et remplace :
+
+– la convention collective pour les ouvriers de la distribution des papiers et cartons et des professions de la transformation du papier (région parisienne) du 15 novembre 1955, déposée au secrétariat du conseil de prud'hommes de la Seine (section des industries chimiques) le 7 décembre 1955, sous le numéro 304, modifiée ;
+
+– la convention collective pour les employés de la distribution des papiers et cartons et des professions de la transformation du papier (région parisienne) du 15 mai 1956, déposée au secrétariat du conseil de prud'hommes de la Seine (section du commerce) le 3 juillet 1956, sous le numéro 685, modifiée ;
+
+– la convention collective pour les dessinateurs, techniciens et agents de maîtrise de la distribution des papiers et cartons et des professions de la transformation du papier (région parisienne) du 7 novembre 1955, déposée au secrétariat du conseil de prud'hommes de la Seine (section des industries chimiques) le 25 novembre 1955, sous le numéro 299, modifiée ;
+
+– la convention collective nationale des ingénieurs et cadres de la distribution et de la transformation des papiers et cartons du 1er juin 1953, déposée au secrétariat du conseil de prud'hommes de la Seine (section des industries chimiques) le 12 juillet 1953, sous le numéro 185, modifiée ;
+
+– la convention collective nationale des ingénieurs et cadres de la distribution des papiers et cartons, commerce de gros du 12 janvier 1977, étendue par arrêté du 27 septembre 1984 ;
+
+– la convention collective nationale de la distribution des papiers-cartons commerces de gros pour les ouvriers, employés, techniciens et agents de maîtrise du 28 juillet 1975, étendue par arrêté du 5 juillet 1977.
+
+Il est convenu entre les parties que la législation en vigueur s'appliquera à l'ensemble des dispositions de la présente convention collective. »
