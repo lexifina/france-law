@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012462
+
+- Question : [SEQ191012462](seq191012462.md) — Enherbement des vignes et prévention des incendies
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2019-12-19, page 6240*
+
+La filière viticole est confrontée à de nombreux enjeux, parmi lesquels la réduction du recours aux produits phytosanitaires et l'adaptation au changement climatique. Elle s'est fixé des objectifs ambitieux en matière de réduction des produits phytosanitaires incluant l'interdiction du désherbage chimique sur 50 % des surfaces d'ici trois ans. Elle travaille également à l'élaboration d'une stratégie nationale d'adaptation au changement climatique prenant en compte la diversité des situations selon les bassins de production. Dans ce contexte, l'enherbement des vignes ou des tournières présente de nombreux avantages : réduction des intrants, préservation des sols et de la biodiversité et stockage du carbone. Il s'agit de tirer parti des fonctionnalités naturelles des sols pour réduire la dépendance de l'exploitation aux intrants. L'enherbement des parcelles de vigne ou de leurs abords peut être rendu obligatoire dans les cahiers des charges des appellations d'origine protégées ou indications géographique protégées, sur demande de l'organisme de défense et de gestion qui regroupe l'ensemble des opérateurs de l'appellation ou de l'indication géographique concernée. La pertinence de ces mesures au regard des conditions locales et leur articulation avec les contraintes liées au changement climatique sont examinées par l'institut national de l'origine et de la qualité lors de l'instruction de ces demandes. Le risque incendie peut faire partie des contraintes à examiner. Il convient de rappeler que l'enherbement des vignes implique un entretien régulier du couvert végétal afin que celui-ci conserve les propriétés recherchées et ne favorise pas la propagation des incendies.
