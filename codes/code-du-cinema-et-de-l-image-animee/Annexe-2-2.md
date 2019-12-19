@@ -20,4 +20,6 @@ Lorsque l'agrément des investissements a été délivré :
 
 6 bis. Le contrat avec un prestataire technique en vue de garantir la sécurisation des éléments matériels de l'œuvre et, le cas échéant, en cas de transfert sur support photochimique, la facture correspondante.
 
+6 ter. Les factures acquittées détaillées correspondant aux travaux de création d'un fichier numérique de sous-titrage pour les personnes sourdes ou malentendantes et d'un fichier numérique d'audiodescription, ainsi qu'aux travaux d'adaptation desdits fichiers à tout support numérique de diffusion ;
+
 7° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel (à l'exception des actes de nantissement auprès des établissements financiers) et, de façon plus générale, tous les contrats permettant de justifier du financement de l'œuvre et de la chaîne des droits d'auteurs.
