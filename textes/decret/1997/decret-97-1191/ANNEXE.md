@@ -1,76 +1,44 @@
 # Article ANNEXE
 
-TITRE Ier (Abrogé)
-
-TITRE II : LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE DE L'INTÉRIEUR
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE DE L'INTERIEUR
 
 1. Décisions administratives individuelles prises par le ministre de l'intérieur conjointement avec un ou plusieurs ministres
 
-Décret n° 93-571 du 27 mars 1993
+Code de l'environnement
 
-1
+1 |
 
-|
+Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. |
 
-Décisions d'approbation ou de refus d'approbation de la convention constitutive des groupements d'intérêt public de coopération interrégionale et transfrontalière (décision prise conjointement avec le ministre chargé du budget).
-
-|
-
-3e alinéa de l'article 2.
+Article R. 543-234
 
 |
 
-Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement.
+2 |
 
-1
+Agrément et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. |
 
-|
-
-Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement.
-
-Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+Article R. 543-235
 
 |
 
-Article R. 543-234 du code de l'environnement
+3 |
 
-|
+Agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. |
 
-2
-
-|
-
-Agrément et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements.
-
-Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
-
-|
-
-Article R. 543-235 du code de l'environnement
+Articles R. 543-252 et R. 543-253
 
 |
 
 Code de la santé publique
 
-1
+1 |
 
-|
-
-Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique.
-
-|
+Agrément et retrait d'agrément des éco-organismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en auto-traitement mentionnés à l'article R. 1335-8-1. |
 
 Article R. 1335-8-8
 
 |
-
-Code de l'environnement
-
-|
-
-Agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de l'industrie : articles R. 543-252 et R. 543-253 du code de l'environnement. |
-
-articles R. 543-252 et R. 543-253 du code de l'environnement. |
 
 2. Décisions administratives individuelles prises par le ministre de l'intérieur
 
@@ -78,59 +46,135 @@ CIRCULATION ET SÉCURITÉ ROUTIÈRES
 
 Code de la route
 
-1
+1 |
+
+Retrait et reconstitution des points sur les permis de conduire. |
+
+Article R. 223-3
 
 |
 
-Retrait et reconstitution des points sur les permis de conduire.
-
-|
-
-Alinéa 3 de l'article R. 258.
-
-|
-
-1A |
+2 |
 
 Délivrance et retrait d'agrément pour l'organisation de l'épreuve théorique générale du permis de conduire. |
 
-L. 221-4 et R. 221-3-4 |
-
-2
+Articles L. 221-4 et R. 221-3-4
 
 |
 
-Délivrance des certificats d'immatriculation.
+3 |
+
+Délivrance des certificats d'immatriculation. |
+
+Articles R. 322-1 et suivants
 
 |
 
-Article R. 322-1 et suivants.
+Code du sport
+
+1 |
+
+Autorisation pour les courses et épreuves sportives se déroulant sur des voies ouvertes à la circulation publique. |
+
+Articles R. 331-10, R. 331-23, R. 331-24 et R. 331-26
 
 |
 
-Arrêté du 1er décembre 1959 modifié portant application du décret n° 55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
+ÉTRANGERS ET CIRCULATION TRANSFRONTIÈRE
 
-1
+Convention d'application de l'accord de Schengen du 14 juin 1985 entre les Gouvernements des Etats de l'Union économique Benelux, de la République fédérale d'Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes, signée à Schengen le 19 juin 1990
 
-|
+1 |
 
-Autorisation pour les courses et épreuves sportives se déroulant sur des voies ouvertes à la circulation publique.
-
-|
-
-Article 1er.
+Décision de prise en charge ou de reprise en charge par la France d'un demandeur d'asile sur la requête d'un Etat signataire de la convention de Schengen du 19 juin 1990. |
 
 |
 
-2
+Règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l'État membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des États membres par un ressortissant de pays tiers ou un apatride
+
+1 |
+
+Décision de prise en charge par la France d'un demandeur d'asile en vertu du règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013. |
 
 |
 
-Décision d'homologation des circuits de vitesse.
+Code de l'entrée et du séjour des étrangers et du droit d'asile
+
+1 |
+
+Décision refusant l'entrée en France à un demandeur d'asile. |
+
+Article L. 213-8-1
 
 |
 
-Article 17.
+2 |
+
+Remise aux autorités d'un Etat membre de l'Union européenne d'un demandeur d'asile se présentant à la frontière. |
+
+Article L. 213-8-1 |
+
+3 |
+
+Délivrance ou retrait de l'agrément individuel d'un représentant du Haut-Commissariat des Nations unies pour les réfugiés pour accéder à la zone d'attente. |
+
+Article R. * 223-4
+
+|
+
+4 |
+
+Délivrance ou retrait de l'habilitation d'une association humanitaire, délivrance ou retrait de l'agrément individuel d'un membre d'une association humanitaire pour accéder à la zone d'attente et décision autorisant, sur demande écrite et motivée, des visites supplémentaires d'un membre d'une association humanitaire. |
+
+Article R. * 223-12
+
+|
+
+5 |
+
+Interdiction faite à un étranger de résider dans un ou plusieurs départements. |
+
+Article R. * 321-3
+
+|
+
+6 |
+
+Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. |
+
+Article R. * 522-2
+
+|
+
+7 |
+
+Fixation du pays de renvoi d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. |
+
+Article R. * 523-2
+
+|
+
+8 |
+
+Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. |
+
+Article R. * 523-5
+
+|
+
+9 |
+
+Assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire. |
+
+Article R. * 541-1
+
+|
+
+10 |
+
+Décision prononçant l'amende prévue à l'article L. 625-2. |
+
+Article R. * 625-2
 
 |
 
@@ -140,694 +184,126 @@ Code de la voirie routière
 
 1 |
 
-Attestation d'équivalence et homologation des équipements routiers.
+Attestation d'équivalence et homologation des équipements routiers, suspension et annulation de cette attestation ou homologation. |
 
-Suspension et annulation de cette attestation ou homologation. |
+Articles R. 119-5 (II et III) et R. 119-11
 
-Articles R. 119-5 (II et III),
-
-R. 119-11. |
+|
 
 2 |
 
 Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. |
 
-Article R. 119-5 IV |
+Article R. 119-5 (IV) |
 
-ÉTRANGERS ET CIRCULATION TRANSFRONTIÈRE
+JEUX D'ARGENT ET DE HASARD
 
-Convention d'application de l'accord de Schengen du 14 juin 1985 entre les Gouvernements des Etats de l'Union économique Benelux, de la République fédérale d'Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes, signée à Schengen le 19 juin 1990
+Code de la sécurité intérieure
 
-Convention relative à la détermination de l'Etat responsable de l'examen d'une demande d'asile présentée dans l'un des Etats membres des Communautés européennes, signée à Dublin le 15 juin 1990
+1 |
 
-1
+Agrément d'appareils et de matériels de jeux. |
 
-|
-
-Décision de prise en charge par la France d'un demandeur d'asile sur la requête d'un Etat signataire de la convention de Schengen du 19 juin 1990 ou de la convention de Dublin du 15 juin 1990.
-
-|
-
-|
-
-Code de l'entrée et du séjour des étrangers et du droit d'asile
-
-1
-
-|
-
-Décision refusant l'entrée en France à un demandeur d'asile.
-
-|
-
-R. * 213-3
-
-|
-
-2
-
-|
-
-Agrément individuel d'un représentant du Haut-Commissariat des Nations unies pour les réfugiés pour accéder à la zone d'attente.
-
-|
-
-R. * 223-4
-
-|
-
-3
-
-|
-
-Habilitation d'une association humanitaire, agrément individuel d'un membre d'association pour accéder à la zone d'attente et décision autorisant des visites supplémentaires.
-
-|
-
-R. * 223-12
-
-|
-
-4
-
-|
-
-Interdiction faite à un étranger de résider dans un ou plusieurs départements.
-
-|
-
-R. * 321-3
-
-|
-
-5
-
-|
-
-Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.
-
-|
-
-R. * 522-2
-
-|
-
-6
-
-|
-
-Fixation du pays de renvoi d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.
-
-|
-
-R. * 523-2
-
-|
-
-7
-
-|
-
-Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.
-
-|
-
-R. * 523-5
-
-|
-
-8
-
-|
-
-Remise aux autorités d'un Etat membre de l'Union européenne d'un demandeur d'asile se présentant à la frontière.
-
-|
-
-R. * 531-2
-
-|
-
-9
-
-|
-
-Assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire.
-
-|
-
-R. * 541-1
-
-|
-
-10
-
-|
-
-Décision prononçant l'amende prévue à l'article L. 625-2.
-
-|
-
-R. * 625-2
-
-|
-
-COURSES ET JEUX
-
-Décret n° 59-1489 du 22 décembre 1959 portant réglementation des jeux dans les casinos des stations balnéaires, thermales et climatiques
-
-1
-
-|
-
-Agrément du modèle des appareils et matériels employés pour les jeux et du modèle de la machine automatique utilisée pour le prélèvement opéré au profit de la cagnotte.
-
-|
-
-Article 6 et 3e alinéa de l'article 16.
-
-|
-
-2
-
-|
-
-Etablissement de la liste des personnes exclues des salles de jeux.
-
-|
-
-Article 14.
-
-|
-
-Arrêté du 23 décembre 1959 modifié relatif à la réglementation des jeux dans les casinos
-
-1
-
-|
-
-Accord pour la cession de certains matériels de jeux après le départ d'un directeur responsable.
-
-|
-
-Dernier alinéa de l'article 13.
-
-|
-
-2
-
-|
-
-Décision d'interdire aux personnes ayant des intérêts dans le casino de prendre part aux jeux, sous peine d'exclusion.
-
-|
-
-Article 19.
-
-|
-
-3
-
-|
-
-Fixation du nombre de sixains (cartes à jouer). Agrément des fabricants de sixains.
-
-|
-
-1er alinéa de l'article 40 et 4e alinéa de l'article 10.
-
-|
-
-4
-
-|
-
-Fixation du nombre de paires de dès (pour le craps). Agrément des fabricants de dés (pour le craps).
-
-|
-
-3e alinéa de l'article 57-6.
-
-4e alinéa de l'article 57-6.
-
-|
-
-5
+Article R. 321-1
 
 |
 
-Agrément des modèles de sabot.
+2 |
 
-|
-
-Article 57-13 (et article 60).
-
-|
-
-6
-
-|
-
-Agrément d'un système de convoyage.
-
-|
-
-Article 69-13.
-
-|
-
-Instruction ministérielle du 15 juillet 1947 sur la réglementation des jeux dans les cercles
-
-1
-
-|
-
-Cercles ouverts.-Approbation du contrat de jeux intervenu entre le conseil d'administration et le directeur des jeux.
-
-|
-
-Alinéa 2 de l'article 4.
-
-|
-
-2
-
-|
-
-Approbation des mutations intervenues dans les cercles.
-
-|
-
-Article 12.
-
-|
-
-3
-
-|
-
-Demande de remplacement ou de désignation d'un membre du comité des jeux.
-
-|
-
-2e alinéa de l'article 17.
-
-|
-
-4
-
-|
-
-Agrément des employés de jeux.
-
-|
-
-1er alinéa de l'article 21.
-
-|
-
-5
-
-|
-
-Demande de renvoi des employés de jeux.
-
-|
-
-1er alinéa de l'article 23.
-
-|
-
-6
-
-|
-
-Exclusion des jeux.
-
-|
-
-Article 38.
-
-|
-
-7
-
-|
-
-Agrément des fabricants de cartes à jouer.
-
-|
-
-Article 45.
-
-|
-
-8
+Etablissement de la liste des personnes exclues des salles de jeux. |
 
-|
-
-Baccara chemin de fer : agrément du modèle de sabot et de panier.
-
-|
-
-4e alinéa de l'article 47.
-
-|
-
-CULTES ALSACE-MOSELLE
-
-(Abrogé)
-
-COLLECTIVITÉS LOCALES
-
-Code des communes
-
-1
-
-|
-
-Agrément des modèles de bracelets plombés.
-
-|
-
-2e alinéa de l'article R. 364-2.
-
-|
-
-SÉCURITÉ CIVILE
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Détermination de la compétence des laboratoires chargés de procéder aux essais en vue du classement des matériaux en réaction et résistance au feu des matériaux.
-
-|
-
-Article R. 121-5.
-
-|
-
-2
-
-|
-
-Homologation de classement par rapport au danger d'incendie d'un matériau ou d'un élément de construction et retrait de cette homologation.
-
-|
-
-Article R. 121-7.
-
-Article R. 121-10.
+Article R. 321-28
 
 |
 
-Arrêté du 15 juillet 1968 relatif aux conditions d'agrément pour les contrôles réglementaires prévus dans les immeubles de grande hauteur
-
-1
-
-|
-
-Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les immeubles de grande hauteur.
-
-|
-
-Article 1er.
-
-|
-
-Arrêté du 7 novembre 1990 relatif aux conditions d'agrément pour les vérifications réglementaires prévues dans les établissements recevant du public
-
-1
-
-|
-
-Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les établissements recevant du public.
-
-|
-
-Article 1er.
-
-|
-
-REMBOURSEMENT DES DÉPENSES ÉLECTORALES
-
-Loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République
-
-1
-
-|
-
-Remboursement des dépenses électorales des candidats à l'élection du Président de la République.
-
-|
-
-Article 3-V.
-
-|
-
-Décret n° 64-231 du 14 mars 1964 relatif à l'élection du Président de la République
-
-1
-
-|
-
-Remboursement des frais d'impression de la propagande officielle des candidats à l'élection du Président de la République.
-
-|
-
-Article 17.
-
-|
+REMBOURSEMENT DES FRAIS D'IMPRESSION DE LA PROPAGANDE OFFICIELLE
 
 Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen
 
-1
+1 |
+
+Remboursement des frais d'impression de la propagande officielle des candidats à l'élection des représentants au Parlement européen. |
+
+Article 18
 
 |
 
-Remboursement des dépenses électorales des candidats à l'élection des représentants au Parlement européen.
+Décret n° 2001-213 du 8 mars 2001 portant application de la loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République au suffrage universel
 
-|
+1 |
 
-Articles 2 et 19-1 de la loi et article L. 52-11-1 du code électoral.
+Remboursement des frais d'impression de la propagande officielle des candidats à l'élection du Président de la République. |
 
-|
-
-2
-
-|
-
-Remboursement des frais d'impression de la propagande officielle des candidats à l'élection des représentants au Parlement européen.
-
-|
-
-Article 18.
-
-|
-
-REMBOURSEMENT AUX ORGANISMES DE TÉLÉVISION ET DE RADIODIFFUSION DES DÉPENSES DE PROPAGANDE OFFICIELLE RADIOTÉLÉVISÉE
-
-Décret n° 64-231 du 14 mars 1964 relatif à l'élection du Président de la République
-
-1
-
-|
-
-Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection du Président de la République.
-
-|
-
-Article 12.
-
-|
-
-Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen
-
-1
-
-|
-
-Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection des représentants au Parlement européen.
-
-|
-
-Article 19.
-
-|
-
-Code électoral
-
-1
-
-|
-
-Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux élections législatives.
-
-|
-
-Article L. 167-1.
-
-|
-
-2
-
-|
-
-Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'Assemblée de Corse.
-
-|
-
-Article L. 375.
-
-|
-
-Loi n° 88-1028 du 9 novembre 1988 portant dispositions statutaires et préparatoires à l'autodétermination de la Nouvelle-Calédonie
-
-1
-
-|
-
-Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux assemblées provinciales en Nouvelle-Calédonie.
-
-|
-
-Article 76.
+Article 20
 
 |
 
 DIVERS
 
-Décret du 10 octobre 1859 relatif aux attributions du préfet de la Seine
+Code de la construction et de l'habitation
 
-1
+1 |
 
-|
+Détermination de la compétence des laboratoires chargés de procéder aux essais en vue du classement des matériaux en réaction et résistance au feu des matériaux. |
 
-Autorisation du ministre compétent de poursuivre l'exécution de travaux gênants pour la circulation en dépit de l'opposition du préfet de police.
-
-|
-
-3e alinéa de l'article 2.
+Article D. 121-5
 
 |
 
-2
+2 |
+
+Homologation de classement par rapport au danger d'incendie d'un matériau ou d'un élément de construction et retrait de cette homologation. |
+
+Articles D. 121-7 et D. 121-10
 
 |
 
-Décision du ministre de passer outre en cas d'opposition du préfet de police à la demande d'avis formulée par le préfet de Paris concernant la concession d'emplacement d'échoppe ou d'étalage fixe ou mobile, de lieu de stationnement de voiture sur la voie publique ou la délivrance d'autorisation concernant les établissements sur la rivière, les canaux ou leurs dépendances.
+Code de la sécurité intérieure
+
+1 |
+
+Autorisation de port d'armes. |
+
+Articles R. 315-5 et R. 315-6 |
+
+Décret du 10 octobre 1859 relatif aux attributions du préfet de la Seine (de Paris) et du préfet de police
+
+1 |
+
+Autorisation du ministre compétent de poursuivre l'exécution de travaux gênants pour la circulation en dépit de l'opposition du préfet de police. |
+
+Troisième alinéa de l'article 2 |
+
+2 |
+
+Décision du ministre de passer outre en cas d'opposition du préfet de police à la demande d'avis formulée par le préfet de Paris concernant la concession d'emplacement d'échoppe ou d'étalage fixe ou mobile, de lieu de stationnement de voiture sur la voie publique ou la délivrance d'autorisation concernant les établissements sur la rivière, les canaux ou leurs dépendances. |
+
+Article 3 |
+
+Décret n° 2005-1726 du 30 décembre 2005 relatif aux passeports
+
+1 |
+
+Délivrance des passeports de service. |
+
+Article 14 |
+
+Décret n° 2007-807 du 11 mai 2007 relatif aux associations, fondations, congrégations et établissements publics du culte et portant application de l'article 910 du code civil
+
+1 |
+
+Autorisation de libéralités au profit d'Etats ou d'établissements étrangers. |
+
+Article 6-5 |
+
+1 |
+
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services de l'administration centrale du ministère de l'intérieur. |
 
 |
 
-Article 3.
+2 |
 
-|
-
-Décret n° 66-388 du 13 juin 1966 modifié relatif à la tutelle administrative
-
-1
-
-|
-
-Autorisation de libéralités au profit d'Etats ou d'établissements étrangers.
-
-|
-
-Article 3.
-
-|
-
-Décret du 18 octobre 1978 modifiant le décret n° 73-364 du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions
-
-1
-
-|
-
-Port d'armes temporaire et permanent.
-
-|
-
-Article 1er.
-
-|
-
-Arrêté du 1er décembre 1944 relatif aux passeports de service
-
-1
-
-|
-
-Délivrance des passeports de service.
-
-|
-
-Article 2.
-
-|
-
-Code des marchés publics
-
-1
-
-|
-
-Décision d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics.
-
-|
-
-Article 42.
-
-|
-
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail, ainsi qu'à la prévention médicale dans la fonction publique
-
-1
-
-|
-
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
-
-|
-
-Article 8.
-
-|
-
-1
-
-|
-
-Décisions amiables à caractère financier résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité de l'administration centrale.
-
-|
-
-|
-
-2
-
-|
-
-Décisions à caractère financier résultant de l'application des décisions :
-
--des cours administratives d'appel ;
-
--du Conseil d'Etat ;
-
--d'un tribunal administratif en tant qu'elles se rapportent à l'activité de l'administration centrale.
-
-|
-
-|
-
-3
-
-|
-
-Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire de l'Etat ou le ministre des affaires étrangères représentait l'Etat en défense.
-
-|
+Décisions amiables d'indemnisation des préjudices résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité des services de l'administration centrale du ministère de l'intérieur. |
 
 |
