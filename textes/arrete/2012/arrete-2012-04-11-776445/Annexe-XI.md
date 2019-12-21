@@ -10,7 +10,7 @@ Les compétences décrites ci-dessous sont acquises progressivement tout au long
 
 UC1 EC d'encadrer en ski alpin et ses activités dérivées en sécurité.
 
-OI 1 EC de justifier du niveau de pratique attesté par le test euro test :
+OI 1 EC de justifier du niveau de pratique attesté par le l'épreuve technique :
 
 OI 111 EC d'évoluer avec aisance et maîtrise sur tout type de terrain et tout type de neige en sécurité.
 
@@ -20,7 +20,7 @@ OI 113 EC de réaliser en sécurité des démonstrations techniques ;
 
 OI 114 EC d'expliciter les différents éléments de la démonstration technique.
 
-OI 12 EC de réaliser les gestes professionnels nécessaires à la sécurité des pratiquants intégrant les exigences du test de l'euro sécurité :
+OI 12 EC de réaliser les gestes professionnels nécessaires à la sécurité des pratiquants intégrant les exigences du l'épreuve de sécurité :
 
 OI 121 EC d'évaluer les risques objectifs liés à l'activité pour le pratiquant ;
 

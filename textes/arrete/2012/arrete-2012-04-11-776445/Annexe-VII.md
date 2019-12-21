@@ -38,34 +38,80 @@ Les candidats ayant obtenu 70 points sur 140 à l'ensemble des épreuves sont ad
 
 ANNEXE VII-3
 
-L'UNITÉ DE FORMATION "APPROFONDISSEMENT DE LA SECURITÉ SUR PISTES,
+L'UNITÉ DE FORMATION APPROFONDISSEMENT DE LA SECURITE SUR PISTES, HORS DES PISTES ET MILIEU MONTAGNARD ENNEIGÉ INCLUANT L'ÉPREUVE DE SÉCURITÉ
 
-HORS DES PISTES ET MILIEU MONTAGNARD ENNEIGÉ INCLUANT LE TEST EUROSECURITÉ"
+Les modalités d'évaluation de l'unité de formation approfondissement de la sécurité sur pistes, hors des pistes et milieu montagnard enneigé incluant l'épreuve de sécurité sont les suivantes.
 
-Les modalités d'évaluation sont les suivantes :
+1. Modalités d'évaluation hors épreuve de sécurité
 
-A. - Première évaluation.
+Les modalités d'évaluation hors épreuve de sécurité comprennent une évaluation continue et un entretien.
 
-Une épreuve de recherche multi-victimes en avalanche à l'aide d'un DVA (acquis/ non acquis).
+1.1. Evaluation continue (coefficient 1, notée sur 20)
 
-La réussite à cette épreuve conditionne l'accès du stagiaire à la poursuite de la formation.
+L'évaluation continue porte sur :
 
-Peuvent accéder à la seconde évaluation, les candidats ayant validé l'épreuve mentionnée au A.
+a) l'enseignement des techniques d'évolution de ski hors-pistes de niveau classe 4 ;
 
-B. - Seconde évaluation.
+b) la préparation d'itinéraires et la conduite de groupe en ski hors-piste et en randonnée à ski et la gestion des risques.
 
-1° La rédaction et la transmission d'un message d'alerte sur le terrain (acquis, non acquis) ;
+1.2. Entretien (coefficient 1, noté sur 20)
 
-2° Une évaluation continue (coefficient 1, notée sur 20) portant sur :
+L'entretien d'une durée de 10 minutes, porte sur un dossier préparé par le candidat, relatant l'expérience personnelle acquise lors de six sorties en ski hors-piste ou en randonnée à ski. Ces sorties sont effectuées hors zone glaciaire non balisée et hors des terrains dont la fréquentation fait appel aux techniques de l'alpinisme. Les modalités de constitution du dossier sont fixées par le directeur général de l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme, sur proposition du responsable des formations du ski alpin de ce site.
 
-2.1. L'enseignement des techniques d'évolution de ski hors-pistes de niveau classe 4 ;
+2. Modalités d'évaluation de l'épreuve de sécurité
 
-2.2. La préparation d'itinéraires et la conduite de groupe en ski hors-pistes et en randonnée à ski et la gestion des risques ;
+L'épreuve de sécurité a pour objectif d'évaluer le respect, par les candidats, des exigences minimales de sécurité essentielles pour les moniteurs de ski travaillant dans des environnements spécifiques. Elle permet d'évaluer les connaissances et les compétences des candidats en matière de sécurité au moyen d'un examen théorique et d'un examen pratique comprenant cinq modules obligatoires, faisant chacun l'objet d'une évaluation individuelle.
 
-2.3. Un dossier relatif aux six sorties en ski hors-pistes ou en randonnée à ski relatant l'expérience personnelle acquise lors de leur réalisation. Celles-ci sont effectuées hors zone glaciaire non balisée et hors des terrains dont la fréquentation fait appel aux techniques de l'alpinisme. Les modalités de constitution de ce dossier sont fixées par le directeur de l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme, sur proposition du responsable des formations du ski alpin de ce site ;
+En cas d'échec du candidat à un ou plusieurs modules ou dans le cas où l'épreuve de sécurité ne comprend pas tous les modules, l'épreuve doit être repassée dans son intégralité.
 
-2.4 Une évaluation écrite et un entretien portant sur la connaissance du milieu montagnard enneigé : la préparation d'itinéraire, la gestion des risques, la cartographie, la navigation, la météorologie, les accidents liés à la montagne.
+2.1. L'examen théorique (coefficient 1, noté sur 20)
 
-Pour valider l'unité de formation, le candidat doit valider la première évaluation (A), la seconde évaluation (B) 1° et obtenir un total minimum de 10 points à la seconde évaluation (B) 2°.
+L'examen théorique consiste à passer un message d'alerte aux services de secours locaux après un accident d'avalanche, dans la langue du pays d'accueil. Pour valider ce module, le candidat doit passer un appel clair et compréhensible, contenant des informations précises permettant aux services de secours d'accomplir leur mission.
 
-Le test eurosécurité est composé des épreuves de la première évaluation (A) et des épreuves mentionnées au 1°, au 2.2 et au 2.4 de la seconde évaluation (B).
+2.2. L'examen pratique
+
+L'examen pratique pour le ski hors-pistes comporte trois modules d'enseignement axés sur l'encadrement d'un groupe et un module de recherche et de sauvetage de deux personnes ensevelies sous une avalanche. L'examen pratique se déroule dans une des langues officielles de l'Etat membre dans lequel il se déroule.
+
+Les trois modules sur l'encadrement d'un groupe ont une durée de 15 minutes chacun. Le candidat dispose d'un temps de préparation de 15 minutes pour les trois modules. Pour valider ces modules, le candidat doit réussir au moins 75 % des exercices.
+
+2.2.1. Modules sur l'encadrement d'un groupe
+
+Module 1 : Interprétation de la prévision d'avalanche (coefficient 1, noté sur 20)
+
+Le module 1 consiste, pour le candidat, à interpréter la prévision d'avalanche avec son groupe, à comparer les informations fournies dans la prévision avec ses propres observations sur site et à évaluer la situation.
+
+Module 2 : Conduite de groupe (coefficient 2, noté sur 20)
+
+Le module 2 consiste, pour le candidat, à emmener son groupe sur une descente hors-piste, à proposer un itinéraire en tenant compte de facteurs tels que le choix de neige, les points de rassemblement et les formes d'organisation du groupe et à travailler avec son groupe pour évaluer les risques de la descente.
+
+Pour le module 3 (coefficient 1, noté sur 20), une autre forme d'évaluation est sélectionnée de manière aléatoire, parmi les trois possibilités suivantes :
+
+a) Interprétation et compréhension de la météorologie
+
+1. Les prévisions météorologiques de montagne montrent une situation de Nordstau , à savoir de fortes précipitations venant du nord (hautes pressions à l'ouest et basses pressions à l'est). Comment se produit cette situation ? Où et en quelle quantité peut-on s'attendre à des précipitations approximativement ? Comment cette situation peut-elle influencer les avalanches ?
+
+2. Les prévisions météorologiques montrent l'arrivé probable de vents forts de foehn sur les pentes septentrionales des hautes montagnes. A quoi ressembleront les conditions météorologiques dans le nord et le sud du massif montagneux et comment cela affectera-t-il probablement la situation d'avalanche ?
+
+3. Evaluez la situation météorologique sur place. Quels sont les facteurs qui influencent l'évolution des conditions météorologiques et comment celles-ci vont-elles évoluer au cours des prochains jours, à votre avis ?
+
+b) Compréhension des dangers dans les régions de haute montagne
+
+1. Quels sont les facteurs qui peuvent conduire à l'hypothermie et quelles sont les précautions à prendre ? Quels sont les signes caractéristiques de l'hypothermie et comment réagir ? Quels symptômes indiquent qu'il est nécessaire de consulter un médecin ?
+
+2. Quels sont les facteurs qui peuvent provoquer des gelures et quelles sont les précautions à prendre ? Quels sont les signes caractéristiques des gelures et comment faut-il réagir en cas de gelures localisées ? Quels sont les facteurs qui favorisent le développement de ces gelures ? Quels symptômes indiquent qu'il est nécessaire de consulter un médecin ?
+
+3. Vous vous trouvez au milieu d'un long parcours de descente. La visibilité se détériore progressivement en raison du brouillard. Comment trouvez-vous vos repères (ou : vous orientez-vous) sans utiliser de GPS et quelles tactiques de conduite de groupe utilisez-vous ?
+
+c) Capacité à évaluer et à comprendre le manteau neigeux
+
+1. Analysez la stabilité du manteau neigeux actuel.
+
+2. Décrivez le manteau neigeux possible lors d'un hiver avec peu de chutes de neige. Expliquez les phénomènes météorologiques susceptibles de provoquer l'instabilité du manteau neigeux.
+
+3. Décrivez le manteau neigeux possible lors d'un hiver avec beaucoup de chutes de neige. Expliquez les phénomènes météorologiques susceptibles de provoquer l'instabilité du manteau neigeux.
+
+2.2.2. Module de recherche et de sauvetage des personnes ensevelies sous une avalanche (coefficient 1, noté sur 20)
+
+L'objectif du module est de détecter deux DVA (détecteurs de victimes d'avalanche) et de récupérer au moins un des deux dispositifs. Chaque DVA est placé dans un sac avec un isolant d'environ 60 cm de large et enseveli mais sans signaux superposés, à une profondeur d'environ 1 mètre. Un DVA d'entraînement peut être utilisé. La zone de recherche est limitée à une superficie maximale de 50 mètres × 50 mètres. Le délai maximal pour retrouver les deux DVA et récupérer l'un d'eux est de 8 minutes. Pour participer au module de recherche, les candidats doivent disposer d'un DVA numérique comportant au moins trois antennes. Les candidats ayant des DVA analogiques ne sont pas autorisés à présenter ce module. Pour valider ce module, le candidat doit localiser les deux DVA ensevelis et récupérer l'un d'eux dans le temps imparti.
+
+Pour valider l'unité de formation approfondissement de la sécurité sur pistes, hors des pistes et milieu montagnard enneigé incluant l'épreuve de sécurité le candidat doit valider l'ensemble des modules et obtenir un minimum de 80 points. A l'exception des modules sur l'encadrement d'un groupe de l'épreuve de sécurité, toute note inférieure à 10 est éliminatoire.

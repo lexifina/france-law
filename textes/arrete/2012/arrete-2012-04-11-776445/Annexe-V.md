@@ -1,6 +1,6 @@
 # Article Annexe V
 
-MODALITÉS D'ORGANISATION ET D'ÉVALUATION DU SLALOM GÉANT DE L'ÉPREUVE DE L'EUROTEST
+L'ÉPREUVE TECHNIQUE
 
 I. - Composition du dossier d'inscription
 
@@ -16,11 +16,9 @@ Le dossier comprend les pièces suivantes :
 
 5. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski datant de moins d'un an à la date de clôture des inscriptions.
 
-6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski alpin ou le diplôme du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond" ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond".
+6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski alpin ou le diplôme du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond" ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond" ou du diplôme d'Etat de ski-moniteur national de ski nordique de fond.
 
-7. Pour les personnes mineures, l'autorisation parentale ou celle du tuteur légal.
-
-Les convocations aux Eurotests de la première période (Eurotests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet (**). Cette attestation est conservée par le candidat dans le cas où il échouerait aux Eurotests, en vue d'une éventuelle inscription aux Eurotests de la seconde période (Eurotests se déroulant entre les mois de mars et avril).
+Les convocations aux épreuves techniques de la première période (épreuves techniques se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet (**). Cette attestation est conservée par le candidat dans le cas où il échouerait aux Eurotests, en vue d'une éventuelle inscription aux Eurotests de la seconde période (Eurotests se déroulant entre les mois de mars et avril).
 
 II. ― Organisation et évaluation
 
@@ -70,11 +68,11 @@ Le temps de référence est constitué de la moyenne des deux moyennes ci-dessus
 
 5.5. Modalités de calcul du temps maximal d'admission :
 
-― pour les garçons : TA G = TB × 1,18
+― pour les garçons : TAG = TB × 1,19
 
-― pour les filles : TA F = TB × 1,24.
+― pour les filles : TAF = TB × 1,25
 
-Légende : TB = temps de base, TA G = temps d'admission garçons, TA F = temps d'admission filles.
+Légende : TB = temps de base, TAG = temps d'admission garçons, TAF = temps d'admission filles.
 
 III. ― Composition du jury d'épreuve
 
