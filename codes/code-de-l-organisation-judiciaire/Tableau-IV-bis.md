@@ -72,9 +72,7 @@ Guingamp
 
 |
 
-Matières relevant de l'article 311-20 du code civil.
-
-Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles 205,206 et 376 à 377-3 du code civil, et de celles relevant des articles 233,237,242,296,371-4,515-7,515-8,840,1400,1536 et 1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant le 1er septembre 2014.
+Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles 205, 206 et 376 à 377-3 du code civil, et de celles relevant des articles 233, 237, 242, 296, 371-4, 515-7, 515-8, 840, 1400, 1536 et 1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant le 1er septembre 2014.
 
 Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
 
