@@ -700,9 +700,17 @@ Les véhicules immatriculés en France qui, en application soit du 3.5 de la pr�
 
 Toutes les règles définies par le présent arrêté et applicables aux certificats d'agrément ADR sont également applicables aux documents nationaux mentionnés ci-dessus, notamment en ce qui concerne les conditions dans lesquelles ils sont délivrés ou renouvelés et leur présence parmi les documents de bord.
 
-3.7. Dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV.
+3.7. Dispositions spéciales relatives à la livraison de certaines marchandises en colis.
+
+En application du 8.3.3. de l'ADR, l'ouverture des colis en cours de transport est interdite à l'exception des cas suivants :
+
+3.7.1. Livraison de produits de traitement de l'eau en GRV.
 
 Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. La liste des matières autorisées ainsi que les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
+
+3.7.2. Livraison de carburants destinés aux moteurs à combustion.
+
+Les livraisons de carburants destinés aux moteurs à combustion sont autorisées sous réserve d'appliquer les dispositions de sécurité complémentaires définies à l'appendice IV. 10 du présent arrêté. Les autres dispositions pertinentes du présent arrêté restent applicables.
 
 3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange.
 

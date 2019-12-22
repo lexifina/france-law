@@ -106,7 +106,7 @@ Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyau
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
-Les flexibles sont conformes à la norme NF EN ISO 21012 : 2018 .
+Les flexibles sont conformes à la norme NF EN ISO 21012 : 2018 . Toutefois les agréments de type émis avant le 1er janvier 2020 conformément à la norme NF EN 12434 : 2001 restent valides jusqu'à leur échéance.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
@@ -2798,7 +2798,7 @@ APPENDICE IV. 9
 
 PRESCRIPTIONS COMPLÉMENTAIRES APPLICABLES À LA LIVRAISON EN GRV DE PRODUITS DE TRAITEMENT DE L'EAU
 
-(Voir 3.7 de l'annexe I du présent arrêté)
+(Voir 3.7.1 de l'annexe I du présent arrêté)
 
 Les dispositions du présent appendice sont applicables aux livraisons en GRV de produits de traitement de l'eau pour lesquelles le déchargement s'effectue par vidange du GRV. Les autres dispositions du présent arrêté auxquelles les prescriptions complémentaires suivantes ne dérogent pas restent applicables à ces opérations.
 
@@ -2906,7 +2906,7 @@ La partie pratique vise à familiariser les personnes concernées aux consignes 
 
 7. Document de transport et documents de bord.
 
-7.1. Le document de transport prévu au 5.4.1 comporte la mention suivante : Livraison selon le 3.7 de l'annexe I de l'arrêté TMD .
+7.1. Le document de transport prévu au 5.4.1 comporte la mention suivante : Livraison selon le 3.7.1 de l'annexe I de l'arrêté TMD .
 
 7.2. Outre les documents prévus au 8.1.2, l'attestation de formation du conducteur visée au 6.3 ci-dessus et l'autorisation visée au 5.1 ci-dessus sont présentes à bord de toute unité de transport effectuant des livraisons dans le cadre du présent appendice.
 
@@ -2921,3 +2921,201 @@ Un document spécifique décrit les mesures à prendre au cours des opérations 
 -la marche à suivre en cas d'erreur de déchargement.
 
 Ce document est présent en permanence à bord de l'unité de transport effectuant les livraisons visées par le présent appendice. Il ne se substitue pas aux consignes écrites prévues au 5.4.3.
+
+APPENDICE IV. 10
+
+PRESCRIPTIONS APPLICABLES À LA DISTRIBUTION MOBILE DE CARBURANTS DESTINÉS AUX MOTEURS À COMBUSTION
+
+(Voir 3.7.2. de l'annexe I du présent arrêté)
+
+Les dispositions du présent appendice sont applicables aux opérations de livraison, en cours de transport, de carburants destinés aux moteurs à combustion. Les autres dispositions du présent arrêté auxquelles les prescriptions suivantes ne dérogent pas restent applicables à ces opérations.
+
+1. Matières autorisées et quantités transportées.
+
+1.1. Seules sont autorisées dans le cadre du présent appendice les livraisons des carburants liquides suivants :
+
+-essence du n° ONU 1203 ;
+
+-carburant diesel du n° ONU 1202 ;
+
+-mélange d'éthanol et d'essence contenant plus de 10 % d'éthanol du n° ONU 3475 ;
+
+-kérosène du n° ONU 1223.
+
+1.2. Les quantités de carburants transportés ne dépassent pas :
+
+-450 litres pour les carburants affectés aux n° ONU 1203 et 3475 ;
+
+-1 000 litres pour les carburants affectés aux n° ONU 1202 et 1223.
+
+La quantité totale de carburants transportés ne dépasse pas 1 000 litres.
+
+1.3. Le transport simultané de toute autre marchandise dangereuse dans la même unité de transport est interdit.
+
+2. GRV utilisés.
+
+2.1. Types de GRV.
+
+Seuls sont utilisés des GRV de type 31A, 31B ou 31N. Ces derniers doivent satisfaire aux prescriptions d'épreuve pour le groupe d'emballage II.
+
+2.2. Ces GRV doivent être équipés :
+
+-d'un dispositif d'obturation de l'orifice de remplissage ;
+
+-d'un évent conforme aux dispositions du 4.1.1.8 ;
+
+-d'un dispositif d'obturation du système de vidange ;
+
+-d'un robinet séparant le GRV du dispositif de pompage.
+
+3. Véhicules.
+
+3.1. Types de véhicules.
+
+3.1.1. L'utilisation d'une unité de transport comprenant une remorque est interdite.
+
+3.1.2. Les seuls véhicules autorisés sont des véhicules couverts, dotés d'un compartiment de chargement séparé de la cabine par une cloison continue, soudée ou disposant d'un joint sur toute sa périphérie. Celle-ci peut être d'origine ou aménagée par l'exploitant, mais sans nécessairement être étanche. Les ouvertures sont fermées par des portes verrouillables.
+
+3.1.3. Le compartiment de chargement est doté d'un système de ventilation forcée ou d'une ventilation haute et basse permettant l'évacuation des vapeurs.
+
+3.2. Un récipient amovible spécifique est présent à bord afin de recevoir d'éventuels produits absorbants souillés. Ce dernier est étanche et doit pouvoir être fermé hermétiquement.
+
+3.3. Arrimage du chargement.
+
+Les véhicules utilisés sont conçus de manière à permettre l'arrimage des GRV selon les dispositions du 7.5.7.
+
+3.4. Equipement électrique.
+
+L'équipement électrique des véhicules destinés au transport des matières relevant des n° ONU 1203,3475 et 1223 doit être conforme aux dispositions du 9.7.8.2 de l'ADR. Pour l'application de ces dispositions, les zones “ 0 ” et “ 1 ” sont définies comme suit :
+
+Zone 0 : Intérieur des GRV, accessoires de remplissage et de vidange, et tuyauterie de récupération des vapeurs.
+
+Zone 1 : Intérieur du compartiment de chargement du véhicule ainsi que la zone située à moins de 0,5 m des dispositifs d'aération et des évents.
+
+4. Dispositifs pour la livraison.
+
+4.1. Flexibles.
+
+4.1.1. Les flexibles utilisés pour la distribution sont réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques et sont conformes aux dispositions du paragraphe 2.5. de l'appendice IV. 1 du présent arrêté.
+
+4.1.2. Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui doit être présente à bord du véhicule durant toute opération de transport.
+
+Lorsqu'au cours de ce contrôle, le flexible présente des traces manifestes de détérioration (fissures, crevasses ou usure anormale), il est remplacé avant toute nouvelle opération de livraison.
+
+4.2. Les dispositifs utilisés pour la livraison des carburants affectés aux n° ONU 1203 et 3475 sont équipés d'un système de récupération de vapeurs constitué des éléments suivants :
+
+-un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
+
+-un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
+
+-un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule livré pour les transférer vers le GRV de transport ;
+
+-un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
+
+4.3. Dispositifs de sécurité.
+
+Toute opération de livraison est contrôlée par un dispositif de sécurité qui interrompt automatiquement le remplissage du réservoir quand le niveau maximal d'utilisation est atteint.
+
+Afin de limiter les risques de perte de marchandises dangereuses en cas d'incident, une vanne est installée entre la pompe et l'entrée de l'enrouleur.
+
+De plus, un raccord cassant est monté au niveau du pistolet de distribution permettant l'arrêt de l'écoulement du carburant en cas d'arrachement accidentel de ce dernier.
+
+4.4. Système d'arrêt d'urgence.
+
+Un système d'arrêt d'urgence de la pompe est installé. Il permet l'arrêt immédiat du système de distribution en cas de survenue d'incident en cours de distribution.
+
+5. Dispositions relatives au remplissage des GRV et aux opérations de livraison.
+
+5.1. Remplissage des GRV utilisés.
+
+5.1.1. Avant tout remplissage le conducteur ou le préposé procède à une vérification des GRV afin de s'assurer de leur aptitude au transport.
+
+Les points de vérification, la méthode de vérification et le cas échéant la traçabilité de la vérification sont formalisés dans une procédure écrite tenue à disposition des agents de l'administration, conformément à l'article 6-1 du présent arrêté.
+
+5.1.2. Il est interdit de procéder à des opérations de remplissage des GRV sur le domaine public routier. Les opérations ont lieu au sein de dépôts de carburant ou de stations-service.
+
+5.2. Opérations de livraison de carburant.
+
+5.2.1. Durant les opérations de transport, le robinet séparant le GRV du dispositif de pompage mentionné au 2.3.2 du présent appendice est en position fermée.
+
+5.2.2. La livraison en carburant de véhicules est interdite :
+
+-en rez-de-chaussée des immeubles habités ou occupés par des tiers ou en sous-sol ;
+
+-sur le domaine public routier, à l'exception des chantiers de travaux fermés au public.
+
+Une distance minimale de 5 mètres doit être observée entre le point de livraison et la limite du domaine public ainsi que des limites d'implantation de tout immeuble habité ou occupé par des tiers.
+
+5.2.3. Le conducteur balise la zone de livraison à l'aide de cônes de Lübeck et dispose des panneaux avec les messages indiquant les interdictions :
+
+-d'accès dans la zone balisée ;
+
+-de fumer ;
+
+-d'utiliser des équipements électroniques.
+
+Le balisage ainsi réalisé doit pouvoir empêcher tout accès dans un rayon de 2 mètres autour de la zone de remplissage.
+
+5.2.4. Mesures à prendre.
+
+Avant toute livraison, le conducteur s'assure que la cale de roue est bien disposée sur le véhicule de livraison. Il dispose également un tapis absorbant ou un réservoir collecteur contenant de l'absorbant sous l'orifice du réservoir du véhicule livré.
+
+L'utilisation des appareils de livraison et le transfert du produit sont assurés par le conducteur.
+
+Durant les opérations de livraison, les moteurs de propulsion des véhicules (véhicule de livraison et véhicule approvisionné) sont arrêtés.
+
+6. Equipements divers et équipements de protection individuelle.
+
+6.1. Le véhicule est muni des équipements de sécurité suivants :
+
+-une cale de roue aux dimensions appropriées ;
+
+-du liquide de rinçage pour les yeux ;
+
+-un équipement de protection des yeux ;
+
+-une pelle ;
+
+-une protection de plaque d'égout ;
+
+-un sac de matériau absorbant ou un tapis absorbant adapté aux quantités livrées ;
+
+-un réservoir collecteur.
+
+6.2. Moyens de lutte contre l'incendie.
+
+Afin de prévenir tout risque d'incendie les équipements suivants sont présents à bord de l'unité de transport :
+
+-un extincteur à poudre de type ABC de 2 kg disposé en cabine ;
+
+-un extincteur à poudre de type ABC de 6 kg disposé dans le compartiment de charge ;
+
+-un système d'extinction automatique dans le compartiment de charge.
+
+6.3. Equipements de protection individuelle.
+
+Chaque membre d'équipage dispose :
+
+-d'une tenue traitée anti-feu, antistatique et déperlante ;
+
+-d'une paire de gants adaptés aux hydrocarbures ;
+
+-de chaussures de sécurité.
+
+7. Documents d'accompagnement.
+
+7.1. Document de transport.
+
+Toute opération de transport doit être accompagnée d'un document de transport conforme aux dispositions du 5.4.1. En outre ce document doit comporter la mention suivante : “ Transport selon le 3.7.2 de l'annexe I de l'arrêté TMD ”.
+
+7.2. Consignes écrites relatives aux opérations de remplissage et de livraison.
+
+Un document décrivant de manière détaillée les consignes de remplissage et de livraison est présent à bord du véhicule. Il comporte notamment :
+
+-une procédure d'urgence en cas d'épandage accidentel ;
+
+-une procédure d'urgence en cas de déclenchement d'un feu durant les opérations de remplissage ou de livraison.
+
+8. Formation de l'équipage.
+
+Le conducteur est titulaire d'un certificat correspondant à la formation de base ainsi qu'à la spécialisation “ produits pétroliers ” au sens du 4.3 c) de l'annexe I du présent arrêté.
