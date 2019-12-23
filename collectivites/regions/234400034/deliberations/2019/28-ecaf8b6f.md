@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 28 — délibérations afférentes aux actes budgétaires (budget primitif,budget supplémentaire,compte
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2019-12-23
+- Matière : 7.1.2 Délibérations afférentes aux actes budgétaires (budget primitif,budget supplémentaire,compte administratif)
+- Objet : délibérations afférentes aux actes budgétaires (budget primitif,budget supplémentaire,compte
+- Transmis à la préfecture : 2019-12-23
+- Votants : 80
+- Pour : 62
+- Contre : 0
+- Abstentions : 18
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-18598.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
