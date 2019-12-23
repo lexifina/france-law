@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 107 — 74 - Actions territoriales
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2019-12-23
+- Matière : 8.9
+- Objet : 74 - Actions territoriales
+- Transmis à la préfecture : 2019-12-23
+- Votants : 71
+- Pour : 47
+- Contre : 5
+- Abstentions : 19
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-18660.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
