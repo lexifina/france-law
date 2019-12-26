@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912150
+
+- Question : [SEQ190912150](seq190912150.md) — Catégorie d'appartenance des techniciens paramédicaux de la fonction publique territoriale
+
+## Réponse
+
+*Action et comptes publics, JO du 2019-12-26, page 6371*
+
+Le décret n° 2017-1259 du 9 août 2017 portant dispositions statutaires relatives aux personnels de rééducation de la fonction publique hospitalière prévoit les modalités de recrutement, de nomination et de classement dans la catégorie A de la fonction publique hospitalière (FPH) des membres des corps de pédicures-podologues, masseurs-kinésithérapeutes, psychomotriciens, orthophonistes et orthoptistes, ainsi que les conditions d'intégration des agents de ces corps en catégorie A, rejoignant ainsi les ergothérapeutes reclassés en catégorie A depuis le décret n° 2015-1048 du 21 août 2015. Ces mesures, pour être transposées à la fonction publique territoriale (FPT), doivent faire l'objet d'adaptations car, dans la FPT, ces métiers sont regroupés par spécialité, dans un seul cadre d'emplois, celui des techniciens paramédicaux, dont seules sept spécialités (ergothérapeutes, pédicures-podologues, masseurs-kinésithérapeutes, psychomotriciens, orthophonistes, orthoptistes, manipulateurs en électroradiologie médicale) sur dix doivent être reclassées en catégorie A selon des modalités différentes en fonction des spécialités. De plus, dans la FPT, les reclassements ne peuvent s'opérer dans les mêmes conditions que pour les fonctionnaires de la FPH car la plupart des fonctionnaires territoriaux ne sont pas en catégorie active et sont donc reclassés automatiquement en catégorie A, sans possibilité d'exercer un droit d'option, à l'instar de ce qui a été fait pour le cadre d'emplois des infirmiers en soins généraux. Ces travaux sont en cours de finalisation et les textes résultant de ces adaptations devraient être proposés au Conseil supérieur de la fonction publique territoriale très prochainement.
