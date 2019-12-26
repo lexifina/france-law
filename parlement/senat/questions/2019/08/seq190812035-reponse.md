@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190812035
+
+- Question : [SEQ190812035](seq190812035.md) — Terrain laissé en friche
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2019-12-26, page 6394*
+
+L'article L. 2213-25 du code général des collectivités territoriales (CGCT) permet au maire, pour des motifs environnementaux, d'imposer à un propriétaire privé de remettre en état un terrain non bâti situé à l'intérieur d'une zone d'habitation. L'absence du décret d'application prévu par le dernier alinéa de cet article ne fait pas obstacle à son application immédiate (CE, 11 mai 2007, n° 284681). Ainsi, sur le fondement de ces dispositions, la jurisprudence a par exemple admis qu'un maire puisse imposer le nettoyage du jardin d'une propriété envahi par une végétation abondante et vigoureuse sur lequel des engins de chantier inutilisés depuis de nombreuses années et détériorés avaient été abandonnés à la suite de l'arrêt des travaux de rénovation d'un immeuble ancien implanté sur l'une des parcelles (CAA Nancy, 17 janvier 2008, n° 06NC01005). La jurisprudence a également reconnu que l'accumulation de gravats, de divers détritus et de déchets de chantiers était de nature à justifier l'intervention du maire sur le fondement des dispositions de l'article L. 2213-25 du CGCT (CAA Nancy, 11 février 2010, n° 09NC00279). Dans une telle situation, il appartient dès lors au maire de mettre en demeure le propriétaire négligent et, à défaut d'exécution par l'intéressé dans le délai imparti par la mise en demeure, d'exécuter d'office les travaux de remise en état du terrain. La commune pourra obtenir le remboursement des frais engagés par l'émission d'un titre exécutoire à l'encontre du propriétaire du terrain.
