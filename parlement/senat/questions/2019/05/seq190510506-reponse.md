@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510506
+
+- Question : [SEQ190510506](seq190510506.md) — Mandat de protection future pour autrui
+
+## Réponse
+
+*Justice, JO du 2019-12-26, page 6406*
+
+Si les dispositions issues de la loi n° 2007-308 du 5 mars 2007 portant réforme de la protection juridique des majeurs ont effectivement offert aux parents d'enfants handicapés la possibilité de désigner un mandataire chargé de le représenter pour le cas où ils ne pourraient plus assumer cette mission, elles ont circonscrit cette possibilité d'établissement pour autrui à un acte notarié. Cette condition, prévue à l'article 477 alinéa 3 du code civil, posée à l'établissement d'un mandat pour autrui s'explique par l'importance de l'acte envisagé, qui concerne un tiers par rapport au mandant. Le notaire s'assurera notamment de l'accord des deux parents, de la minorité de la personne concernée, le cas échéant, de leur capacité juridique au moment de l'établissement du mandat et pourra éventuellement informer la famille de possibilités alternatives adaptées à leur situation. La particularité du mandat de protection future pour autrui perdure et justifie toujours l'intervention du notaire en la matière. Si une évolution de la législation applicable à ces mandats spécifiques n'est pas prévue, l'intérêt du Gouvernement pour la protection juridique des majeurs doit être souligné. Ainsi, la modification apportée à l'article 428 du code civil par la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice poursuit l'objectif de renforcer le principe de subsidiarité des mesures judiciaires de protection juridique en assurant la primauté du mandat de protection future, lorsqu'il a été mis en œuvre, sur les règles de représentation entre époux et sur les éventuelles procurations existantes. Ainsi, le juge des tutelles doit tenir compte de la volonté manifestée par les personnes ayant établi un mandat de protection future.
