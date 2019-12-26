@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180505033
+
+- Question : [SEQ180505033](seq180505033.md) — Appropriation de l'usage des compteurs intelligents par les consommateurs
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2019-12-26, page 6410*
+
+Le compteur Linky doit jouer un rôle central dans la maîtrise de la demande d'énergie. Il peut faciliter l'émergence de services de maîtrise des consommations auxquels il sert de support et favoriser l'apparition de nouvelles offres tarifaires, mieux adaptées aux besoins des consommateurs. Le portail Internet d'Enedis permet déjà au consommateur de connaître sa consommation journalière à la condition qu'il en ait fait la demande. Les données de consommation sont alors disponibles grâce à une télérelève journalière des données de comptage. Les pouvoirs publics partagent le constat de la Cour des comptes qu'il est nécessaire de mieux informer les consommateurs dans le cadre du déploiement du compteur. La maîtrise de la consommation d'énergie passe en premier lieu par l'accès des consommateurs à la bonne connaissance de leur consommation. Plusieurs études ont notamment montré qu'avec un accompagnement et une connaissance précise de ses consommations, il est possible de réduire jusqu'à 8 % ses consommations d'électricité. Le ministère de la transition écologique et solidaire a appelé l'ensemble des acteurs à se mobiliser tout particulièrement sur ce volet, par une meilleure communication et une meilleure information, notamment lors de la pose des compteurs. Enedis devra en particulier proposer un document explicatif type sur la maîtrise de l'énergie à remettre au moment de la pose du compteur. De nouvelles modalités d'accès aux données de consommation doivent être développées (internet, applications pour téléphone mobile…) afin de permettre un accès plus facile aux données pour les consommateurs qui le souhaitent.
