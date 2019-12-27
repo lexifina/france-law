@@ -1,10 +1,10 @@
 # Article 265 A ter
 
-Le Syndicat des transports d'Ile-de-France peut décider, par délibération, de majorer le tarif de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur le territoire de la région d'Ile-de-France résultant de l'application des articles 265 et 265 A bis, dans la limite de 1,02 € par hectolitre pour les supercarburants mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1,89 € par hectolitre pour le gazole mentionné à l'indice d'identification 22 du même tableau B.
+Ile-de-France Mobilités peut décider, par délibération, de majorer le tarif de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur le territoire de la région d'Ile-de-France résultant de l'application des articles 265 et 265 A bis, dans la limite de 1,02 € par hectolitre pour les supercarburants mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1,89 € par hectolitre pour le gazole mentionné à l'indice d'identification 22 du même tableau B.
 
-Les recettes issues de la majoration prévue au premier alinéa du présent article sont affectées au Syndicat des transports d'Ile-de-France, dans la limite globale de 100 millions d'euros. Le produit excédant ce montant est reversé au budget général.
+Les recettes issues de la majoration prévue au premier alinéa du présent article sont affectées à Ile-de-France Mobilités, dans la limite globale de 100 millions d'euros. Le produit excédant ce montant est reversé au budget général.
 
-Les délibérations du Syndicat des transports d'Ile-de-France ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à l'autorité compétente de l'Etat qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er janvier de l'année suivante.
+Les délibérations d'Ile-de-France Mobilités ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à l'autorité compétente de l'Etat qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er janvier de l'année suivante.
 
 NOTA :
 
