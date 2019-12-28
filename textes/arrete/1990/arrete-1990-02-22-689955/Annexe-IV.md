@@ -592,4 +592,16 @@ Notamment :
 
 5-MAPDB ou 1-(2,3-dihydrobenzofuran-5-yl)-N-methylpropan-2-amine ou 1-(2,3-dihydrobenzofuran-5-yl)-N-methylpropan-2-amine ;
 
-6-MAPDB ou 1-(2,3-dihydrobenzofuran-6-yl)-N-methylpropan-2-amine ou 1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine.
+6-MAPDB ou 1-(2,3-dihydrobenzofuran-6-yl)-N-methylpropan-2-amine ou 1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine ;
+
+3.4-dichlorométhylphénidate (3.4-CTMP) et ses sels ;
+
+4-fluoroéthylphénidate et ses sels ;
+
+4-fluorométhylphénidate et ses sels ;
+
+4-méthylméthylphénidate et ses sels ;
+
+isopropylphénidate et ses sels ;
+
+propylphénidate (PPH) et ses sels.
