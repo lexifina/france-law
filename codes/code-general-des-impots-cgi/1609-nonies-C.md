@@ -80,6 +80,8 @@ Lorsque le président de la commission n'a pas transmis le rapport précité aux
 
 Lorsqu'il est fait application à un établissement public de coopération intercommunale des dispositions du présent article, la commission d'évaluation des transferts de charges doit rendre ses conclusions sur le montant des charges qui étaient déjà transférées à l'établissement public de coopération intercommunale et celui de la fiscalité ou des contributions des communes qui étaient perçues pour les financer.
 
+A la demande de l'organe délibérant de l'établissement public de coopération intercommunale à fiscalité propre ou du tiers des conseils municipaux des communes membres, la commission fournit une estimation prospective des charges susceptibles d'être transférées par les communes à l'établissement ou par ce dernier aux communes. Cette estimation prospective ne dispense pas la commission d'établir le rapport mentionné au septième alinéa du IV du présent article.
+
 V. – 1° L'établissement public de coopération intercommunale verse à chaque commune membre une attribution de compensation. Elle ne peut être indexée.
 
 Lorsque l'attribution de compensation est négative, l'établissement public de coopération intercommunale peut demander à la commune d'effectuer, à due concurrence, un versement à son profit.
