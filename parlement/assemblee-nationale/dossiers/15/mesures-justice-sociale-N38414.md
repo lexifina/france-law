@@ -1,0 +1,70 @@
+# Diverses mesures de justice sociale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N38414
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_justice_sociale
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-319.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2019-12-30 : 1er dépôt d'une initiative. (PIONANR5L15B2550)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2019-12-30 : Renvoi en commission au fond
+      - 2020-01-30 : Nomination de rapporteur
+      - 2020-01-30 : Réunion de commission
+      - 2020-01-30 : Réunion de commission
+      - 2020-01-30 : Dépôt de rapport (RAPPANR5L15B2629)
+  - Discussion en séance publique
+    - 2020-02-13 : Discussion en séance publique
+    - 2020-02-13 : Discussion en séance publique
+    - 2020-02-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-02-13 : Dépôt d'une initiative en navette (PIONSNR5S339B0319)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-02-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-03-03 : Dépôt de rapport (RAPPSNR5S359B0400, PIONSNR5S359BTC0401)
+  - Discussion en séance publique
+    - 2021-03-09 : Décision
+- deuxième lecture
+  - 2021-03-09 : Dépôt d'une initiative en navette (PIONANR5L15B3970)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-09 : Renvoi en commission au fond
+      - 2021-05-25 : Nomination de rapporteur
+      - 2021-06-09 : Réunion de commission
+      - 2021-06-17 : Réunion de commission
+      - 2021-06-09 : Dépôt de rapport (RAPPANR5L15B4231, PIONANR5L15BTC4231)
+  - Discussion en séance publique
+    - 2021-06-17 : Discussion en séance publique
+    - 2021-06-17 : Décision
+- deuxième lecture
+  - 2021-06-17 : Dépôt d'une initiative en navette (PIONSNR5S359B0700)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-06-17 : Renvoi en commission au fond
+      - 2021-10-06 : Dépôt de rapport (RAPPSNR5S379B0016, PIONSNR5S379BTC0017)
+  - Discussion en séance publique
+    - 2021-10-12 : Discussion en séance publique
+    - 2021-10-12 : Décision
+- troisième lecture
+  - 2021-10-12 : Dépôt d'une initiative en navette (PIONANR5L15B4558)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-12 : Renvoi en commission au fond
+      - 2021-11-24 : Réunion de commission
+      - 2021-11-24 : Dépôt de rapport (RAPPANR5L15B4713, PIONANR5L15BTC4713)
+  - Discussion en séance publique
+    - 2021-12-02 : Discussion en séance publique
+    - 2021-12-02 : Discussion en séance publique
+    - 2021-12-02 : Discussion en séance publique
+    - 2021-12-02 : Décision
+- troisième lecture
+  - 2021-12-03 : Dépôt d'une initiative en navette (PIONSNR5S379B0260)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-12-03 : Renvoi en commission au fond
