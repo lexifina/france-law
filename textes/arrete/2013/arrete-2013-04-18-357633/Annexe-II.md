@@ -1,8 +1,10 @@
 # Article Annexe II
 
+ANNEXE II
+
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A.-Ministère de l'Europe et des affaires étrangères
+A. - Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
@@ -14,7 +16,7 @@ Personnels en fonctions sur le territoire national |
 
 Étranger |
 
-B.-Ministère de la culture
+B. - Ministère de la culture
 
 Catégorie de personnel |
 
@@ -22,15 +24,15 @@ Direction des finances publiques chargée de la paye
 
 sans ordonnancement préalable |
 
-Personnels affectés dans les directions régionales des affaires culturelles |
+Personnels affectés dans les directions régionales des affaires culturelles Paris |
 
-Paris |
+|
 
 Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C.-Ministère de l'agriculture et de l'alimentation
+C. - Ministère de l'agriculture et de l'alimentation
 
 Catégorie de personnels |
 
@@ -54,21 +56,193 @@ Ingénieurs des ponts, des eaux et des forêts relevant du centre interministér
 
 Hauts-de-Seine |
 
-D.-Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
+D. - Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
-Académie |
+Population ou région académique (académie) |
 
-Direction des finances publiques chargée de la paye
+Service ou département d'affectation |
 
-sans ordonnancement préalable |
+Direction des finances publiques chargée
 
-Créteil (enseignement supérieur) |
+de la paye sans ordonnancement préalable |
+
+Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
+
+Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
+
+Paris |
+
+Auvergne-Rhône-Alpes (Clermont-Ferrand, Grenoble, Lyon) |
+
+Allier, Cantal, Haute-Loire, Puy-de-Dôme |
+
+Puy-de-Dôme |
+
+Ardèche, Drôme, Isère, Savoie, Haute-Savoie |
+
+Isère |
+
+Ain, Loire, Rhône |
+
+Rhône |
+
+Bourgogne-Franche-Comté (Besançon, Dijon) |
+
+Doubs, Jura, Haute-Saône, territoire-de-Belfort |
+
+Doubs |
+
+Côte-d'Or, Nièvre, Saône-et-Loire, Yonne |
+
+Côte-d'Or |
+
+Bretagne (Rennes) |
+
+Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
+
+Ille-et-Vilaine |
+
+Centre-Val de Loire (Orléans-Tours) |
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret |
+
+Indre-et-Loire |
+
+Corse |
+
+Corse-du-Sud, Haute-Corse |
+
+Corse-du-Sud |
+
+Grand Est (Nancy-Metz, Reims, Strasbourg) |
+
+Meurthe-et-Moselle, Meuse, Moselle, Vosges |
+
+Moselle |
+
+Ardennes, Aube, Marne, Haute-Marne |
+
+Marne |
+
+Bas-Rhin, Haut-Rhin |
+
+Bas-Rhin |
+
+Guadeloupe |
+
+Guadeloupe, Saint-Barthélemy, Saint-Martin |
+
+Martinique |
+
+Guyane |
+
+Guyane |
+
+Martinique |
+
+Hauts-de-France (Amiens, Lille) |
+
+Aisne, Oise, Somme |
+
+Somme |
+
+Nord, Pas-de-Calais |
+
+Nord |
+
+Population ou région académique (académie) |
+
+Service ou département d'affectation |
+
+Direction des finances publiques chargée
+
+de la paye sans ordonnancement préalable |
+
+Île-de-France (Créteil, Paris, Versailles) |
+
+Paris (1er et 2nd degrés) |
 
 Seine-Saint-Denis |
 
-Paris (enseignement du 1er et du 2nd degré) |
+Paris (enseignement supérieur) |
 
-E.-Ministère de l'économie et des finances et ministère de l'action et des comptes publics
+Paris |
+
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (1er et 2nd degrés) |
+
+Val-de-Marne |
+
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (enseignement supérieur) |
+
+Seine-Saint-Denis |
+
+Service interacadémique des examens et concours d'Arcueil |
+
+Paris |
+
+La Réunion |
+
+La Réunion |
+
+La Réunion |
+
+Martinique |
+
+Martinique |
+
+Martinique |
+
+Normandie |
+
+Calvados, Manche, Orne |
+
+Calvados |
+
+Eure, Seine-Maritime |
+
+Seine-Maritime |
+
+Nouvelle-Aquitaine (Bordeaux, Limoges, Poitiers) |
+
+Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques |
+
+Gironde |
+
+Creuse, Corrèze, Haute-Vienne |
+
+Haute-Vienne |
+
+Charente, Charente-Maritime, Deux-Sèvres, Vienne |
+
+Haute-Vienne |
+
+Occitanie (Montpellier, Toulouse) |
+
+Aude, Gard, Hérault, Pyrénées-Orientales |
+
+Hérault |
+
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne |
+
+Haute-Garonne |
+
+Pays de la Loire (Nantes) |
+
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée |
+
+Loire-Atlantique |
+
+Provence-Alpes-Côte d'Azur (Marseille, Nice) |
+
+Alpes de Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse |
+
+Bouches-du-Rhône |
+
+Alpes-Maritimes, Var |
+
+Alpes-Maritimes |
+
+E. - Ministère de l'économie et des finances et ministère de l'action et des comptes publics
 
 1° Direction générale de la concurrence de la consommation et de la répression des fraudes
 
@@ -93,6 +267,10 @@ Service ou catégorie de personnel |
 Direction des finances publiques chargée de la paye
 
 sans ordonnancement préalable |
+
+Direction nationale garde-côtes des douanes |
+
+Gironde |
 
 Direction nationale de recherches et d'enquêtes douanières |
 
@@ -157,12 +335,6 @@ Gironde |
 École nationale des douanes de Tourcoing |
 
 Gironde |
-
-Service ou catégorie de personnel |
-
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
 
 Personnels affectés au Service commun des laboratoires des ministères économiques et financiers |
 
@@ -302,14 +474,6 @@ Tours |
 
 Indre-et-Loire |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Corrèze |
 
 Clermont-Ferrand |
@@ -345,6 +509,14 @@ Creuse |
 Clermont-Ferrand |
 
 Puy-de-Dôme |
+
+Service ou catégorie de personnel |
+
+Centre de services de ressources humaines |
+
+Direction des finances publiques chargée
+
+de la paye sans ordonnancement préalable |
 
 Dordogne |
 
@@ -816,17 +988,13 @@ Noisy-le-Grand |
 
 Paris |
 
-Direction des impôts des non-résidents
-
-(Noisy-le-Grand) |
+Direction des impôts des non-résidents (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
 Paris |
 
-Direction impôts service
-
-(Pantin, Lille, Nancy, Rouen) |
+Direction impôts service (Pantin, Lille, Nancy, Rouen) |
 
 Noisy-le-Grand |
 
@@ -844,23 +1012,13 @@ Noisy-le-Grand |
 
 Paris |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Direction nationale de vérification de situations fiscales (Pantin) |
 
 Noisy-le-Grand |
 
 Paris |
 
-Direction des vérifications nationales
-
-et internationales (Pantin) |
+Direction des vérifications nationales et internationales (Pantin) |
 
 Noisy-le-Grand |
 
@@ -872,9 +1030,15 @@ Noisy-le-Grand |
 
 Paris |
 
-Service d'appui aux ressources humaines
+Service ou catégorie de personnel |
 
-(Noisy-le-Grand) |
+Centre de services de ressources humaines |
+
+Direction des finances publiques chargée
+
+de la paye sans ordonnancement préalable |
+
+Service d'appui aux ressources humaines (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
@@ -894,7 +1058,7 @@ Paris |
 
 Directions des services informatiques |
 
-Est (Strasbourg) |
+Grand-Est (Strasbourg) |
 
 Lille |
 
@@ -906,31 +1070,19 @@ Lille |
 
 Nord |
 
-Ouest (Nantes) |
+Centre-Ouest (Nantes) |
 
 Clermont-Ferrand |
 
 Puy-de-Dôme |
 
-Paris-Champagne (Noisiel) |
+Île-de-France (Versailles) |
 
 Lille |
 
 Nord |
 
-Paris-Normandie (Versailles) |
-
-Lille |
-
-Nord |
-
-Pays du Centre (Clermont-Ferrand) |
-
-Clermont-Ferrand |
-
-Puy-de-Dôme |
-
-Rhône Alpes Est Bourgogne (Lyon) |
+Rhône Alpes Auvergne Bourgogne (Lyon) |
 
 Clermont-Ferrand |
 
@@ -956,23 +1108,13 @@ Noisy-le-Grand |
 
 Paris |
 
-Direction des créances spéciales du Trésor
-
-(Châtellerault) |
+Direction des créances spéciales du Trésor (Châtellerault) |
 
 Bordeaux |
 
 Gironde |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
-Direction spécialisée des finances publiques pour l'Assistance publique-Hôpitaux de Paris |
+Direction spécialisée des finances publiques pour l'Assistance publique - Hôpitaux de Paris |
 
 Noisy-le-Grand |
 
@@ -989,6 +1131,14 @@ Services de contrôle budgétaire et comptable ministériels |
 Noisy-le-Grand |
 
 Paris |
+
+Service ou catégorie de personnel |
+
+Centre de services de ressources humaines |
+
+Direction des finances publiques chargée
+
+de la paye sans ordonnancement préalable |
 
 Directions de contrôle fiscal |
 
@@ -1034,13 +1184,7 @@ Bordeaux |
 
 Gironde |
 
-Sud-Pyrénées (Toulouse) |
-
-Montpellier |
-
-Hérault |
-
-F.-Ministère de l'intérieur
+F. - Ministère de l'intérieur
 
 1° Administration territoriale de l'Etat
 
@@ -1670,9 +1814,7 @@ La Réunion |
 
 2° Direction générale de la police nationale
 
-Zone de sécurité et de défense
-
-ou catégorie de personnel |
+Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
@@ -1716,9 +1858,7 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense
-
-ou catégorie de personnel |
+Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
@@ -1776,9 +1916,7 @@ La Réunion |
 
 3° Personnels civils de la direction générale de la gendarmerie nationale
 
-Zone de sécurité et de défense
-
-ou catégorie de personnel |
+Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
@@ -1828,9 +1966,7 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense
-
-ou catégorie de personnel |
+Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
@@ -1886,7 +2022,7 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G.-Services du Premier ministre-Juridictions administratives et financières
+G. - Services du Premier ministre - Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
@@ -1906,7 +2042,7 @@ Chambres régionales des comptes |
 
 Paris |
 
-H.-Ministère de la transition écologique et solidaire
+H. - Ministère de la transition écologique et solidaire
 
 Service ou catégorie de personnel |
 
@@ -1926,11 +2062,11 @@ Corps des ingénieurs des travaux publics de l'État hors réseau scientifique |
 
 Val-de-Marne |
 
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'État, lieutenants de port, adjoints techniques des administrations de l'État, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
+Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique - Assistants de service social, infirmiers d'État, lieutenants de port, adjoints techniques des administrations de l'État, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
 
 Val-de-Marne |
 
-Membres du corps des dessinateurs de l'équipement en poste dans les services déconcentrés de métropole et dans les collectivités d'outre-mer régies par l'article 73 de la Constitution |
+Corps des dessinateurs de l'équipement |
 
 Val-de-Marne |
 
@@ -2094,11 +2230,7 @@ Service Technique des Remontées Mécaniques et des Transports Guidés de Grenob
 
 Rhône |
 
-Centre national de réception des véhicules de Montlhéry |
-
-Val-de-Marne |
-
-I-Ministère des solidarités et de la santé et ministère des sports
+I. - Ministère des solidarités et de la santé et ministère des sports
 
 Service |
 
@@ -2126,29 +2258,11 @@ Direction de la jeunesse, des sports et de la cohésion sociale de Martinique |
 
 Seine-Saint-Denis |
 
-Service |
-
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
-
 Direction de la jeunesse, des sports et de la cohésion sociale de La Réunion |
 
 Seine-Saint-Denis |
 
-Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE) affectés aux Directions de la jeunesse, des sports et de la cohésion sociale de Guadeloupe |
-
-Paris |
-
-Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE)) affectés à la Direction de la jeunesse, des sports et de la cohésion sociale de Guyane |
-
-Paris |
-
-Agents contractuels rémunérés sur les crédits de l'assistance technique du fond social européen (ATFSE)) affectés à la Direction de la jeunesse, des sports et de la cohésion sociale de Martinique |
-
-Paris |
-
-J.-Ministère du travail
+J. - Ministère du travail
 
 Service |
 
