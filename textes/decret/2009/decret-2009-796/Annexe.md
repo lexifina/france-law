@@ -386,35 +386,37 @@ III. ― Sur ses services nationaux, France Télévisions doit aller au-delà de
 
 Sur chacun des services, le temps de diffusion consacré aux œuvres audiovisuelles européennes ne pourra pas être inférieur à 60 %, et le temps de diffusion consacré aux œuvres audiovisuelles d'expression originale française ne pourra pas être inférieur à 40 %. S'agissant des services destinés à l'outre-mer, ces proportions pourront être revues et adaptées à l'occasion de l'arrivée de la télévision numérique outre-mer.
 
-Sur chacun de ces services France 2, France 3 et France 5, France Télévisions diffuse annuellement un volume minimum de 120 heures d'œuvres audiovisuelles européennes ou d'expression originale française n'ayant pas été précédemment diffusées sur ces services et dont la diffusion débute entre 20 heures et 21 heures. Pour France 5 toutefois, ce volume minimum est fixé à 80 heures en 2009 et 100 heures en 2010. Ce volume peut également comporter jusqu'à 20 % de rediffusions.
+Sur chacun de ses services France 2, France 3 et France 5, France Télévisions diffuse annuellement un volume minimum de 120 heures d'œuvres audiovisuelles européennes ou d'expression originale française n'ayant pas été précédemment diffusées sur ces services et dont la diffusion débute entre 20 heures et 21 h 30. Ce volume peut également comporter jusqu'à 15 % de rediffusions.
 
 La société veille à diversifier sur ses services de télévision les horaires de programmation des œuvres de fiction d'expression originale française, en ne les réservant pas exclusivement aux premières parties de soirées.
 
-IV. ― France Télévisions consacre chaque année une part de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
+IV. ― France Télévisions consacre chaque année au moins 20 % de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
 
-Cette contribution est au moins égale à 20 %.
+Cette contribution est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-Elle est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+Pour les exercices 2019 à 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer 1ère.
 
-La part de cette contribution consacrée au développement de la production indépendante au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre est fixée au moins à 75 %. La part de cette contribution qui n'est pas consacrée au développement de la production indépendante au sens de l'article 15 du même décret ne peut être réalisée pour plus de la moitié de son montant avec des entreprises de production qui ne sont pas indépendantes au sens de ce même article.
+Déduction faite de ces dépenses, la part minimale de cette contribution consacrée au développement de la production indépendante, au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, s'établit à 82,5 %. Cette part est intégralement réalisée avec des entreprises de production dont France Télévisions ne détient, directement ou indirectement, ni part du capital social, ni droit de vote.
 
-Les dépenses prises en compte sont celles mentionnées à l'article 12 du même décret. Toutefois, ne sont prises en compte au titre de celles mentionnées au 7° de cet article que :
+La part de cette contribution qui n'est pas consacrée au développement de la production indépendante au sens de l'article 15 du décret du 2 juillet 2010 susmentionné est réalisée avec les filiales mentionnées à l'article 44-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-1° Les dépenses de financement de festivals dans la limite de 0,1 % du montant de l'obligation ;
+Les dépenses prises en compte sont celles mentionnées à l'article 12 du décret du 2 juillet 2010 susmentionné. Toutefois, ne sont prises en compte au titre de celles mentionnées au 7° de cet article que :
 
-2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part supérieure à 500 000 euros de ces dépenses.
+1° Les dépenses de financement de festivals dans la limite de 0,1 % du montant de la contribution ;
 
-Conformément au 5° de l'article 14 du même décret, la contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de l'obligation de l'exercice en cours.
+2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part de ces dépenses supérieure à 500 000 euros.
+
+Conformément au 5° de l'article 14 du décret du 2 juillet 2010 susmentionné, la contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de la contribution de l'exercice en cours.
 
 Elle porte globalement sur le chiffre d'affaires réalisé par les services suivants :
 
-― services de télévision diffusés par voie hertzienne terrestre définis à l'article 3 du présent cahier des charges ;
+-services de télévision diffusés par voie hertzienne terrestre définis à l'article 3 du présent cahier des charges ;
 
-― services de médias audiovisuels à la demande édités par France Télévisions ou par l'une de ses filiales, au sens du 6° de l'article 3 du présent cahier des charges.
+-services de médias audiovisuels à la demande édités par France Télévisions ou par l'une de ses filiales, au sens du 6° de l'article 3 du présent cahier des charges.
 
-A la condition que France Télévisions en informe le Conseil supérieur de l'audiovisuel avant le 1er juillet de chaque année, pourra également être pris en compte le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques.
+A la condition que France Télévisions en informe le Conseil supérieur de l'audiovisuel avant le 1er juillet de chaque année, le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques, pourra également être pris en compte.
 
-Pour la part de la contribution consacrée au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre en vertu du deuxième alinéa du 1° de l'article 15 du décret du 2 juillet 2010 précité, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
+Pour la part de la contribution consacrée au développement de la production indépendante au sens de l'article 15 du décret du 2 juillet 2010 susmentionné, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre en vertu du deuxième alinéa du 1° de l'article 15 dudit décret du 2 juillet 2010, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
 
 -la négociation des mandats de commercialisation et des droits secondaires ;
 
@@ -422,9 +424,9 @@ Pour la part de la contribution consacrée au développement de la production in
 
 -l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
 
-Pour la part de la contribution qui n'est pas consacrée au développement de la production indépendante et qui est réalisée avec des entreprises de production indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010, la société respecte les conditions d'exploitation des œuvres définies par accords conclus avec les organisations représentant les producteurs d'œuvres audiovisuelles. La durée des droits de diffusion acquis à titre exclusif est limitée à cinq ans pour les œuvres d'animation et à quatre ans pour les autres œuvres. Les dépenses de France Télévisions en parts de producteur n'excèdent pas la moitié de son investissement total dans une œuvre et le droit à recettes attaché correspond à l'investissement en parts de producteur rapporté au coût définitif de l'œuvre. France Télévisions veille à respecter l'équilibre entre les différents genres qui résulte de son investissement dans le développement de la production audiovisuelle.
-
 France Télévisions peut procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
+
+Par application du 9° de l'article 14 du décret du 2 juillet 2010 susmentionné, le pourcentage minimum de financement du devis de production d'une œuvre, quel qu'en soit le genre, est fixé à 60 %. Dans ce cas, le calcul du droit à recettes au profit de France Télévisions respecte les règles de l'accord sur la transparence des comptes et des remontées de recettes en matière de production audiovisuelle du 19 février 2016 ou de tout accord qui lui serait substitué.
 
 Article 10
 
@@ -1142,253 +1144,213 @@ La société communique au Conseil supérieur de l'audiovisuel toutes les inform
 
 Annexe : Etendue des droits cédés par genre d'œuvre
 
-1. Œuvres de fiction :
+1) Fiction, documentaire et spectacle vivant
 
-Part de l'investissement de l'éditeur dans le coût total de production |
+Durée des droits exclusifs (1) |
 
-Inférieure à 50 % |
+30 mois pour les unitaires et 36 mois pour les séries et collections dans le cadre d'un préachat et/ ou d'une coproduction |
 
-Supérieure ou égale à 50 % |
-
-Durée des droits (1) |
-
-36 mois |
-
-Nombre de multidiffusions télévisuelles |
+Nombre de multidiffusions linéaires |
 
 Négociation de gré à gré |
 
 Définition de la multidiffusion |
 
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
+4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services linéaires de la société |
 
-Terminaison automatique des droits de diffusion télévisuelle |
+Terminaison automatique des droits d'exploitation |
 
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
+30 jours après l'exploitation du dernier passage de la dernière multidiffusion (du dernier épisode pour une série ou collection et ce pour tous les épisodes), sauf pour les séries ou collections commandées auprès d'un même producteur qui ont fait l'objet d'une nouvelle commande avant cette date, étant précisé que cette cessation automatique anticipée ne pourra pas intervenir avant l'échéance de la protection à l'égard des exploitations non-linéaires par abonnement |
 
-|
+Droits d'exploitation non linéaire gratuite |
 
 Durée de la télévision de rattrapage |
 
-7 jours à compter de chaque passage de chaque multidiffusion |
+A compter du jour de chaque passage de chaque multidiffusion et 7 jours après (2) |
 
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
+Délai de pré-diffusion |
 
-Délai de prédiffusion |
+7 jours avant la première diffusion linéaire (3) |
 
-7 jours avant la première diffusion télévisuelle |
+Exploitation en VàD gratuite |
+
+Exclusivité pendant la durée des droits.
+
+En fonction de la part de l'investissement de l'éditeur dans le coût total de production :
+
+1. Période d'exploitation continue ou discontinue négociée de gré à gré dans la limite de 6 mois lorsque cette part est inférieure à 65 % pour les œuvres de fiction, inférieure à 55 % pour les documentaires, inférieure à 45 % pour le spectacle vivant.
+
+2. Période d'exploitation continue ou discontinue négociée de gré à gré dans la limite de 6 à 9 mois lorsque cette part est supérieure ou égale à 65 % pour les œuvres de fiction, supérieure ou égale à 55 % pour les documentaires, supérieure ou égale à 45 % pour le spectacle vivant.
+
+La période d'exploitation mentionnée au 1) et au 2) ci-dessus est ouverte au sein de la durée de protection à l'égard d'une exploitation non-linéaire par abonnement définie ci-dessous. |
+
+Œuvres destinées exclusivement à une exploitation en VàD gratuite |
+
+36 mois avec protection à l'égard d'une exploitation linéaire et non linéaire par abonnement sur toute la durée des droits |
+
+Protection à l'égard d'une exploitation non-linéaire par abonnement |
+
+En fonction de la part de l'investissement de l'éditeur dans le coût total de production :
+
+1. Période de protection négociée de gré à gré limitée à 12 mois à compter de la date de début des droits lorsque cette part est inférieure à 65 % pour les œuvres de fiction, inférieure à 55 % pour les documentaires, inférieure à 45 % pour le spectacle vivant ;
+
+2. Période de protection négociée de gré à gré de 12 à 24 mois lorsque cette part est supérieure ou égale à 65 % pour les œuvres de fiction, supérieure ou égale à 55 % pour les documentaires, supérieure ou égale à 45 % pour le spectacle vivant. |
+
+Droit à recettes (4) |
+
+Préachat : 50 % de la part de financement de France Télévisions rapportée au coût définitif de l'œuvre, dans les conditions définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué.
+
+Coproduction : Modalités de calcul définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué. |
+
+(1) Pour les unitaires et épisodes de collections, date de début des droits à la date d'acceptation du matériel de diffusion (PAD). A titre dérogatoire, elle peut être fixée à la date de la première exploitation, si celle-ci survient avant l'acceptation du PAD. Pour les séries, date de début des droits de l'ensemble des épisodes d'une saison à la date de la première exploitation du premier épisode par l'un des services linéaires ou non-linéaires de France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. Pour les captations de spectacle vivant, date de début des droits à la mise en ligne du direct ou différé dans l'offre non linéaire de France Télévisions. Cependant, si le PAD n'est pas livré dans les trois mois, la durée des droits linéaires pourra être prolongée du délai accordé pour la livraison et l'acceptation du PAD, dans la limite de six mois, et ceci avec l'accord du producteur.
+
+(2) En ce compris la fonctionnalité de reprise au début du programme définie comme la capacité, en cours de diffusion, de revenir au début du programme.
+
+Pour les épisodes d'une série de fiction ou de documentaire ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire), les droits de télévision de rattrapage peuvent être exercés pour l'ensemble des épisodes jusqu'à 7 jours après la diffusion du dernier épisode sur un service de France Télévisions.
+
+(3) 7 jours avant la date de première diffusion pour chaque épisode et un maximum de 7 jours avant la date de première diffusion du premier épisode pour l'ensemble des épisodes d'une série ou d'une collection dont les épisodes sont programmés à intervalle rapproché (quotidien ou hebdomadaire).
+
+(4) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur. |
+
+2) Animation
+
+Le tableau ci-dessous doit être lu au regard des précisions suivantes qui le complètent :
+
+-la date de début des droits d'exploitation est fixée à la date d'acceptation du matériel de diffusion (PAD) pour les unitaires. Pour les séries, la date de début des droits de l'ensemble des épisodes objet d'un contrat est fixée à la date de la première exploitation du premier épisode par l'un des services de télévision ou plateformes numériques gratuites du groupe France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. En cas de non-respect des dates de livraison prévues contractuellement, la date de début des droits d'exploitation des épisodes d'une série concernés par le retard de livraison pourra être renégociée dans le cadre d'un avenant au contrat de préachat. En cas de commande de 39 demi-heures commerciales, la date de début des droits peut être fixée par lot selon des modalités à définir par les parties ;
+
+-pendant la durée des droits, sur le territoire français (métropole et Outre-mer), France Télévisions peut exploiter à titre promotionnel sur des services tiers de type hébergeur et/ ou sur des réseaux sociaux, sous la marque Okoo des extraits, des contenus originaux et spécifiques ainsi que 2 épisodes pour les séries dont la durée par épisode est comprise entre 22 et 26 minutes, 4 épisodes pour les séries dont la durée par épisode est comprise entre 11 et 13 minutes et dans la limite de 6 épisodes pour les séries dont la durée par épisode est de 7 minutes ou moins. Ces épisodes peuvent être renouvelés tous les 3 mois. Pour les unitaires, le volume maximum disponible ne pourra excéder 10 % de la durée totale de l'œuvre ;
+
+-12 mois après l'ouverture des droits, le producteur peut exploiter la marque dans les mêmes conditions, avec renvoi via un lien vers l'offre Okoo et présence du logo de la marque Okoo. Avant cette date, le producteur peut exploiter la marque uniquement avec des extraits, des contenus originaux et spécifiques ;
+
+-pour les œuvres destinées exclusivement à une exploitation non-linéaire, France Télévisions a la possibilité de mettre à disposition sur des services tiers de type hébergeur et sur des réseaux sociaux les œuvres intégrales dans la mesure où celle-ci sont destinées à cette exploitation spécifique.
 
 |
 
-Exploitation en VàD payante ou gratuite |
+Financement FTV < 25 %
 
-Modalités définies par accord professionnel en vigueur |
+ou < 1,75 M € (1)
 
-Droit à recettes (2) |
+(< 1,5 M €
 
-Non |
+pour les pré-scolaires) |
 
-Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 40 %
+Financement FTV ≥ 25 %
 
-Coproduction : pourcentage correspondant à l'apport en parts producteur rapporté au coût définitif de l'œuvre
+et < 30 %
 
-|
+ou ≥ 1,75 et < 2 M € (1)
 
-Mandats en préachat |
+(≥ 1,5 et < 1,65 M €
 
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
+pour les pré-scolaires) |
 
-(1) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
+Financement FTV ≥ 30 %
 
-(2) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
+et < 35 %
 
-|
+ou ≥ 2 et < 2,3 M € (1)
 
-2. Œuvres d'animation : |
+(≥ 1,65 et < 1,9 M €
 
-|
+pour les pré-scolaires) |
 
-Part indépendante |
+Financement FTV ≥ 35 %
 
-Financement FTV |
+ou ≥ 2,3 M € (1)
 
-Inférieur à 25 %
+(≥ 1,9 M €
 
-ou inférieur à 1,75 M € (1)
+pour les pré-scolaires) |
 
-(inférieur à 1,5 M € pour les pré-scolaires) |
-
-Supérieur ou égal à 25 % et inférieur à 30 %
-
-ou supérieur ou égal à 1,75 M € et inférieur
-
-à 2 M € (1)
-
-(supérieur ou égal à 1,5 M € et inférieur à
-
-1,65 M € pour les pré-scolaires) |
-
-Supérieur ou égal à 30 % et inférieur à 35 % ou supérieur ou égal à 2 M € et inférieur à 2,3 M € (1)
-
-(supérieur ou égal à 1,65 M € et inférieur à 1,85 M € pour les pré-scolaires) |
-
-Supérieur ou égal à 35 % ou
-
-supérieur ou égal à 2,3 M € (1)
-
-(supérieur ou égal à 1,85 M € pour les pré-scolaires) |
-
-Durée des droits (6) |
+Durée des droits d'exploitation linéaire gratuite et non linéaire gratuite (2) |
 
 30 mois |
 
-36 mois (2) |
+36 mois |
 
-48 mois (2) |
+42 mois |
+
+48 mois |
+
+Exclusivité linéaire gratuite et non linéaire gratuite |
+
+30 mois |
+
+36 mois |
+
+42 mois |
+
+48 mois |
+
+Protection à l'égard d'une exploitation linéaire payante |
+
+De 0 à 6 mois |
+
+12 mois (3) |
+
+18 mois (3) |
 
 48 mois
 
-ou jusqu'à 60 mois (3) |
+ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13ème mois de FTV (3) |
 
-Période d'exclusivité |
-
-de 0 à 6 mois |
-
-9 mois (2) |
-
-12 mois (2) |
-
-Exclusivité totale
-
-ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois de droits de FTV (3) |
-
-Nombre de diffusions |
-
-De gré à gré avec au minimum 6 multidiffusions
-
-(4) |
+Nombre de diffusions pour une exploitation linéaire gratuite |
 
 Diffusion illimitée |
 
-Diffusion illimitée |
+Exploitation non linéaire gratuite |
 
-Diffusion illimitée |
+De 10 % à 50 % du nombre d'épisodes de la série renouvelés tous les 2 à 6 mois
 
-Preview |
+Unitaires et séries feuilletonnantes : exposition négociée de gré à gré
 
-Possible dans les termes ci-après (*) sous réserve de la combinaison des exclusivités des différents diffuseurs opérant sur le territoire français |
+100 % des épisodes pour les œuvres destinées à une exploitation exclusivement non linéaire |
 
-(*) Pour les séries : jusqu'à 90 jours avant la 1re diffusion du 1er épisode
+De 50 % à 100 % du nombre d'épisodes de la série renouvelés tous les 2 à 6 mois
 
-Pour les unitaires : jusqu'à 7 jours avant la 1re diffusion |
+Unitaires et séries feuilletonnantes : exposition négociée de gré à gré
 
-TVR |
+100 % des épisodes pour les œuvres destinées à une exploitation exclusivement non linéaire |
 
-7 jours après chaque passage de chaque multidiffusion dans la/ les période (s) d'exclusivité de France Télévisions
+Pré-diffusion |
+
+Pour les séries : jusqu'à 90 jours avant la 1ère diffusion du 1er épisode
+
+Pour les unitaires : jusqu'à 7 jours avant la 1ère diffusion
+
+Sous réserve de la combinaison des exclusivités des différents diffuseurs opérant sur le territoire français |
+
+Télévision de rattrapage (4) |
+
+7 jours après chaque passage de chaque multidiffusion dans la/ les périodes d'exclusivité de France Télévisions.
 
 Hors période (s) d'exclusivité de France Télévisions, 7 jours après chaque passage de chaque multidiffusion/ en cas d'exploitation payante ou de requête d'un autre diffuseur figurant au plan de financement, 48 heures en programmation quotidienne et 7 jours en programmation hebdomadaire |
 
-VàD gratuite (5) |
+Protection à l'égard d'une exploitation non-linéaire par abonnement (5) |
 
-Séries : 3 épisodes renouvelés tous les deux mois au cours de la période des droits linéaires/ Unitaires : 2 périodes de 30 jours chacune par an au cours de la période des droits linéaires |
+De 0 à 6 mois |
 
-Diffusion non linéaire payante |
+12 mois (6) |
 
-Négociation séparée sous réserve des conditions contractuelles autre (s) diffuseur (s) opérant sur le territoire français |
+18 mois (6) |
 
-Durée des droits identique à celle de la diffusion linéaire. Contrat séparé avec partage de recettes avec le producteur. Période d'exclusivité démarrant à la livraison du PAD et limitée à 3 mois après la 1re diffusion pour les unitaires et au 1er cycle d'exploitation pour les séries (dans la limite de 12 mois après la diffusion du 1er épisode) |
+24 mois (6) |
 
 Droit à recettes |
 
-Non |
-
-Pré-achat : 1 % de droits à recettes par pourcentage apporté par l'éditeur au-delà de 25 % |
-
-Pré-achat : forfait de 3 % des RNPP dans les conditions définies dans l'accord transparence du 19/02/16 pour les œuvres où le financement de FTV est inférieur ou égal à 25 % mais supérieur ou égal à 2 M € (1,65 M € pour les œuvres pré-scolaires) (1) |
+50 % de la part de financement de FTV rapporté au coût définitif de l'œuvre dans les conditions définies par l'accord transparence du 19/02/2016 ou tout accord qui lui serait substitué |
 
 (1) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
 
-(2) En cas de cofinancement par plusieurs diffuseurs opérant sur le territoire français, variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité.
+(2) Pour les achats, la durée des droits est de 36 mois maximum. Les autres critères sont négociés de gré à gré.
 
-(3) Dans l'hypothèse où une fenêtre de codiffusion est concédée par France Télévisions à un diffuseur tiers, la durée des droits de diffusion initiale de France Télévisions de 48 mois avec exclusivité totale passe à 60 mois, avec une fenêtre de codiffusion au bénéfice de ce diffuseur tiers, qui démarre à partir du 13e mois des droits de France Télévisions. La date de démarrage de cette codiffusion est fixée de gré à gré entre les parties.
+(3) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité. La durée totale des droits ne pourra excéder 60 mois.
 
-(4) 1 multidiffusion pour un unitaire = 4 passages sur 30 jours pouvant être effectués sur l'un ou l'autre des services de télévision de France Télévisions/1 multidiffusion pour une série = 4 passages sur 60 jours pouvant être effectués sur l'un ou l'autre des services de télévision de France Télévisions.
+(4) Les droits de télévision de rattrapage (TVR) incluent le jour de chaque passage (en ce compris la fonctionnalité de reprise au début du programme définie comme la capacité, en cours de diffusion, de revenir au début du programme) et, pour les séries feuilletonnantes, la possibilité de mettre à disposition l'ensemble des épisodes jusqu'à 7 jours après la diffusion du dernier épisode sur un service de télévision édité par France Télévisions.
 
-(5) Ces épisodes ou unitaires peuvent faire l'objet d'un téléchargement temporaire, pendant une durée maximale de 30 jours, sur un récepteur mobile tel qu'un ordinateur, une tablette ou un téléphone afin de permettre leur visionnage sans limitation, dans des conditions où la connexion internet est inexistante ou insuffisante pour accéder à la plateforme jeunesse de France Télévisions (zones du territoire non couvertes, voiture, train, avion par exemple). Dès que le récepteur retrouve une connexion internet suffisante, les téléchargements effectués s'effacent automatiquement et, en tout état de cause, dans un délai maximal de 30 jours.
+(5) La protection à l'égard d'une exploitation non-linéaire par abonnement démarre à la date de début des droits d'exploitation, telle que définie par les dispositions qui complètent le tableau. Possibilité d'acquisition de droits d'exploitation non-linéaire par abonnement par contrat séparé avec partage de recettes à définir par accord interprofessionnel.
 
-Il est rappelé que les exploitations type MCN sur YouTube (hors chaînes Ludo et Zouzous de France Télévisions) sont subordonnées à accord par contrat séparé entre les parties avec partage des recettes d'exploitation conformément aux dispositions de l'accord interprofessionnel du 10/12/15.
-
-(6) La date de début des droits d'exploitation est fixée à l'acceptation du PAD pour les unitaires. Pour les séries, la date de début des droits de l'ensemble des épisodes objet d'un contrat est fixée à la date de la première exploitation du premier épisode par l'un des services de télévision du groupe France Télévisions et au plus tard à l'acceptation du dernier PAD d'une saison, dans la limite de 12 mois à compter de l'acceptation du premier PAD. En cas de non-respect des dates de livraison prévues contractuellement, la date de début des droits d'exploitation des épisodes d'une série concernés par le retard de livraison pourra être renégociée dans le cadre d'un avenant au contrat de préachat ou de coproduction. En cas de commande 39 demi-heures commerciales, la date de début des droits peut être fixée par lot selon des modalités à définir par les parties. |
-
-3. Documentaire-captation ou recréation de spectacles vivants :
-
-Part de l'investissement de l'éditeur dans le coût total de production |
-
-Inférieure à 45 % |
-
-Supérieure ou égale à 45 % |
-
-Durée des droits (1) |
-
-36 mois (2) |
-
-Nombre de multidiffusions télévisuelles |
-
-Négociation de gré à gré |
-
-Définition de la multidiffusion |
-
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
-
-Terminaison automatique des droits de diffusion télévisuelle |
-
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
-
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
-
-Durée de la télévision de rattrapage |
-
-7 jours à compter de chaque passage de chaque multidiffusion |
-
-Délai de prédiffusion |
-
-Série ou collection : 30 jours avant la première diffusion télévisuelle
-
-Unitaire : 7 jours avant la première diffusion télévisuelle
-
-|
-
-Exploitation en VàD payante ou gratuite |
-
-Modalités définies par accord professionnel en vigueur |
-
-Droit à recettes (3) |
-
-Non |
-
-Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 45 %
-
-Coproduction : pourcentage correspondant à l'apport en parts producteur rapporté au coût définitif de l'œuvre
-
-|
-
-Mandats en préachat |
-
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
-
-(1) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
-
-(2) En cas d'exploitation d'œuvres de spectacle vivant en VàD gratuite, la durée des droits est réduite, dans la limite de six mois, comme suit :
-
-- un mois de réduction par mois d'exploitation en VàD gratuite à titre exclusif ;
-
-- un mois de réduction pour deux mois d'exploitation en VàD gratuite dans les autres cas.
-
-Pour les œuvres web-natives de spectacle vivant, 12 mois à titre non exclusif ou jusqu'à 36 mois dont 12 mois à titre exclusif selon des modalités définies par accord professionnel en vigueur.
-
-(3) Modalités de définition et de répartition des recettes définies par accord professionnel en vigueur.
-
-|
+(6) Alignement de la protection à l'égard d'une exploitation non-linéaire par abonnement sur celle à l'égard d'une exploitation en linéaire payante dans la limite de 24 mois. |
 
 Annexe : Conditions d'acquisition des mandats de commercialisation et des droits secondaires d'une œuvre pour laquelle France Télévisions détient des parts de producteur dans la partie indépendante de sa contribution à la production audiovisuelle et conditions d'exploitation des droits de diffusion de cette œuvre à l'issue de la période initiale des droits de diffusion. – Mise en œuvre des b, c et d du 1° de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre
 
