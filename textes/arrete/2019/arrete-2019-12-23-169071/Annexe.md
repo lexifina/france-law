@@ -1,0 +1,3949 @@
+# Article Annexe
+
+ANNEXE
+
+zones à couvrir
+
+NUMÉRO
+
+DE ZONE |
+
+RÉGION |
+
+DÉPARTEMENT |
+
+IDENTIFIANT
+
+DE LA ZONE |
+
+NOM
+
+DE LA ZONE/
+
+COMMUNES |
+
+OPÉRATEURS |
+
+POINTS D'INTÉRÊT
+
+À COUVRIR |
+
+X
+
+(RGF93
+
+/Lambert-93 -
+
+ESPG : 2154) |
+
+Y
+
+(RGF93
+
+/Lambert-93 -
+
+ESPG : 2154) |
+
+IDENTIFIANT DU SITE |
+
+NOMBRE
+
+DE SITES |
+
+2019_07_01-1 |
+
+Auvergne-Rhône-Alpes |
+
+Ain |
+
+LOT2_2019_ZN_01_008 |
+
+Groslée-Saint-Benoît ; Lhuis |
+
+BOUYGUES TELECOM/ORANGE/SFR |
+
+LOT2_2019_ZN_01_008_Point1 |
+
+899673,3707 |
+
+6516575,283 |
+
+LOT2_2019_ZN_01_008_S1 |
+
+1 |
+
+LOT2_2019_ZN_01_008_Point2 |
+
+901164,091 |
+
+6512980,891 |
+
+2019_07_03-1 |
+
+Auvergne-Rhône-Alpes |
+
+Allier |
+
+LOT1_2019_ZG_03_001 |
+
+BUSSET |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+la Croix des Andrés |
+
+741963,71 |
+
+6547474,22 |
+
+LOT1_2019_ZG_03_001_S1 |
+
+1 |
+
+2019_07_26-1 |
+
+Auvergne-Rhône-Alpes |
+
+Drôme |
+
+LOT2_2019_ZN_26_007 |
+
+SUZE-LA-ROUSSE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+845279,68 |
+
+6360447,57 |
+
+LOT2_2019_ZN_26_007_S2 |
+
+1 |
+
+|
+
+844887,89 |
+
+6358432,32 |
+
+2019_07_26-2 |
+
+Auvergne-Rhône-Alpes |
+
+Drôme |
+
+LOT2_2019_ZN_26_009 |
+
+CHAMARET |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+849919,83 |
+
+6368291,03 |
+
+LOT2_2019_ZN_26_009_S1 |
+
+2 |
+
+|
+
+849870,21 |
+
+6368095,61 |
+
+|
+
+849577,15 |
+
+6368126,11 |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+850586,62 |
+
+6367020,57 |
+
+LOT2_2019_ZN_26_009_S2 |
+
+2019_07_26-3 |
+
+Auvergne-Rhône-Alpes |
+
+Drôme |
+
+LOT2_2019_ZN_26_011 |
+
+BELLECOMBE-TARANDOL |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+887497,4 |
+
+6364257,2 |
+
+LOT2_2019_ZN_26_011_S1 |
+
+1 |
+
+|
+
+886615,26 |
+
+6365383,45 |
+
+|
+
+887386,08 |
+
+6364318,06 |
+
+|
+
+887478,07 |
+
+6364216,78 |
+
+|
+
+887460,34 |
+
+6364237,77 |
+
+2019_07_26-4 |
+
+Auvergne-Rhône-Alpes |
+
+Drôme |
+
+LOT2_2019_ZN_26_015 |
+
+ROCHEFOURCHAT |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+878195,54 |
+
+6391936,54 |
+
+LOT2_2019_ZN_26_015_S1 |
+
+1 |
+
+|
+
+878306,75 |
+
+6391381,03 |
+
+2019_07_38-1 |
+
+Auvergne-Rhône-Alpes |
+
+Isère |
+
+LOT2_2019_ZG_38_012 |
+
+Villemoirieu |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+875782 |
+
+6514578 |
+
+LOT2_2019_ZG_38_012_S1 |
+
+1 |
+
+2019_07_38-2 |
+
+Auvergne-Rhône-Alpes |
+
+Isère |
+
+LOT2_2019_ZN_38_003 |
+
+Rencurel |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_38_003_Point2 |
+
+895726 |
+
+6445566 |
+
+LOT2_2019_ZN_38_003_S1 |
+
+3 |
+
+LOT2_2019_ZN_38_003_Point3 |
+
+896017 |
+
+6444844 |
+
+LOT2_2019_ZN_38_003_S2 |
+
+LOT2_2019_ZN_38_003_Point4 |
+
+896106 |
+
+6444581 |
+
+LOT2_2019_ZN_38_003_Point5 |
+
+897585 |
+
+6444244 |
+
+LOT2_2019_ZN_38_003_S3 |
+
+2019_07_38-3 |
+
+Auvergne-Rhône-Alpes |
+
+Isère |
+
+LOT2_2019_ZN_38_005 |
+
+Viriville |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_38_005_Point1 |
+
+872523 |
+
+6467291 |
+
+LOT2_2019_ZN_38_005_S1 |
+
+1 |
+
+LOT2_2019_ZN_38_005_Point2 |
+
+872950 |
+
+6467241 |
+
+2019_07_42-1 |
+
+Auvergne-Rhône-Alpes |
+
+Loire |
+
+LOT2_2019_ZG_42_005 |
+
+ECOCHE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZG_42_005_Point1 |
+
+801102 |
+
+6560797 |
+
+LOT2_2019_ZG_42_005_S1 |
+
+1 |
+
+LOT2_2019_ZG_42_005_Point2 |
+
+800926 |
+
+6560551 |
+
+LOT2_2019_ZG_42_005_Point3 |
+
+802288 |
+
+6560880 |
+
+2019_07_42-2 |
+
+Auvergne-Rhône-Alpes |
+
+Loire |
+
+LOT2_2019_ZG_42_006 |
+
+CHERIER |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZG_42_006_Point1 |
+
+769350 |
+
+6542059 |
+
+LOT2_2019_ZG_42_006_S1 |
+
+2 |
+
+LOT2_2019_ZG_42_006_Point2 |
+
+768261 |
+
+6543698 |
+
+LOT2_2019_ZG_42_006_Point4 |
+
+768027 |
+
+6542075 |
+
+LOT2_2019_ZG_42_006_Point3 |
+
+771105 |
+
+6542617 |
+
+LOT2_2019_ZG_42_006_S2 |
+
+2019_07_42-3 |
+
+Auvergne-Rhône-Alpes |
+
+Loire |
+
+LOT2_2019_ZG_42_008 |
+
+CREMEAUX |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZG_42_008_Point2 |
+
+770159 |
+
+6536374 |
+
+LOT2_2019_ZG_42_008_S1 |
+
+1 |
+
+2019_07_42-4 |
+
+Auvergne-Rhône-Alpes |
+
+Loire |
+
+LOT2_2019_ZN_42_008 |
+
+LA GRESLE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_42_008_Point1 |
+
+798313 |
+
+6553200 |
+
+LOT2_2019_ZN_42_008_S1 |
+
+1 |
+
+LOT2_2019_ZN_42_008_Point2 |
+
+798303 |
+
+6553225 |
+
+LOT2_2019_ZN_42_008_Point3 |
+
+799135 |
+
+6553654 |
+
+LOT2_2019_ZN_42_008_Point4 |
+
+798613 |
+
+6554125 |
+
+LOT2_2019_ZN_42_008_Point5 |
+
+799398 |
+
+6553372 |
+
+2019_07_43-1 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Loire |
+
+LOT2_2019_ZN_43_011 |
+
+Sanssac l'église |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Salle des fêtes / Ecole |
+
+762159,6503 |
+
+6439399,133 |
+
+LOT2_2019_ZN_43_011_S2 |
+
+1 |
+
+Vourzac |
+
+763203,4176 |
+
+6437890,819 |
+
+ZA du fataire |
+
+762430,4694 |
+
+6439970,422 |
+
+2019_07_43-2 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Loire |
+
+LOT1_2019_ZN_43_004 |
+
+Fay-sur-Lignon |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Le buisson |
+
+797420,4077 |
+
+6431905,608 |
+
+LOT1_2019_ZN_43_004_S2 |
+
+1 |
+
+Gîte la traverse |
+
+796678,2141 |
+
+6432759,576 |
+
+Salle fête de Mathias |
+
+796340,6099 |
+
+6432356,741 |
+
+2019_07_44-3 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Loire |
+
+LOT1_2019_ZG_43_005 |
+
+Champagnac-le-Vieux /Saint-Vert |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Le glial |
+
+741251,1143 |
+
+6471617,272 |
+
+LOT1_2019_ZG_43_005_S1 |
+
+1 |
+
+Pepouget |
+
+742030,0157 |
+
+6472768,01 |
+
+Pot |
+
+742462,6702 |
+
+6473397,793 |
+
+2019_07_63-1 |
+
+Auvergne-Rhône-Alpes |
+
+Puy-de-Dôme |
+
+LOT1_2019_ZN_63_006 |
+
+ANZAT-LE-LUGUET |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+APCHER |
+
+702242,73 |
+
+6468546,66 |
+
+LOT1_2019_ZN_63_006_S1 |
+
+1 |
+
+VIN HAUT |
+
+701310,02 |
+
+6467065,21 |
+
+2019_07_69-1 |
+
+Auvergne-Rhône-Alpes |
+
+Rhône |
+
+LOT2_2019_ZN_69_014 |
+
+Saint André La Côte |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+824684,68 |
+
+6504637,53 |
+
+LOT2_2019_ZN_69_014_S1 |
+
+1 |
+
+|
+
+824403,87 |
+
+6504921,02 |
+
+|
+
+824852,84 |
+
+6504550,12 |
+
+|
+
+824370,25 |
+
+6504772,38 |
+
+|
+
+824610,31 |
+
+6504305,19 |
+
+2019_07_69-2 |
+
+Auvergne-Rhône-Alpes |
+
+Rhône |
+
+LOT1_2019_ZN_69_013 |
+
+Ternand |
+
+FREE/ORANGE |
+
+|
+
+818981,6954 |
+
+6539542,083 |
+
+LOT1_2019_ZN_69_013_S1 |
+
+1 |
+
+|
+
+818924,3697 |
+
+6539497,493 |
+
+|
+
+818986,0049 |
+
+6539619,669 |
+
+|
+
+819019,1688 |
+
+6539666,937 |
+
+2019_07_69-3 |
+
+Auvergne-Rhône-Alpes |
+
+Rhône |
+
+LOT1_2019_ZN_69_007 |
+
+Larajasse |
+
+ORANGE |
+
+|
+
+818679,2843 |
+
+6501605,792 |
+
+LOT1_2019_ZN_69_007_S1 |
+
+1 |
+
+|
+
+818639,9199 |
+
+6501565,013 |
+
+2019_07_73-1 |
+
+Auvergne-Rhône-Alpes |
+
+Savoie |
+
+LOT2_2019_ZN_73_006 |
+
+TERMIGNON |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Centre Bourg |
+
+999314 |
+
+6471281 |
+
+LOT2_2019_ZN_73_006_S1 |
+
+1 |
+
+La Fennaz |
+
+998970 |
+
+6471972 |
+
+Chapelle |
+
+998969 |
+
+6471461 |
+
+Départ Ski |
+
+998975 |
+
+6471217 |
+
+2019_07_73-2 |
+
+Auvergne-Rhône-Alpes |
+
+Savoie |
+
+LOT2_2019_ZN_73_007 |
+
+ESSERTS-BLAY |
+
+BOUYGUES TELECOM/SFR |
+
+Le Ferlay |
+
+967156,05 |
+
+6510606,09 |
+
+LOT2_2019_ZN_73_007_S1 |
+
+1 |
+
+La Combaz |
+
+967322 |
+
+6509423,4 |
+
+La Poyat |
+
+967187 |
+
+6508740 |
+
+Chef Lieu |
+
+967648,17 |
+
+6507391,4 |
+
+2019_07_73-3 |
+
+Auvergne-Rhône-Alpes |
+
+Savoie |
+
+LOT2_2019_ZN_73_008 |
+
+VERRENS-ARVEY |
+
+FREE MOBILE/ORANGE |
+
+Arvey |
+
+957418 |
+
+6511387 |
+
+LOT2_2019_ZN_73_008_S1 |
+
+1 |
+
+Verrens |
+
+958148 |
+
+6511387 |
+
+Crêtaz |
+
+957808,32 |
+
+6510993 |
+
+Le Moulin |
+
+957524 |
+
+6511774 |
+
+Les Collets |
+
+957908 |
+
+6510615 |
+
+2019_07_74-1 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Savoie |
+
+LOT1_2019_ZN_74_002 |
+
+LULLIN |
+
+BOUYGUES TELECOM/SFR |
+
+Point 1-RGF93 |
+
+970945,19 |
+
+6581783,32 |
+
+LOT1_2019_ZN_74_002_S1 |
+
+1 |
+
+Point 3-RGF93 |
+
+969321,36 |
+
+6580540,29 |
+
+Point 5-RGF93 |
+
+970317,4 |
+
+6581234,88 |
+
+2019_07_74-2 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Savoie |
+
+LOT1_2019_ZN_74_003 |
+
+LE BIOT |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Point 1-RGF93 |
+
+980204,25 |
+
+6582390,09 |
+
+LOT1_2019_ZN_74_003_S1 |
+
+1 |
+
+Point 3-RGF93 |
+
+979547,34 |
+
+6581918,96 |
+
+Point 5-RGF93 |
+
+980267,37 |
+
+6582826,48 |
+
+2019_07_74-3 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Savoie |
+
+LOT1_2019_ZN_74_008 |
+
+LE GRAND-BORNAND |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Point 2-RGF93 |
+
+969922,15 |
+
+6543222,08 |
+
+LOT1_2019_ZN_74_008_S2 |
+
+1 |
+
+Point 4-RGF93 |
+
+969114,24 |
+
+6543330,01 |
+
+2019_07_74-4 |
+
+Auvergne-Rhône-Alpes |
+
+Haute-Savoie |
+
+LOT1_2019_ZN_74_012 |
+
+GIEZ |
+
+BOUYGUES TELECOM/SFR |
+
+Point 1-RGF93 |
+
+952340,29 |
+
+6522414,38 |
+
+LOT1_2019_ZN_74_012_S1 |
+
+1 |
+
+Point 2-RGF93 |
+
+953018,57 |
+
+6521895,94 |
+
+Point 3-RGF93 |
+
+953472,43 |
+
+6522321,91 |
+
+Point 4-RGF93 |
+
+952588,49 |
+
+6522011,81 |
+
+Point 5-RGF93 |
+
+952978,6 |
+
+6522314,31 |
+
+2019_07_58-1 |
+
+Bourgogne-Franche-Comté |
+
+Nièvre |
+
+GC_58_026 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+735443,4 |
+
+6705825,9 |
+
+|
+
+1 |
+
+2019_07_71-1 |
+
+Bourgogne-Franche-Comté |
+
+Saône-et-Loire |
+
+ZG_71_014 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+825353 |
+
+6620070 |
+
+|
+
+1 |
+
+2019_07_89-1 |
+
+Bourgogne-Franche-Comté |
+
+Yonne |
+
+GC_89_025 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+736718 |
+
+6784091 |
+
+|
+
+1 |
+
+2019_07_35-1 |
+
+Bretagne |
+
+Ille-et-Vilaine |
+
+LOT2_2019_ZN_35_010 |
+
+SAINT-MALON SUR MEL |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Nord |
+
+320267 |
+
+6789090 |
+
+LOT2_2019_ZN_35_010_S1 |
+
+1 |
+
+Ouest |
+
+320018 |
+
+6788760 |
+
+Sud |
+
+320328 |
+
+6788400 |
+
+Est |
+
+320412 |
+
+6788990 |
+
+Mairie |
+
+320502 |
+
+6789266 |
+
+2019_07_35-2 |
+
+Bretagne |
+
+Ille-et-Vilaine |
+
+LOT2_2019_ZN_35_007 |
+
+MARCILLÉ-ROBERT |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Mairie |
+
+374597 |
+
+6770010 |
+
+LOT2_2019_ZN_35_007_S1 |
+
+1 |
+
+Ouest Bourg |
+
+374144 |
+
+6770070 |
+
+Nord Est Bourg |
+
+375211 |
+
+6770470 |
+
+Est Bourg |
+
+375190 |
+
+6769970 |
+
+Sud Est Bourg |
+
+375106 |
+
+6770180 |
+
+2019_07_18-1 |
+
+Centre-Val de Loire |
+
+Cher |
+
+LOT2_2019_ZN_18_003 |
+
+Sidiailles |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Base de loisirs |
+
+648742 |
+
+6600399 |
+
+LOT1_ZN_18_001_S1 |
+
+1 |
+
+Parking |
+
+648581 |
+
+6600127 |
+
+Circuit tour du lac nord |
+
+648716 |
+
+6601005 |
+
+Circuit tour du lac sud |
+
+648438 |
+
+6599501 |
+
+2019_07_08-1 |
+
+Grand Est |
+
+Ardennes |
+
+GC_08_013 |
+
+LA NEUVILLE-LES-WASIGNY, LALOBBE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+798379,9 |
+
+6950390,5 |
+
+|
+
+1 |
+
+2019_07_08-2 |
+
+Grand Est |
+
+Ardennes |
+
+LOT2_2019_ZN_08_014 |
+
+APREMONT |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Point 1 |
+
+844606 |
+
+6909353 |
+
+LOT2_2019_ZN_08_014_S1 |
+
+1 |
+
+Point 2 |
+
+844921 |
+
+6909576 |
+
+Point 3 |
+
+844655 |
+
+6909527 |
+
+Point 4 |
+
+844345 |
+
+6909780 |
+
+Point 5 |
+
+844609 |
+
+6909703 |
+
+2019_07_10-1 |
+
+Grand Est |
+
+Aube |
+
+LOT2_2019_ZN_10_011 |
+
+LA LOGE AUX CHEVRES |
+
+ORANGE |
+
+ZN_10_011_Point1 |
+
+804797 |
+
+6797739 |
+
+LOT2_2019_ZN_10_011_S1 |
+
+1 |
+
+2019_07_10-2 |
+
+Grand Est |
+
+Aube |
+
+LOT2_2019_ZN_10_015 |
+
+MESSON |
+
+BOUYGUES TELECOM/FREE MOBILE/SFR |
+
+ZN_10_015_Point1 |
+
+767317 |
+
+6796445 |
+
+LOT2_2019_ZN_10_015_S1 |
+
+1 |
+
+2019_07_10-3 |
+
+Grand Est |
+
+Aube |
+
+LOT2_2019_ZN_10_012 |
+
+DROUPT-SAINT-BASLE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+ZN_10_012_Point1 |
+
+769314 |
+
+6820222 |
+
+LOT2_2019_ZN_10_012_S1 |
+
+1 |
+
+2019_07_10-4 |
+
+Grand Est |
+
+Aube |
+
+GC_10_013 |
+
+VILLE-SOUS-LA-FERTE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+832800 |
+
+6784459 |
+
+|
+
+1 |
+
+2019_07_52-1 |
+
+Grand Est |
+
+Haute-Marne |
+
+GC_52_003 |
+
+BRAUX LE CHÂTEL |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+GC_52_003_Point1 |
+
+844765 |
+
+6779493 |
+
+|
+
+1 |
+
+2019_07_52-2 |
+
+Grand Est |
+
+Haute-Marne |
+
+GC_52_998 |
+
+HEUILLEY-COTTON (Villegusien) |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+GC_52_998_Point1 |
+
+877020 |
+
+6744010 |
+
+|
+
+1 |
+
+2019_07_52-3 |
+
+Grand Est |
+
+Haute-Marne |
+
+GC_52_999 |
+
+SAINT-BROINGT-LES-FOSSES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+GC_52_999_Point1 |
+
+870185 |
+
+6736923 |
+
+|
+
+1 |
+
+2019_07_54-1 |
+
+Grand Est |
+
+Meurthe-et-Moselle |
+
+LOT2_2019_ZN_54_017 |
+
+COURCELLES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Courcelles |
+
+924873 |
+
+6812424,04 |
+
+LOT2_2019_ZN_54_010_S1 |
+
+1 |
+
+924859,36 |
+
+6812758,87 |
+
+924860,13 |
+
+6812449,74 |
+
+924665,77 |
+
+6812252 |
+
+924934,31 |
+
+6812175,13 |
+
+925049,2 |
+
+6812453,85 |
+
+2009_07_54-2 |
+
+Grand Est |
+
+Meurthe-et-Moselle |
+
+LOT2_2019_ZN_54_016 |
+
+GEMONVILLE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Gémonville |
+
+913396,74 |
+
+6816628,12 |
+
+LOT1_ZN_54_005_S1 |
+
+1 |
+
+913395,8017 |
+
+6816623,918 |
+
+913288,9355 |
+
+6816746,037 |
+
+913467,7632 |
+
+6816478,391 |
+
+913427,7612 |
+
+6816391,726 |
+
+913489,6256 |
+
+6816690,527 |
+
+2019_07_67-1 |
+
+Grand Est |
+
+Bas-Rhin |
+
+ZG_67_001 |
+
+GRANDFONTAINE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Point 1 |
+
+1007256,05 |
+
+6829511,989 |
+
+Site_ZG_67_001_S1 |
+
+1 |
+
+2019_07_02-1 |
+
+Hauts-de-France |
+
+Aisne |
+
+GC_02_020 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+737569 |
+
+6926362 |
+
+|
+
+1 |
+
+2019_07_77-1 |
+
+Ile de France |
+
+Seine et Marne |
+
+ZN_77_002 |
+
+Boissy aux cailles |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+mairie |
+
+663276 |
+
+6802156 |
+
+LOT1_Site_ZN_77_002_S1 |
+
+1 |
+
+Route du Vaudoué |
+
+663056 |
+
+6802376 |
+
+Rue Saint Martin |
+
+663128 |
+
+6802328 |
+
+Rue du Père |
+
+663218 |
+
+6802234 |
+
+Rue Saint André |
+
+662890 |
+
+6802096 |
+
+2019_07_77-2 |
+
+Ile de France |
+
+Seine et Marne |
+
+ZN_77_014 |
+
+Boulancourt |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+mairie |
+
+658082 |
+
+6795411 |
+
+LOT1_Site_ZN_77_014_S1 |
+
+1 |
+
+Camping Pierre Longue |
+
+657573 |
+
+6795738 |
+
+Habitations-rue des rochers |
+
+658285 |
+
+6795422 |
+
+étang des pêcheurs |
+
+658529 |
+
+6794951 |
+
+2019_07_77-3 |
+
+Ile de France |
+
+Seine et Marne |
+
+LOT2_2019_ZN_77_020 |
+
+Courchamps / Rupéreux |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+habitations |
+
+721296 |
+
+6837411 |
+
+LOT2_2019_ZN_77_020_S1 |
+
+1 |
+
+mairie Courchamps |
+
+721229 |
+
+6837561 |
+
+habitation |
+
+721051 |
+
+6837747 |
+
+habitation |
+
+721114 |
+
+6837372 |
+
+habitation |
+
+721956 |
+
+6838472 |
+
+mairie Rupéreux |
+
+724477 |
+
+6837304 |
+
+Marcilly |
+
+723241 |
+
+6837447 |
+
+2019_07_77-4 |
+
+Ile de France |
+
+Seine et Marne |
+
+ZN_77_004 |
+
+Fays les Nemours |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+mairie |
+
+675651 |
+
+6792272 |
+
+LOT1_Site_ZN_77_004_S1 |
+
+1 |
+
+stade |
+
+676328 |
+
+6792380 |
+
+Habitations-impasse sapinière |
+
+676583 |
+
+6792432 |
+
+le petit bagneux |
+
+676858 |
+
+6792473 |
+
+centre équestre |
+
+674637 |
+
+6791706 |
+
+2019_07_77-5 |
+
+Ile de France |
+
+Seine et Marne |
+
+ZN_77_008 |
+
+Ormesson |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+rue de la vallée |
+
+674440 |
+
+6794228 |
+
+LOT1_Site_ZN_77_008_S1 |
+
+1 |
+
+Vaux Roussins |
+
+673862 |
+
+6794043 |
+
+Abris bus-rue du vieux chemin |
+
+674199 |
+
+6793686 |
+
+Habitation-rue du vieux chemin |
+
+674009 |
+
+6793709 |
+
+Église-rue de la croix |
+
+674239 |
+
+6793828 |
+
+2019_07_77-6 |
+
+Ile de France |
+
+Seine et Marne |
+
+ZN_77_006 |
+
+Paley |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+route de Lorrez |
+
+690573 |
+
+6793265 |
+
+LOT1_Site_ZN_77_006_S1 |
+
+1 |
+
+rue de la mairie |
+
+689419 |
+
+6793419 |
+
+rue de Tesnières |
+
+689264 |
+
+6794307 |
+
+2019_07_78-1 |
+
+Ile de France |
+
+Yvelines |
+
+LOT2_2019_ZN_78_008 |
+
+Civry-la-Forêt |
+
+BOUYGUES TELECOM/ORANGE/SFR |
+
+|
+
+598714 |
+
+6864236 |
+
+LOT2_2019_ZN_78_008_S1 |
+
+1 |
+
+|
+
+598940 |
+
+6864781 |
+
+|
+
+597928 |
+
+6863608 |
+
+2019_07_91-1 |
+
+Ile de France |
+
+Essonne |
+
+LOT2_2019_ZN_91_017 |
+
+Guillerval |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+632447 |
+
+6806854 |
+
+LOT2_2019_ZN_91_017_S1 |
+
+1 |
+
+2019_07_91-2 |
+
+Ile de France |
+
+Essonne |
+
+LOT2_2019_ZN_91_018 |
+
+Chalot-Saint-Mars |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+629531 |
+
+6812414 |
+
+LOT2_2019_ZN_91_018_S1 |
+
+1 |
+
+2019_07_91-3 |
+
+Ile de France |
+
+Essonne |
+
+LOT2_2019_ZN_91_013 |
+
+Saint Sulpice des Favières |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+639337 |
+
+6827103 |
+
+LOT2_2019_ZN_91_013_S1 |
+
+1 |
+
+|
+
+637992 |
+
+6826717 |
+
+|
+
+640161 |
+
+6827478 |
+
+|
+
+639856 |
+
+6826761 |
+
+2019_07_95-1 |
+
+Ile de France |
+
+Val d'Oise |
+
+ZN_95_004 |
+
+Viennes en Arthies, Villiers en Arthies |
+
+FREE MOBILE/ORANGE |
+
+|
+
+606315 |
+
+6886808 |
+
+LOT1_Site_ZN_95_004_S3 |
+
+1 |
+
+2019_07_95-2 |
+
+Ile de France |
+
+Val d'Oise |
+
+LOT2_2019_ZN_95_009 |
+
+La Roche Guyon |
+
+BOUYGUES TELECOM/ORANGE/SFR |
+
+|
+
+599863 |
+
+6887688 |
+
+A définir |
+
+1 |
+
+2019_07_14-1 |
+
+Normandie |
+
+Calvados |
+
+ZN_14_001 |
+
+Beuvron en Auge |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+477859 |
+
+6902889 |
+
+LOT1_Site_ZN_14_001_S1 |
+
+1 |
+
+|
+
+477977 |
+
+6902986 |
+
+|
+
+478101 |
+
+6903474 |
+
+2019_07_50-1 |
+
+Normandie |
+
+Manche |
+
+LOT2_2019_ZN_50_013 |
+
+La Hague (Audeville) |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+344673 |
+
+6968031 |
+
+LOT2_2019_ZN_50_013_S1 |
+
+1 |
+
+|
+
+344840 |
+
+6967948 |
+
+|
+
+344114 |
+
+6967767 |
+
+|
+
+344345 |
+
+6969030 |
+
+|
+
+346065 |
+
+6968689 |
+
+2019_07_50-2 |
+
+Normandie |
+
+Manche |
+
+LOT2_2019_ZN_50_015 |
+
+Pontorson |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+367813 |
+
+6857324 |
+
+LOT2_2019_ZN_50_015_S1 |
+
+1 |
+
+|
+
+367600 |
+
+6857164 |
+
+|
+
+368182 |
+
+6856933 |
+
+|
+
+368574 |
+
+6857333 |
+
+|
+
+368557 |
+
+6856938 |
+
+2019_07_50-3 |
+
+Normandie |
+
+Manche |
+
+LOT2_2019_ZN_50_016 |
+
+Saint-Jean-le-Thomas |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+372863 |
+
+6834146 |
+
+LOT2_2019_ZN_50_016_S1 |
+
+1 |
+
+|
+
+372489 |
+
+6834340 |
+
+|
+
+372900 |
+
+6834770 |
+
+|
+
+372670 |
+
+6835567 |
+
+|
+
+371962 |
+
+6833972 |
+
+2019_07_16-1 |
+
+Nouvelle-Aquitaine |
+
+Charente |
+
+LOT2_2019_ZN_16_006 |
+
+VILLEBOIS-LAVALETTE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+487498 |
+
+6490523 |
+
+LOT2_2019_ZN_16_006_S1 |
+
+1 |
+
+|
+
+487176 |
+
+6490331 |
+
+|
+
+487191 |
+
+6491576 |
+
+|
+
+487545 |
+
+6490641 |
+
+2019_07_16-2 |
+
+Nouvelle-Aquitaine |
+
+Charente |
+
+LOT2_2019_ZN_16_005 |
+
+MARTHON |
+
+BOUYGUES TELECOM/FREE MOBILE/SFR |
+
+|
+
+500853 |
+
+6504655 |
+
+LOT2_2019_ZN_16_005_S1 |
+
+1 |
+
+|
+
+500559 |
+
+6505210 |
+
+|
+
+501022 |
+
+6504644 |
+
+|
+
+500084 |
+
+6504372 |
+
+2019_07_16-3 |
+
+Nouvelle-Aquitaine |
+
+Charente |
+
+LOT2_2019_ZN_16_009 |
+
+CHENON - AUNAC |
+
+ORANGE |
+
+|
+
+486218 |
+
+6539057 |
+
+LOT2_2019_ZN_16_009_S1 |
+
+1 |
+
+2019_07_19-1 |
+
+Nouvelle-Aquitaine |
+
+Corrèze |
+
+LOT2_2019_ZN_19_004 |
+
+LE PESCHER |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Bourg |
+
+600663 |
+
+6441953 |
+
+LOT2_2019_ZN_19_004_S1 |
+
+1 |
+
+2019_07_33-1 |
+
+Nouvelle-Aquitaine |
+
+Gironde |
+
+LOT1_2019_ZN_33_002 |
+
+Audenge |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Hougueyra Est |
+
+388573 |
+
+6409089 |
+
+LOT1_2019_Site_ZN_33_002_S1 |
+
+2 |
+
+Lubec |
+
+389566 |
+
+6409440 |
+
+Hougueyra Ouest |
+
+385579 |
+
+6407894 |
+
+LOT1_2019_Site_ZN_33_002_S2 |
+
+Hougueyra Nord |
+
+385775 |
+
+6408484 |
+
+Hougueyra Sud |
+
+386212 |
+
+6407717 |
+
+2019_07_11-1 |
+
+Occitanie |
+
+Aude |
+
+LOT2_2019_ZN_11_004 |
+
+Pomy |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+623773 |
+
+6218106 |
+
+LOT2_2019_ZN_11_004_S1 |
+
+1 |
+
+2019_07_11-2 |
+
+Occitanie |
+
+Aude |
+
+LOT2_2019_ZN_11_006 |
+
+Soulatge |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+659545 |
+
+6197884 |
+
+LOT2_2019_ZN_11_006_S1 |
+
+1 |
+
+2019_07_11-3 |
+
+Occitanie |
+
+Aude |
+
+LOT2_2019_ZN_11_007 |
+
+Miraval Carbardes |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+646961 |
+
+6253896 |
+
+LOT2_2019_ZN_11_007_S1 |
+
+1 |
+
+2019_07_12-1 |
+
+Occitanie |
+
+Aveyron |
+
+LOT2_2019_ZN_12_015 |
+
+Sainte-Eulalie-de-Cernon |
+
+BOUYGUES TELECOM/SFR |
+
+Sainte-Eulalie |
+
+710870 |
+
+6320392 |
+
+LOT2_2019_ZN_12_015_S1 |
+
+1 |
+
+Gare de Sainte Eulalie |
+
+710780 |
+
+6319440 |
+
+Sainte-Eulalie |
+
+711678 |
+
+6320063 |
+
+2019_07_30-1 |
+
+Occitanie |
+
+Gard |
+
+LOT1_2019_ZN_30_003 |
+
+Les Plantiers |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+756400 |
+
+6333490 |
+
+LOT1_2019_ZN_30_003_S1 |
+
+3 |
+
+756960 |
+
+6333586 |
+
+756936 |
+
+6333106 |
+
+755018 |
+
+6334760 |
+
+LOT1_2019_ZN_30_003_S2 |
+
+756840 |
+
+6335433 |
+
+LOT1_2019_ZN_30_003_S3 |
+
+2019_07_31-1 |
+
+Occitanie |
+
+Haute-Garonne |
+
+LOT2_2019_ZN_31_005 |
+
+Francazal |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Eglise |
+
+536645 |
+
+6215439 |
+
+LOT2_2019_ZN_31_005_S1 |
+
+1 |
+
+Sarclat |
+
+537038 |
+
+6214899 |
+
+Pas du Loup |
+
+536707 |
+
+6214527 |
+
+2019_07_31-2 |
+
+Occitanie |
+
+Haute-Garonne |
+
+LOT2_2019_ZN_31_007 |
+
+Samouillan |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Centre |
+
+533236 |
+
+6242680 |
+
+LOT2_2019_ZN_31_007_S1 |
+
+1 |
+
+Gaouach |
+
+534253 |
+
+6242079 |
+
+Bernets |
+
+533329 |
+
+6243459 |
+
+Narbonne |
+
+532921 |
+
+6244457 |
+
+2019_07_31-3 |
+
+Occitanie |
+
+Haute-Garonne |
+
+GC_31_120 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+500253 |
+
+6185865 |
+
+|
+
+1 |
+
+2019_07_32-1 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_011 |
+
+Saint-Michel |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+490613,2729 |
+
+6262250,386 |
+
+LOT2_2019_ZN_32_011_S1 |
+
+1 |
+
+490899,772 |
+
+6263510,633 |
+
+490079,4232 |
+
+6259180,818 |
+
+2019_07_32-2 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_012 |
+
+Fourcès |
+
+ORANGE |
+
+|
+
+477847,9678 |
+
+6325428,734 |
+
+LOT2_2019_ZN_32_012_S1 |
+
+1 |
+
+477850,6695 |
+
+6326483,416 |
+
+2019_07_32-3 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_013 |
+
+Manciet |
+
+FREE MOBILE/ORANGE |
+
+|
+
+461876,5131 |
+
+6304490,898 |
+
+LOT2_2019_ZN_32_013_S1 |
+
+1 |
+
+461715,1664 |
+
+6304370,642 |
+
+462221,2652 |
+
+6304651,453 |
+
+461724,7569 |
+
+6304615,204 |
+
+2019_07_32-4 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_014 |
+
+Magnas |
+
+BOUYGUES TELECOM/SFR |
+
+|
+
+517544,0358 |
+
+6313189,435 |
+
+LOT2_2019_ZN_32_014_S1 |
+
+1 |
+
+517739,215 |
+
+6312743,527 |
+
+2019_07_32-5 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_019 |
+
+Aurimont |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+523938,3463 |
+
+6277342,431 |
+
+LOT1_ZN_32_019_S1 |
+
+1 |
+
+521788,7481 |
+
+6275639,706 |
+
+2019_07_32-6 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_020 |
+
+Bassoues |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+477436,0396 |
+
+6279471,346 |
+
+LOT2_2019_ZN_32_020_S1 |
+
+1 |
+
+476710,7101 |
+
+6282071,997 |
+
+2019_07_32-7 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_021 |
+
+Clermont-Pouyguillès |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+499453,5632 |
+
+6266712,504 |
+
+LOT1_2019_ZN_32_004_S1 |
+
+1 |
+
+499560,6076 |
+
+6266946,851 |
+
+499235,561 |
+
+6265931,195 |
+
+2019_07_32-8 |
+
+Occitanie |
+
+Gers |
+
+LOT2_2019_ZN_32_022 |
+
+Ordan-Larroque |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+496664,7115 |
+
+6286966,686 |
+
+LOT1_2019_ZN_32_009_S3 |
+
+1 |
+
+495775,0378 |
+
+6286489,324 |
+
+2019_07_46-1 |
+
+Occitanie |
+
+Lot |
+
+GC_46_002 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+614545,4 |
+
+6383665,7 |
+
+|
+
+3 |
+
+609017,36 |
+
+6382513,9 |
+
+611002,2 |
+
+6383455,6 |
+
+2019_07_46-2 |
+
+Occitanie |
+
+Lot |
+
+GC_46_005 |
+
+|
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+605855,8 |
+
+6381232,8 |
+
+|
+
+1 |
+
+2019_07_48-1 |
+
+Occitanie |
+
+Lozère |
+
+LOT2_2019_ZN_48_018 |
+
+PREVENCHERES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Gorges Chassezac |
+
+774891,2505 |
+
+6376099,993 |
+
+LOT2_2019_ZN_48_018_S1 |
+
+1 |
+
+2019_07_48-2 |
+
+Occitanie |
+
+Lozère |
+
+LOT2_2019_ZN_48_013 |
+
+RIEUTORT DE RANDON |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Bourg centre |
+
+738023,5386 |
+
+6392836,924 |
+
+LOT2_2019_ZN_48_013_S1 |
+
+1 |
+
+738002,9092 |
+
+6392870,892 |
+
+737939,7243 |
+
+6392906,128 |
+
+737957,7891 |
+
+6392874,01 |
+
+737868,3341 |
+
+6390878,002 |
+
+2019_07_48-3 |
+
+Occitanie |
+
+Lozère |
+
+LOT2_2019_ZN_48_019 |
+
+CHADENET |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Le Bouchet |
+
+751104,4613 |
+
+6377998,671 |
+
+LOT2_2019_ZN_48_019_S1 |
+
+1 |
+
+751089,5924 |
+
+6377939,043 |
+
+751136,8743 |
+
+6378051,216 |
+
+751190,735 |
+
+6378088,633 |
+
+751188,0512 |
+
+6378051,633 |
+
+2019_07_65-1 |
+
+Occitanie |
+
+Hautes-Pyrénées |
+
+LOT2_2019_ZN_65_008 |
+
+SOST |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Permilla |
+
+500964 |
+
+6207132 |
+
+LOT2_2019_ZN_65_008_S1 |
+
+1 |
+
+Centre |
+
+500463 |
+
+6206298 |
+
+Cap de Lane |
+
+500569 |
+
+6205583 |
+
+Gorge |
+
+501570 |
+
+6207293 |
+
+Teula |
+
+501232 |
+
+6206574 |
+
+2019_07_66-1 |
+
+Occitanie |
+
+Pyrénées-Orientales |
+
+LOT2_2019_ZN_66_006 |
+
+VALMANYA |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Estanyol |
+
+660871 |
+
+6157645 |
+
+LOT2_2019_ZN_66_006_S2 |
+
+1 |
+
+2019_07_66-2 |
+
+Occitanie |
+
+Pyrénées-Orientales |
+
+LOT2_2019_ZN_66_009 |
+
+ESCARO |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Camping |
+
+643428 |
+
+6159488 |
+
+LOT2_2019_ZN_66_009_S1 |
+
+2 |
+
+Gites |
+
+643552 |
+
+6159838 |
+
+Aytua |
+
+645125 |
+
+6160169 |
+
+LOT2_2019_ZN_66_009_S2 |
+
+Manes |
+
+645173 |
+
+6159365 |
+
+Anciennes Mines |
+
+644825 |
+
+6159213 |
+
+2019_07_66-3 |
+
+Occitanie |
+
+Pyrénées-Orientales |
+
+LOT2_2019_ZN_66_011 |
+
+MARQUIXANES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Los Ques |
+
+657239 |
+
+6171365 |
+
+LOT2_2019_ZN_66_011_S1 |
+
+1 |
+
+N116 |
+
+657549 |
+
+6171492 |
+
+Los Monas |
+
+657665 |
+
+6171667 |
+
+Les Escaleres |
+
+657887 |
+
+6171729 |
+
+2019_07_66-4 |
+
+Occitanie |
+
+Pyrénées-Orientales |
+
+LOT1_2019_ZN_66_004 |
+
+CAUDIES DE FENOUILLEDES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Centre |
+
+648855 |
+
+6190571 |
+
+LOT1_2019_ZN_66_004_S2 |
+
+1 |
+
+Fizel |
+
+650085 |
+
+6188848 |
+
+2019_07_81-1 |
+
+Occitanie |
+
+Tarn |
+
+LOT2_2019_ZN_81_004 |
+
+NAGES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+676852,97 |
+
+6283832,41 |
+
+LOT2_2019_ZN_81_004_S1 |
+
+1 |
+
+|
+
+677312,7 |
+
+6284562,14 |
+
+2019_07_82-1 |
+
+Occitanie |
+
+Tarn-et-Garonne |
+
+LOT2_2019_ZG_82_004 |
+
+ANGEVILLE |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Fompeyre |
+
+540680 |
+
+6322890 |
+
+LOT2_2019_ZG_82_004_S1 |
+
+1 |
+
+Coutures |
+
+538410 |
+
+6319110 |
+
+Fajolles |
+
+540670 |
+
+6320770 |
+
+2019_07_82-2 |
+
+Occitanie |
+
+Tarn-et-Garonne |
+
+LOT2_2019_ZN_82_005 |
+
+VAISSAC |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Boissonnade |
+
+579390 |
+
+6324980 |
+
+LOT2_2019_ZN_82_005_S2 |
+
+1 |
+
+LesTeularios |
+
+582400 |
+
+6324270 |
+
+2019_07_49-1 |
+
+Pays de la Loire |
+
+Maine-et-Loire |
+
+LOT2_2019_ZN_49_005 |
+
+Saint-Paul-du-Bois |
+
+BOUYGUES TELECOM/FREE MOBILE/SFR |
+
+LOT2_2019_ZN_49_005_Point1 |
+
+430459,94 |
+
+6670357,37 |
+
+LOT2_2019_ZN_49_005_S1 |
+
+1 |
+
+LOT2_2019_ZN_49_005_Point2 |
+
+430241,83 |
+
+6669415,68 |
+
+LOT2_2019_ZN_49_005_Point3 |
+
+431482,99 |
+
+6670516,62 |
+
+LOT2_2019_ZN_49_005_Point4 |
+
+432684,33 |
+
+6670525,28 |
+
+LOT2_2019_ZN_49_005_Point5 |
+
+433508,3 |
+
+6671963,77 |
+
+2019_07_49-2 |
+
+Pays de la Loire |
+
+Maine-et-Loire |
+
+LOT2_2019_ZN_49_006 |
+
+La Jumellière (Chemillé-en-Anjou) |
+
+ORANGE |
+
+LOT2_2019_ZN_49_006_Point1 |
+
+417916,82 |
+
+6693527,34 |
+
+LOT2_2019_ZN_49_006_S1 |
+
+1 |
+
+LOT2_2019_ZN_49_006_Point2 |
+
+418218,02 |
+
+6692828 |
+
+LOT2_2019_ZN_49_006_Point3 |
+
+417484,06 |
+
+6694697,53 |
+
+LOT2_2019_ZN_49_006_Point4 |
+
+419267,03 |
+
+6695424,57 |
+
+LOT2_2019_ZN_49_006_Point5 |
+
+418816,96 |
+
+6692161,55 |
+
+2019_07_49-3 |
+
+Pays de la Loire |
+
+Maine-et-Loire |
+
+LOT2_2019_ZN_49_013 |
+
+Chaudron-en Mauges (Montrevault-sur-Evre) |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_49_013_Point1 |
+
+480488,75 |
+
+6710510,58 |
+
+LOT2_2019_ZN_49_013_S1 |
+
+1 |
+
+LOT2_2019_ZN_49_013_Point2 |
+
+479824,03 |
+
+6710707,92 |
+
+LOT2_2019_ZN_49_013_Point3 |
+
+479162,77 |
+
+6710898,34 |
+
+LOT2_2019_ZN_49_013_Point4 |
+
+479533,21 |
+
+6711206,46 |
+
+LOT2_2019_ZN_49_013_Point5 |
+
+478570,75 |
+
+6710974,5 |
+
+2019_07_49-4 |
+
+Pays de la Loire |
+
+Maine-et-Loire |
+
+LOT2_2019_ZN_49_014 |
+
+Linières Bouton (Noyan-Village) |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_49_014_Point1 |
+
+398661,59 |
+
+6694684,55 |
+
+LOT2_2019_ZN_49_014_S1 |
+
+1 |
+
+LOT2_2019_ZN_49_014_Point2 |
+
+399066,66 |
+
+6695337,15 |
+
+LOT2_2019_ZN_49_014_Point3 |
+
+398730,83 |
+
+6694421,43 |
+
+LOT2_2019_ZN_49_014_Point4 |
+
+399523,65 |
+
+6695134,62 |
+
+LOT2_2019_ZN_49_014_Point5 |
+
+399828,31 |
+
+6693701,31 |
+
+2019_07_53-1 |
+
+Pays de la Loire |
+
+Mayenne |
+
+LOT2_2019_ZN_53_009 |
+
+Sainte Marie du Bois |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE |
+
+LOT2_2019_ZN_53_009_Point1 |
+
+441972,1161 |
+
+6823802,311 |
+
+LOT2_2019_ZN_53_009_S1 |
+
+1 |
+
+LOT2_2019_ZN_53_009_Point2 |
+
+442533,6326 |
+
+6823949,957 |
+
+LOT2_2019_ZN_53_009_Point3 |
+
+442699,25 |
+
+6823997,168 |
+
+LOT2_2019_ZN_53_009_Point4 |
+
+442769,7798 |
+
+6823885,015 |
+
+LOT2_2019_ZN_53_009_Point5 |
+
+443342,761 |
+
+6823806,362 |
+
+2019_07_53-2 |
+
+Pays de la Loire |
+
+Mayenne |
+
+LOT2_2019_ZN_53_012 |
+
+Gesvres |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_53_012_Point1 |
+
+467021,26 |
+
+6812252,34 |
+
+LOT2_2019_ZN_53_012_S1 |
+
+1 |
+
+LOT2_2019_ZN_53_012_Point2 |
+
+466838,55 |
+
+6812137,43 |
+
+LOT2_2019_ZN_53_012_Point3 |
+
+467064,96 |
+
+6812503,16 |
+
+2019_07_72-1 |
+
+Pays de la Loire |
+
+Sarthe |
+
+LOT2_2019_ZN_72_005 |
+
+Gesnes-le-Gandelin |
+
+BOUYGUES TELECOM/SFR |
+
+LOT2_2019_ZN_72_005_Point1 |
+
+479306,55 |
+
+6810255,87 |
+
+LOT2_2019_ZN_72_005_S1 |
+
+1 |
+
+LOT2_2019_ZN_72_005_Point2 |
+
+478969,92 |
+
+6810352,01 |
+
+LOT2_2019_ZN_72_005_Point3 |
+
+479253,56 |
+
+6810285,68 |
+
+LOT2_2019_ZN_72_005_Point4 |
+
+478986,77 |
+
+6810287,97 |
+
+LOT2_2019_ZN_72_005_Point5 |
+
+479396,33 |
+
+6810258,04 |
+
+2019_07_72-2 |
+
+Pays de la Loire |
+
+Sarthe |
+
+LOT2_2019_ZN_72_013 |
+
+Mont-Saint-Jean |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+LOT2_2019_ZN_72_013_Point1 |
+
+469349,7 |
+
+6798626,4 |
+
+LOT2_2019_ZN_72_013_S1 |
+
+1 |
+
+LOT2_2019_ZN_72_013_Point3 |
+
+471022,1 |
+
+6798013,2 |
+
+LOT2_2019_ZN_72_013_Point4 |
+
+469453 |
+
+6798447 |
+
+2019_07_13-1 |
+
+Provence Alpes Côte d'Azur |
+
+Bouches du Rhône |
+
+ZN_13_001 |
+
+Arles (Albaron) |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Château d'Avignon |
+
+814028 |
+
+6274288 |
+
+A définir |
+
+1 |
+
+Mas de la Cure |
+
+814474 |
+
+6273636 |
+
+Centre Paty |
+
+818391 |
+
+6277150 |
+
+Mas d'Eymini Sud |
+
+814962 |
+
+6275959 |
+
+2019_07_13-2 |
+
+Provence Alpes Côte d'Azur |
+
+Bouches du Rhône |
+
+ZN_13_013 |
+
+Port Saint Louis du Rhône |
+
+ORANGE |
+
+Capitainerie Port Napoleon |
+
+848312 |
+
+6254662 |
+
+LOT1_Site_ZN_13_013_S1 |
+
+1 |
+
+Pole Nautique |
+
+849819 |
+
+6255004 |
+
+2019_07_13-3 |
+
+Provence Alpes Côte d'Azur |
+
+Bouches du Rhône |
+
+LOT2_2019_ZN_13_008 |
+
+Charleval |
+
+BOUYGUES TELECOM/FREE MOBILE/SFR |
+
+Mairie |
+
+880778 |
+
+6293759 |
+
+LOT2_2019_ZN_13_008_S1 |
+
+1 |
+
+Est Charleval |
+
+881170 |
+
+6293587 |
+
+Camping |
+
+880993 |
+
+6293096 |
+
+La Cadenière |
+
+880107 |
+
+6293416 |
+
+2019_07_13-4 |
+
+Provence Alpes Côte d'Azur |
+
+Bouches du Rhône |
+
+LOT2_2019_ZN_13_012 |
+
+Ensues |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Port Méjean |
+
+879953 |
+
+6250575 |
+
+LOT2_2019_ZN_13_012_S1 |
+
+1 |
+
+Calanque des Figuieres |
+
+879346 |
+
+6250423 |
+
+2020_01_05-1 |
+
+Provence-Alpes-Côte d'Azur |
+
+Hautes-Alpes |
+
+LOT2_2019_ZN_05_008 |
+
+CERVIERES |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Terre Rouge |
+
+991170 |
+
+6426336 |
+
+2019_LOT2_ZN_05_008_S1 |
+
+1 |
+
+2019_07_05-2 |
+
+Provence Alpes Côte d'Azur |
+
+Hautes Alpes |
+
+LOT2_2019_ZN_05_005 |
+
+Villar d'Arène |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Zone touristique d'Arsine |
+
+964810 |
+
+6442574 |
+
+LOT2_2019_ZN_05_005_S1 |
+
+1 |
+
+2019_07_05-3 |
+
+Provence Alpes Côte d'Azur |
+
+Hautes Alpes |
+
+LOT2_2019_ZN_05_012 |
+
+Fressinières |
+
+ORANGE |
+
+Les Ribles |
+
+979603 |
+
+6412306 |
+
+LOT2_2019_ZN_05_012_S1 |
+
+1 |
+
+2019_07_84-1 |
+
+Provence Alpes Côte d'Azur |
+
+Vaucluse |
+
+ZN_84_002 |
+
+La Tour d'Aigues |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Quartier nord |
+
+905151 |
+
+6296559 |
+
+A définir |
+
+1 |
+
+2019_07_84-2 |
+
+Provence Alpes Côte d'Azur |
+
+Vaucluse |
+
+LOT2_2019_ZG_84_001 |
+
+Bonnieux |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Combe Lourmarin 1 |
+
+888462 |
+
+6304062 |
+
+LOT2_2019_ZG_84_001_S1 |
+
+3 |
+
+Combe Lourmarin 2 |
+
+888979 |
+
+6304871 |
+
+Claparèdes |
+
+887510 |
+
+6305322 |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Combe Lourmarin 3 |
+
+888850 |
+
+6302648 |
+
+LOT2_2019_ZG_84_001_S2 |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+Forêt des Cèdres |
+
+882714 |
+
+6302814 |
+
+LOT2_2019_ZG_84_001_S3 |
+
+2019_07_83-2 |
+
+Provence Alpes Côte d'Azur |
+
+Var |
+
+LOT2_2019_ZG_83_004 |
+
+La Garde Freinet |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+978358 |
+
+6250342 |
+
+LOT2_2019_ZG_83_004_S1 |
+
+1 |
+
+|
+
+978579 |
+
+6250150 |
+
+|
+
+979349 |
+
+6249970 |
+
+|
+
+980252 |
+
+6250243 |
+
+2019_07_83-3 |
+
+Provence Alpes Côte d'Azur |
+
+Var |
+
+LOT2_2019_ZN_83_007 |
+
+Les Mayons |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+972443 |
+
+6251698 |
+
+LOT2_2019_ZN_83_007_S1 |
+
+1 |
+
+|
+
+972191 |
+
+6252244 |
+
+|
+
+972603 |
+
+6251791 |
+
+2019_07_83-4 |
+
+Provence Alpes Côte d'Azur |
+
+Var |
+
+ZN_83_002 |
+
+Baudinard |
+
+BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
+
+|
+
+952133 |
+
+6296525 |
+
+LOT1_Site_ZN_83_002_S1 |
+
+1 |
+
+|
+
+953057 |
+
+6295649 |
+
+|
+
+952774 |
+
+6295838 |
+
+|
+
+951745 |
+
+6295999 |
+
+|
+
+952016 |
+
+6295751 |
