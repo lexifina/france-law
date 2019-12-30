@@ -16,7 +16,7 @@ La déduction prévue au premier alinéa s'applique aux acquisitions ou construc
 
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
-Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise. Ce délai est porté à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ces conséquences sont également applicables si les conditions prévues aux septième et huitième alinéas du présent I cessent d'être respectées. Ce délai est porté à quinze ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
+Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise. Ce délai est porté à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ces conséquences sont également applicables si les conditions prévues aux septième et huitième alinéas du présent I cessent d'être respectées. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans le cadre des opérations mentionnées aux articles 210 A ou 210 B si le bénéficiaire de la transmission s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de conservation restant à courir.
 
@@ -128,18 +128,4 @@ VI. – Le bénéfice de la déduction prévue aux I, I bis, II et II ter est su
 
 NOTA :
 
-Conformément à l’article 30 V D de la loi n° 2018-1317 du 28 décembre 2018, le sixième alinéa du I dans sa rédaction résultant du a du 9° du I de l'article 30 est applicable :
-
-1° Aux acquisitions d'immeubles à construire et aux constructions d'immeubles n'ayant pas fait l'objet d'une déclaration d'ouverture de chantier à la date du 24 septembre 2018 ;
-
-2° Aux investissements pour l'agrément desquels une demande n'est pas parvenue à l'administration à la date du 24 septembre 2018.
-
-Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions du 1° des I et I bis telles qu'elles résultent du I dudit artcile s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
-
-Conformément à l'article 131 III A de la loi n° 2018-1317 du 28 décembre 2018, les présentes dispositions telles qu'elles résultent des a à c du 2° du I dudit article s'appliquent aux travaux achevés à compter du 1er janvier 2019 et aux autres investissements dont le fait générateur intervient à compter de cette même date.
-
-Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
-
-A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
-
-B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
+Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux investissements mis en service au titre des exercices ouverts à compter du 1er janvier 2021 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2020.

@@ -86,7 +86,7 @@ VII. – Lorsque le montant total par programme d'investissements est supérieur
 
 Pour l'application du premier alinéa du présent VII, les conditions relatives à l'intérêt économique, d'une part, et à l'intégration dans la politique d'aménagement du territoire, de l'environnement et de développement durable, d'autre part, prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont réputées satisfaites lorsque le programme d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code de l'énergie, après évaluation par la Commission de régulation de l'énergie en application du II du même article R. 121-28.
 
-VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ce délai est porté à quinze ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
+VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
 
@@ -118,16 +118,4 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 
 NOTA :
 
-Conformément à l’article 31 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions des a des 1° et 3° du 4 du I telles qu'elles résultent des dispositions dudit article s'appliquent aux immeubles achevés ou acquis à compter du 1er juillet 2018.
-
-Conformément à l'article 131 III C de la loi n° 2018-1317 du 28 décembre 2018, l'article 244 quater W, dans sa rédaction résultant des a à c du 5° du I, s'applique aux investissements dont le fait générateur intervient à compter du 1er janvier 2019.
-
-Conformément à l’article 138 II de la loi n° 2018-1317 du 28 décembre 2018 :
-
-A.- Ces dispositions s'appliquent aux investissements mis en service en Polynésie française, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie au titre des exercices ouverts à compter du 1er janvier 2020 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2019.
-
-B.- Ces dispositions s'appliquent aux investissements mis en service en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte et à Saint-Martin pour l'agrément desquels une demande a été déposée à compter d'une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
-
-Conformément à l’article 153 II B de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater W telles qu'elles résultent des dispositions du 2° du I dudit article s'appliquent aux acquisitions et constructions d'immeubles ayant fait l'objet d'une déclaration de chantier à compter du 1er janvier 2019.
-
-Conformément à l’article 154 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater W telles qu'elles résultent des dispositions du I dudit article s'appliquent aux immeubles dont l'achèvement des fondations intervient à compter du 1er janvier 2019.
+Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux investissements mis en service au titre des exercices ouverts à compter du 1er janvier 2021 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2020.

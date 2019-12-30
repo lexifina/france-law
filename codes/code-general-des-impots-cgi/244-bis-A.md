@@ -54,7 +54,7 @@ III. – Lorsque le prélèvement mentionné au I est dû par une personne moral
 
 Par dérogation au III bis et au premier alinéa du présent III, le prélèvement dû par des personnes morales résidentes d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les règles d'assiette et de taux prévues en matière d'impôt sur les sociétés dans les mêmes conditions que celles applicables à la date de la cession aux personnes morales résidentes de France.
 
-III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux fixé au deuxième alinéa du I de l'article 219.
+III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux prévu à la première phrase du deuxième alinéa du I de l'article 219.
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %.
 
@@ -76,6 +76,4 @@ Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû
 
 NOTA :
 
-Loi n° 2015-1786 du 29 décembre 2016, article 28 II : Ces dispositions s'appliquent à l'impôt sur le revenu dû à compter des revenus perçus en 2015 et à l'impôt sur les sociétés dû au titre des exercices clos à compter du 31 décembre 2015.
-
-Conformément à l’article 43 II A de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux cessions réalisées à compter du 1er janvier 2019.
+Conformément au A du X de l'article 39 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux retenues et prélèvements à la source dont le fait générateur est intervenu entre le 6 mars 2019 et le 31 décembre 2021.

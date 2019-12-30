@@ -16,6 +16,8 @@ I. - 1. Les certificats d'immatriculation des véhicules automobiles et de tous 
 
 Pour les vélomoteurs, il est perçu une taxe fixe dont le montant est égal à la moitié dudit taux unitaire.
 
+I bis.-La taxe proportionnelle n'est pas due pour les certificats qui sont relatifs aux véhicules utilisés pour l'exercice d'une compétence de l'Etat, des collectivités territoriales, de leurs groupements ou des établissements publics de coopération intercommunale et qui sont délivrés à la suite d'un transfert ou du retrait de cette compétence.
+
 II. - Les concessionnaires et les agents de marques de véhicules automobiles sont exonérés des taxes édictées au I pour les véhicules neufs affectés à la démonstration et dont le poids total en charge n'excède par 3,5 tonnes.
 
 III. - Lorsque l'application du tarif prévu au I fait apparaître des décimes, le montant de la taxe exigible est arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

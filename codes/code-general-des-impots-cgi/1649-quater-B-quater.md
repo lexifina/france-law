@@ -52,6 +52,8 @@ XIII.-La déclaration de crédit d'impôt pour dépenses de recherche mentionné
 
 XIV.-Les déclarations de taxe sur les salaires sont souscrites par voie électronique.
 
+XVI.-Un décret précise les autres déclarations qui sont souscrites par voie électronique, sous peine de l'application de l'article 1738.
+
 NOTA :
 
 Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, le VII de l'article 1649 quater B quater du code général des impôts s'applique à compter d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.

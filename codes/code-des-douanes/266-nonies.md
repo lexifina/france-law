@@ -2,6 +2,12 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
+A-0.-Les autorisations mentionnées dans chacune des lignes des tableaux du second alinéa des a et b du A du présent 1 et aux deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
+
+Les réceptions dans des installations non autorisées relèvent du tarif le plus élevé prévu par chacun des tableaux mentionnés au premier alinéa du présent A-0 pour, respectivement, les installations de stockage ou d'incinération, majoré de 110 € par tonne.
+
+Relèvent du même tarif les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de ces autorisations ainsi que les transferts réalisés vers une installation hors de France en méconnaissance des réglementations d'effet équivalent mentionnées au premier alinéa du présent A-0.
+
 A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 266 sexies :
 
 a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
@@ -33,24 +39,6 @@ Quotité (en euros) |
 A partir
 
 de 2025 |
-
-A.-Installations non autorisées |
-
-tonne |
-
-151 |
-
-152 |
-
-164 |
-
-168 |
-
-171 |
-
-173 |
-
-175 |
 
 B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté |
 
@@ -151,24 +139,6 @@ Quotité (en euros) |
 A partir
 
 de 2025 |
-
-Installations non autorisées |
-
-tonne |
-
-125 |
-
-125 |
-
-130 |
-
-132 |
-
-133 |
-
-134 |
-
-135 |
 
 A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme accrédité |
 
@@ -332,11 +302,7 @@ tonne |
 
 25 |
 
-b bis) Les autorisations mentionnées dans chacune des lignes des tableaux des a et b s'entendent de celles prévues au titre Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
-
-Relèvent du tarif applicable aux réceptions dans une installation non autorisée les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de l'autorisation mentionnées au premier alinéa du IV de l'article 266 sexies.
-
-Les transferts réalisés vers une installation hors de France en méconnaissance des règles équivalentes relèvent de ce même tarif ;
+b bis) (Abrogé) ;
 
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible s'applique à l'assiette concernée ;
 
@@ -436,7 +402,7 @@ QUOTITÉ
 
 |
 
-Déchets réceptionnés dans une installation de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
+Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
 
 |
 
@@ -448,7 +414,7 @@ Tonne
 
 |
 
-Déchets réceptionnés dans une installation de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
+Déchets réceptionnés dans une installation autorisée de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
 
 |
 

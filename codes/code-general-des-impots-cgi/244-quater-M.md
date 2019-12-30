@@ -10,6 +10,4 @@ II bis. – Pour le calcul du crédit d'impôt des groupements agricoles d'explo
 
 III. – Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-NOTA :
-
-Conformément au B du II de l'article 19 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, les dispositions de l'article 244 quater M telles qu'elles résultent du 4° du I dudit article s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2019 pour les heures de formation effectuées à compter de cette même date.
+IV. – Le I s'applique aux heures de formation effectuées jusqu'au 31 décembre 2022.

@@ -2,7 +2,7 @@
 
 I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu au titre de l'acquisition, à compter du 1er janvier 2009 et jusqu'au 31 décembre 2021, d'un logement neuf ou en l'état futur d'achèvement ou d'un logement achevé depuis au moins quinze ans ayant fait l'objet d'une réhabilitation ou d'une rénovation ou qui fait l'objet de travaux de réhabilitation ou de rénovation si les travaux de réhabilitation ou de rénovation permettent, après leur réalisation, de satisfaire à l'ensemble des performances techniques mentionnées au II de l'article 2 quindecies B de l'annexe III, qu'ils destinent à une location meublée n'étant pas exercée à titre professionnel et dont le produit est imposé dans la catégorie des bénéfices industriels et commerciaux lorsque ce logement est compris dans :
 
-1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-1 du code du travail ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu par les articles L. 444-1 à L. 444-9 du code de l'action sociale et des familles géré par un groupement de coopération sociale ou médico-sociale ;
+1° Un établissement mentionné aux 6° ou 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, une résidence avec services pour personnes âgées ou handicapées ayant obtenu l'agrément " qualité " visé à l'article L. 7232-1 du code du travail ou l'autorisation prévue à l'article L. 313-1 du code de l'action sociale et des familles pour son service d'aide et d'accompagnement à domicile relevant des 6° ou 7° du I de l'article L. 312-1 du même code, ou l'ensemble des logements affectés à l'accueil familial salarié de personnes âgées ou handicapées, prévu par les articles L. 444-1 à L. 444-9 du code de l'action sociale et des familles géré par un groupement de coopération sociale ou médico-sociale ;
 
 2° Une résidence avec services pour étudiants ;
 
@@ -39,7 +39,3 @@ En cas de non-respect de l'engagement de location ou de cession du logement, la 
 La réduction n'est pas applicable au titre des logements dont le droit de propriété est démembré. Toutefois, lorsque le transfert de la propriété du bien ou le démembrement de ce droit résulte du décès de l'un des époux soumis à imposition commune, le conjoint survivant attributaire du bien ou titulaire de son usufruit peut demander la reprise à son profit, dans les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à courir à la date du décès.
 
 IV. – Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199 undecies A et 199 undecies B et des dispositions du présent article.
-
-NOTA :
-
-Conformément à l'article 78 II de la loi n° 2017-1837 du 30 décembre 2017, le Gouvernement transmet au Parlement une évaluation du dispositif prévu à l'article 199 sexvicies du code général des impôts avant le 1er septembre 2018.

@@ -66,7 +66,7 @@ g) Les dépenses de normalisation afférentes aux produits de l'entreprise, déf
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 450 € par jour de présence auxdites réunions ;
 
-h) Les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
+h) Jusqu'au 31 décembre 2022, les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
 
 1° Les dépenses de personnel afférentes aux stylistes et techniciens des bureaux de style directement et exclusivement chargés de la conception de nouveaux produits et aux ingénieurs et techniciens de production chargés de la réalisation de prototypes ou d'échantillons non vendus ;
 
@@ -78,11 +78,11 @@ h) Les dépenses liées à l'élaboration de nouvelles collections exposées par
 
 5° Les frais de défense des dessins et modèles, dans la limite de 60 000 € par an ;
 
-i) Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
+i) Jusqu'au 31 décembre 2022, les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
 j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 € par an.
 
-k) Les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
+k) Jusqu'au 31 décembre 2022, les dépenses exposées par les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et définies comme suit :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de conception de prototypes ou installations pilotes de nouveaux produits autres que les prototypes et installations pilotes mentionnés au a ;
 
@@ -131,3 +131,11 @@ III bis. – Les entreprises qui engagent plus de 2 millions d'euros de dépense
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
 VI. – Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
+
+NOTA :
+
+Conformément au II et au III de l'article 150 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions s'appliquent aux dépenses engagées au titre des exercices clos à compter du 31 décembre 2019.
+
+Elles entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
+
+Conformément au IV de l'article 130 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 244 quater B résultant des dispositions du 1° du I dudit article, s'appliquent aux dépenses exposées à compter du 1er janvier 2020.

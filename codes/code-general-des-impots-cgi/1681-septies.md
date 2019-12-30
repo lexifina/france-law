@@ -13,3 +13,5 @@
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
 
 7. Par dérogation au 1 de l'article 1681 quinquies, les prélèvements prévus aux VIII, IX et X de l'article 1649 quater B quater sont acquittés par télérèglement.
+
+9. Un décret précise les autres impositions qui sont acquittées par télérèglement, sous peine de l'application de l'article 1738.

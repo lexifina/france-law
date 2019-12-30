@@ -6,6 +6,8 @@ Ces dispositions ne sont pas applicables aux personnes morales qui réalisent av
 
 Un décret fixe la nature des renseignements particuliers que les sociétés mentionnées au premier alinéa doivent fournir annuellement au service des impôts, indépendamment des déclarations dont la production est déjà prévue par le présent code (1).
 
+Le présent article s'applique aux avantages en nature mentionnés au premier alinéa consentis au cours d'un exercice ouvert jusqu'au 31 décembre 2023.
+
 NOTA :
 
 (1) Voir l'article 46 quaterdecies de l'annexe III.

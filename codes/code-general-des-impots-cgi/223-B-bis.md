@@ -18,11 +18,13 @@ II. – Le résultat mentionné au 2° du I est déterminé en corrigeant le ré
 
 4° La somme algébrique des gains et pertes constatés par chaque société membre du groupe et soumis aux taux mentionnés au a du I et au IV de l'article 219.
 
-Le résultat fiscal mentionné au premier alinéa du présent II s'entend de celui obtenu avant imputation des déficits. Il tient compte des déductions pour l'assiette de l'impôt et des abattements déduits pour cette même assiette. En cas d'exercice de l'option mentionnée au V, le résultat mentionné au 2° du I ne tient compte ni du résultat afférent aux contrats mentionnés au 3 du III de l'article 212 bis déterminé dans les conditions du présent II, ni du résultat mentionné au b du 2 du IV du présent article.
+Les montants mentionnés aux 2° à 4° du présent II s'entendent de ceux qui, pour la détermination du résultat d'ensemble de l'exercice, ne donnent pas lieu aux retraitements prévus aux articles 223 B et 223 F.
+
+Le résultat fiscal mentionné au premier alinéa du présent II s'entend de celui obtenu avant imputation des déficits et avant application des dispositions du présent article. Il tient compte des déductions pour l'assiette de l'impôt et des abattements déduits pour cette même assiette. En cas d'exercice de l'option mentionnée au V, le résultat mentionné au 2° du I ne tient compte ni du résultat afférent aux contrats mentionnés au 3 du III de l'article 212 bis déterminé dans les conditions du présent II, ni du résultat mentionné au b du 2 du IV du présent article.
 
 III. – Pour l'application du I, les charges financières nettes supportées par le groupe s'entendent de la somme algébrique des charges et produits financiers de l'ensemble des sociétés membres du groupe tels que définis au III de l'article 212 bis.
 
-IV. – 1. Par exception aux I, VI et VII du présent article, sont déductibles, dans les conditions déterminées aux 2 et 3 du présent IV, les charges financières nettes mentionnées au III supportées par le cocontractant d'un pouvoir adjudicateur, d'une entité adjudicatrice ou d'une autorité concédante et afférentes aux biens acquis ou construits par lui dans le cadre des contrats mentionnés aux 1° à 4° du 1 du IV de l'article 212 bis.
+IV. – 1. Par exception aux I, VI et VII du présent article, sont déductibles, dans les conditions déterminées aux 2 et 3 du présent IV, les charges financières nettes mentionnées au III supportées par le cocontractant d'un pouvoir adjudicateur, d'une entité adjudicatrice ou d'une autorité concédante et afférentes aux biens acquis ou construits par lui dans le cadre des contrats mentionnés aux 1° à 5° du 1 du IV de l'article 212 bis.
 
 Le présent 1 s'applique aux charges financières nettes supportées dans le cadre des contrats mentionnés au premier alinéa signés à compter du 29 décembre 2012 et pour lesquels soit une consultation a été engagée, soit un avis d'appel à la concurrence ou un avis de concession a été envoyé à la publication, soit une procédure d'approbation par décret a été initiée avant la date de promulgation de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019.
 
@@ -90,4 +92,4 @@ IX. – Un décret fixe les obligations déclaratives de la société mère du g
 
 NOTA :
 
-Conformément à l’article 34 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux exercices ouverts à compter du 1er janvier 2019.
+Conformément au B du II de l'article 45 de la loi n° 2019-1479 du 28 décembre 2019, l'article 223 B bis, dans sa rédaction résultant du 4° du I, s'applique aux exercices clos à compter du 31 décembre 2019.

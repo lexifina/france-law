@@ -28,4 +28,6 @@ a) Soit deux fois le montant de la rémunération annuelle brute perçue par le 
 
 b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel, par le Statut du personnel administratif des chambres de commerce et d'industrie ou, à défaut, par la loi.
 
+Le présent 6° est applicable aux indemnités spécifiques de rupture conventionnelle versées en application des I et III de l'article 72 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique.
+
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions, aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des fonctions, notamment de révocation, seule la fraction des indemnités qui excède trois fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale est imposable.

@@ -60,4 +60,4 @@ Pour l'application du premier alinéa, les sociétés de personnes et les groupe
 
 VII. – (Abrogé).
 
-VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2019.
+VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2022.
