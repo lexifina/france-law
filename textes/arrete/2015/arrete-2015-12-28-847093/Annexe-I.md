@@ -2,40 +2,36 @@
 
 NOMBRE MAXIMAL D'EMPLOIS OUVRANT DROIT, PAR CATÉGORIE,
 
-À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE
+À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS
 
-CATÉGORIE |
+Catégorie |
 
-NOMBRE MAXIMAL D'EMPLOI |
+Nombre maximal d'emplois |
 
 Catégorie I |
 
-18 |
+113 |
 
 Catégorie II |
 
-113 |
+168 |
 
 Catégorie III |
 
-168 |
+184 |
 
 Catégorie IV |
 
-184 |
+289 |
 
 Catégorie V |
 
-289 |
+418 |
 
 Catégorie VI |
 
-418 |
+380 |
 
 Catégorie VII |
 
-380 |
-
-Catégorie VIII |
-
-4120 |
+4 120 |

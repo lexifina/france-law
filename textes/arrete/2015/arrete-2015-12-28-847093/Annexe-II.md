@@ -2,40 +2,38 @@
 
 MONTANT MENSUEL DE LA PART FONCTIONNELLE DE L'INDEMNITÉ
 
-DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE
+DE FONCTION ET DE RESPONSABILITÉS
 
-CATÉGORIE |
+Catégorie |
 
-MONTANT (EN EUROS) |
+Montant
+
+(en euros) |
 
 Catégorie I |
 
-1 150 |
+770 |
 
 Catégorie II |
 
-770 |
+500 |
 
 Catégorie III |
 
-500 |
+380 |
 
 Catégorie IV |
 
-380 |
+300 |
 
 Catégorie V |
 
-300 |
+240 |
 
 Catégorie VI |
 
-240 |
-
-Catégorie VII |
-
 190 |
 
-Catégorie VIII |
+Catégorie VII |
 
 150 |
