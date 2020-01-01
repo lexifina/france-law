@@ -90,7 +90,7 @@ Techniciens de laboratoire des écoles nationales supérieures des mines.
 
 Techniciens supérieurs du développement durable.
 
-Techniciens de la recherche de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture.
+Techniciens de la recherche de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement.
 
 Techniciens de la recherche du Centre national de la recherche scientifique.
 
@@ -99,8 +99,6 @@ Techniciens de la recherche de l'Institut français de recherche pour l'exploita
 Techniciens de la recherche de l'Institut français des sciences et techniques des transports, de l'aménagement et des réseaux.
 
 Techniciens de la recherche de l'Institut national d'études démographiques.
-
-Techniciens de la recherche de l'Institut national de la recherche agronomique.
 
 Techniciens de la recherche de l'Institut de recherche pour le développement.
 

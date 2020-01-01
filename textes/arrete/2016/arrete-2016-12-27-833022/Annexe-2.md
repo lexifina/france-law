@@ -4,7 +4,7 @@ LISTE DES CORPS ET EMPLOIS MENTIONNÉS AU 1° DU III DE L'ARTICLE 7 DU DÉCRET D
 
 CORPS ET EMPLOIS |
 
-DÉCRET STATUTAIRE |
+DÉCRETS STATUTAIRE |
 
 DATE LIMITE D'ADHÉSION |
 
@@ -242,7 +242,7 @@ Décret n° 84-1185 du 27 décembre 1984 relatif aux statuts particuliers des co
 
 Décret n° 84-1206 du 28 décembre 1984 relatif aux statuts particuliers des corps de fonctionnaires de l'Institut national de la santé et de la recherche médicale (INSERM)
 
-Décret n° 84-1207 du 28 décembre 1984 relatif au statut particulier des corps de fonctionnaires de l'Institut national de la recherche agronomique
+Décret n° 84-1207 du 28 décembre 1984 relatif au statut particulier des corps de fonctionnaires de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement
 
 Décret n° 85-1060 du 2 octobre 1985 relatif aux statuts particuliers des corps de fonctionnaires de l'Institut de recherche pour le développement (IRD).
 
@@ -344,7 +344,7 @@ Décret n° 2012-1064 du 18 septembre 2012 portant statut particulier du corps d
 
 1er janvier 2020 |
 
-Ministère chargé de l'intérieur |
+Ministère chargé de l'intérieurCorps |
 
 Corps des préfets |
 
@@ -390,7 +390,7 @@ Décret n° 2007-930 du 15 mai 2007 portant statut particulier du corps des dire
 
 1er juillet 2017 |
 
-Emploi de directeur fonctionnel des services pénitentiaires |
+Corps de directeur fonctionnel des services pénitentiaires |
 
 Décret n° 2007-931 du 15 mai 2007 relatif aux statuts d'emplois de directeur interrégional et de directeur fonctionnel des services pénitentiaires |
 
@@ -434,9 +434,9 @@ Décret n° 92-344 du 27 mars 1992 portant statut particulier du corps des éduc
 
 Corps des chefs de service éducatif de la protection judiciaire de la jeunesse |
 
-Décret n° 92-345 du 27 mars 1992 portant statut particulier du corps des chefs de service éducatif de la protection judiciaire de la jeunesse |
+Décret n° 92-345 du 27 mars 1992 portant statut particulier du corps des chefs de service éducatif de la protection judiciaire de la jeunesse1er |
 
-1er juillet 2017 |
+juillet 2017 |
 
 Corps des psychologues de la protection judiciaire de la jeunesse |
 
@@ -464,7 +464,7 @@ Décret n° 2013-298 du 9 avril 2013 relatif aux statuts d'emplois de directeur 
 
 Emploi de directeur adjoint chargé des recrutements, de la formation initiale et de la recherche à l'Ecole nationale de la magistrature |
 
-Décret n° 99-1073 du 21 décembre 1999 régissant les emplois de l'Ecole nationale de la magistrature |
+Décret n° 99-1073 du 21 décembre 1999 régissant les emplois de l'Ecole nationale de la magistrature1er |
 
 1er juillet 2017 |
 
@@ -538,7 +538,7 @@ Décret n° 88-507 du 29 avril 1988 portant création et statut particulier du c
 
 Corps des techniciens supérieurs de l'économie et de l'industrie |
 
-Décret n° 2012-984 du 22 août 2012 portant statut particulier du corps des techniciens supérieurs de l'économie et de l'industrie |
+Décret n° 2012-984 du 22 août 2012 portant statut particulier du corps des techniciens supérieurs de l'économie et de l'industrie1er |
 
 1er janvier 2018 |
 
@@ -548,7 +548,7 @@ Décret n° 2010-983 du 26 août 2010 portant statut particulier du corps des g�
 
 1er janvier 2020 |
 
-Emploi d'inspecteur spécialisé à la direction générale des finances publiques |
+Corps d'inspecteur spécialisé à la direction générale des finances publiques |
 
 Décret n° 82-1038 du 6 décembre 1982 relatif à l'emploi d'inspecteur spécialisé à la direction générale des finances publiques |
 

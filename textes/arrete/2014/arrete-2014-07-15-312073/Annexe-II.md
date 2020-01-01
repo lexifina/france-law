@@ -6,13 +6,11 @@ COMMISSIONS ADMINISTRATIVES PARITAIRES
 
 Centre national de la recherche scientifique.
 
-Institut national de la recherche agronomique.
+Institut national de recherche pour l'agriculture, l'alimentation et l'environnement.
 
 Institut national de recherche en informatique et en automatique.
 
 Institut de recherche pour le développement.
-
-Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture.
 
 2. Commissions administratives paritaires nationales compétentes à l'égard des corps suivants :
 
