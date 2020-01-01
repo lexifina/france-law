@@ -1,0 +1,9 @@
+# Article 1er
+
+L'article 3 d) « Contrat responsable » du règlement du régime d'assurance maladie des allocataires est modifié comme suit :
+
+« Le régime d'assurance maladie des allocataires est mis en œuvre conformément aux dispositions de l'article L. 242-1 du code de la sécurité sociale et de l'article 83,1°, quater du code général des impôts.
+
+Le contrat d'assurance collective souscrit est un contrat “ responsable ” conformément aux articles L. 160-13, II et III, L. 871-1 et R. 871-1 et R. 871-2 du code de la sécurité sociale.
+
+Il est expressément convenu que ce contrat sera adapté en cas d'évolution législative, réglementaire ou découlant de la doctrine administrative afin de rester conforme au caractère responsable. »
