@@ -1,6 +1,6 @@
 # Article 13 quinquies
 
-Les professeurs agrégés peuvent être promus au grade de professeur agrégé hors classe lorsqu'ils comptent, au 31 août de l'année au titre de laquelle le tableau d'avancement est établi, au moins deux ans d'ancienneté dans le 9e échelon de la classe normale. Ils sont inscrits, après proposition des recteurs, sur un tableau d'avancement, arrêté chaque année par le ministre sur avis de la commission administrative paritaire nationale du corps des professeurs agrégés de l'enseignement du second degré.
+Les professeurs agrégés peuvent être promus au grade de professeur agrégé hors classe lorsqu'ils comptent, au 31 août de l'année au titre de laquelle le tableau d'avancement est établi, au moins deux ans d'ancienneté dans le 9e échelon de la classe normale. Ils sont inscrits, après proposition des recteurs d'académie, sur un tableau d'avancement, arrêté chaque année par le ministre sur avis de la commission administrative paritaire nationale du corps des professeurs agrégés de l'enseignement du second degré.
 
 Le nombre maximum de professeurs agrégés pouvant être promus chaque année à la hors-classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 

@@ -10,7 +10,7 @@ Le pourcentage mentionné à l'alinéa précédent est fixé par arrêté conjoi
 
 III.-Dans la limite de 20 % du nombre des promotions annuelles mentionné au premier alinéa du II, peuvent également être promus au grade de professeur agrégé de classe exceptionnelle au choix, par voie d'inscription au tableau annuel d'avancement, les professeurs agrégés qui, comptant au moins trois ans d'ancienneté dans le 4e échelon de la hors-classe, ont fait preuve d'une valeur professionnelle exceptionnelle au regard de l'ensemble de leur carrière.
 
-IV.-Les professeurs agrégés sont inscrits, après proposition des recteurs, sur un tableau d'avancement, arrêté chaque année par le ministre chargé de l'éducation nationale, après avis de la commission administrative paritaire nationale du corps des professeurs agrégés de l'enseignement du second degré.
+IV.-Les professeurs agrégés sont inscrits, après proposition des recteurs d'académie, sur un tableau d'avancement, arrêté chaque année par le ministre chargé de l'éducation nationale, après avis de la commission administrative paritaire nationale du corps des professeurs agrégés de l'enseignement du second degré.
 
 Les promotions sont prononcées dans l'ordre d'inscription au tableau annuel d'avancement par le ministre.
 
