@@ -10,7 +10,7 @@ CATÉGORIES DE FONCTIONNAIRES
 
 FONCTIONS EXERCÉES
 
-(au vice-rectorat ou dans un établissement public administratif de Mayotte dont les missions relèvent des ministres chargés de l'éducation nationale ou de l'enseignement supérieur)
+(au rectorat ou dans un établissement public administratif de Mayotte dont les missions relèvent des ministres chargés de l'éducation nationale ou de l'enseignement supérieur)
 
 |
 
@@ -100,7 +100,7 @@ CATÉGORIES D'AGENTS NON TITULAIRES
 
 FONCTIONS EXERCÉES
 
-(au vice-rectorat ou dans un établissement public administratif de Mayotte dont les missions relèvent des ministres chargés de l'éducation nationale ou de l'enseignement supérieur)
+(au rectorat ou dans un établissement public administratif de Mayotte dont les missions relèvent des ministres chargés de l'éducation nationale ou de l'enseignement supérieur)
 
 |
 
