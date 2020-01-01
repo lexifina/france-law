@@ -1,0 +1,7 @@
+# Article 1 bis
+
+L'établissement est un établissement-composante de l'université Paris-Saclay, au sens de l'ordonnance n° 2018-1131 du 12 décembre 2018 relative à l'expérimentation de nouvelles formes de rapprochement, de regroupement ou de fusion des établissements d'enseignement supérieur et de recherche.
+
+NOTA :
+
+Conformément à l’article 20 du décret n° 2019-1131 du 5 novembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
