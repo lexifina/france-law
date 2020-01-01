@@ -4,7 +4,7 @@ I.-Les tabacs manufacturés vendus au détail ou importés en Corse sont soumis 
 
 Ce droit de consommation, par dérogation aux taux mentionnés à l'article 575 A et dans la limite d'un contingent de 1 200 tonnes par an pour les cigarettes, est déterminé conformément aux deuxième à sixième alinéas de l'article 575.
 
-Pour les différents groupes de produits mentionnés à l'article 575, le taux proportionnel, la part spécifique et le minimum de perception sont, pour chacune des périodes au cours de laquelle le droit devient exigible, fixés conformément au tableau ci-après :
+Pour les différents groupes de produits mentionnés à l'article 575, le taux proportionnel et la part spécifique sont, pour chacune des périodes au cours de laquelle le droit devient exigible, fixés conformément au tableau ci-après :
 
 Groupe de produits |
 
@@ -149,7 +149,3 @@ IV.-Le droit de consommation est recouvré dans les conditions prévues par les 
 V.-Le produit du droit de consommation est affecté à la collectivité de Corse pour le financement de travaux de mise en valeur de la Corse.
 
 VI.-Les unités de conditionnement doivent être revêtues des mentions prescrites par l'administration.
-
-NOTA :
-
-Conformément aux dispositions du A du III de l'article 207 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 575 E bis telles qu'elles résultent du 4° du I dudit article entrent en vigueur le 1er mars 2019.

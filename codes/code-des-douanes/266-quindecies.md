@@ -22,33 +22,39 @@ IV.-Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'�
 
 Année |
 
-2019 |
+2020 |
 
-A compter de 2020 |
+A compter de 2021 |
 
 Tarif (€/ hL) |
 
-98 |
-
 101 |
+
+104 |
 
 Pourcentage cible des gazoles |
 
-7,9 % |
+8 % |
 
 8 % |
 
 Pourcentage cible des essences |
 
-7,9 % |
-
 8,2 % |
+
+8,6 % |
 
 ;
 
 V.-A.-La proportion d'énergie renouvelable désigne la proportion, évaluée en pouvoir calorifique inférieur, d'énergie produite à partir de sources renouvelables dont le redevable peut justifier qu'elle est contenue dans les carburants inclus dans l'assiette, compte tenu, le cas échéant, des règles de calcul propres à certaines matières premières prévues aux C et D du présent V et des dispositions du VII.
 
 L'énergie contenue dans les biocarburants est renouvelable lorsque ces derniers remplissent les critères de durabilité définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018.
+
+A bis.-Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur production.
+
+Un décret définit les modalités de traçabilité applicables à chaque produit en fonction des matières premières dont il est issu et des règles de comptabilisation de l'énergie qui sont appliquées conformément au présent V.
+
+Lorsque le présent V prévoit, pour certaines matières premières, une comptabilisation de l'énergie plus avantageuse que pour d'autres matières premières, le décret mentionné au deuxième alinéa du présent A bis peut subordonner l'application de cette comptabilisation à des modalités de traçabilité plus strictes.
 
 B.-1. La part d'énergie issue des matières premières définies au 2 et excédant le seuil mentionné au deuxième alinéa du présent B, d'une part pour les gazoles et d'autre part pour les essences, n'est pas prise en compte. Toutefois, cette disposition ne s'applique pas à l'énergie issue de ces matières premières lorsqu'il est constaté qu'elles ont été produites dans des conditions particulières permettant d'éviter le risque mentionné au 1° du 2.
 
@@ -58,7 +64,9 @@ Année |
 
 2020
 
-à 2023 |
+à 2023
+
+|
 
 2024 |
 
@@ -76,7 +84,9 @@ Année |
 
 A compter
 
-de 2031 |
+de 2031
+
+|
 
 Pourcentage |
 
@@ -114,11 +124,13 @@ C.-Sans préjudice des dispositions du B, pour chacune des catégories de matiè
 
 Année |
 
-2019 |
+2020 |
 
-A compter de 2020 |
+A compter de 2021 |
 
 Catégorie de matières premières |
+
+Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas prise en compte |
 
 Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas prise en compte |
 
@@ -126,17 +138,23 @@ Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières pr
 
 7 % |
 
-2. Egouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières, à hauteur de 45 % de leur contenu énergétique, et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon |
+7 % |
 
-0,2 % |
+2. Egouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières, à hauteur de 45 % de leur contenu énergétique, et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon |
 
 0,4 % |
 
-3. Tallol et brai de tallol |
+0,8 % |
 
-0,6 % |
+3. Tallol |
+
+0,1 % |
+
+0,1 % |
 
 4. Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée |
+
+0,9 % |
 
 0,9 % |
 
@@ -144,33 +162,33 @@ Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières pr
 
 Pour les matières premières relevant de plusieurs des catégories mentionnées dans le tableau ci-dessus, lorsque la part de l'énergie qui en est issue est comptabilisée pour l'application du seuil de l'une de ces catégories, elle ne l'est pas pour l'application des seuils des autres catégories. Toutefois, pour les égouts pauvres relevant de la catégorie 2, lorsqu'elle est comptabilisée pour l'application du seuil de cette catégorie, elle l'est également, à hauteur de 55 % de sa valeur réelle, pour l'application du seuil prévu pour la catégorie 1.
 
-Pour les huiles de cuisson usagées, seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur production, selon des modalités définies par décret.
-
 D.-Pour chacune des catégories de matières premières suivantes, la part d'énergie issue de l'ensemble des matières premières de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
+
+Année |
+
+2020 |
+
+A compter de 2021 |
 
 Catégorie de matières premières |
 
-Seuil au delà duquel la part de l'énergie
+Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas comptée double |
 
-issue de l'ensemble des matières premières
+Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas comptée double |
 
-de la catégorie n'est pas comptée double |
+Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée, à l'exception du tallol |
 
-Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée, à l'exception du tallol et brai de tallol |
+Différence entre le pourcentage cible fixé au IV et 7 % |
 
-Différence entre le pourcentage cible
-
-fixé au IV et 7 % |
+Différence entre le pourcentage cible fixé au IV et 7 % |
 
 Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée |
 
-Gazoles : seuil prévu au C pour les mêmes matières
+Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 % |
 
-Essences : 0,1 % |
+Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %
 
-;
-
-Seule est comptée double l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur production, selon des modalités définies par décret.
+|
 
 VI.-Deux redevables peuvent convenir que tout ou partie de la quantité d'énergie renouvelable contenue dans les carburants inclus dans l'assiette du premier est prise en compte dans la détermination de la quantité d'énergie renouvelable aux fins de la liquidation de la taxe due par le second.
 
@@ -197,3 +215,5 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 NOTA :
 
 Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
+
+Conformément aux II des articles 212 et 213 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2020.

@@ -10,7 +10,7 @@ La taxe spéciale sur certains véhicules routiers n'est pas applicable aux véh
 
 4° Véhicules de la défense nationale, de la protection civile, des services publics de lutte contre les incendies, des autres services publics de secours et des forces responsables du maintien de l'ordre ;
 
-5° Jusqu'au 31 décembre 2019, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
+5° Jusqu'au 31 décembre 2024, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
 
 a) Les engins de levage et de manutention automoteurs, tels que les grues installées sur un châssis routier ;
 
@@ -29,3 +29,9 @@ f) Les engins de forage mobiles installés à demeure sur un châssis routier.
 7° Véhicules utilisés par les cirques ou affectés exclusivement au transport des manèges et autres matériels d'attraction ;
 
 8° Véhicules utilisés par les centres équestres.
+
+NOTA :
+
+Conformément au II de l’article 70 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur sous réserve de l'autorisation de la Commission européenne prévue à l'article 6 de la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures.
+
+La décision de la Commission européenne a été rendue le 13 janvier 2020.

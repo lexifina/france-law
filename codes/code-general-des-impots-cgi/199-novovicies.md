@@ -14,7 +14,7 @@ B. – La réduction d'impôt s'applique également dans les mêmes conditions :
 
 4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
-5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de rénovation définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total de l'opération.
+5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux d'amélioration définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux de transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total de l'opération.
 
 C. – L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la signature de l'acte authentique d'acquisition, dans le cas d'un logement acquis en l'état futur d'achèvement, ou la date de l'obtention du permis de construire, dans le cas d'un logement que le contribuable fait construire.
 
@@ -42,7 +42,7 @@ Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dan
 
 IV. – Sous réserve des dispositions du IV bis, la réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre et la demande de logements entraînant des difficultés d'accès au logement sur le parc locatif existant et aux logements situés dans des communes dont le territoire est couvert par un contrat de redynamisation de site de défense ou l'a été dans un délai de huit ans précédant l'investissement.
 
-IV bis.-La réduction d'impôt mentionnée au 5° du B du I s'applique exclusivement aux logements situés dans le centre des communes dont le besoin de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une convention d'opération de revitalisation de territoire prévue à l'article L. 303-2 du code de la construction et de l'habitation. Les modalités d'application du présent IV bis, notamment la liste des communes répondant à la condition liée au besoin de réhabilitation de l'habitat en centre-ville et la détermination du centre des communes éligibles, sont fixées par arrêté des ministres chargés du logement et du budget.
+IV bis.-La réduction d'impôt mentionnée au 5° du B du I s'applique exclusivement aux logements situés dans les communes dont le besoin de réhabilitation de l'habitat en centre-ville est particulièrement marqué ou qui ont conclu une convention d'opération de revitalisation de territoire prévue à l'article L. 303-2 du code de la construction et de l'habitation. Les modalités d'application du présent IV bis, notamment la liste des communes répondant à la condition liée au besoin de réhabilitation de l'habitat en centre-ville, sont fixées par arrêté des ministres chargés du logement et du budget.
 
 V. – A. – La réduction d'impôt est calculée sur le prix de revient d'au plus deux logements, retenu dans la limite d'un plafond par mètre carré de surface habitable fixé par décret et sans pouvoir dépasser la limite de 300 000 € par contribuable et pour une même année d'imposition.
 
@@ -126,8 +126,6 @@ b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une
 
 NOTA :
 
-Conformément aux dispositions du III de l'article 68 de la loi n° 2017-1837 du 30 décembre 2017 modifié par l'article 187 de la loi n° 2018-1317 du 28 décembre 2018, l'articles 199 novovicies dans sa rédaction résultant des dispositions du c du 1° du I dudit article 68 s'applique aux acquisitions de logements et, s'agissant des logements que le contribuable fait construire, aux dépôts de demande de permis de construire postérieurs au 31 décembre 2017.
+Conformément au II de l'article 115 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 novovicies, dans sa rédaction résultant du 2° du I du présent article, s'applique aux acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
 
-Toutefois, le même c ne s'applique pas aux acquisitions de logements ayant fait l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2017 et à la condition que cette acquisition soit réalisée au plus tard le 15 mars 2019.
-
-Conformément au I de l'article 188 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 199 novovicies telles qu'elles résultent des dispositions du I dudit article s'appliquent aux investissements réalisés à compter du 1er janvier 2019.
+Conformément au II de l’article 162 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.

@@ -1,11 +1,13 @@
 # Article 302 V bis
 
-L'opérateur établi dans un autre Etat membre de l'Union européenne qui expédie des produits en France métropolitaine, dans les conditions fixées au II de l'article 302 U bis, à destination d'une personne autre qu'un entrepositaire agréé ou un destinataire enregistré qui n'exerce pas d'activité économique indépendante, est tenu de désigner un représentant fiscal établi en France métropolitaine autre que le vendeur.
+Dans les cas prévus au II de l'article 302 U bis, l'expéditeur désigne un représentant fiscal établi en France métropolitaine autre que le vendeur.
 
-A l'occasion de chaque expédition de produits soumis à accise, le représentant fiscal doit :
+Le représentant fiscal est préalablement agréé par l'administration des douanes et droits indirects. Son activité est domiciliée auprès du bureau des douanes du ressort de son siège social en France. Il dépose, conformément aux dispositions du même article 302 U bis, une déclaration mensuelle globalisant l'intégralité des opérations de réception et de mise en consommation en France pour le compte des destinataires mentionnés au premier alinéa de l'article 302 M quater.
 
-1° Préalablement à l'expédition, s'identifier, consigner auprès de l'administration des douanes et droits indirects le paiement des droits dus au titre de cette opération et déclarer à cette administration le lieu de livraison des marchandises ainsi que le nom et l'adresse du destinataire ;
+L'agrément est accordé à la personne qui fournit une caution solidaire garantissant le paiement des droits. Il peut être retiré en cas de défaillance de la caution, de dénonciation par cette caution de son engagement ou de non-respect des obligations prévues au présent chapitre.
 
-2° Acquitter les droits d'accise sur la base d'une déclaration, dès la réception des produits ;
+Le représentant fiscal tient une comptabilité des livraisons de produits et la présente à toute réquisition des services de contrôle.
 
-3° Tenir une comptabilité des livraisons et la présenter à toute réquisition des services de contrôle.
+NOTA :
+
+L'abrogation du présent article prend effet conformément aux dispositions de l'article 38 de l'ordonnance n° 2021-1843 ainsi que de l'article 41 de l'ordonnance n° 2023-1210.

@@ -6,7 +6,7 @@ Sont exonérés de la taxe :
 
 a. Les actes accomplis à la requête d'une personne qui bénéficie de l'aide juridique totale ou partielle et en application des règles de procédure se rattachant directement à une instance ou à l'exécution d'une décision de justice ;
 
-b. Les actes désignés aux 3° à 7° du 1 et aux 2° à 7° bis du 2 de l'article 635 ;
+b. Les actes désignés aux 3° à 7° du 1 et aux 2° à 7° bis du 2 de l'article 635 , dans sa rédaction applicable au 31 décembre 2019 ;
 
 c. Les actes qui, en matière mobilière :
 
@@ -19,3 +19,9 @@ c. Les actes qui, en matière mobilière :
 3. Elle est constatée, recouvrée et contrôlée selon les règles, garanties et sanctions prévues en matière de taxe sur la valeur ajoutée.
 
 4. (Abrogé).
+
+NOTA :
+
+Conformément au D du XI de l’article 21 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux actes établis à compter du 1er janvier 2020.
+
+Aux termes du f du XI de l'article 21 précité, l'abrogation des dispositions de l'article 302 bis Y résultant du 3° du I dudit article, s'applique aux actes établis à compter du 1er janvier 2021.

@@ -6,6 +6,8 @@ Le bénéfice imposable, avant prise en compte des plus-values ou des moins-valu
 
 En cas de création d'activité, le montant des recettes à prendre en compte pour l'application du deuxième alinéa du présent article est égal, pour l'année de la création, aux recettes de ladite année et, pour l'année suivante, à la moyenne des recettes de l'année d'imposition et de l'année précédente.
 
+Au titre de l'année qui suit la sortie d'un régime réel d'imposition, les recettes mentionnées au même deuxième alinéa sont diminuées, avant application de l'abattement prévu audit deuxième alinéa, du montant hors taxes des créances figurant au bilan du dernier exercice imposé selon un régime réel d'imposition.
+
 Les plus-values ou les moins-values mentionnées au même deuxième alinéa sont déterminées et imposées dans les conditions du régime réel d'imposition. L'abattement mentionné audit deuxième alinéa est réputé tenir compte des amortissements pratiqués selon le mode linéaire.
 
 II.-(abrogé).
@@ -15,3 +17,7 @@ III.-Les contribuables mentionnés au I du présent article portent directement 
 IV.-Les contribuables mentionnés au I du présent article tiennent et, sur demande du service des impôts, présentent un document donnant le détail journalier de leurs recettes professionnelles ainsi que les factures et toute autre pièce justificative de ces recettes.
 
 V.-L'option prévue au a du II de l'article 69 est valable un an et reconduite tacitement chaque année pour un an. Les contribuables qui désirent renoncer à leur option pour un régime réel d'imposition notifient leur choix à l'administration avant le 1er février de l'année suivant la période pour laquelle l'option a été exercée ou reconduite tacitement.
+
+NOTA :
+
+Conformément à l'article 55 II de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2020.

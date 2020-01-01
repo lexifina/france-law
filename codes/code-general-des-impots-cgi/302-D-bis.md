@@ -28,7 +28,7 @@ i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en applic
 
 III.-Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des modalités fixées par décret. Cette déclaration est effectuée par voie électronique. Toutefois, les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent leur déclaration sur papier.
 
-IV.-Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés :
+IV.-Sont exonérés des droits mentionnés aux articles 575 , 575 E et 575 E bis les tabacs manufacturés :
 
 a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
 

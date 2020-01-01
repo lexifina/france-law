@@ -1,6 +1,6 @@
 # Article 266 quinquies B
 
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 et destinés à être utilisés comme combustible sont soumis à une taxe intérieure de consommation.
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 sont soumis à une taxe intérieure de consommation.
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à un utilisateur final. Le fait générateur intervient et la taxe est également exigible au moment de l'importation, lorsque les produits sont directement importés par l'utilisateur final pour ses besoins propres.
 
@@ -10,13 +10,13 @@ Dans les autres cas, le fait générateur et l'exigibilité de la taxe intervien
 
 1° Par le fournisseur des produits. Est considérée comme fournisseur de houilles, de lignites ou de cokes toute personne qui se livre au négoce de ces produits ;
 
-2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane d'importation.
+2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane d'importation ;
 
 3° Par l'utilisateur final mentionné au dernier alinéa du 2.
 
 4.1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
-a) Autrement que comme combustible ;
+a) Autrement que comme combustible ou carburant ;
 
 b) A un double usage au sens du 2° du I de l'article 265 C ;
 
@@ -28,7 +28,7 @@ c) Dans un procédé de fabrication de produits minéraux non métalliques, clas
 
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
-1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ;
+1° Pour la production d'électricité, à l'exclusion des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 
@@ -42,9 +42,7 @@ Désignation des produits |
 
 Unité de perception |
 
-Tarifs (en euros)
-
-|
+Tarifs (en euros) |
 
 2701,2702 et 2704
 
@@ -55,6 +53,10 @@ Mégawattheure |
 14,62 |
 
 Le montant de la taxe est arrondi à l'euro le plus proche.
+
+Les produits mentionnés au 1 destinés à être utilisés comme carburant sont taxés au tarif de la taxe intérieure de consommation prévue à l'article 265 applicable au carburant auquel ils sont équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité.
+
+Par dérogation à l'avant-dernier alinéa du présent 6, les produits mentionnés au 1 utilisés comme carburant dans les installations de cogénération pour la production combinée de chaleur et d'électricité sont taxés au tarif mentionné au tableau du présent 6 sans préjudice, le cas échéant, de l'application de l'exonération prévue au 1° du 5 pour la fraction des consommations se rapportant à la production d'électricité.
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
@@ -80,6 +82,4 @@ La déclaration d'acquittement peut être effectuée par voie électronique ;
 
 NOTA :
 
-Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
-
-Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date, l’exigibilité de ces taxes est déjà intervenue.

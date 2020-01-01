@@ -22,13 +22,15 @@ Un décret précise les conditions d'application du présent III.
 
 IV. – Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre chargé de l'aviation civile. Dans le cas prévu au deuxième alinéa du I et lorsque l'exploitant est identique pour les deux aérodromes, une partie du produit de la taxe perçue au titre de l'un des deux aérodromes concernés peut chaque année être affectée par l'exploitant au financement des aides aux riverains de l'autre aérodrome.
 
-Le tarif de la taxe applicable sur chaque aérodrome est compris entre la valeur inférieure et la valeur supérieure du groupe dont il relève. Il est fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
+Le tarif de la taxe applicable sur chaque aérodrome est fixé par arrêté conjoint des ministres chargés du budget, de l'aviation civile et de l'environnement. Ce tarif est compris entre la valeur inférieure et la valeur supérieure du groupe auquel il appartient. Il est fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en application de la règlementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 
-1er groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Orly et Paris-Le Bourget : de 20 à 40 € ;
+1er groupe : aérodromes de Nantes Atlantique, Paris-Charles-de-Gaulle, Paris-Le Bourget, Paris-Orly : de 20 à 40 € ;
 
-2e groupe : aérodromes de Nantes-Atlantique et Toulouse-Blagnac : de 10 à 20 € ;
+2e groupe : aérodrome de Toulouse-Blagnac : de 10 à 20 € ;
 
-3e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0 à 10 €.
+3e groupe : tous autres aérodromes qui dépassent le seuil fixé au I : de 0 à 10 €.
+
+L'arrêté mentionné au deuxième alinéa du présent IV fixe la liste des aérodromes relevant du 3e groupe.
 
 V. – Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de l'aviation civile.
 
@@ -57,3 +59,7 @@ Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 4. Le droit de reprise de la taxe par les services de la direction générale de l'aviation civile, tant en ce qui concerne le contrôle des redevables défaillants déclaratifs que le contrôle des insuffisances déclaratives ou de paiement, s'exerce dans les mêmes conditions que celles prévues à l'article L. 176 du livre des procédures fiscales. La prescription est suspendue et interrompue dans les conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions mentionnées au 2 du présent VI.
 
 VII. – Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.
+
+NOTA :
+
+Conformément aux dispositions du XX de l'article 81 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

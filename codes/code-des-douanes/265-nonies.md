@@ -6,8 +6,6 @@ Lorsque les installations grandes consommatrices d'énergie au sens de l'article
 
 Pour les personnes qui exploitent des installations grandes consommatrices d'énergie au sens de l'article 17 de la directive 2003/96/ CE du Conseil, du 27 octobre 2003, précitée, sans que celles-ci soient soumises à la directive 2003/87/ CE du Parlement européen et du Conseil, du 13 octobre 2003, précitée, et qui exercent dans ces installations une activité mentionnée à l'annexe I à cette même directive 2003/87/ CE relevant de la liste, établie par la décision 2014/746/ UE de la Commission, du 27 octobre 2014, établissant, conformément à la directive 2003/87/ CE du Parlement européen et du Conseil, la liste des secteurs et sous-secteurs considérés comme exposés à un risque important de fuite de carbone, pour la période 2015-2019, le tarif de la taxe intérieure de consommation applicable aux consommations de produits à usage combustible effectuées pour les besoins de ces installations est celui qui leur est applicable à la date du 31 décembre 2014, majoré, s'agissant de la taxe mentionnée à l'article 266 quinquies, de 0,33 € par mégawattheure en pouvoir calorifique supérieur.
 
+Les tarifs mentionnés au présent article sont également applicables aux consommations de produits à usage carburant effectuées dans les installations de cogénération dans les conditions prévues au d du 2° du tableau B du 1 de l'article 265, au d du 8 de l'article 266 quinquies ou au dernier alinéa du 6 de l'article 266 quinquies B sans préjudice, le cas échéant, de chacune des exonérations mentionnées par ces dispositions.
+
 Les modalités d'application du présent article ainsi que les modalités du contrôle de la destination des produits et de leur affectation aux besoins des installations grandes consommatrices d'énergie qui y sont mentionnées sont fixées par décret.
-
-NOTA :
-
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.

@@ -4,6 +4,8 @@ I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier 
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° du présent I est subordonné au respect, par la société bénéficiaire de la souscription, des conditions prévues au 1 bis du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
+Pour l'application du premier alinéa du présent 2°, l'activité de courtage et l'activité de change sont considérées comme des activités financières.
+
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la société bénéficiaire de la souscription remplit les conditions mentionnées aux a à f du 3 du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
 Le montant des versements au titre de la souscription réalisée par le contribuable est pris en compte, pour l'assiette de la réduction d'impôt, dans la limite de la fraction déterminée en retenant :
@@ -58,7 +60,7 @@ Les 2,2 bis et 3 du VI du présent article et les a, b et avant-dernier alinéas
 
 Les réductions d'impôt prévues au VI du présent article et au présent VI ter A sont exclusives les unes des autres pour les souscriptions dans un même fonds.
 
-VI quater. – Les réductions d'impôt mentionnées aux I, VI, VI ter et VI ter A ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 du présent code.
+VI quater. – Les réductions d'impôt mentionnées aux I, VI, VI ter et VI ter A ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D, dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 B, 199 unvicies, 199 quatervicies ou 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 du présent code.
 
 Pour le bénéfice de la réduction d'impôt mentionnée au I du présent article, les deuxième et troisième alinéas du V de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 sont applicables.
 
@@ -74,8 +76,4 @@ Sans préjudice des sanctions que l'Autorité des marchés financiers peut prono
 
 NOTA :
 
-Conformément aux dispositions du II de l'article 74 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 199 terdecies-0 A résultant des dispositions du I de l'article 74 s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer cette disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
-
-Par dérogation au premier alinéa dudit II, les dispositions résultant du 3° du I du même article 74 s'appliquent aux souscriptions au capital de sociétés effectuées à compter du 1er janvier 2018 et aux souscriptions de parts de fonds dont l'agrément de constitution par l'autorité compétente dont ils relèvent a été délivré à compter du 1er janvier 2018.
-
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 199 terdecies-0 A résultant des dispositions du 9° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.
+Conformément au III de l'article 137 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux versements mentionnés au présent articles effectués à compter du 1er janvier 2020.
