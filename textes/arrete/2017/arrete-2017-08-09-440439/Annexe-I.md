@@ -78,9 +78,7 @@ Les stages pratiques, d'une durée de vingt-huit semaines, doivent permettre au 
 
 Ils se dérouleront dans les juridictions suivantes :
 
--tribunal de grande instance ;
-
-- tribunal judiciaire ;
+-tribunal judiciaire
 
 -conseil de prud'hommes ;
 
