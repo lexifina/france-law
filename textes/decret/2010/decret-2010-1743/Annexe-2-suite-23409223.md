@@ -34,7 +34,7 @@ CAP académique compétente pour le corps des conseillers d'administration scola
 
 CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Bordeaux
 
-CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Caen
+CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Clermont-Ferrand
 
@@ -76,7 +76,7 @@ CAP académique compétente pour le corps des conseillers d'administration scola
 
 CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de la Réunion
 
-CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Rouen
+CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des conseillers d'administration scolaire et universitaire placée auprès du recteur de l'académie de Strasbourg
 
@@ -104,7 +104,7 @@ CAP académique compétente pour le corps des adjoints techniques de laboratoire
 
 CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Bordeaux
 
-CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Caen
+CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Clermont-Ferrand
 
@@ -148,7 +148,7 @@ CAP académique compétente pour le corps des adjoints techniques de laboratoire
 
 CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de la Réunion
 
-CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Rouen
+CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques de laboratoire placée auprès du recteur de l'académie de Strasbourg
 
@@ -168,7 +168,7 @@ CAP académique compétente pour le corps des adjoints techniques des établisse
 
 CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Bordeaux
 
-CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Caen
+CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Clermont-Ferrand
 
@@ -210,7 +210,7 @@ CAP académique compétente pour le corps des adjoints techniques des établisse
 
 CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de la Réunion
 
-CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Rouen
+CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques des établissements d'enseignement placée auprès du recteur de l'académie de Strasbourg
 
@@ -242,7 +242,7 @@ CTP placé auprès du directeur du CIEP
 
 Comités d'hygiène et de sécurité (CHS)
 
-CHS académique placé auprès du recteur de l'académie de Caen
+CHS académique placé auprès du recteur de l'académie de Normandie
 
 CHS académique placé auprès du recteur de l'académie de Lyon
 
@@ -330,7 +330,7 @@ CAP académique compétente pour le corps des adjoints techniques de recherche e
 
 CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Bordeaux
 
-CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Caen
+CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Clermont-Ferrand
 
@@ -370,7 +370,7 @@ CAP académique compétente pour le corps des adjoints techniques de recherche e
 
 CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de la Réunion
 
-CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Rouen
+CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Normandie
 
 CAP académique compétente pour le corps des adjoints techniques de recherche et formation (ATRF) placée auprès du recteur de l'académie de Strasbourg
 
@@ -867,3 +867,7 @@ CCP d'établissement compétente pour les personnels du Centre régional de la p
 CCP d'établissement compétente pour les personnels du Centre régional de la propriété forestière de Poitou-Charentes
 
 CCP d'établissement compétente pour les personnels du Centre régional de la propriété forestière de Rhône-Alpes
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2019-1056, ces dispositions entrent en vigueur le 1er janvier 2020.
