@@ -32,7 +32,7 @@ Tribunaux supérieurs d'appel
 
 2. Procureur de la République.
 
-Tribunaux de grande instance
+Tribunaux judiciaires
 
 1. Président.
 
@@ -57,3 +57,7 @@ Directeur de l'Ecole nationale des greffes.
 Inspection générale de la justice
 
 Inspecteur général, chef de l'inspection générale de la justice.
+
+NOTA :
+
+Conformément aux dispositions de l'article 2 du décret n° 2019-924 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
