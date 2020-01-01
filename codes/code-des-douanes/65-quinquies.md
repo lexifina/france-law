@@ -2,7 +2,7 @@
 
 Dans le but de constater les délits mentionnés aux articles 414, 415 et 459, d'en rassembler les preuves et d'en rechercher les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des douanes ayant au moins le grade de contrôleur et spécialement habilités par le directeur du service auquel ils sont affectés peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques ainsi que par les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
 
-La mise en œuvre du droit de communication prévu au premier alinéa du présent article est préalablement autorisée par le procureur de la République près le tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure.
+La mise en œuvre du droit de communication prévu au premier alinéa du présent article est préalablement autorisée par le procureur de la République près le tribunal judiciaire du lieu de la direction des douanes dont dépend le service chargé de la procédure.
 
 L'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la procédure.
 
@@ -11,3 +11,7 @@ La communication des données mentionnées au premier alinéa fait l'objet d'un 
 Les données communiquées sont détruites à l'extinction de l'action pour l'application des sanctions fiscales.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+NOTA :
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

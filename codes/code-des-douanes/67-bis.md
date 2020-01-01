@@ -4,7 +4,7 @@ I.-Sans préjudice de l'application des dispositions des articles 60,61,62,63,63
 
 Les mêmes dispositions sont applicables pour la surveillance de l'acheminement ou du transport des objets, biens ou produits tirés de la commission de ces infractions ou servant à les commettre.
 
-L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, au procureur de la République près le tribunal de grande instance dans le ressort duquel les opérations de surveillance sont susceptibles de débuter.
+L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, au procureur de la République près le tribunal judiciaire dans le ressort duquel les opérations de surveillance sont susceptibles de débuter.
 
 II.-Lorsque les investigations le justifient, le procureur de la République peut autoriser qu'il soit procédé, sous son contrôle, à une opération d'infiltration dans les conditions prévues par le présent article afin :
 
@@ -58,7 +58,7 @@ Les questions posées à l'agent infiltré à l'occasion de cette confrontation 
 
 VIII.-Lorsque la surveillance prévue au I doit être poursuivie dans un Etat étranger, elle est autorisée par le procureur de la République. Les procès-verbaux d'exécution de l'observation ou rapports y afférents ainsi que l'autorisation d'en poursuivre l'exécution sur le territoire d'un Etat étranger sont versés au dossier de la procédure.
 
-Avec l'accord préalable du ministre de la justice saisi d'une demande d'entraide judiciaire à cette fin, les agents des douanes étrangers peuvent poursuivre sur le territoire de la République, sous la direction d'agents des douanes français, des opérations d'infiltration conformément aux dispositions du présent article. L'accord du ministre de la justice peut être assorti de conditions. L'opération doit ensuite être autorisée par le procureur de la République près le tribunal de grande instance de Paris, dans les conditions prévues au II.
+Avec l'accord préalable du ministre de la justice saisi d'une demande d'entraide judiciaire à cette fin, les agents des douanes étrangers peuvent poursuivre sur le territoire de la République, sous la direction d'agents des douanes français, des opérations d'infiltration conformément aux dispositions du présent article. L'accord du ministre de la justice peut être assorti de conditions. L'opération doit ensuite être autorisée par le procureur de la République près le tribunal judiciaire de Paris, dans les conditions prévues au II.
 
 Le ministre de la justice ne peut donner son accord que si les agents étrangers sont affectés dans leur pays à un service spécialisé et exercent des missions similaires à celles des agents nationaux spécialement habilités mentionnés au II.
 
@@ -67,3 +67,7 @@ Avec l'accord des autorités judiciaires étrangères, les agents des douanes é
 IX.-Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites par des agents des douanes ayant procédé à une infiltration.
 
 Les dispositions du présent IX ne sont cependant pas applicables lorsque les agents des douanes déposent sous leur véritable identité.
+
+NOTA :
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

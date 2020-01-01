@@ -6,7 +6,7 @@ I. ― 1. Avec l'accord préalable du ministre de la justice et le consentement 
 
 ― soit lorsque plusieurs Etats membres effectuent des enquêtes relatives à des infractions exigeant une action coordonnée et concertée entre les Etats membres concernés.
 
-L'autorisation est donnée pour une durée déterminée, renouvelable, par le procureur de la République près le tribunal de grande instance dans le ressort duquel les actes de l'équipe commune d'enquête spéciale sont susceptibles de débuter ou par le procureur de la République saisi en application de l'article 706-76 du code de procédure pénale.
+L'autorisation est donnée pour une durée déterminée, renouvelable, par le procureur de la République près le tribunal judiciaire dans le ressort duquel les actes de l'équipe commune d'enquête spéciale sont susceptibles de débuter ou par le procureur de la République saisi en application de l'article 706-76 du code de procédure pénale.
 
 Le procureur de la République est tenu régulièrement informé du déroulement des opérations effectuées dans le cadre de l'équipe commune d'enquête spéciale. Il peut, à tout moment, mettre fin à l'équipe commune d'enquête spéciale qu'il a autorisée.
 
@@ -35,3 +35,7 @@ Leurs missions sont définies par l'autorité de l'Etat membre compétente pour 
 Ils peuvent recevoir les déclarations et constater les infractions dans les formes prévues par le présent code, sous réserve de l'accord de l'Etat membre où ils interviennent.
 
 III. ― Les I et II sont applicables aux demandes de coopération entre les autorités douanières françaises et celles d'autres Etats parties à toute convention comportant des stipulations similaires à celles de la convention du 18 décembre 1997 relative à l'assistance mutuelle et à la coopération entre les administrations douanières.
+
+NOTA :
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.
