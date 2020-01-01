@@ -1,19 +1,611 @@
 # Article Annexe VII
 
-Vous pouvez consulter les tableaux dans le JO n° 202 du 01/09/2011 à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5C5APY_jssjB6OKQGzXC6FsDFihSq-tW46KWa2ISZzs=
+DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
 
-NOTICE D'UTILISATION
+DÉCLARATION DE VENTES À DISTANCE DE PRODUITS SOUMIS À ACCISE
 
-Le présent imprimé comprend quatre feuillets qui sont destinés à l'administration des douanes et droits indirects :
+déposée au titre de l'article 302 V bis du code général des impôts
 
-Les feuillets 1 et 2 constituent la déclaration préalable à l'expédition d'alcool, de boissons ou de produits alcooliques qui ont déjà été mis à la consommation dans un autre Etat membre de l'Union européenne. Cette déclaration est établie par le représentant fiscal établi en France et désigné par le vendeur.
+(Feuillet 1)
 
-Cette déclaration est transmise en deux exemplaires au service des douanes et droits indirects dont dépend le destinataire des marchandises. Les feuillets 1 et 2 comportent un recto qui peut être rempli par duplication pour les rubriques 1 à 5. Le verso du feuillet 2 est réservé au service des douanes et droits indirects pour la consignation des droits d'accise.
+Période déclarative : |
 
-Ces exemplaires sont dûment visés par le service des douanes et droits indirects et le feuillet 1 est remis au représentant fiscal, qui le conserve pour présentation à toute réquisition des services de contrôle. Les références de la garantie (consignation) mise en place au titre de l'opération sont portées sur les documents. Le feuillet 2 est conservé par le service.
+|
 
-Les feuillets 3 et 4 sont transmis par le représentant fiscal au service des douanes et droits indirects saisi initialement, lors de la réception des produits. Le déclarant indique au recto les quantités réellement reçues.
+Représentant fiscal |
 
-Les feuillets 3 et 4 comportent un recto qui peut être rempli par duplication pour les rubriques 1 à 5. Le verso du feuillet 4 est réservé au service des douanes et droits indirects pour la liquidation des droits d'accise.
+Nom ou raison sociale |
 
-Ces exemplaires sont dûment visés par le service des douanes et droits indirects. Le feuillet 3 est remis au représentant fiscal, qui le conserve. Le feuillet 4 est conservé par le service.
+|
+
+Adresse |
+
+|
+
+N° d'agrément |
+
+|
+
+N° de la caution |
+
+|
+
+Vendeur |
+
+Nom ou raison sociale |
+
+|
+
+Adresse |
+
+|
+
+SIREN |
+
+|
+
+Espèce, qualité et nature des produits |
+
+TAV % vol |
+
+Quantités
+
+imposables |
+
+Tarif d'imposition |
+
+Code taxe* |
+
+Montant des droits |
+
+Bières |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins mousseux |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins tranquilles |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Boissons fermentées autres que le vin
+
+ou la bière |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cidres, poirés, hydromels et pétillants de raisin |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Produits intermédiaires |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alcools |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres taxes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+|
+
+* colonne réservée à l'administration
+
+(Verso du feuillet 1)
+
+|
+
+Partie réservée à l'administration |
+
+Lieu :
+
+Date :
+
+Nom du déclarant :
+
+Signature du déclarant :
+
+Cachet de l'entreprise : |
+
+Réception de la déclaration
+
+Date de réception :
+
+N° : |
+
+Prise en recette
+
+Somme :
+
+Date :
+
+Références internes :
+
+Visa du service : |
+
+DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
+
+DÉCLARATION DE VENTES À DISTANCE DE PRODUITS SOUMIS À ACCISE
+
+déposée au titre de l'article 302 V bis du code général des impôts
+
+(Feuillet 2)
+
+Période déclarative : |
+
+|
+
+Représentant fiscal |
+
+Nom ou raison sociale |
+
+|
+
+Adresse |
+
+|
+
+N° d'agrément |
+
+|
+
+N° de la caution |
+
+|
+
+Vendeur |
+
+Nom ou raison sociale |
+
+|
+
+Adresse |
+
+|
+
+SIREN |
+
+|
+
+Espèce, qualité et nature des produits |
+
+TAV % vol |
+
+Quantités
+
+imposables |
+
+Tarif d'imposition |
+
+Code taxe* |
+
+Montant des droits |
+
+Bières |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins mousseux |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins tranquilles |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Boissons fermentées autres que le vin
+
+ou la bière |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cidres, poirés, hydromels et pétillants de raisin |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Produits intermédiaires |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alcools |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres taxes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+|
+
+* colonne réservée à l'administration
+
+(Verso du feuillet 2)
+
+|
+
+Partie réservée à l'administration |
+
+Lieu :
+
+Date :
+
+Nom du déclarant :
+
+Signature du déclarant :
+
+Cachet de l'entreprise : |
+
+Réception de la déclaration
+
+Date de réception :
+
+N° : |
+
+Prise en recette
+
+Somme :
+
+Date :
+
+Références internes :
+
+Visa du service : |
+
+DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
+
+DÉCLARATION DE VENTES À DISTANCE DE PRODUITS SOUMIS À ACCISE
+
+déposée au titre de l'article 302 V bis du code général des impôts
+
+(Feuillet 3)
+
+Période déclarative : |
+
+|
+
+Représentant fiscal |
+
+Nom ou raison sociale |
+
+|
+
+Adresse |
+
+|
+
+N° d'agrément |
+
+|
+
+N° de la caution |
+
+|
+
+Vendeur |
+
+Nom ou raison sociale |
+
+|
+
+Adresse |
+
+|
+
+SIREN |
+
+|
+
+Espèce, qualité et nature des produits |
+
+TAV % vol |
+
+Quantités
+
+imposables |
+
+Tarif d'imposition |
+
+Code taxe* |
+
+Montant des droits |
+
+Bières |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins mousseux |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vins tranquilles |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Boissons fermentées autres que le vin
+
+ou la bière |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cidres, poirés, hydromels et pétillants de raisin |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Produits intermédiaires |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Alcools |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres taxes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+|
+
+* colonne réservée à l'administration
+
+(Verso du feuillet 3)
+
+|
+
+Partie réservée à l'administration |
+
+Lieu :
+
+Date :
+
+Nom du déclarant :
+
+Signature du déclarant :
+
+Cachet de l'entreprise : |
+
+Réception de la déclaration
+
+Date de réception :
+
+N° : |
+
+Prise en recette
+
+Somme :
+
+Date :
+
+Références internes :
+
+Visa du service : |
+
+Notice d'utilisation
+
+Cette déclaration est établie par le représentant fiscal du vendeur dans le cadre des ventes à distance des produits soumis à accise à destination de particuliers résidant en France (article 302 V bis du CGI).
+
+Elle est transmise en trois exemplaires au service des douanes et droits indirects dont dépend le représentant fiscal. Le feuillet 1 est destiné au représentant fiscal, qui le conserve pour être présenté à toute réquisition des services de contrôle. Le feuillet 2 est destiné au vendeur, qui le transmet aux autorités compétentes de son Etat membre afin que les droits d'accise acquittés dans cet Etat membre lui soient remboursés. Le feuillet 3 est conservé par le service des douanes et droits indirects.
+
+Le représentant fiscal complète l'ensemble des 3 feuillets de la déclaration, sauf les parties réservées à l'administration, comme suit :
+
+Période déclarative : l'année et le mois qui précèdent le dépôt de la déclaration. Il s'agit de l'année et du mois de réception des produits soumis à accise par le destinataire résidant en France.
+
+N° d'agrément : le numéro d'identification attribué au représentant fiscal lors de sa demande d'agrément. Ce numéro commence par FR est comporte 13 caractères alphanumériques.
+
+N° de la caution : le numéro attribué à la caution du représentant fiscal par le service des douanes et droits indirects. Ce numéro comporte 8 caractères numériques.
+
+TAV : le degré alcoométrique du produit exprimé en % vol. Pour les bières, le TAV est obligatoire. Pour les autres catégories de produits, le TAV est indiqué seulement s'il s'agit d'un produit soumis à la taxe prémix. Si certains produits déclarés dans une catégorie fiscale relèvent de la taxe prémix et d'autres non, le TAV est indiqué uniquement pour les produits soumis à la taxe prémix.
+
+Quantités imposables : les quantités imposables sont indiquées en hectolitres (hl). Elles sont exprimées en volume d'alcool pur (alcools) ou en volume effectif (les autres produits).
+
+Montant des droits : indiquer le montant des droits arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1. Il est procédé à cet arrondi au niveau du décompte de chaque impôt ou taxe.
+
+Autres taxes : cotisation Sécurité sociale (CSS), taxe prémix.
