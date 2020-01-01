@@ -1,0 +1,189 @@
+# Article Annexe 5
+
+Annexe 5
+
+Synthèse des indicateurs de suivi ­constituant le référentiel d'évaluation
+
+|
+
+Au niveau
+
+de la branche |
+
+Au niveau
+
+de chaque entreprise |
+
+Maintien dans l'emploi et employabilité
+
+|
+
+Montant consacré aux aménagements de situation de travail de BOETH |
+
+X |
+
+X |
+
+Nombre de réunions d'une cellule de maintien dans l'emploi |
+
+X |
+
+X |
+
+Évolution du nombre de nouvelles reconnaissances de la situation de handicap |
+
+X |
+
+X |
+
+Part des RQTH échues ayant donné lieu à un renouvellement |
+
+X |
+
+X |
+
+Étude comparée entre la part des BOETH licenciés suite à inaptitude et la part des salariés (toute population) licenciés suite à inaptitude |
+
+X |
+
+X |
+
+A minima, 1 examen de situation comparée au cours de l'accord concernant le nombre d'augmentations individuelles et le nombre de promotion (changement de classification) |
+
+X |
+
+X |
+
+Part des salariés BOETH ayant accédé à une formation dans l'année versus population globale |
+
+X |
+
+X |
+
+Part des salariés BOETH n'ayant suivi aucune formation au cours des 3 dernières années |
+
+X |
+
+X |
+
+Embauche et insertion
+
+|
+
+Nombre de recrutements de BOETH |
+
+X |
+
+X |
+
+Flux d'embauche consacré aux BOETH (part des embauches consacrée à des travailleurs reconnus handicapés) |
+
+X |
+
+X |
+
+Étude comparée en matière d'accueil et de recrutement entre BOETH et l'ensemble de la population sur 3 critères : catégorie socioprofessionnelle/type de contrat/filière métier |
+
+X |
+
+X |
+
+Achats au secteur adapte et TIH
+
+|
+
+Part des entreprises couvertes par l'accord ayant fait appel aux ESAT, EA, TIH dans l'année |
+
+X |
+
+|
+
+Montant du CA utile confié aux ESAT, EA et TIH |
+
+X |
+
+X |
+
+Montant de baisse de contribution générée par ces achats |
+
+X |
+
+X |
+
+Information, sensibilisation, formation
+
+|
+
+Revue annuelle des actions proposées par la mission Handicap groupe et bilan de leur utilisation par les entreprises de la branche |
+
+X |
+
+|
+
+Pilotage, animation et suivi
+
+|
+
+Part des entreprises ayant présenté l'accord en CODIR et CSE dans les 6 mois suivants la signature de l'accord |
+
+X |
+
+|
+
+Part des entreprises ayant un référent handicap disposant d'une lettre de mission signée |
+
+X |
+
+|
+
+Temps moyen dédié à cette mission |
+
+|
+
+|
+
+Budget alloué au titre de l'année |
+
+X |
+
+X |
+
+Budget dépensé au titre de l'année |
+
+X |
+
+X |
+
+Éléments consolidés de réponse a l'obligation d'emploi
+
+|
+
+Effectif d'assujettissement |
+
+X |
+
+X |
+
+Effectif de BOETH employés |
+
+X |
+
+X |
+
+Nombre d'unités bénéficiaires générées par l'emploi |
+
+X |
+
+X |
+
+Taux d'emploi (direct) |
+
+X |
+
+X |
+
+Contribution brute et contribution nette après déductions possibles (achats, intérim, ECAP) |
+
+X |
+
+X |
