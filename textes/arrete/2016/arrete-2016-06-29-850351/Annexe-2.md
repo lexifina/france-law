@@ -26,6 +26,10 @@ Emploi de Chef du protocole, introducteur des Ambassadeurs ;
 
 Emploi de secrétaire général de la grande chancellerie de la Légion d'honneur régi par le décret du 8 décembre 2003 relatif à l'emploi de secrétaire général de la grande chancellerie de la Légion d'honneur.
 
+Emploi de directeur d'institut régional d'administration régi par le décret n° 98-1154 du 16 décembre 1998 modifié relatif à l'emploi de directeur d'institut régional d'administration ;
+
 NOTA :
 
 Conformément à l'article 2 de l'arrêté du 15 juillet 2019, cette disposition entre en vigueur le 1er janvier 2018.
+
+Conformément à l'article 5 de l'arrêté du 6 août 2020 ( NOR : TFPF1937806A ), les dispositions introduites par l'article 1er dudit arrêté entrent en vigeur au 1er janvier 2020.

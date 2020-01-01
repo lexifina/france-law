@@ -10,8 +10,6 @@ Sont également radiées d'office les personnes qui, au vu des éléments transm
 
 Toutefois, lorsque ces obligations sont satisfaites pour une ou plusieurs activités donnant lieu à immatriculation, seule est supprimée la mention des activités pour lesquelles ces obligations ne sont pas remplies.
 
-Les personnes qui atteignent le seuil de cinquante salariés mentionné aux quatrième et cinquième alinéas du I de l'article 19 de la loi du 5 juillet 1996 susvisée sont radiées d'office au terme du délai mentionné au sixième alinéa du même article.
-
 Lorsque la cessation totale de l'activité dans le ressort d'une chambre de métiers et de l'artisanat résulte du transfert de cette activité dans le ressort d'une autre chambre, la radiation est effectuée d'office dès la notification du président de la chambre ayant procédé à la nouvelle immatriculation.
 
 Lorsqu'une personne a été radiée d'office, elle peut, dans un délai de six mois à compter de sa radiation et dès lors qu'elle démontre qu'elle a régularisé sa situation, saisir le président de la chambre aux fins de voir rapporter cette radiation.

@@ -1,9 +1,5 @@
 # Article Annexe I
 
-ANNEXES
-
-ANNEXE I
-
 DIRECTION DES SERVICES JUDICIAIRES
 
 Fonctionnaires concernés : attachés d'administration***, secrétaires administratifs, adjoints administratifs, adjoints techniques.
@@ -44,13 +40,13 @@ judiciaire
 
 Pour les adjoints administratifs placés : Directeur délégué à l'administration régionale judiciaire |
 
-Tribunal de grande instance |
+Tribunal judiciaire |
 
 Directeur des services de greffe - directeur de greffe* |
 
 Directeur de greffe |
 
-Tribunal de grande instance de Paris |
+Tribunal judiciaire de Paris |
 
 Directeur des services de greffe - directeur de greffe*
 
@@ -60,7 +56,7 @@ Directeur de greffe
 
 Secrétaire en chef du parquet |
 
-Tribunal d'instance |
+Tribunal judiciaire |
 
 Directeur des services de greffe - directeur de greffe*
 
@@ -99,3 +95,7 @@ Directrice de l'Ecole nationale des greffes |
 ** ou tout agent en position d'encadrement désigné par le directeur délégué à l'administration régionale.
 
 *** les attachés d'administration qui exercent les fonctions de chefs de cabinet exercent leurs fonctions sous le contrôle des chefs de cour ou de juridiction et relèvent, à ce titre, de ces derniers pour leurs évaluations.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

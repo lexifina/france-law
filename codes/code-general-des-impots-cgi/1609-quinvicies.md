@@ -16,7 +16,7 @@ a) L'entreprise justifie d'une progression de l'effectif salarié annuel relevan
 
 b) L'entreprise a connu une progression de l'effectif salarié annuel relevant des catégories définies au même 1° et relève d'une branche couverte par un accord prévoyant au titre de l'année une progression d'au moins 10 % du nombre de salariés relevant des catégories définies audit 1° dans les entreprises d'au moins deux cent cinquante salariés et justifiant, par rapport à l'année précédente, que la progression est atteinte dans les proportions prévues par l'accord au titre de l'année considérée.
 
-II. – Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application de l'article 1599 ter B
+II. – Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application des articles 1599 ter B et 1599 ter C.
 
 Elle est calculée aux taux suivants :
 
@@ -35,9 +35,3 @@ B. – Pour les entreprises visées à l'article L. 1251-2 du code du travail, l
 IV. – L'article 1599 ter K est applicable à cette contribution. Pour les établissements mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de leur montant.
 
 V. – Cette contribution est recouvrée dans les conditions prévues au III de l'article L. 6131-1 du code du travail.
-
-NOTA :
-
-Conformément au III C de l’article 12 de la loi n° 2019-486 du 22 mai 2019, ces dispositions s'appliquent à compter des impositions établies au titre de 2019.
-
-Modification effectuée en conséquence de l'article 8-VII et X de la loi n° 2018-1203 du 22 décembre 2018.

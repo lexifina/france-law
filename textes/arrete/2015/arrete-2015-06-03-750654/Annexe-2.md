@@ -33,3 +33,9 @@ Emploi de chef de services administratifs et financiers de la Caisse des dépôt
 Emploi de conseiller d'administration de l'aviation civile régi par le décret n° 2014-1667 du 29 décembre 2014 relatif à l'emploi de conseiller d'administration de l'aviation civile ;
 
 Emploi de chef de service de la grande chancellerie de la Légion d'honneur régi par le décret du 3 octobre 2017 relatif à l'emploi de chef de service de la grande chancellerie de la Légion d'honneur.
+
+Emploi de directeur des études et des stages d'institut régional d'administration régi par le décret n° 78-343 du 15 mars 1978 modifié relatif à l'emploi de directeur des études et des stages d'institut régional d'administration ;
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 6 août 2020 ( NOR : TFPF1937806A ), les dispositions introduites par l'article 2 dudit arrêté entrent en vigeur au 1er janvier 2020.

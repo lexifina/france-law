@@ -2,7 +2,7 @@
 
 LISTE DES OPÉRATIONS DE RESTRUCTURATION OUVRANT DROIT AU BÉNÉFICE DE LA PRIME DE RESTRUCTURATION DE SERVICE ET, LE CAS ÉCHÉANT, À L'ALLOCATION D'AIDE À LA MOBILITÉ DU CONJOINT
 
-I. - Tribunaux de grande instance :
+I.-Tribunaux de grande instance :
 
 RESSORT DE COUR D'APPEL
 
@@ -392,7 +392,7 @@ TOULOUSE
 
 |
 
-II. - Tribunaux d'instance et juridictions de proximité :
+II.-Tribunaux d'instance et juridictions de proximité :
 
 RESSORT DE COUR D'APPEL
 
@@ -650,7 +650,7 @@ BAUGE
 
 |
 
-SAUMUR/ANGERS
+SAUMUR/ ANGERS
 
 |
 
@@ -714,7 +714,7 @@ SAINT-CALAIS
 
 |
 
-LE MANS/LA FLECHE
+LE MANS/ LA FLECHE
 
 |
 
@@ -1338,7 +1338,7 @@ RIBEAUVILLE
 
 |
 
-COLMAR/SELESTAT
+COLMAR/ SELESTAT
 
 |
 
@@ -3262,7 +3262,7 @@ GONESSE
 
 |
 
-III. - Greffes détachés des tribunaux d'instance et greffes permanents :
+III.-Greffes détachés des tribunaux judiciaires et greffes permanents :
 
 RESSORT DE COUR D'APPEL
 
@@ -4644,7 +4644,7 @@ PONTOISE
 
 |
 
-IV. - Conseils de prud'hommes :
+IV.-Conseils de prud'hommes :
 
 RESSORT DE COUR D'APPEL
 
@@ -5658,9 +5658,9 @@ CHARTRES
 
 |
 
-V. - Bureaux financiers
+V.-Bureaux financiersRESSORT
 
-RESSORT DE COUR D'APPEL
+DE COUR D'APPEL
 
 |
 
@@ -5909,3 +5909,7 @@ Thionville
 Thionville
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
