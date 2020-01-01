@@ -28,7 +28,7 @@ A défaut, constat de la réalité du paiement dans les conditions du droit comm
 
 0212. Justification de l'état civil
 
-Présentation du livret de famille ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal d'instance (PACS) ou certificat sur l'honneur de l'intéressé justifiant la non-séparation de corps.
+Présentation du livret de famille ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal judiciaire (PACS) ou certificat sur l'honneur de l'intéressé justifiant la non-séparation de corps.
 
 0213. Justification du domicile et de résidence
 
@@ -74,7 +74,7 @@ Attestation du notaire (8).
 
 0241. Pièce commune
 
-Acte de décès ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal d'instance ou certificat sur l'honneur de l'intéressé.
+Acte de décès ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal judiciaire ou certificat sur l'honneur de l'intéressé.
 
 0242. Pièces particulières
 
@@ -146,11 +146,11 @@ Copie délivrée par le notaire du contrat de donation (avec mention expresse de
 
 0251. Successions non réclamées
 
-Copie de l'ordonnance du président du tribunal de grande instance du lieu d'ouverture de la succession désignant un administrateur provisoire.
+Copie de l'ordonnance du président du tribunal judiciaire du lieu d'ouverture de la succession désignant un administrateur provisoire.
 
 0252. Successions vacantes
 
-Copie du jugement du tribunal de grande instance du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (le service des domaines).
+Copie du jugement du tribunal judiciaire du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (le service des domaines).
 
 0253. Successions en déshérence
 
@@ -435,3 +435,7 @@ Copie de l'acte interruptif de prescription.
 1. Lettre de voiture ou tout élément susceptible de constater l'existence d'un contrat de transport.
 
 2. Mise en demeure de la collectivité ou de l'établissement public local par le transporteur ou le voiturier.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

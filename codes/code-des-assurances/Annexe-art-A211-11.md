@@ -232,7 +232,7 @@ Vous pouvez réclamer des intérêts en cas de retard imputable à l'assureur.
 
 Conseils pratiques.
 
-Vous pouvez confier la défense de vos intérêts à toute personne de votre choix ; en cas de procès, un avocat doit vous représenter devant le tribunal de grande instance.
+Vous pouvez confier la défense de vos intérêts à toute personne de votre choix ; en cas de procès, un avocat doit vous représenter devant le tribunal judiciaire.
 
 En adressant une feuille de soins à la Sécurité sociale, précisez bien qu'il s'agit d'un accident et indiquez sa date.
 
@@ -259,3 +259,7 @@ Le dispositif mis en place par la loi a pour objet de réduire le nombre de proc
 -le montant de l'offre d'indemnisation ;
 
 -de vous constituer partie civile ou d'engager une procédure judiciaire à l'encontre des auteurs de l'accident que vous estimez responsables.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

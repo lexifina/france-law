@@ -6,9 +6,9 @@ Après avoir reçu la décision qui la désigne, la personne chargée de la prot
 
 A cette fin, la personne désignée doit se présenter à la juridiction compétente, indiquer son adresse de messagerie et justifier de son identité.
 
-L'agent du greffe inscrit dans l'application de gestion des mesures de tutelles les informations permettant l'obtention du mot de passe à usage unique par requête : numéro de tribunal d'instance, numéro de mesure, adresse électronique de la personne chargée de la mesure de protection.
+L'agent du greffe inscrit dans l'application de gestion des mesures de tutelles les informations permettant l'obtention du mot de passe à usage unique par requête : numéro de tribunal judiciaire, numéro de mesure, adresse électronique de la personne chargée de la mesure de protection.
 
-La personne chargée de la mesure de protection peut, dès lors, demander la génération d'un mot de passe à usage unique en renseignant sur le système mis à sa disposition les informations suivantes : numéro de tribunal d'instance, numéro de mesure par requête, adresse électronique communiquée au greffe du tribunal d'instance.
+La personne chargée de la mesure de protection peut, dès lors, demander la génération d'un mot de passe à usage unique en renseignant sur le système mis à sa disposition les informations suivantes : numéro de tribunal judiciaire, numéro de mesure par requête, adresse électronique communiquée au greffe du tribunal judiciaire.
 
 Le système contrôle la cohérence de ces informations et génère un mot de passe à usage unique par requête. Ce mot de passe, appelé numéro de saisie dans l'application, est transmis à la personne chargée de la mesure de protection à l'adresse précisée ci-dessus.
 
@@ -17,3 +17,7 @@ Ce mot de passe est valable quarante-huit heures. Dans ce délai, la personne ch
 Ce numéro de saisie autorise la personne chargée de la protection à consulter ou à compléter la requête.
 
 Si la personne chargée de la mesure de protection du majeur doit saisir plusieurs requêtes, elle devra obtenir autant de numéros de saisie.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -418,7 +418,7 @@ Choix entre oui et non
 
 |
 
-Si oui : date de l'ordonnance du président du tribunal de grande instance
+Si oui : date de l'ordonnance du président du tribunal judiciaire
 
 |
 
@@ -675,3 +675,7 @@ Nombre d'ascenseurs
 Entier positif ou nul
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

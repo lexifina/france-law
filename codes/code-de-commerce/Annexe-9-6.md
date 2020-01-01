@@ -6,7 +6,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 SIÈGE DES TRIBUNAUX
 
-de grande instance
+judiciaires
 
 |
 
@@ -21,3 +21,7 @@ Paris.
 Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

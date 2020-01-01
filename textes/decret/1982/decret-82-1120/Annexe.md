@@ -4,13 +4,13 @@ LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS E
 
 TRIBUNAUX
 
-de grande instance compétents
+JUDICIAIRES
+
+compétents
 
 |
 
-COURS D'ASSISES COMPÉTENTES
-
-|
+COURS D'ASSISES COMPÉTENTES |
 
 COMPÉTENCE TERRITORIALE
 
@@ -20,110 +20,56 @@ ou du tribunal supérieur d'appel de :
 
 |
 
-Bordeaux
+Bordeaux |
 
-|
+Cour d'assises de la Gironde |
 
-Cour d'assises de la Gironde
+Bordeaux, Limoges, Pau. |
 
-|
+Lille |
 
-Bordeaux, Limoges, Pau.
+Cour d'assises du Nord |
 
-|
+Amiens, Douai, Reims, Rouen. |
 
-Lille
+Lyon |
 
-|
+Cour d'assises du Rhône |
 
-Cour d'assises du Nord
+Chambéry, Grenoble, Lyon, Riom. |
 
-|
+Marseille |
 
-Amiens, Douai, Reims, Rouen.
+Cour d'assises des Bouches-du-Rhône |
 
-|
+Aix-en-Provence, Bastia, Nîmes. |
 
-Lyon
+Metz |
 
-|
+Cour d'assises de la Moselle |
 
-Cour d'assises du Rhône
+Besançon, Colmar, Dijon, Metz, Nancy. |
 
-|
+Paris |
 
-Chambéry, Grenoble, Lyon, Riom.
+Cour d'assises de Paris |
 
-|
+Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis, Saint-Pierre. |
 
-Marseille
+Rennes |
 
-|
+Cour d'assises d'Ille-et-Vilaine |
 
-Cour d'assises des Bouches-du-Rhône
+Angers, Caen, Poitiers, Rennes. |
 
-|
+Cayenne |
 
-Aix-en-Provence, Bastia, Nîmes.
+Cour d'assises de la Guyane |
 
-|
+Basse-Terre, Cayenne, Fort-de-France. |
 
-Metz
+Toulouse |
 
-|
+Cour d'assises de la Haute-Garonne |
 
-Cour d'assises de la Moselle
-
-|
-
-Besançon, Colmar, Dijon, Metz, Nancy.
-
-|
-
-Paris
-
-|
-
-Cour d'assises de Paris
-
-|
-
-Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis, Saint-Pierre.
-
-|
-
-Rennes
-
-|
-
-Cour d'assises d'Ille-et-Vilaine
-
-|
-
-Angers, Caen, Poitiers, Rennes.
-
-|
-
-Cayenne
-
-|
-
-Cour d'assises de la Guyane
-
-|
-
-Basse-Terre, Cayenne, Fort-de-France.
-
-|
-
-Toulouse
-
-|
-
-Cour d'assises de la Haute-Garonne
-
-|
-
-Toulouse, Montpellier, Agen.
-
-|
+Toulouse, Montpellier, Agen. |

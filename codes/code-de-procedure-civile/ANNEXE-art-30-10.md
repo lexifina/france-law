@@ -1,6 +1,6 @@
 # Article ANNEXE, art. 30-10
 
-Le tribunal d'instance détermine le montant à verser par l'association pour la publication de l'inscription en fonction des frais de publication.
+Le tribunal judiciaire détermine le montant à verser par l'association pour la publication de l'inscription en fonction des frais de publication.
 
 Ce montant est versé au comptable de la direction générale des finances publiques, agissant en qualité de préposé de la Caisse des dépôts et consignations. Le tribunal peut toutefois autoriser l'association à verser directement ce montant au journal d'annonces légales.
 
@@ -19,3 +19,7 @@ L'avis contient :
 5° La date d'adoption des statuts ;
 
 6° Les nom et prénoms des membres de la direction.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

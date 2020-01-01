@@ -582,111 +582,111 @@ CHS central placé auprès du grand chancelier de la Légion d'honneur
 
 CHS central placé auprès du directeur général de l'agence publique pour l'immobilier de la justice (APIJ) et de l'établissement public du palais de justice de Paris (EPPJJ)
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Aisne
+CHS départemental placé auprès du président du tribunal judiciaire de l'Aisne
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Allier
+CHS départemental placé auprès du président du tribunal judiciaire de l'Allier
 
-CHS départemental placé auprès du président du tribunal de grande instance des Alpes-Maritimes
+CHS départemental placé auprès du président du tribunal judiciaire des Alpes-Maritimes
 
-CHS départemental placé auprès du président du tribunal de grande instance des Ardennes
+CHS départemental placé auprès du président du tribunal judiciaire des Ardennes
 
-CHS départemental placé auprès du président du tribunal de grande instance des Bouches-du-Rhône
+CHS départemental placé auprès du président du tribunal judiciaire des Bouches-du-Rhône
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Corse-du-Sud
+CHS départemental placé auprès du président du tribunal judiciaire de la Corse-du-Sud
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute-Corse
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute-Corse
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Côte-d'Or
+CHS départemental placé auprès du président du tribunal judiciaire de la Côte-d'Or
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Dordogne
+CHS départemental placé auprès du président du tribunal judiciaire de la Dordogne
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Eure
+CHS départemental placé auprès du président du tribunal judiciaire de l'Eure
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Eure-et-Loir
+CHS départemental placé auprès du président du tribunal judiciaire de l'Eure-et-Loir
 
-CHS départemental placé auprès du président du tribunal de grande instance du Gard
+CHS départemental placé auprès du président du tribunal judiciaire du Gard
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute-Garonne
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute-Garonne
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Gironde
+CHS départemental placé auprès du président du tribunal judiciaire de la Gironde
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Ille-et-Vilaine
+CHS départemental placé auprès du président du tribunal judiciaire de l'Ille-et-Vilaine
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Indre
+CHS départemental placé auprès du président du tribunal judiciaire de l'Indre
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Indre-et-Loire
+CHS départemental placé auprès du président du tribunal judiciaire de l'Indre-et-Loire
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Isère
+CHS départemental placé auprès du président du tribunal judiciaire de l'Isère
 
-CHS départemental placé auprès du président du tribunal de grande instance des Landes
+CHS départemental placé auprès du président du tribunal judiciaire des Landes
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Loire
+CHS départemental placé auprès du président du tribunal judiciaire de la Loire
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Loire-Atlantique
+CHS départemental placé auprès du président du tribunal judiciaire de la Loire-Atlantique
 
-CHS départemental placé auprès du président du tribunal de grande instance du Loiret
+CHS départemental placé auprès du président du tribunal judiciaire du Loiret
 
-CHS départemental placé auprès du président du tribunal de grande instance du Lot-et-Garonne
+CHS départemental placé auprès du président du tribunal judiciaire du Lot-et-Garonne
 
-CHS départemental placé auprès du président du tribunal de grande instance du Maine-et-Loire
+CHS départemental placé auprès du président du tribunal judiciaire du Maine-et-Loire
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Marne
+CHS départemental placé auprès du président du tribunal judiciaire de la Marne
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Meurthe-et-Moselle
+CHS départemental placé auprès du président du tribunal judiciaire de la Meurthe-et-Moselle
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Meuse
+CHS départemental placé auprès du président du tribunal judiciaire de la Meuse
 
-CHS départemental placé auprès du président du tribunal de grande instance du Morbihan
+CHS départemental placé auprès du président du tribunal judiciaire du Morbihan
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Moselle
+CHS départemental placé auprès du président du tribunal judiciaire de la Moselle
 
-CHS départemental placé auprès du président du tribunal de grande instance du Nord
+CHS départemental placé auprès du président du tribunal judiciaire du Nord
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Oise
+CHS départemental placé auprès du président du tribunal judiciaire de l'Oise
 
-CHS départemental placé auprès du président du tribunal de grande instance des Pyrénées-Orientales
+CHS départemental placé auprès du président du tribunal judiciaire des Pyrénées-Orientales
 
-CHS départemental placé auprès du président du tribunal de grande instance du Haut-Rhin
+CHS départemental placé auprès du président du tribunal judiciaire du Haut-Rhin
 
-CHS départemental placé auprès du président du tribunal de grande instance du Rhône
+CHS départemental placé auprès du président du tribunal judiciaire du Rhône
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Savoie
+CHS départemental placé auprès du président du tribunal judiciaire de la Savoie
 
-CHS départemental placé auprès du président du tribunal de grande instance de Paris
+CHS départemental placé auprès du président du tribunal judiciaire de Paris
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Seine-Maritime
+CHS départemental placé auprès du président du tribunal judiciaire de la Seine-Maritime
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Seine-et-Marne
+CHS départemental placé auprès du président du tribunal judiciaire de la Seine-et-Marne
 
-CHS départemental placé auprès du président du tribunal de grande instance des Yvelines
+CHS départemental placé auprès du président du tribunal judiciaire des Yvelines
 
-CHS départemental placé auprès du président du tribunal de grande instance du Tarn-et-Garonne
+CHS départemental placé auprès du président du tribunal judiciaire du Tarn-et-Garonne
 
-CHS départemental placé auprès du président du tribunal de grande instance du Var
+CHS départemental placé auprès du président du tribunal judiciaire du Var
 
-CHS départemental placé auprès du président du tribunal de grande instance du Vaucluse
+CHS départemental placé auprès du président du tribunal judiciaire du Vaucluse
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Vienne
+CHS départemental placé auprès du président du tribunal judiciaire de la Vienne
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Yonne
+CHS départemental placé auprès du président du tribunal judiciaire de l'Yonne
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Essonne
+CHS départemental placé auprès du président du tribunal judiciaire de l'Essonne
 
-CHS départemental placé auprès du président du tribunal de grande instance des Hauts-de-Seine
+CHS départemental placé auprès du président du tribunal judiciaire des Hauts-de-Seine
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Seine-Saint-Denis
+CHS départemental placé auprès du président du tribunal judiciaire de la Seine-Saint-Denis
 
-CHS départemental placé auprès du président du tribunal de grande instance du Val-de-Marne
+CHS départemental placé auprès du président du tribunal judiciaire du Val-de-Marne
 
-CHS départemental placé auprès du président du tribunal de grande instance du Val-d'Oise
+CHS départemental placé auprès du président du tribunal judiciaire du Val-d'Oise
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Guadeloupe
+CHS départemental placé auprès du président du tribunal judiciaire de la Guadeloupe
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Martinique
+CHS départemental placé auprès du président du tribunal judiciaire de la Martinique
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Guyane
+CHS départemental placé auprès du président du tribunal judiciaire de la Guyane
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Réunion
+CHS départemental placé auprès du président du tribunal judiciaire de la Réunion
 
 CHS spécial placé auprès du grand chancelier de la Légion d'honneur (maisons d'éducation de la Légion d'honneur)
 
@@ -2762,4 +2762,4 @@ Commission consultative paritaire compétente pour les agents non titulaires
 
 NOTA :
 
-Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

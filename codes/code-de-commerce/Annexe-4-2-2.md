@@ -6,7 +6,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISAN
 
 SIÈGE DES TRIBUNAUX
 
-de grande instance
+judiciaires
 
 |
 
@@ -43,3 +43,7 @@ Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réu
 Rennes. |
 
 Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

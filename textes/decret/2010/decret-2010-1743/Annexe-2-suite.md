@@ -4,99 +4,99 @@ Comités d'hygiène et de sécurité
 
 CHS central placé auprès du directeur de l'Ecole nationale d'administration pénitentiaire (ENAP)
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Ain
+CHS départemental placé auprès du président du tribunal judiciaire de l'Ain
 
-CHS départemental placé auprès du président du tribunal de grande instance d'Alpes-de-Haute-Provence
+CHS départemental placé auprès du président du tribunal judiciaire d'Alpes-de-Haute-Provence
 
-CHS départemental placé auprès du président du tribunal de grande instance des Hautes-Alpes
+CHS départemental placé auprès du président du tribunal judiciaire des Hautes-Alpes
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Ardèche
+CHS départemental placé auprès du président du tribunal judiciaire de l'Ardèche
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Ariège
+CHS départemental placé auprès du président du tribunal judiciaire de l'Ariège
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Aube
+CHS départemental placé auprès du président du tribunal judiciaire de l'Aube
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Aude
+CHS départemental placé auprès du président du tribunal judiciaire de l'Aude
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Aveyron
+CHS départemental placé auprès du président du tribunal judiciaire de l'Aveyron
 
-CHS départemental placé auprès du président du tribunal de grande instance du Calvados
+CHS départemental placé auprès du président du tribunal judiciaire du Calvados
 
-CHS départemental placé auprès du président du tribunal de grande instance du Cantal
+CHS départemental placé auprès du président du tribunal judiciaire du Cantal
 
-CHS départemental placé auprès du président du tribunal de grande instance de Charente
+CHS départemental placé auprès du président du tribunal judiciaire de Charente
 
-CHS départemental placé auprès du président du tribunal de grande instance des Charente-Maritime
+CHS départemental placé auprès du président du tribunal judiciaire des Charente-Maritime
 
-CHS départemental placé auprès du président du tribunal de grande instance du Cher
+CHS départemental placé auprès du président du tribunal judiciaire du Cher
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Corrèze
+CHS départemental placé auprès du président du tribunal judiciaire de la Corrèze
 
-CHS départemental placé auprès du président du tribunal de grande instance des Côtes d'Armor
+CHS départemental placé auprès du président du tribunal judiciaire des Côtes d'Armor
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Creuse
+CHS départemental placé auprès du président du tribunal judiciaire de la Creuse
 
-CHS départemental placé auprès du président du tribunal de grande instance du Doubs
+CHS départemental placé auprès du président du tribunal judiciaire du Doubs
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Drôme
+CHS départemental placé auprès du président du tribunal judiciaire de la Drôme
 
-CHS départemental placé auprès du président du tribunal de grande instance du Finistère
+CHS départemental placé auprès du président du tribunal judiciaire du Finistère
 
-CHS départemental placé auprès du président du tribunal de grande instance du Gers
+CHS départemental placé auprès du président du tribunal judiciaire du Gers
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Hérault
+CHS départemental placé auprès du président du tribunal judiciaire de l'Hérault
 
-CHS départemental placé auprès du président du tribunal de grande instance du Loir-et-Cher
+CHS départemental placé auprès du président du tribunal judiciaire du Loir-et-Cher
 
-CHS départemental placé auprès du président du tribunal de grande instance du Jura
+CHS départemental placé auprès du président du tribunal judiciaire du Jura
 
-CHS départemental placé auprès du président du tribunal de grande instance de Haute Loire
+CHS départemental placé auprès du président du tribunal judiciaire de Haute Loire
 
-CHS départemental placé auprès du président du tribunal de grande instance du Lot
+CHS départemental placé auprès du président du tribunal judiciaire du Lot
 
-CHS départemental placé auprès du président du tribunal de grande instance de Lozère
+CHS départemental placé auprès du président du tribunal judiciaire de Lozère
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Manche
+CHS départemental placé auprès du président du tribunal judiciaire de la Manche
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute-Marne
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute-Marne
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Mayenne
+CHS départemental placé auprès du président du tribunal judiciaire de la Mayenne
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Nièvre
+CHS départemental placé auprès du président du tribunal judiciaire de la Nièvre
 
-CHS départemental placé auprès du président du tribunal de grande instance de l'Orne
+CHS départemental placé auprès du président du tribunal judiciaire de l'Orne
 
-CHS départemental placé auprès du président du tribunal de grande instance du Pas-de-Calais
+CHS départemental placé auprès du président du tribunal judiciaire du Pas-de-Calais
 
-CHS départemental placé auprès du président du tribunal de grande instance du Puy-de-Dôme
+CHS départemental placé auprès du président du tribunal judiciaire du Puy-de-Dôme
 
-CHS départemental placé auprès du président du tribunal de grande instance des Pyrénées Atlantiques
+CHS départemental placé auprès du président du tribunal judiciaire des Pyrénées Atlantiques
 
-CHS départemental placé auprès du président du tribunal de grande instance des Hautes Pyrénées
+CHS départemental placé auprès du président du tribunal judiciaire des Hautes Pyrénées
 
-CHS départemental placé auprès du président du tribunal de grande instance du Bas-Rhin
+CHS départemental placé auprès du président du tribunal judiciaire du Bas-Rhin
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute-Saône
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute-Saône
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Saône et Loire
+CHS départemental placé auprès du président du tribunal judiciaire de la Saône et Loire
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Sarthe
+CHS départemental placé auprès du président du tribunal judiciaire de la Sarthe
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute Savoie
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute Savoie
 
-CHS départemental placé auprès du président du tribunal de grande instance des Deux-Sèvres
+CHS départemental placé auprès du président du tribunal judiciaire des Deux-Sèvres
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Somme
+CHS départemental placé auprès du président du tribunal judiciaire de la Somme
 
-CHS départemental placé auprès du président du tribunal de grande instance du Tarn
+CHS départemental placé auprès du président du tribunal judiciaire du Tarn
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Vendée
+CHS départemental placé auprès du président du tribunal judiciaire de la Vendée
 
-CHS départemental placé auprès du président du tribunal de grande instance de la Haute Vienne
+CHS départemental placé auprès du président du tribunal judiciaire de la Haute Vienne
 
-CHS départemental placé auprès du président du tribunal de grande instance des Vosges
+CHS départemental placé auprès du président du tribunal judiciaire des Vosges
 
-CHS départemental placé auprès du président du tribunal de grande instance du Territoire de Belfort
+CHS départemental placé auprès du président du tribunal judiciaire du Territoire de Belfort
 
 CHS Spécial placé auprès du directeur de la maison d'arrêt d'Agen
 
@@ -469,3 +469,7 @@ CHS spécial aéronaval institué auprès du directeur interrégional, chef de l
 Conseil national de l'action sociale (CNAS) placé sous l'autorité du directeur des ressources humaines du secrétariat général.
 
 Conseils départementaux de l'action sociale (CDAS) placés sous l'autorité de chacun des présidents du CDAS.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

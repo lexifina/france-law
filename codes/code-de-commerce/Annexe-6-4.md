@@ -20,21 +20,21 @@ Guadeloupe.
 
 |
 
-Tribunal de grande instance de Basse-Terre.
+Tribunal judiciaire de Basse-Terre.
 
 |
 
-Ressort du TGI.
+Ressort du tribunal judiciaire.
 
 |
 
 |
 
-Tribunal de grande instance de Pointe-à-Pitre.
+Tribunal judiciaire de Pointe-à-Pitre.
 
 |
 
-Ressort du TGI.
+Ressort du tribunal judiciaire.
 
 |
 
@@ -42,7 +42,7 @@ Guyane.
 
 |
 
-Tribunal de grande instance de Cayenne.
+Tribunal judiciaire de Cayenne.
 
 |
 
@@ -54,7 +54,7 @@ Martinique.
 
 |
 
-Tribunal de grande instance de Fort-de-France.
+Tribunal judiciaire de Fort-de-France.
 
 |
 
@@ -66,7 +66,7 @@ Mayotte
 
 |
 
-Tribunal de grande instance de Mamoudzou
+Tribunal judiciaire de Mamoudzou
 
 |
 
@@ -78,20 +78,26 @@ Réunion.
 
 |
 
-Tribunal de grande instance de Saint-Denis.
+Tribunal judiciaire de Saint-Denis.
 
 |
 
-Ressort du TGI.
+Ressort du tribunal judiciaire.
 
 |
 
 |
 
-Tribunal de grande instance de Saint-Pierre.
+Tribunal judiciaire de Saint-Pierre.
 
 |
 
-Ressort du TGI.
+Ressort du tribunal judiciaire.
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

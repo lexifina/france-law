@@ -6,7 +6,7 @@ DÉPARTEMENT
 
 |
 
-TRIBUNAL de grande instance
+TRIBUNAL judiciaire
 
 |
 
@@ -38,7 +38,9 @@ Basse-Terre
 
 |
 
-Ressort du tribunal de grande instance de Basse-Terre
+Ressort du tribunal judiciaire
+
+de Basse-Terre
 
 |
 
@@ -50,7 +52,9 @@ Pointe-à-Pitre
 
 |
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre
+Ressort du tribunal judiciaire
+
+de Pointe-à-Pitre
 
 |
 
@@ -70,7 +74,9 @@ Cayenne
 
 |
 
-Ressort du tribunal de grande instance de Cayenne
+Ressort du tribunal judiciaire
+
+de Cayenne
 
 |
 
@@ -90,7 +96,9 @@ Fort-de-France
 
 |
 
-Ressort du tribunal de grande instance de Fort-de-France
+Ressort du tribunal judiciaire
+
+de Fort-de-France
 
 |
 
@@ -110,7 +118,9 @@ Mamoudzou
 
 |
 
-Ressort du tribunal de grande instance de Mamoudzou
+Ressort du tribunal judiciaire
+
+de Mamoudzou
 
 |
 
@@ -122,20 +132,24 @@ Saint-Denis |
 
 Saint-Denis |
 
-Ressort du tribunal de grande instance de Saint-Denis
+Ressort du tribunal judiciaire
+
+de Saint-Denis
 
 |
 
 |
 
-Saint-Pierre
+Saint-Pierre |
+
+Saint-Pierre |
+
+Ressort du tribunal judiciaire
+
+de Saint-Pierre
 
 |
 
-Saint-Pierre
+NOTA :
 
-|
-
-Ressort du tribunal de grande instance de Saint-Pierre
-
-|
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

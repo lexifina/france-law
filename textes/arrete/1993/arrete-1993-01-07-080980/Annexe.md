@@ -2,31 +2,31 @@
 
 Droit civil.
 
-I. - Les personnes et les droits de la personnalité :
+I.-Les personnes et les droits de la personnalité :
 
-A. - La personnalité juridique :
+A.-La personnalité juridique :
 
-- les personnes physiques ;
+-les personnes physiques ;
 
-- existence juridique (état, nom, domicile, absence) ;
+-existence juridique (état, nom, domicile, absence) ;
 
-- les personnes morales (sociétés, associations, syndicats, domicile, capacité).
+-les personnes morales (sociétés, associations, syndicats, domicile, capacité).
 
-B. - La famille :
+B.-La famille :
 
-- le mariage (formation, preuve, effet, situation respective des époux) ;
+-le mariage (formation, preuve, effet, situation respective des époux) ;
 
-- le divorce ;
+-le divorce ;
 
-- la séparation de corps ;
+-la séparation de corps ;
 
-- la filiation (légitime, naturelle, adoptive) ;
+-la filiation (légitime, naturelle, adoptive) ;
 
-- l'obligation alimentaire.
+-l'obligation alimentaire.
 
-C. - Les incapacités (mineurs et majeurs).
+C.-Les incapacités (mineurs et majeurs).
 
-II. - Le droit de propriété, la copropriété et la possession :
+II.-Le droit de propriété, la copropriété et la possession :
 
 Modes d'acquisition ;
 
@@ -34,7 +34,7 @@ Preuve ;
 
 Protection.
 
-III. - Les obligations :
+III.-Les obligations :
 
 Théorie générale du contrat ;
 
@@ -44,23 +44,23 @@ Les quasi-contrats ;
 
 Effets, extinction et transmission des obligations.
 
-IV. - Les preuves.
+IV.-Les preuves.
 
-V. - Les prescriptions.
+V.-Les prescriptions.
 
-VI. - Les sûretés réelles et personnelles.
+VI.-Les sûretés réelles et personnelles.
 
 Droit pénal (général et spécial).
 
-I. - Principe de la légalité des infractions et des peines ;
+I.-Principe de la légalité des infractions et des peines ;
 
 Responsabilité pénale et imputabilité.
 
-II. - Peines et mesures de sûreté ;
+II.-Peines et mesures de sûreté ;
 
 Individualisation de la sanction pénale.
 
-III. - Application de la loi pénale dans le temps et dans l'espace ;
+III.-Application de la loi pénale dans le temps et dans l'espace ;
 
 L'infraction et ses divers éléments ;
 
@@ -74,9 +74,9 @@ Le non-cumul des peines ;
 
 Causes d'atténuation, d'aggravation et d'extinction des sanctions pénales : récidive, prescription, grâce, amnistie.
 
-IV. - Le régime de l'enfance délinquante.
+IV.-Le régime de l'enfance délinquante.
 
-V. - Homicide volontaire ;
+V.-Homicide volontaire ;
 
 Homicide et blessures involontaires ; délit de fuite ;
 
@@ -100,7 +100,7 @@ Délit d'initié.
 
 Droit administratif.
 
-I. - Théorie générale de l'acte administratif et de la fonction administrative :
+I.-Théorie générale de l'acte administratif et de la fonction administrative :
 
 La délimitation des domaines de la loi et du règlement ;
 
@@ -108,19 +108,19 @@ Le pouvoir réglementaire des autorités administratives centrales, les circulai
 
 Pouvoir discrétionnaire et compétence liée.
 
-II. - Théorie générale de la responsabilité administrative :
+II.-Théorie générale de la responsabilité administrative :
 
 Responsabilité de la puissance publique pour faute et responsabilité sans faute ;
 
 Responsabilité personnelle des agents de la fonction publique ; Régimes législatifs particuliers relevant de la compétence judiciaire.
 
-III. - L'organisation administrative : administration centrale ; administration locale (région, département, commune).
+III.-L'organisation administrative : administration centrale ; administration locale (région, département, commune).
 
-IV. - Les critères de la distinction des contrats administratifs et des contrats de droit privé.
+IV.-Les critères de la distinction des contrats administratifs et des contrats de droit privé.
 
-V. - La police administrative (notions générales, autorités compétentes, limites du pouvoir de police, aggravations exceptionnelles des régimes de police).
+V.-La police administrative (notions générales, autorités compétentes, limites du pouvoir de police, aggravations exceptionnelles des régimes de police).
 
-VI. - Les services publics (notion de service public, modes de gestion des services publics, régime juridique et contentieux des services publics industriels et commerciaux, régime juridique et contentieux des services publics de la sécurité sociale).
+VI.-Les services publics (notion de service public, modes de gestion des services publics, régime juridique et contentieux des services publics industriels et commerciaux, régime juridique et contentieux des services publics de la sécurité sociale).
 
 Droit commercial.
 
@@ -136,7 +136,7 @@ La propriété industrielle (brevets, marques, dessins et modèles).
 
 Droit social.
 
-I. - Droit du travail :
+I.-Droit du travail :
 
 Définition et objet du droit du travail ;
 
@@ -164,7 +164,7 @@ Les accidents du travail ;
 
 Le licenciement.
 
-II. - La sécurité sociale :
+II.-La sécurité sociale :
 
 L'organisation de la sécurité sociale ;
 
@@ -178,7 +178,7 @@ Les juridictions compétentes en matière de sécurité sociale ; procédure et 
 
 Procédure civile.
 
-La procédure devant les tribunaux de grande instance et d'instance et devant la cour d'appel en matière civile.
+La procédure devant les tribunaux judiciaires et devant la cour d'appel en matière civile.
 
 L'enquête.
 
@@ -267,3 +267,7 @@ Russe.
 Exposé-discussion d'admission.
 
 Libertés publiques et droits de l'homme ; protection des libertés et droits fondamentaux.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

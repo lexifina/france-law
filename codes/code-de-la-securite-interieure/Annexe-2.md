@@ -4,7 +4,7 @@ CONVENTION TYPE INTERCOMMUNALE DE COORDINATION DE LA POLICE MUNICIPALE ET DES FO
 
 (Annexe 2 prévue pour l'application de l'article R. 512-5)
 
-Entre le préfet de... (ou les préfets de...), les maires de..., communes membres de l'établissement public de coopération intercommunale à fiscalité propre dénommé..., et le président de cet établissement public de coopération intercommunale pour ce qui concerne la mise à disposition des agents de police municipale et de leurs équipements, après avis du procureur de la République près le tribunal de grande instance de... (ou des procureurs de la République près les tribunaux de grande instance de...), il est convenu ce qui suit :
+Entre le préfet de... (ou les préfets de...), les maires de..., communes membres de l'établissement public de coopération intercommunale à fiscalité propre dénommé..., et le président de cet établissement public de coopération intercommunale pour ce qui concerne la mise à disposition des agents de police municipale et de leurs équipements, après avis du procureur de la République près le tribunal judiciaire de... (ou des procureurs de la République près les tribunaux judiciaires de...), il est convenu ce qui suit :
 
 La police municipale de chaque commune membre de l'établissement public de coopération intercommunale et les forces de sécurité de l'Etat ont vocation, dans le respect de leurs compétences respectives, à intervenir sur la totalité du territoire de l'établissement public de coopération intercommunale, sous l'autorité du maire de la commune du lieu d'intervention.
 
@@ -173,3 +173,7 @@ La présente convention est conclue pour une durée de trois ans, renouvelable p
 Article 22
 
 Afin de veiller à la pleine application de la présente convention, le président de l'établissement public de coopération intercommunale, les maires de... et le préfet (ou les préfets) de... conviennent que sa mise en œuvre sera examinée par une mission d'évaluation associant l'inspection générale de l'administration du ministère de l'intérieur, selon des modalités précisées en liaison avec l'Association des maires de France.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

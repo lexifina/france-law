@@ -8,7 +8,7 @@ TEXTE INSTITUTIF
 
 |
 
-Commission chargée de proposer le montant des indemnités pouvant être dues soit aux greffiers des tribunaux de commerce, soit à l'Etat, en cas de modification affectant le ressort d'un tribunal de grande instance statuant en matière commerciale
+Commission chargée de proposer le montant des indemnités pouvant être dues soit aux greffiers des tribunaux de commerce, soit à l'Etat, en cas de modification affectant le ressort d'un tribunal judiciaire statuant en matière commerciale
 
 |
 
@@ -23,3 +23,7 @@ Commission de proposition aux offices de greffier de tribunal de commerce créé
 Articles R. 742-18 et R. 742-19 du code de commerce
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

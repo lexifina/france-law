@@ -80,7 +80,7 @@ Ils se dérouleront dans les juridictions suivantes :
 
 ― tribunal de grande instance ;
 
-― tribunal d'instance ;
+― tribunal judiciaire ;
 
 ― conseil de prud'hommes ;
 
@@ -127,3 +127,7 @@ Les greffiers recrutés par voie de détachement reçoivent à l'Ecole nationale
 ― période de stage de mise en situation professionnelle (durée : 6 mois) entrecoupée d'une période de scolarité d'approfondissement de 2 semaines.
 
 Les objectifs et les modalités d'encadrement de ces périodes sont identiques à ceux détaillés ci-dessus pour les greffiers recrutés par concours interne et externe et par la voie des emplois réservés. Le contenu de ces périodes prend en compte la durée de la formation et le parcours des agents.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

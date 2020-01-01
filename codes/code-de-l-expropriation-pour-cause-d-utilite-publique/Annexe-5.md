@@ -76,7 +76,7 @@ C aura droit, en contrepartie, à une indemnité de résolution qui sera calcul�
 
 2. Si la résolution intervient après le commencement des travaux, l'indemnité ci-dessus est augmentée d'une somme égale au montant de la plus-value apportée aux terrains par les travaux régulièrement réalisés sans que cette somme puisse dépasser la valeur des matériaux et le prix de la main-d'œuvre utilisée.
 
-La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P étant l'administration des domaines, celui de C pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal de grande instance sur requête de P.
+La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P étant l'administration des domaines, celui de C pouvant, si C ne pourvoit pas à sa désignation, être désigné d'office par le président du tribunal judiciaire sur requête de P.
 
 Tous les frais seront à la charge de C.
 
@@ -101,3 +101,7 @@ Le cahier des charges annexé à chacun des actes de vente ou de location des lo
 (Nota. – P devra veiller à ce que ces cahiers des charges soient analogues à ceux faisant l'objet de l'annexe 2 du code de l'expropriation pour cause d'utilité publique.)
 
 Les actes de vente, d'attribution, dans le partage ou de location qui seraient consentis par C en méconnaissance des dispositions du présent article seraient nuls en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

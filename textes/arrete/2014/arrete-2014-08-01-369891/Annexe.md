@@ -438,7 +438,7 @@ I.-En application des 7° et 8° de l'article R. 321-12 du CCH, les syndicats de
 
 Sont visés à ce titre les logements dont l'état, ou celui du bâtiment dans lequel ils sont situés, expose les occupants à des risques manifestes pouvant porter atteinte à leur sécurité physique ou à leur santé ;
 
-4° Pour le financement des travaux nécessaires au fonctionnement normal de la copropriété, lorsqu'un administrateur provisoire a été désigné par le président du tribunal de grande instance, conformément aux dispositions de l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 fixant statut de la copropriété ;
+4° Pour le financement des travaux nécessaires au fonctionnement normal de la copropriété, lorsqu'un administrateur provisoire a été désigné par le président du tribunal judiciaire, conformément aux dispositions de l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 fixant statut de la copropriété ;
 
 5° Pour le financement des travaux d'accessibilité portant sur les parties communes ou équipements communs de l'immeuble.
 
@@ -1497,3 +1497,7 @@ La décision est notifiée au maître d'ouvrage par lettre recommandée avec acc
 Le paiement est effectué à l'agence comptable de l'ANAH dans le délai de deux mois à compter de la notification de la décision de reversement.
 
 A défaut de paiement dans les délais fixés, les débiteurs pourront se voir appliquer les intérêts légaux prévus par l'article 1153 du code civil.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

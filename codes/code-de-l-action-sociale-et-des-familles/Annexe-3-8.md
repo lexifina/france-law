@@ -332,7 +332,7 @@ L'accueillant familial s'engage à communiquer aux services chargés du suivi so
 
 Art. 10. - Litiges
 
-En cas de litige, le contentieux est ouvert devant le tribunal d'instance du lieu de résidence de l'accueillant familial.
+En cas de litige, le contentieux est ouvert devant le tribunal judiciaire du lieu de résidence de l'accueillant familial.
 
 Art. 11. - Durée de validité et renouvellement
 
@@ -357,3 +357,7 @@ La personne accueillie ou son représentant légal,
 (*) En cas d'agrément d'un couple, les deux membres doivent signer.
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

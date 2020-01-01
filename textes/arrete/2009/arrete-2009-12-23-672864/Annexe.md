@@ -44,9 +44,9 @@ Tant que vous conservez vos facultés, le mandat ne produit aucun effet.
 
 Lorsque le mandataire constate que votre état de santé ne vous permet plus de prendre soin de votre personne ou de vous occuper de vos affaires, il effectue les démarches nécessaires pour que le mandat prenne effet.
 
-Il sollicite alors qu'un médecin, inscrit sur la liste dressée par le procureur de la République, vous examine et délivre un certificat médical constatant votre inaptitude (cette liste des médecins est disponible dans les tribunaux d'instance).
+Il sollicite alors qu'un médecin, inscrit sur la liste dressée par le procureur de la République, vous examine et délivre un certificat médical constatant votre inaptitude (cette liste des médecins est disponible dans les tribunaux judiciaires).
 
-Le mandataire va ensuite présenter le mandat et le certificat médical au greffier du tribunal d'instance de votre domicile.
+Le mandataire va ensuite présenter le mandat et le certificat médical au greffier du tribunal judiciaire de votre domicile.
 
 Le greffier vérifiera que :
 
@@ -98,7 +98,7 @@ Y a-t-il des frais financiers à prévoir ?
 
 Etablissement du mandat : les frais incontournables sont ceux liés à l'enregistrement auprès de la recette des impôts pour donner une date certaine à chaque exemplaire original de votre mandat. Ces frais, de l'ordre de 125 €, sont à votre charge.
 
-Mise en œuvre du mandat : le coût du certificat médical constatant l'altération de vos facultés est à votre charge. Toutefois, aucun frais n'est requis lors de l'apposition du visa par le greffe du tribunal d'instance.
+Mise en œuvre du mandat : le coût du certificat médical constatant l'altération de vos facultés est à votre charge. Toutefois, aucun frais n'est requis lors de l'apposition du visa par le greffe du tribunal judiciaire.
 
 Exécution du mandat : le mandat de protection future s'exerce, en principe, à titre gratuit. Vous pouvez cependant prévoir dans le mandat une rémunération ou une indemnisation de votre ou de vos mandataires, ainsi que de la ou des personnes chargées du contrôle de l'exécution du mandat par le ou les mandataires.
 
@@ -148,7 +148,7 @@ Qualité de la personne désignée [1-A et 2-A]
 
 Vous pouvez désigner toute personne physique de votre entourage en laquelle vous avez confiance et qui vous semble avoir les compétences nécessaires pour assurer votre protection le moment venu. Vous pouvez également désigner un professionnel (avocat, notaire, syndic d'immeuble, etc.).
 
-Vous pouvez aussi désigner une personne morale, mais celle-ci doit être inscrite sur la liste des mandataires judiciaires à la protection des majeurs établie par le préfet. Cette liste est disponible dans les tribunaux d'instance et les préfectures.
+Vous pouvez aussi désigner une personne morale, mais celle-ci doit être inscrite sur la liste des mandataires judiciaires à la protection des majeurs établie par le préfet. Cette liste est disponible dans les tribunaux judiciaires et les préfectures.
 
 Les pouvoirs de votre mandataire
 
@@ -320,7 +320,7 @@ Cessation du mandat après sa mise en œuvre
 
 Le mandat prend fin de droit dans les situations suivantes :
 
-― si vous retrouvez vos facultés, ce qui doit être constaté par un certificat établi par un médecin inscrit sur la liste dressée par le procureur de la République, et présenté par le mandataire ou par vous-même au greffe du tribunal d'instance, qui appose son visa sur le mandat ;
+― si vous retrouvez vos facultés, ce qui doit être constaté par un certificat établi par un médecin inscrit sur la liste dressée par le procureur de la République, et présenté par le mandataire ou par vous-même au greffe du tribunal judiciaire, qui appose son visa sur le mandat ;
 
 ― si vous décédez ou si vous êtes placé sous mesure de curatelle ou de tutelle ;
 
@@ -364,7 +364,7 @@ Curatelle : mesure de protection d'une personne qui nécessite qu'elle soit assi
 
 Facultés : aptitudes d'une personne à faire, exprimer ou comprendre les actes et événements de sa vie.
 
-Greffier du tribunal d'instance : fonctionnaire chargé d'assister le juge d'instance et qui doit viser le mandat de protection future.
+Greffier du tribunal judiciaire : fonctionnaire chargé d'assister le juge du tribunal judiciaire et qui doit viser le mandat de protection future.
 
 Inventaire : liste de tous les biens d'une personne.
 
@@ -446,7 +446,7 @@ Il ne peut, pendant cette exécution, être déchargé de ses fonctions qu'avec 
 
 Art. 481.-Le mandat prend effet lorsqu'il est établi que le mandant ne peut plus pourvoir seul à ses intérêts. Celui-ci en reçoit notification dans les conditions prévues par le code de procédure civile.
 
-A cette fin, le mandataire produit au greffe du tribunal d'instance le mandat et un certificat médical émanant d'un médecin choisi sur la liste mentionnée à l'article 431 établissant que le mandant se trouve dans l'une des situations prévues à l'article 425. Le greffier vise le mandat et date sa prise d'effet, puis le restitue au mandataire.
+A cette fin, le mandataire produit au greffe du tribunal judiciaire le mandat et un certificat médical émanant d'un médecin choisi sur la liste mentionnée à l'article 431 établissant que le mandant se trouve dans l'une des situations prévues à l'article 425. Le greffier vise le mandat et date sa prise d'effet, puis le restitue au mandataire.
 
 Art. 482.-Le mandataire exécute personnellement le mandat. Toutefois, il peut se substituer un tiers pour les actes de gestion du patrimoine mais seulement à titre spécial.
 
@@ -527,3 +527,7 @@ Article 45
 [...]
 
 III.-Un mandat de protection future peut être confié à une personne physique dès la publication de la présente loi. Toutefois, ce mandat ne peut prendre effet qu'à compter de la date d'entrée en vigueur de celle-ci.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

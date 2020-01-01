@@ -4,7 +4,7 @@ CONVENTION TYPE COMMUNALE DE COORDINATION DE LA POLICE MUNICIPALE ET DES FORCES 
 
 (Annexe 1 prévue pour l'application de l'article R. 512-5)
 
-Entre le préfet de... et le maire de..., ainsi que le président de l'établissement public de coopération intercommunale à fiscalité propre dénommé... pour ce qui concerne la mise à disposition des agents de police municipale et de leurs équipements (le cas échéant), après avis du procureur de la République près le tribunal de grande instance de..., il est convenu ce qui suit :
+Entre le préfet de... et le maire de..., ainsi que le président de l'établissement public de coopération intercommunale à fiscalité propre dénommé... pour ce qui concerne la mise à disposition des agents de police municipale et de leurs équipements (le cas échéant), après avis du procureur de la République près le tribunal judiciaire de..., il est convenu ce qui suit :
 
 La police municipale et les forces de sécurité de l'Etat ont vocation, dans le respect de leurs compétences respectives, à intervenir sur la totalité du territoire de la commune.
 
@@ -179,3 +179,7 @@ La présente convention est conclue pour une durée de trois ans, renouvelable p
 Article 22
 
 Afin de veiller à la pleine application de la présente convention, le maire de... et le préfet de... ainsi que le président de l'établissement public de coopération intercommunale (le cas échéant) conviennent que sa mise en œuvre sera examinée par une mission d'évaluation associant l'inspection générale de l'administration du ministère de l'intérieur, selon des modalités précisées en liaison avec l'Association des maires de France.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

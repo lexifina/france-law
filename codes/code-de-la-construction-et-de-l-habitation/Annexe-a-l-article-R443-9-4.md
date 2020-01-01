@@ -64,7 +64,7 @@ La société est constituée pour une durée de ans
 
 Le point de départ de ce délai est la date de l'immatriculation au registre du commerce et des sociétés du greffe du tribunal dans le ressort duquel est situé son siège.
 
-Au moins un an avant la date d'expiration de la société, l'assemblée générale des associés décide, à la majorité de ses membres représentant au moins les deux tiers des voix, de proroger la durée de la société dans la mesure où cela est nécessaire aux associés personnes physiques pour achever d'acquérir l'ensemble des parts représentatives de leur logement.A défaut d'une convocation de l'assemblée générale, tout associé peut solliciter, par voie de requête auprès du président du tribunal de grande instance compétent, la désignation d'un mandataire de justice chargé de procéder à cette convocation.
+Au moins un an avant la date d'expiration de la société, l'assemblée générale des associés décide, à la majorité de ses membres représentant au moins les deux tiers des voix, de proroger la durée de la société dans la mesure où cela est nécessaire aux associés personnes physiques pour achever d'acquérir l'ensemble des parts représentatives de leur logement.A défaut d'une convocation de l'assemblée générale, tout associé peut solliciter, par voie de requête auprès du président du tribunal judiciaire compétent, la désignation d'un mandataire de justice chargé de procéder à cette convocation.
 
 Article 4
 
@@ -72,7 +72,7 @@ Siège social
 
 Le siège social de la société civile immobilière est situé à...................................................... (adresse complète : utiliser celle de l'organisme d'HLM ou de la SEM, associé gérant).
 
-Ce siège ne peut être transféré que sur décision unanime des associés. Toutefois, le transfert du siège dans une commune dépendant du même tribunal de grande instance peut être décidé par la gérance seule qui, dans ce cas, procède à la modification des statuts en conséquence.
+Ce siège ne peut être transféré que sur décision unanime des associés. Toutefois, le transfert du siège dans une commune dépendant du même tribunal judiciaire peut être décidé par la gérance seule qui, dans ce cas, procède à la modification des statuts en conséquence.
 
 TITRE II : LES APPORTS ET LE CAPITAL
 
@@ -532,4 +532,8 @@ Article 27
 
 Contestations
 
-Toute contestation qui pourrait s'élever pendant la durée de la société ou lors de la liquidation entre les associés, relativement aux affaires sociales, sera soumise au tribunal de grande instance compétent.
+Toute contestation qui pourrait s'élever pendant la durée de la société ou lors de la liquidation entre les associés, relativement aux affaires sociales, sera soumise au tribunal judiciaire compétent.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

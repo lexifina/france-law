@@ -128,7 +128,7 @@ Sans changement.
 
 Condé-sur-Noireau.
 
-Ressort des tribunaux d'instance de Vire, Falaise et Domfront.
+Ressort des tribunaux judiciaires de Vire, Falaise et Domfront.
 
 Lisieux.
 
@@ -146,7 +146,7 @@ Avranches.
 
 Coutances.
 
-Ressort des tribunaux de grande instance d'Avranches et Coutances.
+Ressort des tribunaux judiciaires d'Avranches et Coutances.
 
 Cherbourg.
 
@@ -158,7 +158,7 @@ Coutances.
 
 Coutances.
 
-Ressort des tribunaux de grande instance d'Avranches et Coutances.
+Ressort des tribunaux judiciaires d'Avranches et Coutances.
 
 Orne
 
@@ -182,7 +182,7 @@ Dijon.
 
 Dijon.
 
-Ressort des tribunaux d'instance de Dijon, Châtillon-sur-Seine et Semur-en-Auxois.
+Ressort des tribunaux judiciaires de Dijon, Châtillon-sur-Seine et Semur-en-Auxois.
 
 Beaune.
 
@@ -194,7 +194,7 @@ Chaumont.
 
 Chaumont.
 
-Ressort des tribunaux d'instance de Chaumont et de Langres, à l'exception du canton de Doulaincourt.
+Ressort des tribunaux judiciaires de Chaumont et de Langres, à l'exception du canton de Doulaincourt.
 
 Saint-Dizier.
 
@@ -206,11 +206,11 @@ Chalon-sur-Saône.
 
 Chalon-sur-Saône.
 
-Ressort des tribunaux d'instance de Chalon-sur-Saône et de Louhans.
+Ressort des tribunaux judiciaires de Chalon-sur-Saône et de Louhans.
 
 Le Creusot.
 
-Ressort des tribunaux d'instance du Creusot, de Montceau-les-Mines et d'Autun.
+Ressort des tribunaux judiciaires du Creusot, de Montceau-les-Mines et d'Autun.
 
 Mâcon.
 
@@ -382,11 +382,11 @@ Clermont-Ferrand.
 
 Clermont-Ferrand.
 
-Ressort des tribunaux d'instance de Clermont-Ferrand et Issoire.
+Ressort des tribunaux judiciaires de Clermont-Ferrand et Issoire.
 
 Thiers.
 
-Ressort des tribunaux d'instance d'Ambert et Thiers.
+Ressort des tribunaux judiciaires d'Ambert et Thiers.
 
 Riom.
 
@@ -394,9 +394,7 @@ Riom.
 
 Sans changement.
 
-Cour d'appel de Rouen
-
-Eure
+Cour d'appel de RouenEure
 
 Bernay.
 
@@ -432,7 +430,7 @@ Rouen.
 
 Rouen.
 
-Ressort des tribunaux d'instance de Rouen et Yvetot.
+Ressort des tribunaux judiciaires de Rouen et Yvetot.
 
 Elbeuf.
 
@@ -590,9 +588,9 @@ TC d'Alençon.
 
 Le département.
 
-Puy-de-Dôme
+Puy-de-DômeTC
 
-TC de Clermont-Ferrand.
+de Clermont-Ferrand.
 
 TC de Riom.
 
@@ -647,3 +645,7 @@ Vienne
 TC de Poitiers.
 
 Le département.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -44,7 +44,7 @@ Les époux peuvent adopter un enfant lorsque le mariage dure depuis plus de deux
 
 L'adoption peut être aussi demandée par un époux âgé de plus de vingt-huit ans avec le consentement de son conjoint.
 
-Un époux peut également adopter l'enfant de son conjoint sous certaines conditions. L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie si les conditions posées par la loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
+Un époux peut également adopter l'enfant de son conjoint sous certaines conditions. L'adoption est prononcée à la requête de l'adoptant par le tribunal judiciaire qui vérifie si les conditions posées par la loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
 
 Cette adoption peut être plénière, auquel cas le lien de filiation créé par l'adoption se substitue au lien de filiation d'origine, ou simple, les deux liens de filiation coexistant alors.
 
@@ -150,4 +150,4 @@ Les droits du conjoint survivant peuvent être aménagés par contrat de mariage
 
 NOTA :
 
-Décret 2004-1159 2004-10-29 art. 23 : Les modifications de l'annexe entrent en vigueur à Mayotte à partir du 1er janvier 2007.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

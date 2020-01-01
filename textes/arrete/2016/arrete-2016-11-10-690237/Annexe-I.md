@@ -1,8 +1,8 @@
 # Article Annexe I
 
-RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE DES MAGISTRATS DU SIÈGE DU TRIBUNAL DE GRANDE INSTANCE
+RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE DES MAGISTRATS DU SIÈGE DU TRIBUNAL JUDICIAIRE
 
-Par application des articles R. 212-23 à R. 212-33, R. 212-34 à R. 212-37-1 et R. 212-55 à R. 212-57 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des magistrats du siège du tribunal de grande instance.
+Par application des articles R. 212-23 à R. 212-33, R. 212-34 à R. 212-37-1 et R. 212-55 à R. 212-57 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des magistrats du siège du tribunal judiciaire.
 
 Il peut être adapté par chaque assemblée pour tenir compte de spécificités locales ou pour améliorer la concertation interne, conformément aux dispositions du deuxième alinéa de l'article R. 212-32 du code de l'organisation judiciaire.
 
@@ -10,7 +10,7 @@ Article 1er
 
 Conditions dans lesquelles se tiennent les réunions de l'assemblée (art. R. 212-23 du COJ)
 
-L'assemblée des magistrats du siège du tribunal de grande instance est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
+L'assemblée des magistrats du siège du tribunal judiciaire est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
 
 L'assemblée est fixée le jour où le nombre d'audiences est le plus réduit au sein de la juridiction, déterminé après consultation de la commission restreinte.
 
@@ -126,15 +126,15 @@ Toute demande de modification du règlement intérieur est inscrite d'office à 
 
 Règlement intérieur approuvé lors de la réunion de l'assemblée leà
 
-Le/la président(e) de l'assemblée,
+Le/ la président (e) de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
-Le/la secrétaire de l'assemblée,
+Le/ la secrétaire de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
@@ -248,13 +248,17 @@ SUFFRAGES OBTENUS |
 
 NBRE DE SIÈGES OBTENUS
 
-après application du QE |
+après application du QE
+
+|
 
 RESTE |
 
 NOMBRE TOTAL
 
-de sièges obtenus |
+de sièges obtenus
+
+|
 
 Liste A |
 
@@ -280,4 +284,8 @@ Répartition des sièges à l'intérieur des listes :
 
 Liste A : répartition des 2 sièges obtenus : les candidats V (30 voix) et X (12 voix)
 
-Liste B : répartition des 3 sièges obtenus : les candidats V' (25 voix), W' (25 voix) et X' (20 voix)
+Liste B : répartition des 3 sièges obtenus : les candidats V'(25 voix), W'(25 voix) et X'(20 voix)
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

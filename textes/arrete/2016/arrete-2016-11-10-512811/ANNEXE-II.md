@@ -2,25 +2,25 @@
 
 RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE DES MAGISTRATS DU SIÈGE ET DU PARQUET DU TRIBUNAL D'INSTANCE
 
-Par application des articles R. 222-11 à R. 222-21, R. 222-24 à R. 222-27 et R. 222-36 à R. 222-38 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des magistrats du siège et du parquet du tribunal d' instance.
+Par application des articles R. 222-11 à R. 222-21, R. 222-24 à R. 222-27 et R. 222-36 à R. 222-38 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des magistrats du siège et du parquet du tribunal judiciaire.
 
 Il peut être adapté par chaque assemblée pour tenir compte de spécificités locales ou pour améliorer la concertation interne, conformément aux dispositions de l'article R. 222-20 du code l'organisation judiciaire.
 
-Article 1. - Les conditions dans lesquelles se tiennent les réunions de l'assemblée (art. R. 222-11 COJ)
+Article 1.-Les conditions dans lesquelles se tiennent les réunions de l'assemblée (art. R. 222-11 COJ)
 
-L'assemblée des magistrats du siège et du parquet du tribunal d'instance est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
+L'assemblée des magistrats du siège et du parquet du tribunal judiciaire est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
 
 L'assemblée est fixée le jour où le nombre d'audiences est le plus réduit au sein de la juridiction, déterminé après consultation de la commission restreinte.
 
 Les réunions de l'assemblée se tiennent pendant les heures ouvrables.
 
-Article 2. - La désignation des membres du bureau pour chaque réunion de l'assemblée (art. R. 222-14 COJ)
+Article 2.-La désignation des membres du bureau pour chaque réunion de l'assemblée (art. R. 222-14 COJ)
 
 Le bureau est constitué pour chaque réunion de l'assemblée sur la base du volontariat. Il veille au bon fonctionnement de l'assemblée, règle les difficultés relatives aux procurations, tient les feuilles de présence et de vote, statue sur les quorums, fait procéder au vote et surveille le déroulement du scrutin.
 
 Si le nombre de volontaires est supérieur à deux, les membres du bureau sont tirés au sort parmi les volontaires. A défaut de volontaire, les deux membres constituant le bureau sont tirés au sort parmi les membres présents de l'assemblée.
 
-Article 3. - La fixation de l'ordre du jour (art. R. 222-17 COJ)
+Article 3.-La fixation de l'ordre du jour (art. R. 222-17 COJ)
 
 L'ordre du jour de l'assemblée est établi par son président. Toutefois le procureur de la République peut ajouter d'autres questions à l'ordre du jour.
 
@@ -28,25 +28,25 @@ Les questions relatives à l'organisation et au fonctionnement de la juridiction
 
 Elles doivent être remises, dans un délai de cinq jours ouvrables précédant l'assemblée, au président de l'assemblée. Les questions devront être rédigées par écrit et être accompagnées du nom des demandeurs. Le président informe sans délai les membres de l'assemblée par tout moyen des questions ajoutées à l'ordre du jour.
 
-Article 4. - Les modalités de convocation (art. R. 222-20 COJ)
+Article 4.-Les modalités de convocation (art. R. 222-20 COJ)
 
 Dix jours ouvrables au moins avant la réunion de l'assemblée, le président convoque les membres de l'assemblée par courrier électronique, auquel sont joints l'ordre du jour ainsi que les documents nécessaires à l'examen de celui-ci.
 
-Afin de favoriser la participation du plus grand nombre à l'assemblée, un planning prévisionnel annuel indicatif doit être proposé par le magistrat chargé de la direction et de l'administration du tribunal d'instance, en concertation avec le procureur de la République et le directeur de greffe. Il doit ensuite être diffusé à l'ensemble des membres de la juridiction.
+Afin de favoriser la participation du plus grand nombre à l'assemblée, un planning prévisionnel annuel indicatif doit être proposé par le magistrat chargé de la direction et de l'administration du tribunal judiciaire, en concertation avec le procureur de la République et le directeur de greffe. Il doit ensuite être diffusé à l'ensemble des membres de la juridiction.
 
-Article 5. - Les modalités de désignation du secrétaire (art. R. 222-20 COJ)
+Article 5.-Les modalités de désignation du secrétaire (art. R. 222-20 COJ)
 
 Un secrétaire est désigné par l'assemblée.
 
-Article 6. - Les conditions de délibération (art. R. 222-17 COJ)
+Article 6.-Les conditions de délibération (art. R. 222-17 COJ)
 
 Le président de l'assemblée veille au bon déroulement des débats et au respect de la libre expression de chacun.
 
-Article 7. - Les modalités de dépouillement des votes (art. R. 222-20 COJ)
+Article 7.-Les modalités de dépouillement des votes (art. R. 222-20 COJ)
 
 En cas de vote à bulletin secret, le dépouillement est assuré par le bureau en présence de l'ensemble de ses membres.
 
-Article 8. - Les modalités d'établissement et de dépôt des procès-verbaux des délibérations (art. R. 222-20 COJ)
+Article 8.-Les modalités d'établissement et de dépôt des procès-verbaux des délibérations (art. R. 222-20 COJ)
 
 Le procès-verbal de chaque réunion de l'assemblée est établi par le secrétaire puis communiqué aux membres du bureau, qui transmettent leurs observations éventuelles dans un délai de dix jours. Il est ensuite diffusé auprès de l'ensemble des membres de l'assemblée par courrier électronique sous quinze jours, avec sa signature et celle du président de l'assemblée.
 
@@ -54,7 +54,7 @@ Outre les décisions prises et les avis émis, le procès-verbal fait apparaîtr
 
 Chaque membre de l'assemblée a dix jours pour présenter ses observations écrites à la suite de cet envoi, lesquelles seront annexées au procès-verbal de l'assemblée.
 
-Article 9. - Composition de la commission restreinte (art. R. 222-36 COJ)
+Article 9.-Composition de la commission restreinte (art. R. 222-36 COJ)
 
 La commission restreinte, outre son président, comprend entre deux et dix membres, ce nombre étant fixé par l'assemblée en tenant compte de ses effectifs.
 
@@ -64,7 +64,7 @@ L'ensemble des membres de la commission, titulaires et suppléants, sont convoqu
 
 En cas de départ de la juridiction concomitant du membre titulaire et de son suppléant, il est procédé à de nouvelles élections partielles pour désigner un nouveau membre titulaire et son suppléant. Les mandats de ces nouveaux élus expirent en même temps que ceux des autres membres.
 
-Article 10. - Modalités d'élection des membres de la commission restreinte (art. R. 222-36 COJ)
+Article 10.-Modalités d'élection des membres de la commission restreinte (art. R. 222-36 COJ)
 
 a) L'élection se tient dans le mois précédant l'expiration du mandat de la commission à la diligence du président de celle-ci. Elle se fait au scrutin proportionnel avec panachage et vote préférentiel ;
 
@@ -86,7 +86,7 @@ Les opérations de dépouillement sont ouvertes aux membres de l'assemblée.
 
 Un cas concret à valeur d'exemple est présenté en annexe du présent règlement intérieur.
 
-Article 11. - Règles de fonctionnement de la commission restreinte (art. R. 222-36 COJ)
+Article 11.-Règles de fonctionnement de la commission restreinte (art. R. 222-36 COJ)
 
 La commission restreinte est réunie à la diligence de son président quinze jours au moins avant la tenue de l'assemblée. La convocation des membres de la commission leur est adressée par le président par courrier électronique huit jours au moins avant la tenue de sa réunion : à cette convocation sont joints les propositions et projets qu'il envisage de soumettre à l'assemblée sur les questions inscrites à l'ordre du jour.
 
@@ -98,23 +98,23 @@ Un compte rendu de la réunion de la commission est établi, signé par le prés
 
 Chaque membre de la commission a cinq jours pour présenter ses observations écrites à la suite de cet envoi, lesquelles seront annexées au compte rendu de la réunion de la commission.
 
-Article 12. - Modalités de révision du règlement intérieur
+Article 12.-Modalités de révision du règlement intérieur
 
 Toute demande de modification du règlement intérieur est inscrite d'office à l'ordre du jour de l'assemblée dès lors qu'elle est présentée par le tiers des membres de l'assemblée ou par la majorité des membres de la commission restreinte dans les conditions fixées par l'article 3 du présent règlement intérieur.
 
 Règlement intérieur approuvé lors de la réunion de l'assemblée leà
 
-Le/la président(e) de l'assemblée
+Le/ la président (e) de l'assemblée
 
-M./Mme
+M./ Mme
 
 Signature
 
 |
 
-Le/la secrétaire de l'assemblée
+Le/ la secrétaire de l'assemblée
 
-M./Mme
+M./ Mme
 
 Signature
 
@@ -278,7 +278,7 @@ B
 
 |
 
-Détermination du quotient électoral : 120/4=30
+Détermination du quotient électoral : 120/4 = 30
 
 Attribution du nombre de sièges pour chaque liste :
 
@@ -354,4 +354,8 @@ les candidats X (12 voix) et Y (10 voix)
 
 Liste B : répartition des 2 sièges obtenus :
 
-les candidats W' (25 voix) et X' (20 voix)
+les candidats W'(25 voix) et X'(20 voix)
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

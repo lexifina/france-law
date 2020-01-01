@@ -24,11 +24,11 @@ Fax : 02-99-80-29-41.
 
 Courriel :
 
-Composition : producteurs / transformateurs (X) autres ()
+Composition : producteurs/ transformateurs (X) autres ()
 
 Statut juridique : syndicat professionnel régi conformément au code du travail.
 
-Type de produit : classe 1. 1., viande (et abats) frais.
+Type de produit : classe 1.1., viande (et abats) frais.
 
 1. Nom du produit
 
@@ -94,7 +94,7 @@ L'identification des secteurs autonome de pâturage de marais salés est effectu
 
 Tout éleveur ou groupement d'éleveurs désirant faire identifier un secteur autonome de pâturage en fait la demande auprès des services de l'INAO, avant le 31 mars de l'année précédant celle de l'utilisation du ou des secteurs autonomes de pâturage en vue de produire de la viande à appellation d'origine Prés-salés du Mont-Saint-Michel.
 
-La demande est enregistrée par les services de l'INAO et le secteur autonome de pâturage concerné est inscrit sur une liste des secteurs autonomes de pâturage identifiés consultable auprès de ces services et du groupement intéressé.L'identification du secteur autonome est soumise à un examen régulier des caractéristiques floristiques afin de vérifier la capacité du secteur autonome identifié à alimenter le troupeau. Tout secteur autonome de pâturage inscrit dans la liste et pour lequel les critères ne sont pas respectés est retiré de cette liste sur décision des services de l'INAO après avis de la commission d'experts.
+La demande est enregistrée par les services de l'INAO et le secteur autonome de pâturage concerné est inscrit sur une liste des secteurs autonomes de pâturage identifiés consultable auprès de ces services et du groupement intéressé. L'identification du secteur autonome est soumise à un examen régulier des caractéristiques floristiques afin de vérifier la capacité du secteur autonome identifié à alimenter le troupeau. Tout secteur autonome de pâturage inscrit dans la liste et pour lequel les critères ne sont pas respectés est retiré de cette liste sur décision des services de l'INAO après avis de la commission d'experts.
 
 La demande d'identification doit être renouvelée en cas de modification de l'activité pastorale sur un secteur autonome identifié et au plus tard tous les cinq ans.
 
@@ -126,7 +126,7 @@ La tenue de ces registres par l'éleveur est complétée par l'obligation de fou
 
 ― la déclaration de départ de l'exploitation pour abattage : cette déclaration est adressée aux services de contrôle au plus tard le jour du départ des agneaux pour l'abattoir, elle contient les numéros d'identification individuelle des agneaux ainsi que la date d'abattage ;
 
-― les déclarations de situation des opérateurs prévues aux points 5. 2 et 5. 3 relatives au chargement maximal sur les parcelles de repli, à l'interdiction de distribution d'ensilage de maïs et à la durée minimale de période de pâturage : ces déclarations sont adressées au groupement concomitamment à la déclaration d'identification et contiennent notamment un état des lieux des pratiques par rapport aux dispositions prévues aux points précités ou le cas échéant, la déclaration de conformité à un ou plusieurs de ces points au jour de la déclaration.
+― les déclarations de situation des opérateurs prévues aux points 5.2 et 5.3 relatives au chargement maximal sur les parcelles de repli, à l'interdiction de distribution d'ensilage de maïs et à la durée minimale de période de pâturage : ces déclarations sont adressées au groupement concomitamment à la déclaration d'identification et contiennent notamment un état des lieux des pratiques par rapport aux dispositions prévues aux points précités ou le cas échéant, la déclaration de conformité à un ou plusieurs de ces points au jour de la déclaration.
 
 Toute interruption du pâturage sur le marais salé non conforme aux périodes et horaires prévus fait l'objet d'une déclaration précise auprès des services de contrôle.
 
@@ -160,7 +160,7 @@ Depuis l'agnelage jusqu'à la distribution, les animaux portent un marquage d'id
 
 Les agneaux doivent être nés, élevés et abattus dans l'aire géographique précisée au point 3 du présent cahier des charges.
 
-5. 1. Race et reproduction
+5.1. Race et reproduction
 
 Les animaux du troupeau destiné à la production de l'appellation d'origine Prés-salés du Mont-Saint-Michel sont adaptés aux difficultés du pâturage sur le marais salé : conditions climatiques rigoureuses, risque d'enlisement, marche prolongée, végétation halophile.
 
@@ -170,7 +170,7 @@ Les femelles reproductrices sont, à l'exception de situations particulières de
 
 Le schéma de sélection des femelles reproductrices est fondé sur la prolificité, les qualités maternelles, l'aptitude à la marche et l'adaptation au milieu.
 
-5. 2. Règles générales de conduite des animaux
+5.2. Règles générales de conduite des animaux
 
 Les règles générales de conduite des animaux sur les marais salés visent notamment à préserver les caractéristiques de la viande d'appellation d'origine Prés-salés du Mont-Saint-Michel mais aussi les équilibres naturels très fragiles des marais salés :
 
@@ -180,7 +180,7 @@ Les règles générales de conduite des animaux sur les marais salés visent not
 
 ― les animaux pâturant sur les marais salés sont surveillés quotidiennement ;
 
-― les béliers sont génotypés ARR / ARR ;
+― les béliers sont génotypés ARR/ ARR ;
 
 ― les animaux porteurs de lésions liées à une parasitose sont isolés et traités en dehors du marais salé ;
 
@@ -190,15 +190,15 @@ Les règles générales de conduite des animaux sur les marais salés visent not
 
 Le chargement des agneaux et brebis sur les secteurs autonomes de pâturage identifiés et sur les parcelles de repli est limité :
 
-― sur le marais salé, le chargement maximal instantané est défini par les services de l'INAO au moment de l'identification des secteurs autonomes de pâturage de marais salés après avis d'une commission d'experts sans qu'il ne puisse excéder 0, 9 UGB / ha.
+― sur le marais salé, le chargement maximal instantané est défini par les services de l'INAO au moment de l'identification des secteurs autonomes de pâturage de marais salés après avis d'une commission d'experts sans qu'il ne puisse excéder 0,9 UGB/ ha.
 
-― sur les parcelles de repli, les surfaces en herbe sont supérieures ou égales à 2, 75 mètres carrés par brebis et par jour de repli.L'exploitation de moins de 2, 75 mètres carrés de surfaces en herbe de repli par brebis et par jour de repli est admise jusqu'au 1er janvier 2015. Dans ce cas, les surfaces en herbe de repli par brebis et par jour de repli devront être supérieures ou égales à 1 mètre carré au 1er janvier 2013. Les opérateurs concernés souscrivent une déclaration de situation selon les modalités prévues au point 4 a du présent cahier des charges.
+― sur les parcelles de repli, les surfaces en herbe sont supérieures ou égales à 2,75 mètres carrés par brebis et par jour de repli. L'exploitation de moins de 2,75 mètres carrés de surfaces en herbe de repli par brebis et par jour de repli est admise jusqu'au 1er janvier 2015. Dans ce cas, les surfaces en herbe de repli par brebis et par jour de repli devront être supérieures ou égales à 1 mètre carré au 1er janvier 2013. Les opérateurs concernés souscrivent une déclaration de situation selon les modalités prévues au point 4 a du présent cahier des charges.
 
-5. 3. Pratiques d'élevage et alimentation des agneaux
+5.3. Pratiques d'élevage et alimentation des agneaux
 
 L'élevage des agneaux comporte 3 phases successives : une période post-natale, une période de pâturage maritime, et le cas échéant une période facultative de finition, telles que définies par le tableau ci-dessous :
 
-Vous pouvez consulter le tableau dans le JO n° 241 du 17 / 10 / 2009 texte numéro 52
+Vous pouvez consulter le tableau dans le JO n° 241 du 17/10/2009 texte numéro 52
 
 Dans tous les cas, la période de pâturage maritime, y compris le pâturage des replis lors les journées de recouvrement du marais salé par les marées de vives eaux, représente au moins la moitié de la durée de vie de l'animal.
 
@@ -240,7 +240,7 @@ Les concentrés consommés le cas échéant proviennent, pour au moins 50 % des 
 
 Seuls sont autorisés dans l'alimentation des ovins présents dans l'exploitation les végétaux, coproduits et aliments issus de produits non transgéniques. Aucun produit d'origine animale à l'exception des produits laitiers ne doit entrer dans la composition des aliments utilisés dans les élevages de prés-salés.
 
-5. 4. Transport et abattage
+5.4. Transport et abattage
 
 La durée maximale de transfert des agneaux à l'abattoir, qui s'écoule entre le départ des agneaux depuis le premier chargement et leur arrivée à l'abattoir, est inférieure ou égale à quatre heures.
 
@@ -268,7 +268,7 @@ Les marais salés ou herbus forment la partie supérieure de la zone de balancem
 
 Ces espaces sont entaillés profondément par des chenaux, appelés localement criches, qui se ramifient en chenaux secondaires formant ainsi un réseau extrêmement dense qui divise les herbus en plusieurs unités de fonctionnement et génèrent autant d'obstacles au cheminement des ovins.
 
-La végétation adaptée à la salinité du sol et à la submersion est composée de plantes dites halophytes. Ces espèces, dont la puccinellie (Puccinellia maritima), qui forme l'essentiel de l'alimentation des ovins, présente une croissance assez tardive et se développe d'autant mieux que le pâturage est régulier.C'est ainsi que des secteurs insuffisamment pâturés de la baie du Mont-Saint-Michel et des havres du Cotentin sont envahis par une plante invasive et de faible intérêt écologique : le chiendent maritime.
+La végétation adaptée à la salinité du sol et à la submersion est composée de plantes dites halophytes. Ces espèces, dont la puccinellie (Puccinellia maritima), qui forme l'essentiel de l'alimentation des ovins, présente une croissance assez tardive et se développe d'autant mieux que le pâturage est régulier. C'est ainsi que des secteurs insuffisamment pâturés de la baie du Mont-Saint-Michel et des havres du Cotentin sont envahis par une plante invasive et de faible intérêt écologique : le chiendent maritime.
 
 Les marais salés constituent aussi un territoire à haute valeur naturelle. Ils sont le siège d'une très forte production biologique, formant des habitats protégés par le programme européen Natura 2000 et générant des ressources alimentaires pour de nombreuses populations sauvages ainsi que pour les productions conchylicoles.
 
@@ -296,7 +296,7 @@ Cette production est attestée dans la baie du Mont-Saint-Michel depuis le xie s
 
 L'élevage de prés-salés a constitué de tout temps une activité développée par la population littorale qui s'intégrait aux différentes productions de l'estran (pêche à pied, coquillages...) et à une petite agriculture qui lui était également liée notamment par la valorisation du varech et de la tangue pour les cultures légumières. Cette activité était, pour partie, le fait de petits agriculteurs ou de salariés (ouvriers agricoles, pêcheurs...) qui complétaient ainsi leur revenu.
 
-Jusqu'à la première moitié du XXe siècle, à l'exception des polders du Mont-Saint-Michel où des troupeaux relativement importants sont menés sur le marais salé sous la garde de bergers, les moutons sont conduits par groupe de 2 à 4, attachés ensemble.A partir de la deuxième moitié du XXe siècle, des élevages davantage spécialisés et disposant de bergeries vont se constituer.
+Jusqu'à la première moitié du XXe siècle, à l'exception des polders du Mont-Saint-Michel où des troupeaux relativement importants sont menés sur le marais salé sous la garde de bergers, les moutons sont conduits par groupe de 2 à 4, attachés ensemble. A partir de la deuxième moitié du XXe siècle, des élevages davantage spécialisés et disposant de bergeries vont se constituer.
 
 b) Spécificité du produit.
 
@@ -310,9 +310,9 @@ Eléments historiques liés à la réputation :
 
 La réputation des ovins produits sur les herbus de la baie du Mont-Saint-Michel et des havres du Cotentin est très ancienne. Le goût de l'archevêque de Rouen pour la viande des moutons élevés près du Mont-Saint-Michel est signalé au xie siècle. Plus tard, le voyageur Pierre Thomas du Fosse, savant et littérateur rouennais, venu à Pontorson au cours de l'été 1691, fait le constat suivant : L'herbe du bord de mer est comme du serpolet, elle donne à la viande des moutons un goût si exquis que l'on quitterait les perdrix et les faisans tant la viande en paraît délicieuse.
 
-Cette viande bénéficie d'une notoriété attestée par des prix de vente supérieurs, aux halles de Paris. Péon (vétérinaire) notait à la fin du XIXe siècle des différences de + 10 à + 100 % entre pré-salé et agneau commun. En 2003, le prix moyen de l'agneau français s'établissait à 5 € contre 7, 50 à 8 € pour le pré-salé.
+Cette viande bénéficie d'une notoriété attestée par des prix de vente supérieurs, aux halles de Paris. Péon (vétérinaire) notait à la fin du XIXe siècle des différences de + 10 à + 100 % entre pré-salé et agneau commun. En 2003, le prix moyen de l'agneau français s'établissait à 5 € contre 7,50 à 8 € pour le pré-salé.
 
-Cette réputation a débouché sur différentes usurpations du terme pré-salé qui ont donné lieu à des jugements de juridictions nationales. Ainsi, le tribunal de grande instance de la Seine, dans son jugement du 12 février 1964, indique que l'appellation agneau de pré-salé ne peut être donnée qu'à un agneau élevé en bordure de la mer, mangeant l'herbe des prés baignés de cette eau.... Le 24 janvier 1986, un jugement de la cour d'appel de Caen a précisé que les moutons conduits périodiquement sur les pâturages, périodiquement recouverts par la mer et dont le sol est constamment imprégné d'eau de mer et où croît une végétation très particulière, sont dénommés habituellement moutons de prés-salés. Il ajoute qu'une qualité particulière est reconnue à la chair des animaux ainsi élevés.
+Cette réputation a débouché sur différentes usurpations du terme pré-salé qui ont donné lieu à des jugements de juridictions nationales. Ainsi, le tribunal judiciaire de la Seine, dans son jugement du 12 février 1964, indique que l'appellation agneau de pré-salé ne peut être donnée qu'à un agneau élevé en bordure de la mer, mangeant l'herbe des prés baignés de cette eau.... Le 24 janvier 1986, un jugement de la cour d'appel de Caen a précisé que les moutons conduits périodiquement sur les pâturages, périodiquement recouverts par la mer et dont le sol est constamment imprégné d'eau de mer et où croît une végétation très particulière, sont dénommés habituellement moutons de prés-salés. Il ajoute qu'une qualité particulière est reconnue à la chair des animaux ainsi élevés.
 
 c) Lien causal entre l'aire géographique et la qualité ou les caractéristiques du produit.
 
@@ -394,7 +394,7 @@ Appartenance à la liste des marais salés identifiés par l'INAO.
 
 |
 
-Documentaire et / ou visuel.
+Documentaire et/ ou visuel.
 
 |
 
@@ -406,7 +406,7 @@ Femelle d'origine pré-salé, mâle issu des sept races retenues.
 
 |
 
-Documentaire et / ou visuel.
+Documentaire et/ ou visuel.
 
 |
 
@@ -430,7 +430,7 @@ Durée minimale de la période de pâturage maritime.
 
 |
 
-Documentaire et / ou visuel.
+Documentaire et/ ou visuel.
 
 |
 
@@ -438,7 +438,7 @@ Quantité maximale de concentrés distribués.
 
 |
 
-Quantité maximale quotidienne de 400 g / j, réalisée que le soir en appoint au retour des animaux, les auges et les nourrisseurs devant être vides le matin lors du départ pour le marais.
+Quantité maximale quotidienne de 400 g/ j, réalisée que le soir en appoint au retour des animaux, les auges et les nourrisseurs devant être vides le matin lors du départ pour le marais.
 
 |
 
@@ -450,7 +450,7 @@ Durée de la finition facultative.
 
 |
 
-Durée de la période de finition limitée 30 jours avant le 1er / 09 puis 40 jours.
+Durée de la période de finition limitée 30 jours avant le 1er/09 puis 40 jours.
 
 |
 
@@ -466,7 +466,7 @@ Présentation et appartenance des concentrés distribués à la liste.
 
 |
 
-Documentaire et / ou visuel et / ou analytique.
+Documentaire et/ ou visuel et/ ou analytique.
 
 |
 
@@ -489,3 +489,7 @@ Documentaire.
 Examen organoleptique.
 
 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

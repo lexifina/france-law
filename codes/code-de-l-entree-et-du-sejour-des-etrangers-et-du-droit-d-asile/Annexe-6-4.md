@@ -106,7 +106,7 @@ b) Données relatives aux procédures juridictionnelles mises en œuvre dans le 
 
 2° Recours contentieux (type de recours, juridiction saisie, date et heure du recours, date et heure de l'audience, décision) ;
 
-3° Présentation devant le juge des libertés et de la détention aux fins de prolongation de la rétention administrative (requête aux fins de prolongation, date, heure et lieu de la présentation, adresse du greffe du tribunal de grande instance compétent) ;
+3° Présentation devant le juge des libertés et de la détention aux fins de prolongation de la rétention administrative (requête aux fins de prolongation, date, heure et lieu de la présentation, adresse du greffe du tribunal judiciaire compétent) ;
 
 4° Décision du juge des libertés et de la détention (prolongation de la rétention, refus de prolongation, assignation à résidence, date et heure de l'ordonnance) ;
 
@@ -114,7 +114,7 @@ b) Données relatives aux procédures juridictionnelles mises en œuvre dans le 
 
 6° Procédure d'appel (autorité ou personne à l'origine de l'appel, date et heure de la demande, date et heure de l'audience, décision) ;
 
-7° Refus d'identification de l'étranger (date, heure et lieu du refus, service de police et parquet compétents, date de présentation au parquet, décision du parquet, date et lieu de présentation au tribunal de grande instance, décision du tribunal) ;
+7° Refus d'identification de l'étranger (date, heure et lieu du refus, service de police et parquet compétents, date de présentation au parquet, décision du parquet, date et lieu de présentation au tribunal judiciaire, décision du tribunal) ;
 
 8° Non-respect d'une assignation à résidence (date et heure du procès-verbal de carence, date et heure du dernier contrôle, procédure d'information du parquet).
 
@@ -330,4 +330,4 @@ Les données sont celles figurant au b du C de la section 2 de la présente anne
 
 NOTA :
 
-Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er janvier 2020.

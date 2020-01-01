@@ -10,9 +10,9 @@ Le programme de la scolarité se présente sous trois axes :
 
 1. Environnement professionnel et technologique du greffier :
 
-― environnement professionnel (organisation judiciaire, statuts/déontologie, dialogue social, archives) ;
+― environnement professionnel (organisation judiciaire, statuts/ déontologie, dialogue social, archives) ;
 
-― environnement technologique (Windows, traitement de texte, internet/intranet, messagerie électronique).
+― environnement technologique (Windows, traitement de texte, internet/ intranet, messagerie électronique).
 
 2. Le greffier, technicien de la procédure pénale :
 
@@ -28,7 +28,7 @@ Le programme de la scolarité se présente sous trois axes :
 
 3. Le greffier, personnel d'encadrement intermédiaire :
 
-― encadrement intermédiaire/gestion du temps.
+― encadrement intermédiaire/ gestion du temps.
 
 II. ― Les stages, articulés par rapport à la scolarité, sont constitués :
 
@@ -36,7 +36,7 @@ II. ― Les stages, articulés par rapport à la scolarité, sont constitués :
 
 ― stage découverte au tribunal de grande instance (cinq jours) ;
 
-― stage découverte au tribunal d'instance (trois jours) ;
+― stage découverte au tribunal judiciaire (trois jours) ;
 
 ― stage découverte au conseil des prud'hommes (deux jours) ;
 
@@ -59,3 +59,7 @@ II. ― Les stages, articulés par rapport à la scolarité, sont constitués :
 ― stage à l'application des peines : deux semaines ;
 
 ― d'un stage de perfectionnement permettant au stagiaire d'être placé dans la situation de son futur poste (deux semaines) et d'approfondir l'ensemble des fonctions qui vont lui être confiées (stage de préaffectation sur un poste similaire à celui qui sera attribué).
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

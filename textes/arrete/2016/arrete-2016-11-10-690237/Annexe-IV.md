@@ -1,8 +1,8 @@
 # Article Annexe IV
 
-RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE DES FONCTIONNAIRES DU GREFFE ET DU SECRÉTARIAT AUTONOME DU TRIBUNAL DE GRANDE INSTANCE
+RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE DES FONCTIONNAIRES DU GREFFE ET DU SECRÉTARIAT AUTONOME DU TRIBUNAL JUDICIAIRE
 
-Par application des articles R. 212-23 à R. 212-33, R. 212-45 à R. 212-48 et R. 212-55 à R. 212-57 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des fonctionnaires du greffe et du secrétariat de parquet autonome du tribunal de grande instance.
+Par application des articles R. 212-23 à R. 212-33, R. 212-45 à R. 212-48 et R. 212-55 à R. 212-57 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée des fonctionnaires du greffe et du secrétariat de parquet autonome du tribunal judiciaire.
 
 Il peut être adapté par chaque assemblée pour tenir compte de spécificités locales ou pour améliorer la concertation interne, conformément aux dispositions du deuxième alinéa de l'article R. 212-32 du code de l'organisation judiciaire.
 
@@ -10,7 +10,7 @@ Article 1er
 
 Conditions dans lesquelles se tiennent les réunions de l'assemblée (art. R. 212-23 du COJ)
 
-L'assemblée des fonctionnaires du tribunal de grande instance est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
+L'assemblée des fonctionnaires du tribunal judiciaire est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de sa commission restreinte.
 
 L'assemblée est fixée le jour où le nombre d'audiences est le plus réduit au sein de la juridiction, déterminé après consultation de la commission restreinte.
 
@@ -28,7 +28,7 @@ Article 3
 
 Fixation de l'ordre du jour (art. R. 212-29 du COJ)
 
-L'ordre du jour de l'assemblée est établi par son président. Toutefois, le président du tribunal de grande instance et le procureur de la République peuvent ajouter d'autres questions à l'ordre du jour.
+L'ordre du jour de l'assemblée est établi par son président. Toutefois, le président du tribunal judiciaire et le procureur de la République peuvent ajouter d'autres questions à l'ordre du jour.
 
 Les questions relatives à l'organisation et au fonctionnement de la juridiction, proposées par le tiers des membres de l'assemblée ou par la majorité des membres de sa commission restreinte, sont inscrites d'office à l'ordre du jour.
 
@@ -128,21 +128,21 @@ Toute demande de modification du règlement intérieur est inscrite d'office à 
 
 Règlement intérieur approuvé lors de la réunion de l'assemblée leà
 
-Le/la président(e) de l'assemblée,
+Le/ la président (e) de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
-Le/la secrétaire de l'assemblée,
+Le/ la secrétaire de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
 Annexe
 
-Cas concret à valeur d'exemple : 30 électeurs, 4 sièges à pourvoir, 30 × 4=120 suffrages exprimés
+Cas concret à valeur d'exemple : 30 électeurs, 4 sièges à pourvoir, 30 × 4 = 120 suffrages exprimés
 
 Deux listes sont en présence.
 
@@ -224,7 +224,7 @@ B |
 
 5 |
 
-Détermination du quotient électoral : 120/4=30
+Détermination du quotient électoral : 120/4 = 30
 
 Attribution du nombre de sièges pour chaque liste :
 
@@ -234,13 +234,17 @@ SUFFRAGES OBTENUS |
 
 NOMBRE DE SIÈGES OBTENUS
 
-après application du QE |
+après application du QE
+
+|
 
 RESTE |
 
 NOMBRE TOTAL
 
-de sièges obtenus |
+de sièges obtenus
+
+|
 
 Liste A |
 
@@ -270,4 +274,8 @@ les candidats X (12 voix) et Y (10 voix)
 
 Liste B : répartition des 2 sièges obtenus :
 
-les candidats W' (25 voix) et X' (20 voix)
+les candidats W'(25 voix) et X'(20 voix)
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

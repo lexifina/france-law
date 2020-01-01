@@ -1,8 +1,8 @@
 # Article Annexe V
 
-RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE PLÉNIÈRE DES MAGISTRATS ET DES FONCTIONNAIRES DU TRIBUNAL DE GRANDE INSTANCE
+RÈGLEMENT INTÉRIEUR TYPE DE L'ASSEMBLÉE PLÉNIÈRE DES MAGISTRATS ET DES FONCTIONNAIRES DU TRIBUNAL JUDICIAIRE
 
-Par application des articles R. 212-23 à R. 212-33, R. 212-49 à R. 212-54-1 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée plénière du tribunal de grande instance.
+Par application des articles R. 212-23 à R. 212-33, R. 212-49 à R. 212-54-1 du code de l'organisation judiciaire, le présent règlement intérieur régit l'assemblée plénière du tribunal judiciaire.
 
 Il peut être adapté par chaque assemblée plénière pour tenir compte de spécificités locales ou pour améliorer la concertation interne, conformément aux dispositions du deuxième alinéa de l'article R. 212-32 du code de l'organisation judiciaire.
 
@@ -10,7 +10,7 @@ Article 1er
 
 Conditions dans lesquelles se tiennent les réunions de l'assemblée plénière (art. R. 212-23 du COJ)
 
-L'assemblée plénière du tribunal de grande instance est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de la commission plénière.
+L'assemblée plénière du tribunal judiciaire est réunie au moins une fois par an, au cours du mois de novembre. En outre, elle peut être réunie à tout autre moment de l'année, soit à l'initiative de son président, soit à la demande de la majorité de ses membres, soit à la demande des deux tiers des membres de la commission plénière.
 
 L'assemblée est fixée le jour où le nombre d'audiences est le plus réduit au sein de la juridiction, déterminé après consultation de la commission plénière.
 
@@ -74,13 +74,13 @@ Article 9
 
 Composition de la commission plénière (art. R. 212-51 du COJ)
 
-Présidée par le président du tribunal de grande instance, la commission plénière comprend en qualité de membres de droit le procureur de la République et le ou les directeurs de greffe.
+Présidée par le président du tribunal judiciaire, la commission plénière comprend en qualité de membres de droit le procureur de la République et le ou les directeurs de greffe.
 
 Elle comprend en outre les membres des commissions restreintes de l'assemblée des magistrats du siège et du parquet et de l'assemblée des fonctionnaires.
 
 Dans les juridictions qui ne comportent pas de commissions restreintes, les membres de la commission plénière sont élus par l'assemblée des magistrats du siège et du parquet et par l'assemblée des fonctionnaires, au scrutin de liste proportionnel avec panachage et vote préférentiel.
 
-Le président du tribunal de grande instance détermine les modalités de dépôt des candidatures et de l'élection. Six membres au total doivent être élus, trois parmi l'assemblée des magistrats du siège et du parquet et trois parmi l'assemblée des fonctionnaires.
+Le président du tribunal judiciaire détermine les modalités de dépôt des candidatures et de l'élection. Six membres au total doivent être élus, trois parmi l'assemblée des magistrats du siège et du parquet et trois parmi l'assemblée des fonctionnaires.
 
 Un bureau ad hoc composé du président et de deux volontaires ou, à défaut, du plus jeune et du plus âgé des membres de l'assemblée, dans sa composition au jour des élections de la commission plénière, calcule le nombre de voix obtenues par chaque liste en additionnant les suffrages acquis par chaque candidat ayant fait acte de candidature au titre de cette liste.
 
@@ -102,21 +102,21 @@ Toute demande de modification du règlement intérieur est inscrite d'office à 
 
 Règlement intérieur approuvé lors de la réunion de l'assemblée leà
 
-Le/la président(e) de l'assemblée,
+Le/ la président (e) de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
-Le/la secrétaire de l'assemblée,
+Le/ la secrétaire de l'assemblée,
 
-M./Mme
+M./ Mme
 
 Signature
 
 Annexe
 
-Cas concret à valeur d'exemple : 30 électeurs de l'assemblée des magistrats du siège et du parquet, 3 sièges de magistrats à pourvoir, 30 × 3=90 suffrages exprimés
+Cas concret à valeur d'exemple : 30 électeurs de l'assemblée des magistrats du siège et du parquet, 3 sièges de magistrats à pourvoir, 30 × 3 = 90 suffrages exprimés
 
 Deux listes sont en présence.
 
@@ -182,7 +182,7 @@ Voix obtenues |
 
 5 |
 
-Détermination du quotient électoral : 90/3=30
+Détermination du quotient électoral : 90/3 = 30
 
 Attribution du nombre de sièges pour chaque liste :
 
@@ -192,13 +192,17 @@ SUFFRAGES OBTENUS |
 
 NOMBRE DE SIÈGES OBTENUS
 
-après application du QE |
+après application du QE
+
+|
 
 RESTE |
 
 NOMBRE TOTAL
 
-de sièges obtenus |
+de sièges obtenus
+
+|
 
 Liste A |
 
@@ -228,4 +232,8 @@ les candidats X (25 voix) et Y (25 voix)
 
 Liste B : attribution du seul siège obtenu :
 
-au candidat X' (20 voix)
+au candidat X'(20 voix)
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

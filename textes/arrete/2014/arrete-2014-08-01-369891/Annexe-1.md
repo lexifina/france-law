@@ -102,11 +102,11 @@ C-2.-Syndicats des copropriétaires :
 
 -si l'immeuble est situé dans une OPAH prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée, ou
 
--lorsqu'un administrateur provisoire a été désigné par le président du tribunal de grande instance, ou
+-lorsqu'un administrateur provisoire a été désigné par le président du tribunal judiciaire, ou
 
 -si l'immeuble fait l'objet de travaux d'accessibilité,
 
-suivant le cas, une copie du plan de sauvegarde ou des arrêtés d'insalubrité, de péril ou de mise en sécurité, ou une copie du jugement du tribunal de grande instance désignant l'administrateur provisoire, ou, le cas échéant, le rapport d'analyse de l'insalubrité établi dans les conditions prévues au II de l'article 15-H du présent règlement.
+suivant le cas, une copie du plan de sauvegarde ou des arrêtés d'insalubrité, de péril ou de mise en sécurité, ou une copie du jugement du tribunal judiciaire désignant l'administrateur provisoire, ou, le cas échéant, le rapport d'analyse de l'insalubrité établi dans les conditions prévues au II de l'article 15-H du présent règlement.
 
 2. Pour toutes les demandes de subventions déposées par le syndicat des copropriétaires en application du 7° du I de l'article R. 321-12, les justificatifs relatifs à la mise en œuvre des moyens comptables et financiers visés au paragraphe V de l'article 15-H du présent règlement, c'est-à-dire soit la preuve de l'ouverture d'un compte bancaire spécifique pour les travaux, soit, pour les opérations d'un montant de subvention inférieur à un seuil fixé par le conseil d'administration, l'existence d'un compte séparé ouvert au nom du syndicat des copropriétaires. Ces documents seront exigés pour l'octroi, l'engagement et donc le paiement de la subvention.
 
@@ -239,3 +239,7 @@ b) Pour les bénéficiaires visés au II de l'article R. 321-12 (travaux réalis
 -lorsque le nantissement est prévu, l'acte de nantissement ;
 
 -une attestation par un organisme agréé par le ministère de l'intérieur prouvant la conformité aux règles de sécurité incendie des ERP (établissements recevant du public).
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

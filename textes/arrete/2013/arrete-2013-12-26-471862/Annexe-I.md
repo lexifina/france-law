@@ -4,7 +4,7 @@ PROGRAMME DE LA SCOLARITÉ ET MODALITÉS DE STAGE
 
 La formation professionnelle, d'une durée de douze mois, est composée de périodes de scolarité, de stages pratiques et de préaffectation.
 
-I. - Période de scolarité
+I.-Période de scolarité
 
 D'une durée de deux mois maximum, la période de scolarité doit permettre au greffier stagiaire de :
 
@@ -56,7 +56,7 @@ Ils se dérouleront dans les juridictions suivantes :
 
 ― tribunal de grande instance ;
 
-― tribunal d'instance ;
+― tribunal judiciaire ;
 
 ― conseil de prud'hommes ou tribunal du travail ;
 
@@ -67,3 +67,7 @@ III. ― Période de préaffectation
 Durant les six derniers mois, le greffier stagiaire est en stage de préaffectation dans la juridiction de sa future affectation.
 
 Cette période doit lui permettre d'être opérationnel grâce à un accompagnement personnalisé sous forme de tutorat centré notamment sur la découverte de l'environnement interne de son service et des partenaires extérieurs. Sa mise en situation le mettra en capacité de s'approprier ses fonctions et de gagner progressivement en autonomie.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

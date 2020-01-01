@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Composition des tribunaux de grande instance
+Composition des tribunaux judiciaires
 
 SIEGE DES TRIBUNAUX
 
@@ -34,9 +34,9 @@ JUGES
 
 d'instruction
 
-Fort-de-France.s.c.s.c.s.c.s.c.s.c.7s.c.s.c.
+Fort-de-France. s. c. s. c. s. c. s. c. s. c. 7s. c. s. c.
 
-Saint-Pierre.s.c.s.c.s.c.s.c.s.c.4s.c.s.c.
+Saint-Pierre. s. c. s. c. s. c. s. c. s. c. 4s. c. s. c.
 
 SIEGE DES TRIBUNAUX
 
@@ -82,6 +82,10 @@ substituts
 
 SUBSTITUTS
 
-Fort-de-France.s.c.s.c.s.c.1s.c.s.c.s.c.s.c.
+Fort-de-France. s. c. s. c. s. c. 1s. c. s. c. s. c. s. c.
 
-Saint-Pierre.s.c.s.c.s.c.1s.c.s.c.s.c.s.c.
+Saint-Pierre. s. c. s. c. s. c. 1s. c. s. c. s. c. s. c.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

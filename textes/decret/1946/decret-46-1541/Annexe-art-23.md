@@ -36,9 +36,9 @@ A.-La caisse d'assurance maladie des industries électriques et gazières assure
 
 A. 1. En ce qui concerne les prestations du régime général :
 
-Les personnes mentionnées au paragraphe 1 du présent article sont affiliées à la caisse d'assurance maladie des industries électriques et gazières. Elles sont radiées lorsqu'elles cessent de remplir les conditions de leur assujettissement au régime spécial.A cette fin, une déclaration est effectuée auprès de cette caisse :
+Les personnes mentionnées au paragraphe 1 du présent article sont affiliées à la caisse d'assurance maladie des industries électriques et gazières. Elles sont radiées lorsqu'elles cessent de remplir les conditions de leur assujettissement au régime spécial. A cette fin, une déclaration est effectuée auprès de cette caisse :
 
-1° S'agissant des agents statutaires en activité, par leur employeur, sous les sanctions prévues à l'article R. 312-4 du code de la sécurité sociale.A défaut de déclaration par les employeurs, la caisse procède à l'affiliation ou la radiation des intéressés de sa propre initiative ou à leur requête ;
+1° S'agissant des agents statutaires en activité, par leur employeur, sous les sanctions prévues à l'article R. 312-4 du code de la sécurité sociale. A défaut de déclaration par les employeurs, la caisse procède à l'affiliation ou la radiation des intéressés de sa propre initiative ou à leur requête ;
 
 2° S'agissant des agents en inactivité de service et des pensionnés de tous ordres, par la caisse nationale des industries électriques et gazières ;
 
@@ -102,7 +102,7 @@ A l'issue du scrutin, si une ou plusieurs des cinq fédérations syndicales repr
 
 L'organe chargé de la proclamation des résultats en application du protocole électoral établit la liste des membres élus et la transmet aux ministres chargés de la sécurité sociale et du budget. Il établit le procès-verbal de l'élection qui est affiché au siège de la caisse d'assurance maladie des industries électriques et gazières.
 
-Les réclamations contre l'ensemble des opérations électorales sont portées, dans les délais fixés par le protocole électoral, devant le tribunal d'instance dans le ressort duquel est situé le siège de la caisse d'assurance maladie des industries électriques et gazières.
+Les réclamations contre l'ensemble des opérations électorales sont portées, dans les délais fixés par le protocole électoral, devant le tribunal judiciaire dans le ressort duquel est situé le siège de la caisse d'assurance maladie des industries électriques et gazières.
 
 En cas d'application des dispositions du quatrième alinéa du présent B, les membres désignés pour chacune des fédérations n'ayant pas eu d'élu sont le premier de la liste électorale, titulaire, et le deuxième, suppléant, et les sièges attribués à la fédération syndicale ayant obtenu la majorité absolue le sont aux candidats dans l'ordre de la liste électorale, en commençant par les titulaires.
 
@@ -218,7 +218,7 @@ Les délibérations de la commission sont transmise pour approbation aux ministr
 
 Les dispositions des articles R. 142-1, R. 142-3 à R. 142-6 du code de la sécurité sociale sont applicables à la commission de recours amiable et aux décisions du conseil prises après avis de cette commission.
 
-H. - Abrogé.
+H.-Abrogé.
 
 J.-Le directeur de la caisse d'assurance maladie des industries électriques et gazières est nommé pour un mandat de six ans.
 
@@ -358,7 +358,7 @@ IV.-Le financement du régime complémentaire.
 
 Paragraphe 8.
 
-§ 8.A.-Les opérations relatives aux actifs et aux inactifs.
+§ 8. A.-Les opérations relatives aux actifs et aux inactifs.
 
 Les comptes du régime, établis par la caisse d'assurance maladie des industries électriques et gazières, distinguent les opérations retraçant :
 
@@ -380,13 +380,13 @@ a) Les cotisations destinées au financement des charges du régime complémenta
 
 b) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en inactivité, aux pensionnés de tous ordres et à leurs ayants droit sont constituées :
 
--d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1, 39 % ;
+-d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1,39 % ;
 
 -d'une cotisation d'équilibre à la charge des agents en inactivité et des pensionnés de tous ordres, assise sur les pensions qui leur sont versées. Le plafond et le taux de cette cotisation sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale et contresigné du ministre chargé du budget, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime. Les dispositions de l'article L. 243-2 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en inactivité et pensionnés de tous ordres.
 
 Les employeurs n'ont pas d'autre obligation de financement du régime complémentaire que les cotisations prévues au point a ci-dessus.
 
-Les caisses mutuelles complémentaires et d'action sociale ont la possibilité de participer au financement d'actions locales de prévention en matière de santé et d'adhérer à cet effet à des unions mutualistes, dans la limite de 5 % de leur budget de gestion administrative, hors investissement, du régime spécial. Cette enveloppe est majorée ou minorée du résultat de gestion administrative de l'exercice précédent. En cas de majoration, celle-ci est limitée à 2, 5 % de ce même budget.
+Les caisses mutuelles complémentaires et d'action sociale ont la possibilité de participer au financement d'actions locales de prévention en matière de santé et d'adhérer à cet effet à des unions mutualistes, dans la limite de 5 % de leur budget de gestion administrative, hors investissement, du régime spécial. Cette enveloppe est majorée ou minorée du résultat de gestion administrative de l'exercice précédent. En cas de majoration, celle-ci est limitée à 2,5 % de ce même budget.
 
 C.-Le recouvrement et le contrôle des cotisations du régime complémentaire.
 
@@ -418,7 +418,7 @@ Les recettes du Fonds national de gestion administrative sont constituées d'un 
 
 Les dépenses du Fonds national de gestion administrative sont constituées des dépenses de fonctionnement et d'investissement nécessaires à l'accomplissement des missions de la caisse d'assurance maladie des industries électriques et gazières, y compris celles afférentes aux conventions conclues en application des dispositions de l'article L. 162-28 du code de la sécurité sociale.
 
-Le Fonds national de gestion administrative peut comporter une réserve de sécurité destinée à faire face à des dépenses liées à des circonstances exceptionnelles et imprévisibles auxquelles la caisse d'assurance maladie des industries électriques et gazières aurait à faire face en cours d'exercice. Le niveau de cette réserve est fixé par le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières lors du vote du budget.L'utilisation des sommes affectées à cette réserve fait l'objet d'une décision expresse, dûment motivée, du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières ;
+Le Fonds national de gestion administrative peut comporter une réserve de sécurité destinée à faire face à des dépenses liées à des circonstances exceptionnelles et imprévisibles auxquelles la caisse d'assurance maladie des industries électriques et gazières aurait à faire face en cours d'exercice. Le niveau de cette réserve est fixé par le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières lors du vote du budget. L'utilisation des sommes affectées à cette réserve fait l'objet d'une décision expresse, dûment motivée, du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières ;
 
 3° Le Fonds national de gestion du risque.
 
@@ -482,4 +482,4 @@ La caisse d'assurance maladie des industries électriques et gazières est tenue
 
 NOTA :
 
-Les dispositions du paragraphe 10 de l'article 23 du statut national susvisé, dans sa rédaction issue du décret n° 2007-489, son applicables à compter du 1er janvier 2009. Dans sa rédaction antérieure au présent décret, elles sont abrogées.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

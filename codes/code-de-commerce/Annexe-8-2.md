@@ -286,7 +286,7 @@ Toute autre mention que n'imposeraient pas des dispositions légales ou régleme
 
 2. 3. 5. De la plaque professionnelle.
 
-Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises peuvent apposer, à l'intérieur de l'immeuble où ils exercent, une plaque indiquant leur nom, prénom et qualité d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises, le cas échéant celle d'ancien syndic administrateur judiciaire ou d'ancien administrateur et séquestre près le tribunal de grande instance de Paris, ainsi que la situation de leur étude ou bureau annexe dans l'immeuble.
+Les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises peuvent apposer, à l'intérieur de l'immeuble où ils exercent, une plaque indiquant leur nom, prénom et qualité d'administrateur judiciaire ou de mandataire judiciaire à la liquidation des entreprises, le cas échéant celle d'ancien syndic administrateur judiciaire ou d'ancien administrateur et séquestre près le tribunal judiciaire de Paris, ainsi que la situation de leur étude ou bureau annexe dans l'immeuble.
 
 Une plaque d'aspect sobre, de dimensions limitées et sans portée publicitaire peut également être apposée à l'extérieur de l'immeuble.
 
@@ -662,7 +662,7 @@ Les archives confiées au professionnel par l'entreprise sous mandat doivent êt
 
 4. 7. 1. Lorsqu'un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, il en informe, ou en fait informer, sans délai le président du Conseil national.
 
-4. 7. 2. Dès qu'il a connaissance que, pour quelque cause que ce soit, un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, le président du Conseil national en avise le président du tribunal de grande instance dans le ressort duquel l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises a son domicile professionnel et le procureur de la République près ce tribunal en vue de la désignation d'un administrateur provisoire. Il leur communique les noms de plusieurs professionnels susceptibles d'assurer cette mission. La mission de l'administrateur provisoire ainsi que sa durée sont définies par la décision de justice qui procède à sa désignation.
+4. 7. 2. Dès qu'il a connaissance que, pour quelque cause que ce soit, un administrateur judiciaire ou un mandataire judiciaire à la liquidation des entreprises est durablement dans l'impossibilité d'exercer ses fonctions, le président du Conseil national en avise le président du tribunal judiciaire dans le ressort duquel l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises a son domicile professionnel et le procureur de la République près ce tribunal en vue de la désignation d'un administrateur provisoire. Il leur communique les noms de plusieurs professionnels susceptibles d'assurer cette mission. La mission de l'administrateur provisoire ainsi que sa durée sont définies par la décision de justice qui procède à sa désignation.
 
 4. 7. 3. Le professionnel désigné comme administrateur provisoire ne peut en aucun cas, au terme de sa mission, poursuivre des mandats ou missions pour lesquels l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises empêché avait été initialement désigné. Cette interdiction est néanmoins levée dès l'instant où l'empêchement ayant justifié la désignation de l'administrateur provisoire devient définitif.
 
@@ -765,3 +765,7 @@ Les contrôleurs avisent immédiatement les autorités mandantes, le président 
 5. 4. De l'inspection.
 
 Tout professionnel sollicité par un magistrat inspecteur régional ou par le magistrat coordonnateur des inspections pour l'assister dans le cadre de l'inspection d'un confrère ne peut s'abstenir. En cas d'incompatibilité manifeste, il doit adresser une demande motivée à l'autorité requérante qui sera amenée à trancher.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

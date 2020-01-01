@@ -2,17 +2,17 @@
 
 MODALITÉS D'ÉVALUATION DES GREFFIERS EN FORMATION STATUTAIRE
 
-A. - Evaluation des greffiers stagiaires recrutés par la voie des concours interne et externe, par la voie des emplois réservés et par la voie du troisième concours
+A.-Evaluation des greffiers stagiaires recrutés par la voie des concours interne et externe, par la voie des emplois réservés et par la voie du troisième concours
 
 Durant la formation professionnelle initiale, les greffiers stagiaires sont évalués et notés :
 
-- à l'issue de la période de scolarité (I) ;
+-à l'issue de la période de scolarité (I) ;
 
-- pendant la période de stages pratiques (II) ;
+-pendant la période de stages pratiques (II) ;
 
-- pendant la période d'approfondissement professionnel (III).
+-pendant la période d'approfondissement professionnel (III).
 
-I. - Note de scolarité
+I.-Note de scolarité
 
 L'évaluation sur les acquis des matières enseignées a lieu à la fin de la période d'enseignement théorique. Elle porte, d'une part, sur les connaissances procédurales et les logiciels métiers, les connaissances transverses et le traitement de texte et, d'autre part, sur les enseignements relatifs aux droits et obligations des fonctionnaires, les responsabilités ainsi que sur les connaissances en matière d'hygiène, de sécurité et des conditions de travail.
 
@@ -20,76 +20,80 @@ Elle résulte d'épreuves écrites notées dont la moyenne est établie sur 20.
 
 Ces épreuves peuvent notamment prendre la forme, selon les matières, soit de cas pratique, soit d'exercice d'application, soit de questionnaires. Les modalités sont définies en concertation avec les instances de direction de l'école et les équipes pédagogiques.
 
-II. - Note de stages pratiques
+II.-Note de stages pratiques
 
 Cette note correspond à la moyenne des notes proposées par chaque maître de stage des juridictions suivantes :
 
-- tribunal de grande instance (coefficient 2) ;
+-tribunal de grande instance (coefficient 2) ;
 
-- tribunal d'instance (coefficient 1) ;
+- tribunal judiciaire (coefficient 1) ;
 
-- conseil de prud'hommes (coefficient 1) ;
+-conseil de prud'hommes (coefficient 1) ;
 
-- cour d'appel (coefficient 1).
+-cour d'appel (coefficient 1).
 
 Chaque maître de stage apprécie l'ensemble des items des trois domaines de compétence listés ci-dessous et propose une note sur 20. Il apporte des appréciations littérales en adéquation avec la note chiffrée. Le stagiaire sera évalué en situation de travail au vu de toutes les missions qu'il aura réalisées.
 
 L'évaluation du stagiaire porte sur trois domaines de compétence composés de différents items, à savoir :
 
-- les connaissances techniques professionnelles :
+-les connaissances techniques professionnelles :
 
-- connaissance de la procédure et des circuits de procédure ;
+-connaissance de la procédure et des circuits de procédure ;
 
-- capacité à établir le lien entre les connaissances théoriques et leur mise en application (rédaction d'actes, de procès-verbaux, délivrance de copies…) ;
+-capacité à établir le lien entre les connaissances théoriques et leur mise en application (rédaction d'actes, de procès-verbaux, délivrance de copies …) ;
 
-- utilisation des technologies au service de la procédure (logiciels applicatifs, traitement de texte, technologie d'information et de communication…) ;
+-utilisation des technologies au service de la procédure (logiciels applicatifs, traitement de texte, technologie d'information et de communication …) ;
 
-- l'aptitude à l'organisation :
+-l'aptitude à l'organisation :
 
-- sens de la méthode ;
+-sens de la méthode ;
 
-- capacité à analyser un processus de travail et à répondre ;
+-capacité à analyser un processus de travail et à répondre ;
 
-- capacité à s'impliquer dans le fonctionnement d'un service ;
+-capacité à s'impliquer dans le fonctionnement d'un service ;
 
-- esprit d'initiative ;
+-esprit d'initiative ;
 
-- compréhension de l'environnement professionnel, de l'organisation de la juridiction et des services, du rôle de chacun ;
+-compréhension de l'environnement professionnel, de l'organisation de la juridiction et des services, du rôle de chacun ;
 
-- compréhension du rôle du greffier en matière d'encadrement ;
+-compréhension du rôle du greffier en matière d'encadrement ;
 
-- le sens des relations professionnelles :
+-le sens des relations professionnelles :
 
-- sens du travail en équipe : intégration ;
+-sens du travail en équipe : intégration ;
 
-- capacité à comprendre sa relation avec l'usager ;
+-capacité à comprendre sa relation avec l'usager ;
 
-- capacité à communiquer avec ses différents interlocuteurs : maîtres de stage, collègues, magistrats, auxiliaires de justice ;
+-capacité à communiquer avec ses différents interlocuteurs : maîtres de stage, collègues, magistrats, auxiliaires de justice ;
 
-- capacité à rendre compte de son activité ;
+-capacité à rendre compte de son activité ;
 
-- sens du service public ;
+-sens du service public ;
 
-- capacité d'adaptation.
+-capacité d'adaptation.
 
-III. - Note du stage d'approfondissement professionnel
+III.-Note du stage d'approfondissement professionnel
 
 A l'issue de la période d'approfondissement professionnel, une note sur 20 est attribuée au greffier stagiaire par le directeur de l'Ecole nationale des greffes sur la base des appréciations émises par le maître de stage suivant les critères d'évaluation définis par l'école.
 
 Il s'agit d'évaluer la valeur professionnelle du greffier stagiaire en vue de sa titularisation au regard de :
 
-- ses connaissances professionnelles ;
+-ses connaissances professionnelles ;
 
-- son aptitude professionnelle et de son efficacité dans l'emploi ;
+-son aptitude professionnelle et de son efficacité dans l'emploi ;
 
-- ses qualités et capacités relationnelles.
+-ses qualités et capacités relationnelles.
 
-B. - Evaluation des greffiers stagiaires recrutés par examen professionnel
+B.-Evaluation des greffiers stagiaires recrutés par examen professionnel
 
 Les greffiers recrutés par examen professionnel sont évalués par le directeur de l'école sur la base de :
 
-- de l'appréciation de la période de scolarité par l'équipe pédagogique ;
+-de l'appréciation de la période de scolarité par l'équipe pédagogique ;
 
-- des appréciations émises par le maître de stage ;
+-des appréciations émises par le maître de stage ;
 
-- du rapport, établi durant les stages de mise en situation professionnelle par le maître de stage et visant à évaluer la valeur professionnelle du greffier au regard de ses compétences professionnelles, son aptitude professionnelle et de son efficacité dans l'emploi, ses qualités et capacités relationnelles, ses capacités d'encadrement.
+-du rapport, établi durant les stages de mise en situation professionnelle par le maître de stage et visant à évaluer la valeur professionnelle du greffier au regard de ses compétences professionnelles, son aptitude professionnelle et de son efficacité dans l'emploi, ses qualités et capacités relationnelles, ses capacités d'encadrement.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

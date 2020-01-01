@@ -142,7 +142,7 @@ Sous-section 2.-Assemblée générale ordinaire
 
 Périodicité.
 
-Art....-L'assemblée générale ordinaire se réunit au minimum une fois par an, au plus tard dans les six mois de la clôture de l'exercice. Ce délai de six mois peut être prolongé à la demande du président de l'association par ordonnance du président du tribunal de grande instance statuant sur requête.
+Art....-L'assemblée générale ordinaire se réunit au minimum une fois par an, au plus tard dans les six mois de la clôture de l'exercice. Ce délai de six mois peut être prolongé à la demande du président de l'association par ordonnance du président du tribunal judiciaire statuant sur requête.
 
 Quorum.
 
@@ -292,7 +292,7 @@ Art....-L'association est tenue de financer, dans les limites et conditions fix�
 
 Pouvoirs.
 
-Art....-Un contrôle du fonctionnement de l'association peut être effectué sur la demande d'au moins quatre membres du conseil d'administration s'exprimant par lettre auprès du président de l'association et auprès de l' Agence nationale de contrôle du logement social .
+Art....-Un contrôle du fonctionnement de l'association peut être effectué sur la demande d'au moins quatre membres du conseil d'administration s'exprimant par lettre auprès du président de l'association et auprès de l'Agence nationale de contrôle du logement social.
 
 Présidence.
 
@@ -349,3 +349,7 @@ Art....-Soit : la moitié au moins des sièges au conseil d'administration doit 
 Soit : la société est administrée par un conseil de surveillance et un directoire. La moitié au moins des sièges au conseil de surveillance doit être réservée à parts égales à des personnes proposées par les organisations syndicales d'employeurs et de salariés.
 
 Art....-La société doit communiquer à l'association tous éléments d'information permettant de contrôler le respect des dispositions prévues à l'article R. 313-33-3 et aux présents statuts, notamment les documents comptables de la société et de ses filiales.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

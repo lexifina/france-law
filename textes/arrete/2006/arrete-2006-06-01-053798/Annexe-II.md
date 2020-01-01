@@ -62,7 +62,7 @@ La nationalité française est attribuée en raison de la filiation paternelle o
 
 La nationalité française est acquise de plein droit à majorité par tout enfant né en France de parents étrangers si, à cette date, il a en France sa résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans depuis l'âge de onze ans.
 
-Dans un certain nombre d'hypothèses, la nationalité française peut être acquise par déclaration. C'est par exemple le cas du mineur adopté en la forme simple par un (e) Français (e), de la personne justifiant d'une possession d'état de Français depuis dix ans. La déclaration est souscrite en France, selon les cas, devant l'autorité administrative ou le directeur des services de greffe judiciaires du tribunal d'instance et à l'étranger devant le consul.
+Dans un certain nombre d'hypothèses, la nationalité française peut être acquise par déclaration. C'est par exemple le cas du mineur adopté en la forme simple par un (e) Français (e), de la personne justifiant d'une possession d'état de Français depuis dix ans. La déclaration est souscrite en France, selon les cas, devant l'autorité administrative ou le directeur des services de greffe judiciaires du tribunal judiciaire et à l'étranger devant le consul.
 
 L'acquisition de la nationalité française par décision de l'autorité publique résulte d'une naturalisation accordée par décret à la demande d'une personne de nationalité étrangère. La naturalisation est soumise à la décision du ministre chargé des naturalisations qui peut la refuser, même si les conditions sont réunies.
 
@@ -70,7 +70,7 @@ Les enfants mineurs non mariés d'une personne qui acquiert la nationalité fran
 
 5° Preuve de la nationalité française
 
-En dehors des titres propres à la nationalité française, tels que le décret, la déclaration acquisitive dûment enregistrée ou la décision juridictionnelle définitive reconnaissant la qualité de Français, le seul mode légal de preuve de la nationalité française est le certificat de nationalité française, délivré par le directeur des services de greffe judiciaires du tribunal d'instance.
+En dehors des titres propres à la nationalité française, tels que le décret, la déclaration acquisitive dûment enregistrée ou la décision juridictionnelle définitive reconnaissant la qualité de Français, le seul mode légal de preuve de la nationalité française est le certificat de nationalité française, délivré par le directeur des services de greffe judiciaires du tribunal judiciaire.
 
 La publicité en est, par ailleurs, assurée par la mention systématique, en marge de l'acte de naissance, des actes administratifs, des déclarations ainsi que des décisions de justice ayant trait à la nationalité et, depuis le 1er septembre 1998, de toute première délivrance de certificat de nationalité française.
 
@@ -90,7 +90,7 @@ Le mari de la mère est présumé être le père de l'enfant né pendant le mari
 
 Le père non marié doit reconnaître l'enfant devant tout officier de l'état civil ou éventuellement un notaire. La reconnaissance peut être faite à tout moment, avant ou après la naissance de l'enfant.
 
-Lorsque la reconnaissance n'est pas possible, notamment en cas de décès du père prétendu, la filiation peut être établie par la possession d'état constatée par un acte de notoriété. Cet acte doit être demandé au juge d'instance, dans les cinq ans suivant la cessation de cette possession ou le décès.
+Lorsque la reconnaissance n'est pas possible, notamment en cas de décès du père prétendu, la filiation peut être établie par la possession d'état constatée par un acte de notoriété. Cet acte doit être demandé au juge du tribunal judiciaire, dans les cinq ans suivant la cessation de cette possession ou le décès.
 
 Lorsque l'enfant n'a pas été reconnu, le tribunal peut déclarer la paternité. L'action doit être intentée par la mère dans la minorité de l'enfant. Ce dernier peut également exercer cette action dans les dix années qui suivent sa majorité. Le bénéfice de l'aide juridictionnelle peut être demandé en cas de ressources insuffisantes.
 
@@ -218,7 +218,7 @@ c) Régime de la séparation de biens :
 
 Les biens acquis par chaque époux et les revenus qu'ils perçoivent pendant le mariage leur demeurent personnels. Cependant, les époux peuvent effectuer des achats en indivision.
 
-Les biens sur lesquels aucun des époux ne peut justifier d'une propriété exclusive sont présumés leur appartenir par moitié .
+Les biens sur lesquels aucun des époux ne peut justifier d'une propriété exclusive sont présumés leur appartenir par moitié.
 
 Les dettes contractées par un époux n'engagent pas son conjoint, à l'exception de celles qui ont pour objet l'entretien du ménage ou l'éducation des enfants.
 
@@ -226,7 +226,7 @@ d) Régime de la participation aux acquêts :
 
 Pendant le mariage, le régime fonctionne comme si les époux étaient mariés sous le régime de la séparation de biens.
 
-Au moment de la dissolution du mariage, les biens qui ont été acquis pendant l'union sont partagés par moitié entre les époux, à l'exclusion de ceux qui ont été reçus par donation ou succession.
+Au moment de la dissolution du mariage, les biens qui ont été acquis pendant l'union sont partagés par moitié entre les époux, à l'exclusion de ceux qui ont été reçus par donation ou succession .
 
 Les dettes contractées par un époux n'engagent pas son conjoint, à l'exception de celles qui ont pour objet l'entretien du ménage ou l'éducation des enfants.
 
@@ -260,4 +260,4 @@ Si pendant le mariage il y a lieu de transférer d'un époux à l'autre l'admini
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 14 décembre 2017, les officiers de l'état civil pourront continuer à délivrer les anciens modèles de livret de famille établis selon le modèle fixé par l'arrêté du 24 mai 2013 jusqu'à épuisement des stocks.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

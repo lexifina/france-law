@@ -26,7 +26,7 @@ Le centre a pour missions, conformément aux articles 706-53-13 et R. 53-8-55 du
 
 Le centre est placé sous la double tutelle du ministère chargé de la santé et du ministère la justice, ses missions étant mises en œuvre sous la responsabilité conjointe du directeur de l'EPSNF et du directeur d'hôpital mis à disposition de l'EPSNF.
 
-Le contrôle, pour chaque personne retenue, des principales modalités de mise en œuvre et du bon déroulement de la mesure relèvent de la compétence d'un des vice-présidents chargés de l'application des peines du tribunal de grande instance, désigné par le premier président de la cour d'appel de Paris en application de l'article R. 53-8-64 du code de procédure pénale.
+Le contrôle, pour chaque personne retenue, des principales modalités de mise en œuvre et du bon déroulement de la mesure relèvent de la compétence d'un des vice-présidents chargés de l'application des peines du tribunal judiciaire, désigné par le premier président de la cour d'appel de Paris en application de l'article R. 53-8-64 du code de procédure pénale.
 
 Contenu du règlement intérieur
 
@@ -164,7 +164,7 @@ Ces personnes peuvent être placées dans le centre immédiatement à la fin de 
 
 La rétention de sûreté décidée par une juridiction régionale des mesures de sûreté dure tant que la dangerosité de la personne retenue ne permet d'envisager aucune autre mesure de sûreté à l'extérieur.
 
-Les personnes retenues sont suivies par un vice-président chargé de l'application des peines du tribunal de grande instance désigné par le premier président de la cour d'appel de Paris.
+Les personnes retenues sont suivies par un vice-président chargé de l'application des peines du tribunal judiciaire désigné par le premier président de la cour d'appel de Paris.
 
 Article 3
 
@@ -184,7 +184,7 @@ Article 4
 
 Les droits et obligations des personnes retenues
 
-Les personnes retenues bénéficient de l'ensemble des droits inhérents à la personne humaine.L'exercice des droits reconnus aux personnes retenues ne peut faire l'objet d'autres restrictions que celles strictement nécessaires au maintien de l'ordre et de la sécurité, à la protection d'autrui, à la prévention des infractions et de toute soustraction des personnes retenues à la mesure dont elles font l'objet.
+Les personnes retenues bénéficient de l'ensemble des droits inhérents à la personne humaine. L'exercice des droits reconnus aux personnes retenues ne peut faire l'objet d'autres restrictions que celles strictement nécessaires au maintien de l'ordre et de la sécurité, à la protection d'autrui, à la prévention des infractions et de toute soustraction des personnes retenues à la mesure dont elles font l'objet.
 
 Le présent règlement définit, en conformité avec la réglementation en vigueur, les règles de vie au sein du centre ainsi que les droits et obligations des personnes retenues.
 
@@ -238,7 +238,7 @@ Article 7
 
 L'usage du tabac et de l'alcool
 
-Conformément à la réglementation en vigueur depuis le 1er février 2007, les personnes retenues ne peuvent fumer à l'intérieur de la structure.L'usage du tabac leur est néanmoins possible dans leur studio et les lieux extérieurs totalement découverts.
+Conformément à la réglementation en vigueur depuis le 1er février 2007, les personnes retenues ne peuvent fumer à l'intérieur de la structure. L'usage du tabac leur est néanmoins possible dans leur studio et les lieux extérieurs totalement découverts.
 
 La consommation d'alcool est strictement interdite.
 
@@ -300,7 +300,7 @@ Les permissions de sortie
 
 Les permissions de sortie sont accordées ou refusées par ordonnances motivées du vice-président chargé de l'application des peines compétent, prises après avis du directeur des services pénitentiaires, du directeur d'hôpital, du directeur départemental des services pénitentiaires d'insertion et de probation et du procureur de la République.
 
-Deux types de permissions de sortie sont prévus (art.R. 53-8-69 et suivants du code de procédure pénale) :
+Deux types de permissions de sortie sont prévus (art. R. 53-8-69 et suivants du code de procédure pénale) :
 
 ― la sortie sous escorte, notamment en cas d'événement familial grave ;
 
@@ -328,13 +328,13 @@ Valeurs pécuniaires
 
 Le centre tient un compte dédié à cet effet sur lequel sont inscrites les valeurs pécuniaires appartenant à la personne retenue.
 
-Sous réserve que les personnes retenues n'en aient pas demandé l'envoi à un tiers ou la consignation, les sommes dont elles sont porteuses à leur entrée dans le centre sont immédiatement inscrites à leur compte au moment de leur inscription au registre de rétention.L'importance de ces sommes ne saurait en aucun cas justifier le refus de leur conservation par le centre.
+Sous réserve que les personnes retenues n'en aient pas demandé l'envoi à un tiers ou la consignation, les sommes dont elles sont porteuses à leur entrée dans le centre sont immédiatement inscrites à leur compte au moment de leur inscription au registre de rétention. L'importance de ces sommes ne saurait en aucun cas justifier le refus de leur conservation par le centre.
 
 Ce compte est par la suite crédité ou débité de toutes les sommes qui sont dues à la personne retenue, ou dues par elle, au cours de sa rétention, dans les conditions réglementaires.
 
 La personne retenue conserve la gestion de ses biens patrimoniaux extérieurs, dans la limite de sa capacité civile. Le cas échéant, cette gestion peut s'effectuer par l'intermédiaire d'un mandataire extérieur.
 
-Les procurations éventuelles sont soumises au contrôle du vice-président chargé de l'application des peines compétent.L'apposition d'un visa en vue de l'acheminement de ces documents ne saurait faire préjuger de la capacité du signataire.
+Les procurations éventuelles sont soumises au contrôle du vice-président chargé de l'application des peines compétent. L'apposition d'un visa en vue de l'acheminement de ces documents ne saurait faire préjuger de la capacité du signataire.
 
 En toute hypothèse, un acte requérant le ministère d'un notaire peut être dressé dans le centre socio-médico-judiciaire, lorsque cet officier ministériel a obtenu l'autorisation du magistrat visé à l'alinéa précédent.
 
@@ -342,7 +342,7 @@ Les fonds disponibles sur ce compte peuvent être utilisés par la personne rete
 
 Bijoux et objets de valeur
 
-Les bijoux et les objets de valeur sont, après estimation, inventoriés, inscrits au registre précité et déposés au greffe du centre.A la demande de la personne retenue, ils peuvent toutefois être rendus à sa famille. En cas de perte imputable au centre, il est remis à la personne retenue ou à ses ayants droit la valeur d'estimation de l'objet perdu.
+Les bijoux et les objets de valeur sont, après estimation, inventoriés, inscrits au registre précité et déposés au greffe du centre. A la demande de la personne retenue, ils peuvent toutefois être rendus à sa famille. En cas de perte imputable au centre, il est remis à la personne retenue ou à ses ayants droit la valeur d'estimation de l'objet perdu.
 
 Les objets de valeur et les bijoux dont est porteuse la personne retenue à son entrée peuvent donner lieu au refus de leur prise en charge en raison de leur prix, de leur importance ou de leur volume. Dans ce cas, ils sont inscrits provisoirement sur un registre ouvert à cet usage et la personne retenue est invitée à s'en défaire, soit en les renvoyant à sa famille ou à tout autre bénéficiaire précisément identifié, soit en les faisant déposer entre les mains d'un notaire ou autre dépositaire désigné par le directeur de l'EPSNF, soit en les vendant. Les frais d'expédition, de garde ou de vente sont à la charge de la personne retenue.
 
@@ -488,7 +488,7 @@ La sécurité périmétrique du centre est assurée par des surveillants pénite
 
 Accès au centre
 
-Tous les accès au centre sont contrôlés et sont limités aux personnes habilitées ou préalablement autorisées par le directeur de l'EPSNF. Le contrôle des personnes et des bagages et / ou objets est effectué en utilisant les dispositifs de sécurité de l'EPSNF. Toute personne qui pénètre dans le centre doit se conformer aux règles de sécurité.
+Tous les accès au centre sont contrôlés et sont limités aux personnes habilitées ou préalablement autorisées par le directeur de l'EPSNF. Le contrôle des personnes et des bagages et/ ou objets est effectué en utilisant les dispositifs de sécurité de l'EPSNF. Toute personne qui pénètre dans le centre doit se conformer aux règles de sécurité.
 
 Contrôles
 
@@ -540,7 +540,7 @@ Les premiers présidents des cours d'appel et les procureurs généraux près le
 
 Les présidents des tribunaux de grande instance et les procureurs de la République près les tribunaux de grande instance.
 
-Les présidents des tribunaux d'instance.
+Les présidents des tribunaux judiciaires.
 
 Le président de la chambre de l'instruction.
 
@@ -630,4 +630,4 @@ Les objets suivants sont interdits au sein du centre socio-médico-judiciaire de
 
 NOTA :
 
-(1) Dans sa décision n° 332707 du 21 octobre 2011, article 1, le Conseil d'Etat a annulé les dispositions de l'article 12 du règlement intérieur, en tant qu'elles concernent la correspondance, le téléphone et les visites.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

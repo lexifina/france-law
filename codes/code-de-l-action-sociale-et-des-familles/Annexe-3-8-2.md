@@ -104,7 +104,7 @@ Vu les articles L. 441-1 et suivants du code de l'action sociale et des familles
 
 Vu les articles R. 441-1 à R. 442-1 et D. 442-2 à D. 444-8 du code de l'action sociale et des familles ;
 
-Vu la décision d'agrément du président du conseil départemental de (département à préciser), en date du
+Vu la décision d'agrément du président du conseil général de (département à préciser), en date du
 
 Autorisant :
 
@@ -120,7 +120,7 @@ personne (s) âgées ou handicapée (s)
 
 à son domicile (1).
 
-Vu l'accord donné par le président du conseil départemental de (département à préciser) le........ à........ (personne morale employeur à préciser) pour être employeur d'accueillants familiaux résidant dans ce même département.
+Vu l'accord donné par le président du conseil général de (département à préciser) le........ à........ (personne morale employeur à préciser) pour être employeur d'accueillants familiaux résidant dans ce même département.
 
 (1) A renseigner, dans la limite d'un total de trois personnes accueillies au maximum, en fonction de la nature de l'agrément, spécifique à une population (personnes âgées ou personnes handicapées) ou bien mixte (personne (s) âgée (s) et personne (s) handicapée (s).
 
@@ -214,7 +214,7 @@ Vis-à-vis de la personne accueillie, à :
 
 - préserver son intimité et son intégrité.
 
-Vis-à-vis, d'une part, du service du conseil départemental chargé du suivi de la personne accueillie et, d'autre part, de l'employeur à alerter et informer de tout événement affectant le bon déroulement de l'accueil.
+Vis-à-vis, d'une part, du service du conseil général chargé du suivi de la personne accueillie et, d'autre part, de l'employeur à alerter et informer de tout événement affectant le bon déroulement de l'accueil.
 
 (2) Les limitations pour raisons médicales ou décision de justice font l'objet d'un justificatif annexé au contrat.
 
@@ -234,13 +234,13 @@ Conformément aux dispositions de l'article L. 443-4 du code de l'action sociale
 
 La personne accueillie justifie d'un contrat d'assurance garantissant les conséquences pécuniaires de sa responsabilité civile.
 
-Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil départemental par l'employeur de l'accueillant familial et par la personne accueillie.
+Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil général par l'employeur de l'accueillant familial et par la personne accueillie.
 
 Les attestations relatives à ces contrats sont jointes en annexe.
 
 - Protection juridique :
 
-Disposition particulière relative à la protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial doit en informer son employeur qui lui-même informera la famille ou le procureur de la République compétent et le président du conseil départemental de manière concomitante.
+Disposition particulière relative à la protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial doit en informer son employeur qui lui-même informera la famille ou le procureur de la République compétent et le président du conseil général de manière concomitante.
 
 Lorsque la personne accueillie bénéficie d'une mesure de protection juridique, la personne qui assure cette mesure fait connaître à l'accueillant familial le type de dépenses qu'elle peut prendre en charge ainsi que la procédure qu'elle doit suivre en cas d'urgence.
 
@@ -248,7 +248,7 @@ Article 5
 
 Le suivi de la personne accueillie
 
-L'accueillant familial s'engage à ce qu'un suivi social et médico-social de la personne accueillie à son domicile soit possible. Ainsi, la personne accueillie pourra être rencontrée individuellement au domicile de l'accueillant familial par les services du conseil départemental (ou de l'organisme mandaté par le conseil départemental à cet effet), chargés du suivi social et médico-social.
+L'accueillant familial s'engage à ce qu'un suivi social et médico-social de la personne accueillie à son domicile soit possible. Ainsi, la personne accueillie pourra être rencontrée individuellement au domicile de l'accueillant familial par les services du conseil général (ou de l'organisme mandaté par le conseil général à cet effet), chargés du suivi social et médico-social.
 
 L'accueillant familial s'engage à communiquer aux services chargés du suivi social et médico-social les éléments susceptibles de contribuer à ce suivi.
 
@@ -256,9 +256,9 @@ Article 6
 
 Litiges entre l'accueillant familial et la personne accueillie
 
-La personne morale employeur de l'accueillant familial gère les différends qui pourraient intervenir entre l'accueillant familial et la personne accueillie sur les modalités d'accueil. La personne morale employeur informe le conseil départemental lorsque ce différend entre dans le champ d'application de l'agrément.
+La personne morale employeur de l'accueillant familial gère les différends qui pourraient intervenir entre l'accueillant familial et la personne accueillie sur les modalités d'accueil. La personne morale employeur informe le conseil général lorsque ce différend entre dans le champ d'application de l'agrément.
 
-Le tribunal d'instance est compétent pour les litiges relatifs au présent contrat entre l'accueillant familial et la personne accueillie.
+Le tribunal judiciaire est compétent pour les litiges relatifs au présent contrat entre l'accueillant familial et la personne accueillie.
 
 B. - Relations entre la personne accueillie et la personne morale, employeur de l'accueillant familial (le cas échéant)
 
@@ -362,7 +362,7 @@ soit
 
 € par jour, au titre de l'indemnité représentative de mise à disposition de la ou des pièces réservées à la personne accueillie.
 
-Le président du conseil départemental détient un pouvoir de contrôle sur ce montant.
+Le président du conseil général détient un pouvoir de contrôle sur ce montant.
 
 (Le montant de l'indemnité représentative de mise à disposition de la ou des pièces réservées à la personne accueillie est fixé en fonction de la surface des locaux mis à disposition et de leur état. Il évolue en fonction de l'indice du coût de l'IRL.)
 
@@ -418,7 +418,7 @@ Responsabilité
 
 Conformément aux dispositions de l'article L. 443-4 du code de l'action sociale et des familles, les conséquences pécuniaires de la responsabilité civile de l'accueillant familial et de son remplaçant sont garanties par la personne morale employeur de l'accueillant familial pour les risques subis par la personne accueillie.
 
-Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil départemental par le prestataire employeur de l'accueillant familial et par la personne accueillie.
+Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil général par le prestataire employeur de l'accueillant familial et par la personne accueillie.
 
 Article 11
 
@@ -430,7 +430,7 @@ Article 12
 
 Litiges entre la personne morale et la personne accueillie
 
-En cas de litige portant sur les conditions financières et matérielles prévues au présent contrat entre la personne accueillie et la personne morale employeur, le contentieux est porté devant le tribunal d'instance du lieu d'accueil.
+En cas de litige portant sur les conditions financières et matérielles prévues au présent contrat entre la personne accueillie et la personne morale employeur, le contentieux est porté devant le tribunal judiciaire du lieu d'accueil.
 
 C.-Disposition finale
 
@@ -438,7 +438,7 @@ Article 13
 
 Durée de validité et renouvellement
 
-Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en quatre exemplaires dont un est adressé au président du conseil départemental en charge du contrôle des accueillants familiaux. Tout avenant au contrat modifiant une disposition qui relève de la libre appréciation des parties dans le respect des dispositions législatives et réglementaires est adressé au conseil départemental.
+Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en quatre exemplaires dont un est adressé au président du conseil général en charge du contrôle des accueillants familiaux. Tout avenant au contrat modifiant une disposition qui relève de la libre appréciation des parties dans le respect des dispositions législatives et réglementaires est adressé au conseil général.
 
 Le présent contrat comporte les annexes suivantes : lister et numéroter.
 
@@ -510,7 +510,7 @@ Né (e) le :
 
 Domicilié (e) à :
 
-Agréé par le président du conseil départemental de (département à préciser) par décision en date du
+Agréé par le président du conseil général de (département à préciser) par décision en date du
 
 hébergé pendant la période considérée au domicile de l'accueillant familial permanent :
 
@@ -522,7 +522,7 @@ hébergé pendant la période considérée au domicile de l'accueillant familial
 
 Les conditions financières sont prévues entre la personne morale employeur et la personne accueillie par la partie B du contrat ou par le contrat spécifique aux conditions matérielles et financières de l'accueil.
 
-Le présent contrat est établi en quatre exemplaires dont un est adressé au président du conseil départemental en charge du contrôle des accueillants familiaux (article L. 441-2 du code de l'action sociale et des familles).
+Le présent contrat est établi en quatre exemplaires dont un est adressé au président du conseil général en charge du contrôle des accueillants familiaux (article L. 441-2 du code de l'action sociale et des familles).
 
 Signatures précédées de la mention manuscrite Lu et approuvé
 
@@ -533,3 +533,7 @@ La personne accueillie
 (ou son représentant légal)
 
 Le remplaçant
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -210,7 +210,7 @@ Directeur des services pénitentiaires, chef du centre pénitentiaire d'Aiton ;
 
 Directeur des services pénitentiaires, chef du centre pénitentiaire de Châteauroux ;
 
-Directeur des services pénitentiaires, chef du centre pénitentiaire de Laon;
+Directeur des services pénitentiaires, chef du centre pénitentiaire de Laon ;
 
 Directeur des services pénitentiaires, chef du centre pénitentiaire de Maubeuge ;
 
@@ -258,9 +258,9 @@ Assistant informatique adjoint chargé de fonctions particulières à la Cour de
 
 Assistant informatique chargé de fonctions particulières à la Cour de cassation.
 
-Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance.
+Greffier d'audience correctionnelle collégiale dans un tribunal judiciaire.
 
-Greffier d'instruction dans un cabinet d'instruction d'un tribunal de grande instance.
+Greffier d'instruction dans un cabinet d'instruction d'un tribunal judiciaire.
 
 Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
 
@@ -294,7 +294,7 @@ Responsable des relations internationales au service de la communication et des 
 
 Adjoint du responsable des commissions administratives paritaires et du suivi des décisions.
 
-Adjoint du responsable des transfèrements nationaux, interna- tionaux et extraditions.
+Adjoint du responsable des transfèrements nationaux, interna-tionaux et extraditions.
 
 PROTECTION JUDICIAIRE DE LA JEUNESSE.
 
@@ -304,9 +304,9 @@ Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification 
 
 Directeur d'établissement ou service :
 
-- établissement de plus de 35 agents ;
+-établissement de plus de 35 agents ;
 
-- établissement de plus de 70 agents ;
+-établissement de plus de 70 agents ;
 
 Régisseur d'avances et de recettes.
 
@@ -356,7 +356,7 @@ Responsable de filière au Centre national de formation et d'études et responsa
 
 GRANDE CHANCELLERIE DE LA LEGION D'HONNEUR.
 
-A. - Fonctions exercées à l'administration centrale pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
+A.-Fonctions exercées à l'administration centrale pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
 1. Fonctions d'encadrement ou à responsabilités particulières dans le domaine des décorations.
 
@@ -368,10 +368,14 @@ A. - Fonctions exercées à l'administration centrale pouvant ouvrir droit au ve
 
 5. Fonctions dans les domaines de l'accueil, la sécurité, l'informatique ou l'intendance.
 
-B. - Fonctions exercées dans les maisons d'éducation pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
+B.-Fonctions exercées dans les maisons d'éducation pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
 1. Fonctions dans les domaines de l'accueil, la sécurité, la santé ou l'intendance.
 
 2. Fonctions de secrétariat à responsabilités importantes.
 
 3. Fonctions dans le domaine des ressources humaines.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

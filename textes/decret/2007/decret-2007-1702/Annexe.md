@@ -2,7 +2,7 @@
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 280 du 02 / 12 / 2007 texte numéro 7 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20071202&numTexte=7&pageDebut=19537&pageFin=19542
+n° 280 du 02/12/2007 texte numéro 7 à l'adresse suivante : http :// www. legifrance. gouv. fr/ jopdf/ common/ jo _ pdf. jsp ? numJO = 0 & dateJO = 20071202 & numTexte = 7 & pageDebut = 19537 & pageFin = 19542
 
 Le mandat de protection future ne peut prendre effet que lorsqu'il est établi que le mandant ne peut plus pourvoir seul à ses intérêts et à compter, au plus tôt, du 1er janvier 2009.
 
@@ -170,7 +170,7 @@ A. ― Inventaire de mes biens :
 
 A son entrée en fonction, le mandataire chargé de la protection de mon patrimoine en dressera un inventaire. Il en assurera l'actualisation au cours du mandat.
 
-Nota. - Le mandataire conservera l'inventaire et ses actualisations ainsi que les pièces justificatives, il sera tenu de les présenter au juge des tutelles ou au procureur de la République qui lui en ferait la demande.S'il quitte ses fonctions, il devra remettre ces documents à la personne qui lui succédera dans la mission de protection de mon patrimoine.
+Nota.-Le mandataire conservera l'inventaire et ses actualisations ainsi que les pièces justificatives, il sera tenu de les présenter au juge des tutelles ou au procureur de la République qui lui en ferait la demande. S'il quitte ses fonctions, il devra remettre ces documents à la personne qui lui succédera dans la mission de protection de mon patrimoine.
 
 B.-Rémunération de mon ou de mes mandataires :
 
@@ -350,13 +350,13 @@ A.-Signature du mandant :
 
 J'appose ma signature sur le mandat, après avoir pris connaissance des informations contenues dans la notice jointe, ainsi que des paragraphes suivants :
 
-1° Je suis informé (e) que ce mandat prendra effet s'il est présenté au greffe du tribunal d'instance de mon domicile par mon ou mes mandataires, accompagné d'un certificat médical émanant d'un médecin inscrit sur la liste dressée par le procureur de la République et attestant de l'altération soit de mes facultés mentales, soit de mes facultés corporelles, de nature à empêcher l'expression de ma volonté.
+1° Je suis informé (e) que ce mandat prendra effet s'il est présenté au greffe du tribunal judiciaire de mon domicile par mon ou mes mandataires, accompagné d'un certificat médical émanant d'un médecin inscrit sur la liste dressée par le procureur de la République et attestant de l'altération soit de mes facultés mentales, soit de mes facultés corporelles, de nature à empêcher l'expression de ma volonté.
 
 2° Je suis informé (e) que, tant que le mandat n'a pas été mis en oeuvre, je peux le modifier, en remplissant un nouvel exemplaire du formulaire, ou le révoquer en notifiant cette révocation à mon mandataire. Dans les deux cas, l'ancien formulaire doit être barré à chaque page.
 
 3° Je reconnais avoir pris connaissance du fait que, lorsque les formalités prévues au paragraphe 1° ci-dessus auront été accomplies, je ne pourrai plus modifier ou révoquer moi-même le mandat, mais je pourrai alors m'adresser au juge des tutelles de mon domicile pour qu'il se prononce si je conteste sa mise en oeuvre ou son exécution.
 
-4° Je suis informé (e) que je dois conserver l'un des exemplaires originaux du présent mandat et en remettre un exemplaire original à chacune des personnes désignées comme mandataires chargés de la protection de ma personne et / ou de mon patrimoine et une copie à chacune des personnes désignées pour le contrôle de l'exécution des mandats de protection de ma personne et / ou de mon patrimoine.
+4° Je suis informé (e) que je dois conserver l'un des exemplaires originaux du présent mandat et en remettre un exemplaire original à chacune des personnes désignées comme mandataires chargés de la protection de ma personne et/ ou de mon patrimoine et une copie à chacune des personnes désignées pour le contrôle de l'exécution des mandats de protection de ma personne et/ ou de mon patrimoine.
 
 5° Je suis informé (e) que, pour donner date certaine à ce mandat, je dois le faire enregistrer à la recette des impôts de mon domicile.
 
@@ -593,3 +593,7 @@ Attention ! Cette partie est à remplir par la recette des impôts.
 Mention d'enregistrement :
 
 Nota.-Vous devez signer toutes les pages.
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -242,7 +242,7 @@ Greffier en chef, directeur de greffe du tribunal de police de Paris
 
 |
 
-Greffier en chef, directeur de greffe du tribunal d'instance de Bordeaux, Lille, Lyon, Marseille, Metz, Mulhouse, Nantes, Nice, Rouen, Strasbourg, Toulouse, Villeurbanne
+Greffier en chef, directeur de greffe du tribunal judiciaire de Bordeaux, Lille, Lyon, Marseille, Metz, Mulhouse, Nantes, Nice, Rouen, Strasbourg, Toulouse, Villeurbanne
 
 |
 
@@ -254,7 +254,7 @@ Greffier en chef, directeur de greffe du tribunal d'instance de Bordeaux, Lille,
 
 |
 
-Greffier en chef, directeur de greffe du tribunal d'instance de Grenoble, Melun, Montpellier, Toulon
+Greffier en chef, directeur de greffe du tribunal judiciaire de Grenoble, Melun, Montpellier, Toulon
 
 |
 
@@ -290,7 +290,7 @@ Greffier en chef, directeur de greffe du conseil de prud'hommes de Boulogne-Bill
 
 |
 
-Greffier en chef, directeur de greffe des autres tribunaux d'instance et conseils de prud'hommes
+Greffier en chef, directeur de greffe des autres tribunaux judiciaires et conseils de prud'hommes
 
 |
 
@@ -421,3 +421,7 @@ Greffier en chef mis à disposition ou affecté à l'administration centrale cha
 |
 
 25 |
+
+NOTA :
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
