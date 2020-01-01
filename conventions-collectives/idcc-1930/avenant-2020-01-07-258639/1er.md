@@ -1,0 +1,9 @@
+# Article 1er
+
+L'article XI « Financement du régime part salariale » est modifié comme suit :
+
+« Le taux de cotisation maximum dû par le salarié, exprimé en pourcentage du salaire brut, est fixé à 0,27 %.
+
+En tout état de cause, ce taux de cotisation ne pourra pas dépasser 32,5 % du total de la cotisation due pour la couverture des garanties de prévoyance complémentaire décrites dans l'annexe IV.
+
+Lorsqu'une entreprise institue des garanties d'un niveau supérieur à celles décrites dans l'annexe IV, le financement des garanties supplémentaires n'est pas concerné par ces règles. »
