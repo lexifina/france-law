@@ -6,7 +6,7 @@ Agence de la biomédecine (ABM).
 
 Agence de l'environnement et de la maîtrise de l'énergie (ADEME).
 
-Agence française pour la biodiversité (AFB).
+Office français de la biodiversité.
 
 Agence nationale pour la gestion des déchets radioactifs (ANDRA).
 
@@ -42,13 +42,13 @@ IFP Energies nouvelles (IFPEN).
 
 Institut français de recherche pour l'exploitation de la mer (IFREMER).
 
-Institut français des sciences et technologies des transports, de l'aménagement et des réseaux (IFSTTAR).
+Université Gustave Eiffel.
 
 Institut national du cancer (INCA).
 
 Institut national de l'environnement industriel et des risques (INERIS).
 
-Institut national de la recherche agronomique (INRA).
+Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE).
 
 Institut national de la santé et de la recherche médicale (INSERM).
 
@@ -57,8 +57,6 @@ Institut national de transfusion sanguine (INTS).
 Institut de recherche pour le développement (IRD).
 
 Institut de radioprotection et de sûreté nucléaire (IRSN).
-
-Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA).
 
 Institut des sciences et industries du vivant et de l'environnement (AgroParisTech).
 
@@ -70,6 +68,4 @@ Météo-France.
 
 Muséum national d'histoire naturelle (MNHN).
 
-Office national de la chasse et de la faune sauvage (ONCFS).
-
-VetAgro Sup - Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement.
+VetAgro Sup-Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement.
