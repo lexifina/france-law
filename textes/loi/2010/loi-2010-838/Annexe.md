@@ -34,7 +34,7 @@ Commission compétente en matière de coopération internationale
 
 |
 
-Présidence du conseil d'administration de l'Agence française pour la biodiversité
+Direction générale de l'Office français de la biodiversité
 
 |
 
