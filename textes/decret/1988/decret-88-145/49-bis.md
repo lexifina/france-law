@@ -1,0 +1,7 @@
+# Article 49 bis
+
+L'autorité territoriale et l'agent recruté par contrat à durée indéterminée de droit public peuvent convenir des conditions de la rupture du contrat qui les lie, en application du III de l'article 72 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique.
+
+La rupture conventionnelle résulte d'une convention signée par les deux parties. La convention de rupture définit les conditions de celle-ci, notamment le montant de l'indemnité spécifique de rupture conventionnelle dans des limites déterminées par décret.
+
+La rupture conventionnelle ne peut être imposée par l'une ou l'autre des parties.
