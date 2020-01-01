@@ -1,0 +1,15 @@
+# Article 1er
+
+L'article 4.1.1 « Liste des prestations de la garantie santé du régime professionnel de santé » de l'accord du 2 décembre 2015 relatif au régime professionnel de santé est modifié comme suit :
+
+« Article 4.1.1
+
+Liste des prestations de la garantie santé du régime professionnel de santé
+
+Les prestations des tableaux ci-dessous sont exprimées sous déduction des prestations de la sécurité sociale.
+
+(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
+
+https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0007/ boc _ 20200007 _ 0000 _ 0007. pdf
+
+Les remboursements sont limités aux dépenses engagées. Ils sont effectués dans le respect des contrats responsables notamment pour la prise en charge au minimum du ticket modérateur sur l'ensemble des actes remboursés par la sécurité sociale ainsi qu'en matière de dispositifs d'optique médicale et pour certains soins prothétiques dentaires conformément aux dispositions de l'article L. 871-1 du code de la sécurité sociale. »
