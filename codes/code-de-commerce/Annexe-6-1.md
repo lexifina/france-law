@@ -252,7 +252,7 @@ Le département |
 
 Essonne |
 
-TC d'Evry |
+TC d'Évry-Courcouronnes |
 
 Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly |
 
@@ -516,21 +516,21 @@ Ressort du TC |
 
 Moselle |
 
-TGI de Metz |
+Tribunal judiciaire de Metz |
 
-Ressort du TGI |
-
-|
-
-TGI de Sarreguemines |
-
-Ressort du TGI |
+Ressort du tribunal judiciaire |
 
 |
 
-TGI de Thionville |
+Tribunal judiciaire de Sarreguemines |
 
-Ressort du TGI |
+Ressort du tribunal judiciaire |
+
+|
+
+Tribunal judiciaire de Thionville |
+
+Ressort du tribunal judiciaire |
 
 Nièvre |
 
@@ -630,27 +630,27 @@ Le département |
 
 Rhin (Bas-) |
 
-TGI de Saverne |
+Tribunal judiciaire de Saverne |
 
-Ressort du TGI |
+Ressort du tribunal judiciaire |
 
 |
 
-TGI de Strasbourg |
+Tribunal judiciaire de Strasbourg |
 
-Ressort du TGI |
+Ressort du tribunal judiciaire |
 
 Rhin (Haut-) |
 
-TGI de Colmar |
+Tribunal judiciaire de Colmar |
 
-Ressort du TGI |
+Ressort du tribunal judiciaire |
 
 |
 
-TGI de Mulhouse |
+Tribunal judiciaire de Mulhouse |
 
-Ressort du TGI |
+Ressort du tribunal judiciaire |
 
 Rhône |
 
@@ -864,4 +864,4 @@ Le département |
 
 NOTA :
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

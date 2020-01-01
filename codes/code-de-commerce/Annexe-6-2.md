@@ -20,7 +20,7 @@ Ain
 
 |
 
-TGI de Bourg-en-Bresse
+Tribunal judiciaire de Bourg-en-Bresse
 
 |
 
@@ -32,27 +32,27 @@ Aisne
 
 |
 
-TGI de Laon
+Tribunal judiciaire de Laon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Quentin
+Tribunal judiciaire de Saint-Quentin
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Soissons
+Tribunal judiciaire de Soissons
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -60,27 +60,25 @@ Allier
 
 |
 
-TGI de Cusset
+Tribunal judiciaire de Cusset
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Montluçon
+Tribunal judiciaire de Montluçon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Moulins
+Tribunal judiciaire de Moulins |
 
-|
-
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -88,7 +86,7 @@ Alpes-de-Haute-Provence
 
 |
 
-TGI de Digne-les-Bains
+Tribunal judiciaire de Digne-les-Bains
 
 |
 
@@ -100,7 +98,7 @@ Alpes (Hautes-)
 
 |
 
-TGI de Gap
+Tribunal judiciaire de Gap
 
 |
 
@@ -112,19 +110,19 @@ Alpes-Maritimes
 
 |
 
-TGI de Grasse
+Tribunal judiciaire de Grasse
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Nice
+Tribunal judiciaire de Nice
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -132,7 +130,7 @@ Ardèche
 
 |
 
-TGI de Privas
+Tribunal judiciaire de Privas
 
 |
 
@@ -144,7 +142,7 @@ Ardennes
 
 |
 
-TGI de Charleville-Mézières
+Tribunal judiciaire de Charleville-Mézières
 
 |
 
@@ -156,7 +154,7 @@ Ariège
 
 |
 
-TGI de Foix
+Tribunal judiciaire de Foix
 
 |
 
@@ -168,7 +166,7 @@ Aube
 
 |
 
-TGI de Troyes
+Tribunal judiciaire de Troyes
 
 |
 
@@ -180,19 +178,19 @@ Aude
 
 |
 
-TGI de Carcassonne
+Tribunal judiciaire de Carcassonne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Narbonne
+Tribunal judiciaire de Narbonne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -200,7 +198,7 @@ Aveyron
 
 |
 
-TGI de Rodez
+Tribunal judiciaire de Rodez
 
 |
 
@@ -212,27 +210,27 @@ Bouches-du-Rhône
 
 |
 
-TGI d'Aix-en-Provence
+Tribunal judiciaire d'Aix-en-Provence
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Marseille
+Tribunal judiciaire de Marseille
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Tarascon
+Tribunal judiciaire de Tarascon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -240,19 +238,19 @@ Calvados
 
 |
 
-TGI de Caen
+Tribunal judiciaire de Caen
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Lisieux
+Tribunal judiciaire de Lisieux
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -260,7 +258,7 @@ Cantal
 
 |
 
-TGI d'Aurillac
+Tribunal judiciaire d'Aurillac
 
 |
 
@@ -272,7 +270,7 @@ Charente
 
 |
 
-TGI d'Angoulême
+Tribunal judiciaire d'Angoulême
 
 |
 
@@ -284,19 +282,19 @@ Charente-Maritime
 
 |
 
-TGI de la Rochelle
+Tribunal judiciaire de la Rochelle
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saintes
+Tribunal judiciaire de Saintes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -304,7 +302,7 @@ Cher
 
 |
 
-TGI de Bourges
+Tribunal judiciaire de Bourges
 
 |
 
@@ -316,19 +314,17 @@ Corrèze
 
 |
 
-TGI de Brive-la-Gaillarde
+Tribunal judiciaire de Brive-la-Gaillarde
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Tulle
+Tribunal judiciaire de Tulle |
 
-|
-
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -336,7 +332,7 @@ Corse-du-Sud
 
 |
 
-TGI d'Ajaccio
+Tribunal judiciaire d'Ajaccio
 
 |
 
@@ -348,7 +344,7 @@ Corse (Haute-)
 
 |
 
-TGI de Bastia
+Tribunal judiciaire de Bastia
 
 |
 
@@ -360,7 +356,7 @@ Côte-d'Or
 
 |
 
-TGI de Dijon
+Tribunal judiciaire de Dijon
 
 |
 
@@ -372,11 +368,11 @@ Côtes-d'Armor
 
 |
 
-TGI de Saint-Brieuc
+Tribunal judiciaire de Saint-Brieuc
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -384,7 +380,7 @@ Creuse
 
 |
 
-TGI de Guéret
+Tribunal judiciaire de Guéret
 
 |
 
@@ -396,19 +392,19 @@ Dordogne
 
 |
 
-TGI de Bergerac
+Tribunal judiciaire de Bergerac
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Périgueux
+Tribunal judiciaire de Périgueux
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -416,19 +412,19 @@ Doubs
 
 |
 
-TGI de Besançon
+Tribunal judiciaire de Besançon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Montbéliard
+Tribunal judiciaire de Montbéliard
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -436,7 +432,7 @@ Drôme
 
 |
 
-TGI de Valence
+Tribunal judiciaire de Valence
 
 |
 
@@ -448,7 +444,7 @@ Essonne
 
 |
 
-TGI d'Evry
+Tribunal judiciaire d'Évry-Courcouronnes
 
 |
 
@@ -460,7 +456,7 @@ Eure
 
 |
 
-TGI d'Evreux
+Tribunal judiciaire d'Evreux
 
 |
 
@@ -472,7 +468,7 @@ Eure-et-Loir
 
 |
 
-TGI de Chartres
+Tribunal judiciaire de Chartres
 
 |
 
@@ -484,19 +480,19 @@ Finistère
 
 |
 
-TGI de Brest
+Tribunal judiciaire de Brest
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Quimper
+Tribunal judiciaire de Quimper
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -504,19 +500,19 @@ Gard
 
 |
 
-TGI d'Alès
+Tribunal judiciaire d'Alès
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Nîmes
+Tribunal judiciaire de Nîmes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -524,19 +520,17 @@ Garonne (Haute-)
 
 |
 
-TGI de Toulouse
+Tribunal judiciaire de Toulouse
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Gaudens
+Tribunal judiciaire de Saint-Gaudens |
 
-|
-
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -544,7 +538,7 @@ Gers
 
 |
 
-TGI d'Auch
+Tribunal judiciaire d'Auch
 
 |
 
@@ -556,19 +550,19 @@ Gironde
 
 |
 
-TGI de Bordeaux
+Tribunal judiciaire de Bordeaux
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Libourne
+Tribunal judiciaire de Libourne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -576,19 +570,19 @@ Hérault
 
 |
 
-TGI de Béziers
+Tribunal judiciaire de Béziers
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Montpellier
+Tribunal judiciaire de Montpellier
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -596,19 +590,19 @@ Ille-et-Vilaine
 
 |
 
-TGI de Rennes
+Tribunal judiciaire de Rennes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Malo
+Tribunal judiciaire de Saint-Malo
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -616,7 +610,7 @@ Indre
 
 |
 
-TGI de Châteauroux
+Tribunal judiciaire de Châteauroux
 
 |
 
@@ -628,7 +622,7 @@ Indre-et-Loire
 
 |
 
-TGI de Tours
+Tribunal judiciaire de Tours
 
 |
 
@@ -640,27 +634,25 @@ Isère
 
 |
 
-TGI de Bourgoin-Jallieu
+Tribunal judiciaire de Bourgoin-Jallieu |
+
+Ressort du tribunal judiciaire
 
 |
 
-Ressort du TGI
+Tribunal judiciaire de Grenoble
 
 |
 
-TGI de Grenoble
+Ressort du tribunal judiciaire
 
 |
 
-Ressort du TGI
+Tribunal judiciaire de Vienne
 
 |
 
-TGI de Vienne
-
-|
-
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -668,7 +660,7 @@ Jura
 
 |
 
-TGI de Lons-le-Saunier
+Tribunal judiciaire de Lons-le-Saunier
 
 |
 
@@ -680,19 +672,19 @@ Landes
 
 |
 
-TGI de Dax
+Tribunal judiciaire de Dax
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Mont-de-Marsan
+Tribunal judiciaire de Mont-de-Marsan
 
 |
 
-Ressort du TGI, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour
+Ressort du tribunal judiciaire, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour
 
 |
 
@@ -700,7 +692,7 @@ Loir-et-Cher
 
 |
 
-TGI de Blois
+Tribunal judiciaire de Blois
 
 |
 
@@ -712,19 +704,19 @@ Loire
 
 |
 
-TGI de Roanne
+Tribunal judiciaire de Roanne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Etienne
+Tribunal judiciaire de Saint-Etienne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -732,7 +724,7 @@ Loire (Haute-)
 
 |
 
-TGI du Puy-en-Velay
+Tribunal judiciaire du Puy-en-Velay
 
 |
 
@@ -744,19 +736,19 @@ Loire-Atlantique
 
 |
 
-TGI de Nantes
+Tribunal judiciaire de Nantes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Nazaire
+Tribunal judiciaire de Saint-Nazaire
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -764,19 +756,19 @@ Loiret
 
 |
 
-TGI de Montargis
+Tribunal judiciaire de Montargis
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI d'Orléans
+Tribunal judiciaire d'Orléans
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -784,7 +776,7 @@ Lot
 
 |
 
-TGI de Cahors
+Tribunal judiciaire de Cahors
 
 |
 
@@ -796,7 +788,7 @@ Lot-et-Garonne
 
 |
 
-TGI d'Agen
+Tribunal judiciaire d'Agen
 
 |
 
@@ -808,7 +800,7 @@ Lozère
 
 |
 
-TGI de Mende
+Tribunal judiciaire de Mende
 
 |
 
@@ -820,19 +812,17 @@ Maine-et-Loire
 
 |
 
-TGI d'Angers
+Tribunal judiciaire d'Angers
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saumur
+Tribunal judiciaire de Saumur |
 
-|
-
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -840,19 +830,19 @@ Manche
 
 |
 
-TGI de Cherbourg-Octeville
+Tribunal judiciaire de Cherbourg-Octeville
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Coutances
+Tribunal judiciaire de Coutances
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -860,19 +850,19 @@ Marne
 
 |
 
-TGI de Châlons-en-Champagne
+Tribunal judiciaire de Châlons-en-Champagne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Reims
+Tribunal judiciaire de Reims
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -880,7 +870,7 @@ Marne (Haute-)
 
 |
 
-TGI de Chaumont
+Tribunal judiciaire de Chaumont
 
 |
 
@@ -892,7 +882,7 @@ Mayenne
 
 |
 
-TGI de Laval
+Tribunal judiciaire de Laval
 
 |
 
@@ -904,19 +894,19 @@ Meurthe-et-Moselle
 
 |
 
-TGI de Val de Briey
+Tribunal judiciaire de Val de Briey
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Nancy
+Tribunal judiciaire de Nancy
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -924,19 +914,19 @@ Meuse
 
 |
 
-TGI de Bar-le-Duc
+Tribunal judiciaire de Bar-le-Duc
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Verdun
+Tribunal judiciaire de Verdun
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -944,19 +934,19 @@ Morbihan
 
 |
 
-TGI de Lorient
+Tribunal judiciaire de Lorient
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Vannes
+Tribunal judiciaire de Vannes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -964,27 +954,27 @@ Moselle
 
 |
 
-TGI de Metz
+Tribunal judiciaire de Metz
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Sarreguemines
+Tribunal judiciaire de Sarreguemines
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Thionville
+Tribunal judiciaire de Thionville
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -992,7 +982,7 @@ Nièvre
 
 |
 
-TGI de Nevers
+Tribunal judiciaire de Nevers
 
 |
 
@@ -1004,51 +994,51 @@ Nord
 
 |
 
-TGI d'Avesnes-sur-Helpe
+Tribunal judiciaire d'Avesnes-sur-Helpe
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Cambrai
+Tribunal judiciaire de Cambrai
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Douai
+Tribunal judiciaire de Douai
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Dunkerque
+Tribunal judiciaire de Dunkerque
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Lille
+Tribunal judiciaire de Lille
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Valenciennes
+Tribunal judiciaire de Valenciennes
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1056,27 +1046,27 @@ Oise
 
 |
 
-TGI de Beauvais
+Tribunal judiciaire de Beauvais
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Compiègne
+Tribunal judiciaire de Compiègne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Senlis
+Tribunal judiciaire de Senlis
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1084,19 +1074,19 @@ Orne
 
 |
 
-TGI d'Alençon
+Tribunal judiciaire d'Alençon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI d'Argentan
+Tribunal judiciaire d'Argentan
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1104,7 +1094,7 @@ Paris
 
 |
 
-TGI de Paris
+Tribunal judiciaire de Paris
 
 |
 
@@ -1116,35 +1106,35 @@ Pas-de-Calais
 
 |
 
-TGI d'Arras
+Tribunal judiciaire d'Arras
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Béthune
+Tribunal judiciaire de Béthune
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Boulogne-sur-Mer
+Tribunal judiciaire de Boulogne-sur-Mer
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Saint-Omer
+Tribunal judiciaire de Saint-Omer
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1152,7 +1142,7 @@ Puy-de-Dôme
 
 |
 
-TGI de Clermont-Ferrand
+Tribunal judiciaire de Clermont-Ferrand
 
 |
 
@@ -1164,19 +1154,19 @@ Pyrénées-Atlantiques
 
 |
 
-TGI de Bayonne
+Tribunal judiciaire de Bayonne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Pau
+Tribunal judiciaire de Pau
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1184,7 +1174,7 @@ Pyrénées (Hautes-)
 
 |
 
-TGI de Tarbes
+Tribunal judiciaire de Tarbes
 
 |
 
@@ -1196,7 +1186,7 @@ Pyrénées-Orientales
 
 |
 
-TGI de Perpignan
+Tribunal judiciaire de Perpignan
 
 |
 
@@ -1208,19 +1198,19 @@ Rhin (Bas-)
 
 |
 
-TGI de Saverne
+Tribunal judiciaire de Saverne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Strasbourg
+Tribunal judiciaire de Strasbourg
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1228,19 +1218,19 @@ Rhin (Haut-)
 
 |
 
-TGI de Colmar
+Tribunal judiciaire de Colmar
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Mulhouse
+Tribunal judiciaire de Mulhouse
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1248,19 +1238,19 @@ Rhône
 
 |
 
-TGI de Lyon
+Tribunal judiciaire de Lyon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Villefranche-sur-Saône
+Tribunal judiciaire de Villefranche-sur-Saône
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1268,7 +1258,7 @@ Saône (Haute-)
 
 |
 
-TGI de Vesoul
+Tribunal judiciaire de Vesoul
 
 |
 
@@ -1280,19 +1270,19 @@ Saône-et-Loire
 
 |
 
-TGI de Chalon-sur-Saône
+Tribunal judiciaire de Chalon-sur-Saône
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Mâcon
+Tribunal judiciaire de Mâcon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1300,7 +1290,7 @@ Sarthe
 
 |
 
-TGI du Mans
+Tribunal judiciaire du Mans
 
 |
 
@@ -1312,19 +1302,19 @@ Savoie
 
 |
 
-TGI d'Albertville
+Tribunal judiciaire d'Albertville
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Chambéry
+Tribunal judiciaire de Chambéry
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1332,27 +1322,27 @@ Savoie (Haute-)
 
 |
 
-TGI d'Annecy
+Tribunal judiciaire d'Annecy
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Bonneville
+Tribunal judiciaire de Bonneville
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Thonon-les-Bains
+Tribunal judiciaire de Thonon-les-Bains
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1360,7 +1350,7 @@ Seine (Hauts-de-)
 
 |
 
-TGI Nanterre
+Tribunal judiciaire Nanterre
 
 |
 
@@ -1372,27 +1362,27 @@ Seine-Maritime
 
 |
 
-TGI de Dieppe
+Tribunal judiciaire de Dieppe
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI du Havre
+Tribunal judiciaire du Havre
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Rouen
+Tribunal judiciaire de Rouen
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1400,27 +1390,27 @@ Seine-et-Marne
 
 |
 
-TGI de Fontainebleau
+Tribunal judiciaire de Fontainebleau
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Meaux
+Tribunal judiciaire de Meaux
 
 |
 
-Ressort du TGI, à l'exception de l'emprise de l'aérodrome de Roissy -Charles-de-Gaulle
+Ressort du tribunal judiciaire, à l'exception de l'emprise de l'aérodrome de Roissy -Charles-de-Gaulle
 
 |
 
-TGI de Melun
+Tribunal judiciaire de Melun
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1428,7 +1418,7 @@ Seine-Saint-Denis
 
 |
 
-TGI de Bobigny
+Tribunal judiciaire de Bobigny
 
 |
 
@@ -1440,7 +1430,7 @@ Sèvres (Deux-)
 
 |
 
-TGI Niort
+Tribunal judiciaire Niort
 
 |
 
@@ -1452,7 +1442,7 @@ Somme
 
 |
 
-TGI d'Amiens
+Tribunal judiciaire d'Amiens
 
 |
 
@@ -1464,19 +1454,19 @@ Tarn
 
 |
 
-TGI d'Albi
+Tribunal judiciaire d'Albi
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Castres
+Tribunal judiciaire de Castres
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1484,7 +1474,7 @@ Tarn-et-Garonne
 
 |
 
-TGI de Montauban
+Tribunal judiciaire de Montauban
 
 |
 
@@ -1496,7 +1486,7 @@ Territoire de Belfort
 
 |
 
-TGI de Belfort
+Tribunal judiciaire de Belfort
 
 |
 
@@ -1508,7 +1498,7 @@ Val-de-Marne
 
 |
 
-TGI de Créteil
+Tribunal judiciaire de Créteil
 
 |
 
@@ -1520,7 +1510,7 @@ Val-d'Oise
 
 |
 
-TGI de Pontoise
+Tribunal judiciaire de Pontoise
 
 |
 
@@ -1532,19 +1522,19 @@ Var
 
 |
 
-TGI de Draguignan
+Tribunal judiciaire de Draguignan
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Toulon
+Tribunal judiciaire de Toulon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1552,19 +1542,19 @@ Vaucluse
 
 |
 
-TGI d'Avignon
+Tribunal judiciaire d'Avignon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Carpentras
+Tribunal judiciaire de Carpentras
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1572,21 +1562,21 @@ Vendée
 
 |
 
-TGI de La Roche-sur-Yon
+Tribunal judiciaire de La Roche-sur-Yon
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
 |
 
-TGI des Sables-d'Olonne
+Tribunal judiciaire des Sables-d'Olonne
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1594,7 +1584,7 @@ Vienne
 
 |
 
-TGI de Poitiers
+Tribunal judiciaire de Poitiers
 
 |
 
@@ -1606,7 +1596,7 @@ Vienne (Haute-)
 
 |
 
-TGI de Limoges
+Tribunal judiciaire de Limoges
 
 |
 
@@ -1618,7 +1608,7 @@ Vosges
 
 |
 
-TGI d'Epinal
+Tribunal judiciaire d'Epinal
 
 |
 
@@ -1630,19 +1620,19 @@ Yonne f
 
 |
 
-TGI d'Auxerre
+Tribunal judiciaire d'Auxerre
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
-TGI de Sens
+Tribunal judiciaire de Sens
 
 |
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 |
 
@@ -1650,7 +1640,7 @@ Yvelines
 
 |
 
-TGI de Versailles
+Tribunal judiciaire de Versailles
 
 |
 
@@ -1660,4 +1650,4 @@ Le département
 
 NOTA :
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
