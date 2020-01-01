@@ -1,0 +1,15 @@
+# Article 1er
+
+L'article 5 « Cotisation et répartition » de l'avenant n° 83 à la convention collective nationale est modifié comme suit :
+
+« La cotisation du régime « remboursement complémentaire de frais de soins de santé » est exprimée en pourcentage du plafond mensuel de la sécurité sociale (PMSS). Elle est fixée à 1,40 % du PMSS pour les salariés relevant du régime général et à 0,98 % pour les salariés relevant du régime Alsace-Moselle.
+
+Pour l'année 2020, la cotisation mensuelle sera appelée comme en 2019 à :
+
+– 1,36 % du PMSS pour les salariés relevant du régime général – soit 46,62 € ;
+
+– 0,94 % du PMSS pour les salariés relevant du régime Alsace-Moselle – soit 32,22 €.
+
+(Valeur du PMSS au 1er janvier 2020 : 3 428 €) »
+
+Les autres paragraphes restent inchangés.
