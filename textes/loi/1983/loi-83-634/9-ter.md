@@ -6,8 +6,6 @@ Il est saisi des projets de loi, d'ordonnance et de décret communs à au moins 
 
 Lorsque le projet de texte comporte, en outre, des dispositions propres à l'une des fonctions publiques, le conseil commun peut également être consulté sur ces dispositions, après accord du président du Conseil supérieur de la fonction publique territoriale ou du Conseil supérieur de la fonction publique hospitalière selon la fonction publique concernée, dès lors qu'elles présentent un lien avec les dispositions communes.
 
-Le rapport annuel mentionné au dernier alinéa du I de l'article L. 323-8-6-1 du code du travail est soumis au Conseil commun de la fonction publique.
-
 La consultation du Conseil commun de la fonction publique, lorsqu'elle est obligatoire ou lorsqu'elle intervient en application du troisième alinéa du présent article, remplace celle des conseils supérieurs de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière.
 
 Le Conseil commun de la fonction publique est présidé par le ministre chargé de la fonction publique ou son représentant.
@@ -32,4 +30,4 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 NOTA :
 
-Conformément au A du II de l'article 94 de la loi n° 2019-828 du 6 août 2019, les dispositions résultant de l'article 4 de ladite loi entrent en vigueur en vue du prochain renouvellement général des instances dans la fonction publique.
+Conformément au VIII de l'article 90 de la loi n° 2019-828 du 6 août 2019, les dispositions de l'article 9 ter résultant du 1° du I dudit article de ladite loi entrent en vigueur le 1er janvier 2020.
