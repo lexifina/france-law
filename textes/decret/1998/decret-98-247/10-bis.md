@@ -54,7 +54,7 @@ II.-Lors de son immatriculation, la personne morale déclare, pour être mention
 
 3° Le cas échéant, qu'elle a la qualité de société coopérative artisanale régie par le titre 1er de la loi du 20 juillet 1983 susvisée ;
 
-4° Le cas échéant, les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, domicile, lorsqu'il est différent du sien, et nationalité du conjoint du gérant associé unique ou du gérant associé majoritaire, ou de la personne qui lui est liée par un pacte civil de solidarité, qui collabore effectivement à son activité dans les conditions définies par les articles R. 121-1 à R. 121-3 du code de commerce ;
+4° Le cas échéant, les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, domicile, lorsqu'il est différent du sien, et nationalité du conjoint du gérant associé unique ou du gérant associé majoritaire, ou de la personne qui lui est liée par un pacte civil de solidarité, qui collabore effectivement à son activité dans les conditions définies par l'article R. 121-1 du code de commerce ;
 
 5° Le cas échéant, qu'elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique conclu dans les conditions prévues au chapitre VII du titre II du Livre Ier du code de commerce, en précisant la dénomination sociale de la personne morale responsable de l'appui, l'adresse de son siège social, ainsi que, si elle est immatriculée dans un registre public, le lieu d'immatriculation et le numéro unique d'identification prévu à l'article 3 de la loi du 11 février 1994 susvisée ;
 
