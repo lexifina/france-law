@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant s'applique à toutes les entreprises qui entrent dans le champ d'application de la convention collective nationale des casinos du 29 mars 2002, étendue par l'arrêté du 2 avril 2003 (IDCC 2257).
