@@ -12,21 +12,21 @@ III. 3.1. a. Entreprises d'au moins 11 salariés et de moins de 50 salariés
 
 Dans les entreprises au sein desquelles a été créé un comité social et économique conventionnel (tel que défini à l'article III. 2.1), l'entreprise verse au moins les contributions suivantes :
 
-– 0,6250 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au FNAS ;
+– 0,825 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au FNAS ;
 
-– 0,6250 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au comité d'entreprise conventionnel ;
+– 0,625 % des salaires bruts versés aux salariés autres que les intermittents du spectacle au comité social et économique conventionnel ;
 
-– 0,125 % des salaires bruts versés aux salariés intermittents du spectacle au comité d'entreprise conventionnel ;
+– 0,125 % des salaires bruts versés aux salariés intermittents du spectacle au comité social et économique conventionnel ;
 
-– 1,125 % des salaires bruts versés aux salariés intermittents du spectacle au FNAS.
+– 1,325 % des salaires bruts versés aux salariés intermittents du spectacle au FNAS.
 
-Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
+L'ensemble de ces contributions constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
 
 (1)
 
 III. 3.1. b. Entreprises de moins de 11 salariés
 
-Dans les entreprises de moins de 11 salariés, l'entreprise verse au FNAS une contribution égale à 1,25 % de la totalité des salaires bruts.
+Dans les entreprises de moins de 11 salariés, l'entreprise verse au FNAS une contribution égale à 1,45 % de la totalité des salaires bruts.
 
 Dans ces entreprises, lorsqu'il n'y a pas de représentants élus du personnel, il n'est pas constitué de comité social et économique conventionnel. Lorsqu'un comité social et économique est créé, ses attributions seront celles définies à l'article III. 1.4.
 
@@ -106,21 +106,23 @@ Article 7
 
 L'assemblée générale se compose de :
 
-– 20 représentants du personnel élus des entreprises de moins de 11 salariés ainsi qu'il est dit à l'article 8. En cas de carence aux élections des représentants du personnel, des salariés non élus peuvent être présentés ;
+– vingt représentants du personnel élus des entreprises de moins de 11 salariés ainsi qu'il est dit à l'article 8. En cas de carence aux élections des représentants du personnel, des salariés non élus peuvent être présentés ;
 
-– 40 représentants des salariés intermittents du spectacle tels que définis par l'article III. 1.2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
+– quarante représentants des salariés intermittents du spectacle tels que définis par l'article III. 1.2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
 
-– 1 représentant de chaque comité d'entreprise conventionnel ou comité social et économique des structures employant de 11 à moins de 50 salariés définis par l'article III. 2.2 de la présente convention ;
+– un représentant de chaque comité d'entreprise conventionnel ou comité social et économique des structures employant de 11 à moins de 50 salariés définis par l'article III. 2.2 de la présente convention ;
 
-– 1 représentant de chaque comité d'entreprise ou comité social et économique des structures, entrant dans le champ d'application de la présente convention collective, employant au moins 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2.1 ;
+– un représentant de chaque comité d'entreprise ou comité social et économique des structures, entrant dans le champ d'application de la présente convention collective, employant au moins 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2.1.
 
 Participent également aux travaux de l'assemblée générale avec voix consultative :
 
-– 2 représentants, 1 titulaire et 1 suppléant, de chaque syndicat professionnel de salariés désignés à l'article 6. Ce sont les “ membres de droit ” de l'association :
+– deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés désignés à l'article 6. Ce sont les “ membres de droit ” de l'association :
 
-– – 2 représentants, 1 titulaire et 1 suppléant, de chaque syndicat professionnel de salariés non représentatif dans le champ de la présente convention collective ayant présenté au moins une liste aux dernières élections du FNAS. Ce sont les “ membres invités ” de l'association ;
+– deux représentants, un titulaire et un suppléant, de chaque syndicat professionnel de salariés non représentatif dans le champ de la présente convention collective ayant présenté au moins une liste aux dernières élections du FNAS. Ce sont des “ membres invités ” de l'association ;
 
-– – la commission de suivi, qui mandate son président aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
+– quatre représentants, deux titulaires et deux suppléants dûment mandatés par les syndicats professionnels d'employeurs représentatifs dans le champ de la présente convention collective. Ils font partie des “ membres invités ” de l'association.
+
+– la commission de suivi, qui mandate son président aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
 
 Les modalités de désignation des membres de droit et membres invités sont précisées dans le règlement intérieur du FNAS.
 
@@ -228,15 +230,17 @@ Article 13
 
 Le conseil de gestion se réunit (selon un calendrier à établir) au moins une fois par trimestre, et chaque fois qu'il est convoqué par son président, ou sur demande écrite du tiers de ses membres, au moins.
 
-L'ordre du jour des réunions est établi par le secrétaire. Il comporte obligatoirement les questions particulières dont la discussion est souhaitée par 6 membres du conseil de gestion, au moins. Les délibérations sont prises à la majorité des membres présents ou représentés : majorité absolue au premier tour, majorité simple au deuxième tour.
+L'ordre du jour des réunions est établi par le secrétaire. Il comporte obligatoirement les questions particulières dont la discussion est souhaitée par six membres du conseil de gestion, au moins. Les délibérations sont prises à la majorité des membres présents ou représentés : majorité absolue au premier tour, majorité simple au 2e tour.
 
-Un quorum de 9 membres présents ou représentés est nécessaire à la validité des délibérations.
+Un quorum de neuf membres présents ou représentés est nécessaire à la validité des délibérations.
 
 Tout membre empêché peut se faire représenter par un autre membre du conseil de gestion.
 
 Chaque membre présent ne pourra disposer de plus de 2 pouvoirs.
 
 Les représentants des syndicats professionnels de salariés, membres de droits et membres invités, désignés à l'article 7, participent au conseil de gestion avec voix consultative.
+
+Les représentants des syndicats professionnels d'employeurs désignés à l'article 7, participent au conseil de gestion avec voix consultative.
 
 Le conseil de gestion peut inviter à tout ou partie de ses réunions telle ou telle personne, même étrangère à l'association, dont la présence paraît utile à ses travaux.
 
@@ -374,10 +378,10 @@ Article 30
 
 Le président est tenu de notifier, dans les 3 mois à la préfecture du siège de l'association, tout changement survenu dans l'administration de l'association.
 
-(1) A l'article III.3.1.a de la convention collective, les mentions « Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L.2253-1 du code du travail. » sont exclues de l'extension comme étant contraires aux dispositions de l'article L. 2253-1 du code du travail.
+(1) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
 
 (Arrêté du 18 décembre 2020 - art. 1)
 
-(1) A l'article III.3.1.b de la convention collective, les mentions « Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L.2253-1 du code du travail. » sont exclues de l'extension comme étant contraires aux dispositions de l'article L. 2253-1 du code du travail.
+(2) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
 
 (Arrêté du 18 décembre 2020 - art. 1)

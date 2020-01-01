@@ -2,11 +2,13 @@
 
 III. 2.1. Comité social et économique dans les entreprises d'au moins 50 salariés
 
-Dans les entreprises d'au moins 50 salariés, les activités sociales et culturelles du comité social et économique sont financées par une contribution de l'employeur d'au moins 1,25 % du montant des salaires bruts annuels versés aux salariés de l'entreprise. Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
+Dans les entreprises d'au moins 50 salariés, les activités sociales et culturelles du comité social et économique sont financées par une contribution de l'employeur d'au moins 1,25 % du montant des salaires bruts annuels versés aux salariés de l'entreprise. Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail. Conformément aux dispositions de l'article L. 2315-61 du code du travail, une subvention annuelle égale à 0,2 % du montant des salaires bruts annuels versés sera allouée au fonctionnement du comité social et économique.
 
-(1) Conformément aux dispositions de l'article L. 2315-61 du code du travail, une subvention annuelle égale à 0,2 % du montant des salaires bruts annuels versés sera allouée au fonctionnement du comité social et économique.
+Un comité social et économique peut, s'il le souhaite, adhérer volontairement au FNAS, dans ce cas, la part versée au FNAS sera identique à celle définie l'article III. 3.1 a soit 0,825 % des salaires bruts versés aux salariés autres que les intermittents du spectacle et 1,325 % des salaires bruts versés aux salariés intermittents du spectacle.
 
-Un comité social et économique peut, s'il le souhaite, adhérer volontairement au FNAS.
+L'ensemble de ces contributions constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail.
+
+(1)
 
 III. 2.2. Comité social et économique conventionnel dans les entreprises de 11 à moins de 50 salariés
 
@@ -24,8 +26,8 @@ Cet expert est à la charge de l'employeur dans les seuls cas suivants :
 
 – mise en œuvre d'une procédure de licenciement économique.
 
-L'accès aux documents de l'entreprise par l'expert désigné par le comité social et économique conventionnel ne peut s'effectuer que dans le strict cadre de sa mission spécifique. Cette mission fera l'objet d'un accord spécifique entre le directeur d'établissement ou son représentant et le comité social et économique conventionnel.
+L'accès aux documents de l'entreprise par l'expert désigné par le comité social et économique conventionnel ne peut s'effectuer que dans le strict cadre de sa mission spécifique. Cette mission fera l'objet d'un accord spécifique entre le directeur d'établissement ou son représentant et le comité social et économique conventionnel
 
-(1) A l'article III. 2.1 de la convention collective, les mentions « Cette contribution constitue une garantie des salaires minima hiérarchiques en application de l'article L. 2253-1 du code du travail. » sont exclues de l'extension comme étant contraires aux dispositions de l'article L. 2253-1 du code du travail.
+(1) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
 
 (Arrêté du 18 décembre 2020-art. 1)
