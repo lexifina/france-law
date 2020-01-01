@@ -6,15 +6,15 @@ N'est pas soumise à la publicité la part de la cotisation foncière des entrep
 
 2. La publicité est faite à la diligence de l'administration chargée du recouvrement.
 
-3. L'inscription ne peut être requise, selon la nature de la créance, qu'à partir de la date à laquelle :
+3. L'inscription ne peut être faite qu'à compter, selon la nature de la créance, de l'émission du titre exécutoire ou de la date à laquelle le redevable a encouru une majoration pour défaut de paiement.
 
-1° Le redevable a encouru une majoration pour défaut de paiement pour les impôts directs recouvrés par les comptables de la direction générale de la comptabilité publique ;
+4. La publicité est obligatoire lorsque le montant des sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être publiées dépasse, au terme d'un semestre civil, un seuil fixé par décret.
 
-2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes, ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts.
+Il n'est pas procédé à l'inscription des sommes mentionnées au premier alinéa lorsque le débiteur :
 
-4. La publicité est obligatoire lorsqu'il est constaté, à l'issue des neuf mois qui suivent la première date de l'un ou l'autre des événements mentionnés au 3, que le montant des sommes dues à compter de cette date par le redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites dépasse un seuil fixé par décret.
+1° Respecte un plan d'apurement échelonné de sa dette ainsi que ses obligations fiscales courantes. Lorsque le plan est dénoncé, le comptable public procède à l'inscription dans un délai de deux mois ;
 
-Ne sont pas soumises à la publicité les sommes visées au premier alinéa lorsque le débiteur respecte un plan d'apurement échelonné de sa dette ainsi que ses obligations fiscales courantes. Dès que le plan est dénoncé, le comptable public doit procéder à la publication dans un délai de deux mois.
+2° A déposé, dans les conditions prévues aux articles L. 196 et L. 197 du livre des procédures fiscales, une réclamation d'assiette recevable assortie d'une demande expresse de sursis de paiement prévue à l'article L. 277 du même livre. Dès l'expiration du délai dont dispose le redevable pour saisir le tribunal compétent après notification de la décision de l'administration ou, en cas de poursuite du litige, dès la notification du jugement de la juridiction saisie, le comptable public procède à l'inscription dans un délai de deux mois.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le présent article à la charge de l'administration, quel que soit le montant du paiement.
 
@@ -29,3 +29,7 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 8 bis. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors que le débiteur s'est acquitté de sa dette.
 
 9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice.
+
+NOTA :
+
+Conformément au III de l’article 61 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions s'appliquent aux créances exigibles à compter d'une date fixée par décret, et au plus tard à compter du 1er janvier 2020.
