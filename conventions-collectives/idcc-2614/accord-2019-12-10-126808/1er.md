@@ -1,0 +1,53 @@
+# Article 1er
+
+Cet accord est applicable aux ETAM des entreprises de travaux publics situées dans la région Franche-Comté dans ses limites territoriales en vigueur au 31 décembre 2015.
+
+Les salaires minima hiérarchiques annuels fixés sur la base de 35 heures par semaine ou 35 heures en moyenne sur l'année des positions de la classification des ETAM des travaux publics pour 2020 sont les suivants :
+
+(En euros.)
+
+Niveau |
+
+Salaire minimum hiérarchique |
+
+|
+
+Année 2020 |
+
+|
+
+Base 35 heures |
+
+A |
+
+20 059 |
+
+B |
+
+20 719 |
+
+C |
+
+22 919 |
+
+D |
+
+25 037 |
+
+E |
+
+27 249 |
+
+F |
+
+30 202 |
+
+G |
+
+33 527 |
+
+H |
+
+34 304 |
+
+Aucun salaire ne peut être inférieur au salaire minimum interprofessionnel de croissance (Smic) en vigueur.
