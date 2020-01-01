@@ -1,0 +1,123 @@
+# Article Annexe I
+
+ANNEXES
+
+ANNEXE I
+
+RÉFÉRENTIEL DE L'UNITÉ FACULTATIVE « MOBILITÉ »
+
+Découverte professionnelle en mobilité
+
+Repères |
+
+Compétences visées |
+
+Description des compétences |
+
+Résultats attendus |
+
+C 1 |
+
+Comprendre et se faire comprendre dans un contexte professionnel étranger |
+
+Etre capable de :
+
+- s'informer, collecter et analyser des données et des informations
+
+- identifier les instructions et consignes, orales et écrites
+
+- utiliser un mode de communication diversifié et adapté (gestes, support écrit, numérique, graphique, etc.) |
+
+Transmettre des informations et communiquer en utilisant différents média/moyens
+
+Agir en conformité avec les consignes orales et écrites reçues |
+
+C 2 |
+
+Caractériser le contexte professionnel étranger |
+
+Etre capable de :
+
+- décrire la structure d'accueil, en termes de situation géographique, statut, taille, organisation, objet et activités, principaux indicateurs de performance
+
+- décrire les règles de fonctionnement de la structure (horaires de travail, organisation hiérarchique, contraintes de confidentialité, etc.)
+
+- situer précisément le service accueillant dans l'organisation générale de la structure
+
+- identifier les partenaires internes et externes de la structure |
+
+Présenter la structure et le cadre de travail, l'organigramme, le service
+
+Nommer et expliquer les règles de fonctionnement de la structure, les consignes orales et écrites
+
+Nommer et situer les partenaires internes et externes de la structure |
+
+C 3 |
+
+Réaliser partiellement une activité professionnelle, sous contrôle, dans un contexte professionnel étranger |
+
+Etre capable de :
+
+- identifier et mettre en œuvre les opérations nécessaires pour la réalisation des tâches confiées
+
+- appliquer les consignes
+
+- repérer les risques professionnels liés aux tâches confiées
+
+- respecter les règles de sécurité |
+
+Assurer correctement la réalisation des tâches professionnelles confiées dans le respect des consignes et des règles de sécurité |
+
+C 4 |
+
+Comparer des activités professionnelles similaires, réalisées ou observées, à l'étranger et en France |
+
+Etre capable de :
+
+- décrire une activité réalisée ou observée dans un contexte étranger : tâches, contexte et conditions d'exercice, méthodes, résultats attendus |
+
+Identifier les similitudes et les différences entre des activités de même type réalisées ou observées à l'étranger et en France |
+
+Découverte culturelle en mobilité
+
+Repères |
+
+Compétences visées |
+
+Description des compétences |
+
+Résultats attendus |
+
+C 5 |
+
+Se repérer dans un nouvel
+
+environnement |
+
+Etre capable de :
+
+- situer spatialement la structure d'accueil par rapport à des repères
+
+- caractériser l'espace dans lequel s'inscrit la structure d'accueil : territoire urbain, péri-urbain, rural, degré d'accessibilité, modalités de transports, etc. |
+
+Situer le lieu d'apprentissage étranger par rapport à des lieux publics
+
+Décrire l'espace dans lequel s'inscrit la structure d'accueil
+
+Citer quatre caractéristiques géographiques du pays d'accueil (population, climat, relief, etc.) |
+
+C 6 |
+
+Identifier des caractéristiques culturelles du contexte d'accueil |
+
+Etre capable de :
+
+- identifier, dans le contexte étranger (familial ou scolaire ou professionnel) des caractéristiques d'ordre culturel : habitudes alimentaires, mode de vie, rythmes, horaires, etc.
+
+- présenter un élément/fait d'ordre culturel observé : monument, fête, manifestation culturelle, etc.
+
+- présenter un élément/fait d'actualité, local ou national, survenu pendant le séjour |
+
+Décrire des éléments culturels caractéristiques du contexte étranger (familial ou scolaire ou professionnel)
+
+Présenter des éléments de ressemblance et de différence entre les contextes culturels français et étrangers |
