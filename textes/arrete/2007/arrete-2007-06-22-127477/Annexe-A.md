@@ -190,13 +190,17 @@ Autorités signataires de marchés |
 
 MAPA × 50 |
 
-Direction de la stratégie |
+Service d'architecture du système de défense
+
+|
 
 Directeur du centre d'analyse technico-opérationnelle de défense |
 
 MAPA × 50 |
 
-Directeur de DGA intelligence technique et économique |
+Service des affaires industrielles et de l'intelligence économique |
+
+Directeur de DGA Intelligence technique et économique |
 
 Sans limitation |
 

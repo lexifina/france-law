@@ -22,28 +22,6 @@ MAPA x 30
 
 |
 
-II.-Direction de la stratégie
-
-|
-
-|
-
-Centre d'analyse technico-opérationnelle de défense
-
-|
-
-MAPA x 10
-
-|
-
-DGA Intelligence technique et économique
-
-|
-
-MAPA x 10
-
-|
-
 III.-Direction technique
 
 |
@@ -131,3 +109,19 @@ VI. - Agence de l'innovation de défense |
 MAPA x 25 |
 
 (1) L'expression " MAPA x " s'entend comme suit : montant égal à " n " fois le seuil des marchés pouvant être passés selon la procédure adaptée, telle que définie à l'article 26-II (1°) du code des marchés publics. |
+
+VII.-Service d'architecture du système de défense |
+
+|
+
+Centre d'analyse technico-opérationnelle de défense |
+
+MAPA x 10 |
+
+VIII.-Service des affaires industrielles et de l'intelligence économique |
+
+|
+
+DGA Intelligence technique et économique |
+
+MAPA x 10 |
