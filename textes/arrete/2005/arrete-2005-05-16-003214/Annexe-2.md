@@ -1,0 +1,3 @@
+# Article Annexe 2
+
+La carte ainsi que les listes de communes incluses dans les bassins ou groupements de bassins sont mises à disposition du public dans chaque direction régionale de l'environnement, de l'aménagement et du logement et soit sur le site internet http://www.sandre.eaufrance.fr ( circonscriptions administratives de bassin), soit sur le site internet des agences concernées : http://adour-garonne.eaufrance.fr/referentiels-geographiques-et-zonages/les-limites-administratives, https://agence.eau-loire-bretagne.fr/home/bassin-loire-bretagne/le-territoire-naturel-de-loire-bretagne.html, https://www.eaurmc.fr/ et http://www.eau-seine-normandie.fr/search/page_de_recherche?keys=liste%20communes.
