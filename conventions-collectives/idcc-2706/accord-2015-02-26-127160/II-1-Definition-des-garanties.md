@@ -9,3 +9,9 @@ Les prestations sont limitées aux frais réels dûment justifiés restant à ch
 Les garanties respectent en toutes circonstances les exigences du contrat « responsable » en termes d'interdictions et d'obligations minimales de prise en charge, conformément aux articles L. 871-1 et R. 871-1 et R. 871-2 du code de la sécurité sociale, l'exigence relative aux contrats responsables étant renforcée du fait de la politique de prévention conçue dans la perspective de l'objectif de solidarité.
 
 La grille des prestations en nature est mentionnée en annexe I.
+
+Les présentes garanties sont considérées comme responsables et sont susceptibles d'évoluer en fonction des règles relatives aux contrats dits « responsables » fixées par les articles L. 871-1 et ses textes d'application. Elles sont également conformes aux dispositions de l'article L. 911-7 du code de la sécurité sociale et à ses textes d'application.
+
+À ce titre, elles prennent en charge l'intégralité des frais d'acquisition des prestations et équipements du panier de soins 100 % santé.
+
+Les remboursements interviennent sous déduction du remboursement de la sécurité sociale française, dès lors qu'elle intervient. Dans tous les cas, les prestations sont versées dans la limite des frais réels engagés.
