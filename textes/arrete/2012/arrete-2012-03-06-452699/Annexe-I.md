@@ -4,9 +4,7 @@ IMPLANTATION DES DIRECTIONS DÉPARTEMENTALES ET DIRECTIONS DE LA POLICE AUX FRON
 
 |
 
-DÉPARTEMENT
-
-|
+DÉPARTEMENT |
 
 SIÈGE DE LA DIRECTION DÉPARTEMENTALE
 
@@ -26,61 +24,25 @@ Nice
 
 |
 
-Oise
+Oise |
 
-|
+Beauvais |
 
-Beauvais
+Savoie |
 
-|
+Chambéry |
 
-Savoie
+Guadeloupe |
 
-|
+Les Abymes |
 
-Chambéry
+Martinique |
 
-|
+Le Lamentin |
 
-Guadeloupe
+La Réunion |
 
-|
-
-Les Abymes
-
-|
-
-Martinique
-
-|
-
-Le Lamentin
-
-|
-
-Guyane
-
-|
-
-Matoury
-
-|
-
-La Réunion
-
-|
-
-Saint-Denis
-
-|
-
-Mayotte
-
-|
-
-Pamandzi
-
-|
+Saint-Denis |
 
 Directions
 
@@ -91,15 +53,5 @@ Polynésie française
 |
 
 Faa'a
-
-|
-
-Nouvelle-Calédonie,
-
-Wallis-et-Futuna
-
-|
-
-Nouméa
 
 |
