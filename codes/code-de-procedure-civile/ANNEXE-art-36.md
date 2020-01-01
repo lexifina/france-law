@@ -1,5 +1,7 @@
 # Article ANNEXE, art. 36
 
-Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
+Dans les matières énumérées à l'article 2, la demande est formée par requête remise ou adressée au greffe selon les dispositions de la section 2 du chapitre Ier du sous-titre I du titre I du livre II du code de procédure civile.
 
-Dans le second cas, les dispositions du second alinéa de l'article 843 et de l'article 844 du code de procédure civile sont applicables.
+NOTA :
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.
