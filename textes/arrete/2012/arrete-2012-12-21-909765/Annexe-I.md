@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2019 est égal au tarif de base, soit 4,16 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2020 est égal au tarif de base, soit 4,07 € hors taxe la ligne
 
 01 Ain.
 
@@ -151,15 +151,3 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 88 Vosges.
 
 90 Territoire de Belfort.
-
-971 Guadeloupe.
-
-972 Martinique.
-
-973 Guyane.
-
-97-7 Collectivité d'outre-mer de Saint-Barthélemy.
-
-97-8 Collectivité d'outre-mer de Saint-Martin.
-
-98-6 Collectivité d'outre-mer de Wallis-et-Futuna.
