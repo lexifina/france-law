@@ -4,7 +4,7 @@ ANNEXE À L'ARTICLE R. 123-30
 
 Les principaux organismes destinataires des formalités des entreprises selon leur compétence sont :
 
-1. Greffe du tribunal de commerce ou de grande instance statuant commercialement, lequel transmet à l'Institut national de la propriété industrielle (INPI).
+1. Greffe du tribunal de commerce ou du tribunal judiciaire statuant commercialement, lequel transmet à l'Institut national de la propriété industrielle (INPI).
 
 2. Service des impôts.
 
@@ -21,3 +21,7 @@ Les principaux organismes destinataires des formalités des entreprises selon le
 8. Chambres des métiers et de l'artisanat.
 
 9. Institut national de la statistique et des études économiques (INSEE).
+
+NOTA :
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
