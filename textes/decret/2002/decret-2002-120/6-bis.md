@@ -1,10 +1,10 @@
 # Article 6 bis
 
-Le présent décret s'applique à Mayotte, avec, jusqu'au 31 décembre 2019, les adaptations suivantes :
+Le présent décret s'applique à Mayotte, avec, jusqu'au 31 décembre 2024, les adaptations suivantes :
 
-1° Le 4 de l'article 2 est remplacé par un alinéa ainsi rédigé :
+1° Le 5 de l'article 2 est remplacé par un alinéa ainsi rédigé :
 
-" 4. Il est équipé d'un coffret électrique de répartition, relié à une prise de terre normalisée et sécurisé par un disjoncteur différentiel. " ;
+" 5. Il est équipé d'un coffret électrique de répartition, relié à une prise de terre normalisée et sécurisé par un disjoncteur différentiel. " ;
 
 2° Le 3 de l'article 3 est complété par la phrase suivante :
 
