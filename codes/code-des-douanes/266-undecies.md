@@ -1,23 +1,31 @@
 # Article 266 undecies
 
-Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font l'objet d'un paiement au plus tard les 31 mai, 31 juillet et 31 octobre de l'année au titre de laquelle la taxe est due. Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5 et 6 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre de laquelle la taxe est due.
+I.-La taxe générale sur les activités polluantes est déclarée et liquidée par les redevables selon les modalités suivantes :
 
-La déclaration de la taxe due au titre de l'année précédente est souscrite par voie électronique, au plus tard le 31 mai de chaque année.
+1° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel normal d'imposition mentionné au 2 de l'article 287 du code général des impôts, sur des déclarations adressées concomitamment à la déclaration mentionnée au 1 du même article 287 et déposées au titre du mois suivant le premier trimestre civil de l'année suivant celle au cours de laquelle la taxe est devenue exigible ;
 
-En cas de cessation définitive d'activité taxable, les assujettis déposent la déclaration susvisée dans les trente jours qui suivent la date de fin de leur activité. La taxe due est immédiatement établie. La déclaration est le cas échéant accompagnée du paiement.
+2° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel simplifié d'imposition prévu à l'article 302 septies A du même code, sur des déclarations adressées concomitamment à la déclaration annuelle mentionnée au 3 de l'article 287 dudit code et déposées au titre de l'exercice au cours duquel la taxe est devenue exigible ;
 
-Les assujettis sont dispensés de joindre à la déclaration les pièces mentionnées au 6 de l'article 266 decies. Ils doivent néanmoins pouvoir les présenter à première réquisition du service des douanes.
+3° Dans tous les autres cas, sur des déclarations adressées au service de recouvrement dont relève le siège ou le principal établissement du redevable, au plus tard le 25 avril de l'année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-L'écart entre le montant de la taxe payée sous la forme d'acomptes et le montant de la taxe porté sur la déclaration fait l'objet d'une régularisation. Cette régularisation est liquidée par le redevable sur la déclaration.
+La déclaration susmentionnée est conforme au modèle établi par l'administration.
 
-Lorsque le montant des acomptes versés est inférieur à celui de la taxe porté sur la déclaration, le redevable acquitte la différence en même temps que le premier acompte de l'année en cours.
+II.-La taxe est acquittée, dans les conditions définies par voie réglementaire, au moyen d'acomptes dont le nombre ne peut excéder trois ainsi que, le cas échéant, d'une régularisation intervenant au plus tard lors de la déclaration prévue au I.
 
-Lorsque le montant des acomptes versés est supérieur au montant de la taxe porté sur la déclaration, le redevable est autorisé à imputer cet excédent sur les acomptes à venir, jusqu'à épuisement de cet excédent. Si l'excédent constaté est supérieur à la somme des trois acomptes dus au titre de l'année en cours, la fraction de taxe excédant la somme des acomptes est remboursée et aucun acompte n'est versé au titre de cette année.
+La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces mêmes taxes.
 
-Les acomptes sont versés spontanément par les redevables.
+III.-Les redevables conservent, à l'appui de leur comptabilité, l'information des poids trimestriels afférents à chacune des exemptions mentionnées au II de l'article 266 sexies, à chacun des tarifs prévus à l'article 266 nonies et à chacune des exonérations et livraisons en suspension mentionnées à l'article 266 nonies A, en distinguant, le cas échéant, ceux afférents aux livraisons, ceux afférents aux réceptions et ceux afférents aux transferts hors de France.
 
-Le paiement de la taxe et des acomptes est effectué par télérèglement
+Ces informations et les attestations mentionnées au II du même article 266 nonies A sont tenues à la disposition de l'administration et lui sont communiquées à première demande.
 
-La méconnaissance des modalités de paiement prévues au présent article entraîne l'application d'une majoration de 0, 2 % du montant des sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et sanctions prévues en matière de droits de douane.
+IV.-Les I à III s'appliquent également à toute personne acquérant les produits en suspension de la taxe dans les conditions prévues au II de l'article 266 nonies A pour les quantités concernées.
 
-Si le montant de l'un des acomptes dus est supérieur de plus de 20 % au montant versé, une majoration de 5 % est appliquée aux sommes dont le paiement a été différé.
+V.-Lorsque le redevable n'est pas établi dans un Etat membre de l'Union européenne ou dans tout autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ainsi qu'une convention d'assistance mutuelle en matière de recouvrement de l'impôt, il fait accréditer auprès du service des impôts compétent un représentant assujetti à la taxe sur la valeur ajoutée établi en France qui s'engage à remplir les formalités au nom et pour le compte du représenté et, le cas échéant, à acquitter la taxe à sa place.
+
+NOTA :
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 undecies telles qu'elles résultent du f du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+
+Elles s'appliquent aux opérations pour lesquelles le fait générateur de la taxe générale sur les activités polluantes ou l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même date.
+
+Toutefois, l'article 266 undecies dans sa rédaction en vigueur le 31 décembre 2019, reste applicable aux opérations mentionnées aux 1 et 1 bis de l'article 266 septies du code des douanes pour lesquelles le fait générateur de la taxe générale sur les activités polluantes intervient avant le 1er janvier 2021.
