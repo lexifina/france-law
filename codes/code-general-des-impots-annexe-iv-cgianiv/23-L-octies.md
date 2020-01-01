@@ -26,8 +26,16 @@ g) Lorsque le montant total brut des transactions réalisées par l'utilisateur 
 
 a) La raison sociale ;
 
+a bis) le nom commercial de l'utilisateur ou le nom d'utilisateur tel que communiqué sur la plateforme en ligne ;
+
 b) Le lieu d'établissement connu de l'opérateur à la date de transmission du document ;
 
 c) Le numéro de taxe sur la valeur ajoutée intracommunautaire ou, si elle en est dépourvue, ses numéros d'identité définis à l' article R. 123-221 du code de commerce ou, pour une entreprise non résidente, son numéro d'immatriculation auprès de l'administration fiscale de son pays de résidence ;
 
-d) L'adresse électronique.
+d) L'adresse électronique ;
+
+e) l'adresse de localisation de la ressource internet de l'utilisateur professionnel ou, à défaut, l'identifiant fourni par l'opérateur de plateforme en ligne.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 décembre 2019, ces dispositions s'appliquent aux transactions réalisées à compter du 1er janvier 2020.
