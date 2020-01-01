@@ -1,0 +1,125 @@
+# Article 1er
+
+L'article 5 de l'avenant n° 81 à l'accord du 6 octobre 2008 relatif au régime de prévoyance est annulé et remplacé. Les taux de cotisations sont modifiés comme suit pour les catégories « personnel affilié à l'AGIRC » et « personnel non affilié à l'AGIRC » :
+
+Personnel affilié à l'AGIRC |
+
+Cotisation globale |
+
+Garanties obligatoires |
+
+TA |
+
+TB |
+
+Décès – PTIA |
+
+0,52 % |
+
+0,52 % |
+
+Décès accidentel |
+
+0,07 % |
+
+0,07 % |
+
+Rente éducation |
+
+0,12 % |
+
+0,12 % |
+
+Rente de conjoint |
+
+0,24 % |
+
+0,24 % |
+
+Incapacité |
+
+0,44 % |
+
+0,79 % |
+
+Invalidité |
+
+0,27 % |
+
+0,70 % |
+
+Total |
+
+1,66 % |
+
+2,44 % |
+
+Personnel non affilié à l'AGIRC |
+
+Cotisation globale |
+
+Garanties obligatoires |
+
+TA |
+
+TB |
+
+Décès – PTIA |
+
+0,20 % |
+
+0,20 % |
+
+Décès accidentel |
+
+0,04 % |
+
+0,04 % |
+
+Rente éducation |
+
+0,07 % |
+
+0,07 % |
+
+Rente de conjoint |
+
+0,17 % |
+
+0,17 % |
+
+Incapacité |
+
+0,33 % |
+
+0,33 % |
+
+Invalidité |
+
+0,28 % |
+
+0,28 % |
+
+Total |
+
+1,09 % |
+
+1,09 % |
+
+La répartition de la cotisation est la suivante :
+
+Pour le personnel affilié à l'AGIRC : la cotisation tranche A est répartie de la sorte : 1,58 % TA à la charge de l'employeur. Le différentiel (0,08 % TA) est à la charge du salarié. La cotisation en tranche B est répartie à 50 % pour l'employeur et 50 % pour le salarié.
+
+Pour le personnel non affilié à l'AGIRC : la cotisation tranche A/ tranche B est répartie à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié.
+
+L'employeur pourra librement négocier au sein de son entreprise les conditions d'une couverture de prévoyance complémentaire supérieure aux garanties conventionnelles. Cette couverture devra être constatée dans un acte juridique interne à l'entreprise, relevant de l'article L. 911-1 du code de la sécurité sociale.
+
+(2)
+
+(1) Dans l'attente de la modification du cadre réglementaire relatif aux catégories objectives, l'article 1er est étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.
+
+(Arrêté du 6 novembre 2020 - art. 1)
+
+(2) Alinéa étendu sous réserve du respect de l'article L. 2253-1 du code du travail relatif à la hiérarchie des normes conventionnelles.
+
+(Arrêté du 6 novembre 2020 - art. 1)
