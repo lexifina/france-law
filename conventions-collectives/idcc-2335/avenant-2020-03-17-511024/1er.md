@@ -1,0 +1,189 @@
+# Article 1er
+
+Les dispositions qui suivent suppriment et remplacent dans leur intégralité les dispositions de l'article 8 de l'accord du 24 juin 2015 portant création d'un régime de frais de santé obligatoire dans la branche du personnel des agences générales d'assurances :
+
+« Article 8
+
+Tableau de garanties (1)
+
+Garanties |
+
+Niveau de garanties (en complément de l'assurance maladie) |
+
+Hospitalisation |
+
+Frais de séjour |
+
+100 % BR – MR |
+
+Honoraires chirurgie |
+
+100 % BR – MR |
+
+Forfait journalier hospitalier |
+
+100 % du forfait |
+
+Frais de transport remboursés par la sécurité sociale |
+
+100 % BR – MR |
+
+Soins de ville |
+
+Consultation généraliste |
+
+100 % BR – MR |
+
+Consultation spécialiste |
+
+100 % BR – MR |
+
+Analyses et auxiliaires médicaux |
+
+100 % BR – MR |
+
+Radiologie |
+
+100 % BR – MR |
+
+Prothèses médicales |
+
+100 % BR – MR |
+
+Petits actes de chirurgie |
+
+100 % BR – MR |
+
+Pharmaceutique |
+
+100 % BR – MR (sauf SMR faible & modéré + homéopathie) |
+
+Aides auditives |
+
+Jusqu'au 31 décembre 2020 |
+
+Équipement de classes 1 ou 2 |
+
+100 % BR – MR |
+
+Accessoires, entretien et piles pris en charge par la sécurité sociale |
+
+100 % BR – MR |
+
+À partir du 1er janvier 2021 |
+
+Équipement 100 % santé |
+
+100 % PLV. – MR |
+
+Équipement à tarif libre de classe 2 pour les adultes |
+
+400 € – MR |
+
+Équipement à tarif libre de classe 2 pour les enfants |
+
+1 400 € – MR |
+
+Accessoires, entretien et piles pris en charge par la sécurité sociale |
+
+100 % BR – MR |
+
+Frais dentaires |
+
+Soins de ville |
+
+100 % base RSS |
+
+Orthodontie |
+
+150 % base RSS |
+
+Prothèses remboursées |
+
+200 % base RSS |
+
+Soins et prothèses 100 % santé |
+
+100 % PLV. – MR |
+
+Soins hors 100 % santé
+
+Consultation, soins courants, radiologie et parodontologie pris en charge par la sécurité sociale |
+
+170 % BR – MR |
+
+Prothèses hors 100 % santé |
+
+270 % BR – MR |
+
+Frais d'optique |
+
+Équipements 100 % santé |
+
+100 % PLV. – MR |
+
+Verres simples |
+
+Forfait 250 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+Verres complexes |
+
+Forfait 400 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+Verres très complexes |
+
+Forfait 450 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+1 verre simple + 1 verre complexe |
+
+Forfait 300 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+1 verre simple + 1 verre très complexe |
+
+Forfait 330 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+1 verre complexe + 1 verre très complexe |
+
+Forfait 400 € par 2 ans, dont 100 € maxi pour monture (Forfait annuel si évolution de la vue) |
+
+Lentilles prescrites remboursées ou non par la sécurité sociale |
+
+Forfait 200 € par 2 ans (annuel si évolution de la vue) |
+
+Médecines douces |
+
+Médecine douce réalisée par un praticien disposant d'un numéro ADELI, RPPS ou FINESS (par année civile) |
+
+Forfait de 200 € par an |
+
+Prévention |
+
+Sevrage tabagique (patch, gomme …) |
+
+Forfait 50 € par an |
+
+Vaccin antigrippe |
+
+100 % FR (1 vaccin/ an) |
+
+Cure |
+
+Cure thermale acceptée par la sécurité sociale (y compris transport et hébergement) |
+
+100 % BR – MR |
+
+-Verres simples : – 6/ + 6 ou cylindre ≤ 4
+
+-Verres complexes : > – 6/ + 6 ou cylindre > 4 et multifocaux ou progressifs
+
+-Verres très complexes : verres multifocaux ou progressifs sphéro-cylindriques dont sphère hors zone de – 8/ + 8 ou sphériques hors zone de – 4,00 à + 4,00
+
+BR – MR : Base de remboursement de la sécurité sociale sous déduction du montant remboursé par la sécurité sociale
+
+FR : frais réels ; Base RSS : base de remboursement du régime obligatoire ; PLV : prix limite de vente
+
+|
+
+(1) Le tableau de garanties de l'article 1er est étendu sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, concernant d'une part, l'application des honoraires limites de facturation et des prix limites de vente et, d'autre part, les périodicités de prise en charge des équipements tel que précisé par l'arrêté du 14 novembre 2018 portant modification des modalités de prise en charge des aides auditives et prestations associées au chapitre 3 du titre II de la liste des produits et prestations prévue à l'article L. 165-1 du code de la sécurité sociale et par l'arrêté du 3 décembre 2018 portant modification des modalités de prise en charge de dispositifs médicaux et prestations associées pour la prise en charge d'optique médicale au chapitre 2 du titre II de la liste prévue à l'article L. 165-1 (LPP) du code de la sécurité sociale.
+
+(Arrêté du 5 février 2021 - art. 1)
