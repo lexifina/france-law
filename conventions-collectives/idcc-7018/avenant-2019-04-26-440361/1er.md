@@ -1,0 +1,55 @@
+# Article 1er
+
+Les ouvriers de chantier effectuent un travail non sédentaire qui ne se rattache pas à un lieu de travail unique et définitif.
+
+L'indemnisation des déplacements et des frais professionnels dépend des conditions d'organisation du travail au sein de l'entreprise.
+
+Les conditions d'organisation du travail au sein de l'entreprise sont déterminées et négociées par accord collectif d'entreprise.
+
+Deux situations non cumulatives, détaillées au 6.1 et 6.2, se distinguent :
+
+« 6.1. Si les conditions d'organisation du travail au sein de l'entreprise répondent à la définition du temps de travail effectif, le temps de trajet, pour se rendre sur le lieu d'exécution du contrat de travail, soit le chantier doit être considéré comme du temps de travail effectif.
+
+Conformément au code du travail, le temps de travail effectif est défini comme “ le temps pendant lequel le salarié est à la disposition de l'employeur et se conforme à ses directives, sans pouvoir vaquer librement à ses occupations personnelles ”.
+
+Dès lors que l'organisation de l'entreprise oblige les salariés à se rendre pour l'embauche et la débauche à l'entreprise ou au dépôt, les temps de trajets (de l'entreprise ou du dépôt au chantier, aller-retour) sont considérés comme du temps de travail effectif et sont donc rémunérés comme tel.
+
+Lorsque le temps de trajet est considéré comme temps de travail effectif, le salarié perçoit dans ce cas pour ses frais de repas, s'il ne déjeune ni à l'entreprise ni à son domicile, une indemnité de panier d'un montant égal à la valeur de 2,5 MG en vigueur au 1er janvier de l'année en cours.
+
+La rémunération du temps de trajet en temps de travail effectif et l'indemnité de panier ne se cumulent pas avec l'indemnité de petit déplacement fixée à l'article 6.2 b visé ci-après.
+
+6.2. Si les conditions d'organisation ne répondent pas à la définition du temps de travail effectif, telles que fixée par les dispositions légales en vigueur, le temps normal de trajet pour se rendre sur le lieu d'exécution du contrat de travail, soit le chantier, n'est pas un temps de travail effectif.
+
+Ce temps normal de trajet est défini comme celui qui éloigne les salariés de moins de 50 km, en rayon, du siège, de l'agence ou du dépôt.
+
+Le rayon à retenir est celui, aller ou retour, qui est le plus avantageux pour le salarié.
+
+Dans les zones à faible densité de population, ce temps normal de trajet peut excéder 50 km sans dépasser un rayon de 70 km.
+
+L'indemnisation des déplacements est fixée comme suit :
+
+a) le salarié qui se rend par ses propres moyens sur le chantier assigné par son employeur perçoit pour prise en charge de ses frais de repas, s'il ne déjeune ni à l'entreprise ni à son domicile, une indemnité de panier, d'un montant égal à la valeur de 2,5 MG en vigueur au 1er janvier de l'année en cours ;
+
+b) le salarié qui se rend sur les chantiers par les moyens de transport mis à sa disposition par l'entreprise au siège ou dans l'un de ses dépôts est indemnisé dans les conditions suivantes :
+
+Dans la limite du temps normal de trajet visé ci-dessous, le salarié est globalement indemnisé de ses frais de panier et de déplacement par le biais d'une indemnité pour petit déplacement fixée comme suit :
+
+– dans un rayon de 0 à 5 km du siège ou du dépôt jusqu'au chantier minimum 3,0 MG ;
+
+– dans un rayon de plus de 5 km jusqu'à 20 km, minimum 4,5 MG ;
+
+– dans un rayon de plus de 20 km jusqu'à 30 km, minimum 5,5 MG ;
+
+– dans un rayon de plus de 30 km jusqu'à 50 km, minimum 6,5 MG.
+
+Le MG applicable est celui en vigueur au 1er janvier de l'année en cours.
+
+Lorsque le trajet normal est fixé à 70 km le salarié est indemnisé dans les conditions suivantes :
+
+– dans un rayon de plus de 50 km jusqu'à 70 km minimum 7,0 MG.
+
+Au-delà du temps normal de trajet visé ci-dessus, le salarié est, en outre, rémunéré pour le trajet restant comme s'il s'agissait d'un temps de travail.
+
+Par accord collectif, l'appréciation du temps normal de trajet peut être exprimée en durée ou en kilomètres réels.
+
+Dans ce dernier cas, le trajet est mesuré au moyen d'un site internet reconnu de calcul d'itinéraire. »
