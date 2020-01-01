@@ -1,0 +1,87 @@
+# Article 1er
+
+L'annexe V de la convention collective de la mutualité relative aux cotisations du régime de prévoyance est intégralement réécrite comme suit :
+
+« Annexe V
+
+Cotisations du régime de prévoyance
+
+Cotisations du régime de prévoyance (depuis le 1er janvier 2020)
+
+(En pourcentage.)
+
+Garanties |
+
+TA |
+
+TB |
+
+|
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Décès (capitaux et rentes) |
+
+0,76 |
+
+0,00 |
+
+0,76 |
+
+0,76 |
+
+0,00 |
+
+0,76 |
+
+Incapacité |
+
+0,17 |
+
+0,46 |
+
+0,63 |
+
+0,34 |
+
+0,95 |
+
+1,29 |
+
+Invalidité |
+
+0,86 |
+
+0,22 |
+
+1,08 |
+
+1,66 |
+
+0,44 |
+
+2,10 |
+
+Total |
+
+1,79 |
+
+0,68 |
+
+2,47 |
+
+2,76 |
+
+1,39 |
+
+4,15 |
