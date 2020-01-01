@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 6.4 de l'accord du 19 octobre 2011 relatif au régime frais de santé est modifié comme suit :
+
+« Les remboursements interviennent en complément du remboursement de la sécurité sociale française dès lors qu'elle intervient.
+
+Garanties au 1er janvier 2020
+
+(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
+
+https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0004/ boc _ 20200004 _ 0000 _ 0024. pdf
+
+La modification du tableau des garanties intervient afin de respecter le cahier des charges du contrat responsable notamment en matière de dispositifs d'optique médicale et pour certains soins prothétiques dentaires conformément aux dispositions de l'article L. 871-1 du code de la sécurité sociale.
+
+En cas de nouvelle évolution du cahier des charges des contrats responsables, le tableau des garanties sera mis à jour automatiquement sans nécessité d'avenant au présent accord.
+
+(1) Article étendu, d'une part, sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, tel que précisé par l'arrêté du 3 décembre 2018 portant modification des modalités de prise en charge de dispositifs médicaux et prestations associées pour la prise en charge d'optique médicale au chapitre 2 du titre II de la liste prévue à l'article L. 165-1 (LPP) du code de la sécurité sociale, et d'autre part, sous réserve du respect des dispositions de l'article L. 911-4 du code de la sécurité sociale relatives aux modalités de mise en place des garanties complémentaires dans l'entreprise.
+
+(Arrêté du 12 avril 2021 - art. 1)
