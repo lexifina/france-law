@@ -1,0 +1,3 @@
+# Article 1er
+
+Les parties signataires se fixent pour objectif de dépasser 2 % de personnes en contrats d'alternance (contrats d'apprentissage et contrats de professionnalisation) au regard de la population totale des salariés de la branche. La CPNEFP est chargée de suivre et de mettre en œuvre les moyens permettant l'atteinte de cet objectif.
