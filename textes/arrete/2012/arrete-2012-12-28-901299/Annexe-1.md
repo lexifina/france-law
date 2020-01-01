@@ -50,47 +50,155 @@ Déclaration de sortie de zone et des captures à bord à l'avance au centre de 
 
 Etre équipé du VMS et transmettre sa position toutes les heures |
 
-Points 9 à 9.12 de l'annexe 3 sur les mesures techniques du règlement (CE) n° 43/2009 du conseil du 16 janvier 2009 établissant pour 2009 les possibilités de pêche et les conditions associées pour certains stocks halieutiques, applicables dans les eaux communautaires et, pour les navires communautaires, dans les eaux soumises à des limitations de captures |
+Règlement n° 2018/973 du Parlement européen et du Conseil du 4 juillet 2018 établissant un plan pluriannuel pour les stocks démersaux de la mer du Nord et les pêcheries exploitant ces stocks |
 
 Toutes espèces |
 
-Zones CIEM III a, IV a, V b, VI a, VI b, VII b, c, j, k et XII à l'est du 27° Ouest |
+Mer du Nord (CIEM IV) |
 
-Filets maillants (*) dont le maillage est supérieur ou égal à 120 mm et inférieur à 150 mm |
+Tous engins |
 
-Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est inférieure à 600 mètres. Leur profondeur n'est pas supérieure à 100 mailles. Leur rapport d'armement n'est pas inférieur à 0,5 et ils sont équipés de flotteurs ou d'un équipement de flottaison similaire. Les filets ont chacun une longueur maximale de cinq milles marins et la longueur totale de l'ensemble des filets déployés simultanément n'est pas supérieure à 25 kilomètres par navire. La durée d'immersion maximale est de 24 heures. |
+Néant. |
 
-|
-
-Toutes espèces |
-
-Zones CIEM VIII a, b, d et X |
-
-Filets maillants (*) dont le maillage est supérieur ou égal à 100 mm et inférieur à 130 mm |
+Article 9.7 et annexes V, partie C point 6., VI, partie C., point 6 et VII, partie C, point 4 du règlement 2019/1241 du Parlement européen et du Conseil du 20 juin 2019 relatif à la conservation des ressources halieutiques et à la protection des écosystèmes marins par des mesures techniques
 
 |
 
-|
+Toutes espèces.
 
-Toutes espèces |
-
-Zones CIEM VIII c et IX |
-
-Filets maillants (*) dont le maillage est supérieur ou égal à 80 mm et inférieur à 110 mm |
+La pêche ciblée de requins d'eau profonde* est interdite.
 
 |
 
+Zones CIEM :
+
+-3a et 4a,
+
+-5b, 6a, 6b, 7b, 7c, 7h, 7j et 7k,
+
+-8a, 8b, 8d, 8e, 10 et 12 à l'est de 27° O.
+
 |
 
-Toutes espèces |
+Filets maillants de fond utilisés pour la pêche ciblée de merlu dont le maillage est égal ou supérieur à 100 mm.
 
-Zones CIEM III a, IV a, V b, VI a, VI b, VII b, c, j, k, VIII, IX, X et XII à l'est du 27° Ouest |
+|
 
-Filets emmêlants (*) dont le maillage est supérieur ou égal à 250 mm |
+1. Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est comprise entre 200 et 600 m.
 
-Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est inférieure à 600 mètres. Leur profondeur n'est pas supérieure à 15 mailles. Leur rapport d'armement n'est pas inférieur à 0,33 et ils ne sont pas équipés de flotteurs ou d'un système de flottaison similaire. Les filets ont chacun une longueur maximale de 10 km. La longueur totale de l'ensemble des filets déployés simultanément n'est pas supérieure à 100 km par navire. La durée d'immersion maximale est de 72 heures |
+2. La profondeur du filet est inférieure ou égale à 100 mailles.
 
-(*) Aux fins du présent arrêté, on entend par filet maillant et filet emmêlant un engin constitué d'une seule nappe de filet et maintenu verticalement dans l'eau. Ce type d'engin est destiné à la capture des ressources aquatiques vivantes par emmêlement. |
+3. La longueur totale de l'ensemble des filets déployés est inférieure ou égale à 25 km par navire.
+
+4. La durée d'immersion maximale est de 24 heures.
+
+5. Les captures accidentelles de requins d'eau profonde (*), telles que définies par le règlement (UE) 2019/1241, sont inférieures ou égales à 10 tonnes par an.
+
+|
+
+Article 9.7 et et annexe VII, partie C, point 4 du règlement 2019/1241 du Parlement européen et du Conseil du 20 juin 2019 relatif à la conservation des ressources halieutiques et à la protection des écosystèmes marins par des mesures techniques
+
+|
+
+Toutes espèces.
+
+La pêche ciblée de requins d'eau profonde* est interdite.
+
+|
+
+Zone CIEM 8c et 9
+
+|
+
+Filets maillants de fond utilisés pour la pêche ciblée du merlu d'un maillage égal ou supérieur à 80 mm.
+
+|
+
+1. Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est comprise entre 200 et 600 m.
+
+2. La profondeur du filet est inférieure ou égale à 100 mailles.
+
+3. La longueur totale de l'ensemble des filets déployés est inférieure ou égale à 25 km par navire.
+
+4. La durée d'immersion maximale est de 24 heures.
+
+5. Les captures accidentelles de requins d'eau profonde (*), telles que définies par le règlement (UE) 2019/1241, sont inférieures ou égales à 10 tonnes par an.
+
+|
+
+Article 9.7 et annexes V, partie C, point 6, VI, partie C, point 6 et VII, partie C, point 4 du règlement 2019/1241 du Parlement européen et du Conseil du 20 juin 2019 relatif à la conservation des ressources halieutiques et à la protection des écosystèmes marins par des mesures techniques
+
+|
+
+Toutes espèces.
+
+La pêche ciblée de requins d'eau profonde* est interdite.
+
+|
+
+Zones CIEM :
+
+-3a et 4a,
+
+-5b, 6a, 6b, 7b, 7c, 7h, 7j et 7k,
+
+-8,9,10 et 12 à l'est de 27° O.
+
+|
+
+Filets emmêlants
+
+utilisés pour la pêche ciblée de baudroie dont le maillage est égal ou supérieur à 250 mm.
+
+|
+
+1. Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est comprise entre 200 et 600 m.
+
+2. La profondeur du filet est inférieure ou égale à 15 mailles.
+
+3. La longueur totale de l'ensemble des filets déployées est inférieure ou égale à 100 km par navire.
+
+4. La durée d'immersion maximale est de 72 heures.
+
+5. Les captures accidentelles de requins d'eau profonde (*), telles que définies par le règlement (UE) 2019/1241, sont inférieures ou égales à 10 tonnes par an.
+
+|
+
+Article 9.7 et annexe VII, partie C point 4 du règlement 2019/1241 du Parlement européen et du Conseil du 20 juin 2019 relatif à la conservation des ressources halieutiques et à la protection des écosystèmes marins par des mesures techniques
+
+|
+
+Toutes espèces.
+
+La pêche ciblée de requins d'eau profonde* est interdite.
+
+|
+
+Zone CIEM 9
+
+|
+
+Filets trémails utilisés pour la pêche ciblée de baudroie d'un maillage égal ou supérieur à 220 mm.
+
+|
+
+1. Les filets sont déployés dans des eaux dont la profondeur indiquée sur les cartes est comprise entre 200 et 600 m.
+
+2. La profondeur du filet est inférieure ou égale à 30 mailles.
+
+3. La longueur totale de l'ensemble des filets déployés est inférieure ou égale à 20 km par navire.
+
+4. La durée d'immersion maximale est de 72 heures.
+
+5. Les captures accidentelles de requins d'eau profonde (*), telles que définies par le règlement (UE) 2019/1241, sont inférieures ou égales à 10 tonnes par an.
+
+|
+
+(*) Aiguillat noir (Centroscyllium fabricii, code FAO : CFB), Chien espagnol (Galeus melastomus, code FAO : SHO), Chien islandais (Galeus murinus, code FAO : GAM), Holbiches (Apristuris spp, code FAO : API), Humantin (Oxynotus paradoxus, code FAO : OXN), Laimargue du Groenland (Somniosus microcephalus, code FAO : GSK) Pailona à long nez (Centroscymnus crepidater, code FAO : CYP), Pailona commun (code FAO : Centroscymnus coelolepis), Requin griset (Hexanchus griseus, code FAO : SBL), Requin lézard (Chlamydoselachus anguineus, code FAO : HXC), Sagre commun (Etmopterus spinax, code FAO : ETX), Sagre rude (Etmopterus princeps, code FAO : ETR), Squale liche (Dalatias licha, code FAO : SCK), Squale savate (Deania calcea, code FAO : DCA), Squale-grogneur commun (Scymnodon ringens, code FAO : SYR), Squales-chagrins nca (Centrophorus SPP, code FAO : CWO).
+
+|
+
+..
 
 PLAN PLURIANNUEL
 
@@ -118,20 +226,16 @@ Si un ou des plafonds d'effort de pêche attribués à la France en application 
 
 Règlement (UE) n° 2019/472 du Parlement européen et du Conseil du 19 mars 2019 établissant un plan pluriannuel pour les stocks pêchés dans les eaux occidentales et les eaux adjacentes ainsi que pour les pêcheries exploitant ces stocks |
 
-Espèces énumérées à l'article 1er du règlement (UE) n° 2019/472 (**)
+Espèces énumérées à l'article 1er du règlement (UE) n° 2019/472 (**) |
 
-|
+Zone CIEM FAO 27 (les stocks précis encadrés par cette autorisation sont visés à l'article 1er du règlement (UE) n° 2019/472) |
 
-Zone CIEM FAO 27 (les stocks précis encadrés par cette autorisation sont visés à l'article 1er du règlement (UE) n° 2019/472)
+Tous engins |
 
-|
-
-Tous engins
-
-|
-
-Néant.
-
-|
+Néant. |
 
 (**) Bar (loup) européen (Dicentrarchus labrax), baudroie (Lophiidae), cabillaud (Gadus morhua), cardines (Lepidorhombus spp.), dorade rose (Pagellus bogaraveo), églefin (Melanograllyus), grenadier de roche (Coryphaenoides rupestris), langoustine (Nephrops norvegicus), lingue bleue (Molva dypterygia), lieu jaune (Pollachius pollachius), merlan (Merlangius merlangus), merlu (Merluccius merluccius), plie commune (Pleuronectes platessa), sabre noir (Aphanopus carbo), sole commune (Solea solea). |
+
+NOTA :
+
+Conformément aux dispositions de l'article 5 de l'arrêté du 29 juillet 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
