@@ -1,4 +1,4 @@
-# Article KALIARTI000030335223
+# Article Préambule
 
 Le présent accord de branche a été négocié par les partenaires sociaux en commission mixte paritaire de la radiodiffusion élargie aux syndicats de journalistes.
 
@@ -18,4 +18,4 @@ Les partenaires sociaux ont estimé qu'il fallait éviter que les nouvelles disp
 
 Les partenaires sociaux se sont attachés à définir des modalités permettant, d'une part, de maintenir et de développer l'emploi en répondant aux besoins spécifiques des entreprises et, d'autre part, d'assortir le recours au temps partiel sur des durées inférieures à 24 heures hebdomadaires de garanties pour les salariés, conformément à la loi.
 
-A l'issue de leurs travaux, les organisations signataires ont convenu du présent accord, qu'elles ont entendu soumettre à l'extension.
+À l'issue de leurs travaux, les organisations signataires ont convenu du présent accord, qu'elles ont entendu soumettre à l'extension.
