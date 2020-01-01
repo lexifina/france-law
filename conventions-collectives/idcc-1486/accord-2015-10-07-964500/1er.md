@@ -6,4 +6,4 @@ La commission paritaire de la convention collective nationale des bureaux d'étu
 
 – Humanis Prévoyance ;
 
-– Malakoff Médéric Prévoyance.
+– Malakoff Humanis Prévoyance.
