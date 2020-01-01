@@ -586,11 +586,9 @@ Président-directeur général
 
 |
 
-Société nationale des chemins de fer français
+Société nationale SNCF
 
 |
-
-Président du conseil d'administration
 
 Directeur général
 
