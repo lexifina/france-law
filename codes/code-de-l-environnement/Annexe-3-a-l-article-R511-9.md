@@ -134,6 +134,258 @@ A
 
 |
 
+|
+
+Désignation de la rubrique
+
+|
+
+A, E, D, C (1) |
+
+Rayon (2) |
+
+1978 |
+
+Solvants organiques (installations et activités mentionnées à l'annexe VII de la directive 2010/75/ UE du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution) utilisant des) :
+
+|
+
+|
+
+|
+
+|
+
+1. Impression sur rotative offset à sécheur thermique, lorsque la consommation de solvant (1) est supérieure à 15 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+2. Héliogravure d'édition, lorsque la consommation de solvant (1) est supérieure à 25 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+3. a) Autres unités d'héliogravures, flexographie, impression sérigraphique en rotative, contrecollage ou vernissage, lorsque la consommation de solvant (1) est supérieure à 15 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+b) Impression sérigraphique en rotative sur textiles ou cartons, lorsque la consommation de solvant (1) est supérieure à 30 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+4. Nettoyage de surface à l'aide de composés organiques volatils à mentions de danger H340, H350, H350i, H360D ou H360F, ou de composés organiques volatils halogénés à mentions de danger H341 ou H351, au sens du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/ CEE et 1999/45/ CE et modifiant le règlement (CE) n° 1907/2006, lorsque la consommation de solvant (1) est supérieure à 1 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+5. Autres nettoyages de surface, lorsque la consommation de solvant (1) est supérieure à 2 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+6. Revêtement et retouche de véhicules, lorsque la consommation de solvant (1) est supérieure à 0,5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+7. Laquage en continu, lorsque la consommation de solvant (1) est supérieure à 25 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+8. Autres revêtements, y compris le revêtement de métaux, de plastiques, de textiles, de feuilles et de papier, lorsque la consommation de solvant (1) est supérieure à 5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+9. Revêtement de fil de bobinage, lorsque la consommation de solvant (1) est supérieure à 5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+10. Revêtement de surfaces en bois, lorsque la consommation de solvant (1) est supérieure à 15 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+11. Nettoyage à sec
+
+|
+
+D |
+
+- |
+
+|
+
+12. Imprégnation du bois, lorsque la consommation de solvant (1) est supérieure à 25 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+13. Revêtement du cuir, lorsque la consommation de solvant (1) est supérieure à 10 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+14. Fabrication de chaussures, lorsque la consommation de solvant (1) est supérieure à 5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+15. Stratification de bois et de plastique, lorsque la consommation de solvant (1) est supérieure à 5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+16. Revêtement adhésif, lorsque la consommation de solvant (1) est supérieure à 5 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+17. Fabrication de mélanges pour revêtements, de vernis, d'encres et de colle, lorsque la consommation de solvant (1) est supérieure à 100 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+18. Conversion de caoutchouc, lorsque la consommation de solvant (1) est supérieure à 15 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+19. Extraction d'huiles végétales et de graisses animales et activités de raffinage d'huile végétale, lorsque la consommation de solvant (1) est supérieure à 10 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+20. Fabrication de produits pharmaceutiques, lorsque la consommation de solvant (1) est supérieure à 50 t/ an
+
+|
+
+D |
+
+- |
+
+|
+
+(1) Quantité totale de solvants organiques utilisée dans une installation par année, moins les composés organiques volatils récupérés en vue de leur réutilisation.
+
+|
+
+|
+
+|
+
+|
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement
+
+(2) Rayon d'affichage en kilomètres
+
+|
+
+|
+
+|
+
 2101
 
 |
@@ -262,7 +514,9 @@ D |
 
 |
 
-Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées à d'autres rubriques :
+Porcs (activité d'élevage, vente, transit, etc., de), à l'exclusion des activités classées au titre de la rubrique 3660 :
+
+Installations détenant :
 
 |
 
@@ -270,27 +524,9 @@ Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein ai
 
 |
 
-1. Installations dont les activités sont classées au titre de la rubrique 3660
-
 |
 
-A
-
-|
-
-3
-
-|
-
-2. Autres installations que celles visées au 1 et détenant :
-
-|
-
-|
-
-|
-
-a) Plus de 450 animaux-équivalents
+1. Plus de 450 animaux-équivalents
 
 |
 
@@ -298,19 +534,25 @@ E
 
 |
 
-|
-
-b) De 50 à 450 animaux-équivalents
-
-|
-
-D
+-
 
 |
 
 |
 
-Nota.-Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent.
+2. De 50 à 450 animaux-équivalents
+
+|
+
+D |
+
+- |
+
+|
+
+Nota.-
+
+Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent.
 
 Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents.
 
@@ -360,7 +602,7 @@ D
 
 |
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
+Volailles (activité d'élevage, vente, transit, etc., de), à l'exclusion des activités classées au titre de la rubrique 3660 :
 
 |
 
@@ -368,19 +610,9 @@ Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusi
 
 |
 
-1. Installations dont les activités sont classées au titre de la rubrique 3660
-
 |
 
-A
-
-|
-
-3
-
-|
-
-2. Autres installations que celles visées au 1 et détenant un nombre d'emplacements pour les volailles et gibier à plumes supérieur à 30 000
+1. Installations détenant un nombre d'emplacements supérieur à 30 000
 
 |
 
@@ -388,9 +620,13 @@ E
 
 |
 
+-
+
 |
 
-3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux-équivalents supérieur à 5 000
+|
+
+2. Autres installations que celles classées au titre du 1 et détenant un nombre d'animaux-équivalents supérieur à 5 000
 
 |
 
@@ -398,9 +634,39 @@ D
 
 |
 
+-
+
 |
 
-Nota.-Pour le " 1. " et le " 2. ", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement. Pour le " 3. ", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents : caille = 0,125 ; pigeon, perdrix = 0,25 ; coquelet = 0,75 ; poulet léger = 0,85 ; poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ; poulet lourd = 1,15 ; canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ; dinde légère = 2,20 ; dinde médium, dinde reproductrice, oie = 3 ; dinde lourde = 3,50 ; palmipèdes gras en gavage = 7.
+|
+
+Nota.-
+
+Pour le 1. , les volailles sont comptées en emplacements : 1 animal = 1 emplacement.
+
+Pour le 2. , les volailles sont comptées en utilisant les valeurs suivantes exprimées en animaux-équivalents :
+
+1. caille = 0,125 ;
+
+2. pigeon, perdrix = 0,25 ;
+
+3. coquelet = 0,75 ;
+
+4. poulet léger = 0,85 ;
+
+5. poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ;
+
+6. poulet lourd = 1,15 ;
+
+7. canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
+
+8. dinde légère = 2,20 ;
+
+9. dinde médium, dinde reproductrice, oie = 3 ;
+
+10. dinde lourde = 3,50 ;
+
+11. palmipèdes gras en gavage = 7.
 
 |
 
@@ -476,7 +742,7 @@ Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de
 
 |
 
-1. plus de 50 animaux
+1. Plus de 50 animaux
 
 |
 
@@ -488,7 +754,7 @@ A
 
 |
 
-2. de 10 à 50 animaux
+2. De 10 à 50 animaux
 
 |
 
@@ -498,7 +764,7 @@ D
 
 - |
 
-Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
+Nota : Ne sont pris en compte que les chiens âgés de plus de quatre mois.
 
 |
 
@@ -570,9 +836,7 @@ Animaux d’espèces non domestiques (installations fixes et permanentes de pré
 
 - présentation au public d’animaux dont les espèces figurent dans la liste prévue par l’article R. 413-6 du code de l’environnement ;
 
-- présentation au public d’arthropodes.
-
-|
+- présentation au public d’arthropodes. |
 
 A
 
@@ -798,31 +1062,9 @@ D |
 
 |
 
-Abattage d'animaux
+Abattage d'animaux, à l'exclusion des activités classées au titre de la rubrique 3641 :
 
-|
-
-|
-
-|
-
-Le poids des animaux exprimé en carcasses étant, en activité de pointe :
-
-|
-
-|
-
-|
-
-1. supérieur à 5 t/ j
-
-|
-
-A
-
-|
-
-3
+La masse des animaux abattus, exprimée en carcasses, étant en activité de pointe :
 
 |
 
@@ -832,17 +1074,43 @@ A
 
 |
 
-|
+1. Supérieure à 5 t/ j pour les installations autres que celles classées au titre du 3
 
 |
 
+A |
+
+3 |
+
 |
 
-2. supérieur à 500 kg/ j, mais inférieur ou égal à 5 t/ j
+2. Supérieure à 500 kg/ j, mais inférieur ou égal à 5 t/ j pour les installations autres que celles classées au titre du 3
 
 |
 
 D
+
+|
+
+-
+
+|
+
+|
+
+3. Supérieure à 500 kg/ j, mais inférieur ou égal à 30t/ j dans des installations mobiles (1) lorsque les effluents sont collectés, confinés et éliminés hors site
+
+|
+
+D |
+
+- |
+
+|
+
+(1) Installations transportables ou démontables présentes sur un même site moins de 30 jours par an, consécutifs ou non.
+
+|
 
 |
 
@@ -1170,9 +1438,11 @@ D
 
 |
 
-Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage, décortication ou séchage par contact direct avec les gaz de combustion des substances végétales et de tous produits organiques naturels, à l'exclusion des installations dont les activités sont réalisées et classées au titre de l'une des rubriques 21xx, 22xx, 23xx, 24xx, 27xx ou 3642.
+Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage, décortication ou séchage par contact direct avec les gaz de combustion des substances végétales et de tous produits organiques naturels, à l'exclusion des installations dont les activités sont réalisées et classées au titre de l'une des rubriques 2101,2102,2111,2140,2150,2160,2170,2220,2240,2250,2251,2265,2311,2315,2321,2330,2410,2415,2420,2430,2440,2445,2714,2716,2718,2780,2781,2782,2790,2791,2794,3610,3620,3642 ou 3660 :
 
 1. Pour les activités relevant du travail mécanique, la puissance maximale de l'ensemble des machines fixes pouvant concourir simultanément au fonctionnement de l'installation étant :
+
+|
 
 |
 
@@ -1192,6 +1462,8 @@ E
 
 |
 
+|
+
 b) Supérieure à 100 kW mais inférieure ou égale à 500 kW
 
 |
@@ -1200,21 +1472,27 @@ DC |
 
 - |
 
+|
+
 2. Pour les activités relevant du séchage par contact direct, la puissance thermique nominale de l'installation étant :
 
+a) Supérieure ou égale à 20 MW
+
+|
+
+E
+
+|
+
+-
+
 |
 
 |
 
+b) Supérieure à 1 MW mais inférieure à 20 MW
+
 |
-
-a) Supérieure ou égale à 20 MW |
-
-E |
-
-- |
-
-b) Supérieure à 1 MW mais inférieure à 20 MW |
 
 DC |
 
@@ -2075,7 +2353,3 @@ DC
 |
 
 |
-
-NOTA :
-
-Par la décision n° 426528 du 30 décembre 2020 du Conseil d'Etat statuant au contentieux (ECLI:FR:CECHR:2022:429341.20220728), les dispositions figurant dans les rubriques 2120 et 2140 et au 3 de la rubrique 2731 de l'annexe I du décret n° 2018-900 du 22 octobre 2018 modifiant la nomenclature des installations classées pour la protection de l'environnement (NOR : TREP1806523D) sont annulées.
