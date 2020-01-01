@@ -1,6 +1,6 @@
 # Article Annexe Tableau VIII
 
-SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMPÉTENTS POUR CONNAÎTRE DES CONTESTATIONS SUR LA NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTICLE D. 211-10)
+SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES ET DE PREMIÈRE INSTANCE COMPÉTENTS POUR CONNAÎTRE DES CONTESTATIONS SUR LA NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTICLE D. 211-10)
 
 SIÈGE
 
@@ -160,7 +160,7 @@ Saint-Denis.
 
 |
 
-Ressort de la cour d'appel, à l'exception du ressort du tribunal de grande instance de Mamoudzou
+Ressort de la cour d'appel, à l'exception du ressort du tribunal judiciaire de Mamoudzou
 
 |
 
@@ -172,7 +172,7 @@ Mamoudzou.
 
 |
 
-Ressort du tribunal de grande instance de Mamoudzou |
+Ressort du tribunal judiciaire de Mamoudzou |
 
 Tribunal supérieur d'appel de Saint-Pierre
 
@@ -187,3 +187,7 @@ Saint-Pierre. |
 Ressort du tribunal supérieur d'appel.
 
 |
+
+NOTA :
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.

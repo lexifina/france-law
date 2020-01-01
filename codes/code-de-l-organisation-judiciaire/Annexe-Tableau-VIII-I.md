@@ -1,6 +1,6 @@
 # Article Annexe Tableau VIII-I
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France
+Siège et ressort des tribunaux judiciaires et des tribunaux de première instance compétents pour connaître des actions aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France
 
 (annexe de l'article D. 211-10-1)
 
@@ -12,9 +12,7 @@ RESSORT
 
 |
 
-Cour d'appel d'Agen |
-
-Agen
+Cour d'appel d'AgenAgen |
 
 |
 
@@ -22,9 +20,7 @@ Ressort de la cour d'appel d'Agen.
 
 |
 
-Cour d'appel d'Aix-en-Provence |
-
-Marseille
+Cour d'appel d'Aix-en-ProvenceMarseille |
 
 |
 
@@ -68,9 +64,7 @@ Ressort de la cour d'appel de Basse-Terre.
 
 |
 
-Cour d'appel de Bastia |
-
-Bastia
+Cour d'appel de BastiaBastia |
 
 |
 
@@ -198,9 +192,7 @@ Ressort de la cour d'appel de Fort-de-France.
 
 |
 
-Cour d'appel de Grenoble |
-
-Grenoble
+Cour d'appel de GrenobleGrenoble |
 
 |
 
@@ -208,9 +200,7 @@ Ressort de la cour d'appel de Grenoble.
 
 |
 
-Cour d'appel de Limoges |
-
-Limoges
+Cour d'appel de LimogesLimoges |
 
 |
 
@@ -278,9 +268,7 @@ Ressort de la cour d'appel de Nîmes.
 
 |
 
-Cour d'appel de Nouméa |
-
-Nouméa
+Cour d'appel de NouméaNouméa |
 
 |
 
@@ -288,9 +276,7 @@ Ressort de la cour d'appel de Nouméa.
 
 |
 
-Cour d'appel d'Orléans |
-
-Orléans
+Cour d'appel d'OrléansOrléans |
 
 |
 
@@ -298,9 +284,7 @@ Ressort de la cour d'appel d'Orléans.
 
 |
 
-Cour d'appel de Papeete |
-
-Papeete
+Cour d'appel de PapeetePapeete |
 
 |
 
@@ -368,9 +352,9 @@ Ressort de la cour d'appel de Rennes.
 
 |
 
-Cour d'appel de Riom |
+Cour d'appel de RiomClermont |
 
-Clermont-Ferrand
+-Ferrand
 
 |
 
@@ -378,9 +362,7 @@ Ressort de la cour d'appel de Riom.
 
 |
 
-Cour d'appel de Rouen |
-
-Rouen
+Cour d'appel de RouenRouen |
 
 |
 
@@ -400,9 +382,7 @@ Ressort de la cour d'appel de Saint-Denis.
 
 |
 
-Cour d'appel de Toulouse |
-
-Toulouse
+Cour d'appel de ToulouseToulouse |
 
 |
 
@@ -433,3 +413,7 @@ Saint-Pierre
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 |
+
+NOTA :
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.

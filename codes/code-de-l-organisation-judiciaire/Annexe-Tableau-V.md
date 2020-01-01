@@ -1,6 +1,6 @@
 # Article Annexe Tableau V
 
-Siège et ressort des tribunaux de grande instance compétents pour connaître des actions
+Siège et ressort des tribunaux judiciaires compétents pour connaître des actions
 
 en matière d'obtentions végétales (annexe de l'article D. 211-5)
 
@@ -131,3 +131,7 @@ Toulouse
 Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 
 |
+
+NOTA :
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.

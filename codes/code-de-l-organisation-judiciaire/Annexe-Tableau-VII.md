@@ -1,6 +1,6 @@
 # Article Annexe Tableau VII
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite international d'enfants (annexe de l'article D. 211-9)
+Siège et ressort des tribunaux judiciaires et des tribunaux de première instance compétents pour connaître des actions engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite international d'enfants (annexe de l'article D. 211-9)
 
 SIÈGE
 
@@ -453,3 +453,7 @@ Saint-Pierre
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 |
+
+NOTA :
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.

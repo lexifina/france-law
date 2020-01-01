@@ -1,6 +1,6 @@
 # Article Annexe Tableau VI
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques
+Siège et ressort des tribunaux judiciaires et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques
 
 (annexe de l'article D. 211-6-1)
 
@@ -89,7 +89,3 @@ Fort-de-France.
 |
 
 Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. |
-
-NOTA :
-
-Conformément au décret n° 2010-1369 du 12 novembre 2010, article 3, le tribunal de grande instance de Nancy demeure compétent pour statuer sur les procédures du ressort de la cour d'appel de Colmar introduites antérieurement à la date d'entrée en vigueur dudit décret.
