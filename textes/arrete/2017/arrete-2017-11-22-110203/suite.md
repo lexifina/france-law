@@ -502,7 +502,7 @@ Le montant des paris remboursés et des enjeux résultant de l'application des d
 
 Pour l'ensemble des dispositions suivantes et sauf stipulation contraire, le terme “ enjeux ”, quand il est appliqué à des combinaisons payables, s'entend des enjeux payables nets de déduction proportionnelle sur enjeux.
 
-La valeur nette du coefficient de réservation défini à l'article 20 est égale à 0,8. Dans la suite de cet article, on entend par coefficient de réservation la valeur brute de ce coefficient.
+La valeur nette du coefficient de réservation défini à l'article 20 est égale à 0,6. Dans la suite de cet article, on entend par coefficient de réservation la valeur brute de ce coefficient.
 
 I. - Proportion minimum des rapports “ Quinté Plus ”
 
@@ -564,17 +564,15 @@ b) Si le montant de l'excédent à répartir est négatif, la fraction de la mas
 
 c) Si l'opération citée ci-avant ne permet pas d'obtenir un excédent à répartir égal à zéro et que l'excédent à répartir ainsi obtenu est inférieur ou égal en valeur absolue au montant total de la déduction proportionnelle sur enjeux, celle-ci est réduite à due proportion pour que l'excédent à répartir soit égal à zéro.
 
-Si ce montant est négatif et supérieur en valeur absolue au montant total de la déduction proportionnelle sur enjeux, les calculs de répartition se font conformément aux dispositions prévues au b de l'article 94.
+Si ce montant est négatif et supérieur en valeur absolue au montant total de la déduction proportionnelle sur enjeux, les calculs de répartition se font conformément aux dispositions prévues au b de l'article 94. d) Si le montant de l'excédent à répartir est supérieur ou égal à zéro :
 
-d) Si le montant de l'excédent à répartir est supérieur ou égal à zéro :
+-8 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Ordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Ordre ” ;
 
-- 11,50 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Ordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Ordre ” ;
+-45,50 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Désordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Désordre ” ;
 
-- 47,10 % de cet excédent à répartir, appelés excédent à répartir “ Quinté Plus Désordre ”, sont affectés au calcul du ou des rapports incrémentaux “ Quinté Plus Désordre ” ;
+-15 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 4 ”, sont affectés au calcul du rapport incrémental “ Bonus 4 ” ;
 
-- 14,30 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 4 ”, sont affectés au calcul du rapport incrémental “ Bonus 4 ” ;
-
-- 27,10 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 3 ”, sont affectés au calcul du rapport incrémental “ Bonus 3 ”.
+-31,50 % de cet excédent à répartir, appelés excédent à répartir “ Bonus 3 ”, sont affectés au calcul du rapport incrémental “ Bonus 3 ”.
 
 III. - Calcul des rapports bruts communs avant application de l'article 97 dans le cas d'une arrivée normale
 
@@ -775,6 +773,8 @@ j) Les formules "champ partiel d'un cheval" englobent l'ensemble des paris "Quin
 Si cette sélection comporte P chevaux, le "champ partiel d'un cheval" englobe 5 x P x (P ‑ 1) x (P - 2) x (P ‑ 3) paris "Quinté Plus", en formule dans tous les ordres à cent vingt permutations, et P x (P ‑ 1) x (P ‑ 2) x (P ‑ 3) paris "Quinté Plus", en formule simplifiée. Dans ce dernier cas, le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base de sa formule, mais n'a pas à classer les chevaux de sa sélection dans un ordre relatif, chaque combinaison de cinq chevaux comportant en effet les vingt-quatre permutations des chevaux autres que le cheval de base dans les vingt-quatre ordres possibles.
 
 k) Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par le programme officiel de l’hippodrome et la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
+
+l) Une formule “ champ libre ” englobe l'ensemble des (P × P'× P''× P'''× P'''') combinaisons unitaires “ Quinté Plus ” dans un ordre relatif stipulé, combinant P chevaux à la première place, P'chevaux à la seconde place, P''à la troisième place, P'''à la quatrième place et P''''à la cinquième place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
 
 Article 99
 
@@ -1072,6 +1072,8 @@ combinaisons unitaires.
 
 j) Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par le programme officiel de l’hippodrome et la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
 
+k) Une formule “ champ libre ” englobe l'ensemble des (P × P'× P''× P'''× P'''') combinaisons unitaires dans un ordre relatif stipulé, combinant P chevaux à la première place, P'chevaux à la seconde place, P''à la troisième place, P'''à la quatrième place et P''''à la cinquième place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
+
 Article 106
 
 Cas particuliers
@@ -1308,6 +1310,8 @@ Si la sélection comporte P chevaux, le "champ partiel d’un cheval" englobe 3 
 
 f) Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par le programme officiel de l’hippodrome et la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
 
+g) Une formule “ champ libre ” englobe l'ensemble des (P × P'× P'') combinaisons unitaires “ Trio Ordre ” dans un ordre relatif stipulé, combinant P chevaux à la première place, P'chevaux à la seconde place et P''à la troisième place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
+
 Article 118
 
 Cas particuliers
@@ -1441,6 +1445,8 @@ h) Les formules "champ partiel d'un cheval" englobent l'ensemble des paris combi
 Si cette sélection comporte P chevaux, le "champ partiel d'un cheval" englobe 4 x P x (P‑1) x (P‑2) combinaisons unitaires, en formule dans tous les ordres à vingt-quatre permutations et P x (P‑1) x (P‑2) combinaisons unitaires, en formule simplifiée. Dans ce dernier cas, le parieur doit préciser en outre la place à l'arrivée devant être occupée par le cheval de base de sa formule, mais n'a pas à classer les chevaux de sa sélection selon un ordre relatif, chaque combinaison de quatre chevaux comportant en effet les six permutations des chevaux autres que le cheval de base dans les six ordres possibles.
 
 i) Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par le programme officiel de l’hippodrome et la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
+
+j) Une formule “ champ libre ” englobe l'ensemble des (P × P'× P''× P''') combinaisons unitaires dans un ordre relatif stipulé, combinant chevaux à la première place, P'chevaux à la seconde place, P''à la troisième place et P'''à la quatrième place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
 
 Article 124
 
@@ -2698,6 +2704,10 @@ Pour les formules "champ simplifié" total ou partiel, le parieur doit préciser
 
 Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
 
+3. Les formules “ champ libre ”.
+
+Une formule “ champ libre ” englobe l'ensemble des (P × P') combinaisons unitaires “ Couplé Ordre International ” dans un ordre relatif stipulé, combinant P chevaux à la première place et P'chevaux à la seconde place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
+
 Article 158
 
 Cas particuliers
@@ -2823,6 +2833,8 @@ e) Les formules "champ partiel d’un cheval" englobent l’ensemble des paris "
 Si la sélection comporte P chevaux, le "champ partiel d’un cheval" englobe 3 x P x (P - 1) permutations des chevaux désignés en formule dans tous les ordres et P x (P -1) permutations des chevaux désignés en formule simplifiée. Dans ce dernier cas, le parieur doit préciser la place à l’arrivée devant être occupée par le cheval de base de sa formule, mais n’a pas à classer les chevaux de sa sélection selon un ordre relatif, chaque combinaison de trois chevaux comportant en effet les deux permutations des chevaux autres que le cheval de base dans les deux ordres possibles.
 
 f) Les valeurs des formules "champ total" sont déterminées en fonction du nombre de chevaux déclarés partants par la liste officielle des partants du groupement, compte tenu, le cas échéant, des chevaux déclarés non-partants au moment de l’enregistrement du pari.
+
+g) Une formule “ champ libre ” englobe l'ensemble des (P × P'× P'') combinaisons unitaires “ Trio Ordre International ” dans un ordre relatif stipulé, combinant P chevaux à la première place, P'chevaux à la seconde place et P''à la troisième place, à l'exception de celles comportant plus d'une fois un même numéro de cheval.
 
 Article 165
 
@@ -3168,71 +3180,71 @@ Le groupement ne peut être tenu pour responsable pour les dommages subis par le
 
 CHAPITRE 7
 
-Paris par message texte (SMS)
+Paris par message texte (SMS) ou par messagerie instantanée
 
 Article 193
 
-Un service de prise de paris par message texte peut être proposé par le groupement.
+Un service de prise de paris par message texte ou par messagerie instantanée peut être proposé par le groupement.
 
-Les paris par messages texte (sms) ne peuvent être enregistrés qu’en compte courant ouvert auprès du groupement.
+Les paris par messages texte (SMS) ou par messagerie instantanée ne peuvent être enregistrés qu'en compte courant ouvert auprès du groupement.
 
-Un parieur déjà en compte peut accéder au service de prise de paris par messages texte. L’enregistrement du premier pari par message texte par le parieur en compte emporte acceptation des conditions de fonctionnement de ce service prévues au présent chapitre, conformément aux dispositions du premier alinéa de l’article 3.
+Un parieur déjà en compte peut accéder au service de prise de paris par messages texte ou par messagerie instantanée. L'enregistrement du premier pari par message texte ou par messagerie instantanée par le parieur en compte emporte acceptation des conditions de fonctionnement de ce service prévues au présent chapitre, conformément aux dispositions du premier alinéa de l'article 3.
 
-Les autres parieurs intéressés font une demande d’ouverture de compte courant auprès du groupement, selon les modalités définies au chapitre 4 du présent titre. Pour pouvoir bénéficier de ce service, le formulaire spécial d'ouverture de compte mentionné à l’article 176 doit impérativement préciser le numéro de téléphone portable du parieur en compte à partir duquel il souhaite enregistrer ses paris.
+Les autres parieurs intéressés font une demande d'ouverture de compte courant auprès du groupement, selon les modalités définies au chapitre 4 du présent titre. Pour pouvoir bénéficier de ce service, le formulaire spécial d'ouverture de compte mentionné à l'article 176 doit impérativement préciser le numéro de téléphone portable du parieur en compte à partir duquel il souhaite enregistrer ses paris.
 
 Les parieurs intéressés autorisent le groupement, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, à utiliser et à transmettre leur numéro de téléphone portable à ses sous-traitants et partenaires pour les besoins de l'enregistrement de leurs paris.
 
-Le montant minimum et maximum à engager et les types de paris proposés par message texte sont portés à la connaissance du parieur. Toute modification ultérieure du montant d’enjeu minimum ou maximum ainsi que toute modification de type de pari proposé sont notifiées par écrit au parieur en compte.
+Le montant minimum et maximum à engager et les types de paris proposés par message texte, ainsi que le montant maximum à engager et les types de paris proposés par messagerie instantanée sont portés à la connaissance du parieur. Toute modification ultérieure du montant d'enjeu minimum ou maximum ainsi que toute modification de type de pari proposé sont notifiées par écrit au parieur en compte.
 
 Article 194
 
-Modalités d’enregistrement des paris
+Modalités d'enregistrement des paris
 
-Un message texte ne peut comporter qu’un pari.
+Un message texte ou un message instantané ne peut comporter qu'un pari.
 
-Pour les paris "Simple" et "Couplé" visés respectivement aux chapitres 1 et 3 du titre II et pour les paris "Simple International" et "Couplé International" visés respectivement aux chapitres 2 et 3 du titre IV, un message texte peut comporter les tableaux "Gagnant" et "Placé".
+Pour les paris “ Simple ” et “ Couplé ” visés respectivement aux chapitres 1 et 3 du titre II et pour les paris “ Simple International ” et “ Couplé International ” visés respectivement aux chapitres 2 et 3 du titre IV, un message texte ou un message instantané peut comporter les tableaux “ Gagnant ” et “ Placé ”.
 
-Le parieur en compte transmet son ordre de pari par message texte au groupement au numéro de téléphone dédié au service de prise de paris par message texte, qui l’enregistre et lui envoie un message texte de confirmation d’enregistrement pour chacun des paris et tableaux visés ci-avant.
+Le parieur en compte transmet son ordre de pari par message texte ou par messagerie instantanée au groupement au numéro de téléphone dédié au service de prise de paris par message texte ou par messagerie instantanée, qui l'enregistre et lui envoie un message texte de confirmation d'enregistrement selon le cas, soit par message texte, soit par messagerie instantanée pour chacun des paris et tableaux visés ci-avant.
 
 Les paris sont exécutés dans l'ordre où ils sont reçus par le groupement, sous réserve que le compte présente un solde créditeur suffisant pour permettre l'exécution du pari. Aucun pari n'est accepté sous condition de réussite d'un pari précédent.
 
-Le groupement ne peut être tenu pour responsable d’un pari qui n'aurait pu être engagé par suite d'un éventuel désaccord sur ce solde créditeur ou d'un retard à déterminer les causes de ce désaccord.
+Le groupement ne peut être tenu pour responsable d'un pari qui n'aurait pu être engagé par suite d'un éventuel désaccord sur ce solde créditeur ou d'un retard à déterminer les causes de ce désaccord.
 
-Le parieur en compte doit composer son pari conformément au guide qui lui est communiqué par le groupement, consultable sur le site Internet ou l’application mobile du groupement dédiés à la gestion de son compte, en indiquant en fonction du type de pari, le cas échéant :
+Le parieur en compte doit composer son pari conformément au guide qui lui est communiqué par le groupement, consultable sur le site internet ou l'application mobile du groupement dédiés à la gestion de son compte, en indiquant en fonction du type de pari, le cas échéant :
 
-- la réunion sur laquelle il désire engager un pari ;
+-la réunion sur laquelle il désire engager un pari ;
 
-- le numéro de la course ;
+-le numéro de la course ;
 
-- le type de pari et la formule ;
+-le type de pari et la formule ;
 
-- les numéros des chevaux composant son pari, conformément au numérotage de la liste officielle du groupement ;
+-les numéros des chevaux composant son pari, conformément au numérotage de la liste officielle du groupement ;
 
-- le montant de son pari.
+-le montant de son pari.
 
-La confirmation de l'enregistrement du pari est adressée par le groupement au parieur en compte par message (s) texte. Elle comporte la reformulation du pari transmis par le parieur aux normes d'enregistrement des paris par message texte, le montant qui sera porté au débit de son compte, le numéro de référence du pari ainsi que son nouveau solde pour parier.
+La confirmation de l'enregistrement du pari est adressée par le groupement au parieur en compte selon le cas, soit par message (s) texte, soit par message instantané par message (s) texte. Elle comporte la reformulation du pari transmis par le parieur aux normes d'enregistrement des paris par message texte, le montant qui sera porté au débit de son compte, le numéro de référence du pari ainsi que son nouveau solde pour parier.
 
-Le parieur en compte peut annuler son pari en adressant au numéro de téléphone dédié au service de prise de paris par message texte, un message texte comportant la mention : "ANNULER" et le numéro de référence du pari.
+Le parieur en compte peut annuler son pari en adressant au numéro de téléphone dédié au service de prise de paris, par message texte ou par messagerie instantanée, un message texte comportant la mention : “ ANNULER ” et le numéro de référence du pari.
 
-Sauf annulation de la part du parieur en compte dans les conditions prévues à l’article 14 et selon les modalités définies à l’alinéa précédent, le pari est définitivement enregistré et réputé conforme aux ordres du parieur en compte.
+Sauf annulation de la part du parieur en compte dans les conditions prévues à l'article 14 et selon les modalités définies à l'alinéa précédent, le pari est définitivement enregistré et réputé conforme aux ordres du parieur en compte.
 
-En cas de non réception de ce message texte de confirmation et à tout moment, le parieur en compte peut obtenir le détail des opérations effectuées sur son compte en se connectant sur le site internet ou l’application mobile du groupement dédiés à la gestion de son compte. Il appartient au parieur en compte de s’assurer de la conformité des opérations à ses ordres.
+En cas de non-réception de ce message texte de confirmation et à tout moment, le parieur en compte peut obtenir le détail des opérations effectuées sur son compte en se connectant sur le site internet ou l'application mobile du groupement dédiés à la gestion de son compte. Il appartient au parieur en compte de s'assurer de la conformité des opérations à ses ordres.
 
-Les paris par message texte sont enregistrés sous la responsabilité exclusive du parieur en compte. Seuls les messages textes parvenus au groupement comprenant les ordres tels qu'ils ont été enregistrés par le groupement, puis exécutés, font foi.
+Les paris par message texte ou par messagerie instantanée sont enregistrés sous la responsabilité exclusive du parieur en compte. Seuls les messages texte ou les messages instantanés parvenus au groupement comprenant les ordres tels qu'ils ont été enregistrés par le groupement, puis exécutés font foi.
 
-Le groupement peut suspendre l’accès du parieur en compte au service de prise de paris par message texte en cas d’utilisation non conforme de ce service, notamment en cas de réception de messages texte dont le contenu est incompréhensible.
+Le groupement peut suspendre l'accès du parieur en compte au service de prise de paris par message texte ou par messagerie instantanée en cas d'utilisation non conforme de ce service, notamment en cas de réception de messages dont le contenu est incompréhensible.
 
-L’utilisation de ce service emporte la connaissance et l'acceptation des caractéristiques et des limites des réseaux de téléphonie mobile et le groupement ne peut être tenu pour responsable dans le cas où un parieur en compte ne peut parvenir à lui envoyer un message texte en raison d’un problème technique, notamment, du fait de la saturation du réseau.
+L'utilisation de ce service emporte la connaissance et l'acceptation des caractéristiques et des limites des réseaux de téléphonie mobile et le groupement ne peut être tenu pour responsable dans le cas où un parieur en compte ne peut parvenir à lui envoyer un message texte ou un message instantané en raison d'un problème technique, notamment, du fait de la saturation ou de l'indisponibilité du réseau.
 
-Seules les caractéristiques enregistrées sur support magnétique avec scellement de données sur le système informatique central du groupement fonctionnant en temps réel, font foi, y compris en cas :
+Seules les caractéristiques enregistrées sur support magnétique avec scellement de données sur le système informatique central du groupement fonctionnant en temps réel font foi, y compris en cas :
 
-- de distorsion, pour quelque cause que ce soit, entre les caractéristiques du pari et celles figurant sur le message texte de confirmation ;
+-de distorsion, pour quelque cause que ce soit, entre les caractéristiques du pari et celles figurant sur le message texte ou le message instantané de confirmation ;
 
-- de contestation par le parieur en compte de l'enregistrement, par le groupement, du pari qu'il n'aurait pas, selon lui, communiqué ;
+-de contestation par le parieur en compte de l'enregistrement, par le groupement, du pari qu'il n'aurait pas, selon lui, communiqué ;
 
-- de revendication par le parieur en compte d'un pari non enregistré.
+-de revendication par le parieur en compte d'un pari non enregistré.
 
-Le groupement ne peut être tenu pour responsable de ces distorsions sauf au parieur à, d'une part, justifier, d'un préjudice causé par l’une de ces distorsions et, d'autre part, prouver que la distorsion alléguée résulte de la responsabilité fautive et exclusive du groupement.
+Le groupement ne peut être tenu pour responsable de ces distorsions sauf au parieur à, d'une part, justifier, d'un préjudice causé par l'une de ces distorsions et, d'autre part, prouver que la distorsion alléguée résulte de la responsabilité fautive et exclusive du groupement.
 
 La preuve testimoniale n'est pas admise.
 
@@ -3240,39 +3252,39 @@ Article 195
 
 Changement de numéro de téléphone portable
 
-Le parieur en compte est tenu, soit de signaler au groupement tout changement du numéro de téléphone portable à partir duquel il souhaite enregistrer ses paris, soit de modifier, le cas échéant, ce numéro en se connectant sur le site Internet ou l’application mobile du groupement dédiés à la gestion de son compte. A défaut, les messages texte comportant un pari adressé par un parieur en compte depuis un téléphone portable dont le numéro de téléphone n’est pas enregistré à cette fin par le groupement ne sont pas pris en compte Dans ce cas, le groupement ne peut être tenu pour responsable.
+Le parieur en compte est tenu soit de signaler au groupement tout changement du numéro de téléphone portable à partir duquel il souhaite enregistrer ses paris, soit de modifier, le cas échéant, ce numéro en se connectant sur le site internet ou l'application mobile du groupement dédiés à la gestion de son compte. A défaut, les messages texte ou les messages instantanés comportant un pari adressé par un parieur en compte depuis un téléphone portable dont le numéro de téléphone n'est pas enregistré à cette fin par le groupement ne sont pas pris en compte. Dans ce cas, le groupement ne peut être tenu pour responsable.
 
 Article 196
 
-Opposition - Perte de téléphone portable
+Opposition-Perte de téléphone portable
 
-Seules sont recevables les oppositions formulées par téléphone auprès du service client du groupement et expressément motivées par la perte ou le vol du téléphone portable déclaré pour l’utilisation au service de prise de paris par message texte.
+Seules sont recevables les oppositions formulées par téléphone auprès du service client du groupement et expressément motivées par la perte ou le vol du téléphone portable déclaré pour l'utilisation au service de prise de paris par message texte ou par messagerie instantanée.
 
-Le parieur en compte doit former opposition dans les meilleurs délais auprès du service client du groupement. L’accès au service de prise de paris par messages texte est alors interrompu.
+Le parieur en compte doit former opposition dans les meilleurs délais auprès du service client du groupement. L'accès au service de prise de paris par messages texte ou par messagerie instantanée est alors interrompu.
 
-Dans le cas où cette mise en opposition a été faite par erreur, le parieur en compte peut faire débloquer l’accès à ce service sous réserve qu’aucune utilisation frauduleuse n’ait été déclarée.
+Dans le cas où cette mise en opposition a été faite par erreur, le parieur en compte peut faire débloquer l'accès à ce service sous réserve qu'aucune utilisation frauduleuse n'ait été déclarée.
 
 Le groupement ne peut être tenu pour responsable des conséquences d'une opposition par téléphone qui n'émanerait pas du parieur en compte.
 
-Le parieur en compte supporte toutes les pertes occasionnées par des opérations non autorisées si elles résultent d’un agissement frauduleux de sa part ou s’il n’a pas satisfait intentionnellement ou par négligence grave aux obligations suivantes :
+Le parieur en compte supporte toutes les pertes occasionnées par des opérations non autorisées si elles résultent d'un agissement frauduleux de sa part ou s'il n'a pas satisfait intentionnellement ou par négligence grave aux obligations suivantes :
 
-- Prendre toutes mesures raisonnables pour préserver la sécurité du téléphone portable dont le numéro d’appel a été déclaré pour accéder au service de prise de paris par message texte ;
+-Prendre toutes mesures raisonnables pour préserver la sécurité du téléphone portable dont le numéro d'appel a été déclaré pour accéder au service de prise de paris par message texte ou par messagerie instantanée ;
 
-- Former une opposition sans tarder dès la connaissance de la perte, du vol, du détournement ou de toute utilisation non autorisée de ce téléphone portable.
+-Former une opposition sans tarder dès la connaissance de la perte, du vol, du détournement ou de toute utilisation non autorisée de ce téléphone portable.
 
 Article 197
 
-Désinscription du service de prise de paris par message texte
+Désinscription du service de prise de paris par message texte ou par messagerie instantanée
 
-A tout moment, un parieur en compte peut se désinscrire du service de prise de paris par message texte en envoyant au numéro de téléphone dédié à ce service un message texte comportant la mention : "STOP", ou en adressant une demande au service client du groupement ou en se connectant sur le site internet ou l’application mobile du groupement dédiés à la gestion de son compte.
+A tout moment, un parieur en compte peut se désinscrire du service de prise de paris par message texte ou par messagerie instantanée en envoyant au numéro de téléphone dédié à ce service un message texte ou un message instantané comportant la mention : “ STOP ”, ou en adressant une demande au service client du groupement ou en se connectant sur le site internet ou l'application mobile du groupement dédiés à la gestion de son compte. Cette désinscription s'applique au service de prise de paris par message texte et par messagerie instantanée.
 
 Article 198
 
 Restrictions légales. Interdiction
 
-Lorsqu'il engage un pari par message texte à partir d'un pays étranger, le parieur en compte vérifie que l’engagement de paris hippiques sous forme mutuelle par message texte n'est pas soumis à des restrictions légales ou interdit dans ce pays.
+Lorsqu'il engage un pari par message texte ou par message instantané à partir d'un pays étranger, le parieur en compte vérifie que l'engagement de paris hippiques sous forme mutuelle par message texte ou par message instantané n'est pas soumis à des restrictions légales ou interdit dans ce pays.
 
-Il s'assure de la légalité de ses agissements. Le groupement n’est en aucun cas redevable d’une obligation d'information préalable envers les parieurs quant à la légalité de leurs agissements.
+Il s'assure de la légalité de ses agissements. Le groupement n'est en aucun cas redevable d'une obligation d'information préalable envers les parieurs quant à la légalité de leurs agissements.
 
 Le groupement ne peut être tenu pour responsable pour les dommages subis par le parieur en compte pour le non-respect d'une restriction légale ou d'une interdiction applicable dans le pays dans lequel il se trouve.
 
@@ -3917,3 +3929,7 @@ Au-delà de 50
 25
 
 |
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 27 décembre 2019, les dispositions de l'article 2 du présent arrêté entrent en vigueur le 1er janvier 2020, celles de l'article 3 entrent en vigueur le 5 février 2020.
