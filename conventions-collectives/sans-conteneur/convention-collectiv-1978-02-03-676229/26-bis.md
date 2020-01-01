@@ -80,7 +80,7 @@ Par ayants droit, il convient d'entendre :
 
 Le conjoint du salarié. Ce vocable étant utilisé pour désigner :
 
--l'époux (se) du salarié, non divorcé (e) ou non-séparé (e) de corps judiciairement à la date de l'événement donnant lieu à prestation ;
+-l'époux (se) du salarié, non divorcé(e) ou non-séparé(e) de corps judiciairement à la date de l'événement donnant lieu à prestation ;
 
 -le partenaire lié par un Pacs : la personne ayant conclu avec le salarié un pacte civil de solidarité dans les conditions fixées par les articles 515-1 à 515-7-1 du code civil ;
 
@@ -98,27 +98,27 @@ Les enfants du salarié. Ce vocable étant utilisé pour désigner les enfants d
 
 -quel que soit leur âge si l'enfant est reconnu handicapé par la commission des droits et de l'autonomie des personnes handicapées (CDAPH).
 
-III.-Prestations garanties du régime frais de santé de branche
+III.- Prestations garanties du régime frais de santé de branche
 
 (1)
 
-Les prestations du niveau de garantie dénommé « base obligatoire » détaillées ci-après doivent bénéficier a minima, acte par acte, à chaque salarié bénéficiaire.
+Les prestations du niveau de garantie dénommé “ base obligatoire ” détaillées ci-après doivent bénéficier a minima, acte par acte, à chaque salarié bénéficiaire.
 
-Au-delà des garanties de la base obligatoire couvrant le seul salarié, les laboratoires de biologie médicale extrahospitaliers doivent améliorer les prestations garanties de la base obligatoire en souscrivant à un niveau de garantie supérieur dénommé « option ».
+Au-delà des garanties de la base obligatoire couvrant le seul salarié, les laboratoires de biologie médicale extra-hospitaliers doivent améliorer les prestations garanties de la base obligatoire en souscrivant à un niveau de garantie supérieur dénommé “ option ”.
 
 Les prestations garanties de l'option sont détaillées ci-après.
 
-Cette option a été définie par les partenaires sociaux et bénéficie de conditions tarifaires privilégiées dans la mesure où elles ont été négociées avec l'organisme assureur recommandé visé ci-après au J).
+Cette option a été définie par les partenaires sociaux et bénéficie de conditions tarifaires privilégiées dans la mesure où elles ont été négociées avec l'organisme assureur recommandé visé ci-après au j).
 
-Les laboratoires de biologie médicale extrahospitaliers devront y souscrire :
+Les laboratoires de biologie médicale extra-hospitaliers devront y souscrire :
 
-– soit dans le cadre d'une adhésion collective facultative ; dans ce cas, la cotisation s'y rapportant est la charge exclusive du salarié ;
+– soit dans le cadre d'une adhésion collective facultative. Dans ce cas, la cotisation s'y rapportant est la charge exclusive du salarié ;
 
-– soit dans le cadre d'une adhésion collective obligatoire. Dans ce dernier cas, les laboratoires devront satisfaire aux conditions pour bénéficier de l'exonération sociale plafonnée sur le financement patronal et notamment formaliser l'existence d'un acte juridique instituant le régime selon l'un des modes visés à l'article L. 911-1 du code de la sécurité sociale (décision unilatérale de l'employeur écrite remise contre récépissé aux salariés bénéficiaires ou référendum ou accord collectif d'entreprise).
+– soit dans le cadre d'une adhésion collective obligatoire. Dans ce dernier cas, les laboratoires devront satisfaire aux conditions pour bénéficier de l'exonération sociale plafonnée sur le financement patronal et notamment formaliser l'existence d'un acte juridique instituant le régime selon l'un des modes visés à L. 911-1 du code de la sécurité sociale (décision unilatérale de l'employeur écrite remise contre récépissé aux salariés bénéficiaires ou référendum ou accord collectif d'entreprise).
 
-(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
 
-http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0036/ boc _ 20180036 _ 0000 _ 0002. pdf
+https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2019/0045/ boc _ 20190045 _ 0000 _ 0007. pdf
 
 IV.-Cotisations et répartition
 
@@ -128,7 +128,7 @@ Les cotisations sont exprimées en pourcentage du plafond mensuel de la sécurit
 
 A titre d'information, pour l'année 2017, les cotisations TTC servant au financement du régime sont fixées et réparties comme suit :
 
-(Tableaux non reproduits, consultables en le ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en le ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
 
 http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2016/0047/ boc _ 20160047 _ 0000 _ 0003. pdf
 
@@ -222,7 +222,7 @@ Par ailleurs dans l'éventualité où l'ancien salarié ne souhaite pas bénéfi
 
 À titre informatif, les cotisations proposées par l'organisme recommandé ci-après au J pour les anciens salariés et bénéficiaires sont les suivantes :
 
-(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
 
 http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0036/ boc _ 20180036 _ 0000 _ 0002. pdf
 
@@ -272,10 +272,12 @@ Conformément à l'article R. 912-1 du code de la sécurité sociale, la part de
 
 NOTE : le présent article prend effet au 8 septembre 2016 pour les employeurs adhérents à l'une des fédérations patronales signataires de l'avenant du 8 juillet 2016 BO 2016/47 et au 1er janvier 2017 pour les employeurs non adhérents à l'une des fédérations patronales signataires.
 
-(1) Le titre III est étendu sous réserve du respect des dispositions de l'article L. 911-7 du code de la sécurité sociale.
+(1) Le III est étendu sous réserve du respect des modalités de prise en charge des frais exposés pour l'acquisition d'un équipement optique, prévues à l'article R. 871-2 du code de la sécurité sociale, précisées par l'arrêté du 3 décembre 2018 portant modification des modalités de prise en charge de dispositifs médicaux et prestations associées pour la prise en charge d'optique médicale au chapitre 2 du titre II de la liste prévue à l'article L. 165-1 (LPP) du code de la sécurité sociale.
 
-(Arrêté du 2 août 2019 - art. 1)
+(Arrêté du 20 mai 2020 - art. 1)
 
-(2) Article étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4, 9 et 15 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques.
+(2)
+
+Article étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4,9 et 15 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques.
 
 (Arrêté du 28 avril 2017 - art. 1)
