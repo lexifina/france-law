@@ -1,737 +1,215 @@
 # Article Annexe
 
-TITRE Ier
+ANNEXE 1
 
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉDUCATION NATIONALE ET DE LA JEUNESSE
+
+1. Décisions administratives individuelles prises par le ministre chargé de l'éducation nationale et de la jeunesse conjointement avec un ou plusieurs ministres
+
+Code de l'éducation
+
+1 |
+
+Inscription sur la liste des établissements scolaires français à l'étranger (décision prise conjointement avec les ministres chargés des affaires étrangères et de la coopération). |
+
+Article R. 451-2 |
+
+Décret n° 2002-509 du 8 avril 2002 concernant les contrôles prévus par l' article L. 227-9 du code de l'action sociale et des familles
+
+1 |
+
+Habilitation des fonctionnaires du ministère chargé de la jeunesse et des sports à constater par procès-verbal et à rechercher les infractions prévues à l'article L. 227-8 du code de l'action sociale et des familles (décision prise conjointement avec le ministre chargé des sports). |
+
+Article 1er |
+
+2. Décisions administratives individuelles prises par le ministre chargé de l'éducation nationale et de la jeunesse
+
+EDUCATION NATIONALE ET JEUNESSE
+
+Protocole du 9 février 1968 relatif aux échanges entre la France et le Québec en matière d'éducation physique, de sports et d'éducation populaire
+
+1 |
+
+Décision de nomination du secrétaire général de l'office franco-québécois pour la jeunesse. |
+
+Article 11 |
+
+Code de l'éducation
+
+1 |
+
+Nomination des médiateurs académiques. |
+
+Article D. 222-40 |
+
+2 |
+
+Délivrance du diplôme professionnel “ un des meilleurs ouvriers de France ”.
+
+Délivrance du titre de “ un des meilleurs ouvriers de France ” honoris causa. |
+
+Article R. * 338-10 |
+
+3 |
+
+Agrément des associations éducatives complémentaires de l'enseignement public à caractère national. |
+
+Article D. 551-5 |
+
+Décret n° 69-942 du 14 octobre 1969 relatif aux caractéristiques et aux modalités d'attribution de la médaille de la jeunesse, des sports et de l'engagement associatif
+
+1 |
+
+Décision d'attribution des médailles d'or et d'argent de la jeunesse, des sports et de l'engagement associatif. |
+
+Articles 5 et 6 |
+
+2 |
+
+Décision d'attribution des médailles, quel que soit l'échelon, concernant les ressortissants étrangers, les Français résidant à l'étranger, les candidats qui ne remplissent pas les conditions réglementaires et qui sont proposés à titre exceptionnel. |
+
+Article 5 |
+
+3 |
+
+Décision de retrait de la médaille de la jeunesse, des sports et de l'engagement associatif. |
+
+Article 6 |
+
+Arrêté du 3 novembre 1986 définissant le concours général des lycées
+
+1 |
+
+Décisions d'attribution des récompenses du concours général. |
+
+Article 3 (point 9) |
+
+Arrêté du 6 janvier 1995 définissant le concours général des métiers
+
+1 |
+
+Décisions d'attribution des récompenses du concours général des métiers. |
+
+Article 3 (point 8) |
+
+Arrêté du 15 juillet 2015 relatif aux brevets d'aptitude aux fonctions d'animateur et de directeur en accueils collectifs de mineurs
+
+1 |
+
+Décision d'octroi à un organisme de formation de l'habilitation nationale lui permettant d'organiser l'intégralité des sessions de formation conduisant à la délivrance du brevet d'aptitude aux fonctions d'animateur et, le cas échéant, du brevet d'aptitude aux fonctions de directeur en accueils collectifs de mineurs. |
+
+Article 3 |
+
+DIVERS
+
+1 |
+
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services de l'administration centrale du ministère chargé de l'éducation nationale et de la jeunesse et, pour celles portant sur un montant égal ou supérieur à 50 000 €, des services déconcentrés de ce ministère. |
+
+|
+
+2 |
+
+Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services de l'administration centrale du ministère chargé de l'éducation nationale et de la jeunesse et, pour celles portant sur un montant égal ou supérieur à 50 000 €, des services déconcentrés de ce ministère. |
+
+|
+
+ANNEXE 2
+
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE
+
+1. Décisions administratives individuelles prises par le ministre chargé de l'enseignement supérieur et de la recherche conjointement avec un ou plusieurs ministres
 
 Néant.
 
-TITRE II
-
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE
-
-DE L'ÉDUCATION NATIONALE, DE LA RECHERCHE ET DE LA TECHNOLOGIE
-
-1. Décisions administratives individuelles prises par le ministre de l'éducation nationale, de la recherche et de la technologie conjointement avec un ou plusieurs ministres
-
-ENSEIGNEMENT SCOLAIRE
-
-Décret n° 67-138 du 22 février 1967 modifié portant institution du diplôme d'Etat d'éducateur spécialisé
-
-1
-
-|
-
-Agrément des écoles habilitées à dispenser la formation d'éducateur spécialisé (décision prise conjointement avec les ministres chargés de la jeunesse et des sports, de la justice et des affaires sociales).
-
-|
-
-3e alinéa de l'article 2.
-
-|
-
-Décret n° 70-240 du 9 mars 1970 modifié portant institution du certificat d'aptitude aux fonctions de moniteur-éducateur
-
-1
-
-|
-
-Agrément des écoles habilitées à dispenser la formation de moniteur-éducateur (décision prise conjointement avec les ministres chargés de la jeunesse et des sports, de la justice et des affaires sociales).
-
-|
-
-Article 5.
-
-|
-
-Décret n° 76-47 du 12 janvier 1976 modifié portant institution du certificat d'aptitude aux fonctions d'éducateur technique spécialisé
-
-1
-
-|
-
-Agrément des centres habilités à dispenser la formation d'éducateur technique spécialisé (décision prise conjointement avec les ministres chargés de la justice et des affaires sociales).
-
-|
-
-Article 3.
-
-|
-
-Décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires français à l'étranger
-
-1
-
-|
-
-Inscription sur la liste des établissements scolaires français à l'étranger (décision prise conjointement avec les ministres chargés des affaires étrangères et de la coopération).
-
-|
-
-Premier alinéa de l'article 2.
-
-|
-
-Décret n° 92-276 du 26 mars 1992 relatif aux groupements d'intérêt public définis dans l'article 19 de la loi n° 89-486 du 10 juillet 1989 modifiée d'orientation sur l'éducation
-
-1
-
-|
-
-Approbation de la convention constitutive des groupements d'intérêt public définis à l'article 19 de la loi d'orientation sur l'éducation et dont les attributions ou les activités ne s'exercent pas au plan national (décision prise conjointement avec le ministre chargé du budget).
-
-|
-
-Articles 3 et 5.
-
-|
-
-2
-
-|
-
-Nomination des agents comptables des mêmes groupements d'intérêt public (décision prise conjointement avec le ministre chargé du budget).
-
-|
-
-Article 16.
-
-|
-
-ENSEIGNEMENT SUPÉRIEUR
-
-Décret n° 85-605 du 13 juin 1985 relatif aux groupements d'intérêt public constitués en application de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur
-
-1
-
-|
-
-Approbation de la convention constitutive des groupements d'intérêt public comprenant des établissements publics à caractère scientifique, culturel et professionnel et dont les attributions ou les activités ne s'exercent pas au plan national (décision prise conjointement avec le ministre chargé du budget et, le cas échéant, les autres ministres).
-
-|
-
-Articles 3 et 5.
-
-|
-
-2
-
-|
-
-Nomination des agents comptables des mêmes groupements d'intérêt public (décision prise conjointement avec le ministre chargé du budget).
-
-|
-
-Article 8.
-
-|
-
-RECHERCHE
-
-Décret n° 83-204 du 15 mars 1983 relatif aux groupements d'intérêt public définis dans l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France
-
-1
-
-|
-
-Approbation du contrat constitutif des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national (décision prise conjointement avec le ministre chargé du budget).
-
-|
-
-Articles 1er et 2.
-
-|
-
-Décret n° 93-773 du 27 mars 1993 pris pour l'application de l'article 6 de la loi n° 92-654 du 13 juillet 1992
-
-1
-
-|
-
-Agrément pour l'utilisation d'organismes génétiquement modifiés, après avis de la Commission de génie génétique (décision prise conjointement avec le ministre chargé de l'environnement).
-
-|
-
-Article 1er.
-
-|
-
-2. Décisions administratives individuelles prises par le ministre de l'éducation nationale, de la recherche et de la technologie
-
-Décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en application de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
-
-|
-
-Autorisation d'opération spatiale.
-
-|
-
-|
-
-|
-
-Suspension ou retrait d'autorisation d'opération spatiale.
-
-|
-
-|
-
-ENSEIGNEMENT SCOLAIRE
-
-Décret n° 67-138 du 22 février 1967 modifié portant institution du diplôme d'Etat d'éducateur spécialisé
-
-1
-
-|
-
-Fixation de la liste des établissements publics d'enseignement habilités à dispenser la formation d'éducateur spécialisé.
-
-|
-
-3e alinéa de l'article 2.
-
-|
-
-Décret n° 76-47 du 12 janvier 1976 modifié portant institution du certificat d'aptitude aux fonctions d'éducateur technique spécialisé
-
-1
-
-|
-
-Fixation de la liste des établissements publics d'enseignement habilités à dispenser la formation d'éducateur technique spécialisé.
-
-|
-
-Article 3.
-
-|
-
-Décret n° 87-347 du 21 mai 1987 relatif à la création et aux conditions de délivrance des diplômes des métiers d'art
-
-1
-
-|
-
-Habilitation d'établissements scolaires à assurer les formations conduisant aux diplômes des métiers d'art.
-
-|
-
-Article 3.
-
-|
-
-Décret n° 92-276 du 26 mars 1992 relatif aux groupements d'intérêt public définis dans l'article 19 de la loi n° 89-486 du 10 juillet 1989 modifiée d'orientation sur l'éducation
-
-1
-
-|
-
-Nomination des directeurs et commissaires du Gouvernement des groupements d'intérêt public définis dans l'article 19 de la loi d'orientation sur l'éducation et dont les attributions ou les activités ne s'exercent pas au plan national.
-
-|
-
-Articles 13 et 14.
-
-|
-
-Décret n° 92-1200 du 6 novembre 1992 relatif aux relations du ministère chargé de l'éducation nationale avec les associations qui prolongent l'action de l'enseignement public
-
-1
-
-|
-
-Agrément des associations éducatives complémentaires de l'enseignement public à caractère national.
-
-|
-
-Articles 4 et 5.
-
-|
-
-Arrêté du 3 novembre 1986 modifié relatif au concours général des lycées
-
-1
-
-|
-
-Décisions d'attribution des récompenses du concours général.
-
-|
-
-Article 3 (10).
-
-|
-
-Arrêté du 6 janvier 1995 modifié relatif au concours général des métiers
-
-1
-
-|
-
-Décisions d'attribution des récompenses du concours général des métiers.
-
-|
-
-Article 3 (8).
-
-|
-
-Arrêté du 13 octobre 1995 portant création du diplôme de compétence en langue
-
-1
-
-|
-
-Jusqu'au 31 décembre 1998, agrément des centres d'examen pour l'accès au diplôme de compétence en langue délivré au titre de la formation continue.
-
-|
-
-Article 4.
-
-|
-
-1
-
-|
-
-Décisions de règlement amiable des demandes en indemnités mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence des services extérieurs et portant sur un montant égal ou supérieur à 50 000 F.
-
-|
-
-|
-
-Code de l'éducation
-
-1
-
-|
-
-Délivrance du diplôme professionnel "un des meilleurs ouvriers de France".
-
-Délivrance du titre de "un des meilleurs ouvriers de France" honoris causa.
-
-|
-
-Article R. * 338-10.
-
-|
+2. Décisions administratives individuelles prises par le ministre chargé de l'enseignement supérieur et de la recherche
 
 ENSEIGNEMENT SUPÉRIEUR
 
 Code de l'éducation
 
-1
+1 |
 
-|
-
-Désignation des personnalités en fonction des activités qu'elles exercent dans les domaines de l'éducation, des affaires sociales et de la culture siégeant au conseil d'administration du Centre national des œuvres universitaires et scolaires.
-
-|
-
-Article R. 822-4 du code de l'éducation
-
-|
-
-Code de la sécurité sociale
-
-1
-
-|
-
-Habilitation des mutuelles ou sections de mutuelles d'étudiants à assurer le service des prestations d'assurance maladie-maternité des étudiants.
-
-|
-
-Aticle R. 381-29.
-
-|
-
-Décret n° 72-1025 du 8 novembre 1972 modifié relatif au titre de maître ès sciences médicales
-
-1
-
-|
-
-Décisions d'attribution du titre de maître ès sciences médicales.
-
-|
-
-Article 1er.
-
-|
-
-Décret n° 78-1111 du 22 novembre 1978 relatif aux concours généraux ouverts entre les étudiants des unités d'enseignement et de recherche de sciences juridiques, économiques et de gestion des universités
-
-1
-
-|
-
-Décisions relatives à l'inscription des candidats, au choix des sujets et à l'attribution des prix et mentions honorables aux lauréats.
-
-|
-
-Articles 1er, 2, 7 et 10.
-
-|
-
-Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du code de la santé publique
-
-1
-
-|
-
-Jusqu'au 31 décembre 1998, dispenses de la première année d'études médicales pour les étudiants ayant accompli avec succès une première année d'études médicales à l'étranger et figurant en rang utile sur la liste de classement établie à l'issue des épreuves de fin de 1re année d'études médicales en France.
-
-|
-
-Articles 3 (1°) et 10.
-
-|
-
-2
-
-|
-
-Jusqu'au 31 décembre 1998, dispenses partielles d'études médicales pour les étudiants justifiant de plusieurs années d'études médicales accomplies à l'étranger ou d'un diplôme de médecin délivré à l'étranger.
-
-|
-
-Article 3 (2°) et 10.
-
-|
-
-3
-
-|
-
-Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'acquisition du diplôme d'Etat de docteur en chirurgie dentaire, pour les étudiants justifiant d'une ou plusieurs années d'études médicales ou odontologiques accomplies à l'étranger ou d'un diplôme de chirurgien-dentiste délivré à l'étranger.
-
-|
-
-Articles 4 et 10.
-
-|
-
-4
-
-|
-
-Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de sage-femme, pour les personnes titulaires d'un diplôme étranger de sage-femme.
-
-|
-
-Articles 9 et 10.
-
-|
-
-5
-
-|
-
-Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention médecine, en diplôme d'Etat de docteur en médecine.
-
-|
-
-Articles 6 et 10.
-
-|
-
-6
-
-|
-
-Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention chirurgie dentaire, en diplôme d'Etat de docteur en chirurgie dentaire.
-
-|
-
-Articles 7 et 10.
-
-|
+Désignation des personnalités en fonction des activités qu'elles exercent dans les domaines de l'éducation, des affaires sociales et de la culture siégeant au conseil d'administration du Centre national des œuvres universitaires et scolaires. |
 
-Décret n° 85-605 du 13 juin 1985 relatif aux groupements d'intérêt public constitués en application de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur
+Article R. 822-4 |
 
-1
+1 |
 
-|
-
-Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public comprenant des établissements publics à caractère scientifique, culturel et professionnel et dont les attributions ou les activités ne s'exercent pas au plan national.
-
-|
-
-Article 6.
-
-|
-
-Décret n° 89-684 du 18 septembre 1989 portant création du diplôme d'Etat de psychologie scolaire
-
-1
-
-|
-
-Agrément des cycles de formation au diplôme d'Etat de psychologie scolaire organisés dans le cadre des instituts universitaires de formation des maîtres.
-
-|
-
-Articles 1er et 2.
-
-|
-
-Décret n° 90-255 du 22 mars 1990 fixant la liste des diplômes permettant de faire usage professionnel du titre de psychologue
-
-1
-
-|
-
-Reconnaissance, sur demande individuelle des titulaires, de l'équivalence de diplômes étrangers aux diplômes français permettant l'exercice de la profession de psychologue.
-
-|
-
-3e alinéa de l'article 1er.
-
-|
-
-Décret n° 91-291 du 20 mars 1991 portant création du diplôme d'Etat de conseiller d'orientation-psychologue
-
-1
-
-|
-
-Agrément des établissements habilités à dispenser une formation en vue de la préparation au diplôme d'Etat de conseiller d'orientation-psychologue.
-
-|
-
-Article 2.
-
-|
-
-Arrêté du 4 octobre 1988 relatif à l'obtention du diplôme d'Etat de docteur en pharmacie par les titulaires d'un diplôme étranger de pharmacien ou d'un diplôme d'université de pharmacien
-
-1
-
-|
-
-Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de docteur en pharmacie, pour les étudiants justifiant d'une ou plusieurs années d'études pharmaceutiques accomplies à l'étranger ou d'un diplôme de pharmacien délivré à l'étranger.
-
-|
-
-Article 2.
-
-|
-
-Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations organisées par les instituts universitaires de formation des maîtres
-
-1
-
-|
-
-Agrément des plans de formation des instituts universitaires de formation des maîtres.
-
-|
-
-Article 1er.
-
-|
-
-1
-
-|
-
-Nomination des directeurs et des présidents non élus d'établissement d'enseignement supérieur public en application des textes réglementaires fixant les statuts de ces établissements.
-
-|
-
-|
-
-2
-
-|
-
-Nomination des membres non élus des conseils des établissements d'enseignement supérieur public n'ayant pas le statut d'établissement public national à caractère administratif, en application des textes réglementaires fixant les statuts de ces établissements.
+Nomination des directeurs et des présidents non élus d'établissements publics en application des textes réglementaires fixant les statuts de ces établissements. |
 
 |
 
-|
-
-3
-
-|
-
-Nomination des personnalités appelées à siéger dans les organes délibérants des grands établissements d'enseignement supérieur et des établissements publics nationaux à caractère administratif sans mission d'enseignement, en application des textes réglementaires fixant les statuts de ces établissements.
-
-|
-
-|
-
-4
-
-|
+2 |
 
-Décisions administratives individuelles relatives aux concours ou examens nationaux des grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, à l'exclusion de l'inscription des candidats aux concours, en application des textes réglementaires fixant les statuts de ces écoles.
+Nomination des membres non élus des conseils des établissements publics n'ayant pas le statut d'établissement public national à caractère administratif, en application des textes réglementaires fixant les statuts de ces établissements. |
 
 |
 
-|
-
-5
-
-|
-
-Jusqu'au 31 décembre 1998, inscription des candidats aux concours d'accès aux grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, en application des textes réglementaires fixant les statuts de ces écoles.
-
-|
-
-|
+3 |
 
-Décret n° 2011-995 du 23 août 2011 relatif au diplôme supérieur d'arts appliqués
+Nomination des personnalités appelées à siéger dans les organes délibérants des grands établissements d'enseignement supérieur et des établissements publics nationaux à caractère administratif sans mission d'enseignement, en application des textes réglementaires fixant les statuts de ces établissements. |
 
-1
-
 |
 
-Autorisation d'ouverture des formations conduisant aux diplômes supérieurs d'arts appliqués.
-
-|
+4 |
 
-Article 3
+Décisions administratives individuelles relatives aux concours ou examens nationaux des grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, à l'exclusion de l'inscription des candidats aux concours, en application des textes réglementaires fixant les statuts de ces écoles. |
 
 |
 
 RECHERCHE
 
-Décret n° 71-742 du 6 septembre 1971 et décret n° 74-899 du 17 octobre 1974 relatifs à l'attribution du titre de docteur honoris causa
+Code de l'environnement
 
-1
+1 |
 
-|
+Agrément pour l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement. |
 
-Attribution du titre de docteur honoris causa.
-
-|
-
-Article 3 (décret de 1971).
-
-Article 1er (décret de 1974).
-
-|
-
-Décret n° 83-204 du 15 mars 1983 relatif aux groupements d'intérêt public définis dans l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France
-
-1
-
-|
-
-Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national.
-
-|
-
-Article 3.
-
-|
-
-Décret n° 85-402 du 3 avril 1985 modifié relatif aux allocations de recherche et arrêté du 8 septembre 1997 relatif aux bourses d'information scientifique et technique des allocataires de recherche
-
-1
-
-|
-
-Décisions d'attribution d'allocations de recherche et de bourses d'information scientifique et technique.
-
-|
-
-Article 7 du décret.
-
-Articles 1er et 2 de l'arrêté.
-
-|
-
-Décisions intéressant l'enseignement scolaire, l'enseignement supérieur et la recherche
-
-Code des marchés publics
-
-1
-
-|
-
-Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics.
-
-|
-
-Article 42.
-
-|
+Article R. 532-5 |
 
 Code rural et de la pêche maritime
 
-1
+1 |
 
-|
+Agrément des comités d'éthique en expérimentation animale. |
 
-Autorisation d'exécution de projets utilisant des animaux vivants à des fins scientifiques
+Article R. 214-117 |
 
-|
+2 |
 
-Article R. 214-122
+Autorisation d'exécution de projets utilisant des animaux vivants à des fins scientifiques. |
 
-|
+Article R. 214-122 |
 
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
-
-1
-
-|
-
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
-
-|
-
-Article 8.
-
-|
-
-1
-
-|
-
-Décisions de règlement amiable des demandes d'indemnité mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence de l'administration centrale.
-
-|
-
-|
-
-2
-
-|
-
-Décisions à caractère financier prises pour l'exécution des décisions de justice, pour les litiges relevant de la compétence de l'administration centrale.
-
-|
-
-|
-
-3
-
-|
-
-Agrément pris par le ministre chargé de la recherche en vue de l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement.
-
-|
-
-Article R. 532-1 du code de l'environnement
-
-|
-
-Décret n° 2018-367 du 18 mai 2018 relatif au diplôme national des métiers d'art et du design
+Décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en application de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales
 
 1 |
 
-Autorisation d'ouverture des formations conduisant au diplôme national des métiers d'art et du design. |
+Autorisation, suspension ou retrait d'opération spatiale et attribution des licences mentionnées au troisième alinéa de l'article 4 de la loi n° 2008-518 du 3 juin 2008. |
 
-Article R. 642-40 |
+Articles 1er, 8 et 15 |
 
-Décret n° 2018-733 du 22 août 2018 relatif aux formations et diplômes du travail social
+2 |
+
+Dispense de l'obligation prévue au I de l'article 6 de la loi n° 2008-518 du 3 juin 2008 d'être couvert par une assurance ou de disposer d'une des garanties financières. |
+
+Articles 17 et 18 |
+
+3 |
+
+Habilitation des agents à procéder aux contrôles prévus à l'article 4 de la loi n° 2008-518 du 3 juin 2008 et habilitation des agents à rechercher et à constater, par procès-verbal, les infractions prévues au chapitre IV de la loi n° 2008-518 du 3 juin 2008. |
+
+Articles 19 et 20 |
+
+DIVERS
 
 1 |
 
-Autorisation d'ouverture des formations conduisant aux diplômes du travail social conférant le grade de licence. |
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services de l'administration centrale du ministère chargé de l'enseignement supérieur et de la recherche et, pour celles portant sur un montant égal ou supérieur à 50 000 €, des services déconcentrés de ce ministère. |
 
-Article R. 451-28-3 |
+|
+
+2 |
+
+Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services de l'administration centrale du ministère chargé de l'enseignement supérieur et de la recherche et, pour celles portant sur un montant égal ou supérieur à 50 000 €, des services déconcentrés de ce ministère. |
