@@ -1,647 +1,429 @@
 # Article Annexe B
 
-B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ DE L'ÉDUCATION NATIONALE
+ANNEXE B
 
-Désignation des emplois correspondant aux fonctions mentionnées au II de l'article 1er du décret du 26 octobre 2001
+Désignation des emplois correspondant aux fonctions mentionnées au II de l'article 1er du décret du 26 octobre 2001 |
 
-|
-
-Nombre d'emplois
-
-|
-
-Nombre
-
-de points
-
-par emploi
-
-|
-
-1. Recteurs d'académie
-
-|
-
-|
-
-|
-
-Recteur de l'académie d'Aix-Marseille
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Bordeaux
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Corse
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Créteil
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Grenoble
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Guyane
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Lille
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Lyon
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Montpellier
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Nancy-Metz
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Nantes
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie d'Orléans-Tours
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Paris
-
-|
-
-1
-
-|
+Nombre d'emplois |
 
-180
+Nombre de points par emploi |
 
-|
-
-Recteur de l'académie de Rennes
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Recteur de l'académie de Toulouse
-
-|
-
-1
-
-|
+1. Recteurs d'académie |
 
-180
-
-|
-
-Recteur de l'académie de Versailles
-
 |
-
-1
-
-|
-
-180
 
 |
 
-Recteur de l'académie d'Amiens
+Recteur de l'académie d'Aix-Marseille |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Besançon |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Besançon
+Recteur de l'académie de Bordeaux |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Corse |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Caen
+Recteur de l'académie de Créteil |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Grenoble |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Clermont-Ferrand
+Recteur de l'académie de Guyane |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Lille |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Dijon
+Recteur de l'académie de Lyon |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Montpellier |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de la Guadeloupe
+Recteur de l'académie de Nancy-Metz |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Nantes |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Limoges
+Recteur de l'académie de Normandie |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie d'Orléans-Tours |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de la Martinique
+Recteur de l'académie de Paris |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Rennes |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Nice
+Recteur de l'académie de Toulouse |
 
-|
+1 |
 
-1
+180 |
 
-|
+Recteur de l'académie de Versailles |
 
-140
+1 |
 
-|
+180 |
 
-Recteur de l'académie de Poitiers
+Recteur de l'académie d'Amiens |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de Clermont-Ferrand |
 
-140
+1 |
 
-|
+140 |
 
-Recteur de l'académie de Reims
+Recteur de l'académie de Dijon |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de la Guadeloupe |
 
-140
+1 |
 
-|
+140 |
 
-Recteur de l'académie de la Réunion
+Recteur de l'académie de Limoges |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de la Martinique |
 
-140
+1 |
 
-|
+140 |
 
-Recteur de l'académie de Rouen
+Recteur de l'académie de Mayotte |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de Nice |
 
-140
+1 |
 
-|
+140 |
 
-Recteur de l'académie de Strasbourg
+Recteur de l'académie de Poitiers |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de Reims |
 
-140
+1 |
 
-|
+140 |
 
-2. Directeur de l'académie de Paris
+Recteur de l'académie de la Réunion |
 
-|
+1 |
 
-1
+140 |
 
-|
+Recteur de l'académie de Strasbourg |
 
-120
+1 |
 
-|
+140 |
 
-3. Vice-chancelier des universités de Paris
+2. Recteurs délégués |
 
 |
 
-1
-
 |
-
-120
 
-|
+Région Auvergne-Rhône-Alpes |
 
-4. Secrétaire général d'académie en fonctions dans les académies de
+1 |
 
-|
+140 |
 
-|
+Région Grand-Est |
 
-|
+1 |
 
-Créteil, Lille, Versailles, Aix-Marseille, Bordeaux, Grenoble, Lyon, Nantes, Rennes, Toulouse, Montpellier, Orléans-Tours, Nancy-Metz
+140 |
 
-|
+Région Hauts-de-France |
 
-13
+1 |
 
-|
+140 |
 
-110
+Région Ile-de-France |
 
-|
+1 |
 
-Paris, Amiens, Nice, Rouen, Poitiers, Strasbourg, Dijon, Caen, Reims, La Réunion
+140 |
 
-|
+Région Nouvelle-Aquitaine |
 
-10
+1 |
 
-|
+140 |
 
-100
+Région Occitanie |
 
-|
+1 |
 
-Besançon, Clermont-Ferrand, Corse, Guadeloupe, Guyane, Limoges, Martinique, Paris (chancellerie)
+140 |
 
-|
+Région Provence-Alpes-Côte d'Azur |
 
-8
+1 |
 
-|
+140 |
 
-80
+3. Directeur de l'académie de Paris |
 
-|
+1 |
 
-5. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en charge des inspections académiques suivantes
+120 |
 
-|
+4. Secrétaire général de région académique |
 
 |
 
 |
 
-Bouches-du-Rhône, Nord, Pas-de-Calais, Rhône, Seine-Saint-Denis, Yvelines
+Région Ile-de-France |
 
-|
-
-6
+1 |
 
-|
+130 |
 
-110
+Région Auvergne-Rhône-Alpes |
 
-|
+1 |
 
-Alpes-Maritimes, Bas-Rhin, Essonne, Finistère, Gironde, Hauts-de-Seine, Haute-Garonne, Hérault, Ille-et-Vilaine, Isère, Loire-Atlantique, Moselle, Oise, Paris (1er degré), Paris (2e degré), Seine-et-Marne, Seine-Maritime, Val-de-Marne, Val-d'Oise, Var
+120 |
 
-|
+Région Grand-Est |
 
-20
+1 |
 
-|
+120 |
 
-100
+Région Hauts-de-France |
 
-|
+1 |
 
-Ain, Aisne, Calvados, Charente-Maritime, Côtes-d'Armor, Côte-d'Or, Doubs, Drôme, Eure, Eure-et-Loir, Gard, Haute-Savoie, Haut-Rhin, Indre-et-Loire, Loire, Loiret, Maine-et-Loire, Manche, Marne, Meurthe-et-Moselle, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Pyrénées-Orientales, Saône-et-Loire, Sarthe, Savoie, Somme, Vaucluse, Vendée, Vienne, Vosges
+120 |
 
-|
+Région Nouvelle-Aquitaine |
 
-32
+1 |
 
-|
+120 |
 
-80
+Région Occitanie |
 
-|
+1 |
 
-Allier, Alpes-de-Haute-Provence, Aube, Aude, Ardèche, Ardennes, Ariège, Aveyron, Cantal, Charente, Cher, Corrèze, Corse-du-Sud, Creuse, Deux-Sèvres, Dordogne, Gers, Hautes-Alpes, Haute-Corse, Haute-Loire, Haute-Marne, Hautes-Pyrénées, Haute-Saône, Haute-Vienne, Indre, Jura, Landes, Loir-et-Cher, Lot, Lot-et-Garonne, Lozère, Mayenne, Meuse, Nièvre, Orne, Tarn, Tarn-et-Garonne, Territoire de Belfort, Yonne
+120 |
 
-|
+Région Provence-Alpes-Côte d'Azur |
 
-39
+1 |
 
-|
+120 |
 
-70
+Région académique Bourgogne-Franche-Comté |
 
-|
+1 |
 
-6. Vice-recteur en fonction
+120 |
 
-|
+5. Secrétaire général d'académie en fonctions dans les académies de : |
 
 |
 
 |
 
-En Nouvelle-Calédonie
-
-|
+Créteil, Lille, Versailles, Aix-Marseille, Bordeaux, Grenoble, Lyon, Nantes, Rennes, Toulouse, Montpellier, Orléans-Tours, Nancy-Metz, Normandie |
 
-1
+14 |
 
-|
+110 |
 
-100
+Paris, Amiens, Nice, Poitiers, Strasbourg, Dijon, Reims, La Réunion |
 
-|
+8 |
 
-En Polynésie française
+100 |
 
-|
+Besançon, Clermont-Ferrand, Corse, Guadeloupe, Guyane, Limoges, Martinique, Paris (chancellerie), Mayotte |
 
-1
+9 |
 
-|
+80 |
 
-100
+6. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en charge des inspections académiques suivantes : |
 
 |
 
-A Mayotte
-
 |
 
-1
+Bouches-du-Rhône, Nord, Pas-de-Calais, Rhône, Seine-Saint-Denis, Yvelines |
 
-|
+6 |
 
-100
+110 |
 
-|
+Alpes-Maritimes, Bas-Rhin, Essonne, Finistère, Gironde, Hauts-de-Seine, Haute-Garonne, Hérault, Ille-et-Vilaine, Isère, Loire-Atlantique, Moselle, Oise, Paris (1er degré), Paris (2e degré), Seine-et-Marne, Seine-Maritime, Val-de-Marne, Val-d'Oise, Var |
 
-A Wallis-et-Futna
+20 |
 
-|
+100 |
 
-1
+Ain, Aisne, Calvados, Charente-Maritime, Côtes-d'Armor, Côte-d'Or, Doubs, Drôme, Eure, Eure-et-Loir, Gard, Haute-Savoie, Haut-Rhin, Indre-et-Loire, Loire, Loiret, Maine-et-Loire, Manche, Marne, Meurthe-et-Moselle, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Pyrénées-Orientales, Saône-et-Loire, Sarthe, Savoie, Somme, Vaucluse, Vendée, Vienne, Vosges |
 
-|
+32 |
 
-70
+80 |
 
-|
+Allier, Alpes-de-Haute-Provence, Aube, Aude, Ardèche, Ardennes, Ariège, Aveyron, Cantal, Charente, Cher, Corrèze, Corse-du-Sud, Creuse, Deux-Sèvres, Dordogne, Gers, Hautes-Alpes, Haute-Corse, Haute-Loire, Haute-Marne, Hautes-Pyrénées, Haute-Saône, Haute-Vienne, Indre, Jura, Landes, Loir-et-Cher, Lot, Lot-et-Garonne, Lozère, Mayenne, Meuse, Nièvre, Orne, Tarn, Tarn-et-Garonne, Territoire de Belfort, Yonne |
 
-7. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants
+39 |
 
-|
+70 |
 
-|
+7. Vice-recteur en fonction : |
 
 |
 
-Réunion
-
 |
 
-1
+En Nouvelle-Calédonie |
 
-|
+1 |
 
-80
+100 |
 
-|
+En Polynésie française |
 
-Guadeloupe
+1 |
 
-|
+100 |
 
-1
+A Wallis-et-Futna |
 
-|
+1 |
 
-70
+70 |
 
-|
+A Saint-Barthélemy et Saint-Martin |
 
-Guyane
+1 |
 
-|
+70 |
 
-1
+8. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants : |
 
 |
-
-70
 
 |
 
-Martinique
+Réunion |
 
-|
+1 |
 
-1
+80 |
 
-|
+Guadeloupe |
 
-70
+1 |
 
-|
+70 |
 
-Mayotte
+Guyane |
 
-|
+1 |
 
-1
+70 |
 
-|
+Martinique |
 
-70
+1 |
 
-|
+70 |
 
-8. Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles
+Mayotte |
 
-|
+1 |
 
-1
+70 |
 
-|
+9. Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles |
 
-80
+1 |
 
-|
+80 |
