@@ -138,7 +138,7 @@ Président et procureur de la République : Saint-Pierre-et-Miquelon
 
 100 |
 
-Tribunaux de grande instance et tribunaux de première instance
+Tribunaux judiciaires et tribunaux de première instance
 
 Désignation de l'emploi |
 
@@ -152,37 +152,37 @@ de points
 
 par emploi |
 
-Président, procureur de la République, procureur de la République financier, procureur de la République antiterroriste : tribunal de grande instance de Paris |
+Président, procureur de la République, procureur de la République financier, procureur de la République antiterroriste : tribunal judiciaire de Paris |
 
 4 |
 
 160 |
 
-Président et procureur de la République : tribunaux de grande instance de Bobigny, Lyon, Marseille et Nanterre |
+Président et procureur de la République : tribunaux judiciaires de Bobigny, Lyon, Marseille et Nanterre |
 
 8 |
 
 140 |
 
-Président et procureur de la République : tribunaux de grande instance de Bordeaux, Créteil, Evry, Lille, Pontoise, Toulouse et Versailles |
+Président et procureur de la République : tribunaux judiciaires de Bordeaux, Créteil, Evry, Lille, Pontoise, Toulouse et Versailles |
 
 14 |
 
 120 |
 
-Président et procureur de la République : tribunaux de grande instance d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Chartres, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Mamoudzou, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Reims, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes |
+Président et procureur de la République : tribunaux judiciaires d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Chartres, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Mamoudzou, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Reims, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes |
 
 90 |
 
 100 |
 
-Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Épinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne |
+Président et procureur de la République : tribunaux judiciaires et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Épinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne |
 
 110 |
 
 80 |
 
-Magistrat chargé d'un secrétariat général : tribunal de grande instance de Paris |
+Magistrat chargé d'un secrétariat général : tribunal judiciaire de Paris |
 
 4 |
 
@@ -235,3 +235,7 @@ Inspecteur général, chef de l'inspection générale de la justice |
 1 |
 
 140 |
+
+NOTA :
+
+Conformément aux dispositions de l'article 2 de l'arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
