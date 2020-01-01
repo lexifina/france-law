@@ -1,9 +1,7 @@
 # Article Annexe I
 
-Annexe I
+Annexe 1 : Base
 
-Régime de base
+(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective, pages 96 et 97.)
 
-(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
-
-http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0048/boc_20150048_0000_0028.pdf
+https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2020/0025/boc_20200025_0000_0018.pdf
