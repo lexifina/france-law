@@ -20,11 +20,11 @@ Agence française de développement |
 
 Direction générale |
 
-Agence française pour la biodiversité
+Office français de la biodiversité
 
 |
 
-Présidence du conseil d'administration
+Direction générale
 
 |
 
@@ -34,9 +34,7 @@ Direction générale
 
 |
 
-Agence de l'environnement et de la maîtrise de l'énergie
-
-|
+Agence de l'environnement et de la maîtrise de l'énergie |
 
 Présidence du conseil d'administration |
 
@@ -64,7 +62,7 @@ Autorité des normes comptables |
 
 Présidence |
 
-Autorité de régulation des activités férroviaires et routières |
+Autorité de régulation des activités ferroviaires et routières |
 
 Présidence |
 
