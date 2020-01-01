@@ -10,7 +10,7 @@ I.-Fonctions exercées à l'administration centrale (ministères chargés de l'�
 
 II.-Fonctions exercées dans les services déconcentrés :
 
--fonctions d'encadrement administratif exercées dans les rectorats d'académie, inspections académiques et au service interacadémique des examens et concours des académies de Créteil, Paris et Versailles ;
+-fonctions d'encadrement administratif exercées dans les rectorats, directions académiques des services de l'éducation nationale et au service interacadémique des examens et concours des académies de Créteil, Paris et Versailles ;
 
 -fonctions de responsabilité ou de secrétariat dans le secteur de prévention et de promotion de la santé en faveur des élèves et des personnels ;
 
