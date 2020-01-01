@@ -1,161 +1,33 @@
 # Article Annexe Tableau XI
 
-SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
+SIÈGE ET RESSORT DES GREFFES DÉTACHÉS IMPLANTÉS HORS DU SIÈGE D'UNE CHAMBRE DE PROXIMITÉ
 
-(annexe des articles D. 212-17-2 et D. 222-7)
+(annexe de l'article D. 212-17-2)
 
-TRIBUNAL
+TRIBUNAL JUDICIAIRE |
 
-de grande instance
+CHAMBRE
 
-|
+DE PROXIMITE |
 
-TRIBUNAL
+SIEGE
 
-d'instance
+DU GREFFE
 
-|
+DÉTACHÉ |
 
-SIÈGE DU GREFFE
+RESSORT DU GREFFE DÉTACHÉ |
 
-détaché
+Cour d'appel de Saint-Denis |
 
-|
-
-RESSORT DU GREFFE
-
-détaché
+Mamoudzou |
 
 |
 
-Cour d'appel d'Agen
+Sada |
 
-|
+Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada |
 
-Agen
+NOTA :
 
-|
-
-|
-
-Marmande
-
-|
-
-Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins
-
-|
-
-Cour d'appel de Basse-Terre
-
-|
-
-Basse-Terre |
-
-|
-
-Saint-Martin |
-
-Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. |
-
-Cour d'appel de Besançon
-
-|
-
-Lons-le-Saunier
-
-|
-
-|
-
-Dôle
-
-|
-
-Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay.
-
-|
-
-Cour d'appel de Cayenne
-
-|
-
-Cayenne
-
-|
-
-|
-
-Saint-Laurent-du-Maroni
-
-|
-
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
-
-|
-
-|
-
-Cayenne
-
-|
-
-Saint-Laurent-du-Maroni
-
-|
-
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
-
-|
-
-Cour d'appel de Montpellier
-
-|
-
-Rodez
-
-|
-
-Millau
-
-|
-
-Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou
-
-|
-
-Cour d'appel de Rennes
-
-|
-
-St-Brieuc
-
-|
-
-|
-
-Guingamp
-
-|
-
-Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier
-
-|
-
-Cour d'appel de Saint-Denis
-
-|
-
-|
-
-Mamoudzou
-
-|
-
-Sada
-
-|
-
-Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
-
-|
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.

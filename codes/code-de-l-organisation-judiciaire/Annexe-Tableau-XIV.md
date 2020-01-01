@@ -22,7 +22,7 @@ Auch
 
 |
 
-Ressort du tribunal de grande instance d'Auch.
+Ressort du tribunal judiciaire d'Auch.
 
 |
 
@@ -34,7 +34,7 @@ Cahors
 
 |
 
-Ressort du tribunal de grande instance de Cahors.
+Ressort du tribunal judiciaire de Cahors.
 
 |
 
@@ -46,7 +46,7 @@ Lot-et-Garonne
 
 |
 
-Ressort du tribunal de grande instance d'Agen. (4)]
+Ressort du tribunal judiciaire d'Agen. (4)]
 
 |
 
@@ -60,7 +60,7 @@ Digne-les-Bains
 
 |
 
-Ressort du tribunal de grande instance de Digne-les-Bains.
+Ressort du tribunal judiciaire de Digne-les-Bains.
 
 |
 
@@ -72,7 +72,7 @@ Grasse
 
 |
 
-Ressort du tribunal de grande instance de Grasse.
+Ressort du tribunal judiciaire de Grasse.
 
 |
 
@@ -80,7 +80,7 @@ Nice
 
 |
 
-Ressort du tribunal de grande instance de Nice.
+Ressort du tribunal judiciaire de Nice.
 
 |
 
@@ -92,7 +92,7 @@ Aix-en-Provence
 
 |
 
-Ressort du tribunal de grande instance d'Aix-en-Provence.
+Ressort du tribunal judiciaire d'Aix-en-Provence.
 
 |
 
@@ -100,7 +100,7 @@ Marseille
 
 |
 
-Ressort du tribunal de grande instance de Marseille.
+Ressort du tribunal judiciaire de Marseille.
 
 |
 
@@ -108,7 +108,7 @@ Tarascon
 
 |
 
-Ressort du tribunal de grande instance de Tarascon.
+Ressort du tribunal judiciaire de Tarascon.
 
 |
 
@@ -120,7 +120,7 @@ Draguignan
 
 |
 
-Ressort du tribunal de grande instance de Draguignan.
+Ressort du tribunal judiciaire de Draguignan.
 
 |
 
@@ -128,7 +128,7 @@ Toulon
 
 |
 
-Ressort du tribunal de grande instance de Toulon.
+Ressort du tribunal judiciaire de Toulon.
 
 |
 
@@ -142,7 +142,7 @@ Laon
 
 |
 
-Ressort du tribunal de grande instance de Laon.
+Ressort du tribunal judiciaire de Laon.
 
 |
 
@@ -150,7 +150,7 @@ Saint-Quentin
 
 |
 
-Ressort du tribunal de grande instance de Saint-Quentin.
+Ressort du tribunal judiciaire de Saint-Quentin.
 
 |
 
@@ -158,7 +158,7 @@ Soissons
 
 |
 
-Ressort du tribunal de grande instance de Soissons.
+Ressort du tribunal judiciaire de Soissons.
 
 |
 
@@ -170,7 +170,7 @@ Beauvais
 
 |
 
-Ressort du tribunal de grande instance de Beauvais.
+Ressort du tribunal judiciaire de Beauvais.
 
 |
 
@@ -178,7 +178,7 @@ Compiègne
 
 |
 
-Ressort du tribunal de grande instance de Compiègne.
+Ressort du tribunal judiciaire de Compiègne.
 
 |
 
@@ -186,7 +186,7 @@ Senlis
 
 |
 
-Ressort du tribunal de grande instance de Senlis.
+Ressort du tribunal judiciaire de Senlis.
 
 |
 
@@ -198,7 +198,7 @@ Somme
 
 |
 
-Ressort du tribunal de grande instance d'Amiens. (4)]
+Ressort du tribunal judiciaire d'Amiens. (4)]
 
 |
 
@@ -212,7 +212,7 @@ Angers
 
 |
 
-Ressort des tribunaux de grande instance d'Angers et de Saumur.
+Ressort des tribunaux judiciaire d'Angers et de Saumur.
 
 |
 
@@ -224,7 +224,7 @@ Laval
 
 |
 
-Ressort du tribunal de grande instance de Laval.
+Ressort du tribunal judiciaire de Laval.
 
 |
 
@@ -236,7 +236,7 @@ Le Mans
 
 |
 
-Ressort du tribunal de grande instance du Mans.
+Ressort du tribunal judiciaire du Mans.
 
 |
 
@@ -250,7 +250,7 @@ Basse-Terre
 
 |
 
-Ressort du tribunal de grande instance de Basse-Terre.
+Ressort du tribunal judiciaire de Basse-Terre.
 
 |
 
@@ -258,7 +258,7 @@ Pointe-à-Pitre
 
 |
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre.
+Ressort du tribunal judiciaire de Pointe-à-Pitre.
 
 |
 
@@ -272,7 +272,7 @@ Ajaccio
 
 |
 
-Ressort du tribunal de grande instance d'Ajaccio.
+Ressort du tribunal judiciaire d'Ajaccio.
 
 |
 
@@ -284,7 +284,7 @@ Bastia
 
 |
 
-Ressort du tribunal de grande instance de Bastia.
+Ressort du tribunal judiciaire de Bastia.
 
 |
 
@@ -298,7 +298,7 @@ Montbéliard
 
 |
 
-Ressort du tribunal de grande instance de Montbéliard.
+Ressort du tribunal judiciaire de Montbéliard.
 
 |
 
@@ -306,7 +306,7 @@ Besançon
 
 |
 
-Ressort du tribunal de grande instance de Besançon.
+Ressort du tribunal judiciaire de Besançon.
 
 |
 
@@ -318,7 +318,7 @@ Haute-Saône
 
 |
 
-Ressort du tribunal de grande instance de Vesoul. (4)]
+Ressort du tribunal judiciaire de Vesoul. (4)]
 
 |
 
@@ -330,7 +330,7 @@ Jura
 
 |
 
-Ressort du tribunal de grande instance de Lons-le-Saunier. (4)]
+Ressort du tribunal judiciaire de Lons-le-Saunier. (4)]
 
 |
 
@@ -342,7 +342,7 @@ Belfort
 
 |
 
-Ressort du tribunal de grande instance de Belfort.
+Ressort du tribunal judiciaire de Belfort.
 
 |
 
@@ -356,7 +356,7 @@ Angoulême
 
 |
 
-Ressort du tribunal de grande instance d'Angoulême.
+Ressort du tribunal judiciaire d'Angoulême.
 
 |
 
@@ -368,7 +368,7 @@ Bergerac
 
 |
 
-Ressort du tribunal de grande instance de Bergerac.
+Ressort du tribunal judiciaire de Bergerac.
 
 |
 
@@ -376,7 +376,7 @@ Périgueux
 
 |
 
-Ressort du tribunal de grande instance de Périgueux.
+Ressort du tribunal judiciaire de Périgueux.
 
 |
 
@@ -388,7 +388,7 @@ Bordeaux
 
 |
 
-Ressort du tribunal de grande instance de Bordeaux.
+Ressort du tribunal judiciaire de Bordeaux.
 
 |
 
@@ -396,7 +396,7 @@ Libourne
 
 |
 
-Ressort du tribunal de grande instance de Libourne.
+Ressort du tribunal judiciaire de Libourne.
 
 |
 
@@ -410,7 +410,7 @@ Bourges
 
 |
 
-Ressort du tribunal de grande instance de Bourges.
+Ressort du tribunal judiciaire de Bourges.
 
 |
 
@@ -422,7 +422,7 @@ Châteauroux
 
 |
 
-Ressort du tribunal de grande instance de Châteauroux.
+Ressort du tribunal judiciaire de Châteauroux.
 
 |
 
@@ -434,7 +434,7 @@ Nevers
 
 |
 
-Ressort du tribunal de grande instance de Nevers.
+Ressort du tribunal judiciaire de Nevers.
 
 |
 
@@ -448,7 +448,7 @@ Caen
 
 |
 
-Ressort des tribunaux de grande instance de Caen et Lisieux.
+Ressort des tribunaux judiciaire de Caen et Lisieux.
 
 |
 
@@ -460,7 +460,7 @@ Cherbourg-en-Cotentin
 
 |
 
-Ressort du tribunal de grande instance de Cherbourg-en-Cotentin.
+Ressort du tribunal judiciaire de Cherbourg-en-Cotentin.
 
 |
 
@@ -468,7 +468,7 @@ Ressort du tribunal de grande instance de Cherbourg-en-Cotentin.
 
 |
 
-Ressort du tribunal de grande instance de Coutances. (4)]
+Ressort du tribunal judiciaire de Coutances. (4)]
 
 |
 
@@ -480,7 +480,7 @@ Alençon
 
 |
 
-Ressort des tribunaux de grande instance d'Alençon et Argentan.
+Ressort des tribunaux judiciaire d'Alençon et Argentan.
 
 |
 
@@ -490,7 +490,7 @@ Cour d'appel de Cayenne (Guyane)
 
 Cayenne |
 
-Ressort du tribunal de grande instance de Cayenne.
+Ressort du tribunal judiciaire de Cayenne.
 
 |
 
@@ -504,7 +504,7 @@ Annecy
 
 |
 
-Ressort du tribunal de grande instance d'Annecy.
+Ressort du tribunal judiciaire d'Annecy.
 
 |
 
@@ -512,7 +512,7 @@ Bonneville
 
 |
 
-Ressort du tribunal de grande instance de Bonneville.
+Ressort du tribunal judiciaire de Bonneville.
 
 |
 
@@ -520,7 +520,7 @@ Thonon-les-Bains
 
 |
 
-Ressort du tribunal de grande instance de Thonon-les-Bains.
+Ressort du tribunal judiciaire de Thonon-les-Bains.
 
 |
 
@@ -532,7 +532,7 @@ Chambéry
 
 |
 
-Ressort des tribunaux de grande instance d'Albertville et Chambéry.
+Ressort des tribunaux judiciaire d'Albertville et Chambéry.
 
 |
 
@@ -546,7 +546,7 @@ Saverne
 
 |
 
-Ressort du tribunal de grande instance de Saverne.
+Ressort du tribunal judiciaire de Saverne.
 
 |
 
@@ -554,7 +554,7 @@ Strasbourg
 
 |
 
-Ressort du tribunal de grande instance de Strasbourg.
+Ressort du tribunal judiciaire de Strasbourg.
 
 |
 
@@ -566,7 +566,7 @@ Colmar
 
 |
 
-Ressort du tribunal de grande instance de Colmar.
+Ressort du tribunal judiciaire de Colmar.
 
 |
 
@@ -574,7 +574,7 @@ Mulhouse
 
 |
 
-Ressort du tribunal de grande instance de Mulhouse.
+Ressort du tribunal judiciaire de Mulhouse.
 
 |
 
@@ -588,7 +588,7 @@ Dijon
 
 |
 
-Ressort du tribunal de grande instance de Dijon.
+Ressort du tribunal judiciaire de Dijon.
 
 |
 
@@ -600,7 +600,7 @@ Chaumont
 
 |
 
-Ressort du tribunal de grande instance de Chaumont.
+Ressort du tribunal judiciaire de Chaumont.
 
 |
 
@@ -612,7 +612,7 @@ Chalon-sur-Saône
 
 |
 
-Ressort du tribunal de grande instance de Chalon-sur-Saône.
+Ressort du tribunal judiciaire de Chalon-sur-Saône.
 
 |
 
@@ -620,7 +620,7 @@ Mâcon
 
 |
 
-Ressort du tribunal de grande instance de Mâcon.
+Ressort du tribunal judiciaire de Mâcon.
 
 |
 
@@ -634,7 +634,7 @@ Avesnes-sur-Helpe
 
 |
 
-Ressort du tribunal de grande instance d'Avesnes-sur-Helpe.
+Ressort du tribunal judiciaire d'Avesnes-sur-Helpe.
 
 |
 
@@ -642,7 +642,7 @@ Cambrai
 
 |
 
-Ressort du tribunal de grande instance de Cambrai.
+Ressort du tribunal judiciaire de Cambrai.
 
 |
 
@@ -650,7 +650,7 @@ Douai
 
 |
 
-Ressort du tribunal de grande instance de Douai.
+Ressort du tribunal judiciaire de Douai.
 
 |
 
@@ -658,7 +658,7 @@ Ressort du tribunal de grande instance de Douai.
 
 |
 
-Ressort du tribunal de grande instance de Dunkerque. (4)]
+Ressort du tribunal judiciaire de Dunkerque. (4)]
 
 |
 
@@ -666,7 +666,7 @@ Lille
 
 |
 
-Ressort du tribunal de grande instance de Lille.
+Ressort du tribunal judiciaire de Lille.
 
 |
 
@@ -674,7 +674,7 @@ Valenciennes
 
 |
 
-Ressort du tribunal de grande instance de Valenciennes.
+Ressort du tribunal judiciaire de Valenciennes.
 
 |
 
@@ -686,7 +686,7 @@ Arras
 
 |
 
-Ressort du tribunal de grande instance d'Arras.
+Ressort du tribunal judiciaire d'Arras.
 
 |
 
@@ -694,7 +694,7 @@ Béthune
 
 |
 
-Ressort du tribunal de grande instance de Béthune.
+Ressort du tribunal judiciaire de Béthune.
 
 |
 
@@ -702,7 +702,7 @@ Boulogne-sur-Mer
 
 |
 
-Ressort du tribunal de grande instance de Boulogne-sur-Mer.
+Ressort du tribunal judiciaire de Boulogne-sur-Mer.
 
 |
 
@@ -710,7 +710,7 @@ Saint-Omer
 
 |
 
-Ressort du tribunal de grande instance de Saint-Omer.
+Ressort du tribunal judiciaire de Saint-Omer.
 
 |
 
@@ -722,7 +722,7 @@ Fort-de-France
 
 |
 
-Ressort du tribunal de grande instance de Fort-de-France.
+Ressort du tribunal judiciaire de Fort-de-France.
 
 |
 
@@ -736,7 +736,7 @@ Valence
 
 |
 
-Ressort du tribunal de grande instance de Valence.
+Ressort du tribunal judiciaire de Valence.
 
 |
 
@@ -748,7 +748,7 @@ Gap
 
 |
 
-Ressort du tribunal de grande instance de Gap.
+Ressort du tribunal judiciaire de Gap.
 
 |
 
@@ -760,7 +760,7 @@ Bourgoin-Jallieu
 
 |
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu.
+Ressort du tribunal judiciaire de Bourgoin-Jallieu.
 
 |
 
@@ -768,7 +768,7 @@ Grenoble
 
 |
 
-Ressort du tribunal de grande instance de Grenoble.
+Ressort du tribunal judiciaire de Grenoble.
 
 |
 
@@ -776,15 +776,7 @@ Vienne
 
 |
 
-Ressort du tribunal de grande instance de Vienne.
-
-|
-
-(Villefontaine
-
-|
-
-Ressort du tribunal de grande instance de Villefontaine. [12])
+Ressort du tribunal judiciaire de Vienne.
 
 |
 
@@ -798,7 +790,7 @@ Brive-la-Gaillarde
 
 |
 
-Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle.
+Ressort des tribunaux judiciaire de Brive-la-Gaillarde et Tulle.
 
 |
 
@@ -810,7 +802,7 @@ Guéret
 
 |
 
-Ressort du tribunal de grande instance de Guéret.
+Ressort du tribunal judiciaire de Guéret.
 
 |
 
@@ -822,7 +814,7 @@ Limoges
 
 |
 
-Ressort du tribunal de grande instance de Limoges.
+Ressort du tribunal judiciaire de Limoges.
 
 |
 
@@ -836,7 +828,7 @@ Ain
 
 |
 
-Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)]
+Ressort du tribunal judiciaire de Bourg-en-Bresse. (4)]
 
 |
 
@@ -848,7 +840,7 @@ Roanne
 
 |
 
-Ressort du tribunal de grande instance de Roanne.
+Ressort du tribunal judiciaire de Roanne.
 
 |
 
@@ -856,7 +848,7 @@ Ressort du tribunal de grande instance de Roanne.
 
 |
 
-Ressort du tribunal de grande instance de Saint-Etienne. (4)]
+Ressort du tribunal judiciaire de Saint-Etienne. (4)]
 
 |
 
@@ -868,7 +860,7 @@ Lyon
 
 |
 
-Ressort du tribunal de grande instance de Lyon.
+Ressort du tribunal judiciaire de Lyon.
 
 |
 
@@ -876,7 +868,7 @@ Villefranche-sur-Saône
 
 |
 
-Ressort du tribunal de grande instance de Villefranche-sur-Saône.
+Ressort du tribunal judiciaire de Villefranche-sur-Saône.
 
 |
 
@@ -890,7 +882,7 @@ Metz
 
 |
 
-Ressort du tribunal de grande instance de Metz.
+Ressort du tribunal judiciaire de Metz.
 
 |
 
@@ -898,7 +890,7 @@ Thionville
 
 |
 
-Ressort du tribunal de grande instance de Thionville.
+Ressort du tribunal judiciaire de Thionville.
 
 |
 
@@ -906,7 +898,7 @@ Sarreguemines
 
 |
 
-Ressort du tribunal de grande instance de Sarreguemines.
+Ressort du tribunal judiciaire de Sarreguemines.
 
 |
 
@@ -920,7 +912,7 @@ Carcassonne
 
 |
 
-Ressort du tribunal de grande instance de Carcassonne.
+Ressort du tribunal judiciaire de Carcassonne.
 
 |
 
@@ -928,7 +920,7 @@ Narbonne
 
 |
 
-Ressort du tribunal de grande instance de Narbonne.
+Ressort du tribunal judiciaire de Narbonne.
 
 |
 
@@ -940,7 +932,7 @@ Aveyron
 
 |
 
-Ressort du tribunal de grande instance de Rodez. (4)]
+Ressort du tribunal judiciaire de Rodez. (4)]
 
 |
 
@@ -952,7 +944,7 @@ Béziers
 
 |
 
-Ressort du tribunal de grande instance de Béziers.
+Ressort du tribunal judiciaire de Béziers.
 
 |
 
@@ -960,7 +952,7 @@ Montpellier
 
 |
 
-Ressort du tribunal de grande instance de Montpellier.
+Ressort du tribunal judiciaire de Montpellier.
 
 |
 
@@ -972,7 +964,7 @@ Perpignan
 
 |
 
-Ressort du tribunal de grande instance de Perpignan.
+Ressort du tribunal judiciaire de Perpignan.
 
 |
 
@@ -986,7 +978,7 @@ Val de Briey
 
 |
 
-Ressort du tribunal de grande instance de Val de Briey.
+Ressort du tribunal judiciaire de Val de Briey.
 
 |
 
@@ -994,7 +986,7 @@ Nancy
 
 |
 
-Ressort du tribunal de grande instance de Nancy.
+Ressort du tribunal judiciaire de Nancy.
 
 |
 
@@ -1006,7 +998,7 @@ Verdun
 
 |
 
-Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
+Ressort des tribunaux judiciaire de Bar-le-Duc et Verdun.
 
 |
 
@@ -1018,7 +1010,7 @@ Vosges
 
 |
 
-Ressort du tribunal de grande instance d'Epinal. (4)]
+Ressort du tribunal judiciaire d'Epinal. (4)]
 
 |
 
@@ -1032,7 +1024,7 @@ Privas
 
 |
 
-Ressort du tribunal de grande instance de Privas.
+Ressort du tribunal judiciaire de Privas.
 
 |
 
@@ -1044,7 +1036,7 @@ Nîmes
 
 |
 
-Ressort des tribunaux de grande instance d'Alès et Nîmes.
+Ressort des tribunaux judiciaire d'Alès et Nîmes.
 
 |
 
@@ -1056,7 +1048,7 @@ Mende
 
 |
 
-Ressort du tribunal de grande instance de Mende.
+Ressort du tribunal judiciaire de Mende.
 
 |
 
@@ -1068,7 +1060,7 @@ Avignon
 
 |
 
-Ressort du tribunal de grande instance d'Avignon.
+Ressort du tribunal judiciaire d'Avignon.
 
 |
 
@@ -1076,7 +1068,7 @@ Carpentras
 
 |
 
-Ressort du tribunal de grande instance de Carpentras.
+Ressort du tribunal judiciaire de Carpentras.
 
 |
 
@@ -1116,7 +1108,7 @@ Tours
 
 |
 
-Ressort du tribunal de grande instance de Tours.
+Ressort du tribunal judiciaire de Tours.
 
 |
 
@@ -1128,7 +1120,7 @@ Montargis
 
 |
 
-Ressort du tribunal de grande instance de Montargis.
+Ressort du tribunal judiciaire de Montargis.
 
 |
 
@@ -1136,7 +1128,7 @@ Orléans
 
 |
 
-Ressort du tribunal de grande instance d'Orléans.
+Ressort du tribunal judiciaire d'Orléans.
 
 |
 
@@ -1148,7 +1140,7 @@ Blois
 
 |
 
-Ressort du tribunal de grande instance de Blois.
+Ressort du tribunal judiciaire de Blois.
 
 |
 
@@ -1172,15 +1164,11 @@ Essonne
 
 |
 
-Evry
+Evry-Courcouronnes
 
 |
 
-Ressort du tribunal de grande instance d'Evry.
-
-|
-
-Paris
+Ressort du tribunal judiciaire d'Evry-Courcouronnes
 
 |
 
@@ -1188,7 +1176,11 @@ Paris
 
 |
 
-Ressort du tribunal de grande instance de Paris.
+Paris
+
+|
+
+Ressort du tribunal judiciaire de Paris.
 
 |
 
@@ -1200,7 +1192,7 @@ Meaux
 
 |
 
-Ressort du tribunal de grande instance de Meaux.
+Ressort du tribunal judiciaire de Meaux.
 
 |
 
@@ -1208,7 +1200,7 @@ Melun
 
 |
 
-Ressort des tribunaux de grande instance de Fontainebleau et Melun.
+Ressort des tribunaux judiciaire de Fontainebleau et Melun.
 
 |
 
@@ -1220,7 +1212,7 @@ Bobigny
 
 |
 
-Ressort du tribunal de grande instance de Bobigny.
+Ressort du tribunal judiciaire de Bobigny.
 
 |
 
@@ -1232,7 +1224,7 @@ Créteil
 
 |
 
-Ressort du tribunal de grande instance de Créteil.
+Ressort du tribunal judiciaire de Créteil.
 
 |
 
@@ -1244,7 +1236,7 @@ Auxerre
 
 |
 
-Ressort des tribunaux de grande instance d'Auxerre et Sens.
+Ressort des tribunaux judiciaire d'Auxerre et Sens.
 
 |
 
@@ -1258,7 +1250,7 @@ Tarbes
 
 |
 
-Ressort du tribunal de grande instance de Tarbes.
+Ressort du tribunal judiciaire de Tarbes.
 
 |
 
@@ -1270,7 +1262,7 @@ Dax
 
 |
 
-Ressort du tribunal de grande instance de Dax.
+Ressort du tribunal judiciaire de Dax.
 
 |
 
@@ -1278,7 +1270,7 @@ Mont-de-Marsan
 
 |
 
-Ressort du tribunal de grande instance de Mont-de-Marsan.
+Ressort du tribunal judiciaire de Mont-de-Marsan.
 
 |
 
@@ -1290,7 +1282,7 @@ Bayonne
 
 |
 
-Ressort du tribunal de grande instance de Bayonne.
+Ressort du tribunal judiciaire de Bayonne.
 
 |
 
@@ -1298,7 +1290,7 @@ Pau
 
 |
 
-Ressort du tribunal de grande instance de Pau.
+Ressort du tribunal judiciaire de Pau.
 
 |
 
@@ -1312,15 +1304,7 @@ Charente-Maritime
 
 |
 
-Ressort des tribunaux de grande instance de La Rochelle et Saintes. (4)]
-
-|
-
-[La Rochelle
-
-|
-
-Ressort du tribunal de grande instance de La Rochelle. (6)]
+Ressort du tribunal judiciaire de La Rochelle. (6)]
 
 |
 
@@ -1328,7 +1312,7 @@ Ressort du tribunal de grande instance de La Rochelle. (6)]
 
 |
 
-Ressort du tribunal de grande instance de Saintes. (6)]
+Ressort du tribunal judiciaire de Saintes. (6)]
 
 |
 
@@ -1340,7 +1324,7 @@ Deux-Sèvres
 
 |
 
-Ressort du tribunal de grande instance de Niort. (4)]
+Ressort du tribunal judiciaire de Niort. (4)]
 
 |
 
@@ -1352,7 +1336,7 @@ La Roche-sur-Yon
 
 |
 
-Ressort des tribunaux de grande instance de La Roche-sur-Yon et Les Sables-d'Olonne.
+Ressort des tribunaux judiciaire de La Roche-sur-Yon et Les Sables-d'Olonne.
 
 |
 
@@ -1364,7 +1348,7 @@ Poitiers
 
 |
 
-Ressort du tribunal de grande instance de Poitiers.
+Ressort du tribunal judiciaire de Poitiers.
 
 |
 
@@ -1378,7 +1362,7 @@ Charleville-Mézières
 
 |
 
-Ressort du tribunal de grande instance de Charleville-Mézières.
+Ressort du tribunal judiciaire de Charleville-Mézières.
 
 |
 
@@ -1390,7 +1374,7 @@ Troyes
 
 |
 
-Ressort du tribunal de grande instance de Troyes.
+Ressort du tribunal judiciaire de Troyes.
 
 |
 
@@ -1402,7 +1386,7 @@ Châlons-en-Champagne
 
 |
 
-Ressort du tribunal de grande instance de Châlons-en-Champagne.
+Ressort du tribunal judiciaire de Châlons-en-Champagne.
 
 |
 
@@ -1410,7 +1394,7 @@ Reims
 
 |
 
-Ressort du tribunal de grande instance de Reims.
+Ressort du tribunal judiciaire de Reims.
 
 |
 
@@ -1424,7 +1408,7 @@ Côtes-d'Armor
 
 |
 
-Ressort du tribunal de grande instance de Saint-Brieuc. (4)]
+Ressort du tribunal judiciaire de Saint-Brieuc. (4)]
 
 |
 
@@ -1436,7 +1420,7 @@ Finistère
 
 |
 
-Ressort du tribunal de grande instance de Brest. (4)]
+Ressort du tribunal judiciaire de Brest. (4)]
 
 |
 
@@ -1444,7 +1428,7 @@ Quimper
 
 |
 
-Ressort du tribunal de grande instance de Quimper.
+Ressort du tribunal judiciaire de Quimper.
 
 |
 
@@ -1456,7 +1440,7 @@ Rennes
 
 |
 
-Ressort du tribunal de grande instance de Rennes.
+Ressort du tribunal judiciaire de Rennes.
 
 |
 
@@ -1464,7 +1448,7 @@ Saint-Malo
 
 |
 
-Ressort du tribunal de grande instance de Saint-Malo.
+Ressort du tribunal judiciaire de Saint-Malo.
 
 |
 
@@ -1476,7 +1460,7 @@ Nantes
 
 |
 
-Ressort du tribunal de grande instance de Nantes.
+Ressort du tribunal judiciaire de Nantes.
 
 |
 
@@ -1484,7 +1468,7 @@ Saint-Nazaire
 
 |
 
-Ressort du tribunal de grande instance de Saint-Nazaire.
+Ressort du tribunal judiciaire de Saint-Nazaire.
 
 |
 
@@ -1496,7 +1480,7 @@ Lorient
 
 |
 
-Ressort du tribunal de grande instance de Lorient.
+Ressort du tribunal judiciaire de Lorient.
 
 |
 
@@ -1504,7 +1488,7 @@ Vannes
 
 |
 
-Ressort du tribunal de grande instance de Vannes.
+Ressort du tribunal judiciaire de Vannes.
 
 |
 
@@ -1518,7 +1502,7 @@ Moulins
 
 |
 
-Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins.
+Ressort des tribunaux judiciaire de Cusset, Montluçon et Moulins.
 
 |
 
@@ -1530,7 +1514,7 @@ Aurillac
 
 |
 
-Ressort du tribunal de grande instance d'Aurillac.
+Ressort du tribunal judiciaire d'Aurillac.
 
 |
 
@@ -1542,7 +1526,7 @@ Le Puy-en-Velay
 
 |
 
-Ressort du tribunal de grande instance du Puy-en-Velay.
+Ressort du tribunal judiciaire du Puy-en-Velay.
 
 |
 
@@ -1554,7 +1538,7 @@ Puy-de-Dôme
 
 |
 
-Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
+Ressort du tribunal judiciaire de Clermont-Ferrand. (4)]
 
 |
 
@@ -1568,7 +1552,7 @@ Eure
 
 |
 
-Ressort du tribunal de grande instance d'Evreux. (4)]
+Ressort du tribunal judiciaire d'Evreux. (4)]
 
 |
 
@@ -1580,7 +1564,7 @@ Dieppe
 
 |
 
-Ressort du tribunal de grande instance de Dieppe.
+Ressort du tribunal judiciaire de Dieppe.
 
 |
 
@@ -1588,7 +1572,7 @@ Le Havre
 
 |
 
-Ressort du tribunal de grande instance du Havre.
+Ressort du tribunal judiciaire du Havre.
 
 |
 
@@ -1596,7 +1580,7 @@ Rouen
 
 |
 
-Ressort du tribunal de grande instance de Rouen.
+Ressort du tribunal judiciaire de Rouen.
 
 |
 
@@ -1610,7 +1594,7 @@ Saint-Denis
 
 |
 
-Ressort du tribunal de grande instance de Saint-Denis.
+Ressort du tribunal judiciaire de Saint-Denis.
 
 |
 
@@ -1618,7 +1602,9 @@ Saint-Pierre
 
 |
 
-Ressort du tribunal de grande instance de Saint-Pierre.
+Ressort du tribunal judiciaire de Saint-Pierre.
+
+|
 
 |
 
@@ -1626,13 +1612,11 @@ Mayotte
 
 |
 
-|
-
 Mamoudzou
 
 |
 
-Ressort du tribunal de grande instance de Mamoudzou
+Ressort du tribunal judiciaire de Mamoudzou
 
 |
 
@@ -1646,7 +1630,7 @@ Foix
 
 |
 
-Ressort du tribunal de grande instance de Foix.
+Ressort du tribunal judiciaire de Foix.
 
 |
 
@@ -1658,7 +1642,7 @@ Toulouse
 
 |
 
-Ressort des tribunaux de grande instance de Saint-Gaudens et de Toulouse.
+Ressort des tribunaux judiciaire de Saint-Gaudens et de Toulouse.
 
 |
 
@@ -1670,7 +1654,7 @@ Albi
 
 |
 
-Ressort du tribunal de grande instance d'Albi.
+Ressort du tribunal judiciaire d'Albi.
 
 |
 
@@ -1678,7 +1662,7 @@ Castres
 
 |
 
-Ressort du tribunal de grande instance de Castres.
+Ressort du tribunal judiciaire de Castres.
 
 |
 
@@ -1690,7 +1674,7 @@ Montauban
 
 |
 
-Ressort du tribunal de grande instance de Montauban.
+Ressort du tribunal judiciaire de Montauban.
 
 |
 
@@ -1704,7 +1688,7 @@ Chartres
 
 |
 
-Ressort du tribunal de grande instance de Chartres.
+Ressort du tribunal judiciaire de Chartres.
 
 |
 
@@ -1716,7 +1700,7 @@ Nanterre
 
 |
 
-Ressort du tribunal de grande instance de Nanterre.
+Ressort du tribunal judiciaire de Nanterre.
 
 |
 
@@ -1728,7 +1712,7 @@ Pontoise
 
 |
 
-Ressort du tribunal de grande instance de Pontoise.
+Ressort du tribunal judiciaire de Pontoise.
 
 |
 
@@ -1740,7 +1724,7 @@ Versailles
 
 |
 
-Ressort du tribunal de grande instance de Versailles.
+Ressort du tribunal judiciaire de Versailles.
 
 |
 
@@ -1754,7 +1738,7 @@ Saint-Pierre
 
 |
 
-Ressort du tribunal de grande instance de Saint-Pierre
+Ressort du tribunal judiciaire de Saint-Pierre
 
 |
 
@@ -1768,4 +1752,4 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 NOTA :
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019..

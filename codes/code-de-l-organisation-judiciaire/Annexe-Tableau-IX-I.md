@@ -1,251 +1,135 @@
 # Article Annexe Tableau IX-I
 
-Siège et ressort des tribunaux d'instance compétents, dans le ressort de certains tribunaux de grande instance, pour connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement personnel (annexe de l'article D. 221-1)
+SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES OU DES CHAMBRES DE PROXIMITÉ DONT LES JUGES DES CONTENTIEUX DE LA PROTECTION SONT SEULS COMPÉTENTS, DANS LE RESSORT DE CERTAINS TRIBUNAUX JUDICIAIRES, POUR CONNAÎTRE DES MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT DES PARTICULIERS ET DES PROCÉDURES DE RÉTABLISSEMENT PERSONNEL
 
-SIÈGE DU TRIBUNAL
+(annexe de l'article R. 213-9-6)
 
-de grande instance
+SIÈGE |
 
-|
+RESSORT |
 
-SIÈGE DU TRIBUNAL d'instance
+TRIBUNAL
 
-|
+JUDICIAIRE |
 
-RESSORT
+CHAMBRE
 
-|
+DE PROXIMITE |
 
-Cour d'appel d'Aix-en-Provence
+Cour d'appel d'Aix-en-Provence |
 
-|
+Alpes-Maritimes |
 
-Alpes-Maritimes
-
-|
-
-Nice
+Nice |
 
 |
 
-Nice
+Ressort du tribunal judiciaire de Nice |
+
+Bouches-du-Rhône |
+
+Aix-en-Provence |
 
 |
 
-Ressort des tribunaux d'instance de Nice et Menton
+Ressort du tribunal judiciaire d'Aix-en-Provence à l'exception du ressort de la chambre de proximité de Martigues |
+
+Marseille |
 
 |
 
-Bouches-du-Rhône
+Ressort du tribunal judiciaire de Marseille |
+
+Cour d'appel d'Angers |
+
+Maine-et-Loire |
+
+Angers |
 
 |
 
-Aix-en-Provence
+Ressort du tribunal judiciaire d'Angers |
+
+Sarthe |
+
+Le Mans |
 
 |
 
-Aix-en-Provence
+Ressort du tribunal judiciaire du Mans |
+
+Cour d'appel de Paris |
+
+Seine-Saint-Denis |
+
+Bobigny |
 
 |
 
-Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence
+Ressort du tribunal judiciaire de Bobigny |
+
+Val-de-Marne |
 
 |
 
-Marseille
+Villejuif |
+
+Ressort du tribunal judiciaire de Créteil |
+
+Cour d'appel de Reims |
+
+Ardennes |
+
+Charleville-Mézières |
 
 |
 
-Marseille
+Ressort du tribunal judiciaire de Charleville-Mézières |
+
+Cour d'appel de Toulouse |
+
+Ariège |
+
+Foix |
 
 |
 
-Ressort des tribunaux d'instance d'Aubagne et Marseille
+Ressort du tribunal judiciaire de Foix |
+
+Tarn-et-Garonne |
+
+Montauban |
 
 |
 
-Cour d'appel d'Angers
+Ressort du tribunal judiciaire de Montauban |
+
+Cour d'appel de Versailles |
+
+Hauts-de-Seine |
 
 |
 
-Maine-et-Loire
+Asnières-sur-Seine |
+
+Ressort du tribunal judiciaire de Nanterre |
+
+Val-d'Oise |
+
+Pontoise |
 
 |
 
-Angers
+Ressort du tribunal judiciaire de Pontoise |
+
+Yvelines |
+
+Versailles |
 
 |
 
-Angers
-
-|
-
-Ressort des tribunaux d'instance d'Angers et Cholet
-
-|
-
-Sarthe
-
-|
-
-Le Mans
-
-|
-
-Le Mans
-
-|
-
-Ressort des tribunaux d'instance de La Flèche et Le Mans
-
-|
-
-Cour d'appel de Paris
-
-|
-
-Seine-Saint-Denis
-
-|
-
-Bobigny
-
-|
-
-Bobigny
-
-|
-
-Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et Saint-Ouen*
-
-|
-
-Val-de-Marne
-
-|
-
-Créteil
-
-|
-
-Villejuif
-
-|
-
-Ressort des tribunaux d'instance de Sucy-en-Brie, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif
-
-|
-
-Cour d'appel de Reims
-
-|
-
-Ardennes
-
-|
-
-Charleville-Mézières
-
-|
-
-Charleville-Mézières
-
-|
-
-Ressort des tribunaux d'instance de Charleville-Mézières et Sedan
-
-|
-
-Cour d'appel de Toulouse
-
-|
-
-Ariège
-
-|
-
-Foix
-
-|
-
-Foix
-
-|
-
-Ressort des tribunaux d'instance de Foix et Saint-Girons
-
-|
-
-Tarn-et-Garonne
-
-|
-
-Montauban
-
-|
-
-Montauban
-
-|
-
-Ressort des tribunaux d'instance de Castelsarrasin et Montauban
-
-|
-
-Cour d'appel de Versailles
-
-|
-
-Hauts-de-Seine
-
-|
-
-Nanterre
-
-|
-
-Asnières-sur-Seine
-
-|
-
-Ressort des tribunaux d'instance d'Antony, Asnières-sur-Seine, Boulogne-Billancourt, Colombes, Courbevoie, Puteaux et Vanves
-
-|
-
-Val-d'Oise
-
-|
-
-Pontoise
-
-|
-
-Pontoise
-
-|
-
-Ressort des tribunaux d'instance de Gonesse, Montmorency, Pontoise et Sannois
-
-|
-
-Yvelines
-
-|
-
-Versailles
-
-|
-
-Versailles
-
-|
-
-Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Versailles
-
-|
-
-* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de Saint-Ouen est désormais dénommée Saint-Ouen-sur-Seine.
+Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la chambre de proximité de Saint-Germain-en-Laye |
 
 NOTA :
 
-Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
